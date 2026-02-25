@@ -1,8 +1,80 @@
+---
+title: Joshua 22:5
+type: Verse
+kjv: "But take diligent heed to do the commandment and the law, which Moses the servant of the LORD charged you, to love the LORD your God, and to walk in all his ways, and to keep his commandments, and to cleave unto him, and to serve him with all your heart and with all your soul."
+bsb: "But be very careful to observe the commandment and the law that Moses the servant of the LORD gave you: to love the LORD your God, to walk in all His ways, to keep His commandments, to hold fast to Him, and to serve Him with all your heart and with all your soul.”"
+hebrew: "רַ֣ק׀ שִׁמְר֣וּ מְאֹ֗ד לַעֲשׂ֨וֹת אֶת־ הַמִּצְוָ֣ה וְאֶת־ הַתּוֹרָה֮ אֲשֶׁ֣ר צִוָּ֣ה אֶתְכֶם֮ מֹשֶׁ֣ה עֶֽבֶד־ יְהוָה֒ לְ֠אַהֲבָה אֶת־ יְהוָ֨ה אֱלֹֽהֵיכֶ֜ם וְלָלֶ֧כֶת בְּכָל־ דְּרָכָ֛יו וְלִשְׁמֹ֥ר מִצְוֹתָ֖יו וּלְדָבְקָה־ ב֑וֹ וּלְעָבְד֕וֹ בְּכָל־ לְבַבְכֶ֖ם וּבְכָל־ נַפְשְׁכֶֽם׃"
+pericope: "[[Josh.22.1 The Eastern Tribes Return Home|The Eastern Tribes Return Home]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 22
+book/chapter: "[[Josh.22|Joshua 22]]"
+chronological_order: 252
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic DUTY|DUTY]]"
+- "[[topic GAD|GAD]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic SPIRITUALITY|SPIRITUALITY]]"
+- "[[topic WALKING|WALKING]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[H7535]]"
+- "[[H9015]]"
+- "[[H8104J]]"
+- "[[H3966]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4687]]"
+- "[[H9002]]"
+- "[[H8451]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H9036]]"
+- "[[H4872]]"
+- "[[H5650]]"
+- "[[H3068G]]"
+- "[[H0157G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H8104G]]"
+- "[[H1692]]"
+- "[[H9033]]"
+- "[[H5647H]]"
+- "[[H3824]]"
+- "[[H5315G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 22:5**<big><big>[[Josh.22.1 The Eastern Tribes Return Home|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But take diligent heed to do the commandment and the law, which Moses the servant of the LORD charged you, to love the LORD your God, and to walk in all his ways, and to keep his commandments, and to cleave unto him, and to serve him with all your heart and with all your soul.
 <small><sub>**BSB:**</sub></small>
 But be very careful to observe the commandment and the law that Moses the servant of the LORD gave you: to love the LORD your God, to walk in all His ways, to keep His commandments, to hold fast to Him, and to serve Him with all your heart and with all your soul.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7535\|רַ֣ק]][[H9015\|׀]] [[H8104J\|שִׁמְר֣וּ]] [[H3966\|מְאֹ֗ד]] [[H9005\|לַ]][[H6213A\|עֲשׂ֨וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4687\|מִּצְוָ֣ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8451\|תּוֹרָה֮]] [[H0834A\|אֲשֶׁ֣ר]] [[H6680\|צִוָּ֣ה]] [[H0853\|אֶתְ]][[H9036\|כֶם֮]] [[H4872\|מֹשֶׁ֣ה]] [[H5650\|עֶֽבֶד]][[H9014\|־]] [[H3068G\|יְהוָה֒]] [[H9005\|לְ֠]][[H0157G\|אַהֲבָה]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֨ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶ֜ם]] [[H9002\|וְ]][[H9005\|לָ]][[H1980I\|לֶ֧כֶת]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H1870G\|דְּרָכָ֛י]][[H9023\|ו]] [[H9002\|וְ]][[H9005\|לִ]][[H8104G\|שְׁמֹ֥ר]] [[H4687\|מִצְוֹתָ֖י]][[H9023\|ו]] [[H9002\|וּ]][[H9005\|לְ]][[H1692\|דָבְקָה]][[H9014\|־]] [[H9003\|ב֑]][[H9033\|וֹ]] [[H9002\|וּ]][[H9005\|לְ]][[H5647H\|עָבְד֕]][[H9033\|וֹ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3824\|לְבַבְ]][[H9026\|כֶ֖ם]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H5315G\|נַפְשְׁ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DUTY|DUTY]] • [[topic GAD|GAD]] • [[topic LOVE|LOVE]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REUBENITES|REUBENITES]] • [[topic SPIRITUALITY|SPIRITUALITY]] • [[topic WALKING|WALKING]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.4|<< Joshua 22:4]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.6|Joshua 22:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

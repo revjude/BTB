@@ -1,28 +1,35 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Securing the City
+type: Pericope
 pericope: "[[Neh.7.1 Securing the City|Securing the City]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Nehemiah
 chapter: 7
 book/chapter: "[[Neh.7|Nehemiah 7]]"
-genre:
+chronological_order: 919
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
 - building codes
+verse_count: 3
 verses:
 - "[[Neh.7.1]]"
 - "[[Neh.7.2]]"
 - "[[Neh.7.3]]"
 ---
 
-[[Neh.7|Nehemiah 7:1 - Nehemiah 7:3]]
+<small>[[Neh.7|Nehemiah 7:1-3]]</small>
 *Securing the City*
 
 [[Neh.7.1|1]] Now it came to pass, when the wall was built, and I had set up the doors, and the porters and the singers and the Levites were appointed,

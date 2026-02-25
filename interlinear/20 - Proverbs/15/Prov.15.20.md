@@ -1,8 +1,55 @@
+---
+title: Proverbs 15:20
+type: Verse
+kjv: "A wise son maketh a glad father: but a foolish man despiseth his mother."
+bsb: "A wise son brings joy to his father, but a foolish man despises his mother."
+hebrew: "בֵּ֣ן חָ֭כָם יְשַׂמַּח־ אָ֑ב וּכְסִ֥יל אָ֝דָ֗ם בּוֹזֶ֥ה אִמּֽוֹ׃"
+pericope: "[[Prov.15.1 A Gentle Answer Turns Away Wrath|A Gentle Answer Turns Away Wrath]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 15
+book/chapter: "[[Prov.15|Proverbs 15]]"
+chronological_order: 470
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic MOTHER|MOTHER]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H1121A]]"
+- "[[H2450]]"
+- "[[H8055]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9002]]"
+- "[[H3684]]"
+- "[[H0120G]]"
+- "[[H0959]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 15:20**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A wise son maketh a glad father: but a foolish man despiseth his mother.
 <small><sub>**BSB:**</sub></small>
 A wise son brings joy to his father, but a foolish man despises his mother.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֵּ֣ן]] [[H2450\|חָ֭כָם]] [[H8055\|יְשַׂמַּח]][[H9014\|־]] [[H0001G\|אָ֑ב]] [[H9002\|וּ]][[H3684\|כְסִ֥יל]] [[H0120G\|אָ֝דָ֗ם]] [[H0959\|בּוֹזֶ֥ה]] [[H0517\|אִמּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic FOOL|FOOL]] • [[topic MOTHER|MOTHER]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.19|<< Proverbs 15:19]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.21|Proverbs 15:21 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Nehemiah 13:10
+type: Verse
+kjv: "And I perceived that the portions of the Levites had not been given them: for the Levites and the singers, that did the work, were fled every one to his field."
+bsb: "I also learned that because the portions for the Levites had not been given to them, all the Levites and singers responsible for performing the service had gone back to their own fields."
+hebrew: "וָאֵ֣דְעָ֔ה כִּֽי־ מְנָי֥וֹת הַלְוִיִּ֖ם לֹ֣א נִתָּ֑נָה וַיִּבְרְח֧וּ אִישׁ־ לְשָׂדֵ֛הוּ הַלְוִיִּ֥ם וְהַמְשֹׁרְרִ֖ים עֹשֵׂ֥י הַמְּלָאכָֽה׃"
+pericope: "[[Neh.13.10 Tithes Restored|Tithes Restored]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 13
+book/chapter: "[[Neh.13|Nehemiah 13]]"
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TITHES|TITHES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H9012]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4521]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H3808]]"
+- "[[H5414G]]"
+- "[[H1272]]"
+- "[[H0376I]]"
+- "[[H9005]]"
+- "[[H7704G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H7891]]"
+- "[[H6213A]]"
+- "[[H4399]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 13:10**<big><big>[[Neh.13.10 Tithes Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I perceived that the portions of the Levites had not been given [them]: for the Levites and the singers, that did the work, were fled every one to his field.
 <small><sub>**BSB:**</sub></small>
 I also learned that because the portions for the Levites had not been given to them, all the Levites and singers responsible for performing the service had gone back to their own fields.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H3045\|אֵ֣דְעָ֔]][[H9012\|ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4521\|מְנָי֥וֹת]] [[H9009\|הַ]][[H3881\|לְוִיִּ֖ם]] [[H3808\|לֹ֣א]] [[H5414G\|נִתָּ֑נָה]] [[H9001\|וַ]][[H1272\|יִּבְרְח֧וּ]] [[H0376I\|אִישׁ]][[H9014\|־]] [[H9005\|לְ]][[H7704G\|שָׂדֵ֛]][[H9023\|הוּ]] [[H9009\|הַ]][[H3881\|לְוִיִּ֥ם]] [[H9002\|וְ]][[H9009\|הַ]][[H7891\|מְשֹׁרְרִ֖ים]] [[H6213A\|עֹשֵׂ֥י]] [[H9009\|הַ]][[H4399\|מְּלָאכָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic LEVITES|LEVITES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TITHES|TITHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.9|<< Nehemiah 13:9]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.11|Nehemiah 13:11 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel’s Kingdom Blessing
+type: Pericope
 pericope: "[[Ps.108.1 Israel’s Kingdom Blessing|Israel’s Kingdom Blessing]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 108
 book/chapter: "[[Ps.108|Psalm 108]]"
-genre:
+chronological_order: 382
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 14
 verses:
 - "[[Ps.108.0]]"
 - "[[Ps.108.1]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Ps.108.13]]"
 ---
 
-[[Ps.108|Psalm 108:1 - Psalm 108:13]]
+<small>[[Ps.108|Psalm 108:1-13]]</small>
 *Israel’s Kingdom Blessing*
 
 [[Ps.108.0|0]] A Song \[or\] Psalm of David.

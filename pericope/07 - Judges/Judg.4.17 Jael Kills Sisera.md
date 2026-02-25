@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jael Kills Sisera
+type: Pericope
 pericope: "[[Judg.4.17 Jael Kills Sisera|Jael Kills Sisera]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 4
 book/chapter: "[[Judg.4|Judges 4]]"
-genre:
+chronological_order: 258
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 8
 verses:
 - "[[Judg.4.17]]"
 - "[[Judg.4.18]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Judg.4.24]]"
 ---
 
-[[Judg.4|Judges 4:17 - Judges 4:24]]
+<small>[[Judg.4|Judges 4:17-24]]</small>
 *Jael Kills Sisera*
 
 [[Judg.4.17|17]] Howbeit Sisera fled away on his feet to the tent of Jael the wife of Heber the Kenite: for \[there was\] peace between Jabin the king of Hazor and the house of Heber the Kenite.

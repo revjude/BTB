@@ -1,10 +1,73 @@
+---
+title: Matthew 1:18
+type: Verse
+kjv: "Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost."
+bsb: "This is how the birth of Jesus Christ came about: His mother Mary was pledged in marriage to Joseph, but before they came together, she was found to be with child through the Holy Spirit."
+greek: "Τοῦ δὲ Ἰησοῦ Χριστοῦ ἡ γένεσις οὕτως ἦν· μνηστευθείσης γὰρ τῆς μητρὸς αὐτοῦ Μαρίας τῷ Ἰωσήφ, πρὶν ἢ συνελθεῖν αὐτοὺς εὑρέθη ἐν γαστρὶ ἔχουσα ἐκ πνεύματος ἁγίου."
+pericope: "[[Matt.1.18 The Birth of Jesus|The Birth of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 1
+book/chapter: "[[Matt.1|Matthew 1]]"
+chronological_order: 931
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BETROTHAL|BETROTHAL]]"
+- "[[topic CONCEPTION|CONCEPTION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G1078]]"
+- "[[G3779]]"
+- "[[G1510]]"
+- "[[G3423]]"
+- "[[G1063]]"
+- "[[G3384]]"
+- "[[G0846]]"
+- "[[G3137G]]"
+- "[[G2501G]]"
+- "[[G4250]]"
+- "[[G2228]]"
+- "[[G4905]]"
+- "[[G2147]]"
+- "[[G1722]]"
+- "[[G1064]]"
+- "[[G2192]]"
+- "[[G1537]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Matthew 1:18**<big><big>[[Matt.1.18 The Birth of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost.
 <small><sub>**BSB:**</sub></small>
 This is how the birth of Jesus Christ came about: His mother Mary was pledged in marriage to Joseph, but before they came together, she was found to be with child through the Holy Spirit.
-<small><sub>**Literal:**</sub></small>
-<the> Now of Jesus Christ the origin thus was happening: At the pledging for of the mother of Him Mary <the> to Joseph, before than to come together by them she was found in womb [pregnancy] having out of [the] Spirit Holy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.17|<< Matthew 1:17]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.19|Matthew 1:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τοῦ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G3588\|ἡ]]  [[G1078\|γένεσις]]  [[G3779\|οὕτως]]  [[G1510\|ἦν·]]  [[G3423\|μνηστευθείσης]]  [[G1063\|γὰρ]]  [[G3588\|τῆς]]  [[G3384\|μητρὸς]]  [[G0846\|αὐτοῦ]]  [[G3137G\|Μαρίας]]  [[G3588\|τῷ]]  [[G2501G\|Ἰωσήφ,]]  [[G4250\|πρὶν]]  [[G2228\|ἢ]]  [[G4905\|συνελθεῖν]]  [[G0846\|αὐτοὺς]]  [[G2147\|εὑρέθη]]  [[G1722\|ἐν]]  [[G1064\|γαστρὶ]]  [[G2192\|ἔχουσα]]  [[G1537\|ἐκ]]  [[G4151G\|πνεύματος]]  [[G0040G\|ἁγίου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETROTHAL|BETROTHAL]] • [[topic CONCEPTION|CONCEPTION]] • [[topic FAITH|FAITH]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic MARRIAGE|MARRIAGE]] • [[topic MIRACLES|MIRACLES]] • [[topic TRINITY|TRINITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.17|<< Matthew 1:17]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.19|Matthew 1:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

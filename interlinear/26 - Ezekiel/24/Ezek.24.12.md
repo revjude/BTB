@@ -1,8 +1,59 @@
+---
+title: Ezekiel 24:12
+type: Verse
+kjv: "She hath wearied herself with lies, and her great scum went not forth out of her: her scum shall be in the fire."
+bsb: "It has frustrated every effort; its thick rust has not been removed, even by the fire."
+hebrew: "תְּאֻנִ֖ים הֶלְאָ֑ת וְלֹֽא־ תֵצֵ֤א מִמֶּ֙נָּה֙ רַבַּ֣ת חֶלְאָתָ֔הּ בְּאֵ֖שׁ חֶלְאָתָֽהּ׃"
+pericope: "[[Ezek.24.1 The Parable of the Cooking Pot|The Parable of the Cooking Pot]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 24
+book/chapter: "[[Ezek.24|Ezekiel 24]]"
+chronological_order: 815
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H8383]]"
+- "[[H3811]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3318G]]"
+- "[[H4480A]]"
+- "[[H9034]]"
+- "[[H7227A]]"
+- "[[H2457]]"
+- "[[H9024]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 24:12**<big><big>[[Ezek.24.1 The Parable of the Cooking Pot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She hath wearied [herself] with lies, and her great scum went not forth out of her: her scum [shall be] in the fire.
 <small><sub>**BSB:**</sub></small>
 It has frustrated every effort; its thick rust has not been removed, even by the fire.
+<small><sub>**Hebrew:**</sub></small>
+[[H8383\|תְּאֻנִ֖ים]] [[H3811\|הֶלְאָ֑ת]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3318G\|תֵצֵ֤א]] [[H4480A\|מִמֶּ֙]][[H9034\|נָּה֙]] [[H7227A\|רַבַּ֣ת]] [[H2457\|חֶלְאָתָ֔]][[H9024\|הּ]] [[H9003\|בְּ]][[H0784\|אֵ֖שׁ]] [[H2457\|חֶלְאָתָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZEKIEL|EZEKIEL]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.11|<< Ezekiel 24:11]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.13|Ezekiel 24:13 >>]]</td></tr></table>
 

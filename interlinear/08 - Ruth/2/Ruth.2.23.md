@@ -1,8 +1,60 @@
+---
+title: Ruth 2:23
+type: Verse
+kjv: "So she kept fast by the maidens of Boaz to glean unto the end of barley harvest and of wheat harvest; and dwelt with her mother in law."
+bsb: "So Ruth stayed close to the servant girls of Boaz to glean grain until the barley and wheat harvests were finished. And she lived with her mother-in-law."
+hebrew: "וַתִּדְבַּ֞ק בְּנַעֲר֥וֹת בֹּ֙עַז֙ לְלַקֵּ֔ט עַד־ כְּל֥וֹת קְצִֽיר־ הַשְּׂעֹרִ֖ים וּקְצִ֣יר הַֽחִטִּ֑ים וַתֵּ֖שֶׁב אֶת־ חֲמוֹתָֽהּ׃"
+pericope: "[[Ruth.2.1 Boaz Meets Ruth|Boaz Meets Ruth]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 2
+book/chapter: "[[Ruth.2|Ruth 2]]"
+chronological_order: 277
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H9001]]"
+- "[[H1692]]"
+- "[[H9003]]"
+- "[[H5291]]"
+- "[[H1162G]]"
+- "[[H9005]]"
+- "[[H3950]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H3615G]]"
+- "[[H7105A]]"
+- "[[H9009]]"
+- "[[H8184]]"
+- "[[H9002]]"
+- "[[H2406]]"
+- "[[H3427]]"
+- "[[H0854]]"
+- "[[H2545]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 2:23**<big><big>[[Ruth.2.1 Boaz Meets Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So she kept fast by the maidens of Boaz to glean unto the end of barley harvest and of wheat harvest; and dwelt with her mother in law.
 <small><sub>**BSB:**</sub></small>
 So Ruth stayed close to the servant girls of Boaz to glean grain until the barley and wheat harvests were finished. And she lived with her mother-in-law.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1692\|תִּדְבַּ֞ק]] [[H9003\|בְּ]][[H5291\|נַעֲר֥וֹת]] [[H1162G\|בֹּ֙עַז֙]] [[H9005\|לְ]][[H3950\|לַקֵּ֔ט]] [[H5704\|עַד]][[H9014\|־]] [[H3615G\|כְּל֥וֹת]] [[H7105A\|קְצִֽיר]][[H9014\|־]] [[H9009\|הַ]][[H8184\|שְּׂעֹרִ֖ים]] [[H9002\|וּ]][[H7105A\|קְצִ֣יר]] [[H9009\|הַֽ]][[H2406\|חִטִּ֑ים]] [[H9001\|וַ]][[H3427\|תֵּ֖שֶׁב]] [[H0854\|אֶת]][[H9014\|־]] [[H2545\|חֲמוֹתָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.2.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.2.22|<< Ruth 2:22]]</td><td align="center" style="border:none;">[[Ruth.2|Ruth 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.3.1|Ruth 3:1 >>]]</td></tr></table>
 

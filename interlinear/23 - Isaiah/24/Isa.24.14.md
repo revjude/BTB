@@ -1,8 +1,54 @@
+---
+title: Isaiah 24:14
+type: Verse
+kjv: "They shall lift up their voice, they shall sing for the majesty of the LORD, they shall cry aloud from the sea."
+bsb: "They raise their voices, they shout for joy; from the west they proclaim the majesty of the LORD."
+hebrew: "הֵ֛מָּה יִשְׂא֥וּ קוֹלָ֖ם יָרֹ֑נּוּ בִּגְא֣וֹן יְהוָ֔ה צָהֲל֖וּ מִיָּֽם׃"
+pericope: "[[Isa.24.1 God’s Judgment on the Earth|God’s Judgment on the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 24
+book/chapter: "[[Isa.24|Isaiah 24]]"
+chronological_order: 667
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H1992]]"
+- "[[H5375N]]"
+- "[[H6963A]]"
+- "[[H9028]]"
+- "[[H7442B]]"
+- "[[H9003]]"
+- "[[H1347]]"
+- "[[H3068G]]"
+- "[[H6670A]]"
+- "[[H9006]]"
+- "[[H3220H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 24:14**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall lift up their voice, they shall sing for the majesty of the LORD, they shall cry aloud from the sea.
 <small><sub>**BSB:**</sub></small>
 They raise their voices, they shout for joy; from the west they proclaim the majesty of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H1992\|הֵ֛מָּה]] [[H5375N\|יִשְׂא֥וּ]] [[H6963A\|קוֹלָ֖]][[H9028\|ם]] [[H7442B\|יָרֹ֑נּוּ]] [[H9003\|בִּ]][[H1347\|גְא֣וֹן]] [[H3068G\|יְהוָ֔ה]] [[H6670A\|צָהֲל֖וּ]] [[H9006\|מִ]][[H3220H\|יָּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.13|<< Isaiah 24:13]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.15|Isaiah 24:15 >>]]</td></tr></table>
 

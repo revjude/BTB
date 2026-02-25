@@ -1,8 +1,66 @@
+---
+title: Ezekiel 20:38
+type: Verse
+kjv: "And I will purge out from among you the rebels, and them that transgress against me: I will bring them forth out of the country where they sojourn, and they shall not enter into the land of Israel: and ye shall know that I am the LORD."
+bsb: "And I will purge you of those who rebel and transgress against Me. I will bring them out of the land in which they dwell, but they will not enter the land of Israel. Then you will know that I am the LORD."
+hebrew: "וּבָרוֹתִ֣י מִכֶּ֗ם הַמֹּרְדִ֤ים וְהַפּֽוֹשְׁעִים֙ בִּ֔י מֵאֶ֤רֶץ מְגֽוּרֵיהֶם֙ אוֹצִ֣יא אוֹתָ֔ם וְאֶל־ אַדְמַ֥ת יִשְׂרָאֵ֖ל לֹ֣א יָב֑וֹא וִֽידַעְתֶּ֖ם כִּי־ אֲנִ֥י יְהוָֽה׃"
+pericope: "[[Ezek.20.33 Judgment and Restoration|Judgment and Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H1305]]"
+- "[[H9006]]"
+- "[[H9036]]"
+- "[[H9009]]"
+- "[[H4775]]"
+- "[[H9002]]"
+- "[[H6586]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H0776G]]"
+- "[[H4033]]"
+- "[[H9028]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0127G]]"
+- "[[H3478]]"
+- "[[H3808]]"
+- "[[H0935G]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:38**<big><big>[[Ezek.20.33 Judgment and Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will purge out from among you the rebels, and them that transgress against me: I will bring them forth out of the country where they sojourn, and they shall not enter into the land of Israel: and ye shall know that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
 And I will purge you of those who rebel and transgress against Me. I will bring them out of the land in which they dwell, but they will not enter the land of Israel. Then you will know that I am the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H1305\|בָרוֹתִ֣י]] [[H9006\|מִ]][[H9036\|כֶּ֗ם]] [[H9009\|הַ]][[H4775\|מֹּרְדִ֤ים]] [[H9002\|וְ]][[H9009\|הַ]][[H6586\|פּֽוֹשְׁעִים֙]] [[H9003\|בִּ֔]][[H9030\|י]] [[H9006\|מֵ]][[H0776G\|אֶ֤רֶץ]] [[H4033\|מְגֽוּרֵי]][[H9028\|הֶם֙]] [[H3318H\|אוֹצִ֣יא]] [[H0853\|אוֹתָ֔]][[H9038\|ם]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H0127G\|אַדְמַ֥ת]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H3808\|לֹ֣א]] [[H0935G\|יָב֑וֹא]] [[H9001\|וִֽ]][[H3045\|ידַעְתֶּ֖ם]] [[H3588A\|כִּי]][[H9014\|־]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.37|<< Ezekiel 20:37]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.39|Ezekiel 20:39 >>]]</td></tr></table>
 

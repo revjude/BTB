@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Job Prepares for Death
+type: Pericope
 pericope: "[[Job.17.1 Job Prepares for Death|Job Prepares for Death]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 17
 book/chapter: "[[Job.17|Job 17]]"
-genre:
+chronological_order: 28
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 16
 verses:
 - "[[Job.17.1]]"
 - "[[Job.17.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Job.17.16]]"
 ---
 
-[[Job.17|Job 17:1 - Job 17:16]]
+<small>[[Job.17|Job 17:1-16]]</small>
 *Job Prepares for Death*
 
 [[Job.17.1|1]] My breath is corrupt, my days are extinct, the graves \[are ready\] for me.

@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Third Prediction of the Passion
+type: Pericope
 pericope: "[[Mark.10.32 The Third Prediction of the Passion|The Third Prediction of the Passion]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: Mark
 chapter: 10
 book/chapter: "[[Mark.10|Mark 10]]"
-genre:
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 3
 verses:
 - "[[Mark.10.32]]"
 - "[[Mark.10.33]]"
 - "[[Mark.10.34]]"
 ---
 
-[[Mark.10|Mark 10:32 - Mark 10:34]]
+<small>[[Mark.10|Mark 10:32-34]]</small>
 *The Third Prediction of the Passion*
 
 [[Mark.10.32|32]] And they were in the way going up to Jerusalem; and Jesus went before them: and they were amazed; and as they followed, they were afraid. And he took again the twelve, and began to tell them what things should happen unto him,

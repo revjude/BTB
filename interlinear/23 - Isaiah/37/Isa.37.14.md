@@ -1,8 +1,63 @@
+---
+title: Isaiah 37:14
+type: Verse
+kjv: "And Hezekiah received the letter from the hand of the messengers, and read it: and Hezekiah went up unto the house of the LORD, and spread it before the LORD."
+bsb: "So Hezekiah received the letter from the messengers, read it, and went up to the house of the LORD and spread it out before the LORD."
+hebrew: "וַיִּקַּ֨ח חִזְקִיָּ֧הוּ אֶת־ הַסְּפָרִ֛ים מִיַּ֥ד הַמַּלְאָכִ֖ים וַיִּקְרָאֵ֑הוּ וַיַּ֙עַל֙ בֵּ֣ית יְהוָ֔ה וַיִּפְרְשֵׂ֥הוּ חִזְקִיָּ֖הוּ לִפְנֵ֥י יְהוָֽה׃"
+pericope: "[[Isa.37.14 Hezekiah’s Prayer|Hezekiah’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 37
+book/chapter: "[[Isa.37|Isaiah 37]]"
+chronological_order: 664
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic LETTERS|LETTERS]]"
+- "[[topic LIBNAH|LIBNAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947H]]"
+- "[[H2396G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5612A]]"
+- "[[H9006]]"
+- "[[H3027G]]"
+- "[[H4397G]]"
+- "[[H7121J]]"
+- "[[H9033]]"
+- "[[H5927G]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H6566]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 37:14**<big><big>[[Isa.37.14 Hezekiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hezekiah received the letter from the hand of the messengers, and read it: and Hezekiah went up unto the house of the LORD, and spread it before the LORD.
 <small><sub>**BSB:**</sub></small>
 So Hezekiah received the letter from the messengers, read it, and went up to the house of the LORD and spread it out before the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947H\|יִּקַּ֨ח]] [[H2396G\|חִזְקִיָּ֧הוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5612A\|סְּפָרִ֛ים]] [[H9006\|מִ]][[H3027G\|יַּ֥ד]] [[H9009\|הַ]][[H4397G\|מַּלְאָכִ֖ים]] [[H9001\|וַ]][[H7121J\|יִּקְרָאֵ֑]][[H9033\|הוּ]] [[H9001\|וַ]][[H5927G\|יַּ֙עַל֙]] [[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H6566\|יִּפְרְשֵׂ֥]][[H9033\|הוּ]] [[H2396G\|חִזְקִיָּ֖הוּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic CHURCH|CHURCH]] • [[topic LETTERS|LETTERS]] • [[topic LIBNAH|LIBNAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.13|<< Isaiah 37:13]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.15|Isaiah 37:15 >>]]</td></tr></table>
 

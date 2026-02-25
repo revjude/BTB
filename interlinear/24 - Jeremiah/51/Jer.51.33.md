@@ -1,8 +1,66 @@
+---
+title: Jeremiah 51:33
+type: Verse
+kjv: "For thus saith the LORD of hosts, the God of Israel; The daughter of Babylon is like a threshingfloor, it is time to thresh her: yet a little while, and the time of her harvest shall come."
+bsb: "For this is what the LORD of Hosts, the God of Israel, says: “The Daughter of Babylon is like a threshing floor at the time it is trampled. In just a little while her harvest time will come.”"
+hebrew: "כִּי֩ כֹ֨ה אָמַ֜ר יְהוָ֤ה צְבָאוֹת֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל בַּת־ בָּבֶ֕ל כְּגֹ֖רֶן עֵ֣ת הִדְרִיכָ֑הּ ע֣וֹד מְעַ֔ט וּבָ֥אָה עֵֽת־ הַקָּצִ֖יר לָֽהּ׃"
+pericope: "[[Jer.51.20 Babylon’s Punishment|Babylon’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H0894]]"
+- "[[H9004]]"
+- "[[H1637]]"
+- "[[H6256]]"
+- "[[H1869]]"
+- "[[H9034]]"
+- "[[H5750]]"
+- "[[H4592]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H7105A]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 51:33**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD of hosts, the God of Israel; The daughter of Babylon [is] like a threshingfloor, [it is] time to thresh her: yet a little while, and the time of her harvest shall come.
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD of Hosts, the God of Israel, says: “The Daughter of Babylon is like a threshing floor at the time it is trampled. In just a little while her harvest time will come.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H3541\|כֹ֨ה]] [[H0559\|אָמַ֜ר]] [[H3068G\|יְהוָ֤ה]] [[H6635B\|צְבָאוֹת֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H1323G\|בַּת]][[H9014\|־]] [[H0894\|בָּבֶ֕ל]] [[H9004\|כְּ]][[H1637\|גֹ֖רֶן]] [[H6256\|עֵ֣ת]] [[H1869\|הִדְרִיכָ֑]][[H9034\|הּ]] [[H5750\|ע֣וֹד]] [[H4592\|מְעַ֔ט]] [[H9001\|וּ]][[H0935G\|בָ֥אָה]] [[H6256\|עֵֽת]][[H9014\|־]] [[H9009\|הַ]][[H7105A\|קָּצִ֖יר]] [[H9005\|לָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSIA|PERSIA]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.32|<< Jeremiah 51:32]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.34|Jeremiah 51:34 >>]]</td></tr></table>
 

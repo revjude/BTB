@@ -1,8 +1,67 @@
+---
+title: 1 Samuel 2:33
+type: Verse
+kjv: "And the man of thine, whom I shall not cut off from mine altar, shall be to consume thine eyes, and to grieve thine heart: and all the increase of thine house shall die in the flower of their age."
+bsb: "And every one of you that I do not cut off from My altar, I will cause your eyes to fail and your heart to grieve. All your descendants will die by the sword of men."
+hebrew: "וְאִ֗ישׁ לֹֽא־ אַכְרִ֤ית לְךָ֙ מֵעִ֣ם מִזְבְּחִ֔י לְכַלּ֥וֹת אֶת־ עֵינֶ֖יךָ וְלַאֲדִ֣יב אֶת־ נַפְשֶׁ֑ךָ וְכָל־ מַרְבִּ֥ית בֵּיתְךָ֖ יָמ֥וּתוּ אֲנָשִֽׁים׃"
+pericope: "[[1Sam.2.27 A Prophecy against the House of Eli|A Prophecy against the House of Eli]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 2
+book/chapter: "[[1Sam.2|1 Samuel 2]]"
+chronological_order: 281
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABIATHAR|ABIATHAR]]"
+- "[[topic ELI|ELI]]"
+- "[[topic HOPHNI|HOPHNI]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3772I]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H4196]]"
+- "[[H9020]]"
+- "[[H3615H]]"
+- "[[H0853]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H0109]]"
+- "[[H5315G]]"
+- "[[H3605]]"
+- "[[H4768]]"
+- "[[H1004M]]"
+- "[[H4191]]"
+- "[[H0582]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 2:33**<big><big>[[1Sam.2.27 A Prophecy against the House of Eli|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the man of thine, [whom] I shall not cut off from mine altar, [shall be] to consume thine eyes, and to grieve thine heart: and all the increase of thine house shall die in the flower of their age.
 <small><sub>**BSB:**</sub></small>
 And every one of you that I do not cut off from My altar, I will cause your eyes to fail and your heart to grieve. All your descendants will die by the sword of men.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376G\|אִ֗ישׁ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3772I\|אַכְרִ֤ית]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H9006\|מֵ]][[H5973B\|עִ֣ם]] [[H4196\|מִזְבְּחִ֔]][[H9020\|י]] [[H9005\|לְ]][[H3615H\|כַלּ֥וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H5869A\|עֵינֶ֖י]][[H9021\|ךָ]] [[H9002\|וְ]][[H9005\|לַ]][[H0109\|אֲדִ֣יב]] [[H0853\|אֶת]][[H9014\|־]] [[H5315G\|נַפְשֶׁ֑]][[H9021\|ךָ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H4768\|מַרְבִּ֥ית]] [[H1004M\|בֵּיתְ]][[H9021\|ךָ֖]] [[H4191\|יָמ֥וּתוּ]] [[H0582\|אֲנָשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIATHAR|ABIATHAR]] • [[topic ELI|ELI]] • [[topic HOPHNI|HOPHNI]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.32|<< 1 Samuel 2:32]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.34|1 Samuel 2:34 >>]]</td></tr></table>
 

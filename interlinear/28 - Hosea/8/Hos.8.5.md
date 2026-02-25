@@ -1,8 +1,57 @@
+---
+title: Hosea 8:5
+type: Verse
+kjv: "Thy calf, O Samaria, hath cast thee off; mine anger is kindled against them: how long will it be ere they attain to innocency?"
+bsb: "He has rejected your calf, O Samaria. My anger burns against them. How long will they be incapable of innocence?"
+hebrew: "זָנַח֙ עֶגְלֵ֣ךְ שֹֽׁמְר֔וֹן חָרָ֥ה אַפִּ֖י בָּ֑ם עַד־ מָתַ֕י לֹ֥א יוּכְל֖וּ נִקָּיֹֽן׃"
+pericope: "[[Hos.8.1 Israel Will Reap the Whirlwind|Israel Will Reap the Whirlwind]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 8
+book/chapter: "[[Hos.8|Hosea 8]]"
+chronological_order: 649
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic CALF|CALF]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H2186A]]"
+- "[[H5695]]"
+- "[[H9022]]"
+- "[[H8111]]"
+- "[[H2734]]"
+- "[[H0639G]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H4970]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H5356A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 8:5**<big><big>[[Hos.8.1 Israel Will Reap the Whirlwind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy calf, O Samaria, hath cast [thee] off; mine anger is kindled against them: how long [will it be] ere they attain to innocency?
 <small><sub>**BSB:**</sub></small>
 He has rejected your calf, O Samaria. My anger burns against them. How long will they be incapable of innocence?
+<small><sub>**Hebrew:**</sub></small>
+[[H2186A\|זָנַח֙]] [[H5695\|עֶגְלֵ֣]][[H9022\|ךְ]] [[H8111\|שֹֽׁמְר֔וֹן]] [[H2734\|חָרָ֥ה]] [[H0639G\|אַפִּ֖]][[H9020\|י]] [[H9003\|בָּ֑]][[H9038\|ם]] [[H5704\|עַד]][[H9014\|־]] [[H4970\|מָתַ֕י]] [[H3808\|לֹ֥א]] [[H3201\|יוּכְל֖וּ]] [[H5356A\|נִקָּיֹֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALF|CALF]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.8.4|<< Hosea 8:4]]</td><td align="center" style="border:none;">[[Hos.8|Hosea 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.8.6|Hosea 8:6 >>]]</td></tr></table>
 

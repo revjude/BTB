@@ -1,8 +1,56 @@
+---
+title: Job 39:15
+type: Verse
+kjv: "And forgetteth that the foot may crush them, or that the wild beast may break them."
+bsb: "She forgets that a foot may crush them, or a wild animal may trample them."
+hebrew: "וַ֭תִּשְׁכַּח כִּי־ רֶ֣גֶל תְּזוּרֶ֑הָ וְחַיַּ֖ת הַשָּׂדֶ֣ה תְּדוּשֶֽׁהָ׃"
+pericope: "[[Job.39.1 The LORD Speaks of His Creation|The LORD Speaks of His Creation]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 39
+book/chapter: "[[Job.39|Job 39]]"
+chronological_order: 50
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OSTRICHES|OSTRICHES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7911]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7272]]"
+- "[[H2115]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H2416C]]"
+- "[[H9009]]"
+- "[[H7704I]]"
+- "[[H1758]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 39:15**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And forgetteth that the foot may crush them, or that the wild beast may break them.
 <small><sub>**BSB:**</sub></small>
 She forgets that a foot may crush them, or a wild animal may trample them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֭]][[H7911\|תִּשְׁכַּח]] [[H3588A\|כִּי]][[H9014\|־]] [[H7272\|רֶ֣גֶל]] [[H2115\|תְּזוּרֶ֑]][[H9034\|הָ]] [[H9002\|וְ]][[H2416C\|חַיַּ֖ת]] [[H9009\|הַ]][[H7704I\|שָּׂדֶ֣ה]] [[H1758\|תְּדוּשֶֽׁ]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRDS|BIRDS]] • [[topic GOD|GOD]] • [[topic OSTRICHES|OSTRICHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.14|<< Job 39:14]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.16|Job 39:16 >>]]</td></tr></table>
 

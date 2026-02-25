@@ -1,8 +1,64 @@
+---
+title: Isaiah 34:13
+type: Verse
+kjv: "And thorns shall come up in her palaces, nettles and brambles in the fortresses thereof: and it shall be an habitation of dragons, and a court for owls."
+bsb: "Her towers will be overgrown with thorns, her fortresses with thistles and briers. She will become a haunt for jackals, an abode for ostriches."
+hebrew: "וְעָלְתָ֤ה אַרְמְנֹתֶ֙יהָ֙ סִירִ֔ים קִמּ֥וֹשׂ וָח֖וֹחַ בְּמִבְצָרֶ֑יהָ וְהָיְתָה֙ נְוֵ֣ה תַנִּ֔ים חָצִ֖יר לִבְנ֥וֹת יַעֲנָֽה׃"
+pericope: "[[Isa.34.5 Judgment on Edom|Judgment on Edom]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 34
+book/chapter: "[[Isa.34|Isaiah 34]]"
+chronological_order: 677
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BRAMBLE|BRAMBLE]]"
+- "[[topic DRAGON|DRAGON]]"
+- "[[topic NETTLES|NETTLES]]"
+- "[[topic OSTRICHES|OSTRICHES]]"
+- "[[topic OWL|OWL]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H0759H]]"
+- "[[H9024]]"
+- "[[H5518B]]"
+- "[[H7057]]"
+- "[[H9002]]"
+- "[[H2336]]"
+- "[[H9003]]"
+- "[[H4013]]"
+- "[[H1961]]"
+- "[[H5116A]]"
+- "[[H8577A]]"
+- "[[H2681]]"
+- "[[H9005]]"
+- "[[H1323G]]"
+- "[[H3284]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 34:13**<big><big>[[Isa.34.5 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thorns shall come up in her palaces, nettles and brambles in the fortresses thereof: and it shall be an habitation of dragons, [and] a court for owls.
 <small><sub>**BSB:**</sub></small>
 Her towers will be overgrown with thorns, her fortresses with thistles and briers. She will become a haunt for jackals, an abode for ostriches.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5927G\|עָלְתָ֤ה]] [[H0759H\|אַרְמְנֹתֶ֙י]][[H9024\|הָ֙]] [[H5518B\|סִירִ֔ים]] [[H7057\|קִמּ֥וֹשׂ]] [[H9002\|וָ]][[H2336\|ח֖וֹחַ]] [[H9003\|בְּ]][[H4013\|מִבְצָרֶ֑י]][[H9024\|הָ]] [[H9001\|וְ]][[H1961\|הָיְתָה֙]] [[H5116A\|נְוֵ֣ה]] [[H8577A\|תַנִּ֔ים]] [[H2681\|חָצִ֖יר]] [[H9005\|לִ]][[H1323G\|בְנ֥וֹת]] [[H3284\|יַעֲנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRAMBLE|BRAMBLE]] • [[topic DRAGON|DRAGON]] • [[topic NETTLES|NETTLES]] • [[topic OSTRICHES|OSTRICHES]] • [[topic OWL|OWL]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.34.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.34.12|<< Isaiah 34:12]]</td><td align="center" style="border:none;">[[Isa.34|Isaiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.34.14|Isaiah 34:14 >>]]</td></tr></table>
 

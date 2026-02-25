@@ -1,8 +1,73 @@
+---
+title: Genesis 27:45
+type: Verse
+kjv: "Until thy brother’s anger turn away from thee, and he forget that which thou hast done to him: then I will send, and fetch thee from thence: why should I be deprived also of you both in one day?"
+bsb: "until your brother’s rage against you wanes and he forgets what you have done to him. Then I will send for you and bring you back from there. Why should I lose both of you in one day?”"
+hebrew: "עַד־ שׁ֨וּב אַף־ אָחִ֜יךָ מִמְּךָ֗ וְשָׁכַח֙ אֵ֣ת אֲשֶׁר־ עָשִׂ֣יתָ לּ֔וֹ וְשָׁלַחְתִּ֖י וּלְקַחְתִּ֣יךָ מִשָּׁ֑ם לָמָ֥ה אֶשְׁכַּ֛ל גַּם־ שְׁנֵיכֶ֖ם י֥וֹם אֶחָֽד׃"
+pericope: "[[Gen.27.30 Esau’s Lost Hope|Esau’s Lost Hope]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H7725I]]"
+- "[[H0639G]]"
+- "[[H0251G]]"
+- "[[H9021]]"
+- "[[H4480A]]"
+- "[[H9031]]"
+- "[[H9001]]"
+- "[[H7911]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H7971G]]"
+- "[[H3947J]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H4100]]"
+- "[[H7921A]]"
+- "[[H1571]]"
+- "[[H8147]]"
+- "[[H9026]]"
+- "[[H3117G]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:45**<big><big>[[Gen.27.30 Esau’s Lost Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Until thy brother’s anger turn away from thee, and he forget [that] which thou hast done to him: then I will send, and fetch thee from thence: why should I be deprived also of you both in one day?
 <small><sub>**BSB:**</sub></small>
 until your brother’s rage against you wanes and he forgets what you have done to him. Then I will send for you and bring you back from there. Why should I lose both of you in one day?”
+<small><sub>**Hebrew:**</sub></small>
+[[H5704\|עַד]][[H9014\|־]] [[H7725I\|שׁ֨וּב]] [[H0639G\|אַף]][[H9014\|־]] [[H0251G\|אָחִ֜י]][[H9021\|ךָ]] [[H4480A\|מִמְּ]][[H9031\|ךָ֗]] [[H9001\|וְ]][[H7911\|שָׁכַח֙]] [[H0853\|אֵ֣ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|עָשִׂ֣יתָ]] [[H9005\|לּ֔]][[H9033\|וֹ]] [[H9001\|וְ]][[H7971G\|שָׁלַחְתִּ֖י]] [[H9001\|וּ]][[H3947J\|לְקַחְתִּ֣י]][[H9031\|ךָ]] [[H9006\|מִ]][[H8033G\|שָּׁ֑ם]] [[H9005\|לָ]][[H4100\|מָ֥ה]] [[H7921A\|אֶשְׁכַּ֛ל]] [[H1571\|גַּם]][[H9014\|־]] [[H8147\|שְׁנֵי]][[H9026\|כֶ֖ם]] [[H3117G\|י֥וֹם]] [[H0259\|אֶחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMILY|FAMILY]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JACOB|JACOB]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.44|<< Genesis 27:44]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.46|Genesis 27:46 >>]]</td></tr></table>
 

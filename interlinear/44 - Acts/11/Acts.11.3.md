@@ -1,10 +1,52 @@
+---
+title: Acts 11:3
+type: Verse
+kjv: "Saying, Thou wentest in to men uncircumcised, and didst eat with them."
+bsb: "and said, “You visited uncircumcised men and ate with them.”"
+greek: "λέγοντες ὅτι εἰσῆλθες πρὸς ἄνδρας ἀκροβυστίαν ἔχοντας καὶ συνέφαγες αὐτοῖς."
+pericope: "[[Acts.11.1 Peter’s Report at Jerusalem|Peter’s Report at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 11
+book/chapter: "[[Acts.11|Acts 11]]"
+chronological_order: 1029
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G1525]]"
+- "[[G4314]]"
+- "[[G0435G]]"
+- "[[G0203]]"
+- "[[G2192]]"
+- "[[G2532]]"
+- "[[G4906]]"
+- "[[G0846]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **Acts 11:3**<big><big>[[Acts.11.1 Peter’s Report at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Saying, Thou wentest in to men uncircumcised, and didst eat with them.
 <small><sub>**BSB:**</sub></small>
 and said, “You visited uncircumcised men and ate with them.”
-<small><sub>**Literal:**</sub></small>
-saying that You entered to men uncircumcision having and you ate with them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.2|<< Acts 11:2]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.4|Acts 11:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγοντες]]  [[G3754G\|ὅτι]]  [[G1525\|εἰσῆλθες]]  [[G4314\|πρὸς]]  [[G0435G\|ἄνδρας]]  [[G0203\|ἀκροβυστίαν]]  [[G2192\|ἔχοντας]]  [[G2532\|καὶ]]  [[G4906\|συνέφαγες]]  [[G0846\|αὐτοῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic GENTILES|GENTILES]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.2|<< Acts 11:2]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.4|Acts 11:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

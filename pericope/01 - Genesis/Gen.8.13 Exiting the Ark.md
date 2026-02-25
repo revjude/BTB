@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Exiting the Ark
+type: Pericope
 pericope: "[[Gen.8.13 Exiting the Ark|Exiting the Ark]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 8
 book/chapter: "[[Gen.8|Genesis 8]]"
-genre:
+chronological_order: 8
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 7
 verses:
 - "[[Gen.8.13]]"
 - "[[Gen.8.14]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Gen.8.19]]"
 ---
 
-[[Gen.8|Genesis 8:13 - Genesis 8:19]]
+<small>[[Gen.8|Genesis 8:13-19]]</small>
 *Exiting the Ark*
 
 [[Gen.8.13|13]] And it came to pass in the six hundredth and first year, in the first \[month\], the first \[day\] of the month, the waters were dried up from off the earth: and Noah removed the covering of the ark, and looked, and, behold, the face of the ground was dry.

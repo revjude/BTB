@@ -1,8 +1,65 @@
+---
+title: Nehemiah 3:19
+type: Verse
+kjv: "And next to him repaired Ezer the son of Jeshua, the ruler of Mizpah, another piece over against the going up to the armoury at the turning of the wall."
+bsb: "And next to him, Ezer son of Jeshua, ruler of Mizpah, repaired another section opposite the ascent to the armory, near the angle in the wall."
+hebrew: "וַיְחַזֵּ֨ק עַל־ יָד֜וֹ עֵ֧זֶר בֶּן־ יֵשׁ֛וּעַ שַׂ֥ר הַמִּצְפָּ֖ה מִדָּ֣ה שֵׁנִ֑ית מִנֶּ֕גֶד עֲלֹ֥ת הַנֶּ֖שֶׁק הַמִּקְצֹֽעַ׃ ס"
+pericope: "[[Neh.3.1 The Builders of the Walls|The Builders of the Walls]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 3
+book/chapter: "[[Neh.3|Nehemiah 3]]"
+chronological_order: 915
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ARMORY|ARMORY]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESHUA|JESHUA]]"
+- "[[topic MIZPAH|MIZPAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H2388G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3027I]]"
+- "[[H9023]]"
+- "[[H5829I]]"
+- "[[H1121A]]"
+- "[[H3442L]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H4709G]]"
+- "[[H4060A]]"
+- "[[H8145]]"
+- "[[H9006]]"
+- "[[H5048]]"
+- "[[H5927G]]"
+- "[[H5402]]"
+- "[[H4740H]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Nehemiah 3:19**<big><big>[[Neh.3.1 The Builders of the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And next to him repaired Ezer the son of Jeshua, the ruler of Mizpah, another piece over against the going up to the armoury at the turning [of the wall].
 <small><sub>**BSB:**</sub></small>
 And next to him, Ezer son of Jeshua, ruler of Mizpah, repaired another section opposite the ascent to the armory, near the angle in the wall.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2388G\|יְחַזֵּ֨ק]] [[H5921A\|עַל]][[H9014\|־]] [[H3027I\|יָד֜]][[H9023\|וֹ]] [[H5829I\|עֵ֧זֶר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3442L\|יֵשׁ֛וּעַ]] [[H8269\|שַׂ֥ר]] [[H9009\|הַ]][[H4709G\|מִּצְפָּ֖ה]] [[H4060A\|מִדָּ֣ה]] [[H8145\|שֵׁנִ֑ית]] [[H9006\|מִ]][[H5048\|נֶּ֕גֶד]] [[H5927G\|עֲלֹ֥ת]] [[H9009\|הַ]][[H5402\|נֶּ֖שֶׁק]] [[H9009\|הַ]][[H4740H\|מִּקְצֹֽעַ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMORY|ARMORY]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESHUA|JESHUA]] • [[topic MIZPAH|MIZPAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.3.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.18|<< Nehemiah 3:18]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.20|Nehemiah 3:20 >>]]</td></tr></table>
 
@@ -21,7 +78,7 @@ And next to him, Ezer son of Jeshua, ruler of Mizpah, repaired another section o
 | from before  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H5048\|נֶּ֕גֶד]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ne.ged<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] going up of  |**<big>&#8207;[[H5927G\|עֲלֹ֥ת]]&#8207; </big>**| 'a.Lot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the armory  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5402\|נֶּ֖שֶׁק]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ne.shek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the buttress  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4740H\|מִּקְצֹֽעַ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mik.Tzo.a'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the buttress  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4740H\|מִּקְצֹֽעַ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mik.Tzo.a'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.18|<< Nehemiah 3:18]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.20|Nehemiah 3:20 >>]]</td></tr></table>
 
 

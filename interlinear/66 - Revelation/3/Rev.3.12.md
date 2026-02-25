@@ -1,10 +1,77 @@
+---
+title: Revelation 3:12
+type: Verse
+kjv: "Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, which is new Jerusalem, which cometh down out of heaven from my God: and I will write upon him my new name."
+bsb: "The one who overcomes I will make a pillar in the temple of My God, and he will never again leave it. Upon him I will write the name of My God, and the name of the city of My God (the new Jerusalem that comes down out of heaven from My God), and My new name."
+jesus_said: "Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, which is new Jerusalem, which cometh down out of heaven from my God: and I will write upon him my new name."
+greek: "ὁ νικῶν, ποιήσω αὐτὸν στῦλον ἐν τῷ ναῷ τοῦ θεοῦ μου, καὶ ἔξω οὐ μὴ ἐξέλθῃ ἔτι, καὶ γράψω ἐπ᾽ αὐτὸν τὸ ὄνομα τοῦ θεοῦ μου καὶ τὸ ὄνομα τῆς πόλεως τοῦ θεοῦ μου, τῆς καινῆς Ἰερουσαλήμ, ἡ καταβαίνουσα ἐκ τοῦ οὐρανοῦ ἀπὸ τοῦ θεοῦ μου, καὶ τὸ ὄνομά μου τὸ καινόν."
+pericope: "[[Rev.3.7 To the Church in Philadelphia|To the Church in Philadelphia]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 3
+book/chapter: "[[Rev.3|Revelation 3]]"
+chronological_order: 1170
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic PHILADELPHIA|PHILADELPHIA]]"
+- "[[topic PILLAR|PILLAR]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G3588]]"
+- "[[G3528]]"
+- "[[G4160G]]"
+- "[[G0846]]"
+- "[[G4769]]"
+- "[[G1722]]"
+- "[[G3485]]"
+- "[[G2316]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G1854]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G1831]]"
+- "[[G2089]]"
+- "[[G1125]]"
+- "[[G1909]]"
+- "[[G3686]]"
+- "[[G4172]]"
+- "[[G2537]]"
+- "[[G2419]]"
+- "[[G2597]]"
+- "[[G1537]]"
+- "[[G3772]]"
+- "[[G0575]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Revelation 3:12**<big><big>[[Rev.3.7 To the Church in Philadelphia|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, [which is] new Jerusalem, which cometh down out of heaven from my God: and [I will write upon him] my new name.
 <small><sub>**BSB:**</sub></small>
 The one who overcomes I will make a pillar in the temple of My God, and he will never again leave it. Upon him I will write the name of My God, and the name of the city of My God (the new Jerusalem that comes down out of heaven from My God), and My new name.
-<small><sub>**Literal:**</sub></small>
-The [one] overcoming, I will make him a pillar in the temple of the God of Mine, and out certainly not shall he go anymore, And I will write upon him the name of the God of Mine and the name of the city of the God of Mine, the new Jerusalem, which is descending out of <the> heaven from the God of Mine, and the name of Me <the> new.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.11|<< Revelation 3:11]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.13|Revelation 3:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G3528\|νικῶν,]]  [[G4160G\|ποιήσω]]  [[G0846\|αὐτὸν]]  [[G4769\|στῦλον]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3485\|ναῷ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3165\|μου,]]  [[G2532\|καὶ]]  [[G1854\|ἔξω]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G1831\|ἐξέλθῃ]]  [[G2089\|ἔτι,]]  [[G2532\|καὶ]]  [[G1125\|γράψω]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτὸν]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G3588\|τῆς]]  [[G4172\|πόλεως]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3165\|μου,]]  [[G3588\|τῆς]]  [[G2537\|καινῆς]]  [[G2419\|Ἰερουσαλήμ,]]  [[G3588\|ἡ]]  [[G2597\|καταβαίνουσα]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3165\|μου,]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G3686\|ὄνομά]]  [[G3165\|μου]]  [[G3588\|τὸ]]  [[G2537\|καινόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DECISION|DECISION]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic PHILADELPHIA|PHILADELPHIA]] • [[topic PILLAR|PILLAR]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TEMPLE|TEMPLE]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.11|<< Revelation 3:11]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.13|Revelation 3:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

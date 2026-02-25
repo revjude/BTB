@@ -1,8 +1,61 @@
+---
+title: Daniel 7:24
+type: Verse
+kjv: "And the ten horns out of this kingdom are ten kings that shall arise: and another shall rise after them; and he shall be diverse from the first, and he shall subdue three kings."
+bsb: "And the ten horns are ten kings who will rise from this kingdom. After them another king, different from the earlier ones, will rise and subdue three kings."
+aramaic: "וְקַרְנַיָּ֣א עֲשַׂ֔ר מִנַּהּ֙ מַלְכוּתָ֔ה עַשְׂרָ֥ה מַלְכִ֖ין יְקֻמ֑וּן וְאָחֳרָ֞ן יְק֣וּם אַחֲרֵיה֗וֹן וְה֤וּא יִשְׁנֵא֙ מִן־ קַדְמָיֵ֔א וּתְלָתָ֥ה מַלְכִ֖ין יְהַשְׁפִּֽל׃"
+pericope: "[[Dan.7.15 Daniel’s Visions Interpreted|Daniel’s Visions Interpreted]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 7
+book/chapter: "[[Dan.7|Daniel 7]]"
+chronological_order: 843
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic HORN|HORN]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9002]]"
+- "[[H7162]]"
+- "[[H9010]]"
+- "[[H6236]]"
+- "[[H4481]]"
+- "[[H9034]]"
+- "[[H4437]]"
+- "[[H4430]]"
+- "[[H6966G]]"
+- "[[H0321]]"
+- "[[H0311]]"
+- "[[H9038]]"
+- "[[H1932]]"
+- "[[H8133]]"
+- "[[H9014]]"
+- "[[H6933]]"
+- "[[H8532]]"
+- "[[H8214]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 7:24**<big><big>[[Dan.7.15 Daniel’s Visions Interpreted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the ten horns out of this kingdom [are] ten kings [that] shall arise: and another shall rise after them; and he shall be diverse from the first, and he shall subdue three kings.
 <small><sub>**BSB:**</sub></small>
 And the ten horns are ten kings who will rise from this kingdom. After them another king, different from the earlier ones, will rise and subdue three kings.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וְ]][[H7162\|קַרְנַיָּ֣]][[H9010\|א]] [[H6236\|עֲשַׂ֔ר]] [[H4481\|מִנַּ]][[H9034\|הּ֙]] [[H4437\|מַלְכוּתָ֔]][[H9010\|ה]] [[H6236\|עַשְׂרָ֥ה]] [[H4430\|מַלְכִ֖ין]] [[H6966G\|יְקֻמ֑וּן]] [[H9002\|וְ]][[H0321\|אָחֳרָ֞ן]] [[H6966G\|יְק֣וּם]] [[H0311\|אַחֲרֵי]][[H9038\|ה֗וֹן]] [[H9002\|וְ]][[H1932\|ה֤וּא]] [[H8133\|יִשְׁנֵא֙]] [[H4481\|מִן]][[H9014\|־]] [[H6933\|קַדְמָיֵ֔]][[H9010\|א]] [[H9002\|וּ]][[H8532\|תְלָתָ֥ה]] [[H4430\|מַלְכִ֖ין]] [[H8214\|יְהַשְׁפִּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HORN|HORN]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.23|<< Daniel 7:23]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.25|Daniel 7:25 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

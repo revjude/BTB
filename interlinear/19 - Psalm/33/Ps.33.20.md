@@ -1,8 +1,57 @@
+---
+title: Psalm 33:20
+type: Verse
+kjv: "Our soul waiteth for the LORD: he is our help and our shield."
+bsb: "Our soul waits for the LORD; He is our help and our shield."
+hebrew: "נַ֭פְשֵׁנוּ חִכְּתָ֣ה לַֽיהוָ֑ה עֶזְרֵ֖נוּ וּמָגִנֵּ֣נוּ הֽוּא׃"
+pericope: "[[Ps.33.1 Praise to the Creator|Praise to the Creator]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 33
+book/chapter: "[[Ps.33|Psalm 33]]"
+chronological_order: 423
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic SHIELD|SHIELD]]"
+- "[[topic WAITING|WAITING]]"
+strongs:
+- "[[H5315G]]"
+- "[[H9025]]"
+- "[[H2442]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H5828]]"
+- "[[H9002]]"
+- "[[H4043]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 33:20**<big><big>[[Ps.33.1 Praise to the Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Our soul waiteth for the LORD: he [is] our help and our shield.
 <small><sub>**BSB:**</sub></small>
 Our soul waits for the LORD; He is our help and our shield.
+<small><sub>**Hebrew:**</sub></small>
+[[H5315G\|נַ֭פְשֵׁ]][[H9025\|נוּ]] [[H2442\|חִכְּתָ֣ה]] [[H9005\|לַֽ]][[H3068G\|יהוָ֑ה]] [[H5828\|עֶזְרֵ֖]][[H9025\|נוּ]] [[H9002\|וּ]][[H4043\|מָגִנֵּ֣]][[H9025\|נוּ]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic FAITH|FAITH]] • [[topic SEEKERS|SEEKERS]] • [[topic SHIELD|SHIELD]] • [[topic WAITING|WAITING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.33.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.33.19|<< Psalms 33:19]]</td><td align="center" style="border:none;">[[Ps.33|Psalms 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.33.21|Psalms 33:21 >>]]</td></tr></table>
 

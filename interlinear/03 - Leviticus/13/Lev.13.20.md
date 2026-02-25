@@ -1,8 +1,70 @@
+---
+title: Leviticus 13:20
+type: Verse
+kjv: "And if, when the priest seeth it, behold, it be in sight lower than the skin, and the hair thereof be turned white; the priest shall pronounce him unclean: it is a plague of leprosy broken out of the boil."
+bsb: "The priest shall examine it, and if it appears to be beneath the skin and the hair in it has turned white, the priest shall pronounce him unclean; it is a diseased infection that has broken out in the boil."
+hebrew: "וְרָאָ֣ה הַכֹּהֵ֗ן וְהִנֵּ֤ה מַרְאֶ֙הָ֙ שָׁפָ֣ל מִן־ הָע֔וֹר וּשְׂעָרָ֖הּ הָפַ֣ךְ לָבָ֑ן וְטִמְּא֧וֹ הַכֹּהֵ֛ן נֶֽגַע־ צָרַ֥עַת הִ֖וא בַּשְּׁחִ֥ין פָּרָֽחָה׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BOIL|BOIL]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H4758]]"
+- "[[H9024]]"
+- "[[H8217]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H5785]]"
+- "[[H8181]]"
+- "[[H2015]]"
+- "[[H3836]]"
+- "[[H2930A]]"
+- "[[H9033]]"
+- "[[H5061]]"
+- "[[H6883]]"
+- "[[H1931]]"
+- "[[H9003]]"
+- "[[H7822]]"
+- "[[H6524B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:20**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if, when the priest seeth it, behold, it [be] in sight lower than the skin, and the hair thereof be turned white; the priest shall pronounce him unclean: it [is] a plague of leprosy broken out of the boil.
 <small><sub>**BSB:**</sub></small>
 The priest shall examine it, and if it appears to be beneath the skin and the hair in it has turned white, the priest shall pronounce him unclean; it is a diseased infection that has broken out in the boil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7200G\|רָאָ֣ה]] [[H9009\|הַ]][[H3548\|כֹּהֵ֗ן]] [[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H4758\|מַרְאֶ֙]][[H9024\|הָ֙]] [[H8217\|שָׁפָ֣ל]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5785\|ע֔וֹר]] [[H9002\|וּ]][[H8181\|שְׂעָרָ֖]][[H9024\|הּ]] [[H2015\|הָפַ֣ךְ]] [[H3836\|לָבָ֑ן]] [[H9001\|וְ]][[H2930A\|טִמְּא֧]][[H9033\|וֹ]] [[H9009\|הַ]][[H3548\|כֹּהֵ֛ן]] [[H5061\|נֶֽגַע]][[H9014\|־]] [[H6883\|צָרַ֥עַת]] [[H1931\|הִ֖וא]] [[H9003\|בַּ]][[H7822\|שְּׁחִ֥ין]] [[H6524B\|פָּרָֽחָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOIL|BOIL]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.19|<< Leviticus 13:19]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.21|Leviticus 13:21 >>]]</td></tr></table>
 

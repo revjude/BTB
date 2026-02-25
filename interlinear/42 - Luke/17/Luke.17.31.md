@@ -1,10 +1,64 @@
+---
+title: Luke 17:31
+type: Verse
+kjv: "In that day, he which shall be upon the housetop, and his stuff in the house, let him not come down to take it away: and he that is in the field, let him likewise not return back."
+bsb: "On that day, let no one on the housetop come down to retrieve his possessions. Likewise, let no one in the field return for anything he has left behind."
+jesus_said: "In that day, he which shall be upon the housetop, and his stuff in the house, let him not come down to take it away: and he that is in the field, let him likewise not return back."
+greek: "ἐν ἐκείνῃ τῇ ἡμέρᾳ ὃς ἔσται ἐπὶ τοῦ δώματος καὶ τὰ σκεύη αὐτοῦ ἐν τῇ οἰκίᾳ, μὴ καταβάτω ἆραι αὐτά· καὶ ὁ ἐν τῷ ἀγρῷ ὁμοίως μὴ ἐπιστρεψάτω εἰς τὰ ὀπίσω."
+pericope: "[[Luke.17.20 The Coming of the Kingdom|The Coming of the Kingdom]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 17
+book/chapter: "[[Luke.17|Luke 17]]"
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G1722]]"
+- "[[G1565]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G1909]]"
+- "[[G1430]]"
+- "[[G2532]]"
+- "[[G4632]]"
+- "[[G0846]]"
+- "[[G3614G]]"
+- "[[G3361]]"
+- "[[G2597]]"
+- "[[G0142]]"
+- "[[G0068G]]"
+- "[[G3668]]"
+- "[[G1994]]"
+- "[[G1519]]"
+- "[[G3694]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 17:31**<big><big>[[Luke.17.20 The Coming of the Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 In that day, he which shall be upon the housetop, and his stuff in the house, let him not come down to take it away: and he that is in the field, let him likewise not return back.
 <small><sub>**BSB:**</sub></small>
 On that day, let no one on the housetop come down to retrieve his possessions. Likewise, let no one in the field return for anything he has left behind.
-<small><sub>**Literal:**</sub></small>
-In that [very] <the> day the [one who] will be on the housetop and the goods of him in the house, not he should come down to take away them; and the [one] in the field likewise not he should return to the [things] back.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.30|<< Luke 17:30]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.32|Luke 17:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G1565\|ἐκείνῃ]]  [[G3588\|τῇ]]  [[G2250\|ἡμέρᾳ]]  [[G3739\|ὃς]]  [[G1510\|ἔσται]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῦ]]  [[G1430\|δώματος]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G4632\|σκεύη]]  [[G0846\|αὐτοῦ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3614G\|οἰκίᾳ,]]  [[G3361\|μὴ]]  [[G2597\|καταβάτω]]  [[G0142\|ἆραι]]  [[G0846\|αὐτά·]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0068G\|ἀγρῷ]]  [[G3668\|ὁμοίως]]  [[G3361\|μὴ]]  [[G1994\|ἐπιστρεψάτω]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G3694\|ὀπίσω.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.30|<< Luke 17:30]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.32|Luke 17:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

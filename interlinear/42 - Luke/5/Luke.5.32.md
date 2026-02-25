@@ -1,10 +1,52 @@
+---
+title: Luke 5:32
+type: Verse
+kjv: "I came not to call the righteous, but sinners to repentance."
+bsb: "I have not come to call the righteous, but sinners, to repentance.”"
+jesus_said: "I came not to call the righteous, but sinners to repentance."
+greek: "οὐκ ἐλήλυθα καλέσαι δικαίους ἀλλ᾽ ἁμαρτωλοὺς εἰς μετάνοιαν."
+pericope: "[[Luke.5.27 Jesus Calls Levi|Jesus Calls Levi]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 5
+book/chapter: "[[Luke.5|Luke 5]]"
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G3756]]"
+- "[[G2064]]"
+- "[[G2564G]]"
+- "[[G1342]]"
+- "[[G0235]]"
+- "[[G0268]]"
+- "[[G1519]]"
+- "[[G3341]]"
+texts:
+- NKO
+---
+
 **Luke 5:32**<big><big>[[Luke.5.27 Jesus Calls Levi|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I came not to call the righteous, but sinners to repentance.
 <small><sub>**BSB:**</sub></small>
 I have not come to call the righteous, but sinners, to repentance.”
-<small><sub>**Literal:**</sub></small>
-Not I have come to call righteous [ones] but sinners to repentance.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.31|<< Luke 5:31]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.33|Luke 5:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐκ]]  [[G2064\|ἐλήλυθα]]  [[G2564G\|καλέσαι]]  [[G1342\|δικαίους]]  [[G0235\|ἀλλ᾽]]  [[G0268\|ἁμαρτωλοὺς]]  [[G1519\|εἰς]]  [[G3341\|μετάνοιαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.31|<< Luke 5:31]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.33|Luke 5:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

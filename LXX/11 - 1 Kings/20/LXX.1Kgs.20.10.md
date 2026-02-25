@@ -1,6 +1,66 @@
+---
+title: LXX 1 Kings 20:10
+type: Verse
+lxx: "And the son of Hadad sent to him saying, Thus the gods do to me, and thus may they add, if the dust of Samaria shall suffice for the handful to all the people, to my footmen."
+greek: "και απέστειλε προς αυτόν υιός Άδερ λέγων τάδε ποιήσαισαν μοι οι θεοί και τάδε προσθείησαν ει εκποιήσει ο χους Σαμαρείας ταις δραξί παντί τω λαώ τοις πεζοίς μου"
+original_language: Greek
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+strongs:
+- "[[G2532]]"
+- "[[G0649]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G5207]]"
+- "[[H2301]]"
+- "[[G3004]]"
+- "[[G3592]]"
+- "[[G4160]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G3592]]"
+- "[[G4369]]"
+- "[[G1487]]"
+- "[[G7133]]"
+- "[[G3588]]"
+- "[[G5522]]"
+- "[[G4541]]"
+- "[[G3588]]"
+- "[[G6968]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G3588]]"
+- "[[G8677]]"
+- "[[G1473]]"
+---
+
 **LXX 1 Kings 20:10** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] son of Hadad sent to him saying, Thus the gods do to me, and thus may they add, if the dust of Samaria shall suffice for the handful to all the people, \[to\] my footmen. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0649\|απέστειλε]] [[G4314\|προς]] [[G1473\|αυτόν]] [[G5207\|υιός]] [[H2301\|Άδερ]] [[G3004\|λέγων]] [[G3592\|τάδε]] [[G4160\|ποιήσαισαν]] [[G1473\|μοι]] [[G3588\|οι]] [[G2316\|θεοί]] [[G2532\|και]] [[G3592\|τάδε]] [[G4369\|προσθείησαν]] [[G1487\|ει]] [[G7133\|εκποιήσει]] [[G3588\|ο]] [[G5522\|χους]] [[G4541\|Σαμαρείας]] [[G3588\|ταις]] [[G6968\|δραξί]] [[G3956\|παντί]] [[G3588\|τω]] [[G2992\|λαώ]] [[G3588\|τοις]] [[G8677\|πεζοίς]] [[G1473\|μου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOASTING|BOASTING]] • [[topic PRESUMPTION|PRESUMPTION]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Kgs.20.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.9|<< 1 Kings 20:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.11|1 Kings 20:11 >>]]</td></tr></table>
 
@@ -33,6 +93,6 @@ And \[the\] son of Hadad sent to him saying, Thus the gods do to me, and thus ma
 | people, | **<big>[[G2992\|λαώ]]</big>** |
 | \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
 | my footmen. | **<big>[[G8677\|πεζοίς]]</big>** **<big>[[G1473\|μου]]</big>** |
-[[1Kgs.20.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.9|<< 1 Kings 20:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.11|1 Kings 20:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.9|<< 1 Kings 20:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.11|1 Kings 20:11 >>]]</td></tr></table>
 
 

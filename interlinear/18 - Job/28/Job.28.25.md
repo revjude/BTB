@@ -1,8 +1,54 @@
+---
+title: Job 28:25
+type: Verse
+kjv: "To make the weight for the winds; and he weigheth the waters by measure."
+bsb: "When God fixed the weight of the wind and measured out the waters,"
+hebrew: "לַעֲשׂ֣וֹת לָר֣וּחַ מִשְׁקָ֑ל וּ֝מַ֗יִם תִּכֵּ֥ן בְּמִדָּֽה׃"
+pericope: "[[Job.28.1 Where Can Wisdom Be Found？|Where Can Wisdom Be Found？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 28
+book/chapter: "[[Job.28|Job 28]]"
+chronological_order: 39
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9005]]"
+- "[[H6213I]]"
+- "[[H7307H]]"
+- "[[H4948]]"
+- "[[H9002]]"
+- "[[H4325G]]"
+- "[[H8505]]"
+- "[[H9003]]"
+- "[[H4060A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 28:25**<big><big>[[Job.28.1 Where Can Wisdom Be Found？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To make the weight for the winds; and he weigheth the waters by measure.
 <small><sub>**BSB:**</sub></small>
 When God fixed the weight of the wind and measured out the waters,
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H6213I\|עֲשׂ֣וֹת]] [[H9005\|לָ]][[H7307H\|ר֣וּחַ]] [[H4948\|מִשְׁקָ֑ל]] [[H9002\|וּ֝]][[H4325G\|מַ֗יִם]] [[H8505\|תִּכֵּ֥ן]] [[H9003\|בְּ]][[H4060A\|מִדָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.24|<< Job 28:24]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.26|Job 28:26 >>]]</td></tr></table>
 

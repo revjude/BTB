@@ -1,10 +1,50 @@
+---
+title: John 19:1
+type: Verse
+kjv: "Then Pilate therefore took Jesus, and scourged him."
+bsb: "Then Pilate took Jesus and had Him flogged."
+greek: "Τότε οὖν ἔλαβεν ὁ Πιλᾶτος τὸν Ἰησοῦν καὶ ἐμαστίγωσεν."
+pericope: "[[John.19.1 The Soldiers Mock Jesus|The Soldiers Mock Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SCOURGING|SCOURGING]]"
+strongs:
+- "[[G5119]]"
+- "[[G3767]]"
+- "[[G2983]]"
+- "[[G3588]]"
+- "[[G4091]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G3146]]"
+texts:
+- NKO
+---
+
 **John 19:1**<big><big>[[John.19.1 The Soldiers Mock Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Pilate therefore took Jesus, and scourged [him].
 <small><sub>**BSB:**</sub></small>
 Then Pilate took Jesus and had Him flogged.
-<small><sub>**Literal:**</sub></small>
-At that time therefore took <the> Pilate <the> Jesus and flogged [Him].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.40|<< John 18:40]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.2|John 19:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G3767\|οὖν]]  [[G2983\|ἔλαβεν]]  [[G3588\|ὁ]]  [[G4091\|Πιλᾶτος]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G2532\|καὶ]]  [[G3146\|ἐμαστίγωσεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SCOURGING|SCOURGING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.40|<< John 18:40]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.2|John 19:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

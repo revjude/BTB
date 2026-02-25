@@ -1,10 +1,64 @@
+---
+title: 1 Timothy 5:21
+type: Verse
+kjv: "I charge thee before God, and the Lord Jesus Christ, and the elect angels, that thou observe these things without preferring one before another, doing nothing by partiality."
+bsb: "I solemnly charge you before God and Christ Jesus and the elect angels to maintain these principles without bias, and to do nothing out of partiality."
+greek: "Διαμαρτύρομαι ἐνώπιον τοῦ θεοῦ καὶ κυρίου Χριστοῦ Ἰησοῦ καὶ τῶν ἐκλεκτῶν ἀγγέλων, ἵνα ταῦτα φυλάξῃς χωρὶς προκρίματος μηδὲν ποιῶν κατὰ πρόσκλισιν."
+pericope: "[[1Tim.5.21 A Charge to Timothy|A Charge to Timothy]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 5
+book/chapter: "[[1Tim.5|1 Timothy 5]]"
+chronological_order: 1130
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ELECTION|ELECTION]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PARTIALITY|PARTIALITY]]"
+strongs:
+- "[[G1263]]"
+- "[[G1799]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G2962G]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G1588]]"
+- "[[G0032G]]"
+- "[[G2443]]"
+- "[[G3778]]"
+- "[[G5442G]]"
+- "[[G5565]]"
+- "[[G4299]]"
+- "[[G3367]]"
+- "[[G4160G]]"
+- "[[G2596]]"
+- "[[G4346]]"
+texts:
+- NKO
+- K
+---
+
 **1 Timothy 5:21**<big><big>[[1Tim.5.21 A Charge to Timothy|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I charge [thee] before God, and the Lord Jesus Christ, and the elect angels, that thou observe these things without preferring one before another, doing nothing by partiality.
 <small><sub>**BSB:**</sub></small>
 I solemnly charge you before God and Christ Jesus and the elect angels to maintain these principles without bias, and to do nothing out of partiality.
-<small><sub>**Literal:**</sub></small>
-I earnestly testify before <the> God and Lord Christ Jesus and the elect angels that these things you may keep apart from prejudice nothing doing out of partiality.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.5.20|<< 1 Timothy 5:20]]</td><td align="center" style="border:none;">[[1Tim.5|1 Timothy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.5.22|1 Timothy 5:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1263\|Διαμαρτύρομαι]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G2962G\|κυρίου]]  [[G5547\|Χριστοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G1588\|ἐκλεκτῶν]]  [[G0032G\|ἀγγέλων,]]  [[G2443\|ἵνα]]  [[G3778\|ταῦτα]]  [[G5442G\|φυλάξῃς]]  [[G5565\|χωρὶς]]  [[G4299\|προκρίματος]]  [[G3367\|μηδὲν]]  [[G4160G\|ποιῶν]]  [[G2596\|κατὰ]]  [[G4346\|πρόσκλισιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ELECTION|ELECTION]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PARTIALITY|PARTIALITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.5.20|<< 1 Timothy 5:20]]</td><td align="center" style="border:none;">[[1Tim.5|1 Timothy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.5.22|1 Timothy 5:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

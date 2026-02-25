@@ -1,10 +1,56 @@
+---
+title: Revelation 4:2
+type: Verse
+kjv: "And immediately I was in the spirit: and, behold, a throne was set in heaven, and one sat on the throne."
+bsb: "At once I was in the Spirit, and I saw a throne standing in heaven, with someone seated on it."
+greek: "καὶ εὐθέως ἐγενόμην ἐν πνεύματι καὶ ἰδοὺ θρόνος ἔκειτο ἐν τῷ οὐρανῷ, καὶ ἐπὶ τὸν θρόνον καθήμενος."
+pericope: "[[Rev.4.1 The Throne in Heaven|The Throne in Heaven]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 4
+book/chapter: "[[Rev.4|Revelation 4]]"
+chronological_order: 1171
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic THRONE|THRONE]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2112]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G4151G]]"
+- "[[G2400]]"
+- "[[G2362]]"
+- "[[G2749]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G1909]]"
+- "[[G2521]]"
+texts:
+- k
+- NKO
+- N(k)O
+---
+
 **Revelation 4:2**<big><big>[[Rev.4.1 The Throne in Heaven|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And immediately I was in the spirit: and, behold, a throne was set in heaven, and [one] sat on the throne.
 <small><sub>**BSB:**</sub></small>
 At once I was in the Spirit, and I saw a throne standing in heaven, with someone seated on it.
-<small><sub>**Literal:**</sub></small>
-and immediately I was in [the] Spirit and behold a throne was set in <the> heaven, and upon the throne [One] sitting.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.1|<< Revelation 4:1]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.3|Revelation 4:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2112\|εὐθέως]]  [[G1096\|ἐγενόμην]]  [[G1722\|ἐν]]  [[G4151G\|πνεύματι]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G2362\|θρόνος]]  [[G2749\|ἔκειτο]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3772\|οὐρανῷ,]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G2362\|θρόνον]]  [[G2521\|καθήμενος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic THRONE|THRONE]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.1|<< Revelation 4:1]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.3|Revelation 4:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 4:2** is...
 > $\quad$ possibly alluding to: [[LXX.Ezek.1.26|Ezek 1:26]][[LXX.Ezek.1.28|, 28]]

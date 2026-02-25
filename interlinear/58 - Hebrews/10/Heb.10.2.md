@@ -1,10 +1,61 @@
+---
+title: Hebrews 10:2
+type: Verse
+kjv: "For then would they not have ceased to be offered? because that the worshippers once purged should have had no more conscience of sins."
+bsb: "If it could, would not the offerings have ceased? For the worshipers would have been cleansed once for all, and would no longer have felt the guilt of their sins."
+greek: "ἐπεὶ οὐκ ἂν ἐπαύσαντο προσφερόμεναι διὰ τὸ μηδεμίαν ἔχειν ἔτι συνείδησιν ἁμαρτιῶν τοὺς λατρεύοντας ἅπαξ κεκαθαρισμένους."
+pericope: "[[Heb.10.1 Christ’s Perfect Sacrifice|Christ’s Perfect Sacrifice]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 10
+book/chapter: "[[Heb.10|Hebrews 10]]"
+chronological_order: 1149
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PURITY|PURITY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G1893]]"
+- "[[G3756]]"
+- "[[G0302]]"
+- "[[G3973]]"
+- "[[G4374]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G3367]]"
+- "[[G2192]]"
+- "[[G2089]]"
+- "[[G4893]]"
+- "[[G0266]]"
+- "[[G3000]]"
+- "[[G0530]]"
+- "[[G2511]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Hebrews 10:2**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For then would they not have ceased to be offered? because that the worshippers once purged should have had no more conscience of sins.
 <small><sub>**BSB:**</sub></small>
 If it could, would not the offerings have ceased? For the worshipers would have been cleansed once for all, and would no longer have felt the guilt of their sins.
-<small><sub>**Literal:**</sub></small>
-Otherwise not would they have ceased being offered because of <the> none having any longer conscience of sins those serving once cleansed!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.1|<< Hebrews 10:1]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.3|Hebrews 10:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1893\|ἐπεὶ]]  [[G3756\|οὐκ]]  [[G0302\|ἂν]]  [[G3973\|ἐπαύσαντο]]  [[G4374\|προσφερόμεναι]]  [[G1223\|διὰ]]  [[G3588\|τὸ]]  [[G3367\|μηδεμίαν]]  [[G2192\|ἔχειν]]  [[G2089\|ἔτι]]  [[G4893\|συνείδησιν]]  [[G0266\|ἁμαρτιῶν]]  [[G3588\|τοὺς]]  [[G3000\|λατρεύοντας]]  [[G0530\|ἅπαξ]]  [[G2511\|κεκαθαρισμένους.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic LAW|LAW]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PURITY|PURITY]] • [[topic SIN|SIN]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.1|<< Hebrews 10:1]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.3|Hebrews 10:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,58 @@
+---
+title: Mark 14:69
+type: Verse
+kjv: "And a maid saw him again, and began to say to them that stood by, This is one of them."
+bsb: "There the servant girl saw him and again said to those standing nearby, “This man is one of them.”"
+greek: "καὶ ἡ παιδίσκη ἰδοῦσα αὐτὸν ἤρξατο πάλιν λέγειν τοῖς παρεστῶσιν ὅτι οὗτος ἐξ αὐτῶν ἐστιν."
+pericope: "[[Mark.14.66 Peter Denies Jesus|Peter Denies Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3814]]"
+- "[[G1492H]]"
+- "[[G0846]]"
+- "[[G0757]]"
+- "[[G3825]]"
+- "[[G3004G]]"
+- "[[G3936]]"
+- "[[G3754G]]"
+- "[[G3778]]"
+- "[[G1537]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **Mark 14:69**<big><big>[[Mark.14.66 Peter Denies Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And a maid saw him again, and began to say to them that stood by, This is [one] of them.
 <small><sub>**BSB:**</sub></small>
 There the servant girl saw him and again said to those standing nearby, “This man is one of them.”
-<small><sub>**Literal:**</sub></small>
-And the servant girl having seen him began again to say to those having been standing by that This [one] of them is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.68|<< Mark 14:68]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.70|Mark 14:70 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G3814\|παιδίσκη]]  [[G1492H\|ἰδοῦσα]]  [[G0846\|αὐτὸν]]  [[G0757\|ἤρξατο]]  [[G3825\|πάλιν]]  [[G3004G\|λέγειν]]  [[G3588\|τοῖς]]  [[G3936\|παρεστῶσιν]]  [[G3754G\|ὅτι]]  [[G3778\|οὗτος]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G1510\|ἐστιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COWARDICE|COWARDICE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic PRISONERS|PRISONERS]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.68|<< Mark 14:68]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.70|Mark 14:70 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

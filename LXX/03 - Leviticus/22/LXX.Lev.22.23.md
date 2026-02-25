@@ -1,6 +1,62 @@
+---
+title: LXX Leviticus 22:23
+type: Verse
+lxx: "And a calf or a sheep with mutilated ears, or tailless, you shall make them for slaughter to yourself, but for your vow it shall not be taken."
+greek: "και μόσχον η πρόβατον ωτότμητον η κολοβοκέρκον σφάγια ποιήσεις αυτά σεαυτώ εις δε ευχήν σου ου δεχθήσεται"
+original_language: Greek
+testament: Old
+book: Leviticus
+chapter: 22
+book/chapter: "[[Lev.22|Leviticus 22]]"
+chronological_order: 154
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLEMISH|BLEMISH]]"
+- "[[topic DEDICATION|DEDICATION]]"
+- "[[topic FREE-WILL OFFERINGS|FREE-WILL OFFERINGS]]"
+- "[[topic LAMB|LAMB]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3448]]"
+- "[[G2228]]"
+- "[[G4263]]"
+- "[[G9819]]"
+- "[[G2228]]"
+- "[[G8055]]"
+- "[[G4968]]"
+- "[[G4160]]"
+- "[[G1473]]"
+- "[[G4572]]"
+- "[[G1519]]"
+- "[[G1161]]"
+- "[[G2171]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G1209]]"
+---
+
 **LXX Leviticus 22:23** 
 <small><sub>**LXX:**</sub></small>
 And a calf or a sheep with mutilated ears, or tailless, you shall make them for slaughter to yourself, but for your vow it shall not be taken. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3448\|μόσχον]] [[G2228\|η]] [[G4263\|πρόβατον]] [[G9819\|ωτότμητον]] [[G2228\|η]] [[G8055\|κολοβοκέρκον]] [[G4968\|σφάγια]] [[G4160\|ποιήσεις]] [[G1473\|αυτά]] [[G4572\|σεαυτώ]] [[G1519\|εις]] [[G1161\|δε]] [[G2171\|ευχήν]] [[G1473\|σου]] [[G3756\|ου]] [[G1209\|δεχθήσεται]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLEMISH|BLEMISH]] • [[topic DEDICATION|DEDICATION]] • [[topic FREE-WILL OFFERINGS|FREE-WILL OFFERINGS]] • [[topic LAMB|LAMB]] • [[topic OFFERINGS|OFFERINGS]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Lev.22.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.22|<< Leviticus 22:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.24|Leviticus 22:24 >>]]</td></tr></table>
 
@@ -21,6 +77,6 @@ And a calf or a sheep with mutilated ears, or tailless, you shall make them for 
 | your vow | **<big>[[G2171\|ευχήν]]</big>** **<big>[[G1473\|σου]]</big>** |
 | it shall not | **<big>[[G3756\|ου]]</big>** |
 | be taken. | **<big>[[G1209\|δεχθήσεται]]</big>** |
-[[Lev.22.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.22|<< Leviticus 22:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.24|Leviticus 22:24 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.22|<< Leviticus 22:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.24|Leviticus 22:24 >>]]</td></tr></table>
 
 

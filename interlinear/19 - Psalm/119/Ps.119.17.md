@@ -1,8 +1,53 @@
+---
+title: Psalm 119:17
+type: Verse
+kjv: "Deal bountifully with thy servant, that I may live, and keep thy word."
+bsb: "Deal bountifully with Your servant, that I may live and keep Your word."
+hebrew: "גְּמֹ֖ל עַֽל־ עַבְדְּךָ֥ אֶֽחְיֶ֗ה וְאֶשְׁמְרָ֥ה דְבָרֶֽךָ׃"
+pericope: "[[Ps.119.17 Your Word Is a Lamp to My Feet - GIMEL|Your Word Is a Lamp to My Feet - GIMEL]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+strongs:
+- "[[H1580]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H2421]]"
+- "[[H9002]]"
+- "[[H8104G]]"
+- "[[H1697G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:17**<big><big>[[Ps.119.17 Your Word Is a Lamp to My Feet - GIMEL|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Deal bountifully with thy servant, [that] I may live, and keep thy word.
 <small><sub>**BSB:**</sub></small>
 Deal bountifully with Your servant, that I may live and keep Your word.
+<small><sub>**Hebrew:**</sub></small>
+[[H1580\|גְּמֹ֖ל]] [[H5921A\|עַֽל]][[H9014\|־]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֥]] [[H2421\|אֶֽחְיֶ֗ה]] [[H9002\|וְ]][[H8104G\|אֶשְׁמְרָ֥ה]] [[H1697G\|דְבָרֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.16|<< Psalms 119:16]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.18|Psalms 119:18 >>]]</td></tr></table>
 

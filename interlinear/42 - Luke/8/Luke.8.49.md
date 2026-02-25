@@ -1,10 +1,64 @@
+---
+title: Luke 8:49
+type: Verse
+kjv: "While he yet spake, there cometh one from the ruler of the synagogue’s house, saying to him, Thy daughter is dead; trouble not the Master."
+bsb: "While He was still speaking, someone arrived from the house of the synagogue leader. “Your daughter is dead,” he told Jairus. “Do not bother the Teacher anymore.”"
+greek: "Ἔτι αὐτοῦ λαλοῦντος ἔρχεταί τις παρὰ τοῦ ἀρχισυναγώγου λέγων αὐτῷ ὅτι τέθνηκεν ἡ θυγάτηρ σου· μηκέτι σκύλλε τὸν διδάσκαλον."
+pericope: "[[Luke.8.40 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JAIRUS|JAIRUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2089]]"
+- "[[G0846]]"
+- "[[G2980]]"
+- "[[G2064]]"
+- "[[G5100]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G0752]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G2348]]"
+- "[[G2364]]"
+- "[[G4771]]"
+- "[[G3371]]"
+- "[[G4660]]"
+- "[[G1320]]"
+texts:
+- NKO
+- ko
+- N(K)O
+---
+
 **Luke 8:49**<big><big>[[Luke.8.40 The Healing Touch of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 While he yet spake, there cometh one from the ruler of the synagogue’s [house], saying to him, Thy daughter is dead; trouble not the Master.
 <small><sub>**BSB:**</sub></small>
 While He was still speaking, someone arrived from the house of the synagogue leader. “Your daughter is dead,” he told Jairus. “Do not bother the Teacher anymore.”
-<small><sub>**Literal:**</sub></small>
-Still when he is speaking comes one from the synagogue ruler saying to him that Has died the daughter of You; no longer do trouble the Teacher.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.48|<< Luke 8:48]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.50|Luke 8:50 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2089\|Ἔτι]]  [[G0846\|αὐτοῦ]]  [[G2980\|λαλοῦντος]]  [[G2064\|ἔρχεταί]]  [[G5100\|τις]]  [[G3844\|παρὰ]]  [[G3588\|τοῦ]]  [[G0752\|ἀρχισυναγώγου]]  [[G3004G\|λέγων]]  [[G0846\|αὐτῷ]]  [[G3754G\|ὅτι]]  [[G2348\|τέθνηκεν]]  [[G3588\|ἡ]]  [[G2364\|θυγάτηρ]]  [[G4771\|σου·]]  [[G3371\|μηκέτι]]  [[G4660\|σκύλλε]]  [[G3588\|τὸν]]  [[G1320\|διδάσκαλον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic FAITH|FAITH]] • [[topic JAIRUS|JAIRUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.48|<< Luke 8:48]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.50|Luke 8:50 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

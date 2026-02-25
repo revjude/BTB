@@ -1,8 +1,55 @@
+---
+title: Job 27:9
+type: Verse
+kjv: "Will God hear his cry when trouble cometh upon him?"
+bsb: "Will God hear his cry when distress comes upon him?"
+hebrew: "הַֽ֭צַעֲקָתוֹ יִשְׁמַ֥ע׀ אֵ֑ל כִּֽי־ תָב֖וֹא עָלָ֣יו צָרָֽה׃"
+pericope: "[[Job.27.7 The Wicked Man’s Portion|The Wicked Man’s Portion]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 27
+book/chapter: "[[Job.27|Job 27]]"
+chronological_order: 38
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9008]]"
+- "[[H6818]]"
+- "[[H9023]]"
+- "[[H8085G]]"
+- "[[H9015]]"
+- "[[H0410G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H6869B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 27:9**<big><big>[[Job.27.7 The Wicked Man’s Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Will God hear his cry when trouble cometh upon him?
 <small><sub>**BSB:**</sub></small>
 Will God hear his cry when distress comes upon him?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַֽ֭]][[H6818\|צַעֲקָת]][[H9023\|וֹ]] [[H8085G\|יִשְׁמַ֥ע]][[H9015\|׀]] [[H0410G\|אֵ֑ל]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0935G\|תָב֖וֹא]] [[H5921A\|עָלָ֣י]][[H9033\|ו]] [[H6869B\|צָרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.8|<< Job 27:8]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.10|Job 27:10 >>]]</td></tr></table>
 

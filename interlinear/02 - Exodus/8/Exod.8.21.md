@@ -1,8 +1,75 @@
+---
+title: Exodus 8:21
+type: Verse
+kjv: "Else, if thou wilt not let my people go, behold, I will send swarms of flies upon thee, and upon thy servants, and upon thy people, and into thy houses: and the houses of the Egyptians shall be full of swarms of flies, and also the ground whereon they are."
+bsb: "But if you will not let My people go, I will send swarms of flies upon you and your officials and your people and your houses. The houses of the Egyptians and even the ground where they stand will be full of flies."
+hebrew: "כִּ֣י אִם־ אֵינְךָ֮ מְשַׁלֵּ֣חַ אֶת־ עַמִּי֒ הִנְנִי֩ מַשְׁלִ֨יחַ בְּךָ֜ וּבַעֲבָדֶ֧יךָ וּֽבְעַמְּךָ֛ וּבְבָתֶּ֖יךָ אֶת־ הֶעָרֹ֑ב וּמָ֨לְא֜וּ בָּתֵּ֤י מִצְרַ֙יִם֙ אֶת־ הֶ֣עָרֹ֔ב וְגַ֥ם הָאֲדָמָ֖ה אֲשֶׁר־ הֵ֥ם עָלֶֽיהָ׃"
+pericope: "[[Exod.8.20 The Fourth Plague：Flies|The Fourth Plague：Flies]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 8
+book/chapter: "[[Exod.8|Exodus 8]]"
+chronological_order: 100
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic FLIES|FLIES]]"
+strongs:
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H9014]]"
+- "[[H0369]]"
+- "[[H9041]]"
+- "[[H7971H]]"
+- "[[H0853]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H7971G]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H1004B]]"
+- "[[H9009]]"
+- "[[H6157]]"
+- "[[H9001]]"
+- "[[H4390]]"
+- "[[H4713]]"
+- "[[H1571]]"
+- "[[H0127G]]"
+- "[[H0834A]]"
+- "[[H1992]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 8:21**<big><big>[[Exod.8.20 The Fourth Plague：Flies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Else, if thou wilt not let my people go, behold, I will send swarms [of flies] upon thee, and upon thy servants, and upon thy people, and into thy houses: and the houses of the Egyptians shall be full of swarms [of flies], and also the ground whereon they [are].
 <small><sub>**BSB:**</sub></small>
 But if you will not let My people go, I will send swarms of flies upon you and your officials and your people and your houses. The houses of the Egyptians and even the ground where they stand will be full of flies.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588B\|כִּ֣י]] [[H0518B\|אִם]][[H9014\|־]] [[H0369\|אֵינְ]][[H9041\|ךָ֮]] [[H7971H\|מְשַׁלֵּ֣חַ]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ]][[H9020\|י֒]] [[H2005\|הִנְ]][[H9040\|נִי֩]] [[H7971G\|מַשְׁלִ֨יחַ]] [[H9003\|בְּ]][[H9031\|ךָ֜]] [[H9002\|וּ]][[H9003\|בַ]][[H5650\|עֲבָדֶ֧י]][[H9021\|ךָ]] [[H9002\|וּֽ]][[H9003\|בְ]][[H5971A\|עַמְּ]][[H9021\|ךָ֛]] [[H9002\|וּ]][[H9003\|בְ]][[H1004B\|בָתֶּ֖י]][[H9021\|ךָ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הֶ]][[H6157\|עָרֹ֑ב]] [[H9001\|וּ]][[H4390\|מָ֨לְא֜וּ]] [[H1004B\|בָּתֵּ֤י]] [[H4713\|מִצְרַ֙יִם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הֶ֣]][[H6157\|עָרֹ֔ב]] [[H9002\|וְ]][[H1571\|גַ֥ם]] [[H9009\|הָ]][[H0127G\|אֲדָמָ֖ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1992\|הֵ֥ם]] [[H5921A\|עָלֶֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FLIES|FLIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.8.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.20|<< Exodus 8:20]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8.22|Exodus 8:22 >>]]</td></tr></table>
 

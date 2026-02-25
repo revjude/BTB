@@ -1,8 +1,53 @@
+---
+title: Job 8:21
+type: Verse
+kjv: "Till he fill thy mouth with laughing, and thy lips with rejoicing."
+bsb: "He will yet fill your mouth with laughter, and your lips with a shout of joy."
+hebrew: "עַד־ יְמַלֵּ֣ה שְׂח֣וֹק פִּ֑יךָ וּשְׂפָתֶ֥יךָ תְרוּעָֽה׃"
+pericope: "[[Job.8.1 Bildad：Job Should Repent|Bildad：Job Should Repent]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 8
+book/chapter: "[[Job.8|Job 8]]"
+chronological_order: 19
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JOY|JOY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H4390]]"
+- "[[H7814]]"
+- "[[H6310G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H8193G]]"
+- "[[H8643]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 8:21**<big><big>[[Job.8.1 Bildad：Job Should Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Till he fill thy mouth with laughing, and thy lips with rejoicing.
 <small><sub>**BSB:**</sub></small>
 He will yet fill your mouth with laughter, and your lips with a shout of joy.
+<small><sub>**Hebrew:**</sub></small>
+[[H5704\|עַד]][[H9014\|־]] [[H4390\|יְמַלֵּ֣ה]] [[H7814\|שְׂח֣וֹק]] [[H6310G\|פִּ֑י]][[H9021\|ךָ]] [[H9002\|וּ]][[H8193G\|שְׂפָתֶ֥י]][[H9021\|ךָ]] [[H8643\|תְרוּעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JOY|JOY]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.8.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.8.20|<< Job 8:20]]</td><td align="center" style="border:none;">[[Job.8|Job 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.22|Job 8:22 >>]]</td></tr></table>
 

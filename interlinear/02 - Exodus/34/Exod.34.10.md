@@ -1,8 +1,81 @@
+---
+title: Exodus 34:10
+type: Verse
+kjv: "And he said, Behold, I make a covenant: before all thy people I will do marvels, such as have not been done in all the earth, nor in any nation: and all the people among which thou art shall see the work of the LORD: for it is a terrible thing that I will do with thee."
+bsb: "And the LORD said, “Behold, I am making a covenant. Before all your people I will perform wonders that have never been done in any nation in all the world. All the people among whom you live will see the LORD’s work, for it is an awesome thing that I am doing with you."
+hebrew: "וַיֹּ֗אמֶר הִנֵּ֣ה אָנֹכִי֮ כֹּרֵ֣ת בְּרִית֒ נֶ֤גֶד כָּֽל־ עַמְּךָ֙ אֶעֱשֶׂ֣ה נִפְלָאֹ֔ת אֲשֶׁ֛ר לֹֽא־ נִבְרְא֥וּ בְכָל־ הָאָ֖רֶץ וּבְכָל־ הַגּוֹיִ֑ם וְרָאָ֣ה כָל־ הָ֠עָם אֲשֶׁר־ אַתָּ֨ה בְקִרְבּ֜וֹ אֶת־ מַעֲשֵׂ֤ה יְהוָה֙ כִּֽי־ נוֹרָ֣א ה֔וּא אֲשֶׁ֥ר אֲנִ֖י עֹשֶׂ֥ה עִמָּֽךְ׃"
+pericope: "[[Exod.34.10 The LORD Renews the Covenant|The LORD Renews the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 34
+book/chapter: "[[Exod.34|Exodus 34]]"
+chronological_order: 126
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic JEBUSITES|JEBUSITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H0595]]"
+- "[[H3772H]]"
+- "[[H1285]]"
+- "[[H5048]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H6213A]]"
+- "[[H6381]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H1254A]]"
+- "[[H9003]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H1471A]]"
+- "[[H7200G]]"
+- "[[H0859A]]"
+- "[[H7130G]]"
+- "[[H9023]]"
+- "[[H0853]]"
+- "[[H4639G]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H3372H]]"
+- "[[H1931]]"
+- "[[H0589]]"
+- "[[H5973A]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 34:10**<big><big>[[Exod.34.10 The LORD Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Behold, I make a covenant: before all thy people I will do marvels, such as have not been done in all the earth, nor in any nation: and all the people among which thou [art] shall see the work of the LORD: for it [is] a terrible thing that I will do with thee.
 <small><sub>**BSB:**</sub></small>
 And the LORD said, “Behold, I am making a covenant. Before all your people I will perform wonders that have never been done in any nation in all the world. All the people among whom you live will see the LORD’s work, for it is an awesome thing that I am doing with you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H2009\|הִנֵּ֣ה]] [[H0595\|אָנֹכִי֮]] [[H3772H\|כֹּרֵ֣ת]] [[H1285\|בְּרִית֒]] [[H5048\|נֶ֤גֶד]] [[H3605\|כָּֽל]][[H9014\|־]] [[H5971A\|עַמְּ]][[H9021\|ךָ֙]] [[H6213A\|אֶעֱשֶׂ֣ה]] [[H6381\|נִפְלָאֹ֔ת]] [[H0834A\|אֲשֶׁ֛ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1254A\|נִבְרְא֥וּ]] [[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֑ם]] [[H9001\|וְ]][[H7200G\|רָאָ֣ה]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ֠]][[H5971A\|עָם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0859A\|אַתָּ֨ה]] [[H9003\|בְ]][[H7130G\|קִרְבּ֜]][[H9023\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H4639G\|מַעֲשֵׂ֤ה]] [[H3068G\|יְהוָה֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3372H\|נוֹרָ֣א]] [[H1931\|ה֔וּא]] [[H0834A\|אֲשֶׁ֥ר]] [[H0589\|אֲנִ֖י]] [[H6213A\|עֹשֶׂ֥ה]] [[H5973A\|עִמָּֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic JEBUSITES|JEBUSITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.9|<< Exodus 34:9]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.11|Exodus 34:11 >>]]</td></tr></table>
 

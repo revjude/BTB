@@ -1,8 +1,58 @@
+---
+title: 1 Samuel 4:9
+type: Verse
+kjv: "Be strong, and quit yourselves like men, O ye Philistines, that ye be not servants unto the Hebrews, as they have been to you: quit yourselves like men, and fight."
+bsb: "Take courage and be men, O Philistines! Otherwise, you will serve the Hebrews just as they served you. Now be men and fight!”"
+hebrew: "הִֽתְחַזְּק֞וּ וִֽהְי֤וּ לַֽאֲנָשִׁים֙ פְּלִשְׁתִּ֔ים פֶּ֚ן תַּעַבְד֣וּ לָעִבְרִ֔ים כַּאֲשֶׁ֥ר עָבְד֖וּ לָכֶ֑ם וִהְיִיתֶ֥ם לַאֲנָשִׁ֖ים וְנִלְחַמְתֶּֽם׃"
+pericope: "[[1Sam.4.1 The Philistines Capture the Ark|The Philistines Capture the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 4
+book/chapter: "[[1Sam.4|1 Samuel 4]]"
+chronological_order: 283
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic APHEK|APHEK]]"
+- "[[topic ARK|ARK]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic HEBREW|HEBREW]]"
+strongs:
+- "[[H2388G]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0582]]"
+- "[[H6430G]]"
+- "[[H6435]]"
+- "[[H5647G]]"
+- "[[H5680]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9036]]"
+- "[[H9001]]"
+- "[[H3898A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 4:9**<big><big>[[1Sam.4.1 The Philistines Capture the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be strong, and quit yourselves like men, O ye Philistines, that ye be not servants unto the Hebrews, as they have been to you: quit yourselves like men, and fight.
 <small><sub>**BSB:**</sub></small>
 Take courage and be men, O Philistines! Otherwise, you will serve the Hebrews just as they served you. Now be men and fight!”
+<small><sub>**Hebrew:**</sub></small>
+[[H2388G\|הִֽתְחַזְּק֞וּ]] [[H9002\|וִֽ]][[H1961\|הְי֤וּ]] [[H9005\|לַֽ]][[H0582\|אֲנָשִׁים֙]] [[H6430G\|פְּלִשְׁתִּ֔ים]] [[H6435\|פֶּ֚ן]] [[H5647G\|תַּעַבְד֣וּ]] [[H9005\|לָ]][[H5680\|עִבְרִ֔ים]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H5647G\|עָבְד֖וּ]] [[H9005\|לָ]][[H9036\|כֶ֑ם]] [[H9001\|וִ]][[H1961\|הְיִיתֶ֥ם]] [[H9005\|לַ]][[H0582\|אֲנָשִׁ֖ים]] [[H9001\|וְ]][[H3898A\|נִלְחַמְתֶּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APHEK|APHEK]] • [[topic ARK|ARK]] • [[topic ARMIES|ARMIES]] • [[topic HEBREW|HEBREW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.4.8|<< 1 Samuel 4:8]]</td><td align="center" style="border:none;">[[1Sam.4|1 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.4.10|1 Samuel 4:10 >>]]</td></tr></table>
 

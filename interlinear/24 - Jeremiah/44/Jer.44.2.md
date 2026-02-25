@@ -1,8 +1,72 @@
+---
+title: Jeremiah 44:2
+type: Verse
+kjv: "Thus saith the LORD of hosts, the God of Israel; Ye have seen all the evil that I have brought upon Jerusalem, and upon all the cities of Judah; and, behold, this day they are a desolation, and no man dwelleth therein,"
+bsb: "“This is what the LORD of Hosts, the God of Israel, says: You have seen all the disaster that I brought against Jerusalem and all the cities of Judah; and behold, they lie today in ruins and desolation"
+hebrew: "כֹּה־ אָמַ֞ר יְהוָ֤ה צְבָאוֹת֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל אַתֶּ֣ם רְאִיתֶ֗ם אֵ֤ת כָּל־ הָֽרָעָה֙ אֲשֶׁ֤ר הֵבֵ֙אתִי֙ עַל־ יְר֣וּשָׁלִַ֔ם וְעַ֖ל כָּל־ עָרֵ֣י יְהוּדָ֑ה וְהִנָּ֤ם חָרְבָּה֙ הַיּ֣וֹם הַזֶּ֔ה וְאֵ֥ין בָּהֶ֖ם יוֹשֵֽׁב׃"
+pericope: "[[Jer.44.1 Judgment on the Jews in Egypt|Judgment on the Jews in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 44
+book/chapter: "[[Jer.44|Jeremiah 44]]"
+chronological_order: 767
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H0859D]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H7451C]]"
+- "[[H0834A]]"
+- "[[H0935P]]"
+- "[[H5921A]]"
+- "[[H3389]]"
+- "[[H9002]]"
+- "[[H5892B]]"
+- "[[H3063G]]"
+- "[[H2005]]"
+- "[[H9048]]"
+- "[[H2723]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H0369]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 44:2**<big><big>[[Jer.44.1 Judgment on the Jews in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD of hosts, the God of Israel; Ye have seen all the evil that I have brought upon Jerusalem, and upon all the cities of Judah; and, behold, this day they [are] a desolation, and no man dwelleth therein,
 <small><sub>**BSB:**</sub></small>
 “This is what the LORD of Hosts, the God of Israel, says: You have seen all the disaster that I brought against Jerusalem and all the cities of Judah; and behold, they lie today in ruins and desolation
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּה]][[H9014\|־]] [[H0559\|אָמַ֞ר]] [[H3068G\|יְהוָ֤ה]] [[H6635B\|צְבָאוֹת֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0859D\|אַתֶּ֣ם]] [[H7200G\|רְאִיתֶ֗ם]] [[H0853\|אֵ֤ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָֽ]][[H7451C\|רָעָה֙]] [[H0834A\|אֲשֶׁ֤ר]] [[H0935P\|הֵבֵ֙אתִי֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3389\|יְר֣וּשָׁלִַ֔ם]] [[H9002\|וְ]][[H5921A\|עַ֖ל]] [[H3605\|כָּל]][[H9014\|־]] [[H5892B\|עָרֵ֣י]] [[H3063G\|יְהוּדָ֑ה]] [[H9002\|וְ]][[H2005\|הִנָּ֤]][[H9048\|ם]] [[H2723\|חָרְבָּה֙]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H9003\|בָּ]][[H9038\|הֶ֖ם]] [[H3427\|יוֹשֵֽׁב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.1|<< Jeremiah 44:1]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.3|Jeremiah 44:3 >>]]</td></tr></table>
 

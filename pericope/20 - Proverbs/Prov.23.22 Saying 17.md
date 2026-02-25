@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saying 17
+type: Pericope
 pericope: "[[Prov.23.22 Saying 17|Saying 17]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 23
 book/chapter: "[[Prov.23|Proverbs 23]]"
-genre:
+chronological_order: 478
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 4
 verses:
 - "[[Prov.23.22]]"
 - "[[Prov.23.23]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Prov.23.25]]"
 ---
 
-[[Prov.23|Proverbs 23:22 - Proverbs 23:25]]
+<small>[[Prov.23|Proverbs 23:22-25]]</small>
 *Saying 17*
 
 [[Prov.23.22|22]] Hearken unto thy father that begat thee, and despise not thy mother when she is old.

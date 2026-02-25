@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Rehoboam Reigns in Judah
+type: Pericope
 pericope: "[[1Kgs.14.21 Rehoboam Reigns in Judah|Rehoboam Reigns in Judah]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 14
 book/chapter: "[[1Kgs.14|1 Kings 14]]"
-genre:
+chronological_order: 553
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 4
 verses:
 - "[[1Kgs.14.21]]"
 - "[[1Kgs.14.22]]"
@@ -24,7 +31,7 @@ verses:
 - "[[1Kgs.14.24]]"
 ---
 
-[[1Kgs.14|1 Kings 14:21 - 1 Kings 14:24]]
+<small>[[1Kgs.14|1 Kings 14:21-24]]</small>
 *Rehoboam Reigns in Judah*
 
 [[1Kgs.14.21|21]] And Rehoboam the son of Solomon reigned in Judah. Rehoboam \[was\] forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD did choose out of all the tribes of Israel, to put his name there. And his mother’s name \[was\] Naamah an Ammonitess.

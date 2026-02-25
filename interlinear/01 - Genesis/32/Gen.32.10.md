@@ -1,8 +1,75 @@
+---
+title: Genesis 32:10
+type: Verse
+kjv: "I am not worthy of the least of all the mercies, and of all the truth, which thou hast shewed unto thy servant; for with my staff I passed over this Jordan; and now I am become two bands."
+bsb: "I am unworthy of all the kindness and faithfulness You have shown Your servant. Indeed, with only my staff I came across the Jordan, but now I have become two camps."
+hebrew: "קָטֹ֜נְתִּי מִכֹּ֤ל הַחֲסָדִים֙ וּמִכָּל־ הָ֣אֱמֶ֔ת אֲשֶׁ֥ר עָשִׂ֖יתָ אֶת־ עַבְדֶּ֑ךָ כִּ֣י בְמַקְלִ֗י עָבַ֙רְתִּי֙ אֶת־ הַיַּרְדֵּ֣ן הַזֶּ֔ה וְעַתָּ֥ה הָיִ֖יתִי לִשְׁנֵ֥י מַחֲנֽוֹת׃"
+pericope: "[[Gen.32.1 Jacob Prepares to Meet Esau|Jacob Prepares to Meet Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 32
+book/chapter: "[[Gen.32|Genesis 32]]"
+chronological_order: 74
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JORDAN|JORDAN]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H6994]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H2617A]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H0571G]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H0854]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H4731]]"
+- "[[H9020]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H3383]]"
+- "[[H2088]]"
+- "[[H6258]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H8147]]"
+- "[[H4264]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 32:10**<big><big>[[Gen.32.1 Jacob Prepares to Meet Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I am not worthy of the least of all the mercies, and of all the truth, which thou hast shewed unto thy servant; for with my staff I passed over this Jordan; and now I am become two bands.
 <small><sub>**BSB:**</sub></small>
 I am unworthy of all the kindness and faithfulness You have shown Your servant. Indeed, with only my staff I came across the Jordan, but now I have become two camps.
+<small><sub>**Hebrew:**</sub></small>
+[[H6994\|קָטֹ֜נְתִּי]] [[H9006\|מִ]][[H3605\|כֹּ֤ל]] [[H9009\|הַ]][[H2617A\|חֲסָדִים֙]] [[H9002\|וּ]][[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ֣]][[H0571G\|אֱמֶ֔ת]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|עָשִׂ֖יתָ]] [[H0854\|אֶת]][[H9014\|־]] [[H5650\|עַבְדֶּ֑]][[H9021\|ךָ]] [[H3588A\|כִּ֣י]] [[H9003\|בְ]][[H4731\|מַקְלִ֗]][[H9020\|י]] [[H5674A\|עָבַ֙רְתִּי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֣ן]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9002\|וְ]][[H6258\|עַתָּ֥ה]] [[H1961\|הָיִ֖יתִי]] [[H9005\|לִ]][[H8147\|שְׁנֵ֥י]] [[H4264\|מַחֲנֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HUMILITY|HUMILITY]] • [[topic JORDAN|JORDAN]] • [[topic PRAYER|PRAYER]] • [[topic PRUDENCE|PRUDENCE]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.9|<< Genesis 32:9]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.11|Genesis 32:11 >>]]</td></tr></table>
 

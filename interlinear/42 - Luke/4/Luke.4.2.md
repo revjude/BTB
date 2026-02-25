@@ -1,10 +1,62 @@
+---
+title: Luke 4:2
+type: Verse
+kjv: "Being forty days tempted of the devil. And in those days he did eat nothing: and when they were ended, he afterward hungered."
+bsb: "where for forty days He was tempted by the devil. He ate nothing during those days, and when they had ended, He was hungry."
+greek: "ἡμέρας τεσσεράκοντα πειραζόμενος ὑπὸ τοῦ διαβόλου. καὶ οὐκ ἔφαγεν οὐδὲν ἐν ταῖς ἡμέραις ἐκείναις, καὶ συντελεσθεισῶν αὐτῶν ὕστερον ἐπείνασεν."
+pericope: "[[Luke.4.1 The Temptation of Jesus|The Temptation of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 4
+book/chapter: "[[Luke.4|Luke 4]]"
+chronological_order: 938
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FASTING|FASTING]]"
+- "[[topic HUNGER|HUNGER]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G2250]]"
+- "[[G5062]]"
+- "[[G3985G]]"
+- "[[G5259G]]"
+- "[[G3588]]"
+- "[[G1228]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G5315]]"
+- "[[G3762]]"
+- "[[G1722]]"
+- "[[G1565]]"
+- "[[G4931]]"
+- "[[G0846]]"
+- "[[G5306]]"
+- "[[G3983]]"
+texts:
+- NKO
+- K
+---
+
 **Luke 4:2**<big><big>[[Luke.4.1 The Temptation of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Being forty days tempted of the devil. And in those days he did eat nothing: and when they were ended, he afterward hungered.
 <small><sub>**BSB:**</sub></small>
 where for forty days He was tempted by the devil. He ate nothing during those days, and when they had ended, He was hungry.
-<small><sub>**Literal:**</sub></small>
-days forty being tempted by the devil. And not He ate no [thing] in the days those, and when were ending they afterward He was hungry.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.1|<< Luke 4:1]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.3|Luke 4:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2250\|ἡμέρας]]  [[G5062\|τεσσεράκοντα]]  [[G3985G\|πειραζόμενος]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G1228\|διαβόλου.]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G5315\|ἔφαγεν]]  [[G3762\|οὐδὲν]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις]]  [[G1565\|ἐκείναις,]]  [[G2532\|καὶ]]  [[G4931\|συντελεσθεισῶν]]  [[G0846\|αὐτῶν]]  [[G5306\|ὕστερον]]  [[G3983\|ἐπείνασεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FASTING|FASTING]] • [[topic HUNGER|HUNGER]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SATAN|SATAN]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.1|<< Luke 4:1]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.3|Luke 4:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

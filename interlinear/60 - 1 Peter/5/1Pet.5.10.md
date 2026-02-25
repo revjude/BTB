@@ -1,10 +1,72 @@
+---
+title: 1 Peter 5:10
+type: Verse
+kjv: "But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you."
+bsb: "And after you have suffered for a little while, the God of all grace, who has called you to His eternal glory in Christ, will Himself restore you, secure you, strengthen you, and establish you."
+greek: "Ὁ δὲ θεὸς πάσης χάριτος ὁ καλέσας ὑμᾶς εἰς τὴν αἰώνιον αὐτοῦ δόξαν ἐν Χριστῷ Ἰησοῦ, ὀλίγον παθόντας αὐτὸς καταρτίσει ὑμᾶς, στηρίξει, σθενώσει, θεμελιώσει."
+pericope: "[[1Pet.5.10 Benediction and Farewell|Benediction and Farewell]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 5
+book/chapter: "[[1Pet.5|1 Peter 5]]"
+chronological_order: 1139
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic CALL|CALL]]"
+- "[[topic GLORY|GLORY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SUFFERING|SUFFERING]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2316]]"
+- "[[G3956]]"
+- "[[G5485]]"
+- "[[G2564G]]"
+- "[[G4771]]"
+- "[[G1519]]"
+- "[[G0166]]"
+- "[[G0846]]"
+- "[[G1391]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G3641]]"
+- "[[G3958]]"
+- "[[G2675]]"
+- "[[G4741]]"
+- "[[G4599]]"
+- "[[G2311]]"
+texts:
+- NKO
+- N(K)O
+- k
+---
+
 **1 Peter 5:10**<big><big>[[1Pet.5.10 Benediction and Farewell|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle [you].
 <small><sub>**BSB:**</sub></small>
 And after you have suffered for a little while, the God of all grace, who has called you to His eternal glory in Christ, will Himself restore you, secure you, strengthen you, and establish you.
-<small><sub>**Literal:**</sub></small>
-The now God of all grace the [one] having called you to the eternal of Him glory in Christ Jesus a little while [of you] having suffered He Himself will perfect you he will confirm [you], he will strengthen [you], [and] he will establish [you].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.9|<< 1 Peter 5:9]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.11|1 Peter 5:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2316\|θεὸς]]  [[G3956\|πάσης]]  [[G5485\|χάριτος]]  [[G3588\|ὁ]]  [[G2564G\|καλέσας]]  [[G4771\|ὑμᾶς]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0166\|αἰώνιον]]  [[G0846\|αὐτοῦ]]  [[G1391\|δόξαν]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ,]]  [[G3641\|ὀλίγον]]  [[G3958\|παθόντας]]  [[G0846\|αὐτὸς]]  [[G2675\|καταρτίσει]]  [[G4771\|ὑμᾶς,]]  [[G4741\|στηρίξει,]]  [[G4599\|σθενώσει,]]  [[G2311\|θεμελιώσει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BENEDICTIONS|BENEDICTIONS]] • [[topic CALL|CALL]] • [[topic GLORY|GLORY]] • [[topic GOD|GOD]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERFECTION|PERFECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SUFFERING|SUFFERING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.9|<< 1 Peter 5:9]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.11|1 Peter 5:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

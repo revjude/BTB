@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saul Acknowledges His Sin
+type: Pericope
 pericope: "[[1Sam.26.21 Saul Acknowledges His Sin|Saul Acknowledges His Sin]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 26
 book/chapter: "[[1Sam.26|1 Samuel 26]]"
-genre:
+chronological_order: 305
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 5
 verses:
 - "[[1Sam.26.21]]"
 - "[[1Sam.26.22]]"
@@ -23,7 +30,7 @@ verses:
 - "[[1Sam.26.25]]"
 ---
 
-[[1Sam.26|1 Samuel 26:21 - 1 Samuel 26:25]]
+<small>[[1Sam.26|1 Samuel 26:21-25]]</small>
 *Saul Acknowledges His Sin*
 
 [[1Sam.26.21|21]] Then said Saul, I have sinned: return, my son David: for I will no more do thee harm, because my soul was precious in thine eyes this day: behold, I have played the fool, and have erred exceedingly.

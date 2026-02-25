@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Prayer for Mercy
+type: Pericope
 pericope: "[[Isa.63.15 A Prayer for Mercy|A Prayer for Mercy]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 63
 book/chapter: "[[Isa.63|Isaiah 63]]"
-genre:
+chronological_order: 702
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 5
 verses:
 - "[[Isa.63.15]]"
 - "[[Isa.63.16]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Isa.63.19]]"
 ---
 
-[[Isa.63|Isaiah 63:15 - Isaiah 63:19]]
+<small>[[Isa.63|Isaiah 63:15-19]]</small>
 *A Prayer for Mercy*
 
 [[Isa.63.15|15]] Look down from heaven, and behold from the habitation of thy holiness and of thy glory: where \[is\] thy zeal and thy strength, the sounding of thy bowels and of thy mercies toward me? are they restrained?

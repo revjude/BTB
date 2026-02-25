@@ -1,8 +1,55 @@
+---
+title: Ezekiel 29:2
+type: Verse
+kjv: "Son of man, set thy face against Pharaoh king of Egypt, and prophesy against him, and against all Egypt:"
+bsb: "“Son of man, set your face against Pharaoh king of Egypt and prophesy against him and against all Egypt."
+hebrew: "בֶּן־ אָדָ֕ם שִׂ֣ים פָּנֶ֔יךָ עַל־ פַּרְעֹ֖ה מֶ֣לֶךְ מִצְרָ֑יִם וְהִנָּבֵ֣א עָלָ֔יו וְעַל־ מִצְרַ֖יִם כֻּלָּֽהּ׃"
+pericope: "[[Ezek.29.1 A Prophecy against Pharaoh|A Prophecy against Pharaoh]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 29
+book/chapter: "[[Ezek.29|Ezekiel 29]]"
+chronological_order: 820
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H7760A]]"
+- "[[H6440H]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H6547R]]"
+- "[[H4428G]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H5012]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 29:2**<big><big>[[Ezek.29.1 A Prophecy against Pharaoh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, set thy face against Pharaoh king of Egypt, and prophesy against him, and against all Egypt:
 <small><sub>**BSB:**</sub></small>
 “Son of man, set your face against Pharaoh king of Egypt and prophesy against him and against all Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֕ם]] [[H7760A\|שִׂ֣ים]] [[H6440H\|פָּנֶ֔י]][[H9021\|ךָ]] [[H5921A\|עַל]][[H9014\|־]] [[H6547R\|פַּרְעֹ֖ה]] [[H4428G\|מֶ֣לֶךְ]] [[H4714G\|מִצְרָ֑יִם]] [[H9002\|וְ]][[H5012\|הִנָּבֵ֣א]] [[H5921A\|עָלָ֔י]][[H9033\|ו]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H4714G\|מִצְרַ֖יִם]] [[H3605\|כֻּלָּֽ]][[H9024\|הּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.29.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.29.1|<< Ezekiel 29:1]]</td><td align="center" style="border:none;">[[Ezek.29|Ezekiel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.3|Ezekiel 29:3 >>]]</td></tr></table>
 

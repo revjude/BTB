@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Sabbath-Breaker Stoned
+type: Pericope
 pericope: "[[Num.15.32 A Sabbath-Breaker Stoned|A Sabbath-Breaker Stoned]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 15
 book/chapter: "[[Num.15|Numbers 15]]"
-genre:
+chronological_order: 175
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 5
 verses:
 - "[[Num.15.32]]"
 - "[[Num.15.33]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Num.15.36]]"
 ---
 
-[[Num.15|Numbers 15:32 - Numbers 15:36]]
+<small>[[Num.15|Numbers 15:32-36]]</small>
 *A Sabbath-Breaker Stoned*
 
 [[Num.15.32|32]] And while the children of Israel were in the wilderness, they found a man that gathered sticks upon the sabbath day.

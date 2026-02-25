@@ -1,8 +1,71 @@
+---
+title: Leviticus 27:23
+type: Verse
+kjv: "Then the priest shall reckon unto him the worth of thy estimation, even unto the year of the jubile: and he shall give thine estimation in that day, as a holy thing unto the LORD."
+bsb: "then the priest shall calculate for him the value up to the Year of Jubilee, and the man shall pay the assessed value on that day as a sacred offering to the LORD."
+hebrew: "וְחִשַּׁב־ ל֣וֹ הַכֹּהֵ֗ן אֵ֚ת מִכְסַ֣ת הָֽעֶרְכְּךָ֔ עַ֖ד שְׁנַ֣ת הַיֹּבֵ֑ל וְנָתַ֤ן אֶת־ הָעֶרְכְּךָ֙ בַּיּ֣וֹם הַה֔וּא קֹ֖דֶשׁ לַיהוָֽה׃"
+pericope: "[[Lev.27.1 Rules about Valuations|Rules about Valuations]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 27
+book/chapter: "[[Lev.27|Leviticus 27]]"
+chronological_order: 159
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic LAND|LAND]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9001]]"
+- "[[H2803H]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0853]]"
+- "[[H4373]]"
+- "[[H6187]]"
+- "[[H9021]]"
+- "[[H5704]]"
+- "[[H8141]]"
+- "[[H3104]]"
+- "[[H5414N]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H6944G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 27:23**<big><big>[[Lev.27.1 Rules about Valuations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the priest shall reckon unto him the worth of thy estimation, [even] unto the year of the jubile: and he shall give thine estimation in that day, [as] a holy thing unto the LORD.
 <small><sub>**BSB:**</sub></small>
 then the priest shall calculate for him the value up to the Year of Jubilee, and the man shall pay the assessed value on that day as a sacred offering to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2803H\|חִשַּׁב]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H9009\|הַ]][[H3548\|כֹּהֵ֗ן]] [[H0853\|אֵ֚ת]] [[H4373\|מִכְסַ֣ת]] [[H9009\|הָֽ]][[H6187\|עֶרְכְּ]][[H9021\|ךָ֔]] [[H5704\|עַ֖ד]] [[H8141\|שְׁנַ֣ת]] [[H9009\|הַ]][[H3104\|יֹּבֵ֑ל]] [[H9001\|וְ]][[H5414N\|נָתַ֤ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H6187\|עֶרְכְּ]][[H9021\|ךָ֙]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H6944G\|קֹ֖דֶשׁ]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUBILEE|JUBILEE]] • [[topic LAND|LAND]] • [[topic PRIEST|PRIEST]] • [[topic PROPERTY|PROPERTY]] • [[topic REDEMPTION|REDEMPTION]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.22|<< Leviticus 27:22]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.24|Leviticus 27:24 >>]]</td></tr></table>
 

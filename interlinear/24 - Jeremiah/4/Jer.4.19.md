@@ -1,8 +1,69 @@
+---
+title: Jeremiah 4:19
+type: Verse
+kjv: "My bowels, my bowels! I am pained at my very heart; my heart maketh a noise in me; I cannot hold my peace, because thou hast heard, O my soul, the sound of the trumpet, the alarm of war."
+bsb: "My anguish, my anguish! I writhe in pain! Oh, the pain in my chest! My heart pounds within me; I cannot be silent. For I have heard the sound of the horn, the alarm of battle."
+hebrew: "מֵעַ֣י׀ מֵעַ֨י׀ אוֹחִ֜ילָה קִיר֥וֹת לִבִּ֛י הֹֽמֶה־ לִּ֥י לִבִּ֖י לֹ֣א אַחֲרִ֑ישׁ כִּ֣י ק֤וֹל שׁוֹפָר֙ שָׁמַ֣עַתְּ נַפְשִׁ֔י תְּרוּעַ֖ת מִלְחָמָֽה׃"
+pericope: "[[Jer.4.19 Lamentation for Judah|Lamentation for Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 4
+book/chapter: "[[Jer.4|Jeremiah 4]]"
+chronological_order: 721
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BOWELS|BOWELS]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic TRUMPET|TRUMPET]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H4578]]"
+- "[[H9020]]"
+- "[[H9015]]"
+- "[[H2342K]]"
+- "[[H3176G]]"
+- "[[H7023]]"
+- "[[H3820A]]"
+- "[[H1993]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3808]]"
+- "[[H2790B]]"
+- "[[H3588A]]"
+- "[[H6963H]]"
+- "[[H7782]]"
+- "[[H8085G]]"
+- "[[H5315I]]"
+- "[[H8643]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 4:19**<big><big>[[Jer.4.19 Lamentation for Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My bowels, my bowels! I am pained at my very heart; my heart maketh a noise in me; I cannot hold my peace, because thou hast heard, O my soul, the sound of the trumpet, the alarm of war.
 <small><sub>**BSB:**</sub></small>
 My anguish, my anguish! I writhe in pain! Oh, the pain in my chest! My heart pounds within me; I cannot be silent. For I have heard the sound of the horn, the alarm of battle.
+<small><sub>**Hebrew:**</sub></small>
+[[H4578\|מֵעַ֣]][[H9020\|י]][[H9015\|׀]] [[H4578\|מֵעַ֨]][[H9020\|י]][[H9015\|׀]] [[H3176G\|אוֹחִ֜ילָה]] [[H7023\|קִיר֥וֹת]] [[H3820A\|לִבִּ֛]][[H9020\|י]] [[H1993\|הֹֽמֶה]][[H9014\|־]] [[H9005\|לִּ֥]][[H9030\|י]] [[H3820A\|לִבִּ֖]][[H9020\|י]] [[H3808\|לֹ֣א]] [[H2790B\|אַחֲרִ֑ישׁ]] [[H3588A\|כִּ֣י]] [[H6963H\|ק֤וֹל]] [[H7782\|שׁוֹפָר֙]] [[H8085G\|שָׁמַ֣עַתְּ]] [[H5315I\|נַפְשִׁ֔]][[H9020\|י]] [[H8643\|תְּרוּעַ֖ת]] [[H4421\|מִלְחָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOWELS|BOWELS]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic HEART|HEART]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic TRUMPET|TRUMPET]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.18|<< Jeremiah 4:18]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.20|Jeremiah 4:20 >>]]</td></tr></table>
 

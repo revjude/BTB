@@ -1,8 +1,59 @@
+---
+title: Psalm 116:8
+type: Verse
+kjv: "For thou hast delivered my soul from death, mine eyes from tears, and my feet from falling."
+bsb: "For You have delivered my soul from death, my eyes from tears, my feet from stumbling."
+hebrew: "כִּ֤י חִלַּ֥צְתָּ נַפְשִׁ֗י מִ֫מָּ֥וֶת אֶת־ עֵינִ֥י מִן־ דִּמְעָ֑ה אֶת־ רַגְלִ֥י מִדֶּֽחִי׃"
+pericope: "[[Ps.116.1 The LORD Has Heard My Voice|The LORD Has Heard My Voice]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 116
+book/chapter: "[[Ps.116|Psalm 116]]"
+chronological_order: 878
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H2502A]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H4194]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5869A]]"
+- "[[H4480A]]"
+- "[[H1832]]"
+- "[[H7272]]"
+- "[[H1762]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 116:8**<big><big>[[Ps.116.1 The LORD Has Heard My Voice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou hast delivered my soul from death, mine eyes from tears, [and] my feet from falling.
 <small><sub>**BSB:**</sub></small>
 For You have delivered my soul from death, my eyes from tears, my feet from stumbling.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H2502A\|חִלַּ֥צְתָּ]] [[H5315G\|נַפְשִׁ֗]][[H9020\|י]] [[H9006\|מִ֫]][[H4194\|מָּ֥וֶת]] [[H0853\|אֶת]][[H9014\|־]] [[H5869A\|עֵינִ֥]][[H9020\|י]] [[H4480A\|מִן]][[H9014\|־]] [[H1832\|דִּמְעָ֑ה]] [[H0853\|אֶת]][[H9014\|־]] [[H7272\|רַגְלִ֥]][[H9020\|י]] [[H9006\|מִ]][[H1762\|דֶּֽחִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISEASE|DISEASE]] • [[topic GOD|GOD]] • [[topic TESTIMONY|TESTIMONY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.116.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.116.7|<< Psalms 116:7]]</td><td align="center" style="border:none;">[[Ps.116|Psalms 116]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.116.9|Psalms 116:9 >>]]</td></tr></table>
 

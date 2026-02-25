@@ -1,10 +1,58 @@
+---
+title: Galatians 1:8
+type: Verse
+kjv: "But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed."
+bsb: "But even if we or an angel from heaven should preach a gospel contrary to the one we preached to you, let him be under a curse!"
+greek: "ἀλλὰ καὶ ἐὰν ἡμεῖς ἢ ἄγγελος ἐξ οὐρανοῦ εὐαγγελίζηται ὑμῖν παρ᾽ ὃ εὐηγγελισάμεθα ὑμῖν, ἀνάθεμα ἔστω."
+pericope: "[[Gal.1.6 No Other Gospel|No Other Gospel]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 1
+book/chapter: "[[Gal.1|Galatians 1]]"
+chronological_order: 1039
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic ACCURSED|ACCURSED]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G0235]]"
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G3165]]"
+- "[[G2228]]"
+- "[[G0032G]]"
+- "[[G1537]]"
+- "[[G3772]]"
+- "[[G2097]]"
+- "[[G4771]]"
+- "[[G3844]]"
+- "[[G3739]]"
+- "[[G0331]]"
+- "[[G1510]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Galatians 1:8**<big><big>[[Gal.1.6 No Other Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.
 <small><sub>**BSB:**</sub></small>
 But even if we or an angel from heaven should preach a gospel contrary to the one we preached to you, let him be under a curse!
-<small><sub>**Literal:**</sub></small>
-But even if we ourselves or an angel out of heaven shall evangelise to you contrary to what we evangelised to you, accursed he should be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.7|<< Galatians 1:7]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.9|Galatians 1:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλὰ]]  [[G2532\|καὶ]]  [[G1437\|ἐὰν]]  [[G3165\|ἡμεῖς]]  [[G2228\|ἢ]]  [[G0032G\|ἄγγελος]]  [[G1537\|ἐξ]]  [[G3772\|οὐρανοῦ]]  [[G2097\|εὐαγγελίζηται]]  [[G4771\|ὑμῖν]]  [[G3844\|παρ᾽]]  [[G3739\|ὃ]]  [[G2097\|εὐηγγελισάμεθα]]  [[G4771\|ὑμῖν,]]  [[G0331\|ἀνάθεμα]]  [[G1510\|ἔστω.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCURSED|ACCURSED]] • [[topic DOCTRINES|DOCTRINES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRAYER|PRAYER]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.7|<< Galatians 1:7]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.9|Galatians 1:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

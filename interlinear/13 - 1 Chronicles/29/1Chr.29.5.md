@@ -1,8 +1,61 @@
+---
+title: 1 Chronicles 29:5
+type: Verse
+kjv: "The gold for things of gold, and the silver for things of silver, and for all manner of work to be made by the hands of artificers. And who then is willing to consecrate his service this day unto the LORD?"
+bsb: "for the gold work and the silver work, and for all the work to be done by the craftsmen. Now who is willing to consecrate himself to the LORD today?”"
+hebrew: "לַזָּהָ֤ב לַזָּהָב֙ וְלַכֶּ֣סֶף לַכֶּ֔סֶף וּלְכָל־ מְלָאכָ֖ה בְּיַ֣ד חָרָשִׁ֑ים וּמִ֣י מִתְנַדֵּ֔ב לְמַלֹּ֥אות יָד֛וֹ הַיּ֖וֹם לַיהוָֽה׃"
+pericope: "[[1Chr.29.1 Offerings for the Temple|Offerings for the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 29
+book/chapter: "[[1Chr.29|1 Chronicles 29]]"
+chronological_order: 440
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic GOLD|GOLD]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SILVER|SILVER]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9005]]"
+- "[[H2091]]"
+- "[[H9002]]"
+- "[[H3701G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4399]]"
+- "[[H9003]]"
+- "[[H3027I]]"
+- "[[H2796]]"
+- "[[H4310]]"
+- "[[H5068]]"
+- "[[H4390]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 29:5**<big><big>[[1Chr.29.1 Offerings for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The gold for [things] of gold, and the silver for [things] of silver, and for all manner of work [to be made] by the hands of artificers. And who [then] is willing to consecrate his service this day unto the LORD?
 <small><sub>**BSB:**</sub></small>
 for the gold work and the silver work, and for all the work to be done by the craftsmen. Now who is willing to consecrate himself to the LORD today?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H2091\|זָּהָ֤ב]] [[H9005\|לַ]][[H2091\|זָּהָב֙]] [[H9002\|וְ]][[H9005\|לַ]][[H3701G\|כֶּ֣סֶף]] [[H9005\|לַ]][[H3701G\|כֶּ֔סֶף]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H4399\|מְלָאכָ֖ה]] [[H9003\|בְּ]][[H3027I\|יַ֣ד]] [[H2796\|חָרָשִׁ֑ים]] [[H9002\|וּ]][[H4310\|מִ֣י]] [[H5068\|מִתְנַדֵּ֔ב]] [[H9005\|לְ]][[H4390\|מַלֹּ֥אות]] [[H3027I\|יָד֛]][[H9023\|וֹ]] [[H9009\|הַ]][[H3117G\|יּ֖וֹם]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOLD|GOLD]] • [[topic LIBERALITY|LIBERALITY]] • [[topic SILVER|SILVER]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.4|<< 1 Chronicles 29:4]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.6|1 Chronicles 29:6 >>]]</td></tr></table>
 

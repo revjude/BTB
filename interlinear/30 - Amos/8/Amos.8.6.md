@@ -1,8 +1,58 @@
+---
+title: Amos 8:6
+type: Verse
+kjv: "That we may buy the poor for silver, and the needy for a pair of shoes; yea, and sell the refuse of the wheat?"
+bsb: "Let us buy the poor with silver and the needy for a pair of sandals, selling even the chaff with the wheat!”"
+hebrew: "לִקְנ֤וֹת בַּכֶּ֙סֶף֙ דַּלִּ֔ים וְאֶבְי֖וֹן בַּעֲב֣וּר נַעֲלָ֑יִם וּמַפַּ֥ל בַּ֖ר נַשְׁבִּֽיר׃"
+pericope: "[[Amos.8.1 The Basket of Summer Fruit|The Basket of Summer Fruit]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 8
+book/chapter: "[[Amos.8|Amos 8]]"
+chronological_order: 605
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SHOE|SHOE]]"
+- "[[topic SILVER|SILVER]]"
+strongs:
+- "[[H9005]]"
+- "[[H7069]]"
+- "[[H9003]]"
+- "[[H3701G]]"
+- "[[H1800]]"
+- "[[H9002]]"
+- "[[H0034]]"
+- "[[H5668]]"
+- "[[H5275]]"
+- "[[H4651]]"
+- "[[H1250A]]"
+- "[[H7666]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 8:6**<big><big>[[Amos.8.1 The Basket of Summer Fruit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That we may buy the poor for silver, and the needy for a pair of shoes; [yea], and sell the refuse of the wheat?
 <small><sub>**BSB:**</sub></small>
 Let us buy the poor with silver and the needy for a pair of sandals, selling even the chaff with the wheat!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H7069\|קְנ֤וֹת]] [[H9003\|בַּ]][[H3701G\|כֶּ֙סֶף֙]] [[H1800\|דַּלִּ֔ים]] [[H9002\|וְ]][[H0034\|אֶבְי֖וֹן]] [[H9003\|בַּ]][[H5668\|עֲב֣וּר]] [[H5275\|נַעֲלָ֑יִם]] [[H9002\|וּ]][[H4651\|מַפַּ֥ל]] [[H1250A\|בַּ֖ר]] [[H7666\|נַשְׁבִּֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OPPRESSION|OPPRESSION]] • [[topic POOR|POOR]] • [[topic SERVANT|SERVANT]] • [[topic SHOE|SHOE]] • [[topic SILVER|SILVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.8.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.8.5|<< Amos 8:5]]</td><td align="center" style="border:none;">[[Amos.8|Amos 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.8.7|Amos 8:7 >>]]</td></tr></table>
 

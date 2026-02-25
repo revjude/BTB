@@ -1,10 +1,63 @@
+---
+title: John 11:27
+type: Verse
+kjv: "She saith unto him, Yea, Lord: I believe that thou art the Christ, the Son of God, which should come into the world."
+bsb: "“Yes, Lord,” she answered, “I believe that You are the Christ, the Son of God, who was to come into the world.”"
+greek: "λέγει αὐτῷ· ναὶ κύριε· ἐγὼ πεπίστευκα ὅτι σὺ εἶ ὁ χριστὸς ὁ υἱὸς τοῦ θεοῦ ὁ εἰς τὸν κόσμον ἐρχόμενος.¶"
+pericope: "[[John.11.17 Jesus Comforts Martha and Mary|Jesus Comforts Martha and Mary]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONDOLENCE|CONDOLENCE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SORROW|SORROW]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3483]]"
+- "[[G2962G]]"
+- "[[G1473]]"
+- "[[G4100]]"
+- "[[G3754G]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G5547]]"
+- "[[G5207]]"
+- "[[G2316]]"
+- "[[G1519]]"
+- "[[G2889]]"
+- "[[G2064]]"
+texts:
+- NKO
+---
+
 **John 11:27**<big><big>[[John.11.17 Jesus Comforts Martha and Mary|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 She saith unto him, Yea, Lord: I believe that thou art the Christ, the Son of God, which should come into the world.
 <small><sub>**BSB:**</sub></small>
 “Yes, Lord,” she answered, “I believe that You are the Christ, the Son of God, who was to come into the world.”
-<small><sub>**Literal:**</sub></small>
-She says to Him; Yes Lord; I myself have believed that You yourself are the Christ the Son <the> of God the [One] into the world coming.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.26|<< John 11:26]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.28|John 11:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγει]]  [[G0846\|αὐτῷ·]]  [[G3483\|ναὶ]]  [[G2962G\|κύριε·]]  [[G1473\|ἐγὼ]]  [[G4100\|πεπίστευκα]]  [[G3754G\|ὅτι]]  [[G4771\|σὺ]]  [[G1510\|εἶ]]  [[G3588\|ὁ]]  [[G5547\|χριστὸς]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|ὁ]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2889\|κόσμον]]  [[G2064\|ἐρχόμενος.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDOLENCE|CONDOLENCE]] • [[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SORROW|SORROW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.26|<< John 11:26]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.28|John 11:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

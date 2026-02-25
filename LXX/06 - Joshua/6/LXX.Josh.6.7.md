@@ -1,6 +1,58 @@
+---
+title: LXX Joshua 6:7
+type: Verse
+lxx: "And he said to them, saying, Exhort the people to go around and circle the city, and let the ones for combat come near! arming themselves before the ark of the lord."
+greek: "και είπεν αυτοίς λέγων παραγγείλατε τω λαώ περιελθείν και κυκλώσατε την πόλιν και οι μάχιμοι παραπορευέσθωσαν ενωπλισμένοι έναντι της κιβωτού κυρίου"
+original_language: Greek
+testament: Old
+book: Joshua
+chapter: 6
+book/chapter: "[[Josh.6|Joshua 6]]"
+chronological_order: 236
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1473]]"
+- "[[G3004]]"
+- "[[G3853]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G4022]]"
+- "[[G2532]]"
+- "[[G2944]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G8264]]"
+- "[[G3899]]"
+- "[[G7256]]"
+- "[[G1725]]"
+- "[[G3588]]"
+- "[[G2787]]"
+- "[[G2962]]"
+---
+
 **LXX Joshua 6:7** 
 <small><sub>**LXX:**</sub></small>
 And he said to them, saying, Exhort the people to go around and circle the city, and let the ones for combat come near! arming themselves before the ark of \[the\] <span class="smallcaps">lord</span>. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπεν]] [[G1473\|αυτοίς]] [[G3004\|λέγων]] [[G3853\|παραγγείλατε]] [[G3588\|τω]] [[G2992\|λαώ]] [[G4022\|περιελθείν]] [[G2532\|και]] [[G2944\|κυκλώσατε]] [[G3588\|την]] [[G4172\|πόλιν]] [[G2532\|και]] [[G3588\|οι]] [[G8264\|μάχιμοι]] [[G3899\|παραπορευέσθωσαν]] [[G7256\|ενωπλισμένοι]] [[G1725\|έναντι]] [[G3588\|της]] [[G2787\|κιβωτού]] [[G2962\|κυρίου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic ARMIES|ARMIES]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**MT:**</sub></small>
 [[Josh.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.6|<< Joshua 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.8|Joshua 6:8 >>]]</td></tr></table>
 
@@ -27,6 +79,6 @@ And he said to them, saying, Exhort the people to go around and circle the city,
 | the | **<big>[[G3588\|της]]</big>** |
 | ark | **<big>[[G2787\|κιβωτού]]</big>** |
 | of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
-[[Josh.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.6|<< Joshua 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.8|Joshua 6:8 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.6|<< Joshua 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.8|Joshua 6:8 >>]]</td></tr></table>
 
 

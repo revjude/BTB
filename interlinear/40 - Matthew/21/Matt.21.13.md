@@ -1,10 +1,63 @@
+---
+title: Matthew 21:13
+type: Verse
+kjv: "And said unto them, It is written, My house shall be called the house of prayer; but ye have made it a den of thieves."
+bsb: "And He declared to them, “It is written: ‘My house will be called a house of prayer.’ But you are making it ‘a den of robbers.’”"
+jesus_said: "It is written, My house shall be called the house of prayer; but ye have made it a den of thieves."
+greek: "καὶ λέγει αὐτοῖς· γέγραπται· ὁ οἶκός μου οἶκος προσευχῆς κληθήσεται, ὑμεῖς δὲ αὐτὸν ποιεῖτε σπήλαιον λῃστῶν."
+pericope: "[[Matt.21.12 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 21
+book/chapter: "[[Matt.21|Matthew 21]]"
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic HOUSE OF GOD|HOUSE OF GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SACRILEGE|SACRILEGE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G1125]]"
+- "[[G3588]]"
+- "[[G3624G]]"
+- "[[G3165]]"
+- "[[G4335]]"
+- "[[G2564G]]"
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G4160G]]"
+- "[[G4693]]"
+- "[[G3027]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 21:13**<big><big>[[Matt.21.12 Jesus Cleanses the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And said unto them, It is written, My house shall be called the house of prayer; but ye have made it a den of thieves.
 <small><sub>**BSB:**</sub></small>
 And He declared to them, “It is written: ‘My house will be called a house of prayer.’ But you are making it ‘a den of robbers.’”
-<small><sub>**Literal:**</sub></small>
-And He says to them; It has been written: The house of Mine a house of prayer will be called,’ You yourselves however it make a den of robbers.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.12|<< Matthew 21:12]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.14|Matthew 21:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G1125\|γέγραπται·]]  [[G3588\|ὁ]]  [[G3624G\|οἶκός]]  [[G3165\|μου]]  [[G3624G\|οἶκος]]  [[G4335\|προσευχῆς]]  [[G2564G\|κληθήσεται,]]  [[G4771\|ὑμεῖς]]  [[G1161\|δὲ]]  [[G0846\|αὐτὸν]]  [[G4160G\|ποιεῖτε]]  [[G4693\|σπήλαιον]]  [[G3027\|λῃστῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic HOUSE OF GOD|HOUSE OF GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SACRILEGE|SACRILEGE]] • [[topic TEMPLE|TEMPLE]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.12|<< Matthew 21:12]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.14|Matthew 21:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 21:13** is...
 > $\quad$ referencing: [[LXX.Isa.56.7|Isa 56:7]] ☩ [[LXX.Jer.7.11|Jer 7:11]]

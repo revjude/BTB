@@ -1,10 +1,71 @@
+---
+title: Matthew 23:3
+type: Verse
+kjv: "All therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not."
+bsb: "So practice and observe everything they tell you. But do not do what they do, for they do not practice what they preach."
+jesus_said: "All therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not."
+greek: "πάντα οὖν ὅσα ἐὰν εἴπωσιν ὑμῖν τηρεῖν ποιήσατε καὶ τηρεῖτε. κατὰ δὲ τὰ ἔργα αὐτῶν μὴ ποιεῖτε· λέγουσιν γὰρ καὶ οὐ ποιοῦσιν."
+pericope: "[[Matt.23.1 Woes to Scribes and Pharisees|Woes to Scribes and Pharisees]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 23
+book/chapter: "[[Matt.23|Matthew 23]]"
+chronological_order: 996
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INCONSISTENCY|INCONSISTENCY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+- "[[topic TEACHERS|TEACHERS]]"
+strongs:
+- "[[G3956]]"
+- "[[G3767]]"
+- "[[G3745]]"
+- "[[G1437]]"
+- "[[G2036]]"
+- "[[G4771]]"
+- "[[G5083G]]"
+- "[[G4160G]]"
+- "[[G2532]]"
+- "[[G2596]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2041]]"
+- "[[G0846]]"
+- "[[G3361]]"
+- "[[G3004G]]"
+- "[[G1063]]"
+- "[[G3756]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **Matthew 23:3**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 All therefore whatsoever they bid you observe, [that] observe and do; but do not ye after their works: for they say, and do not.
 <small><sub>**BSB:**</sub></small>
 So practice and observe everything they tell you. But do not do what they do, for they do not practice what they preach.
-<small><sub>**Literal:**</sub></small>
-All things therefore as much as if they shall tell you to keep do perform and do observe. After however the works of them not do perform; They speak for and not act.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.2|<< Matthew 23:2]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.4|Matthew 23:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πάντα]]  [[G3767\|οὖν]]  [[G3745\|ὅσα]]  [[G1437\|ἐὰν]]  [[G2036\|εἴπωσιν]]  [[G4771\|ὑμῖν]]  [[G5083G\|τηρεῖν]]  [[G4160G\|ποιήσατε]]  [[G2532\|καὶ]]  [[G5083G\|τηρεῖτε.]]  [[G2596\|κατὰ]]  [[G1161\|δὲ]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G0846\|αὐτῶν]]  [[G3361\|μὴ]]  [[G4160G\|ποιεῖτε·]]  [[G3004G\|λέγουσιν]]  [[G1063\|γὰρ]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G4160G\|ποιοῦσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic EXAMPLE|EXAMPLE]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic INCONSISTENCY|INCONSISTENCY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OPPRESSION|OPPRESSION]] • [[topic PHARISEES|PHARISEES]] • [[topic SATIRE|SATIRE]] • [[topic SCRIBE (S)|SCRIBE (S)]] • [[topic TEACHERS|TEACHERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.2|<< Matthew 23:2]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.4|Matthew 23:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

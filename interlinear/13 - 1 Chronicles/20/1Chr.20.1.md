@@ -1,8 +1,75 @@
+---
+title: 1 Chronicles 20:1
+type: Verse
+kjv: "And it came to pass, that after the year was expired, at the time that kings go out to battle, Joab led forth the power of the army, and wasted the country of the children of Ammon, and came and besieged Rabbah. But David tarried at Jerusalem. And Joab smote Rabbah, and destroyed it."
+bsb: "In the spring, at the time when kings march out to war, Joab led out the army and ravaged the land of the Ammonites. He came to Rabbah and besieged it, but David remained in Jerusalem. And Joab attacked Rabbah and demolished it."
+hebrew: "וַיְהִ֡י לְעֵת֩ תְּשׁוּבַ֨ת הַשָּׁנָ֜ה לְעֵ֣ת׀ צֵ֣את הַמְּלָכִ֗ים וַיִּנְהַ֣ג יוֹאָב֩ אֶת־ חֵ֨יל הַצָּבָ֜א וַיַּשְׁחֵ֣ת׀ אֶת־ אֶ֣רֶץ בְּנֵֽי־ עַמּ֗וֹן וַיָּבֹא֙ וַיָּ֣צַר אֶת־ רַבָּ֔ה וְדָוִ֖יד יֹשֵׁ֣ב בִּירֽוּשָׁלִָ֑ם וַיַּ֥ךְ יוֹאָ֛ב אֶת־ רַבָּ֖ה וַיֶּֽהֶרְסֶֽהָ׃"
+pericope: "[[1Chr.20.1 The Capture of Rabbah|The Capture of Rabbah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 20
+book/chapter: "[[1Chr.20|1 Chronicles 20]]"
+chronological_order: 407
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic RABBAH|RABBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H6256]]"
+- "[[H8666]]"
+- "[[H9009]]"
+- "[[H8141]]"
+- "[[H9015]]"
+- "[[H3318G]]"
+- "[[H4428G]]"
+- "[[H5090A]]"
+- "[[H3097G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2428A]]"
+- "[[H6635H]]"
+- "[[H7843]]"
+- "[[H0776G]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H0935G]]"
+- "[[H6696A]]"
+- "[[H7237]]"
+- "[[H9002]]"
+- "[[H1732]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H5221]]"
+- "[[H2040]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 20:1**<big><big>[[1Chr.20.1 The Capture of Rabbah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that after the year was expired, at the time that kings go out [to battle], Joab led forth the power of the army, and wasted the country of the children of Ammon, and came and besieged Rabbah. But David tarried at Jerusalem. And Joab smote Rabbah, and destroyed it.
 <small><sub>**BSB:**</sub></small>
 In the spring, at the time when kings march out to war, Joab led out the army and ravaged the land of the Ammonites. He came to Rabbah and besieged it, but David remained in Jerusalem. And Joab attacked Rabbah and demolished it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֡י]] [[H9005\|לְ]][[H6256\|עֵת֩]] [[H8666\|תְּשׁוּבַ֨ת]] [[H9009\|הַ]][[H8141\|שָּׁנָ֜ה]] [[H9005\|לְ]][[H6256\|עֵ֣ת]][[H9015\|׀]] [[H3318G\|צֵ֣את]] [[H9009\|הַ]][[H4428G\|מְּלָכִ֗ים]] [[H9001\|וַ]][[H5090A\|יִּנְהַ֣ג]] [[H3097G\|יוֹאָב֩]] [[H0853\|אֶת]][[H9014\|־]] [[H2428A\|חֵ֨יל]] [[H9009\|הַ]][[H6635H\|צָּבָ֜א]] [[H9001\|וַ]][[H7843\|יַּשְׁחֵ֣ת]][[H9015\|׀]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H5983\|עַמּ֗וֹן]] [[H9001\|וַ]][[H0935G\|יָּבֹא֙]] [[H9001\|וַ]][[H6696A\|יָּ֣צַר]] [[H0853\|אֶת]][[H9014\|־]] [[H7237\|רַבָּ֔ה]] [[H9002\|וְ]][[H1732\|דָוִ֖יד]] [[H3427\|יֹשֵׁ֣ב]] [[H9003\|בִּ]][[H3389\|ירֽוּשָׁלִָ֑ם]] [[H9001\|וַ]][[H5221\|יַּ֥ךְ]] [[H3097G\|יוֹאָ֛ב]] [[H0853\|אֶת]][[H9014\|־]] [[H7237\|רַבָּ֖ה]] [[H9001\|וַ]][[H2040\|יֶּֽהֶרְסֶֽ]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic ARMIES|ARMIES]] • [[topic JOAB|JOAB]] • [[topic RABBAH|RABBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.20.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.19.19|<< 1 Chronicles 19:19]]</td><td align="center" style="border:none;">[[1Chr.20|1 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.20.2|1 Chronicles 20:2 >>]]</td></tr></table>
 

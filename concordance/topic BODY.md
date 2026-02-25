@@ -9,7 +9,7 @@
 
 → Corruptible [[Job.17.14|Job 17:14]]; [[1Cor.15.53|1Co 15:53]],[[1Cor.15.54|54]]
 
-→ Resurrection of [[1Cor.15.19|1Co 15:19]]-[[1Cor.15.54|54]]
+→ Resurrection of [[1Cor.15.19|1Co 15:19-54]]
 
 → See [[topic RESURRECTION|RESURRECTION]]
 

@@ -1,8 +1,73 @@
+---
+title: 2 Samuel 12:30
+type: Verse
+kjv: "And he took their king’s crown from off his head, the weight whereof was a talent of gold with the precious stones: and it was set on David’s head. And he brought forth the spoil of the city in great abundance."
+bsb: "Then he took the crown from the head of their king. It weighed a talent of gold and was set with precious stones, and it was placed on David’s head. And David took a great amount of plunder from the city."
+hebrew: "וַיִּקַּ֣ח אֶת־ עֲטֶֽרֶת־ מַלְכָּם֩ מֵעַ֨ל רֹאשׁ֜וֹ וּמִשְׁקָלָ֨הּ כִּכַּ֤ר זָהָב֙ וְאֶ֣בֶן יְקָרָ֔ה וַתְּהִ֖י עַל־ רֹ֣אשׁ דָּוִ֑ד וּשְׁלַ֥ל הָעִ֛יר הוֹצִ֖יא הַרְבֵּ֥ה מְאֹֽד׃"
+pericope: "[[2Sam.12.26 The Capture of Rabbah|The Capture of Rabbah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 12
+book/chapter: "[[2Sam.12|2 Samuel 12]]"
+chronological_order: 411
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic CROWN|CROWN]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic KING|KING]]"
+- "[[topic RABBAH|RABBAH]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5850]]"
+- "[[H4428G]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H4948]]"
+- "[[H9024]]"
+- "[[H3603H]]"
+- "[[H2091]]"
+- "[[H0068G]]"
+- "[[H3368]]"
+- "[[H1961]]"
+- "[[H1732]]"
+- "[[H7998]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H3318H]]"
+- "[[H7235A]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 12:30**<big><big>[[2Sam.12.26 The Capture of Rabbah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took their king’s crown from off his head, the weight whereof [was] a talent of gold with the precious stones: and it was [set] on David’s head. And he brought forth the spoil of the city in great abundance.
 <small><sub>**BSB:**</sub></small>
 Then he took the crown from the head of their king. It weighed a talent of gold and was set with precious stones, and it was placed on David’s head. And David took a great amount of plunder from the city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֣ח]] [[H0853\|אֶת]][[H9014\|־]] [[H5850\|עֲטֶֽרֶת]][[H9014\|־]] [[H4428G\|מַלְכָּ]][[H9028\|ם֩]] [[H9006\|מֵ]][[H5921A\|עַ֨ל]] [[H7218A\|רֹאשׁ֜]][[H9023\|וֹ]] [[H9002\|וּ]][[H4948\|מִשְׁקָלָ֨]][[H9024\|הּ]] [[H3603H\|כִּכַּ֤ר]] [[H2091\|זָהָב֙]] [[H9002\|וְ]][[H0068G\|אֶ֣בֶן]] [[H3368\|יְקָרָ֔ה]] [[H9001\|וַ]][[H1961\|תְּהִ֖י]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹ֣אשׁ]] [[H1732\|דָּוִ֑ד]] [[H9002\|וּ]][[H7998\|שְׁלַ֥ל]] [[H9009\|הָ]][[H5892B\|עִ֛יר]] [[H3318H\|הוֹצִ֖יא]] [[H7235A\|הַרְבֵּ֥ה]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic CROWN|CROWN]] • [[topic DAVID|DAVID]] • [[topic KING|KING]] • [[topic RABBAH|RABBAH]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.12.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.12.29|<< 2 Samuel 12:29]]</td><td align="center" style="border:none;">[[2Sam.12|2 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.12.31|2 Samuel 12:31 >>]]</td></tr></table>
 

@@ -1,8 +1,49 @@
+---
+title: Lamentations 3:58
+type: Verse
+kjv: "O Lord, thou hast pleaded the causes of my soul; thou hast redeemed my life."
+bsb: "You defend my cause, O Lord; You redeem my life."
+hebrew: "רַ֧בְתָּ אֲדֹנָ֛י רִיבֵ֥י נַפְשִׁ֖י גָּאַ֥לְתָּ חַיָּֽי׃"
+pericope: "[[Lam.3.37 God’s Justice|God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 3
+book/chapter: "[[Lam.3|Lamentations 3]]"
+chronological_order: 778
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H7378]]"
+- "[[H0136]]"
+- "[[H7379]]"
+- "[[H5315I]]"
+- "[[H9020]]"
+- "[[H1350A]]"
+- "[[H2416E]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Lamentations 3:58**<big><big>[[Lam.3.37 God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O Lord, thou hast pleaded the causes of my soul; thou hast redeemed my life.
 <small><sub>**BSB:**</sub></small>
 You defend my cause, O Lord; You redeem my life.
+<small><sub>**Hebrew:**</sub></small>
+[[H7378\|רַ֧בְתָּ]] [[H0136\|אֲדֹנָ֛י]] [[H7379\|רִיבֵ֥י]] [[H5315I\|נַפְשִׁ֖]][[H9020\|י]] [[H1350A\|גָּאַ֥לְתָּ]] [[H2416E\|חַיָּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.58|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.57|<< Lamentations 3:57]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.59|Lamentations 3:59 >>]]</td></tr></table>
 

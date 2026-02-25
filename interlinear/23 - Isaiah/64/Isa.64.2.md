@@ -1,8 +1,60 @@
+---
+title: Isaiah 64:2
+type: Verse
+kjv: "As when the melting fire burneth, the fire causeth the waters to boil, to make thy name known to thine adversaries, that the nations may tremble at thy presence!"
+bsb: "as fire kindles the brushwood and causes the water to boil, to make Your name known to Your enemies, so that the nations will tremble at Your presence!"
+hebrew: "כִּקְדֹ֧חַ אֵ֣שׁ הֲמָסִ֗ים מַ֚יִם תִּבְעֶה־ אֵ֔שׁ לְהוֹדִ֥יעַ שִׁמְךָ֖ לְצָרֶ֑יךָ מִפָּנֶ֖יךָ גּוֹיִ֥ם יִרְגָּֽזוּ׃"
+pericope: "[[Isa.64.1 A Prayer for God’s Power|A Prayer for God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 64
+book/chapter: "[[Isa.64|Isaiah 64]]"
+chronological_order: 703
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic VOLCANOES|VOLCANOES]]"
+strongs:
+- "[[H9004]]"
+- "[[H6919]]"
+- "[[H0784]]"
+- "[[H2003]]"
+- "[[H4325G]]"
+- "[[H1158]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H3045]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H6862C]]"
+- "[[H9006]]"
+- "[[H6440H]]"
+- "[[H1471A]]"
+- "[[H7264]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 64:2**<big><big>[[Isa.64.1 A Prayer for God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As [when] the melting fire burneth, the fire causeth the waters to boil, to make thy name known to thine adversaries, [that] the nations may tremble at thy presence!
 <small><sub>**BSB:**</sub></small>
 as fire kindles the brushwood and causes the water to boil, to make Your name known to Your enemies, so that the nations will tremble at Your presence!
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כִּ]][[H6919\|קְדֹ֧חַ]] [[H0784\|אֵ֣שׁ]] [[H2003\|הֲמָסִ֗ים]] [[H4325G\|מַ֚יִם]] [[H1158\|תִּבְעֶה]][[H9014\|־]] [[H0784\|אֵ֔שׁ]] [[H9005\|לְ]][[H3045\|הוֹדִ֥יעַ]] [[H8034\|שִׁמְ]][[H9021\|ךָ֖]] [[H9005\|לְ]][[H6862C\|צָרֶ֑י]][[H9021\|ךָ]] [[H9006\|מִ]][[H6440H\|פָּנֶ֖י]][[H9021\|ךָ]] [[H1471A\|גּוֹיִ֥ם]] [[H7264\|יִרְגָּֽזוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGMENTS|JUDGMENTS]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic VOLCANOES|VOLCANOES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.64.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.64.1|<< Isaiah 64:1]]</td><td align="center" style="border:none;">[[Isa.64|Isaiah 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.64.3|Isaiah 64:3 >>]]</td></tr></table>
 

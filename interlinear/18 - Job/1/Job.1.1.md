@@ -1,8 +1,66 @@
+---
+title: Job 1:1
+type: Verse
+kjv: "There was a man in the land of Uz, whose name was Job; and that man was perfect and upright, and one that feared God, and eschewed evil."
+bsb: "There was a man in the land of Uz whose name was Job. And this man was blameless and upright, fearing God and shunning evil."
+hebrew: "אִ֛ישׁ הָיָ֥ה בְאֶֽרֶץ־ ע֖וּץ אִיּ֣וֹב שְׁמ֑וֹ וְהָיָ֣ה׀ הָאִ֣ישׁ הַה֗וּא תָּ֧ם וְיָשָׁ֛ר וִירֵ֥א אֱלֹהִ֖ים וְסָ֥ר מֵרָֽע׃"
+pericope: "[[Job.1.1 Job’s Character and Wealth|Job’s Character and Wealth]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 1
+book/chapter: "[[Job.1|Job 1]]"
+chronological_order: 12
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic JOB|JOB]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic UZ|UZ]]"
+strongs:
+- "[[H0376G]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9014]]"
+- "[[H5780J]]"
+- "[[H0347]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H9015]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H8535]]"
+- "[[H9002]]"
+- "[[H3477G]]"
+- "[[H3373]]"
+- "[[H0430G]]"
+- "[[H5493I]]"
+- "[[H9006]]"
+- "[[H7451B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 1:1**<big><big>[[Job.1.1 Job’s Character and Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There was a man in the land of Uz, whose name [was] Job; and that man was perfect and upright, and one that feared God, and eschewed evil.
 <small><sub>**BSB:**</sub></small>
 There was a man in the land of Uz whose name was Job. And this man was blameless and upright, fearing God and shunning evil.
+<small><sub>**Hebrew:**</sub></small>
+[[H0376G\|אִ֛ישׁ]] [[H1961\|הָיָ֥ה]] [[H9003\|בְ]][[H0776G\|אֶֽרֶץ]][[H9014\|־]] [[H5780J\|ע֖וּץ]] [[H0347\|אִיּ֣וֹב]] [[H8034\|שְׁמ֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H1961\|הָיָ֣ה]][[H9015\|׀]] [[H9009\|הָ]][[H0376G\|אִ֣ישׁ]] [[H9009\|הַ]][[H1931\|ה֗וּא]] [[H8535\|תָּ֧ם]] [[H9002\|וְ]][[H3477G\|יָשָׁ֛ר]] [[H9002\|וִ]][[H3373\|ירֵ֥א]] [[H0430G\|אֱלֹהִ֖ים]] [[H9002\|וְ]][[H5493I\|סָ֥ר]] [[H9006\|מֵ]][[H7451B\|רָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOB|JOB]] • [[topic PERFECTION|PERFECTION]] • [[topic SIN|SIN]] • [[topic UZ|UZ]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.10.3|<< Esther 10:3]]</td><td align="center" style="border:none;">[[Job.1|Job 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.1.2|Job 1:2 >>]]</td></tr></table>
 

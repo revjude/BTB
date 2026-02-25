@@ -1,8 +1,67 @@
+---
+title: Jeremiah 32:5
+type: Verse
+kjv: "And he shall lead Zedekiah to Babylon, and there shall he be until I visit him, saith the LORD: though ye fight with the Chaldeans, ye shall not prosper?"
+bsb: "He will take Zedekiah to Babylon, where he will stay until I attend to him, declares the LORD. If you fight against the Chaldeans, you will not succeed.’”"
+hebrew: "וּבָבֶ֞ל יוֹלִ֤ךְ אֶת־ צִדְקִיָּ֙הוּ֙ וְשָׁ֣ם יִֽהְיֶ֔ה עַד־ פָּקְדִ֥י אֹת֖וֹ נְאֻם־ יְהוָ֑ה כִּ֧י תִֽלָּחֲמ֛וּ אֶת־ הַכַּשְׂדִּ֖ים לֹ֥א תַצְלִֽיחוּ׃ פ"
+pericope: "[[Jer.32.1 Jeremiah Buys Hanamel’s Field|Jeremiah Buys Hanamel’s Field]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 32
+book/chapter: "[[Jer.32|Jeremiah 32]]"
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0894]]"
+- "[[H1980J]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6667H]]"
+- "[[H8033G]]"
+- "[[H1961]]"
+- "[[H5704]]"
+- "[[H6485I]]"
+- "[[H9040]]"
+- "[[H9033]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H3898A]]"
+- "[[H0854]]"
+- "[[H9009]]"
+- "[[H3778]]"
+- "[[H3808]]"
+- "[[H6743B]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Jeremiah 32:5**<big><big>[[Jer.32.1 Jeremiah Buys Hanamel’s Field|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall lead Zedekiah to Babylon, and there shall he be until I visit him, saith the LORD: though ye fight with the Chaldeans, ye shall not prosper?
 <small><sub>**BSB:**</sub></small>
 He will take Zedekiah to Babylon, where he will stay until I attend to him, declares the LORD. If you fight against the Chaldeans, you will not succeed.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H0894\|בָבֶ֞ל]] [[H1980J\|יוֹלִ֤ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H6667H\|צִדְקִיָּ֙הוּ֙]] [[H9002\|וְ]][[H8033G\|שָׁ֣ם]] [[H1961\|יִֽהְיֶ֔ה]] [[H5704\|עַד]][[H9014\|־]] [[H6485I\|פָּקְדִ֥]][[H9040\|י]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H3588A\|כִּ֧י]] [[H3898A\|תִֽלָּחֲמ֛וּ]] [[H0854\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3778\|כַּשְׂדִּ֖ים]] [[H3808\|לֹ֥א]] [[H6743B\|תַצְלִֽיחוּ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHECY|PROPHECY]] • [[topic SYMBOLS|SYMBOLS]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.4|<< Jeremiah 32:4]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.6|Jeremiah 32:6 >>]]</td></tr></table>
 
@@ -24,7 +83,7 @@ He will take Zedekiah to Babylon, where he will stay until I attend to him, decl
 | with  |**<big>&#8207;[[H0854\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Chaldeans  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3778\|כַּשְׂדִּ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> kas.Dim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will succeed  |**<big>&#8207;[[H6743B\|תַצְלִֽיחוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tatz.Li.chu<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will succeed  |**<big>&#8207;[[H6743B\|תַצְלִֽיחוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tatz.Li.chu<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.4|<< Jeremiah 32:4]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.6|Jeremiah 32:6 >>]]</td></tr></table>
 
 

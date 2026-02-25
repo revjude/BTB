@@ -1,8 +1,58 @@
+---
+title: Daniel 11:44
+type: Verse
+kjv: "But tidings out of the east and out of the north shall trouble him: therefore he shall go forth with great fury to destroy, and utterly to make away many."
+bsb: "But news from the east and the north will alarm him, and he will go out with great fury to destroy many and devote them to destruction."
+hebrew: "וּשְׁמֻע֣וֹת יְבַהֲלֻ֔הוּ מִמִּזְרָ֖ח וּמִצָּפ֑וֹן וְיָצָא֙ בְּחֵמָ֣א גְדֹלָ֔ה לְהַשְׁמִ֥יד וּֽלְהַחֲרִ֖ים רַבִּֽים׃"
+pericope: "[[Dan.11.36 The King Who Exalts Himself|The King Who Exalts Himself]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9002]]"
+- "[[H8052]]"
+- "[[H0926]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H4217H]]"
+- "[[H6828G]]"
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H9003]]"
+- "[[H2534]]"
+- "[[H1419A]]"
+- "[[H9005]]"
+- "[[H8045]]"
+- "[[H2763A]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 11:44**<big><big>[[Dan.11.36 The King Who Exalts Himself|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But tidings out of the east and out of the north shall trouble him: therefore he shall go forth with great fury to destroy, and utterly to make away many.
 <small><sub>**BSB:**</sub></small>
 But news from the east and the north will alarm him, and he will go out with great fury to destroy many and devote them to destruction.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H8052\|שְׁמֻע֣וֹת]] [[H0926\|יְבַהֲלֻ֔]][[H9033\|הוּ]] [[H9006\|מִ]][[H4217H\|מִּזְרָ֖ח]] [[H9002\|וּ]][[H9006\|מִ]][[H6828G\|צָּפ֑וֹן]] [[H9001\|וְ]][[H3318G\|יָצָא֙]] [[H9003\|בְּ]][[H2534\|חֵמָ֣א]] [[H1419A\|גְדֹלָ֔ה]] [[H9005\|לְ]][[H8045\|הַשְׁמִ֥יד]] [[H9002\|וּֽ]][[H9005\|לְ]][[H2763A\|הַחֲרִ֖ים]] [[H7227A\|רַבִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.43|<< Daniel 11:43]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.45|Daniel 11:45 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

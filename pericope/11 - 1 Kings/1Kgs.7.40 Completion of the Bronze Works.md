@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Completion of the Bronze Works
+type: Pericope
 pericope: "[[1Kgs.7.40 Completion of the Bronze Works|Completion of the Bronze Works]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 7
 book/chapter: "[[1Kgs.7|1 Kings 7]]"
-genre:
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 8
 verses:
 - "[[1Kgs.7.40]]"
 - "[[1Kgs.7.41]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Kgs.7.47]]"
 ---
 
-[[1Kgs.7|1 Kings 7:40 - 1 Kings 7:47]]
+<small>[[1Kgs.7|1 Kings 7:40-47]]</small>
 *Completion of the Bronze Works*
 
 [[1Kgs.7.40|40]] And Hiram made the lavers, and the shovels, and the basons. So Hiram made an end of doing all the work that he made king Solomon for the house of the LORD:

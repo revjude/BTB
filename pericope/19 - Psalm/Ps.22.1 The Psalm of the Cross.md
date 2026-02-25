@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Psalm of the Cross
+type: Pericope
 pericope: "[[Ps.22.1 The Psalm of the Cross|The Psalm of the Cross]]"
-verse_count: 32
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 22
 book/chapter: "[[Ps.22|Psalm 22]]"
-genre:
+chronological_order: 355
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 32
 verses:
 - "[[Ps.22.0]]"
 - "[[Ps.22.1]]"
@@ -53,7 +60,7 @@ verses:
 - "[[Ps.22.31]]"
 ---
 
-[[Ps.22|Psalm 22:1 - Psalm 22:31]]
+<small>[[Ps.22|Psalm 22:1-31]]</small>
 *The Psalm of the Cross*
 
 [[Ps.22.0|0]] To the chief Musician upon Aijeleth Shahar, A Psalm of David.

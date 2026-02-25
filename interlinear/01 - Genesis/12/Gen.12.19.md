@@ -1,8 +1,71 @@
+---
+title: Genesis 12:19
+type: Verse
+kjv: "Why saidst thou, She is my sister? so I might have taken her to me to wife: now therefore behold thy wife, take her, and go thy way."
+bsb: "Why did you say, ‘She is my sister,’ so that I took her as my wife? Now then, here is your wife. Take her and go!”"
+hebrew: "לָמָ֤ה אָמַ֙רְתָּ֙ אֲחֹ֣תִי הִ֔וא וָאֶקַּ֥ח אֹתָ֛הּ לִ֖י לְאִשָּׁ֑ה וְעַתָּ֕ה הִנֵּ֥ה אִשְׁתְּךָ֖ קַ֥ח וָלֵֽךְ׃"
+pericope: "[[Gen.12.10 Abram and Sarai in Egypt|Abram and Sarai in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 12
+book/chapter: "[[Gen.12|Genesis 12]]"
+chronological_order: 54
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic PHARAOH|PHARAOH]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SARAH|SARAH]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H0559]]"
+- "[[H0269]]"
+- "[[H9020]]"
+- "[[H1931]]"
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H9030]]"
+- "[[H0802H]]"
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H2009]]"
+- "[[H9021]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 12:19**<big><big>[[Gen.12.10 Abram and Sarai in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why saidst thou, She [is] my sister? so I might have taken her to me to wife: now therefore behold thy wife, take [her], and go thy way.
 <small><sub>**BSB:**</sub></small>
 Why did you say, ‘She is my sister,’ so that I took her as my wife? Now then, here is your wife. Take her and go!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H4100\|מָ֤ה]] [[H0559\|אָמַ֙רְתָּ֙]] [[H0269\|אֲחֹ֣תִ]][[H9020\|י]] [[H1931\|הִ֔וא]] [[H9001\|וָ]][[H3947G\|אֶקַּ֥ח]] [[H0853\|אֹתָ֛]][[H9034\|הּ]] [[H9005\|לִ֖]][[H9030\|י]] [[H9005\|לְ]][[H0802H\|אִשָּׁ֑ה]] [[H9002\|וְ]][[H6258\|עַתָּ֕ה]] [[H2009\|הִנֵּ֥ה]] [[H0802H\|אִשְׁתְּ]][[H9021\|ךָ֖]] [[H3947G\|קַ֥ח]] [[H9002\|וָ]][[H1980G\|לֵֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CHIDING|CHIDING]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic COWARDICE|COWARDICE]] • [[topic EGYPT|EGYPT]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic PHARAOH|PHARAOH]] • [[topic RULERS|RULERS]] • [[topic SARAH|SARAH]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.12.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.18|<< Genesis 12:18]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.20|Genesis 12:20 >>]]</td></tr></table>
 

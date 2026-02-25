@@ -1,10 +1,60 @@
+---
+title: John 8:54
+type: Verse
+kjv: "Jesus answered, If I honour myself, my honour is nothing: it is my Father that honoureth me; of whom ye say, that he is your God:"
+bsb: "Jesus answered, “If I glorify Myself, My glory means nothing. The One who glorifies Me is My Father, of whom you say, ‘He is our God.’"
+jesus_said: "If I honour myself, my honour is nothing: it is my Father that honoureth me; of whom ye say, that he is your God:"
+greek: "Ἀπεκρίθη Ἰησοῦς· ἐὰν ἐγὼ δοξάσω ἐμαυτόν, ἡ δόξα μου οὐδέν ἐστιν· ἔστιν ὁ πατήρ μου ὁ δοξάζων με ὃν ὑμεῖς λέγετε ὅτι θεὸς ἡμῶν ἐστιν,"
+pericope: "[[John.8.48 Before Abraham Was Born, I Am|Before Abraham Was Born, I Am]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G0611]]"
+- "[[G2424G]]"
+- "[[G1437]]"
+- "[[G1473]]"
+- "[[G1392]]"
+- "[[G3588]]"
+- "[[G1391]]"
+- "[[G3165]]"
+- "[[G3762]]"
+- "[[G1510]]"
+- "[[G3962]]"
+- "[[G3739]]"
+- "[[G4771]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G2316]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 8:54**<big><big>[[John.8.48 Before Abraham Was Born, I Am|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus answered, If I honour myself, my honour is nothing: it is my Father that honoureth me; of whom ye say, that he is your God:
 <small><sub>**BSB:**</sub></small>
 Jesus answered, “If I glorify Myself, My glory means nothing. The One who glorifies Me is My Father, of whom you say, ‘He is our God.’
-<small><sub>**Literal:**</sub></small>
-Answered Jesus; If I myself shall glorify Myself, the glory of Mine no [thing] is; it is the Father of Mine who is glorifying Me [of] whom you yourselves say that God of us He is,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.53|<< John 8:53]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.55|John 8:55 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀπεκρίθη]]  [[G2424G\|Ἰησοῦς·]]  [[G1437\|ἐὰν]]  [[G1473\|ἐγὼ]]  [[G1392\|δοξάσω]]  [[G1473\|ἐμαυτόν,]]  [[G3588\|ἡ]]  [[G1391\|δόξα]]  [[G3165\|μου]]  [[G3762\|οὐδέν]]  [[G1510\|ἐστιν·]]  [[G1510\|ἔστιν]]  [[G3588\|ὁ]]  [[G3962\|πατήρ]]  [[G3165\|μου]]  [[G3588\|ὁ]]  [[G1392\|δοξάζων]]  [[G3165\|με]]  [[G3739\|ὃν]]  [[G4771\|ὑμεῖς]]  [[G3004G\|λέγετε]]  [[G3754G\|ὅτι]]  [[G2316\|θεὸς]]  [[G3165\|ἡμῶν]]  [[G1510\|ἐστιν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.53|<< John 8:53]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.55|John 8:55 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,68 @@
+---
+title: Genesis 30:43
+type: Verse
+kjv: "And the man increased exceedingly, and had much cattle, and maidservants, and menservants, and camels, and asses."
+bsb: "Thus Jacob became exceedingly prosperous. He owned large flocks, maidservants and menservants, and camels and donkeys."
+hebrew: "וַיִּפְרֹ֥ץ הָאִ֖ישׁ מְאֹ֣ד מְאֹ֑ד וַֽיְהִי־ לוֹ֙ צֹ֣אן רַבּ֔וֹת וּשְׁפָחוֹת֙ וַעֲבָדִ֔ים וּגְמַלִּ֖ים וַחֲמֹרִֽים׃"
+pericope: "[[Gen.30.25 Jacob Prospers|Jacob Prospers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 30
+book/chapter: "[[Gen.30|Genesis 30]]"
+chronological_order: 72
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic CAMEL|CAMEL]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6555]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H3966]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H6629G]]"
+- "[[H7227A]]"
+- "[[H9002]]"
+- "[[H8198]]"
+- "[[H5650]]"
+- "[[H1581]]"
+- "[[H2543]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 30:43**<big><big>[[Gen.30.25 Jacob Prospers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the man increased exceedingly, and had much cattle, and maidservants, and menservants, and camels, and asses.
 <small><sub>**BSB:**</sub></small>
 Thus Jacob became exceedingly prosperous. He owned large flocks, maidservants and menservants, and camels and donkeys.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6555\|יִּפְרֹ֥ץ]] [[H9009\|הָ]][[H0376G\|אִ֖ישׁ]] [[H3966\|מְאֹ֣ד]] [[H3966\|מְאֹ֑ד]] [[H9001\|וַֽ]][[H1961\|יְהִי]][[H9014\|־]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H6629G\|צֹ֣אן]] [[H7227A\|רַבּ֔וֹת]] [[H9002\|וּ]][[H8198\|שְׁפָחוֹת֙]] [[H9002\|וַ]][[H5650\|עֲבָדִ֔ים]] [[H9002\|וּ]][[H1581\|גְמַלִּ֖ים]] [[H9002\|וַ]][[H2543\|חֲמֹרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic CAMEL|CAMEL]] • [[topic CONTRACTS|CONTRACTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic JACOB|JACOB]] • [[topic LABAN|LABAN]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.42|<< Genesis 30:42]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.1|Genesis 31:1 >>]]</td></tr></table>
 

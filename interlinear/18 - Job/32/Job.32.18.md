@@ -1,8 +1,46 @@
+---
+title: Job 32:18
+type: Verse
+kjv: "For I am full of matter, the spirit within me constraineth me."
+bsb: "For I am full of words, and my spirit within me compels me."
+hebrew: "כִּ֭י מָלֵ֣תִי מִלִּ֑ים הֱ֝צִיקַ֗תְנִי ר֣וּחַ בִּטְנִֽי׃"
+pericope: "[[Job.32.1 Elihu Rebukes Job’s Friends|Elihu Rebukes Job’s Friends]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 32
+book/chapter: "[[Job.32|Job 32]]"
+chronological_order: 43
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H3588A]]"
+- "[[H4390]]"
+- "[[H4405]]"
+- "[[H6693]]"
+- "[[H9030]]"
+- "[[H7307G]]"
+- "[[H0990J]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 32:18**<big><big>[[Job.32.1 Elihu Rebukes Job’s Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I am full of matter, the spirit within me constraineth me.
 <small><sub>**BSB:**</sub></small>
 For I am full of words, and my spirit within me compels me.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֭י]] [[H4390\|מָלֵ֣תִי]] [[H4405\|מִלִּ֑ים]] [[H6693\|הֱ֝צִיקַ֗תְ]][[H9030\|נִי]] [[H7307G\|ר֣וּחַ]] [[H0990J\|בִּטְנִֽ]][[H9020\|י]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.32.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.32.17|<< Job 32:17]]</td><td align="center" style="border:none;">[[Job.32|Job 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.19|Job 32:19 >>]]</td></tr></table>
 

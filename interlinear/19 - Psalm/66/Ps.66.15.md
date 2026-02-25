@@ -1,8 +1,57 @@
+---
+title: Psalm 66:15
+type: Verse
+kjv: "I will offer unto thee burnt sacrifices of fatlings, with the incense of rams; I will offer bullocks with goats. Selah."
+bsb: "I will offer You fatlings as burnt offerings, with the fragrant smoke of rams; I will offer bulls and goats. Selah"
+hebrew: "עֹ֘ל֤וֹת מֵחִ֣ים אַעֲלֶה־ לָּ֭ךְ עִם־ קְטֹ֣רֶת אֵילִ֑ים אֶ֥עֱשֶֽׂה בָקָ֖ר עִם־ עַתּוּדִ֣ים סֶֽלָה׃"
+pericope: "[[Ps.66.1 Make a Joyful Noise|Make a Joyful Noise]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 66
+book/chapter: "[[Ps.66|Psalm 66]]"
+chronological_order: 426
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H5930A]]"
+- "[[H4220]]"
+- "[[H5927I]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H5973A]]"
+- "[[H7004]]"
+- "[[H0352A]]"
+- "[[H6213H]]"
+- "[[H1241]]"
+- "[[H6260]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 66:15**<big><big>[[Ps.66.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will offer unto thee burnt sacrifices of fatlings, with the incense of rams; I will offer bullocks with goats. Selah.
 <small><sub>**BSB:**</sub></small>
 I will offer You fatlings as burnt offerings, with the fragrant smoke of rams; I will offer bulls and goats. Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H5930A\|עֹ֘ל֤וֹת]] [[H4220\|מֵחִ֣ים]] [[H5927I\|אַעֲלֶה]][[H9014\|־]] [[H9005\|לָּ֭]][[H9032\|ךְ]] [[H5973A\|עִם]][[H9014\|־]] [[H7004\|קְטֹ֣רֶת]] [[H0352A\|אֵילִ֑ים]] [[H6213H\|אֶ֥עֱשֶֽׂה]] [[H1241\|בָקָ֖ר]] [[H5973A\|עִם]][[H9014\|־]] [[H6260\|עַתּוּדִ֣ים]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.14|<< Psalms 66:14]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.16|Psalms 66:16 >>]]</td></tr></table>
 

@@ -1,8 +1,52 @@
+---
+title: Proverbs 13:10
+type: Verse
+kjv: "Only by pride cometh contention: but with the well advised is wisdom."
+bsb: "Arrogance leads only to strife, but wisdom is with the well-advised."
+hebrew: "רַק־ בְּ֭זָדוֹן יִתֵּ֣ן מַצָּ֑ה וְאֶת־ נ֖וֹעָצִ֣ים חָכְמָֽה׃"
+pericope: "[[Prov.13.1 A Father’s Discipline|A Father’s Discipline]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 13
+book/chapter: "[[Prov.13|Proverbs 13]]"
+chronological_order: 468
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[H7535]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H2087]]"
+- "[[H5414G]]"
+- "[[H4683]]"
+- "[[H9002]]"
+- "[[H0854]]"
+- "[[H3289]]"
+- "[[H2451]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 13:10**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only by pride cometh contention: but with the well advised [is] wisdom.
 <small><sub>**BSB:**</sub></small>
 Arrogance leads only to strife, but wisdom is with the well-advised.
+<small><sub>**Hebrew:**</sub></small>
+[[H7535\|רַק]][[H9014\|־]] [[H9003\|בְּ֭]][[H2087\|זָדוֹן]] [[H5414G\|יִתֵּ֣ן]] [[H4683\|מַצָּ֑ה]] [[H9002\|וְ]][[H0854\|אֶת]][[H9014\|־]] [[H3289\|נ֖וֹעָצִ֣ים]] [[H2451\|חָכְמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]] • [[topic STRIFE|STRIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.9|<< Proverbs 13:9]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.11|Proverbs 13:11 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Isaiah 1:11
+type: Verse
+kjv: "To what purpose is the multitude of your sacrifices unto me? saith the LORD: I am full of the burnt offerings of rams, and the fat of fed beasts; and I delight not in the blood of bullocks, or of lambs, or of he goats."
+bsb: "“What good to Me is your multitude of sacrifices?” says the LORD. “I am full from the burnt offerings of rams and the fat of well-fed cattle; I take no delight in the blood of bulls and lambs and goats."
+hebrew: "לָמָּה־ לִּ֤י רֹב־ זִבְחֵיכֶם֙ יֹאמַ֣ר יְהוָ֔ה שָׂבַ֛עְתִּי עֹל֥וֹת אֵילִ֖ים וְחֵ֣לֶב מְרִיאִ֑ים וְדַ֨ם פָּרִ֧ים וּכְבָשִׂ֛ים וְעַתּוּדִ֖ים לֹ֥א חָפָֽצְתִּי׃"
+pericope: "[[Isa.1.10 Meaningless Offerings|Meaningless Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 1
+book/chapter: "[[Isa.1|Isaiah 1]]"
+chronological_order: 609
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic ORDINANCE|ORDINANCE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H9030]]"
+- "[[H7230]]"
+- "[[H2077]]"
+- "[[H9026]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H7646]]"
+- "[[H5930A]]"
+- "[[H0352A]]"
+- "[[H9002]]"
+- "[[H2459]]"
+- "[[H4806]]"
+- "[[H1818]]"
+- "[[H6499]]"
+- "[[H3532]]"
+- "[[H6260]]"
+- "[[H3808]]"
+- "[[H2654A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 1:11**<big><big>[[Isa.1.10 Meaningless Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To what purpose [is] the multitude of your sacrifices unto me? saith the LORD: I am full of the burnt offerings of rams, and the fat of fed beasts; and I delight not in the blood of bullocks, or of lambs, or of he goats.
 <small><sub>**BSB:**</sub></small>
 “What good to Me is your multitude of sacrifices?” says the LORD. “I am full from the burnt offerings of rams and the fat of well-fed cattle; I take no delight in the blood of bulls and lambs and goats.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H4100\|מָּה]][[H9014\|־]] [[H9005\|לִּ֤]][[H9030\|י]] [[H7230\|רֹב]][[H9014\|־]] [[H2077\|זִבְחֵי]][[H9026\|כֶם֙]] [[H0559\|יֹאמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H7646\|שָׂבַ֛עְתִּי]] [[H5930A\|עֹל֥וֹת]] [[H0352A\|אֵילִ֖ים]] [[H9002\|וְ]][[H2459\|חֵ֣לֶב]] [[H4806\|מְרִיאִ֑ים]] [[H9002\|וְ]][[H1818\|דַ֨ם]] [[H6499\|פָּרִ֧ים]] [[H9002\|וּ]][[H3532\|כְבָשִׂ֛ים]] [[H9002\|וְ]][[H6260\|עַתּוּדִ֖ים]] [[H3808\|לֹ֥א]] [[H2654A\|חָפָֽצְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic FORMALISM|FORMALISM]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic OFFERINGS|OFFERINGS]] • [[topic ORDINANCE|ORDINANCE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.10|<< Isaiah 1:10]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.12|Isaiah 1:12 >>]]</td></tr></table>
 

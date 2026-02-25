@@ -1,10 +1,56 @@
+---
+title: 1 Corinthians 9:23
+type: Verse
+kjv: "And this I do for the gospel’s sake, that I might be partaker thereof with you."
+bsb: "I do all this for the sake of the gospel, so that I may share in its blessings."
+greek: "πάντα δὲ ποιῶ διὰ τὸ εὐαγγέλιον ἵνα συγκοινωνὸς αὐτοῦ γένωμαι.¶"
+pericope: "[[1Cor.9.19 Paul the Servant to All|Paul the Servant to All]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 9
+book/chapter: "[[1Cor.9|1 Corinthians 9]]"
+chronological_order: 1066
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic EVIL|EVIL]]"
+- "[[topic EXPEDIENCY|EXPEDIENCY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3956]]"
+- "[[G1161]]"
+- "[[G4160G]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G2098]]"
+- "[[G2443]]"
+- "[[G4791]]"
+- "[[G0846]]"
+- "[[G1096]]"
+texts:
+- N(K)O
+- NKO
+---
+
 **1 Corinthians 9:23**<big><big>[[1Cor.9.19 Paul the Servant to All|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And this I do for the gospel’s sake, that I might be partaker thereof with [you].
 <small><sub>**BSB:**</sub></small>
 I do all this for the sake of the gospel, so that I may share in its blessings.
-<small><sub>**Literal:**</sub></small>
-All [things] now I do on account of the gospel that a fellow partaker with it I may become.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.22|<< 1 Corinthians 9:22]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.24|1 Corinthians 9:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πάντα]]  [[G1161\|δὲ]]  [[G4160G\|ποιῶ]]  [[G1223\|διὰ]]  [[G3588\|τὸ]]  [[G2098\|εὐαγγέλιον]]  [[G2443\|ἵνα]]  [[G4791\|συγκοινωνὸς]]  [[G0846\|αὐτοῦ]]  [[G1096\|γένωμαι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIPLOMACY|DIPLOMACY]] • [[topic EVIL|EVIL]] • [[topic EXPEDIENCY|EXPEDIENCY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic UNSELFISHNESS|UNSELFISHNESS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.22|<< 1 Corinthians 9:22]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.24|1 Corinthians 9:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

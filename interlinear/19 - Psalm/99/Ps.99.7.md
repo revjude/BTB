@@ -1,8 +1,61 @@
+---
+title: Psalm 99:7
+type: Verse
+kjv: "He spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance that he gave them."
+bsb: "He spoke to them from the pillar of cloud; they kept His decrees and the statutes He gave them."
+hebrew: "בְּעַמּ֣וּד עָ֭נָן יְדַבֵּ֣ר אֲלֵיהֶ֑ם שָׁמְר֥וּ עֵ֝דֹתָ֗יו וְחֹ֣ק נָֽתַן־ לָֽמוֹ׃"
+pericope: "[[Ps.99.1 The LORD Reigns!|The LORD Reigns!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 99
+book/chapter: "[[Ps.99|Psalm 99]]"
+chronological_order: 526
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9003]]"
+- "[[H5982G]]"
+- "[[H6051]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H8104G]]"
+- "[[H5713B]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H2706G]]"
+- "[[H5414G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 99:7**<big><big>[[Ps.99.1 The LORD Reigns!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance [that] he gave them.
 <small><sub>**BSB:**</sub></small>
 He spoke to them from the pillar of cloud; they kept His decrees and the statutes He gave them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H5982G\|עַמּ֣וּד]] [[H6051\|עָ֭נָן]] [[H1696G\|יְדַבֵּ֣ר]] [[H0413\|אֲלֵי]][[H9038\|הֶ֑ם]] [[H8104G\|שָׁמְר֥וּ]] [[H5713B\|עֵ֝דֹתָ֗י]][[H9023\|ו]] [[H9002\|וְ]][[H2706G\|חֹ֣ק]] [[H5414G\|נָֽתַן]][[H9014\|־]] [[H9005\|לָֽ]][[H9038\|מוֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PRAYER|PRAYER]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.99.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.99.6|<< Psalms 99:6]]</td><td align="center" style="border:none;">[[Ps.99|Psalms 99]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.99.8|Psalms 99:8 >>]]</td></tr></table>
 

@@ -1,10 +1,65 @@
+---
+title: Acts 15:11
+type: Verse
+kjv: "But we believe that through the grace of the Lord Jesus Christ we shall be saved, even as they."
+bsb: "On the contrary, we believe it is through the grace of the Lord Jesus that we are saved, just as they are.”"
+greek: "ἀλλὰ διὰ τῆς χάριτος τοῦ κυρίου Ἰησοῦ Χριστοῦ πιστεύομεν σωθῆναι καθ᾽ ὃν τρόπον κἀκεῖνοι. κἀκεῖνοι."
+pericope: "[[Acts.15.5 The Council at Jerusalem|The Council at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G0235]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G5485]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G4100]]"
+- "[[G4982]]"
+- "[[G2596]]"
+- "[[G3739]]"
+- "[[G5158]]"
+- "[[G1565]]"
+- "[[G2532]]"
+texts:
+- NKO
+- K
+---
+
 **Acts 15:11**<big><big>[[Acts.15.5 The Council at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But we believe that through the grace of the Lord Jesus Christ we shall be saved, even as they.
 <small><sub>**BSB:**</sub></small>
 On the contrary, we believe it is through the grace of the Lord Jesus that we are saved, just as they are.”
-<small><sub>**Literal:**</sub></small>
-But through the grace of the Lord Jesus Christ we believe to be saved in [the] same manner [as] they also.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.10|<< Acts 15:10]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.12|Acts 15:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλὰ]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G5485\|χάριτος]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G4100\|πιστεύομεν]]  [[G4982\|σωθῆναι]]  [[G2596\|καθ᾽]]  [[G3739\|ὃν]]  [[G5158\|τρόπον]]  [[G1565\|κἀκεῖνοι.]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic CHURCH|CHURCH]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COUNCIL|COUNCIL]] • [[topic DOCTRINES|DOCTRINES]] • [[topic ELDER|ELDER]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic PETER|PETER]] • [[topic SALVATION|SALVATION]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.10|<< Acts 15:10]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.12|Acts 15:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

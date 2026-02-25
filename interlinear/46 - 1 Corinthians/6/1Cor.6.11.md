@@ -1,10 +1,67 @@
+---
+title: 1 Corinthians 6:11
+type: Verse
+kjv: "And such were some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God."
+bsb: "And that is what some of you were. But you were washed, you were sanctified, you were justified, in the name of the Lord Jesus Christ and by the Spirit of our God."
+greek: "καὶ ταῦτά τινες ἦτε· ἀλλ᾽ ἀπελούσασθε ἀλλ᾽ ἡγιάσθητε ἀλλ᾽ ἐδικαιώθητε ἐν τῷ ὀνόματι τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ καὶ ἐν τῷ πνεύματι τοῦ θεοῦ ἡμῶν.¶"
+pericope: "[[1Cor.6.9 Members of Christ|Members of Christ]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 6
+book/chapter: "[[1Cor.6|1 Corinthians 6]]"
+chronological_order: 1063
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WASHING|WASHING]]"
+strongs:
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G5100]]"
+- "[[G1510]]"
+- "[[G0235]]"
+- "[[G0628]]"
+- "[[G0037]]"
+- "[[G1344]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G4151G]]"
+- "[[G2316]]"
+texts:
+- NKO
+- O
+- NO
+---
+
 **1 Corinthians 6:11**<big><big>[[1Cor.6.9 Members of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And such were some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God.
 <small><sub>**BSB:**</sub></small>
 And that is what some of you were. But you were washed, you were sanctified, you were justified, in the name of the Lord Jesus Christ and by the Spirit of our God.
-<small><sub>**Literal:**</sub></small>
-And such some [of] you were; but you were washed but you were sanctified but you were justified in the name of the Lord of us Jesus Christ and by the Spirit of the God of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.10|<< 1 Corinthians 6:10]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.12|1 Corinthians 6:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3778\|ταῦτά]]  [[G5100\|τινες]]  [[G1510\|ἦτε·]]  [[G0235\|ἀλλ᾽]]  [[G0628\|ἀπελούσασθε]]  [[G0235\|ἀλλ᾽]]  [[G0037\|ἡγιάσθητε]]  [[G0235\|ἀλλ᾽]]  [[G1344\|ἐδικαιώθητε]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματι]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4151G\|πνεύματι]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3165\|ἡμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic SIN|SIN]] • [[topic WASHING|WASHING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.10|<< 1 Corinthians 6:10]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.12|1 Corinthians 6:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

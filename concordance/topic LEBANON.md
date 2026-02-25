@@ -19,9 +19,9 @@
 
 → Beasts of [[Isa.40.16|Isa 40:16]]
 
-→ Fertility and productiveness of [[Hos.14.5|Ho 14:5]]-[[Hos.14.7|7]]
+→ Fertility and productiveness of [[Hos.14.5|Ho 14:5-7]]
 
-→ &#8220;House of the forest of,&#8221; [[1Kgs.7.2|1Ki 7:2]]-[[1Kgs.7.5|5]]
+→ &#8220;House of the forest of,&#8221; [[1Kgs.7.2|1Ki 7:2-5]]
 
 → Valley of [[Josh.11.17|Jos 11:17]]; [[Josh.12.7|12:7]]
 

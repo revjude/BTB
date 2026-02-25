@@ -1,8 +1,69 @@
+---
+title: Psalm 1:1
+type: Verse
+kjv: "Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful."
+bsb: "Blessed is the man who does not walk in the counsel of the wicked, or set foot on the path of sinners, or sit in the seat of mockers."
+hebrew: "אַ֥שְֽׁרֵי־ הָאִ֗ישׁ אֲשֶׁ֤ר׀ לֹ֥א הָלַךְ֮ בַּעֲצַ֪ת רְשָׁ֫עִ֥ים וּבְדֶ֣רֶךְ חַ֭טָּאִים לֹ֥א עָמָ֑ד וּבְמוֹשַׁ֥ב לֵ֝צִ֗ים לֹ֣א יָשָֽׁב׃"
+pericope: "[[Ps.1.1 The Two Paths|The Two Paths]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 1
+book/chapter: "[[Ps.1|Psalm 1]]"
+chronological_order: 337
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SCOFFING|SCOFFING]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0835]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H9015]]"
+- "[[H3808]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H6098]]"
+- "[[H7563]]"
+- "[[H9002]]"
+- "[[H1870G]]"
+- "[[H2400]]"
+- "[[H5975G]]"
+- "[[H4186]]"
+- "[[H3887]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 1:1**<big><big>[[Ps.1.1 The Two Paths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [is] the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.
 <small><sub>**BSB:**</sub></small>
 Blessed is the man who does not walk in the counsel of the wicked, or set foot on the path of sinners, or sit in the seat of mockers.
+<small><sub>**Hebrew:**</sub></small>
+[[H0835\|אַ֥שְֽׁרֵי]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֗ישׁ]] [[H0834A\|אֲשֶׁ֤ר]][[H9015\|׀]] [[H3808\|לֹ֥א]] [[H1980I\|הָלַךְ֮]] [[H9003\|בַּ]][[H6098\|עֲצַ֪ת]] [[H7563\|רְשָׁ֫עִ֥ים]] [[H9002\|וּ]][[H9003\|בְ]][[H1870G\|דֶ֣רֶךְ]] [[H2400\|חַ֭טָּאִים]] [[H3808\|לֹ֥א]] [[H5975G\|עָמָ֑ד]] [[H9002\|וּ]][[H9003\|בְ]][[H4186\|מוֹשַׁ֥ב]] [[H3887\|לֵ֝צִ֗ים]] [[H3808\|לֹ֣א]] [[H3427\|יָשָֽׁב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic INFIDELITY|INFIDELITY]] • [[topic PEACE|PEACE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SCOFFING|SCOFFING]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.42.17|<< Job 42:17]]</td><td align="center" style="border:none;">[[Ps.1|Psalms 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.1.2|Psalms 1:2 >>]]</td></tr></table>
 

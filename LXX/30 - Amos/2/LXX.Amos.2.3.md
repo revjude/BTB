@@ -1,6 +1,47 @@
+---
+title: LXX Amos 2:3
+type: Verse
+lxx: "And I will utterly destroy the judge from out of her; and all  her rulers I will kill with him, says the lord."
+greek: "και εξολοθρεύσω κριτήν εξ αυτής και πάντας τους άρχοντας αυτής αποκτενώ μετ΄ αυτού λέγει κύριος"
+original_language: Greek
+testament: Old
+book: Amos
+chapter: 2
+book/chapter: "[[Amos.2|Amos 2]]"
+chronological_order: 599
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+strongs:
+- "[[G2532]]"
+- "[[G1842]]"
+- "[[G2923]]"
+- "[[G1537]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0758]]"
+- "[[G1473]]"
+- "[[G0615]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G3004]]"
+- "[[G2962]]"
+---
+
 **LXX Amos 2:3** 
 <small><sub>**LXX:**</sub></small>
 And I will utterly destroy \[the\] judge from out of her; and all  her rulers I will kill with him, says \[the\] <span class="smallcaps">lord</span>. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1842\|εξολοθρεύσω]] [[G2923\|κριτήν]] [[G1537\|εξ]] [[G1473\|αυτής]] [[G2532\|και]] [[G3956\|πάντας]] [[G3588\|τους]] [[G0758\|άρχοντας]] [[G1473\|αυτής]] [[G0615\|αποκτενώ]] [[G3326\|μετ΄]] [[G1473\|αυτού]] [[G3004\|λέγει]] [[G2962\|κύριος]]
 <small><sub>**MT:**</sub></small>
 [[Amos.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.2.2|<< Amos 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.2.4|Amos 2:4 >>]]</td></tr></table>
 
@@ -20,6 +61,6 @@ And I will utterly destroy \[the\] judge from out of her; and all  her rulers I 
 | him, | **<big>[[G1473\|αυτού]]</big>** |
 | says | **<big>[[G3004\|λέγει]]</big>** |
 | \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
-[[Amos.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.2.2|<< Amos 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.2.4|Amos 2:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.2.2|<< Amos 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.2.4|Amos 2:4 >>]]</td></tr></table>
 
 

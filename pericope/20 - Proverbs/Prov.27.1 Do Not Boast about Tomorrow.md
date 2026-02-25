@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Do Not Boast about Tomorrow
+type: Pericope
 pericope: "[[Prov.27.1 Do Not Boast about Tomorrow|Do Not Boast about Tomorrow]]"
-verse_count: 27
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 27
 book/chapter: "[[Prov.27|Proverbs 27]]"
-genre:
+chronological_order: 482
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 27
 verses:
 - "[[Prov.27.1]]"
 - "[[Prov.27.2]]"
@@ -45,7 +52,7 @@ verses:
 - "[[Prov.27.27]]"
 ---
 
-[[Prov.27|Proverbs 27:1 - Proverbs 27:27]]
+<small>[[Prov.27|Proverbs 27:1-27]]</small>
 *Do Not Boast about Tomorrow*
 
 [[Prov.27.1|1]] Boast not thyself of to morrow; for thou knowest not what a day may bring forth.

@@ -1,8 +1,55 @@
+---
+title: Proverbs 26:20
+type: Verse
+kjv: "Where no wood is, there the fire goeth out: so where there is no talebearer, the strife ceaseth."
+bsb: "Without wood, a fire goes out; without gossip, a conflict ceases."
+hebrew: "בְּאֶ֣פֶס עֵ֭צִים תִּכְבֶּה־ אֵ֑שׁ וּבְאֵ֥ין נִ֝רְגָּ֗ן יִשְׁתֹּ֥ק מָדֽוֹן׃"
+pericope: "[[Prov.26.1 Similitudes and Instructions|Similitudes and Instructions]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 26
+book/chapter: "[[Prov.26|Proverbs 26]]"
+chronological_order: 481
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic TALEBEARER|TALEBEARER]]"
+strongs:
+- "[[H9003]]"
+- "[[H0657A]]"
+- "[[H6086G]]"
+- "[[H3518]]"
+- "[[H9014]]"
+- "[[H0784]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H7279]]"
+- "[[H8367]]"
+- "[[H4066]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 26:20**<big><big>[[Prov.26.1 Similitudes and Instructions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Where no wood is, [there] the fire goeth out: so where [there is] no talebearer, the strife ceaseth.
 <small><sub>**BSB:**</sub></small>
 Without wood, a fire goes out; without gossip, a conflict ceases.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H0657A\|אֶ֣פֶס]] [[H6086G\|עֵ֭צִים]] [[H3518\|תִּכְבֶּה]][[H9014\|־]] [[H0784\|אֵ֑שׁ]] [[H9002\|וּ]][[H9003\|בְ]][[H0369\|אֵ֥ין]] [[H7279\|נִ֝רְגָּ֗ן]] [[H8367\|יִשְׁתֹּ֥ק]] [[H4066\|מָדֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SLANDER|SLANDER]] • [[topic SPEAKING|SPEAKING]] • [[topic STRIFE|STRIFE]] • [[topic TALEBEARER|TALEBEARER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.19|<< Proverbs 26:19]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.21|Proverbs 26:21 >>]]</td></tr></table>
 

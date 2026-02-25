@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Christ’s Coming
+type: Pericope
 pericope: "[[2Thess.1.5 Christ’s Coming|Christ’s Coming]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: 2 Thessalonians
 chapter: 1
 book/chapter: "[[2Thess.1|2 Thessalonians 1]]"
-genre:
+chronological_order: 1053
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - eschatological
+verse_count: 8
 verses:
 - "[[2Thess.1.5]]"
 - "[[2Thess.1.6]]"
@@ -26,7 +33,7 @@ verses:
 - "[[2Thess.1.12]]"
 ---
 
-[[2Thess.1|2 Thessalonians 1:5 - 2 Thessalonians 1:12]]
+<small>[[2Thess.1|2 Thessalonians 1:5-12]]</small>
 *Christ’s Coming*
 
 [[2Thess.1.5|5]] \[Which is\] a manifest token of the righteous judgment of God, that ye may be counted worthy of the kingdom of God, for which ye also suffer:

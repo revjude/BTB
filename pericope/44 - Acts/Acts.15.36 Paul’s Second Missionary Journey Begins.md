@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Second Missionary Journey Begins
+type: Pericope
 pericope: "[[Acts.15.36 Paul’s Second Missionary Journey Begins|Paul’s Second Missionary Journey Begins]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Acts
 chapter: 15
 book/chapter: "[[Acts.15|Acts 15]]"
-genre:
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 6
 verses:
 - "[[Acts.15.36]]"
 - "[[Acts.15.37]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Acts.15.41]]"
 ---
 
-[[Acts.15|Acts 15:36 - Acts 15:41]]
+<small>[[Acts.15|Acts 15:36-41]]</small>
 *Paul’s Second Missionary Journey Begins*
 
 [[Acts.15.36|36]] And some days after Paul said unto Barnabas, Let us go again and visit our brethren in every city where we have preached the word of the Lord, \[and see\] how they do.

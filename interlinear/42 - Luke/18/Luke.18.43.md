@@ -1,10 +1,58 @@
+---
+title: Luke 18:43
+type: Verse
+kjv: "And immediately he received his sight, and followed him, glorifying God: and all the people, when they saw it, gave praise unto God."
+bsb: "Immediately he received his sight and followed Jesus, glorifying God. And all the people, when they saw it, gave praise to God."
+greek: "καὶ παραχρῆμα ἀνέβλεψεν καὶ ἠκολούθει αὐτῷ δοξάζων τὸν θεόν. καὶ πᾶς ὁ λαὸς ἰδὼν ἔδωκεν αἶνον τῷ θεῷ.¶"
+pericope: "[[Luke.18.35 Jesus Heals a Blind Beggar|Jesus Heals a Blind Beggar]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 18
+book/chapter: "[[Luke.18|Luke 18]]"
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]]"
+- "[[topic GLORIFYING GOD|GLORIFYING GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3916]]"
+- "[[G0308]]"
+- "[[G0190]]"
+- "[[G0846]]"
+- "[[G1392]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3956]]"
+- "[[G2992]]"
+- "[[G1492H]]"
+- "[[G1325]]"
+- "[[G0136]]"
+texts:
+- NKO
+---
+
 **Luke 18:43**<big><big>[[Luke.18.35 Jesus Heals a Blind Beggar|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And immediately he received his sight, and followed him, glorifying God: and all the people, when they saw [it], gave praise unto God.
 <small><sub>**BSB:**</sub></small>
 Immediately he received his sight and followed Jesus, glorifying God. And all the people, when they saw it, gave praise to God.
-<small><sub>**Literal:**</sub></small>
-And immediately he received sight and was following Him glorifying <the> God. And all the people having seen [it] gave praise <the> to God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.42|<< Luke 18:42]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.1|Luke 19:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3916\|παραχρῆμα]]  [[G0308\|ἀνέβλεψεν]]  [[G2532\|καὶ]]  [[G0190\|ἠκολούθει]]  [[G0846\|αὐτῷ]]  [[G1392\|δοξάζων]]  [[G3588\|τὸν]]  [[G2316\|θεόν.]]  [[G2532\|καὶ]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G2992\|λαὸς]]  [[G1492H\|ἰδὼν]]  [[G1325\|ἔδωκεν]]  [[G0136\|αἶνον]]  [[G3588\|τῷ]]  [[G2316\|θεῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]] • [[topic GLORIFYING GOD|GLORIFYING GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.42|<< Luke 18:42]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.1|Luke 19:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Laws about Offerings
+type: Pericope
 pericope: "[[Num.15.1 Laws about Offerings|Laws about Offerings]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 15
 book/chapter: "[[Num.15|Numbers 15]]"
-genre:
+chronological_order: 175
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 21
 verses:
 - "[[Num.15.1]]"
 - "[[Num.15.2]]"
@@ -43,7 +50,7 @@ verses:
 - "[[Num.15.21]]"
 ---
 
-[[Num.15|Numbers 15:1 - Numbers 15:21]]
+<small>[[Num.15|Numbers 15:1-21]]</small>
 *Laws about Offerings*
 
 [[Num.15.1|1]] And the LORD spake unto Moses, saying,

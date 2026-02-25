@@ -1,8 +1,64 @@
+---
+title: 1 Samuel 13:4
+type: Verse
+kjv: "And all Israel heard say that Saul had smitten a garrison of the Philistines, and that Israel also was had in abomination with the Philistines. And the people were called together after Saul to Gilgal."
+bsb: "And all Israel heard the news: “Saul has attacked an outpost of the Philistines, and now Israel has become a stench to the Philistines!” Then the people were summoned to join Saul at Gilgal."
+hebrew: "וְכָל־ יִשְׂרָאֵ֞ל שָׁמְע֣וּ לֵאמֹ֗ר הִכָּ֤ה שָׁאוּל֙ אֶת־ נְצִ֣יב פְּלִשְׁתִּ֔ים וְגַם־ נִבְאַשׁ יִשְׂרָאֵ֖ל בַּפְּלִשְׁתִּ֑ים וַיִּצָּעֲק֥וּ הָעָ֛ם אַחֲרֵ֥י שָׁא֖וּל הַגִּלְגָּֽל׃"
+pericope: "[[1Sam.13.1 War with the Philistines|War with the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 13
+book/chapter: "[[1Sam.13|1 Samuel 13]]"
+chronological_order: 292
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic JONATHAN|JONATHAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H8085G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H5221]]"
+- "[[H7586G]]"
+- "[[H0853]]"
+- "[[H5333]]"
+- "[[H6430G]]"
+- "[[H1571]]"
+- "[[H0887]]"
+- "[[H9003]]"
+- "[[H9001]]"
+- "[[H6817]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0310A]]"
+- "[[H1537G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 13:4**<big><big>[[1Sam.13.1 War with the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all Israel heard say [that] Saul had smitten a garrison of the Philistines, and [that] Israel also was had in abomination with the Philistines. And the people were called together after Saul to Gilgal.
 <small><sub>**BSB:**</sub></small>
 And all Israel heard the news: “Saul has attacked an outpost of the Philistines, and now Israel has become a stench to the Philistines!” Then the people were summoned to join Saul at Gilgal.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֞ל]] [[H8085G\|שָׁמְע֣וּ]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H5221\|הִכָּ֤ה]] [[H7586G\|שָׁאוּל֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5333\|נְצִ֣יב]] [[H6430G\|פְּלִשְׁתִּ֔ים]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H0887\|נִבְאַשׁ]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בַּ]][[H6430G\|פְּלִשְׁתִּ֑ים]] [[H9001\|וַ]][[H6817\|יִּצָּעֲק֥וּ]] [[H9009\|הָ]][[H5971A\|עָ֛ם]] [[H0310A\|אַחֲרֵ֥י]] [[H7586G\|שָׁא֖וּל]] [[H9009\|הַ]][[H1537G\|גִּלְגָּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic GILGAL|GILGAL]] • [[topic JONATHAN|JONATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.13.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.3|<< 1 Samuel 13:3]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.5|1 Samuel 13:5 >>]]</td></tr></table>
 

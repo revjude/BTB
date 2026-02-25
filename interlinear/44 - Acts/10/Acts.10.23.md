@@ -1,10 +1,59 @@
+---
+title: Acts 10:23
+type: Verse
+kjv: "Then called he them in, and lodged them. And on the morrow Peter went away with them, and certain brethren from Joppa accompanied him."
+bsb: "So Peter invited them in as his guests. And the next day he got ready and went with them, accompanied by some of the brothers from Joppa."
+greek: "εἰσκαλεσάμενος οὖν αὐτοὺς ἐξένισεν. τῇ δὲ ἐπαύριον ἀναστὰς ὁ Πέτρος ἐξῆλθεν σὺν αὐτοῖς, καί τινες τῶν ἀδελφῶν τῶν ἀπὸ τὴς Ἰόππης συνῆλθον αὐτῷ."
+pericope: "[[Acts.10.17 Peter Called to Caesarea|Peter Called to Caesarea]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+strongs:
+- "[[G1528]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G3579]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1887]]"
+- "[[G0450]]"
+- "[[G4074G]]"
+- "[[G1831]]"
+- "[[G4862]]"
+- "[[G2532]]"
+- "[[G5100]]"
+- "[[G0080]]"
+- "[[G0575]]"
+- "[[G2445]]"
+- "[[G4905]]"
+texts:
+- NKO
+- NO
+- k
+---
+
 **Acts 10:23**<big><big>[[Acts.10.17 Peter Called to Caesarea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then called he them in, and lodged [them]. And on the morrow Peter went away with them, and certain brethren from Joppa accompanied him.
 <small><sub>**BSB:**</sub></small>
 So Peter invited them in as his guests. And the next day he got ready and went with them, accompanied by some of the brothers from Joppa.
-<small><sub>**Literal:**</sub></small>
-Having called in therefore them he lodged [them]. On the now next day having risen up <the> Peter he went forth with them, and some of the brothers those from <the> Joppa went with him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.22|<< Acts 10:22]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.24|Acts 10:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1528\|εἰσκαλεσάμενος]]  [[G3767\|οὖν]]  [[G0846\|αὐτοὺς]]  [[G3579\|ἐξένισεν.]]  [[G3588\|τῇ]]  [[G1161\|δὲ]]  [[G1887\|ἐπαύριον]]  [[G0450\|ἀναστὰς]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G1831\|ἐξῆλθεν]]  [[G4862\|σὺν]]  [[G0846\|αὐτοῖς,]]  [[G2532\|καί]]  [[G5100\|τινες]]  [[G3588\|τῶν]]  [[G0080\|ἀδελφῶν]]  [[G3588\|τῶν]]  [[G0575\|ἀπὸ]]  [[G3588\|τὴς]]  [[G2445\|Ἰόππης]]  [[G4905\|συνῆλθον]]  [[G0846\|αὐτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic HOSPITALITY|HOSPITALITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.22|<< Acts 10:22]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.24|Acts 10:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

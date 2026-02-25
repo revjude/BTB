@@ -1,8 +1,76 @@
+---
+title: Judges 8:26
+type: Verse
+kjv: "And the weight of the golden earrings that he requested was a thousand and seven hundred shekels of gold; beside ornaments, and collars, and purple raiment that was on the kings of Midian, and beside the chains that were about their camels’ necks."
+bsb: "The weight of the gold earrings he had requested was 1,700 shekels, in addition to the crescent ornaments, the pendants, the purple garments of the kings of Midian, and the chains from the necks of their camels."
+hebrew: "וַיְהִ֗י מִשְׁקַ֞ל נִזְמֵ֤י הַזָּהָב֙ אֲשֶׁ֣ר שָׁאָ֔ל אֶ֥לֶף וּשְׁבַע־ מֵא֖וֹת זָהָ֑ב לְ֠בַד מִן־ הַשַּׂהֲרֹנִ֨ים וְהַנְּטִפ֜וֹת וּבִגְדֵ֣י הָאַרְגָּמָ֗ן שֶׁעַל֙ מַלְכֵ֣י מִדְיָ֔ן וּלְבַד֙ מִן־ הָ֣עֲנָק֔וֹת אֲשֶׁ֖ר בְּצַוְּארֵ֥י גְמַלֵּיהֶֽם׃"
+pericope: "[[Judg.8.22 Gideon’s Ephod|Gideon’s Ephod]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 8
+book/chapter: "[[Judg.8|Judges 8]]"
+chronological_order: 262
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CAMEL|CAMEL]]"
+- "[[topic CHAINS|CHAINS]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic GIDEON|GIDEON]]"
+- "[[topic ISHMAELITES|ISHMAELITES]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SHEKEL|SHEKEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H4948]]"
+- "[[H5141]]"
+- "[[H9009]]"
+- "[[H2091]]"
+- "[[H0834A]]"
+- "[[H7592]]"
+- "[[H0505G]]"
+- "[[H9002]]"
+- "[[H7651]]"
+- "[[H9014]]"
+- "[[H3967]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H4480A]]"
+- "[[H7720]]"
+- "[[H5188]]"
+- "[[H0899B]]"
+- "[[H0713]]"
+- "[[H9007]]"
+- "[[H5921A]]"
+- "[[H4428G]]"
+- "[[H4080H]]"
+- "[[H6060B]]"
+- "[[H9003]]"
+- "[[H6677A]]"
+- "[[H1581]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 8:26**<big><big>[[Judg.8.22 Gideon’s Ephod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the weight of the golden earrings that he requested was a thousand and seven hundred [shekels] of gold; beside ornaments, and collars, and purple raiment that [was] on the kings of Midian, and beside the chains that [were] about their camels’ necks.
 <small><sub>**BSB:**</sub></small>
 The weight of the gold earrings he had requested was 1,700 shekels, in addition to the crescent ornaments, the pendants, the purple garments of the kings of Midian, and the chains from the necks of their camels.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H4948\|מִשְׁקַ֞ל]] [[H5141\|נִזְמֵ֤י]] [[H9009\|הַ]][[H2091\|זָּהָב֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H7592\|שָׁאָ֔ל]] [[H0505G\|אֶ֥לֶף]] [[H9002\|וּ]][[H7651\|שְׁבַע]][[H9014\|־]] [[H3967\|מֵא֖וֹת]] [[H2091\|זָהָ֑ב]] [[H9005\|לְ֠]][[H0905H\|בַד]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H7720\|שַּׂהֲרֹנִ֨ים]] [[H9002\|וְ]][[H9009\|הַ]][[H5188\|נְּטִפ֜וֹת]] [[H9002\|וּ]][[H0899B\|בִגְדֵ֣י]] [[H9009\|הָ]][[H0713\|אַרְגָּמָ֗ן]] [[H9007\|שֶׁ]][[H5921A\|עַל֙]] [[H4428G\|מַלְכֵ֣י]] [[H4080H\|מִדְיָ֔ן]] [[H9002\|וּ]][[H9005\|לְ]][[H0905H\|בַד֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ֣]][[H6060B\|עֲנָק֔וֹת]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בְּ]][[H6677A\|צַוְּארֵ֥י]] [[H1581\|גְמַלֵּי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAMEL|CAMEL]] • [[topic CHAINS|CHAINS]] • [[topic COLORS|COLORS]] • [[topic GIDEON|GIDEON]] • [[topic ISHMAELITES|ISHMAELITES]] • [[topic ISRAEL|ISRAEL]] • [[topic SHEKEL|SHEKEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.25|<< Judges 8:25]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.27|Judges 8:27 >>]]</td></tr></table>
 

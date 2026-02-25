@@ -1,10 +1,65 @@
+---
+title: Colossians 2:8
+type: Verse
+kjv: "Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ."
+bsb: "See to it that no one takes you captive through philosophy and empty deception, which are based on human tradition and the spiritual forces of the world rather than on Christ."
+greek: "Βλέπετε μή τις ὑμᾶς ἔσται ὁ συλαγωγῶν διὰ τῆς φιλοσοφίας καὶ κενῆς ἀπάτης κατὰ τὴν παράδοσιν τῶν ἀνθρώπων, κατὰ τὰ στοιχεῖα τοῦ κόσμου καὶ οὐ κατὰ Χριστόν·"
+pericope: "[[Col.2.6 Alive with Christ|Alive with Christ]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 2
+book/chapter: "[[Col.2|Colossians 2]]"
+chronological_order: 1122
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic DECEIT|DECEIT]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic TRADITION|TRADITION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G0991]]"
+- "[[G3361]]"
+- "[[G5100]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G4812]]"
+- "[[G1223]]"
+- "[[G5385]]"
+- "[[G2532]]"
+- "[[G2756]]"
+- "[[G0539]]"
+- "[[G2596]]"
+- "[[G3862]]"
+- "[[G0444]]"
+- "[[G4747]]"
+- "[[G2889]]"
+- "[[G3756]]"
+- "[[G5547]]"
+texts:
+- NKO
+---
+
 **Colossians 2:8**<big><big>[[Col.2.6 Alive with Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ.
 <small><sub>**BSB:**</sub></small>
 See to it that no one takes you captive through philosophy and empty deception, which are based on human tradition and the spiritual forces of the world rather than on Christ.
-<small><sub>**Literal:**</sub></small>
-do take heed lest anyone you there will be who is taking captive through <the> philosophy and empty deceit according to the tradition <the> of men, according to the principles of the world and not according to Christ;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.7|<< Colossians 2:7]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.9|Colossians 2:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0991\|Βλέπετε]]  [[G3361\|μή]]  [[G5100\|τις]]  [[G4771\|ὑμᾶς]]  [[G1510\|ἔσται]]  [[G3588\|ὁ]]  [[G4812\|συλαγωγῶν]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G5385\|φιλοσοφίας]]  [[G2532\|καὶ]]  [[G2756\|κενῆς]]  [[G0539\|ἀπάτης]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G3862\|παράδοσιν]]  [[G3588\|τῶν]]  [[G0444\|ἀνθρώπων,]]  [[G2596\|κατὰ]]  [[G3588\|τὰ]]  [[G4747\|στοιχεῖα]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G2596\|κατὰ]]  [[G5547\|Χριστόν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEIT|DECEIT]] • [[topic DOCTRINES|DOCTRINES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic TRADITION|TRADITION]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.7|<< Colossians 2:7]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.9|Colossians 2:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

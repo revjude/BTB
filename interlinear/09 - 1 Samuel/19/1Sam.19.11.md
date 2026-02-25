@@ -1,8 +1,75 @@
+---
+title: 1 Samuel 19:11
+type: Verse
+kjv: "Saul also sent messengers unto David’s house, to watch him, and to slay him in the morning: and Michal David’s wife told him, saying, If thou save not thy life to night, to morrow thou shalt be slain."
+bsb: "Then Saul sent messengers to David’s house to watch him and kill him in the morning. But David’s wife Michal warned him, “If you do not run for your life tonight, tomorrow you will be dead!”"
+hebrew: "וַיִּשְׁלַח֩ שָׁא֨וּל מַלְאָכִ֜ים אֶל־ בֵּ֤ית דָּוִד֙ לְשָׁמְר֔וֹ וְלַהֲמִית֖וֹ בַּבֹּ֑קֶר וַתַּגֵּ֣ד לְדָוִ֗ד מִיכַ֤ל אִשְׁתּוֹ֙ לֵאמֹ֔ר אִם־ אֵ֨ינְךָ֜ מְמַלֵּ֤ט אֶֽת־ נַפְשְׁךָ֙ הַלַּ֔יְלָה מָחָ֖ר אַתָּ֥ה מוּמָֽת׃"
+pericope: "[[1Sam.19.1 Saul Tries to Kill David|Saul Tries to Kill David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 19
+book/chapter: "[[1Sam.19|1 Samuel 19]]"
+chronological_order: 298
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic MICHAL|MICHAL]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H7586G]]"
+- "[[H4397G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H1732]]"
+- "[[H9005]]"
+- "[[H8104I]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H4191]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H5046]]"
+- "[[H4324G]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H0518A]]"
+- "[[H0369]]"
+- "[[H9041]]"
+- "[[H4422]]"
+- "[[H0853]]"
+- "[[H5315H]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H3915]]"
+- "[[H4279]]"
+- "[[H0859A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 19:11**<big><big>[[1Sam.19.1 Saul Tries to Kill David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Saul also sent messengers unto David’s house, to watch him, and to slay him in the morning: and Michal David’s wife told him, saying, If thou save not thy life to night, to morrow thou shalt be slain.
 <small><sub>**BSB:**</sub></small>
 Then Saul sent messengers to David’s house to watch him and kill him in the morning. But David’s wife Michal warned him, “If you do not run for your life tonight, tomorrow you will be dead!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַח֩]] [[H7586G\|שָׁא֨וּל]] [[H4397G\|מַלְאָכִ֜ים]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּ֤ית]] [[H1732\|דָּוִד֙]] [[H9005\|לְ]][[H8104I\|שָׁמְר֔]][[H9033\|וֹ]] [[H9002\|וְ]][[H9005\|לַ]][[H4191\|הֲמִית֖]][[H9033\|וֹ]] [[H9003\|בַּ]][[H1242\|בֹּ֑קֶר]] [[H9001\|וַ]][[H5046\|תַּגֵּ֣ד]] [[H9005\|לְ]][[H1732\|דָוִ֗ד]] [[H4324G\|מִיכַ֤ל]] [[H0802H\|אִשְׁתּ]][[H9023\|וֹ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H0518A\|אִם]][[H9014\|־]] [[H0369\|אֵ֨ינְ]][[H9041\|ךָ֜]] [[H4422\|מְמַלֵּ֤ט]] [[H0853\|אֶֽת]][[H9014\|־]] [[H5315H\|נַפְשְׁ]][[H9021\|ךָ֙]] [[H9009\|הַ]][[H3915\|לַּ֔יְלָה]] [[H4279\|מָחָ֖ר]] [[H0859A\|אַתָּ֥ה]] [[H4191\|מוּמָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JEALOUSY|JEALOUSY]] • [[topic MICHAL|MICHAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.19.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.10|<< 1 Samuel 19:10]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.12|1 Samuel 19:12 >>]]</td></tr></table>
 

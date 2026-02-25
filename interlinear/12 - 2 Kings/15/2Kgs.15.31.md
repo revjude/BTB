@@ -1,8 +1,61 @@
+---
+title: 2 Kings 15:31
+type: Verse
+kjv: "And the rest of the acts of Pekah, and all that he did, behold, they are written in the book of the chronicles of the kings of Israel."
+bsb: "As for the rest of the acts of Pekah, along with all his accomplishments, they are indeed written in the Book of the Chronicles of the Kings of Israel."
+hebrew: "וְיֶ֥תֶר דִּבְרֵי־ פֶ֖קַח וְכָל־ אֲשֶׁ֣ר עָשָׂ֑ה הִנָּ֣ם כְּתוּבִ֗ים עַל־ סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יִשְׂרָאֵֽל׃ פ"
+pericope: "[[2Kgs.15.27 Pekah Reigns in Israel|Pekah Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 15
+book/chapter: "[[2Kgs.15|2 Kings 15]]"
+chronological_order: 607
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~767–735 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic PEKAH|PEKAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H3499A]]"
+- "[[H1697K]]"
+- "[[H9014]]"
+- "[[H6492]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H2009]]"
+- "[[H9048]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H5612H]]"
+- "[[H1697O]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Kings 15:31**<big><big>[[2Kgs.15.27 Pekah Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the rest of the acts of Pekah, and all that he did, behold, they [are] written in the book of the chronicles of the kings of Israel.
 <small><sub>**BSB:**</sub></small>
 As for the rest of the acts of Pekah, along with all his accomplishments, they are indeed written in the Book of the Chronicles of the Kings of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3499A\|יֶ֥תֶר]] [[H1697K\|דִּבְרֵי]][[H9014\|־]] [[H6492\|פֶ֖קַח]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213A\|עָשָׂ֑ה]] [[H2009\|הִנָּ֣]][[H9048\|ם]] [[H3789\|כְּתוּבִ֗ים]] [[H5921A\|עַל]][[H9014\|־]] [[H5612H\|סֵ֛פֶר]] [[H1697O\|דִּבְרֵ֥י]] [[H9009\|הַ]][[H3117G\|יָּמִ֖ים]] [[H9005\|לְ]][[H4428G\|מַלְכֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PEKAH|PEKAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.30|<< 2 Kings 15:30]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.32|2 Kings 15:32 >>]]</td></tr></table>
 
@@ -21,7 +74,7 @@ As for the rest of the acts of Pekah, along with all his accomplishments, they a
 | [the] matters of  |**<big>&#8207;[[H1697O\|דִּבְרֵ֥י]]&#8207; </big>**| div.Rei<small><sup>[[HNtmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the days  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117G\|יָּמִ֖ים]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of [the] kings of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4428G\|מַלְכֵ֥י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mal.Khei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.30|<< 2 Kings 15:30]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.32|2 Kings 15:32 >>]]</td></tr></table>
 
 

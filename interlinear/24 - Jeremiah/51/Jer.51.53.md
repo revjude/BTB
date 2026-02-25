@@ -1,8 +1,66 @@
+---
+title: Jeremiah 51:53
+type: Verse
+kjv: "Though Babylon should mount up to heaven, and though she should fortify the height of her strength, yet from me shall spoilers come unto her, saith the LORD."
+bsb: "Even if Babylon ascends to the heavens and fortifies her lofty stronghold, the destroyers I send will come against her,” declares the LORD."
+hebrew: "כִּֽי־ תַעֲלֶ֤ה בָבֶל֙ הַשָּׁמַ֔יִם וְכִ֥י תְבַצֵּ֖ר מְר֣וֹם עֻזָּ֑הּ מֵאִתִּ֗י יָבֹ֧אוּ שֹׁדְדִ֛ים לָ֖הּ נְאֻם־ יְהוָֽה׃ ס"
+pericope: "[[Jer.51.20 Babylon’s Punishment|Babylon’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5927G]]"
+- "[[H0894]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H1219]]"
+- "[[H4791]]"
+- "[[H5797]]"
+- "[[H9024]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H0935G]]"
+- "[[H7703]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 51:53**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though Babylon should mount up to heaven, and though she should fortify the height of her strength, [yet] from me shall spoilers come unto her, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 Even if Babylon ascends to the heavens and fortifies her lofty stronghold, the destroyers I send will come against her,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H5927G\|תַעֲלֶ֤ה]] [[H0894\|בָבֶל֙]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H9002\|וְ]][[H3588A\|כִ֥י]] [[H1219\|תְבַצֵּ֖ר]] [[H4791\|מְר֣וֹם]] [[H5797\|עֻזָּ֑]][[H9024\|הּ]] [[H9006\|מֵ]][[H0854\|אִתִּ֗]][[H9030\|י]] [[H0935G\|יָבֹ֧אוּ]] [[H7703\|שֹׁדְדִ֛ים]] [[H9005\|לָ֖]][[H9034\|הּ]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic PERSIA|PERSIA]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.53|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.52|<< Jeremiah 51:52]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.54|Jeremiah 51:54 >>]]</td></tr></table>
 
@@ -21,7 +79,7 @@ Even if Babylon ascends to the heavens and fortifies her lofty stronghold, the d
 | destroyers  |**<big>&#8207;[[H7703\|שֹׁדְדִ֛ים]]&#8207; </big>**| sho.de.Dim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> it  |**<big>&#8207;[[H9005\|לָ֖]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.52|<< Jeremiah 51:52]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.54|Jeremiah 51:54 >>]]</td></tr></table>
 
 

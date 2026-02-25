@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Cooking Pot
+type: Pericope
 pericope: "[[Ezek.24.1 The Parable of the Cooking Pot|The Parable of the Cooking Pot]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 24
 book/chapter: "[[Ezek.24|Ezekiel 24]]"
-genre:
+chronological_order: 815
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 14
 verses:
 - "[[Ezek.24.1]]"
 - "[[Ezek.24.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Ezek.24.14]]"
 ---
 
-[[Ezek.24|Ezekiel 24:1 - Ezekiel 24:14]]
+<small>[[Ezek.24|Ezekiel 24:1-14]]</small>
 *The Parable of the Cooking Pot*
 
 [[Ezek.24.1|1]] Again in the ninth year, in the tenth month, in the tenth \[day\] of the month, the word of the LORD came unto me, saying,

@@ -1,8 +1,61 @@
+---
+title: 2 Chronicles 13:13
+type: Verse
+kjv: "But Jeroboam caused an ambushment to come about behind them: so they were before Judah, and the ambushment was behind them."
+bsb: "Now Jeroboam had sent troops around to ambush from the rear, so that while he was in front of Judah, the ambush was behind them."
+hebrew: "וְיָֽרָבְעָ֗ם הֵסֵב֙ אֶת־ הַמַּאְרָ֔ב לָב֖וֹא מֵֽאַחֲרֵיהֶ֑ם וַיִּֽהְיוּ֙ לִפְנֵ֣י יְהוּדָ֔ה וְהַמַּאְרָ֖ב מֵאַחֲרֵיהֶֽם׃"
+pericope: "[[2Chr.13.4 Civil War against Jeroboam|Civil War against Jeroboam]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 13
+book/chapter: "[[2Chr.13|2 Chronicles 13]]"
+chronological_order: 559
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AMBUSH|AMBUSH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9002]]"
+- "[[H3379G]]"
+- "[[H5437H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3993]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H9006]]"
+- "[[H0310A]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H6440G]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 13:13**<big><big>[[2Chr.13.4 Civil War against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Jeroboam caused an ambushment to come about behind them: so they were before Judah, and the ambushment [was] behind them.
 <small><sub>**BSB:**</sub></small>
 Now Jeroboam had sent troops around to ambush from the rear, so that while he was in front of Judah, the ambush was behind them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3379G\|יָֽרָבְעָ֗ם]] [[H5437H\|הֵסֵב֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3993\|מַּאְרָ֔ב]] [[H9005\|לָ]][[H0935G\|ב֖וֹא]] [[H9006\|מֵֽ]][[H0310A\|אַחֲרֵי]][[H9038\|הֶ֑ם]] [[H9001\|וַ]][[H1961\|יִּֽהְיוּ֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3063G\|יְהוּדָ֔ה]] [[H9002\|וְ]][[H9009\|הַ]][[H3993\|מַּאְרָ֖ב]] [[H9006\|מֵ]][[H0310A\|אַחֲרֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBUSH|AMBUSH]] • [[topic ARMIES|ARMIES]] • [[topic FAITH|FAITH]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.13.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13.12|<< 2 Chronicles 13:12]]</td><td align="center" style="border:none;">[[2Chr.13|2 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.13.14|2 Chronicles 13:14 >>]]</td></tr></table>
 

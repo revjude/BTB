@@ -1,8 +1,50 @@
+---
+title: Lamentations 3:11
+type: Verse
+kjv: "He hath turned aside my ways, and pulled me in pieces: he hath made me desolate."
+bsb: "He forced me off my path and tore me to pieces; He left me without help."
+hebrew: "דְּרָכַ֥י סוֹרֵ֛ר וַֽיְפַשְּׁחֵ֖נִי שָׂמַ֥נִי שֹׁמֵֽם׃"
+pericope: "[[Lam.3.1 The Prophet’s Afflictions|The Prophet’s Afflictions]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 3
+book/chapter: "[[Lam.3|Lamentations 3]]"
+chronological_order: 778
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+strongs:
+- "[[H1870L]]"
+- "[[H9020]]"
+- "[[H5493I]]"
+- "[[H9001]]"
+- "[[H6582]]"
+- "[[H9030]]"
+- "[[H7760A]]"
+- "[[H8076]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Lamentations 3:11**<big><big>[[Lam.3.1 The Prophet’s Afflictions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath turned aside my ways, and pulled me in pieces: he hath made me desolate.
 <small><sub>**BSB:**</sub></small>
 He forced me off my path and tore me to pieces; He left me without help.
+<small><sub>**Hebrew:**</sub></small>
+[[H1870L\|דְּרָכַ֥]][[H9020\|י]] [[H5493I\|סוֹרֵ֛ר]] [[H9001\|וַֽ]][[H6582\|יְפַשְּׁחֵ֖]][[H9030\|נִי]] [[H7760A\|שָׂמַ֥]][[H9030\|נִי]] [[H8076\|שֹׁמֵֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESPONDENCY|DESPONDENCY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.10|<< Lamentations 3:10]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.12|Lamentations 3:12 >>]]</td></tr></table>
 

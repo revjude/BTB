@@ -1,8 +1,53 @@
+---
+title: Isaiah 40:25
+type: Verse
+kjv: "To whom then will ye liken me, or shall I be equal? saith the Holy One."
+bsb: "“To whom will you liken Me, or who is My equal?” asks the Holy One."
+hebrew: "וְאֶל־ מִ֥י תְדַמְּי֖וּנִי וְאֶשְׁוֶ֑ה יֹאמַ֖ר קָדֽוֹשׁ׃"
+pericope: "[[Isa.40.9 Here Is Your God!|Here Is Your God!]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 40
+book/chapter: "[[Isa.40|Isaiah 40]]"
+chronological_order: 679
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4310]]"
+- "[[H1819]]"
+- "[[H9030]]"
+- "[[H7737A]]"
+- "[[H0559]]"
+- "[[H6918G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 40:25**<big><big>[[Isa.40.9 Here Is Your God!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To whom then will ye liken me, or shall I be equal? saith the Holy One.
 <small><sub>**BSB:**</sub></small>
 “To whom will you liken Me, or who is My equal?” asks the Holy One.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H4310\|מִ֥י]] [[H1819\|תְדַמְּי֖וּ]][[H9030\|נִי]] [[H9002\|וְ]][[H7737A\|אֶשְׁוֶ֑ה]] [[H0559\|יֹאמַ֖ר]] [[H6918G\|קָדֽוֹשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.24|<< Isaiah 40:24]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.26|Isaiah 40:26 >>]]</td></tr></table>
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Call to Mourning
+type: Pericope
 pericope: "[[Joel.1.8 A Call to Mourning|A Call to Mourning]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Joel
 chapter: 1
 book/chapter: "[[Joel.1|Joel 1]]"
-genre:
+chronological_order: 840
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 5
 verses:
 - "[[Joel.1.8]]"
 - "[[Joel.1.9]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Joel.1.12]]"
 ---
 
-[[Joel.1|Joel 1:8 - Joel 1:12]]
+<small>[[Joel.1|Joel 1:8-12]]</small>
 *A Call to Mourning*
 
 [[Joel.1.8|8]] Lament like a virgin girded with sackcloth for the husband of her youth.

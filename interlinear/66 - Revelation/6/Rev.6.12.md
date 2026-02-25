@@ -1,10 +1,69 @@
+---
+title: Revelation 6:12
+type: Verse
+kjv: "And I beheld when he had opened the sixth seal, and, lo, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood;"
+bsb: "And I watched as the Lamb opened the sixth seal, and there was a great earthquake, and the sun became black like sackcloth of goat hair, and the whole moon turned blood red,"
+greek: "Καὶ εἶδον ὅτε ἤνοιξεν τὴν σφραγῖδα τὴν ἕκτην, καὶ ἰδού σεισμὸς μέγας ἐγένετο, καὶ ὁ ἥλιος ἐγένετο μέλας ὡς σάκκος τρίχινος, καὶ ἡ σελήνη ὅλη ἐγένετο ὡς αἷμα,"
+pericope: "[[Rev.6.12 The Sixth Seal：Terror|The Sixth Seal：Terror]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 6
+book/chapter: "[[Rev.6|Revelation 6]]"
+chronological_order: 1173
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic EARTHQUAKES|EARTHQUAKES]]"
+- "[[topic ECLIPSE|ECLIPSE]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic MOON|MOON]]"
+- "[[topic SUN|SUN]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G3753]]"
+- "[[G0455]]"
+- "[[G3588]]"
+- "[[G4973]]"
+- "[[G1623]]"
+- "[[G2400]]"
+- "[[G4578]]"
+- "[[G3173]]"
+- "[[G1096]]"
+- "[[G2246]]"
+- "[[G3189]]"
+- "[[G5613]]"
+- "[[G4526]]"
+- "[[G5155]]"
+- "[[G4582]]"
+- "[[G3650]]"
+- "[[G0129G]]"
+texts:
+- NKO
+- K
+- NO
+---
+
 **Revelation 6:12**<big><big>[[Rev.6.12 The Sixth Seal：Terror|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I beheld when he had opened the sixth seal, and, lo, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood;
 <small><sub>**BSB:**</sub></small>
 And I watched as the Lamb opened the sixth seal, and there was a great earthquake, and the sun became black like sackcloth of goat hair, and the whole moon turned blood red,
-<small><sub>**Literal:**</sub></small>
-And I saw when He opened the seal <the> sixth, and behold an earthquake great there was, and the sun became black as sackcloth of hair, and the moon whole became like blood,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.11|<< Revelation 6:11]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.13|Revelation 6:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1492H\|εἶδον]]  [[G3753\|ὅτε]]  [[G0455\|ἤνοιξεν]]  [[G3588\|τὴν]]  [[G4973\|σφραγῖδα]]  [[G3588\|τὴν]]  [[G1623\|ἕκτην,]]  [[G2532\|καὶ]]  [[G2400\|ἰδού]]  [[G4578\|σεισμὸς]]  [[G3173\|μέγας]]  [[G1096\|ἐγένετο,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2246\|ἥλιος]]  [[G1096\|ἐγένετο]]  [[G3189\|μέλας]]  [[G5613\|ὡς]]  [[G4526\|σάκκος]]  [[G5155\|τρίχινος,]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G4582\|σελήνη]]  [[G3650\|ὅλη]]  [[G1096\|ἐγένετο]]  [[G5613\|ὡς]]  [[G0129G\|αἷμα,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTRONOMY|ASTRONOMY]] • [[topic EARTHQUAKES|EARTHQUAKES]] • [[topic ECLIPSE|ECLIPSE]] • [[topic HEAVEN|HEAVEN]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic MOON|MOON]] • [[topic SUN|SUN]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.11|<< Revelation 6:11]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.13|Revelation 6:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 6:12** is...
 > $\quad$ possibly alluding to: [[LXX.Isa.24.18|Isa 24:18]] ☩ [[LXX.Isa.24.23|Isa 24:23]] ☩ [[LXX.Isa.13.13|Isa 13:13]] ☩ [[LXX.Hag.2.6|Hag 2:6]] ☩ [[LXX.Joel.2.31|Joel 2:31]]

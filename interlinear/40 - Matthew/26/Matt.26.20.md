@@ -1,10 +1,52 @@
+---
+title: Matthew 26:20
+type: Verse
+kjv: "Now when the even was come, he sat down with the twelve."
+bsb: "When evening came, Jesus was reclining with the twelve disciples."
+greek: "Ὀψίας δὲ γενομένης ἀνέκειτο μετὰ τῶν δώδεκα μαθητῶν."
+pericope: "[[Matt.26.20 The Last Supper|The Last Supper]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[G3798]]"
+- "[[G1161]]"
+- "[[G1096]]"
+- "[[G0345]]"
+- "[[G3326]]"
+- "[[G3588]]"
+- "[[G1427]]"
+- "[[G3101]]"
+texts:
+- NKO
+- O
+---
+
 **Matthew 26:20**<big><big>[[Matt.26.20 The Last Supper|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now when the even was come, he sat down with the twelve.
 <small><sub>**BSB:**</sub></small>
 When evening came, Jesus was reclining with the twelve disciples.
-<small><sub>**Literal:**</sub></small>
-As evening now having arrived He was reclining with the twelve disciples.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.19|<< Matthew 26:19]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.21|Matthew 26:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3798\|Ὀψίας]]  [[G1161\|δὲ]]  [[G1096\|γενομένης]]  [[G0345\|ἀνέκειτο]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G1427\|δώδεκα]]  [[G3101\|μαθητῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]] • [[topic FEASTS|FEASTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PASSOVER|PASSOVER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.19|<< Matthew 26:19]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.21|Matthew 26:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

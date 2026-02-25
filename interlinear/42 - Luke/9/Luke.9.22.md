@@ -1,10 +1,61 @@
+---
+title: Luke 9:22
+type: Verse
+kjv: "Saying, The Son of man must suffer many things, and be rejected of the elders and chief priests and scribes, and be slain, and be raised the third day."
+bsb: "“The Son of Man must suffer many things,” He said. “He must be rejected by the elders, chief priests, and scribes, and He must be killed and on the third day be raised to life.”"
+jesus_said: "The Son of man must suffer many things, and be rejected of the elders and chief priests and scribes, and be slain, and be raised the third day."
+greek: "εἰπὼν ὅτι δεῖ τὸν υἱὸν τοῦ ἀνθρώπου πολλὰ παθεῖν καὶ ἀποδοκιμασθῆναι ἀπὸ τῶν πρεσβυτέρων καὶ ἀρχιερέων καὶ γραμματέων καὶ ἀποκτανθῆναι καὶ τῇ τρίτῃ ἡμέρᾳ ἐγερθῆναι.¶"
+pericope: "[[Luke.9.21 Christ’s Passion Foretold|Christ’s Passion Foretold]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2036]]"
+- "[[G3754G]]"
+- "[[G1163]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G4183]]"
+- "[[G3958]]"
+- "[[G2532]]"
+- "[[G0593]]"
+- "[[G0575]]"
+- "[[G4245G]]"
+- "[[G0749]]"
+- "[[G1122]]"
+- "[[G0615]]"
+- "[[G5154]]"
+- "[[G2250]]"
+- "[[G1453]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Luke 9:22**<big><big>[[Luke.9.21 Christ’s Passion Foretold|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Saying, The Son of man must suffer many things, and be rejected of the elders and chief priests and scribes, and be slain, and be raised the third day.
 <small><sub>**BSB:**</sub></small>
 “The Son of Man must suffer many things,” He said. “He must be rejected by the elders, chief priests, and scribes, and He must be killed and on the third day be raised to life.”
-<small><sub>**Literal:**</sub></small>
-having said that It is necessary for the Son <the> of Man many things to suffer and to be rejected by the elders and chief priests and scribes and to be killed and on the third day to be raised.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.21|<< Luke 9:21]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.23|Luke 9:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἰπὼν]]  [[G3754G\|ὅτι]]  [[G1163\|δεῖ]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G4183\|πολλὰ]]  [[G3958\|παθεῖν]]  [[G2532\|καὶ]]  [[G0593\|ἀποδοκιμασθῆναι]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G4245G\|πρεσβυτέρων]]  [[G2532\|καὶ]]  [[G0749\|ἀρχιερέων]]  [[G2532\|καὶ]]  [[G1122\|γραμματέων]]  [[G2532\|καὶ]]  [[G0615\|ἀποκτανθῆναι]]  [[G2532\|καὶ]]  [[G3588\|τῇ]]  [[G5154\|τρίτῃ]]  [[G2250\|ἡμέρᾳ]]  [[G1453\|ἐγερθῆναι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.21|<< Luke 9:21]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.23|Luke 9:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,58 @@
+---
+title: Luke 2:28
+type: Verse
+kjv: "Then took he him up in his arms, and blessed God, and said,"
+bsb: "Simeon took Him in his arms and blessed God, saying:"
+greek: "καὶ αὐτὸς ἐδέξατο αὐτὸ εἰς τὰς ἀγκάλας αὐτοῦ καὶ εὐλόγησεν τὸν θεὸν καὶ εἶπεν·"
+pericope: "[[Luke.2.25 The Prophecy of Simeon|The Prophecy of Simeon]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic JOY|JOY]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SIMEON|SIMEON]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G1209]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0043]]"
+- "[[G2127]]"
+- "[[G2316]]"
+- "[[G2036]]"
+texts:
+- NKO
+- ko
+---
+
 **Luke 2:28**<big><big>[[Luke.2.25 The Prophecy of Simeon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then took he him up in his arms, and blessed God, and said,
 <small><sub>**BSB:**</sub></small>
 Simeon took Him in his arms and blessed God, saying:
-<small><sub>**Literal:**</sub></small>
-then he himself received Him into the arms of him and blessed <the> God and said:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.27|<< Luke 2:27]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.29|Luke 2:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G1209\|ἐδέξατο]]  [[G0846\|αὐτὸ]]  [[G1519\|εἰς]]  [[G3588\|τὰς]]  [[G0043\|ἀγκάλας]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G2127\|εὐλόγησεν]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic JOY|JOY]] • [[topic RELIGION|RELIGION]] • [[topic SIMEON|SIMEON]] • [[topic TEMPLE|TEMPLE]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.27|<< Luke 2:27]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.29|Luke 2:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,53 @@
+---
+title: Daniel 11:3
+type: Verse
+kjv: "And a mighty king shall stand up, that shall rule with great dominion, and do according to his will."
+bsb: "Then a mighty king will arise, who will rule with great authority and do as he pleases."
+hebrew: "וְעָמַ֖ד מֶ֣לֶךְ גִּבּ֑וֹר וּמָשַׁל֙ מִמְשָׁ֣ל רַ֔ב וְעָשָׂ֖ה כִּרְצוֹנֽוֹ׃"
+pericope: "[[Dan.11.1 Kings of the South and North|Kings of the South and North]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[H9001]]"
+- "[[H5975I]]"
+- "[[H4428G]]"
+- "[[H1368]]"
+- "[[H4910]]"
+- "[[H4474]]"
+- "[[H7227A]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H7522]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 11:3**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a mighty king shall stand up, that shall rule with great dominion, and do according to his will.
 <small><sub>**BSB:**</sub></small>
 Then a mighty king will arise, who will rule with great authority and do as he pleases.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5975I\|עָמַ֖ד]] [[H4428G\|מֶ֣לֶךְ]] [[H1368\|גִּבּ֑וֹר]] [[H9001\|וּ]][[H4910\|מָשַׁל֙]] [[H4474\|מִמְשָׁ֣ל]] [[H7227A\|רַ֔ב]] [[H9001\|וְ]][[H6213A\|עָשָׂ֖ה]] [[H9004\|כִּ]][[H7522\|רְצוֹנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSIA|PERSIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.2|<< Daniel 11:2]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.4|Daniel 11:4 >>]]</td></tr></table>
 

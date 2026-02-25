@@ -1,8 +1,66 @@
+---
+title: Exodus 18:10
+type: Verse
+kjv: "And Jethro said, Blessed be the LORD, who hath delivered you out of the hand of the Egyptians, and out of the hand of Pharaoh, who hath delivered the people from under the hand of the Egyptians."
+bsb: "Jethro declared, “Blessed be the LORD, who has delivered you from the hand of the Egyptians and of Pharaoh, and who has delivered the people from the hand of the Egyptians."
+hebrew: "וַיֹּאמֶר֮ יִתְרוֹ֒ בָּר֣וּךְ יְהוָ֔ה אֲשֶׁ֨ר הִצִּ֥יל אֶתְכֶ֛ם מִיַּ֥ד מִצְרַ֖יִם וּמִיַּ֣ד פַּרְעֹ֑ה אֲשֶׁ֤ר הִצִּיל֙ אֶת־ הָעָ֔ם מִתַּ֖חַת יַד־ מִצְרָֽיִם׃"
+pericope: "[[Exod.18.1 The Visit of Jethro|The Visit of Jethro]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 18
+book/chapter: "[[Exod.18|Exodus 18]]"
+chronological_order: 110
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic MOSES|MOSES]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3503]]"
+- "[[H1288]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H5337]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9006]]"
+- "[[H3027W]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H6547J]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H8478K]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 18:10**<big><big>[[Exod.18.1 The Visit of Jethro|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jethro said, Blessed [be] the LORD, who hath delivered you out of the hand of the Egyptians, and out of the hand of Pharaoh, who hath delivered the people from under the hand of the Egyptians.
 <small><sub>**BSB:**</sub></small>
 Jethro declared, “Blessed be the LORD, who has delivered you from the hand of the Egyptians and of Pharaoh, and who has delivered the people from the hand of the Egyptians.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמֶר֮]] [[H3503\|יִתְרוֹ֒]] [[H1288\|בָּר֣וּךְ]] [[H3068G\|יְהוָ֔ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H5337\|הִצִּ֥יל]] [[H0853\|אֶתְ]][[H9036\|כֶ֛ם]] [[H9006\|מִ]][[H3027W\|יַּ֥ד]] [[H4714G\|מִצְרַ֖יִם]] [[H9002\|וּ]][[H9006\|מִ]][[H3027W\|יַּ֣ד]] [[H6547J\|פַּרְעֹ֑ה]] [[H0834A\|אֲשֶׁ֤ר]] [[H5337\|הִצִּיל֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9006\|מִ]][[H8478K\|תַּ֖חַת]] [[H3027W\|יַד]][[H9014\|־]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOSES|MOSES]] • [[topic PRIDE|PRIDE]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.9|<< Exodus 18:9]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.11|Exodus 18:11 >>]]</td></tr></table>
 

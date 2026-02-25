@@ -1,8 +1,59 @@
+---
+title: Micah 6:6
+type: Verse
+kjv: "Wherewith shall I come before the LORD, and bow myself before the high God? shall I come before him with burnt offerings, with calves of a year old?"
+bsb: "With what shall I come before the LORD when I bow before the God on high? Should I come to Him with burnt offerings, with year-old calves?"
+hebrew: "בַּמָּה֙ אֲקַדֵּ֣ם יְהוָ֔ה אִכַּ֖ף לֵאלֹהֵ֣י מָר֑וֹם הַאֲקַדְּמֶ֣נּוּ בְעוֹל֔וֹת בַּעֲגָלִ֖ים בְּנֵ֥י שָׁנָֽה׃"
+pericope: "[[Mic.6.1 The Case against Israel|The Case against Israel]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 6
+book/chapter: "[[Mic.6|Micah 6]]"
+chronological_order: 628
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic CALF|CALF]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9003]]"
+- "[[H4100]]"
+- "[[H6923]]"
+- "[[H3068G]]"
+- "[[H3721]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H4791]]"
+- "[[H9008]]"
+- "[[H9033]]"
+- "[[H5930A]]"
+- "[[H5695]]"
+- "[[H1121L]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 6:6**<big><big>[[Mic.6.1 The Case against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherewith shall I come before the LORD, [and] bow myself before the high God? shall I come before him with burnt offerings, with calves of a year old?
 <small><sub>**BSB:**</sub></small>
 With what shall I come before the LORD when I bow before the God on high? Should I come to Him with burnt offerings, with year-old calves?
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H4100\|מָּה֙]] [[H6923\|אֲקַדֵּ֣ם]] [[H3068G\|יְהוָ֔ה]] [[H3721\|אִכַּ֖ף]] [[H9005\|לֵ]][[H0430G\|אלֹהֵ֣י]] [[H4791\|מָר֑וֹם]] [[H9008\|הַ]][[H6923\|אֲקַדְּמֶ֣]][[H9033\|נּוּ]] [[H9003\|בְ]][[H5930A\|עוֹל֔וֹת]] [[H9003\|בַּ]][[H5695\|עֲגָלִ֖ים]] [[H1121L\|בְּנֵ֥י]] [[H8141\|שָׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALF|CALF]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic FORMALISM|FORMALISM]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.6.5|<< Micah 6:5]]</td><td align="center" style="border:none;">[[Mic.6|Micah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.6.7|Micah 6:7 >>]]</td></tr></table>
 

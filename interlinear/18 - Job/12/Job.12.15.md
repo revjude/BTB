@@ -1,8 +1,56 @@
+---
+title: Job 12:15
+type: Verse
+kjv: "Behold, he withholdeth the waters, and they dry up: also he sendeth them out, and they overturn the earth."
+bsb: "If He holds back the waters, they dry up, and if He releases them, they overwhelm the land."
+hebrew: "הֵ֤ן יַעְצֹ֣ר בַּמַּ֣יִם וְיִבָ֑שׁוּ וִֽ֝ישַׁלְּחֵ֗ם וְיַ֖הַפְכוּ אָֽרֶץ׃"
+pericope: "[[Job.12.1 Job Presents His Case|Job Presents His Case]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 12
+book/chapter: "[[Job.12|Job 12]]"
+chronological_order: 23
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ATHEISM|ATHEISM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H2005]]"
+- "[[H6113]]"
+- "[[H9003]]"
+- "[[H4325G]]"
+- "[[H9002]]"
+- "[[H3001]]"
+- "[[H7971G]]"
+- "[[H9038]]"
+- "[[H2015]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 12:15**<big><big>[[Job.12.1 Job Presents His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, he withholdeth the waters, and they dry up: also he sendeth them out, and they overturn the earth.
 <small><sub>**BSB:**</sub></small>
 If He holds back the waters, they dry up, and if He releases them, they overwhelm the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵ֤ן]] [[H6113\|יַעְצֹ֣ר]] [[H9003\|בַּ]][[H4325G\|מַּ֣יִם]] [[H9002\|וְ]][[H3001\|יִבָ֑שׁוּ]] [[H9002\|וִֽ֝]][[H7971G\|ישַׁלְּחֵ֗]][[H9038\|ם]] [[H9002\|וְ]][[H2015\|יַ֖הַפְכוּ]] [[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ATHEISM|ATHEISM]] • [[topic GOD|GOD]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.12.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.12.14|<< Job 12:14]]</td><td align="center" style="border:none;">[[Job.12|Job 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.12.16|Job 12:16 >>]]</td></tr></table>
 

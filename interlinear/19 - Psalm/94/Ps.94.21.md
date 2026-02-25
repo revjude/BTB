@@ -1,8 +1,54 @@
+---
+title: Psalm 94:21
+type: Verse
+kjv: "They gather themselves together against the soul of the righteous, and condemn the innocent blood."
+bsb: "They band together against the righteous and condemn the innocent to death."
+hebrew: "יָ֭גוֹדּוּ עַל־ נֶ֣פֶשׁ צַדִּ֑יק וְדָ֖ם נָקִ֣י יַרְשִֽׁיעוּ׃"
+pericope: "[[Ps.94.1 The LORD Will Not Forget His People|The LORD Will Not Forget His People]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 94
+book/chapter: "[[Ps.94|Psalm 94]]"
+chronological_order: 521
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H1413]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5315H]]"
+- "[[H6662]]"
+- "[[H9002]]"
+- "[[H1818]]"
+- "[[H5355A]]"
+- "[[H7561]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 94:21**<big><big>[[Ps.94.1 The LORD Will Not Forget His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They gather themselves together against the soul of the righteous, and condemn the innocent blood.
 <small><sub>**BSB:**</sub></small>
 They band together against the righteous and condemn the innocent to death.
+<small><sub>**Hebrew:**</sub></small>
+[[H1413\|יָ֭גוֹדּוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H5315H\|נֶ֣פֶשׁ]] [[H6662\|צַדִּ֑יק]] [[H9002\|וְ]][[H1818\|דָ֖ם]] [[H5355A\|נָקִ֣י]] [[H7561\|יַרְשִֽׁיעוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.94.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.94.20|<< Psalms 94:20]]</td><td align="center" style="border:none;">[[Ps.94|Psalms 94]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.94.22|Psalms 94:22 >>]]</td></tr></table>
 

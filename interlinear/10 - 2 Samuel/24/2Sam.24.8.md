@@ -1,8 +1,63 @@
+---
+title: 2 Samuel 24:8
+type: Verse
+kjv: "So when they had gone through all the land, they came to Jerusalem at the end of nine months and twenty days."
+bsb: "At the end of nine months and twenty days, having gone through the whole land, they returned to Jerusalem."
+hebrew: "וַיָּשֻׁ֖טוּ בְּכָל־ הָאָ֑רֶץ וַיָּבֹ֜אוּ מִקְצֵ֨ה תִשְׁעָ֧ה חֳדָשִׁ֛ים וְעֶשְׂרִ֥ים י֖וֹם יְרוּשָׁלִָֽם׃"
+pericope: "[[2Sam.24.1 David’s Military Census|David’s Military Census]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 24
+book/chapter: "[[2Sam.24|2 Samuel 24]]"
+chronological_order: 432
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7751A]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0935G]]"
+- "[[H9006]]"
+- "[[H7097A]]"
+- "[[H8672]]"
+- "[[H2320G]]"
+- "[[H9002]]"
+- "[[H6242]]"
+- "[[H3117G]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 24:8**<big><big>[[2Sam.24.1 David’s Military Census|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So when they had gone through all the land, they came to Jerusalem at the end of nine months and twenty days.
 <small><sub>**BSB:**</sub></small>
 At the end of nine months and twenty days, having gone through the whole land, they returned to Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7751A\|יָּשֻׁ֖טוּ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9001\|וַ]][[H0935G\|יָּבֹ֜אוּ]] [[H9006\|מִ]][[H7097A\|קְצֵ֨ה]] [[H8672\|תִשְׁעָ֧ה]] [[H2320G\|חֳדָשִׁ֛ים]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֥ים]] [[H3117G\|י֖וֹם]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CENSUS|CENSUS]] • [[topic ISRAEL|ISRAEL]] • [[topic JOAB|JOAB]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.24.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.24.7|<< 2 Samuel 24:7]]</td><td align="center" style="border:none;">[[2Sam.24|2 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.24.9|2 Samuel 24:9 >>]]</td></tr></table>
 

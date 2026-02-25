@@ -1,8 +1,62 @@
+---
+title: Jeremiah 51:17
+type: Verse
+kjv: "Every man is brutish by his knowledge; every founder is confounded by the graven image: for his molten image is falsehood, and there is no breath in them."
+bsb: "Every man is senseless and devoid of knowledge; every goldsmith is put to shame by his idols. For his molten images are a fraud, and there is no breath in them."
+hebrew: "נִבְעַ֤ר כָּל־ אָדָם֙ מִדַּ֔עַת הֹבִ֥ישׁ כָּל־ צֹרֵ֖ף מִפָּ֑סֶל כִּ֛י שֶׁ֥קֶר נִסְכּ֖וֹ וְלֹא־ ר֥וּחַ בָּֽם׃"
+pericope: "[[Jer.51.15 Praise to the God of Jacob|Praise to the God of Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[H1197B]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H9006]]"
+- "[[H1847]]"
+- "[[H0954]]"
+- "[[H6884]]"
+- "[[H6459]]"
+- "[[H3588A]]"
+- "[[H8267]]"
+- "[[H5262]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7307H]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 51:17**<big><big>[[Jer.51.15 Praise to the God of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every man is brutish by [his] knowledge; every founder is confounded by the graven image: for his molten image [is] falsehood, and [there is] no breath in them.
 <small><sub>**BSB:**</sub></small>
 Every man is senseless and devoid of knowledge; every goldsmith is put to shame by his idols. For his molten images are a fraud, and there is no breath in them.
+<small><sub>**Hebrew:**</sub></small>
+[[H1197B\|נִבְעַ֤ר]] [[H3605\|כָּל]][[H9014\|־]] [[H0120G\|אָדָם֙]] [[H9006\|מִ]][[H1847\|דַּ֔עַת]] [[H0954\|הֹבִ֥ישׁ]] [[H3605\|כָּל]][[H9014\|־]] [[H6884\|צֹרֵ֖ף]] [[H9006\|מִ]][[H6459\|פָּ֑סֶל]] [[H3588A\|כִּ֛י]] [[H8267\|שֶׁ֥קֶר]] [[H5262\|נִסְכּ֖]][[H9023\|וֹ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H7307H\|ר֥וּחַ]] [[H9003\|בָּֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic PERSIA|PERSIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.16|<< Jeremiah 51:16]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.18|Jeremiah 51:18 >>]]</td></tr></table>
 

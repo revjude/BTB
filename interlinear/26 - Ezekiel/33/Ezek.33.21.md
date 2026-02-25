@@ -1,8 +1,67 @@
+---
+title: Ezekiel 33:21
+type: Verse
+kjv: "And it came to pass in the twelfth year of our captivity, in the tenth month, in the fifth day of the month, that one that had escaped out of Jerusalem came unto me, saying, The city is smitten."
+bsb: "In the twelfth year of our exile, on the fifth day of the tenth month, a fugitive from Jerusalem came to me and reported, “The city has been taken!”"
+hebrew: "וַיְהִ֞י בִּשְׁתֵּ֧י עֶשְׂרֵ֣ה שָׁנָ֗ה בָּעֲשִׂרִ֛י בַּחֲמִשָּׁ֥ה לַחֹ֖דֶשׁ לְגָלוּתֵ֑נוּ בָּא־ אֵלַ֨י הַפָּלִ֧יט מִירוּשָׁלִַ֛ם לֵאמֹ֖ר הֻכְּתָ֥ה הָעִֽיר׃"
+pericope: "[[Ezek.33.21 Word of Jerusalem’s Fall|Word of Jerusalem’s Fall]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 33
+book/chapter: "[[Ezek.33|Ezekiel 33]]"
+chronological_order: 824
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H8141]]"
+- "[[H6224]]"
+- "[[H2568]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H1546]]"
+- "[[H9025]]"
+- "[[H0935G]]"
+- "[[H9014]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H6412A]]"
+- "[[H9006]]"
+- "[[H3389]]"
+- "[[H0559]]"
+- "[[H5221]]"
+- "[[H5892B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 33:21**<big><big>[[Ezek.33.21 Word of Jerusalem’s Fall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the twelfth year of our captivity, in the tenth [month], in the fifth [day] of the month, [that] one that had escaped out of Jerusalem came unto me, saying, The city is smitten.
 <small><sub>**BSB:**</sub></small>
 In the twelfth year of our exile, on the fifth day of the tenth month, a fugitive from Jerusalem came to me and reported, “The city has been taken!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֞י]] [[H9003\|בִּ]][[H8147\|שְׁתֵּ֧י]] [[H6240\|עֶשְׂרֵ֣ה]] [[H8141\|שָׁנָ֗ה]] [[H9003\|בָּ]][[H6224\|עֲשִׂרִ֛י]] [[H9003\|בַּ]][[H2568\|חֲמִשָּׁ֥ה]] [[H9005\|לַ]][[H2320G\|חֹ֖דֶשׁ]] [[H9005\|לְ]][[H1546\|גָלוּתֵ֑]][[H9025\|נוּ]] [[H0935G\|בָּא]][[H9014\|־]] [[H0413\|אֵלַ֨]][[H9030\|י]] [[H9009\|הַ]][[H6412A\|פָּלִ֧יט]] [[H9006\|מִ]][[H3389\|ירוּשָׁלִַ֛ם]] [[H9005\|לֵ]][[H0559\|אמֹ֖ר]] [[H5221\|הֻכְּתָ֥ה]] [[H9009\|הָ]][[H5892B\|עִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.20|<< Ezekiel 33:20]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.22|Ezekiel 33:22 >>]]</td></tr></table>
 

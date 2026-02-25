@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jacob Marries Leah and Rachel
+type: Pericope
 pericope: "[[Gen.29.14 Jacob Marries Leah and Rachel|Jacob Marries Leah and Rachel]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 29
 book/chapter: "[[Gen.29|Genesis 29]]"
-genre:
+chronological_order: 71
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 17
 verses:
 - "[[Gen.29.14]]"
 - "[[Gen.29.15]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Gen.29.30]]"
 ---
 
-[[Gen.29|Genesis 29:14 - Genesis 29:30]]
+<small>[[Gen.29|Genesis 29:14-30]]</small>
 *Jacob Marries Leah and Rachel*
 
 [[Gen.29.14|14]] And Laban said to him, Surely thou \[art\] my bone and my flesh. And he abode with him the space of a month.

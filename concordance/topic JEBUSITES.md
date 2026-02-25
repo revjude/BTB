@@ -9,11 +9,11 @@
 
 → And [[Josh.24.11|Jos 24:11]]
 
-→ Conquered by David [[2Sam.5.6|2Sa 5:6]]-[[2Sam.5.9|9]]
+→ Conquered by David [[2Sam.5.6|2Sa 5:6-9]]
 
 → Jerusalem within the territory of [[Josh.18.28|Jos 18:28]]
 
-→ Not exterminated, but they intermarry with the Israelites [[Judg.3.5|Jud 3:5]],[[Judg.3.6|6]]; [[Ezra.9.1|Ezr 9:1]],[[Ezra.9.2|2]]; [[Ezra.10.18|10:18]]-[[Ezra.10.44|44]]
+→ Not exterminated, but they intermarry with the Israelites [[Judg.3.5|Jud 3:5]],[[Judg.3.6|6]]; [[Ezra.9.1|Ezr 9:1]],[[Ezra.9.2|2]]; [[Ezra.10.18|10:18-44]]
 
 → They pay taxes to Solomon [[1Kgs.9.20|1Ki 9:20]],[[1Kgs.9.21|21]]
 

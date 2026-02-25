@@ -1,8 +1,60 @@
+---
+title: Numbers 26:44
+type: Verse
+kjv: "Of the children of Asher after their families: of Jimna, the family of the Jimnites: of Jesui, the family of the Jesuites: of Beriah, the family of the Beriites."
+bsb: "These were the descendants of Asher by their clans: The Imnite clan from Imnah, the Ishvite clan from Ishvi, and the Beriite clan from Beriah."
+hebrew: "בְּנֵ֣י אָשֵׁר֮ לְמִשְׁפְּחֹתָם֒ לְיִמְנָ֗ה מִשְׁפַּ֙חַת֙ הַיִּמְנָ֔ה לְיִשְׁוִ֕י מִשְׁפַּ֖חַת הַיִּשְׁוִ֑י לִבְרִיעָ֕ה מִשְׁפַּ֖חַת הַבְּרִיעִֽי׃"
+pericope: "[[Num.26.44 The Tribe of Asher|The Tribe of Asher]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 26
+book/chapter: "[[Num.26|Numbers 26]]"
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ASHER|ASHER]]"
+- "[[topic BERIAH|BERIAH]]"
+- "[[topic ISHUI|ISHUI]]"
+- "[[topic JESUI|JESUI]]"
+- "[[topic JIMNAH|JIMNAH]]"
+strongs:
+- "[[H1121G]]"
+- "[[H0836]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H3232G]]"
+- "[[H9009]]"
+- "[[H3440G]]"
+- "[[H3441]]"
+- "[[H1283G]]"
+- "[[H1284]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 26:44**<big><big>[[Num.26.44 The Tribe of Asher|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Of] the children of Asher after their families: of Jimna, the family of the Jimnites: of Jesui, the family of the Jesuites: of Beriah, the family of the Beriites.
 <small><sub>**BSB:**</sub></small>
 These were the descendants of Asher by their clans: The Imnite clan from Imnah, the Ishvite clan from Ishvi, and the Beriite clan from Beriah.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121G\|בְּנֵ֣י]] [[H0836\|אָשֵׁר֮]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָ]][[H9028\|ם֒]] [[H9005\|לְ]][[H3232G\|יִמְנָ֗ה]] [[H4940\|מִשְׁפַּ֙חַת֙]] [[H9009\|הַ]][[H3232G\|יִּמְנָ֔ה]] [[H9005\|לְ]][[H3440G\|יִשְׁוִ֕י]] [[H4940\|מִשְׁפַּ֖חַת]] [[H9009\|הַ]][[H3441\|יִּשְׁוִ֑י]] [[H9005\|לִ]][[H1283G\|בְרִיעָ֕ה]] [[H4940\|מִשְׁפַּ֖חַת]] [[H9009\|הַ]][[H1284\|בְּרִיעִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHER|ASHER]] • [[topic BERIAH|BERIAH]] • [[topic ISHUI|ISHUI]] • [[topic JESUI|JESUI]] • [[topic JIMNAH|JIMNAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.43|<< Numbers 26:43]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.45|Numbers 26:45 >>]]</td></tr></table>
 

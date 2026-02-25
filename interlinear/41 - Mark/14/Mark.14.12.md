@@ -1,10 +1,58 @@
+---
+title: Mark 14:12
+type: Verse
+kjv: "And the first day of unleavened bread, when they killed the passover, his disciples said unto him, Where wilt thou that we go and prepare that thou mayest eat the passover?"
+bsb: "On the first day of the Feast of Unleavened Bread, when the Passover lamb was to be sacrificed, Jesus’ disciples asked Him, “Where do You want us to prepare for You to eat the Passover?”"
+greek: "Καὶ τῇ πρώτῃ ἡμέρᾳ τῶν ἀζύμων, ὅτε τὸ πάσχα ἔθυον, λέγουσιν αὐτῷ οἱ μαθηταὶ αὐτοῦ· ποῦ θέλεις ἀπελθόντες ἑτοιμάσωμεν ἵνα φάγῃς τὸ πάσχα;"
+pericope: "[[Mark.14.12 Preparing the Passover|Preparing the Passover]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4413G]]"
+- "[[G2250]]"
+- "[[G0106]]"
+- "[[G3753]]"
+- "[[G3957]]"
+- "[[G2380]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3101]]"
+- "[[G4226]]"
+- "[[G2309]]"
+- "[[G0565]]"
+- "[[G2090]]"
+- "[[G2443]]"
+- "[[G5315]]"
+texts:
+- NKO
+---
+
 **Mark 14:12**<big><big>[[Mark.14.12 Preparing the Passover|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the first day of unleavened bread, when they killed the passover, his disciples said unto him, Where wilt thou that we go and prepare that thou mayest eat the passover?
 <small><sub>**BSB:**</sub></small>
 On the first day of the Feast of Unleavened Bread, when the Passover lamb was to be sacrificed, Jesus’ disciples asked Him, “Where do You want us to prepare for You to eat the Passover?”
-<small><sub>**Literal:**</sub></small>
-And on the first day <the> of unleavened [bread], when the Passover lamb they were to sacrifice, say to Him the disciples of Him; Where do You desire [that] having gone we may prepare that You may eat the Passover?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.11|<< Mark 14:11]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.13|Mark 14:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3588\|τῇ]]  [[G4413G\|πρώτῃ]]  [[G2250\|ἡμέρᾳ]]  [[G3588\|τῶν]]  [[G0106\|ἀζύμων,]]  [[G3753\|ὅτε]]  [[G3588\|τὸ]]  [[G3957\|πάσχα]]  [[G2380\|ἔθυον,]]  [[G3004G\|λέγουσιν]]  [[G0846\|αὐτῷ]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ·]]  [[G4226\|ποῦ]]  [[G2309\|θέλεις]]  [[G0565\|ἀπελθόντες]]  [[G2090\|ἑτοιμάσωμεν]]  [[G2443\|ἵνα]]  [[G5315\|φάγῃς]]  [[G3588\|τὸ]]  [[G3957\|πάσχα;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PASSOVER|PASSOVER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.11|<< Mark 14:11]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.13|Mark 14:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

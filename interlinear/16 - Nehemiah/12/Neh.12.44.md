@@ -1,8 +1,73 @@
+---
+title: Nehemiah 12:44
+type: Verse
+kjv: "And at that time were some appointed over the chambers for the treasures, for the offerings, for the firstfruits, and for the tithes, to gather into them out of the fields of the cities the portions of the law for the priests and Levites: for Judah rejoiced for the priests and for the Levites that waited."
+bsb: "And on that same day men were appointed over the rooms that housed the supplies, contributions, firstfruits, and tithes. The portions specified by the Law for the priests and Levites were gathered into these storerooms from the fields of the villages, because Judah rejoiced over the priests and Levites who were serving."
+hebrew: "וַיִּפָּקְד֣וּ בַיּוֹם֩ הַה֨וּא אֲנָשִׁ֜ים עַל־ הַנְּשָׁכ֗וֹת לָא֨וֹצָר֥וֹת לַתְּרוּמוֹת֮ לָרֵאשִׁ֣ית וְלַמַּֽעַשְׂרוֹת֒ לִכְנ֨וֹס בָּהֶ֜ם לִשְׂדֵ֤י הֶעָרִים֙ מְנָא֣וֹת הַתּוֹרָ֔ה לַכֹּהֲנִ֖ים וְלַלְוִיִּ֑ם כִּ֚י שִׂמְחַ֣ת יְהוּדָ֔ה עַל־ הַכֹּהֲנִ֥ים וְעַל־ הַלְוִיִּ֖ם הָעֹמְדִֽים׃"
+pericope: "[[Neh.12.44 Provisions for Temple Worship|Provisions for Temple Worship]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 12
+book/chapter: "[[Neh.12|Nehemiah 12]]"
+chronological_order: 924
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic TITHES|TITHES]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H6485J]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H0582]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5393]]"
+- "[[H9005]]"
+- "[[H0214]]"
+- "[[H8641]]"
+- "[[H7225G]]"
+- "[[H9002]]"
+- "[[H4643]]"
+- "[[H3664]]"
+- "[[H9038]]"
+- "[[H7704G]]"
+- "[[H5892B]]"
+- "[[H4521]]"
+- "[[H8451]]"
+- "[[H3548]]"
+- "[[H3881]]"
+- "[[H3588A]]"
+- "[[H8057]]"
+- "[[H3063G]]"
+- "[[H5975H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 12:44**<big><big>[[Neh.12.44 Provisions for Temple Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And at that time were some appointed over the chambers for the treasures, for the offerings, for the firstfruits, and for the tithes, to gather into them out of the fields of the cities the portions of the law for the priests and Levites: for Judah rejoiced for the priests and for the Levites that waited.
 <small><sub>**BSB:**</sub></small>
 And on that same day men were appointed over the rooms that housed the supplies, contributions, firstfruits, and tithes. The portions specified by the Law for the priests and Levites were gathered into these storerooms from the fields of the villages, because Judah rejoiced over the priests and Levites who were serving.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6485J\|יִּפָּקְד֣וּ]] [[H9003\|בַ]][[H3117G\|יּוֹם֩]] [[H9009\|הַ]][[H1931\|ה֨וּא]] [[H0582\|אֲנָשִׁ֜ים]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H5393\|נְּשָׁכ֗וֹת]] [[H9005\|לָ]][[H0214\|א֨וֹצָר֥וֹת]] [[H9005\|לַ]][[H8641\|תְּרוּמוֹת֮]] [[H9005\|לָ]][[H7225G\|רֵאשִׁ֣ית]] [[H9002\|וְ]][[H9005\|לַ]][[H4643\|מַּֽעַשְׂרוֹת֒]] [[H9005\|לִ]][[H3664\|כְנ֨וֹס]] [[H9003\|בָּ]][[H9038\|הֶ֜ם]] [[H9005\|לִ]][[H7704G\|שְׂדֵ֤י]] [[H9009\|הֶ]][[H5892B\|עָרִים֙]] [[H4521\|מְנָא֣וֹת]] [[H9009\|הַ]][[H8451\|תּוֹרָ֔ה]] [[H9005\|לַ]][[H3548\|כֹּהֲנִ֖ים]] [[H9002\|וְ]][[H9005\|לַ]][[H3881\|לְוִיִּ֑ם]] [[H3588A\|כִּ֚י]] [[H8057\|שִׂמְחַ֣ת]] [[H3063G\|יְהוּדָ֔ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֥ים]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּ֖ם]] [[H9009\|הָ]][[H5975H\|עֹמְדִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic OFFERINGS|OFFERINGS]] • [[topic TITHES|TITHES]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.43|<< Nehemiah 12:43]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.45|Nehemiah 12:45 >>]]</td></tr></table>
 

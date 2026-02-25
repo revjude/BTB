@@ -1,8 +1,68 @@
+---
+title: Jeremiah 27:2
+type: Verse
+kjv: "Thus saith the LORD to me; Make thee bonds and yokes, and put them upon thy neck,"
+bsb: "This is what the LORD said to me: “Make for yourself a yoke out of leather straps and put it on your neck."
+hebrew: "כֹּֽה־ אָמַ֤ר יְהוָה֙ אֵלַ֔י עֲשֵׂ֣ה לְךָ֔ מוֹסֵר֖וֹת וּמֹט֑וֹת וּנְתַתָּ֖ם עַל־ צַוָּארֶֽךָ׃"
+pericope: "[[Jer.27.1 The Yoke of Nebuchadnezzar|The Yoke of Nebuchadnezzar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 27
+book/chapter: "[[Jer.27|Jeremiah 27]]"
+chronological_order: 750
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic EDOM|EDOM]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H4147]]"
+- "[[H9002]]"
+- "[[H4133]]"
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H9038]]"
+- "[[H5921A]]"
+- "[[H6677A]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 27:2**<big><big>[[Jer.27.1 The Yoke of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD to me; Make thee bonds and yokes, and put them upon thy neck,
 <small><sub>**BSB:**</sub></small>
 This is what the LORD said to me: “Make for yourself a yoke out of leather straps and put it on your neck.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֤ר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H6213H\|עֲשֵׂ֣ה]] [[H9005\|לְ]][[H9031\|ךָ֔]] [[H4147\|מוֹסֵר֖וֹת]] [[H9002\|וּ]][[H4133\|מֹט֑וֹת]] [[H9001\|וּ]][[H5414H\|נְתַתָּ֖]][[H9038\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H6677A\|צַוָּארֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic BABYLON|BABYLON]] • [[topic EDOM|EDOM]] • [[topic EDOMITES|EDOMITES]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic PROPHETS|PROPHETS]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.27.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.27.1|<< Jeremiah 27:1]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.3|Jeremiah 27:3 >>]]</td></tr></table>
 

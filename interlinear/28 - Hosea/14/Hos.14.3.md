@@ -1,8 +1,68 @@
+---
+title: Hosea 14:3
+type: Verse
+kjv: "Asshur shall not save us; we will not ride upon horses: neither will we say any more to the work of our hands, Ye are our gods: for in thee the fatherless findeth mercy."
+bsb: "Assyria will not save us, nor will we ride on horses. We will never again say, ‘Our gods!’ to the work of our own hands. For in You the fatherless find compassion.”"
+hebrew: "אַשּׁ֣וּר׀ לֹ֣א יוֹשִׁיעֵ֗נוּ עַל־ סוּס֙ לֹ֣א נִרְכָּ֔ב וְלֹא־ נֹ֥אמַר ע֛וֹד אֱלֹהֵ֖ינוּ לְמַעֲשֵׂ֣ה יָדֵ֑ינוּ אֲשֶׁר־ בְּךָ֖ יְרֻחַ֥ם יָתֽוֹם׃"
+pericope: "[[Hos.14.1 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 14
+book/chapter: "[[Hos.14|Hosea 14]]"
+chronological_order: 655
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H0804G]]"
+- "[[H9015]]"
+- "[[H3808]]"
+- "[[H3467]]"
+- "[[H9035]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5483M]]"
+- "[[H7392]]"
+- "[[H9002]]"
+- "[[H0559]]"
+- "[[H5750]]"
+- "[[H0430]]"
+- "[[H9025]]"
+- "[[H9005]]"
+- "[[H4639G]]"
+- "[[H3027G]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H7355]]"
+- "[[H3490]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 14:3**<big><big>[[Hos.14.1 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Asshur shall not save us; we will not ride upon horses: neither will we say any more to the work of our hands, [Ye are] our gods: for in thee the fatherless findeth mercy.
 <small><sub>**BSB:**</sub></small>
 Assyria will not save us, nor will we ride on horses. We will never again say, ‘Our gods!’ to the work of our own hands. For in You the fatherless find compassion.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0804G\|אַשּׁ֣וּר]][[H9015\|׀]] [[H3808\|לֹ֣א]] [[H3467\|יוֹשִׁיעֵ֗]][[H9035\|נוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H5483M\|סוּס֙]] [[H3808\|לֹ֣א]] [[H7392\|נִרְכָּ֔ב]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H0559\|נֹ֥אמַר]] [[H5750\|ע֛וֹד]] [[H0430\|אֱלֹהֵ֖י]][[H9025\|נוּ]] [[H9005\|לְ]][[H4639G\|מַעֲשֵׂ֣ה]] [[H3027G\|יָדֵ֑י]][[H9025\|נוּ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בְּ]][[H9031\|ךָ֖]] [[H7355\|יְרֻחַ֥ם]] [[H3490\|יָתֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic GOD|GOD]] • [[topic HORSE|HORSE]] • [[topic ORPHAN|ORPHAN]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.14.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.14.2|<< Hosea 14:2]]</td><td align="center" style="border:none;">[[Hos.14|Hosea 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.14.4|Hosea 14:4 >>]]</td></tr></table>
 

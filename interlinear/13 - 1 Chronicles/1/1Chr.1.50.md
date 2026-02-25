@@ -1,8 +1,69 @@
+---
+title: 1 Chronicles 1:50
+type: Verse
+kjv: "And when Baalhanan was dead, Hadad reigned in his stead: and the name of his city was Pai; and his wife’s name was Mehetabel, the daughter of Matred, the daughter of Mezahab."
+bsb: "When Baal-hanan died, Hadad reigned in his place. His city was named Pau, and his wife’s name was Mehetabel daughter of Matred, the daughter of Me-zahab."
+hebrew: "וַיָּ֙מָת֙ בַּ֣עַל חָנָ֔ן וַיִּמְלֹ֤ךְ תַּחְתָּיו֙ הֲדַ֔ד וְשֵׁ֥ם עִיר֖וֹ פָּ֑עִי וְשֵׁ֨ם אִשְׁתּ֤וֹ מְהֵיטַבְאֵל֙ בַּת־ מַטְרֵ֔ד בַּ֖ת מֵ֥י זָהָֽב׃"
+pericope: "[[1Chr.1.43 The Kings of Edom|The Kings of Edom]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 1
+book/chapter: "[[1Chr.1|1 Chronicles 1]]"
+chronological_order: 320
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BAAL-HANAN|BAAL-HANAN]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic HADAD|HADAD]]"
+- "[[topic KING|KING]]"
+- "[[topic MATRED|MATRED]]"
+- "[[topic MEHETABEL|MEHETABEL]]"
+- "[[topic MEZAHAB|MEZAHAB]]"
+- "[[topic PAI|PAI]]"
+- "[[topic PAU|PAU]]"
+- "[[topic SHEM|SHEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H1177G]]"
+- "[[H4427A]]"
+- "[[H8478H]]"
+- "[[H9033]]"
+- "[[H1908H]]"
+- "[[H9002]]"
+- "[[H8034]]"
+- "[[H5892B]]"
+- "[[H9023]]"
+- "[[H6464]]"
+- "[[H0802H]]"
+- "[[H4105G]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H4308]]"
+- "[[H4314]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 1:50**<big><big>[[1Chr.1.43 The Kings of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Baalhanan was dead, Hadad reigned in his stead: and the name of his city [was] Pai; and his wife’s name [was] Mehetabel, the daughter of Matred, the daughter of Mezahab.
 <small><sub>**BSB:**</sub></small>
 When Baal-hanan died, Hadad reigned in his place. His city was named Pau, and his wife’s name was Mehetabel daughter of Matred, the daughter of Me-zahab.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4191\|יָּ֙מָת֙]] [[H1177G\|בַּ֣עַל]] [[H1177G\|חָנָ֔ן]] [[H9001\|וַ]][[H4427A\|יִּמְלֹ֤ךְ]] [[H8478H\|תַּחְתָּי]][[H9033\|ו֙]] [[H1908H\|הֲדַ֔ד]] [[H9002\|וְ]][[H8034\|שֵׁ֥ם]] [[H5892B\|עִיר֖]][[H9023\|וֹ]] [[H6464\|פָּ֑עִי]] [[H9002\|וְ]][[H8034\|שֵׁ֨ם]] [[H0802H\|אִשְׁתּ֤]][[H9023\|וֹ]] [[H4105G\|מְהֵיטַבְאֵל֙]] [[H1323G\|בַּת]][[H9014\|־]] [[H4308\|מַטְרֵ֔ד]] [[H1323G\|בַּ֖ת]] [[H4314\|מֵ֥י]] [[H4314\|זָהָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL-HANAN|BAAL-HANAN]] • [[topic EDOMITES|EDOMITES]] • [[topic GENEALOGY|GENEALOGY]] • [[topic HADAD|HADAD]] • [[topic KING|KING]] • [[topic MATRED|MATRED]] • [[topic MEHETABEL|MEHETABEL]] • [[topic MEZAHAB|MEZAHAB]] • [[topic PAI|PAI]] • [[topic PAU|PAU]] • [[topic SHEM|SHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.1.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.49|<< 1 Chronicles 1:49]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.51|1 Chronicles 1:51 >>]]</td></tr></table>
 

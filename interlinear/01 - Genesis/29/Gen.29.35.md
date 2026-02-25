@@ -1,8 +1,67 @@
+---
+title: Genesis 29:35
+type: Verse
+kjv: "And she conceived again, and bare a son: and she said, Now will I praise the LORD: therefore she called his name Judah; and left bearing."
+bsb: "And once more she conceived and gave birth to a son and said, “This time I will praise the LORD.” So she named him Judah. Then Leah stopped having children."
+hebrew: "וַתַּ֨הַר ע֜וֹד וַתֵּ֣לֶד בֵּ֗ן וַתֹּ֙אמֶר֙ הַפַּ֙עַם֙ אוֹדֶ֣ה אֶת־ יְהוָ֔ה עַל־ כֵּ֛ן קָרְאָ֥ה שְׁמ֖וֹ יְהוּדָ֑ה וַֽתַּעֲמֹ֖ד מִלֶּֽדֶת׃"
+pericope: "[[Gen.29.31 Reuben, Simeon, Levi, and Judah|Reuben, Simeon, Levi, and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 29
+book/chapter: "[[Gen.29|Genesis 29]]"
+chronological_order: 71
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic LEAH|LEAH]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H2029]]"
+- "[[H5750]]"
+- "[[H3205]]"
+- "[[H1121A]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H6471]]"
+- "[[H3034]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H3063G]]"
+- "[[H5975G]]"
+- "[[H9006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 29:35**<big><big>[[Gen.29.31 Reuben, Simeon, Levi, and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she conceived again, and bare a son: and she said, Now will I praise the LORD: therefore she called his name Judah; and left bearing.
 <small><sub>**BSB:**</sub></small>
 And once more she conceived and gave birth to a son and said, “This time I will praise the LORD.” So she named him Judah. Then Leah stopped having children.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2029\|תַּ֨הַר]] [[H5750\|ע֜וֹד]] [[H9001\|וַ]][[H3205\|תֵּ֣לֶד]] [[H1121A\|בֵּ֗ן]] [[H9001\|וַ]][[H0559\|תֹּ֙אמֶר֙]] [[H9009\|הַ]][[H6471\|פַּ֙עַם֙]] [[H3034\|אוֹדֶ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֛ן]] [[H7121H\|קָרְאָ֥ה]] [[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H3063G\|יְהוּדָ֑ה]] [[H9001\|וַֽ]][[H5975G\|תַּעֲמֹ֖ד]] [[H9006\|מִ]][[H3205\|לֶּֽדֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic JACOB|JACOB]] • [[topic LEAH|LEAH]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.29.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.34|<< Genesis 29:34]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.1|Genesis 30:1 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Do Not Be Unequally Yoked
+type: Pericope
 pericope: "[[2Cor.6.14 Do Not Be Unequally Yoked|Do Not Be Unequally Yoked]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: 2 Corinthians
 chapter: 6
 book/chapter: "[[2Cor.6|2 Corinthians 6]]"
-genre:
+chronological_order: 1079
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - apologetic
+verse_count: 5
 verses:
 - "[[2Cor.6.14]]"
 - "[[2Cor.6.15]]"
@@ -23,7 +30,7 @@ verses:
 - "[[2Cor.6.18]]"
 ---
 
-[[2Cor.6|2 Corinthians 6:14 - 2 Corinthians 6:18]]
+<small>[[2Cor.6|2 Corinthians 6:14-18]]</small>
 *Do Not Be Unequally Yoked*
 
 [[2Cor.6.14|14]] Be ye not unequally yoked together with unbelievers: for what fellowship hath righteousness with unrighteousness? and what communion hath light with darkness?

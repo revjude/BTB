@@ -1,8 +1,79 @@
+---
+title: Exodus 16:12
+type: Verse
+kjv: "I have heard the murmurings of the children of Israel: speak unto them, saying, At even ye shall eat flesh, and in the morning ye shall be filled with bread; and ye shall know that I am the LORD your God."
+bsb: "“I have heard the grumbling of the Israelites. Tell them, ‘At twilight you will eat meat, and in the morning you will be filled with bread. Then you will know that I am the LORD your God.’”"
+hebrew: "שָׁמַ֗עְתִּי אֶת־ תְּלוּנֹּת֮ בְּנֵ֣י יִשְׂרָאֵל֒ דַּבֵּ֨ר אֲלֵהֶ֜ם לֵאמֹ֗ר בֵּ֤ין הָֽעַרְבַּ֙יִם֙ תֹּאכְל֣וּ בָשָׂ֔ר וּבַבֹּ֖קֶר תִּשְׂבְּעוּ־ לָ֑חֶם וִֽידַעְתֶּ֕ם כִּ֛י אֲנִ֥י יְהוָ֖ה אֱלֹהֵיכֶֽם׃"
+pericope: "[[Exod.16.1 Manna and Quail from Heaven|Manna and Quail from Heaven]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 16
+book/chapter: "[[Exod.16|Exodus 16]]"
+chronological_order: 108
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MANNA|MANNA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8519]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0996G]]"
+- "[[H9009]]"
+- "[[H6153]]"
+- "[[H0398]]"
+- "[[H1320]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H7646]]"
+- "[[H3899H]]"
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 16:12**<big><big>[[Exod.16.1 Manna and Quail from Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have heard the murmurings of the children of Israel: speak unto them, saying, At even ye shall eat flesh, and in the morning ye shall be filled with bread; and ye shall know that I [am] the LORD your God.
 <small><sub>**BSB:**</sub></small>
 “I have heard the grumbling of the Israelites. Tell them, ‘At twilight you will eat meat, and in the morning you will be filled with bread. Then you will know that I am the LORD your God.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שָׁמַ֗עְתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H8519\|תְּלוּנֹּת֮]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵל֒]] [[H1696G\|דַּבֵּ֨ר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֜ם]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H0996G\|בֵּ֤ין]] [[H9009\|הָֽ]][[H6153\|עַרְבַּ֙יִם֙]] [[H0398\|תֹּאכְל֣וּ]] [[H1320\|בָשָׂ֔ר]] [[H9002\|וּ]][[H9003\|בַ]][[H1242\|בֹּ֖קֶר]] [[H7646\|תִּשְׂבְּעוּ]][[H9014\|־]] [[H3899H\|לָ֑חֶם]] [[H9001\|וִֽ]][[H3045\|ידַעְתֶּ֕ם]] [[H3588A\|כִּ֛י]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic MANNA|MANNA]] • [[topic MIRACLES|MIRACLES]] • [[topic MURMURING|MURMURING]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.11|<< Exodus 16:11]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.13|Exodus 16:13 >>]]</td></tr></table>
 

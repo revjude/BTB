@@ -1,6 +1,63 @@
+---
+title: LXX 2 Samuel 12:17
+type: Verse
+lxx: "And the elders of his house rose up to him,  to raise him from the ground, and he did not want, and he would not eat bread with them."
+greek: "και ανέστησαν οι πρεσβύτεροι του οίκου αυτού προς αυτόν του εγείραι αυτόν από της γης και ουκ ηθέλησε και ου συνέφαγεν αυτοίς άρτον"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 12
+book/chapter: "[[2Sam.12|2 Samuel 12]]"
+chronological_order: 411
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic BEREAVEMENT|BEREAVEMENT]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic FASTING|FASTING]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+strongs:
+- "[[G2532]]"
+- "[[G0450]]"
+- "[[G3588]]"
+- "[[G4245]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G1473]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G1453]]"
+- "[[G1473]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2309]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G4906]]"
+- "[[G1473]]"
+- "[[G0740]]"
+---
+
 **LXX 2 Samuel 12:17** 
 <small><sub>**LXX:**</sub></small>
 And the elders of his house rose up to him,  to raise him from the ground, and he did not want, and he would not eat bread with them. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0450\|ανέστησαν]] [[G3588\|οι]] [[G4245\|πρεσβύτεροι]] [[G3588\|του]] [[G3624\|οίκου]] [[G1473\|αυτού]] [[G4314\|προς]] [[G1473\|αυτόν]] [[G3588\|του]] [[G1453\|εγείραι]] [[G1473\|αυτόν]] [[G0575\|από]] [[G3588\|της]] [[G1093\|γης]] [[G2532\|και]] [[G3756\|ουκ]] [[G2309\|ηθέλησε]] [[G2532\|και]] [[G3756\|ου]] [[G4906\|συνέφαγεν]] [[G1473\|αυτοίς]] [[G0740\|άρτον]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEREAVEMENT|BEREAVEMENT]] • [[topic CHILDREN|CHILDREN]] • [[topic DAVID|DAVID]] • [[topic FASTING|FASTING]] • [[topic GOVERNMENT|GOVERNMENT]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.12.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.16|<< 2 Samuel 12:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.18|2 Samuel 12:18 >>]]</td></tr></table>
 
@@ -27,6 +84,6 @@ And the elders of his house rose up to him,  to raise him from the ground, and h
 | he would not | **<big>[[G3756\|ου]]</big>** |
 | eat | **<big>[[G4906\|συνέφαγεν]]</big>** |
 | bread with them. | **<big>[[G1473\|αυτοίς]]</big>** **<big>[[G0740\|άρτον]]</big>** |
-[[2Sam.12.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.16|<< 2 Samuel 12:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.18|2 Samuel 12:18 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.16|<< 2 Samuel 12:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.18|2 Samuel 12:18 >>]]</td></tr></table>
 
 

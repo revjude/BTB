@@ -1,15 +1,81 @@
+---
+title: Jeremiah 25:27
+type: Verse
+kjv: "Therefore thou shalt say unto them, Thus saith the LORD of hosts, the God of Israel; Drink ye, and be drunken, and spue, and fall, and rise no more, because of the sword which I will send among you."
+bsb: "“Then you are to tell them that this is what the LORD of Hosts, the God of Israel, says: ‘Drink, get drunk, and vomit. Fall down and never get up again, because of the sword I will send among you.’"
+hebrew: "וְאָמַרְתָּ֣ אֲלֵיהֶ֡ם ס כֹּֽה־ אָמַר֩ יְהוָ֨ה צְבָא֜וֹת אֱלֹהֵ֣י יִשְׂרָאֵ֗ל שְׁת֤וּ וְשִׁכְרוּ֙ וּקְי֔וּ וְנִפְל֖וּ וְלֹ֣א תָק֑וּמוּ מִפְּנֵ֣י הַחֶ֔רֶב אֲשֶׁ֛ר אָנֹכִ֥י שֹׁלֵ֖חַ בֵּינֵיכֶֽם׃"
+pericope: "[[Jer.25.15 The Cup of God’s Wrath|The Cup of God’s Wrath]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 25
+book/chapter: "[[Jer.25|Jeremiah 25]]"
+chronological_order: 748
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CUP|CUP]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H9018]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H8354]]"
+- "[[H9002]]"
+- "[[H7937]]"
+- "[[H7006]]"
+- "[[H5307G]]"
+- "[[H3808]]"
+- "[[H6965B]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H9009]]"
+- "[[H2719]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H7971G]]"
+- "[[H0996H]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 25:27**<big><big>[[Jer.25.15 The Cup of God’s Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thou shalt say unto them, Thus saith the LORD of hosts, the God of Israel; Drink ye, and be drunken, and spue, and fall, and rise no more, because of the sword which I will send among you.
 <small><sub>**BSB:**</sub></small>
 “Then you are to tell them that this is what the LORD of Hosts, the God of Israel, says: ‘Drink, get drunk, and vomit. Fall down and never get up again, because of the sword I will send among you.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֲלֵי]][[H9038\|הֶ֡ם]] [[H9018\|ס]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַר֩]] [[H3068G\|יְהוָ֨ה]] [[H6635B\|צְבָא֜וֹת]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H8354\|שְׁת֤וּ]] [[H9002\|וְ]][[H7937\|שִׁכְרוּ֙]] [[H9002\|וּ]][[H7006\|קְי֔וּ]] [[H9002\|וְ]][[H5307G\|נִפְל֖וּ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6965B\|תָק֑וּמוּ]] [[H9006\|מִ]][[H6440I\|פְּנֵ֣י]] [[H9009\|הַ]][[H2719\|חֶ֔רֶב]] [[H0834A\|אֲשֶׁ֛ר]] [[H0595\|אָנֹכִ֥י]] [[H7971G\|שֹׁלֵ֖חַ]] [[H0996H\|בֵּינֵי]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CUP|CUP]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.26|<< Jeremiah 25:26]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.28|Jeremiah 25:28 >>]]</td></tr></table>
 
 | Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָמַרְתָּ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.mar.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to them  |**<big>&#8207;[[H0413\|אֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֡ם]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  |**<big>&#8207;[[H0413\|אֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֡ם]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3541\|כֹּֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| koh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he says  |**<big>&#8207;[[H0559\|אָמַר֩]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

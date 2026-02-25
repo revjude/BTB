@@ -1,6 +1,65 @@
+---
+title: LXX 1 Chronicles 15:28
+type: Verse
+lxx: "And all Israel was leading the ark of the covenant of the lord with a cheer, and with a sound of the ram's horn, and with trumpets, and with cymbals, sounding out loud with stringed instruments, and with lutes."
+greek: "και πας Ισραήλ ανάγοντες την κιβωτόν διαθήκης κυρίου εν σημασία και εν φωνή σωφάρ και εν σάλπιγξι και εν κυμβάλοις αναφωνούντες εν νάβλαις και εν κινύραις"
+original_language: Greek
+testament: Old
+book: 1 Chronicles
+chapter: 15
+book/chapter: "[[1Chr.15|1 Chronicles 15]]"
+chronological_order: 396
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- septuagint
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic CYMBAL|CYMBAL]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic SHOUTING|SHOUTING]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G2474]]"
+- "[[G0321]]"
+- "[[G3588]]"
+- "[[G2787]]"
+- "[[G1242]]"
+- "[[G2962]]"
+- "[[G1722]]"
+- "[[G9070]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G5456]]"
+- "[[G9392]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G4536]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G2950]]"
+- "[[G0400]]"
+- "[[G1722]]"
+- "[[G8372]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G8011]]"
+---
+
 **LXX 1 Chronicles 15:28** 
 <small><sub>**LXX:**</sub></small>
 And all Israel \[was\] leading the ark of \[the\] covenant of \[the\] <span class="smallcaps">lord</span> with a cheer, and with a sound of \[the\] ram's horn, and with trumpets, and with cymbals, sounding out loud with stringed instruments, and with lutes. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3956\|πας]] [[G2474\|Ισραήλ]] [[G0321\|ανάγοντες]] [[G3588\|την]] [[G2787\|κιβωτόν]] [[G1242\|διαθήκης]] [[G2962\|κυρίου]] [[G1722\|εν]] [[G9070\|σημασία]] [[G2532\|και]] [[G1722\|εν]] [[G5456\|φωνή]] [[G9392\|σωφάρ]] [[G2532\|και]] [[G1722\|εν]] [[G4536\|σάλπιγξι]] [[G2532\|και]] [[G1722\|εν]] [[G2950\|κυμβάλοις]] [[G0400\|αναφωνούντες]] [[G1722\|εν]] [[G8372\|νάβλαις]] [[G2532\|και]] [[G1722\|εν]] [[G8011\|κινύραις]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CYMBAL|CYMBAL]] • [[topic JOY|JOY]] • [[topic MUSIC|MUSIC]] • [[topic SHOUTING|SHOUTING]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Chr.15.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.27|<< 1 Chronicles 15:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.29|1 Chronicles 15:29 >>]]</td></tr></table>
 
@@ -32,6 +91,6 @@ And all Israel \[was\] leading the ark of \[the\] covenant of \[the\] <span clas
 | and | **<big>[[G2532\|και]]</big>** |
 | with | **<big>[[G1722\|εν]]</big>** |
 | lutes. | **<big>[[G8011\|κινύραις]]</big>** |
-[[1Chr.15.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.27|<< 1 Chronicles 15:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.29|1 Chronicles 15:29 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.27|<< 1 Chronicles 15:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.29|1 Chronicles 15:29 >>]]</td></tr></table>
 
 

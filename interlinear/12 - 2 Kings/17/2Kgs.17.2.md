@@ -1,8 +1,59 @@
+---
+title: 2 Kings 17:2
+type: Verse
+kjv: "And he did that which was evil in the sight of the LORD, but not as the kings of Israel that were before him."
+bsb: "And he did evil in the sight of the LORD, but not like the kings of Israel who preceded him."
+hebrew: "וַיַּ֥עַשׂ הָרַ֖ע בְּעֵינֵ֣י יְהוָ֑ה רַ֗ק לֹ֚א כְּמַלְכֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁ֥ר הָי֖וּ לְפָנָֽיו׃"
+pericope: "[[2Kgs.17.1 Hoshea the Last King of Israel|Hoshea the Last King of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 17
+book/chapter: "[[2Kgs.17|2 Kings 17]]"
+chronological_order: 641
+era: Exile
+period: "The Assyrian Crisis and Fall of Israel"
+date: ~722 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HOSHEA|HOSHEA]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H7535]]"
+- "[[H3808]]"
+- "[[H9004]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 17:2**<big><big>[[2Kgs.17.1 Hoshea the Last King of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he did [that which was] evil in the sight of the LORD, but not as the kings of Israel that were before him.
 <small><sub>**BSB:**</sub></small>
 And he did evil in the sight of the LORD, but not like the kings of Israel who preceded him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֥עַשׂ]] [[H9009\|הָ]][[H7451H\|רַ֖ע]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H7535\|רַ֗ק]] [[H3808\|לֹ֚א]] [[H9004\|כְּ]][[H4428G\|מַלְכֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0834A\|אֲשֶׁ֥ר]] [[H1961\|הָי֖וּ]] [[H9005\|לְ]][[H6440G\|פָנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOSHEA|HOSHEA]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.1|<< 2 Kings 17:1]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.3|2 Kings 17:3 >>]]</td></tr></table>
 

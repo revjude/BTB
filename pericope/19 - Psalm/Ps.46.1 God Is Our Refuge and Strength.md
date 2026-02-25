@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God Is Our Refuge and Strength
+type: Pericope
 pericope: "[[Ps.46.1 God Is Our Refuge and Strength|God Is Our Refuge and Strength]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 46
 book/chapter: "[[Ps.46|Psalm 46]]"
-genre:
+chronological_order: 501
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 12
 verses:
 - "[[Ps.46.0]]"
 - "[[Ps.46.1]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Ps.46.11]]"
 ---
 
-[[Ps.46|Psalm 46:1 - Psalm 46:11]]
+<small>[[Ps.46|Psalm 46:1-11]]</small>
 *God Is Our Refuge and Strength*
 
 [[Ps.46.0|0]] To the chief Musician for the sons of Korah, A Song upon Alamoth.

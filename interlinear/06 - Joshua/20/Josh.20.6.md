@@ -1,8 +1,77 @@
+---
+title: Joshua 20:6
+type: Verse
+kjv: "And he shall dwell in that city, until he stand before the congregation for judgment, and until the death of the high priest that shall be in those days: then shall the slayer return, and come unto his own city, and unto his own house, unto the city from whence he fled."
+bsb: "He is to stay in that city until he stands trial before the assembly and until the death of the high priest serving at that time. Then the manslayer may return to his own home in the city from which he fled.”"
+hebrew: "וְיָשַׁ֣ב׀ בָּעִ֣יר הַהִ֗יא עַד־ עָמְד֞וֹ לִפְנֵ֤י הָֽעֵדָה֙ לַמִּשְׁפָּ֔ט עַד־ מוֹת֙ הַכֹּהֵ֣ן הַגָּד֔וֹל אֲשֶׁ֥ר יִהְיֶ֖ה בַּיָּמִ֣ים הָהֵ֑ם אָ֣ז׀ יָשׁ֣וּב הָרוֹצֵ֗חַ וּבָ֤א אֶל־ עִירוֹ֙ וְאֶל־ בֵּית֔וֹ אֶל־ הָעִ֖יר אֲשֶׁר־ נָ֥ס מִשָּֽׁם׃"
+pericope: "[[Josh.20.1 Six Cities of Refuge|Six Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 20
+book/chapter: "[[Josh.20|Joshua 20]]"
+chronological_order: 250
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic REFUGE|REFUGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5975G]]"
+- "[[H9043]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H5712]]"
+- "[[H4941G]]"
+- "[[H4194]]"
+- "[[H3548]]"
+- "[[H1419A]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H3117G]]"
+- "[[H1992]]"
+- "[[H0227A]]"
+- "[[H7725G]]"
+- "[[H7523]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1004B]]"
+- "[[H5127]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 20:6**<big><big>[[Josh.20.1 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall dwell in that city, until he stand before the congregation for judgment, [and] until the death of the high priest that shall be in those days: then shall the slayer return, and come unto his own city, and unto his own house, unto the city from whence he fled.
 <small><sub>**BSB:**</sub></small>
 He is to stay in that city until he stands trial before the assembly and until the death of the high priest serving at that time. Then the manslayer may return to his own home in the city from which he fled.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3427\|יָשַׁ֣ב]][[H9015\|׀]] [[H9003\|בָּ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H1931\|הִ֗יא]] [[H5704\|עַד]][[H9014\|־]] [[H5975G\|עָמְד֞]][[H9043\|וֹ]] [[H9005\|לִ]][[H6440G\|פְנֵ֤י]] [[H9009\|הָֽ]][[H5712\|עֵדָה֙]] [[H9005\|לַ]][[H4941G\|מִּשְׁפָּ֔ט]] [[H5704\|עַד]][[H9014\|־]] [[H4194\|מוֹת֙]] [[H9009\|הַ]][[H3548\|כֹּהֵ֣ן]] [[H9009\|הַ]][[H1419A\|גָּד֔וֹל]] [[H0834A\|אֲשֶׁ֥ר]] [[H1961\|יִהְיֶ֖ה]] [[H9003\|בַּ]][[H3117G\|יָּמִ֣ים]] [[H9009\|הָ]][[H1992\|הֵ֑ם]] [[H0227A\|אָ֣ז]][[H9015\|׀]] [[H7725G\|יָשׁ֣וּב]] [[H9009\|הָ]][[H7523\|רוֹצֵ֗חַ]] [[H9001\|וּ]][[H0935G\|בָ֤א]] [[H0413\|אֶל]][[H9014\|־]] [[H5892B\|עִיר]][[H9023\|וֹ֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּית֔]][[H9023\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5127\|נָ֥ס]] [[H9006\|מִ]][[H8033G\|שָּֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]] • [[topic COMMUNION|COMMUNION]] • [[topic HOMICIDE|HOMICIDE]] • [[topic REFUGE|REFUGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.20.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.20.5|<< Joshua 20:5]]</td><td align="center" style="border:none;">[[Josh.20|Joshua 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.20.7|Joshua 20:7 >>]]</td></tr></table>
 

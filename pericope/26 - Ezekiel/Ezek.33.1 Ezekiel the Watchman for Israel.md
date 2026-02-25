@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ezekiel the Watchman for Israel
+type: Pericope
 pericope: "[[Ezek.33.1 Ezekiel the Watchman for Israel|Ezekiel the Watchman for Israel]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 33
 book/chapter: "[[Ezek.33|Ezekiel 33]]"
-genre:
+chronological_order: 824
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 9
 verses:
 - "[[Ezek.33.1]]"
 - "[[Ezek.33.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Ezek.33.9]]"
 ---
 
-[[Ezek.33|Ezekiel 33:1 - Ezekiel 33:9]]
+<small>[[Ezek.33|Ezekiel 33:1-9]]</small>
 *Ezekiel the Watchman for Israel*
 
 [[Ezek.33.1|1]] Again the word of the LORD came unto me, saying,

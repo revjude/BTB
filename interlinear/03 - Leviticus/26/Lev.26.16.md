@@ -1,8 +1,86 @@
+---
+title: Leviticus 26:16
+type: Verse
+kjv: "I also will do this unto you; I will even appoint over you terror, consumption, and the burning ague, that shall consume the eyes, and cause sorrow of heart: and ye shall sow your seed in vain, for your enemies shall eat it."
+bsb: "then this is what I will do to you: I will bring upon you sudden terror, wasting disease, and fever that will destroy your sight and drain your life. You will sow your seed in vain, because your enemies will eat it."
+hebrew: "אַף־ אֲנִ֞י אֶֽעֱשֶׂה־ זֹּ֣את לָכֶ֗ם וְהִפְקַדְתִּ֨י עֲלֵיכֶ֤ם בֶּֽהָלָה֙ אֶת־ הַשַּׁחֶ֣פֶת וְאֶת־ הַקַּדַּ֔חַת מְכַלּ֥וֹת עֵינַ֖יִם וּמְדִיבֹ֣ת נָ֑פֶשׁ וּזְרַעְתֶּ֤ם לָרִיק֙ זַרְעֲכֶ֔ם וַאֲכָלֻ֖הוּ אֹיְבֵיכֶֽם׃"
+pericope: "[[Lev.26.14 Punishments for Disobedience|Punishments for Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AGUE|AGUE]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONSUMPTION|CONSUMPTION]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic FEVER|FEVER]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PESTILENCE|PESTILENCE]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0637]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H6213A]]"
+- "[[H2063]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9001]]"
+- "[[H6485I]]"
+- "[[H5921A]]"
+- "[[H0928]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H7829]]"
+- "[[H9002]]"
+- "[[H6920]]"
+- "[[H3615H]]"
+- "[[H5869A]]"
+- "[[H1727]]"
+- "[[H5315G]]"
+- "[[H2232]]"
+- "[[H7385]]"
+- "[[H2233G]]"
+- "[[H9026]]"
+- "[[H0398]]"
+- "[[H9033]]"
+- "[[H0341]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 26:16**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I also will do this unto you; I will even appoint over you terror, consumption, and the burning ague, that shall consume the eyes, and cause sorrow of heart: and ye shall sow your seed in vain, for your enemies shall eat it.
 <small><sub>**BSB:**</sub></small>
 then this is what I will do to you: I will bring upon you sudden terror, wasting disease, and fever that will destroy your sight and drain your life. You will sow your seed in vain, because your enemies will eat it.
+<small><sub>**Hebrew:**</sub></small>
+[[H0637\|אַף]][[H9014\|־]] [[H0589\|אֲנִ֞י]] [[H6213A\|אֶֽעֱשֶׂה]][[H9014\|־]] [[H2063\|זֹּ֣את]] [[H9005\|לָ]][[H9036\|כֶ֗ם]] [[H9001\|וְ]][[H6485I\|הִפְקַדְתִּ֨י]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֤ם]] [[H0928\|בֶּֽהָלָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7829\|שַּׁחֶ֣פֶת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6920\|קַּדַּ֔חַת]] [[H3615H\|מְכַלּ֥וֹת]] [[H5869A\|עֵינַ֖יִם]] [[H9002\|וּ]][[H1727\|מְדִיבֹ֣ת]] [[H5315G\|נָ֑פֶשׁ]] [[H9001\|וּ]][[H2232\|זְרַעְתֶּ֤ם]] [[H9005\|לָ]][[H7385\|רִיק֙]] [[H2233G\|זַרְעֲ]][[H9026\|כֶ֔ם]] [[H9001\|וַ]][[H0398\|אֲכָלֻ֖]][[H9033\|הוּ]] [[H0341\|אֹיְבֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGUE|AGUE]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic CONSUMPTION|CONSUMPTION]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic DISEASE|DISEASE]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic FEVER|FEVER]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PESTILENCE|PESTILENCE]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REWARD|REWARD]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.15|<< Leviticus 26:15]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.17|Leviticus 26:17 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Two Silver Trumpets
+type: Pericope
 pericope: "[[Num.10.1 The Two Silver Trumpets|The Two Silver Trumpets]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 10
 book/chapter: "[[Num.10|Numbers 10]]"
-genre:
+chronological_order: 169
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 10
 verses:
 - "[[Num.10.1]]"
 - "[[Num.10.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Num.10.10]]"
 ---
 
-[[Num.10|Numbers 10:1 - Numbers 10:10]]
+<small>[[Num.10|Numbers 10:1-10]]</small>
 *The Two Silver Trumpets*
 
 [[Num.10.1|1]] And the LORD spake unto Moses, saying,

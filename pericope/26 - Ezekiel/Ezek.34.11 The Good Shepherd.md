@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Good Shepherd
+type: Pericope
 pericope: "[[Ezek.34.11 The Good Shepherd|The Good Shepherd]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 34
 book/chapter: "[[Ezek.34|Ezekiel 34]]"
-genre:
+chronological_order: 825
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 14
 verses:
 - "[[Ezek.34.11]]"
 - "[[Ezek.34.12]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Ezek.34.24]]"
 ---
 
-[[Ezek.34|Ezekiel 34:11 - Ezekiel 34:24]]
+<small>[[Ezek.34|Ezekiel 34:11-24]]</small>
 *The Good Shepherd*
 
 [[Ezek.34.11|11]] For thus saith the Lord GOD; Behold, I, \[even\] I, will both search my sheep, and seek them out.

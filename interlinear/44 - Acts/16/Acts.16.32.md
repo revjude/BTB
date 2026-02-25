@@ -1,10 +1,63 @@
+---
+title: Acts 16:32
+type: Verse
+kjv: "And they spake unto him the word of the Lord, and to all that were in his house."
+bsb: "Then Paul and Silas spoke the word of the Lord to him and to everyone in his house."
+greek: "καὶ ἐλάλησαν αὐτῷ τὸν λόγον τοῦ κυρίου σὺν πᾶσιν τοῖς ἐν τῇ οἰκίᾳ αὐτοῦ."
+pericope: "[[Acts.16.25 The Conversion of the Jailer|The Conversion of the Jailer]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic CRIMINALS|CRIMINALS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JAILER (JAILOR)|JAILER (JAILOR)]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SILAS|SILAS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2980]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G2962G]]"
+- "[[G4862]]"
+- "[[G3956]]"
+- "[[G1722]]"
+- "[[G3614G]]"
+texts:
+- NKO
+- NK(O)
+- N(k)O
+---
+
 **Acts 16:32**<big><big>[[Acts.16.25 The Conversion of the Jailer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they spake unto him the word of the Lord, and to all that were in his house.
 <small><sub>**BSB:**</sub></small>
 Then Paul and Silas spoke the word of the Lord to him and to everyone in his house.
-<small><sub>**Literal:**</sub></small>
-And they spoke to him the word of the Lord along with all those in the house of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.31|<< Acts 16:31]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.33|Acts 16:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2980\|ἐλάλησαν]]  [[G0846\|αὐτῷ]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G4862\|σὺν]]  [[G3956\|πᾶσιν]]  [[G3588\|τοῖς]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3614G\|οἰκίᾳ]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic CRIMINALS|CRIMINALS]] • [[topic FAITH|FAITH]] • [[topic FAMILY|FAMILY]] • [[topic GOD|GOD]] • [[topic JAILER (JAILOR)|JAILER (JAILOR)]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PHILIPPI|PHILIPPI]] • [[topic PRISONERS|PRISONERS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SILAS|SILAS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.31|<< Acts 16:31]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.33|Acts 16:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

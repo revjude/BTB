@@ -1,6 +1,54 @@
+---
+title: LXX Genesis 36:27
+type: Verse
+lxx: "And these were the sons of Ezer -- Bilhan, and Zaavan, and Akan."
+greek: "ούτοι δε υιοί Ασάρ Βαλαάμ και Ζουκάμ και Ουκάμ"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 36
+book/chapter: "[[Gen.36|Genesis 36]]"
+chronological_order: 78
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AKAN|AKAN]]"
+- "[[topic BILHAN|BILHAN]]"
+- "[[topic DUKE|DUKE]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic EZER|EZER]]"
+- "[[topic JAAKAN|JAAKAN]]"
+- "[[topic SEIR|SEIR]]"
+- "[[topic ZAAVAN|ZAAVAN]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G5207]]"
+- "[[H0687]]"
+- "[[G0903]]"
+- "[[G2532]]"
+- "[[H2190]]"
+- "[[G2532]]"
+- "[[H6130]]"
+---
+
 **LXX Genesis 36:27** 
 <small><sub>**LXX:**</sub></small>
 And these \[were\] \[the\] sons of Ezer -- Bilhan, and Zaavan, and Akan. 
+<small><sub>**Greek:**</sub></small>
+[[G3778\|ούτοι]] [[G1161\|δε]] [[G5207\|υιοί]] [[H0687\|Ασάρ]] [[G0903\|Βαλαάμ]] [[G2532\|και]] [[H2190\|Ζουκάμ]] [[G2532\|και]] [[H6130\|Ουκάμ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AKAN|AKAN]] • [[topic BILHAN|BILHAN]] • [[topic DUKE|DUKE]] • [[topic EDOMITES|EDOMITES]] • [[topic EZER|EZER]] • [[topic JAAKAN|JAAKAN]] • [[topic SEIR|SEIR]] • [[topic ZAAVAN|ZAAVAN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.36.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.26|<< Genesis 36:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.28|Genesis 36:28 >>]]</td></tr></table>
 
@@ -14,6 +62,6 @@ And these \[were\] \[the\] sons of Ezer -- Bilhan, and Zaavan, and Akan.
 | Zaavan, | **<big>[[H2190\|Ζουκάμ]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | Akan. | **<big>[[H6130\|Ουκάμ]]</big>** |
-[[Gen.36.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.26|<< Genesis 36:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.28|Genesis 36:28 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.26|<< Genesis 36:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.28|Genesis 36:28 >>]]</td></tr></table>
 
 

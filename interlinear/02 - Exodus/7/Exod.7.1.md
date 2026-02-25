@@ -1,8 +1,64 @@
+---
+title: Exodus 7:1
+type: Verse
+kjv: "And the LORD said unto Moses, See, I have made thee a god to Pharaoh: and Aaron thy brother shall be thy prophet."
+bsb: "The LORD answered Moses, “See, I have made you like God to Pharaoh, and your brother Aaron will be your prophet."
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֶל־ מֹשֶׁ֔ה רְאֵ֛ה נְתַתִּ֥יךָ אֱלֹהִ֖ים לְפַרְעֹ֑ה וְאַהֲרֹ֥ן אָחִ֖יךָ יִהְיֶ֥ה נְבִיאֶֽךָ׃"
+pericope: "[[Exod.7.1 God Commands Moses and Aaron|God Commands Moses and Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 7
+book/chapter: "[[Exod.7|Exodus 7]]"
+chronological_order: 99
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AARON|AARON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H7200I]]"
+- "[[H5414I]]"
+- "[[H9031]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H6547J]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H0251G]]"
+- "[[H9021]]"
+- "[[H1961]]"
+- "[[H5030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 7:1**<big><big>[[Exod.7.1 God Commands Moses and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, See, I have made thee a god to Pharaoh: and Aaron thy brother shall be thy prophet.
 <small><sub>**BSB:**</sub></small>
 The LORD answered Moses, “See, I have made you like God to Pharaoh, and your brother Aaron will be your prophet.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H7200I\|רְאֵ֛ה]] [[H5414I\|נְתַתִּ֥י]][[H9031\|ךָ]] [[H0430G\|אֱלֹהִ֖ים]] [[H9005\|לְ]][[H6547J\|פַרְעֹ֑ה]] [[H9002\|וְ]][[H0175\|אַהֲרֹ֥ן]] [[H0251G\|אָחִ֖י]][[H9021\|ךָ]] [[H1961\|יִהְיֶ֥ה]] [[H5030\|נְבִיאֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.30|<< Exodus 6:30]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.2|Exodus 7:2 >>]]</td></tr></table>
 

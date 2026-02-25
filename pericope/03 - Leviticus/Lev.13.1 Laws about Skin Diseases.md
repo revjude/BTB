@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Laws about Skin Diseases
+type: Pericope
 pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
-verse_count: 46
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 13
 book/chapter: "[[Lev.13|Leviticus 13]]"
-genre:
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 46
 verses:
 - "[[Lev.13.1]]"
 - "[[Lev.13.2]]"
@@ -69,7 +76,7 @@ verses:
 - "[[Lev.13.46]]"
 ---
 
-[[Lev.13|Leviticus 13:1 - Leviticus 13:46]]
+<small>[[Lev.13|Leviticus 13:1-46]]</small>
 *Laws about Skin Diseases*
 
 [[Lev.13.1|1]] And the LORD spake unto Moses and Aaron, saying,

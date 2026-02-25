@@ -1,8 +1,58 @@
+---
+title: Micah 7:5
+type: Verse
+kjv: "Trust ye not in a friend, put ye not confidence in a guide: keep the doors of thy mouth from her that lieth in thy bosom."
+bsb: "Do not rely on a friend; do not trust in a companion. Seal the doors of your mouth from her who lies in your arms."
+hebrew: "אַל־ תַּאֲמִ֣ינוּ בְרֵ֔עַ אַֽל־ תִּבְטְח֖וּ בְּאַלּ֑וּף מִשֹּׁכֶ֣בֶת חֵיקֶ֔ךָ שְׁמֹ֖ר פִּתְחֵי־ פִֽיךָ׃"
+pericope: "[[Mic.7.1 Israel’s Great Misery|Israel’s Great Misery]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 7
+book/chapter: "[[Mic.7|Micah 7]]"
+chronological_order: 629
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0539]]"
+- "[[H9003]]"
+- "[[H7453]]"
+- "[[H0982]]"
+- "[[H0441A]]"
+- "[[H9006]]"
+- "[[H7901G]]"
+- "[[H2436G]]"
+- "[[H9021]]"
+- "[[H8104H]]"
+- "[[H6607]]"
+- "[[H6310G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 7:5**<big><big>[[Mic.7.1 Israel’s Great Misery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Trust ye not in a friend, put ye not confidence in a guide: keep the doors of thy mouth from her that lieth in thy bosom.
 <small><sub>**BSB:**</sub></small>
 Do not rely on a friend; do not trust in a companion. Seal the doors of your mouth from her who lies in your arms.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H0539\|תַּאֲמִ֣ינוּ]] [[H9003\|בְ]][[H7453\|רֵ֔עַ]] [[H0408\|אַֽל]][[H9014\|־]] [[H0982\|תִּבְטְח֖וּ]] [[H9003\|בְּ]][[H0441A\|אַלּ֑וּף]] [[H9006\|מִ]][[H7901G\|שֹּׁכֶ֣בֶת]] [[H2436G\|חֵיקֶ֔]][[H9021\|ךָ]] [[H8104H\|שְׁמֹ֖ר]] [[H6607\|פִּתְחֵי]][[H9014\|־]] [[H6310G\|פִֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESPONDENCY|DESPONDENCY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.4|<< Micah 7:4]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.6|Micah 7:6 >>]]</td></tr></table>
 

@@ -1,8 +1,78 @@
+---
+title: Jeremiah 52:20
+type: Verse
+kjv: "The two pillars, one sea, and twelve brasen bulls that were under the bases, which king Solomon had made in the house of the LORD: the brass of all these vessels was without weight."
+bsb: "As for the two pillars, the Sea, the twelve bronze bulls under it, and the movable stands that King Solomon had made for the house of the LORD, the weight of the bronze from all these articles was beyond measure."
+hebrew: "הָעַמּוּדִ֣ים׀ שְׁנַ֗יִם הַיָּ֤ם אֶחָד֙ וְהַבָּקָ֞ר שְׁנֵים־ עָשָׂ֤ר נְחֹ֙שֶׁת֙ אֲשֶׁר־ תַּ֣חַת הַמְּכֹנ֔וֹת אֲשֶׁ֥ר עָשָׂ֛ה הַמֶּ֥לֶךְ שְׁלֹמֹ֖ה לְבֵ֣ית יְהוָ֑ה לֹא־ הָיָ֣ה מִשְׁקָ֔ל לִנְחֻשְׁתָּ֖ם כָּל־ הַכֵּלִ֥ים הָאֵֽלֶּה׃"
+pericope: "[[Jer.52.12 The Temple Destroyed|The Temple Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 52
+book/chapter: "[[Jer.52|Jeremiah 52]]"
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic LAVER|LAVER]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]"
+- "[[topic PILLAR|PILLAR]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9009]]"
+- "[[H5982G]]"
+- "[[H9015]]"
+- "[[H8147]]"
+- "[[H3220G]]"
+- "[[H0259]]"
+- "[[H9002]]"
+- "[[H1241]]"
+- "[[H9014]]"
+- "[[H6240]]"
+- "[[H5178A]]"
+- "[[H0834A]]"
+- "[[H8478G]]"
+- "[[H4350]]"
+- "[[H6213H]]"
+- "[[H4428G]]"
+- "[[H8010]]"
+- "[[H9005]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H4948]]"
+- "[[H9028]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 52:20**<big><big>[[Jer.52.12 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The two pillars, one sea, and twelve brasen bulls that [were] under the bases, which king Solomon had made in the house of the LORD: the brass of all these vessels was without weight.
 <small><sub>**BSB:**</sub></small>
 As for the two pillars, the Sea, the twelve bronze bulls under it, and the movable stands that King Solomon had made for the house of the LORD, the weight of the bronze from all these articles was beyond measure.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הָ]][[H5982G\|עַמּוּדִ֣ים]][[H9015\|׀]] [[H8147\|שְׁנַ֗יִם]] [[H9009\|הַ]][[H3220G\|יָּ֤ם]] [[H0259\|אֶחָד֙]] [[H9002\|וְ]][[H9009\|הַ]][[H1241\|בָּקָ֞ר]] [[H8147\|שְׁנֵים]][[H9014\|־]] [[H6240\|עָשָׂ֤ר]] [[H5178A\|נְחֹ֙שֶׁת֙]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H8478G\|תַּ֣חַת]] [[H9009\|הַ]][[H4350\|מְּכֹנ֔וֹת]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213H\|עָשָׂ֛ה]] [[H9009\|הַ]][[H4428G\|מֶּ֥לֶךְ]] [[H8010\|שְׁלֹמֹ֖ה]] [[H9005\|לְ]][[H1004Q\|בֵ֣ית]] [[H3068G\|יְהוָ֑ה]] [[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָיָ֣ה]] [[H4948\|מִשְׁקָ֔ל]] [[H9005\|לִ]][[H5178A\|נְחֻשְׁתָּ֖]][[H9028\|ם]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3627\|כֵּלִ֥ים]] [[H9009\|הָ]][[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BULLOCK|BULLOCK]] • [[topic JERUSALEM|JERUSALEM]] • [[topic LAVER|LAVER]] • [[topic MONTH|MONTH]] • [[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]] • [[topic PILLAR|PILLAR]] • [[topic SOLOMON|SOLOMON]] • [[topic TEMPLE|TEMPLE]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.19|<< Jeremiah 52:19]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.21|Jeremiah 52:21 >>]]</td></tr></table>
 

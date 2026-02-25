@@ -1,8 +1,60 @@
+---
+title: 1 Samuel 14:9
+type: Verse
+kjv: "If they say thus unto us, Tarry until we come to you; then we will stand still in our place, and will not go up unto them."
+bsb: "If they say, ‘Wait until we come to you,’ then we will stay where we are and will not go up to them."
+hebrew: "אִם־ כֹּ֤ה יֹֽאמְרוּ֙ אֵלֵ֔ינוּ דֹּ֕מּוּ עַד־ הַגִּיעֵ֖נוּ אֲלֵיכֶ֑ם וְעָמַ֣דְנוּ תַחְתֵּ֔ינוּ וְלֹ֥א נַעֲלֶ֖ה אֲלֵיהֶֽם׃"
+pericope: "[[1Sam.14.1 Jonathan’s Victory over the Philistines|Jonathan’s Victory over the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9035]]"
+- "[[H1826A]]"
+- "[[H5704]]"
+- "[[H5060]]"
+- "[[H9045]]"
+- "[[H9036]]"
+- "[[H9001]]"
+- "[[H5975G]]"
+- "[[H8478I]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5927G]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 14:9**<big><big>[[1Sam.14.1 Jonathan’s Victory over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If they say thus unto us, Tarry until we come to you; then we will stand still in our place, and will not go up unto them.
 <small><sub>**BSB:**</sub></small>
 If they say, ‘Wait until we come to you,’ then we will stay where we are and will not go up to them.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H3541\|כֹּ֤ה]] [[H0559\|יֹֽאמְרוּ֙]] [[H0413\|אֵלֵ֔י]][[H9035\|נוּ]] [[H1826A\|דֹּ֕מּוּ]] [[H5704\|עַד]][[H9014\|־]] [[H5060\|הַגִּיעֵ֖]][[H9045\|נוּ]] [[H0413\|אֲלֵי]][[H9036\|כֶ֑ם]] [[H9001\|וְ]][[H5975G\|עָמַ֣דְנוּ]] [[H8478I\|תַחְתֵּ֔י]][[H9035\|נוּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5927G\|נַעֲלֶ֖ה]] [[H0413\|אֲלֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONATHAN|JONATHAN]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.8|<< 1 Samuel 14:8]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.10|1 Samuel 14:10 >>]]</td></tr></table>
 

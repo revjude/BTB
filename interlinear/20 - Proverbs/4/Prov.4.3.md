@@ -1,8 +1,54 @@
+---
+title: Proverbs 4:3
+type: Verse
+kjv: "For I was my father’s son, tender and only beloved in the sight of my mother."
+bsb: "When I was a son to my father, tender and the only child of my mother,"
+hebrew: "כִּי־ בֵ֭ן הָיִ֣יתִי לְאָבִ֑י רַ֥ךְ וְ֝יָחִ֗יד לִפְנֵ֥י אִמִּֽי׃"
+pericope: "[[Prov.4.1 A Father’s Instruction|A Father’s Instruction]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 4
+book/chapter: "[[Prov.4|Proverbs 4]]"
+chronological_order: 459
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H7390]]"
+- "[[H9002]]"
+- "[[H3173]]"
+- "[[H6440H]]"
+- "[[H0517]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 4:3**<big><big>[[Prov.4.1 A Father’s Instruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I was my father’s son, tender and only [beloved] in the sight of my mother.
 <small><sub>**BSB:**</sub></small>
 When I was a son to my father, tender and the only child of my mother,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H1121A\|בֵ֭ן]] [[H1961\|הָיִ֣יתִי]] [[H9005\|לְ]][[H0001G\|אָבִ֑]][[H9020\|י]] [[H7390\|רַ֥ךְ]] [[H9002\|וְ֝]][[H3173\|יָחִ֗יד]] [[H9005\|לִ]][[H6440H\|פְנֵ֥י]] [[H0517\|אִמִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.2|<< Proverbs 4:2]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.4|Proverbs 4:4 >>]]</td></tr></table>
 

@@ -1,8 +1,76 @@
+---
+title: Exodus 7:20
+type: Verse
+kjv: "And Moses and Aaron did so, as the LORD commanded; and he lifted up the rod, and smote the waters that were in the river, in the sight of Pharaoh, and in the sight of his servants; and all the waters that were in the river were turned to blood."
+bsb: "Moses and Aaron did just as the LORD had commanded; in the presence of Pharaoh and his officials, Aaron raised the staff and struck the water of the Nile, and all the water was turned to blood."
+hebrew: "וַיַּֽעֲשׂוּ־ כֵן֩ מֹשֶׁ֨ה וְאַהֲרֹ֜ן כַּאֲשֶׁ֣ר׀ צִוָּ֣ה יְהוָ֗ה וַיָּ֤רֶם בַּמַּטֶּה֙ וַיַּ֤ךְ אֶת־ הַמַּ֙יִם֙ אֲשֶׁ֣ר בַּיְאֹ֔ר לְעֵינֵ֣י פַרְעֹ֔ה וּלְעֵינֵ֖י עֲבָדָ֑יו וַיֵּהָֽפְכ֛וּ כָּל־ הַמַּ֥יִם אֲשֶׁר־ בַּיְאֹ֖ר לְדָֽם׃"
+pericope: "[[Exod.7.14 The First Plague：Blood|The First Plague：Blood]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 7
+book/chapter: "[[Exod.7|Exodus 7]]"
+chronological_order: 99
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9015]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H7311A]]"
+- "[[H9003]]"
+- "[[H4294G]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H4325G]]"
+- "[[H0834A]]"
+- "[[H2975G]]"
+- "[[H9005]]"
+- "[[H5869H]]"
+- "[[H6547J]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H2015]]"
+- "[[H3605]]"
+- "[[H1818]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 7:20**<big><big>[[Exod.7.14 The First Plague：Blood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses and Aaron did so, as the LORD commanded; and he lifted up the rod, and smote the waters that [were] in the river, in the sight of Pharaoh, and in the sight of his servants; and all the waters that [were] in the river were turned to blood.
 <small><sub>**BSB:**</sub></small>
 Moses and Aaron did just as the LORD had commanded; in the presence of Pharaoh and his officials, Aaron raised the staff and struck the water of the Nile, and all the water was turned to blood.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּֽעֲשׂוּ]][[H9014\|־]] [[H3651C\|כֵן֩]] [[H4872\|מֹשֶׁ֨ה]] [[H9002\|וְ]][[H0175\|אַהֲרֹ֜ן]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]][[H9015\|׀]] [[H6680\|צִוָּ֣ה]] [[H3068G\|יְהוָ֗ה]] [[H9001\|וַ]][[H7311A\|יָּ֤רֶם]] [[H9003\|בַּ]][[H4294G\|מַּטֶּה֙]] [[H9001\|וַ]][[H5221\|יַּ֤ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4325G\|מַּ֙יִם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בַּ]][[H2975G\|יְאֹ֔ר]] [[H9005\|לְ]][[H5869H\|עֵינֵ֣י]] [[H6547J\|פַרְעֹ֔ה]] [[H9002\|וּ]][[H9005\|לְ]][[H5869H\|עֵינֵ֖י]] [[H5650\|עֲבָדָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H2015\|יֵּהָֽפְכ֛וּ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4325G\|מַּ֥יִם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בַּ]][[H2975G\|יְאֹ֖ר]] [[H9005\|לְ]][[H1818\|דָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.19|<< Exodus 7:19]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.21|Exodus 7:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

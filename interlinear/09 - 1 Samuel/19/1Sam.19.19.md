@@ -1,8 +1,54 @@
+---
+title: 1 Samuel 19:19
+type: Verse
+kjv: "And it was told Saul, saying, Behold, David is at Naioth in Ramah."
+bsb: "When Saul was told that David was at Naioth in Ramah,"
+hebrew: "וַיֻּגַּ֥ד לְשָׁא֖וּל לֵאמֹ֑ר הִנֵּ֣ה דָוִ֔ד בְּנָי֖וֹת בָּרָמָֽה׃"
+pericope: "[[1Sam.19.1 Saul Tries to Kill David|Saul Tries to Kill David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 19
+book/chapter: "[[1Sam.19|1 Samuel 19]]"
+chronological_order: 298
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic NAIOTH|NAIOTH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H7586G]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H1732]]"
+- "[[H9003]]"
+- "[[H5121]]"
+- "[[H7414J]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **1 Samuel 19:19**<big><big>[[1Sam.19.1 Saul Tries to Kill David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was told Saul, saying, Behold, David [is] at Naioth in Ramah.
 <small><sub>**BSB:**</sub></small>
 When Saul was told that David was at Naioth in Ramah,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5046\|יֻּגַּ֥ד]] [[H9005\|לְ]][[H7586G\|שָׁא֖וּל]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H2009\|הִנֵּ֣ה]] [[H1732\|דָוִ֔ד]] [[H9003\|בְּ]][[H5121\|נָי֖וֹת]] [[H9003\|בָּ]][[H7414J\|רָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic JEALOUSY|JEALOUSY]] • [[topic NAIOTH|NAIOTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.19.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.18|<< 1 Samuel 19:18]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.20|1 Samuel 19:20 >>]]</td></tr></table>
 

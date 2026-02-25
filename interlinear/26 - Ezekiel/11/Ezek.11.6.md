@@ -1,8 +1,59 @@
+---
+title: Ezekiel 11:6
+type: Verse
+kjv: "Ye have multiplied your slain in this city, and ye have filled the streets thereof with the slain."
+bsb: "You have multiplied those you killed in this city and filled its streets with the dead."
+hebrew: "הִרְבֵּיתֶ֥ם חַלְלֵיכֶ֖ם בָּעִ֣יר הַזֹּ֑את וּמִלֵּאתֶ֥ם חוּצֹתֶ֖יהָ חָלָֽל׃ פ"
+pericope: "[[Ezek.11.1 Evil in High Places|Evil in High Places]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 11
+book/chapter: "[[Ezek.11|Ezekiel 11]]"
+chronological_order: 802
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CALDRON|CALDRON]]"
+- "[[topic JAAZANIAH|JAAZANIAH]]"
+- "[[topic PELATIAH|PELATIAH]]"
+strongs:
+- "[[H7235A]]"
+- "[[H2491A]]"
+- "[[H9026]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H9009]]"
+- "[[H2063]]"
+- "[[H9001]]"
+- "[[H4390]]"
+- "[[H2351]]"
+- "[[H9024]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezekiel 11:6**<big><big>[[Ezek.11.1 Evil in High Places|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye have multiplied your slain in this city, and ye have filled the streets thereof with the slain.
 <small><sub>**BSB:**</sub></small>
 You have multiplied those you killed in this city and filled its streets with the dead.
+<small><sub>**Hebrew:**</sub></small>
+[[H7235A\|הִרְבֵּיתֶ֥ם]] [[H2491A\|חַלְלֵי]][[H9026\|כֶ֖ם]] [[H9003\|בָּ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H9001\|וּ]][[H4390\|מִלֵּאתֶ֥ם]] [[H2351\|חוּצֹתֶ֖י]][[H9024\|הָ]] [[H2491A\|חָלָֽל]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CALDRON|CALDRON]] • [[topic JAAZANIAH|JAAZANIAH]] • [[topic PELATIAH|PELATIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.11.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.5|<< Ezekiel 11:5]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.7|Ezekiel 11:7 >>]]</td></tr></table>
 
@@ -14,7 +65,7 @@ You have multiplied those you killed in this city and filled its streets with th
 | \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2063\|זֹּ֑את]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you have filled  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H4390\|מִלֵּאתֶ֥ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> mi.le.Tem<small><sup>[[HVpq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | streets its  |**<big>&#8207;[[H2351\|חוּצֹתֶ֖י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| chu.tzo.Tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] slain  |**<big>&#8207;[[H2491A\|חָלָֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| cha.Lal<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] slain  |**<big>&#8207;[[H2491A\|חָלָֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| cha.Lal<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.5|<< Ezekiel 11:5]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.7|Ezekiel 11:7 >>]]</td></tr></table>
 
 

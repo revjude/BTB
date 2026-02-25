@@ -1,8 +1,54 @@
+---
+title: Isaiah 35:3
+type: Verse
+kjv: "Strengthen ye the weak hands, and confirm the feeble knees."
+bsb: "Strengthen the limp hands and steady the feeble knees!"
+hebrew: "חַזְּק֖וּ יָדַ֣יִם רָפ֑וֹת וּבִרְכַּ֥יִם כֹּשְׁל֖וֹת אַמֵּֽצוּ׃"
+pericope: "[[Isa.35.1 The Glory of Zion|The Glory of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 35
+book/chapter: "[[Isa.35|Isaiah 35]]"
+chronological_order: 678
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H2388G]]"
+- "[[H3027G]]"
+- "[[H7504]]"
+- "[[H9002]]"
+- "[[H1290]]"
+- "[[H3782]]"
+- "[[H0553]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 35:3**<big><big>[[Isa.35.1 The Glory of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Strengthen ye the weak hands, and confirm the feeble knees.
 <small><sub>**BSB:**</sub></small>
 Strengthen the limp hands and steady the feeble knees!
+<small><sub>**Hebrew:**</sub></small>
+[[H2388G\|חַזְּק֖וּ]] [[H3027G\|יָדַ֣יִם]] [[H7504\|רָפ֑וֹת]] [[H9002\|וּ]][[H1290\|בִרְכַּ֥יִם]] [[H3782\|כֹּשְׁל֖וֹת]] [[H0553\|אַמֵּֽצוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic FAITH|FAITH]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.35.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.35.2|<< Isaiah 35:2]]</td><td align="center" style="border:none;">[[Isa.35|Isaiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.35.4|Isaiah 35:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

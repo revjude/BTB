@@ -1,10 +1,60 @@
+---
+title: Mark 1:17
+type: Verse
+kjv: "And Jesus said unto them, Come ye after me, and I will make you to become fishers of men."
+bsb: "“Come, follow Me,” Jesus said, “and I will make you fishers of men.”"
+jesus_said: "Come ye after me, and I will make you to become fishers of men."
+greek: "καὶ εἶπεν αὐτοῖς ὁ Ἰησοῦς· δεῦτε ὀπίσω μου, καὶ ποιήσω ὑμᾶς γενέσθαι ἁλιεῖς ἀνθρώπων."
+pericope: "[[Mark.1.16 The First Disciples|The First Disciples]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 1
+book/chapter: "[[Mark.1|Mark 1]]"
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1205]]"
+- "[[G3694]]"
+- "[[G3165]]"
+- "[[G4160G]]"
+- "[[G4771]]"
+- "[[G1096]]"
+- "[[G0231]]"
+- "[[G0444]]"
+texts:
+- NKO
+---
+
 **Mark 1:17**<big><big>[[Mark.1.16 The First Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus said unto them, Come ye after me, and I will make you to become fishers of men.
 <small><sub>**BSB:**</sub></small>
 “Come, follow Me,” Jesus said, “and I will make you fishers of men.”
-<small><sub>**Literal:**</sub></small>
-And said to them <the> Jesus; Come after Me, and I will make you to become fishers of men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.16|<< Mark 1:16]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.18|Mark 1:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G1205\|δεῦτε]]  [[G3694\|ὀπίσω]]  [[G3165\|μου,]]  [[G2532\|καὶ]]  [[G4160G\|ποιήσω]]  [[G4771\|ὑμᾶς]]  [[G1096\|γενέσθαι]]  [[G0231\|ἁλιεῖς]]  [[G0444\|ἀνθρώπων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PETER|PETER]] • [[topic SELF-DENIAL|SELF-DENIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.16|<< Mark 1:16]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.18|Mark 1:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

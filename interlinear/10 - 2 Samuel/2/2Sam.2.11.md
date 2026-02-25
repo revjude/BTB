@@ -1,8 +1,67 @@
+---
+title: 2 Samuel 2:11
+type: Verse
+kjv: "And the time that David was king in Hebron over the house of Judah was seven years and six months."
+bsb: "And the length of time that David was king in Hebron over the house of Judah was seven years and six months."
+hebrew: "וַֽיְהִי֙ מִסְפַּ֣ר הַיָּמִ֔ים אֲשֶׁר֩ הָיָ֨ה דָוִ֥ד מֶ֛לֶךְ בְּחֶבְר֖וֹן עַל־ בֵּ֣ית יְהוּדָ֑ה שֶׁ֥בַע שָׁנִ֖ים וְשִׁשָּׁ֥ה חֳדָשִֽׁים׃ ס"
+pericope: "[[2Sam.2.8 Ish-bosheth Made King of Israel|Ish-bosheth Made King of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 2
+book/chapter: "[[2Sam.2|2 Samuel 2]]"
+chronological_order: 330
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABNER|ABNER]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic MAHANAIM|MAHANAIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H4557]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0834A]]"
+- "[[H1732]]"
+- "[[H4428G]]"
+- "[[H9003]]"
+- "[[H2275A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H3063G]]"
+- "[[H7651]]"
+- "[[H8141]]"
+- "[[H9002]]"
+- "[[H8337]]"
+- "[[H2320G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Samuel 2:11**<big><big>[[2Sam.2.8 Ish-bosheth Made King of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the time that David was king in Hebron over the house of Judah was seven years and six months.
 <small><sub>**BSB:**</sub></small>
 And the length of time that David was king in Hebron over the house of Judah was seven years and six months.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H4557\|מִסְפַּ֣ר]] [[H9009\|הַ]][[H3117G\|יָּמִ֔ים]] [[H0834A\|אֲשֶׁר֩]] [[H1961\|הָיָ֨ה]] [[H1732\|דָוִ֥ד]] [[H4428G\|מֶ֛לֶךְ]] [[H9003\|בְּ]][[H2275A\|חֶבְר֖וֹן]] [[H5921A\|עַל]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H3063G\|יְהוּדָ֑ה]] [[H7651\|שֶׁ֥בַע]] [[H8141\|שָׁנִ֖ים]] [[H9002\|וְ]][[H8337\|שִׁשָּׁ֥ה]] [[H2320G\|חֳדָשִֽׁים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]] • [[topic DAVID|DAVID]] • [[topic HEBRON|HEBRON]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDAH|JUDAH]] • [[topic MAHANAIM|MAHANAIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.10|<< 2 Samuel 2:10]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.12|2 Samuel 2:12 >>]]</td></tr></table>
 
@@ -22,7 +81,7 @@ And the length of time that David was king in Hebron over the house of Judah was
 | seven  |**<big>&#8207;[[H7651\|שֶׁ֥בַע]]&#8207; </big>**| She.va'<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | years  |**<big>&#8207;[[H8141\|שָׁנִ֖ים]]&#8207; </big>**| sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and six  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8337\|שִׁשָּׁ֥ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shi.Shah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| months  |**<big>&#8207;[[H2320G\|חֳדָשִֽׁים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| cho.da.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| months  |**<big>&#8207;[[H2320G\|חֳדָשִֽׁים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| cho.da.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.10|<< 2 Samuel 2:10]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.12|2 Samuel 2:12 >>]]</td></tr></table>
 
 

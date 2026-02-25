@@ -1,10 +1,65 @@
+---
+title: Hebrews 3:13
+type: Verse
+kjv: "But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin."
+bsb: "But exhort one another daily, as long as it is called today, so that none of you may be hardened by sin’s deceitfulness."
+greek: "ἀλλὰ παρακαλεῖτε ἑαυτοὺς καθ᾽ ἑκάστην ἡμέραν ἄχρις οὗ τὸ σήμερον καλεῖται ἵνα μὴ σκληρυνθῇ τις ἐξ ὑμῶν ἀπάτῃ τῆς ἁμαρτίας·"
+pericope: "[[Heb.3.12 The Peril of Unbelief|The Peril of Unbelief]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 3
+book/chapter: "[[Heb.3|Hebrews 3]]"
+chronological_order: 1142
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G0235]]"
+- "[[G3870]]"
+- "[[G1438]]"
+- "[[G2596]]"
+- "[[G1538]]"
+- "[[G2250]]"
+- "[[G0891]]"
+- "[[G3739]]"
+- "[[G3588]]"
+- "[[G4594]]"
+- "[[G2564G]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G4645]]"
+- "[[G5100]]"
+- "[[G1537]]"
+- "[[G4771]]"
+- "[[G0539]]"
+- "[[G0266]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Hebrews 3:13**<big><big>[[Heb.3.12 The Peril of Unbelief|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin.
 <small><sub>**BSB:**</sub></small>
 But exhort one another daily, as long as it is called today, so that none of you may be hardened by sin’s deceitfulness.
-<small><sub>**Literal:**</sub></small>
-But do encourage each other each every day while this <the> today it is called so that not may be hardened one of you by [the] deceitfulness <the> of sin;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.12|<< Hebrews 3:12]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.14|Hebrews 3:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλὰ]]  [[G3870\|παρακαλεῖτε]]  [[G1438\|ἑαυτοὺς]]  [[G2596\|καθ᾽]]  [[G1538\|ἑκάστην]]  [[G2250\|ἡμέραν]]  [[G0891\|ἄχρις]]  [[G3739\|οὗ]]  [[G3588\|τὸ]]  [[G4594\|σήμερον]]  [[G2564G\|καλεῖται]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G4645\|σκληρυνθῇ]]  [[G5100\|τις]]  [[G1537\|ἐξ]]  [[G4771\|ὑμῶν]]  [[G0539\|ἀπάτῃ]]  [[G3588\|τῆς]]  [[G0266\|ἁμαρτίας·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic COMMUNION|COMMUNION]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic PROCRASTINATION|PROCRASTINATION]] • [[topic REPROOF|REPROOF]] • [[topic SIN|SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.12|<< Hebrews 3:12]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.14|Hebrews 3:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

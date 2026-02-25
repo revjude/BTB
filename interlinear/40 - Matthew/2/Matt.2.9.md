@@ -1,10 +1,67 @@
+---
+title: Matthew 2:9
+type: Verse
+kjv: "When they had heard the king, they departed; and, lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was."
+bsb: "After they had heard the king, they went on their way, and the star they had seen in the east went ahead of them until it stood over the place where the Child was."
+greek: "Οἱ δὲ ἀκούσαντες τοῦ βασιλέως ἐπορεύθησαν. καὶ ἰδοὺ ὁ ἀστὴρ ὃν εἶδον ἐν τῇ ἀνατολῇ προῆγεν αὐτοὺς ἕως ἐλθὼν ἐστάθη ἐπάνω οὗ ἦν τὸ παιδίον."
+pericope: "[[Matt.2.1 The Pilgrimage of the Magi|The Pilgrimage of the Magi]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 2
+book/chapter: "[[Matt.2|Matthew 2]]"
+chronological_order: 932
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MAGI|MAGI]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WISE MEN|WISE MEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0191]]"
+- "[[G0935]]"
+- "[[G4198]]"
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G0792]]"
+- "[[G3739]]"
+- "[[G1492H]]"
+- "[[G1722]]"
+- "[[G0395]]"
+- "[[G4254]]"
+- "[[G0846]]"
+- "[[G2193]]"
+- "[[G2064]]"
+- "[[G2476]]"
+- "[[G1883]]"
+- "[[G3757]]"
+- "[[G1510]]"
+- "[[G3813]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 2:9**<big><big>[[Matt.2.1 The Pilgrimage of the Magi|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When they had heard the king, they departed; and, lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was.
 <small><sub>**BSB:**</sub></small>
 After they had heard the king, they went on their way, and the star they had seen in the east went ahead of them until it stood over the place where the Child was.
-<small><sub>**Literal:**</sub></small>
-<the> And having heard the king they went away. and behold the star which they saw in the east was going before them until having arrived it was stood over where was the Child.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.8|<< Matthew 2:8]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.10|Matthew 2:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Οἱ]]  [[G1161\|δὲ]]  [[G0191\|ἀκούσαντες]]  [[G3588\|τοῦ]]  [[G0935\|βασιλέως]]  [[G4198\|ἐπορεύθησαν.]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G3588\|ὁ]]  [[G0792\|ἀστὴρ]]  [[G3739\|ὃν]]  [[G1492H\|εἶδον]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0395\|ἀνατολῇ]]  [[G4254\|προῆγεν]]  [[G0846\|αὐτοὺς]]  [[G2193\|ἕως]]  [[G2064\|ἐλθὼν]]  [[G2476\|ἐστάθη]]  [[G1883\|ἐπάνω]]  [[G3757\|οὗ]]  [[G1510\|ἦν]]  [[G3588\|τὸ]]  [[G3813\|παιδίον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEATHEN|HEATHEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MAGI|MAGI]] • [[topic MIRACLES|MIRACLES]] • [[topic WISDOM|WISDOM]] • [[topic WISE MEN|WISE MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.8|<< Matthew 2:8]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.10|Matthew 2:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

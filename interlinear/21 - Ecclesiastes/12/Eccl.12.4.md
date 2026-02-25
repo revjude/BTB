@@ -1,8 +1,61 @@
+---
+title: Ecclesiastes 12:4
+type: Verse
+kjv: "And the doors shall be shut in the streets, when the sound of the grinding is low, and he shall rise up at the voice of the bird, and all the daughters of musick shall be brought low;"
+bsb: "when the doors to the street are shut and the sound of the mill fades away, when one rises at the sound of a bird and all the daughters of song grow faint,"
+hebrew: "וְסֻגְּר֤וּ דְלָתַ֙יִם֙ בַּשּׁ֔וּק בִּשְׁפַ֖ל ק֣וֹל הַֽטַּחֲנָ֑ה וְיָקוּם֙ לְק֣וֹל הַצִּפּ֔וֹר וְיִשַּׁ֖חוּ כָּל־ בְּנ֥וֹת הַשִּֽׁיר׃"
+pericope: "[[Eccl.12.1 Remember Your Creator|Remember Your Creator]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 12
+book/chapter: "[[Eccl.12|Ecclesiastes 12]]"
+chronological_order: 550
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic OLD AGE|OLD AGE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H5462]]"
+- "[[H1817C]]"
+- "[[H9003]]"
+- "[[H7784]]"
+- "[[H8213]]"
+- "[[H6963H]]"
+- "[[H9009]]"
+- "[[H2913]]"
+- "[[H9002]]"
+- "[[H6965B]]"
+- "[[H9005]]"
+- "[[H6833]]"
+- "[[H7817]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1323G]]"
+- "[[H7892A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 12:4**<big><big>[[Eccl.12.1 Remember Your Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the doors shall be shut in the streets, when the sound of the grinding is low, and he shall rise up at the voice of the bird, and all the daughters of musick shall be brought low;
 <small><sub>**BSB:**</sub></small>
 when the doors to the street are shut and the sound of the mill fades away, when one rises at the sound of a bird and all the daughters of song grow faint,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5462\|סֻגְּר֤וּ]] [[H1817C\|דְלָתַ֙יִם֙]] [[H9003\|בַּ]][[H7784\|שּׁ֔וּק]] [[H9003\|בִּ]][[H8213\|שְׁפַ֖ל]] [[H6963H\|ק֣וֹל]] [[H9009\|הַֽ]][[H2913\|טַּחֲנָ֑ה]] [[H9002\|וְ]][[H6965B\|יָקוּם֙]] [[H9005\|לְ]][[H6963H\|ק֣וֹל]] [[H9009\|הַ]][[H6833\|צִּפּ֔וֹר]] [[H9002\|וְ]][[H7817\|יִשַּׁ֖חוּ]] [[H3605\|כָּל]][[H9014\|־]] [[H1323G\|בְּנ֥וֹת]] [[H9009\|הַ]][[H7892A\|שִּֽׁיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRDS|BIRDS]] • [[topic OLD AGE|OLD AGE]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.12.3|<< Ecclesiastes 12:3]]</td><td align="center" style="border:none;">[[Eccl.12|Ecclesiastes 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.12.5|Ecclesiastes 12:5 >>]]</td></tr></table>
 

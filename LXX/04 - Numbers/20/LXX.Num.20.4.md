@@ -1,6 +1,58 @@
+---
+title: LXX Numbers 20:4
+type: Verse
+lxx: "And why did you lead the congregation of the lord into  this wilderness, to kill us, and  our cattle?"
+greek: "και ινατί ανηγάγετε την συναγωγήν κυρίου εις την έρημον ταύτην αποκτείναι ημάς και τα κτήνη ημών"
+original_language: Greek
+testament: Old
+book: Numbers
+chapter: 20
+book/chapter: "[[Num.20|Numbers 20]]"
+chronological_order: 180
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2444]]"
+- "[[G0321]]"
+- "[[G3588]]"
+- "[[G4864]]"
+- "[[G2962]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2048]]"
+- "[[G3778]]"
+- "[[G0615]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2934]]"
+- "[[G1473]]"
+---
+
 **LXX Numbers 20:4** 
 <small><sub>**LXX:**</sub></small>
 And why did you lead the congregation of \[the\] <span class="smallcaps">lord</span> into  this wilderness, to kill us, and  our cattle? 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2444\|ινατί]] [[G0321\|ανηγάγετε]] [[G3588\|την]] [[G4864\|συναγωγήν]] [[G2962\|κυρίου]] [[G1519\|εις]] [[G3588\|την]] [[G2048\|έρημον]] [[G3778\|ταύτην]] [[G0615\|αποκτείναι]] [[G1473\|ημάς]] [[G2532\|και]] [[G3588\|τα]] [[G2934\|κτήνη]] [[G1473\|ημών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic MURMURING|MURMURING]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Num.20.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.3|<< Numbers 20:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.5|Numbers 20:5 >>]]</td></tr></table>
 
@@ -20,6 +72,6 @@ And why did you lead the congregation of \[the\] <span class="smallcaps">lord</s
 | and | **<big>[[G2532\|και]]</big>** |
 | \<obj.> | **<big>[[G3588\|τα]]</big>** |
 | our cattle? | **<big>[[G2934\|κτήνη]]</big>** **<big>[[G1473\|ημών]]</big>** |
-[[Num.20.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.3|<< Numbers 20:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.5|Numbers 20:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.3|<< Numbers 20:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.5|Numbers 20:5 >>]]</td></tr></table>
 
 

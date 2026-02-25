@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Abigail Intercedes for Nabal
+type: Pericope
 pericope: "[[1Sam.25.18 Abigail Intercedes for Nabal|Abigail Intercedes for Nabal]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 25
 book/chapter: "[[1Sam.25|1 Samuel 25]]"
-genre:
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 21
 verses:
 - "[[1Sam.25.18]]"
 - "[[1Sam.25.19]]"
@@ -39,7 +46,7 @@ verses:
 - "[[1Sam.25.38]]"
 ---
 
-[[1Sam.25|1 Samuel 25:18 - 1 Samuel 25:38]]
+<small>[[1Sam.25|1 Samuel 25:18-38]]</small>
 *Abigail Intercedes for Nabal*
 
 [[1Sam.25.18|18]] Then Abigail made haste, and took two hundred loaves, and two bottles of wine, and five sheep ready dressed, and five measures of parched \[corn\], and an hundred clusters of raisins, and two hundred cakes of figs, and laid \[them\] on asses.

@@ -1,8 +1,71 @@
+---
+title: 1 Samuel 10:3
+type: Verse
+kjv: "Then shalt thou go on forward from thence, and thou shalt come to the plain of Tabor, and there shall meet thee three men going up to God to Bethel, one carrying three kids, and another carrying three loaves of bread, and another carrying a bottle of wine:"
+bsb: "Then you will go on from there until you come to the Oak of Tabor. Three men going up to God at Bethel will meet you there, one carrying three young goats, another carrying three loaves of bread, and another carrying a skin of wine."
+hebrew: "וְחָלַפְתָּ֨ מִשָּׁ֜ם וָהָ֗לְאָה וּבָ֙אתָ֙ עַד־ אֵל֣וֹן תָּב֔וֹר וּמְצָא֤וּךָ שָּׁם֙ שְׁלֹשָׁ֣ה אֲנָשִׁ֔ים עֹלִ֥ים אֶל־ הָאֱלֹהִ֖ים בֵּֽית־ אֵ֑ל אֶחָ֞ד נֹשֵׂ֣א׀ שְׁלֹשָׁ֣ה גְדָיִ֗ים וְאֶחָד֙ נֹשֵׂ֗א שְׁלֹ֙שֶׁת֙ כִּכְּר֣וֹת לֶ֔חֶם וְאֶחָ֥ד נֹשֵׂ֖א נֵֽבֶל־ יָֽיִן׃"
+pericope: "[[1Sam.10.1 Samuel Anoints Saul|Samuel Anoints Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 10
+book/chapter: "[[1Sam.10|1 Samuel 10]]"
+chronological_order: 289
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BREAD|BREAD]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TABOR|TABOR]]"
+strongs:
+- "[[H9001]]"
+- "[[H2498]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H9002]]"
+- "[[H1973]]"
+- "[[H0935G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H0436H]]"
+- "[[H8396H]]"
+- "[[H4672]]"
+- "[[H9031]]"
+- "[[H7969]]"
+- "[[H0582]]"
+- "[[H5927G]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H1008G]]"
+- "[[H0259]]"
+- "[[H5375H]]"
+- "[[H9015]]"
+- "[[H1423]]"
+- "[[H3603H]]"
+- "[[H3899H]]"
+- "[[H5035A]]"
+- "[[H3196]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 10:3**<big><big>[[1Sam.10.1 Samuel Anoints Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shalt thou go on forward from thence, and thou shalt come to the plain of Tabor, and there shall meet thee three men going up to God to Bethel, one carrying three kids, and another carrying three loaves of bread, and another carrying a bottle of wine:
 <small><sub>**BSB:**</sub></small>
 Then you will go on from there until you come to the Oak of Tabor. Three men going up to God at Bethel will meet you there, one carrying three young goats, another carrying three loaves of bread, and another carrying a skin of wine.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2498\|חָלַפְתָּ֨]] [[H9006\|מִ]][[H8033G\|שָּׁ֜ם]] [[H9002\|וָ]][[H1973\|הָ֗לְאָה]] [[H9001\|וּ]][[H0935G\|בָ֙אתָ֙]] [[H5704\|עַד]][[H9014\|־]] [[H0436H\|אֵל֣וֹן]] [[H8396H\|תָּב֔וֹר]] [[H9001\|וּ]][[H4672\|מְצָא֤וּ]][[H9031\|ךָ]] [[H8033G\|שָּׁם֙]] [[H7969\|שְׁלֹשָׁ֣ה]] [[H0582\|אֲנָשִׁ֔ים]] [[H5927G\|עֹלִ֥ים]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H1008G\|בֵּֽית]][[H9014\|־]] [[H1008G\|אֵ֑ל]] [[H0259\|אֶחָ֞ד]] [[H5375H\|נֹשֵׂ֣א]][[H9015\|׀]] [[H7969\|שְׁלֹשָׁ֣ה]] [[H1423\|גְדָיִ֗ים]] [[H9002\|וְ]][[H0259\|אֶחָד֙]] [[H5375H\|נֹשֵׂ֗א]] [[H7969\|שְׁלֹ֙שֶׁת֙]] [[H3603H\|כִּכְּר֣וֹת]] [[H3899H\|לֶ֔חֶם]] [[H9002\|וְ]][[H0259\|אֶחָ֥ד]] [[H5375H\|נֹשֵׂ֖א]] [[H5035A\|נֵֽבֶל]][[H9014\|־]] [[H3196\|יָֽיִן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREAD|BREAD]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TABOR|TABOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.10.2|<< 1 Samuel 10:2]]</td><td align="center" style="border:none;">[[1Sam.10|1 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.10.4|1 Samuel 10:4 >>]]</td></tr></table>
 

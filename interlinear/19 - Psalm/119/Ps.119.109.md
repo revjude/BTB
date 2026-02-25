@@ -1,8 +1,56 @@
+---
+title: Psalm 119:109
+type: Verse
+kjv: "My soul is continually in my hand: yet do I not forget thy law."
+bsb: "I constantly take my life in my hands, yet I do not forget Your law."
+hebrew: "נַפְשִׁ֣י בְכַפִּ֣י תָמִ֑יד וְ֝תֽוֹרָתְךָ֗ לֹ֣א שָׁכָֽחְתִּי׃"
+pericope: "[[Ps.119.105 Your Word Is a Lamp to My Feet - NUN|Your Word Is a Lamp to My Feet - NUN]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H5315H]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H3709G]]"
+- "[[H8548]]"
+- "[[H9002]]"
+- "[[H8451]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H7911]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:109**<big><big>[[Ps.119.105 Your Word Is a Lamp to My Feet - NUN|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My soul [is] continually in my hand: yet do I not forget thy law.
 <small><sub>**BSB:**</sub></small>
 I constantly take my life in my hands, yet I do not forget Your law.
+<small><sub>**Hebrew:**</sub></small>
+[[H5315H\|נַפְשִׁ֣]][[H9020\|י]] [[H9003\|בְ]][[H3709G\|כַפִּ֣]][[H9020\|י]] [[H8548\|תָמִ֑יד]] [[H9002\|וְ֝]][[H8451\|תֽוֹרָתְ]][[H9021\|ךָ֗]] [[H3808\|לֹ֣א]] [[H7911\|שָׁכָֽחְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.109|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.108|<< Psalms 119:108]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.110|Psalms 119:110 >>]]</td></tr></table>
 

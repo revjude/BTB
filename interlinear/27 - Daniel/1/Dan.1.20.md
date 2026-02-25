@@ -1,8 +1,72 @@
+---
+title: Daniel 1:20
+type: Verse
+kjv: "And in all matters of wisdom and understanding, that the king inquired of them, he found them ten times better than all the magicians and astrologers that were in all his realm."
+bsb: "In every matter of wisdom and understanding about which the king consulted them, he found them ten times better than all the magicians and enchanters in his entire kingdom."
+hebrew: "וְכֹ֗ל דְּבַר֙ חָכְמַ֣ת בִּינָ֔ה אֲשֶׁר־ בִּקֵּ֥שׁ מֵהֶ֖ם הַמֶּ֑לֶךְ וַֽיִּמְצָאֵ֞ם עֶ֣שֶׂר יָד֗וֹת עַ֤ל כָּל־ הַֽחַרְטֻמִּים֙ הָֽאַשָּׁפִ֔ים אֲשֶׁ֖ר בְּכָל־ מַלְכוּתֽוֹ׃"
+pericope: "[[Dan.1.17 Daniel’s Wisdom|Daniel’s Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 1
+book/chapter: "[[Dan.1|Daniel 1]]"
+chronological_order: 786
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ABED-NEGO|ABED-NEGO]]"
+- "[[topic ASTROLOGY|ASTROLOGY]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic MAGICIAN|MAGICIAN]]"
+- "[[topic MISHAEL|MISHAEL]]"
+- "[[topic SCHOOL|SCHOOL]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H1697I]]"
+- "[[H2451]]"
+- "[[H0998]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1245]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9001]]"
+- "[[H4672]]"
+- "[[H6235]]"
+- "[[H3027L]]"
+- "[[H5921A]]"
+- "[[H2748]]"
+- "[[H0825]]"
+- "[[H9003]]"
+- "[[H4438]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 1:20**<big><big>[[Dan.1.17 Daniel’s Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in all matters of wisdom [and] understanding, that the king inquired of them, he found them ten times better than all the magicians [and] astrologers that [were] in all his realm.
 <small><sub>**BSB:**</sub></small>
 In every matter of wisdom and understanding about which the king consulted them, he found them ten times better than all the magicians and enchanters in his entire kingdom.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כֹ֗ל]] [[H1697I\|דְּבַר֙]] [[H2451\|חָכְמַ֣ת]] [[H0998\|בִּינָ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1245\|בִּקֵּ֥שׁ]] [[H9006\|מֵ]][[H9038\|הֶ֖ם]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9001\|וַֽ]][[H4672\|יִּמְצָאֵ֞]][[H9038\|ם]] [[H6235\|עֶ֣שֶׂר]] [[H3027L\|יָד֗וֹת]] [[H5921A\|עַ֤ל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַֽ]][[H2748\|חַרְטֻמִּים֙]] [[H9009\|הָֽ]][[H0825\|אַשָּׁפִ֔ים]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H4438\|מַלְכוּתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABED-NEGO|ABED-NEGO]] • [[topic ASTROLOGY|ASTROLOGY]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic INTEGRITY|INTEGRITY]] • [[topic MAGICIAN|MAGICIAN]] • [[topic MISHAEL|MISHAEL]] • [[topic SCHOOL|SCHOOL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.1.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.1.19|<< Daniel 1:19]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.21|Daniel 1:21 >>]]</td></tr></table>
 

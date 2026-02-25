@@ -1,10 +1,52 @@
+---
+title: Luke 22:7
+type: Verse
+kjv: "Then came the day of unleavened bread, when the passover must be killed."
+bsb: "Then came the day of Unleavened Bread on which the Passover lamb was to be sacrificed."
+greek: "Ἦλθεν δὲ ἡ ἡμέρα τῶν ἀζύμων ἐν ᾗ ἔδει θύεσθαι τὸ πάσχα."
+pericope: "[[Luke.22.7 Preparing the Passover|Preparing the Passover]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[G2064]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G0106]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G1163]]"
+- "[[G2380]]"
+- "[[G3957]]"
+texts:
+- NKO
+---
+
 **Luke 22:7**<big><big>[[Luke.22.7 Preparing the Passover|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then came the day of unleavened bread, when the passover must be killed.
 <small><sub>**BSB:**</sub></small>
 Then came the day of Unleavened Bread on which the Passover lamb was to be sacrificed.
-<small><sub>**Literal:**</sub></small>
-Came then the day <the> of Unleavened [Bread] on which it was necessary for to be sacrificed the Passover lamb.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.6|<< Luke 22:6]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.8|Luke 22:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|Ἦλθεν]]  [[G1161\|δὲ]]  [[G3588\|ἡ]]  [[G2250\|ἡμέρα]]  [[G3588\|τῶν]]  [[G0106\|ἀζύμων]]  [[G1722\|ἐν]]  [[G3739\|ᾗ]]  [[G1163\|ἔδει]]  [[G2380\|θύεσθαι]]  [[G3588\|τὸ]]  [[G3957\|πάσχα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PASSOVER|PASSOVER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.6|<< Luke 22:6]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.8|Luke 22:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

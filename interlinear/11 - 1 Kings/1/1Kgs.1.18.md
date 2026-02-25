@@ -1,8 +1,59 @@
+---
+title: 1 Kings 1:18
+type: Verse
+kjv: "And now, behold, Adonijah reigneth; and now, my lord the king, thou knowest it not:"
+bsb: "But now, behold, Adonijah has become king, and you, my lord the king, do not know it."
+hebrew: "וְעַתָּ֕ה הִנֵּ֥ה אֲדֹנִיָּ֖ה מָלָ֑ךְ וְעַתָּ֛ה אֲדֹנִ֥י הַמֶּ֖לֶךְ לֹ֥א יָדָֽעְתָּ׃"
+pericope: "[[1Kgs.1.11 Nathan and Bathsheba before David|Nathan and Bathsheba before David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BATH-SHEBA (BATHSHEBA)|BATH-SHEBA (BATHSHEBA)]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PETITION|PETITION]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H2009]]"
+- "[[H0138G]]"
+- "[[H4427A]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:18**<big><big>[[1Kgs.1.11 Nathan and Bathsheba before David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now, behold, Adonijah reigneth; and now, my lord the king, thou knowest [it] not:
 <small><sub>**BSB:**</sub></small>
 But now, behold, Adonijah has become king, and you, my lord the king, do not know it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֕ה]] [[H2009\|הִנֵּ֥ה]] [[H0138G\|אֲדֹנִיָּ֖ה]] [[H4427A\|מָלָ֑ךְ]] [[H9002\|וְ]][[H6258\|עַתָּ֛ה]] [[H0113\|אֲדֹנִ֥]][[H9020\|י]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H3808\|לֹ֥א]] [[H3045\|יָדָֽעְתָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BATH-SHEBA (BATHSHEBA)|BATH-SHEBA (BATHSHEBA)]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PETITION|PETITION]] • [[topic POLITICS|POLITICS]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.17|<< 1 Kings 1:17]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.19|1 Kings 1:19 >>]]</td></tr></table>
 

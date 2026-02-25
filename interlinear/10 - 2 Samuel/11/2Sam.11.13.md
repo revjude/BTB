@@ -1,8 +1,71 @@
+---
+title: 2 Samuel 11:13
+type: Verse
+kjv: "And when David had called him, he did eat and drink before him; and he made him drunk: and at even he went out to lie on his bed with the servants of his lord, but went not down to his house."
+bsb: "Then David invited Uriah to eat and drink with him, and he got Uriah drunk. And in the evening Uriah went out to lie down on his cot with his master’s servants, but he did not go home."
+hebrew: "וַיִּקְרָא־ ל֣וֹ דָוִ֗ד וַיֹּ֧אכַל לְפָנָ֛יו וַיֵּ֖שְׁתְּ וַֽיְשַׁכְּרֵ֑הוּ וַיֵּצֵ֣א בָעֶ֗רֶב לִשְׁכַּ֤ב בְּמִשְׁכָּבוֹ֙ עִם־ עַבְדֵ֣י אֲדֹנָ֔יו וְאֶל־ בֵּית֖וֹ לֹ֥א יָרָֽד׃"
+pericope: "[[2Sam.11.1 David and Bathsheba|David and Bathsheba]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 11
+book/chapter: "[[2Sam.11|2 Samuel 11]]"
+chronological_order: 410
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic URIAH|URIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H1732]]"
+- "[[H0398]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H8354]]"
+- "[[H7937]]"
+- "[[H3318G]]"
+- "[[H9003]]"
+- "[[H6153]]"
+- "[[H7901G]]"
+- "[[H4904]]"
+- "[[H5973A]]"
+- "[[H5650]]"
+- "[[H0113]]"
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H1004B]]"
+- "[[H3808]]"
+- "[[H3381]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 11:13**<big><big>[[2Sam.11.1 David and Bathsheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when David had called him, he did eat and drink before him; and he made him drunk: and at even he went out to lie on his bed with the servants of his lord, but went not down to his house.
 <small><sub>**BSB:**</sub></small>
 Then David invited Uriah to eat and drink with him, and he got Uriah drunk. And in the evening Uriah went out to lie down on his cot with his master’s servants, but he did not go home.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָא]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H1732\|דָוִ֗ד]] [[H9001\|וַ]][[H0398\|יֹּ֧אכַל]] [[H9005\|לְ]][[H6440G\|פָנָ֛י]][[H9023\|ו]] [[H9001\|וַ]][[H8354\|יֵּ֖שְׁתְּ]] [[H9001\|וַֽ]][[H7937\|יְשַׁכְּרֵ֑]][[H9033\|הוּ]] [[H9001\|וַ]][[H3318G\|יֵּצֵ֣א]] [[H9003\|בָ]][[H6153\|עֶ֗רֶב]] [[H9005\|לִ]][[H7901G\|שְׁכַּ֤ב]] [[H9003\|בְּ]][[H4904\|מִשְׁכָּב]][[H9023\|וֹ֙]] [[H5973A\|עִם]][[H9014\|־]] [[H5650\|עַבְדֵ֣י]] [[H0113\|אֲדֹנָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּית֖]][[H9023\|וֹ]] [[H3808\|לֹ֥א]] [[H3381\|יָרָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTINENCE|CONTINENCE]] • [[topic DAVID|DAVID]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic URIAH|URIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.11.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.11.12|<< 2 Samuel 11:12]]</td><td align="center" style="border:none;">[[2Sam.11|2 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.11.14|2 Samuel 11:14 >>]]</td></tr></table>
 

@@ -1,10 +1,62 @@
+---
+title: Luke 8:32
+type: Verse
+kjv: "And there was there an herd of many swine feeding on the mountain: and they besought him that he would suffer them to enter into them. And he suffered them."
+bsb: "There on the hillside a large herd of pigs was feeding. So the demons begged Jesus to let them enter the pigs, and He gave them permission."
+greek: "ἦν δὲ ἐκεῖ ἀγέλη χοίρων ἱκανῶν βοσκομένη ἐν τῷ ὄρει, καὶ παρεκάλεσαν αὐτὸν ἵνα ἐπιτρέψῃ αὐτοῖς εἰς ἐκείνους εἰσελθεῖν. καὶ ἐπέτρεψεν αὐτοῖς."
+pericope: "[[Luke.8.26 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SWINE|SWINE]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G1563]]"
+- "[[G0034]]"
+- "[[G5519]]"
+- "[[G2425]]"
+- "[[G1006]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G2532]]"
+- "[[G3870]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G2010]]"
+- "[[G1519]]"
+- "[[G1565]]"
+- "[[G1525]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 8:32**<big><big>[[Luke.8.26 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there was there an herd of many swine feeding on the mountain: and they besought him that he would suffer them to enter into them. And he suffered them.
 <small><sub>**BSB:**</sub></small>
 There on the hillside a large herd of pigs was feeding. So the demons begged Jesus to let them enter the pigs, and He gave them permission.
-<small><sub>**Literal:**</sub></small>
-There was now there a herd of pigs many feeding in the mountain, and they begged Him that He would allow them into them to enter. and He allowed them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.31|<< Luke 8:31]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.33|Luke 8:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦν]]  [[G1161\|δὲ]]  [[G1563\|ἐκεῖ]]  [[G0034\|ἀγέλη]]  [[G5519\|χοίρων]]  [[G2425\|ἱκανῶν]]  [[G1006\|βοσκομένη]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3735\|ὄρει,]]  [[G2532\|καὶ]]  [[G3870\|παρεκάλεσαν]]  [[G0846\|αὐτὸν]]  [[G2443\|ἵνα]]  [[G2010\|ἐπιτρέψῃ]]  [[G0846\|αὐτοῖς]]  [[G1519\|εἰς]]  [[G1565\|ἐκείνους]]  [[G1525\|εἰσελθεῖν.]]  [[G2532\|καὶ]]  [[G2010\|ἐπέτρεψεν]]  [[G0846\|αὐτοῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SWINE|SWINE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.31|<< Luke 8:31]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.33|Luke 8:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,72 @@
+---
+title: Isaiah 30:26
+type: Verse
+kjv: "Moreover the light of the moon shall be as the light of the sun, and the light of the sun shall be sevenfold, as the light of seven days, in the day that the LORD bindeth up the breach of his people, and healeth the stroke of their wound."
+bsb: "The light of the moon will be as bright as the sun, and the light of the sun will be seven times brighter—like the light of seven days—on the day that the LORD binds up the brokenness of His people and heals the wounds He has inflicted."
+hebrew: "וְהָיָ֤ה אֽוֹר־ הַלְּבָנָה֙ כְּא֣וֹר הַֽחַמָּ֔ה וְא֤וֹר הַֽחַמָּה֙ יִהְיֶ֣ה שִׁבְעָתַ֔יִם כְּא֖וֹר שִׁבְעַ֣ת הַיָּמִ֑ים בְּי֗וֹם חֲבֹ֤שׁ יְהוָה֙ אֶת־ שֶׁ֣בֶר עַמּ֔וֹ וּמַ֥חַץ מַכָּת֖וֹ יִרְפָּֽא׃ ס"
+pericope: "[[Isa.30.18 God Will Be Gracious|God Will Be Gracious]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 30
+book/chapter: "[[Isa.30|Isaiah 30]]"
+chronological_order: 673
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MOON|MOON]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic SUN|SUN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0216]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3842]]"
+- "[[H9004]]"
+- "[[H2535]]"
+- "[[H9002]]"
+- "[[H7659]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H9003]]"
+- "[[H2280]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H7667]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H4273]]"
+- "[[H4347]]"
+- "[[H7495]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 30:26**<big><big>[[Isa.30.18 God Will Be Gracious|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the light of the moon shall be as the light of the sun, and the light of the sun shall be sevenfold, as the light of seven days, in the day that the LORD bindeth up the breach of his people, and healeth the stroke of their wound.
 <small><sub>**BSB:**</sub></small>
 The light of the moon will be as bright as the sun, and the light of the sun will be seven times brighter—like the light of seven days—on the day that the LORD binds up the brokenness of His people and heals the wounds He has inflicted.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֤ה]] [[H0216\|אֽוֹר]][[H9014\|־]] [[H9009\|הַ]][[H3842\|לְּבָנָה֙]] [[H9004\|כְּ]][[H0216\|א֣וֹר]] [[H9009\|הַֽ]][[H2535\|חַמָּ֔ה]] [[H9002\|וְ]][[H0216\|א֤וֹר]] [[H9009\|הַֽ]][[H2535\|חַמָּה֙]] [[H1961\|יִהְיֶ֣ה]] [[H7659\|שִׁבְעָתַ֔יִם]] [[H9004\|כְּ]][[H0216\|א֖וֹר]] [[H7651\|שִׁבְעַ֣ת]] [[H9009\|הַ]][[H3117G\|יָּמִ֑ים]] [[H9003\|בְּ]][[H3117G\|י֗וֹם]] [[H2280\|חֲבֹ֤שׁ]] [[H3068G\|יְהוָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H7667\|שֶׁ֣בֶר]] [[H5971A\|עַמּ֔]][[H9023\|וֹ]] [[H9002\|וּ]][[H4273\|מַ֥חַץ]] [[H4347\|מַכָּת֖]][[H9023\|וֹ]] [[H7495\|יִרְפָּֽא]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MOON|MOON]] • [[topic PEACE|PEACE]] • [[topic SEVEN|SEVEN]] • [[topic SUN|SUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.25|<< Isaiah 30:25]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.27|Isaiah 30:27 >>]]</td></tr></table>
 
@@ -28,7 +92,7 @@ The light of the moon will be as bright as the sun, and the light of the sun wil
 | people his  |**<big>&#8207;[[H5971A\|עַמּ֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| a.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [the] wound of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4273\|מַ֥חַץ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Ma.chatz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | blow his  |**<big>&#8207;[[H4347\|מַכָּת֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ma.ka.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will heal  |**<big>&#8207;[[H7495\|יִרְפָּֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yir.Pa'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will heal  |**<big>&#8207;[[H7495\|יִרְפָּֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yir.Pa'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.25|<< Isaiah 30:25]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.27|Isaiah 30:27 >>]]</td></tr></table>
 
 

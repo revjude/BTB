@@ -1,10 +1,55 @@
+---
+title: Mark 9:49
+type: Verse
+kjv: "For every one shall be salted with fire, and every sacrifice shall be salted with salt."
+bsb: "For everyone will be salted with fire."
+jesus_said: "For every one shall be salted with fire, and every sacrifice shall be salted with salt."
+greek: "πᾶς γὰρ πυρὶ ἁλισθήσεται καὶ πᾶσα θυσία ἁλὶ ἁλισθήσεται."
+pericope: "[[Mark.9.49 Good Salt|Good Salt]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SALT|SALT]]"
+strongs:
+- "[[G3956]]"
+- "[[G1063]]"
+- "[[G4442]]"
+- "[[G0233]]"
+- "[[G2532]]"
+- "[[G2378]]"
+- "[[G0251]]"
+texts:
+- NKO
+- KO
+---
+
 **Mark 9:49**<big><big>[[Mark.9.49 Good Salt|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For every one shall be salted with fire, and every sacrifice shall be salted with salt.
 <small><sub>**BSB:**</sub></small>
 For everyone will be salted with fire.
-<small><sub>**Literal:**</sub></small>
-Everyone for with fire will be salted and all sacrifice with salt will be salted.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.48|<< Mark 9:48]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.50|Mark 9:50 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πᾶς]]  [[G1063\|γὰρ]]  [[G4442\|πυρὶ]]  [[G0233\|ἁλισθήσεται]]  [[G2532\|καὶ]]  [[G3956\|πᾶσα]]  [[G2378\|θυσία]]  [[G0251\|ἁλὶ]]  [[G0233\|ἁλισθήσεται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic HOLINESS|HOLINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SALT|SALT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.48|<< Mark 9:48]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.50|Mark 9:50 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Conquers Jerusalem
+type: Pericope
 pericope: "[[2Sam.5.6 David Conquers Jerusalem|David Conquers Jerusalem]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 5
 book/chapter: "[[2Sam.5|2 Samuel 5]]"
-genre:
+chronological_order: 333
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 6
 verses:
 - "[[2Sam.5.6]]"
 - "[[2Sam.5.7]]"
@@ -25,7 +32,7 @@ verses:
 - "[[2Sam.5.11]]"
 ---
 
-[[2Sam.5|2 Samuel 5:6 - 2 Samuel 5:11]]
+<small>[[2Sam.5|2 Samuel 5:6-11]]</small>
 *David Conquers Jerusalem*
 
 [[2Sam.5.6|6]] And the king and his men went to Jerusalem unto the Jebusites, the inhabitants of the land: which spake unto David, saying, Except thou take away the blind and the lame, thou shalt not come in hither: thinking, David cannot come in hither.

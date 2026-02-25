@@ -1,8 +1,51 @@
+---
+title: Job 6:25
+type: Verse
+kjv: "How forcible are right words! but what doth your arguing reprove?"
+bsb: "How painful are honest words! But what does your argument prove?"
+hebrew: "מַה־ נִּמְרְצ֥וּ אִמְרֵי־ יֹ֑שֶׁר וּמַה־ יּוֹכִ֖יחַ הוֹכֵ֣חַ מִכֶּֽם׃"
+pericope: "[[Job.6.1 Job Replies：My Complaint Is Just|Job Replies：My Complaint Is Just]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 6
+book/chapter: "[[Job.6|Job 6]]"
+chronological_order: 17
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H4834]]"
+- "[[H0561]]"
+- "[[H3476]]"
+- "[[H9002]]"
+- "[[H3198]]"
+- "[[H9006]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 6:25**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How forcible are right words! but what doth your arguing reprove?
 <small><sub>**BSB:**</sub></small>
 How painful are honest words! But what does your argument prove?
+<small><sub>**Hebrew:**</sub></small>
+[[H4100\|מַה]][[H9014\|־]] [[H4834\|נִּמְרְצ֥וּ]] [[H0561\|אִמְרֵי]][[H9014\|־]] [[H3476\|יֹ֑שֶׁר]] [[H9002\|וּ]][[H4100\|מַה]][[H9014\|־]] [[H3198\|יּוֹכִ֖יחַ]] [[H3198\|הוֹכֵ֣חַ]] [[H9006\|מִ]][[H9036\|כֶּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.24|<< Job 6:24]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.26|Job 6:26 >>]]</td></tr></table>
 

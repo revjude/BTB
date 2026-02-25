@@ -1,10 +1,42 @@
+---
+title: Jude 1:22
+type: Verse
+kjv: "And of some have compassion, making a difference:"
+bsb: "And indeed, have mercy on those who doubt;"
+greek: "καὶ οὓς μὲν ἐλεᾶτε διακρινομένους,"
+pericope: "[[Jude.1.17 A Call to Persevere|A Call to Persevere]]"
+original_language: Greek
+testament: New
+book: Jude
+chapter: 1
+book/chapter: "[[Jude.1|Jude 1]]"
+chronological_order: 1160
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- polemical
+strongs:
+- "[[G2532]]"
+- "[[G3739]]"
+- "[[G3303]]"
+- "[[G1653]]"
+- "[[G1252]]"
+texts:
+- NKO
+- NK(O)
+- N(k)O
+---
+
 **Jude 1:22**<big><big>[[Jude.1.17 A Call to Persevere|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And of some have compassion, making a difference:
 <small><sub>**BSB:**</sub></small>
 And indeed, have mercy on those who doubt;
-<small><sub>**Literal:**</sub></small>
-And those who indeed do have mercy on are doubting,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.21|<< Jude 1:21]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.23|Jude 1:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3739\|οὓς]]  [[G3303\|μὲν]]  [[G1653\|ἐλεᾶτε]]  [[G1252\|διακρινομένους,]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.21|<< Jude 1:21]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.23|Jude 1:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

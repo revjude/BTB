@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jeremiah’s Scroll Read in the Palace
+type: Pericope
 pericope: "[[Jer.36.11 Jeremiah’s Scroll Read in the Palace|Jeremiah’s Scroll Read in the Palace]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 36
 book/chapter: "[[Jer.36|Jeremiah 36]]"
-genre:
+chronological_order: 759
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 9
 verses:
 - "[[Jer.36.11]]"
 - "[[Jer.36.12]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Jer.36.19]]"
 ---
 
-[[Jer.36|Jeremiah 36:11 - Jeremiah 36:19]]
+<small>[[Jer.36|Jeremiah 36:11-19]]</small>
 *Jeremiah’s Scroll Read in the Palace*
 
 [[Jer.36.11|11]] When Michaiah the son of Gemariah, the son of Shaphan, had heard out of the book all the words of the LORD,

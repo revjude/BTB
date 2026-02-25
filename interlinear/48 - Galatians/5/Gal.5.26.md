@@ -1,10 +1,50 @@
+---
+title: Galatians 5:26
+type: Verse
+kjv: "Let us not be desirous of vain glory, provoking one another, envying one another."
+bsb: "Let us not become conceited, provoking and envying one another."
+greek: "μὴ γινώμεθα κενόδοξοι, ἀλλήλους προκαλούμενοι, ἀλλήλοις φθονοῦντες.¶"
+pericope: "[[Gal.5.16 Walking by the Spirit|Walking by the Spirit]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 5
+book/chapter: "[[Gal.5|Galatians 5]]"
+chronological_order: 1043
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic CONTENTMENT|CONTENTMENT]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G3361]]"
+- "[[G1096]]"
+- "[[G2755]]"
+- "[[G0240]]"
+- "[[G4292]]"
+- "[[G5354]]"
+texts:
+- NKO
+---
+
 **Galatians 5:26**<big><big>[[Gal.5.16 Walking by the Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Let us not be desirous of vain glory, provoking one another, envying one another.
 <small><sub>**BSB:**</sub></small>
 Let us not become conceited, provoking and envying one another.
-<small><sub>**Literal:**</sub></small>
-Not we may become boastful, one another provoking, one another envying.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.25|<< Galatians 5:25]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.1|Galatians 6:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μὴ]]  [[G1096\|γινώμεθα]]  [[G2755\|κενόδοξοι,]]  [[G0240\|ἀλλήλους]]  [[G4292\|προκαλούμενοι,]]  [[G0240\|ἀλλήλοις]]  [[G5354\|φθονοῦντες.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTENTMENT|CONTENTMENT]] • [[topic ENVY|ENVY]] • [[topic HUMILITY|HUMILITY]] • [[topic LOVE|LOVE]] • [[topic MEEKNESS|MEEKNESS]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.25|<< Galatians 5:25]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.1|Galatians 6:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,63 @@
+---
+title: Nehemiah 11:30
+type: Verse
+kjv: "Zanoah, Adullam, and in their villages, at Lachish, and the fields thereof, at Azekah, and in the villages thereof. And they dwelt from Beersheba unto the valley of Hinnom."
+bsb: "Zanoah, Adullam, and their villages; in Lachish and its fields; and in Azekah and its villages. So they settled from Beersheba all the way to the Valley of Hinnom."
+hebrew: "זָנֹ֤חַ עֲדֻלָּם֙ וְחַצְרֵיהֶ֔ם לָכִישׁ֙ וּשְׂדֹתֶ֔יהָ עֲזֵקָ֖ה וּבְנֹתֶ֑יהָ וַיַּחֲנ֥וּ מִבְּאֵֽר־ שֶׁ֖בַע עַד־ גֵּֽיא־ הִנֹּֽם׃"
+pericope: "[[Neh.11.20 Residents Outside Jerusalem|Residents Outside Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 11
+book/chapter: "[[Neh.11|Nehemiah 11]]"
+chronological_order: 923
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ADULLAM|ADULLAM]]"
+- "[[topic AZEKAH|AZEKAH]]"
+- "[[topic HINNOM|HINNOM]]"
+- "[[topic ZANOAH|ZANOAH]]"
+strongs:
+- "[[H2182G]]"
+- "[[H5725]]"
+- "[[H9002]]"
+- "[[H2691B]]"
+- "[[H9028]]"
+- "[[H3923]]"
+- "[[H7704G]]"
+- "[[H9024]]"
+- "[[H5825]]"
+- "[[H1323H]]"
+- "[[H9001]]"
+- "[[H2583]]"
+- "[[H9006]]"
+- "[[H0884]]"
+- "[[H9014]]"
+- "[[H5704]]"
+- "[[H1516G]]"
+- "[[H2011G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 11:30**<big><big>[[Neh.11.20 Residents Outside Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Zanoah, Adullam, and [in] their villages, at Lachish, and the fields thereof, at Azekah, and [in] the villages thereof. And they dwelt from Beersheba unto the valley of Hinnom.
 <small><sub>**BSB:**</sub></small>
 Zanoah, Adullam, and their villages; in Lachish and its fields; and in Azekah and its villages. So they settled from Beersheba all the way to the Valley of Hinnom.
+<small><sub>**Hebrew:**</sub></small>
+[[H2182G\|זָנֹ֤חַ]] [[H5725\|עֲדֻלָּם֙]] [[H9002\|וְ]][[H2691B\|חַצְרֵי]][[H9028\|הֶ֔ם]] [[H3923\|לָכִישׁ֙]] [[H9002\|וּ]][[H7704G\|שְׂדֹתֶ֔י]][[H9024\|הָ]] [[H5825\|עֲזֵקָ֖ה]] [[H9002\|וּ]][[H1323H\|בְנֹתֶ֑י]][[H9024\|הָ]] [[H9001\|וַ]][[H2583\|יַּחֲנ֥וּ]] [[H9006\|מִ]][[H0884\|בְּאֵֽר]][[H9014\|־]] [[H0884\|שֶׁ֖בַע]] [[H5704\|עַד]][[H9014\|־]] [[H1516G\|גֵּֽיא]][[H9014\|־]] [[H2011G\|הִנֹּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULLAM|ADULLAM]] • [[topic AZEKAH|AZEKAH]] • [[topic HINNOM|HINNOM]] • [[topic ZANOAH|ZANOAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.29|<< Nehemiah 11:29]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.31|Nehemiah 11:31 >>]]</td></tr></table>
 

@@ -1,10 +1,59 @@
+---
+title: Hebrews 6:12
+type: Verse
+kjv: "That ye be not slothful, but followers of them who through faith and patience inherit the promises."
+bsb: "Then you will not be sluggish, but will imitate those who through faith and patience inherit what has been promised."
+greek: "ἵνα μὴ νωθροὶ γένησθε, μιμηταὶ δὲ τῶν διὰ πίστεως καὶ μακροθυμίας κληρονομούντων τὰς ἐπαγγελίας."
+pericope: "[[Heb.6.1 A Call to Maturity|A Call to Maturity]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 6
+book/chapter: "[[Heb.6|Hebrews 6]]"
+chronological_order: 1145
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DILIGENCE|DILIGENCE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic SLOTHFULNESS|SLOTHFULNESS]]"
+strongs:
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G3576]]"
+- "[[G1096]]"
+- "[[G3402]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1223]]"
+- "[[G4102G]]"
+- "[[G2532]]"
+- "[[G3115]]"
+- "[[G2816]]"
+- "[[G1860]]"
+texts:
+- NKO
+---
+
 **Hebrews 6:12**<big><big>[[Heb.6.1 A Call to Maturity|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That ye be not slothful, but followers of them who through faith and patience inherit the promises.
 <small><sub>**BSB:**</sub></small>
 Then you will not be sluggish, but will imitate those who through faith and patience inherit what has been promised.
-<small><sub>**Literal:**</sub></small>
-so that not sluggish you may be, imitators however of those through faith and patience inheriting the promises.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.11|<< Hebrews 6:11]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.13|Hebrews 6:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G3576\|νωθροὶ]]  [[G1096\|γένησθε,]]  [[G3402\|μιμηταὶ]]  [[G1161\|δὲ]]  [[G3588\|τῶν]]  [[G1223\|διὰ]]  [[G4102G\|πίστεως]]  [[G2532\|καὶ]]  [[G3115\|μακροθυμίας]]  [[G2816\|κληρονομούντων]]  [[G3588\|τὰς]]  [[G1860\|ἐπαγγελίας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DILIGENCE|DILIGENCE]] • [[topic FAITH|FAITH]] • [[topic PATIENCE|PATIENCE]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic SLOTHFULNESS|SLOTHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.11|<< Hebrews 6:11]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.13|Hebrews 6:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,55 @@
+---
+title: Lamentations 3:41
+type: Verse
+kjv: "Let us lift up our heart with our hands unto God in the heavens."
+bsb: "Let us lift up our hearts and hands to God in heaven:"
+hebrew: "נִשָּׂ֤א לְבָבֵ֙נוּ֙ אֶל־ כַּפָּ֔יִם אֶל־ אֵ֖ל בַּשָּׁמָֽיִם׃"
+pericope: "[[Lam.3.37 God’s Justice|God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 3
+book/chapter: "[[Lam.3|Lamentations 3]]"
+chronological_order: 778
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H5375O]]"
+- "[[H3824]]"
+- "[[H9025]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3709G]]"
+- "[[H0410G]]"
+- "[[H9003]]"
+- "[[H8064]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Lamentations 3:41**<big><big>[[Lam.3.37 God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let us lift up our heart with [our] hands unto God in the heavens.
 <small><sub>**BSB:**</sub></small>
 Let us lift up our hearts and hands to God in heaven:
+<small><sub>**Hebrew:**</sub></small>
+[[H5375O\|נִשָּׂ֤א]] [[H3824\|לְבָבֵ֙]][[H9025\|נוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3709G\|כַּפָּ֔יִם]] [[H0413\|אֶל]][[H9014\|־]] [[H0410G\|אֵ֖ל]] [[H9003\|בַּ]][[H8064\|שָּׁמָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic HEAVEN|HEAVEN]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SEEKERS|SEEKERS]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.40|<< Lamentations 3:40]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.42|Lamentations 3:42 >>]]</td></tr></table>
 

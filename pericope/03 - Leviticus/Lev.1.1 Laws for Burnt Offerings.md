@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Laws for Burnt Offerings
+type: Pericope
 pericope: "[[Lev.1.1 Laws for Burnt Offerings|Laws for Burnt Offerings]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 1
 book/chapter: "[[Lev.1|Leviticus 1]]"
-genre:
+chronological_order: 133
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 17
 verses:
 - "[[Lev.1.1]]"
 - "[[Lev.1.2]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Lev.1.17]]"
 ---
 
-[[Lev.1|Leviticus 1:1 - Leviticus 1:17]]
+<small>[[Lev.1|Leviticus 1:1-17]]</small>
 *Laws for Burnt Offerings*
 
 [[Lev.1.1|1]] And the LORD called unto Moses, and spake unto him out of the tabernacle of the congregation, saying,

@@ -1,6 +1,68 @@
+---
+title: LXX 2 Samuel 6:17
+type: Verse
+lxx: "And they carried in the ark of the lord, and put it aside in  its place, in the middle of the tent which David pitched for it. And David offered whole burnt-offerings before the lord, and peace offerings."
+greek: "και εισφέρουσι την κιβωτόν του κυρίου και απέθηκαν αυτήν εις τον τόπον αυτής εν μέσω της σκηνής ης έπηξεν αυτή Δαυίδ και ανήνεγκε Δαυίδ ολοκαυτώματα ενώπιον κυρίου και ειρηνικάς"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 6
+book/chapter: "[[2Sam.6|2 Samuel 6]]"
+chronological_order: 392
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PEACE OFFERINGS|PEACE OFFERINGS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1533]]"
+- "[[G3588]]"
+- "[[G2787]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G2532]]"
+- "[[G0659]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G5117]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3319]]"
+- "[[G3588]]"
+- "[[G4633]]"
+- "[[G3739]]"
+- "[[G4078]]"
+- "[[G1473]]"
+- "[[G4622]]"
+- "[[G2532]]"
+- "[[G0399]]"
+- "[[G1473]]"
+- "[[G3646]]"
+- "[[G1799]]"
+- "[[G2962]]"
+- "[[G2532]]"
+- "[[G1516]]"
+---
+
 **LXX 2 Samuel 6:17** 
 <small><sub>**LXX:**</sub></small>
 And they carried in the ark of the <span class="smallcaps">lord</span>, and put it aside in  its place, in the middle of the tent which David pitched for it. And David offered whole burnt-offerings before \[the\] <span class="smallcaps">lord</span>, and peace \[offerings\]. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1533\|εισφέρουσι]] [[G3588\|την]] [[G2787\|κιβωτόν]] [[G3588\|του]] [[G2962\|κυρίου]] [[G2532\|και]] [[G0659\|απέθηκαν]] [[G1473\|αυτήν]] [[G1519\|εις]] [[G3588\|τον]] [[G5117\|τόπον]] [[G1473\|αυτής]] [[G1722\|εν]] [[G3319\|μέσω]] [[G3588\|της]] [[G4633\|σκηνής]] [[G3739\|ης]] [[G4078\|έπηξεν]] [[G1473\|αυτή]] [[G4622\|Δαυίδ]] [[G2532\|και]] [[G0399\|ανήνεγκε]] [[G1473\|Δαυίδ]] [[G3646\|ολοκαυτώματα]] [[G1799\|ενώπιον]] [[G2962\|κυρίου]] [[G2532\|και]] [[G1516\|ειρηνικάς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic DAVID|DAVID]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PEACE OFFERINGS|PEACE OFFERINGS]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.6.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.6.16|<< 2 Samuel 6:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.6.18|2 Samuel 6:18 >>]]</td></tr></table>
 
@@ -32,6 +94,6 @@ And they carried in the ark of the <span class="smallcaps">lord</span>, and put 
 | \[the\] <span class="smallcaps">lord</span>, | **<big>[[G2962\|κυρίου]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | peace \[offerings\]. | **<big>[[G1516\|ειρηνικάς]]</big>** |
-[[2Sam.6.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.6.16|<< 2 Samuel 6:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.6.18|2 Samuel 6:18 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.6.16|<< 2 Samuel 6:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.6.18|2 Samuel 6:18 >>]]</td></tr></table>
 
 

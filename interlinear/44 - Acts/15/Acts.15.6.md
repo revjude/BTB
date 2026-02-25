@@ -1,10 +1,58 @@
+---
+title: Acts 15:6
+type: Verse
+kjv: "And the apostles and elders came together for to consider of this matter."
+bsb: "So the apostles and elders met to look into this matter."
+greek: "Συνήχθησάν τε οἱ ἀπόστολοι καὶ οἱ πρεσβύτεροι ἰδεῖν περὶ τοῦ λόγου τούτου."
+pericope: "[[Acts.15.5 The Council at Jerusalem|The Council at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic LAW|LAW]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G4863]]"
+- "[[G5037]]"
+- "[[G3588]]"
+- "[[G0652]]"
+- "[[G2532]]"
+- "[[G4245G]]"
+- "[[G1492I]]"
+- "[[G4012]]"
+- "[[G3056]]"
+- "[[G3778]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 15:6**<big><big>[[Acts.15.5 The Council at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the apostles and elders came together for to consider of this matter.
 <small><sub>**BSB:**</sub></small>
 So the apostles and elders met to look into this matter.
-<small><sub>**Literal:**</sub></small>
-Were gathered together then the apostles and the elders to understand about <the> matter this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.5|<< Acts 15:5]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.7|Acts 15:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4863\|Συνήχθησάν]]  [[G5037\|τε]]  [[G3588\|οἱ]]  [[G0652\|ἀπόστολοι]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4245G\|πρεσβύτεροι]]  [[G1492I\|ἰδεῖν]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G3056\|λόγου]]  [[G3778\|τούτου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic CHURCH|CHURCH]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COUNCIL|COUNCIL]] • [[topic DOCTRINES|DOCTRINES]] • [[topic ELDER|ELDER]] • [[topic LAW|LAW]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.5|<< Acts 15:5]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.7|Acts 15:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

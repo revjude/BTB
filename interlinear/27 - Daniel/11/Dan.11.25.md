@@ -1,8 +1,63 @@
+---
+title: Daniel 11:25
+type: Verse
+kjv: "And he shall stir up his power and his courage against the king of the south with a great army; and the king of the south shall be stirred up to battle with a very great and mighty army; but he shall not stand: for they shall forecast devices against him."
+bsb: "And with a large army he will stir up his power and his courage against the king of the South, who will mobilize a very large and powerful army but will not withstand the plots devised against him."
+hebrew: "וְיָעֵר֩ כֹּח֨וֹ וּלְבָב֜וֹ עַל־ מֶ֣לֶךְ הַנֶּגֶב֮ בְּחַ֣יִל גָּדוֹל֒ וּמֶ֣לֶךְ הַנֶּ֗גֶב יִתְגָּרֶה֙ לַמִּלְחָמָ֔ה בְּחַֽיִל־ גָּד֥וֹל וְעָצ֖וּם עַד־ מְאֹ֑ד וְלֹ֣א יַעֲמֹ֔ד כִּֽי־ יַחְשְׁב֥וּ עָלָ֖יו מַחֲשָׁבֽוֹת׃"
+pericope: "[[Dan.11.1 Kings of the South and North|Kings of the South and North]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+strongs:
+- "[[H9002]]"
+- "[[H5782]]"
+- "[[H3581B]]"
+- "[[H9023]]"
+- "[[H3824]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H5045H]]"
+- "[[H9003]]"
+- "[[H2428A]]"
+- "[[H1419A]]"
+- "[[H1624]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H6099]]"
+- "[[H5704]]"
+- "[[H3966]]"
+- "[[H3808]]"
+- "[[H5975G]]"
+- "[[H3588A]]"
+- "[[H2803I]]"
+- "[[H9033]]"
+- "[[H4284]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 11:25**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall stir up his power and his courage against the king of the south with a great army; and the king of the south shall be stirred up to battle with a very great and mighty army; but he shall not stand: for they shall forecast devices against him.
 <small><sub>**BSB:**</sub></small>
 And with a large army he will stir up his power and his courage against the king of the South, who will mobilize a very large and powerful army but will not withstand the plots devised against him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5782\|יָעֵר֩]] [[H3581B\|כֹּח֨]][[H9023\|וֹ]] [[H9002\|וּ]][[H3824\|לְבָב֜]][[H9023\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H4428G\|מֶ֣לֶךְ]] [[H9009\|הַ]][[H5045H\|נֶּגֶב֮]] [[H9003\|בְּ]][[H2428A\|חַ֣יִל]] [[H1419A\|גָּדוֹל֒]] [[H9002\|וּ]][[H4428G\|מֶ֣לֶךְ]] [[H9009\|הַ]][[H5045H\|נֶּ֗גֶב]] [[H1624\|יִתְגָּרֶה֙]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֔ה]] [[H9003\|בְּ]][[H2428A\|חַֽיִל]][[H9014\|־]] [[H1419A\|גָּד֥וֹל]] [[H9002\|וְ]][[H6099\|עָצ֖וּם]] [[H5704\|עַד]][[H9014\|־]] [[H3966\|מְאֹ֑ד]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H5975G\|יַעֲמֹ֔ד]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2803I\|יַחְשְׁב֥וּ]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H4284\|מַחֲשָׁבֽוֹת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.24|<< Daniel 11:24]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.26|Daniel 11:26 >>]]</td></tr></table>
 

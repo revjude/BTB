@@ -1,8 +1,54 @@
+---
+title: Psalm 119:32
+type: Verse
+kjv: "I will run the way of thy commandments, when thou shalt enlarge my heart."
+bsb: "I run in the path of Your commandments, for You will enlarge my heart."
+hebrew: "דֶּֽרֶךְ־ מִצְוֹתֶ֥יךָ אָר֑וּץ כִּ֖י תַרְחִ֣יב לִבִּֽי׃"
+pericope: "[[Ps.119.25 Your Word Is a Lamp to My Feet - DALETH|Your Word Is a Lamp to My Feet - DALETH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+strongs:
+- "[[H1870G]]"
+- "[[H9014]]"
+- "[[H4687]]"
+- "[[H9021]]"
+- "[[H7323G]]"
+- "[[H3588A]]"
+- "[[H7337]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:32**<big><big>[[Ps.119.25 Your Word Is a Lamp to My Feet - DALETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will run the way of thy commandments, when thou shalt enlarge my heart.
 <small><sub>**BSB:**</sub></small>
 I run in the path of Your commandments, for You will enlarge my heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H1870G\|דֶּֽרֶךְ]][[H9014\|־]] [[H4687\|מִצְוֹתֶ֥י]][[H9021\|ךָ]] [[H7323G\|אָר֑וּץ]] [[H3588A\|כִּ֖י]] [[H7337\|תַרְחִ֣יב]] [[H3820A\|לִבִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic INSTRUCTION|INSTRUCTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.31|<< Psalms 119:31]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.33|Psalms 119:33 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,10 +1,54 @@
+---
+title: Romans 11:30
+type: Verse
+kjv: "For as ye in times past have not believed God, yet have now obtained mercy through their unbelief:"
+bsb: "Just as you who formerly disobeyed God have now received mercy through their disobedience,"
+greek: "ὥσπερ γὰρ καὶ ὑμεῖς ποτε ἠπειθήσατε τῷ θεῷ νῦν δὲ ἠλεήθητε τῇ τούτων ἀπειθείᾳ,"
+pericope: "[[Rom.11.25 All Israel Will Be Saved|All Israel Will Be Saved]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 11
+book/chapter: "[[Rom.11|Romans 11]]"
+chronological_order: 1097
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G5618]]"
+- "[[G1063]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G4218]]"
+- "[[G0544]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3568]]"
+- "[[G1161]]"
+- "[[G1653]]"
+- "[[G3778]]"
+- "[[G0543]]"
+texts:
+- NKO
+- k
+---
+
 **Romans 11:30**<big><big>[[Rom.11.25 All Israel Will Be Saved|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For as ye in times past have not believed God, yet have now obtained mercy through their unbelief:
 <small><sub>**BSB:**</sub></small>
 Just as you who formerly disobeyed God have now received mercy through their disobedience,
-<small><sub>**Literal:**</sub></small>
-Just as for and you yourselves once were disobedient <the> to God now however were shown mercy to them through their disobedience,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.29|<< Romans 11:29]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.31|Romans 11:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5618\|ὥσπερ]]  [[G1063\|γὰρ]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G4218\|ποτε]]  [[G0544\|ἠπειθήσατε]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G3568\|νῦν]]  [[G1161\|δὲ]]  [[G1653\|ἠλεήθητε]]  [[G3588\|τῇ]]  [[G3778\|τούτων]]  [[G0543\|ἀπειθείᾳ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SALVATION|SALVATION]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.29|<< Romans 11:29]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.31|Romans 11:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

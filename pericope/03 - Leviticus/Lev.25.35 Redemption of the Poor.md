@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Redemption of the Poor
+type: Pericope
 pericope: "[[Lev.25.35 Redemption of the Poor|Redemption of the Poor]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 25
 book/chapter: "[[Lev.25|Leviticus 25]]"
-genre:
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 4
 verses:
 - "[[Lev.25.35]]"
 - "[[Lev.25.36]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Lev.25.38]]"
 ---
 
-[[Lev.25|Leviticus 25:35 - Leviticus 25:38]]
+<small>[[Lev.25|Leviticus 25:35-38]]</small>
 *Redemption of the Poor*
 
 [[Lev.25.35|35]] And if thy brother be waxen poor, and fallen in decay with thee; then thou shalt relieve him: \[yea, though he be\] a stranger, or a sojourner; that he may live with thee.

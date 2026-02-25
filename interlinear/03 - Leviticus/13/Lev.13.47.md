@@ -1,8 +1,61 @@
+---
+title: Leviticus 13:47
+type: Verse
+kjv: "The garment also that the plague of leprosy is in, whether it be a woollen garment, or a linen garment;"
+bsb: "If any fabric is contaminated with mildew—any wool or linen garment,"
+hebrew: "וְהַבֶּ֕גֶד כִּֽי־ יִהְיֶ֥ה ב֖וֹ נֶ֣גַע צָרָ֑עַת בְּבֶ֣גֶד צֶ֔מֶר א֖וֹ בְּבֶ֥גֶד פִּשְׁתִּֽים׃"
+pericope: "[[Lev.13.47 Laws about Mildew|Laws about Mildew]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DRESS|DRESS]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic WOOL|WOOL]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0899B]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H5061]]"
+- "[[H6883]]"
+- "[[H6785]]"
+- "[[H0176A]]"
+- "[[H6593]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:47**<big><big>[[Lev.13.47 Laws about Mildew|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The garment also that the plague of leprosy is in, [whether it be] a woollen garment, or a linen garment;
 <small><sub>**BSB:**</sub></small>
 If any fabric is contaminated with mildew—any wool or linen garment,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H0899B\|בֶּ֕גֶד]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|יִהְיֶ֥ה]] [[H9003\|ב֖]][[H9033\|וֹ]] [[H5061\|נֶ֣גַע]] [[H6883\|צָרָ֑עַת]] [[H9003\|בְּ]][[H0899B\|בֶ֣גֶד]] [[H6785\|צֶ֔מֶר]] [[H0176A\|א֖וֹ]] [[H9003\|בְּ]][[H0899B\|בֶ֥גֶד]] [[H6593\|פִּשְׁתִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRESS|DRESS]] • [[topic SANITATION|SANITATION]] • [[topic WOOL|WOOL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.46|<< Leviticus 13:46]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.48|Leviticus 13:48 >>]]</td></tr></table>
 

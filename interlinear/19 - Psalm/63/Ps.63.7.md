@@ -1,8 +1,58 @@
+---
+title: Psalm 63:7
+type: Verse
+kjv: "Because thou hast been my help, therefore in the shadow of thy wings will I rejoice."
+bsb: "For You are my help; I will sing for joy in the shadow of Your wings."
+hebrew: "כִּֽי־ הָיִ֣יתָ עֶזְרָ֣תָה לִּ֑י וּבְצֵ֖ל כְּנָפֶ֣יךָ אֲרַנֵּֽן׃"
+pericope: "[[Ps.63.1 Thirsting for God|Thirsting for God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 63
+book/chapter: "[[Ps.63|Psalm 63]]"
+chronological_order: 318
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JOY|JOY]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H5833]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H6738]]"
+- "[[H3671]]"
+- "[[H9021]]"
+- "[[H7442B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 63:7**<big><big>[[Ps.63.1 Thirsting for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because thou hast been my help, therefore in the shadow of thy wings will I rejoice.
 <small><sub>**BSB:**</sub></small>
 For You are my help; I will sing for joy in the shadow of Your wings.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|הָיִ֣יתָ]] [[H5833\|עֶזְרָ֣תָה]] [[H9005\|לִּ֑]][[H9030\|י]] [[H9002\|וּ]][[H9003\|בְ]][[H6738\|צֵ֖ל]] [[H3671\|כְּנָפֶ֣י]][[H9021\|ךָ]] [[H7442B\|אֲרַנֵּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JOY|JOY]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.63.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.63.6|<< Psalms 63:6]]</td><td align="center" style="border:none;">[[Ps.63|Psalms 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.63.8|Psalms 63:8 >>]]</td></tr></table>
 

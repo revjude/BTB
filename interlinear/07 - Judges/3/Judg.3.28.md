@@ -1,8 +1,75 @@
+---
+title: Judges 3:28
+type: Verse
+kjv: "And he said unto them, Follow after me: for the LORD hath delivered your enemies the Moabites into your hand. And they went down after him, and took the fords of Jordan toward Moab, and suffered not a man to pass over."
+bsb: "“Follow me,” he told them, “for the LORD has delivered your enemies the Moabites into your hand.” So they followed him down and seized the fords of the Jordan leading to Moab, and they did not allow anyone to cross over."
+hebrew: "וַיֹּ֤אמֶר אֲלֵהֶם֙ רִדְפ֣וּ אַחֲרַ֔י כִּֽי־ נָתַ֨ן יְהוָ֧ה אֶת־ אֹיְבֵיכֶ֛ם אֶת־ מוֹאָ֖ב בְּיֶדְכֶ֑ם וַיֵּרְד֣וּ אַחֲרָ֗יו וַֽיִּלְכְּד֞וּ אֶת־ מַעְבְּר֤וֹת הַיַּרְדֵּן֙ לְמוֹאָ֔ב וְלֹֽא־ נָתְנ֥וּ אִ֖ישׁ לַעֲבֹֽר׃"
+pericope: "[[Judg.3.12 Ehud|Ehud]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 3
+book/chapter: "[[Judg.3|Judges 3]]"
+chronological_order: 257
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic EGLON|EGLON]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JORDAN|JORDAN]]"
+- "[[topic JUDGE|JUDGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H7291]]"
+- "[[H0310A]]"
+- "[[H9030]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H0341]]"
+- "[[H9026]]"
+- "[[H4124G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H3381]]"
+- "[[H9033]]"
+- "[[H3920]]"
+- "[[H4569B]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H9005]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5414K]]"
+- "[[H0376I]]"
+- "[[H5674A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 3:28**<big><big>[[Judg.3.12 Ehud|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Follow after me: for the LORD hath delivered your enemies the Moabites into your hand. And they went down after him, and took the fords of Jordan toward Moab, and suffered not a man to pass over.
 <small><sub>**BSB:**</sub></small>
 “Follow me,” he told them, “for the LORD has delivered your enemies the Moabites into your hand.” So they followed him down and seized the fords of the Jordan leading to Moab, and they did not allow anyone to cross over.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶם֙]] [[H7291\|רִדְפ֣וּ]] [[H0310A\|אַחֲרַ֔]][[H9030\|י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5414G\|נָתַ֨ן]] [[H3068G\|יְהוָ֧ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0341\|אֹיְבֵי]][[H9026\|כֶ֛ם]] [[H0853\|אֶת]][[H9014\|־]] [[H4124G\|מוֹאָ֖ב]] [[H9003\|בְּ]][[H3027H\|יֶדְ]][[H9026\|כֶ֑ם]] [[H9001\|וַ]][[H3381\|יֵּרְד֣וּ]] [[H0310A\|אַחֲרָ֗י]][[H9033\|ו]] [[H9001\|וַֽ]][[H3920\|יִּלְכְּד֞וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H4569B\|מַעְבְּר֤וֹת]] [[H9009\|הַ]][[H3383\|יַּרְדֵּן֙]] [[H9005\|לְ]][[H4124G\|מוֹאָ֔ב]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5414K\|נָתְנ֥וּ]] [[H0376I\|אִ֖ישׁ]] [[H9005\|לַ]][[H5674A\|עֲבֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEPTION|DECEPTION]] • [[topic EGLON|EGLON]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic JORDAN|JORDAN]] • [[topic JUDGE|JUDGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.3.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.27|<< Judges 3:27]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.29|Judges 3:29 >>]]</td></tr></table>
 

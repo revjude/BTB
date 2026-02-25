@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hiram’s Reply to Solomon
+type: Pericope
 pericope: "[[2Chr.2.11 Hiram’s Reply to Solomon|Hiram’s Reply to Solomon]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 2
 book/chapter: "[[2Chr.2|2 Chronicles 2]]"
-genre:
+chronological_order: 491
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 8
 verses:
 - "[[2Chr.2.11]]"
 - "[[2Chr.2.12]]"
@@ -26,7 +33,7 @@ verses:
 - "[[2Chr.2.18]]"
 ---
 
-[[2Chr.2|2 Chronicles 2:11 - 2 Chronicles 2:18]]
+<small>[[2Chr.2|2 Chronicles 2:11-18]]</small>
 *Hiram’s Reply to Solomon*
 
 [[2Chr.2.11|11]] Then Huram the king of Tyre answered in writing, which he sent to Solomon, Because the LORD hath loved his people, he hath made thee king over them.

@@ -1,8 +1,53 @@
+---
+title: Isaiah 42:20
+type: Verse
+kjv: "Seeing many things, but thou observest not; opening the ears, but he heareth not."
+bsb: "Though seeing many things, you do not keep watch. Though your ears are open, you do not hear.”"
+hebrew: "רָא֥וֹת רַבּ֖וֹת וְלֹ֣א תִשְׁמֹ֑ר פָּק֥וֹחַ אָזְנַ֖יִם וְלֹ֥א יִשְׁמָֽע׃"
+pericope: "[[Isa.42.18 Israel Is Deaf and Blind|Israel Is Deaf and Blind]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 42
+book/chapter: "[[Isa.42|Isaiah 42]]"
+chronological_order: 681
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H7200G]]"
+- "[[H7227A]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8104I]]"
+- "[[H6491]]"
+- "[[H0241G]]"
+- "[[H8085G]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Isaiah 42:20**<big><big>[[Isa.42.18 Israel Is Deaf and Blind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seeing many things, but thou observest not; opening the ears, but he heareth not.
 <small><sub>**BSB:**</sub></small>
 Though seeing many things, you do not keep watch. Though your ears are open, you do not hear.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7200G\|רָא֥וֹת]] [[H7227A\|רַבּ֖וֹת]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H8104I\|תִשְׁמֹ֑ר]] [[H6491\|פָּק֥וֹחַ]] [[H0241G\|אָזְנַ֖יִם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8085G\|יִשְׁמָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic ISAIAH|ISAIAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.19|<< Isaiah 42:19]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.21|Isaiah 42:21 >>]]</td></tr></table>
 

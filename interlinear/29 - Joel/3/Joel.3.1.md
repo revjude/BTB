@@ -1,8 +1,59 @@
+---
+title: Joel 3:1
+type: Verse
+kjv: "For, behold, in those days, and in that time, when I shall bring again the captivity of Judah and Jerusalem,"
+bsb: "“Yes, in those days and at that time, when I restore Judah and Jerusalem from captivity,"
+hebrew: "כִּ֗י הִנֵּ֛ה בַּיָּמִ֥ים הָהֵ֖מָּה וּבָעֵ֣ת הַהִ֑יא אֲשֶׁ֥ר אָשִׁ֛יב אֶת־ שְׁב֥וּת יְהוּדָ֖ה וִירוּשָׁלִָֽם׃"
+pericope: "[[Joel.3.1 The LORD Judges the Nations|The LORD Judges the Nations]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 3
+book/chapter: "[[Joel.3|Joel 3]]"
+chronological_order: 842
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic JOEL|JOEL]]"
+strongs:
+- "[[H3588A]]"
+- "[[H2009]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1992]]"
+- "[[H9002]]"
+- "[[H6256]]"
+- "[[H1931]]"
+- "[[H0834A]]"
+- "[[H7725G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7622]]"
+- "[[H3063G]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Joel 3:1**<big><big>[[Joel.3.1 The LORD Judges the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, behold, in those days, and in that time, when I shall bring again the captivity of Judah and Jerusalem,
 <small><sub>**BSB:**</sub></small>
 “Yes, in those days and at that time, when I restore Judah and Jerusalem from captivity,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֗י]] [[H2009\|הִנֵּ֛ה]] [[H9003\|בַּ]][[H3117G\|יָּמִ֥ים]] [[H9009\|הָ]][[H1992\|הֵ֖מָּה]] [[H9002\|וּ]][[H9003\|בָ]][[H6256\|עֵ֣ת]] [[H9009\|הַ]][[H1931\|הִ֑יא]] [[H0834A\|אֲשֶׁ֥ר]] [[H7725G\|אָשִׁ֛יב]] [[H0853\|אֶת]][[H9014\|־]] [[H7622\|שְׁב֥וּת]] [[H3063G\|יְהוּדָ֖ה]] [[H9002\|וִ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOEL|JOEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.32|<< Joel 2:32]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.2|Joel 3:2 >>]]</td></tr></table>
 

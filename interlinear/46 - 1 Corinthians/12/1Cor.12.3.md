@@ -1,10 +1,64 @@
+---
+title: 1 Corinthians 12:3
+type: Verse
+kjv: "Wherefore I give you to understand, that no man speaking by the Spirit of God calleth Jesus accursed: and that no man can say that Jesus is the Lord, but by the Holy Ghost."
+bsb: "Therefore I inform you that no one who is speaking by the Spirit of God says, “Jesus be cursed,” and no one can say, “Jesus is Lord,” except by the Holy Spirit."
+greek: "διὸ γνωρίζω ὑμῖν ὅτι οὐδεὶς ἐν πνεύματι θεοῦ λαλῶν λέγει· ἀνάθεμα Ἰησοῦς, καὶ οὐδεὶς δύναται εἰπεῖν· κύριος Ἰησοῦς, εἰ μὴ ἐν πνεύματι ἁγίῳ."
+pericope: "[[1Cor.12.1 Spiritual Gifts|Spiritual Gifts]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 12
+book/chapter: "[[1Cor.12|1 Corinthians 12]]"
+chronological_order: 1069
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[G1352]]"
+- "[[G1107]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G3762]]"
+- "[[G1722]]"
+- "[[G4151G]]"
+- "[[G2316]]"
+- "[[G2980]]"
+- "[[G3004G]]"
+- "[[G0331]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G1410]]"
+- "[[G2036]]"
+- "[[G2962G]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G0040G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Corinthians 12:3**<big><big>[[1Cor.12.1 Spiritual Gifts|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore I give you to understand, that no man speaking by the Spirit of God calleth Jesus accursed: and [that] no man can say that Jesus is the Lord, but by the Holy Ghost.
 <small><sub>**BSB:**</sub></small>
 Therefore I inform you that no one who is speaking by the Spirit of God says, “Jesus be cursed,” and no one can say, “Jesus is Lord,” except by the Holy Spirit.
-<small><sub>**Literal:**</sub></small>
-Therefore I make known to you that no [one] in [the] Spirit of God speaking says: Accursed [is] Jesus, and no [one] is able to say: Lord Jesus [is], only except in [the] Spirit Holy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.2|<< 1 Corinthians 12:2]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.4|1 Corinthians 12:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1352\|διὸ]]  [[G1107\|γνωρίζω]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G3762\|οὐδεὶς]]  [[G1722\|ἐν]]  [[G4151G\|πνεύματι]]  [[G2316\|θεοῦ]]  [[G2980\|λαλῶν]]  [[G3004G\|λέγει·]]  [[G0331\|ἀνάθεμα]]  [[G2424G\|Ἰησοῦς,]]  [[G2532\|καὶ]]  [[G3762\|οὐδεὶς]]  [[G1410\|δύναται]]  [[G2036\|εἰπεῖν·]]  [[G2962G\|κύριος]]  [[G2424G\|Ἰησοῦς,]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G1722\|ἐν]]  [[G4151G\|πνεύματι]]  [[G0040G\|ἁγίῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic CONFESSION|CONFESSION]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic TESTIMONY|TESTIMONY]] • [[topic TRINITY|TRINITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.2|<< 1 Corinthians 12:2]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.4|1 Corinthians 12:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

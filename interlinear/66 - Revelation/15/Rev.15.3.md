@@ -1,10 +1,69 @@
+---
+title: Revelation 15:3
+type: Verse
+kjv: "And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous are thy works, Lord God Almighty; just and true are thy ways, thou King of saints."
+bsb: "and they sang the song of God’s servant Moses and of the Lamb: “Great and wonderful are Your works, O Lord God Almighty! Just and true are Your ways, O King of the nations!"
+greek: "καὶ ᾄδουσιν τὴν ᾠδὴν Μωϋσέως τοῦ δούλου τοῦ θεοῦ καὶ τὴν ᾠδὴν τοῦ ἀρνίου λέγοντες· μεγάλα καὶ θαυμαστὰ τὰ ἔργα σου, κύριε ὁ θεὸς ὁ παντοκράτωρ. δίκαιαι καὶ ἀληθιναὶ αἱ ὁδοί σου, ὁ βασιλεὺς τῶν ἐθνῶν."
+pericope: "[[Rev.15.1 The Song of Moses and the Lamb|The Song of Moses and the Lamb]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 15
+book/chapter: "[[Rev.15|Revelation 15]]"
+chronological_order: 1182
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAMB OF GOD|LAMB OF GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic SONG|SONG]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[G2532]]"
+- "[[G0103]]"
+- "[[G3588]]"
+- "[[G5603]]"
+- "[[G3475]]"
+- "[[G1401]]"
+- "[[G2316]]"
+- "[[G0721]]"
+- "[[G3004G]]"
+- "[[G3173]]"
+- "[[G2298]]"
+- "[[G2041]]"
+- "[[G4771]]"
+- "[[G2962G]]"
+- "[[G3841]]"
+- "[[G1342]]"
+- "[[G0228]]"
+- "[[G3598]]"
+- "[[G0935]]"
+- "[[G1484]]"
+texts:
+- NKO
+- N(K)(O)
+---
+
 **Revelation 15:3**<big><big>[[Rev.15.1 The Song of Moses and the Lamb|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous [are] thy works, Lord God Almighty; just and true [are] thy ways, thou King of saints.
 <small><sub>**BSB:**</sub></small>
 and they sang the song of God’s servant Moses and of the Lamb: “Great and wonderful are Your works, O Lord God Almighty! Just and true are Your ways, O King of the nations!
-<small><sub>**Literal:**</sub></small>
-And they are singing the song of Moses the servant <the> of God and the song of the Lamb saying: Great and wonderful [are] the works of You, Lord <the> God the Almighty! Righteous and true [are] the ways of You, O King of the nations!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.15.2|<< Revelation 15:2]]</td><td align="center" style="border:none;">[[Rev.15|Revelation 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.15.4|Revelation 15:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0103\|ᾄδουσιν]]  [[G3588\|τὴν]]  [[G5603\|ᾠδὴν]]  [[G3475\|Μωϋσέως]]  [[G3588\|τοῦ]]  [[G1401\|δούλου]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G5603\|ᾠδὴν]]  [[G3588\|τοῦ]]  [[G0721\|ἀρνίου]]  [[G3004G\|λέγοντες·]]  [[G3173\|μεγάλα]]  [[G2532\|καὶ]]  [[G2298\|θαυμαστὰ]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G4771\|σου,]]  [[G2962G\|κύριε]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|ὁ]]  [[G3841\|παντοκράτωρ.]]  [[G1342\|δίκαιαι]]  [[G2532\|καὶ]]  [[G0228\|ἀληθιναὶ]]  [[G3588\|αἱ]]  [[G3598\|ὁδοί]]  [[G4771\|σου,]]  [[G3588\|ὁ]]  [[G0935\|βασιλεὺς]]  [[G3588\|τῶν]]  [[G1484\|ἐθνῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAMB OF GOD|LAMB OF GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]] • [[topic SONG|SONG]] • [[topic TRUTH|TRUTH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.15.2|<< Revelation 15:2]]</td><td align="center" style="border:none;">[[Rev.15|Revelation 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.15.4|Revelation 15:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 15:3** is...
 > $\quad$ alluding to: [[LXX.Exod.15.11|Exod 15:11]]

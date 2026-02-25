@@ -1,10 +1,62 @@
+---
+title: Mark 14:44
+type: Verse
+kjv: "And he that betrayed him had given them a token, saying, Whomsoever I shall kiss, that same is he; take him, and lead him away safely."
+bsb: "Now the betrayer had arranged a signal with them: “The One I kiss is the man; arrest Him and lead Him away securely.”"
+greek: "δεδώκει δὲ ὁ παραδιδοὺς αὐτὸν σύσσημον αὐτοῖς λέγων· ὃν ἂν φιλήσω, αὐτός ἐστιν. κρατήσατε αὐτὸν καὶ ἀπάγετε ἀσφαλῶς."
+pericope: "[[Mark.14.43 The Betrayal of Jesus|The Betrayal of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GETHSEMANE|GETHSEMANE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic TRAITOR|TRAITOR]]"
+strongs:
+- "[[G1325]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3860]]"
+- "[[G0846]]"
+- "[[G4953]]"
+- "[[G3004G]]"
+- "[[G3739]]"
+- "[[G0302]]"
+- "[[G5368]]"
+- "[[G1510]]"
+- "[[G2902]]"
+- "[[G2532]]"
+- "[[G0520]]"
+- "[[G0806]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 14:44**<big><big>[[Mark.14.43 The Betrayal of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he that betrayed him had given them a token, saying, Whomsoever I shall kiss, that same is he; take him, and lead [him] away safely.
 <small><sub>**BSB:**</sub></small>
 Now the betrayer had arranged a signal with them: “The One I kiss is the man; arrest Him and lead Him away securely.”
-<small><sub>**Literal:**</sub></small>
-Had given then the [one] delivering up Him a sign to them saying: Whomever maybe I may kiss, He himself is. do seize Him and do lead [him] away securely.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.43|<< Mark 14:43]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.45|Mark 14:45 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1325\|δεδώκει]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G3860\|παραδιδοὺς]]  [[G0846\|αὐτὸν]]  [[G4953\|σύσσημον]]  [[G0846\|αὐτοῖς]]  [[G3004G\|λέγων·]]  [[G3739\|ὃν]]  [[G0302\|ἂν]]  [[G5368\|φιλήσω,]]  [[G0846\|αὐτός]]  [[G1510\|ἐστιν.]]  [[G2902\|κρατήσατε]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G0520\|ἀπάγετε]]  [[G0806\|ἀσφαλῶς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GETHSEMANE|GETHSEMANE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic TRAITOR|TRAITOR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.43|<< Mark 14:43]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.45|Mark 14:45 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

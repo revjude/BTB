@@ -1,10 +1,59 @@
+---
+title: Acts 19:14
+type: Verse
+kjv: "And there were seven sons of one Sceva, a Jew, and chief of the priests, which did so."
+bsb: "Seven sons of Sceva, a Jewish chief priest, were doing this."
+greek: "ἦσαν δέ τινος Σκευᾶ Ἰουδαίου ἀρχιερέως ἑπτὰ οἱ υἱοὶ τοῦτο ποιοῦντες."
+pericope: "[[Acts.19.13 Seven Sons of Sceva|Seven Sons of Sceva]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic SCEVA|SCEVA]]"
+- "[[topic SORCERY|SORCERY]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G4630]]"
+- "[[G2453]]"
+- "[[G0749]]"
+- "[[G2033]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G3778]]"
+- "[[G4160G]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Acts 19:14**<big><big>[[Acts.19.13 Seven Sons of Sceva|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there were seven sons of [one] Sceva, a Jew, [and] chief of the priests, which did so.
 <small><sub>**BSB:**</sub></small>
 Seven sons of Sceva, a Jewish chief priest, were doing this.
-<small><sub>**Literal:**</sub></small>
-They were now of a certain of Sceva a Jewish a high priest seven <the> sons this were doing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.13|<< Acts 19:13]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.15|Acts 19:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦσαν]]  [[G1161\|δέ]]  [[G5100\|τινος]]  [[G4630\|Σκευᾶ]]  [[G2453\|Ἰουδαίου]]  [[G0749\|ἀρχιερέως]]  [[G2033\|ἑπτὰ]]  [[G3588\|οἱ]]  [[G5207\|υἱοὶ]]  [[G3778\|τοῦτο]]  [[G4160G\|ποιοῦντες.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic EPHESUS|EPHESUS]] • [[topic MIRACLES|MIRACLES]] • [[topic PAUL|PAUL]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic SCEVA|SCEVA]] • [[topic SORCERY|SORCERY]] • [[topic SUPERSTITION|SUPERSTITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.13|<< Acts 19:13]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.15|Acts 19:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

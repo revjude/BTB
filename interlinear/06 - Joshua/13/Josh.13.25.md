@@ -1,8 +1,69 @@
+---
+title: Joshua 13:25
+type: Verse
+kjv: "And their coast was Jazer, and all the cities of Gilead, and half the land of the children of Ammon, unto Aroer that is before Rabbah;"
+bsb: "The territory of Jazer, all the cities of Gilead, and half the land of the Ammonites as far as Aroer, near Rabbah;"
+hebrew: "וַיְהִ֤י לָהֶם֙ הַגְּב֔וּל יַעְזֵר֙ וְכָל־ עָרֵ֣י הַגִּלְעָ֔ד וַחֲצִ֕י אֶ֖רֶץ בְּנֵ֣י עַמּ֑וֹן עַד־ עֲרוֹעֵ֕ר אֲשֶׁ֖ר עַל־ פְּנֵ֥י רַבָּֽה׃"
+pericope: "[[Josh.13.24 Gad’s Inheritance|Gad’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 13
+book/chapter: "[[Josh.13|Joshua 13]]"
+chronological_order: 243
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic AROER|AROER]]"
+- "[[topic GAD|GAD]]"
+- "[[topic JAAZER|JAAZER]]"
+- "[[topic JAZER|JAZER]]"
+- "[[topic RABBAH|RABBAH]]"
+- "[[topic TOPOGRAPHY|TOPOGRAPHY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H1366H]]"
+- "[[H3270G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H1568G]]"
+- "[[H2677]]"
+- "[[H0776G]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H5704]]"
+- "[[H6177G]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H7237]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 13:25**<big><big>[[Josh.13.24 Gad’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their coast was Jazer, and all the cities of Gilead, and half the land of the children of Ammon, unto Aroer that [is] before Rabbah;
 <small><sub>**BSB:**</sub></small>
 The territory of Jazer, all the cities of Gilead, and half the land of the Ammonites as far as Aroer, near Rabbah;
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H9009\|הַ]][[H1366H\|גְּב֔וּל]] [[H3270G\|יַעְזֵר֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5892B\|עָרֵ֣י]] [[H9009\|הַ]][[H1568G\|גִּלְעָ֔ד]] [[H9002\|וַ]][[H2677\|חֲצִ֕י]] [[H0776G\|אֶ֖רֶץ]] [[H1121G\|בְּנֵ֣י]] [[H5983\|עַמּ֑וֹן]] [[H5704\|עַד]][[H9014\|־]] [[H6177G\|עֲרוֹעֵ֕ר]] [[H0834A\|אֲשֶׁ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֥י]] [[H7237\|רַבָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic AROER|AROER]] • [[topic GAD|GAD]] • [[topic JAAZER|JAAZER]] • [[topic JAZER|JAZER]] • [[topic RABBAH|RABBAH]] • [[topic TOPOGRAPHY|TOPOGRAPHY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.24|<< Joshua 13:24]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.26|Joshua 13:26 >>]]</td></tr></table>
 

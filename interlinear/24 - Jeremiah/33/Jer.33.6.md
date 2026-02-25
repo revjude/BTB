@@ -1,8 +1,64 @@
+---
+title: Jeremiah 33:6
+type: Verse
+kjv: "Behold, I will bring it health and cure, and I will cure them, and will reveal unto them the abundance of peace and truth."
+bsb: "Nevertheless, I will bring to it health and healing, and I will heal its people and reveal to them the abundance of peace and truth."
+hebrew: "הִנְנִ֧י מַעֲלֶה־ לָּ֛הּ אֲרֻכָ֥ה וּמַרְפֵּ֖א וּרְפָאתִ֑ים וְגִלֵּיתִ֣י לָהֶ֔ם עֲתֶ֥רֶת שָׁל֖וֹם וֶאֱמֶֽת׃"
+pericope: "[[Jer.33.1 The Excellence of the Restored Nation|The Excellence of the Restored Nation]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 33
+book/chapter: "[[Jer.33|Jeremiah 33]]"
+chronological_order: 756
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SPIRITUALITY|SPIRITUALITY]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H5927H]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H0724]]"
+- "[[H9002]]"
+- "[[H4832]]"
+- "[[H9001]]"
+- "[[H7495]]"
+- "[[H9038]]"
+- "[[H1540H]]"
+- "[[H6283]]"
+- "[[H7965I]]"
+- "[[H0571I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 33:6**<big><big>[[Jer.33.1 The Excellence of the Restored Nation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will bring it health and cure, and I will cure them, and will reveal unto them the abundance of peace and truth.
 <small><sub>**BSB:**</sub></small>
 Nevertheless, I will bring to it health and healing, and I will heal its people and reveal to them the abundance of peace and truth.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנְ]][[H9040\|נִ֧י]] [[H5927H\|מַעֲלֶה]][[H9014\|־]] [[H9005\|לָּ֛]][[H9034\|הּ]] [[H0724\|אֲרֻכָ֥ה]] [[H9002\|וּ]][[H4832\|מַרְפֵּ֖א]] [[H9001\|וּ]][[H7495\|רְפָאתִ֑י]][[H9038\|ם]] [[H9001\|וְ]][[H1540H\|גִלֵּיתִ֣י]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H6283\|עֲתֶ֥רֶת]] [[H7965I\|שָׁל֖וֹם]] [[H9002\|וֶ]][[H0571I\|אֱמֶֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JOY|JOY]] • [[topic PEACE|PEACE]] • [[topic REGENERATION|REGENERATION]] • [[topic SPIRITUALITY|SPIRITUALITY]] • [[topic TRUTH|TRUTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.33.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.5|<< Jeremiah 33:5]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.7|Jeremiah 33:7 >>]]</td></tr></table>
 

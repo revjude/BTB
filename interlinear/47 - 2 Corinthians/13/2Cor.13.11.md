@@ -1,10 +1,61 @@
+---
+title: 2 Corinthians 13:11
+type: Verse
+kjv: "Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you."
+bsb: "Finally, brothers, rejoice! Aim for perfect harmony, encourage one another, be of one mind, live in peace. And the God of love and peace will be with you."
+greek: "Λοιπόν, ἀδελφοί, χαίρετε, καταρτίζεσθε, παρακαλεῖσθε, τὸ αὐτὸ φρονεῖτε, εἰρηνεύετε, καὶ ὁ θεὸς τῆς ἀγάπης καὶ εἰρήνης ἔσται μεθ᾽ ὑμῶν.¶"
+pericope: "[[2Cor.13.11 Benediction and Farewell|Benediction and Farewell]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 13
+book/chapter: "[[2Cor.13|2 Corinthians 13]]"
+chronological_order: 1086
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic UNITY|UNITY]]"
+strongs:
+- "[[G3063]]"
+- "[[G0080]]"
+- "[[G5463]]"
+- "[[G2675]]"
+- "[[G3870]]"
+- "[[G3588]]"
+- "[[G0846]]"
+- "[[G5426]]"
+- "[[G1514]]"
+- "[[G2532]]"
+- "[[G2316]]"
+- "[[G0026]]"
+- "[[G1515]]"
+- "[[G1510]]"
+- "[[G3326]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 13:11**<big><big>[[2Cor.13.11 Benediction and Farewell|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you.
 <small><sub>**BSB:**</sub></small>
 Finally, brothers, rejoice! Aim for perfect harmony, encourage one another, be of one mind, live in peace. And the God of love and peace will be with you.
-<small><sub>**Literal:**</sub></small>
-Finally, brothers, do rejoice do be perfected, do be encouraged, the same do think, do be at peace, And the God <the> of love and peace will be with you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.10|<< 2 Corinthians 13:10]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.12|2 Corinthians 13:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3063\|Λοιπόν,]]  [[G0080\|ἀδελφοί,]]  [[G5463\|χαίρετε,]]  [[G2675\|καταρτίζεσθε,]]  [[G3870\|παρακαλεῖσθε,]]  [[G3588\|τὸ]]  [[G0846\|αὐτὸ]]  [[G5426\|φρονεῖτε,]]  [[G1514\|εἰρηνεύετε,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τῆς]]  [[G0026\|ἀγάπης]]  [[G2532\|καὶ]]  [[G1515\|εἰρήνης]]  [[G1510\|ἔσται]]  [[G3326\|μεθ᾽]]  [[G4771\|ὑμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOD|GOD]] • [[topic MEEKNESS|MEEKNESS]] • [[topic PEACE|PEACE]] • [[topic PERFECTION|PERFECTION]] • [[topic UNITY|UNITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.10|<< 2 Corinthians 13:10]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.12|2 Corinthians 13:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

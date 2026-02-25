@@ -1,10 +1,54 @@
+---
+title: John 9:23
+type: Verse
+kjv: "Therefore said his parents, He is of age; ask him."
+bsb: "That was why his parents said, “He is old enough. Ask him.”"
+greek: "διὰ τοῦτο οἱ γονεῖς αὐτοῦ εἶπαν ὅτι ἡλικίαν ἔχει, αὐτὸν ἐπερωτήσατε.¶"
+pericope: "[[John.9.13 The Pharisees Investigate the Healing|The Pharisees Investigate the Healing]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 9
+book/chapter: "[[John.9|John 9]]"
+chronological_order: 983
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G1118]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G3754G]]"
+- "[[G2244]]"
+- "[[G2192]]"
+- "[[G1905]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 9:23**<big><big>[[John.9.13 The Pharisees Investigate the Healing|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore said his parents, He is of age; ask him.
 <small><sub>**BSB:**</sub></small>
 That was why his parents said, “He is old enough. Ask him.”
-<small><sub>**Literal:**</sub></small>
-Because of this the parents of him said that Age he has, him do question.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.22|<< John 9:22]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.24|John 9:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G3588\|οἱ]]  [[G1118\|γονεῖς]]  [[G0846\|αὐτοῦ]]  [[G2036\|εἶπαν]]  [[G3754G\|ὅτι]]  [[G2244\|ἡλικίαν]]  [[G2192\|ἔχει,]]  [[G0846\|αὐτὸν]]  [[G1905\|ἐπερωτήσατε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFESSION|CONFESSION]] • [[topic CONVERTS|CONVERTS]] • [[topic FAITH|FAITH]] • [[topic SABBATH|SABBATH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.22|<< John 9:22]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.24|John 9:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

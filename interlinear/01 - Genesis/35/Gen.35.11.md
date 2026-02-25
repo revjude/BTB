@@ -1,8 +1,67 @@
+---
+title: Genesis 35:11
+type: Verse
+kjv: "And God said unto him, I am God Almighty: be fruitful and multiply; a nation and a company of nations shall be of thee, and kings shall come out of thy loins;"
+bsb: "And God told him, “I am God Almighty. Be fruitful and multiply. A nation—even a company of nations—shall come from you, and kings shall descend from you."
+hebrew: "וַיֹּאמֶר֩ ל֨וֹ אֱלֹהִ֜ים אֲנִ֨י אֵ֤ל שַׁדַּי֙ פְּרֵ֣ה וּרְבֵ֔ה גּ֛וֹי וּקְהַ֥ל גּוֹיִ֖ם יִהְיֶ֣ה מִמֶּ֑ךָּ וּמְלָכִ֖ים מֵחֲלָצֶ֥יךָ יֵצֵֽאוּ׃"
+pericope: "[[Gen.35.1 Jacob Returns to Bethel|Jacob Returns to Bethel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 35
+book/chapter: "[[Gen.35|Genesis 35]]"
+chronological_order: 77
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic JACOB|JACOB]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0430G]]"
+- "[[H0589]]"
+- "[[H0410G]]"
+- "[[H7706]]"
+- "[[H6509]]"
+- "[[H9002]]"
+- "[[H7235A]]"
+- "[[H1471A]]"
+- "[[H6951]]"
+- "[[H1961]]"
+- "[[H4480A]]"
+- "[[H9031]]"
+- "[[H4428G]]"
+- "[[H9006]]"
+- "[[H2504]]"
+- "[[H9021]]"
+- "[[H3318M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 35:11**<big><big>[[Gen.35.1 Jacob Returns to Bethel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God said unto him, I [am] God Almighty: be fruitful and multiply; a nation and a company of nations shall be of thee, and kings shall come out of thy loins;
 <small><sub>**BSB:**</sub></small>
 And God told him, “I am God Almighty. Be fruitful and multiply. A nation—even a company of nations—shall come from you, and kings shall descend from you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמֶר֩]] [[H9005\|ל֨]][[H9033\|וֹ]] [[H0430G\|אֱלֹהִ֜ים]] [[H0589\|אֲנִ֨י]] [[H0410G\|אֵ֤ל]] [[H7706\|שַׁדַּי֙]] [[H6509\|פְּרֵ֣ה]] [[H9002\|וּ]][[H7235A\|רְבֵ֔ה]] [[H1471A\|גּ֛וֹי]] [[H9002\|וּ]][[H6951\|קְהַ֥ל]] [[H1471A\|גּוֹיִ֖ם]] [[H1961\|יִהְיֶ֣ה]] [[H4480A\|מִמֶּ֑]][[H9031\|ךָּ]] [[H9002\|וּ]][[H4428G\|מְלָכִ֖ים]] [[H9006\|מֵ]][[H2504\|חֲלָצֶ֥י]][[H9021\|ךָ]] [[H3318M\|יֵצֵֽאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-EL|BETH-EL]] • [[topic BLESSING|BLESSING]] • [[topic JACOB|JACOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.35.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.10|<< Genesis 35:10]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.12|Genesis 35:12 >>]]</td></tr></table>
 

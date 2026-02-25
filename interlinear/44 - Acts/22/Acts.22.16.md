@@ -1,10 +1,58 @@
+---
+title: Acts 22:16
+type: Verse
+kjv: "And now why tarriest thou? arise, and be baptized, and wash away thy sins, calling on the name of the Lord."
+bsb: "And now what are you waiting for? Get up, be baptized, and wash your sins away, calling on His name.’"
+greek: "καὶ νῦν τί μέλλεις; ἀναστὰς βάπτισαι καὶ ἀπόλουσαι τὰς ἁμαρτίας σου ἐπικαλεσάμενος τὸ ὄνομα αὐτοῦ.¶"
+pericope: "[[Acts.22.1 Paul’s Defense to the Crowd|Paul’s Defense to the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 22
+book/chapter: "[[Acts.22|Acts 22]]"
+chronological_order: 1104
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic ANANIAS|ANANIAS]]"
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G3568]]"
+- "[[G5101]]"
+- "[[G3195]]"
+- "[[G0450]]"
+- "[[G0907]]"
+- "[[G0628]]"
+- "[[G3588]]"
+- "[[G0266]]"
+- "[[G4771]]"
+- "[[G1941]]"
+- "[[G3686]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Acts 22:16**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And now why tarriest thou? arise, and be baptized, and wash away thy sins, calling on the name of the Lord.
 <small><sub>**BSB:**</sub></small>
 And now what are you waiting for? Get up, be baptized, and wash your sins away, calling on His name.’
-<small><sub>**Literal:**</sub></small>
-And now why delay you? Having arisen do yourself be baptized and do yourself wash away the sins of you calling on the name of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.15|<< Acts 22:15]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.17|Acts 22:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3568\|νῦν]]  [[G5101\|τί]]  [[G3195\|μέλλεις;]]  [[G0450\|ἀναστὰς]]  [[G0907\|βάπτισαι]]  [[G2532\|καὶ]]  [[G0628\|ἀπόλουσαι]]  [[G3588\|τὰς]]  [[G0266\|ἁμαρτίας]]  [[G4771\|σου]]  [[G1941\|ἐπικαλεσάμενος]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic ANANIAS|ANANIAS]] • [[topic BAPTISM|BAPTISM]] • [[topic DAMASCUS|DAMASCUS]] • [[topic PAUL|PAUL]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.15|<< Acts 22:15]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.17|Acts 22:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

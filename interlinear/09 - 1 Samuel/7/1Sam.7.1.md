@@ -1,8 +1,71 @@
+---
+title: 1 Samuel 7:1
+type: Verse
+kjv: "And the men of Kirjathjearim came, and fetched up the ark of the LORD, and brought it into the house of Abinadab in the hill, and sanctified Eleazar his son to keep the ark of the LORD."
+bsb: "Then the men of Kiriath-jearim came for the ark of the LORD and took it into Abinadab’s house on the hill. And they consecrated his son Eleazar to guard the ark of the LORD."
+hebrew: "וַיָּבֹ֜אוּ אַנְשֵׁ֣י׀ קִרְיַ֣ת יְעָרִ֗ים וַֽיַּעֲלוּ֙ אֶת־ אֲר֣וֹן יְהוָ֔ה וַיָּבִ֣אוּ אֹת֔וֹ אֶל־ בֵּ֥ית אֲבִינָדָ֖ב בַּגִּבְעָ֑ה וְאֶת־ אֶלְעָזָ֤ר בְּנוֹ֙ קִדְּשׁ֔וּ לִשְׁמֹ֖ר אֶת־ אֲר֥וֹן יְהוָֽה׃ פ"
+pericope: "[[1Sam.7.1 Samuel Subdues the Philistines|Samuel Subdues the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 7
+book/chapter: "[[1Sam.7|1 Samuel 7]]"
+chronological_order: 286
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABINADAB|ABINADAB]]"
+- "[[topic ARK|ARK]]"
+- "[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]]"
+- "[[topic GIBEAH|GIBEAH]]"
+- "[[topic KIRJATH-JEARIM|KIRJATH-JEARIM]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0582]]"
+- "[[H9015]]"
+- "[[H7157]]"
+- "[[H5927H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0727]]"
+- "[[H3068G]]"
+- "[[H0935P]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H1004B]]"
+- "[[H0041G]]"
+- "[[H9003]]"
+- "[[H1389I]]"
+- "[[H9002]]"
+- "[[H0499H]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H6942G]]"
+- "[[H9005]]"
+- "[[H8104H]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Samuel 7:1**<big><big>[[1Sam.7.1 Samuel Subdues the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men of Kirjathjearim came, and fetched up the ark of the LORD, and brought it into the house of Abinadab in the hill, and sanctified Eleazar his son to keep the ark of the LORD.
 <small><sub>**BSB:**</sub></small>
 Then the men of Kiriath-jearim came for the ark of the LORD and took it into Abinadab’s house on the hill. And they consecrated his son Eleazar to guard the ark of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֜אוּ]] [[H0582\|אַנְשֵׁ֣י]][[H9015\|׀]] [[H7157\|קִרְיַ֣ת]] [[H7157\|יְעָרִ֗ים]] [[H9001\|וַֽ]][[H5927H\|יַּעֲלוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲר֣וֹן]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H0935P\|יָּבִ֣אוּ]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּ֥ית]] [[H0041G\|אֲבִינָדָ֖ב]] [[H9003\|בַּ]][[H1389I\|גִּבְעָ֑ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0499H\|אֶלְעָזָ֤ר]] [[H1121A\|בְּנ]][[H9023\|וֹ֙]] [[H6942G\|קִדְּשׁ֔וּ]] [[H9005\|לִ]][[H8104H\|שְׁמֹ֖ר]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲר֥וֹן]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABINADAB|ABINADAB]] • [[topic ARK|ARK]] • [[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]] • [[topic GIBEAH|GIBEAH]] • [[topic KIRJATH-JEARIM|KIRJATH-JEARIM]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.7.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.21|<< 1 Samuel 6:21]]</td><td align="center" style="border:none;">[[1Sam.7|1 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.7.2|1 Samuel 7:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -33,7 +96,7 @@ Then the men of Kiriath-jearim came for the ark of the LORD and took it into Abi
 | to keep  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8104H\|שְׁמֹ֖ר]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> sh.Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] ark of  |**<big>&#8207;[[H0727\|אֲר֥וֹן]]&#8207; </big>**| 'a.Ron<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.21|<< 1 Samuel 6:21]]</td><td align="center" style="border:none;">[[1Sam.7|1 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.7.2|1 Samuel 7:2 >>]]</td></tr></table>
 
 

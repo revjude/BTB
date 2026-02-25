@@ -1,10 +1,53 @@
+---
+title: John 15:18
+type: Verse
+kjv: "If the world hate you, ye know that it hated me before it hated you."
+bsb: "If the world hates you, understand that it hated Me first."
+jesus_said: "If the world hate you, ye know that it hated me before it hated you."
+greek: "εἰ ὁ κόσμος ὑμᾶς μισεῖ, γινώσκετε ὅτι ἐμὲ πρῶτον ὑμῶν μεμίσηκεν."
+pericope: "[[John.15.18 The Hatred of the World|The Hatred of the World]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 15
+book/chapter: "[[John.15|John 15]]"
+chronological_order: 1003
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic HATRED|HATRED]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[G1487G]]"
+- "[[G3588]]"
+- "[[G2889]]"
+- "[[G4771]]"
+- "[[G3404]]"
+- "[[G1097]]"
+- "[[G3754G]]"
+- "[[G1473]]"
+- "[[G4413H]]"
+texts:
+- NKO
+---
+
 **John 15:18**<big><big>[[John.15.18 The Hatred of the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If the world hate you, ye know that it hated me before [it hated] you.
 <small><sub>**BSB:**</sub></small>
 If the world hates you, understand that it hated Me first.
-<small><sub>**Literal:**</sub></small>
-If the world you hates, you know that Me myself before you it has hated.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.17|<< John 15:17]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.19|John 15:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G3588\|ὁ]]  [[G2889\|κόσμος]]  [[G4771\|ὑμᾶς]]  [[G3404\|μισεῖ,]]  [[G1097\|γινώσκετε]]  [[G3754G\|ὅτι]]  [[G1473\|ἐμὲ]]  [[G4413H\|πρῶτον]]  [[G4771\|ὑμῶν]]  [[G3404\|μεμίσηκεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic HATRED|HATRED]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.17|<< John 15:17]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.19|John 15:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

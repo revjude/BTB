@@ -1,8 +1,70 @@
+---
+title: 1 Kings 8:59
+type: Verse
+kjv: "And let these my words, wherewith I have made supplication before the LORD, be nigh unto the LORD our God day and night, that he maintain the cause of his servant, and the cause of his people Israel at all times, as the matter shall require:"
+bsb: "And may these words with which I have made my petition before the LORD be near to the LORD our God day and night, so that He may uphold the cause of His servant and of His people Israel as each day requires,"
+hebrew: "וְיִֽהְי֨וּ דְבָרַ֜י אֵ֗לֶּה אֲשֶׁ֤ר הִתְחַנַּ֙נְתִּי֙ לִפְנֵ֣י יְהוָ֔ה קְרֹבִ֛ים אֶל־ יְהוָ֥ה אֱלֹהֵ֖ינוּ יוֹמָ֣ם וָלָ֑יְלָה לַעֲשׂ֣וֹת׀ מִשְׁפַּ֣ט עַבְדּ֗וֹ וּמִשְׁפַּ֛ט עַמּ֥וֹ יִשְׂרָאֵ֖ל דְּבַר־ י֥וֹם בְּיוֹמֽוֹ׃"
+pericope: "[[1Kgs.8.54 Solomon’s Benediction|Solomon’s Benediction]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9020]]"
+- "[[H0428]]"
+- "[[H0834A]]"
+- "[[H2603A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H7138]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H3119]]"
+- "[[H3915]]"
+- "[[H6213A]]"
+- "[[H9015]]"
+- "[[H4941H]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H5971A]]"
+- "[[H3478]]"
+- "[[H1697I]]"
+- "[[H3117J]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:59**<big><big>[[1Kgs.8.54 Solomon’s Benediction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let these my words, wherewith I have made supplication before the LORD, be nigh unto the LORD our God day and night, that he maintain the cause of his servant, and the cause of his people Israel at all times, as the matter shall require:
 <small><sub>**BSB:**</sub></small>
 And may these words with which I have made my petition before the LORD be near to the LORD our God day and night, so that He may uphold the cause of His servant and of His people Israel as each day requires,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1961\|יִֽהְי֨וּ]] [[H1697G\|דְבָרַ֜]][[H9020\|י]] [[H0428\|אֵ֗לֶּה]] [[H0834A\|אֲשֶׁ֤ר]] [[H2603A\|הִתְחַנַּ֙נְתִּי֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H7138\|קְרֹבִ֛ים]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵ֖י]][[H9025\|נוּ]] [[H3119\|יוֹמָ֣ם]] [[H9002\|וָ]][[H3915\|לָ֑יְלָה]] [[H9005\|לַ]][[H6213A\|עֲשׂ֣וֹת]][[H9015\|׀]] [[H4941H\|מִשְׁפַּ֣ט]] [[H5650\|עַבְדּ֗]][[H9023\|וֹ]] [[H9002\|וּ]][[H4941H\|מִשְׁפַּ֛ט]] [[H5971A\|עַמּ֥]][[H9023\|וֹ]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H1697I\|דְּבַר]][[H9014\|־]] [[H3117J\|י֥וֹם]] [[H9003\|בְּ]][[H3117J\|יוֹמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.59|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.58|<< 1 Kings 8:58]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.60|1 Kings 8:60 >>]]</td></tr></table>
 

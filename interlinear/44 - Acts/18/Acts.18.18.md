@@ -1,10 +1,68 @@
+---
+title: Acts 18:18
+type: Verse
+kjv: "And Paul after this tarried there yet a good while, and then took his leave of the brethren, and sailed thence into Syria, and with him Priscilla and Aquila; having shorn his head in Cenchrea: for he had a vow."
+bsb: "Paul remained in Corinth for quite some time before saying goodbye to the brothers. He had his head shaved in Cenchrea to keep a vow he had made, and then he sailed for Syria, accompanied by Priscilla and Aquila."
+greek: "Ὁ δὲ Παῦλος ἔτι προσμείνας ἡμέρας ἱκανάς, τοῖς ἀδελφοῖς ἀποταξάμενος ἐξέπλει εἰς τὴν Συρίαν, καὶ σὺν αὐτῷ Πρίσκιλλα καὶ Ἀκύλας, κειράμενος ἐν Κεγχρεαῖς τὴν κεφαλήν· εἶχεν γὰρ εὐχήν."
+pericope: "[[Acts.18.18 Paul Returns to Antioch|Paul Returns to Antioch]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 18
+book/chapter: "[[Acts.18|Acts 18]]"
+chronological_order: 1047
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic AQUILA AND PRISCILLA|AQUILA AND PRISCILLA]]"
+- "[[topic CENCHREA|CENCHREA]]"
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRISCILLA|PRISCILLA]]"
+- "[[topic SYRIA|SYRIA]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3972G]]"
+- "[[G2089]]"
+- "[[G4357]]"
+- "[[G2250]]"
+- "[[G2425]]"
+- "[[G0080]]"
+- "[[G0657]]"
+- "[[G1602]]"
+- "[[G1519]]"
+- "[[G4947]]"
+- "[[G2532]]"
+- "[[G4862]]"
+- "[[G0846]]"
+- "[[G4252]]"
+- "[[G0207]]"
+- "[[G2751]]"
+- "[[G1722]]"
+- "[[G2747]]"
+- "[[G2776]]"
+- "[[G2192]]"
+- "[[G1063]]"
+- "[[G2171]]"
+texts:
+- NKO
+---
+
 **Acts 18:18**<big><big>[[Acts.18.18 Paul Returns to Antioch|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Paul [after this] tarried [there] yet a good while, and then took his leave of the brethren, and sailed thence into Syria, and with him Priscilla and Aquila; having shorn [his] head in Cenchrea: for he had a vow.
 <small><sub>**BSB:**</sub></small>
 Paul remained in Corinth for quite some time before saying goodbye to the brothers. He had his head shaved in Cenchrea to keep a vow he had made, and then he sailed for Syria, accompanied by Priscilla and Aquila.
-<small><sub>**Literal:**</sub></small>
-<the> Now Paul more having remained days many, of the brothers having taken leave he was sailing away to <the> Syria — and with him Priscilla and Aquila — having shaved in Cenchrea the head; he had for a vow.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.17|<< Acts 18:17]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.19|Acts 18:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G3972G\|Παῦλος]]  [[G2089\|ἔτι]]  [[G4357\|προσμείνας]]  [[G2250\|ἡμέρας]]  [[G2425\|ἱκανάς,]]  [[G3588\|τοῖς]]  [[G0080\|ἀδελφοῖς]]  [[G0657\|ἀποταξάμενος]]  [[G1602\|ἐξέπλει]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4947\|Συρίαν,]]  [[G2532\|καὶ]]  [[G4862\|σὺν]]  [[G0846\|αὐτῷ]]  [[G4252\|Πρίσκιλλα]]  [[G2532\|καὶ]]  [[G0207\|Ἀκύλας,]]  [[G2751\|κειράμενος]]  [[G1722\|ἐν]]  [[G2747\|Κεγχρεαῖς]]  [[G3588\|τὴν]]  [[G2776\|κεφαλήν·]]  [[G2192\|εἶχεν]]  [[G1063\|γὰρ]]  [[G2171\|εὐχήν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AQUILA AND PRISCILLA|AQUILA AND PRISCILLA]] • [[topic CENCHREA|CENCHREA]] • [[topic EPHESUS|EPHESUS]] • [[topic PAUL|PAUL]] • [[topic PRISCILLA|PRISCILLA]] • [[topic SYRIA|SYRIA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.17|<< Acts 18:17]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.19|Acts 18:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,80 @@
+---
+title: 1 Samuel 20:29
+type: Verse
+kjv: "And he said, Let me go, I pray thee; for our family hath a sacrifice in the city; and my brother, he hath commanded me to be there: and now, if I have found favour in thine eyes, let me get away, I pray thee, and see my brethren. Therefore he cometh not unto the king’s table."
+bsb: "saying, ‘Please let me go, because our clan is holding a sacrifice in the city, and my brother has told me to be there. So now, if I have found favor in your eyes, please let me go and see my brothers.’ That is why he has not come to the king’s table.”"
+hebrew: "וַיֹּ֡אמֶר שַׁלְּחֵ֣נִי נָ֡א כִּ֣י זֶבַח֩ מִשְׁפָּחָ֨ה לָ֜נוּ בָּעִ֗יר וְה֤וּא צִוָּֽה־ לִי֙ אָחִ֔י וְעַתָּ֗ה אִם־ מָצָ֤אתִי חֵן֙ בְּעֵינֶ֔יךָ אִמָּ֥לְטָה נָּ֖א וְאֶרְאֶ֣ה אֶת־ אֶחָ֑י עַל־ כֵּ֣ן לֹא־ בָ֔א אֶל־ שֻׁלְחַ֖ן הַמֶּֽלֶךְ׃ ס"
+pericope: "[[1Sam.20.10 Jonathan and David Renew Their Covenant|Jonathan and David Renew Their Covenant]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 20
+book/chapter: "[[1Sam.20|1 Samuel 20]]"
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARROW|ARROW]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TABLE|TABLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7971H]]"
+- "[[H9030]]"
+- "[[H4994]]"
+- "[[H3588A]]"
+- "[[H2077]]"
+- "[[H4940]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H6680]]"
+- "[[H9014]]"
+- "[[H0251G]]"
+- "[[H9020]]"
+- "[[H6258]]"
+- "[[H0518A]]"
+- "[[H4672]]"
+- "[[H2580]]"
+- "[[H5869I]]"
+- "[[H9021]]"
+- "[[H4422]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H3808]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H7979]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Samuel 20:29**<big><big>[[1Sam.20.10 Jonathan and David Renew Their Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Let me go, I pray thee; for our family hath a sacrifice in the city; and my brother, he hath commanded me [to be there]: and now, if I have found favour in thine eyes, let me get away, I pray thee, and see my brethren. Therefore he cometh not unto the king’s table.
 <small><sub>**BSB:**</sub></small>
 saying, ‘Please let me go, because our clan is holding a sacrifice in the city, and my brother has told me to be there. So now, if I have found favor in your eyes, please let me go and see my brothers.’ That is why he has not come to the king’s table.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֡אמֶר]] [[H7971H\|שַׁלְּחֵ֣]][[H9030\|נִי]] [[H4994\|נָ֡א]] [[H3588A\|כִּ֣י]] [[H2077\|זֶבַח֩]] [[H4940\|מִשְׁפָּחָ֨ה]] [[H9005\|לָ֜]][[H9035\|נוּ]] [[H9003\|בָּ]][[H5892B\|עִ֗יר]] [[H9002\|וְ]][[H1931\|ה֤וּא]] [[H6680\|צִוָּֽה]][[H9014\|־]] [[H9005\|לִ]][[H9030\|י֙]] [[H0251G\|אָחִ֔]][[H9020\|י]] [[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H0518A\|אִם]][[H9014\|־]] [[H4672\|מָצָ֤אתִי]] [[H2580\|חֵן֙]] [[H9003\|בְּ]][[H5869I\|עֵינֶ֔י]][[H9021\|ךָ]] [[H4422\|אִמָּ֥לְטָה]] [[H4994\|נָּ֖א]] [[H9002\|וְ]][[H7200G\|אֶרְאֶ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0251G\|אֶחָ֑]][[H9020\|י]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֣ן]] [[H3808\|לֹא]][[H9014\|־]] [[H0935G\|בָ֔א]] [[H0413\|אֶל]][[H9014\|־]] [[H7979\|שֻׁלְחַ֖ן]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARROW|ARROW]] • [[topic JEALOUSY|JEALOUSY]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TABLE|TABLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.28|<< 1 Samuel 20:28]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.30|1 Samuel 20:30 >>]]</td></tr></table>
 
@@ -36,7 +108,7 @@ saying, ‘Please let me go, because our clan is holding a sacrifice in the city
 | he has come  |**<big>&#8207;[[H0935G\|בָ֔א]]&#8207; </big>**| Va'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] table of  |**<big>&#8207;[[H7979\|שֻׁלְחַ֖ן]]&#8207; </big>**| shul.Chan<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּֽלֶךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּֽלֶךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.28|<< 1 Samuel 20:28]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.30|1 Samuel 20:30 >>]]</td></tr></table>
 
 

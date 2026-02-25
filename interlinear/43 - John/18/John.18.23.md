@@ -1,10 +1,62 @@
+---
+title: John 18:23
+type: Verse
+kjv: "Jesus answered him, If I have spoken evil, bear witness of the evil: but if well, why smitest thou me?"
+bsb: "Jesus replied, “If I said something wrong, testify as to what was wrong. But if I spoke correctly, why did you strike Me?”"
+jesus_said: "If I have spoken evil, bear witness of the evil: but if well, why smitest thou me?"
+greek: "ἀπεκρίθη αὐτῷ ὁ Ἰησοῦς· εἰ κακῶς ἐλάλησα, μαρτύρησον περὶ τοῦ κακοῦ· εἰ δὲ καλῶς, τί με δέρεις;¶"
+pericope: "[[John.18.19 Jesus before the High Priest|Jesus before the High Priest]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1487G]]"
+- "[[G2560]]"
+- "[[G2980]]"
+- "[[G3140]]"
+- "[[G4012]]"
+- "[[G2556G]]"
+- "[[G1161]]"
+- "[[G2573]]"
+- "[[G5101]]"
+- "[[G3165]]"
+- "[[G1194]]"
+texts:
+- NKO
+- k
+---
+
 **John 18:23**<big><big>[[John.18.19 Jesus before the High Priest|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus answered him, If I have spoken evil, bear witness of the evil: but if well, why smitest thou me?
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “If I said something wrong, testify as to what was wrong. But if I spoke correctly, why did you strike Me?”
-<small><sub>**Literal:**</sub></small>
-Answered to him <the> Jesus; If evil I spoke, do bear witness concerning the evil; if however rightly, why Me strike you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.22|<< John 18:22]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.24|John 18:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθη]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G1487G\|εἰ]]  [[G2560\|κακῶς]]  [[G2980\|ἐλάλησα,]]  [[G3140\|μαρτύρησον]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G2556G\|κακοῦ·]]  [[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G2573\|καλῶς,]]  [[G5101\|τί]]  [[G3165\|με]]  [[G1194\|δέρεις;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MALICE|MALICE]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.22|<< John 18:22]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.24|John 18:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

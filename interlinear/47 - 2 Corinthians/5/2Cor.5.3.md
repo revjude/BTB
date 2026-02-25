@@ -1,10 +1,51 @@
+---
+title: 2 Corinthians 5:3
+type: Verse
+kjv: "If so be that being clothed we shall not be found naked."
+bsb: "because when we are clothed, we will not be found naked."
+greek: "εἴ γε καὶ ἐκδυσάμενοι οὐ γυμνοὶ εὑρεθησόμεθα."
+pericope: "[[2Cor.5.1 Our Eternal Dwelling|Our Eternal Dwelling]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 5
+book/chapter: "[[2Cor.5|2 Corinthians 5]]"
+chronological_order: 1078
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic GARMENT|GARMENT]]"
+- "[[topic MAN|MAN]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1065]]"
+- "[[G2532]]"
+- "[[G1562]]"
+- "[[G3756]]"
+- "[[G1131]]"
+- "[[G2147]]"
+texts:
+- NK(o)
+- NKO
+- N(K)O
+---
+
 **2 Corinthians 5:3**<big><big>[[2Cor.5.1 Our Eternal Dwelling|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If so be that being clothed we shall not be found naked.
 <small><sub>**BSB:**</sub></small>
 because when we are clothed, we will not be found naked.
-<small><sub>**Literal:**</sub></small>
-If even even having put off not naked we will be found.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.2|<< 2 Corinthians 5:2]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.4|2 Corinthians 5:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἴ]]  [[G1065\|γε]]  [[G2532\|καὶ]]  [[G1562\|ἐκδυσάμενοι]]  [[G3756\|οὐ]]  [[G1131\|γυμνοὶ]]  [[G2147\|εὑρεθησόμεθα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GARMENT|GARMENT]] • [[topic MAN|MAN]] • [[topic RESURRECTION|RESURRECTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.2|<< 2 Corinthians 5:2]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.4|2 Corinthians 5:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

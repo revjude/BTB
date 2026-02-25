@@ -1,10 +1,55 @@
+---
+title: Matthew 27:59
+type: Verse
+kjv: "And when Joseph had taken the body, he wrapped it in a clean linen cloth,"
+bsb: "So Joseph took the body, wrapped it in a clean linen cloth,"
+greek: "Καὶ λαβὼν τὸ σῶμα ὁ Ἰωσὴφ ἐνετύλιξεν αὐτὸ ἐν σινδόνι καθαρᾷ"
+pericope: "[[Matt.27.57 The Burial of Jesus|The Burial of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[G3588]]"
+- "[[G4983]]"
+- "[[G2501I]]"
+- "[[G1794]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G4616]]"
+- "[[G2513]]"
+texts:
+- NKO
+- no
+---
+
 **Matthew 27:59**<big><big>[[Matt.27.57 The Burial of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when Joseph had taken the body, he wrapped it in a clean linen cloth,
 <small><sub>**BSB:**</sub></small>
 So Joseph took the body, wrapped it in a clean linen cloth,
-<small><sub>**Literal:**</sub></small>
-And having taken the body <the> Joseph wrapped it in a linen cloth clean<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.58|<< Matthew 27:58]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.60|Matthew 27:60 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2983\|λαβὼν]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G3588\|ὁ]]  [[G2501I\|Ἰωσὴφ]]  [[G1794\|ἐνετύλιξεν]]  [[G0846\|αὐτὸ]]  [[G1722\|ἐν]]  [[G4616\|σινδόνι]]  [[G2513\|καθαρᾷ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.58|<< Matthew 27:58]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.60|Matthew 27:60 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

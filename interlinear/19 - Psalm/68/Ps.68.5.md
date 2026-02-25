@@ -1,8 +1,57 @@
+---
+title: Psalm 68:5
+type: Verse
+kjv: "A father of the fatherless, and a judge of the widows, is God in his holy habitation."
+bsb: "A father of the fatherless and a defender of widows is God in His holy habitation."
+hebrew: "אֲבִ֣י יְ֭תוֹמִים וְדַיַּ֣ן אַלְמָנ֑וֹת אֱ֝לֹהִ֗ים בִּמְע֥וֹן קָדְשֽׁוֹ׃"
+pericope: "[[Ps.68.1 God’s Enemies Are Scattered|God’s Enemies Are Scattered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 68
+book/chapter: "[[Ps.68|Psalm 68]]"
+chronological_order: 376
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[H0001G]]"
+- "[[H3490]]"
+- "[[H9002]]"
+- "[[H1781]]"
+- "[[H0490]]"
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H4583]]"
+- "[[H6944G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 68:5**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A father of the fatherless, and a judge of the widows, [is] God in his holy habitation.
 <small><sub>**BSB:**</sub></small>
 A father of the fatherless and a defender of widows is God in His holy habitation.
+<small><sub>**Hebrew:**</sub></small>
+[[H0001G\|אֲבִ֣י]] [[H3490\|יְ֭תוֹמִים]] [[H9002\|וְ]][[H1781\|דַיַּ֣ן]] [[H0490\|אַלְמָנ֑וֹת]] [[H0430G\|אֱ֝לֹהִ֗ים]] [[H9003\|בִּ]][[H4583\|מְע֥וֹן]] [[H6944G\|קָדְשֽׁ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic GOD|GOD]] • [[topic ORPHAN|ORPHAN]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.4|<< Psalms 68:4]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.6|Psalms 68:6 >>]]</td></tr></table>
 

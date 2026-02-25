@@ -1,8 +1,61 @@
+---
+title: Isaiah 62:5
+type: Verse
+kjv: "For as a young man marrieth a virgin, so shall thy sons marry thee: and as the bridegroom rejoiceth over the bride, so shall thy God rejoice over thee."
+bsb: "For as a young man marries a young woman, so your sons will marry you; and as a bridegroom rejoices over his bride, so your God will rejoice over you."
+hebrew: "כִּֽי־ יִבְעַ֤ל בָּחוּר֙ בְּתוּלָ֔ה יִבְעָל֖וּךְ בָּנָ֑יִךְ וּמְשׂ֤וֹשׂ חָתָן֙ עַל־ כַּלָּ֔ה יָשִׂ֥ישׂ עָלַ֖יִךְ אֱלֹהָֽיִךְ׃"
+pericope: "[[Isa.62.1 Zion’s Salvation and New Name|Zion’s Salvation and New Name]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 62
+book/chapter: "[[Isa.62|Isaiah 62]]"
+chronological_order: 701
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic VIRGIN|VIRGIN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1166I]]"
+- "[[H0970]]"
+- "[[H1330]]"
+- "[[H9032]]"
+- "[[H1121A]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H4885]]"
+- "[[H2860]]"
+- "[[H5921A]]"
+- "[[H3618G]]"
+- "[[H7797]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 62:5**<big><big>[[Isa.62.1 Zion’s Salvation and New Name|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [as] a young man marrieth a virgin, [so] shall thy sons marry thee: and [as] the bridegroom rejoiceth over the bride, [so] shall thy God rejoice over thee.
 <small><sub>**BSB:**</sub></small>
 For as a young man marries a young woman, so your sons will marry you; and as a bridegroom rejoices over his bride, so your God will rejoice over you.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H1166I\|יִבְעַ֤ל]] [[H0970\|בָּחוּר֙]] [[H1330\|בְּתוּלָ֔ה]] [[H1166I\|יִבְעָל֖וּ]][[H9032\|ךְ]] [[H1121A\|בָּנָ֑יִ]][[H9022\|ךְ]] [[H9002\|וּ]][[H4885\|מְשׂ֤וֹשׂ]] [[H2860\|חָתָן֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3618G\|כַּלָּ֔ה]] [[H7797\|יָשִׂ֥ישׂ]] [[H5921A\|עָלַ֖יִ]][[H9032\|ךְ]] [[H0430G\|אֱלֹהָֽיִ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MARRIAGE|MARRIAGE]] • [[topic VIRGIN|VIRGIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.62.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.62.4|<< Isaiah 62:4]]</td><td align="center" style="border:none;">[[Isa.62|Isaiah 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.62.6|Isaiah 62:6 >>]]</td></tr></table>
 

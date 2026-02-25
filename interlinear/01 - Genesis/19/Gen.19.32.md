@@ -1,8 +1,65 @@
+---
+title: Genesis 19:32
+type: Verse
+kjv: "Come, let us make our father drink wine, and we will lie with him, that we may preserve seed of our father."
+bsb: "Come, let us get our father drunk with wine so we can sleep with him and preserve his line.”"
+hebrew: "לְכָ֨ה נַשְׁקֶ֧ה אֶת־ אָבִ֛ינוּ יַ֖יִן וְנִשְׁכְּבָ֣ה עִמּ֑וֹ וּנְחַיֶּ֥ה מֵאָבִ֖ינוּ זָֽרַע׃"
+pericope: "[[Gen.19.30 Lot and His Daughters|Lot and His Daughters]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 19
+book/chapter: "[[Gen.19|Genesis 19]]"
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic INCEST|INCEST]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic LOT|LOT]]"
+- "[[topic WINE|WINE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H1980K]]"
+- "[[H9012]]"
+- "[[H8248H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H3196]]"
+- "[[H9002]]"
+- "[[H7901I]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H2421]]"
+- "[[H9006]]"
+- "[[H2233H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 19:32**<big><big>[[Gen.19.30 Lot and His Daughters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come, let us make our father drink wine, and we will lie with him, that we may preserve seed of our father.
 <small><sub>**BSB:**</sub></small>
 Come, let us get our father drunk with wine so we can sleep with him and preserve his line.”
+<small><sub>**Hebrew:**</sub></small>
+[[H1980K\|לְכָ֨]][[H9012\|ה]] [[H8248H\|נַשְׁקֶ֧ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אָבִ֛י]][[H9025\|נוּ]] [[H3196\|יַ֖יִן]] [[H9002\|וְ]][[H7901I\|נִשְׁכְּבָ֣ה]] [[H5973A\|עִמּ֑]][[H9033\|וֹ]] [[H9002\|וּ]][[H2421\|נְחַיֶּ֥ה]] [[H9006\|מֵ]][[H0001G\|אָבִ֖י]][[H9025\|נוּ]] [[H2233H\|זָֽרַע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHILDREN|CHILDREN]] • [[topic INCEST|INCEST]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic LOT|LOT]] • [[topic WINE|WINE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.31|<< Genesis 19:31]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.33|Genesis 19:33 >>]]</td></tr></table>
 

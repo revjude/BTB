@@ -1,8 +1,53 @@
+---
+title: Job 40:12
+type: Verse
+kjv: "Look on every one that is proud, and bring him low; and tread down the wicked in their place."
+bsb: "Look on every proud man and humble him; trample the wicked where they stand."
+hebrew: "רְאֵ֣ה כָל־ גֵּ֭אֶה הַכְנִיעֵ֑הוּ וַהֲדֹ֖ךְ רְשָׁעִ֣ים תַּחְתָּֽם׃"
+pericope: "[[Job.40.6 The LORD Challenges Job Again|The LORD Challenges Job Again]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 40
+book/chapter: "[[Job.40|Job 40]]"
+chronological_order: 51
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H7200G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1343]]"
+- "[[H3665]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H1915]]"
+- "[[H7563]]"
+- "[[H8478I]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 40:12**<big><big>[[Job.40.6 The LORD Challenges Job Again|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Look on every one [that is] proud, [and] bring him low; and tread down the wicked in their place.
 <small><sub>**BSB:**</sub></small>
 Look on every proud man and humble him; trample the wicked where they stand.
+<small><sub>**Hebrew:**</sub></small>
+[[H7200G\|רְאֵ֣ה]] [[H3605\|כָל]][[H9014\|־]] [[H1343\|גֵּ֭אֶה]] [[H3665\|הַכְנִיעֵ֑]][[H9033\|הוּ]] [[H9002\|וַ]][[H1915\|הֲדֹ֖ךְ]] [[H7563\|רְשָׁעִ֣ים]] [[H8478I\|תַּחְתָּֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.11|<< Job 40:11]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.13|Job 40:13 >>]]</td></tr></table>
 

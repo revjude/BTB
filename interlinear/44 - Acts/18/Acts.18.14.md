@@ -1,10 +1,69 @@
+---
+title: Acts 18:14
+type: Verse
+kjv: "And when Paul was now about to open his mouth, Gallio said unto the Jews, If it were a matter of wrong or wicked lewdness, O ye Jews, reason would that I should bear with you:"
+bsb: "But just as Paul was about to speak, Gallio told the Jews, “If this matter involved a wrongdoing or vicious crime, O Jews, it would be reasonable for me to hear your complaint."
+greek: "Μέλλοντος δὲ τοῦ Παύλου ἀνοίγειν τὸ στόμα εἶπεν ὁ Γαλλίων πρὸς τοὺς Ἰουδαίους· εἰ μὲν οὖν ἦν ἀδίκημά τι ἢ ῥᾳδιούργημα πονηρόν, ὦ Ἰουδαῖοι, κατὰ λόγον ἂν ἀνεσχόμην ὑμῶν·"
+pericope: "[[Acts.18.12 Paul before Gallio|Paul before Gallio]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 18
+book/chapter: "[[Acts.18|Acts 18]]"
+chronological_order: 1047
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic GALLIO|GALLIO]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic NOLLE PROSEQUI|NOLLE PROSEQUI]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G3195]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G0455]]"
+- "[[G4750]]"
+- "[[G2036]]"
+- "[[G1058]]"
+- "[[G4314]]"
+- "[[G2453]]"
+- "[[G1487G]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G1510]]"
+- "[[G0092]]"
+- "[[G5100]]"
+- "[[G2228]]"
+- "[[G4467]]"
+- "[[G4190]]"
+- "[[G5599]]"
+- "[[G2596]]"
+- "[[G3056]]"
+- "[[G0302]]"
+- "[[G0430]]"
+- "[[G4771]]"
+texts:
+- NKO
+- K
+- N(k)O
+---
+
 **Acts 18:14**<big><big>[[Acts.18.12 Paul before Gallio|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when Paul was now about to open [his] mouth, Gallio said unto the Jews, If it were a matter of wrong or wicked lewdness, O [ye] Jews, reason would that I should bear with you:
 <small><sub>**BSB:**</sub></small>
 But just as Paul was about to speak, Gallio told the Jews, “If this matter involved a wrongdoing or vicious crime, O Jews, it would be reasonable for me to hear your complaint.
-<small><sub>**Literal:**</sub></small>
-When is being about to now <the> Paul to open <the> [his] mouth said <the> Gallio to the Jews; If indeed therefore it was unrighteousness some or crime wicked, O Jews, according to reason would I have endured with you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.13|<< Acts 18:13]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.15|Acts 18:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3195\|Μέλλοντος]]  [[G1161\|δὲ]]  [[G3588\|τοῦ]]  [[G3972G\|Παύλου]]  [[G0455\|ἀνοίγειν]]  [[G3588\|τὸ]]  [[G4750\|στόμα]]  [[G2036\|εἶπεν]]  [[G3588\|ὁ]]  [[G1058\|Γαλλίων]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G2453\|Ἰουδαίους·]]  [[G1487G\|εἰ]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G1510\|ἦν]]  [[G0092\|ἀδίκημά]]  [[G5100\|τι]]  [[G2228\|ἢ]]  [[G4467\|ῥᾳδιούργημα]]  [[G4190\|πονηρόν,]]  [[G5599\|ὦ]]  [[G2453\|Ἰουδαῖοι,]]  [[G2596\|κατὰ]]  [[G3056\|λόγον]]  [[G0302\|ἂν]]  [[G0430\|ἀνεσχόμην]]  [[G4771\|ὑμῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GALLIO|GALLIO]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic NOLLE PROSEQUI|NOLLE PROSEQUI]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.13|<< Acts 18:13]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.15|Acts 18:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

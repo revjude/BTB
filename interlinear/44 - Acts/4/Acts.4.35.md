@@ -1,10 +1,57 @@
+---
+title: Acts 4:35
+type: Verse
+kjv: "And laid them down at the apostles’ feet: and distribution was made unto every man according as he had need."
+bsb: "and lay them at the apostles’ feet for distribution to anyone as he had need."
+greek: "καὶ ἐτίθουν παρὰ τοὺς πόδας τῶν ἀποστόλων, διεδίδετο δὲ ἑκάστῳ καθότι ἄν τις χρείαν εἶχεν.¶"
+pericope: "[[Acts.4.32 Sharing among Believers|Sharing among Believers]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic COMMUNISM|COMMUNISM]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G5087]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G4228]]"
+- "[[G0652]]"
+- "[[G1239]]"
+- "[[G1161]]"
+- "[[G1538]]"
+- "[[G2530]]"
+- "[[G0302]]"
+- "[[G5100]]"
+- "[[G5532]]"
+- "[[G2192]]"
+texts:
+- NKO
+---
+
 **Acts 4:35**<big><big>[[Acts.4.32 Sharing among Believers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And laid [them] down at the apostles’ feet: and distribution was made unto every man according as he had need.
 <small><sub>**BSB:**</sub></small>
 and lay them at the apostles’ feet for distribution to anyone as he had need.
-<small><sub>**Literal:**</sub></small>
-and were laying [them] at the feet of the apostles, distribution was made then to each just as would anyone need had.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.34|<< Acts 4:34]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.36|Acts 4:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5087\|ἐτίθουν]]  [[G3844\|παρὰ]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G3588\|τῶν]]  [[G0652\|ἀποστόλων,]]  [[G1239\|διεδίδετο]]  [[G1161\|δὲ]]  [[G1538\|ἑκάστῳ]]  [[G2530\|καθότι]]  [[G0302\|ἄν]]  [[G5100\|τις]]  [[G5532\|χρείαν]]  [[G2192\|εἶχεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic COMMUNISM|COMMUNISM]] • [[topic LIBERALITY|LIBERALITY]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.34|<< Acts 4:34]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.36|Acts 4:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

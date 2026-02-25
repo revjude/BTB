@@ -1,10 +1,60 @@
+---
+title: Revelation 18:22
+type: Verse
+kjv: "And the voice of harpers, and musicians, and of pipers, and trumpeters, shall be heard no more at all in thee; and no craftsman, of whatsoever craft he be, shall be found any more in thee; and the sound of a millstone shall be heard no more at all in thee;"
+bsb: "And the sound of harpists and musicians, of flute players and trumpeters, will never ring out in you again. Nor will any craftsmen of any trade be found in you again, nor the sound of a millstone be heard in you again."
+greek: "καὶ φωνὴ κιθαρῳδῶν καὶ μουσικῶν καὶ αὐλητῶν καὶ σαλπιστῶν οὐ μὴ ἀκουσθῇ ἐν σοὶ ἔτι, καὶ πᾶς τεχνίτης πάσης τέχνης οὐ μὴ εὑρεθῇ ἐν σοὶ ἔτι, καὶ φωνὴ μύλου οὐ μὴ ἀκουσθῇ ἐν σοὶ ἔτι,"
+pericope: "[[Rev.18.21 The Doom of Babylon|The Doom of Babylon]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 18
+book/chapter: "[[Rev.18|Revelation 18]]"
+chronological_order: 1185
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic HARP|HARP]]"
+- "[[topic MILL|MILL]]"
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[G2532]]"
+- "[[G5456H]]"
+- "[[G2790]]"
+- "[[G3451]]"
+- "[[G0834]]"
+- "[[G4538]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G0191]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G2089]]"
+- "[[G3956]]"
+- "[[G5079]]"
+- "[[G5078]]"
+- "[[G2147]]"
+- "[[G3458]]"
+texts:
+- NKO
+---
+
 **Revelation 18:22**<big><big>[[Rev.18.21 The Doom of Babylon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the voice of harpers, and musicians, and of pipers, and trumpeters, shall be heard no more at all in thee; and no craftsman, of whatsoever craft [he be], shall be found any more in thee; and the sound of a millstone shall be heard no more at all in thee;
 <small><sub>**BSB:**</sub></small>
 And the sound of harpists and musicians, of flute players and trumpeters, will never ring out in you again. Nor will any craftsmen of any trade be found in you again, nor the sound of a millstone be heard in you again.
-<small><sub>**Literal:**</sub></small>
-And sound of harpists and musicians and flute players and trumpeters certainly not may be heard in you any longer, And any craftsmen of any craft certainly not may be found in you any longer, and [the] sound of a millstone certainly not may be heard in you any longer,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.21|<< Revelation 18:21]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.23|Revelation 18:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5456H\|φωνὴ]]  [[G2790\|κιθαρῳδῶν]]  [[G2532\|καὶ]]  [[G3451\|μουσικῶν]]  [[G2532\|καὶ]]  [[G0834\|αὐλητῶν]]  [[G2532\|καὶ]]  [[G4538\|σαλπιστῶν]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G0191\|ἀκουσθῇ]]  [[G1722\|ἐν]]  [[G4771\|σοὶ]]  [[G2089\|ἔτι,]]  [[G2532\|καὶ]]  [[G3956\|πᾶς]]  [[G5079\|τεχνίτης]]  [[G3956\|πάσης]]  [[G5078\|τέχνης]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G2147\|εὑρεθῇ]]  [[G1722\|ἐν]]  [[G4771\|σοὶ]]  [[G2089\|ἔτι,]]  [[G2532\|καὶ]]  [[G5456H\|φωνὴ]]  [[G3458\|μύλου]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G0191\|ἀκουσθῇ]]  [[G1722\|ἐν]]  [[G4771\|σοὶ]]  [[G2089\|ἔτι,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HARP|HARP]] • [[topic MILL|MILL]] • [[topic MUSIC|MUSIC]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.21|<< Revelation 18:21]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.23|Revelation 18:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 18:22** is...
 > $\quad$ alluding to: [[LXX.Isa.24.8|Isa 24:8]] ☩ [[LXX.Jer.7.34|Jer 7:34]] ☩ [[LXX.Jer.25.10|Jer 25:10]]

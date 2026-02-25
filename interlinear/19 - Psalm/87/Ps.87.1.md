@@ -1,8 +1,52 @@
+---
+title: Psalm 87:1
+type: Verse
+kjv: "His foundation is in the holy mountains."
+bsb: "A Psalm of the sons of Korah. A song. He has founded His city on the holy mountains."
+hebrew: "יְ֝סוּדָת֗וֹ בְּהַרְרֵי־ קֹֽדֶשׁ׃"
+pericope: "[[Ps.87.1 The LORD Loves the Gates of Zion|The LORD Loves the Gates of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 87
+book/chapter: "[[Ps.87|Psalm 87]]"
+chronological_order: 515
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H3248]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H2042]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 87:1**<big><big>[[Ps.87.1 The LORD Loves the Gates of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His foundation [is] in the holy mountains.
 <small><sub>**BSB:**</sub></small>
 A Psalm of the sons of Korah. A song. He has founded His city on the holy mountains.
+<small><sub>**Hebrew:**</sub></small>
+[[H3248\|יְ֝סוּדָת֗]][[H9023\|וֹ]] [[H9003\|בְּ]][[H2042\|הַרְרֵי]][[H9014\|־]] [[H6944G\|קֹֽדֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic HOUSE|HOUSE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.87.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.87.0|<< Psalms 87:0]]</td><td align="center" style="border:none;">[[Ps.87|Psalms 87]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.87.2|Psalms 87:2 >>]]</td></tr></table>
 

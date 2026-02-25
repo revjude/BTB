@@ -1,8 +1,71 @@
+---
+title: Jeremiah 34:8
+type: Verse
+kjv: "This is the word that came unto Jeremiah from the LORD, after that the king Zedekiah had made a covenant with all the people which were at Jerusalem, to proclaim liberty unto them;"
+bsb: "After King Zedekiah had made a covenant with all the people in Jerusalem to proclaim liberty, the word came to Jeremiah from the LORD"
+hebrew: "הַדָּבָ֛ר אֲשֶׁר־ הָיָ֥ה אֶֽל־ יִרְמְיָ֖הוּ מֵאֵ֣ת יְהוָ֑ה אַחֲרֵ֡י כְּרֹת֩ הַמֶּ֨לֶךְ צִדְקִיָּ֜הוּ בְּרִ֗ית אֶת־ כָּל־ הָעָם֙ אֲשֶׁ֣ר בִּירֽוּשָׁלִַ֔ם לִקְרֹ֥א לָהֶ֖ם דְּרֽוֹר׃"
+pericope: "[[Jer.34.8 Freedom for Hebrew Slaves|Freedom for Hebrew Slaves]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 34
+book/chapter: "[[Jer.34|Jeremiah 34]]"
+chronological_order: 757
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CONSTITUTION|CONSTITUTION]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic EMANCIPATION|EMANCIPATION]]"
+- "[[topic KING|KING]]"
+- "[[topic LIBERTY|LIBERTY]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H0413]]"
+- "[[H3414L]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H3068G]]"
+- "[[H0310A]]"
+- "[[H3772H]]"
+- "[[H4428G]]"
+- "[[H6667H]]"
+- "[[H1285]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H9005]]"
+- "[[H7121I]]"
+- "[[H9038]]"
+- "[[H1865]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 34:8**<big><big>[[Jer.34.8 Freedom for Hebrew Slaves|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [This is] the word that came unto Jeremiah from the LORD, after that the king Zedekiah had made a covenant with all the people which [were] at Jerusalem, to proclaim liberty unto them;
 <small><sub>**BSB:**</sub></small>
 After King Zedekiah had made a covenant with all the people in Jerusalem to proclaim liberty, the word came to Jeremiah from the LORD
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H1697G\|דָּבָ֛ר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1961\|הָיָ֥ה]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֖הוּ]] [[H9006\|מֵ]][[H0854\|אֵ֣ת]] [[H3068G\|יְהוָ֑ה]] [[H0310A\|אַחֲרֵ֡י]] [[H3772H\|כְּרֹת֩]] [[H9009\|הַ]][[H4428G\|מֶּ֨לֶךְ]] [[H6667H\|צִדְקִיָּ֜הוּ]] [[H1285\|בְּרִ֗ית]] [[H0854\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בִּ]][[H3389\|ירֽוּשָׁלִַ֔ם]] [[H9005\|לִ]][[H7121I\|קְרֹ֥א]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H1865\|דְּרֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSTITUTION|CONSTITUTION]] • [[topic COVENANT|COVENANT]] • [[topic EMANCIPATION|EMANCIPATION]] • [[topic KING|KING]] • [[topic LIBERTY|LIBERTY]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.34.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.7|<< Jeremiah 34:7]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.9|Jeremiah 34:9 >>]]</td></tr></table>
 

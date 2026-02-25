@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: On Cyprus
+type: Pericope
 pericope: "[[Acts.13.4 On Cyprus|On Cyprus]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Acts
 chapter: 13
 book/chapter: "[[Acts.13|Acts 13]]"
-genre:
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 9
 verses:
 - "[[Acts.13.4]]"
 - "[[Acts.13.5]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Acts.13.12]]"
 ---
 
-[[Acts.13|Acts 13:4 - Acts 13:12]]
+<small>[[Acts.13|Acts 13:4-12]]</small>
 *On Cyprus*
 
 [[Acts.13.4|4]] So they, being sent forth by the Holy Ghost, departed unto Seleucia; and from thence they sailed to Cyprus.

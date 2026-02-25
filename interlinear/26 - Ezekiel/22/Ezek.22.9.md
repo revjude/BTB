@@ -1,8 +1,69 @@
+---
+title: Ezekiel 22:9
+type: Verse
+kjv: "In thee are men that carry tales to shed blood: and in thee they eat upon the mountains: in the midst of thee they commit lewdness."
+bsb: "Among you are slanderous men bent on bloodshed; within you are those who eat on the mountain shrines and commit acts of indecency."
+hebrew: "אַנְשֵׁ֥י רָכִ֛יל הָ֥יוּ בָ֖ךְ לְמַ֣עַן שְׁפָךְ־ דָּ֑ם וְאֶל־ הֶֽהָרִים֙ אָ֣כְלוּ בָ֔ךְ זִמָּ֖ה עָשׂ֥וּ בְתוֹכֵֽךְ׃"
+pericope: "[[Ezek.22.1 The Sins of Jerusalem|The Sins of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 22
+book/chapter: "[[Ezek.22|Ezekiel 22]]"
+chronological_order: 813
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CRIME|CRIME]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GOSSIP|GOSSIP]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic SLANDER|SLANDER]]"
+strongs:
+- "[[H0582]]"
+- "[[H7400]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H9032]]"
+- "[[H4616]]"
+- "[[H8210H]]"
+- "[[H9014]]"
+- "[[H1818]]"
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H0398]]"
+- "[[H2154]]"
+- "[[H6213H]]"
+- "[[H8432]]"
+- "[[H9022]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 22:9**<big><big>[[Ezek.22.1 The Sins of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In thee are men that carry tales to shed blood: and in thee they eat upon the mountains: in the midst of thee they commit lewdness.
 <small><sub>**BSB:**</sub></small>
 Among you are slanderous men bent on bloodshed; within you are those who eat on the mountain shrines and commit acts of indecency.
+<small><sub>**Hebrew:**</sub></small>
+[[H0582\|אַנְשֵׁ֥י]] [[H7400\|רָכִ֛יל]] [[H1961\|הָ֥יוּ]] [[H9003\|בָ֖]][[H9032\|ךְ]] [[H4616\|לְמַ֣עַן]] [[H8210H\|שְׁפָךְ]][[H9014\|־]] [[H1818\|דָּ֑ם]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הֶֽ]][[H2022G\|הָרִים֙]] [[H0398\|אָ֣כְלוּ]] [[H9003\|בָ֔]][[H9032\|ךְ]] [[H2154\|זִמָּ֖ה]] [[H6213H\|עָשׂ֥וּ]] [[H9003\|בְ]][[H8432\|תוֹכֵֽ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CRIME|CRIME]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GOSSIP|GOSSIP]] • [[topic HOMICIDE|HOMICIDE]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JERUSALEM|JERUSALEM]] • [[topic SLANDER|SLANDER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.22.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.8|<< Ezekiel 22:8]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.10|Ezekiel 22:10 >>]]</td></tr></table>
 

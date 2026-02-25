@@ -1,8 +1,61 @@
+---
+title: Numbers 3:20
+type: Verse
+kjv: "And the sons of Merari by their families; Mahli, and Mushi. These are the families of the Levites according to the house of their fathers."
+bsb: "And the sons of Merari by their clans were Mahli and Mushi. These were the clans of the Levites, according to their families."
+hebrew: "וּבְנֵ֧י מְרָרִ֛י לְמִשְׁפְּחֹתָ֖ם מַחְלִ֣י וּמוּשִׁ֑י אֵ֥לֶּה הֵ֛ם מִשְׁפְּחֹ֥ת הַלֵּוִ֖י לְבֵ֥ית אֲבֹתָֽם׃"
+pericope: "[[Num.3.14 The Numbering of the Levites|The Numbering of the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic GERSHON|GERSHON]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H4847]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H4249G]]"
+- "[[H4187]]"
+- "[[H0428]]"
+- "[[H1992]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 3:20**<big><big>[[Num.3.14 The Numbering of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Merari by their families; Mahli, and Mushi. These [are] the families of the Levites according to the house of their fathers.
 <small><sub>**BSB:**</sub></small>
 And the sons of Merari by their clans were Mahli and Mushi. These were the clans of the Levites, according to their families.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בְנֵ֧י]] [[H4847\|מְרָרִ֛י]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָ֖]][[H9028\|ם]] [[H4249G\|מַחְלִ֣י]] [[H9002\|וּ]][[H4187\|מוּשִׁ֑י]] [[H0428\|אֵ֥לֶּה]] [[H1992\|הֵ֛ם]] [[H4940\|מִשְׁפְּחֹ֥ת]] [[H9009\|הַ]][[H3881\|לֵּוִ֖י]] [[H9005\|לְ]][[H1004M\|בֵ֥ית]] [[H0001G\|אֲבֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CENSUS|CENSUS]] • [[topic GERSHON|GERSHON]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.19|<< Numbers 3:19]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.21|Numbers 3:21 >>]]</td></tr></table>
 

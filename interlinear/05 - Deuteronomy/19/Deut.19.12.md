@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 19:12
+type: Verse
+kjv: "Then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die."
+bsb: "the elders of his city must send for him, bring him back, and hand him over to the avenger of blood to die."
+hebrew: "וְשָֽׁלְחוּ֙ זִקְנֵ֣י עִיר֔וֹ וְלָקְח֥וּ אֹת֖וֹ מִשָּׁ֑ם וְנָתְנ֣וּ אֹת֗וֹ בְּיַ֛ד גֹּאֵ֥ל הַדָּ֖ם וָמֵֽת׃"
+pericope: "[[Deut.19.1 Cities of Refuge|Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 19
+book/chapter: "[[Deut.19|Deuteronomy 19]]"
+chronological_order: 215
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic REFUGE|REFUGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H2205G]]"
+- "[[H5892B]]"
+- "[[H9023]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H5414G]]"
+- "[[H9003]]"
+- "[[H3027K]]"
+- "[[H1350H]]"
+- "[[H9009]]"
+- "[[H1818]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 19:12**<big><big>[[Deut.19.1 Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die.
 <small><sub>**BSB:**</sub></small>
 the elders of his city must send for him, bring him back, and hand him over to the avenger of blood to die.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7971G\|שָֽׁלְחוּ֙]] [[H2205G\|זִקְנֵ֣י]] [[H5892B\|עִיר֔]][[H9023\|וֹ]] [[H9001\|וְ]][[H3947G\|לָקְח֥וּ]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9006\|מִ]][[H8033G\|שָּׁ֑ם]] [[H9001\|וְ]][[H5414G\|נָתְנ֣וּ]] [[H0853\|אֹת֗]][[H9033\|וֹ]] [[H9003\|בְּ]][[H3027K\|יַ֛ד]] [[H1350H\|גֹּאֵ֥ל]] [[H9009\|הַ]][[H1818\|דָּ֖ם]] [[H9001\|וָ]][[H4191\|מֵֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOMICIDE|HOMICIDE]] • [[topic REFUGE|REFUGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.19.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.11|<< Deuteronomy 19:11]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.13|Deuteronomy 19:13 >>]]</td></tr></table>
 

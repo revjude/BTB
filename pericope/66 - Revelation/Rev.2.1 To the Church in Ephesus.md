@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: To the Church in Ephesus
+type: Pericope
 pericope: "[[Rev.2.1 To the Church in Ephesus|To the Church in Ephesus]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 2
 book/chapter: "[[Rev.2|Revelation 2]]"
-genre:
+chronological_order: 1169
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 7
 verses:
 - "[[Rev.2.1]]"
 - "[[Rev.2.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Rev.2.7]]"
 ---
 
-[[Rev.2|Revelation 2:1 - Revelation 2:7]]
+<small>[[Rev.2|Revelation 2:1-7]]</small>
 *To the Church in Ephesus*
 
 [[Rev.2.1|1]] Unto the angel of the church of Ephesus write; These things saith he that holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks;

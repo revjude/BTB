@@ -1,8 +1,73 @@
+---
+title: Ezra 3:10
+type: Verse
+kjv: "And when the builders laid the foundation of the temple of the LORD, they set the priests in their apparel with trumpets, and the Levites the sons of Asaph with cymbals, to praise the LORD, after the ordinance of David king of Israel."
+bsb: "When the builders had laid the foundation of the temple of the LORD, the priests in their apparel with trumpets, and the Levites (the sons of Asaph) with cymbals, took their positions to praise the LORD, as David king of Israel had prescribed."
+hebrew: "וְיִסְּד֥וּ הַבֹּנִ֖ים אֶת־ הֵיכַ֣ל יְהוָ֑ה וַיַּעֲמִידוּ֩ הַכֹּהֲנִ֨ים מְלֻבָּשִׁ֜ים בַּחֲצֹֽצְר֗וֹת וְהַלְוִיִּ֤ם בְּנֵֽי־ אָסָף֙ בַּֽמְצִלְתַּ֔יִם לְהַלֵּל֙ אֶת־ יְהוָ֔ה עַל־ יְדֵ֖י דָּוִ֥יד מֶֽלֶךְ־ יִשְׂרָאֵֽל׃"
+pericope: "[[Ezra.3.8 Temple Restoration Begins|Temple Restoration Begins]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 3
+book/chapter: "[[Ezra.3|Ezra 3]]"
+chronological_order: 851
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic ASAPH|ASAPH]]"
+- "[[topic CYMBAL|CYMBAL]]"
+- "[[topic JESHUA|JESHUA]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TRUMPET|TRUMPET]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H3245]]"
+- "[[H9009]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1964G]]"
+- "[[H3068G]]"
+- "[[H5975H]]"
+- "[[H3548]]"
+- "[[H3847]]"
+- "[[H9003]]"
+- "[[H2689]]"
+- "[[H9002]]"
+- "[[H3881]]"
+- "[[H1121G]]"
+- "[[H0623H]]"
+- "[[H4700]]"
+- "[[H9005]]"
+- "[[H1984B]]"
+- "[[H5921A]]"
+- "[[H3027H]]"
+- "[[H1732]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 3:10**<big><big>[[Ezra.3.8 Temple Restoration Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the builders laid the foundation of the temple of the LORD, they set the priests in their apparel with trumpets, and the Levites the sons of Asaph with cymbals, to praise the LORD, after the ordinance of David king of Israel.
 <small><sub>**BSB:**</sub></small>
 When the builders had laid the foundation of the temple of the LORD, the priests in their apparel with trumpets, and the Levites (the sons of Asaph) with cymbals, took their positions to praise the LORD, as David king of Israel had prescribed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3245\|יִסְּד֥וּ]] [[H9009\|הַ]][[H1129\|בֹּנִ֖ים]] [[H0853\|אֶת]][[H9014\|־]] [[H1964G\|הֵיכַ֣ל]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H5975H\|יַּעֲמִידוּ֩]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֨ים]] [[H3847\|מְלֻבָּשִׁ֜ים]] [[H9003\|בַּ]][[H2689\|חֲצֹֽצְר֗וֹת]] [[H9002\|וְ]][[H9009\|הַ]][[H3881\|לְוִיִּ֤ם]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H0623H\|אָסָף֙]] [[H9003\|בַּֽ]][[H4700\|מְצִלְתַּ֔יִם]] [[H9005\|לְ]][[H1984B\|הַלֵּל֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3027H\|יְדֵ֖י]] [[H1732\|דָּוִ֥יד]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAPH|ASAPH]] • [[topic CYMBAL|CYMBAL]] • [[topic JESHUA|JESHUA]] • [[topic MUSIC|MUSIC]] • [[topic PRIEST|PRIEST]] • [[topic TEMPLE|TEMPLE]] • [[topic TRUMPET|TRUMPET]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.3.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.3.9|<< Ezra 3:9]]</td><td align="center" style="border:none;">[[Ezra.3|Ezra 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.3.11|Ezra 3:11 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: Jeremiah 43:9
+type: Verse
+kjv: "Take great stones in thine hand, and hide them in the clay in the brickkiln, which is at the entry of Pharaoh’s house in Tahpanhes, in the sight of the men of Judah;"
+bsb: "“In the sight of the Jews, pick up some large stones and bury them in the clay of the brick pavement at the entrance to Pharaoh’s palace at Tahpanhes."
+hebrew: "קַ֣ח בְּיָדְךָ֞ אֲבָנִ֣ים גְּדֹל֗וֹת וּטְמַנְתָּ֤ם בַּמֶּ֙לֶט֙ בַּמַּלְבֵּ֔ן אֲשֶׁ֛ר בְּפֶ֥תַח בֵּית־ פַּרְעֹ֖ה בְּתַחְפַּנְחֵ֑ס לְעֵינֵ֖י אֲנָשִׁ֥ים יְהוּדִֽים׃"
+pericope: "[[Jer.43.1 Jeremiah Taken to Egypt|Jeremiah Taken to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 43
+book/chapter: "[[Jer.43|Jeremiah 43]]"
+chronological_order: 766
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic BRICK|BRICK]]"
+- "[[topic BRICK-KILN|BRICK-KILN]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic TAHPANHES|TAHPANHES]]"
+strongs:
+- "[[H3947G]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H0068G]]"
+- "[[H1419A]]"
+- "[[H9001]]"
+- "[[H2934]]"
+- "[[H9038]]"
+- "[[H4423]]"
+- "[[H4404]]"
+- "[[H0834A]]"
+- "[[H6607]]"
+- "[[H1004P]]"
+- "[[H9014]]"
+- "[[H6547R]]"
+- "[[H8471]]"
+- "[[H9005]]"
+- "[[H5869H]]"
+- "[[H0582]]"
+- "[[H3064]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 43:9**<big><big>[[Jer.43.1 Jeremiah Taken to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take great stones in thine hand, and hide them in the clay in the brickkiln, which [is] at the entry of Pharaoh’s house in Tahpanhes, in the sight of the men of Judah;
 <small><sub>**BSB:**</sub></small>
 “In the sight of the Jews, pick up some large stones and bury them in the clay of the brick pavement at the entrance to Pharaoh’s palace at Tahpanhes.
+<small><sub>**Hebrew:**</sub></small>
+[[H3947G\|קַ֣ח]] [[H9003\|בְּ]][[H3027G\|יָדְ]][[H9021\|ךָ֞]] [[H0068G\|אֲבָנִ֣ים]] [[H1419A\|גְּדֹל֗וֹת]] [[H9001\|וּ]][[H2934\|טְמַנְתָּ֤]][[H9038\|ם]] [[H9003\|בַּ]][[H4423\|מֶּ֙לֶט֙]] [[H9003\|בַּ]][[H4404\|מַּלְבֵּ֔ן]] [[H0834A\|אֲשֶׁ֛ר]] [[H9003\|בְּ]][[H6607\|פֶ֥תַח]] [[H1004P\|בֵּית]][[H9014\|־]] [[H6547R\|פַּרְעֹ֖ה]] [[H9003\|בְּ]][[H8471\|תַחְפַּנְחֵ֑ס]] [[H9005\|לְ]][[H5869H\|עֵינֵ֖י]] [[H0582\|אֲנָשִׁ֥ים]] [[H3064\|יְהוּדִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic BRICK|BRICK]] • [[topic BRICK-KILN|BRICK-KILN]] • [[topic EGYPT|EGYPT]] • [[topic JEREMIAH|JEREMIAH]] • [[topic TAHPANHES|TAHPANHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.43.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.43.8|<< Jeremiah 43:8]]</td><td align="center" style="border:none;">[[Jer.43|Jeremiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.43.10|Jeremiah 43:10 >>]]</td></tr></table>
 

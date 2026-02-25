@@ -1,10 +1,57 @@
+---
+title: Luke 2:23
+type: Verse
+kjv: "(As it is written in the law of the Lord, Every male that openeth the womb shall be called holy to the Lord;)"
+bsb: "(as it is written in the Law of the Lord: “Every firstborn male shall be consecrated to the Lord”),"
+greek: "καθὼς γέγραπται ἐν νόμῳ κυρίου ὅτι πᾶν ἄρσεν διανοῖγον μήτραν ἅγιον τῷ κυρίῳ κληθήσεται·"
+pericope: "[[Luke.2.21 Jesus Presented at the Temple|Jesus Presented at the Temple]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2531]]"
+- "[[G1125]]"
+- "[[G1722]]"
+- "[[G3551]]"
+- "[[G2962G]]"
+- "[[G3754G]]"
+- "[[G3956]]"
+- "[[G0730]]"
+- "[[G1272]]"
+- "[[G3388]]"
+- "[[G0040G]]"
+- "[[G3588]]"
+- "[[G2564G]]"
+texts:
+- NKO
+---
+
 **Luke 2:23**<big><big>[[Luke.2.21 Jesus Presented at the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 (As it is written in the law of the Lord, Every male that openeth the womb shall be called holy to the Lord;)
 <small><sub>**BSB:**</sub></small>
 (as it is written in the Law of the Lord: “Every firstborn male shall be consecrated to the Lord”),
-<small><sub>**Literal:**</sub></small>
-even as it has been written in [the] law of [the] Lord that Every male opening a womb holy to the Lord will be called;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.22|<< Luke 2:22]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.24|Luke 2:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2531\|καθὼς]]  [[G1125\|γέγραπται]]  [[G1722\|ἐν]]  [[G3551\|νόμῳ]]  [[G2962G\|κυρίου]]  [[G3754G\|ὅτι]]  [[G3956\|πᾶν]]  [[G0730\|ἄρσεν]]  [[G1272\|διανοῖγον]]  [[G3388\|μήτραν]]  [[G0040G\|ἅγιον]]  [[G3588\|τῷ]]  [[G2962G\|κυρίῳ]]  [[G2564G\|κληθήσεται·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.22|<< Luke 2:22]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.24|Luke 2:24 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 2:23** is...
 > $\quad$ referencing: [[LXX.Exod.13.2|Exod 13:2]] ☩ [[LXX.Exod.13.12|Exod 13:12]] ☩ [[LXX.Exod.13.15|Exod 13:15]]

@@ -1,8 +1,64 @@
+---
+title: Nehemiah 6:5
+type: Verse
+kjv: "Then sent Sanballat his servant unto me in like manner the fifth time with an open letter in his hand;"
+bsb: "The fifth time, Sanballat sent me this same message by his young servant, who had in his hand an unsealed letter"
+hebrew: "וַיִּשְׁלַח֩ אֵלַ֨י סַנְבַלַּ֜ט כַּדָּבָ֥ר הַזֶּ֛ה פַּ֥עַם חֲמִישִׁ֖ית אֶֽת־ נַעֲר֑וֹ וְאִגֶּ֥רֶת פְּתוּחָ֖ה בְּיָדֽוֹ׃"
+pericope: "[[Neh.6.1 Sanballat’s Conspiracy|Sanballat’s Conspiracy]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 6
+book/chapter: "[[Neh.6|Nehemiah 6]]"
+chronological_order: 918
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic GESHEM|GESHEM]]"
+- "[[topic LETTERS|LETTERS]]"
+- "[[topic TOBIAH|TOBIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H5571]]"
+- "[[H9004]]"
+- "[[H1697O]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H6471]]"
+- "[[H2549]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5288]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0107]]"
+- "[[H6605A]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 6:5**<big><big>[[Neh.6.1 Sanballat’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then sent Sanballat his servant unto me in like manner the fifth time with an open letter in his hand;
 <small><sub>**BSB:**</sub></small>
 The fifth time, Sanballat sent me this same message by his young servant, who had in his hand an unsealed letter
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַח֩]] [[H0413\|אֵלַ֨]][[H9030\|י]] [[H5571\|סַנְבַלַּ֜ט]] [[H9004\|כַּ]][[H1697O\|דָּבָ֥ר]] [[H9009\|הַ]][[H2088\|זֶּ֛ה]] [[H6471\|פַּ֥עַם]] [[H2549\|חֲמִישִׁ֖ית]] [[H0853\|אֶֽת]][[H9014\|־]] [[H5288\|נַעֲר֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H0107\|אִגֶּ֥רֶת]] [[H6605A\|פְּתוּחָ֖ה]] [[H9003\|בְּ]][[H3027G\|יָדֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GESHEM|GESHEM]] • [[topic LETTERS|LETTERS]] • [[topic TOBIAH|TOBIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.6.4|<< Nehemiah 6:4]]</td><td align="center" style="border:none;">[[Neh.6|Nehemiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.6.6|Nehemiah 6:6 >>]]</td></tr></table>
 

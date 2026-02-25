@@ -1,8 +1,68 @@
+---
+title: 2 Chronicles 33:16
+type: Verse
+kjv: "And he repaired the altar of the LORD, and sacrificed thereon peace offerings and thank offerings, and commanded Judah to serve the LORD God of Israel."
+bsb: "Then he restored the altar of the LORD and sacrificed peace offerings and thank offerings on it, and he told Judah to serve the LORD, the God of Israel."
+hebrew: "וַיִּ֙בֶן֙ אֶת־ מִזְבַּ֣ח יְהוָ֔ה וַיִּזְבַּ֣ח עָלָ֔יו זִבְחֵ֥י שְׁלָמִ֖ים וְתוֹדָ֑ה וַיֹּ֙אמֶר֙ לִֽיהוּדָ֔ה לַעֲב֕וֹד אֶת־ יְהוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[2Chr.33.10 Manasseh’s Repentance and Restoration|Manasseh’s Repentance and Restoration]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 33
+book/chapter: "[[2Chr.33|2 Chronicles 33]]"
+chronological_order: 707
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3559I]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4196]]"
+- "[[H3068G]]"
+- "[[H2076]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H2077]]"
+- "[[H8002]]"
+- "[[H9002]]"
+- "[[H8426]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H3063G]]"
+- "[[H5647H]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **2 Chronicles 33:16**<big><big>[[2Chr.33.10 Manasseh’s Repentance and Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he repaired the altar of the LORD, and sacrificed thereon peace offerings and thank offerings, and commanded Judah to serve the LORD God of Israel.
 <small><sub>**BSB:**</sub></small>
 Then he restored the altar of the LORD and sacrificed peace offerings and thank offerings on it, and he told Judah to serve the LORD, the God of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1129\|יִּ֙בֶן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4196\|מִזְבַּ֣ח]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H2076\|יִּזְבַּ֣ח]] [[H5921A\|עָלָ֔י]][[H9033\|ו]] [[H2077\|זִבְחֵ֥י]] [[H8002\|שְׁלָמִ֖ים]] [[H9002\|וְ]][[H8426\|תוֹדָ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H9005\|לִֽ]][[H3063G\|יהוּדָ֔ה]] [[H9005\|לַ]][[H5647H\|עֲב֕וֹד]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic INFLUENCE|INFLUENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MANASSEH|MANASSEH]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.33.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.33.15|<< 2 Chronicles 33:15]]</td><td align="center" style="border:none;">[[2Chr.33|2 Chronicles 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.33.17|2 Chronicles 33:17 >>]]</td></tr></table>
 
@@ -26,7 +86,7 @@ Then he restored the altar of the LORD and sacrificed peace offerings and thank 
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.33.15|<< 2 Chronicles 33:15]]</td><td align="center" style="border:none;">[[2Chr.33|2 Chronicles 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.33.17|2 Chronicles 33:17 >>]]</td></tr></table>
 
-[^1]: and he prepared  | **<big>[[H3559I|יָּכֶן]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.khen<small><sup>[[HVhw3ms]]</sup></small> | K
-[^2]: and he prepared  | **<big>[[H3559I|יָּכֶן]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.khen<small><sup>[[HVhw3ms]]</sup></small> | K
+[^1]: and he prepared  | **<big>[[H9001|וַ]]</big><big>[[H3559I|יָּכֶן]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.khen<small><sup>[[HVhw3ms]]</sup></small> | K
+[^2]: and he prepared  | **<big>[[H9001|וַ]]</big><big>[[H3559I|יָּכֶן]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.khen<small><sup>[[HVhw3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וַיִּ֙כֶן֙</big></span>**
 

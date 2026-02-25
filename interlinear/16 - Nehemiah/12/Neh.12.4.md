@@ -1,8 +1,49 @@
+---
+title: Nehemiah 12:4
+type: Verse
+kjv: "Iddo, Ginnetho, Abijah,"
+bsb: "Iddo, Ginnethon, Abijah,"
+hebrew: "עִדּ֥וֹא גִנְּת֖וֹי אֲבִיָּֽה׃"
+pericope: "[[Neh.12.1 The Priests and Levites Who Returned|The Priests and Levites Who Returned]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 12
+book/chapter: "[[Neh.12|Nehemiah 12]]"
+chronological_order: 924
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ABIA|ABIA]]"
+- "[[topic GINNETHON|GINNETHON]]"
+- "[[topic IDDO|IDDO]]"
+- "[[topic NEHEMIAH|NEHEMIAH]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H5714K]]"
+- "[[H1599]]"
+- "[[H0029M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 12:4**<big><big>[[Neh.12.1 The Priests and Levites Who Returned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Iddo, Ginnetho, Abijah,
 <small><sub>**BSB:**</sub></small>
 Iddo, Ginnethon, Abijah,
+<small><sub>**Hebrew:**</sub></small>
+[[H5714K\|עִדּ֥וֹא]] [[H1599\|גִנְּת֖וֹי]] [[H0029M\|אֲבִיָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIA|ABIA]] • [[topic GINNETHON|GINNETHON]] • [[topic IDDO|IDDO]] • [[topic NEHEMIAH|NEHEMIAH]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.3|<< Nehemiah 12:3]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.5|Nehemiah 12:5 >>]]</td></tr></table>
 

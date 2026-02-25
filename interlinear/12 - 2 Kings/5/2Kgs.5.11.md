@@ -1,8 +1,74 @@
+---
+title: 2 Kings 5:11
+type: Verse
+kjv: "But Naaman was wroth, and went away, and said, Behold, I thought, He will surely come out to me, and stand, and call on the name of the LORD his God, and strike his hand over the place, and recover the leper."
+bsb: "But Naaman went away angry, saying, “I thought that he would surely come out, stand and call on the name of the LORD his God, and wave his hand over the spot to cure my leprosy."
+hebrew: "וַיִּקְצֹ֥ף נַעֲמָ֖ן וַיֵּלַ֑ךְ וַיֹּאמֶר֩ הִנֵּ֨ה אָמַ֜רְתִּי אֵלַ֣י׀ יֵצֵ֣א יָצ֗וֹא וְעָמַד֙ וְקָרָא֙ בְּשֵׁם־ יְהוָ֣ה אֱלֹהָ֔יו וְהֵנִ֥יף יָד֛וֹ אֶל־ הַמָּק֖וֹם וְאָסַ֥ף הַמְּצֹרָֽע׃"
+pericope: "[[2Kgs.5.1 Naaman Cured of Leprosy|Naaman Cured of Leprosy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 5
+book/chapter: "[[2Kgs.5|2 Kings 5]]"
+chronological_order: 577
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic EXCUSES|EXCUSES]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic JORDAN|JORDAN]]"
+- "[[topic LEPROSY|LEPROSY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NAAMAN|NAAMAN]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic RASHNESS|RASHNESS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H7107]]"
+- "[[H5283I]]"
+- "[[H1980G]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9015]]"
+- "[[H3318G]]"
+- "[[H5975G]]"
+- "[[H7121G]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9023]]"
+- "[[H5130B]]"
+- "[[H3027G]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H0622]]"
+- "[[H6879]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 5:11**<big><big>[[2Kgs.5.1 Naaman Cured of Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Naaman was wroth, and went away, and said, Behold, I thought, He will surely come out to me, and stand, and call on the name of the LORD his God, and strike his hand over the place, and recover the leper.
 <small><sub>**BSB:**</sub></small>
 But Naaman went away angry, saying, “I thought that he would surely come out, stand and call on the name of the LORD his God, and wave his hand over the spot to cure my leprosy.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7107\|יִּקְצֹ֥ף]] [[H5283I\|נַעֲמָ֖ן]] [[H9001\|וַ]][[H1980G\|יֵּלַ֑ךְ]] [[H9001\|וַ]][[H0559\|יֹּאמֶר֩]] [[H2009\|הִנֵּ֨ה]] [[H0559\|אָמַ֜רְתִּי]] [[H0413\|אֵלַ֣]][[H9030\|י]][[H9015\|׀]] [[H3318G\|יֵצֵ֣א]] [[H3318G\|יָצ֗וֹא]] [[H9001\|וְ]][[H5975G\|עָמַד֙]] [[H9001\|וְ]][[H7121G\|קָרָא֙]] [[H9003\|בְּ]][[H8034\|שֵׁם]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהָ֔י]][[H9023\|ו]] [[H9001\|וְ]][[H5130B\|הֵנִ֥יף]] [[H3027G\|יָד֛]][[H9023\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֖וֹם]] [[H9001\|וְ]][[H0622\|אָסַ֥ף]] [[H9009\|הַ]][[H6879\|מְּצֹרָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELISHA|ELISHA]] • [[topic EXCUSES|EXCUSES]] • [[topic JORAM|JORAM]] • [[topic JORDAN|JORDAN]] • [[topic LEPROSY|LEPROSY]] • [[topic MIRACLES|MIRACLES]] • [[topic NAAMAN|NAAMAN]] • [[topic PRIDE|PRIDE]] • [[topic RASHNESS|RASHNESS]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.10|<< 2 Kings 5:10]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.12|2 Kings 5:12 >>]]</td></tr></table>
 

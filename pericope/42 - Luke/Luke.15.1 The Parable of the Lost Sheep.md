@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Lost Sheep
+type: Pericope
 pericope: "[[Luke.15.1 The Parable of the Lost Sheep|The Parable of the Lost Sheep]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Luke
 chapter: 15
 book/chapter: "[[Luke.15|Luke 15]]"
-genre:
+chronological_order: 977
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 7
 verses:
 - "[[Luke.15.1]]"
 - "[[Luke.15.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Luke.15.7]]"
 ---
 
-[[Luke.15|Luke 15:1 - Luke 15:7]]
+<small>[[Luke.15|Luke 15:1-7]]</small>
 *The Parable of the Lost Sheep*
 
 [[Luke.15.1|1]] Then drew near unto him all the publicans and sinners for to hear him.

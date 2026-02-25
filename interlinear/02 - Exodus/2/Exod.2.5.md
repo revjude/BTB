@@ -1,8 +1,76 @@
+---
+title: Exodus 2:5
+type: Verse
+kjv: "And the daughter of Pharaoh came down to wash herself at the river; and her maidens walked along by the river’s side; and when she saw the ark among the flags, she sent her maid to fetch it."
+bsb: "Soon the daughter of Pharaoh went down to bathe in the Nile, and her attendants were walking along the riverbank. And when she saw the basket among the reeds, she sent her maidservant to retrieve it."
+hebrew: "וַתֵּ֤רֶד בַּת־ פַּרְעֹה֙ לִרְחֹ֣ץ עַל־ הַיְאֹ֔ר וְנַעֲרֹתֶ֥יהָ הֹלְכֹ֖ת עַל־ יַ֣ד הַיְאֹ֑ר וַתֵּ֤רֶא אֶת־ הַתֵּבָה֙ בְּת֣וֹךְ הַסּ֔וּף וַתִּשְׁלַ֥ח אֶת־ אֲמָתָ֖הּ וַתִּקָּחֶֽהָ"
+pericope: "[[Exod.2.1 The Birth and Adoption of Moses|The Birth and Adoption of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 2
+book/chapter: "[[Exod.2|Exodus 2]]"
+chronological_order: 94
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic FLAG|FLAG]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JOCHEBED|JOCHEBED]]"
+- "[[topic MIRIAM|MIRIAM]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H6547I]]"
+- "[[H9005]]"
+- "[[H7364]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H2975G]]"
+- "[[H9002]]"
+- "[[H5291]]"
+- "[[H9024]]"
+- "[[H1980I]]"
+- "[[H3027K]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H8392]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H5488H]]"
+- "[[H7971G]]"
+- "[[H0519]]"
+- "[[H3947G]]"
+- "[[H9034]]"
+texts:
+- L
+- L(abh)
+---
+
 **Exodus 2:5**<big><big>[[Exod.2.1 The Birth and Adoption of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the daughter of Pharaoh came down to wash [herself] at the river; and her maidens walked along by the river’s side; and when she saw the ark among the flags, she sent her maid to fetch it.
 <small><sub>**BSB:**</sub></small>
 Soon the daughter of Pharaoh went down to bathe in the Nile, and her attendants were walking along the riverbank. And when she saw the basket among the reeds, she sent her maidservant to retrieve it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3381\|תֵּ֤רֶד]] [[H1323G\|בַּת]][[H9014\|־]] [[H6547I\|פַּרְעֹה֙]] [[H9005\|לִ]][[H7364\|רְחֹ֣ץ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H2975G\|יְאֹ֔ר]] [[H9002\|וְ]][[H5291\|נַעֲרֹתֶ֥י]][[H9024\|הָ]] [[H1980I\|הֹלְכֹ֖ת]] [[H5921A\|עַל]][[H9014\|־]] [[H3027K\|יַ֣ד]] [[H9009\|הַ]][[H2975G\|יְאֹ֑ר]] [[H9001\|וַ]][[H7200G\|תֵּ֤רֶא]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8392\|תֵּבָה֙]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H9009\|הַ]][[H5488H\|סּ֔וּף]] [[H9001\|וַ]][[H7971G\|תִּשְׁלַ֥ח]] [[H0853\|אֶת]][[H9014\|־]] [[H0519\|אֲמָתָ֖]][[H9024\|הּ]] [[H9001\|וַ]][[H3947G\|תִּקָּחֶֽ]][[H9034\|הָ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic FLAG|FLAG]] • [[topic GOD|GOD]] • [[topic JOCHEBED|JOCHEBED]] • [[topic MIRIAM|MIRIAM]] • [[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.4|<< Exodus 2:4]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.6|Exodus 2:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

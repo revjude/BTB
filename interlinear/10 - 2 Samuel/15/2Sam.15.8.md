@@ -1,8 +1,71 @@
+---
+title: 2 Samuel 15:8
+type: Verse
+kjv: "For thy servant vowed a vow while I abode at Geshur in Syria, saying, If the LORD shall bring me again indeed to Jerusalem, then I will serve the LORD."
+bsb: "For your servant made a vow while dwelling in Geshur of Aram, saying: ‘If indeed the LORD brings me back to Jerusalem, I will worship the LORD in Hebron.’”"
+hebrew: "כִּי־ נֵ֙דֶר֙ נָדַ֣ר עַבְדְּךָ֔ בְּשִׁבְתִּ֥י בִגְשׁ֛וּר בַּאֲרָ֖ם לֵאמֹ֑ר אִם־ יָשׁ֨וֹב יְשִׁיבֵ֤נִי יְהוָה֙ יְר֣וּשָׁלִַ֔ם וְעָבַדְתִּ֖י אֶת־ יְהוָֽה בְּחֶבְרוֹן׃"
+pericope: "[[2Sam.15.1 Absalom’s Conspiracy|Absalom’s Conspiracy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 15
+book/chapter: "[[2Sam.15|2 Samuel 15]]"
+chronological_order: 414
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CONSECRATION|CONSECRATION]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic SYRIA|SYRIA]]"
+- "[[topic USURPATION|USURPATION]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5088]]"
+- "[[H5087]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H3427]]"
+- "[[H9040]]"
+- "[[H1650]]"
+- "[[H0758I]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0518A]]"
+- "[[H7725H]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H3389]]"
+- "[[H9001]]"
+- "[[H5647H]]"
+- "[[H0853]]"
+- "[[H2275A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+- X
+---
+
 **2 Samuel 15:8**<big><big>[[2Sam.15.1 Absalom’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thy servant vowed a vow while I abode at Geshur in Syria, saying, If the LORD shall bring me again indeed to Jerusalem, then I will serve the LORD.
 <small><sub>**BSB:**</sub></small>
 For your servant made a vow while dwelling in Geshur of Aram, saying: ‘If indeed the LORD brings me back to Jerusalem, I will worship the LORD in Hebron.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H5088\|נֵ֙דֶר֙]] [[H5087\|נָדַ֣ר]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֔]] [[H9003\|בְּ]][[H3427\|שִׁבְתִּ֥]][[H9040\|י]] [[H9003\|בִ]][[H1650\|גְשׁ֛וּר]] [[H9003\|בַּ]][[H0758I\|אֲרָ֖ם]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H0518A\|אִם]][[H9014\|־]] [[H3427\|יָשׁ֨וֹב]] [[H7725H\|יְשִׁיבֵ֤]][[H9030\|נִי]] [[H3068G\|יְהוָה֙]] [[H3389\|יְר֣וּשָׁלִַ֔ם]] [[H9001\|וְ]][[H5647H\|עָבַדְתִּ֖י]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָֽה]] [[H9003\|בְּ]][[H2275A\|חֶבְרוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CONSECRATION|CONSECRATION]] • [[topic COVENANT|COVENANT]] • [[topic SYRIA|SYRIA]] • [[topic USURPATION|USURPATION]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.7|<< 2 Samuel 15:7]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.9|2 Samuel 15:9 >>]]</td></tr></table>
 

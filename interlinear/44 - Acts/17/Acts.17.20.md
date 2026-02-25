@@ -1,10 +1,60 @@
+---
+title: Acts 17:20
+type: Verse
+kjv: "For thou bringest certain strange things to our ears: we would know therefore what these things mean."
+bsb: "For you are bringing some strange notions to our ears, and we want to know what they mean.”"
+greek: "ξενίζοντα γάρ τινα εἰσφέρεις εἰς τὰς ἀκοὰς ἡμῶν· βουλόμεθα οὖν γνῶναι τίνα ἂν θέλει ταῦτα εἶναι."
+pericope: "[[Acts.17.16 Paul in Athens|Paul in Athens]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 17
+book/chapter: "[[Acts.17|Acts 17]]"
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ATHENS|ATHENS]]"
+- "[[topic CURIOSITY|CURIOSITY]]"
+- "[[topic MARS' HILL|MARS' HILL]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G3579]]"
+- "[[G1063]]"
+- "[[G5100]]"
+- "[[G1533]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0189]]"
+- "[[G3165]]"
+- "[[G1014]]"
+- "[[G3767]]"
+- "[[G1097]]"
+- "[[G5101]]"
+- "[[G0302]]"
+- "[[G2309]]"
+- "[[G3778]]"
+- "[[G1511]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Acts 17:20**<big><big>[[Acts.17.16 Paul in Athens|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For thou bringest certain strange things to our ears: we would know therefore what these things mean.
 <small><sub>**BSB:**</sub></small>
 For you are bringing some strange notions to our ears, and we want to know what they mean.”
-<small><sub>**Literal:**</sub></small>
-Strange things for some you are bringing to the ears of us; We resolve therefore to know what [things] maybe intends these things to be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.19|<< Acts 17:19]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.21|Acts 17:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3579\|ξενίζοντα]]  [[G1063\|γάρ]]  [[G5100\|τινα]]  [[G1533\|εἰσφέρεις]]  [[G1519\|εἰς]]  [[G3588\|τὰς]]  [[G0189\|ἀκοὰς]]  [[G3165\|ἡμῶν·]]  [[G1014\|βουλόμεθα]]  [[G3767\|οὖν]]  [[G1097\|γνῶναι]]  [[G5101\|τίνα]]  [[G0302\|ἂν]]  [[G2309\|θέλει]]  [[G3778\|ταῦτα]]  [[G1511\|εἶναι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATHENS|ATHENS]] • [[topic CURIOSITY|CURIOSITY]] • [[topic MARS' HILL|MARS' HILL]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.19|<< Acts 17:19]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.21|Acts 17:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

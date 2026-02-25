@@ -1,8 +1,64 @@
+---
+title: 1 Chronicles 12:32
+type: Verse
+kjv: "And of the children of Issachar, which were men that had understanding of the times, to know what Israel ought to do; the heads of them were two hundred; and all their brethren were at their commandment."
+bsb: "From Issachar, men who understood the times and knew what Israel should do: 200 chiefs with all their kinsmen at their command."
+hebrew: "וּמִבְּנֵ֣י יִשָּׂשכָ֗ר יוֹדְעֵ֤י בִינָה֙ לַֽעִתִּ֔ים לָדַ֖עַת מַה־ יַּעֲשֶׂ֣ה יִשְׂרָאֵ֑ל רָאשֵׁיהֶ֣ם מָאתַ֔יִם וְכָל־ אֲחֵיהֶ֖ם עַל־ פִּיהֶֽם׃ ס"
+pericope: "[[1Chr.12.23 David’s Army Grows at Hebron|David’s Army Grows at Hebron]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 12
+book/chapter: "[[1Chr.12|1 Chronicles 12]]"
+chronological_order: 336
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic ISSACHAR|ISSACHAR]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H1121G]]"
+- "[[H3485G]]"
+- "[[H3045]]"
+- "[[H0998]]"
+- "[[H9005]]"
+- "[[H6256]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H3478]]"
+- "[[H7218H]]"
+- "[[H9028]]"
+- "[[H3967]]"
+- "[[H3605]]"
+- "[[H0251H]]"
+- "[[H5921A]]"
+- "[[H6310I]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Chronicles 12:32**<big><big>[[1Chr.12.23 David’s Army Grows at Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of the children of Issachar, [which were men] that had understanding of the times, to know what Israel ought to do; the heads of them [were] two hundred; and all their brethren [were] at their commandment.
 <small><sub>**BSB:**</sub></small>
 From Issachar, men who understood the times and knew what Israel should do: 200 chiefs with all their kinsmen at their command.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H1121G\|בְּנֵ֣י]] [[H3485G\|יִשָּׂשכָ֗ר]] [[H3045\|יוֹדְעֵ֤י]] [[H0998\|בִינָה֙]] [[H9005\|לַֽ]][[H6256\|עִתִּ֔ים]] [[H9005\|לָ]][[H3045\|דַ֖עַת]] [[H4100\|מַה]][[H9014\|־]] [[H6213A\|יַּעֲשֶׂ֣ה]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H7218H\|רָאשֵׁי]][[H9028\|הֶ֣ם]] [[H3967\|מָאתַ֔יִם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0251H\|אֲחֵי]][[H9028\|הֶ֖ם]] [[H5921A\|עַל]][[H9014\|־]] [[H6310I\|פִּי]][[H9028\|הֶֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic ISRAEL|ISRAEL]] • [[topic ISSACHAR|ISSACHAR]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.31|<< 1 Chronicles 12:31]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.33|1 Chronicles 12:33 >>]]</td></tr></table>
 
@@ -22,7 +78,7 @@ From Issachar, men who understood the times and knew what Israel should do: 200 
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | relatives their  |**<big>&#8207;[[H0251H\|אֲחֵי]]&#8207;&#8207;[[H9028\|הֶ֖ם]]&#8207; </big>**| 'a.chei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| mouth their  |**<big>&#8207;[[H6310I\|פִּי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| pi.<small><sup>[[HNcmsc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mouth their  |**<big>&#8207;[[H6310I\|פִּי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| pi.<small><sup>[[HNcmsc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.31|<< 1 Chronicles 12:31]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.33|1 Chronicles 12:33 >>]]</td></tr></table>
 
 

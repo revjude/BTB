@@ -1,10 +1,60 @@
+---
+title: Revelation 16:6
+type: Verse
+kjv: "For they have shed the blood of saints and prophets, and thou hast given them blood to drink; for they are worthy."
+bsb: "For they have spilled the blood of saints and prophets, and You have given them blood to drink, as they deserve.”"
+greek: "ὅτι αἷμα ἁγίων καὶ προφητῶν ἐξέχεαν, καὶ αἷμα αὐτοῖς δέδωκας πιεῖν· ἄξιοί γάρ εἰσιν.¶"
+pericope: "[[Rev.16.1 The First Six Bowls of Wrath|The First Six Bowls of Wrath]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 16
+book/chapter: "[[Rev.16|Revelation 16]]"
+chronological_order: 1183
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3754H]]"
+- "[[G0129G]]"
+- "[[G0040H]]"
+- "[[G2532]]"
+- "[[G4396]]"
+- "[[G1632]]"
+- "[[G0846]]"
+- "[[G1325]]"
+- "[[G4095]]"
+- "[[G0514]]"
+- "[[G1063]]"
+- "[[G1510]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Revelation 16:6**<big><big>[[Rev.16.1 The First Six Bowls of Wrath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For they have shed the blood of saints and prophets, and thou hast given them blood to drink; for they are worthy.
 <small><sub>**BSB:**</sub></small>
 For they have spilled the blood of saints and prophets, and You have given them blood to drink, as they deserve.”
-<small><sub>**Literal:**</sub></small>
-because [the] blood of saints and of prophets they have poured out, and blood to them You have given to drink; worthy for they are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.5|<< Revelation 16:5]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.7|Revelation 16:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G0129G\|αἷμα]]  [[G0040H\|ἁγίων]]  [[G2532\|καὶ]]  [[G4396\|προφητῶν]]  [[G1632\|ἐξέχεαν,]]  [[G2532\|καὶ]]  [[G0129G\|αἷμα]]  [[G0846\|αὐτοῖς]]  [[G1325\|δέδωκας]]  [[G4095\|πιεῖν·]]  [[G0514\|ἄξιοί]]  [[G1063\|γάρ]]  [[G1510\|εἰσιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic GOD|GOD]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic PROPHETS|PROPHETS]] • [[topic TEMPLE|TEMPLE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.5|<< Revelation 16:5]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.7|Revelation 16:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 16:6** is...
 > $\quad$ possibly alluding to: [[LXX.Exod.7.21|Exod 7:21]] ☩ [[LXX.Ezek.16.38|Ezek 16:38]]

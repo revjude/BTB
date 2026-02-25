@@ -1,8 +1,54 @@
+---
+title: Proverbs 17:27
+type: Verse
+kjv: "He that hath knowledge spareth his words: and a man of understanding is of an excellent spirit."
+bsb: "A man of knowledge restrains his words, and a man of understanding maintains a calm spirit."
+hebrew: "חוֹשֵׂ֣ךְ אֲ֭מָרָיו יוֹדֵ֣עַ דָּ֑עַת יְקַר ר֝֗וּחַ אִ֣ישׁ תְּבוּנָֽה׃"
+pericope: "[[Prov.17.1 Better a Dry Morsel in Quietness|Better a Dry Morsel in Quietness]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 17
+book/chapter: "[[Prov.17|Proverbs 17]]"
+chronological_order: 472
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic TONGUE|TONGUE]]"
+strongs:
+- "[[H2820]]"
+- "[[H0561]]"
+- "[[H9023]]"
+- "[[H3045]]"
+- "[[H1847]]"
+- "[[H9002]]"
+- "[[H7119]]"
+- "[[H3368]]"
+- "[[H7307J]]"
+- "[[H0376G]]"
+- "[[H8394]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Proverbs 17:27**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that hath knowledge spareth his words: [and] a man of understanding is of an excellent spirit.
 <small><sub>**BSB:**</sub></small>
 A man of knowledge restrains his words, and a man of understanding maintains a calm spirit.
+<small><sub>**Hebrew:**</sub></small>
+[[H2820\|חוֹשֵׂ֣ךְ]] [[H0561\|אֲ֭מָרָי]][[H9023\|ו]] [[H3045\|יוֹדֵ֣עַ]] [[H1847\|דָּ֑עַת]] [[H3368\|יְקַר]] [[H7307J\|ר֝֗וּחַ]] [[H0376G\|אִ֣ישׁ]] [[H8394\|תְּבוּנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SPEAKING|SPEAKING]] • [[topic TONGUE|TONGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.26|<< Proverbs 17:26]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.28|Proverbs 17:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -22,6 +68,6 @@ A man of knowledge restrains his words, and a man of understanding maintains a c
 | understanding  |**<big>&#8207;[[H8394\|תְּבוּנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| te.vu.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.26|<< Proverbs 17:26]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.28|Proverbs 17:28 >>]]</td></tr></table>
 
-[^1]: and [a person] cool  | **<big>[[H7119|קַר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> kar-<small><sup>[[HAabsa]]</sup></small> | K
+[^1]: and [a person] cool  | **<big>[[H9002|וְ]]</big><big>[[H7119|קַר]]</big> ** | ve.<small><sup>[[HC]]</sup></small> kar-<small><sup>[[HAabsa]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>וְקַר\־</big></span>**
 

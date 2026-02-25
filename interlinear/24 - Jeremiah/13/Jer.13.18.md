@@ -1,8 +1,58 @@
+---
+title: Jeremiah 13:18
+type: Verse
+kjv: "Say unto the king and to the queen, Humble yourselves, sit down: for your principalities shall come down, even the crown of your glory."
+bsb: "Say to the king and to the queen mother: “Take a lowly seat, for your glorious crowns have fallen from your heads.”"
+hebrew: "אֱמֹ֥ר לַמֶּ֛לֶךְ וְלַגְּבִירָ֖ה הַשְׁפִּ֣ילוּ שֵׁ֑בוּ כִּ֤י יָרַד֙ מַרְאֲשׁ֣וֹתֵיכֶ֔ם עֲטֶ֖רֶת תִּֽפְאַרְתְּכֶֽם׃"
+pericope: "[[Jer.13.15 Captivity Threatened|Captivity Threatened]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 13
+book/chapter: "[[Jer.13|Jeremiah 13]]"
+chronological_order: 730
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H1377]]"
+- "[[H8213]]"
+- "[[H3427]]"
+- "[[H3588A]]"
+- "[[H3381]]"
+- "[[H4761]]"
+- "[[H9026]]"
+- "[[H5850]]"
+- "[[H8597]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 13:18**<big><big>[[Jer.13.15 Captivity Threatened|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say unto the king and to the queen, Humble yourselves, sit down: for your principalities shall come down, [even] the crown of your glory.
 <small><sub>**BSB:**</sub></small>
 Say to the king and to the queen mother: “Take a lowly seat, for your glorious crowns have fallen from your heads.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אֱמֹ֥ר]] [[H9005\|לַ]][[H4428G\|מֶּ֛לֶךְ]] [[H9002\|וְ]][[H9005\|לַ]][[H1377\|גְּבִירָ֖ה]] [[H8213\|הַשְׁפִּ֣ילוּ]] [[H3427\|שֵׁ֑בוּ]] [[H3588A\|כִּ֤י]] [[H3381\|יָרַד֙]] [[H4761\|מַרְאֲשׁ֣וֹתֵי]][[H9026\|כֶ֔ם]] [[H5850\|עֲטֶ֖רֶת]] [[H8597\|תִּֽפְאַרְתְּ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.13.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.17|<< Jeremiah 13:17]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.13.19|Jeremiah 13:19 >>]]</td></tr></table>
 

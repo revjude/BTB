@@ -1,8 +1,56 @@
+---
+title: Genesis 43:25
+type: Verse
+kjv: "And they made ready the present against Joseph came at noon: for they heard that they should eat bread there."
+bsb: "Since the brothers had been told that they were going to eat a meal there, they prepared their gift for Joseph’s arrival at noon."
+hebrew: "וַיָּכִ֙ינוּ֙ אֶת־ הַמִּנְחָ֔ה עַד־ בּ֥וֹא יוֹסֵ֖ף בַּֽצָּהֳרָ֑יִם כִּ֣י שָֽׁמְע֔וּ כִּי־ שָׁ֖ם יֹ֥אכְלוּ לָֽחֶם׃"
+pericope: "[[Gen.43.16 Joseph’s Hospitality to His Brothers|Joseph’s Hospitality to His Brothers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 43
+book/chapter: "[[Gen.43|Genesis 43]]"
+chronological_order: 85
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+strongs:
+- "[[H9001]]"
+- "[[H3559A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4503H]]"
+- "[[H5704]]"
+- "[[H0935G]]"
+- "[[H3130G]]"
+- "[[H9003]]"
+- "[[H6672A]]"
+- "[[H3588A]]"
+- "[[H8085G]]"
+- "[[H8033G]]"
+- "[[H0398]]"
+- "[[H3899H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 43:25**<big><big>[[Gen.43.16 Joseph’s Hospitality to His Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they made ready the present against Joseph came at noon: for they heard that they should eat bread there.
 <small><sub>**BSB:**</sub></small>
 Since the brothers had been told that they were going to eat a meal there, they prepared their gift for Joseph’s arrival at noon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3559A\|יָּכִ֙ינוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4503H\|מִּנְחָ֔ה]] [[H5704\|עַד]][[H9014\|־]] [[H0935G\|בּ֥וֹא]] [[H3130G\|יוֹסֵ֖ף]] [[H9003\|בַּֽ]][[H6672A\|צָּהֳרָ֑יִם]] [[H3588A\|כִּ֣י]] [[H8085G\|שָֽׁמְע֔וּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H8033G\|שָׁ֖ם]] [[H0398\|יֹ֥אכְלוּ]] [[H3899H\|לָֽחֶם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.24|<< Genesis 43:24]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.26|Genesis 43:26 >>]]</td></tr></table>
 

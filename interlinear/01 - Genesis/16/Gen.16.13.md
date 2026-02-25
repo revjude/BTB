@@ -1,8 +1,68 @@
+---
+title: Genesis 16:13
+type: Verse
+kjv: "And she called the name of the LORD that spake unto her, Thou God seest me: for she said, Have I also here looked after him that seeth me?"
+bsb: "So Hagar gave this name to the LORD who had spoken to her: “You are the God who sees me,” for she said, “Here I have seen the One who sees me!”"
+hebrew: "וַתִּקְרָ֤א שֵׁם־ יְהוָה֙ הַדֹּבֵ֣ר אֵלֶ֔יהָ אַתָּ֖ה אֵ֣ל רֳאִ֑י כִּ֣י אָֽמְרָ֗ה הֲגַ֥ם הֲלֹ֛ם רָאִ֖יתִי אַחֲרֵ֥י רֹאִֽי׃"
+pericope: "[[Gen.16.1 Hagar and Ishmael|Hagar and Ishmael]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 16
+book/chapter: "[[Gen.16|Genesis 16]]"
+chronological_order: 58
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LAHAI-ROI|LAHAI-ROI]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H8034]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9009]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H0859A]]"
+- "[[H0410G]]"
+- "[[H7210]]"
+- "[[H3588A]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H1571]]"
+- "[[H1988]]"
+- "[[H7200G]]"
+- "[[H0310A]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 16:13**<big><big>[[Gen.16.1 Hagar and Ishmael|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she called the name of the LORD that spake unto her, Thou God seest me: for she said, Have I also here looked after him that seeth me?
 <small><sub>**BSB:**</sub></small>
 So Hagar gave this name to the LORD who had spoken to her: “You are the God who sees me,” for she said, “Here I have seen the One who sees me!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|תִּקְרָ֤א]] [[H8034\|שֵׁם]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H9009\|הַ]][[H1696G\|דֹּבֵ֣ר]] [[H0413\|אֵלֶ֔י]][[H9034\|הָ]] [[H0859A\|אַתָּ֖ה]] [[H0410G\|אֵ֣ל]] [[H7210\|רֳאִ֑י]] [[H3588A\|כִּ֣י]] [[H0559\|אָֽמְרָ֗ה]] [[H9008\|הֲ]][[H1571\|גַ֥ם]] [[H1988\|הֲלֹ֛ם]] [[H7200G\|רָאִ֖יתִי]] [[H0310A\|אַחֲרֵ֥י]] [[H7200G\|רֹאִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic LAHAI-ROI|LAHAI-ROI]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.16.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.16.12|<< Genesis 16:12]]</td><td align="center" style="border:none;">[[Gen.16|Genesis 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.16.14|Genesis 16:14 >>]]</td></tr></table>
 

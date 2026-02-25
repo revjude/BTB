@@ -1,8 +1,63 @@
+---
+title: Genesis 31:55
+type: Verse
+kjv: "And early in the morning Laban rose up, and kissed his sons and his daughters, and blessed them: and Laban departed, and returned unto his place."
+bsb: "Early the next morning, Laban got up and kissed his grandchildren and daughters and blessed them. Then he left to return home."
+hebrew: "וַיַּשְׁכֵּ֨ם לָבָ֜ן בַּבֹּ֗קֶר וַיְנַשֵּׁ֧ק לְבָנָ֛יו וְלִבְנוֹתָ֖יו וַיְבָ֣רֶךְ אֶתְהֶ֑ם וַיֵּ֛לֶךְ וַיָּ֥שָׁב לָבָ֖ן לִמְקֹמֽוֹ׃"
+pericope: "[[Gen.31.43 Jacob’s Covenant with Laban|Jacob’s Covenant with Laban]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic KISS|KISS]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic RISING|RISING]]"
+strongs:
+- "[[H9001]]"
+- "[[H7925]]"
+- "[[H3837A]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H5401A]]"
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H1980G]]"
+- "[[H7725G]]"
+- "[[H4725]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 31:55**<big><big>[[Gen.31.43 Jacob’s Covenant with Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And early in the morning Laban rose up, and kissed his sons and his daughters, and blessed them: and Laban departed, and returned unto his place.
 <small><sub>**BSB:**</sub></small>
 Early the next morning, Laban got up and kissed his grandchildren and daughters and blessed them. Then he left to return home.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7925\|יַּשְׁכֵּ֨ם]] [[H3837A\|לָבָ֜ן]] [[H9003\|בַּ]][[H1242\|בֹּ֗קֶר]] [[H9001\|וַ]][[H5401A\|יְנַשֵּׁ֧ק]] [[H9005\|לְ]][[H1121G\|בָנָ֛י]][[H9023\|ו]] [[H9002\|וְ]][[H9005\|לִ]][[H1323G\|בְנוֹתָ֖י]][[H9023\|ו]] [[H9001\|וַ]][[H1288\|יְבָ֣רֶךְ]] [[H0853\|אֶתְ]][[H9038\|הֶ֑ם]] [[H9001\|וַ]][[H1980G\|יֵּ֛לֶךְ]] [[H9001\|וַ]][[H7725G\|יָּ֥שָׁב]] [[H3837A\|לָבָ֖ן]] [[H9005\|לִ]][[H4725\|מְקֹמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KISS|KISS]] • [[topic LABAN|LABAN]] • [[topic RISING|RISING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.55|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.54|<< Genesis 31:54]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.1|Genesis 32:1 >>]]</td></tr></table>
 

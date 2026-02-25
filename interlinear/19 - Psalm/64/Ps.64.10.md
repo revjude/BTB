@@ -1,8 +1,59 @@
+---
+title: Psalm 64:10
+type: Verse
+kjv: "The righteous shall be glad in the LORD, and shall trust in him; and all the upright in heart shall glory."
+bsb: "Let the righteous rejoice in the LORD and take refuge in Him; let all the upright in heart exult."
+hebrew: "יִשְׂמַ֬ח צַדִּ֣יק בַּ֭יהוָה וְחָ֣סָה ב֑וֹ וְ֝יִתְהַֽלְל֗וּ כָּל־ יִשְׁרֵי־ לֵֽב׃"
+pericope: "[[Ps.64.1 The Hurtful Tongue|The Hurtful Tongue]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 64
+book/chapter: "[[Ps.64|Psalm 64]]"
+chronological_order: 374
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JOY|JOY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H8055]]"
+- "[[H6662]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H2620]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H1984H]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3477G]]"
+- "[[H3820A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 64:10**<big><big>[[Ps.64.1 The Hurtful Tongue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The righteous shall be glad in the LORD, and shall trust in him; and all the upright in heart shall glory.
 <small><sub>**BSB:**</sub></small>
 Let the righteous rejoice in the LORD and take refuge in Him; let all the upright in heart exult.
+<small><sub>**Hebrew:**</sub></small>
+[[H8055\|יִשְׂמַ֬ח]] [[H6662\|צַדִּ֣יק]] [[H9003\|בַּ֭]][[H3068G\|יהוָה]] [[H9001\|וְ]][[H2620\|חָ֣סָה]] [[H9003\|ב֑]][[H9033\|וֹ]] [[H9002\|וְ֝]][[H1984H\|יִתְהַֽלְל֗וּ]] [[H3605\|כָּל]][[H9014\|־]] [[H3477G\|יִשְׁרֵי]][[H9014\|־]] [[H3820A\|לֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JOY|JOY]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.64.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.64.9|<< Psalms 64:9]]</td><td align="center" style="border:none;">[[Ps.64|Psalms 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.65.0|Psalms 65:0 >>]]</td></tr></table>
 

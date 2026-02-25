@@ -1,10 +1,77 @@
+---
+title: Luke 14:21
+type: Verse
+kjv: "So that servant came, and shewed his lord these things. Then the master of the house being angry said to his servant, Go out quickly into the streets and lanes of the city, and bring in hither the poor, and the maimed, and the halt, and the blind."
+bsb: "The servant returned and reported all this to his master. Then the owner of the house became angry and said to his servant, ‘Go out quickly into the streets and alleys of the city, and bring in the poor, the crippled, the blind, and the lame.’"
+jesus_said: "So that servant came, and shewed his lord these things. Then the master of the house being angry said to his servant, Go out quickly into the streets and lanes of the city, and bring in hither the poor, and the maimed, and the halt, and the blind."
+greek: "καὶ παραγενόμενος ὁ δοῦλος ἐκεῖνος ἀπήγγειλεν τῷ κυρίῳ αὐτοῦ ταῦτα.¶ Τότε ὀργισθεὶς ὁ οἰκοδεσπότης εἶπεν τῷ δούλῳ αὐτοῦ· ἔξελθε ταχέως εἰς τὰς πλατείας καὶ ῥύμας τῆς πόλεως, καὶ τοὺς πτωχοὺς καὶ ἀναπείρους καὶ τυφλοὺς καὶ χωλοὺς εἰσάγαγε ὧδε."
+pericope: "[[Luke.14.15 The Parable of the Banquet|The Parable of the Banquet]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 14
+book/chapter: "[[Luke.14|Luke 14]]"
+chronological_order: 976
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3854]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G1565]]"
+- "[[G0518]]"
+- "[[G2962H]]"
+- "[[G0846]]"
+- "[[G3778]]"
+- "[[G5119]]"
+- "[[G3710]]"
+- "[[G3617]]"
+- "[[G2036]]"
+- "[[G1831]]"
+- "[[G5030]]"
+- "[[G1519]]"
+- "[[G4116]]"
+- "[[G4505]]"
+- "[[G4172]]"
+- "[[G4434]]"
+- "[[G0376]]"
+- "[[G5185]]"
+- "[[G5560]]"
+- "[[G1521]]"
+- "[[G5602]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 14:21**<big><big>[[Luke.14.15 The Parable of the Banquet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So that servant came, and shewed his lord these things. Then the master of the house being angry said to his servant, Go out quickly into the streets and lanes of the city, and bring in hither the poor, and the maimed, and the halt, and the blind.
 <small><sub>**BSB:**</sub></small>
 The servant returned and reported all this to his master. Then the owner of the house became angry and said to his servant, ‘Go out quickly into the streets and alleys of the city, and bring in the poor, the crippled, the blind, and the lame.’
-<small><sub>**Literal:**</sub></small>
-And having come the servant that reported to the master of him these things. Then having become angry the master of the house said to the servant of him; do go out soon into the streets and lanes of the city, and the poor and crippled and blind and lame do bring in here.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.20|<< Luke 14:20]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.22|Luke 14:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3854\|παραγενόμενος]]  [[G3588\|ὁ]]  [[G1401\|δοῦλος]]  [[G1565\|ἐκεῖνος]]  [[G0518\|ἀπήγγειλεν]]  [[G3588\|τῷ]]  [[G2962H\|κυρίῳ]]  [[G0846\|αὐτοῦ]]  [[G3778\|ταῦτα.¶]]  [[G5119\|Τότε]]  [[G3710\|ὀργισθεὶς]]  [[G3588\|ὁ]]  [[G3617\|οἰκοδεσπότης]]  [[G2036\|εἶπεν]]  [[G3588\|τῷ]]  [[G1401\|δούλῳ]]  [[G0846\|αὐτοῦ·]]  [[G1831\|ἔξελθε]]  [[G5030\|ταχέως]]  [[G1519\|εἰς]]  [[G3588\|τὰς]]  [[G4116\|πλατείας]]  [[G2532\|καὶ]]  [[G4505\|ῥύμας]]  [[G3588\|τῆς]]  [[G4172\|πόλεως,]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G4434\|πτωχοὺς]]  [[G2532\|καὶ]]  [[G0376\|ἀναπείρους]]  [[G2532\|καὶ]]  [[G5185\|τυφλοὺς]]  [[G2532\|καὶ]]  [[G5560\|χωλοὺς]]  [[G1521\|εἰσάγαγε]]  [[G5602\|ὧδε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FEASTS|FEASTS]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic REPROOF|REPROOF]] • [[topic SALVATION|SALVATION]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.20|<< Luke 14:20]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.22|Luke 14:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

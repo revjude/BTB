@@ -1,6 +1,77 @@
+---
+title: LXX Zephaniah 3:20
+type: Verse
+lxx: "And their enemies shall be disgraced in  that time, whenever I should do well with you, and in the time whenever I should take you in. For I will make you famous and for boasting among all the peoples of the earth, in  my returning  your captivity before your eyes, says the lord."
+greek: "και καταισχυνθήσονται εν τω καιρώ εκείνω όταν καλώς υμίν ποιήσω και εν τω καιρώ όταν εισδέξομαι υμάς διότι δώσω υμάς ονομαστούς και εις καύχημα εν πάσι τοις λαοίς της γης εν τω επιστρέφειν με την αιχμαλωσίαν υμών ενώπιον υμών λέγει κύριος"
+original_language: Greek
+testament: Old
+book: Zephaniah
+chapter: 3
+book/chapter: "[[Zeph.3|Zephaniah 3]]"
+chronological_order: 717
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G2617]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2540]]"
+- "[[G1565]]"
+- "[[G3752]]"
+- "[[G2573]]"
+- "[[G1473]]"
+- "[[G4160]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2540]]"
+- "[[G3752]]"
+- "[[G1523]]"
+- "[[G1473]]"
+- "[[G1360]]"
+- "[[G1325]]"
+- "[[G1473]]"
+- "[[G8520]]"
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[G2745]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1994]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0161]]"
+- "[[G1473]]"
+- "[[G1799]]"
+- "[[G1473]]"
+- "[[G3004]]"
+- "[[G2962]]"
+---
+
 **LXX Zephaniah 3:20** 
 <small><sub>**LXX:**</sub></small>
 And \[their enemies\] shall be disgraced in  that time, whenever I should do well with you, and in the time whenever I should take you in. For I will make you famous and for boasting among all the peoples of the earth, in  my returning  your captivity before your \[eyes\], says \[the\] <span class="smallcaps">lord</span>. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2617\|καταισχυνθήσονται]] [[G1722\|εν]] [[G3588\|τω]] [[G2540\|καιρώ]] [[G1565\|εκείνω]] [[G3752\|όταν]] [[G2573\|καλώς]] [[G1473\|υμίν]] [[G4160\|ποιήσω]] [[G2532\|και]] [[G1722\|εν]] [[G3588\|τω]] [[G2540\|καιρώ]] [[G3752\|όταν]] [[G1523\|εισδέξομαι]] [[G1473\|υμάς]] [[G1360\|διότι]] [[G1325\|δώσω]] [[G1473\|υμάς]] [[G8520\|ονομαστούς]] [[G2532\|και]] [[G1519\|εις]] [[G2745\|καύχημα]] [[G1722\|εν]] [[G3956\|πάσι]] [[G3588\|τοις]] [[G2992\|λαοίς]] [[G3588\|της]] [[G1093\|γης]] [[G1722\|εν]] [[G3588\|τω]] [[G1994\|επιστρέφειν]] [[G1473\|με]] [[G3588\|την]] [[G0161\|αιχμαλωσίαν]] [[G1473\|υμών]] [[G1799\|ενώπιον]] [[G1473\|υμών]] [[G3004\|λέγει]] [[G2962\|κύριος]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]]</small>
 <small><sub>**MT:**</sub></small>
 [[Zeph.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.19|<< Zephaniah 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.1.1|Haggai 1:1 >>]]</td></tr></table>
 
@@ -43,6 +114,6 @@ And \[their enemies\] shall be disgraced in  that time, whenever I should do wel
 | your \[eyes\], | **<big>[[G1473\|υμών]]</big>** |
 | says | **<big>[[G3004\|λέγει]]</big>** |
 | \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
-[[Zeph.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.19|<< Zephaniah 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.1.1|Haggai 1:1 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.19|<< Zephaniah 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.1.1|Haggai 1:1 >>]]</td></tr></table>
 
 

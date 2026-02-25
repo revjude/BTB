@@ -1,10 +1,56 @@
+---
+title: 2 Thessalonians 3:7
+type: Verse
+kjv: "For yourselves know how ye ought to follow us: for we behaved not ourselves disorderly among you;"
+bsb: "For you yourselves know how you ought to imitate us, because we were not undisciplined among you,"
+greek: "αὐτοὶ γὰρ οἴδατε πῶς δεῖ μιμεῖσθαι ἡμᾶς· ὅτι οὐκ ἠτακτήσαμεν ἐν ὑμῖν,"
+pericope: "[[2Thess.3.6 A Warning against Idleness|A Warning against Idleness]]"
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 3
+book/chapter: "[[2Thess.3|2 Thessalonians 3]]"
+chronological_order: 1055
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic LABOR|LABOR]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0846]]"
+- "[[G1063]]"
+- "[[G6063]]"
+- "[[G4459]]"
+- "[[G1163]]"
+- "[[G3401]]"
+- "[[G3165]]"
+- "[[G3754H]]"
+- "[[G3756]]"
+- "[[G0812]]"
+- "[[G1722]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **2 Thessalonians 3:7**<big><big>[[2Thess.3.6 A Warning against Idleness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For yourselves know how ye ought to follow us: for we behaved not ourselves disorderly among you;
 <small><sub>**BSB:**</sub></small>
 For you yourselves know how you ought to imitate us, because we were not undisciplined among you,
-<small><sub>**Literal:**</sub></small>
-Yourselves for you know how it behooves [you] to imitate us; because not we were idle among you,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.6|<< 2 Thessalonians 3:6]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.8|2 Thessalonians 3:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0846\|αὐτοὶ]]  [[G1063\|γὰρ]]  [[G6063\|οἴδατε]]  [[G4459\|πῶς]]  [[G1163\|δεῖ]]  [[G3401\|μιμεῖσθαι]]  [[G3165\|ἡμᾶς·]]  [[G3754H\|ὅτι]]  [[G3756\|οὐκ]]  [[G0812\|ἠτακτήσαμεν]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic EXAMPLE|EXAMPLE]] • [[topic LABOR|LABOR]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.6|<< 2 Thessalonians 3:6]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.8|2 Thessalonians 3:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

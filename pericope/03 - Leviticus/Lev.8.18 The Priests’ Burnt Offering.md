@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Priests’ Burnt Offering
+type: Pericope
 pericope: "[[Lev.8.18 The Priests’ Burnt Offering|The Priests’ Burnt Offering]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 8
 book/chapter: "[[Lev.8|Leviticus 8]]"
-genre:
+chronological_order: 140
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 4
 verses:
 - "[[Lev.8.18]]"
 - "[[Lev.8.19]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Lev.8.21]]"
 ---
 
-[[Lev.8|Leviticus 8:18 - Leviticus 8:21]]
+<small>[[Lev.8|Leviticus 8:18-21]]</small>
 *The Priests’ Burnt Offering*
 
 [[Lev.8.18|18]] And he brought the ram for the burnt offering: and Aaron and his sons laid their hands upon the head of the ram.

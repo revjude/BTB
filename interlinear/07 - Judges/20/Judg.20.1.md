@@ -1,8 +1,66 @@
+---
+title: Judges 20:1
+type: Verse
+kjv: "Then all the children of Israel went out, and the congregation was gathered together as one man, from Dan even to Beersheba, with the land of Gilead, unto the LORD in Mizpeh."
+bsb: "Then all the Israelites from Dan to Beersheba and from the land of Gilead came out, and the congregation assembled as one man before the LORD at Mizpah."
+hebrew: "וַיֵּצְאוּ֮ כָּל־ בְּנֵ֣י יִשְׂרָאֵל֒ וַתִּקָּהֵ֨ל הָעֵדָ֜ה כְּאִ֣ישׁ אֶחָ֗ד לְמִדָּן֙ וְעַד־ בְּאֵ֣ר שֶׁ֔בַע וְאֶ֖רֶץ הַגִּלְעָ֑ד אֶל־ יְהוָ֖ה הַמִּצְפָּֽה׃"
+pericope: "[[Judg.20.1 The Decree of the Assembly|The Decree of the Assembly]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BEER-SHEBA|BEER-SHEBA]]"
+- "[[topic DAN|DAN]]"
+- "[[topic MIZPAH|MIZPAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H6950]]"
+- "[[H9009]]"
+- "[[H5712]]"
+- "[[H9004]]"
+- "[[H0376G]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H9006]]"
+- "[[H1835G]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H0884]]"
+- "[[H0776G]]"
+- "[[H1568G]]"
+- "[[H0413]]"
+- "[[H3068G]]"
+- "[[H4709G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:1**<big><big>[[Judg.20.1 The Decree of the Assembly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then all the children of Israel went out, and the congregation was gathered together as one man, from Dan even to Beersheba, with the land of Gilead, unto the LORD in Mizpeh.
 <small><sub>**BSB:**</sub></small>
 Then all the Israelites from Dan to Beersheba and from the land of Gilead came out, and the congregation assembled as one man before the LORD at Mizpah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצְאוּ֮]] [[H3605\|כָּל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵל֒]] [[H9001\|וַ]][[H6950\|תִּקָּהֵ֨ל]] [[H9009\|הָ]][[H5712\|עֵדָ֜ה]] [[H9004\|כְּ]][[H0376G\|אִ֣ישׁ]] [[H0259\|אֶחָ֗ד]] [[H9005\|לְ]][[H9006\|מִ]][[H1835G\|דָּן֙]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H0884\|בְּאֵ֣ר]] [[H0884\|שֶׁ֔בַע]] [[H9002\|וְ]][[H0776G\|אֶ֖רֶץ]] [[H9009\|הַ]][[H1568G\|גִּלְעָ֑ד]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9009\|הַ]][[H4709G\|מִּצְפָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEER-SHEBA|BEER-SHEBA]] • [[topic DAN|DAN]] • [[topic MIZPAH|MIZPAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.30|<< Judges 19:30]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.2|Judges 20:2 >>]]</td></tr></table>
 

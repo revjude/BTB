@@ -1,10 +1,60 @@
+---
+title: Mark 11:11
+type: Verse
+kjv: "And Jesus entered into Jerusalem, and into the temple: and when he had looked round about upon all things, and now the eventide was come, he went out unto Bethany with the twelve."
+bsb: "Then Jesus entered Jerusalem and went into the temple courts. He looked around at everything, but since it was already late, He went out to Bethany with the Twelve."
+greek: "Καὶ εἰσῆλθεν εἰς Ἱεροσόλυμα ὁ Ἰησοῦς καὶ εἰς τὸ ἱερόν, καὶ περιβλεψάμενος πάντα, ὀψίας ἤδη οὔσης τῆς ὥρας, ἐξῆλθεν εἰς Βηθανίαν μετὰ τῶν δώδεκα.¶"
+pericope: "[[Mark.11.1 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 11
+book/chapter: "[[Mark.11|Mark 11]]"
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BETHANY|BETHANY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G2414]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2411]]"
+- "[[G4017]]"
+- "[[G3956]]"
+- "[[G3798]]"
+- "[[G2235]]"
+- "[[G1510]]"
+- "[[G5610]]"
+- "[[G1831]]"
+- "[[G0963]]"
+- "[[G3326]]"
+- "[[G1427]]"
+texts:
+- NKO
+- k
+- NK(o)
+---
+
 **Mark 11:11**<big><big>[[Mark.11.1 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus entered into Jerusalem, and into the temple: and when he had looked round about upon all things, and now the eventide was come, he went out unto Bethany with the twelve.
 <small><sub>**BSB:**</sub></small>
 Then Jesus entered Jerusalem and went into the temple courts. He looked around at everything, but since it was already late, He went out to Bethany with the Twelve.
-<small><sub>**Literal:**</sub></small>
-And He entered into Jerusalem <the> Jesus and into the temple, and having looked around on all things, when late [evening] already being the hour, He went out to Bethany with the Twelve.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.10|<< Mark 11:10]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.12|Mark 11:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1525\|εἰσῆλθεν]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2411\|ἱερόν,]]  [[G2532\|καὶ]]  [[G4017\|περιβλεψάμενος]]  [[G3956\|πάντα,]]  [[G3798\|ὀψίας]]  [[G2235\|ἤδη]]  [[G1510\|οὔσης]]  [[G3588\|τῆς]]  [[G5610\|ὥρας,]]  [[G1831\|ἐξῆλθεν]]  [[G1519\|εἰς]]  [[G0963\|Βηθανίαν]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G1427\|δώδεκα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHANY|BETHANY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.10|<< Mark 11:10]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.12|Mark 11:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

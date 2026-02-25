@@ -1,8 +1,71 @@
+---
+title: 1 Kings 12:2
+type: Verse
+kjv: "And it came to pass, when Jeroboam the son of Nebat, who was yet in Egypt, heard of it, (for he was fled from the presence of king Solomon, and Jeroboam dwelt in Egypt;)"
+bsb: "When Jeroboam son of Nebat heard about this, he was still in Egypt where he had fled from King Solomon and had been living ever since."
+hebrew: "וַיְהִ֞י כִּשְׁמֹ֣עַ׀ יָרָבְעָ֣ם בֶּן־ נְבָ֗ט וְהוּא֙ עוֹדֶ֣נּוּ בְמִצְרַ֔יִם אֲשֶׁ֣ר בָּרַ֔ח מִפְּנֵ֖י הַמֶּ֣לֶךְ שְׁלֹמֹ֑ה וַיֵּ֥שֶׁב יָרָבְעָ֖ם בְּמִצְרָֽיִם׃"
+pericope: "[[1Kgs.12.1 Rebellion against Rehoboam|Rebellion against Rehoboam]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 12
+book/chapter: "[[1Kgs.12|1 Kings 12]]"
+chronological_order: 551
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic NEBAT|NEBAT]]"
+- "[[topic PETITION|PETITION]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic REVOLT|REVOLT]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H9015]]"
+- "[[H3379G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5028]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H5750]]"
+- "[[H9043]]"
+- "[[H9003]]"
+- "[[H4714G]]"
+- "[[H0834A]]"
+- "[[H1272]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H8010]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 12:2**<big><big>[[1Kgs.12.1 Rebellion against Rehoboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Jeroboam the son of Nebat, who was yet in Egypt, heard [of it], (for he was fled from the presence of king Solomon, and Jeroboam dwelt in Egypt;)
 <small><sub>**BSB:**</sub></small>
 When Jeroboam son of Nebat heard about this, he was still in Egypt where he had fled from King Solomon and had been living ever since.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֞י]] [[H9004\|כִּ]][[H8085G\|שְׁמֹ֣עַ]][[H9015\|׀]] [[H3379G\|יָרָבְעָ֣ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5028\|נְבָ֗ט]] [[H9002\|וְ]][[H1931\|הוּא֙]] [[H5750\|עוֹדֶ֣]][[H9043\|נּוּ]] [[H9003\|בְ]][[H4714G\|מִצְרַ֔יִם]] [[H0834A\|אֲשֶׁ֣ר]] [[H1272\|בָּרַ֔ח]] [[H9006\|מִ]][[H6440I\|פְּנֵ֖י]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H8010\|שְׁלֹמֹ֑ה]] [[H9001\|וַ]][[H3427\|יֵּ֥שֶׁב]] [[H3379G\|יָרָבְעָ֖ם]] [[H9003\|בְּ]][[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic JEROBOAM|JEROBOAM]] • [[topic NEBAT|NEBAT]] • [[topic PETITION|PETITION]] • [[topic REHOBOAM|REHOBOAM]] • [[topic REVOLT|REVOLT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.12.1|<< 1 Kings 12:1]]</td><td align="center" style="border:none;">[[1Kgs.12|1 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.12.3|1 Kings 12:3 >>]]</td></tr></table>
 

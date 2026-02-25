@@ -1,8 +1,69 @@
+---
+title: Job 33:26
+type: Verse
+kjv: "He shall pray unto God, and he will be favourable unto him: and he shall see his face with joy: for he will render unto man his righteousness."
+bsb: "He prays to God and finds favor; he sees God’s face and shouts for joy, and God restores His righteousness to that man."
+hebrew: "יֶעְתַּ֤ר אֶל־ אֱל֨וֹהַּ׀ וַיִּרְצֵ֗הוּ וַיַּ֣רְא פָּ֭נָיו בִּתְרוּעָ֑ה וַיָּ֥שֶׁב לֶ֝אֱנ֗וֹשׁ צִדְקָתֽוֹ׃"
+pericope: "[[Job.33.1 Elihu Rebukes Job|Elihu Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 33
+book/chapter: "[[Job.33|Job 33]]"
+chronological_order: 44
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H6279]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0433]]"
+- "[[H9015]]"
+- "[[H9001]]"
+- "[[H7521]]"
+- "[[H9033]]"
+- "[[H7200G]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H8643]]"
+- "[[H7725H]]"
+- "[[H9005]]"
+- "[[H0582]]"
+- "[[H6666]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 33:26**<big><big>[[Job.33.1 Elihu Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall pray unto God, and he will be favourable unto him: and he shall see his face with joy: for he will render unto man his righteousness.
 <small><sub>**BSB:**</sub></small>
 He prays to God and finds favor; he sees God’s face and shouts for joy, and God restores His righteousness to that man.
+<small><sub>**Hebrew:**</sub></small>
+[[H6279\|יֶעְתַּ֤ר]] [[H0413\|אֶל]][[H9014\|־]] [[H0433\|אֱל֨וֹהַּ]][[H9015\|׀]] [[H9001\|וַ]][[H7521\|יִּרְצֵ֗]][[H9033\|הוּ]] [[H9001\|וַ]][[H7200G\|יַּ֣רְא]] [[H6440H\|פָּ֭נָי]][[H9023\|ו]] [[H9003\|בִּ]][[H8643\|תְרוּעָ֑ה]] [[H9001\|וַ]][[H7725H\|יָּ֥שֶׁב]] [[H9005\|לֶ֝]][[H0582\|אֱנ֗וֹשׁ]] [[H6666\|צִדְקָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AGENCY|AGENCY]] • [[topic CONVICTION|CONVICTION]] • [[topic GOD|GOD]] • [[topic JOY|JOY]] • [[topic PENITENT|PENITENT]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.33.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.25|<< Job 33:25]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.27|Job 33:27 >>]]</td></tr></table>
 

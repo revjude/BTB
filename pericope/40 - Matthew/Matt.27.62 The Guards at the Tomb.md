@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Guards at the Tomb
+type: Pericope
 pericope: "[[Matt.27.62 The Guards at the Tomb|The Guards at the Tomb]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 27
 book/chapter: "[[Matt.27|Matthew 27]]"
-genre:
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Matt.27.62]]"
 - "[[Matt.27.63]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Matt.27.66]]"
 ---
 
-[[Matt.27|Matthew 27:62 - Matthew 27:66]]
+<small>[[Matt.27|Matthew 27:62-66]]</small>
 *The Guards at the Tomb*
 
 [[Matt.27.62|62]] Now the next day, that followed the day of the preparation, the chief priests and Pharisees came together unto Pilate,

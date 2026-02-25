@@ -1,8 +1,60 @@
+---
+title: Psalm 5:6
+type: Verse
+kjv: "Thou shalt destroy them that speak leasing: the LORD will abhor the bloody and deceitful man."
+bsb: "You destroy those who tell lies; the LORD abhors the man of bloodshed and deceit."
+hebrew: "תְּאַבֵּד֮ דֹּבְרֵ֪י כָ֫זָ֥ב אִישׁ־ דָּמִ֥ים וּמִרְמָ֗ה יְתָ֘עֵ֥ב׀ יְהוָֽה׃"
+pericope: "[[Ps.5.1 Give Ear to My Words|Give Ear to My Words]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 5
+book/chapter: "[[Ps.5|Psalm 5]]"
+chronological_order: 340
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic DECEIT|DECEIT]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0006]]"
+- "[[H1696G]]"
+- "[[H3577]]"
+- "[[H0376I]]"
+- "[[H9014]]"
+- "[[H1818]]"
+- "[[H9002]]"
+- "[[H4820]]"
+- "[[H8581]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 5:6**<big><big>[[Ps.5.1 Give Ear to My Words|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt destroy them that speak leasing: the LORD will abhor the bloody and deceitful man.
 <small><sub>**BSB:**</sub></small>
 You destroy those who tell lies; the LORD abhors the man of bloodshed and deceit.
+<small><sub>**Hebrew:**</sub></small>
+[[H0006\|תְּאַבֵּד֮]] [[H1696G\|דֹּבְרֵ֪י]] [[H3577\|כָ֫זָ֥ב]] [[H0376I\|אִישׁ]][[H9014\|־]] [[H1818\|דָּמִ֥ים]] [[H9002\|וּ]][[H4820\|מִרְמָ֗ה]] [[H8581\|יְתָ֘עֵ֥ב]][[H9015\|׀]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic DECEIT|DECEIT]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.5.5|<< Psalms 5:5]]</td><td align="center" style="border:none;">[[Ps.5|Psalms 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.5.7|Psalms 5:7 >>]]</td></tr></table>
 

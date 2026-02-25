@@ -1,6 +1,52 @@
+---
+title: LXX Judges 8:25
+type: Verse
+lxx: "And they said, In giving we will give. And he unfolded  his garment, and each man tossed there an ear-ring of his spoils."
+greek: "και είπαν διδόντες δώσομεν και ανέπτυξε το ιμάτιον αυτού και έρριψεν εκεί ανήρ ενώτιον σκύλων αυτού"
+original_language: Greek
+testament: Old
+book: Judges
+chapter: 8
+book/chapter: "[[Judg.8|Judges 8]]"
+chronological_order: 262
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GIDEON|GIDEON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1325]]"
+- "[[G1325]]"
+- "[[G2532]]"
+- "[[G0380]]"
+- "[[G3588]]"
+- "[[G2440]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4496]]"
+- "[[G1563]]"
+- "[[G0435]]"
+- "[[G7278]]"
+- "[[G4661]]"
+- "[[G1473]]"
+---
+
 **LXX Judges 8:25** 
 <small><sub>**LXX:**</sub></small>
 And they said, In giving we will give. And he unfolded  his garment, and \[each\] man tossed there an ear-ring of his spoils. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπαν]] [[G1325\|διδόντες]] [[G1325\|δώσομεν]] [[G2532\|και]] [[G0380\|ανέπτυξε]] [[G3588\|το]] [[G2440\|ιμάτιον]] [[G1473\|αυτού]] [[G2532\|και]] [[G4496\|έρριψεν]] [[G1563\|εκεί]] [[G0435\|ανήρ]] [[G7278\|ενώτιον]] [[G4661\|σκύλων]] [[G1473\|αυτού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIDEON|GIDEON]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**MT:**</sub></small>
 [[Judg.8.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.24|<< Judges 8:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.26|Judges 8:26 >>]]</td></tr></table>
 
@@ -20,6 +66,6 @@ And they said, In giving we will give. And he unfolded  his garment, and \[each\
 | \[each\] man | **<big>[[G0435\|ανήρ]]</big>** |
 | an ear-ring | **<big>[[G7278\|ενώτιον]]</big>** |
 | of his spoils. | **<big>[[G4661\|σκύλων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
-[[Judg.8.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.24|<< Judges 8:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.26|Judges 8:26 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.24|<< Judges 8:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.26|Judges 8:26 >>]]</td></tr></table>
 
 

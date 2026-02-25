@@ -1,8 +1,76 @@
+---
+title: Daniel 3:27
+type: Verse
+kjv: "And the princes, governors, and captains, and the king’s counsellers, being gathered together, saw these men, upon whose bodies the fire had no power, nor was an hair of their head singed, neither were their coats changed, nor the smell of fire had passed on them."
+bsb: "and when the satraps, prefects, governors, and royal advisers had gathered around, they saw that the fire had no effect on the bodies of these men. Not a hair of their heads was singed, their robes were unaffected, and there was no smell of fire on them."
+aramaic: "וּ֠מִֽתְכַּנְּשִׁין אֲחַשְׁדַּרְפְּנַיָּ֞א סִגְנַיָּ֣א וּפַחֲוָתָא֮ וְהַדָּבְרֵ֣י מַלְכָּא֒ חָזַ֣יִן לְגֻבְרַיָּ֣א אִלֵּ֡ךְ דִּי֩ לָֽא־ שְׁלֵ֨ט נוּרָ֜א בְּגֶשְׁמְה֗וֹן וּשְׂעַ֤ר רֵֽאשְׁהוֹן֙ לָ֣א הִתְחָרַ֔ךְ וְסָרְבָּלֵיה֖וֹן לָ֣א שְׁנ֑וֹ וְרֵ֣יחַ נ֔וּר לָ֥א עֲדָ֖ת בְּהֽוֹן׃"
+pericope: "[[Dan.3.19 The Fiery Furnace|The Fiery Furnace]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 3
+book/chapter: "[[Dan.3|Daniel 3]]"
+chronological_order: 788
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ABED-NEGO|ABED-NEGO]]"
+- "[[topic COERCION|COERCION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MESHACH|MESHACH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MISHAEL|MISHAEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H3673]]"
+- "[[H0324]]"
+- "[[H9010]]"
+- "[[H5460]]"
+- "[[H6347]]"
+- "[[H1907]]"
+- "[[H4430]]"
+- "[[H2370]]"
+- "[[H9005]]"
+- "[[H1400]]"
+- "[[H0479]]"
+- "[[H1768]]"
+- "[[H3809]]"
+- "[[H9014]]"
+- "[[H7981]]"
+- "[[H5135]]"
+- "[[H9003]]"
+- "[[H1655]]"
+- "[[H9028]]"
+- "[[H8177]]"
+- "[[H7217]]"
+- "[[H2761]]"
+- "[[H5622]]"
+- "[[H8133]]"
+- "[[H7382]]"
+- "[[H5709]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 3:27**<big><big>[[Dan.3.19 The Fiery Furnace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the princes, governors, and captains, and the king’s counsellers, being gathered together, saw these men, upon whose bodies the fire had no power, nor was an hair of their head singed, neither were their coats changed, nor the smell of fire had passed on them.
 <small><sub>**BSB:**</sub></small>
 and when the satraps, prefects, governors, and royal advisers had gathered around, they saw that the fire had no effect on the bodies of these men. Not a hair of their heads was singed, their robes were unaffected, and there was no smell of fire on them.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וּ֠]][[H3673\|מִֽתְכַּנְּשִׁין]] [[H0324\|אֲחַשְׁדַּרְפְּנַיָּ֞]][[H9010\|א]] [[H5460\|סִגְנַיָּ֣]][[H9010\|א]] [[H9002\|וּ]][[H6347\|פַחֲוָתָ]][[H9010\|א֮]] [[H9002\|וְ]][[H1907\|הַדָּבְרֵ֣י]] [[H4430\|מַלְכָּ]][[H9010\|א֒]] [[H2370\|חָזַ֣יִן]] [[H9005\|לְ]][[H1400\|גֻבְרַיָּ֣]][[H9010\|א]] [[H0479\|אִלֵּ֡ךְ]] [[H1768\|דִּי֩]] [[H3809\|לָֽא]][[H9014\|־]] [[H7981\|שְׁלֵ֨ט]] [[H5135\|נוּרָ֜]][[H9010\|א]] [[H9003\|בְּ]][[H1655\|גֶשְׁמְ]][[H9028\|ה֗וֹן]] [[H9002\|וּ]][[H8177\|שְׂעַ֤ר]] [[H7217\|רֵֽאשְׁ]][[H9028\|הוֹן֙]] [[H3809\|לָ֣א]] [[H2761\|הִתְחָרַ֔ךְ]] [[H9002\|וְ]][[H5622\|סָרְבָּלֵי]][[H9028\|ה֖וֹן]] [[H3809\|לָ֣א]] [[H8133\|שְׁנ֑וֹ]] [[H9002\|וְ]][[H7382\|רֵ֣יחַ]] [[H5135\|נ֔וּר]] [[H3809\|לָ֥א]] [[H5709\|עֲדָ֖ת]] [[H9003\|בְּ]][[H9038\|הֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABED-NEGO|ABED-NEGO]] • [[topic COERCION|COERCION]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic MESHACH|MESHACH]] • [[topic MIRACLES|MIRACLES]] • [[topic MISHAEL|MISHAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.26|<< Daniel 3:26]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.28|Daniel 3:28 >>]]</td></tr></table>
 

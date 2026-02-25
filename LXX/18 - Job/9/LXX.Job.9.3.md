@@ -1,6 +1,54 @@
+---
+title: LXX Job 9:3
+type: Verse
+lxx: "For if he should want to enter into judgment with him, in no way shall God obey him, so that he shall not contradict with one word of his from out of a thousand."
+greek: "εάν γαρ βούληται κριθήναι αυτώ ου μη υπακούση αυτώ ίνα μη αντείπη προς ένα λόγον αυτού εκ χιλιών"
+original_language: Greek
+testament: Old
+book: Job
+chapter: 9
+book/chapter: "[[Job.9|Job 9]]"
+chronological_order: 20
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[G1437]]"
+- "[[G1063]]"
+- "[[G1014]]"
+- "[[G2919]]"
+- "[[G1473]]"
+- "[[G3364]]"
+- "[[G5219]]"
+- "[[G1473]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G0471]]"
+- "[[G4314]]"
+- "[[G1520]]"
+- "[[G3056]]"
+- "[[G1473]]"
+- "[[G1537]]"
+- "[[G5507]]"
+---
+
 **LXX Job 9:3** 
 <small><sub>**LXX:**</sub></small>
 For if he should want to enter into judgment with him, in no way shall \[God\] obey him, \[so\] that he shall not contradict with one word of his from out of a thousand. 
+<small><sub>**Greek:**</sub></small>
+[[G1437\|εάν]] [[G1063\|γαρ]] [[G1014\|βούληται]] [[G2919\|κριθήναι]] [[G1473\|αυτώ]] [[G3364\|ου μη]] [[G5219\|υπακούση]] [[G1473\|αυτώ]] [[G2443\|ίνα]] [[G3361\|μη]] [[G0471\|αντείπη]] [[G4314\|προς]] [[G1520\|ένα]] [[G3056\|λόγον]] [[G1473\|αυτού]] [[G1537\|εκ]] [[G5507\|χιλιών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GOD|GOD]]</small>
 <small><sub>**MT:**</sub></small>
 [[Job.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.2|<< Job 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.4|Job 9:4 >>]]</td></tr></table>
 
@@ -22,6 +70,6 @@ For if he should want to enter into judgment with him, in no way shall \[God\] o
 | of his | **<big>[[G1473\|αυτού]]</big>** |
 | from out of | **<big>[[G1537\|εκ]]</big>** |
 | a thousand. | **<big>[[G5507\|χιλιών]]</big>** |
-[[Job.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.2|<< Job 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.4|Job 9:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.2|<< Job 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.4|Job 9:4 >>]]</td></tr></table>
 
 

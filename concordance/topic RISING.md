@@ -47,7 +47,7 @@
 
 → LATE
 
-- Consequences of [[Prov.6.9|Pr 6:9]]-[[Prov.6.11|11]]; [[Prov.24.33|24:33]],[[Prov.24.34|34]]
+- Consequences of [[Prov.6.9|Pr 6:9-11]]; [[Prov.24.33|24:33]],[[Prov.24.34|34]]
 
 - See [[topic IDLENESS|IDLENESS]]
 

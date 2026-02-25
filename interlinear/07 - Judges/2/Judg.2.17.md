@@ -1,8 +1,75 @@
+---
+title: Judges 2:17
+type: Verse
+kjv: "And yet they would not hearken unto their judges, but they went a whoring after other gods, and bowed themselves unto them: they turned quickly out of the way which their fathers walked in, obeying the commandments of the LORD; but they did not so."
+bsb: "Israel, however, did not listen to their judges. Instead, they prostituted themselves with other gods and bowed down to them. They quickly turned from the way of their fathers, who had walked in obedience to the LORD’s commandments; they did not do as their fathers had done."
+hebrew: "וְגַ֤ם אֶל־ שֹֽׁפְטֵיהֶם֙ לֹ֣א שָׁמֵ֔עוּ כִּ֣י זָנ֗וּ אַֽחֲרֵי֙ אֱלֹהִ֣ים אֲחֵרִ֔ים וַיִּֽשְׁתַּחֲו֖וּ לָהֶ֑ם סָ֣רוּ מַהֵ֗ר מִן־ הַדֶּ֜רֶךְ אֲשֶׁ֨ר הָלְכ֧וּ אֲבוֹתָ֛ם לִשְׁמֹ֥עַ מִצְוֹת־ יְהוָ֖ה לֹא־ עָ֥שׂוּ כֵֽן׃"
+pericope: "[[Judg.2.16 Judges Raised Up|Judges Raised Up]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 2
+book/chapter: "[[Judg.2|Judges 2]]"
+chronological_order: 256
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BAAL|BAAL]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic WHOREDOM|WHOREDOM]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8199]]"
+- "[[H9038]]"
+- "[[H3808]]"
+- "[[H8085H]]"
+- "[[H3588A]]"
+- "[[H2181]]"
+- "[[H0310A]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H9001]]"
+- "[[H7812]]"
+- "[[H9005]]"
+- "[[H5493I]]"
+- "[[H4118B]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H1870G]]"
+- "[[H0834A]]"
+- "[[H1980I]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H4687]]"
+- "[[H3068G]]"
+- "[[H6213A]]"
+- "[[H3651C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 2:17**<big><big>[[Judg.2.16 Judges Raised Up|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And yet they would not hearken unto their judges, but they went a whoring after other gods, and bowed themselves unto them: they turned quickly out of the way which their fathers walked in, obeying the commandments of the LORD; [but] they did not so.
 <small><sub>**BSB:**</sub></small>
 Israel, however, did not listen to their judges. Instead, they prostituted themselves with other gods and bowed down to them. They quickly turned from the way of their fathers, who had walked in obedience to the LORD’s commandments; they did not do as their fathers had done.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַ֤ם]] [[H0413\|אֶל]][[H9014\|־]] [[H8199\|שֹֽׁפְטֵי]][[H9038\|הֶם֙]] [[H3808\|לֹ֣א]] [[H8085H\|שָׁמֵ֔עוּ]] [[H3588A\|כִּ֣י]] [[H2181\|זָנ֗וּ]] [[H0310A\|אַֽחֲרֵי֙]] [[H0430\|אֱלֹהִ֣ים]] [[H0312\|אֲחֵרִ֔ים]] [[H9001\|וַ]][[H7812\|יִּֽשְׁתַּחֲו֖וּ]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H5493I\|סָ֣רוּ]] [[H4118B\|מַהֵ֗ר]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1870G\|דֶּ֜רֶךְ]] [[H0834A\|אֲשֶׁ֨ר]] [[H1980I\|הָלְכ֧וּ]] [[H0001G\|אֲבוֹתָ֛]][[H9028\|ם]] [[H9005\|לִ]][[H8085H\|שְׁמֹ֥עַ]] [[H4687\|מִצְוֹת]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H3808\|לֹא]][[H9014\|־]] [[H6213A\|עָ֥שׂוּ]] [[H3651C\|כֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL|BAAL]] • [[topic CHARACTER|CHARACTER]] • [[topic INSTABILITY|INSTABILITY]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGE|JUDGE]] • [[topic WHOREDOM|WHOREDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.2.16|<< Judges 2:16]]</td><td align="center" style="border:none;">[[Judg.2|Judges 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.2.18|Judges 2:18 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Jeremiah 46:22
+type: Verse
+kjv: "The voice thereof shall go like a serpent; for they shall march with an army, and come against her with axes, as hewers of wood."
+bsb: "Egypt will hiss like a fleeing serpent, for the enemy will advance in force; with axes they will come against her like woodsmen cutting down trees."
+hebrew: "קוֹלָ֖הּ כַּנָּחָ֣שׁ יֵלֵ֑ךְ כִּֽי־ בְחַ֣יִל יֵלֵ֔כוּ וּבְקַרְדֻּמּוֹת֙ בָּ֣אוּ לָ֔הּ כְּחֹטְבֵ֖י עֵצִֽים׃"
+pericope: "[[Jer.46.1 Judgment on Egypt|Judgment on Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 46
+book/chapter: "[[Jer.46|Jeremiah 46]]"
+chronological_order: 769
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AX|AX]]"
+- "[[topic BABYLON|BABYLON]]"
+strongs:
+- "[[H6963H]]"
+- "[[H9024]]"
+- "[[H9004]]"
+- "[[H5175]]"
+- "[[H1980I]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H2428A]]"
+- "[[H9002]]"
+- "[[H7134]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H2404]]"
+- "[[H6086H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 46:22**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The voice thereof shall go like a serpent; for they shall march with an army, and come against her with axes, as hewers of wood.
 <small><sub>**BSB:**</sub></small>
 Egypt will hiss like a fleeing serpent, for the enemy will advance in force; with axes they will come against her like woodsmen cutting down trees.
+<small><sub>**Hebrew:**</sub></small>
+[[H6963H\|קוֹלָ֖]][[H9024\|הּ]] [[H9004\|כַּ]][[H5175\|נָּחָ֣שׁ]] [[H1980I\|יֵלֵ֑ךְ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9003\|בְ]][[H2428A\|חַ֣יִל]] [[H1980I\|יֵלֵ֔כוּ]] [[H9002\|וּ]][[H9003\|בְ]][[H7134\|קַרְדֻּמּוֹת֙]] [[H0935G\|בָּ֣אוּ]] [[H9005\|לָ֔]][[H9034\|הּ]] [[H9004\|כְּ]][[H2404\|חֹטְבֵ֖י]] [[H6086H\|עֵצִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AX|AX]] • [[topic BABYLON|BABYLON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.21|<< Jeremiah 46:21]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.23|Jeremiah 46:23 >>]]</td></tr></table>
 

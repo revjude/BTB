@@ -1,10 +1,63 @@
+---
+title: Matthew 13:28
+type: Verse
+kjv: "He said unto them, An enemy hath done this. The servants said unto him, Wilt thou then that we go and gather them up?"
+bsb: "‘An enemy did this,’ he replied. So the servants asked him, ‘Do you want us to go and pull them up?’"
+jesus_said: "He said unto them, An enemy hath done this. The servants said unto him, Wilt thou then that we go and gather them up?"
+greek: "ὁ δὲ ἔφη αὐτοῖς· ἐχθρὸς ἄνθρωπος τοῦτο ἐποίησεν. οἱ δὲ δοῦλοι λέγουσιν αὐτῷ· θέλεις οὖν ἀπελθόντες συλλέξωμεν αὐτά;"
+pericope: "[[Matt.13.24 The Parable of the Weeds|The Parable of the Weeds]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 13
+book/chapter: "[[Matt.13|Matthew 13]]"
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic TARES|TARES]]"
+- "[[topic WEEDING|WEEDING]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G5346]]"
+- "[[G0846]]"
+- "[[G2190]]"
+- "[[G0444]]"
+- "[[G3778]]"
+- "[[G4160G]]"
+- "[[G1401]]"
+- "[[G3004G]]"
+- "[[G2309]]"
+- "[[G3767]]"
+- "[[G0565]]"
+- "[[G4816]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+---
+
 **Matthew 13:28**<big><big>[[Matt.13.24 The Parable of the Weeds|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He said unto them, An enemy hath done this. The servants said unto him, Wilt thou then that we go and gather them up?
 <small><sub>**BSB:**</sub></small>
 ‘An enemy did this,’ he replied. So the servants asked him, ‘Do you want us to go and pull them up?’
-<small><sub>**Literal:**</sub></small>
-He then was saying to them; An enemy a man this did. <the> And the servants they say to him: Do you desire then [that] having gone forth we shall gather them?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.27|<< Matthew 13:27]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.29|Matthew 13:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G5346\|ἔφη]]  [[G0846\|αὐτοῖς·]]  [[G2190\|ἐχθρὸς]]  [[G0444\|ἄνθρωπος]]  [[G3778\|τοῦτο]]  [[G4160G\|ἐποίησεν.]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G1401\|δοῦλοι]]  [[G3004G\|λέγουσιν]]  [[G0846\|αὐτῷ·]]  [[G2309\|θέλεις]]  [[G3767\|οὖν]]  [[G0565\|ἀπελθόντες]]  [[G4816\|συλλέξωμεν]]  [[G0846\|αὐτά;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic SERMON|SERMON]] • [[topic TARES|TARES]] • [[topic WEEDING|WEEDING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.27|<< Matthew 13:27]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.29|Matthew 13:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

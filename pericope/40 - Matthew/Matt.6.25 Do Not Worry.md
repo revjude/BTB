@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Do Not Worry
+type: Pericope
 pericope: "[[Matt.6.25 Do Not Worry|Do Not Worry]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 6
 book/chapter: "[[Matt.6|Matthew 6]]"
-genre:
+chronological_order: 944
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 10
 verses:
 - "[[Matt.6.25]]"
 - "[[Matt.6.26]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Matt.6.34]]"
 ---
 
-[[Matt.6|Matthew 6:25 - Matthew 6:34]]
+<small>[[Matt.6|Matthew 6:25-34]]</small>
 *Do Not Worry*
 
 [[Matt.6.25|25]] Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?

@@ -1,8 +1,62 @@
+---
+title: Ruth 2:4
+type: Verse
+kjv: "And, behold, Boaz came from Bethlehem, and said unto the reapers, The LORD be with you. And they answered him, The LORD bless thee."
+bsb: "Just then Boaz arrived from Bethlehem and said to the harvesters, “The LORD be with you.” “The LORD bless you,” they replied."
+hebrew: "וְהִנֵּה־ בֹ֗עַז בָּ֚א מִבֵּ֣ית לֶ֔חֶם וַיֹּ֥אמֶר לַקּוֹצְרִ֖ים יְהוָ֣ה עִמָּכֶ֑ם וַיֹּ֥אמְרוּ ל֖וֹ יְבָרֶכְךָ֥ יְהוָֽה׃"
+pericope: "[[Ruth.2.1 Boaz Meets Ruth|Boaz Meets Ruth]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 2
+book/chapter: "[[Ruth.2|Ruth 2]]"
+chronological_order: 277
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic BETHLEHEM|BETHLEHEM]]"
+- "[[topic EMPLOYEE|EMPLOYEE]]"
+- "[[topic RUTH|RUTH]]"
+- "[[topic SALUTATIONS|SALUTATIONS]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H1162G]]"
+- "[[H0935G]]"
+- "[[H9006]]"
+- "[[H1035G]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H7114B]]"
+- "[[H3068G]]"
+- "[[H5973A]]"
+- "[[H9036]]"
+- "[[H9033]]"
+- "[[H1288]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 2:4**<big><big>[[Ruth.2.1 Boaz Meets Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, Boaz came from Bethlehem, and said unto the reapers, The LORD [be] with you. And they answered him, The LORD bless thee.
 <small><sub>**BSB:**</sub></small>
 Just then Boaz arrived from Bethlehem and said to the harvesters, “The LORD be with you.” “The LORD bless you,” they replied.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּה]][[H9014\|־]] [[H1162G\|בֹ֗עַז]] [[H0935G\|בָּ֚א]] [[H9006\|מִ]][[H1035G\|בֵּ֣ית]] [[H1035G\|לֶ֔חֶם]] [[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H9005\|לַ]][[H7114B\|קּוֹצְרִ֖ים]] [[H3068G\|יְהוָ֣ה]] [[H5973A\|עִמָּ]][[H9036\|כֶ֑ם]] [[H9001\|וַ]][[H0559\|יֹּ֥אמְרוּ]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H1288\|יְבָרֶכְ]][[H9031\|ךָ֥]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHLEHEM|BETHLEHEM]] • [[topic EMPLOYEE|EMPLOYEE]] • [[topic RUTH|RUTH]] • [[topic SALUTATIONS|SALUTATIONS]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.2.3|<< Ruth 2:3]]</td><td align="center" style="border:none;">[[Ruth.2|Ruth 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.2.5|Ruth 2:5 >>]]</td></tr></table>
 

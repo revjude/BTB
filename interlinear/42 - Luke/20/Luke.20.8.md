@@ -1,10 +1,56 @@
+---
+title: Luke 20:8
+type: Verse
+kjv: "And Jesus said unto them, Neither tell I you by what authority I do these things."
+bsb: "And Jesus replied, “Neither will I tell you by what authority I am doing these things.”"
+jesus_said: "Neither tell I you by what authority I do these things."
+greek: "καὶ ὁ Ἰησοῦς εἶπεν αὐτοῖς· οὐδὲ ἐγὼ λέγω ὑμῖν ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιῶ.¶"
+pericope: "[[Luke.20.1 Jesus’ Authority Challenged|Jesus’ Authority Challenged]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 20
+book/chapter: "[[Luke.20|Luke 20]]"
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3761]]"
+- "[[G1473]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G4169]]"
+- "[[G1849]]"
+- "[[G3778]]"
+- "[[G4160G]]"
+texts:
+- NKO
+---
+
 **Luke 20:8**<big><big>[[Luke.20.1 Jesus’ Authority Challenged|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus said unto them, Neither tell I you by what authority I do these things.
 <small><sub>**BSB:**</sub></small>
 And Jesus replied, “Neither will I tell you by what authority I am doing these things.”
-<small><sub>**Literal:**</sub></small>
-And <the> Jesus said to them; Neither I myself tell you by what authority these things I am doing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.7|<< Luke 20:7]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.9|Luke 20:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G3761\|οὐδὲ]]  [[G1473\|ἐγὼ]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G1722\|ἐν]]  [[G4169\|ποίᾳ]]  [[G1849\|ἐξουσίᾳ]]  [[G3778\|ταῦτα]]  [[G4160G\|ποιῶ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.7|<< Luke 20:7]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.9|Luke 20:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

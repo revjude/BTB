@@ -1,10 +1,66 @@
+---
+title: Revelation 7:11
+type: Verse
+kjv: "And all the angels stood round about the throne, and about the elders and the four beasts, and fell before the throne on their faces, and worshipped God,"
+bsb: "And all the angels stood around the throne and around the elders and the four living creatures. And they fell facedown before the throne and worshiped God,"
+greek: "καὶ πάντες οἱ ἄγγελοι εἱστήκεισαν κύκλῳ τοῦ θρόνου καὶ τῶν πρεσβυτέρων καὶ τῶν τεσσάρων ζῴων καὶ ἔπεσαν ἐνώπιον τοῦ θρόνου ἐπὶ τὰ πρόσωπα αὐτῶν καὶ προσεκύνησαν τῷ θεῷ"
+pericope: "[[Rev.7.9 Praise from the Great Multitude|Praise from the Great Multitude]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 7
+book/chapter: "[[Rev.7|Revelation 7]]"
+chronological_order: 1174
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic THRONE|THRONE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0032G]]"
+- "[[G2476]]"
+- "[[G2945]]"
+- "[[G2362]]"
+- "[[G4245G]]"
+- "[[G5064]]"
+- "[[G2226]]"
+- "[[G4098]]"
+- "[[G1799]]"
+- "[[G1909]]"
+- "[[G4383]]"
+- "[[G0846]]"
+- "[[G4352]]"
+- "[[G2316]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Revelation 7:11**<big><big>[[Rev.7.9 Praise from the Great Multitude|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And all the angels stood round about the throne, and [about] the elders and the four beasts, and fell before the throne on their faces, and worshipped God,
 <small><sub>**BSB:**</sub></small>
 And all the angels stood around the throne and around the elders and the four living creatures. And they fell facedown before the throne and worshiped God,
-<small><sub>**Literal:**</sub></small>
-And all the angels had stood around the throne and the elders and the four living creatures and they fell before the throne upon the faces of them and worshiped <the> God<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.10|<< Revelation 7:10]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.12|Revelation 7:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3956\|πάντες]]  [[G3588\|οἱ]]  [[G0032G\|ἄγγελοι]]  [[G2476\|εἱστήκεισαν]]  [[G2945\|κύκλῳ]]  [[G3588\|τοῦ]]  [[G2362\|θρόνου]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G4245G\|πρεσβυτέρων]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G5064\|τεσσάρων]]  [[G2226\|ζῴων]]  [[G2532\|καὶ]]  [[G4098\|ἔπεσαν]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2362\|θρόνου]]  [[G1909\|ἐπὶ]]  [[G3588\|τὰ]]  [[G4383\|πρόσωπα]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G4352\|προσεκύνησαν]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ANIMALS|ANIMALS]] • [[topic ELDER|ELDER]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAISE|PRAISE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic THRONE|THRONE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.10|<< Revelation 7:10]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.12|Revelation 7:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

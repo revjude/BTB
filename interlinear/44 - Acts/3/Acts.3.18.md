@@ -1,10 +1,60 @@
+---
+title: Acts 3:18
+type: Verse
+kjv: "But those things, which God before had shewed by the mouth of all his prophets, that Christ should suffer, he hath so fulfilled."
+bsb: "But in this way God has fulfilled what He foretold through all the prophets, saying that His Christ would suffer."
+greek: "ὁ δὲ θεὸς ἃ προκατήγγειλεν διὰ στόματος πάντων τῶν προφητῶν παθεῖν τὸν χριστὸν αὐτοῦ ἐπλήρωσεν οὕτως."
+pericope: "[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|Peter Speaks in Solomon’s Colonnade]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 3
+book/chapter: "[[Acts.3|Acts 3]]"
+chronological_order: 1021
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2316]]"
+- "[[G3739]]"
+- "[[G4293]]"
+- "[[G1223]]"
+- "[[G4750]]"
+- "[[G3956]]"
+- "[[G4396]]"
+- "[[G3958]]"
+- "[[G5547]]"
+- "[[G0846]]"
+- "[[G4137]]"
+- "[[G3779]]"
+texts:
+- NKO
+---
+
 **Acts 3:18**<big><big>[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But those things, which God before had shewed by the mouth of all his prophets, that Christ should suffer, he hath so fulfilled.
 <small><sub>**BSB:**</sub></small>
 But in this way God has fulfilled what He foretold through all the prophets, saying that His Christ would suffer.
-<small><sub>**Literal:**</sub></small>
-<the> But God who foretold through [the] mouth of all the prophets [the] suffering [of] the Christ of Him He has fulfilled thus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.17|<< Acts 3:17]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.19|Acts 3:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2316\|θεὸς]]  [[G3739\|ἃ]]  [[G4293\|προκατήγγειλεν]]  [[G1223\|διὰ]]  [[G4750\|στόματος]]  [[G3956\|πάντων]]  [[G3588\|τῶν]]  [[G4396\|προφητῶν]]  [[G3958\|παθεῖν]]  [[G3588\|τὸν]]  [[G5547\|χριστὸν]]  [[G0846\|αὐτοῦ]]  [[G4137\|ἐπλήρωσεν]]  [[G3779\|οὕτως.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURAGE|COURAGE]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic PROPHETS|PROPHETS]] • [[topic SALVATION|SALVATION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.17|<< Acts 3:17]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.19|Acts 3:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

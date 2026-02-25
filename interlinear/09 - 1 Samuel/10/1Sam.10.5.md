@@ -1,8 +1,76 @@
+---
+title: 1 Samuel 10:5
+type: Verse
+kjv: "After that thou shalt come to the hill of God, where is the garrison of the Philistines: and it shall come to pass, when thou art come thither to the city, that thou shalt meet a company of prophets coming down from the high place with a psaltery, and a tabret, and a pipe, and a harp, before them; and they shall prophesy:"
+bsb: "After that you will come to Gibeah of God, where the Philistines have an outpost. As you approach the city, you will meet a group of prophets coming down from the high place, preceded by harps, tambourines, flutes, and lyres, and they will be prophesying."
+hebrew: "אַ֣חַר כֵּ֗ן תָּבוֹא֙ גִּבְעַ֣ת הָאֱלֹהִ֔ים אֲשֶׁר־ שָׁ֖ם נְצִבֵ֣י פְלִשְׁתִּ֑ים וִיהִי֩ כְבֹאֲךָ֨ שָׁ֜ם הָעִ֗יר וּפָגַעְתָּ֞ חֶ֤בֶל נְבִיאִים֙ יֹרְדִ֣ים מֵֽהַבָּמָ֔ה וְלִפְנֵיהֶ֞ם נֵ֤בֶל וְתֹף֙ וְחָלִ֣יל וְכִנּ֔וֹר וְהֵ֖מָּה מִֽתְנַבְּאִֽים׃"
+pericope: "[[1Sam.10.1 Samuel Anoints Saul|Samuel Anoints Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 10
+book/chapter: "[[1Sam.10|1 Samuel 10]]"
+chronological_order: 289
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HARP|HARP]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic PIPE|PIPE]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H0310A]]"
+- "[[H3651C]]"
+- "[[H0935G]]"
+- "[[H1390H]]"
+- "[[H9009]]"
+- "[[H0430I]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H5333]]"
+- "[[H6430G]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H9041]]"
+- "[[H5892B]]"
+- "[[H9001]]"
+- "[[H6293]]"
+- "[[H2256M]]"
+- "[[H5030]]"
+- "[[H3381]]"
+- "[[H9006]]"
+- "[[H1116]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H5035B]]"
+- "[[H8596]]"
+- "[[H2485]]"
+- "[[H3658]]"
+- "[[H1992]]"
+- "[[H5012]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 10:5**<big><big>[[1Sam.10.1 Samuel Anoints Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After that thou shalt come to the hill of God, where [is] the garrison of the Philistines: and it shall come to pass, when thou art come thither to the city, that thou shalt meet a company of prophets coming down from the high place with a psaltery, and a tabret, and a pipe, and a harp, before them; and they shall prophesy:
 <small><sub>**BSB:**</sub></small>
 After that you will come to Gibeah of God, where the Philistines have an outpost. As you approach the city, you will meet a group of prophets coming down from the high place, preceded by harps, tambourines, flutes, and lyres, and they will be prophesying.
+<small><sub>**Hebrew:**</sub></small>
+[[H0310A\|אַ֣חַר]] [[H3651C\|כֵּ֗ן]] [[H0935G\|תָּבוֹא֙]] [[H1390H\|גִּבְעַ֣ת]] [[H9009\|הָ]][[H0430I\|אֱלֹהִ֔ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H8033G\|שָׁ֖ם]] [[H5333\|נְצִבֵ֣י]] [[H6430G\|פְלִשְׁתִּ֑ים]] [[H9002\|וִ]][[H1961\|יהִי֩]] [[H9004\|כְ]][[H0935G\|בֹאֲ]][[H9041\|ךָ֨]] [[H8033G\|שָׁ֜ם]] [[H9009\|הָ]][[H5892B\|עִ֗יר]] [[H9001\|וּ]][[H6293\|פָגַעְתָּ֞]] [[H2256M\|חֶ֤בֶל]] [[H5030\|נְבִיאִים֙]] [[H3381\|יֹרְדִ֣ים]] [[H9006\|מֵֽ]][[H9009\|הַ]][[H1116\|בָּמָ֔ה]] [[H9002\|וְ]][[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶ֞ם]] [[H5035B\|נֵ֤בֶל]] [[H9002\|וְ]][[H8596\|תֹף֙]] [[H9002\|וְ]][[H2485\|חָלִ֣יל]] [[H9002\|וְ]][[H3658\|כִנּ֔וֹר]] [[H9002\|וְ]][[H1992\|הֵ֖מָּה]] [[H5012\|מִֽתְנַבְּאִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HARP|HARP]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic PIPE|PIPE]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.10.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.10.4|<< 1 Samuel 10:4]]</td><td align="center" style="border:none;">[[1Sam.10|1 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.10.6|1 Samuel 10:6 >>]]</td></tr></table>
 

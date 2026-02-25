@@ -1,8 +1,82 @@
+---
+title: 1 Kings 14:15
+type: Verse
+kjv: "For the LORD shall smite Israel, as a reed is shaken in the water, and he shall root up Israel out of this good land, which he gave to their fathers, and shall scatter them beyond the river, because they have made their groves, provoking the LORD to anger."
+bsb: "For the LORD will strike Israel as a reed is shaken in the water. He will uproot Israel from this good land that He gave their fathers, and He will scatter them beyond the Euphrates, because they have made their Asherah poles, provoking the LORD to anger."
+hebrew: "וְהִכָּ֨ה יְהוָ֜ה אֶת־ יִשְׂרָאֵ֗ל כַּאֲשֶׁ֨ר יָנ֣וּד הַקָּנֶה֮ בַּמַּיִם֒ וְנָתַ֣שׁ אֶת־ יִשְׂרָאֵ֗ל מֵ֠עַל הָאֲדָמָ֨ה הַטּוֹבָ֤ה הַזֹּאת֙ אֲשֶׁ֤ר נָתַן֙ לַאֲב֣וֹתֵיהֶ֔ם וְזֵרָ֖ם מֵעֵ֣בֶר לַנָּהָ֑ר יַ֗עַן אֲשֶׁ֤ר עָשׂוּ֙ אֶת־ אֲשֵׁ֣רֵיהֶ֔ם מַכְעִיסִ֖ים אֶת־ יְהוָֽה׃"
+pericope: "[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|Ahijah’s Prophecy against Jeroboam]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 14
+book/chapter: "[[1Kgs.14|1 Kings 14]]"
+chronological_order: 553
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ABIJAH|ABIJAH]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic GROVES|GROVES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic REED|REED]]"
+strongs:
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H5110]]"
+- "[[H9009]]"
+- "[[H7070H]]"
+- "[[H9003]]"
+- "[[H4325G]]"
+- "[[H5428]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H0127G]]"
+- "[[H2896A]]"
+- "[[H2063]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H2219]]"
+- "[[H9038]]"
+- "[[H5676H]]"
+- "[[H5104G]]"
+- "[[H3282]]"
+- "[[H6213H]]"
+- "[[H0842]]"
+- "[[H3707]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 14:15**<big><big>[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD shall smite Israel, as a reed is shaken in the water, and he shall root up Israel out of this good land, which he gave to their fathers, and shall scatter them beyond the river, because they have made their groves, provoking the LORD to anger.
 <small><sub>**BSB:**</sub></small>
 For the LORD will strike Israel as a reed is shaken in the water. He will uproot Israel from this good land that He gave their fathers, and He will scatter them beyond the Euphrates, because they have made their Asherah poles, provoking the LORD to anger.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5221\|הִכָּ֨ה]] [[H3068G\|יְהוָ֜ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H5110\|יָנ֣וּד]] [[H9009\|הַ]][[H7070H\|קָּנֶה֮]] [[H9003\|בַּ]][[H4325G\|מַּיִם֒]] [[H9001\|וְ]][[H5428\|נָתַ֣שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9006\|מֵ֠]][[H5921A\|עַל]] [[H9009\|הָ]][[H0127G\|אֲדָמָ֨ה]] [[H9009\|הַ]][[H2896A\|טּוֹבָ֤ה]] [[H9009\|הַ]][[H2063\|זֹּאת֙]] [[H0834A\|אֲשֶׁ֤ר]] [[H5414G\|נָתַן֙]] [[H9005\|לַ]][[H0001G\|אֲב֣וֹתֵי]][[H9028\|הֶ֔ם]] [[H9001\|וְ]][[H2219\|זֵרָ֖]][[H9038\|ם]] [[H9006\|מֵ]][[H5676H\|עֵ֣בֶר]] [[H9005\|לַ]][[H5104G\|נָּהָ֑ר]] [[H3282\|יַ֗עַן]] [[H0834A\|אֲשֶׁ֤ר]] [[H6213H\|עָשׂוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0842\|אֲשֵׁ֣רֵי]][[H9028\|הֶ֔ם]] [[H3707\|מַכְעִיסִ֖ים]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIJAH|ABIJAH]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic GROVES|GROVES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEROBOAM|JEROBOAM]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PROPHECY|PROPHECY]] • [[topic REED|REED]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.14|<< 1 Kings 14:14]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.16|1 Kings 14:16 >>]]</td></tr></table>
 

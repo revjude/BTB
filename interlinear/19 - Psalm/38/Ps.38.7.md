@@ -1,8 +1,58 @@
+---
+title: Psalm 38:7
+type: Verse
+kjv: "For my loins are filled with a loathsome disease: and there is no soundness in my flesh."
+bsb: "For my loins are full of burning pain, and no soundness remains in my body."
+hebrew: "כִּֽי־ כְ֭סָלַי מָלְא֣וּ נִקְלֶ֑ה וְאֵ֥ין מְ֝תֹ֗ם בִּבְשָׂרִֽי׃"
+pericope: "[[Ps.38.1 Do Not Rebuke Me in Your Anger|Do Not Rebuke Me in Your Anger]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 38
+book/chapter: "[[Ps.38|Psalm 38]]"
+chronological_order: 424
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3689]]"
+- "[[H9020]]"
+- "[[H4390]]"
+- "[[H7033]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H4974]]"
+- "[[H9003]]"
+- "[[H1320]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 38:7**<big><big>[[Ps.38.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For my loins are filled with a loathsome [disease]: and [there is] no soundness in my flesh.
 <small><sub>**BSB:**</sub></small>
 For my loins are full of burning pain, and no soundness remains in my body.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3689\|כְ֭סָלַ]][[H9020\|י]] [[H4390\|מָלְא֣וּ]] [[H7033\|נִקְלֶ֑ה]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H4974\|מְ֝תֹ֗ם]] [[H9003\|בִּ]][[H1320\|בְשָׂרִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CONVICTION|CONVICTION]] • [[topic DISEASE|DISEASE]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.38.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.38.6|<< Psalms 38:6]]</td><td align="center" style="border:none;">[[Ps.38|Psalms 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.38.8|Psalms 38:8 >>]]</td></tr></table>
 

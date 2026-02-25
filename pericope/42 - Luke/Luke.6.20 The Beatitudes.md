@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Beatitudes
+type: Pericope
 pericope: "[[Luke.6.20 The Beatitudes|The Beatitudes]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Luke
 chapter: 6
 book/chapter: "[[Luke.6|Luke 6]]"
-genre:
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 4
 verses:
 - "[[Luke.6.20]]"
 - "[[Luke.6.21]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Luke.6.23]]"
 ---
 
-[[Luke.6|Luke 6:20 - Luke 6:23]]
+<small>[[Luke.6|Luke 6:20-23]]</small>
 *The Beatitudes*
 
 [[Luke.6.20|20]] And he lifted up his eyes on his disciples, and said, Blessed \[be ye\] poor: for yours is the kingdom of God.

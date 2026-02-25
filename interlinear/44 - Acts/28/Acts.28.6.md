@@ -1,10 +1,67 @@
+---
+title: Acts 28:6
+type: Verse
+kjv: "Howbeit they looked when he should have swollen, or fallen down dead suddenly: but after they had looked a great while, and saw no harm come to him, they changed their minds, and said that he was a god."
+bsb: "The islanders were expecting him to swell up or suddenly drop dead. But after waiting a long time and seeing nothing unusual happen to him, they changed their minds and said he was a god."
+greek: "οἱ δὲ προσεδόκων αὐτὸν μέλλειν πίμπρασθαι ἢ καταπίπτειν ἄφνω νεκρόν· ἐπὶ πολὺ δὲ αὐτῶν προσδοκώντων καὶ θεωρούντων μηδὲν ἄτοπον εἰς αὐτὸν γινόμενον μεταβαλόμενοι ἔλεγον αὐτὸν εἶναι θεόν.¶"
+pericope: "[[Acts.28.1 Ashore on Malta|Ashore on Malta]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 28
+book/chapter: "[[Acts.28|Acts 28]]"
+chronological_order: 1110
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MELITA (MALTA)|MELITA (MALTA)]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SERPENT|SERPENT]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4328]]"
+- "[[G0846]]"
+- "[[G3195]]"
+- "[[G4092]]"
+- "[[G2228]]"
+- "[[G2667]]"
+- "[[G0869]]"
+- "[[G3498]]"
+- "[[G1909]]"
+- "[[G4183]]"
+- "[[G2532]]"
+- "[[G2334]]"
+- "[[G3367]]"
+- "[[G0824]]"
+- "[[G1519]]"
+- "[[G1096]]"
+- "[[G3328]]"
+- "[[G3004G]]"
+- "[[G1511]]"
+- "[[G2316]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 28:6**<big><big>[[Acts.28.1 Ashore on Malta|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Howbeit they looked when he should have swollen, or fallen down dead suddenly: but after they had looked a great while, and saw no harm come to him, they changed their minds, and said that he was a god.
 <small><sub>**BSB:**</sub></small>
 The islanders were expecting him to swell up or suddenly drop dead. But after waiting a long time and seeing nothing unusual happen to him, they changed their minds and said he was a god.
-<small><sub>**Literal:**</sub></small>
-<the> But they were expecting him to be about to become inflamed or to fall down suddenly dead; A while great however when they are waiting and seeing nothing amiss to him happening having changed their opinion they were declaringing him to be a god.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.5|<< Acts 28:5]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.7|Acts 28:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G4328\|προσεδόκων]]  [[G0846\|αὐτὸν]]  [[G3195\|μέλλειν]]  [[G4092\|πίμπρασθαι]]  [[G2228\|ἢ]]  [[G2667\|καταπίπτειν]]  [[G0869\|ἄφνω]]  [[G3498\|νεκρόν·]]  [[G1909\|ἐπὶ]]  [[G4183\|πολὺ]]  [[G1161\|δὲ]]  [[G0846\|αὐτῶν]]  [[G4328\|προσδοκώντων]]  [[G2532\|καὶ]]  [[G2334\|θεωρούντων]]  [[G3367\|μηδὲν]]  [[G0824\|ἄτοπον]]  [[G1519\|εἰς]]  [[G0846\|αὐτὸν]]  [[G1096\|γινόμενον]]  [[G3328\|μεταβαλόμενοι]]  [[G3004G\|ἔλεγον]]  [[G0846\|αὐτὸν]]  [[G1511\|εἶναι]]  [[G2316\|θεόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MELITA (MALTA)|MELITA (MALTA)]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic SERPENT|SERPENT]] • [[topic SUPERSTITION|SUPERSTITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.5|<< Acts 28:5]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.7|Acts 28:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

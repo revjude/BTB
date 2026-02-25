@@ -1,8 +1,73 @@
+---
+title: 1 Kings 19:20
+type: Verse
+kjv: "And he left the oxen, and ran after Elijah, and said, Let me, I pray thee, kiss my father and my mother, and then I will follow thee. And he said unto him, Go back again: for what have I done to thee?"
+bsb: "So Elisha left the oxen, ran after Elijah, and said, “Please let me kiss my father and mother goodbye, and then I will follow you.” “Go on back,” Elijah replied, “for what have I done to you?”"
+hebrew: "וַיַּעֲזֹ֣ב אֶת־ הַבָּקָ֗ר וַיָּ֙רָץ֙ אַחֲרֵ֣י אֵֽלִיָּ֔הוּ וַיֹּ֗אמֶר אֶשְּׁקָה־ נָּא֙ לְאָבִ֣י וּלְאִמִּ֔י וְאֵלְכָ֖ה אַחֲרֶ֑יךָ וַיֹּ֤אמֶר לוֹ֙ לֵ֣ךְ שׁ֔וּב כִּ֥י מֶה־ עָשִׂ֖יתִי לָֽךְ׃"
+pericope: "[[1Kgs.19.19 The Call of Elisha|The Call of Elisha]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 19
+book/chapter: "[[1Kgs.19|1 Kings 19]]"
+chronological_order: 565
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic EXCUSES|EXCUSES]]"
+- "[[topic MOTHER|MOTHER]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H5800A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1241]]"
+- "[[H7323G]]"
+- "[[H0310A]]"
+- "[[H0452G]]"
+- "[[H0559]]"
+- "[[H5401A]]"
+- "[[H4994]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H0517]]"
+- "[[H1980N]]"
+- "[[H9031]]"
+- "[[H9033]]"
+- "[[H1980G]]"
+- "[[H7725J]]"
+- "[[H3588A]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 19:20**<big><big>[[1Kgs.19.19 The Call of Elisha|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he left the oxen, and ran after Elijah, and said, Let me, I pray thee, kiss my father and my mother, and [then] I will follow thee. And he said unto him, Go back again: for what have I done to thee?
 <small><sub>**BSB:**</sub></small>
 So Elisha left the oxen, ran after Elijah, and said, “Please let me kiss my father and mother goodbye, and then I will follow you.” “Go on back,” Elijah replied, “for what have I done to you?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5800A\|יַּעֲזֹ֣ב]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1241\|בָּקָ֗ר]] [[H9001\|וַ]][[H7323G\|יָּ֙רָץ֙]] [[H0310A\|אַחֲרֵ֣י]] [[H0452G\|אֵֽלִיָּ֔הוּ]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H5401A\|אֶשְּׁקָה]][[H9014\|־]] [[H4994\|נָּא֙]] [[H9005\|לְ]][[H0001G\|אָבִ֣]][[H9020\|י]] [[H9002\|וּ]][[H9005\|לְ]][[H0517\|אִמִּ֔]][[H9020\|י]] [[H9002\|וְ]][[H1980N\|אֵלְכָ֖ה]] [[H0310A\|אַחֲרֶ֑י]][[H9031\|ךָ]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H1980G\|לֵ֣ךְ]] [[H7725J\|שׁ֔וּב]] [[H3588A\|כִּ֥י]] [[H4100\|מֶה]][[H9014\|־]] [[H6213A\|עָשִׂ֖יתִי]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIJAH|ELIJAH]] • [[topic EXCUSES|EXCUSES]] • [[topic MOTHER|MOTHER]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PROCRASTINATION|PROCRASTINATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.19.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19.19|<< 1 Kings 19:19]]</td><td align="center" style="border:none;">[[1Kgs.19|1 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.19.21|1 Kings 19:21 >>]]</td></tr></table>
 

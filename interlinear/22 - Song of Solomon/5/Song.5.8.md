@@ -1,8 +1,54 @@
+---
+title: Song of Solomon 5:8
+type: Verse
+kjv: "I charge you, O daughters of Jerusalem, if ye find my beloved, that ye tell him, that I am sick of love."
+bsb: "O daughters of Jerusalem, I adjure you, if you find my beloved, tell him I am sick with love."
+hebrew: "הִשְׁבַּ֥עְתִּי אֶתְכֶ֖ם בְּנ֣וֹת יְרוּשָׁלִָ֑ם אִֽם־ תִּמְצְאוּ֙ אֶת־ דּוֹדִ֔י מַה־ תַּגִּ֣ידוּ ל֔וֹ שֶׁחוֹלַ֥ת אַהֲבָ֖ה אָֽנִי׃"
+pericope: "[[Song.5.2 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 5
+book/chapter: "[[Song.5|Song of Solomon 5]]"
+chronological_order: 452
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+strongs:
+- "[[H7650]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H1323G]]"
+- "[[H3389]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H4672]]"
+- "[[H1730G]]"
+- "[[H9020]]"
+- "[[H4100]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9007]]"
+- "[[H2470H]]"
+- "[[H0160]]"
+- "[[H0589]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 5:8**<big><big>[[Song.5.2 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I charge you, O daughters of Jerusalem, if ye find my beloved, that ye tell him, that I [am] sick of love.
 <small><sub>**BSB:**</sub></small>
 O daughters of Jerusalem, I adjure you, if you find my beloved, tell him I am sick with love.
+<small><sub>**Hebrew:**</sub></small>
+[[H7650\|הִשְׁבַּ֥עְתִּי]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H1323G\|בְּנ֣וֹת]] [[H3389\|יְרוּשָׁלִָ֑ם]] [[H0518A\|אִֽם]][[H9014\|־]] [[H4672\|תִּמְצְאוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1730G\|דּוֹדִ֔]][[H9020\|י]] [[H4100\|מַה]][[H9014\|־]] [[H5046\|תַּגִּ֣ידוּ]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9007\|שֶׁ]][[H2470H\|חוֹלַ֥ת]] [[H0160\|אַהֲבָ֖ה]] [[H0589\|אָֽנִי]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.7|<< Song of Solomon 5:7]]</td><td align="center" style="border:none;">[[Song.5|Song of Solomon 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.9|Song of Solomon 5:9 >>]]</td></tr></table>
 

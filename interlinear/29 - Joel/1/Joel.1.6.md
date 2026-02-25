@@ -1,8 +1,62 @@
+---
+title: Joel 1:6
+type: Verse
+kjv: "For a nation is come up upon my land, strong, and without number, whose teeth are the teeth of a lion, and he hath the cheek teeth of a great lion."
+bsb: "For a nation has invaded My land, powerful and without number; its teeth are the teeth of a lion, and its fangs are the fangs of a lioness."
+hebrew: "כִּֽי־ גוֹי֙ עָלָ֣ה עַל־ אַרְצִ֔י עָצ֖וּם וְאֵ֣ין מִסְפָּ֑ר שִׁנָּיו֙ שִׁנֵּ֣י אַרְיֵ֔ה וּֽמְתַלְּע֥וֹת לָבִ֖יא לֽוֹ׃"
+pericope: "[[Joel.1.1 The Invasion of Locusts|The Invasion of Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 1
+book/chapter: "[[Joel.1|Joel 1]]"
+chronological_order: 840
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic LION|LION]]"
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1471A]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H0776G]]"
+- "[[H9020]]"
+- "[[H6099]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H4557]]"
+- "[[H8127G]]"
+- "[[H9023]]"
+- "[[H0738B]]"
+- "[[H4973]]"
+- "[[H3833C]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 1:6**<big><big>[[Joel.1.1 The Invasion of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For a nation is come up upon my land, strong, and without number, whose teeth [are] the teeth of a lion, and he hath the cheek teeth of a great lion.
 <small><sub>**BSB:**</sub></small>
 For a nation has invaded My land, powerful and without number; its teeth are the teeth of a lion, and its fangs are the fangs of a lioness.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H1471A\|גוֹי֙]] [[H5927G\|עָלָ֣ה]] [[H5921A\|עַל]][[H9014\|־]] [[H0776G\|אַרְצִ֔]][[H9020\|י]] [[H6099\|עָצ֖וּם]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H4557\|מִסְפָּ֑ר]] [[H8127G\|שִׁנָּי]][[H9023\|ו֙]] [[H8127G\|שִׁנֵּ֣י]] [[H0738B\|אַרְיֵ֔ה]] [[H9002\|וּֽ]][[H4973\|מְתַלְּע֥וֹת]] [[H3833C\|לָבִ֖יא]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LION|LION]] • [[topic LOCUST|LOCUST]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.5|<< Joel 1:5]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.7|Joel 1:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

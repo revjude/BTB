@@ -1,8 +1,64 @@
+---
+title: Isaiah 41:14
+type: Verse
+kjv: "Fear not, thou worm Jacob, and ye men of Israel; I will help thee, saith the LORD, and thy redeemer, the Holy One of Israel."
+bsb: "Do not fear, O Jacob, you worm, O few men of Israel. I will help you,” declares the LORD. “Your Redeemer is the Holy One of Israel."
+hebrew: "אַל־ תִּֽירְאִי֙ תּוֹלַ֣עַת יַֽעֲקֹ֔ב מְתֵ֖י יִשְׂרָאֵ֑ל אֲנִ֤י עֲזַרְתִּיךְ֙ נְאֻם־ יְהוָ֔ה וְגֹאֲלֵ֖ךְ קְד֥וֹשׁ יִשְׂרָאֵֽל׃"
+pericope: "[[Isa.41.1 God’s Help to Israel|God’s Help to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 41
+book/chapter: "[[Isa.41|Isaiah 41]]"
+chronological_order: 680
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WORM|WORM]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H8438B]]"
+- "[[H3290]]"
+- "[[H4962]]"
+- "[[H3478]]"
+- "[[H0589]]"
+- "[[H5826]]"
+- "[[H9032]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H1350A]]"
+- "[[H9022]]"
+- "[[H6918G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 41:14**<big><big>[[Isa.41.1 God’s Help to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fear not, thou worm Jacob, [and] ye men of Israel; I will help thee, saith the LORD, and thy redeemer, the Holy One of Israel.
 <small><sub>**BSB:**</sub></small>
 Do not fear, O Jacob, you worm, O few men of Israel. I will help you,” declares the LORD. “Your Redeemer is the Holy One of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּֽירְאִי֙]] [[H8438B\|תּוֹלַ֣עַת]] [[H3290\|יַֽעֲקֹ֔ב]] [[H4962\|מְתֵ֖י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H0589\|אֲנִ֤י]] [[H5826\|עֲזַרְתִּי]][[H9032\|ךְ֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H1350A\|גֹאֲלֵ֖]][[H9022\|ךְ]] [[H6918G\|קְד֥וֹשׁ]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLESSING|BLESSING]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WAR|WAR]] • [[topic WORM|WORM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.13|<< Isaiah 41:13]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.15|Isaiah 41:15 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Judges 10:3
+type: Verse
+kjv: "And after him arose Jair, a Gileadite, and judged Israel twenty and two years."
+bsb: "Tola was followed by Jair the Gileadite, who judged Israel twenty-two years."
+hebrew: "וַיָּ֣קָם אַחֲרָ֔יו יָאִ֖יר הַגִּלְעָדִ֑י וַיִּשְׁפֹּט֙ אֶת־ יִשְׂרָאֵ֔ל עֶשְׂרִ֥ים וּשְׁתַּ֖יִם שָׁנָֽה׃"
+pericope: "[[Judg.10.3 Jair|Jair]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 10
+book/chapter: "[[Judg.10|Judges 10]]"
+chronological_order: 264
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JAIR|JAIR]]"
+- "[[topic JUDGE|JUDGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H2971I]]"
+- "[[H9009]]"
+- "[[H1569]]"
+- "[[H8199]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 10:3**<big><big>[[Judg.10.3 Jair|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after him arose Jair, a Gileadite, and judged Israel twenty and two years.
 <small><sub>**BSB:**</sub></small>
 Tola was followed by Jair the Gileadite, who judged Israel twenty-two years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּ֣קָם]] [[H0310A\|אַחֲרָ֔י]][[H9033\|ו]] [[H2971I\|יָאִ֖יר]] [[H9009\|הַ]][[H1569\|גִּלְעָדִ֑י]] [[H9001\|וַ]][[H8199\|יִּשְׁפֹּט֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H6242\|עֶשְׂרִ֥ים]] [[H9002\|וּ]][[H8147\|שְׁתַּ֖יִם]] [[H8141\|שָׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic JAIR|JAIR]] • [[topic JUDGE|JUDGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.10.2|<< Judges 10:2]]</td><td align="center" style="border:none;">[[Judg.10|Judges 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.10.4|Judges 10:4 >>]]</td></tr></table>
 

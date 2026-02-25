@@ -1,10 +1,76 @@
+---
+title: Acts 21:24
+type: Verse
+kjv: "Them take, and purify thyself with them, and be at charges with them, that they may shave their heads: and all may know that those things, whereof they were informed concerning thee, are nothing; but that thou thyself also walkest orderly, and keepest the law."
+bsb: "Take these men, purify yourself along with them, and pay their expenses so they can have their heads shaved. Then everyone will know that there is no truth to these rumors about you, but that you also live in obedience to the law."
+greek: "τούτους παραλαβὼν ἁγνίσθητι σὺν αὐτοῖς καὶ δαπάνησον ἐπ᾽ αὐτοῖς ἵνα ξυρήσονται τὴν κεφαλήν, καὶ γνώσονται πάντες ὅτι ὧν κατήχηνται περὶ σοῦ οὐδέν ἐστιν, ἀλλὰ στοιχεῖς καὶ αὐτὸς φυλάσσων τὸν νόμον."
+pericope: "[[Acts.21.17 Paul’s Arrival at Jerusalem|Paul’s Arrival at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 21
+book/chapter: "[[Acts.21|Acts 21]]"
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic HEAD|HEAD]]"
+- "[[topic JUDAISM|JUDAISM]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[G3778]]"
+- "[[G3880]]"
+- "[[G0048]]"
+- "[[G4862]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G1159]]"
+- "[[G1909]]"
+- "[[G2443]]"
+- "[[G3587]]"
+- "[[G3588]]"
+- "[[G2776]]"
+- "[[G1097]]"
+- "[[G3956]]"
+- "[[G3754G]]"
+- "[[G3739]]"
+- "[[G2727]]"
+- "[[G4012]]"
+- "[[G4771]]"
+- "[[G3762]]"
+- "[[G1510]]"
+- "[[G0235]]"
+- "[[G4748]]"
+- "[[G5442G]]"
+- "[[G3551]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 21:24**<big><big>[[Acts.21.17 Paul’s Arrival at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Them take, and purify thyself with them, and be at charges with them, that they may shave [their] heads: and all may know that those things, whereof they were informed concerning thee, are nothing; but [that] thou thyself also walkest orderly, and keepest the law.
 <small><sub>**BSB:**</sub></small>
 Take these men, purify yourself along with them, and pay their expenses so they can have their heads shaved. Then everyone will know that there is no truth to these rumors about you, but that you also live in obedience to the law.
-<small><sub>**Literal:**</sub></small>
-These [men] having taken do be purified with them and do bear expense for them so that they will shave the head, and will know all that of which they have been informed about you no [thing] is, but you walk orderly also yourself keeping the law.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.23|<< Acts 21:23]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.25|Acts 21:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τούτους]]  [[G3880\|παραλαβὼν]]  [[G0048\|ἁγνίσθητι]]  [[G4862\|σὺν]]  [[G0846\|αὐτοῖς]]  [[G2532\|καὶ]]  [[G1159\|δαπάνησον]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτοῖς]]  [[G2443\|ἵνα]]  [[G3587\|ξυρήσονται]]  [[G3588\|τὴν]]  [[G2776\|κεφαλήν,]]  [[G2532\|καὶ]]  [[G1097\|γνώσονται]]  [[G3956\|πάντες]]  [[G3754G\|ὅτι]]  [[G3739\|ὧν]]  [[G2727\|κατήχηνται]]  [[G4012\|περὶ]]  [[G4771\|σοῦ]]  [[G3762\|οὐδέν]]  [[G1510\|ἐστιν,]]  [[G0235\|ἀλλὰ]]  [[G4748\|στοιχεῖς]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G5442G\|φυλάσσων]]  [[G3588\|τὸν]]  [[G3551\|νόμον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FRATERNITY|FRATERNITY]] • [[topic HEAD|HEAD]] • [[topic JUDAISM|JUDAISM]] • [[topic LAW|LAW]] • [[topic MEEKNESS|MEEKNESS]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic PAUL|PAUL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic PURIFICATION|PURIFICATION]] • [[topic TACT|TACT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.23|<< Acts 21:23]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.25|Acts 21:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

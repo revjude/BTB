@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 32:17
+type: Verse
+kjv: "They sacrificed unto devils, not to God; to gods whom they knew not, to new gods that came newly up, whom your fathers feared not."
+bsb: "They sacrificed to demons, not to God, to gods they had not known, to newly arrived gods, which your fathers did not fear."
+hebrew: "יִזְבְּח֗וּ לַשֵּׁדִים֙ לֹ֣א אֱלֹ֔הַ אֱלֹהִ֖ים לֹ֣א יְדָע֑וּם חֲדָשִׁים֙ מִקָּרֹ֣ב בָּ֔אוּ לֹ֥א שְׂעָר֖וּם אֲבֹתֵיכֶֽם׃"
+pericope: "[[Deut.32.1 The Song of Moses|The Song of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 32
+book/chapter: "[[Deut.32|Deuteronomy 32]]"
+chronological_order: 228
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H2076]]"
+- "[[H9005]]"
+- "[[H7700]]"
+- "[[H3808]]"
+- "[[H0433]]"
+- "[[H0430]]"
+- "[[H3045]]"
+- "[[H9038]]"
+- "[[H2319H]]"
+- "[[H9006]]"
+- "[[H7138]]"
+- "[[H0935G]]"
+- "[[H8175C]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 32:17**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They sacrificed unto devils, not to God; to gods whom they knew not, to new [gods that] came newly up, whom your fathers feared not.
 <small><sub>**BSB:**</sub></small>
 They sacrificed to demons, not to God, to gods they had not known, to newly arrived gods, which your fathers did not fear.
+<small><sub>**Hebrew:**</sub></small>
+[[H2076\|יִזְבְּח֗וּ]] [[H9005\|לַ]][[H7700\|שֵּׁדִים֙]] [[H3808\|לֹ֣א]] [[H0433\|אֱלֹ֔הַ]] [[H0430\|אֱלֹהִ֖ים]] [[H3808\|לֹ֣א]] [[H3045\|יְדָע֑וּ]][[H9038\|ם]] [[H2319H\|חֲדָשִׁים֙]] [[H9006\|מִ]][[H7138\|קָּרֹ֣ב]] [[H0935G\|בָּ֔אוּ]] [[H3808\|לֹ֥א]] [[H8175C\|שְׂעָר֖וּ]][[H9038\|ם]] [[H0001G\|אֲבֹתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DEATH|DEATH]] • [[topic DEMONS|DEMONS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic PSALMS|PSALMS]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.16|<< Deuteronomy 32:16]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.18|Deuteronomy 32:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

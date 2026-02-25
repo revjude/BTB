@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Peter’s Report at Jerusalem
+type: Pericope
 pericope: "[[Acts.11.1 Peter’s Report at Jerusalem|Peter’s Report at Jerusalem]]"
-verse_count: 18
+original_language: Greek
 testament: New
 book: Acts
 chapter: 11
 book/chapter: "[[Acts.11|Acts 11]]"
-genre:
+chronological_order: 1029
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 18
 verses:
 - "[[Acts.11.1]]"
 - "[[Acts.11.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Acts.11.18]]"
 ---
 
-[[Acts.11|Acts 11:1 - Acts 11:18]]
+<small>[[Acts.11|Acts 11:1-18]]</small>
 *Peter’s Report at Jerusalem*
 
 [[Acts.11.1|1]] And the apostles and brethren that were in Judaea heard that the Gentiles had also received the word of God.

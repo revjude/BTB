@@ -1,8 +1,55 @@
+---
+title: Job 41:5
+type: Verse
+kjv: "Wilt thou play with him as with a bird? or wilt thou bind him for thy maidens?"
+bsb: "Can you pet him like a bird or put him on a leash for your maidens?"
+hebrew: "הַֽתְשַׂחֶק־ בּ֭וֹ כַּצִּפּ֑וֹר וְ֝תִקְשְׁרֶ֗נּוּ לְנַעֲרוֹתֶֽיךָ׃"
+pericope: "[[Job.41.1 The LORD’s Power Shown in Leviathan|The LORD’s Power Shown in Leviathan]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 41
+book/chapter: "[[Job.41|Job 41]]"
+chronological_order: 52
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9008]]"
+- "[[H7832]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9004]]"
+- "[[H6833]]"
+- "[[H9002]]"
+- "[[H7194]]"
+- "[[H9005]]"
+- "[[H5291]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 41:5**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wilt thou play with him as [with] a bird? or wilt thou bind him for thy maidens?
 <small><sub>**BSB:**</sub></small>
 Can you pet him like a bird or put him on a leash for your maidens?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַֽ]][[H7832\|תְשַׂחֶק]][[H9014\|־]] [[H9003\|בּ֭]][[H9033\|וֹ]] [[H9004\|כַּ]][[H6833\|צִּפּ֑וֹר]] [[H9002\|וְ֝]][[H7194\|תִקְשְׁרֶ֗]][[H9033\|נּוּ]] [[H9005\|לְ]][[H5291\|נַעֲרוֹתֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRDS|BIRDS]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.4|<< Job 41:4]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.6|Job 41:6 >>]]</td></tr></table>
 

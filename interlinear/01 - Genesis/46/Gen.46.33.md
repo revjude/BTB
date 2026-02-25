@@ -1,8 +1,57 @@
+---
+title: Genesis 46:33
+type: Verse
+kjv: "And it shall come to pass, when Pharaoh shall call you, and shall say, What is your occupation?"
+bsb: "When Pharaoh summons you and asks, ‘What is your occupation?’"
+hebrew: "וְהָיָ֕ה כִּֽי־ יִקְרָ֥א לָכֶ֖ם פַּרְעֹ֑ה וְאָמַ֖ר מַה־ מַּעֲשֵׂיכֶֽם׃"
+pericope: "[[Gen.46.28 Jacob Arrives in Egypt|Jacob Arrives in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 46
+book/chapter: "[[Gen.46|Genesis 46]]"
+chronological_order: 88
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JACOB|JACOB]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7121G]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H6547H]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H4639G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 46:33**<big><big>[[Gen.46.28 Jacob Arrives in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, when Pharaoh shall call you, and shall say, What [is] your occupation?
 <small><sub>**BSB:**</sub></small>
 When Pharaoh summons you and asks, ‘What is your occupation?’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֕ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7121G\|יִקְרָ֥א]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H6547H\|פַּרְעֹ֑ה]] [[H9001\|וְ]][[H0559\|אָמַ֖ר]] [[H4100\|מַה]][[H9014\|־]] [[H4639G\|מַּעֲשֵׂי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic JACOB|JACOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.32|<< Genesis 46:32]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.34|Genesis 46:34 >>]]</td></tr></table>
 

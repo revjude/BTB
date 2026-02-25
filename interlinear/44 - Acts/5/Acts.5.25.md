@@ -1,10 +1,69 @@
+---
+title: Acts 5:25
+type: Verse
+kjv: "Then came one and told them, saying, Behold, the men whom ye put in prison are standing in the temple, and teaching the people."
+bsb: "Then someone came in and announced, “Look, the men you put in jail are standing in the temple courts teaching the people!”"
+greek: "παραγενόμενος δέ τις ἀπήγγειλεν αὐτοῖς λέγων ὅτι ἰδοὺ οἱ ἄνδρες οὓς ἔθεσθε ἐν τῇ φυλακῇ, εἰσὶν ἐν τῷ ἱερῷ ἑστῶτες καὶ διδάσκοντες τὸν λαόν.¶"
+pericope: "[[Acts.5.24 The Apostles before the Sanhedrin|The Apostles before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 5
+book/chapter: "[[Acts.5|Acts 5]]"
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3854]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G0518]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G2400]]"
+- "[[G3588]]"
+- "[[G0435G]]"
+- "[[G3739]]"
+- "[[G5087]]"
+- "[[G1722]]"
+- "[[G5438G]]"
+- "[[G1510]]"
+- "[[G2411]]"
+- "[[G2476]]"
+- "[[G2532]]"
+- "[[G1321]]"
+- "[[G2992]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 5:25**<big><big>[[Acts.5.24 The Apostles before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then came one and told them, saying, Behold, the men whom ye put in prison are standing in the temple, and teaching the people.
 <small><sub>**BSB:**</sub></small>
 Then someone came in and announced, “Look, the men you put in jail are standing in the temple courts teaching the people!”
-<small><sub>**Literal:**</sub></small>
-Having come then a certain one he reported to them saying that Behold the men whom you put in the prison are in the temple already standing and teaching the people!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.24|<< Acts 5:24]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.26|Acts 5:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3854\|παραγενόμενος]]  [[G1161\|δέ]]  [[G5100\|τις]]  [[G0518\|ἀπήγγειλεν]]  [[G0846\|αὐτοῖς]]  [[G3004G\|λέγων]]  [[G3754G\|ὅτι]]  [[G2400\|ἰδοὺ]]  [[G3588\|οἱ]]  [[G0435G\|ἄνδρες]]  [[G3739\|οὓς]]  [[G5087\|ἔθεσθε]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G5438G\|φυλακῇ,]]  [[G1510\|εἰσὶν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2411\|ἱερῷ]]  [[G2476\|ἑστῶτες]]  [[G2532\|καὶ]]  [[G1321\|διδάσκοντες]]  [[G3588\|τὸν]]  [[G2992\|λαόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic DEFENSE|DEFENSE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic SADDUCEES|SADDUCEES]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.24|<< Acts 5:24]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.26|Acts 5:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,54 @@
+---
+title: Acts 11:1
+type: Verse
+kjv: "And the apostles and brethren that were in Judaea heard that the Gentiles had also received the word of God."
+bsb: "The apostles and brothers throughout Judea soon heard that the Gentiles also had received the word of God."
+greek: "Ἤκουσαν δὲ οἱ ἀπόστολοι καὶ οἱ ἀδελφοὶ οἱ ὄντες κατὰ τὴν Ἰουδαίαν ὅτι καὶ τὰ ἔθνη ἐδέξαντο τὸν λόγον τοῦ θεοῦ.¶"
+pericope: "[[Acts.11.1 Peter’s Report at Jerusalem|Peter’s Report at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 11
+book/chapter: "[[Acts.11|Acts 11]]"
+chronological_order: 1029
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G0191]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G0652]]"
+- "[[G2532]]"
+- "[[G0080]]"
+- "[[G1510]]"
+- "[[G2596]]"
+- "[[G2449]]"
+- "[[G3754G]]"
+- "[[G1484]]"
+- "[[G1209]]"
+- "[[G3056]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Acts 11:1**<big><big>[[Acts.11.1 Peter’s Report at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the apostles and brethren that were in Judaea heard that the Gentiles had also received the word of God.
 <small><sub>**BSB:**</sub></small>
 The apostles and brothers throughout Judea soon heard that the Gentiles also had received the word of God.
-<small><sub>**Literal:**</sub></small>
-Heard now the apostles and the brothers those being in <the> Judea that also the Gentiles received the word <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.48|<< Acts 10:48]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.2|Acts 11:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|Ἤκουσαν]]  [[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G0652\|ἀπόστολοι]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0080\|ἀδελφοὶ]]  [[G3588\|οἱ]]  [[G1510\|ὄντες]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G2449\|Ἰουδαίαν]]  [[G3754G\|ὅτι]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G1484\|ἔθνη]]  [[G1209\|ἐδέξαντο]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.48|<< Acts 10:48]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.2|Acts 11:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

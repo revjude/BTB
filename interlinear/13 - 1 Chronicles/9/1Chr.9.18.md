@@ -1,8 +1,58 @@
+---
+title: 1 Chronicles 9:18
+type: Verse
+kjv: "Who hitherto waited in the king’s gate eastward: they were porters in the companies of the children of Levi."
+bsb: "he was previously stationed at the King’s Gate on the east side. These were the gatekeepers from the camp of the Levites."
+hebrew: "וְֽעַד־ הֵ֔נָּה בְּשַׁ֥עַר הַמֶּ֖לֶךְ מִזְרָ֑חָה הֵ֚מָּה הַשֹּׁ֣עֲרִ֔ים לְמַחֲנ֖וֹת בְּנֵ֥י לֵוִֽי׃"
+pericope: "[[1Chr.9.1 The People of Jerusalem|The People of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 9
+book/chapter: "[[1Chr.9|1 Chronicles 9]]"
+chronological_order: 328
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PORTERS|PORTERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H2008]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H4217H]]"
+- "[[H9011]]"
+- "[[H1992]]"
+- "[[H7778]]"
+- "[[H9005]]"
+- "[[H4264]]"
+- "[[H1121G]]"
+- "[[H3878]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 9:18**<big><big>[[1Chr.9.1 The People of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who hitherto [waited] in the king’s gate eastward: they [were] porters in the companies of the children of Levi.
 <small><sub>**BSB:**</sub></small>
 he was previously stationed at the King’s Gate on the east side. These were the gatekeepers from the camp of the Levites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְֽ]][[H5704\|עַד]][[H9014\|־]] [[H2008\|הֵ֔נָּה]] [[H9003\|בְּ]][[H8179G\|שַׁ֥עַר]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H4217H\|מִזְרָ֑חָ]][[H9011\|ה]] [[H1992\|הֵ֚מָּה]] [[H9009\|הַ]][[H7778\|שֹּׁ֣עֲרִ֔ים]] [[H9005\|לְ]][[H4264\|מַחֲנ֖וֹת]] [[H1121G\|בְּנֵ֥י]] [[H3878\|לֵוִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic PORTERS|PORTERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.17|<< 1 Chronicles 9:17]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.19|1 Chronicles 9:19 >>]]</td></tr></table>
 

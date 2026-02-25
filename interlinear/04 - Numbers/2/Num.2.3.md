@@ -1,8 +1,69 @@
+---
+title: Numbers 2:3
+type: Verse
+kjv: "And on the east side toward the rising of the sun shall they of the standard of the camp of Judah pitch throughout their armies: and Nahshon the son of Amminadab shall be captain of the children of Judah."
+bsb: "On the east side, toward the sunrise, the divisions of Judah are to camp under their standard: The leader of the Judahites is Nahshon son of Amminadab,"
+hebrew: "וְהַחֹנִים֙ קֵ֣דְמָה מִזְרָ֔חָה דֶּ֛גֶל מַחֲנֵ֥ה יְהוּדָ֖ה לְצִבְאֹתָ֑ם וְנָשִׂיא֙ לִבְנֵ֣י יְהוּדָ֔ה נַחְשׁ֖וֹן בֶּן־ עַמִּינָדָֽב׃"
+pericope: "[[Num.2.1 The Order of the Camps|The Order of the Camps]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 2
+book/chapter: "[[Num.2|Numbers 2]]"
+chronological_order: 161
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ALOES|ALOES]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ISSACHAR|ISSACHAR]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic NAASHON|NAASHON]]"
+- "[[topic NAHSHON|NAHSHON]]"
+- "[[topic ZEBULUN|ZEBULUN]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H2583]]"
+- "[[H6924B]]"
+- "[[H9011]]"
+- "[[H4217H]]"
+- "[[H1714]]"
+- "[[H4264]]"
+- "[[H3063G]]"
+- "[[H9005]]"
+- "[[H6635A]]"
+- "[[H9028]]"
+- "[[H5387A]]"
+- "[[H1121G]]"
+- "[[H5177]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5992G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 2:3**<big><big>[[Num.2.1 The Order of the Camps|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And on the east side toward the rising of the sun shall they of the standard of the camp of Judah pitch throughout their armies: and Nahshon the son of Amminadab [shall be] captain of the children of Judah.
 <small><sub>**BSB:**</sub></small>
 On the east side, toward the sunrise, the divisions of Judah are to camp under their standard: The leader of the Judahites is Nahshon son of Amminadab,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H2583\|חֹנִים֙]] [[H6924B\|קֵ֣דְמָ]][[H9011\|ה]] [[H4217H\|מִזְרָ֔חָ]][[H9011\|ה]] [[H1714\|דֶּ֛גֶל]] [[H4264\|מַחֲנֵ֥ה]] [[H3063G\|יְהוּדָ֖ה]] [[H9005\|לְ]][[H6635A\|צִבְאֹתָ֑]][[H9028\|ם]] [[H9002\|וְ]][[H5387A\|נָשִׂיא֙]] [[H9005\|לִ]][[H1121G\|בְנֵ֣י]] [[H3063G\|יְהוּדָ֔ה]] [[H5177\|נַחְשׁ֖וֹן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5992G\|עַמִּינָדָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALOES|ALOES]] • [[topic ARMIES|ARMIES]] • [[topic ISSACHAR|ISSACHAR]] • [[topic JUDAH|JUDAH]] • [[topic NAASHON|NAASHON]] • [[topic NAHSHON|NAHSHON]] • [[topic ZEBULUN|ZEBULUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.2.2|<< Numbers 2:2]]</td><td align="center" style="border:none;">[[Num.2|Numbers 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.2.4|Numbers 2:4 >>]]</td></tr></table>
 

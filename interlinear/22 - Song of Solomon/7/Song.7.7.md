@@ -1,8 +1,45 @@
+---
+title: Song of Solomon 7:7
+type: Verse
+kjv: "This thy stature is like to a palm tree, and thy breasts to clusters of grapes."
+bsb: "Your stature is like a palm tree; your breasts are clusters of fruit."
+hebrew: "זֹ֤את קֽוֹמָתֵךְ֙ דָּֽמְתָ֣ה לְתָמָ֔ר וְשָׁדַ֖יִךְ לְאַשְׁכֹּלֽוֹת׃"
+pericope: "[[Song.7.1 Admiration by the Bridegroom|Admiration by the Bridegroom]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 7
+book/chapter: "[[Song.7|Song of Solomon 7]]"
+chronological_order: 454
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+strongs:
+- "[[H2063]]"
+- "[[H6967]]"
+- "[[H9022]]"
+- "[[H1819]]"
+- "[[H9005]]"
+- "[[H8558]]"
+- "[[H9002]]"
+- "[[H7699A]]"
+- "[[H0811]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 7:7**<big><big>[[Song.7.1 Admiration by the Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This thy stature is like to a palm tree, and thy breasts to clusters [of grapes].
 <small><sub>**BSB:**</sub></small>
 Your stature is like a palm tree; your breasts are clusters of fruit.
+<small><sub>**Hebrew:**</sub></small>
+[[H2063\|זֹ֤את]] [[H6967\|קֽוֹמָתֵ]][[H9022\|ךְ֙]] [[H1819\|דָּֽמְתָ֣ה]] [[H9005\|לְ]][[H8558\|תָמָ֔ר]] [[H9002\|וְ]][[H7699A\|שָׁדַ֖יִ]][[H9022\|ךְ]] [[H9005\|לְ]][[H0811\|אַשְׁכֹּלֽוֹת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.7.6|<< Song of Solomon 7:6]]</td><td align="center" style="border:none;">[[Song.7|Song of Solomon 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.7.8|Song of Solomon 7:8 >>]]</td></tr></table>
 

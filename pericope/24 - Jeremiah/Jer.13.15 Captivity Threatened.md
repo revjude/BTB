@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Captivity Threatened
+type: Pericope
 pericope: "[[Jer.13.15 Captivity Threatened|Captivity Threatened]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 13
 book/chapter: "[[Jer.13|Jeremiah 13]]"
-genre:
+chronological_order: 730
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 13
 verses:
 - "[[Jer.13.15]]"
 - "[[Jer.13.16]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Jer.13.27]]"
 ---
 
-[[Jer.13|Jeremiah 13:15 - Jeremiah 13:27]]
+<small>[[Jer.13|Jeremiah 13:15-27]]</small>
 *Captivity Threatened*
 
 [[Jer.13.15|15]] Hear ye, and give ear; be not proud: for the LORD hath spoken.

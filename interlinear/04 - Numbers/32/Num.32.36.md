@@ -1,8 +1,57 @@
+---
+title: Numbers 32:36
+type: Verse
+kjv: "And Bethnimrah, and Bethharan, fenced cities: and folds for sheep."
+bsb: "Beth-nimrah, and Beth-haran as fortified cities, and they built folds for their flocks."
+hebrew: "וְאֶת־ בֵּ֥ית נִמְרָ֖ה וְאֶת־ בֵּ֣ית הָרָ֑ן עָרֵ֥י מִבְצָ֖ר וְגִדְרֹ֥ת צֹֽאן׃"
+pericope: "[[Num.32.1 The Tribes East of the Jordan|The Tribes East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 32
+book/chapter: "[[Num.32|Numbers 32]]"
+chronological_order: 192
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic BETH-ARAM|BETH-ARAM]]"
+- "[[topic BETH-HARAN|BETH-HARAN]]"
+- "[[topic CITIES|CITIES]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1039]]"
+- "[[H1028]]"
+- "[[H5892B]]"
+- "[[H4013]]"
+- "[[H1448]]"
+- "[[H6629G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 32:36**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Bethnimrah, and Bethharan, fenced cities: and folds for sheep.
 <small><sub>**BSB:**</sub></small>
 Beth-nimrah, and Beth-haran as fortified cities, and they built folds for their flocks.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1039\|בֵּ֥ית]] [[H1039\|נִמְרָ֖ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1028\|בֵּ֣ית]] [[H1028\|הָרָ֑ן]] [[H5892B\|עָרֵ֥י]] [[H4013\|מִבְצָ֖ר]] [[H9002\|וְ]][[H1448\|גִדְרֹ֥ת]] [[H6629G\|צֹֽאן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic BETH-ARAM|BETH-ARAM]] • [[topic BETH-HARAN|BETH-HARAN]] • [[topic CITIES|CITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.35|<< Numbers 32:35]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.37|Numbers 32:37 >>]]</td></tr></table>
 

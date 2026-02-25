@@ -1,8 +1,68 @@
+---
+title: 1 Samuel 20:1
+type: Verse
+kjv: "And David fled from Naioth in Ramah, and came and said before Jonathan, What have I done? what is mine iniquity? and what is my sin before thy father, that he seeketh my life?"
+bsb: "Then David fled from Naioth in Ramah. He came to Jonathan and asked, “What have I done? What is my iniquity? How have I sinned against your father, that he wants to take my life?”"
+hebrew: "וַיִּבְרַ֣ח דָּוִ֔ד מִנָּי֖וֹת בָּרָמָ֑ה וַיָּבֹ֞א וַיֹּ֣אמֶר׀ לִפְנֵ֣י יְהוֹנָתָ֗ן מֶ֤ה עָשִׂ֙יתִי֙ מֶֽה־ עֲוֹנִ֤י וּמֶֽה־ חַטָּאתִי֙ לִפְנֵ֣י אָבִ֔יךָ כִּ֥י מְבַקֵּ֖שׁ אֶת־ נַפְשִֽׁי׃"
+pericope: "[[1Sam.20.1 Jonathan Helps David|Jonathan Helps David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 20
+book/chapter: "[[1Sam.20|1 Samuel 20]]"
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic NAIOTH|NAIOTH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1272]]"
+- "[[H1732]]"
+- "[[H9006]]"
+- "[[H5121]]"
+- "[[H9003]]"
+- "[[H7414J]]"
+- "[[H0935G]]"
+- "[[H0559]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3083H]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H9014]]"
+- "[[H5771H]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H2403B]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H1245]]"
+- "[[H0853]]"
+- "[[H5315H]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **1 Samuel 20:1**<big><big>[[1Sam.20.1 Jonathan Helps David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David fled from Naioth in Ramah, and came and said before Jonathan, What have I done? what [is] mine iniquity? and what [is] my sin before thy father, that he seeketh my life?
 <small><sub>**BSB:**</sub></small>
 Then David fled from Naioth in Ramah. He came to Jonathan and asked, “What have I done? What is my iniquity? How have I sinned against your father, that he wants to take my life?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1272\|יִּבְרַ֣ח]] [[H1732\|דָּוִ֔ד]] [[H9006\|מִ]][[H5121\|נָּי֖וֹת]] [[H9003\|בָּ]][[H7414J\|רָמָ֑ה]] [[H9001\|וַ]][[H0935G\|יָּבֹ֞א]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]][[H9015\|׀]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3083H\|יְהוֹנָתָ֗ן]] [[H4100\|מֶ֤ה]] [[H6213A\|עָשִׂ֙יתִי֙]] [[H4100\|מֶֽה]][[H9014\|־]] [[H5771H\|עֲוֹנִ֤]][[H9020\|י]] [[H9002\|וּ]][[H4100\|מֶֽה]][[H9014\|־]] [[H2403B\|חַטָּאתִ]][[H9020\|י֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H0001G\|אָבִ֔י]][[H9021\|ךָ]] [[H3588A\|כִּ֥י]] [[H1245\|מְבַקֵּ֖שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H5315H\|נַפְשִֽׁ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NAIOTH|NAIOTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.24|<< 1 Samuel 19:24]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.2|1 Samuel 20:2 >>]]</td></tr></table>
 

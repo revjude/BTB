@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 4:25
+type: Verse
+kjv: "When thou shalt beget children, and children’s children, and ye shall have remained long in the land, and shall corrupt yourselves, and make a graven image, or the likeness of any thing, and shall do evil in the sight of the LORD thy God, to provoke him to anger:"
+bsb: "After you have children and grandchildren and you have been in the land a long time, if you then act corruptly and make an idol of any form—doing evil in the sight of the LORD your God and provoking Him to anger—"
+hebrew: "כִּֽי־ תוֹלִ֤יד בָּנִים֙ וּבְנֵ֣י בָנִ֔ים וְנוֹשַׁנְתֶּ֖ם בָּאָ֑רֶץ וְהִשְׁחַתֶּ֗ם וַעֲשִׂ֤יתֶם פֶּ֙סֶל֙ תְּמ֣וּנַת כֹּ֔ל וַעֲשִׂיתֶ֥ם הָרַ֛ע בְּעֵינֵ֥י יְהוָֽה־ אֱלֹהֶ֖יךָ לְהַכְעִיסֽוֹ׃"
+pericope: "[[Deut.4.15 A Warning against Idolatry|A Warning against Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3205]]"
+- "[[H1121A]]"
+- "[[H9002]]"
+- "[[H9001]]"
+- "[[H3462]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H7843]]"
+- "[[H6213H]]"
+- "[[H6459]]"
+- "[[H8544]]"
+- "[[H3605]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H3707]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:25**<big><big>[[Deut.4.15 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou shalt beget children, and children’s children, and ye shall have remained long in the land, and shall corrupt [yourselves], and make a graven image, [or] the likeness of any [thing], and shall do evil in the sight of the LORD thy God, to provoke him to anger:
 <small><sub>**BSB:**</sub></small>
 After you have children and grandchildren and you have been in the land a long time, if you then act corruptly and make an idol of any form—doing evil in the sight of the LORD your God and provoking Him to anger—
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3205\|תוֹלִ֤יד]] [[H1121A\|בָּנִים֙]] [[H9002\|וּ]][[H1121A\|בְנֵ֣י]] [[H1121A\|בָנִ֔ים]] [[H9001\|וְ]][[H3462\|נוֹשַׁנְתֶּ֖ם]] [[H9003\|בָּ]][[H0776G\|אָ֑רֶץ]] [[H9001\|וְ]][[H7843\|הִשְׁחַתֶּ֗ם]] [[H9001\|וַ]][[H6213H\|עֲשִׂ֤יתֶם]] [[H6459\|פֶּ֙סֶל֙]] [[H8544\|תְּמ֣וּנַת]] [[H3605\|כֹּ֔ל]] [[H9001\|וַ]][[H6213A\|עֲשִׂיתֶ֥ם]] [[H9009\|הָ]][[H7451H\|רַ֛ע]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֥י]] [[H3068G\|יְהוָֽה]][[H9014\|־]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H9005\|לְ]][[H3707\|הַכְעִיסֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.24|<< Deuteronomy 4:24]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.26|Deuteronomy 4:26 >>]]</td></tr></table>
 

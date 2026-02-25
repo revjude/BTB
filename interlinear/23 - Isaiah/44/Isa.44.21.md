@@ -1,8 +1,59 @@
+---
+title: Isaiah 44:21
+type: Verse
+kjv: "Remember these, O Jacob and Israel; for thou art my servant: I have formed thee; thou art my servant: O Israel, thou shalt not be forgotten of me."
+bsb: "Remember these things, O Jacob, for you are My servant, O Israel. I have made you, and you are My servant; O Israel, I will never forget you."
+hebrew: "זְכָר־ אֵ֣לֶּה יַעֲקֹ֔ב וְיִשְׂרָאֵ֖ל כִּ֣י עַבְדִּי־ אָ֑תָּה יְצַרְתִּ֤יךָ עֶֽבֶד־ לִי֙ אַ֔תָּה יִשְׂרָאֵ֖ל לֹ֥א תִנָּשֵֽׁנִי׃"
+pericope: "[[Isa.44.21 Jerusalem to Be Restored|Jerusalem to Be Restored]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 44
+book/chapter: "[[Isa.44|Isaiah 44]]"
+chronological_order: 683
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H2142]]"
+- "[[H9014]]"
+- "[[H0428]]"
+- "[[H3290]]"
+- "[[H9002]]"
+- "[[H3478]]"
+- "[[H3588A]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H0859A]]"
+- "[[H3335G]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3808]]"
+- "[[H5382]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 44:21**<big><big>[[Isa.44.21 Jerusalem to Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember these, O Jacob and Israel; for thou [art] my servant: I have formed thee; thou [art] my servant: O Israel, thou shalt not be forgotten of me.
 <small><sub>**BSB:**</sub></small>
 Remember these things, O Jacob, for you are My servant, O Israel. I have made you, and you are My servant; O Israel, I will never forget you.
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|זְכָר]][[H9014\|־]] [[H0428\|אֵ֣לֶּה]] [[H3290\|יַעֲקֹ֔ב]] [[H9002\|וְ]][[H3478\|יִשְׂרָאֵ֖ל]] [[H3588A\|כִּ֣י]] [[H5650\|עַבְדִּ]][[H9020\|י]][[H9014\|־]] [[H0859A\|אָ֑תָּה]] [[H3335G\|יְצַרְתִּ֤י]][[H9031\|ךָ]] [[H5650\|עֶֽבֶד]][[H9014\|־]] [[H9005\|לִ]][[H9030\|י֙]] [[H0859A\|אַ֔תָּה]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H3808\|לֹ֥א]] [[H5382\|תִנָּשֵֽׁ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.20|<< Isaiah 44:20]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.22|Isaiah 44:22 >>]]</td></tr></table>
 

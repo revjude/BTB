@@ -1,10 +1,54 @@
+---
+title: Galatians 1:23
+type: Verse
+kjv: "But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed."
+bsb: "They only heard the account: “The man who formerly persecuted us is now preaching the faith he once tried to destroy.”"
+greek: "μόνον δὲ ἀκούοντες ἦσαν ὅτι ὁ διώκων ἡμᾶς ποτε νῦν εὐαγγελίζεται τὴν πίστιν ἥν ποτε ἐπόρθει·"
+pericope: "[[Gal.1.10 Paul Preaches the Gospel|Paul Preaches the Gospel]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 1
+book/chapter: "[[Gal.1|Galatians 1]]"
+chronological_order: 1039
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G3441]]"
+- "[[G1161]]"
+- "[[G0191]]"
+- "[[G1510]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G1377]]"
+- "[[G3165]]"
+- "[[G4218]]"
+- "[[G3568]]"
+- "[[G2097]]"
+- "[[G4102G]]"
+- "[[G3739]]"
+- "[[G4199]]"
+texts:
+- NKO
+---
+
 **Galatians 1:23**<big><big>[[Gal.1.10 Paul Preaches the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed.
 <small><sub>**BSB:**</sub></small>
 They only heard the account: “The man who formerly persecuted us is now preaching the faith he once tried to destroy.”
-<small><sub>**Literal:**</sub></small>
-Only however hearing they were that the [one] persecuting us formerly now is evangelising the faith which once he was destroying;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.22|<< Galatians 1:22]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.24|Galatians 1:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3441\|μόνον]]  [[G1161\|δὲ]]  [[G0191\|ἀκούοντες]]  [[G1510\|ἦσαν]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G1377\|διώκων]]  [[G3165\|ἡμᾶς]]  [[G4218\|ποτε]]  [[G3568\|νῦν]]  [[G2097\|εὐαγγελίζεται]]  [[G3588\|τὴν]]  [[G4102G\|πίστιν]]  [[G3739\|ἥν]]  [[G4218\|ποτε]]  [[G4199\|ἐπόρθει·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.22|<< Galatians 1:22]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.24|Galatians 1:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

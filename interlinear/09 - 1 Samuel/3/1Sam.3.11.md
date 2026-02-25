@@ -1,8 +1,65 @@
+---
+title: 1 Samuel 3:11
+type: Verse
+kjv: "And the LORD said to Samuel, Behold, I will do a thing in Israel, at which both the ears of every one that heareth it shall tingle."
+bsb: "Then the LORD said to Samuel, “I am about to do something in Israel at which the ears of all who hear it will tingle."
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֶל־ שְׁמוּאֵ֔ל הִנֵּ֧ה אָנֹכִ֛י עֹשֶׂ֥ה דָבָ֖ר בְּיִשְׂרָאֵ֑ל אֲשֶׁר֙ כָּל־ שֹׁ֣מְע֔וֹ תְּצִלֶּ֖ינָה שְׁתֵּ֥י אָזְנָֽיו׃"
+pericope: "[[1Sam.3.1 The LORD Calls Samuel|The LORD Calls Samuel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 3
+book/chapter: "[[1Sam.3|1 Samuel 3]]"
+chronological_order: 282
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CONNIVANCE|CONNIVANCE]]"
+- "[[topic ELI|ELI]]"
+- "[[topic HOPHNI|HOPHNI]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8050G]]"
+- "[[H2009]]"
+- "[[H0595]]"
+- "[[H6213A]]"
+- "[[H1697I]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H3605]]"
+- "[[H8085G]]"
+- "[[H9033]]"
+- "[[H6750]]"
+- "[[H8147]]"
+- "[[H0241G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 3:11**<big><big>[[1Sam.3.1 The LORD Calls Samuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said to Samuel, Behold, I will do a thing in Israel, at which both the ears of every one that heareth it shall tingle.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Samuel, “I am about to do something in Israel at which the ears of all who hear it will tingle.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H8050G\|שְׁמוּאֵ֔ל]] [[H2009\|הִנֵּ֧ה]] [[H0595\|אָנֹכִ֛י]] [[H6213A\|עֹשֶׂ֥ה]] [[H1697I\|דָבָ֖ר]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֑ל]] [[H0834A\|אֲשֶׁר֙]] [[H3605\|כָּל]][[H9014\|־]] [[H8085G\|שֹׁ֣מְע֔]][[H9033\|וֹ]] [[H6750\|תְּצִלֶּ֖ינָה]] [[H8147\|שְׁתֵּ֥י]] [[H0241G\|אָזְנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONNIVANCE|CONNIVANCE]] • [[topic ELI|ELI]] • [[topic HOPHNI|HOPHNI]] • [[topic SAMUEL|SAMUEL]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.3.10|<< 1 Samuel 3:10]]</td><td align="center" style="border:none;">[[1Sam.3|1 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.3.12|1 Samuel 3:12 >>]]</td></tr></table>
 

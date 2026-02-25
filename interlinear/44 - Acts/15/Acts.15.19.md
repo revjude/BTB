@@ -1,10 +1,59 @@
+---
+title: Acts 15:19
+type: Verse
+kjv: "Wherefore my sentence is, that we trouble not them, which from among the Gentiles are turned to God:"
+bsb: "It is my judgment, therefore, that we should not cause trouble for the Gentiles who are turning to God."
+greek: "διὸ ἐγὼ κρίνω μὴ παρενοχλεῖν τοῖς ἀπὸ τῶν ἐθνῶν ἐπιστρέφουσιν ἐπὶ τὸν θεόν,"
+pericope: "[[Acts.15.5 The Council at Jerusalem|The Council at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic LAW|LAW]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G1352]]"
+- "[[G1473]]"
+- "[[G2919]]"
+- "[[G3361]]"
+- "[[G3926]]"
+- "[[G3588]]"
+- "[[G0575]]"
+- "[[G1484]]"
+- "[[G1994]]"
+- "[[G1909]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Acts 15:19**<big><big>[[Acts.15.5 The Council at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore my sentence is, that we trouble not them, which from among the Gentiles are turned to God:
 <small><sub>**BSB:**</sub></small>
 It is my judgment, therefore, that we should not cause trouble for the Gentiles who are turning to God.
-<small><sub>**Literal:**</sub></small>
-Therefore I myself judge not to trouble those who from the Gentiles are turning to <the> God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.18|<< Acts 15:18]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.20|Acts 15:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1352\|διὸ]]  [[G1473\|ἐγὼ]]  [[G2919\|κρίνω]]  [[G3361\|μὴ]]  [[G3926\|παρενοχλεῖν]]  [[G3588\|τοῖς]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G1484\|ἐθνῶν]]  [[G1994\|ἐπιστρέφουσιν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G2316\|θεόν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic CHURCH|CHURCH]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COUNCIL|COUNCIL]] • [[topic DOCTRINES|DOCTRINES]] • [[topic ELDER|ELDER]] • [[topic GENTILES|GENTILES]] • [[topic JAMES|JAMES]] • [[topic LAW|LAW]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.18|<< Acts 15:18]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.20|Acts 15:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

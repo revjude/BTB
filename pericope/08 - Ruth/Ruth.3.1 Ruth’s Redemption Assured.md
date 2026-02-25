@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ruth’s Redemption Assured
+type: Pericope
 pericope: "[[Ruth.3.1 Ruth’s Redemption Assured|Ruth’s Redemption Assured]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Ruth
 chapter: 3
 book/chapter: "[[Ruth.3|Ruth 3]]"
-genre:
+chronological_order: 278
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
 - narrative
 - short story
 - idyllic narrative
 - megillot
+verse_count: 18
 verses:
 - "[[Ruth.3.1]]"
 - "[[Ruth.3.2]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Ruth.3.18]]"
 ---
 
-[[Ruth.3|Ruth 3:1 - Ruth 3:18]]
+<small>[[Ruth.3|Ruth 3:1-18]]</small>
 *Ruth’s Redemption Assured*
 
 [[Ruth.3.1|1]] Then Naomi her mother in law said unto her, My daughter, shall I not seek rest for thee, that it may be well with thee?

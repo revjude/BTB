@@ -1,6 +1,59 @@
+---
+title: LXX Exodus 27:2
+type: Verse
+lxx: "And you shall make the horns upon the four corners. The horns will be part of it. And you shall cover them in brass."
+greek: "και ποιήσεις τα κέρατα επί των τεσσάρων γωνιών εξ αυτού έσται τα κέρατα και καλύψεις αυτά χαλκώ"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 27
+book/chapter: "[[Exod.27|Exodus 27]]"
+chronological_order: 119
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G2532]]"
+- "[[G4160]]"
+- "[[G3588]]"
+- "[[G2768]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G5064]]"
+- "[[G1137]]"
+- "[[G1537]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2768]]"
+- "[[G2532]]"
+- "[[G2572]]"
+- "[[G1473]]"
+- "[[G5475]]"
+---
+
 **LXX Exodus 27:2** 
 <small><sub>**LXX:**</sub></small>
 And you shall make the horns upon the four corners. The horns will be \[part\] of it. And you shall cover them in brass. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G4160\|ποιήσεις]] [[G3588\|τα]] [[G2768\|κέρατα]] [[G1909\|επί]] [[G3588\|των]] [[G5064\|τεσσάρων]] [[G1137\|γωνιών]] [[G1537\|εξ]] [[G1473\|αυτού]] [[G1510\|έσται]] [[G3588\|τα]] [[G2768\|κέρατα]] [[G2532\|και]] [[G2572\|καλύψεις]] [[G1473\|αυτά]] [[G5475\|χαλκώ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TYPES|TYPES]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.27.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.27.1|<< Exodus 27:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.27.3|Exodus 27:3 >>]]</td></tr></table>
 
@@ -23,6 +76,6 @@ And you shall make the horns upon the four corners. The horns will be \[part\] o
 | you shall cover | **<big>[[G2572\|καλύψεις]]</big>** |
 | them | **<big>[[G1473\|αυτά]]</big>** |
 | in brass. | **<big>[[G5475\|χαλκώ]]</big>** |
-[[Exod.27.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.27.1|<< Exodus 27:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.27.3|Exodus 27:3 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.27.1|<< Exodus 27:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.27.3|Exodus 27:3 >>]]</td></tr></table>
 
 

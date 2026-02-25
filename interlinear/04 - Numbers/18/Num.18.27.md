@@ -1,8 +1,62 @@
+---
+title: Numbers 18:27
+type: Verse
+kjv: "And this your heave offering shall be reckoned unto you, as though it were the corn of the threshingfloor, and as the fulness of the winepress."
+bsb: "Your offering will be reckoned to you as grain from the threshing floor or juice from the winepress."
+hebrew: "וְנֶחְשַׁ֥ב לָכֶ֖ם תְּרוּמַתְכֶ֑ם כַּדָּגָן֙ מִן־ הַגֹּ֔רֶן וְכַֽמְלֵאָ֖ה מִן־ הַיָּֽקֶב׃"
+pericope: "[[Num.18.8 Offerings for Priests and Levites|Offerings for Priests and Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 18
+book/chapter: "[[Num.18|Numbers 18]]"
+chronological_order: 178
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic WINE PRESS|WINE PRESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H2803H]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H8641]]"
+- "[[H9026]]"
+- "[[H9004]]"
+- "[[H1715]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1637]]"
+- "[[H9002]]"
+- "[[H4395]]"
+- "[[H3342]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 18:27**<big><big>[[Num.18.8 Offerings for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [this] your heave offering shall be reckoned unto you, as though [it were] the corn of the threshingfloor, and as the fulness of the winepress.
 <small><sub>**BSB:**</sub></small>
 Your offering will be reckoned to you as grain from the threshing floor or juice from the winepress.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2803H\|נֶחְשַׁ֥ב]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H8641\|תְּרוּמַתְ]][[H9026\|כֶ֑ם]] [[H9004\|כַּ]][[H1715\|דָּגָן֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1637\|גֹּ֔רֶן]] [[H9002\|וְ]][[H9004\|כַֽ]][[H4395\|מְלֵאָ֖ה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3342\|יָּֽקֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]] • [[topic WINE PRESS|WINE PRESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.26|<< Numbers 18:26]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.28|Numbers 18:28 >>]]</td></tr></table>
 

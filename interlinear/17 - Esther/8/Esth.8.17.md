@@ -1,8 +1,72 @@
+---
+title: Esther 8:17
+type: Verse
+kjv: "And in every province, and in every city, whithersoever the king’s commandment and his decree came, the Jews had joy and gladness, a feast and a good day. And many of the people of the land became Jews; for the fear of the Jews fell upon them."
+bsb: "In every province and every city, wherever the king’s edict and decree reached, there was joy and gladness among the Jews, with feasting and celebrating. And many of the people of the land themselves became Jews, because the fear of the Jews had fallen upon them."
+hebrew: "וּבְכָל־ מְדִינָ֨ה וּמְדִינָ֜ה וּבְכָל־ עִ֣יר וָעִ֗יר מְקוֹם֙ אֲשֶׁ֨ר דְּבַר־ הַמֶּ֤לֶךְ וְדָתוֹ֙ מַגִּ֔יעַ שִׂמְחָ֤ה וְשָׂשׂוֹן֙ לַיְּהוּדִ֔ים מִשְׁתֶּ֖ה וְי֣וֹם ט֑וֹב וְרַבִּ֞ים מֵֽעַמֵּ֤י הָאָ֙רֶץ֙ מִֽתְיַהֲדִ֔ים כִּֽי־ נָפַ֥ל פַּֽחַד־ הַיְּהוּדִ֖ים עֲלֵיהֶֽם׃"
+pericope: "[[Esth.8.7 The Decree of Xerxes|The Decree of Xerxes]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 8
+book/chapter: "[[Esth.8|Esther 8]]"
+chronological_order: 906
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic FEASTS|FEASTS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4082]]"
+- "[[H5892B]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H1697G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H1881]]"
+- "[[H9023]]"
+- "[[H5060]]"
+- "[[H8057]]"
+- "[[H8342]]"
+- "[[H9005]]"
+- "[[H3064]]"
+- "[[H4960]]"
+- "[[H3117G]]"
+- "[[H2896A]]"
+- "[[H7227A]]"
+- "[[H9006]]"
+- "[[H5971A]]"
+- "[[H0776G]]"
+- "[[H3054]]"
+- "[[H3588A]]"
+- "[[H5307G]]"
+- "[[H6343]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 8:17**<big><big>[[Esth.8.7 The Decree of Xerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in every province, and in every city, whithersoever the king’s commandment and his decree came, the Jews had joy and gladness, a feast and a good day. And many of the people of the land became Jews; for the fear of the Jews fell upon them.
 <small><sub>**BSB:**</sub></small>
 In every province and every city, wherever the king’s edict and decree reached, there was joy and gladness among the Jews, with feasting and celebrating. And many of the people of the land themselves became Jews, because the fear of the Jews had fallen upon them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H4082\|מְדִינָ֨ה]] [[H9002\|וּ]][[H4082\|מְדִינָ֜ה]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H5892B\|עִ֣יר]] [[H9002\|וָ]][[H5892B\|עִ֗יר]] [[H4725\|מְקוֹם֙]] [[H0834A\|אֲשֶׁ֨ר]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֤לֶךְ]] [[H9002\|וְ]][[H1881\|דָת]][[H9023\|וֹ֙]] [[H5060\|מַגִּ֔יעַ]] [[H8057\|שִׂמְחָ֤ה]] [[H9002\|וְ]][[H8342\|שָׂשׂוֹן֙]] [[H9005\|לַ]][[H3064\|יְּהוּדִ֔ים]] [[H4960\|מִשְׁתֶּ֖ה]] [[H9002\|וְ]][[H3117G\|י֣וֹם]] [[H2896A\|ט֑וֹב]] [[H9002\|וְ]][[H7227A\|רַבִּ֞ים]] [[H9006\|מֵֽ]][[H5971A\|עַמֵּ֤י]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H3054\|מִֽתְיַהֲדִ֔ים]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5307G\|נָפַ֥ל]] [[H6343\|פַּֽחַד]][[H9014\|־]] [[H9009\|הַ]][[H3064\|יְּהוּדִ֖ים]] [[H5921A\|עֲלֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.8.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.8.16|<< Esther 8:16]]</td><td align="center" style="border:none;">[[Esth.8|Esther 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.1|Esther 9:1 >>]]</td></tr></table>
 

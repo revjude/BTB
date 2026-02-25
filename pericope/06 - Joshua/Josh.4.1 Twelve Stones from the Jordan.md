@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Twelve Stones from the Jordan
+type: Pericope
 pericope: "[[Josh.4.1 Twelve Stones from the Jordan|Twelve Stones from the Jordan]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 4
 book/chapter: "[[Josh.4|Joshua 4]]"
-genre:
+chronological_order: 234
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 18
 verses:
 - "[[Josh.4.1]]"
 - "[[Josh.4.2]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Josh.4.18]]"
 ---
 
-[[Josh.4|Joshua 4:1 - Joshua 4:18]]
+<small>[[Josh.4|Joshua 4:1-18]]</small>
 *Twelve Stones from the Jordan*
 
 [[Josh.4.1|1]] And it came to pass, when all the people were clean passed over Jordan, that the LORD spake unto Joshua, saying,

@@ -1,10 +1,60 @@
+---
+title: Matthew 7:5
+type: Verse
+kjv: "Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother’s eye."
+bsb: "You hypocrite! First take the beam out of your own eye, and then you will see clearly to remove the speck from your brother’s eye."
+jesus_said: "Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother’s eye."
+greek: "ὑποκριτά, ἔκβαλε πρῶτον ἐκ τοῦ ὀφθαλμοῦ σοῦ τὴν δοκόν, καὶ τότε διαβλέψεις ἐκβαλεῖν τὸ κάρφος ἐκ τοῦ ὀφθαλμοῦ τοῦ ἀδελφοῦ σου.¶"
+pericope: "[[Matt.7.1 Judging Others|Judging Others]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 7
+book/chapter: "[[Matt.7|Matthew 7]]"
+chronological_order: 945
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INCONSISTENCY|INCONSISTENCY]]"
+- "[[topic MOTE (A SPECK)|MOTE (A SPECK)]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[G5273]]"
+- "[[G1544]]"
+- "[[G4413G]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G4771]]"
+- "[[G1385]]"
+- "[[G2532]]"
+- "[[G5119]]"
+- "[[G1227]]"
+- "[[G2595]]"
+- "[[G0080]]"
+texts:
+- NKO
+---
+
 **Matthew 7:5**<big><big>[[Matt.7.1 Judging Others|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother’s eye.
 <small><sub>**BSB:**</sub></small>
 You hypocrite! First take the beam out of your own eye, and then you will see clearly to remove the speck from your brother’s eye.
-<small><sub>**Literal:**</sub></small>
-Hypocrite! do cast out first from the eye of you the beam, and then you will see clearly to cast out the splinter from the eye of the brother of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.4|<< Matthew 7:4]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.6|Matthew 7:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5273\|ὑποκριτά,]]  [[G1544\|ἔκβαλε]]  [[G4413G\|πρῶτον]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3788\|ὀφθαλμοῦ]]  [[G4771\|σοῦ]]  [[G3588\|τὴν]]  [[G1385\|δοκόν,]]  [[G2532\|καὶ]]  [[G5119\|τότε]]  [[G1227\|διαβλέψεις]]  [[G1544\|ἐκβαλεῖν]]  [[G3588\|τὸ]]  [[G2595\|κάρφος]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3788\|ὀφθαλμοῦ]]  [[G3588\|τοῦ]]  [[G0080\|ἀδελφοῦ]]  [[G4771\|σου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic INCONSISTENCY|INCONSISTENCY]] • [[topic MOTE (A SPECK)|MOTE (A SPECK)]] • [[topic RELIGION|RELIGION]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.4|<< Matthew 7:4]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.6|Matthew 7:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

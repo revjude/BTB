@@ -1,8 +1,68 @@
+---
+title: 2 Samuel 13:22
+type: Verse
+kjv: "And Absalom spake unto his brother Amnon neither good nor bad: for Absalom hated Amnon, because he had forced his sister Tamar."
+bsb: "And Absalom never said a word to Amnon, either good or bad, because he hated Amnon for violating his sister Tamar."
+hebrew: "וְלֹֽא־ דִבֶּ֧ר אַבְשָׁל֛וֹם עִם־ אַמְנ֖וֹן לְמֵרָ֣ע וְעַד־ ט֑וֹב כִּֽי־ שָׂנֵ֤א אַבְשָׁלוֹם֙ אֶת־ אַמְנ֔וֹן עַל־ דְּבַר֙ אֲשֶׁ֣ר עִנָּ֔ה אֵ֖ת תָּמָ֥ר אֲחֹתֽוֹ׃ פ"
+pericope: "[[2Sam.13.1 Amnon and Tamar|Amnon and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic RAPE|RAPE]]"
+- "[[topic TAMAR|TAMAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1696G]]"
+- "[[H0053]]"
+- "[[H5973A]]"
+- "[[H0550G]]"
+- "[[H9005]]"
+- "[[H9006]]"
+- "[[H7451A]]"
+- "[[H5704]]"
+- "[[H2896A]]"
+- "[[H3588A]]"
+- "[[H8130]]"
+- "[[H0853]]"
+- "[[H5921A]]"
+- "[[H1697M]]"
+- "[[H0834A]]"
+- "[[H6031B]]"
+- "[[H8559H]]"
+- "[[H0269]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Samuel 13:22**<big><big>[[2Sam.13.1 Amnon and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Absalom spake unto his brother Amnon neither good nor bad: for Absalom hated Amnon, because he had forced his sister Tamar.
 <small><sub>**BSB:**</sub></small>
 And Absalom never said a word to Amnon, either good or bad, because he hated Amnon for violating his sister Tamar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1696G\|דִבֶּ֧ר]] [[H0053\|אַבְשָׁל֛וֹם]] [[H5973A\|עִם]][[H9014\|־]] [[H0550G\|אַמְנ֖וֹן]] [[H9005\|לְ]][[H9006\|מֵ]][[H7451A\|רָ֣ע]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H2896A\|ט֑וֹב]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H8130\|שָׂנֵ֤א]] [[H0053\|אַבְשָׁלוֹם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0550G\|אַמְנ֔וֹן]] [[H5921A\|עַל]][[H9014\|־]] [[H1697M\|דְּבַר֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6031B\|עִנָּ֔ה]] [[H0853\|אֵ֖ת]] [[H8559H\|תָּמָ֥ר]] [[H0269\|אֲחֹתֽ]][[H9023\|וֹ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic HOMICIDE|HOMICIDE]] • [[topic RAPE|RAPE]] • [[topic TAMAR|TAMAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.21|<< 2 Samuel 13:21]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.23|2 Samuel 13:23 >>]]</td></tr></table>
 
@@ -27,7 +87,7 @@ And Absalom never said a word to Amnon, either good or bad, because he hated Amn
 | he had humbled  |**<big>&#8207;[[H6031B\|עִנָּ֔ה]]&#8207; </big>**| 'i.Nah<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֖ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Tamar  |**<big>&#8207;[[H8559H\|תָּמָ֥ר]]&#8207; </big>**| ta.Mar<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sister his  |**<big>&#8207;[[H0269\|אֲחֹתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'a.cho.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sister his  |**<big>&#8207;[[H0269\|אֲחֹתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'a.cho.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.21|<< 2 Samuel 13:21]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.23|2 Samuel 13:23 >>]]</td></tr></table>
 
 

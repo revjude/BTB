@@ -1,8 +1,65 @@
+---
+title: Daniel 5:15
+type: Verse
+kjv: "And now the wise men, the astrologers, have been brought in before me, that they should read this writing, and make known unto me the interpretation thereof: but they could not shew the interpretation of the thing:"
+bsb: "Now the wise men and enchanters were brought before me to read this inscription and interpret it for me, but they could not give its interpretation."
+aramaic: "וּכְעַ֞ן הֻעַ֣לּוּ קָֽדָמַ֗י חַכִּֽימַיָּא֙ אָֽשְׁפַיָּ֔א דִּֽי־ כְתָבָ֤ה דְנָה֙ יִקְר֔וֹן וּפִשְׁרֵ֖הּ לְהוֹדָעֻתַ֑נִי וְלָֽא־ כָהֲלִ֥ין פְּשַֽׁר־ מִלְּתָ֖א לְהַחֲוָיָֽה׃"
+pericope: "[[Dan.5.13 Daniel Interprets the Handwriting|Daniel Interprets the Handwriting]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 5
+book/chapter: "[[Dan.5|Daniel 5]]"
+chronological_order: 790
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BELSHAZZAR|BELSHAZZAR]]"
+- "[[topic SORCERY|SORCERY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H3705]]"
+- "[[H5954]]"
+- "[[H6925]]"
+- "[[H9030]]"
+- "[[H2445]]"
+- "[[H9010]]"
+- "[[H0826]]"
+- "[[H1768]]"
+- "[[H9014]]"
+- "[[H3792]]"
+- "[[H1836]]"
+- "[[H7123]]"
+- "[[H6591]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H3046]]"
+- "[[H3809]]"
+- "[[H3546]]"
+- "[[H4406]]"
+- "[[H2324]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 5:15**<big><big>[[Dan.5.13 Daniel Interprets the Handwriting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now the wise [men], the astrologers, have been brought in before me, that they should read this writing, and make known unto me the interpretation thereof: but they could not shew the interpretation of the thing:
 <small><sub>**BSB:**</sub></small>
 Now the wise men and enchanters were brought before me to read this inscription and interpret it for me, but they could not give its interpretation.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וּ]][[H3705\|כְעַ֞ן]] [[H5954\|הֻעַ֣לּוּ]] [[H6925\|קָֽדָמַ֗]][[H9030\|י]] [[H2445\|חַכִּֽימַיָּ]][[H9010\|א֙]] [[H0826\|אָֽשְׁפַיָּ֔]][[H9010\|א]] [[H1768\|דִּֽי]][[H9014\|־]] [[H3792\|כְתָבָ֤]][[H9010\|ה]] [[H1836\|דְנָה֙]] [[H7123\|יִקְר֔וֹן]] [[H9002\|וּ]][[H6591\|פִשְׁרֵ֖]][[H9023\|הּ]] [[H9005\|לְ]][[H3046\|הוֹדָעֻתַ֑]][[H9030\|נִי]] [[H9002\|וְ]][[H3809\|לָֽא]][[H9014\|־]] [[H3546\|כָהֲלִ֥ין]] [[H6591\|פְּשַֽׁר]][[H9014\|־]] [[H4406\|מִלְּתָ֖]][[H9010\|א]] [[H9005\|לְ]][[H2324\|הַחֲוָיָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BELSHAZZAR|BELSHAZZAR]] • [[topic SORCERY|SORCERY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.14|<< Daniel 5:14]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.16|Daniel 5:16 >>]]</td></tr></table>
 

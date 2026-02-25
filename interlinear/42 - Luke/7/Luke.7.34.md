@@ -1,10 +1,60 @@
+---
+title: Luke 7:34
+type: Verse
+kjv: "The Son of man is come eating and drinking; and ye say, Behold a gluttonous man, and a winebibber, a friend of publicans and sinners!"
+bsb: "The Son of Man came eating and drinking, and you say, ‘Look at this glutton and drunkard, a friend of tax collectors and sinners!’"
+jesus_said: "The Son of man is come eating and drinking; and ye say, Behold a gluttonous man, and a winebibber, a friend of publicans and sinners!"
+greek: "ἐλήλυθεν ὁ υἱὸς τοῦ ἀνθρώπου ἐσθίων καὶ πίνων, καὶ λέγετε· ἰδοὺ ἄνθρωπος φάγος καὶ οἰνοπότης, φίλος τελωνῶν καὶ ἁμαρτωλῶν."
+pericope: "[[Luke.7.24 Jesus Testifies about John|Jesus Testifies about John]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ASCETICISM|ASCETICISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WINEBIBBER (A WINO)|WINEBIBBER (A WINO)]]"
+strongs:
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G2068]]"
+- "[[G2532]]"
+- "[[G4095]]"
+- "[[G3004G]]"
+- "[[G2400]]"
+- "[[G5314]]"
+- "[[G3630]]"
+- "[[G5384]]"
+- "[[G5057]]"
+- "[[G0268]]"
+texts:
+- NKO
+---
+
 **Luke 7:34**<big><big>[[Luke.7.24 Jesus Testifies about John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The Son of man is come eating and drinking; and ye say, Behold a gluttonous man, and a winebibber, a friend of publicans and sinners!
 <small><sub>**BSB:**</sub></small>
 The Son of Man came eating and drinking, and you say, ‘Look at this glutton and drunkard, a friend of tax collectors and sinners!’
-<small><sub>**Literal:**</sub></small>
-Has come the Son <the> of Man eating and drinking, and you say; Behold a man a glutton and a drunkard, a friend of tax collectors and of sinners.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.33|<< Luke 7:33]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.35|Luke 7:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|ἐλήλυθεν]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G2068\|ἐσθίων]]  [[G2532\|καὶ]]  [[G4095\|πίνων,]]  [[G2532\|καὶ]]  [[G3004G\|λέγετε·]]  [[G2400\|ἰδοὺ]]  [[G0444\|ἄνθρωπος]]  [[G5314\|φάγος]]  [[G2532\|καὶ]]  [[G3630\|οἰνοπότης,]]  [[G5384\|φίλος]]  [[G5057\|τελωνῶν]]  [[G2532\|καὶ]]  [[G0268\|ἁμαρτωλῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASCETICISM|ASCETICISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WINEBIBBER (A WINO)|WINEBIBBER (A WINO)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.33|<< Luke 7:33]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.35|Luke 7:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

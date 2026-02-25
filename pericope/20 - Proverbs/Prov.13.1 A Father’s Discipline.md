@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Father’s Discipline
+type: Pericope
 pericope: "[[Prov.13.1 A Father’s Discipline|A Father’s Discipline]]"
-verse_count: 25
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 13
 book/chapter: "[[Prov.13|Proverbs 13]]"
-genre:
+chronological_order: 468
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 25
 verses:
 - "[[Prov.13.1]]"
 - "[[Prov.13.2]]"
@@ -43,7 +50,7 @@ verses:
 - "[[Prov.13.25]]"
 ---
 
-[[Prov.13|Proverbs 13:1 - Proverbs 13:25]]
+<small>[[Prov.13|Proverbs 13:1-25]]</small>
 *A Father’s Discipline*
 
 [[Prov.13.1|1]] A wise son \[heareth\] his father’s instruction: but a scorner heareth not rebuke.

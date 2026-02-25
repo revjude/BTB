@@ -1,8 +1,66 @@
+---
+title: Leviticus 11:5
+type: Verse
+kjv: "And the coney, because he cheweth the cud, but divideth not the hoof; he is unclean unto you."
+bsb: "The rock badger, though it chews the cud, does not have a divided hoof; it is unclean for you."
+hebrew: "וְאֶת־ הַשָּׁפָ֗ן כִּֽי־ מַעֲלֵ֤ה גֵרָה֙ ה֔וּא וּפַרְסָ֖ה לֹ֣א יַפְרִ֑יס טָמֵ֥א ה֖וּא לָכֶֽם׃"
+pericope: "[[Lev.11.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 11
+book/chapter: "[[Lev.11|Leviticus 11]]"
+chronological_order: 143
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CONEY|CONEY]]"
+- "[[topic CUD|CUD]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic GOAT|GOAT]]"
+- "[[topic HOOF|HOOF]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8227A]]"
+- "[[H3588A]]"
+- "[[H5927M]]"
+- "[[H1625]]"
+- "[[H1931]]"
+- "[[H6541]]"
+- "[[H3808]]"
+- "[[H6536]]"
+- "[[H2931]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 11:5**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the coney, because he cheweth the cud, but divideth not the hoof; he [is] unclean unto you.
 <small><sub>**BSB:**</sub></small>
 The rock badger, though it chews the cud, does not have a divided hoof; it is unclean for you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8227A\|שָּׁפָ֗ן]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5927M\|מַעֲלֵ֤ה]] [[H1625\|גֵרָה֙]] [[H1931\|ה֔וּא]] [[H9002\|וּ]][[H6541\|פַרְסָ֖ה]] [[H3808\|לֹ֣א]] [[H6536\|יַפְרִ֑יס]] [[H2931\|טָמֵ֥א]] [[H1931\|ה֖וּא]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONEY|CONEY]] • [[topic CUD|CUD]] • [[topic FOOD|FOOD]] • [[topic GOAT|GOAT]] • [[topic HOOF|HOOF]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.4|<< Leviticus 11:4]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.6|Leviticus 11:6 >>]]</td></tr></table>
 

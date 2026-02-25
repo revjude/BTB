@@ -1,8 +1,61 @@
+---
+title: Ezekiel 42:15
+type: Verse
+kjv: "Now when he had made an end of measuring the inner house, he brought me forth toward the gate whose prospect is toward the east, and measured it round about."
+bsb: "Now when the man had finished measuring the interior of the temple area, he led me out by the gate that faced east, and he measured the area all around:"
+hebrew: "וְכִלָּ֗ה אֶת־ מִדּוֹת֙ הַבַּ֣יִת הַפְּנִימִ֔י וְהוֹצִיאַ֙נִי֙ דֶּ֣רֶךְ הַשַּׁ֔עַר אֲשֶׁ֥ר פָּנָ֖יו דֶּ֣רֶךְ הַקָּדִ֑ים וּמְדָד֖וֹ סָבִ֥יב׀ סָבִֽיב׃"
+pericope: "[[Ezek.42.15 The Outer Measurements|The Outer Measurements]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 42
+book/chapter: "[[Ezek.42|Ezekiel 42]]"
+chronological_order: 833
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H3615G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4060A]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H6442]]"
+- "[[H3318H]]"
+- "[[H9030]]"
+- "[[H1870L]]"
+- "[[H8179G]]"
+- "[[H0834A]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H1870J]]"
+- "[[H6921]]"
+- "[[H4058]]"
+- "[[H9033]]"
+- "[[H5439G]]"
+- "[[H9015]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 42:15**<big><big>[[Ezek.42.15 The Outer Measurements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now when he had made an end of measuring the inner house, he brought me forth toward the gate whose prospect [is] toward the east, and measured it round about.
 <small><sub>**BSB:**</sub></small>
 Now when the man had finished measuring the interior of the temple area, he led me out by the gate that faced east, and he measured the area all around:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3615G\|כִלָּ֗ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4060A\|מִדּוֹת֙]] [[H9009\|הַ]][[H1004B\|בַּ֣יִת]] [[H9009\|הַ]][[H6442\|פְּנִימִ֔י]] [[H9001\|וְ]][[H3318H\|הוֹצִיאַ֙]][[H9030\|נִי֙]] [[H1870L\|דֶּ֣רֶךְ]] [[H9009\|הַ]][[H8179G\|שַּׁ֔עַר]] [[H0834A\|אֲשֶׁ֥ר]] [[H6440G\|פָּנָ֖י]][[H9023\|ו]] [[H1870J\|דֶּ֣רֶךְ]] [[H9009\|הַ]][[H6921\|קָּדִ֑ים]] [[H9001\|וּ]][[H4058\|מְדָד֖]][[H9033\|וֹ]] [[H5439G\|סָבִ֥יב]][[H9015\|׀]] [[H5439G\|סָבִֽיב]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.42.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.14|<< Ezekiel 42:14]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.16|Ezekiel 42:16 >>]]</td></tr></table>
 

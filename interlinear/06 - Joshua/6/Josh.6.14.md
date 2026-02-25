@@ -1,8 +1,58 @@
+---
+title: Joshua 6:14
+type: Verse
+kjv: "And the second day they compassed the city once, and returned into the camp: so they did six days."
+bsb: "So on the second day they marched around the city once and returned to the camp. They did this for six days."
+hebrew: "וַיָּסֹ֨בּוּ אֶת־ הָעִ֜יר בַּיּ֤וֹם הַשֵּׁנִי֙ פַּ֣עַם אַחַ֔ת וַיָּשֻׁ֖בוּ הַֽמַּחֲנֶ֑ה כֹּ֥ה עָשׂ֖וּ שֵׁ֥שֶׁת יָמִֽים׃"
+pericope: "[[Josh.6.1 The Walls of Jericho|The Walls of Jericho]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 6
+book/chapter: "[[Josh.6|Joshua 6]]"
+chronological_order: 236
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9001]]"
+- "[[H5437H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H8145]]"
+- "[[H6471]]"
+- "[[H0259]]"
+- "[[H7725G]]"
+- "[[H4264]]"
+- "[[H3541]]"
+- "[[H6213A]]"
+- "[[H8337]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 6:14**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the second day they compassed the city once, and returned into the camp: so they did six days.
 <small><sub>**BSB:**</sub></small>
 So on the second day they marched around the city once and returned to the camp. They did this for six days.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5437H\|יָּסֹ֨בּוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֜יר]] [[H9003\|בַּ]][[H3117G\|יּ֤וֹם]] [[H9009\|הַ]][[H8145\|שֵּׁנִי֙]] [[H6471\|פַּ֣עַם]] [[H0259\|אַחַ֔ת]] [[H9001\|וַ]][[H7725G\|יָּשֻׁ֖בוּ]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶ֑ה]] [[H3541\|כֹּ֥ה]] [[H6213A\|עָשׂ֖וּ]] [[H8337\|שֵׁ֥שֶׁת]] [[H3117G\|יָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.13|<< Joshua 6:13]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.15|Joshua 6:15 >>]]</td></tr></table>
 

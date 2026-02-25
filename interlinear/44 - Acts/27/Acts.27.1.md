@@ -1,10 +1,65 @@
+---
+title: Acts 27:1
+type: Verse
+kjv: "And when it was determined that we should sail into Italy, they delivered Paul and certain other prisoners unto one named Julius, a centurion of Augustus’ band."
+bsb: "When it was decided that we would sail for Italy, Paul and some other prisoners were handed over to a centurion named Julius, who belonged to the Imperial Regiment."
+greek: "Ὡς δὲ ἐκρίθη τοῦ ἀποπλεῖν ἡμᾶς εἰς τὴν Ἰταλίαν, παρεδίδουν τόν τε Παῦλον καί τινας ἑτέρους δεσμώτας ἑκατοντάρχῃ ὀνόματι Ἰουλίῳ σπείρης Σεβαστῆς."
+pericope: "[[Acts.27.1 Paul Sails for Rome|Paul Sails for Rome]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 27
+book/chapter: "[[Acts.27|Acts 27]]"
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic AUGUSTUS|AUGUSTUS]]"
+- "[[topic JULIUS|JULIUS]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic SHIP|SHIP]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+strongs:
+- "[[G5613]]"
+- "[[G1161]]"
+- "[[G2919]]"
+- "[[G3588]]"
+- "[[G0636]]"
+- "[[G3165]]"
+- "[[G1519]]"
+- "[[G2482]]"
+- "[[G3860]]"
+- "[[G5037]]"
+- "[[G3972G]]"
+- "[[G2532]]"
+- "[[G5100]]"
+- "[[G2087]]"
+- "[[G1202]]"
+- "[[G1543]]"
+- "[[G3686]]"
+- "[[G2457]]"
+- "[[G4686]]"
+- "[[G4575]]"
+texts:
+- NKO
+---
+
 **Acts 27:1**<big><big>[[Acts.27.1 Paul Sails for Rome|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when it was determined that we should sail into Italy, they delivered Paul and certain other prisoners unto [one] named Julius, a centurion of Augustus’ band.
 <small><sub>**BSB:**</sub></small>
 When it was decided that we would sail for Italy, Paul and some other prisoners were handed over to a centurion named Julius, who belonged to the Imperial Regiment.
-<small><sub>**Literal:**</sub></small>
-When now was determined <the> sailing our to <the> Italy, they were delivering <the> both Paul and certain other prisoners to a centurion named Julius of the cohort of Augustus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.32|<< Acts 26:32]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.2|Acts 27:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|Ὡς]]  [[G1161\|δὲ]]  [[G2919\|ἐκρίθη]]  [[G3588\|τοῦ]]  [[G0636\|ἀποπλεῖν]]  [[G3165\|ἡμᾶς]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2482\|Ἰταλίαν,]]  [[G3860\|παρεδίδουν]]  [[G3588\|τόν]]  [[G5037\|τε]]  [[G3972G\|Παῦλον]]  [[G2532\|καί]]  [[G5100\|τινας]]  [[G2087\|ἑτέρους]]  [[G1202\|δεσμώτας]]  [[G1543\|ἑκατοντάρχῃ]]  [[G3686\|ὀνόματι]]  [[G2457\|Ἰουλίῳ]]  [[G4686\|σπείρης]]  [[G4575\|Σεβαστῆς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic AUGUSTUS|AUGUSTUS]] • [[topic JULIUS|JULIUS]] • [[topic PAUL|PAUL]] • [[topic PRISONERS|PRISONERS]] • [[topic SHIP|SHIP]] • [[topic SOLDIERS|SOLDIERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.32|<< Acts 26:32]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.2|Acts 27:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

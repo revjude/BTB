@@ -1,8 +1,64 @@
+---
+title: Numbers 22:37
+type: Verse
+kjv: "And Balak said unto Balaam, Did I not earnestly send unto thee to call thee? wherefore camest thou not unto me? am I not able indeed to promote thee to honour?"
+bsb: "And he said to Balaam, “Did I not send you an urgent summons? Why did you not come to me? Am I really not able to reward you richly?”"
+hebrew: "וַיֹּ֨אמֶר בָּלָ֜ק אֶל־ בִּלְעָ֗ם הֲלֹא֩ שָׁלֹ֨חַ שָׁלַ֤חְתִּי אֵלֶ֙יךָ֙ לִקְרֹא־ לָ֔ךְ לָ֥מָּה לֹא־ הָלַ֖כְתָּ אֵלָ֑י הַֽאֻמְנָ֔ם לֹ֥א אוּכַ֖ל כַּבְּדֶֽךָ׃"
+pericope: "[[Num.22.22 The Angel and Balaam’s Donkey|The Angel and Balaam’s Donkey]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 22
+book/chapter: "[[Num.22|Numbers 22]]"
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1111]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1109A]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H7971G]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H7121G]]"
+- "[[H9032]]"
+- "[[H4100]]"
+- "[[H1980H]]"
+- "[[H9030]]"
+- "[[H0552]]"
+- "[[H3201]]"
+- "[[H3513G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 22:37**<big><big>[[Num.22.22 The Angel and Balaam’s Donkey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Balak said unto Balaam, Did I not earnestly send unto thee to call thee? wherefore camest thou not unto me? am I not able indeed to promote thee to honour?
 <small><sub>**BSB:**</sub></small>
 And he said to Balaam, “Did I not send you an urgent summons? Why did you not come to me? Am I really not able to reward you richly?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H1111\|בָּלָ֜ק]] [[H0413\|אֶל]][[H9014\|־]] [[H1109A\|בִּלְעָ֗ם]] [[H9008\|הֲ]][[H3808\|לֹא֩]] [[H7971G\|שָׁלֹ֨חַ]] [[H7971G\|שָׁלַ֤חְתִּי]] [[H0413\|אֵלֶ֙י]][[H9031\|ךָ֙]] [[H9005\|לִ]][[H7121G\|קְרֹא]][[H9014\|־]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H9005\|לָ֥]][[H4100\|מָּה]] [[H3808\|לֹא]][[H9014\|־]] [[H1980H\|הָלַ֖כְתָּ]] [[H0413\|אֵלָ֑]][[H9030\|י]] [[H9008\|הַֽ]][[H0552\|אֻמְנָ֔ם]] [[H3808\|לֹ֥א]] [[H3201\|אוּכַ֖ל]] [[H3513G\|כַּבְּדֶֽ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.36|<< Numbers 22:36]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.38|Numbers 22:38 >>]]</td></tr></table>
 

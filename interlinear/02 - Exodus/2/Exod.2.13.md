@@ -1,8 +1,68 @@
+---
+title: Exodus 2:13
+type: Verse
+kjv: "And when he went out the second day, behold, two men of the Hebrews strove together: and he said to him that did the wrong, Wherefore smitest thou thy fellow?"
+bsb: "The next day Moses went out and saw two Hebrews fighting. He asked the one in the wrong, “Why are you attacking your companion?”"
+hebrew: "וַיֵּצֵא֙ בַּיּ֣וֹם הַשֵּׁנִ֔י וְהִנֵּ֛ה שְׁנֵֽי־ אֲנָשִׁ֥ים עִבְרִ֖ים נִצִּ֑ים וַיֹּ֙אמֶר֙ לָֽרָשָׁ֔ע לָ֥מָּה תַכֶּ֖ה רֵעֶֽךָ׃"
+pericope: "[[Exod.2.11 The Rejection and Flight of Moses|The Rejection and Flight of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 2
+book/chapter: "[[Exod.2|Exodus 2]]"
+chronological_order: 94
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H8145]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H8147]]"
+- "[[H9014]]"
+- "[[H0582]]"
+- "[[H5680]]"
+- "[[H5327A]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H7563]]"
+- "[[H4100]]"
+- "[[H5221]]"
+- "[[H7453]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 2:13**<big><big>[[Exod.2.11 The Rejection and Flight of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he went out the second day, behold, two men of the Hebrews strove together: and he said to him that did the wrong, Wherefore smitest thou thy fellow?
 <small><sub>**BSB:**</sub></small>
 The next day Moses went out and saw two Hebrews fighting. He asked the one in the wrong, “Why are you attacking your companion?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵא֙]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֔י]] [[H9002\|וְ]][[H2009\|הִנֵּ֛ה]] [[H8147\|שְׁנֵֽי]][[H9014\|־]] [[H0582\|אֲנָשִׁ֥ים]] [[H5680\|עִבְרִ֖ים]] [[H5327A\|נִצִּ֑ים]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H9005\|לָֽ]][[H7563\|רָשָׁ֔ע]] [[H9005\|לָ֥]][[H4100\|מָּה]] [[H5221\|תַכֶּ֖ה]] [[H7453\|רֵעֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MEEKNESS|MEEKNESS]] • [[topic MOSES|MOSES]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.12|<< Exodus 2:12]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.14|Exodus 2:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

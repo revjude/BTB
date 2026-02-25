@@ -1,8 +1,59 @@
+---
+title: Exodus 40:37
+type: Verse
+kjv: "But if the cloud were not taken up, then they journeyed not till the day that it was taken up."
+bsb: "If the cloud was not lifted, they would not set out until the day it was taken up."
+hebrew: "וְאִם־ לֹ֥א יֵעָלֶ֖ה הֶעָנָ֑ן וְלֹ֣א יִסְע֔וּ עַד־ י֖וֹם הֵעָלֹתֽוֹ׃"
+pericope: "[[Exod.40.34 The Cloud and the Glory|The Cloud and the Glory]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 40
+book/chapter: "[[Exod.40|Exodus 40]]"
+chronological_order: 132
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H5927H]]"
+- "[[H9009]]"
+- "[[H6051]]"
+- "[[H5265]]"
+- "[[H5704]]"
+- "[[H3117G]]"
+- "[[H9043]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 40:37**<big><big>[[Exod.40.34 The Cloud and the Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if the cloud were not taken up, then they journeyed not till the day that it was taken up.
 <small><sub>**BSB:**</sub></small>
 If the cloud was not lifted, they would not set out until the day it was taken up.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֥א]] [[H5927H\|יֵעָלֶ֖ה]] [[H9009\|הֶ]][[H6051\|עָנָ֑ן]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H5265\|יִסְע֔וּ]] [[H5704\|עַד]][[H9014\|־]] [[H3117G\|י֖וֹם]] [[H5927H\|הֵעָלֹתֽ]][[H9043\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic GOD|GOD]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.36|<< Exodus 40:36]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.38|Exodus 40:38 >>]]</td></tr></table>
 

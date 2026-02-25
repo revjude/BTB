@@ -1,8 +1,56 @@
+---
+title: Psalm 119:157
+type: Verse
+kjv: "Many are my persecutors and mine enemies; yet do I not decline from thy testimonies."
+bsb: "Though my persecutors and foes are many, I have not turned from Your testimonies."
+hebrew: "רַ֭בִּים רֹדְפַ֣י וְצָרָ֑י מֵ֝עֵדְוֹתֶ֗יךָ לֹ֣א נָטִֽיתִי׃"
+pericope: "[[Ps.119.153 Your Word Is a Lamp to My Feet - RESH|Your Word Is a Lamp to My Feet - RESH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H7227A]]"
+- "[[H7291]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H6862C]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H5715]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H5186]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:157**<big><big>[[Ps.119.153 Your Word Is a Lamp to My Feet - RESH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Many [are] my persecutors and mine enemies; [yet] do I not decline from thy testimonies.
 <small><sub>**BSB:**</sub></small>
 Though my persecutors and foes are many, I have not turned from Your testimonies.
+<small><sub>**Hebrew:**</sub></small>
+[[H7227A\|רַ֭בִּים]] [[H7291\|רֹדְפַ֣]][[H9030\|י]] [[H9002\|וְ]][[H6862C\|צָרָ֑]][[H9020\|י]] [[H9006\|מֵ֝]][[H5715\|עֵדְוֹתֶ֗י]][[H9021\|ךָ]] [[H3808\|לֹ֣א]] [[H5186\|נָטִֽיתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSECUTION|PERSECUTION]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.157|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.156|<< Psalms 119:156]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.158|Psalms 119:158 >>]]</td></tr></table>
 

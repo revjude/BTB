@@ -1,8 +1,68 @@
+---
+title: Genesis 48:1
+type: Verse
+kjv: "And it came to pass after these things, that one told Joseph, Behold, thy father is sick: and he took with him his two sons, Manasseh and Ephraim."
+bsb: "Some time later Joseph was told, “Your father is ill.” So he set out with his two sons, Manasseh and Ephraim."
+hebrew: "וַיְהִ֗י אַחֲרֵי֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה וַיֹּ֣אמֶר לְיוֹסֵ֔ף הִנֵּ֥ה אָבִ֖יךָ חֹלֶ֑ה וַיִּקַּ֞ח אֶת־ שְׁנֵ֤י בָנָיו֙ עִמּ֔וֹ אֶת־ מְנַשֶּׁ֖ה וְאֶת־ אֶפְרָֽיִם׃"
+pericope: "[[Gen.48.1 Jacob Blesses Ephraim and Manasseh|Jacob Blesses Ephraim and Manasseh]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 48
+book/chapter: "[[Gen.48|Genesis 48]]"
+chronological_order: 90
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic MANASSEH|MANASSEH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0310A]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H0428]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H3130G]]"
+- "[[H2009]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H2470H]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8147]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H4519G]]"
+- "[[H9002]]"
+- "[[H0669G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 48:1**<big><big>[[Gen.48.1 Jacob Blesses Ephraim and Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass after these things, that [one] told Joseph, Behold, thy father [is] sick: and he took with him his two sons, Manasseh and Ephraim.
 <small><sub>**BSB:**</sub></small>
 Some time later Joseph was told, “Your father is ill.” So he set out with his two sons, Manasseh and Ephraim.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H0310A\|אַחֲרֵי֙]] [[H9009\|הַ]][[H1697I\|דְּבָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|לְ]][[H3130G\|יוֹסֵ֔ף]] [[H2009\|הִנֵּ֥ה]] [[H0001G\|אָבִ֖י]][[H9021\|ךָ]] [[H2470H\|חֹלֶ֑ה]] [[H9001\|וַ]][[H3947G\|יִּקַּ֞ח]] [[H0853\|אֶת]][[H9014\|־]] [[H8147\|שְׁנֵ֤י]] [[H1121A\|בָנָי]][[H9023\|ו֙]] [[H5973A\|עִמּ֔]][[H9033\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H4519G\|מְנַשֶּׁ֖ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0669G\|אֶפְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MANASSEH|MANASSEH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.48.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.31|<< Genesis 47:31]]</td><td align="center" style="border:none;">[[Gen.48|Genesis 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.48.2|Genesis 48:2 >>]]</td></tr></table>
 

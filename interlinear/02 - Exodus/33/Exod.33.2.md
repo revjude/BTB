@@ -1,8 +1,66 @@
+---
+title: Exodus 33:2
+type: Verse
+kjv: "And I will send an angel before thee; and I will drive out the Canaanite, the Amorite, and the Hittite, and the Perizzite, the Hivite, and the Jebusite:"
+bsb: "And I will send an angel before you, and I will drive out the Canaanites, Amorites, Hittites, Perizzites, Hivites, and Jebusites."
+hebrew: "וְשָׁלַחְתִּ֥י לְפָנֶ֖יךָ מַלְאָ֑ךְ וְגֵֽרַשְׁתִּ֗י אֶת־ הַֽכְּנַעֲנִי֙ הָֽאֱמֹרִ֔י וְהַֽחִתִּי֙ וְהַפְּרִזִּ֔י הַחִוִּ֖י וְהַיְבוּסִֽי׃"
+pericope: "[[Exod.33.1 The Command to Leave Sinai|The Command to Leave Sinai]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 33
+book/chapter: "[[Exod.33|Exodus 33]]"
+chronological_order: 125
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H4397H]]"
+- "[[H1644G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3669A]]"
+- "[[H0567]]"
+- "[[H9002]]"
+- "[[H2850]]"
+- "[[H6522]]"
+- "[[H2340]]"
+- "[[H2983G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 33:2**<big><big>[[Exod.33.1 The Command to Leave Sinai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will send an angel before thee; and I will drive out the Canaanite, the Amorite, and the Hittite, and the Perizzite, the Hivite, and the Jebusite:
 <small><sub>**BSB:**</sub></small>
 And I will send an angel before you, and I will drive out the Canaanites, Amorites, Hittites, Perizzites, Hivites, and Jebusites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7971G\|שָׁלַחְתִּ֥י]] [[H9005\|לְ]][[H6440G\|פָנֶ֖י]][[H9021\|ךָ]] [[H4397H\|מַלְאָ֑ךְ]] [[H9001\|וְ]][[H1644G\|גֵֽרַשְׁתִּ֗י]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H3669A\|כְּנַעֲנִי֙]] [[H9009\|הָֽ]][[H0567\|אֱמֹרִ֔י]] [[H9002\|וְ]][[H9009\|הַֽ]][[H2850\|חִתִּי֙]] [[H9002\|וְ]][[H9009\|הַ]][[H6522\|פְּרִזִּ֔י]] [[H9009\|הַ]][[H2340\|חִוִּ֖י]] [[H9002\|וְ]][[H9009\|הַ]][[H2983G\|יְבוּסִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CANAANITES|CANAANITES]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.33.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.33.1|<< Exodus 33:1]]</td><td align="center" style="border:none;">[[Exod.33|Exodus 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.33.3|Exodus 33:3 >>]]</td></tr></table>
 

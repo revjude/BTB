@@ -1,8 +1,68 @@
+---
+title: 2 Samuel 3:29
+type: Verse
+kjv: "Let it rest on the head of Joab, and on all his father’s house; and let there not fail from the house of Joab one that hath an issue, or that is a leper, or that leaneth on a staff, or that falleth on the sword, or that lacketh bread."
+bsb: "May it whirl over the head of Joab and over the entire house of his father, and may the house of Joab never be without one having a discharge or skin disease, or one who leans on a staff or falls by the sword or lacks food.”"
+hebrew: "יָחֻ֙לוּ֙ עַל־ רֹ֣אשׁ יוֹאָ֔ב וְאֶ֖ל כָּל־ בֵּ֣ית אָבִ֑יו וְֽאַל־ יִכָּרֵ֣ת מִבֵּ֣ית יוֹאָ֡ב זָ֠ב וּמְצֹרָ֞ע וּמַחֲזִ֥יק בַּפֶּ֛לֶךְ וְנֹפֵ֥ל בַּחֶ֖רֶב וַחֲסַר־ לָֽחֶם׃"
+pericope: "[[2Sam.3.22 Joab Murders Abner|Joab Murders Abner]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 3
+book/chapter: "[[2Sam.3|2 Samuel 3]]"
+chronological_order: 331
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABNER|ABNER]]"
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic IMPRECATION|IMPRECATION]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[H2342J]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7218A]]"
+- "[[H3097G]]"
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H3605]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H0408]]"
+- "[[H3772J]]"
+- "[[H9006]]"
+- "[[H2100H]]"
+- "[[H6879]]"
+- "[[H2388H]]"
+- "[[H9003]]"
+- "[[H6418]]"
+- "[[H5307G]]"
+- "[[H2719]]"
+- "[[H2638]]"
+- "[[H3899H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 3:29**<big><big>[[2Sam.3.22 Joab Murders Abner|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let it rest on the head of Joab, and on all his father’s house; and let there not fail from the house of Joab one that hath an issue, or that is a leper, or that leaneth on a staff, or that falleth on the sword, or that lacketh bread.
 <small><sub>**BSB:**</sub></small>
 May it whirl over the head of Joab and over the entire house of his father, and may the house of Joab never be without one having a discharge or skin disease, or one who leans on a staff or falls by the sword or lacks food.”
+<small><sub>**Hebrew:**</sub></small>
+[[H2342J\|יָחֻ֙לוּ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹ֣אשׁ]] [[H3097G\|יוֹאָ֔ב]] [[H9002\|וְ]][[H0413\|אֶ֖ל]] [[H3605\|כָּל]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H0001G\|אָבִ֑י]][[H9023\|ו]] [[H9002\|וְֽ]][[H0408\|אַל]][[H9014\|־]] [[H3772J\|יִכָּרֵ֣ת]] [[H9006\|מִ]][[H1004M\|בֵּ֣ית]] [[H3097G\|יוֹאָ֡ב]] [[H2100H\|זָ֠ב]] [[H9002\|וּ]][[H6879\|מְצֹרָ֞ע]] [[H9002\|וּ]][[H2388H\|מַחֲזִ֥יק]] [[H9003\|בַּ]][[H6418\|פֶּ֛לֶךְ]] [[H9002\|וְ]][[H5307G\|נֹפֵ֥ל]] [[H9003\|בַּ]][[H2719\|חֶ֖רֶב]] [[H9002\|וַ]][[H2638\|חֲסַר]][[H9014\|־]] [[H3899H\|לָֽחֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]] • [[topic CHIDING|CHIDING]] • [[topic IMPRECATION|IMPRECATION]] • [[topic TACT|TACT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.28|<< 2 Samuel 3:28]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.30|2 Samuel 3:30 >>]]</td></tr></table>
 

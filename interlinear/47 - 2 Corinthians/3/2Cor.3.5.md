@@ -1,10 +1,58 @@
+---
+title: 2 Corinthians 3:5
+type: Verse
+kjv: "Not that we are sufficient of ourselves to think any thing as of ourselves; but our sufficiency is of God;"
+bsb: "Not that we are competent in ourselves to claim that anything comes from us, but our competence comes from God."
+greek: "οὐχ ὅτι ἀφ᾽ ἑαυτῶν ἱκανοί ἐσμεν λογίσασθαί τι ὡς ἐξ ἑαυτῶν, ἀλλ᾽ ἡ ἱκανότης ἡμῶν ἐκ τοῦ θεοῦ,"
+pericope: "[[2Cor.3.1 Ministers of a New Covenant|Ministers of a New Covenant]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 3
+book/chapter: "[[2Cor.3|2 Corinthians 3]]"
+chronological_order: 1076
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic HUMILITY|HUMILITY]]"
+strongs:
+- "[[G3756]]"
+- "[[G3754H]]"
+- "[[G0575]]"
+- "[[G1438]]"
+- "[[G2425]]"
+- "[[G1510]]"
+- "[[G3049]]"
+- "[[G5100]]"
+- "[[G5613]]"
+- "[[G1537]]"
+- "[[G0235]]"
+- "[[G3588]]"
+- "[[G2426]]"
+- "[[G3165]]"
+- "[[G2316]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **2 Corinthians 3:5**<big><big>[[2Cor.3.1 Ministers of a New Covenant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Not that we are sufficient of ourselves to think any thing as of ourselves; but our sufficiency [is] of God;
 <small><sub>**BSB:**</sub></small>
 Not that we are competent in ourselves to claim that anything comes from us, but our competence comes from God.
-<small><sub>**Literal:**</sub></small>
-Not for from ourselves sufficient we are to reckon anything as of ourselves, but the sufficiency of us [is] of <the> God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.4|<< 2 Corinthians 3:4]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.6|2 Corinthians 3:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐχ]]  [[G3754H\|ὅτι]]  [[G0575\|ἀφ᾽]]  [[G1438\|ἑαυτῶν]]  [[G2425\|ἱκανοί]]  [[G1510\|ἐσμεν]]  [[G3049\|λογίσασθαί]]  [[G5100\|τι]]  [[G5613\|ὡς]]  [[G1537\|ἐξ]]  [[G1438\|ἑαυτῶν,]]  [[G0235\|ἀλλ᾽]]  [[G3588\|ἡ]]  [[G2426\|ἱκανότης]]  [[G3165\|ἡμῶν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic HUMILITY|HUMILITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.4|<< 2 Corinthians 3:4]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.6|2 Corinthians 3:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,68 @@
+---
+title: Jeremiah 2:8
+type: Verse
+kjv: "The priests said not, Where is the LORD? and they that handle the law knew me not: the pastors also transgressed against me, and the prophets prophesied by Baal, and walked after things that do not profit."
+bsb: "The priests did not ask, ‘Where is the LORD?’ The experts in the law no longer knew Me, and the leaders rebelled against Me. The prophets prophesied by Baal and followed useless idols."
+hebrew: "הַכֹּהֲנִ֗ים לֹ֤א אָֽמְרוּ֙ אַיֵּ֣ה יְהוָ֔ה וְתֹפְשֵׂ֤י הַתּוֹרָה֙ לֹ֣א יְדָע֔וּנִי וְהָרֹעִ֖ים פָּ֣שְׁעוּ בִ֑י וְהַנְּבִיאִים֙ נִבְּא֣וּ בַבַּ֔עַל וְאַחֲרֵ֥י לֹֽא־ יוֹעִ֖לוּ הָלָֽכוּ׃"
+pericope: "[[Jer.2.1 Israel Has Forsaken God|Israel Has Forsaken God]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 2
+book/chapter: "[[Jer.2|Jeremiah 2]]"
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BAAL|BAAL]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H3808]]"
+- "[[H0559]]"
+- "[[H0346]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H8610]]"
+- "[[H8451]]"
+- "[[H3045]]"
+- "[[H9030]]"
+- "[[H7462B]]"
+- "[[H6586]]"
+- "[[H9003]]"
+- "[[H5030]]"
+- "[[H5012]]"
+- "[[H1168A]]"
+- "[[H0310A]]"
+- "[[H9014]]"
+- "[[H3276]]"
+- "[[H1980N]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 2:8**<big><big>[[Jer.2.1 Israel Has Forsaken God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The priests said not, Where [is] the LORD? and they that handle the law knew me not: the pastors also transgressed against me, and the prophets prophesied by Baal, and walked after [things that] do not profit.
 <small><sub>**BSB:**</sub></small>
 The priests did not ask, ‘Where is the LORD?’ The experts in the law no longer knew Me, and the leaders rebelled against Me. The prophets prophesied by Baal and followed useless idols.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H3548\|כֹּהֲנִ֗ים]] [[H3808\|לֹ֤א]] [[H0559\|אָֽמְרוּ֙]] [[H0346\|אַיֵּ֣ה]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H8610\|תֹפְשֵׂ֤י]] [[H9009\|הַ]][[H8451\|תּוֹרָה֙]] [[H3808\|לֹ֣א]] [[H3045\|יְדָע֔וּ]][[H9030\|נִי]] [[H9002\|וְ]][[H9009\|הָ]][[H7462B\|רֹעִ֖ים]] [[H6586\|פָּ֣שְׁעוּ]] [[H9003\|בִ֑]][[H9030\|י]] [[H9002\|וְ]][[H9009\|הַ]][[H5030\|נְּבִיאִים֙]] [[H5012\|נִבְּא֣וּ]] [[H9003\|בַ]][[H1168A\|בַּ֔עַל]] [[H9002\|וְ]][[H0310A\|אַחֲרֵ֥י]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3276\|יוֹעִ֖לוּ]] [[H1980N\|הָלָֽכוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL|BAAL]] • [[topic BLINDNESS|BLINDNESS]] • [[topic CHURCH|CHURCH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.7|<< Jeremiah 2:7]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.9|Jeremiah 2:9 >>]]</td></tr></table>
 

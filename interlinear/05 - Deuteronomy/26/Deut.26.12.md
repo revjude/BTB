@@ -1,8 +1,74 @@
+---
+title: Deuteronomy 26:12
+type: Verse
+kjv: "When thou hast made an end of tithing all the tithes of thine increase the third year, which is the year of tithing, and hast given it unto the Levite, the stranger, the fatherless, and the widow, that they may eat within thy gates, and be filled;"
+bsb: "When you have finished laying aside a tenth of all your produce in the third year, the year of the tithe, you are to give it to the Levite, the foreigner, the fatherless, and the widow, that they may eat and be filled within your gates."
+hebrew: "כִּ֣י תְכַלֶּ֞ה לַ֠עְשֵׂר אֶת־ כָּל־ מַעְשַׂ֧ר תְּבוּאָתְךָ֛ בַּשָּׁנָ֥ה הַשְּׁלִישִׁ֖ת שְׁנַ֣ת הַֽמַּעֲשֵׂ֑ר וְנָתַתָּ֣ה לַלֵּוִ֗י לַגֵּר֙ לַיָּת֣וֹם וְלָֽאַלְמָנָ֔ה וְאָכְל֥וּ בִשְׁעָרֶ֖יךָ וְשָׂבֵֽעוּ׃"
+pericope: "[[Deut.26.1 Offering Firstfruits and Tithes|Offering Firstfruits and Tithes]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 26
+book/chapter: "[[Deut.26|Deuteronomy 26]]"
+chronological_order: 222
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic POOR|POOR]]"
+- "[[topic TITHES|TITHES]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3615G]]"
+- "[[H9005]]"
+- "[[H6237]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H4643]]"
+- "[[H8393]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H7992]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H3881]]"
+- "[[H1616]]"
+- "[[H3490]]"
+- "[[H9002]]"
+- "[[H0490]]"
+- "[[H0398]]"
+- "[[H8179H]]"
+- "[[H7646]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 26:12**<big><big>[[Deut.26.1 Offering Firstfruits and Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou hast made an end of tithing all the tithes of thine increase the third year, [which is] the year of tithing, and hast given [it] unto the Levite, the stranger, the fatherless, and the widow, that they may eat within thy gates, and be filled;
 <small><sub>**BSB:**</sub></small>
 When you have finished laying aside a tenth of all your produce in the third year, the year of the tithe, you are to give it to the Levite, the foreigner, the fatherless, and the widow, that they may eat and be filled within your gates.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3615G\|תְכַלֶּ֞ה]] [[H9005\|לַ֠]][[H6237\|עְשֵׂר]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4643\|מַעְשַׂ֧ר]] [[H8393\|תְּבוּאָתְ]][[H9021\|ךָ֛]] [[H9003\|בַּ]][[H8141\|שָּׁנָ֥ה]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁ֖ת]] [[H8141\|שְׁנַ֣ת]] [[H9009\|הַֽ]][[H4643\|מַּעֲשֵׂ֑ר]] [[H9001\|וְ]][[H5414G\|נָתַתָּ֣ה]] [[H9005\|לַ]][[H3881\|לֵּוִ֗י]] [[H9005\|לַ]][[H1616\|גֵּר֙]] [[H9005\|לַ]][[H3490\|יָּת֣וֹם]] [[H9002\|וְ]][[H9005\|לָֽ]][[H0490\|אַלְמָנָ֔ה]] [[H9001\|וְ]][[H0398\|אָכְל֥וּ]] [[H9003\|בִ]][[H8179H\|שְׁעָרֶ֖י]][[H9021\|ךָ]] [[H9001\|וְ]][[H7646\|שָׂבֵֽעוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOSPITALITY|HOSPITALITY]] • [[topic LEVITES|LEVITES]] • [[topic ORPHAN|ORPHAN]] • [[topic POOR|POOR]] • [[topic TITHES|TITHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.26.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.26.11|<< Deuteronomy 26:11]]</td><td align="center" style="border:none;">[[Deut.26|Deuteronomy 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.26.13|Deuteronomy 26:13 >>]]</td></tr></table>
 

@@ -1,10 +1,54 @@
+---
+title: Mark 15:26
+type: Verse
+kjv: "And the superscription of his accusation was written over, THE KING OF THE JEWS."
+bsb: "And the charge inscribed against Him read: THE KING OF THE JEWS."
+greek: "καὶ ἦν ἡ ἐπιγραφὴ τῆς αἰτίας αὐτοῦ ἐπιγεγραμμένη· ὁ βασιλεὺς τῶν Ἰουδαίων."
+pericope: "[[Mark.15.21 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 15
+book/chapter: "[[Mark.15|Mark 15]]"
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic INSCRIPTIONS|INSCRIPTIONS]]"
+- "[[topic IRONY|IRONY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SUPERSCRIPTION (INSCRIPTION)|SUPERSCRIPTION (INSCRIPTION)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G1923]]"
+- "[[G0156]]"
+- "[[G0846]]"
+- "[[G1924]]"
+- "[[G0935]]"
+- "[[G2453]]"
+texts:
+- NKO
+---
+
 **Mark 15:26**<big><big>[[Mark.15.21 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the superscription of his accusation was written over, THE KING OF THE JEWS.
 <small><sub>**BSB:**</sub></small>
 And the charge inscribed against Him read: THE KING OF THE JEWS.
-<small><sub>**Literal:**</sub></small>
-And there was the inscription of the accusation against Him written: The King of the Jews.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.25|<< Mark 15:25]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.27|Mark 15:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1510\|ἦν]]  [[G3588\|ἡ]]  [[G1923\|ἐπιγραφὴ]]  [[G3588\|τῆς]]  [[G0156\|αἰτίας]]  [[G0846\|αὐτοῦ]]  [[G1924\|ἐπιγεγραμμένη·]]  [[G3588\|ὁ]]  [[G0935\|βασιλεὺς]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic INSCRIPTIONS|INSCRIPTIONS]] • [[topic IRONY|IRONY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SUPERSCRIPTION (INSCRIPTION)|SUPERSCRIPTION (INSCRIPTION)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.25|<< Mark 15:25]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.27|Mark 15:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

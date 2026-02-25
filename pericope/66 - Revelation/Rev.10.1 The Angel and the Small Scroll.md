@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Angel and the Small Scroll
+type: Pericope
 pericope: "[[Rev.10.1 The Angel and the Small Scroll|The Angel and the Small Scroll]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 10
 book/chapter: "[[Rev.10|Revelation 10]]"
-genre:
+chronological_order: 1177
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 11
 verses:
 - "[[Rev.10.1]]"
 - "[[Rev.10.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Rev.10.11]]"
 ---
 
-[[Rev.10|Revelation 10:1 - Revelation 10:11]]
+<small>[[Rev.10|Revelation 10:1-11]]</small>
 *The Angel and the Small Scroll*
 
 [[Rev.10.1|1]] And I saw another mighty angel come down from heaven, clothed with a cloud: and a rainbow \[was\] upon his head, and his face \[was\] as it were the sun, and his feet as pillars of fire:

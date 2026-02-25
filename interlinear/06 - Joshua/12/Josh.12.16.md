@@ -1,8 +1,46 @@
+---
+title: Joshua 12:16
+type: Verse
+kjv: "The king of Makkedah, one; the king of Bethel, one;"
+bsb: "the king of Makkedah, one; the king of Bethel, one;"
+hebrew: "מֶ֤לֶךְ מַקֵּדָה֙ אֶחָ֔ד מֶ֥לֶךְ בֵּֽית־ אֵ֖ל אֶחָֽד׃"
+pericope: "[[Josh.12.7 The Kings Defeated West of the Jordan|The Kings Defeated West of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 12
+book/chapter: "[[Josh.12|Joshua 12]]"
+chronological_order: 242
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic MAKKEDAH|MAKKEDAH]]"
+strongs:
+- "[[H4428G]]"
+- "[[H4719]]"
+- "[[H0259]]"
+- "[[H1008G]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 12:16**<big><big>[[Josh.12.7 The Kings Defeated West of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The king of Makkedah, one; the king of Bethel, one;
 <small><sub>**BSB:**</sub></small>
 the king of Makkedah, one; the king of Bethel, one;
+<small><sub>**Hebrew:**</sub></small>
+[[H4428G\|מֶ֤לֶךְ]] [[H4719\|מַקֵּדָה֙]] [[H0259\|אֶחָ֔ד]] [[H4428G\|מֶ֥לֶךְ]] [[H1008G\|בֵּֽית]][[H9014\|־]] [[H1008G\|אֵ֖ל]] [[H0259\|אֶחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MAKKEDAH|MAKKEDAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.12.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.12.15|<< Joshua 12:15]]</td><td align="center" style="border:none;">[[Josh.12|Joshua 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.12.17|Joshua 12:17 >>]]</td></tr></table>
 

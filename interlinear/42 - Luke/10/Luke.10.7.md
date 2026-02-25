@@ -1,10 +1,70 @@
+---
+title: Luke 10:7
+type: Verse
+kjv: "And in the same house remain, eating and drinking such things as they give: for the labourer is worthy of his hire. Go not from house to house."
+bsb: "Stay at the same house, eating and drinking whatever you are offered. For the worker is worthy of his wages. Do not move around from house to house."
+jesus_said: "And in the same house remain, eating and drinking such things as they give: for the labourer is worthy of his hire. Go not from house to house."
+greek: "ἐν αὐτῇ δὲ τῇ οἰκίᾳ μένετε ἐσθίοντες καὶ πίνοντες τὰ παρ᾽ αὐτῶν· ἄξιος γὰρ ὁ ἐργάτης τοῦ μισθοῦ αὐτοῦ ἐστίν. μὴ μεταβαίνετε ἐξ οἰκίας εἰς οἰκίαν."
+pericope: "[[Luke.10.1 Jesus Sends the Seventy-Two|Jesus Sends the Seventy-Two]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 10
+book/chapter: "[[Luke.10|Luke 10]]"
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic EMPLOYEE|EMPLOYEE]]"
+- "[[topic EMPLOYER|EMPLOYER]]"
+- "[[topic GUEST|GUEST]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LABOR|LABOR]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SEVENTY|SEVENTY]]"
+- "[[topic WAGES|WAGES]]"
+strongs:
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3614G]]"
+- "[[G3306]]"
+- "[[G2068]]"
+- "[[G2532]]"
+- "[[G4095]]"
+- "[[G3844]]"
+- "[[G0514]]"
+- "[[G1063]]"
+- "[[G2040]]"
+- "[[G3408]]"
+- "[[G1510]]"
+- "[[G3361]]"
+- "[[G3327]]"
+- "[[G1537]]"
+- "[[G1519]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 10:7**<big><big>[[Luke.10.1 Jesus Sends the Seventy-Two|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And in the same house remain, eating and drinking such things as they give: for the labourer is worthy of his hire. Go not from house to house.
 <small><sub>**BSB:**</sub></small>
 Stay at the same house, eating and drinking whatever you are offered. For the worker is worthy of his wages. Do not move around from house to house.
-<small><sub>**Literal:**</sub></small>
-In [the] same now <the> house do remain eating and drinking the [things supplied] by them; worthy [is] for the workman of the wages of him is. Not do move from house to house.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.6|<< Luke 10:6]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.8|Luke 10:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G0846\|αὐτῇ]]  [[G1161\|δὲ]]  [[G3588\|τῇ]]  [[G3614G\|οἰκίᾳ]]  [[G3306\|μένετε]]  [[G2068\|ἐσθίοντες]]  [[G2532\|καὶ]]  [[G4095\|πίνοντες]]  [[G3588\|τὰ]]  [[G3844\|παρ᾽]]  [[G0846\|αὐτῶν·]]  [[G0514\|ἄξιος]]  [[G1063\|γὰρ]]  [[G3588\|ὁ]]  [[G2040\|ἐργάτης]]  [[G3588\|τοῦ]]  [[G3408\|μισθοῦ]]  [[G0846\|αὐτοῦ]]  [[G1510\|ἐστίν.]]  [[G3361\|μὴ]]  [[G3327\|μεταβαίνετε]]  [[G1537\|ἐξ]]  [[G3614G\|οἰκίας]]  [[G1519\|εἰς]]  [[G3614G\|οἰκίαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EMPLOYEE|EMPLOYEE]] • [[topic EMPLOYER|EMPLOYER]] • [[topic GUEST|GUEST]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LABOR|LABOR]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SERVANT|SERVANT]] • [[topic SEVENTY|SEVENTY]] • [[topic WAGES|WAGES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.6|<< Luke 10:6]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.8|Luke 10:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 10:7** is...
 > $\quad$ referencing: [[LXX.Deut.25.4|Deut 25:4]]

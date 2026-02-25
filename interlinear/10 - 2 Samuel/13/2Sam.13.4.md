@@ -1,8 +1,73 @@
+---
+title: 2 Samuel 13:4
+type: Verse
+kjv: "And he said unto him, Why art thou, being the king’s son, lean from day to day? wilt thou not tell me? And Amnon said unto him, I love Tamar, my brother Absalom’s sister."
+bsb: "and he asked Amnon, “Why are you, the son of the king, so depressed morning after morning? Won’t you tell me?” Amnon replied, “I am in love with Tamar, my brother Absalom’s sister.”"
+hebrew: "וַיֹּ֣אמֶר ל֗וֹ מַדּ֣וּעַ אַ֠תָּה כָּ֣כָה דַּ֤ל בֶּן־ הַמֶּ֙לֶךְ֙ בַּבֹּ֣קֶר בַּבֹּ֔קֶר הֲל֖וֹא תַּגִּ֣יד לִ֑י וַיֹּ֤אמֶר לוֹ֙ אַמְנ֔וֹן אֶת־ תָּמָ֗ר אֲח֛וֹת אַבְשָׁלֹ֥ם אָחִ֖י אֲנִ֥י אֹהֵֽב׃"
+pericope: "[[2Sam.13.1 Amnon and Tamar|Amnon and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic JONADAB|JONADAB]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic SEDUCTION|SEDUCTION]]"
+- "[[topic TAMAR|TAMAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H4069]]"
+- "[[H0859A]]"
+- "[[H3602]]"
+- "[[H1800]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H5046]]"
+- "[[H9030]]"
+- "[[H0550G]]"
+- "[[H0853]]"
+- "[[H8559H]]"
+- "[[H0269]]"
+- "[[H0053]]"
+- "[[H0251G]]"
+- "[[H9020]]"
+- "[[H0589]]"
+- "[[H0157G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 13:4**<big><big>[[2Sam.13.1 Amnon and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto him, Why [art] thou, [being] the king’s son, lean from day to day? wilt thou not tell me? And Amnon said unto him, I love Tamar, my brother Absalom’s sister.
 <small><sub>**BSB:**</sub></small>
 and he asked Amnon, “Why are you, the son of the king, so depressed morning after morning? Won’t you tell me?” Amnon replied, “I am in love with Tamar, my brother Absalom’s sister.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H4069\|מַדּ֣וּעַ]] [[H0859A\|אַ֠תָּה]] [[H3602\|כָּ֣כָה]] [[H1800\|דַּ֤ל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H9003\|בַּ]][[H1242\|בֹּ֣קֶר]] [[H9003\|בַּ]][[H1242\|בֹּ֔קֶר]] [[H9008\|הֲ]][[H3808\|ל֖וֹא]] [[H5046\|תַּגִּ֣יד]] [[H9005\|לִ֑]][[H9030\|י]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H0550G\|אַמְנ֔וֹן]] [[H0853\|אֶת]][[H9014\|־]] [[H8559H\|תָּמָ֗ר]] [[H0269\|אֲח֛וֹת]] [[H0053\|אַבְשָׁלֹ֥ם]] [[H0251G\|אָחִ֖]][[H9020\|י]] [[H0589\|אֲנִ֥י]] [[H0157G\|אֹהֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic JONADAB|JONADAB]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic SEDUCTION|SEDUCTION]] • [[topic TAMAR|TAMAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.3|<< 2 Samuel 13:3]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.5|2 Samuel 13:5 >>]]</td></tr></table>
 

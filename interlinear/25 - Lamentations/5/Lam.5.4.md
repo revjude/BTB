@@ -1,8 +1,51 @@
+---
+title: Lamentations 5:4
+type: Verse
+kjv: "We have drunken our water for money; our wood is sold unto us."
+bsb: "We must buy the water we drink; our wood comes at a price."
+hebrew: "מֵימֵ֙ינוּ֙ בְּכֶ֣סֶף שָׁתִ֔ינוּ עֵצֵ֖ינוּ בִּמְחִ֥יר יָבֹֽאוּ׃"
+pericope: "[[Lam.5.1 A Prayer for Restoration|A Prayer for Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 5
+book/chapter: "[[Lam.5|Lamentations 5]]"
+chronological_order: 780
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[H4325G]]"
+- "[[H9025]]"
+- "[[H9003]]"
+- "[[H3701H]]"
+- "[[H8354]]"
+- "[[H6086G]]"
+- "[[H4242]]"
+- "[[H0935P]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Lamentations 5:4**<big><big>[[Lam.5.1 A Prayer for Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We have drunken our water for money; our wood is sold unto us.
 <small><sub>**BSB:**</sub></small>
 We must buy the water we drink; our wood comes at a price.
+<small><sub>**Hebrew:**</sub></small>
+[[H4325G\|מֵימֵ֙י]][[H9025\|נוּ֙]] [[H9003\|בְּ]][[H3701H\|כֶ֣סֶף]] [[H8354\|שָׁתִ֔ינוּ]] [[H6086G\|עֵצֵ֖י]][[H9025\|נוּ]] [[H9003\|בִּ]][[H4242\|מְחִ֥יר]] [[H0935P\|יָבֹֽאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMINE|FAMINE]] • [[topic MONEY|MONEY]] • [[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.5.3|<< Lamentations 5:3]]</td><td align="center" style="border:none;">[[Lam.5|Lamentations 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.5.5|Lamentations 5:5 >>]]</td></tr></table>
 

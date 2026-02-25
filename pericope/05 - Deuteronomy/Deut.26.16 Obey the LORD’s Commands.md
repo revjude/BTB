@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Obey the LORD’s Commands
+type: Pericope
 pericope: "[[Deut.26.16 Obey the LORD’s Commands|Obey the LORD’s Commands]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 26
 book/chapter: "[[Deut.26|Deuteronomy 26]]"
-genre:
+chronological_order: 222
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 4
 verses:
 - "[[Deut.26.16]]"
 - "[[Deut.26.17]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Deut.26.19]]"
 ---
 
-[[Deut.26|Deuteronomy 26:16 - Deuteronomy 26:19]]
+<small>[[Deut.26|Deuteronomy 26:16-19]]</small>
 *Obey the LORD’s Commands*
 
 [[Deut.26.16|16]] This day the LORD thy God hath commanded thee to do these statutes and judgments: thou shalt therefore keep and do them with all thine heart, and with all thy soul.

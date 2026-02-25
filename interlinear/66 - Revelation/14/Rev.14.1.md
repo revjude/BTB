@@ -1,10 +1,74 @@
+---
+title: Revelation 14:1
+type: Verse
+kjv: "And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty and four thousand, having his Father’s name written in their foreheads."
+bsb: "Then I looked and saw the Lamb standing on Mount Zion, and with Him 144,000 who had His name and His Father’s name written on their foreheads."
+greek: "Καὶ εἶδον καὶ ἰδοὺ τὸ ἀρνίον ἑστὸς ἐπὶ τὸ ὄρος Σιὼν καὶ μετ᾽ αὐτοῦ ἀριθμός ἑκατὸν τεσσεράκοντα τέσσαρες χιλιάδες ἔχουσαι τὸ ὄνομα αὐτοῦ καὶ τὸ ὄνομα τοῦ πατρὸς αὐτοῦ γεγραμμένον ἐπὶ τῶν μετώπων αὐτῶν.¶"
+pericope: "[[Rev.14.1 The Lamb and the 144,000|The Lamb and the 144,000]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 14
+book/chapter: "[[Rev.14|Revelation 14]]"
+chronological_order: 1181
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CELIBACY|CELIBACY]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAMB OF GOD|LAMB OF GOD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic VISION|VISION]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G2400]]"
+- "[[G3588]]"
+- "[[G0721]]"
+- "[[G2476]]"
+- "[[G1909]]"
+- "[[G3735]]"
+- "[[G4622]]"
+- "[[G3326]]"
+- "[[G0846]]"
+- "[[G0706]]"
+- "[[G1540]]"
+- "[[G5062]]"
+- "[[G5064]]"
+- "[[G5505]]"
+- "[[G2192]]"
+- "[[G3686]]"
+- "[[G3962]]"
+- "[[G1125]]"
+- "[[G3359]]"
+texts:
+- NKO
+- N(k)O
+- O
+- NO
+---
+
 **Revelation 14:1**<big><big>[[Rev.14.1 The Lamb and the 144,000|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty [and] four thousand, having his Father’s name written in their foreheads.
 <small><sub>**BSB:**</sub></small>
 Then I looked and saw the Lamb standing on Mount Zion, and with Him 144,000 who had His name and His Father’s name written on their foreheads.
-<small><sub>**Literal:**</sub></small>
-And I looked and behold the Lamb standing upon <the> Mount Zion and with Him number one hundred forty four thousand having the name of Him and the name of the Father of Him written on the foreheads of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.18|<< Revelation 13:18]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.2|Revelation 14:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1492H\|εἶδον]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G3588\|τὸ]]  [[G0721\|ἀρνίον]]  [[G2476\|ἑστὸς]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G3735\|ὄρος]]  [[G4622\|Σιὼν]]  [[G2532\|καὶ]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ]]  [[G0706\|ἀριθμός]]  [[G1540\|ἑκατὸν]]  [[G5062\|τεσσεράκοντα]]  [[G5064\|τέσσαρες]]  [[G5505\|χιλιάδες]]  [[G2192\|ἔχουσαι]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G0846\|αὐτοῦ]]  [[G1125\|γεγραμμένον]]  [[G1909\|ἐπὶ]]  [[G3588\|τῶν]]  [[G3359\|μετώπων]]  [[G0846\|αὐτῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CELIBACY|CELIBACY]] • [[topic CHASTITY|CHASTITY]] • [[topic CONTINENCE|CONTINENCE]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAMB OF GOD|LAMB OF GOD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic VISION|VISION]] • [[topic ZION|ZION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.18|<< Revelation 13:18]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.2|Revelation 14:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 14:1** is...
 > $\quad$ alluding to: [[LXX.Ps.2.6|Ps 2:6]] ☩ [[LXX.Isa.59.20|Isa 59:20]]

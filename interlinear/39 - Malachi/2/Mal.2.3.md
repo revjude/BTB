@@ -1,8 +1,61 @@
+---
+title: Malachi 2:3
+type: Verse
+kjv: "Behold, I will corrupt your seed, and spread dung upon your faces, even the dung of your solemn feasts; and one shall take you away with it."
+bsb: "Behold, I will rebuke your descendants, and I will spread dung on your faces, the waste from your feasts, and you will be carried off with it."
+hebrew: "הִנְנִ֨י גֹעֵ֤ר לָכֶם֙ אֶת־ הַזֶּ֔רַע וְזֵרִ֤יתִי פֶ֙רֶשׁ֙ עַל־ פְּנֵיכֶ֔ם פֶּ֖רֶשׁ חַגֵּיכֶ֑ם וְנָשָׂ֥א אֶתְכֶ֖ם אֵלָֽיו׃"
+pericope: "[[Mal.2.1 A Warning to the Priests|A Warning to the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 2
+book/chapter: "[[Mal.2|Malachi 2]]"
+chronological_order: 927
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H1605]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2233H]]"
+- "[[H9001]]"
+- "[[H2219]]"
+- "[[H6569]]"
+- "[[H5921A]]"
+- "[[H6440H]]"
+- "[[H9026]]"
+- "[[H2282]]"
+- "[[H5375H]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 2:3**<big><big>[[Mal.2.1 A Warning to the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will corrupt your seed, and spread dung upon your faces, [even] the dung of your solemn feasts; and [one] shall take you away with it.
 <small><sub>**BSB:**</sub></small>
 Behold, I will rebuke your descendants, and I will spread dung on your faces, the waste from your feasts, and you will be carried off with it.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H1605\|גֹעֵ֤ר]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2233H\|זֶּ֔רַע]] [[H9001\|וְ]][[H2219\|זֵרִ֤יתִי]] [[H6569\|פֶ֙רֶשׁ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פְּנֵי]][[H9026\|כֶ֔ם]] [[H6569\|פֶּ֖רֶשׁ]] [[H2282\|חַגֵּי]][[H9026\|כֶ֑ם]] [[H9001\|וְ]][[H5375H\|נָשָׂ֥א]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H0413\|אֵלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.2.2|<< Malachi 2:2]]</td><td align="center" style="border:none;">[[Mal.2|Malachi 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.2.4|Malachi 2:4 >>]]</td></tr></table>
 

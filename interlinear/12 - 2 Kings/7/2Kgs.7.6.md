@@ -1,8 +1,74 @@
+---
+title: 2 Kings 7:6
+type: Verse
+kjv: "For the Lord had made the host of the Syrians to hear a noise of chariots, and a noise of horses, even the noise of a great host: and they said one to another, Lo, the king of Israel hath hired against us the kings of the Hittites, and the kings of the Egyptians, to come upon us."
+bsb: "For the Lord had caused the Arameans to hear the sound of chariots, horses, and a great army, so that they said to one another, “Look, the king of Israel must have hired the kings of the Hittites and Egyptians to attack us.”"
+hebrew: "וַאדֹנָ֞י הִשְׁמִ֣יעַ׀ אֶת־ מַחֲנֵ֣ה אֲרָ֗ם ק֥וֹל רֶ֙כֶב֙ ק֣וֹל ס֔וּס ק֖וֹל חַ֣יִל גָּד֑וֹל וַיֹּאמְר֞וּ אִ֣ישׁ אֶל־ אָחִ֗יו הִנֵּ֣ה שָֽׂכַר־ עָלֵינוּ֩ מֶ֨לֶךְ יִשְׂרָאֵ֜ל אֶת־ מַלְכֵ֧י הַחִתִּ֛ים וְאֶת־ מַלְכֵ֥י מִצְרַ֖יִם לָב֥וֹא עָלֵֽינוּ׃"
+pericope: "[[2Kgs.7.3 The Syrians Flee|The Syrians Flee]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 7
+book/chapter: "[[2Kgs.7|2 Kings 7]]"
+chronological_order: 579
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HITTITES|HITTITES]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PANIC|PANIC]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0136]]"
+- "[[H8085G]]"
+- "[[H9015]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4264]]"
+- "[[H0758I]]"
+- "[[H6963H]]"
+- "[[H7393G]]"
+- "[[H5483M]]"
+- "[[H2428A]]"
+- "[[H1419A]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0376I]]"
+- "[[H0413]]"
+- "[[H0251I]]"
+- "[[H9023]]"
+- "[[H2009]]"
+- "[[H7936B]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H9009]]"
+- "[[H2850]]"
+- "[[H4714G]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 7:6**<big><big>[[2Kgs.7.3 The Syrians Flee|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the Lord had made the host of the Syrians to hear a noise of chariots, and a noise of horses, [even] the noise of a great host: and they said one to another, Lo, the king of Israel hath hired against us the kings of the Hittites, and the kings of the Egyptians, to come upon us.
 <small><sub>**BSB:**</sub></small>
 For the Lord had caused the Arameans to hear the sound of chariots, horses, and a great army, so that they said to one another, “Look, the king of Israel must have hired the kings of the Hittites and Egyptians to attack us.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0136\|אדֹנָ֞י]] [[H8085G\|הִשְׁמִ֣יעַ]][[H9015\|׀]] [[H0853\|אֶת]][[H9014\|־]] [[H4264\|מַחֲנֵ֣ה]] [[H0758I\|אֲרָ֗ם]] [[H6963H\|ק֥וֹל]] [[H7393G\|רֶ֙כֶב֙]] [[H6963H\|ק֣וֹל]] [[H5483M\|ס֔וּס]] [[H6963H\|ק֖וֹל]] [[H2428A\|חַ֣יִל]] [[H1419A\|גָּד֑וֹל]] [[H9001\|וַ]][[H0559\|יֹּאמְר֞וּ]] [[H0376I\|אִ֣ישׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H0251I\|אָחִ֗י]][[H9023\|ו]] [[H2009\|הִנֵּ֣ה]] [[H7936B\|שָֽׂכַר]][[H9014\|־]] [[H5921A\|עָלֵי]][[H9035\|נוּ֩]] [[H4428G\|מֶ֨לֶךְ]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מַלְכֵ֧י]] [[H9009\|הַ]][[H2850\|חִתִּ֛ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מַלְכֵ֥י]] [[H4714G\|מִצְרַ֖יִם]] [[H9005\|לָ]][[H0935G\|ב֥וֹא]] [[H5921A\|עָלֵֽי]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HITTITES|HITTITES]] • [[topic MIRACLES|MIRACLES]] • [[topic PANIC|PANIC]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.7.5|<< 2 Kings 7:5]]</td><td align="center" style="border:none;">[[2Kgs.7|2 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7.7|2 Kings 7:7 >>]]</td></tr></table>
 

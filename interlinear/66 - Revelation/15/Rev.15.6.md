@@ -1,10 +1,69 @@
+---
+title: Revelation 15:6
+type: Verse
+kjv: "And the seven angels came out of the temple, having the seven plagues, clothed in pure and white linen, and having their breasts girded with golden girdles."
+bsb: "And out of the temple came the seven angels with the seven plagues, dressed in clean and bright linen and girded with golden sashes around their chests."
+greek: "καὶ ἐξῆλθον οἱ ἑπτὰ ἄγγελοι οἱ ἔχοντες τὰς ἑπτὰ πληγὰς ἐκ τοῦ ναοῦ οἳ ἦσαν ἐνδεδυμένοι λίνον καθαρὸν καὶ λαμπρὸν καὶ περιεζωσμένοι περὶ τὰ στήθη ζώνας χρυσᾶς."
+pericope: "[[Rev.15.5 Preparation for Judgment|Preparation for Judgment]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 15
+book/chapter: "[[Rev.15|Revelation 15]]"
+chronological_order: 1182
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic GIRDLE|GIRDLE]]"
+- "[[topic LINEN|LINEN]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1831]]"
+- "[[G3588]]"
+- "[[G2033]]"
+- "[[G0032G]]"
+- "[[G2192]]"
+- "[[G4127]]"
+- "[[G1537]]"
+- "[[G3485]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G1746]]"
+- "[[G3043]]"
+- "[[G2513]]"
+- "[[G2986]]"
+- "[[G4024]]"
+- "[[G4012]]"
+- "[[G4738]]"
+- "[[G2223]]"
+- "[[G5552]]"
+texts:
+- NKO
+- o
+- NK(O)
+- k
+---
+
 **Revelation 15:6**<big><big>[[Rev.15.5 Preparation for Judgment|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the seven angels came out of the temple, having the seven plagues, clothed in pure and white linen, and having their breasts girded with golden girdles.
 <small><sub>**BSB:**</sub></small>
 And out of the temple came the seven angels with the seven plagues, dressed in clean and bright linen and girded with golden sashes around their chests.
-<small><sub>**Literal:**</sub></small>
-And came forth the seven angels those having the seven plagues out of the temple who were having clothed themselves in linen pure and bright and having girded themselves with around the chests sashes golden.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.15.5|<< Revelation 15:5]]</td><td align="center" style="border:none;">[[Rev.15|Revelation 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.15.7|Revelation 15:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1831\|ἐξῆλθον]]  [[G3588\|οἱ]]  [[G2033\|ἑπτὰ]]  [[G0032G\|ἄγγελοι]]  [[G3588\|οἱ]]  [[G2192\|ἔχοντες]]  [[G3588\|τὰς]]  [[G2033\|ἑπτὰ]]  [[G4127\|πληγὰς]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3485\|ναοῦ]]  [[G3739\|οἳ]]  [[G1510\|ἦσαν]]  [[G1746\|ἐνδεδυμένοι]]  [[G3043\|λίνον]]  [[G2513\|καθαρὸν]]  [[G2532\|καὶ]]  [[G2986\|λαμπρὸν]]  [[G2532\|καὶ]]  [[G4024\|περιεζωσμένοι]]  [[G4012\|περὶ]]  [[G3588\|τὰ]]  [[G4738\|στήθη]]  [[G2223\|ζώνας]]  [[G5552\|χρυσᾶς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic GIRDLE|GIRDLE]] • [[topic LINEN|LINEN]] • [[topic PLAGUE|PLAGUE]] • [[topic SEVEN|SEVEN]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.15.5|<< Revelation 15:5]]</td><td align="center" style="border:none;">[[Rev.15|Revelation 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.15.7|Revelation 15:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

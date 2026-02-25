@@ -1,8 +1,57 @@
+---
+title: 1 Chronicles 4:8
+type: Verse
+kjv: "And Coz begat Anub, and Zobebah, and the families of Aharhel the son of Harum."
+bsb: "and Koz, who was the father of Anub and Zobebah and of the clans of Aharhel son of Harum."
+hebrew: "וְק֣וֹץ הוֹלִ֔יד אֶת־ עָנ֖וּב וְאֶת־ הַצֹּבֵבָ֑ה וּמִשְׁפְּח֥וֹת אֲחַרְחֵ֖ל בֶּן־ הָרֽוּם׃"
+pericope: "[[1Chr.4.1 The Descendants of Judah|The Descendants of Judah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 4
+book/chapter: "[[1Chr.4|1 Chronicles 4]]"
+chronological_order: 323
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AHARHEL|AHARHEL]]"
+- "[[topic ANUB|ANUB]]"
+- "[[topic COZ|COZ]]"
+- "[[topic HARUM|HARUM]]"
+- "[[topic ZOBEBAH|ZOBEBAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H6976G]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6036]]"
+- "[[H9009]]"
+- "[[H6637]]"
+- "[[H4940]]"
+- "[[H0316]]"
+- "[[H1121A]]"
+- "[[H2037]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 4:8**<big><big>[[1Chr.4.1 The Descendants of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Coz begat Anub, and Zobebah, and the families of Aharhel the son of Harum.
 <small><sub>**BSB:**</sub></small>
 and Koz, who was the father of Anub and Zobebah and of the clans of Aharhel son of Harum.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6976G\|ק֣וֹץ]] [[H3205\|הוֹלִ֔יד]] [[H0853\|אֶת]][[H9014\|־]] [[H6036\|עָנ֖וּב]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6637\|צֹּבֵבָ֑ה]] [[H9002\|וּ]][[H4940\|מִשְׁפְּח֥וֹת]] [[H0316\|אֲחַרְחֵ֖ל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2037\|הָרֽוּם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHARHEL|AHARHEL]] • [[topic ANUB|ANUB]] • [[topic COZ|COZ]] • [[topic HARUM|HARUM]] • [[topic ZOBEBAH|ZOBEBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.7|<< 1 Chronicles 4:7]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.9|1 Chronicles 4:9 >>]]</td></tr></table>
 

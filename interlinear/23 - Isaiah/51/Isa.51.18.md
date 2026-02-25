@@ -1,8 +1,57 @@
+---
+title: Isaiah 51:18
+type: Verse
+kjv: "There is none to guide her among all the sons whom she hath brought forth; neither is there any that taketh her by the hand of all the sons that she hath brought up."
+bsb: "Among all the sons she bore, there is no one to guide her; among all the sons she brought up, there is no one to take her hand."
+hebrew: "אֵין־ מְנַהֵ֣ל לָ֔הּ מִכָּל־ בָּנִ֖ים יָלָ֑דָה וְאֵ֤ין מַחֲזִיק֙ בְּיָדָ֔הּ מִכָּל־ בָּנִ֖ים גִּדֵּֽלָה׃"
+pericope: "[[Isa.51.17 God’s Fury Removed|God’s Fury Removed]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 51
+book/chapter: "[[Isa.51|Isaiah 51]]"
+chronological_order: 690
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+strongs:
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H5095]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H1121A]]"
+- "[[H3205]]"
+- "[[H9002]]"
+- "[[H2388H]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9024]]"
+- "[[H1431]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 51:18**<big><big>[[Isa.51.17 God’s Fury Removed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] none to guide her among all the sons [whom] she hath brought forth; neither [is there any] that taketh her by the hand of all the sons [that] she hath brought up.
 <small><sub>**BSB:**</sub></small>
 Among all the sons she bore, there is no one to guide her; among all the sons she brought up, there is no one to take her hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H0369\|אֵין]][[H9014\|־]] [[H5095\|מְנַהֵ֣ל]] [[H9005\|לָ֔]][[H9034\|הּ]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H1121A\|בָּנִ֖ים]] [[H3205\|יָלָ֑דָה]] [[H9002\|וְ]][[H0369\|אֵ֤ין]] [[H2388H\|מַחֲזִיק֙]] [[H9003\|בְּ]][[H3027G\|יָדָ֔]][[H9024\|הּ]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H1121A\|בָּנִ֖ים]] [[H1431\|גִּדֵּֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.51.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.17|<< Isaiah 51:17]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51.19|Isaiah 51:19 >>]]</td></tr></table>
 

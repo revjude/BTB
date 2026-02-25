@@ -1,6 +1,83 @@
+---
+title: LXX 1 Kings 7:30
+type: Verse
+lxx: "And four wheels of brass were to the one base and the fastenings of brass and its four parts, of their protrusion supports from beneath the bathing tubs, and protrusion supports pouring from the other side a man being situated before. And the mouth of it within the top and upward one cubit."
+greek: "και τέσσαρες τροχοί χαλκοί τη μεχωνά τη μία και τα προσέχοντα χαλκά και τέσσαρα μέρη αυτής ωμίαι αυτών υποκάτωθεν των λουτήρων και ωμίαι κεχυμέναι από πέραν ανδρός προκείμεναι και το στόμα αυτού έσωθεν της κεφαλίδος και άνω εν πήχει"
+original_language: Greek
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ART|ART]]"
+- "[[topic BRASS|BRASS]]"
+- "[[topic CARVING|CARVING]]"
+- "[[topic CHAPITER|CHAPITER]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G5064]]"
+- "[[G5164]]"
+- "[[G5470]]"
+- "[[G3588]]"
+- "[[G8314]]"
+- "[[G3588]]"
+- "[[G1520]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4337]]"
+- "[[G5470]]"
+- "[[G2532]]"
+- "[[G5064]]"
+- "[[G3313]]"
+- "[[G1473]]"
+- "[[G9810]]"
+- "[[G1473]]"
+- "[[G9575]]"
+- "[[G3588]]"
+- "[[G8210]]"
+- "[[G2532]]"
+- "[[G9810]]"
+- "[[G9721]]"
+- "[[G0575]]"
+- "[[G4008]]"
+- "[[G0435]]"
+- "[[G4295]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4750]]"
+- "[[G1473]]"
+- "[[G2081]]"
+- "[[G3588]]"
+- "[[G2777]]"
+- "[[G2532]]"
+- "[[G0507]]"
+- "[[G1520]]"
+- "[[G4083]]"
+---
+
 **LXX 1 Kings 7:30** 
 <small><sub>**LXX:**</sub></small>
 And four wheels of brass \[were to\] the one base and the fastenings of brass and its four parts, of their protrusion \[supports\] from beneath the bathing tubs, and protrusion \[supports\] pouring from the other side a man being situated before. And the mouth of it within the top and upward one cubit. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G5064\|τέσσαρες]] [[G5164\|τροχοί]] [[G5470\|χαλκοί]] [[G3588\|τη]] [[G8314\|μεχωνά]] [[G3588\|τη]] [[G1520\|μία]] [[G2532\|και]] [[G3588\|τα]] [[G4337\|προσέχοντα]] [[G5470\|χαλκά]] [[G2532\|και]] [[G5064\|τέσσαρα]] [[G3313\|μέρη]] [[G1473\|αυτής]] [[G9810\|ωμίαι]] [[G1473\|αυτών]] [[G9575\|υποκάτωθεν]] [[G3588\|των]] [[G8210\|λουτήρων]] [[G2532\|και]] [[G9810\|ωμίαι]] [[G9721\|κεχυμέναι]] [[G0575\|από]] [[G4008\|πέραν]] [[G0435\|ανδρός]] [[G4295\|προκείμεναι]] [[G2532\|και]] [[G3588\|το]] [[G4750\|στόμα]] [[G1473\|αυτού]] [[G2081\|έσωθεν]] [[G3588\|της]] [[G2777\|κεφαλίδος]] [[G2532\|και]] [[G0507\|άνω]] [[G1520\|εν]] [[G4083\|πήχει]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic BRASS|BRASS]] • [[topic CARVING|CARVING]] • [[topic CHAPITER|CHAPITER]] • [[topic HIRAM|HIRAM]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Kgs.7.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.29|<< 1 Kings 7:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.31|1 Kings 7:31 >>]]</td></tr></table>
 
@@ -44,6 +121,6 @@ And four wheels of brass \[were to\] the one base and the fastenings of brass an
 | upward | **<big>[[G0507\|άνω]]</big>** |
 | one | **<big>[[G1520\|εν]]</big>** |
 | cubit. | **<big>[[G4083\|πήχει]]</big>** |
-[[1Kgs.7.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.29|<< 1 Kings 7:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.31|1 Kings 7:31 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.29|<< 1 Kings 7:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.31|1 Kings 7:31 >>]]</td></tr></table>
 
 

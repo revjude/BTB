@@ -1,8 +1,72 @@
+---
+title: Ezra 7:24
+type: Verse
+kjv: "Also we certify you, that touching any of the priests and Levites, singers, porters, Nethinims, or ministers of this house of God, it shall not be lawful to impose toll, tribute, or custom, upon them."
+bsb: "And be advised that you have no authority to impose tribute, duty, or toll on any of the priests, Levites, singers, doorkeepers, temple servants, or other servants of this house of God."
+aramaic: "וּלְכֹ֣ם מְהוֹדְעִ֗ין דִּ֣י כָל־ כָּהֲנַיָּ֣א וְ֠לֵוָיֵא זַמָּ֨רַיָּ֤א תָרָֽעַיָּא֙ נְתִ֣ינַיָּ֔א וּפָ֣לְחֵ֔י בֵּ֖ית אֱלָהָ֣א דְנָ֑ה מִנְדָּ֤ה בְלוֹ֙ וַהֲלָ֔ךְ לָ֥א שַׁלִּ֖יט לְמִרְמֵ֥א עֲלֵיהֹֽם׃"
+pericope: "[[Ezra.7.11 Artaxerxes’ Letter for Ezra|Artaxerxes’ Letter for Ezra]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 7
+book/chapter: "[[Ezra.7|Ezra 7]]"
+chronological_order: 909
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NETHINIMS|NETHINIMS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TAX|TAX]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H3046]]"
+- "[[H1768]]"
+- "[[H3606]]"
+- "[[H9014]]"
+- "[[H3549]]"
+- "[[H9010]]"
+- "[[H3879]]"
+- "[[H2171]]"
+- "[[H8652]]"
+- "[[H5412]]"
+- "[[H6399]]"
+- "[[H1005]]"
+- "[[H0426]]"
+- "[[H1836]]"
+- "[[H4061]]"
+- "[[H1093]]"
+- "[[H1983]]"
+- "[[H3809]]"
+- "[[H7990]]"
+- "[[H7412]]"
+- "[[H5922]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 7:24**<big><big>[[Ezra.7.11 Artaxerxes’ Letter for Ezra|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also we certify you, that touching any of the priests and Levites, singers, porters, Nethinims, or ministers of this house of God, it shall not be lawful to impose toll, tribute, or custom, upon them.
 <small><sub>**BSB:**</sub></small>
 And be advised that you have no authority to impose tribute, duty, or toll on any of the priests, Levites, singers, doorkeepers, temple servants, or other servants of this house of God.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H9036\|כֹ֣ם]] [[H3046\|מְהוֹדְעִ֗ין]] [[H1768\|דִּ֣י]] [[H3606\|כָל]][[H9014\|־]] [[H3549\|כָּהֲנַיָּ֣]][[H9010\|א]] [[H9002\|וְ֠]][[H3879\|לֵוָיֵ]][[H9010\|א]] [[H2171\|זַמָּ֨רַיָּ֤]][[H9010\|א]] [[H8652\|תָרָֽעַיָּ]][[H9010\|א֙]] [[H5412\|נְתִ֣ינַיָּ֔]][[H9010\|א]] [[H9002\|וּ]][[H6399\|פָ֣לְחֵ֔י]] [[H1005\|בֵּ֖ית]] [[H0426\|אֱלָהָ֣]][[H9010\|א]] [[H1836\|דְנָ֑ה]] [[H4061\|מִנְדָּ֤ה]] [[H1093\|בְלוֹ֙]] [[H9002\|וַ]][[H1983\|הֲלָ֔ךְ]] [[H3809\|לָ֥א]] [[H7990\|שַׁלִּ֖יט]] [[H9005\|לְ]][[H7412\|מִרְמֵ֥א]] [[H5922\|עֲלֵי]][[H9038\|הֹֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NETHINIMS|NETHINIMS]] • [[topic PRIEST|PRIEST]] • [[topic TAX|TAX]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.23|<< Ezra 7:23]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.25|Ezra 7:25 >>]]</td></tr></table>
 

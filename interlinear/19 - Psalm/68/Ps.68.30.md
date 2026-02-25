@@ -1,8 +1,61 @@
+---
+title: Psalm 68:30
+type: Verse
+kjv: "Rebuke the company of spearmen, the multitude of the bulls, with the calves of the people, till every one submit himself with pieces of silver: scatter thou the people that delight in war."
+bsb: "Rebuke the beast in the reeds, the herd of bulls among the calves of the nations, until it submits, bringing bars of silver. Scatter the nations who delight in war."
+hebrew: "גְּעַ֨ר חַיַּ֪ת קָנֶ֡ה עֲדַ֤ת אַבִּירִ֨ים׀ בְּעֶגְלֵ֬י עַמִּ֗ים מִתְרַפֵּ֥ס בְּרַצֵּי־ כָ֑סֶף בִּזַּ֥ר עַ֝מִּ֗ים קְרָב֥וֹת יֶחְפָּֽצוּ׃"
+pericope: "[[Ps.68.1 God’s Enemies Are Scattered|God’s Enemies Are Scattered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 68
+book/chapter: "[[Ps.68|Psalm 68]]"
+chronological_order: 376
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H1605]]"
+- "[[H2416C]]"
+- "[[H7070H]]"
+- "[[H5712]]"
+- "[[H0047G]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H5695]]"
+- "[[H5971A]]"
+- "[[H7511]]"
+- "[[H7518]]"
+- "[[H9014]]"
+- "[[H3701G]]"
+- "[[H0967]]"
+- "[[H7128]]"
+- "[[H2654A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 68:30**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rebuke the company of spearmen, the multitude of the bulls, with the calves of the people, [till every one] submit himself with pieces of silver: scatter thou the people [that] delight in war.
 <small><sub>**BSB:**</sub></small>
 Rebuke the beast in the reeds, the herd of bulls among the calves of the nations, until it submits, bringing bars of silver. Scatter the nations who delight in war.
+<small><sub>**Hebrew:**</sub></small>
+[[H1605\|גְּעַ֨ר]] [[H2416C\|חַיַּ֪ת]] [[H7070H\|קָנֶ֡ה]] [[H5712\|עֲדַ֤ת]] [[H0047G\|אַבִּירִ֨ים]][[H9015\|׀]] [[H9003\|בְּ]][[H5695\|עֶגְלֵ֬י]] [[H5971A\|עַמִּ֗ים]] [[H7511\|מִתְרַפֵּ֥ס]] [[H9003\|בְּ]][[H7518\|רַצֵּי]][[H9014\|־]] [[H3701G\|כָ֑סֶף]] [[H0967\|בִּזַּ֥ר]] [[H5971A\|עַ֝מִּ֗ים]] [[H7128\|קְרָב֥וֹת]] [[H2654A\|יֶחְפָּֽצוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.29|<< Psalms 68:29]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.31|Psalms 68:31 >>]]</td></tr></table>
 

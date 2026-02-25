@@ -1,8 +1,61 @@
+---
+title: Numbers 15:8
+type: Verse
+kjv: "And when thou preparest a bullock for a burnt offering, or for a sacrifice in performing a vow, or peace offerings unto the LORD:"
+bsb: "When you prepare a young bull as a burnt offering or sacrifice to fulfill a vow or as a peace offering to the LORD,"
+hebrew: "וְכִֽי־ תַעֲשֶׂ֥ה בֶן־ בָּקָ֖ר עֹלָ֣ה אוֹ־ זָ֑בַח לְפַלֵּא־ נֶ֥דֶר אֽוֹ־ שְׁלָמִ֖ים לַֽיהוָֽה׃"
+pericope: "[[Num.15.1 Laws about Offerings|Laws about Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 15
+book/chapter: "[[Num.15|Numbers 15]]"
+chronological_order: 175
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6213I]]"
+- "[[H1121H]]"
+- "[[H1241]]"
+- "[[H5930A]]"
+- "[[H0176A]]"
+- "[[H2077]]"
+- "[[H9005]]"
+- "[[H6381]]"
+- "[[H5088]]"
+- "[[H8002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 15:8**<big><big>[[Num.15.1 Laws about Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when thou preparest a bullock [for] a burnt offering, or [for] a sacrifice in performing a vow, or peace offerings unto the LORD:
 <small><sub>**BSB:**</sub></small>
 When you prepare a young bull as a burnt offering or sacrifice to fulfill a vow or as a peace offering to the LORD,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H6213I\|תַעֲשֶׂ֥ה]] [[H1121H\|בֶן]][[H9014\|־]] [[H1241\|בָּקָ֖ר]] [[H5930A\|עֹלָ֣ה]] [[H0176A\|אוֹ]][[H9014\|־]] [[H2077\|זָ֑בַח]] [[H9005\|לְ]][[H6381\|פַלֵּא]][[H9014\|־]] [[H5088\|נֶ֥דֶר]] [[H0176A\|אֽוֹ]][[H9014\|־]] [[H8002\|שְׁלָמִ֖ים]] [[H9005\|לַֽ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MEASURE|MEASURE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.7|<< Numbers 15:7]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.9|Numbers 15:9 >>]]</td></tr></table>
 

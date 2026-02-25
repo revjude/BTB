@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Storm at Sea
+type: Pericope
 pericope: "[[Acts.27.13 The Storm at Sea|The Storm at Sea]]"
-verse_count: 14
+original_language: Greek
 testament: New
 book: Acts
 chapter: 27
 book/chapter: "[[Acts.27|Acts 27]]"
-genre:
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 14
 verses:
 - "[[Acts.27.13]]"
 - "[[Acts.27.14]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Acts.27.26]]"
 ---
 
-[[Acts.27|Acts 27:13 - Acts 27:26]]
+<small>[[Acts.27|Acts 27:13-26]]</small>
 *The Storm at Sea*
 
 [[Acts.27.13|13]] And when the south wind blew softly, supposing that they had obtained \[their\] purpose, loosing \[thence\], they sailed close by Crete.

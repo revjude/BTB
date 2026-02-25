@@ -1,8 +1,68 @@
+---
+title: Zechariah 13:7
+type: Verse
+kjv: "Awake, O sword, against my shepherd, and against the man that is my fellow, saith the LORD of hosts: smite the shepherd, and the sheep shall be scattered: and I will turn mine hand upon the little ones."
+bsb: "Awake, O sword, against My Shepherd, against the man who is My Companion, declares the LORD of Hosts. Strike the Shepherd, and the sheep will be scattered, and I will turn My hand against the little ones."
+hebrew: "חֶ֗רֶב עוּרִ֤י עַל־ רֹעִי֙ וְעַל־ גֶּ֣בֶר עֲמִיתִ֔י נְאֻ֖ם יְהוָ֣ה צְבָא֑וֹת הַ֤ךְ אֶת־ הָֽרֹעֶה֙ וּתְפוּצֶ֣יןָ הַצֹּ֔אן וַהֲשִׁבֹתִ֥י יָדִ֖י עַל־ הַצֹּעֲרִֽים׃"
+pericope: "[[Zech.13.7 The Shepherd Struck, the Sheep Scattered|The Shepherd Struck, the Sheep Scattered]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 13
+book/chapter: "[[Zech.13|Zechariah 13]]"
+chronological_order: 869
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+- "[[topic SWORD|SWORD]]"
+strongs:
+- "[[H2719]]"
+- "[[H5782]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7462B]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H1397]]"
+- "[[H5997]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H6327A]]"
+- "[[H6629G]]"
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H3027G]]"
+- "[[H6819]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 13:7**<big><big>[[Zech.13.7 The Shepherd Struck, the Sheep Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Awake, O sword, against my shepherd, and against the man [that is] my fellow, saith the LORD of hosts: smite the shepherd, and the sheep shall be scattered: and I will turn mine hand upon the little ones.
 <small><sub>**BSB:**</sub></small>
 Awake, O sword, against My Shepherd, against the man who is My Companion, declares the LORD of Hosts. Strike the Shepherd, and the sheep will be scattered, and I will turn My hand against the little ones.
+<small><sub>**Hebrew:**</sub></small>
+[[H2719\|חֶ֗רֶב]] [[H5782\|עוּרִ֤י]] [[H5921A\|עַל]][[H9014\|־]] [[H7462B\|רֹעִ]][[H9020\|י֙]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H1397\|גֶּ֣בֶר]] [[H5997\|עֲמִיתִ֔]][[H9020\|י]] [[H5002\|נְאֻ֖ם]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֑וֹת]] [[H5221\|הַ֤ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H7462B\|רֹעֶה֙]] [[H9002\|וּ]][[H6327A\|תְפוּצֶ֣יןָ]] [[H9009\|הַ]][[H6629G\|צֹּ֔אן]] [[H9001\|וַ]][[H7725G\|הֲשִׁבֹתִ֥י]] [[H3027G\|יָדִ֖]][[H9020\|י]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H6819\|צֹּעֲרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SHEPHERD|SHEPHERD]] • [[topic SWORD|SWORD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.13.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.13.6|<< Zechariah 13:6]]</td><td align="center" style="border:none;">[[Zech.13|Zechariah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.13.8|Zechariah 13:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

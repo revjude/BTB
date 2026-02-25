@@ -1,8 +1,60 @@
+---
+title: Jeremiah 39:11
+type: Verse
+kjv: "Now Nebuchadrezzar king of Babylon gave charge concerning Jeremiah to Nebuzaradan the captain of the guard, saying,"
+bsb: "Now Nebuchadnezzar king of Babylon had given orders about Jeremiah through Nebuzaradan captain of the guard, saying,"
+hebrew: "וַיְצַ֛ו נְבוּכַדְרֶאצַּ֥ר מֶֽלֶךְ־ בָּבֶ֖ל עַֽל־ יִרְמְיָ֑הוּ בְּיַ֛ד נְבוּזַרְאֲדָ֥ן רַב־ טַבָּחִ֖ים לֵאמֹֽר׃"
+pericope: "[[Jer.39.11 Jeremiah Delivered|Jeremiah Delivered]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 39
+book/chapter: "[[Jer.39|Jeremiah 39]]"
+chronological_order: 762
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H5019]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H0894]]"
+- "[[H5921A]]"
+- "[[H3414L]]"
+- "[[H9003]]"
+- "[[H3027J]]"
+- "[[H5018]]"
+- "[[H7227B]]"
+- "[[H2876]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 39:11**<big><big>[[Jer.39.11 Jeremiah Delivered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Nebuchadrezzar king of Babylon gave charge concerning Jeremiah to Nebuzaradan the captain of the guard, saying,
 <small><sub>**BSB:**</sub></small>
 Now Nebuchadnezzar king of Babylon had given orders about Jeremiah through Nebuzaradan captain of the guard, saying,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַ֛ו]] [[H5019\|נְבוּכַדְרֶאצַּ֥ר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֖ל]] [[H5921A\|עַֽל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֑הוּ]] [[H9003\|בְּ]][[H3027J\|יַ֛ד]] [[H5018\|נְבוּזַרְאֲדָ֥ן]] [[H7227B\|רַב]][[H9014\|־]] [[H2876\|טַבָּחִ֖ים]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEREMIAH|JEREMIAH]] • [[topic KINDNESS|KINDNESS]] • [[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.39.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.39.10|<< Jeremiah 39:10]]</td><td align="center" style="border:none;">[[Jer.39|Jeremiah 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.39.12|Jeremiah 39:12 >>]]</td></tr></table>
 

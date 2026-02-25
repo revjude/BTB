@@ -1,8 +1,68 @@
+---
+title: Isaiah 66:5
+type: Verse
+kjv: "Hear the word of the LORD, ye that tremble at his word; Your brethren that hated you, that cast you out for my name’s sake, said, Let the LORD be glorified: but he shall appear to your joy, and they shall be ashamed."
+bsb: "You who tremble at His word, hear the word of the LORD: “Your brothers who hate you and exclude you because of My name have said, ‘Let the LORD be glorified that we may see your joy!’ But they will be put to shame.”"
+hebrew: "שִׁמְעוּ֙ דְּבַר־ יְהוָ֔ה הַחֲרֵדִ֖ים אֶל־ דְּבָר֑וֹ אָמְרוּ֩ אֲחֵיכֶ֨ם שֹׂנְאֵיכֶ֜ם מְנַדֵּיכֶ֗ם לְמַ֤עַן שְׁמִי֙ יִכְבַּ֣ד יְהוָ֔ה וְנִרְאֶ֥ה בְשִׂמְחַתְכֶ֖ם וְהֵ֥ם יֵבֹֽשׁוּ׃"
+pericope: "[[Isa.66.1 Heaven Is My Throne|Heaven Is My Throne]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 66
+book/chapter: "[[Isa.66|Isaiah 66]]"
+chronological_order: 705
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H8085G]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9009]]"
+- "[[H2730]]"
+- "[[H0413]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H0251G]]"
+- "[[H9026]]"
+- "[[H8130]]"
+- "[[H9036]]"
+- "[[H5077B]]"
+- "[[H4616]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H3513G]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H8057]]"
+- "[[H1992]]"
+- "[[H0954]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 66:5**<big><big>[[Isa.66.1 Heaven Is My Throne|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear the word of the LORD, ye that tremble at his word; Your brethren that hated you, that cast you out for my name’s sake, said, Let the LORD be glorified: but he shall appear to your joy, and they shall be ashamed.
 <small><sub>**BSB:**</sub></small>
 You who tremble at His word, hear the word of the LORD: “Your brothers who hate you and exclude you because of My name have said, ‘Let the LORD be glorified that we may see your joy!’ But they will be put to shame.”
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שִׁמְעוּ֙]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9009\|הַ]][[H2730\|חֲרֵדִ֖ים]] [[H0413\|אֶל]][[H9014\|־]] [[H1697G\|דְּבָר֑]][[H9023\|וֹ]] [[H0559\|אָמְרוּ֩]] [[H0251G\|אֲחֵי]][[H9026\|כֶ֨ם]] [[H8130\|שֹׂנְאֵי]][[H9036\|כֶ֜ם]] [[H5077B\|מְנַדֵּי]][[H9036\|כֶ֗ם]] [[H4616\|לְמַ֤עַן]] [[H8034\|שְׁמִ]][[H9020\|י֙]] [[H3513G\|יִכְבַּ֣ד]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H7200G\|נִרְאֶ֥ה]] [[H9003\|בְ]][[H8057\|שִׂמְחַתְ]][[H9026\|כֶ֖ם]] [[H9002\|וְ]][[H1992\|הֵ֥ם]] [[H0954\|יֵבֹֽשׁוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.66.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.66.4|<< Isaiah 66:4]]</td><td align="center" style="border:none;">[[Isa.66|Isaiah 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.6|Isaiah 66:6 >>]]</td></tr></table>
 

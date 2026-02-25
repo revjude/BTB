@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Trial before Festus
+type: Pericope
 pericope: "[[Acts.25.1 Paul’s Trial before Festus|Paul’s Trial before Festus]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Acts
 chapter: 25
 book/chapter: "[[Acts.25|Acts 25]]"
-genre:
+chronological_order: 1107
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 9
 verses:
 - "[[Acts.25.1]]"
 - "[[Acts.25.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Acts.25.9]]"
 ---
 
-[[Acts.25|Acts 25:1 - Acts 25:9]]
+<small>[[Acts.25|Acts 25:1-9]]</small>
 *Paul’s Trial before Festus*
 
 [[Acts.25.1|1]] Now when Festus was come into the province, after three days he ascended from Caesarea to Jerusalem.

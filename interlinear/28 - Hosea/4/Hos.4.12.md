@@ -1,8 +1,64 @@
+---
+title: Hosea 4:12
+type: Verse
+kjv: "My people ask counsel at their stocks, and their staff declareth unto them: for the spirit of whoredoms hath caused them to err, and they have gone a whoring from under their God."
+bsb: "My people consult their wooden idols, and their divining rods inform them. For a spirit of prostitution leads them astray and they have played the harlot against their God."
+hebrew: "עַמִּי֙ בְּעֵצ֣וֹ יִשְׁאָ֔ל וּמַקְל֖וֹ יַגִּ֣יד ל֑וֹ כִּ֣י ר֤וּחַ זְנוּנִים֙ הִתְעָ֔ה וַיִּזְנ֖וּ מִתַּ֥חַת אֱלֹהֵיהֶֽם׃"
+pericope: "[[Hos.4.1 God’s Case against His People|God’s Case against His People]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 4
+book/chapter: "[[Hos.4|Hosea 4]]"
+chronological_order: 645
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SORCERY|SORCERY]]"
+strongs:
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H6086G]]"
+- "[[H9023]]"
+- "[[H7592]]"
+- "[[H9002]]"
+- "[[H4731]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H7307G]]"
+- "[[H2183]]"
+- "[[H8582]]"
+- "[[H9001]]"
+- "[[H2181]]"
+- "[[H9006]]"
+- "[[H8478H]]"
+- "[[H0430G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 4:12**<big><big>[[Hos.4.1 God’s Case against His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My people ask counsel at their stocks, and their staff declareth unto them: for the spirit of whoredoms hath caused [them] to err, and they have gone a whoring from under their God.
 <small><sub>**BSB:**</sub></small>
 My people consult their wooden idols, and their divining rods inform them. For a spirit of prostitution leads them astray and they have played the harlot against their God.
+<small><sub>**Hebrew:**</sub></small>
+[[H5971A\|עַמִּ]][[H9020\|י֙]] [[H9003\|בְּ]][[H6086G\|עֵצ֣]][[H9023\|וֹ]] [[H7592\|יִשְׁאָ֔ל]] [[H9002\|וּ]][[H4731\|מַקְל֖]][[H9023\|וֹ]] [[H5046\|יַגִּ֣יד]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H3588A\|כִּ֣י]] [[H7307G\|ר֤וּחַ]] [[H2183\|זְנוּנִים֙]] [[H8582\|הִתְעָ֔ה]] [[H9001\|וַ]][[H2181\|יִּזְנ֖וּ]] [[H9006\|מִ]][[H8478H\|תַּ֥חַת]] [[H0430G\|אֱלֹהֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SORCERY|SORCERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.4.11|<< Hosea 4:11]]</td><td align="center" style="border:none;">[[Hos.4|Hosea 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.4.13|Hosea 4:13 >>]]</td></tr></table>
 

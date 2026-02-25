@@ -1,10 +1,61 @@
+---
+title: 1 John 2:4
+type: Verse
+kjv: "He that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him."
+bsb: "If anyone says, “I know Him,” but does not keep His commandments, he is a liar, and the truth is not in him."
+greek: "Ὁ λέγων ὅτι ἔγνωκα αὐτὸν καὶ τὰς ἐντολὰς αὐτοῦ μὴ τηρῶν, ψεύστης ἐστίν, καὶ ἐν τούτῳ ἡ ἀλήθεια οὐκ ἔστιν·"
+pericope: "[[1John.2.1 Jesus Our Advocate|Jesus Our Advocate]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 2
+book/chapter: "[[1John.2|1 John 2]]"
+chronological_order: 1162
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G3588]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G1097]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G1785]]"
+- "[[G3361]]"
+- "[[G5083G]]"
+- "[[G5583]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3778]]"
+- "[[G0225]]"
+- "[[G3756]]"
+texts:
+- NKO
+- no
+---
+
 **1 John 2:4**<big><big>[[1John.2.1 Jesus Our Advocate|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him.
 <small><sub>**BSB:**</sub></small>
 If anyone says, “I know Him,” but does not keep His commandments, he is a liar, and the truth is not in him.
-<small><sub>**Literal:**</sub></small>
-The [one] saying that I have known Him and the commandments of Him not keeping, a liar he is, and in him the truth not is;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.3|<< 1 John 2:3]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.5|1 John 2:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G3004G\|λέγων]]  [[G3754G\|ὅτι]]  [[G1097\|ἔγνωκα]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G3588\|τὰς]]  [[G1785\|ἐντολὰς]]  [[G0846\|αὐτοῦ]]  [[G3361\|μὴ]]  [[G5083G\|τηρῶν,]]  [[G5583\|ψεύστης]]  [[G1510\|ἐστίν,]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3778\|τούτῳ]]  [[G3588\|ἡ]]  [[G0225\|ἀλήθεια]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic CONFESSION|CONFESSION]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.3|<< 1 John 2:3]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.5|1 John 2:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

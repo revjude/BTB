@@ -1,10 +1,71 @@
+---
+title: Mark 6:3
+type: Verse
+kjv: "Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us? And they were offended at him."
+bsb: "Isn’t this the carpenter, the son of Mary and the brother of James, Joses, Judas, and Simon? Aren’t His sisters here with us as well?” And they took offense at Him."
+greek: "οὐχ οὗτός ἐστιν ὁ τέκτων, ὁ υἱὸς τῆς Μαρίας καὶ ἀδελφὸς δὲ Ἰακώβου καὶ Ἰωσῆτος καὶ Ἰούδα καὶ Σίμωνος; καὶ οὐκ εἰσὶν αἱ ἀδελφαὶ αὐτοῦ ὧδε πρὸς ἡμᾶς; καὶ ἐσκανδαλίζοντο ἐν αὐτῷ.¶"
+pericope: "[[Mark.6.1 The Rejection at Nazareth|The Rejection at Nazareth]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CARPENTRY|CARPENTRY]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic JOSES|JOSES]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SIMON|SIMON]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G3756]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G5045]]"
+- "[[G5207]]"
+- "[[G3137G]]"
+- "[[G2532]]"
+- "[[G0080]]"
+- "[[G1161]]"
+- "[[G2385I]]"
+- "[[G2500G]]"
+- "[[G2455I]]"
+- "[[G4613H]]"
+- "[[G0079]]"
+- "[[G0846]]"
+- "[[G5602]]"
+- "[[G4314]]"
+- "[[G3165]]"
+- "[[G4624]]"
+- "[[G1722]]"
+texts:
+- NKO
+- no
+- k
+---
+
 **Mark 6:3**<big><big>[[Mark.6.1 The Rejection at Nazareth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us? And they were offended at him.
 <small><sub>**BSB:**</sub></small>
 Isn’t this the carpenter, the son of Mary and the brother of James, Joses, Judas, and Simon? Aren’t His sisters here with us as well?” And they took offense at Him.
-<small><sub>**Literal:**</sub></small>
-Surely this is the carpenter, the son <the> of Mary and brother now of James and of Joses and of Judas and of Simon? And surely are the sisters of Him here with us? And they were offended by Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.2|<< Mark 6:2]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.4|Mark 6:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐχ]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G5045\|τέκτων,]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τῆς]]  [[G3137G\|Μαρίας]]  [[G2532\|καὶ]]  [[G0080\|ἀδελφὸς]]  [[G1161\|δὲ]]  [[G2385I\|Ἰακώβου]]  [[G2532\|καὶ]]  [[G2500G\|Ἰωσῆτος]]  [[G2532\|καὶ]]  [[G2455I\|Ἰούδα]]  [[G2532\|καὶ]]  [[G4613H\|Σίμωνος;]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1510\|εἰσὶν]]  [[G3588\|αἱ]]  [[G0079\|ἀδελφαὶ]]  [[G0846\|αὐτοῦ]]  [[G5602\|ὧδε]]  [[G4314\|πρὸς]]  [[G3165\|ἡμᾶς;]]  [[G2532\|καὶ]]  [[G4624\|ἐσκανδαλίζοντο]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARPENTRY|CARPENTRY]] • [[topic JAMES|JAMES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic JOSES|JOSES]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SIMON|SIMON]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.2|<< Mark 6:2]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.4|Mark 6:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

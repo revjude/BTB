@@ -1,8 +1,62 @@
+---
+title: 2 Samuel 3:24
+type: Verse
+kjv: "Then Joab came to the king, and said, What hast thou done? behold, Abner came unto thee; why is it that thou hast sent him away, and he is quite gone?"
+bsb: "So Joab went to the king and said, “What have you done? Look, Abner came to you. Why did you dismiss him? Now he is getting away!"
+hebrew: "וַיָּבֹ֤א יוֹאָב֙ אֶל־ הַמֶּ֔לֶךְ וַיֹּ֖אמֶר מֶ֣ה עָשִׂ֑יתָה הִנֵּה־ בָ֤א אַבְנֵר֙ אֵלֶ֔יךָ לָמָּה־ זֶּ֥ה שִׁלַּחְתּ֖וֹ וַיֵּ֥לֶךְ הָלֽוֹךְ׃"
+pericope: "[[2Sam.3.22 Joab Murders Abner|Joab Murders Abner]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 3
+book/chapter: "[[2Sam.3|2 Samuel 3]]"
+chronological_order: 331
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H3097G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H2009]]"
+- "[[H0074]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H2088]]"
+- "[[H7971G]]"
+- "[[H9033]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 3:24**<big><big>[[2Sam.3.22 Joab Murders Abner|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Joab came to the king, and said, What hast thou done? behold, Abner came unto thee; why [is] it [that] thou hast sent him away, and he is quite gone?
 <small><sub>**BSB:**</sub></small>
 So Joab went to the king and said, “What have you done? Look, Abner came to you. Why did you dismiss him? Now he is getting away!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֤א]] [[H3097G\|יוֹאָב֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H4100\|מֶ֣ה]] [[H6213A\|עָשִׂ֑יתָה]] [[H2009\|הִנֵּה]][[H9014\|־]] [[H0935G\|בָ֤א]] [[H0074\|אַבְנֵר֙]] [[H0413\|אֵלֶ֔י]][[H9031\|ךָ]] [[H9005\|לָ]][[H4100\|מָּה]][[H9014\|־]] [[H2088\|זֶּ֥ה]] [[H7971G\|שִׁלַּחְתּ֖]][[H9033\|וֹ]] [[H9001\|וַ]][[H1980G\|יֵּ֥לֶךְ]] [[H1980G\|הָלֽוֹךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JEALOUSY|JEALOUSY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.23|<< 2 Samuel 3:23]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.25|2 Samuel 3:25 >>]]</td></tr></table>
 

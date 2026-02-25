@@ -1,8 +1,50 @@
+---
+title: Proverbs 16:9
+type: Verse
+kjv: "A man’s heart deviseth his way: but the LORD directeth his steps."
+bsb: "A man’s heart plans his course, but the LORD determines his steps."
+hebrew: "לֵ֣ב אָ֭דָם יְחַשֵּׁ֣ב דַּרְכּ֑וֹ וַֽ֝יהוָ֗ה יָכִ֥ין צַעֲדֽוֹ׃"
+pericope: "[[Prov.16.1 The Reply of the Tongue Is from the LORD|The Reply of the Tongue Is from the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 16
+book/chapter: "[[Prov.16|Proverbs 16]]"
+chronological_order: 471
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3820A]]"
+- "[[H0120G]]"
+- "[[H2803I]]"
+- "[[H1870L]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H3559H]]"
+- "[[H6806]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 16:9**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A man’s heart deviseth his way: but the LORD directeth his steps.
 <small><sub>**BSB:**</sub></small>
-A man’s heart plans his course, but the LORD determines his steps.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.8|<< Proverbs 16:8]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.10|Proverbs 16:10 >>]]</td></tr></table>
+A man’s heart plans his course, but the LORD determines his steps.
+<small><sub>**Hebrew:**</sub></small>
+[[H3820A\|לֵ֣ב]] [[H0120G\|אָ֭דָם]] [[H2803I\|יְחַשֵּׁ֣ב]] [[H1870L\|דַּרְכּ֑]][[H9023\|וֹ]] [[H9002\|וַֽ֝]][[H3068G\|יהוָ֗ה]] [[H3559H\|יָכִ֥ין]] [[H6806\|צַעֲדֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.8|<< Proverbs 16:8]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.10|Proverbs 16:10 >>]]</td></tr></table>
 
 | Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

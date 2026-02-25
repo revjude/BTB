@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Korah’s Rebellion
+type: Pericope
 pericope: "[[Num.16.1 Korah’s Rebellion|Korah’s Rebellion]]"
-verse_count: 22
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 16
 book/chapter: "[[Num.16|Numbers 16]]"
-genre:
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 22
 verses:
 - "[[Num.16.1]]"
 - "[[Num.16.2]]"
@@ -44,7 +51,7 @@ verses:
 - "[[Num.16.22]]"
 ---
 
-[[Num.16|Numbers 16:1 - Numbers 16:22]]
+<small>[[Num.16|Numbers 16:1-22]]</small>
 *Korah’s Rebellion*
 
 [[Num.16.1|1]] Now Korah, the son of Izhar, the son of Kohath, the son of Levi, and Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took \[men\]:

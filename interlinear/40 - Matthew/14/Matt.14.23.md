@@ -1,10 +1,60 @@
+---
+title: Matthew 14:23
+type: Verse
+kjv: "And when he had sent the multitudes away, he went up into a mountain apart to pray: and when the evening was come, he was there alone."
+bsb: "After He had dismissed them, He went up on the mountain by Himself to pray. When evening came, He was there alone,"
+greek: "Καὶ ἀπολύσας τοὺς ὄχλους ἀνέβη εἰς τὸ ὄρος κατ᾽ ἰδίαν προσεύξασθαι.¶ Ὀψίας δὲ γενομένης μόνος ἦν ἐκεῖ."
+pericope: "[[Matt.14.22 Jesus Walks on Water|Jesus Walks on Water]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 14
+book/chapter: "[[Matt.14|Matthew 14]]"
+chronological_order: 964
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G0630G]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G0305]]"
+- "[[G1519]]"
+- "[[G3735]]"
+- "[[G2596]]"
+- "[[G2398]]"
+- "[[G4336]]"
+- "[[G3798]]"
+- "[[G1161]]"
+- "[[G1096]]"
+- "[[G3441]]"
+- "[[G1510]]"
+- "[[G1563]]"
+texts:
+- NKO
+---
+
 **Matthew 14:23**<big><big>[[Matt.14.22 Jesus Walks on Water|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had sent the multitudes away, he went up into a mountain apart to pray: and when the evening was come, he was there alone.
 <small><sub>**BSB:**</sub></small>
 After He had dismissed them, He went up on the mountain by Himself to pray. When evening came, He was there alone,
-<small><sub>**Literal:**</sub></small>
-And having dismissed the crowds He went up on the mountain on [his] own to pray. Evening now having arrived alone He was there.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.22|<< Matthew 14:22]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.24|Matthew 14:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0630G\|ἀπολύσας]]  [[G3588\|τοὺς]]  [[G3793\|ὄχλους]]  [[G0305\|ἀνέβη]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3735\|ὄρος]]  [[G2596\|κατ᾽]]  [[G2398\|ἰδίαν]]  [[G4336\|προσεύξασθαι.¶]]  [[G3798\|Ὀψίας]]  [[G1161\|δὲ]]  [[G1096\|γενομένης]]  [[G3441\|μόνος]]  [[G1510\|ἦν]]  [[G1563\|ἐκεῖ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.22|<< Matthew 14:22]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.24|Matthew 14:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

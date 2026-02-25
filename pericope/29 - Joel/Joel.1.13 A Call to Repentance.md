@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Call to Repentance
+type: Pericope
 pericope: "[[Joel.1.13 A Call to Repentance|A Call to Repentance]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Joel
 chapter: 1
 book/chapter: "[[Joel.1|Joel 1]]"
-genre:
+chronological_order: 840
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 8
 verses:
 - "[[Joel.1.13]]"
 - "[[Joel.1.14]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Joel.1.20]]"
 ---
 
-[[Joel.1|Joel 1:13 - Joel 1:20]]
+<small>[[Joel.1|Joel 1:13-20]]</small>
 *A Call to Repentance*
 
 [[Joel.1.13|13]] Gird yourselves, and lament, ye priests: howl, ye ministers of the altar: come, lie all night in sackcloth, ye ministers of my God: for the meat offering and the drink offering is withholden from the house of your God.

@@ -1,10 +1,59 @@
+---
+title: James 2:20
+type: Verse
+kjv: "But wilt thou know, O vain man, that faith without works is dead?"
+bsb: "O foolish man, do you want evidence that faith without deeds is worthless?"
+greek: "θέλεις δὲ γνῶναι, ὦ ἄνθρωπε κενέ, ὅτι ἡ πίστις χωρὶς τῶν ἔργων ἀργή ἐστιν;"
+pericope: "[[Jas.2.14 Faith and Works|Faith and Works]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 2
+book/chapter: "[[Jas.2|James 2]]"
+chronological_order: 1034
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2309]]"
+- "[[G1161]]"
+- "[[G1097]]"
+- "[[G5599]]"
+- "[[G0444]]"
+- "[[G2756]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G4102G]]"
+- "[[G5565]]"
+- "[[G2041]]"
+- "[[G0692]]"
+- "[[G1510]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **James 2:20**<big><big>[[Jas.2.14 Faith and Works|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But wilt thou know, O vain man, that faith without works is dead?
 <small><sub>**BSB:**</sub></small>
 O foolish man, do you want evidence that faith without deeds is worthless?
-<small><sub>**Literal:**</sub></small>
-Do you want however to come to know, O man foolish, that <the> faith apart from <the> works worthless is?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.19|<< James 2:19]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.21|James 2:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2309\|θέλεις]]  [[G1161\|δὲ]]  [[G1097\|γνῶναι,]]  [[G5599\|ὦ]]  [[G0444\|ἄνθρωπε]]  [[G2756\|κενέ,]]  [[G3754G\|ὅτι]]  [[G3588\|ἡ]]  [[G4102G\|πίστις]]  [[G5565\|χωρὶς]]  [[G3588\|τῶν]]  [[G2041\|ἔργων]]  [[G0692\|ἀργή]]  [[G1510\|ἐστιν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.19|<< James 2:19]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.21|James 2:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

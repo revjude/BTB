@@ -1,8 +1,52 @@
+---
+title: Job 11:10
+type: Verse
+kjv: "If he cut off, and shut up, or gather together, then who can hinder him?"
+bsb: "If He comes along to imprison you, or convenes a court, who can stop Him?"
+hebrew: "אִם־ יַחֲלֹ֥ף וְיַסְגִּ֑יר וְ֝יַקְהִ֗יל וּמִ֣י יְשִׁיבֶֽנּוּ׃"
+pericope: "[[Job.11.1 Zophar Rebukes Job|Zophar Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 11
+book/chapter: "[[Job.11|Job 11]]"
+chronological_order: 22
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H2498]]"
+- "[[H9002]]"
+- "[[H5462]]"
+- "[[H6950]]"
+- "[[H4310]]"
+- "[[H7725G]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 11:10**<big><big>[[Job.11.1 Zophar Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If he cut off, and shut up, or gather together, then who can hinder him?
 <small><sub>**BSB:**</sub></small>
 If He comes along to imprison you, or convenes a court, who can stop Him?
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H2498\|יַחֲלֹ֥ף]] [[H9002\|וְ]][[H5462\|יַסְגִּ֑יר]] [[H9002\|וְ֝]][[H6950\|יַקְהִ֗יל]] [[H9002\|וּ]][[H4310\|מִ֣י]] [[H7725G\|יְשִׁיבֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.9|<< Job 11:9]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.11|Job 11:11 >>]]</td></tr></table>
 

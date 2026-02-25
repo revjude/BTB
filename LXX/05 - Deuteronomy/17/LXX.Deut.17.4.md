@@ -1,6 +1,62 @@
+---
+title: LXX Deuteronomy 17:4
+type: Verse
+lxx: "and it should be announced to you, and you heard, and you sought exceedingly, and behold, if truly the thing has happened that this abomination came to pass in Israel;"
+greek: "και αναγγελή σοι και ακούσεις και ζητήσεις σφόδρα και ιδού αληθώς γέγονε το ρήμα γεγένηται το βδέλυγμα τούτο εν Ισραήλ"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 17
+book/chapter: "[[Deut.17|Deuteronomy 17]]"
+chronological_order: 213
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G0312]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G2532]]"
+- "[[G2212]]"
+- "[[G4970]]"
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G0230]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G4487]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G0946]]"
+- "[[G3778]]"
+- "[[G1722]]"
+- "[[G2474]]"
+---
+
 **LXX Deuteronomy 17:4** 
 <small><sub>**LXX:**</sub></small>
 and it should be announced to you, and you heard, and you sought exceedingly, and behold, \[if\] truly the thing has happened \[that\] this abomination came to pass in Israel; 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0312\|αναγγελή]] [[G1473\|σοι]] [[G2532\|και]] [[G0191\|ακούσεις]] [[G2532\|και]] [[G2212\|ζητήσεις]] [[G4970\|σφόδρα]] [[G2532\|και]] [[G2400\|ιδού]] [[G0230\|αληθώς]] [[G1096\|γέγονε]] [[G3588\|το]] [[G4487\|ρήμα]] [[G1096\|γεγένηται]] [[G3588\|το]] [[G0946\|βδέλυγμα]] [[G3778\|τούτο]] [[G1722\|εν]] [[G2474\|Ισραήλ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.17.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.3|<< Deuteronomy 17:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.5|Deuteronomy 17:5 >>]]</td></tr></table>
 
@@ -25,6 +81,6 @@ and it should be announced to you, and you heard, and you sought exceedingly, an
 | \[that\] this abomination | **<big>[[G0946\|βδέλυγμα]]</big>** **<big>[[G3778\|τούτο]]</big>** |
 | in | **<big>[[G1722\|εν]]</big>** |
 | Israel; | **<big>[[G2474\|Ισραήλ]]</big>** |
-[[Deut.17.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.3|<< Deuteronomy 17:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.5|Deuteronomy 17:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.3|<< Deuteronomy 17:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.5|Deuteronomy 17:5 >>]]</td></tr></table>
 
 

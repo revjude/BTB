@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Laban Pursues Jacob
+type: Pericope
 pericope: "[[Gen.31.22 Laban Pursues Jacob|Laban Pursues Jacob]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 31
 book/chapter: "[[Gen.31|Genesis 31]]"
-genre:
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 21
 verses:
 - "[[Gen.31.22]]"
 - "[[Gen.31.23]]"
@@ -42,7 +49,7 @@ verses:
 - "[[Gen.31.42]]"
 ---
 
-[[Gen.31|Genesis 31:22 - Genesis 31:42]]
+<small>[[Gen.31|Genesis 31:22-42]]</small>
 *Laban Pursues Jacob*
 
 [[Gen.31.22|22]] And it was told Laban on the third day that Jacob was fled.

@@ -1,8 +1,53 @@
+---
+title: Psalm 89:39
+type: Verse
+kjv: "Thou hast made void the covenant of thy servant: thou hast profaned his crown by casting it to the ground."
+bsb: "You have renounced the covenant with Your servant and sullied his crown in the dust."
+hebrew: "נֵ֭אַרְתָּה בְּרִ֣ית עַבְדֶּ֑ךָ חִלַּ֖לְתָּ לָאָ֣רֶץ נִזְרֽוֹ׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H5010]]"
+- "[[H1285]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H2490H]]"
+- "[[H9005]]"
+- "[[H0776H]]"
+- "[[H5145H]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 89:39**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast made void the covenant of thy servant: thou hast profaned his crown [by casting it] to the ground.
 <small><sub>**BSB:**</sub></small>
 You have renounced the covenant with Your servant and sullied his crown in the dust.
+<small><sub>**Hebrew:**</sub></small>
+[[H5010\|נֵ֭אַרְתָּה]] [[H1285\|בְּרִ֣ית]] [[H5650\|עַבְדֶּ֑]][[H9021\|ךָ]] [[H2490H\|חִלַּ֖לְתָּ]] [[H9005\|לָ]][[H0776H\|אָ֣רֶץ]] [[H5145H\|נִזְרֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.38|<< Psalms 89:38]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.40|Psalms 89:40 >>]]</td></tr></table>
 

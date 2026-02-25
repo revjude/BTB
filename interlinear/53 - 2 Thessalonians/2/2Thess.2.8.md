@@ -1,10 +1,61 @@
+---
+title: 2 Thessalonians 2:8
+type: Verse
+kjv: "And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:"
+bsb: "And then the lawless one will be revealed, whom the Lord Jesus will slay with the breath of His mouth and annihilate by the majesty of His arrival."
+greek: "καὶ τότε ἀποκαλυφθήσεται ὁ ἄνομος ὃν ὁ κύριος Ἰησοῦς ἀνελεῖ τῷ πνεύματι τοῦ στόματος αὐτοῦ καὶ καταργήσει τῇ ἐπιφανείᾳ τῆς παρουσίας αὐτοῦ·"
+pericope: "[[2Thess.2.1 The Man of Lawlessness|The Man of Lawlessness]]"
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 2
+book/chapter: "[[2Thess.2|2 Thessalonians 2]]"
+chronological_order: 1054
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic ANTICHRIST|ANTICHRIST]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G5119]]"
+- "[[G0601]]"
+- "[[G3588]]"
+- "[[G0459]]"
+- "[[G3739]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G0337]]"
+- "[[G4151H]]"
+- "[[G4750]]"
+- "[[G0846]]"
+- "[[G2673]]"
+- "[[G2015]]"
+- "[[G3952]]"
+texts:
+- NKO
+- NO
+- N(k)O
+---
+
 **2 Thessalonians 2:8**<big><big>[[2Thess.2.1 The Man of Lawlessness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:
 <small><sub>**BSB:**</sub></small>
 And then the lawless one will be revealed, whom the Lord Jesus will slay with the breath of His mouth and annihilate by the majesty of His arrival.
-<small><sub>**Literal:**</sub></small>
-And then will be revealed the lawless [one] whom the Lord Jesus will execute with the breath of the mouth of Him and will annul by the appearing of the coming of Him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.7|<< 2 Thessalonians 2:7]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.9|2 Thessalonians 2:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5119\|τότε]]  [[G0601\|ἀποκαλυφθήσεται]]  [[G3588\|ὁ]]  [[G0459\|ἄνομος]]  [[G3739\|ὃν]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G2424G\|Ἰησοῦς]]  [[G0337\|ἀνελεῖ]]  [[G3588\|τῷ]]  [[G4151H\|πνεύματι]]  [[G3588\|τοῦ]]  [[G4750\|στόματος]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G2673\|καταργήσει]]  [[G3588\|τῇ]]  [[G2015\|ἐπιφανείᾳ]]  [[G3588\|τῆς]]  [[G3952\|παρουσίας]]  [[G0846\|αὐτοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTICHRIST|ANTICHRIST]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REPROBACY|REPROBACY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.7|<< 2 Thessalonians 2:7]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.9|2 Thessalonians 2:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Thessalonians 2:8** is...
 > $\quad$ possibly alluding to: [[LXX.Isa.11.4|Isa 11:4]]

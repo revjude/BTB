@@ -1,10 +1,54 @@
+---
+title: Matthew 12:48
+type: Verse
+kjv: "But he answered and said unto him that told him, Who is my mother? and who are my brethren?"
+bsb: "But Jesus replied, “Who is My mother, and who are My brothers?”"
+jesus_said: "Who is my mother? and who are my brethren?"
+greek: "ὁ δὲ ἀποκριθεὶς εἶπεν τῷ λέγοντι αὐτῷ· τίς ἐστιν ἡ μήτηρ μου καὶ τίνες εἰσὶν οἱ ἀδελφοί μου;"
+pericope: "[[Matt.12.46 Jesus’ Mother and Brothers|Jesus’ Mother and Brothers]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0611]]"
+- "[[G2036]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G3384]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G0080]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 12:48**<big><big>[[Matt.12.46 Jesus’ Mother and Brothers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he answered and said unto him that told him, Who is my mother? and who are my brethren?
 <small><sub>**BSB:**</sub></small>
 But Jesus replied, “Who is My mother, and who are My brothers?”
-<small><sub>**Literal:**</sub></small>
-<the> And answering He said to the [one] telling to Him; Who is the mother of Mine and who are the brothers of Mine?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.47|<< Matthew 12:47]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.49|Matthew 12:49 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G0611\|ἀποκριθεὶς]]  [[G2036\|εἶπεν]]  [[G3588\|τῷ]]  [[G3004G\|λέγοντι]]  [[G0846\|αὐτῷ·]]  [[G5101\|τίς]]  [[G1510\|ἐστιν]]  [[G3588\|ἡ]]  [[G3384\|μήτηρ]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G5101\|τίνες]]  [[G1510\|εἰσὶν]]  [[G3588\|οἱ]]  [[G0080\|ἀδελφοί]]  [[G3165\|μου;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FELLOWSHIP|FELLOWSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.47|<< Matthew 12:47]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.49|Matthew 12:49 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

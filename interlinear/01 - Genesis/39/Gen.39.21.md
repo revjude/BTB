@@ -1,8 +1,67 @@
+---
+title: Genesis 39:21
+type: Verse
+kjv: "But the LORD was with Joseph, and shewed him mercy, and gave him favour in the sight of the keeper of the prison."
+bsb: "the LORD was with him and extended kindness to him, granting him favor in the eyes of the prison warden."
+hebrew: "וַיְהִ֤י יְהוָה֙ אֶת־ יוֹסֵ֔ף וַיֵּ֥ט אֵלָ֖יו חָ֑סֶד וַיִּתֵּ֣ן חִנּ֔וֹ בְּעֵינֵ֖י שַׂ֥ר בֵּית־ הַסֹּֽהַר׃"
+pericope: "[[Gen.39.13 Joseph Falsely Imprisoned|Joseph Falsely Imprisoned]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 39
+book/chapter: "[[Gen.39|Genesis 39]]"
+chronological_order: 81
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CRIMINALS|CRIMINALS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MERCY|MERCY]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3068G]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H3130G]]"
+- "[[H5186]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H2617A]]"
+- "[[H5414G]]"
+- "[[H2580]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H8269]]"
+- "[[H1004B]]"
+- "[[H9009]]"
+- "[[H5470]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 39:21**<big><big>[[Gen.39.13 Joseph Falsely Imprisoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the LORD was with Joseph, and shewed him mercy, and gave him favour in the sight of the keeper of the prison.
 <small><sub>**BSB:**</sub></small>
 the LORD was with him and extended kindness to him, granting him favor in the eyes of the prison warden.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H3068G\|יְהוָה֙]] [[H0854\|אֶת]][[H9014\|־]] [[H3130G\|יוֹסֵ֔ף]] [[H9001\|וַ]][[H5186\|יֵּ֥ט]] [[H0413\|אֵלָ֖י]][[H9033\|ו]] [[H2617A\|חָ֑סֶד]] [[H9001\|וַ]][[H5414G\|יִּתֵּ֣ן]] [[H2580\|חִנּ֔]][[H9023\|וֹ]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֖י]] [[H8269\|שַׂ֥ר]] [[H1004B\|בֵּית]][[H9014\|־]] [[H9009\|הַ]][[H5470\|סֹּֽהַר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRIMINALS|CRIMINALS]] • [[topic GOD|GOD]] • [[topic JOSEPH|JOSEPH]] • [[topic MERCY|MERCY]] • [[topic PRISONERS|PRISONERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.20|<< Genesis 39:20]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.22|Genesis 39:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

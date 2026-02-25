@@ -1,8 +1,65 @@
+---
+title: Exodus 29:5
+type: Verse
+kjv: "And thou shalt take the garments, and put upon Aaron the coat, and the robe of the ephod, and the ephod, and the breastplate, and gird him with the curious girdle of the ephod:"
+bsb: "Take the garments and clothe Aaron with the tunic, the robe of the ephod, the ephod itself, and the breastplate. Fasten the ephod on him with its woven waistband."
+hebrew: "וְלָקַחְתָּ֣ אֶת־ הַבְּגָדִ֗ים וְהִלְבַּשְׁתָּ֤ אֶֽת־ אַהֲרֹן֙ אֶת־ הַכֻּתֹּ֔נֶת וְאֵת֙ מְעִ֣יל הָאֵפֹ֔ד וְאֶת־ הָאֵפֹ֖ד וְאֶת־ הַחֹ֑שֶׁן וְאָפַדְתָּ֣ ל֔וֹ בְּחֵ֖שֶׁב הָאֵפֹֽד׃"
+pericope: "[[Exod.29.1 Consecration of the Priests|Consecration of the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 29
+book/chapter: "[[Exod.29|Exodus 29]]"
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BREASTPLATE|BREASTPLATE]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0899B]]"
+- "[[H3847]]"
+- "[[H0175]]"
+- "[[H3801]]"
+- "[[H9002]]"
+- "[[H4598]]"
+- "[[H0646]]"
+- "[[H2833]]"
+- "[[H0640]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H2805]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 29:5**<big><big>[[Exod.29.1 Consecration of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt take the garments, and put upon Aaron the coat, and the robe of the ephod, and the ephod, and the breastplate, and gird him with the curious girdle of the ephod:
 <small><sub>**BSB:**</sub></small>
 Take the garments and clothe Aaron with the tunic, the robe of the ephod, the ephod itself, and the breastplate. Fasten the ephod on him with its woven waistband.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקַחְתָּ֣]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H0899B\|בְּגָדִ֗ים]] [[H9001\|וְ]][[H3847\|הִלְבַּשְׁתָּ֤]] [[H0853\|אֶֽת]][[H9014\|־]] [[H0175\|אַהֲרֹן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3801\|כֻּתֹּ֔נֶת]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H4598\|מְעִ֣יל]] [[H9009\|הָ]][[H0646\|אֵפֹ֔ד]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0646\|אֵפֹ֖ד]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2833\|חֹ֑שֶׁן]] [[H9001\|וְ]][[H0640\|אָפַדְתָּ֣]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9003\|בְּ]][[H2805\|חֵ֖שֶׁב]] [[H9009\|הָ]][[H0646\|אֵפֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREASTPLATE|BREASTPLATE]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.4|<< Exodus 29:4]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.6|Exodus 29:6 >>]]</td></tr></table>
 

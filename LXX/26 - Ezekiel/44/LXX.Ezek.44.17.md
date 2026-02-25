@@ -1,6 +1,69 @@
+---
+title: LXX Ezekiel 44:17
+type: Verse
+lxx: "And they shall be in  their entering into the gates of the inner courtyard that they shall put on flaxen linen apparels, and they shall not put on wool in  their ministering from the inner gate of the courtyard."
+greek: "και έσονται εν τω εισπορεύεσθαι αυτούς εις τας πύλας της αυλής της εσωτέρας στολάς λινάς ενδύσονται και ουκ ενδύσονται έρια εν τω λειτουργείν αυτούς από της πύλης της εσωτέρας αυλής"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 44
+book/chapter: "[[Ezek.44|Ezekiel 44]]"
+chronological_order: 835
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic WOOL|WOOL]]"
+strongs:
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1531]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4439]]"
+- "[[G3588]]"
+- "[[G0833]]"
+- "[[G3588]]"
+- "[[G2082]]"
+- "[[G4749]]"
+- "[[G8200]]"
+- "[[G1746]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1746]]"
+- "[[G2053]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3008]]"
+- "[[G1473]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G4439]]"
+- "[[G3588]]"
+- "[[G2082]]"
+- "[[G0833]]"
+---
+
 **LXX Ezekiel 44:17** 
 <small><sub>**LXX:**</sub></small>
 And they shall be in  their entering into the gates of the inner courtyard \[that\] they shall put on flaxen linen apparels, and they shall not put on wool in  their ministering from the inner gate of \[the\] courtyard. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1510\|έσονται]] [[G1722\|εν]] [[G3588\|τω]] [[G1531\|εισπορεύεσθαι]] [[G1473\|αυτούς]] [[G1519\|εις]] [[G3588\|τας]] [[G4439\|πύλας]] [[G3588\|της]] [[G0833\|αυλής]] [[G3588\|της]] [[G2082\|εσωτέρας]] [[G4749\|στολάς]] [[G8200\|λινάς]] [[G1746\|ενδύσονται]] [[G2532\|και]] [[G3756\|ουκ]] [[G1746\|ενδύσονται]] [[G2053\|έρια]] [[G1722\|εν]] [[G3588\|τω]] [[G3008\|λειτουργείν]] [[G1473\|αυτούς]] [[G0575\|από]] [[G3588\|της]] [[G4439\|πύλης]] [[G3588\|της]] [[G2082\|εσωτέρας]] [[G0833\|αυλής]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]] • [[topic WOOL|WOOL]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.44.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.16|<< Ezekiel 44:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.18|Ezekiel 44:18 >>]]</td></tr></table>
 
@@ -34,6 +97,6 @@ And they shall be in  their entering into the gates of the inner courtyard \[tha
 | \<obj.> | **<big>[[G3588\|της]]</big>** |
 | inner | **<big>[[G2082\|εσωτέρας]]</big>** |
 | of \[the\] courtyard. | **<big>[[G0833\|αυλής]]</big>** |
-[[Ezek.44.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.16|<< Ezekiel 44:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.18|Ezekiel 44:18 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.16|<< Ezekiel 44:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.18|Ezekiel 44:18 >>]]</td></tr></table>
 
 

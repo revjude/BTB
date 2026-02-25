@@ -1,8 +1,67 @@
+---
+title: Numbers 14:41
+type: Verse
+kjv: "And Moses said, Wherefore now do ye transgress the commandment of the LORD? but it shall not prosper."
+bsb: "But Moses said, “Why are you transgressing the commandment of the LORD? This will not succeed!"
+hebrew: "וַיֹּ֣אמֶר מֹשֶׁ֔ה לָ֥מָּה זֶּ֛ה אַתֶּ֥ם עֹבְרִ֖ים אֶת־ פִּ֣י יְהוָ֑ה וְהִ֖וא לֹ֥א תִצְלָֽח׃"
+pericope: "[[Num.14.40 The Defeat at Hormah|The Defeat at Hormah]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 14
+book/chapter: "[[Num.14|Numbers 14]]"
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SIN|SIN]]"
+- "[[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H2088]]"
+- "[[H0859D]]"
+- "[[H5674D]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6310I]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H3808]]"
+- "[[H6743B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 14:41**<big><big>[[Num.14.40 The Defeat at Hormah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses said, Wherefore now do ye transgress the commandment of the LORD? but it shall not prosper.
 <small><sub>**BSB:**</sub></small>
 But Moses said, “Why are you transgressing the commandment of the LORD? This will not succeed!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H4872\|מֹשֶׁ֔ה]] [[H9005\|לָ֥]][[H4100\|מָּה]] [[H2088\|זֶּ֛ה]] [[H0859D\|אַתֶּ֥ם]] [[H5674D\|עֹבְרִ֖ים]] [[H0853\|אֶת]][[H9014\|־]] [[H6310I\|פִּ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H1931\|הִ֖וא]] [[H3808\|לֹ֥א]] [[H6743B\|תִצְלָֽח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic ISRAEL|ISRAEL]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REPROBACY|REPROBACY]] • [[topic REPROOF|REPROOF]] • [[topic SIN|SIN]] • [[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.40|<< Numbers 14:40]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.42|Numbers 14:42 >>]]</td></tr></table>
 

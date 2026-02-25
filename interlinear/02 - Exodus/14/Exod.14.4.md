@@ -1,8 +1,70 @@
+---
+title: Exodus 14:4
+type: Verse
+kjv: "And I will harden Pharaoh’s heart, that he shall follow after them; and I will be honoured upon Pharaoh, and upon all his host; that the Egyptians may know that I am the LORD. And they did so."
+bsb: "And I will harden Pharaoh’s heart so that he will pursue them. But I will gain honor by means of Pharaoh and all his army, and the Egyptians will know that I am the LORD.” So this is what the Israelites did."
+hebrew: "וְחִזַּקְתִּ֣י אֶת־ לֵב־ פַּרְעֹה֮ וְרָדַ֣ף אַחֲרֵיהֶם֒ וְאִכָּבְדָ֤ה בְּפַרְעֹה֙ וּבְכָל־ חֵיל֔וֹ וְיָדְע֥וּ מִצְרַ֖יִם כִּֽי־ אֲנִ֣י יְהוָ֑ה וַיַּֽעֲשׂוּ־ כֵֽן׃"
+pericope: "[[Exod.14.1 Pharaoh Pursues the Israelites|Pharaoh Pursues the Israelites]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 14
+book/chapter: "[[Exod.14|Exodus 14]]"
+chronological_order: 106
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H2388G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H6547J]]"
+- "[[H7291]]"
+- "[[H0310A]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H3513G]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H2428A]]"
+- "[[H9023]]"
+- "[[H3045]]"
+- "[[H4713]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H6213A]]"
+- "[[H3651C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 14:4**<big><big>[[Exod.14.1 Pharaoh Pursues the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will harden Pharaoh’s heart, that he shall follow after them; and I will be honoured upon Pharaoh, and upon all his host; that the Egyptians may know that I [am] the LORD. And they did so.
 <small><sub>**BSB:**</sub></small>
 And I will harden Pharaoh’s heart so that he will pursue them. But I will gain honor by means of Pharaoh and all his army, and the Egyptians will know that I am the LORD.” So this is what the Israelites did.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2388G\|חִזַּקְתִּ֣י]] [[H0853\|אֶת]][[H9014\|־]] [[H3820A\|לֵב]][[H9014\|־]] [[H6547J\|פַּרְעֹה֮]] [[H9001\|וְ]][[H7291\|רָדַ֣ף]] [[H0310A\|אַחֲרֵי]][[H9038\|הֶם֒]] [[H9002\|וְ]][[H3513G\|אִכָּבְדָ֤ה]] [[H9003\|בְּ]][[H6547J\|פַרְעֹה֙]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H2428A\|חֵיל֔]][[H9023\|וֹ]] [[H9001\|וְ]][[H3045\|יָדְע֥וּ]] [[H4713\|מִצְרַ֖יִם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H6213A\|יַּֽעֲשׂוּ]][[H9014\|־]] [[H3651C\|כֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.14.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.3|<< Exodus 14:3]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.5|Exodus 14:5 >>]]</td></tr></table>
 

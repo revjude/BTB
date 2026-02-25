@@ -1,8 +1,62 @@
+---
+title: Daniel 4:11
+type: Verse
+kjv: "The tree grew, and was strong, and the height thereof reached unto heaven, and the sight thereof to the end of all the earth:"
+bsb: "The tree grew large and strong; its top reached the sky, and it was visible to the ends of the earth."
+aramaic: "רְבָ֥ה אִֽילָנָ֖א וּתְקִ֑ף וְרוּמֵהּ֙ יִמְטֵ֣א לִשְׁמַיָּ֔א וַחֲזוֹתֵ֖הּ לְס֥וֹף כָּל־ אַרְעָֽא׃"
+pericope: "[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|Nebuchadnezzar’s Dream of a Great Tree]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 4
+book/chapter: "[[Dan.4|Daniel 4]]"
+chronological_order: 789
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic TREE|TREE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7236]]"
+- "[[H0363]]"
+- "[[H9010]]"
+- "[[H9002]]"
+- "[[H8631]]"
+- "[[H7314]]"
+- "[[H9023]]"
+- "[[H4291]]"
+- "[[H9005]]"
+- "[[H8065]]"
+- "[[H2379]]"
+- "[[H5491]]"
+- "[[H3606]]"
+- "[[H9014]]"
+- "[[H0772I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 4:11**<big><big>[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The tree grew, and was strong, and the height thereof reached unto heaven, and the sight thereof to the end of all the earth:
 <small><sub>**BSB:**</sub></small>
 The tree grew large and strong; its top reached the sky, and it was visible to the ends of the earth.
+<small><sub>**Aramaic:**</sub></small>
+[[H7236\|רְבָ֥ה]] [[H0363\|אִֽילָנָ֖]][[H9010\|א]] [[H9002\|וּ]][[H8631\|תְקִ֑ף]] [[H9002\|וְ]][[H7314\|רוּמֵ]][[H9023\|הּ֙]] [[H4291\|יִמְטֵ֣א]] [[H9005\|לִ]][[H8065\|שְׁמַיָּ֔]][[H9010\|א]] [[H9002\|וַ]][[H2379\|חֲזוֹתֵ֖]][[H9023\|הּ]] [[H9005\|לְ]][[H5491\|ס֥וֹף]] [[H3606\|כָּל]][[H9014\|־]] [[H0772I\|אַרְעָֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CONVERTS|CONVERTS]] • [[topic HEATHEN|HEATHEN]] • [[topic TESTIMONY|TESTIMONY]] • [[topic TREE|TREE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.10|<< Daniel 4:10]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.12|Daniel 4:12 >>]]</td></tr></table>
 

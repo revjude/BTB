@@ -1,8 +1,64 @@
+---
+title: Ezekiel 34:14
+type: Verse
+kjv: "I will feed them in a good pasture, and upon the high mountains of Israel shall their fold be: there shall they lie in a good fold, and in a fat pasture shall they feed upon the mountains of Israel."
+bsb: "I will feed them in good pasture, and the lofty mountains of Israel will be their grazing land. There they will lie down in a good grazing land; they will feed in rich pasture on the mountains of Israel."
+hebrew: "בְּמִרְעֶה־ טּוֹב֙ אֶרְעֶ֣ה אֹתָ֔ם וּבְהָרֵ֥י מְרֽוֹם־ יִשְׂרָאֵ֖ל יִהְיֶ֣ה נְוֵהֶ֑ם שָׁ֤ם תִּרְבַּ֙צְנָה֙ בְּנָ֣וֶה טּ֔וֹב וּמִרְעֶ֥ה שָׁמֵ֛ן תִּרְעֶ֖ינָה אֶל־ הָרֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Ezek.34.11 The Good Shepherd|The Good Shepherd]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 34
+book/chapter: "[[Ezek.34|Ezekiel 34]]"
+chronological_order: 825
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9003]]"
+- "[[H4829]]"
+- "[[H9014]]"
+- "[[H2896A]]"
+- "[[H7462B]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H2022G]]"
+- "[[H4791]]"
+- "[[H3478]]"
+- "[[H1961]]"
+- "[[H5116A]]"
+- "[[H9028]]"
+- "[[H8033G]]"
+- "[[H7257]]"
+- "[[H8082]]"
+- "[[H0413]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 34:14**<big><big>[[Ezek.34.11 The Good Shepherd|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will feed them in a good pasture, and upon the high mountains of Israel shall their fold be: there shall they lie in a good fold, and [in] a fat pasture shall they feed upon the mountains of Israel.
 <small><sub>**BSB:**</sub></small>
 I will feed them in good pasture, and the lofty mountains of Israel will be their grazing land. There they will lie down in a good grazing land; they will feed in rich pasture on the mountains of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H4829\|מִרְעֶה]][[H9014\|־]] [[H2896A\|טּוֹב֙]] [[H7462B\|אֶרְעֶ֣ה]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H9002\|וּ]][[H9003\|בְ]][[H2022G\|הָרֵ֥י]] [[H4791\|מְרֽוֹם]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H1961\|יִהְיֶ֣ה]] [[H5116A\|נְוֵ]][[H9028\|הֶ֑ם]] [[H8033G\|שָׁ֤ם]] [[H7257\|תִּרְבַּ֙צְנָה֙]] [[H9003\|בְּ]][[H5116A\|נָ֣וֶה]] [[H2896A\|טּ֔וֹב]] [[H9002\|וּ]][[H4829\|מִרְעֶ֥ה]] [[H8082\|שָׁמֵ֛ן]] [[H7462B\|תִּרְעֶ֖ינָה]] [[H0413\|אֶל]][[H9014\|־]] [[H2022G\|הָרֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.13|<< Ezekiel 34:13]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.15|Ezekiel 34:15 >>]]</td></tr></table>
 

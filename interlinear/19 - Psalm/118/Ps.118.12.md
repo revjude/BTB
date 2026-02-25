@@ -1,8 +1,59 @@
+---
+title: Psalm 118:12
+type: Verse
+kjv: "They compassed me about like bees; they are quenched as the fire of thorns: for in the name of the LORD I will destroy them."
+bsb: "They swarmed around me like bees, but they were extinguished like burning thorns; in the name of the LORD I cut them off."
+hebrew: "סַבּ֤וּנִי כִדְבוֹרִ֗ים דֹּ֭עֲכוּ כְּאֵ֣שׁ קוֹצִ֑ים בְּשֵׁ֥ם יְ֝הוָ֗ה כִּ֣י אֲמִילַֽם׃"
+pericope: "[[Ps.118.1 The LORD Is on My Side|The LORD Is on My Side]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 118
+book/chapter: "[[Ps.118|Psalm 118]]"
+chronological_order: 880
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BEE|BEE]]"
+- "[[topic THORN|THORN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H5437H]]"
+- "[[H9030]]"
+- "[[H9004]]"
+- "[[H1682]]"
+- "[[H1846]]"
+- "[[H0784]]"
+- "[[H6975]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H4135A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 118:12**<big><big>[[Ps.118.1 The LORD Is on My Side|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They compassed me about like bees; they are quenched as the fire of thorns: for in the name of the LORD I will destroy them.
 <small><sub>**BSB:**</sub></small>
 They swarmed around me like bees, but they were extinguished like burning thorns; in the name of the LORD I cut them off.
+<small><sub>**Hebrew:**</sub></small>
+[[H5437H\|סַבּ֤וּ]][[H9030\|נִי]] [[H9004\|כִ]][[H1682\|דְבוֹרִ֗ים]] [[H1846\|דֹּ֭עֲכוּ]] [[H9004\|כְּ]][[H0784\|אֵ֣שׁ]] [[H6975\|קוֹצִ֑ים]] [[H9003\|בְּ]][[H8034\|שֵׁ֥ם]] [[H3068G\|יְ֝הוָ֗ה]] [[H3588A\|כִּ֣י]] [[H4135A\|אֲמִילַֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEE|BEE]] • [[topic THORN|THORN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.118.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.11|<< Psalms 118:11]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.13|Psalms 118:13 >>]]</td></tr></table>
 

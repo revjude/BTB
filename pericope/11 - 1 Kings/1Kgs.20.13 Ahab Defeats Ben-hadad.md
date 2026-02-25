@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ahab Defeats Ben-hadad
+type: Pericope
 pericope: "[[1Kgs.20.13 Ahab Defeats Ben-hadad|Ahab Defeats Ben-hadad]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 20
 book/chapter: "[[1Kgs.20|1 Kings 20]]"
-genre:
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 13
 verses:
 - "[[1Kgs.20.13]]"
 - "[[1Kgs.20.14]]"
@@ -33,7 +40,7 @@ verses:
 - "[[1Kgs.20.25]]"
 ---
 
-[[1Kgs.20|1 Kings 20:13 - 1 Kings 20:25]]
+<small>[[1Kgs.20|1 Kings 20:13-25]]</small>
 *Ahab Defeats Ben-hadad*
 
 [[1Kgs.20.13|13]] And, behold, there came a prophet unto Ahab king of Israel, saying, Thus saith the LORD, Hast thou seen all this great multitude? behold, I will deliver it into thine hand this day; and thou shalt know that I \[am\] the LORD.

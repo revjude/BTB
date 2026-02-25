@@ -1,8 +1,65 @@
+---
+title: Isaiah 37:20
+type: Verse
+kjv: "Now therefore, O LORD our God, save us from his hand, that all the kingdoms of the earth may know that thou art the LORD, even thou only."
+bsb: "And now, O LORD our God, save us from his hand, so that all the kingdoms of the earth may know that You alone, O LORD, are God.”"
+hebrew: "וְעַתָּה֙ יְהוָ֣ה אֱלֹהֵ֔ינוּ הוֹשִׁיעֵ֖נוּ מִיָד֑וֹ וְיֵֽדְעוּ֙ כָּל־ מַמְלְכ֣וֹת הָאָ֔רֶץ כִּֽי־ אַתָּ֥ה יְהוָ֖ה לְבַדֶּֽךָ׃"
+pericope: "[[Isa.37.14 Hezekiah’s Prayer|Hezekiah’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 37
+book/chapter: "[[Isa.37|Isaiah 37]]"
+chronological_order: 664
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic LIBNAH|LIBNAH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H3467]]"
+- "[[H9035]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H9023]]"
+- "[[H3045]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4467]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H3588A]]"
+- "[[H0859A]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 37:20**<big><big>[[Isa.37.14 Hezekiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore, O LORD our God, save us from his hand, that all the kingdoms of the earth may know that thou [art] the LORD, [even] thou only.
 <small><sub>**BSB:**</sub></small>
 And now, O LORD our God, save us from his hand, so that all the kingdoms of the earth may know that You alone, O LORD, are God.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּה֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵ֔י]][[H9025\|נוּ]] [[H3467\|הוֹשִׁיעֵ֖]][[H9035\|נוּ]] [[H9006\|מִ]][[H3027H\|יָד֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H3045\|יֵֽדְעוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H4467\|מַמְלְכ֣וֹת]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0859A\|אַתָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לְ]][[H0905H\|בַדֶּֽ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic LIBNAH|LIBNAH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.19|<< Isaiah 37:19]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.21|Isaiah 37:21 >>]]</td></tr></table>
 

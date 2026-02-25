@@ -1,10 +1,61 @@
+---
+title: Revelation 9:19
+type: Verse
+kjv: "For their power is in their mouth, and in their tails: for their tails were like unto serpents, and had heads, and with them they do hurt."
+bsb: "For the power of the horses was in their mouths and in their tails; indeed, their tails were like snakes, having heads with which to inflict harm."
+greek: "ἡ γὰρ ἐξουσία τῶν ἵππων ἐν τῷ στόματι αὐτῶν ἐστιν καὶ ἐν ταῖς οὐραῖς αὐτῶν. αἱ γὰρ οὐραὶ αὐτῶν ὅμοιαι ὄφεσιν ἔχουσαι κεφαλὰς καὶ ἐν αὐταῖς ἀδικοῦσιν."
+pericope: "[[Rev.9.13 The Sixth Trumpet|The Sixth Trumpet]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 9
+book/chapter: "[[Rev.9|Revelation 9]]"
+chronological_order: 1176
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic SERPENT|SERPENT]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G1849]]"
+- "[[G2462]]"
+- "[[G1722]]"
+- "[[G4750]]"
+- "[[G0846]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G3769]]"
+- "[[G3664]]"
+- "[[G3789]]"
+- "[[G2192]]"
+- "[[G2776]]"
+- "[[G0091]]"
+texts:
+- N(k)O
+- NKO
+- NO
+- NK(o)
+---
+
 **Revelation 9:19**<big><big>[[Rev.9.13 The Sixth Trumpet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For their power is in their mouth, and in their tails: for their tails [were] like unto serpents, and had heads, and with them they do hurt.
 <small><sub>**BSB:**</sub></small>
 For the power of the horses was in their mouths and in their tails; indeed, their tails were like snakes, having heads with which to inflict harm.
-<small><sub>**Literal:**</sub></small>
-the for power of the horses in the mouths of them are and in the tails of them. the for tails of them [are] like as serpents having heads and with them they injure.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.18|<< Revelation 9:18]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.20|Revelation 9:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G1063\|γὰρ]]  [[G1849\|ἐξουσία]]  [[G3588\|τῶν]]  [[G2462\|ἵππων]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4750\|στόματι]]  [[G0846\|αὐτῶν]]  [[G1510\|ἐστιν]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G3769\|οὐραῖς]]  [[G0846\|αὐτῶν.]]  [[G3588\|αἱ]]  [[G1063\|γὰρ]]  [[G3769\|οὐραὶ]]  [[G0846\|αὐτῶν]]  [[G3664\|ὅμοιαι]]  [[G3789\|ὄφεσιν]]  [[G2192\|ἔχουσαι]]  [[G2776\|κεφαλὰς]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G0846\|αὐταῖς]]  [[G0091\|ἀδικοῦσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic SERPENT|SERPENT]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.18|<< Revelation 9:18]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.20|Revelation 9:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

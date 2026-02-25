@@ -1,10 +1,64 @@
+---
+title: Mark 9:19
+type: Verse
+kjv: "He answereth him, and saith, O faithless generation, how long shall I be with you? how long shall I suffer you? bring him unto me."
+bsb: "“O unbelieving generation!” Jesus replied. “How long must I remain with you? How long must I put up with you? Bring the boy to Me.”"
+jesus_said: "O faithless generation, how long shall I be with you? how long shall I suffer you? bring him unto me."
+greek: "Ὁ δὲ ἀποκριθεὶς αὐτοῖς λέγει· ὦ γενεὰ ἄπιστος, ἕως πότε πρὸς ὑμᾶς ἔσομαι, ἕως πότε ἀνέξομαι ὑμῶν; φέρετε αὐτὸν πρός με."
+pericope: "[[Mark.9.14 The Boy with an Evil Spirit|The Boy with an Evil Spirit]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic EPILEPSY|EPILEPSY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G5599]]"
+- "[[G1074]]"
+- "[[G0571]]"
+- "[[G2193]]"
+- "[[G4219]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G0430]]"
+- "[[G5342]]"
+- "[[G3165]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Mark 9:19**<big><big>[[Mark.9.14 The Boy with an Evil Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He answereth him, and saith, O faithless generation, how long shall I be with you? how long shall I suffer you? bring him unto me.
 <small><sub>**BSB:**</sub></small>
 “O unbelieving generation!” Jesus replied. “How long must I remain with you? How long must I put up with you? Bring the boy to Me.”
-<small><sub>**Literal:**</sub></small>
-<the> And answering to them He says; O generation unbelieving! Until when with you will I be? Until when will I bear with you? do bring him to Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.18|<< Mark 9:18]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.20|Mark 9:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G0611\|ἀποκριθεὶς]]  [[G0846\|αὐτοῖς]]  [[G3004G\|λέγει·]]  [[G5599\|ὦ]]  [[G1074\|γενεὰ]]  [[G0571\|ἄπιστος,]]  [[G2193\|ἕως]]  [[G4219\|πότε]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G1510\|ἔσομαι,]]  [[G2193\|ἕως]]  [[G4219\|πότε]]  [[G0430\|ἀνέξομαι]]  [[G4771\|ὑμῶν;]]  [[G5342\|φέρετε]]  [[G0846\|αὐτὸν]]  [[G4314\|πρός]]  [[G3165\|με.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic DOUBTING|DOUBTING]] • [[topic EPILEPSY|EPILEPSY]] • [[topic FAITH|FAITH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.18|<< Mark 9:18]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.20|Mark 9:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

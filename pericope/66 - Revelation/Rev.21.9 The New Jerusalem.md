@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The New Jerusalem
+type: Pericope
 pericope: "[[Rev.21.9 The New Jerusalem|The New Jerusalem]]"
-verse_count: 19
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 21
 book/chapter: "[[Rev.21|Revelation 21]]"
-genre:
+chronological_order: 1188
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 19
 verses:
 - "[[Rev.21.9]]"
 - "[[Rev.21.10]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Rev.21.27]]"
 ---
 
-[[Rev.21|Revelation 21:9 - Revelation 21:27]]
+<small>[[Rev.21|Revelation 21:9-27]]</small>
 *The New Jerusalem*
 
 [[Rev.21.9|9]] And there came unto me one of the seven angels which had the seven vials full of the seven last plagues, and talked with me, saying, Come hither, I will shew thee the bride, the Lamb’s wife.

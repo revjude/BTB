@@ -1,8 +1,66 @@
+---
+title: Numbers 27:20
+type: Verse
+kjv: "And thou shalt put some of thine honour upon him, that all the congregation of the children of Israel may be obedient."
+bsb: "Confer on him some of your authority, so that the whole congregation of Israel will obey him."
+hebrew: "וְנָתַתָּ֥ה מֵהֽוֹדְךָ֖ עָלָ֑יו לְמַ֣עַן יִשְׁמְע֔וּ כָּל־ עֲדַ֖ת בְּנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Num.27.18 Joshua to Succeed Moses|Joshua to Succeed Moses]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 27
+book/chapter: "[[Num.27|Numbers 27]]"
+chronological_order: 187
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HAND|HAND]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic LOYALTY|LOYALTY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H9006]]"
+- "[[H1935]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H4616]]"
+- "[[H8085H]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5712]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 27:20**<big><big>[[Num.27.18 Joshua to Succeed Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt put [some] of thine honour upon him, that all the congregation of the children of Israel may be obedient.
 <small><sub>**BSB:**</sub></small>
 Confer on him some of your authority, so that the whole congregation of Israel will obey him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414H\|נָתַתָּ֥ה]] [[H9006\|מֵ]][[H1935\|הֽוֹדְ]][[H9021\|ךָ֖]] [[H5921A\|עָלָ֑י]][[H9033\|ו]] [[H4616\|לְמַ֣עַן]] [[H8085H\|יִשְׁמְע֔וּ]] [[H3605\|כָּל]][[H9014\|־]] [[H5712\|עֲדַ֖ת]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HAND|HAND]] • [[topic ISRAEL|ISRAEL]] • [[topic JOSHUA|JOSHUA]] • [[topic LOYALTY|LOYALTY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.27.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.27.19|<< Numbers 27:19]]</td><td align="center" style="border:none;">[[Num.27|Numbers 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.27.21|Numbers 27:21 >>]]</td></tr></table>
 

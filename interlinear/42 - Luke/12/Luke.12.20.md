@@ -1,10 +1,71 @@
+---
+title: Luke 12:20
+type: Verse
+kjv: "But God said unto him, Thou fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?"
+bsb: "But God said to him, ‘You fool! This very night your life will be required of you. Then who will own what you have accumulated?’"
+jesus_said: "But God said unto him, Thou fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?"
+greek: "εἶπεν δὲ αὐτῷ ὁ θεός· ἄφρων, ταύτῃ τῇ νυκτὶ τὴν ψυχήν σου ἀπαιτοῦσιν ἀπὸ σοῦ. ἃ δὲ ἡτοίμασας, τίνι ἔσται;"
+pericope: "[[Luke.12.13 The Parable of the Rich Fool|The Parable of the Rich Fool]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic GLUTTONY|GLUTTONY]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+- "[[topic SELF-INDULGENCE|SELF-INDULGENCE]]"
+- "[[topic SENSUALITY|SENSUALITY]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G0878]]"
+- "[[G3778]]"
+- "[[G3571]]"
+- "[[G5590G]]"
+- "[[G4771]]"
+- "[[G0523]]"
+- "[[G0575]]"
+- "[[G3739]]"
+- "[[G2090]]"
+- "[[G5101]]"
+- "[[G1510]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Luke 12:20**<big><big>[[Luke.12.13 The Parable of the Rich Fool|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But God said unto him, [Thou] fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?
 <small><sub>**BSB:**</sub></small>
 But God said to him, ‘You fool! This very night your life will be required of you. Then who will own what you have accumulated?’
-<small><sub>**Literal:**</sub></small>
-Said then to him <the> God; Fool! On this <the> night the soul of you is required of you. what now you did prepare — to whom will [it] be?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.19|<< Luke 12:19]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.21|Luke 12:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2316\|θεός·]]  [[G0878\|ἄφρων,]]  [[G3778\|ταύτῃ]]  [[G3588\|τῇ]]  [[G3571\|νυκτὶ]]  [[G3588\|τὴν]]  [[G5590G\|ψυχήν]]  [[G4771\|σου]]  [[G0523\|ἀπαιτοῦσιν]]  [[G0575\|ἀπὸ]]  [[G4771\|σοῦ.]]  [[G3739\|ἃ]]  [[G1161\|δὲ]]  [[G2090\|ἡτοίμασας,]]  [[G5101\|τίνι]]  [[G1510\|ἔσται;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DEATH|DEATH]] • [[topic FOOL|FOOL]] • [[topic GLUTTONY|GLUTTONY]] • [[topic HAPPINESS|HAPPINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic RICH, THE|RICH, THE]] • [[topic SELF-DELUSION|SELF-DELUSION]] • [[topic SELF-INDULGENCE|SELF-INDULGENCE]] • [[topic SENSUALITY|SENSUALITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.19|<< Luke 12:19]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.21|Luke 12:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

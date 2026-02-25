@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Promise of Restoration
+type: Pericope
 pericope: "[[Jer.32.36 A Promise of Restoration|A Promise of Restoration]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 32
 book/chapter: "[[Jer.32|Jeremiah 32]]"
-genre:
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 9
 verses:
 - "[[Jer.32.36]]"
 - "[[Jer.32.37]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Jer.32.44]]"
 ---
 
-[[Jer.32|Jeremiah 32:36 - Jeremiah 32:44]]
+<small>[[Jer.32|Jeremiah 32:36-44]]</small>
 *A Promise of Restoration*
 
 [[Jer.32.36|36]] And now therefore thus saith the LORD, the God of Israel, concerning this city, whereof ye say, It shall be delivered into the hand of the king of Babylon by the sword, and by the famine, and by the pestilence;

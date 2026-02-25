@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Civil War against Benjamin
+type: Pericope
 pericope: "[[Judg.20.18 Civil War against Benjamin|Civil War against Benjamin]]"
-verse_count: 31
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 20
 book/chapter: "[[Judg.20|Judges 20]]"
-genre:
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 31
 verses:
 - "[[Judg.20.18]]"
 - "[[Judg.20.19]]"
@@ -49,7 +56,7 @@ verses:
 - "[[Judg.20.48]]"
 ---
 
-[[Judg.20|Judges 20:18 - Judges 20:48]]
+<small>[[Judg.20|Judges 20:18-48]]</small>
 *Civil War against Benjamin*
 
 [[Judg.20.18|18]] And the children of Israel arose, and went up to the house of God, and asked counsel of God, and said, Which of us shall go up first to the battle against the children of Benjamin? And the LORD said, Judah \[shall go up\] first.

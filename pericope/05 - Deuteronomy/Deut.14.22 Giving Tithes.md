@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Giving Tithes
+type: Pericope
 pericope: "[[Deut.14.22 Giving Tithes|Giving Tithes]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 14
 book/chapter: "[[Deut.14|Deuteronomy 14]]"
-genre:
+chronological_order: 210
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 8
 verses:
 - "[[Deut.14.22]]"
 - "[[Deut.14.23]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Deut.14.29]]"
 ---
 
-[[Deut.14|Deuteronomy 14:22 - Deuteronomy 14:29]]
+<small>[[Deut.14|Deuteronomy 14:22-29]]</small>
 *Giving Tithes*
 
 [[Deut.14.22|22]] Thou shalt truly tithe all the increase of thy seed, that the field bringeth forth year by year.

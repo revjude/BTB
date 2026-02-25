@@ -1,8 +1,55 @@
+---
+title: Job 3:3
+type: Verse
+kjv: "Let the day perish wherein I was born, and the night in which it was said, There is a man child conceived."
+bsb: "“May the day of my birth perish, and the night it was said, ‘A boy is conceived.’"
+hebrew: "יֹ֣אבַד י֭וֹם אִוָּ֣לֶד בּ֑וֹ וְהַלַּ֥יְלָה אָ֝מַ֗ר הֹ֣רָה גָֽבֶר׃"
+pericope: "[[Job.3.1 Job Laments His Birth|Job Laments His Birth]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 3
+book/chapter: "[[Job.3|Job 3]]"
+chronological_order: 14
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H0006]]"
+- "[[H3117G]]"
+- "[[H3205]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3915]]"
+- "[[H0559]]"
+- "[[H2029]]"
+- "[[H1397]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 3:3**<big><big>[[Job.3.1 Job Laments His Birth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the day perish wherein I was born, and the night [in which] it was said, There is a man child conceived.
 <small><sub>**BSB:**</sub></small>
 “May the day of my birth perish, and the night it was said, ‘A boy is conceived.’
+<small><sub>**Hebrew:**</sub></small>
+[[H0006\|יֹ֣אבַד]] [[H3117G\|י֭וֹם]] [[H3205\|אִוָּ֣לֶד]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H9002\|וְ]][[H9009\|הַ]][[H3915\|לַּ֥יְלָה]] [[H0559\|אָ֝מַ֗ר]] [[H2029\|הֹ֣רָה]] [[H1397\|גָֽבֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.2|<< Job 3:2]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.4|Job 3:4 >>]]</td></tr></table>
 

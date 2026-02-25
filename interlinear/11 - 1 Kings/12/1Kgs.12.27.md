@@ -1,8 +1,75 @@
+---
+title: 1 Kings 12:27
+type: Verse
+kjv: "If this people go up to do sacrifice in the house of the LORD at Jerusalem, then shall the heart of this people turn again unto their lord, even unto Rehoboam king of Judah, and they shall kill me, and go again to Rehoboam king of Judah."
+bsb: "If these people go up to offer sacrifices in the house of the LORD at Jerusalem, their hearts will return to their lord, Rehoboam king of Judah; then they will kill me and return to Rehoboam king of Judah.”"
+hebrew: "אִֽם־ יַעֲלֶ֣ה׀ הָעָ֣ם הַזֶּ֗ה לַעֲשׂ֨וֹת זְבָחִ֤ים בְּבֵית־ יְהוָה֙ בִּיר֣וּשָׁלִַ֔ם וְ֠שָׁב לֵ֣ב הָעָ֤ם הַזֶּה֙ אֶל־ אֲדֹ֣נֵיהֶ֔ם אֶל־ רְחַבְעָ֖ם מֶ֣לֶךְ יְהוּדָ֑ה וַהֲרָגֻ֕נִי וְשָׁ֖בוּ אֶל־ רְחַבְעָ֥ם מֶֽלֶךְ־ יְהוּדָֽה׃"
+pericope: "[[1Kgs.12.25 Jeroboam’s Idolatry|Jeroboam’s Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 12
+book/chapter: "[[1Kgs.12|1 Kings 12]]"
+chronological_order: 551
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic STATECRAFT|STATECRAFT]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H5927G]]"
+- "[[H9015]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H9005]]"
+- "[[H6213I]]"
+- "[[H2077]]"
+- "[[H9003]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H3389]]"
+- "[[H9001]]"
+- "[[H7725J]]"
+- "[[H3820A]]"
+- "[[H0413]]"
+- "[[H0113]]"
+- "[[H9028]]"
+- "[[H7346]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H2026]]"
+- "[[H9030]]"
+- "[[H7725G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 12:27**<big><big>[[1Kgs.12.25 Jeroboam’s Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If this people go up to do sacrifice in the house of the LORD at Jerusalem, then shall the heart of this people turn again unto their lord, [even] unto Rehoboam king of Judah, and they shall kill me, and go again to Rehoboam king of Judah.
 <small><sub>**BSB:**</sub></small>
 If these people go up to offer sacrifices in the house of the LORD at Jerusalem, their hearts will return to their lord, Rehoboam king of Judah; then they will kill me and return to Rehoboam king of Judah.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִֽם]][[H9014\|־]] [[H5927G\|יַעֲלֶ֣ה]][[H9015\|׀]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H9009\|הַ]][[H2088\|זֶּ֗ה]] [[H9005\|לַ]][[H6213I\|עֲשׂ֨וֹת]] [[H2077\|זְבָחִ֤ים]] [[H9003\|בְּ]][[H1004Q\|בֵית]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H9003\|בִּ]][[H3389\|יר֣וּשָׁלִַ֔ם]] [[H9001\|וְ֠]][[H7725J\|שָׁב]] [[H3820A\|לֵ֣ב]] [[H9009\|הָ]][[H5971A\|עָ֤ם]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0113\|אֲדֹ֣נֵי]][[H9028\|הֶ֔ם]] [[H0413\|אֶל]][[H9014\|־]] [[H7346\|רְחַבְעָ֖ם]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֑ה]] [[H9001\|וַ]][[H2026\|הֲרָגֻ֕]][[H9030\|נִי]] [[H9001\|וְ]][[H7725G\|שָׁ֖בוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H7346\|רְחַבְעָ֥ם]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-EL|BETH-EL]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic JEROBOAM|JEROBOAM]] • [[topic OFFERINGS|OFFERINGS]] • [[topic RELIGION|RELIGION]] • [[topic RULERS|RULERS]] • [[topic STATECRAFT|STATECRAFT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.12.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.12.26|<< 1 Kings 12:26]]</td><td align="center" style="border:none;">[[1Kgs.12|1 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.12.28|1 Kings 12:28 >>]]</td></tr></table>
 

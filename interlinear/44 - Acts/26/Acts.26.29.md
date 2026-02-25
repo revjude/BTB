@@ -1,10 +1,70 @@
+---
+title: Acts 26:29
+type: Verse
+kjv: "And Paul said, I would to God, that not only thou, but also all that hear me this day, were both almost, and altogether such as I am, except these bonds."
+bsb: "“Short time or long,” Paul replied, “I wish to God that not only you but all who hear me this day may become what I am, except for these chains.”"
+greek: "ὁ δὲ Παῦλος εἶπεν· εὐξαίμην ἂν τῷ θεῷ καὶ ἐν ὀλίγῳ καὶ ἐν μεγάλῳ οὐ μόνον σὲ ἀλλὰ καὶ πάντας τοὺς ἀκούοντάς μου σήμερον γενέσθαι τοιούτους ὁποῖος καὶ ἐγώ εἰμι παρεκτὸς τῶν δεσμῶν τούτων.¶"
+pericope: "[[Acts.26.24 Festus Interrupts Paul’s Defense|Festus Interrupts Paul’s Defense]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 26
+book/chapter: "[[Acts.26|Acts 26]]"
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3972G]]"
+- "[[G2036]]"
+- "[[G2172]]"
+- "[[G0302]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3641]]"
+- "[[G3173]]"
+- "[[G3756]]"
+- "[[G3441]]"
+- "[[G4771]]"
+- "[[G0235]]"
+- "[[G3956]]"
+- "[[G0191]]"
+- "[[G3165]]"
+- "[[G4594]]"
+- "[[G1096]]"
+- "[[G5108]]"
+- "[[G3697]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G3924]]"
+- "[[G1199]]"
+- "[[G3778]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Acts 26:29**<big><big>[[Acts.26.24 Festus Interrupts Paul’s Defense|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Paul said, I would to God, that not only thou, but also all that hear me this day, were both almost, and altogether such as I am, except these bonds.
 <small><sub>**BSB:**</sub></small>
 “Short time or long,” Paul replied, “I wish to God that not only you but all who hear me this day may become what I am, except for these chains.”
-<small><sub>**Literal:**</sub></small>
-<the> And Paul said; I would wish may <the> God both in a little and in much not only you but also all those hearing me this day to become such as also I myself am except <the> chains these.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.28|<< Acts 26:28]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.30|Acts 26:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G3972G\|Παῦλος]]  [[G2036\|εἶπεν·]]  [[G2172\|εὐξαίμην]]  [[G0302\|ἂν]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3641\|ὀλίγῳ]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3173\|μεγάλῳ]]  [[G3756\|οὐ]]  [[G3441\|μόνον]]  [[G4771\|σὲ]]  [[G0235\|ἀλλὰ]]  [[G2532\|καὶ]]  [[G3956\|πάντας]]  [[G3588\|τοὺς]]  [[G0191\|ἀκούοντάς]]  [[G3165\|μου]]  [[G4594\|σήμερον]]  [[G1096\|γενέσθαι]]  [[G5108\|τοιούτους]]  [[G3697\|ὁποῖος]]  [[G2532\|καὶ]]  [[G1473\|ἐγώ]]  [[G1510\|εἰμι]]  [[G3924\|παρεκτὸς]]  [[G3588\|τῶν]]  [[G1199\|δεσμῶν]]  [[G3778\|τούτων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic LOVE|LOVE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.28|<< Acts 26:28]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.30|Acts 26:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

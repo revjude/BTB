@@ -1,8 +1,51 @@
+---
+title: Job 34:26
+type: Verse
+kjv: "He striketh them as wicked men in the open sight of others;"
+bsb: "He strikes them for their wickedness in full view,"
+hebrew: "תַּֽחַת־ רְשָׁעִ֥ים סְפָקָ֗ם בִּמְק֥וֹם רֹאִֽים׃"
+pericope: "[[Job.34.1 Elihu Confirms God’s Justice|Elihu Confirms God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 34
+book/chapter: "[[Job.34|Job 34]]"
+chronological_order: 45
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H8478J]]"
+- "[[H9014]]"
+- "[[H7563]]"
+- "[[H5606A]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 34:26**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He striketh them as wicked men in the open sight of others;
 <small><sub>**BSB:**</sub></small>
 He strikes them for their wickedness in full view,
+<small><sub>**Hebrew:**</sub></small>
+[[H8478J\|תַּֽחַת]][[H9014\|־]] [[H7563\|רְשָׁעִ֥ים]] [[H5606A\|סְפָקָ֗]][[H9038\|ם]] [[H9003\|בִּ]][[H4725\|מְק֥וֹם]] [[H7200G\|רֹאִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.25|<< Job 34:25]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.27|Job 34:27 >>]]</td></tr></table>
 

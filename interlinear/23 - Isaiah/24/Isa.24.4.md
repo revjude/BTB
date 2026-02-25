@@ -1,8 +1,52 @@
+---
+title: Isaiah 24:4
+type: Verse
+kjv: "The earth mourneth and fadeth away, the world languisheth and fadeth away, the haughty people of the earth do languish."
+bsb: "The earth mourns and withers; the world languishes and fades; the exalted of the earth waste away."
+hebrew: "אָבְלָ֤ה נָֽבְלָה֙ הָאָ֔רֶץ אֻמְלְלָ֥ה נָבְלָ֖ה תֵּבֵ֑ל אֻמְלָ֖לוּ מְר֥וֹם עַם־ הָאָֽרֶץ׃"
+pericope: "[[Isa.24.1 God’s Judgment on the Earth|God’s Judgment on the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 24
+book/chapter: "[[Isa.24|Isaiah 24]]"
+chronological_order: 667
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H0056]]"
+- "[[H5034B]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0535]]"
+- "[[H8398]]"
+- "[[H4791]]"
+- "[[H5971A]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 24:4**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The earth mourneth [and] fadeth away, the world languisheth [and] fadeth away, the haughty people of the earth do languish.
 <small><sub>**BSB:**</sub></small>
 The earth mourns and withers; the world languishes and fades; the exalted of the earth waste away.
+<small><sub>**Hebrew:**</sub></small>
+[[H0056\|אָבְלָ֤ה]] [[H5034B\|נָֽבְלָה֙]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0535\|אֻמְלְלָ֥ה]] [[H5034B\|נָבְלָ֖ה]] [[H8398\|תֵּבֵ֑ל]] [[H0535\|אֻמְלָ֖לוּ]] [[H4791\|מְר֥וֹם]] [[H5971A\|עַם]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.3|<< Isaiah 24:3]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.5|Isaiah 24:5 >>]]</td></tr></table>
 

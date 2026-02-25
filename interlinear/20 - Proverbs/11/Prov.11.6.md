@@ -1,8 +1,52 @@
+---
+title: Proverbs 11:6
+type: Verse
+kjv: "The righteousness of the upright shall deliver them: but transgressors shall be taken in their own naughtiness."
+bsb: "The righteousness of the upright delivers them, but the faithless are trapped by their own desires."
+hebrew: "צִדְקַ֣ת יְ֭שָׁרִים תַּצִּילֵ֑ם וּ֝בְהַוַּ֗ת בֹּגְדִ֥ים יִלָּכֵֽדוּ׃"
+pericope: "[[Prov.11.1 Dishonest Scales|Dishonest Scales]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 11
+book/chapter: "[[Prov.11|Proverbs 11]]"
+chronological_order: 466
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H6666]]"
+- "[[H3477G]]"
+- "[[H5337]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H1942]]"
+- "[[H0898]]"
+- "[[H3920]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 11:6**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The righteousness of the upright shall deliver them: but transgressors shall be taken in [their own] naughtiness.
 <small><sub>**BSB:**</sub></small>
 The righteousness of the upright delivers them, but the faithless are trapped by their own desires.
+<small><sub>**Hebrew:**</sub></small>
+[[H6666\|צִדְקַ֣ת]] [[H3477G\|יְ֭שָׁרִים]] [[H5337\|תַּצִּילֵ֑]][[H9038\|ם]] [[H9002\|וּ֝]][[H9003\|בְ]][[H1942\|הַוַּ֗ת]] [[H0898\|בֹּגְדִ֥ים]] [[H3920\|יִלָּכֵֽדוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.5|<< Proverbs 11:5]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.7|Proverbs 11:7 >>]]</td></tr></table>
 

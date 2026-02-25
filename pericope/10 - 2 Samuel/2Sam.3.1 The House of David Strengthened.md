@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The House of David Strengthened
+type: Pericope
 pericope: "[[2Sam.3.1 The House of David Strengthened|The House of David Strengthened]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 3
 book/chapter: "[[2Sam.3|2 Samuel 3]]"
-genre:
+chronological_order: 331
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 5
 verses:
 - "[[2Sam.3.1]]"
 - "[[2Sam.3.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[2Sam.3.5]]"
 ---
 
-[[2Sam.3|2 Samuel 3:1 - 2 Samuel 3:5]]
+<small>[[2Sam.3|2 Samuel 3:1-5]]</small>
 *The House of David Strengthened*
 
 [[2Sam.3.1|1]] Now there was long war between the house of Saul and the house of David: but David waxed stronger and stronger, and the house of Saul waxed weaker and weaker.

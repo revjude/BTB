@@ -1,10 +1,60 @@
+---
+title: Luke 10:28
+type: Verse
+kjv: "And he said unto him, Thou hast answered right: this do, and thou shalt live."
+bsb: "“You have answered correctly,” Jesus said. “Do this and you will live.”"
+jesus_said: "Thou hast answered right: this do, and thou shalt live."
+greek: "Εἶπεν δὲ αὐτῷ· ὀρθῶς ἀπεκρίθης· τοῦτο ποίει καὶ ζήσῃ.¶"
+pericope: "[[Luke.10.25 The Parable of the Good Samaritan|The Parable of the Good Samaritan]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 10
+book/chapter: "[[Luke.10|Luke 10]]"
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic DUTY|DUTY]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAWYER|LAWYER]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3723]]"
+- "[[G0611]]"
+- "[[G3778]]"
+- "[[G4160G]]"
+- "[[G2532]]"
+- "[[G2198]]"
+texts:
+- NKO
+---
+
 **Luke 10:28**<big><big>[[Luke.10.25 The Parable of the Good Samaritan|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto him, Thou hast answered right: this do, and thou shalt live.
 <small><sub>**BSB:**</sub></small>
 “You have answered correctly,” Jesus said. “Do this and you will live.”
-<small><sub>**Literal:**</sub></small>
-He said then to him; Correctly you have answered; This do perform and you will live.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.27|<< Luke 10:27]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.29|Luke 10:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G0846\|αὐτῷ·]]  [[G3723\|ὀρθῶς]]  [[G0611\|ἀπεκρίθης·]]  [[G3778\|τοῦτο]]  [[G4160G\|ποίει]]  [[G2532\|καὶ]]  [[G2198\|ζήσῃ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECALOGUE|DECALOGUE]] • [[topic DUTY|DUTY]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAWYER|LAWYER]] • [[topic LOVE|LOVE]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.27|<< Luke 10:27]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.29|Luke 10:29 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 10:28** is...
 > $\quad$ alluding to: [[LXX.Lev.18.5|Lev 18:5]]

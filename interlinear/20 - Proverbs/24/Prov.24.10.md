@@ -1,8 +1,50 @@
+---
+title: Proverbs 24:10
+type: Verse
+kjv: "If thou faint in the day of adversity, thy strength is small."
+bsb: "If you faint in the day of distress, how small is your strength!"
+hebrew: "הִ֭תְרַפִּיתָ בְּי֥וֹם צָרָ֗ה צַ֣ר כֹּחֶֽכָה׃"
+pericope: "[[Prov.24.10 Saying 25|Saying 25]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 24
+book/chapter: "[[Prov.24|Proverbs 24]]"
+chronological_order: 479
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H7503]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H6869B]]"
+- "[[H6862A]]"
+- "[[H3581B]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 24:10**<big><big>[[Prov.24.10 Saying 25|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [If] thou faint in the day of adversity, thy strength [is] small.
 <small><sub>**BSB:**</sub></small>
 If you faint in the day of distress, how small is your strength!
+<small><sub>**Hebrew:**</sub></small>
+[[H7503\|הִ֭תְרַפִּיתָ]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H6869B\|צָרָ֗ה]] [[H6862A\|צַ֣ר]] [[H3581B\|כֹּחֶֽ]][[H9021\|כָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DOUBTING|DOUBTING]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.9|<< Proverbs 24:9]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.11|Proverbs 24:11 >>]]</td></tr></table>
 

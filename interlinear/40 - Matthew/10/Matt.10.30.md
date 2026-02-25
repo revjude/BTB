@@ -1,10 +1,55 @@
+---
+title: Matthew 10:30
+type: Verse
+kjv: "But the very hairs of your head are all numbered."
+bsb: "And even the very hairs of your head are all numbered."
+jesus_said: "But the very hairs of your head are all numbered."
+greek: "ὑμῶν δὲ καὶ αἱ τρίχες τῆς κεφαλῆς πᾶσαι ἠριθμημέναι εἰσίν."
+pericope: "[[Matt.10.26 Fear God Alone|Fear God Alone]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 10
+book/chapter: "[[Matt.10|Matthew 10]]"
+chronological_order: 954
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HAIR|HAIR]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2359]]"
+- "[[G2776]]"
+- "[[G3956]]"
+- "[[G0705]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **Matthew 10:30**<big><big>[[Matt.10.26 Fear God Alone|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the very hairs of your head are all numbered.
 <small><sub>**BSB:**</sub></small>
 And even the very hairs of your head are all numbered.
-<small><sub>**Literal:**</sub></small>
-Of you now even the hairs of the head all numbered are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.29|<< Matthew 10:29]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.31|Matthew 10:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|ὑμῶν]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G2359\|τρίχες]]  [[G3588\|τῆς]]  [[G2776\|κεφαλῆς]]  [[G3956\|πᾶσαι]]  [[G0705\|ἠριθμημέναι]]  [[G1510\|εἰσίν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GOD|GOD]] • [[topic HAIR|HAIR]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.29|<< Matthew 10:29]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.31|Matthew 10:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

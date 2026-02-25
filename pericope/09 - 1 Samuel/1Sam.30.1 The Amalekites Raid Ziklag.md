@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Amalekites Raid Ziklag
+type: Pericope
 pericope: "[[1Sam.30.1 The Amalekites Raid Ziklag|The Amalekites Raid Ziklag]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 30
 book/chapter: "[[1Sam.30|1 Samuel 30]]"
-genre:
+chronological_order: 309
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 6
 verses:
 - "[[1Sam.30.1]]"
 - "[[1Sam.30.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[1Sam.30.6]]"
 ---
 
-[[1Sam.30|1 Samuel 30:1 - 1 Samuel 30:6]]
+<small>[[1Sam.30|1 Samuel 30:1-6]]</small>
 *The Amalekites Raid Ziklag*
 
 [[1Sam.30.1|1]] And it came to pass, when David and his men were come to Ziklag on the third day, that the Amalekites had invaded the south, and Ziklag, and smitten Ziklag, and burned it with fire;

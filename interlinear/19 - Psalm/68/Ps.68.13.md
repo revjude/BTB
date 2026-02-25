@@ -1,8 +1,61 @@
+---
+title: Psalm 68:13
+type: Verse
+kjv: "Though ye have lien among the pots, yet shall ye be as the wings of a dove covered with silver, and her feathers with yellow gold."
+bsb: "Though you lie down among the sheepfolds, the wings of the dove are covered with silver, and her feathers with shimmering gold.”"
+hebrew: "אִֽם־ תִּשְׁכְּבוּן֮ בֵּ֪ין שְׁפַ֫תָּ֥יִם כַּנְפֵ֣י י֭וֹנָה נֶחְפָּ֣ה בַכֶּ֑סֶף וְ֝אֶבְרוֹתֶ֗יהָ בִּֽירַקְרַ֥ק חָרֽוּץ׃"
+pericope: "[[Ps.68.1 God’s Enemies Are Scattered|God’s Enemies Are Scattered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 68
+book/chapter: "[[Ps.68|Psalm 68]]"
+chronological_order: 376
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H7901G]]"
+- "[[H9013]]"
+- "[[H0996H]]"
+- "[[H8240A]]"
+- "[[H3671]]"
+- "[[H3123]]"
+- "[[H2645]]"
+- "[[H9003]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H0084]]"
+- "[[H9024]]"
+- "[[H3422]]"
+- "[[H2742D]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 68:13**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though ye have lien among the pots, [yet shall ye be as] the wings of a dove covered with silver, and her feathers with yellow gold.
 <small><sub>**BSB:**</sub></small>
 Though you lie down among the sheepfolds, the wings of the dove are covered with silver, and her feathers with shimmering gold.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִֽם]][[H9014\|־]] [[H7901G\|תִּשְׁכְּבוּ]][[H9013\|ן֮]] [[H0996H\|בֵּ֪ין]] [[H8240A\|שְׁפַ֫תָּ֥יִם]] [[H3671\|כַּנְפֵ֣י]] [[H3123\|י֭וֹנָה]] [[H2645\|נֶחְפָּ֣ה]] [[H9003\|בַ]][[H3701G\|כֶּ֑סֶף]] [[H9002\|וְ֝]][[H0084\|אֶבְרוֹתֶ֗י]][[H9024\|הָ]] [[H9003\|בִּֽ]][[H3422\|ירַקְרַ֥ק]] [[H2742D\|חָרֽוּץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLINESS|HOLINESS]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.12|<< Psalms 68:12]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.14|Psalms 68:14 >>]]</td></tr></table>
 

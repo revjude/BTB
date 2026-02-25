@@ -1,8 +1,59 @@
+---
+title: Exodus 37:21
+type: Verse
+kjv: "And a knop under two branches of the same, and a knop under two branches of the same, and a knop under two branches of the same, according to the six branches going out of it."
+bsb: "A bud was under the first pair of branches that extended from the lampstand, a bud under the second pair, and a bud under the third pair."
+hebrew: "וְכַפְתֹּ֡ר תַּחַת֩ שְׁנֵ֨י הַקָּנִ֜ים מִמֶּ֗נָּה וְכַפְתֹּר֙ תַּ֣חַת שְׁנֵ֤י הַקָּנִים֙ מִמֶּ֔נָּה וְכַפְתֹּ֕ר תַּֽחַת־ שְׁנֵ֥י הַקָּנִ֖ים מִמֶּ֑נָּה לְשֵׁ֙שֶׁת֙ הַקָּנִ֔ים הַיֹּצְאִ֖ים מִמֶּֽנָּה׃"
+pericope: "[[Exod.37.17 The Lampstand|The Lampstand]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 37
+book/chapter: "[[Exod.37|Exodus 37]]"
+chronological_order: 129
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CANDLESTICK|CANDLESTICK]]"
+- "[[topic GOLD|GOLD]]"
+strongs:
+- "[[H9002]]"
+- "[[H3730]]"
+- "[[H8478G]]"
+- "[[H8147]]"
+- "[[H9009]]"
+- "[[H7070G]]"
+- "[[H4480A]]"
+- "[[H9034]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H8337]]"
+- "[[H3318L]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 37:21**<big><big>[[Exod.37.17 The Lampstand|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a knop under two branches of the same, and a knop under two branches of the same, and a knop under two branches of the same, according to the six branches going out of it.
 <small><sub>**BSB:**</sub></small>
 A bud was under the first pair of branches that extended from the lampstand, a bud under the second pair, and a bud under the third pair.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3730\|כַפְתֹּ֡ר]] [[H8478G\|תַּחַת֩]] [[H8147\|שְׁנֵ֨י]] [[H9009\|הַ]][[H7070G\|קָּנִ֜ים]] [[H4480A\|מִמֶּ֗]][[H9034\|נָּה]] [[H9002\|וְ]][[H3730\|כַפְתֹּר֙]] [[H8478G\|תַּ֣חַת]] [[H8147\|שְׁנֵ֤י]] [[H9009\|הַ]][[H7070G\|קָּנִים֙]] [[H4480A\|מִמֶּ֔]][[H9034\|נָּה]] [[H9002\|וְ]][[H3730\|כַפְתֹּ֕ר]] [[H8478G\|תַּֽחַת]][[H9014\|־]] [[H8147\|שְׁנֵ֥י]] [[H9009\|הַ]][[H7070G\|קָּנִ֖ים]] [[H4480A\|מִמֶּ֑]][[H9034\|נָּה]] [[H9005\|לְ]][[H8337\|שֵׁ֙שֶׁת֙]] [[H9009\|הַ]][[H7070G\|קָּנִ֔ים]] [[H9009\|הַ]][[H3318L\|יֹּצְאִ֖ים]] [[H4480A\|מִמֶּֽ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANDLESTICK|CANDLESTICK]] • [[topic GOLD|GOLD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.20|<< Exodus 37:20]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.22|Exodus 37:22 >>]]</td></tr></table>
 

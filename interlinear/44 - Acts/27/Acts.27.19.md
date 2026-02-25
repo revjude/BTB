@@ -1,10 +1,50 @@
+---
+title: Acts 27:19
+type: Verse
+kjv: "And the third day we cast out with our own hands the tackling of the ship."
+bsb: "On the third day, they threw the ship’s tackle overboard with their own hands."
+greek: "καὶ τῇ τρίτῃ αὐτόχειρες τὴν σκευὴν τοῦ πλοίου ἔρριψαν·"
+pericope: "[[Acts.27.13 The Storm at Sea|The Storm at Sea]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 27
+book/chapter: "[[Acts.27|Acts 27]]"
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SHIP|SHIP]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5154]]"
+- "[[G0849]]"
+- "[[G4631]]"
+- "[[G4143]]"
+- "[[G4496]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Acts 27:19**<big><big>[[Acts.27.13 The Storm at Sea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the third [day] we cast out with our own hands the tackling of the ship.
 <small><sub>**BSB:**</sub></small>
 On the third day, they threw the ship’s tackle overboard with their own hands.
-<small><sub>**Literal:**</sub></small>
-and on the third [day] with [their] own hands the tackle of the ship they cast away;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.18|<< Acts 27:18]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.20|Acts 27:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τῇ]]  [[G5154\|τρίτῃ]]  [[G0849\|αὐτόχειρες]]  [[G3588\|τὴν]]  [[G4631\|σκευὴν]]  [[G3588\|τοῦ]]  [[G4143\|πλοίου]]  [[G4496\|ἔρριψαν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]] • [[topic PAUL|PAUL]] • [[topic PROPHECY|PROPHECY]] • [[topic SHIP|SHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.18|<< Acts 27:18]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.20|Acts 27:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

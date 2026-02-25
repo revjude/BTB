@@ -1,10 +1,64 @@
+---
+title: Hebrews 9:5
+type: Verse
+kjv: "And over it the cherubims of glory shadowing the mercyseat; of which we cannot now speak particularly."
+bsb: "Above the ark were the cherubim of glory, overshadowing the mercy seat. But we cannot discuss these things in detail now."
+greek: "ὑπεράνω δὲ αὐτῆς Χερουβὶν δόξης κατασκιάζοντα τὸ ἱλαστήριον, περὶ ὧν οὐκ ἔστιν νῦν λέγειν κατὰ μέρος."
+pericope: "[[Heb.9.1 The Earthly Tabernacle|The Earthly Tabernacle]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 9
+book/chapter: "[[Heb.9|Hebrews 9]]"
+chronological_order: 1148
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic MERCY-SEAT|MERCY-SEAT]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PROPITIATION|PROPITIATION]]"
+- "[[topic SHEKINAH|SHEKINAH]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TYPES|TYPES]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G5231]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G5502]]"
+- "[[G1391]]"
+- "[[G2683]]"
+- "[[G3588]]"
+- "[[G2435]]"
+- "[[G4012]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G3568]]"
+- "[[G3004G]]"
+- "[[G2596]]"
+- "[[G3313]]"
+texts:
+- NKO
+---
+
 **Hebrews 9:5**<big><big>[[Heb.9.1 The Earthly Tabernacle|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And over it the cherubims of glory shadowing the mercyseat; of which we cannot now speak particularly.
 <small><sub>**BSB:**</sub></small>
 Above the ark were the cherubim of glory, overshadowing the mercy seat. But we cannot discuss these things in detail now.
-<small><sub>**Literal:**</sub></small>
-Above then it [were the] cherubim of glory overshadowing the mercy seat, concerning which not it is now [the time] to speak in detail.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.4|<< Hebrews 9:4]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.6|Hebrews 9:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5231\|ὑπεράνω]]  [[G1161\|δὲ]]  [[G0846\|αὐτῆς]]  [[G5502\|Χερουβὶν]]  [[G1391\|δόξης]]  [[G2683\|κατασκιάζοντα]]  [[G3588\|τὸ]]  [[G2435\|ἱλαστήριον,]]  [[G4012\|περὶ]]  [[G3739\|ὧν]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G3568\|νῦν]]  [[G3004G\|λέγειν]]  [[G2596\|κατὰ]]  [[G3313\|μέρος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHERUBIM|CHERUBIM]] • [[topic MERCY-SEAT|MERCY-SEAT]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PROPITIATION|PROPITIATION]] • [[topic SHEKINAH|SHEKINAH]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TYPES|TYPES]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.4|<< Hebrews 9:4]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.6|Hebrews 9:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

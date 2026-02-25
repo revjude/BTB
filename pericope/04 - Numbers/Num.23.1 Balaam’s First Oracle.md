@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Balaam’s First Oracle
+type: Pericope
 pericope: "[[Num.23.1 Balaam’s First Oracle|Balaam’s First Oracle]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 23
 book/chapter: "[[Num.23|Numbers 23]]"
-genre:
+chronological_order: 183
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 12
 verses:
 - "[[Num.23.1]]"
 - "[[Num.23.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Num.23.12]]"
 ---
 
-[[Num.23|Numbers 23:1 - Numbers 23:12]]
+<small>[[Num.23|Numbers 23:1-12]]</small>
 *Balaam’s First Oracle*
 
 [[Num.23.1|1]] And Balaam said unto Balak, Build me here seven altars, and prepare me here seven oxen and seven rams.

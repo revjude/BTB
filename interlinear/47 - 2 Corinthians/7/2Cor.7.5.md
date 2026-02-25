@@ -1,10 +1,63 @@
+---
+title: 2 Corinthians 7:5
+type: Verse
+kjv: "For, when we were come into Macedonia, our flesh had no rest, but we were troubled on every side; without were fightings, within were fears."
+bsb: "For when we arrived in Macedonia, our bodies had no rest, but we were pressed from every direction—conflicts on the outside, fears within."
+greek: "καὶ γὰρ ἐλθόντων ἡμῶν εἰς Μακεδονίαν οὐδεμίαν ἔσχηκεν ἄνεσιν ἡ σὰρξ ἡμῶν ἀλλ᾽ ἐν παντὶ θλιβόμενοι· ἔξωθεν μάχαι, ἔσωθεν φόβοι."
+pericope: "[[2Cor.7.1 Paul’s Joy in the Corinthians|Paul’s Joy in the Corinthians]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 7
+book/chapter: "[[2Cor.7|2 Corinthians 7]]"
+chronological_order: 1080
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic MACEDONIA|MACEDONIA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TITUS|TITUS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G2532]]"
+- "[[G1063]]"
+- "[[G2064]]"
+- "[[G3165]]"
+- "[[G1519]]"
+- "[[G3109]]"
+- "[[G3762]]"
+- "[[G2192]]"
+- "[[G0425]]"
+- "[[G3588]]"
+- "[[G4561]]"
+- "[[G0235]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G2346]]"
+- "[[G1855]]"
+- "[[G3163]]"
+- "[[G2081]]"
+- "[[G5401]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **2 Corinthians 7:5**<big><big>[[2Cor.7.1 Paul’s Joy in the Corinthians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For, when we were come into Macedonia, our flesh had no rest, but we were troubled on every side; without [were] fightings, within [were] fears.
 <small><sub>**BSB:**</sub></small>
 For when we arrived in Macedonia, our bodies had no rest, but we were pressed from every direction—conflicts on the outside, fears within.
-<small><sub>**Literal:**</sub></small>
-And for when were coming we into Macedonia none did have  rest the flesh of us but in every [way] we are being pressed: outside conflicts, within fears.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.7.4|<< 2 Corinthians 7:4]]</td><td align="center" style="border:none;">[[2Cor.7|2 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.6|2 Corinthians 7:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1063\|γὰρ]]  [[G2064\|ἐλθόντων]]  [[G3165\|ἡμῶν]]  [[G1519\|εἰς]]  [[G3109\|Μακεδονίαν]]  [[G3762\|οὐδεμίαν]]  [[G2192\|ἔσχηκεν]]  [[G0425\|ἄνεσιν]]  [[G3588\|ἡ]]  [[G4561\|σὰρξ]]  [[G3165\|ἡμῶν]]  [[G0235\|ἀλλ᾽]]  [[G1722\|ἐν]]  [[G3956\|παντὶ]]  [[G2346\|θλιβόμενοι·]]  [[G1855\|ἔξωθεν]]  [[G3163\|μάχαι,]]  [[G2081\|ἔσωθεν]]  [[G5401\|φόβοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MACEDONIA|MACEDONIA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TITUS|TITUS]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.7.4|<< 2 Corinthians 7:4]]</td><td align="center" style="border:none;">[[2Cor.7|2 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.6|2 Corinthians 7:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

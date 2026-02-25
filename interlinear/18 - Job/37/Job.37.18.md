@@ -1,8 +1,56 @@
+---
+title: Job 37:18
+type: Verse
+kjv: "Hast thou with him spread out the sky, which is strong, and as a molten looking glass?"
+bsb: "can you, like Him, spread out the skies, as strong as a mirror of bronze?"
+hebrew: "תַּרְקִ֣יעַ עִ֭מּוֹ לִשְׁחָקִ֑ים חֲ֝זָקִ֗ים כִּרְאִ֥י מוּצָֽק׃"
+pericope: "[[Job.37.1 Elihu Proclaims God’s Majesty|Elihu Proclaims God’s Majesty]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 37
+book/chapter: "[[Job.37|Job 37]]"
+chronological_order: 48
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic MIRROR|MIRROR]]"
+- "[[topic MOLDING|MOLDING]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H7554]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H7834]]"
+- "[[H2389]]"
+- "[[H9004]]"
+- "[[H7209]]"
+- "[[H3332J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 37:18**<big><big>[[Job.37.1 Elihu Proclaims God’s Majesty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hast thou with him spread out the sky, [which is] strong, [and] as a molten looking glass?
 <small><sub>**BSB:**</sub></small>
 can you, like Him, spread out the skies, as strong as a mirror of bronze?
+<small><sub>**Hebrew:**</sub></small>
+[[H7554\|תַּרְקִ֣יעַ]] [[H5973A\|עִ֭מּ]][[H9033\|וֹ]] [[H9005\|לִ]][[H7834\|שְׁחָקִ֑ים]] [[H2389\|חֲ֝זָקִ֗ים]] [[H9004\|כִּ]][[H7209\|רְאִ֥י]] [[H3332J\|מוּצָֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTRONOMY|ASTRONOMY]] • [[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic MIRROR|MIRROR]] • [[topic MOLDING|MOLDING]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.37.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.17|<< Job 37:17]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.19|Job 37:19 >>]]</td></tr></table>
 

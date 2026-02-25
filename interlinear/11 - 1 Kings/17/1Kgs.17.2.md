@@ -1,8 +1,55 @@
+---
+title: 1 Kings 17:2
+type: Verse
+kjv: "And the word of the LORD came unto him, saying,"
+bsb: "Then a revelation from the LORD came to Elijah:"
+hebrew: "וַיְהִ֥י דְבַר־ יְהוָ֖ה אֵלָ֥יו לֵאמֹֽר׃"
+pericope: "[[1Kgs.17.1 The Ravens Feed Elijah|The Ravens Feed Elijah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 17
+book/chapter: "[[1Kgs.17|1 Kings 17]]"
+chronological_order: 563
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 17:2**<big><big>[[1Kgs.17.1 The Ravens Feed Elijah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the word of the LORD came unto him, saying,
 <small><sub>**BSB:**</sub></small>
 Then a revelation from the LORD came to Elijah:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֥י]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֵלָ֥י]][[H9033\|ו]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic ELIJAH|ELIJAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.17.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.17.1|<< 1 Kings 17:1]]</td><td align="center" style="border:none;">[[1Kgs.17|1 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.17.3|1 Kings 17:3 >>]]</td></tr></table>
 

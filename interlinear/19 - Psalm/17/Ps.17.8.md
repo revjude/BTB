@@ -1,8 +1,56 @@
+---
+title: Psalm 17:8
+type: Verse
+kjv: "Keep me as the apple of the eye, hide me under the shadow of thy wings,"
+bsb: "Keep me as the apple of Your eye; hide me in the shadow of Your wings"
+hebrew: "שָׁ֭מְרֵנִי כְּאִישׁ֣וֹן בַּת־ עָ֑יִן בְּצֵ֥ל כְּ֝נָפֶ֗יךָ תַּסְתִּירֵֽנִי׃"
+pericope: "[[Ps.17.1 Hear My Righteous Plea|Hear My Righteous Plea]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 17
+book/chapter: "[[Ps.17|Psalm 17]]"
+chronological_order: 351
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H8104H]]"
+- "[[H9030]]"
+- "[[H9004]]"
+- "[[H0380]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H5869A]]"
+- "[[H9003]]"
+- "[[H6738]]"
+- "[[H3671]]"
+- "[[H9021]]"
+- "[[H5641]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 17:8**<big><big>[[Ps.17.1 Hear My Righteous Plea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Keep me as the apple of the eye, hide me under the shadow of thy wings,
 <small><sub>**BSB:**</sub></small>
 Keep me as the apple of Your eye; hide me in the shadow of Your wings
+<small><sub>**Hebrew:**</sub></small>
+[[H8104H\|שָׁ֭מְרֵ]][[H9030\|נִי]] [[H9004\|כְּ]][[H0380\|אִישׁ֣וֹן]] [[H1323G\|בַּת]][[H9014\|־]] [[H5869A\|עָ֑יִן]] [[H9003\|בְּ]][[H6738\|צֵ֥ל]] [[H3671\|כְּ֝נָפֶ֗י]][[H9021\|ךָ]] [[H5641\|תַּסְתִּירֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.17.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.17.7|<< Psalms 17:7]]</td><td align="center" style="border:none;">[[Ps.17|Psalms 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.17.9|Psalms 17:9 >>]]</td></tr></table>
 

@@ -1,10 +1,59 @@
+---
+title: 2 Timothy 2:24
+type: Verse
+kjv: "And the servant of the Lord must not strive; but be gentle unto all men, apt to teach, patient,"
+bsb: "And a servant of the Lord must not be quarrelsome, but must be kind to everyone, able to teach, and forbearing."
+greek: "δοῦλον δὲ κυρίου οὐ δεῖ μάχεσθαι ἀλλ᾽ ἤπιον εἶναι πρὸς πάντας, διδακτικόν, ἀνεξίκακον,"
+pericope: "[[2Tim.2.14 The Lord’s Approved Workman|The Lord’s Approved Workman]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 2
+book/chapter: "[[2Tim.2|2 Timothy 2]]"
+chronological_order: 1154
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GENTLENESS|GENTLENESS]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[G1401]]"
+- "[[G1161]]"
+- "[[G2962G]]"
+- "[[G3756]]"
+- "[[G1163]]"
+- "[[G3164]]"
+- "[[G0235]]"
+- "[[G2261]]"
+- "[[G1511]]"
+- "[[G4314]]"
+- "[[G3956]]"
+- "[[G1317]]"
+- "[[G0420]]"
+texts:
+- NKO
+---
+
 **2 Timothy 2:24**<big><big>[[2Tim.2.14 The Lord’s Approved Workman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the servant of the Lord must not strive; but be gentle unto all [men], apt to teach, patient,
 <small><sub>**BSB:**</sub></small>
 And a servant of the Lord must not be quarrelsome, but must be kind to everyone, able to teach, and forbearing.
-<small><sub>**Literal:**</sub></small>
-[The] bond-servant now of [the] Lord not it behooves to quarrel but gentle to be toward all, able to teach, forbearing,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.23|<< 2 Timothy 2:23]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.25|2 Timothy 2:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1401\|δοῦλον]]  [[G1161\|δὲ]]  [[G2962G\|κυρίου]]  [[G3756\|οὐ]]  [[G1163\|δεῖ]]  [[G3164\|μάχεσθαι]]  [[G0235\|ἀλλ᾽]]  [[G2261\|ἤπιον]]  [[G1511\|εἶναι]]  [[G4314\|πρὸς]]  [[G3956\|πάντας,]]  [[G1317\|διδακτικόν,]]  [[G0420\|ἀνεξίκακον,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GENTLENESS|GENTLENESS]] • [[topic MEEKNESS|MEEKNESS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PATIENCE|PATIENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic STRIFE|STRIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.23|<< 2 Timothy 2:23]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.25|2 Timothy 2:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

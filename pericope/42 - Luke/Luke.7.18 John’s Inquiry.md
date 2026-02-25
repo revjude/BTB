@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: John’s Inquiry
+type: Pericope
 pericope: "[[Luke.7.18 John’s Inquiry|John’s Inquiry]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Luke
 chapter: 7
 book/chapter: "[[Luke.7|Luke 7]]"
-genre:
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 6
 verses:
 - "[[Luke.7.18]]"
 - "[[Luke.7.19]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Luke.7.23]]"
 ---
 
-[[Luke.7|Luke 7:18 - Luke 7:23]]
+<small>[[Luke.7|Luke 7:18-23]]</small>
 *John’s Inquiry*
 
 [[Luke.7.18|18]] And the disciples of John shewed him of all these things.

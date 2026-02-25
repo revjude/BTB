@@ -1,8 +1,72 @@
+---
+title: 1 Chronicles 27:1
+type: Verse
+kjv: "Now the children of Israel after their number, to wit, the chief fathers and captains of thousands and hundreds, and their officers that served the king in any matter of the courses, which came in and went out month by month throughout all the months of the year, of every course were twenty and four thousand."
+bsb: "This is the list of the Israelites—the heads of families, the commanders of thousands and of hundreds, and their officers who served the king in every matter concerning the divisions on rotating military duty each month throughout the year. There were 24,000 men in each division:"
+hebrew: "וּבְנֵ֣י יִשְׂרָאֵ֣ל׀ לְֽמִסְפָּרָ֡ם רָאשֵׁ֣י הָאָב֣וֹת וְשָׂרֵ֣י הָֽאֲלָפִ֣ים׀ וְהַמֵּא֡וֹת וְשֹׁטְרֵיהֶם֩ הַמְשָׁרְתִ֨ים אֶת־ הַמֶּ֜לֶךְ לְכֹ֣ל׀ דְּבַ֣ר הַֽמַּחְלְק֗וֹת הַבָּאָ֤ה וְהַיֹּצֵאת֙ חֹ֣דֶשׁ בְּחֹ֔דֶשׁ לְכֹ֖ל חָדְשֵׁ֣י הַשָּׁנָ֑ה הַֽמַּחֲלֹ֙קֶת֙ הָֽאַחַ֔ת עֶשְׂרִ֥ים וְאַרְבָּעָ֖ה אָֽלֶף׃ ס"
+pericope: "[[1Chr.27.1 Twelve Captains for Twelve Months|Twelve Captains for Twelve Months]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 27
+book/chapter: "[[1Chr.27|1 Chronicles 27]]"
+chronological_order: 438
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic MONTH|MONTH]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H4557]]"
+- "[[H9028]]"
+- "[[H7218H]]"
+- "[[H9009]]"
+- "[[H0001G]]"
+- "[[H8269]]"
+- "[[H0505G]]"
+- "[[H3967]]"
+- "[[H7860]]"
+- "[[H8334]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H3605]]"
+- "[[H1697I]]"
+- "[[H4256]]"
+- "[[H0935G]]"
+- "[[H3318G]]"
+- "[[H2320G]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H0259]]"
+- "[[H6242]]"
+- "[[H0702]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Chronicles 27:1**<big><big>[[1Chr.27.1 Twelve Captains for Twelve Months|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the children of Israel after their number, [to wit], the chief fathers and captains of thousands and hundreds, and their officers that served the king in any matter of the courses, which came in and went out month by month throughout all the months of the year, of every course [were] twenty and four thousand.
 <small><sub>**BSB:**</sub></small>
 This is the list of the Israelites—the heads of families, the commanders of thousands and of hundreds, and their officers who served the king in every matter concerning the divisions on rotating military duty each month throughout the year. There were 24,000 men in each division:
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121G\|בְנֵ֣י]] [[H3478\|יִשְׂרָאֵ֣ל]][[H9015\|׀]] [[H9005\|לְֽ]][[H4557\|מִסְפָּרָ֡]][[H9028\|ם]] [[H7218H\|רָאשֵׁ֣י]] [[H9009\|הָ]][[H0001G\|אָב֣וֹת]] [[H9002\|וְ]][[H8269\|שָׂרֵ֣י]] [[H9009\|הָֽ]][[H0505G\|אֲלָפִ֣ים]][[H9015\|׀]] [[H9002\|וְ]][[H9009\|הַ]][[H3967\|מֵּא֡וֹת]] [[H9002\|וְ]][[H7860\|שֹׁטְרֵי]][[H9028\|הֶם֩]] [[H9009\|הַ]][[H8334\|מְשָׁרְתִ֨ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H9005\|לְ]][[H3605\|כֹ֣ל]][[H9015\|׀]] [[H1697I\|דְּבַ֣ר]] [[H9009\|הַֽ]][[H4256\|מַּחְלְק֗וֹת]] [[H9009\|הַ]][[H0935G\|בָּאָ֤ה]] [[H9002\|וְ]][[H9009\|הַ]][[H3318G\|יֹּצֵאת֙]] [[H2320G\|חֹ֣דֶשׁ]] [[H9003\|בְּ]][[H2320G\|חֹ֔דֶשׁ]] [[H9005\|לְ]][[H3605\|כֹ֖ל]] [[H2320G\|חָדְשֵׁ֣י]] [[H9009\|הַ]][[H8141\|שָּׁנָ֑ה]] [[H9009\|הַֽ]][[H4256\|מַּחֲלֹ֙קֶת֙]] [[H9009\|הָֽ]][[H0259\|אַחַ֔ת]] [[H6242\|עֶשְׂרִ֥ים]] [[H9002\|וְ]][[H0702\|אַרְבָּעָ֖ה]] [[H0505G\|אָֽלֶף]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic MONTH|MONTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.27.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.32|<< 1 Chronicles 26:32]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.2|1 Chronicles 27:2 >>]]</td></tr></table>
 
@@ -34,7 +98,7 @@ This is the list of the Israelites—the heads of families, the commanders of th
 | \<the> one  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0259\|אַחַ֔ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] twenty  |**<big>&#8207;[[H6242\|עֶשְׂרִ֥ים]]&#8207; </big>**| 'es.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and four  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0702\|אַרְבָּעָ֖ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ar.ba.'Ah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thousand  |**<big>&#8207;[[H0505G\|אָֽלֶף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'A.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand  |**<big>&#8207;[[H0505G\|אָֽלֶף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'A.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.32|<< 1 Chronicles 26:32]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.2|1 Chronicles 27:2 >>]]</td></tr></table>
 
 

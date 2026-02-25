@@ -1,8 +1,82 @@
+---
+title: 2 Kings 9:15
+type: Verse
+kjv: "But king Joram was returned to be healed in Jezreel of the wounds which the Syrians had given him, when he fought with Hazael king of Syria.) And Jehu said, If it be your minds, then let none go forth nor escape out of the city to go to tell it in Jezreel."
+bsb: "but King Joram had returned to Jezreel to recover from the wounds he had suffered at the hands of the Arameans in the battle against Hazael their king.) So Jehu said, “If you commanders wish to make me king, then do not let anyone escape from the city to go and tell it in Jezreel.”"
+hebrew: "וַיָּשָׁב֩ יְהוֹרָ֨ם הַמֶּ֜לֶךְ לְהִתְרַפֵּ֣א בִיְזְרְעֶ֗אל מִן־ הַמַּכִּים֙ אֲשֶׁ֣ר יַכֻּ֣הוּ אֲרַמִּ֔ים בְּהִלָּ֣חֲמ֔וֹ אֶת־ חֲזָאֵ֖ל מֶ֣לֶךְ אֲרָ֑ם וַיֹּ֤אמֶר יֵהוּא֙ אִם־ יֵ֣שׁ נַפְשְׁכֶ֔ם אַל־ יֵצֵ֤א פָלִיט֙ מִן־ הָעִ֔יר לָלֶ֖כֶת לְהַגִּ֥יד בְּיִזְרְעֶֽאל׃"
+pericope: "[[2Kgs.9.14 Jehu Kills Joram and Ahaziah|Jehu Kills Joram and Ahaziah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 9
+book/chapter: "[[2Kgs.9|2 Kings 9]]"
+chronological_order: 582
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic JEZREEL|JEZREEL]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H3088I]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H7495]]"
+- "[[H9003]]"
+- "[[H3157H]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H4347]]"
+- "[[H0834A]]"
+- "[[H5221]]"
+- "[[H9033]]"
+- "[[H0761H]]"
+- "[[H3898A]]"
+- "[[H9043]]"
+- "[[H0854]]"
+- "[[H2371]]"
+- "[[H0758I]]"
+- "[[H0559]]"
+- "[[H3058H]]"
+- "[[H0518A]]"
+- "[[H3426]]"
+- "[[H5315I]]"
+- "[[H9026]]"
+- "[[H0408]]"
+- "[[H3318G]]"
+- "[[H6412A]]"
+- "[[H5892B]]"
+- "[[H1980G]]"
+- "[[H5046]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **2 Kings 9:15**<big><big>[[2Kgs.9.14 Jehu Kills Joram and Ahaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But king Joram was returned to be healed in Jezreel of the wounds which the Syrians had given him, when he fought with Hazael king of Syria.) And Jehu said, If it be your minds, [then] let none go forth [nor] escape out of the city to go to tell [it] in Jezreel.
 <small><sub>**BSB:**</sub></small>
 but King Joram had returned to Jezreel to recover from the wounds he had suffered at the hands of the Arameans in the battle against Hazael their king.) So Jehu said, “If you commanders wish to make me king, then do not let anyone escape from the city to go and tell it in Jezreel.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּשָׁב֩]] [[H3088I\|יְהוֹרָ֨ם]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H9005\|לְ]][[H7495\|הִתְרַפֵּ֣א]] [[H9003\|בִ]][[H3157H\|יְזְרְעֶ֗אל]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4347\|מַּכִּים֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5221\|יַכֻּ֣]][[H9033\|הוּ]] [[H0761H\|אֲרַמִּ֔ים]] [[H9003\|בְּ]][[H3898A\|הִלָּ֣חֲמ֔]][[H9043\|וֹ]] [[H0854\|אֶת]][[H9014\|־]] [[H2371\|חֲזָאֵ֖ל]] [[H4428G\|מֶ֣לֶךְ]] [[H0758I\|אֲרָ֑ם]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3058H\|יֵהוּא֙]] [[H0518A\|אִם]][[H9014\|־]] [[H3426\|יֵ֣שׁ]] [[H5315I\|נַפְשְׁ]][[H9026\|כֶ֔ם]] [[H0408\|אַל]][[H9014\|־]] [[H3318G\|יֵצֵ֤א]] [[H6412A\|פָלִיט֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H9005\|לָ]][[H1980G\|לֶ֖כֶת]] [[H9005\|לְ]][[H5046\|הַגִּ֥יד]] [[H9003\|בְּ]][[H3157H\|יִזְרְעֶֽאל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DECISION|DECISION]] • [[topic JEHU|JEHU]] • [[topic JEZREEL|JEZREEL]] • [[topic JORAM|JORAM]] • [[topic RAMOTH-GILEAD|RAMOTH-GILEAD]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.14|<< 2 Kings 9:14]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.16|2 Kings 9:16 >>]]</td></tr></table>
 

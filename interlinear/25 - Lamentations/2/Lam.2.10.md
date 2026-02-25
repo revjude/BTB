@@ -1,8 +1,62 @@
+---
+title: Lamentations 2:10
+type: Verse
+kjv: "The elders of the daughter of Zion sit upon the ground, and keep silence: they have cast up dust upon their heads; they have girded themselves with sackcloth: the virgins of Jerusalem hang down their heads to the ground."
+bsb: "The elders of the Daughter of Zion sit on the ground in silence. They have thrown dust on their heads and put on sackcloth. The young women of Jerusalem have bowed their heads to the ground."
+hebrew: "יֵשְׁב֨וּ לָאָ֤רֶץ יִדְּמוּ֙ זִקְנֵ֣י בַת־ צִיּ֔וֹן הֶֽעֱל֤וּ עָפָר֙ עַל־ רֹאשָׁ֔ם חָגְר֖וּ שַׂקִּ֑ים הוֹרִ֤ידוּ לָאָ֙רֶץ֙ רֹאשָׁ֔ן בְּתוּלֹ֖ת יְרוּשָׁלִָֽם׃ ס"
+pericope: "[[Lam.2.1 God’s Anger over Jerusalem|God’s Anger over Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 2
+book/chapter: "[[Lam.2|Lamentations 2]]"
+chronological_order: 777
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic SACKCLOTH|SACKCLOTH]]"
+- "[[topic VIRGIN|VIRGIN]]"
+strongs:
+- "[[H3427]]"
+- "[[H9005]]"
+- "[[H0776H]]"
+- "[[H1826H]]"
+- "[[H2205G]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H6726]]"
+- "[[H5927H]]"
+- "[[H6083]]"
+- "[[H5921A]]"
+- "[[H7218A]]"
+- "[[H9028]]"
+- "[[H2296]]"
+- "[[H8242]]"
+- "[[H3381]]"
+- "[[H9029]]"
+- "[[H1330]]"
+- "[[H3389]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Lamentations 2:10**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The elders of the daughter of Zion sit upon the ground, [and] keep silence: they have cast up dust upon their heads; they have girded themselves with sackcloth: the virgins of Jerusalem hang down their heads to the ground.
 <small><sub>**BSB:**</sub></small>
 The elders of the Daughter of Zion sit on the ground in silence. They have thrown dust on their heads and put on sackcloth. The young women of Jerusalem have bowed their heads to the ground.
+<small><sub>**Hebrew:**</sub></small>
+[[H3427\|יֵשְׁב֨וּ]] [[H9005\|לָ]][[H0776H\|אָ֤רֶץ]] [[H1826H\|יִדְּמוּ֙]] [[H2205G\|זִקְנֵ֣י]] [[H1323G\|בַת]][[H9014\|־]] [[H6726\|צִיּ֔וֹן]] [[H5927H\|הֶֽעֱל֤וּ]] [[H6083\|עָפָר֙]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹאשָׁ֔]][[H9028\|ם]] [[H2296\|חָגְר֖וּ]] [[H8242\|שַׂקִּ֑ים]] [[H3381\|הוֹרִ֤ידוּ]] [[H9005\|לָ]][[H0776H\|אָ֙רֶץ֙]] [[H7218A\|רֹאשָׁ֔]][[H9029\|ן]] [[H1330\|בְּתוּלֹ֖ת]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SACKCLOTH|SACKCLOTH]] • [[topic VIRGIN|VIRGIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.9|<< Lamentations 2:9]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.11|Lamentations 2:11 >>]]</td></tr></table>
 
@@ -24,7 +78,7 @@ The elders of the Daughter of Zion sit on the ground in silence. They have throw
 | to the ground  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0776H\|אָ֙רֶץ֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | head their  |**<big>&#8207;[[H7218A\|רֹאשָׁ֔]]&#8207;&#8207;[[H9029\|ן]]&#8207; </big>**| ro.Sha<small><sup>[[HNcmsc]]</sup></small> n<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] virgins of  |**<big>&#8207;[[H1330\|בְּתוּלֹ֖ת]]&#8207; </big>**| be.tu.Lot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.9|<< Lamentations 2:9]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.11|Lamentations 2:11 >>]]</td></tr></table>
 
 

@@ -1,8 +1,70 @@
+---
+title: 2 Chronicles 7:13
+type: Verse
+kjv: "If I shut up heaven that there be no rain, or if I command the locusts to devour the land, or if I send pestilence among my people;"
+bsb: "If I close the sky so there is no rain, or if I command the locust to devour the land, or if I send a plague among My people,"
+hebrew: "הֵ֣ן אֶֽעֱצֹ֤ר הַשָּׁמַ֙יִם֙ וְלֹֽא־ יִהְיֶ֣ה מָטָ֔ר וְהֵן־ אֲצַוֶּ֥ה עַל־ חָגָ֖ב לֶאֱכ֣וֹל הָאָ֑רֶץ וְאִם־ אֲשַׁלַּ֥ח דֶּ֖בֶר בְּעַמִּֽי׃"
+pericope: "[[2Chr.7.11 The LORD’s Response to Solomon|The LORD’s Response to Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 7
+book/chapter: "[[2Chr.7|2 Chronicles 7]]"
+chronological_order: 496
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic DROUGHT|DROUGHT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RAIN|RAIN]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H2005]]"
+- "[[H6113]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H4306]]"
+- "[[H6680]]"
+- "[[H5921A]]"
+- "[[H2284]]"
+- "[[H9005]]"
+- "[[H0398]]"
+- "[[H0776G]]"
+- "[[H0518A]]"
+- "[[H7971G]]"
+- "[[H1698]]"
+- "[[H9003]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 7:13**<big><big>[[2Chr.7.11 The LORD’s Response to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If I shut up heaven that there be no rain, or if I command the locusts to devour the land, or if I send pestilence among my people;
 <small><sub>**BSB:**</sub></small>
 If I close the sky so there is no rain, or if I command the locust to devour the land, or if I send a plague among My people,
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵ֣ן]] [[H6113\|אֶֽעֱצֹ֤ר]] [[H9009\|הַ]][[H8064\|שָּׁמַ֙יִם֙]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|יִהְיֶ֣ה]] [[H4306\|מָטָ֔ר]] [[H9002\|וְ]][[H2005\|הֵן]][[H9014\|־]] [[H6680\|אֲצַוֶּ֥ה]] [[H5921A\|עַל]][[H9014\|־]] [[H2284\|חָגָ֖ב]] [[H9005\|לֶ]][[H0398\|אֱכ֣וֹל]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H7971G\|אֲשַׁלַּ֥ח]] [[H1698\|דֶּ֖בֶר]] [[H9003\|בְּ]][[H5971A\|עַמִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic DROUGHT|DROUGHT]] • [[topic GOD|GOD]] • [[topic LOCUST|LOCUST]] • [[topic NATION|NATION]] • [[topic PRAYER|PRAYER]] • [[topic RAIN|RAIN]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.7.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.7.12|<< 2 Chronicles 7:12]]</td><td align="center" style="border:none;">[[2Chr.7|2 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.7.14|2 Chronicles 7:14 >>]]</td></tr></table>
 

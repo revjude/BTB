@@ -1,10 +1,64 @@
+---
+title: Matthew 4:23
+type: Verse
+kjv: "And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people."
+bsb: "Jesus went throughout Galilee, teaching in their synagogues, preaching the gospel of the kingdom, and healing every disease and sickness among the people."
+greek: "Καὶ περιῆγεν ἐν ὅλῃ τῇ Γαλιλαίᾳ ὁ Ἰησοῦς διδάσκων ἐν ταῖς συναγωγαῖς αὐτῶν καὶ κηρύσσων τὸ εὐαγγέλιον τῆς βασιλείας καὶ θεραπεύων πᾶσαν νόσον καὶ πᾶσαν μαλακίαν ἐν τῷ λαῷ.¶"
+pericope: "[[Matt.4.23 Jesus Heals the Multitudes|Jesus Heals the Multitudes]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 4
+book/chapter: "[[Matt.4|Matthew 4]]"
+chronological_order: 936
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+strongs:
+- "[[G2532]]"
+- "[[G4013]]"
+- "[[G1722]]"
+- "[[G3650]]"
+- "[[G3588]]"
+- "[[G1056G]]"
+- "[[G2424G]]"
+- "[[G1321]]"
+- "[[G4864]]"
+- "[[G0846]]"
+- "[[G2784]]"
+- "[[G2098]]"
+- "[[G0932]]"
+- "[[G2323]]"
+- "[[G3956]]"
+- "[[G3554]]"
+- "[[G3119]]"
+- "[[G2992]]"
+texts:
+- NKO
+- no
+- N(k)O
+- ko
+---
+
 **Matthew 4:23**<big><big>[[Matt.4.23 Jesus Heals the Multitudes|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people.
 <small><sub>**BSB:**</sub></small>
 Jesus went throughout Galilee, teaching in their synagogues, preaching the gospel of the kingdom, and healing every disease and sickness among the people.
-<small><sub>**Literal:**</sub></small>
-And He was going through all <the> Galilee <the> Jesus teaching in the synagogues of them and proclaiming the gospel of the kingdom and healing every disease and every sickness among the people.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.22|<< Matthew 4:22]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.24|Matthew 4:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G4013\|περιῆγεν]]  [[G1722\|ἐν]]  [[G3650\|ὅλῃ]]  [[G3588\|τῇ]]  [[G1056G\|Γαλιλαίᾳ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G1321\|διδάσκων]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G4864\|συναγωγαῖς]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G2784\|κηρύσσων]]  [[G3588\|τὸ]]  [[G2098\|εὐαγγέλιον]]  [[G3588\|τῆς]]  [[G0932\|βασιλείας]]  [[G2532\|καὶ]]  [[G2323\|θεραπεύων]]  [[G3956\|πᾶσαν]]  [[G3554\|νόσον]]  [[G2532\|καὶ]]  [[G3956\|πᾶσαν]]  [[G3119\|μαλακίαν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2992\|λαῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GALILEE|GALILEE]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SYNAGOGUE|SYNAGOGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.22|<< Matthew 4:22]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.24|Matthew 4:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

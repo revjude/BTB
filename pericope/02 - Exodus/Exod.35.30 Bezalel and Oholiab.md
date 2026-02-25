@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Bezalel and Oholiab
+type: Pericope
 pericope: "[[Exod.35.30 Bezalel and Oholiab|Bezalel and Oholiab]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 35
 book/chapter: "[[Exod.35|Exodus 35]]"
-genre:
+chronological_order: 127
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 6
 verses:
 - "[[Exod.35.30]]"
 - "[[Exod.35.31]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Exod.35.35]]"
 ---
 
-[[Exod.35|Exodus 35:30 - Exodus 35:35]]
+<small>[[Exod.35|Exodus 35:30-35]]</small>
 *Bezalel and Oholiab*
 
 [[Exod.35.30|30]] And Moses said unto the children of Israel, See, the LORD hath called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah;

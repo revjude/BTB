@@ -1,8 +1,50 @@
+---
+title: Nehemiah 12:13
+type: Verse
+kjv: "Of Ezra, Meshullam; of Amariah, Jehohanan;"
+bsb: "of Ezra, Meshullam; of Amariah, Jehohanan;"
+hebrew: "לְעֶזְרָ֣א מְשֻׁלָּ֔ם לַאֲמַרְיָ֖ה יְהוֹחָנָֽן׃"
+pericope: "[[Neh.12.1 The Priests and Levites Who Returned|The Priests and Levites Who Returned]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 12
+book/chapter: "[[Neh.12|Nehemiah 12]]"
+chronological_order: 924
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic AMARIAH|AMARIAH]]"
+- "[[topic JEHOHANAN|JEHOHANAN]]"
+- "[[topic MESHULLAM|MESHULLAM]]"
+- "[[topic NEHEMIAH|NEHEMIAH]]"
+strongs:
+- "[[H9005]]"
+- "[[H5830H]]"
+- "[[H4918X]]"
+- "[[H0568M]]"
+- "[[H3076P]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 12:13**<big><big>[[Neh.12.1 The Priests and Levites Who Returned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of Ezra, Meshullam; of Amariah, Jehohanan;
 <small><sub>**BSB:**</sub></small>
 of Ezra, Meshullam; of Amariah, Jehohanan;
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H5830H\|עֶזְרָ֣א]] [[H4918X\|מְשֻׁלָּ֔ם]] [[H9005\|לַ]][[H0568M\|אֲמַרְיָ֖ה]] [[H3076P\|יְהוֹחָנָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMARIAH|AMARIAH]] • [[topic JEHOHANAN|JEHOHANAN]] • [[topic MESHULLAM|MESHULLAM]] • [[topic NEHEMIAH|NEHEMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.12|<< Nehemiah 12:12]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.14|Nehemiah 12:14 >>]]</td></tr></table>
 

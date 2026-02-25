@@ -1,8 +1,60 @@
+---
+title: Exodus 40:17
+type: Verse
+kjv: "And it came to pass in the first month in the second year, on the first day of the month, that the tabernacle was reared up."
+bsb: "So the tabernacle was set up on the first day of the first month of the second year."
+hebrew: "וַיְהִ֞י בַּחֹ֧דֶשׁ הָרִאשׁ֛וֹן בַּשָּׁנָ֥ה הַשֵּׁנִ֖ית בְּאֶחָ֣ד לַחֹ֑דֶשׁ הוּקַ֖ם הַמִּשְׁכָּֽן׃"
+pericope: "[[Exod.40.1 Setting Up the Tabernacle|Setting Up the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 40
+book/chapter: "[[Exod.40|Exodus 40]]"
+chronological_order: 132
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ABIB|ABIB]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic TIME|TIME]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H8141]]"
+- "[[H8145]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H6965H]]"
+- "[[H4908]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 40:17**<big><big>[[Exod.40.1 Setting Up the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the first month in the second year, on the first [day] of the month, [that] the tabernacle was reared up.
 <small><sub>**BSB:**</sub></small>
 So the tabernacle was set up on the first day of the first month of the second year.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֞י]] [[H9003\|בַּ]][[H2320G\|חֹ֧דֶשׁ]] [[H9009\|הָ]][[H7223G\|רִאשׁ֛וֹן]] [[H9003\|בַּ]][[H8141\|שָּׁנָ֥ה]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֖ית]] [[H9003\|בְּ]][[H0259\|אֶחָ֣ד]] [[H9005\|לַ]][[H2320G\|חֹ֑דֶשׁ]] [[H6965H\|הוּקַ֖ם]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIB|ABIB]] • [[topic MONTH|MONTH]] • [[topic TIME|TIME]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.16|<< Exodus 40:16]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.18|Exodus 40:18 >>]]</td></tr></table>
 

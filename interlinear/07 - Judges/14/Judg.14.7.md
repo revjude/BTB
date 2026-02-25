@@ -1,8 +1,52 @@
+---
+title: Judges 14:7
+type: Verse
+kjv: "And he went down, and talked with the woman; and she pleased Samson well."
+bsb: "Then Samson continued on his way down and spoke to the woman, because she was pleasing to his eyes."
+hebrew: "וַיֵּ֖רֶד וַיְדַבֵּ֣ר לָאִשָּׁ֑ה וַתִּישַׁ֖ר בְּעֵינֵ֥י שִׁמְשֽׁוֹן׃"
+pericope: "[[Judg.14.1 Samson’s Marriage|Samson’s Marriage]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 14
+book/chapter: "[[Judg.14|Judges 14]]"
+chronological_order: 268
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic COURTSHIP|COURTSHIP]]"
+- "[[topic LION|LION]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H1696G]]"
+- "[[H9005]]"
+- "[[H0802G]]"
+- "[[H3474]]"
+- "[[H9003]]"
+- "[[H5869A]]"
+- "[[H8123]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 14:7**<big><big>[[Judg.14.1 Samson’s Marriage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he went down, and talked with the woman; and she pleased Samson well.
 <small><sub>**BSB:**</sub></small>
 Then Samson continued on his way down and spoke to the woman, because she was pleasing to his eyes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3381\|יֵּ֖רֶד]] [[H9001\|וַ]][[H1696G\|יְדַבֵּ֣ר]] [[H9005\|לָ]][[H0802G\|אִשָּׁ֑ה]] [[H9001\|וַ]][[H3474\|תִּישַׁ֖ר]] [[H9003\|בְּ]][[H5869A\|עֵינֵ֥י]] [[H8123\|שִׁמְשֽׁוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURTSHIP|COURTSHIP]] • [[topic LION|LION]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.14.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.14.6|<< Judges 14:6]]</td><td align="center" style="border:none;">[[Judg.14|Judges 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.14.8|Judges 14:8 >>]]</td></tr></table>
 

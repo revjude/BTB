@@ -1,10 +1,62 @@
+---
+title: Acts 22:14
+type: Verse
+kjv: "And he said, The God of our fathers hath chosen thee, that thou shouldest know his will, and see that Just One, and shouldest hear the voice of his mouth."
+bsb: "Then he said, ‘The God of our fathers has appointed you to know His will and to see the Righteous One and to hear His voice."
+greek: "ὁ δὲ εἶπεν· ὁ θεὸς τῶν πατέρων ἡμῶν προεχειρίσατό σε γνῶναι τὸ θέλημα αὐτοῦ καὶ ἰδεῖν τὸν δίκαιον καὶ ἀκοῦσαι φωνὴν ἐκ τοῦ στόματος αὐτοῦ·"
+pericope: "[[Acts.22.1 Paul’s Defense to the Crowd|Paul’s Defense to the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 22
+book/chapter: "[[Acts.22|Acts 22]]"
+chronological_order: 1104
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANANIAS|ANANIAS]]"
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G2316]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G4400]]"
+- "[[G4771]]"
+- "[[G1097]]"
+- "[[G2307]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G1342]]"
+- "[[G0191]]"
+- "[[G5456G]]"
+- "[[G1537]]"
+- "[[G4750]]"
+texts:
+- NKO
+---
+
 **Acts 22:14**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said, The God of our fathers hath chosen thee, that thou shouldest know his will, and see that Just One, and shouldest hear the voice of his mouth.
 <small><sub>**BSB:**</sub></small>
 Then he said, ‘The God of our fathers has appointed you to know His will and to see the Righteous One and to hear His voice.
-<small><sub>**Literal:**</sub></small>
-<the> And he said; The God of the fathers of us has appointed you to know the will of Him and to see the Righteous One and to hear [the] voice out of the mouth of Him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.13|<< Acts 22:13]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.15|Acts 22:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν·]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τῶν]]  [[G3962\|πατέρων]]  [[G3165\|ἡμῶν]]  [[G4400\|προεχειρίσατό]]  [[G4771\|σε]]  [[G1097\|γνῶναι]]  [[G3588\|τὸ]]  [[G2307\|θέλημα]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G1492H\|ἰδεῖν]]  [[G3588\|τὸν]]  [[G1342\|δίκαιον]]  [[G2532\|καὶ]]  [[G0191\|ἀκοῦσαι]]  [[G5456G\|φωνὴν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4750\|στόματος]]  [[G0846\|αὐτοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANANIAS|ANANIAS]] • [[topic DAMASCUS|DAMASCUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PREDESTINATION|PREDESTINATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.13|<< Acts 22:13]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.15|Acts 22:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

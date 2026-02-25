@@ -1,10 +1,74 @@
+---
+title: Mark 13:11
+type: Verse
+kjv: "But when they shall lead you, and deliver you up, take no thought beforehand what ye shall speak, neither do ye premeditate: but whatsoever shall be given you in that hour, that speak ye: for it is not ye that speak, but the Holy Ghost."
+bsb: "But when they arrest you and hand you over, do not worry beforehand what to say. Instead, speak whatever you are given at that time, for it will not be you speaking, but the Holy Spirit."
+jesus_said: "But when they shall lead you, and deliver you up, take no thought beforehand what ye shall speak, neither do ye premeditate: but whatsoever shall be given you in that hour, that speak ye: for it is not ye that speak, but the Holy Ghost."
+greek: "καὶ ὅταν δὲ ἄγωσιν ὑμᾶς παραδιδόντες, μὴ προμεριμνᾶτε τί λαλήσητε μηδὲ μελετᾶτε· ἀλλ᾽ ὃ ἐὰν δοθῇ ὑμῖν ἐν ἐκείνῃ τῇ ὥρᾳ, τοῦτο λαλεῖτε· οὐ γάρ ἐστε ὑμεῖς οἱ λαλοῦντες ἀλλὰ τὸ πνεῦμα τὸ ἅγιον."
+pericope: "[[Mark.13.9 Witnessing to All Nations|Witnessing to All Nations]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 13
+book/chapter: "[[Mark.13|Mark 13]]"
+chronological_order: 998
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3752]]"
+- "[[G1161]]"
+- "[[G0071]]"
+- "[[G4771]]"
+- "[[G3860]]"
+- "[[G3361]]"
+- "[[G4305]]"
+- "[[G5101]]"
+- "[[G2980]]"
+- "[[G3366]]"
+- "[[G3191]]"
+- "[[G0235]]"
+- "[[G3739]]"
+- "[[G1437]]"
+- "[[G1325]]"
+- "[[G1722]]"
+- "[[G1565]]"
+- "[[G3588]]"
+- "[[G5610]]"
+- "[[G3778]]"
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+texts:
+- no
+- NKO
+- k
+- N(k)O
+---
+
 **Mark 13:11**<big><big>[[Mark.13.9 Witnessing to All Nations|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when they shall lead [you], and deliver you up, take no thought beforehand what ye shall speak, neither do ye premeditate: but whatsoever shall be given you in that hour, that speak ye: for it is not ye that speak, but the Holy Ghost.
 <small><sub>**BSB:**</sub></small>
 But when they arrest you and hand you over, do not worry beforehand what to say. Instead, speak whatever you are given at that time, for it will not be you speaking, but the Holy Spirit.
-<small><sub>**Literal:**</sub></small>
-And when now they may lead away you delivering [you] up, not do be anxious beforehand what you may say nor do devise; but whatever if shall be given to you in that [very] <the> hour, that do speak; not for are you yourselves those speaking but the Spirit <the> Holy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.10|<< Mark 13:10]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.12|Mark 13:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3752\|ὅταν]]  [[G1161\|δὲ]]  [[G0071\|ἄγωσιν]]  [[G4771\|ὑμᾶς]]  [[G3860\|παραδιδόντες,]]  [[G3361\|μὴ]]  [[G4305\|προμεριμνᾶτε]]  [[G5101\|τί]]  [[G2980\|λαλήσητε]]  [[G3366\|μηδὲ]]  [[G3191\|μελετᾶτε·]]  [[G0235\|ἀλλ᾽]]  [[G3739\|ὃ]]  [[G1437\|ἐὰν]]  [[G1325\|δοθῇ]]  [[G4771\|ὑμῖν]]  [[G1722\|ἐν]]  [[G1565\|ἐκείνῃ]]  [[G3588\|τῇ]]  [[G5610\|ὥρᾳ,]]  [[G3778\|τοῦτο]]  [[G2980\|λαλεῖτε·]]  [[G3756\|οὐ]]  [[G1063\|γάρ]]  [[G1510\|ἐστε]]  [[G4771\|ὑμεῖς]]  [[G3588\|οἱ]]  [[G2980\|λαλοῦντες]]  [[G0235\|ἀλλὰ]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τὸ]]  [[G0040G\|ἅγιον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.10|<< Mark 13:10]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.12|Mark 13:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

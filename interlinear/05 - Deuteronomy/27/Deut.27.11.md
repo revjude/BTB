@@ -1,8 +1,61 @@
+---
+title: Deuteronomy 27:11
+type: Verse
+kjv: "And Moses charged the people the same day, saying,"
+bsb: "On that day Moses commanded the people:"
+hebrew: "וַיְצַ֤ו מֹשֶׁה֙ אֶת־ הָעָ֔ם בַּיּ֥וֹם הַה֖וּא לֵאמֹֽר׃"
+pericope: "[[Deut.27.11 Curses Pronounced from Ebal|Curses Pronounced from Ebal]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 27
+book/chapter: "[[Deut.27|Deuteronomy 27]]"
+chronological_order: 223
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic CURSE|CURSE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H4872]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 27:11**<big><big>[[Deut.27.11 Curses Pronounced from Ebal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses charged the people the same day, saying,
 <small><sub>**BSB:**</sub></small>
 On that day Moses commanded the people:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַ֤ו]] [[H4872\|מֹשֶׁה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H1931\|ה֖וּא]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic CURSE|CURSE]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.27.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.27.10|<< Deuteronomy 27:10]]</td><td align="center" style="border:none;">[[Deut.27|Deuteronomy 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.27.12|Deuteronomy 27:12 >>]]</td></tr></table>
 

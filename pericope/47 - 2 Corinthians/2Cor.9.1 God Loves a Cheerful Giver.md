@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God Loves a Cheerful Giver
+type: Pericope
 pericope: "[[2Cor.9.1 God Loves a Cheerful Giver|God Loves a Cheerful Giver]]"
-verse_count: 15
+original_language: Greek
 testament: New
 book: 2 Corinthians
 chapter: 9
 book/chapter: "[[2Cor.9|2 Corinthians 9]]"
-genre:
+chronological_order: 1082
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - apologetic
+verse_count: 15
 verses:
 - "[[2Cor.9.1]]"
 - "[[2Cor.9.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[2Cor.9.15]]"
 ---
 
-[[2Cor.9|2 Corinthians 9:1 - 2 Corinthians 9:15]]
+<small>[[2Cor.9|2 Corinthians 9:1-15]]</small>
 *God Loves a Cheerful Giver*
 
 [[2Cor.9.1|1]] For as touching the ministering to the saints, it is superfluous for me to write to you:

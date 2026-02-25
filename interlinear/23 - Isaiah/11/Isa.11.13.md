@@ -1,8 +1,58 @@
+---
+title: Isaiah 11:13
+type: Verse
+kjv: "The envy also of Ephraim shall depart, and the adversaries of Judah shall be cut off: Ephraim shall not envy Judah, and Judah shall not vex Ephraim."
+bsb: "Then the jealousy of Ephraim will depart, and the adversaries of Judah will be cut off. Ephraim will no longer envy Judah, nor will Judah harass Ephraim."
+hebrew: "וְסָ֙רָה֙ קִנְאַ֣ת אֶפְרַ֔יִם וְצֹרְרֵ֥י יְהוּדָ֖ה יִכָּרֵ֑תוּ אֶפְרַ֙יִם֙ לֹֽא־ יְקַנֵּ֣א אֶת־ יְהוּדָ֔ה וִֽיהוּדָ֖ה לֹֽא־ יָצֹ֥ר אֶת־ אֶפְרָֽיִם׃"
+pericope: "[[Isa.11.1 The Root of Jesse|The Root of Jesse]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 11
+book/chapter: "[[Isa.11|Isaiah 11]]"
+chronological_order: 621
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic PEACE|PEACE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5493H]]"
+- "[[H7068]]"
+- "[[H0669G]]"
+- "[[H9002]]"
+- "[[H6887D]]"
+- "[[H3063G]]"
+- "[[H3772I]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7065]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 11:13**<big><big>[[Isa.11.1 The Root of Jesse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The envy also of Ephraim shall depart, and the adversaries of Judah shall be cut off: Ephraim shall not envy Judah, and Judah shall not vex Ephraim.
 <small><sub>**BSB:**</sub></small>
 Then the jealousy of Ephraim will depart, and the adversaries of Judah will be cut off. Ephraim will no longer envy Judah, nor will Judah harass Ephraim.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5493H\|סָ֙רָה֙]] [[H7068\|קִנְאַ֣ת]] [[H0669G\|אֶפְרַ֔יִם]] [[H9002\|וְ]][[H6887D\|צֹרְרֵ֥י]] [[H3063G\|יְהוּדָ֖ה]] [[H3772I\|יִכָּרֵ֑תוּ]] [[H0669G\|אֶפְרַ֙יִם֙]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7065\|יְקַנֵּ֣א]] [[H0853\|אֶת]][[H9014\|־]] [[H3063G\|יְהוּדָ֔ה]] [[H9002\|וִֽ]][[H3063G\|יהוּדָ֖ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H6887D\|יָצֹ֥ר]] [[H0853\|אֶת]][[H9014\|־]] [[H0669G\|אֶפְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHRAIM|EPHRAIM]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINDNESS|KINDNESS]] • [[topic PEACE|PEACE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.11.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.12|<< Isaiah 11:12]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.11.14|Isaiah 11:14 >>]]</td></tr></table>
 

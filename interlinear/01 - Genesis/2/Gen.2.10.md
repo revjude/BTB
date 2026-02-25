@@ -1,8 +1,62 @@
+---
+title: Genesis 2:10
+type: Verse
+kjv: "And a river went out of Eden to water the garden; and from thence it was parted, and became into four heads."
+bsb: "Now a river flowed out of Eden to water the garden, and from there it branched into four headwaters:"
+hebrew: "וְנָהָר֙ יֹצֵ֣א מֵעֵ֔דֶן לְהַשְׁק֖וֹת אֶת־ הַגָּ֑ן וּמִשָּׁם֙ יִפָּרֵ֔ד וְהָיָ֖ה לְאַרְבָּעָ֥ה רָאשִֽׁים׃"
+pericope: "[[Gen.2.4 Man and Woman in the Garden|Man and Woman in the Garden]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 2
+book/chapter: "[[Gen.2|Genesis 2]]"
+chronological_order: 2
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic EDEN|EDEN]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9002]]"
+- "[[H5104H]]"
+- "[[H3318L]]"
+- "[[H9006]]"
+- "[[H5731B]]"
+- "[[H9005]]"
+- "[[H8248G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1588M]]"
+- "[[H8033G]]"
+- "[[H6504]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0702]]"
+- "[[H7218J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 2:10**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a river went out of Eden to water the garden; and from thence it was parted, and became into four heads.
 <small><sub>**BSB:**</sub></small>
 Now a river flowed out of Eden to water the garden, and from there it branched into four headwaters:
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5104H\|נָהָר֙]] [[H3318L\|יֹצֵ֣א]] [[H9006\|מֵ]][[H5731B\|עֵ֔דֶן]] [[H9005\|לְ]][[H8248G\|הַשְׁק֖וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1588M\|גָּ֑ן]] [[H9002\|וּ]][[H9006\|מִ]][[H8033G\|שָּׁם֙]] [[H6504\|יִפָּרֵ֔ד]] [[H9001\|וְ]][[H1961\|הָיָ֖ה]] [[H9005\|לְ]][[H0702\|אַרְבָּעָ֥ה]] [[H7218J\|רָאשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDEN|EDEN]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.9|<< Genesis 2:9]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.11|Genesis 2:11 >>]]</td></tr></table>
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Future Glory for Zion
+type: Pericope
 pericope: "[[Isa.60.1 Future Glory for Zion|Future Glory for Zion]]"
-verse_count: 22
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 60
 book/chapter: "[[Isa.60|Isaiah 60]]"
-genre:
+chronological_order: 699
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 22
 verses:
 - "[[Isa.60.1]]"
 - "[[Isa.60.2]]"
@@ -41,7 +48,7 @@ verses:
 - "[[Isa.60.22]]"
 ---
 
-[[Isa.60|Isaiah 60:1 - Isaiah 60:22]]
+<small>[[Isa.60|Isaiah 60:1-22]]</small>
 *Future Glory for Zion*
 
 [[Isa.60.1|1]] Arise, shine; for thy light is come, and the glory of the LORD is risen upon thee.

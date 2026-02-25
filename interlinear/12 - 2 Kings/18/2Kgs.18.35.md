@@ -1,8 +1,65 @@
+---
+title: 2 Kings 18:35
+type: Verse
+kjv: "Who are they among all the gods of the countries, that have delivered their country out of mine hand, that the LORD should deliver Jerusalem out of mine hand?"
+bsb: "Who among all the gods of these lands has delivered his land from my hand? How then can the LORD deliver Jerusalem from my hand?”"
+hebrew: "מִ֚י בְּכָל־ אֱלֹהֵ֣י הָֽאֲרָצ֔וֹת אֲשֶׁר־ הִצִּ֥ילוּ אֶת־ אַרְצָ֖ם מִיָּדִ֑י כִּי־ יַצִּ֧יל יְהוָ֛ה אֶת־ יְרוּשָׁלִַ֖ם מִיָּדִֽי׃"
+pericope: "[[2Kgs.18.17 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 18
+book/chapter: "[[2Kgs.18|2 Kings 18]]"
+chronological_order: 656
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic RAB-SHAKEH (RABSHAKEH)|RAB-SHAKEH (RABSHAKEH)]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H4310]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0430]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H5337]]"
+- "[[H0853]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 18:35**<big><big>[[2Kgs.18.17 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [are] they among all the gods of the countries, that have delivered their country out of mine hand, that the LORD should deliver Jerusalem out of mine hand?
 <small><sub>**BSB:**</sub></small>
 Who among all the gods of these lands has delivered his land from my hand? How then can the LORD deliver Jerusalem from my hand?”
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִ֚י]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H0430\|אֱלֹהֵ֣י]] [[H9009\|הָֽ]][[H0776G\|אֲרָצ֔וֹת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5337\|הִצִּ֥ילוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אַרְצָ֖]][[H9028\|ם]] [[H9006\|מִ]][[H3027H\|יָּדִ֑]][[H9020\|י]] [[H3588A\|כִּי]][[H9014\|־]] [[H5337\|יַצִּ֧יל]] [[H3068G\|יְהוָ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3389\|יְרוּשָׁלִַ֖ם]] [[H9006\|מִ]][[H3027H\|יָּדִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic RAB-SHAKEH (RABSHAKEH)|RAB-SHAKEH (RABSHAKEH)]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.34|<< 2 Kings 18:34]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.36|2 Kings 18:36 >>]]</td></tr></table>
 

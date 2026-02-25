@@ -1,10 +1,64 @@
+---
+title: Acts 15:16
+type: Verse
+kjv: "After this I will return, and will build again the tabernacle of David, which is fallen down; and I will build again the ruins thereof, and I will set it up:"
+bsb: "‘After this I will return and rebuild the fallen tent of David. Its ruins I will rebuild, and I will restore it,"
+greek: "μετὰ ταῦτα ἀναστρέψω καὶ ἀνοικοδομήσω τὴν σκηνὴν Δαυὶδ τὴν πεπτωκυῖαν καὶ τὰ κατεσκαμμένα αὐτῆς ἀνοικοδομήσω καὶ ἀνορθώσω αὐτήν·"
+pericope: "[[Acts.15.5 The Council at Jerusalem|The Council at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G3326]]"
+- "[[G3778]]"
+- "[[G0390]]"
+- "[[G2532]]"
+- "[[G0456]]"
+- "[[G3588]]"
+- "[[G4633]]"
+- "[[G1138]]"
+- "[[G4098]]"
+- "[[G2679]]"
+- "[[G0846]]"
+- "[[G0461]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Acts 15:16**<big><big>[[Acts.15.5 The Council at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 After this I will return, and will build again the tabernacle of David, which is fallen down; and I will build again the ruins thereof, and I will set it up:
 <small><sub>**BSB:**</sub></small>
 ‘After this I will return and rebuild the fallen tent of David. Its ruins I will rebuild, and I will restore it,
-<small><sub>**Literal:**</sub></small>
-After these things I will return and will rebuild the tabernacle of David which having fallen and the ruined of it I will rebuild and I will set upright it;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.15|<< Acts 15:15]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.17|Acts 15:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3326\|μετὰ]]  [[G3778\|ταῦτα]]  [[G0390\|ἀναστρέψω]]  [[G2532\|καὶ]]  [[G0456\|ἀνοικοδομήσω]]  [[G3588\|τὴν]]  [[G4633\|σκηνὴν]]  [[G1138\|Δαυὶδ]]  [[G3588\|τὴν]]  [[G4098\|πεπτωκυῖαν]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G2679\|κατεσκαμμένα]]  [[G0846\|αὐτῆς]]  [[G0456\|ἀνοικοδομήσω]]  [[G2532\|καὶ]]  [[G0461\|ἀνορθώσω]]  [[G0846\|αὐτήν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic CHURCH|CHURCH]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COUNCIL|COUNCIL]] • [[topic DAVID|DAVID]] • [[topic DOCTRINES|DOCTRINES]] • [[topic ELDER|ELDER]] • [[topic GENTILES|GENTILES]] • [[topic JAMES|JAMES]] • [[topic LAW|LAW]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.15|<< Acts 15:15]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.17|Acts 15:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 15:16** is...
 > $\quad$ referencing: [[LXX.Jer.12.15|Jer 12:15]] ☩ [[LXX.Amos.9.11|Amos 9:11-12]]

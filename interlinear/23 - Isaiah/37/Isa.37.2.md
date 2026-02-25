@@ -1,8 +1,67 @@
+---
+title: Isaiah 37:2
+type: Verse
+kjv: "And he sent Eliakim, who was over the household, and Shebna the scribe, and the elders of the priests covered with sackcloth, unto Isaiah the prophet the son of Amoz."
+bsb: "And he sent Eliakim the palace administrator, Shebna the scribe, and the leading priests, all wearing sackcloth, to the prophet Isaiah son of Amoz"
+hebrew: "וַ֠יִּשְׁלַח אֶת־ אֶלְיָקִ֨ים אֲשֶׁר־ עַל־ הַבַּ֜יִת וְאֵ֣ת׀ שֶׁבְנָ֣א הַסּוֹפֵ֗ר וְאֵת֙ זִקְנֵ֣י הַכֹּהֲנִ֔ים מִתְכַּסִּ֖ים בַּשַּׂקִּ֑ים אֶל־ יְשַֽׁעְיָ֥הוּ בֶן־ אָמ֖וֹץ הַנָּבִֽיא׃"
+pericope: "[[Isa.37.1 Isaiah’s Message of Deliverance|Isaiah’s Message of Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 37
+book/chapter: "[[Isa.37|Isaiah 37]]"
+chronological_order: 664
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ELIAKIM|ELIAKIM]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SHEBNA (SHEBNAH)|SHEBNA (SHEBNAH)]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0471G]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H1004Q]]"
+- "[[H9002]]"
+- "[[H9015]]"
+- "[[H7644]]"
+- "[[H5608B]]"
+- "[[H2205G]]"
+- "[[H3548]]"
+- "[[H3680]]"
+- "[[H9003]]"
+- "[[H8242]]"
+- "[[H0413]]"
+- "[[H3470A]]"
+- "[[H1121A]]"
+- "[[H0531]]"
+- "[[H5030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 37:2**<big><big>[[Isa.37.1 Isaiah’s Message of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he sent Eliakim, who [was] over the household, and Shebna the scribe, and the elders of the priests covered with sackcloth, unto Isaiah the prophet the son of Amoz.
 <small><sub>**BSB:**</sub></small>
 And he sent Eliakim the palace administrator, Shebna the scribe, and the leading priests, all wearing sackcloth, to the prophet Isaiah son of Amoz
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֠]][[H7971G\|יִּשְׁלַח]] [[H0853\|אֶת]][[H9014\|־]] [[H0471G\|אֶלְיָקִ֨ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1004Q\|בַּ֜יִת]] [[H9002\|וְ]][[H0853\|אֵ֣ת]][[H9015\|׀]] [[H7644\|שֶׁבְנָ֣א]] [[H9009\|הַ]][[H5608B\|סּוֹפֵ֗ר]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H2205G\|זִקְנֵ֣י]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֔ים]] [[H3680\|מִתְכַּסִּ֖ים]] [[H9003\|בַּ]][[H8242\|שַּׂקִּ֑ים]] [[H0413\|אֶל]][[H9014\|־]] [[H3470A\|יְשַֽׁעְיָ֥הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H0531\|אָמ֖וֹץ]] [[H9009\|הַ]][[H5030\|נָּבִֽיא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIAKIM|ELIAKIM]] • [[topic PROPHETS|PROPHETS]] • [[topic SHEBNA (SHEBNAH)|SHEBNA (SHEBNAH)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.1|<< Isaiah 37:1]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.3|Isaiah 37:3 >>]]</td></tr></table>
 

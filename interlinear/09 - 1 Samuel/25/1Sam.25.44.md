@@ -1,8 +1,62 @@
+---
+title: 1 Samuel 25:44
+type: Verse
+kjv: "But Saul had given Michal his daughter, David’s wife, to Phalti the son of Laish, which was of Gallim."
+bsb: "But Saul had given his daughter Michal, David’s wife, to Palti son of Laish, who was from Gallim."
+hebrew: "וְשָׁא֗וּל נָתַ֛ן אֶת־ מִיכַ֥ל בִּתּ֖וֹ אֵ֣שֶׁת דָּוִ֑ד לְפַלְטִ֥י בֶן־ לַ֖יִשׁ אֲשֶׁ֥ר מִגַּלִּֽים׃"
+pericope: "[[1Sam.25.39 David Marries Abigail|David Marries Abigail]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GALLIM|GALLIM]]"
+- "[[topic LAISH|LAISH]]"
+- "[[topic MICHAL|MICHAL]]"
+- "[[topic PHALTI|PHALTI]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+strongs:
+- "[[H9002]]"
+- "[[H7586G]]"
+- "[[H5414O]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4324G]]"
+- "[[H1323G]]"
+- "[[H9023]]"
+- "[[H0802H]]"
+- "[[H1732]]"
+- "[[H9005]]"
+- "[[H6406H]]"
+- "[[H1121A]]"
+- "[[H3919B]]"
+- "[[H0834A]]"
+- "[[H9006]]"
+- "[[H1554]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 25:44**<big><big>[[1Sam.25.39 David Marries Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Saul had given Michal his daughter, David’s wife, to Phalti the son of Laish, which [was] of Gallim.
 <small><sub>**BSB:**</sub></small>
 But Saul had given his daughter Michal, David’s wife, to Palti son of Laish, who was from Gallim.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7586G\|שָׁא֗וּל]] [[H5414O\|נָתַ֛ן]] [[H0853\|אֶת]][[H9014\|־]] [[H4324G\|מִיכַ֥ל]] [[H1323G\|בִּתּ֖]][[H9023\|וֹ]] [[H0802H\|אֵ֣שֶׁת]] [[H1732\|דָּוִ֑ד]] [[H9005\|לְ]][[H6406H\|פַלְטִ֥י]] [[H1121A\|בֶן]][[H9014\|־]] [[H3919B\|לַ֖יִשׁ]] [[H0834A\|אֲשֶׁ֥ר]] [[H9006\|מִ]][[H1554\|גַּלִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GALLIM|GALLIM]] • [[topic LAISH|LAISH]] • [[topic MICHAL|MICHAL]] • [[topic PHALTI|PHALTI]] • [[topic POLYGAMY|POLYGAMY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.43|<< 1 Samuel 25:43]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.1|1 Samuel 26:1 >>]]</td></tr></table>
 

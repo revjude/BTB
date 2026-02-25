@@ -1,8 +1,68 @@
+---
+title: Judges 7:17
+type: Verse
+kjv: "And he said unto them, Look on me, and do likewise: and, behold, when I come to the outside of the camp, it shall be that, as I do, so shall ye do."
+bsb: "“Watch me and do as I do,” Gideon said. “When I come to the outskirts of the camp, do exactly as I do."
+hebrew: "וַיֹּ֣אמֶר אֲלֵיהֶ֔ם מִמֶּ֥נִּי תִרְא֖וּ וְכֵ֣ן תַּעֲשׂ֑וּ וְהִנֵּ֨ה אָנֹכִ֥י בָא֙ בִּקְצֵ֣ה הַֽמַּחֲנֶ֔ה וְהָיָ֥ה כַאֲשֶׁר־ אֶעֱשֶׂ֖ה כֵּ֥ן תַּעֲשֽׂוּן׃"
+pericope: "[[Judg.7.15 Gideon Defeats Midian|Gideon Defeats Midian]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 7
+book/chapter: "[[Judg.7|Judges 7]]"
+chronological_order: 261
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PITCHER|PITCHER]]"
+- "[[topic STRATEGY|STRATEGY]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H7200G]]"
+- "[[H9002]]"
+- "[[H3651C]]"
+- "[[H6213A]]"
+- "[[H2009]]"
+- "[[H0595]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H7097A]]"
+- "[[H9009]]"
+- "[[H4264]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9014]]"
+- "[[H9013]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 7:17**<big><big>[[Judg.7.15 Gideon Defeats Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Look on me, and do likewise: and, behold, when I come to the outside of the camp, it shall be [that], as I do, so shall ye do.
 <small><sub>**BSB:**</sub></small>
 “Watch me and do as I do,” Gideon said. “When I come to the outskirts of the camp, do exactly as I do.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֲלֵי]][[H9038\|הֶ֔ם]] [[H4480A\|מִמֶּ֥]][[H9030\|נִּי]] [[H7200G\|תִרְא֖וּ]] [[H9002\|וְ]][[H3651C\|כֵ֣ן]] [[H6213A\|תַּעֲשׂ֑וּ]] [[H9002\|וְ]][[H2009\|הִנֵּ֨ה]] [[H0595\|אָנֹכִ֥י]] [[H0935G\|בָא֙]] [[H9003\|בִּ]][[H7097A\|קְצֵ֣ה]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶ֔ה]] [[H9001\|וְ]][[H1961\|הָיָ֥ה]] [[H9004\|כַ]][[H0834D\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|אֶעֱשֶׂ֖ה]] [[H3651C\|כֵּ֥ן]] [[H6213A\|תַּעֲשֽׂוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic COURAGE|COURAGE]] • [[topic MIRACLES|MIRACLES]] • [[topic PITCHER|PITCHER]] • [[topic STRATEGY|STRATEGY]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.16|<< Judges 7:16]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.18|Judges 7:18 >>]]</td></tr></table>
 

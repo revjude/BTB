@@ -1,8 +1,63 @@
+---
+title: Judges 17:9
+type: Verse
+kjv: "And Micah said unto him, Whence comest thou? And he said unto him, I am a Levite of Bethlehemjudah, and I go to sojourn where I may find a place."
+bsb: "“Where are you from?” Micah asked him. “I am a Levite from Bethlehem in Judah,” he replied, “and I am on my way to settle wherever I can find a place.”"
+hebrew: "וַיֹּאמֶר־ ל֥וֹ מִיכָ֖ה מֵאַ֣יִן תָּב֑וֹא וַיֹּ֨אמֶר אֵלָ֜יו לֵוִ֣י אָנֹ֗כִי מִבֵּ֥ית לֶ֙חֶם֙ יְהוּדָ֔ה וְאָנֹכִ֣י הֹלֵ֔ךְ לָג֖וּר בַּאֲשֶׁ֥ר אֶמְצָֽא׃"
+pericope: "[[Judg.17.1 Micah’s Idolatry|Micah’s Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 17
+book/chapter: "[[Judg.17|Judges 17]]"
+chronological_order: 271
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BETHLEHEM|BETHLEHEM]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H4318G]]"
+- "[[H9006]]"
+- "[[H0370]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H3881]]"
+- "[[H0595]]"
+- "[[H1035G]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H1980G]]"
+- "[[H1481A]]"
+- "[[H9003]]"
+- "[[H0834B]]"
+- "[[H4672]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 17:9**<big><big>[[Judg.17.1 Micah’s Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Micah said unto him, Whence comest thou? And he said unto him, I [am] a Levite of Bethlehemjudah, and I go to sojourn where I may find [a place].
 <small><sub>**BSB:**</sub></small>
 “Where are you from?” Micah asked him. “I am a Levite from Bethlehem in Judah,” he replied, “and I am on my way to settle wherever I can find a place.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמֶר]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H4318G\|מִיכָ֖ה]] [[H9006\|מֵ]][[H0370\|אַ֣יִן]] [[H0935G\|תָּב֑וֹא]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0413\|אֵלָ֜י]][[H9033\|ו]] [[H3881\|לֵוִ֣י]] [[H0595\|אָנֹ֗כִי]] [[H9006\|מִ]][[H1035G\|בֵּ֥ית]] [[H1035G\|לֶ֙חֶם֙]] [[H3063G\|יְהוּדָ֔ה]] [[H9002\|וְ]][[H0595\|אָנֹכִ֣י]] [[H1980G\|הֹלֵ֔ךְ]] [[H9005\|לָ]][[H1481A\|ג֖וּר]] [[H9003\|בַּ]][[H0834B\|אֲשֶׁ֥ר]] [[H4672\|אֶמְצָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHLEHEM|BETHLEHEM]] • [[topic JONATHAN|JONATHAN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.17.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.17.8|<< Judges 17:8]]</td><td align="center" style="border:none;">[[Judg.17|Judges 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.17.10|Judges 17:10 >>]]</td></tr></table>
 

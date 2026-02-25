@@ -1,8 +1,71 @@
+---
+title: 1 Samuel 17:49
+type: Verse
+kjv: "And David put his hand in his bag, and took thence a stone, and slang it, and smote the Philistine in his forehead, that the stone sunk into his forehead; and he fell upon his face to the earth."
+bsb: "Then David reached into his bag, took out a stone, and slung it, striking the Philistine on the forehead. The stone sank into his forehead, and he fell facedown on the ground."
+hebrew: "וַיִּשְׁלַח֩ דָּוִ֨ד אֶת־ יָד֜וֹ אֶל־ הַכֶּ֗לִי וַיִּקַּ֨ח מִשָּׁ֥ם אֶ֙בֶן֙ וַיְקַלַּ֔ע וַיַּ֥ךְ אֶת־ הַפְּלִשְׁתִּ֖י אֶל־ מִצְח֑וֹ וַתִּטְבַּ֤ע הָאֶ֙בֶן֙ בְּמִצְח֔וֹ וַיִּפֹּ֥ל עַל־ פָּנָ֖יו אָֽרְצָה׃"
+pericope: "[[1Sam.17.38 David Slays Goliath|David Slays Goliath]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHAMPIONSHIP|CHAMPIONSHIP]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SLING|SLING]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971K]]"
+- "[[H1732]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H3627]]"
+- "[[H3947G]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H0068G]]"
+- "[[H7049A]]"
+- "[[H5221]]"
+- "[[H6430G]]"
+- "[[H4696]]"
+- "[[H2883]]"
+- "[[H9003]]"
+- "[[H5307G]]"
+- "[[H5921A]]"
+- "[[H6440H]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 17:49**<big><big>[[1Sam.17.38 David Slays Goliath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David put his hand in his bag, and took thence a stone, and slang [it], and smote the Philistine in his forehead, that the stone sunk into his forehead; and he fell upon his face to the earth.
 <small><sub>**BSB:**</sub></small>
 Then David reached into his bag, took out a stone, and slung it, striking the Philistine on the forehead. The stone sank into his forehead, and he fell facedown on the ground.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971K\|יִּשְׁלַח֩]] [[H1732\|דָּוִ֨ד]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יָד֜]][[H9023\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3627\|כֶּ֗לִי]] [[H9001\|וַ]][[H3947G\|יִּקַּ֨ח]] [[H9006\|מִ]][[H8033G\|שָּׁ֥ם]] [[H0068G\|אֶ֙בֶן֙]] [[H9001\|וַ]][[H7049A\|יְקַלַּ֔ע]] [[H9001\|וַ]][[H5221\|יַּ֥ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6430G\|פְּלִשְׁתִּ֖י]] [[H0413\|אֶל]][[H9014\|־]] [[H4696\|מִצְח֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H2883\|תִּטְבַּ֤ע]] [[H9009\|הָ]][[H0068G\|אֶ֙בֶן֙]] [[H9003\|בְּ]][[H4696\|מִצְח֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H5307G\|יִּפֹּ֥ל]] [[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פָּנָ֖י]][[H9023\|ו]] [[H0776H\|אָֽרְצָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CHAMPIONSHIP|CHAMPIONSHIP]] • [[topic COURAGE|COURAGE]] • [[topic DECISION|DECISION]] • [[topic GOD|GOD]] • [[topic SLING|SLING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.48|<< 1 Samuel 17:48]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.50|1 Samuel 17:50 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: Daniel 8:15
+type: Verse
+kjv: "And it came to pass, when I, even I Daniel, had seen the vision, and sought for the meaning, then, behold, there stood before me as the appearance of a man."
+bsb: "While I, Daniel, was watching the vision and trying to understand it, there stood before me one having the appearance of a man."
+hebrew: "וַיְהִ֗י בִּרְאֹתִ֛י אֲנִ֥י דָנִיֵּ֖אל אֶת־ הֶחָז֑וֹן וָאֲבַקְשָׁ֣ה בִינָ֔ה וְהִנֵּ֛ה עֹמֵ֥ד לְנֶגְדִּ֖י כְּמַרְאֵה־ גָֽבֶר׃"
+pericope: "[[Dan.8.15 Gabriel Interprets Daniel’s Vision|Gabriel Interprets Daniel’s Vision]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 8
+book/chapter: "[[Dan.8|Daniel 8]]"
+chronological_order: 844
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H7200G]]"
+- "[[H9040]]"
+- "[[H0589]]"
+- "[[H1840G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2377]]"
+- "[[H1245]]"
+- "[[H9012]]"
+- "[[H0998]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H5048]]"
+- "[[H9030]]"
+- "[[H9004]]"
+- "[[H4758]]"
+- "[[H1397]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 8:15**<big><big>[[Dan.8.15 Gabriel Interprets Daniel’s Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when I, [even] I Daniel, had seen the vision, and sought for the meaning, then, behold, there stood before me as the appearance of a man.
 <small><sub>**BSB:**</sub></small>
 While I, Daniel, was watching the vision and trying to understand it, there stood before me one having the appearance of a man.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9003\|בִּ]][[H7200G\|רְאֹתִ֛]][[H9040\|י]] [[H0589\|אֲנִ֥י]] [[H1840G\|דָנִיֵּ֖אל]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הֶ]][[H2377\|חָז֑וֹן]] [[H9001\|וָ]][[H1245\|אֲבַקְשָׁ֣]][[H9012\|ה]] [[H0998\|בִינָ֔ה]] [[H9002\|וְ]][[H2009\|הִנֵּ֛ה]] [[H5975G\|עֹמֵ֥ד]] [[H9005\|לְ]][[H5048\|נֶגְדִּ֖]][[H9030\|י]] [[H9004\|כְּ]][[H4758\|מַרְאֵה]][[H9014\|־]] [[H1397\|גָֽבֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.14|<< Daniel 8:14]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.16|Daniel 8:16 >>]]</td></tr></table>
 

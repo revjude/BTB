@@ -1,10 +1,60 @@
+---
+title: 1 Corinthians 14:6
+type: Verse
+kjv: "Now, brethren, if I come unto you speaking with tongues, what shall I profit you, except I shall speak to you either by revelation, or by knowledge, or by prophesying, or by doctrine?"
+bsb: "Now, brothers, if I come to you speaking in tongues, how will I benefit you, unless I bring you some revelation or knowledge or prophecy or teaching?"
+greek: "Νῦν δέ, ἀδελφοί, ἐὰν ἔλθω πρὸς ὑμᾶς γλώσσαις λαλῶν, τί ὑμᾶς ὠφελήσω, ἐὰν μὴ ὑμῖν λαλήσω ἢ ἐν ἀποκαλύψει ἢ ἐν γνώσει ἢ ἐν προφητείᾳ ἢ ἐν διδαχῇ;"
+pericope: "[[1Cor.14.1 Prophecy and Tongues|Prophecy and Tongues]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 14
+book/chapter: "[[1Cor.14|1 Corinthians 14]]"
+chronological_order: 1071
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]"
+strongs:
+- "[[G3568]]"
+- "[[G1161]]"
+- "[[G0080]]"
+- "[[G1437]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G1100]]"
+- "[[G2980]]"
+- "[[G5101]]"
+- "[[G5623]]"
+- "[[G3361]]"
+- "[[G2228]]"
+- "[[G1722]]"
+- "[[G0602]]"
+- "[[G1108]]"
+- "[[G4394]]"
+- "[[G1322]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **1 Corinthians 14:6**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now, brethren, if I come unto you speaking with tongues, what shall I profit you, except I shall speak to you either by revelation, or by knowledge, or by prophesying, or by doctrine?
 <small><sub>**BSB:**</sub></small>
 Now, brothers, if I come to you speaking in tongues, how will I benefit you, unless I bring you some revelation or knowledge or prophecy or teaching?
-<small><sub>**Literal:**</sub></small>
-now however brothers, if I shall come to you in tongues speaking, what you will I profit, only unless to you I shall speak either in revelation or in knowledge or in prophecy or in teaching?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.5|<< 1 Corinthians 14:5]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.7|1 Corinthians 14:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3568\|Νῦν]]  [[G1161\|δέ,]]  [[G0080\|ἀδελφοί,]]  [[G1437\|ἐὰν]]  [[G2064\|ἔλθω]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G1100\|γλώσσαις]]  [[G2980\|λαλῶν,]]  [[G5101\|τί]]  [[G4771\|ὑμᾶς]]  [[G5623\|ὠφελήσω,]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G4771\|ὑμῖν]]  [[G2980\|λαλήσω]]  [[G2228\|ἢ]]  [[G1722\|ἐν]]  [[G0602\|ἀποκαλύψει]]  [[G2228\|ἢ]]  [[G1722\|ἐν]]  [[G1108\|γνώσει]]  [[G2228\|ἢ]]  [[G1722\|ἐν]]  [[G4394\|προφητείᾳ]]  [[G2228\|ἢ]]  [[G1722\|ἐν]]  [[G1322\|διδαχῇ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LANGUAGE|LANGUAGE]] • [[topic PREACHING|PREACHING]] • [[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.5|<< 1 Corinthians 14:5]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.7|1 Corinthians 14:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

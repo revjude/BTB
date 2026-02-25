@@ -1,8 +1,69 @@
+---
+title: 1 Kings 18:45
+type: Verse
+kjv: "And it came to pass in the mean while, that the heaven was black with clouds and wind, and there was a great rain. And Ahab rode, and went to Jezreel."
+bsb: "Meanwhile, the sky grew dark with clouds and wind, and a heavy rain began to fall. So Ahab rode away and went to Jezreel."
+hebrew: "וַיְהִ֣י׀ עַד־ כֹּ֣ה וְעַד־ כֹּ֗ה וְהַשָּׁמַ֙יִם֙ הִֽתְקַדְּרוּ֙ עָבִ֣ים וְר֔וּחַ וַיְהִ֖י גֶּ֣שֶׁם גָּד֑וֹל וַיִּרְכַּ֥ב אַחְאָ֖ב וַיֵּ֥לֶךְ יִזְרְעֶֽאלָה׃"
+pericope: "[[1Kgs.18.41 The LORD Sends Rain|The LORD Sends Rain]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 18
+book/chapter: "[[1Kgs.18|1 Kings 18]]"
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic CARMEL|CARMEL]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic JEZREEL|JEZREEL]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RAIN|RAIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H3541]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H6937]]"
+- "[[H5645]]"
+- "[[H7307H]]"
+- "[[H1653]]"
+- "[[H1419A]]"
+- "[[H7392]]"
+- "[[H0256G]]"
+- "[[H1980G]]"
+- "[[H3157H]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 18:45**<big><big>[[1Kgs.18.41 The LORD Sends Rain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the mean while, that the heaven was black with clouds and wind, and there was a great rain. And Ahab rode, and went to Jezreel.
 <small><sub>**BSB:**</sub></small>
 Meanwhile, the sky grew dark with clouds and wind, and a heavy rain began to fall. So Ahab rode away and went to Jezreel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]][[H9015\|׀]] [[H5704\|עַד]][[H9014\|־]] [[H3541\|כֹּ֣ה]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H3541\|כֹּ֗ה]] [[H9002\|וְ]][[H9009\|הַ]][[H8064\|שָּׁמַ֙יִם֙]] [[H6937\|הִֽתְקַדְּרוּ֙]] [[H5645\|עָבִ֣ים]] [[H9002\|וְ]][[H7307H\|ר֔וּחַ]] [[H9001\|וַ]][[H1961\|יְהִ֖י]] [[H1653\|גֶּ֣שֶׁם]] [[H1419A\|גָּד֑וֹל]] [[H9001\|וַ]][[H7392\|יִּרְכַּ֥ב]] [[H0256G\|אַחְאָ֖ב]] [[H9001\|וַ]][[H1980G\|יֵּ֥לֶךְ]] [[H3157H\|יִזְרְעֶֽאלָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic CARMEL|CARMEL]] • [[topic ELIJAH|ELIJAH]] • [[topic JEZREEL|JEZREEL]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic RAIN|RAIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.44|<< 1 Kings 18:44]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.46|1 Kings 18:46 >>]]</td></tr></table>
 

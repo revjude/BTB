@@ -1,8 +1,63 @@
+---
+title: Ezekiel 20:18
+type: Verse
+kjv: "But I said unto their children in the wilderness, Walk ye not in the statutes of your fathers, neither observe their judgments, nor defile yourselves with their idols:"
+bsb: "In the wilderness I said to their children: ‘Do not walk in the statutes of your fathers or keep their ordinances or defile yourselves with their idols."
+hebrew: "וָאֹמַ֤ר אֶל־ בְּנֵיהֶם֙ בַּמִּדְבָּ֔ר בְּחוּקֵּ֤י אֲבֽוֹתֵיכֶם֙ אַל־ תֵּלֵ֔כוּ וְאֶת־ מִשְׁפְּטֵיהֶ֖ם אַל־ תִּשְׁמֹ֑רוּ וּבְגִלּוּלֵיהֶ֖ם אַל־ תִּטַּמָּֽאוּ׃"
+pericope: "[[Ezek.20.10 Israel’s Rebellion in the Wilderness|Israel’s Rebellion in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EXAMPLE|EXAMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H2706G]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H0408]]"
+- "[[H1980I]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H4941G]]"
+- "[[H8104G]]"
+- "[[H1544]]"
+- "[[H2930A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:18**<big><big>[[Ezek.20.10 Israel’s Rebellion in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I said unto their children in the wilderness, Walk ye not in the statutes of your fathers, neither observe their judgments, nor defile yourselves with their idols:
 <small><sub>**BSB:**</sub></small>
 In the wilderness I said to their children: ‘Do not walk in the statutes of your fathers or keep their ordinances or defile yourselves with their idols.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמַ֤ר]] [[H0413\|אֶל]][[H9014\|־]] [[H1121A\|בְּנֵי]][[H9028\|הֶם֙]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֔ר]] [[H9003\|בְּ]][[H2706G\|חוּקֵּ֤י]] [[H0001G\|אֲבֽוֹתֵי]][[H9026\|כֶם֙]] [[H0408\|אַל]][[H9014\|־]] [[H1980I\|תֵּלֵ֔כוּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4941G\|מִשְׁפְּטֵי]][[H9028\|הֶ֖ם]] [[H0408\|אַל]][[H9014\|־]] [[H8104G\|תִּשְׁמֹ֑רוּ]] [[H9002\|וּ]][[H9003\|בְ]][[H1544\|גִלּוּלֵי]][[H9028\|הֶ֖ם]] [[H0408\|אַל]][[H9014\|־]] [[H2930A\|תִּטַּמָּֽאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EXAMPLE|EXAMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.17|<< Ezekiel 20:17]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.19|Ezekiel 20:19 >>]]</td></tr></table>
 

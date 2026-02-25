@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hananiah’s False Prophecy
+type: Pericope
 pericope: "[[Jer.28.1 Hananiah’s False Prophecy|Hananiah’s False Prophecy]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 28
 book/chapter: "[[Jer.28|Jeremiah 28]]"
-genre:
+chronological_order: 751
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 17
 verses:
 - "[[Jer.28.1]]"
 - "[[Jer.28.2]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Jer.28.17]]"
 ---
 
-[[Jer.28|Jeremiah 28:1 - Jeremiah 28:17]]
+<small>[[Jer.28|Jeremiah 28:1-17]]</small>
 *Hananiah’s False Prophecy*
 
 [[Jer.28.1|1]] And it came to pass the same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, \[and\] in the fifth month, \[that\] Hananiah the son of Azur the prophet, which \[was\] of Gibeon, spake unto me in the house of the LORD, in the presence of the priests and of all the people, saying,

@@ -1,8 +1,57 @@
+---
+title: Job 29:6
+type: Verse
+kjv: "When I washed my steps with butter, and the rock poured me out rivers of oil;"
+bsb: "when my steps were bathed in cream and the rock poured out for me streams of oil!"
+hebrew: "בִּרְחֹ֣ץ הֲלִיכַ֣י בְּחֵמָ֑ה וְצ֥וּר יָצ֥וּק עִ֝מָּדִ֗י פַּלְגֵי־ שָֽׁמֶן׃"
+pericope: "[[Job.29.1 Job’s Former Blessings|Job’s Former Blessings]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 29
+book/chapter: "[[Job.29|Job 29]]"
+chronological_order: 40
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic OIL|OIL]]"
+- "[[topic PETROLEUM|PETROLEUM]]"
+- "[[topic ROCK|ROCK]]"
+strongs:
+- "[[H9003]]"
+- "[[H7364]]"
+- "[[H1978]]"
+- "[[H9020]]"
+- "[[H2529B]]"
+- "[[H9002]]"
+- "[[H6697H]]"
+- "[[H6694]]"
+- "[[H5978]]"
+- "[[H9030]]"
+- "[[H6388]]"
+- "[[H9014]]"
+- "[[H8081]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 29:6**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I washed my steps with butter, and the rock poured me out rivers of oil;
 <small><sub>**BSB:**</sub></small>
 when my steps were bathed in cream and the rock poured out for me streams of oil!
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H7364\|רְחֹ֣ץ]] [[H1978\|הֲלִיכַ֣]][[H9020\|י]] [[H9003\|בְּ]][[H2529B\|חֵמָ֑ה]] [[H9002\|וְ]][[H6697H\|צ֥וּר]] [[H6694\|יָצ֥וּק]] [[H5978\|עִ֝מָּדִ֗]][[H9030\|י]] [[H6388\|פַּלְגֵי]][[H9014\|־]] [[H8081\|שָֽׁמֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OIL|OIL]] • [[topic PETROLEUM|PETROLEUM]] • [[topic ROCK|ROCK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.5|<< Job 29:5]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.7|Job 29:7 >>]]</td></tr></table>
 

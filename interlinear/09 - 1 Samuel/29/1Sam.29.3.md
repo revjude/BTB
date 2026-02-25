@@ -1,8 +1,79 @@
+---
+title: 1 Samuel 29:3
+type: Verse
+kjv: "Then said the princes of the Philistines, What do these Hebrews here? And Achish said unto the princes of the Philistines, Is not this David, the servant of Saul the king of Israel, which hath been with me these days, or these years, and I have found no fault in him since he fell unto me unto this day?"
+bsb: "Then the commanders of the Philistines asked, “What about these Hebrews?” Achish replied, “Is this not David, the servant of King Saul of Israel? He has been with me all these days, even years, and from the day he defected until today I have found no fault in him.”"
+hebrew: "וַיֹּֽאמְרוּ֙ שָׂרֵ֣י פְלִשְׁתִּ֔ים מָ֖ה הָעִבְרִ֣ים הָאֵ֑לֶּה וַיֹּ֨אמֶר אָכִ֜ישׁ אֶל־ שָׂרֵ֣י פְלִשְׁתִּ֗ים הֲלֽוֹא־ זֶ֨ה דָוִ֜ד עֶ֣בֶד׀ שָׁא֣וּל מֶֽלֶךְ־ יִשְׂרָאֵ֗ל אֲשֶׁ֨ר הָיָ֤ה אִתִּי֙ זֶ֤ה יָמִים֙ אוֹ־ זֶ֣ה שָׁנִ֔ים וְלֹֽא־ מָצָ֤אתִי בוֹ֙ מְא֔וּמָה מִיּ֥וֹם נָפְל֖וֹ עַד־ הַיּ֥וֹם הַזֶּֽה׃ פ"
+pericope: "[[1Sam.29.1 The Philistines Reject David|The Philistines Reject David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 29
+book/chapter: "[[1Sam.29|1 Samuel 29]]"
+chronological_order: 308
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HEBREW|HEBREW]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8269]]"
+- "[[H6430G]]"
+- "[[H4100]]"
+- "[[H9009]]"
+- "[[H5680]]"
+- "[[H0428]]"
+- "[[H0397]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H2088]]"
+- "[[H1732]]"
+- "[[H5650]]"
+- "[[H9015]]"
+- "[[H7586G]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H3117G]]"
+- "[[H0176A]]"
+- "[[H8141]]"
+- "[[H9002]]"
+- "[[H4672]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H3972]]"
+- "[[H9006]]"
+- "[[H3117L]]"
+- "[[H5307H]]"
+- "[[H9043]]"
+- "[[H5704]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Samuel 29:3**<big><big>[[1Sam.29.1 The Philistines Reject David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said the princes of the Philistines, What [do] these Hebrews [here]? And Achish said unto the princes of the Philistines, [Is] not this David, the servant of Saul the king of Israel, which hath been with me these days, or these years, and I have found no fault in him since he fell [unto me] unto this day?
 <small><sub>**BSB:**</sub></small>
 Then the commanders of the Philistines asked, “What about these Hebrews?” Achish replied, “Is this not David, the servant of King Saul of Israel? He has been with me all these days, even years, and from the day he defected until today I have found no fault in him.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּֽאמְרוּ֙]] [[H8269\|שָׂרֵ֣י]] [[H6430G\|פְלִשְׁתִּ֔ים]] [[H4100\|מָ֖ה]] [[H9009\|הָ]][[H5680\|עִבְרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֑לֶּה]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0397\|אָכִ֜ישׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H8269\|שָׂרֵ֣י]] [[H6430G\|פְלִשְׁתִּ֗ים]] [[H9008\|הֲ]][[H3808\|לֽוֹא]][[H9014\|־]] [[H2088\|זֶ֨ה]] [[H1732\|דָוִ֜ד]] [[H5650\|עֶ֣בֶד]][[H9015\|׀]] [[H7586G\|שָׁא֣וּל]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H0834A\|אֲשֶׁ֨ר]] [[H1961\|הָיָ֤ה]] [[H0854\|אִתִּ]][[H9030\|י֙]] [[H2088\|זֶ֤ה]] [[H3117G\|יָמִים֙]] [[H0176A\|אוֹ]][[H9014\|־]] [[H2088\|זֶ֣ה]] [[H8141\|שָׁנִ֔ים]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H4672\|מָצָ֤אתִי]] [[H9003\|ב]][[H9033\|וֹ֙]] [[H3972\|מְא֔וּמָה]] [[H9006\|מִ]][[H3117L\|יּ֥וֹם]] [[H5307H\|נָפְל֖]][[H9043\|וֹ]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEBREW|HEBREW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.29.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.29.2|<< 1 Samuel 29:2]]</td><td align="center" style="border:none;">[[1Sam.29|1 Samuel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.29.4|1 Samuel 29:4 >>]]</td></tr></table>
 
@@ -42,7 +113,7 @@ Then the commanders of the Philistines asked, “What about these Hebrews?” Ac
 | fell he  |**<big>&#8207;[[H5307H\|נָפְל֖]]&#8207;&#8207;[[H9043\|וֹ]]&#8207; </big>**| na.fe.L<small><sup>[[HVqcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the day  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117L\|יּ֥וֹם]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.29.2|<< 1 Samuel 29:2]]</td><td align="center" style="border:none;">[[1Sam.29|1 Samuel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.29.4|1 Samuel 29:4 >>]]</td></tr></table>
 
 

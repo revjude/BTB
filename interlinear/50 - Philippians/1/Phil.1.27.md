@@ -1,10 +1,73 @@
+---
+title: Philippians 1:27
+type: Verse
+kjv: "Only let your conversation be as it becometh the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that ye stand fast in one spirit, with one mind striving together for the faith of the gospel;"
+bsb: "Nevertheless, conduct yourselves in a manner worthy of the gospel of Christ. Then, whether I come and see you or only hear about you in my absence, I will know that you stand firm in one spirit, contending together as one for the faith of the gospel,"
+greek: "μόνον ἀξίως τοῦ εὐαγγελίου τοῦ Χριστοῦ πολιτεύεσθε, ἵνα εἴτε ἐλθὼν καὶ ἰδὼν ὑμᾶς εἴτε ἀπὼν ἀκούω τὰ περὶ ὑμῶν ὅτι στήκετε ἐν ἑνὶ πνεύματι, μιᾷ ψυχῇ συναθλοῦντες τῇ πίστει τοῦ εὐαγγελίου,"
+pericope: "[[Phil.1.27 Worthy of the Gospel|Worthy of the Gospel]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 1
+book/chapter: "[[Phil.1|Philippians 1]]"
+chronological_order: 1117
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic UNITY|UNITY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3441]]"
+- "[[G0516]]"
+- "[[G3588]]"
+- "[[G2098]]"
+- "[[G5547]]"
+- "[[G4176]]"
+- "[[G2443]]"
+- "[[G1535]]"
+- "[[G2064]]"
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G4771]]"
+- "[[G0548]]"
+- "[[G0191]]"
+- "[[G4012]]"
+- "[[G3754G]]"
+- "[[G4739]]"
+- "[[G1722]]"
+- "[[G1520]]"
+- "[[G4151G]]"
+- "[[G5590G]]"
+- "[[G4866]]"
+- "[[G4102G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Philippians 1:27**<big><big>[[Phil.1.27 Worthy of the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Only let your conversation be as it becometh the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that ye stand fast in one spirit, with one mind striving together for the faith of the gospel;
 <small><sub>**BSB:**</sub></small>
 Nevertheless, conduct yourselves in a manner worthy of the gospel of Christ. Then, whether I come and see you or only hear about you in my absence, I will know that you stand firm in one spirit, contending together as one for the faith of the gospel,
-<small><sub>**Literal:**</sub></small>
-Only worthily of the gospel <the> of Christ do conduct yourselves, so that whether having come and having seen you or being absent I shall hear the [things] concerning you that you are standing firm in one spirit, with one mind striving together for the faith of the gospel,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.26|<< Philippians 1:26]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.28|Philippians 1:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3441\|μόνον]]  [[G0516\|ἀξίως]]  [[G3588\|τοῦ]]  [[G2098\|εὐαγγελίου]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ]]  [[G4176\|πολιτεύεσθε,]]  [[G2443\|ἵνα]]  [[G1535\|εἴτε]]  [[G2064\|ἐλθὼν]]  [[G2532\|καὶ]]  [[G1492H\|ἰδὼν]]  [[G4771\|ὑμᾶς]]  [[G1535\|εἴτε]]  [[G0548\|ἀπὼν]]  [[G0191\|ἀκούω]]  [[G3588\|τὰ]]  [[G4012\|περὶ]]  [[G4771\|ὑμῶν]]  [[G3754G\|ὅτι]]  [[G4739\|στήκετε]]  [[G1722\|ἐν]]  [[G1520\|ἑνὶ]]  [[G4151G\|πνεύματι,]]  [[G1520\|μιᾷ]]  [[G5590G\|ψυχῇ]]  [[G4866\|συναθλοῦντες]]  [[G3588\|τῇ]]  [[G4102G\|πίστει]]  [[G3588\|τοῦ]]  [[G2098\|εὐαγγελίου,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic COURAGE|COURAGE]] • [[topic DECISION|DECISION]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOSPEL|GOSPEL]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SPEAKING|SPEAKING]] • [[topic UNITY|UNITY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.26|<< Philippians 1:26]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.28|Philippians 1:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

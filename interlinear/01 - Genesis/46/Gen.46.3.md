@@ -1,8 +1,68 @@
+---
+title: Genesis 46:3
+type: Verse
+kjv: "And he said, I am God, the God of thy father: fear not to go down into Egypt; for I will there make of thee a great nation:"
+bsb: "“I am God,” He said, “the God of your father. Do not be afraid to go down to Egypt, for I will make you into a great nation there."
+hebrew: "וַיֹּ֕אמֶר אָנֹכִ֥י הָאֵ֖ל אֱלֹהֵ֣י אָבִ֑יךָ אַל־ תִּירָא֙ מֵרְדָ֣ה מִצְרַ֔יְמָה כִּֽי־ לְג֥וֹי גָּד֖וֹל אֲשִֽׂימְךָ֥ שָֽׁם׃"
+pericope: "[[Gen.46.1 Jacob’s Journey to Egypt|Jacob’s Journey to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 46
+book/chapter: "[[Gen.46|Genesis 46]]"
+chronological_order: 88
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JACOB|JACOB]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0595]]"
+- "[[H9009]]"
+- "[[H0410G]]"
+- "[[H0430G]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H9006]]"
+- "[[H3381]]"
+- "[[H4714G]]"
+- "[[H9011]]"
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H1471A]]"
+- "[[H1419A]]"
+- "[[H7760A]]"
+- "[[H9031]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 46:3**<big><big>[[Gen.46.1 Jacob’s Journey to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, I [am] God, the God of thy father: fear not to go down into Egypt; for I will there make of thee a great nation:
 <small><sub>**BSB:**</sub></small>
 “I am God,” He said, “the God of your father. Do not be afraid to go down to Egypt, for I will make you into a great nation there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H0595\|אָנֹכִ֥י]] [[H9009\|הָ]][[H0410G\|אֵ֖ל]] [[H0430G\|אֱלֹהֵ֣י]] [[H0001G\|אָבִ֑י]][[H9021\|ךָ]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָא֙]] [[H9006\|מֵ]][[H3381\|רְדָ֣ה]] [[H4714G\|מִצְרַ֔יְמָ]][[H9011\|ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9005\|לְ]][[H1471A\|ג֥וֹי]] [[H1419A\|גָּד֖וֹל]] [[H7760A\|אֲשִֽׂימְ]][[H9031\|ךָ֥]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMUNION|COMMUNION]] • [[topic GOD|GOD]] • [[topic JACOB|JACOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.2|<< Genesis 46:2]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.4|Genesis 46:4 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Isaac’s Covenant with Abimelech
+type: Pericope
 pericope: "[[Gen.26.26 Isaac’s Covenant with Abimelech|Isaac’s Covenant with Abimelech]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 26
 book/chapter: "[[Gen.26|Genesis 26]]"
-genre:
+chronological_order: 68
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 8
 verses:
 - "[[Gen.26.26]]"
 - "[[Gen.26.27]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Gen.26.33]]"
 ---
 
-[[Gen.26|Genesis 26:26 - Genesis 26:33]]
+<small>[[Gen.26|Genesis 26:26-33]]</small>
 *Isaac’s Covenant with Abimelech*
 
 [[Gen.26.26|26]] Then Abimelech went to him from Gerar, and Ahuzzath one of his friends, and Phichol the chief captain of his army.

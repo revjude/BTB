@@ -1,9 +1,42 @@
+---
+title: LXX Job 29:1
+type: Verse
+lxx: "But still Job proceeding spoke the retort."
+greek: "έτι δε προσθείς Ιωβ είπε τω προοιμίω"
+original_language: Greek
+testament: Old
+book: Job
+chapter: 29
+book/chapter: "[[Job.29|Job 29]]"
+chronological_order: 40
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[G2089]]"
+- "[[G1161]]"
+- "[[G4369]]"
+- "[[G2492]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G8904]]"
+---
+
 **LXX Job 29:1** 
 
 ***The Righteous State***
 
 <small><sub>**LXX:**</sub></small>
 But still Job proceeding spoke the retort. 
+<small><sub>**Greek:**</sub></small>
+[[G2089\|έτι]] [[G1161\|δε]] [[G4369\|προσθείς]] [[G2492\|Ιωβ]] [[G2036\|είπε]] [[G3588\|τω]] [[G8904\|προοιμίω]]
 <small><sub>**MT:**</sub></small>
 [[Job.29.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.28|<< Job 28:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.29.2|Job 29:2 >>]]</td></tr></table>
 
@@ -14,6 +47,6 @@ But still Job proceeding spoke the retort.
 | spoke | **<big>[[G2036\|είπε]]</big>** |
 | the | **<big>[[G3588\|τω]]</big>** |
 | retort. | **<big>[[G8904\|προοιμίω]]</big>** |
-[[Job.29.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.28|<< Job 28:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.29.2|Job 29:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.28|<< Job 28:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.29.2|Job 29:2 >>]]</td></tr></table>
 
 

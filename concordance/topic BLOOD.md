@@ -3,17 +3,17 @@
 
 → Is the life [[Gen.9.4|Ge 9:4]]; [[Lev.17.11|Le 17:11]],[[Lev.17.14|14]]; [[Lev.19.16|19:16]]; [[Deut.12.23|De 12:23]]; [[Matt.27.4|Mt  27:4]],[[Matt.27.24|24]]
 
-→ Forbidden to be used as food [[Gen.9.4|Ge 9:4]]; [[Lev.3.17|Le 3:17]]; [[Lev.7.26|7:26]],[[Lev.7.27|27]];  [[Lev.17.10|17:10]]-[[Lev.17.14|14]]; [[Lev.19.26|19:26]]; [[Deut.12.16|De 12:16]],[[Deut.12.23|23]]; [[Deut.15.23|15:23]]; [[Ezek.33.25|Eze 33:25]]; [[Acts.15.20|Ac 15:20]],[[Acts.15.29|29]]; [[Acts.21.25|21:25]]
+→ Forbidden to be used as food [[Gen.9.4|Ge 9:4]]; [[Lev.3.17|Le 3:17]]; [[Lev.7.26|7:26]],[[Lev.7.27|27]];  [[Lev.17.10|17:10-14]]; [[Lev.19.26|19:26]]; [[Deut.12.16|De 12:16]],[[Deut.12.23|23]]; [[Deut.15.23|15:23]]; [[Ezek.33.25|Eze 33:25]]; [[Acts.15.20|Ac 15:20]],[[Acts.15.29|29]]; [[Acts.21.25|21:25]]
 
-→ Plague of [[Exod.7.17|Ex 7:17]]-[[Exod.7.25|25]]; [[Ps.78.44|Ps 78:44]]; [[Ps.105.29|105:29]]
+→ Plague of [[Exod.7.17|Ex 7:17-25]]; [[Ps.78.44|Ps 78:44]]; [[Ps.105.29|105:29]]
 
 → SACRIFICIAL
 
 - Without shedding of, no remission [[Heb.9.22|Heb 9:22]]
 
-- Sprinkled on altar and people [[Exod.24.6|Ex 24:6]]-[[Exod.24.8|8]]; [[Ezek.43.18|Eze 43:18]],[[Ezek.43.20|20]]
+- Sprinkled on altar and people [[Exod.24.6|Ex 24:6-8]]; [[Ezek.43.18|Eze 43:18]],[[Ezek.43.20|20]]
 
-- Sprinkled on door posts [[Exod.12.7|Ex 12:7]]-[[Exod.12.23|23]]; [[Heb.11.28|Heb 11:28]]
+- Sprinkled on door posts [[Exod.12.7|Ex 12:7-23]]; [[Heb.11.28|Heb 11:28]]
 
 - OF SIN OFFERING
 
@@ -73,9 +73,9 @@ Sprinkled on the mercy seat [[Lev.16.14|Le 16:14]],[[Lev.16.15|15]],[[Lev.16.18|
 
 - Of judgments [[Ezek.16.38|Eze 16:38]]; [[Rev.16.6|Re 16:6]]
 
-→ OF SACRIFICES, TYPICAL OF THE ATONING BLOOD OF CHRIST  [[Heb.9.6|Heb 9:6]]-[[Heb.9.28|28]]
+→ OF SACRIFICES, TYPICAL OF THE ATONING BLOOD OF CHRIST  [[Heb.9.6|Heb 9:6-28]]
 
-→ OF CHRIST [[Matt.26.28|Mt 26:28]]; [[Mark.14.24|Mr 14:24]]; [[Luke.22.20|Lu 22:20]]; [[John.6.53|Joh 6:53]]-[[John.6.56|56]];  [[John.19.34|19:34]]; [[Acts.20.28|Ac 20:28]]; [[Rom.3.24|Ro 3:24]],[[Rom.3.25|25]]; [[Rom.5.9|5:9]]; [[1Cor.10.16|1Co 10:16]]; [[1Cor.11.25|11:25]]; [[Eph.1.7|Eph 1:7]]; [[Eph.2.13|2:13]],[[Eph.2.16|16]]; [[Col.1.14|Col 1:14]],[[Col.1.20|20]];  [[Heb.9.12|Heb 9:12]]-[[Heb.9.14|14]]; [[Heb.10.19|10:19]],[[Heb.10.20|20]],[[Heb.10.29|29]]; [[Heb.12.24|12:24]]; [[Heb.13.12|13:12]],[[Heb.13.20|20]]; [[1Pet.1.2|1Pe 1:2]],[[1Pet.1.18|18]],[[1Pet.1.19|19]]; [[1John.1.7|1Jo  1:7]]; [[1John.5.6|5:6]],[[1John.5.8|8]]; [[Rev.1.5|Re 1:5]],[[Rev.1.6|6]];  [[Rev.5.9|5:9]]; [[Rev.7.14|7:14]]; [[Rev.12.11|12:11]]
+→ OF CHRIST [[Matt.26.28|Mt 26:28]]; [[Mark.14.24|Mr 14:24]]; [[Luke.22.20|Lu 22:20]]; [[John.6.53|Joh 6:53-56]];  [[John.19.34|19:34]]; [[Acts.20.28|Ac 20:28]]; [[Rom.3.24|Ro 3:24]],[[Rom.3.25|25]]; [[Rom.5.9|5:9]]; [[1Cor.10.16|1Co 10:16]]; [[1Cor.11.25|11:25]]; [[Eph.1.7|Eph 1:7]]; [[Eph.2.13|2:13]],[[Eph.2.16|16]]; [[Col.1.14|Col 1:14]],[[Col.1.20|20]];  [[Heb.9.12|Heb 9:12-14]]; [[Heb.10.19|10:19]],[[Heb.10.20|20]],[[Heb.10.29|29]]; [[Heb.12.24|12:24]]; [[Heb.13.12|13:12]],[[Heb.13.20|20]]; [[1Pet.1.2|1Pe 1:2]],[[1Pet.1.18|18]],[[1Pet.1.19|19]]; [[1John.1.7|1Jo  1:7]]; [[1John.5.6|5:6]],[[1John.5.8|8]]; [[Rev.1.5|Re 1:5]],[[Rev.1.6|6]];  [[Rev.5.9|5:9]]; [[Rev.7.14|7:14]]; [[Rev.12.11|12:11]]
 
 - See [[topic ATONEMENT|ATONEMENT]]
 

@@ -1,8 +1,71 @@
+---
+title: Nehemiah 9:10
+type: Verse
+kjv: "And shewedst signs and wonders upon Pharaoh, and on all his servants, and on all the people of his land: for thou knewest that they dealt proudly against them. So didst thou get thee a name, as it is this day."
+bsb: "You performed signs and wonders against Pharaoh, all his officials, and all the people of his land, for You knew they had acted with arrogance against our fathers. You made a name for Yourself that endures to this day."
+hebrew: "וַ֠תִּתֵּן אֹתֹ֨ת וּמֹֽפְתִ֜ים בְּפַרְעֹ֤ה וּבְכָל־ עֲבָדָיו֙ וּבְכָל־ עַ֣ם אַרְצ֔וֹ כִּ֣י יָדַ֔עְתָּ כִּ֥י הֵזִ֖ידוּ עֲלֵיהֶ֑ם וַתַּֽעַשׂ־ לְךָ֥ שֵׁ֖ם כְּהַיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[Neh.9.1 The People Confess Their Sins|The People Confess Their Sins]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 9
+book/chapter: "[[Neh.9|Nehemiah 9]]"
+chronological_order: 921
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic RED SEA|RED SEA]]"
+- "[[topic SIN|SIN]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414I]]"
+- "[[H0226G]]"
+- "[[H9002]]"
+- "[[H4159]]"
+- "[[H9003]]"
+- "[[H6547J]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H5971A]]"
+- "[[H0776G]]"
+- "[[H3588A]]"
+- "[[H3045]]"
+- "[[H2102]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H8034]]"
+- "[[H9004]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 9:10**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And shewedst signs and wonders upon Pharaoh, and on all his servants, and on all the people of his land: for thou knewest that they dealt proudly against them. So didst thou get thee a name, as [it is] this day.
 <small><sub>**BSB:**</sub></small>
 You performed signs and wonders against Pharaoh, all his officials, and all the people of his land, for You knew they had acted with arrogance against our fathers. You made a name for Yourself that endures to this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֠]][[H5414I\|תִּתֵּן]] [[H0226G\|אֹתֹ֨ת]] [[H9002\|וּ]][[H4159\|מֹֽפְתִ֜ים]] [[H9003\|בְּ]][[H6547J\|פַרְעֹ֤ה]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H5650\|עֲבָדָי]][[H9023\|ו֙]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H5971A\|עַ֣ם]] [[H0776G\|אַרְצ֔]][[H9023\|וֹ]] [[H3588A\|כִּ֣י]] [[H3045\|יָדַ֔עְתָּ]] [[H3588A\|כִּ֥י]] [[H2102\|הֵזִ֖ידוּ]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֑ם]] [[H9001\|וַ]][[H6213H\|תַּֽעַשׂ]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֥]] [[H8034\|שֵׁ֖ם]] [[H9004\|כְּ]][[H9009\|הַ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic RED SEA|RED SEA]] • [[topic SIN|SIN]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.9|<< Nehemiah 9:9]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.11|Nehemiah 9:11 >>]]</td></tr></table>
 

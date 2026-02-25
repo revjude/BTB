@@ -1,8 +1,62 @@
+---
+title: Isaiah 44:7
+type: Verse
+kjv: "And who, as I, shall call, and shall declare it, and set it in order for me, since I appointed the ancient people? and the things that are coming, and shall come, let them shew unto them."
+bsb: "Who then is like Me? Let him say so! Let him declare his case before Me, since I established an ancient people. Let him foretell the things to come, and what is to take place."
+hebrew: "וּמִֽי־ כָמ֣וֹנִי יִקְרָ֗א וְיַגִּידֶ֤הָ וְיַעְרְכֶ֙הָ֙ לִ֔י מִשּׂוּמִ֖י עַם־ עוֹלָ֑ם וְאֹתִיּ֛וֹת וַאֲשֶׁ֥ר תָּבֹ֖אנָה יַגִּ֥ידוּ לָֽמוֹ׃"
+pericope: "[[Isa.44.1 The LORD Has Chosen Israel|The LORD Has Chosen Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 44
+book/chapter: "[[Isa.44|Isaiah 44]]"
+chronological_order: 683
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H3644G]]"
+- "[[H9030]]"
+- "[[H7121I]]"
+- "[[H5046]]"
+- "[[H9034]]"
+- "[[H6186A]]"
+- "[[H9005]]"
+- "[[H9006]]"
+- "[[H7760L]]"
+- "[[H9040]]"
+- "[[H5971A]]"
+- "[[H5769J]]"
+- "[[H0857]]"
+- "[[H0834A]]"
+- "[[H0935G]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 44:7**<big><big>[[Isa.44.1 The LORD Has Chosen Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And who, as I, shall call, and shall declare it, and set it in order for me, since I appointed the ancient people? and the things that are coming, and shall come, let them shew unto them.
 <small><sub>**BSB:**</sub></small>
 Who then is like Me? Let him say so! Let him declare his case before Me, since I established an ancient people. Let him foretell the things to come, and what is to take place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4310\|מִֽי]][[H9014\|־]] [[H3644G\|כָמ֣וֹ]][[H9030\|נִי]] [[H7121I\|יִקְרָ֗א]] [[H9002\|וְ]][[H5046\|יַגִּידֶ֤]][[H9034\|הָ]] [[H9002\|וְ]][[H6186A\|יַעְרְכֶ֙]][[H9034\|הָ֙]] [[H9005\|לִ֔]][[H9030\|י]] [[H9006\|מִ]][[H7760L\|שּׂוּמִ֖]][[H9040\|י]] [[H5971A\|עַם]][[H9014\|־]] [[H5769J\|עוֹלָ֑ם]] [[H9002\|וְ]][[H0857\|אֹתִיּ֛וֹת]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֥ר]] [[H0935G\|תָּבֹ֖אנָה]] [[H5046\|יַגִּ֥ידוּ]] [[H9005\|לָֽ]][[H9038\|מוֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PREDESTINATION|PREDESTINATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.6|<< Isaiah 44:6]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.8|Isaiah 44:8 >>]]</td></tr></table>
 

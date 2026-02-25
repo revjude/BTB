@@ -1,8 +1,71 @@
+---
+title: Jeremiah 34:10
+type: Verse
+kjv: "Now when all the princes, and all the people, which had entered into the covenant, heard that every one should let his manservant, and every one his maidservant, go free, that none should serve themselves of them any more, then they obeyed, and let them go."
+bsb: "So all the officials and all the people who entered into this covenant agreed that they would free their menservants and maidservants and no longer hold them in bondage. They obeyed and released them,"
+hebrew: "וַיִּשְׁמְעוּ֩ כָל־ הַשָּׂרִ֨ים וְכָל־ הָעָ֜ם אֲשֶׁר־ בָּ֣אוּ בַבְּרִ֗ית לְ֠שַׁלַּח אִ֣ישׁ אֶת־ עַבְדּ֞וֹ וְאִ֤ישׁ אֶת־ שִׁפְחָתוֹ֙ חָפְשִׁ֔ים לְבִלְתִּ֥י עֲבָד־ בָּ֖ם ע֑וֹד וַֽיִּשְׁמְע֖וּ וַיְשַׁלֵּֽחוּ׃"
+pericope: "[[Jer.34.8 Freedom for Hebrew Slaves|Freedom for Hebrew Slaves]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 34
+book/chapter: "[[Jer.34|Jeremiah 34]]"
+chronological_order: 757
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CONSTITUTION|CONSTITUTION]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic EMANCIPATION|EMANCIPATION]]"
+- "[[topic KING|KING]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085H]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8269]]"
+- "[[H9002]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H1285]]"
+- "[[H9005]]"
+- "[[H7971H]]"
+- "[[H0376I]]"
+- "[[H0853]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H8198]]"
+- "[[H2670]]"
+- "[[H1115]]"
+- "[[H5647G]]"
+- "[[H9038]]"
+- "[[H5750]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 34:10**<big><big>[[Jer.34.8 Freedom for Hebrew Slaves|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now when all the princes, and all the people, which had entered into the covenant, heard that every one should let his manservant, and every one his maidservant, go free, that none should serve themselves of them any more, then they obeyed, and let [them] go.
 <small><sub>**BSB:**</sub></small>
 So all the officials and all the people who entered into this covenant agreed that they would free their menservants and maidservants and no longer hold them in bondage. They obeyed and released them,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085H\|יִּשְׁמְעוּ֩]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H8269\|שָּׂרִ֨ים]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֜ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֣אוּ]] [[H9003\|בַ]][[H1285\|בְּרִ֗ית]] [[H9005\|לְ֠]][[H7971H\|שַׁלַּח]] [[H0376I\|אִ֣ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H5650\|עַבְדּ֞]][[H9023\|וֹ]] [[H9002\|וְ]][[H0376I\|אִ֤ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H8198\|שִׁפְחָת]][[H9023\|וֹ֙]] [[H2670\|חָפְשִׁ֔ים]] [[H9005\|לְ]][[H1115\|בִלְתִּ֥י]] [[H5647G\|עֲבָד]][[H9014\|־]] [[H9003\|בָּ֖]][[H9038\|ם]] [[H5750\|ע֑וֹד]] [[H9001\|וַֽ]][[H8085H\|יִּשְׁמְע֖וּ]] [[H9001\|וַ]][[H7971H\|יְשַׁלֵּֽחוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSTITUTION|CONSTITUTION]] • [[topic COVENANT|COVENANT]] • [[topic EMANCIPATION|EMANCIPATION]] • [[topic KING|KING]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.34.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.9|<< Jeremiah 34:9]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.11|Jeremiah 34:11 >>]]</td></tr></table>
 

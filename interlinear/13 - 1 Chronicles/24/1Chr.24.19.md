@@ -1,8 +1,65 @@
+---
+title: 1 Chronicles 24:19
+type: Verse
+kjv: "These were the orderings of them in their service to come into the house of the LORD, according to their manner, under Aaron their father, as the LORD God of Israel had commanded him."
+bsb: "This was their appointed order for service when they entered the house of the LORD, according to the regulations prescribed for them by their forefather Aaron, as the LORD, the God of Israel, had commanded him."
+hebrew: "אֵ֣לֶּה פְקֻדָּתָ֞ם לַעֲבֹדָתָ֗ם לָב֤וֹא לְבֵית־ יְהוָה֙ כְּמִשְׁפָּטָ֔ם בְּיַ֖ד אַהֲרֹ֣ן אֲבִיהֶ֑ם כַּאֲשֶׁ֣ר צִוָּ֔הוּ יְהוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃ פ"
+pericope: "[[1Chr.24.1 Twenty-Four Divisions of Priests|Twenty-Four Divisions of Priests]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 24
+book/chapter: "[[1Chr.24|1 Chronicles 24]]"
+chronological_order: 435
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]]"
+- "[[topic ITHAMAR|ITHAMAR]]"
+- "[[topic LOT, THE|LOT, THE]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H0428]]"
+- "[[H6486]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H5656H]]"
+- "[[H0935G]]"
+- "[[H1004Q]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H4941I]]"
+- "[[H9003]]"
+- "[[H3027J]]"
+- "[[H0175]]"
+- "[[H0001G]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H9033]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Chronicles 24:19**<big><big>[[1Chr.24.1 Twenty-Four Divisions of Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [were] the orderings of them in their service to come into the house of the LORD, according to their manner, under Aaron their father, as the LORD God of Israel had commanded him.
 <small><sub>**BSB:**</sub></small>
 This was their appointed order for service when they entered the house of the LORD, according to the regulations prescribed for them by their forefather Aaron, as the LORD, the God of Israel, had commanded him.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֣לֶּה]] [[H6486\|פְקֻדָּתָ֞]][[H9028\|ם]] [[H9005\|לַ]][[H5656H\|עֲבֹדָתָ֗]][[H9028\|ם]] [[H9005\|לָ]][[H0935G\|ב֤וֹא]] [[H9005\|לְ]][[H1004Q\|בֵית]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H9004\|כְּ]][[H4941I\|מִשְׁפָּטָ֔]][[H9028\|ם]] [[H9003\|בְּ]][[H3027J\|יַ֖ד]] [[H0175\|אַהֲרֹ֣ן]] [[H0001G\|אֲבִי]][[H9028\|הֶ֑ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H6680\|צִוָּ֔]][[H9033\|הוּ]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]] • [[topic ITHAMAR|ITHAMAR]] • [[topic LOT, THE|LOT, THE]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.24.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.24.18|<< 1 Chronicles 24:18]]</td><td align="center" style="border:none;">[[1Chr.24|1 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.20|1 Chronicles 24:20 >>]]</td></tr></table>
 
@@ -22,7 +79,7 @@ This was their appointed order for service when they entered the house of the LO
 | he had commanded him  |**<big>&#8207;[[H6680\|צִוָּ֔]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| tzi.Va.<small><sup>[[HVpp3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] God of  |**<big>&#8207;[[H0430G\|אֱלֹהֵ֥י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.24.18|<< 1 Chronicles 24:18]]</td><td align="center" style="border:none;">[[1Chr.24|1 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.20|1 Chronicles 24:20 >>]]</td></tr></table>
 
 

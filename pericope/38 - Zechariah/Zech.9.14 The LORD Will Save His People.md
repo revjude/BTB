@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Will Save His People
+type: Pericope
 pericope: "[[Zech.9.14 The LORD Will Save His People|The LORD Will Save His People]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Zechariah
 chapter: 9
 book/chapter: "[[Zech.9|Zechariah 9]]"
-genre:
+chronological_order: 865
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - visionary
 - apocalyptic
 - post exilic
+verse_count: 4
 verses:
 - "[[Zech.9.14]]"
 - "[[Zech.9.15]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Zech.9.17]]"
 ---
 
-[[Zech.9|Zechariah 9:14 - Zechariah 9:17]]
+<small>[[Zech.9|Zechariah 9:14-17]]</small>
 *The LORD Will Save His People*
 
 [[Zech.9.14|14]] And the LORD shall be seen over them, and his arrow shall go forth as the lightning: and the Lord GOD shall blow the trumpet, and shall go with whirlwinds of the south.

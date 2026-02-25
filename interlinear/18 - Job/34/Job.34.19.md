@@ -1,8 +1,65 @@
+---
+title: Job 34:19
+type: Verse
+kjv: "How much less to him that accepteth not the persons of princes, nor regardeth the rich more than the poor? for they all are the work of his hands."
+bsb: "who is not partial to princes and does not favor rich over poor? For they are all the work of His hands."
+hebrew: "אֲשֶׁ֤ר לֹֽא־ נָשָׂ֨א׀ פְּנֵ֥י שָׂרִ֗ים וְלֹ֣א נִכַּר־ שׁ֭וֹעַ לִפְנֵי־ דָ֑ל כִּֽי־ מַעֲשֵׂ֖ה יָדָ֣יו כֻּלָּֽם׃"
+pericope: "[[Job.34.1 Elihu Confirms God’s Justice|Elihu Confirms God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 34
+book/chapter: "[[Job.34|Job 34]]"
+chronological_order: 45
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RESPECT OF PERSONS|RESPECT OF PERSONS]]"
+strongs:
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5375Q]]"
+- "[[H9015]]"
+- "[[H6440N]]"
+- "[[H8269]]"
+- "[[H9002]]"
+- "[[H5234A]]"
+- "[[H7771A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H1800]]"
+- "[[H3588A]]"
+- "[[H4639G]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 34:19**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [How much less to him] that accepteth not the persons of princes, nor regardeth the rich more than the poor? for they all [are] the work of his hands.
 <small><sub>**BSB:**</sub></small>
 who is not partial to princes and does not favor rich over poor? For they are all the work of His hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֤ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5375Q\|נָשָׂ֨א]][[H9015\|׀]] [[H6440N\|פְּנֵ֥י]] [[H8269\|שָׂרִ֗ים]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H5234A\|נִכַּר]][[H9014\|־]] [[H7771A\|שׁ֭וֹעַ]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9014\|־]] [[H1800\|דָ֑ל]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4639G\|מַעֲשֵׂ֖ה]] [[H3027G\|יָדָ֣י]][[H9023\|ו]] [[H3605\|כֻּלָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic GOD|GOD]] • [[topic INFIDELITY|INFIDELITY]] • [[topic POOR|POOR]] • [[topic RESPECT OF PERSONS|RESPECT OF PERSONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.18|<< Job 34:18]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.20|Job 34:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

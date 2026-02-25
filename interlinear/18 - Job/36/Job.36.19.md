@@ -1,8 +1,56 @@
+---
+title: Job 36:19
+type: Verse
+kjv: "Will he esteem thy riches? no, not gold, nor all the forces of strength."
+bsb: "Can your wealth or all your mighty effort keep you from distress?"
+hebrew: "הֲיַעֲרֹ֣ךְ שׁ֭וּעֲךָ לֹ֣א בְצָ֑ר וְ֝כֹ֗ל מַאֲמַצֵּי־ כֹֽחַ׃"
+pericope: "[[Job.36.1 Elihu Describes God’s Power|Elihu Describes God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 36
+book/chapter: "[[Job.36|Job 36]]"
+chronological_order: 47
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[H9008]]"
+- "[[H6186A]]"
+- "[[H7769]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H6862B]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H3981]]"
+- "[[H9014]]"
+- "[[H3581B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 36:19**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Will he esteem thy riches? [no], not gold, nor all the forces of strength.
 <small><sub>**BSB:**</sub></small>
 Can your wealth or all your mighty effort keep you from distress?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H6186A\|יַעֲרֹ֣ךְ]] [[H7769\|שׁ֭וּעֲ]][[H9021\|ךָ]] [[H3808\|לֹ֣א]] [[H9003\|בְ]][[H6862B\|צָ֑ר]] [[H9002\|וְ֝]][[H3605\|כֹ֗ל]] [[H3981\|מַאֲמַצֵּי]][[H9014\|־]] [[H3581B\|כֹֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.18|<< Job 36:18]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.20|Job 36:20 >>]]</td></tr></table>
 

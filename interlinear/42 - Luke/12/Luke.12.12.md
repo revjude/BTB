@@ -1,10 +1,59 @@
+---
+title: Luke 12:12
+type: Verse
+kjv: "For the Holy Ghost shall teach you in the same hour what ye ought to say."
+bsb: "For at that time the Holy Spirit will teach you what you should say.”"
+jesus_said: "For the Holy Ghost shall teach you in the same hour what ye ought to say."
+greek: "τὸ γὰρ ἅγιον πνεῦμα διδάξει ὑμᾶς ἐν αὐτῇ τῇ ὥρᾳ ἃ δεῖ εἰπεῖν.¶"
+pericope: "[[Luke.12.8 Confessing Christ|Confessing Christ]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic INSPIRATION|INSPIRATION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G0040G]]"
+- "[[G4151G]]"
+- "[[G1321]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G5610]]"
+- "[[G3739]]"
+- "[[G1163]]"
+- "[[G2036]]"
+texts:
+- NKO
+---
+
 **Luke 12:12**<big><big>[[Luke.12.8 Confessing Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the Holy Ghost shall teach you in the same hour what ye ought to say.
 <small><sub>**BSB:**</sub></small>
 For at that time the Holy Spirit will teach you what you should say.”
-<small><sub>**Literal:**</sub></small>
-the for Holy Spirit will teach you in same the hour what it behooves [you] to say.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.11|<< Luke 12:11]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.13|Luke 12:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὸ]]  [[G1063\|γὰρ]]  [[G0040G\|ἅγιον]]  [[G4151G\|πνεῦμα]]  [[G1321\|διδάξει]]  [[G4771\|ὑμᾶς]]  [[G1722\|ἐν]]  [[G0846\|αὐτῇ]]  [[G3588\|τῇ]]  [[G5610\|ὥρᾳ]]  [[G3739\|ἃ]]  [[G1163\|δεῖ]]  [[G2036\|εἰπεῖν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic INSPIRATION|INSPIRATION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.11|<< Luke 12:11]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.13|Luke 12:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

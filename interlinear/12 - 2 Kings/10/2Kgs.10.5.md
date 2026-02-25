@@ -1,8 +1,75 @@
+---
+title: 2 Kings 10:5
+type: Verse
+kjv: "And he that was over the house, and he that was over the city, the elders also, and the bringers up of the children, sent to Jehu, saying, We are thy servants, and will do all that thou shalt bid us; we will not make any king: do thou that which is good in thine eyes."
+bsb: "So the palace administrator, the overseer of the city, the elders, and the guardians sent a message to Jehu: “We are your servants, and we will do whatever you say. We will not make anyone king. Do whatever is good in your sight.”"
+hebrew: "וַיִּשְׁלַ֣ח אֲשֶׁר־ עַל־ הַבַּ֣יִת וַאֲשֶׁ֪ר עַל־ הָעִ֟יר וְהַזְּקֵנִים֩ וְהָאֹמְנִ֨ים אֶל־ יֵה֤וּא׀ לֵאמֹר֙ עֲבָדֶ֣יךָ אֲנַ֔חְנוּ וְכֹ֛ל אֲשֶׁר־ תֹּאמַ֥ר אֵלֵ֖ינוּ נַעֲשֶׂ֑ה לֹֽא־ נַמְלִ֣יךְ אִ֔ישׁ הַטּ֥וֹב בְּעֵינֶ֖יךָ עֲשֵֽׂה׃"
+pericope: "[[2Kgs.10.1 Ahab’s Seventy Sons Killed|Ahab’s Seventy Sons Killed]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 10
+book/chapter: "[[2Kgs.10|2 Kings 10]]"
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic MASSACRE|MASSACRE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H9002]]"
+- "[[H5892B]]"
+- "[[H2205G]]"
+- "[[H0539]]"
+- "[[H0413]]"
+- "[[H3058H]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H0587]]"
+- "[[H3605]]"
+- "[[H9035]]"
+- "[[H6213A]]"
+- "[[H3808]]"
+- "[[H4427A]]"
+- "[[H0376I]]"
+- "[[H2896A]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 10:5**<big><big>[[2Kgs.10.1 Ahab’s Seventy Sons Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he that [was] over the house, and he that [was] over the city, the elders also, and the bringers up [of the children], sent to Jehu, saying, We [are] thy servants, and will do all that thou shalt bid us; we will not make any king: do thou [that which is] good in thine eyes.
 <small><sub>**BSB:**</sub></small>
 So the palace administrator, the overseer of the city, the elders, and the guardians sent a message to Jehu: “We are your servants, and we will do whatever you say. We will not make anyone king. Do whatever is good in your sight.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֣ח]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּ֣יִת]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֪ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֟יר]] [[H9002\|וְ]][[H9009\|הַ]][[H2205G\|זְּקֵנִים֩]] [[H9002\|וְ]][[H9009\|הָ]][[H0539\|אֹמְנִ֨ים]] [[H0413\|אֶל]][[H9014\|־]] [[H3058H\|יֵה֤וּא]][[H9015\|׀]] [[H9005\|לֵ]][[H0559\|אמֹר֙]] [[H5650\|עֲבָדֶ֣י]][[H9021\|ךָ]] [[H0587\|אֲנַ֔חְנוּ]] [[H9002\|וְ]][[H3605\|כֹ֛ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0559\|תֹּאמַ֥ר]] [[H0413\|אֵלֵ֖י]][[H9035\|נוּ]] [[H6213A\|נַעֲשֶׂ֑ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H4427A\|נַמְלִ֣יךְ]] [[H0376I\|אִ֔ישׁ]] [[H9009\|הַ]][[H2896A\|טּ֥וֹב]] [[H9003\|בְּ]][[H5869I\|עֵינֶ֖י]][[H9021\|ךָ]] [[H6213A\|עֲשֵֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic CHILDREN|CHILDREN]] • [[topic ENTHUSIASM|ENTHUSIASM]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JEHU|JEHU]] • [[topic MASSACRE|MASSACRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.4|<< 2 Kings 10:4]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.6|2 Kings 10:6 >>]]</td></tr></table>
 

@@ -1,10 +1,57 @@
+---
+title: Matthew 9:25
+type: Verse
+kjv: "But when the people were put forth, he went in, and took her by the hand, and the maid arose."
+bsb: "After the crowd had been put outside, Jesus went in and took the girl by the hand, and she got up."
+greek: "ὅτε δὲ ἐξεβλήθη ὁ ὄχλος, εἰσελθὼν ἐκράτησεν τῆς χειρὸς αὐτῆς, καὶ ἠγέρθη τὸ κοράσιον."
+pericope: "[[Matt.9.18 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 9
+book/chapter: "[[Matt.9|Matthew 9]]"
+chronological_order: 951
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JAIRUS|JAIRUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G3753]]"
+- "[[G1161]]"
+- "[[G1544]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G1525]]"
+- "[[G2902]]"
+- "[[G5495]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G1453]]"
+- "[[G2877]]"
+texts:
+- NKO
+---
+
 **Matthew 9:25**<big><big>[[Matt.9.18 The Healing Touch of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when the people were put forth, he went in, and took her by the hand, and the maid arose.
 <small><sub>**BSB:**</sub></small>
 After the crowd had been put outside, Jesus went in and took the girl by the hand, and she got up.
-<small><sub>**Literal:**</sub></small>
-When now was put outside the crowd, having entered He took hold of the hand of her, and arose the girl.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.24|<< Matthew 9:24]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.26|Matthew 9:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3753\|ὅτε]]  [[G1161\|δὲ]]  [[G1544\|ἐξεβλήθη]]  [[G3588\|ὁ]]  [[G3793\|ὄχλος,]]  [[G1525\|εἰσελθὼν]]  [[G2902\|ἐκράτησεν]]  [[G3588\|τῆς]]  [[G5495\|χειρὸς]]  [[G0846\|αὐτῆς,]]  [[G2532\|καὶ]]  [[G1453\|ἠγέρθη]]  [[G3588\|τὸ]]  [[G2877\|κοράσιον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic CHILDREN|CHILDREN]] • [[topic FAITH|FAITH]] • [[topic JAIRUS|JAIRUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.24|<< Matthew 9:24]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.26|Matthew 9:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

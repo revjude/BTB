@@ -1,10 +1,59 @@
+---
+title: 1 Corinthians 15:12
+type: Verse
+kjv: "Now if Christ be preached that he rose from the dead, how say some among you that there is no resurrection of the dead?"
+bsb: "But if it is preached that Christ has been raised from the dead, how can some of you say that there is no resurrection of the dead?"
+greek: "Εἰ δὲ Χριστὸς κηρύσσεται ὅτι ἐκ νεκρῶν ἐγήγερται, πῶς λέγουσιν ἐν ὑμῖν τινες ὅτι ἀνάστασις νεκρῶν οὐκ ἔστιν;"
+pericope: "[[1Cor.15.12 The Resurrection of the Dead|The Resurrection of the Dead]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 15
+book/chapter: "[[1Cor.15|1 Corinthians 15]]"
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CORINTH|CORINTH]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G5547]]"
+- "[[G2784]]"
+- "[[G3754G]]"
+- "[[G1537]]"
+- "[[G3498]]"
+- "[[G1453]]"
+- "[[G4459]]"
+- "[[G3004G]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G5100]]"
+- "[[G0386]]"
+- "[[G3756]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 15:12**<big><big>[[1Cor.15.12 The Resurrection of the Dead|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now if Christ be preached that he rose from the dead, how say some among you that there is no resurrection of the dead?
 <small><sub>**BSB:**</sub></small>
 But if it is preached that Christ has been raised from the dead, how can some of you say that there is no resurrection of the dead?
-<small><sub>**Literal:**</sub></small>
-If now Christ is preached that out from [the] dead He has been raised, how say among you some that a resurrection of [the] dead not there is?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.11|<< 1 Corinthians 15:11]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.13|1 Corinthians 15:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|Εἰ]]  [[G1161\|δὲ]]  [[G5547\|Χριστὸς]]  [[G2784\|κηρύσσεται]]  [[G3754G\|ὅτι]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν]]  [[G1453\|ἐγήγερται,]]  [[G4459\|πῶς]]  [[G3004G\|λέγουσιν]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G5100\|τινες]]  [[G3754G\|ὅτι]]  [[G0386\|ἀνάστασις]]  [[G3498\|νεκρῶν]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CORINTH|CORINTH]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RESURRECTION|RESURRECTION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.11|<< 1 Corinthians 15:11]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.13|1 Corinthians 15:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

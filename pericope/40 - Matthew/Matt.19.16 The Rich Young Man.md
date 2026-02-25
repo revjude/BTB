@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Rich Young Man
+type: Pericope
 pericope: "[[Matt.19.16 The Rich Young Man|The Rich Young Man]]"
-verse_count: 15
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 19
 book/chapter: "[[Matt.19|Matthew 19]]"
-genre:
+chronological_order: 986
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 15
 verses:
 - "[[Matt.19.16]]"
 - "[[Matt.19.17]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Matt.19.30]]"
 ---
 
-[[Matt.19|Matthew 19:16 - Matthew 19:30]]
+<small>[[Matt.19|Matthew 19:16-30]]</small>
 *The Rich Young Man*
 
 [[Matt.19.16|16]] And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life?

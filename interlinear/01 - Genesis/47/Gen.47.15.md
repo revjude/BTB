@@ -1,8 +1,75 @@
+---
+title: Genesis 47:15
+type: Verse
+kjv: "And when money failed in the land of Egypt, and in the land of Canaan, all the Egyptians came unto Joseph, and said, Give us bread: for why should we die in thy presence? for the money faileth."
+bsb: "When the money from the lands of Egypt and Canaan was gone, all the Egyptians came to Joseph and said, “Give us food. Why should we die before your eyes? For our funds have run out!”"
+hebrew: "וַיִּתֹּ֣ם הַכֶּ֗סֶף מֵאֶ֣רֶץ מִצְרַיִם֮ וּמֵאֶ֣רֶץ כְּנַעַן֒ וַיָּבֹאוּ֩ כָל־ מִצְרַ֨יִם אֶל־ יוֹסֵ֤ף לֵאמֹר֙ הָֽבָה־ לָּ֣נוּ לֶ֔חֶם וְלָ֥מָּה נָמ֖וּת נֶגְדֶּ֑ךָ כִּ֥י אָפֵ֖ס כָּֽסֶף׃"
+pericope: "[[Gen.47.13 The Famine Continues|The Famine Continues]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 47
+book/chapter: "[[Gen.47|Genesis 47]]"
+chronological_order: 89
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic EXTORTION|EXTORTION]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic STATECRAFT|STATECRAFT]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H8552]]"
+- "[[H9009]]"
+- "[[H3701G]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H3667A]]"
+- "[[H0935G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4713]]"
+- "[[H0413]]"
+- "[[H3130G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3051]]"
+- "[[H9012]]"
+- "[[H9035]]"
+- "[[H3899G]]"
+- "[[H4100]]"
+- "[[H4191]]"
+- "[[H5048]]"
+- "[[H9031]]"
+- "[[H3588A]]"
+- "[[H0656]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 47:15**<big><big>[[Gen.47.13 The Famine Continues|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when money failed in the land of Egypt, and in the land of Canaan, all the Egyptians came unto Joseph, and said, Give us bread: for why should we die in thy presence? for the money faileth.
 <small><sub>**BSB:**</sub></small>
 When the money from the lands of Egypt and Canaan was gone, all the Egyptians came to Joseph and said, “Give us food. Why should we die before your eyes? For our funds have run out!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8552\|יִּתֹּ֣ם]] [[H9009\|הַ]][[H3701G\|כֶּ֗סֶף]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַיִם֮]] [[H9002\|וּ]][[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H3667A\|כְּנַעַן֒]] [[H9001\|וַ]][[H0935G\|יָּבֹאוּ֩]] [[H3605\|כָל]][[H9014\|־]] [[H4713\|מִצְרַ֨יִם]] [[H0413\|אֶל]][[H9014\|־]] [[H3130G\|יוֹסֵ֤ף]] [[H9005\|לֵ]][[H0559\|אמֹר֙]] [[H3051\|הָֽבָ]][[H9012\|ה]][[H9014\|־]] [[H9005\|לָּ֣]][[H9035\|נוּ]] [[H3899G\|לֶ֔חֶם]] [[H9002\|וְ]][[H9005\|לָ֥]][[H4100\|מָּה]] [[H4191\|נָמ֖וּת]] [[H5048\|נֶגְדֶּ֑]][[H9031\|ךָ]] [[H3588A\|כִּ֥י]] [[H0656\|אָפֵ֖ס]] [[H3701G\|כָּֽסֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EXTORTION|EXTORTION]] • [[topic JOSEPH|JOSEPH]] • [[topic MONEY|MONEY]] • [[topic STATECRAFT|STATECRAFT]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.14|<< Genesis 47:14]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.16|Genesis 47:16 >>]]</td></tr></table>
 

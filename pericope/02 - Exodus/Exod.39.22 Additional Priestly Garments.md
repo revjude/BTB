@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Additional Priestly Garments
+type: Pericope
 pericope: "[[Exod.39.22 Additional Priestly Garments|Additional Priestly Garments]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 39
 book/chapter: "[[Exod.39|Exodus 39]]"
-genre:
+chronological_order: 131
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 10
 verses:
 - "[[Exod.39.22]]"
 - "[[Exod.39.23]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Exod.39.31]]"
 ---
 
-[[Exod.39|Exodus 39:22 - Exodus 39:31]]
+<small>[[Exod.39|Exodus 39:22-31]]</small>
 *Additional Priestly Garments*
 
 [[Exod.39.22|22]] And he made the robe of the ephod \[of\] woven work, all \[of\] blue.

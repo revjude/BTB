@@ -1,10 +1,47 @@
+---
+title: Acts 15:34
+type: Verse
+kjv: "Notwithstanding it pleased Silas to abide there still."
+bsb: ""
+greek: "ἔδοξεν δὲ τῷ Σίλᾳ ἐπιμεῖναι αὐτοῦ."
+pericope: "[[Acts.15.30 The Believers at Antioch Rejoice|The Believers at Antioch Rejoice]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ELDER|ELDER]]"
+- "[[topic SILAS|SILAS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1380]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4609]]"
+- "[[G1961]]"
+- "[[G0847]]"
+texts:
+- K
+---
+
 **Acts 15:34**<big><big>[[Acts.15.30 The Believers at Antioch Rejoice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Notwithstanding it pleased Silas to abide there still.
 <small><sub>**BSB:**</sub></small>
 
-<small><sub>**Literal:**</sub></small>
-It seemed good however <the> to Silas to remain here.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.33|<< Acts 15:33]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.35|Acts 15:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1380\|ἔδοξεν]]  [[G1161\|δὲ]]  [[G3588\|τῷ]]  [[G4609\|Σίλᾳ]]  [[G1961\|ἐπιμεῖναι]]  [[G0847\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELDER|ELDER]] • [[topic SILAS|SILAS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.33|<< Acts 15:33]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.35|Acts 15:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

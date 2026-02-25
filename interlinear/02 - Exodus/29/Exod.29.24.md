@@ -1,8 +1,64 @@
+---
+title: Exodus 29:24
+type: Verse
+kjv: "And thou shalt put all in the hands of Aaron, and in the hands of his sons; and shalt wave them for a wave offering before the LORD."
+bsb: "Put all these in the hands of Aaron and his sons and wave them before the LORD as a wave offering."
+hebrew: "וְשַׂמְתָּ֣ הַכֹּ֔ל עַ֚ל כַּפֵּ֣י אַהֲרֹ֔ן וְעַ֖ל כַּפֵּ֣י בָנָ֑יו וְהֵנַפְתָּ֥ אֹתָ֛ם תְּנוּפָ֖ה לִפְנֵ֥י יְהוָֽה׃"
+pericope: "[[Exod.29.10 The Order of the Sacrifices|The Order of the Sacrifices]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 29
+book/chapter: "[[Exod.29|Exodus 29]]"
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760H]]"
+- "[[H9009]]"
+- "[[H3605]]"
+- "[[H5921A]]"
+- "[[H3709G]]"
+- "[[H0175]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H5130B]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H8573]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 29:24**<big><big>[[Exod.29.10 The Order of the Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt put all in the hands of Aaron, and in the hands of his sons; and shalt wave them [for] a wave offering before the LORD.
 <small><sub>**BSB:**</sub></small>
 Put all these in the hands of Aaron and his sons and wave them before the LORD as a wave offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7760H\|שַׂמְתָּ֣]] [[H9009\|הַ]][[H3605\|כֹּ֔ל]] [[H5921A\|עַ֚ל]] [[H3709G\|כַּפֵּ֣י]] [[H0175\|אַהֲרֹ֔ן]] [[H9002\|וְ]][[H5921A\|עַ֖ל]] [[H3709G\|כַּפֵּ֣י]] [[H1121A\|בָנָ֑י]][[H9023\|ו]] [[H9001\|וְ]][[H5130B\|הֵנַפְתָּ֥]] [[H0853\|אֹתָ֛]][[H9038\|ם]] [[H8573\|תְּנוּפָ֖ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.23|<< Exodus 29:23]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.25|Exodus 29:25 >>]]</td></tr></table>
 

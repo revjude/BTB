@@ -1,8 +1,68 @@
+---
+title: Exodus 6:16
+type: Verse
+kjv: "And these are the names of the sons of Levi according to their generations; Gershon, and Kohath, and Merari: and the years of the life of Levi were an hundred thirty and seven years."
+bsb: "These were the names of the sons of Levi according to their records: Gershon, Kohath, and Merari. Levi lived 137 years."
+hebrew: "וְאֵ֨לֶּה שְׁמ֤וֹת בְּנֵֽי־ לֵוִי֙ לְתֹ֣לְדֹתָ֔ם גֵּרְשׁ֕וֹן וּקְהָ֖ת וּמְרָרִ֑י וּשְׁנֵי֙ חַיֵּ֣י לֵוִ֔י שֶׁ֧בַע וּשְׁלֹשִׁ֛ים וּמְאַ֖ת שָׁנָֽה׃"
+pericope: "[[Exod.6.14 Genealogies of Moses and Aaron|Genealogies of Moses and Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 6
+book/chapter: "[[Exod.6|Exodus 6]]"
+chronological_order: 98
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic GERSHON|GERSHON]]"
+- "[[topic KOHATH|KOHATH]]"
+- "[[topic LEVI|LEVI]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H8034]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3881]]"
+- "[[H9005]]"
+- "[[H8435]]"
+- "[[H9028]]"
+- "[[H1648]]"
+- "[[H6955]]"
+- "[[H4847]]"
+- "[[H8141]]"
+- "[[H2416E]]"
+- "[[H3878]]"
+- "[[H7651]]"
+- "[[H7970]]"
+- "[[H3967]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 6:16**<big><big>[[Exod.6.14 Genealogies of Moses and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] the names of the sons of Levi according to their generations; Gershon, and Kohath, and Merari: and the years of the life of Levi [were] an hundred thirty and seven years.
 <small><sub>**BSB:**</sub></small>
 These were the names of the sons of Levi according to their records: Gershon, Kohath, and Merari. Levi lived 137 years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֨לֶּה]] [[H8034\|שְׁמ֤וֹת]] [[H1121A\|בְּנֵֽי]][[H9014\|־]] [[H3881\|לֵוִי֙]] [[H9005\|לְ]][[H8435\|תֹ֣לְדֹתָ֔]][[H9028\|ם]] [[H1648\|גֵּרְשׁ֕וֹן]] [[H9002\|וּ]][[H6955\|קְהָ֖ת]] [[H9002\|וּ]][[H4847\|מְרָרִ֑י]] [[H9002\|וּ]][[H8141\|שְׁנֵי֙]] [[H2416E\|חַיֵּ֣י]] [[H3878\|לֵוִ֔י]] [[H7651\|שֶׁ֧בַע]] [[H9002\|וּ]][[H7970\|שְׁלֹשִׁ֛ים]] [[H9002\|וּ]][[H3967\|מְאַ֖ת]] [[H8141\|שָׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic GENEALOGY|GENEALOGY]] • [[topic GERSHON|GERSHON]] • [[topic KOHATH|KOHATH]] • [[topic LEVI|LEVI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.6.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.15|<< Exodus 6:15]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.6.17|Exodus 6:17 >>]]</td></tr></table>
 

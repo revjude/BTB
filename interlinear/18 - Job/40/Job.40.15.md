@@ -1,8 +1,57 @@
+---
+title: Job 40:15
+type: Verse
+kjv: "Behold now behemoth, which I made with thee; he eateth grass as an ox."
+bsb: "Look at Behemoth, which I made along with you. He feeds on grass like an ox."
+hebrew: "הִנֵּה־ נָ֣א בְ֭הֵמוֹת אֲשֶׁר־ עָשִׂ֣יתִי עִמָּ֑ךְ חָ֝צִ֗יר כַּבָּקָ֥ר יֹאכֵֽל׃"
+pericope: "[[Job.40.6 The LORD Challenges Job Again|The LORD Challenges Job Again]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 40
+book/chapter: "[[Job.40|Job 40]]"
+chronological_order: 51
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BEHEMOTH|BEHEMOTH]]"
+- "[[topic ELEPHANT|ELEPHANT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HIPPOPOTAMUS|HIPPOPOTAMUS]]"
+strongs:
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H0930]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H2682A]]"
+- "[[H9004]]"
+- "[[H1241]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 40:15**<big><big>[[Job.40.6 The LORD Challenges Job Again|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold now behemoth, which I made with thee; he eateth grass as an ox.
 <small><sub>**BSB:**</sub></small>
 Look at Behemoth, which I made along with you. He feeds on grass like an ox.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּה]][[H9014\|־]] [[H4994\|נָ֣א]] [[H0930\|בְ֭הֵמוֹת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213H\|עָשִׂ֣יתִי]] [[H5973A\|עִמָּ֑]][[H9032\|ךְ]] [[H2682A\|חָ֝צִ֗יר]] [[H9004\|כַּ]][[H1241\|בָּקָ֥ר]] [[H0398\|יֹאכֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEHEMOTH|BEHEMOTH]] • [[topic ELEPHANT|ELEPHANT]] • [[topic GOD|GOD]] • [[topic HIPPOPOTAMUS|HIPPOPOTAMUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.14|<< Job 40:14]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.16|Job 40:16 >>]]</td></tr></table>
 

@@ -1,8 +1,50 @@
+---
+title: Job 34:30
+type: Verse
+kjv: "That the hypocrite reign not, lest the people be ensnared."
+bsb: "that godless men should not rule or lay snares for the people."
+hebrew: "מִ֭מְּלֹךְ אָדָ֥ם חָנֵ֗ף מִמֹּ֥קְשֵׁי עָֽם׃"
+pericope: "[[Job.34.1 Elihu Confirms God’s Justice|Elihu Confirms God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 34
+book/chapter: "[[Job.34|Job 34]]"
+chronological_order: 45
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9006]]"
+- "[[H4427A]]"
+- "[[H0120G]]"
+- "[[H2611]]"
+- "[[H4170]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 34:30**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That the hypocrite reign not, lest the people be ensnared.
 <small><sub>**BSB:**</sub></small>
 that godless men should not rule or lay snares for the people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ֭]][[H4427A\|מְּלֹךְ]] [[H0120G\|אָדָ֥ם]] [[H2611\|חָנֵ֗ף]] [[H9006\|מִ]][[H4170\|מֹּ֥קְשֵׁי]] [[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.29|<< Job 34:29]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.31|Job 34:31 >>]]</td></tr></table>
 

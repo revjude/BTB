@@ -1,6 +1,51 @@
+---
+title: LXX Psalm 119:174
+type: Verse
+lxx: "I longed after  your deliverance, O lord, and  your law is my meditation."
+greek: "επεπόθησα το σωτήριόν σου κύριε και ο νόμος σου μελέτη μου εστί"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G1971]]"
+- "[[G3588]]"
+- "[[G4992]]"
+- "[[G1473]]"
+- "[[G2962]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G1473]]"
+- "[[G8281]]"
+- "[[G1473]]"
+- "[[G1510]]"
+---
+
 **LXX Psalm 119:174** 
 <small><sub>**LXX:**</sub></small>
 I longed after  your deliverance, O <span class="smallcaps">lord</span>, and  your law is my meditation. 
+<small><sub>**Greek:**</sub></small>
+[[G1971\|επεπόθησα]] [[G3588\|το]] [[G4992\|σωτήριόν]] [[G1473\|σου]] [[G2962\|κύριε]] [[G2532\|και]] [[G3588\|ο]] [[G3551\|νόμος]] [[G1473\|σου]] [[G8281\|μελέτη]] [[G1473\|μου]] [[G1510\|εστί]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.119.174|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.173|<< Psalm 119:173]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.175|Psalm 119:175 >>]]</td></tr></table>
 
@@ -15,6 +60,6 @@ I longed after  your deliverance, O <span class="smallcaps">lord</span>, and  yo
 | your law | **<big>[[G3551\|νόμος]]</big>** **<big>[[G1473\|σου]]</big>** |
 | my meditation | **<big>[[G8281\|μελέτη]]</big>** **<big>[[G1473\|μου]]</big>** |
 | is | **<big>[[G1510\|εστί]]</big>** |
-[[Ps.119.174|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.173|<< Psalm 119:173]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.175|Psalm 119:175 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.173|<< Psalm 119:173]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.175|Psalm 119:175 >>]]</td></tr></table>
 
 

@@ -1,8 +1,66 @@
+---
+title: Lamentations 2:7
+type: Verse
+kjv: "The Lord hath cast off his altar, he hath abhorred his sanctuary, he hath given up into the hand of the enemy the walls of her palaces; they have made a noise in the house of the LORD, as in the day of a solemn feast."
+bsb: "The Lord has rejected His altar; He has abandoned His sanctuary; He has delivered the walls of her palaces into the hand of the enemy. They have raised a shout in the house of the LORD as on the day of an appointed feast."
+hebrew: "זָנַ֨ח אֲדֹנָ֤י׀ מִזְבְּחוֹ֙ נִאֵ֣ר מִקְדָּשׁ֔וֹ הִסְגִּיר֙ בְּיַד־ אוֹיֵ֔ב חוֹמֹ֖ת אַרְמְנוֹתֶ֑יהָ ק֛וֹל נָתְנ֥וּ בְּבֵית־ יְהוָ֖ה כְּי֥וֹם מוֹעֵֽד׃ ס"
+pericope: "[[Lam.2.1 God’s Anger over Jerusalem|God’s Anger over Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 2
+book/chapter: "[[Lam.2|Lamentations 2]]"
+chronological_order: 777
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic SANCTUARY|SANCTUARY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H2186A]]"
+- "[[H0136]]"
+- "[[H9015]]"
+- "[[H4196]]"
+- "[[H9023]]"
+- "[[H5010]]"
+- "[[H4720]]"
+- "[[H5462]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9014]]"
+- "[[H0341]]"
+- "[[H2346G]]"
+- "[[H0759G]]"
+- "[[H9024]]"
+- "[[H6963H]]"
+- "[[H5414M]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H3117G]]"
+- "[[H4150H]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Lamentations 2:7**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Lord hath cast off his altar, he hath abhorred his sanctuary, he hath given up into the hand of the enemy the walls of her palaces; they have made a noise in the house of the LORD, as in the day of a solemn feast.
 <small><sub>**BSB:**</sub></small>
 The Lord has rejected His altar; He has abandoned His sanctuary; He has delivered the walls of her palaces into the hand of the enemy. They have raised a shout in the house of the LORD as on the day of an appointed feast.
+<small><sub>**Hebrew:**</sub></small>
+[[H2186A\|זָנַ֨ח]] [[H0136\|אֲדֹנָ֤י]][[H9015\|׀]] [[H4196\|מִזְבְּח]][[H9023\|וֹ֙]] [[H5010\|נִאֵ֣ר]] [[H4720\|מִקְדָּשׁ֔]][[H9023\|וֹ]] [[H5462\|הִסְגִּיר֙]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H0341\|אוֹיֵ֔ב]] [[H2346G\|חוֹמֹ֖ת]] [[H0759G\|אַרְמְנוֹתֶ֑י]][[H9024\|הָ]] [[H6963H\|ק֛וֹל]] [[H5414M\|נָתְנ֥וּ]] [[H9003\|בְּ]][[H1004Q\|בֵית]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9004\|כְּ]][[H3117G\|י֥וֹם]] [[H4150H\|מוֹעֵֽד]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic SANCTUARY|SANCTUARY]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.6|<< Lamentations 2:6]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.8|Lamentations 2:8 >>]]</td></tr></table>
 
@@ -23,7 +81,7 @@ The Lord has rejected His altar; He has abandoned His sanctuary; He has delivere
 | in [the] house of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1004Q\|בֵית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> veit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like [the] day of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H3117G\|י֥וֹם]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an appointed feast  |**<big>&#8207;[[H4150H\|מוֹעֵֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mo.'Ed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an appointed feast  |**<big>&#8207;[[H4150H\|מוֹעֵֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mo.'Ed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.6|<< Lamentations 2:6]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.8|Lamentations 2:8 >>]]</td></tr></table>
 
 

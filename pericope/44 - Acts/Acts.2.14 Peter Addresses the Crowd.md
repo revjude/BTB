@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Peter Addresses the Crowd
+type: Pericope
 pericope: "[[Acts.2.14 Peter Addresses the Crowd|Peter Addresses the Crowd]]"
-verse_count: 23
+original_language: Greek
 testament: New
 book: Acts
 chapter: 2
 book/chapter: "[[Acts.2|Acts 2]]"
-genre:
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 23
 verses:
 - "[[Acts.2.14]]"
 - "[[Acts.2.15]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Acts.2.36]]"
 ---
 
-[[Acts.2|Acts 2:14 - Acts 2:36]]
+<small>[[Acts.2|Acts 2:14-36]]</small>
 *Peter Addresses the Crowd*
 
 [[Acts.2.14|14]] But Peter, standing up with the eleven, lifted up his voice, and said unto them, Ye men of Judaea, and all \[ye\] that dwell at Jerusalem, be this known unto you, and hearken to my words:

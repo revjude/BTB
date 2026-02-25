@@ -1,8 +1,53 @@
+---
+title: Psalm 49:4
+type: Verse
+kjv: "I will incline mine ear to a parable: I will open my dark saying upon the harp."
+bsb: "I will incline my ear to a proverb; I will express my riddle with the harp:"
+hebrew: "אַטֶּ֣ה לְמָשָׁ֣ל אָזְנִ֑י אֶפְתַּ֥ח בְּ֝כִנּ֗וֹר חִידָתִֽי׃"
+pericope: "[[Ps.49.1 The Evanescence of Wealth|The Evanescence of Wealth]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 49
+book/chapter: "[[Ps.49|Psalm 49]]"
+chronological_order: 504
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic HARP|HARP]]"
+strongs:
+- "[[H5186]]"
+- "[[H9005]]"
+- "[[H4912]]"
+- "[[H0241G]]"
+- "[[H9020]]"
+- "[[H6605A]]"
+- "[[H9003]]"
+- "[[H3658]]"
+- "[[H2420]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 49:4**<big><big>[[Ps.49.1 The Evanescence of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will incline mine ear to a parable: I will open my dark saying upon the harp.
 <small><sub>**BSB:**</sub></small>
 I will incline my ear to a proverb; I will express my riddle with the harp:
+<small><sub>**Hebrew:**</sub></small>
+[[H5186\|אַטֶּ֣ה]] [[H9005\|לְ]][[H4912\|מָשָׁ֣ל]] [[H0241G\|אָזְנִ֑]][[H9020\|י]] [[H6605A\|אֶפְתַּ֥ח]] [[H9003\|בְּ֝]][[H3658\|כִנּ֗וֹר]] [[H2420\|חִידָתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HARP|HARP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.49.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.49.3|<< Psalms 49:3]]</td><td align="center" style="border:none;">[[Ps.49|Psalms 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.49.5|Psalms 49:5 >>]]</td></tr></table>
 

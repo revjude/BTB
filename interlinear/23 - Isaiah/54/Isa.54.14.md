@@ -1,8 +1,59 @@
+---
+title: Isaiah 54:14
+type: Verse
+kjv: "In righteousness shalt thou be established: thou shalt be far from oppression; for thou shalt not fear: and from terror; for it shall not come near thee."
+bsb: "In righteousness you will be established, far from oppression, for you will have no fear. Terror will be far removed, for it will not come near you."
+hebrew: "בִּצְדָקָ֖ה תִּכּוֹנָ֑נִי רַחֲקִ֤י מֵעֹ֙שֶׁק֙ כִּֽי־ לֹ֣א תִירָ֔אִי וּמִ֨מְּחִתָּ֔ה כִּ֥י לֹֽא־ תִקְרַ֖ב אֵלָֽיִךְ׃"
+pericope: "[[Isa.54.1 Future Blessings for Zion|Future Blessings for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 54
+book/chapter: "[[Isa.54|Isaiah 54]]"
+chronological_order: 693
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9003]]"
+- "[[H6666]]"
+- "[[H3559H]]"
+- "[[H7368]]"
+- "[[H9006]]"
+- "[[H6233]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H3372G]]"
+- "[[H9002]]"
+- "[[H4288]]"
+- "[[H7126G]]"
+- "[[H0413]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 54:14**<big><big>[[Isa.54.1 Future Blessings for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In righteousness shalt thou be established: thou shalt be far from oppression; for thou shalt not fear: and from terror; for it shall not come near thee.
 <small><sub>**BSB:**</sub></small>
 In righteousness you will be established, far from oppression, for you will have no fear. Terror will be far removed, for it will not come near you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H6666\|צְדָקָ֖ה]] [[H3559H\|תִּכּוֹנָ֑נִי]] [[H7368\|רַחֲקִ֤י]] [[H9006\|מֵ]][[H6233\|עֹ֙שֶׁק֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3808\|לֹ֣א]] [[H3372G\|תִירָ֔אִי]] [[H9002\|וּ]][[H9006\|מִ֨]][[H4288\|מְּחִתָּ֔ה]] [[H3588A\|כִּ֥י]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7126G\|תִקְרַ֖ב]] [[H0413\|אֵלָֽיִ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.54.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.13|<< Isaiah 54:13]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.15|Isaiah 54:15 >>]]</td></tr></table>
 

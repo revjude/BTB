@@ -1,8 +1,70 @@
+---
+title: Numbers 30:2
+type: Verse
+kjv: "If a man vow a vow unto the LORD, or swear an oath to bind his soul with a bond; he shall not break his word, he shall do according to all that proceedeth out of his mouth."
+bsb: "If a man makes a vow to the LORD or swears an oath to obligate himself by a pledge, he must not break his word; he must do everything he has promised."
+hebrew: "אִישׁ֩ כִּֽי־ יִדֹּ֨ר נֶ֜דֶר לַֽיהוָ֗ה אֽוֹ־ הִשָּׁ֤בַע שְׁבֻעָה֙ לֶאְסֹ֤ר אִסָּר֙ עַל־ נַפְשׁ֔וֹ לֹ֥א יַחֵ֖ל דְּבָר֑וֹ כְּכָל־ הַיֹּצֵ֥א מִפִּ֖יו יַעֲשֶֽׂה׃"
+pericope: "[[Num.30.1 Laws about Vows|Laws about Vows]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 30
+book/chapter: "[[Num.30|Numbers 30]]"
+chronological_order: 190
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H0376G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5087]]"
+- "[[H5088]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0176A]]"
+- "[[H7650]]"
+- "[[H7621]]"
+- "[[H0631]]"
+- "[[H0632]]"
+- "[[H5921A]]"
+- "[[H5315I]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H2490H]]"
+- "[[H1697G]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3318O]]"
+- "[[H9006]]"
+- "[[H6310G]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 30:2**<big><big>[[Num.30.1 Laws about Vows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a man vow a vow unto the LORD, or swear an oath to bind his soul with a bond; he shall not break his word, he shall do according to all that proceedeth out of his mouth.
 <small><sub>**BSB:**</sub></small>
 If a man makes a vow to the LORD or swears an oath to obligate himself by a pledge, he must not break his word; he must do everything he has promised.
+<small><sub>**Hebrew:**</sub></small>
+[[H0376G\|אִישׁ֩]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5087\|יִדֹּ֨ר]] [[H5088\|נֶ֜דֶר]] [[H9005\|לַֽ]][[H3068G\|יהוָ֗ה]] [[H0176A\|אֽוֹ]][[H9014\|־]] [[H7650\|הִשָּׁ֤בַע]] [[H7621\|שְׁבֻעָה֙]] [[H9005\|לֶ]][[H0631\|אְסֹ֤ר]] [[H0632\|אִסָּר֙]] [[H5921A\|עַל]][[H9014\|־]] [[H5315I\|נַפְשׁ֔]][[H9023\|וֹ]] [[H3808\|לֹ֥א]] [[H2490H\|יַחֵ֖ל]] [[H1697G\|דְּבָר֑]][[H9023\|וֹ]] [[H9004\|כְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H3318O\|יֹּצֵ֥א]] [[H9006\|מִ]][[H6310G\|פִּ֖י]][[H9023\|ו]] [[H6213A\|יַעֲשֶֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.30.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.30.1|<< Numbers 30:1]]</td><td align="center" style="border:none;">[[Num.30|Numbers 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.30.3|Numbers 30:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

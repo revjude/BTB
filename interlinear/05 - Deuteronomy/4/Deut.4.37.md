@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 4:37
+type: Verse
+kjv: "And because he loved thy fathers, therefore he chose their seed after them, and brought thee out in his sight with his mighty power out of Egypt;"
+bsb: "Because He loved your fathers, He chose their descendants after them and brought you out of Egypt by His presence and great power,"
+hebrew: "וְתַ֗חַת כִּ֤י אָהַב֙ אֶת־ אֲבֹתֶ֔יךָ וַיִּבְחַ֥ר בְּזַרְע֖וֹ אַחֲרָ֑יו וַיּוֹצִֽאֲךָ֧ בְּפָנָ֛יו בְּכֹח֥וֹ הַגָּדֹ֖ל מִמִּצְרָֽיִם׃"
+pericope: "[[Deut.4.32 The LORD Alone Is God|The LORD Alone Is God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic OBLIGATION|OBLIGATION]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H8478J]]"
+- "[[H3588A]]"
+- "[[H0157G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H0977]]"
+- "[[H9003]]"
+- "[[H2233H]]"
+- "[[H9023]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H3318H]]"
+- "[[H9031]]"
+- "[[H6440H]]"
+- "[[H3581B]]"
+- "[[H9009]]"
+- "[[H1419A]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:37**<big><big>[[Deut.4.32 The LORD Alone Is God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And because he loved thy fathers, therefore he chose their seed after them, and brought thee out in his sight with his mighty power out of Egypt;
 <small><sub>**BSB:**</sub></small>
 Because He loved your fathers, He chose their descendants after them and brought you out of Egypt by His presence and great power,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8478J\|תַ֗חַת]] [[H3588A\|כִּ֤י]] [[H0157G\|אָהַב֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אֲבֹתֶ֔י]][[H9021\|ךָ]] [[H9001\|וַ]][[H0977\|יִּבְחַ֥ר]] [[H9003\|בְּ]][[H2233H\|זַרְע֖]][[H9023\|וֹ]] [[H0310A\|אַחֲרָ֑י]][[H9033\|ו]] [[H9001\|וַ]][[H3318H\|יּוֹצִֽאֲ]][[H9031\|ךָ֧]] [[H9003\|בְּ]][[H6440H\|פָנָ֛י]][[H9023\|ו]] [[H9003\|בְּ]][[H3581B\|כֹח֥]][[H9023\|וֹ]] [[H9009\|הַ]][[H1419A\|גָּדֹ֖ל]] [[H9006\|מִ]][[H4714G\|מִּצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic OBLIGATION|OBLIGATION]] • [[topic PREDESTINATION|PREDESTINATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.36|<< Deuteronomy 4:36]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.38|Deuteronomy 4:38 >>]]</td></tr></table>
 

@@ -1,8 +1,53 @@
+---
+title: Psalm 102:12
+type: Verse
+kjv: "But thou, O LORD, shalt endure for ever; and thy remembrance unto all generations."
+bsb: "But You, O LORD, sit enthroned forever; Your renown endures to all generations."
+hebrew: "וְאַתָּ֣ה יְ֭הוָה לְעוֹלָ֣ם תֵּשֵׁ֑ב וְ֝זִכְרְךָ֗ לְדֹ֣ר וָדֹֽר׃"
+pericope: "[[Ps.102.1 The Prayer of the Afflicted|The Prayer of the Afflicted]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 102
+book/chapter: "[[Ps.102|Psalm 102]]"
+chronological_order: 784
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H3427]]"
+- "[[H2143]]"
+- "[[H9021]]"
+- "[[H1755]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 102:12**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thou, O LORD, shalt endure for ever; and thy remembrance unto all generations.
 <small><sub>**BSB:**</sub></small>
 But You, O LORD, sit enthroned forever; Your renown endures to all generations.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֣ה]] [[H3068G\|יְ֭הוָה]] [[H9005\|לְ]][[H5769G\|עוֹלָ֣ם]] [[H3427\|תֵּשֵׁ֑ב]] [[H9002\|וְ֝]][[H2143\|זִכְרְ]][[H9021\|ךָ֗]] [[H9005\|לְ]][[H1755\|דֹ֣ר]] [[H9002\|וָ]][[H1755\|דֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.11|<< Psalms 102:11]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.13|Psalms 102:13 >>]]</td></tr></table>
 

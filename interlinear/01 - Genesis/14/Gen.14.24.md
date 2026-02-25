@@ -1,8 +1,68 @@
+---
+title: Genesis 14:24
+type: Verse
+kjv: "Save only that which the young men have eaten, and the portion of the men which went with me, Aner, Eshcol, and Mamre; let them take their portion."
+bsb: "I will accept nothing but what my men have eaten and the share for the men who went with me—Aner, Eshcol, and Mamre. They may take their portion.”"
+hebrew: "בִּלְעָדַ֗י רַ֚ק אֲשֶׁ֣ר אָֽכְל֣וּ הַנְּעָרִ֔ים וְחֵ֙לֶק֙ הָֽאֲנָשִׁ֔ים אֲשֶׁ֥ר הָלְכ֖וּ אִתִּ֑י עָנֵר֙ אֶשְׁכֹּ֣ל וּמַמְרֵ֔א הֵ֖ם יִקְח֥וּ חֶלְקָֽם׃ ס"
+pericope: "[[Gen.14.17 Melchizedek Blesses Abram|Melchizedek Blesses Abram]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 14
+book/chapter: "[[Gen.14|Genesis 14]]"
+chronological_order: 56
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic ANER|ANER]]"
+- "[[topic ESHCOL|ESHCOL]]"
+- "[[topic MAMRE|MAMRE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[H1107]]"
+- "[[H9030]]"
+- "[[H7535]]"
+- "[[H0834A]]"
+- "[[H0398]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H9002]]"
+- "[[H2506A]]"
+- "[[H0582]]"
+- "[[H1980G]]"
+- "[[H0854]]"
+- "[[H6063G]]"
+- "[[H0812G]]"
+- "[[H4471G]]"
+- "[[H1992]]"
+- "[[H3947G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Genesis 14:24**<big><big>[[Gen.14.17 Melchizedek Blesses Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Save only that which the young men have eaten, and the portion of the men which went with me, Aner, Eshcol, and Mamre; let them take their portion.
 <small><sub>**BSB:**</sub></small>
 I will accept nothing but what my men have eaten and the share for the men who went with me—Aner, Eshcol, and Mamre. They may take their portion.”
+<small><sub>**Hebrew:**</sub></small>
+[[H1107\|בִּלְעָדַ֗]][[H9030\|י]] [[H7535\|רַ֚ק]] [[H0834A\|אֲשֶׁ֣ר]] [[H0398\|אָֽכְל֣וּ]] [[H9009\|הַ]][[H5288\|נְּעָרִ֔ים]] [[H9002\|וְ]][[H2506A\|חֵ֙לֶק֙]] [[H9009\|הָֽ]][[H0582\|אֲנָשִׁ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H1980G\|הָלְכ֖וּ]] [[H0854\|אִתִּ֑]][[H9030\|י]] [[H6063G\|עָנֵר֙]] [[H0812G\|אֶשְׁכֹּ֣ל]] [[H9002\|וּ]][[H4471G\|מַמְרֵ֔א]] [[H1992\|הֵ֖ם]] [[H3947G\|יִקְח֥וּ]] [[H2506A\|חֶלְקָֽ]][[H9028\|ם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic ANER|ANER]] • [[topic ESHCOL|ESHCOL]] • [[topic MAMRE|MAMRE]] • [[topic RULERS|RULERS]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.14.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.14.23|<< Genesis 14:23]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15.1|Genesis 15:1 >>]]</td></tr></table>
 
@@ -23,7 +83,7 @@ I will accept nothing but what my men have eaten and the share for the men who w
 | and Mamre  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4471G\|מַמְרֵ֔א]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mam.Re'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they  |**<big>&#8207;[[H1992\|הֵ֖ם]]&#8207; </big>**| hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let them take  |**<big>&#8207;[[H3947G\|יִקְח֥וּ]]&#8207; </big>**| yik.Chu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| share their  |**<big>&#8207;[[H2506A\|חֶלְקָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| chel.Ka<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| share their  |**<big>&#8207;[[H2506A\|חֶלְקָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| chel.Ka<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.14.23|<< Genesis 14:23]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15.1|Genesis 15:1 >>]]</td></tr></table>
 
 

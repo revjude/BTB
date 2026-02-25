@@ -1,8 +1,68 @@
+---
+title: Micah 3:5
+type: Verse
+kjv: "Thus saith the LORD concerning the prophets that make my people err, that bite with their teeth, and cry, Peace; and he that putteth not into their mouths, they even prepare war against him."
+bsb: "This is what the LORD says: “As for the prophets who lead My people astray, who proclaim peace while they chew with their teeth, but declare war against one who puts nothing in their mouths:"
+hebrew: "כֹּ֚ה אָמַ֣ר יְהוָ֔ה עַל־ הַנְּבִיאִ֖ים הַמַּתְעִ֣ים אֶת־ עַמִּ֑י הַנֹּשְׁכִ֤ים בְּשִׁנֵּיהֶם֙ וְקָרְא֣וּ שָׁל֔וֹם וַאֲשֶׁר֙ לֹא־ יִתֵּ֣ן עַל־ פִּיהֶ֔ם וְקִדְּשׁ֥וּ עָלָ֖יו מִלְחָמָֽה׃"
+pericope: "[[Mic.3.1 Rulers and Prophets Condemned|Rulers and Prophets Condemned]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 3
+book/chapter: "[[Mic.3|Micah 3]]"
+chronological_order: 625
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H8582]]"
+- "[[H0853]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H5391A]]"
+- "[[H9003]]"
+- "[[H8127G]]"
+- "[[H9028]]"
+- "[[H9001]]"
+- "[[H7121I]]"
+- "[[H7965G]]"
+- "[[H9002]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H5414G]]"
+- "[[H6310G]]"
+- "[[H6942J]]"
+- "[[H9033]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 3:5**<big><big>[[Mic.3.1 Rulers and Prophets Condemned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD concerning the prophets that make my people err, that bite with their teeth, and cry, Peace; and he that putteth not into their mouths, they even prepare war against him.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: “As for the prophets who lead My people astray, who proclaim peace while they chew with their teeth, but declare war against one who puts nothing in their mouths:
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H5030\|נְּבִיאִ֖ים]] [[H9009\|הַ]][[H8582\|מַּתְעִ֣ים]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ֑]][[H9020\|י]] [[H9009\|הַ]][[H5391A\|נֹּשְׁכִ֤ים]] [[H9003\|בְּ]][[H8127G\|שִׁנֵּי]][[H9028\|הֶם֙]] [[H9001\|וְ]][[H7121I\|קָרְא֣וּ]] [[H7965G\|שָׁל֔וֹם]] [[H9002\|וַ]][[H0834A\|אֲשֶׁר֙]] [[H3808\|לֹא]][[H9014\|־]] [[H5414G\|יִתֵּ֣ן]] [[H5921A\|עַל]][[H9014\|־]] [[H6310G\|פִּי]][[H9028\|הֶ֔ם]] [[H9001\|וְ]][[H6942J\|קִדְּשׁ֥וּ]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H4421\|מִלְחָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.3.4|<< Micah 3:4]]</td><td align="center" style="border:none;">[[Mic.3|Micah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.3.6|Micah 3:6 >>]]</td></tr></table>
 

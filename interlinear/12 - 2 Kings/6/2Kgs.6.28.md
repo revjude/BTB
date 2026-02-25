@@ -1,8 +1,71 @@
+---
+title: 2 Kings 6:28
+type: Verse
+kjv: "And the king said unto her, What aileth thee? And she answered, This woman said unto me, Give thy son, that we may eat him to day, and we will eat my son to morrow."
+bsb: "Then the king asked her, “What is the matter?” And she answered, “This woman said to me, ‘Give up your son, that we may eat him, and tomorrow we will eat my son.’"
+hebrew: "וַיֹּֽאמֶר־ לָ֥הּ הַמֶּ֖לֶךְ מַה־ לָּ֑ךְ וַתֹּ֗אמֶר הָאִשָּׁ֨ה הַזֹּ֜את אָמְרָ֣ה אֵלַ֗י תְּנִ֤י אֶת־ בְּנֵךְ֙ וְנֹאכְלֶ֣נּוּ הַיּ֔וֹם וְאֶת־ בְּנִ֖י נֹאכַ֥ל מָחָֽר׃"
+pericope: "[[2Kgs.6.24 The Siege and Famine of Samaria|The Siege and Famine of Samaria]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 6
+book/chapter: "[[2Kgs.6|2 Kings 6]]"
+chronological_order: 578
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CANNIBALISM|CANNIBALISM]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SIEGE|SIEGE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H4100]]"
+- "[[H9032]]"
+- "[[H0802G]]"
+- "[[H2063]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H1121A]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H0398]]"
+- "[[H9033]]"
+- "[[H3117G]]"
+- "[[H9020]]"
+- "[[H4279]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 6:28**<big><big>[[2Kgs.6.24 The Siege and Famine of Samaria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king said unto her, What aileth thee? And she answered, This woman said unto me, Give thy son, that we may eat him to day, and we will eat my son to morrow.
 <small><sub>**BSB:**</sub></small>
 Then the king asked her, “What is the matter?” And she answered, “This woman said to me, ‘Give up your son, that we may eat him, and tomorrow we will eat my son.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּֽאמֶר]][[H9014\|־]] [[H9005\|לָ֥]][[H9034\|הּ]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H4100\|מַה]][[H9014\|־]] [[H9005\|לָּ֑]][[H9032\|ךְ]] [[H9001\|וַ]][[H0559\|תֹּ֗אמֶר]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֨ה]] [[H9009\|הַ]][[H2063\|זֹּ֜את]] [[H0559\|אָמְרָ֣ה]] [[H0413\|אֵלַ֗]][[H9030\|י]] [[H5414G\|תְּנִ֤י]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנֵ]][[H9022\|ךְ֙]] [[H9002\|וְ]][[H0398\|נֹאכְלֶ֣]][[H9033\|נּוּ]] [[H9009\|הַ]][[H3117G\|יּ֔וֹם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנִ֖]][[H9020\|י]] [[H0398\|נֹאכַ֥ל]] [[H4279\|מָחָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CANNIBALISM|CANNIBALISM]] • [[topic FAMINE|FAMINE]] • [[topic ISRAEL|ISRAEL]] • [[topic PROPHECY|PROPHECY]] • [[topic SAMARIA|SAMARIA]] • [[topic SIEGE|SIEGE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.6.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.27|<< 2 Kings 6:27]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6.29|2 Kings 6:29 >>]]</td></tr></table>
 

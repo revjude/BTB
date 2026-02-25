@@ -1,8 +1,65 @@
+---
+title: Amos 7:2
+type: Verse
+kjv: "And it came to pass, that when they had made an end of eating the grass of the land, then I said, O Lord GOD, forgive, I beseech thee: by whom shall Jacob arise? for he is small."
+bsb: "And when the locusts had eaten every green plant in the land, I said, “Lord GOD, please forgive! How will Jacob survive, since he is so small?”"
+hebrew: "וְהָיָ֗ה אִם־ כִּלָּה֙ לֶֽאֱכוֹל֙ אֶת־ עֵ֣שֶׂב הָאָ֔רֶץ וָאֹמַ֗ר אֲדֹנָ֤י יְהוִה֙ סְֽלַֽח־ נָ֔א מִ֥י יָק֖וּם יַֽעֲקֹ֑ב כִּ֥י קָטֹ֖ן הֽוּא׃"
+pericope: "[[Amos.7.1 The Locusts, Fire, and Plumb Line|The Locusts, Fire, and Plumb Line]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 7
+book/chapter: "[[Amos.7|Amos 7]]"
+chronological_order: 604
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3615G]]"
+- "[[H9005]]"
+- "[[H0398]]"
+- "[[H0853]]"
+- "[[H6212]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H5545]]"
+- "[[H4994]]"
+- "[[H4310]]"
+- "[[H6965I]]"
+- "[[H3290]]"
+- "[[H3588A]]"
+- "[[H6996B]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 7:2**<big><big>[[Amos.7.1 The Locusts, Fire, and Plumb Line|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, [that] when they had made an end of eating the grass of the land, then I said, O Lord GOD, forgive, I beseech thee: by whom shall Jacob arise? for he [is] small.
 <small><sub>**BSB:**</sub></small>
 And when the locusts had eaten every green plant in the land, I said, “Lord GOD, please forgive! How will Jacob survive, since he is so small?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H0518A\|אִם]][[H9014\|־]] [[H3615G\|כִּלָּה֙]] [[H9005\|לֶֽ]][[H0398\|אֱכוֹל֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6212\|עֵ֣שֶׂב]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9001\|וָ]][[H0559\|אֹמַ֗ר]] [[H0136\|אֲדֹנָ֤י]] [[H3069\|יְהוִה֙]] [[H5545\|סְֽלַֽח]][[H9014\|־]] [[H4994\|נָ֔א]] [[H4310\|מִ֥י]] [[H6965I\|יָק֖וּם]] [[H3290\|יַֽעֲקֹ֑ב]] [[H3588A\|כִּ֥י]] [[H6996B\|קָטֹ֖ן]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.7.1|<< Amos 7:1]]</td><td align="center" style="border:none;">[[Amos.7|Amos 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.7.3|Amos 7:3 >>]]</td></tr></table>
 

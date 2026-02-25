@@ -1,8 +1,81 @@
+---
+title: 2 Kings 15:25
+type: Verse
+kjv: "But Pekah the son of Remaliah, a captain of his, conspired against him, and smote him in Samaria, in the palace of the king’s house, with Argob and Arieh, and with him fifty men of the Gileadites: and he killed him, and reigned in his room."
+bsb: "Then his officer, Pekah son of Remaliah, conspired against him along with Argob, Arieh, and fifty men of Gilead. And at the citadel of the king’s palace in Samaria, Pekah struck down and killed Pekahiah and reigned in his place."
+hebrew: "וַיִּקְשֹׁ֣ר עָלָיו֩ פֶּ֨קַח בֶּן־ רְמַלְיָ֜הוּ שָׁלִישׁ֗וֹ וַיַּכֵּ֨הוּ בְשֹׁמְר֜וֹן בְּאַרְמ֤וֹן בֵּית־ הַמֶּ֙לֶךְ֙ אֶת־ אַרְגֹּ֣ב וְאֶת־ הָאַרְיֵ֔ה וְעִמּ֛וֹ חֲמִשִּׁ֥ים אִ֖ישׁ מִבְּנֵ֣י גִלְעָדִ֑ים וַיְמִיתֵ֖הוּ וַיִּמְלֹ֥ךְ תַּחְתָּֽיו׃"
+pericope: "[[2Kgs.15.23 Pekahiah Reigns in Israel|Pekahiah Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 15
+book/chapter: "[[2Kgs.15|2 Kings 15]]"
+chronological_order: 607
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~767–735 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARGOB|ARGOB]]"
+- "[[topic ARIEH|ARIEH]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic PALACE|PALACE]]"
+- "[[topic PEKAH|PEKAH]]"
+- "[[topic PEKAHIAH|PEKAHIAH]]"
+- "[[topic REGICIDE|REGICIDE]]"
+- "[[topic REMALIAH|REMALIAH]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7194]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H6492]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H7425]]"
+- "[[H7991C]]"
+- "[[H9023]]"
+- "[[H5221]]"
+- "[[H9003]]"
+- "[[H8111]]"
+- "[[H0759G]]"
+- "[[H1004B]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H0854]]"
+- "[[H0709H]]"
+- "[[H9002]]"
+- "[[H0745]]"
+- "[[H5973A]]"
+- "[[H2572]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H1121G]]"
+- "[[H1569]]"
+- "[[H4191]]"
+- "[[H4427A]]"
+- "[[H8478H]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Kings 15:25**<big><big>[[2Kgs.15.23 Pekahiah Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Pekah the son of Remaliah, a captain of his, conspired against him, and smote him in Samaria, in the palace of the king’s house, with Argob and Arieh, and with him fifty men of the Gileadites: and he killed him, and reigned in his room.
 <small><sub>**BSB:**</sub></small>
 Then his officer, Pekah son of Remaliah, conspired against him along with Argob, Arieh, and fifty men of Gilead. And at the citadel of the king’s palace in Samaria, Pekah struck down and killed Pekahiah and reigned in his place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7194\|יִּקְשֹׁ֣ר]] [[H5921A\|עָלָי]][[H9033\|ו֩]] [[H6492\|פֶּ֨קַח]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7425\|רְמַלְיָ֜הוּ]] [[H7991C\|שָׁלִישׁ֗]][[H9023\|וֹ]] [[H9001\|וַ]][[H5221\|יַּכֵּ֨]][[H9033\|הוּ]] [[H9003\|בְ]][[H8111\|שֹׁמְר֜וֹן]] [[H9003\|בְּ]][[H0759G\|אַרְמ֤וֹן]] [[H1004B\|בֵּית]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H0854\|אֶת]][[H9014\|־]] [[H0709H\|אַרְגֹּ֣ב]] [[H9002\|וְ]][[H0854\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0745\|אַרְיֵ֔ה]] [[H9002\|וְ]][[H5973A\|עִמּ֛]][[H9033\|וֹ]] [[H2572\|חֲמִשִּׁ֥ים]] [[H0376G\|אִ֖ישׁ]] [[H9006\|מִ]][[H1121G\|בְּנֵ֣י]] [[H1569\|גִלְעָדִ֑ים]] [[H9001\|וַ]][[H4191\|יְמִיתֵ֖]][[H9033\|הוּ]] [[H9001\|וַ]][[H4427A\|יִּמְלֹ֥ךְ]] [[H8478H\|תַּחְתָּֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARGOB|ARGOB]] • [[topic ARIEH|ARIEH]] • [[topic CITIZENS|CITIZENS]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic PALACE|PALACE]] • [[topic PEKAH|PEKAH]] • [[topic PEKAHIAH|PEKAHIAH]] • [[topic REGICIDE|REGICIDE]] • [[topic REMALIAH|REMALIAH]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.24|<< 2 Kings 15:24]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.26|2 Kings 15:26 >>]]</td></tr></table>
 

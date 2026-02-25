@@ -1,8 +1,56 @@
+---
+title: Psalm 103:12
+type: Verse
+kjv: "As far as the east is from the west, so far hath he removed our transgressions from us."
+bsb: "As far as the east is from the west, so far has He removed our transgressions from us."
+hebrew: "כִּרְחֹ֣ק מִ֭זְרָח מִֽמַּֽעֲרָ֑ב הִֽרְחִ֥יק מִ֝מֶּ֗נּוּ אֶת־ פְּשָׁעֵֽינוּ׃"
+pericope: "[[Ps.103.1 Bless the LORD, O My Soul|Bless the LORD, O My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 103
+book/chapter: "[[Ps.103|Psalm 103]]"
+chronological_order: 381
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9004]]"
+- "[[H7368]]"
+- "[[H4217H]]"
+- "[[H9006]]"
+- "[[H4628]]"
+- "[[H4480A]]"
+- "[[H9035]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6588]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 103:12**<big><big>[[Ps.103.1 Bless the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As far as the east is from the west, [so] far hath he removed our transgressions from us.
 <small><sub>**BSB:**</sub></small>
 As far as the east is from the west, so far has He removed our transgressions from us.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כִּ]][[H7368\|רְחֹ֣ק]] [[H4217H\|מִ֭זְרָח]] [[H9006\|מִֽ]][[H4628\|מַּֽעֲרָ֑ב]] [[H7368\|הִֽרְחִ֥יק]] [[H4480A\|מִ֝מֶּ֗]][[H9035\|נּוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H6588\|פְּשָׁעֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.103.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.103.11|<< Psalms 103:11]]</td><td align="center" style="border:none;">[[Ps.103|Psalms 103]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.103.13|Psalms 103:13 >>]]</td></tr></table>
 

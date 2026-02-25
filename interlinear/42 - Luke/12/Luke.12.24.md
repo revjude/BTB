@@ -1,10 +1,72 @@
+---
+title: Luke 12:24
+type: Verse
+kjv: "Consider the ravens: for they neither sow nor reap; which neither have storehouse nor barn; and God feedeth them: how much more are ye better than the fowls?"
+bsb: "Consider the ravens: They do not sow or reap, they have no storehouse or barn; yet God feeds them. How much more valuable you are than the birds!"
+jesus_said: "Consider the ravens: for they neither sow nor reap; which neither have storehouse nor barn; and God feedeth them: how much more are ye better than the fowls?"
+greek: "κατανοήσατε τοὺς κόρακας ὅτι οὐ σπείρουσιν οὐδὲ θερίζουσιν οἷς οὐκ ἔστιν ταμεῖον οὐδὲ ἀποθήκη, καὶ ὁ θεὸς τρέφει αὐτούς· πόσῳ μᾶλλον ὑμεῖς διαφέρετε τῶν πετεινῶν;"
+pericope: "[[Luke.12.22 Do Not Worry|Do Not Worry]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BARN|BARN]]"
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CARE|CARE]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RAVEN|RAVEN]]"
+strongs:
+- "[[G2657]]"
+- "[[G3588]]"
+- "[[G2876]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G4687]]"
+- "[[G3761]]"
+- "[[G2325]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G5009]]"
+- "[[G0596]]"
+- "[[G2532]]"
+- "[[G2316]]"
+- "[[G5142]]"
+- "[[G0846]]"
+- "[[G4214]]"
+- "[[G3123G]]"
+- "[[G4771]]"
+- "[[G1308]]"
+- "[[G4071]]"
+texts:
+- NKO
+---
+
 **Luke 12:24**<big><big>[[Luke.12.22 Do Not Worry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Consider the ravens: for they neither sow nor reap; which neither have storehouse nor barn; and God feedeth them: how much more are ye better than the fowls?
 <small><sub>**BSB:**</sub></small>
 Consider the ravens: They do not sow or reap, they have no storehouse or barn; yet God feeds them. How much more valuable you are than the birds!
-<small><sub>**Literal:**</sub></small>
-do consider the ravens that not they sow nor they reap to them not there is a storehouse nor [is] barn — and <the> God feeds them; How much more you yourselves are valuable than the birds?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.23|<< Luke 12:23]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.25|Luke 12:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2657\|κατανοήσατε]]  [[G3588\|τοὺς]]  [[G2876\|κόρακας]]  [[G3754G\|ὅτι]]  [[G3756\|οὐ]]  [[G4687\|σπείρουσιν]]  [[G3761\|οὐδὲ]]  [[G2325\|θερίζουσιν]]  [[G3739\|οἷς]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G5009\|ταμεῖον]]  [[G3761\|οὐδὲ]]  [[G0596\|ἀποθήκη,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G5142\|τρέφει]]  [[G0846\|αὐτούς·]]  [[G4214\|πόσῳ]]  [[G3123G\|μᾶλλον]]  [[G4771\|ὑμεῖς]]  [[G1308\|διαφέρετε]]  [[G3588\|τῶν]]  [[G4071\|πετεινῶν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BARN|BARN]] • [[topic BIRDS|BIRDS]] • [[topic BLESSING|BLESSING]] • [[topic CARE|CARE]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RAVEN|RAVEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.23|<< Luke 12:23]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.25|Luke 12:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

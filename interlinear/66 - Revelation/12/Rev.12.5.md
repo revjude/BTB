@@ -1,10 +1,63 @@
+---
+title: Revelation 12:5
+type: Verse
+kjv: "And she brought forth a man child, who was to rule all nations with a rod of iron: and her child was caught up unto God, and to his throne."
+bsb: "And she gave birth to a son, a male child, who will rule all the nations with an iron scepter. And her child was caught up to God and to His throne."
+greek: "καὶ ἔτεκεν υἱὸν ἄρσεν, ὃς μέλλει ποιμαίνειν πάντα τὰ ἔθνη ἐν ῥάβδῳ σιδηρᾷ. καὶ ἡρπάσθη τὸ τέκνον αὐτῆς πρὸς τὸν θεὸν καὶ πρὸς τὸν θρόνον αὐτοῦ."
+pericope: "[[Rev.12.1 The Woman and the Dragon|The Woman and the Dragon]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 12
+book/chapter: "[[Rev.12|Revelation 12]]"
+chronological_order: 1179
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic IRON|IRON]]"
+- "[[topic SCEPTER (SCEPTRE)|SCEPTER (SCEPTRE)]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G5088]]"
+- "[[G5207]]"
+- "[[G0730]]"
+- "[[G3739]]"
+- "[[G3195]]"
+- "[[G4165]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1484]]"
+- "[[G1722]]"
+- "[[G4464]]"
+- "[[G4603]]"
+- "[[G0726]]"
+- "[[G5043]]"
+- "[[G0846]]"
+- "[[G4314]]"
+- "[[G2316]]"
+- "[[G2362]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 12:5**<big><big>[[Rev.12.1 The Woman and the Dragon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And she brought forth a man child, who was to rule all nations with a rod of iron: and her child was caught up unto God, and [to] his throne.
 <small><sub>**BSB:**</sub></small>
 And she gave birth to a son, a male child, who will rule all the nations with an iron scepter. And her child was caught up to God and to His throne.
-<small><sub>**Literal:**</sub></small>
-And she brought forth a son male, who is about to rule all the nations with a rod of iron. and was caught up the child of her to <the> God and to the throne of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.4|<< Revelation 12:4]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.6|Revelation 12:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5088\|ἔτεκεν]]  [[G5207\|υἱὸν]]  [[G0730\|ἄρσεν,]]  [[G3739\|ὃς]]  [[G3195\|μέλλει]]  [[G4165\|ποιμαίνειν]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G1484\|ἔθνη]]  [[G1722\|ἐν]]  [[G4464\|ῥάβδῳ]]  [[G4603\|σιδηρᾷ.]]  [[G2532\|καὶ]]  [[G0726\|ἡρπάσθη]]  [[G3588\|τὸ]]  [[G5043\|τέκνον]]  [[G0846\|αὐτῆς]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G2532\|καὶ]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2362\|θρόνον]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IRON|IRON]] • [[topic SCEPTER (SCEPTRE)|SCEPTER (SCEPTRE)]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.4|<< Revelation 12:4]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.6|Revelation 12:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 12:5** is...
 > $\quad$ possibly alluding to: [[LXX.Ps.2.10|Ps 2:10]]

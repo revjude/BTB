@@ -1,8 +1,62 @@
+---
+title: Ezekiel 27:25
+type: Verse
+kjv: "The ships of Tarshish did sing of thee in thy market: and thou wast replenished, and made very glorious in the midst of the seas."
+bsb: "The ships of Tarshish carried your merchandise. And you were filled with heavy cargo in the heart of the sea."
+hebrew: "אֳנִיּ֣וֹת תַּרְשִׁ֔ישׁ שָׁרוֹתַ֖יִךְ מַעֲרָבֵ֑ךְ וַתִּמָּלְאִ֧י וַֽתִּכְבְּדִ֛י מְאֹ֖ד בְּלֵ֥ב־ יַמִּֽים׃"
+pericope: "[[Ezek.27.1 A Lament for Tyre|A Lament for Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 27
+book/chapter: "[[Ezek.27|Ezekiel 27]]"
+chronological_order: 818
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic IMPORTS|IMPORTS]]"
+- "[[topic MARKET|MARKET]]"
+- "[[topic MERCHANT|MERCHANT]]"
+- "[[topic TARSHISH|TARSHISH]]"
+strongs:
+- "[[H0591]]"
+- "[[H8659H]]"
+- "[[H7788]]"
+- "[[H9022]]"
+- "[[H4627]]"
+- "[[H9001]]"
+- "[[H4390]]"
+- "[[H3513H]]"
+- "[[H3966]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H9014]]"
+- "[[H3220G]]"
+- "[[H9016]]"
+texts:
+- L
+- LB(ah)
+---
+
 **Ezekiel 27:25**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The ships of Tarshish did sing of thee in thy market: and thou wast replenished, and made very glorious in the midst of the seas.
 <small><sub>**BSB:**</sub></small>
 The ships of Tarshish carried your merchandise. And you were filled with heavy cargo in the heart of the sea.
+<small><sub>**Hebrew:**</sub></small>
+[[H0591\|אֳנִיּ֣וֹת]] [[H8659H\|תַּרְשִׁ֔ישׁ]] [[H7788\|שָׁרוֹתַ֖יִ]][[H9022\|ךְ]] [[H4627\|מַעֲרָבֵ֑]][[H9022\|ךְ]] [[H9001\|וַ]][[H4390\|תִּמָּלְאִ֧י]] [[H9001\|וַֽ]][[H3513H\|תִּכְבְּדִ֛י]] [[H3966\|מְאֹ֖ד]] [[H9003\|בְּ]][[H3820A\|לֵ֥ב]][[H9014\|־]] [[H3220G\|יַמִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic IMPORTS|IMPORTS]] • [[topic MARKET|MARKET]] • [[topic MERCHANT|MERCHANT]] • [[topic TARSHISH|TARSHISH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.24|<< Ezekiel 27:24]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.26|Ezekiel 27:26 >>]]</td></tr></table>
 

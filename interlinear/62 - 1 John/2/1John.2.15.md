@@ -1,10 +1,60 @@
+---
+title: 1 John 2:15
+type: Verse
+kjv: "Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him."
+bsb: "Do not love the world or anything in the world. If anyone loves the world, the love of the Father is not in him."
+greek: "Μὴ ἀγαπᾶτε τὸν κόσμον μηδὲ τὰ ἐν τῷ κόσμῳ. ἐάν τις ἀγαπᾷ τὸν κόσμον, οὐκ ἔστιν ἡ ἀγάπη τοῦ πατρὸς ἐν αὐτῷ·"
+pericope: "[[1John.2.15 Do Not Love the World|Do Not Love the World]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 2
+book/chapter: "[[1John.2|1 John 2]]"
+chronological_order: 1162
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G3361]]"
+- "[[G0025]]"
+- "[[G3588]]"
+- "[[G2889]]"
+- "[[G3366]]"
+- "[[G1722]]"
+- "[[G1437]]"
+- "[[G5100]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G0026]]"
+- "[[G3962]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **1 John 2:15**<big><big>[[1John.2.15 Do Not Love the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Love not the world, neither the things [that are] in the world. If any man love the world, the love of the Father is not in him.
 <small><sub>**BSB:**</sub></small>
 Do not love the world or anything in the world. If anyone loves the world, the love of the Father is not in him.
-<small><sub>**Literal:**</sub></small>
-Not do love the world nor the [things] in the world. If anyone shall love the world, not is the love of the Father in him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.14|<< 1 John 2:14]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.16|1 John 2:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|Μὴ]]  [[G0025\|ἀγαπᾶτε]]  [[G3588\|τὸν]]  [[G2889\|κόσμον]]  [[G3366\|μηδὲ]]  [[G3588\|τὰ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2889\|κόσμῳ.]]  [[G1437\|ἐάν]]  [[G5100\|τις]]  [[G0025\|ἀγαπᾷ]]  [[G3588\|τὸν]]  [[G2889\|κόσμον,]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G3588\|ἡ]]  [[G0026\|ἀγάπη]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic GOD|GOD]] • [[topic LOVE|LOVE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WORLDLINESS|WORLDLINESS]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.14|<< 1 John 2:14]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.16|1 John 2:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,6 +1,65 @@
+---
+title: LXX Ezekiel 31:3
+type: Verse
+lxx: "Behold, Assyria was a cypress in  Lebanon, and goodly in shoots, and dense in the protection, and high  in size; and his top came into the midst of the clouds."
+greek: "ιδού Ασσούρ κυπάρισσος εν τω Λιβάνω και καλός ταις παραφυάσι και πυκνός εν τη σκέπη και υψηλός τω μεγέθει και εις μέσον νεφελών εγένετο η αρχή αυτού"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 31
+book/chapter: "[[Ezek.31|Ezekiel 31]]"
+chronological_order: 822
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CEDAR|CEDAR]]"
+strongs:
+- "[[G2400]]"
+- "[[H0804]]"
+- "[[G8130]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[H3844]]"
+- "[[G2532]]"
+- "[[G2570]]"
+- "[[G3588]]"
+- "[[G8644]]"
+- "[[G2532]]"
+- "[[G4437]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G9098]]"
+- "[[G2532]]"
+- "[[G5308]]"
+- "[[G3588]]"
+- "[[G3174]]"
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[G3319]]"
+- "[[G3507]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G0746]]"
+- "[[G1473]]"
+---
+
 **LXX Ezekiel 31:3** 
 <small><sub>**LXX:**</sub></small>
 Behold, Assyria \[was\] a cypress in  Lebanon, and goodly in shoots, and dense in the protection, and high  in size; and his top came into \[the\] midst of \[the\] clouds. 
+<small><sub>**Greek:**</sub></small>
+[[G2400\|ιδού]] [[H0804\|Ασσούρ]] [[G8130\|κυπάρισσος]] [[G1722\|εν]] [[G3588\|τω]] [[H3844\|Λιβάνω]] [[G2532\|και]] [[G2570\|καλός]] [[G3588\|ταις]] [[G8644\|παραφυάσι]] [[G2532\|και]] [[G4437\|πυκνός]] [[G1722\|εν]] [[G3588\|τη]] [[G9098\|σκέπη]] [[G2532\|και]] [[G5308\|υψηλός]] [[G3588\|τω]] [[G3174\|μεγέθει]] [[G2532\|και]] [[G1519\|εις]] [[G3319\|μέσον]] [[G3507\|νεφελών]] [[G1096\|εγένετο]] [[G3588\|η]] [[G0746\|αρχή]] [[G1473\|αυτού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CEDAR|CEDAR]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.31.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.2|<< Ezekiel 31:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.4|Ezekiel 31:4 >>]]</td></tr></table>
 
@@ -32,6 +91,6 @@ Behold, Assyria \[was\] a cypress in  Lebanon, and goodly in shoots, and dense i
 | came | **<big>[[G1096\|εγένετο]]</big>** |
 | \<obj.> | **<big>[[G3588\|η]]</big>** |
 | his top | **<big>[[G0746\|αρχή]]</big>** **<big>[[G1473\|αυτού]]</big>** |
-[[Ezek.31.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.2|<< Ezekiel 31:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.4|Ezekiel 31:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.2|<< Ezekiel 31:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.4|Ezekiel 31:4 >>]]</td></tr></table>
 
 

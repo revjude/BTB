@@ -1,8 +1,70 @@
+---
+title: Zechariah 8:9
+type: Verse
+kjv: "Thus saith the LORD of hosts; Let your hands be strong, ye that hear in these days these words by the mouth of the prophets, which were in the day that the foundation of the house of the LORD of hosts was laid, that the temple might be built."
+bsb: "This is what the LORD of Hosts says: “Let your hands be strong, you who now hear these words spoken by the prophets who were present when the foundations were laid to rebuild the temple, the house of the LORD of Hosts."
+hebrew: "כֹּֽה־ אָמַר֮ יְהוָ֣ה צְבָאוֹת֒ תֶּחֱזַ֣קְנָה יְדֵיכֶ֔ם הַשֹּֽׁמְעִים֙ בַּיָּמִ֣ים הָאֵ֔לֶּה אֵ֖ת הַדְּבָרִ֣ים הָאֵ֑לֶּה מִפִּי֙ הַנְּבִיאִ֔ים אֲ֠שֶׁר בְּי֞וֹם יֻסַּ֨ד בֵּית־ יְהוָ֧ה צְבָא֛וֹת הַהֵיכָ֖ל לְהִבָּנֽוֹת׃"
+pericope: "[[Zech.8.1 The Restoration of Jerusalem|The Restoration of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 8
+book/chapter: "[[Zech.8|Zechariah 8]]"
+chronological_order: 864
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H2388G]]"
+- "[[H3027G]]"
+- "[[H9026]]"
+- "[[H9009]]"
+- "[[H8085G]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H0428]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H9006]]"
+- "[[H6310G]]"
+- "[[H5030]]"
+- "[[H0834A]]"
+- "[[H3245]]"
+- "[[H1004Q]]"
+- "[[H1964G]]"
+- "[[H9005]]"
+- "[[H1129]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 8:9**<big><big>[[Zech.8.1 The Restoration of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD of hosts; Let your hands be strong, ye that hear in these days these words by the mouth of the prophets, which [were] in the day [that] the foundation of the house of the LORD of hosts was laid, that the temple might be built.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD of Hosts says: “Let your hands be strong, you who now hear these words spoken by the prophets who were present when the foundations were laid to rebuild the temple, the house of the LORD of Hosts.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַר֮]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָאוֹת֒]] [[H2388G\|תֶּחֱזַ֣קְנָה]] [[H3027G\|יְדֵי]][[H9026\|כֶ֔ם]] [[H9009\|הַ]][[H8085G\|שֹּֽׁמְעִים֙]] [[H9003\|בַּ]][[H3117G\|יָּמִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H0853\|אֵ֖ת]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֑לֶּה]] [[H9006\|מִ]][[H6310G\|פִּי֙]] [[H9009\|הַ]][[H5030\|נְּבִיאִ֔ים]] [[H0834A\|אֲ֠שֶׁר]] [[H9003\|בְּ]][[H3117G\|י֞וֹם]] [[H3245\|יֻסַּ֨ד]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְהוָ֧ה]] [[H6635B\|צְבָא֛וֹת]] [[H9009\|הַ]][[H1964G\|הֵיכָ֖ל]] [[H9005\|לְ]][[H1129\|הִבָּנֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic FAITH|FAITH]] • [[topic GENTILES|GENTILES]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.8.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.8.8|<< Zechariah 8:8]]</td><td align="center" style="border:none;">[[Zech.8|Zechariah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.8.10|Zechariah 8:10 >>]]</td></tr></table>
 

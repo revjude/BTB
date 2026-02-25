@@ -1,8 +1,70 @@
+---
+title: Leviticus 5:9
+type: Verse
+kjv: "And he shall sprinkle of the blood of the sin offering upon the side of the altar; and the rest of the blood shall be wrung out at the bottom of the altar: it is a sin offering."
+bsb: "then he is to sprinkle some of the blood of the sin offering on the side of the altar, while the rest of the blood is drained out at the base of the altar. It is a sin offering."
+hebrew: "וְהִזָּ֞ה מִדַּ֤ם הַחַטָּאת֙ עַל־ קִ֣יר הַמִּזְבֵּ֔חַ וְהַנִּשְׁאָ֣ר בַּדָּ֔ם יִמָּצֵ֖ה אֶל־ יְס֣וֹד הַמִּזְבֵּ֑חַ חַטָּ֖את הֽוּא׃"
+pericope: "[[Lev.5.1 Sins Requiring a Sin Offering|Sins Requiring a Sin Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 5
+book/chapter: "[[Lev.5|Leviticus 5]]"
+chronological_order: 137
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic DOVE, TURTLE|DOVE, TURTLE]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5137A]]"
+- "[[H9006]]"
+- "[[H1818]]"
+- "[[H9009]]"
+- "[[H2403H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7023]]"
+- "[[H4196]]"
+- "[[H9002]]"
+- "[[H7604]]"
+- "[[H9003]]"
+- "[[H4680]]"
+- "[[H0413]]"
+- "[[H3247H]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 5:9**<big><big>[[Lev.5.1 Sins Requiring a Sin Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall sprinkle of the blood of the sin offering upon the side of the altar; and the rest of the blood shall be wrung out at the bottom of the altar: it [is] a sin offering.
 <small><sub>**BSB:**</sub></small>
 then he is to sprinkle some of the blood of the sin offering on the side of the altar, while the rest of the blood is drained out at the base of the altar. It is a sin offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5137A\|הִזָּ֞ה]] [[H9006\|מִ]][[H1818\|דַּ֤ם]] [[H9009\|הַ]][[H2403H\|חַטָּאת֙]] [[H5921A\|עַל]][[H9014\|־]] [[H7023\|קִ֣יר]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֔חַ]] [[H9002\|וְ]][[H9009\|הַ]][[H7604\|נִּשְׁאָ֣ר]] [[H9003\|בַּ]][[H1818\|דָּ֔ם]] [[H4680\|יִמָּצֵ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3247H\|יְס֣וֹד]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֑חַ]] [[H2403H\|חַטָּ֖את]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BLOOD|BLOOD]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic DOVE, TURTLE|DOVE, TURTLE]] • [[topic IGNORANCE|IGNORANCE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SIN|SIN]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.5.8|<< Leviticus 5:8]]</td><td align="center" style="border:none;">[[Lev.5|Leviticus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.5.10|Leviticus 5:10 >>]]</td></tr></table>
 

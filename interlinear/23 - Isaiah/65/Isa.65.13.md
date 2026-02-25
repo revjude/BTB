@@ -1,8 +1,66 @@
+---
+title: Isaiah 65:13
+type: Verse
+kjv: "Therefore thus saith the Lord GOD, Behold, my servants shall eat, but ye shall be hungry: behold, my servants shall drink, but ye shall be thirsty: behold, my servants shall rejoice, but ye shall be ashamed:"
+bsb: "Therefore this is what the Lord GOD says: “My servants will eat, but you will go hungry; My servants will drink, but you will go thirsty; My servants will rejoice, but you will be put to shame."
+hebrew: "לָכֵ֞ן כֹּה־ אָמַ֣ר׀ אֲדֹנָ֣י יְהוִ֗ה הִנֵּ֨ה עֲבָדַ֤י׀ יֹאכֵ֙לוּ֙ וְאַתֶּ֣ם תִּרְעָ֔בוּ הִנֵּ֧ה עֲבָדַ֛י יִשְׁתּ֖וּ וְאַתֶּ֣ם תִּצְמָ֑אוּ הִנֵּ֧ה עֲבָדַ֛י יִשְׂמָ֖חוּ וְאַתֶּ֥ם תֵּבֹֽשׁוּ׃"
+pericope: "[[Isa.65.1 Judgments and Promises|Judgments and Promises]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 65
+book/chapter: "[[Isa.65|Isaiah 65]]"
+chronological_order: 704
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H9015]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2009]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H0398]]"
+- "[[H9002]]"
+- "[[H0859D]]"
+- "[[H7456]]"
+- "[[H8354]]"
+- "[[H6770]]"
+- "[[H8055]]"
+- "[[H0954]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 65:13**<big><big>[[Isa.65.1 Judgments and Promises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the Lord GOD, Behold, my servants shall eat, but ye shall be hungry: behold, my servants shall drink, but ye shall be thirsty: behold, my servants shall rejoice, but ye shall be ashamed:
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the Lord GOD says: “My servants will eat, but you will go hungry; My servants will drink, but you will go thirsty; My servants will rejoice, but you will be put to shame.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֞ן]] [[H3541\|כֹּה]][[H9014\|־]] [[H0559\|אָמַ֣ר]][[H9015\|׀]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֗ה]] [[H2009\|הִנֵּ֨ה]] [[H5650\|עֲבָדַ֤]][[H9020\|י]][[H9015\|׀]] [[H0398\|יֹאכֵ֙לוּ֙]] [[H9002\|וְ]][[H0859D\|אַתֶּ֣ם]] [[H7456\|תִּרְעָ֔בוּ]] [[H2009\|הִנֵּ֧ה]] [[H5650\|עֲבָדַ֛]][[H9020\|י]] [[H8354\|יִשְׁתּ֖וּ]] [[H9002\|וְ]][[H0859D\|אַתֶּ֣ם]] [[H6770\|תִּצְמָ֑אוּ]] [[H2009\|הִנֵּ֧ה]] [[H5650\|עֲבָדַ֛]][[H9020\|י]] [[H8055\|יִשְׂמָ֖חוּ]] [[H9002\|וְ]][[H0859D\|אַתֶּ֥ם]] [[H0954\|תֵּבֹֽשׁוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.12|<< Isaiah 65:12]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.14|Isaiah 65:14 >>]]</td></tr></table>
 

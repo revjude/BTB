@@ -1,10 +1,69 @@
+---
+title: Luke 22:61
+type: Verse
+kjv: "And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how he had said unto him, Before the cock crow, thou shalt deny me thrice."
+bsb: "And the Lord turned and looked at Peter. Then Peter remembered the word that the Lord had spoken to him: “Before the rooster crows today, you will deny Me three times.”"
+greek: "καὶ στραφεὶς ὁ κύριος ἐνέβλεψεν τῷ Πέτρῳ, καὶ ὑπεμνήσθη ὁ Πέτρος τοῦ ῥήματος τοῦ κυρίου ὡς εἶπεν αὐτῷ ὅτι πρὶν ἀλέκτορα φωνῆσαι σήμερον ἀπαρνήσῃ με τρίς."
+pericope: "[[Luke.22.54 Peter Denies Jesus|Peter Denies Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G2532]]"
+- "[[G4762]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G1689]]"
+- "[[G4074G]]"
+- "[[G5279]]"
+- "[[G4487]]"
+- "[[G5613]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G4250]]"
+- "[[G0220]]"
+- "[[G5455]]"
+- "[[G4594]]"
+- "[[G0533]]"
+- "[[G3165]]"
+- "[[G5151]]"
+texts:
+- NKO
+- N(k)O
+- NO
+---
+
 **Luke 22:61**<big><big>[[Luke.22.54 Peter Denies Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how he had said unto him, Before the cock crow, thou shalt deny me thrice.
 <small><sub>**BSB:**</sub></small>
 And the Lord turned and looked at Peter. Then Peter remembered the word that the Lord had spoken to him: “Before the rooster crows today, you will deny Me three times.”
-<small><sub>**Literal:**</sub></small>
-And having turned the Lord looked at <the> Peter, and remembered <the> Peter the declaration of the Lord how He had said to him that Before [the] rooster crowing today you will deny Me three times.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.60|<< Luke 22:60]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.62|Luke 22:62 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4762\|στραφεὶς]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G1689\|ἐνέβλεψεν]]  [[G3588\|τῷ]]  [[G4074G\|Πέτρῳ,]]  [[G2532\|καὶ]]  [[G5279\|ὑπεμνήσθη]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G3588\|τοῦ]]  [[G4487\|ῥήματος]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G5613\|ὡς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ]]  [[G3754G\|ὅτι]]  [[G4250\|πρὶν]]  [[G0220\|ἀλέκτορα]]  [[G5455\|φωνῆσαι]]  [[G4594\|σήμερον]]  [[G0533\|ἀπαρνήσῃ]]  [[G3165\|με]]  [[G5151\|τρίς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.60|<< Luke 22:60]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.62|Luke 22:62 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

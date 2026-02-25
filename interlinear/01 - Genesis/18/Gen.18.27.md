@@ -1,8 +1,72 @@
+---
+title: Genesis 18:27
+type: Verse
+kjv: "And Abraham answered and said, Behold now, I have taken upon me to speak unto the Lord, which am but dust and ashes:"
+bsb: "Then Abraham answered, “Now that I have ventured to speak to the Lord—though I am but dust and ashes—"
+hebrew: "וַיַּ֥עַן אַבְרָהָ֖ם וַיֹּאמַ֑ר הִנֵּה־ נָ֤א הוֹאַ֙לְתִּי֙ לְדַבֵּ֣ר אֶל־ אֲדֹנָ֔י וְאָנֹכִ֖י עָפָ֥ר וָאֵֽפֶר׃"
+pericope: "[[Gen.18.16 Abraham Intercedes for Sodom|Abraham Intercedes for Sodom]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 18
+book/chapter: "[[Gen.18|Genesis 18]]"
+chronological_order: 60
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BOLDNESS|BOLDNESS]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic CURIOSITY|CURIOSITY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SODOM|SODOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H0085]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H2974]]"
+- "[[H9005]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H0136]]"
+- "[[H9002]]"
+- "[[H0595]]"
+- "[[H6083]]"
+- "[[H0665]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 18:27**<big><big>[[Gen.18.16 Abraham Intercedes for Sodom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abraham answered and said, Behold now, I have taken upon me to speak unto the Lord, which [am but] dust and ashes:
 <small><sub>**BSB:**</sub></small>
 Then Abraham answered, “Now that I have ventured to speak to the Lord—though I am but dust and ashes—
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֥עַן]] [[H0085\|אַבְרָהָ֖ם]] [[H9001\|וַ]][[H0559\|יֹּאמַ֑ר]] [[H2009\|הִנֵּה]][[H9014\|־]] [[H4994\|נָ֤א]] [[H2974\|הוֹאַ֙לְתִּי֙]] [[H9005\|לְ]][[H1696G\|דַבֵּ֣ר]] [[H0413\|אֶל]][[H9014\|־]] [[H0136\|אֲדֹנָ֔י]] [[H9002\|וְ]][[H0595\|אָנֹכִ֖י]] [[H6083\|עָפָ֥ר]] [[H9002\|וָ]][[H0665\|אֵֽפֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BOLDNESS|BOLDNESS]] • [[topic COMMUNION|COMMUNION]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic CURIOSITY|CURIOSITY]] • [[topic GOD|GOD]] • [[topic HUMILITY|HUMILITY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic LIFE|LIFE]] • [[topic PRAYER|PRAYER]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic RELIGION|RELIGION]] • [[topic SODOM|SODOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.18.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.26|<< Genesis 18:26]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.28|Genesis 18:28 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Ezekiel 43:3
+type: Verse
+kjv: "And it was according to the appearance of the vision which I saw, even according to the vision that I saw when I came to destroy the city: and the visions were like the vision that I saw by the river Chebar; and I fell upon my face."
+bsb: "The vision I saw was like the vision I had seen when He came to destroy the city and like the visions I had seen by the River Kebar. I fell facedown,"
+hebrew: "וּכְמַרְאֵ֨ה הַמַּרְאֶ֜ה אֲשֶׁ֣ר רָאִ֗יתִי כַּמַּרְאֶ֤ה אֲשֶׁר־ רָאִ֙יתִי֙ בְּבֹאִי֙ לְשַׁחֵ֣ת אֶת־ הָעִ֔יר וּמַרְא֕וֹת כַּמַּרְאֶ֕ה אֲשֶׁ֥ר רָאִ֖יתִי אֶל־ נְהַר־ כְּבָ֑ר וָאֶפֹּ֖ל אֶל־ פָּנָֽי׃"
+pericope: "[[Ezek.43.1 The Glory of the LORD Returns to the Temple|The Glory of the LORD Returns to the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 43
+book/chapter: "[[Ezek.43|Ezekiel 43]]"
+chronological_order: 834
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHEBAR|CHEBAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H4758]]"
+- "[[H9009]]"
+- "[[H0834A]]"
+- "[[H7200G]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H0935G]]"
+- "[[H9040]]"
+- "[[H9005]]"
+- "[[H7843]]"
+- "[[H0853]]"
+- "[[H5892B]]"
+- "[[H4759A]]"
+- "[[H0413]]"
+- "[[H5104H]]"
+- "[[H3529]]"
+- "[[H9001]]"
+- "[[H5307G]]"
+- "[[H6440H]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 43:3**<big><big>[[Ezek.43.1 The Glory of the LORD Returns to the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [it was] according to the appearance of the vision which I saw, [even] according to the vision that I saw when I came to destroy the city: and the visions [were] like the vision that I saw by the river Chebar; and I fell upon my face.
 <small><sub>**BSB:**</sub></small>
 The vision I saw was like the vision I had seen when He came to destroy the city and like the visions I had seen by the River Kebar. I fell facedown,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9004\|כְ]][[H4758\|מַרְאֵ֨ה]] [[H9009\|הַ]][[H4758\|מַּרְאֶ֜ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H7200G\|רָאִ֗יתִי]] [[H9004\|כַּ]][[H4758\|מַּרְאֶ֤ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7200G\|רָאִ֙יתִי֙]] [[H9003\|בְּ]][[H0935G\|בֹאִ]][[H9040\|י֙]] [[H9005\|לְ]][[H7843\|שַׁחֵ֣ת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H9002\|וּ]][[H4759A\|מַרְא֕וֹת]] [[H9004\|כַּ]][[H4758\|מַּרְאֶ֕ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H7200G\|רָאִ֖יתִי]] [[H0413\|אֶל]][[H9014\|־]] [[H5104H\|נְהַר]][[H9014\|־]] [[H3529\|כְּבָ֑ר]] [[H9001\|וָ]][[H5307G\|אֶפֹּ֖ל]] [[H0413\|אֶל]][[H9014\|־]] [[H6440H\|פָּנָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHEBAR|CHEBAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.2|<< Ezekiel 43:2]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.4|Ezekiel 43:4 >>]]</td></tr></table>
 

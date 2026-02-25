@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Job：My Redeemer Lives
+type: Pericope
 pericope: "[[Job.19.1 Job：My Redeemer Lives|Job：My Redeemer Lives]]"
-verse_count: 29
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 19
 book/chapter: "[[Job.19|Job 19]]"
-genre:
+chronological_order: 30
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 29
 verses:
 - "[[Job.19.1]]"
 - "[[Job.19.2]]"
@@ -48,7 +55,7 @@ verses:
 - "[[Job.19.29]]"
 ---
 
-[[Job.19|Job 19:1 - Job 19:29]]
+<small>[[Job.19|Job 19:1-29]]</small>
 *Job：My Redeemer Lives*
 
 [[Job.19.1|1]] Then Job answered and said,

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: All Scripture Is God-Breathed
+type: Pericope
 pericope: "[[2Tim.3.10 All Scripture Is God-Breathed|All Scripture Is God-Breathed]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: 2 Timothy
 chapter: 3
 book/chapter: "[[2Tim.3|2 Timothy 3]]"
-genre:
+chronological_order: 1155
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - testament letter
+verse_count: 8
 verses:
 - "[[2Tim.3.10]]"
 - "[[2Tim.3.11]]"
@@ -26,7 +33,7 @@ verses:
 - "[[2Tim.3.17]]"
 ---
 
-[[2Tim.3|2 Timothy 3:10 - 2 Timothy 3:17]]
+<small>[[2Tim.3|2 Timothy 3:10-17]]</small>
 *All Scripture Is God-Breathed*
 
 [[2Tim.3.10|10]] But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, charity, patience,

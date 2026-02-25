@@ -33,7 +33,7 @@
 
 → Worldly enjoyment is [[Eccl.2.3|Ec 2:3]],[[Eccl.2.10|10]],[[Eccl.2.11|11]]
 
-→ Worldly possessions are  [[Eccl.2.4|Ec 2:4]]-[[Eccl.2.11|11]]
+→ Worldly possessions are  [[Eccl.2.4|Ec 2:4-11]]
 
 → Treasures of wickedness are [[Prov.10.2|Pr 10:2]]
 

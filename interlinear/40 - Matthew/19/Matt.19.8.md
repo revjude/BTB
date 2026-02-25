@@ -1,10 +1,61 @@
+---
+title: Matthew 19:8
+type: Verse
+kjv: "He saith unto them, Moses because of the hardness of your hearts suffered you to put away your wives: but from the beginning it was not so."
+bsb: "Jesus replied, “Moses permitted you to divorce your wives because of your hardness of heart. But it was not this way from the beginning."
+jesus_said: "Moses because of the hardness of your hearts suffered you to put away your wives: but from the beginning it was not so."
+greek: "Λέγει αὐτοῖς ὅτι Μωϋσῆς πρὸς τὴν σκληροκαρδίαν ὑμῶν ἐπέτρεψεν ὑμῖν ἀπολῦσαι τὰς γυναῖκας ὑμῶν· ἀπ᾽ ἀρχῆς δὲ οὐ γέγονεν οὕτως.¶"
+pericope: "[[Matt.19.1 Teachings about Divorce|Teachings about Divorce]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 19
+book/chapter: "[[Matt.19|Matthew 19]]"
+chronological_order: 986
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G3475]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G4641]]"
+- "[[G4771]]"
+- "[[G2010]]"
+- "[[G0630H]]"
+- "[[G1135H]]"
+- "[[G0575]]"
+- "[[G0746]]"
+- "[[G1161]]"
+- "[[G3756]]"
+- "[[G1096]]"
+- "[[G3779]]"
+texts:
+- NKO
+---
+
 **Matthew 19:8**<big><big>[[Matt.19.1 Teachings about Divorce|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He saith unto them, Moses because of the hardness of your hearts suffered you to put away your wives: but from the beginning it was not so.
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “Moses permitted you to divorce your wives because of your hardness of heart. But it was not this way from the beginning.
-<small><sub>**Literal:**</sub></small>
-He says to them that Moses in view of the hardness of heart of you allowed you to divorce the wives of you; from [the] beginning however not was [it] this way.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.7|<< Matthew 19:7]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.9|Matthew 19:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Λέγει]]  [[G0846\|αὐτοῖς]]  [[G3754G\|ὅτι]]  [[G3475\|Μωϋσῆς]]  [[G4314\|πρὸς]]  [[G3588\|τὴν]]  [[G4641\|σκληροκαρδίαν]]  [[G4771\|ὑμῶν]]  [[G2010\|ἐπέτρεψεν]]  [[G4771\|ὑμῖν]]  [[G0630H\|ἀπολῦσαι]]  [[G3588\|τὰς]]  [[G1135H\|γυναῖκας]]  [[G4771\|ὑμῶν·]]  [[G0575\|ἀπ᾽]]  [[G0746\|ἀρχῆς]]  [[G1161\|δὲ]]  [[G3756\|οὐ]]  [[G1096\|γέγονεν]]  [[G3779\|οὕτως.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIVORCE|DIVORCE]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARRIAGE|MARRIAGE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.7|<< Matthew 19:7]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.9|Matthew 19:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

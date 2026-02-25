@@ -1,8 +1,57 @@
+---
+title: Job 15:24
+type: Verse
+kjv: "Trouble and anguish shall make him afraid; they shall prevail against him, as a king ready to the battle."
+bsb: "Distress and anguish terrify him, overwhelming him like a king poised to attack."
+hebrew: "יְֽ֭בַעֲתֻהוּ צַ֣ר וּמְצוּקָ֑ה תִּ֝תְקְפֵ֗הוּ כְּמֶ֤לֶךְ׀ עָתִ֬יד לַכִּידֽוֹר׃"
+pericope: "[[Job.15.1 Eliphaz：Job Does Not Fear God|Eliphaz：Job Does Not Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 15
+book/chapter: "[[Job.15|Job 15]]"
+chronological_order: 26
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1204]]"
+- "[[H9033]]"
+- "[[H6862B]]"
+- "[[H9002]]"
+- "[[H4691]]"
+- "[[H8630]]"
+- "[[H9004]]"
+- "[[H4428G]]"
+- "[[H9015]]"
+- "[[H6264]]"
+- "[[H9005]]"
+- "[[H3593]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 15:24**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Trouble and anguish shall make him afraid; they shall prevail against him, as a king ready to the battle.
 <small><sub>**BSB:**</sub></small>
 Distress and anguish terrify him, overwhelming him like a king poised to attack.
+<small><sub>**Hebrew:**</sub></small>
+[[H1204\|יְֽ֭בַעֲתֻ]][[H9033\|הוּ]] [[H6862B\|צַ֣ר]] [[H9002\|וּ]][[H4691\|מְצוּקָ֑ה]] [[H8630\|תִּ֝תְקְפֵ֗]][[H9033\|הוּ]] [[H9004\|כְּ]][[H4428G\|מֶ֤לֶךְ]][[H9015\|׀]] [[H6264\|עָתִ֬יד]] [[H9005\|לַ]][[H3593\|כִּידֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic COWARDICE|COWARDICE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.23|<< Job 15:23]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.25|Job 15:25 >>]]</td></tr></table>
 

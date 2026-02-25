@@ -1,10 +1,60 @@
+---
+title: Acts 13:23
+type: Verse
+kjv: "Of this man’s seed hath God according to his promise raised unto Israel a Saviour, Jesus:"
+bsb: "From the descendants of this man, God has brought to Israel the Savior Jesus, as He promised."
+greek: "τούτου ὁ θεὸς ἀπὸ τοῦ σπέρματος κατ᾽ ἐπαγγελίαν ἤγαγεν τῷ Ἰσραὴλ σωτῆρα Ἰησοῦν,"
+pericope: "[[Acts.13.13 In Pisidian Antioch|In Pisidian Antioch]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G0575]]"
+- "[[G4690G]]"
+- "[[G2596]]"
+- "[[G1860]]"
+- "[[G0071]]"
+- "[[G2474]]"
+- "[[G4990]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- N(K)O
+- NK(O)
+---
+
 **Acts 13:23**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Of this man’s seed hath God according to [his] promise raised unto Israel a Saviour, Jesus:
 <small><sub>**BSB:**</sub></small>
 From the descendants of this man, God has brought to Israel the Savior Jesus, as He promised.
-<small><sub>**Literal:**</sub></small>
-Of this [man] the God of the seed according to promise has brought <the> to Israel [the] Savior Jesus —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.22|<< Acts 13:22]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.24|Acts 13:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τούτου]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G4690G\|σπέρματος]]  [[G2596\|κατ᾽]]  [[G1860\|ἐπαγγελίαν]]  [[G0071\|ἤγαγεν]]  [[G3588\|τῷ]]  [[G2474\|Ἰσραὴλ]]  [[G4990\|σωτῆρα]]  [[G2424G\|Ἰησοῦν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic DAVID|DAVID]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PREACHING|PREACHING]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.22|<< Acts 13:22]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.24|Acts 13:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,69 @@
+---
+title: Judges 11:17
+type: Verse
+kjv: "Then Israel sent messengers unto the king of Edom, saying, Let me, I pray thee, pass through thy land: but the king of Edom would not hearken thereto. And in like manner they sent unto the king of Moab: but he would not consent: and Israel abode in Kadesh."
+bsb: "Then Israel sent messengers to the king of Edom, saying, ‘Please let us pass through your land,’ but the king of Edom would not listen. They also sent messengers to the king of Moab, but he would not consent. So Israel stayed in Kadesh."
+hebrew: "וַיִּשְׁלַ֣ח יִשְׂרָאֵ֣ל מַלְאָכִ֣ים׀ אֶל־ מֶלֶךְ֩ אֱד֨וֹם׀ לֵאמֹ֜ר אֶעְבְּרָה־ נָּ֣א בְאַרְצֶ֗ךָ וְלֹ֤א שָׁמַע֙ מֶ֣לֶךְ אֱד֔וֹם וְגַ֨ם אֶל־ מֶ֧לֶךְ מוֹאָ֛ב שָׁלַ֖ח וְלֹ֣א אָבָ֑ה וַיֵּ֥שֶׁב יִשְׂרָאֵ֖ל בְּקָדֵֽשׁ׃"
+pericope: "[[Judg.11.1 Jephthah Delivers Israel|Jephthah Delivers Israel]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 11
+book/chapter: "[[Judg.11|Judges 11]]"
+chronological_order: 265
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic JEPHTHAH|JEPHTHAH]]"
+- "[[topic MOABITES|MOABITES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H3478]]"
+- "[[H4397G]]"
+- "[[H9015]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H0123G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H5674A]]"
+- "[[H4994]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H1571]]"
+- "[[H4124G]]"
+- "[[H0014]]"
+- "[[H3427]]"
+- "[[H6946G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 11:17**<big><big>[[Judg.11.1 Jephthah Delivers Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Israel sent messengers unto the king of Edom, saying, Let me, I pray thee, pass through thy land: but the king of Edom would not hearken [thereto]. And in like manner they sent unto the king of Moab: but he would not [consent]: and Israel abode in Kadesh.
 <small><sub>**BSB:**</sub></small>
 Then Israel sent messengers to the king of Edom, saying, ‘Please let us pass through your land,’ but the king of Edom would not listen. They also sent messengers to the king of Moab, but he would not consent. So Israel stayed in Kadesh.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֣ח]] [[H3478\|יִשְׂרָאֵ֣ל]] [[H4397G\|מַלְאָכִ֣ים]][[H9015\|׀]] [[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶלֶךְ֩]] [[H0123G\|אֱד֨וֹם]][[H9015\|׀]] [[H9005\|לֵ]][[H0559\|אמֹ֜ר]] [[H5674A\|אֶעְבְּרָה]][[H9014\|־]] [[H4994\|נָּ֣א]] [[H9003\|בְ]][[H0776G\|אַרְצֶ֗]][[H9021\|ךָ]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H8085G\|שָׁמַע֙]] [[H4428G\|מֶ֣לֶךְ]] [[H0123G\|אֱד֔וֹם]] [[H9002\|וְ]][[H1571\|גַ֨ם]] [[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֧לֶךְ]] [[H4124G\|מוֹאָ֛ב]] [[H7971G\|שָׁלַ֖ח]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H0014\|אָבָ֑ה]] [[H9001\|וַ]][[H3427\|יֵּ֥שֶׁב]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בְּ]][[H6946G\|קָדֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBASSADORS|AMBASSADORS]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic JEPHTHAH|JEPHTHAH]] • [[topic MOABITES|MOABITES]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.16|<< Judges 11:16]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.18|Judges 11:18 >>]]</td></tr></table>
 

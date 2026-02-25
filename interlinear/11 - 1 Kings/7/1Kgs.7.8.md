@@ -1,8 +1,66 @@
+---
+title: 1 Kings 7:8
+type: Verse
+kjv: "And his house where he dwelt had another court within the porch, which was of the like work. Solomon made also an house for Pharaoh’s daughter, whom he had taken to wife, like unto this porch."
+bsb: "And the palace where Solomon would live, set further back, was of similar construction. He also made a palace like this hall for Pharaoh’s daughter, whom he had married."
+hebrew: "וּבֵיתוֹ֩ אֲשֶׁר־ יֵ֨שֶׁב שָׁ֜ם חָצֵ֣ר הָאַחֶ֗רֶת מִבֵּית֙ לָֽאוּלָ֔ם כַּמַּֽעֲשֶׂ֥ה הַזֶּ֖ה הָיָ֑ה וּבַ֜יִת יַעֲשֶׂ֤ה לְבַת־ פַּרְעֹה֙ אֲשֶׁ֣ר לָקַ֣ח שְׁלֹמֹ֔ה כָּאוּלָ֖ם הַזֶּֽה׃"
+pericope: "[[1Kgs.7.1 Solomon’s Palace Complex|Solomon’s Palace Complex]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic PALACE|PALACE]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9002]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3427]]"
+- "[[H8033G]]"
+- "[[H2691A]]"
+- "[[H9009]]"
+- "[[H0312]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H0197G]]"
+- "[[H9004]]"
+- "[[H4639G]]"
+- "[[H2088]]"
+- "[[H1961]]"
+- "[[H6213H]]"
+- "[[H1323G]]"
+- "[[H6547K]]"
+- "[[H3947I]]"
+- "[[H8010]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 7:8**<big><big>[[1Kgs.7.1 Solomon’s Palace Complex|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his house where he dwelt [had] another court within the porch, [which] was of the like work. Solomon made also an house for Pharaoh’s daughter, whom he had taken [to wife], like unto this porch.
 <small><sub>**BSB:**</sub></small>
 And the palace where Solomon would live, set further back, was of similar construction. He also made a palace like this hall for Pharaoh’s daughter, whom he had married.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1004B\|בֵית]][[H9023\|וֹ֩]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3427\|יֵ֨שֶׁב]] [[H8033G\|שָׁ֜ם]] [[H2691A\|חָצֵ֣ר]] [[H9009\|הָ]][[H0312\|אַחֶ֗רֶת]] [[H9006\|מִ]][[H1004B\|בֵּית֙]] [[H9005\|לָֽ]][[H0197G\|אוּלָ֔ם]] [[H9004\|כַּ]][[H4639G\|מַּֽעֲשֶׂ֥ה]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H1961\|הָיָ֑ה]] [[H9002\|וּ]][[H1004B\|בַ֜יִת]] [[H6213H\|יַעֲשֶׂ֤ה]] [[H9005\|לְ]][[H1323G\|בַת]][[H9014\|־]] [[H6547K\|פַּרְעֹה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3947I\|לָקַ֣ח]] [[H8010\|שְׁלֹמֹ֔ה]] [[H9004\|כָּ]][[H0197G\|אוּלָ֖ם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PALACE|PALACE]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.7|<< 1 Kings 7:7]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.9|1 Kings 7:9 >>]]</td></tr></table>
 

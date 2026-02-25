@@ -1,10 +1,69 @@
+---
+title: Revelation 22:6
+type: Verse
+kjv: "And he said unto me, These sayings are faithful and true: and the Lord God of the holy prophets sent his angel to shew unto his servants the things which must shortly be done."
+bsb: "Then the angel said to me, “These words are faithful and true. The Lord, the God of the spirits of the prophets, has sent His angel to show His servants what must soon take place.”"
+greek: "Καὶ εἶπέν μοι· οὗτοι οἱ λόγοι πιστοὶ καὶ ἀληθινοί, καὶ ὁ κύριος ὁ θεὸς τῶν πνευμάτων τῶν προφητῶν ἀπέστειλεν τὸν ἄγγελον αὐτοῦ δεῖξαι τοῖς δούλοις αὐτοῦ ἃ δεῖ γενέσθαι ἐν τάχει."
+pericope: "[[Rev.22.6 Jesus Is Coming|Jesus Is Coming]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 22
+book/chapter: "[[Rev.22|Revelation 22]]"
+chronological_order: 1189
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3165]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G4103]]"
+- "[[G0228]]"
+- "[[G2962G]]"
+- "[[G2316]]"
+- "[[G4151G]]"
+- "[[G4396]]"
+- "[[G0649]]"
+- "[[G0032G]]"
+- "[[G0846]]"
+- "[[G1166]]"
+- "[[G1401]]"
+- "[[G3739]]"
+- "[[G1163]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G5034]]"
+texts:
+- NKO
+- NK(o)
+- no
+- N(K)O
+---
+
 **Revelation 22:6**<big><big>[[Rev.22.6 Jesus Is Coming|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto me, These sayings [are] faithful and true: and the Lord God of the holy prophets sent his angel to shew unto his servants the things which must shortly be done.
 <small><sub>**BSB:**</sub></small>
 Then the angel said to me, “These words are faithful and true. The Lord, the God of the spirits of the prophets, has sent His angel to show His servants what must soon take place.”
-<small><sub>**Literal:**</sub></small>
-And he said to me; These <the> words [are] faithful and true, And the Lord the God of the spirits of the prophets sent the angel of Him to show to the servants of Him [the things] that must come to pass with speed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.5|<< Revelation 22:5]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.7|Revelation 22:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2036\|εἶπέν]]  [[G3165\|μοι·]]  [[G3778\|οὗτοι]]  [[G3588\|οἱ]]  [[G3056\|λόγοι]]  [[G4103\|πιστοὶ]]  [[G2532\|καὶ]]  [[G0228\|ἀληθινοί,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τῶν]]  [[G4151G\|πνευμάτων]]  [[G3588\|τῶν]]  [[G4396\|προφητῶν]]  [[G0649\|ἀπέστειλεν]]  [[G3588\|τὸν]]  [[G0032G\|ἄγγελον]]  [[G0846\|αὐτοῦ]]  [[G1166\|δεῖξαι]]  [[G3588\|τοῖς]]  [[G1401\|δούλοις]]  [[G0846\|αὐτοῦ]]  [[G3739\|ἃ]]  [[G1163\|δεῖ]]  [[G1096\|γενέσθαι]]  [[G1722\|ἐν]]  [[G5034\|τάχει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic PROPHETS|PROPHETS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.5|<< Revelation 22:5]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.7|Revelation 22:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

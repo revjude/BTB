@@ -1,10 +1,62 @@
+---
+title: John 10:29
+type: Verse
+kjv: "My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father’s hand."
+bsb: "My Father who has given them to Me is greater than all. No one can snatch them out of My Father’s hand."
+jesus_said: "My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father’s hand."
+greek: "ὁ πατήρ μου ὃ δέδωκέν μοι πάντων μεῖζόν ἐστιν, καὶ οὐδεὶς δύναται ἁρπάζειν ἐκ τῆς χειρὸς τοῦ πατρός μου."
+pericope: "[[John.10.22 Jesus at the Feast of Dedication|Jesus at the Feast of Dedication]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 10
+book/chapter: "[[John.10|John 10]]"
+chronological_order: 984
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic POWER|POWER]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G3739]]"
+- "[[G1325]]"
+- "[[G3956]]"
+- "[[G3173]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G3762]]"
+- "[[G1410]]"
+- "[[G0726]]"
+- "[[G1537]]"
+- "[[G5495]]"
+texts:
+- NKO
+- N(k)O
+- ko
+---
+
 **John 10:29**<big><big>[[John.10.22 Jesus at the Feast of Dedication|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 My Father, which gave [them] me, is greater than all; and no [man] is able to pluck [them] out of my Father’s hand.
 <small><sub>**BSB:**</sub></small>
 My Father who has given them to Me is greater than all. No one can snatch them out of My Father’s hand.
-<small><sub>**Literal:**</sub></small>
-The Father of Mine which has given [them] to Me [than] all greater is, and no [one] is able to seize [them] out of the hand the Father of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.28|<< John 10:28]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.30|John 10:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G3962\|πατήρ]]  [[G3165\|μου]]  [[G3739\|ὃ]]  [[G1325\|δέδωκέν]]  [[G3165\|μοι]]  [[G3956\|πάντων]]  [[G3173\|μεῖζόν]]  [[G1510\|ἐστιν,]]  [[G2532\|καὶ]]  [[G3762\|οὐδεὶς]]  [[G1410\|δύναται]]  [[G0726\|ἁρπάζειν]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G5495\|χειρὸς]]  [[G3588\|τοῦ]]  [[G3962\|πατρός]]  [[G3165\|μου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic POWER|POWER]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.28|<< John 10:28]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.30|John 10:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

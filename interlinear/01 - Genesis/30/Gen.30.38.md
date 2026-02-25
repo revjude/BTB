@@ -1,8 +1,72 @@
+---
+title: Genesis 30:38
+type: Verse
+kjv: "And he set the rods which he had pilled before the flocks in the gutters in the watering troughs when the flocks came to drink, that they should conceive when they came to drink."
+bsb: "Then he set the peeled branches in the watering troughs in front of the flocks coming in to drink. So when the flocks were in heat and came to drink,"
+hebrew: "וַיַּצֵּ֗ג אֶת־ הַמַּקְלוֹת֙ אֲשֶׁ֣ר פִּצֵּ֔ל בָּרֳהָטִ֖ים בְּשִֽׁקֲת֣וֹת הַמָּ֑יִם אֲשֶׁר֩ תָּבֹ֨אןָ הַצֹּ֤אן לִשְׁתּוֹת֙ לְנֹ֣כַח הַצֹּ֔אן וַיֵּחַ֖מְנָה בְּבֹאָ֥ן לִשְׁתּֽוֹת׃"
+pericope: "[[Gen.30.25 Jacob Prospers|Jacob Prospers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 30
+book/chapter: "[[Gen.30|Genesis 30]]"
+chronological_order: 72
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic SON-IN-LAW|SON-IN-LAW]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3322]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4731]]"
+- "[[H0834A]]"
+- "[[H6478]]"
+- "[[H9003]]"
+- "[[H7298A]]"
+- "[[H8268]]"
+- "[[H4325G]]"
+- "[[H0935G]]"
+- "[[H6629G]]"
+- "[[H9005]]"
+- "[[H8354]]"
+- "[[H5227]]"
+- "[[H3179]]"
+- "[[H9049]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 30:38**<big><big>[[Gen.30.25 Jacob Prospers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he set the rods which he had pilled before the flocks in the gutters in the watering troughs when the flocks came to drink, that they should conceive when they came to drink.
 <small><sub>**BSB:**</sub></small>
 Then he set the peeled branches in the watering troughs in front of the flocks coming in to drink. So when the flocks were in heat and came to drink,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3322\|יַּצֵּ֗ג]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4731\|מַּקְלוֹת֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6478\|פִּצֵּ֔ל]] [[H9003\|בָּ]][[H7298A\|רֳהָטִ֖ים]] [[H9003\|בְּ]][[H8268\|שִֽׁקֲת֣וֹת]] [[H9009\|הַ]][[H4325G\|מָּ֑יִם]] [[H0834A\|אֲשֶׁר֩]] [[H0935G\|תָּבֹ֨אןָ]] [[H9009\|הַ]][[H6629G\|צֹּ֤אן]] [[H9005\|לִ]][[H8354\|שְׁתּוֹת֙]] [[H9005\|לְ]][[H5227\|נֹ֣כַח]] [[H9009\|הַ]][[H6629G\|צֹּ֔אן]] [[H9001\|וַ]][[H3179\|יֵּחַ֖מְנָה]] [[H9003\|בְּ]][[H0935G\|בֹאָ֥]][[H9049\|ן]] [[H9005\|לִ]][[H8354\|שְׁתּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic CONTRACTS|CONTRACTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic JACOB|JACOB]] • [[topic LABAN|LABAN]] • [[topic SHEEP|SHEEP]] • [[topic SON-IN-LAW|SON-IN-LAW]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.37|<< Genesis 30:37]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.39|Genesis 30:39 >>]]</td></tr></table>
 

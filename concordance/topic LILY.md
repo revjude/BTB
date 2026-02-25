@@ -5,7 +5,7 @@
 
 → Molded on the rim of the molten laver in the temple [[1Kgs.7.26|1Ki 7:26]]; [[2Chr.4.5|2Ch 4:5]]
 
-→ Lessons of trust gathered from [[Matt.6.28|Mt 6:28]]-[[Matt.6.30|30]]; [[Luke.12.27|Lu 12:27]]
+→ Lessons of trust gathered from [[Matt.6.28|Mt 6:28-30]]; [[Luke.12.27|Lu 12:27]]
 
 → FIGURATIVE
 

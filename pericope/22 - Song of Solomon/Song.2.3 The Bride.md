@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Bride
+type: Pericope
 pericope: "[[Song.2.3 The Bride|The Bride]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Song of Solomon
 chapter: 2
 book/chapter: "[[Song.2|Song of Solomon 2]]"
-genre:
+chronological_order: 449
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
 - poetry
 - love poetry
 - megillot
+verse_count: 11
 verses:
 - "[[Song.2.3]]"
 - "[[Song.2.4]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Song.2.13]]"
 ---
 
-[[Song.2|Song of Solomon 2:3 - Song of Solomon 2:13]]
+<small>[[Song.2|Song of Solomon 2:3-13]]</small>
 *The Bride*
 
 [[Song.2.3|3]] As the apple tree among the trees of the wood, so \[is\] my beloved among the sons. I sat down under his shadow with great delight, and his fruit \[was\] sweet to my taste.

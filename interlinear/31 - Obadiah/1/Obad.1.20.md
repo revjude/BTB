@@ -1,8 +1,57 @@
+---
+title: Obadiah 1:20
+type: Verse
+kjv: "And the captivity of this host of the children of Israel shall possess that of the Canaanites, even unto Zarephath; and the captivity of Jerusalem, which is in Sepharad, shall possess the cities of the south."
+bsb: "And the exiles of this host of the Israelites will possess the land of the Canaanites as far as Zarephath; and the exiles from Jerusalem who are in Sepharad will possess the cities of the Negev."
+hebrew: "וְגָלֻ֣ת הַֽחֵל־ הַ֠זֶּה לִבְנֵ֨י יִשְׂרָאֵ֤ל אֲשֶֽׁר־ כְּנַעֲנִים֙ עַד־ צָ֣רְפַ֔ת וְגָלֻ֥ת יְרוּשָׁלִַ֖ם אֲשֶׁ֣ר בִּסְפָרַ֑ד יִֽרְשׁ֕וּ אֵ֖ת עָרֵ֥י הַנֶּֽגֶב׃"
+pericope: "[[Obad.1.15 The Deliverance of Israel|The Deliverance of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Obadiah
+chapter: 1
+book/chapter: "[[Obad.1|Obadiah 1]]"
+chronological_order: 581
+era: Divided Kingdom
+period: "The Divided Kingdom: Obadiah's Prophecy"
+date: ~845 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H9002]]"
+- "[[H1546]]"
+- "[[H9009]]"
+- "[[H2426]]"
+- "[[H9014]]"
+- "[[H2088]]"
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H3669A]]"
+- "[[H5704]]"
+- "[[H6886]]"
+- "[[H3389]]"
+- "[[H9003]]"
+- "[[H5614]]"
+- "[[H3423H]]"
+- "[[H0853]]"
+- "[[H5892B]]"
+- "[[H5045G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Obadiah 1:20**<big><big>[[Obad.1.15 The Deliverance of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the captivity of this host of the children of Israel [shall possess] that of the Canaanites, [even] unto Zarephath; and the captivity of Jerusalem, which [is] in Sepharad, shall possess the cities of the south.
 <small><sub>**BSB:**</sub></small>
 And the exiles of this host of the Israelites will possess the land of the Canaanites as far as Zarephath; and the exiles from Jerusalem who are in Sepharad will possess the cities of the Negev.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1546\|גָלֻ֣ת]] [[H9009\|הַֽ]][[H2426\|חֵל]][[H9014\|־]] [[H9009\|הַ֠]][[H2088\|זֶּה]] [[H9005\|לִ]][[H1121G\|בְנֵ֨י]] [[H3478\|יִשְׂרָאֵ֤ל]] [[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H3669A\|כְּנַעֲנִים֙]] [[H5704\|עַד]][[H9014\|־]] [[H6886\|צָ֣רְפַ֔ת]] [[H9002\|וְ]][[H1546\|גָלֻ֥ת]] [[H3389\|יְרוּשָׁלִַ֖ם]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בִּ]][[H5614\|סְפָרַ֑ד]] [[H3423H\|יִֽרְשׁ֕וּ]] [[H0853\|אֵ֖ת]] [[H5892B\|עָרֵ֥י]] [[H9009\|הַ]][[H5045G\|נֶּֽגֶב]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.19|<< Obadiah 1:19]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.21|Obadiah 1:21 >>]]</td></tr></table>
 

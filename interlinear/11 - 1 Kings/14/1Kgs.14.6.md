@@ -1,8 +1,73 @@
+---
+title: 1 Kings 14:6
+type: Verse
+kjv: "And it was so, when Ahijah heard the sound of her feet, as she came in at the door, that he said, Come in, thou wife of Jeroboam; why feignest thou thyself to be another? for I am sent to thee with heavy tidings."
+bsb: "So when Ahijah heard the sound of her feet entering the door, he said, “Come in, wife of Jeroboam! Why are you disguised? For I have been sent to you with bad news."
+hebrew: "וַיְהִי֩ כִשְׁמֹ֨עַ אֲחִיָּ֜הוּ אֶת־ ק֤וֹל רַגְלֶ֙יהָ֙ בָּאָ֣ה בַפֶּ֔תַח וַיֹּ֕אמֶר בֹּ֖אִי אֵ֣שֶׁת יָרָבְעָ֑ם לָ֣מָּה זֶּ֗ה אַ֚תְּ מִתְנַכֵּרָ֔ה וְאָ֣נֹכִ֔י שָׁל֥וּחַ אֵלַ֖יִךְ קָשָֽׁה׃"
+pericope: "[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|Ahijah’s Prophecy against Jeroboam]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 14
+book/chapter: "[[1Kgs.14|1 Kings 14]]"
+chronological_order: 553
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ABIJAH|ABIJAH]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H0281H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6963H]]"
+- "[[H7272]]"
+- "[[H9024]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H6607]]"
+- "[[H0559]]"
+- "[[H0802H]]"
+- "[[H3379G]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H2088]]"
+- "[[H0859C]]"
+- "[[H5234B]]"
+- "[[H9002]]"
+- "[[H0595]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H9032]]"
+- "[[H7186]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 14:6**<big><big>[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was [so], when Ahijah heard the sound of her feet, as she came in at the door, that he said, Come in, thou wife of Jeroboam; why feignest thou thyself [to be] another? for I [am] sent to thee [with] heavy [tidings].
 <small><sub>**BSB:**</sub></small>
 So when Ahijah heard the sound of her feet entering the door, he said, “Come in, wife of Jeroboam! Why are you disguised? For I have been sent to you with bad news.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֩]] [[H9004\|כִ]][[H8085G\|שְׁמֹ֨עַ]] [[H0281H\|אֲחִיָּ֜הוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H6963H\|ק֤וֹל]] [[H7272\|רַגְלֶ֙י]][[H9024\|הָ֙]] [[H0935G\|בָּאָ֣ה]] [[H9003\|בַ]][[H6607\|פֶּ֔תַח]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H0935G\|בֹּ֖אִי]] [[H0802H\|אֵ֣שֶׁת]] [[H3379G\|יָרָבְעָ֑ם]] [[H9005\|לָ֣]][[H4100\|מָּה]] [[H2088\|זֶּ֗ה]] [[H0859C\|אַ֚תְּ]] [[H5234B\|מִתְנַכֵּרָ֔ה]] [[H9002\|וְ]][[H0595\|אָ֣נֹכִ֔י]] [[H7971G\|שָׁל֥וּחַ]] [[H0413\|אֵלַ֖יִ]][[H9032\|ךְ]] [[H7186\|קָשָֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIJAH|ABIJAH]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic JEROBOAM|JEROBOAM]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.5|<< 1 Kings 14:5]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.7|1 Kings 14:7 >>]]</td></tr></table>
 

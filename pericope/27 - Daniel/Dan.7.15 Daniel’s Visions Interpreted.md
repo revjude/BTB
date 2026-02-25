@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Daniel’s Visions Interpreted
+type: Pericope
 pericope: "[[Dan.7.15 Daniel’s Visions Interpreted|Daniel’s Visions Interpreted]]"
-verse_count: 14
+original_language: Aramaic
 testament: Old
 book: Daniel
 chapter: 7
 book/chapter: "[[Dan.7|Daniel 7]]"
-genre:
+chronological_order: 843
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 14
 verses:
 - "[[Dan.7.15]]"
 - "[[Dan.7.16]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Dan.7.28]]"
 ---
 
-[[Dan.7|Daniel 7:15 - Daniel 7:28]]
+<small>[[Dan.7|Daniel 7:15-28]]</small>
 *Daniel’s Visions Interpreted*
 
 [[Dan.7.15|15]] I Daniel was grieved in my spirit in the midst of \[my\] body, and the visions of my head troubled me.

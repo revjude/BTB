@@ -1,8 +1,61 @@
+---
+title: 1 Chronicles 23:32
+type: Verse
+kjv: "And that they should keep the charge of the tabernacle of the congregation, and the charge of the holy place, and the charge of the sons of Aaron their brethren, in the service of the house of the LORD."
+bsb: "So the Levites were to carry out the responsibilities for the Tent of Meeting and the Holy Place, and, under their brothers the descendants of Aaron, the service of the house of the LORD."
+hebrew: "וְשָׁמְר֞וּ אֶת־ מִשְׁמֶ֣רֶת אֹֽהֶל־ מוֹעֵ֗ד וְאֵת֙ מִשְׁמֶ֣רֶת הַקֹּ֔דֶשׁ וּמִשְׁמֶ֕רֶת בְּנֵ֥י אַהֲרֹ֖ן אֲחֵיהֶ֑ם לַעֲבֹדַ֖ת בֵּ֥ית יְהוָֽה׃ פ"
+pericope: "[[1Chr.23.24 Levite Duties Revised|Levite Duties Revised]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 23
+book/chapter: "[[1Chr.23|1 Chronicles 23]]"
+chronological_order: 434
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H8104G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4931]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H1121G]]"
+- "[[H0175]]"
+- "[[H0251H]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H5656H]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Chronicles 23:32**<big><big>[[1Chr.23.24 Levite Duties Revised|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And that they should keep the charge of the tabernacle of the congregation, and the charge of the holy [place], and the charge of the sons of Aaron their brethren, in the service of the house of the LORD.
 <small><sub>**BSB:**</sub></small>
 So the Levites were to carry out the responsibilities for the Tent of Meeting and the Holy Place, and, under their brothers the descendants of Aaron, the service of the house of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8104G\|שָׁמְר֞וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H4931\|מִשְׁמֶ֣רֶת]] [[H0168G\|אֹֽהֶל]][[H9014\|־]] [[H4150I\|מוֹעֵ֗ד]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H4931\|מִשְׁמֶ֣רֶת]] [[H9009\|הַ]][[H6944G\|קֹּ֔דֶשׁ]] [[H9002\|וּ]][[H4931\|מִשְׁמֶ֕רֶת]] [[H1121G\|בְּנֵ֥י]] [[H0175\|אַהֲרֹ֖ן]] [[H0251H\|אֲחֵי]][[H9028\|הֶ֑ם]] [[H9005\|לַ]][[H5656H\|עֲבֹדַ֖ת]] [[H1004Q\|בֵּ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.23.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23.31|<< 1 Chronicles 23:31]]</td><td align="center" style="border:none;">[[1Chr.23|1 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.1|1 Chronicles 24:1 >>]]</td></tr></table>
 
@@ -22,7 +75,7 @@ So the Levites were to carry out the responsibilities for the Tent of Meeting an
 | relatives their  |**<big>&#8207;[[H0251H\|אֲחֵי]]&#8207;&#8207;[[H9028\|הֶ֑ם]]&#8207; </big>**| 'a.chei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for [the] service of  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5656H\|עֲבֹדַ֖ת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.vo.Dat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] house of  |**<big>&#8207;[[H1004Q\|בֵּ֥ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23.31|<< 1 Chronicles 23:31]]</td><td align="center" style="border:none;">[[1Chr.23|1 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.1|1 Chronicles 24:1 >>]]</td></tr></table>
 
 

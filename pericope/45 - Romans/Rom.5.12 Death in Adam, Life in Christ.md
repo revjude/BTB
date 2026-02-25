@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Death in Adam, Life in Christ
+type: Pericope
 pericope: "[[Rom.5.12 Death in Adam, Life in Christ|Death in Adam, Life in Christ]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Romans
 chapter: 5
 book/chapter: "[[Rom.5|Romans 5]]"
-genre:
+chronological_order: 1091
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 10
 verses:
 - "[[Rom.5.12]]"
 - "[[Rom.5.13]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Rom.5.21]]"
 ---
 
-[[Rom.5|Romans 5:12 - Romans 5:21]]
+<small>[[Rom.5|Romans 5:12-21]]</small>
 *Death in Adam, Life in Christ*
 
 [[Rom.5.12|12]] Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned:

@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 7:12
+type: Verse
+kjv: "Wherefore it shall come to pass, if ye hearken to these judgments, and keep, and do them, that the LORD thy God shall keep unto thee the covenant and the mercy which he sware unto thy fathers:"
+bsb: "If you listen to these ordinances and keep them carefully, then the LORD your God will keep His covenant and the loving devotion that He swore to your fathers."
+hebrew: "וְהָיָ֣ה׀ עֵ֣קֶב תִּשְׁמְע֗וּן אֵ֤ת הַמִּשְׁפָּטִים֙ הָאֵ֔לֶּה וּשְׁמַרְתֶּ֥ם וַעֲשִׂיתֶ֖ם אֹתָ֑ם וְשָׁמַר֩ יְהוָ֨ה אֱלֹהֶ֜יךָ לְךָ֗ אֶֽת־ הַבְּרִית֙ וְאֶת־ הַחֶ֔סֶד אֲשֶׁ֥ר נִשְׁבַּ֖ע לַאֲבֹתֶֽיךָ׃"
+pericope: "[[Deut.7.12 The Promises of God|The Promises of God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 7
+book/chapter: "[[Deut.7|Deuteronomy 7]]"
+chronological_order: 203
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H6118]]"
+- "[[H8085G]]"
+- "[[H9013]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H4941G]]"
+- "[[H0428]]"
+- "[[H8104G]]"
+- "[[H6213A]]"
+- "[[H9038]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9014]]"
+- "[[H1285]]"
+- "[[H9002]]"
+- "[[H2617A]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 7:12**<big><big>[[Deut.7.12 The Promises of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore it shall come to pass, if ye hearken to these judgments, and keep, and do them, that the LORD thy God shall keep unto thee the covenant and the mercy which he sware unto thy fathers:
 <small><sub>**BSB:**</sub></small>
 If you listen to these ordinances and keep them carefully, then the LORD your God will keep His covenant and the loving devotion that He swore to your fathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֣ה]][[H9015\|׀]] [[H6118\|עֵ֣קֶב]] [[H8085G\|תִּשְׁמְע֗וּ]][[H9013\|ן]] [[H0853\|אֵ֤ת]] [[H9009\|הַ]][[H4941G\|מִּשְׁפָּטִים֙]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H9001\|וּ]][[H8104G\|שְׁמַרְתֶּ֥ם]] [[H9001\|וַ]][[H6213A\|עֲשִׂיתֶ֖ם]] [[H0853\|אֹתָ֑]][[H9038\|ם]] [[H9001\|וְ]][[H8104G\|שָׁמַר֩]] [[H3068G\|יְהוָ֨ה]] [[H0430G\|אֱלֹהֶ֜י]][[H9021\|ךָ]] [[H9005\|לְ]][[H9031\|ךָ֗]] [[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הַ]][[H1285\|בְּרִית֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2617A\|חֶ֔סֶד]] [[H0834A\|אֲשֶׁ֥ר]] [[H7650\|נִשְׁבַּ֖ע]] [[H9005\|לַ]][[H0001G\|אֲבֹתֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHILDREN|CHILDREN]] • [[topic CONTINGENCIES|CONTINGENCIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.11|<< Deuteronomy 7:11]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.13|Deuteronomy 7:13 >>]]</td></tr></table>
 

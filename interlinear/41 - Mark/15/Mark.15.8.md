@@ -1,10 +1,53 @@
+---
+title: Mark 15:8
+type: Verse
+kjv: "And the multitude crying aloud began to desire him to do as he had ever done unto them."
+bsb: "So the crowd went up and began asking Pilate to keep his custom."
+greek: "καὶ ἀναβὰς ὁ ὄχλος ἤρξατο αἰτεῖσθαι καθὼς ἀεὶ ἐποίει αὐτοῖς.¶"
+pericope: "[[Mark.15.6 The Crowd Chooses Barabbas|The Crowd Chooses Barabbas]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 15
+book/chapter: "[[Mark.15|Mark 15]]"
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BARABBAS|BARABBAS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G0305]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G0757]]"
+- "[[G0154]]"
+- "[[G2531]]"
+- "[[G0104]]"
+- "[[G4160G]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(K)O
+- ko
+---
+
 **Mark 15:8**<big><big>[[Mark.15.6 The Crowd Chooses Barabbas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the multitude crying aloud began to desire [him to do] as he had ever done unto them.
 <small><sub>**BSB:**</sub></small>
 So the crowd went up and began asking Pilate to keep his custom.
-<small><sub>**Literal:**</sub></small>
-And having come up the crowd began to beg [him to do] even as  always he was doing for them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.7|<< Mark 15:7]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.9|Mark 15:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0305\|ἀναβὰς]]  [[G3588\|ὁ]]  [[G3793\|ὄχλος]]  [[G0757\|ἤρξατο]]  [[G0154\|αἰτεῖσθαι]]  [[G2531\|καθὼς]]  [[G0104\|ἀεὶ]]  [[G4160G\|ἐποίει]]  [[G0846\|αὐτοῖς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARABBAS|BARABBAS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.7|<< Mark 15:7]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.9|Mark 15:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

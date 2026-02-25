@@ -1,8 +1,62 @@
+---
+title: 2 Kings 9:10
+type: Verse
+kjv: "And the dogs shall eat Jezebel in the portion of Jezreel, and there shall be none to bury her. And he opened the door, and fled."
+bsb: "And on the plot of ground at Jezreel the dogs will devour Jezebel, and there will be no one to bury her.’” Then the young prophet opened the door and ran."
+hebrew: "וְאֶת־ אִיזֶ֜בֶל יֹאכְל֧וּ הַכְּלָבִ֛ים בְּחֵ֥לֶק יִזְרְעֶ֖אל וְאֵ֣ין קֹבֵ֑ר וַיִּפְתַּ֥ח הַדֶּ֖לֶת וַיָּנֹֽס׃"
+pericope: "[[2Kgs.9.1 Jehu Anointed King of Israel|Jehu Anointed King of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 9
+book/chapter: "[[2Kgs.9|2 Kings 9]]"
+chronological_order: 582
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic JEZEBEL|JEZEBEL]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0348]]"
+- "[[H0398]]"
+- "[[H9009]]"
+- "[[H3611]]"
+- "[[H9003]]"
+- "[[H2506A]]"
+- "[[H3157H]]"
+- "[[H0369]]"
+- "[[H6912]]"
+- "[[H9001]]"
+- "[[H6605A]]"
+- "[[H1817C]]"
+- "[[H5127]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 9:10**<big><big>[[2Kgs.9.1 Jehu Anointed King of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the dogs shall eat Jezebel in the portion of Jezreel, and [there shall be] none to bury [her]. And he opened the door, and fled.
 <small><sub>**BSB:**</sub></small>
 And on the plot of ground at Jezreel the dogs will devour Jezebel, and there will be no one to bury her.’” Then the young prophet opened the door and ran.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0348\|אִיזֶ֜בֶל]] [[H0398\|יֹאכְל֧וּ]] [[H9009\|הַ]][[H3611\|כְּלָבִ֛ים]] [[H9003\|בְּ]][[H2506A\|חֵ֥לֶק]] [[H3157H\|יִזְרְעֶ֖אל]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H6912\|קֹבֵ֑ר]] [[H9001\|וַ]][[H6605A\|יִּפְתַּ֥ח]] [[H9009\|הַ]][[H1817C\|דֶּ֖לֶת]] [[H9001\|וַ]][[H5127\|יָּנֹֽס]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURIAL|BURIAL]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ENTHUSIASM|ENTHUSIASM]] • [[topic JEHU|JEHU]] • [[topic JEZEBEL|JEZEBEL]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.9|<< 2 Kings 9:9]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.11|2 Kings 9:11 >>]]</td></tr></table>
 

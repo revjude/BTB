@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Message by the Spirit’s Power
+type: Pericope
 pericope: "[[1Cor.2.1 Paul’s Message by the Spirit’s Power|Paul’s Message by the Spirit’s Power]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 2
 book/chapter: "[[1Cor.2|1 Corinthians 2]]"
-genre:
+chronological_order: 1059
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 5
 verses:
 - "[[1Cor.2.1]]"
 - "[[1Cor.2.2]]"
@@ -22,7 +29,7 @@ verses:
 - "[[1Cor.2.5]]"
 ---
 
-[[1Cor.2|1 Corinthians 2:1 - 1 Corinthians 2:5]]
+<small>[[1Cor.2|1 Corinthians 2:1-5]]</small>
 *Paul’s Message by the Spirit’s Power*
 
 [[1Cor.2.1|1]] And I, brethren, when I came to you, came not with excellency of speech or of wisdom, declaring unto you the testimony of God.

@@ -1,8 +1,80 @@
+---
+title: Exodus 14:9
+type: Verse
+kjv: "But the Egyptians pursued after them, all the horses and chariots of Pharaoh, and his horsemen, and his army, and overtook them encamping by the sea, beside Pihahiroth, before Baalzephon."
+bsb: "The Egyptians—all Pharaoh’s horses and chariots, horsemen and troops—pursued the Israelites and overtook them as they camped by the sea near Pi-hahiroth, opposite Baal-zephon."
+hebrew: "וַיִּרְדְּפ֨וּ מִצְרַ֜יִם אַחֲרֵיהֶ֗ם וַיַּשִּׂ֤יגוּ אוֹתָם֙ חֹנִ֣ים עַל־ הַיָּ֔ם כָּל־ סוּס֙ רֶ֣כֶב פַּרְעֹ֔ה וּפָרָשָׁ֖יו וְחֵיל֑וֹ עַל־ פִּי֙ הַֽחִירֹ֔ת לִפְנֵ֖י בַּ֥עַל צְפֹֽן׃"
+pericope: "[[Exod.14.1 Pharaoh Pursues the Israelites|Pharaoh Pursues the Israelites]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 14
+book/chapter: "[[Exod.14|Exodus 14]]"
+chronological_order: 106
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BAAL-ZEPHON|BAAL-ZEPHON]]"
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PI-HAHIROTH|PI-HAHIROTH]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RED SEA|RED SEA]]"
+strongs:
+- "[[H9001]]"
+- "[[H7291]]"
+- "[[H4713]]"
+- "[[H0310A]]"
+- "[[H9038]]"
+- "[[H5381]]"
+- "[[H0853]]"
+- "[[H2583]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H3605]]"
+- "[[H5483M]]"
+- "[[H7393G]]"
+- "[[H6547J]]"
+- "[[H9002]]"
+- "[[H6571B]]"
+- "[[H9023]]"
+- "[[H2428A]]"
+- "[[H6367]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H1189]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 14:9**<big><big>[[Exod.14.1 Pharaoh Pursues the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the Egyptians pursued after them, all the horses [and] chariots of Pharaoh, and his horsemen, and his army, and overtook them encamping by the sea, beside Pihahiroth, before Baalzephon.
 <small><sub>**BSB:**</sub></small>
 The Egyptians—all Pharaoh’s horses and chariots, horsemen and troops—pursued the Israelites and overtook them as they camped by the sea near Pi-hahiroth, opposite Baal-zephon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7291\|יִּרְדְּפ֨וּ]] [[H4713\|מִצְרַ֜יִם]] [[H0310A\|אַחֲרֵי]][[H9038\|הֶ֗ם]] [[H9001\|וַ]][[H5381\|יַּשִּׂ֤יגוּ]] [[H0853\|אוֹתָ]][[H9038\|ם֙]] [[H2583\|חֹנִ֣ים]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּ֔ם]] [[H3605\|כָּל]][[H9014\|־]] [[H5483M\|סוּס֙]] [[H7393G\|רֶ֣כֶב]] [[H6547J\|פַּרְעֹ֔ה]] [[H9002\|וּ]][[H6571B\|פָרָשָׁ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H2428A\|חֵיל֑]][[H9023\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H6367\|פִּי֙]] [[H6367\|הַֽחִירֹ֔ת]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H1189\|בַּ֥עַל]] [[H1189\|צְפֹֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BAAL-ZEPHON|BAAL-ZEPHON]] • [[topic CHARIOT|CHARIOT]] • [[topic EGYPT|EGYPT]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic HORSE|HORSE]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic ISRAEL|ISRAEL]] • [[topic PI-HAHIROTH|PI-HAHIROTH]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RED SEA|RED SEA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.14.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.8|<< Exodus 14:8]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.10|Exodus 14:10 >>]]</td></tr></table>
 

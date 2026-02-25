@@ -1,8 +1,57 @@
+---
+title: Psalm 103:10
+type: Verse
+kjv: "He hath not dealt with us after our sins; nor rewarded us according to our iniquities."
+bsb: "He has not dealt with us according to our sins or repaid us according to our iniquities."
+hebrew: "לֹ֣א כַ֭חֲטָאֵינוּ עָ֣שָׂה לָ֑נוּ וְלֹ֥א כַ֝עֲוֹנֹתֵ֗ינוּ גָּמַ֥ל עָלֵֽינוּ׃"
+pericope: "[[Ps.103.1 Bless the LORD, O My Soul|Bless the LORD, O My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 103
+book/chapter: "[[Ps.103|Psalm 103]]"
+chronological_order: 381
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+strongs:
+- "[[H3808]]"
+- "[[H9004]]"
+- "[[H2399]]"
+- "[[H9025]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H5771G]]"
+- "[[H1580]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 103:10**<big><big>[[Ps.103.1 Bless the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath not dealt with us after our sins; nor rewarded us according to our iniquities.
 <small><sub>**BSB:**</sub></small>
 He has not dealt with us according to our sins or repaid us according to our iniquities.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֣א]] [[H9004\|כַ֭]][[H2399\|חֲטָאֵי]][[H9025\|נוּ]] [[H6213A\|עָ֣שָׂה]] [[H9005\|לָ֑]][[H9035\|נוּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H9004\|כַ֝]][[H5771G\|עֲוֹנֹתֵ֗י]][[H9025\|נוּ]] [[H1580\|גָּמַ֥ל]] [[H5921A\|עָלֵֽי]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic RESIGNATION|RESIGNATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.103.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.103.9|<< Psalms 103:9]]</td><td align="center" style="border:none;">[[Ps.103|Psalms 103]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.103.11|Psalms 103:11 >>]]</td></tr></table>
 

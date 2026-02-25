@@ -1,8 +1,58 @@
+---
+title: Genesis 13:5
+type: Verse
+kjv: "And Lot also, which went with Abram, had flocks, and herds, and tents."
+bsb: "Now Lot, who was traveling with Abram, also had flocks and herds and tents."
+hebrew: "וְגַם־ לְל֔וֹט הַהֹלֵ֖ךְ אֶת־ אַבְרָ֑ם הָיָ֥ה צֹאן־ וּבָקָ֖ר וְאֹהָלִֽים׃"
+pericope: "[[Gen.13.1 Abram and Lot Part Ways|Abram and Lot Part Ways]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 13
+book/chapter: "[[Gen.13|Genesis 13]]"
+chronological_order: 55
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic LOT|LOT]]"
+- "[[topic TENT|TENT]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H3876]]"
+- "[[H9009]]"
+- "[[H1980G]]"
+- "[[H0854]]"
+- "[[H0087]]"
+- "[[H1961]]"
+- "[[H6629G]]"
+- "[[H1241]]"
+- "[[H0168G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 13:5**<big><big>[[Gen.13.1 Abram and Lot Part Ways|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Lot also, which went with Abram, had flocks, and herds, and tents.
 <small><sub>**BSB:**</sub></small>
 Now Lot, who was traveling with Abram, also had flocks and herds and tents.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H9005\|לְ]][[H3876\|ל֔וֹט]] [[H9009\|הַ]][[H1980G\|הֹלֵ֖ךְ]] [[H0854\|אֶת]][[H9014\|־]] [[H0087\|אַבְרָ֑ם]] [[H1961\|הָיָ֥ה]] [[H6629G\|צֹאן]][[H9014\|־]] [[H9002\|וּ]][[H1241\|בָקָ֖ר]] [[H9002\|וְ]][[H0168G\|אֹהָלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOT|LOT]] • [[topic TENT|TENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.13.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.13.4|<< Genesis 13:4]]</td><td align="center" style="border:none;">[[Gen.13|Genesis 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.13.6|Genesis 13:6 >>]]</td></tr></table>
 

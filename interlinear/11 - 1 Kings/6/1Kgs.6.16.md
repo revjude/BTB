@@ -1,8 +1,65 @@
+---
+title: 1 Kings 6:16
+type: Verse
+kjv: "And he built twenty cubits on the sides of the house, both the floor and the walls with boards of cedar: he even built them for it within, even for the oracle, even for the most holy place."
+bsb: "He partitioned off the twenty cubits at the rear of the temple with cedar boards from floor to ceiling to form within the temple an inner sanctuary, the Most Holy Place."
+hebrew: "וַיִּבֶן֩ אֶת־ עֶשְׂרִ֨ים אַמָּ֜ה מִֽיַּרְכְּתֵ֤י הַבַּ֙יִת֙ בְּצַלְע֣וֹת אֲרָזִ֔ים מִן־ הַקַּרְקַ֖ע עַד־ הַקִּיר֑וֹת וַיִּ֤בֶן לוֹ֙ מִבַּ֣יִת לִדְבִ֔יר לְקֹ֖דֶשׁ הַקֳּדָשִֽׁים׃"
+pericope: "[[1Kgs.6.14 The Temple’s Interior|The Temple’s Interior]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 6
+book/chapter: "[[1Kgs.6|1 Kings 6]]"
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6242]]"
+- "[[H0520A]]"
+- "[[H9006]]"
+- "[[H3411]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H9003]]"
+- "[[H6763]]"
+- "[[H0730]]"
+- "[[H4480A]]"
+- "[[H7172]]"
+- "[[H5704]]"
+- "[[H7023]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H1687]]"
+- "[[H6944H]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **1 Kings 6:16**<big><big>[[1Kgs.6.14 The Temple’s Interior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he built twenty cubits on the sides of the house, both the floor and the walls with boards of cedar: he even built [them] for it within, [even] for the oracle, [even] for the most holy [place].
 <small><sub>**BSB:**</sub></small>
 He partitioned off the twenty cubits at the rear of the temple with cedar boards from floor to ceiling to form within the temple an inner sanctuary, the Most Holy Place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1129\|יִּבֶן֩]] [[H0853\|אֶת]][[H9014\|־]] [[H6242\|עֶשְׂרִ֨ים]] [[H0520A\|אַמָּ֜ה]] [[H9006\|מִֽ]][[H3411\|יַּרְכְּתֵ֤י]] [[H9009\|הַ]][[H1004B\|בַּ֙יִת֙]] [[H9003\|בְּ]][[H6763\|צַלְע֣וֹת]] [[H0730\|אֲרָזִ֔ים]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H7172\|קַּרְקַ֖ע]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H7023\|קִּיר֑וֹת]] [[H9001\|וַ]][[H1129\|יִּ֤בֶן]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9006\|מִ]][[H1004B\|בַּ֣יִת]] [[H9005\|לִ]][[H1687\|דְבִ֔יר]] [[H9005\|לְ]][[H6944H\|קֹ֖דֶשׁ]] [[H9009\|הַ]][[H6944H\|קֳּדָשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.15|<< 1 Kings 6:15]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.17|1 Kings 6:17 >>]]</td></tr></table>
 

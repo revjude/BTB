@@ -1,8 +1,62 @@
+---
+title: 2 Samuel 13:15
+type: Verse
+kjv: "Then Amnon hated her exceedingly; so that the hatred wherewith he hated her was greater than the love wherewith he had loved her. And Amnon said unto her, Arise, be gone."
+bsb: "Then Amnon hated Tamar with such intensity that his hatred was greater than the love he previously had. “Get up!” he said to her. “Be gone!”"
+hebrew: "וַיִּשְׂנָאֶ֣הָ אַמְנ֗וֹן שִׂנְאָה֙ גְּדוֹלָ֣ה מְאֹ֔ד כִּ֣י גְדוֹלָ֗ה הַשִּׂנְאָה֙ אֲשֶׁ֣ר שְׂנֵאָ֔הּ מֵאַהֲבָ֖ה אֲשֶׁ֣ר אֲהֵבָ֑הּ וַֽיֹּאמֶר־ לָ֥הּ אַמְנ֖וֹן ק֥וּמִי לֵֽכִי׃"
+pericope: "[[2Sam.13.1 Amnon and Tamar|Amnon and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic RAPE|RAPE]]"
+- "[[topic TAMAR|TAMAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H8130]]"
+- "[[H9034]]"
+- "[[H0550G]]"
+- "[[H8135]]"
+- "[[H1419A]]"
+- "[[H3966]]"
+- "[[H3588A]]"
+- "[[H9009]]"
+- "[[H0834A]]"
+- "[[H9006]]"
+- "[[H0160]]"
+- "[[H0157G]]"
+- "[[H0559]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H6965B]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 13:15**<big><big>[[2Sam.13.1 Amnon and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Amnon hated her exceedingly; so that the hatred wherewith he hated her [was] greater than the love wherewith he had loved her. And Amnon said unto her, Arise, be gone.
 <small><sub>**BSB:**</sub></small>
 Then Amnon hated Tamar with such intensity that his hatred was greater than the love he previously had. “Get up!” he said to her. “Be gone!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8130\|יִּשְׂנָאֶ֣]][[H9034\|הָ]] [[H0550G\|אַמְנ֗וֹן]] [[H8135\|שִׂנְאָה֙]] [[H1419A\|גְּדוֹלָ֣ה]] [[H3966\|מְאֹ֔ד]] [[H3588A\|כִּ֣י]] [[H1419A\|גְדוֹלָ֗ה]] [[H9009\|הַ]][[H8135\|שִּׂנְאָה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H8130\|שְׂנֵאָ֔]][[H9034\|הּ]] [[H9006\|מֵ]][[H0160\|אַהֲבָ֖ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H0157G\|אֲהֵבָ֑]][[H9034\|הּ]] [[H9001\|וַֽ]][[H0559\|יֹּאמֶר]][[H9014\|־]] [[H9005\|לָ֥]][[H9034\|הּ]] [[H0550G\|אַמְנ֖וֹן]] [[H6965B\|ק֥וּמִי]] [[H1980G\|לֵֽכִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic RAPE|RAPE]] • [[topic TAMAR|TAMAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.14|<< 2 Samuel 13:14]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.16|2 Samuel 13:16 >>]]</td></tr></table>
 

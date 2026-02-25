@@ -1,10 +1,60 @@
+---
+title: Acts 2:21
+type: Verse
+kjv: "And it shall come to pass, that whosoever shall call on the name of the Lord shall be saved."
+bsb: "And everyone who calls on the name of the Lord will be saved.’"
+greek: "καὶ ἔσται, πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου σωθήσεται.¶"
+pericope: "[[Acts.2.14 Peter Addresses the Crowd|Peter Addresses the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G3956]]"
+- "[[G3739]]"
+- "[[G0302]]"
+- "[[G1941]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G2962G]]"
+- "[[G4982]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Acts 2:21**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, [that] whosoever shall call on the name of the Lord shall be saved.
 <small><sub>**BSB:**</sub></small>
 And everyone who calls on the name of the Lord will be saved.’
-<small><sub>**Literal:**</sub></small>
-And it will be, everyone who when they shall call upon the name of [the] Lord will be saved.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.20|<< Acts 2:20]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.22|Acts 2:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1510\|ἔσται,]]  [[G3956\|πᾶς]]  [[G3739\|ὃς]]  [[G0302\|ἂν]]  [[G1941\|ἐπικαλέσηται]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G2962G\|κυρίου]]  [[G4982\|σωθήσεται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JUDGMENT|JUDGMENT]] • [[topic ORATOR|ORATOR]] • [[topic PETER|PETER]] • [[topic PREACHING|PREACHING]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REVIVALS|REVIVALS]] • [[topic SEEKERS|SEEKERS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.20|<< Acts 2:20]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.22|Acts 2:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 2:21** is...
 > $\quad$ referencing: [[LXX.Joel.2.28|Joel 2:28-32]]

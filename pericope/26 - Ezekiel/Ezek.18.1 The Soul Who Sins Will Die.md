@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Soul Who Sins Will Die
+type: Pericope
 pericope: "[[Ezek.18.1 The Soul Who Sins Will Die|The Soul Who Sins Will Die]]"
-verse_count: 32
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 18
 book/chapter: "[[Ezek.18|Ezekiel 18]]"
-genre:
+chronological_order: 809
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 32
 verses:
 - "[[Ezek.18.1]]"
 - "[[Ezek.18.2]]"
@@ -53,7 +60,7 @@ verses:
 - "[[Ezek.18.32]]"
 ---
 
-[[Ezek.18|Ezekiel 18:1 - Ezekiel 18:32]]
+<small>[[Ezek.18|Ezekiel 18:1-32]]</small>
 *The Soul Who Sins Will Die*
 
 [[Ezek.18.1|1]] The word of the LORD came unto me again, saying,

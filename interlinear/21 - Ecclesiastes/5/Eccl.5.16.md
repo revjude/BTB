@@ -1,8 +1,59 @@
+---
+title: Ecclesiastes 5:16
+type: Verse
+kjv: "And this also is a sore evil, that in all points as he came, so shall he go: and what profit hath he that hath laboured for the wind?"
+bsb: "This too is a grievous affliction: Exactly as a man is born, so he will depart. What does he gain as he toils for the wind?"
+hebrew: "וְגַם־ זֹה֙ רָעָ֣ה חוֹלָ֔ה כָּל־ עֻמַּ֥ת שֶׁבָּ֖א כֵּ֣ן יֵלֵ֑ךְ וּמַה־ יִּתְר֣וֹן ל֔וֹ שֶֽׁיַּעֲמֹ֖ל לָרֽוּחַ׃"
+pericope: "[[Eccl.5.8 The Futility of Wealth|The Futility of Wealth]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 5
+book/chapter: "[[Eccl.5|Ecclesiastes 5]]"
+chronological_order: 543
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic RICHES|RICHES]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H2090]]"
+- "[[H7451I]]"
+- "[[H2470I]]"
+- "[[H3605]]"
+- "[[H5980]]"
+- "[[H9007]]"
+- "[[H0935G]]"
+- "[[H3651C]]"
+- "[[H1980G]]"
+- "[[H4100]]"
+- "[[H3504]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5998]]"
+- "[[H7307H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 5:16**<big><big>[[Eccl.5.8 The Futility of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this also [is] a sore evil, [that] in all points as he came, so shall he go: and what profit hath he that hath laboured for the wind?
 <small><sub>**BSB:**</sub></small>
 This too is a grievous affliction: Exactly as a man is born, so he will depart. What does he gain as he toils for the wind?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H2090\|זֹה֙]] [[H7451I\|רָעָ֣ה]] [[H2470I\|חוֹלָ֔ה]] [[H3605\|כָּל]][[H9014\|־]] [[H5980\|עֻמַּ֥ת]] [[H9007\|שֶׁ]][[H0935G\|בָּ֖א]] [[H3651C\|כֵּ֣ן]] [[H1980G\|יֵלֵ֑ךְ]] [[H9002\|וּ]][[H4100\|מַה]][[H9014\|־]] [[H3504\|יִּתְר֣וֹן]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9007\|שֶֽׁ]][[H5998\|יַּעֲמֹ֖ל]] [[H9005\|לָ]][[H7307H\|רֽוּחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RICHES|RICHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.5.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.15|<< Ecclesiastes 5:15]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.17|Ecclesiastes 5:17 >>]]</td></tr></table>
 

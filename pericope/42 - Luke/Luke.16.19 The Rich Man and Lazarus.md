@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Rich Man and Lazarus
+type: Pericope
 pericope: "[[Luke.16.19 The Rich Man and Lazarus|The Rich Man and Lazarus]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: Luke
 chapter: 16
 book/chapter: "[[Luke.16|Luke 16]]"
-genre:
+chronological_order: 978
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 13
 verses:
 - "[[Luke.16.19]]"
 - "[[Luke.16.20]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Luke.16.31]]"
 ---
 
-[[Luke.16|Luke 16:19 - Luke 16:31]]
+<small>[[Luke.16|Luke 16:19-31]]</small>
 *The Rich Man and Lazarus*
 
 [[Luke.16.19|19]] There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day:

@@ -1,10 +1,66 @@
+---
+title: Matthew 15:23
+type: Verse
+kjv: "But he answered her not a word. And his disciples came and besought him, saying, Send her away; for she crieth after us."
+bsb: "But Jesus did not answer a word. So His disciples came and urged Him, “Send her away, for she keeps crying out after us.”"
+greek: "Ὁ δὲ οὐκ ἀπεκρίθη αὐτῇ λόγον. καὶ προσελθόντες οἱ μαθηταὶ αὐτοῦ ἠρώτουν αὐτὸν λέγοντες· ἀπόλυσον αὐτήν, ὅτι κράζει ὄπισθεν ἡμῶν.¶"
+pericope: "[[Matt.15.21 The Faith of the Canaanite Woman|The Faith of the Canaanite Woman]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 15
+book/chapter: "[[Matt.15|Matthew 15]]"
+chronological_order: 965
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SIDON|SIDON]]"
+- "[[topic SYRO-PHOENICIAN|SYRO-PHOENICIAN]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3756]]"
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G3056]]"
+- "[[G2532]]"
+- "[[G4334]]"
+- "[[G3101]]"
+- "[[G2065]]"
+- "[[G3004G]]"
+- "[[G0630G]]"
+- "[[G3754H]]"
+- "[[G2896]]"
+- "[[G3693]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **Matthew 15:23**<big><big>[[Matt.15.21 The Faith of the Canaanite Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he answered her not a word. And his disciples came and besought him, saying, Send her away; for she crieth after us.
 <small><sub>**BSB:**</sub></small>
 But Jesus did not answer a word. So His disciples came and urged Him, “Send her away, for she keeps crying out after us.”
-<small><sub>**Literal:**</sub></small>
-<the> And not He answered to her a word. And having come to [him] the disciples of Him were imploring Him saying; do dismiss her, for she cries out after us!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.22|<< Matthew 15:22]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.24|Matthew 15:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G3756\|οὐκ]]  [[G0611\|ἀπεκρίθη]]  [[G0846\|αὐτῇ]]  [[G3056\|λόγον.]]  [[G2532\|καὶ]]  [[G4334\|προσελθόντες]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ]]  [[G2065\|ἠρώτουν]]  [[G0846\|αὐτὸν]]  [[G3004G\|λέγοντες·]]  [[G0630G\|ἀπόλυσον]]  [[G0846\|αὐτήν,]]  [[G3754H\|ὅτι]]  [[G2896\|κράζει]]  [[G3693\|ὄπισθεν]]  [[G3165\|ἡμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic APOSTLES|APOSTLES]] • [[topic DEMONS|DEMONS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic SIDON|SIDON]] • [[topic SYRO-PHOENICIAN|SYRO-PHOENICIAN]] • [[topic TYRE|TYRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.22|<< Matthew 15:22]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.24|Matthew 15:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

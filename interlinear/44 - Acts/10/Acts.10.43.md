@@ -1,10 +1,56 @@
+---
+title: Acts 10:43
+type: Verse
+kjv: "To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins."
+bsb: "All the prophets testify about Him that everyone who believes in Him receives forgiveness of sins through His name.”"
+greek: "τούτῳ πάντες οἱ προφῆται μαρτυροῦσιν ἄφεσιν ἁμαρτιῶν λαβεῖν διὰ τοῦ ὀνόματος αὐτοῦ πάντα τὸν πιστεύοντα εἰς αὐτόν.¶"
+pericope: "[[Acts.10.34 Good News for the Gentiles|Good News for the Gentiles]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3778]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4396]]"
+- "[[G3140]]"
+- "[[G0859]]"
+- "[[G0266]]"
+- "[[G2983]]"
+- "[[G1223]]"
+- "[[G3686]]"
+- "[[G0846]]"
+- "[[G4100]]"
+- "[[G1519]]"
+texts:
+- NKO
+---
+
 **Acts 10:43**<big><big>[[Acts.10.34 Good News for the Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins.
 <small><sub>**BSB:**</sub></small>
 All the prophets testify about Him that everyone who believes in Him receives forgiveness of sins through His name.”
-<small><sub>**Literal:**</sub></small>
-To Him all the prophets bear witness [that] forgiveness of sins receiving through the name of Him everyone who is believing in Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.42|<< Acts 10:42]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.44|Acts 10:44 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τούτῳ]]  [[G3956\|πάντες]]  [[G3588\|οἱ]]  [[G4396\|προφῆται]]  [[G3140\|μαρτυροῦσιν]]  [[G0859\|ἄφεσιν]]  [[G0266\|ἁμαρτιῶν]]  [[G2983\|λαβεῖν]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G3686\|ὀνόματος]]  [[G0846\|αὐτοῦ]]  [[G3956\|πάντα]]  [[G3588\|τὸν]]  [[G4100\|πιστεύοντα]]  [[G1519\|εἰς]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SIN|SIN]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.42|<< Acts 10:42]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.44|Acts 10:44 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

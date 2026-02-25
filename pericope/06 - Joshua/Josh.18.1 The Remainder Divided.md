@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Remainder Divided
+type: Pericope
 pericope: "[[Josh.18.1 The Remainder Divided|The Remainder Divided]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 18
 book/chapter: "[[Josh.18|Joshua 18]]"
-genre:
+chronological_order: 248
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 10
 verses:
 - "[[Josh.18.1]]"
 - "[[Josh.18.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Josh.18.10]]"
 ---
 
-[[Josh.18|Joshua 18:1 - Joshua 18:10]]
+<small>[[Josh.18|Joshua 18:1-10]]</small>
 *The Remainder Divided*
 
 [[Josh.18.1|1]] And the whole congregation of the children of Israel assembled together at Shiloh, and set up the tabernacle of the congregation there. And the land was subdued before them.

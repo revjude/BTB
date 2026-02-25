@@ -1,8 +1,80 @@
+---
+title: Isaiah 60:9
+type: Verse
+kjv: "Surely the isles shall wait for me, and the ships of Tarshish first, to bring thy sons from far, their silver and their gold with them, unto the name of the LORD thy God, and to the Holy One of Israel, because he hath glorified thee."
+bsb: "Surely the islands will wait for Me, with the ships of Tarshish in the lead, to bring your children from afar, with their silver and gold, to the honor of the LORD your God, the Holy One of Israel, for He has glorified you."
+hebrew: "כִּֽי־ לִ֣י׀ אִיִּ֣ים יְקַוּ֗וּ וָאֳנִיּ֤וֹת תַּרְשִׁישׁ֙ בָּרִ֣אשֹׁנָ֔ה לְהָבִ֤יא בָנַ֙יִךְ֙ מֵֽרָח֔וֹק כַּסְפָּ֥ם וּזְהָבָ֖ם אִתָּ֑ם לְשֵׁם֙ יְהוָ֣ה אֱלֹהַ֔יִךְ וְלִקְד֥וֹשׁ יִשְׂרָאֵ֖ל כִּ֥י פֵאֲרָֽךְ׃"
+pericope: "[[Isa.60.1 Future Glory for Zion|Future Glory for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 60
+book/chapter: "[[Isa.60|Isaiah 60]]"
+chronological_order: 699
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic SHIP|SHIP]]"
+- "[[topic TARSHISH|TARSHISH]]"
+- "[[topic WAITING|WAITING]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9015]]"
+- "[[H0339]]"
+- "[[H6960B]]"
+- "[[H9002]]"
+- "[[H0591]]"
+- "[[H8659H]]"
+- "[[H9003]]"
+- "[[H7223G]]"
+- "[[H0935P]]"
+- "[[H1121A]]"
+- "[[H9022]]"
+- "[[H9006]]"
+- "[[H7350]]"
+- "[[H3701G]]"
+- "[[H9028]]"
+- "[[H2091]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H6918G]]"
+- "[[H3478]]"
+- "[[H6286A]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 60:9**<big><big>[[Isa.60.1 Future Glory for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely the isles shall wait for me, and the ships of Tarshish first, to bring thy sons from far, their silver and their gold with them, unto the name of the LORD thy God, and to the Holy One of Israel, because he hath glorified thee.
 <small><sub>**BSB:**</sub></small>
 Surely the islands will wait for Me, with the ships of Tarshish in the lead, to bring your children from afar, with their silver and gold, to the honor of the LORD your God, the Holy One of Israel, for He has glorified you.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H9005\|לִ֣]][[H9030\|י]][[H9015\|׀]] [[H0339\|אִיִּ֣ים]] [[H6960B\|יְקַוּ֗וּ]] [[H9002\|וָ]][[H0591\|אֳנִיּ֤וֹת]] [[H8659H\|תַּרְשִׁישׁ֙]] [[H9003\|בָּ]][[H7223G\|רִ֣אשֹׁנָ֔ה]] [[H9005\|לְ]][[H0935P\|הָבִ֤יא]] [[H1121A\|בָנַ֙יִ]][[H9022\|ךְ֙]] [[H9006\|מֵֽ]][[H7350\|רָח֔וֹק]] [[H3701G\|כַּסְפָּ֥]][[H9028\|ם]] [[H9002\|וּ]][[H2091\|זְהָבָ֖]][[H9028\|ם]] [[H0854\|אִתָּ֑]][[H9038\|ם]] [[H9005\|לְ]][[H8034\|שֵׁם֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהַ֔יִ]][[H9022\|ךְ]] [[H9002\|וְ]][[H9005\|לִ]][[H6918G\|קְד֥וֹשׁ]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H3588A\|כִּ֥י]] [[H6286A\|פֵאֲרָֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic GOLD|GOLD]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MONEY|MONEY]] • [[topic SHIP|SHIP]] • [[topic TARSHISH|TARSHISH]] • [[topic WAITING|WAITING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.60.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.8|<< Isaiah 60:8]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.10|Isaiah 60:10 >>]]</td></tr></table>
 

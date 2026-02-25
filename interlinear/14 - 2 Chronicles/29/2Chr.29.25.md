@@ -1,8 +1,72 @@
+---
+title: 2 Chronicles 29:25
+type: Verse
+kjv: "And he set the Levites in the house of the LORD with cymbals, with psalteries, and with harps, according to the commandment of David, and of Gad the king’s seer, and Nathan the prophet: for so was the commandment of the LORD by his prophets."
+bsb: "Hezekiah stationed the Levites in the house of the LORD with cymbals, harps, and lyres according to the command of David, of Gad the king’s seer, and of Nathan the prophet. For the command had come from the LORD through His prophets."
+hebrew: "וַיַּֽעֲמֵ֨ד אֶת־ הַלְוִיִּ֜ם בֵּ֣ית יְהוָ֗ה בִּמְצִלְתַּ֙יִם֙ בִּנְבָלִ֣ים וּבְכִנֹּר֔וֹת בְּמִצְוַ֥ת דָּוִ֛יד וְגָ֥ד חֹזֵֽה־ הַמֶּ֖לֶךְ וְנָתָ֣ן הַנָּבִ֑יא כִּ֧י בְיַד־ יְהוָ֛ה הַמִּצְוָ֖ה בְּיַד־ נְבִיאָֽיו׃ ס"
+pericope: "[[2Chr.29.20 Hezekiah Restores Temple Worship|Hezekiah Restores Temple Worship]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 29
+book/chapter: "[[2Chr.29|2 Chronicles 29]]"
+chronological_order: 659
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ASAPH|ASAPH]]"
+- "[[topic CYMBAL|CYMBAL]]"
+- "[[topic GAD|GAD]]"
+- "[[topic HARP|HARP]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic PSALTERY|PSALTERY]]"
+strongs:
+- "[[H9001]]"
+- "[[H5975G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H4700]]"
+- "[[H5035B]]"
+- "[[H9002]]"
+- "[[H3658]]"
+- "[[H4687]]"
+- "[[H1732]]"
+- "[[H1410H]]"
+- "[[H2374]]"
+- "[[H4428G]]"
+- "[[H5416H]]"
+- "[[H5030]]"
+- "[[H3588A]]"
+- "[[H3027K]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Chronicles 29:25**<big><big>[[2Chr.29.20 Hezekiah Restores Temple Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he set the Levites in the house of the LORD with cymbals, with psalteries, and with harps, according to the commandment of David, and of Gad the king’s seer, and Nathan the prophet: for [so was] the commandment of the LORD by his prophets.
 <small><sub>**BSB:**</sub></small>
 Hezekiah stationed the Levites in the house of the LORD with cymbals, harps, and lyres according to the command of David, of Gad the king’s seer, and of Nathan the prophet. For the command had come from the LORD through His prophets.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5975G\|יַּֽעֲמֵ֨ד]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּ֜ם]] [[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֗ה]] [[H9003\|בִּ]][[H4700\|מְצִלְתַּ֙יִם֙]] [[H9003\|בִּ]][[H5035B\|נְבָלִ֣ים]] [[H9002\|וּ]][[H9003\|בְ]][[H3658\|כִנֹּר֔וֹת]] [[H9003\|בְּ]][[H4687\|מִצְוַ֥ת]] [[H1732\|דָּוִ֛יד]] [[H9002\|וְ]][[H1410H\|גָ֥ד]] [[H2374\|חֹזֵֽה]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H9002\|וְ]][[H5416H\|נָתָ֣ן]] [[H9009\|הַ]][[H5030\|נָּבִ֑יא]] [[H3588A\|כִּ֧י]] [[H9003\|בְ]][[H3027K\|יַד]][[H9014\|־]] [[H3068G\|יְהוָ֛ה]] [[H9009\|הַ]][[H4687\|מִּצְוָ֖ה]] [[H9003\|בְּ]][[H3027K\|יַד]][[H9014\|־]] [[H5030\|נְבִיאָֽי]][[H9023\|ו]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAPH|ASAPH]] • [[topic CYMBAL|CYMBAL]] • [[topic GAD|GAD]] • [[topic HARP|HARP]] • [[topic LEVITES|LEVITES]] • [[topic MUSIC|MUSIC]] • [[topic NATHAN|NATHAN]] • [[topic PSALTERY|PSALTERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.24|<< 2 Chronicles 29:24]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.26|2 Chronicles 29:26 >>]]</td></tr></table>
 
@@ -28,7 +92,7 @@ Hezekiah stationed the Levites in the house of the LORD with cymbals, harps, and
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the commandment  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4687\|מִּצְוָ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mitz.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by [the] hand of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027K\|יַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> yad-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| prophets his  |**<big>&#8207;[[H5030\|נְבִיאָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ne.vi.'A<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| prophets his  |**<big>&#8207;[[H5030\|נְבִיאָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ne.vi.'A<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.24|<< 2 Chronicles 29:24]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.26|2 Chronicles 29:26 >>]]</td></tr></table>
 
 

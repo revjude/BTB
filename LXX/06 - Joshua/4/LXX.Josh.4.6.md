@@ -1,6 +1,61 @@
+---
+title: LXX Joshua 4:6
+type: Verse
+lxx: "That these should exist to you for a sign, being situated always; that whenever your son should ask you tomorrow, saying, What are  these stones to you?"
+greek: "ίνα υπάρχωσιν υμίν ούτοι εις σημείον κείμενοι διαπαντός ίνα όταν ερωτά σε ο υιός σου αύριον λέγων τι εισίν οι λίθοι ούτοι υμίν"
+original_language: Greek
+testament: Old
+book: Joshua
+chapter: 4
+book/chapter: "[[Josh.4|Joshua 4]]"
+chronological_order: 234
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PILLAR|PILLAR]]"
+- "[[topic STONES|STONES]]"
+- "[[topic TOKEN|TOKEN]]"
+strongs:
+- "[[G2443]]"
+- "[[G5225]]"
+- "[[G1473]]"
+- "[[G3778]]"
+- "[[G1519]]"
+- "[[G4592]]"
+- "[[G2749]]"
+- "[[G1275]]"
+- "[[G2443]]"
+- "[[G3752]]"
+- "[[G2065]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G1473]]"
+- "[[G0839]]"
+- "[[G3004]]"
+- "[[G5100]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G3037]]"
+- "[[G3778]]"
+- "[[G1473]]"
+---
+
 **LXX Joshua 4:6** 
 <small><sub>**LXX:**</sub></small>
 That these should exist to you for a sign, being situated always; that whenever your son should ask you tomorrow, saying, What are  these stones to you? 
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ίνα]] [[G5225\|υπάρχωσιν]] [[G1473\|υμίν]] [[G3778\|ούτοι]] [[G1519\|εις]] [[G4592\|σημείον]] [[G2749\|κείμενοι]] [[G1275\|διαπαντός]] [[G2443\|ίνα]] [[G3752\|όταν]] [[G2065\|ερωτά]] [[G1473\|σε]] [[G3588\|ο]] [[G5207\|υιός]] [[G1473\|σου]] [[G0839\|αύριον]] [[G3004\|λέγων]] [[G5100\|τι]] [[G1510\|εισίν]] [[G3588\|οι]] [[G3037\|λίθοι]] [[G3778\|ούτοι]] [[G1473\|υμίν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic PILLAR|PILLAR]] • [[topic STONES|STONES]] • [[topic TOKEN|TOKEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Josh.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.5|<< Joshua 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.7|Joshua 4:7 >>]]</td></tr></table>
 
@@ -27,6 +82,6 @@ That these should exist to you for a sign, being situated always; that whenever 
 | \<obj.> | **<big>[[G3588\|οι]]</big>** |
 | these stones | **<big>[[G3037\|λίθοι]]</big>** **<big>[[G3778\|ούτοι]]</big>** |
 | to you? | **<big>[[G1473\|υμίν]]</big>** |
-[[Josh.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.5|<< Joshua 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.7|Joshua 4:7 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.5|<< Joshua 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.7|Joshua 4:7 >>]]</td></tr></table>
 
 

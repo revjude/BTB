@@ -1,8 +1,55 @@
+---
+title: Job 8:20
+type: Verse
+kjv: "Behold, God will not cast away a perfect man, neither will he help the evil doers:"
+bsb: "Behold, God does not reject the blameless, nor will He strengthen the hand of evildoers."
+hebrew: "הֶן־ אֵ֭ל לֹ֣א יִמְאַס־ תָּ֑ם וְלֹֽא־ יַ֝חֲזִ֗יק בְּיַד־ מְרֵעִֽים׃"
+pericope: "[[Job.8.1 Bildad：Job Should Repent|Bildad：Job Should Repent]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 8
+book/chapter: "[[Job.8|Job 8]]"
+chronological_order: 19
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2005]]"
+- "[[H9014]]"
+- "[[H0410G]]"
+- "[[H3808]]"
+- "[[H3988A]]"
+- "[[H8535]]"
+- "[[H9002]]"
+- "[[H2388H]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H7489A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 8:20**<big><big>[[Job.8.1 Bildad：Job Should Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, God will not cast away a perfect [man], neither will he help the evil doers:
 <small><sub>**BSB:**</sub></small>
 Behold, God does not reject the blameless, nor will He strengthen the hand of evildoers.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֶן]][[H9014\|־]] [[H0410G\|אֵ֭ל]] [[H3808\|לֹ֣א]] [[H3988A\|יִמְאַס]][[H9014\|־]] [[H8535\|תָּ֑ם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H2388H\|יַ֝חֲזִ֗יק]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H7489A\|מְרֵעִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.8.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.8.19|<< Job 8:19]]</td><td align="center" style="border:none;">[[Job.8|Job 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.21|Job 8:21 >>]]</td></tr></table>
 

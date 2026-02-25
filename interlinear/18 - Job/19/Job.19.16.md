@@ -1,8 +1,56 @@
+---
+title: Job 19:16
+type: Verse
+kjv: "I called my servant, and he gave me no answer; I intreated him with my mouth."
+bsb: "I call for my servant, but he does not answer, though I implore him with my own mouth."
+hebrew: "לְעַבְדִּ֣י קָ֭רָאתִי וְלֹ֣א יַעֲנֶ֑ה בְּמוֹ־ פִ֝֗י אֶתְחַנֶּן־ לֽוֹ׃"
+pericope: "[[Job.19.1 Job：My Redeemer Lives|Job：My Redeemer Lives]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 19
+book/chapter: "[[Job.19|Job 19]]"
+chronological_order: 30
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9005]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H7121G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H6030B]]"
+- "[[H1119]]"
+- "[[H9014]]"
+- "[[H6310G]]"
+- "[[H2603A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 19:16**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I called my servant, and he gave [me] no answer; I intreated him with my mouth.
 <small><sub>**BSB:**</sub></small>
 I call for my servant, but he does not answer, though I implore him with my own mouth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H5650\|עַבְדִּ֣]][[H9020\|י]] [[H7121G\|קָ֭רָאתִי]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6030B\|יַעֲנֶ֑ה]] [[H1119\|בְּמוֹ]][[H9014\|־]] [[H6310G\|פִ֝֗]][[H9020\|י]] [[H2603A\|אֶתְחַנֶּן]][[H9014\|־]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.15|<< Job 19:15]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.17|Job 19:17 >>]]</td></tr></table>
 

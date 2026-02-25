@@ -1,8 +1,61 @@
+---
+title: 1 Samuel 23:28
+type: Verse
+kjv: "Wherefore Saul returned from pursuing after David, and went against the Philistines: therefore they called that place Selahammahlekoth."
+bsb: "So Saul broke off his pursuit of David and went to meet the Philistines. That is why that place is called Sela-hammahlekoth."
+hebrew: "וַיָּ֣שָׁב שָׁא֗וּל מִרְדֹף֙ אַחֲרֵ֣י דָוִ֔ד וַיֵּ֖לֶךְ לִקְרַ֣את פְּלִשְׁתִּ֑ים עַל־ כֵּ֗ן קָֽרְאוּ֙ לַמָּק֣וֹם הַה֔וּא סֶ֖לַע הַֽמַּחְלְקֽוֹת׃"
+pericope: "[[1Sam.23.7 Saul Pursues David|Saul Pursues David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 23
+book/chapter: "[[1Sam.23|1 Samuel 23]]"
+chronological_order: 302
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic SELA-HAMMAHLEKOTH|SELA-HAMMAHLEKOTH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H7586G]]"
+- "[[H9006]]"
+- "[[H7291]]"
+- "[[H0310A]]"
+- "[[H1732]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H7122H]]"
+- "[[H6430G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H7121H]]"
+- "[[H4725]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H5555]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 23:28**<big><big>[[1Sam.23.7 Saul Pursues David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore Saul returned from pursuing after David, and went against the Philistines: therefore they called that place Selahammahlekoth.
 <small><sub>**BSB:**</sub></small>
 So Saul broke off his pursuit of David and went to meet the Philistines. That is why that place is called Sela-hammahlekoth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּ֣שָׁב]] [[H7586G\|שָׁא֗וּל]] [[H9006\|מִ]][[H7291\|רְדֹף֙]] [[H0310A\|אַחֲרֵ֣י]] [[H1732\|דָוִ֔ד]] [[H9001\|וַ]][[H1980G\|יֵּ֖לֶךְ]] [[H9005\|לִ]][[H7122H\|קְרַ֣את]] [[H6430G\|פְּלִשְׁתִּ֑ים]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֗ן]] [[H7121H\|קָֽרְאוּ֙]] [[H9005\|לַ]][[H4725\|מָּק֣וֹם]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H5555\|סֶ֖לַע]] [[H5555\|הַֽמַּחְלְקֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic SELA-HAMMAHLEKOTH|SELA-HAMMAHLEKOTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.23.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.27|<< 1 Samuel 23:27]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.29|1 Samuel 23:29 >>]]</td></tr></table>
 

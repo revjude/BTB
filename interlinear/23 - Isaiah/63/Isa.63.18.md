@@ -1,8 +1,55 @@
+---
+title: Isaiah 63:18
+type: Verse
+kjv: "The people of thy holiness have possessed it but a little while: our adversaries have trodden down thy sanctuary."
+bsb: "For a short while Your people possessed Your holy place, but our enemies have trampled Your sanctuary."
+hebrew: "לַמִּצְעָ֕ר יָרְשׁ֖וּ עַם־ קָדְשֶׁ֑ךָ צָרֵ֕ינוּ בּוֹסְס֖וּ מִקְדָּשֶֽׁךָ׃"
+pericope: "[[Isa.63.15 A Prayer for Mercy|A Prayer for Mercy]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 63
+book/chapter: "[[Isa.63|Isaiah 63]]"
+chronological_order: 702
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9005]]"
+- "[[H4705]]"
+- "[[H3423G]]"
+- "[[H5971A]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H9021]]"
+- "[[H6862C]]"
+- "[[H9025]]"
+- "[[H0947]]"
+- "[[H4720]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 63:18**<big><big>[[Isa.63.15 A Prayer for Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The people of thy holiness have possessed [it] but a little while: our adversaries have trodden down thy sanctuary.
 <small><sub>**BSB:**</sub></small>
 For a short while Your people possessed Your holy place, but our enemies have trampled Your sanctuary.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H4705\|מִּצְעָ֕ר]] [[H3423G\|יָרְשׁ֖וּ]] [[H5971A\|עַם]][[H9014\|־]] [[H6944G\|קָדְשֶׁ֑]][[H9021\|ךָ]] [[H6862C\|צָרֵ֕י]][[H9025\|נוּ]] [[H0947\|בּוֹסְס֖וּ]] [[H4720\|מִקְדָּשֶֽׁ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.63.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.17|<< Isaiah 63:17]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.19|Isaiah 63:19 >>]]</td></tr></table>
 

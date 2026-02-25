@@ -1,8 +1,56 @@
+---
+title: Psalm 61:3
+type: Verse
+kjv: "For thou hast been a shelter for me, and a strong tower from the enemy."
+bsb: "For You have been my refuge, a tower of strength against the enemy."
+hebrew: "כִּֽי־ הָיִ֣יתָ מַחְסֶ֣ה לִ֑י מִגְדַּל־ עֹ֝֗ז מִפְּנֵ֥י אוֹיֵֽב׃"
+pericope: "[[Ps.61.1 You Have Heard My Vows|You Have Heard My Vows]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 61
+book/chapter: "[[Ps.61|Psalm 61]]"
+chronological_order: 372
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic TOWER|TOWER]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H4268]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H4026M]]"
+- "[[H5797]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H0341]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 61:3**<big><big>[[Ps.61.1 You Have Heard My Vows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou hast been a shelter for me, [and] a strong tower from the enemy.
 <small><sub>**BSB:**</sub></small>
 For You have been my refuge, a tower of strength against the enemy.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|הָיִ֣יתָ]] [[H4268\|מַחְסֶ֣ה]] [[H9005\|לִ֑]][[H9030\|י]] [[H4026M\|מִגְדַּל]][[H9014\|־]] [[H5797\|עֹ֝֗ז]] [[H9006\|מִ]][[H6440G\|פְּנֵ֥י]] [[H0341\|אוֹיֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic TOWER|TOWER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.61.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.61.2|<< Psalms 61:2]]</td><td align="center" style="border:none;">[[Ps.61|Psalms 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.61.4|Psalms 61:4 >>]]</td></tr></table>
 

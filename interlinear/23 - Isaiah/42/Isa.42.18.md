@@ -1,8 +1,52 @@
+---
+title: Isaiah 42:18
+type: Verse
+kjv: "Hear, ye deaf; and look, ye blind, that ye may see."
+bsb: "Listen, you deaf ones; look, you blind ones, that you may see!"
+hebrew: "הַחֵרְשִׁ֖ים שְׁמָ֑עוּ וְהַעִוְרִ֖ים הַבִּ֥יטוּ לִרְאֽוֹת׃"
+pericope: "[[Isa.42.18 Israel Is Deaf and Blind|Israel Is Deaf and Blind]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 42
+book/chapter: "[[Isa.42|Isaiah 42]]"
+chronological_order: 681
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9009]]"
+- "[[H2795]]"
+- "[[H8085G]]"
+- "[[H9002]]"
+- "[[H5787]]"
+- "[[H5027]]"
+- "[[H9005]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 42:18**<big><big>[[Isa.42.18 Israel Is Deaf and Blind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear, ye deaf; and look, ye blind, that ye may see.
 <small><sub>**BSB:**</sub></small>
 Listen, you deaf ones; look, you blind ones, that you may see!
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H2795\|חֵרְשִׁ֖ים]] [[H8085G\|שְׁמָ֑עוּ]] [[H9002\|וְ]][[H9009\|הַ]][[H5787\|עִוְרִ֖ים]] [[H5027\|הַבִּ֥יטוּ]] [[H9005\|לִ]][[H7200G\|רְאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic ISAIAH|ISAIAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.17|<< Isaiah 42:17]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.19|Isaiah 42:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,62 @@
+---
+title: Nehemiah 11:13
+type: Verse
+kjv: "And his brethren, chief of the fathers, two hundred forty and two: and Amashai the son of Azareel, the son of Ahasai, the son of Meshillemoth, the son of Immer,"
+bsb: "and his associates, the leaders of families—242 men; Amashai son of Azarel, the son of Ahzai, the son of Meshillemoth, the son of Immer;"
+hebrew: "וְאֶחָיו֙ רָאשִׁ֣ים לְאָב֔וֹת מָאתַ֖יִם אַרְבָּעִ֣ים וּשְׁנָ֑יִם וַעֲמַשְׁסַ֧י בֶּן־ עֲזַרְאֵ֛ל בֶּן־ אַחְזַ֥י בֶּן־ מְשִׁלֵּמ֖וֹת בֶּן־ אִמֵּֽר׃"
+pericope: "[[Neh.11.1 Jerusalem’s New Settlers|Jerusalem’s New Settlers]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 11
+book/chapter: "[[Neh.11|Nehemiah 11]]"
+chronological_order: 923
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic AHASAI|AHASAI]]"
+- "[[topic AMASHAI|AMASHAI]]"
+- "[[topic AZAREEL|AZAREEL]]"
+- "[[topic IMMER|IMMER]]"
+- "[[topic MESHILLEMOTH|MESHILLEMOTH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0251H]]"
+- "[[H9023]]"
+- "[[H7218H]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H3967]]"
+- "[[H0705]]"
+- "[[H8147]]"
+- "[[H6023]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5832K]]"
+- "[[H0273]]"
+- "[[H4919H]]"
+- "[[H0564G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 11:13**<big><big>[[Neh.11.1 Jerusalem’s New Settlers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his brethren, chief of the fathers, two hundred forty and two: and Amashai the son of Azareel, the son of Ahasai, the son of Meshillemoth, the son of Immer,
 <small><sub>**BSB:**</sub></small>
 and his associates, the leaders of families—242 men; Amashai son of Azarel, the son of Ahzai, the son of Meshillemoth, the son of Immer;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0251H\|אֶחָי]][[H9023\|ו֙]] [[H7218H\|רָאשִׁ֣ים]] [[H9005\|לְ]][[H0001G\|אָב֔וֹת]] [[H3967\|מָאתַ֖יִם]] [[H0705\|אַרְבָּעִ֣ים]] [[H9002\|וּ]][[H8147\|שְׁנָ֑יִם]] [[H9002\|וַ]][[H6023\|עֲמַשְׁסַ֧י]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5832K\|עֲזַרְאֵ֛ל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0273\|אַחְזַ֥י]] [[H1121A\|בֶּן]][[H9014\|־]] [[H4919H\|מְשִׁלֵּמ֖וֹת]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0564G\|אִמֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHASAI|AHASAI]] • [[topic AMASHAI|AMASHAI]] • [[topic AZAREEL|AZAREEL]] • [[topic IMMER|IMMER]] • [[topic MESHILLEMOTH|MESHILLEMOTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.12|<< Nehemiah 11:12]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.14|Nehemiah 11:14 >>]]</td></tr></table>
 

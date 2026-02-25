@@ -1,8 +1,70 @@
+---
+title: Genesis 40:16
+type: Verse
+kjv: "When the chief baker saw that the interpretation was good, he said unto Joseph, I also was in my dream, and, behold, I had three white baskets on my head:"
+bsb: "When the chief baker saw that the interpretation was favorable, he said to Joseph, “I too had a dream: There were three baskets of white bread on my head."
+hebrew: "וַיַּ֥רְא שַׂר־ הָאֹפִ֖ים כִּ֣י ט֣וֹב פָּתָ֑ר וַיֹּ֙אמֶר֙ אֶל־ יוֹסֵ֔ף אַף־ אֲנִי֙ בַּחֲלוֹמִ֔י וְהִנֵּ֗ה שְׁלֹשָׁ֛ה סַלֵּ֥י חֹרִ֖י עַל־ רֹאשִֽׁי׃"
+pericope: "[[Gen.40.1 The Cupbearer and the Baker|The Cupbearer and the Baker]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 40
+book/chapter: "[[Gen.40|Genesis 40]]"
+chronological_order: 82
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BASKET|BASKET]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H8269]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0644]]"
+- "[[H3588A]]"
+- "[[H2896A]]"
+- "[[H6622]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H3130G]]"
+- "[[H0637]]"
+- "[[H0589]]"
+- "[[H9003]]"
+- "[[H2472]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H7969]]"
+- "[[H5536]]"
+- "[[H2751]]"
+- "[[H5921A]]"
+- "[[H7218A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 40:16**<big><big>[[Gen.40.1 The Cupbearer and the Baker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When the chief baker saw that the interpretation was good, he said unto Joseph, I also [was] in my dream, and, behold, [I had] three white baskets on my head:
 <small><sub>**BSB:**</sub></small>
 When the chief baker saw that the interpretation was favorable, he said to Joseph, “I too had a dream: There were three baskets of white bread on my head.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֥רְא]] [[H8269\|שַׂר]][[H9014\|־]] [[H9009\|הָ]][[H0644\|אֹפִ֖ים]] [[H3588A\|כִּ֣י]] [[H2896A\|ט֣וֹב]] [[H6622\|פָּתָ֑ר]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3130G\|יוֹסֵ֔ף]] [[H0637\|אַף]][[H9014\|־]] [[H0589\|אֲנִי֙]] [[H9003\|בַּ]][[H2472\|חֲלוֹמִ֔]][[H9020\|י]] [[H9002\|וְ]][[H2009\|הִנֵּ֗ה]] [[H7969\|שְׁלֹשָׁ֛ה]] [[H5536\|סַלֵּ֥י]] [[H2751\|חֹרִ֖י]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹאשִֽׁ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BASKET|BASKET]] • [[topic DREAM|DREAM]] • [[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.40.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.15|<< Genesis 40:15]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.17|Genesis 40:17 >>]]</td></tr></table>
 

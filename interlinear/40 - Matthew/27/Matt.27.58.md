@@ -1,10 +1,55 @@
+---
+title: Matthew 27:58
+type: Verse
+kjv: "He went to Pilate, and begged the body of Jesus. Then Pilate commanded the body to be delivered."
+bsb: "He went to Pilate to ask for the body of Jesus, and Pilate ordered that it be given to him."
+greek: "οὗτος προσελθὼν τῷ Πιλάτῳ ᾐτήσατο τὸ σῶμα τοῦ Ἰησοῦ. τότε ὁ Πιλᾶτος ἐκέλευσεν ἀποδοθῆναι τὸ σῶμα.¶"
+pericope: "[[Matt.27.57 The Burial of Jesus|The Burial of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PILATE, PONTIUS|PILATE, PONTIUS]]"
+strongs:
+- "[[G3778]]"
+- "[[G4334]]"
+- "[[G3588]]"
+- "[[G4091]]"
+- "[[G0154]]"
+- "[[G4983]]"
+- "[[G2424G]]"
+- "[[G5119]]"
+- "[[G2753]]"
+- "[[G0591]]"
+texts:
+- NKO
+- ko
+---
+
 **Matthew 27:58**<big><big>[[Matt.27.57 The Burial of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He went to Pilate, and begged the body of Jesus. Then Pilate commanded the body to be delivered.
 <small><sub>**BSB:**</sub></small>
 He went to Pilate to ask for the body of Jesus, and Pilate ordered that it be given to him.
-<small><sub>**Literal:**</sub></small>
-He having gone <the> to Pilate asked for the body <the> of Jesus. Then <the> Pilate commanded it to be given up the body.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.57|<< Matthew 27:57]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.59|Matthew 27:59 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτος]]  [[G4334\|προσελθὼν]]  [[G3588\|τῷ]]  [[G4091\|Πιλάτῳ]]  [[G0154\|ᾐτήσατο]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ.]]  [[G5119\|τότε]]  [[G3588\|ὁ]]  [[G4091\|Πιλᾶτος]]  [[G2753\|ἐκέλευσεν]]  [[G0591\|ἀποδοθῆναι]]  [[G3588\|τὸ]]  [[G4983\|σῶμα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic LOVE|LOVE]] • [[topic PILATE, PONTIUS|PILATE, PONTIUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.57|<< Matthew 27:57]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.59|Matthew 27:59 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

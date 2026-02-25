@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Boldness of the Righteous
+type: Pericope
 pericope: "[[Prov.28.1 The Boldness of the Righteous|The Boldness of the Righteous]]"
-verse_count: 28
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 28
 book/chapter: "[[Prov.28|Proverbs 28]]"
-genre:
+chronological_order: 483
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 28
 verses:
 - "[[Prov.28.1]]"
 - "[[Prov.28.2]]"
@@ -46,7 +53,7 @@ verses:
 - "[[Prov.28.28]]"
 ---
 
-[[Prov.28|Proverbs 28:1 - Proverbs 28:28]]
+<small>[[Prov.28|Proverbs 28:1-28]]</small>
 *The Boldness of the Righteous*
 
 [[Prov.28.1|1]] The wicked flee when no man pursueth: but the righteous are bold as a lion.

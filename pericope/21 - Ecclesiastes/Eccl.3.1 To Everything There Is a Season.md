@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: To Everything There Is a Season
+type: Pericope
 pericope: "[[Eccl.3.1 To Everything There Is a Season|To Everything There Is a Season]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Ecclesiastes
 chapter: 3
 book/chapter: "[[Eccl.3|Ecclesiastes 3]]"
-genre:
+chronological_order: 541
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - philosophical
 - megillot
+verse_count: 8
 verses:
 - "[[Eccl.3.1]]"
 - "[[Eccl.3.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Eccl.3.8]]"
 ---
 
-[[Eccl.3|Ecclesiastes 3:1 - Ecclesiastes 3:8]]
+<small>[[Eccl.3|Ecclesiastes 3:1-8]]</small>
 *To Everything There Is a Season*
 
 [[Eccl.3.1|1]] To every \[thing there is\] a season, and a time to every purpose under the heaven:

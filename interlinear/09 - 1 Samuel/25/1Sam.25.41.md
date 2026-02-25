@@ -1,8 +1,61 @@
+---
+title: 1 Samuel 25:41
+type: Verse
+kjv: "And she arose, and bowed herself on her face to the earth, and said, Behold, let thine handmaid be a servant to wash the feet of the servants of my lord."
+bsb: "She arose, bowed facedown, and said, “Here is your servant, ready to serve and to wash the feet of my lord’s servants.”"
+hebrew: "וַתָּ֕קָם וַתִּשְׁתַּ֥חוּ אַפַּ֖יִם אָ֑רְצָה וַתֹּ֗אמֶר הִנֵּ֤ה אֲמָֽתְךָ֙ לְשִׁפְחָ֔ה לִרְחֹ֕ץ רַגְלֵ֖י עַבְדֵ֥י אֲדֹנִֽי׃"
+pericope: "[[1Sam.25.39 David Marries Abigail|David Marries Abigail]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic KING|KING]]"
+- "[[topic OBSEQUIOUSNESS|OBSEQUIOUSNESS]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H7812]]"
+- "[[H0639I]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H0519]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H8198]]"
+- "[[H7364]]"
+- "[[H7272]]"
+- "[[H5650]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 25:41**<big><big>[[1Sam.25.39 David Marries Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she arose, and bowed herself on [her] face to the earth, and said, Behold, [let] thine handmaid [be] a servant to wash the feet of the servants of my lord.
 <small><sub>**BSB:**</sub></small>
 She arose, bowed facedown, and said, “Here is your servant, ready to serve and to wash the feet of my lord’s servants.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|תָּ֕קָם]] [[H9001\|וַ]][[H7812\|תִּשְׁתַּ֥חוּ]] [[H0639I\|אַפַּ֖יִם]] [[H0776H\|אָ֑רְצָ]][[H9011\|ה]] [[H9001\|וַ]][[H0559\|תֹּ֗אמֶר]] [[H2009\|הִנֵּ֤ה]] [[H0519\|אֲמָֽתְ]][[H9021\|ךָ֙]] [[H9005\|לְ]][[H8198\|שִׁפְחָ֔ה]] [[H9005\|לִ]][[H7364\|רְחֹ֕ץ]] [[H7272\|רַגְלֵ֖י]] [[H5650\|עַבְדֵ֥י]] [[H0113\|אֲדֹנִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]] • [[topic OBSEQUIOUSNESS|OBSEQUIOUSNESS]] • [[topic POLYGAMY|POLYGAMY]] • [[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.40|<< 1 Samuel 25:40]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.42|1 Samuel 25:42 >>]]</td></tr></table>
 

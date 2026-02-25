@@ -1,8 +1,78 @@
+---
+title: Nehemiah 5:5
+type: Verse
+kjv: "Yet now our flesh is as the flesh of our brethren, our children as their children: and, lo, we bring into bondage our sons and our daughters to be servants, and some of our daughters are brought unto bondage already: neither is it in our power to redeem them; for other men have our lands and vineyards."
+bsb: "We and our children are just like our countrymen and their children, yet we are subjecting our sons and daughters to slavery. Some of our daughters are already enslaved, but we are powerless to redeem them because our fields and vineyards belong to others.”"
+hebrew: "וְעַתָּ֗ה כִּבְשַׂ֤ר אַחֵ֙ינוּ֙ בְּשָׂרֵ֔נוּ כִּבְנֵיהֶ֖ם בָּנֵ֑ינוּ וְהִנֵּ֣ה אֲנַ֣חְנוּ כֹ֠בְשִׁים אֶת־ בָּנֵ֨ינוּ וְאֶת־ בְּנֹתֵ֜ינוּ לַעֲבָדִ֗ים וְיֵ֨שׁ מִבְּנֹתֵ֤ינוּ נִכְבָּשׁוֹת֙ וְאֵ֣ין לְאֵ֣ל יָדֵ֔נוּ וּשְׂדֹתֵ֥ינוּ וּכְרָמֵ֖ינוּ לַאֲחֵרִֽים׃"
+pericope: "[[Neh.5.1 Nehemiah Defends the Oppressed|Nehemiah Defends the Oppressed]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 5
+book/chapter: "[[Neh.5|Nehemiah 5]]"
+chronological_order: 917
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic BORROWING|BORROWING]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic INTEREST|INTEREST]]"
+- "[[topic LAND|LAND]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic POOR|POOR]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic USURY|USURY]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H9004]]"
+- "[[H1320]]"
+- "[[H0251I]]"
+- "[[H9025]]"
+- "[[H1121A]]"
+- "[[H9028]]"
+- "[[H2009]]"
+- "[[H0587]]"
+- "[[H3533]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1323G]]"
+- "[[H9005]]"
+- "[[H5650]]"
+- "[[H3426]]"
+- "[[H9006]]"
+- "[[H0369]]"
+- "[[H0410L]]"
+- "[[H3027H]]"
+- "[[H7704G]]"
+- "[[H3754]]"
+- "[[H0312]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 5:5**<big><big>[[Neh.5.1 Nehemiah Defends the Oppressed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet now our flesh [is] as the flesh of our brethren, our children as their children: and, lo, we bring into bondage our sons and our daughters to be servants, and [some] of our daughters are brought unto bondage [already]: neither [is it] in our power [to redeem them]; for other men have our lands and vineyards.
 <small><sub>**BSB:**</sub></small>
 We and our children are just like our countrymen and their children, yet we are subjecting our sons and daughters to slavery. Some of our daughters are already enslaved, but we are powerless to redeem them because our fields and vineyards belong to others.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H9004\|כִּ]][[H1320\|בְשַׂ֤ר]] [[H0251I\|אַחֵ֙י]][[H9025\|נוּ֙]] [[H1320\|בְּשָׂרֵ֔]][[H9025\|נוּ]] [[H9004\|כִּ]][[H1121A\|בְנֵי]][[H9028\|הֶ֖ם]] [[H1121A\|בָּנֵ֑י]][[H9025\|נוּ]] [[H9002\|וְ]][[H2009\|הִנֵּ֣ה]] [[H0587\|אֲנַ֣חְנוּ]] [[H3533\|כֹ֠בְשִׁים]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בָּנֵ֨י]][[H9025\|נוּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1323G\|בְּנֹתֵ֜י]][[H9025\|נוּ]] [[H9005\|לַ]][[H5650\|עֲבָדִ֗ים]] [[H9002\|וְ]][[H3426\|יֵ֨שׁ]] [[H9006\|מִ]][[H1323G\|בְּנֹתֵ֤י]][[H9025\|נוּ]] [[H3533\|נִכְבָּשׁוֹת֙]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H9005\|לְ]][[H0410L\|אֵ֣ל]] [[H3027H\|יָדֵ֔]][[H9025\|נוּ]] [[H9002\|וּ]][[H7704G\|שְׂדֹתֵ֥י]][[H9025\|נוּ]] [[H9002\|וּ]][[H3754\|כְרָמֵ֖י]][[H9025\|נוּ]] [[H9005\|לַ]][[H0312\|אֲחֵרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BORROWING|BORROWING]] • [[topic CHILDREN|CHILDREN]] • [[topic COUNTRY|COUNTRY]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CREDITOR|CREDITOR]] • [[topic DEBTOR|DEBTOR]] • [[topic INTEREST|INTEREST]] • [[topic LAND|LAND]] • [[topic LENDING|LENDING]] • [[topic POOR|POOR]] • [[topic REPENTANCE|REPENTANCE]] • [[topic RICH, THE|RICH, THE]] • [[topic USURY|USURY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.5.4|<< Nehemiah 5:4]]</td><td align="center" style="border:none;">[[Neh.5|Nehemiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.6|Nehemiah 5:6 >>]]</td></tr></table>
 

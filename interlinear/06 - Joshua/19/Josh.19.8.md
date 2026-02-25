@@ -1,8 +1,67 @@
+---
+title: Joshua 19:8
+type: Verse
+kjv: "And all the villages that were round about these cities to Baalathbeer, Ramath of the south. This is the inheritance of the tribe of the children of Simeon according to their families."
+bsb: "and all the villages surrounding these cities as far as Baalath-beer (Ramah of the Negev). This was the inheritance of the clans of the tribe of Simeon."
+hebrew: "וְכָל־ הַֽחֲצֵרִ֗ים אֲשֶׁ֤ר סְבִיבוֹת֙ הֶֽעָרִ֣ים הָאֵ֔לֶּה עַד־ בַּֽעֲלַ֥ת בְּאֵ֖ר רָ֣אמַת נֶ֑גֶב זֹ֗את נַחֲלַ֛ת מַטֵּ֥ה בְנֵֽי־ שִׁמְע֖וֹן לְמִשְׁפְּחֹתָֽם׃"
+pericope: "[[Josh.19.1 Simeon’s Inheritance|Simeon’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 19
+book/chapter: "[[Josh.19|Joshua 19]]"
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMAM|AMAM]]"
+- "[[topic BAAL|BAAL]]"
+- "[[topic BIZJOTHJAH|BIZJOTHJAH]]"
+- "[[topic RAMATH|RAMATH]]"
+- "[[topic RAMOTH|RAMOTH]]"
+- "[[topic SIMEON|SIMEON]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2691B]]"
+- "[[H0834A]]"
+- "[[H5439G]]"
+- "[[H5892B]]"
+- "[[H0428]]"
+- "[[H5704]]"
+- "[[H1192]]"
+- "[[H7414G]]"
+- "[[H5045G]]"
+- "[[H2063]]"
+- "[[H5159]]"
+- "[[H4294H]]"
+- "[[H1121G]]"
+- "[[H8095G]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 19:8**<big><big>[[Josh.19.1 Simeon’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the villages that [were] round about these cities to Baalathbeer, Ramath of the south. This [is] the inheritance of the tribe of the children of Simeon according to their families.
 <small><sub>**BSB:**</sub></small>
 and all the villages surrounding these cities as far as Baalath-beer (Ramah of the Negev). This was the inheritance of the clans of the tribe of Simeon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַֽ]][[H2691B\|חֲצֵרִ֗ים]] [[H0834A\|אֲשֶׁ֤ר]] [[H5439G\|סְבִיבוֹת֙]] [[H9009\|הֶֽ]][[H5892B\|עָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H5704\|עַד]][[H9014\|־]] [[H1192\|בַּֽעֲלַ֥ת]] [[H1192\|בְּאֵ֖ר]] [[H7414G\|רָ֣אמַת]] [[H5045G\|נֶ֑גֶב]] [[H2063\|זֹ֗את]] [[H5159\|נַחֲלַ֛ת]] [[H4294H\|מַטֵּ֥ה]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H8095G\|שִׁמְע֖וֹן]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMAM|AMAM]] • [[topic BAAL|BAAL]] • [[topic BIZJOTHJAH|BIZJOTHJAH]] • [[topic RAMATH|RAMATH]] • [[topic RAMOTH|RAMOTH]] • [[topic SIMEON|SIMEON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.7|<< Joshua 19:7]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.9|Joshua 19:9 >>]]</td></tr></table>
 

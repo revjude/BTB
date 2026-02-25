@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Quail and the Plague
+type: Pericope
 pericope: "[[Num.11.31 The Quail and the Plague|The Quail and the Plague]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 11
 book/chapter: "[[Num.11|Numbers 11]]"
-genre:
+chronological_order: 171
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 5
 verses:
 - "[[Num.11.31]]"
 - "[[Num.11.32]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Num.11.35]]"
 ---
 
-[[Num.11|Numbers 11:31 - Numbers 11:35]]
+<small>[[Num.11|Numbers 11:31-35]]</small>
 *The Quail and the Plague*
 
 [[Num.11.31|31]] And there went forth a wind from the LORD, and brought quails from the sea, and let \[them\] fall by the camp, as it were a day’s journey on this side, and as it were a day’s journey on the other side, round about the camp, and as it were two cubits \[high\] upon the face of the earth.

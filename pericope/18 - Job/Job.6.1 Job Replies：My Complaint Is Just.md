@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Job Replies：My Complaint Is Just
+type: Pericope
 pericope: "[[Job.6.1 Job Replies：My Complaint Is Just|Job Replies：My Complaint Is Just]]"
-verse_count: 30
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 6
 book/chapter: "[[Job.6|Job 6]]"
-genre:
+chronological_order: 17
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 30
 verses:
 - "[[Job.6.1]]"
 - "[[Job.6.2]]"
@@ -49,7 +56,7 @@ verses:
 - "[[Job.6.30]]"
 ---
 
-[[Job.6|Job 6:1 - Job 6:30]]
+<small>[[Job.6|Job 6:1-30]]</small>
 *Job Replies：My Complaint Is Just*
 
 [[Job.6.1|1]] But Job answered and said,

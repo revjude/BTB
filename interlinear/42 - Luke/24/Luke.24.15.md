@@ -1,10 +1,53 @@
+---
+title: Luke 24:15
+type: Verse
+kjv: "And it came to pass, that, while they communed together and reasoned, Jesus himself drew near, and went with them."
+bsb: "And as they talked and deliberated, Jesus Himself came up and walked along with them."
+greek: "καὶ ἐγένετο ἐν τῷ ὁμιλεῖν αὐτοὺς καὶ συζητεῖν καὶ αὐτὸς ὁ Ἰησοῦς ἐγγίσας συνεπορεύετο αὐτοῖς."
+pericope: "[[Luke.24.13 The Road to Emmaus|The Road to Emmaus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3656]]"
+- "[[G0846]]"
+- "[[G4802]]"
+- "[[G2424G]]"
+- "[[G1448]]"
+- "[[G4848]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 24:15**<big><big>[[Luke.24.13 The Road to Emmaus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that, while they communed [together] and reasoned, Jesus himself drew near, and went with them.
 <small><sub>**BSB:**</sub></small>
 And as they talked and deliberated, Jesus Himself came up and walked along with them.
-<small><sub>**Literal:**</sub></small>
-And it came to pass during the talking by them and reasoning that Himself <the> Jesus having drawn near He was walking along with them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.14|<< Luke 24:14]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.16|Luke 24:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1096\|ἐγένετο]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3656\|ὁμιλεῖν]]  [[G0846\|αὐτοὺς]]  [[G2532\|καὶ]]  [[G4802\|συζητεῖν]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G1448\|ἐγγίσας]]  [[G4848\|συνεπορεύετο]]  [[G0846\|αὐτοῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FELLOWSHIP|FELLOWSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.14|<< Luke 24:14]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.16|Luke 24:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

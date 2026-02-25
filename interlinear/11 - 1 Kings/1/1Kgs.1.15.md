@@ -1,8 +1,64 @@
+---
+title: 1 Kings 1:15
+type: Verse
+kjv: "And Bathsheba went in unto the king into the chamber: and the king was very old; and Abishag the Shunammite ministered unto the king."
+bsb: "So Bathsheba went to see the king in his bedroom. Since the king was very old, Abishag the Shunammite was serving him."
+hebrew: "וַתָּבֹ֨א בַת־ שֶׁ֤בֶע אֶל־ הַמֶּ֙לֶךְ֙ הַחַ֔דְרָה וְהַמֶּ֖לֶךְ זָקֵ֣ן מְאֹ֑ד וַֽאֲבִישַׁג֙ הַשּׁ֣וּנַמִּ֔ית מְשָׁרַ֖ת אֶת־ הַמֶּֽלֶךְ׃"
+pericope: "[[1Kgs.1.11 Nathan and Bathsheba before David|Nathan and Bathsheba before David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BATH-SHEBA (BATHSHEBA)|BATH-SHEBA (BATHSHEBA)]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PETITION|PETITION]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H1339]]"
+- "[[H9014]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H2315]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H2204]]"
+- "[[H3966]]"
+- "[[H0049]]"
+- "[[H7767]]"
+- "[[H8334]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:15**<big><big>[[1Kgs.1.11 Nathan and Bathsheba before David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Bathsheba went in unto the king into the chamber: and the king was very old; and Abishag the Shunammite ministered unto the king.
 <small><sub>**BSB:**</sub></small>
 So Bathsheba went to see the king in his bedroom. Since the king was very old, Abishag the Shunammite was serving him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|תָּבֹ֨א]] [[H1339\|בַת]][[H9014\|־]] [[H1339\|שֶׁ֤בֶע]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H9009\|הַ]][[H2315\|חַ֔דְרָ]][[H9011\|ה]] [[H9002\|וְ]][[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H2204\|זָקֵ֣ן]] [[H3966\|מְאֹ֑ד]] [[H9002\|וַֽ]][[H0049\|אֲבִישַׁג֙]] [[H9009\|הַ]][[H7767\|שּׁ֣וּנַמִּ֔ית]] [[H8334\|מְשָׁרַ֖ת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BATH-SHEBA (BATHSHEBA)|BATH-SHEBA (BATHSHEBA)]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PETITION|PETITION]] • [[topic POLITICS|POLITICS]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.14|<< 1 Kings 1:14]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.16|1 Kings 1:16 >>]]</td></tr></table>
 

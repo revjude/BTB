@@ -1,10 +1,57 @@
+---
+title: 1 John 3:20
+type: Verse
+kjv: "For if our heart condemn us, God is greater than our heart, and knoweth all things."
+bsb: "Even if our hearts condemn us, God is greater than our hearts, and He knows all things."
+greek: "ὅτι ἐὰν καταγινώσκῃ ἡμῶν ἡ καρδία, ὅτι μείζων ἐστὶν ὁ θεὸς τῆς καρδίας ἡμῶν καὶ γινώσκει πάντα.¶"
+pericope: "[[1John.3.11 Love One Another|Love One Another]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 3
+book/chapter: "[[1John.3|1 John 3]]"
+chronological_order: 1163
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REMORSE|REMORSE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G3754G]]"
+- "[[G1437]]"
+- "[[G2607]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G3173]]"
+- "[[G1510]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G1097]]"
+- "[[G3956]]"
+texts:
+- NKO
+---
+
 **1 John 3:20**<big><big>[[1John.3.11 Love One Another|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For if our heart condemn us, God is greater than our heart, and knoweth all things.
 <small><sub>**BSB:**</sub></small>
 Even if our hearts condemn us, God is greater than our hearts, and He knows all things.
-<small><sub>**Literal:**</sub></small>
-that if shall condemn [us] our <the> heart, that greater than is the God of the heart of us and He knows all things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.19|<< 1 John 3:19]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.21|1 John 3:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754G\|ὅτι]]  [[G1437\|ἐὰν]]  [[G2607\|καταγινώσκῃ]]  [[G3165\|ἡμῶν]]  [[G3588\|ἡ]]  [[G2588\|καρδία,]]  [[G3754G\|ὅτι]]  [[G3173\|μείζων]]  [[G1510\|ἐστὶν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τῆς]]  [[G2588\|καρδίας]]  [[G3165\|ἡμῶν]]  [[G2532\|καὶ]]  [[G1097\|γινώσκει]]  [[G3956\|πάντα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic GOD|GOD]] • [[topic REMORSE|REMORSE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.19|<< 1 John 3:19]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.21|1 John 3:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

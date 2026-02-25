@@ -1,8 +1,57 @@
+---
+title: Job 39:10
+type: Verse
+kjv: "Canst thou bind the unicorn with his band in the furrow? or will he harrow the valleys after thee?"
+bsb: "Can you hold him to the furrow with a harness? Will he plow the valleys behind you?"
+hebrew: "הֲֽתִקְשָׁר־ רֵ֭ים בְּתֶ֣לֶם עֲבֹת֑וֹ אִם־ יְשַׂדֵּ֖ד עֲמָקִ֣ים אַחֲרֶֽיךָ׃"
+pericope: "[[Job.39.1 The LORD Speaks of His Creation|The LORD Speaks of His Creation]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 39
+book/chapter: "[[Job.39|Job 39]]"
+chronological_order: 50
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic CORD|CORD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic UNICORN (WILD OX, R. V.)|UNICORN (WILD OX, R. V.)]]"
+strongs:
+- "[[H9008]]"
+- "[[H7194]]"
+- "[[H9014]]"
+- "[[H7214]]"
+- "[[H9003]]"
+- "[[H8525]]"
+- "[[H5688]]"
+- "[[H9023]]"
+- "[[H0518H]]"
+- "[[H7702]]"
+- "[[H6010R]]"
+- "[[H0310A]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 39:10**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Canst thou bind the unicorn with his band in the furrow? or will he harrow the valleys after thee?
 <small><sub>**BSB:**</sub></small>
 Can you hold him to the furrow with a harness? Will he plow the valleys behind you?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲֽ]][[H7194\|תִקְשָׁר]][[H9014\|־]] [[H7214\|רֵ֭ים]] [[H9003\|בְּ]][[H8525\|תֶ֣לֶם]] [[H5688\|עֲבֹת֑]][[H9023\|וֹ]] [[H0518H\|אִם]][[H9014\|־]] [[H7702\|יְשַׂדֵּ֖ד]] [[H6010R\|עֲמָקִ֣ים]] [[H0310A\|אַחֲרֶֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CORD|CORD]] • [[topic GOD|GOD]] • [[topic UNICORN (WILD OX, R. V.)|UNICORN (WILD OX, R. V.)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.9|<< Job 39:9]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.11|Job 39:11 >>]]</td></tr></table>
 

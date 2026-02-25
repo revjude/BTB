@@ -1,10 +1,71 @@
+---
+title: Matthew 19:29
+type: Verse
+kjv: "And every one that hath forsaken houses, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my name’s sake, shall receive an hundredfold, and shall inherit everlasting life."
+bsb: "And everyone who has left houses or brothers or sisters or father or mother or wife or children or fields for the sake of My name will receive a hundredfold and will inherit eternal life."
+jesus_said: "And every one that hath forsaken houses, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my name’s sake, shall receive an hundredfold, and shall inherit everlasting life."
+greek: "Καὶ πᾶς ὅστις ἀφῆκεν οἰκίας ἢ ἀδελφοὺς ἢ ἀδελφὰς ἢ πατέρα ἢ μητέρα ἢ γυναῖκα ἢ τέκνα ἢ ἀγροὺς ἕνεκεν τοῦ ὀνόματός μου, ἑκατονταπλασίονα λήμψεται καὶ ζωὴν αἰώνιον κληρονομήσει.¶"
+pericope: "[[Matt.19.16 The Rich Young Man|The Rich Young Man]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 19
+book/chapter: "[[Matt.19|Matthew 19]]"
+chronological_order: 986
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3748]]"
+- "[[G0863G]]"
+- "[[G3614G]]"
+- "[[G2228]]"
+- "[[G0080]]"
+- "[[G0079]]"
+- "[[G3962]]"
+- "[[G3384]]"
+- "[[G1135H]]"
+- "[[G5043]]"
+- "[[G0068G]]"
+- "[[G1752]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G3165]]"
+- "[[G1542]]"
+- "[[G2983]]"
+- "[[G2222]]"
+- "[[G0166]]"
+- "[[G2816]]"
+texts:
+- NKO
+- N(k)O
+- KO
+- NK(o)
+---
+
 **Matthew 19:29**<big><big>[[Matt.19.16 The Rich Young Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And every one that hath forsaken houses, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my name’s sake, shall receive an hundredfold, and shall inherit everlasting life.
 <small><sub>**BSB:**</sub></small>
 And everyone who has left houses or brothers or sisters or father or mother or wife or children or fields for the sake of My name will receive a hundredfold and will inherit eternal life.
-<small><sub>**Literal:**</sub></small>
-And everyone who has left houses or brothers or sisters or father or mother or wife or children or lands for the sake of <the> name of Me a hundredfold will receive and life eternal will inherit.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.28|<< Matthew 19:28]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.30|Matthew 19:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3956\|πᾶς]]  [[G3748\|ὅστις]]  [[G0863G\|ἀφῆκεν]]  [[G3614G\|οἰκίας]]  [[G2228\|ἢ]]  [[G0080\|ἀδελφοὺς]]  [[G2228\|ἢ]]  [[G0079\|ἀδελφὰς]]  [[G2228\|ἢ]]  [[G3962\|πατέρα]]  [[G2228\|ἢ]]  [[G3384\|μητέρα]]  [[G2228\|ἢ]]  [[G1135H\|γυναῖκα]]  [[G2228\|ἢ]]  [[G5043\|τέκνα]]  [[G2228\|ἢ]]  [[G0068G\|ἀγροὺς]]  [[G1752\|ἕνεκεν]]  [[G3588\|τοῦ]]  [[G3686\|ὀνόματός]]  [[G3165\|μου,]]  [[G1542\|ἑκατονταπλασίονα]]  [[G2983\|λήμψεται]]  [[G2532\|καὶ]]  [[G2222\|ζωὴν]]  [[G0166\|αἰώνιον]]  [[G2816\|κληρονομήσει.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RICHES|RICHES]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.28|<< Matthew 19:28]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.30|Matthew 19:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

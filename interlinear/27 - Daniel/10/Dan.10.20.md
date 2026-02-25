@@ -1,8 +1,64 @@
+---
+title: Daniel 10:20
+type: Verse
+kjv: "Then said he, Knowest thou wherefore I come unto thee? and now will I return to fight with the prince of Persia: and when I am gone forth, lo, the prince of Grecia shall come."
+bsb: "“Do you know why I have come to you?” he said. “I must return at once to fight against the prince of Persia, and when I have gone forth, behold, the prince of Greece will come."
+hebrew: "וַיֹּ֗אמֶר הֲיָדַ֙עְתָּ֙ לָמָּה־ בָּ֣אתִי אֵלֶ֔יךָ וְעַתָּ֣ה אָשׁ֔וּב לְהִלָּחֵ֖ם עִם־ שַׂ֣ר פָּרָ֑ס וַאֲנִ֣י יוֹצֵ֔א וְהִנֵּ֥ה שַׂר־ יָוָ֖ן בָּֽא׃"
+pericope: "[[Dan.10.1 Daniel’s Vision by the Tigris|Daniel’s Vision by the Tigris]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 10
+book/chapter: "[[Dan.10|Daniel 10]]"
+chronological_order: 846
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic GREECE|GREECE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H3045]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H7725G]]"
+- "[[H3898A]]"
+- "[[H5973A]]"
+- "[[H8269]]"
+- "[[H6539]]"
+- "[[H0589]]"
+- "[[H3318G]]"
+- "[[H2009]]"
+- "[[H3120H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 10:20**<big><big>[[Dan.10.1 Daniel’s Vision by the Tigris|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said he, Knowest thou wherefore I come unto thee? and now will I return to fight with the prince of Persia: and when I am gone forth, lo, the prince of Grecia shall come.
 <small><sub>**BSB:**</sub></small>
 “Do you know why I have come to you?” he said. “I must return at once to fight against the prince of Persia, and when I have gone forth, behold, the prince of Greece will come.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H9008\|הֲ]][[H3045\|יָדַ֙עְתָּ֙]] [[H9005\|לָ]][[H4100\|מָּה]][[H9014\|־]] [[H0935G\|בָּ֣אתִי]] [[H0413\|אֵלֶ֔י]][[H9031\|ךָ]] [[H9002\|וְ]][[H6258\|עַתָּ֣ה]] [[H7725G\|אָשׁ֔וּב]] [[H9005\|לְ]][[H3898A\|הִלָּחֵ֖ם]] [[H5973A\|עִם]][[H9014\|־]] [[H8269\|שַׂ֣ר]] [[H6539\|פָּרָ֑ס]] [[H9002\|וַ]][[H0589\|אֲנִ֣י]] [[H3318G\|יוֹצֵ֔א]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H8269\|שַׂר]][[H9014\|־]] [[H3120H\|יָוָ֖ן]] [[H0935G\|בָּֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic GREECE|GREECE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.10.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.10.19|<< Daniel 10:19]]</td><td align="center" style="border:none;">[[Dan.10|Daniel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.10.21|Daniel 10:21 >>]]</td></tr></table>
 

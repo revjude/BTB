@@ -1,8 +1,52 @@
+---
+title: Psalm 31:8
+type: Verse
+kjv: "And hast not shut me up into the hand of the enemy: thou hast set my feet in a large room."
+bsb: "You have not delivered me to the enemy; You have set my feet in the open."
+hebrew: "וְלֹ֣א הִ֭סְגַּרְתַּנִי בְּיַד־ אוֹיֵ֑ב הֶֽעֱמַ֖דְתָּ בַמֶּרְחָ֣ב רַגְלָֽי׃"
+pericope: "[[Ps.31.1 Into Your Hands I Commit My Spirit|Into Your Hands I Commit My Spirit]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 31
+book/chapter: "[[Ps.31|Psalm 31]]"
+chronological_order: 362
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5462]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9014]]"
+- "[[H0341]]"
+- "[[H5975G]]"
+- "[[H4800]]"
+- "[[H7272]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 31:8**<big><big>[[Ps.31.1 Into Your Hands I Commit My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And hast not shut me up into the hand of the enemy: thou hast set my feet in a large room.
 <small><sub>**BSB:**</sub></small>
 You have not delivered me to the enemy; You have set my feet in the open.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֣א]] [[H5462\|הִ֭סְגַּרְתַּ]][[H9030\|נִי]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H0341\|אוֹיֵ֑ב]] [[H5975G\|הֶֽעֱמַ֖דְתָּ]] [[H9003\|בַ]][[H4800\|מֶּרְחָ֣ב]] [[H7272\|רַגְלָֽ]][[H9020\|י]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.31.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.7|<< Psalms 31:7]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.9|Psalms 31:9 >>]]</td></tr></table>
 

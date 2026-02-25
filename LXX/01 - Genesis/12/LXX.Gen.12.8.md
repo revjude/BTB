@@ -1,6 +1,83 @@
+---
+title: LXX Genesis 12:8
+type: Verse
+lxx: "And he left from there into the mountain according to the east of Beth-el. And he set up there  his tent in Beth-el according to the west, and Hai according to the east. And he built there an altar to the lord, and he called upon the name of the lord."
+greek: "και απέστη εκείθεν εις το όρος κατά ανατολάς Βαιθήλ και έστησεν εκεί την σκηνήν αυτού εν Βαιθήλ κατά θάλασσαν και Αγγέ κατά ανατολάς και ωκοδόμησεν εκεί θυσιαστήριον τω κυρίω και επεκαλέσατο επί τω ονόματι κυρίου"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 12
+book/chapter: "[[Gen.12|Genesis 12]]"
+chronological_order: 54
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic HAI|HAI]]"
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic TENT|TENT]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G2532]]"
+- "[[G0868]]"
+- "[[G1564]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G2596]]"
+- "[[G0395]]"
+- "[[H1008]]"
+- "[[G2532]]"
+- "[[G2476]]"
+- "[[G1563]]"
+- "[[G3588]]"
+- "[[G4633]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[H1008]]"
+- "[[G2596]]"
+- "[[G2281]]"
+- "[[G2532]]"
+- "[[H5857]]"
+- "[[G2596]]"
+- "[[G0395]]"
+- "[[G2532]]"
+- "[[G3618]]"
+- "[[G1563]]"
+- "[[G2379]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G2532]]"
+- "[[G1941]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G2962]]"
+---
+
 **LXX Genesis 12:8** 
 <small><sub>**LXX:**</sub></small>
 And he left from there into the mountain according to \[the\] east of Beth-el. And he set up there  his tent in Beth-el according to \[the\] west, and Hai according to \[the\] east. And he built there an altar to the <span class="smallcaps">lord</span>, and he called upon the name of \[the\] <span class="smallcaps">lord</span>. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0868\|απέστη]] [[G1564\|εκείθεν]] [[G1519\|εις]] [[G3588\|το]] [[G3735\|όρος]] [[G2596\|κατά]] [[G0395\|ανατολάς]] [[H1008\|Βαιθήλ]] [[G2532\|και]] [[G2476\|έστησεν]] [[G1563\|εκεί]] [[G3588\|την]] [[G4633\|σκηνήν]] [[G1473\|αυτού]] [[G1722\|εν]] [[H1008\|Βαιθήλ]] [[G2596\|κατά]] [[G2281\|θάλασσαν]] [[G2532\|και]] [[H5857\|Αγγέ]] [[G2596\|κατά]] [[G0395\|ανατολάς]] [[G2532\|και]] [[G3618\|ωκοδόμησεν]] [[G1563\|εκεί]] [[G2379\|θυσιαστήριον]] [[G3588\|τω]] [[G2962\|κυρίω]] [[G2532\|και]] [[G1941\|επεκαλέσατο]] [[G1909\|επί]] [[G3588\|τω]] [[G3686\|ονόματι]] [[G2962\|κυρίου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic ALTAR|ALTAR]] • [[topic BETH-EL|BETH-EL]] • [[topic COURAGE|COURAGE]] • [[topic FAMILY|FAMILY]] • [[topic HAI|HAI]] • [[topic HIGH PLACES|HIGH PLACES]] • [[topic PRAYER|PRAYER]] • [[topic RELIGION|RELIGION]] • [[topic TENT|TENT]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.12.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.12.7|<< Genesis 12:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.12.9|Genesis 12:9 >>]]</td></tr></table>
 
@@ -40,6 +117,6 @@ And he left from there into the mountain according to \[the\] east of Beth-el. A
 | the | **<big>[[G3588\|τω]]</big>** |
 | name | **<big>[[G3686\|ονόματι]]</big>** |
 | of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
-[[Gen.12.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.12.7|<< Genesis 12:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.12.9|Genesis 12:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.12.7|<< Genesis 12:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.12.9|Genesis 12:9 >>]]</td></tr></table>
 
 

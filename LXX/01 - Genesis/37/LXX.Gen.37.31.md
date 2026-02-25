@@ -1,6 +1,57 @@
+---
+title: LXX Genesis 37:31
+type: Verse
+lxx: "And taking the garment  of Joseph, they slew a kid of the goats, and tainted the garment in the blood."
+greek: "λαβόντες δε τον χιτώνα του Ιωσήφ έσφαξαν έριφον αιγών και εμόλυναν τον χιτώνα τω αίματι"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 37
+book/chapter: "[[Gen.37|Genesis 37]]"
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISHMAELITES|ISHMAELITES]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[G2983]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G5509]]"
+- "[[G3588]]"
+- "[[G2501]]"
+- "[[G4969]]"
+- "[[G2056]]"
+- "[[G6167]]"
+- "[[G2532]]"
+- "[[G3435]]"
+- "[[G3588]]"
+- "[[G5509]]"
+- "[[G3588]]"
+- "[[G0129]]"
+---
+
 **LXX Genesis 37:31** 
 <small><sub>**LXX:**</sub></small>
 And taking the garment  of Joseph, they slew a kid of \[the\] goats, and tainted the garment in the blood. 
+<small><sub>**Greek:**</sub></small>
+[[G2983\|λαβόντες]] [[G1161\|δε]] [[G3588\|τον]] [[G5509\|χιτώνα]] [[G3588\|του]] [[G2501\|Ιωσήφ]] [[G4969\|έσφαξαν]] [[G2056\|έριφον]] [[G6167\|αιγών]] [[G2532\|και]] [[G3435\|εμόλυναν]] [[G3588\|τον]] [[G5509\|χιτώνα]] [[G3588\|τω]] [[G0129\|αίματι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEPTION|DECEPTION]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISHMAELITES|ISHMAELITES]] • [[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.37.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.30|<< Genesis 37:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.32|Genesis 37:32 >>]]</td></tr></table>
 
@@ -20,6 +71,6 @@ And taking the garment  of Joseph, they slew a kid of \[the\] goats, and tainted
 | garment | **<big>[[G5509\|χιτώνα]]</big>** |
 | in the | **<big>[[G3588\|τω]]</big>** |
 | blood. | **<big>[[G0129\|αίματι]]</big>** |
-[[Gen.37.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.30|<< Genesis 37:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.32|Genesis 37:32 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.30|<< Genesis 37:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.32|Genesis 37:32 >>]]</td></tr></table>
 
 

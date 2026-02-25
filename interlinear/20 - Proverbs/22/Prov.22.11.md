@@ -1,8 +1,53 @@
+---
+title: Proverbs 22:11
+type: Verse
+kjv: "He that loveth pureness of heart, for the grace of his lips the king shall be his friend."
+bsb: "He who loves a pure heart and gracious lips will have the king for a friend."
+hebrew: "אֹהֵ֥ב טְהָר לֵ֑ב חֵ֥ן שְׂ֝פָתָ֗יו רֵעֵ֥הוּ מֶֽלֶךְ׃"
+pericope: "[[Prov.22.1 A Good Name|A Good Name]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 22
+book/chapter: "[[Prov.22|Proverbs 22]]"
+chronological_order: 477
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic HEART|HEART]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H0157G]]"
+- "[[H2889]]"
+- "[[H3820A]]"
+- "[[H2580]]"
+- "[[H8193H]]"
+- "[[H9023]]"
+- "[[H7453]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Proverbs 22:11**<big><big>[[Prov.22.1 A Good Name|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that loveth pureness of heart, [for] the grace of his lips the king [shall be] his friend.
 <small><sub>**BSB:**</sub></small>
 He who loves a pure heart and gracious lips will have the king for a friend.
+<small><sub>**Hebrew:**</sub></small>
+[[H0157G\|אֹהֵ֥ב]] [[H2889\|טְהָר]] [[H3820A\|לֵ֑ב]] [[H2580\|חֵ֥ן]] [[H8193H\|שְׂ֝פָתָ֗י]][[H9023\|ו]] [[H7453\|רֵעֵ֥]][[H9023\|הוּ]] [[H4428G\|מֶֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic HEART|HEART]] • [[topic INTEGRITY|INTEGRITY]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.22.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.10|<< Proverbs 22:10]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.12|Proverbs 22:12 >>]]</td></tr></table>
 

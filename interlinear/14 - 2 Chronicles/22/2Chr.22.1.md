@@ -1,8 +1,69 @@
+---
+title: 2 Chronicles 22:1
+type: Verse
+kjv: "And the inhabitants of Jerusalem made Ahaziah his youngest son king in his stead: for the band of men that came with the Arabians to the camp had slain all the eldest. So Ahaziah the son of Jehoram king of Judah reigned."
+bsb: "Then the people of Jerusalem made Ahaziah, the youngest son of Jehoram, king in his place, since the raiders who had come into the camp with the Arabs had killed all the older sons. So Ahaziah son of Jehoram became king of Judah."
+hebrew: "וַיַּמְלִיכוּ֩ יוֹשְׁבֵ֨י יְרוּשָׁלִַ֜ם אֶת־ אֲחַזְיָ֨הוּ בְנ֤וֹ הַקָּטֹן֙ תַּחְתָּ֔יו כִּ֤י כָל־ הָרִאשֹׁנִים֙ הָרַ֣ג הַגְּד֔וּד הַבָּ֥א בָֽעַרְבִ֖ים לַֽמַּחֲנֶ֑ה וַיִּמְלֹ֛ךְ אֲחַזְיָ֥הוּ בֶן־ יְהוֹרָ֖ם מֶ֥לֶךְ יְהוּדָֽה׃ פ"
+pericope: "[[2Chr.22.1 Ahaziah Reigns in Judah|Ahaziah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 22
+book/chapter: "[[2Chr.22|2 Chronicles 22]]"
+chronological_order: 587
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ARABIANS|ARABIANS]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H4427A]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0274H]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H6996H]]"
+- "[[H8478H]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H3605]]"
+- "[[H7223I]]"
+- "[[H2026]]"
+- "[[H1416]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H6163B]]"
+- "[[H9005]]"
+- "[[H4264]]"
+- "[[H3088G]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Chronicles 22:1**<big><big>[[2Chr.22.1 Ahaziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the inhabitants of Jerusalem made Ahaziah his youngest son king in his stead: for the band of men that came with the Arabians to the camp had slain all the eldest. So Ahaziah the son of Jehoram king of Judah reigned.
 <small><sub>**BSB:**</sub></small>
 Then the people of Jerusalem made Ahaziah, the youngest son of Jehoram, king in his place, since the raiders who had come into the camp with the Arabs had killed all the older sons. So Ahaziah son of Jehoram became king of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4427A\|יַּמְלִיכוּ֩]] [[H3427\|יוֹשְׁבֵ֨י]] [[H3389\|יְרוּשָׁלִַ֜ם]] [[H0853\|אֶת]][[H9014\|־]] [[H0274H\|אֲחַזְיָ֨הוּ]] [[H1121A\|בְנ֤]][[H9023\|וֹ]] [[H9009\|הַ]][[H6996H\|קָּטֹן֙]] [[H8478H\|תַּחְתָּ֔י]][[H9033\|ו]] [[H3588A\|כִּ֤י]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H7223I\|רִאשֹׁנִים֙]] [[H2026\|הָרַ֣ג]] [[H9009\|הַ]][[H1416\|גְּד֔וּד]] [[H9009\|הַ]][[H0935G\|בָּ֥א]] [[H9003\|בָֽ]][[H6163B\|עַרְבִ֖ים]] [[H9005\|לַֽ]][[H4264\|מַּחֲנֶ֑ה]] [[H9001\|וַ]][[H4427A\|יִּמְלֹ֛ךְ]] [[H0274H\|אֲחַזְיָ֥הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H3088G\|יְהוֹרָ֖ם]] [[H4428G\|מֶ֥לֶךְ]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARABIANS|ARABIANS]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.22.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.21.20|<< 2 Chronicles 21:20]]</td><td align="center" style="border:none;">[[2Chr.22|2 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.22.2|2 Chronicles 22:2 >>]]</td></tr></table>
 
@@ -29,7 +90,7 @@ Then the people of Jerusalem made Ahaziah, the youngest son of Jehoram, king in 
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jehoram  |**<big>&#8207;[[H3088G\|יְהוֹרָ֖ם]]&#8207; </big>**| ye.ho.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶ֥לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Judah  |**<big>&#8207;[[H3063G\|יְהוּדָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  |**<big>&#8207;[[H3063G\|יְהוּדָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.21.20|<< 2 Chronicles 21:20]]</td><td align="center" style="border:none;">[[2Chr.22|2 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.22.2|2 Chronicles 22:2 >>]]</td></tr></table>
 
 

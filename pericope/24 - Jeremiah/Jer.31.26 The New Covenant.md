@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The New Covenant
+type: Pericope
 pericope: "[[Jer.31.26 The New Covenant|The New Covenant]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 31
 book/chapter: "[[Jer.31|Jeremiah 31]]"
-genre:
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 15
 verses:
 - "[[Jer.31.26]]"
 - "[[Jer.31.27]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Jer.31.40]]"
 ---
 
-[[Jer.31|Jeremiah 31:26 - Jeremiah 31:40]]
+<small>[[Jer.31|Jeremiah 31:26-40]]</small>
 *The New Covenant*
 
 [[Jer.31.26|26]] Upon this I awaked, and beheld; and my sleep was sweet unto me.

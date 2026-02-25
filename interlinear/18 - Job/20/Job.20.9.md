@@ -1,8 +1,55 @@
+---
+title: Job 20:9
+type: Verse
+kjv: "The eye also which saw him shall see him no more; neither shall his place any more behold him."
+bsb: "The eye that saw him will see him no more, and his place will no longer behold him."
+hebrew: "עַ֣יִן שְׁ֭זָפַתּוּ וְלֹ֣א תוֹסִ֑יף וְלֹא־ ע֝֗וֹד תְּשׁוּרֶ֥נּוּ מְקוֹמֽוֹ׃"
+pericope: "[[Job.20.1 Zophar：Destruction Awaits the Wicked|Zophar：Destruction Awaits the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 20
+book/chapter: "[[Job.20|Job 20]]"
+chronological_order: 31
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H5869A]]"
+- "[[H7805]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3254G]]"
+- "[[H9014]]"
+- "[[H5750]]"
+- "[[H7789]]"
+- "[[H4725]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 20:9**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The eye also [which] saw him shall [see him] no more; neither shall his place any more behold him.
 <small><sub>**BSB:**</sub></small>
 The eye that saw him will see him no more, and his place will no longer behold him.
+<small><sub>**Hebrew:**</sub></small>
+[[H5869A\|עַ֣יִן]] [[H7805\|שְׁ֭זָפַתּ]][[H9033\|וּ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3254G\|תוֹסִ֑יף]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H5750\|ע֝֗וֹד]] [[H7789\|תְּשׁוּרֶ֥]][[H9033\|נּוּ]] [[H4725\|מְקוֹמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.8|<< Job 20:8]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.10|Job 20:10 >>]]</td></tr></table>
 

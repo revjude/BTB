@@ -1,10 +1,65 @@
+---
+title: Matthew 6:28
+type: Verse
+kjv: "And why take ye thought for raiment? Consider the lilies of the field, how they grow; they toil not, neither do they spin:"
+bsb: "And why do you worry about clothes? Consider how the lilies of the field grow: They do not labor or spin."
+jesus_said: "And why take ye thought for raiment? Consider the lilies of the field, how they grow; they toil not, neither do they spin:"
+greek: "καὶ περὶ ἐνδύματος τί μεριμνᾶτε; καταμάθετε τὰ κρίνα τοῦ ἀγροῦ, πῶς αὐξάνουσιν· οὐ κοπιῶσιν οὐδὲ νήθουσιν."
+pericope: "[[Matt.6.25 Do Not Worry|Do Not Worry]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 6
+book/chapter: "[[Matt.6|Matthew 6]]"
+chronological_order: 944
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BOTANY|BOTANY]]"
+- "[[topic CARE|CARE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic LILY|LILY]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic TROUBLE|TROUBLE]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G4012]]"
+- "[[G1742]]"
+- "[[G5101]]"
+- "[[G3309]]"
+- "[[G2648]]"
+- "[[G3588]]"
+- "[[G2918]]"
+- "[[G0068G]]"
+- "[[G4459]]"
+- "[[G0837]]"
+- "[[G3756]]"
+- "[[G2872]]"
+- "[[G3761]]"
+- "[[G3514]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 6:28**<big><big>[[Matt.6.25 Do Not Worry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And why take ye thought for raiment? Consider the lilies of the field, how they grow; they toil not, neither do they spin:
 <small><sub>**BSB:**</sub></small>
 And why do you worry about clothes? Consider how the lilies of the field grow: They do not labor or spin.
-<small><sub>**Literal:**</sub></small>
-And about clothing why are you anxious? do observe the lilies of the field, how they grow; not do they labor nor do they spin.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.27|<< Matthew 6:27]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.29|Matthew 6:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4012\|περὶ]]  [[G1742\|ἐνδύματος]]  [[G5101\|τί]]  [[G3309\|μεριμνᾶτε;]]  [[G2648\|καταμάθετε]]  [[G3588\|τὰ]]  [[G2918\|κρίνα]]  [[G3588\|τοῦ]]  [[G0068G\|ἀγροῦ,]]  [[G4459\|πῶς]]  [[G0837\|αὐξάνουσιν·]]  [[G3756\|οὐ]]  [[G2872\|κοπιῶσιν]]  [[G3761\|οὐδὲ]]  [[G3514\|νήθουσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOTANY|BOTANY]] • [[topic CARE|CARE]] • [[topic FAITH|FAITH]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic LILY|LILY]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RELIGION|RELIGION]] • [[topic TROUBLE|TROUBLE]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.27|<< Matthew 6:27]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.29|Matthew 6:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

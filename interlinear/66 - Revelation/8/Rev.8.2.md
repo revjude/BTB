@@ -1,10 +1,54 @@
+---
+title: Revelation 8:2
+type: Verse
+kjv: "And I saw the seven angels which stood before God; and to them were given seven trumpets."
+bsb: "And I saw the seven angels who stand before God, and they were given seven trumpets."
+greek: "καὶ εἶδον τοὺς ἑπτὰ ἀγγέλους οἳ ἐνώπιον τοῦ θεοῦ ἑστήκασιν καὶ ἐδόθησαν αὐτοῖς ἑπτὰ σάλπιγγες.¶"
+pericope: "[[Rev.8.1 The Seventh Seal|The Seventh Seal]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 8
+book/chapter: "[[Rev.8|Revelation 8]]"
+chronological_order: 1175
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G2033]]"
+- "[[G0032G]]"
+- "[[G3739]]"
+- "[[G1799]]"
+- "[[G2316]]"
+- "[[G2476]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G4536]]"
+texts:
+- NKO
+---
+
 **Revelation 8:2**<big><big>[[Rev.8.1 The Seventh Seal|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I saw the seven angels which stood before God; and to them were given seven trumpets.
 <small><sub>**BSB:**</sub></small>
 And I saw the seven angels who stand before God, and they were given seven trumpets.
-<small><sub>**Literal:**</sub></small>
-And I saw the seven angels who before <the> God have stood and were given to them seven trumpets.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.1|<< Revelation 8:1]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.3|Revelation 8:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1492H\|εἶδον]]  [[G3588\|τοὺς]]  [[G2033\|ἑπτὰ]]  [[G0032G\|ἀγγέλους]]  [[G3739\|οἳ]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2476\|ἑστήκασιν]]  [[G2532\|καὶ]]  [[G1325\|ἐδόθησαν]]  [[G0846\|αὐτοῖς]]  [[G2033\|ἑπτὰ]]  [[G4536\|σάλπιγγες.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic SEVEN|SEVEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.1|<< Revelation 8:1]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.3|Revelation 8:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

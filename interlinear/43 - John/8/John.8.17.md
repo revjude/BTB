@@ -1,10 +1,55 @@
+---
+title: John 8:17
+type: Verse
+kjv: "It is also written in your law, that the testimony of two men is true."
+bsb: "Even in your own Law it is written that the testimony of two men is valid."
+jesus_said: "It is also written in your law, that the testimony of two men is true."
+greek: "καὶ ἐν τῷ νόμῳ δὲ τῷ ὑμετέρῳ γέγραπται ὅτι δύο ἀνθρώπων ἡ μαρτυρία ἀληθής ἐστιν."
+pericope: "[[John.8.12 Jesus the Light of the World|Jesus the Light of the World]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WITNESS|WITNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G1125]]"
+- "[[G3754G]]"
+- "[[G1417]]"
+- "[[G0444]]"
+- "[[G3141]]"
+- "[[G0227]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **John 8:17**<big><big>[[John.8.12 Jesus the Light of the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 It is also written in your law, that the testimony of two men is true.
 <small><sub>**BSB:**</sub></small>
 Even in your own Law it is written that the testimony of two men is valid.
-<small><sub>**Literal:**</sub></small>
-And in the law also <the> of you it has been written that of two men the testimony true is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.16|<< John 8:16]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.18|John 8:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3551\|νόμῳ]]  [[G1161\|δὲ]]  [[G3588\|τῷ]]  [[G4771\|ὑμετέρῳ]]  [[G1125\|γέγραπται]]  [[G3754G\|ὅτι]]  [[G1417\|δύο]]  [[G0444\|ἀνθρώπων]]  [[G3588\|ἡ]]  [[G3141\|μαρτυρία]]  [[G0227\|ἀληθής]]  [[G1510\|ἐστιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WITNESS|WITNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.16|<< John 8:16]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.18|John 8:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **John 8:17** is...
 > $\quad$ referencing: [[LXX.Deut.19.15|Deut 19:15]]

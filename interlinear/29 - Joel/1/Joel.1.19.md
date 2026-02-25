@@ -1,8 +1,62 @@
+---
+title: Joel 1:19
+type: Verse
+kjv: "O LORD, to thee will I cry: for the fire hath devoured the pastures of the wilderness, and the flame hath burned all the trees of the field."
+bsb: "To You, O LORD, I call, for fire has consumed the open pastures and flames have scorched all the trees of the field."
+hebrew: "אֵלֶ֥יךָ יְהוָ֖ה אֶקְרָ֑א כִּ֣י אֵ֗שׁ אָֽכְלָה֙ נְא֣וֹת מִדְבָּ֔ר וְלֶ֣הָבָ֔ה לִהֲטָ֖ה כָּל־ עֲצֵ֥י הַשָּׂדֶֽה׃"
+pericope: "[[Joel.1.13 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 1
+book/chapter: "[[Joel.1|Joel 1]]"
+chronological_order: 840
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H7121G]]"
+- "[[H3588A]]"
+- "[[H0784]]"
+- "[[H0398]]"
+- "[[H4999]]"
+- "[[H4057B]]"
+- "[[H9002]]"
+- "[[H3852]]"
+- "[[H3857]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6086H]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 1:19**<big><big>[[Joel.1.13 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, to thee will I cry: for the fire hath devoured the pastures of the wilderness, and the flame hath burned all the trees of the field.
 <small><sub>**BSB:**</sub></small>
 To You, O LORD, I call, for fire has consumed the open pastures and flames have scorched all the trees of the field.
+<small><sub>**Hebrew:**</sub></small>
+[[H0413\|אֵלֶ֥י]][[H9031\|ךָ]] [[H3068G\|יְהוָ֖ה]] [[H7121G\|אֶקְרָ֑א]] [[H3588A\|כִּ֣י]] [[H0784\|אֵ֗שׁ]] [[H0398\|אָֽכְלָה֙]] [[H4999\|נְא֣וֹת]] [[H4057B\|מִדְבָּ֔ר]] [[H9002\|וְ]][[H3852\|לֶ֣הָבָ֔ה]] [[H3857\|לִהֲטָ֖ה]] [[H3605\|כָּל]][[H9014\|־]] [[H6086H\|עֲצֵ֥י]] [[H9009\|הַ]][[H7704G\|שָּׂדֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANIMALS|ANIMALS]] • [[topic FAMINE|FAMINE]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.18|<< Joel 1:18]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.20|Joel 1:20 >>]]</td></tr></table>
 

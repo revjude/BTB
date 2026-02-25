@@ -19,7 +19,7 @@
 
 - Places in the march and encampments [[Num.2.3|Nu 2:3]],[[Num.2.5|5]]; [[Num.10.14|10:14]],[[Num.10.15|15]]
 
-- Parts of Canaan allotted to [[Josh.19.17|Jos 19:17]]-[[Josh.19.23|23]]; with 17:10,11
+- Parts of Canaan allotted to [[Josh.19.17|Jos 19:17-23]]; with 17:10,11
 
 - Join Deborah and Barak in war against Sisera [[Judg.5.15|Jud 5:15]]
 

@@ -1,8 +1,69 @@
+---
+title: Isaiah 43:9
+type: Verse
+kjv: "Let all the nations be gathered together, and let the people be assembled: who among them can declare this, and shew us former things? let them bring forth their witnesses, that they may be justified: or let them hear, and say, It is truth."
+bsb: "All the nations gather together and the peoples assemble. Who among them can declare this, and proclaim to us the former things? Let them present their witnesses to vindicate them, so that others may hear and say, “It is true.”"
+hebrew: "כָּֽל־ הַגּוֹיִ֞ם נִקְבְּצ֣וּ יַחְדָּ֗ו וְיֵאָֽסְפוּ֙ לְאֻמִּ֔ים מִ֤י בָהֶם֙ יַגִּ֣יד זֹ֔את וְרִֽאשֹׁנ֖וֹת יַשְׁמִיעֻ֑נוּ יִתְּנ֤וּ עֵֽדֵיהֶם֙ וְיִצְדָּ֔קוּ וְיִשְׁמְע֖וּ וְיֹאמְר֥וּ אֱמֶֽת׃"
+pericope: "[[Isa.43.1 Israel’s Only Savior|Israel’s Only Savior]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 43
+book/chapter: "[[Isa.43|Isaiah 43]]"
+chronological_order: 682
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H6908]]"
+- "[[H3162B]]"
+- "[[H9002]]"
+- "[[H0622]]"
+- "[[H3816]]"
+- "[[H4310]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H5046]]"
+- "[[H2063]]"
+- "[[H7223H]]"
+- "[[H8085I]]"
+- "[[H9035]]"
+- "[[H5414G]]"
+- "[[H5707]]"
+- "[[H9028]]"
+- "[[H6663]]"
+- "[[H8085G]]"
+- "[[H0559]]"
+- "[[H0571H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 43:9**<big><big>[[Isa.43.1 Israel’s Only Savior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let all the nations be gathered together, and let the people be assembled: who among them can declare this, and shew us former things? let them bring forth their witnesses, that they may be justified: or let them hear, and say, [It is] truth.
 <small><sub>**BSB:**</sub></small>
 All the nations gather together and the peoples assemble. Who among them can declare this, and proclaim to us the former things? Let them present their witnesses to vindicate them, so that others may hear and say, “It is true.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּֽל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֞ם]] [[H6908\|נִקְבְּצ֣וּ]] [[H3162B\|יַחְדָּ֗ו]] [[H9002\|וְ]][[H0622\|יֵאָֽסְפוּ֙]] [[H3816\|לְאֻמִּ֔ים]] [[H4310\|מִ֤י]] [[H9003\|בָ]][[H9038\|הֶם֙]] [[H5046\|יַגִּ֣יד]] [[H2063\|זֹ֔את]] [[H9002\|וְ]][[H7223H\|רִֽאשֹׁנ֖וֹת]] [[H8085I\|יַשְׁמִיעֻ֑]][[H9035\|נוּ]] [[H5414G\|יִתְּנ֤וּ]] [[H5707\|עֵֽדֵי]][[H9028\|הֶם֙]] [[H9002\|וְ]][[H6663\|יִצְדָּ֔קוּ]] [[H9002\|וְ]][[H8085G\|יִשְׁמְע֖וּ]] [[H9002\|וְ]][[H0559\|יֹאמְר֥וּ]] [[H0571H\|אֱמֶֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISAIAH|ISAIAH]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.8|<< Isaiah 43:8]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.10|Isaiah 43:10 >>]]</td></tr></table>
 

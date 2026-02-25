@@ -1,8 +1,49 @@
+---
+title: Ezekiel 46:10
+type: Verse
+kjv: "And the prince in the midst of them, when they go in, shall go in; and when they go forth, shall go forth."
+bsb: "When the people enter, the prince shall go in with them, and when they leave, he shall leave."
+hebrew: "וְֽהַנָּשִׂ֑יא בְּתוֹכָ֤ם בְּבוֹאָם֙ יָב֔וֹא וּבְצֵאתָ֖ם יֵצֵֽאוּ׃"
+pericope: "[[Ezek.46.1 The Prince’s Offerings|The Prince’s Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 46
+book/chapter: "[[Ezek.46|Ezekiel 46]]"
+chronological_order: 837
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5387A]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9028]]"
+- "[[H0935G]]"
+- "[[H9048]]"
+- "[[H3318G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 46:10**<big><big>[[Ezek.46.1 The Prince’s Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the prince in the midst of them, when they go in, shall go in; and when they go forth, shall go forth.
 <small><sub>**BSB:**</sub></small>
 When the people enter, the prince shall go in with them, and when they leave, he shall leave.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְֽ]][[H9009\|הַ]][[H5387A\|נָּשִׂ֑יא]] [[H9003\|בְּ]][[H8432\|תוֹכָ֤]][[H9028\|ם]] [[H9003\|בְּ]][[H0935G\|בוֹאָ]][[H9048\|ם֙]] [[H0935G\|יָב֔וֹא]] [[H9002\|וּ]][[H9003\|בְ]][[H3318G\|צֵאתָ֖]][[H9048\|ם]] [[H3318G\|יֵצֵֽאוּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.46.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.9|<< Ezekiel 46:9]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.11|Ezekiel 46:11 >>]]</td></tr></table>
 

@@ -1,10 +1,72 @@
+---
+title: Revelation 11:6
+type: Verse
+kjv: "These have power to shut heaven, that it rain not in the days of their prophecy: and have power over waters to turn them to blood, and to smite the earth with all plagues, as often as they will."
+bsb: "These witnesses have power to shut the sky so that no rain will fall during the days of their prophecy, and power to turn the waters into blood and to strike the earth with every kind of plague as often as they wish."
+greek: "οὗτοι ἔχουσιν τὴν ἐξουσίαν κλεῖσαι τὸν οὐρανὸν ἵνα μὴ ὑετὸς βρέχῃ τὰς ἡμέρας τῆς προφητείας αὐτῶν, καὶ ἐξουσίαν ἔχουσιν ἐπὶ τῶν ὑδάτων στρέφειν αὐτὰ εἰς αἷμα καὶ πατάξαι τὴν γῆν ἐν πάσῃ πληγῇ ὁσάκις ἐὰν θελήσωσιν."
+pericope: "[[Rev.11.1 The Two Witnesses|The Two Witnesses]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 11
+book/chapter: "[[Rev.11|Revelation 11]]"
+chronological_order: 1178
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G3778]]"
+- "[[G2192]]"
+- "[[G3588]]"
+- "[[G1849]]"
+- "[[G2808]]"
+- "[[G3772]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G5205]]"
+- "[[G1026]]"
+- "[[G2250]]"
+- "[[G4394]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G1909]]"
+- "[[G5204]]"
+- "[[G4762]]"
+- "[[G1519]]"
+- "[[G0129G]]"
+- "[[G3960]]"
+- "[[G1093G]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G4127]]"
+- "[[G3740]]"
+- "[[G1437]]"
+- "[[G2309]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Revelation 11:6**<big><big>[[Rev.11.1 The Two Witnesses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 These have power to shut heaven, that it rain not in the days of their prophecy: and have power over waters to turn them to blood, and to smite the earth with all plagues, as often as they will.
 <small><sub>**BSB:**</sub></small>
 These witnesses have power to shut the sky so that no rain will fall during the days of their prophecy, and power to turn the waters into blood and to strike the earth with every kind of plague as often as they wish.
-<small><sub>**Literal:**</sub></small>
-These have the power to shut the sky so that not rain may fall in the days of the prophecy of them, and power they have over the waters to turn them into blood and to strike the earth with every plague as often as if they shall desire.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.5|<< Revelation 11:5]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.7|Revelation 11:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτοι]]  [[G2192\|ἔχουσιν]]  [[G3588\|τὴν]]  [[G1849\|ἐξουσίαν]]  [[G2808\|κλεῖσαι]]  [[G3588\|τὸν]]  [[G3772\|οὐρανὸν]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G5205\|ὑετὸς]]  [[G1026\|βρέχῃ]]  [[G3588\|τὰς]]  [[G2250\|ἡμέρας]]  [[G3588\|τῆς]]  [[G4394\|προφητείας]]  [[G0846\|αὐτῶν,]]  [[G2532\|καὶ]]  [[G1849\|ἐξουσίαν]]  [[G2192\|ἔχουσιν]]  [[G1909\|ἐπὶ]]  [[G3588\|τῶν]]  [[G5204\|ὑδάτων]]  [[G4762\|στρέφειν]]  [[G0846\|αὐτὰ]]  [[G1519\|εἰς]]  [[G0129G\|αἷμα]]  [[G2532\|καὶ]]  [[G3960\|πατάξαι]]  [[G3588\|τὴν]]  [[G1093G\|γῆν]]  [[G1722\|ἐν]]  [[G3956\|πάσῃ]]  [[G4127\|πληγῇ]]  [[G3740\|ὁσάκις]]  [[G1437\|ἐὰν]]  [[G2309\|θελήσωσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic PLAGUE|PLAGUE]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.5|<< Revelation 11:5]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.7|Revelation 11:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 11:6** is...
 > $\quad$ alluding to: [[LXX.Exod.7.20|Exod 7:20]] ☩ [[LXX.1Kgs.17.1|1Kgs 17:1]]

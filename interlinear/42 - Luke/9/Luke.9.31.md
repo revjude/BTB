@@ -1,10 +1,56 @@
+---
+title: Luke 9:31
+type: Verse
+kjv: "Who appeared in glory, and spake of his decease which he should accomplish at Jerusalem."
+bsb: "They appeared in glory and spoke about His departure, which He was about to accomplish at Jerusalem."
+greek: "οἳ ὀφθέντες ἐν δόξῃ ἔλεγον τὴν ἔξοδον αὐτοῦ ἣν ἤμελλεν πληροῦν ἐν Ἰερουσαλήμ."
+pericope: "[[Luke.9.28 The Transfiguration|The Transfiguration]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G3739]]"
+- "[[G3700]]"
+- "[[G1722]]"
+- "[[G1391]]"
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G1841]]"
+- "[[G0846]]"
+- "[[G3195]]"
+- "[[G4137]]"
+- "[[G2419]]"
+texts:
+- NKO
+---
+
 **Luke 9:31**<big><big>[[Luke.9.28 The Transfiguration|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who appeared in glory, and spake of his decease which he should accomplish at Jerusalem.
 <small><sub>**BSB:**</sub></small>
 They appeared in glory and spoke about His departure, which He was about to accomplish at Jerusalem.
-<small><sub>**Literal:**</sub></small>
-Those having appeared in glory were speaking of the going out of Him which He was soon to accomplish in Jerusalem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.30|<< Luke 9:30]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.32|Luke 9:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|οἳ]]  [[G3700\|ὀφθέντες]]  [[G1722\|ἐν]]  [[G1391\|δόξῃ]]  [[G3004G\|ἔλεγον]]  [[G3588\|τὴν]]  [[G1841\|ἔξοδον]]  [[G0846\|αὐτοῦ]]  [[G3739\|ἣν]]  [[G3195\|ἤμελλεν]]  [[G4137\|πληροῦν]]  [[G1722\|ἐν]]  [[G2419\|Ἰερουσαλήμ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.30|<< Luke 9:30]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.32|Luke 9:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

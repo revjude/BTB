@@ -1,8 +1,65 @@
+---
+title: Leviticus 15:32
+type: Verse
+kjv: "This is the law of him that hath an issue, and of him whose seed goeth from him, and is defiled therewith;"
+bsb: "This is the law of him who has a discharge, of the man who has an emission of semen whereby he is unclean,"
+hebrew: "זֹ֥את תּוֹרַ֖ת הַזָּ֑ב וַאֲשֶׁ֨ר תֵּצֵ֥א מִמֶּ֛נּוּ שִׁכְבַת־ זֶ֖רַע לְטָמְאָה־ בָֽהּ׃"
+pericope: "[[Lev.15.28 The Cleansing of Women|The Cleansing of Women]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 15
+book/chapter: "[[Lev.15|Leviticus 15]]"
+chronological_order: 147
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H2063]]"
+- "[[H8451]]"
+- "[[H9009]]"
+- "[[H2100H]]"
+- "[[H9002]]"
+- "[[H0834A]]"
+- "[[H3318L]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H7902]]"
+- "[[H9014]]"
+- "[[H2233I]]"
+- "[[H9005]]"
+- "[[H2930A]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 15:32**<big><big>[[Lev.15.28 The Cleansing of Women|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the law of him that hath an issue, and [of him] whose seed goeth from him, and is defiled therewith;
 <small><sub>**BSB:**</sub></small>
 This is the law of him who has a discharge, of the man who has an emission of semen whereby he is unclean,
+<small><sub>**Hebrew:**</sub></small>
+[[H2063\|זֹ֥את]] [[H8451\|תּוֹרַ֖ת]] [[H9009\|הַ]][[H2100H\|זָּ֑ב]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֨ר]] [[H3318L\|תֵּצֵ֥א]] [[H4480A\|מִמֶּ֛]][[H9033\|נּוּ]] [[H7902\|שִׁכְבַת]][[H9014\|־]] [[H2233I\|זֶ֖רַע]] [[H9005\|לְ]][[H2930A\|טָמְאָה]][[H9014\|־]] [[H9003\|בָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic PURIFICATION|PURIFICATION]] • [[topic SANITATION|SANITATION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.15.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.31|<< Leviticus 15:31]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.33|Leviticus 15:33 >>]]</td></tr></table>
 

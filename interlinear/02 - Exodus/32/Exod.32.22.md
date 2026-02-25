@@ -1,8 +1,70 @@
+---
+title: Exodus 32:22
+type: Verse
+kjv: "And Aaron said, Let not the anger of my lord wax hot: thou knowest the people, that they are set on mischief."
+bsb: "“Do not be enraged, my lord,” Aaron replied. “You yourself know that the people are intent on evil."
+hebrew: "וַיֹּ֣אמֶר אַהֲרֹ֔ן אַל־ יִ֥חַר אַ֖ף אֲדֹנִ֑י אַתָּה֙ יָדַ֣עְתָּ אֶת־ הָעָ֔ם כִּ֥י בְרָ֖ע הֽוּא׃"
+pericope: "[[Exod.32.1 The Golden Calf|The Golden Calf]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 32
+book/chapter: "[[Exod.32|Exodus 32]]"
+chronological_order: 124
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic EXCUSES|EXCUSES]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0175]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H2734]]"
+- "[[H0639G]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H0859A]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H7451B]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 32:22**<big><big>[[Exod.32.1 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Aaron said, Let not the anger of my lord wax hot: thou knowest the people, that they [are set] on mischief.
 <small><sub>**BSB:**</sub></small>
 “Do not be enraged, my lord,” Aaron replied. “You yourself know that the people are intent on evil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0175\|אַהֲרֹ֔ן]] [[H0408\|אַל]][[H9014\|־]] [[H2734\|יִ֥חַר]] [[H0639G\|אַ֖ף]] [[H0113\|אֲדֹנִ֑]][[H9020\|י]] [[H0859A\|אַתָּה֙]] [[H3045\|יָדַ֣עְתָּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H3588A\|כִּ֥י]] [[H9003\|בְ]][[H7451B\|רָ֖ע]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COWARDICE|COWARDICE]] • [[topic EXCUSES|EXCUSES]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic REPROOF|REPROOF]] • [[topic RESPONSIBILITY|RESPONSIBILITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.32.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.32.21|<< Exodus 32:21]]</td><td align="center" style="border:none;">[[Exod.32|Exodus 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.32.23|Exodus 32:23 >>]]</td></tr></table>
 

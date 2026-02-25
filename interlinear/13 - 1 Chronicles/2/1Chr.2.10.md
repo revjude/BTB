@@ -1,8 +1,54 @@
+---
+title: 1 Chronicles 2:10
+type: Verse
+kjv: "And Ram begat Amminadab; and Amminadab begat Nahshon, prince of the children of Judah;"
+bsb: "Ram was the father of Amminadab, and Amminadab was the father of Nahshon, a leader of the descendants of Judah."
+hebrew: "וְרָ֖ם הוֹלִ֣יד אֶת־ עַמִּינָדָ֑ב וְעַמִּינָדָב֙ הוֹלִ֣יד אֶת־ נַחְשׁ֔וֹן נְשִׂ֖יא בְּנֵ֥י יְהוּדָֽה׃"
+pericope: "[[1Chr.2.1 The Sons of Israel|The Sons of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 2
+book/chapter: "[[1Chr.2|1 Chronicles 2]]"
+chronological_order: 321
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AMMINADAB|AMMINADAB]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic NAHSHON|NAHSHON]]"
+- "[[topic RAM|RAM]]"
+strongs:
+- "[[H9002]]"
+- "[[H7410G]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5992G]]"
+- "[[H5177]]"
+- "[[H5387A]]"
+- "[[H1121A]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 2:10**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ram begat Amminadab; and Amminadab begat Nahshon, prince of the children of Judah;
 <small><sub>**BSB:**</sub></small>
 Ram was the father of Amminadab, and Amminadab was the father of Nahshon, a leader of the descendants of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7410G\|רָ֖ם]] [[H3205\|הוֹלִ֣יד]] [[H0853\|אֶת]][[H9014\|־]] [[H5992G\|עַמִּינָדָ֑ב]] [[H9002\|וְ]][[H5992G\|עַמִּינָדָב֙]] [[H3205\|הוֹלִ֣יד]] [[H0853\|אֶת]][[H9014\|־]] [[H5177\|נַחְשׁ֔וֹן]] [[H5387A\|נְשִׂ֖יא]] [[H1121A\|בְּנֵ֥י]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMINADAB|AMMINADAB]] • [[topic DAVID|DAVID]] • [[topic NAHSHON|NAHSHON]] • [[topic RAM|RAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.9|<< 1 Chronicles 2:9]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.11|1 Chronicles 2:11 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Hosea 11:1
+type: Verse
+kjv: "When Israel was a child, then I loved him, and called my son out of Egypt."
+bsb: "When Israel was a child, I loved him, and out of Egypt I called My son."
+hebrew: "כִּ֛י נַ֥עַר יִשְׂרָאֵ֖ל וָאֹהֲבֵ֑הוּ וּמִמִּצְרַ֖יִם קָרָ֥אתִי לִבְנִֽי׃"
+pericope: "[[Hos.11.1 Out of Egypt I Called My Son|Out of Egypt I Called My Son]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 11
+book/chapter: "[[Hos.11|Hosea 11]]"
+chronological_order: 652
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H5288]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H0157G]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H7121G]]"
+- "[[H9005]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 11:1**<big><big>[[Hos.11.1 Out of Egypt I Called My Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When Israel [was] a child, then I loved him, and called my son out of Egypt.
 <small><sub>**BSB:**</sub></small>
 When Israel was a child, I loved him, and out of Egypt I called My son.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֛י]] [[H5288\|נַ֥עַר]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9001\|וָ]][[H0157G\|אֹהֲבֵ֑]][[H9033\|הוּ]] [[H9002\|וּ]][[H9006\|מִ]][[H4714G\|מִּצְרַ֖יִם]] [[H7121G\|קָרָ֥אתִי]] [[H9005\|לִ]][[H1121A\|בְנִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic GOD|GOD]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.11.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.15|<< Hosea 10:15]]</td><td align="center" style="border:none;">[[Hos.11|Hosea 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.11.2|Hosea 11:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

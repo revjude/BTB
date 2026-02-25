@@ -1,8 +1,60 @@
+---
+title: Lamentations 1:16
+type: Verse
+kjv: "For these things I weep; mine eye, mine eye runneth down with water, because the comforter that should relieve my soul is far from me: my children are desolate, because the enemy prevailed."
+bsb: "For these things I weep; my eyes flow with tears. For there is no one nearby to comfort me, no one to revive my soul. My children are destitute because the enemy has prevailed."
+hebrew: "עַל־ אֵ֣לֶּה׀ אֲנִ֣י בוֹכִיָּ֗ה עֵינִ֤י׀ עֵינִי֙ יֹ֣רְדָה מַּ֔יִם כִּֽי־ רָחַ֥ק מִמֶּ֛נִּי מְנַחֵ֖ם מֵשִׁ֣יב נַפְשִׁ֑י הָי֤וּ בָנַי֙ שֽׁוֹמֵמִ֔ים כִּ֥י גָבַ֖ר אוֹיֵֽב׃ ס"
+pericope: "[[Lam.1.1 How Lonely Lies the City!|How Lonely Lies the City!]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 1
+book/chapter: "[[Lam.1|Lamentations 1]]"
+chronological_order: 776
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0428]]"
+- "[[H9015]]"
+- "[[H0589]]"
+- "[[H1058]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H3381]]"
+- "[[H4325G]]"
+- "[[H3588A]]"
+- "[[H7368]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H5162G]]"
+- "[[H7725H]]"
+- "[[H5315G]]"
+- "[[H1961]]"
+- "[[H1121A]]"
+- "[[H8074G]]"
+- "[[H1396]]"
+- "[[H0341]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Lamentations 1:16**<big><big>[[Lam.1.1 How Lonely Lies the City!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For these [things] I weep; mine eye, mine eye runneth down with water, because the comforter that should relieve my soul is far from me: my children are desolate, because the enemy prevailed.
 <small><sub>**BSB:**</sub></small>
 For these things I weep; my eyes flow with tears. For there is no one nearby to comfort me, no one to revive my soul. My children are destitute because the enemy has prevailed.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H0428\|אֵ֣לֶּה]][[H9015\|׀]] [[H0589\|אֲנִ֣י]] [[H1058\|בוֹכִיָּ֗ה]] [[H5869A\|עֵינִ֤]][[H9020\|י]][[H9015\|׀]] [[H5869A\|עֵינִ]][[H9020\|י֙]] [[H3381\|יֹ֣רְדָה]] [[H4325G\|מַּ֔יִם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7368\|רָחַ֥ק]] [[H4480A\|מִמֶּ֛]][[H9030\|נִּי]] [[H5162G\|מְנַחֵ֖ם]] [[H7725H\|מֵשִׁ֣יב]] [[H5315G\|נַפְשִׁ֑]][[H9020\|י]] [[H1961\|הָי֤וּ]] [[H1121A\|בָנַ]][[H9020\|י֙]] [[H8074G\|שֽׁוֹמֵמִ֔ים]] [[H3588A\|כִּ֥י]] [[H1396\|גָבַ֖ר]] [[H0341\|אוֹיֵֽב]][[H9016\|׃]] [[H9018\|ס]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.1.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.15|<< Lamentations 1:15]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.17|Lamentations 1:17 >>]]</td></tr></table>
 
@@ -27,7 +79,7 @@ For these things I weep; my eyes flow with tears. For there is no one nearby to 
 | desolate  |**<big>&#8207;[[H8074G\|שֽׁוֹמֵמִ֔ים]]&#8207; </big>**| sho.me.Mim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has prevailed  |**<big>&#8207;[[H1396\|גָבַ֖ר]]&#8207; </big>**| ga.Var<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] enemy  |**<big>&#8207;[[H0341\|אוֹיֵֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'o.Yev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] enemy  |**<big>&#8207;[[H0341\|אוֹיֵֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'o.Yev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.15|<< Lamentations 1:15]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.17|Lamentations 1:17 >>]]</td></tr></table>
 
 

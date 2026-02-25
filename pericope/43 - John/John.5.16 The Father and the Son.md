@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Father and the Son
+type: Pericope
 pericope: "[[John.5.16 The Father and the Son|The Father and the Son]]"
-verse_count: 15
+original_language: Greek
 testament: New
 book: John
 chapter: 5
 book/chapter: "[[John.5|John 5]]"
-genre:
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 15
 verses:
 - "[[John.5.16]]"
 - "[[John.5.17]]"
@@ -33,7 +40,7 @@ verses:
 - "[[John.5.30]]"
 ---
 
-[[John.5|John 5:16 - John 5:30]]
+<small>[[John.5|John 5:16-30]]</small>
 *The Father and the Son*
 
 [[John.5.16|16]] And therefore did the Jews persecute Jesus, and sought to slay him, because he had done these things on the sabbath day.

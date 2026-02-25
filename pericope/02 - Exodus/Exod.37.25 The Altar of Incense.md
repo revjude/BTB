@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Altar of Incense
+type: Pericope
 pericope: "[[Exod.37.25 The Altar of Incense|The Altar of Incense]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 37
 book/chapter: "[[Exod.37|Exodus 37]]"
-genre:
+chronological_order: 129
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 5
 verses:
 - "[[Exod.37.25]]"
 - "[[Exod.37.26]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Exod.37.29]]"
 ---
 
-[[Exod.37|Exodus 37:25 - Exodus 37:29]]
+<small>[[Exod.37|Exodus 37:25-29]]</small>
 *The Altar of Incense*
 
 [[Exod.37.25|25]] And he made the incense altar \[of\] shittim wood: the length of it \[was\] a cubit, and the breadth of it a cubit; \[it was\] foursquare; and two cubits \[was\] the height of it; the horns thereof were of the same.

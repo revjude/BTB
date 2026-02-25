@@ -1,8 +1,68 @@
+---
+title: Numbers 4:10
+type: Verse
+kjv: "And they shall put it and all the vessels thereof within a covering of badgers’ skins, and shall put it upon a bar."
+bsb: "Then they shall wrap it and all its utensils inside a covering of fine leather and put it on the carrying frame."
+hebrew: "וְנָתְנ֤וּ אֹתָהּ֙ וְאֶת־ כָּל־ כֵּלֶ֔יהָ אֶל־ מִכְסֵ֖ה ע֣וֹר תָּ֑חַשׁ וְנָתְנ֖וּ עַל־ הַמּֽוֹט׃"
+pericope: "[[Num.4.1 The Duties of the Kohathites|The Duties of the Kohathites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 4
+book/chapter: "[[Num.4|Numbers 4]]"
+chronological_order: 163
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic BADGER|BADGER]]"
+- "[[topic CANDLESTICK|CANDLESTICK]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SKIN|SKIN]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H9024]]"
+- "[[H0413]]"
+- "[[H4372]]"
+- "[[H5785]]"
+- "[[H8476]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H4132]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 4:10**<big><big>[[Num.4.1 The Duties of the Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall put it and all the vessels thereof within a covering of badgers’ skins, and shall put [it] upon a bar.
 <small><sub>**BSB:**</sub></small>
 Then they shall wrap it and all its utensils inside a covering of fine leather and put it on the carrying frame.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414H\|נָתְנ֤וּ]] [[H0853\|אֹתָ]][[H9034\|הּ֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כֵּלֶ֔י]][[H9024\|הָ]] [[H0413\|אֶל]][[H9014\|־]] [[H4372\|מִכְסֵ֖ה]] [[H5785\|ע֣וֹר]] [[H8476\|תָּ֑חַשׁ]] [[H9001\|וְ]][[H5414H\|נָתְנ֖וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4132\|מּֽוֹט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic BADGER|BADGER]] • [[topic CANDLESTICK|CANDLESTICK]] • [[topic COLORS|COLORS]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]] • [[topic SKIN|SKIN]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.9|<< Numbers 4:9]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.11|Numbers 4:11 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jonathan’s Victory over the Philistines
+type: Pericope
 pericope: "[[1Sam.14.1 Jonathan’s Victory over the Philistines|Jonathan’s Victory over the Philistines]]"
-verse_count: 23
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 14
 book/chapter: "[[1Sam.14|1 Samuel 14]]"
-genre:
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 23
 verses:
 - "[[1Sam.14.1]]"
 - "[[1Sam.14.2]]"
@@ -41,7 +48,7 @@ verses:
 - "[[1Sam.14.23]]"
 ---
 
-[[1Sam.14|1 Samuel 14:1 - 1 Samuel 14:23]]
+<small>[[1Sam.14|1 Samuel 14:1-23]]</small>
 *Jonathan’s Victory over the Philistines*
 
 [[1Sam.14.1|1]] Now it came to pass upon a day, that Jonathan the son of Saul said unto the young man that bare his armour, Come, and let us go over to the Philistines’ garrison, that \[is\] on the other side. But he told not his father.

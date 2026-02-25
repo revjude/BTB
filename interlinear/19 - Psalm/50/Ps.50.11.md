@@ -1,8 +1,57 @@
+---
+title: Psalm 50:11
+type: Verse
+kjv: "I know all the fowls of the mountains: and the wild beasts of the field are mine."
+bsb: "I know every bird in the mountains, and the creatures of the field are Mine."
+hebrew: "יָ֭דַעְתִּי כָּל־ ע֣וֹף הָרִ֑ים וְזִ֥יז שָׂ֝דַ֗י עִמָּדִֽי׃"
+pericope: "[[Ps.50.1 The Mighty One Calls|The Mighty One Calls]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 50
+book/chapter: "[[Ps.50|Psalm 50]]"
+chronological_order: 505
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H3045]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5775]]"
+- "[[H2022G]]"
+- "[[H9002]]"
+- "[[H2123A]]"
+- "[[H7704M]]"
+- "[[H5978]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 50:11**<big><big>[[Ps.50.1 The Mighty One Calls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I know all the fowls of the mountains: and the wild beasts of the field [are] mine.
 <small><sub>**BSB:**</sub></small>
 I know every bird in the mountains, and the creatures of the field are Mine.
+<small><sub>**Hebrew:**</sub></small>
+[[H3045\|יָ֭דַעְתִּי]] [[H3605\|כָּל]][[H9014\|־]] [[H5775\|ע֣וֹף]] [[H2022G\|הָרִ֑ים]] [[H9002\|וְ]][[H2123A\|זִ֥יז]] [[H7704M\|שָׂ֝דַ֗י]] [[H5978\|עִמָּדִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic FORMALISM|FORMALISM]] • [[topic GOD|GOD]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.50.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50.10|<< Psalms 50:10]]</td><td align="center" style="border:none;">[[Ps.50|Psalms 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50.12|Psalms 50:12 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: 2 Kings 17:3
+type: Verse
+kjv: "Against him came up Shalmaneser king of Assyria; and Hoshea became his servant, and gave him presents."
+bsb: "Shalmaneser king of Assyria attacked him, and Hoshea became his vassal and paid him tribute."
+hebrew: "עָלָ֣יו עָלָ֔ה שַׁלְמַנְאֶ֖סֶר מֶ֣לֶךְ אַשּׁ֑וּר וַֽיְהִי־ ל֤וֹ הוֹשֵׁ֙עַ֙ עֶ֔בֶד וַיָּ֥שֶׁב ל֖וֹ מִנְחָֽה׃"
+pericope: "[[2Kgs.17.1 Hoshea the Last King of Israel|Hoshea the Last King of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 17
+book/chapter: "[[2Kgs.17|2 Kings 17]]"
+chronological_order: 641
+era: Exile
+period: "The Assyrian Crisis and Fall of Israel"
+date: ~722 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic HOSHEA|HOSHEA]]"
+- "[[topic SHALMANESER|SHALMANESER]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H5927G]]"
+- "[[H8022]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H1954G]]"
+- "[[H5650]]"
+- "[[H7725K]]"
+- "[[H4503I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 17:3**<big><big>[[2Kgs.17.1 Hoshea the Last King of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Against him came up Shalmaneser king of Assyria; and Hoshea became his servant, and gave him presents.
 <small><sub>**BSB:**</sub></small>
 Shalmaneser king of Assyria attacked him, and Hoshea became his vassal and paid him tribute.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עָלָ֣י]][[H9033\|ו]] [[H5927G\|עָלָ֔ה]] [[H8022\|שַׁלְמַנְאֶ֖סֶר]] [[H4428G\|מֶ֣לֶךְ]] [[H0804G\|אַשּׁ֑וּר]] [[H9001\|וַֽ]][[H1961\|יְהִי]][[H9014\|־]] [[H9005\|ל֤]][[H9033\|וֹ]] [[H1954G\|הוֹשֵׁ֙עַ֙]] [[H5650\|עֶ֔בֶד]] [[H9001\|וַ]][[H7725K\|יָּ֥שֶׁב]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H4503I\|מִנְחָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic HOSHEA|HOSHEA]] • [[topic SHALMANESER|SHALMANESER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.2|<< 2 Kings 17:2]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.4|2 Kings 17:4 >>]]</td></tr></table>
 

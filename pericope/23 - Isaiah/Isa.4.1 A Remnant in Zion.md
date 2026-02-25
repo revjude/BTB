@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Remnant in Zion
+type: Pericope
 pericope: "[[Isa.4.1 A Remnant in Zion|A Remnant in Zion]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 4
 book/chapter: "[[Isa.4|Isaiah 4]]"
-genre:
+chronological_order: 612
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 6
 verses:
 - "[[Isa.4.1]]"
 - "[[Isa.4.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Isa.4.6]]"
 ---
 
-[[Isa.4|Isaiah 4:1 - Isaiah 4:6]]
+<small>[[Isa.4|Isaiah 4:1-6]]</small>
 *A Remnant in Zion*
 
 [[Isa.4.1|1]] And in that day seven women shall take hold of one man, saying, We will eat our own bread, and wear our own apparel: only let us be called by thy name, to take away our reproach.

@@ -1,8 +1,53 @@
+---
+title: Psalm 122:6
+type: Verse
+kjv: "Pray for the peace of Jerusalem: they shall prosper that love thee."
+bsb: "Pray for the peace of Jerusalem: “May those who love you prosper."
+hebrew: "שַׁ֭אֲלוּ שְׁל֣וֹם יְרוּשָׁלִָ֑ם יִ֝שְׁלָ֗יוּ אֹהֲבָֽיִךְ׃"
+pericope: "[[Ps.122.1 Pray for the Peace of Jerusalem|Pray for the Peace of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 122
+book/chapter: "[[Ps.122|Psalm 122]]"
+chronological_order: 884
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[H7592]]"
+- "[[H7965G]]"
+- "[[H3389]]"
+- "[[H7951]]"
+- "[[H0157G]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 122:6**<big><big>[[Ps.122.1 Pray for the Peace of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Pray for the peace of Jerusalem: they shall prosper that love thee.
 <small><sub>**BSB:**</sub></small>
 Pray for the peace of Jerusalem: “May those who love you prosper.
+<small><sub>**Hebrew:**</sub></small>
+[[H7592\|שַׁ֭אֲלוּ]] [[H7965G\|שְׁל֣וֹם]] [[H3389\|יְרוּשָׁלִָ֑ם]] [[H7951\|יִ֝שְׁלָ֗יוּ]] [[H0157G\|אֹהֲבָֽיִ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.122.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.122.5|<< Psalms 122:5]]</td><td align="center" style="border:none;">[[Ps.122|Psalms 122]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.122.7|Psalms 122:7 >>]]</td></tr></table>
 

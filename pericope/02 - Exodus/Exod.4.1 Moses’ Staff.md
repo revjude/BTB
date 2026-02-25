@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Moses’ Staff
+type: Pericope
 pericope: "[[Exod.4.1 Moses’ Staff|Moses’ Staff]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 4
 book/chapter: "[[Exod.4|Exodus 4]]"
-genre:
+chronological_order: 96
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 5
 verses:
 - "[[Exod.4.1]]"
 - "[[Exod.4.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Exod.4.5]]"
 ---
 
-[[Exod.4|Exodus 4:1 - Exodus 4:5]]
+<small>[[Exod.4|Exodus 4:1-5]]</small>
 *Moses’ Staff*
 
 [[Exod.4.1|1]] And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The LORD hath not appeared unto thee.

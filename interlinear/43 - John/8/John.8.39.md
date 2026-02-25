@@ -1,10 +1,62 @@
+---
+title: John 8:39
+type: Verse
+kjv: "They answered and said unto him, Abraham is our father. Jesus saith unto them, If ye were Abraham’s children, ye would do the works of Abraham."
+bsb: "“Abraham is our father,” they replied. “If you were children of Abraham,” said Jesus, “you would do the works of Abraham."
+jesus_said: "If ye were Abraham’s children, ye would do the works of Abraham."
+greek: "Ἀπεκρίθησαν καὶ εἶπαν αὐτῷ· ὁ πατὴρ ἡμῶν Ἀβραάμ ἐστιν. λέγει αὐτοῖς ὁ Ἰησοῦς· εἰ τέκνα τοῦ Ἀβραάμ ἐστε, τὰ ἔργα τοῦ Ἀβραὰμ ἐποιεῖτε ἄν."
+pericope: "[[John.8.30 The Truth Will Set You Free|The Truth Will Set You Free]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G0611]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G0011]]"
+- "[[G1510]]"
+- "[[G3004G]]"
+- "[[G2424G]]"
+- "[[G1487G]]"
+- "[[G5043]]"
+- "[[G2041]]"
+- "[[G4160G]]"
+- "[[G0302]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+- k
+---
+
 **John 8:39**<big><big>[[John.8.30 The Truth Will Set You Free|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 They answered and said unto him, Abraham is our father. Jesus saith unto them, If ye were Abraham’s children, ye would do the works of Abraham.
 <small><sub>**BSB:**</sub></small>
 “Abraham is our father,” they replied. “If you were children of Abraham,” said Jesus, “you would do the works of Abraham.
-<small><sub>**Literal:**</sub></small>
-They answered and they said to Him; The father of us Abraham is. Says to them <the> Jesus; If children <the> of Abraham you are, the works <the> of Abraham you perform then would.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.38|<< John 8:38]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.40|John 8:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀπεκρίθησαν]]  [[G2532\|καὶ]]  [[G2036\|εἶπαν]]  [[G0846\|αὐτῷ·]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G3165\|ἡμῶν]]  [[G0011\|Ἀβραάμ]]  [[G1510\|ἐστιν.]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G1487G\|εἰ]]  [[G5043\|τέκνα]]  [[G3588\|τοῦ]]  [[G0011\|Ἀβραάμ]]  [[G1510\|ἐστε,]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G3588\|τοῦ]]  [[G0011\|Ἀβραὰμ]]  [[G4160G\|ἐποιεῖτε]]  [[G0302\|ἄν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.38|<< John 8:38]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.40|John 8:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,61 @@
+---
+title: Titus 1:3
+type: Verse
+kjv: "But hath in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour;"
+bsb: "In His own time He has made His word evident in the proclamation entrusted to me by the command of God our Savior."
+greek: "ἐφανέρωσεν δὲ καιροῖς ἰδίοις τὸν λόγον αὐτοῦ ἐν κηρύγματι, ὃ ἐπιστεύθην ἐγὼ κατ᾽ ἐπιταγὴν τοῦ σωτῆρος ἡμῶν θεοῦ·"
+pericope: "[[Titus.1.1 Paul’s Greeting to Titus|Paul’s Greeting to Titus]]"
+original_language: Greek
+testament: New
+book: Titus
+chapter: 1
+book/chapter: "[[Titus.1|Titus 1]]"
+chronological_order: 1132
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G5319]]"
+- "[[G1161]]"
+- "[[G2540]]"
+- "[[G2398]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G2782]]"
+- "[[G3739]]"
+- "[[G4100]]"
+- "[[G1473]]"
+- "[[G2596]]"
+- "[[G2003]]"
+- "[[G4990]]"
+- "[[G3165]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Titus 1:3**<big><big>[[Titus.1.1 Paul’s Greeting to Titus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But hath in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour;
 <small><sub>**BSB:**</sub></small>
 In His own time He has made His word evident in the proclamation entrusted to me by the command of God our Savior.
-<small><sub>**Literal:**</sub></small>
-He revealed now [in] seasons [His] own in the word of Him in [the] proclamation with which was entrusted I myself according to [the] commandment of the Savior of us God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1.2|<< Titus 1:2]]</td><td align="center" style="border:none;">[[Titus.1|Titus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.4|Titus 1:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5319\|ἐφανέρωσεν]]  [[G1161\|δὲ]]  [[G2540\|καιροῖς]]  [[G2398\|ἰδίοις]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G0846\|αὐτοῦ]]  [[G1722\|ἐν]]  [[G2782\|κηρύγματι,]]  [[G3739\|ὃ]]  [[G4100\|ἐπιστεύθην]]  [[G1473\|ἐγὼ]]  [[G2596\|κατ᾽]]  [[G2003\|ἐπιταγὴν]]  [[G3588\|τοῦ]]  [[G4990\|σωτῆρος]]  [[G3165\|ἡμῶν]]  [[G2316\|θεοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PREACHING|PREACHING]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1.2|<< Titus 1:2]]</td><td align="center" style="border:none;">[[Titus.1|Titus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.4|Titus 1:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

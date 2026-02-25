@@ -1,10 +1,63 @@
+---
+title: John 9:21
+type: Verse
+kjv: "But by what means he now seeth, we know not; or who hath opened his eyes, we know not: he is of age; ask him: he shall speak for himself."
+bsb: "But how he can now see or who opened his eyes, we do not know. Ask him. He is old enough to speak for himself.”"
+greek: "πῶς δὲ νῦν βλέπει οὐκ οἴδαμεν, ἢ τίς ἤνοιξεν αὐτοῦ τοὺς ὀφθαλμοὺς ἡμεῖς οὐκ οἴδαμεν· αὐτὸν ἐρωτήσατε, αὐτὸς ἡλικίαν ἔχει· αὐτὸς περὶ ἑαυτοῦ λαλήσει.¶"
+pericope: "[[John.9.13 The Pharisees Investigate the Healing|The Pharisees Investigate the Healing]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 9
+book/chapter: "[[John.9|John 9]]"
+chronological_order: 983
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[G4459]]"
+- "[[G1161]]"
+- "[[G3568]]"
+- "[[G0991]]"
+- "[[G3756]]"
+- "[[G6063]]"
+- "[[G2228]]"
+- "[[G5101]]"
+- "[[G0455]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G3165]]"
+- "[[G2065]]"
+- "[[G2244]]"
+- "[[G2192]]"
+- "[[G4012]]"
+- "[[G1438]]"
+- "[[G2980]]"
+texts:
+- NKO
+- k
+---
+
 **John 9:21**<big><big>[[John.9.13 The Pharisees Investigate the Healing|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But by what means he now seeth, we know not; or who hath opened his eyes, we know not: he is of age; ask him: he shall speak for himself.
 <small><sub>**BSB:**</sub></small>
 But how he can now see or who opened his eyes, we do not know. Ask him. He is old enough to speak for himself.”
-<small><sub>**Literal:**</sub></small>
-How however presently he sees not we know, or who opened of him the eyes we ourselves not know; him do ask, he himself [of] age is; He himself Concerning himself he will speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.20|<< John 9:20]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.22|John 9:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4459\|πῶς]]  [[G1161\|δὲ]]  [[G3568\|νῦν]]  [[G0991\|βλέπει]]  [[G3756\|οὐκ]]  [[G6063\|οἴδαμεν,]]  [[G2228\|ἢ]]  [[G5101\|τίς]]  [[G0455\|ἤνοιξεν]]  [[G0846\|αὐτοῦ]]  [[G3588\|τοὺς]]  [[G3788\|ὀφθαλμοὺς]]  [[G3165\|ἡμεῖς]]  [[G3756\|οὐκ]]  [[G6063\|οἴδαμεν·]]  [[G0846\|αὐτὸν]]  [[G2065\|ἐρωτήσατε,]]  [[G0846\|αὐτὸς]]  [[G2244\|ἡλικίαν]]  [[G2192\|ἔχει·]]  [[G0846\|αὐτὸς]]  [[G4012\|περὶ]]  [[G1438\|ἑαυτοῦ]]  [[G2980\|λαλήσει.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic FAITH|FAITH]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic SABBATH|SABBATH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.20|<< John 9:20]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.22|John 9:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

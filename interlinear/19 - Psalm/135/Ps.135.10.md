@@ -1,8 +1,53 @@
+---
+title: Psalm 135:10
+type: Verse
+kjv: "Who smote great nations, and slew mighty kings;"
+bsb: "He struck down many nations and slaughtered mighty kings:"
+hebrew: "שֶֽׁ֭הִכָּה גּוֹיִ֣ם רַבִּ֑ים וְ֝הָרַ֗ג מְלָכִ֥ים עֲצוּמִֽים׃"
+pericope: "[[Ps.135.1 Give Praise, O Servants of the LORD|Give Praise, O Servants of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 135
+book/chapter: "[[Ps.135|Psalm 135]]"
+chronological_order: 532
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic OG|OG]]"
+strongs:
+- "[[H9007]]"
+- "[[H5221]]"
+- "[[H1471A]]"
+- "[[H7227A]]"
+- "[[H9001]]"
+- "[[H2026]]"
+- "[[H4428G]]"
+- "[[H6099]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 135:10**<big><big>[[Ps.135.1 Give Praise, O Servants of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who smote great nations, and slew mighty kings;
 <small><sub>**BSB:**</sub></small>
 He struck down many nations and slaughtered mighty kings:
+<small><sub>**Hebrew:**</sub></small>
+[[H9007\|שֶֽׁ֭]][[H5221\|הִכָּה]] [[H1471A\|גּוֹיִ֣ם]] [[H7227A\|רַבִּ֑ים]] [[H9001\|וְ֝]][[H2026\|הָרַ֗ג]] [[H4428G\|מְלָכִ֥ים]] [[H6099\|עֲצוּמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic OG|OG]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.135.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.135.9|<< Psalms 135:9]]</td><td align="center" style="border:none;">[[Ps.135|Psalms 135]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.135.11|Psalms 135:11 >>]]</td></tr></table>
 

@@ -1,10 +1,63 @@
+---
+title: Matthew 14:29
+type: Verse
+kjv: "And he said, Come. And when Peter was come down out of the ship, he walked on the water, to go to Jesus."
+bsb: "“Come,” said Jesus. Then Peter got down out of the boat, walked on the water, and came toward Jesus."
+jesus_said: "Come."
+greek: "ὁ δὲ εἶπεν· ἐλθέ. καὶ καταβὰς ἀπὸ τοῦ πλοίου ὁ Πέτρος περιεπάτησεν ἐπὶ τὰ ὕδατα καὶ ἦλθεν πρὸς τὸν Ἰησοῦν."
+pericope: "[[Matt.14.22 Jesus Walks on Water|Jesus Walks on Water]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 14
+book/chapter: "[[Matt.14|Matthew 14]]"
+chronological_order: 964
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SEA|SEA]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G2064]]"
+- "[[G2532]]"
+- "[[G2597]]"
+- "[[G0575]]"
+- "[[G4143]]"
+- "[[G4074G]]"
+- "[[G4043]]"
+- "[[G1909]]"
+- "[[G5204]]"
+- "[[G4314]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Matthew 14:29**<big><big>[[Matt.14.22 Jesus Walks on Water|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said, Come. And when Peter was come down out of the ship, he walked on the water, to go to Jesus.
 <small><sub>**BSB:**</sub></small>
 “Come,” said Jesus. Then Peter got down out of the boat, walked on the water, and came toward Jesus.
-<small><sub>**Literal:**</sub></small>
-<the> And He said; do come. And having descended from the boat <the> Peter walked upon the water and came to <the> Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.28|<< Matthew 14:28]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.30|Matthew 14:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν·]]  [[G2064\|ἐλθέ.]]  [[G2532\|καὶ]]  [[G2597\|καταβὰς]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G4143\|πλοίου]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G4043\|περιεπάτησεν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὰ]]  [[G5204\|ὕδατα]]  [[G2532\|καὶ]]  [[G2064\|ἦλθεν]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOUBTING|DOUBTING]] • [[topic FAITH|FAITH]] • [[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PETER|PETER]] • [[topic SEA|SEA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.28|<< Matthew 14:28]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.30|Matthew 14:30 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 14:29** is...
 > $\quad$ referencing: [[LXX.Job.9.8|Job 9:8]]

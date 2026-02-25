@@ -1,8 +1,79 @@
+---
+title: Jeremiah 40:8
+type: Verse
+kjv: "Then they came to Gedaliah to Mizpah, even Ishmael the son of Nethaniah, and Johanan and Jonathan the sons of Kareah, and Seraiah the son of Tanhumeth, and the sons of Ephai the Netophathite, and Jezaniah the son of a Maachathite, they and their men."
+bsb: "they came to Gedaliah at Mizpah—Ishmael son of Nethaniah, Johanan and Jonathan the sons of Kareah, Seraiah son of Tanhumeth, the sons of Ephai the Netophathite, and Jezaniah son of the Maacathite—they and their men."
+hebrew: "וַיָּבֹ֥אוּ אֶל־ גְּדַלְיָ֖ה הַמִּצְפָּ֑תָה וְיִשְׁמָעֵ֣אל בֶּן־ נְתַנְיָ֡הוּ וְיוֹחָנָ֣ן וְיוֹנָתָ֣ן בְּנֵֽי־ קָ֠רֵחַ וּשְׂרָיָ֨ה בֶן־ תַּנְחֻ֜מֶת וּבְנֵ֣י׀ עֵיפַ֣י הַנְּטֹפָתִ֗י וִֽיזַנְיָ֙הוּ֙ בֶּן־ הַמַּ֣עֲכָתִ֔י הֵ֖מָּה וְאַנְשֵׁיהֶֽם׃"
+pericope: "[[Jer.40.7 Gedaliah Governs in Judah|Gedaliah Governs in Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 40
+book/chapter: "[[Jer.40|Jeremiah 40]]"
+chronological_order: 763
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AHIKAM|AHIKAM]]"
+- "[[topic EPHAI|EPHAI]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JAAZANIAH|JAAZANIAH]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic KAREAH|KAREAH]]"
+- "[[topic MIZPAH|MIZPAH]]"
+- "[[topic NETHANIAH|NETHANIAH]]"
+- "[[topic SERAIAH|SERAIAH]]"
+- "[[topic TANHUMETH|TANHUMETH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1436G]]"
+- "[[H9009]]"
+- "[[H4709G]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H3458H]]"
+- "[[H1121A]]"
+- "[[H5418G]]"
+- "[[H3110G]]"
+- "[[H3129L]]"
+- "[[H7143]]"
+- "[[H8304I]]"
+- "[[H8576]]"
+- "[[H9015]]"
+- "[[H5778]]"
+- "[[H5200]]"
+- "[[H2970J]]"
+- "[[H4602]]"
+- "[[H1992]]"
+- "[[H0582]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 40:8**<big><big>[[Jer.40.7 Gedaliah Governs in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they came to Gedaliah to Mizpah, even Ishmael the son of Nethaniah, and Johanan and Jonathan the sons of Kareah, and Seraiah the son of Tanhumeth, and the sons of Ephai the Netophathite, and Jezaniah the son of a Maachathite, they and their men.
 <small><sub>**BSB:**</sub></small>
 they came to Gedaliah at Mizpah—Ishmael son of Nethaniah, Johanan and Jonathan the sons of Kareah, Seraiah son of Tanhumeth, the sons of Ephai the Netophathite, and Jezaniah son of the Maacathite—they and their men.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֥אוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H1436G\|גְּדַלְיָ֖ה]] [[H9009\|הַ]][[H4709G\|מִּצְפָּ֑תָ]][[H9011\|ה]] [[H9002\|וְ]][[H3458H\|יִשְׁמָעֵ֣אל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5418G\|נְתַנְיָ֡הוּ]] [[H9002\|וְ]][[H3110G\|יוֹחָנָ֣ן]] [[H9002\|וְ]][[H3129L\|יוֹנָתָ֣ן]] [[H1121A\|בְּנֵֽי]][[H9014\|־]] [[H7143\|קָ֠רֵחַ]] [[H9002\|וּ]][[H8304I\|שְׂרָיָ֨ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H8576\|תַּנְחֻ֜מֶת]] [[H9002\|וּ]][[H1121A\|בְנֵ֣י]][[H9015\|׀]] [[H5778\|עֵיפַ֣י]] [[H9009\|הַ]][[H5200\|נְּטֹפָתִ֗י]] [[H9002\|וִֽ]][[H2970J\|יזַנְיָ֙הוּ֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H9009\|הַ]][[H4602\|מַּ֣עֲכָתִ֔י]] [[H1992\|הֵ֖מָּה]] [[H9002\|וְ]][[H0582\|אַנְשֵׁי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIKAM|AHIKAM]] • [[topic EPHAI|EPHAI]] • [[topic ISHMAEL|ISHMAEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JAAZANIAH|JAAZANIAH]] • [[topic JONATHAN|JONATHAN]] • [[topic KAREAH|KAREAH]] • [[topic MIZPAH|MIZPAH]] • [[topic NETHANIAH|NETHANIAH]] • [[topic SERAIAH|SERAIAH]] • [[topic TANHUMETH|TANHUMETH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.40.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.40.7|<< Jeremiah 40:7]]</td><td align="center" style="border:none;">[[Jer.40|Jeremiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.40.9|Jeremiah 40:9 >>]]</td></tr></table>
 

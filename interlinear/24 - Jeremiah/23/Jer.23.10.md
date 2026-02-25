@@ -1,8 +1,66 @@
+---
+title: Jeremiah 23:10
+type: Verse
+kjv: "For the land is full of adulterers; for because of swearing the land mourneth; the pleasant places of the wilderness are dried up, and their course is evil, and their force is not right."
+bsb: "For the land is full of adulterers—because of the curse, the land mourns and the pastures of the wilderness have dried up—their course is evil and their power is misused."
+hebrew: "כִּ֤י מְנָֽאֲפִים֙ מָלְאָ֣ה הָאָ֔רֶץ כִּֽי־ מִפְּנֵ֤י אָלָה֙ אָבְלָ֣ה הָאָ֔רֶץ יָבְשׁ֖וּ נְא֣וֹת מִדְבָּ֑ר וַתְּהִ֤י מְרֽוּצָתָם֙ רָעָ֔ה וּגְבוּרָתָ֖ם לֹא־ כֵֽן׃"
+pericope: "[[Jer.23.9 Lying Prophets|Lying Prophets]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 23
+book/chapter: "[[Jer.23|Jeremiah 23]]"
+chronological_order: 746
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H5003]]"
+- "[[H4390]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9014]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H0423]]"
+- "[[H0056]]"
+- "[[H3001]]"
+- "[[H4999]]"
+- "[[H4057B]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H4794]]"
+- "[[H9028]]"
+- "[[H7451H]]"
+- "[[H9002]]"
+- "[[H1369]]"
+- "[[H3808]]"
+- "[[H3651A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 23:10**<big><big>[[Jer.23.9 Lying Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the land is full of adulterers; for because of swearing the land mourneth; the pleasant places of the wilderness are dried up, and their course is evil, and their force [is] not right.
 <small><sub>**BSB:**</sub></small>
 For the land is full of adulterers—because of the curse, the land mourns and the pastures of the wilderness have dried up—their course is evil and their power is misused.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H5003\|מְנָֽאֲפִים֙]] [[H4390\|מָלְאָ֣ה]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9006\|מִ]][[H6440I\|פְּנֵ֤י]] [[H0423\|אָלָה֙]] [[H0056\|אָבְלָ֣ה]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H3001\|יָבְשׁ֖וּ]] [[H4999\|נְא֣וֹת]] [[H4057B\|מִדְבָּ֑ר]] [[H9001\|וַ]][[H1961\|תְּהִ֤י]] [[H4794\|מְרֽוּצָתָ]][[H9028\|ם֙]] [[H7451H\|רָעָ֔ה]] [[H9002\|וּ]][[H1369\|גְבוּרָתָ֖]][[H9028\|ם]] [[H3808\|לֹא]][[H9014\|־]] [[H3651A\|כֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BLASPHEMY|BLASPHEMY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.9|<< Jeremiah 23:9]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.11|Jeremiah 23:11 >>]]</td></tr></table>
 

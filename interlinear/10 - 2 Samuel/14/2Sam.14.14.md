@@ -1,8 +1,78 @@
+---
+title: 2 Samuel 14:14
+type: Verse
+kjv: "For we must needs die, and are as water spilt on the ground, which cannot be gathered up again; neither doth God respect any person: yet doth he devise means, that his banished be not expelled from him."
+bsb: "For we will surely die and be like water poured out on the ground, which cannot be recovered. Yet God does not take away a life, but He devises ways that the banished one may not be cast out from Him."
+hebrew: "כִּי־ מ֣וֹת נָמ֔וּת וְכַמַּ֙יִם֙ הַנִּגָּרִ֣ים אַ֔רְצָה אֲשֶׁ֖ר לֹ֣א יֵאָסֵ֑פוּ וְלֹֽא־ יִשָּׂ֤א אֱלֹהִים֙ נֶ֔פֶשׁ וְחָשַׁב֙ מַֽחֲשָׁב֔וֹת לְבִלְתִּ֛י יִדַּ֥ח מִמֶּ֖נּוּ נִדָּֽח׃"
+pericope: "[[2Sam.14.1 Absalom’s Return to Jerusalem|Absalom’s Return to Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 14
+book/chapter: "[[2Sam.14|2 Samuel 14]]"
+chronological_order: 413
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic EXILE|EXILE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic OBSEQUIOUSNESS|OBSEQUIOUSNESS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4191]]"
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H4325G]]"
+- "[[H9009]]"
+- "[[H5064]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H0622]]"
+- "[[H5375H]]"
+- "[[H0430G]]"
+- "[[H5315H]]"
+- "[[H9001]]"
+- "[[H2803G]]"
+- "[[H4284]]"
+- "[[H9005]]"
+- "[[H1115]]"
+- "[[H5080]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 14:14**<big><big>[[2Sam.14.1 Absalom’s Return to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For we must needs die, and [are] as water spilt on the ground, which cannot be gathered up again; neither doth God respect [any] person: yet doth he devise means, that his banished be not expelled from him.
 <small><sub>**BSB:**</sub></small>
 For we will surely die and be like water poured out on the ground, which cannot be recovered. Yet God does not take away a life, but He devises ways that the banished one may not be cast out from Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H4191\|מ֣וֹת]] [[H4191\|נָמ֔וּת]] [[H9002\|וְ]][[H9004\|כַ]][[H4325G\|מַּ֙יִם֙]] [[H9009\|הַ]][[H5064\|נִּגָּרִ֣ים]] [[H0776H\|אַ֔רְצָ]][[H9011\|ה]] [[H0834A\|אֲשֶׁ֖ר]] [[H3808\|לֹ֣א]] [[H0622\|יֵאָסֵ֑פוּ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5375H\|יִשָּׂ֤א]] [[H0430G\|אֱלֹהִים֙]] [[H5315H\|נֶ֔פֶשׁ]] [[H9001\|וְ]][[H2803G\|חָשַׁב֙]] [[H4284\|מַֽחֲשָׁב֔וֹת]] [[H9005\|לְ]][[H1115\|בִלְתִּ֛י]] [[H5080\|יִדַּ֥ח]] [[H4480A\|מִמֶּ֖]][[H9033\|נּוּ]] [[H5080\|נִדָּֽח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic DAVID|DAVID]] • [[topic DEATH|DEATH]] • [[topic DISHONESTY|DISHONESTY]] • [[topic EXILE|EXILE]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JOAB|JOAB]] • [[topic KINDNESS|KINDNESS]] • [[topic LIFE|LIFE]] • [[topic OBSEQUIOUSNESS|OBSEQUIOUSNESS]] • [[topic SALVATION|SALVATION]] • [[topic TACT|TACT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.14.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.13|<< 2 Samuel 14:13]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.15|2 Samuel 14:15 >>]]</td></tr></table>
 

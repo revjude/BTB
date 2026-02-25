@@ -1,8 +1,77 @@
+---
+title: Ruth 4:9
+type: Verse
+kjv: "And Boaz said unto the elders, and unto all the people, Ye are witnesses this day, that I have bought all that was Elimelech’s, and all that was Chilion’s and Mahlon’s, of the hand of Naomi."
+bsb: "At this, Boaz said to the elders and all the people, “You are witnesses today that I am buying from Naomi all that belonged to Elimelech, Chilion, and Mahlon."
+hebrew: "וַיֹּאמֶר֩ בֹּ֨עַז לַזְּקֵנִ֜ים וְכָל־ הָעָ֗ם עֵדִ֤ים אַתֶּם֙ הַיּ֔וֹם כִּ֤י קָנִ֙יתִי֙ אֶת־ כָּל־ אֲשֶׁ֣ר לֶֽאֱלִימֶ֔לֶךְ וְאֵ֛ת כָּל־ אֲשֶׁ֥ר לְכִלְי֖וֹן וּמַחְל֑וֹן מִיַּ֖ד נָעֳמִֽי׃"
+pericope: "[[Ruth.4.1 Boaz Redeems Ruth|Boaz Redeems Ruth]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 4
+book/chapter: "[[Ruth.4|Ruth 4]]"
+chronological_order: 279
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic CHILION|CHILION]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DOWRY|DOWRY]]"
+- "[[topic ELIMELECH|ELIMELECH]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEIR|HEIR]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MAHLON|MAHLON]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic RUTH|RUTH]]"
+- "[[topic WITNESS|WITNESS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1162G]]"
+- "[[H9005]]"
+- "[[H2205G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H5707]]"
+- "[[H0859D]]"
+- "[[H3117L]]"
+- "[[H3588A]]"
+- "[[H7069]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H0458]]"
+- "[[H3630]]"
+- "[[H4248]]"
+- "[[H9006]]"
+- "[[H3027G]]"
+- "[[H5281]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 4:9**<big><big>[[Ruth.4.1 Boaz Redeems Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Boaz said unto the elders, and [unto] all the people, Ye [are] witnesses this day, that I have bought all that [was] Elimelech’s, and all that [was] Chilion’s and Mahlon’s, of the hand of Naomi.
 <small><sub>**BSB:**</sub></small>
 At this, Boaz said to the elders and all the people, “You are witnesses today that I am buying from Naomi all that belonged to Elimelech, Chilion, and Mahlon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמֶר֩]] [[H1162G\|בֹּ֨עַז]] [[H9005\|לַ]][[H2205G\|זְּקֵנִ֜ים]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֗ם]] [[H5707\|עֵדִ֤ים]] [[H0859D\|אַתֶּם֙]] [[H9009\|הַ]][[H3117L\|יּ֔וֹם]] [[H3588A\|כִּ֤י]] [[H7069\|קָנִ֙יתִי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לֶֽ]][[H0458\|אֱלִימֶ֔לֶךְ]] [[H9002\|וְ]][[H0853\|אֵ֛ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H9005\|לְ]][[H3630\|כִלְי֖וֹן]] [[H9002\|וּ]][[H4248\|מַחְל֑וֹן]] [[H9006\|מִ]][[H3027G\|יַּ֖ד]] [[H5281\|נָעֳמִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILION|CHILION]] • [[topic COVENANT|COVENANT]] • [[topic DOWRY|DOWRY]] • [[topic ELIMELECH|ELIMELECH]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HEIR|HEIR]] • [[topic INHERITANCE|INHERITANCE]] • [[topic LAND|LAND]] • [[topic MAHLON|MAHLON]] • [[topic MARRIAGE|MARRIAGE]] • [[topic REDEMPTION|REDEMPTION]] • [[topic RUTH|RUTH]] • [[topic WITNESS|WITNESS]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.8|<< Ruth 4:8]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.10|Ruth 4:10 >>]]</td></tr></table>
 

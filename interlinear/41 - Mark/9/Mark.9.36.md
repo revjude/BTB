@@ -1,10 +1,53 @@
+---
+title: Mark 9:36
+type: Verse
+kjv: "And he took a child, and set him in the midst of them: and when he had taken him in his arms, he said unto them,"
+bsb: "Then He had a little child stand among them. Taking the child in His arms, He said to them,"
+greek: "καὶ λαβὼν παιδίον ἔστησεν αὐτὸ ἐν μέσῳ αὐτῶν, καὶ ἐναγκαλισάμενος αὐτὸ εἶπεν αὐτοῖς·"
+pericope: "[[Mark.9.33 The Greatest in the Kingdom|The Greatest in the Kingdom]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[G3813]]"
+- "[[G2476]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3319]]"
+- "[[G1723]]"
+- "[[G2036]]"
+texts:
+- NKO
+---
+
 **Mark 9:36**<big><big>[[Mark.9.33 The Greatest in the Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he took a child, and set him in the midst of them: and when he had taken him in his arms, he said unto them,
 <small><sub>**BSB:**</sub></small>
 Then He had a little child stand among them. Taking the child in His arms, He said to them,
-<small><sub>**Literal:**</sub></small>
-And having taken a child He set it in midst of them, and having taken in [His] arms it He said to them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.35|<< Mark 9:35]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.37|Mark 9:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2983\|λαβὼν]]  [[G3813\|παιδίον]]  [[G2476\|ἔστησεν]]  [[G0846\|αὐτὸ]]  [[G1722\|ἐν]]  [[G3319\|μέσῳ]]  [[G0846\|αὐτῶν,]]  [[G2532\|καὶ]]  [[G1723\|ἐναγκαλισάμενος]]  [[G0846\|αὐτὸ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CHILDREN|CHILDREN]] • [[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.35|<< Mark 9:35]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.37|Mark 9:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

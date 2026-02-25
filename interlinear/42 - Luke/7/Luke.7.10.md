@@ -1,10 +1,58 @@
+---
+title: Luke 7:10
+type: Verse
+kjv: "And they that were sent, returning to the house, found the servant whole that had been sick."
+bsb: "And when the messengers returned to the house, they found the servant in good health."
+greek: "καὶ ὑποστρέψαντες εἰς τὸν οἶκον οἱ πεμφθέντες εὗρον τὸν ἀσθενοῦντα δοῦλον ὑγιαίνοντα.¶"
+pericope: "[[Luke.7.1 The Faith of the Centurion|The Faith of the Centurion]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic CENTURION|CENTURION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G2532]]"
+- "[[G5290]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3624G]]"
+- "[[G3992]]"
+- "[[G2147]]"
+- "[[G0770H]]"
+- "[[G1401]]"
+- "[[G5198]]"
+texts:
+- NKO
+- K
+---
+
 **Luke 7:10**<big><big>[[Luke.7.1 The Faith of the Centurion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they that were sent, returning to the house, found the servant whole that had been sick.
 <small><sub>**BSB:**</sub></small>
 And when the messengers returned to the house, they found the servant in good health.
-<small><sub>**Literal:**</sub></small>
-And having returned to the house the [ones] having been sent found the ailing servant in good health.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.9|<< Luke 7:9]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.11|Luke 7:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5290\|ὑποστρέψαντες]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3624G\|οἶκον]]  [[G3588\|οἱ]]  [[G3992\|πεμφθέντες]]  [[G2147\|εὗρον]]  [[G3588\|τὸν]]  [[G0770H\|ἀσθενοῦντα]]  [[G1401\|δοῦλον]]  [[G5198\|ὑγιαίνοντα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic CENTURION|CENTURION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic RELIGION|RELIGION]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.9|<< Luke 7:9]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.11|Luke 7:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

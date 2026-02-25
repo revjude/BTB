@@ -1,8 +1,63 @@
+---
+title: Genesis 22:23
+type: Verse
+kjv: "And Bethuel begat Rebekah: these eight Milcah did bear to Nahor, Abraham’s brother."
+bsb: "And Bethuel became the father of Rebekah. Milcah bore these eight sons to Abraham’s brother Nahor."
+hebrew: "וּבְתוּאֵ֖ל יָלַ֣ד אֶת־ רִבְקָ֑ה שְׁמֹנָ֥ה אֵ֙לֶּה֙ יָלְדָ֣ה מִלְכָּ֔ה לְנָח֖וֹר אֲחִ֥י אַבְרָהָֽם׃"
+pericope: "[[Gen.22.20 The Sons of Nahor|The Sons of Nahor]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 22
+book/chapter: "[[Gen.22|Genesis 22]]"
+chronological_order: 64
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BETHUEL|BETHUEL]]"
+- "[[topic CONCUBINAGE|CONCUBINAGE]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic MILCAH|MILCAH]]"
+- "[[topic NAHOR|NAHOR]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9002]]"
+- "[[H1328A]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7259]]"
+- "[[H8083]]"
+- "[[H0428]]"
+- "[[H4435G]]"
+- "[[H9005]]"
+- "[[H5152H]]"
+- "[[H0251G]]"
+- "[[H0085]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 22:23**<big><big>[[Gen.22.20 The Sons of Nahor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Bethuel begat Rebekah: these eight Milcah did bear to Nahor, Abraham’s brother.
 <small><sub>**BSB:**</sub></small>
 And Bethuel became the father of Rebekah. Milcah bore these eight sons to Abraham’s brother Nahor.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1328A\|בְתוּאֵ֖ל]] [[H3205\|יָלַ֣ד]] [[H0853\|אֶת]][[H9014\|־]] [[H7259\|רִבְקָ֑ה]] [[H8083\|שְׁמֹנָ֥ה]] [[H0428\|אֵ֙לֶּה֙]] [[H3205\|יָלְדָ֣ה]] [[H4435G\|מִלְכָּ֔ה]] [[H9005\|לְ]][[H5152H\|נָח֖וֹר]] [[H0251G\|אֲחִ֥י]] [[H0085\|אַבְרָהָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHUEL|BETHUEL]] • [[topic CONCUBINAGE|CONCUBINAGE]] • [[topic GENEALOGY|GENEALOGY]] • [[topic LABAN|LABAN]] • [[topic MILCAH|MILCAH]] • [[topic NAHOR|NAHOR]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.22.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.22.22|<< Genesis 22:22]]</td><td align="center" style="border:none;">[[Gen.22|Genesis 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.22.24|Genesis 22:24 >>]]</td></tr></table>
 

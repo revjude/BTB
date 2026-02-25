@@ -1,10 +1,66 @@
+---
+title: 2 Corinthians 3:14
+type: Verse
+kjv: "But their minds were blinded: for until this day remaineth the same vail untaken away in the reading of the old testament; which vail is done away in Christ."
+bsb: "But their minds were closed. For to this day the same veil remains at the reading of the old covenant. It has not been lifted, because only in Christ can it be removed."
+greek: "ἀλλ᾽ ἐπωρώθη τὰ νοήματα αὐτῶν. ἄχρι γὰρ τῆς σήμερον ἡμέρας τὸ αὐτὸ κάλυμμα ἐπὶ τῇ ἀναγνώσει τῆς παλαιᾶς διαθήκης μένει μὴ ἀνακαλυπτόμενον, ὅτι ἐν Χριστῷ καταργεῖται,"
+pericope: "[[2Cor.3.7 The Glory of the New Covenant|The Glory of the New Covenant]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 3
+book/chapter: "[[2Cor.3|2 Corinthians 3]]"
+chronological_order: 1076
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic VEIL|VEIL]]"
+strongs:
+- "[[G0235]]"
+- "[[G4456]]"
+- "[[G3588]]"
+- "[[G3540]]"
+- "[[G0846]]"
+- "[[G0891]]"
+- "[[G1063]]"
+- "[[G4594]]"
+- "[[G2250]]"
+- "[[G2571]]"
+- "[[G1909]]"
+- "[[G0320]]"
+- "[[G3820]]"
+- "[[G1242]]"
+- "[[G3306]]"
+- "[[G3361]]"
+- "[[G0343]]"
+- "[[G3754H]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G2673]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **2 Corinthians 3:14**<big><big>[[2Cor.3.7 The Glory of the New Covenant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But their minds were blinded: for until this day remaineth the same vail untaken away in the reading of the old testament; which [vail] is done away in Christ.
 <small><sub>**BSB:**</sub></small>
 But their minds were closed. For to this day the same veil remains at the reading of the old covenant. It has not been lifted, because only in Christ can it be removed.
-<small><sub>**Literal:**</sub></small>
-But were hardened the minds of them. Until for the present day the same veil at the reading of the old covenant remains not being lifted, for in Christ is being removed,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.13|<< 2 Corinthians 3:13]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.15|2 Corinthians 3:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G4456\|ἐπωρώθη]]  [[G3588\|τὰ]]  [[G3540\|νοήματα]]  [[G0846\|αὐτῶν.]]  [[G0891\|ἄχρι]]  [[G1063\|γὰρ]]  [[G3588\|τῆς]]  [[G4594\|σήμερον]]  [[G2250\|ἡμέρας]]  [[G3588\|τὸ]]  [[G0846\|αὐτὸ]]  [[G2571\|κάλυμμα]]  [[G1909\|ἐπὶ]]  [[G3588\|τῇ]]  [[G0320\|ἀναγνώσει]]  [[G3588\|τῆς]]  [[G3820\|παλαιᾶς]]  [[G1242\|διαθήκης]]  [[G3306\|μένει]]  [[G3361\|μὴ]]  [[G0343\|ἀνακαλυπτόμενον,]]  [[G3754H\|ὅτι]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2673\|καταργεῖται,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic LAW|LAW]] • [[topic MYSTERIES|MYSTERIES]] • [[topic VEIL|VEIL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.13|<< 2 Corinthians 3:13]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.15|2 Corinthians 3:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

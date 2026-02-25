@@ -1,8 +1,71 @@
+---
+title: Ezekiel 24:27
+type: Verse
+kjv: "In that day shall thy mouth be opened to him which is escaped, and thou shalt speak, and be no more dumb: and thou shalt be a sign unto them; and they shall know that I am the LORD."
+bsb: "On that day your mouth will be opened to him who has escaped; you will speak and no longer be mute. So you will be a sign to them, and they will know that I am the LORD.”"
+hebrew: "בַּיּ֣וֹם הַה֗וּא יִפָּ֤תַח פִּ֙יךָ֙ אֶת־ הַפָּלִ֔יט וּתְדַבֵּ֕ר וְלֹ֥א תֵֽאָלֵ֖ם ע֑וֹד וְהָיִ֤יתָ לָהֶם֙ לְמוֹפֵ֔ת וְיָדְע֖וּ כִּֽי־ אֲנִ֥י יְהוָֽה׃ ס"
+pericope: "[[Ezek.24.15 Ezekiel’s Wife Dies|Ezekiel’s Wife Dies]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 24
+book/chapter: "[[Ezek.24|Ezekiel 24]]"
+chronological_order: 815
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H6605A]]"
+- "[[H6310G]]"
+- "[[H9021]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H6412A]]"
+- "[[H9002]]"
+- "[[H1696G]]"
+- "[[H3808]]"
+- "[[H0481]]"
+- "[[H5750]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H4159]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 24:27**<big><big>[[Ezek.24.15 Ezekiel’s Wife Dies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that day shall thy mouth be opened to him which is escaped, and thou shalt speak, and be no more dumb: and thou shalt be a sign unto them; and they shall know that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
 On that day your mouth will be opened to him who has escaped; you will speak and no longer be mute. So you will be a sign to them, and they will know that I am the LORD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֗וּא]] [[H6605A\|יִפָּ֤תַח]] [[H6310G\|פִּ֙י]][[H9021\|ךָ֙]] [[H0854\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6412A\|פָּלִ֔יט]] [[H9002\|וּ]][[H1696G\|תְדַבֵּ֕ר]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0481\|תֵֽאָלֵ֖ם]] [[H5750\|ע֑וֹד]] [[H9001\|וְ]][[H1961\|הָיִ֤יתָ]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H9005\|לְ]][[H4159\|מוֹפֵ֔ת]] [[H9001\|וְ]][[H3045\|יָדְע֖וּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZEKIEL|EZEKIEL]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.26|<< Ezekiel 24:26]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.25.1|Ezekiel 25:1 >>]]</td></tr></table>
 
@@ -24,7 +87,7 @@ On that day your mouth will be opened to him who has escaped; you will speak and
 | and they will know  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3045\|יָדְע֖וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.de.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֥י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.26|<< Ezekiel 24:26]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.25.1|Ezekiel 25:1 >>]]</td></tr></table>
 
 

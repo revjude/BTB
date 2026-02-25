@@ -1,10 +1,57 @@
+---
+title: Ephesians 4:22
+type: Verse
+kjv: "That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;"
+bsb: "to put off your former way of life, your old self, which is being corrupted by its deceitful desires;"
+greek: "ἀποθέσθαι ὑμᾶς κατὰ τὴν προτέραν ἀναστροφὴν τὸν παλαιὸν ἄνθρωπον τὸν φθειρόμενον κατὰ τὰς ἐπιθυμίας τῆς ἀπάτης,"
+pericope: "[[Eph.4.17 New Life in Christ|New Life in Christ]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 4
+book/chapter: "[[Eph.4|Ephesians 4]]"
+chronological_order: 1114
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic LUST|LUST]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[G0659]]"
+- "[[G4771]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G4387]]"
+- "[[G0391]]"
+- "[[G3820]]"
+- "[[G0444]]"
+- "[[G5351]]"
+- "[[G1939]]"
+- "[[G0539]]"
+texts:
+- NKO
+---
+
 **Ephesians 4:22**<big><big>[[Eph.4.17 New Life in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;
 <small><sub>**BSB:**</sub></small>
 to put off your former way of life, your old self, which is being corrupted by its deceitful desires;
-<small><sub>**Literal:**</sub></small>
-Are to have put off you concerning the former way of life the old man which is being corrupted according to [its] desires <the> of deceit,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.21|<< Ephesians 4:21]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.23|Ephesians 4:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0659\|ἀποθέσθαι]]  [[G4771\|ὑμᾶς]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G4387\|προτέραν]]  [[G0391\|ἀναστροφὴν]]  [[G3588\|τὸν]]  [[G3820\|παλαιὸν]]  [[G0444\|ἄνθρωπον]]  [[G3588\|τὸν]]  [[G5351\|φθειρόμενον]]  [[G2596\|κατὰ]]  [[G3588\|τὰς]]  [[G1939\|ἐπιθυμίας]]  [[G3588\|τῆς]]  [[G0539\|ἀπάτης,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic HOLINESS|HOLINESS]] • [[topic LUST|LUST]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SPEAKING|SPEAKING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.21|<< Ephesians 4:21]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.23|Ephesians 4:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

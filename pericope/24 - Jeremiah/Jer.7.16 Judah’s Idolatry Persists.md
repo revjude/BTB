@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judah’s Idolatry Persists
+type: Pericope
 pericope: "[[Jer.7.16 Judah’s Idolatry Persists|Judah’s Idolatry Persists]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 7
 book/chapter: "[[Jer.7|Jeremiah 7]]"
-genre:
+chronological_order: 724
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 14
 verses:
 - "[[Jer.7.16]]"
 - "[[Jer.7.17]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Jer.7.29]]"
 ---
 
-[[Jer.7|Jeremiah 7:16 - Jeremiah 7:29]]
+<small>[[Jer.7|Jeremiah 7:16-29]]</small>
 *Judah’s Idolatry Persists*
 
 [[Jer.7.16|16]] Therefore pray not thou for this people, neither lift up cry nor prayer for them, neither make intercession to me: for I will not hear thee.

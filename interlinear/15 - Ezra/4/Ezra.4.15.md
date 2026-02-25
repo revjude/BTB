@@ -1,8 +1,71 @@
+---
+title: Ezra 4:15
+type: Verse
+kjv: "That search may be made in the book of the records of thy fathers: so shalt thou find in the book of the records, and know that this city is a rebellious city, and hurtful unto kings and provinces, and that they have moved sedition within the same of old time: for which cause was this city destroyed."
+bsb: "that a search should be made of the record books of your fathers. In these books you will discover and verify that the city is a rebellious city, harmful to kings and provinces, inciting sedition from ancient times. That is why this city was destroyed."
+aramaic: "דִּ֡י יְבַקַּר֩ בִּֽסְפַר־ דָּכְרָ֨נַיָּ֜א דִּ֣י אֲבָהָתָ֗ךְ וּ֠תְהַשְׁכַּח בִּסְפַ֣ר דָּכְרָנַיָּא֮ וְתִנְדַּע֒ דִּי֩ קִרְיְתָ֨א דָ֜ךְ קִרְיָ֣א מָֽרָדָ֗א וּֽמְהַנְזְקַ֤ת מַלְכִין֙ וּמְדִנָ֔ן וְאֶשְׁתַּדּוּר֙ עָבְדִ֣ין בְּגַוַּ֔הּ מִן־ יוֹמָ֖ת עָלְמָ֑א עַ֨ל־ דְּנָ֔ה קִרְיְתָ֥א דָ֖ךְ הָֽחָרְבַֽת׃"
+pericope: "[[Ezra.4.6 Opposition under Xerxes and Artaxerxes|Opposition under Xerxes and Artaxerxes]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 4
+book/chapter: "[[Ezra.4|Ezra 4]]"
+chronological_order: 852
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic ARTAXERXES|ARTAXERXES]]"
+- "[[topic BISHLAM|BISHLAM]]"
+strongs:
+- "[[H1768]]"
+- "[[H1240]]"
+- "[[H9003]]"
+- "[[H5609]]"
+- "[[H9014]]"
+- "[[H1799B]]"
+- "[[H9010]]"
+- "[[H0002]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H7912]]"
+- "[[H3046]]"
+- "[[H7149]]"
+- "[[H1791]]"
+- "[[H4779]]"
+- "[[H5142]]"
+- "[[H4430]]"
+- "[[H4083]]"
+- "[[H0849]]"
+- "[[H5648]]"
+- "[[H1459]]"
+- "[[H9024]]"
+- "[[H4481]]"
+- "[[H3118]]"
+- "[[H5957]]"
+- "[[H5922]]"
+- "[[H1836]]"
+- "[[H2718]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 4:15**<big><big>[[Ezra.4.6 Opposition under Xerxes and Artaxerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That search may be made in the book of the records of thy fathers: so shalt thou find in the book of the records, and know that this city [is] a rebellious city, and hurtful unto kings and provinces, and that they have moved sedition within the same of old time: for which cause was this city destroyed.
 <small><sub>**BSB:**</sub></small>
 that a search should be made of the record books of your fathers. In these books you will discover and verify that the city is a rebellious city, harmful to kings and provinces, inciting sedition from ancient times. That is why this city was destroyed.
+<small><sub>**Aramaic:**</sub></small>
+[[H1768\|דִּ֡י]] [[H1240\|יְבַקַּר֩]] [[H9003\|בִּֽ]][[H5609\|סְפַר]][[H9014\|־]] [[H1799B\|דָּכְרָ֨נַיָּ֜]][[H9010\|א]] [[H1768\|דִּ֣י]] [[H0002\|אֲבָהָתָ֗]][[H9021\|ךְ]] [[H9002\|וּ֠]][[H7912\|תְהַשְׁכַּח]] [[H9003\|בִּ]][[H5609\|סְפַ֣ר]] [[H1799B\|דָּכְרָנַיָּ]][[H9010\|א֮]] [[H9002\|וְ]][[H3046\|תִנְדַּע֒]] [[H1768\|דִּי֩]] [[H7149\|קִרְיְתָ֨]][[H9010\|א]] [[H1791\|דָ֜ךְ]] [[H7149\|קִרְיָ֣א]] [[H4779\|מָֽרָדָ֗א]] [[H9002\|וּֽ]][[H5142\|מְהַנְזְקַ֤ת]] [[H4430\|מַלְכִין֙]] [[H9002\|וּ]][[H4083\|מְדִנָ֔ן]] [[H9002\|וְ]][[H0849\|אֶשְׁתַּדּוּר֙]] [[H5648\|עָבְדִ֣ין]] [[H9003\|בְּ]][[H1459\|גַוַּ֔]][[H9024\|הּ]] [[H4481\|מִן]][[H9014\|־]] [[H3118\|יוֹמָ֖ת]] [[H5957\|עָלְמָ֑]][[H9010\|א]] [[H5922\|עַ֨ל]][[H9014\|־]] [[H1836\|דְּנָ֔ה]] [[H7149\|קִרְיְתָ֥]][[H9010\|א]] [[H1791\|דָ֖ךְ]] [[H2718\|הָֽחָרְבַֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic ARTAXERXES|ARTAXERXES]] • [[topic BISHLAM|BISHLAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.14|<< Ezra 4:14]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.16|Ezra 4:16 >>]]</td></tr></table>
 

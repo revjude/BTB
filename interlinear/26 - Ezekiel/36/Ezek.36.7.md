@@ -1,8 +1,67 @@
+---
+title: Ezekiel 36:7
+type: Verse
+kjv: "Therefore thus saith the Lord GOD; I have lifted up mine hand, Surely the heathen that are about you, they shall bear their shame."
+bsb: "Therefore this is what the Lord GOD says: I have sworn with an uplifted hand that surely the nations around you will endure reproach of their own."
+hebrew: "לָכֵ֗ן כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה אֲנִ֖י נָשָׂ֣אתִי אֶת־ יָדִ֑י אִם־ לֹ֤א הַגּוֹיִם֙ אֲשֶׁ֣ר לָכֶ֣ם מִסָּבִ֔יב הֵ֖מָּה כְּלִמָּתָ֥ם יִשָּֽׂאוּ׃"
+pericope: "[[Ezek.36.1 A Prophecy to the Mountains of Israel|A Prophecy to the Mountains of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 36
+book/chapter: "[[Ezek.36|Ezekiel 36]]"
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H0589]]"
+- "[[H5375P]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3027S]]"
+- "[[H9020]]"
+- "[[H0518I]]"
+- "[[H3808]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0834A]]"
+- "[[H9036]]"
+- "[[H9006]]"
+- "[[H5439G]]"
+- "[[H1992]]"
+- "[[H3639]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 36:7**<big><big>[[Ezek.36.1 A Prophecy to the Mountains of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the Lord GOD; I have lifted up mine hand, Surely the heathen that [are] about you, they shall bear their shame.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the Lord GOD says: I have sworn with an uplifted hand that surely the nations around you will endure reproach of their own.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H0589\|אֲנִ֖י]] [[H5375P\|נָשָׂ֣אתִי]] [[H0853\|אֶת]][[H9014\|־]] [[H3027S\|יָדִ֑]][[H9020\|י]] [[H0518I\|אִם]][[H9014\|־]] [[H3808\|לֹ֤א]] [[H9009\|הַ]][[H1471A\|גּוֹיִם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לָ]][[H9036\|כֶ֣ם]] [[H9006\|מִ]][[H5439G\|סָּבִ֔יב]] [[H1992\|הֵ֖מָּה]] [[H3639\|כְּלִמָּתָ֥]][[H9028\|ם]] [[H5375P\|יִשָּֽׂאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.6|<< Ezekiel 36:6]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.8|Ezekiel 36:8 >>]]</td></tr></table>
 

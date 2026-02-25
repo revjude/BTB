@@ -1,10 +1,59 @@
+---
+title: Luke 17:20
+type: Verse
+kjv: "And when he was demanded of the Pharisees, when the kingdom of God should come, he answered them and said, The kingdom of God cometh not with observation:"
+bsb: "When asked by the Pharisees when the kingdom of God would come, Jesus replied, “The kingdom of God will not come with observable signs."
+jesus_said: "The kingdom of God cometh not with observation:"
+greek: "Ἐπερωτηθεὶς δὲ ὑπὸ τῶν Φαρισαίων πότε ἔρχεται ἡ βασιλεία τοῦ θεοῦ, ἀπεκρίθη αὐτοῖς καὶ εἶπεν· οὐκ ἔρχεται ἡ βασιλεία τοῦ θεοῦ μετὰ παρατηρήσεως,"
+pericope: "[[Luke.17.20 The Coming of the Kingdom|The Coming of the Kingdom]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 17
+book/chapter: "[[Luke.17|Luke 17]]"
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G1905]]"
+- "[[G1161]]"
+- "[[G5259G]]"
+- "[[G3588]]"
+- "[[G5330]]"
+- "[[G4219]]"
+- "[[G2064]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3756]]"
+- "[[G3326]]"
+- "[[G3907]]"
+texts:
+- NKO
+---
+
 **Luke 17:20**<big><big>[[Luke.17.20 The Coming of the Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he was demanded of the Pharisees, when the kingdom of God should come, he answered them and said, The kingdom of God cometh not with observation:
 <small><sub>**BSB:**</sub></small>
 When asked by the Pharisees when the kingdom of God would come, Jesus replied, “The kingdom of God will not come with observable signs.
-<small><sub>**Literal:**</sub></small>
-Having been asked now by the Pharisees when is coming the kingdom <the> of God, He answered to them and said; Not comes the kingdom <the> of God with careful observation,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.19|<< Luke 17:19]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.21|Luke 17:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1905\|Ἐπερωτηθεὶς]]  [[G1161\|δὲ]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G5330\|Φαρισαίων]]  [[G4219\|πότε]]  [[G2064\|ἔρχεται]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G0611\|ἀπεκρίθη]]  [[G0846\|αὐτοῖς]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν·]]  [[G3756\|οὐκ]]  [[G2064\|ἔρχεται]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3326\|μετὰ]]  [[G3907\|παρατηρήσεως,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.19|<< Luke 17:19]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.21|Luke 17:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

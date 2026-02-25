@@ -1,8 +1,55 @@
+---
+title: Jeremiah 34:6
+type: Verse
+kjv: "Then Jeremiah the prophet spake all these words unto Zedekiah king of Judah in Jerusalem,"
+bsb: "In Jerusalem, then, Jeremiah the prophet relayed all these words to Zedekiah king of Judah"
+hebrew: "וַיְדַבֵּר֙ יִרְמְיָ֣הוּ הַנָּבִ֔יא אֶל־ צִדְקִיָּ֖הוּ מֶ֣לֶךְ יְהוּדָ֑ה אֵ֛ת כָּל־ הַדְּבָרִ֥ים הָאֵ֖לֶּה בִּירוּשָׁלִָֽם׃"
+pericope: "[[Jer.34.1 A Prophecy against Zedekiah|A Prophecy against Zedekiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 34
+book/chapter: "[[Jer.34|Jeremiah 34]]"
+chronological_order: 757
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H3414L]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6667H]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 34:6**<big><big>[[Jer.34.1 A Prophecy against Zedekiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Jeremiah the prophet spake all these words unto Zedekiah king of Judah in Jerusalem,
 <small><sub>**BSB:**</sub></small>
 In Jerusalem, then, Jeremiah the prophet relayed all these words to Zedekiah king of Judah
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּר֙]] [[H3414L\|יִרְמְיָ֣הוּ]] [[H9009\|הַ]][[H5030\|נָּבִ֔יא]] [[H0413\|אֶל]][[H9014\|־]] [[H6667H\|צִדְקִיָּ֖הוּ]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֑ה]] [[H0853\|אֵ֛ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֥ים]] [[H9009\|הָ]][[H0428\|אֵ֖לֶּה]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.34.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.5|<< Jeremiah 34:5]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.7|Jeremiah 34:7 >>]]</td></tr></table>
 

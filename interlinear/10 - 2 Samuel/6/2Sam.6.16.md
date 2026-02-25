@@ -1,8 +1,78 @@
+---
+title: 2 Samuel 6:16
+type: Verse
+kjv: "And as the ark of the LORD came into the city of David, Michal Saul’s daughter looked through a window, and saw king David leaping and dancing before the LORD; and she despised him in her heart."
+bsb: "As the ark of the LORD was entering the City of David, Saul’s daughter Michal looked down from a window and saw King David leaping and dancing before the LORD, and she despised him in her heart."
+hebrew: "וְהָיָה֙ אֲר֣וֹן יְהוָ֔ה בָּ֖א עִ֣יר דָּוִ֑ד וּמִיכַ֨ל בַּת־ שָׁא֜וּל נִשְׁקְפָ֣ה׀ בְּעַ֣ד הַחַלּ֗וֹן וַתֵּ֨רֶא אֶת־ הַמֶּ֤לֶךְ דָּוִד֙ מְפַזֵּ֤ז וּמְכַרְכֵּר֙ לִפְנֵ֣י יְהוָ֔ה וַתִּ֥בֶז ל֖וֹ בְּלִבָּֽהּ׃"
+pericope: "[[2Sam.6.16 Michal’s Contempt for David|Michal’s Contempt for David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 6
+book/chapter: "[[2Sam.6|2 Samuel 6]]"
+chronological_order: 392
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic DANCING|DANCING]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MICHAL|MICHAL]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0727]]"
+- "[[H3068G]]"
+- "[[H0935G]]"
+- "[[H5892B]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H4324G]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H7586G]]"
+- "[[H8259]]"
+- "[[H9015]]"
+- "[[H1157]]"
+- "[[H9009]]"
+- "[[H2474]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H4428G]]"
+- "[[H6339]]"
+- "[[H3769]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0959]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 6:16**<big><big>[[2Sam.6.16 Michal’s Contempt for David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as the ark of the LORD came into the city of David, Michal Saul’s daughter looked through a window, and saw king David leaping and dancing before the LORD; and she despised him in her heart.
 <small><sub>**BSB:**</sub></small>
 As the ark of the LORD was entering the City of David, Saul’s daughter Michal looked down from a window and saw King David leaping and dancing before the LORD, and she despised him in her heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָה֙]] [[H0727\|אֲר֣וֹן]] [[H3068G\|יְהוָ֔ה]] [[H0935G\|בָּ֖א]] [[H5892B\|עִ֣יר]] [[H1732\|דָּוִ֑ד]] [[H9002\|וּ]][[H4324G\|מִיכַ֨ל]] [[H1323G\|בַּת]][[H9014\|־]] [[H7586G\|שָׁא֜וּל]] [[H8259\|נִשְׁקְפָ֣ה]][[H9015\|׀]] [[H1157\|בְּעַ֣ד]] [[H9009\|הַ]][[H2474\|חַלּ֗וֹן]] [[H9001\|וַ]][[H7200G\|תֵּ֨רֶא]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֤לֶךְ]] [[H1732\|דָּוִד֙]] [[H6339\|מְפַזֵּ֤ז]] [[H9002\|וּ]][[H3769\|מְכַרְכֵּר֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H0959\|תִּ֥בֶז]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9003\|בְּ]][[H3820A\|לִבָּֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic DANCING|DANCING]] • [[topic DAVID|DAVID]] • [[topic FAMILY|FAMILY]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MICHAL|MICHAL]] • [[topic WOMEN|WOMEN]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.15|<< 2 Samuel 6:15]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.17|2 Samuel 6:17 >>]]</td></tr></table>
 

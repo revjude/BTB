@@ -1,8 +1,73 @@
+---
+title: Ezra 9:8
+type: Verse
+kjv: "And now for a little space grace hath been shewed from the LORD our God, to leave us a remnant to escape, and to give us a nail in his holy place, that our God may lighten our eyes, and give us a little reviving in our bondage."
+bsb: "But now, for a brief moment, grace has come from the LORD our God to preserve for us a remnant and to give us a stake in His holy place. Even in our bondage, our God has given us new life and light to our eyes."
+hebrew: "וְעַתָּ֡ה כִּמְעַט־ רֶגַע֩ הָיְתָ֨ה תְחִנָּ֜ה מֵאֵ֣ת׀ יְהוָ֣ה אֱלֹהֵ֗ינוּ לְהַשְׁאִ֥יר לָ֙נוּ֙ פְּלֵיטָ֔ה וְלָתֶת־ לָ֥נוּ יָתֵ֖ד בִּמְק֣וֹם קָדְשׁ֑וֹ לְהָאִ֤יר עֵינֵ֙ינוּ֙ אֱלֹהֵ֔ינוּ וּלְתִתֵּ֛נוּ מִֽחְיָ֥ה מְעַ֖ט בְּעַבְדֻתֵֽנוּ׃"
+pericope: "[[Ezra.9.5 Ezra’s Prayer of Confession|Ezra’s Prayer of Confession]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 9
+book/chapter: "[[Ezra.9|Ezra 9]]"
+chronological_order: 911
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NAIL|NAIL]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H9004]]"
+- "[[H4592]]"
+- "[[H9014]]"
+- "[[H7281]]"
+- "[[H1961]]"
+- "[[H8467]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9005]]"
+- "[[H7604]]"
+- "[[H9035]]"
+- "[[H6413]]"
+- "[[H5414G]]"
+- "[[H3489]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H6944G]]"
+- "[[H9023]]"
+- "[[H0215]]"
+- "[[H5869A]]"
+- "[[H4241]]"
+- "[[H5659]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 9:8**<big><big>[[Ezra.9.5 Ezra’s Prayer of Confession|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now for a little space grace hath been [shewed] from the LORD our God, to leave us a remnant to escape, and to give us a nail in his holy place, that our God may lighten our eyes, and give us a little reviving in our bondage.
 <small><sub>**BSB:**</sub></small>
 But now, for a brief moment, grace has come from the LORD our God to preserve for us a remnant and to give us a stake in His holy place. Even in our bondage, our God has given us new life and light to our eyes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֡ה]] [[H9004\|כִּ]][[H4592\|מְעַט]][[H9014\|־]] [[H7281\|רֶגַע֩]] [[H1961\|הָיְתָ֨ה]] [[H8467\|תְחִנָּ֜ה]] [[H9006\|מֵ]][[H0854\|אֵ֣ת]][[H9015\|׀]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵ֗י]][[H9025\|נוּ]] [[H9005\|לְ]][[H7604\|הַשְׁאִ֥יר]] [[H9005\|לָ֙]][[H9035\|נוּ֙]] [[H6413\|פְּלֵיטָ֔ה]] [[H9002\|וְ]][[H9005\|לָ]][[H5414G\|תֶת]][[H9014\|־]] [[H9005\|לָ֥]][[H9035\|נוּ]] [[H3489\|יָתֵ֖ד]] [[H9003\|בִּ]][[H4725\|מְק֣וֹם]] [[H6944G\|קָדְשׁ֑]][[H9023\|וֹ]] [[H9005\|לְ]][[H0215\|הָאִ֤יר]] [[H5869A\|עֵינֵ֙י]][[H9025\|נוּ֙]] [[H0430G\|אֱלֹהֵ֔י]][[H9025\|נוּ]] [[H9002\|וּ]][[H9005\|לְ]][[H5414G\|תִתֵּ֛]][[H9035\|נוּ]] [[H4241\|מִֽחְיָ֥ה]] [[H4592\|מְעַ֖ט]] [[H9003\|בְּ]][[H5659\|עַבְדֻתֵֽ]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NAIL|NAIL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.9.7|<< Ezra 9:7]]</td><td align="center" style="border:none;">[[Ezra.9|Ezra 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.9.9|Ezra 9:9 >>]]</td></tr></table>
 

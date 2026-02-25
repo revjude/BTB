@@ -1,8 +1,61 @@
+---
+title: Psalm 119:2
+type: Verse
+kjv: "Blessed are they that keep his testimonies, and that seek him with the whole heart."
+bsb: "Blessed are those who keep His testimonies and seek Him with all their heart."
+hebrew: "אַ֭שְׁרֵי נֹצְרֵ֥י עֵדֹתָ֗יו בְּכָל־ לֵ֥ב יִדְרְשֽׁוּהוּ׃"
+pericope: "[[Ps.119.1 Your Word Is a Lamp to My Feet - ALEPH|Your Word Is a Lamp to My Feet - ALEPH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JOY|JOY]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H0835]]"
+- "[[H5341]]"
+- "[[H5713B]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H1875]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:2**<big><big>[[Ps.119.1 Your Word Is a Lamp to My Feet - ALEPH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [are] they that keep his testimonies, [and that] seek him with the whole heart.
 <small><sub>**BSB:**</sub></small>
 Blessed are those who keep His testimonies and seek Him with all their heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H0835\|אַ֭שְׁרֵי]] [[H5341\|נֹצְרֵ֥י]] [[H5713B\|עֵדֹתָ֗י]][[H9023\|ו]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3820A\|לֵ֥ב]] [[H1875\|יִדְרְשֽׁוּ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic HOLINESS|HOLINESS]] • [[topic JOY|JOY]] • [[topic LAW|LAW]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PERFECTION|PERFECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.1|<< Psalms 119:1]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.3|Psalms 119:3 >>]]</td></tr></table>
 

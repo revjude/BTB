@@ -1,8 +1,52 @@
+---
+title: Isaiah 57:21
+type: Verse
+kjv: "There is no peace, saith my God, to the wicked."
+bsb: "“There is no peace,” says my God, “for the wicked.”"
+hebrew: "אֵ֣ין שָׁל֔וֹם אָמַ֥ר אֱלֹהַ֖י לָרְשָׁעִֽים׃ ס"
+pericope: "[[Isa.57.14 Healing for the Repentant|Healing for the Repentant]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 57
+book/chapter: "[[Isa.57|Isaiah 57]]"
+chronological_order: 696
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic REMORSE|REMORSE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0369]]"
+- "[[H7965G]]"
+- "[[H0559]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H7563]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 57:21**<big><big>[[Isa.57.14 Healing for the Repentant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] no peace, saith my God, to the wicked.
 <small><sub>**BSB:**</sub></small>
 “There is no peace,” says my God, “for the wicked.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0369\|אֵ֣ין]] [[H7965G\|שָׁל֔וֹם]] [[H0559\|אָמַ֥ר]] [[H0430G\|אֱלֹהַ֖]][[H9020\|י]] [[H9005\|לָ]][[H7563\|רְשָׁעִֽים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REMORSE|REMORSE]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.20|<< Isaiah 57:20]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58.1|Isaiah 58:1 >>]]</td></tr></table>
 
@@ -12,7 +56,7 @@
 | peace  |**<big>&#8207;[[H7965G\|שָׁל֔וֹם]]&#8207; </big>**| sha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he says  |**<big>&#8207;[[H0559\|אָמַ֥ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God my  |**<big>&#8207;[[H0430G\|אֱלֹהַ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'e.lo.Ha<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [belongs] to \<the> wicked [people]  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H7563\|רְשָׁעִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belongs] to \<the> wicked [people]  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H7563\|רְשָׁעִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.20|<< Isaiah 57:20]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58.1|Isaiah 58:1 >>]]</td></tr></table>
 
 

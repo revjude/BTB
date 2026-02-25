@@ -1,8 +1,51 @@
+---
+title: Song of Solomon 4:12
+type: Verse
+kjv: "A garden inclosed is my sister, my spouse; a spring shut up, a fountain sealed."
+bsb: "My sister, my bride, you are a garden locked up, a spring enclosed, a fountain sealed."
+hebrew: "גַּ֥ן׀ נָע֖וּל אֲחֹתִ֣י כַלָּ֑ה גַּ֥ל נָע֖וּל מַעְיָ֥ן חָתֽוּם׃"
+pericope: "[[Song.4.1 The Bridegroom|The Bridegroom]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 4
+book/chapter: "[[Song.4|Song of Solomon 4]]"
+chronological_order: 451
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic BRIDEGROOM|BRIDEGROOM]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FENCE|FENCE]]"
+strongs:
+- "[[H1588M]]"
+- "[[H9015]]"
+- "[[H5274A]]"
+- "[[H0269]]"
+- "[[H9020]]"
+- "[[H3618G]]"
+- "[[H1530H]]"
+- "[[H4599]]"
+- "[[H2856]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 4:12**<big><big>[[Song.4.1 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A garden inclosed [is] my sister, [my] spouse; a spring shut up, a fountain sealed.
 <small><sub>**BSB:**</sub></small>
 My sister, my bride, you are a garden locked up, a spring enclosed, a fountain sealed.
+<small><sub>**Hebrew:**</sub></small>
+[[H1588M\|גַּ֥ן]][[H9015\|׀]] [[H5274A\|נָע֖וּל]] [[H0269\|אֲחֹתִ֣]][[H9020\|י]] [[H3618G\|כַלָּ֑ה]] [[H1530H\|גַּ֥ל]] [[H5274A\|נָע֖וּל]] [[H4599\|מַעְיָ֥ן]] [[H2856\|חָתֽוּם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDEGROOM|BRIDEGROOM]] • [[topic CHURCH|CHURCH]] • [[topic FENCE|FENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.4.11|<< Song of Solomon 4:11]]</td><td align="center" style="border:none;">[[Song.4|Song of Solomon 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.4.13|Song of Solomon 4:13 >>]]</td></tr></table>
 

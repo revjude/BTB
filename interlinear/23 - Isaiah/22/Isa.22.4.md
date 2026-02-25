@@ -1,8 +1,63 @@
+---
+title: Isaiah 22:4
+type: Verse
+kjv: "Therefore said I, Look away from me; I will weep bitterly, labour not to comfort me, because of the spoiling of the daughter of my people."
+bsb: "Therefore I said, “Turn away from me, let me weep bitterly! Do not try to console me over the destruction of the daughter of my people.”"
+hebrew: "עַל־ כֵּ֥ן אָמַ֛רְתִּי שְׁע֥וּ מִנִּ֖י אֲמָרֵ֣ר בַּבֶּ֑כִי אַל־ תָּאִ֣יצוּ לְנַֽחֲמֵ֔נִי עַל־ שֹׁ֖ד בַּת־ עַמִּֽי׃"
+pericope: "[[Isa.22.1 The Valley of Vision|The Valley of Vision]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 22
+book/chapter: "[[Isa.22|Isaiah 22]]"
+chronological_order: 639
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H0559]]"
+- "[[H8159]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H4843]]"
+- "[[H9003]]"
+- "[[H1065]]"
+- "[[H0408]]"
+- "[[H0213]]"
+- "[[H9005]]"
+- "[[H5162G]]"
+- "[[H7701]]"
+- "[[H1323G]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 22:4**<big><big>[[Isa.22.1 The Valley of Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore said I, Look away from me; I will weep bitterly, labour not to comfort me, because of the spoiling of the daughter of my people.
 <small><sub>**BSB:**</sub></small>
 Therefore I said, “Turn away from me, let me weep bitterly! Do not try to console me over the destruction of the daughter of my people.”
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֥ן]] [[H0559\|אָמַ֛רְתִּי]] [[H8159\|שְׁע֥וּ]] [[H4480A\|מִ]][[H9030\|נִּ֖י]] [[H4843\|אֲמָרֵ֣ר]] [[H9003\|בַּ]][[H1065\|בֶּ֑כִי]] [[H0408\|אַל]][[H9014\|־]] [[H0213\|תָּאִ֣יצוּ]] [[H9005\|לְ]][[H5162G\|נַֽחֲמֵ֔]][[H9030\|נִי]] [[H5921A\|עַל]][[H9014\|־]] [[H7701\|שֹׁ֖ד]] [[H1323G\|בַּת]][[H9014\|־]] [[H5971A\|עַמִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.22.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.3|<< Isaiah 22:3]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.5|Isaiah 22:5 >>]]</td></tr></table>
 

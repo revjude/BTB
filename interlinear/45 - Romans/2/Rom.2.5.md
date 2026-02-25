@@ -1,10 +1,61 @@
+---
+title: Romans 2:5
+type: Verse
+kjv: "But after thy hardness and impenitent heart treasurest up unto thyself wrath against the day of wrath and revelation of the righteous judgment of God;"
+bsb: "But because of your hard and unrepentant heart, you are storing up wrath against yourself for the day of wrath, when God’s righteous judgment will be revealed."
+greek: "κατὰ δὲ τὴν σκληρότητά σου καὶ ἀμετανόητον καρδίαν θησαυρίζεις σεαυτῷ ὀργὴν ἐν ἡμέρᾳ ὀργῆς καὶ ἀποκαλύψεως καὶ δικαιοκρισίας τοῦ θεοῦ,"
+pericope: "[[Rom.2.1 God’s Righteous Judgment|God’s Righteous Judgment]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 2
+book/chapter: "[[Rom.2|Romans 2]]"
+chronological_order: 1088
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2596]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4643]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G0279]]"
+- "[[G2588]]"
+- "[[G2343]]"
+- "[[G3709]]"
+- "[[G1722]]"
+- "[[G2250]]"
+- "[[G0602]]"
+- "[[G1341]]"
+- "[[G2316]]"
+texts:
+- NKO
+- O
+---
+
 **Romans 2:5**<big><big>[[Rom.2.1 God’s Righteous Judgment|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But after thy hardness and impenitent heart treasurest up unto thyself wrath against the day of wrath and revelation of the righteous judgment of God;
 <small><sub>**BSB:**</sub></small>
 But because of your hard and unrepentant heart, you are storing up wrath against yourself for the day of wrath, when God’s righteous judgment will be revealed.
-<small><sub>**Literal:**</sub></small>
-Because of however the hardness of you and unrepentant heart you are treasuring up to yourself wrath in [the] day of wrath and revelation and of justice <the> of God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.4|<< Romans 2:4]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.6|Romans 2:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2596\|κατὰ]]  [[G1161\|δὲ]]  [[G3588\|τὴν]]  [[G4643\|σκληρότητά]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G0279\|ἀμετανόητον]]  [[G2588\|καρδίαν]]  [[G2343\|θησαυρίζεις]]  [[G4771\|σεαυτῷ]]  [[G3709\|ὀργὴν]]  [[G1722\|ἐν]]  [[G2250\|ἡμέρᾳ]]  [[G3709\|ὀργῆς]]  [[G2532\|καὶ]]  [[G0602\|ἀποκαλύψεως]]  [[G2532\|καὶ]]  [[G1341\|δικαιοκρισίας]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic JUDGMENT|JUDGMENT]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.4|<< Romans 2:4]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.6|Romans 2:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

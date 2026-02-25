@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ascribe Glory to the LORD
+type: Pericope
 pericope: "[[Ps.29.1 Ascribe Glory to the LORD|Ascribe Glory to the LORD]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 29
 book/chapter: "[[Ps.29|Psalm 29]]"
-genre:
+chronological_order: 361
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 12
 verses:
 - "[[Ps.29.0]]"
 - "[[Ps.29.1]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Ps.29.11]]"
 ---
 
-[[Ps.29|Psalm 29:1 - Psalm 29:11]]
+<small>[[Ps.29|Psalm 29:1-11]]</small>
 *Ascribe Glory to the LORD*
 
 [[Ps.29.0|0]] A Psalm of David.

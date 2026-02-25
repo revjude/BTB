@@ -1,8 +1,76 @@
+---
+title: 2 Samuel 19:13
+type: Verse
+kjv: "And say ye to Amasa, Art thou not of my bone, and of my flesh? God do so to me, and more also, if thou be not captain of the host before me continually in the room of Joab."
+bsb: "And say to Amasa, ‘Aren’t you my flesh and blood? May God punish me, and ever so severely, if from now on you are not the commander of my army in place of Joab!’”"
+hebrew: "וְלַֽעֲמָשָׂא֙ תֹּֽמְר֔וּ הֲל֛וֹא עַצְמִ֥י וּבְשָׂרִ֖י אָ֑תָּה כֹּ֣ה יַֽעֲשֶׂה־ לִּ֤י אֱלֹהִים֙ וְכֹ֣ה יוֹסִ֔יף אִם־ לֹ֠א שַׂר־ צָבָ֞א תִּהְיֶ֧ה לְפָנַ֛י כָּל־ הַיָּמִ֖ים תַּ֥חַת יוֹאָֽב׃"
+pericope: "[[2Sam.19.8 David Restored as King|David Restored as King]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 19
+book/chapter: "[[2Sam.19|2 Samuel 19]]"
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AMASA|AMASA]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CLEMENCY|CLEMENCY]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic NEPOTISM|NEPOTISM]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H6021G]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H6106G]]"
+- "[[H9020]]"
+- "[[H1320]]"
+- "[[H0859A]]"
+- "[[H3541]]"
+- "[[H6213A]]"
+- "[[H9014]]"
+- "[[H9030]]"
+- "[[H0430G]]"
+- "[[H3254H]]"
+- "[[H0518A]]"
+- "[[H8269]]"
+- "[[H6635A]]"
+- "[[H1961]]"
+- "[[H6440G]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3117K]]"
+- "[[H8478H]]"
+- "[[H3097G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 19:13**<big><big>[[2Sam.19.8 David Restored as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say ye to Amasa, [Art] thou not of my bone, and of my flesh? God do so to me, and more also, if thou be not captain of the host before me continually in the room of Joab.
 <small><sub>**BSB:**</sub></small>
 And say to Amasa, ‘Aren’t you my flesh and blood? May God punish me, and ever so severely, if from now on you are not the commander of my army in place of Joab!’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לַֽ]][[H6021G\|עֲמָשָׂא֙]] [[H0559\|תֹּֽמְר֔וּ]] [[H9008\|הֲ]][[H3808\|ל֛וֹא]] [[H6106G\|עַצְמִ֥]][[H9020\|י]] [[H9002\|וּ]][[H1320\|בְשָׂרִ֖]][[H9020\|י]] [[H0859A\|אָ֑תָּה]] [[H3541\|כֹּ֣ה]] [[H6213A\|יַֽעֲשֶׂה]][[H9014\|־]] [[H9005\|לִּ֤]][[H9030\|י]] [[H0430G\|אֱלֹהִים֙]] [[H9002\|וְ]][[H3541\|כֹ֣ה]] [[H3254H\|יוֹסִ֔יף]] [[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֠א]] [[H8269\|שַׂר]][[H9014\|־]] [[H6635A\|צָבָ֞א]] [[H1961\|תִּהְיֶ֧ה]] [[H9005\|לְ]][[H6440G\|פָנַ֛]][[H9020\|י]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117K\|יָּמִ֖ים]] [[H8478H\|תַּ֥חַת]] [[H3097G\|יוֹאָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMASA|AMASA]] • [[topic ARMIES|ARMIES]] • [[topic CLEMENCY|CLEMENCY]] • [[topic DAVID|DAVID]] • [[topic ENEMY|ENEMY]] • [[topic JOAB|JOAB]] • [[topic JUDAH|JUDAH]] • [[topic NEPOTISM|NEPOTISM]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.12|<< 2 Samuel 19:12]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.14|2 Samuel 19:14 >>]]</td></tr></table>
 

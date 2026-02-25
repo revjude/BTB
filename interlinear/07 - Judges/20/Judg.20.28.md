@@ -1,8 +1,79 @@
+---
+title: Judges 20:28
+type: Verse
+kjv: "And Phinehas, the son of Eleazar, the son of Aaron, stood before it in those days,) saying, Shall I yet again go out to battle against the children of Benjamin my brother, or shall I cease? And the LORD said, Go up; for to morrow I will deliver them into thine hand."
+bsb: "and Phinehas son of Eleazar, the son of Aaron, served before it.) The Israelites asked, “Should we again go out to battle against our brothers the Benjamites, or should we stop?” The LORD answered, “Fight, for tomorrow I will deliver them into your hand.”"
+hebrew: "וּ֠פִינְחָס בֶּן־ אֶלְעָזָ֨ר בֶּֽן־ אַהֲרֹ֜ן עֹמֵ֣ד׀ לְפָנָ֗יו בַּיָּמִ֣ים הָהֵם֮ לֵאמֹר֒ הַאוֹסִ֨ף ע֜וֹד לָצֵ֧את לַמִּלְחָמָ֛ה עִם־ בְּנֵֽי־ בִנְיָמִ֥ן אָחִ֖י אִם־ אֶחְדָּ֑ל וַיֹּ֤אמֶר יְהוָה֙ עֲל֔וּ כִּ֥י מָחָ֖ר אֶתְּנֶ֥נּוּ בְיָדֶֽךָ׃"
+pericope: "[[Judg.20.18 Civil War against Benjamin|Civil War against Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic PHINEHAS|PHINEHAS]]"
+strongs:
+- "[[H9002]]"
+- "[[H6372G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0499G]]"
+- "[[H0175]]"
+- "[[H5975H]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1992]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H3254G]]"
+- "[[H5750]]"
+- "[[H3318G]]"
+- "[[H4421]]"
+- "[[H5973A]]"
+- "[[H1121G]]"
+- "[[H1144G]]"
+- "[[H0251I]]"
+- "[[H9020]]"
+- "[[H0518A]]"
+- "[[H2308]]"
+- "[[H9001]]"
+- "[[H3068G]]"
+- "[[H5927G]]"
+- "[[H3588A]]"
+- "[[H4279]]"
+- "[[H5414G]]"
+- "[[H9033]]"
+- "[[H3027H]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:28**<big><big>[[Judg.20.18 Civil War against Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Phinehas, the son of Eleazar, the son of Aaron, stood before it in those days,) saying, Shall I yet again go out to battle against the children of Benjamin my brother, or shall I cease? And the LORD said, Go up; for to morrow I will deliver them into thine hand.
 <small><sub>**BSB:**</sub></small>
 and Phinehas son of Eleazar, the son of Aaron, served before it.) The Israelites asked, “Should we again go out to battle against our brothers the Benjamites, or should we stop?” The LORD answered, “Fight, for tomorrow I will deliver them into your hand.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ֠]][[H6372G\|פִינְחָס]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0499G\|אֶלְעָזָ֨ר]] [[H1121A\|בֶּֽן]][[H9014\|־]] [[H0175\|אַהֲרֹ֜ן]] [[H5975H\|עֹמֵ֣ד]][[H9015\|׀]] [[H9005\|לְ]][[H6440G\|פָנָ֗י]][[H9023\|ו]] [[H9003\|בַּ]][[H3117G\|יָּמִ֣ים]] [[H9009\|הָ]][[H1992\|הֵם֮]] [[H9005\|לֵ]][[H0559\|אמֹר֒]] [[H9008\|הַ]][[H3254G\|אוֹסִ֨ף]] [[H5750\|ע֜וֹד]] [[H9005\|לָ]][[H3318G\|צֵ֧את]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֛ה]] [[H5973A\|עִם]][[H9014\|־]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H1144G\|בִנְיָמִ֥ן]] [[H0251I\|אָחִ֖]][[H9020\|י]] [[H0518A\|אִם]][[H9014\|־]] [[H2308\|אֶחְדָּ֑ל]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H5927G\|עֲל֔וּ]] [[H3588A\|כִּ֥י]] [[H4279\|מָחָ֖ר]] [[H5414G\|אֶתְּנֶ֥]][[H9033\|נּוּ]] [[H9003\|בְ]][[H3027H\|יָדֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic PHINEHAS|PHINEHAS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.27|<< Judges 20:27]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.29|Judges 20:29 >>]]</td></tr></table>
 

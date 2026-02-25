@@ -1,6 +1,82 @@
+---
+title: LXX Leviticus 13:55
+type: Verse
+lxx: "And the priest shall look after the washing the infection; and thus the infection in no way should turn  of its appearance, and the infection did not diffuse, it is unclean; in fire you shall incinerate it; it is fixed firm in the garment, or in the warp, or in the woof."
+greek: "και όψεται ο ιερεύς μετά το πλυθήναι αυτό την αφήν και ήδε ου μη μεταβάλη η αφή την όψιν αυτής και η αφή ου διαχείται ακάθαρτόν εστιν εν πυρί κατακαυθήσεται εστήρικται εν τω ιματίω η εν τω στήμονι η εν τη κρόκη"
+original_language: Greek
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DRESS|DRESS]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3708]]"
+- "[[G3588]]"
+- "[[G2409]]"
+- "[[G3326]]"
+- "[[G3588]]"
+- "[[G4150]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0860]]"
+- "[[G2532]]"
+- "[[G3592]]"
+- "[[G3364]]"
+- "[[G3328]]"
+- "[[G3588]]"
+- "[[G0860]]"
+- "[[G3588]]"
+- "[[G3799]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0860]]"
+- "[[G3756]]"
+- "[[G6904]]"
+- "[[G0169]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G4442]]"
+- "[[G2618]]"
+- "[[G4741]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2440]]"
+- "[[G2228]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G9175]]"
+- "[[G2228]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G8097]]"
+---
+
 **LXX Leviticus 13:55** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall look after the washing the infection; and thus the infection in no way should turn  of its appearance, and the infection did not diffuse, it is unclean; in fire you shall incinerate \[it\]; it is fixed firm in the garment, or in the warp, or in the woof. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3708\|όψεται]] [[G3588\|ο]] [[G2409\|ιερεύς]] [[G3326\|μετά]] [[G3588\|το]] [[G4150\|πλυθήναι]] [[G1473\|αυτό]] [[G3588\|την]] [[G0860\|αφήν]] [[G2532\|και]] [[G3592\|ήδε]] [[G3364\|ου μη]] [[G3328\|μεταβάλη]] [[G3588\|η]] [[G0860\|αφή]] [[G3588\|την]] [[G3799\|όψιν]] [[G1473\|αυτής]] [[G2532\|και]] [[G3588\|η]] [[G0860\|αφή]] [[G3756\|ου]] [[G6904\|διαχείται]] [[G0169\|ακάθαρτόν]] [[G1510\|εστιν]] [[G1722\|εν]] [[G4442\|πυρί]] [[G2618\|κατακαυθήσεται]] [[G4741\|εστήρικται]] [[G1722\|εν]] [[G3588\|τω]] [[G2440\|ιματίω]] [[G2228\|η]] [[G1722\|εν]] [[G3588\|τω]] [[G9175\|στήμονι]] [[G2228\|η]] [[G1722\|εν]] [[G3588\|τη]] [[G8097\|κρόκη]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRESS|DRESS]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**MT:**</sub></small>
 [[Lev.13.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.54|<< Leviticus 13:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.56|Leviticus 13:56 >>]]</td></tr></table>
 
@@ -44,6 +120,6 @@ And the priest shall look after the washing the infection; and thus the infectio
 | in | **<big>[[G1722\|εν]]</big>** |
 | the | **<big>[[G3588\|τη]]</big>** |
 | woof. | **<big>[[G8097\|κρόκη]]</big>** |
-[[Lev.13.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.54|<< Leviticus 13:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.56|Leviticus 13:56 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.54|<< Leviticus 13:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.56|Leviticus 13:56 >>]]</td></tr></table>
 
 

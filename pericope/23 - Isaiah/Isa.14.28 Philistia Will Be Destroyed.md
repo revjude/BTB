@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Philistia Will Be Destroyed
+type: Pericope
 pericope: "[[Isa.14.28 Philistia Will Be Destroyed|Philistia Will Be Destroyed]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 14
 book/chapter: "[[Isa.14|Isaiah 14]]"
-genre:
+chronological_order: 631
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 5
 verses:
 - "[[Isa.14.28]]"
 - "[[Isa.14.29]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Isa.14.32]]"
 ---
 
-[[Isa.14|Isaiah 14:28 - Isaiah 14:32]]
+<small>[[Isa.14|Isaiah 14:28-32]]</small>
 *Philistia Will Be Destroyed*
 
 [[Isa.14.28|28]] In the year that king Ahaz died was this burden.

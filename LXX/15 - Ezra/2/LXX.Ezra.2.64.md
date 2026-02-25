@@ -1,6 +1,47 @@
+---
+title: LXX Ezra 2:64
+type: Verse
+lxx: "And all the assembly together were as four ten thousand, two thousand, three hundred, sixty;"
+greek: "πάσα δε η εκκλησία ομού ωσεί τέσσαρες μυριάδες δισχίλιοι τριακόσιοι εξήκοντα"
+original_language: Greek
+testament: Old
+book: Ezra
+chapter: 2
+book/chapter: "[[Ezra.2|Ezra 2]]"
+chronological_order: 850
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- septuagint
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[G3956]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1577]]"
+- "[[G3674]]"
+- "[[G5616]]"
+- "[[G5064]]"
+- "[[G3461]]"
+- "[[G1367]]"
+- "[[G5145]]"
+- "[[G1835]]"
+---
+
 **LXX Ezra 2:64** 
 <small><sub>**LXX:**</sub></small>
 And all the assembly together \[were\] as four ten thousand, two thousand, three hundred, sixty; 
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πάσα]] [[G1161\|δε]] [[G3588\|η]] [[G1577\|εκκλησία]] [[G3674\|ομού]] [[G5616\|ωσεί]] [[G5064\|τέσσαρες]] [[G3461\|μυριάδες]] [[G1367\|δισχίλιοι]] [[G5145\|τριακόσιοι]] [[G1835\|εξήκοντα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic MUSIC|MUSIC]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezra.2.64|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.63|<< Ezra 2:63]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.65|Ezra 2:65 >>]]</td></tr></table>
 
@@ -16,6 +57,6 @@ And all the assembly together \[were\] as four ten thousand, two thousand, three
 | two thousand, | **<big>[[G1367\|δισχίλιοι]]</big>** |
 | three hundred, | **<big>[[G5145\|τριακόσιοι]]</big>** |
 | sixty; | **<big>[[G1835\|εξήκοντα]]</big>** |
-[[Ezra.2.64|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.63|<< Ezra 2:63]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.65|Ezra 2:65 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.63|<< Ezra 2:63]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.65|Ezra 2:65 >>]]</td></tr></table>
 
 

@@ -1,8 +1,61 @@
+---
+title: Numbers 17:13
+type: Verse
+kjv: "Whosoever cometh any thing near unto the tabernacle of the LORD shall die: shall we be consumed with dying?"
+bsb: "Anyone who comes near the tabernacle of the LORD will die. Are we all going to perish?”"
+hebrew: "כֹּ֣ל הַקָּרֵ֧ב׀ הַקָּרֵ֛ב אֶל־ מִשְׁכַּ֥ן יְהוָ֖ה יָמ֑וּת הַאִ֥ם תַּ֖מְנוּ לִגְוֹֽעַ׃ ס"
+pericope: "[[Num.17.1 Aaron’s Staff Buds|Aaron’s Staff Buds]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 17
+book/chapter: "[[Num.17|Numbers 17]]"
+chronological_order: 177
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H7131]]"
+- "[[H9015]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4908]]"
+- "[[H3068G]]"
+- "[[H4191]]"
+- "[[H9008]]"
+- "[[H0518H]]"
+- "[[H8552]]"
+- "[[H9005]]"
+- "[[H1478]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Numbers 17:13**<big><big>[[Num.17.1 Aaron’s Staff Buds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whosoever cometh any thing near unto the tabernacle of the LORD shall die: shall we be consumed with dying?
 <small><sub>**BSB:**</sub></small>
 Anyone who comes near the tabernacle of the LORD will die. Are we all going to perish?”
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כֹּ֣ל]] [[H9009\|הַ]][[H7131\|קָּרֵ֧ב]][[H9015\|׀]] [[H9009\|הַ]][[H7131\|קָּרֵ֛ב]] [[H0413\|אֶל]][[H9014\|־]] [[H4908\|מִשְׁכַּ֥ן]] [[H3068G\|יְהוָ֖ה]] [[H4191\|יָמ֑וּת]] [[H9008\|הַ]][[H0518H\|אִ֥ם]] [[H8552\|תַּ֖מְנוּ]] [[H9005\|לִ]][[H1478\|גְוֹֽעַ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESPONDENCY|DESPONDENCY]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.17.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.17.12|<< Numbers 17:12]]</td><td align="center" style="border:none;">[[Num.17|Numbers 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.1|Numbers 18:1 >>]]</td></tr></table>
 
@@ -17,7 +70,7 @@ Anyone who comes near the tabernacle of the LORD will die. Are we all going to p
 | he will die  |**<big>&#8207;[[H4191\|יָמ֑וּת]]&#8207; </big>**| ya.Mut<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ¿ or  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H0518H\|אִ֥ם]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> 'Im<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will we complete  |**<big>&#8207;[[H8552\|תַּ֖מְנוּ]]&#8207; </big>**| Tam.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to die  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1478\|גְוֹֽעַ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> g.Vo.a'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to die  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1478\|גְוֹֽעַ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> g.Vo.a'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.17.12|<< Numbers 17:12]]</td><td align="center" style="border:none;">[[Num.17|Numbers 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.1|Numbers 18:1 >>]]</td></tr></table>
 
 

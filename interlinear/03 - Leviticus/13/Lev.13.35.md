@@ -1,8 +1,57 @@
+---
+title: Leviticus 13:35
+type: Verse
+kjv: "But if the scall spread much in the skin after his cleansing;"
+bsb: "If, however, the scaly outbreak spreads further on the skin after his cleansing,"
+hebrew: "וְאִם־ פָּשֹׂ֥ה יִפְשֶׂ֛ה הַנֶּ֖תֶק בָּע֑וֹר אַחֲרֵ֖י טָהֳרָתֽוֹ׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H6581]]"
+- "[[H9009]]"
+- "[[H5424]]"
+- "[[H9003]]"
+- "[[H5785]]"
+- "[[H0310A]]"
+- "[[H2893]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:35**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if the scall spread much in the skin after his cleansing;
 <small><sub>**BSB:**</sub></small>
 If, however, the scaly outbreak spreads further on the skin after his cleansing,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H6581\|פָּשֹׂ֥ה]] [[H6581\|יִפְשֶׂ֛ה]] [[H9009\|הַ]][[H5424\|נֶּ֖תֶק]] [[H9003\|בָּ]][[H5785\|ע֑וֹר]] [[H0310A\|אַחֲרֵ֖י]] [[H2893\|טָהֳרָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.34|<< Leviticus 13:34]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.36|Leviticus 13:36 >>]]</td></tr></table>
 

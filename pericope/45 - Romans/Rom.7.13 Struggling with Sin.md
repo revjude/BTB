@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Struggling with Sin
+type: Pericope
 pericope: "[[Rom.7.13 Struggling with Sin|Struggling with Sin]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: Romans
 chapter: 7
 book/chapter: "[[Rom.7|Romans 7]]"
-genre:
+chronological_order: 1093
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 13
 verses:
 - "[[Rom.7.13]]"
 - "[[Rom.7.14]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Rom.7.25]]"
 ---
 
-[[Rom.7|Romans 7:13 - Romans 7:25]]
+<small>[[Rom.7|Romans 7:13-25]]</small>
 *Struggling with Sin*
 
 [[Rom.7.13|13]] Was then that which is good made death unto me? God forbid. But sin, that it might appear sin, working death in me by that which is good; that sin by the commandment might become exceeding sinful.

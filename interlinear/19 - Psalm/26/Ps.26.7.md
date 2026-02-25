@@ -1,8 +1,58 @@
+---
+title: Psalm 26:7
+type: Verse
+kjv: "That I may publish with the voice of thanksgiving, and tell of all thy wondrous works."
+bsb: "to raise my voice in thanksgiving and declare all Your wonderful works."
+hebrew: "לַ֭שְׁמִעַ בְּק֣וֹל תּוֹדָ֑ה וּ֝לְסַפֵּ֗ר כָּל־ נִפְלְאוֹתֶֽיךָ׃"
+pericope: "[[Ps.26.1 Vindicate Me, O LORD|Vindicate Me, O LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 26
+book/chapter: "[[Ps.26|Psalm 26]]"
+chronological_order: 358
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9005]]"
+- "[[H8085I]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H8426]]"
+- "[[H9002]]"
+- "[[H5608A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6381]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 26:7**<big><big>[[Ps.26.1 Vindicate Me, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That I may publish with the voice of thanksgiving, and tell of all thy wondrous works.
 <small><sub>**BSB:**</sub></small>
 to raise my voice in thanksgiving and declare all Your wonderful works.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ֭]][[H8085I\|שְׁמִעַ]] [[H9003\|בְּ]][[H6963A\|ק֣וֹל]] [[H8426\|תּוֹדָ֑ה]] [[H9002\|וּ֝]][[H9005\|לְ]][[H5608A\|סַפֵּ֗ר]] [[H3605\|כָּל]][[H9014\|־]] [[H6381\|נִפְלְאוֹתֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic TESTIMONY|TESTIMONY]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.26.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.26.6|<< Psalms 26:6]]</td><td align="center" style="border:none;">[[Ps.26|Psalms 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.26.8|Psalms 26:8 >>]]</td></tr></table>
 

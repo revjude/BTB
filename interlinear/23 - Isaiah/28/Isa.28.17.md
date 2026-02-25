@@ -1,8 +1,65 @@
+---
+title: Isaiah 28:17
+type: Verse
+kjv: "Judgment also will I lay to the line, and righteousness to the plummet: and the hail shall sweep away the refuge of lies, and the waters shall overflow the hiding place."
+bsb: "I will make justice the measuring line and righteousness the level. Hail will sweep away your refuge of lies, and water will flood your hiding place."
+hebrew: "וְשַׂמְתִּ֤י מִשְׁפָּט֙ לְקָ֔ו וּצְדָקָ֖ה לְמִשְׁקָ֑לֶת וְיָעָ֤ה בָרָד֙ מַחְסֵ֣ה כָזָ֔ב וְסֵ֥תֶר מַ֖יִם יִשְׁטֹֽפוּ׃"
+pericope: "[[Isa.28.14 A Cornerstone in Zion|A Cornerstone in Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 28
+book/chapter: "[[Isa.28|Isaiah 28]]"
+chronological_order: 671
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PLUMMET|PLUMMET]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SECURITY|SECURITY]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H4941H]]"
+- "[[H9005]]"
+- "[[H6957B]]"
+- "[[H9002]]"
+- "[[H6666]]"
+- "[[H4949]]"
+- "[[H3261]]"
+- "[[H1259]]"
+- "[[H4268]]"
+- "[[H3577]]"
+- "[[H5643A]]"
+- "[[H4325G]]"
+- "[[H7857]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 28:17**<big><big>[[Isa.28.14 A Cornerstone in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Judgment also will I lay to the line, and righteousness to the plummet: and the hail shall sweep away the refuge of lies, and the waters shall overflow the hiding place.
 <small><sub>**BSB:**</sub></small>
 I will make justice the measuring line and righteousness the level. Hail will sweep away your refuge of lies, and water will flood your hiding place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7760A\|שַׂמְתִּ֤י]] [[H4941H\|מִשְׁפָּט֙]] [[H9005\|לְ]][[H6957B\|קָ֔ו]] [[H9002\|וּ]][[H6666\|צְדָקָ֖ה]] [[H9005\|לְ]][[H4949\|מִשְׁקָ֑לֶת]] [[H9001\|וְ]][[H3261\|יָעָ֤ה]] [[H1259\|בָרָד֙]] [[H4268\|מַחְסֵ֣ה]] [[H3577\|כָזָ֔ב]] [[H9002\|וְ]][[H5643A\|סֵ֥תֶר]] [[H4325G\|מַ֖יִם]] [[H7857\|יִשְׁטֹֽפוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INFIDELITY|INFIDELITY]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PLUMMET|PLUMMET]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SECURITY|SECURITY]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.16|<< Isaiah 28:16]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.18|Isaiah 28:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

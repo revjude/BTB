@@ -1,10 +1,56 @@
+---
+title: Romans 10:5
+type: Verse
+kjv: "For Moses describeth the righteousness which is of the law, That the man which doeth those things shall live by them."
+bsb: "For concerning the righteousness that is by the law, Moses writes: “The man who does these things will live by them.”"
+greek: "Μωϋσῆς γὰρ γράφει τὴν δικαιοσύνην τὴν ἐκ τοῦ νόμου ὅτι ὁ ποιήσας αὐτὰ ἄνθρωπος ζήσεται ἐν αὐτοῖς.¶"
+pericope: "[[Rom.10.1 The Word Brings Salvation|The Word Brings Salvation]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 10
+book/chapter: "[[Rom.10|Romans 10]]"
+chronological_order: 1096
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G3475]]"
+- "[[G1063]]"
+- "[[G1125]]"
+- "[[G3588]]"
+- "[[G1343]]"
+- "[[G1537]]"
+- "[[G3551]]"
+- "[[G3754G]]"
+- "[[G4160G]]"
+- "[[G0846]]"
+- "[[G0444]]"
+- "[[G2198]]"
+- "[[G1722]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **Romans 10:5**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For Moses describeth the righteousness which is of the law, That the man which doeth those things shall live by them.
 <small><sub>**BSB:**</sub></small>
 For concerning the righteousness that is by the law, Moses writes: “The man who does these things will live by them.”
-<small><sub>**Literal:**</sub></small>
-Moses for writes [of] the righteousness that [is] of the law that The having done these things man will live by these [things].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.4|<< Romans 10:4]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.6|Romans 10:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3475\|Μωϋσῆς]]  [[G1063\|γὰρ]]  [[G1125\|γράφει]]  [[G3588\|τὴν]]  [[G1343\|δικαιοσύνην]]  [[G3588\|τὴν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3551\|νόμου]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G4160G\|ποιήσας]]  [[G0846\|αὐτὰ]]  [[G0444\|ἄνθρωπος]]  [[G2198\|ζήσεται]]  [[G1722\|ἐν]]  [[G0846\|αὐτοῖς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUSTIFICATION|JUSTIFICATION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RELIGION|RELIGION]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.4|<< Romans 10:4]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.6|Romans 10:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 10:5** is...
 > $\quad$ referencing: [[LXX.Lev.18.5|Lev 18:5]] ☩ [[LXX.Ezek.20.11|Ezek 20:11]]

@@ -1,10 +1,61 @@
+---
+title: Mark 14:49
+type: Verse
+kjv: "I was daily with you in the temple teaching, and ye took me not: but the scriptures must be fulfilled."
+bsb: "Every day I was with you, teaching in the temple courts, and you did not arrest Me. But this has happened that the Scriptures would be fulfilled.”"
+jesus_said: "I was daily with you in the temple teaching, and ye took me not: but the scriptures must be fulfilled."
+greek: "καθ᾽ ἡμέραν ἤμην πρὸς ὑμᾶς ἐν τῷ ἱερῷ διδάσκων, καὶ οὐκ ἐκρατήσατέ με· ἀλλ᾽ ἵνα πληρωθῶσιν αἱ γραφαί."
+pericope: "[[Mark.14.43 The Betrayal of Jesus|The Betrayal of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2596]]"
+- "[[G2250]]"
+- "[[G1510]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2411]]"
+- "[[G1321]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2902]]"
+- "[[G3165]]"
+- "[[G0235]]"
+- "[[G2443]]"
+- "[[G4137]]"
+- "[[G1124]]"
+texts:
+- NKO
+---
+
 **Mark 14:49**<big><big>[[Mark.14.43 The Betrayal of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I was daily with you in the temple teaching, and ye took me not: but the scriptures must be fulfilled.
 <small><sub>**BSB:**</sub></small>
 Every day I was with you, teaching in the temple courts, and you did not arrest Me. But this has happened that the Scriptures would be fulfilled.”
-<small><sub>**Literal:**</sub></small>
-Every day I was with you in the temple teaching, and not you did seize Me; But [it is] that may be fulfilled the Scriptures.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.48|<< Mark 14:48]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.50|Mark 14:50 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2596\|καθ᾽]]  [[G2250\|ἡμέραν]]  [[G1510\|ἤμην]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2411\|ἱερῷ]]  [[G1321\|διδάσκων,]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G2902\|ἐκρατήσατέ]]  [[G3165\|με·]]  [[G0235\|ἀλλ᾽]]  [[G2443\|ἵνα]]  [[G4137\|πληρωθῶσιν]]  [[G3588\|αἱ]]  [[G1124\|γραφαί.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRISONERS|PRISONERS]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.48|<< Mark 14:48]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.50|Mark 14:50 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

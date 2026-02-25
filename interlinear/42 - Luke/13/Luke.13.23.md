@@ -1,10 +1,52 @@
+---
+title: Luke 13:23
+type: Verse
+kjv: "Then said one unto him, Lord, are there few that be saved? And he said unto them,"
+bsb: "“Lord,” someone asked Him, “will only a few people be saved?” Jesus answered,"
+greek: "Εἶπεν δέ τις αὐτῷ· κύριε, εἰ ὀλίγοι οἱ σῳζόμενοι; ὁ δὲ εἶπεν πρὸς αὐτούς·"
+pericope: "[[Luke.13.22 The Narrow Door|The Narrow Door]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 13
+book/chapter: "[[Luke.13|Luke 13]]"
+chronological_order: 975
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CURIOSITY|CURIOSITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G0846]]"
+- "[[G2962G]]"
+- "[[G1487I]]"
+- "[[G3641]]"
+- "[[G3588]]"
+- "[[G4982]]"
+- "[[G4314]]"
+texts:
+- NKO
+---
+
 **Luke 13:23**<big><big>[[Luke.13.22 The Narrow Door|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said one unto him, Lord, are there few that be saved? And he said unto them,
 <small><sub>**BSB:**</sub></small>
 “Lord,” someone asked Him, “will only a few people be saved?” Jesus answered,
-<small><sub>**Literal:**</sub></small>
-Said then one to Him; Lord, if [are] few those being saved? <the> And He said to them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.22|<< Luke 13:22]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.24|Luke 13:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δέ]]  [[G5100\|τις]]  [[G0846\|αὐτῷ·]]  [[G2962G\|κύριε,]]  [[G1487I\|εἰ]]  [[G3641\|ὀλίγοι]]  [[G3588\|οἱ]]  [[G4982\|σῳζόμενοι;]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CURIOSITY|CURIOSITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.22|<< Luke 13:22]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.24|Luke 13:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

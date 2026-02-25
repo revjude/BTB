@@ -1,8 +1,66 @@
+---
+title: Ezekiel 16:7
+type: Verse
+kjv: "I have caused thee to multiply as the bud of the field, and thou hast increased and waxen great, and thou art come to excellent ornaments: thy breasts are fashioned, and thine hair is grown, whereas thou wast naked and bare."
+bsb: "I made you thrive like a plant of the field. You grew up and matured and became very beautiful. Your breasts were formed and your hair grew, but you were naked and bare."
+hebrew: "רְבָבָ֗ה כְּצֶ֤מַח הַשָּׂדֶה֙ נְתַתִּ֔יךְ וַתִּרְבִּי֙ וַֽתִּגְדְּלִ֔י וַתָּבֹ֖אִי בַּעֲדִ֣י עֲדָיִ֑ים שָׁדַ֤יִם נָכֹ֙נוּ֙ וּשְׂעָרֵ֣ךְ צִמֵּ֔חַ וְאַ֖תְּ עֵרֹ֥ם וְעֶרְיָֽה׃"
+pericope: "[[Ezek.16.1 Jerusalem’s Unfaithfulness|Jerusalem’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H7233]]"
+- "[[H9004]]"
+- "[[H6780]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H5414I]]"
+- "[[H9032]]"
+- "[[H9001]]"
+- "[[H7235A]]"
+- "[[H1431]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H5716]]"
+- "[[H7699A]]"
+- "[[H3559A]]"
+- "[[H9002]]"
+- "[[H8181]]"
+- "[[H9022]]"
+- "[[H6779]]"
+- "[[H0859C]]"
+- "[[H5903]]"
+- "[[H6181]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 16:7**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have caused thee to multiply as the bud of the field, and thou hast increased and waxen great, and thou art come to excellent ornaments: [thy] breasts are fashioned, and thine hair is grown, whereas thou [wast] naked and bare.
 <small><sub>**BSB:**</sub></small>
 I made you thrive like a plant of the field. You grew up and matured and became very beautiful. Your breasts were formed and your hair grew, but you were naked and bare.
+<small><sub>**Hebrew:**</sub></small>
+[[H7233\|רְבָבָ֗ה]] [[H9004\|כְּ]][[H6780\|צֶ֤מַח]] [[H9009\|הַ]][[H7704G\|שָּׂדֶה֙]] [[H5414I\|נְתַתִּ֔י]][[H9032\|ךְ]] [[H9001\|וַ]][[H7235A\|תִּרְבִּי֙]] [[H9001\|וַֽ]][[H1431\|תִּגְדְּלִ֔י]] [[H9001\|וַ]][[H0935G\|תָּבֹ֖אִי]] [[H9003\|בַּ]][[H5716\|עֲדִ֣י]] [[H5716\|עֲדָיִ֑ים]] [[H7699A\|שָׁדַ֤יִם]] [[H3559A\|נָכֹ֙נוּ֙]] [[H9002\|וּ]][[H8181\|שְׂעָרֵ֣]][[H9022\|ךְ]] [[H6779\|צִמֵּ֔חַ]] [[H9002\|וְ]][[H0859C\|אַ֖תְּ]] [[H5903\|עֵרֹ֥ם]] [[H9002\|וְ]][[H6181\|עֶרְיָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.6|<< Ezekiel 16:6]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.8|Ezekiel 16:8 >>]]</td></tr></table>
 

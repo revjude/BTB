@@ -1,8 +1,64 @@
+---
+title: Jeremiah 32:22
+type: Verse
+kjv: "And hast given them this land, which thou didst swear to their fathers to give them, a land flowing with milk and honey;"
+bsb: "You gave them this land that You had sworn to give their fathers, a land flowing with milk and honey."
+hebrew: "וַתִּתֵּ֤ן לָהֶם֙ אֶת־ הָאָ֣רֶץ הַזֹּ֔את אֲשֶׁר־ נִשְׁבַּ֥עְתָּ לַאֲבוֹתָ֖ם לָתֵ֣ת לָהֶ֑ם אֶ֛רֶץ זָבַ֥ת חָלָ֖ב וּדְבָֽשׁ׃"
+pericope: "[[Jer.32.16 Jeremiah Prays for Understanding|Jeremiah Prays for Understanding]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 32
+book/chapter: "[[Jer.32|Jeremiah 32]]"
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic MILK|MILK]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H2100G]]"
+- "[[H2461]]"
+- "[[H9002]]"
+- "[[H1706]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 32:22**<big><big>[[Jer.32.16 Jeremiah Prays for Understanding|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And hast given them this land, which thou didst swear to their fathers to give them, a land flowing with milk and honey;
 <small><sub>**BSB:**</sub></small>
 You gave them this land that You had sworn to give their fathers, a land flowing with milk and honey.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|תִּתֵּ֤ן]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7650\|נִשְׁבַּ֥עְתָּ]] [[H9005\|לַ]][[H0001G\|אֲבוֹתָ֖]][[H9028\|ם]] [[H9005\|לָ]][[H5414G\|תֵ֣ת]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H0776G\|אֶ֛רֶץ]] [[H2100G\|זָבַ֥ת]] [[H2461\|חָלָ֖ב]] [[H9002\|וּ]][[H1706\|דְבָֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CANAAN|CANAAN]] • [[topic JEREMIAH|JEREMIAH]] • [[topic MILK|MILK]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.21|<< Jeremiah 32:21]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.23|Jeremiah 32:23 >>]]</td></tr></table>
 

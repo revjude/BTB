@@ -1,8 +1,65 @@
+---
+title: 2 Kings 9:12
+type: Verse
+kjv: "And they said, It is false; tell us now. And he said, Thus and thus spake he to me, saying, Thus saith the LORD, I have anointed thee king over Israel."
+bsb: "“That is a lie!” they said. “Tell us now!” So Jehu answered, “He talked to me about this and that, saying, ‘This is what the LORD says: I anoint you king over Israel.’”"
+hebrew: "וַיֹּאמְר֣וּ שֶׁ֔קֶר הַגֶּד־ נָ֖א לָ֑נוּ וַיֹּ֗אמֶר כָּזֹ֤את וְכָזֹאת֙ אָמַ֤ר אֵלַי֙ לֵאמֹ֔ר כֹּ֚ה אָמַ֣ר יְהוָ֔ה מְשַׁחְתִּ֥יךָֽ לְמֶ֖לֶךְ אֶל־ יִשְׂרָאֵֽל׃"
+pericope: "[[2Kgs.9.1 Jehu Anointed King of Israel|Jehu Anointed King of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 9
+book/chapter: "[[2Kgs.9|2 Kings 9]]"
+chronological_order: 582
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8267]]"
+- "[[H5046]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H9004]]"
+- "[[H2063]]"
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H4886]]"
+- "[[H9031]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 9:12**<big><big>[[2Kgs.9.1 Jehu Anointed King of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said, [It is] false; tell us now. And he said, Thus and thus spake he to me, saying, Thus saith the LORD, I have anointed thee king over Israel.
 <small><sub>**BSB:**</sub></small>
 “That is a lie!” they said. “Tell us now!” So Jehu answered, “He talked to me about this and that, saying, ‘This is what the LORD says: I anoint you king over Israel.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H8267\|שֶׁ֔קֶר]] [[H5046\|הַגֶּד]][[H9014\|־]] [[H4994\|נָ֖א]] [[H9005\|לָ֑]][[H9035\|נוּ]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H9004\|כָּ]][[H2063\|זֹ֤את]] [[H9002\|וְ]][[H9004\|כָ]][[H2063\|זֹאת֙]] [[H0559\|אָמַ֤ר]] [[H0413\|אֵלַ]][[H9030\|י֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H4886\|מְשַׁחְתִּ֥י]][[H9031\|ךָֽ]] [[H9005\|לְ]][[H4428G\|מֶ֖לֶךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic DECISION|DECISION]] • [[topic ENTHUSIASM|ENTHUSIASM]] • [[topic JEHU|JEHU]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.11|<< 2 Kings 9:11]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.13|2 Kings 9:13 >>]]</td></tr></table>
 

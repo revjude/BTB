@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Abraham to Father Many Nations
+type: Pericope
 pericope: "[[Gen.17.1 Abraham to Father Many Nations|Abraham to Father Many Nations]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 17
 book/chapter: "[[Gen.17|Genesis 17]]"
-genre:
+chronological_order: 59
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 8
 verses:
 - "[[Gen.17.1]]"
 - "[[Gen.17.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Gen.17.8]]"
 ---
 
-[[Gen.17|Genesis 17:1 - Genesis 17:8]]
+<small>[[Gen.17|Genesis 17:1-8]]</small>
 *Abraham to Father Many Nations*
 
 [[Gen.17.1|1]] And when Abram was ninety years old and nine, the LORD appeared to Abram, and said unto him, I \[am\] the Almighty God; walk before me, and be thou perfect.

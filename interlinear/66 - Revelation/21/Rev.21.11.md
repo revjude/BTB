@@ -1,10 +1,61 @@
+---
+title: Revelation 21:11
+type: Verse
+kjv: "Having the glory of God: and her light was like unto a stone most precious, even like a jasper stone, clear as crystal;"
+bsb: "shining with the glory of God. Its radiance was like a most precious jewel, like a jasper, as clear as crystal."
+greek: "ἔχουσαν τὴν δόξαν τοῦ θεοῦ. καὶ ὁ φωστὴρ αὐτῆς ὅμοιος λίθῳ τιμιωτάτῳ ὡς λίθῳ ἰάσπιδι κρυσταλλίζοντι"
+pericope: "[[Rev.21.9 The New Jerusalem|The New Jerusalem]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 21
+book/chapter: "[[Rev.21|Revelation 21]]"
+chronological_order: 1188
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CRYSTAL|CRYSTAL]]"
+- "[[topic GLORY|GLORY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G2192]]"
+- "[[G3588]]"
+- "[[G1391]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G5458]]"
+- "[[G0846]]"
+- "[[G3664]]"
+- "[[G3037]]"
+- "[[G5093]]"
+- "[[G5613]]"
+- "[[G2393]]"
+- "[[G2929]]"
+texts:
+- NKO
+- k
+---
+
 **Revelation 21:11**<big><big>[[Rev.21.9 The New Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Having the glory of God: and her light [was] like unto a stone most precious, even like a jasper stone, clear as crystal;
 <small><sub>**BSB:**</sub></small>
 shining with the glory of God. Its radiance was like a most precious jewel, like a jasper, as clear as crystal.
-<small><sub>**Literal:**</sub></small>
-having the glory <the> of God. and The radiance of it [was] like as a stone most precious like as a stone jasper being clear as crystal<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.10|<< Revelation 21:10]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.12|Revelation 21:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2192\|ἔχουσαν]]  [[G3588\|τὴν]]  [[G1391\|δόξαν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G5458\|φωστὴρ]]  [[G0846\|αὐτῆς]]  [[G3664\|ὅμοιος]]  [[G3037\|λίθῳ]]  [[G5093\|τιμιωτάτῳ]]  [[G5613\|ὡς]]  [[G3037\|λίθῳ]]  [[G2393\|ἰάσπιδι]]  [[G2929\|κρυσταλλίζοντι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CRYSTAL|CRYSTAL]] • [[topic GLORY|GLORY]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic JERUSALEM|JERUSALEM]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.10|<< Revelation 21:10]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.12|Revelation 21:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

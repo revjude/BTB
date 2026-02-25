@@ -1,8 +1,70 @@
+---
+title: Exodus 21:28
+type: Verse
+kjv: "If an ox gore a man or a woman, that they die: then the ox shall be surely stoned, and his flesh shall not be eaten; but the owner of the ox shall be quit."
+bsb: "If an ox gores a man or woman to death, the ox must surely be stoned, and its meat must not be eaten. But the owner of the ox shall not be held responsible."
+hebrew: "וְכִֽי־ יִגַּ֨ח שׁ֥וֹר אֶת־ אִ֛ישׁ א֥וֹ אֶת־ אִשָּׁ֖ה וָמֵ֑ת סָק֨וֹל יִסָּקֵ֜ל הַשּׁ֗וֹר וְלֹ֤א יֵאָכֵל֙ אֶת־ בְּשָׂר֔וֹ וּבַ֥עַל הַשּׁ֖וֹר נָקִֽי׃"
+pericope: "[[Exod.21.12 Personal Injury Laws|Personal Injury Laws]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 21
+book/chapter: "[[Exod.21|Exodus 21]]"
+chronological_order: 113
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic DAMAGES AND COMPENSATION|DAMAGES AND COMPENSATION]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic TRESPASS|TRESPASS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5055]]"
+- "[[H7794]]"
+- "[[H0853]]"
+- "[[H0376G]]"
+- "[[H0176A]]"
+- "[[H0802G]]"
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H5619]]"
+- "[[H9009]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H1320]]"
+- "[[H9023]]"
+- "[[H1167G]]"
+- "[[H5355A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 21:28**<big><big>[[Exod.21.12 Personal Injury Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If an ox gore a man or a woman, that they die: then the ox shall be surely stoned, and his flesh shall not be eaten; but the owner of the ox [shall be] quit.
 <small><sub>**BSB:**</sub></small>
 If an ox gores a man or woman to death, the ox must surely be stoned, and its meat must not be eaten. But the owner of the ox shall not be held responsible.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H5055\|יִגַּ֨ח]] [[H7794\|שׁ֥וֹר]] [[H0853\|אֶת]][[H9014\|־]] [[H0376G\|אִ֛ישׁ]] [[H0176A\|א֥וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H0802G\|אִשָּׁ֖ה]] [[H9001\|וָ]][[H4191\|מֵ֑ת]] [[H5619\|סָק֨וֹל]] [[H5619\|יִסָּקֵ֜ל]] [[H9009\|הַ]][[H7794\|שּׁ֗וֹר]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H0398\|יֵאָכֵל֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1320\|בְּשָׂר֔]][[H9023\|וֹ]] [[H9002\|וּ]][[H1167G\|בַ֥עַל]] [[H9009\|הַ]][[H7794\|שּׁ֖וֹר]] [[H5355A\|נָקִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BULLOCK|BULLOCK]] • [[topic DAMAGES AND COMPENSATION|DAMAGES AND COMPENSATION]] • [[topic HOMICIDE|HOMICIDE]] • [[topic PROPERTY|PROPERTY]] • [[topic TRESPASS|TRESPASS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.27|<< Exodus 21:27]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.29|Exodus 21:29 >>]]</td></tr></table>
 

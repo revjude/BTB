@@ -1,8 +1,67 @@
+---
+title: Psalm 98:3
+type: Verse
+kjv: "He hath remembered his mercy and his truth toward the house of Israel: all the ends of the earth have seen the salvation of our God."
+bsb: "He has remembered His love and faithfulness to the house of Israel; all the ends of the earth have seen the salvation of our God."
+hebrew: "זָ֘כַ֤ר חַסְדּ֨וֹ׀ וֶֽאֱֽמוּנָתוֹ֮ לְבֵ֪ית יִשְׂרָ֫אֵ֥ל רָא֥וּ כָל־ אַפְסֵי־ אָ֑רֶץ אֵ֝֗ת יְשׁוּעַ֥ת אֱלֹהֵֽינוּ׃"
+pericope: "[[Ps.98.1 Sing to the LORD a New Song|Sing to the LORD a New Song]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 98
+book/chapter: "[[Ps.98|Psalm 98]]"
+chronological_order: 525
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic TRUTH|TRUTH]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H2142]]"
+- "[[H2617A]]"
+- "[[H9023]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H0530]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H7200G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0657A]]"
+- "[[H0776G]]"
+- "[[H0853]]"
+- "[[H3444]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 98:3**<big><big>[[Ps.98.1 Sing to the LORD a New Song|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath remembered his mercy and his truth toward the house of Israel: all the ends of the earth have seen the salvation of our God.
 <small><sub>**BSB:**</sub></small>
 He has remembered His love and faithfulness to the house of Israel; all the ends of the earth have seen the salvation of our God.
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|זָ֘כַ֤ר]] [[H2617A\|חַסְדּ֨]][[H9023\|וֹ]][[H9015\|׀]] [[H9002\|וֶֽ]][[H0530\|אֱֽמוּנָת]][[H9023\|וֹ֮]] [[H9005\|לְ]][[H1004M\|בֵ֪ית]] [[H3478\|יִשְׂרָ֫אֵ֥ל]] [[H7200G\|רָא֥וּ]] [[H3605\|כָל]][[H9014\|־]] [[H0657A\|אַפְסֵי]][[H9014\|־]] [[H0776G\|אָ֑רֶץ]] [[H0853\|אֵ֝֗ת]] [[H3444\|יְשׁוּעַ֥ת]] [[H0430G\|אֱלֹהֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MUSIC|MUSIC]] • [[topic SALVATION|SALVATION]] • [[topic TRUTH|TRUTH]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.98.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.98.2|<< Psalms 98:2]]</td><td align="center" style="border:none;">[[Ps.98|Psalms 98]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.98.4|Psalms 98:4 >>]]</td></tr></table>
 

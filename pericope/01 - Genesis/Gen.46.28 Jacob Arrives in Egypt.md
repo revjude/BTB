@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jacob Arrives in Egypt
+type: Pericope
 pericope: "[[Gen.46.28 Jacob Arrives in Egypt|Jacob Arrives in Egypt]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 46
 book/chapter: "[[Gen.46|Genesis 46]]"
-genre:
+chronological_order: 88
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 7
 verses:
 - "[[Gen.46.28]]"
 - "[[Gen.46.29]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Gen.46.34]]"
 ---
 
-[[Gen.46|Genesis 46:28 - Genesis 46:34]]
+<small>[[Gen.46|Genesis 46:28-34]]</small>
 *Jacob Arrives in Egypt*
 
 [[Gen.46.28|28]] And he sent Judah before him unto Joseph, to direct his face unto Goshen; and they came into the land of Goshen.

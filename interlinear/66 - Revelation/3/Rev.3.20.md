@@ -1,10 +1,70 @@
+---
+title: Revelation 3:20
+type: Verse
+kjv: "Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me."
+bsb: "Behold, I stand at the door and knock. If anyone hears My voice and opens the door, I will come in and dine with him, and he with Me."
+jesus_said: "Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me."
+greek: "ἰδοὺ ἕστηκα ἐπὶ τὴν θύραν καὶ κρούω. ἐάν τις ἀκούσῃ τῆς φωνῆς μου καὶ ἀνοίξῃ τὴν θύραν, καὶ εἰσελεύσομαι πρὸς αὐτὸν καὶ δειπνήσω μετ᾽ αὐτοῦ καὶ αὐτὸς μετ᾽ ἐμοῦ."
+pericope: "[[Rev.3.14 To the Church in Laodicea|To the Church in Laodicea]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 3
+book/chapter: "[[Rev.3|Revelation 3]]"
+chronological_order: 1170
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LAODICEA|LAODICEA]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[G2400]]"
+- "[[G2476]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2374]]"
+- "[[G2532]]"
+- "[[G2925]]"
+- "[[G1437]]"
+- "[[G5100]]"
+- "[[G0191]]"
+- "[[G5456G]]"
+- "[[G3165]]"
+- "[[G0455]]"
+- "[[G1525]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G1172]]"
+- "[[G3326]]"
+- "[[G1473]]"
+texts:
+- NKO
+- no
+---
+
 **Revelation 3:20**<big><big>[[Rev.3.14 To the Church in Laodicea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.
 <small><sub>**BSB:**</sub></small>
 Behold, I stand at the door and knock. If anyone hears My voice and opens the door, I will come in and dine with him, and he with Me.
-<small><sub>**Literal:**</sub></small>
-Behold I have stood at the door and knock. If anyone shall hear the voice of Mine and shall open the door, then I will come in to him and I will dine with him and he with Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.19|<< Revelation 3:19]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.21|Revelation 3:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2400\|ἰδοὺ]]  [[G2476\|ἕστηκα]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G2374\|θύραν]]  [[G2532\|καὶ]]  [[G2925\|κρούω.]]  [[G1437\|ἐάν]]  [[G5100\|τις]]  [[G0191\|ἀκούσῃ]]  [[G3588\|τῆς]]  [[G5456G\|φωνῆς]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G0455\|ἀνοίξῃ]]  [[G3588\|τὴν]]  [[G2374\|θύραν,]]  [[G2532\|καὶ]]  [[G1525\|εἰσελεύσομαι]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G1172\|δειπνήσω]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G3326\|μετ᾽]]  [[G1473\|ἐμοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic COMMUNION|COMMUNION]] • [[topic FAITH|FAITH]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOD|GOD]] • [[topic LAODICEA|LAODICEA]] • [[topic SALVATION|SALVATION]] • [[topic SEEKERS|SEEKERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.19|<< Revelation 3:19]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.21|Revelation 3:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

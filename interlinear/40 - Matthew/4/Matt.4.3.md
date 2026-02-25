@@ -1,10 +1,60 @@
+---
+title: Matthew 4:3
+type: Verse
+kjv: "And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread."
+bsb: "The tempter came to Him and said, “If You are the Son of God, tell these stones to become bread.”"
+greek: "καὶ προσελθὼν ὁ πειράζων εἶπεν αὐτῷ· εἰ υἱὸς εἶ τοῦ θεοῦ, εἰπὲ ἵνα οἱ λίθοι οὗτοι ἄρτοι γένωνται.¶"
+pericope: "[[Matt.4.1 The Temptation of Jesus|The Temptation of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 4
+book/chapter: "[[Matt.4|Matthew 4]]"
+chronological_order: 936
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic HUNGER|HUNGER]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G4334]]"
+- "[[G3588]]"
+- "[[G3985G]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G1487G]]"
+- "[[G5207]]"
+- "[[G1510]]"
+- "[[G2316]]"
+- "[[G2443]]"
+- "[[G3037]]"
+- "[[G3778]]"
+- "[[G0740]]"
+- "[[G1096]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **Matthew 4:3**<big><big>[[Matt.4.1 The Temptation of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread.
 <small><sub>**BSB:**</sub></small>
 The tempter came to Him and said, “If You are the Son of God, tell these stones to become bread.”
-<small><sub>**Literal:**</sub></small>
-And having come the [one] tempting he said to Him; If Son You are <the> of God, do speak that <the> stones these loaves of bread may become.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.2|<< Matthew 4:2]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.4|Matthew 4:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4334\|προσελθὼν]]  [[G3588\|ὁ]]  [[G3985G\|πειράζων]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G1487G\|εἰ]]  [[G5207\|υἱὸς]]  [[G1510\|εἶ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G2036\|εἰπὲ]]  [[G2443\|ἵνα]]  [[G3588\|οἱ]]  [[G3037\|λίθοι]]  [[G3778\|οὗτοι]]  [[G0740\|ἄρτοι]]  [[G1096\|γένωνται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HUNGER|HUNGER]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SATAN|SATAN]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.2|<< Matthew 4:2]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.4|Matthew 4:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

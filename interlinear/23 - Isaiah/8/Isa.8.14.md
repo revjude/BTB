@@ -1,8 +1,62 @@
+---
+title: Isaiah 8:14
+type: Verse
+kjv: "And he shall be for a sanctuary; but for a stone of stumbling and for a rock of offence to both the houses of Israel, for a gin and for a snare to the inhabitants of Jerusalem."
+bsb: "And He will be a sanctuary—but to both houses of Israel a stone of stumbling and a rock of offense, to the dwellers of Jerusalem a trap and a snare."
+hebrew: "וְהָיָ֖ה לְמִקְדָּ֑שׁ וּלְאֶ֣בֶן נֶ֠גֶף וּלְצ֨וּר מִכְשׁ֜וֹל לִשְׁנֵ֨י בָתֵּ֤י יִשְׂרָאֵל֙ לְפַ֣ח וּלְמוֹקֵ֔שׁ לְיוֹשֵׁ֖ב יְרוּשָׁלִָֽם׃"
+pericope: "[[Isa.8.11 A Call to Fear God|A Call to Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 8
+book/chapter: "[[Isa.8|Isaiah 8]]"
+chronological_order: 618
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic STONES|STONES]]"
+- "[[topic STUMBLING|STUMBLING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H4720]]"
+- "[[H9002]]"
+- "[[H0068G]]"
+- "[[H5063]]"
+- "[[H6697H]]"
+- "[[H4383]]"
+- "[[H8147]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H6341A]]"
+- "[[H4170]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 8:14**<big><big>[[Isa.8.11 A Call to Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall be for a sanctuary; but for a stone of stumbling and for a rock of offence to both the houses of Israel, for a gin and for a snare to the inhabitants of Jerusalem.
 <small><sub>**BSB:**</sub></small>
 And He will be a sanctuary—but to both houses of Israel a stone of stumbling and a rock of offense, to the dwellers of Jerusalem a trap and a snare.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֖ה]] [[H9005\|לְ]][[H4720\|מִקְדָּ֑שׁ]] [[H9002\|וּ]][[H9005\|לְ]][[H0068G\|אֶ֣בֶן]] [[H5063\|נֶ֠גֶף]] [[H9002\|וּ]][[H9005\|לְ]][[H6697H\|צ֨וּר]] [[H4383\|מִכְשׁ֜וֹל]] [[H9005\|לִ]][[H8147\|שְׁנֵ֨י]] [[H1004M\|בָתֵּ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H9005\|לְ]][[H6341A\|פַ֣ח]] [[H9002\|וּ]][[H9005\|לְ]][[H4170\|מוֹקֵ֔שׁ]] [[H9005\|לְ]][[H3427\|יוֹשֵׁ֖ב]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic STONES|STONES]] • [[topic STUMBLING|STUMBLING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.8.13|<< Isaiah 8:13]]</td><td align="center" style="border:none;">[[Isa.8|Isaiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.8.15|Isaiah 8:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

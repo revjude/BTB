@@ -1,8 +1,66 @@
+---
+title: Genesis 20:2
+type: Verse
+kjv: "And Abraham said of Sarah his wife, She is my sister: and Abimelech king of Gerar sent, and took Sarah."
+bsb: "Abraham said of his wife Sarah, “She is my sister.” So Abimelech king of Gerar had Sarah brought to him."
+hebrew: "וַיֹּ֧אמֶר אַבְרָהָ֛ם אֶל־ שָׂרָ֥ה אִשְׁתּ֖וֹ אֲחֹ֣תִי הִ֑וא וַיִּשְׁלַ֗ח אֲבִימֶ֙לֶךְ֙ מֶ֣לֶךְ גְּרָ֔ר וַיִּקַּ֖ח אֶת־ שָׂרָֽה׃"
+pericope: "[[Gen.20.1 Abraham, Sarah, and Abimelech|Abraham, Sarah, and Abimelech]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 20
+book/chapter: "[[Gen.20|Genesis 20]]"
+chronological_order: 62
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic SARAH|SARAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0085]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8283]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H0269]]"
+- "[[H9020]]"
+- "[[H1931]]"
+- "[[H7971G]]"
+- "[[H0040G]]"
+- "[[H4428G]]"
+- "[[H1642]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 20:2**<big><big>[[Gen.20.1 Abraham, Sarah, and Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abraham said of Sarah his wife, She [is] my sister: and Abimelech king of Gerar sent, and took Sarah.
 <small><sub>**BSB:**</sub></small>
 Abraham said of his wife Sarah, “She is my sister.” So Abimelech king of Gerar had Sarah brought to him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֧אמֶר]] [[H0085\|אַבְרָהָ֛ם]] [[H0413\|אֶל]][[H9014\|־]] [[H8283\|שָׂרָ֥ה]] [[H0802H\|אִשְׁתּ֖]][[H9023\|וֹ]] [[H0269\|אֲחֹ֣תִ]][[H9020\|י]] [[H1931\|הִ֑וא]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֗ח]] [[H0040G\|אֲבִימֶ֙לֶךְ֙]] [[H4428G\|מֶ֣לֶךְ]] [[H1642\|גְּרָ֔ר]] [[H9001\|וַ]][[H3947G\|יִּקַּ֖ח]] [[H0853\|אֶת]][[H9014\|־]] [[H8283\|שָׂרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COWARDICE|COWARDICE]] • [[topic DECEPTION|DECEPTION]] • [[topic DOUBTING|DOUBTING]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic IGNORANCE|IGNORANCE]] • [[topic SARAH|SARAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.20.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.20.1|<< Genesis 20:1]]</td><td align="center" style="border:none;">[[Gen.20|Genesis 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.20.3|Genesis 20:3 >>]]</td></tr></table>
 

@@ -1,10 +1,61 @@
+---
+title: Mark 13:12
+type: Verse
+kjv: "Now the brother shall betray the brother to death, and the father the son; and children shall rise up against their parents, and shall cause them to be put to death."
+bsb: "Brother will betray brother to death, and a father his child. Children will rise against their parents and have them put to death."
+jesus_said: "Now the brother shall betray the brother to death, and the father the son; and children shall rise up against their parents, and shall cause them to be put to death."
+greek: "καὶ παραδώσει δὲ ἀδελφὸς ἀδελφὸν εἰς θάνατον καὶ πατὴρ τέκνον, καὶ ἐπαναστήσονται τέκνα ἐπὶ γονεῖς καὶ θανατώσουσιν αὐτούς."
+pericope: "[[Mark.13.9 Witnessing to All Nations|Witnessing to All Nations]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 13
+book/chapter: "[[Mark.13|Mark 13]]"
+chronological_order: 998
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3860]]"
+- "[[G1161]]"
+- "[[G0080]]"
+- "[[G1519]]"
+- "[[G2288]]"
+- "[[G3962]]"
+- "[[G5043]]"
+- "[[G1881]]"
+- "[[G1909]]"
+- "[[G1118]]"
+- "[[G2289]]"
+- "[[G0846]]"
+texts:
+- no
+- NKO
+- k
+---
+
 **Mark 13:12**<big><big>[[Mark.13.9 Witnessing to All Nations|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now the brother shall betray the brother to death, and the father the son; and children shall rise up against [their] parents, and shall cause them to be put to death.
 <small><sub>**BSB:**</sub></small>
 Brother will betray brother to death, and a father his child. Children will rise against their parents and have them put to death.
-<small><sub>**Literal:**</sub></small>
-And will deliver up now brother brother to death and father child, and will rise up children against parents and will put to death them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.11|<< Mark 13:11]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.13|Mark 13:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3860\|παραδώσει]]  [[G1161\|δὲ]]  [[G0080\|ἀδελφὸς]]  [[G0080\|ἀδελφὸν]]  [[G1519\|εἰς]]  [[G2288\|θάνατον]]  [[G2532\|καὶ]]  [[G3962\|πατὴρ]]  [[G5043\|τέκνον,]]  [[G2532\|καὶ]]  [[G1881\|ἐπαναστήσονται]]  [[G5043\|τέκνα]]  [[G1909\|ἐπὶ]]  [[G1118\|γονεῖς]]  [[G2532\|καὶ]]  [[G2289\|θανατώσουσιν]]  [[G0846\|αὐτούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic PERSECUTION|PERSECUTION]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.11|<< Mark 13:11]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.13|Mark 13:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 13:12** is...
 > $\quad$ alluding to: [[LXX.Mic.7.6|Mic 7:6]]

@@ -1,10 +1,66 @@
+---
+title: 2 Peter 2:12
+type: Verse
+kjv: "But these, as natural brute beasts, made to be taken and destroyed, speak evil of the things that they understand not; and shall utterly perish in their own corruption;"
+bsb: "These men are like irrational animals, creatures of instinct, born to be captured and destroyed. They blaspheme in matters they do not understand, and like such creatures, they too will be destroyed."
+greek: "οὗτοι δὲ ὡς ἄλογα ζῷα γεγεννημένα φυσικὰ εἰς ἅλωσιν καὶ φθοράν, ἐν οἷς ἀγνοοῦσιν βλασφημοῦντες ἐν τῇ φθορᾷ αὐτῶν καὶ φθαρήσονται"
+pericope: "[[2Pet.2.1 Deliverance from False Prophets|Deliverance from False Prophets]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 2
+book/chapter: "[[2Pet.2|2 Peter 2]]"
+chronological_order: 1158
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic ANARCHY|ANARCHY]]"
+- "[[topic CORRUPTION|CORRUPTION]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G5613]]"
+- "[[G0249]]"
+- "[[G2226]]"
+- "[[G1080]]"
+- "[[G5446]]"
+- "[[G1519]]"
+- "[[G0259]]"
+- "[[G2532]]"
+- "[[G5356]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G0050]]"
+- "[[G0987]]"
+- "[[G3588]]"
+- "[[G0846]]"
+- "[[G5351]]"
+texts:
+- NKO
+- N(K)O
+- no
+---
+
 **2 Peter 2:12**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But these, as natural brute beasts, made to be taken and destroyed, speak evil of the things that they understand not; and shall utterly perish in their own corruption;
 <small><sub>**BSB:**</sub></small>
 These men are like irrational animals, creatures of instinct, born to be captured and destroyed. They blaspheme in matters they do not understand, and like such creatures, they too will be destroyed.
-<small><sub>**Literal:**</sub></small>
-These however like irrational animals they were born as creatures of instinct for capture and destruction, in what they are ignorant of blaspheming in the destruction of them also will be destroyed<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.11|<< 2 Peter 2:11]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.13|2 Peter 2:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτοι]]  [[G1161\|δὲ]]  [[G5613\|ὡς]]  [[G0249\|ἄλογα]]  [[G2226\|ζῷα]]  [[G1080\|γεγεννημένα]]  [[G5446\|φυσικὰ]]  [[G1519\|εἰς]]  [[G0259\|ἅλωσιν]]  [[G2532\|καὶ]]  [[G5356\|φθοράν,]]  [[G1722\|ἐν]]  [[G3739\|οἷς]]  [[G0050\|ἀγνοοῦσιν]]  [[G0987\|βλασφημοῦντες]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G5356\|φθορᾷ]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G5351\|φθαρήσονται]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANARCHY|ANARCHY]] • [[topic CORRUPTION|CORRUPTION]] • [[topic DEATH|DEATH]] • [[topic DOCTRINES|DOCTRINES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.11|<< 2 Peter 2:11]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.13|2 Peter 2:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

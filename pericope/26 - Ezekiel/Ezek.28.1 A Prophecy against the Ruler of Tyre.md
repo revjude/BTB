@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Prophecy against the Ruler of Tyre
+type: Pericope
 pericope: "[[Ezek.28.1 A Prophecy against the Ruler of Tyre|A Prophecy against the Ruler of Tyre]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 28
 book/chapter: "[[Ezek.28|Ezekiel 28]]"
-genre:
+chronological_order: 819
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 10
 verses:
 - "[[Ezek.28.1]]"
 - "[[Ezek.28.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Ezek.28.10]]"
 ---
 
-[[Ezek.28|Ezekiel 28:1 - Ezekiel 28:10]]
+<small>[[Ezek.28|Ezekiel 28:1-10]]</small>
 *A Prophecy against the Ruler of Tyre*
 
 [[Ezek.28.1|1]] The word of the LORD came again unto me, saying,

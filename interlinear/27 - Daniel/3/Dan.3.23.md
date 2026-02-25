@@ -1,8 +1,69 @@
+---
+title: Daniel 3:23
+type: Verse
+kjv: "And these three men, Shadrach, Meshach, and Abednego, fell down bound into the midst of the burning fiery furnace."
+bsb: "And these three men, Shadrach, Meshach, and Abednego, firmly bound, fell into the blazing fiery furnace."
+aramaic: "וְגֻבְרַיָּ֤א אִלֵּךְ֙ תְּלָ֣תֵּה֔וֹן שַׁדְרַ֥ךְ מֵישַׁ֖ךְ וַעֲבֵ֣ד נְג֑וֹ נְפַ֛לוּ לְגֽוֹא־ אַתּוּן־ נוּרָ֥א יָֽקִדְתָּ֖א מְכַפְּתִֽין׃ פ"
+pericope: "[[Dan.3.19 The Fiery Furnace|The Fiery Furnace]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 3
+book/chapter: "[[Dan.3|Daniel 3]]"
+chronological_order: 788
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ABED-NEGO|ABED-NEGO]]"
+- "[[topic COERCION|COERCION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FURNACE|FURNACE]]"
+- "[[topic MESHACH|MESHACH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MISHAEL|MISHAEL]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H1400]]"
+- "[[H9010]]"
+- "[[H0479]]"
+- "[[H8532]]"
+- "[[H9028]]"
+- "[[H7715]]"
+- "[[H4336]]"
+- "[[H5665]]"
+- "[[H5308]]"
+- "[[H9005]]"
+- "[[H1459]]"
+- "[[H9014]]"
+- "[[H0861]]"
+- "[[H5135]]"
+- "[[H3345]]"
+- "[[H3729]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Daniel 3:23**<big><big>[[Dan.3.19 The Fiery Furnace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these three men, Shadrach, Meshach, and Abednego, fell down bound into the midst of the burning fiery furnace.
 <small><sub>**BSB:**</sub></small>
 And these three men, Shadrach, Meshach, and Abednego, firmly bound, fell into the blazing fiery furnace.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וְ]][[H1400\|גֻבְרַיָּ֤]][[H9010\|א]] [[H0479\|אִלֵּךְ֙]] [[H8532\|תְּלָ֣תֵּ]][[H9028\|ה֔וֹן]] [[H7715\|שַׁדְרַ֥ךְ]] [[H4336\|מֵישַׁ֖ךְ]] [[H9002\|וַ]][[H5665\|עֲבֵ֣ד]] [[H5665\|נְג֑וֹ]] [[H5308\|נְפַ֛לוּ]] [[H9005\|לְ]][[H1459\|גֽוֹא]][[H9014\|־]] [[H0861\|אַתּוּן]][[H9014\|־]] [[H5135\|נוּרָ֥]][[H9010\|א]] [[H3345\|יָֽקִדְתָּ֖]][[H9010\|א]] [[H3729\|מְכַפְּתִֽין]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABED-NEGO|ABED-NEGO]] • [[topic COERCION|COERCION]] • [[topic FAITH|FAITH]] • [[topic FURNACE|FURNACE]] • [[topic MESHACH|MESHACH]] • [[topic MIRACLES|MIRACLES]] • [[topic MISHAEL|MISHAEL]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.22|<< Daniel 3:22]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.24|Daniel 3:24 >>]]</td></tr></table>
 
@@ -20,7 +81,7 @@ And these three men, Shadrach, Meshach, and Abednego, firmly bound, fell into th
 | [the] furnace of  |**<big>&#8207;[[H0861\|אַתּוּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.tun-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fire the  |**<big>&#8207;[[H5135\|נוּרָ֥]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| nu.Ra<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> burning  |**<big>&#8207;[[H3345\|יָֽקִדְתָּ֖]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| ya.kid.Ta<small><sup>[[AVqrfsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bound  |**<big>&#8207;[[H3729\|מְכַפְּתִֽין]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| me.kha.pe.Tin<small><sup>[[AVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bound  |**<big>&#8207;[[H3729\|מְכַפְּתִֽין]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| me.kha.pe.Tin<small><sup>[[AVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.22|<< Daniel 3:22]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.24|Daniel 3:24 >>]]</td></tr></table>
 
 

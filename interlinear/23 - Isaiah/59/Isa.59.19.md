@@ -1,8 +1,67 @@
+---
+title: Isaiah 59:19
+type: Verse
+kjv: "So shall they fear the name of the LORD from the west, and his glory from the rising of the sun. When the enemy shall come in like a flood, the Spirit of the LORD shall lift up a standard against him."
+bsb: "So shall they fear the name of the LORD where the sun sets, and His glory where it rises. For He will come like a raging flood, driven by the breath of the LORD."
+hebrew: "וְיִֽירְא֤וּ מִֽמַּעֲרָב֙ אֶת־ שֵׁ֣ם יְהוָ֔ה וּמִמִּזְרַח־ שֶׁ֖מֶשׁ אֶת־ כְּבוֹד֑וֹ כִּֽי־ יָב֤וֹא כַנָּהָר֙ צָ֔ר ר֥וּחַ יְהוָ֖ה נֹ֥סְסָה בֽוֹ׃"
+pericope: "[[Isa.59.18 The Covenant of the Redeemer|The Covenant of the Redeemer]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 59
+book/chapter: "[[Isa.59|Isaiah 59]]"
+chronological_order: 698
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3372H]]"
+- "[[H9006]]"
+- "[[H4628]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H4217H]]"
+- "[[H8121]]"
+- "[[H3519]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H0935G]]"
+- "[[H9004]]"
+- "[[H5104H]]"
+- "[[H6862A]]"
+- "[[H7307H]]"
+- "[[H5127]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 59:19**<big><big>[[Isa.59.18 The Covenant of the Redeemer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So shall they fear the name of the LORD from the west, and his glory from the rising of the sun. When the enemy shall come in like a flood, the Spirit of the LORD shall lift up a standard against him.
 <small><sub>**BSB:**</sub></small>
 So shall they fear the name of the LORD where the sun sets, and His glory where it rises. For He will come like a raging flood, driven by the breath of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3372H\|יִֽירְא֤וּ]] [[H9006\|מִֽ]][[H4628\|מַּעֲרָב֙]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שֵׁ֣ם]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וּ]][[H9006\|מִ]][[H4217H\|מִּזְרַח]][[H9014\|־]] [[H8121\|שֶׁ֖מֶשׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H3519\|כְּבוֹד֑]][[H9023\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0935G\|יָב֤וֹא]] [[H9004\|כַ]][[H5104H\|נָּהָר֙]] [[H6862A\|צָ֔ר]] [[H7307H\|ר֥וּחַ]] [[H3068G\|יְהוָ֖ה]] [[H5127\|נֹ֥סְסָה]] [[H9003\|בֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.18|<< Isaiah 59:18]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.20|Isaiah 59:20 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Ezekiel 1:3
+type: Verse
+kjv: "The word of the LORD came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the LORD was there upon him."
+bsb: "the word of the LORD came directly to Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the River Kebar. And there the LORD’s hand was upon him."
+hebrew: "הָיֹ֣ה הָיָ֣ה דְבַר־ יְ֠הוָה אֶל־ יְחֶזְקֵ֨אל בֶּן־ בּוּזִ֧י הַכֹּהֵ֛ן בְּאֶ֥רֶץ כַּשְׂדִּ֖ים עַל־ נְהַר־ כְּבָ֑ר וַתְּהִ֥י עָלָ֛יו שָׁ֖ם יַד־ יְהוָֽה׃"
+pericope: "[[Ezek.1.1 Ezekiel’s Vision by the River Kebar|Ezekiel’s Vision by the River Kebar]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 1
+book/chapter: "[[Ezek.1|Ezekiel 1]]"
+chronological_order: 792
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BUZZI|BUZZI]]"
+- "[[topic CHEBAR|CHEBAR]]"
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H3168H]]"
+- "[[H1121A]]"
+- "[[H0941]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3778]]"
+- "[[H5921A]]"
+- "[[H5104H]]"
+- "[[H3529]]"
+- "[[H9001]]"
+- "[[H9033]]"
+- "[[H8033G]]"
+- "[[H3027H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 1:3**<big><big>[[Ezek.1.1 Ezekiel’s Vision by the River Kebar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The word of the LORD came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the LORD was there upon him.
 <small><sub>**BSB:**</sub></small>
 the word of the LORD came directly to Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the River Kebar. And there the LORD’s hand was upon him.
+<small><sub>**Hebrew:**</sub></small>
+[[H1961\|הָיֹ֣ה]] [[H1961\|הָיָ֣ה]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְ֠הוָה]] [[H0413\|אֶל]][[H9014\|־]] [[H3168H\|יְחֶזְקֵ֨אל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0941\|בּוּזִ֧י]] [[H9009\|הַ]][[H3548\|כֹּהֵ֛ן]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H3778\|כַּשְׂדִּ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H5104H\|נְהַר]][[H9014\|־]] [[H3529\|כְּבָ֑ר]] [[H9001\|וַ]][[H1961\|תְּהִ֥י]] [[H5921A\|עָלָ֛י]][[H9033\|ו]] [[H8033G\|שָׁ֖ם]] [[H3027H\|יַד]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BUZZI|BUZZI]] • [[topic CHEBAR|CHEBAR]] • [[topic EZEKIEL|EZEKIEL]] • [[topic PROPHETS|PROPHETS]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.2|<< Ezekiel 1:2]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.4|Ezekiel 1:4 >>]]</td></tr></table>
 

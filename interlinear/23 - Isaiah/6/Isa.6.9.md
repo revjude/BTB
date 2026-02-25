@@ -1,8 +1,64 @@
+---
+title: Isaiah 6:9
+type: Verse
+kjv: "And he said, Go, and tell this people, Hear ye indeed, but understand not; and see ye indeed, but perceive not."
+bsb: "And He replied: “Go and tell this people, ‘Be ever hearing, but never understanding; be ever seeing, but never perceiving.’"
+hebrew: "וַיֹּ֕אמֶר לֵ֥ךְ וְאָמַרְתָּ֖ לָעָ֣ם הַזֶּ֑ה שִׁמְע֤וּ שָׁמ֙וֹעַ֙ וְאַל־ תָּבִ֔ינוּ וּרְא֥וּ רָא֖וֹ וְאַל־ תֵּדָֽעוּ׃"
+pericope: "[[Isa.6.1 Isaiah’s Commission|Isaiah’s Commission]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 6
+book/chapter: "[[Isa.6|Isaiah 6]]"
+chronological_order: 614
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H8085G]]"
+- "[[H9002]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0995]]"
+- "[[H7200G]]"
+- "[[H3045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 6:9**<big><big>[[Isa.6.1 Isaiah’s Commission|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Go, and tell this people, Hear ye indeed, but understand not; and see ye indeed, but perceive not.
 <small><sub>**BSB:**</sub></small>
 And He replied: “Go and tell this people, ‘Be ever hearing, but never understanding; be ever seeing, but never perceiving.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H1980G\|לֵ֥ךְ]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֖]] [[H9005\|לָ]][[H5971A\|עָ֣ם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H8085G\|שִׁמְע֤וּ]] [[H8085G\|שָׁמ֙וֹעַ֙]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H0995\|תָּבִ֔ינוּ]] [[H9002\|וּ]][[H7200G\|רְא֥וּ]] [[H7200G\|רָא֖וֹ]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H3045\|תֵּדָֽעוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHECY|PROPHECY]] • [[topic PROPHETS|PROPHETS]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REPROBACY|REPROBACY]] • [[topic UNBELIEF|UNBELIEF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.6.8|<< Isaiah 6:8]]</td><td align="center" style="border:none;">[[Isa.6|Isaiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.6.10|Isaiah 6:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

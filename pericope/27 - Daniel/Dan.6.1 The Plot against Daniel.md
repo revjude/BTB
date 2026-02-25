@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Plot against Daniel
+type: Pericope
 pericope: "[[Dan.6.1 The Plot against Daniel|The Plot against Daniel]]"
-verse_count: 9
+original_language: Aramaic
 testament: Old
 book: Daniel
 chapter: 6
 book/chapter: "[[Dan.6|Daniel 6]]"
-genre:
+chronological_order: 791
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 9
 verses:
 - "[[Dan.6.1]]"
 - "[[Dan.6.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Dan.6.9]]"
 ---
 
-[[Dan.6|Daniel 6:1 - Daniel 6:9]]
+<small>[[Dan.6|Daniel 6:1-9]]</small>
 *The Plot against Daniel*
 
 [[Dan.6.1|1]] It pleased Darius to set over the kingdom an hundred and twenty princes, which should be over the whole kingdom;

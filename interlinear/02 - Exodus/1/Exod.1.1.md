@@ -1,8 +1,61 @@
+---
+title: Exodus 1:1
+type: Verse
+kjv: "Now these are the names of the children of Israel, which came into Egypt; every man and his household came with Jacob."
+bsb: "These are the names of the sons of Israel who went to Egypt with Jacob, each with his family:"
+hebrew: "וְאֵ֗לֶּה שְׁמוֹת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל הַבָּאִ֖ים מִצְרָ֑יְמָה אֵ֣ת יַעֲקֹ֔ב אִ֥ישׁ וּבֵית֖וֹ בָּֽאוּ׃"
+pericope: "[[Exod.1.1 The Israelites Multiply in Egypt|The Israelites Multiply in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 1
+book/chapter: "[[Exod.1|Exodus 1]]"
+chronological_order: 93
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic JACOB|JACOB]]"
+- "[[topic SIMEON|SIMEON]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H8034]]"
+- "[[H1121A]]"
+- "[[H3478]]"
+- "[[H9009]]"
+- "[[H0935G]]"
+- "[[H4714G]]"
+- "[[H9011]]"
+- "[[H0854]]"
+- "[[H3290]]"
+- "[[H0376I]]"
+- "[[H1004M]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 1:1**<big><big>[[Exod.1.1 The Israelites Multiply in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [are] the names of the children of Israel, which came into Egypt; every man and his household came with Jacob.
 <small><sub>**BSB:**</sub></small>
 These are the names of the sons of Israel who went to Egypt with Jacob, each with his family:
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֗לֶּה]] [[H8034\|שְׁמוֹת֙]] [[H1121A\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9009\|הַ]][[H0935G\|בָּאִ֖ים]] [[H4714G\|מִצְרָ֑יְמָ]][[H9011\|ה]] [[H0854\|אֵ֣ת]] [[H3290\|יַעֲקֹ֔ב]] [[H0376I\|אִ֥ישׁ]] [[H9002\|וּ]][[H1004M\|בֵית֖]][[H9023\|וֹ]] [[H0935G\|בָּֽאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACOB|JACOB]] • [[topic SIMEON|SIMEON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.26|<< Genesis 50:26]]</td><td align="center" style="border:none;">[[Exod.1|Exodus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.1.2|Exodus 1:2 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: 2 Kings 16:1
+type: Verse
+kjv: "In the seventeenth year of Pekah the son of Remaliah Ahaz the son of Jotham king of Judah began to reign."
+bsb: "In the seventeenth year of Pekah son of Remaliah, Ahaz son of Jotham became king of Judah."
+hebrew: "בִּשְׁנַת֙ שְׁבַֽע־ עֶשְׂרֵ֣ה שָׁנָ֔ה לְפֶ֖קַח בֶּן־ רְמַלְיָ֑הוּ מָלַ֛ךְ אָחָ֥ז בֶּן־ יוֹתָ֖ם מֶ֥לֶךְ יְהוּדָֽה׃"
+pericope: "[[2Kgs.16.1 Ahaz Reigns in Judah|Ahaz Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 16
+book/chapter: "[[2Kgs.16|2 Kings 16]]"
+chronological_order: 615
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAZ|AHAZ]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic REMALIAH|REMALIAH]]"
+strongs:
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H7651]]"
+- "[[H9014]]"
+- "[[H6240]]"
+- "[[H9005]]"
+- "[[H6492]]"
+- "[[H1121A]]"
+- "[[H7425]]"
+- "[[H4427A]]"
+- "[[H0271G]]"
+- "[[H3147H]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 16:1**<big><big>[[2Kgs.16.1 Ahaz Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the seventeenth year of Pekah the son of Remaliah Ahaz the son of Jotham king of Judah began to reign.
 <small><sub>**BSB:**</sub></small>
 In the seventeenth year of Pekah son of Remaliah, Ahaz son of Jotham became king of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8141\|שְׁנַת֙]] [[H7651\|שְׁבַֽע]][[H9014\|־]] [[H6240\|עֶשְׂרֵ֣ה]] [[H8141\|שָׁנָ֔ה]] [[H9005\|לְ]][[H6492\|פֶ֖קַח]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7425\|רְמַלְיָ֑הוּ]] [[H4427A\|מָלַ֛ךְ]] [[H0271G\|אָחָ֥ז]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3147H\|יוֹתָ֖ם]] [[H4428G\|מֶ֥לֶךְ]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZ|AHAZ]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic REMALIAH|REMALIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.16.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.38|<< 2 Kings 15:38]]</td><td align="center" style="border:none;">[[2Kgs.16|2 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.16.2|2 Kings 16:2 >>]]</td></tr></table>
 

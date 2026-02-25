@@ -1,8 +1,52 @@
+---
+title: Psalm 129:6
+type: Verse
+kjv: "Let them be as the grass upon the housetops, which withereth afore it groweth up:"
+bsb: "May they be like grass on the rooftops, which withers before it can grow,"
+hebrew: "יִ֭הְיוּ כַּחֲצִ֣יר גַּגּ֑וֹת שֶׁקַּדְמַ֖ת שָׁלַ֣ף יָבֵֽשׁ׃"
+pericope: "[[Ps.129.1 The Cords of the Wicked|The Cords of the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 129
+book/chapter: "[[Ps.129|Psalm 129]]"
+chronological_order: 890
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GRASS|GRASS]]"
+strongs:
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H2682A]]"
+- "[[H1406]]"
+- "[[H9007]]"
+- "[[H6927]]"
+- "[[H8025]]"
+- "[[H3001]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 129:6**<big><big>[[Ps.129.1 The Cords of the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them be as the grass [upon] the housetops, which withereth afore it groweth up:
 <small><sub>**BSB:**</sub></small>
 May they be like grass on the rooftops, which withers before it can grow,
+<small><sub>**Hebrew:**</sub></small>
+[[H1961\|יִ֭הְיוּ]] [[H9004\|כַּ]][[H2682A\|חֲצִ֣יר]] [[H1406\|גַּגּ֑וֹת]] [[H9007\|שֶׁ]][[H6927\|קַּדְמַ֖ת]] [[H8025\|שָׁלַ֣ף]] [[H3001\|יָבֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GRASS|GRASS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.129.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.129.5|<< Psalms 129:5]]</td><td align="center" style="border:none;">[[Ps.129|Psalms 129]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.129.7|Psalms 129:7 >>]]</td></tr></table>
 

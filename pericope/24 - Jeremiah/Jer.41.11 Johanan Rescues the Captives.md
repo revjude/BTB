@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Johanan Rescues the Captives
+type: Pericope
 pericope: "[[Jer.41.11 Johanan Rescues the Captives|Johanan Rescues the Captives]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 41
 book/chapter: "[[Jer.41|Jeremiah 41]]"
-genre:
+chronological_order: 764
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 8
 verses:
 - "[[Jer.41.11]]"
 - "[[Jer.41.12]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Jer.41.18]]"
 ---
 
-[[Jer.41|Jeremiah 41:11 - Jeremiah 41:18]]
+<small>[[Jer.41|Jeremiah 41:11-18]]</small>
 *Johanan Rescues the Captives*
 
 [[Jer.41.11|11]] But when Johanan the son of Kareah, and all the captains of the forces that \[were\] with him, heard of all the evil that Ishmael the son of Nethaniah had done,

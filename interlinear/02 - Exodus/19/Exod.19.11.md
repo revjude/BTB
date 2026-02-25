@@ -1,8 +1,67 @@
+---
+title: Exodus 19:11
+type: Verse
+kjv: "And be ready against the third day: for the third day the LORD will come down in the sight of all the people upon mount Sinai."
+bsb: "and be prepared by the third day, for on the third day the LORD will come down on Mount Sinai in the sight of all the people."
+hebrew: "וְהָי֥וּ נְכֹנִ֖ים לַיּ֣וֹם הַשְּׁלִישִׁ֑י כִּ֣י׀ בַּיּ֣וֹם הַשְּׁלִישִׁ֗י יֵרֵ֧ד יְהוָ֛ה לְעֵינֵ֥י כָל־ הָעָ֖ם עַל־ הַ֥ר סִינָֽי׃"
+pericope: "[[Exod.19.1 Israel at Mount Sinai|Israel at Mount Sinai]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 19
+book/chapter: "[[Exod.19|Exodus 19]]"
+chronological_order: 111
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SINAI|SINAI]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3559A]]"
+- "[[H9005]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7992]]"
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H3381]]"
+- "[[H3068G]]"
+- "[[H5869H]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H5921A]]"
+- "[[H2022G]]"
+- "[[H5514G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 19:11**<big><big>[[Exod.19.1 Israel at Mount Sinai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And be ready against the third day: for the third day the LORD will come down in the sight of all the people upon mount Sinai.
 <small><sub>**BSB:**</sub></small>
 and be prepared by the third day, for on the third day the LORD will come down on Mount Sinai in the sight of all the people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָי֥וּ]] [[H3559A\|נְכֹנִ֖ים]] [[H9005\|לַ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁ֑י]] [[H3588A\|כִּ֣י]][[H9015\|׀]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁ֗י]] [[H3381\|יֵרֵ֧ד]] [[H3068G\|יְהוָ֛ה]] [[H9005\|לְ]][[H5869H\|עֵינֵ֥י]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H5921A\|עַל]][[H9014\|־]] [[H2022G\|הַ֥ר]] [[H5514G\|סִינָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic SINAI|SINAI]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.19.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.19.10|<< Exodus 19:10]]</td><td align="center" style="border:none;">[[Exod.19|Exodus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.19.12|Exodus 19:12 >>]]</td></tr></table>
 

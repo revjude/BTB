@@ -1,8 +1,56 @@
+---
+title: Job 19:22
+type: Verse
+kjv: "Why do ye persecute me as God, and are not satisfied with my flesh?"
+bsb: "Why do you persecute me as God does? Will you never get enough of my flesh?"
+hebrew: "לָ֭מָּה תִּרְדְּפֻ֣נִי כְמוֹ־ אֵ֑ל וּ֝מִבְּשָׂרִ֗י לֹ֣א תִשְׂבָּֽעוּ׃"
+pericope: "[[Job.19.1 Job：My Redeemer Lives|Job：My Redeemer Lives]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 19
+book/chapter: "[[Job.19|Job 19]]"
+chronological_order: 30
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+strongs:
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H7291]]"
+- "[[H9030]]"
+- "[[H3644G]]"
+- "[[H9014]]"
+- "[[H0410G]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H1320]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H7646]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 19:22**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why do ye persecute me as God, and are not satisfied with my flesh?
 <small><sub>**BSB:**</sub></small>
 Why do you persecute me as God does? Will you never get enough of my flesh?
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ֭]][[H4100\|מָּה]] [[H7291\|תִּרְדְּפֻ֣]][[H9030\|נִי]] [[H3644G\|כְמוֹ]][[H9014\|־]] [[H0410G\|אֵ֑ל]] [[H9002\|וּ֝]][[H9006\|מִ]][[H1320\|בְּשָׂרִ֗]][[H9020\|י]] [[H3808\|לֹ֣א]] [[H7646\|תִשְׂבָּֽעוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic FRIENDSHIP|FRIENDSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.21|<< Job 19:21]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.23|Job 19:23 >>]]</td></tr></table>
 

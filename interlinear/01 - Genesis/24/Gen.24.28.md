@@ -1,8 +1,57 @@
+---
+title: Genesis 24:28
+type: Verse
+kjv: "And the damsel ran, and told them of her mother’s house these things."
+bsb: "The girl ran and told her mother’s household about these things."
+hebrew: "וַתָּ֙רָץ֙ הַֽנַּעֲרָ֔ וַתַּגֵּ֖ד לְבֵ֣ית אִמָּ֑הּ כַּדְּבָרִ֖ים הָאֵֽלֶּה׃"
+pericope: "[[Gen.24.15 Rebekah Is Chosen|Rebekah Is Chosen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9001]]"
+- "[[H7323G]]"
+- "[[H9009]]"
+- "[[H5291]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H0517]]"
+- "[[H9024]]"
+- "[[H9004]]"
+- "[[H1697I]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:28**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the damsel ran, and told [them of] her mother’s house these things.
 <small><sub>**BSB:**</sub></small>
 The girl ran and told her mother’s household about these things.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7323G\|תָּ֙רָץ֙]] [[H9009\|הַֽ]][[H5291\|נַּעֲרָ֔]] [[H9001\|וַ]][[H5046\|תַּגֵּ֖ד]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H0517\|אִמָּ֑]][[H9024\|הּ]] [[H9004\|כַּ]][[H1697I\|דְּבָרִ֖ים]] [[H9009\|הָ]][[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.27|<< Genesis 24:27]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.29|Genesis 24:29 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Ezekiel 47:22
+type: Verse
+kjv: "And it shall come to pass, that ye shall divide it by lot for an inheritance unto you, and to the strangers that sojourn among you, which shall beget children among you: and they shall be unto you as born in the country among the children of Israel; they shall have inheritance with you among the tribes of Israel."
+bsb: "You shall allot it as an inheritance for yourselves and for the foreigners who dwell among you and who have children. You are to treat them as native-born Israelites; along with you, they shall be allotted an inheritance among the tribes of Israel."
+hebrew: "וְהָיָ֗ה תַּפִּ֣לוּ אוֹתָהּ֮ בְּנַחֲלָה֒ לָכֶ֗ם וּלְהַגֵּרִים֙ הַגָּרִ֣ים בְּתוֹכְכֶ֔ם אֲשֶׁר־ הוֹלִ֥דוּ בָנִ֖ים בְּתֽוֹכְכֶ֑ם וְהָי֣וּ לָכֶ֗ם כְּאֶזְרָח֙ בִּבְנֵ֣י יִשְׂרָאֵ֔ל אִתְּכֶם֙ יִפְּל֣וּ בְנַחֲלָ֔ה בְּת֖וֹךְ שִׁבְטֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Ezek.47.13 The Borders of the Land|The Borders of the Land]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 47
+book/chapter: "[[Ezek.47|Ezekiel 47]]"
+chronological_order: 838
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ALIENS|ALIENS]]"
+- "[[topic LAND|LAND]]"
+- "[[topic LOT, THE|LOT, THE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H5307I]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H9003]]"
+- "[[H5159]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H1616]]"
+- "[[H1481A]]"
+- "[[H8432]]"
+- "[[H9026]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3205]]"
+- "[[H1121A]]"
+- "[[H9004]]"
+- "[[H0249]]"
+- "[[H3478]]"
+- "[[H0854]]"
+- "[[H7626H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 47:22**<big><big>[[Ezek.47.13 The Borders of the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, [that] ye shall divide it by lot for an inheritance unto you, and to the strangers that sojourn among you, which shall beget children among you: and they shall be unto you as born in the country among the children of Israel; they shall have inheritance with you among the tribes of Israel.
 <small><sub>**BSB:**</sub></small>
 You shall allot it as an inheritance for yourselves and for the foreigners who dwell among you and who have children. You are to treat them as native-born Israelites; along with you, they shall be allotted an inheritance among the tribes of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H5307I\|תַּפִּ֣לוּ]] [[H0853\|אוֹתָ]][[H9034\|הּ֮]] [[H9003\|בְּ]][[H5159\|נַחֲלָה֒]] [[H9005\|לָ]][[H9036\|כֶ֗ם]] [[H9002\|וּ]][[H9005\|לְ]][[H9009\|הַ]][[H1616\|גֵּרִים֙]] [[H9009\|הַ]][[H1481A\|גָּרִ֣ים]] [[H9003\|בְּ]][[H8432\|תוֹכְ]][[H9026\|כֶ֔ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3205\|הוֹלִ֥דוּ]] [[H1121A\|בָנִ֖ים]] [[H9003\|בְּ]][[H8432\|תֽוֹכְ]][[H9026\|כֶ֑ם]] [[H9001\|וְ]][[H1961\|הָי֣וּ]] [[H9005\|לָ]][[H9036\|כֶ֗ם]] [[H9004\|כְּ]][[H0249\|אֶזְרָח֙]] [[H9003\|בִּ]][[H1121A\|בְנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0854\|אִתְּ]][[H9036\|כֶם֙]] [[H5307I\|יִפְּל֣וּ]] [[H9003\|בְ]][[H5159\|נַחֲלָ֔ה]] [[H9003\|בְּ]][[H8432\|ת֖וֹךְ]] [[H7626H\|שִׁבְטֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALIENS|ALIENS]] • [[topic LAND|LAND]] • [[topic LOT, THE|LOT, THE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.47.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.21|<< Ezekiel 47:21]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.23|Ezekiel 47:23 >>]]</td></tr></table>
 

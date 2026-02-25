@@ -1,8 +1,75 @@
+---
+title: 1 Kings 12:6
+type: Verse
+kjv: "And king Rehoboam consulted with the old men, that stood before Solomon his father while he yet lived, and said, How do ye advise that I may answer this people?"
+bsb: "Then King Rehoboam consulted with the elders who had served his father Solomon during his lifetime. “How do you advise me to respond to these people?” he asked."
+hebrew: "וַיִּוָּעַ֞ץ הַמֶּ֣לֶךְ רְחַבְעָ֗ם אֶת־ הַזְּקֵנִים֙ אֲשֶׁר־ הָי֣וּ עֹמְדִ֗ים אֶת־ פְּנֵי֙ שְׁלֹמֹ֣ה אָבִ֔יו בִּֽהְיֹת֥וֹ חַ֖י לֵאמֹ֑ר אֵ֚יךְ אַתֶּ֣ם נֽוֹעָצִ֔ים לְהָשִׁ֥יב אֶת־ הָֽעָם־ הַזֶּ֖ה דָּבָֽר׃"
+pericope: "[[1Kgs.12.1 Rebellion against Rehoboam|Rebellion against Rehoboam]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 12
+book/chapter: "[[1Kgs.12|1 Kings 12]]"
+chronological_order: 551
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic PETITION|PETITION]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic REVOLT|REVOLT]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H3289]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H7346]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H2205H]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H5975G]]"
+- "[[H6440G]]"
+- "[[H8010]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H9043]]"
+- "[[H2416A]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0349A]]"
+- "[[H0859D]]"
+- "[[H7725M]]"
+- "[[H0853]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H1697G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 12:6**<big><big>[[1Kgs.12.1 Rebellion against Rehoboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And king Rehoboam consulted with the old men, that stood before Solomon his father while he yet lived, and said, How do ye advise that I may answer this people?
 <small><sub>**BSB:**</sub></small>
 Then King Rehoboam consulted with the elders who had served his father Solomon during his lifetime. “How do you advise me to respond to these people?” he asked.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3289\|יִּוָּעַ֞ץ]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H7346\|רְחַבְעָ֗ם]] [[H0854\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2205H\|זְּקֵנִים֙]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1961\|הָי֣וּ]] [[H5975G\|עֹמְדִ֗ים]] [[H0854\|אֶת]][[H9014\|־]] [[H6440G\|פְּנֵי֙]] [[H8010\|שְׁלֹמֹ֣ה]] [[H0001G\|אָבִ֔י]][[H9023\|ו]] [[H9003\|בִּֽ]][[H1961\|הְיֹת֥]][[H9043\|וֹ]] [[H2416A\|חַ֖י]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H0349A\|אֵ֚יךְ]] [[H0859D\|אַתֶּ֣ם]] [[H3289\|נֽוֹעָצִ֔ים]] [[H9005\|לְ]][[H7725M\|הָשִׁ֥יב]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H5971A\|עָם]][[H9014\|־]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H1697G\|דָּבָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic JEROBOAM|JEROBOAM]] • [[topic PETITION|PETITION]] • [[topic REHOBOAM|REHOBOAM]] • [[topic REVOLT|REVOLT]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.12.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.12.5|<< 1 Kings 12:5]]</td><td align="center" style="border:none;">[[1Kgs.12|1 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.12.7|1 Kings 12:7 >>]]</td></tr></table>
 

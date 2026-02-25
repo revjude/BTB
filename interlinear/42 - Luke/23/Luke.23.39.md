@@ -1,10 +1,60 @@
+---
+title: Luke 23:39
+type: Verse
+kjv: "And one of the malefactors which were hanged railed on him, saying, If thou be Christ, save thyself and us."
+bsb: "One of the criminals who hung there heaped abuse on Him. “Are You not the Christ?” he said. “Save Yourself and us!”"
+greek: "Εἷς δὲ τῶν κρεμασθέντων κακούργων ἐβλασφήμει αὐτὸν λέγων· οὐχὶ σὺ εἶ ὁ χριστός; σῶσον σεαυτὸν καὶ ἡμᾶς.¶"
+pericope: "[[Luke.23.26 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MALEFACTORS (CRIMINALS)|MALEFACTORS (CRIMINALS)]]"
+strongs:
+- "[[G1520]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2910]]"
+- "[[G2557]]"
+- "[[G0987]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G3780]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G5547]]"
+- "[[G4982]]"
+- "[[G2532]]"
+- "[[G3165]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Luke 23:39**<big><big>[[Luke.23.26 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And one of the malefactors which were hanged railed on him, saying, If thou be Christ, save thyself and us.
 <small><sub>**BSB:**</sub></small>
 One of the criminals who hung there heaped abuse on Him. “Are You not the Christ?” he said. “Save Yourself and us!”
-<small><sub>**Literal:**</sub></small>
-One now of those having been hanged criminals he was denigrating Him saying: Surely you yourself are the Christ? do save Yourself and us!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.38|<< Luke 23:38]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.40|Luke 23:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1520\|Εἷς]]  [[G1161\|δὲ]]  [[G3588\|τῶν]]  [[G2910\|κρεμασθέντων]]  [[G2557\|κακούργων]]  [[G0987\|ἐβλασφήμει]]  [[G0846\|αὐτὸν]]  [[G3004G\|λέγων·]]  [[G3780\|οὐχὶ]]  [[G4771\|σὺ]]  [[G1510\|εἶ]]  [[G3588\|ὁ]]  [[G5547\|χριστός;]]  [[G4982\|σῶσον]]  [[G4771\|σεαυτὸν]]  [[G2532\|καὶ]]  [[G3165\|ἡμᾶς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MALEFACTORS (CRIMINALS)|MALEFACTORS (CRIMINALS)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.38|<< Luke 23:38]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.40|Luke 23:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

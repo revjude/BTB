@@ -1,8 +1,74 @@
+---
+title: 2 Kings 22:9
+type: Verse
+kjv: "And Shaphan the scribe came to the king, and brought the king word again, and said, Thy servants have gathered the money that was found in the house, and have delivered it into the hand of them that do the work, that have the oversight of the house of the LORD."
+bsb: "And Shaphan the scribe went to the king and reported, “Your servants have paid out the money that was found in the temple and have put it into the hands of the workers and supervisors of the house of the LORD.”"
+hebrew: "וַיָּבֹ֞א שָׁפָ֤ן הַסֹּפֵר֙ אֶל־ הַמֶּ֔לֶךְ וַיָּ֥שֶׁב אֶת־ הַמֶּ֖לֶךְ דָּבָ֑ר וַיֹּ֗אמֶר הִתִּ֤יכוּ עֲבָדֶ֙יךָ֙ אֶת־ הַכֶּ֙סֶף֙ הַנִּמְצָ֣א בַבַּ֔יִת וַֽיִּתְּנֻ֗הוּ עַל־ יַד֙ עֹשֵׂ֣י הַמְּלָאכָ֔ה הַמֻּפְקָדִ֖ים בֵּ֥ית יְהוָֽה׃"
+pericope: "[[2Kgs.22.8 Hilkiah Finds the Book of the Law|Hilkiah Finds the Book of the Law]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 22
+book/chapter: "[[2Kgs.22|2 Kings 22]]"
+chronological_order: 711
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+- "[[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]]"
+- "[[topic SHAPHAN|SHAPHAN]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H8227B]]"
+- "[[H9009]]"
+- "[[H5608B]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H7725M]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H0559]]"
+- "[[H5413]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H3701G]]"
+- "[[H4672]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H5414G]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H3027G]]"
+- "[[H6213J]]"
+- "[[H4399]]"
+- "[[H6485J]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 22:9**<big><big>[[2Kgs.22.8 Hilkiah Finds the Book of the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Shaphan the scribe came to the king, and brought the king word again, and said, Thy servants have gathered the money that was found in the house, and have delivered it into the hand of them that do the work, that have the oversight of the house of the LORD.
 <small><sub>**BSB:**</sub></small>
 And Shaphan the scribe went to the king and reported, “Your servants have paid out the money that was found in the temple and have put it into the hands of the workers and supervisors of the house of the LORD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֞א]] [[H8227B\|שָׁפָ֤ן]] [[H9009\|הַ]][[H5608B\|סֹּפֵר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9001\|וַ]][[H7725M\|יָּ֥שֶׁב]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H1697G\|דָּבָ֑ר]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H5413\|הִתִּ֤יכוּ]] [[H5650\|עֲבָדֶ֙י]][[H9021\|ךָ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3701G\|כֶּ֙סֶף֙]] [[H9009\|הַ]][[H4672\|נִּמְצָ֣א]] [[H9003\|בַ]][[H1004B\|בַּ֔יִת]] [[H9001\|וַֽ]][[H5414G\|יִּתְּנֻ֗]][[H9033\|הוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H3027G\|יַד֙]] [[H6213J\|עֹשֵׂ֣י]] [[H9009\|הַ]][[H4399\|מְּלָאכָ֔ה]] [[H9009\|הַ]][[H6485J\|מֻּפְקָדִ֖ים]] [[H1004Q\|בֵּ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOSIAH|JOSIAH]] • [[topic MONEY|MONEY]] • [[topic SCRIBE (S)|SCRIBE (S)]] • [[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]] • [[topic SHAPHAN|SHAPHAN]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.22.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.22.8|<< 2 Kings 22:8]]</td><td align="center" style="border:none;">[[2Kgs.22|2 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.22.10|2 Kings 22:10 >>]]</td></tr></table>
 

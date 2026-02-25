@@ -1,10 +1,56 @@
+---
+title: 1 Corinthians 12:24
+type: Verse
+kjv: "For our comely parts have no need: but God hath tempered the body together, having given more abundant honour to that part which lacked:"
+bsb: "whereas our presentable parts have no such need. But God has composed the body and has given greater honor to the parts that lacked it,"
+greek: "τὰ δὲ εὐσχήμονα ἡμῶν οὐ χρείαν ἔχει. ἀλλὰ ὁ θεὸς συνεκέρασεν τὸ σῶμα τῷ ὑστερουμένῳ περισσοτέραν δοὺς τιμήν,"
+pericope: "[[1Cor.12.12 The Body of Christ|The Body of Christ]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 12
+book/chapter: "[[1Cor.12|1 Corinthians 12]]"
+chronological_order: 1069
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2158]]"
+- "[[G3165]]"
+- "[[G3756]]"
+- "[[G5532]]"
+- "[[G2192]]"
+- "[[G0235]]"
+- "[[G2316]]"
+- "[[G4786]]"
+- "[[G4983]]"
+- "[[G5302]]"
+- "[[G4055]]"
+- "[[G1325]]"
+- "[[G5092]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Corinthians 12:24**<big><big>[[1Cor.12.12 The Body of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For our comely [parts] have no need: but God hath tempered the body together, having given more abundant honour to that [part] which lacked:
 <small><sub>**BSB:**</sub></small>
 whereas our presentable parts have no such need. But God has composed the body and has given greater honor to the parts that lacked it,
-<small><sub>**Literal:**</sub></small>
-<the> and the presentable [parts] of us no need have. but <the> God [who] has composed the body to that which is become lacking more excessive having given honor,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.23|<< 1 Corinthians 12:23]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.25|1 Corinthians 12:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὰ]]  [[G1161\|δὲ]]  [[G2158\|εὐσχήμονα]]  [[G3165\|ἡμῶν]]  [[G3756\|οὐ]]  [[G5532\|χρείαν]]  [[G2192\|ἔχει.]]  [[G0235\|ἀλλὰ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G4786\|συνεκέρασεν]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G3588\|τῷ]]  [[G5302\|ὑστερουμένῳ]]  [[G4055\|περισσοτέραν]]  [[G1325\|δοὺς]]  [[G5092\|τιμήν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.23|<< 1 Corinthians 12:23]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.25|1 Corinthians 12:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

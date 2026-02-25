@@ -1,8 +1,58 @@
+---
+title: Psalm 35:27
+type: Verse
+kjv: "Let them shout for joy, and be glad, that favour my righteous cause: yea, let them say continually, Let the LORD be magnified, which hath pleasure in the prosperity of his servant."
+bsb: "May those who favor my vindication shout for joy and gladness; may they always say, “Exalted be the LORD who delights in His servant’s well-being.”"
+hebrew: "יָרֹ֣נּוּ וְיִשְׂמְחוּ֮ חֲפֵצֵ֪י צִ֫דְקִ֥י וְיֹאמְר֣וּ תָ֭מִיד יִגְדַּ֣ל יְהוָ֑ה הֶ֝חָפֵ֗ץ שְׁל֣וֹם עַבְדּֽוֹ׃"
+pericope: "[[Ps.35.1 Contend with My Opponents, O LORD|Contend with My Opponents, O LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 35
+book/chapter: "[[Ps.35|Psalm 35]]"
+chronological_order: 363
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ENEMY|ENEMY]]"
+strongs:
+- "[[H7442B]]"
+- "[[H9002]]"
+- "[[H8055]]"
+- "[[H2655]]"
+- "[[H6664G]]"
+- "[[H9020]]"
+- "[[H0559]]"
+- "[[H8548]]"
+- "[[H1431]]"
+- "[[H3068G]]"
+- "[[H9009]]"
+- "[[H7965I]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 35:27**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them shout for joy, and be glad, that favour my righteous cause: yea, let them say continually, Let the LORD be magnified, which hath pleasure in the prosperity of his servant.
 <small><sub>**BSB:**</sub></small>
 May those who favor my vindication shout for joy and gladness; may they always say, “Exalted be the LORD who delights in His servant’s well-being.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7442B\|יָרֹ֣נּוּ]] [[H9002\|וְ]][[H8055\|יִשְׂמְחוּ֮]] [[H2655\|חֲפֵצֵ֪י]] [[H6664G\|צִ֫דְקִ֥]][[H9020\|י]] [[H9002\|וְ]][[H0559\|יֹאמְר֣וּ]] [[H8548\|תָ֭מִיד]] [[H1431\|יִגְדַּ֣ל]] [[H3068G\|יְהוָ֑ה]] [[H9009\|הֶ֝]][[H2655\|חָפֵ֗ץ]] [[H7965I\|שְׁל֣וֹם]] [[H5650\|עַבְדּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENEMY|ENEMY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.26|<< Psalms 35:26]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.28|Psalms 35:28 >>]]</td></tr></table>
 

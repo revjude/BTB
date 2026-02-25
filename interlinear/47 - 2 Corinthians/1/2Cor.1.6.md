@@ -1,10 +1,60 @@
+---
+title: 2 Corinthians 1:6
+type: Verse
+kjv: "And whether we be afflicted, it is for your consolation and salvation, which is effectual in the enduring of the same sufferings which we also suffer: or whether we be comforted, it is for your consolation and salvation."
+bsb: "If we are afflicted, it is for your comfort and salvation; if we are comforted, it is for your comfort, which accomplishes in you patient endurance of the same sufferings we experience."
+greek: "εἴτε δὲ θλιβόμεθα, ὑπὲρ τῆς ὑμῶν παρακλήσεως καὶ σωτηρίας εἴτε παρακαλούμεθα, ὑπὲρ τῆς ὑμῶν παρακλήσεως και σωτηριας τῆς ἐνεργουμένης ἐν ὑπομονῇ τῶν αὐτῶν παθημάτων ὧν καὶ ἡμεῖς πάσχομεν,"
+pericope: "[[2Cor.1.3 The God of All Comfort|The God of All Comfort]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 1
+book/chapter: "[[2Cor.1|2 Corinthians 1]]"
+chronological_order: 1074
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G1535]]"
+- "[[G1161]]"
+- "[[G2346]]"
+- "[[G5228]]"
+- "[[G3588]]"
+- "[[G4771]]"
+- "[[G3874]]"
+- "[[G2532]]"
+- "[[G4991]]"
+- "[[G3870]]"
+- "[[G1754]]"
+- "[[G1722]]"
+- "[[G5281]]"
+- "[[G0846]]"
+- "[[G3804]]"
+- "[[G3739]]"
+- "[[G3165]]"
+- "[[G3958]]"
+texts:
+- NKO
+- KO
+---
+
 **2 Corinthians 1:6**<big><big>[[2Cor.1.3 The God of All Comfort|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And whether we be afflicted, [it is] for your consolation and salvation, which is effectual in the enduring of the same sufferings which we also suffer: or whether we be comforted, [it is] for your consolation and salvation.
 <small><sub>**BSB:**</sub></small>
 If we are afflicted, it is for your comfort and salvation; if we are comforted, it is for your comfort, which accomplishes in you patient endurance of the same sufferings we experience.
-<small><sub>**Literal:**</sub></small>
-If however we are constricted, [it is] for <the> your comfort and salvation if we are encouraged, [it is] for <the> your comfort and salvation which is operating in [the] endurance of the same sufferings that also we ourselves suffer,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.5|<< 2 Corinthians 1:5]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.7|2 Corinthians 1:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1535\|εἴτε]]  [[G1161\|δὲ]]  [[G2346\|θλιβόμεθα,]]  [[G5228\|ὑπὲρ]]  [[G3588\|τῆς]]  [[G4771\|ὑμῶν]]  [[G3874\|παρακλήσεως]]  [[G2532\|καὶ]]  [[G4991\|σωτηρίας]]  [[G1535\|εἴτε]]  [[G3870\|παρακαλούμεθα,]]  [[G5228\|ὑπὲρ]]  [[G3588\|τῆς]]  [[G4771\|ὑμῶν]]  [[G3874\|παρακλήσεως]]  [[G2532\|και]]  [[G4991\|σωτηριας]]  [[G3588\|τῆς]]  [[G1754\|ἐνεργουμένης]]  [[G1722\|ἐν]]  [[G5281\|ὑπομονῇ]]  [[G3588\|τῶν]]  [[G0846\|αὐτῶν]]  [[G3804\|παθημάτων]]  [[G3739\|ὧν]]  [[G2532\|καὶ]]  [[G3165\|ἡμεῖς]]  [[G3958\|πάσχομεν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.5|<< 2 Corinthians 1:5]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.7|2 Corinthians 1:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

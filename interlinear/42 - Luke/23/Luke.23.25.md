@@ -1,10 +1,62 @@
+---
+title: Luke 23:25
+type: Verse
+kjv: "And he released unto them him that for sedition and murder was cast into prison, whom they had desired; but he delivered Jesus to their will."
+bsb: "As they had requested, he released the one imprisoned for insurrection and murder, and he handed Jesus over to their will."
+greek: "ἀπέλυσεν δὲ αὐτοῖς τὸν διὰ στάσιν καὶ φόνον βεβλημένον εἰς τὴν φυλακὴν ὃν ᾐτοῦντο· τὸν δὲ Ἰησοῦν παρέδωκεν τῷ θελήματι αὐτῶν.¶"
+pericope: "[[Luke.23.13 The Crowd Chooses Barabbas|The Crowd Chooses Barabbas]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BARABBAS|BARABBAS]]"
+- "[[topic COMPLICITY|COMPLICITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic POLITICS|POLITICS]]"
+strongs:
+- "[[G0630G]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G1223]]"
+- "[[G4714]]"
+- "[[G2532]]"
+- "[[G5408]]"
+- "[[G0906G]]"
+- "[[G1519]]"
+- "[[G5438G]]"
+- "[[G3739]]"
+- "[[G0154]]"
+- "[[G2424G]]"
+- "[[G3860]]"
+- "[[G2307]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 23:25**<big><big>[[Luke.23.13 The Crowd Chooses Barabbas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he released unto them him that for sedition and murder was cast into prison, whom they had desired; but he delivered Jesus to their will.
 <small><sub>**BSB:**</sub></small>
 As they had requested, he released the one imprisoned for insurrection and murder, and he handed Jesus over to their will.
-<small><sub>**Literal:**</sub></small>
-He released then to them the [one] on account of insurrection and murder cast into <the> prison whom they were asking for; <the> and Jesus he delivered to the will of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.24|<< Luke 23:24]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.26|Luke 23:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0630G\|ἀπέλυσεν]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῖς]]  [[G3588\|τὸν]]  [[G1223\|διὰ]]  [[G4714\|στάσιν]]  [[G2532\|καὶ]]  [[G5408\|φόνον]]  [[G0906G\|βεβλημένον]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G5438G\|φυλακὴν]]  [[G3739\|ὃν]]  [[G0154\|ᾐτοῦντο·]]  [[G3588\|τὸν]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦν]]  [[G3860\|παρέδωκεν]]  [[G3588\|τῷ]]  [[G2307\|θελήματι]]  [[G0846\|αὐτῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARABBAS|BARABBAS]] • [[topic COMPLICITY|COMPLICITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic POLITICS|POLITICS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.24|<< Luke 23:24]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.26|Luke 23:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

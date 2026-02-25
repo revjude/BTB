@@ -1,8 +1,77 @@
+---
+title: Jeremiah 3:12
+type: Verse
+kjv: "Go and proclaim these words toward the north, and say, Return, thou backsliding Israel, saith the LORD; and I will not cause mine anger to fall upon you: for I am merciful, saith the LORD, and I will not keep anger for ever."
+bsb: "Go, proclaim this message toward the north: ‘Return, O faithless Israel,’ declares the LORD. ‘I will no longer look on you with anger, for I am merciful,’ declares the LORD. ‘I will not be angry forever."
+hebrew: "הָלֹ֡ךְ וְקָֽרָאתָ֩ אֶת־ הַדְּבָרִ֨ים הָאֵ֜לֶּה צָפ֗וֹנָה וְ֠אָמַרְתָּ שׁ֣וּבָה מְשֻׁבָ֤ה יִשְׂרָאֵל֙ נְאֻם־ יְהוָ֔ה לֽוֹא־ אַפִּ֥יל פָּנַ֖י בָּכֶ֑ם כִּֽי־ חָסִ֤יד אֲנִי֙ נְאֻם־ יְהוָ֔ה לֹ֥א אֶטּ֖וֹר לְעוֹלָֽם׃"
+pericope: "[[Jer.3.11 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 3
+book/chapter: "[[Jer.3|Jeremiah 3]]"
+chronological_order: 720
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H1980G]]"
+- "[[H9001]]"
+- "[[H7121I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H6828G]]"
+- "[[H9011]]"
+- "[[H0559]]"
+- "[[H7725G]]"
+- "[[H9012]]"
+- "[[H4878]]"
+- "[[H3478]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H5307K]]"
+- "[[H6440M]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H9036]]"
+- "[[H3588A]]"
+- "[[H2623]]"
+- "[[H0589]]"
+- "[[H5201]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 3:12**<big><big>[[Jer.3.11 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go and proclaim these words toward the north, and say, Return, thou backsliding Israel, saith the LORD; [and] I will not cause mine anger to fall upon you: for I [am] merciful, saith the LORD, [and] I will not keep [anger] for ever.
 <small><sub>**BSB:**</sub></small>
 Go, proclaim this message toward the north: ‘Return, O faithless Israel,’ declares the LORD. ‘I will no longer look on you with anger, for I am merciful,’ declares the LORD. ‘I will not be angry forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H1980G\|הָלֹ֡ךְ]] [[H9001\|וְ]][[H7121I\|קָֽרָאתָ֩]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֨ים]] [[H9009\|הָ]][[H0428\|אֵ֜לֶּה]] [[H6828G\|צָפ֗וֹנָ]][[H9011\|ה]] [[H9001\|וְ֠]][[H0559\|אָמַרְתָּ]] [[H7725G\|שׁ֣וּבָ]][[H9012\|ה]] [[H4878\|מְשֻׁבָ֤ה]] [[H3478\|יִשְׂרָאֵל֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H3808\|לֽוֹא]][[H9014\|־]] [[H5307K\|אַפִּ֥יל]] [[H6440M\|פָּנַ֖]][[H9020\|י]] [[H9003\|בָּ]][[H9036\|כֶ֑ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2623\|חָסִ֤יד]] [[H0589\|אֲנִי֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H3808\|לֹ֥א]] [[H5201\|אֶטּ֖וֹר]] [[H9005\|לְ]][[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.11|<< Jeremiah 3:11]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.13|Jeremiah 3:13 >>]]</td></tr></table>
 

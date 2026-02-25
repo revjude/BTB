@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Birth of Samuel
+type: Pericope
 pericope: "[[1Sam.1.19 The Birth of Samuel|The Birth of Samuel]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 1
 book/chapter: "[[1Sam.1|1 Samuel 1]]"
-genre:
+chronological_order: 280
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 10
 verses:
 - "[[1Sam.1.19]]"
 - "[[1Sam.1.20]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Sam.1.28]]"
 ---
 
-[[1Sam.1|1 Samuel 1:19 - 1 Samuel 1:28]]
+<small>[[1Sam.1|1 Samuel 1:19-28]]</small>
 *The Birth of Samuel*
 
 [[1Sam.1.19|19]] And they rose up in the morning early, and worshipped before the LORD, and returned, and came to their house to Ramah: and Elkanah knew Hannah his wife; and the LORD remembered her.

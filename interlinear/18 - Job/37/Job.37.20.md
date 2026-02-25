@@ -1,8 +1,56 @@
+---
+title: Job 37:20
+type: Verse
+kjv: "Shall it be told him that I speak? if a man speak, surely he shall be swallowed up."
+bsb: "Should He be told that I want to speak? Would a man ask to be swallowed up?"
+hebrew: "הַֽיְסֻפַּר־ ל֭וֹ כִּ֣י אֲדַבֵּ֑ר אִֽם־ אָ֥מַר אִ֝֗ישׁ כִּ֣י יְבֻלָּֽע׃"
+pericope: "[[Job.37.1 Elihu Proclaims God’s Majesty|Elihu Proclaims God’s Majesty]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 37
+book/chapter: "[[Job.37|Job 37]]"
+chronological_order: 48
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H9008]]"
+- "[[H5608A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H1696G]]"
+- "[[H0518H]]"
+- "[[H0559]]"
+- "[[H0376I]]"
+- "[[H1104]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 37:20**<big><big>[[Job.37.1 Elihu Proclaims God’s Majesty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall it be told him that I speak? if a man speak, surely he shall be swallowed up.
 <small><sub>**BSB:**</sub></small>
 Should He be told that I want to speak? Would a man ask to be swallowed up?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַֽ]][[H5608A\|יְסֻפַּר]][[H9014\|־]] [[H9005\|ל֭]][[H9033\|וֹ]] [[H3588A\|כִּ֣י]] [[H1696G\|אֲדַבֵּ֑ר]] [[H0518H\|אִֽם]][[H9014\|־]] [[H0559\|אָ֥מַר]] [[H0376I\|אִ֝֗ישׁ]] [[H3588A\|כִּ֣י]] [[H1104\|יְבֻלָּֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.37.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.19|<< Job 37:19]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.21|Job 37:21 >>]]</td></tr></table>
 

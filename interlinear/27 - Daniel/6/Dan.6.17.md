@@ -1,8 +1,71 @@
+---
+title: Daniel 6:17
+type: Verse
+kjv: "And a stone was brought, and laid upon the mouth of the den; and the king sealed it with his own signet, and with the signet of his lords; that the purpose might not be changed concerning Daniel."
+bsb: "A stone was brought and placed over the mouth of the den, and the king sealed it with his own signet ring and with the rings of his nobles, so that nothing concerning Daniel could be changed."
+aramaic: "וְהֵיתָ֙יִת֙ אֶ֣בֶן חֲדָ֔ה וְשֻׂמַ֖ת עַל־ פֻּ֣ם גֻּבָּ֑א וְחַתְמַ֨הּ מַלְכָּ֜א בְּעִזְקְתֵ֗הּ וּבְעִזְקָת֙ רַבְרְבָנ֔וֹהִי דִּ֛י לָא־ תִשְׁנֵ֥א צְב֖וּ בְּדָנִיֵּֽאל׃"
+pericope: "[[Dan.6.10 Daniel in the Lions’ Den|Daniel in the Lions’ Den]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 6
+book/chapter: "[[Dan.6|Daniel 6]]"
+chronological_order: 791
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic LION|LION]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SEAL|SEAL]]"
+strongs:
+- "[[H9002]]"
+- "[[H0858]]"
+- "[[H0069]]"
+- "[[H2298]]"
+- "[[H7761H]]"
+- "[[H5922]]"
+- "[[H9014]]"
+- "[[H6433]]"
+- "[[H1358]]"
+- "[[H9010]]"
+- "[[H2857]]"
+- "[[H9034]]"
+- "[[H4430]]"
+- "[[H9003]]"
+- "[[H5824]]"
+- "[[H9023]]"
+- "[[H7261]]"
+- "[[H1768]]"
+- "[[H3809]]"
+- "[[H8133]]"
+- "[[H6640]]"
+- "[[H1841H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 6:17**<big><big>[[Dan.6.10 Daniel in the Lions’ Den|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a stone was brought, and laid upon the mouth of the den; and the king sealed it with his own signet, and with the signet of his lords; that the purpose might not be changed concerning Daniel.
 <small><sub>**BSB:**</sub></small>
 A stone was brought and placed over the mouth of the den, and the king sealed it with his own signet ring and with the rings of his nobles, so that nothing concerning Daniel could be changed.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וְ]][[H0858\|הֵיתָ֙יִת֙]] [[H0069\|אֶ֣בֶן]] [[H2298\|חֲדָ֔ה]] [[H9002\|וְ]][[H7761H\|שֻׂמַ֖ת]] [[H5922\|עַל]][[H9014\|־]] [[H6433\|פֻּ֣ם]] [[H1358\|גֻּבָּ֑]][[H9010\|א]] [[H9002\|וְ]][[H2857\|חַתְמַ֨]][[H9034\|הּ]] [[H4430\|מַלְכָּ֜]][[H9010\|א]] [[H9003\|בְּ]][[H5824\|עִזְקְתֵ֗]][[H9023\|הּ]] [[H9002\|וּ]][[H9003\|בְ]][[H5824\|עִזְקָת֙]] [[H7261\|רַבְרְבָנ֔וֹ]][[H9023\|הִי]] [[H1768\|דִּ֛י]] [[H3809\|לָא]][[H9014\|־]] [[H8133\|תִשְׁנֵ֥א]] [[H6640\|צְב֖וּ]] [[H9003\|בְּ]][[H1841H\|דָנִיֵּֽאל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DANIEL|DANIEL]] • [[topic FAITH|FAITH]] • [[topic LION|LION]] • [[topic RELIGION|RELIGION]] • [[topic SEAL|SEAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.16|<< Daniel 6:16]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.18|Daniel 6:18 >>]]</td></tr></table>
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The First Four Trumpets
+type: Pericope
 pericope: "[[Rev.8.6 The First Four Trumpets|The First Four Trumpets]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 8
 book/chapter: "[[Rev.8|Revelation 8]]"
-genre:
+chronological_order: 1175
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 8
 verses:
 - "[[Rev.8.6]]"
 - "[[Rev.8.7]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Rev.8.13]]"
 ---
 
-[[Rev.8|Revelation 8:6 - Revelation 8:13]]
+<small>[[Rev.8|Revelation 8:6-13]]</small>
 *The First Four Trumpets*
 
 [[Rev.8.6|6]] And the seven angels which had the seven trumpets prepared themselves to sound.

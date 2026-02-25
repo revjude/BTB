@@ -1,8 +1,57 @@
+---
+title: Job 15:23
+type: Verse
+kjv: "He wandereth abroad for bread, saying, Where is it? he knoweth that the day of darkness is ready at his hand."
+bsb: "He wanders about as food for vultures; he knows the day of darkness is at hand."
+hebrew: "נֹ֘דֵ֤ד ה֣וּא לַלֶּ֣חֶם אַיֵּ֑ה יָדַ֓ע׀ כִּֽי־ נָכ֖וֹן בְּיָד֣וֹ יֽוֹם־ חֹֽשֶׁךְ׃"
+pericope: "[[Job.15.1 Eliphaz：Job Does Not Fear God|Eliphaz：Job Does Not Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 15
+book/chapter: "[[Job.15|Job 15]]"
+chronological_order: 26
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H5074]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H3899H]]"
+- "[[H0346]]"
+- "[[H3045]]"
+- "[[H9015]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3559A]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H3117G]]"
+- "[[H2822]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 15:23**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He wandereth abroad for bread, [saying], Where [is it]? he knoweth that the day of darkness is ready at his hand.
 <small><sub>**BSB:**</sub></small>
 He wanders about as food for vultures; he knows the day of darkness is at hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H5074\|נֹ֘דֵ֤ד]] [[H1931\|ה֣וּא]] [[H9005\|לַ]][[H3899H\|לֶּ֣חֶם]] [[H0346\|אַיֵּ֑ה]] [[H3045\|יָדַ֓ע]][[H9015\|׀]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3559A\|נָכ֖וֹן]] [[H9003\|בְּ]][[H3027G\|יָד֣]][[H9023\|וֹ]] [[H3117G\|יֽוֹם]][[H9014\|־]] [[H2822\|חֹֽשֶׁךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.22|<< Job 15:22]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.24|Job 15:24 >>]]</td></tr></table>
 

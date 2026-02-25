@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Proclamation of Cyrus
+type: Pericope
 pericope: "[[Ezra.1.1 The Proclamation of Cyrus|The Proclamation of Cyrus]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Ezra
 chapter: 1
 book/chapter: "[[Ezra.1|Ezra 1]]"
-genre:
+chronological_order: 849
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
+verse_count: 6
 verses:
 - "[[Ezra.1.1]]"
 - "[[Ezra.1.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Ezra.1.6]]"
 ---
 
-[[Ezra.1|Ezra 1:1 - Ezra 1:6]]
+<small>[[Ezra.1|Ezra 1:1-6]]</small>
 *The Proclamation of Cyrus*
 
 [[Ezra.1.1|1]] Now in the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be fulfilled, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and \[put it\] also in writing, saying,

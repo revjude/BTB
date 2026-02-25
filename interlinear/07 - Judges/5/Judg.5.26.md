@@ -1,8 +1,61 @@
+---
+title: Judges 5:26
+type: Verse
+kjv: "She put her hand to the nail, and her right hand to the workmen’s hammer; and with the hammer she smote Sisera, she smote off his head, when she had pierced and stricken through his temples."
+bsb: "She reached for the tent peg, her right hand for the workman’s hammer. She struck Sisera and crushed his skull; she shattered and pierced his temple."
+hebrew: "יָדָהּ֙ לַיָּתֵ֣ד תִּשְׁלַ֔חְנָה וִֽימִינָ֖הּ לְהַלְמ֣וּת עֲמֵלִ֑ים וְהָלְמָ֤ה סִֽיסְרָא֙ מָחֲקָ֣ה רֹאשׁ֔וֹ וּמָחֲצָ֥ה וְחָלְפָ֖ה רַקָּתֽוֹ׃"
+pericope: "[[Judg.5.1 The Song of Deborah and Barak|The Song of Deborah and Barak]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 5
+book/chapter: "[[Judg.5|Judges 5]]"
+chronological_order: 259
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic SISERA|SISERA]]"
+strongs:
+- "[[H3027G]]"
+- "[[H9024]]"
+- "[[H9005]]"
+- "[[H3489]]"
+- "[[H7971K]]"
+- "[[H9002]]"
+- "[[H3225G]]"
+- "[[H1989]]"
+- "[[H6001A]]"
+- "[[H9001]]"
+- "[[H1986]]"
+- "[[H5516G]]"
+- "[[H4277]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H4272]]"
+- "[[H2498]]"
+- "[[H7541]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 5:26**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She put her hand to the nail, and her right hand to the workmen’s hammer; and with the hammer she smote Sisera, she smote off his head, when she had pierced and stricken through his temples.
 <small><sub>**BSB:**</sub></small>
 She reached for the tent peg, her right hand for the workman’s hammer. She struck Sisera and crushed his skull; she shattered and pierced his temple.
+<small><sub>**Hebrew:**</sub></small>
+[[H3027G\|יָדָ]][[H9024\|הּ֙]] [[H9005\|לַ]][[H3489\|יָּתֵ֣ד]] [[H7971K\|תִּשְׁלַ֔חְנָה]] [[H9002\|וִֽ]][[H3225G\|ימִינָ֖]][[H9024\|הּ]] [[H9005\|לְ]][[H1989\|הַלְמ֣וּת]] [[H6001A\|עֲמֵלִ֑ים]] [[H9001\|וְ]][[H1986\|הָלְמָ֤ה]] [[H5516G\|סִֽיסְרָא֙]] [[H4277\|מָחֲקָ֣ה]] [[H7218A\|רֹאשׁ֔]][[H9023\|וֹ]] [[H9001\|וּ]][[H4272\|מָחֲצָ֥ה]] [[H9001\|וְ]][[H2498\|חָלְפָ֖ה]] [[H7541\|רַקָּתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTRY|COUNTRY]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic SISERA|SISERA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.25|<< Judges 5:25]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.27|Judges 5:27 >>]]</td></tr></table>
 

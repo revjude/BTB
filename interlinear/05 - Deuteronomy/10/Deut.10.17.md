@@ -1,8 +1,67 @@
+---
+title: Deuteronomy 10:17
+type: Verse
+kjv: "For the LORD your God is God of gods, and Lord of lords, a great God, a mighty, and a terrible, which regardeth not persons, nor taketh reward:"
+bsb: "For the LORD your God is God of gods and Lord of lords, the great, mighty, and awesome God, showing no partiality and accepting no bribe."
+hebrew: "כִּ֚י יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם ה֚וּא אֱלֹהֵ֣י הָֽאֱלֹהִ֔ים וַאֲדֹנֵ֖י הָאֲדֹנִ֑ים הָאֵ֨ל הַגָּדֹ֤ל הַגִּבֹּר֙ וְהַנּוֹרָ֔א אֲשֶׁר֙ לֹא־ יִשָּׂ֣א פָנִ֔ים וְלֹ֥א יִקַּ֖ח שֹֽׁחַד׃"
+pericope: "[[Deut.10.12 A Call to Obedience|A Call to Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 10
+book/chapter: "[[Deut.10|Deuteronomy 10]]"
+chronological_order: 206
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic RESPECT OF PERSONS|RESPECT OF PERSONS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H1931]]"
+- "[[H9009]]"
+- "[[H0430]]"
+- "[[H9002]]"
+- "[[H0113]]"
+- "[[H0410G]]"
+- "[[H1419A]]"
+- "[[H1368]]"
+- "[[H3372H]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5375Q]]"
+- "[[H6440N]]"
+- "[[H3947G]]"
+- "[[H7810]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 10:17**<big><big>[[Deut.10.12 A Call to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD your God [is] God of gods, and Lord of lords, a great God, a mighty, and a terrible, which regardeth not persons, nor taketh reward:
 <small><sub>**BSB:**</sub></small>
 For the LORD your God is God of gods and Lord of lords, the great, mighty, and awesome God, showing no partiality and accepting no bribe.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֚י]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶ֔ם]] [[H1931\|ה֚וּא]] [[H0430G\|אֱלֹהֵ֣י]] [[H9009\|הָֽ]][[H0430\|אֱלֹהִ֔ים]] [[H9002\|וַ]][[H0113\|אֲדֹנֵ֖י]] [[H9009\|הָ]][[H0113\|אֲדֹנִ֑ים]] [[H9009\|הָ]][[H0410G\|אֵ֨ל]] [[H9009\|הַ]][[H1419A\|גָּדֹ֤ל]] [[H9009\|הַ]][[H1368\|גִּבֹּר֙]] [[H9002\|וְ]][[H9009\|הַ]][[H3372H\|נּוֹרָ֔א]] [[H0834A\|אֲשֶׁר֙]] [[H3808\|לֹא]][[H9014\|־]] [[H5375Q\|יִשָּׂ֣א]] [[H6440N\|פָנִ֔ים]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3947G\|יִקַּ֖ח]] [[H7810\|שֹֽׁחַד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic RESPECT OF PERSONS|RESPECT OF PERSONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.10.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.16|<< Deuteronomy 10:16]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.18|Deuteronomy 10:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,10 +1,59 @@
+---
+title: Romans 16:20
+type: Verse
+kjv: "And the God of peace shall bruise Satan under your feet shortly. The grace of our Lord Jesus Christ be with you. Amen."
+bsb: "The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus Christ be with you."
+greek: "ὁ δὲ θεὸς τῆς εἰρήνης συντρίψει τὸν σατανᾶν ὑπὸ τοὺς πόδας ὑμῶν ἐν τάχει. ἡ χάρις τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ μεθ᾽ ὑμῶν.¶"
+pericope: "[[Rom.16.17 Avoid Divisions|Avoid Divisions]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 16
+book/chapter: "[[Rom.16|Romans 16]]"
+chronological_order: 1102
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2316]]"
+- "[[G1515]]"
+- "[[G4937]]"
+- "[[G4567]]"
+- "[[G5259H]]"
+- "[[G4228]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G5034]]"
+- "[[G5485]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G3326]]"
+texts:
+- NKO
+- KO
+---
+
 **Romans 16:20**<big><big>[[Rom.16.17 Avoid Divisions|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the God of peace shall bruise Satan under your feet shortly. The grace of our Lord Jesus Christ [be] with you. Amen.
 <small><sub>**BSB:**</sub></small>
 The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus Christ be with you.
-<small><sub>**Literal:**</sub></small>
-The now God <the> of peace will crush <the> Satan under the feet of you with speed. The grace of the Lord of us Jesus Christ [be] with you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.19|<< Romans 16:19]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.21|Romans 16:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2316\|θεὸς]]  [[G3588\|τῆς]]  [[G1515\|εἰρήνης]]  [[G4937\|συντρίψει]]  [[G3588\|τὸν]]  [[G4567\|σατανᾶν]]  [[G5259H\|ὑπὸ]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G4771\|ὑμῶν]]  [[G1722\|ἐν]]  [[G5034\|τάχει.]]  [[G3588\|ἡ]]  [[G5485\|χάρις]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G3326\|μεθ᾽]]  [[G4771\|ὑμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic SATAN|SATAN]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.19|<< Romans 16:19]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.21|Romans 16:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

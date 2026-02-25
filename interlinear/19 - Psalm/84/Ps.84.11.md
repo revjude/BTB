@@ -1,8 +1,68 @@
+---
+title: Psalm 84:11
+type: Verse
+kjv: "For the LORD God is a sun and shield: the LORD will give grace and glory: no good thing will he withhold from them that walk uprightly."
+bsb: "For the LORD God is a sun and a shield; the LORD gives grace and glory; He withholds no good thing from those who walk with integrity."
+hebrew: "כִּ֤י שֶׁ֨מֶשׁ׀ וּמָגֵן֮ יְהוָ֪ה אֱלֹ֫הִ֥ים חֵ֣ן וְ֭כָבוֹד יִתֵּ֣ן יְהוָ֑ה לֹ֥א יִמְנַע־ ט֝֗וֹב לַֽהֹלְכִ֥ים בְּתָמִֽים׃"
+pericope: "[[Ps.84.1 Better Is One Day in Your Courts|Better Is One Day in Your Courts]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 84
+book/chapter: "[[Ps.84|Psalm 84]]"
+chronological_order: 514
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GLORY|GLORY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SHIELD|SHIELD]]"
+- "[[topic SUN|SUN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H8121]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H4043]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H2580]]"
+- "[[H3519]]"
+- "[[H5414G]]"
+- "[[H3808]]"
+- "[[H4513]]"
+- "[[H9014]]"
+- "[[H2896B]]"
+- "[[H9005]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H8549H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 84:11**<big><big>[[Ps.84.1 Better Is One Day in Your Courts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD God [is] a sun and shield: the LORD will give grace and glory: no good [thing] will he withhold from them that walk uprightly.
 <small><sub>**BSB:**</sub></small>
 For the LORD God is a sun and a shield; the LORD gives grace and glory; He withholds no good thing from those who walk with integrity.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H8121\|שֶׁ֨מֶשׁ]][[H9015\|׀]] [[H9002\|וּ]][[H4043\|מָגֵן֮]] [[H3068G\|יְהוָ֪ה]] [[H0430G\|אֱלֹ֫הִ֥ים]] [[H2580\|חֵ֣ן]] [[H9002\|וְ֭]][[H3519\|כָבוֹד]] [[H5414G\|יִתֵּ֣ן]] [[H3068G\|יְהוָ֑ה]] [[H3808\|לֹ֥א]] [[H4513\|יִמְנַע]][[H9014\|־]] [[H2896B\|ט֝֗וֹב]] [[H9005\|לַֽ]][[H1980I\|הֹלְכִ֥ים]] [[H9003\|בְּ]][[H8549H\|תָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GLORY|GLORY]] • [[topic GOD|GOD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SHIELD|SHIELD]] • [[topic SUN|SUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.84.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.84.10|<< Psalms 84:10]]</td><td align="center" style="border:none;">[[Ps.84|Psalms 84]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.84.12|Psalms 84:12 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: Genesis 21:15
+type: Verse
+kjv: "And the water was spent in the bottle, and she cast the child under one of the shrubs."
+bsb: "When the water in the skin was gone, she left the boy under one of the bushes."
+hebrew: "וַיִּכְל֥וּ הַמַּ֖יִם מִן־ הַחֵ֑מֶת וַתַּשְׁלֵ֣ךְ אֶת־ הַיֶּ֔לֶד תַּ֖חַת אַחַ֥ד הַשִּׂיחִֽם׃"
+pericope: "[[Gen.21.9 Sarah Turns against Hagar|Sarah Turns against Hagar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 21
+book/chapter: "[[Gen.21|Genesis 21]]"
+chronological_order: 63
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BEER-SHEBA|BEER-SHEBA]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+strongs:
+- "[[H9001]]"
+- "[[H3615J]]"
+- "[[H9009]]"
+- "[[H4325G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H2573]]"
+- "[[H7993]]"
+- "[[H0853]]"
+- "[[H3206]]"
+- "[[H8478G]]"
+- "[[H0259]]"
+- "[[H7880]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 21:15**<big><big>[[Gen.21.9 Sarah Turns against Hagar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the water was spent in the bottle, and she cast the child under one of the shrubs.
 <small><sub>**BSB:**</sub></small>
 When the water in the skin was gone, she left the boy under one of the bushes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3615J\|יִּכְל֥וּ]] [[H9009\|הַ]][[H4325G\|מַּ֖יִם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H2573\|חֵ֑מֶת]] [[H9001\|וַ]][[H7993\|תַּשְׁלֵ֣ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3206\|יֶּ֔לֶד]] [[H8478G\|תַּ֖חַת]] [[H0259\|אַחַ֥ד]] [[H9009\|הַ]][[H7880\|שִּׂיחִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEER-SHEBA|BEER-SHEBA]] • [[topic CHILDREN|CHILDREN]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic ISHMAEL|ISHMAEL]] • [[topic PARENTS|PARENTS]] • [[topic POLYGAMY|POLYGAMY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.21.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.14|<< Genesis 21:14]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.16|Genesis 21:16 >>]]</td></tr></table>
 

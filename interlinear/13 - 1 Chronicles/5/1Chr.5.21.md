@@ -1,8 +1,57 @@
+---
+title: 1 Chronicles 5:21
+type: Verse
+kjv: "And they took away their cattle; of their camels fifty thousand, and of sheep two hundred and fifty thousand, and of asses two thousand, and of men an hundred thousand."
+bsb: "They seized the livestock of the Hagrites—50,000 camels, 250,000 sheep, and 2,000 donkeys. They also took 100,000 captives,"
+hebrew: "וַיִּשְׁבּ֣וּ מִקְנֵיהֶ֗ם גְּֽמַלֵּיהֶ֞ם חֲמִשִּׁ֥ים אֶ֙לֶף֙ וְצֹ֗אן מָאתַ֤יִם וַחֲמִשִּׁים֙ אֶ֔לֶף וַחֲמוֹרִ֖ים אַלְפָּ֑יִם וְנֶ֥פֶשׁ אָדָ֖ם מֵ֥אָה אָֽלֶף׃"
+pericope: "[[1Chr.5.11 The Descendants of Gad|The Descendants of Gad]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 5
+book/chapter: "[[1Chr.5|1 Chronicles 5]]"
+chronological_order: 324
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ASS (DONKEY)|ASS (DONKEY)]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic HAGAR|HAGAR]]"
+- "[[topic SHEEP|SHEEP]]"
+strongs:
+- "[[H9001]]"
+- "[[H7617]]"
+- "[[H4735]]"
+- "[[H9028]]"
+- "[[H1581]]"
+- "[[H2572]]"
+- "[[H0505G]]"
+- "[[H9002]]"
+- "[[H6629G]]"
+- "[[H3967]]"
+- "[[H2543]]"
+- "[[H5315H]]"
+- "[[H0120G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 5:21**<big><big>[[1Chr.5.11 The Descendants of Gad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they took away their cattle; of their camels fifty thousand, and of sheep two hundred and fifty thousand, and of asses two thousand, and of men an hundred thousand.
 <small><sub>**BSB:**</sub></small>
 They seized the livestock of the Hagrites—50,000 camels, 250,000 sheep, and 2,000 donkeys. They also took 100,000 captives,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7617\|יִּשְׁבּ֣וּ]] [[H4735\|מִקְנֵי]][[H9028\|הֶ֗ם]] [[H1581\|גְּֽמַלֵּי]][[H9028\|הֶ֞ם]] [[H2572\|חֲמִשִּׁ֥ים]] [[H0505G\|אֶ֙לֶף֙]] [[H9002\|וְ]][[H6629G\|צֹ֗אן]] [[H3967\|מָאתַ֤יִם]] [[H9002\|וַ]][[H2572\|חֲמִשִּׁים֙]] [[H0505G\|אֶ֔לֶף]] [[H9002\|וַ]][[H2543\|חֲמוֹרִ֖ים]] [[H0505G\|אַלְפָּ֑יִם]] [[H9002\|וְ]][[H5315H\|נֶ֥פֶשׁ]] [[H0120G\|אָדָ֖ם]] [[H3967\|מֵ֥אָה]] [[H0505G\|אָֽלֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASS (DONKEY)|ASS (DONKEY)]] • [[topic GILEAD|GILEAD]] • [[topic HAGAR|HAGAR]] • [[topic SHEEP|SHEEP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.5.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.20|<< 1 Chronicles 5:20]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.22|1 Chronicles 5:22 >>]]</td></tr></table>
 

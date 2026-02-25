@@ -1,6 +1,69 @@
+---
+title: LXX Ezekiel 21:3
+type: Verse
+lxx: "And you shall say to the land  of Israel, Thus says Adonai the lord; Behold, I am against you, and I will pull  my knife from out of  its sheath, and I will utterly destroy from you the lawless one and unjust one."
+greek: "και ερείς προς την γην του Ισραήλ τάδε λέγει Αδωναϊ κύριος ιδού εγώ προς σε και εκσπάσω το εγχειρίδιόν μου εκ του κολεού αυτού και εξολοθρεύσω εκ σου άνομον και άδικον"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 21
+book/chapter: "[[Ezek.21|Ezekiel 21]]"
+chronological_order: 812
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2046]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G3588]]"
+- "[[G2474]]"
+- "[[G3592]]"
+- "[[G3004]]"
+- "[[H0113]]"
+- "[[G2962]]"
+- "[[G2400]]"
+- "[[G1473]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G7145]]"
+- "[[G3588]]"
+- "[[G7038]]"
+- "[[G1473]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G8051]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1842]]"
+- "[[G1537]]"
+- "[[G1473]]"
+- "[[G0459]]"
+- "[[G2532]]"
+- "[[G0094]]"
+---
+
 **LXX Ezekiel 21:3** 
 <small><sub>**LXX:**</sub></small>
 And you shall say to the land  of Israel, Thus says Adonai \[the\] <span class="smallcaps">lord</span>; Behold, I \[am\] against you, and I will pull  my knife from out of  its sheath, and I will utterly destroy from you \[the\] lawless one and unjust one. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2046\|ερείς]] [[G4314\|προς]] [[G3588\|την]] [[G1093\|γην]] [[G3588\|του]] [[G2474\|Ισραήλ]] [[G3592\|τάδε]] [[G3004\|λέγει]] [[H0113\|Αδωναϊ]] [[G2962\|κύριος]] [[G2400\|ιδού]] [[G1473\|εγώ]] [[G4314\|προς]] [[G1473\|σε]] [[G2532\|και]] [[G7145\|εκσπάσω]] [[G3588\|το]] [[G7038\|εγχειρίδιόν]] [[G1473\|μου]] [[G1537\|εκ]] [[G3588\|του]] [[G8051\|κολεού]] [[G1473\|αυτού]] [[G2532\|και]] [[G1842\|εξολοθρεύσω]] [[G1537\|εκ]] [[G1473\|σου]] [[G0459\|άνομον]] [[G2532\|και]] [[G0094\|άδικον]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGMENTS|JUDGMENTS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.21.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.2|<< Ezekiel 21:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.4|Ezekiel 21:4 >>]]</td></tr></table>
 
@@ -35,6 +98,6 @@ And you shall say to the land  of Israel, Thus says Adonai \[the\] <span class="
 | \[the\] lawless one | **<big>[[G0459\|άνομον]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | unjust one. | **<big>[[G0094\|άδικον]]</big>** |
-[[Ezek.21.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.2|<< Ezekiel 21:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.4|Ezekiel 21:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.2|<< Ezekiel 21:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.4|Ezekiel 21:4 >>]]</td></tr></table>
 
 

@@ -1,8 +1,66 @@
+---
+title: 2 Samuel 1:23
+type: Verse
+kjv: "Saul and Jonathan were lovely and pleasant in their lives, and in their death they were not divided: they were swifter than eagles, they were stronger than lions."
+bsb: "Saul and Jonathan, beloved and delightful in life, were not divided in death. They were swifter than eagles; they were stronger than lions."
+hebrew: "שָׁא֣וּל וִיהוֹנָתָ֗ן הַנֶּאֱהָבִ֤ים וְהַנְּעִימִם֙ בְּחַיֵּיהֶ֔ם וּבְמוֹתָ֖ם לֹ֣א נִפְרָ֑דוּ מִנְּשָׁרִ֣ים קַ֔לּוּ מֵאֲרָי֖וֹת גָּבֵֽרוּ׃"
+pericope: "[[2Sam.1.17 David’s Song for Saul and Jonathan|David’s Song for Saul and Jonathan]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 1
+book/chapter: "[[2Sam.1|2 Samuel 1]]"
+chronological_order: 329
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic ELEGY|ELEGY]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic SONG|SONG]]"
+strongs:
+- "[[H7586G]]"
+- "[[H9002]]"
+- "[[H3083H]]"
+- "[[H9009]]"
+- "[[H0157G]]"
+- "[[H5273A]]"
+- "[[H9003]]"
+- "[[H2416E]]"
+- "[[H9028]]"
+- "[[H4194]]"
+- "[[H3808]]"
+- "[[H6504]]"
+- "[[H9006]]"
+- "[[H5404]]"
+- "[[H7043]]"
+- "[[H0738A]]"
+- "[[H1396]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 1:23**<big><big>[[2Sam.1.17 David’s Song for Saul and Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Saul and Jonathan [were] lovely and pleasant in their lives, and in their death they were not divided: they were swifter than eagles, they were stronger than lions.
 <small><sub>**BSB:**</sub></small>
 Saul and Jonathan, beloved and delightful in life, were not divided in death. They were swifter than eagles; they were stronger than lions.
+<small><sub>**Hebrew:**</sub></small>
+[[H7586G\|שָׁא֣וּל]] [[H9002\|וִ]][[H3083H\|יהוֹנָתָ֗ן]] [[H9009\|הַ]][[H0157G\|נֶּאֱהָבִ֤ים]] [[H9002\|וְ]][[H9009\|הַ]][[H5273A\|נְּעִימִם֙]] [[H9003\|בְּ]][[H2416E\|חַיֵּי]][[H9028\|הֶ֔ם]] [[H9002\|וּ]][[H9003\|בְ]][[H4194\|מוֹתָ֖]][[H9028\|ם]] [[H3808\|לֹ֣א]] [[H6504\|נִפְרָ֑דוּ]] [[H9006\|מִ]][[H5404\|נְּשָׁרִ֣ים]] [[H7043\|קַ֔לּוּ]] [[H9006\|מֵ]][[H0738A\|אֲרָי֖וֹת]] [[H1396\|גָּבֵֽרוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic DEATH|DEATH]] • [[topic ELEGY|ELEGY]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JONATHAN|JONATHAN]] • [[topic MOURNING|MOURNING]] • [[topic POETRY|POETRY]] • [[topic SONG|SONG]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.1.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.1.22|<< 2 Samuel 1:22]]</td><td align="center" style="border:none;">[[2Sam.1|2 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.1.24|2 Samuel 1:24 >>]]</td></tr></table>
 

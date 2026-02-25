@@ -1,8 +1,55 @@
+---
+title: Proverbs 14:1
+type: Verse
+kjv: "Every wise woman buildeth her house: but the foolish plucketh it down with her hands."
+bsb: "Every wise woman builds her house, but a foolish one tears it down with her own hands."
+hebrew: "חַכְמ֣וֹת נָ֭שִׁים בָּנְתָ֣ה בֵיתָ֑הּ וְ֝אִוֶּ֗לֶת בְּיָדֶ֥יהָ תֶהֶרְסֶֽנּוּ׃"
+pericope: "[[Prov.14.1 The Wise Woman|The Wise Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 14
+book/chapter: "[[Prov.14|Proverbs 14]]"
+chronological_order: 469
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H2450]]"
+- "[[H0802G]]"
+- "[[H1129]]"
+- "[[H1004B]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H0200]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H2040]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 14:1**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every wise woman buildeth her house: but the foolish plucketh it down with her hands.
 <small><sub>**BSB:**</sub></small>
 Every wise woman builds her house, but a foolish one tears it down with her own hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H2450\|חַכְמ֣וֹת]] [[H0802G\|נָ֭שִׁים]] [[H1129\|בָּנְתָ֣ה]] [[H1004B\|בֵיתָ֑]][[H9024\|הּ]] [[H9002\|וְ֝]][[H0200\|אִוֶּ֗לֶת]] [[H9003\|בְּ]][[H3027G\|יָדֶ֥י]][[H9024\|הָ]] [[H2040\|תֶהֶרְסֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMILY|FAMILY]] • [[topic FOOL|FOOL]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.25|<< Proverbs 13:25]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.2|Proverbs 14:2 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Faith of Abraham and Sarah
+type: Pericope
 pericope: "[[Heb.11.8 The Faith of Abraham and Sarah|The Faith of Abraham and Sarah]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 11
 book/chapter: "[[Heb.11|Hebrews 11]]"
-genre:
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 12
 verses:
 - "[[Heb.11.8]]"
 - "[[Heb.11.9]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Heb.11.19]]"
 ---
 
-[[Heb.11|Hebrews 11:8 - Hebrews 11:19]]
+<small>[[Heb.11|Hebrews 11:8-19]]</small>
 *The Faith of Abraham and Sarah*
 
 [[Heb.11.8|8]] By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went.

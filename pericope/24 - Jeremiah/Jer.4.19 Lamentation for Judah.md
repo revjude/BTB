@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Lamentation for Judah
+type: Pericope
 pericope: "[[Jer.4.19 Lamentation for Judah|Lamentation for Judah]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 4
 book/chapter: "[[Jer.4|Jeremiah 4]]"
-genre:
+chronological_order: 721
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 13
 verses:
 - "[[Jer.4.19]]"
 - "[[Jer.4.20]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Jer.4.31]]"
 ---
 
-[[Jer.4|Jeremiah 4:19 - Jeremiah 4:31]]
+<small>[[Jer.4|Jeremiah 4:19-31]]</small>
 *Lamentation for Judah*
 
 [[Jer.4.19|19]] My bowels, my bowels! I am pained at my very heart; my heart maketh a noise in me; I cannot hold my peace, because thou hast heard, O my soul, the sound of the trumpet, the alarm of war.

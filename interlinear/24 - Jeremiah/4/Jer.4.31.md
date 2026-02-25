@@ -1,8 +1,69 @@
+---
+title: Jeremiah 4:31
+type: Verse
+kjv: "For I have heard a voice as of a woman in travail, and the anguish as of her that bringeth forth her first child, the voice of the daughter of Zion, that bewaileth herself, that spreadeth her hands, saying, Woe is me now! for my soul is wearied because of murderers."
+bsb: "For I hear a cry like a woman in labor, a cry of anguish like one bearing her first child—the cry of the Daughter of Zion gasping for breath, stretching out her hands to say, “Woe is me, for my soul faints before the murderers!”"
+hebrew: "כִּי֩ ק֨וֹל כְּחוֹלָ֜ה שָׁמַ֗עְתִּי צָרָה֙ כְּמַבְכִּירָ֔ה ק֧וֹל בַּת־ צִיּ֛וֹן תִּתְיַפֵּ֖חַ תְּפָרֵ֣שׂ כַּפֶּ֑יהָ אֽוֹי־ נָ֣א לִ֔י כִּֽי־ עָיְפָ֥ה נַפְשִׁ֖י לְהֹרְגִֽים׃ פ"
+pericope: "[[Jer.4.19 Lamentation for Judah|Lamentation for Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 4
+book/chapter: "[[Jer.4|Jeremiah 4]]"
+chronological_order: 721
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BIRTH|BIRTH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3588A]]"
+- "[[H6963A]]"
+- "[[H9004]]"
+- "[[H2470I]]"
+- "[[H8085G]]"
+- "[[H6869B]]"
+- "[[H1069]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H6726]]"
+- "[[H3306]]"
+- "[[H6566]]"
+- "[[H3709G]]"
+- "[[H9024]]"
+- "[[H0188]]"
+- "[[H4994]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H5888]]"
+- "[[H5315I]]"
+- "[[H9020]]"
+- "[[H2026]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Jeremiah 4:31**<big><big>[[Jer.4.19 Lamentation for Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I have heard a voice as of a woman in travail, [and] the anguish as of her that bringeth forth her first child, the voice of the daughter of Zion, [that] bewaileth herself, [that] spreadeth her hands, [saying], Woe [is] me now! for my soul is wearied because of murderers.
 <small><sub>**BSB:**</sub></small>
 For I hear a cry like a woman in labor, a cry of anguish like one bearing her first child—the cry of the Daughter of Zion gasping for breath, stretching out her hands to say, “Woe is me, for my soul faints before the murderers!”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H6963A\|ק֨וֹל]] [[H9004\|כְּ]][[H2470I\|חוֹלָ֜ה]] [[H8085G\|שָׁמַ֗עְתִּי]] [[H6869B\|צָרָה֙]] [[H9004\|כְּ]][[H1069\|מַבְכִּירָ֔ה]] [[H6963A\|ק֧וֹל]] [[H1323G\|בַּת]][[H9014\|־]] [[H6726\|צִיּ֛וֹן]] [[H3306\|תִּתְיַפֵּ֖חַ]] [[H6566\|תְּפָרֵ֣שׂ]] [[H3709G\|כַּפֶּ֑י]][[H9024\|הָ]] [[H0188\|אֽוֹי]][[H9014\|־]] [[H4994\|נָ֣א]] [[H9005\|לִ֔]][[H9030\|י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5888\|עָיְפָ֥ה]] [[H5315I\|נַפְשִׁ֖]][[H9020\|י]] [[H9005\|לְ]][[H2026\|הֹרְגִֽים]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRTH|BIRTH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.30|<< Jeremiah 4:30]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.1|Jeremiah 5:1 >>]]</td></tr></table>
 
@@ -26,7 +87,7 @@ For I hear a cry like a woman in labor, a cry of anguish like one bearing her fi
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it is weary  |**<big>&#8207;[[H5888\|עָיְפָ֥ה]]&#8207; </big>**| 'a.ye.Fah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | self my  |**<big>&#8207;[[H5315I\|נַפְשִׁ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to murderers  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2026\|הֹרְגִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ho.re.Gim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to murderers  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2026\|הֹרְגִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ho.re.Gim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.30|<< Jeremiah 4:30]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.1|Jeremiah 5:1 >>]]</td></tr></table>
 
 

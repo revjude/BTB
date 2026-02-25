@@ -1,8 +1,64 @@
+---
+title: Jonah 2:6
+type: Verse
+kjv: "I went down to the bottoms of the mountains; the earth with her bars was about me for ever: yet hast thou brought up my life from corruption, O LORD my God."
+bsb: "To the roots of the mountains I descended; the earth beneath me barred me in forever! But You raised my life from the pit, O LORD my God!"
+hebrew: "לְקִצְבֵ֤י הָרִים֙ יָרַ֔דְתִּי הָאָ֛רֶץ בְּרִחֶ֥יהָ בַעֲדִ֖י לְעוֹלָ֑ם וַתַּ֧עַל מִשַּׁ֛חַת חַיַּ֖י יְהוָ֥ה אֱלֹהָֽי׃"
+pericope: "[[Jonah.2.1 Jonah’s Prayer|Jonah’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: Jonah
+chapter: 2
+book/chapter: "[[Jonah.2|Jonah 2]]"
+chronological_order: 595
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CORRUPTION|CORRUPTION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9005]]"
+- "[[H7095]]"
+- "[[H2022G]]"
+- "[[H3381]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H1280]]"
+- "[[H9024]]"
+- "[[H1157]]"
+- "[[H9030]]"
+- "[[H5769G]]"
+- "[[H9001]]"
+- "[[H5927H]]"
+- "[[H9006]]"
+- "[[H7845G]]"
+- "[[H2416E]]"
+- "[[H9020]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jonah 2:6**<big><big>[[Jonah.2.1 Jonah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I went down to the bottoms of the mountains; the earth with her bars [was] about me for ever: yet hast thou brought up my life from corruption, O LORD my God.
 <small><sub>**BSB:**</sub></small>
 To the roots of the mountains I descended; the earth beneath me barred me in forever! But You raised my life from the pit, O LORD my God!
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H7095\|קִצְבֵ֤י]] [[H2022G\|הָרִים֙]] [[H3381\|יָרַ֔דְתִּי]] [[H9009\|הָ]][[H0776G\|אָ֛רֶץ]] [[H1280\|בְּרִחֶ֥י]][[H9024\|הָ]] [[H1157\|בַעֲדִ֖]][[H9030\|י]] [[H9005\|לְ]][[H5769G\|עוֹלָ֑ם]] [[H9001\|וַ]][[H5927H\|תַּ֧עַל]] [[H9006\|מִ]][[H7845G\|שַּׁ֛חַת]] [[H2416E\|חַיַּ֖]][[H9020\|י]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CORRUPTION|CORRUPTION]] • [[topic FAITH|FAITH]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.2.5|<< Jonah 2:5]]</td><td align="center" style="border:none;">[[Jonah.2|Jonah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.2.7|Jonah 2:7 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Jeremiah 34:2
+type: Verse
+kjv: "Thus saith the LORD, the God of Israel; Go and speak to Zedekiah king of Judah, and tell him, Thus saith the LORD; Behold, I will give this city into the hand of the king of Babylon, and he shall burn it with fire:"
+bsb: "The LORD, the God of Israel, told Jeremiah to go and speak to Zedekiah king of Judah and tell him that this is what the LORD says: “Behold, I am about to deliver this city into the hand of the king of Babylon, and he will burn it down."
+hebrew: "כֹּֽה־ אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל הָלֹךְ֙ וְאָ֣מַרְתָּ֔ אֶל־ צִדְקִיָּ֖הוּ מֶ֣לֶךְ יְהוּדָ֑ה וְאָמַרְתָּ֣ אֵלָ֗יו כֹּ֚ה אָמַ֣ר יְהוָ֔ה הִנְנִ֨י נֹתֵ֜ן אֶת־ הָעִ֤יר הַזֹּאת֙ בְּיַ֣ד מֶֽלֶךְ־ בָּבֶ֔ל וּשְׂרָפָ֖הּ בָּאֵֽשׁ׃"
+pericope: "[[Jer.34.1 A Prophecy against Zedekiah|A Prophecy against Zedekiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 34
+book/chapter: "[[Jer.34|Jeremiah 34]]"
+chronological_order: 757
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H1980G]]"
+- "[[H9001]]"
+- "[[H0413]]"
+- "[[H6667H]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H9033]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H0894]]"
+- "[[H8313]]"
+- "[[H9034]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 34:2**<big><big>[[Jer.34.1 A Prophecy against Zedekiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD, the God of Israel; Go and speak to Zedekiah king of Judah, and tell him, Thus saith the LORD; Behold, I will give this city into the hand of the king of Babylon, and he shall burn it with fire:
 <small><sub>**BSB:**</sub></small>
 The LORD, the God of Israel, told Jeremiah to go and speak to Zedekiah king of Judah and tell him that this is what the LORD says: “Behold, I am about to deliver this city into the hand of the king of Babylon, and he will burn it down.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֤ר]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H1980G\|הָלֹךְ֙]] [[H9001\|וְ]][[H0559\|אָ֣מַרְתָּ֔]] [[H0413\|אֶל]][[H9014\|־]] [[H6667H\|צִדְקִיָּ֖הוּ]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֑ה]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H5414G\|נֹתֵ֜ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֤יר]] [[H9009\|הַ]][[H2063\|זֹּאת֙]] [[H9003\|בְּ]][[H3027H\|יַ֣ד]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֔ל]] [[H9001\|וּ]][[H8313\|שְׂרָפָ֖]][[H9034\|הּ]] [[H9003\|בָּ]][[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.34.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.1|<< Jeremiah 34:1]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.3|Jeremiah 34:3 >>]]</td></tr></table>
 

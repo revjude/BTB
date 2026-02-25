@@ -1,8 +1,80 @@
+---
+title: Genesis 24:7
+type: Verse
+kjv: "The LORD God of heaven, which took me from my father’s house, and from the land of my kindred, and which spake unto me, and that sware unto me, saying, Unto thy seed will I give this land; he shall send his angel before thee, and thou shalt take a wife unto my son from thence."
+bsb: "The LORD, the God of heaven, who brought me from my father’s house and my native land, who spoke to me and promised me on oath, saying, ‘To your offspring I will give this land’—He will send His angel before you so that you can take a wife for my son from there."
+hebrew: "יְהוָ֣ה׀ אֱלֹהֵ֣י הַשָּׁמַ֗יִם אֲשֶׁ֨ר לְקָחַ֜נִי מִבֵּ֣ית אָבִי֮ וּמֵאֶ֣רֶץ מֽוֹלַדְתִּי֒ וַאֲשֶׁ֨ר דִּבֶּר־ לִ֜י וַאֲשֶׁ֤ר נִֽשְׁבַּֽע־ לִי֙ לֵאמֹ֔ר לְזַ֨רְעֲךָ֔ אֶתֵּ֖ן אֶת־ הָאָ֣רֶץ הַזֹּ֑את ה֗וּא יִשְׁלַ֤ח מַלְאָכוֹ֙ לְפָנֶ֔יךָ וְלָקַחְתָּ֥ אִשָּׁ֛ה לִבְנִ֖י מִשָּֽׁם׃"
+pericope: "[[Gen.24.1 A Wife for Isaac|A Wife for Isaac]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H0430G]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H0834A]]"
+- "[[H3947G]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H4138]]"
+- "[[H1696G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H7650]]"
+- "[[H0559]]"
+- "[[H2233H]]"
+- "[[H9021]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H2063]]"
+- "[[H1931]]"
+- "[[H7971G]]"
+- "[[H4397H]]"
+- "[[H9023]]"
+- "[[H6440G]]"
+- "[[H9001]]"
+- "[[H0802H]]"
+- "[[H1121A]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:7**<big><big>[[Gen.24.1 A Wife for Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD God of heaven, which took me from my father’s house, and from the land of my kindred, and which spake unto me, and that sware unto me, saying, Unto thy seed will I give this land; he shall send his angel before thee, and thou shalt take a wife unto my son from thence.
 <small><sub>**BSB:**</sub></small>
 The LORD, the God of heaven, who brought me from my father’s house and my native land, who spoke to me and promised me on oath, saying, ‘To your offspring I will give this land’—He will send His angel before you so that you can take a wife for my son from there.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֣ה]][[H9015\|׀]] [[H0430G\|אֱלֹהֵ֣י]] [[H9009\|הַ]][[H8064\|שָּׁמַ֗יִם]] [[H0834A\|אֲשֶׁ֨ר]] [[H3947G\|לְקָחַ֜]][[H9030\|נִי]] [[H9006\|מִ]][[H1004M\|בֵּ֣ית]] [[H0001G\|אָבִ]][[H9020\|י֮]] [[H9002\|וּ]][[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4138\|מֽוֹלַדְתִּ]][[H9020\|י֒]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֨ר]] [[H1696G\|דִּבֶּר]][[H9014\|־]] [[H9005\|לִ֜]][[H9030\|י]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֤ר]] [[H7650\|נִֽשְׁבַּֽע]][[H9014\|־]] [[H9005\|לִ]][[H9030\|י֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H9005\|לְ]][[H2233H\|זַ֨רְעֲ]][[H9021\|ךָ֔]] [[H5414G\|אֶתֵּ֖ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H1931\|ה֗וּא]] [[H7971G\|יִשְׁלַ֤ח]] [[H4397H\|מַלְאָכ]][[H9023\|וֹ֙]] [[H9005\|לְ]][[H6440G\|פָנֶ֔י]][[H9021\|ךָ]] [[H9001\|וְ]][[H3947G\|לָקַחְתָּ֥]] [[H0802H\|אִשָּׁ֛ה]] [[H9005\|לִ]][[H1121A\|בְנִ֖]][[H9020\|י]] [[H9006\|מִ]][[H8033G\|שָּֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.6|<< Genesis 24:6]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.8|Genesis 24:8 >>]]</td></tr></table>
 

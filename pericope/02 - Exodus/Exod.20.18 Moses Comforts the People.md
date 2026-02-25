@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Moses Comforts the People
+type: Pericope
 pericope: "[[Exod.20.18 Moses Comforts the People|Moses Comforts the People]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 20
 book/chapter: "[[Exod.20|Exodus 20]]"
-genre:
+chronological_order: 112
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 4
 verses:
 - "[[Exod.20.18]]"
 - "[[Exod.20.19]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Exod.20.21]]"
 ---
 
-[[Exod.20|Exodus 20:18 - Exodus 20:21]]
+<small>[[Exod.20|Exodus 20:18-21]]</small>
 *Moses Comforts the People*
 
 [[Exod.20.18|18]] And all the people saw the thunderings, and the lightnings, and the noise of the trumpet, and the mountain smoking: and when the people saw \[it\], they removed, and stood afar off.

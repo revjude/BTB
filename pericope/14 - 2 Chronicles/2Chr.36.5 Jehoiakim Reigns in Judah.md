@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jehoiakim Reigns in Judah
+type: Pericope
 pericope: "[[2Chr.36.5 Jehoiakim Reigns in Judah|Jehoiakim Reigns in Judah]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 36
 book/chapter: "[[2Chr.36|2 Chronicles 36]]"
-genre:
+chronological_order: 743
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~609–586 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 4
 verses:
 - "[[2Chr.36.5]]"
 - "[[2Chr.36.6]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Chr.36.8]]"
 ---
 
-[[2Chr.36|2 Chronicles 36:5 - 2 Chronicles 36:8]]
+<small>[[2Chr.36|2 Chronicles 36:5-8]]</small>
 *Jehoiakim Reigns in Judah*
 
 [[2Chr.36.5|5]] Jehoiakim \[was\] twenty and five years old when he began to reign, and he reigned eleven years in Jerusalem: and he did \[that which was\] evil in the sight of the LORD his God.

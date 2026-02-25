@@ -1,8 +1,60 @@
+---
+title: 1 Chronicles 23:3
+type: Verse
+kjv: "Now the Levites were numbered from the age of thirty years and upward: and their number by their polls, man by man, was thirty and eight thousand."
+bsb: "The Levites thirty years of age or older were counted, and the total number of men was 38,000."
+hebrew: "וַיִּסָּֽפְרוּ֙ הַלְוִיִּ֔ם מִבֶּ֛ן שְׁלֹשִׁ֥ים שָׁנָ֖ה וָמָ֑עְלָה וַיְהִ֨י מִסְפָּרָ֤ם לְגֻלְגְּלֹתָם֙ לִגְבָרִ֔ים שְׁלֹשִׁ֥ים וּשְׁמוֹנָ֖ה אָֽלֶף׃"
+pericope: "[[1Chr.23.1 The Divisions of the Levites|The Divisions of the Levites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 23
+book/chapter: "[[1Chr.23|1 Chronicles 23]]"
+chronological_order: 434
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H5608A]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H9006]]"
+- "[[H1121L]]"
+- "[[H7970]]"
+- "[[H8141]]"
+- "[[H9002]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H1961]]"
+- "[[H4557]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H1538]]"
+- "[[H1397]]"
+- "[[H8083]]"
+- "[[H0505G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 23:3**<big><big>[[1Chr.23.1 The Divisions of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the Levites were numbered from the age of thirty years and upward: and their number by their polls, man by man, was thirty and eight thousand.
 <small><sub>**BSB:**</sub></small>
 The Levites thirty years of age or older were counted, and the total number of men was 38,000.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5608A\|יִּסָּֽפְרוּ֙]] [[H9009\|הַ]][[H3881\|לְוִיִּ֔ם]] [[H9006\|מִ]][[H1121L\|בֶּ֛ן]] [[H7970\|שְׁלֹשִׁ֥ים]] [[H8141\|שָׁנָ֖ה]] [[H9002\|וָ]][[H4605\|מָ֑עְלָ]][[H9011\|ה]] [[H9001\|וַ]][[H1961\|יְהִ֨י]] [[H4557\|מִסְפָּרָ֤]][[H9028\|ם]] [[H9005\|לְ]][[H1538\|גֻלְגְּלֹתָ]][[H9028\|ם֙]] [[H9005\|לִ]][[H1397\|גְבָרִ֔ים]] [[H7970\|שְׁלֹשִׁ֥ים]] [[H9002\|וּ]][[H8083\|שְׁמוֹנָ֖ה]] [[H0505G\|אָֽלֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.23.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23.2|<< 1 Chronicles 23:2]]</td><td align="center" style="border:none;">[[1Chr.23|1 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.23.4|1 Chronicles 23:4 >>]]</td></tr></table>
 

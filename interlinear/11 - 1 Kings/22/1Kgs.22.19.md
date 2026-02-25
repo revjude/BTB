@@ -1,8 +1,71 @@
+---
+title: 1 Kings 22:19
+type: Verse
+kjv: "And he said, Hear thou therefore the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing by him on his right hand and on his left."
+bsb: "Micaiah continued, “Therefore hear the word of the LORD: I saw the LORD sitting on His throne, and all the host of heaven standing by Him on His right and on His left."
+hebrew: "וַיֹּ֕אמֶר לָכֵ֖ן שְׁמַ֣ע דְּבַר־ יְהוָ֑ה רָאִ֤יתִי אֶת־ יְהוָה֙ יֹשֵׁ֣ב עַל־ כִּסְא֔וֹ וְכָל־ צְבָ֤א הַשָּׁמַ֙יִם֙ עֹמֵ֣ד עָלָ֔יו מִימִינ֖וֹ וּמִשְּׂמֹאלֽוֹ׃"
+pericope: "[[1Kgs.22.13 Micaiah Prophesies against Ahab|Micaiah Prophesies against Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 22
+book/chapter: "[[1Kgs.22|1 Kings 22]]"
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic MICAIAH|MICAIAH]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H8085G]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H3678G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H6635A]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H5975G]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H3225G]]"
+- "[[H8040G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 22:19**<big><big>[[1Kgs.22.13 Micaiah Prophesies against Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Hear thou therefore the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing by him on his right hand and on his left.
 <small><sub>**BSB:**</sub></small>
 Micaiah continued, “Therefore hear the word of the LORD: I saw the LORD sitting on His throne, and all the host of heaven standing by Him on His right and on His left.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H9005\|לָ]][[H3651C\|כֵ֖ן]] [[H8085G\|שְׁמַ֣ע]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H7200G\|רָאִ֤יתִי]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H3427\|יֹשֵׁ֣ב]] [[H5921A\|עַל]][[H9014\|־]] [[H3678G\|כִּסְא֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H6635A\|צְבָ֤א]] [[H9009\|הַ]][[H8064\|שָּׁמַ֙יִם֙]] [[H5975G\|עֹמֵ֣ד]] [[H5921A\|עָלָ֔י]][[H9033\|ו]] [[H9006\|מִ]][[H3225G\|ימִינ֖]][[H9023\|וֹ]] [[H9002\|וּ]][[H9006\|מִ]][[H8040G\|שְּׂמֹאלֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic ARMIES|ARMIES]] • [[topic MICAIAH|MICAIAH]] • [[topic REPROOF|REPROOF]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.18|<< 1 Kings 22:18]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.20|1 Kings 22:20 >>]]</td></tr></table>
 

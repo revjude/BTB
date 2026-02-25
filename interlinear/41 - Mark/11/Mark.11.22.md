@@ -1,10 +1,53 @@
+---
+title: Mark 11:22
+type: Verse
+kjv: "And Jesus answering saith unto them, Have faith in God."
+bsb: "“Have faith in God,” Jesus said to them."
+jesus_said: "Have faith in God."
+greek: "Καὶ ἀποκριθεὶς ὁ Ἰησοῦς λέγει αὐτοῖς· ἔχετε πίστιν θεοῦ."
+pericope: "[[Mark.11.20 The Withered Fig Tree|The Withered Fig Tree]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 11
+book/chapter: "[[Mark.11|Mark 11]]"
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G2192]]"
+- "[[G4102G]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Mark 11:22**<big><big>[[Mark.11.20 The Withered Fig Tree|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus answering saith unto them, Have faith in God.
 <small><sub>**BSB:**</sub></small>
 “Have faith in God,” Jesus said to them.
-<small><sub>**Literal:**</sub></small>
-And answering <the> Jesus says to them; do have faith from God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.21|<< Mark 11:21]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.23|Mark 11:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0611\|ἀποκριθεὶς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G2192\|ἔχετε]]  [[G4102G\|πίστιν]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.21|<< Mark 11:21]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.23|Mark 11:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

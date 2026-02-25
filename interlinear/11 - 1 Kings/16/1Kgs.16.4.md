@@ -1,8 +1,58 @@
+---
+title: 1 Kings 16:4
+type: Verse
+kjv: "Him that dieth of Baasha in the city shall the dogs eat; and him that dieth of his in the fields shall the fowls of the air eat."
+bsb: "Anyone belonging to Baasha who dies in the city will be eaten by dogs, and anyone who dies in the field will be eaten by the birds of the air.”"
+hebrew: "הַמֵּ֤ת לְבַעְשָׁא֙ בָּעִ֔יר יֹֽאכְל֖וּ הַכְּלָבִ֑ים וְהַמֵּ֥ת לוֹ֙ בַּשָּׂדֶ֔ה יֹאכְל֖וּ ע֥וֹף הַשָּׁמָֽיִם׃"
+pericope: "[[1Kgs.16.1 Jehu’s Prophecy against Baasha|Jehu’s Prophecy against Baasha]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 16
+book/chapter: "[[1Kgs.16|1 Kings 16]]"
+chronological_order: 555
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic BAASHA|BAASHA]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+strongs:
+- "[[H9009]]"
+- "[[H4191]]"
+- "[[H9005]]"
+- "[[H1201]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H0398]]"
+- "[[H3611]]"
+- "[[H9002]]"
+- "[[H9033]]"
+- "[[H7704G]]"
+- "[[H5775]]"
+- "[[H8064]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 16:4**<big><big>[[1Kgs.16.1 Jehu’s Prophecy against Baasha|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Him that dieth of Baasha in the city shall the dogs eat; and him that dieth of his in the fields shall the fowls of the air eat.
 <small><sub>**BSB:**</sub></small>
 Anyone belonging to Baasha who dies in the city will be eaten by dogs, and anyone who dies in the field will be eaten by the birds of the air.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H4191\|מֵּ֤ת]] [[H9005\|לְ]][[H1201\|בַעְשָׁא֙]] [[H9003\|בָּ]][[H5892B\|עִ֔יר]] [[H0398\|יֹֽאכְל֖וּ]] [[H9009\|הַ]][[H3611\|כְּלָבִ֑ים]] [[H9002\|וְ]][[H9009\|הַ]][[H4191\|מֵּ֥ת]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶ֔ה]] [[H0398\|יֹאכְל֖וּ]] [[H5775\|ע֥וֹף]] [[H9009\|הַ]][[H8064\|שָּׁמָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic BAASHA|BAASHA]] • [[topic GOVERNMENT|GOVERNMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.16.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.3|<< 1 Kings 16:3]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.5|1 Kings 16:5 >>]]</td></tr></table>
 

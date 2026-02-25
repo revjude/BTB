@@ -1,8 +1,60 @@
+---
+title: Ezekiel 10:9
+type: Verse
+kjv: "And when I looked, behold the four wheels by the cherubims, one wheel by one cherub, and another wheel by another cherub: and the appearance of the wheels was as the colour of a beryl stone."
+bsb: "Then I looked and saw four wheels beside the cherubim, one wheel beside each cherub. And the wheels gleamed like a beryl stone."
+hebrew: "וָאֶרְאֶ֗ה וְהִנֵּ֨ה אַרְבָּעָ֣ה אוֹפַנִּים֮ אֵ֣צֶל הַכְּרוּבִים֒ אוֹפַ֣ן אֶחָ֗ד אֵ֚צֶל הַכְּר֣וּב אֶחָ֔ד וְאוֹפַ֣ן אֶחָ֔ד אֵ֖צֶל הַכְּר֣וּב אֶחָ֑ד וּמַרְאֵה֙ הָא֣וֹפַנִּ֔ים כְּעֵ֖ין אֶ֥בֶן תַּרְשִֽׁישׁ׃"
+pericope: "[[Ezek.10.1 God’s Glory Exits the Temple|God’s Glory Exits the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 10
+book/chapter: "[[Ezek.10|Ezekiel 10]]"
+chronological_order: 801
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BERYL|BERYL]]"
+- "[[topic WHEEL|WHEEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0702]]"
+- "[[H0212]]"
+- "[[H0681]]"
+- "[[H9009]]"
+- "[[H3742]]"
+- "[[H0259]]"
+- "[[H4758]]"
+- "[[H9004]]"
+- "[[H5869I]]"
+- "[[H0068G]]"
+- "[[H8658]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 10:9**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when I looked, behold the four wheels by the cherubims, one wheel by one cherub, and another wheel by another cherub: and the appearance of the wheels [was] as the colour of a beryl stone.
 <small><sub>**BSB:**</sub></small>
 Then I looked and saw four wheels beside the cherubim, one wheel beside each cherub. And the wheels gleamed like a beryl stone.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H7200G\|אֶרְאֶ֗ה]] [[H9002\|וְ]][[H2009\|הִנֵּ֨ה]] [[H0702\|אַרְבָּעָ֣ה]] [[H0212\|אוֹפַנִּים֮]] [[H0681\|אֵ֣צֶל]] [[H9009\|הַ]][[H3742\|כְּרוּבִים֒]] [[H0212\|אוֹפַ֣ן]] [[H0259\|אֶחָ֗ד]] [[H0681\|אֵ֚צֶל]] [[H9009\|הַ]][[H3742\|כְּר֣וּב]] [[H0259\|אֶחָ֔ד]] [[H9002\|וְ]][[H0212\|אוֹפַ֣ן]] [[H0259\|אֶחָ֔ד]] [[H0681\|אֵ֖צֶל]] [[H9009\|הַ]][[H3742\|כְּר֣וּב]] [[H0259\|אֶחָ֑ד]] [[H9002\|וּ]][[H4758\|מַרְאֵה֙]] [[H9009\|הָ]][[H0212\|א֣וֹפַנִּ֔ים]] [[H9004\|כְּ]][[H5869I\|עֵ֖ין]] [[H0068G\|אֶ֥בֶן]] [[H8658\|תַּרְשִֽׁישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BERYL|BERYL]] • [[topic WHEEL|WHEEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.8|<< Ezekiel 10:8]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.10|Ezekiel 10:10 >>]]</td></tr></table>
 

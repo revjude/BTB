@@ -1,8 +1,65 @@
+---
+title: Deuteronomy 22:27
+type: Verse
+kjv: "For he found her in the field, and the betrothed damsel cried, and there was none to save her."
+bsb: "When he found her in the field, the betrothed woman cried out, but there was no one to save her."
+hebrew: "כִּ֥י בַשָּׂדֶ֖ה מְצָאָ֑הּ צָעֲקָ֗ה הַֽנַּעֲרָה֙ הַמְאֹ֣רָשָׂ֔ה וְאֵ֥ין מוֹשִׁ֖יעַ לָֽהּ׃ ס"
+pericope: "[[Deut.22.13 Marriage Violations|Marriage Violations]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 22
+book/chapter: "[[Deut.22|Deuteronomy 22]]"
+chronological_order: 218
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic RAPE|RAPE]]"
+- "[[topic SEDUCTION|SEDUCTION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H4672]]"
+- "[[H9034]]"
+- "[[H6817]]"
+- "[[H9009]]"
+- "[[H5291]]"
+- "[[H0781]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H3467]]"
+- "[[H9005]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(k)
+---
+
 **Deuteronomy 22:27**<big><big>[[Deut.22.13 Marriage Violations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he found her in the field, [and] the betrothed damsel cried, and [there was] none to save her.
 <small><sub>**BSB:**</sub></small>
 When he found her in the field, the betrothed woman cried out, but there was no one to save her.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֥י]] [[H9003\|בַ]][[H7704G\|שָּׂדֶ֖ה]] [[H4672\|מְצָאָ֑]][[H9034\|הּ]] [[H6817\|צָעֲקָ֗ה]] [[H9009\|הַֽ]][[H5291\|נַּעֲרָה֙]] [[H9009\|הַ]][[H0781\|מְאֹ֣רָשָׂ֔ה]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H3467\|מוֹשִׁ֖יעַ]] [[H9005\|לָֽ]][[H9034\|הּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHURCH|CHURCH]] • [[topic RAPE|RAPE]] • [[topic SEDUCTION|SEDUCTION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.26|<< Deuteronomy 22:26]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.28|Deuteronomy 22:28 >>]]</td></tr></table>
 
@@ -16,7 +73,7 @@ When he found her in the field, the betrothed woman cried out, but there was no 
 | \<the> betrothed  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H0781\|מְאֹ֣רָשָׂ֔ה]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> m.'O.ra.Sah<small><sup>[[HVPsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0369\|אֵ֥ין]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a deliverer  |**<big>&#8207;[[H3467\|מוֹשִׁ֖יעַ]]&#8207; </big>**| mo.Shi.a'<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [belonged] to \<the> her  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| La<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belonged] to \<the> her  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| La<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.26|<< Deuteronomy 22:26]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.28|Deuteronomy 22:28 >>]]</td></tr></table>
 
 [^1]: L spelled: **<span class="ashebrew"><big>הַֽנַּעֲרָ֙</big></span>**

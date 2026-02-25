@@ -1,8 +1,48 @@
+---
+title: Hosea 12:5
+type: Verse
+kjv: "Even the LORD God of hosts; the LORD is his memorial."
+bsb: "the LORD God of Hosts, the LORD is His name of renown."
+hebrew: "וַֽיהוָ֖ה אֱלֹהֵ֣י הַצְּבָא֑וֹת יְהוָ֖ה זִכְרֽוֹ׃"
+pericope: "[[Hos.12.1 A Reproof of Ephraim, Judah, and Jacob|A Reproof of Ephraim, Judah, and Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 12
+book/chapter: "[[Hos.12|Hosea 12]]"
+chronological_order: 653
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9009]]"
+- "[[H6635B]]"
+- "[[H2143]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 12:5**<big><big>[[Hos.12.1 A Reproof of Ephraim, Judah, and Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even the LORD God of hosts; the LORD [is] his memorial.
 <small><sub>**BSB:**</sub></small>
 the LORD God of Hosts, the LORD is His name of renown.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַֽ]][[H3068G\|יהוָ֖ה]] [[H0430G\|אֱלֹהֵ֣י]] [[H9009\|הַ]][[H6635B\|צְּבָא֑וֹת]] [[H3068G\|יְהוָ֖ה]] [[H2143\|זִכְרֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.12.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.12.4|<< Hosea 12:4]]</td><td align="center" style="border:none;">[[Hos.12|Hosea 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.12.6|Hosea 12:6 >>]]</td></tr></table>
 

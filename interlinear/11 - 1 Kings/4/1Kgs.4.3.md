@@ -1,8 +1,65 @@
+---
+title: 1 Kings 4:3
+type: Verse
+kjv: "Elihoreph and Ahiah, the sons of Shisha, scribes; Jehoshaphat the son of Ahilud, the recorder."
+bsb: "Elihoreph and Ahijah, the sons of Shisha, were secretaries; Jehoshaphat son of Ahilud was the recorder;"
+hebrew: "אֱלִיחֹ֧רֶף וַאֲחִיָּ֛ה בְּנֵ֥י שִׁישָׁ֖א סֹפְרִ֑ים יְהוֹשָׁפָ֥ט בֶּן־ אֲחִיל֖וּד הַמַּזְכִּֽיר׃"
+pericope: "[[1Kgs.4.1 Solomon’s Princes|Solomon’s Princes]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 4
+book/chapter: "[[1Kgs.4|1 Kings 4]]"
+chronological_order: 444
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHIAH|AHIAH]]"
+- "[[topic AHIJAH|AHIJAH]]"
+- "[[topic AHILUD|AHILUD]]"
+- "[[topic CABINET|CABINET]]"
+- "[[topic ELIHOREPH|ELIHOREPH]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic KING|KING]]"
+- "[[topic OFFICER|OFFICER]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+- "[[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]]"
+- "[[topic SERAIAH|SERAIAH]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H0456]]"
+- "[[H9002]]"
+- "[[H0281G]]"
+- "[[H1121A]]"
+- "[[H7894]]"
+- "[[H5608B]]"
+- "[[H3092G]]"
+- "[[H9014]]"
+- "[[H0286]]"
+- "[[H9009]]"
+- "[[H2142]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 4:3**<big><big>[[1Kgs.4.1 Solomon’s Princes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Elihoreph and Ahiah, the sons of Shisha, scribes; Jehoshaphat the son of Ahilud, the recorder.
 <small><sub>**BSB:**</sub></small>
 Elihoreph and Ahijah, the sons of Shisha, were secretaries; Jehoshaphat son of Ahilud was the recorder;
+<small><sub>**Hebrew:**</sub></small>
+[[H0456\|אֱלִיחֹ֧רֶף]] [[H9002\|וַ]][[H0281G\|אֲחִיָּ֛ה]] [[H1121A\|בְּנֵ֥י]] [[H7894\|שִׁישָׁ֖א]] [[H5608B\|סֹפְרִ֑ים]] [[H3092G\|יְהוֹשָׁפָ֥ט]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0286\|אֲחִיל֖וּד]] [[H9009\|הַ]][[H2142\|מַּזְכִּֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIAH|AHIAH]] • [[topic AHIJAH|AHIJAH]] • [[topic AHILUD|AHILUD]] • [[topic CABINET|CABINET]] • [[topic ELIHOREPH|ELIHOREPH]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic KING|KING]] • [[topic OFFICER|OFFICER]] • [[topic SCRIBE (S)|SCRIBE (S)]] • [[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]] • [[topic SERAIAH|SERAIAH]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.2|<< 1 Kings 4:2]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.4|1 Kings 4:4 >>]]</td></tr></table>
 

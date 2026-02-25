@@ -1,9 +1,9 @@
 
 **GILEAD**
 
-1. A region east of the Jordan River allotted to the tribes of  Reuben and Gad and the half tribe of Manasseh [[Num.32.1|Nu 32:1]]-[[Num.32.30|30]]; [[Deut.3.13|De 3:13]]; [[Deut.34.1|34:1]];  [[2Kgs.10.33|2Ki 10:33]]
+1. A region east of the Jordan River allotted to the tribes of  Reuben and Gad and the half tribe of Manasseh [[Num.32.1|Nu 32:1-30]]; [[Deut.3.13|De 3:13]]; [[Deut.34.1|34:1]];  [[2Kgs.10.33|2Ki 10:33]]
 
-- Reubenites expel the Hagarites from [[1Chr.5.9|1Ch 5:9]],[[1Chr.5.10|10]],[[1Chr.5.18|18]]-[[1Chr.5.22|22]]
+- Reubenites expel the Hagarites from [[1Chr.5.9|1Ch 5:9]],[[1Chr.5.10|10]],[[1Chr.5.18|18-22]]
 
 - Ammonites make war against; defeated by Jephthah [[Judg.11|Jud  11]]
 
@@ -29,7 +29,7 @@
 
 2. A mountain [[Judg.7.3|Jud 7:3]]; [[Song.4.1|So 4:1]]; [[Song.6.5|6:5]]
 
-- Laban overtakes Jacob at [[Gen.31.21|Ge 31:21]]-[[Gen.31.25|25]]
+- Laban overtakes Jacob at [[Gen.31.21|Ge 31:21-25]]
 
 3. A city [[Hos.6.8|Ho 6:8]]; [[Hos.12.11|12:11]]
 

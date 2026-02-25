@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Flourishing of the Righteous
+type: Pericope
 pericope: "[[Prov.29.1 The Flourishing of the Righteous|The Flourishing of the Righteous]]"
-verse_count: 27
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 29
 book/chapter: "[[Prov.29|Proverbs 29]]"
-genre:
+chronological_order: 484
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 27
 verses:
 - "[[Prov.29.1]]"
 - "[[Prov.29.2]]"
@@ -45,7 +52,7 @@ verses:
 - "[[Prov.29.27]]"
 ---
 
-[[Prov.29|Proverbs 29:1 - Proverbs 29:27]]
+<small>[[Prov.29|Proverbs 29:1-27]]</small>
 *The Flourishing of the Righteous*
 
 [[Prov.29.1|1]] He, that being often reproved hardeneth \[his\] neck, shall suddenly be destroyed, and that without remedy.

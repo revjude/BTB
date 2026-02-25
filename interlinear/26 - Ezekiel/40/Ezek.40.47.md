@@ -1,8 +1,57 @@
+---
+title: Ezekiel 40:47
+type: Verse
+kjv: "So he measured the court, an hundred cubits long, and an hundred cubits broad, foursquare; and the altar that was before the house."
+bsb: "Next he measured the court. It was square, a hundred cubits long and a hundred cubits wide. And the altar was in front of the temple."
+hebrew: "וַיָּ֨מָד אֶת־ הֶחָצֵ֜ר אֹ֣רֶךְ׀ מֵאָ֣ה אַמָּ֗ה וְרֹ֛חַב מֵאָ֥ה אַמָּ֖ה מְרֻבָּ֑עַת וְהַמִּזְבֵּ֖חַ לִפְנֵ֥י הַבָּֽיִת׃"
+pericope: "[[Ezek.40.47 The Inner Court|The Inner Court]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 40
+book/chapter: "[[Ezek.40|Ezekiel 40]]"
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H4058]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2691A]]"
+- "[[H0753]]"
+- "[[H9015]]"
+- "[[H3967]]"
+- "[[H0520A]]"
+- "[[H9002]]"
+- "[[H7341]]"
+- "[[H7251]]"
+- "[[H4196]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H1004B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 40:47**<big><big>[[Ezek.40.47 The Inner Court|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So he measured the court, an hundred cubits long, and an hundred cubits broad, foursquare; and the altar [that was] before the house.
 <small><sub>**BSB:**</sub></small>
 Next he measured the court. It was square, a hundred cubits long and a hundred cubits wide. And the altar was in front of the temple.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4058\|יָּ֨מָד]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הֶ]][[H2691A\|חָצֵ֜ר]] [[H0753\|אֹ֣רֶךְ]][[H9015\|׀]] [[H3967\|מֵאָ֣ה]] [[H0520A\|אַמָּ֗ה]] [[H9002\|וְ]][[H7341\|רֹ֛חַב]] [[H3967\|מֵאָ֥ה]] [[H0520A\|אַמָּ֖ה]] [[H7251\|מְרֻבָּ֑עַת]] [[H9002\|וְ]][[H9009\|הַ]][[H4196\|מִּזְבֵּ֖חַ]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הַ]][[H1004B\|בָּֽיִת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.46|<< Ezekiel 40:46]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.48|Ezekiel 40:48 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

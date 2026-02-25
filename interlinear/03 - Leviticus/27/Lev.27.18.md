@@ -1,8 +1,76 @@
+---
+title: Leviticus 27:18
+type: Verse
+kjv: "But if he sanctify his field after the jubile, then the priest shall reckon unto him the money according to the years that remain, even unto the year of the jubile, and it shall be abated from thy estimation."
+bsb: "But if he consecrates his field after the Jubilee, the priest is to calculate the price in proportion to the years left until the next Year of Jubilee, so that your valuation will be reduced."
+hebrew: "וְאִם־ אַחַ֣ר הַיֹּבֵל֮ יַקְדִּ֣ישׁ שָׂדֵהוּ֒ וְחִשַּׁב־ ל֨וֹ הַכֹּהֵ֜ן אֶת־ הַכֶּ֗סֶף עַל־ פִּ֤י הַשָּׁנִים֙ הַנּ֣וֹתָרֹ֔ת עַ֖ד שְׁנַ֣ת הַיֹּבֵ֑ל וְנִגְרַ֖ע מֵֽעֶרְכֶּֽךָ׃"
+pericope: "[[Lev.27.1 Rules about Valuations|Rules about Valuations]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 27
+book/chapter: "[[Lev.27|Leviticus 27]]"
+chronological_order: 159
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H0310A]]"
+- "[[H9009]]"
+- "[[H3104]]"
+- "[[H6942H]]"
+- "[[H7704G]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H2803H]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3548]]"
+- "[[H0853]]"
+- "[[H3701H]]"
+- "[[H5921A]]"
+- "[[H6310K]]"
+- "[[H8141]]"
+- "[[H3498]]"
+- "[[H5704]]"
+- "[[H1639]]"
+- "[[H9006]]"
+- "[[H6187]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 27:18**<big><big>[[Lev.27.1 Rules about Valuations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if he sanctify his field after the jubile, then the priest shall reckon unto him the money according to the years that remain, even unto the year of the jubile, and it shall be abated from thy estimation.
 <small><sub>**BSB:**</sub></small>
 But if he consecrates his field after the Jubilee, the priest is to calculate the price in proportion to the years left until the next Year of Jubilee, so that your valuation will be reduced.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H0310A\|אַחַ֣ר]] [[H9009\|הַ]][[H3104\|יֹּבֵל֮]] [[H6942H\|יַקְדִּ֣ישׁ]] [[H7704G\|שָׂדֵ]][[H9023\|הוּ֒]] [[H9001\|וְ]][[H2803H\|חִשַּׁב]][[H9014\|־]] [[H9005\|ל֨]][[H9033\|וֹ]] [[H9009\|הַ]][[H3548\|כֹּהֵ֜ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3701H\|כֶּ֗סֶף]] [[H5921A\|עַל]][[H9014\|־]] [[H6310K\|פִּ֤י]] [[H9009\|הַ]][[H8141\|שָּׁנִים֙]] [[H9009\|הַ]][[H3498\|נּ֣וֹתָרֹ֔ת]] [[H5704\|עַ֖ד]] [[H8141\|שְׁנַ֣ת]] [[H9009\|הַ]][[H3104\|יֹּבֵ֑ל]] [[H9001\|וְ]][[H1639\|נִגְרַ֖ע]] [[H9006\|מֵֽ]][[H6187\|עֶרְכֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUBILEE|JUBILEE]] • [[topic LAND|LAND]] • [[topic MONEY|MONEY]] • [[topic PROPERTY|PROPERTY]] • [[topic REDEMPTION|REDEMPTION]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.17|<< Leviticus 27:17]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.19|Leviticus 27:19 >>]]</td></tr></table>
 

@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Principles of Marriage
+type: Pericope
 pericope: "[[1Cor.7.1 Principles of Marriage|Principles of Marriage]]"
-verse_count: 16
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 7
 book/chapter: "[[1Cor.7|1 Corinthians 7]]"
-genre:
+chronological_order: 1064
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 16
 verses:
 - "[[1Cor.7.1]]"
 - "[[1Cor.7.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[1Cor.7.16]]"
 ---
 
-[[1Cor.7|1 Corinthians 7:1 - 1 Corinthians 7:16]]
+<small>[[1Cor.7|1 Corinthians 7:1-16]]</small>
 *Principles of Marriage*
 
 [[1Cor.7.1|1]] Now concerning the things whereof ye wrote unto me: \[It is\] good for a man not to touch a woman.

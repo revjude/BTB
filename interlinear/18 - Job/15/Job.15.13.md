@@ -1,8 +1,56 @@
+---
+title: Job 15:13
+type: Verse
+kjv: "That thou turnest thy spirit against God, and lettest such words go out of thy mouth?"
+bsb: "so that you turn your spirit against God and pour such words from your mouth?"
+hebrew: "כִּֽי־ תָשִׁ֣יב אֶל־ אֵ֣ל רוּחֶ֑ךָ וְהֹצֵ֖אתָ מִפִּ֣יךָ מִלִּֽין׃"
+pericope: "[[Job.15.1 Eliphaz：Job Does Not Fear God|Eliphaz：Job Does Not Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 15
+book/chapter: "[[Job.15|Job 15]]"
+chronological_order: 26
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7725I]]"
+- "[[H0413]]"
+- "[[H0410G]]"
+- "[[H7307G]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H3318O]]"
+- "[[H9006]]"
+- "[[H6310G]]"
+- "[[H4405]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 15:13**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That thou turnest thy spirit against God, and lettest [such] words go out of thy mouth?
 <small><sub>**BSB:**</sub></small>
 so that you turn your spirit against God and pour such words from your mouth?
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H7725I\|תָשִׁ֣יב]] [[H0413\|אֶל]][[H9014\|־]] [[H0410G\|אֵ֣ל]] [[H7307G\|רוּחֶ֑]][[H9021\|ךָ]] [[H9001\|וְ]][[H3318O\|הֹצֵ֖אתָ]] [[H9006\|מִ]][[H6310G\|פִּ֣י]][[H9021\|ךָ]] [[H4405\|מִלִּֽין]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic MURMURING|MURMURING]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.12|<< Job 15:12]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.14|Job 15:14 >>]]</td></tr></table>
 

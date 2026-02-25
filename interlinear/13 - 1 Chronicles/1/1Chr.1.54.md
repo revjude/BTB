@@ -1,8 +1,51 @@
+---
+title: 1 Chronicles 1:54
+type: Verse
+kjv: "Duke Magdiel, duke Iram. These are the dukes of Edom."
+bsb: "Magdiel, and Iram. These were the chiefs of Edom."
+hebrew: "אַלּ֥וּף מַגְדִּיאֵ֖ל אַלּ֣וּף עִירָ֑ם אֵ֖לֶּה אַלּוּפֵ֥י אֱדֽוֹם׃ פ"
+pericope: "[[1Chr.1.43 The Kings of Edom|The Kings of Edom]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 1
+book/chapter: "[[1Chr.1|1 Chronicles 1]]"
+chronological_order: 320
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DUKE|DUKE]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic IRAM|IRAM]]"
+- "[[topic SHEM|SHEM]]"
+strongs:
+- "[[H0441B]]"
+- "[[H4025]]"
+- "[[H5902]]"
+- "[[H0428]]"
+- "[[H0123H]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Chronicles 1:54**<big><big>[[1Chr.1.43 The Kings of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Duke Magdiel, duke Iram. These [are] the dukes of Edom.
 <small><sub>**BSB:**</sub></small>
 Magdiel, and Iram. These were the chiefs of Edom.
+<small><sub>**Hebrew:**</sub></small>
+[[H0441B\|אַלּ֥וּף]] [[H4025\|מַגְדִּיאֵ֖ל]] [[H0441B\|אַלּ֣וּף]] [[H5902\|עִירָ֑ם]] [[H0428\|אֵ֖לֶּה]] [[H0441B\|אַלּוּפֵ֥י]] [[H0123H\|אֱדֽוֹם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DUKE|DUKE]] • [[topic EDOMITES|EDOMITES]] • [[topic GENEALOGY|GENEALOGY]] • [[topic IRAM|IRAM]] • [[topic SHEM|SHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.1.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.53|<< 1 Chronicles 1:53]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.1|1 Chronicles 2:1 >>]]</td></tr></table>
 
@@ -14,7 +57,7 @@ Magdiel, and Iram. These were the chiefs of Edom.
 | Iram  |**<big>&#8207;[[H5902\|עִירָ֑ם]]&#8207; </big>**| 'i.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | these  |**<big>&#8207;[[H0428\|אֵ֖לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] [the] chiefs of  |**<big>&#8207;[[H0441B\|אַלּוּפֵ֥י]]&#8207; </big>**| 'a.lu.Fei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Edom  |**<big>&#8207;[[H0123H\|אֱדֽוֹם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'e.Dom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Edom  |**<big>&#8207;[[H0123H\|אֱדֽוֹם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'e.Dom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.53|<< 1 Chronicles 1:53]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.1|1 Chronicles 2:1 >>]]</td></tr></table>
 
 

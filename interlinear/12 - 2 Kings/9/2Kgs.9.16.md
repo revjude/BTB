@@ -1,8 +1,68 @@
+---
+title: 2 Kings 9:16
+type: Verse
+kjv: "So Jehu rode in a chariot, and went to Jezreel; for Joram lay there. And Ahaziah king of Judah was come down to see Joram."
+bsb: "Then Jehu got into his chariot and went to Jezreel, because Joram was laid up there. And Ahaziah king of Judah had gone down to see him."
+hebrew: "וַיִּרְכַּ֤ב יֵהוּא֙ וַיֵּ֣לֶךְ יִזְרְעֶ֔אלָה כִּ֥י יוֹרָ֖ם שֹׁכֵ֣ב שָׁ֑מָּה וַֽאֲחַזְיָה֙ מֶ֣לֶךְ יְהוּדָ֔ה יָרַ֖ד לִרְא֥וֹת אֶת־ יוֹרָֽם׃"
+pericope: "[[2Kgs.9.14 Jehu Kills Joram and Ahaziah|Jehu Kills Joram and Ahaziah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 9
+book/chapter: "[[2Kgs.9|2 Kings 9]]"
+chronological_order: 582
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAZIAH|AHAZIAH]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic JEZREEL|JEZREEL]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7392]]"
+- "[[H3058H]]"
+- "[[H1980G]]"
+- "[[H3157H]]"
+- "[[H9011]]"
+- "[[H3588A]]"
+- "[[H3141H]]"
+- "[[H7901G]]"
+- "[[H8033G]]"
+- "[[H9002]]"
+- "[[H0274H]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H3381]]"
+- "[[H9005]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 9:16**<big><big>[[2Kgs.9.14 Jehu Kills Joram and Ahaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Jehu rode in a chariot, and went to Jezreel; for Joram lay there. And Ahaziah king of Judah was come down to see Joram.
 <small><sub>**BSB:**</sub></small>
 Then Jehu got into his chariot and went to Jezreel, because Joram was laid up there. And Ahaziah king of Judah had gone down to see him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7392\|יִּרְכַּ֤ב]] [[H3058H\|יֵהוּא֙]] [[H9001\|וַ]][[H1980G\|יֵּ֣לֶךְ]] [[H3157H\|יִזְרְעֶ֔אלָ]][[H9011\|ה]] [[H3588A\|כִּ֥י]] [[H3141H\|יוֹרָ֖ם]] [[H7901G\|שֹׁכֵ֣ב]] [[H8033G\|שָׁ֑מָּ]][[H9011\|ה]] [[H9002\|וַֽ]][[H0274H\|אֲחַזְיָה֙]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֔ה]] [[H3381\|יָרַ֖ד]] [[H9005\|לִ]][[H7200G\|רְא֥וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H3141H\|יוֹרָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZIAH|AHAZIAH]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DECISION|DECISION]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JEHU|JEHU]] • [[topic JEZREEL|JEZREEL]] • [[topic JORAM|JORAM]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.15|<< 2 Kings 9:15]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.17|2 Kings 9:17 >>]]</td></tr></table>
 

@@ -1,8 +1,51 @@
+---
+title: Ezekiel 41:24
+type: Verse
+kjv: "And the doors had two leaves apiece, two turning leaves; two leaves for the one door, and two leaves for the other door."
+bsb: "and each door had two swinging panels. There were two panels for one door and two for the other."
+hebrew: "וּשְׁתַּ֥יִם דְּלָת֖וֹת לַדְּלָת֑וֹת שְׁ֚תַּיִם מוּסַבּ֣וֹת דְּלָת֔וֹת שְׁ֚תַּיִם לְדֶ֣לֶת אֶחָ֔ת וּשְׁתֵּ֥י דְלָת֖וֹת לָאַחֶֽרֶת׃"
+pericope: "[[Ezek.41.15 The Interior Structures|The Interior Structures]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 41
+book/chapter: "[[Ezek.41|Ezekiel 41]]"
+chronological_order: 832
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GATES|GATES]]"
+strongs:
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H1817C]]"
+- "[[H9005]]"
+- "[[H5437G]]"
+- "[[H0259]]"
+- "[[H0312]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 41:24**<big><big>[[Ezek.41.15 The Interior Structures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the doors had two leaves [apiece], two turning leaves; two [leaves] for the one door, and two leaves for the other [door].
 <small><sub>**BSB:**</sub></small>
 and each door had two swinging panels. There were two panels for one door and two for the other.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H8147\|שְׁתַּ֥יִם]] [[H1817C\|דְּלָת֖וֹת]] [[H9005\|לַ]][[H1817C\|דְּלָת֑וֹת]] [[H8147\|שְׁ֚תַּיִם]] [[H5437G\|מוּסַבּ֣וֹת]] [[H1817C\|דְּלָת֔וֹת]] [[H8147\|שְׁ֚תַּיִם]] [[H9005\|לְ]][[H1817C\|דֶ֣לֶת]] [[H0259\|אֶחָ֔ת]] [[H9002\|וּ]][[H8147\|שְׁתֵּ֥י]] [[H1817C\|דְלָת֖וֹת]] [[H9005\|לָ]][[H0312\|אַחֶֽרֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GATES|GATES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.23|<< Ezekiel 41:23]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.25|Ezekiel 41:25 >>]]</td></tr></table>
 

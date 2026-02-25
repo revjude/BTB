@@ -1,10 +1,52 @@
+---
+title: Ephesians 6:3
+type: Verse
+kjv: "That it may be well with thee, and thou mayest live long on the earth."
+bsb: "“that it may go well with you and that you may have a long life on the earth.”"
+greek: "ἵνα εὖ σοι γένηται καὶ ἔσῃ μακροχρόνιος ἐπὶ τῆς γῆς.¶"
+pericope: "[[Eph.6.1 Children and Parents|Children and Parents]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 6
+book/chapter: "[[Eph.6|Ephesians 6]]"
+chronological_order: 1116
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REWARD|REWARD]]"
+strongs:
+- "[[G2443]]"
+- "[[G2095]]"
+- "[[G4771]]"
+- "[[G1096]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G3118]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1093H]]"
+texts:
+- NKO
+---
+
 **Ephesians 6:3**<big><big>[[Eph.6.1 Children and Parents|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That it may be well with thee, and thou mayest live long on the earth.
 <small><sub>**BSB:**</sub></small>
 “that it may go well with you and that you may have a long life on the earth.”
-<small><sub>**Literal:**</sub></small>
-that well with you it may be and you will be long-lived upon the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.2|<< Ephesians 6:2]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.4|Ephesians 6:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G2095\|εὖ]]  [[G4771\|σοι]]  [[G1096\|γένηται]]  [[G2532\|καὶ]]  [[G1510\|ἔσῃ]]  [[G3118\|μακροχρόνιος]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093H\|γῆς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REWARD|REWARD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.2|<< Ephesians 6:2]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.4|Ephesians 6:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ephesians 6:3** is...
 > $\quad$ referencing: [[LXX.Exod.20.12|Exod 20:12]] ☩ [[LXX.Exod.20.12|Exod 20:12]] ☩ [[LXX.Deut.5.16|Deut 5:16]]

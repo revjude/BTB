@@ -1,8 +1,55 @@
+---
+title: 1 Samuel 29:7
+type: Verse
+kjv: "Wherefore now return, and go in peace, that thou displease not the lords of the Philistines."
+bsb: "Therefore turn back now and go in peace, so that you will not do anything to displease the leaders of the Philistines.”"
+hebrew: "וְעַתָּ֥ה שׁ֖וּב וְלֵ֣ךְ בְּשָׁל֑וֹם וְלֹֽא־ תַעֲשֶׂ֣ה רָ֔ע בְּעֵינֵ֖י סַרְנֵ֥י פְלִשְׁתִּֽים׃ ס"
+pericope: "[[1Sam.29.1 The Philistines Reject David|The Philistines Reject David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 29
+book/chapter: "[[1Sam.29|1 Samuel 29]]"
+chronological_order: 308
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H7725G]]"
+- "[[H1980G]]"
+- "[[H9003]]"
+- "[[H7965G]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6213J]]"
+- "[[H7451H]]"
+- "[[H5869I]]"
+- "[[H5633A]]"
+- "[[H6430G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Samuel 29:7**<big><big>[[1Sam.29.1 The Philistines Reject David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore now return, and go in peace, that thou displease not the lords of the Philistines.
 <small><sub>**BSB:**</sub></small>
 Therefore turn back now and go in peace, so that you will not do anything to displease the leaders of the Philistines.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֥ה]] [[H7725G\|שׁ֖וּב]] [[H9002\|וְ]][[H1980G\|לֵ֣ךְ]] [[H9003\|בְּ]][[H7965G\|שָׁל֑וֹם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H6213J\|תַעֲשֶׂ֣ה]] [[H7451H\|רָ֔ע]] [[H9003\|בְּ]][[H5869I\|עֵינֵ֖י]] [[H5633A\|סַרְנֵ֥י]] [[H6430G\|פְלִשְׁתִּֽים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.29.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.29.6|<< 1 Samuel 29:6]]</td><td align="center" style="border:none;">[[1Sam.29|1 Samuel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.29.8|1 Samuel 29:8 >>]]</td></tr></table>
 
@@ -17,7 +64,7 @@ Therefore turn back now and go in peace, so that you will not do anything to dis
 | evil  |**<big>&#8207;[[H7451H\|רָ֔ע]]&#8207; </big>**| Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] eyes of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5869I\|עֵינֵ֖י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] rulers of  |**<big>&#8207;[[H5633A\|סַרְנֵ֥י]]&#8207; </big>**| sar.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Philistines  |**<big>&#8207;[[H6430G\|פְלִשְׁתִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| fe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Philistines  |**<big>&#8207;[[H6430G\|פְלִשְׁתִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| fe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.29.6|<< 1 Samuel 29:6]]</td><td align="center" style="border:none;">[[1Sam.29|1 Samuel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.29.8|1 Samuel 29:8 >>]]</td></tr></table>
 
 

@@ -1,8 +1,70 @@
+---
+title: Proverbs 24:12
+type: Verse
+kjv: "If thou sayest, Behold, we knew it not; doth not he that pondereth the heart consider it? and he that keepeth thy soul, doth not he know it? and shall not he render to every man according to his works?"
+bsb: "If you say, “Behold, we did not know about this,” does not He who weighs hearts consider it? Does not the One who guards your life know? Will He not repay a man according to his deeds?"
+hebrew: "כִּֽי־ תֹאמַ֗ר הֵן֮ לֹא־ יָדַ֪עְנ֫וּ זֶ֥ה הֲֽלֹא־ תֹ֘כֵ֤ן לִבּ֨וֹת׀ הֽוּא־ יָבִ֗ין וְנֹצֵ֣ר נַ֭פְשְׁךָ ה֣וּא יֵדָ֑ע וְהֵשִׁ֖יב לְאָדָ֣ם כְּפָעֳלֽוֹ׃"
+pericope: "[[Prov.24.10 Saying 25|Saying 25]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 24
+book/chapter: "[[Prov.24|Proverbs 24]]"
+chronological_order: 479
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SELFISHNESS|SELFISHNESS]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H2005]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H2088]]"
+- "[[H9008]]"
+- "[[H8505]]"
+- "[[H3826]]"
+- "[[H9015]]"
+- "[[H1931]]"
+- "[[H0995]]"
+- "[[H9002]]"
+- "[[H5341]]"
+- "[[H5315G]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H7725K]]"
+- "[[H9005]]"
+- "[[H0120G]]"
+- "[[H9004]]"
+- "[[H6467]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 24:12**<big><big>[[Prov.24.10 Saying 25|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou sayest, Behold, we knew it not; doth not he that pondereth the heart consider [it]? and he that keepeth thy soul, doth [not] he know [it]? and shall [not] he render to [every] man according to his works?
 <small><sub>**BSB:**</sub></small>
 If you say, “Behold, we did not know about this,” does not He who weighs hearts consider it? Does not the One who guards your life know? Will He not repay a man according to his deeds?
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H0559\|תֹאמַ֗ר]] [[H2005\|הֵן֮]] [[H3808\|לֹא]][[H9014\|־]] [[H3045\|יָדַ֪עְנ֫וּ]] [[H2088\|זֶ֥ה]] [[H9008\|הֲֽ]][[H3808\|לֹא]][[H9014\|־]] [[H8505\|תֹ֘כֵ֤ן]] [[H3826\|לִבּ֨וֹת]][[H9015\|׀]] [[H1931\|הֽוּא]][[H9014\|־]] [[H0995\|יָבִ֗ין]] [[H9002\|וְ]][[H5341\|נֹצֵ֣ר]] [[H5315G\|נַ֭פְשְׁ]][[H9021\|ךָ]] [[H1931\|ה֣וּא]] [[H3045\|יֵדָ֑ע]] [[H9001\|וְ]][[H7725K\|הֵשִׁ֖יב]] [[H9005\|לְ]][[H0120G\|אָדָ֣ם]] [[H9004\|כְּ]][[H6467\|פָעֳלֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JUDGMENT|JUDGMENT]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SELFISHNESS|SELFISHNESS]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.11|<< Proverbs 24:11]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.13|Proverbs 24:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

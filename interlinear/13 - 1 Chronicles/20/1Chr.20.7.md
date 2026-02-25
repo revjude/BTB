@@ -1,8 +1,57 @@
+---
+title: 1 Chronicles 20:7
+type: Verse
+kjv: "But when he defied Israel, Jonathan the son of Shimea David’s brother slew him."
+bsb: "and when he taunted Israel, Jonathan the son of David’s brother Shimei killed him."
+hebrew: "וַיְחָרֵ֖ף אֶת־ יִשְׂרָאֵ֑ל וַיַּכֵּ֙הוּ֙ יְה֣וֹנָתָ֔ן בֶּן־ שִׁמְעָ֖א אֲחִ֥י דָוִֽיד׃"
+pericope: "[[1Chr.20.4 Battles against the Philistines|Battles against the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 20
+book/chapter: "[[1Chr.20|1 Chronicles 20]]"
+chronological_order: 407
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GATH|GATH]]"
+- "[[topic GOLIATH|GOLIATH]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic SHAMMAH|SHAMMAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H2778A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H5221]]"
+- "[[H9033]]"
+- "[[H3083O]]"
+- "[[H1121A]]"
+- "[[H8092I]]"
+- "[[H0251G]]"
+- "[[H1732]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 20:7**<big><big>[[1Chr.20.4 Battles against the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But when he defied Israel, Jonathan the son of Shimea David’s brother slew him.
 <small><sub>**BSB:**</sub></small>
 and when he taunted Israel, Jonathan the son of David’s brother Shimei killed him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2778A\|יְחָרֵ֖ף]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H5221\|יַּכֵּ֙]][[H9033\|הוּ֙]] [[H3083O\|יְה֣וֹנָתָ֔ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H8092I\|שִׁמְעָ֖א]] [[H0251G\|אֲחִ֥י]] [[H1732\|דָוִֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GATH|GATH]] • [[topic GOLIATH|GOLIATH]] • [[topic JONATHAN|JONATHAN]] • [[topic SHAMMAH|SHAMMAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.20.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.20.6|<< 1 Chronicles 20:6]]</td><td align="center" style="border:none;">[[1Chr.20|1 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.20.8|1 Chronicles 20:8 >>]]</td></tr></table>
 

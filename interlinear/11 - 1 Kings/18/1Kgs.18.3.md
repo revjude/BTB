@@ -1,8 +1,62 @@
+---
+title: 1 Kings 18:3
+type: Verse
+kjv: "And Ahab called Obadiah, which was the governor of his house. (Now Obadiah feared the LORD greatly:"
+bsb: "and Ahab summoned Obadiah, who was in charge of the palace. (Now Obadiah greatly feared the LORD,"
+hebrew: "וַיִּקְרָ֣א אַחְאָ֔ב אֶל־ עֹבַדְיָ֖הוּ אֲשֶׁ֣ר עַל־ הַבָּ֑יִת וְעֹבַדְיָ֗הוּ הָיָ֥ה יָרֵ֛א אֶת־ יְהוָ֖ה מְאֹֽד׃"
+pericope: "[[1Kgs.18.1 Elijah’s Message to Ahab|Elijah’s Message to Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 18
+book/chapter: "[[1Kgs.18|1 Kings 18]]"
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OBADIAH|OBADIAH]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H0256G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5662G]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H1004M]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H3373]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 18:3**<big><big>[[1Kgs.18.1 Elijah’s Message to Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ahab called Obadiah, which [was] the governor of [his] house. (Now Obadiah feared the LORD greatly:
 <small><sub>**BSB:**</sub></small>
 and Ahab summoned Obadiah, who was in charge of the palace. (Now Obadiah greatly feared the LORD,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָ֣א]] [[H0256G\|אַחְאָ֔ב]] [[H0413\|אֶל]][[H9014\|־]] [[H5662G\|עֹבַדְיָ֖הוּ]] [[H0834A\|אֲשֶׁ֣ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1004M\|בָּ֑יִת]] [[H9002\|וְ]][[H5662G\|עֹבַדְיָ֗הוּ]] [[H1961\|הָיָ֥ה]] [[H3373\|יָרֵ֛א]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIJAH|ELIJAH]] • [[topic ISRAEL|ISRAEL]] • [[topic OBADIAH|OBADIAH]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.2|<< 1 Kings 18:2]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.4|1 Kings 18:4 >>]]</td></tr></table>
 

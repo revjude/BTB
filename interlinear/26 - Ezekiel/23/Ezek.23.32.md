@@ -1,8 +1,66 @@
+---
+title: Ezekiel 23:32
+type: Verse
+kjv: "Thus saith the Lord GOD; Thou shalt drink of thy sister’s cup deep and large: thou shalt be laughed to scorn and had in derision; it containeth much."
+bsb: "This is what the Lord GOD says: ‘You will drink your sister’s cup, a cup deep and wide. It will bring scorn and derision, for it holds so much."
+hebrew: "כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהֹוִ֔ה כּ֤וֹס אֲחוֹתֵךְ֙ תִּשְׁתִּ֔י הָעֲמֻקָּ֖ה וְהָרְחָבָ֑ה תִּהְיֶ֥ה לִצְחֹ֛ק וּלְלַ֖עַג מִרְבָּ֥ה לְהָכִֽיל׃"
+pericope: "[[Ezek.23.22 Oholibah to Be Plagued|Oholibah to Be Plagued]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 23
+book/chapter: "[[Ezek.23|Ezekiel 23]]"
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CUP|CUP]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H3563A]]"
+- "[[H0269]]"
+- "[[H9022]]"
+- "[[H8354]]"
+- "[[H9009]]"
+- "[[H6013]]"
+- "[[H9002]]"
+- "[[H7342H]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H6712]]"
+- "[[H3933]]"
+- "[[H4767]]"
+- "[[H3557]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 23:32**<big><big>[[Ezek.23.22 Oholibah to Be Plagued|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the Lord GOD; Thou shalt drink of thy sister’s cup deep and large: thou shalt be laughed to scorn and had in derision; it containeth much.
 <small><sub>**BSB:**</sub></small>
 This is what the Lord GOD says: ‘You will drink your sister’s cup, a cup deep and wide. It will bring scorn and derision, for it holds so much.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהֹוִ֔ה]] [[H3563A\|כּ֤וֹס]] [[H0269\|אֲחוֹתֵ]][[H9022\|ךְ֙]] [[H8354\|תִּשְׁתִּ֔י]] [[H9009\|הָ]][[H6013\|עֲמֻקָּ֖ה]] [[H9002\|וְ]][[H9009\|הָ]][[H7342H\|רְחָבָ֑ה]] [[H1961\|תִּהְיֶ֥ה]] [[H9005\|לִ]][[H6712\|צְחֹ֛ק]] [[H9002\|וּ]][[H9005\|לְ]][[H3933\|לַ֖עַג]] [[H4767\|מִרְבָּ֥ה]] [[H9005\|לְ]][[H3557\|הָכִֽיל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CUP|CUP]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.31|<< Ezekiel 23:31]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.33|Ezekiel 23:33 >>]]</td></tr></table>
 

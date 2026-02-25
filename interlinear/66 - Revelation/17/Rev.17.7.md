@@ -1,10 +1,64 @@
+---
+title: Revelation 17:7
+type: Verse
+kjv: "And the angel said unto me, Wherefore didst thou marvel? I will tell thee the mystery of the woman, and of the beast that carrieth her, which hath the seven heads and ten horns."
+bsb: "“Why are you so amazed?” said the angel. “I will tell you the mystery of the woman and of the beast that carries her, which has the seven heads and ten horns."
+greek: "καὶ εἶπέν μοι ὁ ἄγγελος· διὰ τί ἐθαύμασας; ἐγὼ ἐρῶ σοι τὸ μυστήριον τῆς γυναικὸς καὶ τοῦ θηρίου τοῦ βαστάζοντος αὐτὴν τοῦ ἔχοντος τὰς ἑπτὰ κεφαλὰς καὶ τὰ δέκα κέρατα.¶"
+pericope: "[[Rev.17.6 The Mystery Explained|The Mystery Explained]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 17
+book/chapter: "[[Rev.17|Revelation 17]]"
+chronological_order: 1184
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic HORN|HORN]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G0032G]]"
+- "[[G1223]]"
+- "[[G5101]]"
+- "[[G2296]]"
+- "[[G1473]]"
+- "[[G4483]]"
+- "[[G4771]]"
+- "[[G3466]]"
+- "[[G1135G]]"
+- "[[G2342]]"
+- "[[G0941]]"
+- "[[G0846]]"
+- "[[G2192]]"
+- "[[G2033]]"
+- "[[G2776]]"
+- "[[G1176]]"
+- "[[G2768]]"
+texts:
+- NKO
+---
+
 **Revelation 17:7**<big><big>[[Rev.17.6 The Mystery Explained|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the angel said unto me, Wherefore didst thou marvel? I will tell thee the mystery of the woman, and of the beast that carrieth her, which hath the seven heads and ten horns.
 <small><sub>**BSB:**</sub></small>
 “Why are you so amazed?” said the angel. “I will tell you the mystery of the woman and of the beast that carries her, which has the seven heads and ten horns.
-<small><sub>**Literal:**</sub></small>
-And said to me the angel; Because of why did you marvel? I myself will tell you the mystery of the woman and of the beast who is carrying her who is having the seven heads and the ten horns.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.6|<< Revelation 17:6]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.8|Revelation 17:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπέν]]  [[G3165\|μοι]]  [[G3588\|ὁ]]  [[G0032G\|ἄγγελος·]]  [[G1223\|διὰ]]  [[G5101\|τί]]  [[G2296\|ἐθαύμασας;]]  [[G1473\|ἐγὼ]]  [[G4483\|ἐρῶ]]  [[G4771\|σοι]]  [[G3588\|τὸ]]  [[G3466\|μυστήριον]]  [[G3588\|τῆς]]  [[G1135G\|γυναικὸς]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G2342\|θηρίου]]  [[G3588\|τοῦ]]  [[G0941\|βαστάζοντος]]  [[G0846\|αὐτὴν]]  [[G3588\|τοῦ]]  [[G2192\|ἔχοντος]]  [[G3588\|τὰς]]  [[G2033\|ἑπτὰ]]  [[G2776\|κεφαλὰς]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G1176\|δέκα]]  [[G2768\|κέρατα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic HORN|HORN]] • [[topic SEVEN|SEVEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.6|<< Revelation 17:6]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.8|Revelation 17:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

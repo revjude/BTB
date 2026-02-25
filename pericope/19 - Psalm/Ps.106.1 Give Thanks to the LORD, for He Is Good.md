@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Give Thanks to the LORD, for He Is Good
+type: Pericope
 pericope: "[[Ps.106.1 Give Thanks to the LORD, for He Is Good|Give Thanks to the LORD, for He Is Good]]"
-verse_count: 48
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 106
 book/chapter: "[[Ps.106|Psalm 106]]"
-genre:
+chronological_order: 530
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 48
 verses:
 - "[[Ps.106.1]]"
 - "[[Ps.106.2]]"
@@ -69,7 +76,7 @@ verses:
 - "[[Ps.106.48]]"
 ---
 
-[[Ps.106|Psalm 106:1 - Psalm 106:48]]
+<small>[[Ps.106|Psalm 106:1-48]]</small>
 *Give Thanks to the LORD, for He Is Good*
 
 [[Ps.106.1|1]] Praise ye the LORD. O give thanks unto the LORD; for \[he is\] good: for his mercy \[endureth\] for ever.

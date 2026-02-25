@@ -1,10 +1,59 @@
+---
+title: Acts 8:33
+type: Verse
+kjv: "In his humiliation his judgment was taken away: and who shall declare his generation? for his life is taken from the earth."
+bsb: "In His humiliation He was deprived of justice. Who can recount His descendants? For His life was removed from the earth.”"
+greek: "ἐν τῇ ταπεινώσει αὐτοῦ ἡ κρίσις αὐτοῦ ἤρθη, τὴν δὲ γενεὰν αὐτοῦ τίς διηγήσεται; ὅτι αἴρεται ἀπὸ τῆς γῆς ἡ ζωὴ αὐτοῦ.¶"
+pericope: "[[Acts.8.26 Philip and the Ethiopian|Philip and the Ethiopian]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 8
+book/chapter: "[[Acts.8|Acts 8]]"
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+- "[[topic GAZA|GAZA]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHILIP|PHILIP]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G5014]]"
+- "[[G0846]]"
+- "[[G2920]]"
+- "[[G0142]]"
+- "[[G1161]]"
+- "[[G1074]]"
+- "[[G5101]]"
+- "[[G1334]]"
+- "[[G3754H]]"
+- "[[G0575]]"
+- "[[G1093G]]"
+- "[[G2222]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 8:33**<big><big>[[Acts.8.26 Philip and the Ethiopian|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 In his humiliation his judgment was taken away: and who shall declare his generation? for his life is taken from the earth.
 <small><sub>**BSB:**</sub></small>
 In His humiliation He was deprived of justice. Who can recount His descendants? For His life was removed from the earth.”
-<small><sub>**Literal:**</sub></small>
-In the humiliation of Him <the> justice from Him was taken away, The now generation of Him who will describe? For is removed from the earth the life of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.32|<< Acts 8:32]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.34|Acts 8:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G5014\|ταπεινώσει]]  [[G0846\|αὐτοῦ]]  [[G3588\|ἡ]]  [[G2920\|κρίσις]]  [[G0846\|αὐτοῦ]]  [[G0142\|ἤρθη,]]  [[G3588\|τὴν]]  [[G1161\|δὲ]]  [[G1074\|γενεὰν]]  [[G0846\|αὐτοῦ]]  [[G5101\|τίς]]  [[G1334\|διηγήσεται;]]  [[G3754H\|ὅτι]]  [[G0142\|αἴρεται]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G3588\|ἡ]]  [[G2222\|ζωὴ]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ETHIOPIA|ETHIOPIA]] • [[topic GAZA|GAZA]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHILIP|PHILIP]] • [[topic PREACHING|PREACHING]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.32|<< Acts 8:32]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.34|Acts 8:34 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 8:33** is...
 > $\quad$ referencing: [[LXX.Isa.53.7|Isa 53:7-8]]

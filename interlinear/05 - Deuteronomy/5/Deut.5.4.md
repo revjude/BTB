@@ -1,8 +1,62 @@
+---
+title: Deuteronomy 5:4
+type: Verse
+kjv: "The LORD talked with you face to face in the mount out of the midst of the fire,"
+bsb: "The LORD spoke with you face to face out of the fire on the mountain."
+hebrew: "פָּנִ֣ים׀ בְּפָנִ֗ים דִּבֶּ֨ר יְהוָ֧ה עִמָּכֶ֛ם בָּהָ֖ר מִתּ֥וֹךְ הָאֵֽשׁ׃"
+pericope: "[[Deut.5.1 The Covenant at Horeb|The Covenant at Horeb]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 5
+book/chapter: "[[Deut.5|Deuteronomy 5]]"
+chronological_order: 201
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic TABLE|TABLE]]"
+strongs:
+- "[[H6440H]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H5973A]]"
+- "[[H9036]]"
+- "[[H2022G]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 5:4**<big><big>[[Deut.5.1 The Covenant at Horeb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD talked with you face to face in the mount out of the midst of the fire,
 <small><sub>**BSB:**</sub></small>
 The LORD spoke with you face to face out of the fire on the mountain.
+<small><sub>**Hebrew:**</sub></small>
+[[H6440H\|פָּנִ֣ים]][[H9015\|׀]] [[H9003\|בְּ]][[H6440H\|פָנִ֗ים]] [[H1696G\|דִּבֶּ֨ר]] [[H3068G\|יְהוָ֧ה]] [[H5973A\|עִמָּ]][[H9036\|כֶ֛ם]] [[H9003\|בָּ]][[H2022G\|הָ֖ר]] [[H9006\|מִ]][[H8432\|תּ֥וֹךְ]] [[H9009\|הָ]][[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECALOGUE|DECALOGUE]] • [[topic LAW|LAW]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PROPHETS|PROPHETS]] • [[topic TABLE|TABLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.3|<< Deuteronomy 5:3]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.5|Deuteronomy 5:5 >>]]</td></tr></table>
 

@@ -1,10 +1,55 @@
+---
+title: Revelation 6:3
+type: Verse
+kjv: "And when he had opened the second seal, I heard the second beast say, Come and see."
+bsb: "And when the Lamb opened the second seal, I heard the second living creature say, “Come!”"
+greek: "Καὶ ὅτε ἤνοιξεν τὴν σφραγῖδα τὴν δευτέραν, ἤκουσα τοῦ δευτέρου ζῴου λέγοντος· ἔρχου καὶ βλέπε."
+pericope: "[[Rev.6.3 The Second Seal：War|The Second Seal：War]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 6
+book/chapter: "[[Rev.6|Revelation 6]]"
+chronological_order: 1173
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3753]]"
+- "[[G0455]]"
+- "[[G3588]]"
+- "[[G4973]]"
+- "[[G1208]]"
+- "[[G0191]]"
+- "[[G2226]]"
+- "[[G3004G]]"
+- "[[G2064]]"
+- "[[G0991]]"
+texts:
+- NKO
+- K
+---
+
 **Revelation 6:3**<big><big>[[Rev.6.3 The Second Seal：War|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had opened the second seal, I heard the second beast say, Come and see.
 <small><sub>**BSB:**</sub></small>
 And when the Lamb opened the second seal, I heard the second living creature say, “Come!”
-<small><sub>**Literal:**</sub></small>
-And when He opened the seal <the> second I heard the second living creature saying; do come and do heed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.2|<< Revelation 6:2]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.4|Revelation 6:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3753\|ὅτε]]  [[G0455\|ἤνοιξεν]]  [[G3588\|τὴν]]  [[G4973\|σφραγῖδα]]  [[G3588\|τὴν]]  [[G1208\|δευτέραν,]]  [[G0191\|ἤκουσα]]  [[G3588\|τοῦ]]  [[G1208\|δευτέρου]]  [[G2226\|ζῴου]]  [[G3004G\|λέγοντος·]]  [[G2064\|ἔρχου]]  [[G2532\|καὶ]]  [[G0991\|βλέπε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic HORSE|HORSE]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.2|<< Revelation 6:2]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.4|Revelation 6:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,61 @@
+---
+title: 1 Chronicles 19:11
+type: Verse
+kjv: "And the rest of the people he delivered unto the hand of Abishai his brother, and they set themselves in array against the children of Ammon."
+bsb: "And he placed the rest of the troops under the command of his brother Abishai, who arrayed them against the Ammonites."
+hebrew: "וְאֵת֙ יֶ֣תֶר הָעָ֔ם נָתַ֕ן בְּיַ֖ד אַבְשַׁ֣י אָחִ֑יו וַיַּ֣עַרְכ֔וּ לִקְרַ֖את בְּנֵ֥י עַמּֽוֹן׃"
+pericope: "[[1Chr.19.10 David Defeats Ammon and Aram|David Defeats Ammon and Aram]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 19
+book/chapter: "[[1Chr.19|1 Chronicles 19]]"
+chronological_order: 406
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic HADADEZER|HADADEZER]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic MEDEBA|MEDEBA]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H3499A]]"
+- "[[H9009]]"
+- "[[H5971K]]"
+- "[[H5414H]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H0052]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H6186A]]"
+- "[[H9005]]"
+- "[[H7122H]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 19:11**<big><big>[[1Chr.19.10 David Defeats Ammon and Aram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the rest of the people he delivered unto the hand of Abishai his brother, and they set [themselves] in array against the children of Ammon.
 <small><sub>**BSB:**</sub></small>
 And he placed the rest of the troops under the command of his brother Abishai, who arrayed them against the Ammonites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵת֙]] [[H3499A\|יֶ֣תֶר]] [[H9009\|הָ]][[H5971K\|עָ֔ם]] [[H5414H\|נָתַ֕ן]] [[H9003\|בְּ]][[H3027H\|יַ֖ד]] [[H0052\|אַבְשַׁ֣י]] [[H0251G\|אָחִ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H6186A\|יַּ֣עַרְכ֔וּ]] [[H9005\|לִ]][[H7122H\|קְרַ֖את]] [[H1121G\|בְּנֵ֥י]] [[H5983\|עַמּֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HADADEZER|HADADEZER]] • [[topic JOAB|JOAB]] • [[topic MEDEBA|MEDEBA]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.19.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.19.10|<< 1 Chronicles 19:10]]</td><td align="center" style="border:none;">[[1Chr.19|1 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.19.12|1 Chronicles 19:12 >>]]</td></tr></table>
 

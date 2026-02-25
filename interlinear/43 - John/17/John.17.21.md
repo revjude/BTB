@@ -1,10 +1,67 @@
+---
+title: John 17:21
+type: Verse
+kjv: "That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me."
+bsb: "that all of them may be one, as You, Father, are in Me, and I am in You. May they also be in Us, so that the world may believe that You sent Me."
+jesus_said: "That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me."
+greek: "ἵνα πάντες ἓν ὦσιν καθὼς σύ, πάτερ, ἐν ἐμοὶ κἀγὼ κἀγὼ ἐν σοί, ἵνα καὶ αὐτοὶ ἐν ἡμῖν ἓν ὦσιν· ἵνα ὁ κόσμος πιστεύῃ ὅτι σύ με ἀπέστειλας."
+pericope: "[[John.17.20 Prayer for All Believers|Prayer for All Believers]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 17
+book/chapter: "[[John.17|John 17]]"
+chronological_order: 1005
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G2443]]"
+- "[[G3956]]"
+- "[[G1520]]"
+- "[[G1510]]"
+- "[[G2531]]"
+- "[[G4771]]"
+- "[[G3962]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G2889]]"
+- "[[G4100]]"
+- "[[G3754G]]"
+- "[[G0649]]"
+texts:
+- NKO
+- NK(o)
+- KO
+- N(k)O
+---
+
 **John 17:21**<big><big>[[John.17.20 Prayer for All Believers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That they all may be one; as thou, Father, [art] in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me.
 <small><sub>**BSB:**</sub></small>
 that all of them may be one, as You, Father, are in Me, and I am in You. May they also be in Us, so that the world may believe that You sent Me.
-<small><sub>**Literal:**</sub></small>
-that all one may be even as You yourself, Father, [are] in Me myself and I myself in You, that also they themselves in Us one may be; that the world may believe that You yourself Me sent.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.20|<< John 17:20]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.22|John 17:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G3956\|πάντες]]  [[G1520\|ἓν]]  [[G1510\|ὦσιν]]  [[G2531\|καθὼς]]  [[G4771\|σύ,]]  [[G3962\|πάτερ,]]  [[G1722\|ἐν]]  [[G1473\|ἐμοὶ]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G1722\|ἐν]]  [[G4771\|σοί,]]  [[G2443\|ἵνα]]  [[G2532\|καὶ]]  [[G0846\|αὐτοὶ]]  [[G1722\|ἐν]]  [[G3165\|ἡμῖν]]  [[G1520\|ἓν]]  [[G1510\|ὦσιν·]]  [[G2443\|ἵνα]]  [[G3588\|ὁ]]  [[G2889\|κόσμος]]  [[G4100\|πιστεύῃ]]  [[G3754G\|ὅτι]]  [[G4771\|σύ]]  [[G3165\|με]]  [[G0649\|ἀπέστειλας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COMMUNION|COMMUNION]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.20|<< John 17:20]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.22|John 17:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

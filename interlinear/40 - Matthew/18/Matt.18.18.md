@@ -1,10 +1,64 @@
+---
+title: Matthew 18:18
+type: Verse
+kjv: "Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven."
+bsb: "Truly I tell you, whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven."
+jesus_said: "Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven."
+greek: "Ἀμὴν λέγω ὑμῖν· ὅσα ἐὰν δήσητε ἐπὶ τῆς γῆς, ἔσται δεδεμένα ἐν τῷ οὐρανῷ· καὶ ὅσα ἐὰν λύσητε ἐπὶ τῆς γῆς, ἔσται λελυμένα ἐν τῷ οὐρανῷ.¶"
+pericope: "[[Matt.18.15 A Brother Who Sins|A Brother Who Sins]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 18
+book/chapter: "[[Matt.18|Matthew 18]]"
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COURT|COURT]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TRESPASS|TRESPASS]]"
+- "[[topic VICEGERENCY|VICEGERENCY]]"
+strongs:
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3745]]"
+- "[[G1437]]"
+- "[[G1210]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1093G]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3772]]"
+- "[[G2532]]"
+- "[[G3089]]"
+texts:
+- NKO
+- NK(o)
+- ko
+---
+
 **Matthew 18:18**<big><big>[[Matt.18.15 A Brother Who Sins|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven.
 <small><sub>**BSB:**</sub></small>
 Truly I tell you, whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.
-<small><sub>**Literal:**</sub></small>
-Amen I say to you; as much as if you shall bind on the earth, will have been bound in <the> heaven; and as much as if you shall loose on the earth, will have been loosed in <the> heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.17|<< Matthew 18:17]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.19|Matthew 18:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0281\|Ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G3745\|ὅσα]]  [[G1437\|ἐὰν]]  [[G1210\|δήσητε]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς,]]  [[G1510\|ἔσται]]  [[G1210\|δεδεμένα]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3772\|οὐρανῷ·]]  [[G2532\|καὶ]]  [[G3745\|ὅσα]]  [[G1437\|ἐὰν]]  [[G3089\|λύσητε]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς,]]  [[G1510\|ἔσται]]  [[G3089\|λελυμένα]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3772\|οὐρανῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CHURCH|CHURCH]] • [[topic COURT|COURT]] • [[topic FRATERNITY|FRATERNITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TRESPASS|TRESPASS]] • [[topic VICEGERENCY|VICEGERENCY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.17|<< Matthew 18:17]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.19|Matthew 18:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

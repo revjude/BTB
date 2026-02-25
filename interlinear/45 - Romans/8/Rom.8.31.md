@@ -1,10 +1,51 @@
+---
+title: Romans 8:31
+type: Verse
+kjv: "What shall we then say to these things? If God be for us, who can be against us?"
+bsb: "What then shall we say in response to these things? If God is for us, who can be against us?"
+greek: "Τί οὖν ἐροῦμεν πρὸς ταῦτα; εἰ ὁ θεὸς ὑπὲρ ἡμῶν, τίς καθ᾽ ἡμῶν;"
+pericope: "[[Rom.8.28 God Works in All Things|God Works in All Things]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 8
+book/chapter: "[[Rom.8|Romans 8]]"
+chronological_order: 1094
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+strongs:
+- "[[G5101]]"
+- "[[G3767]]"
+- "[[G4483]]"
+- "[[G4314]]"
+- "[[G3778]]"
+- "[[G1487G]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G5228]]"
+- "[[G3165]]"
+- "[[G2596]]"
+texts:
+- NKO
+---
+
 **Romans 8:31**<big><big>[[Rom.8.28 God Works in All Things|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 What shall we then say to these things? If God [be] for us, who [can be] against us?
 <small><sub>**BSB:**</sub></small>
 What then shall we say in response to these things? If God is for us, who can be against us?
-<small><sub>**Literal:**</sub></small>
-What then will we say to these things? If <the> God [is] for us, who [can be] against us?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.30|<< Romans 8:30]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.32|Romans 8:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|Τί]]  [[G3767\|οὖν]]  [[G4483\|ἐροῦμεν]]  [[G4314\|πρὸς]]  [[G3778\|ταῦτα;]]  [[G1487G\|εἰ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G5228\|ὑπὲρ]]  [[G3165\|ἡμῶν,]]  [[G5101\|τίς]]  [[G2596\|καθ᾽]]  [[G3165\|ἡμῶν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JUSTIFICATION|JUSTIFICATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.30|<< Romans 8:30]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.32|Romans 8:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

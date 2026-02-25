@@ -1,8 +1,61 @@
+---
+title: Judges 18:4
+type: Verse
+kjv: "And he said unto them, Thus and thus dealeth Micah with me, and hath hired me, and I am his priest."
+bsb: "“Micah has done this and that for me,” he replied, “and he has hired me to be his priest.”"
+hebrew: "וַיֹּ֣אמֶר אֲלֵהֶ֔ם כָּזֹ֣ה וְכָזֶ֔ה עָ֥שָׂה לִ֖י מִיכָ֑ה וַיִּשְׂכְּרֵ֕נִי וָאֱהִי־ ל֖וֹ לְכֹהֵֽן׃"
+pericope: "[[Judg.18.1 The Danites Settle in Laish|The Danites Settle in Laish]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 18
+book/chapter: "[[Judg.18|Judges 18]]"
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RECONNOISSANCE|RECONNOISSANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H2090]]"
+- "[[H9002]]"
+- "[[H2088]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H4318G]]"
+- "[[H7936B]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9033]]"
+- "[[H3548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 18:4**<big><big>[[Judg.18.1 The Danites Settle in Laish|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Thus and thus dealeth Micah with me, and hath hired me, and I am his priest.
 <small><sub>**BSB:**</sub></small>
 “Micah has done this and that for me,” he replied, “and he has hired me to be his priest.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֔ם]] [[H9004\|כָּ]][[H2090\|זֹ֣ה]] [[H9002\|וְ]][[H9004\|כָ]][[H2088\|זֶ֔ה]] [[H6213A\|עָ֥שָׂה]] [[H9005\|לִ֖]][[H9030\|י]] [[H4318G\|מִיכָ֑ה]] [[H9001\|וַ]][[H7936B\|יִּשְׂכְּרֵ֕]][[H9030\|נִי]] [[H9001\|וָ]][[H1961\|אֱהִי]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9005\|לְ]][[H3548\|כֹהֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic JONATHAN|JONATHAN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RECONNOISSANCE|RECONNOISSANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.3|<< Judges 18:3]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.5|Judges 18:5 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Leviticus 1:3
+type: Verse
+kjv: "If his offering be a burnt sacrifice of the herd, let him offer a male without blemish: he shall offer it of his own voluntary will at the door of the tabernacle of the congregation before the LORD."
+bsb: "If his offering is a burnt offering from the herd, he is to present an unblemished male. He must bring it to the entrance to the Tent of Meeting for its acceptance before the LORD."
+hebrew: "אִם־ עֹלָ֤ה קָרְבָּנוֹ֙ מִן־ הַבָּקָ֔ר זָכָ֥ר תָּמִ֖ים יַקְרִיבֶ֑נּוּ אֶל־ פֶּ֝תַח אֹ֤הֶל מוֹעֵד֙ יַקְרִ֣יב אֹת֔וֹ לִרְצֹנ֖וֹ לִפְנֵ֥י יְהוָֽה׃"
+pericope: "[[Lev.1.1 Laws for Burnt Offerings|Laws for Burnt Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 1
+book/chapter: "[[Lev.1|Leviticus 1]]"
+chronological_order: 133
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEDICATION|DEDICATION]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H5930A]]"
+- "[[H7133A]]"
+- "[[H9023]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H1241]]"
+- "[[H2145]]"
+- "[[H8549G]]"
+- "[[H7126H]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H6607]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H0853]]"
+- "[[H9005]]"
+- "[[H7522]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 1:3**<big><big>[[Lev.1.1 Laws for Burnt Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If his offering [be] a burnt sacrifice of the herd, let him offer a male without blemish: he shall offer it of his own voluntary will at the door of the tabernacle of the congregation before the LORD.
 <small><sub>**BSB:**</sub></small>
 If his offering is a burnt offering from the herd, he is to present an unblemished male. He must bring it to the entrance to the Tent of Meeting for its acceptance before the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H5930A\|עֹלָ֤ה]] [[H7133A\|קָרְבָּנ]][[H9023\|וֹ֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1241\|בָּקָ֔ר]] [[H2145\|זָכָ֥ר]] [[H8549G\|תָּמִ֖ים]] [[H7126H\|יַקְרִיבֶ֑]][[H9033\|נּוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H6607\|פֶּ֝תַח]] [[H0168G\|אֹ֤הֶל]] [[H4150I\|מוֹעֵד֙]] [[H7126H\|יַקְרִ֣יב]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H9005\|לִ]][[H7522\|רְצֹנ֖]][[H9023\|וֹ]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEDICATION|DEDICATION]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.1.2|<< Leviticus 1:2]]</td><td align="center" style="border:none;">[[Lev.1|Leviticus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.1.4|Leviticus 1:4 >>]]</td></tr></table>
 

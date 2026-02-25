@@ -13,7 +13,7 @@
 
 → Absence of [[1Kgs.17.1|1Ki 17:1]]
 
-→ Miraculous profusion and absence of [[Judg.6.36|Jud 6:36]]-[[Judg.6.40|40]]
+→ Miraculous profusion and absence of [[Judg.6.36|Jud 6:36-40]]
 
 → See [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY]]
 

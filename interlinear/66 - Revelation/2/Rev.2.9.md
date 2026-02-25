@@ -1,10 +1,70 @@
+---
+title: Revelation 2:9
+type: Verse
+kjv: "I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan."
+bsb: "I know your affliction and your poverty—though you are rich! And I am aware of the slander of those who falsely claim to be Jews, but are in fact a synagogue of Satan."
+jesus_said: "I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan."
+greek: "οἶδά σου τὰ ἔργα καὶ τὴν θλῖψιν καὶ τὴν πτωχείαν, ἀλλὰ πλούσιος δὲ εἶ, καὶ τὴν βλασφημίαν ἐκ τῶν λεγόντων Ἰουδαίους εἶναι ἑαυτοὺς καὶ οὐκ εἰσίν, ἀλλὰ συναγωγὴ τοῦ σατανᾶ."
+pericope: "[[Rev.2.8 To the Church in Smyrna|To the Church in Smyrna]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 2
+book/chapter: "[[Rev.2|Revelation 2]]"
+chronological_order: 1169
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+strongs:
+- "[[G6063]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G2041]]"
+- "[[G2532]]"
+- "[[G2347]]"
+- "[[G4432]]"
+- "[[G0235]]"
+- "[[G4145]]"
+- "[[G1161]]"
+- "[[G1510]]"
+- "[[G0988]]"
+- "[[G1537]]"
+- "[[G3004G]]"
+- "[[G2453]]"
+- "[[G1511]]"
+- "[[G1438]]"
+- "[[G3756]]"
+- "[[G4864]]"
+- "[[G4567]]"
+texts:
+- NKO
+- K
+- no
+---
+
 **Revelation 2:9**<big><big>[[Rev.2.8 To the Church in Smyrna|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I know thy works, and tribulation, and poverty, (but thou art rich) and [I know] the blasphemy of them which say they are Jews, and are not, but [are] the synagogue of Satan.
 <small><sub>**BSB:**</sub></small>
 I know your affliction and your poverty—though you are rich! And I am aware of the slander of those who falsely claim to be Jews, but are in fact a synagogue of Satan.
-<small><sub>**Literal:**</sub></small>
-I know your <the> works and <the> tribulation and <the> poverty — but rich now you are — and the slander from those claiming Jews to be themselves and not are, but a synagogue <the> of Satan.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.8|<< Revelation 2:8]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.10|Revelation 2:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|οἶδά]]  [[G4771\|σου]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G2347\|θλῖψιν]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G4432\|πτωχείαν,]]  [[G0235\|ἀλλὰ]]  [[G4145\|πλούσιος]]  [[G1161\|δὲ]]  [[G1510\|εἶ,]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G0988\|βλασφημίαν]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G3004G\|λεγόντων]]  [[G2453\|Ἰουδαίους]]  [[G1511\|εἶναι]]  [[G1438\|ἑαυτοὺς]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1510\|εἰσίν,]]  [[G0235\|ἀλλὰ]]  [[G4864\|συναγωγὴ]]  [[G3588\|τοῦ]]  [[G4567\|σατανᾶ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic CHURCH|CHURCH]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SATAN|SATAN]] • [[topic SYNAGOGUE|SYNAGOGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.8|<< Revelation 2:8]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.10|Revelation 2:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,61 @@
+---
+title: 2 Kings 6:21
+type: Verse
+kjv: "And the king of Israel said unto Elisha, when he saw them, My father, shall I smite them? shall I smite them?"
+bsb: "And when the king of Israel saw them, he asked Elisha, “My father, shall I kill them? Shall I kill them?”"
+hebrew: "וַיֹּ֤אמֶר מֶֽלֶךְ־ יִשְׂרָאֵל֙ אֶל־ אֱלִישָׁ֔ע כִּרְאֹת֖וֹ אוֹתָ֑ם הַאַכֶּ֥ה אַכֶּ֖ה אָבִֽי׃"
+pericope: "[[2Kgs.6.8 Elisha Captures the Blinded Arameans|Elisha Captures the Blinded Arameans]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 6
+book/chapter: "[[2Kgs.6|2 Kings 6]]"
+chronological_order: 578
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic SAMARIA|SAMARIA]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0413]]"
+- "[[H0477]]"
+- "[[H9004]]"
+- "[[H7200G]]"
+- "[[H9043]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9008]]"
+- "[[H5221]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 6:21**<big><big>[[2Kgs.6.8 Elisha Captures the Blinded Arameans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Israel said unto Elisha, when he saw them, My father, shall I smite [them]? shall I smite [them]?
 <small><sub>**BSB:**</sub></small>
 And when the king of Israel saw them, he asked Elisha, “My father, shall I kill them? Shall I kill them?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0477\|אֱלִישָׁ֔ע]] [[H9004\|כִּ]][[H7200G\|רְאֹת֖]][[H9043\|וֹ]] [[H0853\|אוֹתָ֑]][[H9038\|ם]] [[H9008\|הַ]][[H5221\|אַכֶּ֥ה]] [[H5221\|אַכֶּ֖ה]] [[H0001G\|אָבִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic ISRAEL|ISRAEL]] • [[topic JORAM|JORAM]] • [[topic MALICE|MALICE]] • [[topic SAMARIA|SAMARIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.6.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.20|<< 2 Kings 6:20]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6.22|2 Kings 6:22 >>]]</td></tr></table>
 

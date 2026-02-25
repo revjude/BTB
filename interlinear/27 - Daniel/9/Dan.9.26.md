@@ -1,8 +1,74 @@
+---
+title: Daniel 9:26
+type: Verse
+kjv: "And after threescore and two weeks shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof shall be with a flood, and unto the end of the war desolations are determined."
+bsb: "Then after the sixty-two weeks the Messiah will be cut off and will have nothing. Then the people of the prince who is to come will destroy the city and the sanctuary. The end will come like a flood, and until the end there will be war; desolations have been decreed."
+hebrew: "וְאַחֲרֵ֤י הַשָּׁבֻעִים֙ שִׁשִּׁ֣ים וּשְׁנַ֔יִם יִכָּרֵ֥ת מָשִׁ֖יחַ וְאֵ֣ין ל֑וֹ וְהָעִ֨יר וְהַקֹּ֜דֶשׁ יַ֠שְׁחִית עַ֣ם נָגִ֤יד הַבָּא֙ וְקִצּ֣וֹ בַשֶּׁ֔טֶף וְעַד֙ קֵ֣ץ מִלְחָמָ֔ה נֶחֱרֶ֖צֶת שֹׁמֵמֽוֹת׃"
+pericope: "[[Dan.9.20 Gabriel’s Prophecy of the Seventy Weeks|Gabriel’s Prophecy of the Seventy Weeks]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 9
+book/chapter: "[[Dan.9|Daniel 9]]"
+chronological_order: 845
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DAILY OFFERING|DAILY OFFERING]]"
+- "[[topic DAY|DAY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H9009]]"
+- "[[H7620I]]"
+- "[[H8346]]"
+- "[[H8147]]"
+- "[[H3772I]]"
+- "[[H4899]]"
+- "[[H0369]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5892B]]"
+- "[[H6944G]]"
+- "[[H7843]]"
+- "[[H5971A]]"
+- "[[H5057]]"
+- "[[H0935G]]"
+- "[[H7093]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H7858]]"
+- "[[H5704]]"
+- "[[H4421]]"
+- "[[H2782]]"
+- "[[H8074G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 9:26**<big><big>[[Dan.9.20 Gabriel’s Prophecy of the Seventy Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after threescore and two weeks shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof [shall be] with a flood, and unto the end of the war desolations are determined.
 <small><sub>**BSB:**</sub></small>
 Then after the sixty-two weeks the Messiah will be cut off and will have nothing. Then the people of the prince who is to come will destroy the city and the sanctuary. The end will come like a flood, and until the end there will be war; desolations have been decreed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0310A\|אַחֲרֵ֤י]] [[H9009\|הַ]][[H7620I\|שָּׁבֻעִים֙]] [[H8346\|שִׁשִּׁ֣ים]] [[H9002\|וּ]][[H8147\|שְׁנַ֔יִם]] [[H3772I\|יִכָּרֵ֥ת]] [[H4899\|מָשִׁ֖יחַ]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H9002\|וְ]][[H9009\|הָ]][[H5892B\|עִ֨יר]] [[H9002\|וְ]][[H9009\|הַ]][[H6944G\|קֹּ֜דֶשׁ]] [[H7843\|יַ֠שְׁחִית]] [[H5971A\|עַ֣ם]] [[H5057\|נָגִ֤יד]] [[H9009\|הַ]][[H0935G\|בָּא֙]] [[H9002\|וְ]][[H7093\|קִצּ֣]][[H9023\|וֹ]] [[H9003\|בַ]][[H7858\|שֶּׁ֔טֶף]] [[H9002\|וְ]][[H5704\|עַד֙]] [[H7093\|קֵ֣ץ]] [[H4421\|מִלְחָמָ֔ה]] [[H2782\|נֶחֱרֶ֖צֶת]] [[H8074G\|שֹׁמֵמֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ATONEMENT|ATONEMENT]] • [[topic CHURCH|CHURCH]] • [[topic DAILY OFFERING|DAILY OFFERING]] • [[topic DAY|DAY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.25|<< Daniel 9:25]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.27|Daniel 9:27 >>]]</td></tr></table>
 

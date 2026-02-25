@@ -1,8 +1,56 @@
+---
+title: Jeremiah 25:35
+type: Verse
+kjv: "And the shepherds shall have no way to flee, nor the principal of the flock to escape."
+bsb: "Flight will evade the shepherds, and escape will elude the leaders of the flock."
+hebrew: "וְאָבַ֥ד מָנ֖וֹס מִן־ הָֽרֹעִ֑ים וּפְלֵיטָ֖ה מֵאַדִּירֵ֥י הַצֹּֽאן׃"
+pericope: "[[Jer.25.34 The Cry of the Shepherds|The Cry of the Shepherds]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 25
+book/chapter: "[[Jer.25|Jeremiah 25]]"
+chronological_order: 748
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0006]]"
+- "[[H4498]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7462B]]"
+- "[[H9002]]"
+- "[[H6413]]"
+- "[[H9006]]"
+- "[[H0117]]"
+- "[[H6629G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 25:35**<big><big>[[Jer.25.34 The Cry of the Shepherds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the shepherds shall have no way to flee, nor the principal of the flock to escape.
 <small><sub>**BSB:**</sub></small>
 Flight will evade the shepherds, and escape will elude the leaders of the flock.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0006\|אָבַ֥ד]] [[H4498\|מָנ֖וֹס]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָֽ]][[H7462B\|רֹעִ֑ים]] [[H9002\|וּ]][[H6413\|פְלֵיטָ֖ה]] [[H9006\|מֵ]][[H0117\|אַדִּירֵ֥י]] [[H9009\|הַ]][[H6629G\|צֹּֽאן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.34|<< Jeremiah 25:34]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.36|Jeremiah 25:36 >>]]</td></tr></table>
 

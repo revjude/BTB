@@ -1,6 +1,49 @@
+---
+title: LXX Psalm 116:5
+type: Verse
+lxx: "The lord is merciful and just; and  our God shows mercy."
+greek: "ελεήμων ο κύριος και δίκαιος και ο θεός ημών ελεεί"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 116
+book/chapter: "[[Ps.116|Psalm 116]]"
+chronological_order: 878
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[G1655]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G2532]]"
+- "[[G1342]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G1653]]"
+---
+
 **LXX Psalm 116:5** 
 <small><sub>**LXX:**</sub></small>
 The <span class="smallcaps">lord</span> \[is\] merciful and just; and  our God shows mercy. 
+<small><sub>**Greek:**</sub></small>
+[[G1655\|ελεήμων]] [[G3588\|ο]] [[G2962\|κύριος]] [[G2532\|και]] [[G1342\|δίκαιος]] [[G2532\|και]] [[G3588\|ο]] [[G2316\|θεός]] [[G1473\|ημών]] [[G1653\|ελεεί]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic TESTIMONY|TESTIMONY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.116.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.116.4|<< Psalm 116:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.116.6|Psalm 116:6 >>]]</td></tr></table>
 
@@ -15,6 +58,6 @@ The <span class="smallcaps">lord</span> \[is\] merciful and just; and  our God s
 | \<obj.> | **<big>[[G3588\|ο]]</big>** |
 | our God | **<big>[[G2316\|θεός]]</big>** **<big>[[G1473\|ημών]]</big>** |
 | shows mercy. | **<big>[[G1653\|ελεεί]]</big>** |
-[[Ps.116.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.116.4|<< Psalm 116:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.116.6|Psalm 116:6 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.116.4|<< Psalm 116:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.116.6|Psalm 116:6 >>]]</td></tr></table>
 
 

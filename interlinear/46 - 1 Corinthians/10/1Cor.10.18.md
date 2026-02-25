@@ -1,10 +1,47 @@
+---
+title: 1 Corinthians 10:18
+type: Verse
+kjv: "Behold Israel after the flesh: are not they which eat of the sacrifices partakers of the altar?"
+bsb: "Consider the people of Israel: Are not those who eat the sacrifices fellow partakers in the altar?"
+greek: "βλέπετε τὸν Ἰσραὴλ κατὰ σάρκα· οὐχ οἱ ἐσθίοντες τὰς θυσίας κοινωνοὶ τοῦ θυσιαστηρίου εἰσίν;¶"
+pericope: "[[1Cor.10.14 Flee from Idolatry|Flee from Idolatry]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 10
+book/chapter: "[[1Cor.10|1 Corinthians 10]]"
+chronological_order: 1067
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+strongs:
+- "[[G0991]]"
+- "[[G3588]]"
+- "[[G2474]]"
+- "[[G2596]]"
+- "[[G4561]]"
+- "[[G3756]]"
+- "[[G2068]]"
+- "[[G2378]]"
+- "[[G2844]]"
+- "[[G2379]]"
+- "[[G1510]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Corinthians 10:18**<big><big>[[1Cor.10.14 Flee from Idolatry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Behold Israel after the flesh: are not they which eat of the sacrifices partakers of the altar?
 <small><sub>**BSB:**</sub></small>
 Consider the people of Israel: Are not those who eat the sacrifices fellow partakers in the altar?
-<small><sub>**Literal:**</sub></small>
-do consider <the> Israel according to flesh: Surely those eating the sacrifices fellow partakers in the altar are?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.17|<< 1 Corinthians 10:17]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.19|1 Corinthians 10:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0991\|βλέπετε]]  [[G3588\|τὸν]]  [[G2474\|Ἰσραὴλ]]  [[G2596\|κατὰ]]  [[G4561\|σάρκα·]]  [[G3756\|οὐχ]]  [[G3588\|οἱ]]  [[G2068\|ἐσθίοντες]]  [[G3588\|τὰς]]  [[G2378\|θυσίας]]  [[G2844\|κοινωνοὶ]]  [[G3588\|τοῦ]]  [[G2379\|θυσιαστηρίου]]  [[G1510\|εἰσίν;¶]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.17|<< 1 Corinthians 10:17]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.19|1 Corinthians 10:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,74 @@
+---
+title: 1 Kings 9:15
+type: Verse
+kjv: "And this is the reason of the levy which king Solomon raised; for to build the house of the LORD, and his own house, and Millo, and the wall of Jerusalem, and Hazor, and Megiddo, and Gezer."
+bsb: "This is the account of the forced labor that King Solomon imposed to build the house of the LORD, his own palace, the supporting terraces, and the wall of Jerusalem, as well as Hazor, Megiddo, and Gezer."
+hebrew: "וְזֶ֨ה דְבַר־ הַמַּ֜ס אֲשֶֽׁר־ הֶעֱלָ֣ה׀ הַמֶּ֣לֶךְ שְׁלֹמֹ֗ה לִבְנוֹת֩ אֶת־ בֵּ֨ית יְהוָ֤ה וְאֶת־ בֵּיתוֹ֙ וְאֶת־ הַמִּלּ֔וֹא וְאֵ֖ת חוֹמַ֣ת יְרוּשָׁלִָ֑ם וְאֶת־ חָצֹ֥ר וְאֶת־ מְגִדּ֖וֹ וְאֶת־ גָּֽזֶר׃"
+pericope: "[[1Kgs.9.10 Solomon’s Additional Achievements|Solomon’s Additional Achievements]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 9
+book/chapter: "[[1Kgs.9|1 Kings 9]]"
+chronological_order: 534
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic GEZER|GEZER]]"
+- "[[topic HAZOR|HAZOR]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MEGIDDO|MEGIDDO]]"
+- "[[topic MILLO|MILLO]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TAX|TAX]]"
+strongs:
+- "[[H9002]]"
+- "[[H2088]]"
+- "[[H1697M]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4522]]"
+- "[[H0834A]]"
+- "[[H5927H]]"
+- "[[H9015]]"
+- "[[H4428G]]"
+- "[[H8010]]"
+- "[[H9005]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H4407]]"
+- "[[H2346G]]"
+- "[[H3389]]"
+- "[[H2674G]]"
+- "[[H4023]]"
+- "[[H1507]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 9:15**<big><big>[[1Kgs.9.10 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this [is] the reason of the levy which king Solomon raised; for to build the house of the LORD, and his own house, and Millo, and the wall of Jerusalem, and Hazor, and Megiddo, and Gezer.
 <small><sub>**BSB:**</sub></small>
 This is the account of the forced labor that King Solomon imposed to build the house of the LORD, his own palace, the supporting terraces, and the wall of Jerusalem, as well as Hazor, Megiddo, and Gezer.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2088\|זֶ֨ה]] [[H1697M\|דְבַר]][[H9014\|־]] [[H9009\|הַ]][[H4522\|מַּ֜ס]] [[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H5927H\|הֶעֱלָ֣ה]][[H9015\|׀]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H8010\|שְׁלֹמֹ֗ה]] [[H9005\|לִ]][[H1129\|בְנוֹת֩]] [[H0853\|אֶת]][[H9014\|־]] [[H1004Q\|בֵּ֨ית]] [[H3068G\|יְהוָ֤ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1004B\|בֵּית]][[H9023\|וֹ֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4407\|מִּלּ֔וֹא]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H2346G\|חוֹמַ֣ת]] [[H3389\|יְרוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2674G\|חָצֹ֥ר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4023\|מְגִדּ֖וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1507\|גָּֽזֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIJAH|ELIJAH]] • [[topic GEZER|GEZER]] • [[topic HAZOR|HAZOR]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MEGIDDO|MEGIDDO]] • [[topic MILLO|MILLO]] • [[topic SOLOMON|SOLOMON]] • [[topic TAX|TAX]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.14|<< 1 Kings 9:14]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.16|1 Kings 9:16 >>]]</td></tr></table>
 

@@ -1,8 +1,52 @@
+---
+title: Psalm 29:10
+type: Verse
+kjv: "The LORD sitteth upon the flood; yea, the LORD sitteth King for ever."
+bsb: "The LORD sits enthroned over the flood; the LORD is enthroned as King forever."
+hebrew: "יְ֭הוָה לַמַּבּ֣וּל יָשָׁ֑ב וַיֵּ֥שֶׁב יְ֝הוָ֗ה מֶ֣לֶךְ לְעוֹלָֽם׃"
+pericope: "[[Ps.29.1 Ascribe Glory to the LORD|Ascribe Glory to the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 29
+book/chapter: "[[Ps.29|Psalm 29]]"
+chronological_order: 361
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+strongs:
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H3999]]"
+- "[[H3427]]"
+- "[[H9001]]"
+- "[[H4428G]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 29:10**<big><big>[[Ps.29.1 Ascribe Glory to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD sitteth upon the flood; yea, the LORD sitteth King for ever.
 <small><sub>**BSB:**</sub></small>
 The LORD sits enthroned over the flood; the LORD is enthroned as King forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְ֭הוָה]] [[H9005\|לַ]][[H3999\|מַּבּ֣וּל]] [[H3427\|יָשָׁ֑ב]] [[H9001\|וַ]][[H3427\|יֵּ֥שֶׁב]] [[H3068G\|יְ֝הוָ֗ה]] [[H4428G\|מֶ֣לֶךְ]] [[H9005\|לְ]][[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.29.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.29.9|<< Psalms 29:9]]</td><td align="center" style="border:none;">[[Ps.29|Psalms 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.29.11|Psalms 29:11 >>]]</td></tr></table>
 

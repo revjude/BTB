@@ -1,8 +1,49 @@
+---
+title: Job 29:23
+type: Verse
+kjv: "And they waited for me as for the rain; and they opened their mouth wide as for the latter rain."
+bsb: "They waited for me as for rain and drank in my words like spring showers."
+hebrew: "וְיִֽחֲל֣וּ כַמָּטָ֣ר לִ֑י וּ֝פִיהֶ֗ם פָּעֲר֥וּ לְמַלְקֽוֹשׁ׃"
+pericope: "[[Job.29.1 Job’s Former Blessings|Job’s Former Blessings]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 29
+book/chapter: "[[Job.29|Job 29]]"
+chronological_order: 40
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H9001]]"
+- "[[H3176G]]"
+- "[[H9004]]"
+- "[[H4306]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H6310G]]"
+- "[[H9028]]"
+- "[[H6473]]"
+- "[[H4456]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 29:23**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they waited for me as for the rain; and they opened their mouth wide [as] for the latter rain.
 <small><sub>**BSB:**</sub></small>
 They waited for me as for rain and drank in my words like spring showers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3176G\|יִֽחֲל֣וּ]] [[H9004\|כַ]][[H4306\|מָּטָ֣ר]] [[H9005\|לִ֑]][[H9030\|י]] [[H9002\|וּ֝]][[H6310G\|פִי]][[H9028\|הֶ֗ם]] [[H6473\|פָּעֲר֥וּ]] [[H9005\|לְ]][[H4456\|מַלְקֽוֹשׁ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.22|<< Job 29:22]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.24|Job 29:24 >>]]</td></tr></table>
 

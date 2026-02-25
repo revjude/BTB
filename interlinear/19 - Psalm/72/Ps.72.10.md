@@ -1,8 +1,61 @@
+---
+title: Psalm 72:10
+type: Verse
+kjv: "The kings of Tarshish and of the isles shall bring presents: the kings of Sheba and Seba shall offer gifts."
+bsb: "May the kings of Tarshish and distant shores bring tribute; may the kings of Sheba and Seba offer gifts."
+hebrew: "מַלְכֵ֬י תַרְשִׁ֣ישׁ וְ֭אִיִּים מִנְחָ֣ה יָשִׁ֑יבוּ מַלְכֵ֥י שְׁבָ֥א וּ֝סְבָ֗א אֶשְׁכָּ֥ר יַקְרִֽיבוּ׃"
+pericope: "[[Ps.72.1 Endow the King with Your Justice|Endow the King with Your Justice]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 72
+book/chapter: "[[Ps.72|Psalm 72]]"
+chronological_order: 446
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KING|KING]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SEBA|SEBA]]"
+- "[[topic SHEBA|SHEBA]]"
+- "[[topic TARSHISH|TARSHISH]]"
+strongs:
+- "[[H4428G]]"
+- "[[H8659H]]"
+- "[[H9002]]"
+- "[[H0339]]"
+- "[[H4503I]]"
+- "[[H7725K]]"
+- "[[H7614J]]"
+- "[[H5434H]]"
+- "[[H0814]]"
+- "[[H7126H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 72:10**<big><big>[[Ps.72.1 Endow the King with Your Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The kings of Tarshish and of the isles shall bring presents: the kings of Sheba and Seba shall offer gifts.
 <small><sub>**BSB:**</sub></small>
 May the kings of Tarshish and distant shores bring tribute; may the kings of Sheba and Seba offer gifts.
+<small><sub>**Hebrew:**</sub></small>
+[[H4428G\|מַלְכֵ֬י]] [[H8659H\|תַרְשִׁ֣ישׁ]] [[H9002\|וְ֭]][[H0339\|אִיִּים]] [[H4503I\|מִנְחָ֣ה]] [[H7725K\|יָשִׁ֑יבוּ]] [[H4428G\|מַלְכֵ֥י]] [[H7614J\|שְׁבָ֥א]] [[H9002\|וּ֝]][[H5434H\|סְבָ֗א]] [[H0814\|אֶשְׁכָּ֥ר]] [[H7126H\|יַקְרִֽיבוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KING|KING]] • [[topic RULERS|RULERS]] • [[topic SEBA|SEBA]] • [[topic SHEBA|SHEBA]] • [[topic TARSHISH|TARSHISH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.72.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.9|<< Psalms 72:9]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.11|Psalms 72:11 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Death of Jacob
+type: Pericope
 pericope: "[[Gen.49.29 The Death of Jacob|The Death of Jacob]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 49
 book/chapter: "[[Gen.49|Genesis 49]]"
-genre:
+chronological_order: 91
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 5
 verses:
 - "[[Gen.49.29]]"
 - "[[Gen.49.30]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Gen.49.33]]"
 ---
 
-[[Gen.49|Genesis 49:29 - Genesis 49:33]]
+<small>[[Gen.49|Genesis 49:29-33]]</small>
 *The Death of Jacob*
 
 [[Gen.49.29|29]] And he charged them, and said unto them, I am to be gathered unto my people: bury me with my fathers in the cave that \[is\] in the field of Ephron the Hittite,

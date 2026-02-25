@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Moses Separates the People
+type: Pericope
 pericope: "[[Num.16.23 Moses Separates the People|Moses Separates the People]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 16
 book/chapter: "[[Num.16|Numbers 16]]"
-genre:
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 5
 verses:
 - "[[Num.16.23]]"
 - "[[Num.16.24]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Num.16.27]]"
 ---
 
-[[Num.16|Numbers 16:23 - Numbers 16:27]]
+<small>[[Num.16|Numbers 16:23-27]]</small>
 *Moses Separates the People*
 
 [[Num.16.23|23]] And the LORD spake unto Moses, saying,

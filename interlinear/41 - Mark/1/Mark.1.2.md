@@ -1,10 +1,65 @@
+---
+title: Mark 1:2
+type: Verse
+kjv: "As it is written in the prophets, Behold, I send my messenger before thy face, which shall prepare thy way before thee."
+bsb: "As it is written in Isaiah the prophet: “Behold, I will send My messenger ahead of You, who will prepare Your way.”"
+greek: "καθὼς γέγραπται ἐν τῷ Ἠσαΐᾳ τῷ προφήτῃ· ἰδοὺ ἐγὼ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου, ὃς κατασκευάσει τὴν ὁδόν σου ἔμπροσθέν σου."
+pericope: "[[Mark.1.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 1
+book/chapter: "[[Mark.1|Mark 1]]"
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JOHN|JOHN]]"
+- "[[topic MESSENGER|MESSENGER]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G2531]]"
+- "[[G1125]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2268]]"
+- "[[G4396]]"
+- "[[G2400]]"
+- "[[G1473]]"
+- "[[G0649]]"
+- "[[G0032H]]"
+- "[[G3165]]"
+- "[[G4253]]"
+- "[[G4383]]"
+- "[[G4771]]"
+- "[[G3739]]"
+- "[[G2680]]"
+- "[[G3598]]"
+- "[[G1715]]"
+texts:
+- N(k)O
+- NKO
+- NO
+- KO
+- K
+---
+
 **Mark 1:2**<big><big>[[Mark.1.1 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As it is written in the prophets, Behold, I send my messenger before thy face, which shall prepare thy way before thee.
 <small><sub>**BSB:**</sub></small>
 As it is written in Isaiah the prophet: “Behold, I will send My messenger ahead of You, who will prepare Your way.”
-<small><sub>**Literal:**</sub></small>
-Even as it has been written in <the> Isaiah in the prophet: Behold I myself send the messenger of Mine before face of You, who will prepare the way of You before of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.1|<< Mark 1:1]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.3|Mark 1:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2531\|καθὼς]]  [[G1125\|γέγραπται]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2268\|Ἠσαΐᾳ]]  [[G3588\|τῷ]]  [[G4396\|προφήτῃ·]]  [[G2400\|ἰδοὺ]]  [[G1473\|ἐγὼ]]  [[G0649\|ἀποστέλλω]]  [[G3588\|τὸν]]  [[G0032H\|ἄγγελόν]]  [[G3165\|μου]]  [[G4253\|πρὸ]]  [[G4383\|προσώπου]]  [[G4771\|σου,]]  [[G3739\|ὃς]]  [[G2680\|κατασκευάσει]]  [[G3588\|τὴν]]  [[G3598\|ὁδόν]]  [[G4771\|σου]]  [[G1715\|ἔμπροσθέν]]  [[G4771\|σου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOHN|JOHN]] • [[topic MESSENGER|MESSENGER]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.1|<< Mark 1:1]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.3|Mark 1:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 1:2** is...
 > $\quad$ referencing: [[LXX.Exod.23.20|Exod 23:20]] ☩ [[LXX.Isa.40.3|Isa 40:3]] ☩ [[LXX.Mal.3.1|Mal 3:1]]

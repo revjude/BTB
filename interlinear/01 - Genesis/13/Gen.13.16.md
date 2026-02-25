@@ -1,8 +1,64 @@
+---
+title: Genesis 13:16
+type: Verse
+kjv: "And I will make thy seed as the dust of the earth: so that if a man can number the dust of the earth, then shall thy seed also be numbered."
+bsb: "I will make your offspring like the dust of the earth, so that if one could count the dust of the earth, then your offspring could be counted."
+hebrew: "וְשַׂמְתִּ֥י אֶֽת־ זַרְעֲךָ֖ כַּעֲפַ֣ר הָאָ֑רֶץ אֲשֶׁ֣ר׀ אִם־ יוּכַ֣ל אִ֗ישׁ לִמְנוֹת֙ אֶת־ עֲפַ֣ר הָאָ֔רֶץ גַּֽם־ זַרְעֲךָ֖ יִמָּנֶֽה׃"
+pericope: "[[Gen.13.14 God Renews the Promise to Abram|God Renews the Promise to Abram]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 13
+book/chapter: "[[Gen.13|Genesis 13]]"
+chronological_order: 55
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic LAND|LAND]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2233H]]"
+- "[[H9021]]"
+- "[[H9004]]"
+- "[[H6083]]"
+- "[[H9009]]"
+- "[[H0776H]]"
+- "[[H0834A]]"
+- "[[H9015]]"
+- "[[H0518A]]"
+- "[[H3201]]"
+- "[[H0376I]]"
+- "[[H9005]]"
+- "[[H4487]]"
+- "[[H1571]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 13:16**<big><big>[[Gen.13.14 God Renews the Promise to Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make thy seed as the dust of the earth: so that if a man can number the dust of the earth, [then] shall thy seed also be numbered.
 <small><sub>**BSB:**</sub></small>
 I will make your offspring like the dust of the earth, so that if one could count the dust of the earth, then your offspring could be counted.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7760A\|שַׂמְתִּ֥י]] [[H0853\|אֶֽת]][[H9014\|־]] [[H2233H\|זַרְעֲ]][[H9021\|ךָ֖]] [[H9004\|כַּ]][[H6083\|עֲפַ֣ר]] [[H9009\|הָ]][[H0776H\|אָ֑רֶץ]] [[H0834A\|אֲשֶׁ֣ר]][[H9015\|׀]] [[H0518A\|אִם]][[H9014\|־]] [[H3201\|יוּכַ֣ל]] [[H0376I\|אִ֗ישׁ]] [[H9005\|לִ]][[H4487\|מְנוֹת֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6083\|עֲפַ֣ר]] [[H9009\|הָ]][[H0776H\|אָ֔רֶץ]] [[H1571\|גַּֽם]][[H9014\|־]] [[H2233H\|זַרְעֲ]][[H9021\|ךָ֖]] [[H4487\|יִמָּנֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic ISRAEL|ISRAEL]] • [[topic LAND|LAND]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.13.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.13.15|<< Genesis 13:15]]</td><td align="center" style="border:none;">[[Gen.13|Genesis 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.13.17|Genesis 13:17 >>]]</td></tr></table>
 

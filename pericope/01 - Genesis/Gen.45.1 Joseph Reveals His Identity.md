@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joseph Reveals His Identity
+type: Pericope
 pericope: "[[Gen.45.1 Joseph Reveals His Identity|Joseph Reveals His Identity]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 45
 book/chapter: "[[Gen.45|Genesis 45]]"
-genre:
+chronological_order: 87
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 8
 verses:
 - "[[Gen.45.1]]"
 - "[[Gen.45.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Gen.45.8]]"
 ---
 
-[[Gen.45|Genesis 45:1 - Genesis 45:8]]
+<small>[[Gen.45|Genesis 45:1-8]]</small>
 *Joseph Reveals His Identity*
 
 [[Gen.45.1|1]] Then Joseph could not refrain himself before all them that stood by him; and he cried, Cause every man to go out from me. And there stood no man with him, while Joseph made himself known unto his brethren.

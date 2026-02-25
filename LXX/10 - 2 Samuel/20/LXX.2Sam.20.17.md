@@ -1,6 +1,69 @@
+---
+title: LXX 2 Samuel 20:17
+type: Verse
+lxx: "And he drew near to her. And the woman said, Are you Joab? And he said, I am. And she said to him, Hear the words  of your maidservant! And he said, I am listening."
+greek: "και προσήγγισε προς αυτήν και είπεν η γυνή ει συ Ιωάβ και είπεν εγώ είπε δε αυτώ άκουσον τους λόγους της δούλης σου και είπεν ακούω εγώ ειμι"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 20
+book/chapter: "[[2Sam.20|2 Samuel 20]]"
+chronological_order: 419
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABEL-BETH-MAACHAH|ABEL-BETH-MAACHAH]]"
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[G2532]]"
+- "[[G4331]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G1135]]"
+- "[[G1487]]"
+- "[[G1473]]"
+- "[[H3097]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1473]]"
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G1473]]"
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G3588]]"
+- "[[G1399]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0191]]"
+- "[[G1473]]"
+- "[[G1510]]"
+---
+
 **LXX 2 Samuel 20:17** 
 <small><sub>**LXX:**</sub></small>
 And he drew near to her. And the woman said, Are you Joab? And he said, I \[am\]. And she said to him, Hear the words  of your maidservant! And he said, I am listening. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G4331\|προσήγγισε]] [[G4314\|προς]] [[G1473\|αυτήν]] [[G2532\|και]] [[G2036\|είπεν]] [[G3588\|η]] [[G1135\|γυνή]] [[G1487\|ει]] [[G1473\|συ]] [[H3097\|Ιωάβ]] [[G2532\|και]] [[G2036\|είπεν]] [[G1473\|εγώ]] [[G2036\|είπε]] [[G1161\|δε]] [[G1473\|αυτώ]] [[G0191\|άκουσον]] [[G3588\|τους]] [[G3056\|λόγους]] [[G3588\|της]] [[G1399\|δούλης]] [[G1473\|σου]] [[G2532\|και]] [[G2036\|είπεν]] [[G0191\|ακούω]] [[G1473\|εγώ]] [[G1510\|ειμι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABEL-BETH-MAACHAH|ABEL-BETH-MAACHAH]] • [[topic ABISHAI|ABISHAI]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic JOAB|JOAB]] • [[topic POLITICS|POLITICS]] • [[topic TACT|TACT]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.20.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.16|<< 2 Samuel 20:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.18|2 Samuel 20:18 >>]]</td></tr></table>
 
@@ -31,6 +94,6 @@ And he drew near to her. And the woman said, Are you Joab? And he said, I \[am\]
 | listening | **<big>[[G0191\|ακούω]]</big>** |
 | I | **<big>[[G1473\|εγώ]]</big>** |
 | am | **<big>[[G1510\|ειμι]]</big>** |
-[[2Sam.20.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.16|<< 2 Samuel 20:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.18|2 Samuel 20:18 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.16|<< 2 Samuel 20:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.18|2 Samuel 20:18 >>]]</td></tr></table>
 
 

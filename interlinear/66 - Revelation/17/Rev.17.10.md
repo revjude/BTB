@@ -1,10 +1,57 @@
+---
+title: Revelation 17:10
+type: Verse
+kjv: "And there are seven kings: five are fallen, and one is, and the other is not yet come; and when he cometh, he must continue a short space."
+bsb: "There are also seven kings. Five have fallen, one is, and the other has not yet come. But when he does come, he must remain for only a little while."
+greek: "οἱ πέντε ἔπεσαν, καὶ ὁ εἷς ἔστιν, ὁ ἄλλος οὔπω ἦλθεν· καὶ ὅταν ἔλθῃ, ὀλίγον αὐτὸν δεῖ μεῖναι.¶"
+pericope: "[[Rev.17.6 The Mystery Explained|The Mystery Explained]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 17
+book/chapter: "[[Rev.17|Revelation 17]]"
+chronological_order: 1184
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic HORN|HORN]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G4002]]"
+- "[[G4098]]"
+- "[[G2532]]"
+- "[[G1520]]"
+- "[[G1510]]"
+- "[[G0243]]"
+- "[[G3768]]"
+- "[[G2064]]"
+- "[[G3752]]"
+- "[[G3641]]"
+- "[[G0846]]"
+- "[[G1163]]"
+- "[[G3306]]"
+texts:
+- NKO
+- k
+---
+
 **Revelation 17:10**<big><big>[[Rev.17.6 The Mystery Explained|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there are seven kings: five are fallen, and one is, [and] the other is not yet come; and when he cometh, he must continue a short space.
 <small><sub>**BSB:**</sub></small>
 There are also seven kings. Five have fallen, one is, and the other has not yet come. But when he does come, he must remain for only a little while.
-<small><sub>**Literal:**</sub></small>
-The five are fallen, and the one is, the other not yet has come; and when he may have come, a little while him it behooves to remain.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.9|<< Revelation 17:9]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.11|Revelation 17:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G4002\|πέντε]]  [[G4098\|ἔπεσαν,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G1520\|εἷς]]  [[G1510\|ἔστιν,]]  [[G3588\|ὁ]]  [[G0243\|ἄλλος]]  [[G3768\|οὔπω]]  [[G2064\|ἦλθεν·]]  [[G2532\|καὶ]]  [[G3752\|ὅταν]]  [[G2064\|ἔλθῃ,]]  [[G3641\|ὀλίγον]]  [[G0846\|αὐτὸν]]  [[G1163\|δεῖ]]  [[G3306\|μεῖναι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HORN|HORN]] • [[topic SEVEN|SEVEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.9|<< Revelation 17:9]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.11|Revelation 17:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

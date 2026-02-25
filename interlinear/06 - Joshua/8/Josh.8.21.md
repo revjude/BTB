@@ -1,8 +1,62 @@
+---
+title: Joshua 8:21
+type: Verse
+kjv: "And when Joshua and all Israel saw that the ambush had taken the city, and that the smoke of the city ascended, then they turned again, and slew the men of Ai."
+bsb: "When Joshua and all Israel saw that the men in ambush had captured the city and that smoke was rising from it, they turned around and struck down the men of Ai."
+hebrew: "וִיהוֹשֻׁ֨עַ וְכָֽל־ יִשְׂרָאֵ֜ל רָא֗וּ כִּֽי־ לָכַ֤ד הָֽאֹרֵב֙ אֶת־ הָעִ֔יר וְכִ֥י עָלָ֖ה עֲשַׁ֣ן הָעִ֑יר וַיָּשֻׁ֕בוּ וַיַּכּ֖וּ אֶת־ אַנְשֵׁ֥י הָעָֽי׃"
+pericope: "[[Josh.8.1 The Conquest of Ai|The Conquest of Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 8
+book/chapter: "[[Josh.8|Joshua 8]]"
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMBUSH|AMBUSH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[H9002]]"
+- "[[H3091G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H7200G]]"
+- "[[H3588A]]"
+- "[[H3920]]"
+- "[[H9009]]"
+- "[[H0693]]"
+- "[[H0853]]"
+- "[[H5892B]]"
+- "[[H5927G]]"
+- "[[H6227]]"
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H5221]]"
+- "[[H0582]]"
+- "[[H5857G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 8:21**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Joshua and all Israel saw that the ambush had taken the city, and that the smoke of the city ascended, then they turned again, and slew the men of Ai.
 <small><sub>**BSB:**</sub></small>
 When Joshua and all Israel saw that the men in ambush had captured the city and that smoke was rising from it, they turned around and struck down the men of Ai.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וִ]][[H3091G\|יהוֹשֻׁ֨עַ]] [[H9002\|וְ]][[H3605\|כָֽל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H7200G\|רָא֗וּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3920\|לָכַ֤ד]] [[H9009\|הָֽ]][[H0693\|אֹרֵב֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H9002\|וְ]][[H3588A\|כִ֥י]] [[H5927G\|עָלָ֖ה]] [[H6227\|עֲשַׁ֣ן]] [[H9009\|הָ]][[H5892B\|עִ֑יר]] [[H9001\|וַ]][[H7725G\|יָּשֻׁ֕בוּ]] [[H9001\|וַ]][[H5221\|יַּכּ֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0582\|אַנְשֵׁ֥י]] [[H9009\|הָ]][[H5857G\|עָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBUSH|AMBUSH]] • [[topic ARMIES|ARMIES]] • [[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.20|<< Joshua 8:20]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.22|Joshua 8:22 >>]]</td></tr></table>
 

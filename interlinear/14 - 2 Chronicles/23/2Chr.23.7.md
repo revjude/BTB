@@ -1,8 +1,65 @@
+---
+title: 2 Chronicles 23:7
+type: Verse
+kjv: "And the Levites shall compass the king round about, every man with his weapons in his hand; and whosoever else cometh into the house, he shall be put to death: but be ye with the king when he cometh in, and when he goeth out."
+bsb: "The Levites must surround the king with weapons in hand, and anyone who enters the temple must be put to death. You must stay close to the king wherever he goes.”"
+hebrew: "וְהִקִּיפוּ֩ הַלְוִיִּ֨ם אֶת־ הַמֶּ֜לֶךְ סָבִ֗יב אִ֚ישׁ וְכֵלָ֣יו בְּיָד֔וֹ וְהַבָּ֥א אֶל־ הַבַּ֖יִת יוּמָ֑ת וִֽהְי֥וּ אֶת־ הַמֶּ֖לֶךְ בְּבֹא֥וֹ וּבְצֵאתֽוֹ׃"
+pericope: "[[2Chr.23.1 Joash Anointed King of Judah|Joash Anointed King of Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 23
+book/chapter: "[[2Chr.23|2 Chronicles 23]]"
+chronological_order: 588
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5362B]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H5439G]]"
+- "[[H0376I]]"
+- "[[H9002]]"
+- "[[H3627]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H1004B]]"
+- "[[H4191]]"
+- "[[H1961]]"
+- "[[H0854]]"
+- "[[H9043]]"
+- "[[H3318G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 23:7**<big><big>[[2Chr.23.1 Joash Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Levites shall compass the king round about, every man with his weapons in his hand; and whosoever [else] cometh into the house, he shall be put to death: but be ye with the king when he cometh in, and when he goeth out.
 <small><sub>**BSB:**</sub></small>
 The Levites must surround the king with weapons in hand, and anyone who enters the temple must be put to death. You must stay close to the king wherever he goes.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5362B\|הִקִּיפוּ֩]] [[H9009\|הַ]][[H3881\|לְוִיִּ֨ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H5439G\|סָבִ֗יב]] [[H0376I\|אִ֚ישׁ]] [[H9002\|וְ]][[H3627\|כֵלָ֣י]][[H9023\|ו]] [[H9003\|בְּ]][[H3027G\|יָד֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H9009\|הַ]][[H0935G\|בָּ֥א]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּ֖יִת]] [[H4191\|יוּמָ֑ת]] [[H9002\|וִֽ]][[H1961\|הְי֥וּ]] [[H0854\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H9003\|בְּ]][[H0935G\|בֹא֥]][[H9043\|וֹ]] [[H9002\|וּ]][[H9003\|בְ]][[H3318G\|צֵאתֽ]][[H9043\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LEVITES|LEVITES]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.23.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.23.6|<< 2 Chronicles 23:6]]</td><td align="center" style="border:none;">[[2Chr.23|2 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.23.8|2 Chronicles 23:8 >>]]</td></tr></table>
 

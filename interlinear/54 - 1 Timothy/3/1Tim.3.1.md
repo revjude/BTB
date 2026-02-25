@@ -1,10 +1,52 @@
+---
+title: 1 Timothy 3:1
+type: Verse
+kjv: "This is a true saying, If a man desire the office of a bishop, he desireth a good work."
+bsb: "This is a trustworthy saying: If anyone aspires to be an overseer, he desires a noble task."
+greek: "Πιστὸς ὁ λόγος· εἴ τις ἐπισκοπῆς ὀρέγεται, καλοῦ ἔργου ἐπιθυμεῖ."
+pericope: "[[1Tim.3.1 Qualifications for Overseers|Qualifications for Overseers]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 3
+book/chapter: "[[1Tim.3|1 Timothy 3]]"
+chronological_order: 1128
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G4103]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G1984]]"
+- "[[G3713]]"
+- "[[G2570G]]"
+- "[[G2041]]"
+- "[[G1937]]"
+texts:
+- NKO
+---
+
 **1 Timothy 3:1**<big><big>[[1Tim.3.1 Qualifications for Overseers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This [is] a true saying, If a man desire the office of a bishop, he desireth a good work.
 <small><sub>**BSB:**</sub></small>
 This is a trustworthy saying: If anyone aspires to be an overseer, he desires a noble task.
-<small><sub>**Literal:**</sub></small>
-Trustworthy [is] the saying: If anyone overseership aspires to, of good a work he is desirous.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.2.15|<< 1 Timothy 2:15]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.2|1 Timothy 3:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4103\|Πιστὸς]]  [[G3588\|ὁ]]  [[G3056\|λόγος·]]  [[G1487G\|εἴ]]  [[G5100\|τις]]  [[G1984\|ἐπισκοπῆς]]  [[G3713\|ὀρέγεται,]]  [[G2570G\|καλοῦ]]  [[G2041\|ἔργου]]  [[G1937\|ἐπιθυμεῖ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CHURCH|CHURCH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.2.15|<< 1 Timothy 2:15]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.2|1 Timothy 3:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

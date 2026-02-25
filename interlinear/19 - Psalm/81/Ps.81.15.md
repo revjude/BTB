@@ -1,8 +1,56 @@
+---
+title: Psalm 81:15
+type: Verse
+kjv: "The haters of the LORD should have submitted themselves unto him: but their time should have endured for ever."
+bsb: "Those who hate the LORD would feign obedience, and their doom would last forever."
+hebrew: "מְשַׂנְאֵ֣י יְ֭הוָה יְכַֽחֲשׁוּ־ ל֑וֹ וִיהִ֖י עִתָּ֣ם לְעוֹלָֽם׃"
+pericope: "[[Ps.81.1 Sing for Joy to God Our Strength|Sing for Joy to God Our Strength]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 81
+book/chapter: "[[Ps.81|Psalm 81]]"
+chronological_order: 511
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H8130]]"
+- "[[H3068G]]"
+- "[[H3584]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H6256]]"
+- "[[H9028]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 81:15**<big><big>[[Ps.81.1 Sing for Joy to God Our Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The haters of the LORD should have submitted themselves unto him: but their time should have endured for ever.
 <small><sub>**BSB:**</sub></small>
 Those who hate the LORD would feign obedience, and their doom would last forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H8130\|מְשַׂנְאֵ֣י]] [[H3068G\|יְ֭הוָה]] [[H3584\|יְכַֽחֲשׁוּ]][[H9014\|־]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H9002\|וִ]][[H1961\|יהִ֖י]] [[H6256\|עִתָּ֣]][[H9028\|ם]] [[H9005\|לְ]][[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.81.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.81.14|<< Psalms 81:14]]</td><td align="center" style="border:none;">[[Ps.81|Psalms 81]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.81.16|Psalms 81:16 >>]]</td></tr></table>
 

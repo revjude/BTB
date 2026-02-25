@@ -1,8 +1,59 @@
+---
+title: Hosea 2:10
+type: Verse
+kjv: "And now will I discover her lewdness in the sight of her lovers, and none shall deliver her out of mine hand."
+bsb: "And then I will expose her lewdness in the sight of her lovers, and no one will deliver her out of My hands."
+hebrew: "וְעַתָּ֛ה אֲגַלֶּ֥ה אֶת־ נַבְלֻתָ֖הּ לְעֵינֵ֣י מְאַהֲבֶ֑יהָ וְאִ֖ישׁ לֹֽא־ יַצִּילֶ֥נָּה מִיָּדִֽי׃"
+pericope: "[[Hos.2.1 Israel’s Adultery Rebuked|Israel’s Adultery Rebuked]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 2
+book/chapter: "[[Hos.2|Hosea 2]]"
+chronological_order: 643
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H1540I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5040]]"
+- "[[H9024]]"
+- "[[H9005]]"
+- "[[H5869H]]"
+- "[[H0157G]]"
+- "[[H9034]]"
+- "[[H0376I]]"
+- "[[H3808]]"
+- "[[H5337]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 2:10**<big><big>[[Hos.2.1 Israel’s Adultery Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now will I discover her lewdness in the sight of her lovers, and none shall deliver her out of mine hand.
 <small><sub>**BSB:**</sub></small>
 And then I will expose her lewdness in the sight of her lovers, and no one will deliver her out of My hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֛ה]] [[H1540I\|אֲגַלֶּ֥ה]] [[H0853\|אֶת]][[H9014\|־]] [[H5040\|נַבְלֻתָ֖]][[H9024\|הּ]] [[H9005\|לְ]][[H5869H\|עֵינֵ֣י]] [[H0157G\|מְאַהֲבֶ֑י]][[H9034\|הָ]] [[H9002\|וְ]][[H0376I\|אִ֖ישׁ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5337\|יַצִּילֶ֥]][[H9034\|נָּה]] [[H9006\|מִ]][[H3027H\|יָּדִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.9|<< Hosea 2:9]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.11|Hosea 2:11 >>]]</td></tr></table>
 

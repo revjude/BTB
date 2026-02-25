@@ -11,17 +11,17 @@
 
 - Sent with others to view the promised land [[Num.13.8|Nu 13:8]]
 
-- Makes a favorable report [[Num.14.6|Nu 14:6]]-[[Num.14.10|10]]
+- Makes a favorable report [[Num.14.6|Nu 14:6-10]]
 
 - Rewarded for his courage and fidelity [[Num.14.30|Nu 14:30]],[[Num.14.38|38]]; [[Num.32.12|32:12]]
 
-- Commissioned, ordained, and charged with the responsibilites  of Moses' office [[Num.27.18|Nu 27:18]]-[[Num.27.23|23]]; [[Deut.1.38|De 1:38]]; [[Deut.3.28|3:28]]; [[Deut.31.3|31:3]],[[Deut.31.7|7]],[[Deut.31.23|23]]; [[Deut.34.9|34:9]]
+- Commissioned, ordained, and charged with the responsibilites  of Moses' office [[Num.27.18|Nu 27:18-23]]; [[Deut.1.38|De 1:38]]; [[Deut.3.28|3:28]]; [[Deut.31.3|31:3]],[[Deut.31.7|7]],[[Deut.31.23|23]]; [[Deut.34.9|34:9]]
 
 - Divinely inspired [[Num.27.18|Nu 27:18]]; [[Deut.34.9|De 34:9]]; [[Josh.1.5|Jos 1:5]],[[Josh.1.9|9]]; [[Josh.3.7|3:7]]; [[Josh.8.8|8:8]]
 
 - His life miraculously preserved when he made a favorable report  about the land [[Num.14.10|Nu 14:10]]
 
-- Promises to [[Josh.1.5|Jos 1:5]]-[[Josh.1.9|9]]
+- Promises to [[Josh.1.5|Jos 1:5-9]]
 
 - Leads the people into the land of Canaan [[Josh.1|Jos 1]]; [[Josh.2|2]]; [[Josh.3|3]]; [[Josh.4|4]]; [[Acts.7.45|Ac 7:45]]; [[Heb.4.8|Heb 4:8]]
 
@@ -31,13 +31,13 @@
 
 - Captures Ai [[Josh.7|Jos 7]]; [[Josh.8|8]]
 
-- Makes a treaty with the Gibeonites [[Josh.9.3|Jos 9:3]]-[[Josh.9.27|27]]
+- Makes a treaty with the Gibeonites [[Josh.9.3|Jos 9:3-27]]
 
 - The kings of the six nations of the Canaanites band together  against him [[Josh.9.1|Jos 9:1]],[[Josh.9.2|2]]
 
 - The six kings make war upon the Gibeonites; are defeated and  killed [[Josh.10|Jos 10]]
 
-- Defeats seven other kings [[Josh.10.28|Jos 10:28]]-[[Josh.10.43|43]]
+- Defeats seven other kings [[Josh.10.28|Jos 10:28-43]]
 
 - Conquers Hazor [[Josh.11|Jos 11]]
 
@@ -55,13 +55,13 @@
 
 - Exhortation of, before his death [[Josh.23|Jos 23]]; [[Josh.24|24]]
 
-- Survives the Israelites who refused to enter the promised land [[Num.26.63|Nu 26:63]]-[[Num.26.65|65]]
+- Survives the Israelites who refused to enter the promised land [[Num.26.63|Nu 26:63-65]]
 
 - His portion of the land [[Josh.19.49|Jos 19:49]],[[Josh.19.50|50]]
 
 - Death and burial of [[Josh.24.29|Jos 24:29]],[[Josh.24.30|30]]
 
-- Esteem with which he was held [[Josh.1.16|Jos 1:16]]-[[Josh.1.18|18]]
+- Esteem with which he was held [[Josh.1.16|Jos 1:16-18]]
 
 - Faith of [[Josh.6.16|Jos 6:16]]
 
@@ -85,9 +85,9 @@
 
 - The high priest of the captivity [[Ezra.2.2|Ezr 2:2]]
 
-- Assists Zerubbabel in restoring the temple [[Ezra.3|Ezr 3]]; [[Ezra.4.1|4:1]]-[[Ezra.4.6|6]]; [[Ezra.5|5]]; [[Hag.1.1|Hag 1:1]],[[Hag.1.12|12]]-[[Hag.1.14|14]]; [[Hag.2.2|2:2]]
+- Assists Zerubbabel in restoring the temple [[Ezra.3|Ezr 3]]; [[Ezra.4.1|4:1-6]]; [[Ezra.5|5]]; [[Hag.1.1|Hag 1:1]],[[Hag.1.12|12-14]]; [[Hag.2.2|2:2]]
 
 → SYMBOLICAL
 
-- Of the restoration of God's people [[Zech.3|Zec 3]]; [[Zech.6.9|6:9]]-[[Zech.6.15|15]]
+- Of the restoration of God's people [[Zech.3|Zec 3]]; [[Zech.6.9|6:9-15]]
 

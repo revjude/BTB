@@ -1,10 +1,66 @@
+---
+title: Matthew 11:21
+type: Verse
+kjv: "Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works, which were done in you, had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes."
+bsb: "“Woe to you, Chorazin! Woe to you, Bethsaida! For if the miracles that were performed in you had been performed in Tyre and Sidon, they would have repented long ago in sackcloth and ashes."
+jesus_said: "Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works, which were done in you, had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes."
+greek: "Οὐαί σοι Χοραζίν, οὐαί σοι Βηθσαϊδά, ὅτι εἰ ἐν Τύρῳ καὶ Σιδῶνι ἐγένοντο αἱ δυνάμεις αἱ γενόμεναι ἐν ὑμῖν, πάλαι ἂν ἐν σάκκῳ καὶ σποδῷ μετενόησαν."
+pericope: "[[Matt.11.20 Woe to the Unrepentant|Woe to the Unrepentant]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 11
+book/chapter: "[[Matt.11|Matthew 11]]"
+chronological_order: 955
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ASHES|ASHES]]"
+- "[[topic BETHSAIDA|BETHSAIDA]]"
+- "[[topic CHORAZIN|CHORAZIN]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[G3759]]"
+- "[[G4771]]"
+- "[[G5523]]"
+- "[[G0966]]"
+- "[[G3754H]]"
+- "[[G1487G]]"
+- "[[G1722]]"
+- "[[G5184]]"
+- "[[G2532]]"
+- "[[G4605]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G1411]]"
+- "[[G3819]]"
+- "[[G0302]]"
+- "[[G4526]]"
+- "[[G4700]]"
+- "[[G3340]]"
+texts:
+- NKO
+---
+
 **Matthew 11:21**<big><big>[[Matt.11.20 Woe to the Unrepentant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works, which were done in you, had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes.
 <small><sub>**BSB:**</sub></small>
 “Woe to you, Chorazin! Woe to you, Bethsaida! For if the miracles that were performed in you had been performed in Tyre and Sidon, they would have repented long ago in sackcloth and ashes.
-<small><sub>**Literal:**</sub></small>
-Woe to you Chorazin! Woe to you Bethsaida! For if in Tyre and Sidon had taken place the miracles which having come to pass in you, long ago then would in sackcloth and ashes they have repented.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.20|<< Matthew 11:20]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.22|Matthew 11:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3759\|Οὐαί]]  [[G4771\|σοι]]  [[G5523\|Χοραζίν,]]  [[G3759\|οὐαί]]  [[G4771\|σοι]]  [[G0966\|Βηθσαϊδά,]]  [[G3754H\|ὅτι]]  [[G1487G\|εἰ]]  [[G1722\|ἐν]]  [[G5184\|Τύρῳ]]  [[G2532\|καὶ]]  [[G4605\|Σιδῶνι]]  [[G1096\|ἐγένοντο]]  [[G3588\|αἱ]]  [[G1411\|δυνάμεις]]  [[G3588\|αἱ]]  [[G1096\|γενόμεναι]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν,]]  [[G3819\|πάλαι]]  [[G0302\|ἂν]]  [[G1722\|ἐν]]  [[G4526\|σάκκῳ]]  [[G2532\|καὶ]]  [[G4700\|σποδῷ]]  [[G3340\|μετενόησαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHES|ASHES]] • [[topic BETHSAIDA|BETHSAIDA]] • [[topic CHORAZIN|CHORAZIN]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic TYRE|TYRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.20|<< Matthew 11:20]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.22|Matthew 11:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

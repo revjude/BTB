@@ -1,8 +1,60 @@
+---
+title: Psalm 68:4
+type: Verse
+kjv: "Sing unto God, sing praises to his name: extol him that rideth upon the heavens by his name JAH, and rejoice before him."
+bsb: "Sing to God! Sing praises to His name. Exalt Him who rides on the clouds—His name is the LORD—and rejoice before Him."
+hebrew: "שִׁ֤ירוּ׀ לֵֽאלֹהִים֮ זַמְּר֪וּ שְׁ֫מ֥וֹ סֹ֡לּוּ לָרֹכֵ֣ב בָּ֭עֲרָבוֹת בְּיָ֥הּ שְׁמ֗וֹ וְעִלְז֥וּ לְפָנָֽיו׃"
+pericope: "[[Ps.68.1 God’s Enemies Are Scattered|God’s Enemies Are Scattered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 68
+book/chapter: "[[Ps.68|Psalm 68]]"
+chronological_order: 376
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H7891]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H2167]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H5549]]"
+- "[[H7392]]"
+- "[[H9003]]"
+- "[[H6160L]]"
+- "[[H3050]]"
+- "[[H9002]]"
+- "[[H5937]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 68:4**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sing unto God, sing praises to his name: extol him that rideth upon the heavens by his name JAH, and rejoice before him.
 <small><sub>**BSB:**</sub></small>
 Sing to God! Sing praises to His name. Exalt Him who rides on the clouds—His name is the LORD—and rejoice before Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H7891\|שִׁ֤ירוּ]][[H9015\|׀]] [[H9005\|לֵֽ]][[H0430G\|אלֹהִים֮]] [[H2167\|זַמְּר֪וּ]] [[H8034\|שְׁ֫מ֥]][[H9023\|וֹ]] [[H5549\|סֹ֡לּוּ]] [[H9005\|לָ]][[H7392\|רֹכֵ֣ב]] [[H9003\|בָּ֭]][[H6160L\|עֲרָבוֹת]] [[H9003\|בְּ]][[H3050\|יָ֥הּ]] [[H8034\|שְׁמ֗]][[H9023\|וֹ]] [[H9002\|וְ]][[H5937\|עִלְז֥וּ]] [[H9005\|לְ]][[H6440G\|פָנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.3|<< Psalms 68:3]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.5|Psalms 68:5 >>]]</td></tr></table>
 

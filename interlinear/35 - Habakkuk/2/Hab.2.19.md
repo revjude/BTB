@@ -1,8 +1,67 @@
+---
+title: Habakkuk 2:19
+type: Verse
+kjv: "Woe unto him that saith to the wood, Awake; to the dumb stone, Arise, it shall teach! Behold, it is laid over with gold and silver, and there is no breath at all in the midst of it."
+bsb: "Woe to him who says to wood, ‘Awake!’ or to silent stone, ‘Arise!’ Can it give guidance? Behold, it is overlaid with gold and silver, yet there is no breath in it at all.”"
+hebrew: "ה֣וֹי אֹמֵ֤ר לָעֵץ֙ הָקִ֔יצָה ע֖וּרִי לְאֶ֣בֶן דּוּמָ֑ם ה֣וּא יוֹרֶ֔ה הִנֵּה־ ה֗וּא תָּפוּשׂ֙ זָהָ֣ב וָכֶ֔סֶף וְכָל־ ר֖וּחַ אֵ֥ין בְּקִרְבּֽוֹ׃"
+pericope: "[[Hab.2.6 Woe to the Chaldeans|Woe to the Chaldeans]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 2
+book/chapter: "[[Hab.2|Habakkuk 2]]"
+chronological_order: 739
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic CARVING|CARVING]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H1945]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H6086G]]"
+- "[[H6974]]"
+- "[[H9012]]"
+- "[[H5782]]"
+- "[[H0068G]]"
+- "[[H1748]]"
+- "[[H1931]]"
+- "[[H3384B]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H8610]]"
+- "[[H2091]]"
+- "[[H9002]]"
+- "[[H3701G]]"
+- "[[H3605]]"
+- "[[H7307H]]"
+- "[[H0369]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 2:19**<big><big>[[Hab.2.6 Woe to the Chaldeans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe unto him that saith to the wood, Awake; to the dumb stone, Arise, it shall teach! Behold, it [is] laid over with gold and silver, and [there is] no breath at all in the midst of it.
 <small><sub>**BSB:**</sub></small>
 Woe to him who says to wood, ‘Awake!’ or to silent stone, ‘Arise!’ Can it give guidance? Behold, it is overlaid with gold and silver, yet there is no breath in it at all.”
+<small><sub>**Hebrew:**</sub></small>
+[[H1945\|ה֣וֹי]] [[H0559\|אֹמֵ֤ר]] [[H9005\|לָ]][[H6086G\|עֵץ֙]] [[H6974\|הָקִ֔יצָ]][[H9012\|ה]] [[H5782\|ע֖וּרִי]] [[H9005\|לְ]][[H0068G\|אֶ֣בֶן]] [[H1748\|דּוּמָ֑ם]] [[H1931\|ה֣וּא]] [[H3384B\|יוֹרֶ֔ה]] [[H2009\|הִנֵּה]][[H9014\|־]] [[H1931\|ה֗וּא]] [[H8610\|תָּפוּשׂ֙]] [[H2091\|זָהָ֣ב]] [[H9002\|וָ]][[H3701G\|כֶ֔סֶף]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H7307H\|ר֖וּחַ]] [[H0369\|אֵ֥ין]] [[H9003\|בְּ]][[H7130G\|קִרְבּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARVING|CARVING]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.2.18|<< Habakkuk 2:18]]</td><td align="center" style="border:none;">[[Hab.2|Habakkuk 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2.20|Habakkuk 2:20 >>]]</td></tr></table>
 

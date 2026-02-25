@@ -1,10 +1,55 @@
+---
+title: John 12:44
+type: Verse
+kjv: "Jesus cried and said, He that believeth on me, believeth not on me, but on him that sent me."
+bsb: "Then Jesus cried out, “Whoever believes in Me does not believe in Me alone, but in the One who sent Me."
+jesus_said: "He that believeth on me, believeth not on me, but on him that sent me."
+greek: "Ἰησοῦς δὲ ἔκραξεν καὶ εἶπεν· ὁ πιστεύων εἰς ἐμὲ οὐ πιστεύει εἰς ἐμὲ ἀλλ᾽ εἰς τὸν πέμψαντά με·"
+pericope: "[[John.12.37 Belief and Unbelief|Belief and Unbelief]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2424G]]"
+- "[[G1161]]"
+- "[[G2896]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G4100]]"
+- "[[G1519]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G0235]]"
+- "[[G3992]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **John 12:44**<big><big>[[John.12.37 Belief and Unbelief|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus cried and said, He that believeth on me, believeth not on me, but on him that sent me.
 <small><sub>**BSB:**</sub></small>
 Then Jesus cried out, “Whoever believes in Me does not believe in Me alone, but in the One who sent Me.
-<small><sub>**Literal:**</sub></small>
-Jesus then cried out and said; The [one] believing in Me myself not he believes in Me myself but in the [One] having sent Me;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.43|<< John 12:43]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.45|John 12:45 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2424G\|Ἰησοῦς]]  [[G1161\|δὲ]]  [[G2896\|ἔκραξεν]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν·]]  [[G3588\|ὁ]]  [[G4100\|πιστεύων]]  [[G1519\|εἰς]]  [[G1473\|ἐμὲ]]  [[G3756\|οὐ]]  [[G4100\|πιστεύει]]  [[G1519\|εἰς]]  [[G1473\|ἐμὲ]]  [[G0235\|ἀλλ᾽]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3992\|πέμψαντά]]  [[G3165\|με·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.43|<< John 12:43]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.45|John 12:45 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

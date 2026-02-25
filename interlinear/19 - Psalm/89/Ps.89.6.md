@@ -1,8 +1,55 @@
+---
+title: Psalm 89:6
+type: Verse
+kjv: "For who in the heaven can be compared unto the LORD? who among the sons of the mighty can be likened unto the LORD?"
+bsb: "For who in the skies can compare with the LORD? Who among the heavenly beings is like the LORD?"
+hebrew: "כִּ֤י מִ֣י בַ֭שַּׁחַק יַעֲרֹ֣ךְ לַיהוָ֑ה יִדְמֶ֥ה לַ֝יהוָ֗ה בִּבְנֵ֥י אֵלִים׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H3588A]]"
+- "[[H4310]]"
+- "[[H9003]]"
+- "[[H7834]]"
+- "[[H6186A]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H1819]]"
+- "[[H1121A]]"
+- "[[H0410K]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 89:6**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For who in the heaven can be compared unto the LORD? [who] among the sons of the mighty can be likened unto the LORD?
 <small><sub>**BSB:**</sub></small>
 For who in the skies can compare with the LORD? Who among the heavenly beings is like the LORD?
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H4310\|מִ֣י]] [[H9003\|בַ֭]][[H7834\|שַּׁחַק]] [[H6186A\|יַעֲרֹ֣ךְ]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H1819\|יִדְמֶ֥ה]] [[H9005\|לַ֝]][[H3068G\|יהוָ֗ה]] [[H9003\|בִּ]][[H1121A\|בְנֵ֥י]] [[H0410K\|אֵלִים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.5|<< Psalms 89:5]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.7|Psalms 89:7 >>]]</td></tr></table>
 

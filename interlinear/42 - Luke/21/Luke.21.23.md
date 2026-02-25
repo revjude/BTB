@@ -1,10 +1,66 @@
+---
+title: Luke 21:23
+type: Verse
+kjv: "But woe unto them that are with child, and to them that give suck, in those days! for there shall be great distress in the land, and wrath upon this people."
+bsb: "How miserable those days will be for pregnant and nursing mothers! For there will be great distress upon the land and wrath against this people."
+jesus_said: "But woe unto them that are with child, and to them that give suck, in those days! for there shall be great distress in the land, and wrath upon this people."
+greek: "Οὐαὶ δὲ ταῖς ἐν γαστρὶ ἐχούσαις καὶ ταῖς θηλαζούσαις ἐν ἐκείναις ταῖς ἡμέραις· ἔσται γὰρ ἀνάγκη μεγάλη ἐπὶ τῆς γῆς καὶ ὀργὴ ἐν τῷ λαῷ τούτῳ,"
+pericope: "[[Luke.21.20 The Destruction of Jerusalem|The Destruction of Jerusalem]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 21
+book/chapter: "[[Luke.21|Luke 21]]"
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G3759]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G1064]]"
+- "[[G2192]]"
+- "[[G2532]]"
+- "[[G2337]]"
+- "[[G1565]]"
+- "[[G2250]]"
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G0318]]"
+- "[[G3173]]"
+- "[[G1909]]"
+- "[[G1093G]]"
+- "[[G3709]]"
+- "[[G2992]]"
+- "[[G3778]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 21:23**<big><big>[[Luke.21.20 The Destruction of Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But woe unto them that are with child, and to them that give suck, in those days! for there shall be great distress in the land, and wrath upon this people.
 <small><sub>**BSB:**</sub></small>
 How miserable those days will be for pregnant and nursing mothers! For there will be great distress upon the land and wrath against this people.
-<small><sub>**Literal:**</sub></small>
-But woe now to those in womb [pregnancy] having and to the [ones] nursing in those the days; there will be for distress great upon the land and wrath in to the people this,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.22|<< Luke 21:22]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.24|Luke 21:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3759\|Οὐαὶ]]  [[G1161\|δὲ]]  [[G3588\|ταῖς]]  [[G1722\|ἐν]]  [[G1064\|γαστρὶ]]  [[G2192\|ἐχούσαις]]  [[G2532\|καὶ]]  [[G3588\|ταῖς]]  [[G2337\|θηλαζούσαις]]  [[G1722\|ἐν]]  [[G1565\|ἐκείναις]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις·]]  [[G1510\|ἔσται]]  [[G1063\|γὰρ]]  [[G0318\|ἀνάγκη]]  [[G3173\|μεγάλη]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G2532\|καὶ]]  [[G3709\|ὀργὴ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2992\|λαῷ]]  [[G3778\|τούτῳ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WAR|WAR]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.22|<< Luke 21:22]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.24|Luke 21:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

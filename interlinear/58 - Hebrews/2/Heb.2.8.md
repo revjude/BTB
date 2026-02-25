@@ -1,10 +1,58 @@
+---
+title: Hebrews 2:8
+type: Verse
+kjv: "Thou hast put all things in subjection under his feet. For in that he put all in subjection under him, he left nothing that is not put under him. But now we see not yet all things put under him."
+bsb: "and placed everything under his feet.” When God subjected all things to him, He left nothing outside of his control. Yet at present we do not see everything subject to him."
+greek: "πάντα ὑπέταξας ὑποκάτω τῶν ποδῶν αὐτοῦ. ἐν τῷ γὰρ ὑποτάξαι αὐτῷ τὰ πάντα οὐδὲν ἀφῆκεν αὐτῷ ἀνυπότακτον· νῦν δὲ οὔπω ὁρῶμεν αὐτῷ τὰ πάντα ὑποτεταγμένα."
+pericope: "[[Heb.2.5 Jesus like His Brothers|Jesus like His Brothers]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 2
+book/chapter: "[[Heb.2|Hebrews 2]]"
+chronological_order: 1141
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MAN|MAN]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G3956]]"
+- "[[G5293]]"
+- "[[G5270]]"
+- "[[G3588]]"
+- "[[G4228]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G1063]]"
+- "[[G3762]]"
+- "[[G0863G]]"
+- "[[G0506]]"
+- "[[G3568]]"
+- "[[G1161]]"
+- "[[G3768]]"
+- "[[G3708]]"
+texts:
+- NKO
+---
+
 **Hebrews 2:8**<big><big>[[Heb.2.5 Jesus like His Brothers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Thou hast put all things in subjection under his feet. For in that he put all in subjection under him, he left nothing [that is] not put under him. But now we see not yet all things put under him.
 <small><sub>**BSB:**</sub></small>
 and placed everything under his feet.” When God subjected all things to him, He left nothing outside of his control. Yet at present we do not see everything subject to him.
-<small><sub>**Literal:**</sub></small>
-all things You have put in subjection under the feet of him. In <the> for subjecting to him <the> all things no [thing] He left to him unsubject; At present however not yet do we see to Him <the> all things subjected.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.7|<< Hebrews 2:7]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.9|Hebrews 2:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πάντα]]  [[G5293\|ὑπέταξας]]  [[G5270\|ὑποκάτω]]  [[G3588\|τῶν]]  [[G4228\|ποδῶν]]  [[G0846\|αὐτοῦ.]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G1063\|γὰρ]]  [[G5293\|ὑποτάξαι]]  [[G0846\|αὐτῷ]]  [[G3588\|τὰ]]  [[G3956\|πάντα]]  [[G3762\|οὐδὲν]]  [[G0863G\|ἀφῆκεν]]  [[G0846\|αὐτῷ]]  [[G0506\|ἀνυπότακτον·]]  [[G3568\|νῦν]]  [[G1161\|δὲ]]  [[G3768\|οὔπω]]  [[G3708\|ὁρῶμεν]]  [[G0846\|αὐτῷ]]  [[G3588\|τὰ]]  [[G3956\|πάντα]]  [[G5293\|ὑποτεταγμένα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MAN|MAN]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.7|<< Hebrews 2:7]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.9|Hebrews 2:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 2:8** is...
 > $\quad$ referencing: [[LXX.Ps.8.4|Ps 8:4-6]]

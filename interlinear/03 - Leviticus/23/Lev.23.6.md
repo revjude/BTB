@@ -1,8 +1,61 @@
+---
+title: Leviticus 23:6
+type: Verse
+kjv: "And on the fifteenth day of the same month is the feast of unleavened bread unto the LORD: seven days ye must eat unleavened bread."
+bsb: "On the fifteenth day of the same month begins the Feast of Unleavened Bread to the LORD. For seven days you must eat unleavened bread."
+hebrew: "וּבַחֲמִשָּׁ֨ה עָשָׂ֥ר יוֹם֙ לַחֹ֣דֶשׁ הַזֶּ֔ה חַ֥ג הַמַּצּ֖וֹת לַיהוָ֑ה שִׁבְעַ֥ת יָמִ֖ים מַצּ֥וֹת תֹּאכֵֽלוּ׃"
+pericope: "[[Lev.23.4 Passover and the Feast of Unleavened Bread|Passover and the Feast of Unleavened Bread]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 23
+book/chapter: "[[Lev.23|Leviticus 23]]"
+chronological_order: 155
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H2568]]"
+- "[[H6240]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H2282]]"
+- "[[H4682]]"
+- "[[H3068G]]"
+- "[[H7651]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 23:6**<big><big>[[Lev.23.4 Passover and the Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And on the fifteenth day of the same month [is] the feast of unleavened bread unto the LORD: seven days ye must eat unleavened bread.
 <small><sub>**BSB:**</sub></small>
 On the fifteenth day of the same month begins the Feast of Unleavened Bread to the LORD. For seven days you must eat unleavened bread.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H2568\|חֲמִשָּׁ֨ה]] [[H6240\|עָשָׂ֥ר]] [[H3117G\|יוֹם֙]] [[H9005\|לַ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H2282\|חַ֥ג]] [[H9009\|הַ]][[H4682\|מַּצּ֖וֹת]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H7651\|שִׁבְעַ֥ת]] [[H3117G\|יָמִ֖ים]] [[H4682\|מַצּ֥וֹת]] [[H0398\|תֹּאכֵֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PASSOVER|PASSOVER]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.5|<< Leviticus 23:5]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.7|Leviticus 23:7 >>]]</td></tr></table>
 

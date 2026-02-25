@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Shadrach, Meshach, and Abednego Accused
+type: Pericope
 pericope: "[[Dan.3.8 Shadrach, Meshach, and Abednego Accused|Shadrach, Meshach, and Abednego Accused]]"
-verse_count: 11
+original_language: Aramaic
 testament: Old
 book: Daniel
 chapter: 3
 book/chapter: "[[Dan.3|Daniel 3]]"
-genre:
+chronological_order: 788
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 11
 verses:
 - "[[Dan.3.8]]"
 - "[[Dan.3.9]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Dan.3.18]]"
 ---
 
-[[Dan.3|Daniel 3:8 - Daniel 3:18]]
+<small>[[Dan.3|Daniel 3:8-18]]</small>
 *Shadrach, Meshach, and Abednego Accused*
 
 [[Dan.3.8|8]] Wherefore at that time certain Chaldeans came near, and accused the Jews.

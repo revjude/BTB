@@ -1,8 +1,58 @@
+---
+title: Psalm 136:14
+type: Verse
+kjv: "And made Israel to pass through the midst of it: for his mercy endureth for ever:"
+bsb: "and led Israel through the midst, His loving devotion endures forever."
+hebrew: "וְהֶעֱבִ֣יר יִשְׂרָאֵ֣ל בְּתוֹכ֑וֹ כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃"
+pericope: "[[Ps.136.1 His Loving Devotion Endures Forever|His Loving Devotion Endures Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 136
+book/chapter: "[[Ps.136|Psalm 136]]"
+chronological_order: 533
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic RED SEA|RED SEA]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H2617A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 136:14**<big><big>[[Ps.136.1 His Loving Devotion Endures Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And made Israel to pass through the midst of it: for his mercy [endureth] for ever:
 <small><sub>**BSB:**</sub></small>
 and led Israel through the midst, His loving devotion endures forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5674A\|הֶעֱבִ֣יר]] [[H3478\|יִשְׂרָאֵ֣ל]] [[H9003\|בְּ]][[H8432\|תוֹכ֑]][[H9023\|וֹ]] [[H3588A\|כִּ֖י]] [[H9005\|לְ]][[H5769G\|עוֹלָ֣ם]] [[H2617A\|חַסְדּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic PRAISE|PRAISE]] • [[topic RED SEA|RED SEA]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.136.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.136.13|<< Psalms 136:13]]</td><td align="center" style="border:none;">[[Ps.136|Psalms 136]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.136.15|Psalms 136:15 >>]]</td></tr></table>
 

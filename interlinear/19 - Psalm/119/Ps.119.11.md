@@ -1,8 +1,58 @@
+---
+title: Psalm 119:11
+type: Verse
+kjv: "Thy word have I hid in mine heart, that I might not sin against thee."
+bsb: "I have hidden Your word in my heart that I might not sin against You."
+hebrew: "בְּ֭לִבִּי צָפַ֣נְתִּי אִמְרָתֶ֑ךָ לְ֝מַ֗עַן לֹ֣א אֶֽחֱטָא־ לָֽךְ׃"
+pericope: "[[Ps.119.9 Your Word Is a Lamp to My Feet - BETH|Your Word Is a Lamp to My Feet - BETH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic MEDITATION|MEDITATION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H6845]]"
+- "[[H0565A]]"
+- "[[H9021]]"
+- "[[H4616]]"
+- "[[H3808]]"
+- "[[H2398]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:11**<big><big>[[Ps.119.9 Your Word Is a Lamp to My Feet - BETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy word have I hid in mine heart, that I might not sin against thee.
 <small><sub>**BSB:**</sub></small>
 I have hidden Your word in my heart that I might not sin against You.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ֭]][[H3820A\|לִבִּ]][[H9020\|י]] [[H6845\|צָפַ֣נְתִּי]] [[H0565A\|אִמְרָתֶ֑]][[H9021\|ךָ]] [[H4616\|לְ֝מַ֗עַן]] [[H3808\|לֹ֣א]] [[H2398\|אֶֽחֱטָא]][[H9014\|־]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic MEDITATION|MEDITATION]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.10|<< Psalms 119:10]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.12|Psalms 119:12 >>]]</td></tr></table>
 

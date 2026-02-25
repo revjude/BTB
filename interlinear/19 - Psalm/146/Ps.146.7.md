@@ -1,8 +1,59 @@
+---
+title: Psalm 146:7
+type: Verse
+kjv: "Which executeth judgment for the oppressed: which giveth food to the hungry. The LORD looseth the prisoners:"
+bsb: "He executes justice for the oppressed and gives food to the hungry. The LORD sets the prisoners free,"
+hebrew: "עֹשֶׂ֤ה מִשְׁפָּ֨ט׀ לָעֲשׁוּקִ֗ים נֹתֵ֣ן לֶ֭חֶם לָרְעֵבִ֑ים יְ֝הוָ֗ה מַתִּ֥יר אֲסוּרִֽים׃"
+pericope: "[[Ps.146.1 Praise the LORD, O My Soul|Praise the LORD, O My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 146
+book/chapter: "[[Ps.146|Psalm 146]]"
+chronological_order: 894
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic POOR|POOR]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[H6213A]]"
+- "[[H4941H]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H6231]]"
+- "[[H5414G]]"
+- "[[H3899G]]"
+- "[[H7457]]"
+- "[[H3068G]]"
+- "[[H5425B]]"
+- "[[H0631]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 146:7**<big><big>[[Ps.146.1 Praise the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which executeth judgment for the oppressed: which giveth food to the hungry. The LORD looseth the prisoners:
 <small><sub>**BSB:**</sub></small>
 He executes justice for the oppressed and gives food to the hungry. The LORD sets the prisoners free,
+<small><sub>**Hebrew:**</sub></small>
+[[H6213A\|עֹשֶׂ֤ה]] [[H4941H\|מִשְׁפָּ֨ט]][[H9015\|׀]] [[H9005\|לָ]][[H6231\|עֲשׁוּקִ֗ים]] [[H5414G\|נֹתֵ֣ן]] [[H3899G\|לֶ֭חֶם]] [[H9005\|לָ]][[H7457\|רְעֵבִ֑ים]] [[H3068G\|יְ֝הוָ֗ה]] [[H5425B\|מַתִּ֥יר]] [[H0631\|אֲסוּרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic POOR|POOR]] • [[topic PRAISE|PRAISE]] • [[topic PRISONERS|PRISONERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.146.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.146.6|<< Psalms 146:6]]</td><td align="center" style="border:none;">[[Ps.146|Psalms 146]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.146.8|Psalms 146:8 >>]]</td></tr></table>
 

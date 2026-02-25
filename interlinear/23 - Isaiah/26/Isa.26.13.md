@@ -1,8 +1,58 @@
+---
+title: Isaiah 26:13
+type: Verse
+kjv: "O LORD our God, other lords beside thee have had dominion over us: but by thee only will we make mention of thy name."
+bsb: "O LORD our God, other lords besides You have ruled over us, but Your name alone do we confess."
+hebrew: "יְהוָ֣ה אֱלֹהֵ֔ינוּ בְּעָל֥וּנוּ אֲדֹנִ֖ים זֽוּלָתֶ֑ךָ לְבַד־ בְּךָ֖ נַזְכִּ֥יר שְׁמֶֽךָ׃"
+pericope: "[[Isa.26.1 A Song of Salvation|A Song of Salvation]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 26
+book/chapter: "[[Isa.26|Isaiah 26]]"
+chronological_order: 669
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H1166H]]"
+- "[[H9035]]"
+- "[[H0113]]"
+- "[[H2108]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H2142]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 26:13**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD our God, [other] lords beside thee have had dominion over us: [but] by thee only will we make mention of thy name.
 <small><sub>**BSB:**</sub></small>
 O LORD our God, other lords besides You have ruled over us, but Your name alone do we confess.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵ֔י]][[H9025\|נוּ]] [[H1166H\|בְּעָל֥וּ]][[H9035\|נוּ]] [[H0113\|אֲדֹנִ֖ים]] [[H2108\|זֽוּלָתֶ֑]][[H9031\|ךָ]] [[H9005\|לְ]][[H0905H\|בַד]][[H9014\|־]] [[H9003\|בְּ]][[H9031\|ךָ֖]] [[H2142\|נַזְכִּ֥יר]] [[H8034\|שְׁמֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.12|<< Isaiah 26:12]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.14|Isaiah 26:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,57 @@
+---
+title: 1 Chronicles 13:13
+type: Verse
+kjv: "So David brought not the ark home to himself to the city of David, but carried it aside into the house of Obededom the Gittite."
+bsb: "So he did not move the ark with him to the City of David; instead, he took it aside to the house of Obed-edom the Gittite."
+hebrew: "וְלֹֽא־ הֵסִ֨יר דָּוִ֧יד אֶת־ הָאָר֛וֹן אֵלָ֖יו אֶל־ עִ֣יר דָּוִ֑יד וַיַּטֵּ֕הוּ אֶל־ בֵּ֥ית עֹבֵֽד־ אֱדֹ֖ם הַגִּתִּֽי׃"
+pericope: "[[1Chr.13.8 Uzzah Touches the Ark|Uzzah Touches the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 13
+book/chapter: "[[1Chr.13|1 Chronicles 13]]"
+chronological_order: 394
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic OBED-EDOM|OBED-EDOM]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5493G]]"
+- "[[H1732]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0727]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H5892B]]"
+- "[[H9001]]"
+- "[[H5186]]"
+- "[[H1004B]]"
+- "[[H5654]]"
+- "[[H1663]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 13:13**<big><big>[[1Chr.13.8 Uzzah Touches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So David brought not the ark [home] to himself to the city of David, but carried it aside into the house of Obededom the Gittite.
 <small><sub>**BSB:**</sub></small>
 So he did not move the ark with him to the City of David; instead, he took it aside to the house of Obed-edom the Gittite.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5493G\|הֵסִ֨יר]] [[H1732\|דָּוִ֧יד]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0727\|אָר֛וֹן]] [[H0413\|אֵלָ֖י]][[H9033\|ו]] [[H0413\|אֶל]][[H9014\|־]] [[H5892B\|עִ֣יר]] [[H1732\|דָּוִ֑יד]] [[H9001\|וַ]][[H5186\|יַּטֵּ֕]][[H9033\|הוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּ֥ית]] [[H5654\|עֹבֵֽד]][[H9014\|־]] [[H5654\|אֱדֹ֖ם]] [[H9009\|הַ]][[H1663\|גִּתִּֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OBED-EDOM|OBED-EDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.13.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.13.12|<< 1 Chronicles 13:12]]</td><td align="center" style="border:none;">[[1Chr.13|1 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.13.14|1 Chronicles 13:14 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 14:14
+type: Verse
+kjv: "And that first slaughter, which Jonathan and his armourbearer made, was about twenty men, within as it were an half acre of land, which a yoke of oxen might plow."
+bsb: "In that first assault, Jonathan and his armor-bearer struck down about twenty men in about half an acre of land."
+hebrew: "וַתְּהִ֞י הַמַּכָּ֣ה הָרִאשֹׁנָ֗ה אֲשֶׁ֨ר הִכָּ֧ה יוֹנָתָ֛ן וְנֹשֵׂ֥א כֵלָ֖יו כְּעֶשְׂרִ֣ים אִ֑ישׁ כְּבַחֲצִ֥י מַעֲנָ֖ה צֶ֥מֶד שָׂדֶֽה׃"
+pericope: "[[1Sam.14.1 Jonathan’s Victory over the Philistines|Jonathan’s Victory over the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ACRE|ACRE]]"
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic JONATHAN|JONATHAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H4347]]"
+- "[[H7223G]]"
+- "[[H0834A]]"
+- "[[H5221]]"
+- "[[H3129N]]"
+- "[[H9002]]"
+- "[[H5375W]]"
+- "[[H3627]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H6242]]"
+- "[[H0376G]]"
+- "[[H9003]]"
+- "[[H2677]]"
+- "[[H4618]]"
+- "[[H6776]]"
+- "[[H7704G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 14:14**<big><big>[[1Sam.14.1 Jonathan’s Victory over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And that first slaughter, which Jonathan and his armourbearer made, was about twenty men, within as it were an half acre of land, [which] a yoke [of oxen might plow].
 <small><sub>**BSB:**</sub></small>
 In that first assault, Jonathan and his armor-bearer struck down about twenty men in about half an acre of land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|תְּהִ֞י]] [[H9009\|הַ]][[H4347\|מַּכָּ֣ה]] [[H9009\|הָ]][[H7223G\|רִאשֹׁנָ֗ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H5221\|הִכָּ֧ה]] [[H3129N\|יוֹנָתָ֛ן]] [[H9002\|וְ]][[H5375W\|נֹשֵׂ֥א]] [[H3627\|כֵלָ֖י]][[H9023\|ו]] [[H9004\|כְּ]][[H6242\|עֶשְׂרִ֣ים]] [[H0376G\|אִ֑ישׁ]] [[H9004\|כְּ]][[H9003\|בַ]][[H2677\|חֲצִ֥י]] [[H4618\|מַעֲנָ֖ה]] [[H6776\|צֶ֥מֶד]] [[H7704G\|שָׂדֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACRE|ACRE]] • [[topic BULLOCK|BULLOCK]] • [[topic JONATHAN|JONATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.13|<< 1 Samuel 14:13]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.15|1 Samuel 14:15 >>]]</td></tr></table>
 

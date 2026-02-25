@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ahaziah Reigns in Judah
+type: Pericope
 pericope: "[[2Chr.22.1 Ahaziah Reigns in Judah|Ahaziah Reigns in Judah]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 22
 book/chapter: "[[2Chr.22|2 Chronicles 22]]"
-genre:
+chronological_order: 587
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 7
 verses:
 - "[[2Chr.22.1]]"
 - "[[2Chr.22.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[2Chr.22.7]]"
 ---
 
-[[2Chr.22|2 Chronicles 22:1 - 2 Chronicles 22:7]]
+<small>[[2Chr.22|2 Chronicles 22:1-7]]</small>
 *Ahaziah Reigns in Judah*
 
 [[2Chr.22.1|1]] And the inhabitants of Jerusalem made Ahaziah his youngest son king in his stead: for the band of men that came with the Arabians to the camp had slain all the eldest. So Ahaziah the son of Jehoram king of Judah reigned.

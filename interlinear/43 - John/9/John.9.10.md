@@ -1,10 +1,51 @@
+---
+title: John 9:10
+type: Verse
+kjv: "Therefore said they unto him, How were thine eyes opened?"
+bsb: "“How then were your eyes opened?” they asked."
+greek: "ἔλεγον οὖν αὐτῷ· πῶς οὖν ἠνεῴχθησάν σου οἱ ὀφθαλμοί;"
+pericope: "[[John.9.1 Jesus Heals the Man Born Blind|Jesus Heals the Man Born Blind]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 9
+book/chapter: "[[John.9|John 9]]"
+chronological_order: 983
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SILOAM|SILOAM]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G4459]]"
+- "[[G0455]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G3788]]"
+texts:
+- NKO
+- NO
+---
+
 **John 9:10**<big><big>[[John.9.1 Jesus Heals the Man Born Blind|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore said they unto him, How were thine eyes opened?
 <small><sub>**BSB:**</sub></small>
 “How then were your eyes opened?” they asked.
-<small><sub>**Literal:**</sub></small>
-They were saying therefore to him; How then were opened of you the eyes?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.9|<< John 9:9]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.11|John 9:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|ἔλεγον]]  [[G3767\|οὖν]]  [[G0846\|αὐτῷ·]]  [[G4459\|πῶς]]  [[G3767\|οὖν]]  [[G0455\|ἠνεῴχθησάν]]  [[G4771\|σου]]  [[G3588\|οἱ]]  [[G3788\|ὀφθαλμοί;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic SABBATH|SABBATH]] • [[topic SILOAM|SILOAM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.9|<< John 9:9]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.11|John 9:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

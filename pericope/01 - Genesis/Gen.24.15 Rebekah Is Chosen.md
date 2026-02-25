@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Rebekah Is Chosen
+type: Pericope
 pericope: "[[Gen.24.15 Rebekah Is Chosen|Rebekah Is Chosen]]"
-verse_count: 47
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 24
 book/chapter: "[[Gen.24|Genesis 24]]"
-genre:
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 47
 verses:
 - "[[Gen.24.15]]"
 - "[[Gen.24.16]]"
@@ -68,7 +75,7 @@ verses:
 - "[[Gen.24.61]]"
 ---
 
-[[Gen.24|Genesis 24:15 - Genesis 24:61]]
+<small>[[Gen.24|Genesis 24:15-61]]</small>
 *Rebekah Is Chosen*
 
 [[Gen.24.15|15]] And it came to pass, before he had done speaking, that, behold, Rebekah came out, who was born to Bethuel, son of Milcah, the wife of Nahor, Abraham’s brother, with her pitcher upon her shoulder.

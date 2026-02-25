@@ -1,8 +1,69 @@
+---
+title: Ezekiel 47:14
+type: Verse
+kjv: "And ye shall inherit it, one as well as another: concerning the which I lifted up mine hand to give it unto your fathers: and this land shall fall unto you for inheritance."
+bsb: "You are to divide it equally among them. Because I swore with an uplifted hand to give it to your forefathers, this land will fall to you as an inheritance."
+hebrew: "וּנְחַלְתֶּ֤ם אוֹתָהּ֙ אִ֣ישׁ כְּאָחִ֔יו אֲשֶׁ֤ר נָשָׂ֙אתִי֙ אֶת־ יָדִ֔י לְתִתָּ֖הּ לַאֲבֹֽתֵיכֶ֑ם וְנָ֨פְלָ֜ה הָאָ֧רֶץ הַזֹּ֛את לָכֶ֖ם בְּנַחֲלָֽה׃"
+pericope: "[[Ezek.47.13 The Borders of the Land|The Borders of the Land]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 47
+book/chapter: "[[Ezek.47|Ezekiel 47]]"
+chronological_order: 838
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic EZEKIEL|EZEKIEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H5157]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H0376I]]"
+- "[[H9004]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H5375P]]"
+- "[[H9014]]"
+- "[[H3027S]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H5414G]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H5307I]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H5159]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 47:14**<big><big>[[Ezek.47.13 The Borders of the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall inherit it, one as well as another: [concerning] the which I lifted up mine hand to give it unto your fathers: and this land shall fall unto you for inheritance.
 <small><sub>**BSB:**</sub></small>
 You are to divide it equally among them. Because I swore with an uplifted hand to give it to your forefathers, this land will fall to you as an inheritance.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H5157\|נְחַלְתֶּ֤ם]] [[H0853\|אוֹתָ]][[H9034\|הּ֙]] [[H0376I\|אִ֣ישׁ]] [[H9004\|כְּ]][[H0251G\|אָחִ֔י]][[H9023\|ו]] [[H0834A\|אֲשֶׁ֤ר]] [[H5375P\|נָשָׂ֙אתִי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3027S\|יָדִ֔]][[H9020\|י]] [[H9005\|לְ]][[H5414G\|תִתָּ֖]][[H9034\|הּ]] [[H9005\|לַ]][[H0001G\|אֲבֹֽתֵי]][[H9026\|כֶ֑ם]] [[H9001\|וְ]][[H5307I\|נָ֨פְלָ֜ה]] [[H9009\|הָ]][[H0776G\|אָ֧רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֛את]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H9003\|בְּ]][[H5159\|נַחֲלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic EZEKIEL|EZEKIEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.47.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.13|<< Ezekiel 47:13]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.15|Ezekiel 47:15 >>]]</td></tr></table>
 

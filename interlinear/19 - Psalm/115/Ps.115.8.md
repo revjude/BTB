@@ -1,8 +1,53 @@
+---
+title: Psalm 115:8
+type: Verse
+kjv: "They that make them are like unto them; so is every one that trusteth in them."
+bsb: "Those who make them become like them, as do all who trust in them."
+hebrew: "כְּ֭מוֹהֶם יִהְי֣וּ עֹשֵׂיהֶ֑ם כֹּ֭ל אֲשֶׁר־ בֹּטֵ֣חַ בָּהֶֽם׃"
+pericope: "[[Ps.115.1 To Your Name Be the Glory|To Your Name Be the Glory]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 115
+book/chapter: "[[Ps.115|Psalm 115]]"
+chronological_order: 877
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H3644G]]"
+- "[[H9038]]"
+- "[[H1961]]"
+- "[[H6213H]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0982]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 115:8**<big><big>[[Ps.115.1 To Your Name Be the Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that make them are like unto them; [so is] every one that trusteth in them.
 <small><sub>**BSB:**</sub></small>
 Those who make them become like them, as do all who trust in them.
+<small><sub>**Hebrew:**</sub></small>
+[[H3644G\|כְּ֭מוֹ]][[H9038\|הֶם]] [[H1961\|יִהְי֣וּ]] [[H6213H\|עֹשֵׂי]][[H9038\|הֶ֑ם]] [[H3605\|כֹּ֭ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0982\|בֹּטֵ֣חַ]] [[H9003\|בָּ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.115.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.115.7|<< Psalms 115:7]]</td><td align="center" style="border:none;">[[Ps.115|Psalms 115]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.115.9|Psalms 115:9 >>]]</td></tr></table>
 

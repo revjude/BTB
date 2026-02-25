@@ -1,8 +1,69 @@
+---
+title: Exodus 27:20
+type: Verse
+kjv: "And thou shalt command the children of Israel, that they bring thee pure oil olive beaten for the light, to cause the lamp to burn always."
+bsb: "And you are to command the Israelites to bring you pure oil of pressed olives for the light, to keep the lamps burning continually."
+hebrew: "וְאַתָּ֞ה תְּצַוֶּ֣ה׀ אֶת־ בְּנֵ֣י יִשְׂרָאֵ֗ל וְיִקְח֨וּ אֵלֶ֜יךָ שֶׁ֣מֶן זַ֥יִת זָ֛ךְ כָּתִ֖ית לַמָּא֑וֹר לְהַעֲלֹ֥ת נֵ֖ר תָּמִֽיד׃"
+pericope: "[[Exod.27.20 The Oil for the Lamps|The Oil for the Lamps]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 27
+book/chapter: "[[Exod.27|Exodus 27]]"
+chronological_order: 119
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CANDLESTICK|CANDLESTICK]]"
+- "[[topic LAMP|LAMP]]"
+- "[[topic OIL|OIL]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H6680]]"
+- "[[H9015]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H3947J]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H8081]]"
+- "[[H2132H]]"
+- "[[H2134]]"
+- "[[H3795]]"
+- "[[H9005]]"
+- "[[H3974]]"
+- "[[H5927I]]"
+- "[[H5216A]]"
+- "[[H8548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 27:20**<big><big>[[Exod.27.20 The Oil for the Lamps|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt command the children of Israel, that they bring thee pure oil olive beaten for the light, to cause the lamp to burn always.
 <small><sub>**BSB:**</sub></small>
 And you are to command the Israelites to bring you pure oil of pressed olives for the light, to keep the lamps burning continually.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֞ה]] [[H6680\|תְּצַוֶּ֣ה]][[H9015\|׀]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9002\|וְ]][[H3947J\|יִקְח֨וּ]] [[H0413\|אֵלֶ֜י]][[H9031\|ךָ]] [[H8081\|שֶׁ֣מֶן]] [[H2132H\|זַ֥יִת]] [[H2134\|זָ֛ךְ]] [[H3795\|כָּתִ֖ית]] [[H9005\|לַ]][[H3974\|מָּא֑וֹר]] [[H9005\|לְ]][[H5927I\|הַעֲלֹ֥ת]] [[H5216A\|נֵ֖ר]] [[H8548\|תָּמִֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANDLESTICK|CANDLESTICK]] • [[topic LAMP|LAMP]] • [[topic OIL|OIL]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.27.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.19|<< Exodus 27:19]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.21|Exodus 27:21 >>]]</td></tr></table>
 

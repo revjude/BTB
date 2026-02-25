@@ -1,8 +1,81 @@
+---
+title: 2 Chronicles 33:14
+type: Verse
+kjv: "Now after this he built a wall without the city of David, on the west side of Gihon, in the valley, even to the entering in at the fish gate, and compassed about Ophel, and raised it up a very great height, and put captains of war in all the fenced cities of Judah."
+bsb: "After this, Manasseh rebuilt the outer wall of the City of David from west of Gihon in the valley to the entrance of the Fish Gate, and he brought it around the hill of Ophel and heightened it considerably. He also stationed military commanders in all the fortified cities of Judah."
+hebrew: "וְאַחֲרֵי־ כֵ֡ן בָּנָ֣ה חוֹמָ֣ה חִֽיצוֹנָ֣ה׀ לְעִיר־ דָּוִ֡יד מַעְרָבָה֩ לְגִיח֨וֹן בַּנַּ֜חַל וְלָב֨וֹא בְשַׁ֤עַר הַדָּגִים֙ וְסָבַ֣ב לָעֹ֔פֶל וַיַּגְבִּיהֶ֖הָ מְאֹ֑ד וַיָּ֧שֶׂם שָֽׂרֵי־ חַ֛יִל בְּכָל־ הֶעָרִ֥ים הַבְּצֻר֖וֹת בִּיהוּדָֽה׃"
+pericope: "[[2Chr.33.10 Manasseh’s Repentance and Restoration|Manasseh’s Repentance and Restoration]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 33
+book/chapter: "[[2Chr.33|2 Chronicles 33]]"
+chronological_order: 707
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic FISH GATE|FISH GATE]]"
+- "[[topic GIHON|GIHON]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic OPHEL|OPHEL]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H1129]]"
+- "[[H2346G]]"
+- "[[H2435]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H5892B]]"
+- "[[H1732]]"
+- "[[H4628]]"
+- "[[H9011]]"
+- "[[H1521]]"
+- "[[H9003]]"
+- "[[H5158N]]"
+- "[[H0935I]]"
+- "[[H8179G]]"
+- "[[H9009]]"
+- "[[H1709G]]"
+- "[[H9001]]"
+- "[[H5437H]]"
+- "[[H6077]]"
+- "[[H1361]]"
+- "[[H9034]]"
+- "[[H3966]]"
+- "[[H7760H]]"
+- "[[H8269]]"
+- "[[H2428A]]"
+- "[[H3605]]"
+- "[[H1219]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 33:14**<big><big>[[2Chr.33.10 Manasseh’s Repentance and Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now after this he built a wall without the city of David, on the west side of Gihon, in the valley, even to the entering in at the fish gate, and compassed about Ophel, and raised it up a very great height, and put captains of war in all the fenced cities of Judah.
 <small><sub>**BSB:**</sub></small>
 After this, Manasseh rebuilt the outer wall of the City of David from west of Gihon in the valley to the entrance of the Fish Gate, and he brought it around the hill of Ophel and heightened it considerably. He also stationed military commanders in all the fortified cities of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0310A\|אַחֲרֵי]][[H9014\|־]] [[H3651C\|כֵ֡ן]] [[H1129\|בָּנָ֣ה]] [[H2346G\|חוֹמָ֣ה]] [[H2435\|חִֽיצוֹנָ֣ה]][[H9015\|׀]] [[H9005\|לְ]][[H5892B\|עִיר]][[H9014\|־]] [[H1732\|דָּוִ֡יד]] [[H4628\|מַעְרָבָ]][[H9011\|ה֩]] [[H9005\|לְ]][[H1521\|גִיח֨וֹן]] [[H9003\|בַּ]][[H5158N\|נַּ֜חַל]] [[H9002\|וְ]][[H9005\|לָ]][[H0935I\|ב֨וֹא]] [[H9003\|בְ]][[H8179G\|שַׁ֤עַר]] [[H9009\|הַ]][[H1709G\|דָּגִים֙]] [[H9001\|וְ]][[H5437H\|סָבַ֣ב]] [[H9005\|לָ]][[H6077\|עֹ֔פֶל]] [[H9001\|וַ]][[H1361\|יַּגְבִּיהֶ֖]][[H9034\|הָ]] [[H3966\|מְאֹ֑ד]] [[H9001\|וַ]][[H7760H\|יָּ֧שֶׂם]] [[H8269\|שָֽׂרֵי]][[H9014\|־]] [[H2428A\|חַ֛יִל]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הֶ]][[H5892B\|עָרִ֥ים]] [[H9009\|הַ]][[H1219\|בְּצֻר֖וֹת]] [[H9003\|בִּ]][[H3063G\|יהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FISH GATE|FISH GATE]] • [[topic GIHON|GIHON]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic INFLUENCE|INFLUENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MANASSEH|MANASSEH]] • [[topic OPHEL|OPHEL]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.33.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.33.13|<< 2 Chronicles 33:13]]</td><td align="center" style="border:none;">[[2Chr.33|2 Chronicles 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.33.15|2 Chronicles 33:15 >>]]</td></tr></table>
 

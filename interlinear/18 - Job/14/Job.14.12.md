@@ -1,8 +1,60 @@
+---
+title: Job 14:12
+type: Verse
+kjv: "So man lieth down, and riseth not: till the heavens be no more, they shall not awake, nor be raised out of their sleep."
+bsb: "so a man lies down and does not rise. Until the heavens are no more, he will not be awakened or roused from sleep."
+hebrew: "וְאִ֥ישׁ שָׁכַ֗ב וְֽלֹא־ יָ֫ק֥וּם עַד־ בִּלְתִּ֣י שָׁ֭מַיִם לֹ֣א יָקִ֑יצוּ וְלֹֽא־ יֵ֝עֹ֗רוּ מִשְּׁנָתָֽם׃"
+pericope: "[[Job.14.1 Job Laments the Finality of Death|Job Laments the Finality of Death]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 14
+book/chapter: "[[Job.14|Job 14]]"
+chronological_order: 25
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SLEEP|SLEEP]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H7901G]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6965B]]"
+- "[[H5704]]"
+- "[[H1115]]"
+- "[[H8064]]"
+- "[[H6974]]"
+- "[[H5782]]"
+- "[[H9006]]"
+- "[[H8142]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 14:12**<big><big>[[Job.14.1 Job Laments the Finality of Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So man lieth down, and riseth not: till the heavens [be] no more, they shall not awake, nor be raised out of their sleep.
 <small><sub>**BSB:**</sub></small>
 so a man lies down and does not rise. Until the heavens are no more, he will not be awakened or roused from sleep.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376G\|אִ֥ישׁ]] [[H7901G\|שָׁכַ֗ב]] [[H9002\|וְֽ]][[H3808\|לֹא]][[H9014\|־]] [[H6965B\|יָ֫ק֥וּם]] [[H5704\|עַד]][[H9014\|־]] [[H1115\|בִּלְתִּ֣י]] [[H8064\|שָׁ֭מַיִם]] [[H3808\|לֹ֣א]] [[H6974\|יָקִ֑יצוּ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5782\|יֵ֝עֹ֗רוּ]] [[H9006\|מִ]][[H8142\|שְּׁנָתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DEATH|DEATH]] • [[topic HEAVEN|HEAVEN]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SLEEP|SLEEP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.14.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.14.11|<< Job 14:11]]</td><td align="center" style="border:none;">[[Job.14|Job 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.14.13|Job 14:13 >>]]</td></tr></table>
 

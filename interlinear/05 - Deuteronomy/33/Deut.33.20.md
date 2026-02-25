@@ -1,8 +1,61 @@
+---
+title: Deuteronomy 33:20
+type: Verse
+kjv: "And of Gad he said, Blessed be he that enlargeth Gad: he dwelleth as a lion, and teareth the arm with the crown of the head."
+bsb: "Concerning Gad he said: “Blessed is he who enlarges the domain of Gad! He lies down like a lion and tears off an arm or a head."
+hebrew: "וּלְגָ֣ד אָמַ֔ר בָּר֖וּךְ מַרְחִ֣יב גָּ֑ד כְּלָבִ֣יא שָׁכֵ֔ן וְטָרַ֥ף זְר֖וֹעַ אַף־ קָדְקֹֽד׃"
+pericope: "[[Deut.33.1 Moses Blesses the Twelve Tribes|Moses Blesses the Twelve Tribes]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 33
+book/chapter: "[[Deut.33|Deuteronomy 33]]"
+chronological_order: 229
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic GAD|GAD]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H1410G]]"
+- "[[H0559]]"
+- "[[H1288]]"
+- "[[H7337]]"
+- "[[H9004]]"
+- "[[H3833C]]"
+- "[[H7931]]"
+- "[[H2963]]"
+- "[[H2220]]"
+- "[[H0637]]"
+- "[[H9014]]"
+- "[[H6936]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 33:20**<big><big>[[Deut.33.1 Moses Blesses the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of Gad he said, Blessed [be] he that enlargeth Gad: he dwelleth as a lion, and teareth the arm with the crown of the head.
 <small><sub>**BSB:**</sub></small>
 Concerning Gad he said: “Blessed is he who enlarges the domain of Gad! He lies down like a lion and tears off an arm or a head.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H1410G\|גָ֣ד]] [[H0559\|אָמַ֔ר]] [[H1288\|בָּר֖וּךְ]] [[H7337\|מַרְחִ֣יב]] [[H1410G\|גָּ֑ד]] [[H9004\|כְּ]][[H3833C\|לָבִ֣יא]] [[H7931\|שָׁכֵ֔ן]] [[H9002\|וְ]][[H2963\|טָרַ֥ף]] [[H2220\|זְר֖וֹעַ]] [[H0637\|אַף]][[H9014\|־]] [[H6936\|קָדְקֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic GAD|GAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.19|<< Deuteronomy 33:19]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.21|Deuteronomy 33:21 >>]]</td></tr></table>
 

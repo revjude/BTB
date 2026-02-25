@@ -1,10 +1,68 @@
+---
+title: Matthew 16:21
+type: Verse
+kjv: "From that time forth began Jesus to shew unto his disciples, how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day."
+bsb: "From that time on Jesus began to show His disciples that He must go to Jerusalem and suffer many things at the hands of the elders, chief priests, and scribes, and that He must be killed and on the third day be raised to life."
+greek: "Ἀπὸ τότε ἤρξατο ὁ Ἰησοῦς Χριστὸς δεικνύειν τοῖς μαθηταῖς αὐτοῦ ὅτι δεῖ αὐτὸν εἰς Ἱεροσόλυμα ἀπελθεῖν καὶ πολλὰ παθεῖν ἀπὸ τῶν πρεσβυτέρων καὶ ἀρχιερέων καὶ γραμματέων καὶ ἀποκτανθῆναι καὶ τῇ τρίτῃ ἡμέρᾳ ἐγερθῆναι."
+pericope: "[[Matt.16.21 Christ’s Passion Foretold|Christ’s Passion Foretold]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 16
+book/chapter: "[[Matt.16|Matthew 16]]"
+chronological_order: 966
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+strongs:
+- "[[G0575]]"
+- "[[G5119]]"
+- "[[G0757]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G1166]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G1163]]"
+- "[[G1519]]"
+- "[[G2414]]"
+- "[[G0565]]"
+- "[[G2532]]"
+- "[[G4183]]"
+- "[[G3958]]"
+- "[[G4245G]]"
+- "[[G0749]]"
+- "[[G1122]]"
+- "[[G0615]]"
+- "[[G5154]]"
+- "[[G2250]]"
+- "[[G1453]]"
+texts:
+- NKO
+- O
+---
+
 **Matthew 16:21**<big><big>[[Matt.16.21 Christ’s Passion Foretold|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 From that time forth began Jesus to shew unto his disciples, how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day.
 <small><sub>**BSB:**</sub></small>
 From that time on Jesus began to show His disciples that He must go to Jerusalem and suffer many things at the hands of the elders, chief priests, and scribes, and that He must be killed and on the third day be raised to life.
-<small><sub>**Literal:**</sub></small>
-From that time began <the> Jesus Christ to show to the disciples of Him that it is necessary for Him to Jerusalem to go away and many things to suffer from the elders and chief priests and scribes and to be killed and on the third day to be raised.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.20|<< Matthew 16:20]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.22|Matthew 16:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0575\|Ἀπὸ]]  [[G5119\|τότε]]  [[G0757\|ἤρξατο]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G5547\|Χριστὸς]]  [[G1166\|δεικνύειν]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς]]  [[G0846\|αὐτοῦ]]  [[G3754G\|ὅτι]]  [[G1163\|δεῖ]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα]]  [[G0565\|ἀπελθεῖν]]  [[G2532\|καὶ]]  [[G4183\|πολλὰ]]  [[G3958\|παθεῖν]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G4245G\|πρεσβυτέρων]]  [[G2532\|καὶ]]  [[G0749\|ἀρχιερέων]]  [[G2532\|καὶ]]  [[G1122\|γραμματέων]]  [[G2532\|καὶ]]  [[G0615\|ἀποκτανθῆναι]]  [[G2532\|καὶ]]  [[G3588\|τῇ]]  [[G5154\|τρίτῃ]]  [[G2250\|ἡμέρᾳ]]  [[G1453\|ἐγερθῆναι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic SCRIBE (S)|SCRIBE (S)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.20|<< Matthew 16:20]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.22|Matthew 16:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

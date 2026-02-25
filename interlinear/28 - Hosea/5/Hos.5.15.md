@@ -1,8 +1,62 @@
+---
+title: Hosea 5:15
+type: Verse
+kjv: "I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early."
+bsb: "Then I will return to My place until they admit their guilt and seek My face; in their affliction they will earnestly seek Me.”"
+hebrew: "אֵלֵ֤ךְ אָשׁ֙וּבָה֙ אֶל־ מְקוֹמִ֔י עַ֥ד אֲשֶֽׁר־ יֶאְשְׁמ֖וּ וּבִקְשׁ֣וּ פָנָ֑י בַּצַּ֥ר לָהֶ֖ם יְשַׁחֲרֻֽנְנִי׃"
+pericope: "[[Hos.5.1 Judgment on Israel and Judah|Judgment on Israel and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 5
+book/chapter: "[[Hos.5|Hosea 5]]"
+chronological_order: 646
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H1980L]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4725]]"
+- "[[H9020]]"
+- "[[H5704]]"
+- "[[H0834A]]"
+- "[[H0816]]"
+- "[[H9001]]"
+- "[[H1245]]"
+- "[[H6440H]]"
+- "[[H9003]]"
+- "[[H6862B]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H7836]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 5:15**<big><big>[[Hos.5.1 Judgment on Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will go [and] return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.
 <small><sub>**BSB:**</sub></small>
 Then I will return to My place until they admit their guilt and seek My face; in their affliction they will earnestly seek Me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H1980L\|אֵלֵ֤ךְ]] [[H7725G\|אָשׁ֙וּבָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4725\|מְקוֹמִ֔]][[H9020\|י]] [[H5704\|עַ֥ד]] [[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H0816\|יֶאְשְׁמ֖וּ]] [[H9001\|וּ]][[H1245\|בִקְשׁ֣וּ]] [[H6440H\|פָנָ֑]][[H9020\|י]] [[H9003\|בַּ]][[H6862B\|צַּ֥ר]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H7836\|יְשַׁחֲרֻֽ]][[H9030\|נְנִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.5.14|<< Hosea 5:14]]</td><td align="center" style="border:none;">[[Hos.5|Hosea 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.6.1|Hosea 6:1 >>]]</td></tr></table>
 

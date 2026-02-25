@@ -1,10 +1,68 @@
+---
+title: Mark 4:38
+type: Verse
+kjv: "And he was in the hinder part of the ship, asleep on a pillow: and they awake him, and say unto him, Master, carest thou not that we perish?"
+bsb: "But Jesus was in the stern, sleeping on the cushion. So they woke Him and said, “Teacher, don’t You care that we are perishing?”"
+greek: "καὶ αὐτὸς ἦν ἐν τῇ πρύμνῃ ἐπὶ τὸ προσκεφάλαιον καθεύδων. καὶ ἐγείρουσιν αὐτὸν καὶ λέγουσιν αὐτῷ· διδάσκαλε, οὐ μέλει σοι ὅτι ἀπολλύμεθα;"
+pericope: "[[Mark.4.35 Jesus Calms the Storm|Jesus Calms the Storm]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 4
+book/chapter: "[[Mark.4|Mark 4]]"
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PILLOW|PILLOW]]"
+- "[[topic SEA|SEA]]"
+- "[[topic SLEEP|SLEEP]]"
+- "[[topic TROUBLE|TROUBLE]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4403]]"
+- "[[G1909]]"
+- "[[G4344]]"
+- "[[G2518]]"
+- "[[G1453]]"
+- "[[G3004G]]"
+- "[[G1320]]"
+- "[[G3756]]"
+- "[[G3199]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G0622]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 4:38**<big><big>[[Mark.4.35 Jesus Calms the Storm|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he was in the hinder part of the ship, asleep on a pillow: and they awake him, and say unto him, Master, carest thou not that we perish?
 <small><sub>**BSB:**</sub></small>
 But Jesus was in the stern, sleeping on the cushion. So they woke Him and said, “Teacher, don’t You care that we are perishing?”
-<small><sub>**Literal:**</sub></small>
-And He himself was in the stern on the cushion sleeping. And they wake Him and say to Him; Teacher, not is it concern to You that we perish?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.37|<< Mark 4:37]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.39|Mark 4:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G1510\|ἦν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4403\|πρύμνῃ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G4344\|προσκεφάλαιον]]  [[G2518\|καθεύδων.]]  [[G2532\|καὶ]]  [[G1453\|ἐγείρουσιν]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G3004G\|λέγουσιν]]  [[G0846\|αὐτῷ·]]  [[G1320\|διδάσκαλε,]]  [[G3756\|οὐ]]  [[G3199\|μέλει]]  [[G4771\|σοι]]  [[G3754G\|ὅτι]]  [[G0622\|ἀπολλύμεθα;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COWARDICE|COWARDICE]] • [[topic DOUBTING|DOUBTING]] • [[topic FAITH|FAITH]] • [[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PILLOW|PILLOW]] • [[topic SEA|SEA]] • [[topic SLEEP|SLEEP]] • [[topic TROUBLE|TROUBLE]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.37|<< Mark 4:37]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.39|Mark 4:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

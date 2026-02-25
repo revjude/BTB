@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Spiritual Wisdom
+type: Pericope
 pericope: "[[Eph.1.15 Spiritual Wisdom|Spiritual Wisdom]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Ephesians
 chapter: 1
 book/chapter: "[[Eph.1|Ephesians 1]]"
-genre:
+chronological_order: 1111
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - theological treatise
+verse_count: 9
 verses:
 - "[[Eph.1.15]]"
 - "[[Eph.1.16]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Eph.1.23]]"
 ---
 
-[[Eph.1|Ephesians 1:15 - Ephesians 1:23]]
+<small>[[Eph.1|Ephesians 1:15-23]]</small>
 *Spiritual Wisdom*
 
 [[Eph.1.15|15]] Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,

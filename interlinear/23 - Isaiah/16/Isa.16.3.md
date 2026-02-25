@@ -1,8 +1,61 @@
+---
+title: Isaiah 16:3
+type: Verse
+kjv: "Take counsel, execute judgment; make thy shadow as the night in the midst of the noonday; hide the outcasts; bewray not him that wandereth."
+bsb: "“Give us counsel; render a decision. Shelter us at noonday with shade as dark as night. Hide the refugees; do not betray the one who flees."
+hebrew: "הָבִ֤יאִי עֵצָה֙ עֲשׂ֣וּ פְלִילָ֔ה שִׁ֧יתִי כַלַּ֛יִל צִלֵּ֖ךְ בְּת֣וֹךְ צָהֳרָ֑יִם סַתְּרִי֙ נִדָּחִ֔ים נֹדֵ֖ד אַל־ תְּגַלִּֽי׃"
+pericope: "[[Isa.16.1 Moab’s Destruction|Moab’s Destruction]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 16
+book/chapter: "[[Isa.16|Isaiah 16]]"
+chronological_order: 633
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H0935P]]"
+- "[[H6098]]"
+- "[[H6213I]]"
+- "[[H6415]]"
+- "[[H7896G]]"
+- "[[H9004]]"
+- "[[H3915]]"
+- "[[H6738]]"
+- "[[H9022]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H6672A]]"
+- "[[H5641]]"
+- "[[H5080]]"
+- "[[H5074]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H1540H]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Isaiah 16:3**<big><big>[[Isa.16.1 Moab’s Destruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take counsel, execute judgment; make thy shadow as the night in the midst of the noonday; hide the outcasts; bewray not him that wandereth.
 <small><sub>**BSB:**</sub></small>
 “Give us counsel; render a decision. Shelter us at noonday with shade as dark as night. Hide the refugees; do not betray the one who flees.
+<small><sub>**Hebrew:**</sub></small>
+[[H0935P\|הָבִ֤יאִי]] [[H6098\|עֵצָה֙]] [[H6213I\|עֲשׂ֣וּ]] [[H6415\|פְלִילָ֔ה]] [[H7896G\|שִׁ֧יתִי]] [[H9004\|כַ]][[H3915\|לַּ֛יִל]] [[H6738\|צִלֵּ֖]][[H9022\|ךְ]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H6672A\|צָהֳרָ֑יִם]] [[H5641\|סַתְּרִי֙]] [[H5080\|נִדָּחִ֔ים]] [[H5074\|נֹדֵ֖ד]] [[H0408\|אַל]][[H9014\|־]] [[H1540H\|תְּגַלִּֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.16.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.2|<< Isaiah 16:2]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.4|Isaiah 16:4 >>]]</td></tr></table>
 

@@ -1,10 +1,61 @@
+---
+title: Hebrews 1:13
+type: Verse
+kjv: "But to which of the angels said he at any time, Sit on my right hand, until I make thine enemies thy footstool?"
+bsb: "Yet to which of the angels did God ever say: “Sit at My right hand until I make Your enemies a footstool for Your feet”?"
+greek: "πρὸς τίνα δὲ τῶν ἀγγέλων εἴρηκέν ποτε· κάθου ἐκ δεξιῶν μου ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου;"
+pericope: "[[Heb.1.1 The Supremacy of the Son|The Supremacy of the Son]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 1
+book/chapter: "[[Heb.1|Hebrews 1]]"
+chronological_order: 1140
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic STOOL|STOOL]]"
+strongs:
+- "[[G4314]]"
+- "[[G5101]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G0032G]]"
+- "[[G2046]]"
+- "[[G4218]]"
+- "[[G2521]]"
+- "[[G1537]]"
+- "[[G1188]]"
+- "[[G3165]]"
+- "[[G2193]]"
+- "[[G0302]]"
+- "[[G5087]]"
+- "[[G2190]]"
+- "[[G4771]]"
+- "[[G5286]]"
+- "[[G4228]]"
+texts:
+- NKO
+---
+
 **Hebrews 1:13**<big><big>[[Heb.1.1 The Supremacy of the Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But to which of the angels said he at any time, Sit on my right hand, until I make thine enemies thy footstool?
 <small><sub>**BSB:**</sub></small>
 Yet to which of the angels did God ever say: “Sit at My right hand until I make Your enemies a footstool for Your feet”?
-<small><sub>**Literal:**</sub></small>
-To which now of the angels has He said ever: do sit at [the] right hand of Me until when I may place the enemies of You [as] a footstool for the feet of You?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.1.12|<< Hebrews 1:12]]</td><td align="center" style="border:none;">[[Heb.1|Hebrews 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.1.14|Hebrews 1:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4314\|πρὸς]]  [[G5101\|τίνα]]  [[G1161\|δὲ]]  [[G3588\|τῶν]]  [[G0032G\|ἀγγέλων]]  [[G2046\|εἴρηκέν]]  [[G4218\|ποτε·]]  [[G2521\|κάθου]]  [[G1537\|ἐκ]]  [[G1188\|δεξιῶν]]  [[G3165\|μου]]  [[G2193\|ἕως]]  [[G0302\|ἂν]]  [[G5087\|θῶ]]  [[G3588\|τοὺς]]  [[G2190\|ἐχθρούς]]  [[G4771\|σου]]  [[G5286\|ὑποπόδιον]]  [[G3588\|τῶν]]  [[G4228\|ποδῶν]]  [[G4771\|σου;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic STOOL|STOOL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.1.12|<< Hebrews 1:12]]</td><td align="center" style="border:none;">[[Heb.1|Hebrews 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.1.14|Hebrews 1:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 1:13** is...
 > $\quad$ referencing: [[LXX.Ps.110.1|Ps 110:1]]

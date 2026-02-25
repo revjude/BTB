@@ -1,8 +1,71 @@
+---
+title: 1 Samuel 21:11
+type: Verse
+kjv: "And the servants of Achish said unto him, Is not this David the king of the land? did they not sing one to another of him in dances, saying, Saul hath slain his thousands, and David his ten thousands?"
+bsb: "But the servants of Achish said to him, “Is this not David, the king of the land? Did they not sing about him in their dances, saying: ‘Saul has slain his thousands, and David his tens of thousands’?”"
+hebrew: "וַיֹּ֨אמְר֜וּ עַבְדֵ֤י אָכִישׁ֙ אֵלָ֔יו הֲלוֹא־ זֶ֥ה דָוִ֖ד מֶ֣לֶךְ הָאָ֑רֶץ הֲל֣וֹא לָזֶ֗ה יַעֲנ֤וּ בַמְּחֹלוֹת֙ לֵאמֹ֔ר הִכָּ֤ה שָׁאוּל֙ בַּאֲלָפָ֔יו וְדָוִ֖ד בְּרִבְבֹתָֽיו׃"
+pericope: "[[1Sam.21.8 David Flees to Gath|David Flees to Gath]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 21
+book/chapter: "[[1Sam.21|1 Samuel 21]]"
+chronological_order: 300
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ACHISH|ACHISH]]"
+- "[[topic DANCING|DANCING]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic GATH|GATH]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5650]]"
+- "[[H0397]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2088]]"
+- "[[H1732]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9005]]"
+- "[[H6030C]]"
+- "[[H9003]]"
+- "[[H4246]]"
+- "[[H5221]]"
+- "[[H7586G]]"
+- "[[H0505G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H7233]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Samuel 21:11**<big><big>[[1Sam.21.8 David Flees to Gath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the servants of Achish said unto him, [Is] not this David the king of the land? did they not sing one to another of him in dances, saying, Saul hath slain his thousands, and David his ten thousands?
 <small><sub>**BSB:**</sub></small>
 But the servants of Achish said to him, “Is this not David, the king of the land? Did they not sing about him in their dances, saying: ‘Saul has slain his thousands, and David his tens of thousands’?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמְר֜וּ]] [[H5650\|עַבְדֵ֤י]] [[H0397\|אָכִישׁ֙]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H9008\|הֲ]][[H3808\|לוֹא]][[H9014\|־]] [[H2088\|זֶ֥ה]] [[H1732\|דָוִ֖ד]] [[H4428G\|מֶ֣לֶךְ]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9008\|הֲ]][[H3808\|ל֣וֹא]] [[H9005\|לָ]][[H2088\|זֶ֗ה]] [[H6030C\|יַעֲנ֤וּ]] [[H9003\|בַ]][[H4246\|מְּחֹלוֹת֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H5221\|הִכָּ֤ה]] [[H7586G\|שָׁאוּל֙]] [[H9003\|בַּ]][[H0505G\|אֲלָפָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H1732\|דָוִ֖ד]] [[H9003\|בְּ]][[H7233\|רִבְבֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACHISH|ACHISH]] • [[topic DANCING|DANCING]] • [[topic DAVID|DAVID]] • [[topic DECEPTION|DECEPTION]] • [[topic GATH|GATH]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.21.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.21.10|<< 1 Samuel 21:10]]</td><td align="center" style="border:none;">[[1Sam.21|1 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.21.12|1 Samuel 21:12 >>]]</td></tr></table>
 
@@ -29,12 +92,12 @@ But the servants of Achish said to him, “Is this not David, the king of the la
 | \<on> ten thousands his  [^7]|**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7233\|רִבְבֹתָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^8] | be.<small><sup>[[HR]]</sup></small> ri.vo.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.21.10|<< 1 Samuel 21:10]]</td><td align="center" style="border:none;">[[1Sam.21|1 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.21.12|1 Samuel 21:12 >>]]</td></tr></table>
 
-[^1]: \<on> thousand his  | **<big>[[H9023|וֹ]]</big><big>[[H0505G|אַלְפּ]]</big><big>[[H9003|בְּ]]</big> ** | ba.<small><sup>[[HR]]</sup></small> 'a.la.fo<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> | K
-[^2]: \<on> thousand his  | **<big>[[H9023|וֹ]]</big><big>[[H0505G|אַלְפּ]]</big><big>[[H9003|בְּ]]</big> ** | ba.<small><sup>[[HR]]</sup></small> 'a.la.fo<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> | K
-[^3]: \<on> thousand his  | **<big>[[H9023|וֹ]]</big><big>[[H0505G|אַלְפּ]]</big><big>[[H9003|בְּ]]</big> ** | ba.<small><sup>[[HR]]</sup></small> 'a.la.fo<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> | K
+[^1]: \<on> thousand his  | **<big>[[H9003|בְּ]]</big><big>[[H0505G|אַלְפּ]]</big><big>[[H9023|וֹ]]</big> ** | ba.<small><sup>[[HR]]</sup></small> 'a.la.fo<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> | K
+[^2]: \<on> thousand his  | **<big>[[H9003|בְּ]]</big><big>[[H0505G|אַלְפּ]]</big><big>[[H9023|וֹ]]</big> ** | ba.<small><sup>[[HR]]</sup></small> 'a.la.fo<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> | K
+[^3]: \<on> thousand his  | **<big>[[H9003|בְּ]]</big><big>[[H0505G|אַלְפּ]]</big><big>[[H9023|וֹ]]</big> ** | ba.<small><sup>[[HR]]</sup></small> 'a.la.fo<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>בַּאֲלָפָ֔/ו</big></span>**
-[^5]: \<on> ten thousand his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H7233|רִבְבֹת]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> ri.vo.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^6]: \<on> ten thousand his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H7233|רִבְבֹת]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> ri.vo.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^7]: \<on> ten thousand his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H7233|רִבְבֹת]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> ri.vo.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^5]: \<on> ten thousand his  | **<big>[[H9003|בְּ]]</big><big>[[H7233|רִבְבֹת]]</big><big>[[H9023|וֹ]]</big><big>[[H9016|׃]]</big> ** | be.<small><sup>[[HR]]</sup></small> ri.vo.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^6]: \<on> ten thousand his  | **<big>[[H9003|בְּ]]</big><big>[[H7233|רִבְבֹת]]</big><big>[[H9023|וֹ]]</big><big>[[H9016|׃]]</big> ** | be.<small><sup>[[HR]]</sup></small> ri.vo.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^7]: \<on> ten thousand his  | **<big>[[H9003|בְּ]]</big><big>[[H7233|רִבְבֹת]]</big><big>[[H9023|וֹ]]</big><big>[[H9016|׃]]</big> ** | be.<small><sup>[[HR]]</sup></small> ri.vo.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^8]: L spelled: **<span class="ashebrew"><big>בְּרִבְבֹתָֽ/ו\׃</big></span>**
 

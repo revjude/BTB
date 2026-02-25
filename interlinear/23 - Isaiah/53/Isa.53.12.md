@@ -1,8 +1,71 @@
+---
+title: Isaiah 53:12
+type: Verse
+kjv: "Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors."
+bsb: "Therefore I will allot Him a portion with the great, and He will divide the spoils with the strong, because He has poured out His life unto death, and He was numbered with the transgressors. Yet He bore the sin of many and made intercession for the transgressors."
+hebrew: "לָכֵ֞ן אֲחַלֶּק־ ל֣וֹ בָרַבִּ֗ים וְאֶת־ עֲצוּמִים֮ יְחַלֵּ֣ק שָׁלָל֒ תַּ֗חַת אֲשֶׁ֨ר הֶעֱרָ֤ה לַמָּ֙וֶת֙ נַפְשׁ֔וֹ וְאֶת־ פֹּשְׁעִ֖ים נִמְנָ֑ה וְהוּא֙ חֵטְא־ רַבִּ֣ים נָשָׂ֔א וְלַפֹּשְׁעִ֖ים יַפְגִּֽיעַ׃ ס"
+pericope: "[[Isa.53.9 A Grave Assigned|A Grave Assigned]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 53
+book/chapter: "[[Isa.53|Isaiah 53]]"
+chronological_order: 692
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H2505A]]"
+- "[[H9014]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H7227A]]"
+- "[[H9002]]"
+- "[[H0854]]"
+- "[[H6099]]"
+- "[[H7998]]"
+- "[[H8478J]]"
+- "[[H0834A]]"
+- "[[H6168]]"
+- "[[H4194]]"
+- "[[H5315G]]"
+- "[[H9023]]"
+- "[[H6586]]"
+- "[[H4487]]"
+- "[[H1931]]"
+- "[[H2399]]"
+- "[[H5375J]]"
+- "[[H6293]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 53:12**<big><big>[[Isa.53.9 A Grave Assigned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore will I divide him [a portion] with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors.
 <small><sub>**BSB:**</sub></small>
 Therefore I will allot Him a portion with the great, and He will divide the spoils with the strong, because He has poured out His life unto death, and He was numbered with the transgressors. Yet He bore the sin of many and made intercession for the transgressors.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֞ן]] [[H2505A\|אֲחַלֶּק]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H9003\|בָ]][[H7227A\|רַבִּ֗ים]] [[H9002\|וְ]][[H0854\|אֶת]][[H9014\|־]] [[H6099\|עֲצוּמִים֮]] [[H2505A\|יְחַלֵּ֣ק]] [[H7998\|שָׁלָל֒]] [[H8478J\|תַּ֗חַת]] [[H0834A\|אֲשֶׁ֨ר]] [[H6168\|הֶעֱרָ֤ה]] [[H9005\|לַ]][[H4194\|מָּ֙וֶת֙]] [[H5315G\|נַפְשׁ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H0854\|אֶת]][[H9014\|־]] [[H6586\|פֹּשְׁעִ֖ים]] [[H4487\|נִמְנָ֑ה]] [[H9002\|וְ]][[H1931\|הוּא֙]] [[H2399\|חֵטְא]][[H9014\|־]] [[H7227A\|רַבִּ֣ים]] [[H5375J\|נָשָׂ֔א]] [[H9002\|וְ]][[H9005\|לַ]][[H6586\|פֹּשְׁעִ֖ים]] [[H6293\|יַפְגִּֽיעַ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.53.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.53.11|<< Isaiah 53:11]]</td><td align="center" style="border:none;">[[Isa.53|Isaiah 53]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.1|Isaiah 54:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -33,7 +96,7 @@ Therefore I will allot Him a portion with the great, and He will divide the spoi
 | many [people]  |**<big>&#8207;[[H7227A\|רַבִּ֣ים]]&#8207; </big>**| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he bore  |**<big>&#8207;[[H5375J\|נָשָׂ֔א]]&#8207; </big>**| na.Sa'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and for the transgressors  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6586\|פֹּשְׁעִ֖ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HRd]]</sup></small> po.she.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will make entreaty  |**<big>&#8207;[[H6293\|יַפְגִּֽיעַ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yaf.Gi.a'<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will make entreaty  |**<big>&#8207;[[H6293\|יַפְגִּֽיעַ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yaf.Gi.a'<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.53.11|<< Isaiah 53:11]]</td><td align="center" style="border:none;">[[Isa.53|Isaiah 53]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.1|Isaiah 54:1 >>]]</td></tr></table>
 
 

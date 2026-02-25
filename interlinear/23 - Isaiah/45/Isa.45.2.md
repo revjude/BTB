@@ -1,8 +1,64 @@
+---
+title: Isaiah 45:2
+type: Verse
+kjv: "I will go before thee, and make the crooked places straight: I will break in pieces the gates of brass, and cut in sunder the bars of iron:"
+bsb: "“I will go before you and level the mountains; I will break down the gates of bronze and cut through the bars of iron."
+hebrew: "אֲנִי֙ לְפָנֶ֣יךָ אֵלֵ֔ךְ וַהֲדוּרִ֖ים אֲיַשֵּׁ֑ר דַּלְת֤וֹת נְחוּשָׁה֙ אֲשַׁבֵּ֔ר וּבְרִיחֵ֥י בַרְזֶ֖ל אֲגַדֵּֽעַ׃"
+pericope: "[[Isa.45.1 God Calls Cyrus|God Calls Cyrus]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 45
+book/chapter: "[[Isa.45|Isaiah 45]]"
+chronological_order: 684
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic BRASS|BRASS]]"
+- "[[topic CALL|CALL]]"
+- "[[topic CYRUS|CYRUS]]"
+- "[[topic GATES|GATES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[H0589]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H1980G]]"
+- "[[H9002]]"
+- "[[H1921]]"
+- "[[H3474]]"
+- "[[H1817C]]"
+- "[[H5154]]"
+- "[[H7665]]"
+- "[[H1280]]"
+- "[[H1270]]"
+- "[[H1438]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Isaiah 45:2**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will go before thee, and make the crooked places straight: I will break in pieces the gates of brass, and cut in sunder the bars of iron:
 <small><sub>**BSB:**</sub></small>
 “I will go before you and level the mountains; I will break down the gates of bronze and cut through the bars of iron.
+<small><sub>**Hebrew:**</sub></small>
+[[H0589\|אֲנִי֙]] [[H9005\|לְ]][[H6440G\|פָנֶ֣י]][[H9021\|ךָ]] [[H1980G\|אֵלֵ֔ךְ]] [[H9002\|וַ]][[H1921\|הֲדוּרִ֖ים]] [[H3474\|אֲיַשֵּׁ֑ר]] [[H1817C\|דַּלְת֤וֹת]] [[H5154\|נְחוּשָׁה֙]] [[H7665\|אֲשַׁבֵּ֔ר]] [[H9002\|וּ]][[H1280\|בְרִיחֵ֥י]] [[H1270\|בַרְזֶ֖ל]] [[H1438\|אֲגַדֵּֽעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic BRASS|BRASS]] • [[topic CALL|CALL]] • [[topic CYRUS|CYRUS]] • [[topic GATES|GATES]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]] • [[topic PERSIA|PERSIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.1|<< Isaiah 45:1]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.3|Isaiah 45:3 >>]]</td></tr></table>
 

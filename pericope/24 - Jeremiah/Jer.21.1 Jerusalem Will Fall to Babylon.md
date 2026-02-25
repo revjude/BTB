@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jerusalem Will Fall to Babylon
+type: Pericope
 pericope: "[[Jer.21.1 Jerusalem Will Fall to Babylon|Jerusalem Will Fall to Babylon]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 21
 book/chapter: "[[Jer.21|Jeremiah 21]]"
-genre:
+chronological_order: 744
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 10
 verses:
 - "[[Jer.21.1]]"
 - "[[Jer.21.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Jer.21.10]]"
 ---
 
-[[Jer.21|Jeremiah 21:1 - Jeremiah 21:10]]
+<small>[[Jer.21|Jeremiah 21:1-10]]</small>
 *Jerusalem Will Fall to Babylon*
 
 [[Jer.21.1|1]] The word which came unto Jeremiah from the LORD, when king Zedekiah sent unto him Pashur the son of Melchiah, and Zephaniah the son of Maaseiah the priest, saying,

@@ -1,8 +1,54 @@
+---
+title: Psalm 119:39
+type: Verse
+kjv: "Turn away my reproach which I fear: for thy judgments are good."
+bsb: "Turn away the disgrace I dread, for Your judgments are good."
+hebrew: "הַעֲבֵ֣ר חֶ֭רְפָּתִי אֲשֶׁ֣ר יָגֹ֑רְתִּי כִּ֖י מִשְׁפָּטֶ֣יךָ טוֹבִֽים׃"
+pericope: "[[Ps.119.33 Your Word Is a Lamp to My Feet - HE|Your Word Is a Lamp to My Feet - HE]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+strongs:
+- "[[H5674C]]"
+- "[[H2781]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H3025]]"
+- "[[H3588A]]"
+- "[[H4941G]]"
+- "[[H9021]]"
+- "[[H2896A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:39**<big><big>[[Ps.119.33 Your Word Is a Lamp to My Feet - HE|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn away my reproach which I fear: for thy judgments [are] good.
 <small><sub>**BSB:**</sub></small>
 Turn away the disgrace I dread, for Your judgments are good.
+<small><sub>**Hebrew:**</sub></small>
+[[H5674C\|הַעֲבֵ֣ר]] [[H2781\|חֶ֭רְפָּתִ]][[H9020\|י]] [[H0834A\|אֲשֶׁ֣ר]] [[H3025\|יָגֹ֑רְתִּי]] [[H3588A\|כִּ֖י]] [[H4941G\|מִשְׁפָּטֶ֣י]][[H9021\|ךָ]] [[H2896A\|טוֹבִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic INSTRUCTION|INSTRUCTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.38|<< Psalms 119:38]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.40|Psalms 119:40 >>]]</td></tr></table>
 

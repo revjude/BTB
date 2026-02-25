@@ -1,8 +1,65 @@
+---
+title: Numbers 8:16
+type: Verse
+kjv: "For they are wholly given unto me from among the children of Israel; instead of such as open every womb, even instead of the firstborn of all the children of Israel, have I taken them unto me."
+bsb: "For the Levites have been wholly given to Me from among the sons of Israel. I have taken them for Myself in place of all who come first from the womb, the firstborn of all the sons of Israel."
+hebrew: "כִּי֩ נְתֻנִ֨ים נְתֻנִ֥ים הֵ֙מָּה֙ לִ֔י מִתּ֖וֹךְ בְּנֵ֣י יִשְׂרָאֵ֑ל תַּחַת֩ פִּטְרַ֨ת כָּל־ רֶ֜חֶם בְּכ֥וֹר כֹּל֙ מִבְּנֵ֣י יִשְׂרָאֵ֔ל לָקַ֥חְתִּי אֹתָ֖ם לִֽי׃"
+pericope: "[[Num.8.5 Cleansing the Levites|Cleansing the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 8
+book/chapter: "[[Num.8|Numbers 8]]"
+chronological_order: 167
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H3588A]]"
+- "[[H5414G]]"
+- "[[H1992]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H8478H]]"
+- "[[H6363B]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7358]]"
+- "[[H1060]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 8:16**<big><big>[[Num.8.5 Cleansing the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they [are] wholly given unto me from among the children of Israel; instead of such as open every womb, [even instead of] the firstborn of all the children of Israel, have I taken them unto me.
 <small><sub>**BSB:**</sub></small>
 For the Levites have been wholly given to Me from among the sons of Israel. I have taken them for Myself in place of all who come first from the womb, the firstborn of all the sons of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H5414G\|נְתֻנִ֨ים]] [[H5414G\|נְתֻנִ֥ים]] [[H1992\|הֵ֙מָּה֙]] [[H9005\|לִ֔]][[H9030\|י]] [[H9006\|מִ]][[H8432\|תּ֖וֹךְ]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H8478H\|תַּחַת֩]] [[H6363B\|פִּטְרַ֨ת]] [[H3605\|כָּל]][[H9014\|־]] [[H7358\|רֶ֜חֶם]] [[H1060\|בְּכ֥וֹר]] [[H3605\|כֹּל֙]] [[H9006\|מִ]][[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3947G\|לָקַ֥חְתִּי]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRSTBORN|FIRSTBORN]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.8.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.15|<< Numbers 8:15]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.17|Numbers 8:17 >>]]</td></tr></table>
 

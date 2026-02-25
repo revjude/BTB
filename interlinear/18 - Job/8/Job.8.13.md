@@ -1,8 +1,57 @@
+---
+title: Job 8:13
+type: Verse
+kjv: "So are the paths of all that forget God; and the hypocrite’s hope shall perish:"
+bsb: "Such is the destiny of all who forget God; so the hope of the godless will perish."
+hebrew: "כֵּ֗ן אָ֭רְחוֹת כָּל־ שֹׁ֣כְחֵי אֵ֑ל וְתִקְוַ֖ת חָנֵ֣ף תֹּאבֵֽד׃"
+pericope: "[[Job.8.1 Bildad：Job Should Repent|Bildad：Job Should Repent]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 8
+book/chapter: "[[Job.8|Job 8]]"
+chronological_order: 19
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic FORGETTING GOD|FORGETTING GOD]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3651C]]"
+- "[[H0734]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7911]]"
+- "[[H0410G]]"
+- "[[H9002]]"
+- "[[H8615B]]"
+- "[[H2611]]"
+- "[[H0006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 8:13**<big><big>[[Job.8.1 Bildad：Job Should Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So [are] the paths of all that forget God; and the hypocrite’s hope shall perish:
 <small><sub>**BSB:**</sub></small>
 Such is the destiny of all who forget God; so the hope of the godless will perish.
+<small><sub>**Hebrew:**</sub></small>
+[[H3651C\|כֵּ֗ן]] [[H0734\|אָ֭רְחוֹת]] [[H3605\|כָּל]][[H9014\|־]] [[H7911\|שֹׁ֣כְחֵי]] [[H0410G\|אֵ֑ל]] [[H9002\|וְ]][[H8615B\|תִקְוַ֖ת]] [[H2611\|חָנֵ֣ף]] [[H0006\|תֹּאבֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic FORGETTING GOD|FORGETTING GOD]] • [[topic GODLESSNESS|GODLESSNESS]] • [[topic HOPE|HOPE]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.8.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.8.12|<< Job 8:12]]</td><td align="center" style="border:none;">[[Job.8|Job 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.14|Job 8:14 >>]]</td></tr></table>
 

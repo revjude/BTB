@@ -1,8 +1,56 @@
+---
+title: Job 33:22
+type: Verse
+kjv: "Yea, his soul draweth near unto the grave, and his life to the destroyers."
+bsb: "He draws near to the Pit, and his life to the messengers of death."
+hebrew: "וַתִּקְרַ֣ב לַשַּׁ֣חַת נַפְשׁ֑וֹ וְ֝חַיָּת֗וֹ לַֽמְמִתִֽים׃"
+pericope: "[[Job.33.1 Elihu Rebukes Job|Elihu Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 33
+book/chapter: "[[Job.33|Job 33]]"
+chronological_order: 44
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126G]]"
+- "[[H9005]]"
+- "[[H7845H]]"
+- "[[H5315G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H2416C]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 33:22**<big><big>[[Job.33.1 Elihu Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, his soul draweth near unto the grave, and his life to the destroyers.
 <small><sub>**BSB:**</sub></small>
 He draws near to the Pit, and his life to the messengers of death.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7126G\|תִּקְרַ֣ב]] [[H9005\|לַ]][[H7845H\|שַּׁ֣חַת]] [[H5315G\|נַפְשׁ֑]][[H9023\|וֹ]] [[H9002\|וְ֝]][[H2416C\|חַיָּת֗]][[H9023\|וֹ]] [[H9005\|לַֽ]][[H4191\|מְמִתִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AGENCY|AGENCY]] • [[topic CONVICTION|CONVICTION]] • [[topic GOD|GOD]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.33.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.21|<< Job 33:21]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.23|Job 33:23 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Ezekiel 48:31
+type: Verse
+kjv: "And the gates of the city shall be after the names of the tribes of Israel: three gates northward; one gate of Reuben, one gate of Judah, one gate of Levi."
+bsb: "the gates of the city will be named after the tribes of Israel. On the north side there will be three gates: the gate of Reuben, the gate of Judah, and the gate of Levi."
+hebrew: "וְשַׁעֲרֵ֣י הָעִ֗יר עַל־ שְׁמוֹת֙ שִׁבְטֵ֣י יִשְׂרָאֵ֔ל שְׁעָרִ֥ים שְׁלוֹשָׁ֖ה צָפ֑וֹנָה שַׁ֣עַר רְאוּבֵ֞ן אֶחָ֗ד שַׁ֤עַר יְהוּדָה֙ אֶחָ֔ד שַׁ֥עַר לֵוִ֖י אֶחָֽד׃"
+pericope: "[[Ezek.48.30 The City Gates and Dimensions|The City Gates and Dimensions]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 48
+book/chapter: "[[Ezek.48|Ezekiel 48]]"
+chronological_order: 839
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H9002]]"
+- "[[H8179G]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H7626H]]"
+- "[[H3478]]"
+- "[[H7969]]"
+- "[[H6828G]]"
+- "[[H9011]]"
+- "[[H7205]]"
+- "[[H0259]]"
+- "[[H3063G]]"
+- "[[H3881]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 48:31**<big><big>[[Ezek.48.30 The City Gates and Dimensions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the gates of the city [shall be] after the names of the tribes of Israel: three gates northward; one gate of Reuben, one gate of Judah, one gate of Levi.
 <small><sub>**BSB:**</sub></small>
 the gates of the city will be named after the tribes of Israel. On the north side there will be three gates: the gate of Reuben, the gate of Judah, and the gate of Levi.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8179G\|שַׁעֲרֵ֣י]] [[H9009\|הָ]][[H5892B\|עִ֗יר]] [[H5921A\|עַל]][[H9014\|־]] [[H8034\|שְׁמוֹת֙]] [[H7626H\|שִׁבְטֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H8179G\|שְׁעָרִ֥ים]] [[H7969\|שְׁלוֹשָׁ֖ה]] [[H6828G\|צָפ֑וֹנָ]][[H9011\|ה]] [[H8179G\|שַׁ֣עַר]] [[H7205\|רְאוּבֵ֞ן]] [[H0259\|אֶחָ֗ד]] [[H8179G\|שַׁ֤עַר]] [[H3063G\|יְהוּדָה֙]] [[H0259\|אֶחָ֔ד]] [[H8179G\|שַׁ֥עַר]] [[H3881\|לֵוִ֖י]] [[H0259\|אֶחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.30|<< Ezekiel 48:30]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.32|Ezekiel 48:32 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

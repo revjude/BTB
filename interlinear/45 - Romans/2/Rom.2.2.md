@@ -1,10 +1,53 @@
+---
+title: Romans 2:2
+type: Verse
+kjv: "But we are sure that the judgment of God is according to truth against them which commit such things."
+bsb: "And we know that God’s judgment against those who do such things is based on truth."
+greek: "οἴδαμεν δὲ ὅτι τὸ κρίμα τοῦ θεοῦ ἐστιν κατὰ ἀλήθειαν ἐπὶ τοὺς τὰ τοιαῦτα πράσσοντας·"
+pericope: "[[Rom.2.1 God’s Righteous Judgment|God’s Righteous Judgment]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 2
+book/chapter: "[[Rom.2|Romans 2]]"
+chronological_order: 1088
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[G6063]]"
+- "[[G1161]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G2917]]"
+- "[[G2316]]"
+- "[[G1510]]"
+- "[[G2596]]"
+- "[[G0225]]"
+- "[[G1909]]"
+- "[[G5108]]"
+- "[[G4238]]"
+texts:
+- NKO
+---
+
 **Romans 2:2**<big><big>[[Rom.2.1 God’s Righteous Judgment|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But we are sure that the judgment of God is according to truth against them which commit such things.
 <small><sub>**BSB:**</sub></small>
 And we know that God’s judgment against those who do such things is based on truth.
-<small><sub>**Literal:**</sub></small>
-We know however that the judgment <the> of God is according to truth upon those <the> such things practicing;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.1|<< Romans 2:1]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.3|Romans 2:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|οἴδαμεν]]  [[G1161\|δὲ]]  [[G3754G\|ὅτι]]  [[G3588\|τὸ]]  [[G2917\|κρίμα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1510\|ἐστιν]]  [[G2596\|κατὰ]]  [[G0225\|ἀλήθειαν]]  [[G1909\|ἐπὶ]]  [[G3588\|τοὺς]]  [[G3588\|τὰ]]  [[G5108\|τοιαῦτα]]  [[G4238\|πράσσοντας·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic TRUTH|TRUTH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.1|<< Romans 2:1]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.3|Romans 2:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

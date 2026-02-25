@@ -1,10 +1,60 @@
+---
+title: Mark 1:29
+type: Verse
+kjv: "And forthwith, when they were come out of the synagogue, they entered into the house of Simon and Andrew, with James and John."
+bsb: "As soon as Jesus and His companions had left the synagogue, they went with James and John to the home of Simon and Andrew."
+greek: "Καὶ εὐθὺς ἐκ τῆς συναγωγῆς ἐξελθόντες ἦλθον εἰς τὴν οἰκίαν Σίμωνος καὶ Ἀνδρέου μετὰ Ἰακώβου καὶ Ἰωάννου."
+pericope: "[[Mark.1.29 Jesus Heals at Peter’s House|Jesus Heals at Peter’s House]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 1
+book/chapter: "[[Mark.1|Mark 1]]"
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SON-IN-LAW|SON-IN-LAW]]"
+strongs:
+- "[[G2532]]"
+- "[[G2112]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G4864]]"
+- "[[G1831]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G3614G]]"
+- "[[G4613O]]"
+- "[[G0406]]"
+- "[[G3326]]"
+- "[[G2385G]]"
+- "[[G2491H]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **Mark 1:29**<big><big>[[Mark.1.29 Jesus Heals at Peter’s House|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And forthwith, when they were come out of the synagogue, they entered into the house of Simon and Andrew, with James and John.
 <small><sub>**BSB:**</sub></small>
 As soon as Jesus and His companions had left the synagogue, they went with James and John to the home of Simon and Andrew.
-<small><sub>**Literal:**</sub></small>
-And immediately out of the synagogue they going out they came into the house of Simon and Andrew with James and John.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.28|<< Mark 1:28]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.30|Mark 1:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2112\|εὐθὺς]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G4864\|συναγωγῆς]]  [[G1831\|ἐξελθόντες]]  [[G2064\|ἦλθον]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3614G\|οἰκίαν]]  [[G4613O\|Σίμωνος]]  [[G2532\|καὶ]]  [[G0406\|Ἀνδρέου]]  [[G3326\|μετὰ]]  [[G2385G\|Ἰακώβου]]  [[G2532\|καὶ]]  [[G2491H\|Ἰωάννου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic JAMES|JAMES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PETER|PETER]] • [[topic SON-IN-LAW|SON-IN-LAW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.28|<< Mark 1:28]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.30|Mark 1:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

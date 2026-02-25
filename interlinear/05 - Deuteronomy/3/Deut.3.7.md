@@ -1,8 +1,58 @@
+---
+title: Deuteronomy 3:7
+type: Verse
+kjv: "But all the cattle, and the spoil of the cities, we took for a prey to ourselves."
+bsb: "But all the livestock and plunder of the cities we carried off for ourselves."
+hebrew: "וְכָל־ הַבְּהֵמָ֛ה וּשְׁלַ֥ל הֶעָרִ֖ים בַּזּ֥וֹנוּ לָֽנוּ׃"
+pericope: "[[Deut.3.1 The Defeat of Og|The Defeat of Og]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 3
+book/chapter: "[[Deut.3|Deuteronomy 3]]"
+chronological_order: 199
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OG|OG]]"
+- "[[topic REUBENITES|REUBENITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0929]]"
+- "[[H7998]]"
+- "[[H5892B]]"
+- "[[H0962]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 3:7**<big><big>[[Deut.3.1 The Defeat of Og|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But all the cattle, and the spoil of the cities, we took for a prey to ourselves.
 <small><sub>**BSB:**</sub></small>
 But all the livestock and plunder of the cities we carried off for ourselves.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H0929\|בְּהֵמָ֛ה]] [[H9002\|וּ]][[H7998\|שְׁלַ֥ל]] [[H9009\|הֶ]][[H5892B\|עָרִ֖ים]] [[H0962\|בַּזּ֥וֹנוּ]] [[H9005\|לָֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic OG|OG]] • [[topic REUBENITES|REUBENITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.6|<< Deuteronomy 3:6]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.8|Deuteronomy 3:8 >>]]</td></tr></table>
 

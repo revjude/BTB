@@ -1,8 +1,59 @@
+---
+title: Psalm 49:13
+type: Verse
+kjv: "This their way is their folly: yet their posterity approve their sayings. Selah."
+bsb: "This is the fate of the foolish and their followers who endorse their sayings. Selah"
+hebrew: "זֶ֣ה דַ֭רְכָּם כֵּ֣סֶל לָ֑מוֹ וְאַחֲרֵיהֶ֓ם׀ בְּפִיהֶ֖ם יִרְצ֣וּ סֶֽלָה׃"
+pericope: "[[Ps.49.1 The Evanescence of Wealth|The Evanescence of Wealth]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 49
+book/chapter: "[[Ps.49|Psalm 49]]"
+chronological_order: 504
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2088]]"
+- "[[H1870G]]"
+- "[[H9028]]"
+- "[[H3689]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H6310I]]"
+- "[[H7521]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 49:13**<big><big>[[Ps.49.1 The Evanescence of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This their way [is] their folly: yet their posterity approve their sayings. Selah.
 <small><sub>**BSB:**</sub></small>
 This is the fate of the foolish and their followers who endorse their sayings. Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H2088\|זֶ֣ה]] [[H1870G\|דַ֭רְכָּ]][[H9028\|ם]] [[H3689\|כֵּ֣סֶל]] [[H9005\|לָ֑]][[H9038\|מוֹ]] [[H9002\|וְ]][[H0310A\|אַחֲרֵי]][[H9038\|הֶ֓ם]][[H9015\|׀]] [[H9003\|בְּ]][[H6310I\|פִי]][[H9028\|הֶ֖ם]] [[H7521\|יִרְצ֣וּ]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic FLATTERY|FLATTERY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.49.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.49.12|<< Psalms 49:12]]</td><td align="center" style="border:none;">[[Ps.49|Psalms 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.49.14|Psalms 49:14 >>]]</td></tr></table>
 

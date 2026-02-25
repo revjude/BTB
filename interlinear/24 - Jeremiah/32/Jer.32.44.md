@@ -1,8 +1,76 @@
+---
+title: Jeremiah 32:44
+type: Verse
+kjv: "Men shall buy fields for money, and subscribe evidences, and seal them, and take witnesses in the land of Benjamin, and in the places about Jerusalem, and in the cities of Judah, and in the cities of the mountains, and in the cities of the valley, and in the cities of the south: for I will cause their captivity to return, saith the LORD."
+bsb: "Fields will be purchased with silver, and deeds will be signed, sealed, and witnessed in the land of Benjamin, in the areas surrounding Jerusalem, and in the cities of Judah—the cities of the hill country, the foothills, and the Negev—because I will restore them from captivity, declares the LORD.”"
+hebrew: "שָׂד֞וֹת בַּכֶּ֣סֶף יִקְנ֗וּ וְכָת֨וֹב בַּסֵּ֥פֶר׀ וְחָתוֹם֮ וְהָעֵ֣ד עֵדִים֒ בְּאֶ֨רֶץ בִּנְיָמִ֜ן וּבִסְבִיבֵ֣י יְרוּשָׁלִַ֗ם וּבְעָרֵ֤י יְהוּדָה֙ וּבְעָרֵ֣י הָהָ֔ר וּבְעָרֵ֥י הַשְּׁפֵלָ֖ה וּבְעָרֵ֣י הַנֶּ֑גֶב כִּֽי־ אָשִׁ֥יב אֶת־ שְׁבוּתָ֖ם נְאֻם־ יְהוָֽה׃ פ"
+pericope: "[[Jer.32.36 A Promise of Restoration|A Promise of Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 32
+book/chapter: "[[Jer.32|Jeremiah 32]]"
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic WITNESS|WITNESS]]"
+strongs:
+- "[[H7704G]]"
+- "[[H9003]]"
+- "[[H3701G]]"
+- "[[H7069]]"
+- "[[H9002]]"
+- "[[H3789]]"
+- "[[H5612A]]"
+- "[[H9015]]"
+- "[[H2856]]"
+- "[[H5749B]]"
+- "[[H5707]]"
+- "[[H0776G]]"
+- "[[H1144G]]"
+- "[[H5439G]]"
+- "[[H3389]]"
+- "[[H5892B]]"
+- "[[H3063G]]"
+- "[[H9009]]"
+- "[[H2022H]]"
+- "[[H8219]]"
+- "[[H5045G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7725H]]"
+- "[[H0853]]"
+- "[[H7622]]"
+- "[[H9028]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Jeremiah 32:44**<big><big>[[Jer.32.36 A Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Men shall buy fields for money, and subscribe evidences, and seal [them], and take witnesses in the land of Benjamin, and in the places about Jerusalem, and in the cities of Judah, and in the cities of the mountains, and in the cities of the valley, and in the cities of the south: for I will cause their captivity to return, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 Fields will be purchased with silver, and deeds will be signed, sealed, and witnessed in the land of Benjamin, in the areas surrounding Jerusalem, and in the cities of Judah—the cities of the hill country, the foothills, and the Negev—because I will restore them from captivity, declares the LORD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7704G\|שָׂד֞וֹת]] [[H9003\|בַּ]][[H3701G\|כֶּ֣סֶף]] [[H7069\|יִקְנ֗וּ]] [[H9002\|וְ]][[H3789\|כָת֨וֹב]] [[H9003\|בַּ]][[H5612A\|סֵּ֥פֶר]][[H9015\|׀]] [[H9002\|וְ]][[H2856\|חָתוֹם֮]] [[H9002\|וְ]][[H5749B\|הָעֵ֣ד]] [[H5707\|עֵדִים֒]] [[H9003\|בְּ]][[H0776G\|אֶ֨רֶץ]] [[H1144G\|בִּנְיָמִ֜ן]] [[H9002\|וּ]][[H9003\|בִ]][[H5439G\|סְבִיבֵ֣י]] [[H3389\|יְרוּשָׁלִַ֗ם]] [[H9002\|וּ]][[H9003\|בְ]][[H5892B\|עָרֵ֤י]] [[H3063G\|יְהוּדָה֙]] [[H9002\|וּ]][[H9003\|בְ]][[H5892B\|עָרֵ֣י]] [[H9009\|הָ]][[H2022H\|הָ֔ר]] [[H9002\|וּ]][[H9003\|בְ]][[H5892B\|עָרֵ֥י]] [[H9009\|הַ]][[H8219\|שְּׁפֵלָ֖ה]] [[H9002\|וּ]][[H9003\|בְ]][[H5892B\|עָרֵ֣י]] [[H9009\|הַ]][[H5045G\|נֶּ֑גֶב]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7725H\|אָשִׁ֥יב]] [[H0853\|אֶת]][[H9014\|־]] [[H7622\|שְׁבוּתָ֖]][[H9028\|ם]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LAND|LAND]] • [[topic MONEY|MONEY]] • [[topic WITNESS|WITNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.43|<< Jeremiah 32:43]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.1|Jeremiah 33:1 >>]]</td></tr></table>
 
@@ -33,7 +101,7 @@ Fields will be purchased with silver, and deeds will be signed, sealed, and witn
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | captivity their  |**<big>&#8207;[[H7622\|שְׁבוּתָ֖]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| she.vu.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.43|<< Jeremiah 32:43]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.1|Jeremiah 33:1 >>]]</td></tr></table>
 
 

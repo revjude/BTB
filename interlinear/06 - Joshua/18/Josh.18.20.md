@@ -1,8 +1,61 @@
+---
+title: Joshua 18:20
+type: Verse
+kjv: "And Jordan was the border of it on the east side. This was the inheritance of the children of Benjamin, by the coasts thereof round about, according to their families."
+bsb: "On the east side the border was the Jordan. These were the borders around the inheritance of the clans of the tribe of Benjamin."
+hebrew: "וְהַיַּרְדֵּ֥ן יִגְבֹּל־ אֹת֖וֹ לִפְאַת־ קֵ֑דְמָה זֹ֡את נַחֲלַת֩ בְּנֵ֨י בִנְיָמִ֧ן לִגְבֽוּלֹתֶ֛יהָ סָבִ֖יב לְמִשְׁפְּחֹתָֽם׃"
+pericope: "[[Josh.18.11 Benjamin’s Inheritance|Benjamin’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 18
+book/chapter: "[[Josh.18|Joshua 18]]"
+chronological_order: 248
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H1379]]"
+- "[[H9014]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H6285]]"
+- "[[H6924B]]"
+- "[[H9011]]"
+- "[[H2063]]"
+- "[[H5159]]"
+- "[[H1121G]]"
+- "[[H1144G]]"
+- "[[H1367]]"
+- "[[H9024]]"
+- "[[H5439G]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 18:20**<big><big>[[Josh.18.11 Benjamin’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jordan was the border of it on the east side. This [was] the inheritance of the children of Benjamin, by the coasts thereof round about, according to their families.
 <small><sub>**BSB:**</sub></small>
 On the east side the border was the Jordan. These were the borders around the inheritance of the clans of the tribe of Benjamin.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H3383\|יַּרְדֵּ֥ן]] [[H1379\|יִגְבֹּל]][[H9014\|־]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9005\|לִ]][[H6285\|פְאַת]][[H9014\|־]] [[H6924B\|קֵ֑דְמָ]][[H9011\|ה]] [[H2063\|זֹ֡את]] [[H5159\|נַחֲלַת֩]] [[H1121G\|בְּנֵ֨י]] [[H1144G\|בִנְיָמִ֧ן]] [[H9005\|לִ]][[H1367\|גְבֽוּלֹתֶ֛י]][[H9024\|הָ]] [[H5439G\|סָבִ֖יב]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.19|<< Joshua 18:19]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.21|Joshua 18:21 >>]]</td></tr></table>
 

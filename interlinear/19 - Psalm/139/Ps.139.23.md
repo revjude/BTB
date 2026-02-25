@@ -1,8 +1,54 @@
+---
+title: Psalm 139:23
+type: Verse
+kjv: "Search me, O God, and know my heart: try me, and know my thoughts:"
+bsb: "Search me, O God, and know my heart; test me and know my concerns."
+hebrew: "חָקְרֵ֣נִי אֵ֭ל וְדַ֣ע לְבָבִ֑י בְּ֝חָנֵ֗נִי וְדַ֣ע שַׂרְעַפָּֽי׃"
+pericope: "[[Ps.139.1 You Have Searched Me and Known Me|You Have Searched Me and Known Me]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 139
+book/chapter: "[[Ps.139|Psalm 139]]"
+chronological_order: 386
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic SELF-EXAMINATION|SELF-EXAMINATION]]"
+strongs:
+- "[[H2713]]"
+- "[[H9030]]"
+- "[[H0410G]]"
+- "[[H9002]]"
+- "[[H3045]]"
+- "[[H3824]]"
+- "[[H9020]]"
+- "[[H0974]]"
+- "[[H8312]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 139:23**<big><big>[[Ps.139.1 You Have Searched Me and Known Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Search me, O God, and know my heart: try me, and know my thoughts:
 <small><sub>**BSB:**</sub></small>
 Search me, O God, and know my heart; test me and know my concerns.
+<small><sub>**Hebrew:**</sub></small>
+[[H2713\|חָקְרֵ֣]][[H9030\|נִי]] [[H0410G\|אֵ֭ל]] [[H9002\|וְ]][[H3045\|דַ֣ע]] [[H3824\|לְבָבִ֑]][[H9020\|י]] [[H0974\|בְּ֝חָנֵ֗]][[H9030\|נִי]] [[H9002\|וְ]][[H3045\|דַ֣ע]] [[H8312\|שַׂרְעַפָּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic SELF-EXAMINATION|SELF-EXAMINATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.139.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.22|<< Psalms 139:22]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.24|Psalms 139:24 >>]]</td></tr></table>
 

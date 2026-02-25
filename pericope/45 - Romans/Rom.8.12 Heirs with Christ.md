@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Heirs with Christ
+type: Pericope
 pericope: "[[Rom.8.12 Heirs with Christ|Heirs with Christ]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Romans
 chapter: 8
 book/chapter: "[[Rom.8|Romans 8]]"
-genre:
+chronological_order: 1094
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 6
 verses:
 - "[[Rom.8.12]]"
 - "[[Rom.8.13]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Rom.8.17]]"
 ---
 
-[[Rom.8|Romans 8:12 - Romans 8:17]]
+<small>[[Rom.8|Romans 8:12-17]]</small>
 *Heirs with Christ*
 
 [[Rom.8.12|12]] Therefore, brethren, we are debtors, not to the flesh, to live after the flesh.

@@ -1,8 +1,59 @@
+---
+title: Proverbs 31:30
+type: Verse
+kjv: "Favour is deceitful, and beauty is vain: but a woman that feareth the LORD, she shall be praised."
+bsb: "Charm is deceptive and beauty is fleeting, but a woman who fears the LORD is to be praised."
+hebrew: "שֶׁ֣קֶר הַ֭חֵן וְהֶ֣בֶל הַיֹּ֑פִי אִשָּׁ֥ה יִרְאַת־ יְ֝הוָ֗ה הִ֣יא תִתְהַלָּֽל׃"
+pericope: "[[Prov.31.10 The Virtues of a Noble Woman|The Virtues of a Noble Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 31
+book/chapter: "[[Prov.31|Proverbs 31]]"
+chronological_order: 486
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BEAUTY|BEAUTY]]"
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H8267]]"
+- "[[H9009]]"
+- "[[H2580]]"
+- "[[H9002]]"
+- "[[H1892]]"
+- "[[H3308]]"
+- "[[H0802G]]"
+- "[[H3373]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H1931]]"
+- "[[H1984B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 31:30**<big><big>[[Prov.31.10 The Virtues of a Noble Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Favour [is] deceitful, and beauty [is] vain: [but] a woman [that] feareth the LORD, she shall be praised.
 <small><sub>**BSB:**</sub></small>
 Charm is deceptive and beauty is fleeting, but a woman who fears the LORD is to be praised.
+<small><sub>**Hebrew:**</sub></small>
+[[H8267\|שֶׁ֣קֶר]] [[H9009\|הַ֭]][[H2580\|חֵן]] [[H9002\|וְ]][[H1892\|הֶ֣בֶל]] [[H9009\|הַ]][[H3308\|יֹּ֑פִי]] [[H0802G\|אִשָּׁ֥ה]] [[H3373\|יִרְאַת]][[H9014\|־]] [[H3068G\|יְ֝הוָ֗ה]] [[H1931\|הִ֣יא]] [[H1984B\|תִתְהַלָּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEAUTY|BEAUTY]] • [[topic ECONOMICS|ECONOMICS]] • [[topic POETRY|POETRY]] • [[topic REVERENCE|REVERENCE]] • [[topic VANITY|VANITY]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.29|<< Proverbs 31:29]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.31|Proverbs 31:31 >>]]</td></tr></table>
 

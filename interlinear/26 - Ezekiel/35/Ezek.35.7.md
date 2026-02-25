@@ -1,8 +1,59 @@
+---
+title: Ezekiel 35:7
+type: Verse
+kjv: "Thus will I make mount Seir most desolate, and cut off from it him that passeth out and him that returneth."
+bsb: "I will make Mount Seir a desolate waste and will cut off from it those who come and go."
+hebrew: "וְנָֽתַתִּי֙ אֶת־ הַ֣ר שֵׂעִ֔יר לְשִֽׁמְמָ֖ה וּשְׁמָמָ֑ה וְהִכְרַתִּ֥י מִמֶּ֖נּוּ עֹבֵ֥ר וָשָֽׁב׃"
+pericope: "[[Ezek.35.1 A Prophecy against Mount Seir|A Prophecy against Mount Seir]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 35
+book/chapter: "[[Ezek.35|Ezekiel 35]]"
+chronological_order: 826
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2022G]]"
+- "[[H8165G]]"
+- "[[H9005]]"
+- "[[H8077B]]"
+- "[[H9002]]"
+- "[[H8077A]]"
+- "[[H3772I]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H5674A]]"
+- "[[H7725G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 35:7**<big><big>[[Ezek.35.1 A Prophecy against Mount Seir|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus will I make mount Seir most desolate, and cut off from it him that passeth out and him that returneth.
 <small><sub>**BSB:**</sub></small>
 I will make Mount Seir a desolate waste and will cut off from it those who come and go.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414I\|נָֽתַתִּי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H2022G\|הַ֣ר]] [[H8165G\|שֵׂעִ֔יר]] [[H9005\|לְ]][[H8077B\|שִֽׁמְמָ֖ה]] [[H9002\|וּ]][[H8077A\|שְׁמָמָ֑ה]] [[H9001\|וְ]][[H3772I\|הִכְרַתִּ֥י]] [[H4480A\|מִמֶּ֖]][[H9033\|נּוּ]] [[H5674A\|עֹבֵ֥ר]] [[H9002\|וָ]][[H7725G\|שָֽׁב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.35.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.35.6|<< Ezekiel 35:6]]</td><td align="center" style="border:none;">[[Ezek.35|Ezekiel 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.35.8|Ezekiel 35:8 >>]]</td></tr></table>
 

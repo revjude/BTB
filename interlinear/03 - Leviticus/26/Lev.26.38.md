@@ -1,8 +1,65 @@
+---
+title: Leviticus 26:38
+type: Verse
+kjv: "And ye shall perish among the heathen, and the land of your enemies shall eat you up."
+bsb: "You will perish among the nations, and the land of your enemies will consume you."
+hebrew: "וַאֲבַדְתֶּ֖ם בַּגּוֹיִ֑ם וְאָכְלָ֣ה אֶתְכֶ֔ם אֶ֖רֶץ אֹיְבֵיכֶֽם׃"
+pericope: "[[Lev.26.14 Punishments for Disobedience|Punishments for Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0006]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H0398]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H0776G]]"
+- "[[H0341]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 26:38**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall perish among the heathen, and the land of your enemies shall eat you up.
 <small><sub>**BSB:**</sub></small>
 You will perish among the nations, and the land of your enemies will consume you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0006\|אֲבַדְתֶּ֖ם]] [[H9003\|בַּ]][[H1471A\|גּוֹיִ֑ם]] [[H9001\|וְ]][[H0398\|אָכְלָ֣ה]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H0776G\|אֶ֖רֶץ]] [[H0341\|אֹיְבֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic COVENANT|COVENANT]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REWARD|REWARD]] • [[topic SIN|SIN]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.37|<< Leviticus 26:37]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.39|Leviticus 26:39 >>]]</td></tr></table>
 

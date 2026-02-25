@@ -1,8 +1,56 @@
+---
+title: Psalm 128:4
+type: Verse
+kjv: "Behold, that thus shall the man be blessed that feareth the LORD."
+bsb: "In this way indeed shall blessing come to the man who fears the LORD."
+hebrew: "הִנֵּ֣ה כִי־ כֵ֭ן יְבֹ֥רַךְ גָּ֗בֶר יְרֵ֣א יְהוָֽה׃"
+pericope: "[[Ps.128.1 The Blessed Fear of the LORD|The Blessed Fear of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 128
+book/chapter: "[[Ps.128|Psalm 128]]"
+chronological_order: 889
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H2009]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H1288]]"
+- "[[H1397]]"
+- "[[H3373]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 128:4**<big><big>[[Ps.128.1 The Blessed Fear of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, that thus shall the man be blessed that feareth the LORD.
 <small><sub>**BSB:**</sub></small>
 In this way indeed shall blessing come to the man who fears the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֣ה]] [[H3588A\|כִי]][[H9014\|־]] [[H3651C\|כֵ֭ן]] [[H1288\|יְבֹ֥רַךְ]] [[H1397\|גָּ֗בֶר]] [[H3373\|יְרֵ֣א]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic GOD|GOD]] • [[topic REVERENCE|REVERENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.128.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.128.3|<< Psalms 128:3]]</td><td align="center" style="border:none;">[[Ps.128|Psalms 128]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.128.5|Psalms 128:5 >>]]</td></tr></table>
 

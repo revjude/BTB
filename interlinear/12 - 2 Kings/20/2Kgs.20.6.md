@@ -1,8 +1,74 @@
+---
+title: 2 Kings 20:6
+type: Verse
+kjv: "And I will add unto thy days fifteen years; and I will deliver thee and this city out of the hand of the king of Assyria; and I will defend this city for mine own sake, and for my servant David’s sake."
+bsb: "I will add fifteen years to your life. And I will deliver you and this city from the hand of the king of Assyria. I will defend this city for My sake and for the sake of My servant David.’”"
+hebrew: "וְהֹסַפְתִּ֣י עַל־ יָמֶ֗יךָ חֲמֵ֤שׁ עֶשְׂרֵה֙ שָׁנָ֔ה וּמִכַּ֤ף מֶֽלֶךְ־ אַשּׁוּר֙ אַצִּ֣ילְךָ֔ וְאֵ֖ת הָעִ֣יר הַזֹּ֑את וְגַנּוֹתִי֙ עַל־ הָעִ֣יר הַזֹּ֔את לְמַֽעֲנִ֔י וּלְמַ֖עַן דָּוִ֥ד עַבְדִּֽי׃"
+pericope: "[[2Kgs.20.1 Hezekiah’s Illness and Recovery|Hezekiah’s Illness and Recovery]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 20
+book/chapter: "[[2Kgs.20|2 Kings 20]]"
+chronological_order: 658
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3254H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H9021]]"
+- "[[H2568]]"
+- "[[H6240]]"
+- "[[H8141]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H3709G]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H5337]]"
+- "[[H9031]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H1598]]"
+- "[[H4616]]"
+- "[[H9030]]"
+- "[[H1732]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 20:6**<big><big>[[2Kgs.20.1 Hezekiah’s Illness and Recovery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will add unto thy days fifteen years; and I will deliver thee and this city out of the hand of the king of Assyria; and I will defend this city for mine own sake, and for my servant David’s sake.
 <small><sub>**BSB:**</sub></small>
 I will add fifteen years to your life. And I will deliver you and this city from the hand of the king of Assyria. I will defend this city for My sake and for the sake of My servant David.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3254H\|הֹסַפְתִּ֣י]] [[H5921A\|עַל]][[H9014\|־]] [[H3117G\|יָמֶ֗י]][[H9021\|ךָ]] [[H2568\|חֲמֵ֤שׁ]] [[H6240\|עֶשְׂרֵה֙]] [[H8141\|שָׁנָ֔ה]] [[H9002\|וּ]][[H9006\|מִ]][[H3709G\|כַּ֤ף]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0804G\|אַשּׁוּר֙]] [[H5337\|אַצִּ֣ילְ]][[H9031\|ךָ֔]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H9001\|וְ]][[H1598\|גַנּוֹתִי֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H4616\|לְמַֽעֲנִ֔]][[H9030\|י]] [[H9002\|וּ]][[H4616\|לְמַ֖עַן]] [[H1732\|דָּוִ֥ד]] [[H5650\|עַבְדִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic DISEASE|DISEASE]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic ISAIAH|ISAIAH]] • [[topic PRAYER|PRAYER]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.20.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.20.5|<< 2 Kings 20:5]]</td><td align="center" style="border:none;">[[2Kgs.20|2 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.20.7|2 Kings 20:7 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Ezekiel 27:30
+type: Verse
+kjv: "And shall cause their voice to be heard against thee, and shall cry bitterly, and shall cast up dust upon their heads, they shall wallow themselves in the ashes:"
+bsb: "They will raise their voices for you and cry out bitterly. They will throw dust on their heads and roll in ashes."
+hebrew: "וְהִשְׁמִ֤יעוּ עָלַ֙יִךְ֙ בְּקוֹלָ֔ם וְיִזְעֲק֖וּ מָרָ֑ה וְיַעֲל֤וּ עָֽפָר֙ עַל־ רָ֣אשֵׁיהֶ֔ם בָּאֵ֖פֶר יִתְפַּלָּֽשׁוּ׃"
+pericope: "[[Ezek.27.1 A Lament for Tyre|A Lament for Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 27
+book/chapter: "[[Ezek.27|Ezekiel 27]]"
+chronological_order: 818
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic MERCHANT|MERCHANT]]"
+- "[[topic MOURNING|MOURNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085I]]"
+- "[[H5921A]]"
+- "[[H9032]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H2199]]"
+- "[[H4751]]"
+- "[[H5927H]]"
+- "[[H6083]]"
+- "[[H9014]]"
+- "[[H7218A]]"
+- "[[H0665]]"
+- "[[H6428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 27:30**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And shall cause their voice to be heard against thee, and shall cry bitterly, and shall cast up dust upon their heads, they shall wallow themselves in the ashes:
 <small><sub>**BSB:**</sub></small>
 They will raise their voices for you and cry out bitterly. They will throw dust on their heads and roll in ashes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8085I\|הִשְׁמִ֤יעוּ]] [[H5921A\|עָלַ֙יִ]][[H9032\|ךְ֙]] [[H9003\|בְּ]][[H6963A\|קוֹלָ֔]][[H9028\|ם]] [[H9002\|וְ]][[H2199\|יִזְעֲק֖וּ]] [[H4751\|מָרָ֑ה]] [[H9002\|וְ]][[H5927H\|יַעֲל֤וּ]] [[H6083\|עָֽפָר֙]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רָ֣אשֵׁי]][[H9028\|הֶ֔ם]] [[H9003\|בָּ]][[H0665\|אֵ֖פֶר]] [[H6428\|יִתְפַּלָּֽשׁוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MERCHANT|MERCHANT]] • [[topic MOURNING|MOURNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.29|<< Ezekiel 27:29]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.31|Ezekiel 27:31 >>]]</td></tr></table>
 

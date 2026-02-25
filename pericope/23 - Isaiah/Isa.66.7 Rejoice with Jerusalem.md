@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Rejoice with Jerusalem
+type: Pericope
 pericope: "[[Isa.66.7 Rejoice with Jerusalem|Rejoice with Jerusalem]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 66
 book/chapter: "[[Isa.66|Isaiah 66]]"
-genre:
+chronological_order: 705
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 8
 verses:
 - "[[Isa.66.7]]"
 - "[[Isa.66.8]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Isa.66.14]]"
 ---
 
-[[Isa.66|Isaiah 66:7 - Isaiah 66:14]]
+<small>[[Isa.66|Isaiah 66:7-14]]</small>
 *Rejoice with Jerusalem*
 
 [[Isa.66.7|7]] Before she travailed, she brought forth; before her pain came, she was delivered of a man child.

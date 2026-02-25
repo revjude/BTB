@@ -1,8 +1,73 @@
+---
+title: Jeremiah 21:1
+type: Verse
+kjv: "The word which came unto Jeremiah from the LORD, when king Zedekiah sent unto him Pashur the son of Melchiah, and Zephaniah the son of Maaseiah the priest, saying,"
+bsb: "This is the word that came to Jeremiah from the LORD when King Zedekiah sent to him Pashhur son of Malchijah and the priest Zephaniah son of Maaseiah. They said,"
+hebrew: "הַדָּבָ֛ר אֲשֶׁר־ הָיָ֥ה אֶֽל־ יִרְמְיָ֖הוּ מֵאֵ֣ת יְהוָ֑ה בִּשְׁלֹ֨חַ אֵלָ֜יו הַמֶּ֣לֶךְ צִדְקִיָּ֗הוּ אֶת־ פַּשְׁחוּר֙ בֶּן־ מַלְכִּיָּ֔ה וְאֶת־ צְפַנְיָ֧ה בֶן־ מַעֲשֵׂיָ֛ה הַכֹּהֵ֖ן לֵאמֹֽר׃"
+pericope: "[[Jer.21.1 Jerusalem Will Fall to Babylon|Jerusalem Will Fall to Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 21
+book/chapter: "[[Jer.21|Jeremiah 21]]"
+chronological_order: 744
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic MAASEIAH|MAASEIAH]]"
+- "[[topic MALCHIAH|MALCHIAH]]"
+- "[[topic PASHUR|PASHUR]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+- "[[topic ZEPHANIAH|ZEPHANIAH]]"
+strongs:
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H0413]]"
+- "[[H3414L]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H7971G]]"
+- "[[H9033]]"
+- "[[H4428G]]"
+- "[[H6667H]]"
+- "[[H0853]]"
+- "[[H6583J]]"
+- "[[H1121A]]"
+- "[[H4441S]]"
+- "[[H9002]]"
+- "[[H6846G]]"
+- "[[H4641X]]"
+- "[[H3548]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 21:1**<big><big>[[Jer.21.1 Jerusalem Will Fall to Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The word which came unto Jeremiah from the LORD, when king Zedekiah sent unto him Pashur the son of Melchiah, and Zephaniah the son of Maaseiah the priest, saying,
 <small><sub>**BSB:**</sub></small>
 This is the word that came to Jeremiah from the LORD when King Zedekiah sent to him Pashhur son of Malchijah and the priest Zephaniah son of Maaseiah. They said,
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H1697G\|דָּבָ֛ר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1961\|הָיָ֥ה]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֖הוּ]] [[H9006\|מֵ]][[H0854\|אֵ֣ת]] [[H3068G\|יְהוָ֑ה]] [[H9003\|בִּ]][[H7971G\|שְׁלֹ֨חַ]] [[H0413\|אֵלָ֜י]][[H9033\|ו]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H6667H\|צִדְקִיָּ֗הוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H6583J\|פַּשְׁחוּר֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H4441S\|מַלְכִּיָּ֔ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6846G\|צְפַנְיָ֧ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H4641X\|מַעֲשֵׂיָ֛ה]] [[H9009\|הַ]][[H3548\|כֹּהֵ֖ן]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEREMIAH|JEREMIAH]] • [[topic MAASEIAH|MAASEIAH]] • [[topic MALCHIAH|MALCHIAH]] • [[topic PASHUR|PASHUR]] • [[topic ZEDEKIAH|ZEDEKIAH]] • [[topic ZEPHANIAH|ZEPHANIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.21.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.20.18|<< Jeremiah 20:18]]</td><td align="center" style="border:none;">[[Jer.21|Jeremiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.21.2|Jeremiah 21:2 >>]]</td></tr></table>
 

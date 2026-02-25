@@ -1,10 +1,63 @@
+---
+title: Acts 16:13
+type: Verse
+kjv: "And on the sabbath we went out of the city by a river side, where prayer was wont to be made; and we sat down, and spake unto the women which resorted thither."
+bsb: "On the Sabbath we went outside the city gate along the river, where it was customary to find a place of prayer. After sitting down, we spoke to the women who had gathered there."
+greek: "τῇ τε ἡμέρᾳ τῶν σαββάτων ἐξήλθομεν ἔξω τῆς πύλης παρὰ ποταμὸν οὗ ἐνομίζομεν προσευχὴν εἶναι, καὶ καθίσαντες ἐλαλοῦμεν ταῖς συνελθούσαις γυναιξίν.¶"
+pericope: "[[Acts.16.11 Lydia’s Conversion in Philippi|Lydia’s Conversion in Philippi]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic LUKE|LUKE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G5037]]"
+- "[[G2250]]"
+- "[[G4521]]"
+- "[[G1831]]"
+- "[[G1854]]"
+- "[[G4439]]"
+- "[[G3844]]"
+- "[[G4215]]"
+- "[[G3757]]"
+- "[[G3543]]"
+- "[[G4335]]"
+- "[[G1511]]"
+- "[[G2532]]"
+- "[[G2523]]"
+- "[[G2980]]"
+- "[[G4905]]"
+- "[[G1135G]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Acts 16:13**<big><big>[[Acts.16.11 Lydia’s Conversion in Philippi|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And on the sabbath we went out of the city by a river side, where prayer was wont to be made; and we sat down, and spake unto the women which resorted [thither].
 <small><sub>**BSB:**</sub></small>
 On the Sabbath we went outside the city gate along the river, where it was customary to find a place of prayer. After sitting down, we spoke to the women who had gathered there.
-<small><sub>**Literal:**</sub></small>
-On the then day of the Sabbaths we went forth outside the gate by a river where we were accustomed prayer to have, And having sat down we were speaking to those having gathered women.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.12|<< Acts 16:12]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.14|Acts 16:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τῇ]]  [[G5037\|τε]]  [[G2250\|ἡμέρᾳ]]  [[G3588\|τῶν]]  [[G4521\|σαββάτων]]  [[G1831\|ἐξήλθομεν]]  [[G1854\|ἔξω]]  [[G3588\|τῆς]]  [[G4439\|πύλης]]  [[G3844\|παρὰ]]  [[G4215\|ποταμὸν]]  [[G3757\|οὗ]]  [[G3543\|ἐνομίζομεν]]  [[G4335\|προσευχὴν]]  [[G1511\|εἶναι,]]  [[G2532\|καὶ]]  [[G2523\|καθίσαντες]]  [[G2980\|ἐλαλοῦμεν]]  [[G3588\|ταῖς]]  [[G4905\|συνελθούσαις]]  [[G1135G\|γυναιξίν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LUKE|LUKE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PHILIPPI|PHILIPPI]] • [[topic SABBATH|SABBATH]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.12|<< Acts 16:12]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.14|Acts 16:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

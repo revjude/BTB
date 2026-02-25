@@ -1,8 +1,52 @@
+---
+title: Amos 5:1
+type: Verse
+kjv: "Hear ye this word which I take up against you, even a lamentation, O house of Israel."
+bsb: "Hear this word, O house of Israel, this lamentation I take up against you:"
+hebrew: "שִׁמְע֞וּ אֶת־ הַדָּבָ֣ר הַזֶּ֗ה אֲשֶׁ֨ר אָנֹכִ֜י נֹשֵׂ֧א עֲלֵיכֶ֛ם קִינָ֖ה בֵּ֥ית יִשְׂרָאֵֽל׃"
+pericope: "[[Amos.5.1 A Lamentation against Israel|A Lamentation against Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 5
+book/chapter: "[[Amos.5|Amos 5]]"
+chronological_order: 602
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+strongs:
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H2088]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H5375N]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H7015]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 5:1**<big><big>[[Amos.5.1 A Lamentation against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear ye this word which I take up against you, [even] a lamentation, O house of Israel.
 <small><sub>**BSB:**</sub></small>
 Hear this word, O house of Israel, this lamentation I take up against you:
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שִׁמְע֞וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דָּבָ֣ר]] [[H9009\|הַ]][[H2088\|זֶּ֗ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H0595\|אָנֹכִ֜י]] [[H5375N\|נֹשֵׂ֧א]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֛ם]] [[H7015\|קִינָ֖ה]] [[H1004M\|בֵּ֥ית]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.4.13|<< Amos 4:13]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.2|Amos 5:2 >>]]</td></tr></table>
 

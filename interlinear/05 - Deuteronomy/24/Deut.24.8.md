@@ -1,8 +1,70 @@
+---
+title: Deuteronomy 24:8
+type: Verse
+kjv: "Take heed in the plague of leprosy, that thou observe diligently, and do according to all that the priests the Levites shall teach you: as I commanded them, so ye shall observe to do."
+bsb: "In cases of infectious skin diseases, be careful to diligently follow everything the Levitical priests instruct you. Be careful to do as I have commanded them."
+hebrew: "הִשָּׁ֧מֶר בְּנֶֽגַע־ הַצָּרַ֛עַת לִשְׁמֹ֥ר מְאֹ֖ד וְלַעֲשׂ֑וֹת כְּכֹל֩ אֲשֶׁר־ יוֹר֨וּ אֶתְכֶ֜ם הַכֹּהֲנִ֧ים הַלְוִיִּ֛ם כַּאֲשֶׁ֥ר צִוִּיתִ֖ם תִּשְׁמְר֥וּ לַעֲשֽׂוֹת׃ ס"
+pericope: "[[Deut.24.6 Additional Laws|Additional Laws]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 24
+book/chapter: "[[Deut.24|Deuteronomy 24]]"
+chronological_order: 220
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic LEPROSY|LEPROSY]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H8104J]]"
+- "[[H9003]]"
+- "[[H5061]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6883]]"
+- "[[H9005]]"
+- "[[H3966]]"
+- "[[H9002]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H3384B]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H3548]]"
+- "[[H3881]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H9038]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Deuteronomy 24:8**<big><big>[[Deut.24.6 Additional Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take heed in the plague of leprosy, that thou observe diligently, and do according to all that the priests the Levites shall teach you: as I commanded them, [so] ye shall observe to do.
 <small><sub>**BSB:**</sub></small>
 In cases of infectious skin diseases, be careful to diligently follow everything the Levitical priests instruct you. Be careful to do as I have commanded them.
+<small><sub>**Hebrew:**</sub></small>
+[[H8104J\|הִשָּׁ֧מֶר]] [[H9003\|בְּ]][[H5061\|נֶֽגַע]][[H9014\|־]] [[H9009\|הַ]][[H6883\|צָּרַ֛עַת]] [[H9005\|לִ]][[H8104J\|שְׁמֹ֥ר]] [[H3966\|מְאֹ֖ד]] [[H9002\|וְ]][[H9005\|לַ]][[H6213A\|עֲשׂ֑וֹת]] [[H9004\|כְּ]][[H3605\|כֹל֩]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3384B\|יוֹר֨וּ]] [[H0853\|אֶתְ]][[H9036\|כֶ֜ם]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֧ים]] [[H9009\|הַ]][[H3881\|לְוִיִּ֛ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H6680\|צִוִּיתִ֖]][[H9038\|ם]] [[H8104J\|תִּשְׁמְר֥וּ]] [[H9005\|לַ]][[H6213A\|עֲשֽׂוֹת]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEPROSY|LEPROSY]] • [[topic PRIEST|PRIEST]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.24.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24.7|<< Deuteronomy 24:7]]</td><td align="center" style="border:none;">[[Deut.24|Deuteronomy 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24.9|Deuteronomy 24:9 >>]]</td></tr></table>
 
@@ -23,7 +85,7 @@ In cases of infectious skin diseases, be careful to diligently follow everything
 | just as  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֥ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I commanded them  |**<big>&#8207;[[H6680\|צִוִּיתִ֖]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| tzi.vi.Ti<small><sup>[[HVpp1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will take care  |**<big>&#8207;[[H8104J\|תִּשְׁמְר֥וּ]]&#8207; </big>**| tish.me.Ru<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to do  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6213A\|עֲשֽׂוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Sot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to do  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6213A\|עֲשֽׂוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Sot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24.7|<< Deuteronomy 24:7]]</td><td align="center" style="border:none;">[[Deut.24|Deuteronomy 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24.9|Deuteronomy 24:9 >>]]</td></tr></table>
 
 

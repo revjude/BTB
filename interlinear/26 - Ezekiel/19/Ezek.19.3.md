@@ -1,8 +1,60 @@
+---
+title: Ezekiel 19:3
+type: Verse
+kjv: "And she brought up one of her whelps: it became a young lion, and it learned to catch the prey; it devoured men."
+bsb: "She brought up one of her cubs, and he became a young lion. After learning to tear his prey, he devoured men."
+hebrew: "וַתַּ֛עַל אֶחָ֥ד מִגֻּרֶ֖יהָ כְּפִ֣יר הָיָ֑ה וַיִּלְמַ֥ד לִטְרָף־ טֶ֖רֶף אָדָ֥ם אָכָֽל׃"
+pericope: "[[Ezek.19.1 A Lament for the Princes of Israel|A Lament for the Princes of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 19
+book/chapter: "[[Ezek.19|Ezekiel 19]]"
+chronological_order: 810
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic LION|LION]]"
+- "[[topic PARABLES|PARABLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927H]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H1482]]"
+- "[[H9024]]"
+- "[[H3715A]]"
+- "[[H1961]]"
+- "[[H3925H]]"
+- "[[H9005]]"
+- "[[H2963]]"
+- "[[H9014]]"
+- "[[H2964]]"
+- "[[H0120G]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 19:3**<big><big>[[Ezek.19.1 A Lament for the Princes of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she brought up one of her whelps: it became a young lion, and it learned to catch the prey; it devoured men.
 <small><sub>**BSB:**</sub></small>
 She brought up one of her cubs, and he became a young lion. After learning to tear his prey, he devoured men.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927H\|תַּ֛עַל]] [[H0259\|אֶחָ֥ד]] [[H9006\|מִ]][[H1482\|גֻּרֶ֖י]][[H9024\|הָ]] [[H3715A\|כְּפִ֣יר]] [[H1961\|הָיָ֑ה]] [[H9001\|וַ]][[H3925H\|יִּלְמַ֥ד]] [[H9005\|לִ]][[H2963\|טְרָף]][[H9014\|־]] [[H2964\|טֶ֖רֶף]] [[H0120G\|אָדָ֥ם]] [[H0398\|אָכָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LION|LION]] • [[topic PARABLES|PARABLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.19.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.19.2|<< Ezekiel 19:2]]</td><td align="center" style="border:none;">[[Ezek.19|Ezekiel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.19.4|Ezekiel 19:4 >>]]</td></tr></table>
 

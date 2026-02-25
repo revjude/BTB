@@ -1,8 +1,55 @@
+---
+title: Psalm 7:15
+type: Verse
+kjv: "He made a pit, and digged it, and is fallen into the ditch which he made."
+bsb: "He has dug a hole and hollowed it out; he has fallen into a pit of his own making."
+hebrew: "בּ֣וֹר כָּ֭רָֽה וַֽיַּחְפְּרֵ֑הוּ וַ֝יִּפֹּ֗ל בְּשַׁ֣חַת יִפְעָֽל׃"
+pericope: "[[Ps.7.1 I Take Refuge in You|I Take Refuge in You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 7
+book/chapter: "[[Ps.7|Psalm 7]]"
+chronological_order: 311
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic MALICE|MALICE]]"
+- "[[topic PIT|PIT]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0953A]]"
+- "[[H3738B]]"
+- "[[H9001]]"
+- "[[H2658]]"
+- "[[H9033]]"
+- "[[H5307G]]"
+- "[[H9003]]"
+- "[[H7845H]]"
+- "[[H6466]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 7:15**<big><big>[[Ps.7.1 I Take Refuge in You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He made a pit, and digged it, and is fallen into the ditch [which] he made.
 <small><sub>**BSB:**</sub></small>
 He has dug a hole and hollowed it out; he has fallen into a pit of his own making.
+<small><sub>**Hebrew:**</sub></small>
+[[H0953A\|בּ֣וֹר]] [[H3738B\|כָּ֭רָֽה]] [[H9001\|וַֽ]][[H2658\|יַּחְפְּרֵ֑]][[H9033\|הוּ]] [[H9001\|וַ֝]][[H5307G\|יִּפֹּ֗ל]] [[H9003\|בְּ]][[H7845H\|שַׁ֣חַת]] [[H6466\|יִפְעָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MALICE|MALICE]] • [[topic PIT|PIT]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.7.14|<< Psalms 7:14]]</td><td align="center" style="border:none;">[[Ps.7|Psalms 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.7.16|Psalms 7:16 >>]]</td></tr></table>
 

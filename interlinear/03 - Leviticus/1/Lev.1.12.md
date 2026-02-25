@@ -1,8 +1,66 @@
+---
+title: Leviticus 1:12
+type: Verse
+kjv: "And he shall cut it into his pieces, with his head and his fat: and the priest shall lay them in order on the wood that is on the fire which is upon the altar:"
+bsb: "He is to cut the animal into pieces, and the priest shall arrange them, including the head and fat, atop the burning wood that is on the altar."
+hebrew: "וְנִתַּ֤ח אֹתוֹ֙ לִנְתָחָ֔יו וְאֶת־ רֹאשׁ֖וֹ וְאֶת־ פִּדְר֑וֹ וְעָרַ֤ךְ הַכֹּהֵן֙ אֹתָ֔ם עַל־ הָֽעֵצִים֙ אֲשֶׁ֣ר עַל־ הָאֵ֔שׁ אֲשֶׁ֖ר עַל־ הַמִּזְבֵּֽחַ׃"
+pericope: "[[Lev.1.1 Laws for Burnt Offerings|Laws for Burnt Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 1
+book/chapter: "[[Lev.1|Leviticus 1]]"
+chronological_order: 133
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H5408]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H5409]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H7218A]]"
+- "[[H6309]]"
+- "[[H6186A]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9038]]"
+- "[[H5921A]]"
+- "[[H6086G]]"
+- "[[H0834A]]"
+- "[[H0784]]"
+- "[[H4196]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 1:12**<big><big>[[Lev.1.1 Laws for Burnt Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall cut it into his pieces, with his head and his fat: and the priest shall lay them in order on the wood that [is] on the fire which [is] upon the altar:
 <small><sub>**BSB:**</sub></small>
 He is to cut the animal into pieces, and the priest shall arrange them, including the head and fat, atop the burning wood that is on the altar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5408\|נִתַּ֤ח]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H9005\|לִ]][[H5409\|נְתָחָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7218A\|רֹאשׁ֖]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6309\|פִּדְר֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H6186A\|עָרַ֤ךְ]] [[H9009\|הַ]][[H3548\|כֹּהֵן֙]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָֽ]][[H6086G\|עֵצִים֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0784\|אֵ֔שׁ]] [[H0834A\|אֲשֶׁ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.1.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.1.11|<< Leviticus 1:11]]</td><td align="center" style="border:none;">[[Lev.1|Leviticus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.1.13|Leviticus 1:13 >>]]</td></tr></table>
 

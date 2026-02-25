@@ -1,8 +1,64 @@
+---
+title: Ezekiel 7:16
+type: Verse
+kjv: "But they that escape of them shall escape, and shall be on the mountains like doves of the valleys, all of them mourning, every one for his iniquity."
+bsb: "The survivors will escape and live in the mountains, moaning like doves of the valley, each for his own iniquity."
+hebrew: "וּפָֽלְטוּ֙ פְּלִ֣יטֵיהֶ֔ם וְהָי֣וּ אֶל־ הֶהָרִ֗ים כְּיוֹנֵ֧י הַגֵּאָי֛וֹת כֻּלָּ֖ם הֹמ֑וֹת אִ֖ישׁ בַּעֲוֹנֽוֹ׃"
+pericope: "[[Ezek.7.14 The Desolation of Israel|The Desolation of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 7
+book/chapter: "[[Ezek.7|Ezekiel 7]]"
+chronological_order: 798
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic REMORSE|REMORSE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6403]]"
+- "[[H6412A]]"
+- "[[H9028]]"
+- "[[H1961]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H9004]]"
+- "[[H3123]]"
+- "[[H1516R]]"
+- "[[H3605]]"
+- "[[H1993]]"
+- "[[H0376I]]"
+- "[[H9003]]"
+- "[[H5771G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 7:16**<big><big>[[Ezek.7.14 The Desolation of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But they that escape of them shall escape, and shall be on the mountains like doves of the valleys, all of them mourning, every one for his iniquity.
 <small><sub>**BSB:**</sub></small>
 The survivors will escape and live in the mountains, moaning like doves of the valley, each for his own iniquity.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H6403\|פָֽלְטוּ֙]] [[H6412A\|פְּלִ֣יטֵי]][[H9028\|הֶ֔ם]] [[H9001\|וְ]][[H1961\|הָי֣וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הֶ]][[H2022G\|הָרִ֗ים]] [[H9004\|כְּ]][[H3123\|יוֹנֵ֧י]] [[H9009\|הַ]][[H1516R\|גֵּאָי֛וֹת]] [[H3605\|כֻּלָּ֖]][[H9028\|ם]] [[H1993\|הֹמ֑וֹת]] [[H0376I\|אִ֖ישׁ]] [[H9003\|בַּ]][[H5771G\|עֲוֹנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVICTION|CONVICTION]] • [[topic REMORSE|REMORSE]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.15|<< Ezekiel 7:15]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.17|Ezekiel 7:17 >>]]</td></tr></table>
 

@@ -1,10 +1,69 @@
+---
+title: Matthew 12:11
+type: Verse
+kjv: "And he said unto them, What man shall there be among you, that shall have one sheep, and if it fall into a pit on the sabbath day, will he not lay hold on it, and lift it out?"
+bsb: "He replied, “If one of you has a sheep and it falls into a pit on the Sabbath, will he not take hold of it and lift it out?"
+jesus_said: "What man shall there be among you, that shall have one sheep, and if it fall into a pit on the sabbath day, will he not lay hold on it, and lift it out?"
+greek: "Ὁ δὲ εἶπεν αὐτοῖς· τίς ἔσται ἐξ ὑμῶν ἄνθρωπος ὃς ἕξει πρόβατον ἓν, καὶ ἐὰν ἐμπέσῃ τοῦτο τοῖς σάββασιν εἰς βόθυνον, οὐχὶ κρατήσει αὐτὸ καὶ ἐγερεῖ;"
+pericope: "[[Matt.12.9 Jesus Heals on the Sabbath|Jesus Heals on the Sabbath]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic ATROPHY|ATROPHY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G1537]]"
+- "[[G4771]]"
+- "[[G0444]]"
+- "[[G3739]]"
+- "[[G2192]]"
+- "[[G4263]]"
+- "[[G1520]]"
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G1706]]"
+- "[[G3778]]"
+- "[[G4521]]"
+- "[[G1519]]"
+- "[[G0999]]"
+- "[[G3780]]"
+- "[[G2902]]"
+- "[[G1453]]"
+texts:
+- NKO
+---
+
 **Matthew 12:11**<big><big>[[Matt.12.9 Jesus Heals on the Sabbath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, What man shall there be among you, that shall have one sheep, and if it fall into a pit on the sabbath day, will he not lay hold on it, and lift [it] out?
 <small><sub>**BSB:**</sub></small>
 He replied, “If one of you has a sheep and it falls into a pit on the Sabbath, will he not take hold of it and lift it out?
-<small><sub>**Literal:**</sub></small>
-He then said to them; Who will there be among you man who will have sheep one, and if shall fall it on the Sabbaths into a pit, surely he will take hold of it and will raise [it] up?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.10|<< Matthew 12:10]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.12|Matthew 12:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G5101\|τίς]]  [[G1510\|ἔσται]]  [[G1537\|ἐξ]]  [[G4771\|ὑμῶν]]  [[G0444\|ἄνθρωπος]]  [[G3739\|ὃς]]  [[G2192\|ἕξει]]  [[G4263\|πρόβατον]]  [[G1520\|ἓν,]]  [[G2532\|καὶ]]  [[G1437\|ἐὰν]]  [[G1706\|ἐμπέσῃ]]  [[G3778\|τοῦτο]]  [[G3588\|τοῖς]]  [[G4521\|σάββασιν]]  [[G1519\|εἰς]]  [[G0999\|βόθυνον,]]  [[G3780\|οὐχὶ]]  [[G2902\|κρατήσει]]  [[G0846\|αὐτὸ]]  [[G2532\|καὶ]]  [[G1453\|ἐγερεῖ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic ATROPHY|ATROPHY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]] • [[topic SYNAGOGUE|SYNAGOGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.10|<< Matthew 12:10]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.12|Matthew 12:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

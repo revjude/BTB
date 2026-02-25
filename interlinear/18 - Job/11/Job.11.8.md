@@ -1,8 +1,53 @@
+---
+title: Job 11:8
+type: Verse
+kjv: "It is as high as heaven; what canst thou do? deeper than hell; what canst thou know?"
+bsb: "They are higher than the heavens—what can you do? They are deeper than Sheol—what can you know?"
+hebrew: "גָּבְהֵ֣י שָׁ֭מַיִם מַה־ תִּפְעָ֑ל עֲמֻקָּ֥ה מִ֝שְּׁא֗וֹל מַה־ תֵּדָֽע׃"
+pericope: "[[Job.11.1 Zophar Rebukes Job|Zophar Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 11
+book/chapter: "[[Job.11|Job 11]]"
+chronological_order: 22
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HELL|HELL]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+strongs:
+- "[[H1363]]"
+- "[[H8064]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H6466]]"
+- "[[H6013]]"
+- "[[H9006]]"
+- "[[H7585]]"
+- "[[H3045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 11:8**<big><big>[[Job.11.1 Zophar Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] as high as heaven; what canst thou do? deeper than hell; what canst thou know?
 <small><sub>**BSB:**</sub></small>
 They are higher than the heavens—what can you do? They are deeper than Sheol—what can you know?
+<small><sub>**Hebrew:**</sub></small>
+[[H1363\|גָּבְהֵ֣י]] [[H8064\|שָׁ֭מַיִם]] [[H4100\|מַה]][[H9014\|־]] [[H6466\|תִּפְעָ֑ל]] [[H6013\|עֲמֻקָּ֥ה]] [[H9006\|מִ֝]][[H7585\|שְּׁא֗וֹל]] [[H4100\|מַה]][[H9014\|־]] [[H3045\|תֵּדָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HELL|HELL]] • [[topic IGNORANCE|IGNORANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.7|<< Job 11:7]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.9|Job 11:9 >>]]</td></tr></table>
 

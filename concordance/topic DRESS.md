@@ -29,7 +29,7 @@
 
 → Not to be held overnight as a pledge for debt [[Exod.22.26|Ex 22:26]]
 
-→ Ceremonial purification of [[Lev.11.32|Le 11:32]]; [[Lev.13.47|13:47]]-[[Lev.13.59|59]]; [[Num.31.20|Nu 31:20]]
+→ Ceremonial purification of [[Lev.11.32|Le 11:32]]; [[Lev.13.47|13:47-59]]; [[Num.31.20|Nu 31:20]]
 
 → The ripping of
 

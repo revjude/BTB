@@ -1,6 +1,67 @@
+---
+title: LXX Genesis 50:20
+type: Verse
+lxx: "You planned concerning me for evil,  but God planned concerning me for good, that  it should be as it is today, that he might maintain many people."
+greek: "υμείς εβουλεύσασθε κατ΄ εμού εις πονηρά ο δε θεός εβουλεύσατο περί εμού εις αγαθά όπως αν γένηται ως σήμερον ίνα διατραφή λαός πολύς"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 50
+book/chapter: "[[Gen.50|Genesis 50]]"
+chronological_order: 92
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[G1473]]"
+- "[[G1011]]"
+- "[[G2596]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G4190]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2316]]"
+- "[[G1011]]"
+- "[[G4012]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G0018]]"
+- "[[G3704]]"
+- "[[G0302]]"
+- "[[G1096]]"
+- "[[G5613]]"
+- "[[G4594]]"
+- "[[G2443]]"
+- "[[G6894]]"
+- "[[G2992]]"
+- "[[G4183]]"
+---
+
 **LXX Genesis 50:20** 
 <small><sub>**LXX:**</sub></small>
 You planned concerning me for evil,  but God planned concerning me for good, that  it should be as \[it is\] today, that he might maintain many people. 
+<small><sub>**Greek:**</sub></small>
+[[G1473\|υμείς]] [[G1011\|εβουλεύσασθε]] [[G2596\|κατ΄]] [[G1473\|εμού]] [[G1519\|εις]] [[G4190\|πονηρά]] [[G3588\|ο]] [[G1161\|δε]] [[G2316\|θεός]] [[G1011\|εβουλεύσατο]] [[G4012\|περί]] [[G1473\|εμού]] [[G1519\|εις]] [[G0018\|αγαθά]] [[G3704\|όπως]] [[G0302\|αν]] [[G1096\|γένηται]] [[G5613\|ως]] [[G4594\|σήμερον]] [[G2443\|ίνα]] [[G6894\|διατραφή]] [[G2992\|λαός]] [[G4183\|πολύς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BROTHER|BROTHER]] • [[topic CONVICTION|CONVICTION]] • [[topic FAITH|FAITH]] • [[topic FAMILY|FAMILY]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic GOD|GOD]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.50.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.19|<< Genesis 50:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.21|Genesis 50:21 >>]]</td></tr></table>
 
@@ -29,6 +90,6 @@ You planned concerning me for evil,  but God planned concerning me for good, tha
 | he might maintain | **<big>[[G6894\|διατραφή]]</big>** |
 | people | **<big>[[G2992\|λαός]]</big>** |
 | many | **<big>[[G4183\|πολύς]]</big>** |
-[[Gen.50.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.19|<< Genesis 50:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.21|Genesis 50:21 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.19|<< Genesis 50:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.21|Genesis 50:21 >>]]</td></tr></table>
 
 

@@ -1,8 +1,60 @@
+---
+title: Leviticus 18:13
+type: Verse
+kjv: "Thou shalt not uncover the nakedness of thy mother’s sister: for she is thy mother’s near kinswoman."
+bsb: "You must not have sexual relations with your mother’s sister, for she is your mother’s close relative."
+hebrew: "עֶרְוַ֥ת אֲחֽוֹת־ אִמְּךָ֖ לֹ֣א תְגַלֵּ֑ה כִּֽי־ שְׁאֵ֥ר אִמְּךָ֖ הִֽוא׃ ס"
+pericope: "[[Lev.18.1 Unlawful Sexual Relations|Unlawful Sexual Relations]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 18
+book/chapter: "[[Lev.18|Leviticus 18]]"
+chronological_order: 150
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ABOMINATION|ABOMINATION]]"
+- "[[topic COPULATION|COPULATION]]"
+- "[[topic INCEST|INCEST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+strongs:
+- "[[H6172]]"
+- "[[H0269]]"
+- "[[H9014]]"
+- "[[H0517]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H1540I]]"
+- "[[H3588A]]"
+- "[[H7607]]"
+- "[[H1931]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Leviticus 18:13**<big><big>[[Lev.18.1 Unlawful Sexual Relations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not uncover the nakedness of thy mother’s sister: for she [is] thy mother’s near kinswoman.
 <small><sub>**BSB:**</sub></small>
 You must not have sexual relations with your mother’s sister, for she is your mother’s close relative.
+<small><sub>**Hebrew:**</sub></small>
+[[H6172\|עֶרְוַ֥ת]] [[H0269\|אֲחֽוֹת]][[H9014\|־]] [[H0517\|אִמְּ]][[H9021\|ךָ֖]] [[H3808\|לֹ֣א]] [[H1540I\|תְגַלֵּ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7607\|שְׁאֵ֥ר]] [[H0517\|אִמְּ]][[H9021\|ךָ֖]] [[H1931\|הִֽוא]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABOMINATION|ABOMINATION]] • [[topic COPULATION|COPULATION]] • [[topic INCEST|INCEST]] • [[topic MARRIAGE|MARRIAGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.18.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18.12|<< Leviticus 18:12]]</td><td align="center" style="border:none;">[[Lev.18|Leviticus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.18.14|Leviticus 18:14 >>]]</td></tr></table>
 
@@ -16,7 +68,7 @@ You must not have sexual relations with your mother’s sister, for she is your 
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] a relative of  |**<big>&#8207;[[H7607\|שְׁאֵ֥ר]]&#8207; </big>**| she.'Er<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mother your  |**<big>&#8207;[[H0517\|אִמְּ]]&#8207;&#8207;[[H9021\|ךָ֖]]&#8207; </big>**| 'i.me.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she  |**<big>&#8207;[[H1931\|הִֽוא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she  |**<big>&#8207;[[H1931\|הִֽוא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18.12|<< Leviticus 18:12]]</td><td align="center" style="border:none;">[[Lev.18|Leviticus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.18.14|Leviticus 18:14 >>]]</td></tr></table>
 
 

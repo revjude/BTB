@@ -1,8 +1,52 @@
+---
+title: Numbers 7:80
+type: Verse
+kjv: "One golden spoon of ten shekels, full of incense:"
+bsb: "one gold dish weighing ten shekels, filled with incense;"
+hebrew: "כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב מְלֵאָ֥ה קְטֹֽרֶת׃"
+pericope: "[[Num.7.1 Offerings of Dedication|Offerings of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 7
+book/chapter: "[[Num.7|Numbers 7]]"
+chronological_order: 166
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AHIRA|AHIRA]]"
+- "[[topic SHEKEL|SHEKEL]]"
+strongs:
+- "[[H3709I]]"
+- "[[H0259]]"
+- "[[H6235]]"
+- "[[H2091]]"
+- "[[H4392]]"
+- "[[H7004]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 7:80**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 One golden spoon of ten [shekels], full of incense:
 <small><sub>**BSB:**</sub></small>
 one gold dish weighing ten shekels, filled with incense;
+<small><sub>**Hebrew:**</sub></small>
+[[H3709I\|כַּ֥ף]] [[H0259\|אַחַ֛ת]] [[H6235\|עֲשָׂרָ֥ה]] [[H2091\|זָהָ֖ב]] [[H4392\|מְלֵאָ֥ה]] [[H7004\|קְטֹֽרֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIRA|AHIRA]] • [[topic SHEKEL|SHEKEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.80|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.79|<< Numbers 7:79]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.81|Numbers 7:81 >>]]</td></tr></table>
 

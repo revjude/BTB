@@ -1,8 +1,67 @@
+---
+title: Deuteronomy 28:42
+type: Verse
+kjv: "All thy trees and fruit of thy land shall the locust consume."
+bsb: "Swarms of locusts will consume all your trees and the produce of your land."
+hebrew: "כָּל־ עֵצְךָ֖ וּפְרִ֣י אַדְמָתֶ֑ךָ יְיָרֵ֖שׁ הַצְּלָצַֽל׃"
+pericope: "[[Deut.28.15 The Curses of Disobedience|The Curses of Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6086H]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H6529]]"
+- "[[H0127G]]"
+- "[[H3423H]]"
+- "[[H9009]]"
+- "[[H6767C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:42**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All thy trees and fruit of thy land shall the locust consume.
 <small><sub>**BSB:**</sub></small>
 Swarms of locusts will consume all your trees and the produce of your land.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H6086H\|עֵצְ]][[H9021\|ךָ֖]] [[H9002\|וּ]][[H6529\|פְרִ֣י]] [[H0127G\|אַדְמָתֶ֑]][[H9021\|ךָ]] [[H3423H\|יְיָרֵ֖שׁ]] [[H9009\|הַ]][[H6767C\|צְּלָצַֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic FAMINE|FAMINE]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.41|<< Deuteronomy 28:41]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.43|Deuteronomy 28:43 >>]]</td></tr></table>
 

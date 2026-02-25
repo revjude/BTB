@@ -1,10 +1,62 @@
+---
+title: John 20:12
+type: Verse
+kjv: "And seeth two angels in white sitting, the one at the head, and the other at the feet, where the body of Jesus had lain."
+bsb: "and she saw two angels in white sitting where the body of Jesus had lain, one at the head and the other at the feet."
+greek: "καὶ θεωρεῖ δύο ἀγγέλους ἐν λευκοῖς καθεζομένους ἕνα πρὸς τῇ κεφαλῇ καὶ ἕνα πρὸς τοῖς ποσίν, ὅπου ἔκειτο τὸ σῶμα τοῦ Ἰησοῦ."
+pericope: "[[John.20.10 Jesus Appears to Mary Magdalene|Jesus Appears to Mary Magdalene]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 20
+book/chapter: "[[John.20|John 20]]"
+chronological_order: 1017
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MARY|MARY]]"
+- "[[topic TROUBLE|TROUBLE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G2334]]"
+- "[[G1417]]"
+- "[[G0032G]]"
+- "[[G1722]]"
+- "[[G3022]]"
+- "[[G2516]]"
+- "[[G1520]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G2776]]"
+- "[[G4228]]"
+- "[[G3699]]"
+- "[[G2749]]"
+- "[[G4983]]"
+- "[[G2424G]]"
+texts:
+- NKO
+---
+
 **John 20:12**<big><big>[[John.20.10 Jesus Appears to Mary Magdalene|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And seeth two angels in white sitting, the one at the head, and the other at the feet, where the body of Jesus had lain.
 <small><sub>**BSB:**</sub></small>
 and she saw two angels in white sitting where the body of Jesus had lain, one at the head and the other at the feet.
-<small><sub>**Literal:**</sub></small>
-and she sees two angels in white sitting one at the head and one at the feet, where was laying the body <the> of Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.11|<< John 20:11]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.13|John 20:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2334\|θεωρεῖ]]  [[G1417\|δύο]]  [[G0032G\|ἀγγέλους]]  [[G1722\|ἐν]]  [[G3022\|λευκοῖς]]  [[G2516\|καθεζομένους]]  [[G1520\|ἕνα]]  [[G4314\|πρὸς]]  [[G3588\|τῇ]]  [[G2776\|κεφαλῇ]]  [[G2532\|καὶ]]  [[G1520\|ἕνα]]  [[G4314\|πρὸς]]  [[G3588\|τοῖς]]  [[G4228\|ποσίν,]]  [[G3699\|ὅπου]]  [[G2749\|ἔκειτο]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic MARY|MARY]] • [[topic TROUBLE|TROUBLE]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.11|<< John 20:11]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.13|John 20:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

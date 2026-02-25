@@ -1,8 +1,59 @@
+---
+title: Ezekiel 26:1
+type: Verse
+kjv: "And it came to pass in the eleventh year, in the first day of the month, that the word of the LORD came unto me, saying,"
+bsb: "In the eleventh month of the twelfth year, on the first day of the month, the word of the LORD came to me, saying,"
+hebrew: "וַיְהִ֛י בְּעַשְׁתֵּֽי־ עֶשְׂרֵ֥ה שָׁנָ֖ה בְּאֶחָ֣ד לַחֹ֑דֶשׁ הָיָ֥ה דְבַר־ יְהוָ֖ה אֵלַ֥י לֵאמֹֽר׃"
+pericope: "[[Ezek.26.1 A Prophecy against Tyre|A Prophecy against Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 26
+book/chapter: "[[Ezek.26|Ezekiel 26]]"
+chronological_order: 817
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H6249]]"
+- "[[H9014]]"
+- "[[H6240]]"
+- "[[H8141]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 26:1**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the eleventh year, in the first [day] of the month, [that] the word of the LORD came unto me, saying,
 <small><sub>**BSB:**</sub></small>
 In the eleventh month of the twelfth year, on the first day of the month, the word of the LORD came to me, saying,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֛י]] [[H9003\|בְּ]][[H6249\|עַשְׁתֵּֽי]][[H9014\|־]] [[H6240\|עֶשְׂרֵ֥ה]] [[H8141\|שָׁנָ֖ה]] [[H9003\|בְּ]][[H0259\|אֶחָ֣ד]] [[H9005\|לַ]][[H2320G\|חֹ֑דֶשׁ]] [[H1961\|הָיָ֥ה]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֵלַ֥]][[H9030\|י]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.25.17|<< Ezekiel 25:17]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.2|Ezekiel 26:2 >>]]</td></tr></table>
 

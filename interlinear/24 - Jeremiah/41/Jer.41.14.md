@@ -1,8 +1,66 @@
+---
+title: Jeremiah 41:14
+type: Verse
+kjv: "So all the people that Ishmael had carried away captive from Mizpah cast about and returned, and went unto Johanan the son of Kareah."
+bsb: "and all the people whom Ishmael had taken captive at Mizpah turned and went over to Johanan son of Kareah."
+hebrew: "וַיָּסֹ֙בּוּ֙ כָּל־ הָעָ֔ם אֲשֶׁר־ שָׁבָ֥ה יִשְׁמָעֵ֖אל מִן־ הַמִּצְפָּ֑ה וַיָּשֻׁ֙בוּ֙ וַיֵּ֣לְכ֔וּ אֶל־ יֽוֹחָנָ֖ן בֶּן־ קָרֵֽחַ׃"
+pericope: "[[Jer.41.11 Johanan Rescues the Captives|Johanan Rescues the Captives]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 41
+book/chapter: "[[Jer.41|Jeremiah 41]]"
+chronological_order: 764
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AHIKAM|AHIKAM]]"
+- "[[topic GIBEON|GIBEON]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOHANAN|JOHANAN]]"
+- "[[topic KAREAH|KAREAH]]"
+- "[[topic MIZPAH|MIZPAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5437H]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H7617]]"
+- "[[H3458H]]"
+- "[[H4480A]]"
+- "[[H4709G]]"
+- "[[H7725G]]"
+- "[[H1980G]]"
+- "[[H0413]]"
+- "[[H3110G]]"
+- "[[H1121A]]"
+- "[[H7143]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 41:14**<big><big>[[Jer.41.11 Johanan Rescues the Captives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So all the people that Ishmael had carried away captive from Mizpah cast about and returned, and went unto Johanan the son of Kareah.
 <small><sub>**BSB:**</sub></small>
 and all the people whom Ishmael had taken captive at Mizpah turned and went over to Johanan son of Kareah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5437H\|יָּסֹ֙בּוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7617\|שָׁבָ֥ה]] [[H3458H\|יִשְׁמָעֵ֖אל]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4709G\|מִּצְפָּ֑ה]] [[H9001\|וַ]][[H7725G\|יָּשֻׁ֙בוּ֙]] [[H9001\|וַ]][[H1980G\|יֵּ֣לְכ֔וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3110G\|יֽוֹחָנָ֖ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7143\|קָרֵֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIKAM|AHIKAM]] • [[topic GIBEON|GIBEON]] • [[topic ISHMAEL|ISHMAEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOHANAN|JOHANAN]] • [[topic KAREAH|KAREAH]] • [[topic MIZPAH|MIZPAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.41.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.13|<< Jeremiah 41:13]]</td><td align="center" style="border:none;">[[Jer.41|Jeremiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.15|Jeremiah 41:15 >>]]</td></tr></table>
 

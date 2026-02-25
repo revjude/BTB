@@ -1,8 +1,79 @@
+---
+title: Ezekiel 8:12
+type: Verse
+kjv: "Then said he unto me, Son of man, hast thou seen what the ancients of the house of Israel do in the dark, every man in the chambers of his imagery? for they say, The LORD seeth us not; the LORD hath forsaken the earth."
+bsb: "“Son of man,” He said to me, “do you see what the elders of the house of Israel are doing in the darkness, each at the shrine of his own idol? For they are saying, ‘The LORD does not see us; the LORD has forsaken the land.’”"
+hebrew: "וַיֹּ֣אמֶר אֵלַי֮ הֲרָאִ֣יתָ בֶן־ אָדָם֒ אֲשֶׁ֨ר זִקְנֵ֤י בֵֽית־ יִשְׂרָאֵל֙ עֹשִׂ֣ים בַּחֹ֔שֶׁךְ אִ֖ישׁ בְּחַדְרֵ֣י מַשְׂכִּית֑וֹ כִּ֣י אֹמְרִ֗ים אֵ֤ין יְהוָה֙ רֹאֶ֣ה אֹתָ֔נוּ עָזַ֥ב יְהוָ֖ה אֶת־ הָאָֽרֶץ׃"
+pericope: "[[Ezek.8.1 The Vision of Idolatry in the Temple|The Vision of Idolatry in the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 8
+book/chapter: "[[Ezek.8|Ezekiel 8]]"
+chronological_order: 799
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic SCOFFING|SCOFFING]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9008]]"
+- "[[H7200G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H0834A]]"
+- "[[H2205G]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H2822]]"
+- "[[H0376I]]"
+- "[[H2315]]"
+- "[[H4906]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9035]]"
+- "[[H5800A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 8:12**<big><big>[[Ezek.8.1 The Vision of Idolatry in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said he unto me, Son of man, hast thou seen what the ancients of the house of Israel do in the dark, every man in the chambers of his imagery? for they say, The LORD seeth us not; the LORD hath forsaken the earth.
 <small><sub>**BSB:**</sub></small>
 “Son of man,” He said to me, “do you see what the elders of the house of Israel are doing in the darkness, each at the shrine of his own idol? For they are saying, ‘The LORD does not see us; the LORD has forsaken the land.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלַ]][[H9030\|י֮]] [[H9008\|הֲ]][[H7200G\|רָאִ֣יתָ]] [[H1121A\|בֶן]][[H9014\|־]] [[H0120G\|אָדָם֒]] [[H0834A\|אֲשֶׁ֨ר]] [[H2205G\|זִקְנֵ֤י]] [[H1004M\|בֵֽית]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H6213A\|עֹשִׂ֣ים]] [[H9003\|בַּ]][[H2822\|חֹ֔שֶׁךְ]] [[H0376I\|אִ֖ישׁ]] [[H9003\|בְּ]][[H2315\|חַדְרֵ֣י]] [[H4906\|מַשְׂכִּית֑]][[H9023\|וֹ]] [[H3588A\|כִּ֣י]] [[H0559\|אֹמְרִ֗ים]] [[H0369\|אֵ֤ין]] [[H3068G\|יְהוָה֙]] [[H7200G\|רֹאֶ֣ה]] [[H0853\|אֹתָ֔]][[H9035\|נוּ]] [[H5800A\|עָזַ֥ב]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOUSE|HOUSE]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INFIDELITY|INFIDELITY]] • [[topic SCOFFING|SCOFFING]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.8.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.8.11|<< Ezekiel 8:11]]</td><td align="center" style="border:none;">[[Ezek.8|Ezekiel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.8.13|Ezekiel 8:13 >>]]</td></tr></table>
 

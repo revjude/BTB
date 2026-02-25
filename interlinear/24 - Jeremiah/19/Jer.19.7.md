@@ -1,8 +1,74 @@
+---
+title: Jeremiah 19:7
+type: Verse
+kjv: "And I will make void the counsel of Judah and Jerusalem in this place; and I will cause them to fall by the sword before their enemies, and by the hands of them that seek their lives: and their carcases will I give to be meat for the fowls of the heaven, and for the beasts of the earth."
+bsb: "And in this place I will ruin the plans of Judah and Jerusalem. I will make them fall by the sword before their enemies, by the hands of those who seek their lives, and I will give their carcasses as food to the birds of the air and the beasts of the earth."
+hebrew: "וּ֠בַקֹּתִי אֶת־ עֲצַ֨ת יְהוּדָ֤ה וִירוּשָׁלִַ֙ם֙ בַּמָּק֣וֹם הַזֶּ֔ה וְהִפַּלְתִּ֤ים בַּחֶ֙רֶב֙ לִפְנֵ֣י אֹֽיְבֵיהֶ֔ם וּבְיַ֖ד מְבַקְשֵׁ֣י נַפְשָׁ֑ם וְנָתַתִּ֤י אֶת־ נִבְלָתָם֙ לְמַֽאֲכָ֔ל לְע֥וֹף הַשָּׁמַ֖יִם וּלְבֶהֱמַ֥ת הָאָֽרֶץ׃"
+pericope: "[[Jer.19.1 The Broken Jar|The Broken Jar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 19
+book/chapter: "[[Jer.19|Jeremiah 19]]"
+chronological_order: 736
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H1238B]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6098]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3389]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H5307J]]"
+- "[[H9038]]"
+- "[[H2719]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0341]]"
+- "[[H9028]]"
+- "[[H3027H]]"
+- "[[H1245]]"
+- "[[H5315H]]"
+- "[[H5414G]]"
+- "[[H5038]]"
+- "[[H3978]]"
+- "[[H5775]]"
+- "[[H8064]]"
+- "[[H0929]]"
+- "[[H0776H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 19:7**<big><big>[[Jer.19.1 The Broken Jar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make void the counsel of Judah and Jerusalem in this place; and I will cause them to fall by the sword before their enemies, and by the hands of them that seek their lives: and their carcases will I give to be meat for the fowls of the heaven, and for the beasts of the earth.
 <small><sub>**BSB:**</sub></small>
 And in this place I will ruin the plans of Judah and Jerusalem. I will make them fall by the sword before their enemies, by the hands of those who seek their lives, and I will give their carcasses as food to the birds of the air and the beasts of the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ֠]][[H1238B\|בַקֹּתִי]] [[H0853\|אֶת]][[H9014\|־]] [[H6098\|עֲצַ֨ת]] [[H3063G\|יְהוּדָ֤ה]] [[H9002\|וִ]][[H3389\|ירוּשָׁלִַ֙ם֙]] [[H9003\|בַּ]][[H4725\|מָּק֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9001\|וְ]][[H5307J\|הִפַּלְתִּ֤י]][[H9038\|ם]] [[H9003\|בַּ]][[H2719\|חֶ֙רֶב֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H0341\|אֹֽיְבֵי]][[H9028\|הֶ֔ם]] [[H9002\|וּ]][[H9003\|בְ]][[H3027H\|יַ֖ד]] [[H1245\|מְבַקְשֵׁ֣י]] [[H5315H\|נַפְשָׁ֑]][[H9028\|ם]] [[H9001\|וְ]][[H5414G\|נָתַתִּ֤י]] [[H0853\|אֶת]][[H9014\|־]] [[H5038\|נִבְלָתָ]][[H9028\|ם֙]] [[H9005\|לְ]][[H3978\|מַֽאֲכָ֔ל]] [[H9005\|לְ]][[H5775\|ע֥וֹף]] [[H9009\|הַ]][[H8064\|שָּׁמַ֖יִם]] [[H9002\|וּ]][[H9005\|לְ]][[H0929\|בֶהֱמַ֥ת]] [[H9009\|הָ]][[H0776H\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.19.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.19.6|<< Jeremiah 19:6]]</td><td align="center" style="border:none;">[[Jer.19|Jeremiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.19.8|Jeremiah 19:8 >>]]</td></tr></table>
 

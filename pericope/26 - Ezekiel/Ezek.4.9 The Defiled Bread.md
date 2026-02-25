@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Defiled Bread
+type: Pericope
 pericope: "[[Ezek.4.9 The Defiled Bread|The Defiled Bread]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 4
 book/chapter: "[[Ezek.4|Ezekiel 4]]"
-genre:
+chronological_order: 795
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 9
 verses:
 - "[[Ezek.4.9]]"
 - "[[Ezek.4.10]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Ezek.4.17]]"
 ---
 
-[[Ezek.4|Ezekiel 4:9 - Ezekiel 4:17]]
+<small>[[Ezek.4|Ezekiel 4:9-17]]</small>
 *The Defiled Bread*
 
 [[Ezek.4.9|9]] Take thou also unto thee wheat, and barley, and beans, and lentiles, and millet, and fitches, and put them in one vessel, and make thee bread thereof, \[according\] to the number of the days that thou shalt lie upon thy side, three hundred and ninety days shalt thou eat thereof.

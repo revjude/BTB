@@ -1,8 +1,57 @@
+---
+title: Psalm 34:18
+type: Verse
+kjv: "The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit."
+bsb: "The LORD is near to the brokenhearted; He saves the contrite in spirit."
+hebrew: "קָר֣וֹב יְ֭הוָה לְנִשְׁבְּרֵי־ לֵ֑ב וְֽאֶת־ דַּכְּאֵי־ ר֥וּחַ יוֹשִֽׁיעַ׃"
+pericope: "[[Ps.34.1 Taste and See That the LORD Is Good|Taste and See That the LORD Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 34
+book/chapter: "[[Ps.34|Psalm 34]]"
+chronological_order: 312
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic HEART|HEART]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H7138]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H7665]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H1793A]]"
+- "[[H7307G]]"
+- "[[H3467]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 34:18**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD [is] nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.
 <small><sub>**BSB:**</sub></small>
 The LORD is near to the brokenhearted; He saves the contrite in spirit.
+<small><sub>**Hebrew:**</sub></small>
+[[H7138\|קָר֣וֹב]] [[H3068G\|יְ֭הוָה]] [[H9005\|לְ]][[H7665\|נִשְׁבְּרֵי]][[H9014\|־]] [[H3820A\|לֵ֑ב]] [[H9002\|וְֽ]][[H0853\|אֶת]][[H9014\|־]] [[H1793A\|דַּכְּאֵי]][[H9014\|־]] [[H7307G\|ר֥וּחַ]] [[H3467\|יוֹשִֽׁיעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEART|HEART]] • [[topic PENITENT|PENITENT]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.34.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.34.17|<< Psalms 34:17]]</td><td align="center" style="border:none;">[[Ps.34|Psalms 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.19|Psalms 34:19 >>]]</td></tr></table>
 

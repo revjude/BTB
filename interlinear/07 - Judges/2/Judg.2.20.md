@@ -1,8 +1,67 @@
+---
+title: Judges 2:20
+type: Verse
+kjv: "And the anger of the LORD was hot against Israel; and he said, Because that this people hath transgressed my covenant which I commanded their fathers, and have not hearkened unto my voice;"
+bsb: "So the anger of the LORD burned against Israel, and He said, “Because this nation has transgressed the covenant I laid down for their fathers and has not heeded My voice,"
+hebrew: "וַיִּֽחַר־ אַ֥ף יְהוָ֖ה בְּיִשְׂרָאֵ֑ל וַיֹּ֗אמֶר יַעַן֩ אֲשֶׁ֨ר עָבְר֜וּ הַגּ֣וֹי הַזֶּ֗ה אֶת־ בְּרִיתִי֙ אֲשֶׁ֣ר צִוִּ֣יתִי אֶת־ אֲבוֹתָ֔ם וְלֹ֥א שָׁמְע֖וּ לְקוֹלִֽי׃"
+pericope: "[[Judg.2.16 Judges Raised Up|Judges Raised Up]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 2
+book/chapter: "[[Judg.2|Judges 2]]"
+chronological_order: 256
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BAAL|BAAL]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H2734]]"
+- "[[H9014]]"
+- "[[H0639G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H0559]]"
+- "[[H3282]]"
+- "[[H0834A]]"
+- "[[H5674D]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H2088]]"
+- "[[H0853]]"
+- "[[H1285]]"
+- "[[H9020]]"
+- "[[H6680]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8085H]]"
+- "[[H9005]]"
+- "[[H6963A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 2:20**<big><big>[[Judg.2.16 Judges Raised Up|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the anger of the LORD was hot against Israel; and he said, Because that this people hath transgressed my covenant which I commanded their fathers, and have not hearkened unto my voice;
 <small><sub>**BSB:**</sub></small>
 So the anger of the LORD burned against Israel, and He said, “Because this nation has transgressed the covenant I laid down for their fathers and has not heeded My voice,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2734\|יִּֽחַר]][[H9014\|־]] [[H0639G\|אַ֥ף]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H3282\|יַעַן֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H5674D\|עָבְר֜וּ]] [[H9009\|הַ]][[H1471A\|גּ֣וֹי]] [[H9009\|הַ]][[H2088\|זֶּ֗ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִיתִ]][[H9020\|י֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6680\|צִוִּ֣יתִי]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אֲבוֹתָ֔]][[H9028\|ם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8085H\|שָׁמְע֖וּ]] [[H9005\|לְ]][[H6963A\|קוֹלִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL|BAAL]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.2.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.2.19|<< Judges 2:19]]</td><td align="center" style="border:none;">[[Judg.2|Judges 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.2.21|Judges 2:21 >>]]</td></tr></table>
 

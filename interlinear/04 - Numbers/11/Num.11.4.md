@@ -1,8 +1,67 @@
+---
+title: Numbers 11:4
+type: Verse
+kjv: "And the mixt multitude that was among them fell a lusting: and the children of Israel also wept again, and said, Who shall give us flesh to eat?"
+bsb: "Meanwhile, the rabble among them had a strong craving for other food, and again the Israelites wept and said, “Who will feed us meat?"
+hebrew: "וְהָֽאסַפְסֻף֙ אֲשֶׁ֣ר בְּקִרְבּ֔וֹ הִתְאַוּ֖וּ תַּאֲוָ֑ה וַיָּשֻׁ֣בוּ וַיִּבְכּ֗וּ גַּ֚ם בְּנֵ֣י יִשְׂרָאֵ֔ל וַיֹּ֣אמְר֔וּ מִ֥י יַאֲכִלֵ֖נוּ בָּשָֽׂר׃"
+pericope: "[[Num.11.1 The Complaints of the People|The Complaints of the People]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 11
+book/chapter: "[[Num.11|Numbers 11]]"
+chronological_order: 171
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GLUTTONY|GLUTTONY]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0628]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9023]]"
+- "[[H0183]]"
+- "[[H8378]]"
+- "[[H9001]]"
+- "[[H7725J]]"
+- "[[H1058]]"
+- "[[H1571]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0559]]"
+- "[[H4310]]"
+- "[[H0398]]"
+- "[[H9035]]"
+- "[[H1320]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 11:4**<big><big>[[Num.11.1 The Complaints of the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the mixt multitude that [was] among them fell a lusting: and the children of Israel also wept again, and said, Who shall give us flesh to eat?
 <small><sub>**BSB:**</sub></small>
 Meanwhile, the rabble among them had a strong craving for other food, and again the Israelites wept and said, “Who will feed us meat?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָֽ]][[H0628\|אסַפְסֻף֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H7130G\|קִרְבּ֔]][[H9023\|וֹ]] [[H0183\|הִתְאַוּ֖וּ]] [[H8378\|תַּאֲוָ֑ה]] [[H9001\|וַ]][[H7725J\|יָּשֻׁ֣בוּ]] [[H9001\|וַ]][[H1058\|יִּבְכּ֗וּ]] [[H1571\|גַּ֚ם]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וַ]][[H0559\|יֹּ֣אמְר֔וּ]] [[H4310\|מִ֥י]] [[H0398\|יַאֲכִלֵ֖]][[H9035\|נוּ]] [[H1320\|בָּשָֽׂר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GLUTTONY|GLUTTONY]] • [[topic MURMURING|MURMURING]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.3|<< Numbers 11:3]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.5|Numbers 11:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

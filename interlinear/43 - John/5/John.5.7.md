@@ -1,10 +1,67 @@
+---
+title: John 5:7
+type: Verse
+kjv: "The impotent man answered him, Sir, I have no man, when the water is troubled, to put me into the pool: but while I am coming, another steppeth down before me."
+bsb: "“Sir,” the invalid replied, “I have no one to help me into the pool when the water is stirred. While I am on my way, someone else goes in before me.”"
+greek: "ἀπεκρίθη αὐτῷ ὁ ἀσθενῶν· κύριε, ἄνθρωπον οὐκ ἔχω ἵνα ὅταν ταραχθῇ τὸ ὕδωρ βάλῃ με εἰς τὴν κολυμβήθραν· ἐν ᾧ δὲ ἔρχομαι ἐγώ, ἄλλος πρὸ ἐμοῦ καταβαίνει."
+pericope: "[[John.5.1 The Pool of Bethesda|The Pool of Bethesda]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 5
+book/chapter: "[[John.5|John 5]]"
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G0770H]]"
+- "[[G2962H]]"
+- "[[G0444]]"
+- "[[G3756]]"
+- "[[G2192]]"
+- "[[G2443]]"
+- "[[G3752]]"
+- "[[G5015]]"
+- "[[G5204]]"
+- "[[G0906H]]"
+- "[[G3165]]"
+- "[[G1519]]"
+- "[[G2861]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G1161]]"
+- "[[G2064]]"
+- "[[G1473]]"
+- "[[G0243]]"
+- "[[G4253]]"
+- "[[G2597]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 5:7**<big><big>[[John.5.1 The Pool of Bethesda|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The impotent man answered him, Sir, I have no man, when the water is troubled, to put me into the pool: but while I am coming, another steppeth down before me.
 <small><sub>**BSB:**</sub></small>
 “Sir,” the invalid replied, “I have no one to help me into the pool when the water is stirred. While I am on my way, someone else goes in before me.”
-<small><sub>**Literal:**</sub></small>
-Answered Him the [one] ailing; Sir, a man not I have that when may be stirred the water he may put me into the pool; in which now am going I myself, another before me descends.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.6|<< John 5:6]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.8|John 5:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθη]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G0770H\|ἀσθενῶν·]]  [[G2962H\|κύριε,]]  [[G0444\|ἄνθρωπον]]  [[G3756\|οὐκ]]  [[G2192\|ἔχω]]  [[G2443\|ἵνα]]  [[G3752\|ὅταν]]  [[G5015\|ταραχθῇ]]  [[G3588\|τὸ]]  [[G5204\|ὕδωρ]]  [[G0906H\|βάλῃ]]  [[G3165\|με]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2861\|κολυμβήθραν·]]  [[G1722\|ἐν]]  [[G3739\|ᾧ]]  [[G1161\|δὲ]]  [[G2064\|ἔρχομαι]]  [[G1473\|ἐγώ,]]  [[G0243\|ἄλλος]]  [[G4253\|πρὸ]]  [[G1473\|ἐμοῦ]]  [[G2597\|καταβαίνει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.6|<< John 5:6]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.8|John 5:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

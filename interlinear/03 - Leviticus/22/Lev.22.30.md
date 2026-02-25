@@ -1,8 +1,56 @@
+---
+title: Leviticus 22:30
+type: Verse
+kjv: "On the same day it shall be eaten up; ye shall leave none of it until the morrow: I am the LORD."
+bsb: "It must be eaten that same day. Do not leave any of it until morning. I am the LORD."
+hebrew: "בַּיּ֤וֹם הַהוּא֙ יֵאָכֵ֔ל לֹֽא־ תוֹתִ֥ירוּ מִמֶּ֖נּוּ עַד־ בֹּ֑קֶר אֲנִ֖י יְהוָֽה׃"
+pericope: "[[Lev.22.17 Worthy Offerings|Worthy Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 22
+book/chapter: "[[Lev.22|Leviticus 22]]"
+chronological_order: 154
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H0398]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3498]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H5704]]"
+- "[[H1242]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 22:30**<big><big>[[Lev.22.17 Worthy Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 On the same day it shall be eaten up; ye shall leave none of it until the morrow: I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
 It must be eaten that same day. Do not leave any of it until morning. I am the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּ֤וֹם]] [[H9009\|הַ]][[H1931\|הוּא֙]] [[H0398\|יֵאָכֵ֔ל]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3498\|תוֹתִ֥ירוּ]] [[H4480A\|מִמֶּ֖]][[H9033\|נּוּ]] [[H5704\|עַד]][[H9014\|־]] [[H1242\|בֹּ֑קֶר]] [[H0589\|אֲנִ֖י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.29|<< Leviticus 22:29]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.31|Leviticus 22:31 >>]]</td></tr></table>
 

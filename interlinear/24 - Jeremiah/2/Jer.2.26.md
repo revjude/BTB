@@ -1,8 +1,60 @@
+---
+title: Jeremiah 2:26
+type: Verse
+kjv: "As the thief is ashamed when he is found, so is the house of Israel ashamed; they, their kings, their princes, and their priests, and their prophets,"
+bsb: "As the thief is ashamed when he is caught, so the house of Israel is disgraced. They, their kings, their officials, their priests, and their prophets"
+hebrew: "כְּבֹ֤שֶׁת גַּנָּב֙ כִּ֣י יִמָּצֵ֔א כֵּ֥ן הֹבִ֖ישׁוּ בֵּ֣ית יִשְׂרָאֵ֑ל הֵ֤מָּה מַלְכֵיהֶם֙ שָֽׂרֵיהֶ֔ם וְכֹהֲנֵיהֶ֖ם וּנְבִיאֵיהֶֽם׃"
+pericope: "[[Jer.2.23 Israel’s Unfaithfulness|Israel’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 2
+book/chapter: "[[Jer.2|Jeremiah 2]]"
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[H9004]]"
+- "[[H1322]]"
+- "[[H1590]]"
+- "[[H3588A]]"
+- "[[H4672]]"
+- "[[H3651C]]"
+- "[[H0954]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H1992]]"
+- "[[H4428G]]"
+- "[[H9028]]"
+- "[[H8269]]"
+- "[[H9002]]"
+- "[[H3548]]"
+- "[[H5030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 2:26**<big><big>[[Jer.2.23 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As the thief is ashamed when he is found, so is the house of Israel ashamed; they, their kings, their princes, and their priests, and their prophets,
 <small><sub>**BSB:**</sub></small>
 As the thief is ashamed when he is caught, so the house of Israel is disgraced. They, their kings, their officials, their priests, and their prophets
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּ]][[H1322\|בֹ֤שֶׁת]] [[H1590\|גַּנָּב֙]] [[H3588A\|כִּ֣י]] [[H4672\|יִמָּצֵ֔א]] [[H3651C\|כֵּ֥ן]] [[H0954\|הֹבִ֖ישׁוּ]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H1992\|הֵ֤מָּה]] [[H4428G\|מַלְכֵי]][[H9028\|הֶם֙]] [[H8269\|שָֽׂרֵי]][[H9028\|הֶ֔ם]] [[H9002\|וְ]][[H3548\|כֹהֲנֵי]][[H9028\|הֶ֖ם]] [[H9002\|וּ]][[H5030\|נְבִיאֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.25|<< Jeremiah 2:25]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.27|Jeremiah 2:27 >>]]</td></tr></table>
 

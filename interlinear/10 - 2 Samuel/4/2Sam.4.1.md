@@ -1,8 +1,55 @@
+---
+title: 2 Samuel 4:1
+type: Verse
+kjv: "And when Saul’s son heard that Abner was dead in Hebron, his hands were feeble, and all the Israelites were troubled."
+bsb: "Now when Ish-bosheth son of Saul heard that Abner had died in Hebron, he lost courage, and all Israel was dismayed."
+hebrew: "וַיִּשְׁמַ֣ע בֶּן־ שָׁא֗וּל כִּ֣י מֵ֤ת אַבְנֵר֙ בְּחֶבְר֔וֹן וַיִּרְפּ֖וּ יָדָ֑יו וְכָל־ יִשְׂרָאֵ֖ל נִבְהָֽלוּ׃"
+pericope: "[[2Sam.4.1 The Murder of Ish-bosheth|The Murder of Ish-bosheth]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 4
+book/chapter: "[[2Sam.4|2 Samuel 4]]"
+chronological_order: 332
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H7586G]]"
+- "[[H3588A]]"
+- "[[H4191]]"
+- "[[H0074]]"
+- "[[H9003]]"
+- "[[H2275A]]"
+- "[[H7503]]"
+- "[[H3027I]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H0926]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 4:1**<big><big>[[2Sam.4.1 The Murder of Ish-bosheth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Saul’s son heard that Abner was dead in Hebron, his hands were feeble, and all the Israelites were troubled.
 <small><sub>**BSB:**</sub></small>
 Now when Ish-bosheth son of Saul heard that Abner had died in Hebron, he lost courage, and all Israel was dismayed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֣ע]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7586G\|שָׁא֗וּל]] [[H3588A\|כִּ֣י]] [[H4191\|מֵ֤ת]] [[H0074\|אַבְנֵר֙]] [[H9003\|בְּ]][[H2275A\|חֶבְר֔וֹן]] [[H9001\|וַ]][[H7503\|יִּרְפּ֖וּ]] [[H3027I\|יָדָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H0926\|נִבְהָֽלוּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.4.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.39|<< 2 Samuel 3:39]]</td><td align="center" style="border:none;">[[2Sam.4|2 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.4.2|2 Samuel 4:2 >>]]</td></tr></table>
 

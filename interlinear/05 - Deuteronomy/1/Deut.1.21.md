@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 1:21
+type: Verse
+kjv: "Behold, the LORD thy God hath set the land before thee: go up and possess it, as the LORD God of thy fathers hath said unto thee; fear not, neither be discouraged."
+bsb: "See, the LORD your God has placed the land before you. Go up and take possession of it as the LORD, the God of your fathers, has told you. Do not be afraid or discouraged.”"
+hebrew: "רְ֠אֵה נָתַ֨ן יְהוָ֧ה אֱלֹהֶ֛יךָ לְפָנֶ֖יךָ אֶת־ הָאָ֑רֶץ עֲלֵ֣ה רֵ֗שׁ כַּאֲשֶׁר֩ דִּבֶּ֨ר יְהוָ֜ה אֱלֹהֵ֤י אֲבֹתֶ֙יךָ֙ לָ֔ךְ אַל־ תִּירָ֖א וְאַל־ תֵּחָֽת׃"
+pericope: "[[Deut.1.19 Twelve Spies Sent Out|Twelve Spies Sent Out]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H7200I]]"
+- "[[H5414H]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H5927G]]"
+- "[[H3423H]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696G]]"
+- "[[H0001G]]"
+- "[[H9031]]"
+- "[[H0408]]"
+- "[[H3372G]]"
+- "[[H9002]]"
+- "[[H2865]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:21**<big><big>[[Deut.1.19 Twelve Spies Sent Out|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the LORD thy God hath set the land before thee: go up [and] possess [it], as the LORD God of thy fathers hath said unto thee; fear not, neither be discouraged.
 <small><sub>**BSB:**</sub></small>
 See, the LORD your God has placed the land before you. Go up and take possession of it as the LORD, the God of your fathers, has told you. Do not be afraid or discouraged.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7200I\|רְ֠אֵה]] [[H5414H\|נָתַ֨ן]] [[H3068G\|יְהוָ֧ה]] [[H0430G\|אֱלֹהֶ֛י]][[H9021\|ךָ]] [[H9005\|לְ]][[H6440G\|פָנֶ֖י]][[H9021\|ךָ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H5927G\|עֲלֵ֣ה]] [[H3423H\|רֵ֗שׁ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁר֩]] [[H1696G\|דִּבֶּ֨ר]] [[H3068G\|יְהוָ֜ה]] [[H0430G\|אֱלֹהֵ֤י]] [[H0001G\|אֲבֹתֶ֙י]][[H9021\|ךָ֙]] [[H9005\|לָ֔]][[H9031\|ךְ]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָ֖א]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H2865\|תֵּחָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.20|<< Deuteronomy 1:20]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.22|Deuteronomy 1:22 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sixth Plague：Boils
+type: Pericope
 pericope: "[[Exod.9.8 The Sixth Plague：Boils|The Sixth Plague：Boils]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 9
 book/chapter: "[[Exod.9|Exodus 9]]"
-genre:
+chronological_order: 101
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 5
 verses:
 - "[[Exod.9.8]]"
 - "[[Exod.9.9]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Exod.9.12]]"
 ---
 
-[[Exod.9|Exodus 9:8 - Exodus 9:12]]
+<small>[[Exod.9|Exodus 9:8-12]]</small>
 *The Sixth Plague：Boils*
 
 [[Exod.9.8|8]] And the LORD said unto Moses and unto Aaron, Take to you handfuls of ashes of the furnace, and let Moses sprinkle it toward the heaven in the sight of Pharaoh.

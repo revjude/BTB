@@ -1,8 +1,67 @@
+---
+title: 1 Chronicles 19:19
+type: Verse
+kjv: "And when the servants of Hadarezer saw that they were put to the worse before Israel, they made peace with David, and became his servants: neither would the Syrians help the children of Ammon any more."
+bsb: "When Hadadezer’s subjects saw that they had been defeated by Israel, they made peace with David and became subject to him. So the Arameans were unwilling to help the Ammonites anymore."
+hebrew: "וַיִּרְא֞וּ עַבְדֵ֣י הֲדַדְעֶ֗זֶר כִּ֤י נִגְּפוּ֙ לִפְנֵ֣י יִשְׂרָאֵ֔ל וַיַּשְׁלִ֥ימוּ עִם־ דָּוִ֖יד וַיַּֽעַבְדֻ֑הוּ וְלֹא־ אָבָ֣ה אֲרָ֔ם לְהוֹשִׁ֥יעַ אֶת־ בְּנֵי־ עַמּ֖וֹן עֽוֹד׃ פ"
+pericope: "[[1Chr.19.10 David Defeats Ammon and Aram|David Defeats Ammon and Aram]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 19
+book/chapter: "[[1Chr.19|1 Chronicles 19]]"
+chronological_order: 406
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic HADADEZER|HADADEZER]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H5650]]"
+- "[[H1928]]"
+- "[[H3588A]]"
+- "[[H5062]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3478]]"
+- "[[H7999B]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H5647G]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0014]]"
+- "[[H0758I]]"
+- "[[H3467]]"
+- "[[H0853]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H5750]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Chronicles 19:19**<big><big>[[1Chr.19.10 David Defeats Ammon and Aram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the servants of Hadarezer saw that they were put to the worse before Israel, they made peace with David, and became his servants: neither would the Syrians help the children of Ammon any more.
 <small><sub>**BSB:**</sub></small>
 When Hadadezer’s subjects saw that they had been defeated by Israel, they made peace with David and became subject to him. So the Arameans were unwilling to help the Ammonites anymore.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יִּרְא֞וּ]] [[H5650\|עַבְדֵ֣י]] [[H1928\|הֲדַדְעֶ֗זֶר]] [[H3588A\|כִּ֤י]] [[H5062\|נִגְּפוּ֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וַ]][[H7999B\|יַּשְׁלִ֥ימוּ]] [[H5973A\|עִם]][[H9014\|־]] [[H1732\|דָּוִ֖יד]] [[H9001\|וַ]][[H5647G\|יַּֽעַבְדֻ֑]][[H9033\|הוּ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H0014\|אָבָ֣ה]] [[H0758I\|אֲרָ֔ם]] [[H9005\|לְ]][[H3467\|הוֹשִׁ֥יעַ]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H5983\|עַמּ֖וֹן]] [[H5750\|עֽוֹד]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HADADEZER|HADADEZER]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.19.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.19.18|<< 1 Chronicles 19:18]]</td><td align="center" style="border:none;">[[1Chr.19|1 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.20.1|1 Chronicles 20:1 >>]]</td></tr></table>
 
@@ -26,7 +85,7 @@ When Hadadezer’s subjects saw that they had been defeated by Israel, they made
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ammon  |**<big>&#8207;[[H5983\|עַמּ֖וֹן]]&#8207; </big>**| a.Mon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| again  |**<big>&#8207;[[H5750\|עֽוֹד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| again  |**<big>&#8207;[[H5750\|עֽוֹד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.19.18|<< 1 Chronicles 19:18]]</td><td align="center" style="border:none;">[[1Chr.19|1 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.20.1|1 Chronicles 20:1 >>]]</td></tr></table>
 
 

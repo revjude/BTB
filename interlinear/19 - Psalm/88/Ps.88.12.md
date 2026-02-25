@@ -1,8 +1,58 @@
+---
+title: Psalm 88:12
+type: Verse
+kjv: "Shall thy wonders be known in the dark? and thy righteousness in the land of forgetfulness?"
+bsb: "Will Your wonders be known in the darkness, or Your righteousness in the land of oblivion?"
+hebrew: "הֲיִוָּדַ֣ע בַּחֹ֣שֶׁךְ פִּלְאֶ֑ךָ וְ֝צִדְקָתְךָ֗ בְּאֶ֣רֶץ נְשִׁיָּֽה׃"
+pericope: "[[Ps.88.1 I Cry Out before You|I Cry Out before You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 88
+book/chapter: "[[Ps.88|Psalm 88]]"
+chronological_order: 516
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HADES|HADES]]"
+strongs:
+- "[[H9008]]"
+- "[[H3045]]"
+- "[[H9003]]"
+- "[[H2822]]"
+- "[[H6382]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H6666]]"
+- "[[H0776G]]"
+- "[[H5388]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 88:12**<big><big>[[Ps.88.1 I Cry Out before You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall thy wonders be known in the dark? and thy righteousness in the land of forgetfulness?
 <small><sub>**BSB:**</sub></small>
 Will Your wonders be known in the darkness, or Your righteousness in the land of oblivion?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3045\|יִוָּדַ֣ע]] [[H9003\|בַּ]][[H2822\|חֹ֣שֶׁךְ]] [[H6382\|פִּלְאֶ֑]][[H9021\|ךָ]] [[H9002\|וְ֝]][[H6666\|צִדְקָתְ]][[H9021\|ךָ֗]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H5388\|נְשִׁיָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic HADES|HADES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.88.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.88.11|<< Psalms 88:11]]</td><td align="center" style="border:none;">[[Ps.88|Psalms 88]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.88.13|Psalms 88:13 >>]]</td></tr></table>
 

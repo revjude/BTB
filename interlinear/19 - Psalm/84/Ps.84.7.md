@@ -1,8 +1,55 @@
+---
+title: Psalm 84:7
+type: Verse
+kjv: "They go from strength to strength, every one of them in Zion appeareth before God."
+bsb: "They go from strength to strength, until each appears before God in Zion."
+hebrew: "יֵ֭לְכוּ מֵחַ֣יִל אֶל־ חָ֑יִל יֵרָאֶ֖ה אֶל־ אֱלֹהִ֣ים בְּצִיּֽוֹן׃"
+pericope: "[[Ps.84.1 Better Is One Day in Your Courts|Better Is One Day in Your Courts]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 84
+book/chapter: "[[Ps.84|Psalm 84]]"
+chronological_order: 514
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H1980G]]"
+- "[[H9006]]"
+- "[[H2428G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H6726]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 84:7**<big><big>[[Ps.84.1 Better Is One Day in Your Courts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They go from strength to strength, [every one of them] in Zion appeareth before God.
 <small><sub>**BSB:**</sub></small>
 They go from strength to strength, until each appears before God in Zion.
+<small><sub>**Hebrew:**</sub></small>
+[[H1980G\|יֵ֭לְכוּ]] [[H9006\|מֵ]][[H2428G\|חַ֣יִל]] [[H0413\|אֶל]][[H9014\|־]] [[H2428G\|חָ֑יִל]] [[H7200G\|יֵרָאֶ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H0430G\|אֱלֹהִ֣ים]] [[H9003\|בְּ]][[H6726\|צִיּֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.84.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.84.6|<< Psalms 84:6]]</td><td align="center" style="border:none;">[[Ps.84|Psalms 84]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.84.8|Psalms 84:8 >>]]</td></tr></table>
 

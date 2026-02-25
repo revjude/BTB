@@ -1,8 +1,48 @@
+---
+title: Job 8:1
+type: Verse
+kjv: "Then answered Bildad the Shuhite, and said,"
+bsb: "Then Bildad the Shuhite replied:"
+hebrew: "וַ֭יַּעַן בִּלְדַּ֥ד הַשּׁוּחִ֗י וַיֹאמַֽר׃"
+pericope: "[[Job.8.1 Bildad：Job Should Repent|Bildad：Job Should Repent]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 8
+book/chapter: "[[Job.8|Job 8]]"
+chronological_order: 19
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BILDAD|BILDAD]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H1085]]"
+- "[[H9009]]"
+- "[[H7747]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 8:1**<big><big>[[Job.8.1 Bildad：Job Should Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then answered Bildad the Shuhite, and said,
 <small><sub>**BSB:**</sub></small>
 Then Bildad the Shuhite replied:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֭]][[H6030B\|יַּעַן]] [[H1085\|בִּלְדַּ֥ד]] [[H9009\|הַ]][[H7747\|שּׁוּחִ֗י]] [[H9001\|וַ]][[H0559\|יֹאמַֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BILDAD|BILDAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.8.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.7.21|<< Job 7:21]]</td><td align="center" style="border:none;">[[Job.8|Job 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.2|Job 8:2 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Numbers 4:6
+type: Verse
+kjv: "And shall put thereon the covering of badgers’ skins, and shall spread over it a cloth wholly of blue, and shall put in the staves thereof."
+bsb: "They are to place over this a covering of fine leather, spread a solid blue cloth over it, and insert its poles."
+hebrew: "וְנָתְנ֣וּ עָלָ֗יו כְּסוּי֙ ע֣וֹר תַּ֔חַשׁ וּפָרְשׂ֧וּ בֶֽגֶד־ כְּלִ֛יל תְּכֵ֖לֶת מִלְמָ֑עְלָה וְשָׂמ֖וּ בַּדָּֽיו׃"
+pericope: "[[Num.4.1 The Duties of the Kohathites|The Duties of the Kohathites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 4
+book/chapter: "[[Num.4|Numbers 4]]"
+chronological_order: 163
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic ARK|ARK]]"
+- "[[topic BADGER|BADGER]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H3681]]"
+- "[[H5785]]"
+- "[[H8476]]"
+- "[[H6566]]"
+- "[[H0899B]]"
+- "[[H9014]]"
+- "[[H3632]]"
+- "[[H8504]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H7760H]]"
+- "[[H0905G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 4:6**<big><big>[[Num.4.1 The Duties of the Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And shall put thereon the covering of badgers’ skins, and shall spread over [it] a cloth wholly of blue, and shall put in the staves thereof.
 <small><sub>**BSB:**</sub></small>
 They are to place over this a covering of fine leather, spread a solid blue cloth over it, and insert its poles.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414H\|נָתְנ֣וּ]] [[H5921A\|עָלָ֗י]][[H9033\|ו]] [[H3681\|כְּסוּי֙]] [[H5785\|ע֣וֹר]] [[H8476\|תַּ֔חַשׁ]] [[H9001\|וּ]][[H6566\|פָרְשׂ֧וּ]] [[H0899B\|בֶֽגֶד]][[H9014\|־]] [[H3632\|כְּלִ֛יל]] [[H8504\|תְּכֵ֖לֶת]] [[H9006\|מִ]][[H9005\|לְ]][[H4605\|מָ֑עְלָ]][[H9011\|ה]] [[H9001\|וְ]][[H7760H\|שָׂמ֖וּ]] [[H0905G\|בַּדָּֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic ARK|ARK]] • [[topic BADGER|BADGER]] • [[topic COLORS|COLORS]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.5|<< Numbers 4:5]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.7|Numbers 4:7 >>]]</td></tr></table>
 

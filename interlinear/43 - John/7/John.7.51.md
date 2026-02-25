@@ -1,10 +1,60 @@
+---
+title: John 7:51
+type: Verse
+kjv: "Doth our law judge any man, before it hear him, and know what he doeth?"
+bsb: "“Does our law convict a man without first hearing from him to determine what he has done?”"
+greek: "μὴ ὁ νόμος ἡμῶν κρίνει τὸν ἄνθρωπον ἐὰν μὴ ἀκούσῃ πρῶτον παρ᾽ αὐτοῦ καὶ γνῷ τί ποιεῖ;¶"
+pericope: "[[John.7.45 The Unbelief of the Jewish Leaders|The Unbelief of the Jewish Leaders]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUSTICE|JUSTICE]]"
+- "[[topic NICODEMUS|NICODEMUS]]"
+- "[[topic SELF-DEFENSE|SELF-DEFENSE]]"
+- "[[topic TRIAL|TRIAL]]"
+strongs:
+- "[[G3361]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G3165]]"
+- "[[G2919]]"
+- "[[G0444]]"
+- "[[G1437]]"
+- "[[G0191]]"
+- "[[G4413G]]"
+- "[[G3844]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G1097]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 7:51**<big><big>[[John.7.45 The Unbelief of the Jewish Leaders|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Doth our law judge [any] man, before it hear him, and know what he doeth?
 <small><sub>**BSB:**</sub></small>
 “Does our law convict a man without first hearing from him to determine what he has done?”
-<small><sub>**Literal:**</sub></small>
-Surely not the law of us does judge the man only unless it shall hear first from him and may know what he does?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.50|<< John 7:50]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.52|John 7:52 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μὴ]]  [[G3588\|ὁ]]  [[G3551\|νόμος]]  [[G3165\|ἡμῶν]]  [[G2919\|κρίνει]]  [[G3588\|τὸν]]  [[G0444\|ἄνθρωπον]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G0191\|ἀκούσῃ]]  [[G4413G\|πρῶτον]]  [[G3844\|παρ᾽]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G1097\|γνῷ]]  [[G5101\|τί]]  [[G4160G\|ποιεῖ;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUSTICE|JUSTICE]] • [[topic NICODEMUS|NICODEMUS]] • [[topic SELF-DEFENSE|SELF-DEFENSE]] • [[topic TRIAL|TRIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.50|<< John 7:50]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.52|John 7:52 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

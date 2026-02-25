@@ -1,26 +1,33 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jeroboam II Succeeds Jehoash in Israel
+type: Pericope
 pericope: "[[2Kgs.14.15 Jeroboam II Succeeds Jehoash in Israel|Jeroboam II Succeeds Jehoash in Israel]]"
-verse_count: 2
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 14
 book/chapter: "[[2Kgs.14|2 Kings 14]]"
-genre:
+chronological_order: 591
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 2
 verses:
 - "[[2Kgs.14.15]]"
 - "[[2Kgs.14.16]]"
 ---
 
-[[2Kgs.14|2 Kings 14:15 - 2 Kings 14:16]]
+<small>[[2Kgs.14|2 Kings 14:15-16]]</small>
 *Jeroboam II Succeeds Jehoash in Israel*
 
 [[2Kgs.14.15|15]] Now the rest of the acts of Jehoash which he did, and his might, and how he fought with Amaziah king of Judah, \[are\] they not written in the book of the chronicles of the kings of Israel?

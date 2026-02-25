@@ -1,10 +1,72 @@
+---
+title: Acts 3:13
+type: Verse
+kjv: "The God of Abraham, and of Isaac, and of Jacob, the God of our fathers, hath glorified his Son Jesus; whom ye delivered up, and denied him in the presence of Pilate, when he was determined to let him go."
+bsb: "The God of Abraham, Isaac, and Jacob, the God of our fathers, has glorified His servant Jesus. You handed Him over and rejected Him before Pilate, even though he had decided to release Him."
+greek: "ὁ θεὸς Ἀβραὰμ καὶ ὁ θεὸς Ἰσαὰκ καὶ ὁ θεὸς Ἰακώβ, ὁ θεὸς τῶν πατέρων ἡμῶν, ἐδόξασεν τὸν παῖδα αὐτοῦ Ἰησοῦν ὃν ὑμεῖς μὲν παρεδώκατε καὶ ἠρνήσασθε αὐτὸν κατὰ πρόσωπον Πιλάτου κρίναντος ἐκείνου ἀπολύειν·"
+pericope: "[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|Peter Speaks in Solomon’s Colonnade]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 3
+book/chapter: "[[Acts.3|Acts 3]]"
+chronological_order: 1021
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PILATE, PONTIUS|PILATE, PONTIUS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G0011]]"
+- "[[G2532]]"
+- "[[G2464]]"
+- "[[G2384G]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G1392]]"
+- "[[G3816]]"
+- "[[G0846]]"
+- "[[G2424G]]"
+- "[[G3739]]"
+- "[[G4771]]"
+- "[[G3303]]"
+- "[[G3860]]"
+- "[[G0720]]"
+- "[[G2596]]"
+- "[[G4383]]"
+- "[[G4091]]"
+- "[[G2919]]"
+- "[[G1565]]"
+- "[[G0630G]]"
+texts:
+- NKO
+- n
+- no
+- ko
+---
+
 **Acts 3:13**<big><big>[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The God of Abraham, and of Isaac, and of Jacob, the God of our fathers, hath glorified his Son Jesus; whom ye delivered up, and denied him in the presence of Pilate, when he was determined to let [him] go.
 <small><sub>**BSB:**</sub></small>
 The God of Abraham, Isaac, and Jacob, the God of our fathers, has glorified His servant Jesus. You handed Him over and rejected Him before Pilate, even though he had decided to release Him.
-<small><sub>**Literal:**</sub></small>
-The God of Abraham and the God of Isaac and the God of Jacob, the God of the fathers of us, has glorified the servant of Him Jesus whom you yourselves indeed delivered up and disowned him in [the] presence of Pilate having adjudged that one to release;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.12|<< Acts 3:12]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.14|Acts 3:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G0011\|Ἀβραὰμ]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G2464\|Ἰσαὰκ]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G2384G\|Ἰακώβ,]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τῶν]]  [[G3962\|πατέρων]]  [[G3165\|ἡμῶν,]]  [[G1392\|ἐδόξασεν]]  [[G3588\|τὸν]]  [[G3816\|παῖδα]]  [[G0846\|αὐτοῦ]]  [[G2424G\|Ἰησοῦν]]  [[G3739\|ὃν]]  [[G4771\|ὑμεῖς]]  [[G3303\|μὲν]]  [[G3860\|παρεδώκατε]]  [[G2532\|καὶ]]  [[G0720\|ἠρνήσασθε]]  [[G0846\|αὐτὸν]]  [[G2596\|κατὰ]]  [[G4383\|πρόσωπον]]  [[G4091\|Πιλάτου]]  [[G2919\|κρίναντος]]  [[G1565\|ἐκείνου]]  [[G0630G\|ἀπολύειν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURAGE|COURAGE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PILATE, PONTIUS|PILATE, PONTIUS]] • [[topic TEMPLE|TEMPLE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.12|<< Acts 3:12]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.14|Acts 3:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 3:13** is...
 > $\quad$ referencing: [[LXX.Exod.3.6|Exod 3:6]] ☩ [[LXX.Exod.3.15|Exod 3:15]]

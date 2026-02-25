@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hagar and Ishmael
+type: Pericope
 pericope: "[[Gen.16.1 Hagar and Ishmael|Hagar and Ishmael]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 16
 book/chapter: "[[Gen.16|Genesis 16]]"
-genre:
+chronological_order: 58
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 16
 verses:
 - "[[Gen.16.1]]"
 - "[[Gen.16.2]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Gen.16.16]]"
 ---
 
-[[Gen.16|Genesis 16:1 - Genesis 16:16]]
+<small>[[Gen.16|Genesis 16:1-16]]</small>
 *Hagar and Ishmael*
 
 [[Gen.16.1|1]] Now Sarai Abram’s wife bare him no children: and she had an handmaid, an Egyptian, whose name \[was\] Hagar.

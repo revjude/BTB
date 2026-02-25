@@ -1,8 +1,51 @@
+---
+title: Proverbs 27:7
+type: Verse
+kjv: "The full soul loatheth an honeycomb; but to the hungry soul every bitter thing is sweet."
+bsb: "The soul that is full loathes honey, but to a hungry soul, any bitter thing is sweet."
+hebrew: "נֶ֣פֶשׁ שְׂ֭בֵעָה תָּב֣וּס נֹ֑פֶת וְנֶ֥פֶשׁ רְ֝עֵבָ֗ה כָּל־ מַ֥ר מָתֽוֹק׃"
+pericope: "[[Prov.27.1 Do Not Boast about Tomorrow|Do Not Boast about Tomorrow]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 27
+book/chapter: "[[Prov.27|Proverbs 27]]"
+chronological_order: 482
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H5315J]]"
+- "[[H7649]]"
+- "[[H0947]]"
+- "[[H5317]]"
+- "[[H9002]]"
+- "[[H7457]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4751]]"
+- "[[H4966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 27:7**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The full soul loatheth an honeycomb; but to the hungry soul every bitter thing is sweet.
 <small><sub>**BSB:**</sub></small>
 The soul that is full loathes honey, but to a hungry soul, any bitter thing is sweet.
+<small><sub>**Hebrew:**</sub></small>
+[[H5315J\|נֶ֣פֶשׁ]] [[H7649\|שְׂ֭בֵעָה]] [[H0947\|תָּב֣וּס]] [[H5317\|נֹ֑פֶת]] [[H9002\|וְ]][[H5315J\|נֶ֥פֶשׁ]] [[H7457\|רְ֝עֵבָ֗ה]] [[H3605\|כָּל]][[H9014\|־]] [[H4751\|מַ֥ר]] [[H4966\|מָתֽוֹק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.6|<< Proverbs 27:6]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.8|Proverbs 27:8 >>]]</td></tr></table>
 

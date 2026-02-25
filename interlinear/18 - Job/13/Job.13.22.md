@@ -1,8 +1,51 @@
+---
+title: Job 13:22
+type: Verse
+kjv: "Then call thou, and I will answer: or let me speak, and answer thou me."
+bsb: "Then call me, and I will answer, or let me speak, and You can reply."
+hebrew: "וּ֭קְרָא וְאָנֹכִ֣י אֶֽעֱנֶ֑ה אֽוֹ־ אֲ֝דַבֵּ֗ר וַהֲשִׁיבֵֽנִי׃"
+pericope: "[[Job.13.1 Job Prepares His Case|Job Prepares His Case]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 13
+book/chapter: "[[Job.13|Job 13]]"
+chronological_order: 24
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic REASONING|REASONING]]"
+strongs:
+- "[[H9002]]"
+- "[[H7121G]]"
+- "[[H0595]]"
+- "[[H6030B]]"
+- "[[H0176A]]"
+- "[[H9014]]"
+- "[[H1696G]]"
+- "[[H7725M]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 13:22**<big><big>[[Job.13.1 Job Prepares His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then call thou, and I will answer: or let me speak, and answer thou me.
 <small><sub>**BSB:**</sub></small>
 Then call me, and I will answer, or let me speak, and You can reply.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ֭]][[H7121G\|קְרָא]] [[H9002\|וְ]][[H0595\|אָנֹכִ֣י]] [[H6030B\|אֶֽעֱנֶ֑ה]] [[H0176A\|אֽוֹ]][[H9014\|־]] [[H1696G\|אֲ֝דַבֵּ֗ר]] [[H9002\|וַ]][[H7725M\|הֲשִׁיבֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REASONING|REASONING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.13.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.13.21|<< Job 13:21]]</td><td align="center" style="border:none;">[[Job.13|Job 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13.23|Job 13:23 >>]]</td></tr></table>
 

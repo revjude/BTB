@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jonah’s Prayer
+type: Pericope
 pericope: "[[Jonah.2.1 Jonah’s Prayer|Jonah’s Prayer]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Jonah
 chapter: 2
 book/chapter: "[[Jonah.2|Jonah 2]]"
-genre:
+chronological_order: 595
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
 - latter prophets
 - minor prophets
 - narrative
 - prophetic narrative
 - parable
+verse_count: 10
 verses:
 - "[[Jonah.2.1]]"
 - "[[Jonah.2.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Jonah.2.10]]"
 ---
 
-[[Jonah.2|Jonah 2:1 - Jonah 2:10]]
+<small>[[Jonah.2|Jonah 2:1-10]]</small>
 *Jonah’s Prayer*
 
 [[Jonah.2.1|1]] Then Jonah prayed unto the LORD his God out of the fish’s belly,

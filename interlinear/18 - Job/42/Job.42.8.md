@@ -1,8 +1,81 @@
+---
+title: Job 42:8
+type: Verse
+kjv: "Therefore take unto you now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for you: for him will I accept: lest I deal with you after your folly, in that ye have not spoken of me the thing which is right, like my servant Job."
+bsb: "So now, take seven bulls and seven rams, go to My servant Job, and sacrifice a burnt offering for yourselves. Then My servant Job will pray for you, for I will accept his prayer and not deal with you according to your folly. For you have not spoken accurately about Me, as My servant Job has.”"
+hebrew: "וְעַתָּ֡ה קְחֽוּ־ לָכֶ֣ם שִׁבְעָֽה־ פָרִים֩ וְשִׁבְעָ֨ה אֵילִ֜ים וּלְכ֣וּ׀ אֶל־ עַבְדִּ֣י אִיּ֗וֹב וְהַעֲלִיתֶ֤ם עוֹלָה֙ בַּֽעַדְכֶ֔ם וְאִיּ֣וֹב עַבְדִּ֔י יִתְפַּלֵּ֖ל עֲלֵיכֶ֑ם כִּ֧י אִם־ פָּנָ֣יו אֶשָּׂ֗א לְבִלְתִּ֞י עֲשׂ֤וֹת עִמָּכֶם֙ נְבָלָ֔ה כִּ֠י לֹ֣א דִבַּרְתֶּ֥ם אֵלַ֛י נְכוֹנָ֖ה כְּעַבְדִּ֥י אִיּֽוֹב׃"
+pericope: "[[Job.42.7 The LORD Rebukes Job’s Friends|The LORD Rebukes Job’s Friends]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 42
+book/chapter: "[[Job.42|Job 42]]"
+chronological_order: 53
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ELIPHAZ|ELIPHAZ]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+- "[[topic ZOPHAR|ZOPHAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H3947G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H7651]]"
+- "[[H6499]]"
+- "[[H0352A]]"
+- "[[H1980G]]"
+- "[[H9015]]"
+- "[[H0413]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H0347]]"
+- "[[H9001]]"
+- "[[H5927I]]"
+- "[[H5930A]]"
+- "[[H1157]]"
+- "[[H6419]]"
+- "[[H5921A]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H6440N]]"
+- "[[H9023]]"
+- "[[H5375Q]]"
+- "[[H1115]]"
+- "[[H6213A]]"
+- "[[H5973A]]"
+- "[[H5039]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H1696G]]"
+- "[[H9030]]"
+- "[[H3559K]]"
+- "[[H9004]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 42:8**<big><big>[[Job.42.7 The LORD Rebukes Job’s Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore take unto you now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for you: for him will I accept: lest I deal with you [after your] folly, in that ye have not spoken of me [the thing which is] right, like my servant Job.
 <small><sub>**BSB:**</sub></small>
 So now, take seven bulls and seven rams, go to My servant Job, and sacrifice a burnt offering for yourselves. Then My servant Job will pray for you, for I will accept his prayer and not deal with you according to your folly. For you have not spoken accurately about Me, as My servant Job has.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֡ה]] [[H3947G\|קְחֽוּ]][[H9014\|־]] [[H9005\|לָ]][[H9036\|כֶ֣ם]] [[H7651\|שִׁבְעָֽה]][[H9014\|־]] [[H6499\|פָרִים֩]] [[H9002\|וְ]][[H7651\|שִׁבְעָ֨ה]] [[H0352A\|אֵילִ֜ים]] [[H9002\|וּ]][[H1980G\|לְכ֣וּ]][[H9015\|׀]] [[H0413\|אֶל]][[H9014\|־]] [[H5650\|עַבְדִּ֣]][[H9020\|י]] [[H0347\|אִיּ֗וֹב]] [[H9001\|וְ]][[H5927I\|הַעֲלִיתֶ֤ם]] [[H5930A\|עוֹלָה֙]] [[H1157\|בַּֽעַדְ]][[H9036\|כֶ֔ם]] [[H9002\|וְ]][[H0347\|אִיּ֣וֹב]] [[H5650\|עַבְדִּ֔]][[H9020\|י]] [[H6419\|יִתְפַּלֵּ֖ל]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֑ם]] [[H3588B\|כִּ֧י]] [[H0518B\|אִם]][[H9014\|־]] [[H6440N\|פָּנָ֣י]][[H9023\|ו]] [[H5375Q\|אֶשָּׂ֗א]] [[H9005\|לְ]][[H1115\|בִלְתִּ֞י]] [[H6213A\|עֲשׂ֤וֹת]] [[H5973A\|עִמָּ]][[H9036\|כֶם֙]] [[H5039\|נְבָלָ֔ה]] [[H3588A\|כִּ֠י]] [[H3808\|לֹ֣א]] [[H1696G\|דִבַּרְתֶּ֥ם]] [[H0413\|אֵלַ֛]][[H9030\|י]] [[H3559K\|נְכוֹנָ֖ה]] [[H9004\|כְּ]][[H5650\|עַבְדִּ֥]][[H9020\|י]] [[H0347\|אִיּֽוֹב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIPHAZ|ELIPHAZ]] • [[topic INTERCESSION|INTERCESSION]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]] • [[topic ZOPHAR|ZOPHAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.42.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.42.7|<< Job 42:7]]</td><td align="center" style="border:none;">[[Job.42|Job 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.9|Job 42:9 >>]]</td></tr></table>
 

@@ -1,8 +1,51 @@
+---
+title: Job 6:18
+type: Verse
+kjv: "The paths of their way are turned aside; they go to nothing, and perish."
+bsb: "Caravans turn aside from their routes; they go into the wasteland and perish."
+hebrew: "יִ֭לָּ֣פְתוּ אָרְח֣וֹת דַּרְכָּ֑ם יַעֲל֖וּ בַתֹּ֣הוּ וְיֹאבֵֽדוּ׃"
+pericope: "[[Job.6.1 Job Replies：My Complaint Is Just|Job Replies：My Complaint Is Just]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 6
+book/chapter: "[[Job.6|Job 6]]"
+chronological_order: 17
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H3943]]"
+- "[[H0734]]"
+- "[[H1870L]]"
+- "[[H9028]]"
+- "[[H5927G]]"
+- "[[H9003]]"
+- "[[H8414]]"
+- "[[H9002]]"
+- "[[H0006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 6:18**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The paths of their way are turned aside; they go to nothing, and perish.
 <small><sub>**BSB:**</sub></small>
 Caravans turn aside from their routes; they go into the wasteland and perish.
+<small><sub>**Hebrew:**</sub></small>
+[[H3943\|יִ֭לָּ֣פְתוּ]] [[H0734\|אָרְח֣וֹת]] [[H1870L\|דַּרְכָּ֑]][[H9028\|ם]] [[H5927G\|יַעֲל֖וּ]] [[H9003\|בַ]][[H8414\|תֹּ֣הוּ]] [[H9002\|וְ]][[H0006\|יֹאבֵֽדוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.17|<< Job 6:17]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.19|Job 6:19 >>]]</td></tr></table>
 

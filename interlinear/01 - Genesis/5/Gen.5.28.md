@@ -1,8 +1,56 @@
+---
+title: Genesis 5:28
+type: Verse
+kjv: "And Lamech lived an hundred eighty and two years, and begat a son:"
+bsb: "When Lamech was 182 years old, he had a son."
+hebrew: "וַֽיְחִי־ לֶ֕מֶךְ שְׁתַּ֧יִם וּשְׁמֹנִ֛ים שָׁנָ֖ה וּמְאַ֣ת שָׁנָ֑ה וַיּ֖וֹלֶד בֵּֽן׃"
+pericope: "[[Gen.5.25 From Methuselah to Noah|From Methuselah to Noah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 5
+book/chapter: "[[Gen.5|Genesis 5]]"
+chronological_order: 5
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic LAMECH|LAMECH]]"
+- "[[topic NOAH|NOAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H2421]]"
+- "[[H9014]]"
+- "[[H3929H]]"
+- "[[H8147]]"
+- "[[H9002]]"
+- "[[H8084]]"
+- "[[H8141]]"
+- "[[H3967]]"
+- "[[H3205]]"
+- "[[H1121A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 5:28**<big><big>[[Gen.5.25 From Methuselah to Noah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Lamech lived an hundred eighty and two years, and begat a son:
 <small><sub>**BSB:**</sub></small>
 When Lamech was 182 years old, he had a son.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H2421\|יְחִי]][[H9014\|־]] [[H3929H\|לֶ֕מֶךְ]] [[H8147\|שְׁתַּ֧יִם]] [[H9002\|וּ]][[H8084\|שְׁמֹנִ֛ים]] [[H8141\|שָׁנָ֖ה]] [[H9002\|וּ]][[H3967\|מְאַ֣ת]] [[H8141\|שָׁנָ֑ה]] [[H9001\|וַ]][[H3205\|יּ֖וֹלֶד]] [[H1121A\|בֵּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LAMECH|LAMECH]] • [[topic NOAH|NOAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.5.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.27|<< Genesis 5:27]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.29|Genesis 5:29 >>]]</td></tr></table>
 

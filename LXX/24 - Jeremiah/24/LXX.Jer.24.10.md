@@ -1,6 +1,62 @@
+---
+title: LXX Jeremiah 24:10
+type: Verse
+lxx: "And I will send against them the famine, and the plague, and the sword, until whenever they should fail from the land which I gave to them, and to their fathers."
+greek: "και αποστελώ εις αυτούς τον λιμόν και τον θάνατον και την μάχαιραν έως αν εκλείπωσιν από της γης ην έδωκα αυτοίς και τοις πατράσιν αυτών"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 24
+book/chapter: "[[Jer.24|Jeremiah 24]]"
+chronological_order: 747
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[G2532]]"
+- "[[G0649]]"
+- "[[G1519]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G3042]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2288]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3162]]"
+- "[[G2193]]"
+- "[[G0302]]"
+- "[[G1587]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G3739]]"
+- "[[G1325]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+---
+
 **LXX Jeremiah 24:10** 
 <small><sub>**LXX:**</sub></small>
 And I will send against them the famine, and the plague, and the sword, until whenever they should fail from the land which I gave to them, and \[to\] their fathers. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0649\|αποστελώ]] [[G1519\|εις]] [[G1473\|αυτούς]] [[G3588\|τον]] [[G3042\|λιμόν]] [[G2532\|και]] [[G3588\|τον]] [[G2288\|θάνατον]] [[G2532\|και]] [[G3588\|την]] [[G3162\|μάχαιραν]] [[G2193\|έως]] [[G0302\|αν]] [[G1587\|εκλείπωσιν]] [[G0575\|από]] [[G3588\|της]] [[G1093\|γης]] [[G3739\|ην]] [[G1325\|έδωκα]] [[G1473\|αυτοίς]] [[G2532\|και]] [[G3588\|τοις]] [[G3962\|πατράσιν]] [[G1473\|αυτών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.24.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.24.9|<< Jeremiah 24:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.1|Jeremiah 25:1 >>]]</td></tr></table>
 
@@ -30,6 +86,6 @@ And I will send against them the famine, and the plague, and the sword, until wh
 | and | **<big>[[G2532\|και]]</big>** |
 | \[to\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
 | their fathers. | **<big>[[G3962\|πατράσιν]]</big>** **<big>[[G1473\|αυτών]]</big>** |
-[[Jer.24.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.24.9|<< Jeremiah 24:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.1|Jeremiah 25:1 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.24.9|<< Jeremiah 24:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.1|Jeremiah 25:1 >>]]</td></tr></table>
 
 

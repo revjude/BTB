@@ -1,8 +1,60 @@
+---
+title: Deuteronomy 10:14
+type: Verse
+kjv: "Behold, the heaven and the heaven of heavens is the LORD’S thy God, the earth also, with all that therein is."
+bsb: "Behold, to the LORD your God belong the heavens, even the highest heavens, and the earth and everything in it."
+hebrew: "הֵ֚ן לַיהוָ֣ה אֱלֹהֶ֔יךָ הַשָּׁמַ֖יִם וּשְׁמֵ֣י הַשָּׁמָ֑יִם הָאָ֖רֶץ וְכָל־ אֲשֶׁר־ בָּֽהּ׃"
+pericope: "[[Deut.10.12 A Call to Obedience|A Call to Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 10
+book/chapter: "[[Deut.10|Deuteronomy 10]]"
+chronological_order: 206
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H2005]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 10:14**<big><big>[[Deut.10.12 A Call to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the heaven and the heaven of heavens [is] the LORD’S thy God, the earth [also], with all that therein [is].
 <small><sub>**BSB:**</sub></small>
 Behold, to the LORD your God belong the heavens, even the highest heavens, and the earth and everything in it.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵ֚ן]] [[H9005\|לַ]][[H3068G\|יהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H9009\|הַ]][[H8064\|שָּׁמַ֖יִם]] [[H9002\|וּ]][[H8064\|שְׁמֵ֣י]] [[H9009\|הַ]][[H8064\|שָּׁמָ֑יִם]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.13|<< Deuteronomy 10:13]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.15|Deuteronomy 10:15 >>]]</td></tr></table>
 

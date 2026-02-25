@@ -1,8 +1,67 @@
+---
+title: Genesis 4:23
+type: Verse
+kjv: "And Lamech said unto his wives, Adah and Zillah, Hear my voice; ye wives of Lamech, hearken unto my speech: for I have slain a man to my wounding, and a young man to my hurt."
+bsb: "Then Lamech said to his wives: “Adah and Zillah, hear my voice; wives of Lamech, listen to my speech. For I have slain a man for wounding me, a young man for striking me."
+hebrew: "וַיֹּ֨אמֶר לֶ֜מֶךְ לְנָשָׁ֗יו עָדָ֤ה וְצִלָּה֙ שְׁמַ֣עַן קוֹלִ֔י נְשֵׁ֣י לֶ֔מֶךְ הַאְזֵ֖נָּה אִמְרָתִ֑י כִּ֣י אִ֤ישׁ הָרַ֙גְתִּי֙ לְפִצְעִ֔י וְיֶ֖לֶד לְחַבֻּרָתִֽי׃"
+pericope: "[[Gen.4.17 The Descendants of Cain|The Descendants of Cain]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 4
+book/chapter: "[[Gen.4|Genesis 4]]"
+chronological_order: 4
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADAH|ADAH]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic LAMECH|LAMECH]]"
+- "[[topic ZILLAH|ZILLAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3929G]]"
+- "[[H9005]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H5711G]]"
+- "[[H9002]]"
+- "[[H6741]]"
+- "[[H8085G]]"
+- "[[H6963A]]"
+- "[[H9020]]"
+- "[[H0238]]"
+- "[[H0565A]]"
+- "[[H3588A]]"
+- "[[H0376G]]"
+- "[[H2026]]"
+- "[[H6482]]"
+- "[[H3206]]"
+- "[[H2250]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 4:23**<big><big>[[Gen.4.17 The Descendants of Cain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Lamech said unto his wives, Adah and Zillah, Hear my voice; ye wives of Lamech, hearken unto my speech: for I have slain a man to my wounding, and a young man to my hurt.
 <small><sub>**BSB:**</sub></small>
 Then Lamech said to his wives: “Adah and Zillah, hear my voice; wives of Lamech, listen to my speech. For I have slain a man for wounding me, a young man for striking me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3929G\|לֶ֜מֶךְ]] [[H9005\|לְ]][[H0802H\|נָשָׁ֗י]][[H9023\|ו]] [[H5711G\|עָדָ֤ה]] [[H9002\|וְ]][[H6741\|צִלָּה֙]] [[H8085G\|שְׁמַ֣עַן]] [[H6963A\|קוֹלִ֔]][[H9020\|י]] [[H0802H\|נְשֵׁ֣י]] [[H3929G\|לֶ֔מֶךְ]] [[H0238\|הַאְזֵ֖נָּה]] [[H0565A\|אִמְרָתִ֑]][[H9020\|י]] [[H3588A\|כִּ֣י]] [[H0376G\|אִ֤ישׁ]] [[H2026\|הָרַ֙גְתִּי֙]] [[H9005\|לְ]][[H6482\|פִצְעִ֔]][[H9020\|י]] [[H9002\|וְ]][[H3206\|יֶ֖לֶד]] [[H9005\|לְ]][[H2250\|חַבֻּרָתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAH|ADAH]] • [[topic HOMICIDE|HOMICIDE]] • [[topic LAMECH|LAMECH]] • [[topic ZILLAH|ZILLAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.4.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.22|<< Genesis 4:22]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.24|Genesis 4:24 >>]]</td></tr></table>
 

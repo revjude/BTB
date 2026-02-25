@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Fifth Trumpet
+type: Pericope
 pericope: "[[Rev.9.1 The Fifth Trumpet|The Fifth Trumpet]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 9
 book/chapter: "[[Rev.9|Revelation 9]]"
-genre:
+chronological_order: 1176
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 12
 verses:
 - "[[Rev.9.1]]"
 - "[[Rev.9.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Rev.9.12]]"
 ---
 
-[[Rev.9|Revelation 9:1 - Revelation 9:12]]
+<small>[[Rev.9|Revelation 9:1-12]]</small>
 *The Fifth Trumpet*
 
 [[Rev.9.1|1]] And the fifth angel sounded, and I saw a star fall from heaven unto the earth: and to him was given the key of the bottomless pit.

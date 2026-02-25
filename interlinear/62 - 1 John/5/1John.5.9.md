@@ -1,10 +1,57 @@
+---
+title: 1 John 5:9
+type: Verse
+kjv: "If we receive the witness of men, the witness of God is greater: for this is the witness of God which he hath testified of his Son."
+bsb: "Even if we accept human testimony, the testimony of God is greater. For this is the testimony that God has given about His Son."
+greek: "εἰ τὴν μαρτυρίαν τῶν ἀνθρώπων λαμβάνομεν, ἡ μαρτυρία τοῦ θεοῦ μείζων ἐστίν, ὅτι αὕτη ἐστὶν ἡ μαρτυρία τοῦ θεοῦ ὅτι μεμαρτύρηκεν περὶ τοῦ υἱοῦ αὐτοῦ."
+pericope: "[[1John.5.9 God’s Testimony about His Son|God’s Testimony about His Son]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 5
+book/chapter: "[[1John.5|1 John 5]]"
+chronological_order: 1165
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G1487G]]"
+- "[[G3588]]"
+- "[[G3141]]"
+- "[[G0444]]"
+- "[[G2983]]"
+- "[[G2316]]"
+- "[[G3173]]"
+- "[[G1510]]"
+- "[[G3754H]]"
+- "[[G3778]]"
+- "[[G3754G]]"
+- "[[G3140]]"
+- "[[G4012]]"
+- "[[G5207]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 John 5:9**<big><big>[[1John.5.9 God’s Testimony about His Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If we receive the witness of men, the witness of God is greater: for this is the witness of God which he hath testified of his Son.
 <small><sub>**BSB:**</sub></small>
 Even if we accept human testimony, the testimony of God is greater. For this is the testimony that God has given about His Son.
-<small><sub>**Literal:**</sub></small>
-If the testimony <the> of men we receive, the testimony <the> of God greater is, For this is the testimony <the> of God that He has testified concerning the Son of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.8|<< 1 John 5:8]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.10|1 John 5:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G3588\|τὴν]]  [[G3141\|μαρτυρίαν]]  [[G3588\|τῶν]]  [[G0444\|ἀνθρώπων]]  [[G2983\|λαμβάνομεν,]]  [[G3588\|ἡ]]  [[G3141\|μαρτυρία]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3173\|μείζων]]  [[G1510\|ἐστίν,]]  [[G3754H\|ὅτι]]  [[G3778\|αὕτη]]  [[G1510\|ἐστὶν]]  [[G3588\|ἡ]]  [[G3141\|μαρτυρία]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3754G\|ὅτι]]  [[G3140\|μεμαρτύρηκεν]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G5207\|υἱοῦ]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.8|<< 1 John 5:8]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.10|1 John 5:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

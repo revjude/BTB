@@ -1,8 +1,66 @@
+---
+title: Isaiah 7:18
+type: Verse
+kjv: "And it shall come to pass in that day, that the LORD shall hiss for the fly that is in the uttermost part of the rivers of Egypt, and for the bee that is in the land of Assyria."
+bsb: "On that day the LORD will whistle to the flies at the farthest streams of the Nile and to the bees in the land of Assyria."
+hebrew: "וְהָיָ֣ה׀ בַּיּ֣וֹם הַה֗וּא יִשְׁרֹ֤ק יְהוָה֙ לַזְּב֔וּב אֲשֶׁ֥ר בִּקְצֵ֖ה יְאֹרֵ֣י מִצְרָ֑יִם וְלַ֨דְּבוֹרָ֔ה אֲשֶׁ֖ר בְּאֶ֥רֶץ אַשּֽׁוּר׃"
+pericope: "[[Isa.7.17 Judgment to Come|Judgment to Come]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 7
+book/chapter: "[[Isa.7|Isaiah 7]]"
+chronological_order: 617
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AHAZ|AHAZ]]"
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BEE|BEE]]"
+- "[[topic FLIES|FLIES]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H8319]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H2070]]"
+- "[[H0834A]]"
+- "[[H7097A]]"
+- "[[H2975H]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H1682]]"
+- "[[H0776G]]"
+- "[[H0804G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 7:18**<big><big>[[Isa.7.17 Judgment to Come|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass in that day, [that] the LORD shall hiss for the fly that [is] in the uttermost part of the rivers of Egypt, and for the bee that [is] in the land of Assyria.
 <small><sub>**BSB:**</sub></small>
 On that day the LORD will whistle to the flies at the farthest streams of the Nile and to the bees in the land of Assyria.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֣ה]][[H9015\|׀]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֗וּא]] [[H8319\|יִשְׁרֹ֤ק]] [[H3068G\|יְהוָה֙]] [[H9005\|לַ]][[H2070\|זְּב֔וּב]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בִּ]][[H7097A\|קְצֵ֖ה]] [[H2975H\|יְאֹרֵ֣י]] [[H4714G\|מִצְרָ֑יִם]] [[H9002\|וְ]][[H9005\|לַ֨]][[H1682\|דְּבוֹרָ֔ה]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H0804G\|אַשּֽׁוּר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZ|AHAZ]] • [[topic ASSYRIA|ASSYRIA]] • [[topic BEE|BEE]] • [[topic FLIES|FLIES]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.7.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.7.17|<< Isaiah 7:17]]</td><td align="center" style="border:none;">[[Isa.7|Isaiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.19|Isaiah 7:19 >>]]</td></tr></table>
 

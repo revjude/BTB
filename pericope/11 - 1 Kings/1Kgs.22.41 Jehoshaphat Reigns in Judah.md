@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jehoshaphat Reigns in Judah
+type: Pericope
 pericope: "[[1Kgs.22.41 Jehoshaphat Reigns in Judah|Jehoshaphat Reigns in Judah]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 22
 book/chapter: "[[1Kgs.22|1 Kings 22]]"
-genre:
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 10
 verses:
 - "[[1Kgs.22.41]]"
 - "[[1Kgs.22.42]]"
@@ -30,7 +37,7 @@ verses:
 - "[[1Kgs.22.50]]"
 ---
 
-[[1Kgs.22|1 Kings 22:41 - 1 Kings 22:50]]
+<small>[[1Kgs.22|1 Kings 22:41-50]]</small>
 *Jehoshaphat Reigns in Judah*
 
 [[1Kgs.22.41|41]] And Jehoshaphat the son of Asa began to reign over Judah in the fourth year of Ahab king of Israel.

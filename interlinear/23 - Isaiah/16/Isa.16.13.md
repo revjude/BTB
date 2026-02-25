@@ -1,8 +1,49 @@
+---
+title: Isaiah 16:13
+type: Verse
+kjv: "This is the word that the LORD hath spoken concerning Moab since that time."
+bsb: "This is the message that the LORD spoke earlier concerning Moab."
+hebrew: "זֶ֣ה הַדָּבָ֗ר אֲשֶׁ֨ר דִּבֶּ֧ר יְהוָ֛ה אֶל־ מוֹאָ֖ב מֵאָֽז׃"
+pericope: "[[Isa.16.1 Moab’s Destruction|Moab’s Destruction]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 16
+book/chapter: "[[Isa.16|Isaiah 16]]"
+chronological_order: 633
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+strongs:
+- "[[H2088]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4124G]]"
+- "[[H9006]]"
+- "[[H0227B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 16:13**<big><big>[[Isa.16.1 Moab’s Destruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the word that the LORD hath spoken concerning Moab since that time.
 <small><sub>**BSB:**</sub></small>
 This is the message that the LORD spoke earlier concerning Moab.
+<small><sub>**Hebrew:**</sub></small>
+[[H2088\|זֶ֣ה]] [[H9009\|הַ]][[H1697G\|דָּבָ֗ר]] [[H0834A\|אֲשֶׁ֨ר]] [[H1696G\|דִּבֶּ֧ר]] [[H3068G\|יְהוָ֛ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4124G\|מוֹאָ֖ב]] [[H9006\|מֵ]][[H0227B\|אָֽז]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.16.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.12|<< Isaiah 16:12]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.14|Isaiah 16:14 >>]]</td></tr></table>
 

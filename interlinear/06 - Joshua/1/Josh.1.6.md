@@ -1,8 +1,66 @@
+---
+title: Joshua 1:6
+type: Verse
+kjv: "Be strong and of a good courage: for unto this people shalt thou divide for an inheritance the land, which I sware unto their fathers to give them."
+bsb: "Be strong and courageous, for you shall give these people the inheritance of the land that I swore to their fathers I would give them."
+hebrew: "חֲזַ֖ק וֶאֱמָ֑ץ כִּ֣י אַתָּ֗ה תַּנְחִיל֙ אֶת־ הָעָ֣ם הַזֶּ֔ה אֶת־ הָאָ֕רֶץ אֲשֶׁר־ נִשְׁבַּ֥עְתִּי לַאֲבוֹתָ֖ם לָתֵ֥ת לָהֶֽם׃"
+pericope: "[[Josh.1.1 God Instructs Joshua|God Instructs Joshua]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 1
+book/chapter: "[[Josh.1|Joshua 1]]"
+chronological_order: 231
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H2388G]]"
+- "[[H9002]]"
+- "[[H0553]]"
+- "[[H3588A]]"
+- "[[H0859A]]"
+- "[[H5157]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 1:6**<big><big>[[Josh.1.1 God Instructs Joshua|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be strong and of a good courage: for unto this people shalt thou divide for an inheritance the land, which I sware unto their fathers to give them.
 <small><sub>**BSB:**</sub></small>
 Be strong and courageous, for you shall give these people the inheritance of the land that I swore to their fathers I would give them.
+<small><sub>**Hebrew:**</sub></small>
+[[H2388G\|חֲזַ֖ק]] [[H9002\|וֶ]][[H0553\|אֱמָ֑ץ]] [[H3588A\|כִּ֣י]] [[H0859A\|אַתָּ֗ה]] [[H5157\|תַּנְחִיל֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֕רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7650\|נִשְׁבַּ֥עְתִּי]] [[H9005\|לַ]][[H0001G\|אֲבוֹתָ֖]][[H9028\|ם]] [[H9005\|לָ]][[H5414G\|תֵ֥ת]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic COMMUNION|COMMUNION]] • [[topic COURAGE|COURAGE]] • [[topic FAITH|FAITH]] • [[topic JOSHUA|JOSHUA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.1.5|<< Joshua 1:5]]</td><td align="center" style="border:none;">[[Josh.1|Joshua 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.1.7|Joshua 1:7 >>]]</td></tr></table>
 

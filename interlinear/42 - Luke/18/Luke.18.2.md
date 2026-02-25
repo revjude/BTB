@@ -1,10 +1,57 @@
+---
+title: Luke 18:2
+type: Verse
+kjv: "Saying, There was in a city a judge, which feared not God, neither regarded man:"
+bsb: "“In a certain town there was a judge who neither feared God nor respected men."
+jesus_said: "There was in a city a judge, which feared not God, neither regarded man:"
+greek: "λέγων· κριτής τις ἦν ἔν τινι πόλει τὸν θεὸν μὴ φοβούμενος καὶ ἄνθρωπον μὴ ἐντρεπόμενος."
+pericope: "[[Luke.18.1 The Parable of the Persistent Widow|The Parable of the Persistent Widow]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 18
+book/chapter: "[[Luke.18|Luke 18]]"
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G3004G]]"
+- "[[G2923]]"
+- "[[G5100]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G4172]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3361]]"
+- "[[G5399]]"
+- "[[G2532]]"
+- "[[G0444]]"
+- "[[G1788]]"
+texts:
+- NKO
+---
+
 **Luke 18:2**<big><big>[[Luke.18.1 The Parable of the Persistent Widow|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Saying, There was in a city a judge, which feared not God, neither regarded man:
 <small><sub>**BSB:**</sub></small>
 “In a certain town there was a judge who neither feared God nor respected men.
-<small><sub>**Literal:**</sub></small>
-saying; A judge certain there was in a certain city <the> God not fearing and man not respecting.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.1|<< Luke 18:1]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.3|Luke 18:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγων·]]  [[G2923\|κριτής]]  [[G5100\|τις]]  [[G1510\|ἦν]]  [[G1722\|ἔν]]  [[G5100\|τινι]]  [[G4172\|πόλει]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G3361\|μὴ]]  [[G5399\|φοβούμενος]]  [[G2532\|καὶ]]  [[G0444\|ἄνθρωπον]]  [[G3361\|μὴ]]  [[G1788\|ἐντρεπόμενος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESPONDENCY|DESPONDENCY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.1|<< Luke 18:1]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.3|Luke 18:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,58 @@
+---
+title: 1 Kings 13:27
+type: Verse
+kjv: "And he spake to his sons, saying, Saddle me the ass. And they saddled him."
+bsb: "Then the old prophet instructed his sons, “Saddle the donkey for me.” So they saddled it,"
+hebrew: "וַיְדַבֵּ֤ר אֶל־ בָּנָיו֙ לֵאמֹ֔ר חִבְשׁוּ־ לִ֖י אֶֽת־ הַחֲמ֑וֹר וַֽיַּחֲבֹֽשׁוּ׃"
+pericope: "[[1Kgs.13.11 The Old Prophet and the Man of God|The Old Prophet and the Man of God]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 13
+book/chapter: "[[1Kgs.13|1 Kings 13]]"
+chronological_order: 552
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic LION|LION]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H2280]]"
+- "[[H9030]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H2543]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 13:27**<big><big>[[1Kgs.13.11 The Old Prophet and the Man of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he spake to his sons, saying, Saddle me the ass. And they saddled [him].
 <small><sub>**BSB:**</sub></small>
 Then the old prophet instructed his sons, “Saddle the donkey for me.” So they saddled it,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֤ר]] [[H0413\|אֶל]][[H9014\|־]] [[H1121A\|בָּנָי]][[H9023\|ו֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H2280\|חִבְשׁוּ]][[H9014\|־]] [[H9005\|לִ֖]][[H9030\|י]] [[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הַ]][[H2543\|חֲמ֑וֹר]] [[H9001\|וַֽ]][[H2280\|יַּחֲבֹֽשׁוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LION|LION]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.13.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.13.26|<< 1 Kings 13:26]]</td><td align="center" style="border:none;">[[1Kgs.13|1 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.13.28|1 Kings 13:28 >>]]</td></tr></table>
 

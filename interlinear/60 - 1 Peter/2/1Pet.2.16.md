@@ -1,10 +1,59 @@
+---
+title: 1 Peter 2:16
+type: Verse
+kjv: "As free, and not using your liberty for a cloke of maliciousness, but as the servants of God."
+bsb: "Live in freedom, but do not use your freedom as a cover-up for evil; live as servants of God."
+greek: "ὡς ἐλεύθεροι καὶ μὴ ὡς ἐπικάλυμμα ἔχοντες τῆς κακίας τὴν ἐλευθερίαν, ἀλλ᾽ ὡς θεοῦ δοῦλοι."
+pericope: "[[1Pet.2.13 Submission to Authorities|Submission to Authorities]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 2
+book/chapter: "[[1Pet.2|1 Peter 2]]"
+chronological_order: 1136
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic CLOAK|CLOAK]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G5613]]"
+- "[[G1658]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G1942]]"
+- "[[G2192]]"
+- "[[G3588]]"
+- "[[G2549]]"
+- "[[G1657]]"
+- "[[G0235]]"
+- "[[G2316]]"
+- "[[G1401]]"
+texts:
+- NKO
+---
+
 **1 Peter 2:16**<big><big>[[1Pet.2.13 Submission to Authorities|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As free, and not using [your] liberty for a cloke of maliciousness, but as the servants of God.
 <small><sub>**BSB:**</sub></small>
 Live in freedom, but do not use your freedom as a cover-up for evil; live as servants of God.
-<small><sub>**Literal:**</sub></small>
-as free and not as a cover-up having <the> for evil the freedom, but as of God servants.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.15|<< 1 Peter 2:15]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.17|1 Peter 2:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G1658\|ἐλεύθεροι]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G5613\|ὡς]]  [[G1942\|ἐπικάλυμμα]]  [[G2192\|ἔχοντες]]  [[G3588\|τῆς]]  [[G2549\|κακίας]]  [[G3588\|τὴν]]  [[G1657\|ἐλευθερίαν,]]  [[G0235\|ἀλλ᾽]]  [[G5613\|ὡς]]  [[G2316\|θεοῦ]]  [[G1401\|δοῦλοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic CLOAK|CLOAK]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic EXAMPLE|EXAMPLE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.15|<< 1 Peter 2:15]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.17|1 Peter 2:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

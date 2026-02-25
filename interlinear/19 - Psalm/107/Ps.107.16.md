@@ -1,8 +1,57 @@
+---
+title: Psalm 107:16
+type: Verse
+kjv: "For he hath broken the gates of brass, and cut the bars of iron in sunder."
+bsb: "For He has broken down the gates of bronze and cut through the bars of iron."
+hebrew: "כִּֽי־ שִׁ֭בַּר דַּלְת֣וֹת נְחֹ֑שֶׁת וּבְרִיחֵ֖י בַרְזֶ֣ל גִּדֵּֽעַ׃"
+pericope: "[[Ps.107.1 Thanksgiving for Deliverance|Thanksgiving for Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 107
+book/chapter: "[[Ps.107|Psalm 107]]"
+chronological_order: 872
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BRASS|BRASS]]"
+- "[[topic GATES|GATES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IRON|IRON]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7665]]"
+- "[[H1817C]]"
+- "[[H5178A]]"
+- "[[H9002]]"
+- "[[H1280]]"
+- "[[H1270]]"
+- "[[H1438]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 107:16**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he hath broken the gates of brass, and cut the bars of iron in sunder.
 <small><sub>**BSB:**</sub></small>
 For He has broken down the gates of bronze and cut through the bars of iron.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H7665\|שִׁ֭בַּר]] [[H1817C\|דַּלְת֣וֹת]] [[H5178A\|נְחֹ֑שֶׁת]] [[H9002\|וּ]][[H1280\|בְרִיחֵ֖י]] [[H1270\|בַרְזֶ֣ל]] [[H1438\|גִּדֵּֽעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRASS|BRASS]] • [[topic GATES|GATES]] • [[topic GOD|GOD]] • [[topic IRON|IRON]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.15|<< Psalms 107:15]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.17|Psalms 107:17 >>]]</td></tr></table>
 

@@ -1,10 +1,65 @@
+---
+title: Ephesians 6:8
+type: Verse
+kjv: "Knowing that whatsoever good thing any man doeth, the same shall he receive of the Lord, whether he be bond or free."
+bsb: "because you know that the Lord will reward each one for whatever good he does, whether he is slave or free."
+greek: "εἰδότες ὅτι ἕκαστος ὃ ἐάν τι ποιήσῃ ἀγαθὸν τοῦτο κομίσεται παρὰ τοῦ κυρίου εἴτε δοῦλος εἴτε ἐλεύθερος.¶"
+pericope: "[[Eph.6.5 Serving with Honor|Serving with Honor]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 6
+book/chapter: "[[Eph.6|Ephesians 6]]"
+chronological_order: 1116
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic LIBERTY|LIBERTY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RESPECT OF PERSONS|RESPECT OF PERSONS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G1538]]"
+- "[[G3739]]"
+- "[[G1437]]"
+- "[[G5100]]"
+- "[[G4160G]]"
+- "[[G0018]]"
+- "[[G3778]]"
+- "[[G2865]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G1535]]"
+- "[[G1401]]"
+- "[[G1658]]"
+texts:
+- NKO
+- ko
+- NK(o)
+- k
+---
+
 **Ephesians 6:8**<big><big>[[Eph.6.5 Serving with Honor|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Knowing that whatsoever good thing any man doeth, the same shall he receive of the Lord, whether [he be] bond or free.
 <small><sub>**BSB:**</sub></small>
 because you know that the Lord will reward each one for whatever good he does, whether he is slave or free.
-<small><sub>**Literal:**</sub></small>
-knowing that each one what maybe whatever he shall do good this he will receive [back] from the Lord whether slave or free.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.7|<< Ephesians 6:7]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.9|Ephesians 6:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|εἰδότες]]  [[G3754G\|ὅτι]]  [[G1538\|ἕκαστος]]  [[G3739\|ὃ]]  [[G1437\|ἐάν]]  [[G5100\|τι]]  [[G4160G\|ποιήσῃ]]  [[G0018\|ἀγαθὸν]]  [[G3778\|τοῦτο]]  [[G2865\|κομίσεται]]  [[G3844\|παρὰ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G1535\|εἴτε]]  [[G1401\|δοῦλος]]  [[G1535\|εἴτε]]  [[G1658\|ἐλεύθερος.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JUDGMENT|JUDGMENT]] • [[topic LIBERTY|LIBERTY]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RESPECT OF PERSONS|RESPECT OF PERSONS]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.7|<< Ephesians 6:7]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.9|Ephesians 6:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

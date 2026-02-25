@@ -1,8 +1,62 @@
+---
+title: 1 Samuel 12:12
+type: Verse
+kjv: "And when ye saw that Nahash the king of the children of Ammon came against you, ye said unto me, Nay; but a king shall reign over us: when the LORD your God was your king."
+bsb: "But when you saw that Nahash king of the Ammonites was moving against you, you said to me, ‘No, we must have a king to rule over us’—even though the LORD your God was your king."
+hebrew: "וַתִּרְא֗וּ כִּֽי־ נָחָ֞שׁ מֶ֣לֶךְ בְּנֵֽי־ עַמּוֹן֮ בָּ֣א עֲלֵיכֶם֒ וַתֹּ֣אמְרוּ לִ֔י לֹ֕א כִּי־ מֶ֖לֶךְ יִמְלֹ֣ךְ עָלֵ֑ינוּ וַיהוָ֥ה אֱלֹהֵיכֶ֖ם מַלְכְּכֶֽם׃"
+pericope: "[[1Sam.12.1 Samuel’s Farewell Address|Samuel’s Farewell Address]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 12
+book/chapter: "[[1Sam.12|1 Samuel 12]]"
+chronological_order: 291
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic THEOCRACY|THEOCRACY]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5176G]]"
+- "[[H4428G]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H0935G]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3808]]"
+- "[[H4427A]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 12:12**<big><big>[[1Sam.12.1 Samuel’s Farewell Address|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when ye saw that Nahash the king of the children of Ammon came against you, ye said unto me, Nay; but a king shall reign over us: when the LORD your God [was] your king.
 <small><sub>**BSB:**</sub></small>
 But when you saw that Nahash king of the Ammonites was moving against you, you said to me, ‘No, we must have a king to rule over us’—even though the LORD your God was your king.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|תִּרְא֗וּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5176G\|נָחָ֞שׁ]] [[H4428G\|מֶ֣לֶךְ]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H5983\|עַמּוֹן֮]] [[H0935G\|בָּ֣א]] [[H5921A\|עֲלֵי]][[H9036\|כֶם֒]] [[H9001\|וַ]][[H0559\|תֹּ֣אמְרוּ]] [[H9005\|לִ֔]][[H9030\|י]] [[H3808\|לֹ֕א]] [[H3588A\|כִּי]][[H9014\|־]] [[H4428G\|מֶ֖לֶךְ]] [[H4427A\|יִמְלֹ֣ךְ]] [[H5921A\|עָלֵ֑י]][[H9035\|נוּ]] [[H9002\|וַ]][[H3068G\|יהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֖ם]] [[H4428G\|מַלְכְּ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic THEOCRACY|THEOCRACY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.12.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.12.11|<< 1 Samuel 12:11]]</td><td align="center" style="border:none;">[[1Sam.12|1 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.12.13|1 Samuel 12:13 >>]]</td></tr></table>
 

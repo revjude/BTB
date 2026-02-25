@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jeroboam II Reigns in Israel
+type: Pericope
 pericope: "[[2Kgs.14.23 Jeroboam II Reigns in Israel|Jeroboam II Reigns in Israel]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 14
 book/chapter: "[[2Kgs.14|2 Kings 14]]"
-genre:
+chronological_order: 591
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 7
 verses:
 - "[[2Kgs.14.23]]"
 - "[[2Kgs.14.24]]"
@@ -25,7 +32,7 @@ verses:
 - "[[2Kgs.14.29]]"
 ---
 
-[[2Kgs.14|2 Kings 14:23 - 2 Kings 14:29]]
+<small>[[2Kgs.14|2 Kings 14:23-29]]</small>
 *Jeroboam II Reigns in Israel*
 
 [[2Kgs.14.23|23]] In the fifteenth year of Amaziah the son of Joash king of Judah Jeroboam the son of Joash king of Israel began to reign in Samaria, \[and reigned\] forty and one years.

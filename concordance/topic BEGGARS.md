@@ -11,11 +11,11 @@
 
 - Bartimaeus [[Mark.10.46|Mr 10:46]]
 
-- Lazarus [[Luke.16.20|Lu 16:20]]-[[Luke.16.22|22]]
+- Lazarus [[Luke.16.20|Lu 16:20-22]]
 
 - The blind man [[John.9.8|Joh 9:8]]
 
-- The lame man [[Acts.3.2|Ac 3:2]]-[[Acts.3.5|5]]
+- The lame man [[Acts.3.2|Ac 3:2-5]]
 
 - See [[topic POOR|POOR]]
 

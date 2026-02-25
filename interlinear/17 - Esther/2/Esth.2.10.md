@@ -1,8 +1,58 @@
+---
+title: Esther 2:10
+type: Verse
+kjv: "Esther had not shewed her people nor her kindred: for Mordecai had charged her that she should not shew it."
+bsb: "Esther did not reveal her people or her lineage, because Mordecai had instructed her not to do so."
+hebrew: "לֹא־ הִגִּ֣ידָה אֶסְתֵּ֔ר אֶת־ עַמָּ֖הּ וְאֶת־ מֽוֹלַדְתָּ֑הּ כִּ֧י מָרְדֳּכַ֛י צִוָּ֥ה עָלֶ֖יהָ אֲשֶׁ֥ר לֹא־ תַגִּֽיד׃"
+pericope: "[[Esth.2.5 Esther Finds Favor|Esther Finds Favor]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 2
+book/chapter: "[[Esth.2|Esther 2]]"
+chronological_order: 900
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic CHAMBERLAIN|CHAMBERLAIN]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5046]]"
+- "[[H0635]]"
+- "[[H0853]]"
+- "[[H5971A]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H4138]]"
+- "[[H3588A]]"
+- "[[H4782H]]"
+- "[[H6680]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H0834A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 2:10**<big><big>[[Esth.2.5 Esther Finds Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Esther had not shewed her people nor her kindred: for Mordecai had charged her that she should not shew [it].
 <small><sub>**BSB:**</sub></small>
 Esther did not reveal her people or her lineage, because Mordecai had instructed her not to do so.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H5046\|הִגִּ֣ידָה]] [[H0635\|אֶסְתֵּ֔ר]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמָּ֖]][[H9024\|הּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4138\|מֽוֹלַדְתָּ֑]][[H9024\|הּ]] [[H3588A\|כִּ֧י]] [[H4782H\|מָרְדֳּכַ֛י]] [[H6680\|צִוָּ֥ה]] [[H5921A\|עָלֶ֖י]][[H9034\|הָ]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹא]][[H9014\|־]] [[H5046\|תַגִּֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHAMBERLAIN|CHAMBERLAIN]] • [[topic MARRIAGE|MARRIAGE]] • [[topic TACT|TACT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.9|<< Esther 2:9]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.11|Esther 2:11 >>]]</td></tr></table>
 

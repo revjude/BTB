@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel at Mount Sinai
+type: Pericope
 pericope: "[[Exod.19.1 Israel at Mount Sinai|Israel at Mount Sinai]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 19
 book/chapter: "[[Exod.19|Exodus 19]]"
-genre:
+chronological_order: 111
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 15
 verses:
 - "[[Exod.19.1]]"
 - "[[Exod.19.2]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Exod.19.15]]"
 ---
 
-[[Exod.19|Exodus 19:1 - Exodus 19:15]]
+<small>[[Exod.19|Exodus 19:1-15]]</small>
 *Israel at Mount Sinai*
 
 [[Exod.19.1|1]] In the third month, when the children of Israel were gone forth out of the land of Egypt, the same day came they \[into\] the wilderness of Sinai.

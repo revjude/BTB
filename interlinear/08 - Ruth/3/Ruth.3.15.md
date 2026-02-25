@@ -1,8 +1,60 @@
+---
+title: Ruth 3:15
+type: Verse
+kjv: "Also he said, Bring the vail that thou hast upon thee, and hold it. And when she held it, he measured six measures of barley, and laid it on her: and she went into the city."
+bsb: "And he told her, “Bring the shawl you are wearing and hold it out.” When she did so, he poured in six measures of barley and placed it on her. Then he went into the city."
+hebrew: "וַיֹּ֗אמֶר הָ֠בִי הַמִּטְפַּ֧חַת אֲשֶׁר־ עָלַ֛יִךְ וְאֶֽחֳזִי־ בָ֖הּ וַתֹּ֣אחֶז בָּ֑הּ וַיָּ֤מָד שֵׁשׁ־ שְׂעֹרִים֙ וַיָּ֣שֶׁת עָלֶ֔יהָ וַיָּבֹ֖א הָעִֽיר׃"
+pericope: "[[Ruth.3.1 Ruth’s Redemption Assured|Ruth’s Redemption Assured]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 3
+book/chapter: "[[Ruth.3|Ruth 3]]"
+chronological_order: 278
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic RUTH|RUTH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3051]]"
+- "[[H9009]]"
+- "[[H4304]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5921A]]"
+- "[[H9032]]"
+- "[[H9002]]"
+- "[[H0270]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H4058]]"
+- "[[H8337]]"
+- "[[H8184]]"
+- "[[H7896H]]"
+- "[[H0935G]]"
+- "[[H5892B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 3:15**<big><big>[[Ruth.3.1 Ruth’s Redemption Assured|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also he said, Bring the vail that [thou hast] upon thee, and hold it. And when she held it, he measured six [measures] of barley, and laid [it] on her: and she went into the city.
 <small><sub>**BSB:**</sub></small>
 And he told her, “Bring the shawl you are wearing and hold it out.” When she did so, he poured in six measures of barley and placed it on her. Then he went into the city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H3051\|הָ֠בִי]] [[H9009\|הַ]][[H4304\|מִּטְפַּ֧חַת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5921A\|עָלַ֛יִ]][[H9032\|ךְ]] [[H9002\|וְ]][[H0270\|אֶֽחֳזִי]][[H9014\|־]] [[H9003\|בָ֖]][[H9034\|הּ]] [[H9001\|וַ]][[H0270\|תֹּ֣אחֶז]] [[H9003\|בָּ֑]][[H9034\|הּ]] [[H9001\|וַ]][[H4058\|יָּ֤מָד]] [[H8337\|שֵׁשׁ]][[H9014\|־]] [[H8184\|שְׂעֹרִים֙]] [[H9001\|וַ]][[H7896H\|יָּ֣שֶׁת]] [[H5921A\|עָלֶ֔י]][[H9034\|הָ]] [[H9001\|וַ]][[H0935G\|יָּבֹ֖א]] [[H9009\|הָ]][[H5892B\|עִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RUTH|RUTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.3.14|<< Ruth 3:14]]</td><td align="center" style="border:none;">[[Ruth.3|Ruth 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.3.16|Ruth 3:16 >>]]</td></tr></table>
 

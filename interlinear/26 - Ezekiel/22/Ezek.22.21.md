@@ -1,8 +1,59 @@
+---
+title: Ezekiel 22:21
+type: Verse
+kjv: "Yea, I will gather you, and blow upon you in the fire of my wrath, and ye shall be melted in the midst thereof."
+bsb: "Yes, I will gather you together and blow on you with the fire of My wrath, and you will be melted within the city."
+hebrew: "וְכִנַּסְתִּ֣י אֶתְכֶ֔ם וְנָפַחְתִּ֥י עֲלֵיכֶ֖ם בְּאֵ֣שׁ עֶבְרָתִ֑י וְנִתַּכְתֶּ֖ם בְּתוֹכָֽהּ׃"
+pericope: "[[Ezek.22.17 The Refining Furnace|The Refining Furnace]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 22
+book/chapter: "[[Ezek.22|Ezekiel 22]]"
+chronological_order: 813
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SILVER|SILVER]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H3664]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H5301]]"
+- "[[H5921A]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H5678]]"
+- "[[H9020]]"
+- "[[H5413]]"
+- "[[H8432]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 22:21**<big><big>[[Ezek.22.17 The Refining Furnace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, I will gather you, and blow upon you in the fire of my wrath, and ye shall be melted in the midst thereof.
 <small><sub>**BSB:**</sub></small>
 Yes, I will gather you together and blow on you with the fire of My wrath, and you will be melted within the city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3664\|כִנַּסְתִּ֣י]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H9001\|וְ]][[H5301\|נָפַחְתִּ֥י]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֖ם]] [[H9003\|בְּ]][[H0784\|אֵ֣שׁ]] [[H5678\|עֶבְרָתִ֑]][[H9020\|י]] [[H9001\|וְ]][[H5413\|נִתַּכְתֶּ֖ם]] [[H9003\|בְּ]][[H8432\|תוֹכָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SILVER|SILVER]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.22.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.20|<< Ezekiel 22:20]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.22|Ezekiel 22:22 >>]]</td></tr></table>
 

@@ -1,8 +1,59 @@
+---
+title: 1 Samuel 31:2
+type: Verse
+kjv: "And the Philistines followed hard upon Saul and upon his sons; and the Philistines slew Jonathan, and Abinadab, and Malchishua, Saul’s sons."
+bsb: "The Philistines hotly pursued Saul and his sons, and they killed Saul’s sons Jonathan, Abinadab, and Malchishua."
+hebrew: "וַיַּדְבְּק֣וּ פְלִשְׁתִּ֔ים אֶת־ שָׁא֖וּל וְאֶת־ בָּנָ֑יו וַיַּכּ֣וּ פְלִשְׁתִּ֗ים אֶת־ יְהוֹנָתָ֧ן וְאֶת־ אֲבִינָדָ֛ב וְאֶת־ מַלְכִּי־ שׁ֖וּעַ בְּנֵ֥י שָׁאֽוּל׃"
+pericope: "[[1Sam.31.1 Saul’s Overthrow and Death|Saul’s Overthrow and Death]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 31
+book/chapter: "[[1Sam.31|1 Samuel 31]]"
+chronological_order: 310
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABINADAB|ABINADAB]]"
+- "[[topic ARCHERY|ARCHERY]]"
+- "[[topic GILBOA|GILBOA]]"
+- "[[topic JEZREEL|JEZREEL]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic MELCHISHUA|MELCHISHUA]]"
+strongs:
+- "[[H9001]]"
+- "[[H1692]]"
+- "[[H6430G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7586G]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H5221]]"
+- "[[H3083H]]"
+- "[[H0041H]]"
+- "[[H4444]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 31:2**<big><big>[[1Sam.31.1 Saul’s Overthrow and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Philistines followed hard upon Saul and upon his sons; and the Philistines slew Jonathan, and Abinadab, and Malchishua, Saul’s sons.
 <small><sub>**BSB:**</sub></small>
 The Philistines hotly pursued Saul and his sons, and they killed Saul’s sons Jonathan, Abinadab, and Malchishua.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1692\|יַּדְבְּק֣וּ]] [[H6430G\|פְלִשְׁתִּ֔ים]] [[H0853\|אֶת]][[H9014\|־]] [[H7586G\|שָׁא֖וּל]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בָּנָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H5221\|יַּכּ֣וּ]] [[H6430G\|פְלִשְׁתִּ֗ים]] [[H0853\|אֶת]][[H9014\|־]] [[H3083H\|יְהוֹנָתָ֧ן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0041H\|אֲבִינָדָ֛ב]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4444\|מַלְכִּי]][[H9014\|־]] [[H4444\|שׁ֖וּעַ]] [[H1121A\|בְּנֵ֥י]] [[H7586G\|שָׁאֽוּל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABINADAB|ABINADAB]] • [[topic ARCHERY|ARCHERY]] • [[topic GILBOA|GILBOA]] • [[topic JEZREEL|JEZREEL]] • [[topic JONATHAN|JONATHAN]] • [[topic MELCHISHUA|MELCHISHUA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.31.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.31.1|<< 1 Samuel 31:1]]</td><td align="center" style="border:none;">[[1Sam.31|1 Samuel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.31.3|1 Samuel 31:3 >>]]</td></tr></table>
 

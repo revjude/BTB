@@ -1,8 +1,58 @@
+---
+title: Jonah 1:15
+type: Verse
+kjv: "So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging."
+bsb: "Then they picked up Jonah and cast him into the sea, and the raging sea grew calm."
+hebrew: "וַיִּשְׂאוּ֙ אֶת־ יוֹנָ֔ה וַיְטִלֻ֖הוּ אֶל־ הַיָּ֑ם וַיַּעֲמֹ֥ד הַיָּ֖ם מִזַּעְפּֽוֹ׃"
+pericope: "[[Jonah.1.11 Jonah Cast into the Sea|Jonah Cast into the Sea]]"
+original_language: Hebrew
+testament: Old
+book: Jonah
+chapter: 1
+book/chapter: "[[Jonah.1|Jonah 1]]"
+chronological_order: 594
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic JONAH|JONAH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+strongs:
+- "[[H9001]]"
+- "[[H5375G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3124]]"
+- "[[H2904]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H5975G]]"
+- "[[H9006]]"
+- "[[H2197]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jonah 1:15**<big><big>[[Jonah.1.11 Jonah Cast into the Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging.
 <small><sub>**BSB:**</sub></small>
 Then they picked up Jonah and cast him into the sea, and the raging sea grew calm.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5375G\|יִּשְׂאוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3124\|יוֹנָ֔ה]] [[H9001\|וַ]][[H2904\|יְטִלֻ֖]][[H9033\|הוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּ֑ם]] [[H9001\|וַ]][[H5975G\|יַּעֲמֹ֥ד]] [[H9009\|הַ]][[H3220G\|יָּ֖ם]] [[H9006\|מִ]][[H2197\|זַּעְפּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONAH|JONAH]] • [[topic MIRACLES|MIRACLES]] • [[topic SUPERSTITION|SUPERSTITION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.1.14|<< Jonah 1:14]]</td><td align="center" style="border:none;">[[Jonah.1|Jonah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.1.16|Jonah 1:16 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: Ezekiel 16:19
+type: Verse
+kjv: "My meat also which I gave thee, fine flour, and oil, and honey, wherewith I fed thee, thou hast even set it before them for a sweet savour: and thus it was, saith the Lord GOD."
+bsb: "And you set before them as a pleasing aroma the food I had given you—the fine flour, oil, and honey that I had fed you. That is what happened, declares the Lord GOD."
+hebrew: "וְלַחְמִי֩ אֲשֶׁר־ נָתַ֨תִּי לָ֜ךְ סֹ֣לֶת וָשֶׁ֤מֶן וּדְבַשׁ֙ הֶֽאֱכַלְתִּ֔יךְ וּנְתַתִּ֧יהוּ לִפְנֵיהֶ֛ם לְרֵ֥יחַ נִיחֹ֖חַ וַיֶּ֑הִי נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃"
+pericope: "[[Ezek.16.1 Jerusalem’s Unfaithfulness|Jerusalem’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3899H]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H5560]]"
+- "[[H8081]]"
+- "[[H1706]]"
+- "[[H0398]]"
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H9033]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H7381]]"
+- "[[H5207]]"
+- "[[H1961]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 16:19**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My meat also which I gave thee, fine flour, and oil, and honey, [wherewith] I fed thee, thou hast even set it before them for a sweet savour: and [thus] it was, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
 And you set before them as a pleasing aroma the food I had given you—the fine flour, oil, and honey that I had fed you. That is what happened, declares the Lord GOD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3899H\|לַחְמִ]][[H9020\|י֩]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414G\|נָתַ֨תִּי]] [[H9005\|לָ֜]][[H9032\|ךְ]] [[H5560\|סֹ֣לֶת]] [[H9002\|וָ]][[H8081\|שֶׁ֤מֶן]] [[H9002\|וּ]][[H1706\|דְבַשׁ֙]] [[H0398\|הֶֽאֱכַלְתִּ֔י]][[H9032\|ךְ]] [[H9001\|וּ]][[H5414H\|נְתַתִּ֧י]][[H9033\|הוּ]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶ֛ם]] [[H9005\|לְ]][[H7381\|רֵ֥יחַ]] [[H5207\|נִיחֹ֖חַ]] [[H9001\|וַ]][[H1961\|יֶּ֑הִי]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.18|<< Ezekiel 16:18]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.20|Ezekiel 16:20 >>]]</td></tr></table>
 

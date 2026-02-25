@@ -1,8 +1,73 @@
+---
+title: Jeremiah 25:5
+type: Verse
+kjv: "They said, Turn ye again now every one from his evil way, and from the evil of your doings, and dwell in the land that the LORD hath given unto you and to your fathers for ever and ever:"
+bsb: "The prophets told you, ‘Turn now, each of you, from your evil ways and deeds, and you can dwell in the land that the LORD has given to you and your fathers forever and ever."
+hebrew: "לֵאמֹ֗ר שֽׁוּבוּ־ נָ֞א אִ֣ישׁ מִדַּרְכּ֤וֹ הָֽרָעָה֙ וּמֵרֹ֣עַ מַעַלְלֵיכֶ֔ם וּשְׁבוּ֙ עַל־ הָ֣אֲדָמָ֔ה אֲשֶׁ֨ר נָתַ֧ן יְהוָ֛ה לָכֶ֖ם וְלַאֲבֽוֹתֵיכֶ֑ם לְמִן־ עוֹלָ֖ם וְעַד־ עוֹלָֽם׃"
+pericope: "[[Jer.25.1 Seventy Years of Captivity|Seventy Years of Captivity]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 25
+book/chapter: "[[Jer.25|Jeremiah 25]]"
+chronological_order: 748
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CAPTIVITY|CAPTIVITY]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H7725O]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H0376I]]"
+- "[[H9006]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H9002]]"
+- "[[H7455]]"
+- "[[H4611]]"
+- "[[H9026]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H0127G]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H9036]]"
+- "[[H0001G]]"
+- "[[H4480A]]"
+- "[[H5769J]]"
+- "[[H5704]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 25:5**<big><big>[[Jer.25.1 Seventy Years of Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They said, Turn ye again now every one from his evil way, and from the evil of your doings, and dwell in the land that the LORD hath given unto you and to your fathers for ever and ever:
 <small><sub>**BSB:**</sub></small>
 The prophets told you, ‘Turn now, each of you, from your evil ways and deeds, and you can dwell in the land that the LORD has given to you and your fathers forever and ever.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H7725O\|שֽׁוּבוּ]][[H9014\|־]] [[H4994\|נָ֞א]] [[H0376I\|אִ֣ישׁ]] [[H9006\|מִ]][[H1870G\|דַּרְכּ֤]][[H9023\|וֹ]] [[H9009\|הָֽ]][[H7451H\|רָעָה֙]] [[H9002\|וּ]][[H9006\|מֵ]][[H7455\|רֹ֣עַ]] [[H4611\|מַעַלְלֵי]][[H9026\|כֶ֔ם]] [[H9002\|וּ]][[H3427\|שְׁבוּ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ֣]][[H0127G\|אֲדָמָ֔ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H5414G\|נָתַ֧ן]] [[H3068G\|יְהוָ֛ה]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H9002\|וְ]][[H9005\|לַ]][[H0001G\|אֲבֽוֹתֵי]][[H9026\|כֶ֑ם]] [[H9005\|לְ]][[H4480A\|מִן]][[H9014\|־]] [[H5769J\|עוֹלָ֖ם]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CAPTIVITY|CAPTIVITY]] • [[topic REPENTANCE|REPENTANCE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.4|<< Jeremiah 25:4]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.6|Jeremiah 25:6 >>]]</td></tr></table>
 

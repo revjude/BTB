@@ -1,6 +1,70 @@
+---
+title: LXX 2 Kings 17:31
+type: Verse
+lxx: "And the Avites made  Nibhaz and  Tartak. And the Sepharvites incinerated  their sons by fire  to Adrammelech and Anammelech, gods of the Sepharvaim."
+greek: "και οι Ευαίοι εποίησαν την Νιβχάζ και την Θαρθάκ και οι Σεπφαρουίμ κατέκαιον τους υιούς αυτών εν πυρί τω Αδραμέλεχ και Ανημελέχ θεοίς Σεπφαρουϊμ"
+original_language: Greek
+testament: Old
+book: 2 Kings
+chapter: 17
+book/chapter: "[[2Kgs.17|2 Kings 17]]"
+chronological_order: 641
+era: Exile
+period: "The Assyrian Crisis and Fall of Israel"
+date: ~722 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ADRAMMELECH|ADRAMMELECH]]"
+- "[[topic ANAMMELECH|ANAMMELECH]]"
+- "[[topic AVITES|AVITES]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic NIBHAZ|NIBHAZ]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SEPHARVAIM|SEPHARVAIM]]"
+- "[[topic SEPHARVITES|SEPHARVITES]]"
+- "[[topic TARTAK|TARTAK]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[H2340]]"
+- "[[G4160]]"
+- "[[G3588]]"
+- "[[H5026]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[H8662]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[H5617]]"
+- "[[G2618]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G4442]]"
+- "[[G3588]]"
+- "[[H0152]]"
+- "[[G2532]]"
+- "[[H6048]]"
+- "[[G2316]]"
+- "[[H5617]]"
+---
+
 **LXX 2 Kings 17:31** 
 <small><sub>**LXX:**</sub></small>
 And the Avites made  Nibhaz and  Tartak. And the Sepharvites incinerated  their sons by fire  to Adrammelech and Anammelech, gods of the Sepharvaim. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3588\|οι]] [[H2340\|Ευαίοι]] [[G4160\|εποίησαν]] [[G3588\|την]] [[H5026\|Νιβχάζ]] [[G2532\|και]] [[G3588\|την]] [[H8662\|Θαρθάκ]] [[G2532\|και]] [[G3588\|οι]] [[H5617\|Σεπφαρουίμ]] [[G2618\|κατέκαιον]] [[G3588\|τους]] [[G5207\|υιούς]] [[G1473\|αυτών]] [[G1722\|εν]] [[G4442\|πυρί]] [[G3588\|τω]] [[H0152\|Αδραμέλεχ]] [[G2532\|και]] [[H6048\|Ανημελέχ]] [[G2316\|θεοίς]] [[H5617\|Σεπφαρουϊμ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADRAMMELECH|ADRAMMELECH]] • [[topic ANAMMELECH|ANAMMELECH]] • [[topic AVITES|AVITES]] • [[topic BABYLON|BABYLON]] • [[topic CHILDREN|CHILDREN]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic NIBHAZ|NIBHAZ]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SAMARIA|SAMARIA]] • [[topic SEPHARVAIM|SEPHARVAIM]] • [[topic SEPHARVITES|SEPHARVITES]] • [[topic TARTAK|TARTAK]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Kgs.17.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.30|<< 2 Kings 17:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.32|2 Kings 17:32 >>]]</td></tr></table>
 
@@ -29,6 +93,6 @@ And the Avites made  Nibhaz and  Tartak. And the Sepharvites incinerated  their 
 | Anammelech, | **<big>[[H6048\|Ανημελέχ]]</big>** |
 | gods | **<big>[[G2316\|θεοίς]]</big>** |
 | of the Sepharvaim. | **<big>[[H5617\|Σεπφαρουϊμ]]</big>** |
-[[2Kgs.17.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.30|<< 2 Kings 17:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.32|2 Kings 17:32 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.30|<< 2 Kings 17:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.32|2 Kings 17:32 >>]]</td></tr></table>
 
 

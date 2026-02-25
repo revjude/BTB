@@ -1,8 +1,53 @@
+---
+title: Ecclesiastes 4:15
+type: Verse
+kjv: "I considered all the living which walk under the sun, with the second child that shall stand up in his stead."
+bsb: "I saw that all who lived and walked under the sun followed this second one, the youth who succeeded the king."
+hebrew: "רָאִ֙יתִי֙ אֶת־ כָּל־ הַ֣חַיִּ֔ים הַֽמְהַלְּכִ֖ים תַּ֣חַת הַשָּׁ֑מֶשׁ עִ֚ם הַיֶּ֣לֶד הַשֵּׁנִ֔י אֲשֶׁ֥ר יַעֲמֹ֖ד תַּחְתָּֽיו׃"
+pericope: "[[Eccl.4.13 The Futility of Power|The Futility of Power]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 4
+book/chapter: "[[Eccl.4|Ecclesiastes 4]]"
+chronological_order: 542
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+strongs:
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H2416A]]"
+- "[[H1980I]]"
+- "[[H8478G]]"
+- "[[H8121]]"
+- "[[H5973A]]"
+- "[[H3206]]"
+- "[[H8145]]"
+- "[[H0834A]]"
+- "[[H5975G]]"
+- "[[H8478H]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 4:15**<big><big>[[Eccl.4.13 The Futility of Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I considered all the living which walk under the sun, with the second child that shall stand up in his stead.
 <small><sub>**BSB:**</sub></small>
 I saw that all who lived and walked under the sun followed this second one, the youth who succeeded the king.
+<small><sub>**Hebrew:**</sub></small>
+[[H7200G\|רָאִ֙יתִי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ֣]][[H2416A\|חַיִּ֔ים]] [[H9009\|הַֽ]][[H1980I\|מְהַלְּכִ֖ים]] [[H8478G\|תַּ֣חַת]] [[H9009\|הַ]][[H8121\|שָּׁ֑מֶשׁ]] [[H5973A\|עִ֚ם]] [[H9009\|הַ]][[H3206\|יֶּ֣לֶד]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֔י]] [[H0834A\|אֲשֶׁ֥ר]] [[H5975G\|יַעֲמֹ֖ד]] [[H8478H\|תַּחְתָּֽי]][[H9033\|ו]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.4.14|<< Ecclesiastes 4:14]]</td><td align="center" style="border:none;">[[Eccl.4|Ecclesiastes 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.4.16|Ecclesiastes 4:16 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: 1 Samuel 1:22
+type: Verse
+kjv: "But Hannah went not up; for she said unto her husband, I will not go up until the child be weaned, and then I will bring him, that he may appear before the LORD, and there abide for ever."
+bsb: "but Hannah did not go. “After the boy is weaned,” she said to her husband, “I will take him to appear before the LORD and to stay there permanently.”"
+hebrew: "וְחַנָּ֖ה לֹ֣א עָלָ֑תָה כִּֽי־ אָמְרָ֣ה לְאִישָׁ֗הּ עַ֣ד יִגָּמֵ֤ל הַנַּ֙עַר֙ וַהֲבִאֹתִ֗יו וְנִרְאָה֙ אֶת־ פְּנֵ֣י יְהוָ֔ה וְיָ֥שַׁב שָׁ֖ם עַד־ עוֹלָֽם׃"
+pericope: "[[1Sam.1.19 The Birth of Samuel|The Birth of Samuel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 1
+book/chapter: "[[1Sam.1|1 Samuel 1]]"
+chronological_order: 280
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEDICATION|DEDICATION]]"
+- "[[topic HANNAH|HANNAH]]"
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H2584]]"
+- "[[H3808]]"
+- "[[H5927G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H0376H]]"
+- "[[H9024]]"
+- "[[H5704]]"
+- "[[H1580]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H9033]]"
+- "[[H7200G]]"
+- "[[H0854]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H3427]]"
+- "[[H8033G]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 1:22**<big><big>[[1Sam.1.19 The Birth of Samuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Hannah went not up; for she said unto her husband, [I will not go up] until the child be weaned, and [then] I will bring him, that he may appear before the LORD, and there abide for ever.
 <small><sub>**BSB:**</sub></small>
 but Hannah did not go. “After the boy is weaned,” she said to her husband, “I will take him to appear before the LORD and to stay there permanently.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2584\|חַנָּ֖ה]] [[H3808\|לֹ֣א]] [[H5927G\|עָלָ֑תָה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0559\|אָמְרָ֣ה]] [[H9005\|לְ]][[H0376H\|אִישָׁ֗]][[H9024\|הּ]] [[H5704\|עַ֣ד]] [[H1580\|יִגָּמֵ֤ל]] [[H9009\|הַ]][[H5288\|נַּ֙עַר֙]] [[H9001\|וַ]][[H0935P\|הֲבִאֹתִ֗י]][[H9033\|ו]] [[H9001\|וְ]][[H7200G\|נִרְאָה֙]] [[H0854\|אֶת]][[H9014\|־]] [[H6440G\|פְּנֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וְ]][[H3427\|יָ֥שַׁב]] [[H8033G\|שָׁ֖ם]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DEDICATION|DEDICATION]] • [[topic HANNAH|HANNAH]] • [[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.21|<< 1 Samuel 1:21]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.23|1 Samuel 1:23 >>]]</td></tr></table>
 

@@ -1,10 +1,53 @@
+---
+title: Luke 21:1
+type: Verse
+kjv: "And he looked up, and saw the rich men casting their gifts into the treasury."
+bsb: "Then Jesus looked up and saw the rich putting their gifts into the treasury,"
+greek: "Ἀναβλέψας δὲ εἶδεν τοὺς βάλλοντας εἰς τὸ γαζοφυλάκιον τὰ δῶρα αὐτῶν πλουσίους."
+pericope: "[[Luke.21.1 The Poor Widow’s Offering|The Poor Widow’s Offering]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 21
+book/chapter: "[[Luke.21|Luke 21]]"
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[G0308]]"
+- "[[G1161]]"
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G0906H]]"
+- "[[G1519]]"
+- "[[G1049]]"
+- "[[G1435]]"
+- "[[G0846]]"
+- "[[G4145]]"
+texts:
+- NKO
+---
+
 **Luke 21:1**<big><big>[[Luke.21.1 The Poor Widow’s Offering|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he looked up, and saw the rich men casting their gifts into the treasury.
 <small><sub>**BSB:**</sub></small>
 Then Jesus looked up and saw the rich putting their gifts into the treasury,
-<small><sub>**Literal:**</sub></small>
-Having looked up now He saw the ones casting into the treasury the gifts of them rich.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.47|<< Luke 20:47]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.2|Luke 21:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0308\|Ἀναβλέψας]]  [[G1161\|δὲ]]  [[G1492H\|εἶδεν]]  [[G3588\|τοὺς]]  [[G0906H\|βάλλοντας]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G1049\|γαζοφυλάκιον]]  [[G3588\|τὰ]]  [[G1435\|δῶρα]]  [[G0846\|αὐτῶν]]  [[G4145\|πλουσίους.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGMENT|JUDGMENT]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.47|<< Luke 20:47]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.2|Luke 21:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

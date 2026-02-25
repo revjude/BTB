@@ -1,8 +1,65 @@
+---
+title: Esther 8:13
+type: Verse
+kjv: "The copy of the writing for a commandment to be given in every province was published unto all people, and that the Jews should be ready against that day to avenge themselves on their enemies."
+bsb: "A copy of the text of the edict was to be issued in every province and published to all the people, so that the Jews would be ready on that day to avenge themselves on their enemies."
+hebrew: "פַּתְשֶׁ֣גֶן הַכְּתָ֗ב לְהִנָּ֤תֵֽן דָּת֙ בְּכָל־ מְדִינָ֣ה וּמְדִינָ֔ה גָּל֖וּי לְכָל־ הָעַמִּ֑ים וְלִהְי֨וֹת הַיְּהוּדִ֤ים עֲתִידִים֙ לַיּ֣וֹם הַזֶּ֔ה לְהִנָּקֵ֖ם מֵאֹיְבֵיהֶֽם׃"
+pericope: "[[Esth.8.7 The Decree of Xerxes|The Decree of Xerxes]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 8
+book/chapter: "[[Esth.8|Esther 8]]"
+chronological_order: 906
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic PROCLAMATION|PROCLAMATION]]"
+strongs:
+- "[[H6572B]]"
+- "[[H9009]]"
+- "[[H3791]]"
+- "[[H9005]]"
+- "[[H5414G]]"
+- "[[H1881]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4082]]"
+- "[[H9002]]"
+- "[[H1540J]]"
+- "[[H5971A]]"
+- "[[H1961]]"
+- "[[H3064]]"
+- "[[H6259]]"
+- "[[H6264]]"
+- "[[H3117G]]"
+- "[[H2088]]"
+- "[[H5358]]"
+- "[[H9006]]"
+- "[[H0341]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Esther 8:13**<big><big>[[Esth.8.7 The Decree of Xerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The copy of the writing for a commandment to be given in every province [was] published unto all people, and that the Jews should be ready against that day to avenge themselves on their enemies.
 <small><sub>**BSB:**</sub></small>
 A copy of the text of the edict was to be issued in every province and published to all the people, so that the Jews would be ready on that day to avenge themselves on their enemies.
+<small><sub>**Hebrew:**</sub></small>
+[[H6572B\|פַּתְשֶׁ֣גֶן]] [[H9009\|הַ]][[H3791\|כְּתָ֗ב]] [[H9005\|לְ]][[H5414G\|הִנָּ֤תֵֽן]] [[H1881\|דָּת֙]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H4082\|מְדִינָ֣ה]] [[H9002\|וּ]][[H4082\|מְדִינָ֔ה]] [[H1540J\|גָּל֖וּי]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עַמִּ֑ים]] [[H9002\|וְ]][[H9005\|לִ]][[H1961\|הְי֨וֹת]] [[H9009\|הַ]][[H3064\|יְּהוּדִ֤ים]] [[H6264\|עֲתִידִים֙]] [[H9005\|לַ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9005\|לְ]][[H5358\|הִנָּקֵ֖ם]] [[H9006\|מֵ]][[H0341\|אֹיְבֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROCLAMATION|PROCLAMATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.8.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.8.12|<< Esther 8:12]]</td><td align="center" style="border:none;">[[Esth.8|Esther 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.8.14|Esther 8:14 >>]]</td></tr></table>
 

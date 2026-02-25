@@ -13,9 +13,9 @@
 
 → Paul desires to preach in [[Rom.1.15|Ro 1:15]]
 
-→ Abominations in [[Rom.1.18|Ro 1:18]]-[[Rom.1.32|32]]
+→ Abominations in [[Rom.1.18|Ro 1:18-32]]
 
-→ Christians in [[Rom.16.5|Ro 16:5]]-[[Rom.16.17|17]]; [[Phil.1.12|Php 1:12]]-[[Phil.1.18|18]]; [[Phil.4.22|4:22]]; [[2Tim.4.21|2Ti 4:21]]
+→ Christians in [[Rom.16.5|Ro 16:5-17]]; [[Phil.1.12|Php 1:12-18]]; [[Phil.4.22|4:22]]; [[2Tim.4.21|2Ti 4:21]]
 
 → Paul' s letter to the Christians in [[Rom.1.7|Ro 1:7]]
 

@@ -1,8 +1,64 @@
+---
+title: Amos 5:12
+type: Verse
+kjv: "For I know your manifold transgressions and your mighty sins: they afflict the just, they take a bribe, and they turn aside the poor in the gate from their right."
+bsb: "For I know that your transgressions are many and your sins are numerous. You oppress the righteous by taking bribes; you deprive the poor of justice in the gate."
+hebrew: "כִּ֤י יָדַ֙עְתִּי֙ רַבִּ֣ים פִּשְׁעֵיכֶ֔ם וַעֲצֻמִ֖ים חַטֹּֽאתֵיכֶ֑ם צֹרְרֵ֤י צַדִּיק֙ לֹ֣קְחֵי כֹ֔פֶר וְאֶבְיוֹנִ֖ים בַּשַּׁ֥עַר הִטּֽוּ׃"
+pericope: "[[Amos.5.4 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 5
+book/chapter: "[[Amos.5|Amos 5]]"
+chronological_order: 602
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic BRIBERY|BRIBERY]]"
+- "[[topic INJUSTICE|INJUSTICE]]"
+- "[[topic JUSTICE|JUSTICE]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3045]]"
+- "[[H7227A]]"
+- "[[H6588]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H6099]]"
+- "[[H2403B]]"
+- "[[H6887D]]"
+- "[[H6662]]"
+- "[[H3947G]]"
+- "[[H3724A]]"
+- "[[H0034]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H5186]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 5:12**<big><big>[[Amos.5.4 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I know your manifold transgressions and your mighty sins: they afflict the just, they take a bribe, and they turn aside the poor in the gate [from their right].
 <small><sub>**BSB:**</sub></small>
 For I know that your transgressions are many and your sins are numerous. You oppress the righteous by taking bribes; you deprive the poor of justice in the gate.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H3045\|יָדַ֙עְתִּי֙]] [[H7227A\|רַבִּ֣ים]] [[H6588\|פִּשְׁעֵי]][[H9026\|כֶ֔ם]] [[H9002\|וַ]][[H6099\|עֲצֻמִ֖ים]] [[H2403B\|חַטֹּֽאתֵי]][[H9026\|כֶ֑ם]] [[H6887D\|צֹרְרֵ֤י]] [[H6662\|צַדִּיק֙]] [[H3947G\|לֹ֣קְחֵי]] [[H3724A\|כֹ֔פֶר]] [[H9002\|וְ]][[H0034\|אֶבְיוֹנִ֖ים]] [[H9003\|בַּ]][[H8179G\|שַּׁ֥עַר]] [[H5186\|הִטּֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIBERY|BRIBERY]] • [[topic INJUSTICE|INJUSTICE]] • [[topic JUSTICE|JUSTICE]] • [[topic OPPRESSION|OPPRESSION]] • [[topic POOR|POOR]] • [[topic RULERS|RULERS]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.11|<< Amos 5:11]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.13|Amos 5:13 >>]]</td></tr></table>
 

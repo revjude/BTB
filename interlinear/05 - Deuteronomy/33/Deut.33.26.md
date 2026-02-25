@@ -1,8 +1,61 @@
+---
+title: Deuteronomy 33:26
+type: Verse
+kjv: "There is none like unto the God of Jeshurun, who rideth upon the heaven in thy help, and in his excellency on the sky."
+bsb: "“There is none like the God of Jeshurun, who rides the heavens to your aid, and the clouds in His majesty."
+hebrew: "אֵ֥ין כָּאֵ֖ל יְשֻׁר֑וּן רֹכֵ֤ב שָׁמַ֙יִם֙ בְעֶזְרֶ֔ךָ וּבְגַאֲוָת֖וֹ שְׁחָקִֽים׃"
+pericope: "[[Deut.33.1 Moses Blesses the Twelve Tribes|Moses Blesses the Twelve Tribes]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 33
+book/chapter: "[[Deut.33|Deuteronomy 33]]"
+chronological_order: 229
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESHURUN|JESHURUN]]"
+strongs:
+- "[[H0369]]"
+- "[[H9004]]"
+- "[[H0410G]]"
+- "[[H3484]]"
+- "[[H7392]]"
+- "[[H8064]]"
+- "[[H9003]]"
+- "[[H5828]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H1346]]"
+- "[[H9023]]"
+- "[[H7834]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 33:26**<big><big>[[Deut.33.1 Moses Blesses the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] none like unto the God of Jeshurun, [who] rideth upon the heaven in thy help, and in his excellency on the sky.
 <small><sub>**BSB:**</sub></small>
 “There is none like the God of Jeshurun, who rides the heavens to your aid, and the clouds in His majesty.
+<small><sub>**Hebrew:**</sub></small>
+[[H0369\|אֵ֥ין]] [[H9004\|כָּ]][[H0410G\|אֵ֖ל]] [[H3484\|יְשֻׁר֑וּן]] [[H7392\|רֹכֵ֤ב]] [[H8064\|שָׁמַ֙יִם֙]] [[H9003\|בְ]][[H5828\|עֶזְרֶ֔]][[H9021\|ךָ]] [[H9002\|וּ]][[H9003\|בְ]][[H1346\|גַאֲוָת֖]][[H9023\|וֹ]] [[H7834\|שְׁחָקִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic JESHURUN|JESHURUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.25|<< Deuteronomy 33:25]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.27|Deuteronomy 33:27 >>]]</td></tr></table>
 

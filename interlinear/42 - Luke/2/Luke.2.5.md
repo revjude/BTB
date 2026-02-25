@@ -1,10 +1,53 @@
+---
+title: Luke 2:5
+type: Verse
+kjv: "To be taxed with Mary his espoused wife, being great with child."
+bsb: "He went there to register with Mary, who was pledged to him in marriage and was expecting a child."
+greek: "ἀπογράψασθαι σὺν Μαριὰμ τῇ ἐμνηστευμένῃ αὐτῷ γυναικί οὔσῃ ἐγκύῳ.¶"
+pericope: "[[Luke.2.1 The Birth of Jesus|The Birth of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARY|MARY]]"
+- "[[topic TRIBUTE (TAXES)|TRIBUTE (TAXES)]]"
+strongs:
+- "[[G0583]]"
+- "[[G4862]]"
+- "[[G3137G]]"
+- "[[G3588]]"
+- "[[G3423]]"
+- "[[G0846]]"
+- "[[G1135H]]"
+- "[[G1510]]"
+- "[[G1471]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 2:5**<big><big>[[Luke.2.1 The Birth of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 To be taxed with Mary his espoused wife, being great with child.
 <small><sub>**BSB:**</sub></small>
 He went there to register with Mary, who was pledged to him in marriage and was expecting a child.
-<small><sub>**Literal:**</sub></small>
-to register with Mary who [was] betrothed to him wife she being with child.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.4|<< Luke 2:4]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.6|Luke 2:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0583\|ἀπογράψασθαι]]  [[G4862\|σὺν]]  [[G3137G\|Μαριὰμ]]  [[G3588\|τῇ]]  [[G3423\|ἐμνηστευμένῃ]]  [[G0846\|αὐτῷ]]  [[G1135H\|γυναικί]]  [[G1510\|οὔσῃ]]  [[G1471\|ἐγκύῳ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARY|MARY]] • [[topic TRIBUTE (TAXES)|TRIBUTE (TAXES)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.4|<< Luke 2:4]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.6|Luke 2:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

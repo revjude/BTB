@@ -1,8 +1,61 @@
+---
+title: Numbers 11:3
+type: Verse
+kjv: "And he called the name of the place Taberah: because the fire of the LORD burnt among them."
+bsb: "So that place was called Taberah, because the fire of the LORD had burned among them."
+hebrew: "וַיִּקְרָ֛א שֵֽׁם־ הַמָּק֥וֹם הַה֖וּא תַּבְעֵרָ֑ה כִּֽי־ בָעֲרָ֥ה בָ֖ם אֵ֥שׁ יְהוָֽה׃"
+pericope: "[[Num.11.1 The Complaints of the People|The Complaints of the People]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 11
+book/chapter: "[[Num.11|Numbers 11]]"
+chronological_order: 171
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic TABERAH|TABERAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H1931]]"
+- "[[H8404]]"
+- "[[H3588A]]"
+- "[[H1197A]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H0784]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 11:3**<big><big>[[Num.11.1 The Complaints of the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he called the name of the place Taberah: because the fire of the LORD burnt among them.
 <small><sub>**BSB:**</sub></small>
 So that place was called Taberah, because the fire of the LORD had burned among them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121H\|יִּקְרָ֛א]] [[H8034\|שֵֽׁם]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֥וֹם]] [[H9009\|הַ]][[H1931\|ה֖וּא]] [[H8404\|תַּבְעֵרָ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1197A\|בָעֲרָ֥ה]] [[H9003\|בָ֖]][[H9038\|ם]] [[H0784\|אֵ֥שׁ]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MIRACLES|MIRACLES]] • [[topic MURMURING|MURMURING]] • [[topic TABERAH|TABERAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.2|<< Numbers 11:2]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.4|Numbers 11:4 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: 1 Samuel 23:3
+type: Verse
+kjv: "And David’s men said unto him, Behold, we be afraid here in Judah: how much more then if we come to Keilah against the armies of the Philistines?"
+bsb: "But David’s men said to him, “Look, we are afraid here in Judah; how much more if we go to Keilah against the armies of the Philistines?”"
+hebrew: "וַיֹּ֨אמְר֜וּ אַנְשֵׁ֤י דָוִד֙ אֵלָ֔יו הִנֵּ֨ה אֲנַ֥חְנוּ פֹ֛ה בִּֽיהוּדָ֖ה יְרֵאִ֑ים וְאַף֙ כִּֽי־ נֵלֵ֣ךְ קְעִלָ֔ה אֶל־ מַֽעַרְכ֖וֹת פְּלִשְׁתִּֽים׃ ס"
+pericope: "[[1Sam.23.1 David Delivers Keilah|David Delivers Keilah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 23
+book/chapter: "[[1Sam.23|1 Samuel 23]]"
+chronological_order: 302
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic KEILAH|KEILAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0582]]"
+- "[[H1732]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H2009]]"
+- "[[H0587]]"
+- "[[H6311]]"
+- "[[H9003]]"
+- "[[H3063G]]"
+- "[[H3373]]"
+- "[[H9002]]"
+- "[[H0637]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1980G]]"
+- "[[H7084]]"
+- "[[H4634]]"
+- "[[H6430G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Samuel 23:3**<big><big>[[1Sam.23.1 David Delivers Keilah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David’s men said unto him, Behold, we be afraid here in Judah: how much more then if we come to Keilah against the armies of the Philistines?
 <small><sub>**BSB:**</sub></small>
 But David’s men said to him, “Look, we are afraid here in Judah; how much more if we go to Keilah against the armies of the Philistines?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמְר֜וּ]] [[H0582\|אַנְשֵׁ֤י]] [[H1732\|דָוִד֙]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H2009\|הִנֵּ֨ה]] [[H0587\|אֲנַ֥חְנוּ]] [[H6311\|פֹ֛ה]] [[H9003\|בִּֽ]][[H3063G\|יהוּדָ֖ה]] [[H3373\|יְרֵאִ֑ים]] [[H9002\|וְ]][[H0637\|אַף֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1980G\|נֵלֵ֣ךְ]] [[H7084\|קְעִלָ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4634\|מַֽעַרְכ֖וֹת]] [[H6430G\|פְּלִשְׁתִּֽים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic DAVID|DAVID]] • [[topic KEILAH|KEILAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.23.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.2|<< 1 Samuel 23:2]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.4|1 Samuel 23:4 >>]]</td></tr></table>
 
@@ -23,7 +79,7 @@ But David’s men said to him, “Look, we are afraid here in Judah; how much mo
 | Keilah  |**<big>&#8207;[[H7084\|קְעִלָ֔ה]]&#8207; </big>**| ke.'i.Lah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | against  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] battle lines of  |**<big>&#8207;[[H4634\|מַֽעַרְכ֖וֹת]]&#8207; </big>**| ma.'ar.Khot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Philistines  |**<big>&#8207;[[H6430G\|פְּלִשְׁתִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| pe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Philistines  |**<big>&#8207;[[H6430G\|פְּלִשְׁתִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| pe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.2|<< 1 Samuel 23:2]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.4|1 Samuel 23:4 >>]]</td></tr></table>
 
 

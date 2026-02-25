@@ -1,8 +1,53 @@
+---
+title: Judges 2:6
+type: Verse
+kjv: "And when Joshua had let the people go, the children of Israel went every man unto his inheritance to possess the land."
+bsb: "After Joshua had dismissed the people, the Israelites went out to take possession of the land, each to his own inheritance."
+hebrew: "וַיְשַׁלַּ֥ח יְהוֹשֻׁ֖עַ אֶת־ הָעָ֑ם וַיֵּלְכ֧וּ בְנֵֽי־ יִשְׂרָאֵ֛ל אִ֥ישׁ לְנַחֲלָת֖וֹ לָרֶ֥שֶׁת אֶת־ הָאָֽרֶץ׃"
+pericope: "[[Judg.2.6 Joshua’s Death and Burial|Joshua’s Death and Burial]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 2
+book/chapter: "[[Judg.2|Judges 2]]"
+chronological_order: 256
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H3091G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H1980G]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0376I]]"
+- "[[H9005]]"
+- "[[H5159]]"
+- "[[H9023]]"
+- "[[H3423H]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 2:6**<big><big>[[Judg.2.6 Joshua’s Death and Burial|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Joshua had let the people go, the children of Israel went every man unto his inheritance to possess the land.
 <small><sub>**BSB:**</sub></small>
 After Joshua had dismissed the people, the Israelites went out to take possession of the land, each to his own inheritance.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יְשַׁלַּ֥ח]] [[H3091G\|יְהוֹשֻׁ֖עַ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H9001\|וַ]][[H1980G\|יֵּלְכ֧וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H0376I\|אִ֥ישׁ]] [[H9005\|לְ]][[H5159\|נַחֲלָת֖]][[H9023\|וֹ]] [[H9005\|לָ]][[H3423H\|רֶ֥שֶׁת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.2.5|<< Judges 2:5]]</td><td align="center" style="border:none;">[[Judg.2|Judges 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.2.7|Judges 2:7 >>]]</td></tr></table>
 

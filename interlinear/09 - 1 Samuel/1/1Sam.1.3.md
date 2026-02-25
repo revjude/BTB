@@ -1,8 +1,71 @@
+---
+title: 1 Samuel 1:3
+type: Verse
+kjv: "And this man went up out of his city yearly to worship and to sacrifice unto the LORD of hosts in Shiloh. And the two sons of Eli, Hophni and Phinehas, the priests of the LORD, were there."
+bsb: "Year after year Elkanah would go up from his city to worship and sacrifice to the LORD of Hosts at Shiloh, where Eli’s two sons, Hophni and Phinehas, were priests to the LORD."
+hebrew: "וְעָלָה֩ הָאִ֨ישׁ הַה֤וּא מֵֽעִירוֹ֙ מִיָּמִ֣ים׀ יָמִ֔ימָה לְהִֽשְׁתַּחֲוֹ֧ת וְלִזְבֹּ֛חַ לַיהוָ֥ה צְבָא֖וֹת בְּשִׁלֹ֑ה וְשָׁ֞ם שְׁנֵ֣י בְנֵֽי־ עֵלִ֗י חָפְנִי֙ וּפִ֣נְחָ֔ס כֹּהֲנִ֖ים לַיהוָֽה׃"
+pericope: "[[1Sam.1.1 Elkanah and His Wives|Elkanah and His Wives]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 1
+book/chapter: "[[1Sam.1|1 Samuel 1]]"
+chronological_order: 280
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic HANNAH|HANNAH]]"
+- "[[topic HOPHNI|HOPHNI]]"
+- "[[topic SHILOH|SHILOH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H1931]]"
+- "[[H9006]]"
+- "[[H5892B]]"
+- "[[H9023]]"
+- "[[H3117I]]"
+- "[[H9015]]"
+- "[[H9011]]"
+- "[[H9005]]"
+- "[[H7812]]"
+- "[[H9002]]"
+- "[[H2076]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9003]]"
+- "[[H7887]]"
+- "[[H8033G]]"
+- "[[H8147]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5941]]"
+- "[[H2652]]"
+- "[[H6372H]]"
+- "[[H3548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 1:3**<big><big>[[1Sam.1.1 Elkanah and His Wives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this man went up out of his city yearly to worship and to sacrifice unto the LORD of hosts in Shiloh. And the two sons of Eli, Hophni and Phinehas, the priests of the LORD, [were] there.
 <small><sub>**BSB:**</sub></small>
 Year after year Elkanah would go up from his city to worship and sacrifice to the LORD of Hosts at Shiloh, where Eli’s two sons, Hophni and Phinehas, were priests to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5927G\|עָלָה֩]] [[H9009\|הָ]][[H0376G\|אִ֨ישׁ]] [[H9009\|הַ]][[H1931\|ה֤וּא]] [[H9006\|מֵֽ]][[H5892B\|עִיר]][[H9023\|וֹ֙]] [[H9006\|מִ]][[H3117I\|יָּמִ֣ים]][[H9015\|׀]] [[H3117I\|יָמִ֔ימָ]][[H9011\|ה]] [[H9005\|לְ]][[H7812\|הִֽשְׁתַּחֲוֹ֧ת]] [[H9002\|וְ]][[H9005\|לִ]][[H2076\|זְבֹּ֛חַ]] [[H9005\|לַ]][[H3068G\|יהוָ֥ה]] [[H6635B\|צְבָא֖וֹת]] [[H9003\|בְּ]][[H7887\|שִׁלֹ֑ה]] [[H9002\|וְ]][[H8033G\|שָׁ֞ם]] [[H8147\|שְׁנֵ֣י]] [[H1121A\|בְנֵֽי]][[H9014\|־]] [[H5941\|עֵלִ֗י]] [[H2652\|חָפְנִי֙]] [[H9002\|וּ]][[H6372H\|פִ֣נְחָ֔ס]] [[H3548\|כֹּהֲנִ֖ים]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic HANNAH|HANNAH]] • [[topic HOPHNI|HOPHNI]] • [[topic SHILOH|SHILOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.2|<< 1 Samuel 1:2]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.4|1 Samuel 1:4 >>]]</td></tr></table>
 

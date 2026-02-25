@@ -1,8 +1,57 @@
+---
+title: Isaiah 26:18
+type: Verse
+kjv: "We have been with child, we have been in pain, we have as it were brought forth wind; we have not wrought any deliverance in the earth; neither have the inhabitants of the world fallen."
+bsb: "We were with child; we writhed in pain; but we gave birth to wind. We have given no salvation to the earth, nor brought any life into the world."
+hebrew: "הָרִ֣ינוּ חַ֔לְנוּ כְּמ֖וֹ יָלַ֣דְנוּ ר֑וּחַ יְשׁוּעֹת֙ בַּל־ נַ֣עֲשֶׂה אֶ֔רֶץ וּבַֽל־ יִפְּל֖וּ יֹשְׁבֵ֥י תֵבֵֽל׃"
+pericope: "[[Isa.26.1 A Song of Salvation|A Song of Salvation]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 26
+book/chapter: "[[Isa.26|Isaiah 26]]"
+chronological_order: 669
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H2029]]"
+- "[[H2342I]]"
+- "[[H3644G]]"
+- "[[H3205]]"
+- "[[H7307H]]"
+- "[[H3444]]"
+- "[[H1077]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H5307G]]"
+- "[[H3427]]"
+- "[[H8398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 26:18**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We have been with child, we have been in pain, we have as it were brought forth wind; we have not wrought any deliverance in the earth; neither have the inhabitants of the world fallen.
 <small><sub>**BSB:**</sub></small>
 We were with child; we writhed in pain; but we gave birth to wind. We have given no salvation to the earth, nor brought any life into the world.
+<small><sub>**Hebrew:**</sub></small>
+[[H2029\|הָרִ֣ינוּ]] [[H2342I\|חַ֔לְנוּ]] [[H3644G\|כְּמ֖וֹ]] [[H3205\|יָלַ֣דְנוּ]] [[H7307H\|ר֑וּחַ]] [[H3444\|יְשׁוּעֹת֙]] [[H1077\|בַּל]][[H9014\|־]] [[H6213A\|נַ֣עֲשֶׂה]] [[H0776G\|אֶ֔רֶץ]] [[H9002\|וּ]][[H1077\|בַֽל]][[H9014\|־]] [[H5307G\|יִפְּל֖וּ]] [[H3427\|יֹשְׁבֵ֥י]] [[H8398\|תֵבֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.17|<< Isaiah 26:17]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.19|Isaiah 26:19 >>]]</td></tr></table>
 

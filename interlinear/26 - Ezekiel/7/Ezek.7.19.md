@@ -1,8 +1,75 @@
+---
+title: Ezekiel 7:19
+type: Verse
+kjv: "They shall cast their silver in the streets, and their gold shall be removed: their silver and their gold shall not be able to deliver them in the day of the wrath of the LORD: they shall not satisfy their souls, neither fill their bowels: because it is the stumblingblock of their iniquity."
+bsb: "They will throw their silver into the streets, and their gold will seem unclean. Their silver and gold cannot save them in the day of the wrath of the LORD. They cannot satisfy their appetites or fill their stomachs with wealth, for it became the stumbling block that brought their iniquity."
+hebrew: "כַּסְפָּ֞ם בַּחוּצ֣וֹת יַשְׁלִ֗יכוּ וּזְהָבָם֮ לְנִדָּ֣ה יִֽהְיֶה֒ כַּסְפָּ֨ם וּזְהָבָ֜ם לֹֽא־ יוּכַ֣ל לְהַצִּילָ֗ם בְּיוֹם֙ עֶבְרַ֣ת יְהוָ֔ה נַפְשָׁם֙ לֹ֣א יְשַׂבֵּ֔עוּ וּמֵעֵיהֶ֖ם לֹ֣א יְמַלֵּ֑אוּ כִּֽי־ מִכְשׁ֥וֹל עֲוֹנָ֖ם הָיָֽה׃"
+pericope: "[[Ezek.7.14 The Desolation of Israel|The Desolation of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 7
+book/chapter: "[[Ezek.7|Ezekiel 7]]"
+chronological_order: 798
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOLD|GOLD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic STUMBLING|STUMBLING]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[H3701G]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H2351]]"
+- "[[H7993]]"
+- "[[H9002]]"
+- "[[H2091]]"
+- "[[H9005]]"
+- "[[H5079]]"
+- "[[H1961]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3201]]"
+- "[[H5337]]"
+- "[[H9038]]"
+- "[[H3117G]]"
+- "[[H5678]]"
+- "[[H3068G]]"
+- "[[H5315L]]"
+- "[[H7646]]"
+- "[[H4578]]"
+- "[[H4390]]"
+- "[[H3588A]]"
+- "[[H4383]]"
+- "[[H5771G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 7:19**<big><big>[[Ezek.7.14 The Desolation of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall cast their silver in the streets, and their gold shall be removed: their silver and their gold shall not be able to deliver them in the day of the wrath of the LORD: they shall not satisfy their souls, neither fill their bowels: because it is the stumblingblock of their iniquity.
 <small><sub>**BSB:**</sub></small>
 They will throw their silver into the streets, and their gold will seem unclean. Their silver and gold cannot save them in the day of the wrath of the LORD. They cannot satisfy their appetites or fill their stomachs with wealth, for it became the stumbling block that brought their iniquity.
+<small><sub>**Hebrew:**</sub></small>
+[[H3701G\|כַּסְפָּ֞]][[H9028\|ם]] [[H9003\|בַּ]][[H2351\|חוּצ֣וֹת]] [[H7993\|יַשְׁלִ֗יכוּ]] [[H9002\|וּ]][[H2091\|זְהָבָ]][[H9028\|ם֮]] [[H9005\|לְ]][[H5079\|נִדָּ֣ה]] [[H1961\|יִֽהְיֶה֒]] [[H3701G\|כַּסְפָּ֨]][[H9028\|ם]] [[H9002\|וּ]][[H2091\|זְהָבָ֜]][[H9028\|ם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3201\|יוּכַ֣ל]] [[H9005\|לְ]][[H5337\|הַצִּילָ֗]][[H9038\|ם]] [[H9003\|בְּ]][[H3117G\|יוֹם֙]] [[H5678\|עֶבְרַ֣ת]] [[H3068G\|יְהוָ֔ה]] [[H5315L\|נַפְשָׁ]][[H9028\|ם֙]] [[H3808\|לֹ֣א]] [[H7646\|יְשַׂבֵּ֔עוּ]] [[H9002\|וּ]][[H4578\|מֵעֵי]][[H9028\|הֶ֖ם]] [[H3808\|לֹ֣א]] [[H4390\|יְמַלֵּ֑אוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4383\|מִכְשׁ֥וֹל]] [[H5771G\|עֲוֹנָ֖]][[H9028\|ם]] [[H1961\|הָיָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOLD|GOLD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic MONEY|MONEY]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic RICH, THE|RICH, THE]] • [[topic STUMBLING|STUMBLING]] • [[topic WORKS|WORKS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.18|<< Ezekiel 7:18]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.20|Ezekiel 7:20 >>]]</td></tr></table>
 

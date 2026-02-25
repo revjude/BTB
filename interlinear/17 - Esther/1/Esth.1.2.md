@@ -1,8 +1,58 @@
+---
+title: Esther 1:2
+type: Verse
+kjv: "That in those days, when the king Ahasuerus sat on the throne of his kingdom, which was in Shushan the palace,"
+bsb: "In those days King Xerxes sat on his royal throne in the citadel of Susa."
+hebrew: "בַּיָּמִ֖ים הָהֵ֑ם כְּשֶׁ֣בֶת׀ הַמֶּ֣לֶךְ אֲחַשְׁוֵר֗וֹשׁ עַ֚ל כִּסֵּ֣א מַלְכוּת֔וֹ אֲשֶׁ֖ר בְּשׁוּשַׁ֥ן הַבִּירָֽה׃"
+pericope: "[[Esth.1.1 Xerxes’ Royal Feast|Xerxes’ Royal Feast]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 1
+book/chapter: "[[Esth.1|Esther 1]]"
+chronological_order: 899
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic PALACE|PALACE]]"
+- "[[topic SHUSHAN (SUSA)|SHUSHAN (SUSA)]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1992]]"
+- "[[H9004]]"
+- "[[H3427]]"
+- "[[H9015]]"
+- "[[H4428G]]"
+- "[[H0325]]"
+- "[[H5921A]]"
+- "[[H3678G]]"
+- "[[H4438]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H7800]]"
+- "[[H1002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 1:2**<big><big>[[Esth.1.1 Xerxes’ Royal Feast|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [That] in those days, when the king Ahasuerus sat on the throne of his kingdom, which [was] in Shushan the palace,
 <small><sub>**BSB:**</sub></small>
 In those days King Xerxes sat on his royal throne in the citadel of Susa.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יָּמִ֖ים]] [[H9009\|הָ]][[H1992\|הֵ֑ם]] [[H9004\|כְּ]][[H3427\|שֶׁ֣בֶת]][[H9015\|׀]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H0325\|אֲחַשְׁוֵר֗וֹשׁ]] [[H5921A\|עַ֚ל]] [[H3678G\|כִּסֵּ֣א]] [[H4438\|מַלְכוּת֔]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בְּ]][[H7800\|שׁוּשַׁ֥ן]] [[H9009\|הַ]][[H1002\|בִּירָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PALACE|PALACE]] • [[topic SHUSHAN (SUSA)|SHUSHAN (SUSA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.1.1|<< Esther 1:1]]</td><td align="center" style="border:none;">[[Esth.1|Esther 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1.3|Esther 1:3 >>]]</td></tr></table>
 

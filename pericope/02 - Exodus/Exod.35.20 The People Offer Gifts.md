@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The People Offer Gifts
+type: Pericope
 pericope: "[[Exod.35.20 The People Offer Gifts|The People Offer Gifts]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 35
 book/chapter: "[[Exod.35|Exodus 35]]"
-genre:
+chronological_order: 127
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 10
 verses:
 - "[[Exod.35.20]]"
 - "[[Exod.35.21]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Exod.35.29]]"
 ---
 
-[[Exod.35|Exodus 35:20 - Exodus 35:29]]
+<small>[[Exod.35|Exodus 35:20-29]]</small>
 *The People Offer Gifts*
 
 [[Exod.35.20|20]] And all the congregation of the children of Israel departed from the presence of Moses.

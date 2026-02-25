@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Prepare the Way for the LORD
+type: Pericope
 pericope: "[[Isa.40.1 Prepare the Way for the LORD|Prepare the Way for the LORD]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 40
 book/chapter: "[[Isa.40|Isaiah 40]]"
-genre:
+chronological_order: 679
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 5
 verses:
 - "[[Isa.40.1]]"
 - "[[Isa.40.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Isa.40.5]]"
 ---
 
-[[Isa.40|Isaiah 40:1 - Isaiah 40:5]]
+<small>[[Isa.40|Isaiah 40:1-5]]</small>
 *Prepare the Way for the LORD*
 
 [[Isa.40.1|1]] Comfort ye, comfort ye my people, saith your God.

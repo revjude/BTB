@@ -1,8 +1,60 @@
+---
+title: Psalm 46:1
+type: Verse
+kjv: "God is our refuge and strength, a very present help in trouble."
+bsb: "For the choirmaster. Of the sons of Korah. According to Alamoth. A song. God is our refuge and strength, an ever-present help in times of trouble."
+hebrew: "אֱלֹהִ֣ים לָ֭נוּ מַחֲסֶ֣ה וָעֹ֑ז עֶזְרָ֥ה בְ֝צָר֗וֹת נִמְצָ֥א מְאֹֽד׃"
+pericope: "[[Ps.46.1 God Is Our Refuge and Strength|God Is Our Refuge and Strength]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 46
+book/chapter: "[[Ps.46|Psalm 46]]"
+chronological_order: 501
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H4268]]"
+- "[[H9002]]"
+- "[[H5797]]"
+- "[[H5833]]"
+- "[[H9003]]"
+- "[[H6869B]]"
+- "[[H4672]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 46:1**<big><big>[[Ps.46.1 God Is Our Refuge and Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God [is] our refuge and strength, a very present help in trouble.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. Of the sons of Korah. According to Alamoth. A song. God is our refuge and strength, an ever-present help in times of trouble.
+<small><sub>**Hebrew:**</sub></small>
+[[H0430G\|אֱלֹהִ֣ים]] [[H9005\|לָ֭]][[H9035\|נוּ]] [[H4268\|מַחֲסֶ֣ה]] [[H9002\|וָ]][[H5797\|עֹ֑ז]] [[H5833\|עֶזְרָ֥ה]] [[H9003\|בְ֝]][[H6869B\|צָר֗וֹת]] [[H4672\|נִמְצָ֥א]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ASSURANCE|ASSURANCE]] • [[topic CHURCH|CHURCH]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic MUSIC|MUSIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.46.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.46.0|<< Psalms 46:0]]</td><td align="center" style="border:none;">[[Ps.46|Psalms 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.46.2|Psalms 46:2 >>]]</td></tr></table>
 

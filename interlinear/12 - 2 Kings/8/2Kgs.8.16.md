@@ -1,8 +1,58 @@
+---
+title: 2 Kings 8:16
+type: Verse
+kjv: "And in the fifth year of Joram the son of Ahab king of Israel, Jehoshaphat being then king of Judah, Jehoram the son of Jehoshaphat king of Judah began to reign."
+bsb: "In the fifth year of the reign of Joram son of Ahab over Israel, Jehoram son of Jehoshaphat succeeded his father as king of Judah."
+hebrew: "וּבִשְׁנַ֣ת חָמֵ֗שׁ לְיוֹרָ֤ם בֶּן־ אַחְאָב֙ מֶ֣לֶךְ יִשְׂרָאֵ֔ל וִיהוֹשָׁפָ֖ט מֶ֣לֶךְ יְהוּדָ֑ה מָלַ֛ךְ יְהוֹרָ֥ם בֶּן־ יְהוֹשָׁפָ֖ט מֶ֥לֶךְ יְהוּדָֽה׃"
+pericope: "[[2Kgs.8.16 Jehoram Reigns in Judah|Jehoram Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 8
+book/chapter: "[[2Kgs.8|2 Kings 8]]"
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHORAM|JEHORAM]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H2568]]"
+- "[[H9005]]"
+- "[[H3141H]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0256G]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H3092I]]"
+- "[[H3063G]]"
+- "[[H4427A]]"
+- "[[H3088G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 8:16**<big><big>[[2Kgs.8.16 Jehoram Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the fifth year of Joram the son of Ahab king of Israel, Jehoshaphat [being] then king of Judah, Jehoram the son of Jehoshaphat king of Judah began to reign.
 <small><sub>**BSB:**</sub></small>
 In the fifth year of the reign of Joram son of Ahab over Israel, Jehoram son of Jehoshaphat succeeded his father as king of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בִ]][[H8141\|שְׁנַ֣ת]] [[H2568\|חָמֵ֗שׁ]] [[H9005\|לְ]][[H3141H\|יוֹרָ֤ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0256G\|אַחְאָב֙]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וִ]][[H3092I\|יהוֹשָׁפָ֖ט]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֑ה]] [[H4427A\|מָלַ֛ךְ]] [[H3088G\|יְהוֹרָ֥ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3092I\|יְהוֹשָׁפָ֖ט]] [[H4428G\|מֶ֥לֶךְ]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFLUENCE|INFLUENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHORAM|JEHORAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.15|<< 2 Kings 8:15]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.17|2 Kings 8:17 >>]]</td></tr></table>
 

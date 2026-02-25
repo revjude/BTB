@@ -1,8 +1,70 @@
+---
+title: Genesis 14:9
+type: Verse
+kjv: "With Chedorlaomer the king of Elam, and with Tidal king of nations, and Amraphel king of Shinar, and Arioch king of Ellasar; four kings with five."
+bsb: "against Chedorlaomer king of Elam, Tidal king of Goiim, Amraphel king of Shinar, and Arioch king of Ellasar—four kings against five."
+hebrew: "אֵ֣ת כְּדָרְלָעֹ֜מֶר מֶ֣לֶךְ עֵילָ֗ם וְתִדְעָל֙ מֶ֣לֶךְ גּוֹיִ֔ם וְאַמְרָפֶל֙ מֶ֣לֶךְ שִׁנְעָ֔ר וְאַרְי֖וֹךְ מֶ֣לֶךְ אֶלָּסָ֑ר אַרְבָּעָ֥ה מְלָכִ֖ים אֶת־ הַחֲמִשָּֽׁה׃"
+pericope: "[[Gen.14.1 The War of the Kings|The War of the Kings]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 14
+book/chapter: "[[Gen.14|Genesis 14]]"
+chronological_order: 56
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic AMRAPHEL|AMRAPHEL]]"
+- "[[topic ARIOCH|ARIOCH]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic BIRSHA|BIRSHA]]"
+- "[[topic CHEDORLAOMER|CHEDORLAOMER]]"
+- "[[topic ELAM|ELAM]]"
+- "[[topic ELLASAR|ELLASAR]]"
+- "[[topic GOMORRAH|GOMORRAH]]"
+- "[[topic LOT|LOT]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic TIDAL|TIDAL]]"
+strongs:
+- "[[H0854]]"
+- "[[H3540]]"
+- "[[H4428G]]"
+- "[[H5867A]]"
+- "[[H9002]]"
+- "[[H8413]]"
+- "[[H1471B]]"
+- "[[H0569]]"
+- "[[H8152]]"
+- "[[H0746A]]"
+- "[[H0495]]"
+- "[[H0702]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2568]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 14:9**<big><big>[[Gen.14.1 The War of the Kings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With Chedorlaomer the king of Elam, and with Tidal king of nations, and Amraphel king of Shinar, and Arioch king of Ellasar; four kings with five.
 <small><sub>**BSB:**</sub></small>
 against Chedorlaomer king of Elam, Tidal king of Goiim, Amraphel king of Shinar, and Arioch king of Ellasar—four kings against five.
+<small><sub>**Hebrew:**</sub></small>
+[[H0854\|אֵ֣ת]] [[H3540\|כְּדָרְלָעֹ֜מֶר]] [[H4428G\|מֶ֣לֶךְ]] [[H5867A\|עֵילָ֗ם]] [[H9002\|וְ]][[H8413\|תִדְעָל֙]] [[H4428G\|מֶ֣לֶךְ]] [[H1471B\|גּוֹיִ֔ם]] [[H9002\|וְ]][[H0569\|אַמְרָפֶל֙]] [[H4428G\|מֶ֣לֶךְ]] [[H8152\|שִׁנְעָ֔ר]] [[H9002\|וְ]][[H0746A\|אַרְי֖וֹךְ]] [[H4428G\|מֶ֣לֶךְ]] [[H0495\|אֶלָּסָ֑ר]] [[H0702\|אַרְבָּעָ֥ה]] [[H4428G\|מְלָכִ֖ים]] [[H0854\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2568\|חֲמִשָּֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic AMRAPHEL|AMRAPHEL]] • [[topic ARIOCH|ARIOCH]] • [[topic BABYLON|BABYLON]] • [[topic BIRSHA|BIRSHA]] • [[topic CHEDORLAOMER|CHEDORLAOMER]] • [[topic ELAM|ELAM]] • [[topic ELLASAR|ELLASAR]] • [[topic GOMORRAH|GOMORRAH]] • [[topic LOT|LOT]] • [[topic SODOM|SODOM]] • [[topic TIDAL|TIDAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.14.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.14.8|<< Genesis 14:8]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.14.10|Genesis 14:10 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Numbers 28:4
+type: Verse
+kjv: "The one lamb shalt thou offer in the morning, and the other lamb shalt thou offer at even;"
+bsb: "Offer one lamb in the morning and the other at twilight,"
+hebrew: "אֶת־ הַכֶּ֥בֶשׂ אֶחָ֖ד תַּעֲשֶׂ֣ה בַבֹּ֑קֶר וְאֵת֙ הַכֶּ֣בֶשׂ הַשֵּׁנִ֔י תַּעֲשֶׂ֖ה בֵּ֥ין הָֽעַרְבָּֽיִם׃"
+pericope: "[[Num.28.1 The Daily Offerings|The Daily Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 28
+book/chapter: "[[Num.28|Numbers 28]]"
+chronological_order: 188
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic DAILY OFFERING|DAILY OFFERING]]"
+- "[[topic LAMB|LAMB]]"
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3532]]"
+- "[[H0259]]"
+- "[[H6213I]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H9002]]"
+- "[[H8145]]"
+- "[[H0996G]]"
+- "[[H6153]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 28:4**<big><big>[[Num.28.1 The Daily Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The one lamb shalt thou offer in the morning, and the other lamb shalt thou offer at even;
 <small><sub>**BSB:**</sub></small>
 Offer one lamb in the morning and the other at twilight,
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3532\|כֶּ֥בֶשׂ]] [[H0259\|אֶחָ֖ד]] [[H6213I\|תַּעֲשֶׂ֣ה]] [[H9003\|בַ]][[H1242\|בֹּ֑קֶר]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H9009\|הַ]][[H3532\|כֶּ֣בֶשׂ]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֔י]] [[H6213I\|תַּעֲשֶׂ֖ה]] [[H0996G\|בֵּ֥ין]] [[H9009\|הָֽ]][[H6153\|עַרְבָּֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAILY OFFERING|DAILY OFFERING]] • [[topic LAMB|LAMB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.3|<< Numbers 28:3]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.5|Numbers 28:5 >>]]</td></tr></table>
 

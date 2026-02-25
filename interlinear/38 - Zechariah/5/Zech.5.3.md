@@ -1,8 +1,72 @@
+---
+title: Zechariah 5:3
+type: Verse
+kjv: "Then said he unto me, This is the curse that goeth forth over the face of the whole earth: for every one that stealeth shall be cut off as on this side according to it; and every one that sweareth shall be cut off as on that side according to it."
+bsb: "Then he told me, “This is the curse that is going out over the face of all the land, for according to one side of the scroll, every thief will be removed; and according to the other side, every perjurer will be removed."
+hebrew: "וַיֹּ֣אמֶר אֵלַ֔י זֹ֚את הָֽאָלָ֔ה הַיּוֹצֵ֖את עַל־ פְּנֵ֣י כָל־ הָאָ֑רֶץ כִּ֣י כָל־ הַגֹּנֵ֗ב מִזֶּה֙ כָּמ֣וֹהָ נִקָּ֔ה וְכָל־ הַנִּ֨שְׁבָּ֔ע מִזֶּ֖ה כָּמ֥וֹהָ נִקָּֽה׃"
+pericope: "[[Zech.5.1 The Vision of the Flying Scroll|The Vision of the Flying Scroll]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 5
+book/chapter: "[[Zech.5|Zechariah 5]]"
+chronological_order: 861
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H2063]]"
+- "[[H9009]]"
+- "[[H0423]]"
+- "[[H3318O]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440J]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H3588A]]"
+- "[[H1589]]"
+- "[[H9006]]"
+- "[[H2088]]"
+- "[[H3644G]]"
+- "[[H9034]]"
+- "[[H5352]]"
+- "[[H9002]]"
+- "[[H7650]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 5:3**<big><big>[[Zech.5.1 The Vision of the Flying Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said he unto me, This [is] the curse that goeth forth over the face of the whole earth: for every one that stealeth shall be cut off [as] on this side according to it; and every one that sweareth shall be cut off [as] on that side according to it.
 <small><sub>**BSB:**</sub></small>
 Then he told me, “This is the curse that is going out over the face of all the land, for according to one side of the scroll, every thief will be removed; and according to the other side, every perjurer will be removed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H2063\|זֹ֚את]] [[H9009\|הָֽ]][[H0423\|אָלָ֔ה]] [[H9009\|הַ]][[H3318O\|יּוֹצֵ֖את]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֣י]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H3588A\|כִּ֣י]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1589\|גֹּנֵ֗ב]] [[H9006\|מִ]][[H2088\|זֶּה֙]] [[H3644G\|כָּמ֣וֹ]][[H9034\|הָ]] [[H5352\|נִקָּ֔ה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H7650\|נִּ֨שְׁבָּ֔ע]] [[H9006\|מִ]][[H2088\|זֶּ֖ה]] [[H3644G\|כָּמ֥וֹ]][[H9034\|הָ]] [[H5352\|נִקָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SYMBOLS|SYMBOLS]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]] • [[topic VISION|VISION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.5.2|<< Zechariah 5:2]]</td><td align="center" style="border:none;">[[Zech.5|Zechariah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.5.4|Zechariah 5:4 >>]]</td></tr></table>
 

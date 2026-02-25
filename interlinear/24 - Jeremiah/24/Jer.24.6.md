@@ -1,8 +1,64 @@
+---
+title: Jeremiah 24:6
+type: Verse
+kjv: "For I will set mine eyes upon them for good, and I will bring them again to this land: and I will build them, and not pull them down; and I will plant them, and not pluck them up."
+bsb: "I will keep My eyes on them for good and will return them to this land. I will build them up and not tear them down; I will plant them and not uproot them."
+hebrew: "וְשַׂמְתִּ֨י עֵינִ֤י עֲלֵיהֶם֙ לְטוֹבָ֔ה וַהֲשִׁבֹתִ֖ים עַל־ הָאָ֣רֶץ הַזֹּ֑את וּבְנִיתִים֙ וְלֹ֣א אֶהֱרֹ֔ס וּנְטַעְתִּ֖ים וְלֹ֥א אֶתּֽוֹשׁ׃"
+pericope: "[[Jer.24.1 The Good and Bad Figs|The Good and Bad Figs]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 24
+book/chapter: "[[Jer.24|Jeremiah 24]]"
+chronological_order: 747
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H2896C]]"
+- "[[H7725G]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H1129]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2040]]"
+- "[[H5193]]"
+- "[[H5428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 24:6**<big><big>[[Jer.24.1 The Good and Bad Figs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will set mine eyes upon them for good, and I will bring them again to this land: and I will build them, and not pull [them] down; and I will plant them, and not pluck [them] up.
 <small><sub>**BSB:**</sub></small>
 I will keep My eyes on them for good and will return them to this land. I will build them up and not tear them down; I will plant them and not uproot them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7760A\|שַׂמְתִּ֨י]] [[H5869A\|עֵינִ֤]][[H9020\|י]] [[H5921A\|עֲלֵי]][[H9038\|הֶם֙]] [[H9005\|לְ]][[H2896C\|טוֹבָ֔ה]] [[H9001\|וַ]][[H7725G\|הֲשִׁבֹתִ֖י]][[H9038\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H9001\|וּ]][[H1129\|בְנִיתִי]][[H9038\|ם֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H2040\|אֶהֱרֹ֔ס]] [[H9001\|וּ]][[H5193\|נְטַעְתִּ֖י]][[H9038\|ם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5428\|אֶתּֽוֹשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.24.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.24.5|<< Jeremiah 24:5]]</td><td align="center" style="border:none;">[[Jer.24|Jeremiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.24.7|Jeremiah 24:7 >>]]</td></tr></table>
 

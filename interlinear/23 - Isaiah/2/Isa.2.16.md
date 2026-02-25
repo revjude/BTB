@@ -1,8 +1,56 @@
+---
+title: Isaiah 2:16
+type: Verse
+kjv: "And upon all the ships of Tarshish, and upon all pleasant pictures."
+bsb: "against every ship of Tarshish, and against every stately vessel."
+hebrew: "וְעַ֖ל כָּל־ אֳנִיּ֣וֹת תַּרְשִׁ֑ישׁ וְעַ֖ל כָּל־ שְׂכִיּ֥וֹת הַחֶמְדָּֽה׃"
+pericope: "[[Isa.2.5 The Day of Reckoning|The Day of Reckoning]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 2
+book/chapter: "[[Isa.2|Isaiah 2]]"
+chronological_order: 610
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PICTURE|PICTURE]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic TARSHISH|TARSHISH]]"
+strongs:
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0591]]"
+- "[[H8659H]]"
+- "[[H7914]]"
+- "[[H9009]]"
+- "[[H2532A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 2:16**<big><big>[[Isa.2.5 The Day of Reckoning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And upon all the ships of Tarshish, and upon all pleasant pictures.
 <small><sub>**BSB:**</sub></small>
 against every ship of Tarshish, and against every stately vessel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5921A\|עַ֖ל]] [[H3605\|כָּל]][[H9014\|־]] [[H0591\|אֳנִיּ֣וֹת]] [[H8659H\|תַּרְשִׁ֑ישׁ]] [[H9002\|וְ]][[H5921A\|עַ֖ל]] [[H3605\|כָּל]][[H9014\|־]] [[H7914\|שְׂכִיּ֥וֹת]] [[H9009\|הַ]][[H2532A\|חֶמְדָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic ISAIAH|ISAIAH]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PICTURE|PICTURE]] • [[topic PRIDE|PRIDE]] • [[topic TARSHISH|TARSHISH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.15|<< Isaiah 2:15]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.17|Isaiah 2:17 >>]]</td></tr></table>
 

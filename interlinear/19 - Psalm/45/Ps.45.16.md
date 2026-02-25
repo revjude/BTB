@@ -1,8 +1,60 @@
+---
+title: Psalm 45:16
+type: Verse
+kjv: "Instead of thy fathers shall be thy children, whom thou mayest make princes in all the earth."
+bsb: "Your sons will succeed your fathers; you will make them princes throughout the land."
+hebrew: "תַּ֣חַת אֲ֭בֹתֶיךָ יִהְי֣וּ בָנֶ֑יךָ תְּשִׁיתֵ֥מוֹ לְ֝שָׂרִ֗ים בְּכָל־ הָאָֽרֶץ׃"
+pericope: "[[Ps.45.1 My Heart Is Stirred by a Noble Theme|My Heart Is Stirred by a Noble Theme]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 45
+book/chapter: "[[Ps.45|Psalm 45]]"
+chronological_order: 500
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BRIDE|BRIDE]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H8478H]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H1961]]"
+- "[[H1121G]]"
+- "[[H7896G]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H8269]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 45:16**<big><big>[[Ps.45.1 My Heart Is Stirred by a Noble Theme|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Instead of thy fathers shall be thy children, whom thou mayest make princes in all the earth.
 <small><sub>**BSB:**</sub></small>
 Your sons will succeed your fathers; you will make them princes throughout the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H8478H\|תַּ֣חַת]] [[H0001G\|אֲ֭בֹתֶי]][[H9021\|ךָ]] [[H1961\|יִהְי֣וּ]] [[H1121G\|בָנֶ֑י]][[H9021\|ךָ]] [[H7896G\|תְּשִׁיתֵ֥]][[H9038\|מוֹ]] [[H9005\|לְ֝]][[H8269\|שָׂרִ֗ים]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDE|BRIDE]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.45.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.45.15|<< Psalms 45:15]]</td><td align="center" style="border:none;">[[Ps.45|Psalms 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.45.17|Psalms 45:17 >>]]</td></tr></table>
 

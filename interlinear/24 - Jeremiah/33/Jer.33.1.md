@@ -1,8 +1,66 @@
+---
+title: Jeremiah 33:1
+type: Verse
+kjv: "Moreover the word of the LORD came unto Jeremiah the second time, while he was yet shut up in the court of the prison, saying,"
+bsb: "While Jeremiah was still confined in the courtyard of the guard, the word of the LORD came to him a second time:"
+hebrew: "וַיְהִ֧י דְבַר־ יְהוָ֛ה אֶֽל־ יִרְמְיָ֖הוּ שֵׁנִ֑ית וְהוּא֙ עוֹדֶ֣נּוּ עָצ֔וּר בַּחֲצַ֥ר הַמַּטָּרָ֖ה לֵאמֹֽר׃"
+pericope: "[[Jer.33.1 The Excellence of the Restored Nation|The Excellence of the Restored Nation]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 33
+book/chapter: "[[Jer.33|Jeremiah 33]]"
+chronological_order: 756
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRISON|PRISON]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H3414L]]"
+- "[[H8145]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H5750]]"
+- "[[H9043]]"
+- "[[H6113]]"
+- "[[H9003]]"
+- "[[H2691A]]"
+- "[[H9009]]"
+- "[[H4307H]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 33:1**<big><big>[[Jer.33.1 The Excellence of the Restored Nation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the word of the LORD came unto Jeremiah the second time, while he was yet shut up in the court of the prison, saying,
 <small><sub>**BSB:**</sub></small>
 While Jeremiah was still confined in the courtyard of the guard, the word of the LORD came to him a second time:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֧י]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֛ה]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֖הוּ]] [[H8145\|שֵׁנִ֑ית]] [[H9002\|וְ]][[H1931\|הוּא֙]] [[H5750\|עוֹדֶ֣]][[H9043\|נּוּ]] [[H6113\|עָצ֔וּר]] [[H9003\|בַּ]][[H2691A\|חֲצַ֥ר]] [[H9009\|הַ]][[H4307H\|מַּטָּרָ֖ה]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEREMIAH|JEREMIAH]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PRISON|PRISON]] • [[topic PROPHECY|PROPHECY]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.33.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.44|<< Jeremiah 32:44]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.2|Jeremiah 33:2 >>]]</td></tr></table>
 

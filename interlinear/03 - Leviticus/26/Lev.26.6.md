@@ -1,8 +1,74 @@
+---
+title: Leviticus 26:6
+type: Verse
+kjv: "And I will give peace in the land, and ye shall lie down, and none shall make you afraid: and I will rid evil beasts out of the land, neither shall the sword go through your land."
+bsb: "And I will give peace to the land, and you will lie down with nothing to fear. I will rid the land of dangerous animals, and no sword will pass through your land."
+hebrew: "וְנָתַתִּ֤י שָׁלוֹם֙ בָּאָ֔רֶץ וּשְׁכַבְתֶּ֖ם וְאֵ֣ין מַחֲרִ֑יד וְהִשְׁבַּתִּ֞י חַיָּ֤ה רָעָה֙ מִן־ הָאָ֔רֶץ וְחֶ֖רֶב לֹא־ תַעֲבֹ֥ר בְּאַרְצְכֶֽם׃"
+pericope: "[[Lev.26.1 Additional Blessings of Obedience|Additional Blessings of Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic NATION|NATION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H7965G]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H7901G]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H2729]]"
+- "[[H7673A]]"
+- "[[H2416C]]"
+- "[[H7451A]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2719]]"
+- "[[H3808]]"
+- "[[H5674A]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 26:6**<big><big>[[Lev.26.1 Additional Blessings of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will give peace in the land, and ye shall lie down, and none shall make [you] afraid: and I will rid evil beasts out of the land, neither shall the sword go through your land.
 <small><sub>**BSB:**</sub></small>
 And I will give peace to the land, and you will lie down with nothing to fear. I will rid the land of dangerous animals, and no sword will pass through your land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414G\|נָתַתִּ֤י]] [[H7965G\|שָׁלוֹם֙]] [[H9003\|בָּ]][[H0776G\|אָ֔רֶץ]] [[H9001\|וּ]][[H7901G\|שְׁכַבְתֶּ֖ם]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H2729\|מַחֲרִ֑יד]] [[H9001\|וְ]][[H7673A\|הִשְׁבַּתִּ֞י]] [[H2416C\|חַיָּ֤ה]] [[H7451A\|רָעָה֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וְ]][[H2719\|חֶ֖רֶב]] [[H3808\|לֹא]][[H9014\|־]] [[H5674A\|תַעֲבֹ֥ר]] [[H9003\|בְּ]][[H0776G\|אַרְצְ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic COURAGE|COURAGE]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GOD|GOD]] • [[topic NATION|NATION]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PEACE|PEACE]] • [[topic REWARD|REWARD]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.5|<< Leviticus 26:5]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.7|Leviticus 26:7 >>]]</td></tr></table>
 

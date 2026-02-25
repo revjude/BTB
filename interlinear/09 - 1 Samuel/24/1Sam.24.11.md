@@ -1,8 +1,74 @@
+---
+title: 1 Samuel 24:11
+type: Verse
+kjv: "Moreover, my father, see, yea, see the skirt of thy robe in my hand: for in that I cut off the skirt of thy robe, and killed thee not, know thou and see that there is neither evil nor transgression in mine hand, and I have not sinned against thee; yet thou huntest my soul to take it."
+bsb: "See, my father, look at the corner of your robe in my hand. For I cut it off, but I did not kill you. Know and see that there is no evil or rebellion in my hands. I have not sinned against you, even though you are hunting me down to take my life."
+hebrew: "וְאָבִ֣י רְאֵ֔ה גַּ֗ם רְאֵ֛ה אֶת־ כְּנַ֥ף מְעִילְךָ֖ בְּיָדִ֑י כִּ֡י בְּכָרְתִי֩ אֶת־ כְּנַ֨ף מְעִֽילְךָ֜ וְלֹ֣א הֲרַגְתִּ֗יךָ דַּ֤ע וּרְאֵה֙ כִּי֩ אֵ֨ין בְּיָדִ֜י רָעָ֤ה וָפֶ֙שַׁע֙ וְלֹא־ חָטָ֣אתִי לָ֔ךְ וְאַתָּ֛ה צֹדֶ֥ה אֶת־ נַפְשִׁ֖י לְקַחְתָּֽהּ׃"
+pericope: "[[1Sam.24.1 David Spares Saul|David Spares Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 24
+book/chapter: "[[1Sam.24|1 Samuel 24]]"
+chronological_order: 303
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic MAGNANIMITY|MAGNANIMITY]]"
+- "[[topic MERCY|MERCY]]"
+- "[[topic SELF-CONTROL|SELF-CONTROL]]"
+strongs:
+- "[[H9002]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H7200I]]"
+- "[[H1571]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3671]]"
+- "[[H4598]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H3588A]]"
+- "[[H3772G]]"
+- "[[H9040]]"
+- "[[H3808]]"
+- "[[H2026]]"
+- "[[H9031]]"
+- "[[H3045]]"
+- "[[H0369]]"
+- "[[H3027G]]"
+- "[[H7451I]]"
+- "[[H6588]]"
+- "[[H2398]]"
+- "[[H9005]]"
+- "[[H0859A]]"
+- "[[H6658A]]"
+- "[[H5315H]]"
+- "[[H3947G]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 24:11**<big><big>[[1Sam.24.1 David Spares Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover, my father, see, yea, see the skirt of thy robe in my hand: for in that I cut off the skirt of thy robe, and killed thee not, know thou and see that [there is] neither evil nor transgression in mine hand, and I have not sinned against thee; yet thou huntest my soul to take it.
 <small><sub>**BSB:**</sub></small>
 See, my father, look at the corner of your robe in my hand. For I cut it off, but I did not kill you. Know and see that there is no evil or rebellion in my hands. I have not sinned against you, even though you are hunting me down to take my life.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0001G\|אָבִ֣]][[H9020\|י]] [[H7200I\|רְאֵ֔ה]] [[H1571\|גַּ֗ם]] [[H7200I\|רְאֵ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3671\|כְּנַ֥ף]] [[H4598\|מְעִילְ]][[H9021\|ךָ֖]] [[H9003\|בְּ]][[H3027H\|יָדִ֑]][[H9020\|י]] [[H3588A\|כִּ֡י]] [[H9003\|בְּ]][[H3772G\|כָרְתִ]][[H9040\|י֩]] [[H0853\|אֶת]][[H9014\|־]] [[H3671\|כְּנַ֨ף]] [[H4598\|מְעִֽילְ]][[H9021\|ךָ֜]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H2026\|הֲרַגְתִּ֗י]][[H9031\|ךָ]] [[H3045\|דַּ֤ע]] [[H9002\|וּ]][[H7200I\|רְאֵה֙]] [[H3588A\|כִּי֩]] [[H0369\|אֵ֨ין]] [[H9003\|בְּ]][[H3027G\|יָדִ֜]][[H9020\|י]] [[H7451I\|רָעָ֤ה]] [[H9002\|וָ]][[H6588\|פֶ֙שַׁע֙]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H2398\|חָטָ֣אתִי]] [[H9005\|לָ֔]][[H9031\|ךְ]] [[H9002\|וְ]][[H0859A\|אַתָּ֛ה]] [[H6658A\|צֹדֶ֥ה]] [[H0853\|אֶת]][[H9014\|־]] [[H5315H\|נַפְשִׁ֖]][[H9020\|י]] [[H9005\|לְ]][[H3947G\|קַחְתָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORGIVENESS|FORGIVENESS]] • [[topic MAGNANIMITY|MAGNANIMITY]] • [[topic MERCY|MERCY]] • [[topic SELF-CONTROL|SELF-CONTROL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.24.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.24.10|<< 1 Samuel 24:10]]</td><td align="center" style="border:none;">[[1Sam.24|1 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.24.12|1 Samuel 24:12 >>]]</td></tr></table>
 

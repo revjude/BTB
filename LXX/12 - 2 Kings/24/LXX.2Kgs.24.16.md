@@ -1,6 +1,69 @@
+---
+title: LXX 2 Kings 24:16
+type: Verse
+lxx: "And all the mighty men -- seven thousand, and the fabricator, and the one so consigned -- thousands of all the mighty men in strength making war. And the king of Babylon led them in a displacement unto Babylon."
+greek: "και πάντας τους άνδρας δυνατούς επτά χιλιάδας και τον τέκτονα και τον συγκλείοντα χιλίους τους πάντες δυνατούς άνδρας ισχύϊ ποιούντες πόλεμον και ήγαγεν αυτούς βασιλεύς Βαβυλώνος μετοικεσίαν εις Βαβυλώνα"
+original_language: Greek
+testament: Old
+book: 2 Kings
+chapter: 24
+book/chapter: "[[2Kgs.24|2 Kings 24]]"
+chronological_order: 741
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CAPTIVITY|CAPTIVITY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOIACHIN|JEHOIACHIN]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0435]]"
+- "[[G1415]]"
+- "[[G2033]]"
+- "[[G5505]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5045]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4788]]"
+- "[[G5507]]"
+- "[[G3588]]"
+- "[[G3956]]"
+- "[[G1415]]"
+- "[[G0435]]"
+- "[[G2479]]"
+- "[[G4160]]"
+- "[[G4171]]"
+- "[[G2532]]"
+- "[[G0071]]"
+- "[[G1473]]"
+- "[[G0935]]"
+- "[[G0897]]"
+- "[[G3350]]"
+- "[[G1519]]"
+- "[[G0897]]"
+---
+
 **LXX 2 Kings 24:16** 
 <small><sub>**LXX:**</sub></small>
 And all the mighty men -- seven thousand, and the fabricator, and the one so consigned -- thousands of all the mighty men in strength making war. And \[the\] king of Babylon led them in a displacement unto Babylon. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3956\|πάντας]] [[G3588\|τους]] [[G0435\|άνδρας]] [[G1415\|δυνατούς]] [[G2033\|επτά]] [[G5505\|χιλιάδας]] [[G2532\|και]] [[G3588\|τον]] [[G5045\|τέκτονα]] [[G2532\|και]] [[G3588\|τον]] [[G4788\|συγκλείοντα]] [[G5507\|χιλίους]] [[G3588\|τους]] [[G3956\|πάντες]] [[G1415\|δυνατούς]] [[G0435\|άνδρας]] [[G2479\|ισχύϊ]] [[G4160\|ποιούντες]] [[G4171\|πόλεμον]] [[G2532\|και]] [[G0071\|ήγαγεν]] [[G1473\|αυτούς]] [[G0935\|βασιλεύς]] [[G0897\|Βαβυλώνος]] [[G3350\|μετοικεσίαν]] [[G1519\|εις]] [[G0897\|Βαβυλώνα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CAPTIVITY|CAPTIVITY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOIACHIN|JEHOIACHIN]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Kgs.24.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.24.15|<< 2 Kings 24:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.17|2 Kings 24:17 >>]]</td></tr></table>
 
@@ -34,6 +97,6 @@ And all the mighty men -- seven thousand, and the fabricator, and the one so con
 | in a displacement | **<big>[[G3350\|μετοικεσίαν]]</big>** |
 | unto | **<big>[[G1519\|εις]]</big>** |
 | Babylon. | **<big>[[G0897\|Βαβυλώνα]]</big>** |
-[[2Kgs.24.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.24.15|<< 2 Kings 24:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.17|2 Kings 24:17 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.24.15|<< 2 Kings 24:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.17|2 Kings 24:17 >>]]</td></tr></table>
 
 

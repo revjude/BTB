@@ -1,8 +1,62 @@
+---
+title: Job 24:5
+type: Verse
+kjv: "Behold, as wild asses in the desert, go they forth to their work; rising betimes for a prey: the wilderness yieldeth food for them and for their children."
+bsb: "Indeed, like wild donkeys in the desert, the poor go to work foraging for food; the wasteland is food for their children."
+hebrew: "הֵ֤ן פְּרָאִ֨ים׀ בַּֽמִּדְבָּ֗ר יָצְא֣וּ בְּ֭פָעֳלָם מְשַׁחֲרֵ֣י לַטָּ֑רֶף עֲרָבָ֥ה ל֥וֹ לֶ֝֗חֶם לַנְּעָרִֽים׃"
+pericope: "[[Job.24.1 Job：Judgment for the Wicked|Job：Judgment for the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 24
+book/chapter: "[[Job.24|Job 24]]"
+chronological_order: 35
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ASS (DONKEY)|ASS (DONKEY)]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2005]]"
+- "[[H6501]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H3318G]]"
+- "[[H6467]]"
+- "[[H9028]]"
+- "[[H7836]]"
+- "[[H9005]]"
+- "[[H2964]]"
+- "[[H6160L]]"
+- "[[H9033]]"
+- "[[H3899G]]"
+- "[[H5288]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 24:5**<big><big>[[Job.24.1 Job：Judgment for the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, [as] wild asses in the desert, go they forth to their work; rising betimes for a prey: the wilderness [yieldeth] food for them [and] for [their] children.
 <small><sub>**BSB:**</sub></small>
 Indeed, like wild donkeys in the desert, the poor go to work foraging for food; the wasteland is food for their children.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵ֤ן]] [[H6501\|פְּרָאִ֨ים]][[H9015\|׀]] [[H9003\|בַּֽ]][[H4057B\|מִּדְבָּ֗ר]] [[H3318G\|יָצְא֣וּ]] [[H9003\|בְּ֭]][[H6467\|פָעֳלָ]][[H9028\|ם]] [[H7836\|מְשַׁחֲרֵ֣י]] [[H9005\|לַ]][[H2964\|טָּ֑רֶף]] [[H6160L\|עֲרָבָ֥ה]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H3899G\|לֶ֝֗חֶם]] [[H9005\|לַ]][[H5288\|נְּעָרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic ASS (DONKEY)|ASS (DONKEY)]] • [[topic DISHONESTY|DISHONESTY]] • [[topic GOD|GOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.24.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.4|<< Job 24:4]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.6|Job 24:6 >>]]</td></tr></table>
 

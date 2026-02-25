@@ -1,8 +1,68 @@
+---
+title: Joel 2:1
+type: Verse
+kjv: "Blow ye the trumpet in Zion, and sound an alarm in my holy mountain: let all the inhabitants of the land tremble: for the day of the LORD cometh, for it is nigh at hand;"
+bsb: "Blow the ram’s horn in Zion; sound the alarm on My holy mountain! Let all who dwell in the land tremble, for the Day of the LORD is coming; indeed, it is near—"
+hebrew: "תִּקְע֨וּ שׁוֹפָ֜ר בְּצִיּ֗וֹן וְהָרִ֙יעוּ֙ בְּהַ֣ר קָדְשִׁ֔י יִרְגְּז֕וּ כֹּ֖ל יֹשְׁבֵ֣י הָאָ֑רֶץ כִּֽי־ בָ֥א יוֹם־ יְהוָ֖ה כִּ֥י קָרֽוֹב׃"
+pericope: "[[Joel.2.1 The Army of Locusts|The Army of Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 2
+book/chapter: "[[Joel.2|Joel 2]]"
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DAY|DAY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOEL|JOEL]]"
+- "[[topic TRUMPET|TRUMPET]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H8628]]"
+- "[[H7782]]"
+- "[[H9003]]"
+- "[[H6726]]"
+- "[[H9002]]"
+- "[[H7321]]"
+- "[[H2022G]]"
+- "[[H6944G]]"
+- "[[H9020]]"
+- "[[H7264]]"
+- "[[H3605]]"
+- "[[H3427]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H3117G]]"
+- "[[H3068G]]"
+- "[[H7138]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 2:1**<big><big>[[Joel.2.1 The Army of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blow ye the trumpet in Zion, and sound an alarm in my holy mountain: let all the inhabitants of the land tremble: for the day of the LORD cometh, for [it is] nigh at hand;
 <small><sub>**BSB:**</sub></small>
 Blow the ram’s horn in Zion; sound the alarm on My holy mountain! Let all who dwell in the land tremble, for the Day of the LORD is coming; indeed, it is near—
+<small><sub>**Hebrew:**</sub></small>
+[[H8628\|תִּקְע֨וּ]] [[H7782\|שׁוֹפָ֜ר]] [[H9003\|בְּ]][[H6726\|צִיּ֗וֹן]] [[H9002\|וְ]][[H7321\|הָרִ֙יעוּ֙]] [[H9003\|בְּ]][[H2022G\|הַ֣ר]] [[H6944G\|קָדְשִׁ֔]][[H9020\|י]] [[H7264\|יִרְגְּז֕וּ]] [[H3605\|כֹּ֖ל]] [[H3427\|יֹשְׁבֵ֣י]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0935G\|בָ֥א]] [[H3117G\|יוֹם]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H3588A\|כִּ֥י]] [[H7138\|קָרֽוֹב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DAY|DAY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOEL|JOEL]] • [[topic TRUMPET|TRUMPET]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.20|<< Joel 1:20]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.2|Joel 2:2 >>]]</td></tr></table>
 

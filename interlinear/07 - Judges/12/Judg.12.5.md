@@ -1,8 +1,68 @@
+---
+title: Judges 12:5
+type: Verse
+kjv: "And the Gileadites took the passages of Jordan before the Ephraimites: and it was so, that when those Ephraimites which were escaped said, Let me go over; that the men of Gilead said unto him, Art thou an Ephraimite? If he said, Nay;"
+bsb: "The Gileadites captured the fords of the Jordan leading to Ephraim, and whenever a fugitive from Ephraim would say, “Let me cross over,” the Gileadites would ask him, “Are you an Ephraimite?” If he answered, “No,”"
+hebrew: "וַיִּלְכֹּ֥ד גִּלְעָ֛ד אֶֽת־ מַעְבְּר֥וֹת הַיַּרְדֵּ֖ן לְאֶפְרָ֑יִם וְֽ֠הָיָה כִּ֣י יֹאמְר֞וּ פְּלִיטֵ֤י אֶפְרַ֙יִם֙ אֶעֱבֹ֔רָה וַיֹּ֨אמְרוּ ל֧וֹ אַנְשֵֽׁי־ גִלְעָ֛ד הַֽאֶפְרָתִ֥י אַ֖תָּה וַיֹּ֥אמֶֽר׀ לֹֽא׃"
+pericope: "[[Judg.12.1 Jephthah Defeats Ephraim|Jephthah Defeats Ephraim]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 12
+book/chapter: "[[Judg.12|Judges 12]]"
+chronological_order: 266
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JORDAN|JORDAN]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H3920]]"
+- "[[H1568G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4569B]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H9005]]"
+- "[[H0669G]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H0559]]"
+- "[[H6412A]]"
+- "[[H5674A]]"
+- "[[H9033]]"
+- "[[H0582]]"
+- "[[H9008]]"
+- "[[H0673G]]"
+- "[[H0859A]]"
+- "[[H9015]]"
+- "[[H3808]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 12:5**<big><big>[[Judg.12.1 Jephthah Defeats Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Gileadites took the passages of Jordan before the Ephraimites: and it was [so], that when those Ephraimites which were escaped said, Let me go over; that the men of Gilead said unto him, [Art] thou an Ephraimite? If he said, Nay;
 <small><sub>**BSB:**</sub></small>
 The Gileadites captured the fords of the Jordan leading to Ephraim, and whenever a fugitive from Ephraim would say, “Let me cross over,” the Gileadites would ask him, “Are you an Ephraimite?” If he answered, “No,”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3920\|יִּלְכֹּ֥ד]] [[H1568G\|גִּלְעָ֛ד]] [[H0853\|אֶֽת]][[H9014\|־]] [[H4569B\|מַעְבְּר֥וֹת]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֖ן]] [[H9005\|לְ]][[H0669G\|אֶפְרָ֑יִם]] [[H9001\|וְֽ֠]][[H1961\|הָיָה]] [[H3588A\|כִּ֣י]] [[H0559\|יֹאמְר֞וּ]] [[H6412A\|פְּלִיטֵ֤י]] [[H0669G\|אֶפְרַ֙יִם֙]] [[H5674A\|אֶעֱבֹ֔רָה]] [[H9001\|וַ]][[H0559\|יֹּ֨אמְרוּ]] [[H9005\|ל֧]][[H9033\|וֹ]] [[H0582\|אַנְשֵֽׁי]][[H9014\|־]] [[H1568G\|גִלְעָ֛ד]] [[H9008\|הַֽ]][[H0673G\|אֶפְרָתִ֥י]] [[H0859A\|אַ֖תָּה]] [[H9001\|וַ]][[H0559\|יֹּ֥אמֶֽר]][[H9015\|׀]] [[H3808\|לֹֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHRAIM|EPHRAIM]] • [[topic ISRAEL|ISRAEL]] • [[topic JORDAN|JORDAN]] • [[topic JUDGE|JUDGE]] • [[topic STRIFE|STRIFE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.12.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.12.4|<< Judges 12:4]]</td><td align="center" style="border:none;">[[Judg.12|Judges 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.12.6|Judges 12:6 >>]]</td></tr></table>
 

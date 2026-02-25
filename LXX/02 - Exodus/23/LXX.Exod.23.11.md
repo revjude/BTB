@@ -1,6 +1,77 @@
+---
+title: LXX Exodus 23:11
+type: Verse
+lxx: "but on the seventh you shall make a release from work, and spare it, and the poor of your nation shall eat; and the things being left behind of them the wild beasts shall eat of the field. Thus you shall do  with your vineyard, and  your olive grove."
+greek: "τω δε εβδόμω άφεσιν ποιήσεις και ανήσεις αυτήν και έδονται οι πτωχοί του έθνους σου τα δε υπολειπόμενα αυτων έδεται τα θηρία τα άγρια ούτω ποιήσεις τον αμπελώνά σου και τον ελαιώνά σου"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 23
+book/chapter: "[[Exod.23|Exodus 23]]"
+chronological_order: 115
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic LAND|LAND]]"
+- "[[topic OLIVE|OLIVE]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1442]]"
+- "[[G0859]]"
+- "[[G4160]]"
+- "[[G2532]]"
+- "[[G0447]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2068]]"
+- "[[G3588]]"
+- "[[G4434]]"
+- "[[G3588]]"
+- "[[G1484]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G5275]]"
+- "[[G1473]]"
+- "[[G2068]]"
+- "[[G3588]]"
+- "[[G2342]]"
+- "[[G3588]]"
+- "[[G0068]]"
+- "[[G3779]]"
+- "[[G4160]]"
+- "[[G3588]]"
+- "[[G0290]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1638]]"
+- "[[G1473]]"
+---
+
 **LXX Exodus 23:11** 
 <small><sub>**LXX:**</sub></small>
 but on the seventh you shall make a release \[from work\], and spare it, and the poor of your nation shall eat; and the \[things\] being left behind of them the wild beasts shall eat of the field. Thus you shall do  with your vineyard, and  your olive grove. 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τω]] [[G1161\|δε]] [[G1442\|εβδόμω]] [[G0859\|άφεσιν]] [[G4160\|ποιήσεις]] [[G2532\|και]] [[G0447\|ανήσεις]] [[G1473\|αυτήν]] [[G2532\|και]] [[G2068\|έδονται]] [[G3588\|οι]] [[G4434\|πτωχοί]] [[G3588\|του]] [[G1484\|έθνους]] [[G1473\|σου]] [[G3588\|τα]] [[G1161\|δε]] [[G5275\|υπολειπόμενα]] [[G1473\|αυτων]] [[G2068\|έδεται]] [[G3588\|τα]] [[G2342\|θηρία]] [[G3588\|τα]] [[G0068\|άγρια]] [[G3779\|ούτω]] [[G4160\|ποιήσεις]] [[G3588\|τον]] [[G0290\|αμπελώνά]] [[G1473\|σου]] [[G2532\|και]] [[G3588\|τον]] [[G1638\|ελαιώνά]] [[G1473\|σου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic LAND|LAND]] • [[topic OLIVE|OLIVE]] • [[topic POOR|POOR]] • [[topic SABBATIC YEAR|SABBATIC YEAR]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.23.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.10|<< Exodus 23:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.12|Exodus 23:12 >>]]</td></tr></table>
 
@@ -34,6 +105,6 @@ but on the seventh you shall make a release \[from work\], and spare it, and the
 | and | **<big>[[G2532\|και]]</big>** |
 | \<obj.> | **<big>[[G3588\|τον]]</big>** |
 | your olive grove. | **<big>[[G1638\|ελαιώνά]]</big>** **<big>[[G1473\|σου]]</big>** |
-[[Exod.23.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.10|<< Exodus 23:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.12|Exodus 23:12 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.10|<< Exodus 23:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.12|Exodus 23:12 >>]]</td></tr></table>
 
 

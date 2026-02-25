@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Josiah Restores the Passover
+type: Pericope
 pericope: "[[2Chr.35.1 Josiah Restores the Passover|Josiah Restores the Passover]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 35
 book/chapter: "[[2Chr.35|2 Chronicles 35]]"
-genre:
+chronological_order: 714
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 19
 verses:
 - "[[2Chr.35.1]]"
 - "[[2Chr.35.2]]"
@@ -37,7 +44,7 @@ verses:
 - "[[2Chr.35.19]]"
 ---
 
-[[2Chr.35|2 Chronicles 35:1 - 2 Chronicles 35:19]]
+<small>[[2Chr.35|2 Chronicles 35:1-19]]</small>
 *Josiah Restores the Passover*
 
 [[2Chr.35.1|1]] Moreover Josiah kept a passover unto the LORD in Jerusalem: and they killed the passover on the fourteenth \[day\] of the first month.

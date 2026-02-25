@@ -1,8 +1,54 @@
+---
+title: Numbers 33:53
+type: Verse
+kjv: "And ye shall dispossess the inhabitants of the land, and dwell therein: for I have given you the land to possess it."
+bsb: "You are to take possession of the land and settle in it, for I have given you the land to possess."
+hebrew: "וְהוֹרַשְׁתֶּ֥ם אֶת־ הָאָ֖רֶץ וִֽישַׁבְתֶּם־ בָּ֑הּ כִּ֥י לָכֶ֛ם נָתַ֥תִּי אֶת־ הָאָ֖רֶץ לָרֶ֥שֶׁת אֹתָֽהּ׃"
+pericope: "[[Num.33.50 Instructions for Occupying Canaan|Instructions for Occupying Canaan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 33
+book/chapter: "[[Num.33|Numbers 33]]"
+chronological_order: 193
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H3423H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H5414G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 33:53**<big><big>[[Num.33.50 Instructions for Occupying Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall dispossess [the inhabitants of] the land, and dwell therein: for I have given you the land to possess it.
 <small><sub>**BSB:**</sub></small>
 You are to take possession of the land and settle in it, for I have given you the land to possess.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3423H\|הוֹרַשְׁתֶּ֥ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9001\|וִֽ]][[H3427\|ישַׁבְתֶּם]][[H9014\|־]] [[H9003\|בָּ֑]][[H9034\|הּ]] [[H3588A\|כִּ֥י]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H5414G\|נָתַ֥תִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9005\|לָ]][[H3423H\|רֶ֥שֶׁת]] [[H0853\|אֹתָֽ]][[H9034\|הּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.53|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.52|<< Numbers 33:52]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.54|Numbers 33:54 >>]]</td></tr></table>
 

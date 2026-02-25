@@ -1,8 +1,64 @@
+---
+title: Isaiah 1:25
+type: Verse
+kjv: "And I will turn my hand upon thee, and purely purge away thy dross, and take away all thy tin:"
+bsb: "I will turn My hand against you; I will thoroughly purge your dross; I will remove all your impurities."
+hebrew: "וְאָשִׁ֤יבָה יָדִי֙ עָלַ֔יִךְ וְאֶצְרֹ֥ף כַּבֹּ֖ר סִיגָ֑יִךְ וְאָסִ֖ירָה כָּל־ בְּדִילָֽיִךְ׃"
+pericope: "[[Isa.1.21 The Corruption of Zion|The Corruption of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 1
+book/chapter: "[[Isa.1|Isaiah 1]]"
+chronological_order: 609
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ALLOY, OF METALS|ALLOY, OF METALS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PURITY|PURITY]]"
+- "[[topic REFINING|REFINING]]"
+- "[[topic REGENERATION|REGENERATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H7725G]]"
+- "[[H3027G]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H9032]]"
+- "[[H6884]]"
+- "[[H9004]]"
+- "[[H1253]]"
+- "[[H5509]]"
+- "[[H9022]]"
+- "[[H5493G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0913]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 1:25**<big><big>[[Isa.1.21 The Corruption of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will turn my hand upon thee, and purely purge away thy dross, and take away all thy tin:
 <small><sub>**BSB:**</sub></small>
 I will turn My hand against you; I will thoroughly purge your dross; I will remove all your impurities.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7725G\|אָשִׁ֤יבָה]] [[H3027G\|יָדִ]][[H9020\|י֙]] [[H5921A\|עָלַ֔יִ]][[H9032\|ךְ]] [[H9002\|וְ]][[H6884\|אֶצְרֹ֥ף]] [[H9004\|כַּ]][[H1253\|בֹּ֖ר]] [[H5509\|סִיגָ֑יִ]][[H9022\|ךְ]] [[H9002\|וְ]][[H5493G\|אָסִ֖ירָה]] [[H3605\|כָּל]][[H9014\|־]] [[H0913\|בְּדִילָֽיִ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ALLOY, OF METALS|ALLOY, OF METALS]] • [[topic BLESSING|BLESSING]] • [[topic CHURCH|CHURCH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PURITY|PURITY]] • [[topic REFINING|REFINING]] • [[topic REGENERATION|REGENERATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.24|<< Isaiah 1:24]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.26|Isaiah 1:26 >>]]</td></tr></table>
 

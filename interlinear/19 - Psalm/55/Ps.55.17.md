@@ -1,8 +1,56 @@
+---
+title: Psalm 55:17
+type: Verse
+kjv: "Evening, and morning, and at noon, will I pray, and cry aloud: and he shall hear my voice."
+bsb: "Morning, noon, and night, I cry out in distress, and He hears my voice."
+hebrew: "עֶ֤רֶב וָבֹ֣קֶר וְ֭צָהֳרַיִם אָשִׂ֣יחָה וְאֶהֱמֶ֑ה וַיִּשְׁמַ֥ע קוֹלִֽי׃"
+pericope: "[[Ps.55.1 Cast Your Burden upon the LORD|Cast Your Burden upon the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 55
+book/chapter: "[[Ps.55|Psalm 55]]"
+chronological_order: 370
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H6153]]"
+- "[[H9002]]"
+- "[[H1242]]"
+- "[[H6672A]]"
+- "[[H7878]]"
+- "[[H1993]]"
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H6963A]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 55:17**<big><big>[[Ps.55.1 Cast Your Burden upon the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Evening, and morning, and at noon, will I pray, and cry aloud: and he shall hear my voice.
 <small><sub>**BSB:**</sub></small>
 Morning, noon, and night, I cry out in distress, and He hears my voice.
+<small><sub>**Hebrew:**</sub></small>
+[[H6153\|עֶ֤רֶב]] [[H9002\|וָ]][[H1242\|בֹ֣קֶר]] [[H9002\|וְ֭]][[H6672A\|צָהֳרַיִם]] [[H7878\|אָשִׂ֣יחָה]] [[H9002\|וְ]][[H1993\|אֶהֱמֶ֑ה]] [[H9001\|וַ]][[H8085G\|יִּשְׁמַ֥ע]] [[H6963A\|קוֹלִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.55.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55.16|<< Psalms 55:16]]</td><td align="center" style="border:none;">[[Ps.55|Psalms 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.55.18|Psalms 55:18 >>]]</td></tr></table>
 

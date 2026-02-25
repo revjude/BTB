@@ -1,6 +1,74 @@
+---
+title: LXX Joshua 4:3
+type: Verse
+lxx: "give orders to them! saying, Take up to yourselves from here from the midst of the Jordan, from the station of the feet of the priests, twelve prepared stones! And these, them across together with you, put them in  your military encampment! where ever you should camp there the night."
+greek: "σύνταξον αυτοίς λέγων ανέλεσθε αυτοίς εντεύθεν εκ μέσου του Ιορδάνου από στάσεως ποδών των ιερέων ετοίμους δώδεκα λίθους και τούτους διακομίσαντες άμα υμίν αυτοίς θέτε αυτούς εν τη στρατοπεδεία υμών ου εάν παρεμβάλητε εκεί την νύκτα"
+original_language: Greek
+testament: Old
+book: Joshua
+chapter: 4
+book/chapter: "[[Josh.4|Joshua 4]]"
+chronological_order: 234
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PILLAR|PILLAR]]"
+- "[[topic STONES|STONES]]"
+- "[[topic TOKEN|TOKEN]]"
+strongs:
+- "[[G4929]]"
+- "[[G1473]]"
+- "[[G3004]]"
+- "[[G0337]]"
+- "[[G1473]]"
+- "[[G1782]]"
+- "[[G1537]]"
+- "[[G3319]]"
+- "[[G3588]]"
+- "[[G2446]]"
+- "[[G0575]]"
+- "[[G4714]]"
+- "[[G4228]]"
+- "[[G3588]]"
+- "[[G2409]]"
+- "[[G2092]]"
+- "[[G1427]]"
+- "[[G3037]]"
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G6837]]"
+- "[[G0260]]"
+- "[[G1473]]"
+- "[[G1473]]"
+- "[[G5087]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G9197]]"
+- "[[G1473]]"
+- "[[G3739]]"
+- "[[G1437]]"
+- "[[G6070]]"
+- "[[G1563]]"
+- "[[G3588]]"
+- "[[G3571]]"
+---
+
 **LXX Joshua 4:3** 
 <small><sub>**LXX:**</sub></small>
 give orders to them! saying, Take up to yourselves from here from \[the\] midst of the Jordan, from \[the\] station of \[the\] feet of the priests, twelve prepared stones! And these, them across together with you, put them in  your military encampment! where ever you should camp there the night. 
+<small><sub>**Greek:**</sub></small>
+[[G4929\|σύνταξον]] [[G1473\|αυτοίς]] [[G3004\|λέγων]] [[G0337\|ανέλεσθε]] [[G1473\|αυτοίς]] [[G1782\|εντεύθεν]] [[G1537\|εκ]] [[G3319\|μέσου]] [[G3588\|του]] [[G2446\|Ιορδάνου]] [[G0575\|από]] [[G4714\|στάσεως]] [[G4228\|ποδών]] [[G3588\|των]] [[G2409\|ιερέων]] [[G2092\|ετοίμους]] [[G1427\|δώδεκα]] [[G3037\|λίθους]] [[G2532\|και]] [[G3778\|τούτους]] [[G6837\|διακομίσαντες]] [[G0260\|άμα]] [[G1473\|υμίν]] [[G1473\|αυτοίς]] [[G5087\|θέτε]] [[G1473\|αυτούς]] [[G1722\|εν]] [[G3588\|τη]] [[G9197\|στρατοπεδεία]] [[G1473\|υμών]] [[G3739\|ου]] [[G1437\|εάν]] [[G6070\|παρεμβάλητε]] [[G1563\|εκεί]] [[G3588\|την]] [[G3571\|νύκτα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic PILLAR|PILLAR]] • [[topic STONES|STONES]] • [[topic TOKEN|TOKEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Josh.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.2|<< Joshua 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.4|Joshua 4:4 >>]]</td></tr></table>
 
@@ -41,6 +109,6 @@ give orders to them! saying, Take up to yourselves from here from \[the\] midst 
 | there | **<big>[[G1563\|εκεί]]</big>** |
 | the | **<big>[[G3588\|την]]</big>** |
 | night. | **<big>[[G3571\|νύκτα]]</big>** |
-[[Josh.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.2|<< Joshua 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.4|Joshua 4:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.2|<< Joshua 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.4|Joshua 4:4 >>]]</td></tr></table>
 
 

@@ -1,8 +1,61 @@
+---
+title: Genesis 31:2
+type: Verse
+kjv: "And Jacob beheld the countenance of Laban, and, behold, it was not toward him as before."
+bsb: "And Jacob saw from the countenance of Laban that his attitude toward him had changed."
+hebrew: "וַיַּ֥רְא יַעֲקֹ֖ב אֶת־ פְּנֵ֣י לָבָ֑ן וְהִנֵּ֥ה אֵינֶ֛נּוּ עִמּ֖וֹ כִּתְמ֥וֹל שִׁלְשֽׁוֹם׃"
+pericope: "[[Gen.31.1 Jacob Flees from Laban|Jacob Flees from Laban]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COUNTENANCE|COUNTENANCE]]"
+- "[[topic LABAN|LABAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H3290]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6440L]]"
+- "[[H3837A]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9004]]"
+- "[[H8543]]"
+- "[[H8032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 31:2**<big><big>[[Gen.31.1 Jacob Flees from Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob beheld the countenance of Laban, and, behold, it [was] not toward him as before.
 <small><sub>**BSB:**</sub></small>
 And Jacob saw from the countenance of Laban that his attitude toward him had changed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֥רְא]] [[H3290\|יַעֲקֹ֖ב]] [[H0853\|אֶת]][[H9014\|־]] [[H6440L\|פְּנֵ֣י]] [[H3837A\|לָבָ֑ן]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H0369\|אֵינֶ֛]][[H9043\|נּוּ]] [[H5973A\|עִמּ֖]][[H9033\|וֹ]] [[H9004\|כִּ]][[H8543\|תְמ֥וֹל]] [[H8032\|שִׁלְשֽׁוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTENANCE|COUNTENANCE]] • [[topic LABAN|LABAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.1|<< Genesis 31:1]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.3|Genesis 31:3 >>]]</td></tr></table>
 

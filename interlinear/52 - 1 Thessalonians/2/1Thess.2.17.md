@@ -1,10 +1,59 @@
+---
+title: 1 Thessalonians 2:17
+type: Verse
+kjv: "But we, brethren, being taken from you for a short time in presence, not in heart, endeavoured the more abundantly to see your face with great desire."
+bsb: "Brothers, although we were torn away from you for a short time (in person, not in heart), our desire to see you face to face was even more intense."
+greek: "Ἡμεῖς δέ, ἀδελφοί, ἀπορφανισθέντες ἀφ᾽ ὑμῶν πρὸς καιρὸν ὥρας προσώπῳ οὐ καρδίᾳ, περισσοτέρως ἐσπουδάσαμεν τὸ πρόσωπον ὑμῶν ἰδεῖν ἐν πολλῇ ἐπιθυμίᾳ."
+pericope: "[[1Thess.2.17 Paul’s Longing to Visit|Paul’s Longing to Visit]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 2
+book/chapter: "[[1Thess.2|1 Thessalonians 2]]"
+chronological_order: 1049
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G3165]]"
+- "[[G1161]]"
+- "[[G0080]]"
+- "[[G0642]]"
+- "[[G0575]]"
+- "[[G4771]]"
+- "[[G4314]]"
+- "[[G2540]]"
+- "[[G5610]]"
+- "[[G4383]]"
+- "[[G3756]]"
+- "[[G2588]]"
+- "[[G4056]]"
+- "[[G4704]]"
+- "[[G3588]]"
+- "[[G1492H]]"
+- "[[G1722]]"
+- "[[G4183]]"
+- "[[G1939]]"
+texts:
+- NKO
+---
+
 **1 Thessalonians 2:17**<big><big>[[1Thess.2.17 Paul’s Longing to Visit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But we, brethren, being taken from you for a short time in presence, not in heart, endeavoured the more abundantly to see your face with great desire.
 <small><sub>**BSB:**</sub></small>
 Brothers, although we were torn away from you for a short time (in person, not in heart), our desire to see you face to face was even more intense.
-<small><sub>**Literal:**</sub></small>
-We ourselves however, brothers, having been bereaved of you for [the] time of an hour in face not in heart, more abundantly were eager the face of you to see with great desire.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.16|<< 1 Thessalonians 2:16]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.18|1 Thessalonians 2:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3165\|Ἡμεῖς]]  [[G1161\|δέ,]]  [[G0080\|ἀδελφοί,]]  [[G0642\|ἀπορφανισθέντες]]  [[G0575\|ἀφ᾽]]  [[G4771\|ὑμῶν]]  [[G4314\|πρὸς]]  [[G2540\|καιρὸν]]  [[G5610\|ὥρας]]  [[G4383\|προσώπῳ]]  [[G3756\|οὐ]]  [[G2588\|καρδίᾳ,]]  [[G4056\|περισσοτέρως]]  [[G4704\|ἐσπουδάσαμεν]]  [[G3588\|τὸ]]  [[G4383\|πρόσωπον]]  [[G4771\|ὑμῶν]]  [[G1492H\|ἰδεῖν]]  [[G1722\|ἐν]]  [[G4183\|πολλῇ]]  [[G1939\|ἐπιθυμίᾳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.16|<< 1 Thessalonians 2:16]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.18|1 Thessalonians 2:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

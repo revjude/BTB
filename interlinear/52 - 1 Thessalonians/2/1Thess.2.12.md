@@ -1,10 +1,62 @@
+---
+title: 1 Thessalonians 2:12
+type: Verse
+kjv: "That ye would walk worthy of God, who hath called you unto his kingdom and glory."
+bsb: "encouraging you, comforting you, and urging you to walk in a manner worthy of God, who calls you into His own kingdom and glory."
+greek: "παρακαλοῦντες ὑμᾶς καὶ παραμυθούμενοι καὶ μαρτυρόμενοι εἰς τὸ περιπατεῖν ὑμᾶς ἀξίως τοῦ θεοῦ τοῦ καλοῦντος ὑμᾶς εἰς τὴν ἑαυτοῦ βασιλείαν καὶ δόξαν.¶"
+pericope: "[[1Thess.2.1 Paul’s Ministry|Paul’s Ministry]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 2
+book/chapter: "[[1Thess.2|1 Thessalonians 2]]"
+chronological_order: 1049
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G3870]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G3888]]"
+- "[[G3143]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4043]]"
+- "[[G0516]]"
+- "[[G2316]]"
+- "[[G2564G]]"
+- "[[G1438]]"
+- "[[G0932]]"
+- "[[G1391]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Thessalonians 2:12**<big><big>[[1Thess.2.1 Paul’s Ministry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That ye would walk worthy of God, who hath called you unto his kingdom and glory.
 <small><sub>**BSB:**</sub></small>
 encouraging you, comforting you, and urging you to walk in a manner worthy of God, who calls you into His own kingdom and glory.
-<small><sub>**Literal:**</sub></small>
-exhorting you and comforting and charging [12] unto <the> to walk you worthily <the> of God who is calling you to the His own kingdom and glory.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.11|<< 1 Thessalonians 2:11]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.13|1 Thessalonians 2:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3870\|παρακαλοῦντες]]  [[G4771\|ὑμᾶς]]  [[G2532\|καὶ]]  [[G3888\|παραμυθούμενοι]]  [[G2532\|καὶ]]  [[G3143\|μαρτυρόμενοι]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4043\|περιπατεῖν]]  [[G4771\|ὑμᾶς]]  [[G0516\|ἀξίως]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|τοῦ]]  [[G2564G\|καλοῦντος]]  [[G4771\|ὑμᾶς]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1438\|ἑαυτοῦ]]  [[G0932\|βασιλείαν]]  [[G2532\|καὶ]]  [[G1391\|δόξαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic HEAVEN|HEAVEN]] • [[topic HOLINESS|HOLINESS]] • [[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PREACHING|PREACHING]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.11|<< 1 Thessalonians 2:11]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.13|1 Thessalonians 2:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

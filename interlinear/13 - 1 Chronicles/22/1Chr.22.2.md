@@ -1,8 +1,61 @@
+---
+title: 1 Chronicles 22:2
+type: Verse
+kjv: "And David commanded to gather together the strangers that were in the land of Israel; and he set masons to hew wrought stones to build the house of God."
+bsb: "So David gave orders to gather the foreigners in the land of Israel, from whom he appointed stonecutters to prepare finished stones for building the house of God."
+hebrew: "וַיֹּ֣אמֶר דָּוִ֔יד לִכְנוֹס֙ אֶת־ הַגֵּרִ֔ים אֲשֶׁ֖ר בְּאֶ֣רֶץ יִשְׂרָאֵ֑ל וַיַּעֲמֵ֣ד חֹֽצְבִ֗ים לַחְצוֹב֙ אַבְנֵ֣י גָזִ֔ית לִבְנ֖וֹת בֵּ֥ית הָאֱלֹהִֽים׃"
+pericope: "[[1Chr.22.1 Preparations for the Temple|Preparations for the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 22
+book/chapter: "[[1Chr.22|1 Chronicles 22]]"
+chronological_order: 433
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H9005]]"
+- "[[H3664]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1616]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3478]]"
+- "[[H5975G]]"
+- "[[H2672]]"
+- "[[H0068G]]"
+- "[[H1496]]"
+- "[[H1129]]"
+- "[[H1004Q]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 22:2**<big><big>[[1Chr.22.1 Preparations for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David commanded to gather together the strangers that [were] in the land of Israel; and he set masons to hew wrought stones to build the house of God.
 <small><sub>**BSB:**</sub></small>
 So David gave orders to gather the foreigners in the land of Israel, from whom he appointed stonecutters to prepare finished stones for building the house of God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H1732\|דָּוִ֔יד]] [[H9005\|לִ]][[H3664\|כְנוֹס֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1616\|גֵּרִ֔ים]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H5975G\|יַּעֲמֵ֣ד]] [[H2672\|חֹֽצְבִ֗ים]] [[H9005\|לַ]][[H2672\|חְצוֹב֙]] [[H0068G\|אַבְנֵ֣י]] [[H1496\|גָזִ֔ית]] [[H9005\|לִ]][[H1129\|בְנ֖וֹת]] [[H1004Q\|בֵּ֥ית]] [[H9009\|הָ]][[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.22.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.22.1|<< 1 Chronicles 22:1]]</td><td align="center" style="border:none;">[[1Chr.22|1 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.22.3|1 Chronicles 22:3 >>]]</td></tr></table>
 

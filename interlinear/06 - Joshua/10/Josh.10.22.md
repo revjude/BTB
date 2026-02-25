@@ -1,8 +1,67 @@
+---
+title: Joshua 10:22
+type: Verse
+kjv: "Then said Joshua, Open the mouth of the cave, and bring out those five kings unto me out of the cave."
+bsb: "Then Joshua said, “Open the mouth of the cave and bring those five kings out to me.”"
+hebrew: "וַיֹּ֣אמֶר יְהוֹשֻׁ֔עַ פִּתְח֖וּ אֶת־ פִּ֣י הַמְּעָרָ֑ה וְהוֹצִ֣יאוּ אֵלַ֗י אֶת־ חֲמֵ֛שֶׁת הַמְּלָכִ֥ים הָאֵ֖לֶּה מִן־ הַמְּעָרָֽה׃"
+pericope: "[[Josh.10.16 The Victory at Makkedah|The Victory at Makkedah]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 10
+book/chapter: "[[Josh.10|Joshua 10]]"
+chronological_order: 240
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ADONI-ZEDEK|ADONI-ZEDEK]]"
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic CAVE|CAVE]]"
+- "[[topic DEBIR|DEBIR]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MAKKEDAH|MAKKEDAH]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3091G]]"
+- "[[H6605A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6310G]]"
+- "[[H9009]]"
+- "[[H4631]]"
+- "[[H9002]]"
+- "[[H3318H]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H2568]]"
+- "[[H4428G]]"
+- "[[H0428]]"
+- "[[H4480A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 10:22**<big><big>[[Josh.10.16 The Victory at Makkedah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Joshua, Open the mouth of the cave, and bring out those five kings unto me out of the cave.
 <small><sub>**BSB:**</sub></small>
 Then Joshua said, “Open the mouth of the cave and bring those five kings out to me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3091G\|יְהוֹשֻׁ֔עַ]] [[H6605A\|פִּתְח֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H6310G\|פִּ֣י]] [[H9009\|הַ]][[H4631\|מְּעָרָ֑ה]] [[H9002\|וְ]][[H3318H\|הוֹצִ֣יאוּ]] [[H0413\|אֵלַ֗]][[H9030\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H2568\|חֲמֵ֛שֶׁת]] [[H9009\|הַ]][[H4428G\|מְּלָכִ֥ים]] [[H9009\|הָ]][[H0428\|אֵ֖לֶּה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4631\|מְּעָרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADONI-ZEDEK|ADONI-ZEDEK]] • [[topic AMORITES|AMORITES]] • [[topic CAPTIVE|CAPTIVE]] • [[topic CAVE|CAVE]] • [[topic DEBIR|DEBIR]] • [[topic HEBRON|HEBRON]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MAKKEDAH|MAKKEDAH]] • [[topic PRISONERS|PRISONERS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.21|<< Joshua 10:21]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.23|Joshua 10:23 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: Proverbs 9:17
+type: Verse
+kjv: "Stolen waters are sweet, and bread eaten in secret is pleasant."
+bsb: "“Stolen water is sweet, and bread eaten in secret is tasty!”"
+hebrew: "מַֽיִם־ גְּנוּבִ֥ים יִמְתָּ֑קוּ וְלֶ֖חֶם סְתָרִ֣ים יִנְעָֽם׃"
+pericope: "[[Prov.9.13 The Way of Folly|The Way of Folly]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 9
+book/chapter: "[[Prov.9|Proverbs 9]]"
+chronological_order: 464
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]]"
+- "[[topic HELL|HELL]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic PLEASURE|PLEASURE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H4325G]]"
+- "[[H9014]]"
+- "[[H1589]]"
+- "[[H4985]]"
+- "[[H9002]]"
+- "[[H3899H]]"
+- "[[H5643A]]"
+- "[[H5276]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 9:17**<big><big>[[Prov.9.13 The Way of Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Stolen waters are sweet, and bread [eaten] in secret is pleasant.
 <small><sub>**BSB:**</sub></small>
 “Stolen water is sweet, and bread eaten in secret is tasty!”
+<small><sub>**Hebrew:**</sub></small>
+[[H4325G\|מַֽיִם]][[H9014\|־]] [[H1589\|גְּנוּבִ֥ים]] [[H4985\|יִמְתָּ֑קוּ]] [[H9002\|וְ]][[H3899H\|לֶ֖חֶם]] [[H5643A\|סְתָרִ֣ים]] [[H5276\|יִנְעָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic FOOL|FOOL]] • [[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]] • [[topic HELL|HELL]] • [[topic IGNORANCE|IGNORANCE]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic PLEASURE|PLEASURE]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.9.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.9.16|<< Proverbs 9:16]]</td><td align="center" style="border:none;">[[Prov.9|Proverbs 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.9.18|Proverbs 9:18 >>]]</td></tr></table>
 

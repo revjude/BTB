@@ -1,8 +1,58 @@
+---
+title: Numbers 3:29
+type: Verse
+kjv: "The families of the sons of Kohath shall pitch on the side of the tabernacle southward."
+bsb: "The clans of the Kohathites were to camp on the south side of the tabernacle,"
+hebrew: "מִשְׁפְּחֹ֥ת בְּנֵי־ קְהָ֖ת יַחֲנ֑וּ עַ֛ל יֶ֥רֶךְ הַמִּשְׁכָּ֖ן תֵּימָֽנָה׃"
+pericope: "[[Num.3.27 The Kohathites|The Kohathites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H4940]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H6955]]"
+- "[[H2583]]"
+- "[[H5921A]]"
+- "[[H3409]]"
+- "[[H9009]]"
+- "[[H4908]]"
+- "[[H8486]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 3:29**<big><big>[[Num.3.27 The Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The families of the sons of Kohath shall pitch on the side of the tabernacle southward.
 <small><sub>**BSB:**</sub></small>
 The clans of the Kohathites were to camp on the south side of the tabernacle,
+<small><sub>**Hebrew:**</sub></small>
+[[H4940\|מִשְׁפְּחֹ֥ת]] [[H1121A\|בְּנֵי]][[H9014\|־]] [[H6955\|קְהָ֖ת]] [[H2583\|יַחֲנ֑וּ]] [[H5921A\|עַ֛ל]] [[H3409\|יֶ֥רֶךְ]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּ֖ן]] [[H8486\|תֵּימָֽנָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic CENSUS|CENSUS]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.28|<< Numbers 3:28]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.30|Numbers 3:30 >>]]</td></tr></table>
 

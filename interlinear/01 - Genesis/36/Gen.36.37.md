@@ -1,8 +1,60 @@
+---
+title: Genesis 36:37
+type: Verse
+kjv: "And Samlah died, and Saul of Rehoboth by the river reigned in his stead."
+bsb: "When Samlah died, Shaul from Rehoboth on the Euphrates reigned in his place."
+hebrew: "וַיָּ֖מָת שַׂמְלָ֑ה וַיִּמְלֹ֣ךְ תַּחְתָּ֔יו שָׁא֖וּל מֵרְחֹב֥וֹת הַנָּהָֽר׃"
+pericope: "[[Gen.36.31 The Kings of Edom|The Kings of Edom]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 36
+book/chapter: "[[Gen.36|Genesis 36]]"
+chronological_order: 78
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DUKE|DUKE]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic REHOBOTH|REHOBOTH]]"
+- "[[topic SAMLAH|SAMLAH]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic SHAUL|SHAUL]]"
+strongs:
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H8072]]"
+- "[[H4427A]]"
+- "[[H8478H]]"
+- "[[H9033]]"
+- "[[H7586I]]"
+- "[[H9006]]"
+- "[[H7344H]]"
+- "[[H9009]]"
+- "[[H5104G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 36:37**<big><big>[[Gen.36.31 The Kings of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samlah died, and Saul of Rehoboth [by] the river reigned in his stead.
 <small><sub>**BSB:**</sub></small>
 When Samlah died, Shaul from Rehoboth on the Euphrates reigned in his place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4191\|יָּ֖מָת]] [[H8072\|שַׂמְלָ֑ה]] [[H9001\|וַ]][[H4427A\|יִּמְלֹ֣ךְ]] [[H8478H\|תַּחְתָּ֔י]][[H9033\|ו]] [[H7586I\|שָׁא֖וּל]] [[H9006\|מֵ]][[H7344H\|רְחֹב֥וֹת]] [[H9009\|הַ]][[H5104G\|נָּהָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DUKE|DUKE]] • [[topic EDOMITES|EDOMITES]] • [[topic REHOBOTH|REHOBOTH]] • [[topic SAMLAH|SAMLAH]] • [[topic SAUL|SAUL]] • [[topic SHAUL|SHAUL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.36|<< Genesis 36:36]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.38|Genesis 36:38 >>]]</td></tr></table>
 

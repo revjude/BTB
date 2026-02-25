@@ -1,8 +1,62 @@
+---
+title: 1 Chronicles 27:5
+type: Verse
+kjv: "The third captain of the host for the third month was Benaiah the son of Jehoiada, a chief priest: and in his course were twenty and four thousand."
+bsb: "The third army commander, as chief for the third month, was Benaiah son of Jehoiada the priest. There were 24,000 men in his division."
+hebrew: "שַׂ֣ר הַצָּבָ֤א הַשְּׁלִישִׁי֙ לַחֹ֣דֶשׁ הַשְּׁלִישִׁ֔י בְּנָיָ֧הוּ בֶן־ יְהוֹיָדָ֛ע הַכֹּהֵ֖ן רֹ֑אשׁ וְעַל֙ מַחֲלֻקְתּ֔וֹ עֶשְׂרִ֥ים וְאַרְבָּעָ֖ה אָֽלֶף׃"
+pericope: "[[1Chr.27.1 Twelve Captains for Twelve Months|Twelve Captains for Twelve Months]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 27
+book/chapter: "[[1Chr.27|1 Chronicles 27]]"
+chronological_order: 438
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BENAIAH|BENAIAH]]"
+- "[[topic MONTH|MONTH]]"
+strongs:
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H6635A]]"
+- "[[H7992]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H1141G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3077G]]"
+- "[[H3548]]"
+- "[[H7218H]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H4256]]"
+- "[[H9023]]"
+- "[[H6242]]"
+- "[[H0702]]"
+- "[[H0505G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 27:5**<big><big>[[1Chr.27.1 Twelve Captains for Twelve Months|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The third captain of the host for the third month [was] Benaiah the son of Jehoiada, a chief priest: and in his course [were] twenty and four thousand.
 <small><sub>**BSB:**</sub></small>
 The third army commander, as chief for the third month, was Benaiah son of Jehoiada the priest. There were 24,000 men in his division.
+<small><sub>**Hebrew:**</sub></small>
+[[H8269\|שַׂ֣ר]] [[H9009\|הַ]][[H6635A\|צָּבָ֤א]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁי֙]] [[H9005\|לַ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁ֔י]] [[H1141G\|בְּנָיָ֧הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H3077G\|יְהוֹיָדָ֛ע]] [[H9009\|הַ]][[H3548\|כֹּהֵ֖ן]] [[H7218H\|רֹ֑אשׁ]] [[H9002\|וְ]][[H5921A\|עַל֙]] [[H4256\|מַחֲלֻקְתּ֔]][[H9023\|וֹ]] [[H6242\|עֶשְׂרִ֥ים]] [[H9002\|וְ]][[H0702\|אַרְבָּעָ֖ה]] [[H0505G\|אָֽלֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic BENAIAH|BENAIAH]] • [[topic MONTH|MONTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.27.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.4|<< 1 Chronicles 27:4]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.6|1 Chronicles 27:6 >>]]</td></tr></table>
 

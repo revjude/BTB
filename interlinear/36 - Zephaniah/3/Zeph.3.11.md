@@ -1,8 +1,74 @@
+---
+title: Zephaniah 3:11
+type: Verse
+kjv: "In that day shalt thou not be ashamed for all thy doings, wherein thou hast transgressed against me: for then I will take away out of the midst of thee them that rejoice in thy pride, and thou shalt no more be haughty because of my holy mountain."
+bsb: "On that day you will not be put to shame for any of the deeds by which you have transgressed against Me. For then I will remove from among you those who rejoice in their pride, and you will never again be haughty on My holy mountain."
+hebrew: "בַּיּ֣וֹם הַה֗וּא לֹ֤א תֵב֙וֹשִׁי֙ מִכֹּ֣ל עֲלִילֹתַ֔יִךְ אֲשֶׁ֥ר פָּשַׁ֖עַתְּ בִּ֑י כִּי־ אָ֣ז׀ אָסִ֣יר מִקִּרְבֵּ֗ךְ עַלִּיזֵי֙ גַּאֲוָתֵ֔ךְ וְלֹֽא־ תוֹסִ֧פִי לְגָבְהָ֛ה ע֖וֹד בְּהַ֥ר קָדְשִֽׁי׃"
+pericope: "[[Zeph.3.9 A Faithful Remnant|A Faithful Remnant]]"
+original_language: Hebrew
+testament: Old
+book: Zephaniah
+chapter: 3
+book/chapter: "[[Zeph.3|Zephaniah 3]]"
+chronological_order: 717
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H3808]]"
+- "[[H0954]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H5949]]"
+- "[[H9022]]"
+- "[[H0834A]]"
+- "[[H6586]]"
+- "[[H9030]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0227A]]"
+- "[[H9015]]"
+- "[[H5493G]]"
+- "[[H7130G]]"
+- "[[H5947]]"
+- "[[H1346]]"
+- "[[H9002]]"
+- "[[H3254G]]"
+- "[[H9005]]"
+- "[[H1361]]"
+- "[[H5750]]"
+- "[[H2022G]]"
+- "[[H6944G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zephaniah 3:11**<big><big>[[Zeph.3.9 A Faithful Remnant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that day shalt thou not be ashamed for all thy doings, wherein thou hast transgressed against me: for then I will take away out of the midst of thee them that rejoice in thy pride, and thou shalt no more be haughty because of my holy mountain.
 <small><sub>**BSB:**</sub></small>
 On that day you will not be put to shame for any of the deeds by which you have transgressed against Me. For then I will remove from among you those who rejoice in their pride, and you will never again be haughty on My holy mountain.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֗וּא]] [[H3808\|לֹ֤א]] [[H0954\|תֵב֙וֹשִׁי֙]] [[H9006\|מִ]][[H3605\|כֹּ֣ל]] [[H5949\|עֲלִילֹתַ֔יִ]][[H9022\|ךְ]] [[H0834A\|אֲשֶׁ֥ר]] [[H6586\|פָּשַׁ֖עַתְּ]] [[H9003\|בִּ֑]][[H9030\|י]] [[H3588A\|כִּי]][[H9014\|־]] [[H0227A\|אָ֣ז]][[H9015\|׀]] [[H5493G\|אָסִ֣יר]] [[H9006\|מִ]][[H7130G\|קִּרְבֵּ֗]][[H9022\|ךְ]] [[H5947\|עַלִּיזֵי֙]] [[H1346\|גַּאֲוָתֵ֔]][[H9022\|ךְ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3254G\|תוֹסִ֧פִי]] [[H9005\|לְ]][[H1361\|גָבְהָ֛ה]] [[H5750\|ע֖וֹד]] [[H9003\|בְּ]][[H2022G\|הַ֥ר]] [[H6944G\|קָדְשִֽׁ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic HUMILITY|HUMILITY]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic PRIDE|PRIDE]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.10|<< Zephaniah 3:10]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.12|Zephaniah 3:12 >>]]</td></tr></table>
 

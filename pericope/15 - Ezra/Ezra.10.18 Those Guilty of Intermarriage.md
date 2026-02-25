@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Those Guilty of Intermarriage
+type: Pericope
 pericope: "[[Ezra.10.18 Those Guilty of Intermarriage|Those Guilty of Intermarriage]]"
-verse_count: 27
+original_language: Hebrew
 testament: Old
 book: Ezra
 chapter: 10
 book/chapter: "[[Ezra.10|Ezra 10]]"
-genre:
+chronological_order: 912
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
+verse_count: 27
 verses:
 - "[[Ezra.10.18]]"
 - "[[Ezra.10.19]]"
@@ -45,7 +52,7 @@ verses:
 - "[[Ezra.10.44]]"
 ---
 
-[[Ezra.10|Ezra 10:18 - Ezra 10:44]]
+<small>[[Ezra.10|Ezra 10:18-44]]</small>
 *Those Guilty of Intermarriage*
 
 [[Ezra.10.18|18]] And among the sons of the priests there were found that had taken strange wives: \[namely\], of the sons of Jeshua the son of Jozadak, and his brethren; Maaseiah, and Eliezer, and Jarib, and Gedaliah.

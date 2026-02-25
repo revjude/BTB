@@ -1,8 +1,71 @@
+---
+title: Numbers 14:44
+type: Verse
+kjv: "But they presumed to go up unto the hill top: nevertheless the ark of the covenant of the LORD, and Moses, departed not out of the camp."
+bsb: "But they dared to go up to the ridge of the hill country, though neither Moses nor the ark of the covenant of the LORD moved from the camp."
+hebrew: "וַיַּעְפִּ֕לוּ לַעֲל֖וֹת אֶל־ רֹ֣אשׁ הָהָ֑ר וַאֲר֤וֹן בְּרִית־ יְהוָה֙ וּמֹשֶׁ֔ה לֹא־ מָ֖שׁוּ מִקֶּ֥רֶב הַֽמַּחֲנֶֽה׃"
+pericope: "[[Num.14.40 The Defeat at Hormah|The Defeat at Hormah]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 14
+book/chapter: "[[Num.14|Numbers 14]]"
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H6075B]]"
+- "[[H9005]]"
+- "[[H5927G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7218I]]"
+- "[[H9009]]"
+- "[[H2022H]]"
+- "[[H9002]]"
+- "[[H0727]]"
+- "[[H1285]]"
+- "[[H3068G]]"
+- "[[H4872]]"
+- "[[H3808]]"
+- "[[H4185]]"
+- "[[H9006]]"
+- "[[H7130G]]"
+- "[[H4264]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 14:44**<big><big>[[Num.14.40 The Defeat at Hormah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But they presumed to go up unto the hill top: nevertheless the ark of the covenant of the LORD, and Moses, departed not out of the camp.
 <small><sub>**BSB:**</sub></small>
 But they dared to go up to the ridge of the hill country, though neither Moses nor the ark of the covenant of the LORD moved from the camp.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6075B\|יַּעְפִּ֕לוּ]] [[H9005\|לַ]][[H5927G\|עֲל֖וֹת]] [[H0413\|אֶל]][[H9014\|־]] [[H7218I\|רֹ֣אשׁ]] [[H9009\|הָ]][[H2022H\|הָ֑ר]] [[H9002\|וַ]][[H0727\|אֲר֤וֹן]] [[H1285\|בְּרִית]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H9002\|וּ]][[H4872\|מֹשֶׁ֔ה]] [[H3808\|לֹא]][[H9014\|־]] [[H4185\|מָ֖שׁוּ]] [[H9006\|מִ]][[H7130G\|קֶּ֥רֶב]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic ISRAEL|ISRAEL]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REPROBACY|REPROBACY]] • [[topic SIN|SIN]] • [[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.43|<< Numbers 14:43]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.45|Numbers 14:45 >>]]</td></tr></table>
 

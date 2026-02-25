@@ -1,8 +1,50 @@
+---
+title: Proverbs 16:13
+type: Verse
+kjv: "Righteous lips are the delight of kings; and they love him that speaketh right."
+bsb: "Righteous lips are a king’s delight, and he who speaks honestly is beloved."
+hebrew: "רְצ֣וֹן מְ֭לָכִים שִׂפְתֵי־ צֶ֑דֶק וְדֹבֵ֖ר יְשָׁרִ֣ים יֶאֱהָֽב׃"
+pericope: "[[Prov.16.1 The Reply of the Tongue Is from the LORD|The Reply of the Tongue Is from the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 16
+book/chapter: "[[Prov.16|Proverbs 16]]"
+chronological_order: 471
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[H7522]]"
+- "[[H4428G]]"
+- "[[H8193G]]"
+- "[[H9014]]"
+- "[[H6664G]]"
+- "[[H9002]]"
+- "[[H1696G]]"
+- "[[H3477G]]"
+- "[[H0157G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 16:13**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Righteous lips [are] the delight of kings; and they love him that speaketh right.
 <small><sub>**BSB:**</sub></small>
 Righteous lips are a king’s delight, and he who speaks honestly is beloved.
+<small><sub>**Hebrew:**</sub></small>
+[[H7522\|רְצ֣וֹן]] [[H4428G\|מְ֭לָכִים]] [[H8193G\|שִׂפְתֵי]][[H9014\|־]] [[H6664G\|צֶ֑דֶק]] [[H9002\|וְ]][[H1696G\|דֹבֵ֖ר]] [[H3477G\|יְשָׁרִ֣ים]] [[H0157G\|יֶאֱהָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TRUTH|TRUTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.16.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.12|<< Proverbs 16:12]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.14|Proverbs 16:14 >>]]</td></tr></table>
 

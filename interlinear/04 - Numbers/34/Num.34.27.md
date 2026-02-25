@@ -1,8 +1,59 @@
+---
+title: Numbers 34:27
+type: Verse
+kjv: "And the prince of the tribe of the children of Asher, Ahihud the son of Shelomi."
+bsb: "Ahihud son of Shelomi, a leader from the tribe of Asher;"
+hebrew: "וּלְמַטֵּ֥ה בְנֵי־ אָשֵׁ֖ר נָשִׂ֑יא אֲחִיה֖וּד בֶּן־ שְׁלֹמִֽי׃"
+pericope: "[[Num.34.16 Leaders to Divide the Land|Leaders to Divide the Land]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 34
+book/chapter: "[[Num.34|Numbers 34]]"
+chronological_order: 194
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AHIHUD|AHIHUD]]"
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SHELOMI|SHELOMI]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H4294H]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H0836]]"
+- "[[H5387A]]"
+- "[[H0282]]"
+- "[[H1121A]]"
+- "[[H8015]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 34:27**<big><big>[[Num.34.16 Leaders to Divide the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the prince of the tribe of the children of Asher, Ahihud the son of Shelomi.
 <small><sub>**BSB:**</sub></small>
 Ahihud son of Shelomi, a leader from the tribe of Asher;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H4294H\|מַטֵּ֥ה]] [[H1121G\|בְנֵי]][[H9014\|־]] [[H0836\|אָשֵׁ֖ר]] [[H5387A\|נָשִׂ֑יא]] [[H0282\|אֲחִיה֖וּד]] [[H1121A\|בֶּן]][[H9014\|־]] [[H8015\|שְׁלֹמִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIHUD|AHIHUD]] • [[topic CANAAN|CANAAN]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic SHELOMI|SHELOMI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.34.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.26|<< Numbers 34:26]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.34.28|Numbers 34:28 >>]]</td></tr></table>
 

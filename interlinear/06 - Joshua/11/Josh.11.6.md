@@ -1,8 +1,77 @@
+---
+title: Joshua 11:6
+type: Verse
+kjv: "And the LORD said unto Joshua, Be not afraid because of them: for to morrow about this time will I deliver them up all slain before Israel: thou shalt hough their horses, and burn their chariots with fire."
+bsb: "Then the LORD said to Joshua, “Do not be afraid of them, for by this time tomorrow I will deliver all of them slain before Israel. You are to hamstring their horses and burn up their chariots.”"
+hebrew: "וַיֹּ֨אמֶר יְהוָ֣ה אֶל־ יְהוֹשֻׁעַ֮ אַל־ תִּירָ֣א מִפְּנֵיהֶם֒ כִּֽי־ מָחָ֞ר כָּעֵ֣ת הַזֹּ֗את אָנֹכִ֞י נֹתֵ֧ן אֶת־ כֻּלָּ֛ם חֲלָלִ֖ים לִפְנֵ֣י יִשְׂרָאֵ֑ל אֶת־ סוּסֵיהֶ֣ם תְּעַקֵּ֔ר וְאֶת־ מַרְכְּבֹתֵיהֶ֖ם תִּשְׂרֹ֥ף בָּאֵֽשׁ׃"
+pericope: "[[Josh.11.1 Conquest of the Northern Cities|Conquest of the Northern Cities]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 11
+book/chapter: "[[Josh.11|Joshua 11]]"
+chronological_order: 241
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic HOUGHING|HOUGHING]]"
+- "[[topic JABIN|JABIN]]"
+- "[[topic MEROM|MEROM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3091G]]"
+- "[[H0408]]"
+- "[[H3372G]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H9028]]"
+- "[[H3588A]]"
+- "[[H4279]]"
+- "[[H9004]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H2063]]"
+- "[[H0595]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H2491A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3478]]"
+- "[[H5483M]]"
+- "[[H6131B]]"
+- "[[H9002]]"
+- "[[H4818]]"
+- "[[H8313]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 11:6**<big><big>[[Josh.11.1 Conquest of the Northern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Joshua, Be not afraid because of them: for to morrow about this time will I deliver them up all slain before Israel: thou shalt hough their horses, and burn their chariots with fire.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Joshua, “Do not be afraid of them, for by this time tomorrow I will deliver all of them slain before Israel. You are to hamstring their horses and burn up their chariots.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֣ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁעַ֮]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָ֣א]] [[H9006\|מִ]][[H6440I\|פְּנֵי]][[H9028\|הֶם֒]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4279\|מָחָ֞ר]] [[H9004\|כָּ]][[H6256\|עֵ֣ת]] [[H9009\|הַ]][[H2063\|זֹּ֗את]] [[H0595\|אָנֹכִ֞י]] [[H5414G\|נֹתֵ֧ן]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כֻּלָּ֛]][[H9028\|ם]] [[H2491A\|חֲלָלִ֖ים]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H0853\|אֶת]][[H9014\|־]] [[H5483M\|סוּסֵי]][[H9028\|הֶ֣ם]] [[H6131B\|תְּעַקֵּ֔ר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4818\|מַרְכְּבֹתֵי]][[H9028\|הֶ֖ם]] [[H8313\|תִּשְׂרֹ֥ף]] [[H9003\|בָּ]][[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic HORSE|HORSE]] • [[topic HOUGHING|HOUGHING]] • [[topic JABIN|JABIN]] • [[topic MEROM|MEROM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.11.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.11.5|<< Joshua 11:5]]</td><td align="center" style="border:none;">[[Josh.11|Joshua 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11.7|Joshua 11:7 >>]]</td></tr></table>
 

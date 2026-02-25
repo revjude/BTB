@@ -1,10 +1,50 @@
+---
+title: Matthew 1:1
+type: Verse
+kjv: "The book of the generation of Jesus Christ, the son of David, the son of Abraham."
+bsb: "This is the record of the genealogy of Jesus Christ, the son of David, the son of Abraham:"
+greek: "Βίβλος γενέσεως Ἰησοῦ Χριστοῦ υἱοῦ Δαυὶδ υἱοῦ Ἀβραάμ."
+pericope: "[[Matt.1.1 The Genealogy of Jesus|The Genealogy of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 1
+book/chapter: "[[Matt.1|Matthew 1]]"
+chronological_order: 931
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[G0976]]"
+- "[[G1078]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G5207]]"
+- "[[G1138]]"
+- "[[G0011]]"
+texts:
+- NKO
+---
+
 **Matthew 1:1**<big><big>[[Matt.1.1 The Genealogy of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The book of the generation of Jesus Christ, the son of David, the son of Abraham.
 <small><sub>**BSB:**</sub></small>
 This is the record of the genealogy of Jesus Christ, the son of David, the son of Abraham:
-<small><sub>**Literal:**</sub></small>
-[The] book of [the] genealogy of Jesus Christ son of David son of Abraham.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">&nbsp;</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.2|Matthew 1:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0976\|Βίβλος]]  [[G1078\|γενέσεως]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G5207\|υἱοῦ]]  [[G1138\|Δαυὶδ]]  [[G5207\|υἱοῦ]]  [[G0011\|Ἀβραάμ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GENEALOGY|GENEALOGY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">&nbsp;</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.2|Matthew 1:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

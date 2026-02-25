@@ -1,10 +1,60 @@
+---
+title: Acts 4:33
+type: Verse
+kjv: "And with great power gave the apostles witness of the resurrection of the Lord Jesus: and great grace was upon them all."
+bsb: "With great power the apostles continued to give their testimony about the resurrection of the Lord Jesus. And abundant grace was upon them all."
+greek: "καὶ δυνάμει μεγάλῃ ἀπεδίδουν τὸ μαρτύριον οἱ ἀπόστολοι τῆς ἀναστάσεως τοῦ κυρίου Ἰησοῦ, χάρις τε μεγάλη ἦν ἐπὶ πάντας αὐτούς."
+pericope: "[[Acts.4.32 Sharing among Believers|Sharing among Believers]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1411]]"
+- "[[G3173]]"
+- "[[G0591]]"
+- "[[G3588]]"
+- "[[G3142]]"
+- "[[G0652]]"
+- "[[G0386]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G5485]]"
+- "[[G5037]]"
+- "[[G1510]]"
+- "[[G1909]]"
+- "[[G3956]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Acts 4:33**<big><big>[[Acts.4.32 Sharing among Believers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And with great power gave the apostles witness of the resurrection of the Lord Jesus: and great grace was upon them all.
 <small><sub>**BSB:**</sub></small>
 With great power the apostles continued to give their testimony about the resurrection of the Lord Jesus. And abundant grace was upon them all.
-<small><sub>**Literal:**</sub></small>
-And [with] power great were giving <the> testimony the apostles of the resurrection of the Lord Jesus grace then abundant was upon all them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.32|<< Acts 4:32]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.34|Acts 4:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1411\|δυνάμει]]  [[G3173\|μεγάλῃ]]  [[G0591\|ἀπεδίδουν]]  [[G3588\|τὸ]]  [[G3142\|μαρτύριον]]  [[G3588\|οἱ]]  [[G0652\|ἀπόστολοι]]  [[G3588\|τῆς]]  [[G0386\|ἀναστάσεως]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G2424G\|Ἰησοῦ,]]  [[G5485\|χάρις]]  [[G5037\|τε]]  [[G3173\|μεγάλη]]  [[G1510\|ἦν]]  [[G1909\|ἐπὶ]]  [[G3956\|πάντας]]  [[G0846\|αὐτούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIBERALITY|LIBERALITY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.32|<< Acts 4:32]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.34|Acts 4:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

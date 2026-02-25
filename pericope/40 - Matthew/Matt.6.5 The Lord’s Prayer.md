@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Lord’s Prayer
+type: Pericope
 pericope: "[[Matt.6.5 The Lord’s Prayer|The Lord’s Prayer]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 6
 book/chapter: "[[Matt.6|Matthew 6]]"
-genre:
+chronological_order: 944
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 11
 verses:
 - "[[Matt.6.5]]"
 - "[[Matt.6.6]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Matt.6.15]]"
 ---
 
-[[Matt.6|Matthew 6:5 - Matthew 6:15]]
+<small>[[Matt.6|Matthew 6:5-15]]</small>
 *The Lord’s Prayer*
 
 [[Matt.6.5|5]] And when thou prayest, thou shalt not be as the hypocrites \[are\]: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward.

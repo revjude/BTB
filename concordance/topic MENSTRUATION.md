@@ -1,7 +1,7 @@
 
 **MENSTRUATION**
 
-→ Law relating to [[Lev.15.19|Le 15:19]]-[[Lev.15.30|30]]; [[Lev.20.18|20:18]]; [[Ezek.18.6|Eze 18:6]]
+→ Law relating to [[Lev.15.19|Le 15:19-30]]; [[Lev.20.18|20:18]]; [[Ezek.18.6|Eze 18:6]]
 
 → Cessation of, in old age [[Gen.18.11|Ge 18:11]]
 

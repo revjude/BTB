@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Consecration of the Land
+type: Pericope
 pericope: "[[Ezek.45.1 Consecration of the Land|Consecration of the Land]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 45
 book/chapter: "[[Ezek.45|Ezekiel 45]]"
-genre:
+chronological_order: 836
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 6
 verses:
 - "[[Ezek.45.1]]"
 - "[[Ezek.45.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Ezek.45.6]]"
 ---
 
-[[Ezek.45|Ezekiel 45:1 - Ezekiel 45:6]]
+<small>[[Ezek.45|Ezekiel 45:1-6]]</small>
 *Consecration of the Land*
 
 [[Ezek.45.1|1]] Moreover, when ye shall divide by lot the land for inheritance, ye shall offer an oblation unto the LORD, an holy portion of the land: the length \[shall be\] the length of five and twenty thousand \[reeds\], and the breadth \[shall be\] ten thousand. This \[shall be\] holy in all the borders thereof round about.

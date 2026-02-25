@@ -1,8 +1,71 @@
+---
+title: Exodus 18:25
+type: Verse
+kjv: "And Moses chose able men out of all Israel, and made them heads over the people, rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tens."
+bsb: "So Moses chose capable men from all Israel and made them heads over the people as leaders of thousands, of hundreds, of fifties, and of tens."
+hebrew: "וַיִּבְחַ֨ר מֹשֶׁ֤ה אַנְשֵׁי־ חַ֙יִל֙ מִכָּל־ יִשְׂרָאֵ֔ל וַיִּתֵּ֥ן אֹתָ֛ם רָאשִׁ֖ים עַל־ הָעָ֑ם שָׂרֵ֤י אֲלָפִים֙ שָׂרֵ֣י מֵא֔וֹת שָׂרֵ֥י חֲמִשִּׁ֖ים וְשָׂרֵ֥י עֲשָׂרֹֽת׃"
+pericope: "[[Exod.18.13 Jethro Advises Moses|Jethro Advises Moses]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 18
+book/chapter: "[[Exod.18|Exodus 18]]"
+chronological_order: 110
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0977]]"
+- "[[H4872]]"
+- "[[H0582]]"
+- "[[H9014]]"
+- "[[H2428G]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H5414I]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H7218H]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H8269]]"
+- "[[H0505G]]"
+- "[[H3967]]"
+- "[[H2572]]"
+- "[[H9002]]"
+- "[[H6235]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 18:25**<big><big>[[Exod.18.13 Jethro Advises Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses chose able men out of all Israel, and made them heads over the people, rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tens.
 <small><sub>**BSB:**</sub></small>
 So Moses chose capable men from all Israel and made them heads over the people as leaders of thousands, of hundreds, of fifties, and of tens.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0977\|יִּבְחַ֨ר]] [[H4872\|מֹשֶׁ֤ה]] [[H0582\|אַנְשֵׁי]][[H9014\|־]] [[H2428G\|חַ֙יִל֙]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וַ]][[H5414I\|יִּתֵּ֥ן]] [[H0853\|אֹתָ֛]][[H9038\|ם]] [[H7218H\|רָאשִׁ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H8269\|שָׂרֵ֤י]] [[H0505G\|אֲלָפִים֙]] [[H8269\|שָׂרֵ֣י]] [[H3967\|מֵא֔וֹת]] [[H8269\|שָׂרֵ֥י]] [[H2572\|חֲמִשִּׁ֖ים]] [[H9002\|וְ]][[H8269\|שָׂרֵ֥י]] [[H6235\|עֲשָׂרֹֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.24|<< Exodus 18:24]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.26|Exodus 18:26 >>]]</td></tr></table>
 

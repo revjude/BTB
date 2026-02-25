@@ -1,8 +1,80 @@
+---
+title: Genesis 47:29
+type: Verse
+kjv: "And the time drew nigh that Israel must die: and he called his son Joseph, and said unto him, If now I have found grace in thy sight, put, I pray thee, thy hand under my thigh, and deal kindly and truly with me; bury me not, I pray thee, in Egypt:"
+bsb: "When the time drew near for Israel to die, he called his son Joseph and said to him, “If I have found favor in your eyes, put your hand under my thigh and promise to show me kindness and faithfulness. Do not bury me in Egypt,"
+hebrew: "וַיִּקְרְב֣וּ יְמֵֽי־ יִשְׂרָאֵ֘ל לָמוּת֒ וַיִּקְרָ֣א׀ לִבְנ֣וֹ לְיוֹסֵ֗ף וַיֹּ֤אמֶר לוֹ֙ אִם־ נָ֨א מָצָ֤אתִי חֵן֙ בְּעֵינֶ֔יךָ שִֽׂים־ נָ֥א יָדְךָ֖ תַּ֣חַת יְרֵכִ֑י וְעָשִׂ֤יתָ עִמָּדִי֙ חֶ֣סֶד וֶאֱמֶ֔ת אַל־ נָ֥א תִקְבְּרֵ֖נִי בְּמִצְרָֽיִם׃"
+pericope: "[[Gen.47.27 The Israelites Prosper in Goshen|The Israelites Prosper in Goshen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 47
+book/chapter: "[[Gen.47|Genesis 47]]"
+chronological_order: 89
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic JACOB|JACOB]]"
+- "[[topic OATH|OATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126G]]"
+- "[[H3117G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H4191]]"
+- "[[H7121G]]"
+- "[[H9015]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H3130G]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H0518I]]"
+- "[[H4994]]"
+- "[[H4672]]"
+- "[[H2580]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H9021]]"
+- "[[H7760H]]"
+- "[[H3027X]]"
+- "[[H8478L]]"
+- "[[H3409]]"
+- "[[H9020]]"
+- "[[H6213A]]"
+- "[[H5978]]"
+- "[[H9030]]"
+- "[[H2617A]]"
+- "[[H9002]]"
+- "[[H0571G]]"
+- "[[H0408]]"
+- "[[H6912]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 47:29**<big><big>[[Gen.47.27 The Israelites Prosper in Goshen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the time drew nigh that Israel must die: and he called his son Joseph, and said unto him, If now I have found grace in thy sight, put, I pray thee, thy hand under my thigh, and deal kindly and truly with me; bury me not, I pray thee, in Egypt:
 <small><sub>**BSB:**</sub></small>
 When the time drew near for Israel to die, he called his son Joseph and said to him, “If I have found favor in your eyes, put your hand under my thigh and promise to show me kindness and faithfulness. Do not bury me in Egypt,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7126G\|יִּקְרְב֣וּ]] [[H3117G\|יְמֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֘ל]] [[H9005\|לָ]][[H4191\|מוּת֒]] [[H9001\|וַ]][[H7121G\|יִּקְרָ֣א]][[H9015\|׀]] [[H9005\|לִ]][[H1121A\|בְנ֣]][[H9023\|וֹ]] [[H9005\|לְ]][[H3130G\|יוֹסֵ֗ף]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H0518I\|אִם]][[H9014\|־]] [[H4994\|נָ֨א]] [[H4672\|מָצָ֤אתִי]] [[H2580\|חֵן֙]] [[H9003\|בְּ]][[H5869H\|עֵינֶ֔י]][[H9021\|ךָ]] [[H7760H\|שִֽׂים]][[H9014\|־]] [[H4994\|נָ֥א]] [[H3027X\|יָדְ]][[H9021\|ךָ֖]] [[H8478L\|תַּ֣חַת]] [[H3409\|יְרֵכִ֑]][[H9020\|י]] [[H9001\|וְ]][[H6213A\|עָשִׂ֤יתָ]] [[H5978\|עִמָּדִ]][[H9030\|י֙]] [[H2617A\|חֶ֣סֶד]] [[H9002\|וֶ]][[H0571G\|אֱמֶ֔ת]] [[H0408\|אַל]][[H9014\|־]] [[H4994\|נָ֥א]] [[H6912\|תִקְבְּרֵ֖]][[H9030\|נִי]] [[H9003\|בְּ]][[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACOB|JACOB]] • [[topic OATH|OATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.28|<< Genesis 47:28]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.30|Genesis 47:30 >>]]</td></tr></table>
 

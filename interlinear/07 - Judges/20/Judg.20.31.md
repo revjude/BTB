@@ -1,8 +1,78 @@
+---
+title: Judges 20:31
+type: Verse
+kjv: "And the children of Benjamin went out against the people, and were drawn away from the city; and they began to smite of the people, and kill, as at other times, in the highways, of which one goeth up to the house of God, and the other to Gibeah in the field, about thirty men of Israel."
+bsb: "The Benjamites came out against them and were drawn away from the city. They began to attack the people as before, killing about thirty men of Israel in the fields and on the roads, one of which led up to Bethel and the other to Gibeah."
+hebrew: "וַיֵּצְא֤וּ בְנֵֽי־ בִנְיָמִן֙ לִקְרַ֣את הָעָ֔ם הָנְתְּק֖וּ מִן־ הָעִ֑יר וַיָּחֵ֡לּוּ לְהַכּוֹת֩ מֵהָעָ֨ם חֲלָלִ֜ים כְּפַ֣עַם׀ בְּפַ֗עַם בַּֽמְסִלּוֹת֙ אֲשֶׁ֨ר אַחַ֜ת עֹלָ֣ה בֵֽית־ אֵ֗ל וְאַחַ֤ת גִּבְעָ֙תָה֙ בַּשָּׂדֶ֔ה כִּשְׁלֹשִׁ֥ים אִ֖ישׁ בְּיִשְׂרָאֵֽל׃"
+pericope: "[[Judg.20.18 Civil War against Benjamin|Civil War against Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMBUSH|AMBUSH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic GIBEAH|GIBEAH]]"
+- "[[topic ROADS|ROADS]]"
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H1144G]]"
+- "[[H9005]]"
+- "[[H7122H]]"
+- "[[H9009]]"
+- "[[H5971K]]"
+- "[[H5423]]"
+- "[[H4480A]]"
+- "[[H5892B]]"
+- "[[H2490C]]"
+- "[[H5221]]"
+- "[[H9006]]"
+- "[[H2491A]]"
+- "[[H9004]]"
+- "[[H6471]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H4546]]"
+- "[[H0834A]]"
+- "[[H0259]]"
+- "[[H5927G]]"
+- "[[H1008G]]"
+- "[[H9002]]"
+- "[[H1390H]]"
+- "[[H9011]]"
+- "[[H7704G]]"
+- "[[H7970]]"
+- "[[H0376G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:31**<big><big>[[Judg.20.18 Civil War against Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Benjamin went out against the people, [and] were drawn away from the city; and they began to smite of the people, [and] kill, as at other times, in the highways, of which one goeth up to the house of God, and the other to Gibeah in the field, about thirty men of Israel.
 <small><sub>**BSB:**</sub></small>
 The Benjamites came out against them and were drawn away from the city. They began to attack the people as before, killing about thirty men of Israel in the fields and on the roads, one of which led up to Bethel and the other to Gibeah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצְא֤וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H1144G\|בִנְיָמִן֙]] [[H9005\|לִ]][[H7122H\|קְרַ֣את]] [[H9009\|הָ]][[H5971K\|עָ֔ם]] [[H5423\|הָנְתְּק֖וּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֑יר]] [[H9001\|וַ]][[H2490C\|יָּחֵ֡לּוּ]] [[H9005\|לְ]][[H5221\|הַכּוֹת֩]] [[H9006\|מֵ]][[H9009\|הָ]][[H5971K\|עָ֨ם]] [[H2491A\|חֲלָלִ֜ים]] [[H9004\|כְּ]][[H6471\|פַ֣עַם]][[H9015\|׀]] [[H9003\|בְּ]][[H6471\|פַ֗עַם]] [[H9003\|בַּֽ]][[H4546\|מְסִלּוֹת֙]] [[H0834A\|אֲשֶׁ֨ר]] [[H0259\|אַחַ֜ת]] [[H5927G\|עֹלָ֣ה]] [[H1008G\|בֵֽית]][[H9014\|־]] [[H1008G\|אֵ֗ל]] [[H9002\|וְ]][[H0259\|אַחַ֤ת]] [[H1390H\|גִּבְעָ֙תָ]][[H9011\|ה֙]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶ֔ה]] [[H9004\|כִּ]][[H7970\|שְׁלֹשִׁ֥ים]] [[H0376G\|אִ֖ישׁ]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBUSH|AMBUSH]] • [[topic ARMIES|ARMIES]] • [[topic BETH-EL|BETH-EL]] • [[topic GIBEAH|GIBEAH]] • [[topic ROADS|ROADS]] • [[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.30|<< Judges 20:30]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.32|Judges 20:32 >>]]</td></tr></table>
 

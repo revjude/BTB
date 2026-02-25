@@ -1,10 +1,67 @@
+---
+title: 1 Peter 1:3
+type: Verse
+kjv: "Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,"
+bsb: "Blessed be the God and Father of our Lord Jesus Christ! By His great mercy He has given us new birth into a living hope through the resurrection of Jesus Christ from the dead,"
+greek: "Εὐλογητὸς ὁ θεὸς καὶ πατὴρ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, ὁ κατὰ τὸ πολὺ αὐτοῦ ἔλεος ἀναγεννήσας ἡμᾶς εἰς ἐλπίδα ζῶσαν δι᾽ ἀναστάσεως Ἰησοῦ Χριστοῦ ἐκ νεκρῶν,"
+pericope: "[[1Pet.1.3 A Living Hope|A Living Hope]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 1
+book/chapter: "[[1Pet.1|1 Peter 1]]"
+chronological_order: 1135
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G2128]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G3962]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G2596]]"
+- "[[G4183]]"
+- "[[G0846]]"
+- "[[G1656]]"
+- "[[G0313]]"
+- "[[G1519]]"
+- "[[G1680]]"
+- "[[G2198]]"
+- "[[G1223]]"
+- "[[G0386]]"
+- "[[G1537]]"
+- "[[G3498]]"
+texts:
+- NKO
+---
+
 **1 Peter 1:3**<big><big>[[1Pet.1.3 A Living Hope|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Blessed [be] the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,
 <small><sub>**BSB:**</sub></small>
 Blessed be the God and Father of our Lord Jesus Christ! By His great mercy He has given us new birth into a living hope through the resurrection of Jesus Christ from the dead,
-<small><sub>**Literal:**</sub></small>
-Blessed [be] the God and Father of the Lord of us Jesus Christ, the [One] according to the great of Him mercy having begotten again us to a hope living through [the] resurrection of Jesus Christ out from [the] dead,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.2|<< 1 Peter 1:2]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.4|1 Peter 1:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2128\|Εὐλογητὸς]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G2532\|καὶ]]  [[G3962\|πατὴρ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ,]]  [[G3588\|ὁ]]  [[G2596\|κατὰ]]  [[G3588\|τὸ]]  [[G4183\|πολὺ]]  [[G0846\|αὐτοῦ]]  [[G1656\|ἔλεος]]  [[G0313\|ἀναγεννήσας]]  [[G3165\|ἡμᾶς]]  [[G1519\|εἰς]]  [[G1680\|ἐλπίδα]]  [[G2198\|ζῶσαν]]  [[G1223\|δι᾽]]  [[G0386\|ἀναστάσεως]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HOPE|HOPE]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAISE|PRAISE]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.2|<< 1 Peter 1:2]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.4|1 Peter 1:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

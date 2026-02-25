@@ -1,8 +1,71 @@
+---
+title: Deuteronomy 12:2
+type: Verse
+kjv: "Ye shall utterly destroy all the places, wherein the nations which ye shall possess served their gods, upon the high mountains, and upon the hills, and under every green tree:"
+bsb: "Destroy completely all the places where the nations you are dispossessing have served their gods—atop the high mountains, on the hills, and under every green tree."
+hebrew: "אַבֵּ֣ד תְּ֠אַבְּדוּן אֶֽת־ כָּל־ הַמְּקֹמ֞וֹת אֲשֶׁ֧ר עָֽבְדוּ־ שָׁ֣ם הַגּוֹיִ֗ם אֲשֶׁ֥ר אַתֶּ֛ם יֹרְשִׁ֥ים אֹתָ֖ם אֶת־ אֱלֹהֵיהֶ֑ם עַל־ הֶהָרִ֤ים הָֽרָמִים֙ וְעַל־ הַגְּבָע֔וֹת וְתַ֖חַת כָּל־ עֵ֥ץ רַעֲנָן׃"
+pericope: "[[Deut.12.1 One Place for Worship|One Place for Worship]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 12
+book/chapter: "[[Deut.12|Deuteronomy 12]]"
+chronological_order: 208
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+strongs:
+- "[[H0006]]"
+- "[[H9013]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H5647H]]"
+- "[[H8033G]]"
+- "[[H1471A]]"
+- "[[H0859D]]"
+- "[[H3423H]]"
+- "[[H9038]]"
+- "[[H0430]]"
+- "[[H9028]]"
+- "[[H5921A]]"
+- "[[H2022G]]"
+- "[[H7311A]]"
+- "[[H9002]]"
+- "[[H1389I]]"
+- "[[H8478G]]"
+- "[[H6086H]]"
+- "[[H7488B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 12:2**<big><big>[[Deut.12.1 One Place for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall utterly destroy all the places, wherein the nations which ye shall possess served their gods, upon the high mountains, and upon the hills, and under every green tree:
 <small><sub>**BSB:**</sub></small>
 Destroy completely all the places where the nations you are dispossessing have served their gods—atop the high mountains, on the hills, and under every green tree.
+<small><sub>**Hebrew:**</sub></small>
+[[H0006\|אַבֵּ֣ד]] [[H0006\|תְּ֠אַבְּדוּ]][[H9013\|ן]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מְּקֹמ֞וֹת]] [[H0834A\|אֲשֶׁ֧ר]] [[H5647H\|עָֽבְדוּ]][[H9014\|־]] [[H8033G\|שָׁ֣ם]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֗ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H0859D\|אַתֶּ֛ם]] [[H3423H\|יֹרְשִׁ֥ים]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H0853\|אֶת]][[H9014\|־]] [[H0430\|אֱלֹהֵי]][[H9028\|הֶ֑ם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הֶ]][[H2022G\|הָרִ֤ים]] [[H9009\|הָֽ]][[H7311A\|רָמִים֙]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1389I\|גְּבָע֔וֹת]] [[H9002\|וְ]][[H8478G\|תַ֖חַת]] [[H3605\|כָּל]][[H9014\|־]] [[H6086H\|עֵ֥ץ]] [[H7488B\|רַעֲנָן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ICONOCLASM|ICONOCLASM]] • [[topic MOUNTAIN|MOUNTAIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.1|<< Deuteronomy 12:1]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.3|Deuteronomy 12:3 >>]]</td></tr></table>
 

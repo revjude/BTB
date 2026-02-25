@@ -1,10 +1,68 @@
+---
+title: Mark 6:25
+type: Verse
+kjv: "And she came in straightway with haste unto the king, and asked, saying, I will that thou give me by and by in a charger the head of John the Baptist."
+bsb: "At once the girl hurried back to the king with her request: “I want you to give me the head of John the Baptist on a platter immediately.”"
+greek: "καὶ εἰσελθοῦσα εὐθὺς μετὰ σπουδῆς πρὸς τὸν βασιλέα ᾐτήσατο λέγουσα· θέλω ἵνα ἐξαυτῆς δῷς μοι ἐπὶ πίνακι τὴν κεφαλὴν Ἰωάννου τοῦ βαπτιστοῦ."
+pericope: "[[Mark.6.14 The Beheading of John|The Beheading of John]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMPLICITY|COMPLICITY]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1525]]"
+- "[[G2112]]"
+- "[[G3326]]"
+- "[[G4710]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G0154]]"
+- "[[G3004G]]"
+- "[[G2309]]"
+- "[[G2443]]"
+- "[[G1824]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G1909]]"
+- "[[G4094]]"
+- "[[G2776]]"
+- "[[G2491G]]"
+- "[[G0910]]"
+texts:
+- NKO
+---
+
 **Mark 6:25**<big><big>[[Mark.6.14 The Beheading of John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And she came in straightway with haste unto the king, and asked, saying, I will that thou give me by and by in a charger the head of John the Baptist.
 <small><sub>**BSB:**</sub></small>
 At once the girl hurried back to the king with her request: “I want you to give me the head of John the Baptist on a platter immediately.”
-<small><sub>**Literal:**</sub></small>
-And having entered immediately with haste to the king she asked saying; I desire that at once may you give to me on a platter the head of John the Baptist.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.24|<< Mark 6:24]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.26|Mark 6:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1525\|εἰσελθοῦσα]]  [[G2112\|εὐθὺς]]  [[G3326\|μετὰ]]  [[G4710\|σπουδῆς]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G0935\|βασιλέα]]  [[G0154\|ᾐτήσατο]]  [[G3004G\|λέγουσα·]]  [[G2309\|θέλω]]  [[G2443\|ἵνα]]  [[G1824\|ἐξαυτῆς]]  [[G1325\|δῷς]]  [[G3165\|μοι]]  [[G1909\|ἐπὶ]]  [[G4094\|πίνακι]]  [[G3588\|τὴν]]  [[G2776\|κεφαλὴν]]  [[G2491G\|Ἰωάννου]]  [[G3588\|τοῦ]]  [[G0910\|βαπτιστοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPLICITY|COMPLICITY]] • [[topic HEROD|HEROD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MALICE|MALICE]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic POLITICS|POLITICS]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.24|<< Mark 6:24]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.26|Mark 6:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

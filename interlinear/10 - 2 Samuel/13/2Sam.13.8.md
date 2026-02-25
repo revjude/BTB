@@ -1,8 +1,72 @@
+---
+title: 2 Samuel 13:8
+type: Verse
+kjv: "So Tamar went to her brother Amnon’s house; and he was laid down. And she took flour, and kneaded it, and made cakes in his sight, and did bake the cakes."
+bsb: "So Tamar went to the house of her brother Amnon, who was lying down. She took some dough, kneaded it, made cakes in his sight, and baked them."
+hebrew: "וַתֵּ֣לֶךְ תָּמָ֗ר בֵּ֛ית אַמְנ֥וֹן אָחִ֖יהָ וְה֣וּא שֹׁכֵ֑ב וַתִּקַּ֨ח אֶת־ הַבָּצֵ֤ק וַתָּ֙לָשׁ֙ וַתְּלַבֵּ֣ב לְעֵינָ֔יו וַתְּבַשֵּׁ֖ל אֶת־ הַלְּבִבֽוֹת׃"
+pericope: "[[2Sam.13.1 Amnon and Tamar|Amnon and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BREAD|BREAD]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic PRINCESSES|PRINCESSES]]"
+- "[[topic RAPE|RAPE]]"
+- "[[topic SEDUCTION|SEDUCTION]]"
+- "[[topic TAMAR|TAMAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H8559H]]"
+- "[[H1004B]]"
+- "[[H0550G]]"
+- "[[H0251G]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H7901G]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1217]]"
+- "[[H3888]]"
+- "[[H3823B]]"
+- "[[H9005]]"
+- "[[H5869H]]"
+- "[[H9023]]"
+- "[[H1310]]"
+- "[[H3834]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **2 Samuel 13:8**<big><big>[[2Sam.13.1 Amnon and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Tamar went to her brother Amnon’s house; and he was laid down. And she took flour, and kneaded [it], and made cakes in his sight, and did bake the cakes.
 <small><sub>**BSB:**</sub></small>
 So Tamar went to the house of her brother Amnon, who was lying down. She took some dough, kneaded it, made cakes in his sight, and baked them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|תֵּ֣לֶךְ]] [[H8559H\|תָּמָ֗ר]] [[H1004B\|בֵּ֛ית]] [[H0550G\|אַמְנ֥וֹן]] [[H0251G\|אָחִ֖י]][[H9024\|הָ]] [[H9002\|וְ]][[H1931\|ה֣וּא]] [[H7901G\|שֹׁכֵ֑ב]] [[H9001\|וַ]][[H3947G\|תִּקַּ֨ח]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1217\|בָּצֵ֤ק]] [[H9001\|וַ]][[H3888\|תָּ֙לָשׁ֙]] [[H9001\|וַ]][[H3823B\|תְּלַבֵּ֣ב]] [[H9005\|לְ]][[H5869H\|עֵינָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H1310\|תְּבַשֵּׁ֖ל]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3834\|לְּבִבֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BREAD|BREAD]] • [[topic DECEPTION|DECEPTION]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic PRINCESSES|PRINCESSES]] • [[topic RAPE|RAPE]] • [[topic SEDUCTION|SEDUCTION]] • [[topic TAMAR|TAMAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.7|<< 2 Samuel 13:7]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.9|2 Samuel 13:9 >>]]</td></tr></table>
 

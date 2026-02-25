@@ -1,8 +1,56 @@
+---
+title: Ezekiel 7:7
+type: Verse
+kjv: "The morning is come unto thee, O thou that dwellest in the land: the time is come, the day of trouble is near, and not the sounding again of the mountains."
+bsb: "Doom has come to you, O inhabitants of the land. The time has come; the day is near; there is panic on the mountains instead of shouts of joy."
+hebrew: "בָּ֧אָה הַצְּפִירָ֛ה אֵלֶ֖יךָ יוֹשֵׁ֣ב הָאָ֑רֶץ בָּ֣א הָעֵ֗ת קָר֛וֹב הַיּ֥וֹם מְהוּמָ֖ה וְלֹא־ הֵ֥ד הָרִֽים׃"
+pericope: "[[Ezek.7.1 The Hour of Doom|The Hour of Doom]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 7
+book/chapter: "[[Ezek.7|Ezekiel 7]]"
+chronological_order: 798
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H6843]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H3427]]"
+- "[[H0776G]]"
+- "[[H6256]]"
+- "[[H7138]]"
+- "[[H3117G]]"
+- "[[H4103]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1906]]"
+- "[[H2022G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 7:7**<big><big>[[Ezek.7.1 The Hour of Doom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The morning is come unto thee, O thou that dwellest in the land: the time is come, the day of trouble [is] near, and not the sounding again of the mountains.
 <small><sub>**BSB:**</sub></small>
 Doom has come to you, O inhabitants of the land. The time has come; the day is near; there is panic on the mountains instead of shouts of joy.
+<small><sub>**Hebrew:**</sub></small>
+[[H0935G\|בָּ֧אָה]] [[H9009\|הַ]][[H6843\|צְּפִירָ֛ה]] [[H0413\|אֵלֶ֖י]][[H9031\|ךָ]] [[H3427\|יוֹשֵׁ֣ב]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H0935G\|בָּ֣א]] [[H9009\|הָ]][[H6256\|עֵ֗ת]] [[H7138\|קָר֛וֹב]] [[H9009\|הַ]][[H3117G\|יּ֥וֹם]] [[H4103\|מְהוּמָ֖ה]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H1906\|הֵ֥ד]] [[H2022G\|הָרִֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.6|<< Ezekiel 7:6]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.8|Ezekiel 7:8 >>]]</td></tr></table>
 

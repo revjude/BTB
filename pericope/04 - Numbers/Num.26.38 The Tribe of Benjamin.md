@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Tribe of Benjamin
+type: Pericope
 pericope: "[[Num.26.38 The Tribe of Benjamin|The Tribe of Benjamin]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 26
 book/chapter: "[[Num.26|Numbers 26]]"
-genre:
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 4
 verses:
 - "[[Num.26.38]]"
 - "[[Num.26.39]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Num.26.41]]"
 ---
 
-[[Num.26|Numbers 26:38 - Numbers 26:41]]
+<small>[[Num.26|Numbers 26:38-41]]</small>
 *The Tribe of Benjamin*
 
 [[Num.26.38|38]] The sons of Benjamin after their families: of Bela, the family of the Belaites: of Ashbel, the family of the Ashbelites: of Ahiram, the family of the Ahiramites:

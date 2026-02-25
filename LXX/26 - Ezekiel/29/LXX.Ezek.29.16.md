@@ -1,6 +1,62 @@
+---
+title: LXX Ezekiel 29:16
+type: Verse
+lxx: "And no longer will they be any more for a hope to the house of Israel, calling to mind lawlessness in  their following after them. And they shall know that I am Adonai the lord."
+greek: "και ουκέτι έσονται ετι τω οίκω Ισραήλ εις ελπίδα αναμιμνήσκουσαν ανομίαν εν τω ακολουθήσαι αυτούς οπίσω αυτών και γνώσονται ότι εγώ ειμι Αδωναϊ κύριος"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 29
+book/chapter: "[[Ezek.29|Ezekiel 29]]"
+chronological_order: 820
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3765]]"
+- "[[G1510]]"
+- "[[G2089]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G2474]]"
+- "[[G1519]]"
+- "[[G1680]]"
+- "[[G0363]]"
+- "[[G0458]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0190]]"
+- "[[G1473]]"
+- "[[G3694]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1097]]"
+- "[[G3754]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[H0113]]"
+- "[[G2962]]"
+---
+
 **LXX Ezekiel 29:16** 
 <small><sub>**LXX:**</sub></small>
 And no longer will they be any more for a hope to the house of Israel, calling to mind lawlessness in  their following after them. And they shall know that I am Adonai \[the\] <span class="smallcaps">lord</span>. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3765\|ουκέτι]] [[G1510\|έσονται]] [[G2089\|ετι]] [[G3588\|τω]] [[G3624\|οίκω]] [[G2474\|Ισραήλ]] [[G1519\|εις]] [[G1680\|ελπίδα]] [[G0363\|αναμιμνήσκουσαν]] [[G0458\|ανομίαν]] [[G1722\|εν]] [[G3588\|τω]] [[G0190\|ακολουθήσαι]] [[G1473\|αυτούς]] [[G3694\|οπίσω]] [[G1473\|αυτών]] [[G2532\|και]] [[G1097\|γνώσονται]] [[G3754\|ότι]] [[G1473\|εγώ]] [[G1510\|ειμι]] [[H0113\|Αδωναϊ]] [[G2962\|κύριος]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGMENTS|JUDGMENTS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.29.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.15|<< Ezekiel 29:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.17|Ezekiel 29:17 >>]]</td></tr></table>
 
@@ -29,6 +85,6 @@ And no longer will they be any more for a hope to the house of Israel, calling t
 | am | **<big>[[G1510\|ειμι]]</big>** |
 | Adonai | **<big>[[H0113\|Αδωναϊ]]</big>** |
 | \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
-[[Ezek.29.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.15|<< Ezekiel 29:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.17|Ezekiel 29:17 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.15|<< Ezekiel 29:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.17|Ezekiel 29:17 >>]]</td></tr></table>
 
 

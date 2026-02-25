@@ -1,10 +1,66 @@
+---
+title: Revelation 21:3
+type: Verse
+kjv: "And I heard a great voice out of heaven saying, Behold, the tabernacle of God is with men, and he will dwell with them, and they shall be his people, and God himself shall be with them, and be their God."
+bsb: "And I heard a loud voice from the throne saying: “Behold, the dwelling place of God is with man, and He will dwell with them. They will be His people, and God Himself will be with them as their God."
+greek: "καὶ ἤκουσα φωνῆς μεγάλης ἐκ τοῦ θρόνου λεγούσης· ἰδοὺ ἡ σκηνὴ τοῦ θεοῦ μετὰ τῶν ἀνθρώπων, καὶ σκηνώσει μετ᾽ αὐτῶν. καὶ αὐτοὶ λαοὶ αὐτοῦ ἔσονται, καὶ αὐτὸς ὁ θεὸς μετ᾽ αὐτῶν ἔσται αὐτῶν θεός."
+pericope: "[[Rev.21.1 A New Heaven and a New Earth|A New Heaven and a New Earth]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 21
+book/chapter: "[[Rev.21|Revelation 21]]"
+chronological_order: 1188
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RESTORATION|RESTORATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G5456G]]"
+- "[[G3173]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G2362]]"
+- "[[G3004G]]"
+- "[[G2400]]"
+- "[[G4633]]"
+- "[[G2316]]"
+- "[[G3326]]"
+- "[[G0444]]"
+- "[[G4637]]"
+- "[[G0846]]"
+- "[[G2992]]"
+- "[[G1510]]"
+texts:
+- NKO
+- N(K)O
+- NK(o)
+---
+
 **Revelation 21:3**<big><big>[[Rev.21.1 A New Heaven and a New Earth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I heard a great voice out of heaven saying, Behold, the tabernacle of God [is] with men, and he will dwell with them, and they shall be his people, and God himself shall be with them, [and be] their God.
 <small><sub>**BSB:**</sub></small>
 And I heard a loud voice from the throne saying: “Behold, the dwelling place of God is with man, and He will dwell with them. They will be His people, and God Himself will be with them as their God.
-<small><sub>**Literal:**</sub></small>
-And I heard a voice great from the throne saying: Behold the tabernacle <the> of God [is] with <the> men, and He will tabernacle with them. and they themselves peoples of Him will be, and Himself <the> God with them will be [as] their God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.2|<< Revelation 21:2]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.4|Revelation 21:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0191\|ἤκουσα]]  [[G5456G\|φωνῆς]]  [[G3173\|μεγάλης]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2362\|θρόνου]]  [[G3004G\|λεγούσης·]]  [[G2400\|ἰδοὺ]]  [[G3588\|ἡ]]  [[G4633\|σκηνὴ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G0444\|ἀνθρώπων,]]  [[G2532\|καὶ]]  [[G4637\|σκηνώσει]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτῶν.]]  [[G2532\|καὶ]]  [[G0846\|αὐτοὶ]]  [[G2992\|λαοὶ]]  [[G0846\|αὐτοῦ]]  [[G1510\|ἔσονται,]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτῶν]]  [[G1510\|ἔσται]]  [[G0846\|αὐτῶν]]  [[G2316\|θεός.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RESTORATION|RESTORATION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.2|<< Revelation 21:2]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.4|Revelation 21:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 21:3** is...
 > $\quad$ alluding to: [[LXX.Ezek.37.27|Ezek 37:27]]

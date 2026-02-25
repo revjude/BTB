@@ -1,8 +1,55 @@
+---
+title: Job 20:17
+type: Verse
+kjv: "He shall not see the rivers, the floods, the brooks of honey and butter."
+bsb: "He will not enjoy the streams, the rivers flowing with honey and cream."
+hebrew: "אַל־ יֵ֥רֶא בִפְלַגּ֑וֹת נַהֲרֵ֥י נַ֝חֲלֵ֗י דְּבַ֣שׁ וְחֶמְאָֽה׃"
+pericope: "[[Job.20.1 Zophar：Destruction Awaits the Wicked|Zophar：Destruction Awaits the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 20
+book/chapter: "[[Job.20|Job 20]]"
+chronological_order: 31
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BUTTER|BUTTER]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H6390]]"
+- "[[H5104H]]"
+- "[[H5158A]]"
+- "[[H1706]]"
+- "[[H9002]]"
+- "[[H2529A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 20:17**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall not see the rivers, the floods, the brooks of honey and butter.
 <small><sub>**BSB:**</sub></small>
 He will not enjoy the streams, the rivers flowing with honey and cream.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H7200G\|יֵ֥רֶא]] [[H9003\|בִ]][[H6390\|פְלַגּ֑וֹת]] [[H5104H\|נַהֲרֵ֥י]] [[H5158A\|נַ֝חֲלֵ֗י]] [[H1706\|דְּבַ֣שׁ]] [[H9002\|וְ]][[H2529A\|חֶמְאָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BUTTER|BUTTER]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.16|<< Job 20:16]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.18|Job 20:18 >>]]</td></tr></table>
 

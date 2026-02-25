@@ -1,8 +1,57 @@
+---
+title: 2 Chronicles 6:19
+type: Verse
+kjv: "Have respect therefore to the prayer of thy servant, and to his supplication, O LORD my God, to hearken unto the cry and the prayer which thy servant prayeth before thee:"
+bsb: "Yet regard the prayer and plea of Your servant, O LORD my God, so that You may hear the cry and the prayer that Your servant is praying before You."
+hebrew: "וּפָנִ֜יתָ אֶל־ תְּפִלַּ֧ת עַבְדְּךָ֛ וְאֶל־ תְּחִנָּת֖וֹ יְהוָ֣ה אֱלֹהָ֑י לִשְׁמֹ֤עַ אֶל־ הָרִנָּה֙ וְאֶל־ הַתְּפִלָּ֔ה אֲשֶׁ֥ר עַבְדְּךָ֖ מִתְפַּלֵּ֥ל לְפָנֶֽיךָ׃"
+pericope: "[[2Chr.6.12 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 6
+book/chapter: "[[2Chr.6|2 Chronicles 6]]"
+chronological_order: 495
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+strongs:
+- "[[H9001]]"
+- "[[H6437G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8605]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H8467]]"
+- "[[H9023]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H8085G]]"
+- "[[H9009]]"
+- "[[H7440]]"
+- "[[H0834A]]"
+- "[[H6419]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 6:19**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have respect therefore to the prayer of thy servant, and to his supplication, O LORD my God, to hearken unto the cry and the prayer which thy servant prayeth before thee:
 <small><sub>**BSB:**</sub></small>
 Yet regard the prayer and plea of Your servant, O LORD my God, so that You may hear the cry and the prayer that Your servant is praying before You.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H6437G\|פָנִ֜יתָ]] [[H0413\|אֶל]][[H9014\|־]] [[H8605\|תְּפִלַּ֧ת]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֛]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H8467\|תְּחִנָּת֖]][[H9023\|וֹ]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהָ֑]][[H9020\|י]] [[H9005\|לִ]][[H8085G\|שְׁמֹ֤עַ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H7440\|רִנָּה֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H8605\|תְּפִלָּ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֖]] [[H6419\|מִתְפַּלֵּ֥ל]] [[H9005\|לְ]][[H6440G\|פָנֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.18|<< 2 Chronicles 6:18]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.20|2 Chronicles 6:20 >>]]</td></tr></table>
 

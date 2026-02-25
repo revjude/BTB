@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: More Proverbs of Solomon
+type: Pericope
 pericope: "[[Prov.25.1 More Proverbs of Solomon|More Proverbs of Solomon]]"
-verse_count: 28
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 25
 book/chapter: "[[Prov.25|Proverbs 25]]"
-genre:
+chronological_order: 480
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 28
 verses:
 - "[[Prov.25.1]]"
 - "[[Prov.25.2]]"
@@ -46,7 +53,7 @@ verses:
 - "[[Prov.25.28]]"
 ---
 
-[[Prov.25|Proverbs 25:1 - Proverbs 25:28]]
+<small>[[Prov.25|Proverbs 25:1-28]]</small>
 *More Proverbs of Solomon*
 
 [[Prov.25.1|1]] These \[are\] also proverbs of Solomon, which the men of Hezekiah king of Judah copied out.

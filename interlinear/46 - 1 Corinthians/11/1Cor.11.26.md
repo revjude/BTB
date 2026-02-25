@@ -1,10 +1,60 @@
+---
+title: 1 Corinthians 11:26
+type: Verse
+kjv: "For as often as ye eat this bread, and drink this cup, ye do shew the Lord’s death till he come."
+bsb: "For as often as you eat this bread and drink this cup, you proclaim the Lord’s death until He comes."
+greek: "ὁσάκις γὰρ ἐὰν ἐσθίητε τὸν ἄρτον τοῦτον καὶ τὸ ποτήριον τοῦτο πίνητε, τὸν θάνατον τοῦ κυρίου καταγγέλλετε ἄχρι οὗ ἂν ἔλθῃ.¶"
+pericope: "[[1Cor.11.17 Sharing in the Lord’s Supper|Sharing in the Lord’s Supper]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 11
+book/chapter: "[[1Cor.11|1 Corinthians 11]]"
+chronological_order: 1068
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MEMORIAL|MEMORIAL]]"
+strongs:
+- "[[G3740]]"
+- "[[G1063]]"
+- "[[G1437]]"
+- "[[G2068]]"
+- "[[G3588]]"
+- "[[G0740]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G4221]]"
+- "[[G4095]]"
+- "[[G2288]]"
+- "[[G2962G]]"
+- "[[G2605]]"
+- "[[G0891]]"
+- "[[G3739]]"
+- "[[G0302]]"
+- "[[G2064]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **1 Corinthians 11:26**<big><big>[[1Cor.11.17 Sharing in the Lord’s Supper|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For as often as ye eat this bread, and drink this cup, ye do shew the Lord’s death till he come.
 <small><sub>**BSB:**</sub></small>
 For as often as you eat this bread and drink this cup, you proclaim the Lord’s death until He comes.
-<small><sub>**Literal:**</sub></small>
-As often as for when you shall eat <the> bread this and <the> cup this may drink, the death of the Lord you proclaim until that when He may come.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.25|<< 1 Corinthians 11:25]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.27|1 Corinthians 11:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3740\|ὁσάκις]]  [[G1063\|γὰρ]]  [[G1437\|ἐὰν]]  [[G2068\|ἐσθίητε]]  [[G3588\|τὸν]]  [[G0740\|ἄρτον]]  [[G3778\|τοῦτον]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G4221\|ποτήριον]]  [[G3778\|τοῦτο]]  [[G4095\|πίνητε,]]  [[G3588\|τὸν]]  [[G2288\|θάνατον]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G2605\|καταγγέλλετε]]  [[G0891\|ἄχρι]]  [[G3739\|οὗ]]  [[G0302\|ἂν]]  [[G2064\|ἔλθῃ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MEMORIAL|MEMORIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.25|<< 1 Corinthians 11:25]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.27|1 Corinthians 11:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,64 @@
+---
+title: Ezra 6:15
+type: Verse
+kjv: "And this house was finished on the third day of the month Adar, which was in the sixth year of the reign of Darius the king."
+bsb: "And this temple was completed on the third day of the month of Adar, in the sixth year of the reign of King Darius."
+aramaic: "וְשֵׁיצִיא֙ בַּיְתָ֣ה דְנָ֔ה עַ֛ד י֥וֹם תְּלָתָ֖ה לִירַ֣ח אֲדָ֑ר דִּי־ הִ֣יא שְׁנַת־ שֵׁ֔ת לְמַלְכ֖וּת דָּרְיָ֥וֶשׁ מַלְכָּֽא׃ פ"
+pericope: "[[Ezra.6.13 The Temple Completed|The Temple Completed]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 6
+book/chapter: "[[Ezra.6|Ezra 6]]"
+chronological_order: 854
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic ADAR|ADAR]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3319]]"
+- "[[H1005]]"
+- "[[H9010]]"
+- "[[H1836]]"
+- "[[H5705]]"
+- "[[H3118]]"
+- "[[H8532]]"
+- "[[H9005]]"
+- "[[H3393]]"
+- "[[H0144]]"
+- "[[H1768]]"
+- "[[H9014]]"
+- "[[H1932]]"
+- "[[H8140]]"
+- "[[H8353]]"
+- "[[H4437]]"
+- "[[H1868G]]"
+- "[[H4430]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezra 6:15**<big><big>[[Ezra.6.13 The Temple Completed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this house was finished on the third day of the month Adar, which was in the sixth year of the reign of Darius the king.
 <small><sub>**BSB:**</sub></small>
 And this temple was completed on the third day of the month of Adar, in the sixth year of the reign of King Darius.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וְ]][[H3319\|שֵׁיצִיא֙]] [[H1005\|בַּיְתָ֣]][[H9010\|ה]] [[H1836\|דְנָ֔ה]] [[H5705\|עַ֛ד]] [[H3118\|י֥וֹם]] [[H8532\|תְּלָתָ֖ה]] [[H9005\|לִ]][[H3393\|ירַ֣ח]] [[H0144\|אֲדָ֑ר]] [[H1768\|דִּי]][[H9014\|־]] [[H1932\|הִ֣יא]] [[H8140\|שְׁנַת]][[H9014\|־]] [[H8353\|שֵׁ֔ת]] [[H9005\|לְ]][[H4437\|מַלְכ֖וּת]] [[H1868G\|דָּרְיָ֥וֶשׁ]] [[H4430\|מַלְכָּֽ]][[H9010\|א]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAR|ADAR]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MONTH|MONTH]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.14|<< Ezra 6:14]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.16|Ezra 6:16 >>]]</td></tr></table>
 
@@ -22,7 +78,7 @@ And this temple was completed on the third day of the month of Adar, in the sixt
 | six  |**<big>&#8207;[[H8353\|שֵׁ֔ת]]&#8207; </big>**| Shet<small><sup>[[AAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of [the] reign of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4437\|מַלְכ֖וּת]]&#8207; </big>**| le.<small><sup>[[AR]]</sup></small> mal.Khut<small><sup>[[ANcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Darius  |**<big>&#8207;[[H1868G\|דָּרְיָ֥וֶשׁ]]&#8207; </big>**| da.re.Ya.vesh<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| king the  |**<big>&#8207;[[H4430\|מַלְכָּֽ]]&#8207;&#8207;[[H9010\|א]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| king the  |**<big>&#8207;[[H4430\|מַלְכָּֽ]]&#8207;&#8207;[[H9010\|א]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.14|<< Ezra 6:14]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.16|Ezra 6:16 >>]]</td></tr></table>
 
 

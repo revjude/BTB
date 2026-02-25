@@ -1,8 +1,55 @@
+---
+title: Zechariah 10:4
+type: Verse
+kjv: "Out of him came forth the corner, out of him the nail, out of him the battle bow, out of him every oppressor together."
+bsb: "The cornerstone will come from Judah, the tent peg from him, as well as the battle bow and every ruler together."
+hebrew: "מִמֶּ֤נּוּ פִנָּה֙ מִמֶּ֣נּוּ יָתֵ֔ד מִמֶּ֖נּוּ קֶ֣שֶׁת מִלְחָמָ֑ה מִמֶּ֛נּוּ יֵצֵ֥א כָל־ נוֹגֵ֖שׂ יַחְדָּֽו׃"
+pericope: "[[Zech.10.1 Judah and Israel Will Be Restored|Judah and Israel Will Be Restored]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 10
+book/chapter: "[[Zech.10|Zechariah 10]]"
+chronological_order: 866
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic ARCHERY|ARCHERY]]"
+- "[[topic NAIL|NAIL]]"
+strongs:
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H6438H]]"
+- "[[H3489]]"
+- "[[H7198]]"
+- "[[H4421]]"
+- "[[H3318M]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5065]]"
+- "[[H3162B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 10:4**<big><big>[[Zech.10.1 Judah and Israel Will Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Out of him came forth the corner, out of him the nail, out of him the battle bow, out of him every oppressor together.
 <small><sub>**BSB:**</sub></small>
 The cornerstone will come from Judah, the tent peg from him, as well as the battle bow and every ruler together.
+<small><sub>**Hebrew:**</sub></small>
+[[H4480A\|מִמֶּ֤]][[H9033\|נּוּ]] [[H6438H\|פִנָּה֙]] [[H4480A\|מִמֶּ֣]][[H9033\|נּוּ]] [[H3489\|יָתֵ֔ד]] [[H4480A\|מִמֶּ֖]][[H9033\|נּוּ]] [[H7198\|קֶ֣שֶׁת]] [[H4421\|מִלְחָמָ֑ה]] [[H4480A\|מִמֶּ֛]][[H9033\|נּוּ]] [[H3318M\|יֵצֵ֥א]] [[H3605\|כָל]][[H9014\|־]] [[H5065\|נוֹגֵ֖שׂ]] [[H3162B\|יַחְדָּֽו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARCHERY|ARCHERY]] • [[topic NAIL|NAIL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.10.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.10.3|<< Zechariah 10:3]]</td><td align="center" style="border:none;">[[Zech.10|Zechariah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.10.5|Zechariah 10:5 >>]]</td></tr></table>
 

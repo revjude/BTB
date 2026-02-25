@@ -1,6 +1,72 @@
+---
+title: LXX Deuteronomy 28:18
+type: Verse
+lxx: "Accursed are the progeny  of your belly, and the produce  of your land; the herds  of your oxen, and the flocks  of your sheep."
+greek: "επικατάρατα τα έκγονα της κοιλίας σου και τα γενήματα της γης σου τα βουκόλια των βοών σου και τα ποίμνια των προβάτων σου"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G1944]]"
+- "[[G3588]]"
+- "[[G1549]]"
+- "[[G3588]]"
+- "[[G2836]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1081]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G6690]]"
+- "[[G3588]]"
+- "[[G1016]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4168]]"
+- "[[G3588]]"
+- "[[G4263]]"
+- "[[G1473]]"
+---
+
 **LXX Deuteronomy 28:18** 
 <small><sub>**LXX:**</sub></small>
 Accursed \[are\] the progeny  of your belly, and the produce  of your land; the herds  of your oxen, and the flocks  of your sheep. 
+<small><sub>**Greek:**</sub></small>
+[[G1944\|επικατάρατα]] [[G3588\|τα]] [[G1549\|έκγονα]] [[G3588\|της]] [[G2836\|κοιλίας]] [[G1473\|σου]] [[G2532\|και]] [[G3588\|τα]] [[G1081\|γενήματα]] [[G3588\|της]] [[G1093\|γης]] [[G1473\|σου]] [[G3588\|τα]] [[G6690\|βουκόλια]] [[G3588\|των]] [[G1016\|βοών]] [[G1473\|σου]] [[G2532\|και]] [[G3588\|τα]] [[G4168\|ποίμνια]] [[G3588\|των]] [[G4263\|προβάτων]] [[G1473\|σου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.28.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.17|<< Deuteronomy 28:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.19|Deuteronomy 28:19 >>]]</td></tr></table>
 
@@ -25,6 +91,6 @@ Accursed \[are\] the progeny  of your belly, and the produce  of your land; the 
 | flocks | **<big>[[G4168\|ποίμνια]]</big>** |
 | \<obj.> | **<big>[[G3588\|των]]</big>** |
 | of your sheep. | **<big>[[G4263\|προβάτων]]</big>** **<big>[[G1473\|σου]]</big>** |
-[[Deut.28.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.17|<< Deuteronomy 28:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.19|Deuteronomy 28:19 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.17|<< Deuteronomy 28:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.19|Deuteronomy 28:19 >>]]</td></tr></table>
 
 

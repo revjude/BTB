@@ -1,10 +1,60 @@
+---
+title: Mark 16:6
+type: Verse
+kjv: "And he saith unto them, Be not affrighted: Ye seek Jesus of Nazareth, which was crucified: he is risen; he is not here: behold the place where they laid him."
+bsb: "But he said to them, “Do not be alarmed. You are looking for Jesus the Nazarene, who was crucified. He has risen! He is not here! See the place where they put Him."
+greek: "ὁ δὲ λέγει αὐταῖς· μὴ ἐκθαμβεῖσθε. Ἰησοῦν ζητεῖτε τὸν Ναζαρηνὸν τὸν ἐσταυρωμένον· ἠγέρθη, οὐκ ἔστιν ὧδε· ἴδε ὁ τόπος ὅπου ἔθηκαν αὐτόν."
+pericope: "[[Mark.16.1 The Resurrection|The Resurrection]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 16
+book/chapter: "[[Mark.16|Mark 16]]"
+chronological_order: 1015
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3361]]"
+- "[[G1568]]"
+- "[[G2424G]]"
+- "[[G2212]]"
+- "[[G3479]]"
+- "[[G4717]]"
+- "[[G1453]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G5602]]"
+- "[[G2396]]"
+- "[[G5117]]"
+- "[[G3699]]"
+- "[[G5087]]"
+texts:
+- NKO
+---
+
 **Mark 16:6**<big><big>[[Mark.16.1 The Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he saith unto them, Be not affrighted: Ye seek Jesus of Nazareth, which was crucified: he is risen; he is not here: behold the place where they laid him.
 <small><sub>**BSB:**</sub></small>
 But he said to them, “Do not be alarmed. You are looking for Jesus the Nazarene, who was crucified. He has risen! He is not here! See the place where they put Him.
-<small><sub>**Literal:**</sub></small>
-<the> And he says to them; Not do be amazed. Jesus you seek the Nazarene the [One] crucified; He is risen! Not He is here! Behold the place where they laid Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.5|<< Mark 16:5]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.7|Mark 16:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G3004G\|λέγει]]  [[G0846\|αὐταῖς·]]  [[G3361\|μὴ]]  [[G1568\|ἐκθαμβεῖσθε.]]  [[G2424G\|Ἰησοῦν]]  [[G2212\|ζητεῖτε]]  [[G3588\|τὸν]]  [[G3479\|Ναζαρηνὸν]]  [[G3588\|τὸν]]  [[G4717\|ἐσταυρωμένον·]]  [[G1453\|ἠγέρθη,]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G5602\|ὧδε·]]  [[G2396\|ἴδε]]  [[G3588\|ὁ]]  [[G5117\|τόπος]]  [[G3699\|ὅπου]]  [[G5087\|ἔθηκαν]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.5|<< Mark 16:5]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.7|Mark 16:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

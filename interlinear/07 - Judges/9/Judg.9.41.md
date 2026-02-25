@@ -1,8 +1,60 @@
+---
+title: Judges 9:41
+type: Verse
+kjv: "And Abimelech dwelt at Arumah: and Zebul thrust out Gaal and his brethren, that they should not dwell in Shechem."
+bsb: "Abimelech stayed in Arumah, and Zebul drove Gaal and his brothers out of Shechem."
+hebrew: "וַיֵּ֥שֶׁב אֲבִימֶ֖לֶךְ בָּארוּמָ֑ה וַיְגָ֧רֶשׁ זְבֻ֛ל אֶת־ גַּ֥עַל וְאֶת־ אֶחָ֖יו מִשֶּׁ֥בֶת בִּשְׁכֶֽם׃"
+pericope: "[[Judg.9.30 The Fall of Shechem|The Fall of Shechem]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARUMAH|ARUMAH]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic GAAL|GAAL]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic ZEBUL|ZEBUL]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H0040H]]"
+- "[[H9003]]"
+- "[[H0725]]"
+- "[[H1644G]]"
+- "[[H2083]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1603]]"
+- "[[H9002]]"
+- "[[H0251H]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H7927G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 9:41**<big><big>[[Judg.9.30 The Fall of Shechem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abimelech dwelt at Arumah: and Zebul thrust out Gaal and his brethren, that they should not dwell in Shechem.
 <small><sub>**BSB:**</sub></small>
 Abimelech stayed in Arumah, and Zebul drove Gaal and his brothers out of Shechem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3427\|יֵּ֥שֶׁב]] [[H0040H\|אֲבִימֶ֖לֶךְ]] [[H9003\|בָּ]][[H0725\|ארוּמָ֑ה]] [[H9001\|וַ]][[H1644G\|יְגָ֧רֶשׁ]] [[H2083\|זְבֻ֛ל]] [[H0853\|אֶת]][[H9014\|־]] [[H1603\|גַּ֥עַל]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0251H\|אֶחָ֖י]][[H9023\|ו]] [[H9006\|מִ]][[H3427\|שֶּׁ֥בֶת]] [[H9003\|בִּ]][[H7927G\|שְׁכֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARUMAH|ARUMAH]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic GAAL|GAAL]] • [[topic JUDGE|JUDGE]] • [[topic ZEBUL|ZEBUL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.40|<< Judges 9:40]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.42|Judges 9:42 >>]]</td></tr></table>
 

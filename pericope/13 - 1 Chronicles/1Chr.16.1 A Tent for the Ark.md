@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Tent for the Ark
+type: Pericope
 pericope: "[[1Chr.16.1 A Tent for the Ark|A Tent for the Ark]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 16
 book/chapter: "[[1Chr.16|1 Chronicles 16]]"
-genre:
+chronological_order: 397
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 6
 verses:
 - "[[1Chr.16.1]]"
 - "[[1Chr.16.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[1Chr.16.6]]"
 ---
 
-[[1Chr.16|1 Chronicles 16:1 - 1 Chronicles 16:6]]
+<small>[[1Chr.16|1 Chronicles 16:1-6]]</small>
 *A Tent for the Ark*
 
 [[1Chr.16.1|1]] So they brought the ark of God, and set it in the midst of the tent that David had pitched for it: and they offered burnt sacrifices and peace offerings before God.

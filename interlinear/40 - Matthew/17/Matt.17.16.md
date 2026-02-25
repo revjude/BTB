@@ -1,10 +1,54 @@
+---
+title: Matthew 17:16
+type: Verse
+kjv: "And I brought him to thy disciples, and they could not cure him."
+bsb: "I brought him to Your disciples, but they could not heal him.”"
+greek: "καὶ προσήνεγκα αὐτὸν τοῖς μαθηταῖς σου, καὶ οὐκ ἠδυνήθησαν αὐτὸν θεραπεῦσαι.¶"
+pericope: "[[Matt.17.14 The Boy with a Demon|The Boy with a Demon]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 17
+book/chapter: "[[Matt.17|Matthew 17]]"
+chronological_order: 967
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G4374]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G2323]]"
+texts:
+- NKO
+---
+
 **Matthew 17:16**<big><big>[[Matt.17.14 The Boy with a Demon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I brought him to thy disciples, and they could not cure him.
 <small><sub>**BSB:**</sub></small>
 I brought him to Your disciples, but they could not heal him.”
-<small><sub>**Literal:**</sub></small>
-And I brought him to the disciples of You, and not they were able him to heal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.15|<< Matthew 17:15]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.17|Matthew 17:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4374\|προσήνεγκα]]  [[G0846\|αὐτὸν]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς]]  [[G4771\|σου,]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1410\|ἠδυνήθησαν]]  [[G0846\|αὐτὸν]]  [[G2323\|θεραπεῦσαι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic DOUBTING|DOUBTING]] • [[topic FAITH|FAITH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.15|<< Matthew 17:15]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.17|Matthew 17:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

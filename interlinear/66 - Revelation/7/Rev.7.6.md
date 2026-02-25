@@ -1,10 +1,55 @@
+---
+title: Revelation 7:6
+type: Verse
+kjv: "Of the tribe of Aser were sealed twelve thousand. Of the tribe of Nepthalim were sealed twelve thousand. Of the tribe of Manasses were sealed twelve thousand."
+bsb: "from the tribe of Asher 12,000, from the tribe of Naphtali 12,000, from the tribe of Manasseh 12,000,"
+greek: "ἐκ φυλῆς Ἀσὴρ δώδεκα χιλιάδες ἐσφραγισμένοι· ἐκ φυλῆς Νεφθαλὶμ δώδεκα χιλιάδες ἐσφραγισμένοι· ἐκ φυλῆς Μανασσῆ δώδεκα χιλιάδες ἐσφραγισμένοι·"
+pericope: "[[Rev.7.1 144,000 Sealed|144,000 Sealed]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 7
+book/chapter: "[[Rev.7|Revelation 7]]"
+chronological_order: 1174
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ASHER|ASHER]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic NAPHTALI|NAPHTALI]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G1537]]"
+- "[[G5443]]"
+- "[[G0768]]"
+- "[[G1427]]"
+- "[[G5505]]"
+- "[[G4972]]"
+- "[[G3508]]"
+- "[[G3128G]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Revelation 7:6**<big><big>[[Rev.7.1 144,000 Sealed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Of the tribe of Aser [were] sealed twelve thousand. Of the tribe of Nepthalim [were] sealed twelve thousand. Of the tribe of Manasses [were] sealed twelve thousand.
 <small><sub>**BSB:**</sub></small>
 from the tribe of Asher 12,000, from the tribe of Naphtali 12,000, from the tribe of Manasseh 12,000,
-<small><sub>**Literal:**</sub></small>
-out of [the] tribe of Asher twelve thousand sealed; out of [the] tribe of Naphtali twelve thousand sealed; out of [the] tribe of Manasseh twelve thousand sealed;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.5|<< Revelation 7:5]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.7|Revelation 7:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1537\|ἐκ]]  [[G5443\|φυλῆς]]  [[G0768\|Ἀσὴρ]]  [[G1427\|δώδεκα]]  [[G5505\|χιλιάδες]]  [[G4972\|ἐσφραγισμένοι·]]  [[G1537\|ἐκ]]  [[G5443\|φυλῆς]]  [[G3508\|Νεφθαλὶμ]]  [[G1427\|δώδεκα]]  [[G5505\|χιλιάδες]]  [[G4972\|ἐσφραγισμένοι·]]  [[G1537\|ἐκ]]  [[G5443\|φυλῆς]]  [[G3128G\|Μανασσῆ]]  [[G1427\|δώδεκα]]  [[G5505\|χιλιάδες]]  [[G4972\|ἐσφραγισμένοι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHER|ASHER]] • [[topic ISRAEL|ISRAEL]] • [[topic MANASSEH|MANASSEH]] • [[topic NAPHTALI|NAPHTALI]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.5|<< Revelation 7:5]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.7|Revelation 7:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

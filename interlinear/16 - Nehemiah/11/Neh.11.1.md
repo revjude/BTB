@@ -1,8 +1,66 @@
+---
+title: Nehemiah 11:1
+type: Verse
+kjv: "And the rulers of the people dwelt at Jerusalem: the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts to dwell in other cities."
+bsb: "Now the leaders of the people settled in Jerusalem, and the rest of the people cast lots to bring one out of ten to live in the holy city of Jerusalem, while the remaining nine were to dwell in their own towns."
+hebrew: "וַיֵּשְׁב֥וּ שָׂרֵֽי־ הָעָ֖ם בִּירוּשָׁלִָ֑ם וּשְׁאָ֣ר הָ֠עָם הִפִּ֨ילוּ גוֹרָל֜וֹת לְהָבִ֣יא׀ אֶחָ֣ד מִן־ הָעֲשָׂרָ֗ה לָשֶׁ֙בֶת֙ בִּֽירוּשָׁלִַ֙ם֙ עִ֣יר הַקֹּ֔דֶשׁ וְתֵ֥שַׁע הַיָּד֖וֹת בֶּעָרִֽים׃"
+pericope: "[[Neh.11.1 Jerusalem’s New Settlers|Jerusalem’s New Settlers]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 11
+book/chapter: "[[Neh.11|Nehemiah 11]]"
+chronological_order: 923
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ELECTION|ELECTION]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic LOT, THE|LOT, THE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H8269]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H9002]]"
+- "[[H7605]]"
+- "[[H5307I]]"
+- "[[H1486]]"
+- "[[H9005]]"
+- "[[H0935P]]"
+- "[[H9015]]"
+- "[[H0259]]"
+- "[[H4480A]]"
+- "[[H6235]]"
+- "[[H5892B]]"
+- "[[H6944G]]"
+- "[[H8672]]"
+- "[[H3027L]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 11:1**<big><big>[[Neh.11.1 Jerusalem’s New Settlers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the rulers of the people dwelt at Jerusalem: the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts [to dwell] in [other] cities.
 <small><sub>**BSB:**</sub></small>
 Now the leaders of the people settled in Jerusalem, and the rest of the people cast lots to bring one out of ten to live in the holy city of Jerusalem, while the remaining nine were to dwell in their own towns.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3427\|יֵּשְׁב֥וּ]] [[H8269\|שָׂרֵֽי]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9002\|וּ]][[H7605\|שְׁאָ֣ר]] [[H9009\|הָ֠]][[H5971A\|עָם]] [[H5307I\|הִפִּ֨ילוּ]] [[H1486\|גוֹרָל֜וֹת]] [[H9005\|לְ]][[H0935P\|הָבִ֣יא]][[H9015\|׀]] [[H0259\|אֶחָ֣ד]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H6235\|עֲשָׂרָ֗ה]] [[H9005\|לָ]][[H3427\|שֶׁ֙בֶת֙]] [[H9003\|בִּֽ]][[H3389\|ירוּשָׁלִַ֙ם֙]] [[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H6944G\|קֹּ֔דֶשׁ]] [[H9002\|וְ]][[H8672\|תֵ֥שַׁע]] [[H9009\|הַ]][[H3027L\|יָּד֖וֹת]] [[H9003\|בֶּ]][[H5892B\|עָרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELECTION|ELECTION]] • [[topic JERUSALEM|JERUSALEM]] • [[topic LOT, THE|LOT, THE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.10.39|<< Nehemiah 10:39]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.2|Nehemiah 11:2 >>]]</td></tr></table>
 

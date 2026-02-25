@@ -1,10 +1,53 @@
+---
+title: 1 Thessalonians 1:4
+type: Verse
+kjv: "Knowing, brethren beloved, your election of God."
+bsb: "Brothers who are beloved by God, we know that He has chosen you,"
+greek: "εἰδότες, ἀδελφοὶ ἠγαπημένοι ὑπὸ τοῦ θεοῦ, τὴν ἐκλογὴν ὑμῶν·"
+pericope: "[[1Thess.1.1 Greetings to the Thessalonians|Greetings to the Thessalonians]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 1
+book/chapter: "[[1Thess.1|1 Thessalonians 1]]"
+chronological_order: 1048
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G6063]]"
+- "[[G0080]]"
+- "[[G0025]]"
+- "[[G5259G]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1589]]"
+- "[[G4771]]"
+texts:
+- NKO
+- no
+---
+
 **1 Thessalonians 1:4**<big><big>[[1Thess.1.1 Greetings to the Thessalonians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Knowing, brethren beloved, your election of God.
 <small><sub>**BSB:**</sub></small>
 Brothers who are beloved by God, we know that He has chosen you,
-<small><sub>**Literal:**</sub></small>
-knowing, brothers beloved by <the> God, the election of you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.1.3|<< 1 Thessalonians 1:3]]</td><td align="center" style="border:none;">[[1Thess.1|1 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.1.5|1 Thessalonians 1:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|εἰδότες,]]  [[G0080\|ἀδελφοὶ]]  [[G0025\|ἠγαπημένοι]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G3588\|τὴν]]  [[G1589\|ἐκλογὴν]]  [[G4771\|ὑμῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSURANCE|ASSURANCE]] • [[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.1.3|<< 1 Thessalonians 1:3]]</td><td align="center" style="border:none;">[[1Thess.1|1 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.1.5|1 Thessalonians 1:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

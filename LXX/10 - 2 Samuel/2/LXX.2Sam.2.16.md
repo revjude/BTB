@@ -1,9 +1,83 @@
+---
+title: LXX 2 Samuel 2:16
+type: Verse
+lxx: "And each held by their hand the head  of his neighbor; and  his knife was thrust into the side  of his neighbor; and they fell down together. And they called  that place, Portion of the Plotters, which is in Gibeon."
+greek: "και εκράτησαν έκαστος τη χειρί την κεφαλήν του πλησίον αυτού και η μάχαιρα αυτού εις την πλευράν του πλησίον αυτού και πίπτουσι κατά το αυτό και εκλήθη τω τόπω εκείνω Μερίς των επιβούλων η εστιν εν Γαβαών"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 2
+book/chapter: "[[2Sam.2|2 Samuel 2]]"
+chronological_order: 330
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABNER|ABNER]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHAMPIONSHIP|CHAMPIONSHIP]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic HELKATH-HAZZURIM|HELKATH-HAZZURIM]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G2532]]"
+- "[[G2902]]"
+- "[[G1538]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G3588]]"
+- "[[G2776]]"
+- "[[G3588]]"
+- "[[G4139]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3162]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4125]]"
+- "[[G3588]]"
+- "[[G4139]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4098]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2564]]"
+- "[[G3588]]"
+- "[[G5117]]"
+- "[[G1565]]"
+- "[[G3310]]"
+- "[[G3588]]"
+- "[[G7391]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[H1391]]"
+---
+
 **LXX 2 Samuel 2:16** 
 
 ***Abner Wars with David***
 
 <small><sub>**LXX:**</sub></small>
 And each held by \[their\] hand the head  of his neighbor; and  his knife \[was thrust\] into the side  of his neighbor; and they fell down together. And they called  that place, Portion of the Plotters, which is in Gibeon. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2902\|εκράτησαν]] [[G1538\|έκαστος]] [[G3588\|τη]] [[G5495\|χειρί]] [[G3588\|την]] [[G2776\|κεφαλήν]] [[G3588\|του]] [[G4139\|πλησίον]] [[G1473\|αυτού]] [[G2532\|και]] [[G3588\|η]] [[G3162\|μάχαιρα]] [[G1473\|αυτού]] [[G1519\|εις]] [[G3588\|την]] [[G4125\|πλευράν]] [[G3588\|του]] [[G4139\|πλησίον]] [[G1473\|αυτού]] [[G2532\|και]] [[G4098\|πίπτουσι]] [[G2596\|κατά]] [[G3588\|το]] [[G1473\|αυτό]] [[G2532\|και]] [[G2564\|εκλήθη]] [[G3588\|τω]] [[G5117\|τόπω]] [[G1565\|εκείνω]] [[G3310\|Μερίς]] [[G3588\|των]] [[G7391\|επιβούλων]] [[G3739\|η]] [[G1510\|εστιν]] [[G1722\|εν]] [[H1391\|Γαβαών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]] • [[topic ARMIES|ARMIES]] • [[topic CHAMPIONSHIP|CHAMPIONSHIP]] • [[topic DAVID|DAVID]] • [[topic HELKATH-HAZZURIM|HELKATH-HAZZURIM]] • [[topic ISRAEL|ISRAEL]] • [[topic JOAB|JOAB]] • [[topic WAR|WAR]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.15|<< 2 Samuel 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.17|2 Samuel 2:17 >>]]</td></tr></table>
 
@@ -40,6 +114,6 @@ And each held by \[their\] hand the head  of his neighbor; and  his knife \[was 
 | is | **<big>[[G1510\|εστιν]]</big>** |
 | in | **<big>[[G1722\|εν]]</big>** |
 | Gibeon. | **<big>[[H1391\|Γαβαών]]</big>** |
-[[2Sam.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.15|<< 2 Samuel 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.17|2 Samuel 2:17 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.15|<< 2 Samuel 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.17|2 Samuel 2:17 >>]]</td></tr></table>
 
 

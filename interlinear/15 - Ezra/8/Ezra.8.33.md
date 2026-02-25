@@ -1,8 +1,79 @@
+---
+title: Ezra 8:33
+type: Verse
+kjv: "Now on the fourth day was the silver and the gold and the vessels weighed in the house of our God by the hand of Meremoth the son of Uriah the priest; and with him was Eleazar the son of Phinehas; and with them was Jozabad the son of Jeshua, and Noadiah the son of Binnui, Levites;"
+bsb: "On the fourth day, in the house of our God, we weighed out the silver and gold and sacred articles into the hand of Meremoth son of Uriah, the priest. Eleazar son of Phinehas was with him, along with the Levites Jozabad son of Jeshua and Noadiah son of Binnui."
+hebrew: "וּבַיּ֣וֹם הָרְבִיעִ֡י נִשְׁקַ֣ל הַכֶּסֶף֩ וְהַזָּהָ֨ב וְהַכֵּלִ֜ים בְּבֵ֣ית אֱלֹהֵ֗ינוּ עַ֠ל יַד־ מְרֵמ֤וֹת בֶּן־ אֽוּרִיָּה֙ הַכֹּהֵ֔ן וְעִמּ֖וֹ אֶלְעָזָ֣ר בֶּן־ פִּֽינְחָ֑ס וְעִמָּהֶ֞ם יוֹזָבָ֧ד בֶּן־ יֵשׁ֛וּעַ וְנֽוֹעַדְיָ֥ה בֶן־ בִּנּ֖וּי הַלְוִיִּֽם׃"
+pericope: "[[Ezra.8.32 Arrival in Jerusalem|Arrival in Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 8
+book/chapter: "[[Ezra.8|Ezra 8]]"
+chronological_order: 910
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic BINNUI|BINNUI]]"
+- "[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]]"
+- "[[topic JESHUA|JESHUA]]"
+- "[[topic JOZABAD|JOZABAD]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MEREMOTH|MEREMOTH]]"
+- "[[topic NOADIAH|NOADIAH]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic URIAH|URIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7243]]"
+- "[[H8254]]"
+- "[[H3701G]]"
+- "[[H2091]]"
+- "[[H3627]]"
+- "[[H1004Q]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H5921A]]"
+- "[[H3027H]]"
+- "[[H9014]]"
+- "[[H4822G]]"
+- "[[H1121A]]"
+- "[[H0223H]]"
+- "[[H3548]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H0499K]]"
+- "[[H6372I]]"
+- "[[H9038]]"
+- "[[H3107M]]"
+- "[[H3442K]]"
+- "[[H5129G]]"
+- "[[H1131H]]"
+- "[[H3881]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 8:33**<big><big>[[Ezra.8.32 Arrival in Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now on the fourth day was the silver and the gold and the vessels weighed in the house of our God by the hand of Meremoth the son of Uriah the priest; and with him [was] Eleazar the son of Phinehas; and with them [was] Jozabad the son of Jeshua, and Noadiah the son of Binnui, Levites;
 <small><sub>**BSB:**</sub></small>
 On the fourth day, in the house of our God, we weighed out the silver and gold and sacred articles into the hand of Meremoth son of Uriah, the priest. Eleazar son of Phinehas was with him, along with the Levites Jozabad son of Jeshua and Noadiah son of Binnui.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H3117G\|יּ֣וֹם]] [[H9009\|הָ]][[H7243\|רְבִיעִ֡י]] [[H8254\|נִשְׁקַ֣ל]] [[H9009\|הַ]][[H3701G\|כֶּסֶף֩]] [[H9002\|וְ]][[H9009\|הַ]][[H2091\|זָּהָ֨ב]] [[H9002\|וְ]][[H9009\|הַ]][[H3627\|כֵּלִ֜ים]] [[H9003\|בְּ]][[H1004Q\|בֵ֣ית]] [[H0430G\|אֱלֹהֵ֗י]][[H9025\|נוּ]] [[H5921A\|עַ֠ל]] [[H3027H\|יַד]][[H9014\|־]] [[H4822G\|מְרֵמ֤וֹת]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0223H\|אֽוּרִיָּה֙]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H9002\|וְ]][[H5973A\|עִמּ֖]][[H9033\|וֹ]] [[H0499K\|אֶלְעָזָ֣ר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6372I\|פִּֽינְחָ֑ס]] [[H9002\|וְ]][[H5973A\|עִמָּ]][[H9038\|הֶ֞ם]] [[H3107M\|יוֹזָבָ֧ד]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3442K\|יֵשׁ֛וּעַ]] [[H9002\|וְ]][[H5129G\|נֽוֹעַדְיָ֥ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H1131H\|בִּנּ֖וּי]] [[H9009\|הַ]][[H3881\|לְוִיִּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BINNUI|BINNUI]] • [[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]] • [[topic JESHUA|JESHUA]] • [[topic JOZABAD|JOZABAD]] • [[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MEREMOTH|MEREMOTH]] • [[topic NOADIAH|NOADIAH]] • [[topic TEMPLE|TEMPLE]] • [[topic URIAH|URIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.32|<< Ezra 8:32]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.34|Ezra 8:34 >>]]</td></tr></table>
 

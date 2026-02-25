@@ -1,8 +1,65 @@
+---
+title: Zechariah 6:14
+type: Verse
+kjv: "And the crowns shall be to Helem, and to Tobijah, and to Jedaiah, and to Hen the son of Zephaniah, for a memorial in the temple of the LORD."
+bsb: "The crown will reside in the temple of the LORD as a memorial to Helem, Tobijah, Jedaiah, and the gracious son of Zephaniah."
+hebrew: "וְהָעֲטָרֹ֗ת תִּֽהְיֶה֙ לְחֵ֙לֶם֙ וּלְטוֹבִיָּ֣ה וְלִידַֽעְיָ֔ה וּלְחֵ֖ן בֶּן־ צְפַנְיָ֑ה לְזִכָּר֖וֹן בְּהֵיכַ֥ל יְהוָֽה׃"
+pericope: "[[Zech.6.9 The Crown and the Temple|The Crown and the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 6
+book/chapter: "[[Zech.6|Zechariah 6]]"
+chronological_order: 862
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic HELEM|HELEM]]"
+- "[[topic JEDAIAH|JEDAIAH]]"
+- "[[topic JESHUA|JESHUA]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TOBIJAH|TOBIJAH]]"
+- "[[topic ZEPHANIAH|ZEPHANIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5850]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H2494]]"
+- "[[H2900J]]"
+- "[[H3048J]]"
+- "[[H2581]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H6846I]]"
+- "[[H2146]]"
+- "[[H9003]]"
+- "[[H1964G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 6:14**<big><big>[[Zech.6.9 The Crown and the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the crowns shall be to Helem, and to Tobijah, and to Jedaiah, and to Hen the son of Zephaniah, for a memorial in the temple of the LORD.
 <small><sub>**BSB:**</sub></small>
 The crown will reside in the temple of the LORD as a memorial to Helem, Tobijah, Jedaiah, and the gracious son of Zephaniah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H5850\|עֲטָרֹ֗ת]] [[H1961\|תִּֽהְיֶה֙]] [[H9005\|לְ]][[H2494\|חֵ֙לֶם֙]] [[H9002\|וּ]][[H9005\|לְ]][[H2900J\|טוֹבִיָּ֣ה]] [[H9002\|וְ]][[H9005\|לִ]][[H3048J\|ידַֽעְיָ֔ה]] [[H9002\|וּ]][[H9005\|לְ]][[H2581\|חֵ֖ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6846I\|צְפַנְיָ֑ה]] [[H9005\|לְ]][[H2146\|זִכָּר֖וֹן]] [[H9003\|בְּ]][[H1964G\|הֵיכַ֥ל]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HELEM|HELEM]] • [[topic JEDAIAH|JEDAIAH]] • [[topic JESHUA|JESHUA]] • [[topic JOSHUA|JOSHUA]] • [[topic TEMPLE|TEMPLE]] • [[topic TOBIJAH|TOBIJAH]] • [[topic ZEPHANIAH|ZEPHANIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.6.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.6.13|<< Zechariah 6:13]]</td><td align="center" style="border:none;">[[Zech.6|Zechariah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.6.15|Zechariah 6:15 >>]]</td></tr></table>
 

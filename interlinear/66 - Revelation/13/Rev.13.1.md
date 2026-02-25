@@ -1,10 +1,64 @@
+---
+title: Revelation 13:1
+type: Verse
+kjv: "And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy."
+bsb: "Then I saw a beast with ten horns and seven heads rising out of the sea. There were ten royal crowns on its horns and blasphemous names on its heads."
+greek: "Καὶ εἶδον ἐκ τῆς θαλάσσης θηρίον ἀναβαῖνον, ἔχον κέρατα δέκα καὶ κεφαλὰς ἑπτὰ καὶ ἐπὶ τῶν κεράτων αὐτοῦ δέκα διαδήματα καὶ ἐπὶ τὰς κεφαλὰς αὐτοῦ ὀνόματα βλασφημίας."
+pericope: "[[Rev.13.1 The Beast from the Sea|The Beast from the Sea]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 13
+book/chapter: "[[Rev.13|Revelation 13]]"
+chronological_order: 1180
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic CROWN|CROWN]]"
+- "[[topic HORN|HORN]]"
+- "[[topic SEA|SEA]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G2281]]"
+- "[[G2342]]"
+- "[[G0305]]"
+- "[[G2192]]"
+- "[[G2768]]"
+- "[[G1176]]"
+- "[[G2776]]"
+- "[[G2033]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G1238]]"
+- "[[G3686]]"
+- "[[G0988]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Revelation 13:1**<big><big>[[Rev.13.1 The Beast from the Sea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.
 <small><sub>**BSB:**</sub></small>
 Then I saw a beast with ten horns and seven heads rising out of the sea. There were ten royal crowns on its horns and blasphemous names on its heads.
-<small><sub>**Literal:**</sub></small>
-And I saw out of the sea a beast rising, having horns ten and heads seven and on the horns of it ten royal crowns and upon the heads of it names of blasphemy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.18|<< Revelation 12:18]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.2|Revelation 13:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1492H\|εἶδον]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G2281\|θαλάσσης]]  [[G2342\|θηρίον]]  [[G0305\|ἀναβαῖνον,]]  [[G2192\|ἔχον]]  [[G2768\|κέρατα]]  [[G1176\|δέκα]]  [[G2532\|καὶ]]  [[G2776\|κεφαλὰς]]  [[G2033\|ἑπτὰ]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3588\|τῶν]]  [[G2768\|κεράτων]]  [[G0846\|αὐτοῦ]]  [[G1176\|δέκα]]  [[G1238\|διαδήματα]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὰς]]  [[G2776\|κεφαλὰς]]  [[G0846\|αὐτοῦ]]  [[G3686\|ὀνόματα]]  [[G0988\|βλασφημίας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic CROWN|CROWN]] • [[topic HORN|HORN]] • [[topic SEA|SEA]] • [[topic SEVEN|SEVEN]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.18|<< Revelation 12:18]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.2|Revelation 13:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 13:1** is...
 > $\quad$ possibly alluding to: [[LXX.Dan.7.3|Dan 7:3]][[LXX.Dan.7.7|, 7]]

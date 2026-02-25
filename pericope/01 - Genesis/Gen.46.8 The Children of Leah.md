@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Children of Leah
+type: Pericope
 pericope: "[[Gen.46.8 The Children of Leah|The Children of Leah]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 46
 book/chapter: "[[Gen.46|Genesis 46]]"
-genre:
+chronological_order: 88
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 8
 verses:
 - "[[Gen.46.8]]"
 - "[[Gen.46.9]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Gen.46.15]]"
 ---
 
-[[Gen.46|Genesis 46:8 - Genesis 46:15]]
+<small>[[Gen.46|Genesis 46:8-15]]</small>
 *The Children of Leah*
 
 [[Gen.46.8|8]] And these \[are\] the names of the children of Israel, which came into Egypt, Jacob and his sons: Reuben, Jacob’s firstborn.

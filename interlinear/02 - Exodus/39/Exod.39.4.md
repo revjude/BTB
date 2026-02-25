@@ -1,8 +1,60 @@
+---
+title: Exodus 39:4
+type: Verse
+kjv: "They made shoulderpieces for it, to couple it together: by the two edges was it coupled together."
+bsb: "They made shoulder pieces for the ephod, which were attached at two of its corners, so it could be fastened."
+hebrew: "כְּתֵפֹ֥ת עָֽשׂוּ־ ל֖וֹ חֹבְרֹ֑ת עַל־ שְׁנֵ֥י קְצוֹתָ֖יו חֻבָּֽר׃"
+pericope: "[[Exod.39.1 The Ephod|The Ephod]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 39
+book/chapter: "[[Exod.39|Exodus 39]]"
+chronological_order: 131
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic EPHOD|EPHOD]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H3802]]"
+- "[[H6213H]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H2266]]"
+- "[[H5921A]]"
+- "[[H8147]]"
+- "[[H7117]]"
+- "[[H9023]]"
+- "[[H7098]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Exodus 39:4**<big><big>[[Exod.39.1 The Ephod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They made shoulderpieces for it, to couple [it] together: by the two edges was it coupled together.
 <small><sub>**BSB:**</sub></small>
 They made shoulder pieces for the ephod, which were attached at two of its corners, so it could be fastened.
+<small><sub>**Hebrew:**</sub></small>
+[[H3802\|כְּתֵפֹ֥ת]] [[H6213H\|עָֽשׂוּ]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H2266\|חֹבְרֹ֑ת]] [[H5921A\|עַל]][[H9014\|־]] [[H8147\|שְׁנֵ֥י]] [[H7098\|קְצוֹתָ֖י]][[H9023\|ו]] [[H2266\|חֻבָּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic EPHOD|EPHOD]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.3|<< Exodus 39:3]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.5|Exodus 39:5 >>]]</td></tr></table>
 
@@ -18,7 +70,7 @@ They made shoulder pieces for the ephod, which were attached at two of its corne
 | it was joined  |**<big>&#8207;[[H2266\|חֻבָּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| chu.Bar<small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.3|<< Exodus 39:3]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.5|Exodus 39:5 >>]]</td></tr></table>
 
-[^1]: end its  | **<big>[[H9023|וֹ]]</big><big>[[H7117|קִצְווֹת]]</big> ** | kitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: end its  | **<big>[[H9023|וֹ]]</big><big>[[H7117|קִצְווֹת]]</big> ** | kitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: end its  | **<big>[[H7117|קִצְווֹת]]</big><big>[[H9023|וֹ]]</big> ** | kitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: end its  | **<big>[[H7117|קִצְווֹת]]</big><big>[[H9023|וֹ]]</big> ** | kitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>קְצוֹותָֽו</big></span>**
 

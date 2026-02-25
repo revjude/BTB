@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Nebuchadnezzar’s Troubling Dream
+type: Pericope
 pericope: "[[Dan.2.1 Nebuchadnezzar’s Troubling Dream|Nebuchadnezzar’s Troubling Dream]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Daniel
 chapter: 2
 book/chapter: "[[Dan.2|Daniel 2]]"
-genre:
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 13
 verses:
 - "[[Dan.2.1]]"
 - "[[Dan.2.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Dan.2.13]]"
 ---
 
-[[Dan.2|Daniel 2:1 - Daniel 2:13]]
+<small>[[Dan.2|Daniel 2:1-13]]</small>
 *Nebuchadnezzar’s Troubling Dream*
 
 [[Dan.2.1|1]] And in the second year of the reign of Nebuchadnezzar Nebuchadnezzar dreamed dreams, wherewith his spirit was troubled, and his sleep brake from him.

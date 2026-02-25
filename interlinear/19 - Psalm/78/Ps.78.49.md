@@ -1,8 +1,63 @@
+---
+title: Psalm 78:49
+type: Verse
+kjv: "He cast upon them the fierceness of his anger, wrath, and indignation, and trouble, by sending evil angels among them."
+bsb: "He unleashed His fury against them, wrath, indignation, and calamity—a band of destroying angels."
+hebrew: "יְשַׁלַּח־ בָּ֨ם׀ חֲר֬וֹן אַפּ֗וֹ עֶבְרָ֣ה וָזַ֣עַם וְצָרָ֑ה מִ֝שְׁלַ֗חַת מַלְאֲכֵ֥י רָעִֽים׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ANGER|ANGER]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7971H]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9015]]"
+- "[[H2740]]"
+- "[[H0639G]]"
+- "[[H9023]]"
+- "[[H5678]]"
+- "[[H9002]]"
+- "[[H2195]]"
+- "[[H6869B]]"
+- "[[H4917]]"
+- "[[H4397H]]"
+- "[[H7451A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:49**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He cast upon them the fierceness of his anger, wrath, and indignation, and trouble, by sending evil angels [among them].
 <small><sub>**BSB:**</sub></small>
 He unleashed His fury against them, wrath, indignation, and calamity—a band of destroying angels.
+<small><sub>**Hebrew:**</sub></small>
+[[H7971H\|יְשַׁלַּח]][[H9014\|־]] [[H9003\|בָּ֨]][[H9038\|ם]][[H9015\|׀]] [[H2740\|חֲר֬וֹן]] [[H0639G\|אַפּ֗]][[H9023\|וֹ]] [[H5678\|עֶבְרָ֣ה]] [[H9002\|וָ]][[H2195\|זַ֣עַם]] [[H9002\|וְ]][[H6869B\|צָרָ֑ה]] [[H4917\|מִ֝שְׁלַ֗חַת]] [[H4397H\|מַלְאֲכֵ֥י]] [[H7451A\|רָעִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ANGER|ANGER]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.48|<< Psalms 78:48]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.50|Psalms 78:50 >>]]</td></tr></table>
 

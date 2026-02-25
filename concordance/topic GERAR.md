@@ -9,5 +9,5 @@
 
 - Visited by Isaac [[Gen.26.1|Ge 26:1]]; [[2Chr.14.13|2Ch 14:13]],[[2Chr.14.14|14]]
 
-2. A valley [[Gen.26.17|Ge 26:17]]-[[Gen.26.22|22]]
+2. A valley [[Gen.26.17|Ge 26:17-22]]
 

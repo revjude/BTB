@@ -1,8 +1,54 @@
+---
+title: Deuteronomy 15:1
+type: Verse
+kjv: "At the end of every seven years thou shalt make a release."
+bsb: "At the end of every seven years you must cancel debts."
+hebrew: "מִקֵּ֥ץ שֶֽׁבַע־ שָׁנִ֖ים תַּעֲשֶׂ֥ה שְׁמִטָּֽה׃"
+pericope: "[[Deut.15.1 The Seventh Year|The Seventh Year]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 15
+book/chapter: "[[Deut.15|Deuteronomy 15]]"
+chronological_order: 211
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic LENDING|LENDING]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+strongs:
+- "[[H9006]]"
+- "[[H7093]]"
+- "[[H7651]]"
+- "[[H9014]]"
+- "[[H8141]]"
+- "[[H6213I]]"
+- "[[H8059]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 15:1**<big><big>[[Deut.15.1 The Seventh Year|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At the end of [every] seven years thou shalt make a release.
 <small><sub>**BSB:**</sub></small>
 At the end of every seven years you must cancel debts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H7093\|קֵּ֥ץ]] [[H7651\|שֶֽׁבַע]][[H9014\|־]] [[H8141\|שָׁנִ֖ים]] [[H6213I\|תַּעֲשֶׂ֥ה]] [[H8059\|שְׁמִטָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LENDING|LENDING]] • [[topic SABBATIC YEAR|SABBATIC YEAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.14.29|<< Deuteronomy 14:29]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.2|Deuteronomy 15:2 >>]]</td></tr></table>
 

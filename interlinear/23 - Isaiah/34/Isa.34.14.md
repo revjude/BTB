@@ -1,8 +1,63 @@
+---
+title: Isaiah 34:14
+type: Verse
+kjv: "The wild beasts of the desert shall also meet with the wild beasts of the island, and the satyr shall cry to his fellow; the screech owl also shall rest there, and find for herself a place of rest."
+bsb: "The desert creatures will meet with hyenas, and one wild goat will call to another. There the night creature will settle and find her place of repose."
+hebrew: "וּפָגְשׁ֤וּ צִיִּים֙ אֶת־ אִיִּ֔ים וְשָׂעִ֖יר עַל־ רֵעֵ֣הוּ יִקְרָ֑א אַךְ־ שָׁם֙ הִרְגִּ֣יעָה לִּילִ֔ית וּמָצְאָ֥ה לָ֖הּ מָנֽוֹחַ׃"
+pericope: "[[Isa.34.5 Judgment on Edom|Judgment on Edom]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 34
+book/chapter: "[[Isa.34|Isaiah 34]]"
+chronological_order: 677
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H6298]]"
+- "[[H6728]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0338]]"
+- "[[H9002]]"
+- "[[H8163C]]"
+- "[[H5921A]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H7121G]]"
+- "[[H0389]]"
+- "[[H8033G]]"
+- "[[H7280B]]"
+- "[[H3917]]"
+- "[[H4672]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H4494]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 34:14**<big><big>[[Isa.34.5 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wild beasts of the desert shall also meet with the wild beasts of the island, and the satyr shall cry to his fellow; the screech owl also shall rest there, and find for herself a place of rest.
 <small><sub>**BSB:**</sub></small>
 The desert creatures will meet with hyenas, and one wild goat will call to another. There the night creature will settle and find her place of repose.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H6298\|פָגְשׁ֤וּ]] [[H6728\|צִיִּים֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0338\|אִיִּ֔ים]] [[H9002\|וְ]][[H8163C\|שָׂעִ֖יר]] [[H5921A\|עַל]][[H9014\|־]] [[H7453\|רֵעֵ֣]][[H9023\|הוּ]] [[H7121G\|יִקְרָ֑א]] [[H0389\|אַךְ]][[H9014\|־]] [[H8033G\|שָׁם֙]] [[H7280B\|הִרְגִּ֣יעָה]] [[H3917\|לִּילִ֔ית]] [[H9001\|וּ]][[H4672\|מָצְאָ֥ה]] [[H9005\|לָ֖]][[H9034\|הּ]] [[H4494\|מָנֽוֹחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.34.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.34.13|<< Isaiah 34:13]]</td><td align="center" style="border:none;">[[Isa.34|Isaiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.34.15|Isaiah 34:15 >>]]</td></tr></table>
 

@@ -1,10 +1,56 @@
+---
+title: 2 Thessalonians 3:5
+type: Verse
+kjv: "And the Lord direct your hearts into the love of God, and into the patient waiting for Christ."
+bsb: "May the Lord direct your hearts into God’s love and Christ’s perseverance."
+greek: "ὁ δὲ κύριος κατευθύναι ὑμῶν τὰς καρδίας εἰς τὴν ἀγάπην τοῦ θεοῦ καὶ εἰς τὴν ὑπομονὴν τοῦ Χριστοῦ.¶"
+pericope: "[[2Thess.3.1 Request for Prayer|Request for Prayer]]"
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 3
+book/chapter: "[[2Thess.3|2 Thessalonians 3]]"
+chronological_order: 1055
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic PATIENCE|PATIENCE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2962G]]"
+- "[[G2720]]"
+- "[[G4771]]"
+- "[[G2588]]"
+- "[[G1519]]"
+- "[[G0026]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G5281]]"
+- "[[G5547]]"
+texts:
+- NKO
+---
+
 **2 Thessalonians 3:5**<big><big>[[2Thess.3.1 Request for Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the Lord direct your hearts into the love of God, and into the patient waiting for Christ.
 <small><sub>**BSB:**</sub></small>
 May the Lord direct your hearts into God’s love and Christ’s perseverance.
-<small><sub>**Literal:**</sub></small>
-<the> And the Lord would direct your <the> hearts into the love <the> of God and into the steadfastness <the> of Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.4|<< 2 Thessalonians 3:4]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.6|2 Thessalonians 3:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2962G\|κύριος]]  [[G2720\|κατευθύναι]]  [[G4771\|ὑμῶν]]  [[G3588\|τὰς]]  [[G2588\|καρδίας]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0026\|ἀγάπην]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G5281\|ὑπομονὴν]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic MEEKNESS|MEEKNESS]] • [[topic PATIENCE|PATIENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.4|<< 2 Thessalonians 3:4]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.6|2 Thessalonians 3:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

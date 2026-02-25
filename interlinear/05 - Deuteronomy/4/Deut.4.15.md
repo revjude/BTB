@@ -1,8 +1,74 @@
+---
+title: Deuteronomy 4:15
+type: Verse
+kjv: "Take ye therefore good heed unto yourselves; for ye saw no manner of similitude on the day that the LORD spake unto you in Horeb out of the midst of the fire:"
+bsb: "So since you saw no form of any kind on the day the LORD spoke to you out of the fire at Horeb, be careful"
+hebrew: "וְנִשְׁמַרְתֶּ֥ם מְאֹ֖ד לְנַפְשֹׁתֵיכֶ֑ם כִּ֣י לֹ֤א רְאִיתֶם֙ כָּל־ תְּמוּנָ֔ה בְּי֗וֹם דִּבֶּ֨ר יְהוָ֧ה אֲלֵיכֶ֛ם בְּחֹרֵ֖ב מִתּ֥וֹךְ הָאֵֽשׁ׃"
+pericope: "[[Deut.4.15 A Warning against Idolatry|A Warning against Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOREB|HOREB]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic SINAI|SINAI]]"
+strongs:
+- "[[H9001]]"
+- "[[H8104H]]"
+- "[[H3966]]"
+- "[[H9005]]"
+- "[[H5315I]]"
+- "[[H9026]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H8544]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9036]]"
+- "[[H2722]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:15**<big><big>[[Deut.4.15 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take ye therefore good heed unto yourselves; for ye saw no manner of similitude on the day [that] the LORD spake unto you in Horeb out of the midst of the fire:
 <small><sub>**BSB:**</sub></small>
 So since you saw no form of any kind on the day the LORD spoke to you out of the fire at Horeb, be careful
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8104H\|נִשְׁמַרְתֶּ֥ם]] [[H3966\|מְאֹ֖ד]] [[H9005\|לְ]][[H5315I\|נַפְשֹׁתֵי]][[H9026\|כֶ֑ם]] [[H3588A\|כִּ֣י]] [[H3808\|לֹ֤א]] [[H7200G\|רְאִיתֶם֙]] [[H3605\|כָּל]][[H9014\|־]] [[H8544\|תְּמוּנָ֔ה]] [[H9003\|בְּ]][[H3117G\|י֗וֹם]] [[H1696G\|דִּבֶּ֨ר]] [[H3068G\|יְהוָ֧ה]] [[H0413\|אֲלֵי]][[H9036\|כֶ֛ם]] [[H9003\|בְּ]][[H2722\|חֹרֵ֖ב]] [[H9006\|מִ]][[H8432\|תּ֥וֹךְ]] [[H9009\|הָ]][[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic HOREB|HOREB]] • [[topic IDOLATRY|IDOLATRY]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic SINAI|SINAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.14|<< Deuteronomy 4:14]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.16|Deuteronomy 4:16 >>]]</td></tr></table>
 

@@ -1,10 +1,59 @@
+---
+title: Matthew 13:47
+type: Verse
+kjv: "Again, the kingdom of heaven is like unto a net, that was cast into the sea, and gathered of every kind:"
+bsb: "Once again, the kingdom of heaven is like a net that was cast into the sea and caught all kinds of fish."
+jesus_said: "Again, the kingdom of heaven is like unto a net, that was cast into the sea, and gathered of every kind:"
+greek: "Πάλιν ὁμοία ἐστὶν ἡ βασιλεία τῶν οὐρανῶν σαγήνῃ βληθείσῃ εἰς τὴν θάλασσαν καὶ ἐκ παντὸς γένους συναγαγούσῃ,"
+pericope: "[[Matt.13.47 The Parable of the Net|The Parable of the Net]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 13
+book/chapter: "[[Matt.13|Matthew 13]]"
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic NET|NET]]"
+- "[[topic SERMON|SERMON]]"
+strongs:
+- "[[G3825]]"
+- "[[G3664]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G3772]]"
+- "[[G4522]]"
+- "[[G0906G]]"
+- "[[G1519]]"
+- "[[G2281]]"
+- "[[G2532]]"
+- "[[G1537]]"
+- "[[G3956]]"
+- "[[G1085H]]"
+- "[[G4863]]"
+texts:
+- NKO
+---
+
 **Matthew 13:47**<big><big>[[Matt.13.47 The Parable of the Net|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Again, the kingdom of heaven is like unto a net, that was cast into the sea, and gathered of every kind:
 <small><sub>**BSB:**</sub></small>
 Once again, the kingdom of heaven is like a net that was cast into the sea and caught all kinds of fish.
-<small><sub>**Literal:**</sub></small>
-Again like is the kingdom of the heavens to a dragnet having been cast into the sea and of every kind having gathered together,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.46|<< Matthew 13:46]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.48|Matthew 13:48 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3825\|Πάλιν]]  [[G3664\|ὁμοία]]  [[G1510\|ἐστὶν]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G3588\|τῶν]]  [[G3772\|οὐρανῶν]]  [[G4522\|σαγήνῃ]]  [[G0906G\|βληθείσῃ]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2281\|θάλασσαν]]  [[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G3956\|παντὸς]]  [[G1085H\|γένους]]  [[G4863\|συναγαγούσῃ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic NET|NET]] • [[topic SERMON|SERMON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.46|<< Matthew 13:46]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.48|Matthew 13:48 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

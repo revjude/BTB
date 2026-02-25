@@ -1,8 +1,73 @@
+---
+title: 2 Samuel 12:10
+type: Verse
+kjv: "Now therefore the sword shall never depart from thine house; because thou hast despised me, and hast taken the wife of Uriah the Hittite to be thy wife."
+bsb: "Now, therefore, the sword will never depart from your house, because you have despised Me and have taken the wife of Uriah the Hittite to be your own.’"
+hebrew: "וְעַתָּ֗ה לֹא־ תָס֥וּר חֶ֛רֶב מִבֵּיתְךָ֖ עַד־ עוֹלָ֑ם עֵ֚קֶב כִּ֣י בְזִתָ֔נִי וַתִּקַּ֗ח אֶת־ אֵ֙שֶׁת֙ אוּרִיָּ֣ה הַחִתִּ֔י לִהְי֥וֹת לְךָ֖ לְאִשָּֽׁה׃ ס"
+pericope: "[[2Sam.12.1 Nathan Rebukes David|Nathan Rebukes David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 12
+book/chapter: "[[2Sam.12|2 Samuel 12]]"
+chronological_order: 411
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5493H]]"
+- "[[H2719]]"
+- "[[H9006]]"
+- "[[H1004M]]"
+- "[[H9021]]"
+- "[[H5704]]"
+- "[[H5769G]]"
+- "[[H6118]]"
+- "[[H3588A]]"
+- "[[H0959]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H0802H]]"
+- "[[H0223A]]"
+- "[[H9009]]"
+- "[[H2850]]"
+- "[[H9005]]"
+- "[[H1961]]"
+- "[[H9031]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Samuel 12:10**<big><big>[[2Sam.12.1 Nathan Rebukes David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore the sword shall never depart from thine house; because thou hast despised me, and hast taken the wife of Uriah the Hittite to be thy wife.
 <small><sub>**BSB:**</sub></small>
 Now, therefore, the sword will never depart from your house, because you have despised Me and have taken the wife of Uriah the Hittite to be your own.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H3808\|לֹא]][[H9014\|־]] [[H5493H\|תָס֥וּר]] [[H2719\|חֶ֛רֶב]] [[H9006\|מִ]][[H1004M\|בֵּיתְ]][[H9021\|ךָ֖]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָ֑ם]] [[H6118\|עֵ֚קֶב]] [[H3588A\|כִּ֣י]] [[H0959\|בְזִתָ֔]][[H9030\|נִי]] [[H9001\|וַ]][[H3947G\|תִּקַּ֗ח]] [[H0853\|אֶת]][[H9014\|־]] [[H0802H\|אֵ֙שֶׁת֙]] [[H0223A\|אוּרִיָּ֣ה]] [[H9009\|הַ]][[H2850\|חִתִּ֔י]] [[H9005\|לִ]][[H1961\|הְי֥וֹת]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H9005\|לְ]][[H0802H\|אִשָּֽׁה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic DAVID|DAVID]] • [[topic HOMICIDE|HOMICIDE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NATHAN|NATHAN]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.12.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.12.9|<< 2 Samuel 12:9]]</td><td align="center" style="border:none;">[[2Sam.12|2 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.12.11|2 Samuel 12:11 >>]]</td></tr></table>
 
@@ -25,7 +90,7 @@ Now, therefore, the sword will never depart from your house, because you have de
 | the Hittite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2850\|חִתִּ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> chi.Ti<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to become  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1961\|הְי֥וֹת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> h.Yot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֖]]&#8207; </big>**| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<into> a wife  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0802H\|אִשָּֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> a wife  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0802H\|אִשָּֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.12.9|<< 2 Samuel 12:9]]</td><td align="center" style="border:none;">[[2Sam.12|2 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.12.11|2 Samuel 12:11 >>]]</td></tr></table>
 
 

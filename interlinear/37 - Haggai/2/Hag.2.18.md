@@ -1,8 +1,62 @@
+---
+title: Haggai 2:18
+type: Verse
+kjv: "Consider now from this day and upward, from the four and twentieth day of the ninth month, even from the day that the foundation of the LORD’S temple was laid, consider it."
+bsb: "Consider carefully from this day forward—from the twenty-fourth day of the ninth month, the day the foundation of the LORD’s temple was laid—consider carefully:"
+hebrew: "שִׂימוּ־ נָ֣א לְבַבְכֶ֔ם מִן־ הַיּ֥וֹם הַזֶּ֖ה וָמָ֑עְלָה מִיּוֹם֩ עֶשְׂרִ֨ים וְאַרְבָּעָ֜ה לַתְּשִׁיעִ֗י לְמִן־ הַיּ֛וֹם אֲשֶׁר־ יֻסַּ֥ד הֵֽיכַל־ יְהוָ֖ה שִׂ֥ימוּ לְבַבְכֶֽם׃"
+pericope: "[[Hag.2.10 Blessings for a Defiled People|Blessings for a Defiled People]]"
+original_language: Hebrew
+testament: Old
+book: Haggai
+chapter: 2
+book/chapter: "[[Hag.2|Haggai 2]]"
+chronological_order: 856
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+topics:
+- "[[topic LIBERALITY|LIBERALITY]]"
+strongs:
+- "[[H7760K]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H3824]]"
+- "[[H9026]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H9006]]"
+- "[[H6242]]"
+- "[[H0702]]"
+- "[[H9005]]"
+- "[[H8671]]"
+- "[[H0834A]]"
+- "[[H3245]]"
+- "[[H1964G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Haggai 2:18**<big><big>[[Hag.2.10 Blessings for a Defiled People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Consider now from this day and upward, from the four and twentieth day of the ninth [month, even] from the day that the foundation of the LORD’S temple was laid, consider [it].
 <small><sub>**BSB:**</sub></small>
 Consider carefully from this day forward—from the twenty-fourth day of the ninth month, the day the foundation of the LORD’s temple was laid—consider carefully:
+<small><sub>**Hebrew:**</sub></small>
+[[H7760K\|שִׂימוּ]][[H9014\|־]] [[H4994\|נָ֣א]] [[H3824\|לְבַבְ]][[H9026\|כֶ֔ם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H9002\|וָ]][[H4605\|מָ֑עְלָ]][[H9011\|ה]] [[H9006\|מִ]][[H3117G\|יּוֹם֩]] [[H6242\|עֶשְׂרִ֨ים]] [[H9002\|וְ]][[H0702\|אַרְבָּעָ֜ה]] [[H9005\|לַ]][[H8671\|תְּשִׁיעִ֗י]] [[H9005\|לְ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּ֛וֹם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3245\|יֻסַּ֥ד]] [[H1964G\|הֵֽיכַל]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H7760K\|שִׂ֥ימוּ]] [[H3824\|לְבַבְ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LIBERALITY|LIBERALITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.2.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.17|<< Haggai 2:17]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.19|Haggai 2:19 >>]]</td></tr></table>
 

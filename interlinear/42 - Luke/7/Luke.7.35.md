@@ -1,10 +1,53 @@
+---
+title: Luke 7:35
+type: Verse
+kjv: "But wisdom is justified of all her children."
+bsb: "But wisdom is vindicated by all her children.”"
+jesus_said: "But wisdom is justified of all her children."
+greek: "καὶ ἐδικαιώθη ἡ σοφία ἀπὸ πάντων τῶν τέκνων αὐτῆς.¶"
+pericope: "[[Luke.7.24 Jesus Testifies about John|Jesus Testifies about John]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G2532]]"
+- "[[G1344]]"
+- "[[G3588]]"
+- "[[G4678]]"
+- "[[G0575]]"
+- "[[G3956]]"
+- "[[G5043]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Luke 7:35**<big><big>[[Luke.7.24 Jesus Testifies about John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But wisdom is justified of all her children.
 <small><sub>**BSB:**</sub></small>
 But wisdom is vindicated by all her children.”
-<small><sub>**Literal:**</sub></small>
-And was justified <the> wisdom by all the children of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.34|<< Luke 7:34]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.36|Luke 7:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1344\|ἐδικαιώθη]]  [[G3588\|ἡ]]  [[G4678\|σοφία]]  [[G0575\|ἀπὸ]]  [[G3956\|πάντων]]  [[G3588\|τῶν]]  [[G5043\|τέκνων]]  [[G0846\|αὐτῆς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMPENITENCE|IMPENITENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.34|<< Luke 7:34]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.36|Luke 7:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

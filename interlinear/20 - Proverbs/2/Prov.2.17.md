@@ -1,8 +1,61 @@
+---
+title: Proverbs 2:17
+type: Verse
+kjv: "Which forsaketh the guide of her youth, and forgetteth the covenant of her God."
+bsb: "who abandons the partner of her youth and forgets the covenant of her God."
+hebrew: "הַ֭עֹזֶבֶת אַלּ֣וּף נְעוּרֶ֑יהָ וְאֶת־ בְּרִ֖ית אֱלֹהֶ֣יהָ שָׁכֵֽחָה׃"
+pericope: "[[Prov.2.1 The Benefits of Wisdom|The Benefits of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 2
+book/chapter: "[[Prov.2|Proverbs 2]]"
+chronological_order: 457
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic FORGETTING GOD|FORGETTING GOD]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9009]]"
+- "[[H5800A]]"
+- "[[H0441A]]"
+- "[[H5271A]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1285]]"
+- "[[H0430G]]"
+- "[[H7911]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 2:17**<big><big>[[Prov.2.1 The Benefits of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which forsaketh the guide of her youth, and forgetteth the covenant of her God.
 <small><sub>**BSB:**</sub></small>
 who abandons the partner of her youth and forgets the covenant of her God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ֭]][[H5800A\|עֹזֶבֶת]] [[H0441A\|אַלּ֣וּף]] [[H5271A\|נְעוּרֶ֑י]][[H9024\|הָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִ֖ית]] [[H0430G\|אֱלֹהֶ֣י]][[H9024\|הָ]] [[H7911\|שָׁכֵֽחָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHASTITY|CHASTITY]] • [[topic FORGETTING GOD|FORGETTING GOD]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WISDOM|WISDOM]] • [[topic WOMEN|WOMEN]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.2.16|<< Proverbs 2:16]]</td><td align="center" style="border:none;">[[Prov.2|Proverbs 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.2.18|Proverbs 2:18 >>]]</td></tr></table>
 

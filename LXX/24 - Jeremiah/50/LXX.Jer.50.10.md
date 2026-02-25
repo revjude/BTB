@@ -1,6 +1,46 @@
+---
+title: LXX Jeremiah 50:10
+type: Verse
+lxx: "And the Chaldeans will be for plunder; all the ones despoiling her will be filled up, says the lord."
+greek: "και έσται η Χαλδαία εις προνομήν πάντες οι προνομεύοντες αυτήν εμπλησθήσονται λέγει κύριος"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G5466]]"
+- "[[G1519]]"
+- "[[G8903]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G8902]]"
+- "[[G1473]]"
+- "[[G1705]]"
+- "[[G3004]]"
+- "[[G2962]]"
+---
+
 **LXX Jeremiah 50:10** 
 <small><sub>**LXX:**</sub></small>
 And the Chaldeans will be for plunder; all the ones despoiling her will be filled up, says \[the\] <span class="smallcaps">lord</span>. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1510\|έσται]] [[G3588\|η]] [[G5466\|Χαλδαία]] [[G1519\|εις]] [[G8903\|προνομήν]] [[G3956\|πάντες]] [[G3588\|οι]] [[G8902\|προνομεύοντες]] [[G1473\|αυτήν]] [[G1705\|εμπλησθήσονται]] [[G3004\|λέγει]] [[G2962\|κύριος]]
 <small><sub>**MT:**</sub></small>
 [[Jer.50.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.9|<< Jeremiah 50:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.11|Jeremiah 50:11 >>]]</td></tr></table>
 
@@ -19,6 +59,6 @@ And the Chaldeans will be for plunder; all the ones despoiling her will be fille
 | will be filled up, | **<big>[[G1705\|εμπλησθήσονται]]</big>** |
 | says | **<big>[[G3004\|λέγει]]</big>** |
 | \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
-[[Jer.50.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.9|<< Jeremiah 50:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.11|Jeremiah 50:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.9|<< Jeremiah 50:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.11|Jeremiah 50:11 >>]]</td></tr></table>
 
 

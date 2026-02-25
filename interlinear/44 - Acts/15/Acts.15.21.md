@@ -1,10 +1,66 @@
+---
+title: Acts 15:21
+type: Verse
+kjv: "For Moses of old time hath in every city them that preach him, being read in the synagogues every sabbath day."
+bsb: "For Moses has been proclaimed in every city from ancient times and is read in the synagogues on every Sabbath.”"
+greek: "Μωϋσῆς γὰρ ἐκ γενεῶν ἀρχαίων κατὰ πόλιν τοὺς κηρύσσοντας αὐτὸν ἔχει ἐν ταῖς συναγωγαῖς κατὰ πᾶν σάββατον ἀναγινωσκόμενος.¶"
+pericope: "[[Acts.15.5 The Council at Jerusalem|The Council at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic LAW|LAW]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G3475]]"
+- "[[G1063]]"
+- "[[G1537]]"
+- "[[G1074]]"
+- "[[G0744]]"
+- "[[G2596]]"
+- "[[G4172]]"
+- "[[G3588]]"
+- "[[G2784]]"
+- "[[G0846]]"
+- "[[G2192]]"
+- "[[G1722]]"
+- "[[G4864]]"
+- "[[G3956]]"
+- "[[G4521]]"
+- "[[G0314]]"
+texts:
+- NKO
+---
+
 **Acts 15:21**<big><big>[[Acts.15.5 The Council at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For Moses of old time hath in every city them that preach him, being read in the synagogues every sabbath day.
 <small><sub>**BSB:**</sub></small>
 For Moses has been proclaimed in every city from ancient times and is read in the synagogues on every Sabbath.”
-<small><sub>**Literal:**</sub></small>
-Moses for from generations of old in every city those proclaiming him he is in the synagogues on every Sabbath being read.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.20|<< Acts 15:20]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.22|Acts 15:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3475\|Μωϋσῆς]]  [[G1063\|γὰρ]]  [[G1537\|ἐκ]]  [[G1074\|γενεῶν]]  [[G0744\|ἀρχαίων]]  [[G2596\|κατὰ]]  [[G4172\|πόλιν]]  [[G3588\|τοὺς]]  [[G2784\|κηρύσσοντας]]  [[G0846\|αὐτὸν]]  [[G2192\|ἔχει]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G4864\|συναγωγαῖς]]  [[G2596\|κατὰ]]  [[G3956\|πᾶν]]  [[G4521\|σάββατον]]  [[G0314\|ἀναγινωσκόμενος.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic CHURCH|CHURCH]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COUNCIL|COUNCIL]] • [[topic DOCTRINES|DOCTRINES]] • [[topic ELDER|ELDER]] • [[topic GENTILES|GENTILES]] • [[topic JAMES|JAMES]] • [[topic LAW|LAW]] • [[topic SABBATH|SABBATH]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.20|<< Acts 15:20]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.22|Acts 15:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

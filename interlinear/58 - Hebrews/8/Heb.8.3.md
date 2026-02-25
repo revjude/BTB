@@ -1,10 +1,57 @@
+---
+title: Hebrews 8:3
+type: Verse
+kjv: "For every high priest is ordained to offer gifts and sacrifices: wherefore it is of necessity that this man have somewhat also to offer."
+bsb: "And since every high priest is appointed to offer both gifts and sacrifices, it was necessary for this One also to have something to offer."
+greek: "πᾶς γὰρ ἀρχιερεὺς εἰς τὸ προσφέρειν δῶρά τε καὶ θυσίας καθίσταται· ὅθεν ἀναγκαῖον ἔχειν τι καὶ τοῦτον ὃ προσενέγκῃ.¶"
+pericope: "[[Heb.8.1 Christ’s Eternal Priesthood|Christ’s Eternal Priesthood]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 8
+book/chapter: "[[Heb.8|Hebrews 8]]"
+chronological_order: 1147
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[G3956]]"
+- "[[G1063]]"
+- "[[G0749]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4374]]"
+- "[[G1435]]"
+- "[[G5037]]"
+- "[[G2532]]"
+- "[[G2378]]"
+- "[[G2525]]"
+- "[[G3606]]"
+- "[[G0316]]"
+- "[[G2192]]"
+- "[[G5100]]"
+- "[[G3778]]"
+- "[[G3739]]"
+texts:
+- NKO
+---
+
 **Hebrews 8:3**<big><big>[[Heb.8.1 Christ’s Eternal Priesthood|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For every high priest is ordained to offer gifts and sacrifices: wherefore [it is] of necessity that this man have somewhat also to offer.
 <small><sub>**BSB:**</sub></small>
 And since every high priest is appointed to offer both gifts and sacrifices, it was necessary for this One also to have something to offer.
-<small><sub>**Literal:**</sub></small>
-Every for high priest in order <the> to offer gifts both and sacrifices is appointed; wherefore [it was] necessary to have something also [for] this One that He may offer.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.8.2|<< Hebrews 8:2]]</td><td align="center" style="border:none;">[[Heb.8|Hebrews 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8.4|Hebrews 8:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πᾶς]]  [[G1063\|γὰρ]]  [[G0749\|ἀρχιερεὺς]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4374\|προσφέρειν]]  [[G1435\|δῶρά]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G2378\|θυσίας]]  [[G2525\|καθίσταται·]]  [[G3606\|ὅθεν]]  [[G0316\|ἀναγκαῖον]]  [[G2192\|ἔχειν]]  [[G5100\|τι]]  [[G2532\|καὶ]]  [[G3778\|τοῦτον]]  [[G3739\|ὃ]]  [[G4374\|προσενέγκῃ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.8.2|<< Hebrews 8:2]]</td><td align="center" style="border:none;">[[Heb.8|Hebrews 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8.4|Hebrews 8:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

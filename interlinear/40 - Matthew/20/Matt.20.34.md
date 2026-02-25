@@ -1,10 +1,59 @@
+---
+title: Matthew 20:34
+type: Verse
+kjv: "So Jesus had compassion on them, and touched their eyes: and immediately their eyes received sight, and they followed him."
+bsb: "Moved with compassion, Jesus touched their eyes, and at once they received their sight and followed Him."
+greek: "σπλαγχνισθεὶς δὲ ὁ Ἰησοῦς ἥψατο τῶν ὀμμάτων αὐτῶν, καὶ εὐθέως ἀνέβλεψαν αὐτῶν οἱ ὀφθαλμοί καὶ ἠκολούθησαν αὐτῷ.¶"
+pericope: "[[Matt.20.29 The Blind Men by the Road|The Blind Men by the Road]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 20
+book/chapter: "[[Matt.20|Matthew 20]]"
+chronological_order: 987
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G4697]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G0681]]"
+- "[[G3659]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G2112]]"
+- "[[G0308]]"
+- "[[G3788]]"
+- "[[G0190]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Matthew 20:34**<big><big>[[Matt.20.29 The Blind Men by the Road|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So Jesus had compassion [on them], and touched their eyes: and immediately their eyes received sight, and they followed him.
 <small><sub>**BSB:**</sub></small>
 Moved with compassion, Jesus touched their eyes, and at once they received their sight and followed Him.
-<small><sub>**Literal:**</sub></small>
-Having been moved with compassion then <the> Jesus touched the eyes of them, and immediately they received sight of them <the> eyes and they followed Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.33|<< Matthew 20:33]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.1|Matthew 21:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4697\|σπλαγχνισθεὶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G0681\|ἥψατο]]  [[G3588\|τῶν]]  [[G3659\|ὀμμάτων]]  [[G0846\|αὐτῶν,]]  [[G2532\|καὶ]]  [[G2112\|εὐθέως]]  [[G0308\|ἀνέβλεψαν]]  [[G0846\|αὐτῶν]]  [[G3588\|οἱ]]  [[G3788\|ὀφθαλμοί]]  [[G2532\|καὶ]]  [[G0190\|ἠκολούθησαν]]  [[G0846\|αὐτῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]] • [[topic BLINDNESS|BLINDNESS]] • [[topic FAITH|FAITH]] • [[topic JERICHO|JERICHO]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.33|<< Matthew 20:33]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.1|Matthew 21:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

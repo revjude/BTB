@@ -1,8 +1,64 @@
+---
+title: Ecclesiastes 5:11
+type: Verse
+kjv: "When goods increase, they are increased that eat them: and what good is there to the owners thereof, saving the beholding of them with their eyes?"
+bsb: "When good things increase, so do those who consume them; what then is the profit to the owner, except to behold them with his eyes?"
+hebrew: "בִּרְבוֹת֙ הַטּוֹבָ֔ה רַבּ֖וּ אוֹכְלֶ֑יהָ וּמַה־ כִּשְׁרוֹן֙ לִבְעָלֶ֔יהָ כִּ֖י אִם־ רְא֥וּת עֵינָֽיו׃"
+pericope: "[[Eccl.5.8 The Futility of Wealth|The Futility of Wealth]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 5
+book/chapter: "[[Eccl.5|Ecclesiastes 5]]"
+chronological_order: 543
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic AVARICE|AVARICE]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic RICHES|RICHES]]"
+strongs:
+- "[[H9003]]"
+- "[[H7235A]]"
+- "[[H9009]]"
+- "[[H2896C]]"
+- "[[H7231]]"
+- "[[H0398]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H3788]]"
+- "[[H9005]]"
+- "[[H1167G]]"
+- "[[H9024]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H7207]]"
+- "[[H7212]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ecclesiastes 5:11**<big><big>[[Eccl.5.8 The Futility of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When goods increase, they are increased that eat them: and what good [is there] to the owners thereof, saving the beholding [of them] with their eyes?
 <small><sub>**BSB:**</sub></small>
 When good things increase, so do those who consume them; what then is the profit to the owner, except to behold them with his eyes?
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H7235A\|רְבוֹת֙]] [[H9009\|הַ]][[H2896C\|טּוֹבָ֔ה]] [[H7231\|רַבּ֖וּ]] [[H0398\|אוֹכְלֶ֑י]][[H9034\|הָ]] [[H9002\|וּ]][[H4100\|מַה]][[H9014\|־]] [[H3788\|כִּשְׁרוֹן֙]] [[H9005\|לִ]][[H1167G\|בְעָלֶ֔י]][[H9024\|הָ]] [[H3588B\|כִּ֖י]] [[H0518B\|אִם]][[H9014\|־]] [[H7212\|רְא֥וּת]] [[H5869A\|עֵינָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVARICE|AVARICE]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic RICHES|RICHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.10|<< Ecclesiastes 5:10]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.12|Ecclesiastes 5:12 >>]]</td></tr></table>
 

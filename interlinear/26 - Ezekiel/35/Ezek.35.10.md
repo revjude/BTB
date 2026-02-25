@@ -1,8 +1,62 @@
+---
+title: Ezekiel 35:10
+type: Verse
+kjv: "Because thou hast said, These two nations and these two countries shall be mine, and we will possess it; whereas the LORD was there:"
+bsb: "Because you have said, ‘These two nations and countries will be ours, and we will possess them,’ even though the LORD was there,"
+hebrew: "יַ֣עַן אֲ֠מָרְךָ אֶת־ שְׁנֵ֨י הַגּוֹיִ֜ם וְאֶת־ שְׁתֵּ֧י הָאֲרָצ֛וֹת לִ֥י תִהְיֶ֖ינָה וִֽירַשְׁנ֑וּהָ וַֽיהוָ֖ה שָׁ֥ם הָיָֽה׃"
+pericope: "[[Ezek.35.1 A Prophecy against Mount Seir|A Prophecy against Mount Seir]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 35
+book/chapter: "[[Ezek.35|Ezekiel 35]]"
+chronological_order: 826
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+strongs:
+- "[[H3282]]"
+- "[[H0559]]"
+- "[[H9041]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8147]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H1961]]"
+- "[[H9001]]"
+- "[[H3423H]]"
+- "[[H9034]]"
+- "[[H3068G]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 35:10**<big><big>[[Ezek.35.1 A Prophecy against Mount Seir|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because thou hast said, These two nations and these two countries shall be mine, and we will possess it; whereas the LORD was there:
 <small><sub>**BSB:**</sub></small>
 Because you have said, ‘These two nations and countries will be ours, and we will possess them,’ even though the LORD was there,
+<small><sub>**Hebrew:**</sub></small>
+[[H3282\|יַ֣עַן]] [[H0559\|אֲ֠מָרְ]][[H9041\|ךָ]] [[H0853\|אֶת]][[H9014\|־]] [[H8147\|שְׁנֵ֨י]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֜ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8147\|שְׁתֵּ֧י]] [[H9009\|הָ]][[H0776G\|אֲרָצ֛וֹת]] [[H9005\|לִ֥]][[H9030\|י]] [[H1961\|תִהְיֶ֖ינָה]] [[H9001\|וִֽ]][[H3423H\|ירַשְׁנ֑וּ]][[H9034\|הָ]] [[H9002\|וַֽ]][[H3068G\|יהוָ֖ה]] [[H8033G\|שָׁ֥ם]] [[H1961\|הָיָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.35.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.35.9|<< Ezekiel 35:9]]</td><td align="center" style="border:none;">[[Ezek.35|Ezekiel 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.35.11|Ezekiel 35:11 >>]]</td></tr></table>
 

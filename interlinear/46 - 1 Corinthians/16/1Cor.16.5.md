@@ -1,10 +1,47 @@
+---
+title: 1 Corinthians 16:5
+type: Verse
+kjv: "Now I will come unto you, when I shall pass through Macedonia: for I do pass through Macedonia."
+bsb: "After I go through Macedonia, however, I will come to you; for I will be going through Macedonia."
+greek: "ἐλεύσομαι δὲ πρὸς ὑμᾶς ὅταν Μακεδονίαν διέλθω· Μακεδονίαν γὰρ διέρχομαι,"
+pericope: "[[1Cor.16.5 Paul’s Travel Plans|Paul’s Travel Plans]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 16
+book/chapter: "[[1Cor.16|1 Corinthians 16]]"
+chronological_order: 1073
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CORINTH|CORINTH]]"
+strongs:
+- "[[G2064]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G3752]]"
+- "[[G3109]]"
+- "[[G1330]]"
+- "[[G1063]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 16:5**<big><big>[[1Cor.16.5 Paul’s Travel Plans|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now I will come unto you, when I shall pass through Macedonia: for I do pass through Macedonia.
 <small><sub>**BSB:**</sub></small>
 After I go through Macedonia, however, I will come to you; for I will be going through Macedonia.
-<small><sub>**Literal:**</sub></small>
-I will come however to you when Macedonia I may have gone through; Macedonia for I am going through,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.4|<< 1 Corinthians 16:4]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.6|1 Corinthians 16:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|ἐλεύσομαι]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G3752\|ὅταν]]  [[G3109\|Μακεδονίαν]]  [[G1330\|διέλθω·]]  [[G3109\|Μακεδονίαν]]  [[G1063\|γὰρ]]  [[G1330\|διέρχομαι,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CORINTH|CORINTH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.4|<< 1 Corinthians 16:4]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.6|1 Corinthians 16:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

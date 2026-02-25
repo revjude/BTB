@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Third Missionary Journey Begins
+type: Pericope
 pericope: "[[Acts.18.23 Paul’s Third Missionary Journey Begins|Paul’s Third Missionary Journey Begins]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Acts
 chapter: 18
 book/chapter: "[[Acts.18|Acts 18]]"
-genre:
+chronological_order: 1047
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 6
 verses:
 - "[[Acts.18.23]]"
 - "[[Acts.18.24]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Acts.18.28]]"
 ---
 
-[[Acts.18|Acts 18:23 - Acts 18:28]]
+<small>[[Acts.18|Acts 18:23-28]]</small>
 *Paul’s Third Missionary Journey Begins*
 
 [[Acts.18.23|23]] And after he had spent some time \[there\], he departed, and went over \[all\] the country of Galatia and Phrygia in order, strengthening all the disciples.

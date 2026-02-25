@@ -1,8 +1,59 @@
+---
+title: 1 Samuel 22:23
+type: Verse
+kjv: "Abide thou with me, fear not: for he that seeketh my life seeketh thy life: but with me thou shalt be in safeguard."
+bsb: "Stay with me; do not be afraid, for he who seeks your life is seeking mine as well. You will be safe with me.”"
+hebrew: "שְׁבָ֤ה אִתִּי֙ אַל־ תִּירָ֔א כִּ֛י אֲשֶׁר־ יְבַקֵּ֥שׁ אֶת־ נַפְשִׁ֖י יְבַקֵּ֣שׁ אֶת־ נַפְשֶׁ֑ךָ כִּֽי־ מִשְׁמֶ֥רֶת אַתָּ֖ה עִמָּדִֽי׃"
+pericope: "[[1Sam.22.6 Saul Slays the Priests of Nob|Saul Slays the Priests of Nob]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 22
+book/chapter: "[[1Sam.22|1 Samuel 22]]"
+chronological_order: 301
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABIATHAR|ABIATHAR]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+strongs:
+- "[[H3427]]"
+- "[[H9012]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H3588A]]"
+- "[[H0834A]]"
+- "[[H1245]]"
+- "[[H0853]]"
+- "[[H5315H]]"
+- "[[H9020]]"
+- "[[H9021]]"
+- "[[H4931]]"
+- "[[H0859A]]"
+- "[[H5978]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 22:23**<big><big>[[1Sam.22.6 Saul Slays the Priests of Nob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Abide thou with me, fear not: for he that seeketh my life seeketh thy life: but with me thou [shalt be] in safeguard.
 <small><sub>**BSB:**</sub></small>
 Stay with me; do not be afraid, for he who seeks your life is seeking mine as well. You will be safe with me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3427\|שְׁבָ֤]][[H9012\|ה]] [[H0854\|אִתִּ]][[H9030\|י֙]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָ֔א]] [[H3588A\|כִּ֛י]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1245\|יְבַקֵּ֥שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H5315H\|נַפְשִׁ֖]][[H9020\|י]] [[H1245\|יְבַקֵּ֣שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H5315H\|נַפְשֶׁ֑]][[H9021\|ךָ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4931\|מִשְׁמֶ֥רֶת]] [[H0859A\|אַתָּ֖ה]] [[H5978\|עִמָּדִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIATHAR|ABIATHAR]] • [[topic FRIENDSHIP|FRIENDSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.22.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.22.22|<< 1 Samuel 22:22]]</td><td align="center" style="border:none;">[[1Sam.22|1 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.1|1 Samuel 23:1 >>]]</td></tr></table>
 

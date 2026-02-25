@@ -1,6 +1,79 @@
+---
+title: LXX Jeremiah 31:32
+type: Verse
+lxx: "Not according to the covenant which I ordained with their fathers, in the day in which I took hold of  their hand to lead them from out of the land of Egypt; for they did not adhere to  my covenant, and I neglected them, says the lord."
+greek: "ου κατά την διαθήκην ην διεθέμην τοις πατράσιν αυτών εν ημέρα εν η επελαβόμην της χειρός αυτών εξαγαγείν αυτούς εκ γης Αιγύπτου ότι αυτοί ουκ ενέμειναν εν τη διαθήκη μου και εγώ ημέλησα αυτών φησί κύριος"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G3756]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G1242]]"
+- "[[G3739]]"
+- "[[G1303]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G2250]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G1949]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G1473]]"
+- "[[G1806]]"
+- "[[G1473]]"
+- "[[G1537]]"
+- "[[G1093]]"
+- "[[G0125]]"
+- "[[G3754]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G1696]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1242]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G0272]]"
+- "[[G1473]]"
+- "[[G5346]]"
+- "[[G2962]]"
+---
+
 **LXX Jeremiah 31:32** 
 <small><sub>**LXX:**</sub></small>
 Not according to the covenant which I ordained \[with\] their fathers, in \[the\] day in which I took hold of  their hand to lead them from out of \[the\] land of Egypt; for they did not adhere to  my covenant, and I neglected them, says \[the\] <span class="smallcaps">lord</span>. 
+<small><sub>**Greek:**</sub></small>
+[[G3756\|ου]] [[G2596\|κατά]] [[G3588\|την]] [[G1242\|διαθήκην]] [[G3739\|ην]] [[G1303\|διεθέμην]] [[G3588\|τοις]] [[G3962\|πατράσιν]] [[G1473\|αυτών]] [[G1722\|εν]] [[G2250\|ημέρα]] [[G1722\|εν]] [[G3739\|η]] [[G1949\|επελαβόμην]] [[G3588\|της]] [[G5495\|χειρός]] [[G1473\|αυτών]] [[G1806\|εξαγαγείν]] [[G1473\|αυτούς]] [[G1537\|εκ]] [[G1093\|γης]] [[G0125\|Αιγύπτου]] [[G3754\|ότι]] [[G1473\|αυτοί]] [[G3756\|ουκ]] [[G1696\|ενέμειναν]] [[G1722\|εν]] [[G3588\|τη]] [[G1242\|διαθήκη]] [[G1473\|μου]] [[G2532\|και]] [[G1473\|εγώ]] [[G0272\|ημέλησα]] [[G1473\|αυτών]] [[G5346\|φησί]] [[G2962\|κύριος]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic HUSBAND|HUSBAND]] • [[topic MARRIAGE|MARRIAGE]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.31.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.31|<< Jeremiah 31:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.33|Jeremiah 31:33 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -42,6 +115,6 @@ Not according to the covenant which I ordained \[with\] their fathers, in \[the\
 | them, | **<big>[[G1473\|αυτών]]</big>** |
 | says | **<big>[[G5346\|φησί]]</big>** |
 | \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
-[[Jer.31.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.31|<< Jeremiah 31:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.33|Jeremiah 31:33 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.31|<< Jeremiah 31:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.33|Jeremiah 31:33 >>]]</td></tr></table>
 
 

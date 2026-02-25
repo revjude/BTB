@@ -1,10 +1,52 @@
+---
+title: Acts 25:18
+type: Verse
+kjv: "Against whom when the accusers stood up, they brought none accusation of such things as I supposed:"
+bsb: "But when his accusers rose to speak, they did not charge him with any of the crimes I had expected."
+greek: "περὶ οὗ σταθέντες οἱ κατήγοροι οὐδεμίαν αἰτίαν ἔφερον ὧν ἐγὼ ὑπενόουν πονηρῶν·"
+pericope: "[[Acts.25.13 Festus Consults Agrippa|Festus Consults Agrippa]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 25
+book/chapter: "[[Acts.25|Acts 25]]"
+chronological_order: 1107
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+strongs:
+- "[[G4012]]"
+- "[[G3739]]"
+- "[[G2476]]"
+- "[[G3588]]"
+- "[[G2725]]"
+- "[[G3762]]"
+- "[[G0156]]"
+- "[[G5342]]"
+- "[[G1473]]"
+- "[[G5282]]"
+- "[[G4190]]"
+texts:
+- NKO
+- N(k)O
+- N(O)
+---
+
 **Acts 25:18**<big><big>[[Acts.25.13 Festus Consults Agrippa|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Against whom when the accusers stood up, they brought none accusation of such things as I supposed:
 <small><sub>**BSB:**</sub></small>
 But when his accusers rose to speak, they did not charge him with any of the crimes I had expected.
-<small><sub>**Literal:**</sub></small>
-concerning whom having stood up the accusers no charge were bringing of which I myself was suspect crimes;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.17|<< Acts 25:17]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.19|Acts 25:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4012\|περὶ]]  [[G3739\|οὗ]]  [[G2476\|σταθέντες]]  [[G3588\|οἱ]]  [[G2725\|κατήγοροι]]  [[G3762\|οὐδεμίαν]]  [[G0156\|αἰτίαν]]  [[G5342\|ἔφερον]]  [[G3739\|ὧν]]  [[G1473\|ἐγὼ]]  [[G5282\|ὑπενόουν]]  [[G4190\|πονηρῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INDICTMENTS|INDICTMENTS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.17|<< Acts 25:17]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.19|Acts 25:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

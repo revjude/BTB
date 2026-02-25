@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Timothy’s Encouraging Report
+type: Pericope
 pericope: "[[1Thess.3.6 Timothy’s Encouraging Report|Timothy’s Encouraging Report]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: 1 Thessalonians
 chapter: 3
 book/chapter: "[[1Thess.3|1 Thessalonians 3]]"
-genre:
+chronological_order: 1050
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - eschatological
+verse_count: 8
 verses:
 - "[[1Thess.3.6]]"
 - "[[1Thess.3.7]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Thess.3.13]]"
 ---
 
-[[1Thess.3|1 Thessalonians 3:6 - 1 Thessalonians 3:13]]
+<small>[[1Thess.3|1 Thessalonians 3:6-13]]</small>
 *Timothy’s Encouraging Report*
 
 [[1Thess.3.6|6]] But now when Timotheus came from you unto us, and brought us good tidings of your faith and charity, and that ye have good remembrance of us always, desiring greatly to see us, as we also \[to see\] you:

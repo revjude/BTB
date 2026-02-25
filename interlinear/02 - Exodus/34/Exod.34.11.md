@@ -1,8 +1,71 @@
+---
+title: Exodus 34:11
+type: Verse
+kjv: "Observe thou that which I command thee this day: behold, I drive out before thee the Amorite, and the Canaanite, and the Hittite, and the Perizzite, and the Hivite, and the Jebusite."
+bsb: "Observe what I command you this day. I will drive out before you the Amorites, Canaanites, Hittites, Perizzites, Hivites, and Jebusites."
+hebrew: "שְׁמָ֨ר־ לְךָ֔ אֵ֛ת אֲשֶׁ֥ר אָנֹכִ֖י מְצַוְּךָ֣ הַיּ֑וֹם הִנְנִ֧י גֹרֵ֣שׁ מִפָּנֶ֗יךָ אֶת־ הָאֱמֹרִי֙ וְהַֽכְּנַעֲנִ֔י וְהַחִתִּי֙ וְהַפְּרִזִּ֔י וְהַחִוִּ֖י וְהַיְבוּסִֽי׃"
+pericope: "[[Exod.34.10 The LORD Renews the Covenant|The LORD Renews the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 34
+book/chapter: "[[Exod.34|Exodus 34]]"
+chronological_order: 126
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic JEBUSITES|JEBUSITES]]"
+strongs:
+- "[[H8104G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H6680]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H1644G]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H0567]]"
+- "[[H9002]]"
+- "[[H3669A]]"
+- "[[H2850]]"
+- "[[H6522]]"
+- "[[H2340]]"
+- "[[H2983G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 34:11**<big><big>[[Exod.34.10 The LORD Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Observe thou that which I command thee this day: behold, I drive out before thee the Amorite, and the Canaanite, and the Hittite, and the Perizzite, and the Hivite, and the Jebusite.
 <small><sub>**BSB:**</sub></small>
 Observe what I command you this day. I will drive out before you the Amorites, Canaanites, Hittites, Perizzites, Hivites, and Jebusites.
+<small><sub>**Hebrew:**</sub></small>
+[[H8104G\|שְׁמָ֨ר]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֔]] [[H0853\|אֵ֛ת]] [[H0834A\|אֲשֶׁ֥ר]] [[H0595\|אָנֹכִ֖י]] [[H6680\|מְצַוְּ]][[H9031\|ךָ֣]] [[H9009\|הַ]][[H3117L\|יּ֑וֹם]] [[H2005\|הִנְ]][[H9040\|נִ֧י]] [[H1644G\|גֹרֵ֣שׁ]] [[H9006\|מִ]][[H6440G\|פָּנֶ֗י]][[H9021\|ךָ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0567\|אֱמֹרִי֙]] [[H9002\|וְ]][[H9009\|הַֽ]][[H3669A\|כְּנַעֲנִ֔י]] [[H9002\|וְ]][[H9009\|הַ]][[H2850\|חִתִּי֙]] [[H9002\|וְ]][[H9009\|הַ]][[H6522\|פְּרִזִּ֔י]] [[H9002\|וְ]][[H9009\|הַ]][[H2340\|חִוִּ֖י]] [[H9002\|וְ]][[H9009\|הַ]][[H2983G\|יְבוּסִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic CANAANITES|CANAANITES]] • [[topic JEBUSITES|JEBUSITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.10|<< Exodus 34:10]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.12|Exodus 34:12 >>]]</td></tr></table>
 

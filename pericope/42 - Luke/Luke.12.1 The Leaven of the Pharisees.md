@@ -1,28 +1,35 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Leaven of the Pharisees
+type: Pericope
 pericope: "[[Luke.12.1 The Leaven of the Pharisees|The Leaven of the Pharisees]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: Luke
 chapter: 12
 book/chapter: "[[Luke.12|Luke 12]]"
-genre:
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 3
 verses:
 - "[[Luke.12.1]]"
 - "[[Luke.12.2]]"
 - "[[Luke.12.3]]"
 ---
 
-[[Luke.12|Luke 12:1 - Luke 12:3]]
+<small>[[Luke.12|Luke 12:1-3]]</small>
 *The Leaven of the Pharisees*
 
 [[Luke.12.1|1]] In the mean time, when there were gathered together an innumerable multitude of people, insomuch that they trode one upon another, he began to say unto his disciples first of all, Beware ye of the leaven of the Pharisees, which is hypocrisy.

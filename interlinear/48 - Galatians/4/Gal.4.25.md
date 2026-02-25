@@ -1,10 +1,60 @@
+---
+title: Galatians 4:25
+type: Verse
+kjv: "For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children."
+bsb: "Now Hagar stands for Mount Sinai in Arabia and corresponds to the present-day Jerusalem, because she is in slavery with her children."
+greek: "τὸ δὲ Ἁγὰρ Σινᾶ ὄρος ἐστὶν ἐν τῇ Ἀραβίᾳ, συστοιχεῖ δὲ τῇ νῦν Ἰερουσαλήμ, δουλεύει γὰρ μετὰ τῶν τέκνων αὐτῆς."
+pericope: "[[Gal.4.21 Hagar and Sarah|Hagar and Sarah]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 4
+book/chapter: "[[Gal.4|Galatians 4]]"
+chronological_order: 1042
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic HAGAR|HAGAR]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic SINAI|SINAI]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0028]]"
+- "[[G4614]]"
+- "[[G3735]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G0688]]"
+- "[[G4960]]"
+- "[[G3568]]"
+- "[[G2419]]"
+- "[[G1398]]"
+- "[[G1063]]"
+- "[[G3326]]"
+- "[[G5043]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Galatians 4:25**<big><big>[[Gal.4.21 Hagar and Sarah|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children.
 <small><sub>**BSB:**</sub></small>
 Now Hagar stands for Mount Sinai in Arabia and corresponds to the present-day Jerusalem, because she is in slavery with her children.
-<small><sub>**Literal:**</sub></small>
-<the> Now Hagar Sinai Mount is in <the> Arabia, she corresponds now to the present Jerusalem, she is in slavery for with the children of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.24|<< Galatians 4:24]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.26|Galatians 4:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὸ]]  [[G1161\|δὲ]]  [[G0028\|Ἁγὰρ]]  [[G4614\|Σινᾶ]]  [[G3735\|ὄρος]]  [[G1510\|ἐστὶν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0688\|Ἀραβίᾳ,]]  [[G4960\|συστοιχεῖ]]  [[G1161\|δὲ]]  [[G3588\|τῇ]]  [[G3568\|νῦν]]  [[G2419\|Ἰερουσαλήμ,]]  [[G1398\|δουλεύει]]  [[G1063\|γὰρ]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G5043\|τέκνων]]  [[G0846\|αὐτῆς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic HAGAR|HAGAR]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic PARABLES|PARABLES]] • [[topic SINAI|SINAI]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.24|<< Galatians 4:24]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.26|Galatians 4:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

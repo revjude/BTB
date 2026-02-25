@@ -1,8 +1,57 @@
+---
+title: Psalm 88:14
+type: Verse
+kjv: "LORD, why castest thou off my soul? why hidest thou thy face from me?"
+bsb: "Why, O LORD, do You reject me? Why do You hide Your face from me?"
+hebrew: "לָמָ֣ה יְ֭הוָה תִּזְנַ֣ח נַפְשִׁ֑י תַּסְתִּ֖יר פָּנֶ֣יךָ מִמֶּֽנִּי׃"
+pericope: "[[Ps.88.1 I Cry Out before You|I Cry Out before You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 88
+book/chapter: "[[Ps.88|Psalm 88]]"
+chronological_order: 516
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H3068G]]"
+- "[[H2186A]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H5641]]"
+- "[[H6440H]]"
+- "[[H9021]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 88:14**<big><big>[[Ps.88.1 I Cry Out before You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 LORD, why castest thou off my soul? [why] hidest thou thy face from me?
 <small><sub>**BSB:**</sub></small>
 Why, O LORD, do You reject me? Why do You hide Your face from me?
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H4100\|מָ֣ה]] [[H3068G\|יְ֭הוָה]] [[H2186A\|תִּזְנַ֣ח]] [[H5315G\|נַפְשִׁ֑]][[H9020\|י]] [[H5641\|תַּסְתִּ֖יר]] [[H6440H\|פָּנֶ֣י]][[H9021\|ךָ]] [[H4480A\|מִמֶּֽ]][[H9030\|נִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEATH|DEATH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.88.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.88.13|<< Psalms 88:13]]</td><td align="center" style="border:none;">[[Ps.88|Psalms 88]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.88.15|Psalms 88:15 >>]]</td></tr></table>
 

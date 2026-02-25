@@ -1,8 +1,60 @@
+---
+title: Genesis 25:17
+type: Verse
+kjv: "And these are the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up the ghost and died; and was gathered unto his people."
+bsb: "Ishmael lived a total of 137 years. Then he breathed his last and died, and was gathered to his people."
+hebrew: "וְאֵ֗לֶּה שְׁנֵי֙ חַיֵּ֣י יִשְׁמָעֵ֔אל מְאַ֥ת שָׁנָ֛ה וּשְׁלֹשִׁ֥ים שָׁנָ֖ה וְשֶׁ֣בַע שָׁנִ֑ים וַיִּגְוַ֣ע וַיָּ֔מָת וַיֵּאָ֖סֶף אֶל־ עַמָּֽיו׃"
+pericope: "[[Gen.25.12 The Descendants of Ishmael|The Descendants of Ishmael]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 25
+book/chapter: "[[Gen.25|Genesis 25]]"
+chronological_order: 67
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ISHMAEL|ISHMAEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H8141]]"
+- "[[H2416E]]"
+- "[[H3458G]]"
+- "[[H3967]]"
+- "[[H7970]]"
+- "[[H7651]]"
+- "[[H9001]]"
+- "[[H1478]]"
+- "[[H4191]]"
+- "[[H0622]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5971B]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 25:17**<big><big>[[Gen.25.12 The Descendants of Ishmael|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up the ghost and died; and was gathered unto his people.
 <small><sub>**BSB:**</sub></small>
 Ishmael lived a total of 137 years. Then he breathed his last and died, and was gathered to his people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֗לֶּה]] [[H8141\|שְׁנֵי֙]] [[H2416E\|חַיֵּ֣י]] [[H3458G\|יִשְׁמָעֵ֔אל]] [[H3967\|מְאַ֥ת]] [[H8141\|שָׁנָ֛ה]] [[H9002\|וּ]][[H7970\|שְׁלֹשִׁ֥ים]] [[H8141\|שָׁנָ֖ה]] [[H9002\|וְ]][[H7651\|שֶׁ֣בַע]] [[H8141\|שָׁנִ֑ים]] [[H9001\|וַ]][[H1478\|יִּגְוַ֣ע]] [[H9001\|וַ]][[H4191\|יָּ֔מָת]] [[H9001\|וַ]][[H0622\|יֵּאָ֖סֶף]] [[H0413\|אֶל]][[H9014\|־]] [[H5971B\|עַמָּֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISHMAEL|ISHMAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.16|<< Genesis 25:16]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.18|Genesis 25:18 >>]]</td></tr></table>
 

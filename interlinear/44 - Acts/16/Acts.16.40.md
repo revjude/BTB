@@ -1,10 +1,62 @@
+---
+title: Acts 16:40
+type: Verse
+kjv: "And they went out of the prison, and entered into the house of Lydia: and when they had seen the brethren, they comforted them, and departed."
+bsb: "After Paul and Silas came out of the prison, they went to Lydia’s house to see the brothers and encourage them. Then they left the city."
+greek: "Ἐξελθόντες δὲ ἀπὸ τῆς φυλακῆς εἰσῆλθον πρὸς τὴν Λυδίαν· καὶ ἰδόντες παρεκάλεσαν τοὺς ἀδελφοὺς αὐτούς καὶ ἐξῆλθαν.¶"
+pericope: "[[Acts.16.35 An Official Apology|An Official Apology]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CRIMINALS|CRIMINALS]]"
+- "[[topic LYDIA|LYDIA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SILAS|SILAS]]"
+strongs:
+- "[[G1831]]"
+- "[[G1161]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G5438G]]"
+- "[[G1525]]"
+- "[[G4314]]"
+- "[[G3070]]"
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G3870]]"
+- "[[G0080]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Acts 16:40**<big><big>[[Acts.16.35 An Official Apology|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they went out of the prison, and entered into [the house of] Lydia: and when they had seen the brethren, they comforted them, and departed.
 <small><sub>**BSB:**</sub></small>
 After Paul and Silas came out of the prison, they went to Lydia’s house to see the brothers and encourage them. Then they left the city.
-<small><sub>**Literal:**</sub></small>
-Having gone forth then out of the prison they came to <the> Lydia; and having seen [them] they exhorted the brothers them and departed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.39|<< Acts 16:39]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.1|Acts 17:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1831\|Ἐξελθόντες]]  [[G1161\|δὲ]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G5438G\|φυλακῆς]]  [[G1525\|εἰσῆλθον]]  [[G4314\|πρὸς]]  [[G3588\|τὴν]]  [[G3070\|Λυδίαν·]]  [[G2532\|καὶ]]  [[G1492H\|ἰδόντες]]  [[G3870\|παρεκάλεσαν]]  [[G3588\|τοὺς]]  [[G0080\|ἀδελφοὺς]]  [[G0846\|αὐτούς]]  [[G2532\|καὶ]]  [[G1831\|ἐξῆλθαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRIMINALS|CRIMINALS]] • [[topic LYDIA|LYDIA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PHILIPPI|PHILIPPI]] • [[topic PRISONERS|PRISONERS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REPROOF|REPROOF]] • [[topic SILAS|SILAS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.39|<< Acts 16:39]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.1|Acts 17:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

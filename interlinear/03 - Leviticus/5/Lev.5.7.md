@@ -1,8 +1,79 @@
+---
+title: Leviticus 5:7
+type: Verse
+kjv: "And if he be not able to bring a lamb, then he shall bring for his trespass, which he hath committed, two turtledoves, or two young pigeons, unto the LORD; one for a sin offering, and the other for a burnt offering."
+bsb: "If, however, he cannot afford a lamb, he may bring to the LORD as restitution for his sin two turtledoves or two young pigeons—one as a sin offering and the other as a burnt offering."
+hebrew: "וְאִם־ לֹ֨א תַגִּ֣יע יָדוֹ֮ דֵּ֣י שֶׂה֒ וְהֵבִ֨יא אֶת־ אֲשָׁמ֜וֹ אֲשֶׁ֣ר חָטָ֗א שְׁתֵּ֥י תֹרִ֛ים אֽוֹ־ שְׁנֵ֥י בְנֵֽי־ יוֹנָ֖ה לַֽיהוָ֑ה אֶחָ֥ד לְחַטָּ֖את וְאֶחָ֥ד לְעֹלָֽה׃"
+pericope: "[[Lev.5.1 Sins Requiring a Sin Offering|Sins Requiring a Sin Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 5
+book/chapter: "[[Lev.5|Leviticus 5]]"
+chronological_order: 137
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic DOVE, TURTLE|DOVE, TURTLE]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PIGEON|PIGEON]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SIN|SIN]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H5060]]"
+- "[[H3027I]]"
+- "[[H9023]]"
+- "[[H1767]]"
+- "[[H7716]]"
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H0817]]"
+- "[[H0834A]]"
+- "[[H2398]]"
+- "[[H8147]]"
+- "[[H8449]]"
+- "[[H0176A]]"
+- "[[H1121H]]"
+- "[[H3123]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0259]]"
+- "[[H2403H]]"
+- "[[H5930A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 5:7**<big><big>[[Lev.5.1 Sins Requiring a Sin Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if he be not able to bring a lamb, then he shall bring for his trespass, which he hath committed, two turtledoves, or two young pigeons, unto the LORD; one for a sin offering, and the other for a burnt offering.
 <small><sub>**BSB:**</sub></small>
 If, however, he cannot afford a lamb, he may bring to the LORD as restitution for his sin two turtledoves or two young pigeons—one as a sin offering and the other as a burnt offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֨א]] [[H5060\|תַגִּ֣יע]] [[H3027I\|יָד]][[H9023\|וֹ֮]] [[H1767\|דֵּ֣י]] [[H7716\|שֶׂה֒]] [[H9001\|וְ]][[H0935P\|הֵבִ֨יא]] [[H0853\|אֶת]][[H9014\|־]] [[H0817\|אֲשָׁמ֜]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֣ר]] [[H2398\|חָטָ֗א]] [[H8147\|שְׁתֵּ֥י]] [[H8449\|תֹרִ֛ים]] [[H0176A\|אֽוֹ]][[H9014\|־]] [[H8147\|שְׁנֵ֥י]] [[H1121H\|בְנֵֽי]][[H9014\|־]] [[H3123\|יוֹנָ֖ה]] [[H9005\|לַֽ]][[H3068G\|יהוָ֑ה]] [[H0259\|אֶחָ֥ד]] [[H9005\|לְ]][[H2403H\|חַטָּ֖את]] [[H9002\|וְ]][[H0259\|אֶחָ֥ד]] [[H9005\|לְ]][[H5930A\|עֹלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic DOVE, TURTLE|DOVE, TURTLE]] • [[topic IGNORANCE|IGNORANCE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PIGEON|PIGEON]] • [[topic POOR|POOR]] • [[topic SIN|SIN]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.5.6|<< Leviticus 5:6]]</td><td align="center" style="border:none;">[[Lev.5|Leviticus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.5.8|Leviticus 5:8 >>]]</td></tr></table>
 

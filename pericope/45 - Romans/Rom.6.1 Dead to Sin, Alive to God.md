@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Dead to Sin, Alive to God
+type: Pericope
 pericope: "[[Rom.6.1 Dead to Sin, Alive to God|Dead to Sin, Alive to God]]"
-verse_count: 14
+original_language: Greek
 testament: New
 book: Romans
 chapter: 6
 book/chapter: "[[Rom.6|Romans 6]]"
-genre:
+chronological_order: 1092
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 14
 verses:
 - "[[Rom.6.1]]"
 - "[[Rom.6.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Rom.6.14]]"
 ---
 
-[[Rom.6|Romans 6:1 - Romans 6:14]]
+<small>[[Rom.6|Romans 6:1-14]]</small>
 *Dead to Sin, Alive to God*
 
 [[Rom.6.1|1]] What shall we say then? Shall we continue in sin, that grace may abound?

@@ -1,8 +1,78 @@
+---
+title: Ecclesiastes 2:3
+type: Verse
+kjv: "I sought in mine heart to give myself unto wine, yet acquainting mine heart with wisdom; and to lay hold on folly, till I might see what was that good for the sons of men, which they should do under the heaven all the days of their life."
+bsb: "I sought to cheer my body with wine and to embrace folly—my mind still guiding me with wisdom—until I could see what was worthwhile for men to do under heaven during the few days of their lives."
+hebrew: "תַּ֣רְתִּי בְלִבִּ֔י לִמְשׁ֥וֹךְ בַּיַּ֖יִן אֶת־ בְּשָׂרִ֑י וְלִבִּ֞י נֹהֵ֤ג בַּֽחָכְמָה֙ וְלֶאֱחֹ֣ז בְּסִכְל֔וּת עַ֣ד אֲשֶׁר־ אֶרְאֶ֗ה אֵי־ זֶ֨ה ט֜וֹב לִבְנֵ֤י הָאָדָם֙ אֲשֶׁ֤ר יַעֲשׂוּ֙ תַּ֣חַת הַשָּׁמַ֔יִם מִסְפַּ֖ר יְמֵ֥י חַיֵּיהֶֽם׃"
+pericope: "[[Eccl.2.1 The Futility of Pleasure|The Futility of Pleasure]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 2
+book/chapter: "[[Eccl.2|Ecclesiastes 2]]"
+chronological_order: 540
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic EPICUREANS|EPICUREANS]]"
+- "[[topic INVESTIGATION|INVESTIGATION]]"
+- "[[topic PLEASURE|PLEASURE]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WINE|WINE]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H8446]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H4900]]"
+- "[[H3196]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1320]]"
+- "[[H9002]]"
+- "[[H5090A]]"
+- "[[H2451]]"
+- "[[H0270]]"
+- "[[H5531B]]"
+- "[[H5704]]"
+- "[[H0834A]]"
+- "[[H7200G]]"
+- "[[H0335]]"
+- "[[H2088]]"
+- "[[H2896A]]"
+- "[[H1121A]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H6213A]]"
+- "[[H8478G]]"
+- "[[H8064]]"
+- "[[H4557]]"
+- "[[H3117G]]"
+- "[[H2416E]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 2:3**<big><big>[[Eccl.2.1 The Futility of Pleasure|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I sought in mine heart to give myself unto wine, yet acquainting mine heart with wisdom; and to lay hold on folly, till I might see what [was] that good for the sons of men, which they should do under the heaven all the days of their life.
 <small><sub>**BSB:**</sub></small>
 I sought to cheer my body with wine and to embrace folly—my mind still guiding me with wisdom—until I could see what was worthwhile for men to do under heaven during the few days of their lives.
+<small><sub>**Hebrew:**</sub></small>
+[[H8446\|תַּ֣רְתִּי]] [[H9003\|בְ]][[H3820A\|לִבִּ֔]][[H9020\|י]] [[H9005\|לִ]][[H4900\|מְשׁ֥וֹךְ]] [[H9003\|בַּ]][[H3196\|יַּ֖יִן]] [[H0853\|אֶת]][[H9014\|־]] [[H1320\|בְּשָׂרִ֑]][[H9020\|י]] [[H9002\|וְ]][[H3820A\|לִבִּ֞]][[H9020\|י]] [[H5090A\|נֹהֵ֤ג]] [[H9003\|בַּֽ]][[H2451\|חָכְמָה֙]] [[H9002\|וְ]][[H9005\|לֶ]][[H0270\|אֱחֹ֣ז]] [[H9003\|בְּ]][[H5531B\|סִכְל֔וּת]] [[H5704\|עַ֣ד]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7200G\|אֶרְאֶ֗ה]] [[H0335\|אֵי]][[H9014\|־]] [[H2088\|זֶ֨ה]] [[H2896A\|ט֜וֹב]] [[H9005\|לִ]][[H1121A\|בְנֵ֤י]] [[H9009\|הָ]][[H0120G\|אָדָם֙]] [[H0834A\|אֲשֶׁ֤ר]] [[H6213A\|יַעֲשׂוּ֙]] [[H8478G\|תַּ֣חַת]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H4557\|מִסְפַּ֖ר]] [[H3117G\|יְמֵ֥י]] [[H2416E\|חַיֵּי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPICUREANS|EPICUREANS]] • [[topic INVESTIGATION|INVESTIGATION]] • [[topic PLEASURE|PLEASURE]] • [[topic VANITY|VANITY]] • [[topic WINE|WINE]] • [[topic WISDOM|WISDOM]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.2|<< Ecclesiastes 2:2]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.4|Ecclesiastes 2:4 >>]]</td></tr></table>
 

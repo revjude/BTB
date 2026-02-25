@@ -1,8 +1,68 @@
+---
+title: Ezekiel 40:46
+type: Verse
+kjv: "And the chamber whose prospect is toward the north is for the priests, the keepers of the charge of the altar: these are the sons of Zadok among the sons of Levi, which come near to the LORD to minister unto him."
+bsb: "and the chamber that faces north is for the priests who keep charge of the altar. These are the sons of Zadok, the only Levites who may approach the LORD to minister before Him.”"
+hebrew: "וְהַלִּשְׁכָּ֗ה אֲשֶׁ֤ר פָּנֶ֙יהָ֙ דֶּ֣רֶךְ הַצָּפ֔וֹן לַכֹּ֣הֲנִ֔ים שֹׁמְרֵ֖י מִשְׁמֶ֣רֶת הַמִּזְבֵּ֑חַ הֵ֣מָּה בְנֵֽי־ צָד֗וֹק הַקְּרֵבִ֧ים מִבְּנֵֽי־ לֵוִ֛י אֶל־ יְהוָ֖ה לְשָׁרְתֽוֹ׃"
+pericope: "[[Ezek.40.44 Chambers for Ministry|Chambers for Ministry]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 40
+book/chapter: "[[Ezek.40|Ezekiel 40]]"
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3957]]"
+- "[[H0834A]]"
+- "[[H6440G]]"
+- "[[H9024]]"
+- "[[H1870J]]"
+- "[[H6828G]]"
+- "[[H9005]]"
+- "[[H3548]]"
+- "[[H8104H]]"
+- "[[H4931]]"
+- "[[H4196]]"
+- "[[H1992]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H6659G]]"
+- "[[H7131]]"
+- "[[H9006]]"
+- "[[H3878]]"
+- "[[H0413]]"
+- "[[H3068G]]"
+- "[[H8334]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 40:46**<big><big>[[Ezek.40.44 Chambers for Ministry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the chamber whose prospect [is] toward the north [is] for the priests, the keepers of the charge of the altar: these [are] the sons of Zadok among the sons of Levi, which come near to the LORD to minister unto him.
 <small><sub>**BSB:**</sub></small>
 and the chamber that faces north is for the priests who keep charge of the altar. These are the sons of Zadok, the only Levites who may approach the LORD to minister before Him.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H3957\|לִּשְׁכָּ֗ה]] [[H0834A\|אֲשֶׁ֤ר]] [[H6440G\|פָּנֶ֙י]][[H9024\|הָ֙]] [[H1870J\|דֶּ֣רֶךְ]] [[H9009\|הַ]][[H6828G\|צָּפ֔וֹן]] [[H9005\|לַ]][[H3548\|כֹּ֣הֲנִ֔ים]] [[H8104H\|שֹׁמְרֵ֖י]] [[H4931\|מִשְׁמֶ֣רֶת]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֑חַ]] [[H1992\|הֵ֣מָּה]] [[H1121A\|בְנֵֽי]][[H9014\|־]] [[H6659G\|צָד֗וֹק]] [[H9009\|הַ]][[H7131\|קְּרֵבִ֧ים]] [[H9006\|מִ]][[H1121A\|בְּנֵֽי]][[H9014\|־]] [[H3878\|לֵוִ֛י]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לְ]][[H8334\|שָׁרְתֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.45|<< Ezekiel 40:45]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.47|Ezekiel 40:47 >>]]</td></tr></table>
 

@@ -1,10 +1,56 @@
+---
+title: Philippians 1:16
+type: Verse
+kjv: "The one preach Christ of contention, not sincerely, supposing to add affliction to my bonds:"
+bsb: "The latter do so in love, knowing that I am appointed for the defense of the gospel."
+greek: "οἱ μὲν ἐξ ἀγάπης εἰδότες ὅτι εἰς ἀπολογίαν τοῦ εὐαγγελίου κεῖμαι·"
+pericope: "[[Phil.1.12 Paul’s Trials Advance the Gospel|Paul’s Trials Advance the Gospel]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 1
+book/chapter: "[[Phil.1|Philippians 1]]"
+chronological_order: 1117
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic MALICE|MALICE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ROME|ROME]]"
+- "[[topic SINCERITY|SINCERITY]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic TACT|TACT]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G3303]]"
+- "[[G1537]]"
+- "[[G0026]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G1519]]"
+- "[[G0627]]"
+- "[[G2098]]"
+- "[[G2749]]"
+texts:
+- NKO
+---
+
 **Philippians 1:16**<big><big>[[Phil.1.12 Paul’s Trials Advance the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The one preach Christ of contention, not sincerely, supposing to add affliction to my bonds:
 <small><sub>**BSB:**</sub></small>
 The latter do so in love, knowing that I am appointed for the defense of the gospel.
-<small><sub>**Literal:**</sub></small>
-[17] the [ones] indeed out of love knowing that for defense of the gospel I am appointed;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.15|<< Philippians 1:15]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.17|Philippians 1:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G3303\|μὲν]]  [[G1537\|ἐξ]]  [[G0026\|ἀγάπης]]  [[G6063\|εἰδότες]]  [[G3754G\|ὅτι]]  [[G1519\|εἰς]]  [[G0627\|ἀπολογίαν]]  [[G3588\|τοῦ]]  [[G2098\|εὐαγγελίου]]  [[G2749\|κεῖμαι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MALICE|MALICE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ROME|ROME]] • [[topic SINCERITY|SINCERITY]] • [[topic STRIFE|STRIFE]] • [[topic TACT|TACT]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.15|<< Philippians 1:15]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.17|Philippians 1:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

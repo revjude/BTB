@@ -1,8 +1,52 @@
+---
+title: Job 19:3
+type: Verse
+kjv: "These ten times have ye reproached me: ye are not ashamed that ye make yourselves strange to me."
+bsb: "Ten times now you have reproached me; you shamelessly mistreat me."
+hebrew: "זֶ֤ה עֶ֣שֶׂר פְּ֭עָמִים תַּכְלִימ֑וּנִי לֹֽא־ תֵ֝בֹ֗שׁוּ תַּהְכְּרוּ־ לִֽי׃"
+pericope: "[[Job.19.1 Job：My Redeemer Lives|Job：My Redeemer Lives]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 19
+book/chapter: "[[Job.19|Job 19]]"
+chronological_order: 30
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H2088]]"
+- "[[H6235]]"
+- "[[H6471]]"
+- "[[H3637]]"
+- "[[H9030]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0954]]"
+- "[[H1970]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 19:3**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These ten times have ye reproached me: ye are not ashamed [that] ye make yourselves strange to me.
 <small><sub>**BSB:**</sub></small>
 Ten times now you have reproached me; you shamelessly mistreat me.
+<small><sub>**Hebrew:**</sub></small>
+[[H2088\|זֶ֤ה]] [[H6235\|עֶ֣שֶׂר]] [[H6471\|פְּ֭עָמִים]] [[H3637\|תַּכְלִימ֑וּ]][[H9030\|נִי]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0954\|תֵ֝בֹ֗שׁוּ]] [[H1970\|תַּהְכְּרוּ]][[H9014\|־]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.2|<< Job 19:2]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.4|Job 19:4 >>]]</td></tr></table>
 

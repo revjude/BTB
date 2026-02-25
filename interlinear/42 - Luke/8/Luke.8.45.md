@@ -1,10 +1,68 @@
+---
+title: Luke 8:45
+type: Verse
+kjv: "And Jesus said, Who touched me? When all denied, Peter and they that were with him said, Master, the multitude throng thee and press thee, and sayest thou, Who touched me?"
+bsb: "“Who touched Me?” Jesus asked. But they all denied it. “Master,” said Peter, “the people are crowding and pressing against You.”"
+jesus_said: "Who touched me?"
+greek: "καὶ εἶπεν ὁ Ἰησοῦς· τίς ὁ ἁψάμενός μου; ἀρνουμένων δὲ πάντων εἶπεν ὁ Πέτρος καὶ οἱ μετ᾽ αὐτοῦ· ἐπιστάτα, οἱ ὄχλοι συνέχουσίν σε καὶ ἀποθλίβουσιν καὶ λέγεις τίς ὁ ἁψάμενός μου."
+pericope: "[[Luke.8.40 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JAIRUS|JAIRUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G5101]]"
+- "[[G0681]]"
+- "[[G3165]]"
+- "[[G0720]]"
+- "[[G1161]]"
+- "[[G3956]]"
+- "[[G4074G]]"
+- "[[G3326]]"
+- "[[G0846]]"
+- "[[G1988]]"
+- "[[G3793]]"
+- "[[G4912]]"
+- "[[G4771]]"
+- "[[G0598]]"
+- "[[G3004G]]"
+texts:
+- NKO
+- KO
+- K(o)
+---
+
 **Luke 8:45**<big><big>[[Luke.8.40 The Healing Touch of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus said, Who touched me? When all denied, Peter and they that were with him said, Master, the multitude throng thee and press [thee], and sayest thou, Who touched me?
 <small><sub>**BSB:**</sub></small>
 “Who touched Me?” Jesus asked. But they all denied it. “Master,” said Peter, “the people are crowding and pressing against You.”
-<small><sub>**Literal:**</sub></small>
-And said <the> Jesus; Who [is] the [one] having touched Me? When is  denying [it] however everyone said <the> Peter and those with him: Master, the people surround You and press in and say which one having touched me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.44|<< Luke 8:44]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.46|Luke 8:46 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G5101\|τίς]]  [[G3588\|ὁ]]  [[G0681\|ἁψάμενός]]  [[G3165\|μου;]]  [[G0720\|ἀρνουμένων]]  [[G1161\|δὲ]]  [[G3956\|πάντων]]  [[G2036\|εἶπεν]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ·]]  [[G1988\|ἐπιστάτα,]]  [[G3588\|οἱ]]  [[G3793\|ὄχλοι]]  [[G4912\|συνέχουσίν]]  [[G4771\|σε]]  [[G2532\|καὶ]]  [[G0598\|ἀποθλίβουσιν]]  [[G2532\|καὶ]]  [[G3004G\|λέγεις]]  [[G5101\|τίς]]  [[G3588\|ὁ]]  [[G0681\|ἁψάμενός]]  [[G3165\|μου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic JAIRUS|JAIRUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PETER|PETER]] • [[topic PRESUMPTION|PRESUMPTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.44|<< Luke 8:44]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.46|Luke 8:46 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

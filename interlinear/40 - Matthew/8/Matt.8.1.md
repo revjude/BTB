@@ -1,10 +1,51 @@
+---
+title: Matthew 8:1
+type: Verse
+kjv: "When he was come down from the mountain, great multitudes followed him."
+bsb: "When Jesus came down from the mountain, large crowds followed Him."
+greek: "Καταβάντος δὲ αὐτοῦ ἀπὸ τοῦ ὄρους ἠκολούθησαν αὐτῷ ὄχλοι πολλοί."
+pericope: "[[Matt.8.1 The Leper’s Prayer|The Leper’s Prayer]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 8
+book/chapter: "[[Matt.8|Matthew 8]]"
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2597]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G0190]]"
+- "[[G3793]]"
+- "[[G4183]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **Matthew 8:1**<big><big>[[Matt.8.1 The Leper’s Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When he was come down from the mountain, great multitudes followed him.
 <small><sub>**BSB:**</sub></small>
 When Jesus came down from the mountain, large crowds followed Him.
-<small><sub>**Literal:**</sub></small>
-When was coming down now He from the mountain followed Him crowds great.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.29|<< Matthew 7:29]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.2|Matthew 8:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2597\|Καταβάντος]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῦ]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G3735\|ὄρους]]  [[G0190\|ἠκολούθησαν]]  [[G0846\|αὐτῷ]]  [[G3793\|ὄχλοι]]  [[G4183\|πολλοί.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.29|<< Matthew 7:29]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.2|Matthew 8:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

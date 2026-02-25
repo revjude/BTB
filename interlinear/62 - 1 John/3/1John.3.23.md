@@ -1,10 +1,63 @@
+---
+title: 1 John 3:23
+type: Verse
+kjv: "And this is his commandment, That we should believe on the name of his Son Jesus Christ, and love one another, as he gave us commandment."
+bsb: "And this is His commandment: that we should believe in the name of His Son, Jesus Christ, and we should love one another just as He commanded us."
+greek: "καὶ αὕτη ἐστὶν ἡ ἐντολὴ αὐτοῦ ἵνα πιστεύσωμεν τῷ ὀνόματι τοῦ υἱοῦ αὐτοῦ Ἰησοῦ Χριστοῦ καὶ ἀγαπῶμεν ἀλλήλους καθὼς ἔδωκεν ἐντολὴν ἡμῖν."
+pericope: "[[1John.3.11 Love One Another|Love One Another]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 3
+book/chapter: "[[1John.3|1 John 3]]"
+chronological_order: 1163
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G1785]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G4100]]"
+- "[[G3686]]"
+- "[[G5207]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G0025]]"
+- "[[G0240]]"
+- "[[G2531]]"
+- "[[G1325]]"
+- "[[G3165]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **1 John 3:23**<big><big>[[1John.3.11 Love One Another|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And this is his commandment, That we should believe on the name of his Son Jesus Christ, and love one another, as he gave us commandment.
 <small><sub>**BSB:**</sub></small>
 And this is His commandment: that we should believe in the name of His Son, Jesus Christ, and we should love one another just as He commanded us.
-<small><sub>**Literal:**</sub></small>
-And this is the commandment of Him that we may believe in the name of the Son of Him Jesus Christ and we may love one another even as He gave [the] commandment to us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.22|<< 1 John 3:22]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.24|1 John 3:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3778\|αὕτη]]  [[G1510\|ἐστὶν]]  [[G3588\|ἡ]]  [[G1785\|ἐντολὴ]]  [[G0846\|αὐτοῦ]]  [[G2443\|ἵνα]]  [[G4100\|πιστεύσωμεν]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματι]]  [[G3588\|τοῦ]]  [[G5207\|υἱοῦ]]  [[G0846\|αὐτοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G2532\|καὶ]]  [[G0025\|ἀγαπῶμεν]]  [[G0240\|ἀλλήλους]]  [[G2531\|καθὼς]]  [[G1325\|ἔδωκεν]]  [[G1785\|ἐντολὴν]]  [[G3165\|ἡμῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.22|<< 1 John 3:22]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.24|1 John 3:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

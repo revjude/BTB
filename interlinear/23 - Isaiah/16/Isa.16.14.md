@@ -1,8 +1,63 @@
+---
+title: Isaiah 16:14
+type: Verse
+kjv: "But now the LORD hath spoken, saying, Within three years, as the years of an hireling, and the glory of Moab shall be contemned, with all that great multitude; and the remnant shall be very small and feeble."
+bsb: "And now the LORD says, “In three years, as a hired worker counts the years, Moab’s splendor will become an object of contempt, with all her many people. And those who are left will be few and feeble.”"
+hebrew: "וְעַתָּ֗ה דִּבֶּ֣ר יְהוָה֮ לֵאמֹר֒ בְּשָׁלֹ֤שׁ שָׁנִים֙ כִּשְׁנֵ֣י שָׂכִ֔יר וְנִקְלָה֙ כְּב֣וֹד מוֹאָ֔ב בְּכֹ֖ל הֶהָמ֣וֹן הָרָ֑ב וּשְׁאָ֥ר מְעַ֛ט מִזְעָ֖ר ל֥וֹא כַבִּֽיר׃ ס"
+pericope: "[[Isa.16.1 Moab’s Destruction|Moab’s Destruction]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 16
+book/chapter: "[[Isa.16|Isaiah 16]]"
+chronological_order: 633
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H7969]]"
+- "[[H8141]]"
+- "[[H9004]]"
+- "[[H7916]]"
+- "[[H9001]]"
+- "[[H7034]]"
+- "[[H3519]]"
+- "[[H4124G]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1995A]]"
+- "[[H7227A]]"
+- "[[H7605]]"
+- "[[H4592]]"
+- "[[H4213]]"
+- "[[H3808]]"
+- "[[H3524]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 16:14**<big><big>[[Isa.16.1 Moab’s Destruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But now the LORD hath spoken, saying, Within three years, as the years of an hireling, and the glory of Moab shall be contemned, with all that great multitude; and the remnant [shall be] very small [and] feeble.
 <small><sub>**BSB:**</sub></small>
 And now the LORD says, “In three years, as a hired worker counts the years, Moab’s splendor will become an object of contempt, with all her many people. And those who are left will be few and feeble.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H1696G\|דִּבֶּ֣ר]] [[H3068G\|יְהוָה֮]] [[H9005\|לֵ]][[H0559\|אמֹר֒]] [[H9003\|בְּ]][[H7969\|שָׁלֹ֤שׁ]] [[H8141\|שָׁנִים֙]] [[H9004\|כִּ]][[H8141\|שְׁנֵ֣י]] [[H7916\|שָׂכִ֔יר]] [[H9001\|וְ]][[H7034\|נִקְלָה֙]] [[H3519\|כְּב֣וֹד]] [[H4124G\|מוֹאָ֔ב]] [[H9003\|בְּ]][[H3605\|כֹ֖ל]] [[H9009\|הֶ]][[H1995A\|הָמ֣וֹן]] [[H9009\|הָ]][[H7227A\|רָ֑ב]] [[H9002\|וּ]][[H7605\|שְׁאָ֥ר]] [[H4592\|מְעַ֛ט]] [[H4213\|מִזְעָ֖ר]] [[H3808\|ל֥וֹא]] [[H3524\|כַבִּֽיר]][[H9016\|׃]] [[H9018\|ס]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.16.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.13|<< Isaiah 16:13]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17.1|Isaiah 17:1 >>]]</td></tr></table>
 
@@ -26,7 +81,7 @@ And now the LORD says, “In three years, as a hired worker counts the years, Mo
 | little  |**<big>&#8207;[[H4592\|מְעַ֛ט]]&#8207; </big>**| me.'At<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | smallness  |**<big>&#8207;[[H4213\|מִזְעָ֖ר]]&#8207; </big>**| miz.'Ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|ל֥וֹא]]&#8207; </big>**| Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] mighty  |**<big>&#8207;[[H3524\|כַבִּֽיר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| kha.Bir<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] mighty  |**<big>&#8207;[[H3524\|כַבִּֽיר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| kha.Bir<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.13|<< Isaiah 16:13]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17.1|Isaiah 17:1 >>]]</td></tr></table>
 
 

@@ -1,8 +1,57 @@
+---
+title: Psalm 105:4
+type: Verse
+kjv: "Seek the LORD, and his strength: seek his face evermore."
+bsb: "Seek out the LORD and His strength; seek His face always."
+hebrew: "דִּרְשׁ֣וּ יְהוָ֣ה וְעֻזּ֑וֹ בַּקְּשׁ֖וּ פָנָ֣יו תָּמִֽיד׃"
+pericope: "[[Ps.105.1 Tell of His Wonders|Tell of His Wonders]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 105
+book/chapter: "[[Ps.105|Psalm 105]]"
+chronological_order: 529
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H1875]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H5797]]"
+- "[[H9023]]"
+- "[[H1245]]"
+- "[[H6440H]]"
+- "[[H8548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 105:4**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seek the LORD, and his strength: seek his face evermore.
 <small><sub>**BSB:**</sub></small>
 Seek out the LORD and His strength; seek His face always.
+<small><sub>**Hebrew:**</sub></small>
+[[H1875\|דִּרְשׁ֣וּ]] [[H3068G\|יְהוָ֣ה]] [[H9002\|וְ]][[H5797\|עֻזּ֑]][[H9023\|וֹ]] [[H1245\|בַּקְּשׁ֖וּ]] [[H6440H\|פָנָ֣י]][[H9023\|ו]] [[H8548\|תָּמִֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic DESIRE|DESIRE]] • [[topic PRAISE|PRAISE]] • [[topic PRAYER|PRAYER]] • [[topic SEEKERS|SEEKERS]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.3|<< Psalms 105:3]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.5|Psalms 105:5 >>]]</td></tr></table>
 

@@ -1,6 +1,71 @@
+---
+title: LXX Isaiah 39:3
+type: Verse
+lxx: "And Isaiah the prophet came to  king Hezekiah, and he said to him, What did these men say? And from what place have they come to you? And Hezekiah said, From a land at a distance -- they have come to me from Babylon."
+greek: "και ήλθεν Ησαϊας ο προφήτης προς τον βασιλέα Εζεκίαν και είπε προς αυτόν τι λέγουσιν οι άνθρωποι ούτοι και πόθεν ήκασι προς σε και είπεν Εζεκίας εκ γης πόρρωθεν ήκασι προς με εκ Βαβυλώνος"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 39
+book/chapter: "[[Isa.39|Isaiah 39]]"
+chronological_order: 666
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G2268]]"
+- "[[G3588]]"
+- "[[G4396]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G1478]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G5100]]"
+- "[[G3004]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G4159]]"
+- "[[G2240]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2268]]"
+- "[[G2036]]"
+- "[[G1537]]"
+- "[[G1093]]"
+- "[[G4207]]"
+- "[[G2240]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G1537]]"
+- "[[G0897]]"
+---
+
 **LXX Isaiah 39:3** 
 <small><sub>**LXX:**</sub></small>
 And Isaiah the prophet came to  king Hezekiah, and he said to him, What did these men say? And from what place have they come to you? And Hezekiah said, From a land at a distance -- they have come to me from Babylon. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2064\|ήλθεν]] [[G2268\|Ησαϊας]] [[G3588\|ο]] [[G4396\|προφήτης]] [[G4314\|προς]] [[G3588\|τον]] [[G0935\|βασιλέα]] [[G1478\|Εζεκίαν]] [[G2532\|και]] [[G2036\|είπε]] [[G4314\|προς]] [[G1473\|αυτόν]] [[G5100\|τι]] [[G3004\|λέγουσιν]] [[G3588\|οι]] [[G0444\|άνθρωποι]] [[G3778\|ούτοι]] [[G2532\|και]] [[G4159\|πόθεν]] [[G2240\|ήκασι]] [[G4314\|προς]] [[G1473\|σε]] [[G2532\|και]] [[G2268\|είπεν]] [[G2036\|Εζεκίας]] [[G1537\|εκ]] [[G1093\|γης]] [[G4207\|πόρρωθεν]] [[G2240\|ήκασι]] [[G4314\|προς]] [[G1473\|με]] [[G1537\|εκ]] [[G0897\|Βαβυλώνος]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.39.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.39.2|<< Isaiah 39:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.39.4|Isaiah 39:4 >>]]</td></tr></table>
 
@@ -38,6 +103,6 @@ And Isaiah the prophet came to  king Hezekiah, and he said to him, What did thes
 | me | **<big>[[G1473\|με]]</big>** |
 | from | **<big>[[G1537\|εκ]]</big>** |
 | Babylon. | **<big>[[G0897\|Βαβυλώνος]]</big>** |
-[[Isa.39.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.39.2|<< Isaiah 39:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.39.4|Isaiah 39:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.39.2|<< Isaiah 39:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.39.4|Isaiah 39:4 >>]]</td></tr></table>
 
 

@@ -1,10 +1,66 @@
+---
+title: Luke 9:23
+type: Verse
+kjv: "And he said to them all, If any man will come after me, let him deny himself, and take up his cross daily, and follow me."
+bsb: "Then Jesus said to all of them, “If anyone wants to come after Me, he must deny himself and take up his cross daily and follow Me."
+jesus_said: "If any man will come after me, let him deny himself, and take up his cross daily, and follow me."
+greek: "Ἔλεγεν δὲ πρὸς πάντας· εἴ τις θέλει ὀπίσω μου ἔρχεσθαι, ἀρνησάσθω ἑαυτὸν καὶ ἀράτω τὸν σταυρὸν αὐτοῦ καθ᾽ ἡμέραν καὶ ἀκολουθείτω μοι."
+pericope: "[[Luke.9.23 Take Up Your Cross|Take Up Your Cross]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CROSS|CROSS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic STOICISM|STOICISM]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G3956]]"
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G2309]]"
+- "[[G3694]]"
+- "[[G3165]]"
+- "[[G2064]]"
+- "[[G0720]]"
+- "[[G1438]]"
+- "[[G2532]]"
+- "[[G0142]]"
+- "[[G3588]]"
+- "[[G4716]]"
+- "[[G0846]]"
+- "[[G2596]]"
+- "[[G2250]]"
+- "[[G0190]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 9:23**<big><big>[[Luke.9.23 Take Up Your Cross|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said to [them] all, If any [man] will come after me, let him deny himself, and take up his cross daily, and follow me.
 <small><sub>**BSB:**</sub></small>
 Then Jesus said to all of them, “If anyone wants to come after Me, he must deny himself and take up his cross daily and follow Me.
-<small><sub>**Literal:**</sub></small>
-He was saying then to all; If anyone desires after Me to come, he should deny himself and he should take up the cross of him every day and he should follow Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.22|<< Luke 9:22]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.24|Luke 9:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Ἔλεγεν]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G3956\|πάντας·]]  [[G1487G\|εἴ]]  [[G5100\|τις]]  [[G2309\|θέλει]]  [[G3694\|ὀπίσω]]  [[G3165\|μου]]  [[G2064\|ἔρχεσθαι,]]  [[G0720\|ἀρνησάσθω]]  [[G1438\|ἑαυτὸν]]  [[G2532\|καὶ]]  [[G0142\|ἀράτω]]  [[G3588\|τὸν]]  [[G4716\|σταυρὸν]]  [[G0846\|αὐτοῦ]]  [[G2596\|καθ᾽]]  [[G2250\|ἡμέραν]]  [[G2532\|καὶ]]  [[G0190\|ἀκολουθείτω]]  [[G3165\|μοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CROSS|CROSS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic STOICISM|STOICISM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.22|<< Luke 9:22]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.24|Luke 9:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

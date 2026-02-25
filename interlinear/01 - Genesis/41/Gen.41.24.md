@@ -1,8 +1,69 @@
+---
+title: Genesis 41:24
+type: Verse
+kjv: "And the thin ears devoured the seven good ears: and I told this unto the magicians; but there was none that could declare it to me."
+bsb: "And the thin heads of grain swallowed the seven plump ones. I told this dream to the magicians, but no one could explain it to me.”"
+hebrew: "וַתִּבְלַ֙עְןָ֙ הָשִׁבֳּלִ֣ים הַדַּקֹּ֔ת אֵ֛ת שֶׁ֥בַע הַֽשִׁבֳּלִ֖ים הַטֹּב֑וֹת וָֽאֹמַר֙ אֶל־ הַֽחַרְטֻמִּ֔ים וְאֵ֥ין מַגִּ֖יד לִֽי׃"
+pericope: "[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|Joseph Interprets Pharaoh’s Dreams]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MAGICIAN|MAGICIAN]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROMOTION|PROMOTION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic WISE MEN|WISE MEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1104]]"
+- "[[H9009]]"
+- "[[H7641B]]"
+- "[[H1851]]"
+- "[[H0853]]"
+- "[[H7651]]"
+- "[[H2896A]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2748]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:24**<big><big>[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the thin ears devoured the seven good ears: and I told [this] unto the magicians; but [there was] none that could declare [it] to me.
 <small><sub>**BSB:**</sub></small>
 And the thin heads of grain swallowed the seven plump ones. I told this dream to the magicians, but no one could explain it to me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1104\|תִּבְלַ֙עְןָ֙]] [[H9009\|הָ]][[H7641B\|שִׁבֳּלִ֣ים]] [[H9009\|הַ]][[H1851\|דַּקֹּ֔ת]] [[H0853\|אֵ֛ת]] [[H7651\|שֶׁ֥בַע]] [[H9009\|הַֽ]][[H7641B\|שִׁבֳּלִ֖ים]] [[H9009\|הַ]][[H2896A\|טֹּב֑וֹת]] [[H9001\|וָֽ]][[H0559\|אֹמַר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַֽ]][[H2748\|חַרְטֻמִּ֔ים]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H5046\|מַגִּ֖יד]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic HEATHEN|HEATHEN]] • [[topic JOSEPH|JOSEPH]] • [[topic MAGICIAN|MAGICIAN]] • [[topic PRISONERS|PRISONERS]] • [[topic PROMOTION|PROMOTION]] • [[topic SERVANT|SERVANT]] • [[topic SEVEN|SEVEN]] • [[topic WISE MEN|WISE MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.23|<< Genesis 41:23]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.25|Genesis 41:25 >>]]</td></tr></table>
 

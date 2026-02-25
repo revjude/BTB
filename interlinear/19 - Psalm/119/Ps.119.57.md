@@ -1,8 +1,54 @@
+---
+title: Psalm 119:57
+type: Verse
+kjv: "Thou art my portion, O LORD: I have said that I would keep thy words."
+bsb: "The LORD is my portion; I have promised to keep Your words."
+hebrew: "חֶלְקִ֖י יְהוָ֥ה אָמַ֗רְתִּי לִשְׁמֹ֥ר דְּבָרֶֽיךָ׃"
+pericope: "[[Ps.119.57 Your Word Is a Lamp to My Feet - CHETH|Your Word Is a Lamp to My Feet - CHETH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+strongs:
+- "[[H2506A]]"
+- "[[H9020]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H8104G]]"
+- "[[H1697G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:57**<big><big>[[Ps.119.57 Your Word Is a Lamp to My Feet - CHETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Thou art] my portion, O LORD: I have said that I would keep thy words.
 <small><sub>**BSB:**</sub></small>
 The LORD is my portion; I have promised to keep Your words.
+<small><sub>**Hebrew:**</sub></small>
+[[H2506A\|חֶלְקִ֖]][[H9020\|י]] [[H3068G\|יְהוָ֥ה]] [[H0559\|אָמַ֗רְתִּי]] [[H9005\|לִ]][[H8104G\|שְׁמֹ֥ר]] [[H1697G\|דְּבָרֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic INSTRUCTION|INSTRUCTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.57|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.56|<< Psalms 119:56]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.58|Psalms 119:58 >>]]</td></tr></table>
 

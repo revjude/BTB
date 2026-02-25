@@ -1,8 +1,54 @@
+---
+title: Psalm 6:2
+type: Verse
+kjv: "Have mercy upon me, O LORD; for I am weak: O LORD, heal me; for my bones are vexed."
+bsb: "Be merciful to me, O LORD, for I am frail; heal me, O LORD, for my bones are in agony."
+hebrew: "חָנֵּ֥נִי יְהוָה֮ כִּ֤י אֻמְלַ֫ל אָ֥נִי רְפָאֵ֥נִי יְהוָ֑ה כִּ֖י נִבְהֲל֣וּ עֲצָמָֽי׃"
+pericope: "[[Ps.6.1 Do Not Rebuke Me in Your Anger|Do Not Rebuke Me in Your Anger]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 6
+book/chapter: "[[Ps.6|Psalm 6]]"
+chronological_order: 341
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H2603A]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H0536]]"
+- "[[H0589]]"
+- "[[H7495]]"
+- "[[H0926]]"
+- "[[H6106G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 6:2**<big><big>[[Ps.6.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have mercy upon me, O LORD; for I [am] weak: O LORD, heal me; for my bones are vexed.
 <small><sub>**BSB:**</sub></small>
 Be merciful to me, O LORD, for I am frail; heal me, O LORD, for my bones are in agony.
+<small><sub>**Hebrew:**</sub></small>
+[[H2603A\|חָנֵּ֥]][[H9030\|נִי]] [[H3068G\|יְהוָה֮]] [[H3588A\|כִּ֤י]] [[H0536\|אֻמְלַ֫ל]] [[H0589\|אָ֥נִי]] [[H7495\|רְפָאֵ֥]][[H9030\|נִי]] [[H3068G\|יְהוָ֑ה]] [[H3588A\|כִּ֖י]] [[H0926\|נִבְהֲל֣וּ]] [[H6106G\|עֲצָמָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.6.1|<< Psalms 6:1]]</td><td align="center" style="border:none;">[[Ps.6|Psalms 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.6.3|Psalms 6:3 >>]]</td></tr></table>
 

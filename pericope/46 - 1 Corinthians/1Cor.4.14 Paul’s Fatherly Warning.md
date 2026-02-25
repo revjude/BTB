@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Fatherly Warning
+type: Pericope
 pericope: "[[1Cor.4.14 Paul’s Fatherly Warning|Paul’s Fatherly Warning]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 4
 book/chapter: "[[1Cor.4|1 Corinthians 4]]"
-genre:
+chronological_order: 1061
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 8
 verses:
 - "[[1Cor.4.14]]"
 - "[[1Cor.4.15]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1Cor.4.21]]"
 ---
 
-[[1Cor.4|1 Corinthians 4:14 - 1 Corinthians 4:21]]
+<small>[[1Cor.4|1 Corinthians 4:14-21]]</small>
 *Paul’s Fatherly Warning*
 
 [[1Cor.4.14|14]] I write not these things to shame you, but as my beloved sons I warn \[you\].

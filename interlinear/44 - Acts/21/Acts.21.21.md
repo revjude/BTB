@@ -1,10 +1,69 @@
+---
+title: Acts 21:21
+type: Verse
+kjv: "And they are informed of thee, that thou teachest all the Jews which are among the Gentiles to forsake Moses, saying that they ought not to circumcise their children, neither to walk after the customs."
+bsb: "But they are under the impression that you teach all the Jews who live among the Gentiles to forsake Moses, telling them not to circumcise their children or observe our customs."
+greek: "κατηχήθησαν δὲ περὶ σοῦ ὅτι ἀποστασίαν διδάσκεις ἀπὸ Μωϋσέως τοὺς κατὰ τὰ ἔθνη πάντας Ἰουδαίους λέγων μὴ περιτέμνειν αὐτοὺς τὰ τέκνα μηδὲ τοῖς ἔθεσιν περιπατεῖν."
+pericope: "[[Acts.21.17 Paul’s Arrival at Jerusalem|Paul’s Arrival at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 21
+book/chapter: "[[Acts.21|Acts 21]]"
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic JUDAISM|JUDAISM]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[G2727]]"
+- "[[G1161]]"
+- "[[G4012]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G0646]]"
+- "[[G1321]]"
+- "[[G0575]]"
+- "[[G3475]]"
+- "[[G3588]]"
+- "[[G2596]]"
+- "[[G1484]]"
+- "[[G3956]]"
+- "[[G2453]]"
+- "[[G3004G]]"
+- "[[G3361]]"
+- "[[G4059]]"
+- "[[G0846]]"
+- "[[G5043]]"
+- "[[G3366]]"
+- "[[G1485]]"
+- "[[G4043]]"
+texts:
+- NKO
+---
+
 **Acts 21:21**<big><big>[[Acts.21.17 Paul’s Arrival at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they are informed of thee, that thou teachest all the Jews which are among the Gentiles to forsake Moses, saying that they ought not to circumcise [their] children, neither to walk after the customs.
 <small><sub>**BSB:**</sub></small>
 But they are under the impression that you teach all the Jews who live among the Gentiles to forsake Moses, telling them not to circumcise their children or observe our customs.
-<small><sub>**Literal:**</sub></small>
-They have been informed now about you that apostasy you teach from Moses those among the Gentiles all Jews telling not to circumcise them the children nor in the customs to walk.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.20|<< Acts 21:20]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.22|Acts 21:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2727\|κατηχήθησαν]]  [[G1161\|δὲ]]  [[G4012\|περὶ]]  [[G4771\|σοῦ]]  [[G3754G\|ὅτι]]  [[G0646\|ἀποστασίαν]]  [[G1321\|διδάσκεις]]  [[G0575\|ἀπὸ]]  [[G3475\|Μωϋσέως]]  [[G3588\|τοὺς]]  [[G2596\|κατὰ]]  [[G3588\|τὰ]]  [[G1484\|ἔθνη]]  [[G3956\|πάντας]]  [[G2453\|Ἰουδαίους]]  [[G3004G\|λέγων]]  [[G3361\|μὴ]]  [[G4059\|περιτέμνειν]]  [[G0846\|αὐτοὺς]]  [[G3588\|τὰ]]  [[G5043\|τέκνα]]  [[G3366\|μηδὲ]]  [[G3588\|τοῖς]]  [[G1485\|ἔθεσιν]]  [[G4043\|περιπατεῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic JUDAISM|JUDAISM]] • [[topic LAW|LAW]] • [[topic MEEKNESS|MEEKNESS]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic PAUL|PAUL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic TACT|TACT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.20|<< Acts 21:20]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.22|Acts 21:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

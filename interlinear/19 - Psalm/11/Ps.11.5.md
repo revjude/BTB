@@ -1,8 +1,56 @@
+---
+title: Psalm 11:5
+type: Verse
+kjv: "The LORD trieth the righteous: but the wicked and him that loveth violence his soul hateth."
+bsb: "The LORD tests the righteous and the wicked; His soul hates the lover of violence."
+hebrew: "יְהוָה֮ צַדִּ֪יק יִ֫בְחָ֥ן וְ֭רָשָׁע וְאֹהֵ֣ב חָמָ֑ס שָֽׂנְאָ֥ה נַפְשֽׁוֹ׃"
+pericope: "[[Ps.11.1 In the LORD I Take Refuge|In the LORD I Take Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 11
+book/chapter: "[[Ps.11|Psalm 11]]"
+chronological_order: 345
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3068G]]"
+- "[[H6662]]"
+- "[[H0974]]"
+- "[[H9002]]"
+- "[[H7563]]"
+- "[[H0157G]]"
+- "[[H2555]]"
+- "[[H8130]]"
+- "[[H5315G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 11:5**<big><big>[[Ps.11.1 In the LORD I Take Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD trieth the righteous: but the wicked and him that loveth violence his soul hateth.
 <small><sub>**BSB:**</sub></small>
 The LORD tests the righteous and the wicked; His soul hates the lover of violence.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָה֮]] [[H6662\|צַדִּ֪יק]] [[H0974\|יִ֫בְחָ֥ן]] [[H9002\|וְ֭]][[H7563\|רָשָׁע]] [[H9002\|וְ]][[H0157G\|אֹהֵ֣ב]] [[H2555\|חָמָ֑ס]] [[H8130\|שָֽׂנְאָ֥ה]] [[H5315G\|נַפְשֽׁ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.11.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.11.4|<< Psalms 11:4]]</td><td align="center" style="border:none;">[[Ps.11|Psalms 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.11.6|Psalms 11:6 >>]]</td></tr></table>
 

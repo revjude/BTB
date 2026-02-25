@@ -1,8 +1,64 @@
+---
+title: Numbers 1:2
+type: Verse
+kjv: "Take ye the sum of all the congregation of the children of Israel, after their families, by the house of their fathers, with the number of their names, every male by their polls;"
+bsb: "“Take a census of the whole congregation of Israel by their clans and families, listing every man by name, one by one."
+hebrew: "שְׂא֗וּ אֶת־ רֹאשׁ֙ כָּל־ עֲדַ֣ת בְּנֵֽי־ יִשְׂרָאֵ֔ל לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם בְּמִסְפַּ֣ר שֵׁמ֔וֹת כָּל־ זָכָ֖ר לְגֻלְגְּלֹתָֽם׃"
+pericope: "[[Num.1.1 The First Census of Israel|The First Census of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 1
+book/chapter: "[[Num.1|Numbers 1]]"
+chronological_order: 160
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H5375V]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7218L]]"
+- "[[H3605]]"
+- "[[H5712]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9003]]"
+- "[[H4557]]"
+- "[[H8034]]"
+- "[[H2145]]"
+- "[[H1538]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 1:2**<big><big>[[Num.1.1 The First Census of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take ye the sum of all the congregation of the children of Israel, after their families, by the house of their fathers, with the number of [their] names, every male by their polls;
 <small><sub>**BSB:**</sub></small>
 “Take a census of the whole congregation of Israel by their clans and families, listing every man by name, one by one.
+<small><sub>**Hebrew:**</sub></small>
+[[H5375V\|שְׂא֗וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H7218L\|רֹאשׁ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H5712\|עֲדַ֣ת]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָ֖]][[H9028\|ם]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H0001G\|אֲבֹתָ֑]][[H9028\|ם]] [[H9003\|בְּ]][[H4557\|מִסְפַּ֣ר]] [[H8034\|שֵׁמ֔וֹת]] [[H3605\|כָּל]][[H9014\|־]] [[H2145\|זָכָ֖ר]] [[H9005\|לְ]][[H1538\|גֻלְגְּלֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.1|<< Numbers 1:1]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.3|Numbers 1:3 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Exodus 38:5
+type: Verse
+kjv: "And he cast four rings for the four ends of the grate of brass, to be places for the staves."
+bsb: "At the four corners of the bronze grate he cast four rings as holders for the poles."
+hebrew: "וַיִּצֹ֞ק אַרְבַּ֧ע טַבָּעֹ֛ת בְּאַרְבַּ֥ע הַקְּצָוֹ֖ת לְמִכְבַּ֣ר הַנְּחֹ֑שֶׁת בָּתִּ֖ים לַבַּדִּֽים׃"
+pericope: "[[Exod.38.1 The Bronze Altar|The Bronze Altar]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 38
+book/chapter: "[[Exod.38|Exodus 38]]"
+chronological_order: 130
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic BEZALEL|BEZALEL]]"
+- "[[topic GRATE|GRATE]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3332H]]"
+- "[[H0702]]"
+- "[[H2885]]"
+- "[[H9003]]"
+- "[[H9009]]"
+- "[[H7117]]"
+- "[[H9005]]"
+- "[[H4345]]"
+- "[[H5178A]]"
+- "[[H1004N]]"
+- "[[H0905G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 38:5**<big><big>[[Exod.38.1 The Bronze Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he cast four rings for the four ends of the grate of brass, [to be] places for the staves.
 <small><sub>**BSB:**</sub></small>
 At the four corners of the bronze grate he cast four rings as holders for the poles.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3332H\|יִּצֹ֞ק]] [[H0702\|אַרְבַּ֧ע]] [[H2885\|טַבָּעֹ֛ת]] [[H9003\|בְּ]][[H0702\|אַרְבַּ֥ע]] [[H9009\|הַ]][[H7117\|קְּצָוֹ֖ת]] [[H9005\|לְ]][[H4345\|מִכְבַּ֣ר]] [[H9009\|הַ]][[H5178A\|נְּחֹ֑שֶׁת]] [[H1004N\|בָּתִּ֖ים]] [[H9005\|לַ]][[H0905G\|בַּדִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic BEZALEL|BEZALEL]] • [[topic GRATE|GRATE]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.4|<< Exodus 38:4]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.6|Exodus 38:6 >>]]</td></tr></table>
 

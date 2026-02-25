@@ -1,8 +1,68 @@
+---
+title: 1 Kings 13:7
+type: Verse
+kjv: "And the king said unto the man of God, Come home with me, and refresh thyself, and I will give thee a reward."
+bsb: "Then the king said to the man of God, “Come home with me and refresh yourself, and I will give you a reward.”"
+hebrew: "וַיְדַבֵּ֤ר הַמֶּ֙לֶךְ֙ אֶל־ אִ֣ישׁ הָאֱלֹהִ֔ים בֹּאָה־ אִתִּ֥י הַבַּ֖יְתָה וּֽסְעָ֑דָה וְאֶתְּנָ֥ה לְךָ֖ מַתָּֽת׃"
+pericope: "[[1Kgs.13.1 Jeroboam’s Hand Withers|Jeroboam’s Hand Withers]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 13
+book/chapter: "[[1Kgs.13|1 Kings 13]]"
+chronological_order: 552
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H0430G]]"
+- "[[H0935G]]"
+- "[[H9012]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H1004B]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H5582]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H4991]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 13:7**<big><big>[[1Kgs.13.1 Jeroboam’s Hand Withers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king said unto the man of God, Come home with me, and refresh thyself, and I will give thee a reward.
 <small><sub>**BSB:**</sub></small>
 Then the king said to the man of God, “Come home with me and refresh yourself, and I will give you a reward.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֤ר]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0376G\|אִ֣ישׁ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H0935G\|בֹּאָ]][[H9012\|ה]][[H9014\|־]] [[H0854\|אִתִּ֥]][[H9030\|י]] [[H9009\|הַ]][[H1004B\|בַּ֖יְתָ]][[H9011\|ה]] [[H9002\|וּֽ]][[H5582\|סְעָ֑דָ]][[H9012\|ה]] [[H9002\|וְ]][[H5414G\|אֶתְּנָ֥ה]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H4991\|מַתָּֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic JEROBOAM|JEROBOAM]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PROPHETS|PROPHETS]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.13.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.13.6|<< 1 Kings 13:6]]</td><td align="center" style="border:none;">[[1Kgs.13|1 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.13.8|1 Kings 13:8 >>]]</td></tr></table>
 

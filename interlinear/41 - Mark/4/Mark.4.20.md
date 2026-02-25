@@ -1,10 +1,67 @@
+---
+title: Mark 4:20
+type: Verse
+kjv: "And these are they which are sown on good ground; such as hear the word, and receive it, and bring forth fruit, some thirtyfold, some sixty, and some an hundred."
+bsb: "Still others are like the seeds sown on good soil. They hear the word, receive it, and produce a crop—thirtyfold, sixtyfold, or a hundredfold.”"
+jesus_said: "And these are they which are sown on good ground; such as hear the word, and receive it, and bring forth fruit, some thirtyfold, some sixty, and some an hundred."
+greek: "καὶ ἐκεῖνοί εἰσιν οἱ ἐπὶ τὴν γῆν τὴν καλὴν σπαρέντες, οἵτινες ἀκούουσιν τὸν λόγον καὶ παραδέχονται καὶ καρποφοροῦσιν ἓν τριάκοντα καὶ ἓν ἑξήκοντα καὶ ἓν ἑκατόν.¶"
+pericope: "[[Mark.4.13 The Parable of the Sower Explained|The Parable of the Sower Explained]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 4
+book/chapter: "[[Mark.4|Mark 4]]"
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic SOWER|SOWER]]"
+- "[[topic STABILITY|STABILITY]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G1565]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G1909]]"
+- "[[G1093I]]"
+- "[[G2570G]]"
+- "[[G4687]]"
+- "[[G3748]]"
+- "[[G0191]]"
+- "[[G3056]]"
+- "[[G3858]]"
+- "[[G2592]]"
+- "[[G1520]]"
+- "[[G5144]]"
+- "[[G1835]]"
+- "[[G1540]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 4:20**<big><big>[[Mark.4.13 The Parable of the Sower Explained|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And these are they which are sown on good ground; such as hear the word, and receive [it], and bring forth fruit, some thirtyfold, some sixty, and some an hundred.
 <small><sub>**BSB:**</sub></small>
 Still others are like the seeds sown on good soil. They hear the word, receive it, and produce a crop—thirtyfold, sixtyfold, or a hundredfold.”
-<small><sub>**Literal:**</sub></small>
-And those are those upon the soil <the> good having been sown, such as hear the word and receive [it] and bring forth fruit one thirtyfold and one sixty and one a hundred.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.19|<< Mark 4:19]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.21|Mark 4:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1565\|ἐκεῖνοί]]  [[G1510\|εἰσιν]]  [[G3588\|οἱ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G1093I\|γῆν]]  [[G3588\|τὴν]]  [[G2570G\|καλὴν]]  [[G4687\|σπαρέντες,]]  [[G3748\|οἵτινες]]  [[G0191\|ἀκούουσιν]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G2532\|καὶ]]  [[G3858\|παραδέχονται]]  [[G2532\|καὶ]]  [[G2592\|καρποφοροῦσιν]]  [[G1520\|ἓν]]  [[G5144\|τριάκοντα]]  [[G2532\|καὶ]]  [[G1520\|ἓν]]  [[G1835\|ἑξήκοντα]]  [[G2532\|καὶ]]  [[G1520\|ἓν]]  [[G1540\|ἑκατόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REGENERATION|REGENERATION]] • [[topic SERMON|SERMON]] • [[topic SOWER|SOWER]] • [[topic STABILITY|STABILITY]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.19|<< Mark 4:19]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.21|Mark 4:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

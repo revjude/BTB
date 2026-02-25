@@ -1,8 +1,62 @@
+---
+title: Proverbs 1:30
+type: Verse
+kjv: "They would none of my counsel: they despised all my reproof."
+bsb: "They accepted none of my counsel; they despised all my reproof."
+hebrew: "לֹא־ אָב֥וּ לַעֲצָתִ֑י נָ֝אֲצ֗וּ כָּל־ תּוֹכַחְתִּֽי׃"
+pericope: "[[Prov.1.20 Wisdom Calls Aloud|Wisdom Calls Aloud]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 1
+book/chapter: "[[Prov.1|Proverbs 1]]"
+chronological_order: 456
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic COUNSEL|COUNSEL]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0014]]"
+- "[[H9005]]"
+- "[[H6098]]"
+- "[[H9020]]"
+- "[[H5006]]"
+- "[[H3605]]"
+- "[[H8433B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 1:30**<big><big>[[Prov.1.20 Wisdom Calls Aloud|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They would none of my counsel: they despised all my reproof.
 <small><sub>**BSB:**</sub></small>
 They accepted none of my counsel; they despised all my reproof.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H0014\|אָב֥וּ]] [[H9005\|לַ]][[H6098\|עֲצָתִ֑]][[H9020\|י]] [[H5006\|נָ֝אֲצ֗וּ]] [[H3605\|כָּל]][[H9014\|־]] [[H8433B\|תּוֹכַחְתִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLINDNESS|BLINDNESS]] • [[topic COUNSEL|COUNSEL]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REPENTANCE|REPENTANCE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WISDOM|WISDOM]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.1.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.29|<< Proverbs 1:29]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.31|Proverbs 1:31 >>]]</td></tr></table>
 

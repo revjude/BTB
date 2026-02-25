@@ -1,8 +1,70 @@
+---
+title: Leviticus 9:24
+type: Verse
+kjv: "And there came a fire out from before the LORD, and consumed upon the altar the burnt offering and the fat: which when all the people saw, they shouted, and fell on their faces."
+bsb: "Fire came out from the presence of the LORD and consumed the burnt offering and the fat portions on the altar. And when all the people saw it, they shouted for joy and fell facedown."
+hebrew: "וַתֵּ֤צֵא אֵשׁ֙ מִלִּפְנֵ֣י יְהוָ֔ה וַתֹּ֙אכַל֙ עַל־ הַמִּזְבֵּ֔חַ אֶת־ הָעֹלָ֖ה וְאֶת־ הַחֲלָבִ֑ים וַיַּ֤רְא כָּל־ הָעָם֙ וַיָּרֹ֔נּוּ וַֽיִּפְּל֖וּ עַל־ פְּנֵיהֶֽם׃"
+pericope: "[[Lev.9.1 Aaron’s First Offerings|Aaron’s First Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 9
+book/chapter: "[[Lev.9|Leviticus 9]]"
+chronological_order: 141
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318L]]"
+- "[[H0784]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H0398]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H0853]]"
+- "[[H5930A]]"
+- "[[H9002]]"
+- "[[H2459]]"
+- "[[H7200G]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H7442B]]"
+- "[[H5307G]]"
+- "[[H6440H]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 9:24**<big><big>[[Lev.9.1 Aaron’s First Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there came a fire out from before the LORD, and consumed upon the altar the burnt offering and the fat: [which] when all the people saw, they shouted, and fell on their faces.
 <small><sub>**BSB:**</sub></small>
 Fire came out from the presence of the LORD and consumed the burnt offering and the fat portions on the altar. And when all the people saw it, they shouted for joy and fell facedown.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318L\|תֵּ֤צֵא]] [[H0784\|אֵשׁ֙]] [[H9006\|מִ]][[H9005\|לִּ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H0398\|תֹּ֙אכַל֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֔חַ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5930A\|עֹלָ֖ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2459\|חֲלָבִ֑ים]] [[H9001\|וַ]][[H7200G\|יַּ֤רְא]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H9001\|וַ]][[H7442B\|יָּרֹ֔נּוּ]] [[H9001\|וַֽ]][[H5307G\|יִּפְּל֖וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פְּנֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.9.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.9.23|<< Leviticus 9:23]]</td><td align="center" style="border:none;">[[Lev.9|Leviticus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.10.1|Leviticus 10:1 >>]]</td></tr></table>
 

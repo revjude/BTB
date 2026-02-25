@@ -1,8 +1,62 @@
+---
+title: Daniel 8:2
+type: Verse
+kjv: "And I saw in a vision; and it came to pass, when I saw, that I was at Shushan in the palace, which is in the province of Elam; and I saw in a vision, and I was by the river of Ulai."
+bsb: "And in the vision I saw myself in the citadel of Susa, in the province of Elam. I saw in the vision that I was beside the Ulai Canal."
+hebrew: "וָֽאֶרְאֶה֮ בֶּחָזוֹן֒ וַיְהִי֙ בִּרְאֹתִ֔י וַאֲנִי֙ בְּשׁוּשַׁ֣ן הַבִּירָ֔ה אֲשֶׁ֖ר בְּעֵילָ֣ם הַמְּדִינָ֑ה וָאֶרְאֶה֙ בֶּֽחָז֔וֹן וַאֲנִ֥י הָיִ֖יתִי עַל־ אוּבַ֥ל אוּלָֽי׃"
+pericope: "[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|Daniel’s Vision of the Ram and the Goat]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 8
+book/chapter: "[[Dan.8|Daniel 8]]"
+chronological_order: 844
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ELAM|ELAM]]"
+- "[[topic PALACE|PALACE]]"
+- "[[topic ULAI|ULAI]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H2377]]"
+- "[[H1961]]"
+- "[[H9040]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H7800]]"
+- "[[H9009]]"
+- "[[H1002]]"
+- "[[H0834A]]"
+- "[[H5867A]]"
+- "[[H4082]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0180]]"
+- "[[H0195]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 8:2**<big><big>[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I saw in a vision; and it came to pass, when I saw, that I [was] at Shushan [in] the palace, which [is] in the province of Elam; and I saw in a vision, and I was by the river of Ulai.
 <small><sub>**BSB:**</sub></small>
 And in the vision I saw myself in the citadel of Susa, in the province of Elam. I saw in the vision that I was beside the Ulai Canal.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָֽ]][[H7200G\|אֶרְאֶה֮]] [[H9003\|בֶּ]][[H2377\|חָזוֹן֒]] [[H9001\|וַ]][[H1961\|יְהִי֙]] [[H9003\|בִּ]][[H7200G\|רְאֹתִ֔]][[H9040\|י]] [[H9002\|וַ]][[H0589\|אֲנִי֙]] [[H9003\|בְּ]][[H7800\|שׁוּשַׁ֣ן]] [[H9009\|הַ]][[H1002\|בִּירָ֔ה]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בְּ]][[H5867A\|עֵילָ֣ם]] [[H9009\|הַ]][[H4082\|מְּדִינָ֑ה]] [[H9001\|וָ]][[H7200G\|אֶרְאֶה֙]] [[H9003\|בֶּֽ]][[H2377\|חָז֔וֹן]] [[H9002\|וַ]][[H0589\|אֲנִ֥י]] [[H1961\|הָיִ֖יתִי]] [[H5921A\|עַל]][[H9014\|־]] [[H0180\|אוּבַ֥ל]] [[H0195\|אוּלָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELAM|ELAM]] • [[topic PALACE|PALACE]] • [[topic ULAI|ULAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.1|<< Daniel 8:1]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.3|Daniel 8:3 >>]]</td></tr></table>
 

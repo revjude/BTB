@@ -1,10 +1,60 @@
+---
+title: Romans 1:8
+type: Verse
+kjv: "First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world."
+bsb: "First, I thank my God through Jesus Christ for all of you, because your faith is being proclaimed all over the world."
+greek: "Πρῶτον μὲν εὐχαριστῶ τῷ θεῷ μου διὰ Ἰησοῦ Χριστοῦ περὶ πάντων ὑμῶν ὅτι ἡ πίστις ὑμῶν καταγγέλλεται ἐν ὅλῳ τῷ κόσμῳ·"
+pericope: "[[Rom.1.8 Unashamed of the Gospel|Unashamed of the Gospel]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 1
+book/chapter: "[[Rom.1|Romans 1]]"
+chronological_order: 1087
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G4413G]]"
+- "[[G3303]]"
+- "[[G2168]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3165]]"
+- "[[G1223]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G4012]]"
+- "[[G3956]]"
+- "[[G4771]]"
+- "[[G3754H]]"
+- "[[G4102G]]"
+- "[[G2605]]"
+- "[[G1722]]"
+- "[[G3650]]"
+- "[[G2889]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Romans 1:8**<big><big>[[Rom.1.8 Unashamed of the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world.
 <small><sub>**BSB:**</sub></small>
 First, I thank my God through Jesus Christ for all of you, because your faith is being proclaimed all over the world.
-<small><sub>**Literal:**</sub></small>
-First indeed I thank the God of mine through Jesus Christ for all of you because the faith of you is being proclaimed in all the world;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.7|<< Romans 1:7]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.9|Romans 1:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4413G\|Πρῶτον]]  [[G3303\|μὲν]]  [[G2168\|εὐχαριστῶ]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G3165\|μου]]  [[G1223\|διὰ]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G4012\|περὶ]]  [[G3956\|πάντων]]  [[G4771\|ὑμῶν]]  [[G3754H\|ὅτι]]  [[G3588\|ἡ]]  [[G4102G\|πίστις]]  [[G4771\|ὑμῶν]]  [[G2605\|καταγγέλλεται]]  [[G1722\|ἐν]]  [[G3650\|ὅλῳ]]  [[G3588\|τῷ]]  [[G2889\|κόσμῳ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.7|<< Romans 1:7]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.9|Romans 1:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

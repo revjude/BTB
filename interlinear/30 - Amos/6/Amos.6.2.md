@@ -1,8 +1,70 @@
+---
+title: Amos 6:2
+type: Verse
+kjv: "Pass ye unto Calneh, and see; and from thence go ye to Hamath the great: then go down to Gath of the Philistines: be they better than these kingdoms? or their border greater than your border?"
+bsb: "Cross over to Calneh and see; go from there to the great Hamath; then go down to Gath of the Philistines. Are you better than these kingdoms? Is their territory larger than yours?"
+hebrew: "עִבְר֤וּ כַֽלְנֵה֙ וּרְא֔וּ וּלְכ֥וּ מִשָּׁ֖ם חֲמַ֣ת רַבָּ֑ה וּרְד֣וּ גַת־ פְּלִשְׁתּ֗ים הֲטוֹבִים֙ מִן־ הַמַּמְלָכ֣וֹת הָאֵ֔לֶּה אִם־ רַ֥ב גְּבוּלָ֖ם מִגְּבֻלְכֶֽם׃"
+pericope: "[[Amos.6.1 Woe to Those at Ease in Zion|Woe to Those at Ease in Zion]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 6
+book/chapter: "[[Amos.6|Amos 6]]"
+chronological_order: 603
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic CALNEH|CALNEH]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic GATH|GATH]]"
+- "[[topic HAMATH|HAMATH]]"
+- "[[topic RICH, THE|RICH, THE]]"
+strongs:
+- "[[H5674A]]"
+- "[[H3641B]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H1980G]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H2579]]"
+- "[[H3381]]"
+- "[[H1661]]"
+- "[[H9014]]"
+- "[[H6430G]]"
+- "[[H9008]]"
+- "[[H2896A]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H4467]]"
+- "[[H0428]]"
+- "[[H0518I]]"
+- "[[H7227A]]"
+- "[[H1366H]]"
+- "[[H9028]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 6:2**<big><big>[[Amos.6.1 Woe to Those at Ease in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Pass ye unto Calneh, and see; and from thence go ye to Hamath the great: then go down to Gath of the Philistines: [be they] better than these kingdoms? or their border greater than your border?
 <small><sub>**BSB:**</sub></small>
 Cross over to Calneh and see; go from there to the great Hamath; then go down to Gath of the Philistines. Are you better than these kingdoms? Is their territory larger than yours?
+<small><sub>**Hebrew:**</sub></small>
+[[H5674A\|עִבְר֤וּ]] [[H3641B\|כַֽלְנֵה֙]] [[H9002\|וּ]][[H7200G\|רְא֔וּ]] [[H9002\|וּ]][[H1980G\|לְכ֥וּ]] [[H9006\|מִ]][[H8033G\|שָּׁ֖ם]] [[H2579\|חֲמַ֣ת]] [[H2579\|רַבָּ֑ה]] [[H9002\|וּ]][[H3381\|רְד֣וּ]] [[H1661\|גַת]][[H9014\|־]] [[H6430G\|פְּלִשְׁתּ֗ים]] [[H9008\|הֲ]][[H2896A\|טוֹבִים֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4467\|מַּמְלָכ֣וֹת]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H0518I\|אִם]][[H9014\|־]] [[H7227A\|רַ֥ב]] [[H1366H\|גְּבוּלָ֖]][[H9028\|ם]] [[H9006\|מִ]][[H1366H\|גְּבֻלְ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic CALNEH|CALNEH]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic GATH|GATH]] • [[topic HAMATH|HAMATH]] • [[topic RICH, THE|RICH, THE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.6.1|<< Amos 6:1]]</td><td align="center" style="border:none;">[[Amos.6|Amos 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.6.3|Amos 6:3 >>]]</td></tr></table>
 

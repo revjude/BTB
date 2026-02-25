@@ -1,8 +1,66 @@
+---
+title: Psalm 5:9
+type: Verse
+kjv: "For there is no faithfulness in their mouth; their inward part is very wickedness; their throat is an open sepulchre; they flatter with their tongue."
+bsb: "For not a word they speak can be trusted; destruction lies within them. Their throats are open graves; their tongues practice deceit."
+hebrew: "כִּ֤י אֵ֪ין בְּפִ֡יהוּ נְכוֹנָה֮ קִרְבָּ֪ם הַ֫וּ֥וֹת קֶֽבֶר־ פָּת֥וּחַ גְּרוֹנָ֑ם לְ֝שׁוֹנָ֗ם יַחֲלִֽיקוּן׃"
+pericope: "[[Ps.5.1 Give Ear to My Words|Give Ear to My Words]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 5
+book/chapter: "[[Ps.5|Psalm 5]]"
+chronological_order: 340
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SINCERITY|SINCERITY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H9023]]"
+- "[[H3559K]]"
+- "[[H7130H]]"
+- "[[H9028]]"
+- "[[H1942]]"
+- "[[H6913]]"
+- "[[H9014]]"
+- "[[H6605A]]"
+- "[[H1627]]"
+- "[[H3956G]]"
+- "[[H2505B]]"
+- "[[H9013]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 5:9**<big><big>[[Ps.5.1 Give Ear to My Words|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [there is] no faithfulness in their mouth; their inward part [is] very wickedness; their throat [is] an open sepulchre; they flatter with their tongue.
 <small><sub>**BSB:**</sub></small>
 For not a word they speak can be trusted; destruction lies within them. Their throats are open graves; their tongues practice deceit.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H0369\|אֵ֪ין]] [[H9003\|בְּ]][[H6310G\|פִ֡י]][[H9023\|הוּ]] [[H3559K\|נְכוֹנָה֮]] [[H7130H\|קִרְבָּ֪]][[H9028\|ם]] [[H1942\|הַ֫וּ֥וֹת]] [[H6913\|קֶֽבֶר]][[H9014\|־]] [[H6605A\|פָּת֥וּחַ]] [[H1627\|גְּרוֹנָ֑]][[H9028\|ם]] [[H3956G\|לְ֝שׁוֹנָ֗]][[H9028\|ם]] [[H2505B\|יַחֲלִֽיקוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FLATTERY|FLATTERY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SINCERITY|SINCERITY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.5.8|<< Psalms 5:8]]</td><td align="center" style="border:none;">[[Ps.5|Psalms 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.5.10|Psalms 5:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

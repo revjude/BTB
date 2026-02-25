@@ -1,8 +1,59 @@
+---
+title: Psalm 88:8
+type: Verse
+kjv: "Thou hast put away mine acquaintance far from me; thou hast made me an abomination unto them: I am shut up, and I cannot come forth."
+bsb: "You have removed my friends from me; You have made me repulsive to them; I am confined and cannot escape."
+hebrew: "הִרְחַ֥קְתָּ מְיֻדָּעַ֗י מִ֫מֶּ֥נִּי שַׁתַּ֣נִי תוֹעֵב֣וֹת לָ֑מוֹ כָּ֝לֻ֗א וְלֹ֣א אֵצֵֽא׃"
+pericope: "[[Ps.88.1 I Cry Out before You|I Cry Out before You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 88
+book/chapter: "[[Ps.88|Psalm 88]]"
+chronological_order: 516
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+strongs:
+- "[[H7368]]"
+- "[[H3045]]"
+- "[[H9020]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H7896G]]"
+- "[[H8441]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3607]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3318G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 88:8**<big><big>[[Ps.88.1 I Cry Out before You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast put away mine acquaintance far from me; thou hast made me an abomination unto them: [I am] shut up, and I cannot come forth.
 <small><sub>**BSB:**</sub></small>
 You have removed my friends from me; You have made me repulsive to them; I am confined and cannot escape.
+<small><sub>**Hebrew:**</sub></small>
+[[H7368\|הִרְחַ֥קְתָּ]] [[H3045\|מְיֻדָּעַ֗]][[H9020\|י]] [[H4480A\|מִ֫מֶּ֥]][[H9030\|נִּי]] [[H7896G\|שַׁתַּ֣]][[H9030\|נִי]] [[H8441\|תוֹעֵב֣וֹת]] [[H9005\|לָ֑]][[H9038\|מוֹ]] [[H3607\|כָּ֝לֻ֗א]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3318G\|אֵצֵֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FRIENDS|FRIENDS]] • [[topic FRIENDSHIP|FRIENDSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.88.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.88.7|<< Psalms 88:7]]</td><td align="center" style="border:none;">[[Ps.88|Psalms 88]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.88.9|Psalms 88:9 >>]]</td></tr></table>
 

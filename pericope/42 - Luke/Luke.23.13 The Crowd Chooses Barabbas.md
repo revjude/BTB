@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Crowd Chooses Barabbas
+type: Pericope
 pericope: "[[Luke.23.13 The Crowd Chooses Barabbas|The Crowd Chooses Barabbas]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Luke
 chapter: 23
 book/chapter: "[[Luke.23|Luke 23]]"
-genre:
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 12
 verses:
 - "[[Luke.23.13]]"
 - "[[Luke.23.14]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Luke.23.25]]"
 ---
 
-[[Luke.23|Luke 23:13 - Luke 23:25]]
+<small>[[Luke.23|Luke 23:13-25]]</small>
 *The Crowd Chooses Barabbas*
 
 [[Luke.23.13|13]] And Pilate, when he had called together the chief priests and the rulers and the people,

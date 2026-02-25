@@ -1,8 +1,58 @@
+---
+title: Leviticus 25:24
+type: Verse
+kjv: "And in all the land of your possession ye shall grant a redemption for the land."
+bsb: "Thus for every piece of property you possess, you must provide for the redemption of the land."
+hebrew: "וּבְכֹ֖ל אֶ֣רֶץ אֲחֻזַּתְכֶ֑ם גְּאֻלָּ֖ה תִּתְּנ֥וּ לָאָֽרֶץ׃ ס"
+pericope: "[[Lev.25.23 The Law of Redemption|The Law of Redemption]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic LAND|LAND]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H0272]]"
+- "[[H9026]]"
+- "[[H1353]]"
+- "[[H5414K]]"
+- "[[H9005]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Leviticus 25:24**<big><big>[[Lev.25.23 The Law of Redemption|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in all the land of your possession ye shall grant a redemption for the land.
 <small><sub>**BSB:**</sub></small>
 Thus for every piece of property you possess, you must provide for the redemption of the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H3605\|כֹ֖ל]] [[H0776G\|אֶ֣רֶץ]] [[H0272\|אֲחֻזַּתְ]][[H9026\|כֶ֑ם]] [[H1353\|גְּאֻלָּ֖ה]] [[H5414K\|תִּתְּנ֥וּ]] [[H9005\|לָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic JUBILEE|JUBILEE]] • [[topic LAND|LAND]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.23|<< Leviticus 25:23]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.25|Leviticus 25:25 >>]]</td></tr></table>
 
@@ -13,7 +63,7 @@ Thus for every piece of property you possess, you must provide for the redemptio
 | possession your  |**<big>&#8207;[[H0272\|אֲחֻזַּתְ]]&#8207;&#8207;[[H9026\|כֶ֑ם]]&#8207; </big>**| 'a.chu.zat.<small><sup>[[HNcfsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] right of redemption  |**<big>&#8207;[[H1353\|גְּאֻלָּ֖ה]]&#8207; </big>**| ge.'u.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will give  |**<big>&#8207;[[H5414K\|תִּתְּנ֥וּ]]&#8207; </big>**| ti.te.Nu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of the land  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of the land  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.23|<< Leviticus 25:23]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.25|Leviticus 25:25 >>]]</td></tr></table>
 
 

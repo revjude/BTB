@@ -1,10 +1,56 @@
+---
+title: Galatians 5:24
+type: Verse
+kjv: "And they that are Christ’s have crucified the flesh with the affections and lusts."
+bsb: "Those who belong to Christ Jesus have crucified the flesh with its passions and desires."
+greek: "οἱ δὲ τοῦ Χριστοῦ Ἰησοῦ τὴν σάρκα ἐσταύρωσαν σὺν τοῖς παθήμασιν καὶ ταῖς ἐπιθυμίαις."
+pericope: "[[Gal.5.16 Walking by the Spirit|Walking by the Spirit]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 5
+book/chapter: "[[Gal.5|Galatians 5]]"
+chronological_order: 1043
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic AFFECTIONS|AFFECTIONS]]"
+- "[[topic CRUCIFIXION|CRUCIFIXION]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G4561]]"
+- "[[G4717]]"
+- "[[G4862]]"
+- "[[G3804]]"
+- "[[G2532]]"
+- "[[G1939]]"
+texts:
+- NKO
+- NO
+---
+
 **Galatians 5:24**<big><big>[[Gal.5.16 Walking by the Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they that are Christ’s have crucified the flesh with the affections and lusts.
 <small><sub>**BSB:**</sub></small>
 Those who belong to Christ Jesus have crucified the flesh with its passions and desires.
-<small><sub>**Literal:**</sub></small>
-Those now <the> of Christ Jesus the flesh crucified with [its] passions and <the> desires.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.23|<< Galatians 5:23]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.25|Galatians 5:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G3588\|τὴν]]  [[G4561\|σάρκα]]  [[G4717\|ἐσταύρωσαν]]  [[G4862\|σὺν]]  [[G3588\|τοῖς]]  [[G3804\|παθήμασιν]]  [[G2532\|καὶ]]  [[G3588\|ταῖς]]  [[G1939\|ἐπιθυμίαις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFECTIONS|AFFECTIONS]] • [[topic CRUCIFIXION|CRUCIFIXION]] • [[topic HOLINESS|HOLINESS]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.23|<< Galatians 5:23]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.25|Galatians 5:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

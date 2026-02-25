@@ -1,8 +1,69 @@
+---
+title: Daniel 9:4
+type: Verse
+kjv: "And I prayed unto the LORD my God, and made my confession, and said, O Lord, the great and dreadful God, keeping the covenant and mercy to them that love him, and to them that keep his commandments;"
+bsb: "And I prayed to the LORD my God and confessed, “O, Lord, the great and awesome God, who keeps His covenant of loving devotion to those who love Him and keep His commandments,"
+hebrew: "וָֽאֶתְפַּֽלְלָ֛ה לַיהוָ֥ה אֱלֹהַ֖י וָאֶתְוַדֶּ֑ה וָאֹֽמְרָ֗ה אָנָּ֤א אֲדֹנָי֙ הָאֵ֤ל הַגָּדוֹל֙ וְהַנּוֹרָ֔א שֹׁמֵ֤ר הַבְּרִית֙ וְֽהַחֶ֔סֶד לְאֹהֲבָ֖יו וּלְשֹׁמְרֵ֥י מִצְוֹתָֽיו׃"
+pericope: "[[Dan.9.1 Daniel’s Prayer for His People|Daniel’s Prayer for His People]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 9
+book/chapter: "[[Dan.9|Daniel 9]]"
+chronological_order: 845
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6419]]"
+- "[[H9012]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H3034]]"
+- "[[H0559]]"
+- "[[H0577]]"
+- "[[H0136]]"
+- "[[H9009]]"
+- "[[H0410G]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H3372H]]"
+- "[[H8104G]]"
+- "[[H1285]]"
+- "[[H2617A]]"
+- "[[H0157G]]"
+- "[[H9033]]"
+- "[[H4687]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 9:4**<big><big>[[Dan.9.1 Daniel’s Prayer for His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I prayed unto the LORD my God, and made my confession, and said, O Lord, the great and dreadful God, keeping the covenant and mercy to them that love him, and to them that keep his commandments;
 <small><sub>**BSB:**</sub></small>
 And I prayed to the LORD my God and confessed, “O, Lord, the great and awesome God, who keeps His covenant of loving devotion to those who love Him and keep His commandments,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָֽ]][[H6419\|אֶתְפַּֽלְלָ֛]][[H9012\|ה]] [[H9005\|לַ]][[H3068G\|יהוָ֥ה]] [[H0430G\|אֱלֹהַ֖]][[H9020\|י]] [[H9001\|וָ]][[H3034\|אֶתְוַדֶּ֑ה]] [[H9001\|וָ]][[H0559\|אֹֽמְרָ֗]][[H9012\|ה]] [[H0577\|אָנָּ֤א]] [[H0136\|אֲדֹנָי֙]] [[H9009\|הָ]][[H0410G\|אֵ֤ל]] [[H9009\|הַ]][[H1419A\|גָּדוֹל֙]] [[H9002\|וְ]][[H9009\|הַ]][[H3372H\|נּוֹרָ֔א]] [[H8104G\|שֹׁמֵ֤ר]] [[H9009\|הַ]][[H1285\|בְּרִית֙]] [[H9002\|וְֽ]][[H9009\|הַ]][[H2617A\|חֶ֔סֶד]] [[H9005\|לְ]][[H0157G\|אֹהֲבָ֖י]][[H9033\|ו]] [[H9002\|וּ]][[H9005\|לְ]][[H8104G\|שֹׁמְרֵ֥י]] [[H4687\|מִצְוֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NATION|NATION]] • [[topic PROPHETS|PROPHETS]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.3|<< Daniel 9:3]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.5|Daniel 9:5 >>]]</td></tr></table>
 

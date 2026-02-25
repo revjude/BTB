@@ -1,10 +1,62 @@
+---
+title: 1 Thessalonians 5:9
+type: Verse
+kjv: "For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,"
+bsb: "For God has not appointed us to suffer wrath, but to obtain salvation through our Lord Jesus Christ."
+greek: "ὅτι οὐκ ἔθετο ἡμᾶς ὁ θεὸς εἰς ὀργὴν ἀλλ᾽ εἰς περιποίησιν σωτηρίας διὰ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ"
+pericope: "[[1Thess.5.1 The Day of the Lord|The Day of the Lord]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 5
+book/chapter: "[[1Thess.5|1 Thessalonians 5]]"
+chronological_order: 1052
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SUFFERING|SUFFERING]]"
+strongs:
+- "[[G3754H]]"
+- "[[G3756]]"
+- "[[G5087]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1519]]"
+- "[[G3709]]"
+- "[[G0235]]"
+- "[[G4047]]"
+- "[[G4991]]"
+- "[[G1223]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+texts:
+- NKO
+---
+
 **1 Thessalonians 5:9**<big><big>[[1Thess.5.1 The Day of the Lord|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,
 <small><sub>**BSB:**</sub></small>
 For God has not appointed us to suffer wrath, but to obtain salvation through our Lord Jesus Christ.
-<small><sub>**Literal:**</sub></small>
-because not has destined us <the> God for wrath but for obtaining salvation through the Lord of us Jesus Christ<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.8|<< 1 Thessalonians 5:8]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.10|1 Thessalonians 5:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G3756\|οὐκ]]  [[G5087\|ἔθετο]]  [[G3165\|ἡμᾶς]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1519\|εἰς]]  [[G3709\|ὀργὴν]]  [[G0235\|ἀλλ᾽]]  [[G1519\|εἰς]]  [[G4047\|περιποίησιν]]  [[G4991\|σωτηρίας]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic DEATH|DEATH]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic SUFFERING|SUFFERING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.8|<< 1 Thessalonians 5:8]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.10|1 Thessalonians 5:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

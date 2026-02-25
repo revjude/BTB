@@ -1,8 +1,58 @@
+---
+title: Deuteronomy 5:2
+type: Verse
+kjv: "The LORD our God made a covenant with us in Horeb."
+bsb: "The LORD our God made a covenant with us at Horeb."
+hebrew: "יְהוָ֣ה אֱלֹהֵ֗ינוּ כָּרַ֥ת עִמָּ֛נוּ בְּרִ֖ית בְּחֹרֵֽב׃"
+pericope: "[[Deut.5.1 The Covenant at Horeb|The Covenant at Horeb]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 5
+book/chapter: "[[Deut.5|Deuteronomy 5]]"
+chronological_order: 201
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic HOREB|HOREB]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H3772H]]"
+- "[[H5973A]]"
+- "[[H9035]]"
+- "[[H1285]]"
+- "[[H9003]]"
+- "[[H2722]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 5:2**<big><big>[[Deut.5.1 The Covenant at Horeb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD our God made a covenant with us in Horeb.
 <small><sub>**BSB:**</sub></small>
 The LORD our God made a covenant with us at Horeb.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵ֗י]][[H9025\|נוּ]] [[H3772H\|כָּרַ֥ת]] [[H5973A\|עִמָּ֛]][[H9035\|נוּ]] [[H1285\|בְּרִ֖ית]] [[H9003\|בְּ]][[H2722\|חֹרֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic HOREB|HOREB]] • [[topic LAW|LAW]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.1|<< Deuteronomy 5:1]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.3|Deuteronomy 5:3 >>]]</td></tr></table>
 

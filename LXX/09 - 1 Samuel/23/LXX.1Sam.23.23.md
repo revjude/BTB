@@ -1,6 +1,72 @@
+---
+title: LXX 1 Samuel 23:23
+type: Verse
+lxx: "And look and know of all the places where he hides there! And return to me at ready! and I shall go with you. And it will be if he is in the land, that I shall search him out among all the thousands of Judah."
+greek: "και ίδετε και γνώτε εκ πάντων των τόπων όπου αυτός κρύπτεται εκεί και επιστρέψατε προς με εις έτοιμον και πορεύσομαι μεθ΄ υμών και έσται ει έστιν επί της γης και εξερευνήσω αυτόν εν πάσαις χιλιάσιν Ιούδα"
+original_language: Greek
+testament: Old
+book: 1 Samuel
+chapter: 23
+book/chapter: "[[1Sam.23|1 Samuel 23]]"
+chronological_order: 302
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic MALICE|MALICE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492]]"
+- "[[G2532]]"
+- "[[G1097]]"
+- "[[G1537]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G5117]]"
+- "[[G3699]]"
+- "[[G1473]]"
+- "[[G2928]]"
+- "[[G1563]]"
+- "[[G2532]]"
+- "[[G1994]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G2092]]"
+- "[[G2532]]"
+- "[[G4198]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G1487]]"
+- "[[G1510]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G2532]]"
+- "[[G1830]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G5505]]"
+- "[[G2448]]"
+---
+
 **LXX 1 Samuel 23:23** 
 <small><sub>**LXX:**</sub></small>
 And look and know of all the places where he hides there! And return to me at ready! and I shall go with you. And it will be if he is in the land, that I shall search him out among all \[the\] thousands of Judah. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1492\|ίδετε]] [[G2532\|και]] [[G1097\|γνώτε]] [[G1537\|εκ]] [[G3956\|πάντων]] [[G3588\|των]] [[G5117\|τόπων]] [[G3699\|όπου]] [[G1473\|αυτός]] [[G2928\|κρύπτεται]] [[G1563\|εκεί]] [[G2532\|και]] [[G1994\|επιστρέψατε]] [[G4314\|προς]] [[G1473\|με]] [[G1519\|εις]] [[G2092\|έτοιμον]] [[G2532\|και]] [[G4198\|πορεύσομαι]] [[G3326\|μεθ΄]] [[G1473\|υμών]] [[G2532\|και]] [[G1510\|έσται]] [[G1487\|ει]] [[G1510\|έστιν]] [[G1909\|επί]] [[G3588\|της]] [[G1093\|γης]] [[G2532\|και]] [[G1830\|εξερευνήσω]] [[G1473\|αυτόν]] [[G1722\|εν]] [[G3956\|πάσαις]] [[G5505\|χιλιάσιν]] [[G2448\|Ιούδα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic MALICE|MALICE]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Sam.23.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.22|<< 1 Samuel 23:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.24|1 Samuel 23:24 >>]]</td></tr></table>
 
@@ -42,6 +108,6 @@ And look and know of all the places where he hides there! And return to me at re
 | all | **<big>[[G3956\|πάσαις]]</big>** |
 | \[the\] thousands | **<big>[[G5505\|χιλιάσιν]]</big>** |
 | of Judah. | **<big>[[G2448\|Ιούδα]]</big>** |
-[[1Sam.23.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.22|<< 1 Samuel 23:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.24|1 Samuel 23:24 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.22|<< 1 Samuel 23:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.24|1 Samuel 23:24 >>]]</td></tr></table>
 
 

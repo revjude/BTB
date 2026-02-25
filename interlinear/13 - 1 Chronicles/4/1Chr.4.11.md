@@ -1,8 +1,56 @@
+---
+title: 1 Chronicles 4:11
+type: Verse
+kjv: "And Chelub the brother of Shuah begat Mehir, which was the father of Eshton."
+bsb: "Chelub the brother of Shuhah was the father of Mehir, who was the father of Eshton."
+hebrew: "וּכְל֥וּב אֲחִֽי־ שׁוּחָ֖ה הוֹלִ֣יד אֶת־ מְחִ֑יר ה֖וּא אֲבִ֥י אֶשְׁתּֽוֹן׃"
+pericope: "[[1Chr.4.11 More Descendants of Judah|More Descendants of Judah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 4
+book/chapter: "[[1Chr.4|1 Chronicles 4]]"
+chronological_order: 323
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic CHELUB|CHELUB]]"
+- "[[topic ESHTON|ESHTON]]"
+- "[[topic HUSHAH|HUSHAH]]"
+- "[[topic MEHIR|MEHIR]]"
+- "[[topic SHUAH|SHUAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H3620G]]"
+- "[[H0251G]]"
+- "[[H9014]]"
+- "[[H7746]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H4243]]"
+- "[[H1931]]"
+- "[[H0001G]]"
+- "[[H0850]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 4:11**<big><big>[[1Chr.4.11 More Descendants of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Chelub the brother of Shuah begat Mehir, which [was] the father of Eshton.
 <small><sub>**BSB:**</sub></small>
 Chelub the brother of Shuhah was the father of Mehir, who was the father of Eshton.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H3620G\|כְל֥וּב]] [[H0251G\|אֲחִֽי]][[H9014\|־]] [[H7746\|שׁוּחָ֖ה]] [[H3205\|הוֹלִ֣יד]] [[H0853\|אֶת]][[H9014\|־]] [[H4243\|מְחִ֑יר]] [[H1931\|ה֖וּא]] [[H0001G\|אֲבִ֥י]] [[H0850\|אֶשְׁתּֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHELUB|CHELUB]] • [[topic ESHTON|ESHTON]] • [[topic HUSHAH|HUSHAH]] • [[topic MEHIR|MEHIR]] • [[topic SHUAH|SHUAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.10|<< 1 Chronicles 4:10]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.12|1 Chronicles 4:12 >>]]</td></tr></table>
 

@@ -3,7 +3,7 @@
 
 → Built
 
-- By Noah [[Gen.6.13|Ge 6:13]]-[[Gen.6.22|22]]
+- By Noah [[Gen.6.13|Ge 6:13-22]]
 
 - By Solomon [[1Kgs.9.26|1Ki 9:26]]; [[2Chr.8.17|2Ch 8:17]]
 
@@ -55,7 +55,7 @@
 
 → Repaired by caulking [[Ezek.27.9|Eze 27:9]]
 
-→ Wrecked at Ezion-geber [[1Kgs.22.48|1Ki 22:48]]; [[2Chr.20.35|2Ch 20:35]]-[[2Chr.20.37|37]]
+→ Wrecked at Ezion-geber [[1Kgs.22.48|1Ki 22:48]]; [[2Chr.20.35|2Ch 20:35-37]]
 
 → At Melita (Malta) [[Acts.27.14|Ac 27:14]],[[Acts.27.44|44]]
 

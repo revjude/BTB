@@ -1,8 +1,61 @@
+---
+title: Genesis 31:44
+type: Verse
+kjv: "Now therefore come thou, let us make a covenant, I and thou; and let it be for a witness between me and thee."
+bsb: "Come now, let us make a covenant, you and I, and let it serve as a witness between you and me.”"
+hebrew: "וְעַתָּ֗ה לְכָ֛ה נִכְרְתָ֥ה בְרִ֖ית אֲנִ֣י וָאָ֑תָּה וְהָיָ֥ה לְעֵ֖ד בֵּינִ֥י וּבֵינֶֽךָ׃"
+pericope: "[[Gen.31.43 Jacob’s Covenant with Laban|Jacob’s Covenant with Laban]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic LABAN|LABAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H1980K]]"
+- "[[H9012]]"
+- "[[H3772H]]"
+- "[[H1285]]"
+- "[[H0589]]"
+- "[[H0859A]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H5707]]"
+- "[[H0996G]]"
+- "[[H9030]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 31:44**<big><big>[[Gen.31.43 Jacob’s Covenant with Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore come thou, let us make a covenant, I and thou; and let it be for a witness between me and thee.
 <small><sub>**BSB:**</sub></small>
 Come now, let us make a covenant, you and I, and let it serve as a witness between you and me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H1980K\|לְכָ֛]][[H9012\|ה]] [[H3772H\|נִכְרְתָ֥ה]] [[H1285\|בְרִ֖ית]] [[H0589\|אֲנִ֣י]] [[H9002\|וָ]][[H0859A\|אָ֑תָּה]] [[H9001\|וְ]][[H1961\|הָיָ֥ה]] [[H9005\|לְ]][[H5707\|עֵ֖ד]] [[H0996G\|בֵּינִ֥]][[H9030\|י]] [[H9002\|וּ]][[H0996G\|בֵינֶֽ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic COVENANT|COVENANT]] • [[topic LABAN|LABAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.43|<< Genesis 31:43]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.45|Genesis 31:45 >>]]</td></tr></table>
 

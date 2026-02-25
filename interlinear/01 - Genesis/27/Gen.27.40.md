@@ -1,8 +1,70 @@
+---
+title: Genesis 27:40
+type: Verse
+kjv: "And by thy sword shalt thou live, and shalt serve thy brother; and it shall come to pass when thou shalt have the dominion, that thou shalt break his yoke from off thy neck."
+bsb: "You shall live by the sword and serve your brother. But when you rebel, you will tear his yoke from your neck.”"
+hebrew: "וְעַל־ חַרְבְּךָ֣ תִֽחְיֶ֔ה וְאֶת־ אָחִ֖יךָ תַּעֲבֹ֑ד וְהָיָה֙ כַּאֲשֶׁ֣ר תָּרִ֔יד וּפָרַקְתָּ֥ עֻלּ֖וֹ מֵעַ֥ל צַוָּארֶֽךָ׃"
+pericope: "[[Gen.27.30 Esau’s Lost Hope|Esau’s Lost Hope]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic SWORD|SWORD]]"
+strongs:
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2719]]"
+- "[[H9021]]"
+- "[[H2421]]"
+- "[[H0853]]"
+- "[[H0251G]]"
+- "[[H5647G]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H7300]]"
+- "[[H6561]]"
+- "[[H5923]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H6677A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:40**<big><big>[[Gen.27.30 Esau’s Lost Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And by thy sword shalt thou live, and shalt serve thy brother; and it shall come to pass when thou shalt have the dominion, that thou shalt break his yoke from off thy neck.
 <small><sub>**BSB:**</sub></small>
 You shall live by the sword and serve your brother. But when you rebel, you will tear his yoke from your neck.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H2719\|חַרְבְּ]][[H9021\|ךָ֣]] [[H2421\|תִֽחְיֶ֔ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0251G\|אָחִ֖י]][[H9021\|ךָ]] [[H5647G\|תַּעֲבֹ֑ד]] [[H9001\|וְ]][[H1961\|הָיָה֙]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H7300\|תָּרִ֔יד]] [[H9001\|וּ]][[H6561\|פָרַקְתָּ֥]] [[H5923\|עֻלּ֖]][[H9023\|וֹ]] [[H9006\|מֵ]][[H5921A\|עַ֥ל]] [[H6677A\|צַוָּארֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic DEATH|DEATH]] • [[topic EDOMITES|EDOMITES]] • [[topic FAMILY|FAMILY]] • [[topic ISAAC|ISAAC]] • [[topic ISRAEL|ISRAEL]] • [[topic PARENTS|PARENTS]] • [[topic SWORD|SWORD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.39|<< Genesis 27:39]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.41|Genesis 27:41 >>]]</td></tr></table>
 

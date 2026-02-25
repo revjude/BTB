@@ -1,8 +1,68 @@
+---
+title: Exodus 35:2
+type: Verse
+kjv: "Six days shall work be done, but on the seventh day there shall be to you an holy day, a sabbath of rest to the LORD: whosoever doeth work therein shall be put to death."
+bsb: "For six days work may be done, but the seventh day shall be your holy day, a Sabbath of complete rest to the LORD. Whoever does any work on that day must be put to death."
+hebrew: "שֵׁ֣שֶׁת יָמִים֮ תֵּעָשֶׂ֣ה מְלָאכָה֒ וּבַיּ֣וֹם הַשְּׁבִיעִ֗י יִהְיֶ֨ה לָכֶ֥ם קֹ֛דֶשׁ שַׁבַּ֥ת שַׁבָּת֖וֹן לַיהוָ֑ה כָּל־ הָעֹשֶׂ֥ה ב֛וֹ מְלָאכָ֖ה יוּמָֽת׃"
+pericope: "[[Exod.35.1 The Sabbath|The Sabbath]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 35
+book/chapter: "[[Exod.35|Exodus 35]]"
+chronological_order: 127
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H8337]]"
+- "[[H3117G]]"
+- "[[H6213A]]"
+- "[[H4399]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H9009]]"
+- "[[H7637]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H6944G]]"
+- "[[H7676]]"
+- "[[H7677]]"
+- "[[H3068G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9033]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 35:2**<big><big>[[Exod.35.1 The Sabbath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Six days shall work be done, but on the seventh day there shall be to you an holy day, a sabbath of rest to the LORD: whosoever doeth work therein shall be put to death.
 <small><sub>**BSB:**</sub></small>
 For six days work may be done, but the seventh day shall be your holy day, a Sabbath of complete rest to the LORD. Whoever does any work on that day must be put to death.
+<small><sub>**Hebrew:**</sub></small>
+[[H8337\|שֵׁ֣שֶׁת]] [[H3117G\|יָמִים֮]] [[H6213A\|תֵּעָשֶׂ֣ה]] [[H4399\|מְלָאכָה֒]] [[H9002\|וּ]][[H9003\|בַ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֗י]] [[H1961\|יִהְיֶ֨ה]] [[H9005\|לָ]][[H9036\|כֶ֥ם]] [[H6944G\|קֹ֛דֶשׁ]] [[H7676\|שַׁבַּ֥ת]] [[H7677\|שַׁבָּת֖וֹן]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H6213A\|עֹשֶׂ֥ה]] [[H9003\|ב֛]][[H9033\|וֹ]] [[H4399\|מְלָאכָ֖ה]] [[H4191\|יוּמָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INDUSTRY|INDUSTRY]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SABBATH|SABBATH]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.35.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.1|<< Exodus 35:1]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.3|Exodus 35:3 >>]]</td></tr></table>
 

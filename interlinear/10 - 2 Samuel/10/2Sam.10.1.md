@@ -1,8 +1,59 @@
+---
+title: 2 Samuel 10:1
+type: Verse
+kjv: "And it came to pass after this, that the king of the children of Ammon died, and Hanun his son reigned in his stead."
+bsb: "Some time later, the king of the Ammonites died and was succeeded by his son Hanun."
+hebrew: "וַֽיְהִי֙ אַֽחֲרֵי־ כֵ֔ן וַיָּ֕מָת מֶ֖לֶךְ בְּנֵ֣י עַמּ֑וֹן וַיִּמְלֹ֛ךְ חָנ֥וּן בְּנ֖וֹ תַּחְתָּֽיו׃"
+pericope: "[[2Sam.10.1 David’s Messengers Disgraced|David’s Messengers Disgraced]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 10
+book/chapter: "[[2Sam.10|2 Samuel 10]]"
+chronological_order: 404
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic MORTIFICATION|MORTIFICATION]]"
+- "[[topic NAHASH|NAHASH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0310A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H4191]]"
+- "[[H4428G]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H4427A]]"
+- "[[H2586G]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H8478H]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 10:1**<big><big>[[2Sam.10.1 David’s Messengers Disgraced|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass after this, that the king of the children of Ammon died, and Hanun his son reigned in his stead.
 <small><sub>**BSB:**</sub></small>
 Some time later, the king of the Ammonites died and was succeeded by his son Hanun.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H0310A\|אַֽחֲרֵי]][[H9014\|־]] [[H3651C\|כֵ֔ן]] [[H9001\|וַ]][[H4191\|יָּ֕מָת]] [[H4428G\|מֶ֖לֶךְ]] [[H1121G\|בְּנֵ֣י]] [[H5983\|עַמּ֑וֹן]] [[H9001\|וַ]][[H4427A\|יִּמְלֹ֛ךְ]] [[H2586G\|חָנ֥וּן]] [[H1121A\|בְּנ֖]][[H9023\|וֹ]] [[H8478H\|תַּחְתָּֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic MORTIFICATION|MORTIFICATION]] • [[topic NAHASH|NAHASH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.9.13|<< 2 Samuel 9:13]]</td><td align="center" style="border:none;">[[2Sam.10|2 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.10.2|2 Samuel 10:2 >>]]</td></tr></table>
 

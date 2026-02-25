@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 23:8
+type: Verse
+kjv: "And Saul called all the people together to war, to go down to Keilah, to besiege David and his men."
+bsb: "Then Saul summoned all his troops to go to war at Keilah and besiege David and his men."
+hebrew: "וַיְשַׁמַּ֥ע שָׁא֛וּל אֶת־ כָּל־ הָעָ֖ם לַמִּלְחָמָ֑ה לָרֶ֣דֶת קְעִילָ֔ה לָצ֥וּר אֶל־ דָּוִ֖ד וְאֶל־ אֲנָשָֽׁיו׃"
+pericope: "[[1Sam.23.7 Saul Pursues David|Saul Pursues David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 23
+book/chapter: "[[1Sam.23|1 Samuel 23]]"
+chronological_order: 302
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic KEILAH|KEILAH]]"
+- "[[topic MALICE|MALICE]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085I]]"
+- "[[H7586G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H3381]]"
+- "[[H7084]]"
+- "[[H6696A]]"
+- "[[H0413]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H0582]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 23:8**<big><big>[[1Sam.23.7 Saul Pursues David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul called all the people together to war, to go down to Keilah, to besiege David and his men.
 <small><sub>**BSB:**</sub></small>
 Then Saul summoned all his troops to go to war at Keilah and besiege David and his men.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085I\|יְשַׁמַּ֥ע]] [[H7586G\|שָׁא֛וּל]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֑ה]] [[H9005\|לָ]][[H3381\|רֶ֣דֶת]] [[H7084\|קְעִילָ֔ה]] [[H9005\|לָ]][[H6696A\|צ֥וּר]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֖ד]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H0582\|אֲנָשָֽׁי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic DAVID|DAVID]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic KEILAH|KEILAH]] • [[topic MALICE|MALICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.23.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.7|<< 1 Samuel 23:7]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.9|1 Samuel 23:9 >>]]</td></tr></table>
 

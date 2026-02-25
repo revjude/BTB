@@ -1,8 +1,59 @@
+---
+title: Psalm 96:2
+type: Verse
+kjv: "Sing unto the LORD, bless his name; shew forth his salvation from day to day."
+bsb: "Sing to the LORD, bless His name; proclaim His salvation day after day."
+hebrew: "שִׁ֣ירוּ לַ֭יהוָה בָּרֲכ֣וּ שְׁמ֑וֹ בַּשְּׂר֥וּ מִיּֽוֹם־ לְ֝י֗וֹם יְשׁוּעָתֽוֹ׃"
+pericope: "[[Ps.96.1 Sing to the LORD, All the Earth|Sing to the LORD, All the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 96
+book/chapter: "[[Ps.96|Psalm 96]]"
+chronological_order: 523
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H7891]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H1288]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H1319]]"
+- "[[H9006]]"
+- "[[H3117G]]"
+- "[[H9014]]"
+- "[[H3444]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 96:2**<big><big>[[Ps.96.1 Sing to the LORD, All the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sing unto the LORD, bless his name; shew forth his salvation from day to day.
 <small><sub>**BSB:**</sub></small>
 Sing to the LORD, bless His name; proclaim His salvation day after day.
+<small><sub>**Hebrew:**</sub></small>
+[[H7891\|שִׁ֣ירוּ]] [[H9005\|לַ֭]][[H3068G\|יהוָה]] [[H1288\|בָּרֲכ֣וּ]] [[H8034\|שְׁמ֑]][[H9023\|וֹ]] [[H1319\|בַּשְּׂר֥וּ]] [[H9006\|מִ]][[H3117G\|יּֽוֹם]][[H9014\|־]] [[H9005\|לְ֝]][[H3117G\|י֗וֹם]] [[H3444\|יְשׁוּעָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAISE|PRAISE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.96.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.96.1|<< Psalms 96:1]]</td><td align="center" style="border:none;">[[Ps.96|Psalms 96]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.96.3|Psalms 96:3 >>]]</td></tr></table>
 

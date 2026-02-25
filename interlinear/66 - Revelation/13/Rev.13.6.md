@@ -1,10 +1,60 @@
+---
+title: Revelation 13:6
+type: Verse
+kjv: "And he opened his mouth in blasphemy against God, to blaspheme his name, and his tabernacle, and them that dwell in heaven."
+bsb: "And the beast opened its mouth to speak blasphemies against God and to slander His name and His tabernacle—those who dwell in heaven."
+greek: "καὶ ἤνοιξεν τὸ στόμα αὐτοῦ εἰς βλασφημίας πρὸς τὸν θεὸν βλασφημῆσαι τὸ ὄνομα αὐτοῦ καὶ τὴν σκηνὴν αὐτοῦ, καὶ τοὺς ἐν τῷ οὐρανῷ σκηνοῦντας."
+pericope: "[[Rev.13.1 The Beast from the Sea|The Beast from the Sea]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 13
+book/chapter: "[[Rev.13|Revelation 13]]"
+chronological_order: 1180
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G0455]]"
+- "[[G3588]]"
+- "[[G4750]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G0988]]"
+- "[[G4314]]"
+- "[[G2316]]"
+- "[[G0987]]"
+- "[[G3686]]"
+- "[[G4633]]"
+- "[[G1722]]"
+- "[[G3772]]"
+- "[[G4637]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Revelation 13:6**<big><big>[[Rev.13.1 The Beast from the Sea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he opened his mouth in blasphemy against God, to blaspheme his name, and his tabernacle, and them that dwell in heaven.
 <small><sub>**BSB:**</sub></small>
 And the beast opened its mouth to speak blasphemies against God and to slander His name and His tabernacle—those who dwell in heaven.
-<small><sub>**Literal:**</sub></small>
-And it opened the mouth of it unto blasphemies against <the> God to blaspheme the name of Him and the tabernacle of Him, and those in <the> heaven dwelling.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.5|<< Revelation 13:5]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.7|Revelation 13:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0455\|ἤνοιξεν]]  [[G3588\|τὸ]]  [[G4750\|στόμα]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G0988\|βλασφημίας]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G0987\|βλασφημῆσαι]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G4633\|σκηνὴν]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3772\|οὐρανῷ]]  [[G4637\|σκηνοῦντας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic CHURCH|CHURCH]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.5|<< Revelation 13:5]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.7|Revelation 13:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 13:6** is...
 > $\quad$ alluding to: [[LXX.Dan.7.8|Dan 7:8]] ☩ [[LXX.Dan.7.25|Dan 7:25]]

@@ -1,8 +1,79 @@
+---
+title: 1 Kings 19:19
+type: Verse
+kjv: "So he departed thence, and found Elisha the son of Shaphat, who was plowing with twelve yoke of oxen before him, and he with the twelfth: and Elijah passed by him, and cast his mantle upon him."
+bsb: "So Elijah departed and found Elisha son of Shaphat. He was plowing with twelve teams of oxen, and he was with the twelfth team. Elijah passed by him and threw his cloak around him."
+hebrew: "וַיֵּ֣לֶךְ מִ֠שָּׁם וַיִּמְצָ֞א אֶת־ אֱלִישָׁ֤ע בֶּן־ שָׁפָט֙ וְה֣וּא חֹרֵ֔שׁ שְׁנֵים־ עָשָׂ֤ר צְמָדִים֙ לְפָנָ֔יו וְה֖וּא בִּשְׁנֵ֣ים הֶעָשָׂ֑ר וַיַּעֲבֹ֤ר אֵלִיָּ֙הוּ֙ אֵלָ֔יו וַיַּשְׁלֵ֥ךְ אַדַּרְתּ֖וֹ אֵלָֽיו׃"
+pericope: "[[1Kgs.19.19 The Call of Elisha|The Call of Elisha]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 19
+book/chapter: "[[1Kgs.19|1 Kings 19]]"
+chronological_order: 565
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic EXCUSES|EXCUSES]]"
+- "[[topic MANTLE|MANTLE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PLOW|PLOW]]"
+- "[[topic SHAPHAT|SHAPHAT]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H4672]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0477]]"
+- "[[H1121A]]"
+- "[[H8202H]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H2790A]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H6776]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H9009]]"
+- "[[H5674A]]"
+- "[[H0452G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H7993]]"
+- "[[H0155]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 19:19**<big><big>[[1Kgs.19.19 The Call of Elisha|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So he departed thence, and found Elisha the son of Shaphat, who [was] plowing [with] twelve yoke [of oxen] before him, and he with the twelfth: and Elijah passed by him, and cast his mantle upon him.
 <small><sub>**BSB:**</sub></small>
 So Elijah departed and found Elisha son of Shaphat. He was plowing with twelve teams of oxen, and he was with the twelfth team. Elijah passed by him and threw his cloak around him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּ֣לֶךְ]] [[H9006\|מִ֠]][[H8033G\|שָּׁם]] [[H9001\|וַ]][[H4672\|יִּמְצָ֞א]] [[H0853\|אֶת]][[H9014\|־]] [[H0477\|אֱלִישָׁ֤ע]] [[H1121A\|בֶּן]][[H9014\|־]] [[H8202H\|שָׁפָט֙]] [[H9002\|וְ]][[H1931\|ה֣וּא]] [[H2790A\|חֹרֵ֔שׁ]] [[H8147\|שְׁנֵים]][[H9014\|־]] [[H6240\|עָשָׂ֤ר]] [[H6776\|צְמָדִים֙]] [[H9005\|לְ]][[H6440G\|פָנָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H1931\|ה֖וּא]] [[H9003\|בִּ]][[H8147\|שְׁנֵ֣ים]] [[H9009\|הֶ]][[H6240\|עָשָׂ֑ר]] [[H9001\|וַ]][[H5674A\|יַּעֲבֹ֤ר]] [[H0452G\|אֵלִיָּ֙הוּ֙]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H9001\|וַ]][[H7993\|יַּשְׁלֵ֥ךְ]] [[H0155\|אַדַּרְתּ֖]][[H9023\|וֹ]] [[H0413\|אֵלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic BULLOCK|BULLOCK]] • [[topic ELIJAH|ELIJAH]] • [[topic ELISHA|ELISHA]] • [[topic EXCUSES|EXCUSES]] • [[topic MANTLE|MANTLE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PLOW|PLOW]] • [[topic SHAPHAT|SHAPHAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.19.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19.18|<< 1 Kings 19:18]]</td><td align="center" style="border:none;">[[1Kgs.19|1 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.19.20|1 Kings 19:20 >>]]</td></tr></table>
 

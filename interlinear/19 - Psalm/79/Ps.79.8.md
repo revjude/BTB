@@ -1,8 +1,58 @@
+---
+title: Psalm 79:8
+type: Verse
+kjv: "O remember not against us former iniquities: let thy tender mercies speedily prevent us: for we are brought very low."
+bsb: "Do not hold past sins against us; let Your compassion come quickly, for we are brought low."
+hebrew: "אַֽל־ תִּזְכָּר־ לָנוּ֮ עֲוֹנֹ֪ת רִאשֹׁ֫נִ֥ים מַ֭הֵר יְקַדְּמ֣וּנוּ רַחֲמֶ֑יךָ כִּ֖י דַלּ֣וֹנוּ מְאֹֽד׃"
+pericope: "[[Ps.79.1 A Prayer for Deliverance|A Prayer for Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 79
+book/chapter: "[[Ps.79|Psalm 79]]"
+chronological_order: 782
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H2142]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H5771G]]"
+- "[[H7223H]]"
+- "[[H4116A]]"
+- "[[H6923]]"
+- "[[H7356B]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H1809]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 79:8**<big><big>[[Ps.79.1 A Prayer for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O remember not against us former iniquities: let thy tender mercies speedily prevent us: for we are brought very low.
 <small><sub>**BSB:**</sub></small>
 Do not hold past sins against us; let Your compassion come quickly, for we are brought low.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַֽל]][[H9014\|־]] [[H2142\|תִּזְכָּר]][[H9014\|־]] [[H9005\|לָ]][[H9035\|נוּ֮]] [[H5771G\|עֲוֹנֹ֪ת]] [[H7223H\|רִאשֹׁ֫נִ֥ים]] [[H4116A\|מַ֭הֵר]] [[H6923\|יְקַדְּמ֣וּ]][[H9035\|נוּ]] [[H7356B\|רַחֲמֶ֑י]][[H9021\|ךָ]] [[H3588A\|כִּ֖י]] [[H1809\|דַלּ֣וֹנוּ]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.79.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.79.7|<< Psalms 79:7]]</td><td align="center" style="border:none;">[[Ps.79|Psalms 79]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.79.9|Psalms 79:9 >>]]</td></tr></table>
 

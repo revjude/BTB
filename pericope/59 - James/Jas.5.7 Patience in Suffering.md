@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Patience in Suffering
+type: Pericope
 pericope: "[[Jas.5.7 Patience in Suffering|Patience in Suffering]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: James
 chapter: 5
 book/chapter: "[[Jas.5|James 5]]"
-genre:
+chronological_order: 1037
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
 - epistle
 - general epistle
 - wisdom literature
 - ethical instruction
+verse_count: 6
 verses:
 - "[[Jas.5.7]]"
 - "[[Jas.5.8]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Jas.5.12]]"
 ---
 
-[[Jas.5|James 5:7 - James 5:12]]
+<small>[[Jas.5|James 5:7-12]]</small>
 *Patience in Suffering*
 
 [[Jas.5.7|7]] Be patient therefore, brethren, unto the coming of the Lord. Behold, the husbandman waiteth for the precious fruit of the earth, and hath long patience for it, until he receive the early and latter rain.

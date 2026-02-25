@@ -1,10 +1,62 @@
+---
+title: Acts 13:6
+type: Verse
+kjv: "And when they had gone through the isle unto Paphos, they found a certain sorcerer, a false prophet, a Jew, whose name was Barjesus:"
+bsb: "They traveled through the whole island as far as Paphos, where they found a Jewish sorcerer and false prophet named Bar-Jesus,"
+greek: "Διελθόντες δὲ ὅλην τὴν νῆσον ἄχρι Πάφου εὗρον ἄνδρα τινὰ μάγον ψευδοπροφήτην Ἰουδαῖον ᾧ ὄνομα Βαριησοῦ,"
+pericope: "[[Acts.13.4 On Cyprus|On Cyprus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BAR-JESUS|BAR-JESUS]]"
+- "[[topic CYPRUS|CYPRUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAPHOS|PAPHOS]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+strongs:
+- "[[G1330]]"
+- "[[G1161]]"
+- "[[G3650]]"
+- "[[G3588]]"
+- "[[G3520]]"
+- "[[G0891]]"
+- "[[G3974]]"
+- "[[G2147]]"
+- "[[G0435G]]"
+- "[[G5100]]"
+- "[[G3097]]"
+- "[[G5578]]"
+- "[[G2453]]"
+- "[[G3739]]"
+- "[[G3686]]"
+- "[[G0919]]"
+texts:
+- NKO
+- NO
+- N(k)O
+---
+
 **Acts 13:6**<big><big>[[Acts.13.4 On Cyprus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they had gone through the isle unto Paphos, they found a certain sorcerer, a false prophet, a Jew, whose name [was] Barjesus:
 <small><sub>**BSB:**</sub></small>
 They traveled through the whole island as far as Paphos, where they found a Jewish sorcerer and false prophet named Bar-Jesus,
-<small><sub>**Literal:**</sub></small>
-Having passed through now all the island as far as Paphos they found a man — a certain magician a false prophet Jewish — whose name of Bar-Jesus,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.5|<< Acts 13:5]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.7|Acts 13:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1330\|Διελθόντες]]  [[G1161\|δὲ]]  [[G3650\|ὅλην]]  [[G3588\|τὴν]]  [[G3520\|νῆσον]]  [[G0891\|ἄχρι]]  [[G3974\|Πάφου]]  [[G2147\|εὗρον]]  [[G0435G\|ἄνδρα]]  [[G5100\|τινὰ]]  [[G3097\|μάγον]]  [[G5578\|ψευδοπροφήτην]]  [[G2453\|Ἰουδαῖον]]  [[G3739\|ᾧ]]  [[G3686\|ὄνομα]]  [[G0919\|Βαριησοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAR-JESUS|BAR-JESUS]] • [[topic CYPRUS|CYPRUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAPHOS|PAPHOS]] • [[topic PAUL|PAUL]] • [[topic SYNAGOGUE|SYNAGOGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.5|<< Acts 13:5]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.7|Acts 13:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

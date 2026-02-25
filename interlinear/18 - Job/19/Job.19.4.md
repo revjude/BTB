@@ -1,8 +1,52 @@
+---
+title: Job 19:4
+type: Verse
+kjv: "And be it indeed that I have erred, mine error remaineth with myself."
+bsb: "Even if I have truly gone astray, my error concerns me alone."
+hebrew: "וְאַף־ אָמְנָ֥ם שָׁגִ֑יתִי אִ֝תִּ֗י תָּלִ֥ין מְשׁוּגָתִֽי׃"
+pericope: "[[Job.19.1 Job：My Redeemer Lives|Job：My Redeemer Lives]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 19
+book/chapter: "[[Job.19|Job 19]]"
+chronological_order: 30
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0637]]"
+- "[[H9014]]"
+- "[[H0551]]"
+- "[[H7686]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H3885A]]"
+- "[[H4879]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 19:4**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And be it indeed [that] I have erred, mine error remaineth with myself.
 <small><sub>**BSB:**</sub></small>
 Even if I have truly gone astray, my error concerns me alone.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0637\|אַף]][[H9014\|־]] [[H0551\|אָמְנָ֥ם]] [[H7686\|שָׁגִ֑יתִי]] [[H0854\|אִ֝תִּ֗]][[H9030\|י]] [[H3885A\|תָּלִ֥ין]] [[H4879\|מְשׁוּגָתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.3|<< Job 19:3]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.5|Job 19:5 >>]]</td></tr></table>
 

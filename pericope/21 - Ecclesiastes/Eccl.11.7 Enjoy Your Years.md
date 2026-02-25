@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Enjoy Your Years
+type: Pericope
 pericope: "[[Eccl.11.7 Enjoy Your Years|Enjoy Your Years]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Ecclesiastes
 chapter: 11
 book/chapter: "[[Eccl.11|Ecclesiastes 11]]"
-genre:
+chronological_order: 549
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - philosophical
 - megillot
+verse_count: 4
 verses:
 - "[[Eccl.11.7]]"
 - "[[Eccl.11.8]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Eccl.11.10]]"
 ---
 
-[[Eccl.11|Ecclesiastes 11:7 - Ecclesiastes 11:10]]
+<small>[[Eccl.11|Ecclesiastes 11:7-10]]</small>
 *Enjoy Your Years*
 
 [[Eccl.11.7|7]] Truly the light \[is\] sweet, and a pleasant \[thing it is\] for the eyes to behold the sun:

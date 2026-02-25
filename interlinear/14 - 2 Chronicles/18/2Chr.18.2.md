@@ -1,8 +1,59 @@
+---
+title: 2 Chronicles 18:2
+type: Verse
+kjv: "And after certain years he went down to Ahab to Samaria. And Ahab killed sheep and oxen for him in abundance, and for the people that he had with him, and persuaded him to go up with him to Ramothgilead."
+bsb: "And some years later he went down to visit Ahab in Samaria, where Ahab sacrificed many sheep and cattle for him and the people with him and urged him to march up to Ramoth-gilead."
+hebrew: "וַיֵּרֶד֩ לְקֵ֨ץ שָׁנִ֤ים אֶל־ אַחְאָב֙ לְשֹׁ֣מְר֔וֹן וַיִּֽזְבַּֽח־ ל֨וֹ אַחְאָ֜ב צֹ֤אן וּבָקָר֙ לָרֹ֔ב וְלָעָ֖ם אֲשֶׁ֣ר עִמּ֑וֹ וַיְסִיתֵ֕הוּ לַעֲל֖וֹת אֶל־ רָמ֥וֹת גִּלְעָֽד׃"
+pericope: "[[2Chr.18.1 Jehoshaphat Allies with Ahab|Jehoshaphat Allies with Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 18
+book/chapter: "[[2Chr.18|2 Chronicles 18]]"
+chronological_order: 570
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H9005]]"
+- "[[H7093]]"
+- "[[H8141]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0256G]]"
+- "[[H8111]]"
+- "[[H2076]]"
+- "[[H9033]]"
+- "[[H6629G]]"
+- "[[H9002]]"
+- "[[H1241]]"
+- "[[H7230]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H5973A]]"
+- "[[H5496]]"
+- "[[H5927G]]"
+- "[[H7418G]]"
+- "[[H1568M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 18:2**<big><big>[[2Chr.18.1 Jehoshaphat Allies with Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after [certain] years he went down to Ahab to Samaria. And Ahab killed sheep and oxen for him in abundance, and for the people that [he had] with him, and persuaded him to go up [with him] to Ramothgilead.
 <small><sub>**BSB:**</sub></small>
 And some years later he went down to visit Ahab in Samaria, where Ahab sacrificed many sheep and cattle for him and the people with him and urged him to march up to Ramoth-gilead.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3381\|יֵּרֶד֩]] [[H9005\|לְ]][[H7093\|קֵ֨ץ]] [[H8141\|שָׁנִ֤ים]] [[H0413\|אֶל]][[H9014\|־]] [[H0256G\|אַחְאָב֙]] [[H9005\|לְ]][[H8111\|שֹׁ֣מְר֔וֹן]] [[H9001\|וַ]][[H2076\|יִּֽזְבַּֽח]][[H9014\|־]] [[H9005\|ל֨]][[H9033\|וֹ]] [[H0256G\|אַחְאָ֜ב]] [[H6629G\|צֹ֤אן]] [[H9002\|וּ]][[H1241\|בָקָר֙]] [[H9005\|לָ]][[H7230\|רֹ֔ב]] [[H9002\|וְ]][[H9005\|לָ]][[H5971A\|עָ֖ם]] [[H0834A\|אֲשֶׁ֣ר]] [[H5973A\|עִמּ֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H5496\|יְסִיתֵ֕]][[H9033\|הוּ]] [[H9005\|לַ]][[H5927G\|עֲל֖וֹת]] [[H0413\|אֶל]][[H9014\|־]] [[H7418G\|רָמ֥וֹת]] [[H1568M\|גִּלְעָֽד]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.1|<< 2 Chronicles 18:1]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.3|2 Chronicles 18:3 >>]]</td></tr></table>
 

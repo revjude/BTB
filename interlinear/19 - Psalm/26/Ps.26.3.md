@@ -1,8 +1,57 @@
+---
+title: Psalm 26:3
+type: Verse
+kjv: "For thy lovingkindness is before mine eyes: and I have walked in thy truth."
+bsb: "For Your loving devotion is before my eyes, and I have walked in Your truth."
+hebrew: "כִּֽי־ חַ֭סְדְּךָ לְנֶ֣גֶד עֵינָ֑י וְ֝הִתְהַלַּ֗כְתִּי בַּאֲמִתֶּֽךָ׃"
+pericope: "[[Ps.26.1 Vindicate Me, O LORD|Vindicate Me, O LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 26
+book/chapter: "[[Ps.26|Psalm 26]]"
+chronological_order: 358
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2617A]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H5048]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H0571G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 26:3**<big><big>[[Ps.26.1 Vindicate Me, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thy lovingkindness [is] before mine eyes: and I have walked in thy truth.
 <small><sub>**BSB:**</sub></small>
 For Your loving devotion is before my eyes, and I have walked in Your truth.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H2617A\|חַ֭סְדְּ]][[H9021\|ךָ]] [[H9005\|לְ]][[H5048\|נֶ֣גֶד]] [[H5869A\|עֵינָ֑]][[H9020\|י]] [[H9001\|וְ֝]][[H1980I\|הִתְהַלַּ֗כְתִּי]] [[H9003\|בַּ]][[H0571G\|אֲמִתֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTEGRITY|INTEGRITY]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.26.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.26.2|<< Psalms 26:2]]</td><td align="center" style="border:none;">[[Ps.26|Psalms 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.26.4|Psalms 26:4 >>]]</td></tr></table>
 

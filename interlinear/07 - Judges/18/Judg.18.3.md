@@ -1,8 +1,71 @@
+---
+title: Judges 18:3
+type: Verse
+kjv: "When they were by the house of Micah, they knew the voice of the young man the Levite: and they turned in thither, and said unto him, Who brought thee hither? and what makest thou in this place? and what hast thou here?"
+bsb: "And while they were near Micah’s house, they recognized the voice of the young Levite; so they went over and asked him, “Who brought you here? What are you doing in this place? Why are you here?”"
+hebrew: "הֵ֚מָּה עִם־ בֵּ֣ית מִיכָ֔ה וְהֵ֣מָּה הִכִּ֔ירוּ אֶת־ ק֥וֹל הַנַּ֖עַר הַלֵּוִ֑י וַיָּס֣וּרוּ שָׁ֗ם וַיֹּ֤אמְרוּ לוֹ֙ מִֽי־ הֱבִיאֲךָ֣ הֲלֹ֔ם וּמָֽה־ אַתָּ֥ה עֹשֶׂ֛ה בָּזֶ֖ה וּמַה־ לְּךָ֥ פֹֽה׃"
+pericope: "[[Judg.18.1 The Danites Settle in Laish|The Danites Settle in Laish]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 18
+book/chapter: "[[Judg.18|Judges 18]]"
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic RECONNOISSANCE|RECONNOISSANCE]]"
+strongs:
+- "[[H1992]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H4318G]]"
+- "[[H9002]]"
+- "[[H5234A]]"
+- "[[H0853]]"
+- "[[H6963A]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H3881]]"
+- "[[H9001]]"
+- "[[H5493I]]"
+- "[[H8033G]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H4310]]"
+- "[[H0935P]]"
+- "[[H9031]]"
+- "[[H1988]]"
+- "[[H4100]]"
+- "[[H0859A]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H2088]]"
+- "[[H6311]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 18:3**<big><big>[[Judg.18.1 The Danites Settle in Laish|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When they [were] by the house of Micah, they knew the voice of the young man the Levite: and they turned in thither, and said unto him, Who brought thee hither? and what makest thou in this [place]? and what hast thou here?
 <small><sub>**BSB:**</sub></small>
 And while they were near Micah’s house, they recognized the voice of the young Levite; so they went over and asked him, “Who brought you here? What are you doing in this place? Why are you here?”
+<small><sub>**Hebrew:**</sub></small>
+[[H1992\|הֵ֚מָּה]] [[H5973A\|עִם]][[H9014\|־]] [[H1004B\|בֵּ֣ית]] [[H4318G\|מִיכָ֔ה]] [[H9002\|וְ]][[H1992\|הֵ֣מָּה]] [[H5234A\|הִכִּ֔ירוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H6963A\|ק֥וֹל]] [[H9009\|הַ]][[H5288\|נַּ֖עַר]] [[H9009\|הַ]][[H3881\|לֵּוִ֑י]] [[H9001\|וַ]][[H5493I\|יָּס֣וּרוּ]] [[H8033G\|שָׁ֗ם]] [[H9001\|וַ]][[H0559\|יֹּ֤אמְרוּ]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H4310\|מִֽי]][[H9014\|־]] [[H0935P\|הֱבִיאֲ]][[H9031\|ךָ֣]] [[H1988\|הֲלֹ֔ם]] [[H9002\|וּ]][[H4100\|מָֽה]][[H9014\|־]] [[H0859A\|אַתָּ֥ה]] [[H6213A\|עֹשֶׂ֛ה]] [[H9003\|בָּ]][[H2088\|זֶ֖ה]] [[H9002\|וּ]][[H4100\|מַה]][[H9014\|־]] [[H9005\|לְּ]][[H9031\|ךָ֥]] [[H6311\|פֹֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic JONATHAN|JONATHAN]] • [[topic RECONNOISSANCE|RECONNOISSANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.2|<< Judges 18:2]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.4|Judges 18:4 >>]]</td></tr></table>
 

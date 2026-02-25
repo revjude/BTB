@@ -1,10 +1,56 @@
+---
+title: Luke 24:23
+type: Verse
+kjv: "And when they found not his body, they came, saying, that they had also seen a vision of angels, which said that he was alive."
+bsb: "but they did not find His body. They came and told us they had seen a vision of angels, who said that Jesus was alive."
+greek: "καὶ μὴ εὑροῦσαι τὸ σῶμα αὐτοῦ ἦλθον λέγουσαι καὶ ὀπτασίαν ἀγγέλων ἑωρακέναι οἳ λέγουσιν αὐτὸν ζῆν."
+pericope: "[[Luke.24.13 The Road to Emmaus|The Road to Emmaus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G2147]]"
+- "[[G3588]]"
+- "[[G4983]]"
+- "[[G0846]]"
+- "[[G2064]]"
+- "[[G3004G]]"
+- "[[G3701]]"
+- "[[G0032G]]"
+- "[[G3708]]"
+- "[[G3739]]"
+- "[[G2198]]"
+texts:
+- NKO
+---
+
 **Luke 24:23**<big><big>[[Luke.24.13 The Road to Emmaus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they found not his body, they came, saying, that they had also seen a vision of angels, which said that he was alive.
 <small><sub>**BSB:**</sub></small>
 but they did not find His body. They came and told us they had seen a vision of angels, who said that Jesus was alive.
-<small><sub>**Literal:**</sub></small>
-and not having found the body of Him they came declaring also a vision of angels to have seen who say He [is] living.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.22|<< Luke 24:22]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.24|Luke 24:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G2147\|εὑροῦσαι]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G0846\|αὐτοῦ]]  [[G2064\|ἦλθον]]  [[G3004G\|λέγουσαι]]  [[G2532\|καὶ]]  [[G3701\|ὀπτασίαν]]  [[G0032G\|ἀγγέλων]]  [[G3708\|ἑωρακέναι]]  [[G3739\|οἳ]]  [[G3004G\|λέγουσιν]]  [[G0846\|αὐτὸν]]  [[G2198\|ζῆν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.22|<< Luke 24:22]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.24|Luke 24:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,9 +1,68 @@
+---
+title: LXX 2 Kings 17:7
+type: Verse
+lxx: "And it came to pass that the sons of Israel sinned against the lord  their God, the one leading them from out of the land of Egypt, from beneath the hand of Pharaoh king of Egypt, and they feared other gods."
+greek: "και εγένετο ότι ήμαρτον οι υιοί Ισραήλ τω κυρίω τω θεώ αυτών τω αναγαγόντι αυτούς εκ γης Αιγύπτου υποκάτωθεν χειρός Φαραώ βασιλέως Αιγύπτου και εφοβήθησαν θεούς ετέρους"
+original_language: Greek
+testament: Old
+book: 2 Kings
+chapter: 17
+book/chapter: "[[2Kgs.17|2 Kings 17]]"
+chronological_order: 641
+era: Exile
+period: "The Assyrian Crisis and Fall of Israel"
+date: ~722 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G3754]]"
+- "[[G0264]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G2474]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0321]]"
+- "[[G1473]]"
+- "[[G1537]]"
+- "[[G1093]]"
+- "[[G0125]]"
+- "[[G9575]]"
+- "[[G5495]]"
+- "[[G5328]]"
+- "[[G0935]]"
+- "[[G0125]]"
+- "[[G2532]]"
+- "[[G5399]]"
+- "[[G2316]]"
+- "[[G2087]]"
+---
+
 **LXX 2 Kings 17:7** 
 
 ***The LORD Recounts Israel's Sin***
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass that the sons of Israel sinned against the <span class="smallcaps">lord</span>  their God, the one leading them from out of \[the\] land of Egypt, from beneath \[the\] hand of Pharaoh king of Egypt, and they feared other gods. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1096\|εγένετο]] [[G3754\|ότι]] [[G0264\|ήμαρτον]] [[G3588\|οι]] [[G5207\|υιοί]] [[G2474\|Ισραήλ]] [[G3588\|τω]] [[G2962\|κυρίω]] [[G3588\|τω]] [[G2316\|θεώ]] [[G1473\|αυτών]] [[G3588\|τω]] [[G0321\|αναγαγόντι]] [[G1473\|αυτούς]] [[G1537\|εκ]] [[G1093\|γης]] [[G0125\|Αιγύπτου]] [[G9575\|υποκάτωθεν]] [[G5495\|χειρός]] [[G5328\|Φαραώ]] [[G0935\|βασιλέως]] [[G0125\|Αιγύπτου]] [[G2532\|και]] [[G5399\|εφοβήθησαν]] [[G2316\|θεούς]] [[G2087\|ετέρους]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BABYLON|BABYLON]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Kgs.17.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.6|<< 2 Kings 17:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.8|2 Kings 17:8 >>]]</td></tr></table>
 
@@ -35,6 +94,6 @@ And it came to pass that the sons of Israel sinned against the <span class="smal
 | they feared | **<big>[[G5399\|εφοβήθησαν]]</big>** |
 | gods | **<big>[[G2316\|θεούς]]</big>** |
 | other | **<big>[[G2087\|ετέρους]]</big>** |
-[[2Kgs.17.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.6|<< 2 Kings 17:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.8|2 Kings 17:8 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.6|<< 2 Kings 17:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.8|2 Kings 17:8 >>]]</td></tr></table>
 
 

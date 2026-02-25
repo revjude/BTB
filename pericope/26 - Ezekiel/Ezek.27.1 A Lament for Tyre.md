@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Lament for Tyre
+type: Pericope
 pericope: "[[Ezek.27.1 A Lament for Tyre|A Lament for Tyre]]"
-verse_count: 36
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 27
 book/chapter: "[[Ezek.27|Ezekiel 27]]"
-genre:
+chronological_order: 818
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 36
 verses:
 - "[[Ezek.27.1]]"
 - "[[Ezek.27.2]]"
@@ -57,7 +64,7 @@ verses:
 - "[[Ezek.27.36]]"
 ---
 
-[[Ezek.27|Ezekiel 27:1 - Ezekiel 27:36]]
+<small>[[Ezek.27|Ezekiel 27:1-36]]</small>
 *A Lament for Tyre*
 
 [[Ezek.27.1|1]] The word of the LORD came again unto me, saying,

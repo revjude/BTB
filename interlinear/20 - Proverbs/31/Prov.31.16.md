@@ -1,8 +1,57 @@
+---
+title: Proverbs 31:16
+type: Verse
+kjv: "She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard."
+bsb: "She appraises a field and buys it; from her earnings she plants a vineyard."
+hebrew: "זָמְמָ֣ה שָׂ֭דֶה וַתִּקָּחֵ֑הוּ מִפְּרִ֥י כַ֝פֶּ֗יהָ נָ֣טְעָה כָּֽרֶם׃"
+pericope: "[[Prov.31.10 The Virtues of a Noble Woman|The Virtues of a Noble Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 31
+book/chapter: "[[Prov.31|Proverbs 31]]"
+chronological_order: 486
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H2161]]"
+- "[[H7704G]]"
+- "[[H9001]]"
+- "[[H3947K]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H6529]]"
+- "[[H3709G]]"
+- "[[H9024]]"
+- "[[H5193]]"
+- "[[H3754]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Proverbs 31:16**<big><big>[[Prov.31.10 The Virtues of a Noble Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard.
 <small><sub>**BSB:**</sub></small>
 She appraises a field and buys it; from her earnings she plants a vineyard.
+<small><sub>**Hebrew:**</sub></small>
+[[H2161\|זָמְמָ֣ה]] [[H7704G\|שָׂ֭דֶה]] [[H9001\|וַ]][[H3947K\|תִּקָּחֵ֑]][[H9033\|הוּ]] [[H9006\|מִ]][[H6529\|פְּרִ֥י]] [[H3709G\|כַ֝פֶּ֗י]][[H9024\|הָ]] [[H5193\|נָ֣טְעָה]] [[H3754\|כָּֽרֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ECONOMICS|ECONOMICS]] • [[topic INDUSTRY|INDUSTRY]] • [[topic POETRY|POETRY]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.15|<< Proverbs 31:15]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.17|Proverbs 31:17 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 11:1
+type: Verse
+kjv: "Therefore thou shalt love the LORD thy God, and keep his charge, and his statutes, and his judgments, and his commandments, alway."
+bsb: "You shall therefore love the LORD your God and always keep His charge, His statutes, His ordinances, and His commandments."
+hebrew: "וְאָ֣הַבְתָּ֔ אֵ֖ת יְהוָ֣ה אֱלֹהֶ֑יךָ וְשָׁמַרְתָּ֣ מִשְׁמַרְתּ֗וֹ וְחֻקֹּתָ֧יו וּמִשְׁפָּטָ֛יו וּמִצְוֹתָ֖יו כָּל־ הַיָּמִֽים׃"
+pericope: "[[Deut.11.1 Obedience and Discipline|Obedience and Discipline]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 11
+book/chapter: "[[Deut.11|Deuteronomy 11]]"
+chronological_order: 207
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DUTY|DUTY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0157G]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H8104G]]"
+- "[[H4931]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H2708]]"
+- "[[H4941G]]"
+- "[[H4687]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3117K]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 11:1**<big><big>[[Deut.11.1 Obedience and Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thou shalt love the LORD thy God, and keep his charge, and his statutes, and his judgments, and his commandments, alway.
 <small><sub>**BSB:**</sub></small>
 You shall therefore love the LORD your God and always keep His charge, His statutes, His ordinances, and His commandments.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0157G\|אָ֣הַבְתָּ֔]] [[H0853\|אֵ֖ת]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֑י]][[H9021\|ךָ]] [[H9001\|וְ]][[H8104G\|שָׁמַרְתָּ֣]] [[H4931\|מִשְׁמַרְתּ֗]][[H9023\|וֹ]] [[H9002\|וְ]][[H2708\|חֻקֹּתָ֧י]][[H9023\|ו]] [[H9002\|וּ]][[H4941G\|מִשְׁפָּטָ֛י]][[H9023\|ו]] [[H9002\|וּ]][[H4687\|מִצְוֹתָ֖י]][[H9023\|ו]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117K\|יָּמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DUTY|DUTY]] • [[topic LOVE|LOVE]] • [[topic MIRACLES|MIRACLES]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.22|<< Deuteronomy 10:22]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.2|Deuteronomy 11:2 >>]]</td></tr></table>
 

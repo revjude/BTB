@@ -1,10 +1,50 @@
+---
+title: Luke 18:32
+type: Verse
+kjv: "For he shall be delivered unto the Gentiles, and shall be mocked, and spitefully entreated, and spitted on:"
+bsb: "He will be delivered over to the Gentiles and will be mocked and insulted and spit upon."
+jesus_said: "For he shall be delivered unto the Gentiles, and shall be mocked, and spitefully entreated, and spitted on:"
+greek: "παραδοθήσεται γὰρ τοῖς ἔθνεσιν καὶ ἐμπαιχθήσεται καὶ ὑβρισθήσεται καὶ ἐμπτυσθήσεται,"
+pericope: "[[Luke.18.31 The Third Prediction of the Passion|The Third Prediction of the Passion]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 18
+book/chapter: "[[Luke.18|Luke 18]]"
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3860]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G1484]]"
+- "[[G2532]]"
+- "[[G1702]]"
+- "[[G5195]]"
+- "[[G1716]]"
+texts:
+- NKO
+---
+
 **Luke 18:32**<big><big>[[Luke.18.31 The Third Prediction of the Passion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For he shall be delivered unto the Gentiles, and shall be mocked, and spitefully entreated, and spitted on:
 <small><sub>**BSB:**</sub></small>
 He will be delivered over to the Gentiles and will be mocked and insulted and spit upon.
-<small><sub>**Literal:**</sub></small>
-He will be betrayed for to the Gentiles and will be mocked and will be insulted and will be spit upon,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.31|<< Luke 18:31]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.33|Luke 18:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3860\|παραδοθήσεται]]  [[G1063\|γὰρ]]  [[G3588\|τοῖς]]  [[G1484\|ἔθνεσιν]]  [[G2532\|καὶ]]  [[G1702\|ἐμπαιχθήσεται]]  [[G2532\|καὶ]]  [[G5195\|ὑβρισθήσεται]]  [[G2532\|καὶ]]  [[G1716\|ἐμπτυσθήσεται,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.31|<< Luke 18:31]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.33|Luke 18:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

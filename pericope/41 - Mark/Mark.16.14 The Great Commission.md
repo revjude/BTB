@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Great Commission
+type: Pericope
 pericope: "[[Mark.16.14 The Great Commission|The Great Commission]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Mark
 chapter: 16
 book/chapter: "[[Mark.16|Mark 16]]"
-genre:
+chronological_order: 1015
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Mark.16.14]]"
 - "[[Mark.16.15]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Mark.16.18]]"
 ---
 
-[[Mark.16|Mark 16:14 - Mark 16:18]]
+<small>[[Mark.16|Mark 16:14-18]]</small>
 *The Great Commission*
 
 [[Mark.16.14|14]] Afterward he appeared unto the eleven as they sat at meat, and upbraided them with their unbelief and hardness of heart, because they believed not them which had seen him after he was risen.

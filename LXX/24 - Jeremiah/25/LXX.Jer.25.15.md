@@ -1,9 +1,76 @@
+---
+title: LXX Jeremiah 25:15
+type: Verse
+lxx: "Thus said the lord  God of Israel, Take the cup  of this undiluted wine from out of my hand! and you shall give to drink all the nations to whom I send you unto them."
+greek: "ούτως είπε κύριος ο θεός Ισραήλ λάβε το ποτήριον του οίνου του ακράτου τούτου εκ χειρός μου και ποτιείς πάντα τα έθνη προς α αποστελλώ σε επ αυτούς"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 25
+book/chapter: "[[Jer.25|Jeremiah 25]]"
+chronological_order: 748
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic ANGER|ANGER]]"
+- "[[topic CUP|CUP]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic NATION|NATION]]"
+- "[[topic SIDON|SIDON]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[G3779]]"
+- "[[G2036]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2474]]"
+- "[[G2983]]"
+- "[[G3588]]"
+- "[[G4221]]"
+- "[[G3588]]"
+- "[[G3631]]"
+- "[[G3588]]"
+- "[[G0194]]"
+- "[[G3778]]"
+- "[[G1537]]"
+- "[[G5495]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4222]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1484]]"
+- "[[G4314]]"
+- "[[G3739]]"
+- "[[G0649]]"
+- "[[G1473]]"
+- "[[G1909]]"
+- "[[G1473]]"
+---
+
 **LXX Jeremiah 25:15** 
 
 ***The Cup of The LORD's Wrath***
 
 <small><sub>**LXX:**</sub></small>
 Thus said \[the\] <span class="smallcaps">lord</span>  God of Israel, Take the cup  of this undiluted wine from out of my hand! and you shall give to drink all the nations to whom I send you unto them. 
+<small><sub>**Greek:**</sub></small>
+[[G3779\|ούτως]] [[G2036\|είπε]] [[G2962\|κύριος]] [[G3588\|ο]] [[G2316\|θεός]] [[G2474\|Ισραήλ]] [[G2983\|λάβε]] [[G3588\|το]] [[G4221\|ποτήριον]] [[G3588\|του]] [[G3631\|οίνου]] [[G3588\|του]] [[G0194\|ακράτου]] [[G3778\|τούτου]] [[G1537\|εκ]] [[G5495\|χειρός]] [[G1473\|μου]] [[G2532\|και]] [[G4222\|ποτιείς]] [[G3956\|πάντα]] [[G3588\|τα]] [[G1484\|έθνη]] [[G4314\|προς]] [[G3739\|α]] [[G0649\|αποστελλώ]] [[G1473\|σε]] [[G1909\|επ]] [[G1473\|αυτούς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic ANGER|ANGER]] • [[topic CUP|CUP]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic NATION|NATION]] • [[topic SIDON|SIDON]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.25.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.14|<< Jeremiah 25:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.16|Jeremiah 25:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -39,6 +106,6 @@ Thus said \[the\] <span class="smallcaps">lord</span>  God of Israel, Take the c
 | you | **<big>[[G1473\|σε]]</big>** |
 | unto | **<big>[[G1909\|επ]]</big>** |
 | them. | **<big>[[G1473\|αυτούς]]</big>** |
-[[Jer.25.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.14|<< Jeremiah 25:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.16|Jeremiah 25:16 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.14|<< Jeremiah 25:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.16|Jeremiah 25:16 >>]]</td></tr></table>
 
 

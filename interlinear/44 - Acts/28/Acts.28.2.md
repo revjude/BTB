@@ -1,10 +1,62 @@
+---
+title: Acts 28:2
+type: Verse
+kjv: "And the barbarous people shewed us no little kindness: for they kindled a fire, and received us every one, because of the present rain, and because of the cold."
+bsb: "The islanders showed us extraordinary kindness. They kindled a fire and welcomed all of us because it was raining and cold."
+greek: "οἵ τε βάρβαροι παρεῖχον οὐ τὴν τυχοῦσαν φιλανθρωπίαν ἡμῖν· ἅψαντες γὰρ πυρὰν προσελάβοντο πάντας ἡμᾶς διὰ τὸν ὑετὸν τὸν ἐφεστῶτα καὶ διὰ τὸ ψῦχος."
+pericope: "[[Acts.28.1 Ashore on Malta|Ashore on Malta]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 28
+book/chapter: "[[Acts.28|Acts 28]]"
+chronological_order: 1110
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BARBARIAN|BARBARIAN]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic MELITA (MALTA)|MELITA (MALTA)]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G3588]]"
+- "[[G5037]]"
+- "[[G0915]]"
+- "[[G3930]]"
+- "[[G3756]]"
+- "[[G5177]]"
+- "[[G5363]]"
+- "[[G3165]]"
+- "[[G0681]]"
+- "[[G1063]]"
+- "[[G4443]]"
+- "[[G4355]]"
+- "[[G3956]]"
+- "[[G1223]]"
+- "[[G5205]]"
+- "[[G2186]]"
+- "[[G2532]]"
+- "[[G5592]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 28:2**<big><big>[[Acts.28.1 Ashore on Malta|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the barbarous people shewed us no little kindness: for they kindled a fire, and received us every one, because of the present rain, and because of the cold.
 <small><sub>**BSB:**</sub></small>
 The islanders showed us extraordinary kindness. They kindled a fire and welcomed all of us because it was raining and cold.
-<small><sub>**Literal:**</sub></small>
-<the> And the natives were showing not [just] the ordinary kindness to us; Having kindled for a fire they received all of us because of the rain which already coming on and because of the cold.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.1|<< Acts 28:1]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.3|Acts 28:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἵ]]  [[G5037\|τε]]  [[G0915\|βάρβαροι]]  [[G3930\|παρεῖχον]]  [[G3756\|οὐ]]  [[G3588\|τὴν]]  [[G5177\|τυχοῦσαν]]  [[G5363\|φιλανθρωπίαν]]  [[G3165\|ἡμῖν·]]  [[G0681\|ἅψαντες]]  [[G1063\|γὰρ]]  [[G4443\|πυρὰν]]  [[G4355\|προσελάβοντο]]  [[G3956\|πάντας]]  [[G3165\|ἡμᾶς]]  [[G1223\|διὰ]]  [[G3588\|τὸν]]  [[G5205\|ὑετὸν]]  [[G3588\|τὸν]]  [[G2186\|ἐφεστῶτα]]  [[G2532\|καὶ]]  [[G1223\|διὰ]]  [[G3588\|τὸ]]  [[G5592\|ψῦχος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARBARIAN|BARBARIAN]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic MELITA (MALTA)|MELITA (MALTA)]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.1|<< Acts 28:1]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.3|Acts 28:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

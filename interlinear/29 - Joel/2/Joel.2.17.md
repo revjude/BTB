@@ -1,8 +1,78 @@
+---
+title: Joel 2:17
+type: Verse
+kjv: "Let the priests, the ministers of the LORD, weep between the porch and the altar, and let them say, Spare thy people, O LORD, and give not thine heritage to reproach, that the heathen should rule over them: wherefore should they say among the people, Where is their God?"
+bsb: "Let the priests who minister before the LORD weep between the portico and the altar, saying, “Spare Your people, O LORD, and do not make Your heritage a reproach, an object of scorn among the nations. Why should they say among the peoples, ‘Where is their God?’”"
+hebrew: "בֵּ֤ין הָאוּלָם֙ וְלַמִּזְבֵּ֔חַ יִבְכּוּ֙ הַכֹּ֣הֲנִ֔ים מְשָׁרְתֵ֖י יְהוָ֑ה וְֽיֹאמְר֞וּ ח֧וּסָה יְהוָ֣ה עַל־ עַמֶּ֗ךָ וְאַל־ תִּתֵּ֨ן נַחֲלָתְךָ֤ לְחֶרְפָּה֙ לִמְשָׁל־ בָּ֣ם גּוֹיִ֔ם לָ֚מָּה יֹאמְר֣וּ בָֽעַמִּ֔ים אַיֵּ֖ה אֱלֹהֵיהֶֽם׃"
+pericope: "[[Joel.2.12 Return with All Your Heart|Return with All Your Heart]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 2
+book/chapter: "[[Joel.2|Joel 2]]"
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H0996G]]"
+- "[[H9009]]"
+- "[[H0197J]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H4196]]"
+- "[[H1058]]"
+- "[[H3548]]"
+- "[[H8334]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H2347]]"
+- "[[H9012]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H0408]]"
+- "[[H5414I]]"
+- "[[H5159]]"
+- "[[H2781]]"
+- "[[H4910]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H1471A]]"
+- "[[H4100]]"
+- "[[H0346]]"
+- "[[H0430G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 2:17**<big><big>[[Joel.2.12 Return with All Your Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the priests, the ministers of the LORD, weep between the porch and the altar, and let them say, Spare thy people, O LORD, and give not thine heritage to reproach, that the heathen should rule over them: wherefore should they say among the people, Where [is] their God?
 <small><sub>**BSB:**</sub></small>
 Let the priests who minister before the LORD weep between the portico and the altar, saying, “Spare Your people, O LORD, and do not make Your heritage a reproach, an object of scorn among the nations. Why should they say among the peoples, ‘Where is their God?’”
+<small><sub>**Hebrew:**</sub></small>
+[[H0996G\|בֵּ֤ין]] [[H9009\|הָ]][[H0197J\|אוּלָם֙]] [[H9002\|וְ]][[H9005\|לַ]][[H4196\|מִּזְבֵּ֔חַ]] [[H1058\|יִבְכּוּ֙]] [[H9009\|הַ]][[H3548\|כֹּ֣הֲנִ֔ים]] [[H8334\|מְשָׁרְתֵ֖י]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְֽ]][[H0559\|יֹאמְר֞וּ]] [[H2347\|ח֧וּסָ]][[H9012\|ה]] [[H3068G\|יְהוָ֣ה]] [[H5921A\|עַל]][[H9014\|־]] [[H5971A\|עַמֶּ֗]][[H9021\|ךָ]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H5414I\|תִּתֵּ֨ן]] [[H5159\|נַחֲלָתְ]][[H9021\|ךָ֤]] [[H9005\|לְ]][[H2781\|חֶרְפָּה֙]] [[H9005\|לִ]][[H4910\|מְשָׁל]][[H9014\|־]] [[H9003\|בָּ֣]][[H9038\|ם]] [[H1471A\|גּוֹיִ֔ם]] [[H9005\|לָ֚]][[H4100\|מָּה]] [[H0559\|יֹאמְר֣וּ]] [[H9003\|בָֽ]][[H5971A\|עַמִּ֔ים]] [[H0346\|אַיֵּ֖ה]] [[H0430G\|אֱלֹהֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.16|<< Joel 2:16]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.18|Joel 2:18 >>]]</td></tr></table>
 

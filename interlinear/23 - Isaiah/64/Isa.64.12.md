@@ -1,8 +1,57 @@
+---
+title: Isaiah 64:12
+type: Verse
+kjv: "Wilt thou refrain thyself for these things, O LORD? wilt thou hold thy peace, and afflict us very sore?"
+bsb: "After all this, O LORD, will You restrain Yourself? Will You keep silent and afflict us beyond measure?"
+hebrew: "הַעַל־ אֵ֥לֶּה תִתְאַפַּ֖ק יְהוָ֑ה תֶּחֱשֶׁ֥ה וּתְעַנֵּ֖נוּ עַד־ מְאֹֽד׃ ס"
+pericope: "[[Isa.64.1 A Prayer for God’s Power|A Prayer for God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 64
+book/chapter: "[[Isa.64|Isaiah 64]]"
+chronological_order: 703
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9008]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0428]]"
+- "[[H0662]]"
+- "[[H3068G]]"
+- "[[H2814]]"
+- "[[H9002]]"
+- "[[H6031B]]"
+- "[[H9035]]"
+- "[[H5704]]"
+- "[[H3966]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 64:12**<big><big>[[Isa.64.1 A Prayer for God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wilt thou refrain thyself for these [things], O LORD? wilt thou hold thy peace, and afflict us very sore?
 <small><sub>**BSB:**</sub></small>
 After all this, O LORD, will You restrain Yourself? Will You keep silent and afflict us beyond measure?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H5921A\|עַל]][[H9014\|־]] [[H0428\|אֵ֥לֶּה]] [[H0662\|תִתְאַפַּ֖ק]] [[H3068G\|יְהוָ֑ה]] [[H2814\|תֶּחֱשֶׁ֥ה]] [[H9002\|וּ]][[H6031B\|תְעַנֵּ֖]][[H9035\|נוּ]] [[H5704\|עַד]][[H9014\|־]] [[H3966\|מְאֹֽד]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.64.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.64.11|<< Isaiah 64:11]]</td><td align="center" style="border:none;">[[Isa.64|Isaiah 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.1|Isaiah 65:1 >>]]</td></tr></table>
 
@@ -15,7 +64,7 @@ After all this, O LORD, will You restrain Yourself? Will You keep silent and aff
 | will you be silent?  |**<big>&#8207;[[H2814\|תֶּחֱשֶׁ֥ה]]&#8207; </big>**| te.che.Sheh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and will you afflict? us  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6031B\|תְעַנֵּ֖]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> te.'a.Ne.<small><sup>[[HVpu2ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | up to  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| muchness  |**<big>&#8207;[[H3966\|מְאֹֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| muchness  |**<big>&#8207;[[H3966\|מְאֹֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.64.11|<< Isaiah 64:11]]</td><td align="center" style="border:none;">[[Isa.64|Isaiah 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.1|Isaiah 65:1 >>]]</td></tr></table>
 
 

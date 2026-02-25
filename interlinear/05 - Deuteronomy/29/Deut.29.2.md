@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 29:2
+type: Verse
+kjv: "And Moses called unto all Israel, and said unto them, Ye have seen all that the LORD did before your eyes in the land of Egypt unto Pharaoh, and unto all his servants, and unto all his land;"
+bsb: "Moses summoned all Israel and proclaimed to them, “You have seen with your own eyes everything the LORD did in Egypt to Pharaoh, to all his officials, and to all his land."
+hebrew: "וַיִּקְרָ֥א מֹשֶׁ֛ה אֶל־ כָּל־ יִשְׂרָאֵ֖ל וַיֹּ֣אמֶר אֲלֵהֶ֑ם אַתֶּ֣ם רְאִיתֶ֗ם אֵ֣ת כָּל־ אֲשֶׁר֩ עָשָׂ֨ה יְהוָ֤ה לְעֵֽינֵיכֶם֙ בְּאֶ֣רֶץ מִצְרַ֔יִם לְפַרְעֹ֥ה וּלְכָל־ עֲבָדָ֖יו וּלְכָל־ אַרְצֽוֹ׃"
+pericope: "[[Deut.29.1 The Covenant in Moab|The Covenant in Moab]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 29
+book/chapter: "[[Deut.29|Deuteronomy 29]]"
+chronological_order: 225
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H4872]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H0559]]"
+- "[[H9038]]"
+- "[[H0859D]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H5869J]]"
+- "[[H9026]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H6547J]]"
+- "[[H9002]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 29:2**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses called unto all Israel, and said unto them, Ye have seen all that the LORD did before your eyes in the land of Egypt unto Pharaoh, and unto all his servants, and unto all his land;
 <small><sub>**BSB:**</sub></small>
 Moses summoned all Israel and proclaimed to them, “You have seen with your own eyes everything the LORD did in Egypt to Pharaoh, to all his officials, and to all his land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָ֥א]] [[H4872\|מֹשֶׁ֛ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֑ם]] [[H0859D\|אַתֶּ֣ם]] [[H7200G\|רְאִיתֶ֗ם]] [[H0853\|אֵ֣ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁר֩]] [[H6213A\|עָשָׂ֨ה]] [[H3068G\|יְהוָ֤ה]] [[H9005\|לְ]][[H5869J\|עֵֽינֵי]][[H9026\|כֶם֙]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֔יִם]] [[H9005\|לְ]][[H6547J\|פַרְעֹ֥ה]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H5650\|עֲבָדָ֖י]][[H9023\|ו]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H0776G\|אַרְצֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.1|<< Deuteronomy 29:1]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.3|Deuteronomy 29:3 >>]]</td></tr></table>
 

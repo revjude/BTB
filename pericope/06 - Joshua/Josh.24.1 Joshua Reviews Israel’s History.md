@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joshua Reviews Israel’s History
+type: Pericope
 pericope: "[[Josh.24.1 Joshua Reviews Israel’s History|Joshua Reviews Israel’s History]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 24
 book/chapter: "[[Josh.24|Joshua 24]]"
-genre:
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 13
 verses:
 - "[[Josh.24.1]]"
 - "[[Josh.24.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Josh.24.13]]"
 ---
 
-[[Josh.24|Joshua 24:1 - Joshua 24:13]]
+<small>[[Josh.24|Joshua 24:1-13]]</small>
 *Joshua Reviews Israel’s History*
 
 [[Josh.24.1|1]] And Joshua gathered all the tribes of Israel to Shechem, and called for the elders of Israel, and for their heads, and for their judges, and for their officers; and they presented themselves before God.

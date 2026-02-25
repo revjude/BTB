@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Veil
+type: Pericope
 pericope: "[[Exod.26.31 The Veil|The Veil]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 26
 book/chapter: "[[Exod.26|Exodus 26]]"
-genre:
+chronological_order: 118
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 5
 verses:
 - "[[Exod.26.31]]"
 - "[[Exod.26.32]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Exod.26.35]]"
 ---
 
-[[Exod.26|Exodus 26:31 - Exodus 26:35]]
+<small>[[Exod.26|Exodus 26:31-35]]</small>
 *The Veil*
 
 [[Exod.26.31|31]] And thou shalt make a vail \[of\] blue, and purple, and scarlet, and fine twined linen of cunning work: with cherubims shall it be made:

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Message to the House of David
+type: Pericope
 pericope: "[[Jer.21.11 A Message to the House of David|A Message to the House of David]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 21
 book/chapter: "[[Jer.21|Jeremiah 21]]"
-genre:
+chronological_order: 744
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 4
 verses:
 - "[[Jer.21.11]]"
 - "[[Jer.21.12]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Jer.21.14]]"
 ---
 
-[[Jer.21|Jeremiah 21:11 - Jeremiah 21:14]]
+<small>[[Jer.21|Jeremiah 21:11-14]]</small>
 *A Message to the House of David*
 
 [[Jer.21.11|11]] And touching the house of the king of Judah, \[say\], Hear ye the word of the LORD;

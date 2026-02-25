@@ -1,8 +1,56 @@
+---
+title: 1 Kings 20:18
+type: Verse
+kjv: "And he said, Whether they be come out for peace, take them alive; or whether they be come out for war, take them alive."
+bsb: "“If they have marched out in peace,” he said, “take them alive. Even if they have marched out for war, take them alive.”"
+hebrew: "וַיֹּ֛אמֶר אִם־ לְשָׁל֥וֹם יָצָ֖אוּ תִּפְשׂ֣וּם חַיִּ֑ים וְאִ֧ם לְמִלְחָמָ֛ה יָצָ֖אוּ חַיִּ֥ים תִּפְשֽׂוּם׃"
+pericope: "[[1Kgs.20.13 Ahab Defeats Ben-hadad|Ahab Defeats Ben-hadad]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H7965G]]"
+- "[[H3318G]]"
+- "[[H8610]]"
+- "[[H9038]]"
+- "[[H2416A]]"
+- "[[H9002]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 20:18**<big><big>[[1Kgs.20.13 Ahab Defeats Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Whether they be come out for peace, take them alive; or whether they be come out for war, take them alive.
 <small><sub>**BSB:**</sub></small>
 “If they have marched out in peace,” he said, “take them alive. Even if they have marched out for war, take them alive.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֛אמֶר]] [[H0518A\|אִם]][[H9014\|־]] [[H9005\|לְ]][[H7965G\|שָׁל֥וֹם]] [[H3318G\|יָצָ֖אוּ]] [[H8610\|תִּפְשׂ֣וּ]][[H9038\|ם]] [[H2416A\|חַיִּ֑ים]] [[H9002\|וְ]][[H0518A\|אִ֧ם]] [[H9005\|לְ]][[H4421\|מִלְחָמָ֛ה]] [[H3318G\|יָצָ֖אוּ]] [[H2416A\|חַיִּ֥ים]] [[H8610\|תִּפְשֽׂוּ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.17|<< 1 Kings 20:17]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.19|1 Kings 20:19 >>]]</td></tr></table>
 

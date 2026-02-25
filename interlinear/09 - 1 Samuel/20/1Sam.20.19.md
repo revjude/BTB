@@ -1,8 +1,62 @@
+---
+title: 1 Samuel 20:19
+type: Verse
+kjv: "And when thou hast stayed three days, then thou shalt go down quickly, and come to the place where thou didst hide thyself when the business was in hand, and shalt remain by the stone Ezel."
+bsb: "When you have stayed three days, hurry down to the place you hid on the day this trouble began, and remain beside the stone Ezel."
+hebrew: "וְשִׁלַּשְׁתָּ֙ תֵּרֵ֣ד מְאֹ֔ד וּבָאתָ֙ אֶל־ הַמָּק֔וֹם אֲשֶׁר־ נִסְתַּ֥רְתָּ שָּׁ֖ם בְּי֣וֹם הַֽמַּעֲשֶׂ֑ה וְיָ֣שַׁבְתָּ֔ אֵ֖צֶל הָאֶ֥בֶן הָאָֽזֶל׃"
+pericope: "[[1Sam.20.10 Jonathan and David Renew Their Covenant|Jonathan and David Renew Their Covenant]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 20
+book/chapter: "[[1Sam.20|1 Samuel 20]]"
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic EZEL|EZEL]]"
+- "[[topic PILLAR|PILLAR]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H9001]]"
+- "[[H8027]]"
+- "[[H3381]]"
+- "[[H3966]]"
+- "[[H0935I]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H5641]]"
+- "[[H8033G]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H4639K]]"
+- "[[H3427]]"
+- "[[H0681]]"
+- "[[H0068G]]"
+- "[[H0237]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 20:19**<big><big>[[1Sam.20.10 Jonathan and David Renew Their Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [when] thou hast stayed three days, [then] thou shalt go down quickly, and come to the place where thou didst hide thyself when the business was [in hand], and shalt remain by the stone Ezel.
 <small><sub>**BSB:**</sub></small>
 When you have stayed three days, hurry down to the place you hid on the day this trouble began, and remain beside the stone Ezel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8027\|שִׁלַּשְׁתָּ֙]] [[H3381\|תֵּרֵ֣ד]] [[H3966\|מְאֹ֔ד]] [[H9001\|וּ]][[H0935I\|בָאתָ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֔וֹם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5641\|נִסְתַּ֥רְתָּ]] [[H8033G\|שָּׁ֖ם]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H9009\|הַֽ]][[H4639K\|מַּעֲשֶׂ֑ה]] [[H9001\|וְ]][[H3427\|יָ֣שַׁבְתָּ֔]] [[H0681\|אֵ֖צֶל]] [[H9009\|הָ]][[H0068G\|אֶ֥בֶן]] [[H9009\|הָ]][[H0237\|אָֽזֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZEL|EZEL]] • [[topic PILLAR|PILLAR]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.18|<< 1 Samuel 20:18]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.20|1 Samuel 20:20 >>]]</td></tr></table>
 

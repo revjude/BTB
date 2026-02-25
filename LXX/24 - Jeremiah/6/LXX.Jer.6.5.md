@@ -1,6 +1,47 @@
+---
+title: LXX Jeremiah 6:5
+type: Verse
+lxx: "Rise up! for we should ascend at night, and utterly destroy  her foundations."
+greek: "ανάστητε και αναβώμεν εν νυκτί και διαφθείρωμεν το θεμέλια αυτής"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 6
+book/chapter: "[[Jer.6|Jeremiah 6]]"
+chronological_order: 723
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[G0450]]"
+- "[[G2532]]"
+- "[[G0305]]"
+- "[[G1722]]"
+- "[[G3571]]"
+- "[[G2532]]"
+- "[[G1311]]"
+- "[[G3588]]"
+- "[[G2310]]"
+- "[[G1473]]"
+---
+
 **LXX Jeremiah 6:5** 
 <small><sub>**LXX:**</sub></small>
 Rise up! for we should ascend at night, and utterly destroy  her foundations. 
+<small><sub>**Greek:**</sub></small>
+[[G0450\|ανάστητε]] [[G2532\|και]] [[G0305\|αναβώμεν]] [[G1722\|εν]] [[G3571\|νυκτί]] [[G2532\|και]] [[G1311\|διαφθείρωμεν]] [[G3588\|το]] [[G2310\|θεμέλια]] [[G1473\|αυτής]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.4|<< Jeremiah 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.6|Jeremiah 6:6 >>]]</td></tr></table>
 
@@ -15,6 +56,6 @@ Rise up! for we should ascend at night, and utterly destroy  her foundations.
 | utterly destroy | **<big>[[G1311\|διαφθείρωμεν]]</big>** |
 | \<obj.> | **<big>[[G3588\|το]]</big>** |
 | her foundations. | **<big>[[G2310\|θεμέλια]]</big>** **<big>[[G1473\|αυτής]]</big>** |
-[[Jer.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.4|<< Jeremiah 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.6|Jeremiah 6:6 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.4|<< Jeremiah 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.6|Jeremiah 6:6 >>]]</td></tr></table>
 
 

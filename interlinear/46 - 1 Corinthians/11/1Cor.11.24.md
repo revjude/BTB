@@ -1,10 +1,63 @@
+---
+title: 1 Corinthians 11:24
+type: Verse
+kjv: "And when he had given thanks, he brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me."
+bsb: "and when He had given thanks, He broke it and said, “This is My body, which is for you; do this in remembrance of Me.”"
+jesus_said: "Take, eat: this is my body, which is broken for you: this do in remembrance of me."
+greek: "καὶ εὐχαριστήσας ἔκλασεν καὶ εἶπεν λάβετε φάγετε· τοῦτό μού ἐστιν τὸ σῶμα τὸ ὑπὲρ ὑμῶν κλώμενον· τοῦτο ποιεῖτε εἰς τὴν ἐμὴν ἀνάμνησιν."
+pericope: "[[1Cor.11.17 Sharing in the Lord’s Supper|Sharing in the Lord’s Supper]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 11
+book/chapter: "[[1Cor.11|1 Corinthians 11]]"
+chronological_order: 1068
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BREAD|BREAD]]"
+- "[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MEMORIAL|MEMORIAL]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G2168]]"
+- "[[G2806]]"
+- "[[G2036]]"
+- "[[G2983]]"
+- "[[G5315]]"
+- "[[G3778]]"
+- "[[G3165]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G4983]]"
+- "[[G5228]]"
+- "[[G4771]]"
+- "[[G4160G]]"
+- "[[G1519]]"
+- "[[G1473]]"
+- "[[G0364]]"
+texts:
+- NKO
+- KO
+- K
+---
+
 **1 Corinthians 11:24**<big><big>[[1Cor.11.17 Sharing in the Lord’s Supper|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had given thanks, he brake [it], and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me.
 <small><sub>**BSB:**</sub></small>
 and when He had given thanks, He broke it and said, “This is My body, which is for you; do this in remembrance of Me.”
-<small><sub>**Literal:**</sub></small>
-and having given thanks He broke [it] and said do take do eat: This of Me is the body which [is] for you being broken; this do perform in <the> of Me remembrance.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.23|<< 1 Corinthians 11:23]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.25|1 Corinthians 11:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2168\|εὐχαριστήσας]]  [[G2806\|ἔκλασεν]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G2983\|λάβετε]]  [[G5315\|φάγετε·]]  [[G3778\|τοῦτό]]  [[G3165\|μού]]  [[G1510\|ἐστιν]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G3588\|τὸ]]  [[G5228\|ὑπὲρ]]  [[G4771\|ὑμῶν]]  [[G2806\|κλώμενον·]]  [[G3778\|τοῦτο]]  [[G4160G\|ποιεῖτε]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1473\|ἐμὴν]]  [[G0364\|ἀνάμνησιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREAD|BREAD]] • [[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MEMORIAL|MEMORIAL]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.23|<< 1 Corinthians 11:23]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.25|1 Corinthians 11:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

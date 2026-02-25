@@ -1,8 +1,70 @@
+---
+title: 1 Chronicles 22:8
+type: Verse
+kjv: "But the word of the LORD came to me, saying, Thou hast shed blood abundantly, and hast made great wars: thou shalt not build an house unto my name, because thou hast shed much blood upon the earth in my sight."
+bsb: "but this word of the LORD came to me: ‘You have shed much blood and waged great wars. You are not to build a house for My Name because you have shed so much blood on the ground before Me."
+hebrew: "וַיְהִ֨י עָלַ֤י דְּבַר־ יְהוָה֙ לֵאמֹ֔ר דָּ֤ם לָרֹב֙ שָׁפַ֔כְתָּ וּמִלְחָמ֥וֹת גְּדֹל֖וֹת עָשִׂ֑יתָ לֹֽא־ תִבְנֶ֥ה בַ֙יִת֙ לִשְׁמִ֔י כִּ֚י דָּמִ֣ים רַבִּ֔ים שָׁפַ֥כְתָּ אַ֖רְצָה לְפָנָֽי׃"
+pericope: "[[1Chr.22.6 Solomon Anointed to Build the Temple|Solomon Anointed to Build the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 22
+book/chapter: "[[1Chr.22|1 Chronicles 22]]"
+chronological_order: 433
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H1818]]"
+- "[[H7230]]"
+- "[[H8210H]]"
+- "[[H9002]]"
+- "[[H4421]]"
+- "[[H1419A]]"
+- "[[H6213J]]"
+- "[[H3808]]"
+- "[[H1129]]"
+- "[[H1004B]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H7227A]]"
+- "[[H0776G]]"
+- "[[H9011]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 22:8**<big><big>[[1Chr.22.6 Solomon Anointed to Build the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the word of the LORD came to me, saying, Thou hast shed blood abundantly, and hast made great wars: thou shalt not build an house unto my name, because thou hast shed much blood upon the earth in my sight.
 <small><sub>**BSB:**</sub></small>
 but this word of the LORD came to me: ‘You have shed much blood and waged great wars. You are not to build a house for My Name because you have shed so much blood on the ground before Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֨י]] [[H5921A\|עָלַ֤]][[H9030\|י]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H1818\|דָּ֤ם]] [[H9005\|לָ]][[H7230\|רֹב֙]] [[H8210H\|שָׁפַ֔כְתָּ]] [[H9002\|וּ]][[H4421\|מִלְחָמ֥וֹת]] [[H1419A\|גְּדֹל֖וֹת]] [[H6213J\|עָשִׂ֑יתָ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1129\|תִבְנֶ֥ה]] [[H1004B\|בַ֙יִת֙]] [[H9005\|לִ]][[H8034\|שְׁמִ֔]][[H9020\|י]] [[H3588A\|כִּ֚י]] [[H1818\|דָּמִ֣ים]] [[H7227A\|רַבִּ֔ים]] [[H8210H\|שָׁפַ֥כְתָּ]] [[H0776G\|אַ֖רְצָ]][[H9011\|ה]] [[H9005\|לְ]][[H6440G\|פָנָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DAVID|DAVID]] • [[topic TEMPLE|TEMPLE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.22.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.22.7|<< 1 Chronicles 22:7]]</td><td align="center" style="border:none;">[[1Chr.22|1 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.22.9|1 Chronicles 22:9 >>]]</td></tr></table>
 

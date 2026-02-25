@@ -1,10 +1,65 @@
+---
+title: John 6:54
+type: Verse
+kjv: "Whoso eateth my flesh, and drinketh my blood, hath eternal life; and I will raise him up at the last day."
+bsb: "Whoever eats My flesh and drinks My blood has eternal life, and I will raise him up at the last day."
+jesus_said: "Whoso eateth my flesh, and drinketh my blood, hath eternal life; and I will raise him up at the last day."
+greek: "ὁ τρώγων μου τὴν σάρκα καὶ πίνων μου τὸ αἷμα ἔχει ζωὴν αἰώνιον, κἀγὼ κἀγὼ ἀναστήσω αὐτὸν τῇ ἐσχάτῃ ἡμέρᾳ."
+pericope: "[[John.6.22 Jesus the Bread of Life|Jesus the Bread of Life]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic FLESH|FLESH]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[G3588]]"
+- "[[G5176]]"
+- "[[G3165]]"
+- "[[G4561]]"
+- "[[G2532]]"
+- "[[G4095]]"
+- "[[G0129G]]"
+- "[[G2192]]"
+- "[[G2222]]"
+- "[[G0166]]"
+- "[[G1473]]"
+- "[[G0450]]"
+- "[[G0846]]"
+- "[[G2078]]"
+- "[[G2250]]"
+texts:
+- NKO
+---
+
 **John 6:54**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whoso eateth my flesh, and drinketh my blood, hath eternal life; and I will raise him up at the last day.
 <small><sub>**BSB:**</sub></small>
 Whoever eats My flesh and drinks My blood has eternal life, and I will raise him up at the last day.
-<small><sub>**Literal:**</sub></small>
-The [one] eating of My <the> flesh and drinking of My <the> blood has life eternal, and I myself will raise up him in the last day.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.53|<< John 6:53]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.55|John 6:55 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G5176\|τρώγων]]  [[G3165\|μου]]  [[G3588\|τὴν]]  [[G4561\|σάρκα]]  [[G2532\|καὶ]]  [[G4095\|πίνων]]  [[G3165\|μου]]  [[G3588\|τὸ]]  [[G0129G\|αἷμα]]  [[G2192\|ἔχει]]  [[G2222\|ζωὴν]]  [[G0166\|αἰώνιον,]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G0450\|ἀναστήσω]]  [[G0846\|αὐτὸν]]  [[G3588\|τῇ]]  [[G2078\|ἐσχάτῃ]]  [[G2250\|ἡμέρᾳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic FLESH|FLESH]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic RESURRECTION|RESURRECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WINE|WINE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.53|<< John 6:53]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.55|John 6:55 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

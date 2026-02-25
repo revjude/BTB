@@ -1,8 +1,86 @@
+---
+title: Numbers 27:11
+type: Verse
+kjv: "And if his father have no brethren, then ye shall give his inheritance unto his kinsman that is next to him of his family, and he shall possess it: and it shall be unto the children of Israel a statute of judgment, as the LORD commanded Moses."
+bsb: "And if his father has no brothers, give his inheritance to the next of kin from his clan, that he may take possession of it. This is to be a statutory ordinance for the Israelites, as the LORD has commanded Moses.’”"
+hebrew: "וְאִם־ אֵ֣ין אַחִים֮ לְאָבִיו֒ וּנְתַתֶּ֣ם אֶת־ נַחֲלָת֗וֹ לִשְׁאֵר֞וֹ הַקָּרֹ֥ב אֵלָ֛יו מִמִּשְׁפַּחְתּ֖וֹ וְיָרַ֣שׁ אֹתָ֑הּ וְֽהָ֨יְתָ֜ה לִבְנֵ֤י יִשְׂרָאֵל֙ לְחֻקַּ֣ת מִשְׁפָּ֔ט כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת־ מֹשֶֽׁה׃ ס"
+pericope: "[[Num.27.1 The Daughters of Zelophehad|The Daughters of Zelophehad]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 27
+book/chapter: "[[Num.27|Numbers 27]]"
+chronological_order: 187
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic DAUGHTER|DAUGHTER]]"
+- "[[topic HEIR|HEIR]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic LAND|LAND]]"
+- "[[topic LEGISLATION|LEGISLATION]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic TIRZAH|TIRZAH]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZELOPHEHAD|ZELOPHEHAD]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H0369]]"
+- "[[H0251G]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H5159]]"
+- "[[H7607]]"
+- "[[H9009]]"
+- "[[H7138]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H4940]]"
+- "[[H3423G]]"
+- "[[H9034]]"
+- "[[H1961]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H2708]]"
+- "[[H4941G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H4872]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Numbers 27:11**<big><big>[[Num.27.1 The Daughters of Zelophehad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if his father have no brethren, then ye shall give his inheritance unto his kinsman that is next to him of his family, and he shall possess it: and it shall be unto the children of Israel a statute of judgment, as the LORD commanded Moses.
 <small><sub>**BSB:**</sub></small>
 And if his father has no brothers, give his inheritance to the next of kin from his clan, that he may take possession of it. This is to be a statutory ordinance for the Israelites, as the LORD has commanded Moses.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H0369\|אֵ֣ין]] [[H0251G\|אַחִים֮]] [[H9005\|לְ]][[H0001G\|אָבִי]][[H9023\|ו֒]] [[H9001\|וּ]][[H5414G\|נְתַתֶּ֣ם]] [[H0853\|אֶת]][[H9014\|־]] [[H5159\|נַחֲלָת֗]][[H9023\|וֹ]] [[H9005\|לִ]][[H7607\|שְׁאֵר֞]][[H9023\|וֹ]] [[H9009\|הַ]][[H7138\|קָּרֹ֥ב]] [[H0413\|אֵלָ֛י]][[H9033\|ו]] [[H9006\|מִ]][[H4940\|מִּשְׁפַּחְתּ֖]][[H9023\|וֹ]] [[H9001\|וְ]][[H3423G\|יָרַ֣שׁ]] [[H0853\|אֹתָ֑]][[H9034\|הּ]] [[H9001\|וְֽ]][[H1961\|הָ֨יְתָ֜ה]] [[H9005\|לִ]][[H1121G\|בְנֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H9005\|לְ]][[H2708\|חֻקַּ֣ת]] [[H4941G\|מִשְׁפָּ֔ט]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H6680\|צִוָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶֽׁה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAUGHTER|DAUGHTER]] • [[topic HEIR|HEIR]] • [[topic INHERITANCE|INHERITANCE]] • [[topic ISRAEL|ISRAEL]] • [[topic LAND|LAND]] • [[topic LEGISLATION|LEGISLATION]] • [[topic PROPERTY|PROPERTY]] • [[topic TIRZAH|TIRZAH]] • [[topic WOMEN|WOMEN]] • [[topic ZELOPHEHAD|ZELOPHEHAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.27.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.27.10|<< Numbers 27:10]]</td><td align="center" style="border:none;">[[Num.27|Numbers 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.27.12|Numbers 27:12 >>]]</td></tr></table>
 
@@ -30,7 +108,7 @@ And if his father has no brothers, give his inheritance to the next of kin from 
 | he has commanded  |**<big>&#8207;[[H6680\|צִוָּ֥ה]]&#8207; </big>**| tzi.Vah<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moses  |**<big>&#8207;[[H4872\|מֹשֶֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  |**<big>&#8207;[[H4872\|מֹשֶֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.27.10|<< Numbers 27:10]]</td><td align="center" style="border:none;">[[Num.27|Numbers 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.27.12|Numbers 27:12 >>]]</td></tr></table>
 
 

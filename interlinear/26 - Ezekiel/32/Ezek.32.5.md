@@ -1,8 +1,52 @@
+---
+title: Ezekiel 32:5
+type: Verse
+kjv: "And I will lay thy flesh upon the mountains, and fill the valleys with thy height."
+bsb: "I will put your flesh on the mountains and fill the valleys with your remains."
+hebrew: "וְנָתַתִּ֥י אֶת־ בְּשָׂרְךָ֖ עַל־ הֶֽהָרִ֑ים וּמִלֵּאתִ֥י הַגֵּאָי֖וֹת רָמוּתֶֽךָ׃"
+pericope: "[[Ezek.32.1 A Lament for Pharaoh King of Egypt|A Lament for Pharaoh King of Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 32
+book/chapter: "[[Ezek.32|Ezekiel 32]]"
+chronological_order: 823
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1320]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H4390]]"
+- "[[H1516R]]"
+- "[[H7419]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 32:5**<big><big>[[Ezek.32.1 A Lament for Pharaoh King of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will lay thy flesh upon the mountains, and fill the valleys with thy height.
 <small><sub>**BSB:**</sub></small>
 I will put your flesh on the mountains and fill the valleys with your remains.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414H\|נָתַתִּ֥י]] [[H0853\|אֶת]][[H9014\|־]] [[H1320\|בְּשָׂרְ]][[H9021\|ךָ֖]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הֶֽ]][[H2022G\|הָרִ֑ים]] [[H9001\|וּ]][[H4390\|מִלֵּאתִ֥י]] [[H9009\|הַ]][[H1516R\|גֵּאָי֖וֹת]] [[H7419\|רָמוּתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.4|<< Ezekiel 32:4]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.6|Ezekiel 32:6 >>]]</td></tr></table>
 

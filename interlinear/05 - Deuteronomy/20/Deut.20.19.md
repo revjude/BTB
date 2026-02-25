@@ -1,8 +1,83 @@
+---
+title: Deuteronomy 20:19
+type: Verse
+kjv: "When thou shalt besiege a city a long time, in making war against it to take it, thou shalt not destroy the trees thereof by forcing an axe against them: for thou mayest eat of them, and thou shalt not cut them down (for the tree of the field is man’s life) to employ them in the siege:"
+bsb: "When you lay siege to a city for an extended time while fighting against it to capture it, you must not destroy its trees by putting an axe to them, because you can eat their fruit. You must not cut them down. Are the trees of the field human, that you should besiege them?"
+hebrew: "כִּֽי־ תָצ֣וּר אֶל־ עִיר֩ יָמִ֨ים רַבִּ֜ים לְֽהִלָּחֵ֧ם עָלֶ֣יהָ לְתָפְשָׂ֗הּ לֹֽא־ תַשְׁחִ֤ית אֶת־ עֵצָהּ֙ לִנְדֹּ֤חַ עָלָיו֙ גַּרְזֶ֔ן כִּ֚י מִמֶּ֣נּוּ תֹאכֵ֔ל וְאֹת֖וֹ לֹ֣א תִכְרֹ֑ת כִּ֤י הָֽאָדָם֙ עֵ֣ץ הַשָּׂדֶ֔ה לָבֹ֥א מִפָּנֶ֖יךָ בַּמָּצֽוֹר׃"
+pericope: "[[Deut.20.1 Laws of Warfare|Laws of Warfare]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 20
+book/chapter: "[[Deut.20|Deuteronomy 20]]"
+chronological_order: 216
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic FORT|FORT]]"
+- "[[topic FRUIT TREES|FRUIT TREES]]"
+- "[[topic HORTICULTURE|HORTICULTURE]]"
+- "[[topic SIEGE|SIEGE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6696A]]"
+- "[[H0413]]"
+- "[[H5892B]]"
+- "[[H3117G]]"
+- "[[H7227A]]"
+- "[[H9005]]"
+- "[[H3898A]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H8610]]"
+- "[[H3808]]"
+- "[[H7843]]"
+- "[[H0853]]"
+- "[[H6086H]]"
+- "[[H9024]]"
+- "[[H5080]]"
+- "[[H9033]]"
+- "[[H1631]]"
+- "[[H4480A]]"
+- "[[H0398]]"
+- "[[H9002]]"
+- "[[H3772G]]"
+- "[[H9008]]"
+- "[[H0120G]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H0935N]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H4692]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 20:19**<big><big>[[Deut.20.1 Laws of Warfare|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou shalt besiege a city a long time, in making war against it to take it, thou shalt not destroy the trees thereof by forcing an axe against them: for thou mayest eat of them, and thou shalt not cut them down (for the tree of the field [is] man’s [life]) to employ [them] in the siege:
 <small><sub>**BSB:**</sub></small>
 When you lay siege to a city for an extended time while fighting against it to capture it, you must not destroy its trees by putting an axe to them, because you can eat their fruit. You must not cut them down. Are the trees of the field human, that you should besiege them?
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H6696A\|תָצ֣וּר]] [[H0413\|אֶל]][[H9014\|־]] [[H5892B\|עִיר֩]] [[H3117G\|יָמִ֨ים]] [[H7227A\|רַבִּ֜ים]] [[H9005\|לְֽ]][[H3898A\|הִלָּחֵ֧ם]] [[H5921A\|עָלֶ֣י]][[H9034\|הָ]] [[H9005\|לְ]][[H8610\|תָפְשָׂ֗]][[H9034\|הּ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7843\|תַשְׁחִ֤ית]] [[H0853\|אֶת]][[H9014\|־]] [[H6086H\|עֵצָ]][[H9024\|הּ֙]] [[H9005\|לִ]][[H5080\|נְדֹּ֤חַ]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H1631\|גַּרְזֶ֔ן]] [[H3588A\|כִּ֚י]] [[H4480A\|מִמֶּ֣]][[H9033\|נּוּ]] [[H0398\|תֹאכֵ֔ל]] [[H9002\|וְ]][[H0853\|אֹת֖]][[H9033\|וֹ]] [[H3808\|לֹ֣א]] [[H3772G\|תִכְרֹ֑ת]] [[H3588A\|כִּ֤י]] [[H9008\|הָֽ]][[H0120G\|אָדָם֙]] [[H6086H\|עֵ֣ץ]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֔ה]] [[H9005\|לָ]][[H0935N\|בֹ֥א]] [[H9006\|מִ]][[H6440G\|פָּנֶ֖י]][[H9021\|ךָ]] [[H9003\|בַּ]][[H4692\|מָּצֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORT|FORT]] • [[topic FRUIT TREES|FRUIT TREES]] • [[topic HORTICULTURE|HORTICULTURE]] • [[topic SIEGE|SIEGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.20.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.20.18|<< Deuteronomy 20:18]]</td><td align="center" style="border:none;">[[Deut.20|Deuteronomy 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.20.20|Deuteronomy 20:20 >>]]</td></tr></table>
 

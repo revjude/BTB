@@ -1,8 +1,50 @@
+---
+title: Psalm 139:1
+type: Verse
+kjv: "O LORD, thou hast searched me, and known me."
+bsb: "For the choirmaster. A Psalm of David. O LORD, You have searched me and known me."
+hebrew: "יְהוָ֥ה חֲ֝קַרְתַּ֗נִי וַתֵּדָֽע׃"
+pericope: "[[Ps.139.1 You Have Searched Me and Known Me|You Have Searched Me and Known Me]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 139
+book/chapter: "[[Ps.139|Psalm 139]]"
+chronological_order: 386
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+strongs:
+- "[[H3068G]]"
+- "[[H2713]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 139:1**<big><big>[[Ps.139.1 You Have Searched Me and Known Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, thou hast searched me, and known [me].
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. A Psalm of David. O LORD, You have searched me and known me.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֥ה]] [[H2713\|חֲ֝קַרְתַּ֗]][[H9030\|נִי]] [[H9001\|וַ]][[H3045\|תֵּדָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEART|HEART]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.139.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.0|<< Psalms 139:0]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.2|Psalms 139:2 >>]]</td></tr></table>
 

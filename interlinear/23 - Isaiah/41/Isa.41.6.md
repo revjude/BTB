@@ -1,8 +1,53 @@
+---
+title: Isaiah 41:6
+type: Verse
+kjv: "They helped every one his neighbour; and every one said to his brother, Be of good courage."
+bsb: "Each one helps the other and says to his brother, “Be strong!”"
+hebrew: "אִ֥ישׁ אֶת־ רֵעֵ֖הוּ יַעְזֹ֑רוּ וּלְאָחִ֖יו יֹאמַ֥ר חֲזָֽק׃"
+pericope: "[[Isa.41.1 God’s Help to Israel|God’s Help to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 41
+book/chapter: "[[Isa.41|Isaiah 41]]"
+chronological_order: 680
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic IDOL|IDOL]]"
+strongs:
+- "[[H0376I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H5826]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H0251G]]"
+- "[[H0559]]"
+- "[[H2388G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 41:6**<big><big>[[Isa.41.1 God’s Help to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They helped every one his neighbour; and [every one] said to his brother, Be of good courage.
 <small><sub>**BSB:**</sub></small>
 Each one helps the other and says to his brother, “Be strong!”
+<small><sub>**Hebrew:**</sub></small>
+[[H0376I\|אִ֥ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H7453\|רֵעֵ֖]][[H9023\|הוּ]] [[H5826\|יַעְזֹ֑רוּ]] [[H9002\|וּ]][[H9005\|לְ]][[H0251G\|אָחִ֖י]][[H9023\|ו]] [[H0559\|יֹאמַ֥ר]] [[H2388G\|חֲזָֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOL|IDOL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.5|<< Isaiah 41:5]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.7|Isaiah 41:7 >>]]</td></tr></table>
 

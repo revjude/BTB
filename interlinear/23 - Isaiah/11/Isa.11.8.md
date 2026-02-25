@@ -1,8 +1,64 @@
+---
+title: Isaiah 11:8
+type: Verse
+kjv: "And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice’ den."
+bsb: "The infant will play by the cobra’s den, and the toddler will reach into the viper’s nest."
+hebrew: "וְשִֽׁעֲשַׁ֥ע יוֹנֵ֖ק עַל־ חֻ֣ר פָּ֑תֶן וְעַל֙ מְאוּרַ֣ת צִפְעוֹנִ֔י גָּמ֖וּל יָד֥וֹ הָדָֽה׃"
+pericope: "[[Isa.11.1 The Root of Jesse|The Root of Jesse]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 11
+book/chapter: "[[Isa.11|Isaiah 11]]"
+chronological_order: 621
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ALLEGORY|ALLEGORY]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ASP|ASP]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COCKATRICE|COCKATRICE]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H8173B]]"
+- "[[H3243]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2352]]"
+- "[[H6620]]"
+- "[[H9002]]"
+- "[[H3975]]"
+- "[[H6848B]]"
+- "[[H1580]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H1911]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 11:8**<big><big>[[Isa.11.1 The Root of Jesse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice’ den.
 <small><sub>**BSB:**</sub></small>
 The infant will play by the cobra’s den, and the toddler will reach into the viper’s nest.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8173B\|שִֽׁעֲשַׁ֥ע]] [[H3243\|יוֹנֵ֖ק]] [[H5921A\|עַל]][[H9014\|־]] [[H2352\|חֻ֣ר]] [[H6620\|פָּ֑תֶן]] [[H9002\|וְ]][[H5921A\|עַל֙]] [[H3975\|מְאוּרַ֣ת]] [[H6848B\|צִפְעוֹנִ֔י]] [[H1580\|גָּמ֖וּל]] [[H3027G\|יָד֥]][[H9023\|וֹ]] [[H1911\|הָדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLEGORY|ALLEGORY]] • [[topic ANIMALS|ANIMALS]] • [[topic ASP|ASP]] • [[topic CHURCH|CHURCH]] • [[topic COCKATRICE|COCKATRICE]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PEACE|PEACE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.11.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.7|<< Isaiah 11:7]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.11.9|Isaiah 11:9 >>]]</td></tr></table>
 

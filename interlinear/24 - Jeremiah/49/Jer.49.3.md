@@ -1,8 +1,72 @@
+---
+title: Jeremiah 49:3
+type: Verse
+kjv: "Howl, O Heshbon, for Ai is spoiled: cry, ye daughters of Rabbah, gird you with sackcloth; lament, and run to and fro by the hedges; for their king shall go into captivity, and his priests and his princes together."
+bsb: "Wail, O Heshbon, for Ai has been destroyed; cry out, O daughters of Rabbah! Put on sackcloth and mourn; run back and forth within your walls, for Milcom will go into exile together with his priests and officials."
+hebrew: "הֵילִ֨ילִי חֶשְׁבּ֜וֹן כִּ֣י שֻׁדְּדָה־ עַ֗י צְעַקְנָה֮ בְּנ֣וֹת רַבָּה֒ חֲגֹ֣רְנָה שַׂקִּ֔ים סְפֹ֕דְנָה וְהִתְשׁוֹטַ֖טְנָה בַּגְּדֵר֑וֹת כִּ֤י מַלְכָּם֙ בַּגּוֹלָ֣ה יֵלֵ֔ךְ כֹּהֲנָ֥יו וְשָׂרָ֖יו יַחְדָּֽיו׃"
+pericope: "[[Jer.49.1 Judgment on the Ammonites|Judgment on the Ammonites]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AI|AI]]"
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic HEDGE|HEDGE]]"
+- "[[topic HESHBON|HESHBON]]"
+- "[[topic RABBAH|RABBAH]]"
+- "[[topic SACKCLOTH|SACKCLOTH]]"
+strongs:
+- "[[H3213]]"
+- "[[H2809]]"
+- "[[H3588A]]"
+- "[[H7703]]"
+- "[[H9014]]"
+- "[[H5857H]]"
+- "[[H6817]]"
+- "[[H1323G]]"
+- "[[H7237]]"
+- "[[H2296]]"
+- "[[H8242]]"
+- "[[H5594]]"
+- "[[H9002]]"
+- "[[H7751A]]"
+- "[[H9003]]"
+- "[[H1448]]"
+- "[[H4428K]]"
+- "[[H1473]]"
+- "[[H1980G]]"
+- "[[H3548]]"
+- "[[H9023]]"
+- "[[H8269]]"
+- "[[H3162B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 49:3**<big><big>[[Jer.49.1 Judgment on the Ammonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howl, O Heshbon, for Ai is spoiled: cry, ye daughters of Rabbah, gird you with sackcloth; lament, and run to and fro by the hedges; for their king shall go into captivity, [and] his priests and his princes together.
 <small><sub>**BSB:**</sub></small>
 Wail, O Heshbon, for Ai has been destroyed; cry out, O daughters of Rabbah! Put on sackcloth and mourn; run back and forth within your walls, for Milcom will go into exile together with his priests and officials.
+<small><sub>**Hebrew:**</sub></small>
+[[H3213\|הֵילִ֨ילִי]] [[H2809\|חֶשְׁבּ֜וֹן]] [[H3588A\|כִּ֣י]] [[H7703\|שֻׁדְּדָה]][[H9014\|־]] [[H5857H\|עַ֗י]] [[H6817\|צְעַקְנָה֮]] [[H1323G\|בְּנ֣וֹת]] [[H7237\|רַבָּה֒]] [[H2296\|חֲגֹ֣רְנָה]] [[H8242\|שַׂקִּ֔ים]] [[H5594\|סְפֹ֕דְנָה]] [[H9002\|וְ]][[H7751A\|הִתְשׁוֹטַ֖טְנָה]] [[H9003\|בַּ]][[H1448\|גְּדֵר֑וֹת]] [[H3588A\|כִּ֤י]] [[H4428K\|מַלְכָּם֙]] [[H9003\|בַּ]][[H1473\|גּוֹלָ֣ה]] [[H1980G\|יֵלֵ֔ךְ]] [[H3548\|כֹּהֲנָ֥י]][[H9023\|ו]] [[H9002\|וְ]][[H8269\|שָׂרָ֖י]][[H9023\|ו]] [[H3162B\|יַחְדָּֽיו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AI|AI]] • [[topic AMMONITES|AMMONITES]] • [[topic HEDGE|HEDGE]] • [[topic HESHBON|HESHBON]] • [[topic RABBAH|RABBAH]] • [[topic SACKCLOTH|SACKCLOTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.2|<< Jeremiah 49:2]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.4|Jeremiah 49:4 >>]]</td></tr></table>
 

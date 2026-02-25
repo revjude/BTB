@@ -1,6 +1,72 @@
+---
+title: LXX 2 Samuel 7:27
+type: Verse
+lxx: "The lord almighty,  God over  Israel. You uncovered the ear  of your servant, saying, I shall build for you a house. On account of this your servant found  his own heart  to pray to you  this prayer."
+greek: "κύριος παντοκράτωρ ο θεός επί τον Ισραήλ απεκάλυψας το ωτίον του δούλου σου λέγων οίκον οικοδομήσω σοι διά τούτο εύρεν ο δούλός σου την καρδίαν εαυτού του προσεύξασθαι προς σε την προσευχήν ταύτην"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 7
+book/chapter: "[[2Sam.7|2 Samuel 7]]"
+chronological_order: 393
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2962]]"
+- "[[G3841]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2474]]"
+- "[[G0601]]"
+- "[[G3588]]"
+- "[[G5621]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G1473]]"
+- "[[G3004]]"
+- "[[G3624]]"
+- "[[G3618]]"
+- "[[G1473]]"
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G2147]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G1438]]"
+- "[[G3588]]"
+- "[[G4336]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G4335]]"
+- "[[G3778]]"
+---
+
 **LXX 2 Samuel 7:27** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> almighty,  God over  Israel. You uncovered the ear  of your servant, saying, I shall build for you a house. On account of this your servant found  his own heart  to pray to you  this prayer. 
+<small><sub>**Greek:**</sub></small>
+[[G2962\|κύριος]] [[G3841\|παντοκράτωρ]] [[G3588\|ο]] [[G2316\|θεός]] [[G1909\|επί]] [[G3588\|τον]] [[G2474\|Ισραήλ]] [[G0601\|απεκάλυψας]] [[G3588\|το]] [[G5621\|ωτίον]] [[G3588\|του]] [[G1401\|δούλου]] [[G1473\|σου]] [[G3004\|λέγων]] [[G3624\|οίκον]] [[G3618\|οικοδομήσω]] [[G1473\|σοι]] [[G1223\|διά]] [[G3778\|τούτο]] [[G2147\|εύρεν]] [[G3588\|ο]] [[G1401\|δούλός]] [[G1473\|σου]] [[G3588\|την]] [[G2588\|καρδίαν]] [[G1438\|εαυτού]] [[G3588\|του]] [[G4336\|προσεύξασθαι]] [[G4314\|προς]] [[G1473\|σε]] [[G3588\|την]] [[G4335\|προσευχήν]] [[G3778\|ταύτην]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic HUMILITY|HUMILITY]] • [[topic PARENTS|PARENTS]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.7.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.26|<< 2 Samuel 7:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.28|2 Samuel 7:28 >>]]</td></tr></table>
 
@@ -36,6 +102,6 @@
 | you | **<big>[[G1473\|σε]]</big>** |
 | \<obj.> | **<big>[[G3588\|την]]</big>** |
 | this prayer. | **<big>[[G4335\|προσευχήν]]</big>** **<big>[[G3778\|ταύτην]]</big>** |
-[[2Sam.7.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.26|<< 2 Samuel 7:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.28|2 Samuel 7:28 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.26|<< 2 Samuel 7:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.28|2 Samuel 7:28 >>]]</td></tr></table>
 
 

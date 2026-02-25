@@ -1,10 +1,51 @@
+---
+title: Mark 9:6
+type: Verse
+kjv: "For he wist not what to say; for they were sore afraid."
+bsb: "For they were all so terrified that Peter did not know what else to say."
+greek: "οὐ γὰρ ᾔδει τί ἀποκριθῇ, ἔκφοβοι γὰρ ἐγένοντο.¶"
+pericope: "[[Mark.9.1 The Transfiguration|The Transfiguration]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G1492I]]"
+- "[[G5101]]"
+- "[[G0611]]"
+- "[[G1630]]"
+- "[[G1096]]"
+texts:
+- NKO
+- N(k)(o)
+- N(k)O
+---
+
 **Mark 9:6**<big><big>[[Mark.9.1 The Transfiguration|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For he wist not what to say; for they were sore afraid.
 <small><sub>**BSB:**</sub></small>
 For they were all so terrified that Peter did not know what else to say.
-<small><sub>**Literal:**</sub></small>
-Not for he knew what he may answer, terrified for they were.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.5|<< Mark 9:5]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.7|Mark 9:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G1492I\|ᾔδει]]  [[G5101\|τί]]  [[G0611\|ἀποκριθῇ,]]  [[G1630\|ἔκφοβοι]]  [[G1063\|γὰρ]]  [[G1096\|ἐγένοντο.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.5|<< Mark 9:5]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.7|Mark 9:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

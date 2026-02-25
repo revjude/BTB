@@ -1,8 +1,75 @@
+---
+title: Jeremiah 3:17
+type: Verse
+kjv: "At that time they shall call Jerusalem the throne of the LORD; and all the nations shall be gathered unto it, to the name of the LORD, to Jerusalem: neither shall they walk any more after the imagination of their evil heart."
+bsb: "At that time they will call Jerusalem The Throne of the LORD, and all the nations will be gathered in Jerusalem to honor the name of the LORD. They will no longer follow the stubbornness of their evil hearts."
+hebrew: "בָּעֵ֣ת הַהִ֗יא יִקְרְא֤וּ לִירוּשָׁלִַ֙ם֙ כִּסֵּ֣א יְהוָ֔ה וְנִקְוּ֨וּ אֵלֶ֧יהָ כָֽל־ הַגּוֹיִ֛ם לְשֵׁ֥ם יְהוָ֖ה לִירוּשָׁלִָ֑ם וְלֹא־ יֵלְכ֣וּ ע֔וֹד אַחֲרֵ֕י שְׁרִר֖וּת לִבָּ֥ם הָרָֽע׃ ס"
+pericope: "[[Jer.3.11 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 3
+book/chapter: "[[Jer.3|Jeremiah 3]]"
+chronological_order: 720
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H7121H]]"
+- "[[H9005]]"
+- "[[H3389]]"
+- "[[H3678G]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H6960B]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1471A]]"
+- "[[H8034]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H1980N]]"
+- "[[H5750]]"
+- "[[H0310A]]"
+- "[[H8307]]"
+- "[[H3820A]]"
+- "[[H9028]]"
+- "[[H7451H]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 3:17**<big><big>[[Jer.3.11 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At that time they shall call Jerusalem the throne of the LORD; and all the nations shall be gathered unto it, to the name of the LORD, to Jerusalem: neither shall they walk any more after the imagination of their evil heart.
 <small><sub>**BSB:**</sub></small>
 At that time they will call Jerusalem The Throne of the LORD, and all the nations will be gathered in Jerusalem to honor the name of the LORD. They will no longer follow the stubbornness of their evil hearts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בָּ]][[H6256\|עֵ֣ת]] [[H9009\|הַ]][[H1931\|הִ֗יא]] [[H7121H\|יִקְרְא֤וּ]] [[H9005\|לִ]][[H3389\|ירוּשָׁלִַ֙ם֙]] [[H3678G\|כִּסֵּ֣א]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וְ]][[H6960B\|נִקְוּ֨וּ]] [[H0413\|אֵלֶ֧י]][[H9034\|הָ]] [[H3605\|כָֽל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֛ם]] [[H9005\|לְ]][[H8034\|שֵׁ֥ם]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לִ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H1980N\|יֵלְכ֣וּ]] [[H5750\|ע֔וֹד]] [[H0310A\|אַחֲרֵ֕י]] [[H8307\|שְׁרִר֖וּת]] [[H3820A\|לִבָּ֥]][[H9028\|ם]] [[H9009\|הָ]][[H7451H\|רָֽע]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.16|<< Jeremiah 3:16]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.18|Jeremiah 3:18 >>]]</td></tr></table>
 
@@ -27,7 +94,7 @@ At that time they will call Jerusalem The Throne of the LORD, and all the nation
 | after  |**<big>&#8207;[[H0310A\|אַחֲרֵ֕י]]&#8207; </big>**| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] stubbornness of  |**<big>&#8207;[[H8307\|שְׁרִר֖וּת]]&#8207; </big>**| she.ri.Rut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | heart their  |**<big>&#8207;[[H3820A\|לִבָּ֥]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| li.Ba<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> evil  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7451H\|רָֽע]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> evil  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7451H\|רָֽע]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.16|<< Jeremiah 3:16]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.18|Jeremiah 3:18 >>]]</td></tr></table>
 
 

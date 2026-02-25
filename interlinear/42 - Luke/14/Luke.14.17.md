@@ -1,10 +1,67 @@
+---
+title: Luke 14:17
+type: Verse
+kjv: "And sent his servant at supper time to say to them that were bidden, Come; for all things are now ready."
+bsb: "When it was time for the banquet, he sent his servant to tell those who had been invited, ‘Come, for everything is now ready.’"
+jesus_said: "And sent his servant at supper time to say to them that were bidden, Come; for all things are now ready."
+greek: "καὶ ἀπέστειλεν τὸν δοῦλον αὐτοῦ τῇ ὥρᾳ τοῦ δείπνου εἰπεῖν τοῖς κεκλημένοις· ἔρχεσθε, ὅτι ἤδη ἕτοιμά ἐστιν πάντα."
+pericope: "[[Luke.14.15 The Parable of the Banquet|The Parable of the Banquet]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 14
+book/chapter: "[[Luke.14|Luke 14]]"
+chronological_order: 976
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G0649]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G0846]]"
+- "[[G5610]]"
+- "[[G1173]]"
+- "[[G2036]]"
+- "[[G2564G]]"
+- "[[G2064]]"
+- "[[G3754H]]"
+- "[[G2235]]"
+- "[[G2092]]"
+- "[[G1510]]"
+- "[[G3956]]"
+texts:
+- NKO
+- KO
+---
+
 **Luke 14:17**<big><big>[[Luke.14.15 The Parable of the Banquet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And sent his servant at supper time to say to them that were bidden, Come; for all things are now ready.
 <small><sub>**BSB:**</sub></small>
 When it was time for the banquet, he sent his servant to tell those who had been invited, ‘Come, for everything is now ready.’
-<small><sub>**Literal:**</sub></small>
-And he sent the servant of him at the hour of the supper to say to those invited; do come, for now ready [it] is all things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.16|<< Luke 14:16]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.18|Luke 14:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0649\|ἀπέστειλεν]]  [[G3588\|τὸν]]  [[G1401\|δοῦλον]]  [[G0846\|αὐτοῦ]]  [[G3588\|τῇ]]  [[G5610\|ὥρᾳ]]  [[G3588\|τοῦ]]  [[G1173\|δείπνου]]  [[G2036\|εἰπεῖν]]  [[G3588\|τοῖς]]  [[G2564G\|κεκλημένοις·]]  [[G2064\|ἔρχεσθε,]]  [[G3754H\|ὅτι]]  [[G2235\|ἤδη]]  [[G2092\|ἕτοιμά]]  [[G1510\|ἐστιν]]  [[G3956\|πάντα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FEASTS|FEASTS]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic REPROOF|REPROOF]] • [[topic SALVATION|SALVATION]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.16|<< Luke 14:16]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.18|Luke 14:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

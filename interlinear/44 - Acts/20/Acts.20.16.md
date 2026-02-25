@@ -1,10 +1,65 @@
+---
+title: Acts 20:16
+type: Verse
+kjv: "For Paul had determined to sail by Ephesus, because he would not spend the time in Asia: for he hasted, if it were possible for him, to be at Jerusalem the day of Pentecost."
+bsb: "Paul had decided to sail past Ephesus to avoid spending time in the province of Asia, because he was in a hurry to reach Jerusalem, if possible, by the day of Pentecost."
+greek: "κεκρίκει γὰρ ὁ Παῦλος παραπλεῦσαι τὴν Ἔφεσον, ὅπως μὴ γένηται αὐτῷ χρονοτριβῆσαι ἐν τῇ Ἀσίᾳ· ἔσπευδεν γὰρ εἰ δυνατὸν εἴη αὐτῷ τὴν ἡμέραν τῆς πεντηκοστῆς γενέσθαι εἰς Ἱεροσόλυμα.¶"
+pericope: "[[Acts.20.13 From Troas to Miletus|From Troas to Miletus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 20
+book/chapter: "[[Acts.20|Acts 20]]"
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ASIA|ASIA]]"
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PENTECOST|PENTECOST]]"
+strongs:
+- "[[G2919]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G3896]]"
+- "[[G2181]]"
+- "[[G3704]]"
+- "[[G3361]]"
+- "[[G1096]]"
+- "[[G0846]]"
+- "[[G5551]]"
+- "[[G1722]]"
+- "[[G0773]]"
+- "[[G4692]]"
+- "[[G1487G]]"
+- "[[G1415]]"
+- "[[G1510]]"
+- "[[G2250]]"
+- "[[G4005]]"
+- "[[G1519]]"
+- "[[G2414]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **Acts 20:16**<big><big>[[Acts.20.13 From Troas to Miletus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For Paul had determined to sail by Ephesus, because he would not spend the time in Asia: for he hasted, if it were possible for him, to be at Jerusalem the day of Pentecost.
 <small><sub>**BSB:**</sub></small>
 Paul had decided to sail past Ephesus to avoid spending time in the province of Asia, because he was in a hurry to reach Jerusalem, if possible, by the day of Pentecost.
-<small><sub>**Literal:**</sub></small>
-Had decided for <the> Paul to sail by <the> Ephesus, so that not it may happen to him to spend time in <the> Asia; he was hastened for if possible it would be for him on the day <the> of Pentecost to be in Jerusalem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.15|<< Acts 20:15]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.17|Acts 20:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2919\|κεκρίκει]]  [[G1063\|γὰρ]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος]]  [[G3896\|παραπλεῦσαι]]  [[G3588\|τὴν]]  [[G2181\|Ἔφεσον,]]  [[G3704\|ὅπως]]  [[G3361\|μὴ]]  [[G1096\|γένηται]]  [[G0846\|αὐτῷ]]  [[G5551\|χρονοτριβῆσαι]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0773\|Ἀσίᾳ·]]  [[G4692\|ἔσπευδεν]]  [[G1063\|γὰρ]]  [[G1487G\|εἰ]]  [[G1415\|δυνατὸν]]  [[G1510\|εἴη]]  [[G0846\|αὐτῷ]]  [[G3588\|τὴν]]  [[G2250\|ἡμέραν]]  [[G3588\|τῆς]]  [[G4005\|πεντηκοστῆς]]  [[G1096\|γενέσθαι]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASIA|ASIA]] • [[topic EPHESUS|EPHESUS]] • [[topic FEASTS|FEASTS]] • [[topic PAUL|PAUL]] • [[topic PENTECOST|PENTECOST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.15|<< Acts 20:15]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.17|Acts 20:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,6 +1,75 @@
+---
+title: LXX 1 Kings 7:26
+type: Verse
+lxx: "And all the posteriors were to the inside, and the thickness of it was a palm, and the rim of it was as a rim work of a cup with a lily bud. It had a capacity of two thousand coos."
+greek: "και πάντων τα οπίσθια εις το ένδον και το πάχος αυτής παλαιστής και το χείλος αυτής ωσεί έργον χείλους ποτηρίου βλαστόν κρίνον δύο χιλιάδας χόεις εχώρει"
+original_language: Greek
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ART|ART]]"
+- "[[topic BATH|BATH]]"
+- "[[topic BRASS|BRASS]]"
+- "[[topic CARVING|CARVING]]"
+- "[[topic CHAPITER|CHAPITER]]"
+- "[[topic CUP|CUP]]"
+- "[[topic HANDBREADTH|HANDBREADTH]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic LILY|LILY]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G3588]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G8531]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G7228]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G8673]]"
+- "[[G1473]]"
+- "[[G8585]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5491]]"
+- "[[G1473]]"
+- "[[G5616]]"
+- "[[G2041]]"
+- "[[G5491]]"
+- "[[G4221]]"
+- "[[G0986]]"
+- "[[G2918]]"
+- "[[G1417]]"
+- "[[G5505]]"
+- "[[G9753]]"
+- "[[G5562]]"
+---
+
 **LXX 1 Kings 7:26** 
 <small><sub>**LXX:**</sub></small>
 And all the posteriors \[were\] to the inside, and the thickness of it \[was\] a palm, and the rim of it \[was\] as a rim work of a cup \[with\] a lily bud. It had a capacity of two thousand coos. 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|και]] [[G3956\|πάντων]] [[G3588\|τα]] [[G8531\|οπίσθια]] [[G1519\|εις]] [[G3588\|το]] [[G7228\|ένδον]] [[G2532\|και]] [[G3588\|το]] [[G8673\|πάχος]] [[G1473\|αυτής]] [[G8585\|παλαιστής]] [[G2532\|και]] [[G3588\|το]] [[G5491\|χείλος]] [[G1473\|αυτής]] [[G5616\|ωσεί]] [[G2041\|έργον]] [[G5491\|χείλους]] [[G4221\|ποτηρίου]] [[G0986\|βλαστόν]] [[G2918\|κρίνον]] [[G1417\|δύο]] [[G5505\|χιλιάδας]] [[G9753\|χόεις]] [[G5562\|εχώρει]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic BATH|BATH]] • [[topic BRASS|BRASS]] • [[topic CARVING|CARVING]] • [[topic CHAPITER|CHAPITER]] • [[topic CUP|CUP]] • [[topic HANDBREADTH|HANDBREADTH]] • [[topic HIRAM|HIRAM]] • [[topic LILY|LILY]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MEASURE|MEASURE]] • [[topic MECHANIC|MECHANIC]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Kgs.7.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.25|<< 1 Kings 7:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.27|1 Kings 7:27 >>]]</td></tr></table>
 
@@ -32,6 +101,6 @@ And all the posteriors \[were\] to the inside, and the thickness of it \[was\] a
 | thousand | **<big>[[G5505\|χιλιάδας]]</big>** |
 | coos | **<big>[[G9753\|χόεις]]</big>** |
 | It had a capacity | **<big>[[G5562\|εχώρει]]</big>** |
-[[1Kgs.7.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.25|<< 1 Kings 7:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.27|1 Kings 7:27 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.25|<< 1 Kings 7:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.27|1 Kings 7:27 >>]]</td></tr></table>
 
 

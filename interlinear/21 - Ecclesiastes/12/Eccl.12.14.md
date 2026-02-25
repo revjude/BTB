@@ -1,8 +1,63 @@
+---
+title: Ecclesiastes 12:14
+type: Verse
+kjv: "For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil."
+bsb: "For God will bring every deed into judgment, along with every hidden thing, whether good or evil."
+hebrew: "כִּ֤י אֶת־ כָּל־ מַֽעֲשֶׂ֔ה הָאֱלֹהִ֛ים יָבִ֥א בְמִשְׁפָּ֖ט עַ֣ל כָּל־ נֶעְלָ֑ם אִם־ ט֖וֹב וְאִם־ רָֽע׃"
+pericope: "[[Eccl.12.9 The Whole Duty of Man|The Whole Duty of Man]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 12
+book/chapter: "[[Eccl.12|Ecclesiastes 12]]"
+chronological_order: 550
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INVESTIGATION|INVESTIGATION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic SECRET|SECRET]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H4639K]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H0935P]]"
+- "[[H9003]]"
+- "[[H4941G]]"
+- "[[H5921A]]"
+- "[[H5956]]"
+- "[[H0518A]]"
+- "[[H2896A]]"
+- "[[H9002]]"
+- "[[H7451H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 12:14**<big><big>[[Eccl.12.9 The Whole Duty of Man|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For God shall bring every work into judgment, with every secret thing, whether [it be] good, or whether [it be] evil.
 <small><sub>**BSB:**</sub></small>
 For God will bring every deed into judgment, along with every hidden thing, whether good or evil.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4639K\|מַֽעֲשֶׂ֔ה]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֛ים]] [[H0935P\|יָבִ֥א]] [[H9003\|בְ]][[H4941G\|מִשְׁפָּ֖ט]] [[H5921A\|עַ֣ל]] [[H3605\|כָּל]][[H9014\|־]] [[H5956\|נֶעְלָ֑ם]] [[H0518A\|אִם]][[H9014\|־]] [[H2896A\|ט֖וֹב]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H7451H\|רָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INVESTIGATION|INVESTIGATION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic SECRET|SECRET]] • [[topic SIN|SIN]] • [[topic WORKS|WORKS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.12.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.12.13|<< Ecclesiastes 12:13]]</td><td align="center" style="border:none;">[[Eccl.12|Ecclesiastes 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.1.1|Song of Solomon 1:1 >>]]</td></tr></table>
 

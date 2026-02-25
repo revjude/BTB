@@ -1,8 +1,57 @@
+---
+title: 2 Samuel 15:37
+type: Verse
+kjv: "So Hushai David’s friend came into the city, and Absalom came into Jerusalem."
+bsb: "So David’s friend Hushai arrived in Jerusalem just as Absalom was entering the city."
+hebrew: "וַיָּבֹ֥א חוּשַׁ֛י רֵעֶ֥ה דָוִ֖ד הָעִ֑יר וְאַבְשָׁלֹ֔ם יָבֹ֖א יְרוּשָׁלִָֽם׃"
+pericope: "[[2Sam.15.30 David Weeps at the Mount of Olives|David Weeps at the Mount of Olives]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 15
+book/chapter: "[[2Sam.15|2 Samuel 15]]"
+chronological_order: 414
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic HUSHAI|HUSHAI]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H2365]]"
+- "[[H7463]]"
+- "[[H1732]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H9002]]"
+- "[[H0053]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 15:37**<big><big>[[2Sam.15.30 David Weeps at the Mount of Olives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Hushai David’s friend came into the city, and Absalom came into Jerusalem.
 <small><sub>**BSB:**</sub></small>
 So David’s friend Hushai arrived in Jerusalem just as Absalom was entering the city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֥א]] [[H2365\|חוּשַׁ֛י]] [[H7463\|רֵעֶ֥ה]] [[H1732\|דָוִ֖ד]] [[H9009\|הָ]][[H5892B\|עִ֑יר]] [[H9002\|וְ]][[H0053\|אַבְשָׁלֹ֔ם]] [[H0935G\|יָבֹ֖א]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic HUSHAI|HUSHAI]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.36|<< 2 Samuel 15:36]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.1|2 Samuel 16:1 >>]]</td></tr></table>
 

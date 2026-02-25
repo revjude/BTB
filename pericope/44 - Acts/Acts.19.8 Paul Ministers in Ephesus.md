@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul Ministers in Ephesus
+type: Pericope
 pericope: "[[Acts.19.8 Paul Ministers in Ephesus|Paul Ministers in Ephesus]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Acts
 chapter: 19
 book/chapter: "[[Acts.19|Acts 19]]"
-genre:
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 5
 verses:
 - "[[Acts.19.8]]"
 - "[[Acts.19.9]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Acts.19.12]]"
 ---
 
-[[Acts.19|Acts 19:8 - Acts 19:12]]
+<small>[[Acts.19|Acts 19:8-12]]</small>
 *Paul Ministers in Ephesus*
 
 [[Acts.19.8|8]] And he went into the synagogue, and spake boldly for the space of three months, disputing and persuading the things concerning the kingdom of God.

@@ -1,8 +1,56 @@
+---
+title: 1 Chronicles 4:39
+type: Verse
+kjv: "And they went to the entrance of Gedor, even unto the east side of the valley, to seek pasture for their flocks."
+bsb: "and they journeyed to the entrance of Gedor, to the east side of the valley, in search of pasture for their flocks."
+hebrew: "וַיֵּלְכוּ֙ לִמְב֣וֹא גְדֹ֔ר עַ֖ד לְמִזְרַ֣ח הַגָּ֑יְא לְבַקֵּ֥שׁ מִרְעֶ֖ה לְצֹאנָֽם׃"
+pericope: "[[1Chr.4.24 The Descendants of Simeon|The Descendants of Simeon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 4
+book/chapter: "[[1Chr.4|1 Chronicles 4]]"
+chronological_order: 323
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic GEDOR|GEDOR]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic SIMEON|SIMEON]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H3996]]"
+- "[[H1446H]]"
+- "[[H5704]]"
+- "[[H4217H]]"
+- "[[H9009]]"
+- "[[H1516R]]"
+- "[[H1245]]"
+- "[[H4829]]"
+- "[[H6629G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 4:39**<big><big>[[1Chr.4.24 The Descendants of Simeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they went to the entrance of Gedor, [even] unto the east side of the valley, to seek pasture for their flocks.
 <small><sub>**BSB:**</sub></small>
 and they journeyed to the entrance of Gedor, to the east side of the valley, in search of pasture for their flocks.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּלְכוּ֙]] [[H9005\|לִ]][[H3996\|מְב֣וֹא]] [[H1446H\|גְדֹ֔ר]] [[H5704\|עַ֖ד]] [[H9005\|לְ]][[H4217H\|מִזְרַ֣ח]] [[H9009\|הַ]][[H1516R\|גָּ֑יְא]] [[H9005\|לְ]][[H1245\|בַקֵּ֥שׁ]] [[H4829\|מִרְעֶ֖ה]] [[H9005\|לְ]][[H6629G\|צֹאנָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GEDOR|GEDOR]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic SIMEON|SIMEON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.38|<< 1 Chronicles 4:38]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.40|1 Chronicles 4:40 >>]]</td></tr></table>
 

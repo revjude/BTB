@@ -1,8 +1,68 @@
+---
+title: Genesis 45:26
+type: Verse
+kjv: "And told him, saying, Joseph is yet alive, and he is governor over all the land of Egypt. And Jacob’s heart fainted, for he believed them not."
+bsb: "“Joseph is still alive,” they said, “and he is ruler over all the land of Egypt!” But Jacob was stunned, for he did not believe them."
+hebrew: "וַיַּגִּ֨דוּ ל֜וֹ לֵאמֹ֗ר ע֚וֹד יוֹסֵ֣ף חַ֔י וְכִֽי־ ה֥וּא מֹשֵׁ֖ל בְּכָל־ אֶ֣רֶץ מִצְרָ֑יִם וַיָּ֣פָג לִבּ֔וֹ כִּ֥י לֹא־ הֶאֱמִ֖ין לָהֶֽם׃"
+pericope: "[[Gen.45.25 The Revival of Jacob|The Revival of Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 45
+book/chapter: "[[Gen.45|Genesis 45]]"
+chronological_order: 87
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic JACOB|JACOB]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H5750]]"
+- "[[H3130G]]"
+- "[[H2416A]]"
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H4910]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H6313]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H0539]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 45:26**<big><big>[[Gen.45.25 The Revival of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And told him, saying, Joseph [is] yet alive, and he [is] governor over all the land of Egypt. And Jacob’s heart fainted, for he believed them not.
 <small><sub>**BSB:**</sub></small>
 “Joseph is still alive,” they said, “and he is ruler over all the land of Egypt!” But Jacob was stunned, for he did not believe them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5046\|יַּגִּ֨דוּ]] [[H9005\|ל֜]][[H9033\|וֹ]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H5750\|ע֚וֹד]] [[H3130G\|יוֹסֵ֣ף]] [[H2416A\|חַ֔י]] [[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H1931\|ה֥וּא]] [[H4910\|מֹשֵׁ֖ל]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H9001\|וַ]][[H6313\|יָּ֣פָג]] [[H3820A\|לִבּ֔]][[H9023\|וֹ]] [[H3588A\|כִּ֥י]] [[H3808\|לֹא]][[H9014\|־]] [[H0539\|הֶאֱמִ֖ין]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACOB|JACOB]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.45.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.25|<< Genesis 45:25]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.27|Genesis 45:27 >>]]</td></tr></table>
 

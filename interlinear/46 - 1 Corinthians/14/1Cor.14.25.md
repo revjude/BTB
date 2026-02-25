@@ -1,10 +1,62 @@
+---
+title: 1 Corinthians 14:25
+type: Verse
+kjv: "And thus are the secrets of his heart made manifest; and so falling down on his face he will worship God, and report that God is in you of a truth."
+bsb: "and the secrets of his heart will be made known. So he will fall facedown and worship God, proclaiming, “God is truly among you!”"
+greek: "καὶ οὕτως τὰ κρυπτὰ τῆς καρδίας αὐτοῦ φανερὰ γίνεται, καὶ οὕτως πεσὼν ἐπὶ πρόσωπον προσκυνήσει τῷ θεῷ ἀπαγγέλλων ὅτι ὄντως ὁ θεὸς ἐν ὑμῖν ἐστιν.¶"
+pericope: "[[1Cor.14.1 Prophecy and Tongues|Prophecy and Tongues]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 14
+book/chapter: "[[1Cor.14|1 Corinthians 14]]"
+chronological_order: 1071
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]"
+strongs:
+- "[[G2532]]"
+- "[[G3779]]"
+- "[[G3588]]"
+- "[[G2927]]"
+- "[[G2588]]"
+- "[[G0846]]"
+- "[[G5318]]"
+- "[[G1096]]"
+- "[[G4098]]"
+- "[[G1909]]"
+- "[[G4383]]"
+- "[[G4352]]"
+- "[[G2316]]"
+- "[[G0518]]"
+- "[[G3754G]]"
+- "[[G3689]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G1510]]"
+texts:
+- K
+- NKO
+---
+
 **1 Corinthians 14:25**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And thus are the secrets of his heart made manifest; and so falling down on [his] face he will worship God, and report that God is in you of a truth.
 <small><sub>**BSB:**</sub></small>
 and the secrets of his heart will be made known. So he will fall facedown and worship God, proclaiming, “God is truly among you!”
-<small><sub>**Literal:**</sub></small>
-and thus the secrets of the heart of him manifest become, And thus having fallen upon [his] face he will worship <the> God declaring that certainly <the> God among you is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.24|<< 1 Corinthians 14:24]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.26|1 Corinthians 14:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3779\|οὕτως]]  [[G3588\|τὰ]]  [[G2927\|κρυπτὰ]]  [[G3588\|τῆς]]  [[G2588\|καρδίας]]  [[G0846\|αὐτοῦ]]  [[G5318\|φανερὰ]]  [[G1096\|γίνεται,]]  [[G2532\|καὶ]]  [[G3779\|οὕτως]]  [[G4098\|πεσὼν]]  [[G1909\|ἐπὶ]]  [[G4383\|πρόσωπον]]  [[G4352\|προσκυνήσει]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G0518\|ἀπαγγέλλων]]  [[G3754G\|ὅτι]]  [[G3689\|ὄντως]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G1510\|ἐστιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVICTION|CONVICTION]] • [[topic LANGUAGE|LANGUAGE]] • [[topic PREACHING|PREACHING]] • [[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.24|<< 1 Corinthians 14:24]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.26|1 Corinthians 14:26 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Corinthians 14:25** is...
 > $\quad$ referencing: [[LXX.Isa.45.14|Isa 45:14]]

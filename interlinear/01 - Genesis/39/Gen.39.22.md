@@ -1,8 +1,65 @@
+---
+title: Genesis 39:22
+type: Verse
+kjv: "And the keeper of the prison committed to Joseph’s hand all the prisoners that were in the prison; and whatsoever they did there, he was the doer of it."
+bsb: "And the warden put all the prisoners under Joseph’s care, so that he was responsible for all that was done in the prison."
+hebrew: "וַיִּתֵּ֞ן שַׂ֤ר בֵּית־ הַסֹּ֙הַר֙ בְּיַד־ יוֹסֵ֔ף אֵ֚ת כָּל־ הָ֣אֲסִירִ֔ם אֲשֶׁ֖ר בְּבֵ֣ית הַסֹּ֑הַר וְאֵ֨ת כָּל־ אֲשֶׁ֤ר עֹשִׂים֙ שָׁ֔ם ה֖וּא הָיָ֥ה עֹשֶֽׂה׃"
+pericope: "[[Gen.39.13 Joseph Falsely Imprisoned|Joseph Falsely Imprisoned]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 39
+book/chapter: "[[Gen.39|Genesis 39]]"
+chronological_order: 81
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CRIMINALS|CRIMINALS]]"
+- "[[topic MERCY|MERCY]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H8269]]"
+- "[[H1004B]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5470]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H3130G]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H0615]]"
+- "[[H0834A]]"
+- "[[H9002]]"
+- "[[H6213A]]"
+- "[[H8033G]]"
+- "[[H1931]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 39:22**<big><big>[[Gen.39.13 Joseph Falsely Imprisoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the keeper of the prison committed to Joseph’s hand all the prisoners that [were] in the prison; and whatsoever they did there, he was the doer [of it].
 <small><sub>**BSB:**</sub></small>
 And the warden put all the prisoners under Joseph’s care, so that he was responsible for all that was done in the prison.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414H\|יִּתֵּ֞ן]] [[H8269\|שַׂ֤ר]] [[H1004B\|בֵּית]][[H9014\|־]] [[H9009\|הַ]][[H5470\|סֹּ֙הַר֙]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H3130G\|יוֹסֵ֔ף]] [[H0853\|אֵ֚ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ֣]][[H0615\|אֲסִירִ֔ם]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בְּ]][[H1004B\|בֵ֣ית]] [[H9009\|הַ]][[H5470\|סֹּ֑הַר]] [[H9002\|וְ]][[H0853\|אֵ֨ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֤ר]] [[H6213A\|עֹשִׂים֙]] [[H8033G\|שָׁ֔ם]] [[H1931\|ה֖וּא]] [[H1961\|הָיָ֥ה]] [[H6213A\|עֹשֶֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRIMINALS|CRIMINALS]] • [[topic MERCY|MERCY]] • [[topic PRISONERS|PRISONERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.21|<< Genesis 39:21]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.23|Genesis 39:23 >>]]</td></tr></table>
 

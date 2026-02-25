@@ -1,10 +1,59 @@
+---
+title: Luke 10:5
+type: Verse
+kjv: "And into whatsoever house ye enter, first say, Peace be to this house."
+bsb: "Whatever house you enter, begin by saying, ‘Peace to this house.’"
+jesus_said: "And into whatsoever house ye enter, first say, Peace be to this house."
+greek: "εἰς ἣν δ᾽ ἂν εἰσέλθητε οἰκίαν, πρῶτον λέγετε· εἰρήνη τῷ οἴκῳ τούτῳ."
+pericope: "[[Luke.10.1 Jesus Sends the Seventy-Two|Jesus Sends the Seventy-Two]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 10
+book/chapter: "[[Luke.10|Luke 10]]"
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GUEST|GUEST]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SALUTATIONS|SALUTATIONS]]"
+- "[[topic SEVENTY|SEVENTY]]"
+strongs:
+- "[[G1519]]"
+- "[[G3739]]"
+- "[[G1161]]"
+- "[[G0302]]"
+- "[[G1525]]"
+- "[[G3614G]]"
+- "[[G4413G]]"
+- "[[G3004G]]"
+- "[[G1515]]"
+- "[[G3588]]"
+- "[[G3624G]]"
+- "[[G3778]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 10:5**<big><big>[[Luke.10.1 Jesus Sends the Seventy-Two|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And into whatsoever house ye enter, first say, Peace [be] to this house.
 <small><sub>**BSB:**</sub></small>
 Whatever house you enter, begin by saying, ‘Peace to this house.’
-<small><sub>**Literal:**</sub></small>
-Into whatever now maybe you may enter house first do say: Peace to the house this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.4|<< Luke 10:4]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.6|Luke 10:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1519\|εἰς]]  [[G3739\|ἣν]]  [[G1161\|δ᾽]]  [[G0302\|ἂν]]  [[G1525\|εἰσέλθητε]]  [[G3614G\|οἰκίαν,]]  [[G4413G\|πρῶτον]]  [[G3004G\|λέγετε·]]  [[G1515\|εἰρήνη]]  [[G3588\|τῷ]]  [[G3624G\|οἴκῳ]]  [[G3778\|τούτῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GUEST|GUEST]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SALUTATIONS|SALUTATIONS]] • [[topic SEVENTY|SEVENTY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.4|<< Luke 10:4]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.6|Luke 10:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

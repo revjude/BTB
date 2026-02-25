@@ -1,8 +1,60 @@
+---
+title: 2 Samuel 18:1
+type: Verse
+kjv: "And David numbered the people that were with him, and set captains of thousands and captains of hundreds over them."
+bsb: "Then David reviewed his troops and appointed over them commanders of thousands and of hundreds."
+hebrew: "וַיִּפְקֹ֣ד דָּוִ֔ד אֶת־ הָעָ֖ם אֲשֶׁ֣ר אִתּ֑וֹ וַיָּ֣שֶׂם עֲלֵיהֶ֔ם שָׂרֵ֥י אֲלָפִ֖ים וְשָׂרֵ֥י מֵאֽוֹת׃"
+pericope: "[[2Sam.18.1 Absalom Killed|Absalom Killed]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 18
+book/chapter: "[[2Sam.18|2 Samuel 18]]"
+chronological_order: 417
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CAPTAIN|CAPTAIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H6485A]]"
+- "[[H1732]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971K]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H7760L]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H8269]]"
+- "[[H0505G]]"
+- "[[H9002]]"
+- "[[H3967]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 18:1**<big><big>[[2Sam.18.1 Absalom Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David numbered the people that [were] with him, and set captains of thousands and captains of hundreds over them.
 <small><sub>**BSB:**</sub></small>
 Then David reviewed his troops and appointed over them commanders of thousands and of hundreds.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6485A\|יִּפְקֹ֣ד]] [[H1732\|דָּוִ֔ד]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971K\|עָ֖ם]] [[H0834A\|אֲשֶׁ֣ר]] [[H0854\|אִתּ֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H7760L\|יָּ֣שֶׂם]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֔ם]] [[H8269\|שָׂרֵ֥י]] [[H0505G\|אֲלָפִ֖ים]] [[H9002\|וְ]][[H8269\|שָׂרֵ֥י]] [[H3967\|מֵאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CAPTAIN|CAPTAIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.18.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.29|<< 2 Samuel 17:29]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.2|2 Samuel 18:2 >>]]</td></tr></table>
 

@@ -1,10 +1,64 @@
+---
+title: 2 Corinthians 7:14
+type: Verse
+kjv: "For if I have boasted any thing to him of you, I am not ashamed; but as we spake all things to you in truth, even so our boasting, which I made before Titus, is found a truth."
+bsb: "Indeed, I was not embarrassed by anything I had boasted to him about you. But just as everything we said to you was true, so our boasting to Titus has proved to be true as well."
+greek: "ὅτι εἴ τι αὐτῷ ὑπὲρ ὑμῶν κεκαύχημαι, οὐ κατῃσχύνθην, ἀλλ᾽ ὡς πάντα ἐν ἀληθείᾳ ἐλαλήσαμεν ὑμῖν, οὕτως καὶ ἡ καύχησις ἡμῶν ἡ ἐπὶ Τίτου, ἀλήθεια ἐγενήθη·"
+pericope: "[[2Cor.7.1 Paul’s Joy in the Corinthians|Paul’s Joy in the Corinthians]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 7
+book/chapter: "[[2Cor.7|2 Corinthians 7]]"
+chronological_order: 1080
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic AFFECTIONS|AFFECTIONS]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G3754H]]"
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G0846]]"
+- "[[G5228]]"
+- "[[G4771]]"
+- "[[G2744]]"
+- "[[G3756]]"
+- "[[G2617]]"
+- "[[G0235]]"
+- "[[G5613]]"
+- "[[G3956]]"
+- "[[G1722]]"
+- "[[G0225]]"
+- "[[G2980]]"
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2746]]"
+- "[[G3165]]"
+- "[[G1909]]"
+- "[[G5103]]"
+- "[[G1096]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 7:14**<big><big>[[2Cor.7.1 Paul’s Joy in the Corinthians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For if I have boasted any thing to him of you, I am not ashamed; but as we spake all things to you in truth, even so our boasting, which [I made] before Titus, is found a truth.
 <small><sub>**BSB:**</sub></small>
 Indeed, I was not embarrassed by anything I had boasted to him about you. But just as everything we said to you was true, so our boasting to Titus has proved to be true as well.
-<small><sub>**Literal:**</sub></small>
-For if anything to him about you I have boasted, not I was put to shame, but as all things in truth we have spoken to you, so also the boasting of us <the> to Titus, truth became;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.7.13|<< 2 Corinthians 7:13]]</td><td align="center" style="border:none;">[[2Cor.7|2 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.15|2 Corinthians 7:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G1487G\|εἴ]]  [[G5100\|τι]]  [[G0846\|αὐτῷ]]  [[G5228\|ὑπὲρ]]  [[G4771\|ὑμῶν]]  [[G2744\|κεκαύχημαι,]]  [[G3756\|οὐ]]  [[G2617\|κατῃσχύνθην,]]  [[G0235\|ἀλλ᾽]]  [[G5613\|ὡς]]  [[G3956\|πάντα]]  [[G1722\|ἐν]]  [[G0225\|ἀληθείᾳ]]  [[G2980\|ἐλαλήσαμεν]]  [[G4771\|ὑμῖν,]]  [[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G2746\|καύχησις]]  [[G3165\|ἡμῶν]]  [[G3588\|ἡ]]  [[G1909\|ἐπὶ]]  [[G5103\|Τίτου,]]  [[G0225\|ἀλήθεια]]  [[G1096\|ἐγενήθη·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFECTIONS|AFFECTIONS]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.7.13|<< 2 Corinthians 7:13]]</td><td align="center" style="border:none;">[[2Cor.7|2 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.15|2 Corinthians 7:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

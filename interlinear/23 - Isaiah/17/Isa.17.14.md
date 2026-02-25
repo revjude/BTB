@@ -1,8 +1,60 @@
+---
+title: Isaiah 17:14
+type: Verse
+kjv: "And behold at eveningtide trouble; and before the morning he is not. This is the portion of them that spoil us, and the lot of them that rob us."
+bsb: "In the evening, there is sudden terror! Before morning, they are no more! This is the portion of those who loot us and the lot of those who plunder us."
+hebrew: "לְעֵ֥ת עֶ֙רֶב֙ וְהִנֵּ֣ה בַלָּהָ֔ה בְּטֶ֥רֶם בֹּ֖קֶר אֵינֶ֑נּוּ זֶ֚ה חֵ֣לֶק שׁוֹסֵ֔ינוּ וְגוֹרָ֖ל לְבֹזְזֵֽינוּ׃ ס"
+pericope: "[[Isa.17.1 The Burden against Damascus|The Burden against Damascus]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 17
+book/chapter: "[[Isa.17|Isaiah 17]]"
+chronological_order: 634
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic DEATH|DEATH]]"
+strongs:
+- "[[H9005]]"
+- "[[H6256]]"
+- "[[H6153]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H1091]]"
+- "[[H9003]]"
+- "[[H2962]]"
+- "[[H1242]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H2088]]"
+- "[[H2506A]]"
+- "[[H8154]]"
+- "[[H9035]]"
+- "[[H1486]]"
+- "[[H0962]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 17:14**<big><big>[[Isa.17.1 The Burden against Damascus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And behold at eveningtide trouble; [and] before the morning he [is] not. This [is] the portion of them that spoil us, and the lot of them that rob us.
 <small><sub>**BSB:**</sub></small>
 In the evening, there is sudden terror! Before morning, they are no more! This is the portion of those who loot us and the lot of those who plunder us.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H6256\|עֵ֥ת]] [[H6153\|עֶ֙רֶב֙]] [[H9002\|וְ]][[H2009\|הִנֵּ֣ה]] [[H1091\|בַלָּהָ֔ה]] [[H9003\|בְּ]][[H2962\|טֶ֥רֶם]] [[H1242\|בֹּ֖קֶר]] [[H0369\|אֵינֶ֑]][[H9043\|נּוּ]] [[H2088\|זֶ֚ה]] [[H2506A\|חֵ֣לֶק]] [[H8154\|שׁוֹסֵ֔י]][[H9035\|נוּ]] [[H9002\|וְ]][[H1486\|גוֹרָ֖ל]] [[H9005\|לְ]][[H0962\|בֹזְזֵֽי]][[H9035\|נוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.17.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.13|<< Isaiah 17:13]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.18.1|Isaiah 18:1 >>]]</td></tr></table>
 
@@ -19,7 +71,7 @@ In the evening, there is sudden terror! Before morning, they are no more! This i
 | [will be] [the] portion of  |**<big>&#8207;[[H2506A\|חֵ֣לֶק]]&#8207; </big>**| Che.lek<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those who] plunder us  |**<big>&#8207;[[H8154\|שׁוֹסֵ֔י]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| sho.Sei.<small><sup>[[HVqrmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [the] lot  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1486\|גוֹרָ֖ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> go.Ral<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of [those who] despoil us  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0962\|בֹזְזֵֽי]]&#8207;&#8207;[[H9035\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> vo.ze.Zei.<small><sup>[[HVqrmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of [those who] despoil us  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0962\|בֹזְזֵֽי]]&#8207;&#8207;[[H9035\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> vo.ze.Zei.<small><sup>[[HVqrmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.13|<< Isaiah 17:13]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.18.1|Isaiah 18:1 >>]]</td></tr></table>
 
 

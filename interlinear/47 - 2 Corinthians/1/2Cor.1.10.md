@@ -1,10 +1,55 @@
+---
+title: 2 Corinthians 1:10
+type: Verse
+kjv: "Who delivered us from so great a death, and doth deliver: in whom we trust that he will yet deliver us;"
+bsb: "He has delivered us from such a deadly peril, and He will deliver us. In Him we have placed our hope that He will yet again deliver us,"
+greek: "ὃς ἐκ τηλικούτου θανάτου ἐρρύσατο ἡμᾶς καὶ ῥύσεται εἰς ὃν ἠλπίκαμεν ὅτι καὶ ἔτι ῥύσεται"
+pericope: "[[2Cor.1.3 The God of All Comfort|The God of All Comfort]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 1
+book/chapter: "[[2Cor.1|2 Corinthians 1]]"
+chronological_order: 1074
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G3739]]"
+- "[[G1537]]"
+- "[[G5082]]"
+- "[[G2288]]"
+- "[[G4506]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[G1679]]"
+- "[[G3754G]]"
+- "[[G2089]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Corinthians 1:10**<big><big>[[2Cor.1.3 The God of All Comfort|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who delivered us from so great a death, and doth deliver: in whom we trust that he will yet deliver [us];
 <small><sub>**BSB:**</sub></small>
 He has delivered us from such a deadly peril, and He will deliver us. In Him we have placed our hope that He will yet again deliver us,
-<small><sub>**Literal:**</sub></small>
-who from such a great a death has delivered us and will deliver [us] in whom we have hope that also still He will deliver [us]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.9|<< 2 Corinthians 1:9]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.11|2 Corinthians 1:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G1537\|ἐκ]]  [[G5082\|τηλικούτου]]  [[G2288\|θανάτου]]  [[G4506\|ἐρρύσατο]]  [[G3165\|ἡμᾶς]]  [[G2532\|καὶ]]  [[G4506\|ῥύσεται]]  [[G1519\|εἰς]]  [[G3739\|ὃν]]  [[G1679\|ἠλπίκαμεν]]  [[G3754G\|ὅτι]]  [[G2532\|καὶ]]  [[G2089\|ἔτι]]  [[G4506\|ῥύσεται]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic FAITH|FAITH]] • [[topic PAUL|PAUL]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.9|<< 2 Corinthians 1:9]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.11|2 Corinthians 1:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,54 @@
+---
+title: Proverbs 14:4
+type: Verse
+kjv: "Where no oxen are, the crib is clean: but much increase is by the strength of the ox."
+bsb: "Where there are no oxen, the manger is empty, but an abundant harvest comes through the strength of the ox."
+hebrew: "בְּאֵ֣ין אֲ֭לָפִים אֵב֣וּס בָּ֑ר וְרָב־ תְּ֝בוּא֗וֹת בְּכֹ֣חַ שֽׁוֹר׃"
+pericope: "[[Prov.14.1 The Wise Woman|The Wise Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 14
+book/chapter: "[[Prov.14|Proverbs 14]]"
+chronological_order: 469
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic CRIB|CRIB]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+strongs:
+- "[[H9003]]"
+- "[[H0369]]"
+- "[[H0504]]"
+- "[[H0018]]"
+- "[[H1249]]"
+- "[[H9002]]"
+- "[[H7230]]"
+- "[[H9014]]"
+- "[[H8393]]"
+- "[[H3581B]]"
+- "[[H7794]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 14:4**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Where no oxen [are], the crib [is] clean: but much increase [is] by the strength of the ox.
 <small><sub>**BSB:**</sub></small>
 Where there are no oxen, the manger is empty, but an abundant harvest comes through the strength of the ox.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H0369\|אֵ֣ין]] [[H0504\|אֲ֭לָפִים]] [[H0018\|אֵב֣וּס]] [[H1249\|בָּ֑ר]] [[H9002\|וְ]][[H7230\|רָב]][[H9014\|־]] [[H8393\|תְּ֝בוּא֗וֹת]] [[H9003\|בְּ]][[H3581B\|כֹ֣חַ]] [[H7794\|שֽׁוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BULLOCK|BULLOCK]] • [[topic CRIB|CRIB]] • [[topic INDUSTRY|INDUSTRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.3|<< Proverbs 14:3]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.5|Proverbs 14:5 >>]]</td></tr></table>
 

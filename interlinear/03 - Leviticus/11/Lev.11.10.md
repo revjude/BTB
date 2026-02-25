@@ -1,8 +1,69 @@
+---
+title: Leviticus 11:10
+type: Verse
+kjv: "And all that have not fins and scales in the seas, and in the rivers, of all that move in the waters, and of any living thing which is in the waters, they shall be an abomination unto you:"
+bsb: "But the following among all the teeming life and creatures in the water are detestable to you: everything in the seas or streams that does not have fins and scales."
+hebrew: "וְכֹל֩ אֲשֶׁ֨ר אֵֽין־ ל֜וֹ סְנַפִּ֣יר וְקַשְׂקֶ֗שֶׂת בַּיַּמִּים֙ וּבַנְּחָלִ֔ים מִכֹּל֙ שֶׁ֣רֶץ הַמַּ֔יִם וּמִכֹּ֛ל נֶ֥פֶשׁ הַחַיָּ֖ה אֲשֶׁ֣ר בַּמָּ֑יִם שֶׁ֥קֶץ הֵ֖ם לָכֶֽם׃"
+pericope: "[[Lev.11.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 11
+book/chapter: "[[Lev.11|Leviticus 11]]"
+chronological_order: 143
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic FISH|FISH]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5579]]"
+- "[[H7193]]"
+- "[[H9003]]"
+- "[[H3220G]]"
+- "[[H5158A]]"
+- "[[H9006]]"
+- "[[H8318]]"
+- "[[H9009]]"
+- "[[H4325G]]"
+- "[[H5315K]]"
+- "[[H2416A]]"
+- "[[H8263]]"
+- "[[H1992]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 11:10**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all that have not fins and scales in the seas, and in the rivers, of all that move in the waters, and of any living thing which [is] in the waters, they [shall be] an abomination unto you:
 <small><sub>**BSB:**</sub></small>
 But the following among all the teeming life and creatures in the water are detestable to you: everything in the seas or streams that does not have fins and scales.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כֹל֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H0369\|אֵֽין]][[H9014\|־]] [[H9005\|ל֜]][[H9033\|וֹ]] [[H5579\|סְנַפִּ֣יר]] [[H9002\|וְ]][[H7193\|קַשְׂקֶ֗שֶׂת]] [[H9003\|בַּ]][[H3220G\|יַּמִּים֙]] [[H9002\|וּ]][[H9003\|בַ]][[H5158A\|נְּחָלִ֔ים]] [[H9006\|מִ]][[H3605\|כֹּל֙]] [[H8318\|שֶׁ֣רֶץ]] [[H9009\|הַ]][[H4325G\|מַּ֔יִם]] [[H9002\|וּ]][[H9006\|מִ]][[H3605\|כֹּ֛ל]] [[H5315K\|נֶ֥פֶשׁ]] [[H9009\|הַ]][[H2416A\|חַיָּ֖ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בַּ]][[H4325G\|מָּ֑יִם]] [[H8263\|שֶׁ֥קֶץ]] [[H1992\|הֵ֖ם]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FISH|FISH]] • [[topic FOOD|FOOD]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.9|<< Leviticus 11:9]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.11|Leviticus 11:11 >>]]</td></tr></table>
 

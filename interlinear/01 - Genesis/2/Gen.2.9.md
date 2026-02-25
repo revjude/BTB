@@ -1,8 +1,74 @@
+---
+title: Genesis 2:9
+type: Verse
+kjv: "And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil."
+bsb: "Out of the ground the LORD God gave growth to every tree that is pleasing to the eye and good for food. And in the middle of the garden were the tree of life and the tree of the knowledge of good and evil."
+hebrew: "וַיַּצְמַ֞ח יְהוָ֤ה אֱלֹהִים֙ מִן־ הָ֣אֲדָמָ֔ה כָּל־ עֵ֛ץ נֶחְמָ֥ד לְמַרְאֶ֖ה וְט֣וֹב לְמַאֲכָ֑ל וְעֵ֤ץ הַֽחַיִּים֙ בְּת֣וֹךְ הַגָּ֔ן וְעֵ֕ץ הַדַּ֖עַת ט֥וֹב וָרָֽע׃"
+pericope: "[[Gen.2.4 Man and Woman in the Garden|Man and Woman in the Garden]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 2
+book/chapter: "[[Gen.2|Genesis 2]]"
+chronological_order: 2
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic EDEN|EDEN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GROUND|GROUND]]"
+- "[[topic KNOWLEDGE|KNOWLEDGE]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TREE|TREE]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[H9001]]"
+- "[[H6779]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0127G]]"
+- "[[H3605]]"
+- "[[H6086H]]"
+- "[[H2530A]]"
+- "[[H9005]]"
+- "[[H4758]]"
+- "[[H9002]]"
+- "[[H2896A]]"
+- "[[H3978]]"
+- "[[H2416E]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H1588M]]"
+- "[[H1847]]"
+- "[[H2896B]]"
+- "[[H7451B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 2:9**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.
 <small><sub>**BSB:**</sub></small>
 Out of the ground the LORD God gave growth to every tree that is pleasing to the eye and good for food. And in the middle of the garden were the tree of life and the tree of the knowledge of good and evil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6779\|יַּצְמַ֞ח]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהִים֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ֣]][[H0127G\|אֲדָמָ֔ה]] [[H3605\|כָּל]][[H9014\|־]] [[H6086H\|עֵ֛ץ]] [[H2530A\|נֶחְמָ֥ד]] [[H9005\|לְ]][[H4758\|מַרְאֶ֖ה]] [[H9002\|וְ]][[H2896A\|ט֣וֹב]] [[H9005\|לְ]][[H3978\|מַאֲכָ֑ל]] [[H9002\|וְ]][[H6086H\|עֵ֤ץ]] [[H9009\|הַֽ]][[H2416E\|חַיִּים֙]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H9009\|הַ]][[H1588M\|גָּ֔ן]] [[H9002\|וְ]][[H6086H\|עֵ֕ץ]] [[H9009\|הַ]][[H1847\|דַּ֖עַת]] [[H2896B\|ט֥וֹב]] [[H9002\|וָ]][[H7451B\|רָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDEN|EDEN]] • [[topic GOD|GOD]] • [[topic GROUND|GROUND]] • [[topic KNOWLEDGE|KNOWLEDGE]] • [[topic LIFE|LIFE]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TREE|TREE]] • [[topic TYPES|TYPES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.8|<< Genesis 2:8]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.10|Genesis 2:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -3,7 +3,7 @@
 
 → (Divination by an alleged assistance of evil spirits)
 
-→ Forbidden [[Lev.19.26|Le 19:26]]-[[Lev.19.28|28]],[[Lev.19.31|31]]; [[Lev.20.6|20:6]]; [[Deut.18.9|De 18:9]]-[[Deut.18.14|14]]
+→ Forbidden [[Lev.19.26|Le 19:26-28]],[[Lev.19.31|31]]; [[Lev.20.6|20:6]]; [[Deut.18.9|De 18:9-14]]
 
 → Denounced [[Isa.8.19|Isa 8:19]]; [[Mal.3.5|Mal 3:5]]
 
@@ -19,7 +19,7 @@
 
 - By the Ninevites [[Nah.3.4|Na 3:4]],[[Nah.3.5|5]]
 
-- By the Babylonians [[Isa.47.9|Isa 47:9]]-[[Isa.47.13|13]]; [[Ezek.21.21|Eze 21:21]],[[Ezek.21.22|22]]; [[Dan.2.2|Da 2:2]],[[Dan.2.10|10]],[[Dan.2.27|27]]
+- By the Babylonians [[Isa.47.9|Isa 47:9-13]]; [[Ezek.21.21|Eze 21:21]],[[Ezek.21.22|22]]; [[Dan.2.2|Da 2:2]],[[Dan.2.10|10]],[[Dan.2.27|27]]
 
 - By Belshazzar [[Dan.5.7|Da 5:7]],[[Dan.5.15|15]]
 
@@ -35,7 +35,7 @@
 
 - By astrologers [[Jer.10.2|Jer 10:2]]; [[Mic.3.6|Mic 3:6]],[[Mic.3.7|7]]
 
-- By false prophets [[Jer.14.14|Jer 14:14]]; [[Jer.27.9|27:9]]; [[Jer.29.8|29:8]],[[Jer.29.9|9]]; [[Ezek.13.6|Eze 13:6]]-[[Ezek.13.9|9]];  [[Ezek.22.28|22:28]]; [[Matt.24.24|Mt 24:24]]
+- By false prophets [[Jer.14.14|Jer 14:14]]; [[Jer.27.9|27:9]]; [[Jer.29.8|29:8]],[[Jer.29.9|9]]; [[Ezek.13.6|Eze 13:6-9]];  [[Ezek.22.28|22:28]]; [[Matt.24.24|Mt 24:24]]
 
 → To cease  [[Ezek.12.23|Eze 12:23]],[[Ezek.12.24|24]]; [[Ezek.13.23|13:23]]; [[Mic.5.12|Mic 5:12]]
 
@@ -59,7 +59,7 @@
 
 → By rods [[Hos.4.12|Ho 4:12]]
 
-→ Saul consulted the Witch of Endor [[1Sam.28.7|1Sa 28:7]]-[[1Sam.28.25|25]]
+→ Saul consulted the Witch of Endor [[1Sam.28.7|1Sa 28:7-25]]
 
 → Books of, destroyed [[Acts.19.19|Ac 19:19]]
 

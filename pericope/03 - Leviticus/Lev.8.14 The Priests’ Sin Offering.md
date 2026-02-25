@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Priests’ Sin Offering
+type: Pericope
 pericope: "[[Lev.8.14 The Priests’ Sin Offering|The Priests’ Sin Offering]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 8
 book/chapter: "[[Lev.8|Leviticus 8]]"
-genre:
+chronological_order: 140
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 4
 verses:
 - "[[Lev.8.14]]"
 - "[[Lev.8.15]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Lev.8.17]]"
 ---
 
-[[Lev.8|Leviticus 8:14 - Leviticus 8:17]]
+<small>[[Lev.8|Leviticus 8:14-17]]</small>
 *The Priests’ Sin Offering*
 
 [[Lev.8.14|14]] And he brought the bullock for the sin offering: and Aaron and his sons laid their hands upon the head of the bullock for the sin offering.

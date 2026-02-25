@@ -1,8 +1,55 @@
+---
+title: Psalm 109:9
+type: Verse
+kjv: "Let his children be fatherless, and his wife a widow."
+bsb: "May his children be fatherless and his wife a widow."
+hebrew: "יִֽהְיוּ־ בָנָ֥יו יְתוֹמִ֑ים וְ֝אִשְׁתּוֹ אַלְמָנָֽה׃"
+pericope: "[[Ps.109.1 The Song of the Slandered|The Song of the Slandered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 109
+book/chapter: "[[Ps.109|Psalm 109]]"
+chronological_order: 383
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H3490]]"
+- "[[H9002]]"
+- "[[H0802H]]"
+- "[[H0490]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 109:9**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let his children be fatherless, and his wife a widow.
 <small><sub>**BSB:**</sub></small>
 May his children be fatherless and his wife a widow.
+<small><sub>**Hebrew:**</sub></small>
+[[H1961\|יִֽהְיוּ]][[H9014\|־]] [[H1121A\|בָנָ֥י]][[H9023\|ו]] [[H3490\|יְתוֹמִ֑ים]] [[H9002\|וְ֝]][[H0802H\|אִשְׁתּ]][[H9023\|וֹ]] [[H0490\|אַלְמָנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAYER|PRAYER]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.8|<< Psalms 109:8]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.10|Psalms 109:10 >>]]</td></tr></table>
 

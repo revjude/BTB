@@ -1,10 +1,61 @@
+---
+title: Romans 8:1
+type: Verse
+kjv: "There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit."
+bsb: "Therefore, there is now no condemnation for those who are in Christ Jesus."
+greek: "Οὐδὲν ἄρα νῦν κατάκριμα τοῖς ἐν Χριστῷ Ἰησοῦ μὴ κατὰ σάρκα περιπατοῦσιν ἀλλὰ κατὰ πνεῦμα."
+pericope: "[[Rom.8.1 Walking by the Spirit|Walking by the Spirit]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 8
+book/chapter: "[[Rom.8|Romans 8]]"
+chronological_order: 1094
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WALKING|WALKING]]"
+strongs:
+- "[[G3762]]"
+- "[[G0686]]"
+- "[[G3568]]"
+- "[[G2631]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G3361]]"
+- "[[G2596]]"
+- "[[G4561]]"
+- "[[G4043]]"
+- "[[G0235]]"
+- "[[G4151G]]"
+texts:
+- NKO
+- K
+---
+
 **Romans 8:1**<big><big>[[Rom.8.1 Walking by the Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [There is] therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.
 <small><sub>**BSB:**</sub></small>
 Therefore, there is now no condemnation for those who are in Christ Jesus.
-<small><sub>**Literal:**</sub></small>
-No therefore now condemnation to those in Christ Jesus not according to flesh walk but according to spirit.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.25|<< Romans 7:25]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.2|Romans 8:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3762\|Οὐδὲν]]  [[G0686\|ἄρα]]  [[G3568\|νῦν]]  [[G2631\|κατάκριμα]]  [[G3588\|τοῖς]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ]]  [[G3361\|μὴ]]  [[G2596\|κατὰ]]  [[G4561\|σάρκα]]  [[G4043\|περιπατοῦσιν]]  [[G0235\|ἀλλὰ]]  [[G2596\|κατὰ]]  [[G4151G\|πνεῦμα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FELLOWSHIP|FELLOWSHIP]] • [[topic HOLINESS|HOLINESS]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WALKING|WALKING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.25|<< Romans 7:25]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.2|Romans 8:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

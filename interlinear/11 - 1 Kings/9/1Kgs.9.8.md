@@ -1,8 +1,70 @@
+---
+title: 1 Kings 9:8
+type: Verse
+kjv: "And at this house, which is high, every one that passeth by it shall be astonished, and shall hiss; and they shall say, Why hath the LORD done thus unto this land, and to this house?"
+bsb: "And when this temple has become a heap of rubble, all who pass by it will be appalled and will hiss and say, ‘Why has the LORD done such a thing to this land and to this temple?’"
+hebrew: "וְהַבַּ֤יִת הַזֶּה֙ יִהְיֶ֣ה עֶלְי֔וֹן כָּל־ עֹבֵ֥ר עָלָ֖יו יִשֹּׁ֣ם וְשָׁרָ֑ק וְאָמְר֗וּ עַל־ מֶ֨ה עָשָׂ֤ה יְהוָה֙ כָּ֔כָה לָאָ֥רֶץ הַזֹּ֖את וְלַבַּ֥יִת הַזֶּֽה׃"
+pericope: "[[1Kgs.9.1 The LORD’s Response to Solomon|The LORD’s Response to Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 9
+book/chapter: "[[1Kgs.9|1 Kings 9]]"
+chronological_order: 534
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H2088]]"
+- "[[H1961]]"
+- "[[H5945A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5674A]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H8074H]]"
+- "[[H9001]]"
+- "[[H8319]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H3068G]]"
+- "[[H3602]]"
+- "[[H9005]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 9:8**<big><big>[[1Kgs.9.1 The LORD’s Response to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And at this house, [which] is high, every one that passeth by it shall be astonished, and shall hiss; and they shall say, Why hath the LORD done thus unto this land, and to this house?
 <small><sub>**BSB:**</sub></small>
 And when this temple has become a heap of rubble, all who pass by it will be appalled and will hiss and say, ‘Why has the LORD done such a thing to this land and to this temple?’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H1004B\|בַּ֤יִת]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H1961\|יִהְיֶ֣ה]] [[H5945A\|עֶלְי֔וֹן]] [[H3605\|כָּל]][[H9014\|־]] [[H5674A\|עֹבֵ֥ר]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H8074H\|יִשֹּׁ֣ם]] [[H9001\|וְ]][[H8319\|שָׁרָ֑ק]] [[H9001\|וְ]][[H0559\|אָמְר֗וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H4100\|מֶ֨ה]] [[H6213A\|עָשָׂ֤ה]] [[H3068G\|יְהוָה֙]] [[H3602\|כָּ֔כָה]] [[H9005\|לָ]][[H0776G\|אָ֥רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֖את]] [[H9002\|וְ]][[H9005\|לַ]][[H1004B\|בַּ֥יִת]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic PROBATION|PROBATION]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.7|<< 1 Kings 9:7]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.9|1 Kings 9:9 >>]]</td></tr></table>
 

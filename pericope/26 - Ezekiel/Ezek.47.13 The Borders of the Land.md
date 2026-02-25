@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Borders of the Land
+type: Pericope
 pericope: "[[Ezek.47.13 The Borders of the Land|The Borders of the Land]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 47
 book/chapter: "[[Ezek.47|Ezekiel 47]]"
-genre:
+chronological_order: 838
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 11
 verses:
 - "[[Ezek.47.13]]"
 - "[[Ezek.47.14]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Ezek.47.23]]"
 ---
 
-[[Ezek.47|Ezekiel 47:13 - Ezekiel 47:23]]
+<small>[[Ezek.47|Ezekiel 47:13-23]]</small>
 *The Borders of the Land*
 
 [[Ezek.47.13|13]] Thus saith the Lord GOD; This \[shall be\] the border, whereby ye shall inherit the land according to the twelve tribes of Israel: Joseph \[shall have two\] portions.

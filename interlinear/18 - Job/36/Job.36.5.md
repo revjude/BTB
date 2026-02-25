@@ -1,8 +1,51 @@
+---
+title: Job 36:5
+type: Verse
+kjv: "Behold, God is mighty, and despiseth not any: he is mighty in strength and wisdom."
+bsb: "Indeed, God is mighty, but He despises no one; He is mighty in strength of understanding."
+hebrew: "הֶן־ אֵ֣ל כַּ֭בִּיר וְלֹ֣א יִמְאָ֑ס כַּ֝בִּ֗יר כֹּ֣חַֽ לֵֽב׃"
+pericope: "[[Job.36.1 Elihu Describes God’s Power|Elihu Describes God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 36
+book/chapter: "[[Job.36|Job 36]]"
+chronological_order: 47
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H2005]]"
+- "[[H9014]]"
+- "[[H0410G]]"
+- "[[H3524]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3988A]]"
+- "[[H3581B]]"
+- "[[H3820A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 36:5**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, God [is] mighty, and despiseth not [any: he is] mighty in strength [and] wisdom.
 <small><sub>**BSB:**</sub></small>
 Indeed, God is mighty, but He despises no one; He is mighty in strength of understanding.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֶן]][[H9014\|־]] [[H0410G\|אֵ֣ל]] [[H3524\|כַּ֭בִּיר]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3988A\|יִמְאָ֑ס]] [[H3524\|כַּ֝בִּ֗יר]] [[H3581B\|כֹּ֣חַֽ]] [[H3820A\|לֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.4|<< Job 36:4]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.6|Job 36:6 >>]]</td></tr></table>
 

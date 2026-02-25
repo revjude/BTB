@@ -1,8 +1,52 @@
+---
+title: Job 21:20
+type: Verse
+kjv: "His eyes shall see his destruction, and he shall drink of the wrath of the Almighty."
+bsb: "Let his eyes see his own destruction; let him drink for himself the wrath of the Almighty."
+hebrew: "יִרְא֣וּ עֵינָ֣יו כִּיד֑וֹ וּמֵחֲמַ֖ת שַׁדַּ֣י יִשְׁתֶּֽה׃"
+pericope: "[[Job.21.1 Job：God Will Punish the Wicked|Job：God Will Punish the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 21
+book/chapter: "[[Job.21|Job 21]]"
+chronological_order: 32
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7200G]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H3589]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H2534]]"
+- "[[H7706]]"
+- "[[H8354]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Job 21:20**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His eyes shall see his destruction, and he shall drink of the wrath of the Almighty.
 <small><sub>**BSB:**</sub></small>
 Let his eyes see his own destruction; let him drink for himself the wrath of the Almighty.
+<small><sub>**Hebrew:**</sub></small>
+[[H7200G\|יִרְא֣וּ]] [[H5869A\|עֵינָ֣י]][[H9023\|ו]] [[H3589\|כִּיד֑]][[H9023\|וֹ]] [[H9002\|וּ]][[H9006\|מֵ]][[H2534\|חֲמַ֖ת]] [[H7706\|שַׁדַּ֣י]] [[H8354\|יִשְׁתֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.19|<< Job 21:19]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.21|Job 21:21 >>]]</td></tr></table>
 
@@ -16,7 +60,7 @@ Let his eyes see his own destruction; let him drink for himself the wrath of the
 | let him drink  |**<big>&#8207;[[H8354\|יִשְׁתֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yish.Teh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.19|<< Job 21:19]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.21|Job 21:21 >>]]</td></tr></table>
 
-[^1]: own eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869A|עֵינ]]</big> ** | ei.no<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: own eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869A|עֵינ]]</big> ** | ei.no<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: own eye his  | **<big>[[H5869A|עֵינ]]</big><big>[[H9023|וֹ]]</big> ** | ei.no<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: own eye his  | **<big>[[H5869A|עֵינ]]</big><big>[[H9023|וֹ]]</big> ** | ei.no<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>עֵינָ֣ו</big></span>**
 

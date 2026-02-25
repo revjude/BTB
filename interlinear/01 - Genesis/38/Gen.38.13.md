@@ -1,8 +1,62 @@
+---
+title: Genesis 38:13
+type: Verse
+kjv: "And it was told Tamar, saying, Behold thy father in law goeth up to Timnath to shear his sheep."
+bsb: "When Tamar was told, “Your father-in-law is going up to Timnah to shear his sheep,”"
+hebrew: "וַיֻּגַּ֥ד לְתָמָ֖ר לֵאמֹ֑ר הִנֵּ֥ה חָמִ֛יךְ עֹלֶ֥ה תִמְנָ֖תָה לָגֹ֥ז צֹאנֽוֹ׃"
+pericope: "[[Gen.38.1 Judah and Tamar|Judah and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 38
+book/chapter: "[[Gen.38|Genesis 38]]"
+chronological_order: 80
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic TAMAR|TAMAR]]"
+- "[[topic TIMNATH|TIMNATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H8559G]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H2524]]"
+- "[[H9022]]"
+- "[[H5927G]]"
+- "[[H8553G]]"
+- "[[H9011]]"
+- "[[H1494]]"
+- "[[H6629G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 38:13**<big><big>[[Gen.38.1 Judah and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was told Tamar, saying, Behold thy father in law goeth up to Timnath to shear his sheep.
 <small><sub>**BSB:**</sub></small>
 When Tamar was told, “Your father-in-law is going up to Timnah to shear his sheep,”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5046\|יֻּגַּ֥ד]] [[H9005\|לְ]][[H8559G\|תָמָ֖ר]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H2009\|הִנֵּ֥ה]] [[H2524\|חָמִ֛י]][[H9022\|ךְ]] [[H5927G\|עֹלֶ֥ה]] [[H8553G\|תִמְנָ֖תָ]][[H9011\|ה]] [[H9005\|לָ]][[H1494\|גֹ֥ז]] [[H6629G\|צֹאנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic JUDAH|JUDAH]] • [[topic SHEEP|SHEEP]] • [[topic TAMAR|TAMAR]] • [[topic TIMNATH|TIMNATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.38.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.12|<< Genesis 38:12]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.14|Genesis 38:14 >>]]</td></tr></table>
 

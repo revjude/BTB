@@ -1,8 +1,52 @@
+---
+title: Proverbs 16:28
+type: Verse
+kjv: "A froward man soweth strife: and a whisperer separateth chief friends."
+bsb: "A perverse man spreads dissension, and a gossip divides close friends."
+hebrew: "אִ֣ישׁ תַּ֭הְפֻּכוֹת יְשַׁלַּ֣ח מָד֑וֹן וְ֝נִרְגָּ֗ן מַפְרִ֥יד אַלּֽוּף׃"
+pericope: "[[Prov.16.1 The Reply of the Tongue Is from the LORD|The Reply of the Tongue Is from the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 16
+book/chapter: "[[Prov.16|Proverbs 16]]"
+chronological_order: 471
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic TALEBEARER|TALEBEARER]]"
+strongs:
+- "[[H0376G]]"
+- "[[H8419]]"
+- "[[H7971G]]"
+- "[[H4066]]"
+- "[[H9002]]"
+- "[[H7279]]"
+- "[[H6504]]"
+- "[[H0441A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 16:28**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A froward man soweth strife: and a whisperer separateth chief friends.
 <small><sub>**BSB:**</sub></small>
 A perverse man spreads dissension, and a gossip divides close friends.
+<small><sub>**Hebrew:**</sub></small>
+[[H0376G\|אִ֣ישׁ]] [[H8419\|תַּ֭הְפֻּכוֹת]] [[H7971G\|יְשַׁלַּ֣ח]] [[H4066\|מָד֑וֹן]] [[H9002\|וְ֝]][[H7279\|נִרְגָּ֗ן]] [[H6504\|מַפְרִ֥יד]] [[H0441A\|אַלּֽוּף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SLANDER|SLANDER]] • [[topic SPEAKING|SPEAKING]] • [[topic STRIFE|STRIFE]] • [[topic TALEBEARER|TALEBEARER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.16.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.27|<< Proverbs 16:27]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.29|Proverbs 16:29 >>]]</td></tr></table>
 

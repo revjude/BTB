@@ -1,8 +1,61 @@
+---
+title: Isaiah 2:17
+type: Verse
+kjv: "And the loftiness of man shall be bowed down, and the haughtiness of men shall be made low: and the LORD alone shall be exalted in that day."
+bsb: "So the pride of man will be brought low, and the loftiness of men will be humbled; the LORD alone will be exalted in that day,"
+hebrew: "וְשַׁח֙ גַּבְה֣וּת הָאָדָ֔ם וְשָׁפֵ֖ל ר֣וּם אֲנָשִׁ֑ים וְנִשְׂגַּ֧ב יְהוָ֛ה לְבַדּ֖וֹ בַּיּ֥וֹם הַהֽוּא׃"
+pericope: "[[Isa.2.5 The Day of Reckoning|The Day of Reckoning]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 2
+book/chapter: "[[Isa.2|Isaiah 2]]"
+chronological_order: 610
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7817]]"
+- "[[H1365]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H8213]]"
+- "[[H7312]]"
+- "[[H0582]]"
+- "[[H7682]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 2:17**<big><big>[[Isa.2.5 The Day of Reckoning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the loftiness of man shall be bowed down, and the haughtiness of men shall be made low: and the LORD alone shall be exalted in that day.
 <small><sub>**BSB:**</sub></small>
 So the pride of man will be brought low, and the loftiness of men will be humbled; the LORD alone will be exalted in that day,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7817\|שַׁח֙]] [[H1365\|גַּבְה֣וּת]] [[H9009\|הָ]][[H0120G\|אָדָ֔ם]] [[H9001\|וְ]][[H8213\|שָׁפֵ֖ל]] [[H7312\|ר֣וּם]] [[H0582\|אֲנָשִׁ֑ים]] [[H9001\|וְ]][[H7682\|נִשְׂגַּ֧ב]] [[H3068G\|יְהוָ֛ה]] [[H9005\|לְ]][[H0905H\|בַדּ֖]][[H9033\|וֹ]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic ISAIAH|ISAIAH]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.16|<< Isaiah 2:16]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.18|Isaiah 2:18 >>]]</td></tr></table>
 

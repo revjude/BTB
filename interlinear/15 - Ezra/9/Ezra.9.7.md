@@ -1,8 +1,73 @@
+---
+title: Ezra 9:7
+type: Verse
+kjv: "Since the days of our fathers have we been in a great trespass unto this day; and for our iniquities have we, our kings, and our priests, been delivered into the hand of the kings of the lands, to the sword, to captivity, and to a spoil, and to confusion of face, as it is this day."
+bsb: "From the days of our fathers to this day, our guilt has been great. Because of our iniquities, we and our kings and priests have been delivered into the hands of the kings of the earth and subjected to the sword and to captivity, to pillage and humiliation, as we are this day."
+hebrew: "מִימֵ֣י אֲבֹתֵ֗ינוּ אֲנַ֙חְנוּ֙ בְּאַשְׁמָ֣ה גְדֹלָ֔ה עַ֖ד הַיּ֣וֹם הַזֶּ֑ה וּבַעֲוֹנֹתֵ֡ינוּ נִתַּ֡נּוּ אֲנַחְנוּ֩ מְלָכֵ֨ינוּ כֹהֲנֵ֜ינוּ בְּיַ֣ד׀ מַלְכֵ֣י הָאֲרָצ֗וֹת בַּחֶ֜רֶב בַּשְּׁבִ֧י וּבַבִּזָּ֛ה וּבְבֹ֥שֶׁת פָּנִ֖ים כְּהַיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[Ezra.9.5 Ezra’s Prayer of Confession|Ezra’s Prayer of Confession]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 9
+book/chapter: "[[Ezra.9|Ezra 9]]"
+chronological_order: 911
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CAPTIVITY|CAPTIVITY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9006]]"
+- "[[H3117G]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H0587]]"
+- "[[H9003]]"
+- "[[H0819]]"
+- "[[H1419A]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H3117J]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H5771G]]"
+- "[[H5414G]]"
+- "[[H4428G]]"
+- "[[H3548]]"
+- "[[H3027H]]"
+- "[[H9015]]"
+- "[[H0776G]]"
+- "[[H2719]]"
+- "[[H7628A]]"
+- "[[H0961]]"
+- "[[H1322]]"
+- "[[H6440L]]"
+- "[[H9004]]"
+- "[[H3117L]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 9:7**<big><big>[[Ezra.9.5 Ezra’s Prayer of Confession|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Since the days of our fathers [have] we [been] in a great trespass unto this day; and for our iniquities have we, our kings, [and] our priests, been delivered into the hand of the kings of the lands, to the sword, to captivity, and to a spoil, and to confusion of face, as [it is] this day.
 <small><sub>**BSB:**</sub></small>
 From the days of our fathers to this day, our guilt has been great. Because of our iniquities, we and our kings and priests have been delivered into the hands of the kings of the earth and subjected to the sword and to captivity, to pillage and humiliation, as we are this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H3117G\|ימֵ֣י]] [[H0001G\|אֲבֹתֵ֗י]][[H9025\|נוּ]] [[H0587\|אֲנַ֙חְנוּ֙]] [[H9003\|בְּ]][[H0819\|אַשְׁמָ֣ה]] [[H1419A\|גְדֹלָ֔ה]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117J\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9002\|וּ]][[H9003\|בַ]][[H5771G\|עֲוֹנֹתֵ֡י]][[H9025\|נוּ]] [[H5414G\|נִתַּ֡נּוּ]] [[H0587\|אֲנַחְנוּ֩]] [[H4428G\|מְלָכֵ֨י]][[H9025\|נוּ]] [[H3548\|כֹהֲנֵ֜י]][[H9025\|נוּ]] [[H9003\|בְּ]][[H3027H\|יַ֣ד]][[H9015\|׀]] [[H4428G\|מַלְכֵ֣י]] [[H9009\|הָ]][[H0776G\|אֲרָצ֗וֹת]] [[H9003\|בַּ]][[H2719\|חֶ֜רֶב]] [[H9003\|בַּ]][[H7628A\|שְּׁבִ֧י]] [[H9002\|וּ]][[H9003\|בַ]][[H0961\|בִּזָּ֛ה]] [[H9002\|וּ]][[H9003\|בְ]][[H1322\|בֹ֥שֶׁת]] [[H6440L\|פָּנִ֖ים]] [[H9004\|כְּ]][[H9009\|הַ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CAPTIVITY|CAPTIVITY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.9.6|<< Ezra 9:6]]</td><td align="center" style="border:none;">[[Ezra.9|Ezra 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.9.8|Ezra 9:8 >>]]</td></tr></table>
 

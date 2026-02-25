@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Josiah Restores the Passover
+type: Pericope
 pericope: "[[2Kgs.23.21 Josiah Restores the Passover|Josiah Restores the Passover]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 23
 book/chapter: "[[2Kgs.23|2 Kings 23]]"
-genre:
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 7
 verses:
 - "[[2Kgs.23.21]]"
 - "[[2Kgs.23.22]]"
@@ -25,7 +32,7 @@ verses:
 - "[[2Kgs.23.27]]"
 ---
 
-[[2Kgs.23|2 Kings 23:21 - 2 Kings 23:27]]
+<small>[[2Kgs.23|2 Kings 23:21-27]]</small>
 *Josiah Restores the Passover*
 
 [[2Kgs.23.21|21]] And the king commanded all the people, saying, Keep the passover unto the LORD your God, as \[it is\] written in the book of this covenant.

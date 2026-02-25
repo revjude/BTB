@@ -1,8 +1,61 @@
+---
+title: Leviticus 6:28
+type: Verse
+kjv: "But the earthen vessel wherein it is sodden shall be broken: and if it be sodden in a brasen pot, it shall be both scoured, and rinsed in water."
+bsb: "The clay pot in which the sin offering is boiled must be broken; if it is boiled in a bronze pot, the pot must be scoured and rinsed with water."
+hebrew: "וּכְלִי־ חֶ֛רֶשׂ אֲשֶׁ֥ר תְּבֻשַּׁל־ בּ֖וֹ יִשָּׁבֵ֑ר וְאִם־ בִּכְלִ֤י נְחֹ֙שֶׁת֙ בֻּשָּׁ֔לָה וּמֹרַ֥ק וְשֻׁטַּ֖ף בַּמָּֽיִם׃"
+pericope: "[[Lev.6.24 The Sin Offering|The Sin Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 6
+book/chapter: "[[Lev.6|Leviticus 6]]"
+chronological_order: 138
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3627]]"
+- "[[H9014]]"
+- "[[H2789]]"
+- "[[H0834A]]"
+- "[[H1310]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H7665]]"
+- "[[H0518A]]"
+- "[[H5178A]]"
+- "[[H9001]]"
+- "[[H4838]]"
+- "[[H7857]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 6:28**<big><big>[[Lev.6.24 The Sin Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the earthen vessel wherein it is sodden shall be broken: and if it be sodden in a brasen pot, it shall be both scoured, and rinsed in water.
 <small><sub>**BSB:**</sub></small>
 The clay pot in which the sin offering is boiled must be broken; if it is boiled in a bronze pot, the pot must be scoured and rinsed with water.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H3627\|כְלִי]][[H9014\|־]] [[H2789\|חֶ֛רֶשׂ]] [[H0834A\|אֲשֶׁ֥ר]] [[H1310\|תְּבֻשַּׁל]][[H9014\|־]] [[H9003\|בּ֖]][[H9033\|וֹ]] [[H7665\|יִשָּׁבֵ֑ר]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H9003\|בִּ]][[H3627\|כְלִ֤י]] [[H5178A\|נְחֹ֙שֶׁת֙]] [[H1310\|בֻּשָּׁ֔לָה]] [[H9001\|וּ]][[H4838\|מֹרַ֥ק]] [[H9001\|וְ]][[H7857\|שֻׁטַּ֖ף]] [[H9003\|בַּ]][[H4325G\|מָּֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.27|<< Leviticus 6:27]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.29|Leviticus 6:29 >>]]</td></tr></table>
 

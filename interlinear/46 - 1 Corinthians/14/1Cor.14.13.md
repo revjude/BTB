@@ -1,10 +1,53 @@
+---
+title: 1 Corinthians 14:13
+type: Verse
+kjv: "Wherefore let him that speaketh in an unknown tongue pray that he may interpret."
+bsb: "Therefore, the one who speaks in a tongue should pray that he may interpret."
+greek: "Διὸ ὁ λαλῶν γλώσσῃ προσευχέσθω ἵνα διερμηνεύῃ."
+pericope: "[[1Cor.14.1 Prophecy and Tongues|Prophecy and Tongues]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 14
+book/chapter: "[[1Cor.14|1 Corinthians 14]]"
+chronological_order: 1071
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic INTERPRETATION|INTERPRETATION]]"
+- "[[topic INTERPRETER|INTERPRETER]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]"
+strongs:
+- "[[G1352]]"
+- "[[G3588]]"
+- "[[G2980]]"
+- "[[G1100]]"
+- "[[G4336]]"
+- "[[G2443]]"
+- "[[G1329]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **1 Corinthians 14:13**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore let him that speaketh in an [unknown] tongue pray that he may interpret.
 <small><sub>**BSB:**</sub></small>
 Therefore, the one who speaks in a tongue should pray that he may interpret.
-<small><sub>**Literal:**</sub></small>
-For the [one] speaking in a tongue he should pray that he may interpret.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.12|<< 1 Corinthians 14:12]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.14|1 Corinthians 14:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1352\|Διὸ]]  [[G3588\|ὁ]]  [[G2980\|λαλῶν]]  [[G1100\|γλώσσῃ]]  [[G4336\|προσευχέσθω]]  [[G2443\|ἵνα]]  [[G1329\|διερμηνεύῃ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic INTERPRETATION|INTERPRETATION]] • [[topic INTERPRETER|INTERPRETER]] • [[topic LANGUAGE|LANGUAGE]] • [[topic MIRACLES|MIRACLES]] • [[topic PREACHING|PREACHING]] • [[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.12|<< 1 Corinthians 14:12]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.14|1 Corinthians 14:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

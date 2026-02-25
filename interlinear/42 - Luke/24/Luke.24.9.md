@@ -1,10 +1,55 @@
+---
+title: Luke 24:9
+type: Verse
+kjv: "And returned from the sepulchre, and told all these things unto the eleven, and to all the rest."
+bsb: "And when they returned from the tomb, they reported all these things to the Eleven and to all the others."
+greek: "καὶ ὑποστρέψασαι ἀπὸ τοῦ μνημείου ἀπήγγειλαν ταῦτα πάντα τοῖς ἕνδεκα καὶ πᾶσιν τοῖς λοιποῖς.¶"
+pericope: "[[Luke.24.1 The Resurrection|The Resurrection]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic TROUBLE|TROUBLE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G5290]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G3419]]"
+- "[[G0518]]"
+- "[[G3778]]"
+- "[[G3956]]"
+- "[[G1733]]"
+- "[[G3062]]"
+texts:
+- NKO
+---
+
 **Luke 24:9**<big><big>[[Luke.24.1 The Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And returned from the sepulchre, and told all these things unto the eleven, and to all the rest.
 <small><sub>**BSB:**</sub></small>
 And when they returned from the tomb, they reported all these things to the Eleven and to all the others.
-<small><sub>**Literal:**</sub></small>
-And having returned from the tomb they related these things all to the eleven and to all the rest.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.8|<< Luke 24:8]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.10|Luke 24:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5290\|ὑποστρέψασαι]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G3419\|μνημείου]]  [[G0518\|ἀπήγγειλαν]]  [[G3778\|ταῦτα]]  [[G3956\|πάντα]]  [[G3588\|τοῖς]]  [[G1733\|ἕνδεκα]]  [[G2532\|καὶ]]  [[G3956\|πᾶσιν]]  [[G3588\|τοῖς]]  [[G3062\|λοιποῖς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic TROUBLE|TROUBLE]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.8|<< Luke 24:8]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.10|Luke 24:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

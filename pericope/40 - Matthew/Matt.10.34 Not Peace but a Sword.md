@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Not Peace but a Sword
+type: Pericope
 pericope: "[[Matt.10.34 Not Peace but a Sword|Not Peace but a Sword]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 10
 book/chapter: "[[Matt.10|Matthew 10]]"
-genre:
+chronological_order: 954
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 6
 verses:
 - "[[Matt.10.34]]"
 - "[[Matt.10.35]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Matt.10.39]]"
 ---
 
-[[Matt.10|Matthew 10:34 - Matthew 10:39]]
+<small>[[Matt.10|Matthew 10:34-39]]</small>
 *Not Peace but a Sword*
 
 [[Matt.10.34|34]] Think not that I am come to send peace on earth: I came not to send peace, but a sword.

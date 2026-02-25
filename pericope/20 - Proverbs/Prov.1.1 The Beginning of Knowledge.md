@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Beginning of Knowledge
+type: Pericope
 pericope: "[[Prov.1.1 The Beginning of Knowledge|The Beginning of Knowledge]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 1
 book/chapter: "[[Prov.1|Proverbs 1]]"
-genre:
+chronological_order: 456
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 7
 verses:
 - "[[Prov.1.1]]"
 - "[[Prov.1.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Prov.1.7]]"
 ---
 
-[[Prov.1|Proverbs 1:1 - Proverbs 1:7]]
+<small>[[Prov.1|Proverbs 1:1-7]]</small>
 *The Beginning of Knowledge*
 
 [[Prov.1.1|1]] The proverbs of Solomon the son of David, king of Israel;

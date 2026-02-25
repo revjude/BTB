@@ -1,10 +1,59 @@
+---
+title: Mark 8:36
+type: Verse
+kjv: "For what shall it profit a man, if he shall gain the whole world, and lose his own soul?"
+bsb: "What does it profit a man to gain the whole world, yet forfeit his soul?"
+jesus_said: "For what shall it profit a man, if he shall gain the whole world, and lose his own soul?"
+greek: "τί γὰρ ὠφελεῖ τὸν ἄνθρωπον ἐὰν κερδῆσαι τὸν κόσμον ὅλον καὶ ζημιωθῆναι τὴν ψυχὴν αὐτοῦ;"
+pericope: "[[Mark.8.34 Take Up Your Cross|Take Up Your Cross]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G5101]]"
+- "[[G1063]]"
+- "[[G5623]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G1437]]"
+- "[[G2770]]"
+- "[[G2889]]"
+- "[[G3650]]"
+- "[[G2532]]"
+- "[[G2210]]"
+- "[[G5590G]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+- o
+- ko
+---
+
 **Mark 8:36**<big><big>[[Mark.8.34 Take Up Your Cross|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For what shall it profit a man, if he shall gain the whole world, and lose his own soul?
 <small><sub>**BSB:**</sub></small>
 What does it profit a man to gain the whole world, yet forfeit his soul?
-<small><sub>**Literal:**</sub></small>
-What for profits <the> a man if to gain the world whole and to lose the soul of him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.35|<< Mark 8:35]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.37|Mark 8:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τί]]  [[G1063\|γὰρ]]  [[G5623\|ὠφελεῖ]]  [[G3588\|τὸν]]  [[G0444\|ἄνθρωπον]]  [[G1437\|ἐὰν]]  [[G2770\|κερδῆσαι]]  [[G3588\|τὸν]]  [[G2889\|κόσμον]]  [[G3650\|ὅλον]]  [[G2532\|καὶ]]  [[G2210\|ζημιωθῆναι]]  [[G3588\|τὴν]]  [[G5590G\|ψυχὴν]]  [[G0846\|αὐτοῦ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.35|<< Mark 8:35]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.37|Mark 8:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joshua Takes the Whole Land
+type: Pericope
 pericope: "[[Josh.11.16 Joshua Takes the Whole Land|Joshua Takes the Whole Land]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 11
 book/chapter: "[[Josh.11|Joshua 11]]"
-genre:
+chronological_order: 241
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 8
 verses:
 - "[[Josh.11.16]]"
 - "[[Josh.11.17]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Josh.11.23]]"
 ---
 
-[[Josh.11|Joshua 11:16 - Joshua 11:23]]
+<small>[[Josh.11|Joshua 11:16-23]]</small>
 *Joshua Takes the Whole Land*
 
 [[Josh.11.16|16]] So Joshua took all that land, the hills, and all the south country, and all the land of Goshen, and the valley, and the plain, and the mountain of Israel, and the valley of the same;

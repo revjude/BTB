@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Mourning the One They Pierced
+type: Pericope
 pericope: "[[Zech.12.10 Mourning the One They Pierced|Mourning the One They Pierced]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Zechariah
 chapter: 12
 book/chapter: "[[Zech.12|Zechariah 12]]"
-genre:
+chronological_order: 868
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - visionary
 - apocalyptic
 - post exilic
+verse_count: 5
 verses:
 - "[[Zech.12.10]]"
 - "[[Zech.12.11]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Zech.12.14]]"
 ---
 
-[[Zech.12|Zechariah 12:10 - Zechariah 12:14]]
+<small>[[Zech.12|Zechariah 12:10-14]]</small>
 *Mourning the One They Pierced*
 
 [[Zech.12.10|10]] And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplications: and they shall look upon me whom they have pierced, and they shall mourn for him, as one mourneth for \[his\] only \[son\], and shall be in bitterness for him, as one that is in bitterness for \[his\] firstborn.

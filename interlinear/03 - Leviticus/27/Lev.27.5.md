@@ -1,8 +1,66 @@
+---
+title: Leviticus 27:5
+type: Verse
+kjv: "And if it be from five years old even unto twenty years old, then thy estimation shall be of the male twenty shekels, and for the female ten shekels."
+bsb: "And if the person is from five to twenty years of age, then your valuation for the male shall be twenty shekels, and for the female ten shekels."
+hebrew: "וְאִ֨ם מִבֶּן־ חָמֵ֜שׁ שָׁנִ֗ים וְעַד֙ בֶּן־ עֶשְׂרִ֣ים שָׁנָ֔ה וְהָיָ֧ה עֶרְכְּךָ֛ הַזָּכָ֖ר עֶשְׂרִ֣ים שְׁקָלִ֑ים וְלַנְּקֵבָ֖ה עֲשֶׂ֥רֶת שְׁקָלִֽים׃"
+pericope: "[[Lev.27.1 Rules about Valuations|Rules about Valuations]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 27
+book/chapter: "[[Lev.27|Leviticus 27]]"
+chronological_order: 159
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9006]]"
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H2568]]"
+- "[[H8141]]"
+- "[[H5704]]"
+- "[[H6242]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H6187]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H2145]]"
+- "[[H8255]]"
+- "[[H9005]]"
+- "[[H5347]]"
+- "[[H6235]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 27:5**<big><big>[[Lev.27.1 Rules about Valuations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if [it be] from five years old even unto twenty years old, then thy estimation shall be of the male twenty shekels, and for the female ten shekels.
 <small><sub>**BSB:**</sub></small>
 And if the person is from five to twenty years of age, then your valuation for the male shall be twenty shekels, and for the female ten shekels.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִ֨ם]] [[H9006\|מִ]][[H1121L\|בֶּן]][[H9014\|־]] [[H2568\|חָמֵ֜שׁ]] [[H8141\|שָׁנִ֗ים]] [[H9002\|וְ]][[H5704\|עַד֙]] [[H1121L\|בֶּן]][[H9014\|־]] [[H6242\|עֶשְׂרִ֣ים]] [[H8141\|שָׁנָ֔ה]] [[H9001\|וְ]][[H1961\|הָיָ֧ה]] [[H6187\|עֶרְכְּ]][[H9021\|ךָ֛]] [[H9009\|הַ]][[H2145\|זָּכָ֖ר]] [[H6242\|עֶשְׂרִ֣ים]] [[H8255\|שְׁקָלִ֑ים]] [[H9002\|וְ]][[H9005\|לַ]][[H5347\|נְּקֵבָ֖ה]] [[H6235\|עֲשֶׂ֥רֶת]] [[H8255\|שְׁקָלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REDEMPTION|REDEMPTION]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.4|<< Leviticus 27:4]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.6|Leviticus 27:6 >>]]</td></tr></table>
 

@@ -1,10 +1,51 @@
+---
+title: John 12:39
+type: Verse
+kjv: "Therefore they could not believe, because that Esaias said again,"
+bsb: "For this reason they were unable to believe. For again, Isaiah says:"
+greek: "διὰ τοῦτο οὐκ ἠδύναντο πιστεύειν, ὅτι πάλιν εἶπεν Ἠσαΐας·"
+pericope: "[[John.12.37 Belief and Unbelief|Belief and Unbelief]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G4100]]"
+- "[[G3754H]]"
+- "[[G3825]]"
+- "[[G2036]]"
+- "[[G2268]]"
+texts:
+- NKO
+---
+
 **John 12:39**<big><big>[[John.12.37 Belief and Unbelief|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore they could not believe, because that Esaias said again,
 <small><sub>**BSB:**</sub></small>
 For this reason they were unable to believe. For again, Isaiah says:
-<small><sub>**Literal:**</sub></small>
-Because of this not they were able to believe, for again said Isaiah:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.38|<< John 12:38]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.40|John 12:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G3756\|οὐκ]]  [[G1410\|ἠδύναντο]]  [[G4100\|πιστεύειν,]]  [[G3754H\|ὅτι]]  [[G3825\|πάλιν]]  [[G2036\|εἶπεν]]  [[G2268\|Ἠσαΐας·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.38|<< John 12:38]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.40|John 12:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

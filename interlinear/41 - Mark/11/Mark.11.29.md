@@ -1,10 +1,62 @@
+---
+title: Mark 11:29
+type: Verse
+kjv: "And Jesus answered and said unto them, I will also ask of you one question, and answer me, and I will tell you by what authority I do these things."
+bsb: "“I will ask you one question,” Jesus replied, “and if you answer Me, I will tell you by what authority I am doing these things."
+jesus_said: "I will also ask of you one question, and answer me, and I will tell you by what authority I do these things."
+greek: "ὁ δὲ Ἰησοῦς ἀποκριθεὶς εἶπεν αὐτοῖς· ἐπερωτήσω ὑμᾶς κἀγὼ κἀγὼ ἕνα λόγον, καὶ ἀποκρίθητέ μοι, καὶ ἐρῶ ὑμῖν ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιῶ."
+pericope: "[[Mark.11.27 Jesus’ Authority Challenged|Jesus’ Authority Challenged]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 11
+book/chapter: "[[Mark.11|Mark 11]]"
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G0611]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G1905]]"
+- "[[G4771]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1520]]"
+- "[[G3056]]"
+- "[[G3165]]"
+- "[[G4483]]"
+- "[[G1722]]"
+- "[[G4169]]"
+- "[[G1849]]"
+- "[[G3778]]"
+- "[[G4160G]]"
+texts:
+- NKO
+- k
+- KO
+---
+
 **Mark 11:29**<big><big>[[Mark.11.27 Jesus’ Authority Challenged|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus answered and said unto them, I will also ask of you one question, and answer me, and I will tell you by what authority I do these things.
 <small><sub>**BSB:**</sub></small>
 “I will ask you one question,” Jesus replied, “and if you answer Me, I will tell you by what authority I am doing these things.
-<small><sub>**Literal:**</sub></small>
-<the> And Jesus answering said to them; I will ask you I myself also one question, and do answer Me, and I will tell you by what authority these things I do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.28|<< Mark 11:28]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.30|Mark 11:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G0611\|ἀποκριθεὶς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G1905\|ἐπερωτήσω]]  [[G4771\|ὑμᾶς]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G1520\|ἕνα]]  [[G3056\|λόγον,]]  [[G2532\|καὶ]]  [[G0611\|ἀποκρίθητέ]]  [[G3165\|μοι,]]  [[G2532\|καὶ]]  [[G4483\|ἐρῶ]]  [[G4771\|ὑμῖν]]  [[G1722\|ἐν]]  [[G4169\|ποίᾳ]]  [[G1849\|ἐξουσίᾳ]]  [[G3778\|ταῦτα]]  [[G4160G\|ποιῶ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.28|<< Mark 11:28]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.30|Mark 11:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

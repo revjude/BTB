@@ -1,8 +1,63 @@
+---
+title: Deuteronomy 9:2
+type: Verse
+kjv: "A people great and tall, the children of the Anakims, whom thou knowest, and of whom thou hast heard say, Who can stand before the children of Anak!"
+bsb: "The people are strong and tall, the descendants of the Anakim. You know about them, and you have heard it said, “Who can stand up to the sons of Anak?”"
+hebrew: "עַֽם־ גָּד֥וֹל וָרָ֖ם בְּנֵ֣י עֲנָקִ֑ים אֲשֶׁ֨ר אַתָּ֤ה יָדַ֙עְתָּ֙ וְאַתָּ֣ה שָׁמַ֔עְתָּ מִ֣י יִתְיַצֵּ֔ב לִפְנֵ֖י בְּנֵ֥י עֲנָֽק׃"
+pericope: "[[Deut.9.1 Assurance of Victory|Assurance of Victory]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 9
+book/chapter: "[[Deut.9|Deuteronomy 9]]"
+chronological_order: 205
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ANAKIM|ANAKIM]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H5971A]]"
+- "[[H9014]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H7311A]]"
+- "[[H1121A]]"
+- "[[H6062]]"
+- "[[H0834A]]"
+- "[[H0859A]]"
+- "[[H3045]]"
+- "[[H8085G]]"
+- "[[H4310]]"
+- "[[H3320]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H6061]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 9:2**<big><big>[[Deut.9.1 Assurance of Victory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A people great and tall, the children of the Anakims, whom thou knowest, and [of whom] thou hast heard [say], Who can stand before the children of Anak!
 <small><sub>**BSB:**</sub></small>
 The people are strong and tall, the descendants of the Anakim. You know about them, and you have heard it said, “Who can stand up to the sons of Anak?”
+<small><sub>**Hebrew:**</sub></small>
+[[H5971A\|עַֽם]][[H9014\|־]] [[H1419A\|גָּד֥וֹל]] [[H9002\|וָ]][[H7311A\|רָ֖ם]] [[H1121A\|בְּנֵ֣י]] [[H6062\|עֲנָקִ֑ים]] [[H0834A\|אֲשֶׁ֨ר]] [[H0859A\|אַתָּ֤ה]] [[H3045\|יָדַ֙עְתָּ֙]] [[H9002\|וְ]][[H0859A\|אַתָּ֣ה]] [[H8085G\|שָׁמַ֔עְתָּ]] [[H4310\|מִ֣י]] [[H3320\|יִתְיַצֵּ֔ב]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H1121A\|בְּנֵ֥י]] [[H6061\|עֲנָֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANAKIM|ANAKIM]] • [[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.1|<< Deuteronomy 9:1]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.3|Deuteronomy 9:3 >>]]</td></tr></table>
 

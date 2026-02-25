@@ -1,8 +1,65 @@
+---
+title: Judges 20:25
+type: Verse
+kjv: "And Benjamin went forth against them out of Gibeah the second day, and destroyed down to the ground of the children of Israel again eighteen thousand men; all these drew the sword."
+bsb: "That same day the Benjamites came out against them from Gibeah and cut down another 18,000 Israelites, all of them armed with swords."
+hebrew: "וַיֵּצֵא֩ בִנְיָמִ֨ן׀ לִקְרָאתָ֥ם׀ מִֽן־ הַגִּבְעָה֮ בַּיּ֣וֹם הַשֵּׁנִי֒ וַיַּשְׁחִיתוּ֩ בִבְנֵ֨י יִשְׂרָאֵ֜ל ע֗וֹד שְׁמֹנַ֨ת עָשָׂ֥ר אֶ֛לֶף אִ֖ישׁ אָ֑רְצָה כָּל־ אֵ֖לֶּה שֹׁ֥לְפֵי חָֽרֶב׃"
+pericope: "[[Judg.20.18 Civil War against Benjamin|Civil War against Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H1144G]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H7122H]]"
+- "[[H9038]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1390H]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H8145]]"
+- "[[H7843]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H5750]]"
+- "[[H8083]]"
+- "[[H6240]]"
+- "[[H0505G]]"
+- "[[H0376G]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H3605]]"
+- "[[H0428]]"
+- "[[H8025]]"
+- "[[H2719]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:25**<big><big>[[Judg.20.18 Civil War against Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Benjamin went forth against them out of Gibeah the second day, and destroyed down to the ground of the children of Israel again eighteen thousand men; all these drew the sword.
 <small><sub>**BSB:**</sub></small>
 That same day the Benjamites came out against them from Gibeah and cut down another 18,000 Israelites, all of them armed with swords.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵא֩]] [[H1144G\|בִנְיָמִ֨ן]][[H9015\|׀]] [[H9005\|לִ]][[H7122H\|קְרָאתָ֥]][[H9038\|ם]][[H9015\|׀]] [[H4480A\|מִֽן]][[H9014\|־]] [[H9009\|הַ]][[H1390H\|גִּבְעָה֮]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H8145\|שֵּׁנִי֒]] [[H9001\|וַ]][[H7843\|יַּשְׁחִיתוּ֩]] [[H9003\|בִ]][[H1121G\|בְנֵ֨י]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H5750\|ע֗וֹד]] [[H8083\|שְׁמֹנַ֨ת]] [[H6240\|עָשָׂ֥ר]] [[H0505G\|אֶ֛לֶף]] [[H0376G\|אִ֖ישׁ]] [[H0776H\|אָ֑רְצָ]][[H9011\|ה]] [[H3605\|כָּל]][[H9014\|־]] [[H0428\|אֵ֖לֶּה]] [[H8025\|שֹׁ֥לְפֵי]] [[H2719\|חָֽרֶב]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.24|<< Judges 20:24]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.26|Judges 20:26 >>]]</td></tr></table>
 

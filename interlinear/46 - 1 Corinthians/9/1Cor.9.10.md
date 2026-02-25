@@ -1,10 +1,60 @@
+---
+title: 1 Corinthians 9:10
+type: Verse
+kjv: "Or saith he it altogether for our sakes? For our sakes, no doubt, this is written: that he that ploweth should plow in hope; and that he that thresheth in hope should be partaker of his hope."
+bsb: "Isn’t He actually speaking on our behalf? Indeed, this was written for us, because when the plowman plows and the thresher threshes, they should also expect to share in the harvest."
+greek: "ἢ δι᾽ ἡμᾶς πάντως λέγει; δι᾽ ἡμᾶς γὰρ ἐγράφη ὅτι ὀφείλει ἐπ᾽ ἐλπίδι ὁ ἀροτριῶν ἀροτριᾶν, καὶ ὁ ἀλοῶν τῆς ἐλπίδος αὐτοῦ ἐπ᾽ ἐλπίδι τοῦ μετέχειν."
+pericope: "[[1Cor.9.1 The Rights of an Apostle|The Rights of an Apostle]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 9
+book/chapter: "[[1Cor.9|1 Corinthians 9]]"
+chronological_order: 1066
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic EVIL|EVIL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2228]]"
+- "[[G1223]]"
+- "[[G3165]]"
+- "[[G3843]]"
+- "[[G3004G]]"
+- "[[G1063]]"
+- "[[G1125]]"
+- "[[G3754H]]"
+- "[[G3784]]"
+- "[[G1909]]"
+- "[[G1680]]"
+- "[[G3588]]"
+- "[[G0722]]"
+- "[[G2532]]"
+- "[[G0248]]"
+- "[[G0846]]"
+- "[[G3348]]"
+texts:
+- NKO
+- K
+- no
+---
+
 **1 Corinthians 9:10**<big><big>[[1Cor.9.1 The Rights of an Apostle|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Or saith he [it] altogether for our sakes? For our sakes, no doubt, [this] is written: that he that ploweth should plow in hope; and that he that thresheth in hope should be partaker of his hope.
 <small><sub>**BSB:**</sub></small>
 Isn’t He actually speaking on our behalf? Indeed, this was written for us, because when the plowman plows and the thresher threshes, they should also expect to share in the harvest.
-<small><sub>**Literal:**</sub></small>
-Or because of us entirely is He speaking? For sake of us for it was written because ought in hope the [one] plowing to plow, and the [one] threshing of the hope of him in hope [that he] is to partake.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.9|<< 1 Corinthians 9:9]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.11|1 Corinthians 9:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2228\|ἢ]]  [[G1223\|δι᾽]]  [[G3165\|ἡμᾶς]]  [[G3843\|πάντως]]  [[G3004G\|λέγει;]]  [[G1223\|δι᾽]]  [[G3165\|ἡμᾶς]]  [[G1063\|γὰρ]]  [[G1125\|ἐγράφη]]  [[G3754H\|ὅτι]]  [[G3784\|ὀφείλει]]  [[G1909\|ἐπ᾽]]  [[G1680\|ἐλπίδι]]  [[G3588\|ὁ]]  [[G0722\|ἀροτριῶν]]  [[G0722\|ἀροτριᾶν,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G0248\|ἀλοῶν]]  [[G3588\|τῆς]]  [[G1680\|ἐλπίδος]]  [[G0846\|αὐτοῦ]]  [[G1909\|ἐπ᾽]]  [[G1680\|ἐλπίδι]]  [[G3588\|τοῦ]]  [[G3348\|μετέχειν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EVIL|EVIL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.9|<< 1 Corinthians 9:9]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.11|1 Corinthians 9:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

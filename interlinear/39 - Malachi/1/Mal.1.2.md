@@ -1,8 +1,64 @@
+---
+title: Malachi 1:2
+type: Verse
+kjv: "I have loved you, saith the LORD. Yet ye say, Wherein hast thou loved us? Was not Esau Jacob’s brother? saith the LORD: yet I loved Jacob,"
+bsb: "“I have loved you,” says the LORD. But you ask, “How have You loved us?” “Was not Esau Jacob’s brother?” declares the LORD. “Yet Jacob I have loved,"
+hebrew: "אָהַ֤בְתִּי אֶתְכֶם֙ אָמַ֣ר יְהוָ֔ה וַאֲמַרְתֶּ֖ם בַּמָּ֣ה אֲהַבְתָּ֑נוּ הֲלוֹא־ אָ֨ח עֵשָׂ֤ו לְיַֽעֲקֹב֙ נְאֻם־ יְהוָ֔ה וָאֹהַ֖ב אֶֽת־ יַעֲקֹֽב׃"
+pericope: "[[Mal.1.1 The LORD’s Love for Israel|The LORD’s Love for Israel]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 1
+book/chapter: "[[Mal.1|Malachi 1]]"
+chronological_order: 926
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic ESAU|ESAU]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[H0157G]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H9003]]"
+- "[[H4100]]"
+- "[[H9035]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0251G]]"
+- "[[H6215H]]"
+- "[[H9005]]"
+- "[[H3290]]"
+- "[[H5002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 1:2**<big><big>[[Mal.1.1 The LORD’s Love for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have loved you, saith the LORD. Yet ye say, Wherein hast thou loved us? [Was] not Esau Jacob’s brother? saith the LORD: yet I loved Jacob,
 <small><sub>**BSB:**</sub></small>
 “I have loved you,” says the LORD. But you ask, “How have You loved us?” “Was not Esau Jacob’s brother?” declares the LORD. “Yet Jacob I have loved,
+<small><sub>**Hebrew:**</sub></small>
+[[H0157G\|אָהַ֤בְתִּי]] [[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H0559\|אֲמַרְתֶּ֖ם]] [[H9003\|בַּ]][[H4100\|מָּ֣ה]] [[H0157G\|אֲהַבְתָּ֑]][[H9035\|נוּ]] [[H9008\|הֲ]][[H3808\|לוֹא]][[H9014\|־]] [[H0251G\|אָ֨ח]] [[H6215H\|עֵשָׂ֤ו]] [[H9005\|לְ]][[H3290\|יַֽעֲקֹב֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וָ]][[H0157G\|אֹהַ֖ב]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3290\|יַעֲקֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic ESAU|ESAU]] • [[topic GOD|GOD]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic UNBELIEF|UNBELIEF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.1.1|<< Malachi 1:1]]</td><td align="center" style="border:none;">[[Mal.1|Malachi 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.1.3|Malachi 1:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

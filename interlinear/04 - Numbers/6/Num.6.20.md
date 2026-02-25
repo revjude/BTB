@@ -1,8 +1,70 @@
+---
+title: Numbers 6:20
+type: Verse
+kjv: "And the priest shall wave them for a wave offering before the LORD: this is holy for the priest, with the wave breast and heave shoulder: and after that the Nazarite may drink wine."
+bsb: "The priest shall then wave them as a wave offering before the LORD. This is a holy portion for the priest, in addition to the breast of the wave offering and the thigh that was presented. After that, the Nazirite may drink wine."
+hebrew: "וְהֵנִיף֩ אוֹתָ֨ם הַכֹּהֵ֥ן׀ תְּנוּפָה֮ לִפְנֵ֣י יְהוָה֒ קֹ֤דֶשׁ הוּא֙ לַכֹּהֵ֔ן עַ֚ל חֲזֵ֣ה הַתְּנוּפָ֔ה וְעַ֖ל שׁ֣וֹק הַתְּרוּמָ֑ה וְאַחַ֛ר יִשְׁתֶּ֥ה הַנָּזִ֖יר יָֽיִן׃"
+pericope: "[[Num.6.1 The Nazirite Vow|The Nazirite Vow]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 6
+book/chapter: "[[Num.6|Numbers 6]]"
+chronological_order: 165
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic NAZARITE|NAZARITE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H5130B]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9015]]"
+- "[[H8573]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H6944G]]"
+- "[[H1931]]"
+- "[[H5921A]]"
+- "[[H2373]]"
+- "[[H9002]]"
+- "[[H7785]]"
+- "[[H8641]]"
+- "[[H0310A]]"
+- "[[H8354]]"
+- "[[H5139]]"
+- "[[H3196]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 6:20**<big><big>[[Num.6.1 The Nazirite Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall wave them [for] a wave offering before the LORD: this [is] holy for the priest, with the wave breast and heave shoulder: and after that the Nazarite may drink wine.
 <small><sub>**BSB:**</sub></small>
 The priest shall then wave them as a wave offering before the LORD. This is a holy portion for the priest, in addition to the breast of the wave offering and the thigh that was presented. After that, the Nazirite may drink wine.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5130B\|הֵנִיף֩]] [[H0853\|אוֹתָ֨]][[H9038\|ם]] [[H9009\|הַ]][[H3548\|כֹּהֵ֥ן]][[H9015\|׀]] [[H8573\|תְּנוּפָה֮]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָה֒]] [[H6944G\|קֹ֤דֶשׁ]] [[H1931\|הוּא֙]] [[H9005\|לַ]][[H3548\|כֹּהֵ֔ן]] [[H5921A\|עַ֚ל]] [[H2373\|חֲזֵ֣ה]] [[H9009\|הַ]][[H8573\|תְּנוּפָ֔ה]] [[H9002\|וְ]][[H5921A\|עַ֖ל]] [[H7785\|שׁ֣וֹק]] [[H9009\|הַ]][[H8641\|תְּרוּמָ֑ה]] [[H9002\|וְ]][[H0310A\|אַחַ֛ר]] [[H8354\|יִשְׁתֶּ֥ה]] [[H9009\|הַ]][[H5139\|נָּזִ֖יר]] [[H3196\|יָֽיִן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRATERNITY|FRATERNITY]] • [[topic NAZARITE|NAZARITE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.6.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.19|<< Numbers 6:19]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.21|Numbers 6:21 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Temple Tax
+type: Pericope
 pericope: "[[Matt.17.24 The Temple Tax|The Temple Tax]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 17
 book/chapter: "[[Matt.17|Matthew 17]]"
-genre:
+chronological_order: 967
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 4
 verses:
 - "[[Matt.17.24]]"
 - "[[Matt.17.25]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Matt.17.27]]"
 ---
 
-[[Matt.17|Matthew 17:24 - Matthew 17:27]]
+<small>[[Matt.17|Matthew 17:24-27]]</small>
 *The Temple Tax*
 
 [[Matt.17.24|24]] And when they were come to Capernaum, they that received tribute \[money\] came to Peter, and said, Doth not your master pay tribute?

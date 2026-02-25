@@ -1,8 +1,64 @@
+---
+title: Nehemiah 5:2
+type: Verse
+kjv: "For there were that said, We, our sons, and our daughters, are many: therefore we take up corn for them, that we may eat, and live."
+bsb: "Some were saying, “We and our sons and daughters are numerous. We must get grain in order to eat and stay alive.”"
+hebrew: "וְיֵשׁ֙ אֲשֶׁ֣ר אֹמְרִ֔ים בָּנֵ֥ינוּ וּבְנֹתֵ֖ינוּ אֲנַ֣חְנוּ רַבִּ֑ים וְנִקְחָ֥ה דָגָ֖ן וְנֹאכְלָ֥ה וְנִחְיֶֽה׃"
+pericope: "[[Neh.5.1 Nehemiah Defends the Oppressed|Nehemiah Defends the Oppressed]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 5
+book/chapter: "[[Neh.5|Nehemiah 5]]"
+chronological_order: 917
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic BORROWING|BORROWING]]"
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic INTEREST|INTEREST]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic POOR|POOR]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic USURY|USURY]]"
+strongs:
+- "[[H9002]]"
+- "[[H3426]]"
+- "[[H0834A]]"
+- "[[H0559]]"
+- "[[H1121A]]"
+- "[[H9025]]"
+- "[[H1323G]]"
+- "[[H0587]]"
+- "[[H7227A]]"
+- "[[H3947G]]"
+- "[[H1715]]"
+- "[[H0398]]"
+- "[[H2421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 5:2**<big><big>[[Neh.5.1 Nehemiah Defends the Oppressed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For there were that said, We, our sons, and our daughters, [are] many: therefore we take up corn [for them], that we may eat, and live.
 <small><sub>**BSB:**</sub></small>
 Some were saying, “We and our sons and daughters are numerous. We must get grain in order to eat and stay alive.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3426\|יֵשׁ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0559\|אֹמְרִ֔ים]] [[H1121A\|בָּנֵ֥י]][[H9025\|נוּ]] [[H9002\|וּ]][[H1323G\|בְנֹתֵ֖י]][[H9025\|נוּ]] [[H0587\|אֲנַ֣חְנוּ]] [[H7227A\|רַבִּ֑ים]] [[H9002\|וְ]][[H3947G\|נִקְחָ֥ה]] [[H1715\|דָגָ֖ן]] [[H9002\|וְ]][[H0398\|נֹאכְלָ֥ה]] [[H9002\|וְ]][[H2421\|נִחְיֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BORROWING|BORROWING]] • [[topic COUNTRY|COUNTRY]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CREDITOR|CREDITOR]] • [[topic INTEREST|INTEREST]] • [[topic LENDING|LENDING]] • [[topic POOR|POOR]] • [[topic REPENTANCE|REPENTANCE]] • [[topic RICH, THE|RICH, THE]] • [[topic USURY|USURY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.5.1|<< Nehemiah 5:1]]</td><td align="center" style="border:none;">[[Neh.5|Nehemiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.3|Nehemiah 5:3 >>]]</td></tr></table>
 

@@ -1,10 +1,56 @@
+---
+title: Ephesians 2:11
+type: Verse
+kjv: "Wherefore remember, that ye being in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;"
+bsb: "Therefore remember that formerly you who are Gentiles in the flesh and called uncircumcised by the so-called circumcision (that done in the body by human hands)—"
+greek: "Διὸ μνημονεύετε ὅτι ποτὲ ὑμεῖς τὰ ἔθνη ἐν σαρκί, οἱ λεγόμενοι ἀκροβυστία ὑπὸ τῆς λεγομένης περιτομῆς ἐν σαρκὶ χειροποιήτου,"
+pericope: "[[Eph.2.11 One in Christ|One in Christ]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 2
+book/chapter: "[[Eph.2|Ephesians 2]]"
+chronological_order: 1112
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic UNCIRCUMCISION|UNCIRCUMCISION]]"
+strongs:
+- "[[G1352]]"
+- "[[G3421]]"
+- "[[G3754G]]"
+- "[[G4218]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G1484]]"
+- "[[G1722]]"
+- "[[G4561]]"
+- "[[G3004H]]"
+- "[[G0203]]"
+- "[[G5259G]]"
+- "[[G4061]]"
+- "[[G5499]]"
+texts:
+- NKO
+---
+
 **Ephesians 2:11**<big><big>[[Eph.2.11 One in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore remember, that ye [being] in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;
 <small><sub>**BSB:**</sub></small>
 Therefore remember that formerly you who are Gentiles in the flesh and called uncircumcised by the so-called circumcision (that done in the body by human hands)—
-<small><sub>**Literal:**</sub></small>
-Therefore do remember that formerly you yourselves the Gentiles in [the] flesh, the ones being named [the] uncircumcision by which is being named [the] circumcision in [the] flesh made by hands —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.10|<< Ephesians 2:10]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.12|Ephesians 2:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1352\|Διὸ]]  [[G3421\|μνημονεύετε]]  [[G3754G\|ὅτι]]  [[G4218\|ποτὲ]]  [[G4771\|ὑμεῖς]]  [[G3588\|τὰ]]  [[G1484\|ἔθνη]]  [[G1722\|ἐν]]  [[G4561\|σαρκί,]]  [[G3588\|οἱ]]  [[G3004H\|λεγόμενοι]]  [[G0203\|ἀκροβυστία]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῆς]]  [[G3004H\|λεγομένης]]  [[G4061\|περιτομῆς]]  [[G1722\|ἐν]]  [[G4561\|σαρκὶ]]  [[G5499\|χειροποιήτου,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIRCUMCISION|CIRCUMCISION]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic UNCIRCUMCISION|UNCIRCUMCISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.10|<< Ephesians 2:10]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.12|Ephesians 2:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,54 @@
+---
+title: John 11:7
+type: Verse
+kjv: "Then after that saith he to his disciples, Let us go into Judaea again."
+bsb: "and then He said to the disciples, “Let us go back to Judea.”"
+jesus_said: "Let us go into Judea again."
+greek: "ἔπειτα μετὰ τοῦτο λέγει τοῖς μαθηταῖς· ἄγωμεν εἰς τὴν Ἰουδαίαν πάλιν."
+pericope: "[[John.11.1 The Death of Lazarus|The Death of Lazarus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAZARUS|LAZARUS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G1899]]"
+- "[[G3326]]"
+- "[[G3778]]"
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0071]]"
+- "[[G1519]]"
+- "[[G2449]]"
+- "[[G3825]]"
+texts:
+- NKO
+---
+
 **John 11:7**<big><big>[[John.11.1 The Death of Lazarus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then after that saith he to [his] disciples, Let us go into Judaea again.
 <small><sub>**BSB:**</sub></small>
 and then He said to the disciples, “Let us go back to Judea.”
-<small><sub>**Literal:**</sub></small>
-Then after this He says to the disciples; Let us go into <the> Judea again.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.6|<< John 11:6]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.8|John 11:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1899\|ἔπειτα]]  [[G3326\|μετὰ]]  [[G3778\|τοῦτο]]  [[G3004G\|λέγει]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς·]]  [[G0071\|ἄγωμεν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2449\|Ἰουδαίαν]]  [[G3825\|πάλιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAZARUS|LAZARUS]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.6|<< John 11:6]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.8|John 11:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

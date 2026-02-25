@@ -1,10 +1,67 @@
+---
+title: John 4:23
+type: Verse
+kjv: "But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeketh such to worship him."
+bsb: "But a time is coming and has now come when the true worshipers will worship the Father in spirit and in truth, for the Father is seeking such as these to worship Him."
+jesus_said: "But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeketh such to worship him."
+greek: "ἀλλ᾽ ἔρχεται ὥρα καὶ νῦν ἐστιν, ὅτε οἱ ἀληθινοὶ προσκυνηταὶ προσκυνήσουσιν τῷ πατρὶ ἐν πνεύματι καὶ ἀληθείᾳ· καὶ γὰρ ὁ πατὴρ τοιούτους ζητεῖ τοὺς προσκυνοῦντας αὐτόν."
+pericope: "[[John.4.1 Jesus and the Samaritan Woman|Jesus and the Samaritan Woman]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G0235]]"
+- "[[G2064]]"
+- "[[G5610]]"
+- "[[G2532]]"
+- "[[G3568]]"
+- "[[G1510]]"
+- "[[G3753]]"
+- "[[G3588]]"
+- "[[G0228]]"
+- "[[G4353]]"
+- "[[G4352]]"
+- "[[G3962]]"
+- "[[G1722]]"
+- "[[G4151G]]"
+- "[[G0225]]"
+- "[[G1063]]"
+- "[[G5108]]"
+- "[[G2212]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **John 4:23**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeketh such to worship him.
 <small><sub>**BSB:**</sub></small>
 But a time is coming and has now come when the true worshipers will worship the Father in spirit and in truth, for the Father is seeking such as these to worship Him.
-<small><sub>**Literal:**</sub></small>
-But is coming an hour and now is, when the true worshipers will worship the Father in spirit and truth; also for the Father such seeks who worship Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.22|<< John 4:22]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.24|John 4:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G2064\|ἔρχεται]]  [[G5610\|ὥρα]]  [[G2532\|καὶ]]  [[G3568\|νῦν]]  [[G1510\|ἐστιν,]]  [[G3753\|ὅτε]]  [[G3588\|οἱ]]  [[G0228\|ἀληθινοὶ]]  [[G4353\|προσκυνηταὶ]]  [[G4352\|προσκυνήσουσιν]]  [[G3588\|τῷ]]  [[G3962\|πατρὶ]]  [[G1722\|ἐν]]  [[G4151G\|πνεύματι]]  [[G2532\|καὶ]]  [[G0225\|ἀληθείᾳ·]]  [[G2532\|καὶ]]  [[G1063\|γὰρ]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G5108\|τοιούτους]]  [[G2212\|ζητεῖ]]  [[G3588\|τοὺς]]  [[G4352\|προσκυνοῦντας]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JACOB|JACOB]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic PRAYER|PRAYER]] • [[topic SAMARIA|SAMARIA]] • [[topic SHECHEM|SHECHEM]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.22|<< John 4:22]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.24|John 4:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

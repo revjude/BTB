@@ -1,8 +1,81 @@
+---
+title: Deuteronomy 25:5
+type: Verse
+kjv: "If brethren dwell together, and one of them die, and have no child, the wife of the dead shall not marry without unto a stranger: her husband’s brother shall go in unto her, and take her to him to wife, and perform the duty of an husband’s brother unto her."
+bsb: "When brothers dwell together and one of them dies without a son, the widow must not marry outside the family. Her husband’s brother is to take her as his wife and fulfill the duty of a brother-in-law for her."
+hebrew: "כִּֽי־ יֵשְׁב֨וּ אַחִ֜ים יַחְדָּ֗ו וּמֵ֨ת אַחַ֤ד מֵהֶם֙ וּבֵ֣ן אֵֽין־ ל֔וֹ לֹֽא־ תִהְיֶ֧ה אֵֽשֶׁת־ הַמֵּ֛ת הַח֖וּצָה לְאִ֣ישׁ זָ֑ר יְבָמָהּ֙ יָבֹ֣א עָלֶ֔יהָ וּלְקָחָ֥הּ ל֛וֹ לְאִשָּׁ֖ה וְיִבְּמָֽהּ׃"
+pericope: "[[Deut.25.5 Widowhood and Marriage|Widowhood and Marriage]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 25
+book/chapter: "[[Deut.25|Deuteronomy 25]]"
+chronological_order: 221
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic STRANGERS|STRANGERS]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3427]]"
+- "[[H0251G]]"
+- "[[H3162B]]"
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H0369]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H0802H]]"
+- "[[H9009]]"
+- "[[H2351]]"
+- "[[H9011]]"
+- "[[H0376G]]"
+- "[[H2114A]]"
+- "[[H2993]]"
+- "[[H9024]]"
+- "[[H0935G]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H3947I]]"
+- "[[H2992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 25:5**<big><big>[[Deut.25.5 Widowhood and Marriage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If brethren dwell together, and one of them die, and have no child, the wife of the dead shall not marry without unto a stranger: her husband’s brother shall go in unto her, and take her to him to wife, and perform the duty of an husband’s brother unto her.
 <small><sub>**BSB:**</sub></small>
 When brothers dwell together and one of them dies without a son, the widow must not marry outside the family. Her husband’s brother is to take her as his wife and fulfill the duty of a brother-in-law for her.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3427\|יֵשְׁב֨וּ]] [[H0251G\|אַחִ֜ים]] [[H3162B\|יַחְדָּ֗ו]] [[H9001\|וּ]][[H4191\|מֵ֨ת]] [[H0259\|אַחַ֤ד]] [[H9006\|מֵ]][[H9038\|הֶם֙]] [[H9002\|וּ]][[H1121A\|בֵ֣ן]] [[H0369\|אֵֽין]][[H9014\|־]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|תִהְיֶ֧ה]] [[H0802H\|אֵֽשֶׁת]][[H9014\|־]] [[H9009\|הַ]][[H4191\|מֵּ֛ת]] [[H9009\|הַ]][[H2351\|ח֖וּצָ]][[H9011\|ה]] [[H9005\|לְ]][[H0376G\|אִ֣ישׁ]] [[H2114A\|זָ֑ר]] [[H2993\|יְבָמָ]][[H9024\|הּ֙]] [[H0935G\|יָבֹ֣א]] [[H5921A\|עָלֶ֔י]][[H9034\|הָ]] [[H9001\|וּ]][[H3947I\|לְקָחָ֥]][[H9034\|הּ]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H9005\|לְ]][[H0802H\|אִשָּׁ֖ה]] [[H9001\|וְ]][[H2992\|יִבְּמָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BROTHER|BROTHER]] • [[topic INHERITANCE|INHERITANCE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic STRANGERS|STRANGERS]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.25.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.25.4|<< Deuteronomy 25:4]]</td><td align="center" style="border:none;">[[Deut.25|Deuteronomy 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.25.6|Deuteronomy 25:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

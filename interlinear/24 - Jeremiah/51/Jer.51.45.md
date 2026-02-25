@@ -1,8 +1,62 @@
+---
+title: Jeremiah 51:45
+type: Verse
+kjv: "My people, go ye out of the midst of her, and deliver ye every man his soul from the fierce anger of the LORD."
+bsb: "Come out of her, My people! Save your lives, each of you, from the fierce anger of the LORD."
+hebrew: "צְא֤וּ מִתּוֹכָהּ֙ עַמִּ֔י וּמַלְּט֖וּ אִ֣ישׁ אֶת־ נַפְשׁ֑וֹ מֵחֲר֖וֹן אַף־ יְהוָֽה׃"
+pericope: "[[Jer.51.20 Babylon’s Punishment|Babylon’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H9024]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H4422]]"
+- "[[H0376I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5315H]]"
+- "[[H9023]]"
+- "[[H2740]]"
+- "[[H0639G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 51:45**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My people, go ye out of the midst of her, and deliver ye every man his soul from the fierce anger of the LORD.
 <small><sub>**BSB:**</sub></small>
 Come out of her, My people! Save your lives, each of you, from the fierce anger of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3318G\|צְא֤וּ]] [[H9006\|מִ]][[H8432\|תּוֹכָ]][[H9024\|הּ֙]] [[H5971A\|עַמִּ֔]][[H9020\|י]] [[H9002\|וּ]][[H4422\|מַלְּט֖וּ]] [[H0376I\|אִ֣ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H5315H\|נַפְשׁ֑]][[H9023\|וֹ]] [[H9006\|מֵ]][[H2740\|חֲר֖וֹן]] [[H0639G\|אַף]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic COMPANY|COMPANY]] • [[topic PERSIA|PERSIA]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.44|<< Jeremiah 51:44]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.46|Jeremiah 51:46 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

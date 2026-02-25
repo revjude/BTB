@@ -1,8 +1,57 @@
+---
+title: Psalm 82:8
+type: Verse
+kjv: "Arise, O God, judge the earth: for thou shalt inherit all nations."
+bsb: "Arise, O God, judge the earth, for all the nations are Your inheritance."
+hebrew: "קוּמָ֣ה אֱ֭לֹהִים שָׁפְטָ֣ה הָאָ֑רֶץ כִּֽי־ אַתָּ֥ה תִ֝נְחַ֗ל בְּכָל־ הַגּוֹיִֽם׃"
+pericope: "[[Ps.82.1 God Presides in the Divine Assembly|God Presides in the Divine Assembly]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 82
+book/chapter: "[[Ps.82|Psalm 82]]"
+chronological_order: 512
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H6965B]]"
+- "[[H9012]]"
+- "[[H0430G]]"
+- "[[H8199]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H5157]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H1471A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 82:8**<big><big>[[Ps.82.1 God Presides in the Divine Assembly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise, O God, judge the earth: for thou shalt inherit all nations.
 <small><sub>**BSB:**</sub></small>
 Arise, O God, judge the earth, for all the nations are Your inheritance.
+<small><sub>**Hebrew:**</sub></small>
+[[H6965B\|קוּמָ֣]][[H9012\|ה]] [[H0430G\|אֱ֭לֹהִים]] [[H8199\|שָׁפְטָ֣]][[H9012\|ה]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0859A\|אַתָּ֥ה]] [[H5157\|תִ֝נְחַ֗ל]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.82.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.82.7|<< Psalms 82:7]]</td><td align="center" style="border:none;">[[Ps.82|Psalms 82]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.83.0|Psalms 83:0 >>]]</td></tr></table>
 

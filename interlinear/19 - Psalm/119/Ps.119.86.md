@@ -1,8 +1,55 @@
+---
+title: Psalm 119:86
+type: Verse
+kjv: "All thy commandments are faithful: they persecute me wrongfully; help thou me."
+bsb: "All Your commandments are faithful; I am persecuted without cause—help me!"
+hebrew: "כָּל־ מִצְוֹתֶ֥יךָ אֱמוּנָ֑ה שֶׁ֖קֶר רְדָפ֣וּנִי עָזְרֵֽנִי׃"
+pericope: "[[Ps.119.81 Your Word Is a Lamp to My Feet - CAPH|Your Word Is a Lamp to My Feet - CAPH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4687]]"
+- "[[H9021]]"
+- "[[H0530]]"
+- "[[H8267]]"
+- "[[H7291]]"
+- "[[H9030]]"
+- "[[H5826]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:86**<big><big>[[Ps.119.81 Your Word Is a Lamp to My Feet - CAPH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All thy commandments [are] faithful: they persecute me wrongfully; help thou me.
 <small><sub>**BSB:**</sub></small>
 All Your commandments are faithful; I am persecuted without cause—help me!
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H4687\|מִצְוֹתֶ֥י]][[H9021\|ךָ]] [[H0530\|אֱמוּנָ֑ה]] [[H8267\|שֶׁ֖קֶר]] [[H7291\|רְדָפ֣וּ]][[H9030\|נִי]] [[H5826\|עָזְרֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic PERSECUTION|PERSECUTION]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.86|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.85|<< Psalms 119:85]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.87|Psalms 119:87 >>]]</td></tr></table>
 

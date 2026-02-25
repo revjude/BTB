@@ -1,10 +1,78 @@
+---
+title: Matthew 20:23
+type: Verse
+kjv: "And he saith unto them, Ye shall drink indeed of my cup, and be baptized with the baptism that I am baptized with: but to sit on my right hand, and on my left, is not mine to give, but it shall be given to them for whom it is prepared of my Father."
+bsb: "“You will indeed drink My cup,” Jesus said. “But to sit at My right or left is not Mine to grant. These seats belong to those for whom My Father has prepared them.”"
+jesus_said: "Ye shall drink indeed of my cup, and be baptized with the baptism that I am baptized with: but to sit on my right hand, and on my left, is not mine to give, but it shall be given to them for whom it is prepared of my Father."
+greek: "Καὶ λέγει αὐτοῖς· τὸ μὲν ποτήριόν μου πίεσθε καὶ τὸ βάπτισμα ὃ ἐγὼ βαπτίζομαι βαπτισθήσεσθε, τὸ δὲ καθίσαι ἐκ δεξιῶν μου καὶ ἐξ εὐωνύμων μου οὐκ ἔστιν ἐμὸν τοῦτο δοῦναι, ἀλλ᾽ οἷς ἡτοίμασται ὑπὸ τοῦ πατρός μου.¶"
+pericope: "[[Matt.20.20 A Mother’s Request|A Mother’s Request]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 20
+book/chapter: "[[Matt.20|Matthew 20]]"
+chronological_order: 987
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic CUP|CUP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3303]]"
+- "[[G4221]]"
+- "[[G3165]]"
+- "[[G4095]]"
+- "[[G0908]]"
+- "[[G3739]]"
+- "[[G1473]]"
+- "[[G0907]]"
+- "[[G1161]]"
+- "[[G2523]]"
+- "[[G1537]]"
+- "[[G1188]]"
+- "[[G2176]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G3778]]"
+- "[[G1325]]"
+- "[[G0235]]"
+- "[[G2090]]"
+- "[[G5259G]]"
+- "[[G3962]]"
+texts:
+- k
+- NKO
+- n
+---
+
 **Matthew 20:23**<big><big>[[Matt.20.20 A Mother’s Request|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he saith unto them, Ye shall drink indeed of my cup, and be baptized with the baptism that I am baptized with: but to sit on my right hand, and on my left, is not mine to give, but [it shall be given to them] for whom it is prepared of my Father.
 <small><sub>**BSB:**</sub></small>
 “You will indeed drink My cup,” Jesus said. “But to sit at My right or left is not Mine to grant. These seats belong to those for whom My Father has prepared them.”
-<small><sub>**Literal:**</sub></small>
-and He says to them; <the> Indeed the cup of Mine You will drink and <the> baptism what I myself am baptized will be baptized <the> but to sit on [the] right hand of Me and on [the] left of me not is Mine this to give, but [to those] for whom it has been prepared by the Father of Mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.22|<< Matthew 20:22]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.24|Matthew 20:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G3588\|τὸ]]  [[G3303\|μὲν]]  [[G4221\|ποτήριόν]]  [[G3165\|μου]]  [[G4095\|πίεσθε]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G0908\|βάπτισμα]]  [[G3739\|ὃ]]  [[G1473\|ἐγὼ]]  [[G0907\|βαπτίζομαι]]  [[G0907\|βαπτισθήσεσθε,]]  [[G3588\|τὸ]]  [[G1161\|δὲ]]  [[G2523\|καθίσαι]]  [[G1537\|ἐκ]]  [[G1188\|δεξιῶν]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G1537\|ἐξ]]  [[G2176\|εὐωνύμων]]  [[G3165\|μου]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G1473\|ἐμὸν]]  [[G3778\|τοῦτο]]  [[G1325\|δοῦναι,]]  [[G0235\|ἀλλ᾽]]  [[G3739\|οἷς]]  [[G2090\|ἡτοίμασται]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G3962\|πατρός]]  [[G3165\|μου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic CUP|CUP]] • [[topic GOD|GOD]] • [[topic INFLUENCE|INFLUENCE]] • [[topic JAMES|JAMES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic POLITICS|POLITICS]] • [[topic PREDESTINATION|PREDESTINATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.22|<< Matthew 20:22]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.24|Matthew 20:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

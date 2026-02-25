@@ -1,10 +1,58 @@
+---
+title: Matthew 6:3
+type: Verse
+kjv: "But when thou doest alms, let not thy left hand know what thy right hand doeth:"
+bsb: "But when you give to the needy, do not let your left hand know what your right hand is doing,"
+jesus_said: "But when thou doest alms, let not thy left hand know what thy right hand doeth:"
+greek: "σοῦ δὲ ποιοῦντος ἐλεημοσύνην μὴ γνώτω ἡ ἀριστερά σου τί ποιεῖ ἡ δεξιά σου"
+pericope: "[[Matt.6.1 Giving to the Needy|Giving to the Needy]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 6
+book/chapter: "[[Matt.6|Matthew 6]]"
+chronological_order: 944
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GIVING|GIVING]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G4160G]]"
+- "[[G1654]]"
+- "[[G3361]]"
+- "[[G1097]]"
+- "[[G3588]]"
+- "[[G0710]]"
+- "[[G5101]]"
+- "[[G1188]]"
+texts:
+- NKO
+---
+
 **Matthew 6:3**<big><big>[[Matt.6.1 Giving to the Needy|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when thou doest alms, let not thy left hand know what thy right hand doeth:
 <small><sub>**BSB:**</sub></small>
 But when you give to the needy, do not let your left hand know what your right hand is doing,
-<small><sub>**Literal:**</sub></small>
-You however doing charity not should know the left [hand] of you what is doing the right [hand] of you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.2|<< Matthew 6:2]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.4|Matthew 6:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|σοῦ]]  [[G1161\|δὲ]]  [[G4160G\|ποιοῦντος]]  [[G1654\|ἐλεημοσύνην]]  [[G3361\|μὴ]]  [[G1097\|γνώτω]]  [[G3588\|ἡ]]  [[G0710\|ἀριστερά]]  [[G4771\|σου]]  [[G5101\|τί]]  [[G4160G\|ποιεῖ]]  [[G3588\|ἡ]]  [[G1188\|δεξιά]]  [[G4771\|σου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GIVING|GIVING]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MOTIVE|MOTIVE]] • [[topic PHARISEES|PHARISEES]] • [[topic RELIGION|RELIGION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.2|<< Matthew 6:2]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.4|Matthew 6:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

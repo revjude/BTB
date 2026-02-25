@@ -1,8 +1,56 @@
+---
+title: 1 Kings 6:25
+type: Verse
+kjv: "And the other cherub was ten cubits: both the cherubims were of one measure and one size."
+bsb: "The second cherub also measured ten cubits; both cherubim had the same size and shape,"
+hebrew: "וְעֶ֙שֶׂר֙ בָּֽאַמָּ֔ה הַכְּר֖וּב הַשֵּׁנִ֑י מִדָּ֥ה אַחַ֛ת וְקֶ֥צֶב אֶחָ֖ד לִשְׁנֵ֥י הַכְּרֻבִֽים׃"
+pericope: "[[1Kgs.6.23 The Cherubim|The Cherubim]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 6
+book/chapter: "[[1Kgs.6|1 Kings 6]]"
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H6235]]"
+- "[[H9003]]"
+- "[[H0520A]]"
+- "[[H9009]]"
+- "[[H3742]]"
+- "[[H8145]]"
+- "[[H4060A]]"
+- "[[H0259]]"
+- "[[H7095]]"
+- "[[H9005]]"
+- "[[H8147]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 6:25**<big><big>[[1Kgs.6.23 The Cherubim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the other cherub [was] ten cubits: both the cherubims [were] of one measure and one size.
 <small><sub>**BSB:**</sub></small>
 The second cherub also measured ten cubits; both cherubim had the same size and shape,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6235\|עֶ֙שֶׂר֙]] [[H9003\|בָּֽ]][[H0520A\|אַמָּ֔ה]] [[H9009\|הַ]][[H3742\|כְּר֖וּב]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֑י]] [[H4060A\|מִדָּ֥ה]] [[H0259\|אַחַ֛ת]] [[H9002\|וְ]][[H7095\|קֶ֥צֶב]] [[H0259\|אֶחָ֖ד]] [[H9005\|לִ]][[H8147\|שְׁנֵ֥י]] [[H9009\|הַ]][[H3742\|כְּרֻבִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHERUBIM|CHERUBIM]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.24|<< 1 Kings 6:24]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.26|1 Kings 6:26 >>]]</td></tr></table>
 

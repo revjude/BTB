@@ -1,8 +1,66 @@
+---
+title: 1 Kings 16:13
+type: Verse
+kjv: "For all the sins of Baasha, and the sins of Elah his son, by which they sinned, and by which they made Israel to sin, in provoking the LORD God of Israel to anger with their vanities."
+bsb: "This happened because of all the sins Baasha and his son Elah had committed and had caused Israel to commit, provoking the LORD, the God of Israel, to anger with their worthless idols."
+hebrew: "אֶ֚ל כָּל־ חַטֹּ֣אות בַּעְשָׁ֔א וְחַטֹּ֖אות אֵלָ֣ה בְנ֑וֹ אֲשֶׁ֣ר חָטְא֗וּ וַאֲשֶׁ֤ר הֶחֱטִ֙יאוּ֙ אֶת־ יִשְׂרָאֵ֔ל לְהַכְעִ֗יס אֶת־ יְהוָ֛ה אֱלֹהֵ֥י יִשְׂרָאֵ֖ל בְּהַבְלֵיהֶֽם׃"
+pericope: "[[1Kgs.16.8 Elah Reigns in Israel|Elah Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 16
+book/chapter: "[[1Kgs.16|1 Kings 16]]"
+chronological_order: 555
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic ELAH|ELAH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic ZIMRI|ZIMRI]]"
+strongs:
+- "[[H0413]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2403B]]"
+- "[[H1201]]"
+- "[[H9002]]"
+- "[[H0425H]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H2398]]"
+- "[[H0853]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H3707]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H1892]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 16:13**<big><big>[[1Kgs.16.8 Elah Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For all the sins of Baasha, and the sins of Elah his son, by which they sinned, and by which they made Israel to sin, in provoking the LORD God of Israel to anger with their vanities.
 <small><sub>**BSB:**</sub></small>
 This happened because of all the sins Baasha and his son Elah had committed and had caused Israel to commit, provoking the LORD, the God of Israel, to anger with their worthless idols.
+<small><sub>**Hebrew:**</sub></small>
+[[H0413\|אֶ֚ל]] [[H3605\|כָּל]][[H9014\|־]] [[H2403B\|חַטֹּ֣אות]] [[H1201\|בַּעְשָׁ֔א]] [[H9002\|וְ]][[H2403B\|חַטֹּ֖אות]] [[H0425H\|אֵלָ֣ה]] [[H1121A\|בְנ֑]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֣ר]] [[H2398\|חָטְא֗וּ]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֤ר]] [[H2398\|הֶחֱטִ֙יאוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9005\|לְ]][[H3707\|הַכְעִ֗יס]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֛ה]] [[H0430G\|אֱלֹהֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בְּ]][[H1892\|הַבְלֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic ELAH|ELAH]] • [[topic PROPHECY|PROPHECY]] • [[topic ZIMRI|ZIMRI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.16.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.12|<< 1 Kings 16:12]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.14|1 Kings 16:14 >>]]</td></tr></table>
 

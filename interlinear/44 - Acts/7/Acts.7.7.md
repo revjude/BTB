@@ -1,10 +1,64 @@
+---
+title: Acts 7:7
+type: Verse
+kjv: "And the nation to whom they shall be in bondage will I judge, said God: and after that shall they come forth, and serve me in this place."
+bsb: "‘But I will punish the nation that enslaves them,’ God said, ‘and afterward they will come forth and worship Me in this place.’"
+greek: "καὶ τὸ ἔθνος ᾧ ἐὰν δουλεύσουσιν, κρινῶ ἐγώ, ὁ θεὸς εἶπεν, καὶ μετὰ ταῦτα ἐξελεύσονται καὶ λατρεύσουσίν μοι ἐν τῷ τόπῳ τούτῳ."
+pericope: "[[Acts.7.1 Stephen’s Address：The Call of Abraham|Stephen’s Address：The Call of Abraham]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1484]]"
+- "[[G3739]]"
+- "[[G1437]]"
+- "[[G1398]]"
+- "[[G2919]]"
+- "[[G1473]]"
+- "[[G2316]]"
+- "[[G2036]]"
+- "[[G3326]]"
+- "[[G3778]]"
+- "[[G1831]]"
+- "[[G3000]]"
+- "[[G3165]]"
+- "[[G1722]]"
+- "[[G5117]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Acts 7:7**<big><big>[[Acts.7.1 Stephen’s Address：The Call of Abraham|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the nation to whom they shall be in bondage will I judge, said God: and after that shall they come forth, and serve me in this place.
 <small><sub>**BSB:**</sub></small>
 ‘But I will punish the nation that enslaves them,’ God said, ‘and afterward they will come forth and worship Me in this place.’
-<small><sub>**Literal:**</sub></small>
-And the nation to which then they will be in bondage, will judge I myself, <the> God said and after these things they will come forth and they will serve Me in <the> place this.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.6|<< Acts 7:6]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.8|Acts 7:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G1484\|ἔθνος]]  [[G3739\|ᾧ]]  [[G1437\|ἐὰν]]  [[G1398\|δουλεύσουσιν,]]  [[G2919\|κρινῶ]]  [[G1473\|ἐγώ,]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G2036\|εἶπεν,]]  [[G2532\|καὶ]]  [[G3326\|μετὰ]]  [[G3778\|ταῦτα]]  [[G1831\|ἐξελεύσονται]]  [[G2532\|καὶ]]  [[G3000\|λατρεύσουσίν]]  [[G3165\|μοι]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G5117\|τόπῳ]]  [[G3778\|τούτῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic OPPRESSION|OPPRESSION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.6|<< Acts 7:6]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.8|Acts 7:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 7:7** is...
 > $\quad$ referencing: [[LXX.Gen.15.13|Gen 15:13-14]] ☩ [[LXX.Exod.3.12|Exod 3:12]]

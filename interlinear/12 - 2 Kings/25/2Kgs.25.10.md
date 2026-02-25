@@ -1,8 +1,58 @@
+---
+title: 2 Kings 25:10
+type: Verse
+kjv: "And all the army of the Chaldees, that were with the captain of the guard, brake down the walls of Jerusalem round about."
+bsb: "And the whole army of the Chaldeans under the captain of the guard broke down the walls around Jerusalem."
+hebrew: "וְאֶת־ חוֹמֹ֥ת יְרוּשָׁלִַ֖ם סָבִ֑יב נָֽתְצוּ֙ כָּל־ חֵ֣יל כַּשְׂדִּ֔ים אֲשֶׁ֖ר רַב־ טַבָּחִֽים׃"
+pericope: "[[2Kgs.25.8 The Temple Destroyed|The Temple Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 25
+book/chapter: "[[2Kgs.25|2 Kings 25]]"
+chronological_order: 742
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2346G]]"
+- "[[H3389]]"
+- "[[H5439G]]"
+- "[[H5422]]"
+- "[[H3605]]"
+- "[[H2428A]]"
+- "[[H3778]]"
+- "[[H0834A]]"
+- "[[H7227B]]"
+- "[[H2876]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 25:10**<big><big>[[2Kgs.25.8 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the army of the Chaldees, that [were with] the captain of the guard, brake down the walls of Jerusalem round about.
 <small><sub>**BSB:**</sub></small>
 And the whole army of the Chaldeans under the captain of the guard broke down the walls around Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2346G\|חוֹמֹ֥ת]] [[H3389\|יְרוּשָׁלִַ֖ם]] [[H5439G\|סָבִ֑יב]] [[H5422\|נָֽתְצוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H2428A\|חֵ֣יל]] [[H3778\|כַּשְׂדִּ֔ים]] [[H0834A\|אֲשֶׁ֖ר]] [[H7227B\|רַב]][[H9014\|־]] [[H2876\|טַבָּחִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic MONTH|MONTH]] • [[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]] • [[topic TEMPLE|TEMPLE]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.9|<< 2 Kings 25:9]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.11|2 Kings 25:11 >>]]</td></tr></table>
 

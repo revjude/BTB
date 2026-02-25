@@ -1,10 +1,63 @@
+---
+title: Acts 23:8
+type: Verse
+kjv: "For the Sadducees say that there is no resurrection, neither angel, nor spirit: but the Pharisees confess both."
+bsb: "For the Sadducees say that there is neither a resurrection nor angels nor spirits, but the Pharisees acknowledge them all."
+greek: "Σαδδουκαῖοι μὲν γὰρ λέγουσιν μὴ εἶναι ἀνάστασιν μήτε ἄγγελον μήτε πνεῦμα· Φαρισαῖοι δὲ ὁμολογοῦσιν τὰ ἀμφότερα.¶"
+pericope: "[[Acts.23.1 Paul before the Sanhedrin|Paul before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 23
+book/chapter: "[[Acts.23|Acts 23]]"
+chronological_order: 1105
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic MATERIALISM|MATERIALISM]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[G4523]]"
+- "[[G3303]]"
+- "[[G1063]]"
+- "[[G3004G]]"
+- "[[G3361]]"
+- "[[G1511]]"
+- "[[G0386]]"
+- "[[G3383]]"
+- "[[G0032G]]"
+- "[[G4151G]]"
+- "[[G5330]]"
+- "[[G1161]]"
+- "[[G3670]]"
+- "[[G3588]]"
+- "[[G0297]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 23:8**<big><big>[[Acts.23.1 Paul before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the Sadducees say that there is no resurrection, neither angel, nor spirit: but the Pharisees confess both.
 <small><sub>**BSB:**</sub></small>
 For the Sadducees say that there is neither a resurrection nor angels nor spirits, but the Pharisees acknowledge them all.
-<small><sub>**Literal:**</sub></small>
-Sadducees indeed for say not there to be resurrection neither [to be] angel nor [to be] spirit; Pharisees however confess <the> both.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.7|<< Acts 23:7]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.9|Acts 23:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4523\|Σαδδουκαῖοι]]  [[G3303\|μὲν]]  [[G1063\|γὰρ]]  [[G3004G\|λέγουσιν]]  [[G3361\|μὴ]]  [[G1511\|εἶναι]]  [[G0386\|ἀνάστασιν]]  [[G3383\|μήτε]]  [[G0032G\|ἄγγελον]]  [[G3383\|μήτε]]  [[G4151G\|πνεῦμα·]]  [[G5330\|Φαρισαῖοι]]  [[G1161\|δὲ]]  [[G3670\|ὁμολογοῦσιν]]  [[G3588\|τὰ]]  [[G0297\|ἀμφότερα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIPLOMACY|DIPLOMACY]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic INFIDELITY|INFIDELITY]] • [[topic MATERIALISM|MATERIALISM]] • [[topic PHARISEES|PHARISEES]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SADDUCEES|SADDUCEES]] • [[topic STRIFE|STRIFE]] • [[topic TACT|TACT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.7|<< Acts 23:7]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.9|Acts 23:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

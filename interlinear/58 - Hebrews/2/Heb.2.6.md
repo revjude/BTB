@@ -1,10 +1,55 @@
+---
+title: Hebrews 2:6
+type: Verse
+kjv: "But one in a certain place testified, saying, What is man, that thou art mindful of him? or the son of man, that thou visitest him?"
+bsb: "But somewhere it is testified in these words: “What is man that You are mindful of him, or the son of man that You care for him?"
+greek: "διεμαρτύρατο δέ πού τις λέγων· τί ἐστιν ἄνθρωπος ὅτι μιμνῄσκῃ αὐτοῦ ἢ υἱὸς ἀνθρώπου ὅτι ἐπισκέπτῃ αὐτόν;"
+pericope: "[[Heb.2.5 Jesus like His Brothers|Jesus like His Brothers]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 2
+book/chapter: "[[Heb.2|Hebrews 2]]"
+chronological_order: 1141
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G1263]]"
+- "[[G1161]]"
+- "[[G4225]]"
+- "[[G5100]]"
+- "[[G3004G]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G0444]]"
+- "[[G3754G]]"
+- "[[G3403]]"
+- "[[G0846]]"
+- "[[G2228]]"
+- "[[G5207]]"
+- "[[G1980]]"
+texts:
+- NKO
+---
+
 **Hebrews 2:6**<big><big>[[Heb.2.5 Jesus like His Brothers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But one in a certain place testified, saying, What is man, that thou art mindful of him? or the son of man, that thou visitest him?
 <small><sub>**BSB:**</sub></small>
 But somewhere it is testified in these words: “What is man that You are mindful of him, or the son of man that You care for him?
-<small><sub>**Literal:**</sub></small>
-Has testified however somewhere someone saying; What is man that You are mindful of him or [the] son of man that You care for him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.5|<< Hebrews 2:5]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.7|Hebrews 2:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1263\|διεμαρτύρατο]]  [[G1161\|δέ]]  [[G4225\|πού]]  [[G5100\|τις]]  [[G3004G\|λέγων·]]  [[G5101\|τί]]  [[G1510\|ἐστιν]]  [[G0444\|ἄνθρωπος]]  [[G3754G\|ὅτι]]  [[G3403\|μιμνῄσκῃ]]  [[G0846\|αὐτοῦ]]  [[G2228\|ἢ]]  [[G5207\|υἱὸς]]  [[G0444\|ἀνθρώπου]]  [[G3754G\|ὅτι]]  [[G1980\|ἐπισκέπτῃ]]  [[G0846\|αὐτόν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.5|<< Hebrews 2:5]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.7|Hebrews 2:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 2:6** is...
 > $\quad$ referencing: [[LXX.Ps.8.4|Ps 8:4-6]]

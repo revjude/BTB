@@ -1,10 +1,56 @@
+---
+title: Mark 16:2
+type: Verse
+kjv: "And very early in the morning the first day of the week, they came unto the sepulchre at the rising of the sun."
+bsb: "Very early on the first day of the week, just after sunrise, they went to the tomb."
+greek: "καὶ λίαν πρωῒ τῇ μιᾷ τῶν σαββάτων ἔρχονται ἐπὶ τὸ μνημεῖον ἀνατείλαντος τοῦ ἡλίου."
+pericope: "[[Mark.16.1 The Resurrection|The Resurrection]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 16
+book/chapter: "[[Mark.16|Mark 16]]"
+chronological_order: 1015
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RISING|RISING]]"
+- "[[topic SALOME|SALOME]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3029]]"
+- "[[G4404]]"
+- "[[G3588]]"
+- "[[G1520]]"
+- "[[G4521]]"
+- "[[G2064]]"
+- "[[G1909]]"
+- "[[G3419]]"
+- "[[G0393]]"
+- "[[G2246]]"
+texts:
+- NKO
+- N(k)O
+- no
+---
+
 **Mark 16:2**<big><big>[[Mark.16.1 The Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And very early in the morning the first [day] of the week, they came unto the sepulchre at the rising of the sun.
 <small><sub>**BSB:**</sub></small>
 Very early on the first day of the week, just after sunrise, they went to the tomb.
-<small><sub>**Literal:**</sub></small>
-And very early on the first [day] of the week they come to the tomb when was arising the sun.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.1|<< Mark 16:1]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.3|Mark 16:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3029\|λίαν]]  [[G4404\|πρωῒ]]  [[G3588\|τῇ]]  [[G1520\|μιᾷ]]  [[G3588\|τῶν]]  [[G4521\|σαββάτων]]  [[G2064\|ἔρχονται]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G3419\|μνημεῖον]]  [[G0393\|ἀνατείλαντος]]  [[G3588\|τοῦ]]  [[G2246\|ἡλίου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RISING|RISING]] • [[topic SALOME|SALOME]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.1|<< Mark 16:1]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.3|Mark 16:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

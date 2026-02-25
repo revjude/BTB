@@ -1,8 +1,69 @@
+---
+title: Daniel 2:34
+type: Verse
+kjv: "Thou sawest till that a stone was cut out without hands, which smote the image upon his feet that were of iron and clay, and brake them to pieces."
+bsb: "As you watched, a stone was cut out, but not by human hands. It struck the statue on its feet of iron and clay, and crushed them."
+aramaic: "חָזֵ֣ה הֲוַ֗יְתָ עַ֠ד דִּ֣י הִתְגְּזֶ֤רֶת אֶ֙בֶן֙ דִּי־ לָ֣א בִידַ֔יִן וּמְחָ֤ת לְצַלְמָא֙ עַל־ רַגְל֔וֹהִי דִּ֥י פַרְזְלָ֖א וְחַסְפָּ֑א וְהַדֵּ֖קֶת הִמּֽוֹן׃"
+pericope: "[[Dan.2.24 Daniel Interprets the Dream|Daniel Interprets the Dream]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CLAY|CLAY]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H2370]]"
+- "[[H1934]]"
+- "[[H5705]]"
+- "[[H1768]]"
+- "[[H1505]]"
+- "[[H0069]]"
+- "[[H9014]]"
+- "[[H3809]]"
+- "[[H9003]]"
+- "[[H3028]]"
+- "[[H9002]]"
+- "[[H4223]]"
+- "[[H9005]]"
+- "[[H6755]]"
+- "[[H9010]]"
+- "[[H5922]]"
+- "[[H7271]]"
+- "[[H9023]]"
+- "[[H6523]]"
+- "[[H2635]]"
+- "[[H1855]]"
+- "[[H1994]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 2:34**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou sawest till that a stone was cut out without hands, which smote the image upon his feet [that were] of iron and clay, and brake them to pieces.
 <small><sub>**BSB:**</sub></small>
 As you watched, a stone was cut out, but not by human hands. It struck the statue on its feet of iron and clay, and crushed them.
+<small><sub>**Aramaic:**</sub></small>
+[[H2370\|חָזֵ֣ה]] [[H1934\|הֲוַ֗יְתָ]] [[H5705\|עַ֠ד]] [[H1768\|דִּ֣י]] [[H1505\|הִתְגְּזֶ֤רֶת]] [[H0069\|אֶ֙בֶן֙]] [[H1768\|דִּי]][[H9014\|־]] [[H3809\|לָ֣א]] [[H9003\|בִ]][[H3028\|ידַ֔יִן]] [[H9002\|וּ]][[H4223\|מְחָ֤ת]] [[H9005\|לְ]][[H6755\|צַלְמָ]][[H9010\|א֙]] [[H5922\|עַל]][[H9014\|־]] [[H7271\|רַגְל֔וֹ]][[H9023\|הִי]] [[H1768\|דִּ֥י]] [[H6523\|פַרְזְלָ֖]][[H9010\|א]] [[H9002\|וְ]][[H2635\|חַסְפָּ֑]][[H9010\|א]] [[H9002\|וְ]][[H1855\|הַדֵּ֖קֶת]] [[H1994\|הִמּֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CHURCH|CHURCH]] • [[topic CLAY|CLAY]] • [[topic GOLD|GOLD]] • [[topic PERSIA|PERSIA]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.33|<< Daniel 2:33]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.35|Daniel 2:35 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

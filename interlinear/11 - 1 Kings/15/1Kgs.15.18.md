@@ -1,8 +1,86 @@
+---
+title: 1 Kings 15:18
+type: Verse
+kjv: "Then Asa took all the silver and the gold that were left in the treasures of the house of the LORD, and the treasures of the king’s house, and delivered them into the hand of his servants: and king Asa sent them to Benhadad, the son of Tabrimon, the son of Hezion, king of Syria, that dwelt at Damascus, saying,"
+bsb: "So Asa withdrew all the silver and gold that remained in the treasuries of the house of the LORD and the royal palace. He entrusted it to his servants and sent them with this message to Ben-hadad son of Tabrimmon, the son of Hezion, the king of Aram, who was ruling in Damascus:"
+hebrew: "וַיִּקַּ֣ח אָ֠סָא אֶת־ כָּל־ הַכֶּ֨סֶף וְהַזָּהָ֜ב הַֽנּוֹתָרִ֣ים׀ בְּאוֹצְר֣וֹת בֵּית־ יְהוָ֗ה וְאֶת־ אֽוֹצְרוֹת֙ בֵּ֣ית הַמֶּ֔לֶךְ וַֽיִּתְּנֵ֖ם בְּיַד־ עֲבָדָ֑יו וַיִּשְׁלָחֵ֞ם הַמֶּ֣לֶךְ אָסָ֗א אֶל־ בֶּן־ הֲ֠דַד בֶּן־ טַבְרִמֹּ֤ן בֶּן־ חֶזְיוֹן֙ מֶ֣לֶךְ אֲרָ֔ם הַיֹּשֵׁ֥ב בְּדַמֶּ֖שֶׂק לֵאמֹֽר׃"
+pericope: "[[1Kgs.15.16 War between Asa and Baasha|War between Asa and Baasha]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 15
+book/chapter: "[[1Kgs.15|1 Kings 15]]"
+chronological_order: 554
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic ASA|ASA]]"
+- "[[topic BAASHA|BAASHA]]"
+- "[[topic BEN-HADAD|BEN-HADAD]]"
+- "[[topic HEZION|HEZION]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic RAMAH|RAMAH]]"
+- "[[topic TABRIMON|TABRIMON]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0609G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H2091]]"
+- "[[H3498]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H0214]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H1004B]]"
+- "[[H4428G]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H3027H]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H1130G]]"
+- "[[H1121A]]"
+- "[[H2886]]"
+- "[[H2383]]"
+- "[[H0758I]]"
+- "[[H3427]]"
+- "[[H1834]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Kings 15:18**<big><big>[[1Kgs.15.16 War between Asa and Baasha|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Asa took all the silver and the gold [that were] left in the treasures of the house of the LORD, and the treasures of the king’s house, and delivered them into the hand of his servants: and king Asa sent them to Benhadad, the son of Tabrimon, the son of Hezion, king of Syria, that dwelt at Damascus, saying,
 <small><sub>**BSB:**</sub></small>
 So Asa withdrew all the silver and gold that remained in the treasuries of the house of the LORD and the royal palace. He entrusted it to his servants and sent them with this message to Ben-hadad son of Tabrimmon, the son of Hezion, the king of Aram, who was ruling in Damascus:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֣ח]] [[H0609G\|אָ֠סָא]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3701G\|כֶּ֨סֶף]] [[H9002\|וְ]][[H9009\|הַ]][[H2091\|זָּהָ֜ב]] [[H9009\|הַֽ]][[H3498\|נּוֹתָרִ֣ים]][[H9015\|׀]] [[H9003\|בְּ]][[H0214\|אוֹצְר֣וֹת]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0214\|אֽוֹצְרוֹת֙]] [[H1004B\|בֵּ֣ית]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9001\|וַֽ]][[H5414G\|יִּתְּנֵ֖]][[H9038\|ם]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H5650\|עֲבָדָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H7971G\|יִּשְׁלָחֵ֞]][[H9038\|ם]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H0609G\|אָסָ֗א]] [[H0413\|אֶל]][[H9014\|־]] [[H1130G\|בֶּן]][[H9014\|־]] [[H1130G\|הֲ֠דַד]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2886\|טַבְרִמֹּ֤ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2383\|חֶזְיוֹן֙]] [[H4428G\|מֶ֣לֶךְ]] [[H0758I\|אֲרָ֔ם]] [[H9009\|הַ]][[H3427\|יֹּשֵׁ֥ב]] [[H9003\|בְּ]][[H1834\|דַמֶּ֖שֶׂק]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic ASA|ASA]] • [[topic BAASHA|BAASHA]] • [[topic BEN-HADAD|BEN-HADAD]] • [[topic HEZION|HEZION]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic RAMAH|RAMAH]] • [[topic TABRIMON|TABRIMON]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.17|<< 1 Kings 15:17]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.19|1 Kings 15:19 >>]]</td></tr></table>
 

@@ -1,10 +1,64 @@
+---
+title: Romans 7:18
+type: Verse
+kjv: "For I know that in me (that is, in my flesh,) dwelleth no good thing: for to will is present with me; but how to perform that which is good I find not."
+bsb: "I know that nothing good lives in me, that is, in my flesh; for I have the desire to do what is good, but I cannot carry it out."
+greek: "οἶδα γὰρ ὅτι οὐκ οἰκεῖ ἐν ἐμοί, τοῦτ᾽ ἔστιν ἐν τῇ σαρκί μου, ἀγαθόν· τὸ γὰρ θέλειν παράκειταί μοι, τὸ δὲ κατεργάζεσθαι τὸ καλὸν οὐχ εὑρίσκω."
+pericope: "[[Rom.7.13 Struggling with Sin|Struggling with Sin]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 7
+book/chapter: "[[Rom.7|Romans 7]]"
+chronological_order: 1093
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GOOD AND EVIL|GOOD AND EVIL]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic MAN|MAN]]"
+strongs:
+- "[[G6063]]"
+- "[[G1063]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G3611]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G4561]]"
+- "[[G3165]]"
+- "[[G0018]]"
+- "[[G2309]]"
+- "[[G3873]]"
+- "[[G1161]]"
+- "[[G2716]]"
+- "[[G2570G]]"
+- "[[G2147]]"
+texts:
+- NKO
+- K
+---
+
 **Romans 7:18**<big><big>[[Rom.7.13 Struggling with Sin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I know that in me (that is, in my flesh,) dwelleth no good thing: for to will is present with me; but [how] to perform that which is good I find not.
 <small><sub>**BSB:**</sub></small>
 I know that nothing good lives in me, that is, in my flesh; for I have the desire to do what is good, but I cannot carry it out.
-<small><sub>**Literal:**</sub></small>
-I know for that nothing dwells in me myself, That is in the flesh of mine, good; <the> for to wish [to do] is present with me, <the> but to do the good not find.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.17|<< Romans 7:17]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.19|Romans 7:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|οἶδα]]  [[G1063\|γὰρ]]  [[G3754G\|ὅτι]]  [[G3756\|οὐκ]]  [[G3611\|οἰκεῖ]]  [[G1722\|ἐν]]  [[G1473\|ἐμοί,]]  [[G3778\|τοῦτ᾽]]  [[G1510\|ἔστιν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4561\|σαρκί]]  [[G3165\|μου,]]  [[G0018\|ἀγαθόν·]]  [[G3588\|τὸ]]  [[G1063\|γὰρ]]  [[G2309\|θέλειν]]  [[G3873\|παράκειταί]]  [[G3165\|μοι,]]  [[G3588\|τὸ]]  [[G1161\|δὲ]]  [[G2716\|κατεργάζεσθαι]]  [[G3588\|τὸ]]  [[G2570G\|καλὸν]]  [[G3756\|οὐχ]]  [[G2147\|εὑρίσκω.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GOOD AND EVIL|GOOD AND EVIL]] • [[topic HUMILITY|HUMILITY]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic MAN|MAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.17|<< Romans 7:17]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.19|Romans 7:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

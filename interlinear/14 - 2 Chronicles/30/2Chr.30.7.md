@@ -1,8 +1,70 @@
+---
+title: 2 Chronicles 30:7
+type: Verse
+kjv: "And be not ye like your fathers, and like your brethren, which trespassed against the LORD God of their fathers, who therefore gave them up to desolation, as ye see."
+bsb: "Do not be like your fathers and brothers who were unfaithful to the LORD, the God of their fathers, so that He made them an object of horror, as you can see."
+hebrew: "וְאַל־ תִּֽהְי֗וּ כַּאֲבֽוֹתֵיכֶם֙ וְכַ֣אֲחֵיכֶ֔ם אֲשֶׁ֣ר מָעֲל֔וּ בַּיהוָ֖ה אֱלֹהֵ֣י אֲבוֹתֵיהֶ֑ם וַיִּתְּנֵ֣ם לְשַׁמָּ֔ה כַּאֲשֶׁ֖ר אַתֶּ֥ם רֹאִֽים׃"
+pericope: "[[2Chr.30.1 Hezekiah Proclaims a Passover|Hezekiah Proclaims a Passover]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 30
+book/chapter: "[[2Chr.30|2 Chronicles 30]]"
+chronological_order: 660
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DERISION|DERISION]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PROCLAMATION|PROCLAMATION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SCOFFING|SCOFFING]]"
+strongs:
+- "[[H9002]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H0251G]]"
+- "[[H0834A]]"
+- "[[H4603]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9028]]"
+- "[[H9001]]"
+- "[[H5414I]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H8047G]]"
+- "[[H0834D]]"
+- "[[H0859D]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 30:7**<big><big>[[2Chr.30.1 Hezekiah Proclaims a Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And be not ye like your fathers, and like your brethren, which trespassed against the LORD God of their fathers, [who] therefore gave them up to desolation, as ye see.
 <small><sub>**BSB:**</sub></small>
 Do not be like your fathers and brothers who were unfaithful to the LORD, the God of their fathers, so that He made them an object of horror, as you can see.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H1961\|תִּֽהְי֗וּ]] [[H9004\|כַּ]][[H0001G\|אֲבֽוֹתֵי]][[H9026\|כֶם֙]] [[H9002\|וְ]][[H9004\|כַ֣]][[H0251G\|אֲחֵי]][[H9026\|כֶ֔ם]] [[H0834A\|אֲשֶׁ֣ר]] [[H4603\|מָעֲל֔וּ]] [[H9003\|בַּ]][[H3068G\|יהוָ֖ה]] [[H0430G\|אֱלֹהֵ֣י]] [[H0001G\|אֲבוֹתֵי]][[H9028\|הֶ֑ם]] [[H9001\|וַ]][[H5414I\|יִּתְּנֵ֣]][[H9038\|ם]] [[H9005\|לְ]][[H8047G\|שַׁמָּ֔ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H0859D\|אַתֶּ֥ם]] [[H7200G\|רֹאִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DERISION|DERISION]] • [[topic EXAMPLE|EXAMPLE]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MONTH|MONTH]] • [[topic PROCLAMATION|PROCLAMATION]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SCOFFING|SCOFFING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.30.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.30.6|<< 2 Chronicles 30:6]]</td><td align="center" style="border:none;">[[2Chr.30|2 Chronicles 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.30.8|2 Chronicles 30:8 >>]]</td></tr></table>
 

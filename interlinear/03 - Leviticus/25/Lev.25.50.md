@@ -1,8 +1,71 @@
+---
+title: Leviticus 25:50
+type: Verse
+kjv: "And he shall reckon with him that bought him from the year that he was sold to him unto the year of jubile: and the price of his sale shall be according unto the number of years, according to the time of an hired servant shall it be with him."
+bsb: "He and his purchaser will then count the time from the year he sold himself up to the Year of Jubilee. The price of his sale will be determined by the number of years, based on the daily wages of a hired hand."
+hebrew: "וְחִשַּׁב֙ עִם־ קֹנֵ֔הוּ מִשְּׁנַת֙ הִמָּ֣כְרוֹ ל֔וֹ עַ֖ד שְׁנַ֣ת הַיֹּבֵ֑ל וְהָיָ֞ה כֶּ֤סֶף מִמְכָּרוֹ֙ בְּמִסְפַּ֣ר שָׁנִ֔ים כִּימֵ֥י שָׂכִ֖יר יִהְיֶ֥ה עִמּֽוֹ׃"
+pericope: "[[Lev.25.47 Redemption of Servants|Redemption of Servants]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H2803H]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H7069]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H8141]]"
+- "[[H4376]]"
+- "[[H9043]]"
+- "[[H9005]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H3104]]"
+- "[[H1961]]"
+- "[[H3701H]]"
+- "[[H4465]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H4557]]"
+- "[[H9004]]"
+- "[[H3117G]]"
+- "[[H7916]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:50**<big><big>[[Lev.25.47 Redemption of Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall reckon with him that bought him from the year that he was sold to him unto the year of jubile: and the price of his sale shall be according unto the number of years, according to the time of an hired servant shall it be with him.
 <small><sub>**BSB:**</sub></small>
 He and his purchaser will then count the time from the year he sold himself up to the Year of Jubilee. The price of his sale will be determined by the number of years, based on the daily wages of a hired hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2803H\|חִשַּׁב֙]] [[H5973A\|עִם]][[H9014\|־]] [[H7069\|קֹנֵ֔]][[H9033\|הוּ]] [[H9006\|מִ]][[H8141\|שְּׁנַת֙]] [[H4376\|הִמָּ֣כְר]][[H9043\|וֹ]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H5704\|עַ֖ד]] [[H8141\|שְׁנַ֣ת]] [[H9009\|הַ]][[H3104\|יֹּבֵ֑ל]] [[H9001\|וְ]][[H1961\|הָיָ֞ה]] [[H3701H\|כֶּ֤סֶף]] [[H4465\|מִמְכָּר]][[H9023\|וֹ֙]] [[H9003\|בְּ]][[H4557\|מִסְפַּ֣ר]] [[H8141\|שָׁנִ֔ים]] [[H9004\|כִּ]][[H3117G\|ימֵ֥י]] [[H7916\|שָׂכִ֖יר]] [[H1961\|יִהְיֶ֥ה]] [[H5973A\|עִמּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEBTOR|DEBTOR]] • [[topic JUBILEE|JUBILEE]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.49|<< Leviticus 25:49]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.51|Leviticus 25:51 >>]]</td></tr></table>
 

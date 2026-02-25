@@ -1,8 +1,70 @@
+---
+title: Genesis 8:22
+type: Verse
+kjv: "While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease."
+bsb: "As long as the earth endures, seedtime and harvest, cold and heat, summer and winter, day and night shall never cease.”"
+hebrew: "עֹ֖ד כָּל־ יְמֵ֣י הָאָ֑רֶץ זֶ֡רַע וְ֠קָצִיר וְקֹ֨ר וָחֹ֜ם וְקַ֧יִץ וָחֹ֛רֶף וְי֥וֹם וָלַ֖יְלָה לֹ֥א יִשְׁבֹּֽתוּ׃"
+pericope: "[[Gen.8.20 Noah Builds an Altar|Noah Builds an Altar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 8
+book/chapter: "[[Gen.8|Genesis 8]]"
+chronological_order: 8
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HARVEST|HARVEST]]"
+- "[[topic NOAH|NOAH]]"
+- "[[topic SEASONS|SEASONS]]"
+- "[[topic SPRING|SPRING]]"
+- "[[topic SUMMER|SUMMER]]"
+- "[[topic WINTER|WINTER]]"
+strongs:
+- "[[H5750]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2233G]]"
+- "[[H9002]]"
+- "[[H7105A]]"
+- "[[H7120]]"
+- "[[H2527]]"
+- "[[H7019]]"
+- "[[H2779]]"
+- "[[H3915]]"
+- "[[H3808]]"
+- "[[H7673A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 8:22**<big><big>[[Gen.8.20 Noah Builds an Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.
 <small><sub>**BSB:**</sub></small>
 As long as the earth endures, seedtime and harvest, cold and heat, summer and winter, day and night shall never cease.”
+<small><sub>**Hebrew:**</sub></small>
+[[H5750\|עֹ֖ד]] [[H3605\|כָּל]][[H9014\|־]] [[H3117G\|יְמֵ֣י]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H2233G\|זֶ֡רַע]] [[H9002\|וְ֠]][[H7105A\|קָצִיר]] [[H9002\|וְ]][[H7120\|קֹ֨ר]] [[H9002\|וָ]][[H2527\|חֹ֜ם]] [[H9002\|וְ]][[H7019\|קַ֧יִץ]] [[H9002\|וָ]][[H2779\|חֹ֛רֶף]] [[H9002\|וְ]][[H3117G\|י֥וֹם]] [[H9002\|וָ]][[H3915\|לַ֖יְלָה]] [[H3808\|לֹ֥א]] [[H7673A\|יִשְׁבֹּֽתוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic BLESSING|BLESSING]] • [[topic COVENANT|COVENANT]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GOD|GOD]] • [[topic HARVEST|HARVEST]] • [[topic NOAH|NOAH]] • [[topic SEASONS|SEASONS]] • [[topic SPRING|SPRING]] • [[topic SUMMER|SUMMER]] • [[topic WINTER|WINTER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.8.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.21|<< Genesis 8:21]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.1|Genesis 9:1 >>]]</td></tr></table>
 

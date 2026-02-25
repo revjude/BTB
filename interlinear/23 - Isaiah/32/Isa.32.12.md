@@ -1,8 +1,52 @@
+---
+title: Isaiah 32:12
+type: Verse
+kjv: "They shall lament for the teats, for the pleasant fields, for the fruitful vine."
+bsb: "Beat your breasts for the pleasant fields, for the fruitful vines,"
+hebrew: "עַל־ שָׁדַ֖יִם סֹֽפְדִ֑ים עַל־ שְׂדֵי־ חֶ֕מֶד עַל־ גֶּ֖פֶן פֹּרִיָּֽה׃"
+pericope: "[[Isa.32.9 The Women of Jerusalem|The Women of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 32
+book/chapter: "[[Isa.32|Isaiah 32]]"
+chronological_order: 675
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7699A]]"
+- "[[H5594]]"
+- "[[H7704G]]"
+- "[[H2531]]"
+- "[[H1612]]"
+- "[[H6509]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 32:12**<big><big>[[Isa.32.9 The Women of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall lament for the teats, for the pleasant fields, for the fruitful vine.
 <small><sub>**BSB:**</sub></small>
 Beat your breasts for the pleasant fields, for the fruitful vines,
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H7699A\|שָׁדַ֖יִם]] [[H5594\|סֹֽפְדִ֑ים]] [[H5921A\|עַל]][[H9014\|־]] [[H7704G\|שְׂדֵי]][[H9014\|־]] [[H2531\|חֶ֕מֶד]] [[H5921A\|עַל]][[H9014\|־]] [[H1612\|גֶּ֖פֶן]] [[H6509\|פֹּרִיָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.32.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.11|<< Isaiah 32:11]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.13|Isaiah 32:13 >>]]</td></tr></table>
 

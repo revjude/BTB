@@ -1,10 +1,68 @@
+---
+title: Romans 1:29
+type: Verse
+kjv: "Being filled with all unrighteousness, fornication, wickedness, covetousness, maliciousness; full of envy, murder, debate, deceit, malignity; whisperers,"
+bsb: "They have become filled with every kind of wickedness, evil, greed, and depravity. They are full of envy, murder, strife, deceit, and malice. They are gossips,"
+greek: "πεπληρωμένους πάσῃ ἀδικίᾳ πορνείᾳ, πονηρίᾳ, πλεονεξίᾳ, κακίᾳ, μεστοὺς φθόνου, φόνου, ἔριδος, δόλου, κακοηθείας, ψιθυριστάς,"
+pericope: "[[Rom.1.18 God’s Wrath against Sin|God’s Wrath against Sin]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 1
+book/chapter: "[[Rom.1|Romans 1]]"
+chronological_order: 1087
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CRIME|CRIME]]"
+- "[[topic DECEIT|DECEIT]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic ROME|ROME]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WHISPERER|WHISPERER]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G4137]]"
+- "[[G3956]]"
+- "[[G0093]]"
+- "[[G4202]]"
+- "[[G4189]]"
+- "[[G4124]]"
+- "[[G2549]]"
+- "[[G3324]]"
+- "[[G5355]]"
+- "[[G5408]]"
+- "[[G2054]]"
+- "[[G1388]]"
+- "[[G2550]]"
+- "[[G5588]]"
+texts:
+- NKO
+- K
+---
+
 **Romans 1:29**<big><big>[[Rom.1.18 God’s Wrath against Sin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Being filled with all unrighteousness, fornication, wickedness, covetousness, maliciousness; full of envy, murder, debate, deceit, malignity; whisperers,
 <small><sub>**BSB:**</sub></small>
 They have become filled with every kind of wickedness, evil, greed, and depravity. They are full of envy, murder, strife, deceit, and malice. They are gossips,
-<small><sub>**Literal:**</sub></small>
-filled with all unrighteousness sexual immorality wickedness, covetousness, malice, full of envy, murder, strife, deceit, maliciousness, gossips<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.28|<< Romans 1:28]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.30|Romans 1:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4137\|πεπληρωμένους]]  [[G3956\|πάσῃ]]  [[G0093\|ἀδικίᾳ]]  [[G4202\|πορνείᾳ,]]  [[G4189\|πονηρίᾳ,]]  [[G4124\|πλεονεξίᾳ,]]  [[G2549\|κακίᾳ,]]  [[G3324\|μεστοὺς]]  [[G5355\|φθόνου,]]  [[G5408\|φόνου,]]  [[G2054\|ἔριδος,]]  [[G1388\|δόλου,]]  [[G2550\|κακοηθείας,]]  [[G5588\|ψιθυριστάς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHARACTER|CHARACTER]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CRIME|CRIME]] • [[topic DECEIT|DECEIT]] • [[topic ENVY|ENVY]] • [[topic GENTILES|GENTILES]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic MALICE|MALICE]] • [[topic PRIDE|PRIDE]] • [[topic ROME|ROME]] • [[topic SLANDER|SLANDER]] • [[topic SPEAKING|SPEAKING]] • [[topic WHISPERER|WHISPERER]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.28|<< Romans 1:28]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.30|Romans 1:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,57 @@
+---
+title: Hebrews 8:4
+type: Verse
+kjv: "For if he were on earth, he should not be a priest, seeing that there are priests that offer gifts according to the law:"
+bsb: "Now if He were on earth, He would not be a priest, since there are already priests who offer gifts according to the law."
+greek: "Εἰ μὲν οὖν ἦν ἐπὶ γῆς, οὐδ᾽ ἂν ἦν ἱερεὺς ὄντων τῶν ἱερέων τῶν προσφερόντων κατὰ τὸν νόμον τὰ δῶρα,"
+pericope: "[[Heb.8.1 Christ’s Eternal Priesthood|Christ’s Eternal Priesthood]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 8
+book/chapter: "[[Heb.8|Hebrews 8]]"
+chronological_order: 1147
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic LAW|LAW]]"
+strongs:
+- "[[G1487G]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G1510]]"
+- "[[G1909]]"
+- "[[G1093G]]"
+- "[[G3761]]"
+- "[[G0302]]"
+- "[[G2409]]"
+- "[[G3588]]"
+- "[[G4374]]"
+- "[[G2596]]"
+- "[[G3551]]"
+- "[[G1435]]"
+texts:
+- NKO
+- N(K)O
+- k
+---
+
 **Hebrews 8:4**<big><big>[[Heb.8.1 Christ’s Eternal Priesthood|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For if he were on earth, he should not be a priest, seeing that there are priests that offer gifts according to the law:
 <small><sub>**BSB:**</sub></small>
 Now if He were on earth, He would not be a priest, since there are already priests who offer gifts according to the law.
-<small><sub>**Literal:**</sub></small>
-If certainly then He were on earth, not even then would He was being a priest while are being <the> priests those offering according to <the> law the gifts,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.8.3|<< Hebrews 8:3]]</td><td align="center" style="border:none;">[[Heb.8|Hebrews 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8.5|Hebrews 8:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|Εἰ]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G1510\|ἦν]]  [[G1909\|ἐπὶ]]  [[G1093G\|γῆς,]]  [[G3761\|οὐδ᾽]]  [[G0302\|ἂν]]  [[G1510\|ἦν]]  [[G2409\|ἱερεὺς]]  [[G1510\|ὄντων]]  [[G3588\|τῶν]]  [[G2409\|ἱερέων]]  [[G3588\|τῶν]]  [[G4374\|προσφερόντων]]  [[G2596\|κατὰ]]  [[G3588\|τὸν]]  [[G3551\|νόμον]]  [[G3588\|τὰ]]  [[G1435\|δῶρα,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic LAW|LAW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.8.3|<< Hebrews 8:3]]</td><td align="center" style="border:none;">[[Heb.8|Hebrews 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8.5|Hebrews 8:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

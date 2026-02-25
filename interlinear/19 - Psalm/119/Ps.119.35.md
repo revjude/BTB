@@ -1,8 +1,55 @@
+---
+title: Psalm 119:35
+type: Verse
+kjv: "Make me to go in the path of thy commandments; for therein do I delight."
+bsb: "Direct me in the path of Your commandments, for there I find delight."
+hebrew: "הַ֭דְרִיכֵנִי בִּנְתִ֣יב מִצְוֹתֶ֑יךָ כִּי־ ב֥וֹ חָפָֽצְתִּי׃"
+pericope: "[[Ps.119.33 Your Word Is a Lamp to My Feet - HE|Your Word Is a Lamp to My Feet - HE]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H1869]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H5410A]]"
+- "[[H4687]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9033]]"
+- "[[H2654A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:35**<big><big>[[Ps.119.33 Your Word Is a Lamp to My Feet - HE|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Make me to go in the path of thy commandments; for therein do I delight.
 <small><sub>**BSB:**</sub></small>
 Direct me in the path of Your commandments, for there I find delight.
+<small><sub>**Hebrew:**</sub></small>
+[[H1869\|הַ֭דְרִיכֵ]][[H9030\|נִי]] [[H9003\|בִּ]][[H5410A\|נְתִ֣יב]] [[H4687\|מִצְוֹתֶ֑י]][[H9021\|ךָ]] [[H3588A\|כִּי]][[H9014\|־]] [[H9003\|ב֥]][[H9033\|וֹ]] [[H2654A\|חָפָֽצְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.34|<< Psalms 119:34]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.36|Psalms 119:36 >>]]</td></tr></table>
 

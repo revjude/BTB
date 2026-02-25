@@ -1,8 +1,56 @@
+---
+title: Jeremiah 28:2
+type: Verse
+kjv: "Thus speaketh the LORD of hosts, the God of Israel, saying, I have broken the yoke of the king of Babylon."
+bsb: "“This is what the LORD of Hosts, the God of Israel, says: ‘I have broken the yoke of the king of Babylon."
+hebrew: "כֹּֽה־ אָמַ֞ר יְהוָ֧ה צְבָא֛וֹת אֱלֹהֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר שָׁבַ֞רְתִּי אֶת־ עֹ֖ל מֶ֥לֶךְ בָּבֶֽל׃"
+pericope: "[[Jer.28.1 Hananiah’s False Prophecy|Hananiah’s False Prophecy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 28
+book/chapter: "[[Jer.28|Jeremiah 28]]"
+chronological_order: 751
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic YOKE|YOKE]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H7665]]"
+- "[[H0853]]"
+- "[[H5923]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 28:2**<big><big>[[Jer.28.1 Hananiah’s False Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus speaketh the LORD of hosts, the God of Israel, saying, I have broken the yoke of the king of Babylon.
 <small><sub>**BSB:**</sub></small>
 “This is what the LORD of Hosts, the God of Israel, says: ‘I have broken the yoke of the king of Babylon.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֞ר]] [[H3068G\|יְהוָ֧ה]] [[H6635B\|צְבָא֛וֹת]] [[H0430G\|אֱלֹהֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H7665\|שָׁבַ֞רְתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H5923\|עֹ֖ל]] [[H4428G\|מֶ֥לֶךְ]] [[H0894\|בָּבֶֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic YOKE|YOKE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.28.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.28.1|<< Jeremiah 28:1]]</td><td align="center" style="border:none;">[[Jer.28|Jeremiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.28.3|Jeremiah 28:3 >>]]</td></tr></table>
 

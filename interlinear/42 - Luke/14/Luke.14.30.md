@@ -1,10 +1,57 @@
+---
+title: Luke 14:30
+type: Verse
+kjv: "Saying, This man began to build, and was not able to finish."
+bsb: "saying, ‘This man could not finish what he started to build.’"
+jesus_said: "Saying, This man began to build, and was not able to finish."
+greek: "λέγοντες ὅτι οὗτος ὁ ἄνθρωπος ἤρξατο οἰκοδομεῖν καὶ οὐκ ἴσχυσεν ἐκτελέσαι."
+pericope: "[[Luke.14.25 The Cost of Discipleship|The Cost of Discipleship]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 14
+book/chapter: "[[Luke.14|Luke 14]]"
+chronological_order: 976
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G0757]]"
+- "[[G3618]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2480]]"
+- "[[G1615]]"
+texts:
+- NKO
+---
+
 **Luke 14:30**<big><big>[[Luke.14.25 The Cost of Discipleship|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Saying, This man began to build, and was not able to finish.
 <small><sub>**BSB:**</sub></small>
 saying, ‘This man could not finish what he started to build.’
-<small><sub>**Literal:**</sub></small>
-saying that This <the> man began to build and not he was able to finish.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.29|<< Luke 14:29]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.31|Luke 14:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγοντες]]  [[G3754G\|ὅτι]]  [[G3778\|οὗτος]]  [[G3588\|ὁ]]  [[G0444\|ἄνθρωπος]]  [[G0757\|ἤρξατο]]  [[G3618\|οἰκοδομεῖν]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G2480\|ἴσχυσεν]]  [[G1615\|ἐκτελέσαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SALVATION|SALVATION]] • [[topic SEEKERS|SEEKERS]] • [[topic SELF-DENIAL|SELF-DENIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.29|<< Luke 14:29]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.31|Luke 14:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,57 @@
+---
+title: Leviticus 18:29
+type: Verse
+kjv: "For whosoever shall commit any of these abominations, even the souls that commit them shall be cut off from among their people."
+bsb: "Therefore anyone who commits any of these abominations must be cut off from among his people."
+hebrew: "כִּ֚י כָּל־ אֲשֶׁ֣ר יַעֲשֶׂ֔ה מִכֹּ֥ל הַתּוֹעֵב֖וֹת הָאֵ֑לֶּה וְנִכְרְת֛וּ הַנְּפָשׁ֥וֹת הָעֹשֹׂ֖ת מִקֶּ֥רֶב עַמָּֽם׃"
+pericope: "[[Lev.18.1 Unlawful Sexual Relations|Unlawful Sexual Relations]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 18
+book/chapter: "[[Lev.18|Leviticus 18]]"
+chronological_order: 150
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+strongs:
+- "[[H3588A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H8441]]"
+- "[[H0428]]"
+- "[[H9001]]"
+- "[[H3772I]]"
+- "[[H5315J]]"
+- "[[H7130G]]"
+- "[[H5971B]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 18:29**<big><big>[[Lev.18.1 Unlawful Sexual Relations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For whosoever shall commit any of these abominations, even the souls that commit [them] shall be cut off from among their people.
 <small><sub>**BSB:**</sub></small>
 Therefore anyone who commits any of these abominations must be cut off from among his people.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֚י]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213A\|יַעֲשֶׂ֔ה]] [[H9006\|מִ]][[H3605\|כֹּ֥ל]] [[H9009\|הַ]][[H8441\|תּוֹעֵב֖וֹת]] [[H9009\|הָ]][[H0428\|אֵ֑לֶּה]] [[H9001\|וְ]][[H3772I\|נִכְרְת֛וּ]] [[H9009\|הַ]][[H5315J\|נְּפָשׁ֥וֹת]] [[H9009\|הָ]][[H6213A\|עֹשֹׂ֖ת]] [[H9006\|מִ]][[H7130G\|קֶּ֥רֶב]] [[H5971B\|עַמָּֽ]][[H9028\|ם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.18.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18.28|<< Leviticus 18:28]]</td><td align="center" style="border:none;">[[Lev.18|Leviticus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.18.30|Leviticus 18:30 >>]]</td></tr></table>
 

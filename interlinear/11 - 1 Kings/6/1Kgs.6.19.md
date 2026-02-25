@@ -1,8 +1,61 @@
+---
+title: 1 Kings 6:19
+type: Verse
+kjv: "And the oracle he prepared in the house within, to set there the ark of the covenant of the LORD."
+bsb: "Solomon also prepared the inner sanctuary within the temple to set the ark of the covenant of the LORD there."
+hebrew: "וּדְבִ֧יר בְּתוֹךְ־ הַבַּ֛יִת מִפְּנִ֖ימָה הֵכִ֑ין לְתִתֵּ֣ן שָׁ֔ם אֶת־ אֲר֖וֹן בְּרִ֥ית יְהוָֽה׃"
+pericope: "[[1Kgs.6.14 The Temple’s Interior|The Temple’s Interior]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 6
+book/chapter: "[[1Kgs.6|1 Kings 6]]"
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H1687]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H9006]]"
+- "[[H6441]]"
+- "[[H3559A]]"
+- "[[H9005]]"
+- "[[H5414H]]"
+- "[[H8033G]]"
+- "[[H0853]]"
+- "[[H0727]]"
+- "[[H1285]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 6:19**<big><big>[[1Kgs.6.14 The Temple’s Interior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the oracle he prepared in the house within, to set there the ark of the covenant of the LORD.
 <small><sub>**BSB:**</sub></small>
 Solomon also prepared the inner sanctuary within the temple to set the ark of the covenant of the LORD there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1687\|דְבִ֧יר]] [[H9003\|בְּ]][[H8432\|תוֹךְ]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּ֛יִת]] [[H9006\|מִ]][[H6441\|פְּנִ֖ימָה]] [[H3559A\|הֵכִ֑ין]] [[H9005\|לְ]][[H5414H\|תִתֵּ֣ן]] [[H8033G\|שָׁ֔ם]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲר֖וֹן]] [[H1285\|בְּרִ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.18|<< 1 Kings 6:18]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.20|1 Kings 6:20 >>]]</td></tr></table>
 

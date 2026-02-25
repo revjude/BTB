@@ -1,6 +1,53 @@
+---
+title: LXX Job 18:4
+type: Verse
+lxx: "Anger has dealt with you. For what if you should die, will it be uninhabited  under heaven? or mountains be eradicated from their foundations?"
+greek: "κέχρηταί σε οργή τι γαρ εάν συ αποθάνης αοίκητος η υπ΄ ουρανόν η καταστραφήσεται όρη εκ θεμελίων"
+original_language: Greek
+testament: Old
+book: Job
+chapter: 18
+book/chapter: "[[Job.18|Job 18]]"
+chronological_order: 29
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G5530]]"
+- "[[G1473]]"
+- "[[G3709]]"
+- "[[G5100]]"
+- "[[G1063]]"
+- "[[G1437]]"
+- "[[G1473]]"
+- "[[G0599]]"
+- "[[G6384]]"
+- "[[G3588]]"
+- "[[G5259]]"
+- "[[G3772]]"
+- "[[G2228]]"
+- "[[G2690]]"
+- "[[G3735]]"
+- "[[G1537]]"
+- "[[G2310]]"
+---
+
 **LXX Job 18:4** 
 <small><sub>**LXX:**</sub></small>
 Anger has dealt with you. For what if you should die, \[will it be\] uninhabited  under heaven? or mountains be eradicated from \[their\] foundations? 
+<small><sub>**Greek:**</sub></small>
+[[G5530\|κέχρηταί]] [[G1473\|σε]] [[G3709\|οργή]] [[G5100\|τι]] [[G1063\|γαρ]] [[G1437\|εάν]] [[G1473\|συ]] [[G0599\|αποθάνης]] [[G6384\|αοίκητος]] [[G3588\|η]] [[G5259\|υπ΄]] [[G3772\|ουρανόν]] [[G2228\|η]] [[G2690\|καταστραφήσεται]] [[G3735\|όρη]] [[G1537\|εκ]] [[G2310\|θεμελίων]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Job.18.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.18.3|<< Job 18:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.18.5|Job 18:5 >>]]</td></tr></table>
 
@@ -22,6 +69,6 @@ Anger has dealt with you. For what if you should die, \[will it be\] uninhabited
 | mountains | **<big>[[G3735\|όρη]]</big>** |
 | from | **<big>[[G1537\|εκ]]</big>** |
 | \[their\] foundations? | **<big>[[G2310\|θεμελίων]]</big>** |
-[[Job.18.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.18.3|<< Job 18:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.18.5|Job 18:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.18.3|<< Job 18:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.18.5|Job 18:5 >>]]</td></tr></table>
 
 

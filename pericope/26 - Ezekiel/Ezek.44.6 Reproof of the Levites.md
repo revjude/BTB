@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Reproof of the Levites
+type: Pericope
 pericope: "[[Ezek.44.6 Reproof of the Levites|Reproof of the Levites]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 44
 book/chapter: "[[Ezek.44|Ezekiel 44]]"
-genre:
+chronological_order: 835
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 9
 verses:
 - "[[Ezek.44.6]]"
 - "[[Ezek.44.7]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Ezek.44.14]]"
 ---
 
-[[Ezek.44|Ezekiel 44:6 - Ezekiel 44:14]]
+<small>[[Ezek.44|Ezekiel 44:6-14]]</small>
 *Reproof of the Levites*
 
 [[Ezek.44.6|6]] And thou shalt say to the rebellious, \[even\] to the house of Israel, Thus saith the Lord GOD; O ye house of Israel, let it suffice you of all your abominations,

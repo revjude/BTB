@@ -1,8 +1,56 @@
+---
+title: Psalm 35:4
+type: Verse
+kjv: "Let them be confounded and put to shame that seek after my soul: let them be turned back and brought to confusion that devise my hurt."
+bsb: "May those who seek my life be disgraced and put to shame; may those who plan to harm me be driven back and confounded."
+hebrew: "יֵבֹ֣שׁוּ וְיִכָּלְמוּ֮ מְבַקְשֵׁ֪י נַ֫פְשִׁ֥י יִסֹּ֣גוּ אָח֣וֹר וְיַחְפְּר֑וּ חֹ֝שְׁבֵ֗י רָעָתִֽי׃"
+pericope: "[[Ps.35.1 Contend with My Opponents, O LORD|Contend with My Opponents, O LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 35
+book/chapter: "[[Ps.35|Psalm 35]]"
+chronological_order: 363
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H0954]]"
+- "[[H9002]]"
+- "[[H3637]]"
+- "[[H1245]]"
+- "[[H5315H]]"
+- "[[H9020]]"
+- "[[H5472]]"
+- "[[H0268]]"
+- "[[H2659]]"
+- "[[H2803I]]"
+- "[[H7451I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 35:4**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them be confounded and put to shame that seek after my soul: let them be turned back and brought to confusion that devise my hurt.
 <small><sub>**BSB:**</sub></small>
 May those who seek my life be disgraced and put to shame; may those who plan to harm me be driven back and confounded.
+<small><sub>**Hebrew:**</sub></small>
+[[H0954\|יֵבֹ֣שׁוּ]] [[H9002\|וְ]][[H3637\|יִכָּלְמוּ֮]] [[H1245\|מְבַקְשֵׁ֪י]] [[H5315H\|נַ֫פְשִׁ֥]][[H9020\|י]] [[H5472\|יִסֹּ֣גוּ]] [[H0268\|אָח֣וֹר]] [[H9002\|וְ]][[H2659\|יַחְפְּר֑וּ]] [[H2803I\|חֹ֝שְׁבֵ֗י]] [[H7451I\|רָעָתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENEMY|ENEMY]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.3|<< Psalms 35:3]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.5|Psalms 35:5 >>]]</td></tr></table>
 

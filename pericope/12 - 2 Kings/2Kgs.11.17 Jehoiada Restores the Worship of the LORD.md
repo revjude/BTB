@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jehoiada Restores the Worship of the LORD
+type: Pericope
 pericope: "[[2Kgs.11.17 Jehoiada Restores the Worship of the LORD|Jehoiada Restores the Worship of the LORD]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 11
 book/chapter: "[[2Kgs.11|2 Kings 11]]"
-genre:
+chronological_order: 584
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~835–796 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 5
 verses:
 - "[[2Kgs.11.17]]"
 - "[[2Kgs.11.18]]"
@@ -23,7 +30,7 @@ verses:
 - "[[2Kgs.11.21]]"
 ---
 
-[[2Kgs.11|2 Kings 11:17 - 2 Kings 11:21]]
+<small>[[2Kgs.11|2 Kings 11:17-21]]</small>
 *Jehoiada Restores the Worship of the LORD*
 
 [[2Kgs.11.17|17]] And Jehoiada made a covenant between the LORD and the king and the people, that they should be the LORD’S people; between the king also and the people.

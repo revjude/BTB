@@ -1,10 +1,74 @@
+---
+title: John 8:44
+type: Verse
+kjv: "Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it."
+bsb: "You belong to your father, the devil, and you want to carry out his desires. He was a murderer from the beginning, refusing to uphold the truth, because there is no truth in him. When he lies, he speaks his native language, because he is a liar and the father of lies."
+jesus_said: "Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it."
+greek: "ὑμεῖς ἐκ τοῦ πατρὸς τοῦ διαβόλου ἐστὲ καὶ τὰς ἐπιθυμίας τοῦ πατρὸς ὑμῶν θέλετε ποιεῖν. ἐκεῖνος ἀνθρωποκτόνος ἦν ἀπ᾽ ἀρχῆς καὶ ἐν τῇ ἀληθείᾳ οὐκ ἔστηκεν, ὅτι οὐκ ἔστιν ἀλήθεια ἐν αὐτῷ. ὅταν λαλῇ τὸ ψεῦδος, ἐκ τῶν ἰδίων λαλεῖ, ὅτι ψεύστης ἐστὶν καὶ ὁ πατὴρ αὐτοῦ."
+pericope: "[[John.8.30 The Truth Will Set You Free|The Truth Will Set You Free]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic LIARS|LIARS]]"
+- "[[topic LUST|LUST]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TRUTH|TRUTH]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G4771]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1228]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G1939]]"
+- "[[G2309]]"
+- "[[G4160G]]"
+- "[[G1565]]"
+- "[[G0443]]"
+- "[[G0575]]"
+- "[[G0746]]"
+- "[[G1722]]"
+- "[[G0225]]"
+- "[[G3756]]"
+- "[[G2476]]"
+- "[[G3754H]]"
+- "[[G0846]]"
+- "[[G3752]]"
+- "[[G2980]]"
+- "[[G5579]]"
+- "[[G2398]]"
+- "[[G5583]]"
+texts:
+- NKO
+---
+
 **John 8:44**<big><big>[[John.8.30 The Truth Will Set You Free|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ye are of [your] father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.
 <small><sub>**BSB:**</sub></small>
 You belong to your father, the devil, and you want to carry out his desires. He was a murderer from the beginning, refusing to uphold the truth, because there is no truth in him. When he lies, he speaks his native language, because he is a liar and the father of lies.
-<small><sub>**Literal:**</sub></small>
-You yourselves of the father the devil are and the desires of the father of you you desire to do. He a murderer was from [the] beginning and in the truth not it has stood, because not there is truth in him. Whenever he may speak <the> falsehood, from <the> [his] own he speaks, for a liar he is and the father of it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.43|<< John 8:43]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.45|John 8:45 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|ὑμεῖς]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G3588\|τοῦ]]  [[G1228\|διαβόλου]]  [[G1510\|ἐστὲ]]  [[G2532\|καὶ]]  [[G3588\|τὰς]]  [[G1939\|ἐπιθυμίας]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G4771\|ὑμῶν]]  [[G2309\|θέλετε]]  [[G4160G\|ποιεῖν.]]  [[G1565\|ἐκεῖνος]]  [[G0443\|ἀνθρωποκτόνος]]  [[G1510\|ἦν]]  [[G0575\|ἀπ᾽]]  [[G0746\|ἀρχῆς]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0225\|ἀληθείᾳ]]  [[G3756\|οὐκ]]  [[G2476\|ἔστηκεν,]]  [[G3754H\|ὅτι]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G0225\|ἀλήθεια]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ.]]  [[G3752\|ὅταν]]  [[G2980\|λαλῇ]]  [[G3588\|τὸ]]  [[G5579\|ψεῦδος,]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G2398\|ἰδίων]]  [[G2980\|λαλεῖ,]]  [[G3754H\|ὅτι]]  [[G5583\|ψεύστης]]  [[G1510\|ἐστὶν]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic LIARS|LIARS]] • [[topic LUST|LUST]] • [[topic MALICE|MALICE]] • [[topic SATAN|SATAN]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic SIN|SIN]] • [[topic TRUTH|TRUTH]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.43|<< John 8:43]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.45|John 8:45 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

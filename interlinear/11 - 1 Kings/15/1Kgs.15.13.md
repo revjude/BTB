@@ -1,8 +1,75 @@
+---
+title: 1 Kings 15:13
+type: Verse
+kjv: "And also Maachah his mother, even her he removed from being queen, because she had made an idol in a grove; and Asa destroyed her idol, and burnt it by the brook Kidron."
+bsb: "He also removed his grandmother Maacah from her position as queen mother because she had made a detestable Asherah pole. Asa chopped down the pole and burned it in the Kidron Valley."
+hebrew: "וְגַ֣ם׀ אֶת־ מַעֲכָ֣ה אִמּ֗וֹ וַיְסִרֶ֙הָ֙ מִגְּבִירָ֔ה אֲשֶׁר־ עָשְׂתָ֥ה מִפְלֶ֖צֶת לָאֲשֵׁרָ֑ה וַיִּכְרֹ֤ת אָסָא֙ אֶת־ מִפְלַצְתָּ֔הּ וַיִּשְׂרֹ֖ף בְּנַ֥חַל קִדְרֽוֹן׃"
+pericope: "[[1Kgs.15.9 Asa Reigns in Judah|Asa Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 15
+book/chapter: "[[1Kgs.15|1 Kings 15]]"
+chronological_order: 554
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ASA|ASA]]"
+- "[[topic CEDRON|CEDRON]]"
+- "[[topic GROVES|GROVES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic KIDRON|KIDRON]]"
+- "[[topic MAACHAH|MAACHAH]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9015]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4601K]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H5493G]]"
+- "[[H9034]]"
+- "[[H9006]]"
+- "[[H1377]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H4656]]"
+- "[[H9005]]"
+- "[[H0842]]"
+- "[[H3772G]]"
+- "[[H0609G]]"
+- "[[H9024]]"
+- "[[H8313]]"
+- "[[H9003]]"
+- "[[H5158N]]"
+- "[[H6939]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 15:13**<big><big>[[1Kgs.15.9 Asa Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And also Maachah his mother, even her he removed from [being] queen, because she had made an idol in a grove; and Asa destroyed her idol, and burnt [it] by the brook Kidron.
 <small><sub>**BSB:**</sub></small>
 He also removed his grandmother Maacah from her position as queen mother because she had made a detestable Asherah pole. Asa chopped down the pole and burned it in the Kidron Valley.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַ֣ם]][[H9015\|׀]] [[H0853\|אֶת]][[H9014\|־]] [[H4601K\|מַעֲכָ֣ה]] [[H0517\|אִמּ֗]][[H9023\|וֹ]] [[H9001\|וַ]][[H5493G\|יְסִרֶ֙]][[H9034\|הָ֙]] [[H9006\|מִ]][[H1377\|גְּבִירָ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213H\|עָשְׂתָ֥ה]] [[H4656\|מִפְלֶ֖צֶת]] [[H9005\|לָ]][[H0842\|אֲשֵׁרָ֑ה]] [[H9001\|וַ]][[H3772G\|יִּכְרֹ֤ת]] [[H0609G\|אָסָא֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4656\|מִפְלַצְתָּ֔]][[H9024\|הּ]] [[H9001\|וַ]][[H8313\|יִּשְׂרֹ֖ף]] [[H9003\|בְּ]][[H5158N\|נַ֥חַל]] [[H6939\|קִדְרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASA|ASA]] • [[topic CEDRON|CEDRON]] • [[topic GROVES|GROVES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic KIDRON|KIDRON]] • [[topic MAACHAH|MAACHAH]] • [[topic RULERS|RULERS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.12|<< 1 Kings 15:12]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.14|1 Kings 15:14 >>]]</td></tr></table>
 

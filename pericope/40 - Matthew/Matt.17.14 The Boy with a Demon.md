@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Boy with a Demon
+type: Pericope
 pericope: "[[Matt.17.14 The Boy with a Demon|The Boy with a Demon]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 17
 book/chapter: "[[Matt.17|Matthew 17]]"
-genre:
+chronological_order: 967
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Matt.17.14]]"
 - "[[Matt.17.15]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Matt.17.18]]"
 ---
 
-[[Matt.17|Matthew 17:14 - Matthew 17:18]]
+<small>[[Matt.17|Matthew 17:14-18]]</small>
 *The Boy with a Demon*
 
 [[Matt.17.14|14]] And when they were come to the multitude, there came to him a \[certain\] man, kneeling down to him, and saying,

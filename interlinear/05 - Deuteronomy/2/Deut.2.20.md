@@ -1,8 +1,64 @@
+---
+title: Deuteronomy 2:20
+type: Verse
+kjv: "(That also was accounted a land of giants: giants dwelt therein in old time; and the Ammonites call them Zamzummims;"
+bsb: "(That too was regarded as the land of the Rephaim, who used to live there, though the Ammonites called them Zamzummites."
+hebrew: "אֶֽרֶץ־ רְפָאִ֥ים תֵּחָשֵׁ֖ב אַף־ הִ֑וא רְפָאִ֤ים יָֽשְׁבוּ־ בָהּ֙ לְפָנִ֔ים וְהָֽעַמֹּנִ֔ים יִקְרְא֥וּ לָהֶ֖ם זַמְזֻמִּֽים׃"
+pericope: "[[Deut.2.1 Wanderings in the Wilderness|Wanderings in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 2
+book/chapter: "[[Deut.2|Deuteronomy 2]]"
+chronological_order: 198
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic REPHAIM|REPHAIM]]"
+- "[[topic ZAMZUMMIMS|ZAMZUMMIMS]]"
+strongs:
+- "[[H0776G]]"
+- "[[H9014]]"
+- "[[H7497B]]"
+- "[[H2803J]]"
+- "[[H0637]]"
+- "[[H1931]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5984H]]"
+- "[[H7121H]]"
+- "[[H9038]]"
+- "[[H2157]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 2:20**<big><big>[[Deut.2.1 Wanderings in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 (That also was accounted a land of giants: giants dwelt therein in old time; and the Ammonites call them Zamzummims;
 <small><sub>**BSB:**</sub></small>
 (That too was regarded as the land of the Rephaim, who used to live there, though the Ammonites called them Zamzummites.
+<small><sub>**Hebrew:**</sub></small>
+[[H0776G\|אֶֽרֶץ]][[H9014\|־]] [[H7497B\|רְפָאִ֥ים]] [[H2803J\|תֵּחָשֵׁ֖ב]] [[H0637\|אַף]][[H9014\|־]] [[H1931\|הִ֑וא]] [[H7497B\|רְפָאִ֤ים]] [[H3427\|יָֽשְׁבוּ]][[H9014\|־]] [[H9003\|בָ]][[H9034\|הּ֙]] [[H9005\|לְ]][[H6440G\|פָנִ֔ים]] [[H9002\|וְ]][[H9009\|הָֽ]][[H5984H\|עַמֹּנִ֔ים]] [[H7121H\|יִקְרְא֥וּ]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H2157\|זַמְזֻמִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REPHAIM|REPHAIM]] • [[topic ZAMZUMMIMS|ZAMZUMMIMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.19|<< Deuteronomy 2:19]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.21|Deuteronomy 2:21 >>]]</td></tr></table>
 

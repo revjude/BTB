@@ -1,8 +1,62 @@
+---
+title: Micah 1:13
+type: Verse
+kjv: "O thou inhabitant of Lachish, bind the chariot to the swift beast: she is the beginning of the sin to the daughter of Zion: for the transgressions of Israel were found in thee."
+bsb: "Harness your chariot horses, O dweller of Lachish. You were the beginning of sin to the Daughter of Zion, for the transgressions of Israel were found in you."
+hebrew: "רְתֹ֧ם הַמֶּרְכָּבָ֛ה לָרֶ֖כֶשׁ יוֹשֶׁ֣בֶת לָכִ֑ישׁ רֵאשִׁ֨ית חַטָּ֥את הִיא֙ לְבַת־ צִיּ֔וֹן כִּי־ בָ֥ךְ נִמְצְא֖וּ פִּשְׁעֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Mic.1.8 Weeping and Mourning|Weeping and Mourning]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 1
+book/chapter: "[[Mic.1|Micah 1]]"
+chronological_order: 623
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic LACHISH|LACHISH]]"
+strongs:
+- "[[H7573]]"
+- "[[H9009]]"
+- "[[H4818]]"
+- "[[H9005]]"
+- "[[H7409]]"
+- "[[H3427]]"
+- "[[H3923]]"
+- "[[H7225G]]"
+- "[[H2403B]]"
+- "[[H1931]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H6726]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H9032]]"
+- "[[H4672]]"
+- "[[H6588]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 1:13**<big><big>[[Mic.1.8 Weeping and Mourning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O thou inhabitant of Lachish, bind the chariot to the swift beast: she [is] the beginning of the sin to the daughter of Zion: for the transgressions of Israel were found in thee.
 <small><sub>**BSB:**</sub></small>
 Harness your chariot horses, O dweller of Lachish. You were the beginning of sin to the Daughter of Zion, for the transgressions of Israel were found in you.
+<small><sub>**Hebrew:**</sub></small>
+[[H7573\|רְתֹ֧ם]] [[H9009\|הַ]][[H4818\|מֶּרְכָּבָ֛ה]] [[H9005\|לָ]][[H7409\|רֶ֖כֶשׁ]] [[H3427\|יוֹשֶׁ֣בֶת]] [[H3923\|לָכִ֑ישׁ]] [[H7225G\|רֵאשִׁ֨ית]] [[H2403B\|חַטָּ֥את]] [[H1931\|הִיא֙]] [[H9005\|לְ]][[H1323G\|בַת]][[H9014\|־]] [[H6726\|צִיּ֔וֹן]] [[H3588A\|כִּי]][[H9014\|־]] [[H9003\|בָ֥]][[H9032\|ךְ]] [[H4672\|נִמְצְא֖וּ]] [[H6588\|פִּשְׁעֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARIOT|CHARIOT]] • [[topic LACHISH|LACHISH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.12|<< Micah 1:12]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.14|Micah 1:14 >>]]</td></tr></table>
 

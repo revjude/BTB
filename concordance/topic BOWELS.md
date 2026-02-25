@@ -1,7 +1,7 @@
 
 **BOWELS**
 
-→ Diseased [[2Chr.21.15|2Ch 21:15]]-[[2Chr.21.20|20]]
+→ Diseased [[2Chr.21.15|2Ch 21:15-20]]
 
 → Judas', gushed out [[Acts.1.18|Ac 1:18]]
 

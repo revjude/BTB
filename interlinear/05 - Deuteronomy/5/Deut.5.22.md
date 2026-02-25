@@ -1,8 +1,83 @@
+---
+title: Deuteronomy 5:22
+type: Verse
+kjv: "These words the LORD spake unto all your assembly in the mount out of the midst of the fire, of the cloud, and of the thick darkness, with a great voice: and he added no more. And he wrote them in two tables of stone, and delivered them unto me."
+bsb: "The LORD spoke these commandments in a loud voice to your whole assembly out of the fire, the cloud, and the deep darkness on the mountain; He added nothing more. And He wrote them on two tablets of stone and gave them to me."
+hebrew: "אֶֽת־ הַדְּבָרִ֣ים הָאֵ֡לֶּה דִּבֶּר֩ יְהוָ֨ה אֶל־ כָּל־ קְהַלְכֶ֜ם בָּהָ֗ר מִתּ֤וֹךְ הָאֵשׁ֙ הֶֽעָנָ֣ן וְהָֽעֲרָפֶ֔ל ק֥וֹל גָּד֖וֹל וְלֹ֣א יָסָ֑ף וַֽיִּכְתְּבֵ֗ם עַל־ שְׁנֵי֙ לֻחֹ֣ת אֲבָנִ֔ים וַֽיִּתְּנֵ֖ם אֵלָֽי׃"
+pericope: "[[Deut.5.22 Moses Intercedes for the People|Moses Intercedes for the People]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 5
+book/chapter: "[[Deut.5|Deuteronomy 5]]"
+chronological_order: 201
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic STONES|STONES]]"
+- "[[topic TABLE|TABLE]]"
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H3605]]"
+- "[[H6951]]"
+- "[[H9026]]"
+- "[[H9003]]"
+- "[[H2022G]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H0784]]"
+- "[[H6051]]"
+- "[[H9002]]"
+- "[[H6205]]"
+- "[[H6963A]]"
+- "[[H1419A]]"
+- "[[H3808]]"
+- "[[H3254H]]"
+- "[[H9001]]"
+- "[[H3789]]"
+- "[[H9038]]"
+- "[[H5921A]]"
+- "[[H8147]]"
+- "[[H3871]]"
+- "[[H0068G]]"
+- "[[H5414G]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 5:22**<big><big>[[Deut.5.22 Moses Intercedes for the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These words the LORD spake unto all your assembly in the mount out of the midst of the fire, of the cloud, and of the thick darkness, with a great voice: and he added no more. And he wrote them in two tables of stone, and delivered them unto me.
 <small><sub>**BSB:**</sub></small>
 The LORD spoke these commandments in a loud voice to your whole assembly out of the fire, the cloud, and the deep darkness on the mountain; He added nothing more. And He wrote them on two tablets of stone and gave them to me.
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֡לֶּה]] [[H1696G\|דִּבֶּר֩]] [[H3068G\|יְהוָ֨ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H6951\|קְהַלְ]][[H9026\|כֶ֜ם]] [[H9003\|בָּ]][[H2022G\|הָ֗ר]] [[H9006\|מִ]][[H8432\|תּ֤וֹךְ]] [[H9009\|הָ]][[H0784\|אֵשׁ֙]] [[H9009\|הֶֽ]][[H6051\|עָנָ֣ן]] [[H9002\|וְ]][[H9009\|הָֽ]][[H6205\|עֲרָפֶ֔ל]] [[H6963A\|ק֥וֹל]] [[H1419A\|גָּד֖וֹל]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3254H\|יָסָ֑ף]] [[H9001\|וַֽ]][[H3789\|יִּכְתְּבֵ֗]][[H9038\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H8147\|שְׁנֵי֙]] [[H3871\|לֻחֹ֣ת]] [[H0068G\|אֲבָנִ֔ים]] [[H9001\|וַֽ]][[H5414G\|יִּתְּנֵ֖]][[H9038\|ם]] [[H0413\|אֵלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECALOGUE|DECALOGUE]] • [[topic GOD|GOD]] • [[topic LAW|LAW]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic STONES|STONES]] • [[topic TABLE|TABLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.21|<< Deuteronomy 5:21]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.23|Deuteronomy 5:23 >>]]</td></tr></table>
 

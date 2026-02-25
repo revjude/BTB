@@ -1,10 +1,52 @@
+---
+title: John 17:10
+type: Verse
+kjv: "And all mine are thine, and thine are mine; and I am glorified in them."
+bsb: "All I have is Yours, and all You have is Mine; and in them I have been glorified."
+jesus_said: "And all mine are thine, and thine are mine; and I am glorified in them."
+greek: "καὶ τὰ ἐμὰ πάντα σά ἐστιν καὶ τὰ σὰ ἐμά· καὶ δεδόξασμαι ἐν αὐτοῖς."
+pericope: "[[John.17.6 Prayer for the Disciples|Prayer for the Disciples]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 17
+book/chapter: "[[John.17|John 17]]"
+chronological_order: 1005
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1473]]"
+- "[[G3956]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G1392]]"
+- "[[G1722]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **John 17:10**<big><big>[[John.17.6 Prayer for the Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And all mine are thine, and thine are mine; and I am glorified in them.
 <small><sub>**BSB:**</sub></small>
 All I have is Yours, and all You have is Mine; and in them I have been glorified.
-<small><sub>**Literal:**</sub></small>
-And the [things] of mine all Yours are and <the> Yours Mine; and I have been glorified in them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.9|<< John 17:9]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.11|John 17:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G1473\|ἐμὰ]]  [[G3956\|πάντα]]  [[G4771\|σά]]  [[G1510\|ἐστιν]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G4771\|σὰ]]  [[G1473\|ἐμά·]]  [[G2532\|καὶ]]  [[G1392\|δεδόξασμαι]]  [[G1722\|ἐν]]  [[G0846\|αὐτοῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.9|<< John 17:9]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.11|John 17:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,6 +1,52 @@
+---
+title: LXX Psalm 119:27
+type: Verse
+lxx: "Bring understanding to me in the way of your ordinances! and I will meditate in  your wonders."
+greek: "οδόν δικαιωμάτων σου συνέτισόν με και αδολεσχήσω εν τοις θαυμασίοις σου"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3598]]"
+- "[[G1345]]"
+- "[[G1473]]"
+- "[[G9318]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G6139]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2297]]"
+- "[[G1473]]"
+---
+
 **LXX Psalm 119:27** 
 <small><sub>**LXX:**</sub></small>
 Bring understanding to me \[in the\] way of your ordinances! and I will meditate in  your wonders. 
+<small><sub>**Greek:**</sub></small>
+[[G3598\|οδόν]] [[G1345\|δικαιωμάτων]] [[G1473\|σου]] [[G9318\|συνέτισόν]] [[G1473\|με]] [[G2532\|και]] [[G6139\|αδολεσχήσω]] [[G1722\|εν]] [[G3588\|τοις]] [[G2297\|θαυμασίοις]] [[G1473\|σου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic SPEAKING|SPEAKING]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.119.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.26|<< Psalm 119:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.28|Psalm 119:28 >>]]</td></tr></table>
 
@@ -15,6 +61,6 @@ Bring understanding to me \[in the\] way of your ordinances! and I will meditate
 | in | **<big>[[G1722\|εν]]</big>** |
 | \<obj.> | **<big>[[G3588\|τοις]]</big>** |
 | your wonders. | **<big>[[G2297\|θαυμασίοις]]</big>** **<big>[[G1473\|σου]]</big>** |
-[[Ps.119.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.26|<< Psalm 119:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.28|Psalm 119:28 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.26|<< Psalm 119:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.28|Psalm 119:28 >>]]</td></tr></table>
 
 

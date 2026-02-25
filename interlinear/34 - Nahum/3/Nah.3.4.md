@@ -1,8 +1,56 @@
+---
+title: Nahum 3:4
+type: Verse
+kjv: "Because of the multitude of the whoredoms of the wellfavoured harlot, the mistress of witchcrafts, that selleth nations through her whoredoms, and families through her witchcrafts."
+bsb: "because of the many harlotries of the harlot, the seductive mistress of sorcery, who betrays nations by her prostitution and clans by her witchcraft."
+hebrew: "מֵרֹב֙ זְנוּנֵ֣י זוֹנָ֔ה ט֥וֹבַת חֵ֖ן בַּעֲלַ֣ת כְּשָׁפִ֑ים הַמֹּכֶ֤רֶת גּוֹיִם֙ בִּזְנוּנֶ֔יהָ וּמִשְׁפָּח֖וֹת בִּכְשָׁפֶֽיהָ׃"
+pericope: "[[Nah.3.1 Judgment on Nineveh|Judgment on Nineveh]]"
+original_language: Hebrew
+testament: Old
+book: Nahum
+chapter: 3
+book/chapter: "[[Nah.3|Nahum 3]]"
+chronological_order: 710
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic SORCERY|SORCERY]]"
+strongs:
+- "[[H9006]]"
+- "[[H7230]]"
+- "[[H2183]]"
+- "[[H2181]]"
+- "[[H2896A]]"
+- "[[H2580]]"
+- "[[H1172]]"
+- "[[H3785]]"
+- "[[H9009]]"
+- "[[H4376]]"
+- "[[H1471A]]"
+- "[[H9003]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H4940]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nahum 3:4**<big><big>[[Nah.3.1 Judgment on Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because of the multitude of the whoredoms of the wellfavoured harlot, the mistress of witchcrafts, that selleth nations through her whoredoms, and families through her witchcrafts.
 <small><sub>**BSB:**</sub></small>
 because of the many harlotries of the harlot, the seductive mistress of sorcery, who betrays nations by her prostitution and clans by her witchcraft.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מֵ]][[H7230\|רֹב֙]] [[H2183\|זְנוּנֵ֣י]] [[H2181\|זוֹנָ֔ה]] [[H2896A\|ט֥וֹבַת]] [[H2580\|חֵ֖ן]] [[H1172\|בַּעֲלַ֣ת]] [[H3785\|כְּשָׁפִ֑ים]] [[H9009\|הַ]][[H4376\|מֹּכֶ֤רֶת]] [[H1471A\|גּוֹיִם֙]] [[H9003\|בִּ]][[H2183\|זְנוּנֶ֔י]][[H9024\|הָ]] [[H9002\|וּ]][[H4940\|מִשְׁפָּח֖וֹת]] [[H9003\|בִּ]][[H3785\|כְשָׁפֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SORCERY|SORCERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.3|<< Nahum 3:3]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.5|Nahum 3:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

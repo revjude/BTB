@@ -1,8 +1,66 @@
+---
+title: Genesis 24:16
+type: Verse
+kjv: "And the damsel was very fair to look upon, a virgin, neither had any man known her: and she went down to the well, and filled her pitcher, and came up."
+bsb: "Now the girl was very beautiful, a virgin who had not had relations with any man. She went down to the spring, filled her jar, and came up again."
+hebrew: "וְהַֽנַּעֲרָ֗ טֹבַ֤ת מַרְאֶה֙ מְאֹ֔ד בְּתוּלָ֕ה וְאִ֖ישׁ לֹ֣א יְדָעָ֑הּ וַתֵּ֣רֶד הָעַ֔יְנָה וַתְּמַלֵּ֥א כַדָּ֖הּ וַתָּֽעַל׃"
+pericope: "[[Gen.24.15 Rebekah Is Chosen|Rebekah Is Chosen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BEAUTY|BEAUTY]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+- "[[topic WELLS|WELLS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5291]]"
+- "[[H2896A]]"
+- "[[H4758]]"
+- "[[H3966]]"
+- "[[H1330]]"
+- "[[H0376G]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H9034]]"
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H5869M]]"
+- "[[H9011]]"
+- "[[H4390]]"
+- "[[H3537]]"
+- "[[H9024]]"
+- "[[H5927G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:16**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the damsel [was] very fair to look upon, a virgin, neither had any man known her: and she went down to the well, and filled her pitcher, and came up.
 <small><sub>**BSB:**</sub></small>
 Now the girl was very beautiful, a virgin who had not had relations with any man. She went down to the spring, filled her jar, and came up again.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַֽ]][[H5291\|נַּעֲרָ֗]] [[H2896A\|טֹבַ֤ת]] [[H4758\|מַרְאֶה֙]] [[H3966\|מְאֹ֔ד]] [[H1330\|בְּתוּלָ֕ה]] [[H9002\|וְ]][[H0376G\|אִ֖ישׁ]] [[H3808\|לֹ֣א]] [[H3045\|יְדָעָ֑]][[H9034\|הּ]] [[H9001\|וַ]][[H3381\|תֵּ֣רֶד]] [[H9009\|הָ]][[H5869M\|עַ֔יְנָ]][[H9011\|ה]] [[H9001\|וַ]][[H4390\|תְּמַלֵּ֥א]] [[H3537\|כַדָּ֖]][[H9024\|הּ]] [[H9001\|וַ]][[H5927G\|תָּֽעַל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEAUTY|BEAUTY]] • [[topic PRAYER|PRAYER]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]] • [[topic WELLS|WELLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.15|<< Genesis 24:15]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.17|Genesis 24:17 >>]]</td></tr></table>
 

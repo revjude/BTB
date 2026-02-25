@@ -1,6 +1,50 @@
+---
+title: LXX Daniel 11:29
+type: Verse
+lxx: "In the time he shall return, and he shall come in the south, and it will not be as the first and the last."
+greek: "εις τον καιρόν επιστρέψει και ήξει εν τω νότω και ουκ έσται ως η πρώτη και η εσχάτη"
+original_language: Greek
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- septuagint
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+strongs:
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2540]]"
+- "[[G1994]]"
+- "[[G2532]]"
+- "[[G2240]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3558]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G5613]]"
+- "[[G3588]]"
+- "[[G4413]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2078]]"
+---
+
 **LXX Daniel 11:29** 
 <small><sub>**LXX:**</sub></small>
 In the time he shall return, and he shall come in the south, and it will not be as the first and the last. 
+<small><sub>**Greek:**</sub></small>
+[[G1519\|εις]] [[G3588\|τον]] [[G2540\|καιρόν]] [[G1994\|επιστρέψει]] [[G2532\|και]] [[G2240\|ήξει]] [[G1722\|εν]] [[G3588\|τω]] [[G3558\|νότω]] [[G2532\|και]] [[G3756\|ουκ]] [[G1510\|έσται]] [[G5613\|ως]] [[G3588\|η]] [[G4413\|πρώτη]] [[G2532\|και]] [[G3588\|η]] [[G2078\|εσχάτη]]
 <small><sub>**MT:**</sub></small>
 [[Dan.11.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.28|<< Daniel 11:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.30|Daniel 11:30 >>]]</td></tr></table>
 
@@ -23,6 +67,6 @@ In the time he shall return, and he shall come in the south, and it will not be 
 | and | **<big>[[G2532\|και]]</big>** |
 | the | **<big>[[G3588\|η]]</big>** |
 | last. | **<big>[[G2078\|εσχάτη]]</big>** |
-[[Dan.11.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.28|<< Daniel 11:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.30|Daniel 11:30 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.28|<< Daniel 11:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.30|Daniel 11:30 >>]]</td></tr></table>
 
 

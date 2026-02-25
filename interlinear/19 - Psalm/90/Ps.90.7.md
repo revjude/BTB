@@ -1,8 +1,53 @@
+---
+title: Psalm 90:7
+type: Verse
+kjv: "For we are consumed by thine anger, and by thy wrath are we troubled."
+bsb: "For we are consumed by Your anger and terrified by Your wrath."
+hebrew: "כִּֽי־ כָלִ֥ינוּ בְאַפֶּ֑ךָ וּֽבַחֲמָתְךָ֥ נִבְהָֽלְנוּ׃"
+pericope: "[[Ps.90.1 From Everlasting to Everlasting|From Everlasting to Everlasting]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 90
+book/chapter: "[[Ps.90|Psalm 90]]"
+chronological_order: 170
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1440–1407 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3615G]]"
+- "[[H9003]]"
+- "[[H0639G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H2534]]"
+- "[[H0926]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 90:7**<big><big>[[Ps.90.1 From Everlasting to Everlasting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For we are consumed by thine anger, and by thy wrath are we troubled.
 <small><sub>**BSB:**</sub></small>
 For we are consumed by Your anger and terrified by Your wrath.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3615G\|כָלִ֥ינוּ]] [[H9003\|בְ]][[H0639G\|אַפֶּ֑]][[H9021\|ךָ]] [[H9002\|וּֽ]][[H9003\|בַ]][[H2534\|חֲמָתְ]][[H9021\|ךָ֥]] [[H0926\|נִבְהָֽלְנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.90.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.90.6|<< Psalms 90:6]]</td><td align="center" style="border:none;">[[Ps.90|Psalms 90]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.90.8|Psalms 90:8 >>]]</td></tr></table>
 

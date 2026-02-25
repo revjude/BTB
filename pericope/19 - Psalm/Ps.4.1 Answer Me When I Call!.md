@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Answer Me When I Call!
+type: Pericope
 pericope: "[[Ps.4.1 Answer Me When I Call!|Answer Me When I Call!]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 4
 book/chapter: "[[Ps.4|Psalm 4]]"
-genre:
+chronological_order: 339
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 9
 verses:
 - "[[Ps.4.0]]"
 - "[[Ps.4.1]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Ps.4.8]]"
 ---
 
-[[Ps.4|Psalm 4:1 - Psalm 4:8]]
+<small>[[Ps.4|Psalm 4:1-8]]</small>
 *Answer Me When I Call!*
 
 [[Ps.4.0|0]] To the chief Musician on Neginoth, A Psalm of David.

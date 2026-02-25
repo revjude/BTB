@@ -1,8 +1,74 @@
+---
+title: Exodus 24:7
+type: Verse
+kjv: "And he took the book of the covenant, and read in the audience of the people: and they said, All that the LORD hath said will we do, and be obedient."
+bsb: "Then he took the Book of the Covenant and read it to the people, who replied, “All that the LORD has spoken we will do, and we will be obedient.”"
+hebrew: "וַיִּקַּח֙ סֵ֣פֶר הַבְּרִ֔ית וַיִּקְרָ֖א בְּאָזְנֵ֣י הָעָ֑ם וַיֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר־ דִּבֶּ֥ר יְהוָ֖ה נַעֲשֶׂ֥ה וְנִשְׁמָֽע׃"
+pericope: "[[Exod.24.1 The Covenant Sealed|The Covenant Sealed]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 24
+book/chapter: "[[Exod.24|Exodus 24]]"
+chronological_order: 116
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic THEOCRACY|THEOCRACY]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H5612H]]"
+- "[[H9009]]"
+- "[[H1285]]"
+- "[[H7121J]]"
+- "[[H9003]]"
+- "[[H0241H]]"
+- "[[H5971A]]"
+- "[[H0559]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H6213A]]"
+- "[[H9002]]"
+- "[[H8085H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 24:7**<big><big>[[Exod.24.1 The Covenant Sealed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took the book of the covenant, and read in the audience of the people: and they said, All that the LORD hath said will we do, and be obedient.
 <small><sub>**BSB:**</sub></small>
 Then he took the Book of the Covenant and read it to the people, who replied, “All that the LORD has spoken we will do, and we will be obedient.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּח֙]] [[H5612H\|סֵ֣פֶר]] [[H9009\|הַ]][[H1285\|בְּרִ֔ית]] [[H9001\|וַ]][[H7121J\|יִּקְרָ֖א]] [[H9003\|בְּ]][[H0241H\|אָזְנֵ֣י]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H9001\|וַ]][[H0559\|יֹּ֣אמְר֔וּ]] [[H3605\|כֹּ֛ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1696G\|דִּבֶּ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H6213A\|נַעֲשֶׂ֥ה]] [[H9002\|וְ]][[H8085H\|נִשְׁמָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic COVENANT|COVENANT]] • [[topic DECISION|DECISION]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INSTABILITY|INSTABILITY]] • [[topic ISRAEL|ISRAEL]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PURIFICATION|PURIFICATION]] • [[topic THEOCRACY|THEOCRACY]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.24.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.24.6|<< Exodus 24:6]]</td><td align="center" style="border:none;">[[Exod.24|Exodus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.24.8|Exodus 24:8 >>]]</td></tr></table>
 

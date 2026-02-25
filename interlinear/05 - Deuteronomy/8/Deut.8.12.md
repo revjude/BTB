@@ -1,8 +1,63 @@
+---
+title: Deuteronomy 8:12
+type: Verse
+kjv: "Lest when thou hast eaten and art full, and hast built goodly houses, and dwelt therein;"
+bsb: "Otherwise, when you eat and are satisfied, when you build fine houses in which to dwell,"
+hebrew: "פֶּן־ תֹּאכַ֖ל וְשָׂבָ֑עְתָּ וּבָתִּ֥ים טוֹבִ֛ים תִּבְנֶ֖ה וְיָשָֽׁבְתָּ׃"
+pericope: "[[Deut.8.1 Remember the LORD Your God|Remember the LORD Your God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 8
+book/chapter: "[[Deut.8|Deuteronomy 8]]"
+chronological_order: 204
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic FORGETTING GOD|FORGETTING GOD]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic PROSPERITY|PROSPERITY]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H0398]]"
+- "[[H9001]]"
+- "[[H7646]]"
+- "[[H9002]]"
+- "[[H1004B]]"
+- "[[H2896A]]"
+- "[[H1129]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 8:12**<big><big>[[Deut.8.1 Remember the LORD Your God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lest [when] thou hast eaten and art full, and hast built goodly houses, and dwelt [therein];
 <small><sub>**BSB:**</sub></small>
 Otherwise, when you eat and are satisfied, when you build fine houses in which to dwell,
+<small><sub>**Hebrew:**</sub></small>
+[[H6435\|פֶּן]][[H9014\|־]] [[H0398\|תֹּאכַ֖ל]] [[H9001\|וְ]][[H7646\|שָׂבָ֑עְתָּ]] [[H9002\|וּ]][[H1004B\|בָתִּ֥ים]] [[H2896A\|טוֹבִ֛ים]] [[H1129\|תִּבְנֶ֖ה]] [[H9001\|וְ]][[H3427\|יָשָֽׁבְתָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic FORGETTING GOD|FORGETTING GOD]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PRIDE|PRIDE]] • [[topic PROSPERITY|PROSPERITY]] • [[topic RICHES|RICHES]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.8.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.11|<< Deuteronomy 8:11]]</td><td align="center" style="border:none;">[[Deut.8|Deuteronomy 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.8.13|Deuteronomy 8:13 >>]]</td></tr></table>
 

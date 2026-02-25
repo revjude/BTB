@@ -1,8 +1,56 @@
+---
+title: Proverbs 3:25
+type: Verse
+kjv: "Be not afraid of sudden fear, neither of the desolation of the wicked, when it cometh."
+bsb: "Do not fear sudden danger or the ruin that overtakes the wicked,"
+hebrew: "אַל־ תִּ֭ירָא מִפַּ֣חַד פִּתְאֹ֑ם וּמִשֹּׁאַ֥ת רְ֝שָׁעִ֗ים כִּ֣י תָבֹֽא׃"
+pericope: "[[Prov.3.13 The Blessings of Wisdom|The Blessings of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 3
+book/chapter: "[[Prov.3|Proverbs 3]]"
+chronological_order: 458
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H9006]]"
+- "[[H6343]]"
+- "[[H6597]]"
+- "[[H9002]]"
+- "[[H7722B]]"
+- "[[H7563]]"
+- "[[H3588A]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 3:25**<big><big>[[Prov.3.13 The Blessings of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be not afraid of sudden fear, neither of the desolation of the wicked, when it cometh.
 <small><sub>**BSB:**</sub></small>
 Do not fear sudden danger or the ruin that overtakes the wicked,
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּ֭ירָא]] [[H9006\|מִ]][[H6343\|פַּ֣חַד]] [[H6597\|פִּתְאֹ֑ם]] [[H9002\|וּ]][[H9006\|מִ]][[H7722B\|שֹּׁאַ֥ת]] [[H7563\|רְ֝שָׁעִ֗ים]] [[H3588A\|כִּ֣י]] [[H0935G\|תָבֹֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.24|<< Proverbs 3:24]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.26|Proverbs 3:26 >>]]</td></tr></table>
 

@@ -1,10 +1,56 @@
+---
+title: Luke 1:10
+type: Verse
+kjv: "And the whole multitude of the people were praying without at the time of incense."
+bsb: "And at the hour of the incense offering, the whole congregation was praying outside."
+greek: "καὶ πᾶν τὸ πλῆθος ἦν τοῦ λαοῦ προσευχόμενον ἔξω τῇ ὥρᾳ τοῦ θυμιάματος.¶"
+pericope: "[[Luke.1.5 Gabriel Foretells John’s Birth|Gabriel Foretells John’s Birth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic JOY|JOY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4128]]"
+- "[[G1510]]"
+- "[[G2992]]"
+- "[[G4336]]"
+- "[[G1854]]"
+- "[[G5610]]"
+- "[[G2368]]"
+texts:
+- NKO
+---
+
 **Luke 1:10**<big><big>[[Luke.1.5 Gabriel Foretells John’s Birth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the whole multitude of the people were praying without at the time of incense.
 <small><sub>**BSB:**</sub></small>
 And at the hour of the incense offering, the whole congregation was praying outside.
-<small><sub>**Literal:**</sub></small>
-And all the multitude were of the people praying outside at the hour of the incense.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.9|<< Luke 1:9]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.11|Luke 1:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3956\|πᾶν]]  [[G3588\|τὸ]]  [[G4128\|πλῆθος]]  [[G1510\|ἦν]]  [[G3588\|τοῦ]]  [[G2992\|λαοῦ]]  [[G4336\|προσευχόμενον]]  [[G1854\|ἔξω]]  [[G3588\|τῇ]]  [[G5610\|ὥρᾳ]]  [[G3588\|τοῦ]]  [[G2368\|θυμιάματος.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARRENNESS|BARRENNESS]] • [[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]] • [[topic INCENSE|INCENSE]] • [[topic JOY|JOY]] • [[topic TEMPLE|TEMPLE]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.9|<< Luke 1:9]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.11|Luke 1:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 1:10** is...
 > $\quad$ alluding to: [[LXX.Lev.16.17|Lev 16:17]]

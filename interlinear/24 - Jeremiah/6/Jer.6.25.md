@@ -1,8 +1,60 @@
+---
+title: Jeremiah 6:25
+type: Verse
+kjv: "Go not forth into the field, nor walk by the way; for the sword of the enemy and fear is on every side."
+bsb: "Do not go out to the fields; do not walk the road. For the enemy has a sword; terror is on every side."
+hebrew: "אַל־ תֵּֽצְאוּ֙ הַשָּׂדֶ֔ה וּבַדֶּ֖רֶךְ אַל־ תֵּלֵ֑כוּ כִּ֚י חֶ֣רֶב לְאֹיֵ֔ב מָג֖וֹר מִסָּבִֽיב׃"
+pericope: "[[Jer.6.22 An Invasion from the North|An Invasion from the North]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 6
+book/chapter: "[[Jer.6|Jeremiah 6]]"
+chronological_order: 723
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3318G]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H1870K]]"
+- "[[H1980I]]"
+- "[[H3588A]]"
+- "[[H2719]]"
+- "[[H9005]]"
+- "[[H0341]]"
+- "[[H4032]]"
+- "[[H9006]]"
+- "[[H5439H]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 6:25**<big><big>[[Jer.6.22 An Invasion from the North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go not forth into the field, nor walk by the way; for the sword of the enemy [and] fear [is] on every side.
 <small><sub>**BSB:**</sub></small>
 Do not go out to the fields; do not walk the road. For the enemy has a sword; terror is on every side.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H3318G\|תֵּֽצְאוּ֙]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֔ה]] [[H9002\|וּ]][[H9003\|בַ]][[H1870K\|דֶּ֖רֶךְ]] [[H0408\|אַל]][[H9014\|־]] [[H1980I\|תֵּלֵ֑כוּ]] [[H3588A\|כִּ֚י]] [[H2719\|חֶ֣רֶב]] [[H9005\|לְ]][[H0341\|אֹיֵ֔ב]] [[H4032\|מָג֖וֹר]] [[H9006\|מִ]][[H5439H\|סָּבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.24|<< Jeremiah 6:24]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.26|Jeremiah 6:26 >>]]</td></tr></table>
 

@@ -1,10 +1,64 @@
+---
+title: Matthew 1:19
+type: Verse
+kjv: "Then Joseph her husband, being a just man, and not willing to make her a publick example, was minded to put her away privily."
+bsb: "Because Joseph her husband was a righteous man and was unwilling to disgrace her publicly, he resolved to divorce her quietly."
+greek: "Ἰωσὴφ δὲ ὁ ἀνὴρ αὐτῆς, δίκαιος ὢν καὶ μὴ θέλων αὐτὴν δειγματίσαι, ἐβουλήθη λάθρᾳ ἀπολῦσαι αὐτήν.¶"
+pericope: "[[Matt.1.18 The Birth of Jesus|The Birth of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 1
+book/chapter: "[[Matt.1|Matthew 1]]"
+chronological_order: 931
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[G2501G]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G0435H]]"
+- "[[G0846]]"
+- "[[G1342]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G2309]]"
+- "[[G1165]]"
+- "[[G1014]]"
+- "[[G2977]]"
+- "[[G0630H]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 1:19**<big><big>[[Matt.1.18 The Birth of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Joseph her husband, being a just [man], and not willing to make her a publick example, was minded to put her away privily.
 <small><sub>**BSB:**</sub></small>
 Because Joseph her husband was a righteous man and was unwilling to disgrace her publicly, he resolved to divorce her quietly.
-<small><sub>**Literal:**</sub></small>
-Joseph now the husband of her, righteous being and not willing her to disgrace, he purposed secretly to send away her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.18|<< Matthew 1:18]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.20|Matthew 1:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2501G\|Ἰωσὴφ]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G0435H\|ἀνὴρ]]  [[G0846\|αὐτῆς,]]  [[G1342\|δίκαιος]]  [[G1510\|ὢν]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G2309\|θέλων]]  [[G0846\|αὐτὴν]]  [[G1165\|δειγματίσαι,]]  [[G1014\|ἐβουλήθη]]  [[G2977\|λάθρᾳ]]  [[G0630H\|ἀπολῦσαι]]  [[G0846\|αὐτήν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic FAITH|FAITH]] • [[topic HUSBAND|HUSBAND]] • [[topic INTEGRITY|INTEGRITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic KINDNESS|KINDNESS]] • [[topic MIRACLES|MIRACLES]] • [[topic PRUDENCE|PRUDENCE]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.18|<< Matthew 1:18]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.20|Matthew 1:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

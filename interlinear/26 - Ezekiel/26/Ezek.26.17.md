@@ -1,8 +1,67 @@
+---
+title: Ezekiel 26:17
+type: Verse
+kjv: "And they shall take up a lamentation for thee, and say to thee, How art thou destroyed, that wast inhabited of seafaring men, the renowned city, which wast strong in the sea, she and her inhabitants, which cause their terror to be on all that haunt it!"
+bsb: "Then they will lament for you, saying, “How you have perished, O city of renown inhabited by seafaring men—she who was powerful on the sea, along with her people, who imposed terror on all peoples!"
+hebrew: "וְנָשְׂא֨וּ עָלַ֤יִךְ קִינָה֙ וְאָ֣מְרוּ לָ֔ךְ אֵ֣יךְ אָבַ֔דְתְּ נוֹשֶׁ֖בֶת מִיַּמִּ֑ים הָעִ֣יר הַהֻלָּ֗לָה אֲשֶׁר֩ הָיְתָ֨ה חֲזָקָ֤ה בַיָּם֙ הִ֣יא וְיֹשְׁבֶ֔יהָ אֲשֶׁר־ נָתְנ֥וּ חִתִּיתָ֖ם לְכָל־ יוֹשְׁבֶֽיהָ׃"
+pericope: "[[Ezek.26.1 A Prophecy against Tyre|A Prophecy against Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 26
+book/chapter: "[[Ezek.26|Ezekiel 26]]"
+chronological_order: 817
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H5375G]]"
+- "[[H5921A]]"
+- "[[H9032]]"
+- "[[H7015]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H0349A]]"
+- "[[H0006]]"
+- "[[H3427]]"
+- "[[H9006]]"
+- "[[H3220G]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H1984B]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H2389]]"
+- "[[H9003]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H9024]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H2851]]"
+- "[[H9028]]"
+- "[[H3605]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 26:17**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall take up a lamentation for thee, and say to thee, How art thou destroyed, [that wast] inhabited of seafaring men, the renowned city, which wast strong in the sea, she and her inhabitants, which cause their terror [to be] on all that haunt it!
 <small><sub>**BSB:**</sub></small>
 Then they will lament for you, saying, “How you have perished, O city of renown inhabited by seafaring men—she who was powerful on the sea, along with her people, who imposed terror on all peoples!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5375G\|נָשְׂא֨וּ]] [[H5921A\|עָלַ֤יִ]][[H9032\|ךְ]] [[H7015\|קִינָה֙]] [[H9001\|וְ]][[H0559\|אָ֣מְרוּ]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H0349A\|אֵ֣יךְ]] [[H0006\|אָבַ֔דְתְּ]] [[H3427\|נוֹשֶׁ֖בֶת]] [[H9006\|מִ]][[H3220G\|יַּמִּ֑ים]] [[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H1984B\|הֻלָּ֗לָה]] [[H0834A\|אֲשֶׁר֩]] [[H1961\|הָיְתָ֨ה]] [[H2389\|חֲזָקָ֤ה]] [[H9003\|בַ]][[H3220G\|יָּם֙]] [[H1931\|הִ֣יא]] [[H9002\|וְ]][[H3427\|יֹשְׁבֶ֔י]][[H9024\|הָ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414G\|נָתְנ֥וּ]] [[H2851\|חִתִּיתָ֖]][[H9028\|ם]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H3427\|יוֹשְׁבֶֽי]][[H9024\|הָ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.16|<< Ezekiel 26:16]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.18|Ezekiel 26:18 >>]]</td></tr></table>
 

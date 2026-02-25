@@ -1,8 +1,58 @@
+---
+title: 1 Chronicles 13:12
+type: Verse
+kjv: "And David was afraid of God that day, saying, How shall I bring the ark of God home to me?"
+bsb: "That day David feared God and asked, “How can I ever bring the ark of God to me?”"
+hebrew: "וַיִּירָ֤א דָוִיד֙ אֶת־ הָ֣אֱלֹהִ֔ים בַּיּ֥וֹם הַה֖וּא לֵאמֹ֑ר הֵ֚יךְ אָבִ֣יא אֵלַ֔י אֵ֖ת אֲר֥וֹן הָאֱלֹהִֽים׃"
+pericope: "[[1Chr.13.8 Uzzah Touches the Ark|Uzzah Touches the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 13
+book/chapter: "[[1Chr.13|1 Chronicles 13]]"
+chronological_order: 394
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARK|ARK]]"
+strongs:
+- "[[H9001]]"
+- "[[H3372G]]"
+- "[[H1732]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H1963]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0727]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 13:12**<big><big>[[1Chr.13.8 Uzzah Touches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David was afraid of God that day, saying, How shall I bring the ark of God [home] to me?
 <small><sub>**BSB:**</sub></small>
 That day David feared God and asked, “How can I ever bring the ark of God to me?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3372G\|יִּירָ֤א]] [[H1732\|דָוִיד֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ֣]][[H0430G\|אֱלֹהִ֔ים]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H1931\|ה֖וּא]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H1963\|הֵ֚יךְ]] [[H0935P\|אָבִ֣יא]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H0853\|אֵ֖ת]] [[H0727\|אֲר֥וֹן]] [[H9009\|הָ]][[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.13.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.13.11|<< 1 Chronicles 13:11]]</td><td align="center" style="border:none;">[[1Chr.13|1 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.13.13|1 Chronicles 13:13 >>]]</td></tr></table>
 

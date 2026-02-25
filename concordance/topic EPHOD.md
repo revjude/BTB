@@ -3,11 +3,11 @@
 
 1. A sacred vestment worn by the high priest
 
-- Described [[Exod.28.6|Ex 28:6]]-[[Exod.28.14|14]],[[Exod.28.31|31]]-[[Exod.28.35|35]]; [[Exod.25.7|25:7]]
+- Described [[Exod.28.6|Ex 28:6-14]],[[Exod.28.31|31-35]]; [[Exod.25.7|25:7]]
 
-- The making of [[Exod.39.2|Ex 39:2]]-[[Exod.39.26|26]]
+- The making of [[Exod.39.2|Ex 39:2-26]]
 
-- Breastplate attached to [[Exod.28.22|Ex 28:22]]-[[Exod.28.29|29]]
+- Breastplate attached to [[Exod.28.22|Ex 28:22-29]]
 
 - Worn by Aaron [[Exod.39.5|Ex 39:5]]
 

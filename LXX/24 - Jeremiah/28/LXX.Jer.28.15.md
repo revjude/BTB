@@ -1,6 +1,57 @@
+---
+title: LXX Jeremiah 28:15
+type: Verse
+lxx: "And Jeremiah said  to Hananiah, Hear, O Hananiah! The lord has not sent you, and you made this people to rely upon wrongdoing."
+greek: "και είπεν Ιερεμίας τω Ανανία άκουε Ανανία ουκ απέσταλκέ σε κύριος και συ πεποιθέναι εποίησας τον λαόν τούτον επ΄ αδίκω"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 28
+book/chapter: "[[Jer.28|Jeremiah 28]]"
+chronological_order: 751
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G2408]]"
+- "[[G3588]]"
+- "[[H2608b]]"
+- "[[G0191]]"
+- "[[H2608b]]"
+- "[[G3756]]"
+- "[[G0649]]"
+- "[[G1473]]"
+- "[[G2962]]"
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G3982]]"
+- "[[G4160]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G3778]]"
+- "[[G1909]]"
+- "[[G0094]]"
+---
+
 **LXX Jeremiah 28:15** 
 <small><sub>**LXX:**</sub></small>
 And Jeremiah said  to Hananiah, Hear, O Hananiah! \[The\] <span class="smallcaps">lord</span> has not sent you, and you made this people to rely upon wrongdoing. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπεν]] [[G2408\|Ιερεμίας]] [[G3588\|τω]] [[H2608b\|Ανανία]] [[G0191\|άκουε]] [[H2608b\|Ανανία]] [[G3756\|ουκ]] [[G0649\|απέσταλκέ]] [[G1473\|σε]] [[G2962\|κύριος]] [[G2532\|και]] [[G1473\|συ]] [[G3982\|πεποιθέναι]] [[G4160\|εποίησας]] [[G3588\|τον]] [[G2992\|λαόν]] [[G3778\|τούτον]] [[G1909\|επ΄]] [[G0094\|αδίκω]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGMENTS|JUDGMENTS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.28.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.28.14|<< Jeremiah 28:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.28.16|Jeremiah 28:16 >>]]</td></tr></table>
 
@@ -23,6 +74,6 @@ And Jeremiah said  to Hananiah, Hear, O Hananiah! \[The\] <span class="smallcaps
 | this people | **<big>[[G2992\|λαόν]]</big>** **<big>[[G3778\|τούτον]]</big>** |
 | upon | **<big>[[G1909\|επ΄]]</big>** |
 | wrongdoing. | **<big>[[G0094\|αδίκω]]</big>** |
-[[Jer.28.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.28.14|<< Jeremiah 28:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.28.16|Jeremiah 28:16 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.28.14|<< Jeremiah 28:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.28.16|Jeremiah 28:16 >>]]</td></tr></table>
 
 

@@ -1,8 +1,78 @@
+---
+title: Deuteronomy 23:4
+type: Verse
+kjv: "Because they met you not with bread and with water in the way, when ye came forth out of Egypt; and because they hired against thee Balaam the son of Beor of Pethor of Mesopotamia, to curse thee."
+bsb: "For they did not meet you with food and water on your way out of Egypt, and they hired Balaam son of Beor from Pethor in Aram-naharaim to curse you."
+hebrew: "עַל־ דְּבַ֞ר אֲשֶׁ֨ר לֹא־ קִדְּמ֤וּ אֶתְכֶם֙ בַּלֶּ֣חֶם וּבַמַּ֔יִם בַּדֶּ֖רֶךְ בְּצֵאתְכֶ֣ם מִמִּצְרָ֑יִם וַאֲשֶׁר֩ שָׂכַ֨ר עָלֶ֜יךָ אֶת־ בִּלְעָ֣ם בֶּן־ בְּע֗וֹר מִפְּת֛וֹר אֲרַ֥ם נַהֲרַ֖יִם לְקַֽלְלֶֽךָּ׃"
+pericope: "[[Deut.23.1 Exclusion from the Congregation|Exclusion from the Congregation]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 23
+book/chapter: "[[Deut.23|Deuteronomy 23]]"
+chronological_order: 219
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic BALAAM|BALAAM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INHOSPITABLENESS|INHOSPITABLENESS]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MESOPOTAMIA|MESOPOTAMIA]]"
+- "[[topic PETHOR|PETHOR]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1697M]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H6923]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H3899H]]"
+- "[[H9002]]"
+- "[[H4325G]]"
+- "[[H1870L]]"
+- "[[H3318G]]"
+- "[[H9046]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H7936B]]"
+- "[[H9031]]"
+- "[[H1109A]]"
+- "[[H1121A]]"
+- "[[H1160H]]"
+- "[[H6604]]"
+- "[[H0763G]]"
+- "[[H9005]]"
+- "[[H7043]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 23:4**<big><big>[[Deut.23.1 Exclusion from the Congregation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because they met you not with bread and with water in the way, when ye came forth out of Egypt; and because they hired against thee Balaam the son of Beor of Pethor of Mesopotamia, to curse thee.
 <small><sub>**BSB:**</sub></small>
 For they did not meet you with food and water on your way out of Egypt, and they hired Balaam son of Beor from Pethor in Aram-naharaim to curse you.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H1697M\|דְּבַ֞ר]] [[H0834A\|אֲשֶׁ֨ר]] [[H3808\|לֹא]][[H9014\|־]] [[H6923\|קִדְּמ֤וּ]] [[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H9003\|בַּ]][[H3899H\|לֶּ֣חֶם]] [[H9002\|וּ]][[H9003\|בַ]][[H4325G\|מַּ֔יִם]] [[H9003\|בַּ]][[H1870L\|דֶּ֖רֶךְ]] [[H9003\|בְּ]][[H3318G\|צֵאתְ]][[H9046\|כֶ֣ם]] [[H9006\|מִ]][[H4714G\|מִּצְרָ֑יִם]] [[H9002\|וַ]][[H0834A\|אֲשֶׁר֩]] [[H7936B\|שָׂכַ֨ר]] [[H5921A\|עָלֶ֜י]][[H9031\|ךָ]] [[H0853\|אֶת]][[H9014\|־]] [[H1109A\|בִּלְעָ֣ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1160H\|בְּע֗וֹר]] [[H9006\|מִ]][[H6604\|פְּת֛וֹר]] [[H0763G\|אֲרַ֥ם]] [[H0763G\|נַהֲרַ֖יִם]] [[H9005\|לְ]][[H7043\|קַֽלְלֶֽ]][[H9031\|ךָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic BALAAM|BALAAM]] • [[topic GOD|GOD]] • [[topic INHOSPITABLENESS|INHOSPITABLENESS]] • [[topic MALICE|MALICE]] • [[topic MESOPOTAMIA|MESOPOTAMIA]] • [[topic PETHOR|PETHOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.3|<< Deuteronomy 23:3]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.5|Deuteronomy 23:5 >>]]</td></tr></table>
 

@@ -1,10 +1,65 @@
+---
+title: Mark 8:33
+type: Verse
+kjv: "But when he had turned about and looked on his disciples, he rebuked Peter, saying, Get thee behind me, Satan: for thou savourest not the things that be of God, but the things that be of men."
+bsb: "But Jesus, turning and looking at His disciples, rebuked Peter and said, “Get behind Me, Satan! For you do not have in mind the things of God, but the things of men.”"
+jesus_said: "Get thee behind me, Satan: for thou savourest not the things that be of God, but the things that be of men."
+greek: "ὁ δὲ ἐπιστραφεὶς καὶ ἰδὼν τοὺς μαθητὰς αὐτοῦ ἐπετίμησεν τῷ Πέτρῳ καὶ λέγει· ὕπαγε ὀπίσω μου, σατανᾶ, ὅτι οὐ φρονεῖς τὰ τοῦ θεοῦ ἀλλὰ τὰ τῶν ἀνθρώπων."
+pericope: "[[Mark.8.31 Christ’s Passion Foretold|Christ’s Passion Foretold]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1994]]"
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G2008]]"
+- "[[G4074G]]"
+- "[[G3004G]]"
+- "[[G5217]]"
+- "[[G3694]]"
+- "[[G3165]]"
+- "[[G4567]]"
+- "[[G3754H]]"
+- "[[G3756]]"
+- "[[G5426]]"
+- "[[G2316]]"
+- "[[G0235]]"
+- "[[G0444]]"
+texts:
+- NKO
+- k
+- no
+- N(k)O
+---
+
 **Mark 8:33**<big><big>[[Mark.8.31 Christ’s Passion Foretold|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when he had turned about and looked on his disciples, he rebuked Peter, saying, Get thee behind me, Satan: for thou savourest not the things that be of God, but the things that be of men.
 <small><sub>**BSB:**</sub></small>
 But Jesus, turning and looking at His disciples, rebuked Peter and said, “Get behind Me, Satan! For you do not have in mind the things of God, but the things of men.”
-<small><sub>**Literal:**</sub></small>
-<the> And having turned and having looked upon the disciples of Him He rebuked <the> Peter and speaks; do go behind Me, Satan, for not you have in mind the [things] <of the> of God but the [things] <of the> of men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.32|<< Mark 8:32]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.34|Mark 8:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G1994\|ἐπιστραφεὶς]]  [[G2532\|καὶ]]  [[G1492H\|ἰδὼν]]  [[G3588\|τοὺς]]  [[G3101\|μαθητὰς]]  [[G0846\|αὐτοῦ]]  [[G2008\|ἐπετίμησεν]]  [[G3588\|τῷ]]  [[G4074G\|Πέτρῳ]]  [[G2532\|καὶ]]  [[G3004G\|λέγει·]]  [[G5217\|ὕπαγε]]  [[G3694\|ὀπίσω]]  [[G3165\|μου,]]  [[G4567\|σατανᾶ,]]  [[G3754H\|ὅτι]]  [[G3756\|οὐ]]  [[G5426\|φρονεῖς]]  [[G3588\|τὰ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G0235\|ἀλλὰ]]  [[G3588\|τὰ]]  [[G3588\|τῶν]]  [[G0444\|ἀνθρώπων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.32|<< Mark 8:32]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.34|Mark 8:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

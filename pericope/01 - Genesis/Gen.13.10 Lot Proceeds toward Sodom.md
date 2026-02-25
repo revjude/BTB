@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Lot Proceeds toward Sodom
+type: Pericope
 pericope: "[[Gen.13.10 Lot Proceeds toward Sodom|Lot Proceeds toward Sodom]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 13
 book/chapter: "[[Gen.13|Genesis 13]]"
-genre:
+chronological_order: 55
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 4
 verses:
 - "[[Gen.13.10]]"
 - "[[Gen.13.11]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Gen.13.13]]"
 ---
 
-[[Gen.13|Genesis 13:10 - Genesis 13:13]]
+<small>[[Gen.13|Genesis 13:10-13]]</small>
 *Lot Proceeds toward Sodom*
 
 [[Gen.13.10|10]] And Lot lifted up his eyes, and beheld all the plain of Jordan, that it \[was\] well watered every where, before the LORD destroyed Sodom and Gomorrah, \[even\] as the garden of the LORD, like the land of Egypt, as thou comest unto Zoar.

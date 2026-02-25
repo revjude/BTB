@@ -1,8 +1,69 @@
+---
+title: Genesis 19:13
+type: Verse
+kjv: "For we will destroy this place, because the cry of them is waxen great before the face of the LORD; and the LORD hath sent us to destroy it."
+bsb: "because we are about to destroy this place. For the outcry to the LORD against its people is so great that He has sent us to destroy it.”"
+hebrew: "כִּֽי־ מַשְׁחִתִ֣ים אֲנַ֔חְנוּ אֶת־ הַמָּק֖וֹם הַזֶּ֑ה כִּֽי־ גָֽדְלָ֤ה צַעֲקָתָם֙ אֶת־ פְּנֵ֣י יְהוָ֔ה וַיְשַׁלְּחֵ֥נוּ יְהוָ֖ה לְשַׁחֲתָֽהּ׃"
+pericope: "[[Gen.19.12 Lot Flees to Zoar|Lot Flees to Zoar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 19
+book/chapter: "[[Gen.19|Genesis 19]]"
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic SODOMITES|SODOMITES]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7843]]"
+- "[[H0587]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H2088]]"
+- "[[H1431]]"
+- "[[H6818]]"
+- "[[H9028]]"
+- "[[H0854]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H9035]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 19:13**<big><big>[[Gen.19.12 Lot Flees to Zoar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For we will destroy this place, because the cry of them is waxen great before the face of the LORD; and the LORD hath sent us to destroy it.
 <small><sub>**BSB:**</sub></small>
 because we are about to destroy this place. For the outcry to the LORD against its people is so great that He has sent us to destroy it.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H7843\|מַשְׁחִתִ֣ים]] [[H0587\|אֲנַ֔חְנוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֖וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1431\|גָֽדְלָ֤ה]] [[H6818\|צַעֲקָתָ]][[H9028\|ם֙]] [[H0854\|אֶת]][[H9014\|־]] [[H6440G\|פְּנֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H7971G\|יְשַׁלְּחֵ֥]][[H9035\|נוּ]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לְ]][[H7843\|שַׁחֲתָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic DEATH|DEATH]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic REPROBACY|REPROBACY]] • [[topic SIN|SIN]] • [[topic SODOM|SODOM]] • [[topic SODOMITES|SODOMITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.12|<< Genesis 19:12]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.14|Genesis 19:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

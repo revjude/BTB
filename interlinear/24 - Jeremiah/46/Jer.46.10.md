@@ -1,8 +1,74 @@
+---
+title: Jeremiah 46:10
+type: Verse
+kjv: "For this is the day of the Lord GOD of hosts, a day of vengeance, that he may avenge him of his adversaries: and the sword shall devour, and it shall be satiate and made drunk with their blood: for the Lord GOD of hosts hath a sacrifice in the north country by the river Euphrates."
+bsb: "For that day belongs to the Lord GOD of Hosts, a day of vengeance against His foes. The sword will devour until it is satisfied, until it is quenched with their blood. For the Lord GOD of Hosts will hold a sacrifice in the land of the north by the River Euphrates."
+hebrew: "וְֽהַיּ֨וֹם הַה֜וּא לַאדֹנָ֧י יְהוִ֣ה צְבָא֗וֹת י֤וֹם נְקָמָה֙ לְהִנָּקֵ֣ם מִצָּרָ֔יו וְאָכְלָ֥ה חֶ֙רֶב֙ וְשָׂ֣בְעָ֔ה וְרָוְתָ֖ה מִדָּמָ֑ם כִּ֣י זֶ֠בַח לַאדֹנָ֨י יְהוִ֧ה צְבָא֛וֹת בְּאֶ֥רֶץ צָפ֖וֹן אֶל־ נְהַר־ פְּרָֽת׃"
+pericope: "[[Jer.46.1 Judgment on Egypt|Judgment on Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 46
+book/chapter: "[[Jer.46|Jeremiah 46]]"
+chronological_order: 769
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DAY|DAY]]"
+- "[[topic EUPHRATES|EUPHRATES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H6635B]]"
+- "[[H5360]]"
+- "[[H5358]]"
+- "[[H9006]]"
+- "[[H6862C]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H2719]]"
+- "[[H7646]]"
+- "[[H7301]]"
+- "[[H1818]]"
+- "[[H9028]]"
+- "[[H3588A]]"
+- "[[H2077]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H6828G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5104H]]"
+- "[[H6578]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 46:10**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For this [is] the day of the Lord GOD of hosts, a day of vengeance, that he may avenge him of his adversaries: and the sword shall devour, and it shall be satiate and made drunk with their blood: for the Lord GOD of hosts hath a sacrifice in the north country by the river Euphrates.
 <small><sub>**BSB:**</sub></small>
 For that day belongs to the Lord GOD of Hosts, a day of vengeance against His foes. The sword will devour until it is satisfied, until it is quenched with their blood. For the Lord GOD of Hosts will hold a sacrifice in the land of the north by the River Euphrates.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְֽ]][[H9009\|הַ]][[H3117G\|יּ֨וֹם]] [[H9009\|הַ]][[H1931\|ה֜וּא]] [[H9005\|לַ]][[H0136\|אדֹנָ֧י]] [[H3069\|יְהוִ֣ה]] [[H6635B\|צְבָא֗וֹת]] [[H3117G\|י֤וֹם]] [[H5360\|נְקָמָה֙]] [[H9005\|לְ]][[H5358\|הִנָּקֵ֣ם]] [[H9006\|מִ]][[H6862C\|צָּרָ֔י]][[H9023\|ו]] [[H9001\|וְ]][[H0398\|אָכְלָ֥ה]] [[H2719\|חֶ֙רֶב֙]] [[H9001\|וְ]][[H7646\|שָׂ֣בְעָ֔ה]] [[H9001\|וְ]][[H7301\|רָוְתָ֖ה]] [[H9006\|מִ]][[H1818\|דָּמָ֑]][[H9028\|ם]] [[H3588A\|כִּ֣י]] [[H2077\|זֶ֠בַח]] [[H9005\|לַ]][[H0136\|אדֹנָ֨י]] [[H3069\|יְהוִ֧ה]] [[H6635B\|צְבָא֛וֹת]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H6828G\|צָפ֖וֹן]] [[H0413\|אֶל]][[H9014\|־]] [[H5104H\|נְהַר]][[H9014\|־]] [[H6578\|פְּרָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAY|DAY]] • [[topic EUPHRATES|EUPHRATES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.9|<< Jeremiah 46:9]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.11|Jeremiah 46:11 >>]]</td></tr></table>
 

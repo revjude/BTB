@@ -1,10 +1,71 @@
+---
+title: John 21:15
+type: Verse
+kjv: "So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs."
+bsb: "When they had finished eating, Jesus asked Simon Peter, “Simon son of John, do you love Me more than these?” “Yes, Lord,” he answered, “You know I love You.” Jesus replied, “Feed My lambs.”"
+jesus_said: "Simon, son of Jonas, lovest thou me more than these? Feed my lambs."
+greek: "Ὅτε οὖν ἠρίστησαν, λέγει τῷ Σίμωνι Πέτρῳ ὁ Ἰησοῦς· Σίμων Ἰωάννου, ἀγαπᾷς με πλέον τούτων; λέγει αὐτῷ· ναὶ κύριε, σὺ οἶδας ὅτι φιλῶ σε. λέγει αὐτῷ· βόσκε τὰ ἀρνία μου."
+pericope: "[[John.21.15 Jesus and Peter|Jesus and Peter]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 21
+book/chapter: "[[John.21|John 21]]"
+chronological_order: 1018
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DISCIPLESHIP|DISCIPLESHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JONAS|JONAS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PETER|PETER]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G3753]]"
+- "[[G3767]]"
+- "[[G0709]]"
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G4613O]]"
+- "[[G4074G]]"
+- "[[G2424G]]"
+- "[[G2491K]]"
+- "[[G0025]]"
+- "[[G3165]]"
+- "[[G4119]]"
+- "[[G3778]]"
+- "[[G0846]]"
+- "[[G3483]]"
+- "[[G2962G]]"
+- "[[G4771]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G5368]]"
+- "[[G1006]]"
+- "[[G0721]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **John 21:15**<big><big>[[John.21.15 Jesus and Peter|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So when they had dined, Jesus saith to Simon Peter, Simon, [son] of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs.
 <small><sub>**BSB:**</sub></small>
 When they had finished eating, Jesus asked Simon Peter, “Simon son of John, do you love Me more than these?” “Yes, Lord,” he answered, “You know I love You.” Jesus replied, “Feed My lambs.”
-<small><sub>**Literal:**</sub></small>
-When therefore they had dined, says <the> to Simon to Peter <the> Jesus; Simon [son] of John, love you Me more than these? He says to Him; Yes Lord, You yourself know that I dearly love You. He says to him; do feed the lambs of Mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.14|<< John 21:14]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.16|John 21:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3753\|Ὅτε]]  [[G3767\|οὖν]]  [[G0709\|ἠρίστησαν,]]  [[G3004G\|λέγει]]  [[G3588\|τῷ]]  [[G4613O\|Σίμωνι]]  [[G4074G\|Πέτρῳ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G4613O\|Σίμων]]  [[G2491K\|Ἰωάννου,]]  [[G0025\|ἀγαπᾷς]]  [[G3165\|με]]  [[G4119\|πλέον]]  [[G3778\|τούτων;]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ·]]  [[G3483\|ναὶ]]  [[G2962G\|κύριε,]]  [[G4771\|σὺ]]  [[G6063\|οἶδας]]  [[G3754G\|ὅτι]]  [[G5368\|φιλῶ]]  [[G4771\|σε.]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ·]]  [[G1006\|βόσκε]]  [[G3588\|τὰ]]  [[G0721\|ἀρνία]]  [[G3165\|μου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CHILDREN|CHILDREN]] • [[topic DISCIPLESHIP|DISCIPLESHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JONAS|JONAS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PETER|PETER]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.14|<< John 21:14]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.16|John 21:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

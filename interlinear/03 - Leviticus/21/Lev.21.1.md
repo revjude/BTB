@@ -1,8 +1,67 @@
+---
+title: Leviticus 21:1
+type: Verse
+kjv: "And the LORD said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people:"
+bsb: "Then the LORD said to Moses, “Speak to Aaron’s sons, the priests, and tell them that a priest is not to defile himself for a dead person among his people,"
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֶל־ מֹשֶׁ֔ה אֱמֹ֥ר אֶל־ הַכֹּהֲנִ֖ים בְּנֵ֣י אַהֲרֹ֑ן וְאָמַרְתָּ֣ אֲלֵהֶ֔ם לְנֶ֥פֶשׁ לֹֽא־ יִטַּמָּ֖א בְּעַמָּֽיו׃"
+pericope: "[[Lev.21.1 Holiness Required of Priests|Holiness Required of Priests]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 21
+book/chapter: "[[Lev.21|Leviticus 21]]"
+chronological_order: 153
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic UNCLEANNESS|UNCLEANNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H1121A]]"
+- "[[H0175]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H5315M]]"
+- "[[H3808]]"
+- "[[H2930A]]"
+- "[[H9003]]"
+- "[[H5971B]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 21:1**<big><big>[[Lev.21.1 Holiness Required of Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people:
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Moses, “Speak to Aaron’s sons, the priests, and tell them that a priest is not to defile himself for a dead person among his people,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H0559\|אֱמֹ֥ר]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֖ים]] [[H1121A\|בְּנֵ֣י]] [[H0175\|אַהֲרֹ֑ן]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֲלֵ]][[H9038\|הֶ֔ם]] [[H9005\|לְ]][[H5315M\|נֶ֥פֶשׁ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H2930A\|יִטַּמָּ֖א]] [[H9003\|בְּ]][[H5971B\|עַמָּֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MARRIAGE|MARRIAGE]] • [[topic MOURNING|MOURNING]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic UNCLEANNESS|UNCLEANNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.21.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.20.27|<< Leviticus 20:27]]</td><td align="center" style="border:none;">[[Lev.21|Leviticus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.21.2|Leviticus 21:2 >>]]</td></tr></table>
 

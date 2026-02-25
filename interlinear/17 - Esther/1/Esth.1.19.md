@@ -1,8 +1,81 @@
+---
+title: Esther 1:19
+type: Verse
+kjv: "If it please the king, let there go a royal commandment from him, and let it be written among the laws of the Persians and the Medes, that it be not altered, That Vashti come no more before king Ahasuerus; and let the king give her royal estate unto another that is better than she."
+bsb: "So if it pleases the king, let him issue a royal decree, and let it be recorded in the laws of Persia and Media so that it cannot be repealed, that Vashti shall never again enter the presence of King Xerxes, and that her royal position shall be given to a woman better than she."
+hebrew: "אִם־ עַל־ הַמֶּ֣לֶךְ ט֗וֹב יֵצֵ֤א דְבַר־ מַלְכוּת֙ מִלְּפָנָ֔יו וְיִכָּתֵ֛ב בְּדָתֵ֥י פָֽרַס־ וּמָדַ֖י וְלֹ֣א יַעֲב֑וֹר אֲשֶׁ֨ר לֹֽא־ תָב֜וֹא וַשְׁתִּ֗י לִפְנֵי֙ הַמֶּ֣לֶךְ אֲחַשְׁוֵר֔וֹשׁ וּמַלְכוּתָהּ֙ יִתֵּ֣ן הַמֶּ֔לֶךְ לִרְעוּתָ֖הּ הַטּוֹבָ֥ה מִמֶּֽנָּה׃"
+pericope: "[[Esth.1.13 Queen Vashti Deposed|Queen Vashti Deposed]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 1
+book/chapter: "[[Esth.1|Esther 1]]"
+chronological_order: 899
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic MEDES|MEDES]]"
+- "[[topic MEMUCAN|MEMUCAN]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic QUEEN|QUEEN]]"
+- "[[topic VASHTI|VASHTI]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H2896A]]"
+- "[[H3318G]]"
+- "[[H1697G]]"
+- "[[H4438]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3789]]"
+- "[[H9003]]"
+- "[[H1881]]"
+- "[[H6539]]"
+- "[[H4074I]]"
+- "[[H3808]]"
+- "[[H5674A]]"
+- "[[H0834A]]"
+- "[[H0935G]]"
+- "[[H2060]]"
+- "[[H0325]]"
+- "[[H9024]]"
+- "[[H5414G]]"
+- "[[H7468]]"
+- "[[H4480A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 1:19**<big><big>[[Esth.1.13 Queen Vashti Deposed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If it please the king, let there go a royal commandment from him, and let it be written among the laws of the Persians and the Medes, that it be not altered, That Vashti come no more before king Ahasuerus; and let the king give her royal estate unto another that is better than she.
 <small><sub>**BSB:**</sub></small>
 So if it pleases the king, let him issue a royal decree, and let it be recorded in the laws of Persia and Media so that it cannot be repealed, that Vashti shall never again enter the presence of King Xerxes, and that her royal position shall be given to a woman better than she.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H2896A\|ט֗וֹב]] [[H3318G\|יֵצֵ֤א]] [[H1697G\|דְבַר]][[H9014\|־]] [[H4438\|מַלְכוּת֙]] [[H9006\|מִ]][[H9005\|לְּ]][[H6440G\|פָנָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H3789\|יִכָּתֵ֛ב]] [[H9003\|בְּ]][[H1881\|דָתֵ֥י]] [[H6539\|פָֽרַס]][[H9014\|־]] [[H9002\|וּ]][[H4074I\|מָדַ֖י]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H5674A\|יַעֲב֑וֹר]] [[H0834A\|אֲשֶׁ֨ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0935G\|תָב֜וֹא]] [[H2060\|וַשְׁתִּ֗י]] [[H9005\|לִ]][[H6440G\|פְנֵי֙]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H0325\|אֲחַשְׁוֵר֔וֹשׁ]] [[H9002\|וּ]][[H4438\|מַלְכוּתָ]][[H9024\|הּ֙]] [[H5414G\|יִתֵּ֣ן]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9005\|לִ]][[H7468\|רְעוּתָ֖]][[H9024\|הּ]] [[H9009\|הַ]][[H2896A\|טּוֹבָ֥ה]] [[H4480A\|מִמֶּֽ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic DIVORCE|DIVORCE]] • [[topic FAMILY|FAMILY]] • [[topic HUSBAND|HUSBAND]] • [[topic MEDES|MEDES]] • [[topic MEMUCAN|MEMUCAN]] • [[topic PERSIA|PERSIA]] • [[topic QUEEN|QUEEN]] • [[topic VASHTI|VASHTI]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.1.18|<< Esther 1:18]]</td><td align="center" style="border:none;">[[Esth.1|Esther 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1.20|Esther 1:20 >>]]</td></tr></table>
 

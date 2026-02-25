@@ -1,8 +1,68 @@
+---
+title: Daniel 8:5
+type: Verse
+kjv: "And as I was considering, behold, an he goat came from the west on the face of the whole earth, and touched not the ground: and the goat had a notable horn between his eyes."
+bsb: "As I was contemplating all this, suddenly a goat with a prominent horn between his eyes came out of the west, crossing the surface of the entire earth without touching the ground."
+hebrew: "וַאֲנִ֣י׀ הָיִ֣יתִי מֵבִ֗ין וְהִנֵּ֤ה צְפִיר־ הָֽעִזִּים֙ בָּ֤א מִן־ הַֽמַּעֲרָב֙ עַל־ פְּנֵ֣י כָל־ הָאָ֔רֶץ וְאֵ֥ין נוֹגֵ֖עַ בָּאָ֑רֶץ וְהַ֨צָּפִ֔יר קֶ֥רֶן חָז֖וּת בֵּ֥ין עֵינָֽיו׃"
+pericope: "[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|Daniel’s Vision of the Ram and the Goat]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 8
+book/chapter: "[[Dan.8|Daniel 8]]"
+chronological_order: 844
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic HORN|HORN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H9015]]"
+- "[[H1961]]"
+- "[[H0995]]"
+- "[[H2009]]"
+- "[[H6842]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5795]]"
+- "[[H0935G]]"
+- "[[H4480A]]"
+- "[[H4628]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H0369]]"
+- "[[H5060]]"
+- "[[H9003]]"
+- "[[H0776H]]"
+- "[[H7161A]]"
+- "[[H2380]]"
+- "[[H0996G]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 8:5**<big><big>[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as I was considering, behold, an he goat came from the west on the face of the whole earth, and touched not the ground: and the goat [had] a notable horn between his eyes.
 <small><sub>**BSB:**</sub></small>
 As I was contemplating all this, suddenly a goat with a prominent horn between his eyes came out of the west, crossing the surface of the entire earth without touching the ground.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0589\|אֲנִ֣י]][[H9015\|׀]] [[H1961\|הָיִ֣יתִי]] [[H0995\|מֵבִ֗ין]] [[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H6842\|צְפִיר]][[H9014\|־]] [[H9009\|הָֽ]][[H5795\|עִזִּים֙]] [[H0935G\|בָּ֤א]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַֽ]][[H4628\|מַּעֲרָב֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֣י]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H5060\|נוֹגֵ֖עַ]] [[H9003\|בָּ]][[H0776H\|אָ֑רֶץ]] [[H9002\|וְ]][[H9009\|הַ֨]][[H6842\|צָּפִ֔יר]] [[H7161A\|קֶ֥רֶן]] [[H2380\|חָז֖וּת]] [[H0996G\|בֵּ֥ין]] [[H5869A\|עֵינָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HORN|HORN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.4|<< Daniel 8:4]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.6|Daniel 8:6 >>]]</td></tr></table>
 

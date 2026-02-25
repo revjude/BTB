@@ -1,8 +1,72 @@
+---
+title: 1 Kings 20:42
+type: Verse
+kjv: "And he said unto him, Thus saith the LORD, Because thou hast let go out of thy hand a man whom I appointed to utter destruction, therefore thy life shall go for his life, and thy people for his people."
+bsb: "And the prophet said to the king, “This is what the LORD says: ‘Because you have let slip from your hand the man I had devoted to destruction, your life will be exchanged for his life, and your people for his people.’”"
+hebrew: "וַיֹּ֣אמֶר אֵלָ֗יו כֹּ֚ה אָמַ֣ר יְהוָ֔ה יַ֛עַן שִׁלַּ֥חְתָּ אֶת־ אִישׁ־ חֶרְמִ֖י מִיָּ֑ד וְהָיְתָ֤ה נַפְשְׁךָ֙ תַּ֣חַת נַפְשׁ֔וֹ וְעַמְּךָ֖ תַּ֥חַת עַמּֽוֹ׃"
+pericope: "[[1Kgs.20.35 A Prophet Reproves Ahab|A Prophet Reproves Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SELF-CONDEMNATION|SELF-CONDEMNATION]]"
+- "[[topic SUBSTITUTION|SUBSTITUTION]]"
+- "[[topic WILL|WILL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H3282]]"
+- "[[H7971H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H2764A]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H1961]]"
+- "[[H5315H]]"
+- "[[H9021]]"
+- "[[H8478H]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 20:42**<big><big>[[1Kgs.20.35 A Prophet Reproves Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto him, Thus saith the LORD, Because thou hast let go out of [thy] hand a man whom I appointed to utter destruction, therefore thy life shall go for his life, and thy people for his people.
 <small><sub>**BSB:**</sub></small>
 And the prophet said to the king, “This is what the LORD says: ‘Because you have let slip from your hand the man I had devoted to destruction, your life will be exchanged for his life, and your people for his people.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H3282\|יַ֛עַן]] [[H7971H\|שִׁלַּ֥חְתָּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H2764A\|חֶרְמִ֖]][[H9020\|י]] [[H9006\|מִ]][[H3027H\|יָּ֑ד]] [[H9001\|וְ]][[H1961\|הָיְתָ֤ה]] [[H5315H\|נַפְשְׁ]][[H9021\|ךָ֙]] [[H8478H\|תַּ֣חַת]] [[H5315H\|נַפְשׁ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H5971A\|עַמְּ]][[H9021\|ךָ֖]] [[H8478H\|תַּ֥חַת]] [[H5971A\|עַמּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic PROPHECY|PROPHECY]] • [[topic SELF-CONDEMNATION|SELF-CONDEMNATION]] • [[topic SUBSTITUTION|SUBSTITUTION]] • [[topic WILL|WILL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.41|<< 1 Kings 20:41]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.43|1 Kings 20:43 >>]]</td></tr></table>
 

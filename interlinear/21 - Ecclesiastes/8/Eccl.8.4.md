@@ -1,8 +1,56 @@
+---
+title: Ecclesiastes 8:4
+type: Verse
+kjv: "Where the word of a king is, there is power: and who may say unto him, What doest thou?"
+bsb: "For the king’s word is supreme, and who can say to him, “What are you doing?”"
+hebrew: "בַּאֲשֶׁ֥ר דְּבַר־ מֶ֖לֶךְ שִׁלְט֑וֹן וּמִ֥י יֹֽאמַר־ ל֖וֹ מַֽה־ תַּעֲשֶֽׂה׃"
+pericope: "[[Eccl.8.1 Obey the King|Obey the King]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 8
+book/chapter: "[[Eccl.8|Ecclesiastes 8]]"
+chronological_order: 546
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic KING|KING]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9003]]"
+- "[[H0834B]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H7983]]"
+- "[[H9002]]"
+- "[[H4310]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 8:4**<big><big>[[Eccl.8.1 Obey the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Where the word of a king [is, there is] power: and who may say unto him, What doest thou?
 <small><sub>**BSB:**</sub></small>
 For the king’s word is supreme, and who can say to him, “What are you doing?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H0834B\|אֲשֶׁ֥ר]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H4428G\|מֶ֖לֶךְ]] [[H7983\|שִׁלְט֑וֹן]] [[H9002\|וּ]][[H4310\|מִ֥י]] [[H0559\|יֹֽאמַר]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H4100\|מַֽה]][[H9014\|־]] [[H6213A\|תַּעֲשֶֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic KING|KING]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.3|<< Ecclesiastes 8:3]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.5|Ecclesiastes 8:5 >>]]</td></tr></table>
 

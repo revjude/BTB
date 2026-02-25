@@ -1,6 +1,62 @@
+---
+title: LXX Isaiah 8:4
+type: Verse
+lxx: "Because before the child knows to call his father or mother, one shall take t  he power of Damascus, and the spoils of Samaria before the king of the Assyrians."
+greek: "διότι πριν η γνώναι το παιδίον καλείν πατέρα η μητέρα λήψεται δύναμιν Δαμασκού και τα σκύλα Σαμαρείας έναντι βασιλέως Ασσυρίων"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 8
+book/chapter: "[[Isa.8|Isaiah 8]]"
+chronological_order: 618
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MAHER-SHALAL-HASH-BAZ|MAHER-SHALAL-HASH-BAZ]]"
+- "[[topic PEKAH|PEKAH]]"
+- "[[topic REZIN|REZIN]]"
+- "[[topic SYRIA|SYRIA]]"
+strongs:
+- "[[G1360]]"
+- "[[G4250]]"
+- "[[G3588]]"
+- "[[G1097]]"
+- "[[G3588]]"
+- "[[G3813]]"
+- "[[G2564]]"
+- "[[G3962]]"
+- "[[G2228]]"
+- "[[G3384]]"
+- "[[G2983]]"
+- "[[G1411]]"
+- "[[G1154]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4661]]"
+- "[[G4541]]"
+- "[[G1725]]"
+- "[[G0935]]"
+- "[[H0804]]"
+---
+
 **LXX Isaiah 8:4** 
 <small><sub>**LXX:**</sub></small>
 Because before the child knows to call \[his\] father or mother, one shall take t \[\] he power of Damascus, and the spoils of Samaria before \[the\] king of \[the\] Assyrians. 
+<small><sub>**Greek:**</sub></small>
+[[G1360\|διότι]] [[G4250\|πριν]] [[G3588\|η]] [[G1097\|γνώναι]] [[G3588\|το]] [[G3813\|παιδίον]] [[G2564\|καλείν]] [[G3962\|πατέρα]] [[G2228\|η]] [[G3384\|μητέρα]] [[G2983\|λήψεται]] [[G1411\|δύναμιν]] [[G1154\|Δαμασκού]] [[G2532\|και]] [[G3588\|τα]] [[G4661\|σκύλα]] [[G4541\|Σαμαρείας]] [[G1725\|έναντι]] [[G0935\|βασιλέως]] [[H0804\|Ασσυρίων]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic DAMASCUS|DAMASCUS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MAHER-SHALAL-HASH-BAZ|MAHER-SHALAL-HASH-BAZ]] • [[topic PEKAH|PEKAH]] • [[topic REZIN|REZIN]] • [[topic SYRIA|SYRIA]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.3|<< Isaiah 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.5|Isaiah 8:5 >>]]</td></tr></table>
 
@@ -26,6 +82,6 @@ Because before the child knows to call \[his\] father or mother, one shall take 
 | before | **<big>[[G1725\|έναντι]]</big>** |
 | \[the\] king | **<big>[[G0935\|βασιλέως]]</big>** |
 | of \[the\] Assyrians. | **<big>[[H0804\|Ασσυρίων]]</big>** |
-[[Isa.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.3|<< Isaiah 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.5|Isaiah 8:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.3|<< Isaiah 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.5|Isaiah 8:5 >>]]</td></tr></table>
 
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Moab Seduces Israel
+type: Pericope
 pericope: "[[Num.25.1 Moab Seduces Israel|Moab Seduces Israel]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 25
 book/chapter: "[[Num.25|Numbers 25]]"
-genre:
+chronological_order: 185
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 5
 verses:
 - "[[Num.25.1]]"
 - "[[Num.25.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Num.25.5]]"
 ---
 
-[[Num.25|Numbers 25:1 - Numbers 25:5]]
+<small>[[Num.25|Numbers 25:1-5]]</small>
 *Moab Seduces Israel*
 
 [[Num.25.1|1]] And Israel abode in Shittim, and the people began to commit whoredom with the daughters of Moab.

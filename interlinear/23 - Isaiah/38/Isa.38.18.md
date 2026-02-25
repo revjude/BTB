@@ -1,8 +1,64 @@
+---
+title: Isaiah 38:18
+type: Verse
+kjv: "For the grave cannot praise thee, death can not celebrate thee: they that go down into the pit cannot hope for thy truth."
+bsb: "For Sheol cannot thank You; Death cannot praise You. Those who descend to the Pit cannot hope for Your faithfulness."
+hebrew: "כִּ֣י לֹ֥א שְׁא֛וֹל תּוֹדֶ֖ךָּ מָ֣וֶת יְהַלְלֶ֑ךָּ לֹֽא־ יְשַׂבְּר֥וּ יֽוֹרְדֵי־ ב֖וֹר אֶל־ אֲמִתֶּֽךָ׃"
+pericope: "[[Isa.38.9 Hezekiah’s Song of Thanksgiving|Hezekiah’s Song of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 38
+book/chapter: "[[Isa.38|Isaiah 38]]"
+chronological_order: 665
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H7585]]"
+- "[[H3034]]"
+- "[[H9031]]"
+- "[[H4194]]"
+- "[[H1984B]]"
+- "[[H9014]]"
+- "[[H7663B]]"
+- "[[H3381]]"
+- "[[H0953A]]"
+- "[[H0413]]"
+- "[[H0571G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 38:18**<big><big>[[Isa.38.9 Hezekiah’s Song of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the grave cannot praise thee, death can [not] celebrate thee: they that go down into the pit cannot hope for thy truth.
 <small><sub>**BSB:**</sub></small>
 For Sheol cannot thank You; Death cannot praise You. Those who descend to the Pit cannot hope for Your faithfulness.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3808\|לֹ֥א]] [[H7585\|שְׁא֛וֹל]] [[H3034\|תּוֹדֶ֖]][[H9031\|ךָּ]] [[H4194\|מָ֣וֶת]] [[H1984B\|יְהַלְלֶ֑]][[H9031\|ךָּ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7663B\|יְשַׂבְּר֥וּ]] [[H3381\|יֽוֹרְדֵי]][[H9014\|־]] [[H0953A\|ב֖וֹר]] [[H0413\|אֶל]][[H9014\|־]] [[H0571G\|אֲמִתֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEATH|DEATH]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic HOPE|HOPE]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic LIFE|LIFE]] • [[topic MURMURING|MURMURING]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.17|<< Isaiah 38:17]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38.19|Isaiah 38:19 >>]]</td></tr></table>
 

@@ -1,10 +1,64 @@
+---
+title: Revelation 1:7
+type: Verse
+kjv: "Behold, he cometh with clouds; and every eye shall see him, and they also which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen."
+bsb: "Behold, He is coming with the clouds, and every eye will see Him—even those who pierced Him. And all the tribes of the earth will mourn because of Him. So shall it be! Amen."
+greek: "Ἰδοὺ ἔρχεται μετὰ τῶν νεφελῶν, καὶ ὄψεται αὐτὸν πᾶς ὀφθαλμὸς καὶ οἵτινες αὐτὸν ἐξεκέντησαν· καὶ κόψονται ἐπ᾽ αὐτὸν πᾶσαι αἱ φυλαὶ τῆς γῆς, ναὶ ἀμήν.¶"
+pericope: "[[Rev.1.4 John Greets the Seven Churches|John Greets the Seven Churches]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 1
+book/chapter: "[[Rev.1|Revelation 1]]"
+chronological_order: 1168
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic SPEAR|SPEAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2400]]"
+- "[[G2064]]"
+- "[[G3326]]"
+- "[[G3588]]"
+- "[[G3507]]"
+- "[[G2532]]"
+- "[[G3700]]"
+- "[[G0846]]"
+- "[[G3956]]"
+- "[[G3788]]"
+- "[[G3748]]"
+- "[[G1574]]"
+- "[[G2875]]"
+- "[[G1909]]"
+- "[[G5443]]"
+- "[[G1093G]]"
+- "[[G3483]]"
+- "[[G0281]]"
+texts:
+- NKO
+---
+
 **Revelation 1:7**<big><big>[[Rev.1.4 John Greets the Seven Churches|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Behold, he cometh with clouds; and every eye shall see him, and they [also] which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen.
 <small><sub>**BSB:**</sub></small>
 Behold, He is coming with the clouds, and every eye will see Him—even those who pierced Him. And all the tribes of the earth will mourn because of Him. So shall it be! Amen.
-<small><sub>**Literal:**</sub></small>
-Behold He is coming with the clouds, and will behold Him every eye and those who Him pierced; and will wail because of Him all the tribes of the earth, Yes Amen!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.6|<< Revelation 1:6]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.8|Revelation 1:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2400\|Ἰδοὺ]]  [[G2064\|ἔρχεται]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G3507\|νεφελῶν,]]  [[G2532\|καὶ]]  [[G3700\|ὄψεται]]  [[G0846\|αὐτὸν]]  [[G3956\|πᾶς]]  [[G3788\|ὀφθαλμὸς]]  [[G2532\|καὶ]]  [[G3748\|οἵτινες]]  [[G0846\|αὐτὸν]]  [[G1574\|ἐξεκέντησαν·]]  [[G2532\|καὶ]]  [[G2875\|κόψονται]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτὸν]]  [[G3956\|πᾶσαι]]  [[G3588\|αἱ]]  [[G5443\|φυλαὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς,]]  [[G3483\|ναὶ]]  [[G0281\|ἀμήν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMMORTALITY|IMMORTALITY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic SPEAR|SPEAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.6|<< Revelation 1:6]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.8|Revelation 1:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 1:7** is...
 > $\quad$ referencing: [[LXX.Gen.12.3|Gen 12:3]] ☩ [[LXX.Gen.28.14|Gen 28:14]]

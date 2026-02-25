@@ -1,8 +1,75 @@
+---
+title: Genesis 27:15
+type: Verse
+kjv: "And Rebekah took goodly raiment of her eldest son Esau, which were with her in the house, and put them upon Jacob her younger son:"
+bsb: "And Rebekah took the finest clothes in the house that belonged to her older son Esau, and she put them on her younger son Jacob."
+hebrew: "וַתִּקַּ֣ח רִ֠בְקָה אֶת־ בִּגְדֵ֨י עֵשָׂ֜ו בְּנָ֤הּ הַגָּדֹל֙ הַחֲמֻדֹ֔ת אֲשֶׁ֥ר אִתָּ֖הּ בַּבָּ֑יִת וַתַּלְבֵּ֥שׁ אֶֽת־ יַעֲקֹ֖ב בְּנָ֥הּ הַקָּטָֽן׃"
+pericope: "[[Gen.27.1 Isaac Blesses Jacob|Isaac Blesses Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic FAVORITISM|FAVORITISM]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H7259]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0899B]]"
+- "[[H6215G]]"
+- "[[H1121A]]"
+- "[[H9024]]"
+- "[[H9009]]"
+- "[[H1419K]]"
+- "[[H2532B]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H9034]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H3847]]"
+- "[[H3290]]"
+- "[[H6996A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:15**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Rebekah took goodly raiment of her eldest son Esau, which [were] with her in the house, and put them upon Jacob her younger son:
 <small><sub>**BSB:**</sub></small>
 And Rebekah took the finest clothes in the house that belonged to her older son Esau, and she put them on her younger son Jacob.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|תִּקַּ֣ח]] [[H7259\|רִ֠בְקָה]] [[H0853\|אֶת]][[H9014\|־]] [[H0899B\|בִּגְדֵ֨י]] [[H6215G\|עֵשָׂ֜ו]] [[H1121A\|בְּנָ֤]][[H9024\|הּ]] [[H9009\|הַ]][[H1419K\|גָּדֹל֙]] [[H9009\|הַ]][[H2532B\|חֲמֻדֹ֔ת]] [[H0834A\|אֲשֶׁ֥ר]] [[H0854\|אִתָּ֖]][[H9034\|הּ]] [[H9003\|בַּ]][[H1004B\|בָּ֑יִת]] [[H9001\|וַ]][[H3847\|תַּלְבֵּ֥שׁ]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3290\|יַעֲקֹ֖ב]] [[H1121A\|בְּנָ֥]][[H9024\|הּ]] [[H9009\|הַ]][[H6996A\|קָּטָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DECEPTION|DECEPTION]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FAMILY|FAMILY]] • [[topic FAVORITISM|FAVORITISM]] • [[topic JACOB|JACOB]] • [[topic PARENTS|PARENTS]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.14|<< Genesis 27:14]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.16|Genesis 27:16 >>]]</td></tr></table>
 

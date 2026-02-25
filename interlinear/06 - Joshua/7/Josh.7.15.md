@@ -1,8 +1,71 @@
+---
+title: Joshua 7:15
+type: Verse
+kjv: "And it shall be, that he that is taken with the accursed thing shall be burnt with fire, he and all that he hath: because he hath transgressed the covenant of the LORD, and because he hath wrought folly in Israel."
+bsb: "The one who is caught with the things devoted to destruction must be burned, along with all that belongs to him, because he has transgressed the covenant of the LORD and committed an outrage in Israel.’”"
+hebrew: "וְהָיָה֙ הַנִּלְכָּ֣ד בַּחֵ֔רֶם יִשָּׂרֵ֣ף בָּאֵ֔שׁ אֹת֖וֹ וְאֶת־ כָּל־ אֲשֶׁר־ ל֑וֹ כִּ֤י עָבַר֙ אֶת־ בְּרִ֣ית יְהוָ֔ה וְכִֽי־ עָשָׂ֥ה נְבָלָ֖ה בְּיִשְׂרָאֵֽל׃"
+pericope: "[[Josh.7.1 The Defeat at Ai|The Defeat at Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 7
+book/chapter: "[[Josh.7|Joshua 7]]"
+chronological_order: 237
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic DISCIPLINE|DISCIPLINE]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic LOT, THE|LOT, THE]]"
+- "[[topic NATION|NATION]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H3920]]"
+- "[[H9003]]"
+- "[[H2764A]]"
+- "[[H8313]]"
+- "[[H0784]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H3588A]]"
+- "[[H5674D]]"
+- "[[H1285]]"
+- "[[H3068G]]"
+- "[[H6213A]]"
+- "[[H5039]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 7:15**<big><big>[[Josh.7.1 The Defeat at Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, [that] he that is taken with the accursed thing shall be burnt with fire, he and all that he hath: because he hath transgressed the covenant of the LORD, and because he hath wrought folly in Israel.
 <small><sub>**BSB:**</sub></small>
 The one who is caught with the things devoted to destruction must be burned, along with all that belongs to him, because he has transgressed the covenant of the LORD and committed an outrage in Israel.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָה֙]] [[H9009\|הַ]][[H3920\|נִּלְכָּ֣ד]] [[H9003\|בַּ]][[H2764A\|חֵ֔רֶם]] [[H8313\|יִשָּׂרֵ֣ף]] [[H9003\|בָּ]][[H0784\|אֵ֔שׁ]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H3588A\|כִּ֤י]] [[H5674D\|עָבַר֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִ֣ית]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H6213A\|עָשָׂ֥ה]] [[H5039\|נְבָלָ֖ה]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic COMMUNION|COMMUNION]] • [[topic DISCIPLINE|DISCIPLINE]] • [[topic DISHONESTY|DISHONESTY]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic LOT, THE|LOT, THE]] • [[topic NATION|NATION]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.14|<< Joshua 7:14]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.16|Joshua 7:16 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: 1 Samuel 25:38
+type: Verse
+kjv: "And it came to pass about ten days after, that the LORD smote Nabal, that he died."
+bsb: "About ten days later, the LORD struck Nabal dead."
+hebrew: "וַיְהִ֖י כַּעֲשֶׂ֣רֶת הַיָּמִ֑ים וַיִּגֹּ֧ף יְהוָ֛ה אֶת־ נָבָ֖ל וַיָּמֹֽת׃"
+pericope: "[[1Sam.25.18 Abigail Intercedes for Nabal|Abigail Intercedes for Nabal]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic NABAL|NABAL]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H6235]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H5062]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5037]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 25:38**<big><big>[[1Sam.25.18 Abigail Intercedes for Nabal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass about ten days [after], that the LORD smote Nabal, that he died.
 <small><sub>**BSB:**</sub></small>
 About ten days later, the LORD struck Nabal dead.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֖י]] [[H9004\|כַּ]][[H6235\|עֲשֶׂ֣רֶת]] [[H9009\|הַ]][[H3117G\|יָּמִ֑ים]] [[H9001\|וַ]][[H5062\|יִּגֹּ֧ף]] [[H3068G\|יְהוָ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H5037\|נָבָ֖ל]] [[H9001\|וַ]][[H4191\|יָּמֹֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic DISEASE|DISEASE]] • [[topic NABAL|NABAL]] • [[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.37|<< 1 Samuel 25:37]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.39|1 Samuel 25:39 >>]]</td></tr></table>
 

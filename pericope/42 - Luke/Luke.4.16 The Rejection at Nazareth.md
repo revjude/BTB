@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Rejection at Nazareth
+type: Pericope
 pericope: "[[Luke.4.16 The Rejection at Nazareth|The Rejection at Nazareth]]"
-verse_count: 15
+original_language: Greek
 testament: New
 book: Luke
 chapter: 4
 book/chapter: "[[Luke.4|Luke 4]]"
-genre:
+chronological_order: 938
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 15
 verses:
 - "[[Luke.4.16]]"
 - "[[Luke.4.17]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Luke.4.30]]"
 ---
 
-[[Luke.4|Luke 4:16 - Luke 4:30]]
+<small>[[Luke.4|Luke 4:16-30]]</small>
 *The Rejection at Nazareth*
 
 [[Luke.4.16|16]] And he came to Nazareth, where he had been brought up: and, as his custom was, he went into the synagogue on the sabbath day, and stood up for to read.

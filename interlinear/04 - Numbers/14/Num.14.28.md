@@ -1,8 +1,72 @@
+---
+title: Numbers 14:28
+type: Verse
+kjv: "Say unto them, As truly as I live, saith the LORD, as ye have spoken in mine ears, so will I do to you:"
+bsb: "So tell them: As surely as I live, declares the LORD, I will do to you exactly as I heard you say."
+hebrew: "אֱמֹ֣ר אֲלֵהֶ֗ם חַי־ אָ֙נִי֙ נְאֻם־ יְהוָ֔ה אִם־ לֹ֕א כַּאֲשֶׁ֥ר דִּבַּרְתֶּ֖ם בְּאָזְנָ֑י כֵּ֖ן אֶֽעֱשֶׂ֥ה לָכֶֽם׃"
+pericope: "[[Num.14.20 God’s Forgiveness and Judgment|God’s Forgiveness and Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 14
+book/chapter: "[[Num.14|Numbers 14]]"
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]"
+strongs:
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H2416A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H0518I]]"
+- "[[H3808]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696G]]"
+- "[[H9003]]"
+- "[[H0241H]]"
+- "[[H9020]]"
+- "[[H3651C]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 14:28**<big><big>[[Num.14.20 God’s Forgiveness and Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say unto them, [As truly as] I live, saith the LORD, as ye have spoken in mine ears, so will I do to you:
 <small><sub>**BSB:**</sub></small>
 So tell them: As surely as I live, declares the LORD, I will do to you exactly as I heard you say.
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אֱמֹ֣ר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֗ם]] [[H2416A\|חַי]][[H9014\|־]] [[H0589\|אָ֙נִי֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H0518I\|אִם]][[H9014\|־]] [[H3808\|לֹ֕א]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H1696G\|דִּבַּרְתֶּ֖ם]] [[H9003\|בְּ]][[H0241H\|אָזְנָ֑]][[H9020\|י]] [[H3651C\|כֵּ֖ן]] [[H6213A\|אֶֽעֱשֶׂ֥ה]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic INFIDELITY|INFIDELITY]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MURMURING|MURMURING]] • [[topic REPROBACY|REPROBACY]] • [[topic SIN|SIN]] • [[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.27|<< Numbers 14:27]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.29|Numbers 14:29 >>]]</td></tr></table>
 

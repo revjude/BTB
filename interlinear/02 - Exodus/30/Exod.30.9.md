@@ -1,8 +1,60 @@
+---
+title: Exodus 30:9
+type: Verse
+kjv: "Ye shall offer no strange incense thereon, nor burnt sacrifice, nor meat offering; neither shall ye pour drink offering thereon."
+bsb: "On this altar you must not offer unauthorized incense or a burnt offering or grain offering; nor are you to pour a drink offering on it."
+hebrew: "לֹא־ תַעֲל֥וּ עָלָ֛יו קְטֹ֥רֶת זָרָ֖ה וְעֹלָ֣ה וּמִנְחָ֑ה וְנֵ֕סֶךְ לֹ֥א תִסְּכ֖וּ עָלָֽיו׃"
+pericope: "[[Exod.30.1 The Altar of Incense|The Altar of Incense]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 30
+book/chapter: "[[Exod.30|Exodus 30]]"
+chronological_order: 122
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic DAILY OFFERING|DAILY OFFERING]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5927I]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H7004]]"
+- "[[H2114A]]"
+- "[[H9002]]"
+- "[[H5930A]]"
+- "[[H4503G]]"
+- "[[H5262]]"
+- "[[H5258A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 30:9**<big><big>[[Exod.30.1 The Altar of Incense|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall offer no strange incense thereon, nor burnt sacrifice, nor meat offering; neither shall ye pour drink offering thereon.
 <small><sub>**BSB:**</sub></small>
 On this altar you must not offer unauthorized incense or a burnt offering or grain offering; nor are you to pour a drink offering on it.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H5927I\|תַעֲל֥וּ]] [[H5921A\|עָלָ֛י]][[H9033\|ו]] [[H7004\|קְטֹ֥רֶת]] [[H2114A\|זָרָ֖ה]] [[H9002\|וְ]][[H5930A\|עֹלָ֣ה]] [[H9002\|וּ]][[H4503G\|מִנְחָ֑ה]] [[H9002\|וְ]][[H5262\|נֵ֕סֶךְ]] [[H3808\|לֹ֥א]] [[H5258A\|תִסְּכ֖וּ]] [[H5921A\|עָלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic DAILY OFFERING|DAILY OFFERING]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.8|<< Exodus 30:8]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.10|Exodus 30:10 >>]]</td></tr></table>
 

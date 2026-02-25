@@ -1,8 +1,69 @@
+---
+title: Numbers 34:2
+type: Verse
+kjv: "Command the children of Israel, and say unto them, When ye come into the land of Canaan; (this is the land that shall fall unto you for an inheritance, even the land of Canaan with the coasts thereof:)"
+bsb: "“Command the Israelites and say to them: When you enter the land of Canaan, it will be allotted to you as an inheritance with these boundaries:"
+hebrew: "צַ֞ו אֶת־ בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם כִּֽי־ אַתֶּ֥ם בָּאִ֖ים אֶל־ הָאָ֣רֶץ כְּנָ֑עַן זֹ֣את הָאָ֗רֶץ אֲשֶׁ֨ר תִּפֹּ֤ל לָכֶם֙ בְּֽנַחֲלָ֔ה אֶ֥רֶץ כְּנַ֖עַן לִגְבֻלֹתֶֽיהָ׃"
+pericope: "[[Num.34.1 The Boundaries of Canaan|The Boundaries of Canaan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 34
+book/chapter: "[[Num.34|Numbers 34]]"
+chronological_order: 194
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+strongs:
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H3588A]]"
+- "[[H0859D]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H2063]]"
+- "[[H0834A]]"
+- "[[H5307I]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H5159]]"
+- "[[H1367]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 34:2**<big><big>[[Num.34.1 The Boundaries of Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Command the children of Israel, and say unto them, When ye come into the land of Canaan; (this [is] the land that shall fall unto you for an inheritance, [even] the land of Canaan with the coasts thereof:)
 <small><sub>**BSB:**</sub></small>
 “Command the Israelites and say to them: When you enter the land of Canaan, it will be allotted to you as an inheritance with these boundaries:
+<small><sub>**Hebrew:**</sub></small>
+[[H6680\|צַ֞ו]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֲלֵ]][[H9038\|הֶ֔ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0859D\|אַתֶּ֥ם]] [[H0935G\|בָּאִ֖ים]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H3667A\|כְּנָ֑עַן]] [[H2063\|זֹ֣את]] [[H9009\|הָ]][[H0776G\|אָ֗רֶץ]] [[H0834A\|אֲשֶׁ֨ר]] [[H5307I\|תִּפֹּ֤ל]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H9003\|בְּֽ]][[H5159\|נַחֲלָ֔ה]] [[H0776G\|אֶ֥רֶץ]] [[H3667A\|כְּנַ֖עַן]] [[H9005\|לִ]][[H1367\|גְבֻלֹתֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.34.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.1|<< Numbers 34:1]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.34.3|Numbers 34:3 >>]]</td></tr></table>
 

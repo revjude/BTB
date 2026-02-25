@@ -1,8 +1,60 @@
+---
+title: Psalm 136:12
+type: Verse
+kjv: "With a strong hand, and with a stretched out arm: for his mercy endureth for ever."
+bsb: "with a mighty hand and an outstretched arm. His loving devotion endures forever."
+hebrew: "בְּיָ֣ד חֲ֭זָקָה וּבִזְר֣וֹעַ נְטוּיָ֑ה כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃"
+pericope: "[[Ps.136.1 His Loving Devotion Endures Forever|His Loving Devotion Endures Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 136
+book/chapter: "[[Ps.136|Psalm 136]]"
+chronological_order: 533
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ARM|ARM]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic POWER|POWER]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H2389]]"
+- "[[H9002]]"
+- "[[H2220]]"
+- "[[H5186]]"
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H2617A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 136:12**<big><big>[[Ps.136.1 His Loving Devotion Endures Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With a strong hand, and with a stretched out arm: for his mercy [endureth] for ever.
 <small><sub>**BSB:**</sub></small>
 with a mighty hand and an outstretched arm. His loving devotion endures forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3027G\|יָ֣ד]] [[H2389\|חֲ֭זָקָה]] [[H9002\|וּ]][[H9003\|בִ]][[H2220\|זְר֣וֹעַ]] [[H5186\|נְטוּיָ֑ה]] [[H3588A\|כִּ֖י]] [[H9005\|לְ]][[H5769G\|עוֹלָ֣ם]] [[H2617A\|חַסְדּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARM|ARM]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic POWER|POWER]] • [[topic PRAISE|PRAISE]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.136.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.136.11|<< Psalms 136:11]]</td><td align="center" style="border:none;">[[Ps.136|Psalms 136]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.136.13|Psalms 136:13 >>]]</td></tr></table>
 

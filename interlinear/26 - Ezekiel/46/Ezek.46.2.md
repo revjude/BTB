@@ -1,8 +1,72 @@
+---
+title: Ezekiel 46:2
+type: Verse
+kjv: "And the prince shall enter by the way of the porch of that gate without, and shall stand by the post of the gate, and the priests shall prepare his burnt offering and his peace offerings, and he shall worship at the threshold of the gate: then he shall go forth; but the gate shall not be shut until the evening."
+bsb: "The prince is to enter from the outside through the portico of the gateway and stand by the gatepost, while the priests sacrifice his burnt offerings and peace offerings. He is to bow in worship at the threshold of the gate and then depart, but the gate must not be shut until evening."
+hebrew: "וּבָ֣א הַנָּשִׂ֡יא דֶּרֶךְ֩ אוּלָ֨ם הַשַּׁ֜עַר מִח֗וּץ וְעָמַד֙ עַל־ מְזוּזַ֣ת הַשַּׁ֔עַר וְעָשׂ֣וּ הַכֹּהֲנִ֗ים אֶת־ עֽוֹלָתוֹ֙ וְאֶת־ שְׁלָמָ֔יו וְהִֽשְׁתַּחֲוָ֛ה עַל־ מִפְתַּ֥ן הַשַּׁ֖עַר וְיָצָ֑א וְהַשַּׁ֥עַר לֹֽא־ יִסָּגֵ֖ר עַד־ הָעָֽרֶב׃"
+pericope: "[[Ezek.46.1 The Prince’s Offerings|The Prince’s Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 46
+book/chapter: "[[Ezek.46|Ezekiel 46]]"
+chronological_order: 837
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic KING|KING]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H5387A]]"
+- "[[H1870J]]"
+- "[[H0197J]]"
+- "[[H8179G]]"
+- "[[H9006]]"
+- "[[H2351]]"
+- "[[H5975G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4201]]"
+- "[[H6213I]]"
+- "[[H3548]]"
+- "[[H0853]]"
+- "[[H5930A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H8002]]"
+- "[[H7812]]"
+- "[[H4670]]"
+- "[[H3318G]]"
+- "[[H3808]]"
+- "[[H5462]]"
+- "[[H5704]]"
+- "[[H6153]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 46:2**<big><big>[[Ezek.46.1 The Prince’s Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the prince shall enter by the way of the porch of [that] gate without, and shall stand by the post of the gate, and the priests shall prepare his burnt offering and his peace offerings, and he shall worship at the threshold of the gate: then he shall go forth; but the gate shall not be shut until the evening.
 <small><sub>**BSB:**</sub></small>
 The prince is to enter from the outside through the portico of the gateway and stand by the gatepost, while the priests sacrifice his burnt offerings and peace offerings. He is to bow in worship at the threshold of the gate and then depart, but the gate must not be shut until evening.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H0935G\|בָ֣א]] [[H9009\|הַ]][[H5387A\|נָּשִׂ֡יא]] [[H1870J\|דֶּרֶךְ֩]] [[H0197J\|אוּלָ֨ם]] [[H9009\|הַ]][[H8179G\|שַּׁ֜עַר]] [[H9006\|מִ]][[H2351\|ח֗וּץ]] [[H9001\|וְ]][[H5975G\|עָמַד֙]] [[H5921A\|עַל]][[H9014\|־]] [[H4201\|מְזוּזַ֣ת]] [[H9009\|הַ]][[H8179G\|שַּׁ֔עַר]] [[H9001\|וְ]][[H6213I\|עָשׂ֣וּ]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֗ים]] [[H0853\|אֶת]][[H9014\|־]] [[H5930A\|עֽוֹלָת]][[H9023\|וֹ֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8002\|שְׁלָמָ֔י]][[H9023\|ו]] [[H9001\|וְ]][[H7812\|הִֽשְׁתַּחֲוָ֛ה]] [[H5921A\|עַל]][[H9014\|־]] [[H4670\|מִפְתַּ֥ן]] [[H9009\|הַ]][[H8179G\|שַּׁ֖עַר]] [[H9001\|וְ]][[H3318G\|יָצָ֑א]] [[H9002\|וְ]][[H9009\|הַ]][[H8179G\|שַּׁ֥עַר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5462\|יִסָּגֵ֖ר]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הָ]][[H6153\|עָֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.46.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.1|<< Ezekiel 46:1]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.3|Ezekiel 46:3 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Numbers 32:27
+type: Verse
+kjv: "But thy servants will pass over, every man armed for war, before the LORD to battle, as my lord saith."
+bsb: "But your servants are equipped for war, and every man will cross over to the battle before the LORD, just as our lord says.”"
+hebrew: "וַעֲבָדֶ֨יךָ יַֽעַבְר֜וּ כָּל־ חֲל֥וּץ צָבָ֛א לִפְנֵ֥י יְהוָ֖ה לַמִּלְחָמָ֑ה כַּאֲשֶׁ֥ר אֲדֹנִ֖י דֹּבֵֽר׃"
+pericope: "[[Num.32.1 The Tribes East of the Jordan|The Tribes East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 32
+book/chapter: "[[Num.32|Numbers 32]]"
+chronological_order: 192
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GAD|GAD]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H5674A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2502B]]"
+- "[[H6635H]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H4421]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 32:27**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thy servants will pass over, every man armed for war, before the LORD to battle, as my lord saith.
 <small><sub>**BSB:**</sub></small>
 But your servants are equipped for war, and every man will cross over to the battle before the LORD, just as our lord says.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H5650\|עֲבָדֶ֨י]][[H9021\|ךָ]] [[H5674A\|יַֽעַבְר֜וּ]] [[H3605\|כָּל]][[H9014\|־]] [[H2502B\|חֲל֥וּץ]] [[H6635H\|צָבָ֛א]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֑ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H0113\|אֲדֹנִ֖]][[H9020\|י]] [[H1696G\|דֹּבֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAD|GAD]] • [[topic GILEAD|GILEAD]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.26|<< Numbers 32:26]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.28|Numbers 32:28 >>]]</td></tr></table>
 

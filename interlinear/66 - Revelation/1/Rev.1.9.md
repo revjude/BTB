@@ -1,10 +1,71 @@
+---
+title: Revelation 1:9
+type: Verse
+kjv: "I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ."
+bsb: "I, John, your brother and partner in the tribulation and kingdom and perseverance that are in Jesus, was on the island of Patmos because of the word of God and my testimony about Jesus."
+greek: "Ἐγὼ Ἰωάννης, ὁ καὶ ἀδελφὸς ὑμῶν καὶ συγκοινωνὸς ἐν τῇ θλίψει καὶ ἐν τῇ βασιλείᾳ καὶ ὑπομονῇ ἐν Ἰησοῦ Χριστῷ, ἐγενόμην ἐν τῇ νήσῳ τῇ καλουμένῃ Πάτμῳ διὰ τὸν λόγον τοῦ θεοῦ καὶ διὰ τὴν μαρτυρίαν Ἰησοῦ Χριστοῦ."
+pericope: "[[Rev.1.9 John’s Vision on Patmos|John’s Vision on Patmos]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 1
+book/chapter: "[[Rev.1|Revelation 1]]"
+chronological_order: 1168
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic BANISHMENT|BANISHMENT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic PATMOS|PATMOS]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[G1473]]"
+- "[[G2491H]]"
+- "[[G3588]]"
+- "[[G2532]]"
+- "[[G0080]]"
+- "[[G4771]]"
+- "[[G4791]]"
+- "[[G1722]]"
+- "[[G2347]]"
+- "[[G0932]]"
+- "[[G5281]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G1096]]"
+- "[[G3520]]"
+- "[[G2564G]]"
+- "[[G3963]]"
+- "[[G1223]]"
+- "[[G3056]]"
+- "[[G2316]]"
+- "[[G3141]]"
+texts:
+- NKO
+- k
+- NK(o)
+- no
+---
+
 **Revelation 1:9**<big><big>[[Rev.1.9 John’s Vision on Patmos|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 I, John, your brother and partner in the tribulation and kingdom and perseverance that are in Jesus, was on the island of Patmos because of the word of God and my testimony about Jesus.
-<small><sub>**Literal:**</sub></small>
-I myself John, <the> also brother of you and fellow-partaker in the tribulation and in <the> kingdom and in endurance in Jesus Christ was in the island which is being called Patmos on account of the word <the> of God and through the testimony of Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.8|<< Revelation 1:8]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.10|Revelation 1:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|Ἐγὼ]]  [[G2491H\|Ἰωάννης,]]  [[G3588\|ὁ]]  [[G2532\|καὶ]]  [[G0080\|ἀδελφὸς]]  [[G4771\|ὑμῶν]]  [[G2532\|καὶ]]  [[G4791\|συγκοινωνὸς]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2347\|θλίψει]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0932\|βασιλείᾳ]]  [[G2532\|καὶ]]  [[G5281\|ὑπομονῇ]]  [[G1722\|ἐν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστῷ,]]  [[G1096\|ἐγενόμην]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3520\|νήσῳ]]  [[G3588\|τῇ]]  [[G2564G\|καλουμένῃ]]  [[G3963\|Πάτμῳ]]  [[G1223\|διὰ]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G1223\|διὰ]]  [[G3588\|τὴν]]  [[G3141\|μαρτυρίαν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BANISHMENT|BANISHMENT]] • [[topic GOD|GOD]] • [[topic HUMILITY|HUMILITY]] • [[topic JOHN|JOHN]] • [[topic PATIENCE|PATIENCE]] • [[topic PATMOS|PATMOS]] • [[topic PERSECUTION|PERSECUTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.8|<< Revelation 1:8]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.10|Revelation 1:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

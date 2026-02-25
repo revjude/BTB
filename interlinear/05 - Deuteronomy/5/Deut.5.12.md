@@ -1,8 +1,70 @@
+---
+title: Deuteronomy 5:12
+type: Verse
+kjv: "Keep the sabbath day to sanctify it, as the LORD thy God hath commanded thee."
+bsb: "Observe the Sabbath day by keeping it holy, as the LORD your God has commanded you."
+hebrew: "שָׁמ֣֛וֹר אֶת־ י֥וֹם֩ הַשַּׁבָּ֖֨ת לְקַדְּשׁ֑֜וֹ כַּאֲשֶׁ֥ר צִוְּךָ֖֣׀ יְהוָ֥֣ה אֱלֹהֶֽ֗יךָ׃"
+pericope: "[[Deut.5.5 The Ten Commandments|The Ten Commandments]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 5
+book/chapter: "[[Deut.5|Deuteronomy 5]]"
+chronological_order: 201
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic TABLE|TABLE]]"
+strongs:
+- "[[H8104G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7676]]"
+- "[[H9005]]"
+- "[[H6942G]]"
+- "[[H9033]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H9031]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L(p)
+- L
+---
+
 **Deuteronomy 5:12**<big><big>[[Deut.5.5 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Keep the sabbath day to sanctify it, as the LORD thy God hath commanded thee.
 <small><sub>**BSB:**</sub></small>
 Observe the Sabbath day by keeping it holy, as the LORD your God has commanded you.
+<small><sub>**Hebrew:**</sub></small>
+[[H8104G\|שָׁמ֣֛וֹר]] [[H0853\|אֶת]][[H9014\|־]] [[H3117G\|י֥וֹם֩]] [[H9009\|הַ]][[H7676\|שַּׁבָּ֖֨ת]] [[H9005\|לְ]][[H6942G\|קַדְּשׁ֑֜]][[H9033\|וֹ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H6680\|צִוְּ]][[H9031\|ךָ֖֣]][[H9015\|׀]] [[H3068G\|יְהוָ֥֣ה]] [[H0430G\|אֱלֹהֶֽ֗י]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECALOGUE|DECALOGUE]] • [[topic LAW|LAW]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic SABBATH|SABBATH]] • [[topic SANITATION|SANITATION]] • [[topic TABLE|TABLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.11|<< Deuteronomy 5:11]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.13|Deuteronomy 5:13 >>]]</td></tr></table>
 

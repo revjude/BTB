@@ -1,10 +1,78 @@
+---
+title: 1 John 1:7
+type: Verse
+kjv: "But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin."
+bsb: "But if we walk in the light as He is in the light, we have fellowship with one another, and the blood of Jesus His Son cleanses us from all sin."
+greek: "ἐὰν δὲ ἐν τῷ φωτὶ περιπατῶμεν ὡς αὐτός ἐστιν ἐν τῷ φωτί, κοινωνίαν ἔχομεν μετ᾽ ἀλλήλων καὶ τὸ αἷμα Ἰησοῦ Χριστοῦ τοῦ υἱοῦ αὐτοῦ καθαρίζει ἡμᾶς ἀπὸ πάσης ἁμαρτίας."
+pericope: "[[1John.1.5 Walking in the Light|Walking in the Light]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 1
+book/chapter: "[[1John.1|1 John 1]]"
+chronological_order: 1161
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic CLEANLINESS|CLEANLINESS]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIGHT|LIGHT]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WALKING|WALKING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G5457]]"
+- "[[G4043]]"
+- "[[G5613]]"
+- "[[G0846]]"
+- "[[G1510]]"
+- "[[G2842]]"
+- "[[G2192]]"
+- "[[G3326]]"
+- "[[G0240]]"
+- "[[G2532]]"
+- "[[G0129G]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G5207]]"
+- "[[G2511]]"
+- "[[G3165]]"
+- "[[G0575]]"
+- "[[G3956]]"
+- "[[G0266]]"
+texts:
+- NKO
+- K
+---
+
 **1 John 1:7**<big><big>[[1John.1.5 Walking in the Light|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin.
 <small><sub>**BSB:**</sub></small>
 But if we walk in the light as He is in the light, we have fellowship with one another, and the blood of Jesus His Son cleanses us from all sin.
-<small><sub>**Literal:**</sub></small>
-If now in the light we shall walk as He himself is in the light, fellowship we have with one another and the blood of Jesus Christ the Son of Him cleanses us from all sin.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.1.6|<< 1 John 1:6]]</td><td align="center" style="border:none;">[[1John.1|1 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.1.8|1 John 1:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|ἐὰν]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G5457\|φωτὶ]]  [[G4043\|περιπατῶμεν]]  [[G5613\|ὡς]]  [[G0846\|αὐτός]]  [[G1510\|ἐστιν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G5457\|φωτί,]]  [[G2842\|κοινωνίαν]]  [[G2192\|ἔχομεν]]  [[G3326\|μετ᾽]]  [[G0240\|ἀλλήλων]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G0129G\|αἷμα]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G3588\|τοῦ]]  [[G5207\|υἱοῦ]]  [[G0846\|αὐτοῦ]]  [[G2511\|καθαρίζει]]  [[G3165\|ἡμᾶς]]  [[G0575\|ἀπὸ]]  [[G3956\|πάσης]]  [[G0266\|ἁμαρτίας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic ATONEMENT|ATONEMENT]] • [[topic BLOOD|BLOOD]] • [[topic CLEANLINESS|CLEANLINESS]] • [[topic COMMUNION|COMMUNION]] • [[topic DARKNESS|DARKNESS]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic HOLINESS|HOLINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIGHT|LIGHT]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SIN|SIN]] • [[topic WALKING|WALKING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.1.6|<< 1 John 1:6]]</td><td align="center" style="border:none;">[[1John.1|1 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.1.8|1 John 1:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

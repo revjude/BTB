@@ -1,8 +1,54 @@
+---
+title: Psalm 106:19
+type: Verse
+kjv: "They made a calf in Horeb, and worshipped the molten image."
+bsb: "At Horeb they made a calf and worshiped a molten image."
+hebrew: "יַעֲשׂוּ־ עֵ֥גֶל בְּחֹרֵ֑ב וַ֝יִּשְׁתַּחֲו֗וּ לְמַסֵּכָֽה׃"
+pericope: "[[Ps.106.1 Give Thanks to the LORD, for He Is Good|Give Thanks to the LORD, for He Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 106
+book/chapter: "[[Ps.106|Psalm 106]]"
+chronological_order: 530
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CALF|CALF]]"
+- "[[topic HOREB|HOREB]]"
+strongs:
+- "[[H6213H]]"
+- "[[H9014]]"
+- "[[H5695]]"
+- "[[H9003]]"
+- "[[H2722]]"
+- "[[H9001]]"
+- "[[H7812]]"
+- "[[H9005]]"
+- "[[H4541A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 106:19**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They made a calf in Horeb, and worshipped the molten image.
 <small><sub>**BSB:**</sub></small>
 At Horeb they made a calf and worshiped a molten image.
+<small><sub>**Hebrew:**</sub></small>
+[[H6213H\|יַעֲשׂוּ]][[H9014\|־]] [[H5695\|עֵ֥גֶל]] [[H9003\|בְּ]][[H2722\|חֹרֵ֑ב]] [[H9001\|וַ֝]][[H7812\|יִּשְׁתַּחֲו֗וּ]] [[H9005\|לְ]][[H4541A\|מַסֵּכָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALF|CALF]] • [[topic HOREB|HOREB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.18|<< Psalms 106:18]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.20|Psalms 106:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

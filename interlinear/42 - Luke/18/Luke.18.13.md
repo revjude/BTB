@@ -1,10 +1,77 @@
+---
+title: Luke 18:13
+type: Verse
+kjv: "And the publican, standing afar off, would not lift up so much as his eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner."
+bsb: "But the tax collector stood at a distance, unwilling even to lift up his eyes to heaven. Instead, he beat his breast and said, ‘God, have mercy on me, a sinner!’"
+jesus_said: "And the publican, standing afar off, would not lift up so much as his eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner."
+greek: "καὶ Ὁ δὲ τελώνης μακρόθεν ἑστὼς οὐκ ἤθελεν οὐδὲ τοὺς ὀφθαλμοὺς ἐπᾶραι εἰς τὸν οὐρανόν, ἀλλ᾽ ἔτυπτεν εἰς τὸ στῆθος αὐτοῦ λέγων· ὁ θεός, ἱλάσθητί μοι τῷ ἁμαρτωλῷ."
+pericope: "[[Luke.18.9 The Pharisee and the Tax Collector|The Pharisee and the Tax Collector]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 18
+book/chapter: "[[Luke.18|Luke 18]]"
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PUBLICANS|PUBLICANS]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G5057]]"
+- "[[G3113]]"
+- "[[G2476]]"
+- "[[G3756]]"
+- "[[G2309]]"
+- "[[G3761]]"
+- "[[G3788]]"
+- "[[G1869]]"
+- "[[G1519]]"
+- "[[G3772]]"
+- "[[G0235]]"
+- "[[G5180]]"
+- "[[G4738]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G2316]]"
+- "[[G2433]]"
+- "[[G3165]]"
+- "[[G0268]]"
+texts:
+- ko
+- NKO
+- no
+- k
+- NK(o)
+---
+
 **Luke 18:13**<big><big>[[Luke.18.9 The Pharisee and the Tax Collector|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the publican, standing afar off, would not lift up so much as [his] eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner.
 <small><sub>**BSB:**</sub></small>
 But the tax collector stood at a distance, unwilling even to lift up his eyes to heaven. Instead, he beat his breast and said, ‘God, have mercy on me, a sinner!’
-<small><sub>**Literal:**</sub></small>
-and <the> but the tax collector afar off having stood not was willing not even the eyes to lift up to <the> heaven but was striking into the breast of him saying: O God, do be merciful to me to the sinner!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.12|<< Luke 18:12]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.14|Luke 18:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G5057\|τελώνης]]  [[G3113\|μακρόθεν]]  [[G2476\|ἑστὼς]]  [[G3756\|οὐκ]]  [[G2309\|ἤθελεν]]  [[G3761\|οὐδὲ]]  [[G3588\|τοὺς]]  [[G3788\|ὀφθαλμοὺς]]  [[G1869\|ἐπᾶραι]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3772\|οὐρανόν,]]  [[G0235\|ἀλλ᾽]]  [[G5180\|ἔτυπτεν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4738\|στῆθος]]  [[G0846\|αὐτοῦ]]  [[G3004G\|λέγων·]]  [[G3588\|ὁ]]  [[G2316\|θεός,]]  [[G2433\|ἱλάσθητί]]  [[G3165\|μοι]]  [[G3588\|τῷ]]  [[G0268\|ἁμαρτωλῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PENITENT|PENITENT]] • [[topic PRAYER|PRAYER]] • [[topic PUBLICANS|PUBLICANS]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.12|<< Luke 18:12]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.14|Luke 18:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

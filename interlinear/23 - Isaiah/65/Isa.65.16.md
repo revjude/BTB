@@ -1,8 +1,63 @@
+---
+title: Isaiah 65:16
+type: Verse
+kjv: "That he who blesseth himself in the earth shall bless himself in the God of truth; and he that sweareth in the earth shall swear by the God of truth; because the former troubles are forgotten, and because they are hid from mine eyes."
+bsb: "Whoever invokes a blessing in the land will do so by the God of truth, and whoever takes an oath in the land will swear by the God of truth. For the former troubles will be forgotten and hidden from My sight."
+hebrew: "אֲשֶׁ֨ר הַמִּתְבָּרֵ֜ךְ בָּאָ֗רֶץ יִתְבָּרֵךְ֙ בֵּאלֹהֵ֣י אָמֵ֔ן וְהַנִּשְׁבָּ֣ע בָּאָ֔רֶץ יִשָּׁבַ֖ע בֵּאלֹהֵ֣י אָמֵ֑ן כִּ֣י נִשְׁכְּח֗וּ הַצָּרוֹת֙ הָרִ֣אשֹׁנ֔וֹת וְכִ֥י נִסְתְּר֖וּ מֵעֵינָֽי׃"
+pericope: "[[Isa.65.1 Judgments and Promises|Judgments and Promises]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 65
+book/chapter: "[[Isa.65|Isaiah 65]]"
+chronological_order: 704
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[H0834A]]"
+- "[[H9009]]"
+- "[[H1288]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H0430G]]"
+- "[[H0543]]"
+- "[[H9002]]"
+- "[[H7650]]"
+- "[[H3588A]]"
+- "[[H7911]]"
+- "[[H6869B]]"
+- "[[H7223H]]"
+- "[[H5641]]"
+- "[[H9006]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 65:16**<big><big>[[Isa.65.1 Judgments and Promises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That he who blesseth himself in the earth shall bless himself in the God of truth; and he that sweareth in the earth shall swear by the God of truth; because the former troubles are forgotten, and because they are hid from mine eyes.
 <small><sub>**BSB:**</sub></small>
 Whoever invokes a blessing in the land will do so by the God of truth, and whoever takes an oath in the land will swear by the God of truth. For the former troubles will be forgotten and hidden from My sight.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֨ר]] [[H9009\|הַ]][[H1288\|מִּתְבָּרֵ֜ךְ]] [[H9003\|בָּ]][[H0776G\|אָ֗רֶץ]] [[H1288\|יִתְבָּרֵךְ֙]] [[H9003\|בֵּ]][[H0430G\|אלֹהֵ֣י]] [[H0543\|אָמֵ֔ן]] [[H9002\|וְ]][[H9009\|הַ]][[H7650\|נִּשְׁבָּ֣ע]] [[H9003\|בָּ]][[H0776G\|אָ֔רֶץ]] [[H7650\|יִשָּׁבַ֖ע]] [[H9003\|בֵּ]][[H0430G\|אלֹהֵ֣י]] [[H0543\|אָמֵ֑ן]] [[H3588A\|כִּ֣י]] [[H7911\|נִשְׁכְּח֗וּ]] [[H9009\|הַ]][[H6869B\|צָּרוֹת֙]] [[H9009\|הָ]][[H7223H\|רִ֣אשֹׁנ֔וֹת]] [[H9002\|וְ]][[H3588A\|כִ֥י]] [[H5641\|נִסְתְּר֖וּ]] [[H9006\|מֵ]][[H5869A\|עֵינָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic TRUTH|TRUTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.15|<< Isaiah 65:15]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.17|Isaiah 65:17 >>]]</td></tr></table>
 

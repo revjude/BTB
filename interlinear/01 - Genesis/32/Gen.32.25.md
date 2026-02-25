@@ -1,8 +1,66 @@
+---
+title: Genesis 32:25
+type: Verse
+kjv: "And when he saw that he prevailed not against him, he touched the hollow of his thigh; and the hollow of Jacob’s thigh was out of joint, as he wrestled with him."
+bsb: "When the man saw that he could not overpower Jacob, he struck the socket of Jacob’s hip and dislocated it as they wrestled."
+hebrew: "וַיַּ֗רְא כִּ֣י לֹ֤א יָכֹל֙ ל֔וֹ וַיִּגַּ֖ע בְּכַף־ יְרֵכ֑וֹ וַתֵּ֙קַע֙ כַּף־ יֶ֣רֶךְ יַעֲקֹ֔ב בְּהֵֽאָבְק֖וֹ עִמּֽוֹ׃"
+pericope: "[[Gen.32.22 Jacob Wrestles with God|Jacob Wrestles with God]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 32
+book/chapter: "[[Gen.32|Genesis 32]]"
+chronological_order: 74
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic WRESTLING|WRESTLING]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5060]]"
+- "[[H9003]]"
+- "[[H3709I]]"
+- "[[H9014]]"
+- "[[H3409]]"
+- "[[H9023]]"
+- "[[H3363]]"
+- "[[H3290]]"
+- "[[H0079]]"
+- "[[H9043]]"
+- "[[H5973A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 32:25**<big><big>[[Gen.32.22 Jacob Wrestles with God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he saw that he prevailed not against him, he touched the hollow of his thigh; and the hollow of Jacob’s thigh was out of joint, as he wrestled with him.
 <small><sub>**BSB:**</sub></small>
 When the man saw that he could not overpower Jacob, he struck the socket of Jacob’s hip and dislocated it as they wrestled.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֗רְא]] [[H3588A\|כִּ֣י]] [[H3808\|לֹ֤א]] [[H3201\|יָכֹל֙]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H5060\|יִּגַּ֖ע]] [[H9003\|בְּ]][[H3709I\|כַף]][[H9014\|־]] [[H3409\|יְרֵכ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H3363\|תֵּ֙קַע֙]] [[H3709I\|כַּף]][[H9014\|־]] [[H3409\|יֶ֣רֶךְ]] [[H3290\|יַעֲקֹ֔ב]] [[H9003\|בְּ]][[H0079\|הֵֽאָבְק֖]][[H9043\|וֹ]] [[H5973A\|עִמּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic PRAYER|PRAYER]] • [[topic RELIGION|RELIGION]] • [[topic WRESTLING|WRESTLING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.24|<< Genesis 32:24]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.26|Genesis 32:26 >>]]</td></tr></table>
 

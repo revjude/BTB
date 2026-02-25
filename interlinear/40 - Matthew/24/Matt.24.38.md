@@ -1,10 +1,71 @@
+---
+title: Matthew 24:38
+type: Verse
+kjv: "For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark,"
+bsb: "For in the days before the flood, people were eating and drinking, marrying and giving in marriage, up to the day Noah entered the ark."
+jesus_said: "For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark,"
+greek: "ὡς γὰρ ἦσαν ἐν ταῖς ἡμέραις ἐκείναις ταῖς πρὸ τοῦ κατακλυσμοῦ, τρώγοντες καὶ πίνοντες, γαμοῦντες καὶ γαμίζοντες, ἄχρι ἧς ἡμέρας εἰσῆλθεν Νῶε εἰς τὴν κιβωτόν,"
+pericope: "[[Matt.24.36 Readiness at Any Hour|Readiness at Any Hour]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 24
+book/chapter: "[[Matt.24|Matthew 24]]"
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANTEDILUVIANS|ANTEDILUVIANS]]"
+- "[[topic ARK|ARK]]"
+- "[[topic EARTH|EARTH]]"
+- "[[topic FLOOD|FLOOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic NOAH|NOAH]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G5613]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1565]]"
+- "[[G4253]]"
+- "[[G2627]]"
+- "[[G5176]]"
+- "[[G2532]]"
+- "[[G4095]]"
+- "[[G1060]]"
+- "[[G1061]]"
+- "[[G0891]]"
+- "[[G3739]]"
+- "[[G1525]]"
+- "[[G3575]]"
+- "[[G1519]]"
+- "[[G2787H]]"
+texts:
+- N(k)O
+- NKO
+- no
+---
+
 **Matthew 24:38**<big><big>[[Matt.24.36 Readiness at Any Hour|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark,
 <small><sub>**BSB:**</sub></small>
 For in the days before the flood, people were eating and drinking, marrying and giving in marriage, up to the day Noah entered the ark.
-<small><sub>**Literal:**</sub></small>
-As for they were in the days those <the> before the flood, eating and drinking, marrying and giving in marriage, until that day entered Noah into the ark,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.37|<< Matthew 24:37]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.39|Matthew 24:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G1063\|γὰρ]]  [[G1510\|ἦσαν]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις]]  [[G1565\|ἐκείναις]]  [[G3588\|ταῖς]]  [[G4253\|πρὸ]]  [[G3588\|τοῦ]]  [[G2627\|κατακλυσμοῦ,]]  [[G5176\|τρώγοντες]]  [[G2532\|καὶ]]  [[G4095\|πίνοντες,]]  [[G1060\|γαμοῦντες]]  [[G2532\|καὶ]]  [[G1061\|γαμίζοντες,]]  [[G0891\|ἄχρι]]  [[G3739\|ἧς]]  [[G2250\|ἡμέρας]]  [[G1525\|εἰσῆλθεν]]  [[G3575\|Νῶε]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2787H\|κιβωτόν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTEDILUVIANS|ANTEDILUVIANS]] • [[topic ARK|ARK]] • [[topic EARTH|EARTH]] • [[topic FLOOD|FLOOD]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic NOAH|NOAH]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.37|<< Matthew 24:37]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.39|Matthew 24:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,72 @@
+---
+title: Numbers 6:11
+type: Verse
+kjv: "And the priest shall offer the one for a sin offering, and the other for a burnt offering, and make an atonement for him, for that he sinned by the dead, and shall hallow his head that same day."
+bsb: "And the priest is to offer one as a sin offering and the other as a burnt offering to make atonement for him, because he has sinned by being in the presence of the dead body. On that day he must consecrate his head again."
+hebrew: "וְעָשָׂ֣ה הַכֹּהֵ֗ן אֶחָ֤ד לְחַטָּאת֙ וְאֶחָ֣ד לְעֹלָ֔ה וְכִפֶּ֣ר עָלָ֔יו מֵאֲשֶׁ֥ר חָטָ֖א עַל־ הַנָּ֑פֶשׁ וְקִדַּ֥שׁ אֶת־ רֹאשׁ֖וֹ בַּיּ֥וֹם הַהֽוּא׃"
+pericope: "[[Num.6.1 The Nazirite Vow|The Nazirite Vow]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 6
+book/chapter: "[[Num.6|Numbers 6]]"
+chronological_order: 165
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic NAZARITE|NAZARITE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213I]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H2403H]]"
+- "[[H9002]]"
+- "[[H5930A]]"
+- "[[H3722A]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H0834C]]"
+- "[[H2398]]"
+- "[[H9014]]"
+- "[[H5315M]]"
+- "[[H6942G]]"
+- "[[H0853]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 6:11**<big><big>[[Num.6.1 The Nazirite Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall offer the one for a sin offering, and the other for a burnt offering, and make an atonement for him, for that he sinned by the dead, and shall hallow his head that same day.
 <small><sub>**BSB:**</sub></small>
 And the priest is to offer one as a sin offering and the other as a burnt offering to make atonement for him, because he has sinned by being in the presence of the dead body. On that day he must consecrate his head again.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213I\|עָשָׂ֣ה]] [[H9009\|הַ]][[H3548\|כֹּהֵ֗ן]] [[H0259\|אֶחָ֤ד]] [[H9005\|לְ]][[H2403H\|חַטָּאת֙]] [[H9002\|וְ]][[H0259\|אֶחָ֣ד]] [[H9005\|לְ]][[H5930A\|עֹלָ֔ה]] [[H9001\|וְ]][[H3722A\|כִפֶּ֣ר]] [[H5921A\|עָלָ֔י]][[H9033\|ו]] [[H9006\|מֵ]][[H0834C\|אֲשֶׁ֥ר]] [[H2398\|חָטָ֖א]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H5315M\|נָּ֑פֶשׁ]] [[H9001\|וְ]][[H6942G\|קִדַּ֥שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H7218A\|רֹאשׁ֖]][[H9023\|וֹ]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic FRATERNITY|FRATERNITY]] • [[topic NAZARITE|NAZARITE]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.10|<< Numbers 6:10]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.12|Numbers 6:12 >>]]</td></tr></table>
 

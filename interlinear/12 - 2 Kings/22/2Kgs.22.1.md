@@ -1,8 +1,66 @@
+---
+title: 2 Kings 22:1
+type: Verse
+kjv: "Josiah was eight years old when he began to reign, and he reigned thirty and one years in Jerusalem. And his mother’s name was Jedidah, the daughter of Adaiah of Boscath."
+bsb: "Josiah was eight years old when he became king, and he reigned in Jerusalem thirty-one years. His mother’s name was Jedidah daughter of Adaiah; she was from Bozkath."
+hebrew: "בֶּן־ שְׁמֹנֶ֤ה שָׁנָה֙ יֹאשִׁיָּ֣הוּ בְמָלְכ֔וֹ וּשְׁלֹשִׁ֤ים וְאַחַת֙ שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלִָ֑ם וְשֵׁ֣ם אִמּ֔וֹ יְדִידָ֥ה בַת־ עֲדָ֖יָה מִבָּצְקַֽת׃"
+pericope: "[[2Kgs.22.1 Josiah Reigns in Judah|Josiah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 22
+book/chapter: "[[2Kgs.22|2 Kings 22]]"
+chronological_order: 711
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ADAIAH|ADAIAH]]"
+- "[[topic BOZKATH|BOZKATH]]"
+- "[[topic JEDIDAH|JEDIDAH]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+- "[[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]]"
+strongs:
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H8083]]"
+- "[[H8141]]"
+- "[[H2977G]]"
+- "[[H9003]]"
+- "[[H4427A]]"
+- "[[H9043]]"
+- "[[H9002]]"
+- "[[H7970]]"
+- "[[H0259]]"
+- "[[H3389]]"
+- "[[H8034]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H3040]]"
+- "[[H1323G]]"
+- "[[H5718G]]"
+- "[[H9006]]"
+- "[[H1218]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 22:1**<big><big>[[2Kgs.22.1 Josiah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Josiah [was] eight years old when he began to reign, and he reigned thirty and one years in Jerusalem. And his mother’s name [was] Jedidah, the daughter of Adaiah of Boscath.
 <small><sub>**BSB:**</sub></small>
 Josiah was eight years old when he became king, and he reigned in Jerusalem thirty-one years. His mother’s name was Jedidah daughter of Adaiah; she was from Bozkath.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121L\|בֶּן]][[H9014\|־]] [[H8083\|שְׁמֹנֶ֤ה]] [[H8141\|שָׁנָה֙]] [[H2977G\|יֹאשִׁיָּ֣הוּ]] [[H9003\|בְ]][[H4427A\|מָלְכ֔]][[H9043\|וֹ]] [[H9002\|וּ]][[H7970\|שְׁלֹשִׁ֤ים]] [[H9002\|וְ]][[H0259\|אַחַת֙]] [[H8141\|שָׁנָ֔ה]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H8034\|שֵׁ֣ם]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H3040\|יְדִידָ֥ה]] [[H1323G\|בַת]][[H9014\|־]] [[H5718G\|עֲדָ֖יָה]] [[H9006\|מִ]][[H1218\|בָּצְקַֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAIAH|ADAIAH]] • [[topic BOZKATH|BOZKATH]] • [[topic JEDIDAH|JEDIDAH]] • [[topic JOSIAH|JOSIAH]] • [[topic SCRIBE (S)|SCRIBE (S)]] • [[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.22.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.21.26|<< 2 Kings 21:26]]</td><td align="center" style="border:none;">[[2Kgs.22|2 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.22.2|2 Kings 22:2 >>]]</td></tr></table>
 

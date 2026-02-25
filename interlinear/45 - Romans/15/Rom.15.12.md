@@ -1,10 +1,57 @@
+---
+title: Romans 15:12
+type: Verse
+kjv: "And again, Esaias saith, There shall be a root of Jesse, and he that shall rise to reign over the Gentiles; in him shall the Gentiles trust."
+bsb: "And once more, Isaiah says: “The Root of Jesse will appear, One who will arise to rule over the Gentiles; in Him the Gentiles will put their hope.”"
+greek: "καὶ πάλιν Ἠσαΐας λέγει· ἔσται ἡ ῥίζα τοῦ Ἰεσσαί, καὶ ὁ ἀνιστάμενος ἄρχειν ἐθνῶν, ἐπ᾽ αὐτῷ ἔθνη ἐλπιοῦσιν.¶"
+pericope: "[[Rom.15.7 Christ the Servant of Jews and Gentiles|Christ the Servant of Jews and Gentiles]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 15
+book/chapter: "[[Rom.15|Romans 15]]"
+chronological_order: 1101
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3825]]"
+- "[[G2268]]"
+- "[[G3004G]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G4491]]"
+- "[[G2421]]"
+- "[[G0450]]"
+- "[[G0757]]"
+- "[[G1484]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G1679]]"
+texts:
+- NKO
+---
+
 **Romans 15:12**<big><big>[[Rom.15.7 Christ the Servant of Jews and Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And again, Esaias saith, There shall be a root of Jesse, and he that shall rise to reign over the Gentiles; in him shall the Gentiles trust.
 <small><sub>**BSB:**</sub></small>
 And once more, Isaiah says: “The Root of Jesse will appear, One who will arise to rule over the Gentiles; in Him the Gentiles will put their hope.”
-<small><sub>**Literal:**</sub></small>
-And again Isaiah says: There will be the root <the> of Jesse, and the [One] arising to rule over Gentiles, in Him [the] Gentiles will hope.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.11|<< Romans 15:11]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.13|Romans 15:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3825\|πάλιν]]  [[G2268\|Ἠσαΐας]]  [[G3004G\|λέγει·]]  [[G1510\|ἔσται]]  [[G3588\|ἡ]]  [[G4491\|ῥίζα]]  [[G3588\|τοῦ]]  [[G2421\|Ἰεσσαί,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G0450\|ἀνιστάμενος]]  [[G0757\|ἄρχειν]]  [[G1484\|ἐθνῶν,]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτῷ]]  [[G1484\|ἔθνη]]  [[G1679\|ἐλπιοῦσιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.11|<< Romans 15:11]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.13|Romans 15:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 15:12** is...
 > $\quad$ referencing: [[LXX.Isa.11.10|Isa 11:10]]

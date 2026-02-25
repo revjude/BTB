@@ -1,8 +1,64 @@
+---
+title: 1 Kings 8:6
+type: Verse
+kjv: "And the priests brought in the ark of the covenant of the LORD unto his place, into the oracle of the house, to the most holy place, even under the wings of the cherubims."
+bsb: "Then the priests brought the ark of the covenant of the LORD to its place in the inner sanctuary of the temple, the Most Holy Place, beneath the wings of the cherubim."
+hebrew: "וַיָּבִ֣אוּ הַ֠כֹּהֲנִים אֶת־ אֲר֨וֹן בְּרִית־ יְהוָ֧ה אֶל־ מְקוֹמ֛וֹ אֶל־ דְּבִ֥יר הַבַּ֖יִת אֶל־ קֹ֣דֶשׁ הַקֳּדָשִׁ֑ים אֶל־ תַּ֖חַת כַּנְפֵ֥י הַכְּרוּבִֽים׃"
+pericope: "[[1Kgs.8.1 The Ark Enters the Temple|The Ark Enters the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0727]]"
+- "[[H1285]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H4725]]"
+- "[[H9023]]"
+- "[[H1687]]"
+- "[[H1004B]]"
+- "[[H6944H]]"
+- "[[H8478G]]"
+- "[[H3671]]"
+- "[[H3742]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:6**<big><big>[[1Kgs.8.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priests brought in the ark of the covenant of the LORD unto his place, into the oracle of the house, to the most holy [place, even] under the wings of the cherubims.
 <small><sub>**BSB:**</sub></small>
 Then the priests brought the ark of the covenant of the LORD to its place in the inner sanctuary of the temple, the Most Holy Place, beneath the wings of the cherubim.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935P\|יָּבִ֣אוּ]] [[H9009\|הַ֠]][[H3548\|כֹּהֲנִים]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲר֨וֹן]] [[H1285\|בְּרִית]][[H9014\|־]] [[H3068G\|יְהוָ֧ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4725\|מְקוֹמ֛]][[H9023\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H1687\|דְּבִ֥יר]] [[H9009\|הַ]][[H1004B\|בַּ֖יִת]] [[H0413\|אֶל]][[H9014\|־]] [[H6944H\|קֹ֣דֶשׁ]] [[H9009\|הַ]][[H6944H\|קֳּדָשִׁ֑ים]] [[H0413\|אֶל]][[H9014\|־]] [[H8478G\|תַּ֖חַת]] [[H3671\|כַּנְפֵ֥י]] [[H9009\|הַ]][[H3742\|כְּרוּבִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic CHERUBIM|CHERUBIM]] • [[topic TEMPLE|TEMPLE]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.5|<< 1 Kings 8:5]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.7|1 Kings 8:7 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Rules about Valuations
+type: Pericope
 pericope: "[[Lev.27.1 Rules about Valuations|Rules about Valuations]]"
-verse_count: 29
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 27
 book/chapter: "[[Lev.27|Leviticus 27]]"
-genre:
+chronological_order: 159
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 29
 verses:
 - "[[Lev.27.1]]"
 - "[[Lev.27.2]]"
@@ -52,7 +59,7 @@ verses:
 - "[[Lev.27.29]]"
 ---
 
-[[Lev.27|Leviticus 27:1 - Leviticus 27:29]]
+<small>[[Lev.27|Leviticus 27:1-29]]</small>
 *Rules about Valuations*
 
 [[Lev.27.1|1]] And the LORD spake unto Moses, saying,

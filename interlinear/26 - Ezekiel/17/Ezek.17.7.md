@@ -1,8 +1,76 @@
+---
+title: Ezekiel 17:7
+type: Verse
+kjv: "There was also another great eagle with great wings and many feathers: and, behold, this vine did bend her roots toward him, and shot forth her branches toward him, that he might water it by the furrows of her plantation."
+bsb: "But there was another great eagle with great wings and many feathers. And behold, this vine bent its roots toward him. It stretched out its branches to him from its planting bed, so that he might water it."
+hebrew: "וַיְהִ֤י נֶֽשֶׁר־ אֶחָד֙ גָּד֔וֹל גְּד֥וֹל כְּנָפַ֖יִם וְרַב־ נוֹצָ֑ה וְהִנֵּה֩ הַגֶּ֨פֶן הַזֹּ֜את כָּֽפְנָ֧ה שָׁרֳשֶׁ֣יהָ עָלָ֗יו וְדָֽלִיּוֹתָיו֙ שִׁלְחָה־ לּ֔וֹ לְהַשְׁק֣וֹת אוֹתָ֔הּ מֵעֲרֻג֖וֹת מַטָּעָֽהּ׃"
+pericope: "[[Ezek.17.1 The Parable of Two Eagles and a Vine|The Parable of Two Eagles and a Vine]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 17
+book/chapter: "[[Ezek.17|Ezekiel 17]]"
+chronological_order: 808
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic VINE|VINE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H5404]]"
+- "[[H9014]]"
+- "[[H0259]]"
+- "[[H1419A]]"
+- "[[H3671]]"
+- "[[H9002]]"
+- "[[H7227A]]"
+- "[[H5133]]"
+- "[[H2009]]"
+- "[[H9009]]"
+- "[[H1612]]"
+- "[[H2063]]"
+- "[[H3719]]"
+- "[[H8328]]"
+- "[[H9024]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H1808]]"
+- "[[H9023]]"
+- "[[H7971G]]"
+- "[[H9005]]"
+- "[[H8248G]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H9006]]"
+- "[[H6170]]"
+- "[[H4302]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 17:7**<big><big>[[Ezek.17.1 The Parable of Two Eagles and a Vine|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There was also another great eagle with great wings and many feathers: and, behold, this vine did bend her roots toward him, and shot forth her branches toward him, that he might water it by the furrows of her plantation.
 <small><sub>**BSB:**</sub></small>
 But there was another great eagle with great wings and many feathers. And behold, this vine bent its roots toward him. It stretched out its branches to him from its planting bed, so that he might water it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H5404\|נֶֽשֶׁר]][[H9014\|־]] [[H0259\|אֶחָד֙]] [[H1419A\|גָּד֔וֹל]] [[H1419A\|גְּד֥וֹל]] [[H3671\|כְּנָפַ֖יִם]] [[H9002\|וְ]][[H7227A\|רַב]][[H9014\|־]] [[H5133\|נוֹצָ֑ה]] [[H9002\|וְ]][[H2009\|הִנֵּה֩]] [[H9009\|הַ]][[H1612\|גֶּ֨פֶן]] [[H9009\|הַ]][[H2063\|זֹּ֜את]] [[H3719\|כָּֽפְנָ֧ה]] [[H8328\|שָׁרֳשֶׁ֣י]][[H9024\|הָ]] [[H5921A\|עָלָ֗י]][[H9033\|ו]] [[H9002\|וְ]][[H1808\|דָֽלִיּוֹתָי]][[H9023\|ו֙]] [[H7971G\|שִׁלְחָה]][[H9014\|־]] [[H9005\|לּ֔]][[H9033\|וֹ]] [[H9005\|לְ]][[H8248G\|הַשְׁק֣וֹת]] [[H0853\|אוֹתָ֔]][[H9034\|הּ]] [[H9006\|מֵ]][[H6170\|עֲרֻג֖וֹת]] [[H4302\|מַטָּעָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZEKIEL|EZEKIEL]] • [[topic GRAPE|GRAPE]] • [[topic PARABLES|PARABLES]] • [[topic VINE|VINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.17.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.6|<< Ezekiel 17:6]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.8|Ezekiel 17:8 >>]]</td></tr></table>
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Sinful Woman Anoints Jesus
+type: Pericope
 pericope: "[[Luke.7.36 A Sinful Woman Anoints Jesus|A Sinful Woman Anoints Jesus]]"
-verse_count: 15
+original_language: Greek
 testament: New
 book: Luke
 chapter: 7
 book/chapter: "[[Luke.7|Luke 7]]"
-genre:
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 15
 verses:
 - "[[Luke.7.36]]"
 - "[[Luke.7.37]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Luke.7.50]]"
 ---
 
-[[Luke.7|Luke 7:36 - Luke 7:50]]
+<small>[[Luke.7|Luke 7:36-50]]</small>
 *A Sinful Woman Anoints Jesus*
 
 [[Luke.7.36|36]] And one of the Pharisees desired him that he would eat with him. And he went into the Pharisee’s house, and sat down to meat.

@@ -1,8 +1,71 @@
+---
+title: Numbers 11:10
+type: Verse
+kjv: "Then Moses heard the people weep throughout their families, every man in the door of his tent: and the anger of the LORD was kindled greatly; Moses also was displeased."
+bsb: "Then Moses heard the people of family after family weeping at the entrances to their tents, and the anger of the LORD was kindled greatly, and Moses was also displeased."
+hebrew: "וַיִּשְׁמַ֨ע מֹשֶׁ֜ה אֶת־ הָעָ֗ם בֹּכֶה֙ לְמִשְׁפְּחֹתָ֔יו אִ֖ישׁ לְפֶ֣תַח אָהֳל֑וֹ וַיִּֽחַר־ אַ֤ף יְהוָה֙ מְאֹ֔ד וּבְעֵינֵ֥י מֹשֶׁ֖ה רָֽע׃"
+pericope: "[[Num.11.10 The Complaint of Moses|The Complaint of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 11
+book/chapter: "[[Num.11|Numbers 11]]"
+chronological_order: 171
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic MANNA|MANNA]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H4872]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H1058]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H9023]]"
+- "[[H0376I]]"
+- "[[H6607]]"
+- "[[H0168G]]"
+- "[[H2734]]"
+- "[[H0639G]]"
+- "[[H3068G]]"
+- "[[H3966]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H7489A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 11:10**<big><big>[[Num.11.10 The Complaint of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Moses heard the people weep throughout their families, every man in the door of his tent: and the anger of the LORD was kindled greatly; Moses also was displeased.
 <small><sub>**BSB:**</sub></small>
 Then Moses heard the people of family after family weeping at the entrances to their tents, and the anger of the LORD was kindled greatly, and Moses was also displeased.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֨ע]] [[H4872\|מֹשֶׁ֜ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֗ם]] [[H1058\|בֹּכֶה֙]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָ֔י]][[H9023\|ו]] [[H0376I\|אִ֖ישׁ]] [[H9005\|לְ]][[H6607\|פֶ֣תַח]] [[H0168G\|אָהֳל֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H2734\|יִּֽחַר]][[H9014\|־]] [[H0639G\|אַ֤ף]] [[H3068G\|יְהוָה֙]] [[H3966\|מְאֹ֔ד]] [[H9002\|וּ]][[H9003\|בְ]][[H5869I\|עֵינֵ֥י]] [[H4872\|מֹשֶׁ֖ה]] [[H7489A\|רָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic MANNA|MANNA]] • [[topic MOSES|MOSES]] • [[topic MURMURING|MURMURING]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.9|<< Numbers 11:9]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.11|Numbers 11:11 >>]]</td></tr></table>
 

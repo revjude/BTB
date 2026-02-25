@@ -1,8 +1,58 @@
+---
+title: Joshua 19:15
+type: Verse
+kjv: "And Kattath, and Nahallal, and Shimron, and Idalah, and Bethlehem: twelve cities with their villages."
+bsb: "It also included Kattath, Nahalal, Shimron, Idalah, and Bethlehem. There were twelve cities, along with their villages."
+hebrew: "וְקַטָּ֤ת וְנַֽהֲלָל֙ וְשִׁמְר֔וֹן וְיִדְאֲלָ֖ה וּבֵ֣ית לָ֑חֶם עָרִ֥ים שְׁתֵּים־ עֶשְׂרֵ֖ה וְחַצְרֵיהֶֽן׃"
+pericope: "[[Josh.19.10 Zebulun’s Inheritance|Zebulun’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 19
+book/chapter: "[[Josh.19|Joshua 19]]"
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BETHLEHEM|BETHLEHEM]]"
+- "[[topic IDALAH|IDALAH]]"
+- "[[topic KATTATH|KATTATH]]"
+- "[[topic NAHALLAL|NAHALLAL]]"
+- "[[topic SHIMRON|SHIMRON]]"
+- "[[topic ZEBULUN|ZEBULUN]]"
+strongs:
+- "[[H9002]]"
+- "[[H7005]]"
+- "[[H5096]]"
+- "[[H8110A]]"
+- "[[H3030]]"
+- "[[H1035H]]"
+- "[[H5892B]]"
+- "[[H8147]]"
+- "[[H9014]]"
+- "[[H6240]]"
+- "[[H2691B]]"
+- "[[H9029]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 19:15**<big><big>[[Josh.19.10 Zebulun’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Kattath, and Nahallal, and Shimron, and Idalah, and Bethlehem: twelve cities with their villages.
 <small><sub>**BSB:**</sub></small>
 It also included Kattath, Nahalal, Shimron, Idalah, and Bethlehem. There were twelve cities, along with their villages.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7005\|קַטָּ֤ת]] [[H9002\|וְ]][[H5096\|נַֽהֲלָל֙]] [[H9002\|וְ]][[H8110A\|שִׁמְר֔וֹן]] [[H9002\|וְ]][[H3030\|יִדְאֲלָ֖ה]] [[H9002\|וּ]][[H1035H\|בֵ֣ית]] [[H1035H\|לָ֑חֶם]] [[H5892B\|עָרִ֥ים]] [[H8147\|שְׁתֵּים]][[H9014\|־]] [[H6240\|עֶשְׂרֵ֖ה]] [[H9002\|וְ]][[H2691B\|חַצְרֵי]][[H9029\|הֶֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHLEHEM|BETHLEHEM]] • [[topic IDALAH|IDALAH]] • [[topic KATTATH|KATTATH]] • [[topic NAHALLAL|NAHALLAL]] • [[topic SHIMRON|SHIMRON]] • [[topic ZEBULUN|ZEBULUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.14|<< Joshua 19:14]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.16|Joshua 19:16 >>]]</td></tr></table>
 

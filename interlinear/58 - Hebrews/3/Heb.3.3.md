@@ -1,10 +1,58 @@
+---
+title: Hebrews 3:3
+type: Verse
+kjv: "For this man was counted worthy of more glory than Moses, inasmuch as he who hath builded the house hath more honour than the house."
+bsb: "For Jesus has been counted worthy of greater glory than Moses, just as the builder of a house has greater honor than the house itself."
+greek: "πλείονος γὰρ οὗτος δόξης παρὰ Μωϋσῆν ἠξίωται, καθ᾽ ὅσον πλείονα τιμὴν ἔχει τοῦ οἴκου ὁ κατασκευάσας αὐτόν·"
+pericope: "[[Heb.3.1 Jesus Our Apostle and High Priest|Jesus Our Apostle and High Priest]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 3
+book/chapter: "[[Heb.3|Hebrews 3]]"
+chronological_order: 1142
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ARCHITECTURE|ARCHITECTURE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G4119]]"
+- "[[G1063]]"
+- "[[G3778]]"
+- "[[G1391]]"
+- "[[G3844]]"
+- "[[G3475]]"
+- "[[G0515]]"
+- "[[G2596]]"
+- "[[G3745]]"
+- "[[G5092]]"
+- "[[G2192]]"
+- "[[G3588]]"
+- "[[G3624G]]"
+- "[[G2680]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Hebrews 3:3**<big><big>[[Heb.3.1 Jesus Our Apostle and High Priest|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For this [man] was counted worthy of more glory than Moses, inasmuch as he who hath builded the house hath more honour than the house.
 <small><sub>**BSB:**</sub></small>
 For Jesus has been counted worthy of greater glory than Moses, just as the builder of a house has greater honor than the house itself.
-<small><sub>**Literal:**</sub></small>
-Of greater for He glory than Moses has been counted worthy, by so much as greater honor has than the house [itself] the [one] having built it;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.2|<< Hebrews 3:2]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.4|Hebrews 3:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4119\|πλείονος]]  [[G1063\|γὰρ]]  [[G3778\|οὗτος]]  [[G1391\|δόξης]]  [[G3844\|παρὰ]]  [[G3475\|Μωϋσῆν]]  [[G0515\|ἠξίωται,]]  [[G2596\|καθ᾽]]  [[G3745\|ὅσον]]  [[G4119\|πλείονα]]  [[G5092\|τιμὴν]]  [[G2192\|ἔχει]]  [[G3588\|τοῦ]]  [[G3624G\|οἴκου]]  [[G3588\|ὁ]]  [[G2680\|κατασκευάσας]]  [[G0846\|αὐτόν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARCHITECTURE|ARCHITECTURE]] • [[topic CHURCH|CHURCH]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.2|<< Hebrews 3:2]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.4|Hebrews 3:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

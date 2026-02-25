@@ -1,8 +1,64 @@
+---
+title: Daniel 11:8
+type: Verse
+kjv: "And shall also carry captives into Egypt their gods, with their princes, and with their precious vessels of silver and of gold; and he shall continue more years than the king of the north."
+bsb: "He will take even their gods captive to Egypt, with their metal images and their precious vessels of silver and gold. For some years he will stay away from the king of the North,"
+hebrew: "וְגַ֣ם אֱֽלֹהֵיהֶ֡ם עִם־ נְסִֽכֵיהֶם֩ עִם־ כְּלֵ֨י חֶמְדָּתָ֜ם כֶּ֧סֶף וְזָהָ֛ב בַּשְּׁבִ֖י יָבִ֣א מִצְרָ֑יִם וְהוּא֙ שָׁנִ֣ים יַעֲמֹ֔ד מִמֶּ֖לֶךְ הַצָּפֽוֹן׃"
+pericope: "[[Dan.11.1 Kings of the South and North|Kings of the South and North]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic SILVER|SILVER]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H0430]]"
+- "[[H9028]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H5257A]]"
+- "[[H3627]]"
+- "[[H2532A]]"
+- "[[H3701G]]"
+- "[[H2091]]"
+- "[[H9003]]"
+- "[[H7628A]]"
+- "[[H0935P]]"
+- "[[H4714G]]"
+- "[[H1931]]"
+- "[[H8141]]"
+- "[[H5975G]]"
+- "[[H9006]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H6828G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 11:8**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And shall also carry captives into Egypt their gods, with their princes, [and] with their precious vessels of silver and of gold; and he shall continue [more] years than the king of the north.
 <small><sub>**BSB:**</sub></small>
 He will take even their gods captive to Egypt, with their metal images and their precious vessels of silver and gold. For some years he will stay away from the king of the North,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַ֣ם]] [[H0430\|אֱֽלֹהֵי]][[H9028\|הֶ֡ם]] [[H5973A\|עִם]][[H9014\|־]] [[H5257A\|נְסִֽכֵי]][[H9028\|הֶם֩]] [[H5973A\|עִם]][[H9014\|־]] [[H3627\|כְּלֵ֨י]] [[H2532A\|חֶמְדָּתָ֜]][[H9028\|ם]] [[H3701G\|כֶּ֧סֶף]] [[H9002\|וְ]][[H2091\|זָהָ֛ב]] [[H9003\|בַּ]][[H7628A\|שְּׁבִ֖י]] [[H0935P\|יָבִ֣א]] [[H4714G\|מִצְרָ֑יִם]] [[H9002\|וְ]][[H1931\|הוּא֙]] [[H8141\|שָׁנִ֣ים]] [[H5975G\|יַעֲמֹ֔ד]] [[H9006\|מִ]][[H4428G\|מֶּ֖לֶךְ]] [[H9009\|הַ]][[H6828G\|צָּפֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SILVER|SILVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.7|<< Daniel 11:7]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.9|Daniel 11:9 >>]]</td></tr></table>
 

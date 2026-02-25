@@ -1,8 +1,71 @@
+---
+title: Exodus 13:8
+type: Verse
+kjv: "And thou shalt shew thy son in that day, saying, This is done because of that which the LORD did unto me when I came forth out of Egypt."
+bsb: "And on that day you are to explain to your son, ‘This is because of what the LORD did for me when I came out of Egypt.’"
+hebrew: "וְהִגַּדְתָּ֣ לְבִנְךָ֔ בַּיּ֥וֹם הַה֖וּא לֵאמֹ֑ר בַּעֲב֣וּר זֶ֗ה עָשָׂ֤ה יְהוָה֙ לִ֔י בְּצֵאתִ֖י מִמִּצְרָֽיִם׃"
+pericope: "[[Exod.13.1 The Dedication of the Firstborn|The Dedication of the Firstborn]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 13
+book/chapter: "[[Exod.13|Exodus 13]]"
+chronological_order: 105
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FRONTLETS|FRONTLETS]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H0559]]"
+- "[[H5668]]"
+- "[[H2088]]"
+- "[[H6213A]]"
+- "[[H3068G]]"
+- "[[H9030]]"
+- "[[H3318G]]"
+- "[[H9040]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 13:8**<big><big>[[Exod.13.1 The Dedication of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt shew thy son in that day, saying, [This is done] because of that [which] the LORD did unto me when I came forth out of Egypt.
 <small><sub>**BSB:**</sub></small>
 And on that day you are to explain to your son, ‘This is because of what the LORD did for me when I came out of Egypt.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5046\|הִגַּדְתָּ֣]] [[H9005\|לְ]][[H1121A\|בִנְ]][[H9021\|ךָ֔]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H1931\|ה֖וּא]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H9003\|בַּ]][[H5668\|עֲב֣וּר]] [[H2088\|זֶ֗ה]] [[H6213A\|עָשָׂ֤ה]] [[H3068G\|יְהוָה֙]] [[H9005\|לִ֔]][[H9030\|י]] [[H9003\|בְּ]][[H3318G\|צֵאתִ֖]][[H9040\|י]] [[H9006\|מִ]][[H4714G\|מִּצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FRONTLETS|FRONTLETS]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic ISRAEL|ISRAEL]] • [[topic PARENTS|PARENTS]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.13.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13.7|<< Exodus 13:7]]</td><td align="center" style="border:none;">[[Exod.13|Exodus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.13.9|Exodus 13:9 >>]]</td></tr></table>
 

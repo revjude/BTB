@@ -1,8 +1,84 @@
+---
+title: 1 Kings 2:26
+type: Verse
+kjv: "And unto Abiathar the priest said the king, Get thee to Anathoth, unto thine own fields; for thou art worthy of death: but I will not at this time put thee to death, because thou barest the ark of the Lord GOD before David my father, and because thou hast been afflicted in all wherein my father was afflicted."
+bsb: "Then the king said to Abiathar the priest, “Go back to your fields in Anathoth. Even though you deserve to die, I will not put you to death at this time, since you carried the ark of the Lord GOD before my father David, and you suffered through all that my father suffered.”"
+hebrew: "וּלְאֶבְיָתָ֨ר הַכֹּהֵ֜ן אָמַ֣ר הַמֶּ֗לֶךְ עֲנָתֹת֙ לֵ֣ךְ עַל־ שָׂדֶ֔יךָ כִּ֛י אִ֥ישׁ מָ֖וֶת אָ֑תָּה וּבַיּ֨וֹם הַזֶּ֜ה לֹ֣א אֲמִיתֶ֗ךָ כִּֽי־ נָשָׂ֜אתָ אֶת־ אֲר֨וֹן אֲדֹנָ֤י יְהֹוִה֙ לִפְנֵי֙ דָּוִ֣ד אָבִ֔י וְכִ֣י הִתְעַנִּ֔יתָ בְּכֹ֥ל אֲשֶֽׁר־ הִתְעַנָּ֖ה אָבִֽי׃"
+pericope: "[[1Kgs.2.13 The Execution of Adonijah|The Execution of Adonijah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 2
+book/chapter: "[[1Kgs.2|1 Kings 2]]"
+chronological_order: 442
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ABIATHAR|ABIATHAR]]"
+- "[[topic ANATHOTH|ANATHOTH]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H0054]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0559]]"
+- "[[H4428G]]"
+- "[[H6068G]]"
+- "[[H1980G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7704G]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H0376G]]"
+- "[[H4194]]"
+- "[[H0859A]]"
+- "[[H9003]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H3808]]"
+- "[[H4191]]"
+- "[[H9031]]"
+- "[[H5375H]]"
+- "[[H0853]]"
+- "[[H0727]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H6440G]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H6031B]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 2:26**<big><big>[[1Kgs.2.13 The Execution of Adonijah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And unto Abiathar the priest said the king, Get thee to Anathoth, unto thine own fields; for thou [art] worthy of death: but I will not at this time put thee to death, because thou barest the ark of the Lord GOD before David my father, and because thou hast been afflicted in all wherein my father was afflicted.
 <small><sub>**BSB:**</sub></small>
 Then the king said to Abiathar the priest, “Go back to your fields in Anathoth. Even though you deserve to die, I will not put you to death at this time, since you carried the ark of the Lord GOD before my father David, and you suffered through all that my father suffered.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H0054\|אֶבְיָתָ֨ר]] [[H9009\|הַ]][[H3548\|כֹּהֵ֜ן]] [[H0559\|אָמַ֣ר]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H6068G\|עֲנָתֹת֙]] [[H1980G\|לֵ֣ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H7704G\|שָׂדֶ֔י]][[H9021\|ךָ]] [[H3588A\|כִּ֛י]] [[H0376G\|אִ֥ישׁ]] [[H4194\|מָ֖וֶת]] [[H0859A\|אָ֑תָּה]] [[H9002\|וּ]][[H9003\|בַ]][[H3117L\|יּ֨וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֜ה]] [[H3808\|לֹ֣א]] [[H4191\|אֲמִיתֶ֗]][[H9031\|ךָ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5375H\|נָשָׂ֜אתָ]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲר֨וֹן]] [[H0136\|אֲדֹנָ֤י]] [[H3069\|יְהֹוִה֙]] [[H9005\|לִ]][[H6440G\|פְנֵי֙]] [[H1732\|דָּוִ֣ד]] [[H0001G\|אָבִ֔]][[H9020\|י]] [[H9002\|וְ]][[H3588A\|כִ֣י]] [[H6031B\|הִתְעַנִּ֔יתָ]] [[H9003\|בְּ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H6031B\|הִתְעַנָּ֖ה]] [[H0001G\|אָבִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIATHAR|ABIATHAR]] • [[topic ANATHOTH|ANATHOTH]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic HOMICIDE|HOMICIDE]] • [[topic LEVITES|LEVITES]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.25|<< 1 Kings 2:25]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.27|1 Kings 2:27 >>]]</td></tr></table>
 

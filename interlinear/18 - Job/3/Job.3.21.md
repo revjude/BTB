@@ -1,8 +1,56 @@
+---
+title: Job 3:21
+type: Verse
+kjv: "Which long for death, but it cometh not; and dig for it more than for hid treasures;"
+bsb: "who long for death that does not come, and search for it like hidden treasure,"
+hebrew: "הַֽמְחַכִּ֣ים לַמָּ֣וֶת וְאֵינֶ֑נּוּ וַֽ֝יַּחְפְּרֻ֗הוּ מִמַּטְמוֹנִֽים׃"
+pericope: "[[Job.3.1 Job Laments His Birth|Job Laments His Birth]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 3
+book/chapter: "[[Job.3|Job 3]]"
+chronological_order: 14
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9009]]"
+- "[[H2442]]"
+- "[[H9005]]"
+- "[[H4194]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H9001]]"
+- "[[H2658]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H4301]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 3:21**<big><big>[[Job.3.1 Job Laments His Birth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which long for death, but it [cometh] not; and dig for it more than for hid treasures;
 <small><sub>**BSB:**</sub></small>
 who long for death that does not come, and search for it like hidden treasure,
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַֽ]][[H2442\|מְחַכִּ֣ים]] [[H9005\|לַ]][[H4194\|מָּ֣וֶת]] [[H9002\|וְ]][[H0369\|אֵינֶ֑]][[H9043\|נּוּ]] [[H9001\|וַֽ֝]][[H2658\|יַּחְפְּרֻ֗]][[H9033\|הוּ]] [[H9006\|מִ]][[H4301\|מַּטְמוֹנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.3.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.20|<< Job 3:20]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.22|Job 3:22 >>]]</td></tr></table>
 

@@ -1,6 +1,56 @@
+---
+title: LXX Numbers 8:2
+type: Verse
+lxx: "Speak  to Aaron! And you shall say to him, Whenever you should place the lamps by rank, the seven lamps shall give light in front of the lamp-stand."
+greek: "λάλησον τω Ααρών και ερείς προς αυτόν όταν επιθής τους λύχνους εκ μέρους κατά πρόσωπον της λυχνίας φωτιούσιν οι επτά λύχνοι"
+original_language: Greek
+testament: Old
+book: Numbers
+chapter: 8
+book/chapter: "[[Num.8|Numbers 8]]"
+chronological_order: 167
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+strongs:
+- "[[G2980]]"
+- "[[G3588]]"
+- "[[G0002]]"
+- "[[G2532]]"
+- "[[G2046]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G3752]]"
+- "[[G2007]]"
+- "[[G3588]]"
+- "[[G3088]]"
+- "[[G1537]]"
+- "[[G3313]]"
+- "[[G2596]]"
+- "[[G4383]]"
+- "[[G3588]]"
+- "[[G3087]]"
+- "[[G5461]]"
+- "[[G3588]]"
+- "[[G2033]]"
+- "[[G3088]]"
+---
+
 **LXX Numbers 8:2** 
 <small><sub>**LXX:**</sub></small>
 Speak  to Aaron! And you shall say to him, Whenever you should place the lamps by rank, the seven lamps shall give light in front of the lamp-stand. 
+<small><sub>**Greek:**</sub></small>
+[[G2980\|λάλησον]] [[G3588\|τω]] [[G0002\|Ααρών]] [[G2532\|και]] [[G2046\|ερείς]] [[G4314\|προς]] [[G1473\|αυτόν]] [[G3752\|όταν]] [[G2007\|επιθής]] [[G3588\|τους]] [[G3088\|λύχνους]] [[G1537\|εκ]] [[G3313\|μέρους]] [[G2596\|κατά]] [[G4383\|πρόσωπον]] [[G3588\|της]] [[G3087\|λυχνίας]] [[G5461\|φωτιούσιν]] [[G3588\|οι]] [[G2033\|επτά]] [[G3088\|λύχνοι]]
 <small><sub>**MT:**</sub></small>
 [[Num.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.8.1|<< Numbers 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.8.3|Numbers 8:3 >>]]</td></tr></table>
 
@@ -27,6 +77,6 @@ Speak  to Aaron! And you shall say to him, Whenever you should place the lamps b
 | the | **<big>[[G3588\|οι]]</big>** |
 | seven | **<big>[[G2033\|επτά]]</big>** |
 | lamps | **<big>[[G3088\|λύχνοι]]</big>** |
-[[Num.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.8.1|<< Numbers 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.8.3|Numbers 8:3 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.8.1|<< Numbers 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.8.3|Numbers 8:3 >>]]</td></tr></table>
 
 

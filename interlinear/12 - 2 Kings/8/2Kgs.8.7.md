@@ -1,8 +1,62 @@
+---
+title: 2 Kings 8:7
+type: Verse
+kjv: "And Elisha came to Damascus; and Benhadad the king of Syria was sick; and it was told him, saying, The man of God is come hither."
+bsb: "Then Elisha came to Damascus while Ben-hadad king of Aram was sick, and the king was told, “The man of God has come here.”"
+hebrew: "וַיָּבֹ֤א אֱלִישָׁע֙ דַּמֶּ֔שֶׂק וּבֶן־ הֲדַ֥ד מֶֽלֶךְ־ אֲרָ֖ם חֹלֶ֑ה וַיֻּגַּד־ ל֣וֹ לֵאמֹ֔ר בָּ֛א אִ֥ישׁ הָאֱלֹהִ֖ים עַד־ הֵֽנָּה׃"
+pericope: "[[2Kgs.8.7 Hazael Murders Ben-hadad|Hazael Murders Ben-hadad]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 8
+book/chapter: "[[2Kgs.8|2 Kings 8]]"
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BEN-HADAD|BEN-HADAD]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0477]]"
+- "[[H1834]]"
+- "[[H9002]]"
+- "[[H1130H]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H0758I]]"
+- "[[H2470H]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H0376G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H5704]]"
+- "[[H2008]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 8:7**<big><big>[[2Kgs.8.7 Hazael Murders Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elisha came to Damascus; and Benhadad the king of Syria was sick; and it was told him, saying, The man of God is come hither.
 <small><sub>**BSB:**</sub></small>
 Then Elisha came to Damascus while Ben-hadad king of Aram was sick, and the king was told, “The man of God has come here.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֤א]] [[H0477\|אֱלִישָׁע֙]] [[H1834\|דַּמֶּ֔שֶׂק]] [[H9002\|וּ]][[H1130H\|בֶן]][[H9014\|־]] [[H1130H\|הֲדַ֥ד]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0758I\|אֲרָ֖ם]] [[H2470H\|חֹלֶ֑ה]] [[H9001\|וַ]][[H5046\|יֻּגַּד]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H0935G\|בָּ֛א]] [[H0376G\|אִ֥ישׁ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H5704\|עַד]][[H9014\|־]] [[H2008\|הֵֽנָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEN-HADAD|BEN-HADAD]] • [[topic ELISHA|ELISHA]] • [[topic FALSEHOOD|FALSEHOOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.6|<< 2 Kings 8:6]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.8|2 Kings 8:8 >>]]</td></tr></table>
 

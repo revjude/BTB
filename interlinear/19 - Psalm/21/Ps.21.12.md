@@ -1,8 +1,56 @@
+---
+title: Psalm 21:12
+type: Verse
+kjv: "Therefore shalt thou make them turn their back, when thou shalt make ready thine arrows upon thy strings against the face of them."
+bsb: "For You will put them to flight when Your bow is trained upon them."
+hebrew: "כִּ֭י תְּשִׁיתֵ֣מוֹ שֶׁ֑כֶם בְּ֝מֵֽיתָרֶ֗יךָ תְּכוֹנֵ֥ן עַל־ פְּנֵיהֶֽם׃"
+pericope: "[[Ps.21.1 After the Battle|After the Battle]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 21
+book/chapter: "[[Ps.21|Psalm 21]]"
+chronological_order: 354
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ARROW|ARROW]]"
+strongs:
+- "[[H3588A]]"
+- "[[H7896G]]"
+- "[[H9038]]"
+- "[[H7926]]"
+- "[[H9003]]"
+- "[[H4340]]"
+- "[[H9021]]"
+- "[[H3559A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440H]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 21:12**<big><big>[[Ps.21.1 After the Battle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore shalt thou make them turn their back, [when] thou shalt make ready [thine arrows] upon thy strings against the face of them.
 <small><sub>**BSB:**</sub></small>
 For You will put them to flight when Your bow is trained upon them.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֭י]] [[H7896G\|תְּשִׁיתֵ֣]][[H9038\|מוֹ]] [[H7926\|שֶׁ֑כֶם]] [[H9003\|בְּ֝]][[H4340\|מֵֽיתָרֶ֗י]][[H9021\|ךָ]] [[H3559A\|תְּכוֹנֵ֥ן]] [[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פְּנֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARROW|ARROW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.21.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.21.11|<< Psalms 21:11]]</td><td align="center" style="border:none;">[[Ps.21|Psalms 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.21.13|Psalms 21:13 >>]]</td></tr></table>
 

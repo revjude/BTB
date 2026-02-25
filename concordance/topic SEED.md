@@ -11,5 +11,5 @@
 
 → Illustrative [[Eccl.11.6|Ec 11:6]]; [[Hos.10.12|Ho 10:12]]; [[2Cor.9.6|2Co 9:6]]; [[Gal.6.7|Ga 6:7]],[[Gal.6.8|8]]
 
-→ Sowing of, type of burial of the body [[1Cor.15.36|1Co 15:36]]-[[1Cor.15.38|38]]
+→ Sowing of, type of burial of the body [[1Cor.15.36|1Co 15:36-38]]
 

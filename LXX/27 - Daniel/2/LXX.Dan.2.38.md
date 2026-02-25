@@ -1,6 +1,72 @@
+---
+title: LXX Daniel 2:38
+type: Verse
+lxx: "In every place where the sons of men dwell, both wild beasts of the field and birds of heaven he gave into  your hand, and he placed you lord of all. You are the head  of gold."
+greek: "εν παντί τόπω οπου κατοικούσιν οι υιοί των ανθρώπων θηρία τε αγρού και πετεινά ουρανού έδωκεν εν τη χειρί σου και κατέστησέ σε κύριον πάντων συ ει η κεφαλή η χρυσή"
+original_language: Greek
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- septuagint
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic CLAY|CLAY]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic MAN|MAN]]"
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G5117]]"
+- "[[G3699]]"
+- "[[G2730]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G2342]]"
+- "[[G5037]]"
+- "[[G0068]]"
+- "[[G2532]]"
+- "[[G4071]]"
+- "[[G3772]]"
+- "[[G1325]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2525]]"
+- "[[G1473]]"
+- "[[G2962]]"
+- "[[G3956]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2776]]"
+- "[[G3588]]"
+- "[[G5552]]"
+---
+
 **LXX Daniel 2:38** 
 <small><sub>**LXX:**</sub></small>
 In every place where the sons of men dwell, both wild beasts of \[the\] field and birds of heaven he gave into  your hand, and he placed you lord of all. You are the head  of gold. 
+<small><sub>**Greek:**</sub></small>
+[[G1722\|εν]] [[G3956\|παντί]] [[G5117\|τόπω]] [[G3699\|οπου]] [[G2730\|κατοικούσιν]] [[G3588\|οι]] [[G5207\|υιοί]] [[G3588\|των]] [[G0444\|ανθρώπων]] [[G2342\|θηρία]] [[G5037\|τε]] [[G0068\|αγρού]] [[G2532\|και]] [[G4071\|πετεινά]] [[G3772\|ουρανού]] [[G1325\|έδωκεν]] [[G1722\|εν]] [[G3588\|τη]] [[G5495\|χειρί]] [[G1473\|σου]] [[G2532\|και]] [[G2525\|κατέστησέ]] [[G1473\|σε]] [[G2962\|κύριον]] [[G3956\|πάντων]] [[G1473\|συ]] [[G1510\|ει]] [[G3588\|η]] [[G2776\|κεφαλή]] [[G3588\|η]] [[G5552\|χρυσή]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic BIRDS|BIRDS]] • [[topic CLAY|CLAY]] • [[topic GOLD|GOLD]] • [[topic MAN|MAN]] • [[topic PERSIA|PERSIA]]</small>
 <small><sub>**MT:**</sub></small>
 [[Dan.2.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.37|<< Daniel 2:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.39|Daniel 2:39 >>]]</td></tr></table>
 
@@ -35,6 +101,6 @@ In every place where the sons of men dwell, both wild beasts of \[the\] field an
 | head | **<big>[[G2776\|κεφαλή]]</big>** |
 | \<obj.> | **<big>[[G3588\|η]]</big>** |
 | of gold. | **<big>[[G5552\|χρυσή]]</big>** |
-[[Dan.2.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.37|<< Daniel 2:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.39|Daniel 2:39 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.37|<< Daniel 2:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.39|Daniel 2:39 >>]]</td></tr></table>
 
 

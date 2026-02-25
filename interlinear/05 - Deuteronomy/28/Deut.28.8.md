@@ -1,8 +1,71 @@
+---
+title: Deuteronomy 28:8
+type: Verse
+kjv: "The LORD shall command the blessing upon thee in thy storehouses, and in all that thou settest thine hand unto; and he shall bless thee in the land which the LORD thy God giveth thee."
+bsb: "The LORD will decree a blessing on your barns and on everything to which you put your hand; the LORD your God will bless you in the land He is giving you."
+hebrew: "יְצַ֨ו יְהוָ֤ה אִתְּךָ֙ אֶת־ הַבְּרָכָ֔ה בַּאֲסָמֶ֕יךָ וּבְכֹ֖ל מִשְׁלַ֣ח יָדֶ֑ךָ וּבֵ֣רַכְךָ֔ בָּאָ֕רֶץ אֲשֶׁר־ יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ׃"
+pericope: "[[Deut.28.1 The Blessings of Obedience|The Blessings of Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0854]]"
+- "[[H9031]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1293]]"
+- "[[H9003]]"
+- "[[H0618]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H4916A]]"
+- "[[H3027U]]"
+- "[[H9001]]"
+- "[[H1288]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H0430G]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:8**<big><big>[[Deut.28.1 The Blessings of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD shall command the blessing upon thee in thy storehouses, and in all that thou settest thine hand unto; and he shall bless thee in the land which the LORD thy God giveth thee.
 <small><sub>**BSB:**</sub></small>
 The LORD will decree a blessing on your barns and on everything to which you put your hand; the LORD your God will bless you in the land He is giving you.
+<small><sub>**Hebrew:**</sub></small>
+[[H6680\|יְצַ֨ו]] [[H3068G\|יְהוָ֤ה]] [[H0854\|אִתְּ]][[H9031\|ךָ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1293\|בְּרָכָ֔ה]] [[H9003\|בַּ]][[H0618\|אֲסָמֶ֕י]][[H9021\|ךָ]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כֹ֖ל]] [[H4916A\|מִשְׁלַ֣ח]] [[H3027U\|יָדֶ֑]][[H9021\|ךָ]] [[H9001\|וּ]][[H1288\|בֵ֣רַכְ]][[H9031\|ךָ֔]] [[H9003\|בָּ]][[H0776G\|אָ֕רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H5414G\|נֹתֵ֥ן]] [[H9005\|לָֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.7|<< Deuteronomy 28:7]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.9|Deuteronomy 28:9 >>]]</td></tr></table>
 

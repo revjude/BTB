@@ -1,8 +1,70 @@
+---
+title: Deuteronomy 26:10
+type: Verse
+kjv: "And now, behold, I have brought the firstfruits of the land, which thou, O LORD, hast given me. And thou shalt set it before the LORD thy God, and worship before the LORD thy God:"
+bsb: "And now, behold, I have brought the firstfruits of the land that You, O LORD, have given me.” Then you are to place the basket before the LORD your God and bow down before Him."
+hebrew: "וְעַתָּ֗ה הִנֵּ֤ה הֵבֵ֙אתִי֙ אֶת־ רֵאשִׁית֙ פְּרִ֣י הָאֲדָמָ֔ה אֲשֶׁר־ נָתַ֥תָּה לִּ֖י יְהוָ֑ה וְהִנַּחְתּ֗וֹ לִפְנֵי֙ יְהוָ֣ה אֱלֹהֶ֔יךָ וְהִֽשְׁתַּחֲוִ֔יתָ לִפְנֵ֖י יְהוָ֥ה אֱלֹהֶֽיךָ׃"
+pericope: "[[Deut.26.1 Offering Firstfruits and Tithes|Offering Firstfruits and Tithes]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 26
+book/chapter: "[[Deut.26|Deuteronomy 26]]"
+chronological_order: 222
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic FIRST FRUITS|FIRST FRUITS]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H2009]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7225G]]"
+- "[[H6529]]"
+- "[[H9009]]"
+- "[[H0127G]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H5117]]"
+- "[[H9033]]"
+- "[[H6440G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H7812]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 26:10**<big><big>[[Deut.26.1 Offering Firstfruits and Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now, behold, I have brought the firstfruits of the land, which thou, O LORD, hast given me. And thou shalt set it before the LORD thy God, and worship before the LORD thy God:
 <small><sub>**BSB:**</sub></small>
 And now, behold, I have brought the firstfruits of the land that You, O LORD, have given me.” Then you are to place the basket before the LORD your God and bow down before Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H2009\|הִנֵּ֤ה]] [[H0935P\|הֵבֵ֙אתִי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H7225G\|רֵאשִׁית֙]] [[H6529\|פְּרִ֣י]] [[H9009\|הָ]][[H0127G\|אֲדָמָ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414G\|נָתַ֥תָּה]] [[H9005\|לִּ֖]][[H9030\|י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וְ]][[H5117\|הִנַּחְתּ֗]][[H9033\|וֹ]] [[H9005\|לִ]][[H6440G\|פְנֵי֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H9001\|וְ]][[H7812\|הִֽשְׁתַּחֲוִ֔יתָ]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRST FRUITS|FIRST FRUITS]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.26.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.26.9|<< Deuteronomy 26:9]]</td><td align="center" style="border:none;">[[Deut.26|Deuteronomy 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.26.11|Deuteronomy 26:11 >>]]</td></tr></table>
 

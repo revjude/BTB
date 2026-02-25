@@ -1,8 +1,54 @@
+---
+title: Job 11:18
+type: Verse
+kjv: "And thou shalt be secure, because there is hope; yea, thou shalt dig about thee, and thou shalt take thy rest in safety."
+bsb: "You will be secure, because there is hope, and you will look around and lie down in safety."
+hebrew: "וּֽ֭בָטַחְתָּ כִּי־ יֵ֣שׁ תִּקְוָ֑ה וְ֝חָפַרְתָּ֗ לָבֶ֥טַח תִּשְׁכָּֽב׃"
+pericope: "[[Job.11.1 Zophar Rebukes Job|Zophar Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 11
+book/chapter: "[[Job.11|Job 11]]"
+chronological_order: 22
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0982]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3426]]"
+- "[[H8615B]]"
+- "[[H2658]]"
+- "[[H9005]]"
+- "[[H0983]]"
+- "[[H7901H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 11:18**<big><big>[[Job.11.1 Zophar Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt be secure, because there is hope; yea, thou shalt dig [about thee, and] thou shalt take thy rest in safety.
 <small><sub>**BSB:**</sub></small>
 You will be secure, because there is hope, and you will look around and lie down in safety.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּֽ֭]][[H0982\|בָטַחְתָּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H3426\|יֵ֣שׁ]] [[H8615B\|תִּקְוָ֑ה]] [[H9001\|וְ֝]][[H2658\|חָפַרְתָּ֗]] [[H9005\|לָ]][[H0983\|בֶ֥טַח]] [[H7901H\|תִּשְׁכָּֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.17|<< Job 11:17]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.19|Job 11:19 >>]]</td></tr></table>
 

@@ -1,10 +1,55 @@
+---
+title: 1 Corinthians 16:22
+type: Verse
+kjv: "If any man love not the Lord Jesus Christ, let him be Anathema Maranatha."
+bsb: "If anyone does not love the Lord, let him be under a curse. Come, O Lord!"
+greek: "εἴ τις οὐ φιλεῖ τὸν κύριον Ἰησοῦν Χριστόν, ἤτω ἀνάθεμα. μαράνα θά.¶"
+pericope: "[[1Cor.16.19 Signature and Final Greetings|Signature and Final Greetings]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 16
+book/chapter: "[[1Cor.16|1 Corinthians 16]]"
+chronological_order: 1073
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic ANATHEMA MARAN-ATHA|ANATHEMA MARAN-ATHA]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CORINTH|CORINTH]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G3756]]"
+- "[[G5368]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G1510]]"
+- "[[G0331]]"
+- "[[G3134]]"
+texts:
+- NKO
+- K
+- N(k)O
+---
+
 **1 Corinthians 16:22**<big><big>[[1Cor.16.19 Signature and Final Greetings|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If any man love not the Lord Jesus Christ, let him be Anathema Maranatha.
 <small><sub>**BSB:**</sub></small>
 If anyone does not love the Lord, let him be under a curse. Come, O Lord!
-<small><sub>**Literal:**</sub></small>
-If anyone not loves the Lord Jesus Christ he should be accursed. Marana tha!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.21|<< 1 Corinthians 16:21]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.23|1 Corinthians 16:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἴ]]  [[G5100\|τις]]  [[G3756\|οὐ]]  [[G5368\|φιλεῖ]]  [[G3588\|τὸν]]  [[G2962G\|κύριον]]  [[G2424G\|Ἰησοῦν]]  [[G5547\|Χριστόν,]]  [[G1510\|ἤτω]]  [[G0331\|ἀνάθεμα.]]  [[G3134\|μαράνα θά.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANATHEMA MARAN-ATHA|ANATHEMA MARAN-ATHA]] • [[topic CHURCH|CHURCH]] • [[topic CORINTH|CORINTH]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.21|<< 1 Corinthians 16:21]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.23|1 Corinthians 16:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

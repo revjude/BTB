@@ -1,8 +1,71 @@
+---
+title: Judges 8:7
+type: Verse
+kjv: "And Gideon said, Therefore when the LORD hath delivered Zebah and Zalmunna into mine hand, then I will tear your flesh with the thorns of the wilderness and with briers."
+bsb: "“Very well,” Gideon replied, “when the LORD has delivered Zebah and Zalmunna into my hand, I will tear your flesh with the thorns and briers of the wilderness!”"
+hebrew: "וַיֹּ֣אמֶר גִּדְע֔וֹן לָכֵ֗ן בְּתֵ֧ת יְהוָ֛ה אֶת־ זֶ֥בַח וְאֶת־ צַלְמֻנָּ֖ע בְּיָדִ֑י וְדַשְׁתִּי֙ אֶת־ בְּשַׂרְכֶ֔ם אֶת־ קוֹצֵ֥י הַמִּדְבָּ֖ר וְאֶת־ הַֽבַּרְקֳנִֽים׃"
+pericope: "[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|Gideon Defeats Zebah and Zalmunna]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 8
+book/chapter: "[[Judg.8|Judges 8]]"
+chronological_order: 262
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GIDEON|GIDEON]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic RETALIATION|RETALIATION]]"
+- "[[topic SUCCOTH|SUCCOTH]]"
+- "[[topic ZALMUNNA|ZALMUNNA]]"
+- "[[topic ZEBAH|ZEBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1439]]"
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H9003]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2078]]"
+- "[[H9002]]"
+- "[[H6759]]"
+- "[[H3027H]]"
+- "[[H9020]]"
+- "[[H1758]]"
+- "[[H1320]]"
+- "[[H9026]]"
+- "[[H0854]]"
+- "[[H6975]]"
+- "[[H9009]]"
+- "[[H4057B]]"
+- "[[H1303]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 8:7**<big><big>[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Gideon said, Therefore when the LORD hath delivered Zebah and Zalmunna into mine hand, then I will tear your flesh with the thorns of the wilderness and with briers.
 <small><sub>**BSB:**</sub></small>
 “Very well,” Gideon replied, “when the LORD has delivered Zebah and Zalmunna into my hand, I will tear your flesh with the thorns and briers of the wilderness!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H1439\|גִּדְע֔וֹן]] [[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H9003\|בְּ]][[H5414G\|תֵ֧ת]] [[H3068G\|יְהוָ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H2078\|זֶ֥בַח]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6759\|צַלְמֻנָּ֖ע]] [[H9003\|בְּ]][[H3027H\|יָדִ֑]][[H9020\|י]] [[H9001\|וְ]][[H1758\|דַשְׁתִּי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1320\|בְּשַׂרְ]][[H9026\|כֶ֔ם]] [[H0854\|אֶת]][[H9014\|־]] [[H6975\|קוֹצֵ֥י]] [[H9009\|הַ]][[H4057B\|מִּדְבָּ֖ר]] [[H9002\|וְ]][[H0854\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H1303\|בַּרְקֳנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIDEON|GIDEON]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic RETALIATION|RETALIATION]] • [[topic SUCCOTH|SUCCOTH]] • [[topic ZALMUNNA|ZALMUNNA]] • [[topic ZEBAH|ZEBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.6|<< Judges 8:6]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.8|Judges 8:8 >>]]</td></tr></table>
 

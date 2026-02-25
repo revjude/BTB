@@ -1,8 +1,61 @@
+---
+title: Judges 20:15
+type: Verse
+kjv: "And the children of Benjamin were numbered at that time out of the cities twenty and six thousand men that drew sword, beside the inhabitants of Gibeah, which were numbered seven hundred chosen men."
+bsb: "On that day the Benjamites mobilized 26,000 swordsmen from their cities, in addition to the 700 select men of Gibeah."
+hebrew: "וַיִּתְפָּֽקְדוּ֩ בְנֵ֨י בִנְיָמִ֜ן בַּיּ֤וֹם הַהוּא֙ מֵהֶ֣עָרִ֔ים עֶשְׂרִ֨ים וְשִׁשָּׁ֥ה אֶ֛לֶף אִ֖ישׁ שֹׁ֣לֵֽף חָ֑רֶב לְ֠בַד מִיֹּשְׁבֵ֤י הַגִּבְעָה֙ הִתְפָּ֣קְד֔וּ שְׁבַ֥ע מֵא֖וֹת אִ֥ישׁ בָּחֽוּר׃"
+pericope: "[[Judg.20.1 The Decree of the Assembly|The Decree of the Assembly]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+strongs:
+- "[[H9001]]"
+- "[[H6485A]]"
+- "[[H1121G]]"
+- "[[H1144G]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H9006]]"
+- "[[H5892B]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H8337]]"
+- "[[H0505G]]"
+- "[[H0376G]]"
+- "[[H8025]]"
+- "[[H2719]]"
+- "[[H9005]]"
+- "[[H0905J]]"
+- "[[H3427]]"
+- "[[H1390H]]"
+- "[[H7651]]"
+- "[[H3967]]"
+- "[[H0977]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:15**<big><big>[[Judg.20.1 The Decree of the Assembly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Benjamin were numbered at that time out of the cities twenty and six thousand men that drew sword, beside the inhabitants of Gibeah, which were numbered seven hundred chosen men.
 <small><sub>**BSB:**</sub></small>
 On that day the Benjamites mobilized 26,000 swordsmen from their cities, in addition to the 700 select men of Gibeah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6485A\|יִּתְפָּֽקְדוּ֩]] [[H1121G\|בְנֵ֨י]] [[H1144G\|בִנְיָמִ֜ן]] [[H9003\|בַּ]][[H3117G\|יּ֤וֹם]] [[H9009\|הַ]][[H1931\|הוּא֙]] [[H9006\|מֵ]][[H9009\|הֶ֣]][[H5892B\|עָרִ֔ים]] [[H6242\|עֶשְׂרִ֨ים]] [[H9002\|וְ]][[H8337\|שִׁשָּׁ֥ה]] [[H0505G\|אֶ֛לֶף]] [[H0376G\|אִ֖ישׁ]] [[H8025\|שֹׁ֣לֵֽף]] [[H2719\|חָ֑רֶב]] [[H9005\|לְ֠]][[H0905J\|בַד]] [[H9006\|מִ]][[H3427\|יֹּשְׁבֵ֤י]] [[H9009\|הַ]][[H1390H\|גִּבְעָה֙]] [[H6485A\|הִתְפָּ֣קְד֔וּ]] [[H7651\|שְׁבַ֥ע]] [[H3967\|מֵא֖וֹת]] [[H0376G\|אִ֥ישׁ]] [[H0977\|בָּחֽוּר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.14|<< Judges 20:14]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.16|Judges 20:16 >>]]</td></tr></table>
 

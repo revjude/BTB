@@ -1,10 +1,64 @@
+---
+title: Revelation 18:10
+type: Verse
+kjv: "Standing afar off for the fear of her torment, saying, Alas, alas, that great city Babylon, that mighty city! for in one hour is thy judgment come."
+bsb: "In fear of her torment, they will stand at a distance and cry out: “Woe, woe to the great city, the mighty city of Babylon! For in a single hour your judgment has come.”"
+greek: "ἀπὸ μακρόθεν ἑστηκότες διὰ τὸν φόβον τοῦ βασανισμοῦ αὐτῆς λέγοντες· οὐαὶ οὐαὶ ἡ πόλις ἡ μεγάλη Βαβυλὼν ἡ πόλις ἡ ἰσχυρά, ὅτι ἐν μιᾷ ὥρᾳ ἦλθεν ἡ κρίσις σου."
+pericope: "[[Rev.18.9 Lament over Babylon|Lament over Babylon]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 18
+book/chapter: "[[Rev.18|Revelation 18]]"
+chronological_order: 1185
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[G0575]]"
+- "[[G3113]]"
+- "[[G2476]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G5401]]"
+- "[[G0929]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G3759]]"
+- "[[G4172]]"
+- "[[G3173]]"
+- "[[G0897]]"
+- "[[G2478]]"
+- "[[G3754H]]"
+- "[[G1722]]"
+- "[[G1520]]"
+- "[[G5610]]"
+- "[[G2064]]"
+- "[[G2920]]"
+- "[[G4771]]"
+texts:
+- NKO
+- k
+---
+
 **Revelation 18:10**<big><big>[[Rev.18.9 Lament over Babylon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Standing afar off for the fear of her torment, saying, Alas, alas, that great city Babylon, that mighty city! for in one hour is thy judgment come.
 <small><sub>**BSB:**</sub></small>
 In fear of her torment, they will stand at a distance and cry out: “Woe, woe to the great city, the mighty city of Babylon! For in a single hour your judgment has come.”
-<small><sub>**Literal:**</sub></small>
-from afar standing because of the fear of the torment of her saying: Woe woe you who [are] the city <the> great Babylon the city <the> strong! For in one hour has come the judgment of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.9|<< Revelation 18:9]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.11|Revelation 18:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0575\|ἀπὸ]]  [[G3113\|μακρόθεν]]  [[G2476\|ἑστηκότες]]  [[G1223\|διὰ]]  [[G3588\|τὸν]]  [[G5401\|φόβον]]  [[G3588\|τοῦ]]  [[G0929\|βασανισμοῦ]]  [[G0846\|αὐτῆς]]  [[G3004G\|λέγοντες·]]  [[G3759\|οὐαὶ]]  [[G3759\|οὐαὶ]]  [[G3588\|ἡ]]  [[G4172\|πόλις]]  [[G3588\|ἡ]]  [[G3173\|μεγάλη]]  [[G0897\|Βαβυλὼν]]  [[G3588\|ἡ]]  [[G4172\|πόλις]]  [[G3588\|ἡ]]  [[G2478\|ἰσχυρά,]]  [[G3754H\|ὅτι]]  [[G1722\|ἐν]]  [[G1520\|μιᾷ]]  [[G5610\|ὥρᾳ]]  [[G2064\|ἦλθεν]]  [[G3588\|ἡ]]  [[G2920\|κρίσις]]  [[G4771\|σου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.9|<< Revelation 18:9]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.11|Revelation 18:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

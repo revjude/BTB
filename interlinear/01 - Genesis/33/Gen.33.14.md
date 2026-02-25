@@ -1,8 +1,69 @@
+---
+title: Genesis 33:14
+type: Verse
+kjv: "Let my lord, I pray thee, pass over before his servant: and I will lead on softly, according as the cattle that goeth before me and the children be able to endure, until I come unto my lord unto Seir."
+bsb: "Please let my lord go ahead of his servant. I will continue on slowly, at a comfortable pace for the livestock and children, until I come to my lord at Seir.”"
+hebrew: "יַעֲבָר־ נָ֥א אֲדֹנִ֖י לִפְנֵ֣י עַבְדּ֑וֹ וַאֲנִ֞י אֶתְנָהֲלָ֣ה לְאִטִּ֗י לְרֶ֨גֶל הַמְּלָאכָ֤ה אֲשֶׁר־ לְפָנַי֙ וּלְרֶ֣גֶל הַיְלָדִ֔ים עַ֛ד אֲשֶׁר־ אָבֹ֥א אֶל־ אֲדֹנִ֖י שֵׂעִֽירָה׃"
+pericope: "[[Gen.33.1 Jacob Meets Esau|Jacob Meets Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 33
+book/chapter: "[[Gen.33|Genesis 33]]"
+chronological_order: 75
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SEIR|SEIR]]"
+strongs:
+- "[[H5674A]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H5095]]"
+- "[[H0328B]]"
+- "[[H7272]]"
+- "[[H9009]]"
+- "[[H4399]]"
+- "[[H0834A]]"
+- "[[H3206]]"
+- "[[H5704]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H8165A]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+- LBH(a)
+---
+
 **Genesis 33:14**<big><big>[[Gen.33.1 Jacob Meets Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let my lord, I pray thee, pass over before his servant: and I will lead on softly, according as the cattle that goeth before me and the children be able to endure, until I come unto my lord unto Seir.
 <small><sub>**BSB:**</sub></small>
 Please let my lord go ahead of his servant. I will continue on slowly, at a comfortable pace for the livestock and children, until I come to my lord at Seir.”
+<small><sub>**Hebrew:**</sub></small>
+[[H5674A\|יַעֲבָר]][[H9014\|־]] [[H4994\|נָ֥א]] [[H0113\|אֲדֹנִ֖]][[H9020\|י]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H5650\|עַבְדּ֑]][[H9023\|וֹ]] [[H9002\|וַ]][[H0589\|אֲנִ֞י]] [[H5095\|אֶתְנָהֲלָ֣ה]] [[H9005\|לְ]][[H0328B\|אִטִּ֗]][[H9020\|י]] [[H9005\|לְ]][[H7272\|רֶ֨גֶל]] [[H9009\|הַ]][[H4399\|מְּלָאכָ֤ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|לְ]][[H6440G\|פָנַ]][[H9020\|י֙]] [[H9002\|וּ]][[H9005\|לְ]][[H7272\|רֶ֣גֶל]] [[H9009\|הַ]][[H3206\|יְלָדִ֔ים]] [[H5704\|עַ֛ד]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|אָבֹ֥א]] [[H0413\|אֶל]][[H9014\|־]] [[H0113\|אֲדֹנִ֖]][[H9020\|י]] [[H8165A\|שֵׂעִֽירָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic SEIR|SEIR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.33.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.33.13|<< Genesis 33:13]]</td><td align="center" style="border:none;">[[Gen.33|Genesis 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.33.15|Genesis 33:15 >>]]</td></tr></table>
 

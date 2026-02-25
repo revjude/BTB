@@ -1,8 +1,75 @@
+---
+title: 2 Samuel 3:35
+type: Verse
+kjv: "And when all the people came to cause David to eat meat while it was yet day, David sware, saying, So do God to me, and more also, if I taste bread, or ought else, till the sun be down."
+bsb: "Then all the people came and urged David to eat something while it was still day, but David took an oath, saying, “May God punish me, and ever so severely, if I taste bread or anything else before the sun sets!”"
+hebrew: "וַיָּבֹ֣א כָל־ הָעָ֗ם לְהַבְר֧וֹת אֶת־ דָּוִ֛ד לֶ֖חֶם בְּע֣וֹד הַיּ֑וֹם וַיִּשָּׁבַ֨ע דָּוִ֜ד לֵאמֹ֗ר כֹּ֣ה יַעֲשֶׂה־ לִּ֤י אֱלֹהִים֙ וְכֹ֣ה יֹסִ֔יף כִּ֣י אִם־ לִפְנֵ֧י בֽוֹא־ הַשֶּׁ֛מֶשׁ אֶטְעַם־ לֶ֖חֶם א֥וֹ כָל־ מְאֽוּמָה׃"
+pericope: "[[2Sam.3.31 David Mourns for Abner|David Mourns for Abner]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 3
+book/chapter: "[[2Sam.3|2 Samuel 3]]"
+chronological_order: 331
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABNER|ABNER]]"
+- "[[topic FASTING|FASTING]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic OATH|OATH]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H1262]]"
+- "[[H0853]]"
+- "[[H1732]]"
+- "[[H3899H]]"
+- "[[H9003]]"
+- "[[H5750]]"
+- "[[H3117G]]"
+- "[[H7650]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H6213A]]"
+- "[[H9030]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H3254H]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H6440G]]"
+- "[[H8121]]"
+- "[[H2938]]"
+- "[[H0176A]]"
+- "[[H3972]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 3:35**<big><big>[[2Sam.3.31 David Mourns for Abner|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when all the people came to cause David to eat meat while it was yet day, David sware, saying, So do God to me, and more also, if I taste bread, or ought else, till the sun be down.
 <small><sub>**BSB:**</sub></small>
 Then all the people came and urged David to eat something while it was still day, but David took an oath, saying, “May God punish me, and ever so severely, if I taste bread or anything else before the sun sets!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֣א]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֗ם]] [[H9005\|לְ]][[H1262\|הַבְר֧וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H1732\|דָּוִ֛ד]] [[H3899H\|לֶ֖חֶם]] [[H9003\|בְּ]][[H5750\|ע֣וֹד]] [[H9009\|הַ]][[H3117G\|יּ֑וֹם]] [[H9001\|וַ]][[H7650\|יִּשָּׁבַ֨ע]] [[H1732\|דָּוִ֜ד]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H3541\|כֹּ֣ה]] [[H6213A\|יַעֲשֶׂה]][[H9014\|־]] [[H9005\|לִּ֤]][[H9030\|י]] [[H0430G\|אֱלֹהִים֙]] [[H9002\|וְ]][[H3541\|כֹ֣ה]] [[H3254H\|יֹסִ֔יף]] [[H3588B\|כִּ֣י]] [[H0518B\|אִם]][[H9014\|־]] [[H9005\|לִ]][[H6440G\|פְנֵ֧י]] [[H0935G\|בֽוֹא]][[H9014\|־]] [[H9009\|הַ]][[H8121\|שֶּׁ֛מֶשׁ]] [[H2938\|אֶטְעַם]][[H9014\|־]] [[H3899H\|לֶ֖חֶם]] [[H0176A\|א֥וֹ]] [[H3605\|כָל]][[H9014\|־]] [[H3972\|מְאֽוּמָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]] • [[topic FASTING|FASTING]] • [[topic MOURNING|MOURNING]] • [[topic OATH|OATH]] • [[topic TACT|TACT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.34|<< 2 Samuel 3:34]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.36|2 Samuel 3:36 >>]]</td></tr></table>
 

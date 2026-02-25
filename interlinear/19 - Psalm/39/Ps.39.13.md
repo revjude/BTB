@@ -1,8 +1,55 @@
+---
+title: Psalm 39:13
+type: Verse
+kjv: "O spare me, that I may recover strength, before I go hence, and be no more."
+bsb: "Turn Your gaze away from me, that I may again be cheered before I depart and am no more.”"
+hebrew: "הָשַׁ֣ע מִמֶּ֣נִּי וְאַבְלִ֑יגָה בְּטֶ֖רֶם אֵלֵ֣ךְ וְאֵינֶֽנִּי׃"
+pericope: "[[Ps.39.1 I Will Watch My Ways|I Will Watch My Ways]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 39
+book/chapter: "[[Ps.39|Psalm 39]]"
+chronological_order: 366
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEATH|DEATH]]"
+strongs:
+- "[[H8159]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H1082]]"
+- "[[H9003]]"
+- "[[H2962]]"
+- "[[H1980G]]"
+- "[[H0369]]"
+- "[[H9040]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 39:13**<big><big>[[Ps.39.1 I Will Watch My Ways|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O spare me, that I may recover strength, before I go hence, and be no more.
 <small><sub>**BSB:**</sub></small>
 Turn Your gaze away from me, that I may again be cheered before I depart and am no more.”
+<small><sub>**Hebrew:**</sub></small>
+[[H8159\|הָשַׁ֣ע]] [[H4480A\|מִמֶּ֣]][[H9030\|נִּי]] [[H9002\|וְ]][[H1082\|אַבְלִ֑יגָה]] [[H9003\|בְּ]][[H2962\|טֶ֖רֶם]] [[H1980G\|אֵלֵ֣ךְ]] [[H9002\|וְ]][[H0369\|אֵינֶֽ]][[H9040\|נִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEATH|DEATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.39.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.39.12|<< Psalms 39:12]]</td><td align="center" style="border:none;">[[Ps.39|Psalms 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.40.0|Psalms 40:0 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

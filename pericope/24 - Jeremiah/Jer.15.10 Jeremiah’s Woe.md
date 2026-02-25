@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jeremiah’s Woe
+type: Pericope
 pericope: "[[Jer.15.10 Jeremiah’s Woe|Jeremiah’s Woe]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 15
 book/chapter: "[[Jer.15|Jeremiah 15]]"
-genre:
+chronological_order: 732
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 9
 verses:
 - "[[Jer.15.10]]"
 - "[[Jer.15.11]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Jer.15.18]]"
 ---
 
-[[Jer.15|Jeremiah 15:10 - Jeremiah 15:18]]
+<small>[[Jer.15|Jeremiah 15:10-18]]</small>
 *Jeremiah’s Woe*
 
 [[Jer.15.10|10]] Woe is me, my mother, that thou hast borne me a man of strife and a man of contention to the whole earth! I have neither lent on usury, nor men have lent to me on usury; \[yet\] every one of them doth curse me.

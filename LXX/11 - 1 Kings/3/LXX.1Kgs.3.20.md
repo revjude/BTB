@@ -1,6 +1,76 @@
+---
+title: LXX 1 Kings 3:20
+type: Verse
+lxx: "And she rose up in the middle of the night, and she took  my son from  my embrace, and  your maidservant rested, and she rested it in  her bosom, and the son having died she rested in  my bosom."
+greek: "και ανέστη μεσόν της νυκτός και έλαβε τον υιόν μου εκ των αγκαλών μου και η δούλη σου εκοιμάτο και εκοίμισε αυτό εν τω κόλπω αυτής και τον υιόν τεθνηκότα εκοίμισεν εν τω κόλπω μου"
+original_language: Greek
+testament: Old
+book: 1 Kings
+chapter: 3
+book/chapter: "[[1Kgs.3|1 Kings 3]]"
+chronological_order: 443
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ARBITRATION|ARBITRATION]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G2532]]"
+- "[[G0450]]"
+- "[[G3319]]"
+- "[[G3588]]"
+- "[[G3571]]"
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G1473]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G0043]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1399]]"
+- "[[G1473]]"
+- "[[G8044]]"
+- "[[G2532]]"
+- "[[G8044]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2859]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G2348]]"
+- "[[G8044]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2859]]"
+- "[[G1473]]"
+---
+
 **LXX 1 Kings 3:20** 
 <small><sub>**LXX:**</sub></small>
 And she rose up in the middle of the night, and she took  my son from  my embrace, and  your maidservant rested, and she rested it in  her bosom, and the son having died she rested in  my bosom. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0450\|ανέστη]] [[G3319\|μεσόν]] [[G3588\|της]] [[G3571\|νυκτός]] [[G2532\|και]] [[G2983\|έλαβε]] [[G3588\|τον]] [[G5207\|υιόν]] [[G1473\|μου]] [[G1537\|εκ]] [[G3588\|των]] [[G0043\|αγκαλών]] [[G1473\|μου]] [[G2532\|και]] [[G3588\|η]] [[G1399\|δούλη]] [[G1473\|σου]] [[G8044\|εκοιμάτο]] [[G2532\|και]] [[G8044\|εκοίμισε]] [[G1473\|αυτό]] [[G1722\|εν]] [[G3588\|τω]] [[G2859\|κόλπω]] [[G1473\|αυτής]] [[G2532\|και]] [[G3588\|τον]] [[G5207\|υιόν]] [[G2348\|τεθνηκότα]] [[G8044\|εκοίμισεν]] [[G1722\|εν]] [[G3588\|τω]] [[G2859\|κόλπω]] [[G1473\|μου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARBITRATION|ARBITRATION]] • [[topic JUDGE|JUDGE]] • [[topic RULERS|RULERS]] • [[topic SOLOMON|SOLOMON]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Kgs.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.19|<< 1 Kings 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.21|1 Kings 3:21 >>]]</td></tr></table>
 
@@ -35,6 +105,6 @@ And she rose up in the middle of the night, and she took  my son from  my embrac
 | in | **<big>[[G1722\|εν]]</big>** |
 | \<obj.> | **<big>[[G3588\|τω]]</big>** |
 | my bosom. | **<big>[[G2859\|κόλπω]]</big>** **<big>[[G1473\|μου]]</big>** |
-[[1Kgs.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.19|<< 1 Kings 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.21|1 Kings 3:21 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.19|<< 1 Kings 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.21|1 Kings 3:21 >>]]</td></tr></table>
 
 

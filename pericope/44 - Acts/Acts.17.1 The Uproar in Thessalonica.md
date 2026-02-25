@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Uproar in Thessalonica
+type: Pericope
 pericope: "[[Acts.17.1 The Uproar in Thessalonica|The Uproar in Thessalonica]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Acts
 chapter: 17
 book/chapter: "[[Acts.17|Acts 17]]"
-genre:
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 9
 verses:
 - "[[Acts.17.1]]"
 - "[[Acts.17.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Acts.17.9]]"
 ---
 
-[[Acts.17|Acts 17:1 - Acts 17:9]]
+<small>[[Acts.17|Acts 17:1-9]]</small>
 *The Uproar in Thessalonica*
 
 [[Acts.17.1|1]] Now when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where was a synagogue of the Jews:

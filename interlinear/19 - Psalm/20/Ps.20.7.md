@@ -1,8 +1,60 @@
+---
+title: Psalm 20:7
+type: Verse
+kjv: "Some trust in chariots, and some in horses: but we will remember the name of the LORD our God."
+bsb: "Some trust in chariots and others in horses, but we trust in the name of the LORD our God."
+hebrew: "אֵ֣לֶּה בָ֭רֶכֶב וְאֵ֣לֶּה בַסּוּסִ֑ים וַאֲנַ֓חְנוּ׀ בְּשֵׁם־ יְהוָ֖ה אֱלֹהֵ֣ינוּ נַזְכִּֽיר׃"
+pericope: "[[Ps.20.1 The Day of Trouble|The Day of Trouble]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 20
+book/chapter: "[[Ps.20|Psalm 20]]"
+chronological_order: 353
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FALSE CONFIDENCE|FALSE CONFIDENCE]]"
+strongs:
+- "[[H0428]]"
+- "[[H9003]]"
+- "[[H7393G]]"
+- "[[H9002]]"
+- "[[H5483M]]"
+- "[[H0587]]"
+- "[[H9015]]"
+- "[[H8034]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H2142]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 20:7**<big><big>[[Ps.20.1 The Day of Trouble|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Some [trust] in chariots, and some in horses: but we will remember the name of the LORD our God.
 <small><sub>**BSB:**</sub></small>
 Some trust in chariots and others in horses, but we trust in the name of the LORD our God.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֣לֶּה]] [[H9003\|בָ֭]][[H7393G\|רֶכֶב]] [[H9002\|וְ]][[H0428\|אֵ֣לֶּה]] [[H9003\|בַ]][[H5483M\|סּוּסִ֑ים]] [[H9002\|וַ]][[H0587\|אֲנַ֓חְנוּ]][[H9015\|׀]] [[H9003\|בְּ]][[H8034\|שֵׁם]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵ֣י]][[H9025\|נוּ]] [[H2142\|נַזְכִּֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARIOT|CHARIOT]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic FAITH|FAITH]] • [[topic FALSE CONFIDENCE|FALSE CONFIDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.20.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.20.6|<< Psalms 20:6]]</td><td align="center" style="border:none;">[[Ps.20|Psalms 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.20.8|Psalms 20:8 >>]]</td></tr></table>
 

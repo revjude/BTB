@@ -1,8 +1,76 @@
+---
+title: Jeremiah 24:8
+type: Verse
+kjv: "And as the evil figs, which cannot be eaten, they are so evil; surely thus saith the LORD, So will I give Zedekiah the king of Judah, and his princes, and the residue of Jerusalem, that remain in this land, and them that dwell in the land of Egypt:"
+bsb: "But like the bad figs, so bad they cannot be eaten,’ says the LORD, ‘so will I deal with Zedekiah king of Judah, his officials, and the remnant of Jerusalem—those remaining in this land and those living in the land of Egypt."
+hebrew: "וְכַתְּאֵנִים֙ הָֽרָע֔וֹת אֲשֶׁ֥ר לֹא־ תֵאָכַ֖לְנָה מֵרֹ֑עַ כִּי־ כֹ֣ה׀ אָמַ֣ר יְהוָ֗ה כֵּ֣ן אֶ֠תֵּן אֶת־ צִדְקִיָּ֨הוּ מֶֽלֶךְ־ יְהוּדָ֤ה וְאֶת־ שָׂרָיו֙ וְאֵ֣ת׀ שְׁאֵרִ֣ית יְרוּשָׁלִַ֗ם הַנִּשְׁאָרִים֙ בָּאָ֣רֶץ הַזֹּ֔את וְהַיֹּשְׁבִ֖ים בְּאֶ֥רֶץ מִצְרָֽיִם׃"
+pericope: "[[Jer.24.1 The Good and Bad Figs|The Good and Bad Figs]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 24
+book/chapter: "[[Jer.24|Jeremiah 24]]"
+chronological_order: 747
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H8384]]"
+- "[[H9009]]"
+- "[[H7451A]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0398]]"
+- "[[H9006]]"
+- "[[H7455]]"
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H3651C]]"
+- "[[H5414I]]"
+- "[[H0853]]"
+- "[[H6667H]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H8269]]"
+- "[[H9023]]"
+- "[[H7611]]"
+- "[[H3389]]"
+- "[[H7604]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H3427]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 24:8**<big><big>[[Jer.24.1 The Good and Bad Figs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as the evil figs, which cannot be eaten, they are so evil; surely thus saith the LORD, So will I give Zedekiah the king of Judah, and his princes, and the residue of Jerusalem, that remain in this land, and them that dwell in the land of Egypt:
 <small><sub>**BSB:**</sub></small>
 But like the bad figs, so bad they cannot be eaten,’ says the LORD, ‘so will I deal with Zedekiah king of Judah, his officials, and the remnant of Jerusalem—those remaining in this land and those living in the land of Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9004\|כַ]][[H8384\|תְּאֵנִים֙]] [[H9009\|הָֽ]][[H7451A\|רָע֔וֹת]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹא]][[H9014\|־]] [[H0398\|תֵאָכַ֖לְנָה]] [[H9006\|מֵ]][[H7455\|רֹ֑עַ]] [[H3588A\|כִּי]][[H9014\|־]] [[H3541\|כֹ֣ה]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H3651C\|כֵּ֣ן]] [[H5414I\|אֶ֠תֵּן]] [[H0853\|אֶת]][[H9014\|־]] [[H6667H\|צִדְקִיָּ֨הוּ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָ֤ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8269\|שָׂרָי]][[H9023\|ו֙]] [[H9002\|וְ]][[H0853\|אֵ֣ת]][[H9015\|׀]] [[H7611\|שְׁאֵרִ֣ית]] [[H3389\|יְרוּשָׁלִַ֗ם]] [[H9009\|הַ]][[H7604\|נִּשְׁאָרִים֙]] [[H9003\|בָּ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H9002\|וְ]][[H9009\|הַ]][[H3427\|יֹּשְׁבִ֖ים]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.24.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.24.7|<< Jeremiah 24:7]]</td><td align="center" style="border:none;">[[Jer.24|Jeremiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.24.9|Jeremiah 24:9 >>]]</td></tr></table>
 

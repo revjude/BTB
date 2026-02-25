@@ -1,8 +1,62 @@
+---
+title: Numbers 34:7
+type: Verse
+kjv: "And this shall be your north border: from the great sea ye shall point out for you mount Hor:"
+bsb: "Your northern border will run from the Great Sea directly to Mount Hor,"
+hebrew: "וְזֶֽה־ יִהְיֶ֥ה לָכֶ֖ם גְּב֣וּל צָפ֑וֹן מִן־ הַיָּם֙ הַגָּדֹ֔ל תְּתָא֥וּ לָכֶ֖ם הֹ֥ר הָהָֽר׃"
+pericope: "[[Num.34.1 The Boundaries of Canaan|The Boundaries of Canaan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 34
+book/chapter: "[[Num.34|Numbers 34]]"
+chronological_order: 194
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic HOR|HOR]]"
+- "[[topic MEDITERRANEAN SEA|MEDITERRANEAN SEA]]"
+strongs:
+- "[[H9002]]"
+- "[[H2088]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H1366G]]"
+- "[[H6828G]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H1419J]]"
+- "[[H8376]]"
+- "[[H2023H]]"
+- "[[H2022G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 34:7**<big><big>[[Num.34.1 The Boundaries of Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this shall be your north border: from the great sea ye shall point out for you mount Hor:
 <small><sub>**BSB:**</sub></small>
 Your northern border will run from the Great Sea directly to Mount Hor,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2088\|זֶֽה]][[H9014\|־]] [[H1961\|יִהְיֶ֥ה]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H1366G\|גְּב֣וּל]] [[H6828G\|צָפ֑וֹן]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּם֙]] [[H9009\|הַ]][[H1419J\|גָּדֹ֔ל]] [[H8376\|תְּתָא֥וּ]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H2023H\|הֹ֥ר]] [[H9009\|הָ]][[H2022G\|הָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic HOR|HOR]] • [[topic MEDITERRANEAN SEA|MEDITERRANEAN SEA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.34.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.6|<< Numbers 34:6]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.34.8|Numbers 34:8 >>]]</td></tr></table>
 

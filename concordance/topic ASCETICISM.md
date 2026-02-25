@@ -7,7 +7,7 @@
 
 - Rebuked by Jesus [[Matt.11.19|Mt 11:19]]; [[Luke.7.34|Lu 7:34]]
 
-- Rebuked by Paul [[Col.2.20|Col 2:20]]-[[Col.2.23|23]]; [[1Tim.4.1|1Ti 4:1]]-[[1Tim.4.4|4]],[[1Tim.4.8|8]]
+- Rebuked by Paul [[Col.2.20|Col 2:20-23]]; [[1Tim.4.1|1Ti 4:1-4]],[[1Tim.4.8|8]]
 
 → See [[topic STOICISM|STOICISM]]
 

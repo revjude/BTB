@@ -1,8 +1,66 @@
+---
+title: 2 Kings 10:2
+type: Verse
+kjv: "Now as soon as this letter cometh to you, seeing your master’s sons are with you, and there are with you chariots and horses, a fenced city also, and armour;"
+bsb: "“When this letter arrives, since your master’s sons are with you and you have chariots and horses, a fortified city and weaponry,"
+hebrew: "וְעַתָּ֗ה בְּבֹ֨א הַסֵּ֤פֶר הַזֶּה֙ אֲלֵיכֶ֔ם וְאִתְּכֶ֖ם בְּנֵ֣י אֲדֹנֵיכֶ֑ם וְאִתְּכֶם֙ הָרֶ֣כֶב וְהַסּוּסִ֔ים וְעִ֥יר מִבְצָ֖ר וְהַנָּֽשֶׁק׃"
+pericope: "[[2Kgs.10.1 Ahab’s Seventy Sons Killed|Ahab’s Seventy Sons Killed]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 10
+book/chapter: "[[2Kgs.10|2 Kings 10]]"
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic MASSACRE|MASSACRE]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H9003]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H5612A]]"
+- "[[H2088]]"
+- "[[H0413]]"
+- "[[H9036]]"
+- "[[H0854]]"
+- "[[H1121A]]"
+- "[[H0113]]"
+- "[[H9026]]"
+- "[[H7393G]]"
+- "[[H5483M]]"
+- "[[H5892B]]"
+- "[[H4013]]"
+- "[[H5402]]"
+- "[[H9016]]"
+texts:
+- L
+- LB(ah)
+---
+
 **2 Kings 10:2**<big><big>[[2Kgs.10.1 Ahab’s Seventy Sons Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now as soon as this letter cometh to you, seeing your master’s sons [are] with you, and [there are] with you chariots and horses, a fenced city also, and armour;
 <small><sub>**BSB:**</sub></small>
 “When this letter arrives, since your master’s sons are with you and you have chariots and horses, a fortified city and weaponry,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H9003\|בְּ]][[H0935G\|בֹ֨א]] [[H9009\|הַ]][[H5612A\|סֵּ֤פֶר]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H0413\|אֲלֵי]][[H9036\|כֶ֔ם]] [[H9002\|וְ]][[H0854\|אִתְּ]][[H9036\|כֶ֖ם]] [[H1121A\|בְּנֵ֣י]] [[H0113\|אֲדֹנֵי]][[H9026\|כֶ֑ם]] [[H9002\|וְ]][[H0854\|אִתְּ]][[H9036\|כֶם֙]] [[H9009\|הָ]][[H7393G\|רֶ֣כֶב]] [[H9002\|וְ]][[H9009\|הַ]][[H5483M\|סּוּסִ֔ים]] [[H9002\|וְ]][[H5892B\|עִ֥יר]] [[H4013\|מִבְצָ֖ר]] [[H9002\|וְ]][[H9009\|הַ]][[H5402\|נָּֽשֶׁק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic CHILDREN|CHILDREN]] • [[topic ENTHUSIASM|ENTHUSIASM]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JEHU|JEHU]] • [[topic MASSACRE|MASSACRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.1|<< 2 Kings 10:1]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.3|2 Kings 10:3 >>]]</td></tr></table>
 

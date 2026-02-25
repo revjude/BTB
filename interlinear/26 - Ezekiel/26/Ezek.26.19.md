@@ -1,8 +1,65 @@
+---
+title: Ezekiel 26:19
+type: Verse
+kjv: "For thus saith the Lord GOD; When I shall make thee a desolate city, like the cities that are not inhabited; when I shall bring up the deep upon thee, and great waters shall cover thee;"
+bsb: "For this is what the Lord GOD says: ‘When I make you a desolate city like other deserted cities, and when I raise up the deep against you so that the mighty waters cover you,"
+hebrew: "כִּ֣י כֹ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה בְּתִתִּ֤י אֹתָךְ֙ עִ֣יר נֶחֱרֶ֔בֶת כֶּעָרִ֖ים אֲשֶׁ֣ר לֹֽא־ נוֹשָׁ֑בוּ בְּהַעֲל֤וֹת עָלַ֙יִךְ֙ אֶת־ תְּה֔וֹם וְכִסּ֖וּךְ הַמַּ֥יִם הָרַבִּֽים׃"
+pericope: "[[Ezek.26.1 A Prophecy against Tyre|A Prophecy against Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 26
+book/chapter: "[[Ezek.26|Ezekiel 26]]"
+chronological_order: 817
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9003]]"
+- "[[H5414I]]"
+- "[[H9040]]"
+- "[[H0853]]"
+- "[[H9032]]"
+- "[[H5892B]]"
+- "[[H2717B]]"
+- "[[H9004]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3427]]"
+- "[[H5927J]]"
+- "[[H5921A]]"
+- "[[H8415]]"
+- "[[H9001]]"
+- "[[H3680]]"
+- "[[H9009]]"
+- "[[H4325G]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 26:19**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the Lord GOD; When I shall make thee a desolate city, like the cities that are not inhabited; when I shall bring up the deep upon thee, and great waters shall cover thee;
 <small><sub>**BSB:**</sub></small>
 For this is what the Lord GOD says: ‘When I make you a desolate city like other deserted cities, and when I raise up the deep against you so that the mighty waters cover you,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3541\|כֹ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H9003\|בְּ]][[H5414I\|תִתִּ֤]][[H9040\|י]] [[H0853\|אֹתָ]][[H9032\|ךְ֙]] [[H5892B\|עִ֣יר]] [[H2717B\|נֶחֱרֶ֔בֶת]] [[H9004\|כֶּ]][[H5892B\|עָרִ֖ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3427\|נוֹשָׁ֑בוּ]] [[H9003\|בְּ]][[H5927J\|הַעֲל֤וֹת]] [[H5921A\|עָלַ֙יִ]][[H9032\|ךְ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H8415\|תְּה֔וֹם]] [[H9001\|וְ]][[H3680\|כִסּ֖וּ]][[H9032\|ךְ]] [[H9009\|הַ]][[H4325G\|מַּ֥יִם]] [[H9009\|הָ]][[H7227A\|רַבִּֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.18|<< Ezekiel 26:18]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.20|Ezekiel 26:20 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Numbers 26:22
+type: Verse
+kjv: "These are the families of Judah according to those that were numbered of them, threescore and sixteen thousand and five hundred."
+bsb: "These were the clans of Judah, and their registration numbered 76,500."
+hebrew: "אֵ֛לֶּה מִשְׁפְּחֹ֥ת יְהוּדָ֖ה לִפְקֻדֵיהֶ֑ם שִׁשָּׁ֧ה וְשִׁבְעִ֛ים אֶ֖לֶף וַחֲמֵ֥שׁ מֵאֽוֹת׃ ס"
+pericope: "[[Num.26.19 The Tribe of Judah|The Tribe of Judah]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 26
+book/chapter: "[[Num.26|Numbers 26]]"
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic JUDAH|JUDAH]]"
+strongs:
+- "[[H0428]]"
+- "[[H4940]]"
+- "[[H3063G]]"
+- "[[H9005]]"
+- "[[H6485A]]"
+- "[[H9028]]"
+- "[[H8337]]"
+- "[[H9002]]"
+- "[[H7657]]"
+- "[[H0505G]]"
+- "[[H2568]]"
+- "[[H3967]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Numbers 26:22**<big><big>[[Num.26.19 The Tribe of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the families of Judah according to those that were numbered of them, threescore and sixteen thousand and five hundred.
 <small><sub>**BSB:**</sub></small>
 These were the clans of Judah, and their registration numbered 76,500.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֛לֶּה]] [[H4940\|מִשְׁפְּחֹ֥ת]] [[H3063G\|יְהוּדָ֖ה]] [[H9005\|לִ]][[H6485A\|פְקֻדֵי]][[H9028\|הֶ֑ם]] [[H8337\|שִׁשָּׁ֧ה]] [[H9002\|וְ]][[H7657\|שִׁבְעִ֛ים]] [[H0505G\|אֶ֖לֶף]] [[H9002\|וַ]][[H2568\|חֲמֵ֥שׁ]] [[H3967\|מֵאֽוֹת]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDAH|JUDAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.21|<< Numbers 26:21]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.23|Numbers 26:23 >>]]</td></tr></table>
 
@@ -16,7 +66,7 @@ These were the clans of Judah, and their registration numbered 76,500.
 | and seventy  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7657\|שִׁבְעִ֛ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shiv.'Im<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thousand  |**<big>&#8207;[[H0505G\|אֶ֖לֶף]]&#8207; </big>**| 'E.lef<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and five  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2568\|חֲמֵ֥שׁ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.Mesh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hundred\<s>  |**<big>&#8207;[[H3967\|מֵאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  |**<big>&#8207;[[H3967\|מֵאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.21|<< Numbers 26:21]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.23|Numbers 26:23 >>]]</td></tr></table>
 
 

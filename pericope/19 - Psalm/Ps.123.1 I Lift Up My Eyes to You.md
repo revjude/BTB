@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: I Lift Up My Eyes to You
+type: Pericope
 pericope: "[[Ps.123.1 I Lift Up My Eyes to You|I Lift Up My Eyes to You]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 123
 book/chapter: "[[Ps.123|Psalm 123]]"
-genre:
+chronological_order: 885
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 5
 verses:
 - "[[Ps.123.0]]"
 - "[[Ps.123.1]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Ps.123.4]]"
 ---
 
-[[Ps.123|Psalm 123:1 - Psalm 123:4]]
+<small>[[Ps.123|Psalm 123:1-4]]</small>
 *I Lift Up My Eyes to You*
 
 [[Ps.123.0|0]] A Song of degrees.

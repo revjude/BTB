@@ -1,8 +1,56 @@
+---
+title: Ecclesiastes 8:6
+type: Verse
+kjv: "Because to every purpose there is time and judgment, therefore the misery of man is great upon him."
+bsb: "For there is a right time and procedure to every purpose, though a man’s misery weighs heavily upon him."
+hebrew: "כִּ֣י לְכָל־ חֵ֔פֶץ יֵ֖שׁ עֵ֣ת וּמִשְׁפָּ֑ט כִּֽי־ רָעַ֥ת הָאָדָ֖ם רַבָּ֥ה עָלָֽיו׃"
+pericope: "[[Eccl.8.1 Obey the King|Obey the King]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 8
+book/chapter: "[[Eccl.8|Ecclesiastes 8]]"
+chronological_order: 546
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic IGNORANCE|IGNORANCE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2656]]"
+- "[[H3426]]"
+- "[[H6256]]"
+- "[[H9002]]"
+- "[[H4941J]]"
+- "[[H7451C]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H7227A]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 8:6**<big><big>[[Eccl.8.1 Obey the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because to every purpose there is time and judgment, therefore the misery of man [is] great upon him.
 <small><sub>**BSB:**</sub></small>
 For there is a right time and procedure to every purpose, though a man’s misery weighs heavily upon him.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H2656\|חֵ֔פֶץ]] [[H3426\|יֵ֖שׁ]] [[H6256\|עֵ֣ת]] [[H9002\|וּ]][[H4941J\|מִשְׁפָּ֑ט]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7451C\|רָעַ֥ת]] [[H9009\|הָ]][[H0120G\|אָדָ֖ם]] [[H7227A\|רַבָּ֥ה]] [[H5921A\|עָלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IGNORANCE|IGNORANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.8.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.5|<< Ecclesiastes 8:5]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.7|Ecclesiastes 8:7 >>]]</td></tr></table>
 

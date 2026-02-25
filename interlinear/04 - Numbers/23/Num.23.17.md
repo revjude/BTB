@@ -1,8 +1,67 @@
+---
+title: Numbers 23:17
+type: Verse
+kjv: "And when he came to him, behold, he stood by his burnt offering, and the princes of Moab with him. And Balak said unto him, What hath the LORD spoken?"
+bsb: "So he returned to Balak, who was standing there by his burnt offering with the princes of Moab. “What did the LORD say?” Balak asked."
+hebrew: "וַיָּבֹ֣א אֵלָ֗יו וְהִנּ֤וֹ נִצָּב֙ עַל־ עֹ֣לָת֔וֹ וְשָׂרֵ֥י מוֹאָ֖ב אִתּ֑וֹ וַיֹּ֤אמֶר לוֹ֙ בָּלָ֔ק מַה־ דִּבֶּ֖ר יְהוָֽה׃"
+pericope: "[[Num.23.13 Balaam’s Second Oracle|Balaam’s Second Oracle]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 23
+book/chapter: "[[Num.23|Numbers 23]]"
+chronological_order: 183
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PISGAH|PISGAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9043]]"
+- "[[H5324]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5930A]]"
+- "[[H9023]]"
+- "[[H8269]]"
+- "[[H4124G]]"
+- "[[H0854]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H1111]]"
+- "[[H4100]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 23:17**<big><big>[[Num.23.13 Balaam’s Second Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he came to him, behold, he stood by his burnt offering, and the princes of Moab with him. And Balak said unto him, What hath the LORD spoken?
 <small><sub>**BSB:**</sub></small>
 So he returned to Balak, who was standing there by his burnt offering with the princes of Moab. “What did the LORD say?” Balak asked.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֣א]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H9002\|וְ]][[H2009\|הִנּ֤]][[H9043\|וֹ]] [[H5324\|נִצָּב֙]] [[H5921A\|עַל]][[H9014\|־]] [[H5930A\|עֹ֣לָת֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H8269\|שָׂרֵ֥י]] [[H4124G\|מוֹאָ֖ב]] [[H0854\|אִתּ֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H1111\|בָּלָ֔ק]] [[H4100\|מַה]][[H9014\|־]] [[H1696G\|דִּבֶּ֖ר]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PISGAH|PISGAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.16|<< Numbers 23:16]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.18|Numbers 23:18 >>]]</td></tr></table>
 

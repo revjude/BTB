@@ -1,10 +1,69 @@
+---
+title: Acts 25:24
+type: Verse
+kjv: "And Festus said, King Agrippa, and all men which are here present with us, ye see this man, about whom all the multitude of the Jews have dealt with me, both at Jerusalem, and also here, crying that he ought not to live any longer."
+bsb: "Then Festus said, “King Agrippa and all who are present with us, you see this man. The whole Jewish community has petitioned me about him, both here and in Jerusalem, crying out that he ought not to live any longer."
+greek: "Καί φησιν ὁ Φῆστος· Ἀγρίππα βασιλεῦ καὶ πάντες οἱ συμπαρόντες ἡμῖν ἄνδρες, θεωρεῖτε τοῦτον περὶ οὗ ἅπαν τὸ πλῆθος τῶν Ἰουδαίων ἐνέτυχόν μοι ἔν τε Ἱεροσολύμοις καὶ ἐνθάδε βοῶντες μὴ δεῖν αὐτὸν ζῆν μηκέτι."
+pericope: "[[Acts.25.23 Paul before Agrippa and Bernice|Paul before Agrippa and Bernice]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 25
+book/chapter: "[[Acts.25|Acts 25]]"
+chronological_order: 1107
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic APPEAL|APPEAL]]"
+strongs:
+- "[[G2532]]"
+- "[[G5346]]"
+- "[[G3588]]"
+- "[[G5347]]"
+- "[[G0067]]"
+- "[[G0935]]"
+- "[[G3956]]"
+- "[[G4840]]"
+- "[[G3165]]"
+- "[[G0435G]]"
+- "[[G2334]]"
+- "[[G3778]]"
+- "[[G4012]]"
+- "[[G3739]]"
+- "[[G0537]]"
+- "[[G4128]]"
+- "[[G2453]]"
+- "[[G1793]]"
+- "[[G1722]]"
+- "[[G5037]]"
+- "[[G2414]]"
+- "[[G1759]]"
+- "[[G0994]]"
+- "[[G3361]]"
+- "[[G1163]]"
+- "[[G0846]]"
+- "[[G2198]]"
+- "[[G3371]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Acts 25:24**<big><big>[[Acts.25.23 Paul before Agrippa and Bernice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Festus said, King Agrippa, and all men which are here present with us, ye see this man, about whom all the multitude of the Jews have dealt with me, both at Jerusalem, and [also] here, crying that he ought not to live any longer.
 <small><sub>**BSB:**</sub></small>
 Then Festus said, “King Agrippa and all who are present with us, you see this man. The whole Jewish community has petitioned me about him, both here and in Jerusalem, crying out that he ought not to live any longer.
-<small><sub>**Literal:**</sub></small>
-And says <the> Festus; Agrippa King and all you who [are] being present with us men, you see this one concerning whom all the multitude of the Jews they pleaded with me in both Jerusalem and here crying [that] not needing of him to live no longer.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.23|<< Acts 25:23]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.25|Acts 25:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καί]]  [[G5346\|φησιν]]  [[G3588\|ὁ]]  [[G5347\|Φῆστος·]]  [[G0067\|Ἀγρίππα]]  [[G0935\|βασιλεῦ]]  [[G2532\|καὶ]]  [[G3956\|πάντες]]  [[G3588\|οἱ]]  [[G4840\|συμπαρόντες]]  [[G3165\|ἡμῖν]]  [[G0435G\|ἄνδρες,]]  [[G2334\|θεωρεῖτε]]  [[G3778\|τοῦτον]]  [[G4012\|περὶ]]  [[G3739\|οὗ]]  [[G0537\|ἅπαν]]  [[G3588\|τὸ]]  [[G4128\|πλῆθος]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων]]  [[G1793\|ἐνέτυχόν]]  [[G3165\|μοι]]  [[G1722\|ἔν]]  [[G5037\|τε]]  [[G2414\|Ἱεροσολύμοις]]  [[G2532\|καὶ]]  [[G1759\|ἐνθάδε]]  [[G0994\|βοῶντες]]  [[G3361\|μὴ]]  [[G1163\|δεῖν]]  [[G0846\|αὐτὸν]]  [[G2198\|ζῆν]]  [[G3371\|μηκέτι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APPEAL|APPEAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.23|<< Acts 25:23]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.25|Acts 25:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

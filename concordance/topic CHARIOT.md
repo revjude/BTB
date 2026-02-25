@@ -5,13 +5,13 @@
 
 → Wheels of Pharaoh's, providentially taken off [[Exod.14.25|Ex 14:25]]
 
-→ Commanded by captains [[Exod.14.7|Ex 14:7]]; [[1Kgs.9.22|1Ki 9:22]]; [[1Kgs.22.31|22:31]]-[[1Kgs.22.33|33]];  [[2Kgs.8.21|2Ki 8:21]]
+→ Commanded by captains [[Exod.14.7|Ex 14:7]]; [[1Kgs.9.22|1Ki 9:22]]; [[1Kgs.22.31|22:31-33]];  [[2Kgs.8.21|2Ki 8:21]]
 
 → Made of iron [[Josh.17.18|Jos 17:18]]; [[Judg.1.19|Jud 1:19]]
 
 → Introduced among Israelites by David [[2Sam.8.4|2Sa 8:4]]
 
-→ Imported from Egypt by Solomon [[1Kgs.10.26|1Ki 10:26]]-[[1Kgs.10.29|29]]
+→ Imported from Egypt by Solomon [[1Kgs.10.26|1Ki 10:26-29]]
 
 → Cities for [[1Kgs.9.19|1Ki 9:19]]; [[2Chr.1.14|2Ch 1:14]]; [[2Chr.8.6|8:6]]; [[2Chr.9.25|9:25]]
 

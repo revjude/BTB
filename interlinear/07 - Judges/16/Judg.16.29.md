@@ -1,8 +1,68 @@
+---
+title: Judges 16:29
+type: Verse
+kjv: "And Samson took hold of the two middle pillars upon which the house stood, and on which it was borne up, of the one with his right hand, and of the other with his left."
+bsb: "And Samson reached out for the two central pillars supporting the temple. Bracing himself against them with his right hand on one pillar and his left hand on the other,"
+hebrew: "וַיִּלְפֹּ֨ת שִׁמְשׁ֜וֹן אֶת־ שְׁנֵ֣י׀ עַמּוּדֵ֣י הַתָּ֗וֶךְ אֲשֶׁ֤ר הַבַּ֙יִת֙ נָכ֣וֹן עֲלֵיהֶ֔ם וַיִּסָּמֵ֖ךְ עֲלֵיהֶ֑ם אֶחָ֥ד בִּימִינ֖וֹ וְאֶחָ֥ד בִּשְׂמֹאלֽוֹ׃"
+pericope: "[[Judg.16.23 Samson’s Vengeance and Death|Samson’s Vengeance and Death]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 16
+book/chapter: "[[Judg.16|Judges 16]]"
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GAZA|GAZA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REVENGE|REVENGE]]"
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic SUICIDE|SUICIDE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3943]]"
+- "[[H8123]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8147]]"
+- "[[H9015]]"
+- "[[H5982G]]"
+- "[[H9009]]"
+- "[[H8432]]"
+- "[[H0834A]]"
+- "[[H1004B]]"
+- "[[H3559H]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H5564]]"
+- "[[H0259]]"
+- "[[H9003]]"
+- "[[H3225G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H8040G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 16:29**<big><big>[[Judg.16.23 Samson’s Vengeance and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samson took hold of the two middle pillars upon which the house stood, and on which it was borne up, of the one with his right hand, and of the other with his left.
 <small><sub>**BSB:**</sub></small>
 And Samson reached out for the two central pillars supporting the temple. Bracing himself against them with his right hand on one pillar and his left hand on the other,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3943\|יִּלְפֹּ֨ת]] [[H8123\|שִׁמְשׁ֜וֹן]] [[H0853\|אֶת]][[H9014\|־]] [[H8147\|שְׁנֵ֣י]][[H9015\|׀]] [[H5982G\|עַמּוּדֵ֣י]] [[H9009\|הַ]][[H8432\|תָּ֗וֶךְ]] [[H0834A\|אֲשֶׁ֤ר]] [[H9009\|הַ]][[H1004B\|בַּ֙יִת֙]] [[H3559H\|נָכ֣וֹן]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֔ם]] [[H9001\|וַ]][[H5564\|יִּסָּמֵ֖ךְ]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֑ם]] [[H0259\|אֶחָ֥ד]] [[H9003\|בִּ]][[H3225G\|ימִינ֖]][[H9023\|וֹ]] [[H9002\|וְ]][[H0259\|אֶחָ֥ד]] [[H9003\|בִּ]][[H8040G\|שְׂמֹאלֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAZA|GAZA]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic REVENGE|REVENGE]] • [[topic SAMSON|SAMSON]] • [[topic SUICIDE|SUICIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.28|<< Judges 16:28]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.30|Judges 16:30 >>]]</td></tr></table>
 

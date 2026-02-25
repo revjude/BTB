@@ -1,8 +1,77 @@
+---
+title: 2 Chronicles 36:17
+type: Verse
+kjv: "Therefore he brought upon them the king of the Chaldees, who slew their young men with the sword in the house of their sanctuary, and had no compassion upon young man or maiden, old man, or him that stooped for age: he gave them all into his hand."
+bsb: "So He brought up against them the king of the Chaldeans, who put their young men to the sword in the sanctuary, sparing neither young men nor young women, neither elderly nor infirm. God gave them all into the hand of Nebuchadnezzar,"
+hebrew: "וַיַּ֨עַל עֲלֵיהֶ֜ם אֶת־ מֶ֣לֶךְ כַּשְׂדִּ֗ים וַיַּהֲרֹ֨ג בַּחוּרֵיהֶ֤ם בַּחֶ֙רֶב֙ בְּבֵ֣ית מִקְדָּשָׁ֔ם וְלֹ֥א חָמַ֛ל עַל־ בָּח֥וּר וּבְתוּלָ֖ה זָקֵ֣ן וְיָשֵׁ֑שׁ הַכֹּ֖ל נָתַ֥ן בְּיָדֽוֹ׃"
+pericope: "[[2Chr.36.15 The Fall of Jerusalem|The Fall of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 36
+book/chapter: "[[2Chr.36|2 Chronicles 36]]"
+chronological_order: 743
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~609–586 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927H]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H3778]]"
+- "[[H2026]]"
+- "[[H0970]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H1004B]]"
+- "[[H4720]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2550]]"
+- "[[H1330]]"
+- "[[H2205H]]"
+- "[[H3486]]"
+- "[[H9009]]"
+- "[[H3605]]"
+- "[[H5414G]]"
+- "[[H3027H]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **2 Chronicles 36:17**<big><big>[[2Chr.36.15 The Fall of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore he brought upon them the king of the Chaldees, who slew their young men with the sword in the house of their sanctuary, and had no compassion upon young man or maiden, old man, or him that stooped for age: he gave [them] all into his hand.
 <small><sub>**BSB:**</sub></small>
 So He brought up against them the king of the Chaldeans, who put their young men to the sword in the sanctuary, sparing neither young men nor young women, neither elderly nor infirm. God gave them all into the hand of Nebuchadnezzar,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927H\|יַּ֨עַל]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֜ם]] [[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מֶ֣לֶךְ]] [[H3778\|כַּשְׂדִּ֗ים]] [[H9001\|וַ]][[H2026\|יַּהֲרֹ֨ג]] [[H0970\|בַּחוּרֵי]][[H9028\|הֶ֤ם]] [[H9003\|בַּ]][[H2719\|חֶ֙רֶב֙]] [[H9003\|בְּ]][[H1004B\|בֵ֣ית]] [[H4720\|מִקְדָּשָׁ֔]][[H9028\|ם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H2550\|חָמַ֛ל]] [[H5921A\|עַל]][[H9014\|־]] [[H0970\|בָּח֥וּר]] [[H9002\|וּ]][[H1330\|בְתוּלָ֖ה]] [[H2205H\|זָקֵ֣ן]] [[H9002\|וְ]][[H3486\|יָשֵׁ֑שׁ]] [[H9009\|הַ]][[H3605\|כֹּ֖ל]] [[H5414G\|נָתַ֥ן]] [[H9003\|בְּ]][[H3027H\|יָדֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BABYLON|BABYLON]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]] • [[topic PROPHECY|PROPHECY]] • [[topic TEMPLE|TEMPLE]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.36.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.16|<< 2 Chronicles 36:16]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.18|2 Chronicles 36:18 >>]]</td></tr></table>
 

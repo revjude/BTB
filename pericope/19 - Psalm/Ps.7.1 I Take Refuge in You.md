@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: I Take Refuge in You
+type: Pericope
 pericope: "[[Ps.7.1 I Take Refuge in You|I Take Refuge in You]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 7
 book/chapter: "[[Ps.7|Psalm 7]]"
-genre:
+chronological_order: 311
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 18
 verses:
 - "[[Ps.7.0]]"
 - "[[Ps.7.1]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Ps.7.17]]"
 ---
 
-[[Ps.7|Psalm 7:1 - Psalm 7:17]]
+<small>[[Ps.7|Psalm 7:1-17]]</small>
 *I Take Refuge in You*
 
 [[Ps.7.0|0]] Shiggaion of David, which he sang unto the LORD, concerning the words of Cush the Benjamite.

@@ -1,8 +1,62 @@
+---
+title: 2 Kings 25:9
+type: Verse
+kjv: "And he burnt the house of the LORD, and the king’s house, and all the houses of Jerusalem, and every great man’s house burnt he with fire."
+bsb: "He burned down the house of the LORD, the royal palace, and all the houses of Jerusalem—every significant building."
+hebrew: "וַיִּשְׂרֹ֥ף אֶת־ בֵּית־ יְהוָ֖ה וְאֶת־ בֵּ֣ית הַמֶּ֑לֶךְ וְאֵ֨ת כָּל־ בָּתֵּ֧י יְרוּשָׁלִַ֛ם וְאֶת־ כָּל־ בֵּ֥ית גָּד֖וֹל שָׂרַ֥ף בָּאֵֽשׁ׃"
+pericope: "[[2Kgs.25.8 The Temple Destroyed|The Temple Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 25
+book/chapter: "[[2Kgs.25|2 Kings 25]]"
+chronological_order: 742
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H8313]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H1004P]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3605]]"
+- "[[H1004B]]"
+- "[[H3389]]"
+- "[[H1419A]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 25:9**<big><big>[[2Kgs.25.8 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he burnt the house of the LORD, and the king’s house, and all the houses of Jerusalem, and every great [man’s] house burnt he with fire.
 <small><sub>**BSB:**</sub></small>
 He burned down the house of the LORD, the royal palace, and all the houses of Jerusalem—every significant building.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8313\|יִּשְׂרֹ֥ף]] [[H0853\|אֶת]][[H9014\|־]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1004P\|בֵּ֣ית]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9002\|וְ]][[H0853\|אֵ֨ת]] [[H3605\|כָּל]][[H9014\|־]] [[H1004B\|בָּתֵּ֧י]] [[H3389\|יְרוּשָׁלִַ֛ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1004B\|בֵּ֥ית]] [[H1419A\|גָּד֖וֹל]] [[H8313\|שָׂרַ֥ף]] [[H9003\|בָּ]][[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MONTH|MONTH]] • [[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]] • [[topic TEMPLE|TEMPLE]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.8|<< 2 Kings 25:8]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.10|2 Kings 25:10 >>]]</td></tr></table>
 

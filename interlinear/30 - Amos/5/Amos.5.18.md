@@ -1,8 +1,62 @@
+---
+title: Amos 5:18
+type: Verse
+kjv: "Woe unto you that desire the day of the LORD! to what end is it for you? the day of the LORD is darkness, and not light."
+bsb: "Woe to you who long for the Day of the LORD! What will the Day of the LORD be for you? It will be darkness and not light."
+hebrew: "ה֥וֹי הַמִּתְאַוִּ֖ים אֶת־ י֣וֹם יְהוָ֑ה לָמָּה־ זֶּ֥ה לָכֶ֛ם י֥וֹם יְהוָ֖ה הוּא־ חֹ֥שֶׁךְ וְלֹא־ אֽוֹר׃"
+pericope: "[[Amos.5.16 Woe to Rebellious Israel|Woe to Rebellious Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 5
+book/chapter: "[[Amos.5|Amos 5]]"
+chronological_order: 602
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic DAY|DAY]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1945]]"
+- "[[H9009]]"
+- "[[H0183]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H2088]]"
+- "[[H9036]]"
+- "[[H1931]]"
+- "[[H2822]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0216]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 5:18**<big><big>[[Amos.5.16 Woe to Rebellious Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe unto you that desire the day of the LORD! to what end [is] it for you? the day of the LORD [is] darkness, and not light.
 <small><sub>**BSB:**</sub></small>
 Woe to you who long for the Day of the LORD! What will the Day of the LORD be for you? It will be darkness and not light.
+<small><sub>**Hebrew:**</sub></small>
+[[H1945\|ה֥וֹי]] [[H9009\|הַ]][[H0183\|מִּתְאַוִּ֖ים]] [[H0853\|אֶת]][[H9014\|־]] [[H3117G\|י֣וֹם]] [[H3068G\|יְהוָ֑ה]] [[H9005\|לָ]][[H4100\|מָּה]][[H9014\|־]] [[H2088\|זֶּ֥ה]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H3117G\|י֥וֹם]] [[H3068G\|יְהוָ֖ה]] [[H1931\|הוּא]][[H9014\|־]] [[H2822\|חֹ֥שֶׁךְ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H0216\|אֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DARKNESS|DARKNESS]] • [[topic DAY|DAY]] • [[topic INFIDELITY|INFIDELITY]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.17|<< Amos 5:17]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.19|Amos 5:19 >>]]</td></tr></table>
 

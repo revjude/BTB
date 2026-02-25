@@ -1,8 +1,57 @@
+---
+title: Proverbs 5:3
+type: Verse
+kjv: "For the lips of a strange woman drop as an honeycomb, and her mouth is smoother than oil:"
+bsb: "Though the lips of the forbidden woman drip honey and her speech is smoother than oil,"
+hebrew: "כִּ֤י נֹ֣פֶת תִּ֭טֹּפְנָה שִׂפְתֵ֣י זָרָ֑ה וְחָלָ֖ק מִשֶּׁ֣מֶן חִכָּֽהּ׃"
+pericope: "[[Prov.5.1 Avoiding Immorality|Avoiding Immorality]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 5
+book/chapter: "[[Prov.5|Proverbs 5]]"
+chronological_order: 460
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H5317]]"
+- "[[H5197]]"
+- "[[H8193G]]"
+- "[[H2114A]]"
+- "[[H9002]]"
+- "[[H2509]]"
+- "[[H9006]]"
+- "[[H8081]]"
+- "[[H2441]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 5:3**<big><big>[[Prov.5.1 Avoiding Immorality|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the lips of a strange woman drop [as] an honeycomb, and her mouth [is] smoother than oil:
 <small><sub>**BSB:**</sub></small>
 Though the lips of the forbidden woman drip honey and her speech is smoother than oil,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H5317\|נֹ֣פֶת]] [[H5197\|תִּ֭טֹּפְנָה]] [[H8193G\|שִׂפְתֵ֣י]] [[H2114A\|זָרָ֑ה]] [[H9002\|וְ]][[H2509\|חָלָ֖ק]] [[H9006\|מִ]][[H8081\|שֶּׁ֣מֶן]] [[H2441\|חִכָּֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic FLATTERY|FLATTERY]] • [[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic WOMEN|WOMEN]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.5.2|<< Proverbs 5:2]]</td><td align="center" style="border:none;">[[Prov.5|Proverbs 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.5.4|Proverbs 5:4 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: 1 Chronicles 14:10
+type: Verse
+kjv: "And David inquired of God, saying, Shall I go up against the Philistines? and wilt thou deliver them into mine hand? And the LORD said unto him, Go up; for I will deliver them into thine hand."
+bsb: "So David inquired of God, “Should I go up against the Philistines? Will You deliver them into my hand?” “Go,” replied the LORD, “for I will deliver them into your hand.”"
+hebrew: "וַיִּשְׁאַ֨ל דָּוִ֤יד בֵּאלֹהִים֙ לֵאמֹ֔ר הַאֶֽעֱלֶה֙ עַל־ פְּלִשְׁתִּ֔ים וּנְתַתָּ֖ם בְּיָדִ֑י וַיֹּ֨אמֶר ל֤וֹ יְהוָה֙ עֲלֵ֔ה וּנְתַתִּ֖ים בְּיָדֶֽךָ׃"
+pericope: "[[1Chr.14.8 Two Victories over the Philistines|Two Victories over the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 14
+book/chapter: "[[1Chr.14|1 Chronicles 14]]"
+chronological_order: 395
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7592]]"
+- "[[H1732]]"
+- "[[H9003]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6430G]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H3027H]]"
+- "[[H9020]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **1 Chronicles 14:10**<big><big>[[1Chr.14.8 Two Victories over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David inquired of God, saying, Shall I go up against the Philistines? and wilt thou deliver them into mine hand? And the LORD said unto him, Go up; for I will deliver them into thine hand.
 <small><sub>**BSB:**</sub></small>
 So David inquired of God, “Should I go up against the Philistines? Will You deliver them into my hand?” “Go,” replied the LORD, “for I will deliver them into your hand.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7592\|יִּשְׁאַ֨ל]] [[H1732\|דָּוִ֤יד]] [[H9003\|בֵּ]][[H0430G\|אלֹהִים֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H9008\|הַ]][[H5927G\|אֶֽעֱלֶה֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6430G\|פְּלִשְׁתִּ֔ים]] [[H9001\|וּ]][[H5414G\|נְתַתָּ֖]][[H9038\|ם]] [[H9003\|בְּ]][[H3027H\|יָדִ֑]][[H9020\|י]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H9005\|ל֤]][[H9033\|וֹ]] [[H3068G\|יְהוָה֙]] [[H5927G\|עֲלֵ֔ה]] [[H9001\|וּ]][[H5414G\|נְתַתִּ֖י]][[H9038\|ם]] [[H9003\|בְּ]][[H3027H\|יָדֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.14.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.14.9|<< 1 Chronicles 14:9]]</td><td align="center" style="border:none;">[[1Chr.14|1 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.14.11|1 Chronicles 14:11 >>]]</td></tr></table>
 

@@ -1,8 +1,77 @@
+---
+title: 2 Samuel 12:9
+type: Verse
+kjv: "Wherefore hast thou despised the commandment of the LORD, to do evil in his sight? thou hast killed Uriah the Hittite with the sword, and hast taken his wife to be thy wife, and hast slain him with the sword of the children of Ammon."
+bsb: "Why then have you despised the command of the LORD by doing evil in His sight? You put Uriah the Hittite to the sword and took his wife as your own. You have slain him with the sword of the Ammonites."
+hebrew: "מַדּ֜וּעַ בָּזִ֣יתָ׀ אֶת־ דְּבַ֣ר יְהוָ֗ה לַעֲשׂ֣וֹת הָרַע֮ בְּעֵינַי֒ אֵ֣ת אוּרִיָּ֤ה הַֽחִתִּי֙ הִכִּ֣יתָ בַחֶ֔רֶב וְאֶ֨ת־ אִשְׁתּ֔וֹ לָקַ֥חְתָּ לְּךָ֖ לְאִשָּׁ֑ה וְאֹת֣וֹ הָרַ֔גְתָּ בְּחֶ֖רֶב בְּנֵ֥י עַמּֽוֹן׃"
+pericope: "[[2Sam.12.1 Nathan Rebukes David|Nathan Rebukes David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 12
+book/chapter: "[[2Sam.12|2 Samuel 12]]"
+chronological_order: 411
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H4069]]"
+- "[[H0959]]"
+- "[[H9015]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H9023]]"
+- "[[H9020]]"
+- "[[H0223A]]"
+- "[[H2850]]"
+- "[[H5221]]"
+- "[[H2719]]"
+- "[[H9002]]"
+- "[[H0802H]]"
+- "[[H3947G]]"
+- "[[H9031]]"
+- "[[H9033]]"
+- "[[H2026]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Samuel 12:9**<big><big>[[2Sam.12.1 Nathan Rebukes David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore hast thou despised the commandment of the LORD, to do evil in his sight? thou hast killed Uriah the Hittite with the sword, and hast taken his wife [to be] thy wife, and hast slain him with the sword of the children of Ammon.
 <small><sub>**BSB:**</sub></small>
 Why then have you despised the command of the LORD by doing evil in His sight? You put Uriah the Hittite to the sword and took his wife as your own. You have slain him with the sword of the Ammonites.
+<small><sub>**Hebrew:**</sub></small>
+[[H4069\|מַדּ֜וּעַ]] [[H0959\|בָּזִ֣יתָ]][[H9015\|׀]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דְּבַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H9005\|לַ]][[H6213A\|עֲשׂ֣וֹת]] [[H9009\|הָ]][[H7451H\|רַע֮]] [[H9003\|בְּ]][[H5869H\|עֵינַ]][[H9020\|י֒]] [[H0853\|אֵ֣ת]] [[H0223A\|אוּרִיָּ֤ה]] [[H9009\|הַֽ]][[H2850\|חִתִּי֙]] [[H5221\|הִכִּ֣יתָ]] [[H9003\|בַ]][[H2719\|חֶ֔רֶב]] [[H9002\|וְ]][[H0853\|אֶ֨ת]][[H9014\|־]] [[H0802H\|אִשְׁתּ֔]][[H9023\|וֹ]] [[H3947G\|לָקַ֥חְתָּ]] [[H9005\|לְּ]][[H9031\|ךָ֖]] [[H9005\|לְ]][[H0802H\|אִשָּׁ֑ה]] [[H9002\|וְ]][[H0853\|אֹת֣]][[H9033\|וֹ]] [[H2026\|הָרַ֔גְתָּ]] [[H9003\|בְּ]][[H2719\|חֶ֖רֶב]] [[H1121G\|בְּנֵ֥י]] [[H5983\|עַמּֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NATHAN|NATHAN]] • [[topic REPROOF|REPROOF]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.12.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.12.8|<< 2 Samuel 12:8]]</td><td align="center" style="border:none;">[[2Sam.12|2 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.12.10|2 Samuel 12:10 >>]]</td></tr></table>
 
@@ -33,8 +102,8 @@ Why then have you despised the command of the LORD by doing evil in His sight? Y
 | Ammon  |**<big>&#8207;[[H5983\|עַמּֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| a.Mon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.12.8|<< 2 Samuel 12:8]]</td><td align="center" style="border:none;">[[2Sam.12|2 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.12.10|2 Samuel 12:10 >>]]</td></tr></table>
 
-[^1]: in eyes his  | **<big>[[H9023|וֹ]]</big><big>[[H5869H|עֵינ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'ei.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: in eyes his  | **<big>[[H9023|וֹ]]</big><big>[[H5869H|עֵינ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'ei.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
-[^3]: in eyes his  | **<big>[[H9023|וֹ]]</big><big>[[H5869H|עֵינ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'ei.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: in eyes his  | **<big>[[H9003|בְּ]]</big><big>[[H5869H|עֵינ]]</big><big>[[H9023|וֹ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'ei.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: in eyes his  | **<big>[[H9003|בְּ]]</big><big>[[H5869H|עֵינ]]</big><big>[[H9023|וֹ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'ei.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: in eyes his  | **<big>[[H9003|בְּ]]</big><big>[[H5869H|עֵינ]]</big><big>[[H9023|וֹ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'ei.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>בְּעֵינַ/ו֒</big></span>**
 

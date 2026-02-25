@@ -1,8 +1,64 @@
+---
+title: 1 Kings 14:25
+type: Verse
+kjv: "And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:"
+bsb: "In the fifth year of Rehoboam’s reign, Shishak king of Egypt attacked Jerusalem."
+hebrew: "וַיְהִ֛י בַּשָּׁנָ֥ה הַחֲמִישִׁ֖ית לַמֶּ֣לֶךְ רְחַבְעָ֑ם עָלָ֛ה שִׁישַׁ֥ק מֶֽלֶךְ־ מִצְרַ֖יִם עַל־ יְרוּשָׁלִָֽם׃"
+pericope: "[[1Kgs.14.25 Shishak Raids Jerusalem|Shishak Raids Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 14
+book/chapter: "[[1Kgs.14|1 Kings 14]]"
+chronological_order: 553
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic SHISHAK|SHISHAK]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H2549]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H7346]]"
+- "[[H5927G]]"
+- "[[H7895]]"
+- "[[H9014]]"
+- "[[H4714G]]"
+- "[[H5921A]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Kings 14:25**<big><big>[[1Kgs.14.25 Shishak Raids Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the fifth year of king Rehoboam, [that] Shishak king of Egypt came up against Jerusalem:
 <small><sub>**BSB:**</sub></small>
 In the fifth year of Rehoboam’s reign, Shishak king of Egypt attacked Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֛י]] [[H9003\|בַּ]][[H8141\|שָּׁנָ֥ה]] [[H9009\|הַ]][[H2549\|חֲמִישִׁ֖ית]] [[H9005\|לַ]][[H4428G\|מֶּ֣לֶךְ]] [[H7346\|רְחַבְעָ֑ם]] [[H5927G\|עָלָ֛ה]] [[H7895\|שִׁישַׁ֥ק]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H4714G\|מִצְרַ֖יִם]] [[H5921A\|עַל]][[H9014\|־]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPTIANS|EGYPTIANS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic REHOBOAM|REHOBOAM]] • [[topic SHISHAK|SHISHAK]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.24|<< 1 Kings 14:24]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.26|1 Kings 14:26 >>]]</td></tr></table>
 

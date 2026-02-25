@@ -1,8 +1,53 @@
+---
+title: Esther 2:19
+type: Verse
+kjv: "And when the virgins were gathered together the second time, then Mordecai sat in the king’s gate."
+bsb: "When the virgins were assembled a second time, Mordecai was sitting at the king’s gate."
+hebrew: "וּבְהִקָּבֵ֥ץ בְּתוּל֖וֹת שֵׁנִ֑ית וּמָרְדֳּכַ֖י יֹשֵׁ֥ב בְּשַֽׁעַר־ הַמֶּֽלֶךְ׃"
+pericope: "[[Esth.2.17 Esther Becomes Queen|Esther Becomes Queen]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 2
+book/chapter: "[[Esth.2|Esther 2]]"
+chronological_order: 900
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic CHAMBERLAIN|CHAMBERLAIN]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H6908]]"
+- "[[H1330]]"
+- "[[H8145]]"
+- "[[H4782H]]"
+- "[[H3427]]"
+- "[[H8179G]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 2:19**<big><big>[[Esth.2.17 Esther Becomes Queen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the virgins were gathered together the second time, then Mordecai sat in the king’s gate.
 <small><sub>**BSB:**</sub></small>
 When the virgins were assembled a second time, Mordecai was sitting at the king’s gate.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H6908\|הִקָּבֵ֥ץ]] [[H1330\|בְּתוּל֖וֹת]] [[H8145\|שֵׁנִ֑ית]] [[H9002\|וּ]][[H4782H\|מָרְדֳּכַ֖י]] [[H3427\|יֹשֵׁ֥ב]] [[H9003\|בְּ]][[H8179G\|שַֽׁעַר]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHAMBERLAIN|CHAMBERLAIN]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.18|<< Esther 2:18]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.20|Esther 2:20 >>]]</td></tr></table>
 

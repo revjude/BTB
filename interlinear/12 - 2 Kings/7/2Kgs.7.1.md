@@ -1,8 +1,65 @@
+---
+title: 2 Kings 7:1
+type: Verse
+kjv: "Then Elisha said, Hear ye the word of the LORD; Thus saith the LORD, To morrow about this time shall a measure of fine flour be sold for a shekel, and two measures of barley for a shekel, in the gate of Samaria."
+bsb: "Then Elisha said, “Hear the word of the LORD! This is what the LORD says: ‘About this time tomorrow at the gate of Samaria, a seah of fine flour will sell for a shekel, and two seahs of barley will sell for a shekel.’”"
+hebrew: "וַיֹּ֣אמֶר אֱלִישָׁ֔ע שִׁמְע֖וּ דְּבַר־ יְהוָ֑ה כֹּ֣ה׀ אָמַ֣ר יְהוָ֗ה כָּעֵ֤ת׀ מָחָר֙ סְאָֽה־ סֹ֣לֶת בְּשֶׁ֗קֶל וְסָאתַ֧יִם שְׂעֹרִ֛ים בְּשֶׁ֖קֶל בְּשַׁ֥עַר שֹׁמְרֽוֹן׃"
+pericope: "[[2Kgs.7.1 Elisha’s Prophecy of Plenty|Elisha’s Prophecy of Plenty]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 7
+book/chapter: "[[2Kgs.7|2 Kings 7]]"
+chronological_order: 579
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BARLEY|BARLEY]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0477]]"
+- "[[H8085G]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H9004]]"
+- "[[H6256]]"
+- "[[H4279]]"
+- "[[H5429]]"
+- "[[H5560]]"
+- "[[H9003]]"
+- "[[H8255]]"
+- "[[H9002]]"
+- "[[H8184]]"
+- "[[H8179G]]"
+- "[[H8111]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 7:1**<big><big>[[2Kgs.7.1 Elisha’s Prophecy of Plenty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Elisha said, Hear ye the word of the LORD; Thus saith the LORD, To morrow about this time [shall] a measure of fine flour [be sold] for a shekel, and two measures of barley for a shekel, in the gate of Samaria.
 <small><sub>**BSB:**</sub></small>
 Then Elisha said, “Hear the word of the LORD! This is what the LORD says: ‘About this time tomorrow at the gate of Samaria, a seah of fine flour will sell for a shekel, and two seahs of barley will sell for a shekel.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0477\|אֱלִישָׁ֔ע]] [[H8085G\|שִׁמְע֖וּ]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H3541\|כֹּ֣ה]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H9004\|כָּ]][[H6256\|עֵ֤ת]][[H9015\|׀]] [[H4279\|מָחָר֙]] [[H5429\|סְאָֽה]][[H9014\|־]] [[H5560\|סֹ֣לֶת]] [[H9003\|בְּ]][[H8255\|שֶׁ֗קֶל]] [[H9002\|וְ]][[H5429\|סָאתַ֧יִם]] [[H8184\|שְׂעֹרִ֛ים]] [[H9003\|בְּ]][[H8255\|שֶׁ֖קֶל]] [[H9003\|בְּ]][[H8179G\|שַׁ֥עַר]] [[H8111\|שֹׁמְרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARLEY|BARLEY]] • [[topic ELISHA|ELISHA]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MEASURE|MEASURE]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.7.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.33|<< 2 Kings 6:33]]</td><td align="center" style="border:none;">[[2Kgs.7|2 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7.2|2 Kings 7:2 >>]]</td></tr></table>
 

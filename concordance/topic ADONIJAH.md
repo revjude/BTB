@@ -5,7 +5,7 @@
 
 - Usurpation of, and downfall [[1Kgs.1|1Ki 1]]
 
-- Executed by Solomon [[1Kgs.2.13|1Ki 2:13]]-[[1Kgs.2.25|25]]
+- Executed by Solomon [[1Kgs.2.13|1Ki 2:13-25]]
 
 2. A Levite [[2Chr.17.8|2Ch 17:8]]
 

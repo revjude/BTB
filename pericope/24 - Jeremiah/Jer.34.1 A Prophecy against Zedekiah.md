@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Prophecy against Zedekiah
+type: Pericope
 pericope: "[[Jer.34.1 A Prophecy against Zedekiah|A Prophecy against Zedekiah]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 34
 book/chapter: "[[Jer.34|Jeremiah 34]]"
-genre:
+chronological_order: 757
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 7
 verses:
 - "[[Jer.34.1]]"
 - "[[Jer.34.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Jer.34.7]]"
 ---
 
-[[Jer.34|Jeremiah 34:1 - Jeremiah 34:7]]
+<small>[[Jer.34|Jeremiah 34:1-7]]</small>
 *A Prophecy against Zedekiah*
 
 [[Jer.34.1|1]] The word which came unto Jeremiah from the LORD, when Nebuchadnezzar king of Babylon, and all his army, and all the kingdoms of the earth of his dominion, and all the people, fought against Jerusalem, and against all the cities thereof, saying,

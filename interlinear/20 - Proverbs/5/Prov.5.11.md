@@ -1,8 +1,56 @@
+---
+title: Proverbs 5:11
+type: Verse
+kjv: "And thou mourn at the last, when thy flesh and thy body are consumed,"
+bsb: "At the end of your life you will groan when your flesh and your body are spent,"
+hebrew: "וְנָהַמְתָּ֥ בְאַחֲרִיתֶ֑ךָ בִּכְל֥וֹת בְּ֝שָׂרְךָ֗ וּשְׁאֵרֶֽךָ׃"
+pericope: "[[Prov.5.1 Avoiding Immorality|Avoiding Immorality]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 5
+book/chapter: "[[Prov.5|Proverbs 5]]"
+chronological_order: 460
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic REMORSE|REMORSE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5098]]"
+- "[[H9003]]"
+- "[[H0319]]"
+- "[[H9021]]"
+- "[[H3615H]]"
+- "[[H1320]]"
+- "[[H9002]]"
+- "[[H7607]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 5:11**<big><big>[[Prov.5.1 Avoiding Immorality|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou mourn at the last, when thy flesh and thy body are consumed,
 <small><sub>**BSB:**</sub></small>
 At the end of your life you will groan when your flesh and your body are spent,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5098\|נָהַמְתָּ֥]] [[H9003\|בְ]][[H0319\|אַחֲרִיתֶ֑]][[H9021\|ךָ]] [[H9003\|בִּ]][[H3615H\|כְל֥וֹת]] [[H1320\|בְּ֝שָׂרְ]][[H9021\|ךָ֗]] [[H9002\|וּ]][[H7607\|שְׁאֵרֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic REMORSE|REMORSE]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WOMEN|WOMEN]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.5.10|<< Proverbs 5:10]]</td><td align="center" style="border:none;">[[Prov.5|Proverbs 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.5.12|Proverbs 5:12 >>]]</td></tr></table>
 

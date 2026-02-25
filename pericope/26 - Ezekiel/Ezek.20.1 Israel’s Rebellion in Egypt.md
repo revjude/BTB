@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel’s Rebellion in Egypt
+type: Pericope
 pericope: "[[Ezek.20.1 Israel’s Rebellion in Egypt|Israel’s Rebellion in Egypt]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 20
 book/chapter: "[[Ezek.20|Ezekiel 20]]"
-genre:
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 9
 verses:
 - "[[Ezek.20.1]]"
 - "[[Ezek.20.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Ezek.20.9]]"
 ---
 
-[[Ezek.20|Ezekiel 20:1 - Ezekiel 20:9]]
+<small>[[Ezek.20|Ezekiel 20:1-9]]</small>
 *Israel’s Rebellion in Egypt*
 
 [[Ezek.20.1|1]] And it came to pass in the seventh year, in the fifth \[month\], the tenth \[day\] of the month, \[that\] certain of the elders of Israel came to inquire of the LORD, and sat before me.

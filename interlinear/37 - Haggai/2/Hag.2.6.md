@@ -1,8 +1,61 @@
+---
+title: Haggai 2:6
+type: Verse
+kjv: "For thus saith the LORD of hosts; Yet once, it is a little while, and I will shake the heavens, and the earth, and the sea, and the dry land;"
+bsb: "For this is what the LORD of Hosts says: “Once more, in a little while, I will shake the heavens and the earth, the sea and the dry land."
+hebrew: "כִּ֣י כֹ֤ה אָמַר֙ יְהוָ֣ה צְבָא֔וֹת ע֥וֹד אַחַ֖ת מְעַ֣ט הִ֑יא וַאֲנִ֗י מַרְעִישׁ֙ אֶת־ הַשָּׁמַ֣יִם וְאֶת־ הָאָ֔רֶץ וְאֶת־ הַיָּ֖ם וְאֶת־ הֶחָרָבָֽה׃"
+pericope: "[[Hag.2.1 The Coming Glory of God’s House|The Coming Glory of God’s House]]"
+original_language: Hebrew
+testament: Old
+book: Haggai
+chapter: 2
+book/chapter: "[[Hag.2|Haggai 2]]"
+chronological_order: 856
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+topics:
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H5750]]"
+- "[[H0259]]"
+- "[[H4592]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H7493]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H0776G]]"
+- "[[H3220G]]"
+- "[[H2724]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Haggai 2:6**<big><big>[[Hag.2.1 The Coming Glory of God’s House|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD of hosts; Yet once, it [is] a little while, and I will shake the heavens, and the earth, and the sea, and the dry [land];
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD of Hosts says: “Once more, in a little while, I will shake the heavens and the earth, the sea and the dry land.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3541\|כֹ֤ה]] [[H0559\|אָמַר֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H5750\|ע֥וֹד]] [[H0259\|אַחַ֖ת]] [[H4592\|מְעַ֣ט]] [[H1931\|הִ֑יא]] [[H9002\|וַ]][[H0589\|אֲנִ֗י]] [[H7493\|מַרְעִישׁ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמַ֣יִם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּ֖ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הֶ]][[H2724\|חָרָבָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.5|<< Haggai 2:5]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.7|Haggai 2:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

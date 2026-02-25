@@ -1,10 +1,68 @@
+---
+title: Acts 5:32
+type: Verse
+kjv: "And we are his witnesses of these things; and so is also the Holy Ghost, whom God hath given to them that obey him."
+bsb: "We are witnesses of these things, and so is the Holy Spirit, whom God has given to those who obey Him.”"
+greek: "καὶ ἡμεῖς ἐσμεν αὐτοῦ μάρτυρες τῶν ῥημάτων τούτων καὶ τὸ πνεῦμα δὲ τὸ ἅγιον ὃ ἔδωκεν ὁ θεὸς τοῖς πειθαρχοῦσιν αὐτῷ."
+pericope: "[[Acts.5.24 The Apostles before the Sanhedrin|The Apostles before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 5
+book/chapter: "[[Acts.5|Acts 5]]"
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3165]]"
+- "[[G1510]]"
+- "[[G0846]]"
+- "[[G3144]]"
+- "[[G3588]]"
+- "[[G4487]]"
+- "[[G3778]]"
+- "[[G4151G]]"
+- "[[G1161]]"
+- "[[G0040G]]"
+- "[[G3739]]"
+- "[[G1325]]"
+- "[[G2316]]"
+- "[[G3980]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 5:32**<big><big>[[Acts.5.24 The Apostles before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And we are his witnesses of these things; and [so is] also the Holy Ghost, whom God hath given to them that obey him.
 <small><sub>**BSB:**</sub></small>
 We are witnesses of these things, and so is the Holy Spirit, whom God has given to those who obey Him.”
-<small><sub>**Literal:**</sub></small>
-And we ourselves are of him witnesses of the declarations these and also the Spirit now <the> Holy whom has given <the> God to those obeying Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.31|<< Acts 5:31]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.33|Acts 5:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3165\|ἡμεῖς]]  [[G1510\|ἐσμεν]]  [[G0846\|αὐτοῦ]]  [[G3144\|μάρτυρες]]  [[G3588\|τῶν]]  [[G4487\|ῥημάτων]]  [[G3778\|τούτων]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G1161\|δὲ]]  [[G3588\|τὸ]]  [[G0040G\|ἅγιον]]  [[G3739\|ὃ]]  [[G1325\|ἔδωκεν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τοῖς]]  [[G3980\|πειθαρχοῦσιν]]  [[G0846\|αὐτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic COURAGE|COURAGE]] • [[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic SADDUCEES|SADDUCEES]] • [[topic TESTIMONY|TESTIMONY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.31|<< Acts 5:31]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.33|Acts 5:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

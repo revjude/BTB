@@ -1,8 +1,75 @@
+---
+title: Ezekiel 47:9
+type: Verse
+kjv: "And it shall come to pass, that every thing that liveth, which moveth, whithersoever the rivers shall come, shall live: and there shall be a very great multitude of fish, because these waters shall come thither: for they shall be healed; and every thing shall live whither the river cometh."
+bsb: "Wherever the river flows, there will be swarms of living creatures and a great number of fish, because it flows there and makes the waters fresh; so wherever the river flows, everything will flourish."
+hebrew: "וְהָיָ֣ה כָל־ נֶ֣פֶשׁ חַיָּ֣ה׀ אֲֽשֶׁר־ יִשְׁרֹ֡ץ אֶ֣ל כָּל־ אֲשֶׁר֩ יָב֨וֹא שָׁ֤ם נַחֲלַ֙יִם֙ יִֽחְיֶ֔ה וְהָיָ֥ה הַדָּגָ֖ה רַבָּ֣ה מְאֹ֑ד כִּי֩ בָ֨אוּ שָׁ֜מָּה הַמַּ֣יִם הָאֵ֗לֶּה וְיֵרָֽפְאוּ֙ וָחָ֔י כֹּ֛ל אֲשֶׁר־ יָ֥בוֹא שָׁ֖מָּה הַנָּֽחַל׃"
+pericope: "[[Ezek.47.1 Waters from under the Temple|Waters from under the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 47
+book/chapter: "[[Ezek.47|Ezekiel 47]]"
+chronological_order: 838
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DEAD SEA|DEAD SEA]]"
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic FISH|FISH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIVER|RIVER]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5315K]]"
+- "[[H2416A]]"
+- "[[H9015]]"
+- "[[H0834A]]"
+- "[[H8317]]"
+- "[[H0413]]"
+- "[[H0935G]]"
+- "[[H8033G]]"
+- "[[H5158A]]"
+- "[[H2421]]"
+- "[[H9009]]"
+- "[[H1710]]"
+- "[[H7227A]]"
+- "[[H3966]]"
+- "[[H3588A]]"
+- "[[H9011]]"
+- "[[H4325G]]"
+- "[[H0428]]"
+- "[[H9002]]"
+- "[[H7495]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 47:9**<big><big>[[Ezek.47.1 Waters from under the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, [that] every thing that liveth, which moveth, whithersoever the rivers shall come, shall live: and there shall be a very great multitude of fish, because these waters shall come thither: for they shall be healed; and every thing shall live whither the river cometh.
 <small><sub>**BSB:**</sub></small>
 Wherever the river flows, there will be swarms of living creatures and a great number of fish, because it flows there and makes the waters fresh; so wherever the river flows, everything will flourish.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֣ה]] [[H3605\|כָל]][[H9014\|־]] [[H5315K\|נֶ֣פֶשׁ]] [[H2416A\|חַיָּ֣ה]][[H9015\|׀]] [[H0834A\|אֲֽשֶׁר]][[H9014\|־]] [[H8317\|יִשְׁרֹ֡ץ]] [[H0413\|אֶ֣ל]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁר֩]] [[H0935G\|יָב֨וֹא]] [[H8033G\|שָׁ֤ם]] [[H5158A\|נַחֲלַ֙יִם֙]] [[H2421\|יִֽחְיֶ֔ה]] [[H9001\|וְ]][[H1961\|הָיָ֥ה]] [[H9009\|הַ]][[H1710\|דָּגָ֖ה]] [[H7227A\|רַבָּ֣ה]] [[H3966\|מְאֹ֑ד]] [[H3588A\|כִּי֩]] [[H0935G\|בָ֨אוּ]] [[H8033G\|שָׁ֜מָּ]][[H9011\|ה]] [[H9009\|הַ]][[H4325G\|מַּ֣יִם]] [[H9009\|הָ]][[H0428\|אֵ֗לֶּה]] [[H9002\|וְ]][[H7495\|יֵרָֽפְאוּ֙]] [[H9001\|וָ]][[H2421\|חָ֔י]] [[H3605\|כֹּ֛ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|יָ֥בוֹא]] [[H8033G\|שָׁ֖מָּ]][[H9011\|ה]] [[H9009\|הַ]][[H5158A\|נָּֽחַל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DEAD SEA|DEAD SEA]] • [[topic EZEKIEL|EZEKIEL]] • [[topic FISH|FISH]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIVER|RIVER]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.47.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.8|<< Ezekiel 47:8]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.10|Ezekiel 47:10 >>]]</td></tr></table>
 

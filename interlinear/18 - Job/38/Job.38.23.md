@@ -1,8 +1,53 @@
+---
+title: Job 38:23
+type: Verse
+kjv: "Which I have reserved against the time of trouble, against the day of battle and war?"
+bsb: "which I hold in reserve for times of trouble, for the day of war and battle?"
+hebrew: "אֲשֶׁר־ חָשַׂ֥כְתִּי לְעֶת־ צָ֑ר לְי֥וֹם קְ֝רָ֗ב וּמִלְחָמָֽה׃"
+pericope: "[[Job.38.1 The LORD Challenges Job|The LORD Challenges Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 38
+book/chapter: "[[Job.38|Job 38]]"
+chronological_order: 49
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H2820]]"
+- "[[H9005]]"
+- "[[H6256]]"
+- "[[H6862B]]"
+- "[[H3117G]]"
+- "[[H7128]]"
+- "[[H9002]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 38:23**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which I have reserved against the time of trouble, against the day of battle and war?
 <small><sub>**BSB:**</sub></small>
 which I hold in reserve for times of trouble, for the day of war and battle?
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2820\|חָשַׂ֥כְתִּי]] [[H9005\|לְ]][[H6256\|עֶת]][[H9014\|־]] [[H6862B\|צָ֑ר]] [[H9005\|לְ]][[H3117G\|י֥וֹם]] [[H7128\|קְ֝רָ֗ב]] [[H9002\|וּ]][[H4421\|מִלְחָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.22|<< Job 38:22]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.24|Job 38:24 >>]]</td></tr></table>
 

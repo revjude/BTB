@@ -19,7 +19,7 @@
 
 → Signifying any commander, as [[1Sam.9.16|1Sa 9:16]]; [[1Sam.22.2|22:2]]; [[2Kgs.20.5|2Ki 20:5]]
 
-→ Leader [[1Chr.11.21|1Ch 11:21]]; [[1Chr.12.34|12:34]]; [[2Chr.17.14|2Ch 17:14]]-[[2Chr.17.19|19]]; [[John.18.12|Joh 18:12]]
+→ Leader [[1Chr.11.21|1Ch 11:21]]; [[1Chr.12.34|12:34]]; [[2Chr.17.14|2Ch 17:14-19]]; [[John.18.12|Joh 18:12]]
 
 → David's captains, or chief heroes [[2Sam.23|2Sa 23]]; [[1Chr.11.12|1Ch 11:12]]
 

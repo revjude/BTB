@@ -1,10 +1,47 @@
+---
+title: 3 John 1:2
+type: Verse
+kjv: "Beloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth."
+bsb: "Beloved, I pray that in every way you may prosper and enjoy good health, as your soul also prospers."
+greek: "ἀγαπητέ, περὶ πάντων εὔχομαί σε εὐοδοῦσθαι καὶ ὑγιαίνειν καθὼς εὐοδοῦταί σου ἡ ψυχή."
+pericope: "[[3John.1.1 A Greeting from the Elder|A Greeting from the Elder]]"
+original_language: Greek
+testament: New
+book: 3 John
+chapter: 1
+book/chapter: "[[3John.1|3 John 1]]"
+chronological_order: 1167
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- personal letter
+strongs:
+- "[[G0027]]"
+- "[[G4012]]"
+- "[[G3956]]"
+- "[[G2172]]"
+- "[[G4771]]"
+- "[[G2137]]"
+- "[[G2532]]"
+- "[[G5198]]"
+- "[[G2531]]"
+- "[[G3588]]"
+- "[[G5590I]]"
+texts:
+- NKO
+---
+
 **3 John 1:2**<big><big>[[3John.1.1 A Greeting from the Elder|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Beloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth.
 <small><sub>**BSB:**</sub></small>
 Beloved, I pray that in every way you may prosper and enjoy good health, as your soul also prospers.
-<small><sub>**Literal:**</sub></small>
-Beloved, concerning all things I pray you to do well and to be in good health even as does well your <the> soul.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.1|<< 3 John 1:1]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.3|3 John 1:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0027\|ἀγαπητέ,]]  [[G4012\|περὶ]]  [[G3956\|πάντων]]  [[G2172\|εὔχομαί]]  [[G4771\|σε]]  [[G2137\|εὐοδοῦσθαι]]  [[G2532\|καὶ]]  [[G5198\|ὑγιαίνειν]]  [[G2531\|καθὼς]]  [[G2137\|εὐοδοῦταί]]  [[G4771\|σου]]  [[G3588\|ἡ]]  [[G5590I\|ψυχή.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.1|<< 3 John 1:1]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.3|3 John 1:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

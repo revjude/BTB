@@ -1,8 +1,63 @@
+---
+title: Psalm 126:2
+type: Verse
+kjv: "Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The LORD hath done great things for them."
+bsb: "Then our mouths were filled with laughter, our tongues with shouts of joy. Then it was said among the nations, “The LORD has done great things for them.”"
+hebrew: "אָ֤ז יִמָּלֵ֪א שְׂח֡וֹק פִּינוּ֮ וּלְשׁוֹנֵ֪נוּ רִ֫נָּ֥ה אָ֭ז יֹאמְר֣וּ בַגּוֹיִ֑ם הִגְדִּ֥יל יְ֝הוָ֗ה לַעֲשׂ֥וֹת עִם־ אֵֽלֶּה׃"
+pericope: "[[Ps.126.1 Zion’s Captives Restored|Zion’s Captives Restored]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 126
+book/chapter: "[[Ps.126|Psalm 126]]"
+chronological_order: 888
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H0227A]]"
+- "[[H4390]]"
+- "[[H7814]]"
+- "[[H6310G]]"
+- "[[H9025]]"
+- "[[H9002]]"
+- "[[H3956G]]"
+- "[[H7440]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H1431]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 126:2**<big><big>[[Ps.126.1 Zion’s Captives Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The LORD hath done great things for them.
 <small><sub>**BSB:**</sub></small>
 Then our mouths were filled with laughter, our tongues with shouts of joy. Then it was said among the nations, “The LORD has done great things for them.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0227A\|אָ֤ז]] [[H4390\|יִמָּלֵ֪א]] [[H7814\|שְׂח֡וֹק]] [[H6310G\|פִּי]][[H9025\|נוּ֮]] [[H9002\|וּ]][[H3956G\|לְשׁוֹנֵ֪]][[H9025\|נוּ]] [[H7440\|רִ֫נָּ֥ה]] [[H0227A\|אָ֭ז]] [[H0559\|יֹאמְר֣וּ]] [[H9003\|בַ]][[H1471A\|גּוֹיִ֑ם]] [[H1431\|הִגְדִּ֥יל]] [[H3068G\|יְ֝הוָ֗ה]] [[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H5973A\|עִם]][[H9014\|־]] [[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.126.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.126.1|<< Psalms 126:1]]</td><td align="center" style="border:none;">[[Ps.126|Psalms 126]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.126.3|Psalms 126:3 >>]]</td></tr></table>
 

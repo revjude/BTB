@@ -1,7 +1,7 @@
 
 **GOAT**
 
-→ Designated as one of the ceremonially clean animals to be eaten [[Deut.14.4|De 14:4]]; with [[Lev.11.1|Le 11:1]]-[[Lev.11.8|8]]
+→ Designated as one of the ceremonially clean animals to be eaten [[Deut.14.4|De 14:4]]; with [[Lev.11.1|Le 11:1-8]]
 
 → Used for food [[Gen.27.9|Ge 27:9]]; [[1Sam.16.20|1Sa 16:20]]
 

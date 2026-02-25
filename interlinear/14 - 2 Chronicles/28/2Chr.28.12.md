@@ -1,8 +1,73 @@
+---
+title: 2 Chronicles 28:12
+type: Verse
+kjv: "Then certain of the heads of the children of Ephraim, Azariah the son of Johanan, Berechiah the son of Meshillemoth, and Jehizkiah the son of Shallum, and Amasa the son of Hadlai, stood up against them that came from the war,"
+bsb: "Then some of the leaders of the Ephraimites—Azariah son of Jehohanan, Berechiah son of Meshillemoth, Jehizkiah son of Shallum, and Amasa son of Hadlai—stood in opposition to those arriving from the war."
+hebrew: "וַיָּקֻ֨מוּ אֲנָשִׁ֜ים מֵרָאשֵׁ֣י בְנֵֽי־ אֶפְרַ֗יִם עֲזַרְיָ֤הוּ בֶן־ יְהֽוֹחָנָן֙ בֶּרֶכְיָ֣הוּ בֶן־ מְשִׁלֵּמ֔וֹת וִֽיחִזְקִיָּ֙הוּ֙ בֶּן־ שַׁלֻּ֔ם וַעֲמָשָׂ֖א בֶּן־ חַדְלָ֑י עַל־ הַבָּאִ֖ים מִן־ הַצָּבָֽא׃"
+pericope: "[[2Chr.28.5 Aram Defeats Judah|Aram Defeats Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 28
+book/chapter: "[[2Chr.28|2 Chronicles 28]]"
+chronological_order: 616
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AMASA|AMASA]]"
+- "[[topic AZARIAH|AZARIAH]]"
+- "[[topic BERECHIAH|BERECHIAH]]"
+- "[[topic HADLAI|HADLAI]]"
+- "[[topic JEHIZKIAH|JEHIZKIAH]]"
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic JOHANAN|JOHANAN]]"
+- "[[topic MESHILLEMOTH|MESHILLEMOTH]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SHALLUM|SHALLUM]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965J]]"
+- "[[H0582]]"
+- "[[H9006]]"
+- "[[H7218H]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H0669G]]"
+- "[[H5838O]]"
+- "[[H1121A]]"
+- "[[H3076L]]"
+- "[[H1296J]]"
+- "[[H4919G]]"
+- "[[H9002]]"
+- "[[H3169G]]"
+- "[[H7967N]]"
+- "[[H6021H]]"
+- "[[H2311]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H0935G]]"
+- "[[H4480A]]"
+- "[[H6635H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 28:12**<big><big>[[2Chr.28.5 Aram Defeats Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then certain of the heads of the children of Ephraim, Azariah the son of Johanan, Berechiah the son of Meshillemoth, and Jehizkiah the son of Shallum, and Amasa the son of Hadlai, stood up against them that came from the war,
 <small><sub>**BSB:**</sub></small>
 Then some of the leaders of the Ephraimites—Azariah son of Jehohanan, Berechiah son of Meshillemoth, Jehizkiah son of Shallum, and Amasa son of Hadlai—stood in opposition to those arriving from the war.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965J\|יָּקֻ֨מוּ]] [[H0582\|אֲנָשִׁ֜ים]] [[H9006\|מֵ]][[H7218H\|רָאשֵׁ֣י]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H0669G\|אֶפְרַ֗יִם]] [[H5838O\|עֲזַרְיָ֤הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H3076L\|יְהֽוֹחָנָן֙]] [[H1296J\|בֶּרֶכְיָ֣הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H4919G\|מְשִׁלֵּמ֔וֹת]] [[H9002\|וִֽ]][[H3169G\|יחִזְקִיָּ֙הוּ֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7967N\|שַׁלֻּ֔ם]] [[H9002\|וַ]][[H6021H\|עֲמָשָׂ֖א]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2311\|חַדְלָ֑י]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H0935G\|בָּאִ֖ים]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H6635H\|צָּבָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMASA|AMASA]] • [[topic AZARIAH|AZARIAH]] • [[topic BERECHIAH|BERECHIAH]] • [[topic HADLAI|HADLAI]] • [[topic JEHIZKIAH|JEHIZKIAH]] • [[topic JERICHO|JERICHO]] • [[topic JOHANAN|JOHANAN]] • [[topic MESHILLEMOTH|MESHILLEMOTH]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SHALLUM|SHALLUM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.11|<< 2 Chronicles 28:11]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.13|2 Chronicles 28:13 >>]]</td></tr></table>
 

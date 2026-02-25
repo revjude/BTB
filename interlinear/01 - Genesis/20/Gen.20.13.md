@@ -1,8 +1,79 @@
+---
+title: Genesis 20:13
+type: Verse
+kjv: "And it came to pass, when God caused me to wander from my father’s house, that I said unto her, This is thy kindness which thou shalt shew unto me; at every place whither we shall come, say of me, He is my brother."
+bsb: "So when God had me journey from my father’s house, I said to Sarah, ‘This is how you can show your loyalty to me: Wherever we go, say of me, “He is my brother.”’”"
+hebrew: "וַיְהִ֞י כַּאֲשֶׁ֧ר הִתְע֣וּ אֹתִ֗י אֱלֹהִים֮ מִבֵּ֣ית אָבִי֒ וָאֹמַ֣ר לָ֔הּ זֶ֣ה חַסְדֵּ֔ךְ אֲשֶׁ֥ר תַּעֲשִׂ֖י עִמָּדִ֑י אֶ֤ל כָּל־ הַמָּקוֹם֙ אֲשֶׁ֣ר נָב֣וֹא שָׁ֔מָּה אִמְרִי־ לִ֖י אָחִ֥י הֽוּא׃"
+pericope: "[[Gen.20.1 Abraham, Sarah, and Abimelech|Abraham, Sarah, and Abimelech]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 20
+book/chapter: "[[Gen.20|Genesis 20]]"
+chronological_order: 62
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic INCEST|INCEST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic SARAH|SARAH]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H8582]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H0430G]]"
+- "[[H9006]]"
+- "[[H1004B]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H2088]]"
+- "[[H2617A]]"
+- "[[H9022]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H5978]]"
+- "[[H0413]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H0935G]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H0251G]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 20:13**<big><big>[[Gen.20.1 Abraham, Sarah, and Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when God caused me to wander from my father’s house, that I said unto her, This [is] thy kindness which thou shalt shew unto me; at every place whither we shall come, say of me, He [is] my brother.
 <small><sub>**BSB:**</sub></small>
 So when God had me journey from my father’s house, I said to Sarah, ‘This is how you can show your loyalty to me: Wherever we go, say of me, “He is my brother.”’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֞י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֧ר]] [[H8582\|הִתְע֣וּ]] [[H0853\|אֹתִ֗]][[H9030\|י]] [[H0430G\|אֱלֹהִים֮]] [[H9006\|מִ]][[H1004B\|בֵּ֣ית]] [[H0001G\|אָבִ]][[H9020\|י֒]] [[H9001\|וָ]][[H0559\|אֹמַ֣ר]] [[H9005\|לָ֔]][[H9034\|הּ]] [[H2088\|זֶ֣ה]] [[H2617A\|חַסְדֵּ֔]][[H9022\|ךְ]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|תַּעֲשִׂ֖י]] [[H5978\|עִמָּדִ֑]][[H9030\|י]] [[H0413\|אֶ֤ל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּקוֹם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0935G\|נָב֣וֹא]] [[H8033G\|שָׁ֔מָּ]][[H9011\|ה]] [[H0559\|אִמְרִי]][[H9014\|־]] [[H9005\|לִ֖]][[H9030\|י]] [[H0251G\|אָחִ֥]][[H9020\|י]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IGNORANCE|IGNORANCE]] • [[topic INCEST|INCEST]] • [[topic MARRIAGE|MARRIAGE]] • [[topic SARAH|SARAH]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.20.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.20.12|<< Genesis 20:12]]</td><td align="center" style="border:none;">[[Gen.20|Genesis 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.20.14|Genesis 20:14 >>]]</td></tr></table>
 

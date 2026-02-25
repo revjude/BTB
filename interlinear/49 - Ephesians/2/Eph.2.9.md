@@ -1,10 +1,51 @@
+---
+title: Ephesians 2:9
+type: Verse
+kjv: "Not of works, lest any man should boast."
+bsb: "not by works, so that no one can boast."
+greek: "οὐκ ἐξ ἔργων, ἵνα μή τις καυχήσηται."
+pericope: "[[Eph.2.1 Alive with Christ|Alive with Christ]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 2
+book/chapter: "[[Eph.2|Ephesians 2]]"
+chronological_order: 1112
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3756]]"
+- "[[G1537]]"
+- "[[G2041]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G5100]]"
+- "[[G2744]]"
+texts:
+- NKO
+---
+
 **Ephesians 2:9**<big><big>[[Eph.2.1 Alive with Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Not of works, lest any man should boast.
 <small><sub>**BSB:**</sub></small>
 not by works, so that no one can boast.
-<small><sub>**Literal:**</sub></small>
-not as a result of works, so that not anyone may boast.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.8|<< Ephesians 2:8]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.10|Ephesians 2:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐκ]]  [[G1537\|ἐξ]]  [[G2041\|ἔργων,]]  [[G2443\|ἵνα]]  [[G3361\|μή]]  [[G5100\|τις]]  [[G2744\|καυχήσηται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BOASTING|BOASTING]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.8|<< Ephesians 2:8]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.10|Ephesians 2:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

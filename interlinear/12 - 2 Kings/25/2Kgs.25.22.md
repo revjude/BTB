@@ -1,8 +1,67 @@
+---
+title: 2 Kings 25:22
+type: Verse
+kjv: "And as for the people that remained in the land of Judah, whom Nebuchadnezzar king of Babylon had left, even over them he made Gedaliah the son of Ahikam, the son of Shaphan, ruler."
+bsb: "Nebuchadnezzar king of Babylon appointed Gedaliah son of Ahikam, the son of Shaphan, over the people he had left behind in the land of Judah."
+hebrew: "וְהָעָ֗ם הַנִּשְׁאָר֙ בְּאֶ֣רֶץ יְהוּדָ֔ה אֲשֶׁ֣ר הִשְׁאִ֔יר נְבֽוּכַדְנֶאצַּ֖ר מֶ֣לֶךְ בָּבֶ֑ל וַיַּפְקֵ֣ד עֲלֵיהֶ֔ם אֶת־ גְּדַלְיָ֖הוּ בֶּן־ אֲחִיקָ֥ם בֶּן־ שָׁפָֽן׃ פ"
+pericope: "[[2Kgs.25.22 Gedaliah Governs in Judah|Gedaliah Governs in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 25
+book/chapter: "[[2Kgs.25|2 Kings 25]]"
+chronological_order: 742
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHIKAM|AHIKAM]]"
+- "[[topic GEDALIAH|GEDALIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOHANAN|JOHANAN]]"
+- "[[topic SHAPHAN|SHAPHAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H7604]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3063G]]"
+- "[[H0834A]]"
+- "[[H5019]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H9001]]"
+- "[[H6485J]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1436B]]"
+- "[[H1121A]]"
+- "[[H0296]]"
+- "[[H8227B]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Kings 25:22**<big><big>[[2Kgs.25.22 Gedaliah Governs in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [as for] the people that remained in the land of Judah, whom Nebuchadnezzar king of Babylon had left, even over them he made Gedaliah the son of Ahikam, the son of Shaphan, ruler.
 <small><sub>**BSB:**</sub></small>
 Nebuchadnezzar king of Babylon appointed Gedaliah son of Ahikam, the son of Shaphan, over the people he had left behind in the land of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H5971A\|עָ֗ם]] [[H9009\|הַ]][[H7604\|נִּשְׁאָר֙]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H3063G\|יְהוּדָ֔ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H7604\|הִשְׁאִ֔יר]] [[H5019\|נְבֽוּכַדְנֶאצַּ֖ר]] [[H4428G\|מֶ֣לֶךְ]] [[H0894\|בָּבֶ֑ל]] [[H9001\|וַ]][[H6485J\|יַּפְקֵ֣ד]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֔ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1436B\|גְּדַלְיָ֖הוּ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0296\|אֲחִיקָ֥ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H8227B\|שָׁפָֽן]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIKAM|AHIKAM]] • [[topic GEDALIAH|GEDALIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOHANAN|JOHANAN]] • [[topic SHAPHAN|SHAPHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.21|<< 2 Kings 25:21]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.23|2 Kings 25:23 >>]]</td></tr></table>
 
@@ -24,7 +83,7 @@ Nebuchadnezzar king of Babylon appointed Gedaliah son of Ahikam, the son of Shap
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ahikam  |**<big>&#8207;[[H0296\|אֲחִיקָ֥ם]]&#8207; </big>**| 'a.chi.Kam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Shaphan  |**<big>&#8207;[[H8227B\|שָׁפָֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| sha.Fan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shaphan  |**<big>&#8207;[[H8227B\|שָׁפָֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| sha.Fan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.21|<< 2 Kings 25:21]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.23|2 Kings 25:23 >>]]</td></tr></table>
 
 

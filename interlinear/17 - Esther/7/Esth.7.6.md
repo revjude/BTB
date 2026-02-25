@@ -1,8 +1,59 @@
+---
+title: Esther 7:6
+type: Verse
+kjv: "And Esther said, The adversary and enemy is this wicked Haman. Then Haman was afraid before the king and the queen."
+bsb: "Esther replied, “The adversary and enemy is this wicked man—Haman!” And Haman stood in terror before the king and queen."
+hebrew: "וַתֹּ֣אמֶר־ אֶסְתֵּ֔ר אִ֚ישׁ צַ֣ר וְאוֹיֵ֔ב הָמָ֥ן הָרָ֖ע הַזֶּ֑ה וְהָמָ֣ן נִבְעַ֔ת מִלִּפְנֵ֥י הַמֶּ֖לֶךְ וְהַמַּלְכָּֽה׃"
+pericope: "[[Esth.7.1 Esther Pleads for Her People|Esther Pleads for Her People]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 7
+book/chapter: "[[Esth.7|Esther 7]]"
+chronological_order: 905
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9014]]"
+- "[[H0635]]"
+- "[[H0376G]]"
+- "[[H6862C]]"
+- "[[H9002]]"
+- "[[H0341]]"
+- "[[H2001]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H2088]]"
+- "[[H1204]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H4428G]]"
+- "[[H4436H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 7:6**<big><big>[[Esth.7.1 Esther Pleads for Her People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Esther said, The adversary and enemy [is] this wicked Haman. Then Haman was afraid before the king and the queen.
 <small><sub>**BSB:**</sub></small>
 Esther replied, “The adversary and enemy is this wicked man—Haman!” And Haman stood in terror before the king and queen.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]][[H9014\|־]] [[H0635\|אֶסְתֵּ֔ר]] [[H0376G\|אִ֚ישׁ]] [[H6862C\|צַ֣ר]] [[H9002\|וְ]][[H0341\|אוֹיֵ֔ב]] [[H2001\|הָמָ֥ן]] [[H9009\|הָ]][[H7451H\|רָ֖ע]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9002\|וְ]][[H2001\|הָמָ֣ן]] [[H1204\|נִבְעַ֔ת]] [[H9006\|מִ]][[H9005\|לִּ]][[H6440G\|פְנֵ֥י]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H9002\|וְ]][[H9009\|הַ]][[H4436H\|מַּלְכָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.7.5|<< Esther 7:5]]</td><td align="center" style="border:none;">[[Esth.7|Esther 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.7.7|Esther 7:7 >>]]</td></tr></table>
 

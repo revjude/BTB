@@ -1,8 +1,79 @@
+---
+title: Genesis 41:42
+type: Verse
+kjv: "And Pharaoh took off his ring from his hand, and put it upon Joseph’s hand, and arrayed him in vestures of fine linen, and put a gold chain about his neck;"
+bsb: "Then Pharaoh removed the signet ring from his finger, put it on Joseph’s finger, clothed him in garments of fine linen, and placed a gold chain around his neck."
+hebrew: "וַיָּ֨סַר פַּרְעֹ֤ה אֶת־ טַבַּעְתּוֹ֙ מֵעַ֣ל יָד֔וֹ וַיִּתֵּ֥ן אֹתָ֖הּ עַל־ יַ֣ד יוֹסֵ֑ף וַיַּלְבֵּ֤שׁ אֹתוֹ֙ בִּגְדֵי־ שֵׁ֔שׁ וַיָּ֛שֶׂם רְבִ֥ד הַזָּהָ֖ב עַל־ צַוָּארֽוֹ׃"
+pericope: "[[Gen.41.37 Joseph Given Charge of Egypt|Joseph Given Charge of Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic CHAINS|CHAINS]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic LINEN|LINEN]]"
+- "[[topic MINISTER, CIVIL|MINISTER, CIVIL]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROMOTION|PROMOTION]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic RING|RING]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H5493G]]"
+- "[[H6547H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2885]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H3027G]]"
+- "[[H5414H]]"
+- "[[H9034]]"
+- "[[H3130G]]"
+- "[[H3847]]"
+- "[[H9033]]"
+- "[[H0899B]]"
+- "[[H8336B]]"
+- "[[H7760H]]"
+- "[[H7242]]"
+- "[[H9009]]"
+- "[[H2091]]"
+- "[[H6677A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:42**<big><big>[[Gen.41.37 Joseph Given Charge of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaoh took off his ring from his hand, and put it upon Joseph’s hand, and arrayed him in vestures of fine linen, and put a gold chain about his neck;
 <small><sub>**BSB:**</sub></small>
 Then Pharaoh removed the signet ring from his finger, put it on Joseph’s finger, clothed him in garments of fine linen, and placed a gold chain around his neck.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5493G\|יָּ֨סַר]] [[H6547H\|פַּרְעֹ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H2885\|טַבַּעְתּ]][[H9023\|וֹ֙]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H3027G\|יָד֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H5414H\|יִּתֵּ֥ן]] [[H0853\|אֹתָ֖]][[H9034\|הּ]] [[H5921A\|עַל]][[H9014\|־]] [[H3027G\|יַ֣ד]] [[H3130G\|יוֹסֵ֑ף]] [[H9001\|וַ]][[H3847\|יַּלְבֵּ֤שׁ]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H0899B\|בִּגְדֵי]][[H9014\|־]] [[H8336B\|שֵׁ֔שׁ]] [[H9001\|וַ]][[H7760H\|יָּ֛שֶׂם]] [[H7242\|רְבִ֥ד]] [[H9009\|הַ]][[H2091\|זָּהָ֖ב]] [[H5921A\|עַל]][[H9014\|־]] [[H6677A\|צַוָּארֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTIVE|CAPTIVE]] • [[topic CHAINS|CHAINS]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic ECONOMICS|ECONOMICS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOSEPH|JOSEPH]] • [[topic LINEN|LINEN]] • [[topic MINISTER, CIVIL|MINISTER, CIVIL]] • [[topic PRISONERS|PRISONERS]] • [[topic PROMOTION|PROMOTION]] • [[topic PRUDENCE|PRUDENCE]] • [[topic RING|RING]] • [[topic RULERS|RULERS]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.41|<< Genesis 41:41]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.43|Genesis 41:43 >>]]</td></tr></table>
 

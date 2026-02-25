@@ -1,8 +1,58 @@
+---
+title: 1 Chronicles 29:6
+type: Verse
+kjv: "Then the chief of the fathers and princes of the tribes of Israel, and the captains of thousands and of hundreds, with the rulers of the king’s work, offered willingly,"
+bsb: "Then the leaders of the families, the officers of the tribes of Israel, the commanders of thousands and of hundreds, and the officials in charge of the king’s work gave willingly."
+hebrew: "וַיִּֽתְנַדְּבוּ֩ שָׂרֵ֨י הָאָב֜וֹת וְשָׂרֵ֣י׀ שִׁבְטֵ֣י יִשְׂרָאֵ֗ל וְשָׂרֵ֤י הָאֲלָפִים֙ וְהַמֵּא֔וֹת וּלְשָׂרֵ֖י מְלֶ֥אכֶת הַמֶּֽלֶךְ׃"
+pericope: "[[1Chr.29.1 Offerings for the Temple|Offerings for the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 29
+book/chapter: "[[1Chr.29|1 Chronicles 29]]"
+chronological_order: 440
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic GOLD|GOLD]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SILVER|SILVER]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5068]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H0001G]]"
+- "[[H9002]]"
+- "[[H9015]]"
+- "[[H7626G]]"
+- "[[H3478]]"
+- "[[H0505G]]"
+- "[[H3967]]"
+- "[[H9005]]"
+- "[[H4399]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 29:6**<big><big>[[1Chr.29.1 Offerings for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the chief of the fathers and princes of the tribes of Israel, and the captains of thousands and of hundreds, with the rulers of the king’s work, offered willingly,
 <small><sub>**BSB:**</sub></small>
 Then the leaders of the families, the officers of the tribes of Israel, the commanders of thousands and of hundreds, and the officials in charge of the king’s work gave willingly.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5068\|יִּֽתְנַדְּבוּ֩]] [[H8269\|שָׂרֵ֨י]] [[H9009\|הָ]][[H0001G\|אָב֜וֹת]] [[H9002\|וְ]][[H8269\|שָׂרֵ֣י]][[H9015\|׀]] [[H7626G\|שִׁבְטֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9002\|וְ]][[H8269\|שָׂרֵ֤י]] [[H9009\|הָ]][[H0505G\|אֲלָפִים֙]] [[H9002\|וְ]][[H9009\|הַ]][[H3967\|מֵּא֔וֹת]] [[H9002\|וּ]][[H9005\|לְ]][[H8269\|שָׂרֵ֖י]] [[H4399\|מְלֶ֥אכֶת]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOLD|GOLD]] • [[topic LIBERALITY|LIBERALITY]] • [[topic SILVER|SILVER]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.5|<< 1 Chronicles 29:5]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.7|1 Chronicles 29:7 >>]]</td></tr></table>
 

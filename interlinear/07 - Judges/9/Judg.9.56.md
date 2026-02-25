@@ -1,8 +1,59 @@
+---
+title: Judges 9:56
+type: Verse
+kjv: "Thus God rendered the wickedness of Abimelech, which he did unto his father, in slaying his seventy brethren:"
+bsb: "In this way God repaid the wickedness that Abimelech had done to his father in murdering his seventy brothers."
+hebrew: "וַיָּ֣שֶׁב אֱלֹהִ֔ים אֵ֖ת רָעַ֣ת אֲבִימֶ֑לֶךְ אֲשֶׁ֤ר עָשָׂה֙ לְאָבִ֔יו לַהֲרֹ֖ג אֶת־ שִׁבְעִ֥ים אֶחָֽיו׃"
+pericope: "[[Judg.9.50 Abimelech’s Punishment|Abimelech’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic THEBEZ|THEBEZ]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725K]]"
+- "[[H0430G]]"
+- "[[H0853]]"
+- "[[H7451I]]"
+- "[[H0040H]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H2026]]"
+- "[[H9014]]"
+- "[[H7657]]"
+- "[[H0251G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 9:56**<big><big>[[Judg.9.50 Abimelech’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus God rendered the wickedness of Abimelech, which he did unto his father, in slaying his seventy brethren:
 <small><sub>**BSB:**</sub></small>
 In this way God repaid the wickedness that Abimelech had done to his father in murdering his seventy brothers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725K\|יָּ֣שֶׁב]] [[H0430G\|אֱלֹהִ֔ים]] [[H0853\|אֵ֖ת]] [[H7451I\|רָעַ֣ת]] [[H0040H\|אֲבִימֶ֑לֶךְ]] [[H0834A\|אֲשֶׁ֤ר]] [[H6213A\|עָשָׂה֙]] [[H9005\|לְ]][[H0001G\|אָבִ֔י]][[H9023\|ו]] [[H9005\|לַ]][[H2026\|הֲרֹ֖ג]] [[H0853\|אֶת]][[H9014\|־]] [[H7657\|שִׁבְעִ֥ים]] [[H0251G\|אֶחָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic THEBEZ|THEBEZ]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.56|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.55|<< Judges 9:55]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.57|Judges 9:57 >>]]</td></tr></table>
 

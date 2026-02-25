@@ -1,8 +1,72 @@
+---
+title: 2 Chronicles 34:25
+type: Verse
+kjv: "Because they have forsaken me, and have burned incense unto other gods, that they might provoke me to anger with all the works of their hands; therefore my wrath shall be poured out upon this place, and shall not be quenched."
+bsb: "because they have forsaken Me and burned incense to other gods, that they might provoke Me to anger with all the works of their hands. My wrath will be poured out upon this place and will not be quenched.’"
+hebrew: "תַּ֣חַת׀ אֲשֶׁ֣ר עֲזָב֗וּנִי וַֽיְקַטְּרוּ֙ לֵֽאלֹהִ֣ים אֲחֵרִ֔ים לְמַ֙עַן֙ הַכְעִיסֵ֔נִי בְּכֹ֖ל מַעֲשֵׂ֣י יְדֵיהֶ֑ם וְתִתַּ֧ךְ חֲמָתִ֛י בַּמָּק֥וֹם הַזֶּ֖ה וְלֹ֥א תִכְבֶּֽה׃"
+pericope: "[[2Chr.34.22 Huldah’s Prophecy|Huldah’s Prophecy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 34
+book/chapter: "[[2Chr.34|2 Chronicles 34]]"
+chronological_order: 713
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ASAHIAH|ASAHIAH]]"
+- "[[topic HULDAH|HULDAH]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H8478J]]"
+- "[[H9015]]"
+- "[[H0834A]]"
+- "[[H5800A]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H6999H]]"
+- "[[H9005]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H4616]]"
+- "[[H3707]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H4639G]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H5413]]"
+- "[[H2534]]"
+- "[[H9020]]"
+- "[[H4725]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H3808]]"
+- "[[H3518]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Chronicles 34:25**<big><big>[[2Chr.34.22 Huldah’s Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because they have forsaken me, and have burned incense unto other gods, that they might provoke me to anger with all the works of their hands; therefore my wrath shall be poured out upon this place, and shall not be quenched.
 <small><sub>**BSB:**</sub></small>
 because they have forsaken Me and burned incense to other gods, that they might provoke Me to anger with all the works of their hands. My wrath will be poured out upon this place and will not be quenched.’
+<small><sub>**Hebrew:**</sub></small>
+[[H8478J\|תַּ֣חַת]][[H9015\|׀]] [[H0834A\|אֲשֶׁ֣ר]] [[H5800A\|עֲזָב֗וּ]][[H9030\|נִי]] [[H9001\|וַֽ]][[H6999H\|יְקַטְּרוּ֙]] [[H9005\|לֵֽ]][[H0430\|אלֹהִ֣ים]] [[H0312\|אֲחֵרִ֔ים]] [[H4616\|לְמַ֙עַן֙]] [[H3707\|הַכְעִיסֵ֔]][[H9030\|נִי]] [[H9003\|בְּ]][[H3605\|כֹ֖ל]] [[H4639G\|מַעֲשֵׂ֣י]] [[H3027G\|יְדֵי]][[H9028\|הֶ֑ם]] [[H9002\|וְ]][[H5413\|תִתַּ֧ךְ]] [[H2534\|חֲמָתִ֛]][[H9020\|י]] [[H9003\|בַּ]][[H4725\|מָּק֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3518\|תִכְבֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAHIAH|ASAHIAH]] • [[topic HULDAH|HULDAH]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JOSIAH|JOSIAH]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.24|<< 2 Chronicles 34:24]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.26|2 Chronicles 34:26 >>]]</td></tr></table>
 
@@ -27,7 +91,7 @@ because they have forsaken Me and burned incense to other gods, that they might 
 | it will be quenched  |**<big>&#8207;[[H3518\|תִכְבֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tikh.Beh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.24|<< 2 Chronicles 34:24]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.26|2 Chronicles 34:26 >>]]</td></tr></table>
 
-[^1]: and they have made smoke  | **<big>[[H6999H|יַּקְטִירוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yak.ti.ru<small><sup>[[HVhw3mp]]</sup></small> | K
-[^2]: and they have made smoke  | **<big>[[H6999H|יַּקְטִירוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yak.ti.ru<small><sup>[[HVhw3mp]]</sup></small> | K
+[^1]: and they have made smoke  | **<big>[[H9001|וַ]]</big><big>[[H6999H|יַּקְטִירוּ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yak.ti.ru<small><sup>[[HVhw3mp]]</sup></small> | K
+[^2]: and they have made smoke  | **<big>[[H9001|וַ]]</big><big>[[H6999H|יַּקְטִירוּ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yak.ti.ru<small><sup>[[HVhw3mp]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וַֽיְקַטְּירוּ֙</big></span>**
 

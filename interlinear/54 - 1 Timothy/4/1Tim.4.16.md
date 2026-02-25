@@ -1,10 +1,54 @@
+---
+title: 1 Timothy 4:16
+type: Verse
+kjv: "Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee."
+bsb: "Pay close attention to your life and to your teaching. Persevere in these things, for by so doing you will save both yourself and those who hear you."
+greek: "ἔπεχε σεαυτῷ καὶ τῇ διδασκαλίᾳ· ἐπίμενε αὐτοῖς· τοῦτο γὰρ ποιῶν καὶ σεαυτὸν σώσεις καὶ τοὺς ἀκούοντάς σου.¶"
+pericope: "[[1Tim.4.6 A Good Servant of Jesus Christ|A Good Servant of Jesus Christ]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 4
+book/chapter: "[[1Tim.4|1 Timothy 4]]"
+chronological_order: 1129
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G1907]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1319]]"
+- "[[G1961]]"
+- "[[G0846]]"
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G4160G]]"
+- "[[G4982]]"
+- "[[G0191]]"
+texts:
+- NKO
+---
+
 **1 Timothy 4:16**<big><big>[[1Tim.4.6 A Good Servant of Jesus Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee.
 <small><sub>**BSB:**</sub></small>
 Pay close attention to your life and to your teaching. Persevere in these things, for by so doing you will save both yourself and those who hear you.
-<small><sub>**Literal:**</sub></small>
-do give heed to yourself and to the teaching; do continue in them; this for doing both yourself you will save and those hearing you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.4.15|<< 1 Timothy 4:15]]</td><td align="center" style="border:none;">[[1Tim.4|1 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.5.1|1 Timothy 5:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1907\|ἔπεχε]]  [[G4771\|σεαυτῷ]]  [[G2532\|καὶ]]  [[G3588\|τῇ]]  [[G1319\|διδασκαλίᾳ·]]  [[G1961\|ἐπίμενε]]  [[G0846\|αὐτοῖς·]]  [[G3778\|τοῦτο]]  [[G1063\|γὰρ]]  [[G4160G\|ποιῶν]]  [[G2532\|καὶ]]  [[G4771\|σεαυτὸν]]  [[G4982\|σώσεις]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G0191\|ἀκούοντάς]]  [[G4771\|σου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.4.15|<< 1 Timothy 4:15]]</td><td align="center" style="border:none;">[[1Tim.4|1 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.5.1|1 Timothy 5:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

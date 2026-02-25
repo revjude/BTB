@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul and Barnabas at Iconium
+type: Pericope
 pericope: "[[Acts.14.1 Paul and Barnabas at Iconium|Paul and Barnabas at Iconium]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Acts
 chapter: 14
 book/chapter: "[[Acts.14|Acts 14]]"
-genre:
+chronological_order: 1032
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 7
 verses:
 - "[[Acts.14.1]]"
 - "[[Acts.14.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Acts.14.7]]"
 ---
 
-[[Acts.14|Acts 14:1 - Acts 14:7]]
+<small>[[Acts.14|Acts 14:1-7]]</small>
 *Paul and Barnabas at Iconium*
 
 [[Acts.14.1|1]] And it came to pass in Iconium, that they went both together into the synagogue of the Jews, and so spake, that a great multitude both of the Jews and also of the Greeks believed.

@@ -1,8 +1,53 @@
+---
+title: Proverbs 5:5
+type: Verse
+kjv: "Her feet go down to death; her steps take hold on hell."
+bsb: "Her feet go down to death; her steps lead straight to Sheol."
+hebrew: "רַ֭גְלֶיהָ יֹרְד֣וֹת מָ֑וֶת שְׁ֝א֗וֹל צְעָדֶ֥יהָ יִתְמֹֽכוּ׃"
+pericope: "[[Prov.5.1 Avoiding Immorality|Avoiding Immorality]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 5
+book/chapter: "[[Prov.5|Proverbs 5]]"
+chronological_order: 460
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]]"
+- "[[topic HELL|HELL]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H7272]]"
+- "[[H9024]]"
+- "[[H3381]]"
+- "[[H4194]]"
+- "[[H7585]]"
+- "[[H6806]]"
+- "[[H8551]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 5:5**<big><big>[[Prov.5.1 Avoiding Immorality|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Her feet go down to death; her steps take hold on hell.
 <small><sub>**BSB:**</sub></small>
 Her feet go down to death; her steps lead straight to Sheol.
+<small><sub>**Hebrew:**</sub></small>
+[[H7272\|רַ֭גְלֶי]][[H9024\|הָ]] [[H3381\|יֹרְד֣וֹת]] [[H4194\|מָ֑וֶת]] [[H7585\|שְׁ֝א֗וֹל]] [[H6806\|צְעָדֶ֥י]][[H9024\|הָ]] [[H8551\|יִתְמֹֽכוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]] • [[topic HELL|HELL]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic WOMEN|WOMEN]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.5.4|<< Proverbs 5:4]]</td><td align="center" style="border:none;">[[Prov.5|Proverbs 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.5.6|Proverbs 5:6 >>]]</td></tr></table>
 

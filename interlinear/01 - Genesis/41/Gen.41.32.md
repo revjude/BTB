@@ -1,8 +1,70 @@
+---
+title: Genesis 41:32
+type: Verse
+kjv: "And for that the dream was doubled unto Pharaoh twice; it is because the thing is established by God, and God will shortly bring it to pass."
+bsb: "Moreover, because the dream was given to Pharaoh in two versions, the matter has been decreed by God, and He will carry it out shortly."
+hebrew: "וְעַ֨ל הִשָּׁנ֧וֹת הַחֲל֛וֹם אֶל־ פַּרְעֹ֖ה פַּעֲמָ֑יִם כִּֽי־ נָכ֤וֹן הַדָּבָר֙ מֵעִ֣ם הָאֱלֹהִ֔ים וּמְמַהֵ֥ר הָאֱלֹהִ֖ים לַעֲשֹׂתֽוֹ׃"
+pericope: "[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|Joseph Interprets Pharaoh’s Dreams]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROMOTION|PROMOTION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H8138B]]"
+- "[[H9009]]"
+- "[[H2472]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6547H]]"
+- "[[H6471]]"
+- "[[H3588A]]"
+- "[[H3559H]]"
+- "[[H1697I]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H0430G]]"
+- "[[H4116A]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:32**<big><big>[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for that the dream was doubled unto Pharaoh twice; [it is] because the thing [is] established by God, and God will shortly bring it to pass.
 <small><sub>**BSB:**</sub></small>
 Moreover, because the dream was given to Pharaoh in two versions, the matter has been decreed by God, and He will carry it out shortly.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5921A\|עַ֨ל]] [[H8138B\|הִשָּׁנ֧וֹת]] [[H9009\|הַ]][[H2472\|חֲל֛וֹם]] [[H0413\|אֶל]][[H9014\|־]] [[H6547H\|פַּרְעֹ֖ה]] [[H6471\|פַּעֲמָ֑יִם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3559H\|נָכ֤וֹן]] [[H9009\|הַ]][[H1697I\|דָּבָר֙]] [[H9006\|מֵ]][[H5973B\|עִ֣ם]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H9002\|וּ]][[H4116A\|מְמַהֵ֥ר]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H9005\|לַ]][[H6213A\|עֲשֹׂתֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOSEPH|JOSEPH]] • [[topic PRISONERS|PRISONERS]] • [[topic PROMOTION|PROMOTION]] • [[topic SERVANT|SERVANT]] • [[topic SEVEN|SEVEN]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.31|<< Genesis 41:31]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.33|Genesis 41:33 >>]]</td></tr></table>
 

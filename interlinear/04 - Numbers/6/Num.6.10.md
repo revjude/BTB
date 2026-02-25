@@ -1,8 +1,65 @@
+---
+title: Numbers 6:10
+type: Verse
+kjv: "And on the eighth day he shall bring two turtles, or two young pigeons, to the priest, to the door of the tabernacle of the congregation:"
+bsb: "On the eighth day he must bring two turtledoves or two young pigeons to the priest at the entrance to the Tent of Meeting."
+hebrew: "וּבַיּ֣וֹם הַשְּׁמִינִ֗י יָבִא֙ שְׁתֵּ֣י תֹרִ֔ים א֥וֹ שְׁנֵ֖י בְּנֵ֣י יוֹנָ֑ה אֶל־ הַכֹּהֵ֔ן אֶל־ פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃"
+pericope: "[[Num.6.1 The Nazirite Vow|The Nazirite Vow]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 6
+book/chapter: "[[Num.6|Numbers 6]]"
+chronological_order: 165
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic DOVE, TURTLE|DOVE, TURTLE]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic NAZARITE|NAZARITE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H8066]]"
+- "[[H0935P]]"
+- "[[H8147]]"
+- "[[H8449]]"
+- "[[H0176A]]"
+- "[[H1121H]]"
+- "[[H3123]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3548]]"
+- "[[H6607]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 6:10**<big><big>[[Num.6.1 The Nazirite Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And on the eighth day he shall bring two turtles, or two young pigeons, to the priest, to the door of the tabernacle of the congregation:
 <small><sub>**BSB:**</sub></small>
 On the eighth day he must bring two turtledoves or two young pigeons to the priest at the entrance to the Tent of Meeting.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H8066\|שְּׁמִינִ֗י]] [[H0935P\|יָבִא֙]] [[H8147\|שְׁתֵּ֣י]] [[H8449\|תֹרִ֔ים]] [[H0176A\|א֥וֹ]] [[H8147\|שְׁנֵ֖י]] [[H1121H\|בְּנֵ֣י]] [[H3123\|יוֹנָ֑ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H0413\|אֶל]][[H9014\|־]] [[H6607\|פֶּ֖תַח]] [[H0168G\|אֹ֥הֶל]] [[H4150I\|מוֹעֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOVE, TURTLE|DOVE, TURTLE]] • [[topic FRATERNITY|FRATERNITY]] • [[topic NAZARITE|NAZARITE]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.9|<< Numbers 6:9]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.11|Numbers 6:11 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Glory Leaves Jerusalem
+type: Pericope
 pericope: "[[Ezek.11.22 God’s Glory Leaves Jerusalem|God’s Glory Leaves Jerusalem]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 11
 book/chapter: "[[Ezek.11|Ezekiel 11]]"
-genre:
+chronological_order: 802
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 4
 verses:
 - "[[Ezek.11.22]]"
 - "[[Ezek.11.23]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Ezek.11.25]]"
 ---
 
-[[Ezek.11|Ezekiel 11:22 - Ezekiel 11:25]]
+<small>[[Ezek.11|Ezekiel 11:22-25]]</small>
 *God’s Glory Leaves Jerusalem*
 
 [[Ezek.11.22|22]] Then did the cherubims lift up their wings, and the wheels beside them; and the glory of the God of Israel \[was\] over them above.

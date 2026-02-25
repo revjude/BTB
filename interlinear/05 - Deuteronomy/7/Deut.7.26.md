@@ -1,8 +1,67 @@
+---
+title: Deuteronomy 7:26
+type: Verse
+kjv: "Neither shalt thou bring an abomination into thine house, lest thou be a cursed thing like it: but thou shalt utterly detest it, and thou shalt utterly abhor it; for it is a cursed thing."
+bsb: "And you must not bring any detestable thing into your house, or you, like it, will be set apart for destruction. You are to utterly detest and abhor it, because it is set apart for destruction."
+hebrew: "וְלֹא־ תָבִ֤יא תֽוֹעֵבָה֙ אֶל־ בֵּיתֶ֔ךָ וְהָיִ֥יתָ חֵ֖רֶם כָּמֹ֑הוּ שַׁקֵּ֧ץ׀ תְּשַׁקְּצֶ֛נּוּ וְתַעֵ֥ב׀ תְּֽתַעֲבֶ֖נּוּ כִּי־ חֵ֥רֶם הֽוּא׃ פ"
+pericope: "[[Deut.7.12 The Promises of God|The Promises of God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 7
+book/chapter: "[[Deut.7|Deuteronomy 7]]"
+chronological_order: 203
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0935P]]"
+- "[[H8441]]"
+- "[[H0413]]"
+- "[[H1004B]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H2764A]]"
+- "[[H3644G]]"
+- "[[H9033]]"
+- "[[H8262]]"
+- "[[H9015]]"
+- "[[H8581]]"
+- "[[H3588A]]"
+- "[[H1931]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Deuteronomy 7:26**<big><big>[[Deut.7.12 The Promises of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shalt thou bring an abomination into thine house, lest thou be a cursed thing like it: [but] thou shalt utterly detest it, and thou shalt utterly abhor it; for it [is] a cursed thing.
 <small><sub>**BSB:**</sub></small>
 And you must not bring any detestable thing into your house, or you, like it, will be set apart for destruction. You are to utterly detest and abhor it, because it is set apart for destruction.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H0935P\|תָבִ֤יא]] [[H8441\|תֽוֹעֵבָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּיתֶ֔]][[H9021\|ךָ]] [[H9001\|וְ]][[H1961\|הָיִ֥יתָ]] [[H2764A\|חֵ֖רֶם]] [[H3644G\|כָּמֹ֑]][[H9033\|הוּ]] [[H8262\|שַׁקֵּ֧ץ]][[H9015\|׀]] [[H8262\|תְּשַׁקְּצֶ֛]][[H9033\|נּוּ]] [[H9002\|וְ]][[H8581\|תַעֵ֥ב]][[H9015\|׀]] [[H8581\|תְּֽתַעֲבֶ֖]][[H9033\|נּוּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H2764A\|חֵ֥רֶם]] [[H1931\|הֽוּא]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTINGENCIES|CONTINGENCIES]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.25|<< Deuteronomy 7:25]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.8.1|Deuteronomy 8:1 >>]]</td></tr></table>
 
@@ -22,7 +81,7 @@ And you must not bring any detestable thing into your house, or you, like it, wi
 | you will abhor it  |**<big>&#8207;[[H8581\|תְּֽתַעֲבֶ֖]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| te.ta.'a.Ve.<small><sup>[[HVpi2ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] an object for destruction  |**<big>&#8207;[[H2764A\|חֵ֥רֶם]]&#8207; </big>**| Che.rem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.25|<< Deuteronomy 7:25]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.8.1|Deuteronomy 8:1 >>]]</td></tr></table>
 
 

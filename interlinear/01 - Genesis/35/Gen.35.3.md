@@ -1,8 +1,75 @@
+---
+title: Genesis 35:3
+type: Verse
+kjv: "And let us arise, and go up to Bethel; and I will make there an altar unto God, who answered me in the day of my distress, and was with me in the way which I went."
+bsb: "Then let us arise and go to Bethel. I will build an altar there to God, who answered me in my day of distress. He has been with me wherever I have gone.”"
+hebrew: "וְנָק֥וּמָה וְנַעֲלֶ֖ה בֵּֽית־ אֵ֑ל וְאֶֽעֱשֶׂה־ שָּׁ֣ם מִזְבֵּ֗חַ לָאֵ֞ל הָעֹנֶ֤ה אֹתִי֙ בְּי֣וֹם צָֽרָתִ֔י וַיְהִי֙ עִמָּדִ֔י בַּדֶּ֖רֶךְ אֲשֶׁ֥ר הָלָֽכְתִּי׃"
+pericope: "[[Gen.35.1 Jacob Returns to Bethel|Jacob Returns to Bethel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 35
+book/chapter: "[[Gen.35|Genesis 35]]"
+chronological_order: 77
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic TERAPHIM|TERAPHIM]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9002]]"
+- "[[H6965B]]"
+- "[[H5927G]]"
+- "[[H1008G]]"
+- "[[H9014]]"
+- "[[H6213H]]"
+- "[[H8033G]]"
+- "[[H4196]]"
+- "[[H9005]]"
+- "[[H0410G]]"
+- "[[H9009]]"
+- "[[H6030B]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H6869B]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H5978]]"
+- "[[H1870L]]"
+- "[[H0834A]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 35:3**<big><big>[[Gen.35.1 Jacob Returns to Bethel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let us arise, and go up to Bethel; and I will make there an altar unto God, who answered me in the day of my distress, and was with me in the way which I went.
 <small><sub>**BSB:**</sub></small>
 Then let us arise and go to Bethel. I will build an altar there to God, who answered me in my day of distress. He has been with me wherever I have gone.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6965B\|נָק֥וּמָה]] [[H9002\|וְ]][[H5927G\|נַעֲלֶ֖ה]] [[H1008G\|בֵּֽית]][[H9014\|־]] [[H1008G\|אֵ֑ל]] [[H9002\|וְ]][[H6213H\|אֶֽעֱשֶׂה]][[H9014\|־]] [[H8033G\|שָּׁ֣ם]] [[H4196\|מִזְבֵּ֗חַ]] [[H9005\|לָ]][[H0410G\|אֵ֞ל]] [[H9009\|הָ]][[H6030B\|עֹנֶ֤ה]] [[H0853\|אֹתִ]][[H9030\|י֙]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H6869B\|צָֽרָתִ֔]][[H9020\|י]] [[H9001\|וַ]][[H1961\|יְהִי֙]] [[H5978\|עִמָּדִ֔]][[H9030\|י]] [[H9003\|בַּ]][[H1870L\|דֶּ֖רֶךְ]] [[H0834A\|אֲשֶׁ֥ר]] [[H1980G\|הָלָֽכְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic BETH-EL|BETH-EL]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic JACOB|JACOB]] • [[topic PRAYER|PRAYER]] • [[topic TERAPHIM|TERAPHIM]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.35.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.2|<< Genesis 35:2]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.4|Genesis 35:4 >>]]</td></tr></table>
 

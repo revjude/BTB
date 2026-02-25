@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Overthrow of Nineveh
+type: Pericope
 pericope: "[[Nah.2.1 The Overthrow of Nineveh|The Overthrow of Nineveh]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Nahum
 chapter: 2
 book/chapter: "[[Nah.2|Nahum 2]]"
-genre:
+chronological_order: 709
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 13
 verses:
 - "[[Nah.2.1]]"
 - "[[Nah.2.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Nah.2.13]]"
 ---
 
-[[Nah.2|Nahum 2:1 - Nahum 2:13]]
+<small>[[Nah.2|Nahum 2:1-13]]</small>
 *The Overthrow of Nineveh*
 
 [[Nah.2.1|1]] He that dasheth in pieces is come up before thy face: keep the munition, watch the way, make \[thy\] loins strong, fortify \[thy\] power mightily.

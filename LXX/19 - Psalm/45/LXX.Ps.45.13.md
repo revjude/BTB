@@ -1,6 +1,54 @@
+---
+title: LXX Psalm 45:13
+type: Verse
+lxx: "All the glory of the daughter of the king within, with bordered fringes of gold,"
+greek: "πάσα η δόξα της θυγατρός του βασιλέως έσωθεν εν κροσσωτοίς χρυσοίς"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 45
+book/chapter: "[[Ps.45|Psalm 45]]"
+chronological_order: 500
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BRIDE|BRIDE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1391]]"
+- "[[G3588]]"
+- "[[G2364]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2081]]"
+- "[[G1722]]"
+- "[[G8102]]"
+- "[[G5552]]"
+---
+
 **LXX Psalm 45:13** 
 <small><sub>**LXX:**</sub></small>
 All the glory of the daughter of the king within, with bordered fringes of gold, 
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πάσα]] [[G3588\|η]] [[G1391\|δόξα]] [[G3588\|της]] [[G2364\|θυγατρός]] [[G3588\|του]] [[G0935\|βασιλέως]] [[G2081\|έσωθεν]] [[G1722\|εν]] [[G8102\|κροσσωτοίς]] [[G5552\|χρυσοίς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDE|BRIDE]] • [[topic CHURCH|CHURCH]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOLD|GOLD]] • [[topic SOLOMON|SOLOMON]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.45.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.45.12|<< Psalm 45:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.45.14|Psalm 45:14 >>]]</td></tr></table>
 
@@ -17,6 +65,6 @@ All the glory of the daughter of the king within, with bordered fringes of gold,
 | with | **<big>[[G1722\|εν]]</big>** |
 | bordered fringes | **<big>[[G8102\|κροσσωτοίς]]</big>** |
 | of gold, | **<big>[[G5552\|χρυσοίς]]</big>** |
-[[Ps.45.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.45.12|<< Psalm 45:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.45.14|Psalm 45:14 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.45.12|<< Psalm 45:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.45.14|Psalm 45:14 >>]]</td></tr></table>
 
 

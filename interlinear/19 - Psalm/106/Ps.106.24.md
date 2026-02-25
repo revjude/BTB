@@ -1,8 +1,58 @@
+---
+title: Psalm 106:24
+type: Verse
+kjv: "Yea, they despised the pleasant land, they believed not his word:"
+bsb: "They despised the pleasant land; they did not believe His promise."
+hebrew: "וַֽ֭יִּמְאֲסוּ בְּאֶ֣רֶץ חֶמְדָּ֑ה לֹֽא־ הֶ֝אֱמִ֗ינוּ לִדְבָרֽוֹ׃"
+pericope: "[[Ps.106.1 Give Thanks to the LORD, for He Is Good|Give Thanks to the LORD, for He Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 106
+book/chapter: "[[Ps.106|Psalm 106]]"
+chronological_order: 530
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[H9001]]"
+- "[[H3988A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H2532A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0539]]"
+- "[[H9005]]"
+- "[[H1697J]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 106:24**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, they despised the pleasant land, they believed not his word:
 <small><sub>**BSB:**</sub></small>
 They despised the pleasant land; they did not believe His promise.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ֭]][[H3988A\|יִּמְאֲסוּ]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H2532A\|חֶמְדָּ֑ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0539\|הֶ֝אֱמִ֗ינוּ]] [[H9005\|לִ]][[H1697J\|דְבָרֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic INFIDELITY|INFIDELITY]] • [[topic UNBELIEF|UNBELIEF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.23|<< Psalms 106:23]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.25|Psalms 106:25 >>]]</td></tr></table>
 

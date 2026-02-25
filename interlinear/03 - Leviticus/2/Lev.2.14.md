@@ -1,8 +1,62 @@
+---
+title: Leviticus 2:14
+type: Verse
+kjv: "And if thou offer a meat offering of thy firstfruits unto the LORD, thou shalt offer for the meat offering of thy firstfruits green ears of corn dried by the fire, even corn beaten out of full ears."
+bsb: "If you bring a grain offering of firstfruits to the LORD, you shall offer crushed heads of new grain roasted on the fire."
+hebrew: "וְאִם־ תַּקְרִ֛יב מִנְחַ֥ת בִּכּוּרִ֖ים לַיהוָ֑ה אָבִ֞יב קָל֤וּי בָּאֵשׁ֙ גֶּ֣רֶשׂ כַּרְמֶ֔ל תַּקְרִ֕יב אֵ֖ת מִנְחַ֥ת בִּכּוּרֶֽיךָ׃"
+pericope: "[[Lev.2.1 Laws for Grain Offerings|Laws for Grain Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 2
+book/chapter: "[[Lev.2|Leviticus 2]]"
+chronological_order: 134
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic FIRST FRUITS|FIRST FRUITS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H7126H]]"
+- "[[H4503G]]"
+- "[[H1061]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0024]]"
+- "[[H7033]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H1643]]"
+- "[[H3759]]"
+- "[[H0853]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 2:14**<big><big>[[Lev.2.1 Laws for Grain Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if thou offer a meat offering of thy firstfruits unto the LORD, thou shalt offer for the meat offering of thy firstfruits green ears of corn dried by the fire, [even] corn beaten out of full ears.
 <small><sub>**BSB:**</sub></small>
 If you bring a grain offering of firstfruits to the LORD, you shall offer crushed heads of new grain roasted on the fire.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H7126H\|תַּקְרִ֛יב]] [[H4503G\|מִנְחַ֥ת]] [[H1061\|בִּכּוּרִ֖ים]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H0024\|אָבִ֞יב]] [[H7033\|קָל֤וּי]] [[H9003\|בָּ]][[H0784\|אֵשׁ֙]] [[H1643\|גֶּ֣רֶשׂ]] [[H3759\|כַּרְמֶ֔ל]] [[H7126H\|תַּקְרִ֕יב]] [[H0853\|אֵ֖ת]] [[H4503G\|מִנְחַ֥ת]] [[H1061\|בִּכּוּרֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRST FRUITS|FIRST FRUITS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.2.13|<< Leviticus 2:13]]</td><td align="center" style="border:none;">[[Lev.2|Leviticus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.2.15|Leviticus 2:15 >>]]</td></tr></table>
 

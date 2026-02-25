@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Passover and the Feast of Unleavened Bread
+type: Pericope
 pericope: "[[Deut.16.1 Passover and the Feast of Unleavened Bread|Passover and the Feast of Unleavened Bread]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 16
 book/chapter: "[[Deut.16|Deuteronomy 16]]"
-genre:
+chronological_order: 212
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 8
 verses:
 - "[[Deut.16.1]]"
 - "[[Deut.16.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Deut.16.8]]"
 ---
 
-[[Deut.16|Deuteronomy 16:1 - Deuteronomy 16:8]]
+<small>[[Deut.16|Deuteronomy 16:1-8]]</small>
 *Passover and the Feast of Unleavened Bread*
 
 [[Deut.16.1|1]] Observe the month of Abib, and keep the passover unto the LORD thy God: for in the month of Abib the LORD thy God brought thee forth out of Egypt by night.

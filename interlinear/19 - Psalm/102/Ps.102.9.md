@@ -1,8 +1,56 @@
+---
+title: Psalm 102:9
+type: Verse
+kjv: "For I have eaten ashes like bread, and mingled my drink with weeping,"
+bsb: "For I have eaten ashes like bread and mixed my drink with tears"
+hebrew: "כִּי־ אֵ֭פֶר כַּלֶּ֣חֶם אָכָ֑לְתִּי וְ֝שִׁקֻּוַ֗י בִּבְכִ֥י מָסָֽכְתִּי׃"
+pericope: "[[Ps.102.1 The Prayer of the Afflicted|The Prayer of the Afflicted]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 102
+book/chapter: "[[Ps.102|Psalm 102]]"
+chronological_order: 784
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0665]]"
+- "[[H9004]]"
+- "[[H3899H]]"
+- "[[H0398]]"
+- "[[H9002]]"
+- "[[H8249]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H1065]]"
+- "[[H4537]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 102:9**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I have eaten ashes like bread, and mingled my drink with weeping,
 <small><sub>**BSB:**</sub></small>
 For I have eaten ashes like bread and mixed my drink with tears
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H0665\|אֵ֭פֶר]] [[H9004\|כַּ]][[H3899H\|לֶּ֣חֶם]] [[H0398\|אָכָ֑לְתִּי]] [[H9002\|וְ֝]][[H8249\|שִׁקֻּוַ֗]][[H9020\|י]] [[H9003\|בִּ]][[H1065\|בְכִ֥י]] [[H4537\|מָסָֽכְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.8|<< Psalms 102:8]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.10|Psalms 102:10 >>]]</td></tr></table>
 

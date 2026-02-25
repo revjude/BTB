@@ -1,10 +1,57 @@
+---
+title: Acts 14:6
+type: Verse
+kjv: "They were ware of it, and fled unto Lystra and Derbe, cities of Lycaonia, and unto the region that lieth round about:"
+bsb: "they found out about it and fled to the Lycaonian cities of Lystra and Derbe and to the surrounding region,"
+greek: "συνιδόντες κατέφυγον εἰς τὰς πόλεις τῆς Λυκαονίας, Λύστραν καὶ Δέρβην καὶ τὴν περίχωρον,"
+pericope: "[[Acts.14.1 Paul and Barnabas at Iconium|Paul and Barnabas at Iconium]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 14
+book/chapter: "[[Acts.14|Acts 14]]"
+chronological_order: 1032
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BARNABAS|BARNABAS]]"
+- "[[topic DERBE|DERBE]]"
+- "[[topic ICONIUM|ICONIUM]]"
+- "[[topic LYCAONIA|LYCAONIA]]"
+- "[[topic LYSTRA|LYSTRA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G4894]]"
+- "[[G2703]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G3071]]"
+- "[[G3082]]"
+- "[[G2532]]"
+- "[[G1191]]"
+- "[[G4066]]"
+texts:
+- NKO
+---
+
 **Acts 14:6**<big><big>[[Acts.14.1 Paul and Barnabas at Iconium|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 They were ware of [it], and fled unto Lystra and Derbe, cities of Lycaonia, and unto the region that lieth round about:
 <small><sub>**BSB:**</sub></small>
 they found out about it and fled to the Lycaonian cities of Lystra and Derbe and to the surrounding region,
-<small><sub>**Literal:**</sub></small>
-having become aware they fled to the cities <the> of Lycaonia, Lystra and Derbe and the surrounding region,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.5|<< Acts 14:5]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.7|Acts 14:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4894\|συνιδόντες]]  [[G2703\|κατέφυγον]]  [[G1519\|εἰς]]  [[G3588\|τὰς]]  [[G4172\|πόλεις]]  [[G3588\|τῆς]]  [[G3071\|Λυκαονίας,]]  [[G3082\|Λύστραν]]  [[G2532\|καὶ]]  [[G1191\|Δέρβην]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G4066\|περίχωρον,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARNABAS|BARNABAS]] • [[topic DERBE|DERBE]] • [[topic ICONIUM|ICONIUM]] • [[topic LYCAONIA|LYCAONIA]] • [[topic LYSTRA|LYSTRA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.5|<< Acts 14:5]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.7|Acts 14:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

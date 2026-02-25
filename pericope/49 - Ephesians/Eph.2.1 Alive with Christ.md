@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Alive with Christ
+type: Pericope
 pericope: "[[Eph.2.1 Alive with Christ|Alive with Christ]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Ephesians
 chapter: 2
 book/chapter: "[[Eph.2|Ephesians 2]]"
-genre:
+chronological_order: 1112
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - theological treatise
+verse_count: 10
 verses:
 - "[[Eph.2.1]]"
 - "[[Eph.2.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Eph.2.10]]"
 ---
 
-[[Eph.2|Ephesians 2:1 - Ephesians 2:10]]
+<small>[[Eph.2|Ephesians 2:1-10]]</small>
 *Alive with Christ*
 
 [[Eph.2.1|1]] And you \[hath he quickened\], who were dead in trespasses and sins;

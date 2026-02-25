@@ -1,6 +1,99 @@
+---
+title: LXX Daniel 6:10
+type: Verse
+lxx: "And when Daniel knew that the decree was arranged, he went into  his house, and the windows were open to him in  his upper rooms before Jerusalem. And three times of the day he was bending upon  his knees, and praying, and making acknowledgment before  his God, as he was doing before."
+greek: "και Δανιήλ ηνίκα έγνω ότι ενετάγη το δόγμα εισήλθεν εις τον οίκον αυτού και αι θυρίδες ανεωγμέναι αυτώ εν τοις υπερώοις αυτού κατέναντι Ιερουσαλήμ και καιρούς τρεις της ημέρας ην κάμπτων επί τα γόνατα αυτού και προσευχόμενος και εξομολογούμενος εναντίον του θεού αυτού καθώς ην ποιών έμπροσθεν"
+original_language: Greek
+testament: Old
+book: Daniel
+chapter: 6
+book/chapter: "[[Dan.6|Daniel 6]]"
+chronological_order: 791
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- septuagint
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRAYERFULNESS|PRAYERFULNESS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1158]]"
+- "[[G2259]]"
+- "[[G1097]]"
+- "[[G3754]]"
+- "[[G7262]]"
+- "[[G3588]]"
+- "[[G1378]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2376]]"
+- "[[G0455]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G5253]]"
+- "[[G1473]]"
+- "[[G2713]]"
+- "[[G2419]]"
+- "[[G2532]]"
+- "[[G2540]]"
+- "[[G5140]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1510]]"
+- "[[G2578]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1119]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4336]]"
+- "[[G2532]]"
+- "[[G1843]]"
+- "[[G1726]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G2531]]"
+- "[[G1510]]"
+- "[[G4160]]"
+- "[[G1715]]"
+---
+
 **LXX Daniel 6:10** 
 <small><sub>**LXX:**</sub></small>
 And when Daniel knew that the decree was arranged, he went into  his house, and the windows were open to him in  his upper rooms before Jerusalem. And three times of the day he was bending upon  his knees, and praying, and making acknowledgment before  his God, as he was doing before. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1158\|Δανιήλ]] [[G2259\|ηνίκα]] [[G1097\|έγνω]] [[G3754\|ότι]] [[G7262\|ενετάγη]] [[G3588\|το]] [[G1378\|δόγμα]] [[G1525\|εισήλθεν]] [[G1519\|εις]] [[G3588\|τον]] [[G3624\|οίκον]] [[G1473\|αυτού]] [[G2532\|και]] [[G3588\|αι]] [[G2376\|θυρίδες]] [[G0455\|ανεωγμέναι]] [[G1473\|αυτώ]] [[G1722\|εν]] [[G3588\|τοις]] [[G5253\|υπερώοις]] [[G1473\|αυτού]] [[G2713\|κατέναντι]] [[G2419\|Ιερουσαλήμ]] [[G2532\|και]] [[G2540\|καιρούς]] [[G5140\|τρεις]] [[G3588\|της]] [[G2250\|ημέρας]] [[G1510\|ην]] [[G2578\|κάμπτων]] [[G1909\|επί]] [[G3588\|τα]] [[G1119\|γόνατα]] [[G1473\|αυτού]] [[G2532\|και]] [[G4336\|προσευχόμενος]] [[G2532\|και]] [[G1843\|εξομολογούμενος]] [[G1726\|εναντίον]] [[G3588\|του]] [[G2316\|θεού]] [[G1473\|αυτού]] [[G2531\|καθώς]] [[G1510\|ην]] [[G4160\|ποιών]] [[G1715\|έμπροσθεν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic COURAGE|COURAGE]] • [[topic DANIEL|DANIEL]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FAITH|FAITH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PERSIA|PERSIA]] • [[topic POLITICS|POLITICS]] • [[topic PRAYER|PRAYER]] • [[topic PRAYERFULNESS|PRAYERFULNESS]] • [[topic RELIGION|RELIGION]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TEMPLE|TEMPLE]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Dan.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.9|<< Daniel 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.11|Daniel 6:11 >>]]</td></tr></table>
 
@@ -48,6 +141,6 @@ And when Daniel knew that the decree was arranged, he went into  his house, and 
 | he was | **<big>[[G1510\|ην]]</big>** |
 | doing | **<big>[[G4160\|ποιών]]</big>** |
 | before. | **<big>[[G1715\|έμπροσθεν]]</big>** |
-[[Dan.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.9|<< Daniel 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.11|Daniel 6:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.9|<< Daniel 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.11|Daniel 6:11 >>]]</td></tr></table>
 
 

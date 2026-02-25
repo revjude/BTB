@@ -1,8 +1,49 @@
+---
+title: Proverbs 20:29
+type: Verse
+kjv: "The glory of young men is their strength: and the beauty of old men is the gray head."
+bsb: "The glory of young men is their strength, and gray hair is the splendor of the old."
+hebrew: "תִּפְאֶ֣רֶת בַּחוּרִ֣ים כֹּחָ֑ם וַהֲדַ֖ר זְקֵנִ֣ים שֵׂיבָֽה׃"
+pericope: "[[Prov.20.1 Wine Is a Mocker|Wine Is a Mocker]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 20
+book/chapter: "[[Prov.20|Proverbs 20]]"
+chronological_order: 475
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H8597]]"
+- "[[H0970]]"
+- "[[H3581B]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H1926]]"
+- "[[H2205H]]"
+- "[[H7872]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 20:29**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The glory of young men [is] their strength: and the beauty of old men [is] the gray head.
 <small><sub>**BSB:**</sub></small>
 The glory of young men is their strength, and gray hair is the splendor of the old.
+<small><sub>**Hebrew:**</sub></small>
+[[H8597\|תִּפְאֶ֣רֶת]] [[H0970\|בַּחוּרִ֣ים]] [[H3581B\|כֹּחָ֑]][[H9028\|ם]] [[H9002\|וַ]][[H1926\|הֲדַ֖ר]] [[H2205H\|זְקֵנִ֣ים]] [[H7872\|שֵׂיבָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.28|<< Proverbs 20:28]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.30|Proverbs 20:30 >>]]</td></tr></table>
 

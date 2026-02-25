@@ -1,8 +1,61 @@
+---
+title: 1 Samuel 8:10
+type: Verse
+kjv: "And Samuel told all the words of the LORD unto the people that asked of him a king."
+bsb: "So Samuel spoke all the words of the LORD to the people who were asking him for a king."
+hebrew: "וַיֹּ֣אמֶר שְׁמוּאֵ֔ל אֵ֖ת כָּל־ דִּבְרֵ֣י יְהוָ֑ה אֶל־ הָעָ֕ם הַשֹּׁאֲלִ֥ים מֵאִתּ֖וֹ מֶֽלֶךְ׃ ס"
+pericope: "[[1Sam.8.10 Samuel’s Warning|Samuel’s Warning]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 8
+book/chapter: "[[1Sam.8|1 Samuel 8]]"
+chronological_order: 287
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8050G]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H7592]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Samuel 8:10**<big><big>[[1Sam.8.10 Samuel’s Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samuel told all the words of the LORD unto the people that asked of him a king.
 <small><sub>**BSB:**</sub></small>
 So Samuel spoke all the words of the LORD to the people who were asking him for a king.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H8050G\|שְׁמוּאֵ֔ל]] [[H0853\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H1697G\|דִּבְרֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֕ם]] [[H9009\|הַ]][[H7592\|שֹּׁאֲלִ֥ים]] [[H9006\|מֵ]][[H0854\|אִתּ֖]][[H9033\|וֹ]] [[H4428G\|מֶֽלֶךְ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic RULERS|RULERS]] • [[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.9|<< 1 Samuel 8:9]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.8.11|1 Samuel 8:11 >>]]</td></tr></table>
 
@@ -18,7 +71,7 @@ So Samuel spoke all the words of the LORD to the people who were asking him for 
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֕ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who were asking  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7592\|שֹּׁאֲלִ֥ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sho.'a.Lim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from with \<the> him  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0854\|אִתּ֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'i.T<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a king  |**<big>&#8207;[[H4428G\|מֶֽלֶךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a king  |**<big>&#8207;[[H4428G\|מֶֽלֶךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.9|<< 1 Samuel 8:9]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.8.11|1 Samuel 8:11 >>]]</td></tr></table>
 
 

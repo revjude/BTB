@@ -1,8 +1,72 @@
+---
+title: 2 Samuel 11:27
+type: Verse
+kjv: "And when the mourning was past, David sent and fetched her to his house, and she became his wife, and bare him a son. But the thing that David had done displeased the LORD."
+bsb: "And when the time of mourning was over, David had her brought to his house, and she became his wife and bore him a son. But the thing that David had done was evil in the sight of the LORD."
+hebrew: "וַיַּעֲבֹ֣ר הָאֵ֗בֶל וַיִּשְׁלַ֨ח דָּוִ֜ד וַיַּאַסְפָ֤הּ אֶל־ בֵּיתוֹ֙ וַתְּהִי־ ל֣וֹ לְאִשָּׁ֔ה וַתֵּ֥לֶד ל֖וֹ בֵּ֑ן וַיֵּ֧רַע הַדָּבָ֛ר אֲשֶׁר־ עָשָׂ֥ה דָוִ֖ד בְּעֵינֵ֥י יְהוָֽה׃ פ"
+pericope: "[[2Sam.11.26 David Marries Bathsheba|David Marries Bathsheba]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 11
+book/chapter: "[[2Sam.11|2 Samuel 11]]"
+chronological_order: 410
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic URIAH|URIAH]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H9009]]"
+- "[[H0060]]"
+- "[[H7971G]]"
+- "[[H1732]]"
+- "[[H0622]]"
+- "[[H9034]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0802H]]"
+- "[[H3205]]"
+- "[[H1121A]]"
+- "[[H7489A]]"
+- "[[H1697I]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Samuel 11:27**<big><big>[[2Sam.11.26 David Marries Bathsheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the mourning was past, David sent and fetched her to his house, and she became his wife, and bare him a son. But the thing that David had done displeased the LORD.
 <small><sub>**BSB:**</sub></small>
 And when the time of mourning was over, David had her brought to his house, and she became his wife and bore him a son. But the thing that David had done was evil in the sight of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5674A\|יַּעֲבֹ֣ר]] [[H9009\|הָ]][[H0060\|אֵ֗בֶל]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֨ח]] [[H1732\|דָּוִ֜ד]] [[H9001\|וַ]][[H0622\|יַּאַסְפָ֤]][[H9034\|הּ]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּית]][[H9023\|וֹ֙]] [[H9001\|וַ]][[H1961\|תְּהִי]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H9005\|לְ]][[H0802H\|אִשָּׁ֔ה]] [[H9001\|וַ]][[H3205\|תֵּ֥לֶד]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H1121A\|בֵּ֑ן]] [[H9001\|וַ]][[H7489A\|יֵּ֧רַע]] [[H9009\|הַ]][[H1697I\|דָּבָ֛ר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|עָשָׂ֥ה]] [[H1732\|דָוִ֖ד]] [[H9003\|בְּ]][[H5869I\|עֵינֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic SIN|SIN]] • [[topic URIAH|URIAH]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.11.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.11.26|<< 2 Samuel 11:26]]</td><td align="center" style="border:none;">[[2Sam.11|2 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.12.1|2 Samuel 12:1 >>]]</td></tr></table>
 
@@ -27,7 +91,7 @@ And when the time of mourning was over, David had her brought to his house, and 
 | he had done  |**<big>&#8207;[[H6213A\|עָשָׂ֥ה]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָוִ֖ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] eyes of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5869I\|עֵינֵ֥י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.11.26|<< 2 Samuel 11:26]]</td><td align="center" style="border:none;">[[2Sam.11|2 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.12.1|2 Samuel 12:1 >>]]</td></tr></table>
 
 

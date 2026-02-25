@@ -1,8 +1,78 @@
+---
+title: Genesis 6:16
+type: Verse
+kjv: "A window shalt thou make to the ark, and in a cubit shalt thou finish it above; and the door of the ark shalt thou set in the side thereof; with lower, second, and third stories shalt thou make it."
+bsb: "You are to make a roof for the ark, finish its walls a cubit from the top, place a door in the side of the ark, and build lower, middle, and upper decks."
+hebrew: "צֹ֣הַר׀ תַּֽעֲשֶׂ֣ה לַתֵּבָ֗ה וְאֶל־ אַמָּה֙ תְּכַלֶ֣נָּה מִלְמַ֔עְלָה וּפֶ֥תַח הַתֵּבָ֖ה בְּצִדָּ֣הּ תָּשִׂ֑ים תַּחְתִּיִּ֛ם שְׁנִיִּ֥ם וּשְׁלִשִׁ֖ים תַּֽעֲשֶֽׂהָ׃"
+pericope: "[[Gen.6.13 Preparing the Ark|Preparing the Ark]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 6
+book/chapter: "[[Gen.6|Genesis 6]]"
+chronological_order: 6
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANTEDILUVIANS|ANTEDILUVIANS]]"
+- "[[topic ARK|ARK]]"
+- "[[topic ART|ART]]"
+- "[[topic CARPENTRY|CARPENTRY]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic CUBIT|CUBIT]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic NOAH|NOAH]]"
+- "[[topic SHIP|SHIP]]"
+- "[[topic WINDOW|WINDOW]]"
+strongs:
+- "[[H6672B]]"
+- "[[H9015]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H8392]]"
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0520A]]"
+- "[[H3615G]]"
+- "[[H9034]]"
+- "[[H9006]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H6607]]"
+- "[[H9009]]"
+- "[[H9003]]"
+- "[[H6654]]"
+- "[[H9024]]"
+- "[[H7760A]]"
+- "[[H8482]]"
+- "[[H8145]]"
+- "[[H7992]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 6:16**<big><big>[[Gen.6.13 Preparing the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A window shalt thou make to the ark, and in a cubit shalt thou finish it above; and the door of the ark shalt thou set in the side thereof; [with] lower, second, and third [stories] shalt thou make it.
 <small><sub>**BSB:**</sub></small>
 You are to make a roof for the ark, finish its walls a cubit from the top, place a door in the side of the ark, and build lower, middle, and upper decks.
+<small><sub>**Hebrew:**</sub></small>
+[[H6672B\|צֹ֣הַר]][[H9015\|׀]] [[H6213H\|תַּֽעֲשֶׂ֣ה]] [[H9005\|לַ]][[H8392\|תֵּבָ֗ה]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H0520A\|אַמָּה֙]] [[H3615G\|תְּכַלֶ֣]][[H9034\|נָּה]] [[H9006\|מִ]][[H9005\|לְ]][[H4605\|מַ֔עְלָ]][[H9011\|ה]] [[H9002\|וּ]][[H6607\|פֶ֥תַח]] [[H9009\|הַ]][[H8392\|תֵּבָ֖ה]] [[H9003\|בְּ]][[H6654\|צִדָּ֣]][[H9024\|הּ]] [[H7760A\|תָּשִׂ֑ים]] [[H8482\|תַּחְתִּיִּ֛ם]] [[H8145\|שְׁנִיִּ֥ם]] [[H9002\|וּ]][[H7992\|שְׁלִשִׁ֖ים]] [[H6213A\|תַּֽעֲשֶֽׂ]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTEDILUVIANS|ANTEDILUVIANS]] • [[topic ARK|ARK]] • [[topic ART|ART]] • [[topic CARPENTRY|CARPENTRY]] • [[topic COMMUNION|COMMUNION]] • [[topic CUBIT|CUBIT]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic NOAH|NOAH]] • [[topic SHIP|SHIP]] • [[topic WINDOW|WINDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.6.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.6.15|<< Genesis 6:15]]</td><td align="center" style="border:none;">[[Gen.6|Genesis 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.6.17|Genesis 6:17 >>]]</td></tr></table>
 

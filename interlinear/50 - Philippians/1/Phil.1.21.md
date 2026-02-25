@@ -1,10 +1,53 @@
+---
+title: Philippians 1:21
+type: Verse
+kjv: "For to me to live is Christ, and to die is gain."
+bsb: "For to me, to live is Christ, and to die is gain."
+greek: "Ἐμοὶ γὰρ τὸ ζῆν Χριστὸς καὶ τὸ ἀποθανεῖν κέρδος."
+pericope: "[[Phil.1.21 To Live Is Christ|To Live Is Christ]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 1
+book/chapter: "[[Phil.1|Philippians 1]]"
+chronological_order: 1117
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[G1473]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G2198]]"
+- "[[G5547]]"
+- "[[G2532]]"
+- "[[G0599]]"
+- "[[G2771]]"
+texts:
+- NKO
+---
+
 **Philippians 1:21**<big><big>[[Phil.1.21 To Live Is Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For to me to live [is] Christ, and to die [is] gain.
 <small><sub>**BSB:**</sub></small>
 For to me, to live is Christ, and to die is gain.
-<small><sub>**Literal:**</sub></small>
-To me myself for <the> to live [is] Christ and <the> to die [is] gain.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.20|<< Philippians 1:20]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.22|Philippians 1:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|Ἐμοὶ]]  [[G1063\|γὰρ]]  [[G3588\|τὸ]]  [[G2198\|ζῆν]]  [[G5547\|Χριστὸς]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G0599\|ἀποθανεῖν]]  [[G2771\|κέρδος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic LOVE|LOVE]] • [[topic RESIGNATION|RESIGNATION]] • [[topic TACT|TACT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.20|<< Philippians 1:20]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.22|Philippians 1:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

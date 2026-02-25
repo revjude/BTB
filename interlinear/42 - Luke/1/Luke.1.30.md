@@ -1,10 +1,62 @@
+---
+title: Luke 1:30
+type: Verse
+kjv: "And the angel said unto her, Fear not, Mary: for thou hast found favour with God."
+bsb: "So the angel told her, “Do not be afraid, Mary, for you have found favor with God."
+greek: "καὶ εἶπεν ὁ ἄγγελος αὐτῇ· μὴ φοβοῦ Μαριάμ, εὗρες γὰρ χάριν παρὰ τῷ θεῷ."
+pericope: "[[Luke.1.26 Gabriel Foretells Jesus’ Birth|Gabriel Foretells Jesus’ Birth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MARY|MARY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G0032G]]"
+- "[[G0846]]"
+- "[[G3361]]"
+- "[[G5399]]"
+- "[[G3137G]]"
+- "[[G2147]]"
+- "[[G1063]]"
+- "[[G5485]]"
+- "[[G3844]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Luke 1:30**<big><big>[[Luke.1.26 Gabriel Foretells Jesus’ Birth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the angel said unto her, Fear not, Mary: for thou hast found favour with God.
 <small><sub>**BSB:**</sub></small>
 So the angel told her, “Do not be afraid, Mary, for you have found favor with God.
-<small><sub>**Literal:**</sub></small>
-And said the angel to her; Not do fear Mary, you have found for favor with <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.29|<< Luke 1:29]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.31|Luke 1:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G3588\|ὁ]]  [[G0032G\|ἄγγελος]]  [[G0846\|αὐτῇ·]]  [[G3361\|μὴ]]  [[G5399\|φοβοῦ]]  [[G3137G\|Μαριάμ,]]  [[G2147\|εὗρες]]  [[G1063\|γὰρ]]  [[G5485\|χάριν]]  [[G3844\|παρὰ]]  [[G3588\|τῷ]]  [[G2316\|θεῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic MARY|MARY]] • [[topic MIRACLES|MIRACLES]] • [[topic WOMEN|WOMEN]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.29|<< Luke 1:29]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.31|Luke 1:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

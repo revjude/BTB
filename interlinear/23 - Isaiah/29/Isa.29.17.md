@@ -1,8 +1,58 @@
+---
+title: Isaiah 29:17
+type: Verse
+kjv: "Is it not yet a very little while, and Lebanon shall be turned into a fruitful field, and the fruitful field shall be esteemed as a forest?"
+bsb: "In a very short time, will not Lebanon become an orchard, and the orchard seem like a forest?"
+hebrew: "הֲלוֹא־ עוֹד֙ מְעַ֣ט מִזְעָ֔ר וְשָׁ֥ב לְבָנ֖וֹן לַכַּרְמֶ֑ל וְהַכַּרְמֶ֖ל לַיַּ֥עַר יֵחָשֵֽׁב׃"
+pericope: "[[Isa.29.17 Sanctification for the Godly|Sanctification for the Godly]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 29
+book/chapter: "[[Isa.29|Isaiah 29]]"
+chronological_order: 672
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic LEBANON|LEBANON]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5750]]"
+- "[[H4592]]"
+- "[[H4213]]"
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H3844G]]"
+- "[[H9005]]"
+- "[[H3759]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3293A]]"
+- "[[H2803J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 29:17**<big><big>[[Isa.29.17 Sanctification for the Godly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is] it not yet a very little while, and Lebanon shall be turned into a fruitful field, and the fruitful field shall be esteemed as a forest?
 <small><sub>**BSB:**</sub></small>
 In a very short time, will not Lebanon become an orchard, and the orchard seem like a forest?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|לוֹא]][[H9014\|־]] [[H5750\|עוֹד֙]] [[H4592\|מְעַ֣ט]] [[H4213\|מִזְעָ֔ר]] [[H9001\|וְ]][[H7725G\|שָׁ֥ב]] [[H3844G\|לְבָנ֖וֹן]] [[H9005\|לַ]][[H3759\|כַּרְמֶ֑ל]] [[H9002\|וְ]][[H9009\|הַ]][[H3759\|כַּרְמֶ֖ל]] [[H9005\|לַ]][[H3293A\|יַּ֥עַר]] [[H2803J\|יֵחָשֵֽׁב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISAIAH|ISAIAH]] • [[topic LEBANON|LEBANON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.29.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.16|<< Isaiah 29:16]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.18|Isaiah 29:18 >>]]</td></tr></table>
 

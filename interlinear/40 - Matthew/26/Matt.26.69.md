@@ -1,10 +1,67 @@
+---
+title: Matthew 26:69
+type: Verse
+kjv: "Now Peter sat without in the palace: and a damsel came unto him, saying, Thou also wast with Jesus of Galilee."
+bsb: "Meanwhile, Peter was sitting out in the courtyard, and a servant girl came up to him. “You also were with Jesus the Galilean,” she said."
+greek: "Ὁ δὲ Πέτρος ἐκάθητο ἔξω ἐν τῇ αὐλῇ. καὶ προσῆλθεν αὐτῷ μία παιδίσκη λέγουσα· καὶ σὺ ἦσθα μετὰ Ἰησοῦ τοῦ Γαλιλαίου."
+pericope: "[[Matt.26.69 Peter Denies Jesus|Peter Denies Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic COURT|COURT]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4074G]]"
+- "[[G2521]]"
+- "[[G1854]]"
+- "[[G1722]]"
+- "[[G0833]]"
+- "[[G2532]]"
+- "[[G4334]]"
+- "[[G0846]]"
+- "[[G1520]]"
+- "[[G3814]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G3326]]"
+- "[[G2424G]]"
+- "[[G1057]]"
+texts:
+- NKO
+---
+
 **Matthew 26:69**<big><big>[[Matt.26.69 Peter Denies Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now Peter sat without in the palace: and a damsel came unto him, saying, Thou also wast with Jesus of Galilee.
 <small><sub>**BSB:**</sub></small>
 Meanwhile, Peter was sitting out in the courtyard, and a servant girl came up to him. “You also were with Jesus the Galilean,” she said.
-<small><sub>**Literal:**</sub></small>
-<the> And Peter was sitting outside in the court. and came to him one servant girl saying; Also You yourself were with Jesus the Galilean.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.68|<< Matthew 26:68]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.70|Matthew 26:70 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G4074G\|Πέτρος]]  [[G2521\|ἐκάθητο]]  [[G1854\|ἔξω]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0833\|αὐλῇ.]]  [[G2532\|καὶ]]  [[G4334\|προσῆλθεν]]  [[G0846\|αὐτῷ]]  [[G1520\|μία]]  [[G3814\|παιδίσκη]]  [[G3004G\|λέγουσα·]]  [[G2532\|καὶ]]  [[G4771\|σὺ]]  [[G1510\|ἦσθα]]  [[G3326\|μετὰ]]  [[G2424G\|Ἰησοῦ]]  [[G3588\|τοῦ]]  [[G1057\|Γαλιλαίου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic COURT|COURT]] • [[topic COWARDICE|COWARDICE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic PETER|PETER]] • [[topic PRISONERS|PRISONERS]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.68|<< Matthew 26:68]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.70|Matthew 26:70 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

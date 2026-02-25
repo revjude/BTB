@@ -1,8 +1,64 @@
+---
+title: Deuteronomy 26:8
+type: Verse
+kjv: "And the LORD brought us forth out of Egypt with a mighty hand, and with an outstretched arm, and with great terribleness, and with signs, and with wonders:"
+bsb: "Then the LORD brought us out of Egypt with a mighty hand and an outstretched arm, with great terror, signs, and wonders."
+hebrew: "וַיּוֹצִאֵ֤נוּ יְהוָה֙ מִמִּצְרַ֔יִם בְּיָ֤ד חֲזָקָה֙ וּבִזְרֹ֣עַ נְטוּיָ֔ה וּבְמֹרָ֖א גָּדֹ֑ל וּבְאֹת֖וֹת וּבְמֹפְתִֽים׃"
+pericope: "[[Deut.26.1 Offering Firstfruits and Tithes|Offering Firstfruits and Tithes]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 26
+book/chapter: "[[Deut.26|Deuteronomy 26]]"
+chronological_order: 222
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ARM|ARM]]"
+- "[[topic FIRST FRUITS|FIRST FRUITS]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H9035]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H2389]]"
+- "[[H9002]]"
+- "[[H2220]]"
+- "[[H5186]]"
+- "[[H4172A]]"
+- "[[H1419A]]"
+- "[[H0226G]]"
+- "[[H4159]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 26:8**<big><big>[[Deut.26.1 Offering Firstfruits and Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD brought us forth out of Egypt with a mighty hand, and with an outstretched arm, and with great terribleness, and with signs, and with wonders:
 <small><sub>**BSB:**</sub></small>
 Then the LORD brought us out of Egypt with a mighty hand and an outstretched arm, with great terror, signs, and wonders.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318H\|יּוֹצִאֵ֤]][[H9035\|נוּ]] [[H3068G\|יְהוָה֙]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֔יִם]] [[H9003\|בְּ]][[H3027G\|יָ֤ד]] [[H2389\|חֲזָקָה֙]] [[H9002\|וּ]][[H9003\|בִ]][[H2220\|זְרֹ֣עַ]] [[H5186\|נְטוּיָ֔ה]] [[H9002\|וּ]][[H9003\|בְ]][[H4172A\|מֹרָ֖א]] [[H1419A\|גָּדֹ֑ל]] [[H9002\|וּ]][[H9003\|בְ]][[H0226G\|אֹת֖וֹת]] [[H9002\|וּ]][[H9003\|בְ]][[H4159\|מֹפְתִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARM|ARM]] • [[topic FIRST FRUITS|FIRST FRUITS]] • [[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.26.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.26.7|<< Deuteronomy 26:7]]</td><td align="center" style="border:none;">[[Deut.26|Deuteronomy 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.26.9|Deuteronomy 26:9 >>]]</td></tr></table>
 

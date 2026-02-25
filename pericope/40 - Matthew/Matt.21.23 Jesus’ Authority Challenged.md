@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus’ Authority Challenged
+type: Pericope
 pericope: "[[Matt.21.23 Jesus’ Authority Challenged|Jesus’ Authority Challenged]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 21
 book/chapter: "[[Matt.21|Matthew 21]]"
-genre:
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Matt.21.23]]"
 - "[[Matt.21.24]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Matt.21.27]]"
 ---
 
-[[Matt.21|Matthew 21:23 - Matthew 21:27]]
+<small>[[Matt.21|Matthew 21:23-27]]</small>
 *Jesus’ Authority Challenged*
 
 [[Matt.21.23|23]] And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said, By what authority doest thou these things? and who gave thee this authority?

@@ -1,8 +1,56 @@
+---
+title: Isaiah 43:26
+type: Verse
+kjv: "Put me in remembrance: let us plead together: declare thou, that thou mayest be justified."
+bsb: "Remind Me, let us argue the matter together. State your case, so that you may be vindicated."
+hebrew: "הַזְכִּירֵ֕נִי נִשָּׁפְטָ֖ה יָ֑חַד סַפֵּ֥ר אַתָּ֖ה לְמַ֥עַן תִּצְדָּֽק׃"
+pericope: "[[Isa.43.22 Israel’s Unfaithfulness|Israel’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 43
+book/chapter: "[[Isa.43|Isaiah 43]]"
+chronological_order: 682
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic REASONING|REASONING]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WILL|WILL]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[H2142]]"
+- "[[H9030]]"
+- "[[H8199]]"
+- "[[H3162A]]"
+- "[[H5608A]]"
+- "[[H0859A]]"
+- "[[H4616]]"
+- "[[H6663]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 43:26**<big><big>[[Isa.43.22 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Put me in remembrance: let us plead together: declare thou, that thou mayest be justified.
 <small><sub>**BSB:**</sub></small>
 Remind Me, let us argue the matter together. State your case, so that you may be vindicated.
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|הַזְכִּירֵ֕]][[H9030\|נִי]] [[H8199\|נִשָּׁפְטָ֖ה]] [[H3162A\|יָ֑חַד]] [[H5608A\|סַפֵּ֥ר]] [[H0859A\|אַתָּ֖ה]] [[H4616\|לְמַ֥עַן]] [[H6663\|תִּצְדָּֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic CHURCH|CHURCH]] • [[topic ISAIAH|ISAIAH]] • [[topic REASONING|REASONING]] • [[topic SIN|SIN]] • [[topic WILL|WILL]] • [[topic WORKS|WORKS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.25|<< Isaiah 43:25]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.27|Isaiah 43:27 >>]]</td></tr></table>
 

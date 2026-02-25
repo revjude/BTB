@@ -1,8 +1,60 @@
+---
+title: Psalm 5:2
+type: Verse
+kjv: "Hearken unto the voice of my cry, my King, and my God: for unto thee will I pray."
+bsb: "Attend to the sound of my cry, my King and my God, for to You I pray."
+hebrew: "הַקְשִׁ֤יבָה׀ לְק֬וֹל שַׁוְעִ֗י מַלְכִּ֥י וֵאלֹהָ֑י כִּֽי־ אֵ֝לֶ֗יךָ אֶתְפַּלָּֽל׃"
+pericope: "[[Ps.5.1 Give Ear to My Words|Give Ear to My Words]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 5
+book/chapter: "[[Ps.5|Psalm 5]]"
+chronological_order: 340
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic PRAYERFULNESS|PRAYERFULNESS]]"
+strongs:
+- "[[H7181]]"
+- "[[H9012]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H6963H]]"
+- "[[H7773]]"
+- "[[H9020]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H0430G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H6419]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 5:2**<big><big>[[Ps.5.1 Give Ear to My Words|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hearken unto the voice of my cry, my King, and my God: for unto thee will I pray.
 <small><sub>**BSB:**</sub></small>
 Attend to the sound of my cry, my King and my God, for to You I pray.
+<small><sub>**Hebrew:**</sub></small>
+[[H7181\|הַקְשִׁ֤יבָ]][[H9012\|ה]][[H9015\|׀]] [[H9005\|לְ]][[H6963H\|ק֬וֹל]] [[H7773\|שַׁוְעִ֗]][[H9020\|י]] [[H4428G\|מַלְכִּ֥]][[H9020\|י]] [[H9002\|וֵ]][[H0430G\|אלֹהָ֑]][[H9020\|י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0413\|אֵ֝לֶ֗י]][[H9031\|ךָ]] [[H6419\|אֶתְפַּלָּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic PRAYERFULNESS|PRAYERFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.5.1|<< Psalms 5:1]]</td><td align="center" style="border:none;">[[Ps.5|Psalms 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.5.3|Psalms 5:3 >>]]</td></tr></table>
 

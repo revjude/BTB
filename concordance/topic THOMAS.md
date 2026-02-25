@@ -13,7 +13,7 @@
 
 → Skepticism of [[John.20.25|Joh 20:25]]
 
-→ Sees Jesus after the resurrection [[John.20.26|Joh 20:26]]-[[John.20.29|29]]; [[John.21.1|21:1]],[[John.21.2|2]]
+→ Sees Jesus after the resurrection [[John.20.26|Joh 20:26-29]]; [[John.21.1|21:1]],[[John.21.2|2]]
 
 → Lives with the other apostles in Jerusalem [[Acts.1.13|Ac 1:13]],[[Acts.1.14|14]]
 

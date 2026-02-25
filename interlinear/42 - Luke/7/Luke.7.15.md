@@ -1,10 +1,54 @@
+---
+title: Luke 7:15
+type: Verse
+kjv: "And he that was dead sat up, and began to speak. And he delivered him to his mother."
+bsb: "And the dead man sat up and began to speak! Then Jesus gave him back to his mother."
+greek: "καὶ ἀνεκάθισεν ὁ νεκρὸς καὶ ἤρξατο λαλεῖν. καὶ ἔδωκεν αὐτὸν τῇ μητρὶ αὐτοῦ."
+pericope: "[[Luke.7.11 Jesus Raises a Widow’s Son|Jesus Raises a Widow’s Son]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[G2532]]"
+- "[[G0339]]"
+- "[[G3588]]"
+- "[[G3498]]"
+- "[[G0757]]"
+- "[[G2980]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G3384]]"
+texts:
+- NKO
+---
+
 **Luke 7:15**<big><big>[[Luke.7.11 Jesus Raises a Widow’s Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he that was dead sat up, and began to speak. And he delivered him to his mother.
 <small><sub>**BSB:**</sub></small>
 And the dead man sat up and began to speak! Then Jesus gave him back to his mother.
-<small><sub>**Literal:**</sub></small>
-And sat up the dead [man] and began to speak. and He gave him to the mother of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.14|<< Luke 7:14]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.16|Luke 7:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0339\|ἀνεκάθισεν]]  [[G3588\|ὁ]]  [[G3498\|νεκρὸς]]  [[G2532\|καὶ]]  [[G0757\|ἤρξατο]]  [[G2980\|λαλεῖν.]]  [[G2532\|καὶ]]  [[G1325\|ἔδωκεν]]  [[G0846\|αὐτὸν]]  [[G3588\|τῇ]]  [[G3384\|μητρὶ]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic WIDOW|WIDOW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.14|<< Luke 7:14]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.16|Luke 7:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

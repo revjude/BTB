@@ -1,8 +1,66 @@
+---
+title: Daniel 3:1
+type: Verse
+kjv: "Nebuchadnezzar the king made an image of gold, whose height was threescore cubits, and the breadth thereof six cubits: he set it up in the plain of Dura, in the province of Babylon."
+bsb: "King Nebuchadnezzar made a golden statue sixty cubits high and six cubits wide, and he set it up on the plain of Dura in the province of Babylon."
+aramaic: "נְבוּכַדְנֶצַּ֣ר מַלְכָּ֗א עֲבַד֙ צְלֵ֣ם דִּֽי־ דְהַ֔ב רוּמֵהּ֙ אַמִּ֣ין שִׁתִּ֔ין פְּתָיֵ֖הּ אַמִּ֣ין שִׁ֑ת אֲקִימֵהּ֙ בְּבִקְעַ֣ת דּוּרָ֔א בִּמְדִינַ֖ת בָּבֶֽל׃"
+pericope: "[[Dan.3.1 Nebuchadnezzar’s Golden Statue|Nebuchadnezzar’s Golden Statue]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 3
+book/chapter: "[[Dan.3|Daniel 3]]"
+chronological_order: 788
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic COERCION|COERCION]]"
+- "[[topic DURA|DURA]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H5020]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H5648]]"
+- "[[H6755]]"
+- "[[H1768]]"
+- "[[H9014]]"
+- "[[H1722]]"
+- "[[H7314]]"
+- "[[H9023]]"
+- "[[H0521]]"
+- "[[H8361]]"
+- "[[H6613]]"
+- "[[H8353]]"
+- "[[H6966I]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H1236]]"
+- "[[H1757]]"
+- "[[H4083]]"
+- "[[H0895]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 3:1**<big><big>[[Dan.3.1 Nebuchadnezzar’s Golden Statue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nebuchadnezzar the king made an image of gold, whose height [was] threescore cubits, [and] the breadth thereof six cubits: he set it up in the plain of Dura, in the province of Babylon.
 <small><sub>**BSB:**</sub></small>
 King Nebuchadnezzar made a golden statue sixty cubits high and six cubits wide, and he set it up on the plain of Dura in the province of Babylon.
+<small><sub>**Aramaic:**</sub></small>
+[[H5020\|נְבוּכַדְנֶצַּ֣ר]] [[H4430\|מַלְכָּ֗]][[H9010\|א]] [[H5648\|עֲבַד֙]] [[H6755\|צְלֵ֣ם]] [[H1768\|דִּֽי]][[H9014\|־]] [[H1722\|דְהַ֔ב]] [[H7314\|רוּמֵ]][[H9023\|הּ֙]] [[H0521\|אַמִּ֣ין]] [[H8361\|שִׁתִּ֔ין]] [[H6613\|פְּתָיֵ֖]][[H9023\|הּ]] [[H0521\|אַמִּ֣ין]] [[H8353\|שִׁ֑ת]] [[H6966I\|אֲקִימֵ]][[H9033\|הּ֙]] [[H9003\|בְּ]][[H1236\|בִקְעַ֣ת]] [[H1757\|דּוּרָ֔א]] [[H9003\|בִּ]][[H4083\|מְדִינַ֖ת]] [[H0895\|בָּבֶֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic COERCION|COERCION]] • [[topic DURA|DURA]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.49|<< Daniel 2:49]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.2|Daniel 3:2 >>]]</td></tr></table>
 

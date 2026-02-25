@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Haman’s Plot against the Jews
+type: Pericope
 pericope: "[[Esth.3.1 Haman’s Plot against the Jews|Haman’s Plot against the Jews]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Esther
 chapter: 3
 book/chapter: "[[Esth.3|Esther 3]]"
-genre:
+chronological_order: 901
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
 - narrative
 - court tale
 - diaspora narrative
 - megillot
+verse_count: 15
 verses:
 - "[[Esth.3.1]]"
 - "[[Esth.3.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Esth.3.15]]"
 ---
 
-[[Esth.3|Esther 3:1 - Esther 3:15]]
+<small>[[Esth.3|Esther 3:1-15]]</small>
 *Haman’s Plot against the Jews*
 
 [[Esth.3.1|1]] After these things did king Ahasuerus promote Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes that \[were\] with him.

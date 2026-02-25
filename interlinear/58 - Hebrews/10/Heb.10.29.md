@@ -1,10 +1,73 @@
+---
+title: Hebrews 10:29
+type: Verse
+kjv: "Of how much sorer punishment, suppose ye, shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and hath done despite unto the Spirit of grace?"
+bsb: "How much more severely do you think one deserves to be punished who has trampled on the Son of God, profaned the blood of the covenant that sanctified him, and insulted the Spirit of grace?"
+greek: "πόσῳ, δοκεῖτε, χείρονος ἀξιωθήσεται τιμωρίας ὁ τὸν υἱὸν τοῦ θεοῦ καταπατήσας καὶ τὸ αἷμα τῆς διαθήκης κοινὸν ἡγησάμενος ἐν ᾧ ἡγιάσθη καὶ τὸ πνεῦμα τῆς χάριτος ἐνυβρίσας;"
+pericope: "[[Heb.10.19 A Call to Persevere|A Call to Persevere]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 10
+book/chapter: "[[Heb.10|Hebrews 10]]"
+chronological_order: 1149
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SCOFFING|SCOFFING]]"
+- "[[topic TYPES|TYPES]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G4214]]"
+- "[[G1380]]"
+- "[[G5501]]"
+- "[[G0515]]"
+- "[[G5098]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G2316]]"
+- "[[G2662]]"
+- "[[G2532]]"
+- "[[G0129G]]"
+- "[[G1242]]"
+- "[[G2839G]]"
+- "[[G2233]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G0037]]"
+- "[[G4151G]]"
+- "[[G5485]]"
+- "[[G1796]]"
+texts:
+- NKO
+---
+
 **Hebrews 10:29**<big><big>[[Heb.10.19 A Call to Persevere|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Of how much sorer punishment, suppose ye, shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and hath done despite unto the Spirit of grace?
 <small><sub>**BSB:**</sub></small>
 How much more severely do you think one deserves to be punished who has trampled on the Son of God, profaned the blood of the covenant that sanctified him, and insulted the Spirit of grace?
-<small><sub>**Literal:**</sub></small>
-How much think you worse will he deserve punishment the [one] the Son <the> of God having trampled upon and the blood of the covenant ordinary having esteemed by which he was sanctified and the Spirit <the> of grace having insulted?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.28|<< Hebrews 10:28]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.30|Hebrews 10:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4214\|πόσῳ,]]  [[G1380\|δοκεῖτε,]]  [[G5501\|χείρονος]]  [[G0515\|ἀξιωθήσεται]]  [[G5098\|τιμωρίας]]  [[G3588\|ὁ]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2662\|καταπατήσας]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G0129G\|αἷμα]]  [[G3588\|τῆς]]  [[G1242\|διαθήκης]]  [[G2839G\|κοινὸν]]  [[G2233\|ἡγησάμενος]]  [[G1722\|ἐν]]  [[G3739\|ᾧ]]  [[G0037\|ἡγιάσθη]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τῆς]]  [[G5485\|χάριτος]]  [[G1796\|ἐνυβρίσας;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic BLOOD|BLOOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic INFIDELITY|INFIDELITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REPROBACY|REPROBACY]] • [[topic SCOFFING|SCOFFING]] • [[topic TYPES|TYPES]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.28|<< Hebrews 10:28]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.30|Hebrews 10:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

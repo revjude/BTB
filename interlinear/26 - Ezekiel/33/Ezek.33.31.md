@@ -1,8 +1,79 @@
+---
+title: Ezekiel 33:31
+type: Verse
+kjv: "And they come unto thee as the people cometh, and they sit before thee as my people, and they hear thy words, but they will not do them: for with their mouth they shew much love, but their heart goeth after their covetousness."
+bsb: "So My people come to you as usual, sit before you, and hear your words; but they do not put them into practice. Although they express love with their mouths, their hearts pursue dishonest gain."
+hebrew: "וְיָב֣וֹאוּ אֵ֠לֶיךָ כִּמְבוֹא־ עָ֞ם וְיֵשְׁב֤וּ לְפָנֶ֙יךָ֙ עַמִּ֔י וְשָֽׁמְעוּ֙ אֶת־ דְּבָרֶ֔יךָ וְאוֹתָ֖ם לֹ֣א יַֽעֲשׂ֑וּ כִּֽי־ עֲגָבִ֤ים בְּפִיהֶם֙ הֵ֣מָּה עֹשִׂ֔ים אַחֲרֵ֥י בִצְעָ֖ם לִבָּ֥ם הֹלֵֽךְ׃"
+pericope: "[[Ezek.33.21 Word of Jerusalem’s Fall|Word of Jerusalem’s Fall]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 33
+book/chapter: "[[Ezek.33|Ezekiel 33]]"
+chronological_order: 824
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic AFFECTIONS|AFFECTIONS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic HEARERS|HEARERS]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H9004]]"
+- "[[H3996]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H3427]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H1697H]]"
+- "[[H9038]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H3588A]]"
+- "[[H5690]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H9028]]"
+- "[[H1992]]"
+- "[[H0310A]]"
+- "[[H1215]]"
+- "[[H3820A]]"
+- "[[H1980L]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 33:31**<big><big>[[Ezek.33.21 Word of Jerusalem’s Fall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they come unto thee as the people cometh, and they sit before thee [as] my people, and they hear thy words, but they will not do them: for with their mouth they shew much love, [but] their heart goeth after their covetousness.
 <small><sub>**BSB:**</sub></small>
 So My people come to you as usual, sit before you, and hear your words; but they do not put them into practice. Although they express love with their mouths, their hearts pursue dishonest gain.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0935G\|יָב֣וֹאוּ]] [[H0413\|אֵ֠לֶי]][[H9031\|ךָ]] [[H9004\|כִּ]][[H3996\|מְבוֹא]][[H9014\|־]] [[H5971A\|עָ֞ם]] [[H9002\|וְ]][[H3427\|יֵשְׁב֤וּ]] [[H9005\|לְ]][[H6440G\|פָנֶ֙י]][[H9021\|ךָ֙]] [[H5971A\|עַמִּ֔]][[H9020\|י]] [[H9001\|וְ]][[H8085G\|שָֽׁמְעוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1697H\|דְּבָרֶ֔י]][[H9021\|ךָ]] [[H9002\|וְ]][[H0853\|אוֹתָ֖]][[H9038\|ם]] [[H3808\|לֹ֣א]] [[H6213A\|יַֽעֲשׂ֑וּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5690\|עֲגָבִ֤ים]] [[H9003\|בְּ]][[H6310G\|פִי]][[H9028\|הֶם֙]] [[H1992\|הֵ֣מָּה]] [[H6213A\|עֹשִׂ֔ים]] [[H0310A\|אַחֲרֵ֥י]] [[H1215\|בִצְעָ֖]][[H9028\|ם]] [[H3820A\|לִבָּ֥]][[H9028\|ם]] [[H1980L\|הֹלֵֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFECTIONS|AFFECTIONS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic EZEKIEL|EZEKIEL]] • [[topic HEARERS|HEARERS]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.30|<< Ezekiel 33:30]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.32|Ezekiel 33:32 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

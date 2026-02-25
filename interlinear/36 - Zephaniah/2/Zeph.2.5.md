@@ -1,8 +1,62 @@
+---
+title: Zephaniah 2:5
+type: Verse
+kjv: "Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the LORD is against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant."
+bsb: "Woe to the dwellers of the seacoast, O nation of the Cherethites! The word of the LORD is against you, O Canaan, land of the Philistines: “I will destroy you, and no one will be left.”"
+hebrew: "ה֗וֹי יֹֽשְׁבֵ֛י חֶ֥בֶל הַיָּ֖ם גּ֣וֹי כְּרֵתִ֑ים דְּבַר־ יְהוָ֣ה עֲלֵיכֶ֗ם כְּנַ֙עַן֙ אֶ֣רֶץ פְּלִשְׁתִּ֔ים וְהַאֲבַדְתִּ֖יךְ מֵאֵ֥ין יוֹשֵֽׁב׃"
+pericope: "[[Zeph.2.4 Judgment on the Philistines|Judgment on the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: Zephaniah
+chapter: 2
+book/chapter: "[[Zeph.2|Zephaniah 2]]"
+chronological_order: 716
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic CHERETHITES|CHERETHITES]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H1945]]"
+- "[[H3427]]"
+- "[[H2256M]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H1471A]]"
+- "[[H3774G]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H3667A]]"
+- "[[H0776G]]"
+- "[[H6430G]]"
+- "[[H9001]]"
+- "[[H0006]]"
+- "[[H9032]]"
+- "[[H9006]]"
+- "[[H0369]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zephaniah 2:5**<big><big>[[Zeph.2.4 Judgment on the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the LORD [is] against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant.
 <small><sub>**BSB:**</sub></small>
 Woe to the dwellers of the seacoast, O nation of the Cherethites! The word of the LORD is against you, O Canaan, land of the Philistines: “I will destroy you, and no one will be left.”
+<small><sub>**Hebrew:**</sub></small>
+[[H1945\|ה֗וֹי]] [[H3427\|יֹֽשְׁבֵ֛י]] [[H2256M\|חֶ֥בֶל]] [[H9009\|הַ]][[H3220G\|יָּ֖ם]] [[H1471A\|גּ֣וֹי]] [[H3774G\|כְּרֵתִ֑ים]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֗ם]] [[H3667A\|כְּנַ֙עַן֙]] [[H0776G\|אֶ֣רֶץ]] [[H6430G\|פְּלִשְׁתִּ֔ים]] [[H9001\|וְ]][[H0006\|הַאֲבַדְתִּ֖י]][[H9032\|ךְ]] [[H9006\|מֵ]][[H0369\|אֵ֥ין]] [[H3427\|יוֹשֵֽׁב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHERETHITES|CHERETHITES]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.2.4|<< Zephaniah 2:4]]</td><td align="center" style="border:none;">[[Zeph.2|Zephaniah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.2.6|Zephaniah 2:6 >>]]</td></tr></table>
 

@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Concern for the Jews
+type: Pericope
 pericope: "[[Rom.9.1 Paul’s Concern for the Jews|Paul’s Concern for the Jews]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Romans
 chapter: 9
 book/chapter: "[[Rom.9|Romans 9]]"
-genre:
+chronological_order: 1095
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 5
 verses:
 - "[[Rom.9.1]]"
 - "[[Rom.9.2]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Rom.9.5]]"
 ---
 
-[[Rom.9|Romans 9:1 - Romans 9:5]]
+<small>[[Rom.9|Romans 9:1-5]]</small>
 *Paul’s Concern for the Jews*
 
 [[Rom.9.1|1]] I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost,

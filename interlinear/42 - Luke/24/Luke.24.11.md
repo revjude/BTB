@@ -1,10 +1,54 @@
+---
+title: Luke 24:11
+type: Verse
+kjv: "And their words seemed to them as idle tales, and they believed them not."
+bsb: "But their words seemed like nonsense to them, and they did not believe the women."
+greek: "καὶ ἐφάνησαν ἐνώπιον αὐτῶν ὡσεὶ λῆρος τὰ ῥήματα ταῦτα καὶ ἠπίστουν αὐταῖς.¶"
+pericope: "[[Luke.24.1 The Resurrection|The Resurrection]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G2532]]"
+- "[[G5316]]"
+- "[[G1799]]"
+- "[[G0846]]"
+- "[[G5616]]"
+- "[[G3026]]"
+- "[[G3588]]"
+- "[[G4487]]"
+- "[[G3778]]"
+- "[[G0569]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 24:11**<big><big>[[Luke.24.1 The Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And their words seemed to them as idle tales, and they believed them not.
 <small><sub>**BSB:**</sub></small>
 But their words seemed like nonsense to them, and they did not believe the women.
-<small><sub>**Literal:**</sub></small>
-And appeared before them like folly the declarations of them and they were not believing in them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.10|<< Luke 24:10]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.12|Luke 24:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5316\|ἐφάνησαν]]  [[G1799\|ἐνώπιον]]  [[G0846\|αὐτῶν]]  [[G5616\|ὡσεὶ]]  [[G3026\|λῆρος]]  [[G3588\|τὰ]]  [[G4487\|ῥήματα]]  [[G3778\|ταῦτα]]  [[G2532\|καὶ]]  [[G0569\|ἠπίστουν]]  [[G0846\|αὐταῖς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.10|<< Luke 24:10]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.12|Luke 24:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,62 @@
+---
+title: 1 Kings 3:8
+type: Verse
+kjv: "And thy servant is in the midst of thy people which thou hast chosen, a great people, that cannot be numbered nor counted for multitude."
+bsb: "Your servant is here among the people You have chosen, a people too numerous to count or number."
+hebrew: "וְעַ֨בְדְּךָ֔ בְּת֥וֹךְ עַמְּךָ֖ אֲשֶׁ֣ר בָּחָ֑רְתָּ עַם־ רָ֕ב אֲשֶׁ֧ר לֹֽא־ יִמָּנֶ֛ה וְלֹ֥א יִסָּפֵ֖ר מֵרֹֽב׃"
+pericope: "[[1Kgs.3.1 Solomon’s Prayer for Wisdom|Solomon’s Prayer for Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 3
+book/chapter: "[[1Kgs.3|1 Kings 3]]"
+chronological_order: 443
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9002]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H0977]]"
+- "[[H9014]]"
+- "[[H7227A]]"
+- "[[H3808]]"
+- "[[H4487]]"
+- "[[H5608A]]"
+- "[[H9006]]"
+- "[[H7230]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 3:8**<big><big>[[1Kgs.3.1 Solomon’s Prayer for Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thy servant [is] in the midst of thy people which thou hast chosen, a great people, that cannot be numbered nor counted for multitude.
 <small><sub>**BSB:**</sub></small>
 Your servant is here among the people You have chosen, a people too numerous to count or number.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5650\|עַ֨בְדְּ]][[H9021\|ךָ֔]] [[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H5971A\|עַמְּ]][[H9021\|ךָ֖]] [[H0834A\|אֲשֶׁ֣ר]] [[H0977\|בָּחָ֑רְתָּ]] [[H5971A\|עַם]][[H9014\|־]] [[H7227A\|רָ֕ב]] [[H0834A\|אֲשֶׁ֧ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H4487\|יִמָּנֶ֛ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5608A\|יִסָּפֵ֖ר]] [[H9006\|מֵ]][[H7230\|רֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COMMUNION|COMMUNION]] • [[topic DREAM|DREAM]] • [[topic PRAYER|PRAYER]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.7|<< 1 Kings 3:7]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3.9|1 Kings 3:9 >>]]</td></tr></table>
 

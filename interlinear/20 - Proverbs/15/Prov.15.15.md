@@ -1,8 +1,53 @@
+---
+title: Proverbs 15:15
+type: Verse
+kjv: "All the days of the afflicted are evil: but he that is of a merry heart hath a continual feast."
+bsb: "All the days of the oppressed are bad, but a cheerful heart has a continual feast."
+hebrew: "כָּל־ יְמֵ֣י עָנִ֣י רָעִ֑ים וְטֽוֹב־ לֵ֝֗ב מִשְׁתֶּ֥ה תָמִֽיד׃"
+pericope: "[[Prov.15.1 A Gentle Answer Turns Away Wrath|A Gentle Answer Turns Away Wrath]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 15
+book/chapter: "[[Prov.15|Proverbs 15]]"
+chronological_order: 470
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CONTENTMENT|CONTENTMENT]]"
+- "[[topic HEART|HEART]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H6041]]"
+- "[[H7451H]]"
+- "[[H9002]]"
+- "[[H2896A]]"
+- "[[H3820A]]"
+- "[[H4960]]"
+- "[[H8548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 15:15**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the days of the afflicted [are] evil: but he that is of a merry heart [hath] a continual feast.
 <small><sub>**BSB:**</sub></small>
 All the days of the oppressed are bad, but a cheerful heart has a continual feast.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H3117G\|יְמֵ֣י]] [[H6041\|עָנִ֣י]] [[H7451H\|רָעִ֑ים]] [[H9002\|וְ]][[H2896A\|טֽוֹב]][[H9014\|־]] [[H3820A\|לֵ֝֗ב]] [[H4960\|מִשְׁתֶּ֥ה]] [[H8548\|תָמִֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CONTENTMENT|CONTENTMENT]] • [[topic HEART|HEART]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.14|<< Proverbs 15:14]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.16|Proverbs 15:16 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Psalm 50:10
+type: Verse
+kjv: "For every beast of the forest is mine, and the cattle upon a thousand hills."
+bsb: "for every beast of the forest is Mine—the cattle on a thousand hills."
+hebrew: "כִּי־ לִ֥י כָל־ חַיְתוֹ־ יָ֑עַר בְּ֝הֵמ֗וֹת בְּהַרְרֵי־ אָֽלֶף׃"
+pericope: "[[Ps.50.1 The Mighty One Calls|The Mighty One Calls]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 50
+book/chapter: "[[Ps.50|Psalm 50]]"
+chronological_order: 505
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3605]]"
+- "[[H2416C]]"
+- "[[H3293A]]"
+- "[[H0929]]"
+- "[[H9003]]"
+- "[[H2042]]"
+- "[[H0505G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 50:10**<big><big>[[Ps.50.1 The Mighty One Calls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For every beast of the forest [is] mine, [and] the cattle upon a thousand hills.
 <small><sub>**BSB:**</sub></small>
 for every beast of the forest is Mine—the cattle on a thousand hills.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H9005\|לִ֥]][[H9030\|י]] [[H3605\|כָל]][[H9014\|־]] [[H2416C\|חַיְתוֹ]][[H9014\|־]] [[H3293A\|יָ֑עַר]] [[H0929\|בְּ֝הֵמ֗וֹת]] [[H9003\|בְּ]][[H2042\|הַרְרֵי]][[H9014\|־]] [[H0505G\|אָֽלֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic FORMALISM|FORMALISM]] • [[topic GOD|GOD]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.50.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50.9|<< Psalms 50:9]]</td><td align="center" style="border:none;">[[Ps.50|Psalms 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50.11|Psalms 50:11 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: 2 Chronicles 15:5
+type: Verse
+kjv: "And in those times there was no peace to him that went out, nor to him that came in, but great vexations were upon all the inhabitants of the countries."
+bsb: "In those days there was no safety for travelers, because the residents of the lands had many conflicts."
+hebrew: "וּבָעִתִּ֣ים הָהֵ֔ם אֵ֥ין שָׁל֖וֹם לַיּוֹצֵ֣א וְלַבָּ֑א כִּ֚י מְהוּמֹ֣ת רַבּ֔וֹת עַ֥ל כָּל־ יוֹשְׁבֵ֖י הָאֲרָצֽוֹת׃"
+pericope: "[[2Chr.15.1 The Prophecy of Azariah|The Prophecy of Azariah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 15
+book/chapter: "[[2Chr.15|2 Chronicles 15]]"
+chronological_order: 561
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H1992]]"
+- "[[H0369]]"
+- "[[H7965G]]"
+- "[[H9005]]"
+- "[[H3318G]]"
+- "[[H0935G]]"
+- "[[H3588A]]"
+- "[[H4103]]"
+- "[[H7227A]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3427]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 15:5**<big><big>[[2Chr.15.1 The Prophecy of Azariah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in those times [there was] no peace to him that went out, nor to him that came in, but great vexations [were] upon all the inhabitants of the countries.
 <small><sub>**BSB:**</sub></small>
 In those days there was no safety for travelers, because the residents of the lands had many conflicts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בָ]][[H6256\|עִתִּ֣ים]] [[H9009\|הָ]][[H1992\|הֵ֔ם]] [[H0369\|אֵ֥ין]] [[H7965G\|שָׁל֖וֹם]] [[H9005\|לַ]][[H3318G\|יּוֹצֵ֣א]] [[H9002\|וְ]][[H9005\|לַ]][[H0935G\|בָּ֑א]] [[H3588A\|כִּ֚י]] [[H4103\|מְהוּמֹ֣ת]] [[H7227A\|רַבּ֔וֹת]] [[H5921A\|עַ֥ל]] [[H3605\|כָּל]][[H9014\|־]] [[H3427\|יוֹשְׁבֵ֖י]] [[H9009\|הָ]][[H0776G\|אֲרָצֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURAGE|COURAGE]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.15.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.15.4|<< 2 Chronicles 15:4]]</td><td align="center" style="border:none;">[[2Chr.15|2 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.15.6|2 Chronicles 15:6 >>]]</td></tr></table>
 

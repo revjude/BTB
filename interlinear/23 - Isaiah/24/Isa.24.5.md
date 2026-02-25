@@ -1,8 +1,60 @@
+---
+title: Isaiah 24:5
+type: Verse
+kjv: "The earth also is defiled under the inhabitants thereof; because they have transgressed the laws, changed the ordinance, broken the everlasting covenant."
+bsb: "The earth is defiled by its people; they have transgressed the laws; they have overstepped the decrees and broken the everlasting covenant."
+hebrew: "וְהָאָ֥רֶץ חָנְפָ֖ה תַּ֣חַת יֹשְׁבֶ֑יהָ כִּֽי־ עָבְר֤וּ תוֹרֹת֙ חָ֣לְפוּ חֹ֔ק הֵפֵ֖רוּ בְּרִ֥ית עוֹלָֽם׃"
+pericope: "[[Isa.24.1 God’s Judgment on the Earth|God’s Judgment on the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 24
+book/chapter: "[[Isa.24|Isaiah 24]]"
+chronological_order: 667
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic ORDINANCE|ORDINANCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2610]]"
+- "[[H8478G]]"
+- "[[H3427]]"
+- "[[H9024]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5674D]]"
+- "[[H8451]]"
+- "[[H2498]]"
+- "[[H2706G]]"
+- "[[H6565A]]"
+- "[[H1285]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 24:5**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The earth also is defiled under the inhabitants thereof; because they have transgressed the laws, changed the ordinance, broken the everlasting covenant.
 <small><sub>**BSB:**</sub></small>
 The earth is defiled by its people; they have transgressed the laws; they have overstepped the decrees and broken the everlasting covenant.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H0776G\|אָ֥רֶץ]] [[H2610\|חָנְפָ֖ה]] [[H8478G\|תַּ֣חַת]] [[H3427\|יֹשְׁבֶ֑י]][[H9024\|הָ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5674D\|עָבְר֤וּ]] [[H8451\|תוֹרֹת֙]] [[H2498\|חָ֣לְפוּ]] [[H2706G\|חֹ֔ק]] [[H6565A\|הֵפֵ֖רוּ]] [[H1285\|בְּרִ֥ית]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic ORDINANCE|ORDINANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.4|<< Isaiah 24:4]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.6|Isaiah 24:6 >>]]</td></tr></table>
 

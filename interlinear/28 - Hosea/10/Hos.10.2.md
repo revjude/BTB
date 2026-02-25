@@ -1,8 +1,56 @@
+---
+title: Hosea 10:2
+type: Verse
+kjv: "Their heart is divided; now shall they be found faulty: he shall break down their altars, he shall spoil their images."
+bsb: "Their hearts are devious; now they must bear their guilt. The LORD will break down their altars and demolish their sacred pillars."
+hebrew: "חָלַ֥ק לִבָּ֖ם עַתָּ֣ה יֶאְשָׁ֑מוּ ה֚וּא יַעֲרֹ֣ף מִזְבְּחוֹתָ֔ם יְשֹׁדֵ֖ד מַצֵּבוֹתָֽם׃"
+pericope: "[[Hos.10.1 Retribution for Israel’s Sin|Retribution for Israel’s Sin]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 10
+book/chapter: "[[Hos.10|Hosea 10]]"
+chronological_order: 651
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic HEART|HEART]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INDECISION|INDECISION]]"
+- "[[topic LUKEWARMNESS|LUKEWARMNESS]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+strongs:
+- "[[H2505B]]"
+- "[[H3820A]]"
+- "[[H9028]]"
+- "[[H6258]]"
+- "[[H0816]]"
+- "[[H1931]]"
+- "[[H6202]]"
+- "[[H4196]]"
+- "[[H7703]]"
+- "[[H4676]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 10:2**<big><big>[[Hos.10.1 Retribution for Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their heart is divided; now shall they be found faulty: he shall break down their altars, he shall spoil their images.
 <small><sub>**BSB:**</sub></small>
 Their hearts are devious; now they must bear their guilt. The LORD will break down their altars and demolish their sacred pillars.
+<small><sub>**Hebrew:**</sub></small>
+[[H2505B\|חָלַ֥ק]] [[H3820A\|לִבָּ֖]][[H9028\|ם]] [[H6258\|עַתָּ֣ה]] [[H0816\|יֶאְשָׁ֑מוּ]] [[H1931\|ה֚וּא]] [[H6202\|יַעֲרֹ֣ף]] [[H4196\|מִזְבְּחוֹתָ֔]][[H9028\|ם]] [[H7703\|יְשֹׁדֵ֖ד]] [[H4676\|מַצֵּבוֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic HEART|HEART]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INDECISION|INDECISION]] • [[topic LUKEWARMNESS|LUKEWARMNESS]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.1|<< Hosea 10:1]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.3|Hosea 10:3 >>]]</td></tr></table>
 

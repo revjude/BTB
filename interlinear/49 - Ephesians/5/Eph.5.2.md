@@ -1,10 +1,69 @@
+---
+title: Ephesians 5:2
+type: Verse
+kjv: "And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour."
+bsb: "and walk in love, just as Christ loved us and gave Himself up for us as a fragrant sacrificial offering to God."
+greek: "καὶ περιπατεῖτε ἐν ἀγάπῃ καθὼς καὶ ὁ Χριστὸς ἠγάπησεν ἡμᾶς καὶ παρέδωκεν ἑαυτὸν ὑπὲρ ἡμῶν προσφορὰν καὶ θυσίαν τῷ θεῷ εἰς ὀσμὴν εὐωδίας.¶"
+pericope: "[[Eph.5.1 Imitators of God|Imitators of God]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 5
+book/chapter: "[[Eph.5|Ephesians 5]]"
+chronological_order: 1115
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic SUFFERING|SUFFERING]]"
+- "[[topic WALKING|WALKING]]"
+strongs:
+- "[[G2532]]"
+- "[[G4043]]"
+- "[[G1722]]"
+- "[[G0026]]"
+- "[[G2531]]"
+- "[[G3588]]"
+- "[[G5547]]"
+- "[[G0025]]"
+- "[[G3165]]"
+- "[[G3860]]"
+- "[[G1438]]"
+- "[[G5228]]"
+- "[[G4376]]"
+- "[[G2378]]"
+- "[[G2316]]"
+- "[[G1519]]"
+- "[[G3744]]"
+- "[[G2175]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **Ephesians 5:2**<big><big>[[Eph.5.1 Imitators of God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour.
 <small><sub>**BSB:**</sub></small>
 and walk in love, just as Christ loved us and gave Himself up for us as a fragrant sacrificial offering to God.
-<small><sub>**Literal:**</sub></small>
-and do walk in love even as also <the> Christ loved us and gave up himself for us [as] an offering and a sacrifice <the> to God into an aroma of a sweet smell.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.1|<< Ephesians 5:1]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.3|Ephesians 5:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4043\|περιπατεῖτε]]  [[G1722\|ἐν]]  [[G0026\|ἀγάπῃ]]  [[G2531\|καθὼς]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G5547\|Χριστὸς]]  [[G0025\|ἠγάπησεν]]  [[G3165\|ἡμᾶς]]  [[G2532\|καὶ]]  [[G3860\|παρέδωκεν]]  [[G1438\|ἑαυτὸν]]  [[G5228\|ὑπὲρ]]  [[G3165\|ἡμῶν]]  [[G4376\|προσφορὰν]]  [[G2532\|καὶ]]  [[G2378\|θυσίαν]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G1519\|εἰς]]  [[G3744\|ὀσμὴν]]  [[G2175\|εὐωδίας.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic EXAMPLE|EXAMPLE]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic INCENSE|INCENSE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic REDEMPTION|REDEMPTION]] • [[topic SUFFERING|SUFFERING]] • [[topic WALKING|WALKING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.1|<< Ephesians 5:1]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.3|Ephesians 5:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

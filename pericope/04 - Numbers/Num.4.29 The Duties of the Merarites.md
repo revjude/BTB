@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Duties of the Merarites
+type: Pericope
 pericope: "[[Num.4.29 The Duties of the Merarites|The Duties of the Merarites]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 4
 book/chapter: "[[Num.4|Numbers 4]]"
-genre:
+chronological_order: 163
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 5
 verses:
 - "[[Num.4.29]]"
 - "[[Num.4.30]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Num.4.33]]"
 ---
 
-[[Num.4|Numbers 4:29 - Numbers 4:33]]
+<small>[[Num.4|Numbers 4:29-33]]</small>
 *The Duties of the Merarites*
 
 [[Num.4.29|29]] As for the sons of Merari, thou shalt number them after their families, by the house of their fathers;

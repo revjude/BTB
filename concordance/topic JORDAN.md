@@ -15,19 +15,19 @@
 
 - Of the Israelites [[Josh.3|Jos 3]]; [[Josh.4|4]]; [[Josh.5.1|5:1]]; [[Ps.114.3|Ps 114:3]]
 
-- Of Elijah [[2Kgs.2.6|2Ki 2:6]]-[[2Kgs.2.8|8]]
+- Of Elijah [[2Kgs.2.6|2Ki 2:6-8]]
 
 - Of Elisha [[2Kgs.2.14|2Ki 2:14]]
 
 → Crossed by a ferry boat [[2Sam.19.18|2Sa 19:18]]
 
-→ Naaman washes in, for the healing of his leprosy [[2Kgs.5.10|2Ki  5:10]]-[[2Kgs.5.14|14]]
+→ Naaman washes in, for the healing of his leprosy [[2Kgs.5.10|2Ki  5:10-14]]
 
 → John the Baptist immerses in [[Matt.3.6|Mt 3:6]]; [[Mark.1.5|Mr 1:5]]
 
 → John the Baptist immerses Jesus in [[Matt.3.13|Mt 3:13]]; [[Mark.1.9|Mr 1:9]]
 
-→ PLAIN OF [[Gen.13.10|Ge 13:10]]-[[Gen.13.12|12]]
+→ PLAIN OF [[Gen.13.10|Ge 13:10-12]]
 
 - Israelites camped in [[Num.22.1|Nu 22:1]]; [[Num.26.3|26:3]],[[Num.26.63|63]]
 

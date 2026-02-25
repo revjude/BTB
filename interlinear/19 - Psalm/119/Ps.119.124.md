@@ -1,8 +1,57 @@
+---
+title: Psalm 119:124
+type: Verse
+kjv: "Deal with thy servant according unto thy mercy, and teach me thy statutes."
+bsb: "Deal with Your servant according to Your loving devotion, and teach me Your statutes."
+hebrew: "עֲשֵׂ֖ה עִם־ עַבְדְּךָ֥ כְחַסְדֶּ֗ךָ וְחֻקֶּ֥יךָ לַמְּדֵֽנִי׃"
+pericope: "[[Ps.119.121 Your Word Is a Lamp to My Feet - AIN|Your Word Is a Lamp to My Feet - AIN]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H6213A]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9004]]"
+- "[[H2617A]]"
+- "[[H9002]]"
+- "[[H2706G]]"
+- "[[H3925G]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:124**<big><big>[[Ps.119.121 Your Word Is a Lamp to My Feet - AIN|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Deal with thy servant according unto thy mercy, and teach me thy statutes.
 <small><sub>**BSB:**</sub></small>
 Deal with Your servant according to Your loving devotion, and teach me Your statutes.
+<small><sub>**Hebrew:**</sub></small>
+[[H6213A\|עֲשֵׂ֖ה]] [[H5973A\|עִם]][[H9014\|־]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֥]] [[H9004\|כְ]][[H2617A\|חַסְדֶּ֗]][[H9021\|ךָ]] [[H9002\|וְ]][[H2706G\|חֻקֶּ֥י]][[H9021\|ךָ]] [[H3925G\|לַמְּדֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic PRAYER|PRAYER]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.124|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.123|<< Psalms 119:123]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.125|Psalms 119:125 >>]]</td></tr></table>
 

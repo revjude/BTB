@@ -1,10 +1,65 @@
+---
+title: Acts 21:8
+type: Verse
+kjv: "And the next day we that were of Paul’s company departed, and came unto Caesarea: and we entered into the house of Philip the evangelist, which was one of the seven; and abode with him."
+bsb: "Leaving the next day, we went on to Caesarea and stayed at the home of Philip the evangelist, who was one of the Seven."
+greek: "Τῇ δὲ ἐπαύριον ἐξελθόντες οἱ περὶ τὸν Παῦλον ἤλθομεν εἰς Καισάρειαν, καὶ εἰσελθόντες εἰς τὸν οἶκον Φιλίππου τοῦ εὐαγγελιστοῦ τοῦ ὄντος ἐκ τῶν ἑπτὰ ἐμείναμεν παρ᾽ αὐτῷ."
+pericope: "[[Acts.21.8 Paul Visits Philip the Evangelist|Paul Visits Philip the Evangelist]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 21
+book/chapter: "[[Acts.21|Acts 21]]"
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CAESAREA|CAESAREA]]"
+- "[[topic LUKE|LUKE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIP|PHILIP]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1887]]"
+- "[[G1831]]"
+- "[[G4012]]"
+- "[[G3972G]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G2542H]]"
+- "[[G2532]]"
+- "[[G1525]]"
+- "[[G3624G]]"
+- "[[G5376J]]"
+- "[[G2099]]"
+- "[[G1510]]"
+- "[[G1537]]"
+- "[[G2033]]"
+- "[[G3306]]"
+- "[[G3844]]"
+- "[[G0846]]"
+texts:
+- NKO
+- K
+- NK(O)
+---
+
 **Acts 21:8**<big><big>[[Acts.21.8 Paul Visits Philip the Evangelist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the next [day] we that were of Paul’s company departed, and came unto Caesarea: and we entered into the house of Philip the evangelist, which was [one] of the seven; and abode with him.
 <small><sub>**BSB:**</sub></small>
 Leaving the next day, we went on to Caesarea and stayed at the home of Philip the evangelist, who was one of the Seven.
-<small><sub>**Literal:**</sub></small>
-On the now next day having gone forth those with <the> Paul we came to Caesarea, and having entered into the house of Philip the evangelist who is being of the seven we stayed with him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.7|<< Acts 21:7]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.9|Acts 21:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τῇ]]  [[G1161\|δὲ]]  [[G1887\|ἐπαύριον]]  [[G1831\|ἐξελθόντες]]  [[G3588\|οἱ]]  [[G4012\|περὶ]]  [[G3588\|τὸν]]  [[G3972G\|Παῦλον]]  [[G2064\|ἤλθομεν]]  [[G1519\|εἰς]]  [[G2542H\|Καισάρειαν,]]  [[G2532\|καὶ]]  [[G1525\|εἰσελθόντες]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3624G\|οἶκον]]  [[G5376J\|Φιλίππου]]  [[G3588\|τοῦ]]  [[G2099\|εὐαγγελιστοῦ]]  [[G3588\|τοῦ]]  [[G1510\|ὄντος]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G2033\|ἑπτὰ]]  [[G3306\|ἐμείναμεν]]  [[G3844\|παρ᾽]]  [[G0846\|αὐτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAESAREA|CAESAREA]] • [[topic LUKE|LUKE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PHILIP|PHILIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.7|<< Acts 21:7]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.9|Acts 21:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

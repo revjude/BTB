@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Solomon’s Prayer of Dedication
+type: Pericope
 pericope: "[[2Chr.6.12 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
-verse_count: 31
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 6
 book/chapter: "[[2Chr.6|2 Chronicles 6]]"
-genre:
+chronological_order: 495
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 31
 verses:
 - "[[2Chr.6.12]]"
 - "[[2Chr.6.13]]"
@@ -49,7 +56,7 @@ verses:
 - "[[2Chr.6.42]]"
 ---
 
-[[2Chr.6|2 Chronicles 6:12 - 2 Chronicles 6:42]]
+<small>[[2Chr.6|2 Chronicles 6:12-42]]</small>
 *Solomon’s Prayer of Dedication*
 
 [[2Chr.6.12|12]] And he stood before the altar of the LORD in the presence of all the congregation of Israel, and spread forth his hands:

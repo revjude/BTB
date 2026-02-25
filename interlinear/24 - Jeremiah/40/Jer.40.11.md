@@ -1,8 +1,77 @@
+---
+title: Jeremiah 40:11
+type: Verse
+kjv: "Likewise when all the Jews that were in Moab, and among the Ammonites, and in Edom, and that were in all the countries, heard that the king of Babylon had left a remnant of Judah, and that he had set over them Gedaliah the son of Ahikam the son of Shaphan;"
+bsb: "When all the Jews in Moab, Ammon, Edom, and all the other lands heard that the king of Babylon had left a remnant in Judah and had appointed Gedaliah son of Ahikam, the son of Shaphan, over them,"
+hebrew: "וְגַ֣ם כָּֽל־ הַיְּהוּדִ֡ים אֲשֶׁר־ בְּמוֹאָ֣ב׀ וּבִבְנֵֽי־ עַמּ֨וֹן וּבֶאֱד֜וֹם וַאֲשֶׁ֤ר בְּכָל־ הָֽאֲרָצוֹת֙ שָֽׁמְע֔וּ כִּֽי־ נָתַ֧ן מֶֽלֶךְ־ בָּבֶ֛ל שְׁאֵרִ֖ית לִֽיהוּדָ֑ה וְכִי֙ הִפְקִ֣יד עֲלֵיהֶ֔ם אֶת־ גְּדַלְיָ֖הוּ בֶּן־ אֲחִיקָ֥ם בֶּן־ שָׁפָֽן׃"
+pericope: "[[Jer.40.7 Gedaliah Governs in Judah|Gedaliah Governs in Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 40
+book/chapter: "[[Jer.40|Jeremiah 40]]"
+chronological_order: 763
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AHIKAM|AHIKAM]]"
+- "[[topic EDOM|EDOM]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MIZPAH|MIZPAH]]"
+- "[[topic SHAPHAN|SHAPHAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3064]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H4124G]]"
+- "[[H9015]]"
+- "[[H1121A]]"
+- "[[H5983]]"
+- "[[H0123G]]"
+- "[[H0776G]]"
+- "[[H8085G]]"
+- "[[H3588A]]"
+- "[[H5414G]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H7611]]"
+- "[[H9005]]"
+- "[[H3063G]]"
+- "[[H6485J]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H0853]]"
+- "[[H1436B]]"
+- "[[H0296]]"
+- "[[H8227B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 40:11**<big><big>[[Jer.40.7 Gedaliah Governs in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Likewise when all the Jews that [were] in Moab, and among the Ammonites, and in Edom, and that [were] in all the countries, heard that the king of Babylon had left a remnant of Judah, and that he had set over them Gedaliah the son of Ahikam the son of Shaphan;
 <small><sub>**BSB:**</sub></small>
 When all the Jews in Moab, Ammon, Edom, and all the other lands heard that the king of Babylon had left a remnant in Judah and had appointed Gedaliah son of Ahikam, the son of Shaphan, over them,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַ֣ם]] [[H3605\|כָּֽל]][[H9014\|־]] [[H9009\|הַ]][[H3064\|יְּהוּדִ֡ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בְּ]][[H4124G\|מוֹאָ֣ב]][[H9015\|׀]] [[H9002\|וּ]][[H9003\|בִ]][[H1121A\|בְנֵֽי]][[H9014\|־]] [[H5983\|עַמּ֨וֹן]] [[H9002\|וּ]][[H9003\|בֶ]][[H0123G\|אֱד֜וֹם]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֤ר]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָֽ]][[H0776G\|אֲרָצוֹת֙]] [[H8085G\|שָֽׁמְע֔וּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5414G\|נָתַ֧ן]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֛ל]] [[H7611\|שְׁאֵרִ֖ית]] [[H9005\|לִֽ]][[H3063G\|יהוּדָ֑ה]] [[H9002\|וְ]][[H3588A\|כִי֙]] [[H6485J\|הִפְקִ֣יד]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֔ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1436B\|גְּדַלְיָ֖הוּ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0296\|אֲחִיקָ֥ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H8227B\|שָׁפָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIKAM|AHIKAM]] • [[topic EDOM|EDOM]] • [[topic ISHMAEL|ISHMAEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MIZPAH|MIZPAH]] • [[topic SHAPHAN|SHAPHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.40.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.40.10|<< Jeremiah 40:10]]</td><td align="center" style="border:none;">[[Jer.40|Jeremiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.40.12|Jeremiah 40:12 >>]]</td></tr></table>
 

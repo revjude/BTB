@@ -1,8 +1,72 @@
+---
+title: Genesis 24:27
+type: Verse
+kjv: "And he said, Blessed be the LORD God of my master Abraham, who hath not left destitute my master of his mercy and his truth: I being in the way, the LORD led me to the house of my master’s brethren."
+bsb: "saying, “Blessed be the LORD, the God of my master Abraham, who has not withheld His kindness and faithfulness from my master. As for me, the LORD has led me on the journey to the house of my master’s relatives.”"
+hebrew: "וַיֹּ֗אמֶר בָּר֤וּךְ יְהוָה֙ אֱלֹהֵי֙ אֲדֹנִ֣י אַבְרָהָ֔ם אֲ֠שֶׁר לֹֽא־ עָזַ֥ב חַסְדּ֛וֹ וַאֲמִתּ֖וֹ מֵעִ֣ם אֲדֹנִ֑י אָנֹכִ֗י בַּדֶּ֙רֶךְ֙ נָחַ֣נִי יְהוָ֔ה בֵּ֖ית אֲחֵ֥י אֲדֹנִֽי׃"
+pericope: "[[Gen.24.15 Rebekah Is Chosen|Rebekah Is Chosen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1288]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H0085]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5800A]]"
+- "[[H2617A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0571G]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H0595]]"
+- "[[H9003]]"
+- "[[H1870L]]"
+- "[[H5148]]"
+- "[[H9030]]"
+- "[[H1004B]]"
+- "[[H0251H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:27**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Blessed [be] the LORD God of my master Abraham, who hath not left destitute my master of his mercy and his truth: I [being] in the way, the LORD led me to the house of my master’s brethren.
 <small><sub>**BSB:**</sub></small>
 saying, “Blessed be the LORD, the God of my master Abraham, who has not withheld His kindness and faithfulness from my master. As for me, the LORD has led me on the journey to the house of my master’s relatives.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H1288\|בָּר֤וּךְ]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵי֙]] [[H0113\|אֲדֹנִ֣]][[H9020\|י]] [[H0085\|אַבְרָהָ֔ם]] [[H0834A\|אֲ֠שֶׁר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5800A\|עָזַ֥ב]] [[H2617A\|חַסְדּ֛]][[H9023\|וֹ]] [[H9002\|וַ]][[H0571G\|אֲמִתּ֖]][[H9023\|וֹ]] [[H9006\|מֵ]][[H5973B\|עִ֣ם]] [[H0113\|אֲדֹנִ֑]][[H9020\|י]] [[H0595\|אָנֹכִ֗י]] [[H9003\|בַּ]][[H1870L\|דֶּ֙רֶךְ֙]] [[H5148\|נָחַ֣]][[H9030\|נִי]] [[H3068G\|יְהוָ֔ה]] [[H1004B\|בֵּ֖ית]] [[H0251H\|אֲחֵ֥י]] [[H0113\|אֲדֹנִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PRAYER|PRAYER]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.26|<< Genesis 24:26]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.28|Genesis 24:28 >>]]</td></tr></table>
 

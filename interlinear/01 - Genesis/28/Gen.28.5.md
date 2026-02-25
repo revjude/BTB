@@ -1,8 +1,68 @@
+---
+title: Genesis 28:5
+type: Verse
+kjv: "And Isaac sent away Jacob: and he went to Padanaram unto Laban, son of Bethuel the Syrian, the brother of Rebekah, Jacob’s and Esau’s mother."
+bsb: "So Isaac sent Jacob to Paddan-aram, to Laban son of Bethuel the Aramean, the brother of Rebekah, who was the mother of Jacob and Esau."
+hebrew: "וַיִּשְׁלַ֤ח יִצְחָק֙ אֶֽת־ יַעֲקֹ֔ב וַיֵּ֖לֶךְ פַּדֶּ֣נָֽה אֲרָ֑ם אֶל־ לָבָ֤ן בֶּן־ בְּתוּאֵל֙ הָֽאֲרַמִּ֔י אֲחִ֣י רִבְקָ֔ה אֵ֥ם יַעֲקֹ֖ב וְעֵשָֽׂו׃"
+pericope: "[[Gen.28.1 Jacob’s Departure|Jacob’s Departure]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 28
+book/chapter: "[[Gen.28|Genesis 28]]"
+chronological_order: 70
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BETHUEL|BETHUEL]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic SYRIA|SYRIA]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H3327]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3290]]"
+- "[[H1980G]]"
+- "[[H6307]]"
+- "[[H9011]]"
+- "[[H0758L]]"
+- "[[H0413]]"
+- "[[H3837A]]"
+- "[[H1121A]]"
+- "[[H1328A]]"
+- "[[H9009]]"
+- "[[H0761J]]"
+- "[[H0251G]]"
+- "[[H7259]]"
+- "[[H0517]]"
+- "[[H9002]]"
+- "[[H6215G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 28:5**<big><big>[[Gen.28.1 Jacob’s Departure|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Isaac sent away Jacob: and he went to Padanaram unto Laban, son of Bethuel the Syrian, the brother of Rebekah, Jacob’s and Esau’s mother.
 <small><sub>**BSB:**</sub></small>
 So Isaac sent Jacob to Paddan-aram, to Laban son of Bethuel the Aramean, the brother of Rebekah, who was the mother of Jacob and Esau.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֤ח]] [[H3327\|יִצְחָק֙]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3290\|יַעֲקֹ֔ב]] [[H9001\|וַ]][[H1980G\|יֵּ֖לֶךְ]] [[H6307\|פַּדֶּ֣נָֽ]][[H9011\|ה]] [[H0758L\|אֲרָ֑ם]] [[H0413\|אֶל]][[H9014\|־]] [[H3837A\|לָבָ֤ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1328A\|בְּתוּאֵל֙]] [[H9009\|הָֽ]][[H0761J\|אֲרַמִּ֔י]] [[H0251G\|אֲחִ֣י]] [[H7259\|רִבְקָ֔ה]] [[H0517\|אֵ֥ם]] [[H3290\|יַעֲקֹ֖ב]] [[H9002\|וְ]][[H6215G\|עֵשָֽׂו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHUEL|BETHUEL]] • [[topic JACOB|JACOB]] • [[topic LABAN|LABAN]] • [[topic SYRIA|SYRIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.28.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.4|<< Genesis 28:4]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.6|Genesis 28:6 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: Jeremiah 23:24
+type: Verse
+kjv: "Can any hide himself in secret places that I shall not see him? saith the LORD. Do not I fill heaven and earth? saith the LORD."
+bsb: "“Can a man hide in secret places where I cannot see him?” declares the LORD. “Do I not fill the heavens and the earth?” declares the LORD."
+hebrew: "אִם־ יִסָּתֵ֨ר אִ֧ישׁ בַּמִּסְתָּרִ֛ים וַאֲנִ֥י לֹֽא־ אֶרְאֶ֖נּוּ נְאֻם־ יְהוָ֑ה הֲל֨וֹא אֶת־ הַשָּׁמַ֧יִם וְאֶת־ הָאָ֛רֶץ אֲנִ֥י מָלֵ֖א נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.23.9 Lying Prophets|Lying Prophets]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 23
+book/chapter: "[[Jer.23|Jeremiah 23]]"
+chronological_order: 746
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+strongs:
+- "[[H0518I]]"
+- "[[H9014]]"
+- "[[H5641]]"
+- "[[H0376I]]"
+- "[[H9003]]"
+- "[[H4565]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H9033]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9008]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H0776G]]"
+- "[[H4390]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 23:24**<big><big>[[Jer.23.9 Lying Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Can any hide himself in secret places that I shall not see him? saith the LORD. Do not I fill heaven and earth? saith the LORD.
 <small><sub>**BSB:**</sub></small>
 “Can a man hide in secret places where I cannot see him?” declares the LORD. “Do I not fill the heavens and the earth?” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518I\|אִם]][[H9014\|־]] [[H5641\|יִסָּתֵ֨ר]] [[H0376I\|אִ֧ישׁ]] [[H9003\|בַּ]][[H4565\|מִּסְתָּרִ֛ים]] [[H9002\|וַ]][[H0589\|אֲנִ֥י]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7200G\|אֶרְאֶ֖]][[H9033\|נּוּ]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9008\|הֲ]][[H3808\|ל֨וֹא]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמַ֧יִם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֛רֶץ]] [[H0589\|אֲנִ֥י]] [[H4390\|מָלֵ֖א]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.23|<< Jeremiah 23:23]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.25|Jeremiah 23:25 >>]]</td></tr></table>
 

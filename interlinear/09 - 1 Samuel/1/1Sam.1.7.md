@@ -1,8 +1,66 @@
+---
+title: 1 Samuel 1:7
+type: Verse
+kjv: "And as he did so year by year, when she went up to the house of the LORD, so she provoked her; therefore she wept, and did not eat."
+bsb: "And this went on year after year. Whenever Hannah went up to the house of the LORD, her rival taunted her until she wept and would not eat."
+hebrew: "וְכֵ֨ן יַעֲשֶׂ֜ה שָׁנָ֣ה בְשָׁנָ֗ה מִדֵּ֤י עֲלֹתָהּ֙ בְּבֵ֣ית יְהוָ֔ה כֵּ֖ן תַּכְעִסֶ֑נָּה וַתִּבְכֶּ֖ה וְלֹ֥א תֹאכַֽל׃"
+pericope: "[[1Sam.1.1 Elkanah and His Wives|Elkanah and His Wives]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 1
+book/chapter: "[[1Sam.1|1 Samuel 1]]"
+chronological_order: 280
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CRUELTY|CRUELTY]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic HANNAH|HANNAH]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic TANTALIZING|TANTALIZING]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H3651C]]"
+- "[[H6213A]]"
+- "[[H8141]]"
+- "[[H9003]]"
+- "[[H9006]]"
+- "[[H1767]]"
+- "[[H5927G]]"
+- "[[H9044]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H3707]]"
+- "[[H9034]]"
+- "[[H9001]]"
+- "[[H1058]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 1:7**<big><big>[[1Sam.1.1 Elkanah and His Wives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [as] he did so year by year, when she went up to the house of the LORD, so she provoked her; therefore she wept, and did not eat.
 <small><sub>**BSB:**</sub></small>
 And this went on year after year. Whenever Hannah went up to the house of the LORD, her rival taunted her until she wept and would not eat.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3651C\|כֵ֨ן]] [[H6213A\|יַעֲשֶׂ֜ה]] [[H8141\|שָׁנָ֣ה]] [[H9003\|בְ]][[H8141\|שָׁנָ֗ה]] [[H9006\|מִ]][[H1767\|דֵּ֤י]] [[H5927G\|עֲלֹתָ]][[H9044\|הּ֙]] [[H9003\|בְּ]][[H1004Q\|בֵ֣ית]] [[H3068G\|יְהוָ֔ה]] [[H3651C\|כֵּ֖ן]] [[H3707\|תַּכְעִסֶ֑]][[H9034\|נָּה]] [[H9001\|וַ]][[H1058\|תִּבְכֶּ֖ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0398\|תֹאכַֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARRENNESS|BARRENNESS]] • [[topic CHURCH|CHURCH]] • [[topic CRUELTY|CRUELTY]] • [[topic FAMILY|FAMILY]] • [[topic HANNAH|HANNAH]] • [[topic POLYGAMY|POLYGAMY]] • [[topic SAMUEL|SAMUEL]] • [[topic TANTALIZING|TANTALIZING]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.6|<< 1 Samuel 1:6]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.8|1 Samuel 1:8 >>]]</td></tr></table>
 

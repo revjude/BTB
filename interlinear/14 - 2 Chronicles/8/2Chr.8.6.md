@@ -1,8 +1,69 @@
+---
+title: 2 Chronicles 8:6
+type: Verse
+kjv: "And Baalath, and all the store cities that Solomon had, and all the chariot cities, and the cities of the horsemen, and all that Solomon desired to build in Jerusalem, and in Lebanon, and throughout all the land of his dominion."
+bsb: "as well as Baalath, all the store cities that belonged to Solomon, and all the cities for his chariots and horses—whatever he desired to build in Jerusalem, Lebanon, and throughout the land of his dominion."
+hebrew: "וְאֶֽת־ בַּעֲלָ֗ת וְאֵ֨ת כָּל־ עָרֵ֤י הַֽמִּסְכְּנוֹת֙ אֲשֶׁ֣ר הָי֣וּ לִשְׁלֹמֹ֔ה וְאֵת֙ כָּל־ עָרֵ֣י הָרֶ֔כֶב וְאֵ֖ת עָרֵ֣י הַפָּרָשִׁ֑ים וְאֵ֣ת׀ כָּל־ חֵ֣שֶׁק שְׁלֹמֹ֗ה אֲשֶׁ֤ר חָשַׁק֙ לִבְנ֤וֹת בִּירֽוּשָׁלִַ֙ם֙ וּבַלְּבָנ֔וֹן וּבְכֹ֖ל אֶ֥רֶץ מֶמְשַׁלְתּֽוֹ׃"
+pericope: "[[2Chr.8.1 Solomon’s Additional Achievements|Solomon’s Additional Achievements]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 8
+book/chapter: "[[2Chr.8|2 Chronicles 8]]"
+chronological_order: 537
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic BAALATH|BAALATH]]"
+- "[[topic CAVALRY|CAVALRY]]"
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic CITIES|CITIES]]"
+- "[[topic TREASURE CITIES|TREASURE CITIES]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1191H]]"
+- "[[H3605]]"
+- "[[H5892B]]"
+- "[[H9009]]"
+- "[[H4543]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H8010]]"
+- "[[H7393G]]"
+- "[[H6571B]]"
+- "[[H9015]]"
+- "[[H2837]]"
+- "[[H2836A]]"
+- "[[H1129]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H3844G]]"
+- "[[H0776G]]"
+- "[[H4475]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 8:6**<big><big>[[2Chr.8.1 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Baalath, and all the store cities that Solomon had, and all the chariot cities, and the cities of the horsemen, and all that Solomon desired to build in Jerusalem, and in Lebanon, and throughout all the land of his dominion.
 <small><sub>**BSB:**</sub></small>
 as well as Baalath, all the store cities that belonged to Solomon, and all the cities for his chariots and horses—whatever he desired to build in Jerusalem, Lebanon, and throughout the land of his dominion.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶֽת]][[H9014\|־]] [[H1191H\|בַּעֲלָ֗ת]] [[H9002\|וְ]][[H0853\|אֵ֨ת]] [[H3605\|כָּל]][[H9014\|־]] [[H5892B\|עָרֵ֤י]] [[H9009\|הַֽ]][[H4543\|מִּסְכְּנוֹת֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H1961\|הָי֣וּ]] [[H9005\|לִ]][[H8010\|שְׁלֹמֹ֔ה]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H3605\|כָּל]][[H9014\|־]] [[H5892B\|עָרֵ֣י]] [[H9009\|הָ]][[H7393G\|רֶ֔כֶב]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H5892B\|עָרֵ֣י]] [[H9009\|הַ]][[H6571B\|פָּרָשִׁ֑ים]] [[H9002\|וְ]][[H0853\|אֵ֣ת]][[H9015\|׀]] [[H3605\|כָּל]][[H9014\|־]] [[H2837\|חֵ֣שֶׁק]] [[H8010\|שְׁלֹמֹ֗ה]] [[H0834A\|אֲשֶׁ֤ר]] [[H2836A\|חָשַׁק֙]] [[H9005\|לִ]][[H1129\|בְנ֤וֹת]] [[H9003\|בִּ]][[H3389\|ירֽוּשָׁלִַ֙ם֙]] [[H9002\|וּ]][[H9003\|בַ]][[H3844G\|לְּבָנ֔וֹן]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כֹ֖ל]] [[H0776G\|אֶ֥רֶץ]] [[H4475\|מֶמְשַׁלְתּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAALATH|BAALATH]] • [[topic CAVALRY|CAVALRY]] • [[topic CHARIOT|CHARIOT]] • [[topic CITIES|CITIES]] • [[topic TREASURE CITIES|TREASURE CITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.8.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.5|<< 2 Chronicles 8:5]]</td><td align="center" style="border:none;">[[2Chr.8|2 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8.7|2 Chronicles 8:7 >>]]</td></tr></table>
 

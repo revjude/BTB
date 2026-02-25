@@ -1,8 +1,54 @@
+---
+title: 1 Chronicles 26:1
+type: Verse
+kjv: "Concerning the divisions of the porters: Of the Korhites was Meshelemiah the son of Kore, of the sons of Asaph."
+bsb: "These were the divisions of the gatekeepers: From the Korahites: Meshelemiah son of Kore, one of the sons of Asaph."
+hebrew: "לְמַחְלְק֖וֹת לְשֹׁעֲרִ֑ים לַקָּרְחִ֕ים מְשֶֽׁלֶמְיָ֥הוּ בֶן־ קֹרֵ֖א מִן־ בְּנֵ֥י אָסָֽף׃"
+pericope: "[[1Chr.26.1 The Divisions of the Gatekeepers|The Divisions of the Gatekeepers]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 26
+book/chapter: "[[1Chr.26|1 Chronicles 26]]"
+chronological_order: 437
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ASAPH|ASAPH]]"
+- "[[topic EBIASAPH|EBIASAPH]]"
+- "[[topic KORE|KORE]]"
+- "[[topic MESHELEMIAH|MESHELEMIAH]]"
+strongs:
+- "[[H9005]]"
+- "[[H4256]]"
+- "[[H7778]]"
+- "[[H7145]]"
+- "[[H4920]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H6981G]]"
+- "[[H4480A]]"
+- "[[H0623K]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 26:1**<big><big>[[1Chr.26.1 The Divisions of the Gatekeepers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Concerning the divisions of the porters: Of the Korhites [was] Meshelemiah the son of Kore, of the sons of Asaph.
 <small><sub>**BSB:**</sub></small>
 These were the divisions of the gatekeepers: From the Korahites: Meshelemiah son of Kore, one of the sons of Asaph.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H4256\|מַחְלְק֖וֹת]] [[H9005\|לְ]][[H7778\|שֹׁעֲרִ֑ים]] [[H9005\|לַ]][[H7145\|קָּרְחִ֕ים]] [[H4920\|מְשֶֽׁלֶמְיָ֥הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H6981G\|קֹרֵ֖א]] [[H4480A\|מִן]][[H9014\|־]] [[H1121A\|בְּנֵ֥י]] [[H0623K\|אָסָֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAPH|ASAPH]] • [[topic EBIASAPH|EBIASAPH]] • [[topic KORE|KORE]] • [[topic MESHELEMIAH|MESHELEMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.25.31|<< 1 Chronicles 25:31]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.2|1 Chronicles 26:2 >>]]</td></tr></table>
 

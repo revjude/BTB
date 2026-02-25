@@ -1,8 +1,66 @@
+---
+title: 1 Samuel 17:7
+type: Verse
+kjv: "And the staff of his spear was like a weaver’s beam; and his spear’s head weighed six hundred shekels of iron: and one bearing a shield went before him."
+bsb: "The shaft of his spear was like a weaver’s beam, and its iron point weighed six hundred shekels. In addition, his shield bearer went before him."
+hebrew: "וְעֵ֣ץ חֲנִית֗וֹ כִּמְנוֹר֙ אֹֽרְגִ֔ים וְלַהֶ֣בֶת חֲנִית֔וֹ שֵׁשׁ־ מֵא֥וֹת שְׁקָלִ֖ים בַּרְזֶ֑ל וְנֹשֵׂ֥א הַצִּנָּ֖ה הֹלֵ֥ךְ לְפָנָֽיו׃"
+pericope: "[[1Sam.17.1 Goliath’s Challenge|Goliath’s Challenge]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMOR-BEARER|ARMOR-BEARER]]"
+- "[[topic BEAM|BEAM]]"
+- "[[topic IRON|IRON]]"
+- "[[topic SHEKEL|SHEKEL]]"
+- "[[topic SPEAR|SPEAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H2671]]"
+- "[[H6086G]]"
+- "[[H2595]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H4500]]"
+- "[[H0707]]"
+- "[[H3852]]"
+- "[[H8337]]"
+- "[[H9014]]"
+- "[[H3967]]"
+- "[[H8255]]"
+- "[[H1270]]"
+- "[[H5375W]]"
+- "[[H9009]]"
+- "[[H6793C]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **1 Samuel 17:7**<big><big>[[1Sam.17.1 Goliath’s Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the staff of his spear [was] like a weaver’s beam; and his spear’s head [weighed] six hundred shekels of iron: and one bearing a shield went before him.
 <small><sub>**BSB:**</sub></small>
 The shaft of his spear was like a weaver’s beam, and its iron point weighed six hundred shekels. In addition, his shield bearer went before him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6086G\|עֵ֣ץ]] [[H2595\|חֲנִית֗]][[H9023\|וֹ]] [[H9004\|כִּ]][[H4500\|מְנוֹר֙]] [[H0707\|אֹֽרְגִ֔ים]] [[H9002\|וְ]][[H3852\|לַהֶ֣בֶת]] [[H2595\|חֲנִית֔]][[H9023\|וֹ]] [[H8337\|שֵׁשׁ]][[H9014\|־]] [[H3967\|מֵא֥וֹת]] [[H8255\|שְׁקָלִ֖ים]] [[H1270\|בַּרְזֶ֑ל]] [[H9002\|וְ]][[H5375W\|נֹשֵׂ֥א]] [[H9009\|הַ]][[H6793C\|צִּנָּ֖ה]] [[H1980G\|הֹלֵ֥ךְ]] [[H9005\|לְ]][[H6440G\|פָנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMOR-BEARER|ARMOR-BEARER]] • [[topic BEAM|BEAM]] • [[topic IRON|IRON]] • [[topic SHEKEL|SHEKEL]] • [[topic SPEAR|SPEAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.6|<< 1 Samuel 17:6]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.8|1 Samuel 17:8 >>]]</td></tr></table>
 
@@ -24,7 +82,7 @@ The shaft of his spear was like a weaver’s beam, and its iron point weighed si
 | \<to> before him  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6440G\|פָנָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> fa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.6|<< 1 Samuel 17:6]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.8|1 Samuel 17:8 >>]]</td></tr></table>
 
-[^1]: and [the] arrow of  | **<big>[[H2671|חָץ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> chatz<small><sup>[[HNcbsc]]</sup></small> | K
-[^2]: and [the] arrow of  | **<big>[[H2671|חָץ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> chatz<small><sup>[[HNcbsc]]</sup></small> | K
+[^1]: and [the] arrow of  | **<big>[[H9002|וְ]]</big><big>[[H2671|חָץ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> chatz<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: and [the] arrow of  | **<big>[[H9002|וְ]]</big><big>[[H2671|חָץ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> chatz<small><sup>[[HNcbsc]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וְחֵ֣ץ</big></span>**
 

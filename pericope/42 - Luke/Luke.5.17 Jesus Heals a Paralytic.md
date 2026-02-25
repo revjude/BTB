@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Heals a Paralytic
+type: Pericope
 pericope: "[[Luke.5.17 Jesus Heals a Paralytic|Jesus Heals a Paralytic]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Luke
 chapter: 5
 book/chapter: "[[Luke.5|Luke 5]]"
-genre:
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 10
 verses:
 - "[[Luke.5.17]]"
 - "[[Luke.5.18]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Luke.5.26]]"
 ---
 
-[[Luke.5|Luke 5:17 - Luke 5:26]]
+<small>[[Luke.5|Luke 5:17-26]]</small>
 *Jesus Heals a Paralytic*
 
 [[Luke.5.17|17]] And it came to pass on a certain day, as he was teaching, that there were Pharisees and doctors of the law sitting by, which were come out of every town of Galilee, and Judaea, and Jerusalem: and the power of the Lord was \[present\] to heal them.

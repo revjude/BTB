@@ -1,8 +1,81 @@
+---
+title: Genesis 30:33
+type: Verse
+kjv: "So shall my righteousness answer for me in time to come, when it shall come for my hire before thy face: every one that is not speckled and spotted among the goats, and brown among the sheep, that shall be counted stolen with me."
+bsb: "So my honesty will testify for me when you come to check on my wages in the future. If I have any goats that are not speckled or spotted, or any lambs that are not dark-colored, they will be considered stolen.”"
+hebrew: "וְעָֽנְתָה־ בִּ֤י צִדְקָתִי֙ בְּי֣וֹם מָחָ֔ר כִּֽי־ תָב֥וֹא עַל־ שְׂכָרִ֖י לְפָנֶ֑יךָ כֹּ֣ל אֲשֶׁר־ אֵינֶנּוּ֩ נָקֹ֨ד וְטָל֜וּא בָּֽעִזִּ֗ים וְחוּם֙ בַּכְּשָׂבִ֔ים גָּנ֥וּב ה֖וּא אִתִּֽי׃"
+pericope: "[[Gen.30.25 Jacob Prospers|Jacob Prospers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 30
+book/chapter: "[[Gen.30|Genesis 30]]"
+chronological_order: 72
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic RACHEL|RACHEL]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic WAGES|WAGES]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H6666]]"
+- "[[H9020]]"
+- "[[H3117G]]"
+- "[[H4279]]"
+- "[[H3588A]]"
+- "[[H0935G]]"
+- "[[H5921A]]"
+- "[[H7939]]"
+- "[[H9005]]"
+- "[[H6440L]]"
+- "[[H9021]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H5348]]"
+- "[[H9002]]"
+- "[[H2921]]"
+- "[[H5795]]"
+- "[[H2345]]"
+- "[[H3775]]"
+- "[[H1589]]"
+- "[[H1931]]"
+- "[[H0854]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 30:33**<big><big>[[Gen.30.25 Jacob Prospers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So shall my righteousness answer for me in time to come, when it shall come for my hire before thy face: every one that [is] not speckled and spotted among the goats, and brown among the sheep, that shall be counted stolen with me.
 <small><sub>**BSB:**</sub></small>
 So my honesty will testify for me when you come to check on my wages in the future. If I have any goats that are not speckled or spotted, or any lambs that are not dark-colored, they will be considered stolen.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6030B\|עָֽנְתָה]][[H9014\|־]] [[H9003\|בִּ֤]][[H9030\|י]] [[H6666\|צִדְקָתִ]][[H9020\|י֙]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H4279\|מָחָ֔ר]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0935G\|תָב֥וֹא]] [[H5921A\|עַל]][[H9014\|־]] [[H7939\|שְׂכָרִ֖]][[H9020\|י]] [[H9005\|לְ]][[H6440L\|פָנֶ֑י]][[H9021\|ךָ]] [[H3605\|כֹּ֣ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0369\|אֵינֶ]][[H9043\|נּוּ֩]] [[H5348\|נָקֹ֨ד]] [[H9002\|וְ]][[H2921\|טָל֜וּא]] [[H9003\|בָּֽ]][[H5795\|עִזִּ֗ים]] [[H9002\|וְ]][[H2345\|חוּם֙]] [[H9003\|בַּ]][[H3775\|כְּשָׂבִ֔ים]] [[H1589\|גָּנ֥וּב]] [[H1931\|ה֖וּא]] [[H0854\|אִתִּֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic JACOB|JACOB]] • [[topic LABAN|LABAN]] • [[topic RACHEL|RACHEL]] • [[topic SERVANT|SERVANT]] • [[topic SHEEP|SHEEP]] • [[topic WAGES|WAGES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.32|<< Genesis 30:32]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.34|Genesis 30:34 >>]]</td></tr></table>
 

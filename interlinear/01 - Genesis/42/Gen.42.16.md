@@ -1,8 +1,69 @@
+---
+title: Genesis 42:16
+type: Verse
+kjv: "Send one of you, and let him fetch your brother, and ye shall be kept in prison, that your words may be proved, whether there be any truth in you: or else by the life of Pharaoh surely ye are spies."
+bsb: "Send one of your number to get your brother; the rest of you will be confined so that the truth of your words may be tested. If they are untrue, then as surely as Pharaoh lives, you are spies!”"
+hebrew: "שִׁלְח֨וּ מִכֶּ֣ם אֶחָד֮ וְיִקַּ֣ח אֶת־ אֲחִיכֶם֒ וְאַתֶּם֙ הֵאָ֣סְר֔וּ וְיִבָּֽחֲנוּ֙ דִּבְרֵיכֶ֔ם הַֽאֱמֶ֖ת אִתְּכֶ֑ם וְאִם־ לֹ֕א חֵ֣י פַרְעֹ֔ה כִּ֥י מְרַגְּלִ֖ים אַתֶּֽם׃"
+pericope: "[[Gen.42.1 Joseph’s Brothers Sent to Egypt|Joseph’s Brothers Sent to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 42
+book/chapter: "[[Gen.42|Genesis 42]]"
+chronological_order: 84
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic DISSEMBLING|DISSEMBLING]]"
+- "[[topic PRISON|PRISON]]"
+strongs:
+- "[[H7971G]]"
+- "[[H9006]]"
+- "[[H9036]]"
+- "[[H0259]]"
+- "[[H9002]]"
+- "[[H3947J]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0251G]]"
+- "[[H9026]]"
+- "[[H0859D]]"
+- "[[H0631]]"
+- "[[H0974]]"
+- "[[H1697G]]"
+- "[[H9008]]"
+- "[[H0571H]]"
+- "[[H0854]]"
+- "[[H0518A]]"
+- "[[H3808]]"
+- "[[H2416A]]"
+- "[[H6547H]]"
+- "[[H3588A]]"
+- "[[H7270]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 42:16**<big><big>[[Gen.42.1 Joseph’s Brothers Sent to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Send one of you, and let him fetch your brother, and ye shall be kept in prison, that your words may be proved, whether [there be any] truth in you: or else by the life of Pharaoh surely ye [are] spies.
 <small><sub>**BSB:**</sub></small>
 Send one of your number to get your brother; the rest of you will be confined so that the truth of your words may be tested. If they are untrue, then as surely as Pharaoh lives, you are spies!”
+<small><sub>**Hebrew:**</sub></small>
+[[H7971G\|שִׁלְח֨וּ]] [[H9006\|מִ]][[H9036\|כֶּ֣ם]] [[H0259\|אֶחָד֮]] [[H9002\|וְ]][[H3947J\|יִקַּ֣ח]] [[H0853\|אֶת]][[H9014\|־]] [[H0251G\|אֲחִי]][[H9026\|כֶם֒]] [[H9002\|וְ]][[H0859D\|אַתֶּם֙]] [[H0631\|הֵאָ֣סְר֔וּ]] [[H9002\|וְ]][[H0974\|יִבָּֽחֲנוּ֙]] [[H1697G\|דִּבְרֵי]][[H9026\|כֶ֔ם]] [[H9008\|הַֽ]][[H0571H\|אֱמֶ֖ת]] [[H0854\|אִתְּ]][[H9036\|כֶ֑ם]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֕א]] [[H2416A\|חֵ֣י]] [[H6547H\|פַרְעֹ֔ה]] [[H3588A\|כִּ֥י]] [[H7270\|מְרַגְּלִ֖ים]] [[H0859D\|אַתֶּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic DISSEMBLING|DISSEMBLING]] • [[topic PRISON|PRISON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.15|<< Genesis 42:15]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.17|Genesis 42:17 >>]]</td></tr></table>
 

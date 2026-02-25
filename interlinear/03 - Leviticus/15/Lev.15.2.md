@@ -1,8 +1,65 @@
+---
+title: Leviticus 15:2
+type: Verse
+kjv: "Speak unto the children of Israel, and say unto them, When any man hath a running issue out of his flesh, because of his issue he is unclean."
+bsb: "“Say to the Israelites, ‘When any man has a bodily discharge, the discharge is unclean."
+hebrew: "דַּבְּרוּ֙ אֶל־ בְּנֵ֣י יִשְׂרָאֵ֔ל וַאֲמַרְתֶּ֖ם אֲלֵהֶ֑ם אִ֣ישׁ אִ֗ישׁ כִּ֤י יִהְיֶה֙ זָ֣ב מִבְּשָׂר֔וֹ זוֹב֖וֹ טָמֵ֥א הֽוּא׃"
+pericope: "[[Lev.15.1 The Uncleanness of Men|The Uncleanness of Men]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 15
+book/chapter: "[[Lev.15|Leviticus 15]]"
+chronological_order: 147
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9038]]"
+- "[[H0376G]]"
+- "[[H3588A]]"
+- "[[H1961]]"
+- "[[H2100H]]"
+- "[[H9006]]"
+- "[[H1320]]"
+- "[[H9023]]"
+- "[[H2101]]"
+- "[[H2931]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 15:2**<big><big>[[Lev.15.1 The Uncleanness of Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto the children of Israel, and say unto them, When any man hath a running issue out of his flesh, [because of] his issue he [is] unclean.
 <small><sub>**BSB:**</sub></small>
 “Say to the Israelites, ‘When any man has a bodily discharge, the discharge is unclean.
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבְּרוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וַ]][[H0559\|אֲמַרְתֶּ֖ם]] [[H0413\|אֲלֵ]][[H9038\|הֶ֑ם]] [[H0376G\|אִ֣ישׁ]] [[H0376G\|אִ֗ישׁ]] [[H3588A\|כִּ֤י]] [[H1961\|יִהְיֶה֙]] [[H2100H\|זָ֣ב]] [[H9006\|מִ]][[H1320\|בְּשָׂר֔]][[H9023\|וֹ]] [[H2101\|זוֹב֖]][[H9023\|וֹ]] [[H2931\|טָמֵ֥א]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.15.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.1|<< Leviticus 15:1]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.3|Leviticus 15:3 >>]]</td></tr></table>
 

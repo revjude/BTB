@@ -1,8 +1,49 @@
+---
+title: Job 41:27
+type: Verse
+kjv: "He esteemeth iron as straw, and brass as rotten wood."
+bsb: "He regards iron as straw and bronze as rotten wood."
+hebrew: "יַחְשֹׁ֣ב לְתֶ֣בֶן בַּרְזֶ֑ל לְעֵ֖ץ רִקָּב֣וֹן נְחוּשָֽׁה׃"
+pericope: "[[Job.41.1 The LORD’s Power Shown in Leviathan|The LORD’s Power Shown in Leviathan]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 41
+book/chapter: "[[Job.41|Job 41]]"
+chronological_order: 52
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H2803J]]"
+- "[[H9005]]"
+- "[[H8401]]"
+- "[[H1270]]"
+- "[[H6086G]]"
+- "[[H7539]]"
+- "[[H5154]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 41:27**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He esteemeth iron as straw, [and] brass as rotten wood.
 <small><sub>**BSB:**</sub></small>
 He regards iron as straw and bronze as rotten wood.
+<small><sub>**Hebrew:**</sub></small>
+[[H2803J\|יַחְשֹׁ֣ב]] [[H9005\|לְ]][[H8401\|תֶ֣בֶן]] [[H1270\|בַּרְזֶ֑ל]] [[H9005\|לְ]][[H6086G\|עֵ֖ץ]] [[H7539\|רִקָּב֣וֹן]] [[H5154\|נְחוּשָֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.26|<< Job 41:26]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.28|Job 41:28 >>]]</td></tr></table>
 

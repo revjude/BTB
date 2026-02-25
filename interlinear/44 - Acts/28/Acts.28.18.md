@@ -1,10 +1,52 @@
+---
+title: Acts 28:18
+type: Verse
+kjv: "Who, when they had examined me, would have let me go, because there was no cause of death in me."
+bsb: "They examined me and wanted to release me, because there was no basis for a death sentence against me."
+greek: "οἵτινες ἀνακρίναντές με ἐβούλοντο ἀπολῦσαι διὰ τὸ μηδεμίαν αἰτίαν θανάτου ὑπάρχειν ἐν ἐμοί·"
+pericope: "[[Acts.28.16 Paul Preaches at Rome|Paul Preaches at Rome]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 28
+book/chapter: "[[Acts.28|Acts 28]]"
+chronological_order: 1110
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G3748]]"
+- "[[G0350]]"
+- "[[G3165]]"
+- "[[G1014]]"
+- "[[G0630G]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G3367]]"
+- "[[G0156]]"
+- "[[G2288]]"
+- "[[G5225]]"
+- "[[G1722]]"
+- "[[G1473]]"
+texts:
+- NKO
+---
+
 **Acts 28:18**<big><big>[[Acts.28.16 Paul Preaches at Rome|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who, when they had examined me, would have let [me] go, because there was no cause of death in me.
 <small><sub>**BSB:**</sub></small>
 They examined me and wanted to release me, because there was no basis for a death sentence against me.
-<small><sub>**Literal:**</sub></small>
-who having examined me they were wanting to let [me] go on account of <the> not one cause of death existing in me myself;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.17|<< Acts 28:17]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.19|Acts 28:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3748\|οἵτινες]]  [[G0350\|ἀνακρίναντές]]  [[G3165\|με]]  [[G1014\|ἐβούλοντο]]  [[G0630G\|ἀπολῦσαι]]  [[G1223\|διὰ]]  [[G3588\|τὸ]]  [[G3367\|μηδεμίαν]]  [[G0156\|αἰτίαν]]  [[G2288\|θανάτου]]  [[G5225\|ὑπάρχειν]]  [[G1722\|ἐν]]  [[G1473\|ἐμοί·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.17|<< Acts 28:17]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.19|Acts 28:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

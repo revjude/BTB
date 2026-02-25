@@ -1,8 +1,69 @@
+---
+title: Ezekiel 5:6
+type: Verse
+kjv: "And she hath changed my judgments into wickedness more than the nations, and my statutes more than the countries that are round about her: for they have refused my judgments and my statutes, they have not walked in them."
+bsb: "But she has rebelled against My ordinances more wickedly than the nations, and against My statutes worse than the countries around her. For her people have rejected My ordinances and have not walked in My statutes.’"
+hebrew: "וַתֶּ֨מֶר אֶת־ מִשְׁפָּטַ֤י לְרִשְׁעָה֙ מִן־ הַגּוֹיִ֔ם וְאֶ֨ת־ חֻקּוֹתַ֔י מִן־ הָאֲרָצ֖וֹת אֲשֶׁ֣ר סְבִיבוֹתֶ֑יהָ כִּ֤י בְמִשְׁפָּטַי֙ מָאָ֔סוּ וְחֻקּוֹתַ֖י לֹא־ הָלְכ֥וּ בָהֶֽם׃ ס"
+pericope: "[[Ezek.5.1 The Razor of Judgment|The Razor of Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 5
+book/chapter: "[[Ezek.5|Ezekiel 5]]"
+chronological_order: 796
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H9001]]"
+- "[[H4784]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4941G]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H7564]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H9002]]"
+- "[[H2708]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H5439G]]"
+- "[[H9034]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H3988A]]"
+- "[[H3808]]"
+- "[[H1980I]]"
+- "[[H9038]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 5:6**<big><big>[[Ezek.5.1 The Razor of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she hath changed my judgments into wickedness more than the nations, and my statutes more than the countries that [are] round about her: for they have refused my judgments and my statutes, they have not walked in them.
 <small><sub>**BSB:**</sub></small>
 But she has rebelled against My ordinances more wickedly than the nations, and against My statutes worse than the countries around her. For her people have rejected My ordinances and have not walked in My statutes.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4784\|תֶּ֨מֶר]] [[H0853\|אֶת]][[H9014\|־]] [[H4941G\|מִשְׁפָּטַ֤]][[H9020\|י]] [[H9005\|לְ]][[H7564\|רִשְׁעָה֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֔ם]] [[H9002\|וְ]][[H0853\|אֶ֨ת]][[H9014\|־]] [[H2708\|חֻקּוֹתַ֔]][[H9020\|י]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אֲרָצ֖וֹת]] [[H0834A\|אֲשֶׁ֣ר]] [[H5439G\|סְבִיבוֹתֶ֑י]][[H9034\|הָ]] [[H3588A\|כִּ֤י]] [[H9003\|בְ]][[H4941G\|מִשְׁפָּטַ]][[H9020\|י֙]] [[H3988A\|מָאָ֔סוּ]] [[H9002\|וְ]][[H2708\|חֻקּוֹתַ֖]][[H9020\|י]] [[H3808\|לֹא]][[H9014\|־]] [[H1980I\|הָלְכ֥וּ]] [[H9003\|בָ]][[H9038\|הֶֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.5.5|<< Ezekiel 5:5]]</td><td align="center" style="border:none;">[[Ezek.5|Ezekiel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.5.7|Ezekiel 5:7 >>]]</td></tr></table>
 
@@ -26,7 +87,7 @@ But she has rebelled against My ordinances more wickedly than the nations, and a
 | and statutes my  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2708\|חֻקּוֹתַ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> chu.ko.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have walked  |**<big>&#8207;[[H1980I\|הָלְכ֥וּ]]&#8207; </big>**| ha.le.Khu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in them  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in them  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.5.5|<< Ezekiel 5:5]]</td><td align="center" style="border:none;">[[Ezek.5|Ezekiel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.5.7|Ezekiel 5:7 >>]]</td></tr></table>
 
 

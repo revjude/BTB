@@ -1,8 +1,60 @@
+---
+title: Psalm 104:20
+type: Verse
+kjv: "Thou makest darkness, and it is night: wherein all the beasts of the forest do creep forth."
+bsb: "You bring darkness, and it becomes night, when all the beasts of the forest prowl."
+hebrew: "תָּֽשֶׁת־ חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ־ תִ֝רְמֹ֗שׂ כָּל־ חַיְתוֹ־ יָֽעַר׃"
+pericope: "[[Ps.104.1 How Many Are Your Works, O LORD!|How Many Are Your Works, O LORD!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 104
+book/chapter: "[[Ps.104|Psalm 104]]"
+chronological_order: 528
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CREEPING THINGS|CREEPING THINGS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+strongs:
+- "[[H7896G]]"
+- "[[H9014]]"
+- "[[H2822]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H3915]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H7430]]"
+- "[[H3605]]"
+- "[[H2416C]]"
+- "[[H3293A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 104:20**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou makest darkness, and it is night: wherein all the beasts of the forest do creep [forth].
 <small><sub>**BSB:**</sub></small>
 You bring darkness, and it becomes night, when all the beasts of the forest prowl.
+<small><sub>**Hebrew:**</sub></small>
+[[H7896G\|תָּֽשֶׁת]][[H9014\|־]] [[H2822\|חֹ֭שֶׁךְ]] [[H9002\|וִ֣]][[H1961\|יהִי]] [[H3915\|לָ֑יְלָה]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9014\|־]] [[H7430\|תִ֝רְמֹ֗שׂ]] [[H3605\|כָּל]][[H9014\|־]] [[H2416C\|חַיְתוֹ]][[H9014\|־]] [[H3293A\|יָֽעַר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BLESSING|BLESSING]] • [[topic CREEPING THINGS|CREEPING THINGS]] • [[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.19|<< Psalms 104:19]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.21|Psalms 104:21 >>]]</td></tr></table>
 

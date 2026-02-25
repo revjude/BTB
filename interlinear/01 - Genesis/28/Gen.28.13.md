@@ -1,8 +1,73 @@
+---
+title: Genesis 28:13
+type: Verse
+kjv: "And, behold, the LORD stood above it, and said, I am the LORD God of Abraham thy father, and the God of Isaac: the land whereon thou liest, to thee will I give it, and to thy seed;"
+bsb: "And there at the top the LORD was standing and saying, “I am the LORD, the God of your father Abraham and the God of Isaac. I will give you and your descendants the land on which you now lie."
+hebrew: "וְהִנֵּ֨ה יְהוָ֜ה נִצָּ֣ב עָלָיו֮ וַיֹּאמַר֒ אֲנִ֣י יְהוָ֗ה אֱלֹהֵי֙ אַבְרָהָ֣ם אָבִ֔יךָ וֵאלֹהֵ֖י יִצְחָ֑ק הָאָ֗רֶץ אֲשֶׁ֤ר אַתָּה֙ שֹׁכֵ֣ב עָלֶ֔יהָ לְךָ֥ אֶתְּנֶ֖נָּה וּלְזַרְעֶֽךָ׃"
+pericope: "[[Gen.28.10 Jacob’s Ladder|Jacob’s Ladder]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 28
+book/chapter: "[[Gen.28|Genesis 28]]"
+chronological_order: 70
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H3068G]]"
+- "[[H5324]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0589]]"
+- "[[H0430G]]"
+- "[[H0085]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H3327]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H0859A]]"
+- "[[H7901G]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H5414G]]"
+- "[[H2233H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 28:13**<big><big>[[Gen.28.10 Jacob’s Ladder|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, the LORD stood above it, and said, I [am] the LORD God of Abraham thy father, and the God of Isaac: the land whereon thou liest, to thee will I give it, and to thy seed;
 <small><sub>**BSB:**</sub></small>
 And there at the top the LORD was standing and saying, “I am the LORD, the God of your father Abraham and the God of Isaac. I will give you and your descendants the land on which you now lie.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֨ה]] [[H3068G\|יְהוָ֜ה]] [[H5324\|נִצָּ֣ב]] [[H5921A\|עָלָי]][[H9033\|ו֮]] [[H9001\|וַ]][[H0559\|יֹּאמַר֒]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָ֗ה]] [[H0430G\|אֱלֹהֵי֙]] [[H0085\|אַבְרָהָ֣ם]] [[H0001G\|אָבִ֔י]][[H9021\|ךָ]] [[H9002\|וֵ]][[H0430G\|אלֹהֵ֖י]] [[H3327\|יִצְחָ֑ק]] [[H9009\|הָ]][[H0776G\|אָ֗רֶץ]] [[H0834A\|אֲשֶׁ֤ר]] [[H0859A\|אַתָּה֙]] [[H7901G\|שֹׁכֵ֣ב]] [[H5921A\|עָלֶ֔י]][[H9034\|הָ]] [[H9005\|לְ]][[H9031\|ךָ֥]] [[H5414G\|אֶתְּנֶ֖]][[H9034\|נָּה]] [[H9002\|וּ]][[H9005\|לְ]][[H2233H\|זַרְעֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic BETH-EL|BETH-EL]] • [[topic COMMUNION|COMMUNION]] • [[topic COVENANT|COVENANT]] • [[topic JACOB|JACOB]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.28.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.12|<< Genesis 28:12]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.14|Genesis 28:14 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment against Idolatry
+type: Pericope
 pericope: "[[Ezek.6.1 Judgment against Idolatry|Judgment against Idolatry]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 6
 book/chapter: "[[Ezek.6|Ezekiel 6]]"
-genre:
+chronological_order: 797
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 7
 verses:
 - "[[Ezek.6.1]]"
 - "[[Ezek.6.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Ezek.6.7]]"
 ---
 
-[[Ezek.6|Ezekiel 6:1 - Ezekiel 6:7]]
+<small>[[Ezek.6|Ezekiel 6:1-7]]</small>
 *Judgment against Idolatry*
 
 [[Ezek.6.1|1]] And the word of the LORD came unto me, saying,

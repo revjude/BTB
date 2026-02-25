@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Love Your Enemies
+type: Pericope
 pericope: "[[Luke.6.27 Love Your Enemies|Love Your Enemies]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Luke
 chapter: 6
 book/chapter: "[[Luke.6|Luke 6]]"
-genre:
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 10
 verses:
 - "[[Luke.6.27]]"
 - "[[Luke.6.28]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Luke.6.36]]"
 ---
 
-[[Luke.6|Luke 6:27 - Luke 6:36]]
+<small>[[Luke.6|Luke 6:27-36]]</small>
 *Love Your Enemies*
 
 [[Luke.6.27|27]] But I say unto you which hear, Love your enemies, do good to them which hate you,

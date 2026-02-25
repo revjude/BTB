@@ -1,8 +1,67 @@
+---
+title: 2 Kings 8:2
+type: Verse
+kjv: "And the woman arose, and did after the saying of the man of God: and she went with her household, and sojourned in the land of the Philistines seven years."
+bsb: "So the woman had proceeded to do as the man of God had instructed. And she and her household lived as foreigners for seven years in the land of the Philistines."
+hebrew: "וַתָּ֙קָם֙ הָֽאִשָּׁ֔ה וַתַּ֕עַשׂ כִּדְבַ֖ר אִ֣ישׁ הָאֱלֹהִ֑ים וַתֵּ֤לֶךְ הִיא֙ וּבֵיתָ֔הּ וַתָּ֥גָר בְּאֶֽרֶץ־ פְּלִשְׁתִּ֖ים שֶׁ֥בַע שָׁנִֽים׃"
+pericope: "[[2Kgs.8.1 The Shunammite’s Land Restored|The Shunammite’s Land Restored]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 8
+book/chapter: "[[2Kgs.8|2 Kings 8]]"
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic KING|KING]]"
+- "[[topic LAND|LAND]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H1697G]]"
+- "[[H0376G]]"
+- "[[H0430G]]"
+- "[[H1980G]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H1004M]]"
+- "[[H9024]]"
+- "[[H1481A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9014]]"
+- "[[H6430G]]"
+- "[[H7651]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 8:2**<big><big>[[2Kgs.8.1 The Shunammite’s Land Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the woman arose, and did after the saying of the man of God: and she went with her household, and sojourned in the land of the Philistines seven years.
 <small><sub>**BSB:**</sub></small>
 So the woman had proceeded to do as the man of God had instructed. And she and her household lived as foreigners for seven years in the land of the Philistines.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|תָּ֙קָם֙]] [[H9009\|הָֽ]][[H0802G\|אִשָּׁ֔ה]] [[H9001\|וַ]][[H6213A\|תַּ֕עַשׂ]] [[H9004\|כִּ]][[H1697G\|דְבַ֖ר]] [[H0376G\|אִ֣ישׁ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H9001\|וַ]][[H1980G\|תֵּ֤לֶךְ]] [[H1931\|הִיא֙]] [[H9002\|וּ]][[H1004M\|בֵיתָ֔]][[H9024\|הּ]] [[H9001\|וַ]][[H1481A\|תָּ֥גָר]] [[H9003\|בְּ]][[H0776G\|אֶֽרֶץ]][[H9014\|־]] [[H6430G\|פְּלִשְׁתִּ֖ים]] [[H7651\|שֶׁ֥בַע]] [[H8141\|שָׁנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELISHA|ELISHA]] • [[topic JUDGE|JUDGE]] • [[topic KING|KING]] • [[topic LAND|LAND]] • [[topic PROPERTY|PROPERTY]] • [[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.1|<< 2 Kings 8:1]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.3|2 Kings 8:3 >>]]</td></tr></table>
 

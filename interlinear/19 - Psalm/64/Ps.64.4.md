@@ -1,8 +1,56 @@
+---
+title: Psalm 64:4
+type: Verse
+kjv: "That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not."
+bsb: "ambushing the innocent in seclusion, shooting suddenly, without fear."
+hebrew: "לִיר֣וֹת בַּמִּסְתָּרִ֣ים תָּ֑ם פִּתְאֹ֥ם יֹ֝רֻ֗הוּ וְלֹ֣א יִירָֽאוּ׃"
+pericope: "[[Ps.64.1 The Hurtful Tongue|The Hurtful Tongue]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 64
+book/chapter: "[[Ps.64|Psalm 64]]"
+chronological_order: 374
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic MALICE|MALICE]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9005]]"
+- "[[H3384A]]"
+- "[[H9003]]"
+- "[[H4565]]"
+- "[[H8535]]"
+- "[[H6597]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3372G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 64:4**<big><big>[[Ps.64.1 The Hurtful Tongue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.
 <small><sub>**BSB:**</sub></small>
 ambushing the innocent in seclusion, shooting suddenly, without fear.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H3384A\|יר֣וֹת]] [[H9003\|בַּ]][[H4565\|מִּסְתָּרִ֣ים]] [[H8535\|תָּ֑ם]] [[H6597\|פִּתְאֹ֥ם]] [[H3384A\|יֹ֝רֻ֗]][[H9033\|הוּ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3372G\|יִירָֽאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MALICE|MALICE]] • [[topic SPEAKING|SPEAKING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.64.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.64.3|<< Psalms 64:3]]</td><td align="center" style="border:none;">[[Ps.64|Psalms 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.64.5|Psalms 64:5 >>]]</td></tr></table>
 

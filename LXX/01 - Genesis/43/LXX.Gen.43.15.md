@@ -1,6 +1,67 @@
+---
+title: LXX Genesis 43:15
+type: Verse
+lxx: "And the men receiving  these gifts, and the double silver they took in  their hands, and  Benjamin, and rising up they went down into Egypt, and stood before Joseph."
+greek: "λαβόντες δε οι άνδρες τα δώρα ταύτα και το αργύριον διπλούν έλαβον εν ταις χερσίν αυτών και τον Βενιαμίν και αναστάντες κατέβησαν εις Αίγυπτον και έστησαν εναντίον Ιωσήφ"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 43
+book/chapter: "[[Gen.43|Genesis 43]]"
+chronological_order: 85
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic MONEY|MONEY]]"
+strongs:
+- "[[G2983]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G0435]]"
+- "[[G3588]]"
+- "[[G1435]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0694]]"
+- "[[G1362]]"
+- "[[G2983]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0958]]"
+- "[[G2532]]"
+- "[[G0450]]"
+- "[[G2597]]"
+- "[[G1519]]"
+- "[[G0125]]"
+- "[[G2532]]"
+- "[[G2476]]"
+- "[[G1726]]"
+- "[[G2501]]"
+---
+
 **LXX Genesis 43:15** 
 <small><sub>**LXX:**</sub></small>
 And the men receiving  these gifts, and the double silver they took in  their hands, and  Benjamin, and rising up they went down into Egypt, and stood before Joseph. 
+<small><sub>**Greek:**</sub></small>
+[[G2983\|λαβόντες]] [[G1161\|δε]] [[G3588\|οι]] [[G0435\|άνδρες]] [[G3588\|τα]] [[G1435\|δώρα]] [[G3778\|ταύτα]] [[G2532\|και]] [[G3588\|το]] [[G0694\|αργύριον]] [[G1362\|διπλούν]] [[G2983\|έλαβον]] [[G1722\|εν]] [[G3588\|ταις]] [[G5495\|χερσίν]] [[G1473\|αυτών]] [[G2532\|και]] [[G3588\|τον]] [[G0958\|Βενιαμίν]] [[G2532\|και]] [[G0450\|αναστάντες]] [[G2597\|κατέβησαν]] [[G1519\|εις]] [[G0125\|Αίγυπτον]] [[G2532\|και]] [[G2476\|έστησαν]] [[G1726\|εναντίον]] [[G2501\|Ιωσήφ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTEGRITY|INTEGRITY]] • [[topic MONEY|MONEY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.43.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.14|<< Genesis 43:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.16|Genesis 43:16 >>]]</td></tr></table>
 
@@ -32,6 +93,6 @@ And the men receiving  these gifts, and the double silver they took in  their ha
 | stood | **<big>[[G2476\|έστησαν]]</big>** |
 | before | **<big>[[G1726\|εναντίον]]</big>** |
 | Joseph. | **<big>[[G2501\|Ιωσήφ]]</big>** |
-[[Gen.43.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.14|<< Genesis 43:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.16|Genesis 43:16 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.14|<< Genesis 43:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.16|Genesis 43:16 >>]]</td></tr></table>
 
 

@@ -1,8 +1,62 @@
+---
+title: Ecclesiastes 2:16
+type: Verse
+kjv: "For there is no remembrance of the wise more than of the fool for ever; seeing that which now is in the days to come shall all be forgotten. And how dieth the wise man? as the fool."
+bsb: "For there is no lasting remembrance of the wise, just as with the fool, seeing that both will be forgotten in the days to come. Alas, the wise man will die just like the fool!"
+hebrew: "כִּי֩ אֵ֨ין זִכְר֧וֹן לֶחָכָ֛ם עִֽם־ הַכְּסִ֖יל לְעוֹלָ֑ם בְּשֶׁכְּבָ֞ר הַיָּמִ֤ים הַבָּאִים֙ הַכֹּ֣ל נִשְׁכָּ֔ח וְאֵ֛יךְ יָמ֥וּת הֶחָכָ֖ם עִֽם־ הַכְּסִֽיל׃"
+pericope: "[[Eccl.2.12 The Wise and the Foolish|The Wise and the Foolish]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 2
+book/chapter: "[[Eccl.2|Ecclesiastes 2]]"
+chronological_order: 540
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H2146]]"
+- "[[H9005]]"
+- "[[H2450]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3684]]"
+- "[[H5769G]]"
+- "[[H9003]]"
+- "[[H9007]]"
+- "[[H3528]]"
+- "[[H3117G]]"
+- "[[H0935G]]"
+- "[[H3605]]"
+- "[[H7911]]"
+- "[[H9002]]"
+- "[[H0349A]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 2:16**<big><big>[[Eccl.2.12 The Wise and the Foolish|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [there is] no remembrance of the wise more than of the fool for ever; seeing that which now [is] in the days to come shall all be forgotten. And how dieth the wise [man]? as the fool.
 <small><sub>**BSB:**</sub></small>
 For there is no lasting remembrance of the wise, just as with the fool, seeing that both will be forgotten in the days to come. Alas, the wise man will die just like the fool!
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H0369\|אֵ֨ין]] [[H2146\|זִכְר֧וֹן]] [[H9005\|לֶ]][[H2450\|חָכָ֛ם]] [[H5973A\|עִֽם]][[H9014\|־]] [[H9009\|הַ]][[H3684\|כְּסִ֖יל]] [[H9005\|לְ]][[H5769G\|עוֹלָ֑ם]] [[H9003\|בְּ]][[H9007\|שֶׁ]][[H3528\|כְּבָ֞ר]] [[H9009\|הַ]][[H3117G\|יָּמִ֤ים]] [[H9009\|הַ]][[H0935G\|בָּאִים֙]] [[H9009\|הַ]][[H3605\|כֹּ֣ל]] [[H7911\|נִשְׁכָּ֔ח]] [[H9002\|וְ]][[H0349A\|אֵ֛יךְ]] [[H4191\|יָמ֥וּת]] [[H9009\|הֶ]][[H2450\|חָכָ֖ם]] [[H5973A\|עִֽם]][[H9014\|־]] [[H9009\|הַ]][[H3684\|כְּסִֽיל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.15|<< Ecclesiastes 2:15]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.17|Ecclesiastes 2:17 >>]]</td></tr></table>
 

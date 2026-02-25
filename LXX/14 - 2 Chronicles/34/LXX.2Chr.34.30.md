@@ -1,6 +1,82 @@
+---
+title: LXX 2 Chronicles 34:30
+type: Verse
+lxx: "And the king ascended into the house of the lord, and all Judah, and the ones dwelling in Jerusalem, and the priests, and the Levites, and all the people from small unto great. And he read in their ears all the words of the scroll of the covenant  being found in the house of the lord."
+greek: "και ανέβη ο βασιλεύς εις οίκον κυρίου και πας Ιούδα και οι κατοικούντες Ιερουσαλήμ και οι ιερείς και οι Λευίται και πας ο λαός από μικρού έως μεγάλου και ανέγνω εν ωσίν αυτών πάντας τους λόγους του βιβλίου της διαθήκης του ευρεθέντος εν οίκω κυρίου"
+original_language: Greek
+testament: Old
+book: 2 Chronicles
+chapter: 34
+book/chapter: "[[2Chr.34|2 Chronicles 34]]"
+chronological_order: 713
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- septuagint
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G0305]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G1519]]"
+- "[[G3624]]"
+- "[[G2962]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G2448]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2730]]"
+- "[[G2419]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2409]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3017]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G0575]]"
+- "[[G3398]]"
+- "[[G2193]]"
+- "[[G3173]]"
+- "[[G2532]]"
+- "[[G0314]]"
+- "[[G1722]]"
+- "[[G3775]]"
+- "[[G1473]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G3588]]"
+- "[[G0975]]"
+- "[[G3588]]"
+- "[[G1242]]"
+- "[[G3588]]"
+- "[[G2147]]"
+- "[[G1722]]"
+- "[[G3624]]"
+- "[[G2962]]"
+---
+
 **LXX 2 Chronicles 34:30** 
 <small><sub>**LXX:**</sub></small>
 And the king ascended into \[the\] house of \[the\] <span class="smallcaps">lord</span>, and all Judah, and the ones dwelling in Jerusalem, and the priests, and the Levites, and all the people from small unto great. And he read in their ears all the words of the scroll of the covenant  being found in \[the\] house of \[the\] <span class="smallcaps">lord</span>. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0305\|ανέβη]] [[G3588\|ο]] [[G0935\|βασιλεύς]] [[G1519\|εις]] [[G3624\|οίκον]] [[G2962\|κυρίου]] [[G2532\|και]] [[G3956\|πας]] [[G2448\|Ιούδα]] [[G2532\|και]] [[G3588\|οι]] [[G2730\|κατοικούντες]] [[G2419\|Ιερουσαλήμ]] [[G2532\|και]] [[G3588\|οι]] [[G2409\|ιερείς]] [[G2532\|και]] [[G3588\|οι]] [[G3017\|Λευίται]] [[G2532\|και]] [[G3956\|πας]] [[G3588\|ο]] [[G2992\|λαός]] [[G0575\|από]] [[G3398\|μικρού]] [[G2193\|έως]] [[G3173\|μεγάλου]] [[G2532\|και]] [[G0314\|ανέγνω]] [[G1722\|εν]] [[G3775\|ωσίν]] [[G1473\|αυτών]] [[G3956\|πάντας]] [[G3588\|τους]] [[G3056\|λόγους]] [[G3588\|του]] [[G0975\|βιβλίου]] [[G3588\|της]] [[G1242\|διαθήκης]] [[G3588\|του]] [[G2147\|ευρεθέντος]] [[G1722\|εν]] [[G3624\|οίκω]] [[G2962\|κυρίου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic JOSIAH|JOSIAH]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Chr.34.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.29|<< 2 Chronicles 34:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.31|2 Chronicles 34:31 >>]]</td></tr></table>
 
@@ -50,6 +126,6 @@ And the king ascended into \[the\] house of \[the\] <span class="smallcaps">lord
 | in | **<big>[[G1722\|εν]]</big>** |
 | \[the\] house | **<big>[[G3624\|οίκω]]</big>** |
 | of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
-[[2Chr.34.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.29|<< 2 Chronicles 34:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.31|2 Chronicles 34:31 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.29|<< 2 Chronicles 34:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.31|2 Chronicles 34:31 >>]]</td></tr></table>
 
 

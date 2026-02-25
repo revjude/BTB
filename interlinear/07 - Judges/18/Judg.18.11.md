@@ -1,8 +1,59 @@
+---
+title: Judges 18:11
+type: Verse
+kjv: "And there went from thence of the family of the Danites, out of Zorah and out of Eshtaol, six hundred men appointed with weapons of war."
+bsb: "So six hundred Danites departed from Zorah and Eshtaol, armed with weapons of war."
+hebrew: "וַיִּסְע֤וּ מִשָּׁם֙ מִמִּשְׁפַּ֣חַת הַדָּנִ֔י מִצָּרְעָ֖ה וּמֵאֶשְׁתָּאֹ֑ל שֵֽׁשׁ־ מֵא֣וֹת אִ֔ישׁ חָג֖וּר כְּלֵ֥י מִלְחָמָֽה׃"
+pericope: "[[Judg.18.1 The Danites Settle in Laish|The Danites Settle in Laish]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 18
+book/chapter: "[[Judg.18|Judges 18]]"
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ESHTAOL|ESHTAOL]]"
+- "[[topic JONATHAN|JONATHAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5265]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H4940]]"
+- "[[H9009]]"
+- "[[H1839]]"
+- "[[H6881]]"
+- "[[H9002]]"
+- "[[H0847]]"
+- "[[H8337]]"
+- "[[H9014]]"
+- "[[H3967]]"
+- "[[H0376G]]"
+- "[[H2296]]"
+- "[[H3627]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 18:11**<big><big>[[Judg.18.1 The Danites Settle in Laish|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there went from thence of the family of the Danites, out of Zorah and out of Eshtaol, six hundred men appointed with weapons of war.
 <small><sub>**BSB:**</sub></small>
 So six hundred Danites departed from Zorah and Eshtaol, armed with weapons of war.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5265\|יִּסְע֤וּ]] [[H9006\|מִ]][[H8033G\|שָּׁם֙]] [[H9006\|מִ]][[H4940\|מִּשְׁפַּ֣חַת]] [[H9009\|הַ]][[H1839\|דָּנִ֔י]] [[H9006\|מִ]][[H6881\|צָּרְעָ֖ה]] [[H9002\|וּ]][[H9006\|מֵ]][[H0847\|אֶשְׁתָּאֹ֑ל]] [[H8337\|שֵֽׁשׁ]][[H9014\|־]] [[H3967\|מֵא֣וֹת]] [[H0376G\|אִ֔ישׁ]] [[H2296\|חָג֖וּר]] [[H3627\|כְּלֵ֥י]] [[H4421\|מִלְחָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ESHTAOL|ESHTAOL]] • [[topic JONATHAN|JONATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.10|<< Judges 18:10]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.12|Judges 18:12 >>]]</td></tr></table>
 

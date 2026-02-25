@@ -1,8 +1,72 @@
+---
+title: Numbers 18:8
+type: Verse
+kjv: "And the LORD spake unto Aaron, Behold, I also have given thee the charge of mine heave offerings of all the hallowed things of the children of Israel; unto thee have I given them by reason of the anointing, and to thy sons, by an ordinance for ever."
+bsb: "Then the LORD said to Aaron, “Behold, I have put you in charge of My offerings. As for all the sacred offerings of the Israelites, I have given them to you and your sons as a portion and a permanent statute."
+hebrew: "וַיְדַבֵּ֣ר יְהוָה֮ אֶֽל־ אַהֲרֹן֒ וַאֲנִי֙ הִנֵּ֣ה נָתַ֣תִּֽי לְךָ֔ אֶת־ מִשְׁמֶ֖רֶת תְּרוּמֹתָ֑י לְכָל־ קָדְשֵׁ֣י בְנֵֽי־ יִ֠שְׂרָאֵל לְךָ֨ נְתַתִּ֧ים לְמָשְׁחָ֛ה וּלְבָנֶ֖יךָ לְחָק־ עוֹלָֽם׃"
+pericope: "[[Num.18.8 Offerings for Priests and Levites|Offerings for Priests and Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 18
+book/chapter: "[[Num.18|Numbers 18]]"
+chronological_order: 178
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ORDINANCE|ORDINANCE]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H2009]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0853]]"
+- "[[H4931]]"
+- "[[H8641]]"
+- "[[H9020]]"
+- "[[H3605]]"
+- "[[H6944G]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9038]]"
+- "[[H4888B]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H2706H]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 18:8**<big><big>[[Num.18.8 Offerings for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD spake unto Aaron, Behold, I also have given thee the charge of mine heave offerings of all the hallowed things of the children of Israel; unto thee have I given them by reason of the anointing, and to thy sons, by an ordinance for ever.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Aaron, “Behold, I have put you in charge of My offerings. As for all the sacred offerings of the Israelites, I have given them to you and your sons as a portion and a permanent statute.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֣ר]] [[H3068G\|יְהוָה֮]] [[H0413\|אֶֽל]][[H9014\|־]] [[H0175\|אַהֲרֹן֒]] [[H9002\|וַ]][[H0589\|אֲנִי֙]] [[H2009\|הִנֵּ֣ה]] [[H5414G\|נָתַ֣תִּֽי]] [[H9005\|לְ]][[H9031\|ךָ֔]] [[H0853\|אֶת]][[H9014\|־]] [[H4931\|מִשְׁמֶ֖רֶת]] [[H8641\|תְּרוּמֹתָ֑]][[H9020\|י]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H6944G\|קָדְשֵׁ֣י]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִ֠שְׂרָאֵל]] [[H9005\|לְ]][[H9031\|ךָ֨]] [[H5414G\|נְתַתִּ֧י]][[H9038\|ם]] [[H9005\|לְ]][[H4888B\|מָשְׁחָ֛ה]] [[H9002\|וּ]][[H9005\|לְ]][[H1121A\|בָנֶ֖י]][[H9021\|ךָ]] [[H9005\|לְ]][[H2706H\|חָק]][[H9014\|־]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ORDINANCE|ORDINANCE]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.7|<< Numbers 18:7]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.9|Numbers 18:9 >>]]</td></tr></table>
 

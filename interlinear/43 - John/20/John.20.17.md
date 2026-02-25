@@ -1,10 +1,69 @@
+---
+title: John 20:17
+type: Verse
+kjv: "Jesus saith unto her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and to my God, and your God."
+bsb: "“Do not cling to Me,” Jesus said, “for I have not yet ascended to the Father. But go and tell My brothers, ‘I am ascending to My Father and your Father, to My God and your God.’”"
+jesus_said: "Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and to my God, and your God."
+greek: "λέγει αὐτῇ ὁ Ἰησοῦς· μή μου ἅπτου· οὔπω γὰρ ἀναβέβηκα πρὸς τὸν πατέρα μου. πορεύου δὲ πρὸς τοὺς ἀδελφούς μου καὶ εἰπὲ αὐτοῖς· ἀναβαίνω πρὸς τὸν πατέρα μου καὶ πατέρα ὑμῶν καὶ θεόν μου καὶ θεὸν ὑμῶν.¶"
+pericope: "[[John.20.10 Jesus Appears to Mary Magdalene|Jesus Appears to Mary Magdalene]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 20
+book/chapter: "[[John.20|John 20]]"
+chronological_order: 1017
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MARY|MARY]]"
+- "[[topic TROUBLE|TROUBLE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3361]]"
+- "[[G3165]]"
+- "[[G0681]]"
+- "[[G3768]]"
+- "[[G1063]]"
+- "[[G0305]]"
+- "[[G4314]]"
+- "[[G3962]]"
+- "[[G4198]]"
+- "[[G1161]]"
+- "[[G0080]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4771]]"
+- "[[G2316]]"
+texts:
+- NKO
+- k
+- ko
+---
+
 **John 20:17**<big><big>[[John.20.10 Jesus Appears to Mary Magdalene|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus saith unto her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and [to] my God, and your God.
 <small><sub>**BSB:**</sub></small>
 “Do not cling to Me,” Jesus said, “for I have not yet ascended to the Father. But go and tell My brothers, ‘I am ascending to My Father and your Father, to My God and your God.’”
-<small><sub>**Literal:**</sub></small>
-Says to her <the> Jesus: Not Me do yourself touch; not yet for have I ascended to the Father of mine. do go however to the brothers of Mine and do say to them; I am ascending to the Father of Mine and Father of you and [to] God of Mine and God of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.16|<< John 20:16]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.18|John 20:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγει]]  [[G0846\|αὐτῇ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G3361\|μή]]  [[G3165\|μου]]  [[G0681\|ἅπτου·]]  [[G3768\|οὔπω]]  [[G1063\|γὰρ]]  [[G0305\|ἀναβέβηκα]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G3165\|μου.]]  [[G4198\|πορεύου]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G0080\|ἀδελφούς]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G2036\|εἰπὲ]]  [[G0846\|αὐτοῖς·]]  [[G0305\|ἀναβαίνω]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G3962\|πατέρα]]  [[G4771\|ὑμῶν]]  [[G2532\|καὶ]]  [[G2316\|θεόν]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G2316\|θεὸν]]  [[G4771\|ὑμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRATERNITY|FRATERNITY]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic MARY|MARY]] • [[topic TROUBLE|TROUBLE]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.16|<< John 20:16]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.18|John 20:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **John 20:17** is...
 > $\quad$ alluding to: [[LXX.Ps.22.22|Ps 22:22]]

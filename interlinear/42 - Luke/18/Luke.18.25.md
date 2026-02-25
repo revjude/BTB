@@ -1,10 +1,62 @@
+---
+title: Luke 18:25
+type: Verse
+kjv: "For it is easier for a camel to go through a needle’s eye, than for a rich man to enter into the kingdom of God."
+bsb: "Indeed, it is easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of God.”"
+jesus_said: "For it is easier for a camel to go through a needle’s eye, than for a rich man to enter into the kingdom of God."
+greek: "εὐκοπώτερον γάρ ἐστιν κάμηλον διὰ τρήματος βελόνης εἰσελθεῖν ἢ πλούσιον εἰς τὴν βασιλείαν τοῦ θεοῦ εἰσελθεῖν.¶"
+pericope: "[[Luke.18.18 The Rich Young Ruler|The Rich Young Ruler]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 18
+book/chapter: "[[Luke.18|Luke 18]]"
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic NEEDLE|NEEDLE]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G2123]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G2574]]"
+- "[[G1223]]"
+- "[[G6085]]"
+- "[[G6011]]"
+- "[[G1525]]"
+- "[[G2228]]"
+- "[[G4145]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G2316]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 18:25**<big><big>[[Luke.18.18 The Rich Young Ruler|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For it is easier for a camel to go through a needle’s eye, than for a rich man to enter into the kingdom of God.
 <small><sub>**BSB:**</sub></small>
 Indeed, it is easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of God.”
-<small><sub>**Literal:**</sub></small>
-Easier for it is a camel through an eye of a needle to go than a rich man into the kingdom <the> of God to enter.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.24|<< Luke 18:24]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.26|Luke 18:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2123\|εὐκοπώτερον]]  [[G1063\|γάρ]]  [[G1510\|ἐστιν]]  [[G2574\|κάμηλον]]  [[G1223\|διὰ]]  [[G6085\|τρήματος]]  [[G6011\|βελόνης]]  [[G1525\|εἰσελθεῖν]]  [[G2228\|ἢ]]  [[G4145\|πλούσιον]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1525\|εἰσελθεῖν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic NEEDLE|NEEDLE]] • [[topic RICH, THE|RICH, THE]] • [[topic RICHES|RICHES]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.24|<< Luke 18:24]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.26|Luke 18:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

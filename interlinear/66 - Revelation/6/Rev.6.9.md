@@ -1,10 +1,61 @@
+---
+title: Revelation 6:9
+type: Verse
+kjv: "And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held:"
+bsb: "And when the Lamb opened the fifth seal, I saw under the altar the souls of those who had been slain for the word of God and for the testimony they had upheld."
+greek: "Καὶ ὅτε ἤνοιξεν τὴν πέμπτην σφραγῖδα, εἶδον ὑποκάτω τοῦ θυσιαστηρίου τὰς ψυχὰς τῶν ἐσφαγμένων διὰ τὸν λόγον τοῦ θεοῦ καὶ διὰ τὴν μαρτυρίαν τοῦ ἀρνίου ἣν εἶχον."
+pericope: "[[Rev.6.9 The Fifth Seal：The Martyrs|The Fifth Seal：The Martyrs]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 6
+book/chapter: "[[Rev.6|Revelation 6]]"
+chronological_order: 1173
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3753]]"
+- "[[G0455]]"
+- "[[G3588]]"
+- "[[G3991]]"
+- "[[G4973]]"
+- "[[G1492H]]"
+- "[[G5270]]"
+- "[[G2379]]"
+- "[[G5590G]]"
+- "[[G4969]]"
+- "[[G1223]]"
+- "[[G3056]]"
+- "[[G2316]]"
+- "[[G3141]]"
+- "[[G0721]]"
+- "[[G3739]]"
+- "[[G2192]]"
+texts:
+- NKO
+- O
+---
+
 **Revelation 6:9**<big><big>[[Rev.6.9 The Fifth Seal：The Martyrs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held:
 <small><sub>**BSB:**</sub></small>
 And when the Lamb opened the fifth seal, I saw under the altar the souls of those who had been slain for the word of God and for the testimony they had upheld.
-<small><sub>**Literal:**</sub></small>
-And when He opened the fifth seal, I saw under the altar the souls of those slain because of the word <the> of God and because of the testimony of the lamb which they were upholding.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.8|<< Revelation 6:8]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.10|Revelation 6:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3753\|ὅτε]]  [[G0455\|ἤνοιξεν]]  [[G3588\|τὴν]]  [[G3991\|πέμπτην]]  [[G4973\|σφραγῖδα,]]  [[G1492H\|εἶδον]]  [[G5270\|ὑποκάτω]]  [[G3588\|τοῦ]]  [[G2379\|θυσιαστηρίου]]  [[G3588\|τὰς]]  [[G5590G\|ψυχὰς]]  [[G3588\|τῶν]]  [[G4969\|ἐσφαγμένων]]  [[G1223\|διὰ]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G1223\|διὰ]]  [[G3588\|τὴν]]  [[G3141\|μαρτυρίαν]]  [[G3588\|τοῦ]]  [[G0721\|ἀρνίου]]  [[G3739\|ἣν]]  [[G2192\|εἶχον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MARTYRDOM|MARTYRDOM]] • [[topic PERSECUTION|PERSECUTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.8|<< Revelation 6:8]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.10|Revelation 6:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

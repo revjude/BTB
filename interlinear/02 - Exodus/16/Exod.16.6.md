@@ -1,8 +1,71 @@
+---
+title: Exodus 16:6
+type: Verse
+kjv: "And Moses and Aaron said unto all the children of Israel, At even, then ye shall know that the LORD hath brought you out from the land of Egypt:"
+bsb: "So Moses and Aaron said to all the Israelites, “This evening you will know that it was the LORD who brought you out of the land of Egypt,"
+hebrew: "וַיֹּ֤אמֶר מֹשֶׁה֙ וְאַהֲרֹ֔ן אֶֽל־ כָּל־ בְּנֵ֖י יִשְׂרָאֵ֑ל עֶ֕רֶב וִֽידַעְתֶּ֕ם כִּ֧י יְהוָ֛ה הוֹצִ֥יא אֶתְכֶ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃"
+pericope: "[[Exod.16.1 Manna and Quail from Heaven|Manna and Quail from Heaven]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 16
+book/chapter: "[[Exod.16|Exodus 16]]"
+chronological_order: 108
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MANNA|MANNA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H6153]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 16:6**<big><big>[[Exod.16.1 Manna and Quail from Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses and Aaron said unto all the children of Israel, At even, then ye shall know that the LORD hath brought you out from the land of Egypt:
 <small><sub>**BSB:**</sub></small>
 So Moses and Aaron said to all the Israelites, “This evening you will know that it was the LORD who brought you out of the land of Egypt,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H4872\|מֹשֶׁה֙]] [[H9002\|וְ]][[H0175\|אַהֲרֹ֔ן]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1121G\|בְּנֵ֖י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H6153\|עֶ֕רֶב]] [[H9001\|וִֽ]][[H3045\|ידַעְתֶּ֕ם]] [[H3588A\|כִּ֧י]] [[H3068G\|יְהוָ֛ה]] [[H3318H\|הוֹצִ֥יא]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic ISRAEL|ISRAEL]] • [[topic MANNA|MANNA]] • [[topic MIRACLES|MIRACLES]] • [[topic REPROOF|REPROOF]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.5|<< Exodus 16:5]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.7|Exodus 16:7 >>]]</td></tr></table>
 

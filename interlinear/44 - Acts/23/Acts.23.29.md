@@ -1,10 +1,61 @@
+---
+title: Acts 23:29
+type: Verse
+kjv: "Whom I perceived to be accused of questions of their law, but to have nothing laid to his charge worthy of death or of bonds."
+bsb: "I found that the accusation involved questions about their own law, but there was no charge worthy of death or imprisonment."
+greek: "ὃν εὗρον ἐγκαλούμενον περὶ ζητημάτων τοῦ νόμου αὐτῶν, μηδὲν δὲ ἄξιον θανάτου ἢ δεσμῶν ἔχοντα ἔγκλημα."
+pericope: "[[Acts.23.23 Paul Sent to Felix|Paul Sent to Felix]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 23
+book/chapter: "[[Acts.23|Acts 23]]"
+chronological_order: 1105
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CAESAREA|CAESAREA]]"
+- "[[topic CHANGE OF VENUE|CHANGE OF VENUE]]"
+- "[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]]"
+- "[[topic FELIX|FELIX]]"
+- "[[topic LETTERS|LETTERS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G3739]]"
+- "[[G2147]]"
+- "[[G1458]]"
+- "[[G4012]]"
+- "[[G2213]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G0846]]"
+- "[[G3367]]"
+- "[[G1161]]"
+- "[[G0514]]"
+- "[[G2288]]"
+- "[[G2228]]"
+- "[[G1199]]"
+- "[[G2192]]"
+- "[[G1462]]"
+texts:
+- NKO
+---
+
 **Acts 23:29**<big><big>[[Acts.23.23 Paul Sent to Felix|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whom I perceived to be accused of questions of their law, but to have nothing laid to his charge worthy of death or of bonds.
 <small><sub>**BSB:**</sub></small>
 I found that the accusation involved questions about their own law, but there was no charge worthy of death or imprisonment.
-<small><sub>**Literal:**</sub></small>
-whom I found being accused concerning questions of the law of them, not however [of anything] worthy of death or of chains having accusation.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.28|<< Acts 23:28]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.30|Acts 23:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃν]]  [[G2147\|εὗρον]]  [[G1458\|ἐγκαλούμενον]]  [[G4012\|περὶ]]  [[G2213\|ζητημάτων]]  [[G3588\|τοῦ]]  [[G3551\|νόμου]]  [[G0846\|αὐτῶν,]]  [[G3367\|μηδὲν]]  [[G1161\|δὲ]]  [[G0514\|ἄξιον]]  [[G2288\|θανάτου]]  [[G2228\|ἢ]]  [[G1199\|δεσμῶν]]  [[G2192\|ἔχοντα]]  [[G1462\|ἔγκλημα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAESAREA|CAESAREA]] • [[topic CHANGE OF VENUE|CHANGE OF VENUE]] • [[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]] • [[topic FELIX|FELIX]] • [[topic LETTERS|LETTERS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.28|<< Acts 23:28]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.30|Acts 23:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

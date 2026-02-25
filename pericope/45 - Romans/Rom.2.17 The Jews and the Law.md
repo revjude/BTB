@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Jews and the Law
+type: Pericope
 pericope: "[[Rom.2.17 The Jews and the Law|The Jews and the Law]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: Romans
 chapter: 2
 book/chapter: "[[Rom.2|Romans 2]]"
-genre:
+chronological_order: 1088
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 13
 verses:
 - "[[Rom.2.17]]"
 - "[[Rom.2.18]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Rom.2.29]]"
 ---
 
-[[Rom.2|Romans 2:17 - Romans 2:29]]
+<small>[[Rom.2|Romans 2:17-29]]</small>
 *The Jews and the Law*
 
 [[Rom.2.17|17]] Behold, thou art called a Jew, and restest in the law, and makest thy boast of God,

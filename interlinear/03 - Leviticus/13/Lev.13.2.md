@@ -1,8 +1,71 @@
+---
+title: Leviticus 13:2
+type: Verse
+kjv: "When a man shall have in the skin of his flesh a rising, a scab, or bright spot, and it be in the skin of his flesh like the plague of leprosy; then he shall be brought unto Aaron the priest, or unto one of his sons the priests:"
+bsb: "“When someone has a swelling or rash or bright spot on his skin that may be an infectious skin disease, he must be brought to Aaron the priest or to one of his sons who is a priest."
+hebrew: "אָדָ֗ם כִּֽי־ יִהְיֶ֤ה בְעוֹר־ בְּשָׂרוֹ֙ שְׂאֵ֤ת אֽוֹ־ סַפַּ֙חַת֙ א֣וֹ בַהֶ֔רֶת וְהָיָ֥ה בְעוֹר־ בְּשָׂר֖וֹ לְנֶ֣גַע צָרָ֑עַת וְהוּבָא֙ אֶל־ אַהֲרֹ֣ן הַכֹּהֵ֔ן א֛וֹ אֶל־ אַחַ֥ד מִבָּנָ֖יו הַכֹּהֲנִֽים׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic SCAB|SCAB]]"
+strongs:
+- "[[H0120G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H5785]]"
+- "[[H1320]]"
+- "[[H9023]]"
+- "[[H7613]]"
+- "[[H0176A]]"
+- "[[H5597]]"
+- "[[H0934]]"
+- "[[H9001]]"
+- "[[H9005]]"
+- "[[H5061]]"
+- "[[H6883]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H0175]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H1121A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:2**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When a man shall have in the skin of his flesh a rising, a scab, or bright spot, and it be in the skin of his flesh [like] the plague of leprosy; then he shall be brought unto Aaron the priest, or unto one of his sons the priests:
 <small><sub>**BSB:**</sub></small>
 “When someone has a swelling or rash or bright spot on his skin that may be an infectious skin disease, he must be brought to Aaron the priest or to one of his sons who is a priest.
+<small><sub>**Hebrew:**</sub></small>
+[[H0120G\|אָדָ֗ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|יִהְיֶ֤ה]] [[H9003\|בְ]][[H5785\|עוֹר]][[H9014\|־]] [[H1320\|בְּשָׂר]][[H9023\|וֹ֙]] [[H7613\|שְׂאֵ֤ת]] [[H0176A\|אֽוֹ]][[H9014\|־]] [[H5597\|סַפַּ֙חַת֙]] [[H0176A\|א֣וֹ]] [[H0934\|בַהֶ֔רֶת]] [[H9001\|וְ]][[H1961\|הָיָ֥ה]] [[H9003\|בְ]][[H5785\|עוֹר]][[H9014\|־]] [[H1320\|בְּשָׂר֖]][[H9023\|וֹ]] [[H9005\|לְ]][[H5061\|נֶ֣גַע]] [[H6883\|צָרָ֑עַת]] [[H9001\|וְ]][[H0935P\|הוּבָא֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0175\|אַהֲרֹ֣ן]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H0176A\|א֛וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H0259\|אַחַ֥ד]] [[H9006\|מִ]][[H1121A\|בָּנָ֖י]][[H9023\|ו]] [[H9009\|הַ]][[H3548\|כֹּהֲנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SANITATION|SANITATION]] • [[topic SCAB|SCAB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.1|<< Leviticus 13:1]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.3|Leviticus 13:3 >>]]</td></tr></table>
 

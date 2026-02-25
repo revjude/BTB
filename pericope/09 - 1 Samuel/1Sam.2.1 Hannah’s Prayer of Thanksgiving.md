@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hannah’s Prayer of Thanksgiving
+type: Pericope
 pericope: "[[1Sam.2.1 Hannah’s Prayer of Thanksgiving|Hannah’s Prayer of Thanksgiving]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 2
 book/chapter: "[[1Sam.2|1 Samuel 2]]"
-genre:
+chronological_order: 281
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 11
 verses:
 - "[[1Sam.2.1]]"
 - "[[1Sam.2.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[1Sam.2.11]]"
 ---
 
-[[1Sam.2|1 Samuel 2:1 - 1 Samuel 2:11]]
+<small>[[1Sam.2|1 Samuel 2:1-11]]</small>
 *Hannah’s Prayer of Thanksgiving*
 
 [[1Sam.2.1|1]] And Hannah prayed, and said, My heart rejoiceth in the LORD, mine horn is exalted in the LORD: my mouth is enlarged over mine enemies; because I rejoice in thy salvation.

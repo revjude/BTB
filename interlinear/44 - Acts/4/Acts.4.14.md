@@ -1,10 +1,56 @@
+---
+title: Acts 4:14
+type: Verse
+kjv: "And beholding the man which was healed standing with them, they could say nothing against it."
+bsb: "And seeing the man who had been healed standing there with them, they had nothing to say in response."
+greek: "τόν τε ἄνθρωπον βλέποντες σὺν αὐτοῖς ἑστῶτα τὸν τεθεραπευμένον, οὐδὲν εἶχον ἀντειπεῖν.¶"
+pericope: "[[Acts.4.13 The Name Forbidden|The Name Forbidden]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CAIAPHAS|CAIAPHAS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[G3588]]"
+- "[[G5037]]"
+- "[[G0444]]"
+- "[[G0991]]"
+- "[[G4862]]"
+- "[[G0846]]"
+- "[[G2476]]"
+- "[[G2323]]"
+- "[[G3762]]"
+- "[[G2192]]"
+- "[[G0471]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 4:14**<big><big>[[Acts.4.13 The Name Forbidden|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And beholding the man which was healed standing with them, they could say nothing against it.
 <small><sub>**BSB:**</sub></small>
 And seeing the man who had been healed standing there with them, they had nothing to say in response.
-<small><sub>**Literal:**</sub></small>
-<the> And the man beholding with them already standing who healed, no [thing] they had to contradict.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.13|<< Acts 4:13]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.15|Acts 4:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τόν]]  [[G5037\|τε]]  [[G0444\|ἄνθρωπον]]  [[G0991\|βλέποντες]]  [[G4862\|σὺν]]  [[G0846\|αὐτοῖς]]  [[G2476\|ἑστῶτα]]  [[G3588\|τὸν]]  [[G2323\|τεθεραπευμένον,]]  [[G3762\|οὐδὲν]]  [[G2192\|εἶχον]]  [[G0471\|ἀντειπεῖν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAIAPHAS|CAIAPHAS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOHN|JOHN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.13|<< Acts 4:13]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.15|Acts 4:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

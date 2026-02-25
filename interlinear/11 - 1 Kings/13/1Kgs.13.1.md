@@ -1,8 +1,72 @@
+---
+title: 1 Kings 13:1
+type: Verse
+kjv: "And, behold, there came a man of God out of Judah by the word of the LORD unto Bethel: and Jeroboam stood by the altar to burn incense."
+bsb: "Suddenly, as Jeroboam was standing beside the altar to burn incense, there came a man of God from Judah to Bethel by the word of the LORD."
+hebrew: "וְהִנֵּ֣ה׀ אִ֣ישׁ אֱלֹהִ֗ים בָּ֧א מִיהוּדָ֛ה בִּדְבַ֥ר יְהוָ֖ה אֶל־ בֵּֽית־ אֵ֑ל וְיָרָבְעָ֛ם עֹמֵ֥ד עַל־ הַמִּזְבֵּ֖חַ לְהַקְטִֽיר׃"
+pericope: "[[1Kgs.13.1 Jeroboam’s Hand Withers|Jeroboam’s Hand Withers]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 13
+book/chapter: "[[1Kgs.13|1 Kings 13]]"
+chronological_order: 552
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic CALF|CALF]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9015]]"
+- "[[H0376G]]"
+- "[[H0430G]]"
+- "[[H0935G]]"
+- "[[H9006]]"
+- "[[H3063G]]"
+- "[[H9003]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1008G]]"
+- "[[H3379G]]"
+- "[[H5975G]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H9005]]"
+- "[[H6999H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 13:1**<big><big>[[1Kgs.13.1 Jeroboam’s Hand Withers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, there came a man of God out of Judah by the word of the LORD unto Bethel: and Jeroboam stood by the altar to burn incense.
 <small><sub>**BSB:**</sub></small>
 Suddenly, as Jeroboam was standing beside the altar to burn incense, there came a man of God from Judah to Bethel by the word of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֣ה]][[H9015\|׀]] [[H0376G\|אִ֣ישׁ]] [[H0430G\|אֱלֹהִ֗ים]] [[H0935G\|בָּ֧א]] [[H9006\|מִ]][[H3063G\|יהוּדָ֛ה]] [[H9003\|בִּ]][[H1697G\|דְבַ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H1008G\|בֵּֽית]][[H9014\|־]] [[H1008G\|אֵ֑ל]] [[H9002\|וְ]][[H3379G\|יָרָבְעָ֛ם]] [[H5975G\|עֹמֵ֥ד]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֖חַ]] [[H9005\|לְ]][[H6999H\|הַקְטִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BETH-EL|BETH-EL]] • [[topic CALF|CALF]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JEROBOAM|JEROBOAM]] • [[topic JOSIAH|JOSIAH]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic REPROOF|REPROOF]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.13.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.12.33|<< 1 Kings 12:33]]</td><td align="center" style="border:none;">[[1Kgs.13|1 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.13.2|1 Kings 13:2 >>]]</td></tr></table>
 

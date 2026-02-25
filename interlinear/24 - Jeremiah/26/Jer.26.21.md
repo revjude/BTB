@@ -1,8 +1,68 @@
+---
+title: Jeremiah 26:21
+type: Verse
+kjv: "And when Jehoiakim the king, with all his mighty men, and all the princes, heard his words, the king sought to put him to death: but when Urijah heard it, he was afraid, and fled, and went into Egypt;"
+bsb: "King Jehoiakim and all his mighty men and officials heard his words, and the king sought to put him to death. But when Uriah found out about it, he fled in fear and went to Egypt."
+hebrew: "וַיִּשְׁמַ֣ע הַמֶּֽלֶךְ־ יְ֠הוֹיָקִים וְכָל־ גִּבּוֹרָ֤יו וְכָל־ הַשָּׂרִים֙ אֶת־ דְּבָרָ֔יו וַיְבַקֵּ֥שׁ הַמֶּ֖לֶךְ הֲמִית֑וֹ וַיִּשְׁמַ֤ע אוּרִיָּ֙הוּ֙ וַיִּרָ֔א וַיִּבְרַ֖ח וַיָּבֹ֥א מִצְרָֽיִם׃"
+pericope: "[[Jer.26.20 The Prophet Uriah|The Prophet Uriah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 26
+book/chapter: "[[Jer.26|Jeremiah 26]]"
+chronological_order: 749
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EXTRADITION|EXTRADITION]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic URIJAH|URIJAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H3079]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H1368]]"
+- "[[H9023]]"
+- "[[H8269]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H1245]]"
+- "[[H4191]]"
+- "[[H9033]]"
+- "[[H0223B]]"
+- "[[H3372G]]"
+- "[[H1272]]"
+- "[[H0935G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 26:21**<big><big>[[Jer.26.20 The Prophet Uriah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Jehoiakim the king, with all his mighty men, and all the princes, heard his words, the king sought to put him to death: but when Urijah heard it, he was afraid, and fled, and went into Egypt;
 <small><sub>**BSB:**</sub></small>
 King Jehoiakim and all his mighty men and officials heard his words, and the king sought to put him to death. But when Uriah found out about it, he fled in fear and went to Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֣ע]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9014\|־]] [[H3079\|יְ֠הוֹיָקִים]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1368\|גִּבּוֹרָ֤י]][[H9023\|ו]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H8269\|שָּׂרִים֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דְּבָרָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H1245\|יְבַקֵּ֥שׁ]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H4191\|הֲמִית֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H8085G\|יִּשְׁמַ֤ע]] [[H0223B\|אוּרִיָּ֙הוּ֙]] [[H9001\|וַ]][[H3372G\|יִּרָ֔א]] [[H9001\|וַ]][[H1272\|יִּבְרַ֖ח]] [[H9001\|וַ]][[H0935G\|יָּבֹ֥א]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EXTRADITION|EXTRADITION]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic PRUDENCE|PRUDENCE]] • [[topic URIJAH|URIJAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.26.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.20|<< Jeremiah 26:20]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.22|Jeremiah 26:22 >>]]</td></tr></table>
 

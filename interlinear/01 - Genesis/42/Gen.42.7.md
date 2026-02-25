@@ -1,8 +1,68 @@
+---
+title: Genesis 42:7
+type: Verse
+kjv: "And Joseph saw his brethren, and he knew them, but made himself strange unto them, and spake roughly unto them; and he said unto them, Whence come ye? And they said, From the land of Canaan to buy food."
+bsb: "And when Joseph saw his brothers, he recognized them, but he treated them as strangers and spoke harshly to them. “Where have you come from?” he asked. “From the land of Canaan,” they replied. “We are here to buy food.”"
+hebrew: "וַיַּ֥רְא יוֹסֵ֛ף אֶת־ אֶחָ֖יו וַיַּכִּרֵ֑ם וַיִּתְנַכֵּ֨ר אֲלֵיהֶ֜ם וַיְדַבֵּ֧ר אִתָּ֣ם קָשׁ֗וֹת וַיֹּ֤אמֶר אֲלֵהֶם֙ מֵאַ֣יִן בָּאתֶ֔ם וַיֹּ֣אמְר֔וּ מֵאֶ֥רֶץ כְּנַ֖עַן לִשְׁבָּר־ אֹֽכֶל׃"
+pericope: "[[Gen.42.1 Joseph’s Brothers Sent to Egypt|Joseph’s Brothers Sent to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 42
+book/chapter: "[[Gen.42|Genesis 42]]"
+chronological_order: 84
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic DISSEMBLING|DISSEMBLING]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H3130G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H5234A]]"
+- "[[H9038]]"
+- "[[H5234B]]"
+- "[[H0413]]"
+- "[[H1696G]]"
+- "[[H0854]]"
+- "[[H7186]]"
+- "[[H0559]]"
+- "[[H9006]]"
+- "[[H0370]]"
+- "[[H0935G]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H9005]]"
+- "[[H7666]]"
+- "[[H0400]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 42:7**<big><big>[[Gen.42.1 Joseph’s Brothers Sent to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph saw his brethren, and he knew them, but made himself strange unto them, and spake roughly unto them; and he said unto them, Whence come ye? And they said, From the land of Canaan to buy food.
 <small><sub>**BSB:**</sub></small>
 And when Joseph saw his brothers, he recognized them, but he treated them as strangers and spoke harshly to them. “Where have you come from?” he asked. “From the land of Canaan,” they replied. “We are here to buy food.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֥רְא]] [[H3130G\|יוֹסֵ֛ף]] [[H0853\|אֶת]][[H9014\|־]] [[H0251G\|אֶחָ֖י]][[H9023\|ו]] [[H9001\|וַ]][[H5234A\|יַּכִּרֵ֑]][[H9038\|ם]] [[H9001\|וַ]][[H5234B\|יִּתְנַכֵּ֨ר]] [[H0413\|אֲלֵי]][[H9038\|הֶ֜ם]] [[H9001\|וַ]][[H1696G\|יְדַבֵּ֧ר]] [[H0854\|אִתָּ֣]][[H9038\|ם]] [[H7186\|קָשׁ֗וֹת]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶם֙]] [[H9006\|מֵ]][[H0370\|אַ֣יִן]] [[H0935G\|בָּאתֶ֔ם]] [[H9001\|וַ]][[H0559\|יֹּ֣אמְר֔וּ]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H3667A\|כְּנַ֖עַן]] [[H9005\|לִ]][[H7666\|שְׁבָּר]][[H9014\|־]] [[H0400\|אֹֽכֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic DISSEMBLING|DISSEMBLING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.6|<< Genesis 42:6]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.8|Genesis 42:8 >>]]</td></tr></table>
 

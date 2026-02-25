@@ -1,10 +1,62 @@
+---
+title: John 6:19
+type: Verse
+kjv: "So when they had rowed about five and twenty or thirty furlongs, they see Jesus walking on the sea, and drawing nigh unto the ship: and they were afraid."
+bsb: "When they had rowed about three or four miles, they saw Jesus approaching the boat, walking on the sea—and they were terrified."
+greek: "ἐληλακότες οὖν ὡς σταδίους εἴκοσι πέντε ἢ τριάκοντα, θεωροῦσιν τὸν Ἰησοῦν περιπατοῦντα ἐπὶ τῆς θαλάσσης καὶ ἐγγὺς τοῦ πλοίου γινόμενον, καὶ ἐφοβήθησαν."
+pericope: "[[John.6.16 Jesus Walks on Water|Jesus Walks on Water]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G1643]]"
+- "[[G3767]]"
+- "[[G5613]]"
+- "[[G4712]]"
+- "[[G1501]]"
+- "[[G4002]]"
+- "[[G2228]]"
+- "[[G5144]]"
+- "[[G2334]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G4043]]"
+- "[[G1909]]"
+- "[[G2281]]"
+- "[[G2532]]"
+- "[[G1451]]"
+- "[[G4143]]"
+- "[[G1096]]"
+- "[[G5399]]"
+texts:
+- NKO
+---
+
 **John 6:19**<big><big>[[John.6.16 Jesus Walks on Water|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So when they had rowed about five and twenty or thirty furlongs, they see Jesus walking on the sea, and drawing nigh unto the ship: and they were afraid.
 <small><sub>**BSB:**</sub></small>
 When they had rowed about three or four miles, they saw Jesus approaching the boat, walking on the sea—and they were terrified.
-<small><sub>**Literal:**</sub></small>
-Having rowed therefore about stadia twenty five or thirty, they see <the> Jesus walking on the sea and near the boat coming, and they were frightened.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.18|<< John 6:18]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.20|John 6:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1643\|ἐληλακότες]]  [[G3767\|οὖν]]  [[G5613\|ὡς]]  [[G4712\|σταδίους]]  [[G1501\|εἴκοσι]]  [[G4002\|πέντε]]  [[G2228\|ἢ]]  [[G5144\|τριάκοντα,]]  [[G2334\|θεωροῦσιν]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G4043\|περιπατοῦντα]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G2281\|θαλάσσης]]  [[G2532\|καὶ]]  [[G1451\|ἐγγὺς]]  [[G3588\|τοῦ]]  [[G4143\|πλοίου]]  [[G1096\|γινόμενον,]]  [[G2532\|καὶ]]  [[G5399\|ἐφοβήθησαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic COWARDICE|COWARDICE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.18|<< John 6:18]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.20|John 6:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

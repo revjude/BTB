@@ -1,8 +1,76 @@
+---
+title: Joshua 4:18
+type: Verse
+kjv: "And it came to pass, when the priests that bare the ark of the covenant of the LORD were come up out of the midst of Jordan, and the soles of the priests’ feet were lifted up unto the dry land, that the waters of Jordan returned unto their place, and flowed over all his banks, as they did before."
+bsb: "When the priests carrying the ark of the covenant of the LORD came up out of the Jordan and their feet touched the dry land, the waters of the Jordan returned to their course and overflowed all the banks as before."
+hebrew: "וַ֠יְהִי כַּעֲל֨וֹת הַכֹּהֲנִ֜ים נֹשְׂאֵ֨י אֲר֤וֹן בְּרִית־ יְהוָה֙ מִתּ֣וֹךְ הַיַּרְדֵּ֔ן נִתְּק֗וּ כַּפּוֹת֙ רַגְלֵ֣י הַכֹּהֲנִ֔ים אֶ֖ל הֶחָרָבָ֑ה וַיָּשֻׁ֤בוּ מֵֽי־ הַיַּרְדֵּן֙ לִמְקוֹמָ֔ם וַיֵּלְכ֥וּ כִתְמוֹל־ שִׁלְשׁ֖וֹם עַל־ כָּל־ גְּדוֹתָֽיו׃"
+pericope: "[[Josh.4.1 Twelve Stones from the Jordan|Twelve Stones from the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 4
+book/chapter: "[[Josh.4|Joshua 4]]"
+chronological_order: 234
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H5927G]]"
+- "[[H9004]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H5375H]]"
+- "[[H0727]]"
+- "[[H1285]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H3383]]"
+- "[[H5423]]"
+- "[[H3709H]]"
+- "[[H7272]]"
+- "[[H0413]]"
+- "[[H2724]]"
+- "[[H7725G]]"
+- "[[H4325G]]"
+- "[[H9005]]"
+- "[[H4725]]"
+- "[[H9028]]"
+- "[[H1980I]]"
+- "[[H8543]]"
+- "[[H8032]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H1415]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Joshua 4:18**<big><big>[[Josh.4.1 Twelve Stones from the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when the priests that bare the ark of the covenant of the LORD were come up out of the midst of Jordan, [and] the soles of the priests’ feet were lifted up unto the dry land, that the waters of Jordan returned unto their place, and flowed over all his banks, as [they did] before.
 <small><sub>**BSB:**</sub></small>
 When the priests carrying the ark of the covenant of the LORD came up out of the Jordan and their feet touched the dry land, the waters of the Jordan returned to their course and overflowed all the banks as before.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֠]][[H1961\|יְהִי]] [[H9004\|כַּ]][[H5927G\|עֲל֨וֹת]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֜ים]] [[H5375H\|נֹשְׂאֵ֨י]] [[H0727\|אֲר֤וֹן]] [[H1285\|בְּרִית]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H9006\|מִ]][[H8432\|תּ֣וֹךְ]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֔ן]] [[H5423\|נִתְּק֗וּ]] [[H3709H\|כַּפּוֹת֙]] [[H7272\|רַגְלֵ֣י]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֔ים]] [[H0413\|אֶ֖ל]] [[H9009\|הֶ]][[H2724\|חָרָבָ֑ה]] [[H9001\|וַ]][[H7725G\|יָּשֻׁ֤בוּ]] [[H4325G\|מֵֽי]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּן֙]] [[H9005\|לִ]][[H4725\|מְקוֹמָ֔]][[H9028\|ם]] [[H9001\|וַ]][[H1980I\|יֵּלְכ֥וּ]] [[H9004\|כִ]][[H8543\|תְמוֹל]][[H9014\|־]] [[H8032\|שִׁלְשׁ֖וֹם]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1415\|גְּדוֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MIRACLES|MIRACLES]] • [[topic PRIEST|PRIEST]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.4.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.17|<< Joshua 4:17]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.19|Joshua 4:19 >>]]</td></tr></table>
 
@@ -35,7 +103,7 @@ When the priests carrying the ark of the covenant of the LORD came up out of the
 | banks its  |**<big>&#8207;[[H1415\|גְּדוֹתָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ge.do.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.17|<< Joshua 4:17]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.19|Joshua 4:19 >>]]</td></tr></table>
 
-[^1]: when came up  | **<big>[[H5927G|עֲלוֹת]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HR]]</sup></small> 'a.lot<small><sup>[[HVqcc]]</sup></small> | K
-[^2]: when came up  | **<big>[[H5927G|עֲלוֹת]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HR]]</sup></small> 'a.lot<small><sup>[[HVqcc]]</sup></small> | K
+[^1]: when came up  | **<big>[[H9003|בַּ]]</big><big>[[H5927G|עֲלוֹת]]</big> ** | ba.<small><sup>[[HR]]</sup></small> 'a.lot<small><sup>[[HVqcc]]</sup></small> | K
+[^2]: when came up  | **<big>[[H9003|בַּ]]</big><big>[[H5927G|עֲלוֹת]]</big> ** | ba.<small><sup>[[HR]]</sup></small> 'a.lot<small><sup>[[HVqcc]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>בַּעֲל֨וֹת</big></span>**
 

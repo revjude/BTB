@@ -1,8 +1,68 @@
+---
+title: Numbers 18:30
+type: Verse
+kjv: "Therefore thou shalt say unto them, When ye have heaved the best thereof from it, then it shall be counted unto the Levites as the increase of the threshingfloor, and as the increase of the winepress."
+bsb: "Therefore say to the Levites, ‘When you have presented the best part, it will be reckoned to you as the produce of the threshing floor or winepress."
+hebrew: "וְאָמַרְתָּ֖ אֲלֵהֶ֑ם בַּהֲרִֽימְכֶ֤ם אֶת־ חֶלְבּוֹ֙ מִמֶּ֔נּוּ וְנֶחְשַׁב֙ לַלְוִיִּ֔ם כִּתְבוּאַ֥ת גֹּ֖רֶן וְכִתְבוּאַ֥ת יָֽקֶב׃"
+pericope: "[[Num.18.8 Offerings for Priests and Levites|Offerings for Priests and Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 18
+book/chapter: "[[Num.18|Numbers 18]]"
+chronological_order: 178
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic WINE PRESS|WINE PRESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H7311A]]"
+- "[[H9046]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2459]]"
+- "[[H9023]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H2803H]]"
+- "[[H9005]]"
+- "[[H3881]]"
+- "[[H9004]]"
+- "[[H8393]]"
+- "[[H1637]]"
+- "[[H9002]]"
+- "[[H3342]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 18:30**<big><big>[[Num.18.8 Offerings for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thou shalt say unto them, When ye have heaved the best thereof from it, then it shall be counted unto the Levites as the increase of the threshingfloor, and as the increase of the winepress.
 <small><sub>**BSB:**</sub></small>
 Therefore say to the Levites, ‘When you have presented the best part, it will be reckoned to you as the produce of the threshing floor or winepress.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַרְתָּ֖]] [[H0413\|אֲלֵ]][[H9038\|הֶ֑ם]] [[H9003\|בַּ]][[H7311A\|הֲרִֽימְ]][[H9046\|כֶ֤ם]] [[H0853\|אֶת]][[H9014\|־]] [[H2459\|חֶלְבּ]][[H9023\|וֹ֙]] [[H4480A\|מִמֶּ֔]][[H9033\|נּוּ]] [[H9001\|וְ]][[H2803H\|נֶחְשַׁב֙]] [[H9005\|לַ]][[H3881\|לְוִיִּ֔ם]] [[H9004\|כִּ]][[H8393\|תְבוּאַ֥ת]] [[H1637\|גֹּ֖רֶן]] [[H9002\|וְ]][[H9004\|כִ]][[H8393\|תְבוּאַ֥ת]] [[H3342\|יָֽקֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]] • [[topic WINE PRESS|WINE PRESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.29|<< Numbers 18:29]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.31|Numbers 18:31 >>]]</td></tr></table>
 

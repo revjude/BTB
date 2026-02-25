@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul and Silas Imprisoned
+type: Pericope
 pericope: "[[Acts.16.16 Paul and Silas Imprisoned|Paul and Silas Imprisoned]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Acts
 chapter: 16
 book/chapter: "[[Acts.16|Acts 16]]"
-genre:
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 9
 verses:
 - "[[Acts.16.16]]"
 - "[[Acts.16.17]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Acts.16.24]]"
 ---
 
-[[Acts.16|Acts 16:16 - Acts 16:24]]
+<small>[[Acts.16|Acts 16:16-24]]</small>
 *Paul and Silas Imprisoned*
 
 [[Acts.16.16|16]] And it came to pass, as we went to prayer, a certain damsel possessed with a spirit of divination met us, which brought her masters much gain by soothsaying:

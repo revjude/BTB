@@ -1,10 +1,59 @@
+---
+title: Mark 6:33
+type: Verse
+kjv: "And the people saw them departing, and many knew him, and ran afoot thither out of all cities, and outwent them, and came together unto him."
+bsb: "But many people saw them leaving and recognized them. They ran together on foot from all the towns and arrived before them."
+greek: "καὶ εἶδον αὐτοὺς ὑπάγοντας οἱ ὄχλοι, καὶ ἐπέγνωσαν αὐτὸν πολλοὶ καὶ πεζῇ ἀπὸ πασῶν τῶν πόλεων συνέδραμον ἐκεῖ καὶ προῆλθον αὐτούς καὶ συνῆλθον πρὸς αὐτόν."
+pericope: "[[Mark.6.30 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G0846]]"
+- "[[G5217]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G1921]]"
+- "[[G4183]]"
+- "[[G3979]]"
+- "[[G0575]]"
+- "[[G3956]]"
+- "[[G4172]]"
+- "[[G4936]]"
+- "[[G1563]]"
+- "[[G4281]]"
+- "[[G4905]]"
+- "[[G4314]]"
+texts:
+- NKO
+- K
+- NK(O)
+---
+
 **Mark 6:33**<big><big>[[Mark.6.30 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the people saw them departing, and many knew him, and ran afoot thither out of all cities, and outwent them, and came together unto him.
 <small><sub>**BSB:**</sub></small>
 But many people saw them leaving and recognized them. They ran together on foot from all the towns and arrived before them.
-<small><sub>**Literal:**</sub></small>
-And they saw them going <the> crowds and recognized him many and on foot from all the cities ran together there and went before them and together went to him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.32|<< Mark 6:32]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.34|Mark 6:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1492H\|εἶδον]]  [[G0846\|αὐτοὺς]]  [[G5217\|ὑπάγοντας]]  [[G3588\|οἱ]]  [[G3793\|ὄχλοι,]]  [[G2532\|καὶ]]  [[G1921\|ἐπέγνωσαν]]  [[G0846\|αὐτὸν]]  [[G4183\|πολλοὶ]]  [[G2532\|καὶ]]  [[G3979\|πεζῇ]]  [[G0575\|ἀπὸ]]  [[G3956\|πασῶν]]  [[G3588\|τῶν]]  [[G4172\|πόλεων]]  [[G4936\|συνέδραμον]]  [[G1563\|ἐκεῖ]]  [[G2532\|καὶ]]  [[G4281\|προῆλθον]]  [[G0846\|αὐτούς]]  [[G2532\|καὶ]]  [[G4905\|συνῆλθον]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.32|<< Mark 6:32]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.34|Mark 6:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

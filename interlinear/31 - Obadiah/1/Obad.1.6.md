@@ -1,8 +1,43 @@
+---
+title: Obadiah 1:6
+type: Verse
+kjv: "How are the things of Esau searched out! how are his hidden things sought up!"
+bsb: "But how Esau will be pillaged, his hidden treasures sought out!"
+hebrew: "אֵ֚יךְ נֶחְפְּשׂ֣וּ עֵשָׂ֔ו נִבְע֖וּ מַצְפֻּנָֽיו׃"
+pericope: "[[Obad.1.1 The Destruction of Edom|The Destruction of Edom]]"
+original_language: Hebrew
+testament: Old
+book: Obadiah
+chapter: 1
+book/chapter: "[[Obad.1|Obadiah 1]]"
+chronological_order: 581
+era: Divided Kingdom
+period: "The Divided Kingdom: Obadiah's Prophecy"
+date: ~845 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H0349A]]"
+- "[[H2664]]"
+- "[[H6215H]]"
+- "[[H1158]]"
+- "[[H4710]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Obadiah 1:6**<big><big>[[Obad.1.1 The Destruction of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How are [the things] of Esau searched out! [how] are his hidden things sought up!
 <small><sub>**BSB:**</sub></small>
 But how Esau will be pillaged, his hidden treasures sought out!
+<small><sub>**Hebrew:**</sub></small>
+[[H0349A\|אֵ֚יךְ]] [[H2664\|נֶחְפְּשׂ֣וּ]] [[H6215H\|עֵשָׂ֔ו]] [[H1158\|נִבְע֖וּ]] [[H4710\|מַצְפֻּנָֽי]][[H9023\|ו]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.5|<< Obadiah 1:5]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.7|Obadiah 1:7 >>]]</td></tr></table>
 

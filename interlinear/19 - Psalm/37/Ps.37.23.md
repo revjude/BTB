@@ -1,8 +1,56 @@
+---
+title: Psalm 37:23
+type: Verse
+kjv: "The steps of a good man are ordered by the LORD: and he delighteth in his way."
+bsb: "The steps of a man are ordered by the LORD who takes delight in his journey."
+hebrew: "מֵ֭יְהוָה מִֽצְעֲדֵי־ גֶ֥בֶר כּוֹנָ֗נוּ וְדַרְכּ֥וֹ יֶחְפָּֽץ׃"
+pericope: "[[Ps.37.1 Delight Yourself in the LORD|Delight Yourself in the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 37
+book/chapter: "[[Ps.37|Psalm 37]]"
+chronological_order: 365
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9006]]"
+- "[[H3068G]]"
+- "[[H4703]]"
+- "[[H9014]]"
+- "[[H1397]]"
+- "[[H3559H]]"
+- "[[H9002]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H2654A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 37:23**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The steps of a [good] man are ordered by the LORD: and he delighteth in his way.
 <small><sub>**BSB:**</sub></small>
 The steps of a man are ordered by the LORD who takes delight in his journey.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מֵ֭]][[H3068G\|יְהוָה]] [[H4703\|מִֽצְעֲדֵי]][[H9014\|־]] [[H1397\|גֶ֥בֶר]] [[H3559H\|כּוֹנָ֗נוּ]] [[H9002\|וְ]][[H1870G\|דַרְכּ֥]][[H9023\|וֹ]] [[H2654A\|יֶחְפָּֽץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.22|<< Psalms 37:22]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.24|Psalms 37:24 >>]]</td></tr></table>
 

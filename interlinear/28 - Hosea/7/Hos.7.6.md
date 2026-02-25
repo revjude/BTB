@@ -1,8 +1,62 @@
+---
+title: Hosea 7:6
+type: Verse
+kjv: "For they have made ready their heart like an oven, whiles they lie in wait: their baker sleepeth all the night; in the morning it burneth as a flaming fire."
+bsb: "For they prepare their heart like an oven while they lie in wait; all night their anger smolders; in the morning it blazes like a flaming fire."
+hebrew: "כִּֽי־ קֵרְב֧וּ כַתַּנּ֛וּר לִבָּ֖ם בְּאָרְבָּ֑ם כָּל־ הַלַּ֙יְלָה֙ יָשֵׁ֣ן אֹֽפֵהֶ֔ם בֹּ֕קֶר ה֥וּא בֹעֵ֖ר כְּאֵ֥שׁ לֶהָבָֽה׃"
+pericope: "[[Hos.7.1 Ephraim’s Iniquity|Ephraim’s Iniquity]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 7
+book/chapter: "[[Hos.7|Hosea 7]]"
+chronological_order: 648
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BAKER|BAKER]]"
+- "[[topic OVEN|OVEN]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7126G]]"
+- "[[H9004]]"
+- "[[H8574H]]"
+- "[[H3820A]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H0696]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3915]]"
+- "[[H3463]]"
+- "[[H0644]]"
+- "[[H1242]]"
+- "[[H1931]]"
+- "[[H1197A]]"
+- "[[H0784]]"
+- "[[H3852]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 7:6**<big><big>[[Hos.7.1 Ephraim’s Iniquity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they have made ready their heart like an oven, whiles they lie in wait: their baker sleepeth all the night; in the morning it burneth as a flaming fire.
 <small><sub>**BSB:**</sub></small>
 For they prepare their heart like an oven while they lie in wait; all night their anger smolders; in the morning it blazes like a flaming fire.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H7126G\|קֵרְב֧וּ]] [[H9004\|כַ]][[H8574H\|תַּנּ֛וּר]] [[H3820A\|לִבָּ֖]][[H9028\|ם]] [[H9003\|בְּ]][[H0696\|אָרְבָּ֑]][[H9028\|ם]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3915\|לַּ֙יְלָה֙]] [[H3463\|יָשֵׁ֣ן]] [[H0644\|אֹֽפֵ]][[H9028\|הֶ֔ם]] [[H1242\|בֹּ֕קֶר]] [[H1931\|ה֥וּא]] [[H1197A\|בֹעֵ֖ר]] [[H9004\|כְּ]][[H0784\|אֵ֥שׁ]] [[H3852\|לֶהָבָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAKER|BAKER]] • [[topic OVEN|OVEN]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.7.5|<< Hosea 7:5]]</td><td align="center" style="border:none;">[[Hos.7|Hosea 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.7.7|Hosea 7:7 >>]]</td></tr></table>
 

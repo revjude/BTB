@@ -1,8 +1,57 @@
+---
+title: Ezekiel 45:16
+type: Verse
+kjv: "All the people of the land shall give this oblation for the prince in Israel."
+bsb: "All the people of the land must participate in this contribution for the prince in Israel."
+hebrew: "כֹּ֚ל הָעָ֣ם הָאָ֔רֶץ יִהְי֖וּ אֶל־ הַתְּרוּמָ֣ה הַזֹּ֑את לַנָּשִׂ֖יא בְּיִשְׂרָאֵֽל׃"
+pericope: "[[Ezek.45.13 Offerings and Feasts|Offerings and Feasts]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 45
+book/chapter: "[[Ezek.45|Ezekiel 45]]"
+chronological_order: 836
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic KING|KING]]"
+strongs:
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0776G]]"
+- "[[H1961]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8641]]"
+- "[[H2063]]"
+- "[[H9005]]"
+- "[[H5387A]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 45:16**<big><big>[[Ezek.45.13 Offerings and Feasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the people of the land shall give this oblation for the prince in Israel.
 <small><sub>**BSB:**</sub></small>
 All the people of the land must participate in this contribution for the prince in Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כֹּ֚ל]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H1961\|יִהְי֖וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H8641\|תְּרוּמָ֣ה]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H9005\|לַ]][[H5387A\|נָּשִׂ֖יא]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.15|<< Ezekiel 45:15]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.17|Ezekiel 45:17 >>]]</td></tr></table>
 

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Solomon’s Wealth and Splendor
+type: Pericope
 pericope: "[[1Kgs.10.14 Solomon’s Wealth and Splendor|Solomon’s Wealth and Splendor]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 10
 book/chapter: "[[1Kgs.10|1 Kings 10]]"
-genre:
+chronological_order: 535
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 16
 verses:
 - "[[1Kgs.10.14]]"
 - "[[1Kgs.10.15]]"
@@ -36,7 +43,7 @@ verses:
 - "[[1Kgs.10.29]]"
 ---
 
-[[1Kgs.10|1 Kings 10:14 - 1 Kings 10:29]]
+<small>[[1Kgs.10|1 Kings 10:14-29]]</small>
 *Solomon’s Wealth and Splendor*
 
 [[1Kgs.10.14|14]] Now the weight of gold that came to Solomon in one year was six hundred threescore and six talents of gold,

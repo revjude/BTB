@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Worthy Offerings
+type: Pericope
 pericope: "[[Lev.22.17 Worthy Offerings|Worthy Offerings]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 22
 book/chapter: "[[Lev.22|Leviticus 22]]"
-genre:
+chronological_order: 154
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 17
 verses:
 - "[[Lev.22.17]]"
 - "[[Lev.22.18]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Lev.22.33]]"
 ---
 
-[[Lev.22|Leviticus 22:17 - Leviticus 22:33]]
+<small>[[Lev.22|Leviticus 22:17-33]]</small>
 *Worthy Offerings*
 
 [[Lev.22.17|17]] And the LORD spake unto Moses, saying,

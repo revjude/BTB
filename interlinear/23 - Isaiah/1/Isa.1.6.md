@@ -1,8 +1,74 @@
+---
+title: Isaiah 1:6
+type: Verse
+kjv: "From the sole of the foot even unto the head there is no soundness in it; but wounds, and bruises, and putrifying sores: they have not been closed, neither bound up, neither mollified with ointment."
+bsb: "From the sole of your foot to the top of your head, there is no soundness—only wounds and welts and festering sores neither cleansed nor bandaged nor soothed with oil."
+hebrew: "מִכַּף־ רֶ֤גֶל וְעַד־ רֹאשׁ֙ אֵֽין־ בּ֣וֹ מְתֹ֔ם פֶּ֥צַע וְחַבּוּרָ֖ה וּמַכָּ֣ה טְרִיָּ֑ה לֹא־ זֹ֙רוּ֙ וְלֹ֣א חֻבָּ֔שׁוּ וְלֹ֥א רֻכְּכָ֖ה בַּשָּֽׁמֶן׃"
+pericope: "[[Isa.1.1 Judah’s Rebellion|Judah’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 1
+book/chapter: "[[Isa.1|Isaiah 1]]"
+chronological_order: 609
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MEDICINE|MEDICINE]]"
+- "[[topic SICK, THE|SICK, THE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WOUNDS|WOUNDS]]"
+strongs:
+- "[[H9006]]"
+- "[[H3709H]]"
+- "[[H9014]]"
+- "[[H7272]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H7218A]]"
+- "[[H0369]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H4974]]"
+- "[[H6482]]"
+- "[[H2250]]"
+- "[[H4347]]"
+- "[[H2961]]"
+- "[[H3808]]"
+- "[[H2115]]"
+- "[[H2280]]"
+- "[[H7401]]"
+- "[[H8081]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 1:6**<big><big>[[Isa.1.1 Judah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From the sole of the foot even unto the head [there is] no soundness in it; [but] wounds, and bruises, and putrifying sores: they have not been closed, neither bound up, neither mollified with ointment.
 <small><sub>**BSB:**</sub></small>
 From the sole of your foot to the top of your head, there is no soundness—only wounds and welts and festering sores neither cleansed nor bandaged nor soothed with oil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H3709H\|כַּף]][[H9014\|־]] [[H7272\|רֶ֤גֶל]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H7218A\|רֹאשׁ֙]] [[H0369\|אֵֽין]][[H9014\|־]] [[H9003\|בּ֣]][[H9033\|וֹ]] [[H4974\|מְתֹ֔ם]] [[H6482\|פֶּ֥צַע]] [[H9002\|וְ]][[H2250\|חַבּוּרָ֖ה]] [[H9002\|וּ]][[H4347\|מַכָּ֣ה]] [[H2961\|טְרִיָּ֑ה]] [[H3808\|לֹא]][[H9014\|־]] [[H2115\|זֹ֙רוּ֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H2280\|חֻבָּ֔שׁוּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H7401\|רֻכְּכָ֖ה]] [[H9003\|בַּ]][[H8081\|שָּֽׁמֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANOINTING|ANOINTING]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic DISEASE|DISEASE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MEDICINE|MEDICINE]] • [[topic SICK, THE|SICK, THE]] • [[topic SIN|SIN]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WOUNDS|WOUNDS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.5|<< Isaiah 1:5]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.7|Isaiah 1:7 >>]]</td></tr></table>
 

@@ -1,10 +1,49 @@
+---
+title: 1 Corinthians 15:11
+type: Verse
+kjv: "Therefore whether it were I or they, so we preach, and so ye believed."
+bsb: "Whether, then, it was I or they, this is what we preach, and this is what you believed."
+greek: "εἴτε οὖν ἐγὼ εἴτε ἐκεῖνοι, οὕτως κηρύσσομεν καὶ οὕτως ἐπιστεύσατε.¶"
+pericope: "[[1Cor.15.1 The Resurrection of Christ|The Resurrection of Christ]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 15
+book/chapter: "[[1Cor.15|1 Corinthians 15]]"
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1535]]"
+- "[[G3767]]"
+- "[[G1473]]"
+- "[[G1565]]"
+- "[[G3779]]"
+- "[[G2784]]"
+- "[[G2532]]"
+- "[[G4100]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 15:11**<big><big>[[1Cor.15.1 The Resurrection of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore whether [it were] I or they, so we preach, and so ye believed.
 <small><sub>**BSB:**</sub></small>
 Whether, then, it was I or they, this is what we preach, and this is what you believed.
-<small><sub>**Literal:**</sub></small>
-Whether therefore I myself or they, thus we preach and thus you believed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.10|<< 1 Corinthians 15:10]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.12|1 Corinthians 15:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1535\|εἴτε]]  [[G3767\|οὖν]]  [[G1473\|ἐγὼ]]  [[G1535\|εἴτε]]  [[G1565\|ἐκεῖνοι,]]  [[G3779\|οὕτως]]  [[G2784\|κηρύσσομεν]]  [[G2532\|καὶ]]  [[G3779\|οὕτως]]  [[G4100\|ἐπιστεύσατε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.10|<< 1 Corinthians 15:10]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.12|1 Corinthians 15:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

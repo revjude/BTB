@@ -1,8 +1,57 @@
+---
+title: Psalm 122:4
+type: Verse
+kjv: "Whither the tribes go up, the tribes of the LORD, unto the testimony of Israel, to give thanks unto the name of the LORD."
+bsb: "where the tribes go up, the tribes of the LORD, as a testimony for Israel, to give thanks to the name of the LORD."
+hebrew: "שֶׁשָּׁ֨ם עָל֪וּ שְׁבָטִ֡ים שִׁבְטֵי־ יָ֭הּ עֵד֣וּת לְיִשְׂרָאֵ֑ל לְ֝הֹד֗וֹת לְשֵׁ֣ם יְהוָֽה׃"
+pericope: "[[Ps.122.1 Pray for the Peace of Jerusalem|Pray for the Peace of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 122
+book/chapter: "[[Ps.122|Psalm 122]]"
+chronological_order: 884
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H9007]]"
+- "[[H8033G]]"
+- "[[H5927G]]"
+- "[[H7626H]]"
+- "[[H9014]]"
+- "[[H3050]]"
+- "[[H5715]]"
+- "[[H9005]]"
+- "[[H3478]]"
+- "[[H3034]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 122:4**<big><big>[[Ps.122.1 Pray for the Peace of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whither the tribes go up, the tribes of the LORD, unto the testimony of Israel, to give thanks unto the name of the LORD.
 <small><sub>**BSB:**</sub></small>
 where the tribes go up, the tribes of the LORD, as a testimony for Israel, to give thanks to the name of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9007\|שֶׁ]][[H8033G\|שָּׁ֨ם]] [[H5927G\|עָל֪וּ]] [[H7626H\|שְׁבָטִ֡ים]] [[H7626H\|שִׁבְטֵי]][[H9014\|־]] [[H3050\|יָ֭הּ]] [[H5715\|עֵד֣וּת]] [[H9005\|לְ]][[H3478\|יִשְׂרָאֵ֑ל]] [[H9005\|לְ֝]][[H3034\|הֹד֗וֹת]] [[H9005\|לְ]][[H8034\|שֵׁ֣ם]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.122.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.122.3|<< Psalms 122:3]]</td><td align="center" style="border:none;">[[Ps.122|Psalms 122]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.122.5|Psalms 122:5 >>]]</td></tr></table>
 

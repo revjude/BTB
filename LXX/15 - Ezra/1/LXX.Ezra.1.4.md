@@ -1,6 +1,80 @@
+---
+title: LXX Ezra 1:4
+type: Verse
+lxx: "And every Jew  being left from all the places of which he sojourned there, the men of his place shall take up for him  silver and gold, and with belongings, and cattle, with the voluntary offering for the house  of God, the one in Jerusalem."
+greek: "και πας ο καταλιπόμενος από πάντων των τόπων ου αυτός παροικεί εκεί λήψονται αυτόυ άνδρες του τόπου αυτού εν αργυρίω και χρυσίω και εν αποσκευή και κτήνεσι μετά του εκουσίου εις οίκον του θεού του εν Ιερουσαλήμ"
+original_language: Greek
+testament: Old
+book: Ezra
+chapter: 1
+book/chapter: "[[Ezra.1|Ezra 1]]"
+chronological_order: 849
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- septuagint
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic EMANCIPATION|EMANCIPATION]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PROCLAMATION|PROCLAMATION]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2641]]"
+- "[[G0575]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G5117]]"
+- "[[G3739]]"
+- "[[G1473]]"
+- "[[G3939]]"
+- "[[G1563]]"
+- "[[G2983]]"
+- "[[G1473]]"
+- "[[G0435]]"
+- "[[G3588]]"
+- "[[G5117]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G0694]]"
+- "[[G2532]]"
+- "[[G5553]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G6478]]"
+- "[[G2532]]"
+- "[[G2934]]"
+- "[[G3326]]"
+- "[[G3588]]"
+- "[[G1595]]"
+- "[[G1519]]"
+- "[[G3624]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G2419]]"
+---
+
 **LXX Ezra 1:4** 
 <small><sub>**LXX:**</sub></small>
 And every \[Jew\]  being left from all the places of which he sojourned there, \[the\] men of his place shall take up for him  silver and gold, and with belongings, and cattle, with the voluntary \[offering\] for \[the\] house  of God, the one in Jerusalem. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3956\|πας]] [[G3588\|ο]] [[G2641\|καταλιπόμενος]] [[G0575\|από]] [[G3956\|πάντων]] [[G3588\|των]] [[G5117\|τόπων]] [[G3739\|ου]] [[G1473\|αυτός]] [[G3939\|παροικεί]] [[G1563\|εκεί]] [[G2983\|λήψονται]] [[G1473\|αυτόυ]] [[G0435\|άνδρες]] [[G3588\|του]] [[G5117\|τόπου]] [[G1473\|αυτού]] [[G1722\|εν]] [[G0694\|αργυρίω]] [[G2532\|και]] [[G5553\|χρυσίω]] [[G2532\|και]] [[G1722\|εν]] [[G6478\|αποσκευή]] [[G2532\|και]] [[G2934\|κτήνεσι]] [[G3326\|μετά]] [[G3588\|του]] [[G1595\|εκουσίου]] [[G1519\|εις]] [[G3624\|οίκον]] [[G3588\|του]] [[G2316\|θεού]] [[G3588\|του]] [[G1722\|εν]] [[G2419\|Ιερουσαλήμ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic EMANCIPATION|EMANCIPATION]] • [[topic HEATHEN|HEATHEN]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic LIBERALITY|LIBERALITY]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PROCLAMATION|PROCLAMATION]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezra.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.1.3|<< Ezra 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.1.5|Ezra 1:5 >>]]</td></tr></table>
 
@@ -42,6 +116,6 @@ And every \[Jew\]  being left from all the places of which he sojourned there, \
 | the one | **<big>[[G3588\|του]]</big>** |
 | in | **<big>[[G1722\|εν]]</big>** |
 | Jerusalem. | **<big>[[G2419\|Ιερουσαλήμ]]</big>** |
-[[Ezra.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.1.3|<< Ezra 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.1.5|Ezra 1:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.1.3|<< Ezra 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.1.5|Ezra 1:5 >>]]</td></tr></table>
 
 

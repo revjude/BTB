@@ -1,8 +1,65 @@
+---
+title: 2 Samuel 13:24
+type: Verse
+kjv: "And Absalom came to the king, and said, Behold now, thy servant hath sheepshearers; let the king, I beseech thee, and his servants go with thy servant."
+bsb: "And he went to the king and said, “Your servant has just hired shearers. Will the king and his servants please come with me?”"
+hebrew: "וַיָּבֹ֤א אַבְשָׁלוֹם֙ אֶל־ הַמֶּ֔לֶךְ וַיֹּ֕אמֶר הִנֵּה־ נָ֥א גֹזְזִ֖ים לְעַבְדֶּ֑ךָ יֵֽלֶךְ־ נָ֥א הַמֶּ֛לֶךְ וַעֲבָדָ֖יו עִם־ עַבְדֶּֽךָ׃"
+pericope: "[[2Sam.13.23 Absalom’s Revenge on Amnon|Absalom’s Revenge on Amnon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic RAPE|RAPE]]"
+- "[[topic REVENGE|REVENGE]]"
+- "[[topic TAMAR|TAMAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0053]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H4994]]"
+- "[[H1494]]"
+- "[[H9005]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H1980G]]"
+- "[[H9002]]"
+- "[[H9023]]"
+- "[[H5973A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 13:24**<big><big>[[2Sam.13.23 Absalom’s Revenge on Amnon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Absalom came to the king, and said, Behold now, thy servant hath sheepshearers; let the king, I beseech thee, and his servants go with thy servant.
 <small><sub>**BSB:**</sub></small>
 And he went to the king and said, “Your servant has just hired shearers. Will the king and his servants please come with me?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֤א]] [[H0053\|אַבְשָׁלוֹם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H2009\|הִנֵּה]][[H9014\|־]] [[H4994\|נָ֥א]] [[H1494\|גֹזְזִ֖ים]] [[H9005\|לְ]][[H5650\|עַבְדֶּ֑]][[H9021\|ךָ]] [[H1980G\|יֵֽלֶךְ]][[H9014\|־]] [[H4994\|נָ֥א]] [[H9009\|הַ]][[H4428G\|מֶּ֛לֶךְ]] [[H9002\|וַ]][[H5650\|עֲבָדָ֖י]][[H9023\|ו]] [[H5973A\|עִם]][[H9014\|־]] [[H5650\|עַבְדֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic DECEPTION|DECEPTION]] • [[topic HOMICIDE|HOMICIDE]] • [[topic RAPE|RAPE]] • [[topic REVENGE|REVENGE]] • [[topic TAMAR|TAMAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.23|<< 2 Samuel 13:23]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.25|2 Samuel 13:25 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: 2 Chronicles 6:22
+type: Verse
+kjv: "If a man sin against his neighbour, and an oath be laid upon him to make him swear, and the oath come before thine altar in this house;"
+bsb: "When a man sins against his neighbor and is required to take an oath, and he comes to take an oath before Your altar in this temple,"
+hebrew: "אִם־ יֶחֱטָ֥א אִישׁ֙ לְרֵעֵ֔הוּ וְנָֽשָׁא־ ב֥וֹ אָלָ֖ה לְהַֽאֲלֹת֑וֹ וּבָ֗א אָלָ֛ה לִפְנֵ֥י מִֽזְבַּחֲךָ֖ בַּבַּ֥יִת הַזֶּֽה׃"
+pericope: "[[2Chr.6.12 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 6
+book/chapter: "[[2Chr.6|2 Chronicles 6]]"
+chronological_order: 495
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H2398]]"
+- "[[H0376I]]"
+- "[[H9005]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H5375G]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H0423]]"
+- "[[H0935G]]"
+- "[[H0422]]"
+- "[[H6440G]]"
+- "[[H4196]]"
+- "[[H9021]]"
+- "[[H1004B]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 6:22**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a man sin against his neighbour, and an oath be laid upon him to make him swear, and the oath come before thine altar in this house;
 <small><sub>**BSB:**</sub></small>
 When a man sins against his neighbor and is required to take an oath, and he comes to take an oath before Your altar in this temple,
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H2398\|יֶחֱטָ֥א]] [[H0376I\|אִישׁ֙]] [[H9005\|לְ]][[H7453\|רֵעֵ֔]][[H9023\|הוּ]] [[H9001\|וְ]][[H5375G\|נָֽשָׁא]][[H9014\|־]] [[H9003\|ב֥]][[H9033\|וֹ]] [[H0423\|אָלָ֖ה]] [[H9005\|לְ]][[H0423\|הַֽאֲלֹת֑]][[H9023\|וֹ]] [[H9001\|וּ]][[H0935G\|בָ֗א]] [[H0422\|אָלָ֛ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H4196\|מִֽזְבַּחֲ]][[H9021\|ךָ֖]] [[H9003\|בַּ]][[H1004B\|בַּ֥יִת]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.21|<< 2 Chronicles 6:21]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.23|2 Chronicles 6:23 >>]]</td></tr></table>
 

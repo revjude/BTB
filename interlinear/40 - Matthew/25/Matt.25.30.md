@@ -1,10 +1,76 @@
+---
+title: Matthew 25:30
+type: Verse
+kjv: "And cast ye the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth."
+bsb: "And throw that worthless servant into the outer darkness, where there will be weeping and gnashing of teeth.’"
+jesus_said: "And cast ye the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth."
+greek: "καὶ τὸν ἀχρεῖον δοῦλον ἐκβάλετε εἰς τὸ σκότος τὸ ἐξώτερον· ἐκεῖ ἔσται ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων.¶"
+pericope: "[[Matt.25.14 The Parable of the Talents|The Parable of the Talents]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GNASHING OF TEETH|GNASHING OF TEETH]]"
+- "[[topic HELL|HELL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SORROW|SORROW]]"
+- "[[topic STEWARD|STEWARD]]"
+- "[[topic TEETH|TEETH]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WEEPING|WEEPING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0888]]"
+- "[[G1401]]"
+- "[[G1544]]"
+- "[[G1519]]"
+- "[[G4655]]"
+- "[[G1857]]"
+- "[[G1563]]"
+- "[[G1510]]"
+- "[[G2805]]"
+- "[[G1030]]"
+- "[[G3599]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 25:30**<big><big>[[Matt.25.14 The Parable of the Talents|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And cast ye the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth.
 <small><sub>**BSB:**</sub></small>
 And throw that worthless servant into the outer darkness, where there will be weeping and gnashing of teeth.’
-<small><sub>**Literal:**</sub></small>
-And the worthless servant do cast out into the darkness <the> outer; there will be the weeping and the gnashing of the teeth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.29|<< Matthew 25:29]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.31|Matthew 25:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G0888\|ἀχρεῖον]]  [[G1401\|δοῦλον]]  [[G1544\|ἐκβάλετε]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4655\|σκότος]]  [[G3588\|τὸ]]  [[G1857\|ἐξώτερον·]]  [[G1563\|ἐκεῖ]]  [[G1510\|ἔσται]]  [[G3588\|ὁ]]  [[G2805\|κλαυθμὸς]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G1030\|βρυγμὸς]]  [[G3588\|τῶν]]  [[G3599\|ὀδόντων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic COLORS|COLORS]] • [[topic DARKNESS|DARKNESS]] • [[topic DEATH|DEATH]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GNASHING OF TEETH|GNASHING OF TEETH]] • [[topic HELL|HELL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PROBATION|PROBATION]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SERVANT|SERVANT]] • [[topic SORROW|SORROW]] • [[topic STEWARD|STEWARD]] • [[topic TEETH|TEETH]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WEEPING|WEEPING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.29|<< Matthew 25:29]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.31|Matthew 25:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

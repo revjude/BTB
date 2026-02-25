@@ -1,8 +1,85 @@
+---
+title: Deuteronomy 4:34
+type: Verse
+kjv: "Or hath God assayed to go and take him a nation from the midst of another nation, by temptations, by signs, and by wonders, and by war, and by a mighty hand, and by a stretched out arm, and by great terrors, according to all that the LORD your God did for you in Egypt before your eyes?"
+bsb: "Or has any god tried to take as his own a nation out of another nation—by trials, signs, wonders, and war, by a strong hand and an outstretched arm, and by great terrors—as the LORD your God did for you in Egypt, before your eyes?"
+hebrew: "א֣וֹ׀ הֲנִסָּ֣ה אֱלֹהִ֗ים לָ֠בוֹא לָקַ֨חַת ל֣וֹ גוֹי֮ מִקֶּ֣רֶב גּוֹי֒ בְּמַסֹּת֩ בְּאֹתֹ֨ת וּבְמוֹפְתִ֜ים וּבְמִלְחָמָ֗ה וּבְיָ֤ד חֲזָקָה֙ וּבִזְר֣וֹעַ נְטוּיָ֔ה וּבְמוֹרָאִ֖ים גְּדֹלִ֑ים כְּ֠כֹל אֲשֶׁר־ עָשָׂ֨ה לָכֶ֜ם יְהוָ֧ה אֱלֹהֵיכֶ֛ם בְּמִצְרַ֖יִם לְעֵינֶֽיךָ׃"
+pericope: "[[Deut.4.32 The LORD Alone Is God|The LORD Alone Is God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ARM|ARM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic OBLIGATION|OBLIGATION]]"
+strongs:
+- "[[H0176A]]"
+- "[[H9015]]"
+- "[[H9008]]"
+- "[[H5254H]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H3947G]]"
+- "[[H9033]]"
+- "[[H1471A]]"
+- "[[H9006]]"
+- "[[H7130G]]"
+- "[[H9003]]"
+- "[[H4531B]]"
+- "[[H0226G]]"
+- "[[H9002]]"
+- "[[H4159]]"
+- "[[H4421]]"
+- "[[H3027H]]"
+- "[[H2389]]"
+- "[[H2220]]"
+- "[[H5186]]"
+- "[[H4172A]]"
+- "[[H1419A]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H9036]]"
+- "[[H3068G]]"
+- "[[H9026]]"
+- "[[H4714G]]"
+- "[[H5869J]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:34**<big><big>[[Deut.4.32 The LORD Alone Is God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or hath God assayed to go [and] take him a nation from the midst of [another] nation, by temptations, by signs, and by wonders, and by war, and by a mighty hand, and by a stretched out arm, and by great terrors, according to all that the LORD your God did for you in Egypt before your eyes?
 <small><sub>**BSB:**</sub></small>
 Or has any god tried to take as his own a nation out of another nation—by trials, signs, wonders, and war, by a strong hand and an outstretched arm, and by great terrors—as the LORD your God did for you in Egypt, before your eyes?
+<small><sub>**Hebrew:**</sub></small>
+[[H0176A\|א֣וֹ]][[H9015\|׀]] [[H9008\|הֲ]][[H5254H\|נִסָּ֣ה]] [[H0430G\|אֱלֹהִ֗ים]] [[H9005\|לָ֠]][[H0935G\|בוֹא]] [[H9005\|לָ]][[H3947G\|קַ֨חַת]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H1471A\|גוֹי֮]] [[H9006\|מִ]][[H7130G\|קֶּ֣רֶב]] [[H1471A\|גּוֹי֒]] [[H9003\|בְּ]][[H4531B\|מַסֹּת֩]] [[H9003\|בְּ]][[H0226G\|אֹתֹ֨ת]] [[H9002\|וּ]][[H9003\|בְ]][[H4159\|מוֹפְתִ֜ים]] [[H9002\|וּ]][[H9003\|בְ]][[H4421\|מִלְחָמָ֗ה]] [[H9002\|וּ]][[H9003\|בְ]][[H3027H\|יָ֤ד]] [[H2389\|חֲזָקָה֙]] [[H9002\|וּ]][[H9003\|בִ]][[H2220\|זְר֣וֹעַ]] [[H5186\|נְטוּיָ֔ה]] [[H9002\|וּ]][[H9003\|בְ]][[H4172A\|מוֹרָאִ֖ים]] [[H1419A\|גְּדֹלִ֑ים]] [[H9004\|כְּ֠]][[H3605\|כֹל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|עָשָׂ֨ה]] [[H9005\|לָ]][[H9036\|כֶ֜ם]] [[H3068G\|יְהוָ֧ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֛ם]] [[H9003\|בְּ]][[H4714G\|מִצְרַ֖יִם]] [[H9005\|לְ]][[H5869J\|עֵינֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARM|ARM]] • [[topic GOD|GOD]] • [[topic MIRACLES|MIRACLES]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic OBLIGATION|OBLIGATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.33|<< Deuteronomy 4:33]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.35|Deuteronomy 4:35 >>]]</td></tr></table>
 

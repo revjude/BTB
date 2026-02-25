@@ -1,10 +1,61 @@
+---
+title: Colossians 4:11
+type: Verse
+kjv: "And Jesus, which is called Justus, who are of the circumcision. These only are my fellowworkers unto the kingdom of God, which have been a comfort unto me."
+bsb: "Jesus, who is called Justus, also sends greetings. These are the only Jews among my fellow workers for the kingdom of God, and they have been a comfort to me."
+greek: "καὶ Ἰησοῦς ὁ λεγόμενος Ἰοῦστος, οἱ ὄντες ἐκ περιτομῆς, οὗτοι μόνοι συνεργοὶ εἰς τὴν βασιλείαν τοῦ θεοῦ, οἵτινες ἐγενήθησάν μοι παρηγορία.¶"
+pericope: "[[Col.4.7 Greetings from Paul’s Fellow Workers|Greetings from Paul’s Fellow Workers]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 4
+book/chapter: "[[Col.4|Colossians 4]]"
+chronological_order: 1124
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic JUSTUS|JUSTUS]]"
+- "[[topic MARK|MARK]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2424]]"
+- "[[G3588]]"
+- "[[G3004H]]"
+- "[[G2459H]]"
+- "[[G1510]]"
+- "[[G1537]]"
+- "[[G4061]]"
+- "[[G3778]]"
+- "[[G3441]]"
+- "[[G4904]]"
+- "[[G1519]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G3748]]"
+- "[[G1096]]"
+- "[[G3165]]"
+- "[[G3931]]"
+texts:
+- NKO
+---
+
 **Colossians 4:11**<big><big>[[Col.4.7 Greetings from Paul’s Fellow Workers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus, which is called Justus, who are of the circumcision. These only [are my] fellowworkers unto the kingdom of God, which have been a comfort unto me.
 <small><sub>**BSB:**</sub></small>
 Jesus, who is called Justus, also sends greetings. These are the only Jews among my fellow workers for the kingdom of God, and they have been a comfort to me.
-<small><sub>**Literal:**</sub></small>
-and also Jesus who is being named Justus, those being among [the] circumcision these only fellow workers for the kingdom <the> of God, who have been to me a comfort.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.10|<< Colossians 4:10]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.12|Colossians 4:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2424\|Ἰησοῦς]]  [[G3588\|ὁ]]  [[G3004H\|λεγόμενος]]  [[G2459H\|Ἰοῦστος,]]  [[G3588\|οἱ]]  [[G1510\|ὄντες]]  [[G1537\|ἐκ]]  [[G4061\|περιτομῆς,]]  [[G3778\|οὗτοι]]  [[G3441\|μόνοι]]  [[G4904\|συνεργοὶ]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G3748\|οἵτινες]]  [[G1096\|ἐγενήθησάν]]  [[G3165\|μοι]]  [[G3931\|παρηγορία.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIRCUMCISION|CIRCUMCISION]] • [[topic JUSTUS|JUSTUS]] • [[topic MARK|MARK]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.10|<< Colossians 4:10]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.12|Colossians 4:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

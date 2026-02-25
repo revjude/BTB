@@ -1,8 +1,53 @@
+---
+title: 1 Samuel 12:13
+type: Verse
+kjv: "Now therefore behold the king whom ye have chosen, and whom ye have desired! and, behold, the LORD hath set a king over you."
+bsb: "Now here is the king you have chosen, the one you requested. Behold, the LORD has placed a king over you."
+hebrew: "וְעַתָּ֗ה הִנֵּ֥ה הַמֶּ֛לֶךְ אֲשֶׁ֥ר בְּחַרְתֶּ֖ם אֲשֶׁ֣ר שְׁאֶלְתֶּ֑ם וְהִנֵּ֨ה נָתַ֧ן יְהוָ֛ה עֲלֵיכֶ֖ם מֶֽלֶךְ׃"
+pericope: "[[1Sam.12.1 Samuel’s Farewell Address|Samuel’s Farewell Address]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 12
+book/chapter: "[[1Sam.12|1 Samuel 12]]"
+chronological_order: 291
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H2009]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0834A]]"
+- "[[H0977]]"
+- "[[H7592]]"
+- "[[H5414H]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 12:13**<big><big>[[1Sam.12.1 Samuel’s Farewell Address|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore behold the king whom ye have chosen, [and] whom ye have desired! and, behold, the LORD hath set a king over you.
 <small><sub>**BSB:**</sub></small>
 Now here is the king you have chosen, the one you requested. Behold, the LORD has placed a king over you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H2009\|הִנֵּ֥ה]] [[H9009\|הַ]][[H4428G\|מֶּ֛לֶךְ]] [[H0834A\|אֲשֶׁ֥ר]] [[H0977\|בְּחַרְתֶּ֖ם]] [[H0834A\|אֲשֶׁ֣ר]] [[H7592\|שְׁאֶלְתֶּ֑ם]] [[H9002\|וְ]][[H2009\|הִנֵּ֨ה]] [[H5414H\|נָתַ֧ן]] [[H3068G\|יְהוָ֛ה]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֖ם]] [[H4428G\|מֶֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.12.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.12.12|<< 1 Samuel 12:12]]</td><td align="center" style="border:none;">[[1Sam.12|1 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.12.14|1 Samuel 12:14 >>]]</td></tr></table>
 

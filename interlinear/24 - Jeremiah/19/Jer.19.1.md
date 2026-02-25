@@ -1,8 +1,60 @@
+---
+title: Jeremiah 19:1
+type: Verse
+kjv: "Thus saith the LORD, Go and get a potter’s earthen bottle, and take of the ancients of the people, and of the ancients of the priests;"
+bsb: "This is what the LORD says: “Go and buy a clay jar from a potter. Take some of the elders of the people and leaders of the priests,"
+hebrew: "כֹּ֚ה אָמַ֣ר יְהוָ֔ה הָל֛וֹךְ וְקָנִ֥יתָ בַקְבֻּ֖ק יוֹצֵ֣ר חָ֑רֶשׂ וּמִזִּקְנֵ֣י הָעָ֔ם וּמִזִּקְנֵ֖י הַכֹּהֲנִֽים׃"
+pericope: "[[Jer.19.1 The Broken Jar|The Broken Jar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 19
+book/chapter: "[[Jer.19|Jeremiah 19]]"
+chronological_order: 736
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BOTTLE|BOTTLE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H1980G]]"
+- "[[H9001]]"
+- "[[H7069]]"
+- "[[H1228]]"
+- "[[H3335H]]"
+- "[[H2789]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H2205G]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H3548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 19:1**<big><big>[[Jer.19.1 The Broken Jar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD, Go and get a potter’s earthen bottle, and [take] of the ancients of the people, and of the ancients of the priests;
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: “Go and buy a clay jar from a potter. Take some of the elders of the people and leaders of the priests,
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H1980G\|הָל֛וֹךְ]] [[H9001\|וְ]][[H7069\|קָנִ֥יתָ]] [[H1228\|בַקְבֻּ֖ק]] [[H3335H\|יוֹצֵ֣ר]] [[H2789\|חָ֑רֶשׂ]] [[H9002\|וּ]][[H9006\|מִ]][[H2205G\|זִּקְנֵ֣י]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9002\|וּ]][[H9006\|מִ]][[H2205G\|זִּקְנֵ֖י]] [[H9009\|הַ]][[H3548\|כֹּהֲנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOTTLE|BOTTLE]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.19.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.23|<< Jeremiah 18:23]]</td><td align="center" style="border:none;">[[Jer.19|Jeremiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.19.2|Jeremiah 19:2 >>]]</td></tr></table>
 

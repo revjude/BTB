@@ -1,8 +1,54 @@
+---
+title: Judges 5:21
+type: Verse
+kjv: "The river of Kishon swept them away, that ancient river, the river Kishon. O my soul, thou hast trodden down strength."
+bsb: "The River Kishon swept them away, the ancient river, the River Kishon. March on, O my soul, in strength!"
+hebrew: "נַ֤חַל קִישׁוֹן֙ גְּרָפָ֔ם נַ֥חַל קְדוּמִ֖ים נַ֣חַל קִישׁ֑וֹן תִּדְרְכִ֥י נַפְשִׁ֖י עֹֽז׃"
+pericope: "[[Judg.5.1 The Song of Deborah and Barak|The Song of Deborah and Barak]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 5
+book/chapter: "[[Judg.5|Judges 5]]"
+chronological_order: 259
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic KISHON|KISHON]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic SISERA|SISERA]]"
+strongs:
+- "[[H5158A]]"
+- "[[H7028]]"
+- "[[H1640]]"
+- "[[H9038]]"
+- "[[H6917]]"
+- "[[H1869]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H5797]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 5:21**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The river of Kishon swept them away, that ancient river, the river Kishon. O my soul, thou hast trodden down strength.
 <small><sub>**BSB:**</sub></small>
 The River Kishon swept them away, the ancient river, the River Kishon. March on, O my soul, in strength!
+<small><sub>**Hebrew:**</sub></small>
+[[H5158A\|נַ֤חַל]] [[H7028\|קִישׁוֹן֙]] [[H1640\|גְּרָפָ֔]][[H9038\|ם]] [[H5158A\|נַ֥חַל]] [[H6917\|קְדוּמִ֖ים]] [[H5158A\|נַ֣חַל]] [[H7028\|קִישׁ֑וֹן]] [[H1869\|תִּדְרְכִ֥י]] [[H5315G\|נַפְשִׁ֖]][[H9020\|י]] [[H5797\|עֹֽז]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHIDING|CHIDING]] • [[topic COUNTRY|COUNTRY]] • [[topic KISHON|KISHON]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic SISERA|SISERA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.20|<< Judges 5:20]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.22|Judges 5:22 >>]]</td></tr></table>
 

@@ -1,8 +1,72 @@
+---
+title: Genesis 39:23
+type: Verse
+kjv: "The keeper of the prison looked not to any thing that was under his hand; because the LORD was with him, and that which he did, the LORD made it to prosper."
+bsb: "The warden did not concern himself with anything under Joseph’s care, because the LORD was with Joseph and gave him success in whatever he did."
+hebrew: "אֵ֣ין׀ שַׂ֣ר בֵּית־ הַסֹּ֗הַר רֹאֶ֤ה אֶֽת־ כָּל־ מְא֙וּמָה֙ בְּיָד֔וֹ בַּאֲשֶׁ֥ר יְהוָ֖ה אִתּ֑וֹ וַֽאֲשֶׁר־ ה֥וּא עֹשֶׂ֖ה יְהוָ֥ה מַצְלִֽיחַ׃ ס"
+pericope: "[[Gen.39.13 Joseph Falsely Imprisoned|Joseph Falsely Imprisoned]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 39
+book/chapter: "[[Gen.39|Genesis 39]]"
+chronological_order: 81
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CRIMINALS|CRIMINALS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MERCY|MERCY]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[H0369]]"
+- "[[H9015]]"
+- "[[H8269]]"
+- "[[H1004B]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5470]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H3972]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9023]]"
+- "[[H0834B]]"
+- "[[H3068G]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H0834A]]"
+- "[[H1931]]"
+- "[[H6213A]]"
+- "[[H6743B]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Genesis 39:23**<big><big>[[Gen.39.13 Joseph Falsely Imprisoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The keeper of the prison looked not to any thing [that was] under his hand; because the LORD was with him, and [that] which he did, the LORD made [it] to prosper.
 <small><sub>**BSB:**</sub></small>
 The warden did not concern himself with anything under Joseph’s care, because the LORD was with Joseph and gave him success in whatever he did.
+<small><sub>**Hebrew:**</sub></small>
+[[H0369\|אֵ֣ין]][[H9015\|׀]] [[H8269\|שַׂ֣ר]] [[H1004B\|בֵּית]][[H9014\|־]] [[H9009\|הַ]][[H5470\|סֹּ֗הַר]] [[H7200G\|רֹאֶ֤ה]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3972\|מְא֙וּמָה֙]] [[H9003\|בְּ]][[H3027H\|יָד֔]][[H9023\|וֹ]] [[H9003\|בַּ]][[H0834B\|אֲשֶׁ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H0854\|אִתּ֑]][[H9033\|וֹ]] [[H9002\|וַֽ]][[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1931\|ה֥וּא]] [[H6213A\|עֹשֶׂ֖ה]] [[H3068G\|יְהוָ֥ה]] [[H6743B\|מַצְלִֽיחַ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRIMINALS|CRIMINALS]] • [[topic GOD|GOD]] • [[topic JOSEPH|JOSEPH]] • [[topic MERCY|MERCY]] • [[topic PRISONERS|PRISONERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.22|<< Genesis 39:22]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.1|Genesis 40:1 >>]]</td></tr></table>
 
@@ -24,7 +88,7 @@ The warden did not concern himself with anything under Joseph’s care, because 
 | he  |**<big>&#8207;[[H1931\|ה֥וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] doing  |**<big>&#8207;[[H6213A\|עֹשֶׂ֖ה]]&#8207; </big>**| 'o.Seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] making successful  |**<big>&#8207;[[H6743B\|מַצְלִֽיחַ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| matz.Li.ach<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] making successful  |**<big>&#8207;[[H6743B\|מַצְלִֽיחַ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| matz.Li.ach<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.22|<< Genesis 39:22]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.1|Genesis 40:1 >>]]</td></tr></table>
 
 

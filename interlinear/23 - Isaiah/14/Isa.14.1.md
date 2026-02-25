@@ -1,8 +1,63 @@
+---
+title: Isaiah 14:1
+type: Verse
+kjv: "For the LORD will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob."
+bsb: "For the LORD will have compassion on Jacob; once again He will choose Israel and settle them in their own land. The foreigner will join them and unite with the house of Jacob."
+hebrew: "כִּי֩ יְרַחֵ֨ם יְהוָ֜ה אֶֽת־ יַעֲקֹ֗ב וּבָחַ֥ר עוֹד֙ בְּיִשְׂרָאֵ֔ל וְהִנִּיחָ֖ם עַל־ אַדְמָתָ֑ם וְנִלְוָ֤ה הַגֵּר֙ עֲלֵיהֶ֔ם וְנִסְפְּח֖וּ עַל־ בֵּ֥ית יַעֲקֹֽב׃"
+pericope: "[[Isa.14.1 Restoration for Israel|Restoration for Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 14
+book/chapter: "[[Isa.14|Isaiah 14]]"
+chronological_order: 631
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISAIAH|ISAIAH]]"
+strongs:
+- "[[H3588A]]"
+- "[[H7355]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3290]]"
+- "[[H9001]]"
+- "[[H0977]]"
+- "[[H5750]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H5117]]"
+- "[[H9038]]"
+- "[[H5921A]]"
+- "[[H0127G]]"
+- "[[H9028]]"
+- "[[H3867A]]"
+- "[[H9009]]"
+- "[[H1616]]"
+- "[[H5596A]]"
+- "[[H1004M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 14:1**<big><big>[[Isa.14.1 Restoration for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob.
 <small><sub>**BSB:**</sub></small>
 For the LORD will have compassion on Jacob; once again He will choose Israel and settle them in their own land. The foreigner will join them and unite with the house of Jacob.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H7355\|יְרַחֵ֨ם]] [[H3068G\|יְהוָ֜ה]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3290\|יַעֲקֹ֗ב]] [[H9001\|וּ]][[H0977\|בָחַ֥ר]] [[H5750\|עוֹד֙]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וְ]][[H5117\|הִנִּיחָ֖]][[H9038\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H0127G\|אַדְמָתָ֑]][[H9028\|ם]] [[H9001\|וְ]][[H3867A\|נִלְוָ֤ה]] [[H9009\|הַ]][[H1616\|גֵּר֙]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֔ם]] [[H9001\|וְ]][[H5596A\|נִסְפְּח֖וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H1004M\|בֵּ֥ית]] [[H3290\|יַעֲקֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISAIAH|ISAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.22|<< Isaiah 13:22]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.2|Isaiah 14:2 >>]]</td></tr></table>
 

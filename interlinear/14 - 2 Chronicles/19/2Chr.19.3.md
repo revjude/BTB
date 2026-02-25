@@ -1,8 +1,65 @@
+---
+title: 2 Chronicles 19:3
+type: Verse
+kjv: "Nevertheless there are good things found in thee, in that thou hast taken away the groves out of the land, and hast prepared thine heart to seek God."
+bsb: "However, some good is found in you, for you have removed the Asherah poles from the land and have set your heart on seeking God.”"
+hebrew: "אֲבָ֕ל דְּבָרִ֥ים טוֹבִ֖ים נִמְצְא֣וּ עִמָּ֑ךְ כִּֽי־ בִעַ֤רְתָּ הָאֲשֵׁרוֹת֙ מִן־ הָאָ֔רֶץ וַהֲכִינ֥וֹתָ לְבָבְךָ֖ לִדְרֹ֥שׁ הָֽאֱלֹהִֽים׃"
+pericope: "[[2Chr.19.1 Jehoshaphat Reproved by Jehu|Jehoshaphat Reproved by Jehu]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 19
+book/chapter: "[[2Chr.19|2 Chronicles 19]]"
+chronological_order: 572
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic GROVES|GROVES]]"
+- "[[topic HEART|HEART]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H0061]]"
+- "[[H1697I]]"
+- "[[H2896A]]"
+- "[[H4672]]"
+- "[[H5973A]]"
+- "[[H9031]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1197H]]"
+- "[[H9009]]"
+- "[[H0842]]"
+- "[[H4480A]]"
+- "[[H0776G]]"
+- "[[H9001]]"
+- "[[H3559H]]"
+- "[[H3824]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H1875]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 19:3**<big><big>[[2Chr.19.1 Jehoshaphat Reproved by Jehu|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless there are good things found in thee, in that thou hast taken away the groves out of the land, and hast prepared thine heart to seek God.
 <small><sub>**BSB:**</sub></small>
 However, some good is found in you, for you have removed the Asherah poles from the land and have set your heart on seeking God.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0061\|אֲבָ֕ל]] [[H1697I\|דְּבָרִ֥ים]] [[H2896A\|טוֹבִ֖ים]] [[H4672\|נִמְצְא֣וּ]] [[H5973A\|עִמָּ֑]][[H9031\|ךְ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1197H\|בִעַ֤רְתָּ]] [[H9009\|הָ]][[H0842\|אֲשֵׁרוֹת֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9001\|וַ]][[H3559H\|הֲכִינ֥וֹתָ]] [[H3824\|לְבָבְ]][[H9021\|ךָ֖]] [[H9005\|לִ]][[H1875\|דְרֹ֥שׁ]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GROVES|GROVES]] • [[topic HEART|HEART]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.19.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.19.2|<< 2 Chronicles 19:2]]</td><td align="center" style="border:none;">[[2Chr.19|2 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.19.4|2 Chronicles 19:4 >>]]</td></tr></table>
 

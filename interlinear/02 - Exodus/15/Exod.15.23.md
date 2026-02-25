@@ -1,8 +1,70 @@
+---
+title: Exodus 15:23
+type: Verse
+kjv: "And when they came to Marah, they could not drink of the waters of Marah, for they were bitter: therefore the name of it was called Marah."
+bsb: "And when they came to Marah, they could not drink the water there because it was bitter. (That is why it was named Marah.)"
+hebrew: "וַיָּבֹ֣אוּ מָרָ֔תָה וְלֹ֣א יָֽכְל֗וּ לִשְׁתֹּ֥ת מַ֙יִם֙ מִמָּרָ֔ה כִּ֥י מָרִ֖ים הֵ֑ם עַל־ כֵּ֥ן קָרָֽא־ שְׁמָ֖הּ מָרָֽה׃"
+pericope: "[[Exod.15.22 The Waters of Marah|The Waters of Marah]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 15
+book/chapter: "[[Exod.15|Exodus 15]]"
+chronological_order: 107
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BITTER WATER|BITTER WATER]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MARAH|MARAH]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H4785]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H8354]]"
+- "[[H4325G]]"
+- "[[H9006]]"
+- "[[H3588A]]"
+- "[[H4751]]"
+- "[[H1992]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 15:23**<big><big>[[Exod.15.22 The Waters of Marah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they came to Marah, they could not drink of the waters of Marah, for they [were] bitter: therefore the name of it was called Marah.
 <small><sub>**BSB:**</sub></small>
 And when they came to Marah, they could not drink the water there because it was bitter. (That is why it was named Marah.)
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֣אוּ]] [[H4785\|מָרָ֔תָ]][[H9011\|ה]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3201\|יָֽכְל֗וּ]] [[H9005\|לִ]][[H8354\|שְׁתֹּ֥ת]] [[H4325G\|מַ֙יִם֙]] [[H9006\|מִ]][[H4785\|מָּרָ֔ה]] [[H3588A\|כִּ֥י]] [[H4751\|מָרִ֖ים]] [[H1992\|הֵ֑ם]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֥ן]] [[H7121H\|קָרָֽא]][[H9014\|־]] [[H8034\|שְׁמָ֖]][[H9024\|הּ]] [[H4785\|מָרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BITTER WATER|BITTER WATER]] • [[topic ISRAEL|ISRAEL]] • [[topic MARAH|MARAH]] • [[topic MURMURING|MURMURING]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.15.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.22|<< Exodus 15:22]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.24|Exodus 15:24 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

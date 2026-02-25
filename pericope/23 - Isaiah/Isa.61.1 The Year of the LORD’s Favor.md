@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Year of the LORD’s Favor
+type: Pericope
 pericope: "[[Isa.61.1 The Year of the LORD’s Favor|The Year of the LORD’s Favor]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 61
 book/chapter: "[[Isa.61|Isaiah 61]]"
-genre:
+chronological_order: 700
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 11
 verses:
 - "[[Isa.61.1]]"
 - "[[Isa.61.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Isa.61.11]]"
 ---
 
-[[Isa.61|Isaiah 61:1 - Isaiah 61:11]]
+<small>[[Isa.61|Isaiah 61:1-11]]</small>
 *The Year of the LORD’s Favor*
 
 [[Isa.61.1|1]] The Spirit of the Lord GOD \[is\] upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to \[them that are\] bound;

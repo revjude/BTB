@@ -1,8 +1,59 @@
+---
+title: Daniel 10:4
+type: Verse
+kjv: "And in the four and twentieth day of the first month, as I was by the side of the great river, which is Hiddekel;"
+bsb: "On the twenty-fourth day of the first month, as I was standing on the bank of the great river, the Tigris,"
+hebrew: "וּבְי֛וֹם עֶשְׂרִ֥ים וְאַרְבָּעָ֖ה לַחֹ֣דֶשׁ הָרִאשׁ֑וֹן וַאֲנִ֗י הָיִ֛יתִי עַ֣ל יַ֧ד הַנָּהָ֛ר הַגָּד֖וֹל ה֥וּא חִדָּֽקֶל׃"
+pericope: "[[Dan.10.1 Daniel’s Vision by the Tigris|Daniel’s Vision by the Tigris]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 10
+book/chapter: "[[Dan.10|Daniel 10]]"
+chronological_order: 846
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic HIDDEKEL|HIDDEKEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H6242]]"
+- "[[H0702]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H0589]]"
+- "[[H1961]]"
+- "[[H5921A]]"
+- "[[H3027K]]"
+- "[[H5104H]]"
+- "[[H1419A]]"
+- "[[H1931]]"
+- "[[H2313]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 10:4**<big><big>[[Dan.10.1 Daniel’s Vision by the Tigris|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the four and twentieth day of the first month, as I was by the side of the great river, which [is] Hiddekel;
 <small><sub>**BSB:**</sub></small>
 On the twenty-fourth day of the first month, as I was standing on the bank of the great river, the Tigris,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H3117G\|י֛וֹם]] [[H6242\|עֶשְׂרִ֥ים]] [[H9002\|וְ]][[H0702\|אַרְבָּעָ֖ה]] [[H9005\|לַ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הָ]][[H7223G\|רִאשׁ֑וֹן]] [[H9002\|וַ]][[H0589\|אֲנִ֗י]] [[H1961\|הָיִ֛יתִי]] [[H5921A\|עַ֣ל]] [[H3027K\|יַ֧ד]] [[H9009\|הַ]][[H5104H\|נָּהָ֛ר]] [[H9009\|הַ]][[H1419A\|גָּד֖וֹל]] [[H1931\|ה֥וּא]] [[H2313\|חִדָּֽקֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HIDDEKEL|HIDDEKEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.10.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.10.3|<< Daniel 10:3]]</td><td align="center" style="border:none;">[[Dan.10|Daniel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.10.5|Daniel 10:5 >>]]</td></tr></table>
 

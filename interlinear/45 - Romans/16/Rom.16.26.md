@@ -1,10 +1,61 @@
+---
+title: Romans 16:26
+type: Verse
+kjv: "But now is made manifest, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:"
+bsb: "but now revealed and made known through the writings of the prophets by the command of the eternal God, in order to lead all nations to the obedience that comes from faith—"
+greek: "φανερωθέντος δὲ νῦν διά τε γραφῶν προφητικῶν κατ᾽ ἐπιταγὴν τοῦ αἰωνίου θεοῦ εἰς ὑπακοὴν πίστεως εἰς πάντα τὰ ἔθνη γνωρισθέντος,"
+pericope: "[[Rom.16.25 Doxology|Doxology]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 16
+book/chapter: "[[Rom.16|Romans 16]]"
+chronological_order: 1102
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G5319]]"
+- "[[G1161]]"
+- "[[G3568]]"
+- "[[G1223]]"
+- "[[G5037]]"
+- "[[G1124]]"
+- "[[G4397]]"
+- "[[G2596]]"
+- "[[G2003]]"
+- "[[G3588]]"
+- "[[G0166]]"
+- "[[G2316]]"
+- "[[G1519]]"
+- "[[G5218]]"
+- "[[G4102G]]"
+- "[[G3956]]"
+- "[[G1484]]"
+- "[[G1107]]"
+texts:
+- NKO
+---
+
 **Romans 16:26**<big><big>[[Rom.16.25 Doxology|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But now is made manifest, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:
 <small><sub>**BSB:**</sub></small>
 but now revealed and made known through the writings of the prophets by the command of the eternal God, in order to lead all nations to the obedience that comes from faith—
-<small><sub>**Literal:**</sub></small>
-{14.25} having been made manifest however now through also Scriptures prophetic according to [the] commandment of the Eternal God unto [the] obedience of faith — to all the Gentiles having been made known —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.25|<< Romans 16:25]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.27|Romans 16:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5319\|φανερωθέντος]]  [[G1161\|δὲ]]  [[G3568\|νῦν]]  [[G1223\|διά]]  [[G5037\|τε]]  [[G1124\|γραφῶν]]  [[G4397\|προφητικῶν]]  [[G2596\|κατ᾽]]  [[G2003\|ἐπιταγὴν]]  [[G3588\|τοῦ]]  [[G0166\|αἰωνίου]]  [[G2316\|θεοῦ]]  [[G1519\|εἰς]]  [[G5218\|ὑπακοὴν]]  [[G4102G\|πίστεως]]  [[G1519\|εἰς]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G1484\|ἔθνη]]  [[G1107\|γνωρισθέντος,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic MYSTERIES|MYSTERIES]] • [[topic SALVATION|SALVATION]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.25|<< Romans 16:25]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.27|Romans 16:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

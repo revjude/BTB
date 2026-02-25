@@ -1,10 +1,61 @@
+---
+title: John 10:32
+type: Verse
+kjv: "Jesus answered them, Many good works have I shewed you from my Father; for which of those works do ye stone me?"
+bsb: "But Jesus responded, “I have shown you many good works from the Father. For which of these do you stone Me?”"
+jesus_said: "Many good works have I shewed you from my Father; for which of those works do ye stone me?"
+greek: "ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς· πολλὰ ἔργα καλὰ ἔδειξα ὑμῖν ἐκ τοῦ πατρός μου· διὰ ποῖον αὐτῶν ἔργον ἐμὲ λιθάζετε;¶"
+pericope: "[[John.10.22 Jesus at the Feast of Dedication|Jesus at the Feast of Dedication]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 10
+book/chapter: "[[John.10|John 10]]"
+chronological_order: 984
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G4183]]"
+- "[[G2041]]"
+- "[[G2570G]]"
+- "[[G1166]]"
+- "[[G4771]]"
+- "[[G1537]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G1223]]"
+- "[[G4169]]"
+- "[[G1473]]"
+- "[[G3034]]"
+texts:
+- NKO
+- ko
+---
+
 **John 10:32**<big><big>[[John.10.22 Jesus at the Feast of Dedication|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus answered them, Many good works have I shewed you from my Father; for which of those works do ye stone me?
 <small><sub>**BSB:**</sub></small>
 But Jesus responded, “I have shown you many good works from the Father. For which of these do you stone Me?”
-<small><sub>**Literal:**</sub></small>
-Answered them <the> Jesus; Many works good I have shown you from the Father of mine; because of which of these work Me myself do you stone<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.31|<< John 10:31]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.33|John 10:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθη]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G4183\|πολλὰ]]  [[G2041\|ἔργα]]  [[G2570G\|καλὰ]]  [[G1166\|ἔδειξα]]  [[G4771\|ὑμῖν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3962\|πατρός]]  [[G3165\|μου·]]  [[G1223\|διὰ]]  [[G4169\|ποῖον]]  [[G0846\|αὐτῶν]]  [[G2041\|ἔργον]]  [[G1473\|ἐμὲ]]  [[G3034\|λιθάζετε;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TEMPLE|TEMPLE]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.31|<< John 10:31]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.33|John 10:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

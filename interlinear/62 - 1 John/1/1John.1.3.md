@@ -1,10 +1,67 @@
+---
+title: 1 John 1:3
+type: Verse
+kjv: "That which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship is with the Father, and with his Son Jesus Christ."
+bsb: "We proclaim to you what we have seen and heard, so that you also may have fellowship with us. And this fellowship of ours is with the Father and with His Son, Jesus Christ."
+greek: "ὃ ἑωράκαμεν καὶ ἀκηκόαμεν, ἀπαγγέλλομεν καὶ ὑμῖν ἵνα καὶ ὑμεῖς κοινωνίαν ἔχητε μεθ᾽ ἡμῶν· καὶ ἡ κοινωνία δὲ ἡ ἡμετέρα μετὰ τοῦ πατρὸς καὶ μετὰ τοῦ υἱοῦ αὐτοῦ Ἰησοῦ Χριστοῦ."
+pericope: "[[1John.1.1 The Word of Life|The Word of Life]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 1
+book/chapter: "[[1John.1|1 John 1]]"
+chronological_order: 1161
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3739]]"
+- "[[G3708]]"
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G0518]]"
+- "[[G4771]]"
+- "[[G2443]]"
+- "[[G2842]]"
+- "[[G2192]]"
+- "[[G3326]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1473]]"
+- "[[G3962]]"
+- "[[G5207]]"
+- "[[G0846]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+texts:
+- NKO
+- no
+---
+
 **1 John 1:3**<big><big>[[1John.1.1 The Word of Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship [is] with the Father, and with his Son Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 We proclaim to you what we have seen and heard, so that you also may have fellowship with us. And this fellowship of ours is with the Father and with His Son, Jesus Christ.
-<small><sub>**Literal:**</sub></small>
-that which we have seen and have heard, we proclaim also to you so that also you yourselves fellowship may have with us; Indeed the fellowship now <the> our own [is] with the Father and with the Son of Him Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.1.2|<< 1 John 1:2]]</td><td align="center" style="border:none;">[[1John.1|1 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.1.4|1 John 1:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃ]]  [[G3708\|ἑωράκαμεν]]  [[G2532\|καὶ]]  [[G0191\|ἀκηκόαμεν,]]  [[G0518\|ἀπαγγέλλομεν]]  [[G2532\|καὶ]]  [[G4771\|ὑμῖν]]  [[G2443\|ἵνα]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G2842\|κοινωνίαν]]  [[G2192\|ἔχητε]]  [[G3326\|μεθ᾽]]  [[G3165\|ἡμῶν·]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G2842\|κοινωνία]]  [[G1161\|δὲ]]  [[G3588\|ἡ]]  [[G1473\|ἡμετέρα]]  [[G3326\|μετὰ]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G2532\|καὶ]]  [[G3326\|μετὰ]]  [[G3588\|τοῦ]]  [[G5207\|υἱοῦ]]  [[G0846\|αὐτοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic COMMUNION|COMMUNION]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.1.2|<< 1 John 1:2]]</td><td align="center" style="border:none;">[[1John.1|1 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.1.4|1 John 1:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

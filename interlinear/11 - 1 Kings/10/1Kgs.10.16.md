@@ -1,8 +1,62 @@
+---
+title: 1 Kings 10:16
+type: Verse
+kjv: "And king Solomon made two hundred targets of beaten gold: six hundred shekels of gold went to one target."
+bsb: "King Solomon made two hundred large shields of hammered gold; six hundred shekels of gold went into each shield."
+hebrew: "וַיַּ֨עַשׂ הַמֶּ֧לֶךְ שְׁלֹמֹ֛ה מָאתַ֥יִם צִנָּ֖ה זָהָ֣ב שָׁח֑וּט שֵׁשׁ־ מֵא֣וֹת זָהָ֔ב יַעֲלֶ֖ה עַל־ הַצִּנָּ֥ה הָאֶחָֽת׃"
+pericope: "[[1Kgs.10.14 Solomon’s Wealth and Splendor|Solomon’s Wealth and Splendor]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 10
+book/chapter: "[[1Kgs.10|1 Kings 10]]"
+chronological_order: 535
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic GOLD|GOLD]]"
+- "[[topic KING|KING]]"
+- "[[topic SHEKEL|SHEKEL]]"
+- "[[topic SHIELD|SHIELD]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TARGET|TARGET]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H8010]]"
+- "[[H3967]]"
+- "[[H6793C]]"
+- "[[H2091]]"
+- "[[H7820]]"
+- "[[H8337]]"
+- "[[H9014]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 10:16**<big><big>[[1Kgs.10.14 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And king Solomon made two hundred targets [of] beaten gold: six hundred [shekels] of gold went to one target.
 <small><sub>**BSB:**</sub></small>
 King Solomon made two hundred large shields of hammered gold; six hundred shekels of gold went into each shield.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֨עַשׂ]] [[H9009\|הַ]][[H4428G\|מֶּ֧לֶךְ]] [[H8010\|שְׁלֹמֹ֛ה]] [[H3967\|מָאתַ֥יִם]] [[H6793C\|צִנָּ֖ה]] [[H2091\|זָהָ֣ב]] [[H7820\|שָׁח֑וּט]] [[H8337\|שֵׁשׁ]][[H9014\|־]] [[H3967\|מֵא֣וֹת]] [[H2091\|זָהָ֔ב]] [[H5927G\|יַעֲלֶ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H6793C\|צִּנָּ֥ה]] [[H9009\|הָ]][[H0259\|אֶחָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOLD|GOLD]] • [[topic KING|KING]] • [[topic SHEKEL|SHEKEL]] • [[topic SHIELD|SHIELD]] • [[topic SOLOMON|SOLOMON]] • [[topic TARGET|TARGET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.15|<< 1 Kings 10:15]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.17|1 Kings 10:17 >>]]</td></tr></table>
 

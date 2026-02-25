@@ -1,8 +1,53 @@
+---
+title: Psalm 120:4
+type: Verse
+kjv: "Sharp arrows of the mighty, with coals of juniper."
+bsb: "Sharp arrows will come from the warrior, with burning coals of the broom tree!"
+hebrew: "חִצֵּ֣י גִבּ֣וֹר שְׁנוּנִ֑ים עִ֝֗ם גַּחֲלֵ֥י רְתָמִֽים׃"
+pericope: "[[Ps.120.1 In My Distress I Cried to the LORD|In My Distress I Cried to the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 120
+book/chapter: "[[Ps.120|Psalm 120]]"
+chronological_order: 882
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ARROW|ARROW]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JUNIPER|JUNIPER]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H2671]]"
+- "[[H1368]]"
+- "[[H8150]]"
+- "[[H5973A]]"
+- "[[H1513]]"
+- "[[H7574]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 120:4**<big><big>[[Ps.120.1 In My Distress I Cried to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sharp arrows of the mighty, with coals of juniper.
 <small><sub>**BSB:**</sub></small>
 Sharp arrows will come from the warrior, with burning coals of the broom tree!
+<small><sub>**Hebrew:**</sub></small>
+[[H2671\|חִצֵּ֣י]] [[H1368\|גִבּ֣וֹר]] [[H8150\|שְׁנוּנִ֑ים]] [[H5973A\|עִ֝֗ם]] [[H1513\|גַּחֲלֵ֥י]] [[H7574\|רְתָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARROW|ARROW]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic JUNIPER|JUNIPER]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.120.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.120.3|<< Psalms 120:3]]</td><td align="center" style="border:none;">[[Ps.120|Psalms 120]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.120.5|Psalms 120:5 >>]]</td></tr></table>
 

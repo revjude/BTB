@@ -1,6 +1,54 @@
+---
+title: LXX Psalm 95:4
+type: Verse
+lxx: "For in  his hand are the ends of the earth; and the heights of the mountains are his."
+greek: "ότι εν τη χειρί αυτού τα πέρατα της γης και τα ύψη των ορέων αυτού εισιν"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 95
+book/chapter: "[[Ps.95|Psalm 95]]"
+chronological_order: 522
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[G3754]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G4009]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5311]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G1473]]"
+- "[[G1510]]"
+---
+
 **LXX Psalm 95:4** 
 <small><sub>**LXX:**</sub></small>
 For in  his hand \[are\] the ends of the earth; and the heights of the mountains are his. 
+<small><sub>**Greek:**</sub></small>
+[[G3754\|ότι]] [[G1722\|εν]] [[G3588\|τη]] [[G5495\|χειρί]] [[G1473\|αυτού]] [[G3588\|τα]] [[G4009\|πέρατα]] [[G3588\|της]] [[G1093\|γης]] [[G2532\|και]] [[G3588\|τα]] [[G5311\|ύψη]] [[G3588\|των]] [[G3735\|ορέων]] [[G1473\|αυτού]] [[G1510\|εισιν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.95.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.95.3|<< Psalm 95:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.95.5|Psalm 95:5 >>]]</td></tr></table>
 
@@ -20,6 +68,6 @@ For in  his hand \[are\] the ends of the earth; and the heights of the mountains
 | of the | **<big>[[G3588\|των]]</big>** |
 | mountains | **<big>[[G3735\|ορέων]]</big>** |
 | are his. | **<big>[[G1473\|αυτού]]</big>** **<big>[[G1510\|εισιν]]</big>** |
-[[Ps.95.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.95.3|<< Psalm 95:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.95.5|Psalm 95:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.95.3|<< Psalm 95:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.95.5|Psalm 95:5 >>]]</td></tr></table>
 
 

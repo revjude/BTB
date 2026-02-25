@@ -1,8 +1,53 @@
+---
+title: Job 30:26
+type: Verse
+kjv: "When I looked for good, then evil came unto me: and when I waited for light, there came darkness."
+bsb: "But when I hoped for good, evil came; when I looked for light, darkness fell."
+hebrew: "כִּ֤י ט֣וֹב קִ֭וִּיתִי וַיָּ֣בֹא רָ֑ע וַֽאֲיַחֲלָ֥ה לְ֝א֗וֹר וַיָּ֥בֹא אֹֽפֶל׃"
+pericope: "[[Job.30.15 Job’s Prosperity Becomes Calamity|Job’s Prosperity Becomes Calamity]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 30
+book/chapter: "[[Job.30|Job 30]]"
+chronological_order: 41
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic COLORS|COLORS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H2896B]]"
+- "[[H6960A]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H7451B]]"
+- "[[H9002]]"
+- "[[H3176H]]"
+- "[[H9005]]"
+- "[[H0216]]"
+- "[[H0652]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 30:26**<big><big>[[Job.30.15 Job’s Prosperity Becomes Calamity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I looked for good, then evil came [unto me]: and when I waited for light, there came darkness.
 <small><sub>**BSB:**</sub></small>
 But when I hoped for good, evil came; when I looked for light, darkness fell.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H2896B\|ט֣וֹב]] [[H6960A\|קִ֭וִּיתִי]] [[H9001\|וַ]][[H0935G\|יָּ֣בֹא]] [[H7451B\|רָ֑ע]] [[H9002\|וַֽ]][[H3176H\|אֲיַחֲלָ֥ה]] [[H9005\|לְ֝]][[H0216\|א֗וֹר]] [[H9001\|וַ]][[H0935G\|יָּ֥בֹא]] [[H0652\|אֹֽפֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.25|<< Job 30:25]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.27|Job 30:27 >>]]</td></tr></table>
 

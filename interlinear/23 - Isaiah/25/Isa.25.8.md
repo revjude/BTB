@@ -1,8 +1,77 @@
+---
+title: Isaiah 25:8
+type: Verse
+kjv: "He will swallow up death in victory; and the Lord GOD will wipe away tears from off all faces; and the rebuke of his people shall he take away from off all the earth: for the LORD hath spoken it."
+bsb: "He will swallow up death forever. The Lord GOD will wipe away the tears from every face and remove the disgrace of His people from the whole earth. For the LORD has spoken."
+hebrew: "בִּלַּ֤ע הַמָּ֙וֶת֙ לָנֶ֔צַח וּמָחָ֨ה אֲדֹנָ֧י יְהוִ֛ה דִּמְעָ֖ה מֵעַ֣ל כָּל־ פָּנִ֑ים וְחֶרְפַּ֣ת עַמּ֗וֹ יָסִיר֙ מֵעַ֣ל כָּל־ הָאָ֔רֶץ כִּ֥י יְהוָ֖ה דִּבֵּֽר׃ פ"
+pericope: "[[Isa.25.1 Praise to the Victorious God|Praise to the Victorious God]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 25
+book/chapter: "[[Isa.25|Isaiah 25]]"
+chronological_order: 668
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H1104]]"
+- "[[H9009]]"
+- "[[H4194]]"
+- "[[H9005]]"
+- "[[H5331]]"
+- "[[H9001]]"
+- "[[H4229A]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H1832]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6440H]]"
+- "[[H9002]]"
+- "[[H2781]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H5493G]]"
+- "[[H0776G]]"
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Isaiah 25:8**<big><big>[[Isa.25.1 Praise to the Victorious God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He will swallow up death in victory; and the Lord GOD will wipe away tears from off all faces; and the rebuke of his people shall he take away from off all the earth: for the LORD hath spoken [it].
 <small><sub>**BSB:**</sub></small>
 He will swallow up death forever. The Lord GOD will wipe away the tears from every face and remove the disgrace of His people from the whole earth. For the LORD has spoken.
+<small><sub>**Hebrew:**</sub></small>
+[[H1104\|בִּלַּ֤ע]] [[H9009\|הַ]][[H4194\|מָּ֙וֶת֙]] [[H9005\|לָ]][[H5331\|נֶ֔צַח]] [[H9001\|וּ]][[H4229A\|מָחָ֨ה]] [[H0136\|אֲדֹנָ֧י]] [[H3069\|יְהוִ֛ה]] [[H1832\|דִּמְעָ֖ה]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H3605\|כָּל]][[H9014\|־]] [[H6440H\|פָּנִ֑ים]] [[H9002\|וְ]][[H2781\|חֶרְפַּ֣ת]] [[H5971A\|עַמּ֗]][[H9023\|וֹ]] [[H5493G\|יָסִיר֙]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H3588A\|כִּ֥י]] [[H3068G\|יְהוָ֖ה]] [[H1696G\|דִּבֵּֽר]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DEATH|DEATH]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic PEACE|PEACE]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RESURRECTION|RESURRECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.25.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.25.7|<< Isaiah 25:7]]</td><td align="center" style="border:none;">[[Isa.25|Isaiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.25.9|Isaiah 25:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -30,7 +99,7 @@ He will swallow up death forever. The Lord GOD will wipe away the tears from eve
 | the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֔רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has spoken  |**<big>&#8207;[[H1696G\|דִּבֵּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| di.Ber<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has spoken  |**<big>&#8207;[[H1696G\|דִּבֵּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| di.Ber<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.25.7|<< Isaiah 25:7]]</td><td align="center" style="border:none;">[[Isa.25|Isaiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.25.9|Isaiah 25:9 >>]]</td></tr></table>
 
 

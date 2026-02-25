@@ -1,10 +1,69 @@
+---
+title: Mark 12:19
+type: Verse
+kjv: "Master, Moses wrote unto us, If a man’s brother die, and leave his wife behind him, and leave no children, that his brother should take his wife, and raise up seed unto his brother."
+bsb: "“Teacher, Moses wrote for us that if a man’s brother dies and leaves a wife but no children, the man is to marry his brother’s widow and raise up offspring for him."
+greek: "διδάσκαλε, Μωϋσῆς ἔγραψεν ἡμῖν ὅτι ἐάν τινος ἀδελφὸς ἀποθάνῃ καὶ καταλίπῃ γυναῖκα καὶ μὴ ἀφῇ τέκνον ἵνα λάβῃ ὁ ἀδελφὸς αὐτοῦ τὴν γυναῖκα αὐτοῦ καὶ ἐξαναστήσῃ σπέρμα τῷ ἀδελφῷ αὐτοῦ."
+pericope: "[[Mark.12.18 The Sadducees and the Resurrection|The Sadducees and the Resurrection]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 12
+book/chapter: "[[Mark.12|Mark 12]]"
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+- "[[topic SATIRE|SATIRE]]"
+strongs:
+- "[[G1320]]"
+- "[[G3475]]"
+- "[[G1125]]"
+- "[[G3165]]"
+- "[[G3754G]]"
+- "[[G1437]]"
+- "[[G5100]]"
+- "[[G0080]]"
+- "[[G0599]]"
+- "[[G2532]]"
+- "[[G2641]]"
+- "[[G1135H]]"
+- "[[G3361]]"
+- "[[G0863G]]"
+- "[[G5043]]"
+- "[[G2443]]"
+- "[[G2983]]"
+- "[[G3588]]"
+- "[[G0846]]"
+- "[[G1817]]"
+- "[[G4690G]]"
+texts:
+- NKO
+- N(K)O
+- k
+---
+
 **Mark 12:19**<big><big>[[Mark.12.18 The Sadducees and the Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Master, Moses wrote unto us, If a man’s brother die, and leave [his] wife [behind him], and leave no children, that his brother should take his wife, and raise up seed unto his brother.
 <small><sub>**BSB:**</sub></small>
 “Teacher, Moses wrote for us that if a man’s brother dies and leaves a wife but no children, the man is to marry his brother’s widow and raise up offspring for him.
-<small><sub>**Literal:**</sub></small>
-Teacher, Moses wrote for us that if of anyone a brother shall die and he may leave behind a wife and not may leave child that shall take the brother of him the wife of him and may raise up seed for the brother of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.18|<< Mark 12:18]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.20|Mark 12:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1320\|διδάσκαλε,]]  [[G3475\|Μωϋσῆς]]  [[G1125\|ἔγραψεν]]  [[G3165\|ἡμῖν]]  [[G3754G\|ὅτι]]  [[G1437\|ἐάν]]  [[G5100\|τινος]]  [[G0080\|ἀδελφὸς]]  [[G0599\|ἀποθάνῃ]]  [[G2532\|καὶ]]  [[G2641\|καταλίπῃ]]  [[G1135H\|γυναῖκα]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G0863G\|ἀφῇ]]  [[G5043\|τέκνον]]  [[G2443\|ἵνα]]  [[G2983\|λάβῃ]]  [[G3588\|ὁ]]  [[G0080\|ἀδελφὸς]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὴν]]  [[G1135H\|γυναῖκα]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G1817\|ἐξαναστήσῃ]]  [[G4690G\|σπέρμα]]  [[G3588\|τῷ]]  [[G0080\|ἀδελφῷ]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BROTHER|BROTHER]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARRIAGE|MARRIAGE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SADDUCEES|SADDUCEES]] • [[topic SATIRE|SATIRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.18|<< Mark 12:18]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.20|Mark 12:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 12:19** is...
 > $\quad$ referencing: [[LXX.Gen.38.8|Gen 38:8]]

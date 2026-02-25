@@ -1,10 +1,56 @@
+---
+title: Matthew 17:3
+type: Verse
+kjv: "And, behold, there appeared unto them Moses and Elias talking with him."
+bsb: "Suddenly Moses and Elijah appeared before them, talking with Jesus."
+greek: "καὶ ἰδοὺ ὤφθη αὐτοῖς Μωϋσῆς καὶ Ἠλίας συλλαλοῦντες μετ᾽ αὐτοῦ.¶"
+pericope: "[[Matt.17.1 The Transfiguration|The Transfiguration]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 17
+book/chapter: "[[Matt.17|Matthew 17]]"
+chronological_order: 967
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic PETER|PETER]]"
+- "[[topic TRANSFIGURATION|TRANSFIGURATION]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G3700]]"
+- "[[G0846]]"
+- "[[G3475]]"
+- "[[G2243]]"
+- "[[G4814]]"
+- "[[G3326]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 17:3**<big><big>[[Matt.17.1 The Transfiguration|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, behold, there appeared unto them Moses and Elias talking with him.
 <small><sub>**BSB:**</sub></small>
 Suddenly Moses and Elijah appeared before them, talking with Jesus.
-<small><sub>**Literal:**</sub></small>
-And behold it appeared to them Moses and Elijah talking with Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.2|<< Matthew 17:2]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.4|Matthew 17:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G3700\|ὤφθη]]  [[G0846\|αὐτοῖς]]  [[G3475\|Μωϋσῆς]]  [[G2532\|καὶ]]  [[G2243\|Ἠλίας]]  [[G4814\|συλλαλοῦντες]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ELIJAH|ELIJAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOSES|MOSES]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic PETER|PETER]] • [[topic TRANSFIGURATION|TRANSFIGURATION]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.2|<< Matthew 17:2]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.4|Matthew 17:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

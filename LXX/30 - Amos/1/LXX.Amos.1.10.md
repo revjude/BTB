@@ -1,6 +1,49 @@
+---
+title: LXX Amos 1:10
+type: Verse
+lxx: "And I will send out fire upon the walls of Tyre, and it shall devour  her foundations."
+greek: "και εξαποστελώ πυρ επί τα τείχη Τύρου και καταφάγεται τα θεμέλια αυτής"
+original_language: Greek
+testament: Old
+book: Amos
+chapter: 1
+book/chapter: "[[Amos.1|Amos 1]]"
+chronological_order: 598
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic FIRE|FIRE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1821]]"
+- "[[G4442]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G5038]]"
+- "[[G5184]]"
+- "[[G2532]]"
+- "[[G2719]]"
+- "[[G3588]]"
+- "[[G2310]]"
+- "[[G1473]]"
+---
+
 **LXX Amos 1:10** 
 <small><sub>**LXX:**</sub></small>
 And I will send out fire upon the walls of Tyre, and it shall devour  her foundations. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1821\|εξαποστελώ]] [[G4442\|πυρ]] [[G1909\|επί]] [[G3588\|τα]] [[G5038\|τείχη]] [[G5184\|Τύρου]] [[G2532\|και]] [[G2719\|καταφάγεται]] [[G3588\|τα]] [[G2310\|θεμέλια]] [[G1473\|αυτής]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic FIRE|FIRE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Amos.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.1.9|<< Amos 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.1.11|Amos 1:11 >>]]</td></tr></table>
 
@@ -17,6 +60,6 @@ And I will send out fire upon the walls of Tyre, and it shall devour  her founda
 | it shall devour | **<big>[[G2719\|καταφάγεται]]</big>** |
 | \<obj.> | **<big>[[G3588\|τα]]</big>** |
 | her foundations. | **<big>[[G2310\|θεμέλια]]</big>** **<big>[[G1473\|αυτής]]</big>** |
-[[Amos.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.1.9|<< Amos 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.1.11|Amos 1:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.1.9|<< Amos 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.1.11|Amos 1:11 >>]]</td></tr></table>
 
 

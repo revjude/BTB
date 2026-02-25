@@ -1,10 +1,64 @@
+---
+title: Acts 24:26
+type: Verse
+kjv: "He hoped also that money should have been given him of Paul, that he might loose him: wherefore he sent for him the oftener, and communed with him."
+bsb: "At the same time, he was hoping that Paul would offer him a bribe. So he sent for Paul frequently and talked with him."
+greek: "ἅμα δὲ καὶ ἐλπίζων ὅτι χρήματα δοθήσεται αὐτῷ ὑπὸ τοῦ Παύλου ὅπως λύσῃ αὐτόν, διὸ καὶ πυκνότερον αὐτὸν μεταπεμπόμενος ὡμίλει αὐτῷ.¶"
+pericope: "[[Acts.24.22 The Verdict Postponed|The Verdict Postponed]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 24
+book/chapter: "[[Acts.24|Acts 24]]"
+chronological_order: 1106
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BRIBERY|BRIBERY]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic COURT|COURT]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FELIX|FELIX]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G0260]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G1679]]"
+- "[[G3754G]]"
+- "[[G5536]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G5259G]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G3704]]"
+- "[[G3089]]"
+- "[[G1352]]"
+- "[[G4437]]"
+- "[[G3343]]"
+- "[[G3656]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 24:26**<big><big>[[Acts.24.22 The Verdict Postponed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He hoped also that money should have been given him of Paul, that he might loose him: wherefore he sent for him the oftener, and communed with him.
 <small><sub>**BSB:**</sub></small>
 At the same time, he was hoping that Paul would offer him a bribe. So he sent for Paul frequently and talked with him.
-<small><sub>**Literal:**</sub></small>
-At the same time now also he is hoping that riches will be given to him by <the> Paul so that may release him Therefore also often him sending for he was talking with him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.25|<< Acts 24:25]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.27|Acts 24:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0260\|ἅμα]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G1679\|ἐλπίζων]]  [[G3754G\|ὅτι]]  [[G5536\|χρήματα]]  [[G1325\|δοθήσεται]]  [[G0846\|αὐτῷ]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G3972G\|Παύλου]]  [[G3704\|ὅπως]]  [[G3089\|λύσῃ]]  [[G0846\|αὐτόν,]]  [[G1352\|διὸ]]  [[G2532\|καὶ]]  [[G4437\|πυκνότερον]]  [[G0846\|αὐτὸν]]  [[G3343\|μεταπεμπόμενος]]  [[G3656\|ὡμίλει]]  [[G0846\|αὐτῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIBERY|BRIBERY]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic COURT|COURT]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FELIX|FELIX]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JUDGE|JUDGE]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.25|<< Acts 24:25]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.27|Acts 24:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

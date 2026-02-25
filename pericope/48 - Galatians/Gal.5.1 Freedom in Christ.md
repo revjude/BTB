@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Freedom in Christ
+type: Pericope
 pericope: "[[Gal.5.1 Freedom in Christ|Freedom in Christ]]"
-verse_count: 15
+original_language: Greek
 testament: New
 book: Galatians
 chapter: 5
 book/chapter: "[[Gal.5|Galatians 5]]"
-genre:
+chronological_order: 1043
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
 - epistle
 - pauline epistle
 - polemical
+verse_count: 15
 verses:
 - "[[Gal.5.1]]"
 - "[[Gal.5.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Gal.5.15]]"
 ---
 
-[[Gal.5|Galatians 5:1 - Galatians 5:15]]
+<small>[[Gal.5|Galatians 5:1-15]]</small>
 *Freedom in Christ*
 
 [[Gal.5.1|1]] Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.

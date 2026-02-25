@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul Confronts Cephas
+type: Pericope
 pericope: "[[Gal.2.11 Paul Confronts Cephas|Paul Confronts Cephas]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Galatians
 chapter: 2
 book/chapter: "[[Gal.2|Galatians 2]]"
-genre:
+chronological_order: 1040
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
 - epistle
 - pauline epistle
 - polemical
+verse_count: 11
 verses:
 - "[[Gal.2.11]]"
 - "[[Gal.2.12]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Gal.2.21]]"
 ---
 
-[[Gal.2|Galatians 2:11 - Galatians 2:21]]
+<small>[[Gal.2|Galatians 2:11-21]]</small>
 *Paul Confronts Cephas*
 
 [[Gal.2.11|11]] But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed.

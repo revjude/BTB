@@ -1,8 +1,68 @@
+---
+title: 2 Kings 9:35
+type: Verse
+kjv: "And they went to bury her: but they found no more of her than the skull, and the feet, and the palms of her hands."
+bsb: "But when they went out to bury her, they found nothing but her skull, her feet, and the palms of her hands."
+hebrew: "וַיֵּלְכ֖וּ לְקָבְרָ֑הּ וְלֹא־ מָ֣צְאוּ בָ֗הּ כִּ֧י אִם־ הַגֻּלְגֹּ֛לֶת וְהָרַגְלַ֖יִם וְכַפּ֥וֹת הַיָּדָֽיִם׃"
+pericope: "[[2Kgs.9.30 Jezebel’s Violent Death|Jezebel’s Violent Death]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 9
+book/chapter: "[[2Kgs.9|2 Kings 9]]"
+chronological_order: 582
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic JEZEBEL|JEZEBEL]]"
+- "[[topic JEZREEL|JEZREEL]]"
+- "[[topic NABOTH|NABOTH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic USURPATION|USURPATION]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H6912]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H4672]]"
+- "[[H9003]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H9009]]"
+- "[[H1538]]"
+- "[[H7272]]"
+- "[[H3709G]]"
+- "[[H3027G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 9:35**<big><big>[[2Kgs.9.30 Jezebel’s Violent Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they went to bury her: but they found no more of her than the skull, and the feet, and the palms of [her] hands.
 <small><sub>**BSB:**</sub></small>
 But when they went out to bury her, they found nothing but her skull, her feet, and the palms of her hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּלְכ֖וּ]] [[H9005\|לְ]][[H6912\|קָבְרָ֑]][[H9034\|הּ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H4672\|מָ֣צְאוּ]] [[H9003\|בָ֗]][[H9034\|הּ]] [[H3588B\|כִּ֧י]] [[H0518B\|אִם]][[H9014\|־]] [[H9009\|הַ]][[H1538\|גֻּלְגֹּ֛לֶת]] [[H9002\|וְ]][[H9009\|הָ]][[H7272\|רַגְלַ֖יִם]] [[H9002\|וְ]][[H3709G\|כַפּ֥וֹת]] [[H9009\|הַ]][[H3027G\|יָּדָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic ELIJAH|ELIJAH]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JEHU|JEHU]] • [[topic JEZEBEL|JEZEBEL]] • [[topic JEZREEL|JEZREEL]] • [[topic NABOTH|NABOTH]] • [[topic PROPHECY|PROPHECY]] • [[topic USURPATION|USURPATION]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.34|<< 2 Kings 9:34]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.36|2 Kings 9:36 >>]]</td></tr></table>
 

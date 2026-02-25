@@ -1,8 +1,74 @@
+---
+title: Deuteronomy 3:8
+type: Verse
+kjv: "And we took at that time out of the hand of the two kings of the Amorites the land that was on this side Jordan, from the river of Arnon unto mount Hermon;"
+bsb: "At that time we took from the two kings of the Amorites the land across the Jordan, from the Arnon Valley as far as Mount Hermon—"
+hebrew: "וַנִּקַּ֞ח בָּעֵ֤ת הַהִוא֙ אֶת־ הָאָ֔רֶץ מִיַּ֗ד שְׁנֵי֙ מַלְכֵ֣י הָאֱמֹרִ֔י אֲשֶׁ֖ר בְּעֵ֣בֶר הַיַּרְדֵּ֑ן מִנַּ֥חַל אַרְנֹ֖ן עַד־ הַ֥ר חֶרְמֽוֹן׃"
+pericope: "[[Deut.3.1 The Defeat of Og|The Defeat of Og]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 3
+book/chapter: "[[Deut.3|Deuteronomy 3]]"
+chronological_order: 199
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic ARNON|ARNON]]"
+- "[[topic HERMON|HERMON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OG|OG]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic SIHON|SIHON]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H8147]]"
+- "[[H4428G]]"
+- "[[H0567]]"
+- "[[H0834A]]"
+- "[[H5676H]]"
+- "[[H3383]]"
+- "[[H5158N]]"
+- "[[H0769]]"
+- "[[H5704]]"
+- "[[H2022G]]"
+- "[[H2768]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 3:8**<big><big>[[Deut.3.1 The Defeat of Og|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And we took at that time out of the hand of the two kings of the Amorites the land that [was] on this side Jordan, from the river of Arnon unto mount Hermon;
 <small><sub>**BSB:**</sub></small>
 At that time we took from the two kings of the Amorites the land across the Jordan, from the Arnon Valley as far as Mount Hermon—
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|נִּקַּ֞ח]] [[H9003\|בָּ]][[H6256\|עֵ֤ת]] [[H9009\|הַ]][[H1931\|הִוא֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9006\|מִ]][[H3027H\|יַּ֗ד]] [[H8147\|שְׁנֵי֙]] [[H4428G\|מַלְכֵ֣י]] [[H9009\|הָ]][[H0567\|אֱמֹרִ֔י]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בְּ]][[H5676H\|עֵ֣בֶר]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֑ן]] [[H9006\|מִ]][[H5158N\|נַּ֥חַל]] [[H0769\|אַרְנֹ֖ן]] [[H5704\|עַד]][[H9014\|־]] [[H2022G\|הַ֥ר]] [[H2768\|חֶרְמֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic ARNON|ARNON]] • [[topic HERMON|HERMON]] • [[topic ISRAEL|ISRAEL]] • [[topic OG|OG]] • [[topic REUBENITES|REUBENITES]] • [[topic SIHON|SIHON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.7|<< Deuteronomy 3:7]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.9|Deuteronomy 3:9 >>]]</td></tr></table>
 

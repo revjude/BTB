@@ -1,10 +1,61 @@
+---
+title: Luke 17:8
+type: Verse
+kjv: "And will not rather say unto him, Make ready wherewith I may sup, and gird thyself, and serve me, till I have eaten and drunken; and afterward thou shalt eat and drink?"
+bsb: "Instead, won’t he tell him, ‘Prepare my meal and dress yourself to serve me while I eat and drink, and afterward you may eat and drink’?"
+jesus_said: "And will not rather say unto him, Make ready wherewith I may sup, and gird thyself, and serve me, till I have eaten and drunken; and afterward thou shalt eat and drink?"
+greek: "ἀλλ᾽ οὐχὶ ἐρεῖ αὐτῷ· ἑτοίμασον τί δειπνήσω, καὶ περιζωσάμενος διακόνει μοι ἕως φάγω καὶ πίω, καὶ μετὰ ταῦτα φάγεσαι καὶ πίεσαι σύ;"
+pericope: "[[Luke.17.5 The Power of Faith|The Power of Faith]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 17
+book/chapter: "[[Luke.17|Luke 17]]"
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G0235]]"
+- "[[G3780]]"
+- "[[G4483]]"
+- "[[G0846]]"
+- "[[G2090]]"
+- "[[G5101]]"
+- "[[G1172]]"
+- "[[G2532]]"
+- "[[G4024]]"
+- "[[G1247]]"
+- "[[G3165]]"
+- "[[G2193]]"
+- "[[G5315]]"
+- "[[G4095]]"
+- "[[G3326]]"
+- "[[G3778]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **Luke 17:8**<big><big>[[Luke.17.5 The Power of Faith|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And will not rather say unto him, Make ready wherewith I may sup, and gird thyself, and serve me, till I have eaten and drunken; and afterward thou shalt eat and drink?
 <small><sub>**BSB:**</sub></small>
 Instead, won’t he tell him, ‘Prepare my meal and dress yourself to serve me while I eat and drink, and afterward you may eat and drink’?
-<small><sub>**Literal:**</sub></small>
-But surely he will say to him; do prepare what I may eat, and having girded yourself about do serve me while I may eat and I may drink, and after these things you will eat and will drink you yourself?’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.7|<< Luke 17:7]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.9|Luke 17:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G3780\|οὐχὶ]]  [[G4483\|ἐρεῖ]]  [[G0846\|αὐτῷ·]]  [[G2090\|ἑτοίμασον]]  [[G5101\|τί]]  [[G1172\|δειπνήσω,]]  [[G2532\|καὶ]]  [[G4024\|περιζωσάμενος]]  [[G1247\|διακόνει]]  [[G3165\|μοι]]  [[G2193\|ἕως]]  [[G5315\|φάγω]]  [[G2532\|καὶ]]  [[G4095\|πίω,]]  [[G2532\|καὶ]]  [[G3326\|μετὰ]]  [[G3778\|ταῦτα]]  [[G5315\|φάγεσαι]]  [[G2532\|καὶ]]  [[G4095\|πίεσαι]]  [[G4771\|σύ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SERVANT|SERVANT]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.7|<< Luke 17:7]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.9|Luke 17:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

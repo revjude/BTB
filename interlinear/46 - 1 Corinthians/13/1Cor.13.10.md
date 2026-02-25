@@ -1,10 +1,57 @@
+---
+title: 1 Corinthians 13:10
+type: Verse
+kjv: "But when that which is perfect is come, then that which is in part shall be done away."
+bsb: "but when the perfect comes, the partial passes away."
+greek: "ὅταν δὲ ἔλθῃ τὸ τέλειον, τότε τὸ ἐκ μέρους καταργηθήσεται."
+pericope: "[[1Cor.13.1 Love|Love]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 13
+book/chapter: "[[1Cor.13|1 Corinthians 13]]"
+chronological_order: 1070
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic KNOWLEDGE|KNOWLEDGE]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+strongs:
+- "[[G3752]]"
+- "[[G1161]]"
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G5046]]"
+- "[[G5119]]"
+- "[[G1537]]"
+- "[[G3313]]"
+- "[[G2673]]"
+texts:
+- NKO
+- K
+---
+
 **1 Corinthians 13:10**<big><big>[[1Cor.13.1 Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when that which is perfect is come, then that which is in part shall be done away.
 <small><sub>**BSB:**</sub></small>
 but when the perfect comes, the partial passes away.
-<small><sub>**Literal:**</sub></small>
-when however may come the perfect, then the in part will be done away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.13.9|<< 1 Corinthians 13:9]]</td><td align="center" style="border:none;">[[1Cor.13|1 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.13.11|1 Corinthians 13:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3752\|ὅταν]]  [[G1161\|δὲ]]  [[G2064\|ἔλθῃ]]  [[G3588\|τὸ]]  [[G5046\|τέλειον,]]  [[G5119\|τότε]]  [[G3588\|τὸ]]  [[G1537\|ἐκ]]  [[G3313\|μέρους]]  [[G2673\|καταργηθήσεται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHARITABLENESS|CHARITABLENESS]] • [[topic KNOWLEDGE|KNOWLEDGE]] • [[topic LOVE|LOVE]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SANCTIFICATION|SANCTIFICATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.13.9|<< 1 Corinthians 13:9]]</td><td align="center" style="border:none;">[[1Cor.13|1 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.13.11|1 Corinthians 13:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

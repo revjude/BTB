@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Cupbearer and the Baker
+type: Pericope
 pericope: "[[Gen.40.1 The Cupbearer and the Baker|The Cupbearer and the Baker]]"
-verse_count: 23
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 40
 book/chapter: "[[Gen.40|Genesis 40]]"
-genre:
+chronological_order: 82
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 23
 verses:
 - "[[Gen.40.1]]"
 - "[[Gen.40.2]]"
@@ -44,7 +51,7 @@ verses:
 - "[[Gen.40.23]]"
 ---
 
-[[Gen.40|Genesis 40:1 - Genesis 40:23]]
+<small>[[Gen.40|Genesis 40:1-23]]</small>
 *The Cupbearer and the Baker*
 
 [[Gen.40.1|1]] And it came to pass after these things, \[that\] the butler of the king of Egypt and \[his\] baker had offended their lord the king of Egypt.

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hazael Murders Ben-hadad
+type: Pericope
 pericope: "[[2Kgs.8.7 Hazael Murders Ben-hadad|Hazael Murders Ben-hadad]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 8
 book/chapter: "[[2Kgs.8|2 Kings 8]]"
-genre:
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 9
 verses:
 - "[[2Kgs.8.7]]"
 - "[[2Kgs.8.8]]"
@@ -27,7 +34,7 @@ verses:
 - "[[2Kgs.8.15]]"
 ---
 
-[[2Kgs.8|2 Kings 8:7 - 2 Kings 8:15]]
+<small>[[2Kgs.8|2 Kings 8:7-15]]</small>
 *Hazael Murders Ben-hadad*
 
 [[2Kgs.8.7|7]] And Elisha came to Damascus; and Benhadad the king of Syria was sick; and it was told him, saying, The man of God is come hither.

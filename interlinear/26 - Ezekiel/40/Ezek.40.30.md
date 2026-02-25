@@ -1,8 +1,53 @@
+---
+title: Ezekiel 40:30
+type: Verse
+kjv: "And the arches round about were five and twenty cubits long, and five cubits broad."
+bsb: "(The porticoes around the inner court were twenty-five cubits long and five cubits deep.)"
+hebrew: "וְאֵֽלַמּ֖וֹת סָבִ֣יב׀ סָבִ֑יב אֹ֗רֶךְ חָמֵ֤שׁ וְעֶשְׂרִים֙ אַמָּ֔ה וְרֹ֖חַב חָמֵ֥שׁ אַמּֽוֹת׃"
+pericope: "[[Ezek.40.28 The Gates of the Inner Court|The Gates of the Inner Court]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 40
+book/chapter: "[[Ezek.40|Ezekiel 40]]"
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic WINDOW|WINDOW]]"
+strongs:
+- "[[H9002]]"
+- "[[H0361]]"
+- "[[H5439G]]"
+- "[[H9015]]"
+- "[[H0753]]"
+- "[[H2568]]"
+- "[[H6242]]"
+- "[[H0520A]]"
+- "[[H7341]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 40:30**<big><big>[[Ezek.40.28 The Gates of the Inner Court|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the arches round about [were] five and twenty cubits long, and five cubits broad.
 <small><sub>**BSB:**</sub></small>
 (The porticoes around the inner court were twenty-five cubits long and five cubits deep.)
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0361\|אֵֽלַמּ֖וֹת]] [[H5439G\|סָבִ֣יב]][[H9015\|׀]] [[H5439G\|סָבִ֑יב]] [[H0753\|אֹ֗רֶךְ]] [[H2568\|חָמֵ֤שׁ]] [[H9002\|וְ]][[H6242\|עֶשְׂרִים֙]] [[H0520A\|אַמָּ֔ה]] [[H9002\|וְ]][[H7341\|רֹ֖חַב]] [[H2568\|חָמֵ֥שׁ]] [[H0520A\|אַמּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WINDOW|WINDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.29|<< Ezekiel 40:29]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.31|Ezekiel 40:31 >>]]</td></tr></table>
 

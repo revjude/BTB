@@ -1,8 +1,51 @@
+---
+title: Lamentations 5:9
+type: Verse
+kjv: "We gat our bread with the peril of our lives because of the sword of the wilderness."
+bsb: "We get our bread at the risk of our lives because of the sword in the wilderness."
+hebrew: "בְּנַפְשֵׁ֙נוּ֙ נָבִ֣יא לַחְמֵ֔נוּ מִפְּנֵ֖י חֶ֥רֶב הַמִּדְבָּֽר׃"
+pericope: "[[Lam.5.1 A Prayer for Restoration|A Prayer for Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 5
+book/chapter: "[[Lam.5|Lamentations 5]]"
+chronological_order: 780
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[H9003]]"
+- "[[H5315H]]"
+- "[[H9025]]"
+- "[[H0935P]]"
+- "[[H3899H]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H2719]]"
+- "[[H9009]]"
+- "[[H4057B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Lamentations 5:9**<big><big>[[Lam.5.1 A Prayer for Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We gat our bread with [the peril of] our lives because of the sword of the wilderness.
 <small><sub>**BSB:**</sub></small>
 We get our bread at the risk of our lives because of the sword in the wilderness.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H5315H\|נַפְשֵׁ֙]][[H9025\|נוּ֙]] [[H0935P\|נָבִ֣יא]] [[H3899H\|לַחְמֵ֔]][[H9025\|נוּ]] [[H9006\|מִ]][[H6440I\|פְּנֵ֖י]] [[H2719\|חֶ֥רֶב]] [[H9009\|הַ]][[H4057B\|מִּדְבָּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.5.8|<< Lamentations 5:8]]</td><td align="center" style="border:none;">[[Lam.5|Lamentations 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.5.10|Lamentations 5:10 >>]]</td></tr></table>
 

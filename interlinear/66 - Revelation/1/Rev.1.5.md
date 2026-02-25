@@ -1,10 +1,71 @@
+---
+title: Revelation 1:5
+type: Verse
+kjv: "And from Jesus Christ, who is the faithful witness, and the first begotten of the dead, and the prince of the kings of the earth. Unto him that loved us, and washed us from our sins in his own blood,"
+bsb: "and from Jesus Christ, the faithful witness, the firstborn from the dead, and the ruler of the kings of the earth. To Him who loves us and has released us from our sins by His blood,"
+greek: "καὶ ἀπὸ Ἰησοῦ Χριστοῦ, ὁ μάρτυς ὁ πιστός, ὁ πρωτότοκος ἐκ τῶν νεκρῶν καὶ ὁ ἄρχων τῶν βασιλέων τῆς γῆς. τῷ ἀγαπῶντι ἡμᾶς καὶ λύσαντι ἡμᾶς ἐκ τῶν ἁμαρτιῶν ἡμῶν ἐν τῷ αἵματι αὐτοῦ"
+pericope: "[[Rev.1.4 John Greets the Seven Churches|John Greets the Seven Churches]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 1
+book/chapter: "[[Rev.1|Revelation 1]]"
+chronological_order: 1168
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BIRTHRIGHT|BIRTHRIGHT]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic CLEANLINESS|CLEANLINESS]]"
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G3588]]"
+- "[[G3144]]"
+- "[[G4103]]"
+- "[[G4416]]"
+- "[[G1537]]"
+- "[[G3498]]"
+- "[[G0758]]"
+- "[[G0935]]"
+- "[[G1093G]]"
+- "[[G0025]]"
+- "[[G3165]]"
+- "[[G3089]]"
+- "[[G0266]]"
+- "[[G1722]]"
+- "[[G0129G]]"
+- "[[G0846]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Revelation 1:5**<big><big>[[Rev.1.4 John Greets the Seven Churches|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And from Jesus Christ, [who is] the faithful witness, [and] the first begotten of the dead, and the prince of the kings of the earth. Unto him that loved us, and washed us from our sins in his own blood,
 <small><sub>**BSB:**</sub></small>
 and from Jesus Christ, the faithful witness, the firstborn from the dead, and the ruler of the kings of the earth. To Him who loves us and has released us from our sins by His blood,
-<small><sub>**Literal:**</sub></small>
-and from Jesus Christ, the witness <the> faithful, the firstborn from the dead and the ruler of the kings of the earth. To the [One] loving us and having released us from the sins of us through the blood of Him —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.4|<< Revelation 1:4]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.6|Revelation 1:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0575\|ἀπὸ]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ,]]  [[G3588\|ὁ]]  [[G3144\|μάρτυς]]  [[G3588\|ὁ]]  [[G4103\|πιστός,]]  [[G3588\|ὁ]]  [[G4416\|πρωτότοκος]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G3498\|νεκρῶν]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G0758\|ἄρχων]]  [[G3588\|τῶν]]  [[G0935\|βασιλέων]]  [[G3588\|τῆς]]  [[G1093G\|γῆς.]]  [[G3588\|τῷ]]  [[G0025\|ἀγαπῶντι]]  [[G3165\|ἡμᾶς]]  [[G2532\|καὶ]]  [[G3089\|λύσαντι]]  [[G3165\|ἡμᾶς]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G0266\|ἁμαρτιῶν]]  [[G3165\|ἡμῶν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0129G\|αἵματι]]  [[G0846\|αὐτοῦ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic ATONEMENT|ATONEMENT]] • [[topic BIRTHRIGHT|BIRTHRIGHT]] • [[topic BLOOD|BLOOD]] • [[topic CLEANLINESS|CLEANLINESS]] • [[topic FIRSTBORN|FIRSTBORN]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SIN|SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.4|<< Revelation 1:4]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.6|Revelation 1:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

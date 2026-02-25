@@ -1,6 +1,49 @@
+---
+title: LXX Job 28:15
+type: Verse
+lxx: "One shall not give an investment for her, and shall not set silver as a bargain for her."
+greek: "ου δώσει συγκλεισμόν αντ΄ αυτής και ου σταθήσεται αργύριον αντάλλαγμα αυτής"
+original_language: Greek
+testament: Old
+book: Job
+chapter: 28
+book/chapter: "[[Job.28|Job 28]]"
+chronological_order: 39
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic MONEY|MONEY]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3756]]"
+- "[[G1325]]"
+- "[[G9233]]"
+- "[[G0473]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2476]]"
+- "[[G0694]]"
+- "[[G0465]]"
+- "[[G1473]]"
+---
+
 **LXX Job 28:15** 
 <small><sub>**LXX:**</sub></small>
 One shall not give an investment for her, and shall not set silver as a bargain for her. 
+<small><sub>**Greek:**</sub></small>
+[[G3756\|ου]] [[G1325\|δώσει]] [[G9233\|συγκλεισμόν]] [[G0473\|αντ΄]] [[G1473\|αυτής]] [[G2532\|και]] [[G3756\|ου]] [[G2476\|σταθήσεται]] [[G0694\|αργύριον]] [[G0465\|αντάλλαγμα]] [[G1473\|αυτής]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MONEY|MONEY]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**MT:**</sub></small>
 [[Job.28.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.14|<< Job 28:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.16|Job 28:16 >>]]</td></tr></table>
 
@@ -16,6 +59,6 @@ One shall not give an investment for her, and shall not set silver as a bargain 
 | silver | **<big>[[G0694\|αργύριον]]</big>** |
 | as a bargain | **<big>[[G0465\|αντάλλαγμα]]</big>** |
 | for her. | **<big>[[G1473\|αυτής]]</big>** |
-[[Job.28.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.14|<< Job 28:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.16|Job 28:16 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.14|<< Job 28:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.16|Job 28:16 >>]]</td></tr></table>
 
 

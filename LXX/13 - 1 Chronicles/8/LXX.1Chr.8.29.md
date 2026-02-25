@@ -1,6 +1,47 @@
+---
+title: LXX 1 Chronicles 8:29
+type: Verse
+lxx: "And in Gibeon dwelt the father of Gibeon, and the name  of his wife was Maachah."
+greek: "και εν Γαβαών κατώκησε πατήρ Γαβαών και όνομα τη γυναικί αυτού Μαχά"
+original_language: Greek
+testament: Old
+book: 1 Chronicles
+chapter: 8
+book/chapter: "[[1Chr.8|1 Chronicles 8]]"
+chronological_order: 327
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- septuagint
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic MAACHAH|MAACHAH]]"
+strongs:
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[H1391]]"
+- "[[G2730]]"
+- "[[G3962]]"
+- "[[H1391]]"
+- "[[G2532]]"
+- "[[G3686]]"
+- "[[G3588]]"
+- "[[G1135]]"
+- "[[G1473]]"
+- "[[H4601]]"
+---
+
 **LXX 1 Chronicles 8:29** 
 <small><sub>**LXX:**</sub></small>
 And in Gibeon dwelt \[the\] father of Gibeon, and \[the\] name  of his wife \[was\] Maachah. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1722\|εν]] [[H1391\|Γαβαών]] [[G2730\|κατώκησε]] [[G3962\|πατήρ]] [[H1391\|Γαβαών]] [[G2532\|και]] [[G3686\|όνομα]] [[G3588\|τη]] [[G1135\|γυναικί]] [[G1473\|αυτού]] [[H4601\|Μαχά]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MAACHAH|MAACHAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Chr.8.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.28|<< 1 Chronicles 8:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.30|1 Chronicles 8:30 >>]]</td></tr></table>
 
@@ -17,6 +58,6 @@ And in Gibeon dwelt \[the\] father of Gibeon, and \[the\] name  of his wife \[wa
 | \<obj.> | **<big>[[G3588\|τη]]</big>** |
 | of his wife | **<big>[[G1135\|γυναικί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 | \[was\] Maachah. | **<big>[[H4601\|Μαχά]]</big>** |
-[[1Chr.8.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.28|<< 1 Chronicles 8:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.30|1 Chronicles 8:30 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.28|<< 1 Chronicles 8:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.30|1 Chronicles 8:30 >>]]</td></tr></table>
 
 

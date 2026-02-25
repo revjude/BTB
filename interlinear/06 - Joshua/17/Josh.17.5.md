@@ -1,8 +1,64 @@
+---
+title: Joshua 17:5
+type: Verse
+kjv: "And there fell ten portions to Manasseh, beside the land of Gilead and Bashan, which were on the other side Jordan;"
+bsb: "Thus ten shares fell to Manasseh, in addition to the land of Gilead and Bashan beyond the Jordan,"
+hebrew: "וַיִּפְּל֥וּ חַבְלֵֽי־ מְנַשֶּׁ֖ה עֲשָׂרָ֑ה לְבַ֞ד מֵאֶ֤רֶץ הַגִּלְעָד֙ וְהַבָּשָׁ֔ן אֲשֶׁ֖ר מֵעֵ֥בֶר לַיַּרְדֵּֽן׃"
+pericope: "[[Josh.17.1 Manasseh’s Western Inheritance|Manasseh’s Western Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 17
+book/chapter: "[[Josh.17|Joshua 17]]"
+chronological_order: 247
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic DAUGHTER|DAUGHTER]]"
+- "[[topic HEIR|HEIR]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic NOAH|NOAH]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZELOPHEHAD|ZELOPHEHAD]]"
+strongs:
+- "[[H9001]]"
+- "[[H5307J]]"
+- "[[H2256M]]"
+- "[[H9014]]"
+- "[[H4519G]]"
+- "[[H6235]]"
+- "[[H9005]]"
+- "[[H0905J]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H9009]]"
+- "[[H1568G]]"
+- "[[H9002]]"
+- "[[H1316]]"
+- "[[H0834A]]"
+- "[[H5676G]]"
+- "[[H3383]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 17:5**<big><big>[[Josh.17.1 Manasseh’s Western Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there fell ten portions to Manasseh, beside the land of Gilead and Bashan, which [were] on the other side Jordan;
 <small><sub>**BSB:**</sub></small>
 Thus ten shares fell to Manasseh, in addition to the land of Gilead and Bashan beyond the Jordan,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5307J\|יִּפְּל֥וּ]] [[H2256M\|חַבְלֵֽי]][[H9014\|־]] [[H4519G\|מְנַשֶּׁ֖ה]] [[H6235\|עֲשָׂרָ֑ה]] [[H9005\|לְ]][[H0905J\|בַ֞ד]] [[H9006\|מֵ]][[H0776G\|אֶ֤רֶץ]] [[H9009\|הַ]][[H1568G\|גִּלְעָד֙]] [[H9002\|וְ]][[H9009\|הַ]][[H1316\|בָּשָׁ֔ן]] [[H0834A\|אֲשֶׁ֖ר]] [[H9006\|מֵ]][[H5676G\|עֵ֥בֶר]] [[H9005\|לַ]][[H3383\|יַּרְדֵּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAUGHTER|DAUGHTER]] • [[topic HEIR|HEIR]] • [[topic ISRAEL|ISRAEL]] • [[topic MANASSEH|MANASSEH]] • [[topic NOAH|NOAH]] • [[topic WOMEN|WOMEN]] • [[topic ZELOPHEHAD|ZELOPHEHAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.17.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17.4|<< Joshua 17:4]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.17.6|Joshua 17:6 >>]]</td></tr></table>
 

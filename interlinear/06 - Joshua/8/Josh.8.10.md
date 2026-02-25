@@ -1,8 +1,62 @@
+---
+title: Joshua 8:10
+type: Verse
+kjv: "And Joshua rose up early in the morning, and numbered the people, and went up, he and the elders of Israel, before the people to Ai."
+bsb: "Joshua got up early the next morning and mobilized his men, and he and the elders of Israel marched before them up to Ai."
+hebrew: "וַיַּשְׁכֵּ֤ם יְהוֹשֻׁ֙עַ֙ בַּבֹּ֔קֶר וַיִּפְקֹ֖ד אֶת־ הָעָ֑ם וַיַּ֨עַל ה֜וּא וְזִקְנֵ֧י יִשְׂרָאֵ֛ל לִפְנֵ֥י הָעָ֖ם הָעָֽי׃"
+pericope: "[[Josh.8.1 The Conquest of Ai|The Conquest of Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 8
+book/chapter: "[[Josh.8|Joshua 8]]"
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMBUSH|AMBUSH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[H9001]]"
+- "[[H7925]]"
+- "[[H3091G]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H6485A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H5927G]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H2205G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H5857G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 8:10**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua rose up early in the morning, and numbered the people, and went up, he and the elders of Israel, before the people to Ai.
 <small><sub>**BSB:**</sub></small>
 Joshua got up early the next morning and mobilized his men, and he and the elders of Israel marched before them up to Ai.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7925\|יַּשְׁכֵּ֤ם]] [[H3091G\|יְהוֹשֻׁ֙עַ֙]] [[H9003\|בַּ]][[H1242\|בֹּ֔קֶר]] [[H9001\|וַ]][[H6485A\|יִּפְקֹ֖ד]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H9001\|וַ]][[H5927G\|יַּ֨עַל]] [[H1931\|ה֜וּא]] [[H9002\|וְ]][[H2205G\|זִקְנֵ֧י]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9009\|הָ]][[H5857G\|עָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBUSH|AMBUSH]] • [[topic ARMIES|ARMIES]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.9|<< Joshua 8:9]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.11|Joshua 8:11 >>]]</td></tr></table>
 

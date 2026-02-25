@@ -1,10 +1,66 @@
+---
+title: Matthew 22:10
+type: Verse
+kjv: "So those servants went out into the highways, and gathered together all as many as they found, both bad and good: and the wedding was furnished with guests."
+bsb: "So the servants went out into the streets and gathered everyone they could find, both evil and good, and the wedding hall was filled with guests."
+jesus_said: "So those servants went out into the highways, and gathered together all as many as they found, both bad and good: and the wedding was furnished with guests."
+greek: "καὶ ἐξελθόντες οἱ δοῦλοι ἐκεῖνοι εἰς τὰς ὁδοὺς συνήγαγον πάντας οὓς εὗρον, πονηρούς τε καὶ ἀγαθούς· καὶ ἐπλήσθη ὁ γάμος ἀνακειμένων.¶"
+pericope: "[[Matt.22.1 The Parable of the Banquet|The Parable of the Banquet]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 22
+book/chapter: "[[Matt.22|Matthew 22]]"
+chronological_order: 993
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1831]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G1565]]"
+- "[[G1519]]"
+- "[[G3598]]"
+- "[[G4863]]"
+- "[[G3956]]"
+- "[[G3739]]"
+- "[[G2147]]"
+- "[[G4190]]"
+- "[[G5037]]"
+- "[[G0018]]"
+- "[[G4130]]"
+- "[[G1062]]"
+- "[[G0345]]"
+texts:
+- NKO
+- N(k)O
+- NK(O)
+---
+
 **Matthew 22:10**<big><big>[[Matt.22.1 The Parable of the Banquet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So those servants went out into the highways, and gathered together all as many as they found, both bad and good: and the wedding was furnished with guests.
 <small><sub>**BSB:**</sub></small>
 So the servants went out into the streets and gathered everyone they could find, both evil and good, and the wedding hall was filled with guests.
-<small><sub>**Literal:**</sub></small>
-And having gone out the servants those into the highways they brought together all as many as they found, evil both and good; and became full the wedding hall of those reclining.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.9|<< Matthew 22:9]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.11|Matthew 22:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1831\|ἐξελθόντες]]  [[G3588\|οἱ]]  [[G1401\|δοῦλοι]]  [[G1565\|ἐκεῖνοι]]  [[G1519\|εἰς]]  [[G3588\|τὰς]]  [[G3598\|ὁδοὺς]]  [[G4863\|συνήγαγον]]  [[G3956\|πάντας]]  [[G3739\|οὓς]]  [[G2147\|εὗρον,]]  [[G4190\|πονηρούς]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G0018\|ἀγαθούς·]]  [[G2532\|καὶ]]  [[G4130\|ἐπλήσθη]]  [[G3588\|ὁ]]  [[G1062\|γάμος]]  [[G0345\|ἀνακειμένων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FEASTS|FEASTS]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic SALVATION|SALVATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.9|<< Matthew 22:9]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.11|Matthew 22:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

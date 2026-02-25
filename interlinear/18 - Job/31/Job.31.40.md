@@ -1,8 +1,59 @@
+---
+title: Job 31:40
+type: Verse
+kjv: "Let thistles grow instead of wheat, and cockle instead of barley. The words of Job are ended."
+bsb: "then let briers grow instead of wheat and stinkweed instead of barley.” Thus conclude the words of Job."
+hebrew: "תַּ֤חַת חִטָּ֨ה׀ יֵ֥צֵא ח֗וֹחַ וְתַֽחַת־ שְׂעֹרָ֥ה בָאְשָׁ֑ה תַּ֝֗מּוּ דִּבְרֵ֥י אִיּֽוֹב׃ פ"
+pericope: "[[Job.31.1 Job’s Final Appeal|Job’s Final Appeal]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 31
+book/chapter: "[[Job.31|Job 31]]"
+chronological_order: 42
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic COCKLE|COCKLE]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic THISTLE|THISTLE]]"
+strongs:
+- "[[H8478H]]"
+- "[[H2406]]"
+- "[[H9015]]"
+- "[[H3318L]]"
+- "[[H2336]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H8184]]"
+- "[[H0890]]"
+- "[[H8552]]"
+- "[[H1697G]]"
+- "[[H0347]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Job 31:40**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let thistles grow instead of wheat, and cockle instead of barley. The words of Job are ended.
 <small><sub>**BSB:**</sub></small>
 then let briers grow instead of wheat and stinkweed instead of barley.” Thus conclude the words of Job.
+<small><sub>**Hebrew:**</sub></small>
+[[H8478H\|תַּ֤חַת]] [[H2406\|חִטָּ֨ה]][[H9015\|׀]] [[H3318L\|יֵ֥צֵא]] [[H2336\|ח֗וֹחַ]] [[H9002\|וְ]][[H8478H\|תַֽחַת]][[H9014\|־]] [[H8184\|שְׂעֹרָ֥ה]] [[H0890\|בָאְשָׁ֑ה]] [[H8552\|תַּ֝֗מּוּ]] [[H1697G\|דִּבְרֵ֥י]] [[H0347\|אִיּֽוֹב]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COCKLE|COCKLE]] • [[topic INTEGRITY|INTEGRITY]] • [[topic POOR|POOR]] • [[topic TEMPTATION|TEMPTATION]] • [[topic THISTLE|THISTLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.39|<< Job 31:39]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.1|Job 32:1 >>]]</td></tr></table>
 
@@ -17,7 +68,7 @@ then let briers grow instead of wheat and stinkweed instead of barley.” Thus c
 | foul weed[s]  |**<big>&#8207;[[H0890\|בָאְשָׁ֑ה]]&#8207; </big>**| va.'e.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they are finished  |**<big>&#8207;[[H8552\|תַּ֝֗מּוּ]]&#8207; </big>**| Ta.mu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] words of  |**<big>&#8207;[[H1697G\|דִּבְרֵ֥י]]&#8207; </big>**| div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Job  |**<big>&#8207;[[H0347\|אִיּֽוֹב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'i.Yov<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Job  |**<big>&#8207;[[H0347\|אִיּֽוֹב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'i.Yov<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.39|<< Job 31:39]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.1|Job 32:1 >>]]</td></tr></table>
 
 

@@ -1,8 +1,67 @@
+---
+title: Ezekiel 21:21
+type: Verse
+kjv: "For the king of Babylon stood at the parting of the way, at the head of the two ways, to use divination: he made his arrows bright, he consulted with images, he looked in the liver."
+bsb: "For the king of Babylon stands at the fork in the road, at the junction of the two roads, to seek an omen: He shakes the arrows, he consults the idols, he examines the liver."
+hebrew: "כִּֽי־ עָמַ֨ד מֶלֶךְ־ בָּבֶ֜ל אֶל־ אֵ֣ם הַדֶּ֗רֶךְ בְּרֹ֛אשׁ שְׁנֵ֥י הַדְּרָכִ֖ים לִקְסָם־ קָ֑סֶם קִלְקַ֤ל בַּֽחִצִּים֙ שָׁאַ֣ל בַּתְּרָפִ֔ים רָאָ֖ה בַּכָּבֵֽד׃"
+pericope: "[[Ezek.21.1 God’s Sword of Judgment|God’s Sword of Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 21
+book/chapter: "[[Ezek.21|Ezekiel 21]]"
+chronological_order: 812
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ARROW|ARROW]]"
+- "[[topic LIVER|LIVER]]"
+- "[[topic SORCERY|SORCERY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5975G]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H0413]]"
+- "[[H0517]]"
+- "[[H9009]]"
+- "[[H1870K]]"
+- "[[H9003]]"
+- "[[H7218A]]"
+- "[[H8147]]"
+- "[[H9005]]"
+- "[[H7080]]"
+- "[[H7081]]"
+- "[[H7043]]"
+- "[[H2671]]"
+- "[[H7592]]"
+- "[[H8655]]"
+- "[[H7200G]]"
+- "[[H3516]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 21:21**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the king of Babylon stood at the parting of the way, at the head of the two ways, to use divination: he made [his] arrows bright, he consulted with images, he looked in the liver.
 <small><sub>**BSB:**</sub></small>
 For the king of Babylon stands at the fork in the road, at the junction of the two roads, to seek an omen: He shakes the arrows, he consults the idols, he examines the liver.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H5975G\|עָמַ֨ד]] [[H4428G\|מֶלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֜ל]] [[H0413\|אֶל]][[H9014\|־]] [[H0517\|אֵ֣ם]] [[H9009\|הַ]][[H1870K\|דֶּ֗רֶךְ]] [[H9003\|בְּ]][[H7218A\|רֹ֛אשׁ]] [[H8147\|שְׁנֵ֥י]] [[H9009\|הַ]][[H1870K\|דְּרָכִ֖ים]] [[H9005\|לִ]][[H7080\|קְסָם]][[H9014\|־]] [[H7081\|קָ֑סֶם]] [[H7043\|קִלְקַ֤ל]] [[H9003\|בַּֽ]][[H2671\|חִצִּים֙]] [[H7592\|שָׁאַ֣ל]] [[H9003\|בַּ]][[H8655\|תְּרָפִ֔ים]] [[H7200G\|רָאָ֖ה]] [[H9003\|בַּ]][[H3516\|כָּבֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARROW|ARROW]] • [[topic LIVER|LIVER]] • [[topic SORCERY|SORCERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.20|<< Ezekiel 21:20]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.22|Ezekiel 21:22 >>]]</td></tr></table>
 

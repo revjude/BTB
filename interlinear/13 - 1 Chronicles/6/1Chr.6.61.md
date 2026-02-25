@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 6:61
+type: Verse
+kjv: "And unto the sons of Kohath, which were left of the family of that tribe, were cities given out of the half tribe, namely, out of the half tribe of Manasseh, by lot, ten cities."
+bsb: "To the rest of the Kohathites, ten cities were allotted from the half-tribe of Manasseh."
+hebrew: "וְלִבְנֵ֨י קְהָ֜ת הַנּוֹתָרִ֗ים מִמִּשְׁפַּ֣חַת הַמַּטֶּ֡ה מִֽ֠מַּחֲצִית מַטֵּ֨ה חֲצִ֧י מְנַשֶּׁ֛ה בַּגּוֹרָ֖ל עָרִ֥ים עָֽשֶׂר׃ ס"
+pericope: "[[1Chr.6.54 Territories for the Levites|Territories for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 6
+book/chapter: "[[1Chr.6|1 Chronicles 6]]"
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LOT, THE|LOT, THE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H6955]]"
+- "[[H9009]]"
+- "[[H3498]]"
+- "[[H9006]]"
+- "[[H4940]]"
+- "[[H4294H]]"
+- "[[H4276]]"
+- "[[H2677]]"
+- "[[H4519G]]"
+- "[[H9003]]"
+- "[[H1486]]"
+- "[[H5892B]]"
+- "[[H6235]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Chronicles 6:61**<big><big>[[1Chr.6.54 Territories for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And unto the sons of Kohath, [which were] left of the family of that tribe, [were cities given] out of the half tribe, [namely, out of] the half [tribe] of Manasseh, by lot, ten cities.
 <small><sub>**BSB:**</sub></small>
 To the rest of the Kohathites, ten cities were allotted from the half-tribe of Manasseh.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לִ]][[H1121G\|בְנֵ֨י]] [[H6955\|קְהָ֜ת]] [[H9009\|הַ]][[H3498\|נּוֹתָרִ֗ים]] [[H9006\|מִ]][[H4940\|מִּשְׁפַּ֣חַת]] [[H9009\|הַ]][[H4294H\|מַּטֶּ֡ה]] [[H9006\|מִֽ֠]][[H4276\|מַּחֲצִית]] [[H4294H\|מַטֵּ֨ה]] [[H2677\|חֲצִ֧י]] [[H4519G\|מְנַשֶּׁ֛ה]] [[H9003\|בַּ]][[H1486\|גּוֹרָ֖ל]] [[H5892B\|עָרִ֥ים]] [[H6235\|עָֽשֶׂר]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic LOT, THE|LOT, THE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.61|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.60|<< 1 Chronicles 6:60]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.62|1 Chronicles 6:62 >>]]</td></tr></table>
 
@@ -19,7 +70,7 @@ To the rest of the Kohathites, ten cities were allotted from the half-tribe of M
 | Manasseh  |**<big>&#8207;[[H4519G\|מְנַשֶּׁ֛ה]]&#8207; </big>**| me.na.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by the lot  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1486\|גּוֹרָ֖ל]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> go.Ral<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cities  |**<big>&#8207;[[H5892B\|עָרִ֥ים]]&#8207; </big>**| 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ten  |**<big>&#8207;[[H6235\|עָֽשֶׂר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'A.ser<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  |**<big>&#8207;[[H6235\|עָֽשֶׂר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'A.ser<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.60|<< 1 Chronicles 6:60]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.62|1 Chronicles 6:62 >>]]</td></tr></table>
 
 

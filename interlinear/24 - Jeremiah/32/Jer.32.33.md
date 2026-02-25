@@ -1,8 +1,62 @@
+---
+title: Jeremiah 32:33
+type: Verse
+kjv: "And they have turned unto me the back, and not the face: though I taught them, rising up early and teaching them, yet they have not hearkened to receive instruction."
+bsb: "They have turned their backs to Me and not their faces. Though I taught them again and again, they would not listen or respond to discipline."
+hebrew: "וַיִּפְנ֥וּ אֵלַ֛י עֹ֖רֶף וְלֹ֣א פָנִ֑ים וְלַמֵּ֤ד אֹתָם֙ הַשְׁכֵּ֣ם וְלַמֵּ֔ד וְאֵינָ֥ם שֹׁמְעִ֖ים לָקַ֥חַת מוּסָֽר׃"
+pericope: "[[Jer.32.26 The LORD Answers Jeremiah|The LORD Answers Jeremiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 32
+book/chapter: "[[Jer.32|Jeremiah 32]]"
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+strongs:
+- "[[H9001]]"
+- "[[H6437G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H6203]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H6440H]]"
+- "[[H3925G]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H7925]]"
+- "[[H0369]]"
+- "[[H9048]]"
+- "[[H8085G]]"
+- "[[H9005]]"
+- "[[H3947H]]"
+- "[[H4148H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 32:33**<big><big>[[Jer.32.26 The LORD Answers Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they have turned unto me the back, and not the face: though I taught them, rising up early and teaching [them], yet they have not hearkened to receive instruction.
 <small><sub>**BSB:**</sub></small>
 They have turned their backs to Me and not their faces. Though I taught them again and again, they would not listen or respond to discipline.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6437G\|יִּפְנ֥וּ]] [[H0413\|אֵלַ֛]][[H9030\|י]] [[H6203\|עֹ֖רֶף]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6440H\|פָנִ֑ים]] [[H9002\|וְ]][[H3925G\|לַמֵּ֤ד]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H7925\|הַשְׁכֵּ֣ם]] [[H9002\|וְ]][[H3925G\|לַמֵּ֔ד]] [[H9002\|וְ]][[H0369\|אֵינָ֥]][[H9048\|ם]] [[H8085G\|שֹׁמְעִ֖ים]] [[H9005\|לָ]][[H3947H\|קַ֥חַת]] [[H4148H\|מוּסָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMPENITENCE|IMPENITENCE]] • [[topic INSTRUCTION|INSTRUCTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.32|<< Jeremiah 32:32]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.34|Jeremiah 32:34 >>]]</td></tr></table>
 

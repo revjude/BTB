@@ -1,8 +1,69 @@
+---
+title: Exodus 6:8
+type: Verse
+kjv: "And I will bring you in unto the land, concerning the which I did swear to give it to Abraham, to Isaac, and to Jacob; and I will give it you for an heritage: I am the LORD."
+bsb: "And I will bring you into the land that I swore to give to Abraham, Isaac, and Jacob. I will give it to you as a possession. I am the LORD!’”"
+hebrew: "וְהֵבֵאתִ֤י אֶתְכֶם֙ אֶל־ הָאָ֔רֶץ אֲשֶׁ֤ר נָשָׂ֙אתִי֙ אֶת־ יָדִ֔י לָתֵ֣ת אֹתָ֔הּ לְאַבְרָהָ֥ם לְיִצְחָ֖ק וּֽלְיַעֲקֹ֑ב וְנָתַתִּ֨י אֹתָ֥הּ לָכֶ֛ם מוֹרָשָׁ֖ה אֲנִ֥י יְהוָֽה׃"
+pericope: "[[Exod.6.1 God Promises Deliverance|God Promises Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 6
+book/chapter: "[[Exod.6|Exodus 6]]"
+chronological_order: 98
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H5375P]]"
+- "[[H3027S]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H5414G]]"
+- "[[H9034]]"
+- "[[H0085]]"
+- "[[H3327]]"
+- "[[H9002]]"
+- "[[H3290]]"
+- "[[H4181]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 6:8**<big><big>[[Exod.6.1 God Promises Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will bring you in unto the land, concerning the which I did swear to give it to Abraham, to Isaac, and to Jacob; and I will give it you for an heritage: I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
 And I will bring you into the land that I swore to give to Abraham, Isaac, and Jacob. I will give it to you as a possession. I am the LORD!’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0935P\|הֵבֵאתִ֤י]] [[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁ֤ר]] [[H5375P\|נָשָׂ֙אתִי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3027S\|יָדִ֔]][[H9020\|י]] [[H9005\|לָ]][[H5414G\|תֵ֣ת]] [[H0853\|אֹתָ֔]][[H9034\|הּ]] [[H9005\|לְ]][[H0085\|אַבְרָהָ֥ם]] [[H9005\|לְ]][[H3327\|יִצְחָ֖ק]] [[H9002\|וּֽ]][[H9005\|לְ]][[H3290\|יַעֲקֹ֑ב]] [[H9001\|וְ]][[H5414G\|נָתַתִּ֨י]] [[H0853\|אֹתָ֥]][[H9034\|הּ]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H4181\|מוֹרָשָׁ֖ה]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.6.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.7|<< Exodus 6:7]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.6.9|Exodus 6:9 >>]]</td></tr></table>
 

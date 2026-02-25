@@ -1,8 +1,74 @@
+---
+title: Genesis 29:27
+type: Verse
+kjv: "Fulfil her week, and we will give thee this also for the service which thou shalt serve with me yet seven other years."
+bsb: "Finish this week’s celebration, and we will give you the younger one in return for another seven years of work.”"
+hebrew: "מַלֵּ֖א שְׁבֻ֣עַ זֹ֑את וְנִתְּנָ֨ה לְךָ֜ גַּם־ אֶת־ זֹ֗את בַּעֲבֹדָה֙ אֲשֶׁ֣ר תַּעֲבֹ֣ד עִמָּדִ֔י ע֖וֹד שֶֽׁבַע־ שָׁנִ֥ים אֲחֵרֽוֹת׃"
+pericope: "[[Gen.29.14 Jacob Marries Leah and Rachel|Jacob Marries Leah and Rachel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 29
+book/chapter: "[[Gen.29|Genesis 29]]"
+chronological_order: 71
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BETROTHAL|BETROTHAL]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic RACHEL|RACHEL]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic WAGES|WAGES]]"
+strongs:
+- "[[H4390]]"
+- "[[H7620H]]"
+- "[[H2063]]"
+- "[[H9001]]"
+- "[[H5414O]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0853]]"
+- "[[H9003]]"
+- "[[H5656G]]"
+- "[[H0834A]]"
+- "[[H5647G]]"
+- "[[H5978]]"
+- "[[H9030]]"
+- "[[H5750]]"
+- "[[H7651]]"
+- "[[H8141]]"
+- "[[H0312]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 29:27**<big><big>[[Gen.29.14 Jacob Marries Leah and Rachel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fulfil her week, and we will give thee this also for the service which thou shalt serve with me yet seven other years.
 <small><sub>**BSB:**</sub></small>
 Finish this week’s celebration, and we will give you the younger one in return for another seven years of work.”
+<small><sub>**Hebrew:**</sub></small>
+[[H4390\|מַלֵּ֖א]] [[H7620H\|שְׁבֻ֣עַ]] [[H2063\|זֹ֑את]] [[H9001\|וְ]][[H5414O\|נִתְּנָ֨ה]] [[H9005\|לְ]][[H9031\|ךָ֜]] [[H1571\|גַּם]][[H9014\|־]] [[H0853\|אֶת]][[H9014\|־]] [[H2063\|זֹ֗את]] [[H9003\|בַּ]][[H5656G\|עֲבֹדָה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5647G\|תַּעֲבֹ֣ד]] [[H5978\|עִמָּדִ֔]][[H9030\|י]] [[H5750\|ע֖וֹד]] [[H7651\|שֶֽׁבַע]][[H9014\|־]] [[H8141\|שָׁנִ֥ים]] [[H0312\|אֲחֵרֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETROTHAL|BETROTHAL]] • [[topic CHILDREN|CHILDREN]] • [[topic CONTRACTS|CONTRACTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic JACOB|JACOB]] • [[topic LABAN|LABAN]] • [[topic MARRIAGE|MARRIAGE]] • [[topic RACHEL|RACHEL]] • [[topic SEVEN|SEVEN]] • [[topic WAGES|WAGES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.29.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.26|<< Genesis 29:26]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.28|Genesis 29:28 >>]]</td></tr></table>
 

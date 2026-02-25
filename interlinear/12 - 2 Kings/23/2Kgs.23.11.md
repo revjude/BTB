@@ -1,8 +1,76 @@
+---
+title: 2 Kings 23:11
+type: Verse
+kjv: "And he took away the horses that the kings of Judah had given to the sun, at the entering in of the house of the LORD, by the chamber of Nathanmelech the chamberlain, which was in the suburbs, and burned the chariots of the sun with fire."
+bsb: "And he removed from the entrance to the house of the LORD the horses that the kings of Judah had dedicated to the sun. They were in the court near the chamber of an official named Nathan-melech. And Josiah burned up the chariots of the sun."
+hebrew: "וַיַּשְׁבֵּ֣ת אֶת־ הַסּוּסִ֗ים אֲשֶׁ֣ר נָתְנוּ֩ מַלְכֵ֨י יְהוּדָ֤ה לַשֶּׁ֙מֶשׁ֙ מִבֹּ֣א בֵית־ יְהוָ֔ה אֶל־ לִשְׁכַּת֙ נְתַן־ מֶ֣לֶךְ הַסָּרִ֔יס אֲשֶׁ֖ר בַּפַּרְוָרִ֑ים וְאֶת־ מַרְכְּב֥וֹת הַשֶּׁ֖מֶשׁ שָׂרַ֥ף בָּאֵֽשׁ׃"
+pericope: "[[2Kgs.23.4 Josiah Destroys Idolatry|Josiah Destroys Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 23
+book/chapter: "[[2Kgs.23|2 Kings 23]]"
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHAMBERLAIN|CHAMBERLAIN]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic NATHAN-MELECH|NATHAN-MELECH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SUN|SUN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7673A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5483M]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H9005]]"
+- "[[H8121]]"
+- "[[H9006]]"
+- "[[H0935I]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H3957]]"
+- "[[H5419]]"
+- "[[H5631]]"
+- "[[H9003]]"
+- "[[H6503]]"
+- "[[H9002]]"
+- "[[H4818]]"
+- "[[H8313]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 23:11**<big><big>[[2Kgs.23.4 Josiah Destroys Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took away the horses that the kings of Judah had given to the sun, at the entering in of the house of the LORD, by the chamber of Nathanmelech the chamberlain, which [was] in the suburbs, and burned the chariots of the sun with fire.
 <small><sub>**BSB:**</sub></small>
 And he removed from the entrance to the house of the LORD the horses that the kings of Judah had dedicated to the sun. They were in the court near the chamber of an official named Nathan-melech. And Josiah burned up the chariots of the sun.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7673A\|יַּשְׁבֵּ֣ת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5483M\|סּוּסִ֗ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H5414G\|נָתְנוּ֩]] [[H4428G\|מַלְכֵ֨י]] [[H3063G\|יְהוּדָ֤ה]] [[H9005\|לַ]][[H8121\|שֶּׁ֙מֶשׁ֙]] [[H9006\|מִ]][[H0935I\|בֹּ֣א]] [[H1004Q\|בֵית]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3957\|לִשְׁכַּת֙]] [[H5419\|נְתַן]][[H9014\|־]] [[H5419\|מֶ֣לֶךְ]] [[H9009\|הַ]][[H5631\|סָּרִ֔יס]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בַּ]][[H6503\|פַּרְוָרִ֑ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4818\|מַרְכְּב֥וֹת]] [[H9009\|הַ]][[H8121\|שֶּׁ֖מֶשׁ]] [[H8313\|שָׂרַ֥ף]] [[H9003\|בָּ]][[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHAMBERLAIN|CHAMBERLAIN]] • [[topic CHURCH|CHURCH]] • [[topic HORSE|HORSE]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOSIAH|JOSIAH]] • [[topic NATHAN-MELECH|NATHAN-MELECH]] • [[topic PROPHECY|PROPHECY]] • [[topic SUN|SUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.10|<< 2 Kings 23:10]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.12|2 Kings 23:12 >>]]</td></tr></table>
 

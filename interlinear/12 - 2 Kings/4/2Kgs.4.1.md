@@ -1,8 +1,83 @@
+---
+title: 2 Kings 4:1
+type: Verse
+kjv: "Now there cried a certain woman of the wives of the sons of the prophets unto Elisha, saying, Thy servant my husband is dead; and thou knowest that thy servant did fear the LORD: and the creditor is come to take unto him my two sons to be bondmen."
+bsb: "Now the wife of one of the sons of the prophets cried out to Elisha, “Your servant, my husband, is dead, and you know that your servant feared the LORD. And now his creditor is coming to take my two children as his slaves!”"
+hebrew: "וְאִשָּׁ֣ה אַחַ֣ת מִנְּשֵׁ֣י בְנֵֽי־ הַ֠נְּבִיאִים צָעֲקָ֨ה אֶל־ אֱלִישָׁ֜ע לֵאמֹ֗ר עַבְדְּךָ֤ אִישִׁי֙ מֵ֔ת וְאַתָּ֣ה יָדַ֔עְתָּ כִּ֣י עַבְדְּךָ֔ הָיָ֥ה יָרֵ֖א אֶת־ יְהוָ֑ה וְהַ֨נֹּשֶׁ֔ה בָּ֗א לָקַ֜חַת אֶת־ שְׁנֵ֧י יְלָדַ֛י ל֖וֹ לַעֲבָדִֽים׃"
+pericope: "[[2Kgs.4.1 The Widow’s Oil|The Widow’s Oil]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic OIL|OIL]]"
+- "[[topic POOR|POOR]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STUDENTS|STUDENTS]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[H9002]]"
+- "[[H0802H]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H6817]]"
+- "[[H0413]]"
+- "[[H0477]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H0376H]]"
+- "[[H9020]]"
+- "[[H4191]]"
+- "[[H0859A]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H1961]]"
+- "[[H3373]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H5383]]"
+- "[[H0935G]]"
+- "[[H3947G]]"
+- "[[H8147]]"
+- "[[H3206]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 4:1**<big><big>[[2Kgs.4.1 The Widow’s Oil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now there cried a certain woman of the wives of the sons of the prophets unto Elisha, saying, Thy servant my husband is dead; and thou knowest that thy servant did fear the LORD: and the creditor is come to take unto him my two sons to be bondmen.
 <small><sub>**BSB:**</sub></small>
 Now the wife of one of the sons of the prophets cried out to Elisha, “Your servant, my husband, is dead, and you know that your servant feared the LORD. And now his creditor is coming to take my two children as his slaves!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0802H\|אִשָּׁ֣ה]] [[H0259\|אַחַ֣ת]] [[H9006\|מִ]][[H0802H\|נְּשֵׁ֣י]] [[H1121A\|בְנֵֽי]][[H9014\|־]] [[H9009\|הַ֠]][[H5030\|נְּבִיאִים]] [[H6817\|צָעֲקָ֨ה]] [[H0413\|אֶל]][[H9014\|־]] [[H0477\|אֱלִישָׁ֜ע]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֤]] [[H0376H\|אִישִׁ]][[H9020\|י֙]] [[H4191\|מֵ֔ת]] [[H9002\|וְ]][[H0859A\|אַתָּ֣ה]] [[H3045\|יָדַ֔עְתָּ]] [[H3588A\|כִּ֣י]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֔]] [[H1961\|הָיָ֥ה]] [[H3373\|יָרֵ֖א]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H9009\|הַ֨]][[H5383\|נֹּשֶׁ֔ה]] [[H0935G\|בָּ֗א]] [[H9005\|לָ]][[H3947G\|קַ֜חַת]] [[H0853\|אֶת]][[H9014\|־]] [[H8147\|שְׁנֵ֧י]] [[H3206\|יְלָדַ֛]][[H9020\|י]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9005\|לַ]][[H5650\|עֲבָדִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic CREDITOR|CREDITOR]] • [[topic DEBTOR|DEBTOR]] • [[topic ELISHA|ELISHA]] • [[topic MIRACLES|MIRACLES]] • [[topic OIL|OIL]] • [[topic POOR|POOR]] • [[topic PROPHETS|PROPHETS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SERVANT|SERVANT]] • [[topic STUDENTS|STUDENTS]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.27|<< 2 Kings 3:27]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.2|2 Kings 4:2 >>]]</td></tr></table>
 

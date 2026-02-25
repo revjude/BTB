@@ -1,8 +1,68 @@
+---
+title: Ezekiel 14:23
+type: Verse
+kjv: "And they shall comfort you, when ye see their ways and their doings: and ye shall know that I have not done without cause all that I have done in it, saith the Lord GOD."
+bsb: "They will bring you consolation when you see their conduct and actions, and you will know that it was not without cause that I have done all these things within it,’ declares the Lord GOD.”"
+hebrew: "וְנִחֲמ֣וּ אֶתְכֶ֔ם כִּֽי־ תִרְא֥וּ אֶת־ דַּרְכָּ֖ם וְאֶת־ עֲלִֽילוֹתָ֑ם וִֽידַעְתֶּ֗ם כִּי֩ לֹ֨א חִנָּ֤ם עָשִׂ֙יתִי֙ אֵ֣ת כָּל־ אֲשֶׁר־ עָשִׂ֣יתִי בָ֔הּ נְאֻ֖ם אֲדֹנָ֥י יְהֹוִֽה׃ פ"
+pericope: "[[Ezek.14.12 Four Dire Judgments|Four Dire Judgments]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 14
+book/chapter: "[[Ezek.14|Ezekiel 14]]"
+chronological_order: 805
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H5162G]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H1870G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H5949]]"
+- "[[H3045]]"
+- "[[H3808]]"
+- "[[H2600]]"
+- "[[H6213A]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezekiel 14:23**<big><big>[[Ezek.14.12 Four Dire Judgments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall comfort you, when ye see their ways and their doings: and ye shall know that I have not done without cause all that I have done in it, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
 They will bring you consolation when you see their conduct and actions, and you will know that it was not without cause that I have done all these things within it,’ declares the Lord GOD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5162G\|נִחֲמ֣וּ]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7200G\|תִרְא֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1870G\|דַּרְכָּ֖]][[H9028\|ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5949\|עֲלִֽילוֹתָ֑]][[H9028\|ם]] [[H9001\|וִֽ]][[H3045\|ידַעְתֶּ֗ם]] [[H3588A\|כִּי֩]] [[H3808\|לֹ֨א]] [[H2600\|חִנָּ֤ם]] [[H6213A\|עָשִׂ֙יתִי֙]] [[H0853\|אֵ֣ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|עָשִׂ֣יתִי]] [[H9003\|בָ֔]][[H9034\|הּ]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהֹוִֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.14.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.22|<< Ezekiel 14:22]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.15.1|Ezekiel 15:1 >>]]</td></tr></table>
 
@@ -28,7 +88,7 @@ They will bring you consolation when you see their conduct and actions, and you 
 | in it  |**<big>&#8207;[[H9003\|בָ֔]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| Va<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻ֖ם]]&#8207; </big>**| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֥י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3069\|יְהֹוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהֹוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.22|<< Ezekiel 14:22]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.15.1|Ezekiel 15:1 >>]]</td></tr></table>
 
 

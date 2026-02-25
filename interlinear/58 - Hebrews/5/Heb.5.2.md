@@ -1,10 +1,52 @@
+---
+title: Hebrews 5:2
+type: Verse
+kjv: "Who can have compassion on the ignorant, and on them that are out of the way; for that he himself also is compassed with infirmity."
+bsb: "He is able to deal gently with those who are ignorant and misguided, since he himself is subject to weakness."
+greek: "μετριοπαθεῖν δυνάμενος τοῖς ἀγνοοῦσιν καὶ πλανωμένοις, ἐπεὶ καὶ αὐτὸς περίκειται ἀσθένειαν·"
+pericope: "[[Heb.5.1 The Perfect High Priest|The Perfect High Priest]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 5
+book/chapter: "[[Heb.5|Hebrews 5]]"
+chronological_order: 1144
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G3356]]"
+- "[[G1410]]"
+- "[[G3588]]"
+- "[[G0050]]"
+- "[[G2532]]"
+- "[[G4105]]"
+- "[[G1893]]"
+- "[[G0846]]"
+- "[[G4029]]"
+- "[[G0769G]]"
+texts:
+- NKO
+---
+
 **Hebrews 5:2**<big><big>[[Heb.5.1 The Perfect High Priest|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who can have compassion on the ignorant, and on them that are out of the way; for that he himself also is compassed with infirmity.
 <small><sub>**BSB:**</sub></small>
 He is able to deal gently with those who are ignorant and misguided, since he himself is subject to weakness.
-<small><sub>**Literal:**</sub></small>
-to exercise forbearance being able with those being ignorant and with those going astray, since also he himself is encompassed by weakness;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.5.1|<< Hebrews 5:1]]</td><td align="center" style="border:none;">[[Heb.5|Hebrews 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.5.3|Hebrews 5:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3356\|μετριοπαθεῖν]]  [[G1410\|δυνάμενος]]  [[G3588\|τοῖς]]  [[G0050\|ἀγνοοῦσιν]]  [[G2532\|καὶ]]  [[G4105\|πλανωμένοις,]]  [[G1893\|ἐπεὶ]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G4029\|περίκειται]]  [[G0769G\|ἀσθένειαν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KINDNESS|KINDNESS]] • [[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.5.1|<< Hebrews 5:1]]</td><td align="center" style="border:none;">[[Heb.5|Hebrews 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.5.3|Hebrews 5:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

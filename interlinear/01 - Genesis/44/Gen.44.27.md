@@ -1,8 +1,63 @@
+---
+title: Genesis 44:27
+type: Verse
+kjv: "And thy servant my father said unto us, Ye know that my wife bare me two sons:"
+bsb: "And your servant my father said to us, ‘You know that my wife bore me two sons."
+hebrew: "וַיֹּ֛אמֶר עַבְדְּךָ֥ אָבִ֖י אֵלֵ֑ינוּ אַתֶּ֣ם יְדַעְתֶּ֔ם כִּ֥י שְׁנַ֖יִם יָֽלְדָה־ לִּ֥י אִשְׁתִּֽי׃"
+pericope: "[[Gen.44.18 Judah Pleads for Benjamin|Judah Pleads for Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 44
+book/chapter: "[[Gen.44|Genesis 44]]"
+chronological_order: 86
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H0413]]"
+- "[[H9035]]"
+- "[[H0859D]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H8147]]"
+- "[[H3205]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0802H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 44:27**<big><big>[[Gen.44.18 Judah Pleads for Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thy servant my father said unto us, Ye know that my wife bare me two [sons]:
 <small><sub>**BSB:**</sub></small>
 And your servant my father said to us, ‘You know that my wife bore me two sons.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֛אמֶר]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֥]] [[H0001G\|אָבִ֖]][[H9020\|י]] [[H0413\|אֵלֵ֑י]][[H9035\|נוּ]] [[H0859D\|אַתֶּ֣ם]] [[H3045\|יְדַעְתֶּ֔ם]] [[H3588A\|כִּ֥י]] [[H8147\|שְׁנַ֖יִם]] [[H3205\|יָֽלְדָה]][[H9014\|־]] [[H9005\|לִּ֥]][[H9030\|י]] [[H0802H\|אִשְׁתִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic JUDAH|JUDAH]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.44.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.26|<< Genesis 44:26]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.28|Genesis 44:28 >>]]</td></tr></table>
 

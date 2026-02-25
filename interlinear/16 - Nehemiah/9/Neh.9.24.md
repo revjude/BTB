@@ -1,8 +1,69 @@
+---
+title: Nehemiah 9:24
+type: Verse
+kjv: "So the children went in and possessed the land, and thou subduedst before them the inhabitants of the land, the Canaanites, and gavest them into their hands, with their kings, and the people of the land, that they might do with them as they would."
+bsb: "So their descendants went in and possessed the land; You subdued before them the Canaanites dwelling in the land. You delivered into their hands the kings and peoples of the land, to do with them as they wished."
+hebrew: "וַיָּבֹ֤אוּ הַבָּנִים֙ וַיִּֽירְשׁ֣וּ אֶת־ הָאָ֔רֶץ וַתַּכְנַ֨ע לִפְנֵיהֶ֜ם אֶת־ יֹשְׁבֵ֤י הָאָ֙רֶץ֙ הַכְּנַ֣עֲנִ֔ים וַֽתִּתְּנֵ֖ם בְּיָדָ֑ם וְאֶת־ מַלְכֵיהֶם֙ וְאֶת־ עַֽמְמֵ֣י הָאָ֔רֶץ לַעֲשׂ֥וֹת בָּהֶ֖ם כִּרְצוֹנָֽם׃"
+pericope: "[[Neh.9.1 The People Confess Their Sins|The People Confess Their Sins]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 9
+book/chapter: "[[Neh.9|Nehemiah 9]]"
+chronological_order: 921
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H1121G]]"
+- "[[H3423H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H3665]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H3427]]"
+- "[[H3669A]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9002]]"
+- "[[H4428G]]"
+- "[[H5971A]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H7522]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 9:24**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the children went in and possessed the land, and thou subduedst before them the inhabitants of the land, the Canaanites, and gavest them into their hands, with their kings, and the people of the land, that they might do with them as they would.
 <small><sub>**BSB:**</sub></small>
 So their descendants went in and possessed the land; You subdued before them the Canaanites dwelling in the land. You delivered into their hands the kings and peoples of the land, to do with them as they wished.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֤אוּ]] [[H9009\|הַ]][[H1121G\|בָּנִים֙]] [[H9001\|וַ]][[H3423H\|יִּֽירְשׁ֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9001\|וַ]][[H3665\|תַּכְנַ֨ע]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶ֜ם]] [[H0853\|אֶת]][[H9014\|־]] [[H3427\|יֹשְׁבֵ֤י]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H9009\|הַ]][[H3669A\|כְּנַ֣עֲנִ֔ים]] [[H9001\|וַֽ]][[H5414G\|תִּתְּנֵ֖]][[H9038\|ם]] [[H9003\|בְּ]][[H3027H\|יָדָ֑]][[H9028\|ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מַלְכֵי]][[H9028\|הֶם֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַֽמְמֵ֣י]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H9003\|בָּ]][[H9038\|הֶ֖ם]] [[H9004\|כִּ]][[H7522\|רְצוֹנָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.23|<< Nehemiah 9:23]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.25|Nehemiah 9:25 >>]]</td></tr></table>
 

@@ -1,10 +1,62 @@
+---
+title: Luke 1:43
+type: Verse
+kjv: "And whence is this to me, that the mother of my Lord should come to me?"
+bsb: "And why am I so honored, that the mother of my Lord should come to me?"
+greek: "καὶ πόθεν μοι τοῦτο ἵνα ἔλθῃ ἡ μήτηρ τοῦ κυρίου μου πρὸς ἐμέ;"
+pericope: "[[Luke.1.39 Mary Visits Elizabeth|Mary Visits Elizabeth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MARY|MARY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic PROPHETESSES|PROPHETESSES]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G2532]]"
+- "[[G4159]]"
+- "[[G3165]]"
+- "[[G3778]]"
+- "[[G2443]]"
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G3384]]"
+- "[[G2962G]]"
+- "[[G4314]]"
+- "[[G1473]]"
+texts:
+- NKO
+---
+
 **Luke 1:43**<big><big>[[Luke.1.39 Mary Visits Elizabeth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And whence [is] this to me, that the mother of my Lord should come to me?
 <small><sub>**BSB:**</sub></small>
 And why am I so honored, that the mother of my Lord should come to me?
-<small><sub>**Literal:**</sub></small>
-And from where to me this that may come the mother of the Lord of mine to me myself?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.42|<< Luke 1:42]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.44|Luke 1:44 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4159\|πόθεν]]  [[G3165\|μοι]]  [[G3778\|τοῦτο]]  [[G2443\|ἵνα]]  [[G2064\|ἔλθῃ]]  [[G3588\|ἡ]]  [[G3384\|μήτηρ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|μου]]  [[G4314\|πρὸς]]  [[G1473\|ἐμέ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]] • [[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic MARY|MARY]] • [[topic MIRACLES|MIRACLES]] • [[topic POETRY|POETRY]] • [[topic PROPHETESSES|PROPHETESSES]] • [[topic PSALMS|PSALMS]] • [[topic WOMEN|WOMEN]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.42|<< Luke 1:42]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.44|Luke 1:44 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

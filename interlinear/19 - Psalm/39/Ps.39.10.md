@@ -1,8 +1,54 @@
+---
+title: Psalm 39:10
+type: Verse
+kjv: "Remove thy stroke away from me: I am consumed by the blow of thine hand."
+bsb: "Remove Your scourge from me; I am perishing by the force of Your hand."
+hebrew: "הָסֵ֣ר מֵעָלַ֣י נִגְעֶ֑ךָ מִתִּגְרַ֥ת יָ֝דְךָ֗ אֲנִ֣י כָלִֽיתִי׃"
+pericope: "[[Ps.39.1 I Will Watch My Ways|I Will Watch My Ways]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 39
+book/chapter: "[[Ps.39|Psalm 39]]"
+chronological_order: 366
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H5493G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H5061]]"
+- "[[H9021]]"
+- "[[H8409]]"
+- "[[H3027G]]"
+- "[[H0589]]"
+- "[[H3615J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 39:10**<big><big>[[Ps.39.1 I Will Watch My Ways|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remove thy stroke away from me: I am consumed by the blow of thine hand.
 <small><sub>**BSB:**</sub></small>
 Remove Your scourge from me; I am perishing by the force of Your hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H5493G\|הָסֵ֣ר]] [[H9006\|מֵ]][[H5921A\|עָלַ֣]][[H9030\|י]] [[H5061\|נִגְעֶ֑]][[H9021\|ךָ]] [[H9006\|מִ]][[H8409\|תִּגְרַ֥ת]] [[H3027G\|יָ֝דְ]][[H9021\|ךָ֗]] [[H0589\|אֲנִ֣י]] [[H3615J\|כָלִֽיתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.39.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.39.9|<< Psalms 39:9]]</td><td align="center" style="border:none;">[[Ps.39|Psalms 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.39.11|Psalms 39:11 >>]]</td></tr></table>
 

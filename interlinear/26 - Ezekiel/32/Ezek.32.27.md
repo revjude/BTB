@@ -1,8 +1,74 @@
+---
+title: Ezekiel 32:27
+type: Verse
+kjv: "And they shall not lie with the mighty that are fallen of the uncircumcised, which are gone down to hell with their weapons of war: and they have laid their swords under their heads, but their iniquities shall be upon their bones, though they were the terror of the mighty in the land of the living."
+bsb: "They do not lie down with the fallen warriors of old, who went down to Sheol with their weapons of war, whose swords were placed under their heads, whose shields rested on their bones, although the terror of the mighty was once in the land of the living."
+hebrew: "וְלֹ֤א יִשְׁכְּבוּ֙ אֶת־ גִּבּוֹרִ֔ים נֹפְלִ֖ים מֵעֲרֵלִ֑ים אֲשֶׁ֣ר יָרְדֽוּ־ שְׁא֣וֹל בִּכְלֵֽי־ מִלְחַמְתָּם֩ וַיִּתְּנ֨וּ אֶת־ חַרְבוֹתָ֜ם תַּ֣חַת רָאשֵׁיהֶ֗ם וַתְּהִ֤י עֲוֹֽנֹתָם֙ עַל־ עַצְמוֹתָ֔ם כִּֽי־ חִתִּ֥ית גִּבּוֹרִ֖ים בְּאֶ֥רֶץ חַיִּֽים׃"
+pericope: "[[Ezek.32.17 Egypt Cast into the Pit|Egypt Cast into the Pit]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 32
+book/chapter: "[[Ezek.32|Ezekiel 32]]"
+chronological_order: 823
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HELL|HELL]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7901J]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H1368]]"
+- "[[H5307G]]"
+- "[[H9006]]"
+- "[[H6189]]"
+- "[[H0834A]]"
+- "[[H3381]]"
+- "[[H7585]]"
+- "[[H9003]]"
+- "[[H3627]]"
+- "[[H4421]]"
+- "[[H9028]]"
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H2719]]"
+- "[[H8478G]]"
+- "[[H7218A]]"
+- "[[H1961]]"
+- "[[H5771G]]"
+- "[[H5921A]]"
+- "[[H6106G]]"
+- "[[H3588A]]"
+- "[[H2851]]"
+- "[[H0776G]]"
+- "[[H2416A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 32:27**<big><big>[[Ezek.32.17 Egypt Cast into the Pit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall not lie with the mighty [that are] fallen of the uncircumcised, which are gone down to hell with their weapons of war: and they have laid their swords under their heads, but their iniquities shall be upon their bones, though [they were] the terror of the mighty in the land of the living.
 <small><sub>**BSB:**</sub></small>
 They do not lie down with the fallen warriors of old, who went down to Sheol with their weapons of war, whose swords were placed under their heads, whose shields rested on their bones, although the terror of the mighty was once in the land of the living.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֤א]] [[H7901J\|יִשְׁכְּבוּ֙]] [[H0854\|אֶת]][[H9014\|־]] [[H1368\|גִּבּוֹרִ֔ים]] [[H5307G\|נֹפְלִ֖ים]] [[H9006\|מֵ]][[H6189\|עֲרֵלִ֑ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H3381\|יָרְדֽוּ]][[H9014\|־]] [[H7585\|שְׁא֣וֹל]] [[H9003\|בִּ]][[H3627\|כְלֵֽי]][[H9014\|־]] [[H4421\|מִלְחַמְתָּ]][[H9028\|ם֩]] [[H9001\|וַ]][[H5414H\|יִּתְּנ֨וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H2719\|חַרְבוֹתָ֜]][[H9028\|ם]] [[H8478G\|תַּ֣חַת]] [[H7218A\|רָאשֵׁי]][[H9028\|הֶ֗ם]] [[H9001\|וַ]][[H1961\|תְּהִ֤י]] [[H5771G\|עֲוֹֽנֹתָ]][[H9028\|ם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6106G\|עַצְמוֹתָ֔]][[H9028\|ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2851\|חִתִּ֥ית]] [[H1368\|גִּבּוֹרִ֖ים]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H2416A\|חַיִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HELL|HELL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.26|<< Ezekiel 32:26]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.28|Ezekiel 32:28 >>]]</td></tr></table>
 

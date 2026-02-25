@@ -1,8 +1,66 @@
+---
+title: 1 Chronicles 26:26
+type: Verse
+kjv: "Which Shelomith and his brethren were over all the treasures of the dedicated things, which David the king, and the chief fathers, the captains over thousands and hundreds, and the captains of the host, had dedicated."
+bsb: "This Shelomith and his brothers were in charge of all the treasuries for the things dedicated by King David, by the heads of families who were the commanders of thousands and of hundreds, and by the army commanders."
+hebrew: "ה֧וּא שְׁלֹמ֣וֹת וְאֶחָ֗יו עַ֣ל כָּל־ אֹצְר֤וֹת הַקֳּדָשִׁים֙ אֲשֶׁ֨ר הִקְדִּ֜ישׁ דָּוִ֣יד הַמֶּ֗לֶךְ וְרָאשֵׁ֧י הָאָב֛וֹת לְשָׂרֵֽי־ הָאֲלָפִ֥ים וְהַמֵּא֖וֹת וְשָׂרֵ֥י הַצָּבָֽא׃"
+pericope: "[[1Chr.26.20 The Treasurers, Officers, and Judges|The Treasurers, Officers, and Judges]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 26
+book/chapter: "[[1Chr.26|1 Chronicles 26]]"
+chronological_order: 437
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DEDICATION|DEDICATION]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SHELOMITH|SHELOMITH]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[H1931]]"
+- "[[H8013H]]"
+- "[[H9002]]"
+- "[[H0251H]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0214]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H0834A]]"
+- "[[H6942H]]"
+- "[[H1732]]"
+- "[[H4428G]]"
+- "[[H7218H]]"
+- "[[H0001G]]"
+- "[[H9005]]"
+- "[[H8269]]"
+- "[[H0505G]]"
+- "[[H3967]]"
+- "[[H6635A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 26:26**<big><big>[[1Chr.26.20 The Treasurers, Officers, and Judges|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which Shelomith and his brethren [were] over all the treasures of the dedicated things, which David the king, and the chief fathers, the captains over thousands and hundreds, and the captains of the host, had dedicated.
 <small><sub>**BSB:**</sub></small>
 This Shelomith and his brothers were in charge of all the treasuries for the things dedicated by King David, by the heads of families who were the commanders of thousands and of hundreds, and by the army commanders.
+<small><sub>**Hebrew:**</sub></small>
+[[H1931\|ה֧וּא]] [[H8013H\|שְׁלֹמ֣וֹת]] [[H9002\|וְ]][[H0251H\|אֶחָ֗י]][[H9023\|ו]] [[H5921A\|עַ֣ל]] [[H3605\|כָּל]][[H9014\|־]] [[H0214\|אֹצְר֤וֹת]] [[H9009\|הַ]][[H6944G\|קֳּדָשִׁים֙]] [[H0834A\|אֲשֶׁ֨ר]] [[H6942H\|הִקְדִּ֜ישׁ]] [[H1732\|דָּוִ֣יד]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H9002\|וְ]][[H7218H\|רָאשֵׁ֧י]] [[H9009\|הָ]][[H0001G\|אָב֛וֹת]] [[H9005\|לְ]][[H8269\|שָׂרֵֽי]][[H9014\|־]] [[H9009\|הָ]][[H0505G\|אֲלָפִ֥ים]] [[H9002\|וְ]][[H9009\|הַ]][[H3967\|מֵּא֖וֹת]] [[H9002\|וְ]][[H8269\|שָׂרֵ֥י]] [[H9009\|הַ]][[H6635A\|צָּבָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEDICATION|DEDICATION]] • [[topic LIBERALITY|LIBERALITY]] • [[topic SHELOMITH|SHELOMITH]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.25|<< 1 Chronicles 26:25]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.27|1 Chronicles 26:27 >>]]</td></tr></table>
 

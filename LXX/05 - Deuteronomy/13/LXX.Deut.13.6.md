@@ -1,9 +1,102 @@
+---
+title: LXX Deuteronomy 13:6
+type: Verse
+lxx: "But if there should enjoin you,  your brother from your father, or from your mother, or  of your son, or  of your daughter, or  of your wife, or one in  your bosom, or  your equal friend to your soul, in private saying, We should go and should serve other gods which neither you nor your fathers know,"
+greek: "εάν δε παρακαλέση σε ο αδελφός σου εκ πατρός σου η εκ μητρός σου η ο υιός σου η η θυγάτηρ σου η η γυνή σου η εν τω κόλπω σου η ο φίλος σου ο ίσος τη ψυχή σου λάθρα λέγων πορευθώμεν και λατρεύσωμεν θεοίς ετέροις ους ουκ ήδεις συ και οι πατέρες σου"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 13
+book/chapter: "[[Deut.13|Deuteronomy 13]]"
+chronological_order: 209
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G3870]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G1473]]"
+- "[[G1537]]"
+- "[[G3962]]"
+- "[[G1473]]"
+- "[[G2228]]"
+- "[[G1537]]"
+- "[[G3384]]"
+- "[[G1473]]"
+- "[[G2228]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G1473]]"
+- "[[G2228]]"
+- "[[G3588]]"
+- "[[G2364]]"
+- "[[G1473]]"
+- "[[G2228]]"
+- "[[G3588]]"
+- "[[G1135]]"
+- "[[G1473]]"
+- "[[G2228]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2859]]"
+- "[[G1473]]"
+- "[[G2228]]"
+- "[[G3588]]"
+- "[[G5384]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G2470]]"
+- "[[G3588]]"
+- "[[G5590]]"
+- "[[G1473]]"
+- "[[G2977]]"
+- "[[G3004]]"
+- "[[G4198]]"
+- "[[G2532]]"
+- "[[G3000]]"
+- "[[G2316]]"
+- "[[G2087]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1492]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+---
+
 **LXX Deuteronomy 13:6** 
 
 ***The Abomination of Serving Other Gods***
 
 <small><sub>**LXX:**</sub></small>
 But if there should enjoin you,  your brother from your father, or from your mother, or  of your son, or  of your daughter, or  of your wife, or one in  your bosom, or  your equal friend \[to\] your soul, in private saying, We should go and should serve other gods which neither you nor your fathers know, 
+<small><sub>**Greek:**</sub></small>
+[[G1437\|εάν]] [[G1161\|δε]] [[G3870\|παρακαλέση]] [[G1473\|σε]] [[G3588\|ο]] [[G0080\|αδελφός]] [[G1473\|σου]] [[G1537\|εκ]] [[G3962\|πατρός]] [[G1473\|σου]] [[G2228\|η]] [[G1537\|εκ]] [[G3384\|μητρός]] [[G1473\|σου]] [[G2228\|η]] [[G3588\|ο]] [[G5207\|υιός]] [[G1473\|σου]] [[G2228\|η]] [[G3588\|η]] [[G2364\|θυγάτηρ]] [[G1473\|σου]] [[G2228\|η]] [[G3588\|η]] [[G1135\|γυνή]] [[G1473\|σου]] [[G2228\|η]] [[G1722\|εν]] [[G3588\|τω]] [[G2859\|κόλπω]] [[G1473\|σου]] [[G2228\|η]] [[G3588\|ο]] [[G5384\|φίλος]] [[G1473\|σου]] [[G3588\|ο]] [[G2470\|ίσος]] [[G3588\|τη]] [[G5590\|ψυχή]] [[G1473\|σου]] [[G2977\|λάθρα]] [[G3004\|λέγων]] [[G4198\|πορευθώμεν]] [[G2532\|και]] [[G3000\|λατρεύσωμεν]] [[G2316\|θεοίς]] [[G2087\|ετέροις]] [[G3739\|ους]] [[G3756\|ουκ]] [[G1492\|ήδεις]] [[G1473\|συ]] [[G2532\|και]] [[G3588\|οι]] [[G3962\|πατέρες]] [[G1473\|σου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FELLOWSHIP|FELLOWSHIP]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic MARRIAGE|MARRIAGE]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.13.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.5|<< Deuteronomy 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.7|Deuteronomy 13:7 >>]]</td></tr></table>
 
@@ -53,6 +146,6 @@ But if there should enjoin you,  your brother from your father, or from your mot
 | nor | **<big>[[G2532\|και]]</big>** |
 | \<obj.> | **<big>[[G3588\|οι]]</big>** |
 | your fathers | **<big>[[G3962\|πατέρες]]</big>** **<big>[[G1473\|σου]]</big>** |
-[[Deut.13.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.5|<< Deuteronomy 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.7|Deuteronomy 13:7 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.5|<< Deuteronomy 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.7|Deuteronomy 13:7 >>]]</td></tr></table>
 
 

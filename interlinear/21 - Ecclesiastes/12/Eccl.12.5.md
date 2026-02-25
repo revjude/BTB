@@ -1,8 +1,73 @@
+---
+title: Ecclesiastes 12:5
+type: Verse
+kjv: "Also when they shall be afraid of that which is high, and fears shall be in the way, and the almond tree shall flourish, and the grasshopper shall be a burden, and desire shall fail: because man goeth to his long home, and the mourners go about the streets:"
+bsb: "when men fear the heights and dangers of the road, when the almond tree blossoms, the grasshopper loses its spring, and the caper berry shrivels—for then man goes to his eternal home and mourners walk the streets."
+hebrew: "גַּ֣ם מִגָּבֹ֤הַּ יִרָ֙אוּ֙ וְחַתְחַתִּ֣ים בַּדֶּ֔רֶךְ וְיָנֵ֤אץ הַשָּׁקֵד֙ וְיִסְתַּבֵּ֣ל הֶֽחָגָ֔ב וְתָפֵ֖ר הָֽאֲבִיּוֹנָ֑ה כִּֽי־ הֹלֵ֤ךְ הָאָדָם֙ אֶל־ בֵּ֣ית עוֹלָמ֔וֹ וְסָבְב֥וּ בָשּׁ֖וּק הַסֹּפְדִֽים׃"
+pericope: "[[Eccl.12.1 Remember Your Creator|Remember Your Creator]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 12
+book/chapter: "[[Eccl.12|Ecclesiastes 12]]"
+chronological_order: 550
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic GRASSHOPPER|GRASSHOPPER]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic OLD AGE|OLD AGE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H1571]]"
+- "[[H9006]]"
+- "[[H1364]]"
+- "[[H3372G]]"
+- "[[H9002]]"
+- "[[H2849]]"
+- "[[H9003]]"
+- "[[H1870L]]"
+- "[[H5006]]"
+- "[[H9009]]"
+- "[[H8247]]"
+- "[[H5445]]"
+- "[[H2284]]"
+- "[[H6565A]]"
+- "[[H0035]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1980G]]"
+- "[[H0120G]]"
+- "[[H0413]]"
+- "[[H1004B]]"
+- "[[H5769G]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H5437G]]"
+- "[[H7784]]"
+- "[[H5594]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Ecclesiastes 12:5**<big><big>[[Eccl.12.1 Remember Your Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also [when] they shall be afraid of [that which is] high, and fears [shall be] in the way, and the almond tree shall flourish, and the grasshopper shall be a burden, and desire shall fail: because man goeth to his long home, and the mourners go about the streets:
 <small><sub>**BSB:**</sub></small>
 when men fear the heights and dangers of the road, when the almond tree blossoms, the grasshopper loses its spring, and the caper berry shrivels—for then man goes to his eternal home and mourners walk the streets.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּ֣ם]] [[H9006\|מִ]][[H1364\|גָּבֹ֤הַּ]] [[H3372G\|יִרָ֙אוּ֙]] [[H9002\|וְ]][[H2849\|חַתְחַתִּ֣ים]] [[H9003\|בַּ]][[H1870L\|דֶּ֔רֶךְ]] [[H9002\|וְ]][[H5006\|יָנֵ֤אץ]] [[H9009\|הַ]][[H8247\|שָּׁקֵד֙]] [[H9002\|וְ]][[H5445\|יִסְתַּבֵּ֣ל]] [[H9009\|הֶֽ]][[H2284\|חָגָ֔ב]] [[H9002\|וְ]][[H6565A\|תָפֵ֖ר]] [[H9009\|הָֽ]][[H0035\|אֲבִיּוֹנָ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1980G\|הֹלֵ֤ךְ]] [[H9009\|הָ]][[H0120G\|אָדָם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּ֣ית]] [[H5769G\|עוֹלָמ֔]][[H9023\|וֹ]] [[H9001\|וְ]][[H5437G\|סָבְב֥וּ]] [[H9003\|בָ]][[H7784\|שּׁ֖וּק]] [[H9009\|הַ]][[H5594\|סֹּפְדִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic GRASSHOPPER|GRASSHOPPER]] • [[topic MOURNING|MOURNING]] • [[topic OLD AGE|OLD AGE]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.12.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.12.4|<< Ecclesiastes 12:4]]</td><td align="center" style="border:none;">[[Eccl.12|Ecclesiastes 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.12.6|Ecclesiastes 12:6 >>]]</td></tr></table>
 

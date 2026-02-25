@@ -1,8 +1,64 @@
+---
+title: Ezekiel 16:22
+type: Verse
+kjv: "And in all thine abominations and thy whoredoms thou hast not remembered the days of thy youth, when thou wast naked and bare, and wast polluted in thy blood."
+bsb: "And in all your abominations and acts of prostitution, you did not remember the days of your youth when you were naked and bare, wallowing in your own blood."
+hebrew: "וְאֵ֤ת כָּל־ תּוֹעֲבֹתַ֙יִךְ֙ וְתַזְנֻתַ֔יִךְ לֹ֥א זָכַ֖רְתְּ אֶת־ יְמֵ֣י נְעוּרָ֑יִךְ בִּֽהְיוֹתֵךְ֙ עֵרֹ֣ם וְעֶרְיָ֔ה מִתְבּוֹסֶ֥סֶת בְּדָמֵ֖ךְ הָיִֽית׃"
+pericope: "[[Ezek.16.1 Jerusalem’s Unfaithfulness|Jerusalem’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H8441]]"
+- "[[H9022]]"
+- "[[H8457]]"
+- "[[H3808]]"
+- "[[H2142]]"
+- "[[H3117G]]"
+- "[[H5271A]]"
+- "[[H9003]]"
+- "[[H1961]]"
+- "[[H9042]]"
+- "[[H5903]]"
+- "[[H6181]]"
+- "[[H0947]]"
+- "[[H1818]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Ezekiel 16:22**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in all thine abominations and thy whoredoms thou hast not remembered the days of thy youth, when thou wast naked and bare, [and] wast polluted in thy blood.
 <small><sub>**BSB:**</sub></small>
 And in all your abominations and acts of prostitution, you did not remember the days of your youth when you were naked and bare, wallowing in your own blood.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵ֤ת]] [[H3605\|כָּל]][[H9014\|־]] [[H8441\|תּוֹעֲבֹתַ֙יִ]][[H9022\|ךְ֙]] [[H9002\|וְ]][[H8457\|תַזְנֻתַ֔יִ]][[H9022\|ךְ]] [[H3808\|לֹ֥א]] [[H2142\|זָכַ֖רְתְּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3117G\|יְמֵ֣י]] [[H5271A\|נְעוּרָ֑יִ]][[H9022\|ךְ]] [[H9003\|בִּֽ]][[H1961\|הְיוֹתֵ]][[H9042\|ךְ֙]] [[H5903\|עֵרֹ֣ם]] [[H9002\|וְ]][[H6181\|עֶרְיָ֔ה]] [[H0947\|מִתְבּוֹסֶ֥סֶת]] [[H9003\|בְּ]][[H1818\|דָמֵ֖]][[H9022\|ךְ]] [[H1961\|הָיִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INGRATITUDE|INGRATITUDE]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.21|<< Ezekiel 16:21]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.23|Ezekiel 16:23 >>]]</td></tr></table>
 

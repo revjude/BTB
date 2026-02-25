@@ -1,8 +1,54 @@
+---
+title: Psalm 83:3
+type: Verse
+kjv: "They have taken crafty counsel against thy people, and consulted against thy hidden ones."
+bsb: "With cunning they scheme against Your people and conspire against those You cherish,"
+hebrew: "עַֽל־ עַ֭מְּךָ יַעֲרִ֣ימוּ ס֑וֹד וְ֝יִתְיָעֲצ֗וּ עַל־ צְפוּנֶֽיךָ׃"
+pericope: "[[Ps.83.1 O God, Be Not Silent|O God, Be Not Silent]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 83
+book/chapter: "[[Ps.83|Psalm 83]]"
+chronological_order: 513
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ARMIES|ARMIES]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H6191]]"
+- "[[H5475]]"
+- "[[H9002]]"
+- "[[H3289]]"
+- "[[H6845]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 83:3**<big><big>[[Ps.83.1 O God, Be Not Silent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have taken crafty counsel against thy people, and consulted against thy hidden ones.
 <small><sub>**BSB:**</sub></small>
 With cunning they scheme against Your people and conspire against those You cherish,
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַֽל]][[H9014\|־]] [[H5971A\|עַ֭מְּ]][[H9021\|ךָ]] [[H6191\|יַעֲרִ֣ימוּ]] [[H5475\|ס֑וֹד]] [[H9002\|וְ֝]][[H3289\|יִתְיָעֲצ֗וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H6845\|צְפוּנֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ARMIES|ARMIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.83.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.83.2|<< Psalms 83:2]]</td><td align="center" style="border:none;">[[Ps.83|Psalms 83]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.83.4|Psalms 83:4 >>]]</td></tr></table>
 

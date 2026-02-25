@@ -1,10 +1,62 @@
+---
+title: Philippians 3:7
+type: Verse
+kjv: "But what things were gain to me, those I counted loss for Christ."
+bsb: "But whatever was gain to me I count as loss for the sake of Christ."
+greek: "ἀλλ᾽ ἅτινα ἦν μοι κέρδη, ταῦτα ἥγημαι διὰ τὸν Χριστὸν ζημίαν·"
+pericope: "[[Phil.3.1 Righteousness through Faith in Christ|Righteousness through Faith in Christ]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 3
+book/chapter: "[[Phil.3|Philippians 3]]"
+chronological_order: 1119
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PARADOX|PARADOX]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SACRIFICES|SACRIFICES]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORKS|WORKS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0235]]"
+- "[[G3748]]"
+- "[[G1510]]"
+- "[[G3165]]"
+- "[[G2771]]"
+- "[[G3778]]"
+- "[[G2233]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G5547]]"
+- "[[G2209]]"
+texts:
+- NKO
+---
+
 **Philippians 3:7**<big><big>[[Phil.3.1 Righteousness through Faith in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But what things were gain to me, those I counted loss for Christ.
 <small><sub>**BSB:**</sub></small>
 But whatever was gain to me I count as loss for the sake of Christ.
-<small><sub>**Literal:**</sub></small>
-But whatever things were to me gain, these I have esteemed because of <the> Christ loss;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.6|<< Philippians 3:6]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.8|Philippians 3:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G3748\|ἅτινα]]  [[G1510\|ἦν]]  [[G3165\|μοι]]  [[G2771\|κέρδη,]]  [[G3778\|ταῦτα]]  [[G2233\|ἥγημαι]]  [[G1223\|διὰ]]  [[G3588\|τὸν]]  [[G5547\|Χριστὸν]]  [[G2209\|ζημίαν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORMALISM|FORMALISM]] • [[topic LOVE|LOVE]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PARADOX|PARADOX]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SACRIFICES|SACRIFICES]] • [[topic SALVATION|SALVATION]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WISDOM|WISDOM]] • [[topic WORKS|WORKS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.6|<< Philippians 3:6]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.8|Philippians 3:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

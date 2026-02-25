@@ -1,8 +1,72 @@
+---
+title: 2 Kings 23:15
+type: Verse
+kjv: "Moreover the altar that was at Bethel, and the high place which Jeroboam the son of Nebat, who made Israel to sin, had made, both that altar and the high place he brake down, and burned the high place, and stamped it small to powder, and burned the grove."
+bsb: "He even pulled down the altar at Bethel, the high place set up by Jeroboam son of Nebat, who had caused Israel to sin. Then he burned the high place, ground it to powder, and burned the Asherah pole."
+hebrew: "וְגַ֨ם אֶת־ הַמִּזְבֵּ֜חַ אֲשֶׁ֣ר בְּבֵֽית־ אֵ֗ל הַבָּמָה֙ אֲשֶׁ֨ר עָשָׂ֜ה יָרָבְעָ֤ם בֶּן־ נְבָט֙ אֲשֶׁ֣ר הֶחֱטִ֣יא אֶת־ יִשְׂרָאֵ֔ל גַּ֣ם אֶת־ הַמִּזְבֵּ֧חַ הַה֛וּא וְאֶת־ הַבָּמָ֖ה נָתָ֑ץ וַיִּשְׂרֹ֧ף אֶת־ הַבָּמָ֛ה הֵדַ֥ק לְעָפָ֖ר וְשָׂרַ֥ף אֲשֵׁרָֽה׃"
+pericope: "[[2Kgs.23.4 Josiah Destroys Idolatry|Josiah Destroys Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 23
+book/chapter: "[[2Kgs.23|2 Kings 23]]"
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic CALF|CALF]]"
+- "[[topic CHEMARIM|CHEMARIM]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H1008G]]"
+- "[[H1116]]"
+- "[[H6213H]]"
+- "[[H3379G]]"
+- "[[H1121A]]"
+- "[[H5028]]"
+- "[[H2398]]"
+- "[[H3478]]"
+- "[[H1931]]"
+- "[[H5422]]"
+- "[[H9001]]"
+- "[[H8313]]"
+- "[[H1854]]"
+- "[[H9005]]"
+- "[[H6083]]"
+- "[[H0842]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 23:15**<big><big>[[2Kgs.23.4 Josiah Destroys Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the altar that [was] at Bethel, [and] the high place which Jeroboam the son of Nebat, who made Israel to sin, had made, both that altar and the high place he brake down, and burned the high place, [and] stamped [it] small to powder, and burned the grove.
 <small><sub>**BSB:**</sub></small>
 He even pulled down the altar at Bethel, the high place set up by Jeroboam son of Nebat, who had caused Israel to sin. Then he burned the high place, ground it to powder, and burned the Asherah pole.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַ֨ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֜חַ]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H1008G\|בֵֽית]][[H9014\|־]] [[H1008G\|אֵ֗ל]] [[H9009\|הַ]][[H1116\|בָּמָה֙]] [[H0834A\|אֲשֶׁ֨ר]] [[H6213H\|עָשָׂ֜ה]] [[H3379G\|יָרָבְעָ֤ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5028\|נְבָט֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H2398\|הֶחֱטִ֣יא]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H1571\|גַּ֣ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֧חַ]] [[H9009\|הַ]][[H1931\|ה֛וּא]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1116\|בָּמָ֖ה]] [[H5422\|נָתָ֑ץ]] [[H9001\|וַ]][[H8313\|יִּשְׂרֹ֧ף]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1116\|בָּמָ֛ה]] [[H1854\|הֵדַ֥ק]] [[H9005\|לְ]][[H6083\|עָפָ֖ר]] [[H9001\|וְ]][[H8313\|שָׂרַ֥ף]] [[H0842\|אֲשֵׁרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic BETH-EL|BETH-EL]] • [[topic CALF|CALF]] • [[topic CHEMARIM|CHEMARIM]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOSIAH|JOSIAH]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.14|<< 2 Kings 23:14]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.16|2 Kings 23:16 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: 1 Samuel 20:28
+type: Verse
+kjv: "And Jonathan answered Saul, David earnestly asked leave of me to go to Bethlehem:"
+bsb: "Jonathan answered, “David urgently requested my permission to go to Bethlehem,"
+hebrew: "וַיַּ֥עַן יְהוֹנָתָ֖ן אֶת־ שָׁא֑וּל נִשְׁאֹ֨ל נִשְׁאַ֥ל דָּוִ֛ד מֵעִמָּדִ֖י עַד־ בֵּ֥ית לָֽחֶם׃"
+pericope: "[[1Sam.20.10 Jonathan and David Renew Their Covenant|Jonathan and David Renew Their Covenant]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 20
+book/chapter: "[[1Sam.20|1 Samuel 20]]"
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARROW|ARROW]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H3083H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7586G]]"
+- "[[H7592]]"
+- "[[H1732]]"
+- "[[H9006]]"
+- "[[H5978]]"
+- "[[H9030]]"
+- "[[H5704]]"
+- "[[H1035G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 20:28**<big><big>[[1Sam.20.10 Jonathan and David Renew Their Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jonathan answered Saul, David earnestly asked [leave] of me [to go] to Bethlehem:
 <small><sub>**BSB:**</sub></small>
 Jonathan answered, “David urgently requested my permission to go to Bethlehem,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֥עַן]] [[H3083H\|יְהוֹנָתָ֖ן]] [[H0853\|אֶת]][[H9014\|־]] [[H7586G\|שָׁא֑וּל]] [[H7592\|נִשְׁאֹ֨ל]] [[H7592\|נִשְׁאַ֥ל]] [[H1732\|דָּוִ֛ד]] [[H9006\|מֵ]][[H5978\|עִמָּדִ֖]][[H9030\|י]] [[H5704\|עַד]][[H9014\|־]] [[H1035G\|בֵּ֥ית]] [[H1035G\|לָֽחֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARROW|ARROW]] • [[topic JEALOUSY|JEALOUSY]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.27|<< 1 Samuel 20:27]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.29|1 Samuel 20:29 >>]]</td></tr></table>
 

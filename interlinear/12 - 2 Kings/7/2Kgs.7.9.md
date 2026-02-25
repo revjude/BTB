@@ -1,8 +1,76 @@
+---
+title: 2 Kings 7:9
+type: Verse
+kjv: "Then they said one to another, We do not well: this day is a day of good tidings, and we hold our peace: if we tarry till the morning light, some mischief will come upon us: now therefore come, that we may go and tell the king’s household."
+bsb: "Finally, they said to one another, “We are not doing what is right. Today is a day of good news. If we are silent and wait until morning light, our sin will overtake us. Now, therefore, let us go and tell the king’s household.”"
+hebrew: "וַיֹּאמְרוּ֩ אִ֨ישׁ אֶל־ רֵעֵ֜הוּ לֹֽא־ כֵ֣ן׀ אֲנַ֣חְנוּ עֹשִׂ֗ים הַיּ֤וֹם הַזֶּה֙ יוֹם־ בְּשֹׂרָ֣ה ה֔וּא וַאֲנַ֣חְנוּ מַחְשִׁ֗ים וְחִכִּ֛ינוּ עַד־ א֥וֹר הַבֹּ֖קֶר וּמְצָאָ֣נוּ עָו֑וֹן וְעַתָּה֙ לְכ֣וּ וְנָבֹ֔אָה וְנַגִּ֖ידָה בֵּ֥ית הַמֶּֽלֶךְ׃"
+pericope: "[[2Kgs.7.3 The Syrians Flee|The Syrians Flee]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 7
+book/chapter: "[[2Kgs.7|2 Kings 7]]"
+chronological_order: 579
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0376I]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H3651A]]"
+- "[[H9015]]"
+- "[[H0587]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H1309]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H2814]]"
+- "[[H2442]]"
+- "[[H5704]]"
+- "[[H0216]]"
+- "[[H1242]]"
+- "[[H4672]]"
+- "[[H9035]]"
+- "[[H5771I]]"
+- "[[H6258]]"
+- "[[H1980K]]"
+- "[[H0935G]]"
+- "[[H5046]]"
+- "[[H1004M]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 7:9**<big><big>[[2Kgs.7.3 The Syrians Flee|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they said one to another, We do not well: this day [is] a day of good tidings, and we hold our peace: if we tarry till the morning light, some mischief will come upon us: now therefore come, that we may go and tell the king’s household.
 <small><sub>**BSB:**</sub></small>
 Finally, they said to one another, “We are not doing what is right. Today is a day of good news. If we are silent and wait until morning light, our sin will overtake us. Now, therefore, let us go and tell the king’s household.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְרוּ֩]] [[H0376I\|אִ֨ישׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H7453\|רֵעֵ֜]][[H9023\|הוּ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3651A\|כֵ֣ן]][[H9015\|׀]] [[H0587\|אֲנַ֣חְנוּ]] [[H6213A\|עֹשִׂ֗ים]] [[H9009\|הַ]][[H3117L\|יּ֤וֹם]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H3117L\|יוֹם]][[H9014\|־]] [[H1309\|בְּשֹׂרָ֣ה]] [[H1931\|ה֔וּא]] [[H9002\|וַ]][[H0587\|אֲנַ֣חְנוּ]] [[H2814\|מַחְשִׁ֗ים]] [[H9001\|וְ]][[H2442\|חִכִּ֛ינוּ]] [[H5704\|עַד]][[H9014\|־]] [[H0216\|א֥וֹר]] [[H9009\|הַ]][[H1242\|בֹּ֖קֶר]] [[H9001\|וּ]][[H4672\|מְצָאָ֣]][[H9035\|נוּ]] [[H5771I\|עָו֑וֹן]] [[H9002\|וְ]][[H6258\|עַתָּה֙]] [[H1980K\|לְכ֣וּ]] [[H9002\|וְ]][[H0935G\|נָבֹ֔אָה]] [[H9002\|וְ]][[H5046\|נַגִּ֖ידָה]] [[H1004M\|בֵּ֥ית]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.7.8|<< 2 Kings 7:8]]</td><td align="center" style="border:none;">[[2Kgs.7|2 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7.10|2 Kings 7:10 >>]]</td></tr></table>
 

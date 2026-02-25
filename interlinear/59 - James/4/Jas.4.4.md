@@ -1,10 +1,65 @@
+---
+title: James 4:4
+type: Verse
+kjv: "Ye adulterers and adulteresses, know ye not that the friendship of the world is enmity with God? whosoever therefore will be a friend of the world is the enemy of God."
+bsb: "You adulteresses! Do you not know that friendship with the world is hostility toward God? Therefore, whoever chooses to be a friend of the world renders himself an enemy of God."
+greek: "μοιχοὶ καὶ μοιχαλίδες, οὐκ οἴδατε ὅτι ἡ φιλία τοῦ κόσμου ἔχθρα τοῦ θεοῦ ἐστιν; ὃς ἐὰν οὖν βουληθῇ φίλος εἶναι τοῦ κόσμου, ἐχθρὸς τοῦ θεοῦ καθίσταται."
+pericope: "[[Jas.4.1 A Warning against Pride|A Warning against Pride]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 4
+book/chapter: "[[Jas.4|James 4]]"
+chronological_order: 1036
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic CARNAL MINDEDNESS|CARNAL MINDEDNESS]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G3432]]"
+- "[[G2532]]"
+- "[[G3428]]"
+- "[[G3756]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G5373]]"
+- "[[G2889]]"
+- "[[G2189]]"
+- "[[G2316]]"
+- "[[G1510]]"
+- "[[G3739]]"
+- "[[G1437]]"
+- "[[G3767]]"
+- "[[G1014]]"
+- "[[G5384]]"
+- "[[G1511]]"
+- "[[G2190]]"
+- "[[G2525]]"
+texts:
+- K
+- NKO
+- N(k)O
+---
+
 **James 4:4**<big><big>[[Jas.4.1 A Warning against Pride|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ye adulterers and adulteresses, know ye not that the friendship of the world is enmity with God? whosoever therefore will be a friend of the world is the enemy of God.
 <small><sub>**BSB:**</sub></small>
 You adulteresses! Do you not know that friendship with the world is hostility toward God? Therefore, whoever chooses to be a friend of the world renders himself an enemy of God.
-<small><sub>**Literal:**</sub></small>
-adulterers — and Adulteresses! Surely you know that the friendship with the world hostility <the> with God is? Who[ever] maybe therefore shall choose a friend to be of the world, an enemy <the> of God is appointed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.3|<< James 4:3]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.5|James 4:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3432\|μοιχοὶ]]  [[G2532\|καὶ]]  [[G3428\|μοιχαλίδες,]]  [[G3756\|οὐκ]]  [[G6063\|οἴδατε]]  [[G3754G\|ὅτι]]  [[G3588\|ἡ]]  [[G5373\|φιλία]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου]]  [[G2189\|ἔχθρα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1510\|ἐστιν;]]  [[G3739\|ὃς]]  [[G1437\|ἐὰν]]  [[G3767\|οὖν]]  [[G1014\|βουληθῇ]]  [[G5384\|φίλος]]  [[G1511\|εἶναι]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου,]]  [[G2190\|ἐχθρὸς]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2525\|καθίσταται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARNAL MINDEDNESS|CARNAL MINDEDNESS]] • [[topic GODLESSNESS|GODLESSNESS]] • [[topic HOLINESS|HOLINESS]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.3|<< James 4:3]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.5|James 4:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

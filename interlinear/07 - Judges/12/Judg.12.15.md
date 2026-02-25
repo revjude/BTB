@@ -1,8 +1,60 @@
+---
+title: Judges 12:15
+type: Verse
+kjv: "And Abdon the son of Hillel the Pirathonite died, and was buried in Pirathon in the land of Ephraim, in the mount of the Amalekites."
+bsb: "Then Abdon son of Hillel, from Pirathon, died, and he was buried at Pirathon in Ephraim, in the hill country of the Amalekites."
+hebrew: "וַיָּ֛מָת עַבְדּ֥וֹן בֶּן־ הִלֵּ֖ל הַפִּרְעָתוֹנִ֑י וַיִּקָּבֵ֤ר בְּפִרְעָתוֹן֙ בְּאֶ֣רֶץ אֶפְרַ֔יִם בְּהַ֖ר הָעֲמָלֵקִֽי׃ פ"
+pericope: "[[Judg.12.8 Ibzan, Elon, and Abdon|Ibzan, Elon, and Abdon]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 12
+book/chapter: "[[Judg.12|Judges 12]]"
+chronological_order: 266
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ABDON|ABDON]]"
+- "[[topic HILLEL|HILLEL]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PIRATHON|PIRATHON]]"
+strongs:
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H5658H]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H1985]]"
+- "[[H9009]]"
+- "[[H6553]]"
+- "[[H6912]]"
+- "[[H9003]]"
+- "[[H6552]]"
+- "[[H0776G]]"
+- "[[H0669G]]"
+- "[[H2022H]]"
+- "[[H6003]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Judges 12:15**<big><big>[[Judg.12.8 Ibzan, Elon, and Abdon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abdon the son of Hillel the Pirathonite died, and was buried in Pirathon in the land of Ephraim, in the mount of the Amalekites.
 <small><sub>**BSB:**</sub></small>
 Then Abdon son of Hillel, from Pirathon, died, and he was buried at Pirathon in Ephraim, in the hill country of the Amalekites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4191\|יָּ֛מָת]] [[H5658H\|עַבְדּ֥וֹן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1985\|הִלֵּ֖ל]] [[H9009\|הַ]][[H6553\|פִּרְעָתוֹנִ֑י]] [[H9001\|וַ]][[H6912\|יִּקָּבֵ֤ר]] [[H9003\|בְּ]][[H6552\|פִרְעָתוֹן֙]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H0669G\|אֶפְרַ֔יִם]] [[H9003\|בְּ]][[H2022H\|הַ֖ר]] [[H9009\|הָ]][[H6003\|עֲמָלֵקִֽי]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABDON|ABDON]] • [[topic HILLEL|HILLEL]] • [[topic ISRAEL|ISRAEL]] • [[topic PIRATHON|PIRATHON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.12.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.12.14|<< Judges 12:14]]</td><td align="center" style="border:none;">[[Judg.12|Judges 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.1|Judges 13:1 >>]]</td></tr></table>
 
@@ -18,7 +70,7 @@ Then Abdon son of Hillel, from Pirathon, died, and he was buried at Pirathon in 
 | in [the] land of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0776G\|אֶ֣רֶץ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ephraim  |**<big>&#8207;[[H0669G\|אֶפְרַ֔יִם]]&#8207; </big>**| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] hill country of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2022H\|הַ֖ר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Har<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the Amalekite[s]  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H6003\|עֲמָלֵקִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.mal.Ki<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Amalekite[s]  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H6003\|עֲמָלֵקִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.mal.Ki<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.12.14|<< Judges 12:14]]</td><td align="center" style="border:none;">[[Judg.12|Judges 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.1|Judges 13:1 >>]]</td></tr></table>
 
 

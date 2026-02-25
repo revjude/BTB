@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Peril of Unbelief
+type: Pericope
 pericope: "[[Heb.3.12 The Peril of Unbelief|The Peril of Unbelief]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 3
 book/chapter: "[[Heb.3|Hebrews 3]]"
-genre:
+chronological_order: 1142
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 8
 verses:
 - "[[Heb.3.12]]"
 - "[[Heb.3.13]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Heb.3.19]]"
 ---
 
-[[Heb.3|Hebrews 3:12 - Hebrews 3:19]]
+<small>[[Heb.3|Hebrews 3:12-19]]</small>
 *The Peril of Unbelief*
 
 [[Heb.3.12|12]] Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God.

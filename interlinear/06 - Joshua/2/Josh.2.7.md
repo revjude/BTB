@@ -1,8 +1,61 @@
+---
+title: Joshua 2:7
+type: Verse
+kjv: "And the men pursued after them the way to Jordan unto the fords: and as soon as they which pursued after them were gone out, they shut the gate."
+bsb: "So the king’s men set out in pursuit of the spies along the road to the fords of the Jordan, and as soon as they had gone out, the gate was shut."
+hebrew: "וְהָאֲנָשִׁ֗ים רָדְפ֤וּ אַֽחֲרֵיהֶם֙ דֶּ֣רֶךְ הַיַּרְדֵּ֔ן עַ֖ל הַֽמַּעְבְּר֑וֹת וְהַשַּׁ֣עַר סָגָ֔רוּ אַחֲרֵ֕י כַּאֲשֶׁ֛ר יָצְא֥וּ הָרֹדְפִ֖ים אַחֲרֵיהֶֽם׃"
+pericope: "[[Josh.2.1 Rahab Welcomes the Spies|Rahab Welcomes the Spies]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 2
+book/chapter: "[[Josh.2|Joshua 2]]"
+chronological_order: 232
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic GATES|GATES]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic JORDAN|JORDAN]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic RECONNOISSANCE|RECONNOISSANCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H7291]]"
+- "[[H0310A]]"
+- "[[H9038]]"
+- "[[H1870K]]"
+- "[[H3383]]"
+- "[[H5921A]]"
+- "[[H4569B]]"
+- "[[H8179G]]"
+- "[[H5462]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H3318G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 2:7**<big><big>[[Josh.2.1 Rahab Welcomes the Spies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men pursued after them the way to Jordan unto the fords: and as soon as they which pursued after them were gone out, they shut the gate.
 <small><sub>**BSB:**</sub></small>
 So the king’s men set out in pursuit of the spies along the road to the fords of the Jordan, and as soon as they had gone out, the gate was shut.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H0582\|אֲנָשִׁ֗ים]] [[H7291\|רָדְפ֤וּ]] [[H0310A\|אַֽחֲרֵי]][[H9038\|הֶם֙]] [[H1870K\|דֶּ֣רֶךְ]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֔ן]] [[H5921A\|עַ֖ל]] [[H9009\|הַֽ]][[H4569B\|מַּעְבְּר֑וֹת]] [[H9002\|וְ]][[H9009\|הַ]][[H8179G\|שַּׁ֣עַר]] [[H5462\|סָגָ֔רוּ]] [[H0310A\|אַחֲרֵ֕י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H3318G\|יָצְא֥וּ]] [[H9009\|הָ]][[H7291\|רֹדְפִ֖ים]] [[H0310A\|אַחֲרֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic GATES|GATES]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic JORDAN|JORDAN]] • [[topic KINDNESS|KINDNESS]] • [[topic RECONNOISSANCE|RECONNOISSANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.6|<< Joshua 2:6]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.8|Joshua 2:8 >>]]</td></tr></table>
 

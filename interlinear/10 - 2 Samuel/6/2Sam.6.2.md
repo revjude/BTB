@@ -1,8 +1,76 @@
+---
+title: 2 Samuel 6:2
+type: Verse
+kjv: "And David arose, and went with all the people that were with him from Baale of Judah, to bring up from thence the ark of God, whose name is called by the name of the LORD of hosts that dwelleth between the cherubims."
+bsb: "And he and all his troops set out for Baale of Judah to bring up from there the ark of God, which is called by the Name—the name of the LORD of Hosts, who is enthroned between the cherubim that are on it."
+hebrew: "וַיָּ֣קָם׀ וַיֵּ֣לֶךְ דָּוִ֗ד וְכָל־ הָעָם֙ אֲשֶׁ֣ר אִתּ֔וֹ מִֽבַּעֲלֵ֖י יְהוּדָ֑ה לְהַעֲל֣וֹת מִשָּׁ֗ם אֵ֚ת אֲר֣וֹן הָאֱלֹהִ֔ים אֲשֶׁר־ נִקְרָ֣א שֵׁ֗ם שֵׁ֣ם יְהוָ֧ה צְבָא֛וֹת יֹשֵׁ֥ב הַכְּרֻבִ֖ים עָלָֽיו׃"
+pericope: "[[2Sam.6.1 David Fetches the Ark|David Fetches the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 6
+book/chapter: "[[2Sam.6|2 Samuel 6]]"
+chronological_order: 392
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic BAALE|BAALE]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic KIRJATH-JEARIM|KIRJATH-JEARIM]]"
+- "[[topic MERCY-SEAT|MERCY-SEAT]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SHEKINAH|SHEKINAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H9015]]"
+- "[[H1980G]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H1173I]]"
+- "[[H3063O]]"
+- "[[H9005]]"
+- "[[H5927H]]"
+- "[[H8033G]]"
+- "[[H0853]]"
+- "[[H0727]]"
+- "[[H0430G]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H3427]]"
+- "[[H3742]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 6:2**<big><big>[[2Sam.6.1 David Fetches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David arose, and went with all the people that [were] with him from Baale of Judah, to bring up from thence the ark of God, whose name is called by the name of the LORD of hosts that dwelleth [between] the cherubims.
 <small><sub>**BSB:**</sub></small>
 And he and all his troops set out for Baale of Judah to bring up from there the ark of God, which is called by the Name—the name of the LORD of Hosts, who is enthroned between the cherubim that are on it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּ֣קָם]][[H9015\|׀]] [[H9001\|וַ]][[H1980G\|יֵּ֣לֶךְ]] [[H1732\|דָּוִ֗ד]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0854\|אִתּ֔]][[H9033\|וֹ]] [[H9006\|מִֽ]][[H1173I\|בַּעֲלֵ֖י]] [[H3063O\|יְהוּדָ֑ה]] [[H9005\|לְ]][[H5927H\|הַעֲל֣וֹת]] [[H9006\|מִ]][[H8033G\|שָּׁ֗ם]] [[H0853\|אֵ֚ת]] [[H0727\|אֲר֣וֹן]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7121H\|נִקְרָ֣א]] [[H8034\|שֵׁ֗ם]] [[H8034\|שֵׁ֣ם]] [[H3068G\|יְהוָ֧ה]] [[H6635B\|צְבָא֛וֹת]] [[H3427\|יֹשֵׁ֥ב]] [[H9009\|הַ]][[H3742\|כְּרֻבִ֖ים]] [[H5921A\|עָלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAALE|BAALE]] • [[topic DAVID|DAVID]] • [[topic KIRJATH-JEARIM|KIRJATH-JEARIM]] • [[topic MERCY-SEAT|MERCY-SEAT]] • [[topic MIRACLES|MIRACLES]] • [[topic SHEKINAH|SHEKINAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.1|<< 2 Samuel 6:1]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.3|2 Samuel 6:3 >>]]</td></tr></table>
 

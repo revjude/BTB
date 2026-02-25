@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Fetches the Ark
+type: Pericope
 pericope: "[[1Chr.13.1 David Fetches the Ark|David Fetches the Ark]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 13
 book/chapter: "[[1Chr.13|1 Chronicles 13]]"
-genre:
+chronological_order: 394
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 7
 verses:
 - "[[1Chr.13.1]]"
 - "[[1Chr.13.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1Chr.13.7]]"
 ---
 
-[[1Chr.13|1 Chronicles 13:1 - 1 Chronicles 13:7]]
+<small>[[1Chr.13|1 Chronicles 13:1-7]]</small>
 *David Fetches the Ark*
 
 [[1Chr.13.1|1]] And David consulted with the captains of thousands and hundreds, \[and\] with every leader.

@@ -1,10 +1,63 @@
+---
+title: 1 John 5:18
+type: Verse
+kjv: "We know that whosoever is born of God sinneth not; but he that is begotten of God keepeth himself, and that wicked one toucheth him not."
+bsb: "We know that anyone born of God does not keep on sinning; the One who was born of God protects him, and the evil one cannot touch him."
+greek: "οἴδαμεν ὅτι πᾶς ὁ γεγεννημένος ἐκ τοῦ θεοῦ, οὐχ ἁμαρτάνει· ἀλλ᾽ ὁ γεννηθεὶς ἐκ τοῦ θεοῦ τηρεῖ ἑαυτόν, καὶ ὁ πονηρὸς οὐχ ἅπτεται αὐτοῦ."
+pericope: "[[1John.5.18 The True God|The True God]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 5
+book/chapter: "[[1John.5|1 John 5]]"
+chronological_order: 1165
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1080]]"
+- "[[G1537]]"
+- "[[G2316]]"
+- "[[G3756]]"
+- "[[G0264]]"
+- "[[G0235]]"
+- "[[G5083I]]"
+- "[[G1438]]"
+- "[[G2532]]"
+- "[[G4190]]"
+- "[[G0681]]"
+- "[[G0846]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **1 John 5:18**<big><big>[[1John.5.18 The True God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 We know that whosoever is born of God sinneth not; but he that is begotten of God keepeth himself, and that wicked one toucheth him not.
 <small><sub>**BSB:**</sub></small>
 We know that anyone born of God does not keep on sinning; the One who was born of God protects him, and the evil one cannot touch him.
-<small><sub>**Literal:**</sub></small>
-We know that everyone who born of <the> God not continues to sin; but the [One] having been begotten of <the> God protects himself, and the evil [one] not does touch him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.17|<< 1 John 5:17]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.19|1 John 5:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|οἴδαμεν]]  [[G3754G\|ὅτι]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G1080\|γεγεννημένος]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G3756\|οὐχ]]  [[G0264\|ἁμαρτάνει·]]  [[G0235\|ἀλλ᾽]]  [[G3588\|ὁ]]  [[G1080\|γεννηθεὶς]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G5083I\|τηρεῖ]]  [[G1438\|ἑαυτόν,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G4190\|πονηρὸς]]  [[G3756\|οὐχ]]  [[G0681\|ἅπτεται]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLINESS|HOLINESS]] • [[topic PERFECTION|PERFECTION]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SATAN|SATAN]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.17|<< 1 John 5:17]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.19|1 John 5:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

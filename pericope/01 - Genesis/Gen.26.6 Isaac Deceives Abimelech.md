@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Isaac Deceives Abimelech
+type: Pericope
 pericope: "[[Gen.26.6 Isaac Deceives Abimelech|Isaac Deceives Abimelech]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 26
 book/chapter: "[[Gen.26|Genesis 26]]"
-genre:
+chronological_order: 68
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 6
 verses:
 - "[[Gen.26.6]]"
 - "[[Gen.26.7]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Gen.26.11]]"
 ---
 
-[[Gen.26|Genesis 26:6 - Genesis 26:11]]
+<small>[[Gen.26|Genesis 26:6-11]]</small>
 *Isaac Deceives Abimelech*
 
 [[Gen.26.6|6]] And Isaac dwelt in Gerar:

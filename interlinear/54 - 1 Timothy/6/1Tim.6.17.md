@@ -1,10 +1,74 @@
+---
+title: 1 Timothy 6:17
+type: Verse
+kjv: "Charge them that are rich in this world, that they be not highminded, nor trust in uncertain riches, but in the living God, who giveth us richly all things to enjoy;"
+bsb: "Instruct those who are rich in the present age not to be conceited and not to put their hope in the uncertainty of wealth, but in God, who richly provides all things for us to enjoy."
+greek: "Τοῖς πλουσίοις ἐν τῷ νῦν αἰῶνι παράγγελλε μὴ ὑψηλοφρονεῖν μηδὲ ἠλπικέναι ἐπὶ πλούτου ἀδηλότητι ἀλλ᾽ ἐπὶ τῷ θεῷ τῷ ζῶντι τῷ παρέχοντι ἡμῖν πάντα πλουσίως εἰς ἀπόλαυσιν,"
+pericope: "[[1Tim.6.17 A Charge to the Rich|A Charge to the Rich]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 6
+book/chapter: "[[1Tim.6|1 Timothy 6]]"
+chronological_order: 1131
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3588]]"
+- "[[G4145]]"
+- "[[G1722]]"
+- "[[G3568]]"
+- "[[G0165G]]"
+- "[[G3853]]"
+- "[[G3361]]"
+- "[[G5309]]"
+- "[[G3366]]"
+- "[[G1679]]"
+- "[[G1909]]"
+- "[[G4149]]"
+- "[[G0083]]"
+- "[[G0235]]"
+- "[[G2316]]"
+- "[[G2198]]"
+- "[[G3930]]"
+- "[[G3165]]"
+- "[[G3956]]"
+- "[[G4146]]"
+- "[[G1519]]"
+- "[[G0619]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **1 Timothy 6:17**<big><big>[[1Tim.6.17 A Charge to the Rich|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Charge them that are rich in this world, that they be not highminded, nor trust in uncertain riches, but in the living God, who giveth us richly all things to enjoy;
 <small><sub>**BSB:**</sub></small>
 Instruct those who are rich in the present age not to be conceited and not to put their hope in the uncertainty of wealth, but in God, who richly provides all things for us to enjoy.
-<small><sub>**Literal:**</sub></small>
-To the rich in the present age do instruct [them] not to be high-minded nor to have hope in of riches [the] uncertainty but on <the> God who is living who is providing us all things richly for enjoyment,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.16|<< 1 Timothy 6:16]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.18|1 Timothy 6:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τοῖς]]  [[G4145\|πλουσίοις]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3568\|νῦν]]  [[G0165G\|αἰῶνι]]  [[G3853\|παράγγελλε]]  [[G3361\|μὴ]]  [[G5309\|ὑψηλοφρονεῖν]]  [[G3366\|μηδὲ]]  [[G1679\|ἠλπικέναι]]  [[G1909\|ἐπὶ]]  [[G4149\|πλούτου]]  [[G0083\|ἀδηλότητι]]  [[G0235\|ἀλλ᾽]]  [[G1909\|ἐπὶ]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G3588\|τῷ]]  [[G2198\|ζῶντι]]  [[G3588\|τῷ]]  [[G3930\|παρέχοντι]]  [[G3165\|ἡμῖν]]  [[G3956\|πάντα]]  [[G4146\|πλουσίως]]  [[G1519\|εἰς]]  [[G0619\|ἀπόλαυσιν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FAITH|FAITH]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIDE|PRIDE]] • [[topic RICH, THE|RICH, THE]] • [[topic RICHES|RICHES]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.16|<< 1 Timothy 6:16]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.18|1 Timothy 6:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,57 @@
+---
+title: Proverbs 30:33
+type: Verse
+kjv: "Surely the churning of milk bringeth forth butter, and the wringing of the nose bringeth forth blood: so the forcing of wrath bringeth forth strife."
+bsb: "For as the churning of milk yields butter, and the twisting of the nose draws blood, so the stirring of anger brings forth strife.”"
+hebrew: "כִּ֤י מִ֪יץ חָלָ֡ב י֘וֹצִ֤יא חֶמְאָ֗ה וּֽמִיץ־ אַ֭ף י֣וֹצִיא דָ֑ם וּמִ֥יץ אַ֝פַּ֗יִם י֣וֹצִיא רִֽיב׃ פ"
+pericope: "[[Prov.30.1 The Words of Agur|The Words of Agur]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 30
+book/chapter: "[[Prov.30|Proverbs 30]]"
+chronological_order: 485
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic BUTTER|BUTTER]]"
+- "[[topic CHURNING|CHURNING]]"
+- "[[topic MILK|MILK]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H4330]]"
+- "[[H2461]]"
+- "[[H3318M]]"
+- "[[H2529A]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H0639H]]"
+- "[[H1818]]"
+- "[[H0639G]]"
+- "[[H7379]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Proverbs 30:33**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely the churning of milk bringeth forth butter, and the wringing of the nose bringeth forth blood: so the forcing of wrath bringeth forth strife.
 <small><sub>**BSB:**</sub></small>
 For as the churning of milk yields butter, and the twisting of the nose draws blood, so the stirring of anger brings forth strife.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H4330\|מִ֪יץ]] [[H2461\|חָלָ֡ב]] [[H3318M\|י֘וֹצִ֤יא]] [[H2529A\|חֶמְאָ֗ה]] [[H9002\|וּֽ]][[H4330\|מִיץ]][[H9014\|־]] [[H0639H\|אַ֭ף]] [[H3318M\|י֣וֹצִיא]] [[H1818\|דָ֑ם]] [[H9002\|וּ]][[H4330\|מִ֥יץ]] [[H0639G\|אַ֝פַּ֗יִם]] [[H3318M\|י֣וֹצִיא]] [[H7379\|רִֽיב]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic BUTTER|BUTTER]] • [[topic CHURNING|CHURNING]] • [[topic MILK|MILK]] • [[topic STRIFE|STRIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.32|<< Proverbs 30:32]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.1|Proverbs 31:1 >>]]</td></tr></table>
 
@@ -20,7 +69,7 @@ For as the churning of milk yields butter, and the twisting of the nose draws bl
 | and squeezing of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4330\|מִ֥יץ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Mitz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | anger\<s>  |**<big>&#8207;[[H0639G\|אַ֝פַּ֗יִם]]&#8207; </big>**| 'a.Pa.yim<small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it brings forth  |**<big>&#8207;[[H3318M\|י֣וֹצִיא]]&#8207; </big>**| Yo.tzi'<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| strife  |**<big>&#8207;[[H7379\|רִֽיב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Riv<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strife  |**<big>&#8207;[[H7379\|רִֽיב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Riv<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.32|<< Proverbs 30:32]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.1|Proverbs 31:1 >>]]</td></tr></table>
 
 

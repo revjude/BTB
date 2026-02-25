@@ -1,8 +1,77 @@
+---
+title: Exodus 19:18
+type: Verse
+kjv: "And mount Sinai was altogether on a smoke, because the LORD descended upon it in fire: and the smoke thereof ascended as the smoke of a furnace, and the whole mount quaked greatly."
+bsb: "Mount Sinai was completely enveloped in smoke, because the LORD had descended on it in fire. And the smoke rose like the smoke of a furnace, and the whole mountain quaked violently."
+hebrew: "וְהַ֤ר סִינַי֙ עָשַׁ֣ן כֻּלּ֔וֹ מִ֠פְּנֵי אֲשֶׁ֨ר יָרַ֥ד עָלָ֛יו יְהוָ֖ה בָּאֵ֑שׁ וַיַּ֤עַל עֲשָׁנוֹ֙ כְּעֶ֣שֶׁן הַכִּבְשָׁ֔ן וַיֶּחֱרַ֥ד כָּל־ הָהָ֖ר מְאֹֽד׃"
+pericope: "[[Exod.19.16 The LORD Visits Sinai|The LORD Visits Sinai]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 19
+book/chapter: "[[Exod.19|Exodus 19]]"
+chronological_order: 111
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic EARTHQUAKES|EARTHQUAKES]]"
+- "[[topic FIRE|FIRE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SINAI|SINAI]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9002]]"
+- "[[H2022G]]"
+- "[[H5514G]]"
+- "[[H6225]]"
+- "[[H3605]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H0834A]]"
+- "[[H3381]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H6227]]"
+- "[[H9004]]"
+- "[[H9009]]"
+- "[[H3536]]"
+- "[[H2729]]"
+- "[[H9014]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 19:18**<big><big>[[Exod.19.16 The LORD Visits Sinai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And mount Sinai was altogether on a smoke, because the LORD descended upon it in fire: and the smoke thereof ascended as the smoke of a furnace, and the whole mount quaked greatly.
 <small><sub>**BSB:**</sub></small>
 Mount Sinai was completely enveloped in smoke, because the LORD had descended on it in fire. And the smoke rose like the smoke of a furnace, and the whole mountain quaked violently.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2022G\|הַ֤ר]] [[H5514G\|סִינַי֙]] [[H6225\|עָשַׁ֣ן]] [[H3605\|כֻּלּ֔]][[H9023\|וֹ]] [[H9006\|מִ֠]][[H6440I\|פְּנֵי]] [[H0834A\|אֲשֶׁ֨ר]] [[H3381\|יָרַ֥ד]] [[H5921A\|עָלָ֛י]][[H9033\|ו]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בָּ]][[H0784\|אֵ֑שׁ]] [[H9001\|וַ]][[H5927G\|יַּ֤עַל]] [[H6227\|עֲשָׁנ]][[H9023\|וֹ֙]] [[H9004\|כְּ]][[H6227\|עֶ֣שֶׁן]] [[H9009\|הַ]][[H3536\|כִּבְשָׁ֔ן]] [[H9001\|וַ]][[H2729\|יֶּחֱרַ֥ד]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H2022G\|הָ֖ר]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTHQUAKES|EARTHQUAKES]] • [[topic FIRE|FIRE]] • [[topic GOD|GOD]] • [[topic LAW|LAW]] • [[topic MIRACLES|MIRACLES]] • [[topic REVERENCE|REVERENCE]] • [[topic SINAI|SINAI]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.19.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.19.17|<< Exodus 19:17]]</td><td align="center" style="border:none;">[[Exod.19|Exodus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.19.19|Exodus 19:19 >>]]</td></tr></table>
 

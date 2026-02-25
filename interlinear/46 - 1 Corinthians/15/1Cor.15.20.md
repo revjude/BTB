@@ -1,10 +1,55 @@
+---
+title: 1 Corinthians 15:20
+type: Verse
+kjv: "But now is Christ risen from the dead, and become the firstfruits of them that slept."
+bsb: "But Christ has indeed been raised from the dead, the firstfruits of those who have fallen asleep."
+greek: "Νυνὶ δὲ Χριστὸς ἐγήγερται ἐκ νεκρῶν, ἀπαρχὴ τῶν κεκοιμημένων ἐγένετο.¶"
+pericope: "[[1Cor.15.20 The Order of Resurrection|The Order of Resurrection]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 15
+book/chapter: "[[1Cor.15|1 Corinthians 15]]"
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BODY|BODY]]"
+- "[[topic FIRST FRUITS|FIRST FRUITS]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3570]]"
+- "[[G1161]]"
+- "[[G5547]]"
+- "[[G1453]]"
+- "[[G1537]]"
+- "[[G3498]]"
+- "[[G0536]]"
+- "[[G3588]]"
+- "[[G2837]]"
+- "[[G1096]]"
+texts:
+- NKO
+- K
+---
+
 **1 Corinthians 15:20**<big><big>[[1Cor.15.20 The Order of Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But now is Christ risen from the dead, [and] become the firstfruits of them that slept.
 <small><sub>**BSB:**</sub></small>
 But Christ has indeed been raised from the dead, the firstfruits of those who have fallen asleep.
-<small><sub>**Literal:**</sub></small>
-Now however Christ has been raised out from [the] dead, firstfruit of those having fallen asleep he became.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.19|<< 1 Corinthians 15:19]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.21|1 Corinthians 15:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3570\|Νυνὶ]]  [[G1161\|δὲ]]  [[G5547\|Χριστὸς]]  [[G1453\|ἐγήγερται]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν,]]  [[G0536\|ἀπαρχὴ]]  [[G3588\|τῶν]]  [[G2837\|κεκοιμημένων]]  [[G1096\|ἐγένετο.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BODY|BODY]] • [[topic FIRST FRUITS|FIRST FRUITS]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RESURRECTION|RESURRECTION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.19|<< 1 Corinthians 15:19]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.21|1 Corinthians 15:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

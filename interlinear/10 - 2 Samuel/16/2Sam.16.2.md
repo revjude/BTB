@@ -1,8 +1,71 @@
+---
+title: 2 Samuel 16:2
+type: Verse
+kjv: "And the king said unto Ziba, What meanest thou by these? And Ziba said, The asses be for the king’s household to ride on; and the bread and summer fruit for the young men to eat; and the wine, that such as be faint in the wilderness may drink."
+bsb: "“Why do you have these?” asked the king. Ziba replied, “The donkeys are for the king’s household to ride, the bread and summer fruit are for the young men to eat, and the wine is to refresh those who become exhausted in the wilderness.”"
+hebrew: "וַיֹּ֧אמֶר הַמֶּ֛לֶךְ אֶל־ צִיבָ֖א מָה־ אֵ֣לֶּה לָּ֑ךְ וַיֹּ֣אמֶר צִ֠יבָא הַחֲמוֹרִ֨ים לְבֵית־ הַמֶּ֜לֶךְ לִרְכֹּ֗ב וְהַלֶּ֤חֶם וְהַקַּ֙יִץ֙ לֶאֱכ֣וֹל הַנְּעָרִ֔ים וְהַיַּ֕יִן לִשְׁתּ֥וֹת הַיָּעֵ֖ף בַּמִּדְבָּֽר׃"
+pericope: "[[2Sam.16.1 David and Ziba|David and Ziba]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 16
+book/chapter: "[[2Sam.16|2 Samuel 16]]"
+chronological_order: 415
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic FOOD|FOOD]]"
+- "[[topic MEPHIBOSHETH|MEPHIBOSHETH]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SUMMER|SUMMER]]"
+- "[[topic ZIBA|ZIBA]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6717]]"
+- "[[H4100]]"
+- "[[H0428]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H2543]]"
+- "[[H1004M]]"
+- "[[H7392]]"
+- "[[H9002]]"
+- "[[H3899H]]"
+- "[[H7019]]"
+- "[[H0398]]"
+- "[[H5288]]"
+- "[[H3196]]"
+- "[[H8354]]"
+- "[[H3287]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Samuel 16:2**<big><big>[[2Sam.16.1 David and Ziba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king said unto Ziba, What meanest thou by these? And Ziba said, The asses [be] for the king’s household to ride on; and the bread and summer fruit for the young men to eat; and the wine, that such as be faint in the wilderness may drink.
 <small><sub>**BSB:**</sub></small>
 “Why do you have these?” asked the king. Ziba replied, “The donkeys are for the king’s household to ride, the bread and summer fruit are for the young men to eat, and the wine is to refresh those who become exhausted in the wilderness.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֧אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֛לֶךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H6717\|צִיבָ֖א]] [[H4100\|מָה]][[H9014\|־]] [[H0428\|אֵ֣לֶּה]] [[H9005\|לָּ֑]][[H9032\|ךְ]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H6717\|צִ֠יבָא]] [[H9009\|הַ]][[H2543\|חֲמוֹרִ֨ים]] [[H9005\|לְ]][[H1004M\|בֵית]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H9005\|לִ]][[H7392\|רְכֹּ֗ב]] [[H9002\|וְ]][[H9009\|הַ]][[H3899H\|לֶּ֤חֶם]] [[H9002\|וְ]][[H9009\|הַ]][[H7019\|קַּ֙יִץ֙]] [[H9005\|לֶ]][[H0398\|אֱכ֣וֹל]] [[H9009\|הַ]][[H5288\|נְּעָרִ֔ים]] [[H9002\|וְ]][[H9009\|הַ]][[H3196\|יַּ֕יִן]] [[H9005\|לִ]][[H8354\|שְׁתּ֥וֹת]] [[H9009\|הַ]][[H3287\|יָּעֵ֖ף]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FOOD|FOOD]] • [[topic MEPHIBOSHETH|MEPHIBOSHETH]] • [[topic SERVANT|SERVANT]] • [[topic SUMMER|SUMMER]] • [[topic ZIBA|ZIBA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.16.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.1|<< 2 Samuel 16:1]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.3|2 Samuel 16:3 >>]]</td></tr></table>
 
@@ -31,8 +94,8 @@ And the king said unto Ziba, What meanest thou by these? And Ziba said, The asse
 | in the wilderness  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4057B\|מִּדְבָּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> mid.Bar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.1|<< 2 Samuel 16:1]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.3|2 Samuel 16:3 >>]]</td></tr></table>
 
-[^1]: and to the bread  | **<big>[[H3899H|לֶּחֶם]]</big><big>[[H9009|הַ]]</big><big>[[H9005|לְ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> le.chem<small><sup>[[HNcmsa]]</sup></small> | K
-[^2]: and to the bread  | **<big>[[H3899H|לֶּחֶם]]</big><big>[[H9009|הַ]]</big><big>[[H9005|לְ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> le.chem<small><sup>[[HNcmsa]]</sup></small> | K
-[^3]: and to the bread  | **<big>[[H3899H|לֶּחֶם]]</big><big>[[H9009|הַ]]</big><big>[[H9005|לְ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> le.chem<small><sup>[[HNcmsa]]</sup></small> | K
+[^1]: and to the bread  | **<big>[[H9002|וּ]]</big><big>[[H9005|לְ]]</big><big>[[H9009|הַ]]</big><big>[[H3899H|לֶּחֶם]]</big> ** | u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> le.chem<small><sup>[[HNcmsa]]</sup></small> | K
+[^2]: and to the bread  | **<big>[[H9002|וּ]]</big><big>[[H9005|לְ]]</big><big>[[H9009|הַ]]</big><big>[[H3899H|לֶּחֶם]]</big> ** | u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> le.chem<small><sup>[[HNcmsa]]</sup></small> | K
+[^3]: and to the bread  | **<big>[[H9002|וּ]]</big><big>[[H9005|לְ]]</big><big>[[H9009|הַ]]</big><big>[[H3899H|לֶּחֶם]]</big> ** | u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> le.chem<small><sup>[[HNcmsa]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>וְל/הַ/לֶּ֤חֶם</big></span>**
 

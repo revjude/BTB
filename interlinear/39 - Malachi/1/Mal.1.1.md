@@ -1,8 +1,51 @@
+---
+title: Malachi 1:1
+type: Verse
+kjv: "The burden of the word of the LORD to Israel by Malachi."
+bsb: "This is the burden of the word of the LORD to Israel through Malachi:"
+hebrew: "מַשָּׂ֥א דְבַר־ יְהוָ֖ה אֶל־ יִשְׂרָאֵ֑ל בְּיַ֖ד מַלְאָכִֽי׃"
+pericope: "[[Mal.1.1 The LORD’s Love for Israel|The LORD’s Love for Israel]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 1
+book/chapter: "[[Mal.1|Malachi 1]]"
+chronological_order: 926
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic MALACHI|MALACHI]]"
+strongs:
+- "[[H4853B]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H3027J]]"
+- "[[H4401]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 1:1**<big><big>[[Mal.1.1 The LORD’s Love for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The burden of the word of the LORD to Israel by Malachi.
 <small><sub>**BSB:**</sub></small>
 This is the burden of the word of the LORD to Israel through Malachi:
+<small><sub>**Hebrew:**</sub></small>
+[[H4853B\|מַשָּׂ֥א]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9003\|בְּ]][[H3027J\|יַ֖ד]] [[H4401\|מַלְאָכִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MALACHI|MALACHI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.14.21|<< Zechariah 14:21]]</td><td align="center" style="border:none;">[[Mal.1|Malachi 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.1.2|Malachi 1:2 >>]]</td></tr></table>
 

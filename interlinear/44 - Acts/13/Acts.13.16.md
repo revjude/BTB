@@ -1,10 +1,60 @@
+---
+title: Acts 13:16
+type: Verse
+kjv: "Then Paul stood up, and beckoning with his hand said, Men of Israel, and ye that fear God, give audience."
+bsb: "Paul stood up, motioned with his hand, and began to speak: “Men of Israel and you Gentiles who fear God, listen to me!"
+greek: "Ἀναστὰς δὲ Παῦλος καὶ κατασείσας τῇ χειρὶ εἶπεν· ἄνδρες Ἰσραηλῖται καὶ οἱ φοβούμενοι τὸν θεόν, ἀκούσατε."
+pericope: "[[Acts.13.13 In Pisidian Antioch|In Pisidian Antioch]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0450]]"
+- "[[G1161]]"
+- "[[G3972G]]"
+- "[[G2532]]"
+- "[[G2678]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G2036]]"
+- "[[G0435G]]"
+- "[[G2475]]"
+- "[[G5399]]"
+- "[[G2316]]"
+- "[[G0191]]"
+texts:
+- NKO
+---
+
 **Acts 13:16**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Paul stood up, and beckoning with [his] hand said, Men of Israel, and ye that fear God, give audience.
 <small><sub>**BSB:**</sub></small>
 Paul stood up, motioned with his hand, and began to speak: “Men of Israel and you Gentiles who fear God, listen to me!
-<small><sub>**Literal:**</sub></small>
-Having risen up then Paul and having made a sign with the hand he said; Men Israelites and you who [are] fearing <the> God, do listen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.15|<< Acts 13:15]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.17|Acts 13:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0450\|Ἀναστὰς]]  [[G1161\|δὲ]]  [[G3972G\|Παῦλος]]  [[G2532\|καὶ]]  [[G2678\|κατασείσας]]  [[G3588\|τῇ]]  [[G5495\|χειρὶ]]  [[G2036\|εἶπεν·]]  [[G0435G\|ἄνδρες]]  [[G2475\|Ἰσραηλῖται]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G5399\|φοβούμενοι]]  [[G3588\|τὸν]]  [[G2316\|θεόν,]]  [[G0191\|ἀκούσατε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic LAW|LAW]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PREACHING|PREACHING]] • [[topic REVERENCE|REVERENCE]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.15|<< Acts 13:15]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.17|Acts 13:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

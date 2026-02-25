@@ -1,10 +1,57 @@
+---
+title: John 2:3
+type: Verse
+kjv: "And when they wanted wine, the mother of Jesus saith unto him, They have no wine."
+bsb: "When the wine ran out, Jesus’ mother said to Him, “They have no more wine.”"
+greek: "καὶ ὑστερήσαντος οἴνου λέγει ἡ μήτηρ τοῦ Ἰησοῦ πρὸς αὐτόν· οἶνον οὐκ ἔχουσιν."
+pericope: "[[John.2.1 The Wedding at Cana|The Wedding at Cana]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 2
+book/chapter: "[[John.2|John 2]]"
+chronological_order: 940
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CANA|CANA]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic MARY|MARY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[G2532]]"
+- "[[G5302]]"
+- "[[G3631]]"
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G3384]]"
+- "[[G2424G]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G2192]]"
+texts:
+- NKO
+---
+
 **John 2:3**<big><big>[[John.2.1 The Wedding at Cana|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they wanted wine, the mother of Jesus saith unto him, They have no wine.
 <small><sub>**BSB:**</sub></small>
 When the wine ran out, Jesus’ mother said to Him, “They have no more wine.”
-<small><sub>**Literal:**</sub></small>
-And when was running out [the] wine says the mother <the> of Jesus to Him; Wine not they have.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.2|<< John 2:2]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.4|John 2:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5302\|ὑστερήσαντος]]  [[G3631\|οἴνου]]  [[G3004G\|λέγει]]  [[G3588\|ἡ]]  [[G3384\|μήτηρ]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν·]]  [[G3631\|οἶνον]]  [[G3756\|οὐκ]]  [[G2192\|ἔχουσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANA|CANA]] • [[topic FOOD|FOOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARRIAGE|MARRIAGE]] • [[topic MARY|MARY]] • [[topic MIRACLES|MIRACLES]] • [[topic WATER|WATER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.2|<< John 2:2]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.4|John 2:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

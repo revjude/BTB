@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God Remembers Those Who Repent
+type: Pericope
 pericope: "[[Lev.26.40 God Remembers Those Who Repent|God Remembers Those Who Repent]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 26
 book/chapter: "[[Lev.26|Leviticus 26]]"
-genre:
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 7
 verses:
 - "[[Lev.26.40]]"
 - "[[Lev.26.41]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Lev.26.46]]"
 ---
 
-[[Lev.26|Leviticus 26:40 - Leviticus 26:46]]
+<small>[[Lev.26|Leviticus 26:40-46]]</small>
 *God Remembers Those Who Repent*
 
 [[Lev.26.40|40]] If they shall confess their iniquity, and the iniquity of their fathers, with their trespass which they trespassed against me, and that also they have walked contrary unto me;

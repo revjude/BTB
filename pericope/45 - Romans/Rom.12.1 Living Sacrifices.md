@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Living Sacrifices
+type: Pericope
 pericope: "[[Rom.12.1 Living Sacrifices|Living Sacrifices]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Romans
 chapter: 12
 book/chapter: "[[Rom.12|Romans 12]]"
-genre:
+chronological_order: 1098
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 8
 verses:
 - "[[Rom.12.1]]"
 - "[[Rom.12.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Rom.12.8]]"
 ---
 
-[[Rom.12|Romans 12:1 - Romans 12:8]]
+<small>[[Rom.12|Romans 12:1-8]]</small>
 *Living Sacrifices*
 
 [[Rom.12.1|1]] I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, \[which is\] your reasonable service.

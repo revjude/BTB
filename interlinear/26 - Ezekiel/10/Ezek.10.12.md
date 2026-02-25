@@ -1,8 +1,59 @@
+---
+title: Ezekiel 10:12
+type: Verse
+kjv: "And their whole body, and their backs, and their hands, and their wings, and the wheels, were full of eyes round about, even the wheels that they four had."
+bsb: "Their entire bodies, including their backs, hands, and wings, were full of eyes all around, as were their four wheels."
+hebrew: "וְכָל־ בְּשָׂרָם֙ וְגַבֵּהֶ֔ם וִֽידֵיהֶ֖ם וְכַנְפֵיהֶ֑ם וְהָאֽוֹפַנִּ֗ים מְלֵאִ֤ים עֵינַ֙יִם֙ סָבִ֔יב לְאַרְבַּעְתָּ֖ם אוֹפַנֵּיהֶֽם׃"
+pericope: "[[Ezek.10.1 God’s Glory Exits the Temple|God’s Glory Exits the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 10
+book/chapter: "[[Ezek.10|Ezekiel 10]]"
+chronological_order: 801
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic WHEEL|WHEEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1320]]"
+- "[[H9028]]"
+- "[[H1354]]"
+- "[[H3027H]]"
+- "[[H3671]]"
+- "[[H9009]]"
+- "[[H0212]]"
+- "[[H4392]]"
+- "[[H5869A]]"
+- "[[H5439G]]"
+- "[[H9005]]"
+- "[[H0702]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 10:12**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their whole body, and their backs, and their hands, and their wings, and the wheels, [were] full of eyes round about, [even] the wheels that they four had.
 <small><sub>**BSB:**</sub></small>
 Their entire bodies, including their backs, hands, and wings, were full of eyes all around, as were their four wheels.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1320\|בְּשָׂרָ]][[H9028\|ם֙]] [[H9002\|וְ]][[H1354\|גַבֵּ]][[H9028\|הֶ֔ם]] [[H9002\|וִֽ]][[H3027H\|ידֵי]][[H9028\|הֶ֖ם]] [[H9002\|וְ]][[H3671\|כַנְפֵי]][[H9028\|הֶ֑ם]] [[H9002\|וְ]][[H9009\|הָ]][[H0212\|אֽוֹפַנִּ֗ים]] [[H4392\|מְלֵאִ֤ים]] [[H5869A\|עֵינַ֙יִם֙]] [[H5439G\|סָבִ֔יב]] [[H9005\|לְ]][[H0702\|אַרְבַּעְתָּ֖]][[H9028\|ם]] [[H0212\|אוֹפַנֵּי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WHEEL|WHEEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.11|<< Ezekiel 10:11]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.13|Ezekiel 10:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

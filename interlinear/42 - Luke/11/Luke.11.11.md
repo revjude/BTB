@@ -1,10 +1,67 @@
+---
+title: Luke 11:11
+type: Verse
+kjv: "If a son shall ask bread of any of you that is a father, will he give him a stone? or if he ask a fish, will he for a fish give him a serpent?"
+bsb: "What father among you, if his son asks for a fish, will give him a snake instead?"
+jesus_said: "If a son shall ask bread of any of you that is a father, will he give him a stone? or if he ask a fish, will he for a fish give him a serpent?"
+greek: "Τίνα δὲ ἐξ ὑμῶν τὸν πατέρα αἰτήσει ὁ υἱὸς ἄρτον μὴ λίθον ἐπιδώσει αὐτῷ εἰ ἰχθύν, καὶ μὴ ἀντὶ ἰχθύος ὄφιν αὐτῷ ἐπιδώσει;"
+pericope: "[[Luke.11.5 Ask, Seek, Knock|Ask, Seek, Knock]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[G5101]]"
+- "[[G1161]]"
+- "[[G1537]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G0154]]"
+- "[[G5207]]"
+- "[[G0740]]"
+- "[[G3361]]"
+- "[[G3037]]"
+- "[[G1929]]"
+- "[[G0846]]"
+- "[[G1487G]]"
+- "[[G2486]]"
+- "[[G2532]]"
+- "[[G0473]]"
+- "[[G3789]]"
+texts:
+- NKO
+- no
+- KO
+- K(o)
+---
+
 **Luke 11:11**<big><big>[[Luke.11.5 Ask, Seek, Knock|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If a son shall ask bread of any of you that is a father, will he give him a stone? or if [he ask] a fish, will he for a fish give him a serpent?
 <small><sub>**BSB:**</sub></small>
 What father among you, if his son asks for a fish, will give him a snake instead?
-<small><sub>**Literal:**</sub></small>
-Which now of you who [is] a father will ask for the son bread surely not  stone will he give to him if a fish, and surely not instead of a fish a serpent to him will he give<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.10|<< Luke 11:10]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.12|Luke 11:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|Τίνα]]  [[G1161\|δὲ]]  [[G1537\|ἐξ]]  [[G4771\|ὑμῶν]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G0154\|αἰτήσει]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G0740\|ἄρτον]]  [[G3361\|μὴ]]  [[G3037\|λίθον]]  [[G1929\|ἐπιδώσει]]  [[G0846\|αὐτῷ]]  [[G1487G\|εἰ]]  [[G2486\|ἰχθύν,]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G0473\|ἀντὶ]]  [[G2486\|ἰχθύος]]  [[G3789\|ὄφιν]]  [[G0846\|αὐτῷ]]  [[G1929\|ἐπιδώσει;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PARENTS|PARENTS]] • [[topic PENITENT|PENITENT]] • [[topic PRAYER|PRAYER]] • [[topic SEEKERS|SEEKERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.10|<< Luke 11:10]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.12|Luke 11:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

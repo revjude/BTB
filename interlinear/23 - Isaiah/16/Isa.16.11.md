@@ -1,8 +1,55 @@
+---
+title: Isaiah 16:11
+type: Verse
+kjv: "Wherefore my bowels shall sound like an harp for Moab, and mine inward parts for Kirharesh."
+bsb: "Therefore my heart laments for Moab like a harp, my inmost being for Kir-heres."
+hebrew: "עַל־ כֵּן֙ מֵעַ֣י לְמוֹאָ֔ב כַּכִּנּ֖וֹר יֶֽהֱמ֑וּ וְקִרְבִּ֖י לְקִ֥יר חָֽרֶשׂ׃"
+pericope: "[[Isa.16.1 Moab’s Destruction|Moab’s Destruction]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 16
+book/chapter: "[[Isa.16|Isaiah 16]]"
+chronological_order: 633
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic KIR-HARASETH|KIR-HARASETH]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H4578]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H4124G]]"
+- "[[H9004]]"
+- "[[H3658]]"
+- "[[H1993]]"
+- "[[H9002]]"
+- "[[H7130H]]"
+- "[[H7025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 16:11**<big><big>[[Isa.16.1 Moab’s Destruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore my bowels shall sound like an harp for Moab, and mine inward parts for Kirharesh.
 <small><sub>**BSB:**</sub></small>
 Therefore my heart laments for Moab like a harp, my inmost being for Kir-heres.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּן֙]] [[H4578\|מֵעַ֣]][[H9020\|י]] [[H9005\|לְ]][[H4124G\|מוֹאָ֔ב]] [[H9004\|כַּ]][[H3658\|כִּנּ֖וֹר]] [[H1993\|יֶֽהֱמ֑וּ]] [[H9002\|וְ]][[H7130H\|קִרְבִּ֖]][[H9020\|י]] [[H9005\|לְ]][[H7025\|קִ֥יר]] [[H7025\|חָֽרֶשׂ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KIR-HARASETH|KIR-HARASETH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.16.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.10|<< Isaiah 16:10]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.12|Isaiah 16:12 >>]]</td></tr></table>
 

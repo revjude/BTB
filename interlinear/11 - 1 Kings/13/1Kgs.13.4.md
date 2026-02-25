@@ -1,8 +1,88 @@
+---
+title: 1 Kings 13:4
+type: Verse
+kjv: "And it came to pass, when king Jeroboam heard the saying of the man of God, which had cried against the altar in Bethel, that he put forth his hand from the altar, saying, Lay hold on him. And his hand, which he put forth against him, dried up, so that he could not pull it in again to him."
+bsb: "Now when King Jeroboam, who was at the altar in Bethel, heard the word that the man of God had cried out against it, he stretched out his hand and said, “Seize him!” But the hand he stretched out toward him withered, so that he could not pull it back."
+hebrew: "וַיְהִי֩ כִשְׁמֹ֨עַ הַמֶּ֜לֶךְ אֶת־ דְּבַ֣ר אִישׁ־ הָאֱלֹהִ֗ים אֲשֶׁ֨ר קָרָ֤א עַל־ הַמִּזְבֵּ֙חַ֙ בְּבֵֽית־ אֵ֔ל וַיִּשְׁלַ֨ח יָרָבְעָ֧ם אֶת־ יָד֛וֹ מֵעַ֥ל הַמִּזְבֵּ֖חַ לֵאמֹ֣ר׀ תִּפְשֻׂ֑הוּ וַתִּיבַ֤שׁ יָדוֹ֙ אֲשֶׁ֣ר שָׁלַ֣ח עָלָ֔יו וְלֹ֥א יָכֹ֖ל לַהֲשִׁיבָ֥הּ אֵלָֽיו׃"
+pericope: "[[1Kgs.13.1 Jeroboam’s Hand Withers|Jeroboam’s Hand Withers]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 13
+book/chapter: "[[1Kgs.13|1 Kings 13]]"
+chronological_order: 552
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic CALF|CALF]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SIGN|SIGN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H0376G]]"
+- "[[H0430G]]"
+- "[[H0834A]]"
+- "[[H7121I]]"
+- "[[H5921A]]"
+- "[[H4196]]"
+- "[[H9003]]"
+- "[[H1008G]]"
+- "[[H7971K]]"
+- "[[H3379G]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9015]]"
+- "[[H8610]]"
+- "[[H9033]]"
+- "[[H3001]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H7725G]]"
+- "[[H9034]]"
+- "[[H0413]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 13:4**<big><big>[[1Kgs.13.1 Jeroboam’s Hand Withers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when king Jeroboam heard the saying of the man of God, which had cried against the altar in Bethel, that he put forth his hand from the altar, saying, Lay hold on him. And his hand, which he put forth against him, dried up, so that he could not pull it in again to him.
 <small><sub>**BSB:**</sub></small>
 Now when King Jeroboam, who was at the altar in Bethel, heard the word that the man of God had cried out against it, he stretched out his hand and said, “Seize him!” But the hand he stretched out toward him withered, so that he could not pull it back.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֩]] [[H9004\|כִ]][[H8085G\|שְׁמֹ֨עַ]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דְּבַ֣ר]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֗ים]] [[H0834A\|אֲשֶׁ֨ר]] [[H7121I\|קָרָ֤א]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֙חַ֙]] [[H9003\|בְּ]][[H1008G\|בֵֽית]][[H9014\|־]] [[H1008G\|אֵ֔ל]] [[H9001\|וַ]][[H7971K\|יִּשְׁלַ֨ח]] [[H3379G\|יָרָבְעָ֧ם]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יָד֛]][[H9023\|וֹ]] [[H9006\|מֵ]][[H5921A\|עַ֥ל]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֖חַ]] [[H9005\|לֵ]][[H0559\|אמֹ֣ר]][[H9015\|׀]] [[H8610\|תִּפְשֻׂ֑]][[H9033\|הוּ]] [[H9001\|וַ]][[H3001\|תִּיבַ֤שׁ]] [[H3027G\|יָד]][[H9023\|וֹ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H7971K\|שָׁלַ֣ח]] [[H5921A\|עָלָ֔י]][[H9033\|ו]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3201\|יָכֹ֖ל]] [[H9005\|לַ]][[H7725G\|הֲשִׁיבָ֥]][[H9034\|הּ]] [[H0413\|אֵלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BETH-EL|BETH-EL]] • [[topic CALF|CALF]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JEROBOAM|JEROBOAM]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MIRACLES|MIRACLES]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic REPROOF|REPROOF]] • [[topic RULERS|RULERS]] • [[topic SIGN|SIGN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.13.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.13.3|<< 1 Kings 13:3]]</td><td align="center" style="border:none;">[[1Kgs.13|1 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.13.5|1 Kings 13:5 >>]]</td></tr></table>
 

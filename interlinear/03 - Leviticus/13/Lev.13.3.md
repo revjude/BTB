@@ -1,8 +1,70 @@
+---
+title: Leviticus 13:3
+type: Verse
+kjv: "And the priest shall look on the plague in the skin of the flesh: and when the hair in the plague is turned white, and the plague in sight be deeper than the skin of his flesh, it is a plague of leprosy: and the priest shall look on him, and pronounce him unclean."
+bsb: "The priest is to examine the infection on his skin, and if the hair in the infection has turned white and the sore appears to be deeper than the skin, it is a skin disease. After the priest examines him, he must pronounce him unclean."
+hebrew: "וְרָאָ֣ה הַכֹּהֵ֣ן אֶת־ הַנֶּ֣גַע בְּעֽוֹר־ הַ֠בָּשָׂר וְשֵׂעָ֨ר בַּנֶּ֜גַע הָפַ֣ךְ׀ לָבָ֗ן וּמַרְאֵ֤ה הַנֶּ֙גַע֙ עָמֹק֙ מֵע֣וֹר בְּשָׂר֔וֹ נֶ֥גַע צָרַ֖עַת ה֑וּא וְרָאָ֥הוּ הַכֹּהֵ֖ן וְטִמֵּ֥א אֹתֽוֹ׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5061]]"
+- "[[H9003]]"
+- "[[H5785]]"
+- "[[H1320]]"
+- "[[H9002]]"
+- "[[H8181]]"
+- "[[H2015]]"
+- "[[H9015]]"
+- "[[H3836]]"
+- "[[H4758]]"
+- "[[H6013]]"
+- "[[H9006]]"
+- "[[H9023]]"
+- "[[H6883]]"
+- "[[H1931]]"
+- "[[H9033]]"
+- "[[H2930A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:3**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall look on the plague in the skin of the flesh: and [when] the hair in the plague is turned white, and the plague in sight [be] deeper than the skin of his flesh, it [is] a plague of leprosy: and the priest shall look on him, and pronounce him unclean.
 <small><sub>**BSB:**</sub></small>
 The priest is to examine the infection on his skin, and if the hair in the infection has turned white and the sore appears to be deeper than the skin, it is a skin disease. After the priest examines him, he must pronounce him unclean.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7200G\|רָאָ֣ה]] [[H9009\|הַ]][[H3548\|כֹּהֵ֣ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5061\|נֶּ֣גַע]] [[H9003\|בְּ]][[H5785\|עֽוֹר]][[H9014\|־]] [[H9009\|הַ֠]][[H1320\|בָּשָׂר]] [[H9002\|וְ]][[H8181\|שֵׂעָ֨ר]] [[H9003\|בַּ]][[H5061\|נֶּ֜גַע]] [[H2015\|הָפַ֣ךְ]][[H9015\|׀]] [[H3836\|לָבָ֗ן]] [[H9002\|וּ]][[H4758\|מַרְאֵ֤ה]] [[H9009\|הַ]][[H5061\|נֶּ֙גַע֙]] [[H6013\|עָמֹק֙]] [[H9006\|מֵ]][[H5785\|ע֣וֹר]] [[H1320\|בְּשָׂר֔]][[H9023\|וֹ]] [[H5061\|נֶ֥גַע]] [[H6883\|צָרַ֖עַת]] [[H1931\|ה֑וּא]] [[H9001\|וְ]][[H7200G\|רָאָ֥]][[H9033\|הוּ]] [[H9009\|הַ]][[H3548\|כֹּהֵ֖ן]] [[H9001\|וְ]][[H2930A\|טִמֵּ֥א]] [[H0853\|אֹתֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.2|<< Leviticus 13:2]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.4|Leviticus 13:4 >>]]</td></tr></table>
 

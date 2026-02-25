@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Overcoming the World
+type: Pericope
 pericope: "[[1John.5.1 Overcoming the World|Overcoming the World]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: 1 John
 chapter: 5
 book/chapter: "[[1John.5|1 John 5]]"
-genre:
+chronological_order: 1165
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
 - epistle
 - general epistle
 - johannine epistle
 - theological treatise
 - polemical
+verse_count: 8
 verses:
 - "[[1John.5.1]]"
 - "[[1John.5.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[1John.5.8]]"
 ---
 
-[[1John.5|1 John 5:1 - 1 John 5:8]]
+<small>[[1John.5|1 John 5:1-8]]</small>
 *Overcoming the World*
 
 [[1John.5.1|1]] Whosoever believeth that Jesus is the Christ is born of God: and every one that loveth him that begat loveth him also that is begotten of him.

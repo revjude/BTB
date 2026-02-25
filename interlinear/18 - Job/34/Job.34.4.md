@@ -1,8 +1,51 @@
+---
+title: Job 34:4
+type: Verse
+kjv: "Let us choose to us judgment: let us know among ourselves what is good."
+bsb: "Let us choose for ourselves what is right; let us learn together what is good."
+hebrew: "מִשְׁפָּ֥ט נִבְחֲרָה־ לָּ֑נוּ נֵדְעָ֖ה בֵינֵ֣ינוּ מַה־ טּֽוֹב׃"
+pericope: "[[Job.34.1 Elihu Confirms God’s Justice|Elihu Confirms God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 34
+book/chapter: "[[Job.34|Job 34]]"
+chronological_order: 45
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H4941H]]"
+- "[[H0977]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H3045]]"
+- "[[H0996H]]"
+- "[[H4100]]"
+- "[[H2896A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 34:4**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let us choose to us judgment: let us know among ourselves what [is] good.
 <small><sub>**BSB:**</sub></small>
 Let us choose for ourselves what is right; let us learn together what is good.
+<small><sub>**Hebrew:**</sub></small>
+[[H4941H\|מִשְׁפָּ֥ט]] [[H0977\|נִבְחֲרָה]][[H9014\|־]] [[H9005\|לָּ֑]][[H9035\|נוּ]] [[H3045\|נֵדְעָ֖ה]] [[H0996H\|בֵינֵ֣י]][[H9035\|נוּ]] [[H4100\|מַה]][[H9014\|־]] [[H2896A\|טּֽוֹב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.3|<< Job 34:3]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.5|Job 34:5 >>]]</td></tr></table>
 

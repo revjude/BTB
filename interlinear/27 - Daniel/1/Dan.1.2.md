@@ -1,8 +1,69 @@
+---
+title: Daniel 1:2
+type: Verse
+kjv: "And the Lord gave Jehoiakim king of Judah into his hand, with part of the vessels of the house of God: which he carried into the land of Shinar to the house of his god; and he brought the vessels into the treasure house of his god."
+bsb: "And the Lord delivered into his hand Jehoiakim king of Judah, along with some of the articles from the house of God. He carried these off to the land of Shinar, to the house of his god, where he put them in the treasury of his god."
+hebrew: "וַיִּתֵּן֩ אֲדֹנָ֨י בְּיָד֜וֹ אֶת־ יְהוֹיָקִ֣ים מֶֽלֶךְ־ יְהוּדָ֗ה וּמִקְצָת֙ כְּלֵ֣י בֵית־ הָֽאֱלֹהִ֔ים וַיְבִיאֵ֥ם אֶֽרֶץ־ שִׁנְעָ֖ר בֵּ֣ית אֱלֹהָ֑יו וְאֶת־ הַכֵּלִ֣ים הֵבִ֔יא בֵּ֖ית אוֹצַ֥ר אֱלֹהָֽיו׃"
+pericope: "[[Dan.1.1 Daniel Removed to Babylon|Daniel Removed to Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 1
+book/chapter: "[[Dan.1|Daniel 1]]"
+chronological_order: 786
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic JEHOIAKIM|JEHOIAKIM]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H0136]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9023]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3079]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H7117]]"
+- "[[H3627]]"
+- "[[H1004Q]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H0935P]]"
+- "[[H9038]]"
+- "[[H0776G]]"
+- "[[H8152]]"
+- "[[H1004B]]"
+- "[[H0214]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 1:2**<big><big>[[Dan.1.1 Daniel Removed to Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Lord gave Jehoiakim king of Judah into his hand, with part of the vessels of the house of God: which he carried into the land of Shinar to the house of his god; and he brought the vessels into the treasure house of his god.
 <small><sub>**BSB:**</sub></small>
 And the Lord delivered into his hand Jehoiakim king of Judah, along with some of the articles from the house of God. He carried these off to the land of Shinar, to the house of his god, where he put them in the treasury of his god.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|יִּתֵּן֩]] [[H0136\|אֲדֹנָ֨י]] [[H9003\|בְּ]][[H3027H\|יָד֜]][[H9023\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H3079\|יְהוֹיָקִ֣ים]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָ֗ה]] [[H9002\|וּ]][[H9006\|מִ]][[H7117\|קְצָת֙]] [[H3627\|כְּלֵ֣י]] [[H1004Q\|בֵית]][[H9014\|־]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֔ים]] [[H9001\|וַ]][[H0935P\|יְבִיאֵ֥]][[H9038\|ם]] [[H0776G\|אֶֽרֶץ]][[H9014\|־]] [[H8152\|שִׁנְעָ֖ר]] [[H1004Q\|בֵּ֣ית]] [[H0430G\|אֱלֹהָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3627\|כֵּלִ֣ים]] [[H0935P\|הֵבִ֔יא]] [[H1004B\|בֵּ֖ית]] [[H0214\|אוֹצַ֥ר]] [[H0430G\|אֱלֹהָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic JEHOIAKIM|JEHOIAKIM]] • [[topic TEMPLE|TEMPLE]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.1.1|<< Daniel 1:1]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.3|Daniel 1:3 >>]]</td></tr></table>
 

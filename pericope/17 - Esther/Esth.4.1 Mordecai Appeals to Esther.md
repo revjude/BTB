@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Mordecai Appeals to Esther
+type: Pericope
 pericope: "[[Esth.4.1 Mordecai Appeals to Esther|Mordecai Appeals to Esther]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Esther
 chapter: 4
 book/chapter: "[[Esth.4|Esther 4]]"
-genre:
+chronological_order: 902
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
 - narrative
 - court tale
 - diaspora narrative
 - megillot
+verse_count: 17
 verses:
 - "[[Esth.4.1]]"
 - "[[Esth.4.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Esth.4.17]]"
 ---
 
-[[Esth.4|Esther 4:1 - Esther 4:17]]
+<small>[[Esth.4|Esther 4:1-17]]</small>
 *Mordecai Appeals to Esther*
 
 [[Esth.4.1|1]] When Mordecai perceived all that was done, Mordecai rent his clothes, and put on sackcloth with ashes, and went out into the midst of the city, and cried with a loud and a bitter cry;

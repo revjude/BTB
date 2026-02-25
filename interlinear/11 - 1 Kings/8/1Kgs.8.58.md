@@ -1,8 +1,65 @@
+---
+title: 1 Kings 8:58
+type: Verse
+kjv: "That he may incline our hearts unto him, to walk in all his ways, and to keep his commandments, and his statutes, and his judgments, which he commanded our fathers."
+bsb: "May He incline our hearts to Himself, to walk in all His ways and to keep the commandments and statutes and ordinances He commanded our fathers."
+hebrew: "לְהַטּ֥וֹת לְבָבֵ֖נוּ אֵלָ֑יו לָלֶ֣כֶת בְּכָל־ דְּרָכָ֗יו וְלִשְׁמֹ֨ר מִצְוֹתָ֤יו וְחֻקָּיו֙ וּמִשְׁפָּטָ֔יו אֲשֶׁ֥ר צִוָּ֖ה אֶת־ אֲבֹתֵֽינוּ׃"
+pericope: "[[1Kgs.8.54 Solomon’s Benediction|Solomon’s Benediction]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic REGENERATION|REGENERATION]]"
+strongs:
+- "[[H9005]]"
+- "[[H5186]]"
+- "[[H3824]]"
+- "[[H9025]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H8104G]]"
+- "[[H4687]]"
+- "[[H2706G]]"
+- "[[H4941G]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:58**<big><big>[[1Kgs.8.54 Solomon’s Benediction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That he may incline our hearts unto him, to walk in all his ways, and to keep his commandments, and his statutes, and his judgments, which he commanded our fathers.
 <small><sub>**BSB:**</sub></small>
 May He incline our hearts to Himself, to walk in all His ways and to keep the commandments and statutes and ordinances He commanded our fathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H5186\|הַטּ֥וֹת]] [[H3824\|לְבָבֵ֖]][[H9025\|נוּ]] [[H0413\|אֵלָ֑י]][[H9033\|ו]] [[H9005\|לָ]][[H1980I\|לֶ֣כֶת]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H1870G\|דְּרָכָ֗י]][[H9023\|ו]] [[H9002\|וְ]][[H9005\|לִ]][[H8104G\|שְׁמֹ֨ר]] [[H4687\|מִצְוֹתָ֤י]][[H9023\|ו]] [[H9002\|וְ]][[H2706G\|חֻקָּי]][[H9023\|ו֙]] [[H9002\|וּ]][[H4941G\|מִשְׁפָּטָ֔י]][[H9023\|ו]] [[H0834A\|אֲשֶׁ֥ר]] [[H6680\|צִוָּ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אֲבֹתֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic REGENERATION|REGENERATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.58|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.57|<< 1 Kings 8:57]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.59|1 Kings 8:59 >>]]</td></tr></table>
 

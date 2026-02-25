@@ -1,8 +1,77 @@
+---
+title: Exodus 3:7
+type: Verse
+kjv: "And the LORD said, I have surely seen the affliction of my people which are in Egypt, and have heard their cry by reason of their taskmasters; for I know their sorrows;"
+bsb: "The LORD said, “I have indeed seen the affliction of My people in Egypt. I have heard them crying out because of their oppressors, and I am aware of their sufferings."
+hebrew: "וַיֹּ֣אמֶר יְהוָ֔ה רָאֹ֥ה רָאִ֛יתִי אֶת־ עֳנִ֥י עַמִּ֖י אֲשֶׁ֣ר בְּמִצְרָ֑יִם וְאֶת־ צַעֲקָתָ֤ם שָׁמַ֙עְתִּי֙ מִפְּנֵ֣י נֹֽגְשָׂ֔יו כִּ֥י יָדַ֖עְתִּי אֶת־ מַכְאֹבָֽיו׃"
+pericope: "[[Exod.3.1 Moses at the Burning Bush|Moses at the Burning Bush]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 3
+book/chapter: "[[Exod.3|Exodus 3]]"
+chronological_order: 95
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SORROW|SORROW]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6040]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H6818]]"
+- "[[H9028]]"
+- "[[H8085G]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H5065]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H3045]]"
+- "[[H4341]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 3:7**<big><big>[[Exod.3.1 Moses at the Burning Bush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said, I have surely seen the affliction of my people which [are] in Egypt, and have heard their cry by reason of their taskmasters; for I know their sorrows;
 <small><sub>**BSB:**</sub></small>
 The LORD said, “I have indeed seen the affliction of My people in Egypt. I have heard them crying out because of their oppressors, and I am aware of their sufferings.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3068G\|יְהוָ֔ה]] [[H7200G\|רָאֹ֥ה]] [[H7200G\|רָאִ֛יתִי]] [[H0853\|אֶת]][[H9014\|־]] [[H6040\|עֳנִ֥י]] [[H5971A\|עַמִּ֖]][[H9020\|י]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H4714G\|מִצְרָ֑יִם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6818\|צַעֲקָתָ֤]][[H9028\|ם]] [[H8085G\|שָׁמַ֙עְתִּי֙]] [[H9006\|מִ]][[H6440I\|פְּנֵ֣י]] [[H5065\|נֹֽגְשָׂ֔י]][[H9033\|ו]] [[H3588A\|כִּ֥י]] [[H3045\|יָדַ֖עְתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H4341\|מַכְאֹבָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic PRAYER|PRAYER]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RELIGION|RELIGION]] • [[topic SORROW|SORROW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.3.6|<< Exodus 3:6]]</td><td align="center" style="border:none;">[[Exod.3|Exodus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.3.8|Exodus 3:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

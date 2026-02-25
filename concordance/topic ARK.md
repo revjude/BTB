@@ -3,11 +3,11 @@
 
 1. NOAH'S
 
-- Directions for building of [[Gen.6.14|Ge 6:14]]-[[Gen.6.16|16]]
+- Directions for building of [[Gen.6.14|Ge 6:14-16]]
 
 - Noah and family preserved in [[Gen.6.18|Ge 6:18]]; [[Gen.7.8|7:8]]; [[Matt.24.38|Mt 24:38]];  [[Heb.11.7|Heb 11:7]]; [[1Pet.3.20|1Pe 3:20]]
 
-- Animals saved in [[Gen.6.19|Ge 6:19]],[[Gen.6.20|20]]; [[Gen.7.1|7:1]]-[[Gen.7.16|16]]
+- Animals saved in [[Gen.6.19|Ge 6:19]],[[Gen.6.20|20]]; [[Gen.7.1|7:1-16]]
 
 2. Of BULLRUSHES [[Exod.2.3|Ex 2:3]]
 
@@ -25,17 +25,17 @@ OF THE TESTIMONY [[Exod.30.6|Ex 30:6]]
 
 - Sanctification of [[Exod.30.26|Ex 30:26]]
 
-- Ceremonies connected with, on the day of atonement  [[Lev.16.13|Le 16:13]]-[[Lev.16.15|15]]
+- Ceremonies connected with, on the day of atonement  [[Lev.16.13|Le 16:13-15]]
 
 - Holy [[2Chr.8.11|2Ch 8:11]]; [[2Chr.35.3|35:3]]
 
-- An oracle of God [[Num.10.33|Nu 10:33]]; [[Num.14.44|14:44]]; [[Josh.7.6|Jos 7:6]]-[[Josh.7.15|15]]; [[Judg.20.27|Jud 20:27]],[[Judg.20.28|28]];  [[1Sam.4.3|1Sa 4:3]],[[1Sam.4.4|4]],[[1Sam.4.7|7]]; [[1Chr.13.3|1Ch 13:3]]; [[1Chr.16.4|16:4]],[[1Chr.16.37|37]]; [[2Chr.6.41|2Ch 6:41]]; [[Ps.132.8|Ps 132:8]]
+- An oracle of God [[Num.10.33|Nu 10:33]]; [[Num.14.44|14:44]]; [[Josh.7.6|Jos 7:6-15]]; [[Judg.20.27|Jud 20:27]],[[Judg.20.28|28]];  [[1Sam.4.3|1Sa 4:3]],[[1Sam.4.4|4]],[[1Sam.4.7|7]]; [[1Chr.13.3|1Ch 13:3]]; [[1Chr.16.4|16:4]],[[1Chr.16.37|37]]; [[2Chr.6.41|2Ch 6:41]]; [[Ps.132.8|Ps 132:8]]
 
 - See [[topic MERCY-SEAT|MERCY SEAT]]
 
-- Directions for making [[Exod.25.10|Ex 25:10]]-[[Exod.25.15|15]]; [[Exod.35.12|35:12]]
+- Directions for making [[Exod.25.10|Ex 25:10-15]]; [[Exod.35.12|35:12]]
 
-- Construction of [[Exod.37.1|Ex 37:1]]-[[Exod.37.5|5]]; [[Deut.10.3|De 10:3]]
+- Construction of [[Exod.37.1|Ex 37:1-5]]; [[Deut.10.3|De 10:3]]
 
 - Contents of
 
@@ -45,7 +45,7 @@ The law [[Exod.25.16|Ex 25:16]],[[Exod.25.21|21]]; [[Exod.40.20|40:20]]; [[Deut.
 
 - Pot of manna [[Exod.16.33|Ex 16:33]],[[Exod.16.34|34]]; [[Heb.9.4|Heb 9:4]]
 
-- Place of [[Exod.26.33|Ex 26:33]]; [[Exod.40.21|40:21]]; [[1Sam.3.3|1Sa 3:3]]; [[2Sam.7.2|2Sa 7:2]]; [[Heb.9.2|Heb 9:2]]-[[Heb.9.4|4]]
+- Place of [[Exod.26.33|Ex 26:33]]; [[Exod.40.21|40:21]]; [[1Sam.3.3|1Sa 3:3]]; [[2Sam.7.2|2Sa 7:2]]; [[Heb.9.2|Heb 9:2-4]]
 
 - How prepared for conveyance [[Num.4.5|Nu 4:5]],[[Num.4.6|6]]
 
@@ -55,7 +55,7 @@ The law [[Exod.25.16|Ex 25:16]],[[Exod.25.21|21]]; [[Exod.40.20|40:20]]; [[Deut.
 
 - Siege of Jericho [[Josh.6.6|Jos 6:6]]
 
-- Taken to battle [[Josh.6.6|Jos 6:6]]-[[Josh.6.20|20]]; [[1Sam.4.3|1Sa 4:3]]-[[1Sam.4.22|22]]
+- Taken to battle [[Josh.6.6|Jos 6:6-20]]; [[1Sam.4.3|1Sa 4:3-22]]
 
 - Captured by the Philstines [[1Sam.4.10|1Sa 4:10]],[[1Sam.4.11|11]]; [[Ps.78.61|Ps 78:61]]
 
@@ -63,15 +63,15 @@ The law [[Exod.25.16|Ex 25:16]],[[Exod.25.21|21]]; [[Exod.40.20|40:20]]; [[Deut.
 
 - Remains at the house of Abinadab [[1Sam.7.1|1Sa 7:1]],[[1Sam.7.2|2]]; [[2Sam.6.4|2Sa 6:4]]
 
-- Remains in the house of Obed-edom [[2Sam.6.9|2Sa 6:9]]-[[2Sam.6.11|11]]
+- Remains in the house of Obed-edom [[2Sam.6.9|2Sa 6:9-11]]
 
 - Set up in Shiloh [[Josh.18.1|Jos 18:1]]; [[Judg.20.27|Jud 20:27]],[[Judg.20.28|28]]; [[1Sam.4.3|1Sa 4:3]],[[1Sam.4.4|4]]
 
-- Set up in Jerusalem [[2Sam.6.12|2Sa 6:12]]-[[2Sam.6.17|17]]; [[1Chr.6.31|1Ch 6:31]]; [[1Chr.15|15]]; [[1Chr.16.1|16:1]]
+- Set up in Jerusalem [[2Sam.6.12|2Sa 6:12-17]]; [[1Chr.6.31|1Ch 6:31]]; [[1Chr.15|15]]; [[1Chr.16.1|16:1]]
 
-- Removed from Jerusalem by Zadok at the time of Absalom's revolt,  but returned by command of David [[2Sam.15.24|2Sa 15:24]]-[[2Sam.15.29|29]]
+- Removed from Jerusalem by Zadok at the time of Absalom's revolt,  but returned by command of David [[2Sam.15.24|2Sa 15:24-29]]
 
-- Transferred to Solomon's temple [[1Kgs.8.6|1Ki 8:6]]-[[1Kgs.8.9|9]]; [[2Chr.5.2|2Ch 5:2]]-[[2Chr.5.9|9]];  [[2Chr.35.3|35:3]]
+- Transferred to Solomon's temple [[1Kgs.8.6|1Ki 8:6-9]]; [[2Chr.5.2|2Ch 5:2-9]];  [[2Chr.35.3|35:3]]
 
 - Prophecy concerning [[Jer.3.16|Jer 3:16]]
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David’s Family Grows
+type: Pericope
 pericope: "[[2Sam.5.12 David’s Family Grows|David’s Family Grows]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 5
 book/chapter: "[[2Sam.5|2 Samuel 5]]"
-genre:
+chronological_order: 333
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 5
 verses:
 - "[[2Sam.5.12]]"
 - "[[2Sam.5.13]]"
@@ -24,7 +31,7 @@ verses:
 - "[[2Sam.5.16]]"
 ---
 
-[[2Sam.5|2 Samuel 5:12 - 2 Samuel 5:16]]
+<small>[[2Sam.5|2 Samuel 5:12-16]]</small>
 *David’s Family Grows*
 
 [[2Sam.5.12|12]] And David perceived that the LORD had established him king over Israel, and that he had exalted his kingdom for his people Israel’s sake.

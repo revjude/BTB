@@ -1,8 +1,53 @@
+---
+title: Isaiah 42:21
+type: Verse
+kjv: "The LORD is well pleased for his righteousness’ sake; he will magnify the law, and make it honourable."
+bsb: "The LORD was pleased, for the sake of His righteousness, to magnify His law and make it glorious."
+hebrew: "יְהוָ֥ה חָפֵ֖ץ לְמַ֣עַן צִדְק֑וֹ יַגְדִּ֥יל תּוֹרָ֖ה וְיַאְדִּֽיר׃"
+pericope: "[[Isa.42.18 Israel Is Deaf and Blind|Israel Is Deaf and Blind]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 42
+book/chapter: "[[Isa.42|Isaiah 42]]"
+chronological_order: 681
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+strongs:
+- "[[H3068G]]"
+- "[[H2654A]]"
+- "[[H4616]]"
+- "[[H6664G]]"
+- "[[H9023]]"
+- "[[H1431]]"
+- "[[H8451]]"
+- "[[H9002]]"
+- "[[H0142]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 42:21**<big><big>[[Isa.42.18 Israel Is Deaf and Blind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD is well pleased for his righteousness’ sake; he will magnify the law, and make [it] honourable.
 <small><sub>**BSB:**</sub></small>
 The LORD was pleased, for the sake of His righteousness, to magnify His law and make it glorious.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֥ה]] [[H2654A\|חָפֵ֖ץ]] [[H4616\|לְמַ֣עַן]] [[H6664G\|צִדְק֑]][[H9023\|וֹ]] [[H1431\|יַגְדִּ֥יל]] [[H8451\|תּוֹרָ֖ה]] [[H9002\|וְ]][[H0142\|יַאְדִּֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISAIAH|ISAIAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUSTIFICATION|JUSTIFICATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.20|<< Isaiah 42:20]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.22|Isaiah 42:22 >>]]</td></tr></table>
 

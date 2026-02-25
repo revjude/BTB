@@ -1,10 +1,63 @@
+---
+title: Romans 1:26
+type: Verse
+kjv: "For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature:"
+bsb: "For this reason God gave them over to dishonorable passions. Even their women exchanged natural relations for unnatural ones."
+greek: "Διὰ τοῦτο παρέδωκεν αὐτοὺς ὁ θεὸς εἰς πάθη ἀτιμίας· αἵ τε γὰρ θήλειαι αὐτῶν μετήλλαξαν τὴν φυσικὴν χρῆσιν εἰς τὴν παρὰ φύσιν,"
+pericope: "[[Rom.1.18 God’s Wrath against Sin|God’s Wrath against Sin]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 1
+book/chapter: "[[Rom.1|Romans 1]]"
+chronological_order: 1087
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic ROME|ROME]]"
+- "[[topic SODOMY|SODOMY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G3860]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1519]]"
+- "[[G3806]]"
+- "[[G0819]]"
+- "[[G5037]]"
+- "[[G1063]]"
+- "[[G2338]]"
+- "[[G3337]]"
+- "[[G5446]]"
+- "[[G5540]]"
+- "[[G3844]]"
+- "[[G5449]]"
+texts:
+- NKO
+---
+
 **Romans 1:26**<big><big>[[Rom.1.18 God’s Wrath against Sin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature:
 <small><sub>**BSB:**</sub></small>
 For this reason God gave them over to dishonorable passions. Even their women exchanged natural relations for unnatural ones.
-<small><sub>**Literal:**</sub></small>
-Because of this gave up them <the> God to passions of dishonor; <the> Even for females of them changed the natural use into that contrary to nature,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.25|<< Romans 1:25]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.27|Romans 1:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|Διὰ]]  [[G3778\|τοῦτο]]  [[G3860\|παρέδωκεν]]  [[G0846\|αὐτοὺς]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1519\|εἰς]]  [[G3806\|πάθη]]  [[G0819\|ἀτιμίας·]]  [[G3588\|αἵ]]  [[G5037\|τε]]  [[G1063\|γὰρ]]  [[G2338\|θήλειαι]]  [[G0846\|αὐτῶν]]  [[G3337\|μετήλλαξαν]]  [[G3588\|τὴν]]  [[G5446\|φυσικὴν]]  [[G5540\|χρῆσιν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3844\|παρὰ]]  [[G5449\|φύσιν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic ROME|ROME]] • [[topic SODOMY|SODOMY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.25|<< Romans 1:25]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.27|Romans 1:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

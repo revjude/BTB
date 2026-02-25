@@ -1,8 +1,70 @@
+---
+title: Numbers 22:38
+type: Verse
+kjv: "And Balaam said unto Balak, Lo, I am come unto thee: have I now any power at all to say any thing? the word that God putteth in my mouth, that shall I speak."
+bsb: "“See, I have come to you,” Balaam replied, “but can I say just anything? I must speak only the word that God puts in my mouth.”"
+hebrew: "וַיֹּ֨אמֶר בִּלְעָ֜ם אֶל־ בָּלָ֗ק הִֽנֵּה־ בָ֙אתִי֙ אֵלֶ֔יךָ עַתָּ֕ה הֲיָכ֥וֹל אוּכַ֖ל דַּבֵּ֣ר מְא֑וּמָה הַדָּבָ֗ר אֲשֶׁ֨ר יָשִׂ֧ים אֱלֹהִ֛ים בְּפִ֖י אֹת֥וֹ אֲדַבֵּֽר׃"
+pericope: "[[Num.22.22 The Angel and Balaam’s Donkey|The Angel and Balaam’s Donkey]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 22
+book/chapter: "[[Num.22|Numbers 22]]"
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1109A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1111]]"
+- "[[H2009]]"
+- "[[H0935G]]"
+- "[[H9031]]"
+- "[[H6258]]"
+- "[[H9008]]"
+- "[[H3201]]"
+- "[[H1696G]]"
+- "[[H3972]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H7760H]]"
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H9020]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 22:38**<big><big>[[Num.22.22 The Angel and Balaam’s Donkey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Balaam said unto Balak, Lo, I am come unto thee: have I now any power at all to say any thing? the word that God putteth in my mouth, that shall I speak.
 <small><sub>**BSB:**</sub></small>
 “See, I have come to you,” Balaam replied, “but can I say just anything? I must speak only the word that God puts in my mouth.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H1109A\|בִּלְעָ֜ם]] [[H0413\|אֶל]][[H9014\|־]] [[H1111\|בָּלָ֗ק]] [[H2009\|הִֽנֵּה]][[H9014\|־]] [[H0935G\|בָ֙אתִי֙]] [[H0413\|אֵלֶ֔י]][[H9031\|ךָ]] [[H6258\|עַתָּ֕ה]] [[H9008\|הֲ]][[H3201\|יָכ֥וֹל]] [[H3201\|אוּכַ֖ל]] [[H1696G\|דַּבֵּ֣ר]] [[H3972\|מְא֑וּמָה]] [[H9009\|הַ]][[H1697G\|דָּבָ֗ר]] [[H0834A\|אֲשֶׁ֨ר]] [[H7760H\|יָשִׂ֧ים]] [[H0430G\|אֱלֹהִ֛ים]] [[H9003\|בְּ]][[H6310G\|פִ֖]][[H9020\|י]] [[H0853\|אֹת֥]][[H9033\|וֹ]] [[H1696G\|אֲדַבֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.37|<< Numbers 22:37]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.39|Numbers 22:39 >>]]</td></tr></table>
 

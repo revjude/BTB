@@ -1,8 +1,50 @@
+---
+title: Psalm 118:11
+type: Verse
+kjv: "They compassed me about; yea, they compassed me about: but in the name of the LORD I will destroy them."
+bsb: "They surrounded me on every side, but in the name of the LORD I cut them off."
+hebrew: "סַבּ֥וּנִי גַם־ סְבָב֑וּנִי בְּשֵׁ֥ם יְ֝הוָ֗ה כִּ֣י אֲמִילַֽם׃"
+pericope: "[[Ps.118.1 The LORD Is on My Side|The LORD Is on My Side]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 118
+book/chapter: "[[Ps.118|Psalm 118]]"
+chronological_order: 880
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H5437H]]"
+- "[[H9030]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H4135A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 118:11**<big><big>[[Ps.118.1 The LORD Is on My Side|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They compassed me about; yea, they compassed me about: but in the name of the LORD I will destroy them.
 <small><sub>**BSB:**</sub></small>
 They surrounded me on every side, but in the name of the LORD I cut them off.
+<small><sub>**Hebrew:**</sub></small>
+[[H5437H\|סַבּ֥וּ]][[H9030\|נִי]] [[H1571\|גַם]][[H9014\|־]] [[H5437H\|סְבָב֑וּ]][[H9030\|נִי]] [[H9003\|בְּ]][[H8034\|שֵׁ֥ם]] [[H3068G\|יְ֝הוָ֗ה]] [[H3588A\|כִּ֣י]] [[H4135A\|אֲמִילַֽ]][[H9038\|ם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.118.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.10|<< Psalms 118:10]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.12|Psalms 118:12 >>]]</td></tr></table>
 

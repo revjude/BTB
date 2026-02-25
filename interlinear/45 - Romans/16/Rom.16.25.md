@@ -1,10 +1,58 @@
+---
+title: Romans 16:25
+type: Verse
+kjv: "Now to him that is of power to stablish you according to my gospel, and the preaching of Jesus Christ, according to the revelation of the mystery, which was kept secret since the world began,"
+bsb: "Now to Him who is able to strengthen you by my gospel and by the proclamation of Jesus Christ, according to the revelation of the mystery concealed for ages past"
+greek: "Τῷ δὲ δυναμένῳ ὑμᾶς στηρίξαι κατὰ τὸ εὐαγγέλιόν μου καὶ τὸ κήρυγμα Ἰησοῦ Χριστοῦ κατὰ ἀποκάλυψιν μυστηρίου χρόνοις αἰωνίοις σεσιγημένου,"
+pericope: "[[Rom.16.25 Doxology|Doxology]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 16
+book/chapter: "[[Rom.16|Romans 16]]"
+chronological_order: 1102
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1410]]"
+- "[[G4771]]"
+- "[[G4741]]"
+- "[[G2596]]"
+- "[[G2098]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G2782]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G0602]]"
+- "[[G3466]]"
+- "[[G5550]]"
+- "[[G0166]]"
+- "[[G4601]]"
+texts:
+- NKO
+---
+
 **Romans 16:25**<big><big>[[Rom.16.25 Doxology|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now to him that is of power to stablish you according to my gospel, and the preaching of Jesus Christ, according to the revelation of the mystery, which was kept secret since the world began,
 <small><sub>**BSB:**</sub></small>
 Now to Him who is able to strengthen you by my gospel and by the proclamation of Jesus Christ, according to the revelation of the mystery concealed for ages past
-<small><sub>**Literal:**</sub></small>
-{14.24} To Him now being able you to strengthen according to <the> gospel of mine and the preaching of Jesus Christ according to [the] revelation of [the] mystery in times of the ages kept secret,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.24|<< Romans 16:24]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.26|Romans 16:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τῷ]]  [[G1161\|δὲ]]  [[G1410\|δυναμένῳ]]  [[G4771\|ὑμᾶς]]  [[G4741\|στηρίξαι]]  [[G2596\|κατὰ]]  [[G3588\|τὸ]]  [[G2098\|εὐαγγέλιόν]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G2782\|κήρυγμα]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G2596\|κατὰ]]  [[G0602\|ἀποκάλυψιν]]  [[G3466\|μυστηρίου]]  [[G5550\|χρόνοις]]  [[G0166\|αἰωνίοις]]  [[G4601\|σεσιγημένου,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic MYSTERIES|MYSTERIES]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.24|<< Romans 16:24]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.26|Romans 16:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

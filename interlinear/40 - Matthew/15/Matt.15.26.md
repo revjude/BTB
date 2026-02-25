@@ -1,10 +1,63 @@
+---
+title: Matthew 15:26
+type: Verse
+kjv: "But he answered and said, It is not meet to take the children’s bread, and to cast it to dogs."
+bsb: "But Jesus replied, “It is not right to take the children’s bread and toss it to the dogs.”"
+jesus_said: "It is not meet to take the children’s bread, and to cast it to dogs."
+greek: "Ὁ δὲ ἀποκριθεὶς εἶπεν· οὐκ ἔστιν καλὸν λαβεῖν τὸν ἄρτον τῶν τέκνων καὶ βαλεῖν τοῖς κυναρίοις.¶"
+pericope: "[[Matt.15.21 The Faith of the Canaanite Woman|The Faith of the Canaanite Woman]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 15
+book/chapter: "[[Matt.15|Matthew 15]]"
+chronological_order: 965
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic DOG|DOG]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SIDON|SIDON]]"
+- "[[topic SYRO-PHOENICIAN|SYRO-PHOENICIAN]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0611]]"
+- "[[G2036]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G2570G]]"
+- "[[G2983]]"
+- "[[G0740]]"
+- "[[G5043]]"
+- "[[G2532]]"
+- "[[G0906G]]"
+- "[[G2952]]"
+texts:
+- NKO
+---
+
 **Matthew 15:26**<big><big>[[Matt.15.21 The Faith of the Canaanite Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he answered and said, It is not meet to take the children’s bread, and to cast [it] to dogs.
 <small><sub>**BSB:**</sub></small>
 But Jesus replied, “It is not right to take the children’s bread and toss it to the dogs.”
-<small><sub>**Literal:**</sub></small>
-<the> And answering He said; Not it is right to take the bread of the children and to cast [it] to the dogs.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.25|<< Matthew 15:25]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.27|Matthew 15:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G0611\|ἀποκριθεὶς]]  [[G2036\|εἶπεν·]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G2570G\|καλὸν]]  [[G2983\|λαβεῖν]]  [[G3588\|τὸν]]  [[G0740\|ἄρτον]]  [[G3588\|τῶν]]  [[G5043\|τέκνων]]  [[G2532\|καὶ]]  [[G0906G\|βαλεῖν]]  [[G3588\|τοῖς]]  [[G2952\|κυναρίοις.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEMONS|DEMONS]] • [[topic DOG|DOG]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic SIDON|SIDON]] • [[topic SYRO-PHOENICIAN|SYRO-PHOENICIAN]] • [[topic TYRE|TYRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.25|<< Matthew 15:25]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.27|Matthew 15:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

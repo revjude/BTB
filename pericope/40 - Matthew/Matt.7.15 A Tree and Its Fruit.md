@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Tree and Its Fruit
+type: Pericope
 pericope: "[[Matt.7.15 A Tree and Its Fruit|A Tree and Its Fruit]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 7
 book/chapter: "[[Matt.7|Matthew 7]]"
-genre:
+chronological_order: 945
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 9
 verses:
 - "[[Matt.7.15]]"
 - "[[Matt.7.16]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Matt.7.23]]"
 ---
 
-[[Matt.7|Matthew 7:15 - Matthew 7:23]]
+<small>[[Matt.7|Matthew 7:15-23]]</small>
 *A Tree and Its Fruit*
 
 [[Matt.7.15|15]] Beware of false prophets, which come to you in sheep’s clothing, but inwardly they are ravening wolves.

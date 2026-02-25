@@ -1,8 +1,60 @@
+---
+title: Isaiah 5:18
+type: Verse
+kjv: "Woe unto them that draw iniquity with cords of vanity, and sin as it were with a cart rope:"
+bsb: "Woe to those who draw iniquity with cords of deceit and pull sin along with cart ropes,"
+hebrew: "ה֛וֹי מֹשְׁכֵ֥י הֶֽעָוֹ֖ן בְּחַבְלֵ֣י הַשָּׁ֑וְא וְכַעֲב֥וֹת הָעֲגָלָ֖ה חַטָּאָֽה׃"
+pericope: "[[Isa.5.8 Woes to the Wicked|Woes to the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 5
+book/chapter: "[[Isa.5|Isaiah 5]]"
+chronological_order: 613
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic SCOFFING|SCOFFING]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1945]]"
+- "[[H4900]]"
+- "[[H9009]]"
+- "[[H5771G]]"
+- "[[H9003]]"
+- "[[H2256M]]"
+- "[[H7723G]]"
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H5688]]"
+- "[[H5699]]"
+- "[[H2403A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 5:18**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe unto them that draw iniquity with cords of vanity, and sin as it were with a cart rope:
 <small><sub>**BSB:**</sub></small>
 Woe to those who draw iniquity with cords of deceit and pull sin along with cart ropes,
+<small><sub>**Hebrew:**</sub></small>
+[[H1945\|ה֛וֹי]] [[H4900\|מֹשְׁכֵ֥י]] [[H9009\|הֶֽ]][[H5771G\|עָוֹ֖ן]] [[H9003\|בְּ]][[H2256M\|חַבְלֵ֣י]] [[H9009\|הַ]][[H7723G\|שָּׁ֑וְא]] [[H9002\|וְ]][[H9004\|כַ]][[H5688\|עֲב֥וֹת]] [[H9009\|הָ]][[H5699\|עֲגָלָ֖ה]] [[H2403A\|חַטָּאָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic INFIDELITY|INFIDELITY]] • [[topic ISAIAH|ISAIAH]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic SCOFFING|SCOFFING]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.17|<< Isaiah 5:17]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.19|Isaiah 5:19 >>]]</td></tr></table>
 

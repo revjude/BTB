@@ -7,7 +7,7 @@
 
 → Brings peace [[Isa.26.3|Isa 26:3]]; [[Jer.33.6|Jer 33:6]]; [[Rom.8.6|Ro 8:6]]; [[Rom.14.17|14:17]]
 
-→ Brings indifference to worldly good [[1Cor.7.29|1Co 7:29]]-[[1Cor.7.31|31]]; [[Col.3.1|Col  3:1]]-[[Col.3.3|3]]
+→ Brings indifference to worldly good [[1Cor.7.29|1Co 7:29-31]]; [[Col.3.1|Col  3:1-3]]
 
 → Engenders thirst for heavenly blessings  [[Matt.5.6|Mt 5:6]]; [[John.6.27|Joh  6:27]]
 

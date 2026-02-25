@@ -1,8 +1,75 @@
+---
+title: Numbers 1:18
+type: Verse
+kjv: "And they assembled all the congregation together on the first day of the second month, and they declared their pedigrees after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, by their polls."
+bsb: "and on the first day of the second month they assembled the whole congregation and recorded their ancestry by clans and families, counting one by one the names of those twenty years of age or older,"
+hebrew: "וְאֵ֨ת כָּל־ הָעֵדָ֜ה הִקְהִ֗ילוּ בְּאֶחָד֙ לַחֹ֣דֶשׁ הַשֵּׁנִ֔י וַיִּתְיַֽלְד֥וּ עַל־ מִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם בְּמִסְפַּ֣ר שֵׁמ֗וֹת מִבֶּ֨ן עֶשְׂרִ֥ים שָׁנָ֛ה וָמַ֖עְלָה לְגֻלְגְּלֹתָֽם׃"
+pericope: "[[Num.1.17 The Number of Every Tribe|The Number of Every Tribe]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 1
+book/chapter: "[[Num.1|Numbers 1]]"
+chronological_order: 160
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MONTH|MONTH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5712]]"
+- "[[H6950]]"
+- "[[H9003]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H8145]]"
+- "[[H9001]]"
+- "[[H3205]]"
+- "[[H5921A]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H4557]]"
+- "[[H8034]]"
+- "[[H9006]]"
+- "[[H1121L]]"
+- "[[H6242]]"
+- "[[H8141]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H1538]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 1:18**<big><big>[[Num.1.17 The Number of Every Tribe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they assembled all the congregation together on the first [day] of the second month, and they declared their pedigrees after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, by their polls.
 <small><sub>**BSB:**</sub></small>
 and on the first day of the second month they assembled the whole congregation and recorded their ancestry by clans and families, counting one by one the names of those twenty years of age or older,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵ֨ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5712\|עֵדָ֜ה]] [[H6950\|הִקְהִ֗ילוּ]] [[H9003\|בְּ]][[H0259\|אֶחָד֙]] [[H9005\|לַ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֔י]] [[H9001\|וַ]][[H3205\|יִּתְיַֽלְד֥וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H4940\|מִשְׁפְּחֹתָ֖]][[H9028\|ם]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H0001G\|אֲבֹתָ֑]][[H9028\|ם]] [[H9003\|בְּ]][[H4557\|מִסְפַּ֣ר]] [[H8034\|שֵׁמ֗וֹת]] [[H9006\|מִ]][[H1121L\|בֶּ֨ן]] [[H6242\|עֶשְׂרִ֥ים]] [[H8141\|שָׁנָ֛ה]] [[H9002\|וָ]][[H4605\|מַ֖עְלָ]][[H9011\|ה]] [[H9005\|לְ]][[H1538\|גֻלְגְּלֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENEALOGY|GENEALOGY]] • [[topic ISRAEL|ISRAEL]] • [[topic MONTH|MONTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.1.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.17|<< Numbers 1:17]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.19|Numbers 1:19 >>]]</td></tr></table>
 

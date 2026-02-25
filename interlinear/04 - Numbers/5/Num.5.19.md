@@ -1,8 +1,82 @@
+---
+title: Numbers 5:19
+type: Verse
+kjv: "And the priest shall charge her by an oath, and say unto the woman, If no man have lain with thee, and if thou hast not gone aside to uncleanness with another instead of thy husband, be thou free from this bitter water that causeth the curse:"
+bsb: "And he is to put the woman under oath and say to her, ‘If no other man has slept with you and you have not gone astray and become defiled while under your husband’s authority, may you be immune to this bitter water that brings a curse."
+hebrew: "וְהִשְׁבִּ֨יעַ אֹתָ֜הּ הַכֹּהֵ֗ן וְאָמַ֤ר אֶל־ הָֽאִשָּׁה֙ אִם־ לֹ֨א שָׁכַ֥ב אִישׁ֙ אֹתָ֔ךְ וְאִם־ לֹ֥א שָׂטִ֛ית טֻמְאָ֖ה תַּ֣חַת אִישֵׁ֑ךְ הִנָּקִ֕י מִמֵּ֛י הַמָּרִ֥ים הַֽמְאָרֲרִ֖ים הָאֵֽלֶּה׃"
+pericope: "[[Num.5.11 The Adultery Test|The Adultery Test]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 5
+book/chapter: "[[Num.5|Numbers 5]]"
+chronological_order: 164
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BITTER WATER|BITTER WATER]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic OATH|OATH]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SELF-INCRIMINATION|SELF-INCRIMINATION]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WITNESS|WITNESS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7650]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0802H]]"
+- "[[H0518A]]"
+- "[[H3808]]"
+- "[[H7901I]]"
+- "[[H0376G]]"
+- "[[H0854]]"
+- "[[H9032]]"
+- "[[H9002]]"
+- "[[H7847]]"
+- "[[H2932]]"
+- "[[H8478G]]"
+- "[[H0376H]]"
+- "[[H9022]]"
+- "[[H5352]]"
+- "[[H9006]]"
+- "[[H4325G]]"
+- "[[H4751]]"
+- "[[H0779]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 5:19**<big><big>[[Num.5.11 The Adultery Test|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall charge her by an oath, and say unto the woman, If no man have lain with thee, and if thou hast not gone aside to uncleanness [with another] instead of thy husband, be thou free from this bitter water that causeth the curse:
 <small><sub>**BSB:**</sub></small>
 And he is to put the woman under oath and say to her, ‘If no other man has slept with you and you have not gone astray and become defiled while under your husband’s authority, may you be immune to this bitter water that brings a curse.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7650\|הִשְׁבִּ֨יעַ]] [[H0853\|אֹתָ֜]][[H9034\|הּ]] [[H9009\|הַ]][[H3548\|כֹּהֵ֗ן]] [[H9001\|וְ]][[H0559\|אָמַ֤ר]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָֽ]][[H0802H\|אִשָּׁה֙]] [[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֨א]] [[H7901I\|שָׁכַ֥ב]] [[H0376G\|אִישׁ֙]] [[H0854\|אֹתָ֔]][[H9032\|ךְ]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֥א]] [[H7847\|שָׂטִ֛ית]] [[H2932\|טֻמְאָ֖ה]] [[H8478G\|תַּ֣חַת]] [[H0376H\|אִישֵׁ֑]][[H9022\|ךְ]] [[H5352\|הִנָּקִ֕י]] [[H9006\|מִ]][[H4325G\|מֵּ֛י]] [[H9009\|הַ]][[H4751\|מָּרִ֥ים]] [[H9009\|הַֽ]][[H0779\|מְאָרֲרִ֖ים]] [[H9009\|הָ]][[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BITTER WATER|BITTER WATER]] • [[topic HUSBAND|HUSBAND]] • [[topic JEALOUSY|JEALOUSY]] • [[topic OATH|OATH]] • [[topic PRIEST|PRIEST]] • [[topic SELF-INCRIMINATION|SELF-INCRIMINATION]] • [[topic WIFE|WIFE]] • [[topic WITNESS|WITNESS]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.18|<< Numbers 5:18]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.20|Numbers 5:20 >>]]</td></tr></table>
 

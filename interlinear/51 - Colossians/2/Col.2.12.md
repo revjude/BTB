@@ -1,10 +1,63 @@
+---
+title: Colossians 2:12
+type: Verse
+kjv: "Buried with him in baptism, wherein also ye are risen with him through the faith of the operation of God, who hath raised him from the dead."
+bsb: "And having been buried with Him in baptism, you were raised with Him through your faith in the power of God, who raised Him from the dead."
+greek: "συνταφέντες αὐτῷ ἐν τῷ βαπτισμῷ ἐν ᾧ καὶ συνηγέρθητε διὰ τῆς πίστεως τῆς ἐνεργείας τοῦ θεοῦ τοῦ ἐγείραντος αὐτὸν ἐκ τῶν νεκρῶν.¶"
+pericope: "[[Col.2.6 Alive with Christ|Alive with Christ]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 2
+book/chapter: "[[Col.2|Colossians 2]]"
+chronological_order: 1122
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POWER|POWER]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+strongs:
+- "[[G4916]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0909]]"
+- "[[G3739]]"
+- "[[G2532]]"
+- "[[G4891]]"
+- "[[G1223]]"
+- "[[G4102G]]"
+- "[[G1753]]"
+- "[[G2316]]"
+- "[[G1453]]"
+- "[[G1537]]"
+- "[[G3498]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Colossians 2:12**<big><big>[[Col.2.6 Alive with Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Buried with him in baptism, wherein also ye are risen with [him] through the faith of the operation of God, who hath raised him from the dead.
 <small><sub>**BSB:**</sub></small>
 And having been buried with Him in baptism, you were raised with Him through your faith in the power of God, who raised Him from the dead.
-<small><sub>**Literal:**</sub></small>
-having been buried with Him in <the> baptism in which also you were raised with [Him] through the faith of the working <the> of God the [One who] having raised Him out from the dead.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.11|<< Colossians 2:11]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.13|Colossians 2:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4916\|συνταφέντες]]  [[G0846\|αὐτῷ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0909\|βαπτισμῷ]]  [[G1722\|ἐν]]  [[G3739\|ᾧ]]  [[G2532\|καὶ]]  [[G4891\|συνηγέρθητε]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G4102G\|πίστεως]]  [[G3588\|τῆς]]  [[G1753\|ἐνεργείας]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|τοῦ]]  [[G1453\|ἐγείραντος]]  [[G0846\|αὐτὸν]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G3498\|νεκρῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic BURIAL|BURIAL]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POWER|POWER]] • [[topic REGENERATION|REGENERATION]] • [[topic RESURRECTION|RESURRECTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.11|<< Colossians 2:11]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.13|Colossians 2:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

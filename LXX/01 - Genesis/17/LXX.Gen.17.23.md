@@ -1,6 +1,84 @@
+---
+title: LXX Genesis 17:23
+type: Verse
+lxx: "And Abraham took Ishmael,  his son, and all  his native-born servants, and all the ones bought with silver, and every male of the men  in the house of Abraham. And he circumcised  their foreskins in  that time of the day, as God spoke to him."
+greek: "και έλαβεν Αβραάμ Ισμαήλ τον υιόν αυτού και πάντας τους οικογενείς αυτού και πάντας τους αργυρωνήτους και παν άρσεν των ανδρών των εν τω οίκω Αβραάμ και περιέτεμε τας ακροβυστίας αυτών εν τω καιρώ της ημέρας εκείνης καθά ελάλησεν αυτώ ο θεός"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 17
+book/chapter: "[[Gen.17|Genesis 17]]"
+chronological_order: 59
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[G0011]]"
+- "[[H3458]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G8456]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G6526]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G0730]]"
+- "[[G3588]]"
+- "[[G0435]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G0011]]"
+- "[[G2532]]"
+- "[[G4059]]"
+- "[[G3588]]"
+- "[[G0203]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2540]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1565]]"
+- "[[G2505]]"
+- "[[G2980]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G2316]]"
+---
+
 **LXX Genesis 17:23** 
 <small><sub>**LXX:**</sub></small>
 And Abraham took Ishmael,  his son, and all  his native-born servants, and all the \[ones\] bought with silver, and every male of the men  in the house of Abraham. And he circumcised  their foreskins in  that time of the day, as God spoke to him. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2983\|έλαβεν]] [[G0011\|Αβραάμ]] [[H3458\|Ισμαήλ]] [[G3588\|τον]] [[G5207\|υιόν]] [[G1473\|αυτού]] [[G2532\|και]] [[G3956\|πάντας]] [[G3588\|τους]] [[G8456\|οικογενείς]] [[G1473\|αυτού]] [[G2532\|και]] [[G3956\|πάντας]] [[G3588\|τους]] [[G6526\|αργυρωνήτους]] [[G2532\|και]] [[G3956\|παν]] [[G0730\|άρσεν]] [[G3588\|των]] [[G0435\|ανδρών]] [[G3588\|των]] [[G1722\|εν]] [[G3588\|τω]] [[G3624\|οίκω]] [[G0011\|Αβραάμ]] [[G2532\|και]] [[G4059\|περιέτεμε]] [[G3588\|τας]] [[G0203\|ακροβυστίας]] [[G1473\|αυτών]] [[G1722\|εν]] [[G3588\|τω]] [[G2540\|καιρώ]] [[G3588\|της]] [[G2250\|ημέρας]] [[G1565\|εκείνης]] [[G2505\|καθά]] [[G2980\|ελάλησεν]] [[G1473\|αυτώ]] [[G3588\|ο]] [[G2316\|θεός]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic ISHMAEL|ISHMAEL]] • [[topic MONEY|MONEY]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.17.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.17.22|<< Genesis 17:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.17.24|Genesis 17:24 >>]]</td></tr></table>
 
@@ -44,6 +122,6 @@ And Abraham took Ishmael,  his son, and all  his native-born servants, and all t
 | to him | **<big>[[G1473\|αυτώ]]</big>** |
 | \<obj.> | **<big>[[G3588\|ο]]</big>** |
 | God | **<big>[[G2316\|θεός]]</big>** |
-[[Gen.17.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.17.22|<< Genesis 17:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.17.24|Genesis 17:24 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.17.22|<< Genesis 17:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.17.24|Genesis 17:24 >>]]</td></tr></table>
 
 

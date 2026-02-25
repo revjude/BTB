@@ -1,8 +1,62 @@
+---
+title: Numbers 15:4
+type: Verse
+kjv: "Then shall he that offereth his offering unto the LORD bring a meat offering of a tenth deal of flour mingled with the fourth part of an hin of oil."
+bsb: "then the one presenting his offering to the LORD shall also present a grain offering of a tenth of an ephah of fine flour mixed with a quarter hin of olive oil."
+hebrew: "וְהִקְרִ֛יב הַמַּקְרִ֥יב קָרְבָּנ֖וֹ לַֽיהוָ֑ה מִנְחָה֙ סֹ֣לֶת עִשָּׂר֔וֹן בָּל֕וּל בִּרְבִעִ֥ית הַהִ֖ין שָֽׁמֶן׃"
+pericope: "[[Num.15.1 Laws about Offerings|Laws about Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 15
+book/chapter: "[[Num.15|Numbers 15]]"
+chronological_order: 175
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H9009]]"
+- "[[H7133A]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H4503G]]"
+- "[[H5560]]"
+- "[[H6241]]"
+- "[[H1101A]]"
+- "[[H9003]]"
+- "[[H7243]]"
+- "[[H1969]]"
+- "[[H8081]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 15:4**<big><big>[[Num.15.1 Laws about Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall he that offereth his offering unto the LORD bring a meat offering of a tenth deal of flour mingled with the fourth [part] of an hin of oil.
 <small><sub>**BSB:**</sub></small>
 then the one presenting his offering to the LORD shall also present a grain offering of a tenth of an ephah of fine flour mixed with a quarter hin of olive oil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7126H\|הִקְרִ֛יב]] [[H9009\|הַ]][[H7126H\|מַּקְרִ֥יב]] [[H7133A\|קָרְבָּנ֖]][[H9023\|וֹ]] [[H9005\|לַֽ]][[H3068G\|יהוָ֑ה]] [[H4503G\|מִנְחָה֙]] [[H5560\|סֹ֣לֶת]] [[H6241\|עִשָּׂר֔וֹן]] [[H1101A\|בָּל֕וּל]] [[H9003\|בִּ]][[H7243\|רְבִעִ֥ית]] [[H9009\|הַ]][[H1969\|הִ֖ין]] [[H8081\|שָֽׁמֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MEASURE|MEASURE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.3|<< Numbers 15:3]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.5|Numbers 15:5 >>]]</td></tr></table>
 

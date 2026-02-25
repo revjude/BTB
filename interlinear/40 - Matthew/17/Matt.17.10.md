@@ -1,10 +1,58 @@
+---
+title: Matthew 17:10
+type: Verse
+kjv: "And his disciples asked him, saying, Why then say the scribes that Elias must first come?"
+bsb: "The disciples asked Him, “Why then do the scribes say that Elijah must come first?”"
+greek: "Καὶ ἐπηρώτησαν αὐτὸν οἱ μαθηταὶ αὐτοῦ λέγοντες· τί οὖν οἱ γραμματεῖς λέγουσιν ὅτι Ἠλίαν δεῖ ἐλθεῖν πρῶτον;¶"
+pericope: "[[Matt.17.1 The Transfiguration|The Transfiguration]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 17
+book/chapter: "[[Matt.17|Matthew 17]]"
+chronological_order: 967
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1905]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G3004G]]"
+- "[[G5101]]"
+- "[[G3767]]"
+- "[[G1122]]"
+- "[[G3754G]]"
+- "[[G2243]]"
+- "[[G1163]]"
+- "[[G2064]]"
+- "[[G4413G]]"
+texts:
+- NKO
+- ko
+---
+
 **Matthew 17:10**<big><big>[[Matt.17.1 The Transfiguration|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And his disciples asked him, saying, Why then say the scribes that Elias must first come?
 <small><sub>**BSB:**</sub></small>
 The disciples asked Him, “Why then do the scribes say that Elijah must come first?”
-<small><sub>**Literal:**</sub></small>
-And asked Him the disciples of him saying; Why then the scribes say that Elijah it behooves to come first?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.9|<< Matthew 17:9]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.11|Matthew 17:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1905\|ἐπηρώτησαν]]  [[G0846\|αὐτὸν]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ]]  [[G3004G\|λέγοντες·]]  [[G5101\|τί]]  [[G3767\|οὖν]]  [[G3588\|οἱ]]  [[G1122\|γραμματεῖς]]  [[G3004G\|λέγουσιν]]  [[G3754G\|ὅτι]]  [[G2243\|Ἠλίαν]]  [[G1163\|δεῖ]]  [[G2064\|ἐλθεῖν]]  [[G4413G\|πρῶτον;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIJAH|ELIJAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic SCRIBE (S)|SCRIBE (S)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.9|<< Matthew 17:9]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.11|Matthew 17:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 17:10** is...
 > $\quad$ alluding to: [[LXX.Mal.4.5|Mal 4:5]]

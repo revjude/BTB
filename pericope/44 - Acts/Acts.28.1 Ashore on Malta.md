@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ashore on Malta
+type: Pericope
 pericope: "[[Acts.28.1 Ashore on Malta|Ashore on Malta]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Acts
 chapter: 28
 book/chapter: "[[Acts.28|Acts 28]]"
-genre:
+chronological_order: 1110
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 10
 verses:
 - "[[Acts.28.1]]"
 - "[[Acts.28.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Acts.28.10]]"
 ---
 
-[[Acts.28|Acts 28:1 - Acts 28:10]]
+<small>[[Acts.28|Acts 28:1-10]]</small>
 *Ashore on Malta*
 
 [[Acts.28.1|1]] And when they were escaped, then they knew that the island was called Melita.

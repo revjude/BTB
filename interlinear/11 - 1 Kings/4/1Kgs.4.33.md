@@ -1,8 +1,68 @@
+---
+title: 1 Kings 4:33
+type: Verse
+kjv: "And he spake of trees, from the cedar tree that is in Lebanon even unto the hyssop that springeth out of the wall: he spake also of beasts, and of fowl, and of creeping things, and of fishes."
+bsb: "He spoke of trees, from the cedar in Lebanon to the hyssop growing in the wall, and he taught about animals, birds, reptiles, and fish."
+hebrew: "וַיְדַבֵּר֮ עַל־ הָֽעֵצִים֒ מִן־ הָאֶ֙רֶז֙ אֲשֶׁ֣ר בַּלְּבָנ֔וֹן וְעַד֙ הָאֵז֔וֹב אֲשֶׁ֥ר יֹצֵ֖א בַּקִּ֑יר וַיְדַבֵּר֙ עַל־ הַבְּהֵמָ֣ה וְעַל־ הָע֔וֹף וְעַל־ הָרֶ֖מֶשׂ וְעַל־ הַדָּגִֽים׃"
+pericope: "[[1Kgs.4.29 Solomon’s Wisdom|Solomon’s Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 4
+book/chapter: "[[1Kgs.4|1 Kings 4]]"
+chronological_order: 444
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic BOTANICAL GARDENS|BOTANICAL GARDENS]]"
+- "[[topic HYSSOP|HYSSOP]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WISE MEN|WISE MEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6086H]]"
+- "[[H4480A]]"
+- "[[H0730]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H3844G]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H0231]]"
+- "[[H3318L]]"
+- "[[H7023]]"
+- "[[H0929]]"
+- "[[H5775]]"
+- "[[H7431]]"
+- "[[H1709H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 4:33**<big><big>[[1Kgs.4.29 Solomon’s Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he spake of trees, from the cedar tree that [is] in Lebanon even unto the hyssop that springeth out of the wall: he spake also of beasts, and of fowl, and of creeping things, and of fishes.
 <small><sub>**BSB:**</sub></small>
 He spoke of trees, from the cedar in Lebanon to the hyssop growing in the wall, and he taught about animals, birds, reptiles, and fish.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּר֮]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָֽ]][[H6086H\|עֵצִים֒]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0730\|אֶ֙רֶז֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בַּ]][[H3844G\|לְּבָנ֔וֹן]] [[H9002\|וְ]][[H5704\|עַד֙]] [[H9009\|הָ]][[H0231\|אֵז֔וֹב]] [[H0834A\|אֲשֶׁ֥ר]] [[H3318L\|יֹצֵ֖א]] [[H9003\|בַּ]][[H7023\|קִּ֑יר]] [[H9001\|וַ]][[H1696G\|יְדַבֵּר֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H0929\|בְּהֵמָ֣ה]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H5775\|ע֔וֹף]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H7431\|רֶ֖מֶשׂ]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1709H\|דָּגִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRDS|BIRDS]] • [[topic BOTANICAL GARDENS|BOTANICAL GARDENS]] • [[topic HYSSOP|HYSSOP]] • [[topic SOLOMON|SOLOMON]] • [[topic WISDOM|WISDOM]] • [[topic WISE MEN|WISE MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.4.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.32|<< 1 Kings 4:32]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.34|1 Kings 4:34 >>]]</td></tr></table>
 

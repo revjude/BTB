@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Remember the LORD Your God
+type: Pericope
 pericope: "[[Deut.8.1 Remember the LORD Your God|Remember the LORD Your God]]"
-verse_count: 20
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 8
 book/chapter: "[[Deut.8|Deuteronomy 8]]"
-genre:
+chronological_order: 204
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 20
 verses:
 - "[[Deut.8.1]]"
 - "[[Deut.8.2]]"
@@ -43,7 +50,7 @@ verses:
 - "[[Deut.8.20]]"
 ---
 
-[[Deut.8|Deuteronomy 8:1 - Deuteronomy 8:20]]
+<small>[[Deut.8|Deuteronomy 8:1-20]]</small>
 *Remember the LORD Your God*
 
 [[Deut.8.1|1]] All the commandments which I command thee this day shall ye observe to do, that ye may live, and multiply, and go in and possess the land which the LORD sware unto your fathers.

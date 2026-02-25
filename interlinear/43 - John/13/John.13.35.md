@@ -1,10 +1,56 @@
+---
+title: John 13:35
+type: Verse
+kjv: "By this shall all men know that ye are my disciples, if ye have love one to another."
+bsb: "By this everyone will know that you are My disciples, if you love one another.”"
+jesus_said: "By this shall all men know that ye are my disciples, if ye have love one to another."
+greek: "ἐν τούτῳ γνώσονται πάντες ὅτι ἐμοὶ μαθηταί ἐστε, ἐὰν ἀγάπην ἔχητε ἐν ἀλλήλοις."
+pericope: "[[John.13.31 Love One Another|Love One Another]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G1722]]"
+- "[[G3778]]"
+- "[[G1097]]"
+- "[[G3956]]"
+- "[[G3754G]]"
+- "[[G1473]]"
+- "[[G3101]]"
+- "[[G1510]]"
+- "[[G1437]]"
+- "[[G0026]]"
+- "[[G2192]]"
+- "[[G0240]]"
+texts:
+- NKO
+---
+
 **John 13:35**<big><big>[[John.13.31 Love One Another|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 By this shall all [men] know that ye are my disciples, if ye have love one to another.
 <small><sub>**BSB:**</sub></small>
 By this everyone will know that you are My disciples, if you love one another.”
-<small><sub>**Literal:**</sub></small>
-By this will know all that to Me disciples you are, if love you shall have among one another.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.34|<< John 13:34]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.36|John 13:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3778\|τούτῳ]]  [[G1097\|γνώσονται]]  [[G3956\|πάντες]]  [[G3754G\|ὅτι]]  [[G1473\|ἐμοὶ]]  [[G3101\|μαθηταί]]  [[G1510\|ἐστε,]]  [[G1437\|ἐὰν]]  [[G0026\|ἀγάπην]]  [[G2192\|ἔχητε]]  [[G1722\|ἐν]]  [[G0240\|ἀλλήλοις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic LOVE|LOVE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.34|<< John 13:34]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.36|John 13:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

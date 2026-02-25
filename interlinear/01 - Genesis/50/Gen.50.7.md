@@ -1,8 +1,67 @@
+---
+title: Genesis 50:7
+type: Verse
+kjv: "And Joseph went up to bury his father: and with him went up all the servants of Pharaoh, the elders of his house, and all the elders of the land of Egypt,"
+bsb: "Then Joseph went to bury his father, and all the servants of Pharaoh accompanied him—the elders of Pharaoh’s household and all the elders of the land of Egypt—"
+hebrew: "וַיַּ֥עַל יוֹסֵ֖ף לִקְבֹּ֣ר אֶת־ אָבִ֑יו וַיַּֽעֲל֨וּ אִתּ֜וֹ כָּל־ עַבְדֵ֤י פַרְעֹה֙ זִקְנֵ֣י בֵית֔וֹ וְכֹ֖ל זִקְנֵ֥י אֶֽרֶץ־ מִצְרָֽיִם׃"
+pericope: "[[Gen.50.1 Mourning and Burial for Jacob|Mourning and Burial for Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 50
+book/chapter: "[[Gen.50|Genesis 50]]"
+chronological_order: 92
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H3130G]]"
+- "[[H9005]]"
+- "[[H6912]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H5650]]"
+- "[[H6547H]]"
+- "[[H2205G]]"
+- "[[H1004M]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 50:7**<big><big>[[Gen.50.1 Mourning and Burial for Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph went up to bury his father: and with him went up all the servants of Pharaoh, the elders of his house, and all the elders of the land of Egypt,
 <small><sub>**BSB:**</sub></small>
 Then Joseph went to bury his father, and all the servants of Pharaoh accompanied him—the elders of Pharaoh’s household and all the elders of the land of Egypt—
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|יַּ֥עַל]] [[H3130G\|יוֹסֵ֖ף]] [[H9005\|לִ]][[H6912\|קְבֹּ֣ר]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אָבִ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H5927G\|יַּֽעֲל֨וּ]] [[H0854\|אִתּ֜]][[H9033\|וֹ]] [[H3605\|כָּל]][[H9014\|־]] [[H5650\|עַבְדֵ֤י]] [[H6547H\|פַרְעֹה֙]] [[H2205G\|זִקְנֵ֣י]] [[H1004M\|בֵית֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H3605\|כֹ֖ל]] [[H2205G\|זִקְנֵ֥י]] [[H0776G\|אֶֽרֶץ]][[H9014\|־]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURIAL|BURIAL]] • [[topic CHILDREN|CHILDREN]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JACOB|JACOB]] • [[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.50.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.6|<< Genesis 50:6]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.8|Genesis 50:8 >>]]</td></tr></table>
 

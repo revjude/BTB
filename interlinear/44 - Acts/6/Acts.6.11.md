@@ -1,10 +1,67 @@
+---
+title: Acts 6:11
+type: Verse
+kjv: "Then they suborned men, which said, We have heard him speak blasphemous words against Moses, and against God."
+bsb: "Then they prompted some men to say, “We heard Stephen speak words of blasphemy against Moses and against God.”"
+greek: "Τότε ὑπέβαλον ἄνδρας λέγοντας ὅτι ἀκηκόαμεν αὐτοῦ λαλοῦντος ῥήματα βλάσφημα εἰς Μωϋσῆν καὶ τὸν θεόν·"
+pericope: "[[Acts.6.8 The Arrest of Stephen|The Arrest of Stephen]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 6
+book/chapter: "[[Acts.6|Acts 6]]"
+chronological_order: 1024
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic COURT|COURT]]"
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic GREECE|GREECE]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PERJURY|PERJURY]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic STEPHEN|STEPHEN]]"
+- "[[topic WITNESS|WITNESS]]"
+strongs:
+- "[[G5119]]"
+- "[[G5260]]"
+- "[[G0435G]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G0191]]"
+- "[[G0846]]"
+- "[[G2980]]"
+- "[[G4487]]"
+- "[[G0989]]"
+- "[[G1519]]"
+- "[[G3475]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Acts 6:11**<big><big>[[Acts.6.8 The Arrest of Stephen|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then they suborned men, which said, We have heard him speak blasphemous words against Moses, and [against] God.
 <small><sub>**BSB:**</sub></small>
 Then they prompted some men to say, “We heard Stephen speak words of blasphemy against Moses and against God.”
-<small><sub>**Literal:**</sub></small>
-Then they suborned men saying that We have heard when he is speaking declarations blasphemous against Moses and <the> God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.6.10|<< Acts 6:10]]</td><td align="center" style="border:none;">[[Acts.6|Acts 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6.12|Acts 6:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G5260\|ὑπέβαλον]]  [[G0435G\|ἄνδρας]]  [[G3004G\|λέγοντας]]  [[G3754G\|ὅτι]]  [[G0191\|ἀκηκόαμεν]]  [[G0846\|αὐτοῦ]]  [[G2980\|λαλοῦντος]]  [[G4487\|ῥήματα]]  [[G0989\|βλάσφημα]]  [[G1519\|εἰς]]  [[G3475\|Μωϋσῆν]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G2316\|θεόν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic COURT|COURT]] • [[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic GREECE|GREECE]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PERJURY|PERJURY]] • [[topic PERSECUTION|PERSECUTION]] • [[topic STEPHEN|STEPHEN]] • [[topic WITNESS|WITNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.6.10|<< Acts 6:10]]</td><td align="center" style="border:none;">[[Acts.6|Acts 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6.12|Acts 6:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

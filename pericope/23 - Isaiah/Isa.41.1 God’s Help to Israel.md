@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Help to Israel
+type: Pericope
 pericope: "[[Isa.41.1 God’s Help to Israel|God’s Help to Israel]]"
-verse_count: 20
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 41
 book/chapter: "[[Isa.41|Isaiah 41]]"
-genre:
+chronological_order: 680
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 20
 verses:
 - "[[Isa.41.1]]"
 - "[[Isa.41.2]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Isa.41.20]]"
 ---
 
-[[Isa.41|Isaiah 41:1 - Isaiah 41:20]]
+<small>[[Isa.41|Isaiah 41:1-20]]</small>
 *God’s Help to Israel*
 
 [[Isa.41.1|1]] Keep silence before me, O islands; and let the people renew \[their\] strength: let them come near; then let them speak: let us come near together to judgment.

@@ -1,8 +1,76 @@
+---
+title: Deuteronomy 24:1
+type: Verse
+kjv: "When a man hath taken a wife, and married her, and it come to pass that she find no favour in his eyes, because he hath found some uncleanness in her: then let him write her a bill of divorcement, and give it in her hand, and send her out of his house."
+bsb: "If a man marries a woman, but she becomes displeasing to him because he finds some indecency in her, he may write her a certificate of divorce, hand it to her, and send her away from his house."
+hebrew: "כִּֽי־ יִקַּ֥ח אִ֛ישׁ אִשָּׁ֖ה וּבְעָלָ֑הּ וְהָיָ֞ה אִם־ לֹ֧א תִמְצָא־ חֵ֣ן בְּעֵינָ֗יו כִּי־ מָ֤צָא בָהּ֙ עֶרְוַ֣ת דָּבָ֔ר וְכָ֨תַב לָ֜הּ סֵ֤פֶר כְּרִיתֻת֙ וְנָתַ֣ן בְּיָדָ֔הּ וְשִׁלְּחָ֖הּ מִבֵּיתֽוֹ׃"
+pericope: "[[Deut.24.1 Marriage and Divorce Laws|Marriage and Divorce Laws]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 24
+book/chapter: "[[Deut.24|Deuteronomy 24]]"
+chronological_order: 220
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3947G]]"
+- "[[H0376G]]"
+- "[[H0802H]]"
+- "[[H9001]]"
+- "[[H1166I]]"
+- "[[H9034]]"
+- "[[H1961]]"
+- "[[H0518A]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H2580]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9023]]"
+- "[[H6172]]"
+- "[[H1697L]]"
+- "[[H3789]]"
+- "[[H9005]]"
+- "[[H5612A]]"
+- "[[H3748]]"
+- "[[H5414H]]"
+- "[[H3027G]]"
+- "[[H9024]]"
+- "[[H7971I]]"
+- "[[H9006]]"
+- "[[H1004B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 24:1**<big><big>[[Deut.24.1 Marriage and Divorce Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When a man hath taken a wife, and married her, and it come to pass that she find no favour in his eyes, because he hath found some uncleanness in her: then let him write her a bill of divorcement, and give [it] in her hand, and send her out of his house.
 <small><sub>**BSB:**</sub></small>
 If a man marries a woman, but she becomes displeasing to him because he finds some indecency in her, he may write her a certificate of divorce, hand it to her, and send her away from his house.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3947G\|יִקַּ֥ח]] [[H0376G\|אִ֛ישׁ]] [[H0802H\|אִשָּׁ֖ה]] [[H9001\|וּ]][[H1166I\|בְעָלָ֑]][[H9034\|הּ]] [[H9001\|וְ]][[H1961\|הָיָ֞ה]] [[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֧א]] [[H4672\|תִמְצָא]][[H9014\|־]] [[H2580\|חֵ֣ן]] [[H9003\|בְּ]][[H5869I\|עֵינָ֗י]][[H9023\|ו]] [[H3588A\|כִּי]][[H9014\|־]] [[H4672\|מָ֤צָא]] [[H9003\|בָ]][[H9034\|הּ֙]] [[H6172\|עֶרְוַ֣ת]] [[H1697L\|דָּבָ֔ר]] [[H9001\|וְ]][[H3789\|כָ֨תַב]] [[H9005\|לָ֜]][[H9034\|הּ]] [[H5612A\|סֵ֤פֶר]] [[H3748\|כְּרִיתֻת֙]] [[H9001\|וְ]][[H5414H\|נָתַ֣ן]] [[H9003\|בְּ]][[H3027G\|יָדָ֔]][[H9024\|הּ]] [[H9001\|וְ]][[H7971I\|שִׁלְּחָ֖]][[H9034\|הּ]] [[H9006\|מִ]][[H1004B\|בֵּיתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIVORCE|DIVORCE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.24.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.25|<< Deuteronomy 23:25]]</td><td align="center" style="border:none;">[[Deut.24|Deuteronomy 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24.2|Deuteronomy 24:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,74 @@
+---
+title: Numbers 9:5
+type: Verse
+kjv: "And they kept the passover on the fourteenth day of the first month at even in the wilderness of Sinai: according to all that the LORD commanded Moses, so did the children of Israel."
+bsb: "and they did so in the Wilderness of Sinai, at twilight on the fourteenth day of the first month. The Israelites did everything just as the LORD had commanded Moses."
+hebrew: "וַיַּעֲשׂ֣וּ אֶת־ הַפֶּ֡סַח בָּרִאשׁ֡וֹן בְּאַרְבָּעָה֩ עָשָׂ֨ר י֥וֹם לַחֹ֛דֶשׁ בֵּ֥ין הָעַרְבַּ֖יִם בְּמִדְבַּ֣ר סִינָ֑י כְּ֠כֹל אֲשֶׁ֨ר צִוָּ֤ה יְהוָה֙ אֶת־ מֹשֶׁ֔ה כֵּ֥ן עָשׂ֖וּ בְּנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Num.9.1 The Second Passover|The Second Passover]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 9
+book/chapter: "[[Num.9|Numbers 9]]"
+chronological_order: 168
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SINAI|SINAI]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6453]]"
+- "[[H9003]]"
+- "[[H7223G]]"
+- "[[H0702]]"
+- "[[H6240]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H0996G]]"
+- "[[H6153]]"
+- "[[H4057B]]"
+- "[[H5514H]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H4872]]"
+- "[[H3651C]]"
+- "[[H6213A]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 9:5**<big><big>[[Num.9.1 The Second Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they kept the passover on the fourteenth day of the first month at even in the wilderness of Sinai: according to all that the LORD commanded Moses, so did the children of Israel.
 <small><sub>**BSB:**</sub></small>
 and they did so in the Wilderness of Sinai, at twilight on the fourteenth day of the first month. The Israelites did everything just as the LORD had commanded Moses.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּעֲשׂ֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6453\|פֶּ֡סַח]] [[H9003\|בָּ]][[H7223G\|רִאשׁ֡וֹן]] [[H9003\|בְּ]][[H0702\|אַרְבָּעָה֩]] [[H6240\|עָשָׂ֨ר]] [[H3117G\|י֥וֹם]] [[H9005\|לַ]][[H2320G\|חֹ֛דֶשׁ]] [[H0996G\|בֵּ֥ין]] [[H9009\|הָ]][[H6153\|עַרְבַּ֖יִם]] [[H9003\|בְּ]][[H4057B\|מִדְבַּ֣ר]] [[H5514H\|סִינָ֑י]] [[H9004\|כְּ֠]][[H3605\|כֹל]] [[H0834A\|אֲשֶׁ֨ר]] [[H6680\|צִוָּ֤ה]] [[H3068G\|יְהוָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H3651C\|כֵּ֥ן]] [[H6213A\|עָשׂ֖וּ]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic PASSOVER|PASSOVER]] • [[topic SINAI|SINAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.9.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9.4|<< Numbers 9:4]]</td><td align="center" style="border:none;">[[Num.9|Numbers 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.6|Numbers 9:6 >>]]</td></tr></table>
 

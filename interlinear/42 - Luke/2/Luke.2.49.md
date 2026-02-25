@@ -1,10 +1,63 @@
+---
+title: Luke 2:49
+type: Verse
+kjv: "And he said unto them, How is it that ye sought me? wist ye not that I must be about my Father’s business?"
+bsb: "“Why were you looking for Me?” He asked. “Did you not know that I had to be in My Father’s house?”"
+jesus_said: "How is it that ye sought me? wist ye not that I must be about my Father’s business?"
+greek: "Καὶ εἶπεν πρὸς αὐτούς· τί ὅτι ἐζητεῖτέ με; οὐκ ᾔδειτε ὅτι ἐν τοῖς τοῦ πατρός μου δεῖ εἶναί με;"
+pericope: "[[Luke.2.41 The Boy Jesus at the Temple|The Boy Jesus at the Temple]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DILIGENCE|DILIGENCE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MARY|MARY]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G3754H]]"
+- "[[G2212]]"
+- "[[G3165]]"
+- "[[G3756]]"
+- "[[G1492I]]"
+- "[[G3754G]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1163]]"
+- "[[G1511]]"
+texts:
+- NKO
+---
+
 **Luke 2:49**<big><big>[[Luke.2.41 The Boy Jesus at the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, How is it that ye sought me? wist ye not that I must be about my Father’s business?
 <small><sub>**BSB:**</sub></small>
 “Why were you looking for Me?” He asked. “Did you not know that I had to be in My Father’s house?”
-<small><sub>**Literal:**</sub></small>
-And He said to them; Why [is it] for you were seeking Me? Surely you knew that in the [house] of the Father of Mine it behooves to be Me?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.48|<< Luke 2:48]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.50|Luke 2:50 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς·]]  [[G5101\|τί]]  [[G3754H\|ὅτι]]  [[G2212\|ἐζητεῖτέ]]  [[G3165\|με;]]  [[G3756\|οὐκ]]  [[G1492I\|ᾔδειτε]]  [[G3754G\|ὅτι]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3588\|τοῦ]]  [[G3962\|πατρός]]  [[G3165\|μου]]  [[G1163\|δεῖ]]  [[G1511\|εἶναί]]  [[G3165\|με;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DILIGENCE|DILIGENCE]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic MARY|MARY]] • [[topic PASSOVER|PASSOVER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.48|<< Luke 2:48]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.50|Luke 2:50 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

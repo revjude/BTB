@@ -1,10 +1,64 @@
+---
+title: Matthew 22:12
+type: Verse
+kjv: "And he saith unto him, Friend, how camest thou in hither not having a wedding garment? And he was speechless."
+bsb: "‘Friend,’ he asked, ‘how did you get in here without wedding clothes?’ But the man was speechless."
+jesus_said: "And he saith unto him, Friend, how camest thou in hither not having a wedding garment? And he was speechless."
+greek: "καὶ λέγει αὐτῷ· ἑταῖρε, πῶς εἰσῆλθες ὧδε μὴ ἔχων ἔνδυμα γάμου; ὁ δὲ ἐφιμώθη."
+pericope: "[[Matt.22.1 The Parable of the Banquet|The Parable of the Banquet]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 22
+book/chapter: "[[Matt.22|Matthew 22]]"
+chronological_order: 993
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G2083]]"
+- "[[G4459]]"
+- "[[G1525]]"
+- "[[G5602]]"
+- "[[G3361]]"
+- "[[G2192]]"
+- "[[G1742]]"
+- "[[G1062]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G5392]]"
+texts:
+- NKO
+---
+
 **Matthew 22:12**<big><big>[[Matt.22.1 The Parable of the Banquet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he saith unto him, Friend, how camest thou in hither not having a wedding garment? And he was speechless.
 <small><sub>**BSB:**</sub></small>
 ‘Friend,’ he asked, ‘how did you get in here without wedding clothes?’ But the man was speechless.
-<small><sub>**Literal:**</sub></small>
-and he says to him; Friend, how did you enter here not having garment of wedding? <the> And he was speechless.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.11|<< Matthew 22:11]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.13|Matthew 22:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ·]]  [[G2083\|ἑταῖρε,]]  [[G4459\|πῶς]]  [[G1525\|εἰσῆλθες]]  [[G5602\|ὧδε]]  [[G3361\|μὴ]]  [[G2192\|ἔχων]]  [[G1742\|ἔνδυμα]]  [[G1062\|γάμου;]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G5392\|ἐφιμώθη.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FEASTS|FEASTS]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic MARRIAGE|MARRIAGE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.11|<< Matthew 22:11]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.13|Matthew 22:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,57 @@
+---
+title: Acts 17:17
+type: Verse
+kjv: "Therefore disputed he in the synagogue with the Jews, and with the devout persons, and in the market daily with them that met with him."
+bsb: "So he reasoned in the synagogue with the Jews and God-fearing Gentiles, and in the marketplace with those he met each day."
+greek: "διελέγετο μὲν οὖν ἐν τῇ συναγωγῇ τοῖς Ἰουδαίοις καὶ τοῖς σεβομένοις καὶ ἐν τῇ ἀγορᾷ κατὰ πᾶσαν ἡμέραν πρὸς τοὺς παρατυγχάνοντας·"
+pericope: "[[Acts.17.16 Paul in Athens|Paul in Athens]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 17
+book/chapter: "[[Acts.17|Acts 17]]"
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ATHENS|ATHENS]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1256]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4864]]"
+- "[[G2453]]"
+- "[[G2532]]"
+- "[[G4576]]"
+- "[[G0058]]"
+- "[[G2596]]"
+- "[[G3956]]"
+- "[[G2250]]"
+- "[[G4314]]"
+- "[[G3909]]"
+texts:
+- NKO
+---
+
 **Acts 17:17**<big><big>[[Acts.17.16 Paul in Athens|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore disputed he in the synagogue with the Jews, and with the devout persons, and in the market daily with them that met with him.
 <small><sub>**BSB:**</sub></small>
 So he reasoned in the synagogue with the Jews and God-fearing Gentiles, and in the marketplace with those he met each day.
-<small><sub>**Literal:**</sub></small>
-He was reasoning indeed therefore in the synagogue with the Jews and with those worshiping and in the marketplace on every day with those meeting [him];<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.16|<< Acts 17:16]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.18|Acts 17:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1256\|διελέγετο]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4864\|συναγωγῇ]]  [[G3588\|τοῖς]]  [[G2453\|Ἰουδαίοις]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G4576\|σεβομένοις]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0058\|ἀγορᾷ]]  [[G2596\|κατὰ]]  [[G3956\|πᾶσαν]]  [[G2250\|ἡμέραν]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G3909\|παρατυγχάνοντας·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATHENS|ATHENS]] • [[topic GENTILES|GENTILES]] • [[topic PAUL|PAUL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.16|<< Acts 17:16]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.18|Acts 17:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

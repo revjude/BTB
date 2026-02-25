@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Preach the Word
+type: Pericope
 pericope: "[[2Tim.4.1 Preach the Word|Preach the Word]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: 2 Timothy
 chapter: 4
 book/chapter: "[[2Tim.4|2 Timothy 4]]"
-genre:
+chronological_order: 1156
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - testament letter
+verse_count: 8
 verses:
 - "[[2Tim.4.1]]"
 - "[[2Tim.4.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[2Tim.4.8]]"
 ---
 
-[[2Tim.4|2 Timothy 4:1 - 2 Timothy 4:8]]
+<small>[[2Tim.4|2 Timothy 4:1-8]]</small>
 *Preach the Word*
 
 [[2Tim.4.1|1]] I charge \[thee\] therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom;

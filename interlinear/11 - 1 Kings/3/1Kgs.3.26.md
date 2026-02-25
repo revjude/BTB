@@ -1,8 +1,85 @@
+---
+title: 1 Kings 3:26
+type: Verse
+kjv: "Then spake the woman whose the living child was unto the king, for her bowels yearned upon her son, and she said, O my lord, give her the living child, and in no wise slay it. But the other said, Let it be neither mine nor thine, but divide it."
+bsb: "Then the woman whose son was alive spoke to the king because she yearned with compassion for her son. “Please, my lord,” she said, “give her the living baby. Do not kill him!” But the other woman said, “He will be neither mine nor yours. Cut him in two!”"
+hebrew: "וַתֹּ֣אמֶר הָאִשָּׁה֩ אֲשֶׁר־ בְּנָ֨הּ הַחַ֜י אֶל־ הַמֶּ֗לֶךְ כִּֽי־ נִכְמְר֣וּ רַחֲמֶיהָ֮ עַל־ בְּנָהּ֒ וַתֹּ֣אמֶר׀ בִּ֣י אֲדֹנִ֗י תְּנוּ־ לָהּ֙ אֶת־ הַיָּל֣וּד הַחַ֔י וְהָמֵ֖ת אַל־ תְּמִיתֻ֑הוּ וְזֹ֣את אֹמֶ֗רֶת גַּם־ לִ֥י גַם־ לָ֛ךְ לֹ֥א יִהְיֶ֖ה גְּזֹֽרוּ׃"
+pericope: "[[1Kgs.3.16 Solomon Judges Wisely|Solomon Judges Wisely]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 3
+book/chapter: "[[1Kgs.3|1 Kings 3]]"
+chronological_order: 443
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ARBITRATION|ARBITRATION]]"
+- "[[topic BOWELS|BOWELS]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TACT|TACT]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9024]]"
+- "[[H2416A]]"
+- "[[H0413]]"
+- "[[H4428G]]"
+- "[[H3588A]]"
+- "[[H3648]]"
+- "[[H7356B]]"
+- "[[H5921A]]"
+- "[[H9015]]"
+- "[[H0994]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H0853]]"
+- "[[H3205]]"
+- "[[H9002]]"
+- "[[H4191]]"
+- "[[H0408]]"
+- "[[H9033]]"
+- "[[H2063]]"
+- "[[H1571]]"
+- "[[H9030]]"
+- "[[H9032]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H1504]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 3:26**<big><big>[[1Kgs.3.16 Solomon Judges Wisely|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then spake the woman whose the living child [was] unto the king, for her bowels yearned upon her son, and she said, O my lord, give her the living child, and in no wise slay it. But the other said, Let it be neither mine nor thine, [but] divide [it].
 <small><sub>**BSB:**</sub></small>
 Then the woman whose son was alive spoke to the king because she yearned with compassion for her son. “Please, my lord,” she said, “give her the living baby. Do not kill him!” But the other woman said, “He will be neither mine nor yours. Cut him in two!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]] [[H9009\|הָ]][[H0802G\|אִשָּׁה֩]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1121A\|בְּנָ֨]][[H9024\|הּ]] [[H9009\|הַ]][[H2416A\|חַ֜י]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3648\|נִכְמְר֣וּ]] [[H7356B\|רַחֲמֶי]][[H9024\|הָ֮]] [[H5921A\|עַל]][[H9014\|־]] [[H1121A\|בְּנָ]][[H9024\|הּ֒]] [[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]][[H9015\|׀]] [[H0994\|בִּ֣י]] [[H0113\|אֲדֹנִ֗]][[H9020\|י]] [[H5414G\|תְּנוּ]][[H9014\|־]] [[H9005\|לָ]][[H9034\|הּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3205\|יָּל֣וּד]] [[H9009\|הַ]][[H2416A\|חַ֔י]] [[H9002\|וְ]][[H4191\|הָמֵ֖ת]] [[H0408\|אַל]][[H9014\|־]] [[H4191\|תְּמִיתֻ֑]][[H9033\|הוּ]] [[H9002\|וְ]][[H2063\|זֹ֣את]] [[H0559\|אֹמֶ֗רֶת]] [[H1571\|גַּם]][[H9014\|־]] [[H9005\|לִ֥]][[H9030\|י]] [[H1571\|גַם]][[H9014\|־]] [[H9005\|לָ֛]][[H9032\|ךְ]] [[H3808\|לֹ֥א]] [[H1961\|יִהְיֶ֖ה]] [[H1504\|גְּזֹֽרוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARBITRATION|ARBITRATION]] • [[topic BOWELS|BOWELS]] • [[topic JUDGE|JUDGE]] • [[topic PARENTS|PARENTS]] • [[topic RULERS|RULERS]] • [[topic SOLOMON|SOLOMON]] • [[topic TACT|TACT]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.3.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.25|<< 1 Kings 3:25]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3.27|1 Kings 3:27 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: Genesis 17:15
+type: Verse
+kjv: "And God said unto Abraham, As for Sarai thy wife, thou shalt not call her name Sarai, but Sarah shall her name be."
+bsb: "Then God said to Abraham, “As for Sarai your wife, do not call her Sarai, for her name is to be Sarah."
+hebrew: "וַיֹּ֤אמֶר אֱלֹהִים֙ אֶל־ אַבְרָהָ֔ם שָׂרַ֣י אִשְׁתְּךָ֔ לֹא־ תִקְרָ֥א אֶת־ שְׁמָ֖הּ שָׂרָ֑י כִּ֥י שָׂרָ֖ה שְׁמָֽהּ׃"
+pericope: "[[Gen.17.9 The Covenant of Circumcision|The Covenant of Circumcision]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 17
+book/chapter: "[[Gen.17|Genesis 17]]"
+chronological_order: 59
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic NAME|NAME]]"
+- "[[topic SARAH|SARAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0430G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0085]]"
+- "[[H8297]]"
+- "[[H0802H]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H7121H]]"
+- "[[H0853]]"
+- "[[H8034]]"
+- "[[H9024]]"
+- "[[H3588A]]"
+- "[[H8283]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 17:15**<big><big>[[Gen.17.9 The Covenant of Circumcision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God said unto Abraham, As for Sarai thy wife, thou shalt not call her name Sarai, but Sarah [shall] her name [be].
 <small><sub>**BSB:**</sub></small>
 Then God said to Abraham, “As for Sarai your wife, do not call her Sarai, for her name is to be Sarah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0430G\|אֱלֹהִים֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0085\|אַבְרָהָ֔ם]] [[H8297\|שָׂרַ֣י]] [[H0802H\|אִשְׁתְּ]][[H9021\|ךָ֔]] [[H3808\|לֹא]][[H9014\|־]] [[H7121H\|תִקְרָ֥א]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמָ֖]][[H9024\|הּ]] [[H8297\|שָׂרָ֑י]] [[H3588A\|כִּ֥י]] [[H8283\|שָׂרָ֖ה]] [[H8034\|שְׁמָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BARRENNESS|BARRENNESS]] • [[topic COVENANT|COVENANT]] • [[topic ISAAC|ISAAC]] • [[topic NAME|NAME]] • [[topic SARAH|SARAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.17.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.17.14|<< Genesis 17:14]]</td><td align="center" style="border:none;">[[Gen.17|Genesis 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.17.16|Genesis 17:16 >>]]</td></tr></table>
 

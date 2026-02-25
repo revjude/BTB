@@ -1,8 +1,83 @@
+---
+title: Genesis 37:25
+type: Verse
+kjv: "And they sat down to eat bread: and they lifted up their eyes and looked, and, behold, a company of Ishmeelites came from Gilead with their camels bearing spicery and balm and myrrh, going to carry it down to Egypt."
+bsb: "And as they sat down to eat a meal, they looked up and saw a caravan of Ishmaelites coming from Gilead. Their camels were carrying spices, balm, and myrrh on their way down to Egypt."
+hebrew: "וַיֵּשְׁבוּ֮ לֶֽאֱכָל־ לֶחֶם֒ וַיִּשְׂא֤וּ עֵֽינֵיהֶם֙ וַיִּרְא֔וּ וְהִנֵּה֙ אֹרְחַ֣ת יִשְׁמְעֵאלִ֔ים בָּאָ֖ה מִגִּלְעָ֑ד וּגְמַלֵּיהֶ֣ם נֹֽשְׂאִ֗ים נְכֹאת֙ וּצְרִ֣י וָלֹ֔ט הוֹלְכִ֖ים לְהוֹרִ֥יד מִצְרָֽיְמָה׃"
+pericope: "[[Gen.37.12 Joseph Sold into Egypt|Joseph Sold into Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 37
+book/chapter: "[[Gen.37|Genesis 37]]"
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BALM|BALM]]"
+- "[[topic CAMEL|CAMEL]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EXPORTS|EXPORTS]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic IMPORTS|IMPORTS]]"
+- "[[topic ISHMAELITES|ISHMAELITES]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MIDIANITES|MIDIANITES]]"
+- "[[topic MYRRH|MYRRH]]"
+- "[[topic REUBEN|REUBEN]]"
+- "[[topic SPICES|SPICES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H9005]]"
+- "[[H0398]]"
+- "[[H9014]]"
+- "[[H3899G]]"
+- "[[H5375M]]"
+- "[[H5869H]]"
+- "[[H9028]]"
+- "[[H7200G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0736]]"
+- "[[H3459]]"
+- "[[H0935G]]"
+- "[[H9006]]"
+- "[[H1568G]]"
+- "[[H1581]]"
+- "[[H5375H]]"
+- "[[H5219]]"
+- "[[H6875]]"
+- "[[H3910]]"
+- "[[H1980M]]"
+- "[[H3381]]"
+- "[[H4714G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 37:25**<big><big>[[Gen.37.12 Joseph Sold into Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they sat down to eat bread: and they lifted up their eyes and looked, and, behold, a company of Ishmeelites came from Gilead with their camels bearing spicery and balm and myrrh, going to carry [it] down to Egypt.
 <small><sub>**BSB:**</sub></small>
 And as they sat down to eat a meal, they looked up and saw a caravan of Ishmaelites coming from Gilead. Their camels were carrying spices, balm, and myrrh on their way down to Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3427\|יֵּשְׁבוּ֮]] [[H9005\|לֶֽ]][[H0398\|אֱכָל]][[H9014\|־]] [[H3899G\|לֶחֶם֒]] [[H9001\|וַ]][[H5375M\|יִּשְׂא֤וּ]] [[H5869H\|עֵֽינֵי]][[H9028\|הֶם֙]] [[H9001\|וַ]][[H7200G\|יִּרְא֔וּ]] [[H9002\|וְ]][[H2009\|הִנֵּה֙]] [[H0736\|אֹרְחַ֣ת]] [[H3459\|יִשְׁמְעֵאלִ֔ים]] [[H0935G\|בָּאָ֖ה]] [[H9006\|מִ]][[H1568G\|גִּלְעָ֑ד]] [[H9002\|וּ]][[H1581\|גְמַלֵּי]][[H9028\|הֶ֣ם]] [[H5375H\|נֹֽשְׂאִ֗ים]] [[H5219\|נְכֹאת֙]] [[H9002\|וּ]][[H6875\|צְרִ֣י]] [[H9002\|וָ]][[H3910\|לֹ֔ט]] [[H1980M\|הוֹלְכִ֖ים]] [[H9005\|לְ]][[H3381\|הוֹרִ֥יד]] [[H4714G\|מִצְרָֽיְמָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALM|BALM]] • [[topic CAMEL|CAMEL]] • [[topic COMMERCE|COMMERCE]] • [[topic EGYPT|EGYPT]] • [[topic EXPORTS|EXPORTS]] • [[topic GILEAD|GILEAD]] • [[topic IMPORTS|IMPORTS]] • [[topic ISHMAELITES|ISHMAELITES]] • [[topic JEALOUSY|JEALOUSY]] • [[topic JOSEPH|JOSEPH]] • [[topic MIDIANITES|MIDIANITES]] • [[topic MYRRH|MYRRH]] • [[topic REUBEN|REUBEN]] • [[topic SPICES|SPICES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.24|<< Genesis 37:24]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.26|Genesis 37:26 >>]]</td></tr></table>
 

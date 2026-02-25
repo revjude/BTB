@@ -1,10 +1,58 @@
+---
+title: Romans 15:31
+type: Verse
+kjv: "That I may be delivered from them that do not believe in Judaea; and that my service which I have for Jerusalem may be accepted of the saints;"
+bsb: "Pray that I may be delivered from the unbelievers in Judea, and that my service in Jerusalem may be acceptable to the saints there,"
+greek: "ἵνα ῥυσθῶ ἀπὸ τῶν ἀπειθούντων ἐν τῇ Ἰουδαίᾳ καὶ ἵνα ἡ διακονία μου ἡ εἰς Ἰερουσαλὴμ εὐπρόσδεκτος τοῖς ἁγίοις γένηται,"
+pericope: "[[Rom.15.23 Paul’s Travel Plans|Paul’s Travel Plans]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 15
+book/chapter: "[[Rom.15|Romans 15]]"
+chronological_order: 1101
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2443]]"
+- "[[G4506]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G0544]]"
+- "[[G1722]]"
+- "[[G2449]]"
+- "[[G2532]]"
+- "[[G1248]]"
+- "[[G3165]]"
+- "[[G1519]]"
+- "[[G2419]]"
+- "[[G2144]]"
+- "[[G0040H]]"
+- "[[G1096]]"
+texts:
+- NKO
+- K
+---
+
 **Romans 15:31**<big><big>[[Rom.15.23 Paul’s Travel Plans|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That I may be delivered from them that do not believe in Judaea; and that my service which [I have] for Jerusalem may be accepted of the saints;
 <small><sub>**BSB:**</sub></small>
 Pray that I may be delivered from the unbelievers in Judea, and that my service in Jerusalem may be acceptable to the saints there,
-<small><sub>**Literal:**</sub></small>
-so that I may be delivered from those refusing to be persuaded in <the> Judea and so that the service of mine which [is] in Jerusalem acceptable to the saints may become<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.30|<< Romans 15:30]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.32|Romans 15:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G4506\|ῥυσθῶ]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G0544\|ἀπειθούντων]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2449\|Ἰουδαίᾳ]]  [[G2532\|καὶ]]  [[G2443\|ἵνα]]  [[G3588\|ἡ]]  [[G1248\|διακονία]]  [[G3165\|μου]]  [[G3588\|ἡ]]  [[G1519\|εἰς]]  [[G2419\|Ἰερουσαλὴμ]]  [[G2144\|εὐπρόσδεκτος]]  [[G3588\|τοῖς]]  [[G0040H\|ἁγίοις]]  [[G1096\|γένηται,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic UNBELIEF|UNBELIEF]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.30|<< Romans 15:30]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.32|Romans 15:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,65 @@
+---
+title: Malachi 4:4
+type: Verse
+kjv: "Remember ye the law of Moses my servant, which I commanded unto him in Horeb for all Israel, with the statutes and judgments."
+bsb: "“Remember the law of My servant Moses, the statutes and ordinances I commanded him for all Israel at Horeb."
+hebrew: "זִכְר֕וּ תּוֹרַ֖ת מֹשֶׁ֣ה עַבְדִּ֑י אֲשֶׁר֩ צִוִּ֨יתִי אוֹת֤וֹ בְחֹרֵב֙ עַל־ כָּל־ יִשְׂרָאֵ֔ל חֻקִּ֖ים וּמִשְׁפָּטִֽים׃"
+pericope: "[[Mal.4.1 The Day of the LORD|The Day of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 4
+book/chapter: "[[Mal.4|Malachi 4]]"
+chronological_order: 929
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic HOREB|HOREB]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MALACHI|MALACHI]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic ORDINANCE|ORDINANCE]]"
+- "[[topic SINAI|SINAI]]"
+strongs:
+- "[[H2142]]"
+- "[[H8451]]"
+- "[[H4872]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H2722]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H2706G]]"
+- "[[H9002]]"
+- "[[H4941G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 4:4**<big><big>[[Mal.4.1 The Day of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember ye the law of Moses my servant, which I commanded unto him in Horeb for all Israel, [with] the statutes and judgments.
 <small><sub>**BSB:**</sub></small>
 “Remember the law of My servant Moses, the statutes and ordinances I commanded him for all Israel at Horeb.
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|זִכְר֕וּ]] [[H8451\|תּוֹרַ֖ת]] [[H4872\|מֹשֶׁ֣ה]] [[H5650\|עַבְדִּ֑]][[H9020\|י]] [[H0834A\|אֲשֶׁר֩]] [[H6680\|צִוִּ֨יתִי]] [[H0853\|אוֹת֤]][[H9033\|וֹ]] [[H9003\|בְ]][[H2722\|חֹרֵב֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H2706G\|חֻקִּ֖ים]] [[H9002\|וּ]][[H4941G\|מִשְׁפָּטִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOREB|HOREB]] • [[topic LAW|LAW]] • [[topic MALACHI|MALACHI]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic ORDINANCE|ORDINANCE]] • [[topic SINAI|SINAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.4.3|<< Malachi 4:3]]</td><td align="center" style="border:none;">[[Mal.4|Malachi 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.4.5|Malachi 4:5 >>]]</td></tr></table>
 

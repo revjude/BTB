@@ -1,8 +1,60 @@
+---
+title: 1 Chronicles 2:25
+type: Verse
+kjv: "And the sons of Jerahmeel the firstborn of Hezron were, Ram the firstborn, and Bunah, and Oren, and Ozem, and Ahijah."
+bsb: "The sons of Jerahmeel the firstborn of Hezron: Ram his firstborn, Bunah, Oren, Ozem, and Ahijah."
+hebrew: "וַיִּהְי֧וּ בְנֵי־ יְרַחְמְאֵ֛ל בְּכ֥וֹר חֶצְר֖וֹן הַבְּכ֣וֹר׀ רָ֑ם וּבוּנָ֥ה וָאֹ֛רֶן וָאֹ֖צֶם אֲחִיָּֽה׃"
+pericope: "[[1Chr.2.1 The Sons of Israel|The Sons of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 2
+book/chapter: "[[1Chr.2|1 Chronicles 2]]"
+chronological_order: 321
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AHIJAH|AHIJAH]]"
+- "[[topic BUNAH|BUNAH]]"
+- "[[topic OREN|OREN]]"
+- "[[topic OZEM|OZEM]]"
+- "[[topic RAM|RAM]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3396G]]"
+- "[[H1060]]"
+- "[[H2696H]]"
+- "[[H9009]]"
+- "[[H9015]]"
+- "[[H7410H]]"
+- "[[H9002]]"
+- "[[H0946]]"
+- "[[H0767]]"
+- "[[H0684H]]"
+- "[[H0281J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 2:25**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Jerahmeel the firstborn of Hezron were, Ram the firstborn, and Bunah, and Oren, and Ozem, [and] Ahijah.
 <small><sub>**BSB:**</sub></small>
 The sons of Jerahmeel the firstborn of Hezron: Ram his firstborn, Bunah, Oren, Ozem, and Ahijah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יִּהְי֧וּ]] [[H1121A\|בְנֵי]][[H9014\|־]] [[H3396G\|יְרַחְמְאֵ֛ל]] [[H1060\|בְּכ֥וֹר]] [[H2696H\|חֶצְר֖וֹן]] [[H9009\|הַ]][[H1060\|בְּכ֣וֹר]][[H9015\|׀]] [[H7410H\|רָ֑ם]] [[H9002\|וּ]][[H0946\|בוּנָ֥ה]] [[H9002\|וָ]][[H0767\|אֹ֛רֶן]] [[H9002\|וָ]][[H0684H\|אֹ֖צֶם]] [[H0281J\|אֲחִיָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIJAH|AHIJAH]] • [[topic BUNAH|BUNAH]] • [[topic OREN|OREN]] • [[topic OZEM|OZEM]] • [[topic RAM|RAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.24|<< 1 Chronicles 2:24]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.26|1 Chronicles 2:26 >>]]</td></tr></table>
 

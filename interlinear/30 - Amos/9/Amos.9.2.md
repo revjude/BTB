@@ -1,8 +1,64 @@
+---
+title: Amos 9:2
+type: Verse
+kjv: "Though they dig into hell, thence shall mine hand take them; though they climb up to heaven, thence will I bring them down:"
+bsb: "Though they dig down to Sheol, from there My hand will take them; and though they climb up to heaven, from there I will pull them down."
+hebrew: "אִם־ יַחְתְּר֣וּ בִשְׁא֔וֹל מִשָּׁ֖ם יָדִ֣י תִקָּחֵ֑ם וְאִֽם־ יַעֲלוּ֙ הַשָּׁמַ֔יִם מִשָּׁ֖ם אוֹרִידֵֽם׃"
+pericope: "[[Amos.9.1 The Destruction of Israel|The Destruction of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 9
+book/chapter: "[[Amos.9|Amos 9]]"
+chronological_order: 606
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HELL|HELL]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SUICIDE|SUICIDE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H2864]]"
+- "[[H9003]]"
+- "[[H7585]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H3027H]]"
+- "[[H9020]]"
+- "[[H3947G]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H5927G]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H3381]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 9:2**<big><big>[[Amos.9.1 The Destruction of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though they dig into hell, thence shall mine hand take them; though they climb up to heaven, thence will I bring them down:
 <small><sub>**BSB:**</sub></small>
 Though they dig down to Sheol, from there My hand will take them; and though they climb up to heaven, from there I will pull them down.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H2864\|יַחְתְּר֣וּ]] [[H9003\|בִ]][[H7585\|שְׁא֔וֹל]] [[H9006\|מִ]][[H8033G\|שָּׁ֖ם]] [[H3027H\|יָדִ֣]][[H9020\|י]] [[H3947G\|תִקָּחֵ֑]][[H9038\|ם]] [[H9002\|וְ]][[H0518A\|אִֽם]][[H9014\|־]] [[H5927G\|יַעֲלוּ֙]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H9006\|מִ]][[H8033G\|שָּׁ֖ם]] [[H3381\|אוֹרִידֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HELL|HELL]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SIN|SIN]] • [[topic SUICIDE|SUICIDE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.9.1|<< Amos 9:1]]</td><td align="center" style="border:none;">[[Amos.9|Amos 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.9.3|Amos 9:3 >>]]</td></tr></table>
 

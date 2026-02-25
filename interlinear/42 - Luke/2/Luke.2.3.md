@@ -1,10 +1,56 @@
+---
+title: Luke 2:3
+type: Verse
+kjv: "And all went to be taxed, every one into his own city."
+bsb: "And everyone went to his own town to register."
+greek: "καὶ ἐπορεύοντο πάντες ἀπογράφεσθαι, ἕκαστος εἰς τὴν ἑαυτοῦ πόλιν."
+pericope: "[[Luke.2.1 The Birth of Jesus|The Birth of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic SYRIA|SYRIA]]"
+- "[[topic TAX|TAX]]"
+- "[[topic TRIBUTE (TAXES)|TRIBUTE (TAXES)]]"
+strongs:
+- "[[G2532]]"
+- "[[G4198]]"
+- "[[G3956]]"
+- "[[G0583]]"
+- "[[G1538]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1438]]"
+- "[[G4172]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 2:3**<big><big>[[Luke.2.1 The Birth of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And all went to be taxed, every one into his own city.
 <small><sub>**BSB:**</sub></small>
 And everyone went to his own town to register.
-<small><sub>**Literal:**</sub></small>
-And were going all to be registered, each to the their own city.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.2|<< Luke 2:2]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.4|Luke 2:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4198\|ἐπορεύοντο]]  [[G3956\|πάντες]]  [[G0583\|ἀπογράφεσθαι,]]  [[G1538\|ἕκαστος]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1438\|ἑαυτοῦ]]  [[G4172\|πόλιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CENSUS|CENSUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic SYRIA|SYRIA]] • [[topic TAX|TAX]] • [[topic TRIBUTE (TAXES)|TRIBUTE (TAXES)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.2|<< Luke 2:2]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.4|Luke 2:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

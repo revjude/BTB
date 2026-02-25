@@ -1,10 +1,66 @@
+---
+title: Luke 10:38
+type: Verse
+kjv: "Now it came to pass, as they went, that he entered into a certain village: and a certain woman named Martha received him into her house."
+bsb: "As they traveled along, Jesus entered a village where a woman named Martha welcomed Him into her home."
+greek: "Ἐγένετο ἐν δὲ τῷ πορεύεσθαι αὐτοὺς καὶ αὐτὸς εἰσῆλθεν εἰς κώμην τινά. γυνὴ δέ τις ὀνόματι Μάρθα ὑπεδέξατο αὐτόν εἰς τὸν οἶκον αὐτῆς"
+pericope: "[[Luke.10.38 Martha and Mary|Martha and Mary]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 10
+book/chapter: "[[Luke.10|Luke 10]]"
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BETHANY|BETHANY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARTHA|MARTHA]]"
+- "[[topic MARY|MARY]]"
+strongs:
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4198]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G2968]]"
+- "[[G5100]]"
+- "[[G1135G]]"
+- "[[G3686]]"
+- "[[G3136]]"
+- "[[G5264]]"
+- "[[G3624G]]"
+texts:
+- K
+- NKO
+- ko
+- k(o)
+---
+
 **Luke 10:38**<big><big>[[Luke.10.38 Martha and Mary|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now it came to pass, as they went, that he entered into a certain village: and a certain woman named Martha received him into her house.
 <small><sub>**BSB:**</sub></small>
 As they traveled along, Jesus entered a village where a woman named Martha welcomed Him into her home.
-<small><sub>**Literal:**</sub></small>
-it came to pass In now the proceeding of them and He himself entered into a village certain. a woman now certain named Martha received Him into the house of her<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.37|<< Luke 10:37]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.39|Luke 10:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Ἐγένετο]]  [[G1722\|ἐν]]  [[G1161\|δὲ]]  [[G3588\|τῷ]]  [[G4198\|πορεύεσθαι]]  [[G0846\|αὐτοὺς]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G1525\|εἰσῆλθεν]]  [[G1519\|εἰς]]  [[G2968\|κώμην]]  [[G5100\|τινά.]]  [[G1135G\|γυνὴ]]  [[G1161\|δέ]]  [[G5100\|τις]]  [[G3686\|ὀνόματι]]  [[G3136\|Μάρθα]]  [[G5264\|ὑπεδέξατο]]  [[G0846\|αὐτόν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3624G\|οἶκον]]  [[G0846\|αὐτῆς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHANY|BETHANY]] • [[topic FAITH|FAITH]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARTHA|MARTHA]] • [[topic MARY|MARY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.37|<< Luke 10:37]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.39|Luke 10:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

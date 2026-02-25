@@ -1,10 +1,58 @@
+---
+title: John 18:21
+type: Verse
+kjv: "Why askest thou me? ask them which heard me, what I have said unto them: behold, they know what I said."
+bsb: "Why are you asking Me? Ask those who heard My message. Surely they know what I said.”"
+jesus_said: "Why askest thou me? ask them which heard me, what I have said unto them: behold, they know what I said."
+greek: "τί με ἐρωτᾷς; ἐρώτησον τοὺς ἀκηκοότας τί ἐλάλησα αὐτοῖς. ἴδε οὗτοι οἴδασιν ἃ εἶπον ἐγώ."
+pericope: "[[John.18.19 Jesus before the High Priest|Jesus before the High Priest]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G5101]]"
+- "[[G3165]]"
+- "[[G2065]]"
+- "[[G3588]]"
+- "[[G0191]]"
+- "[[G2980]]"
+- "[[G0846]]"
+- "[[G2396]]"
+- "[[G3778]]"
+- "[[G6063]]"
+- "[[G3739]]"
+- "[[G2036]]"
+- "[[G1473]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 18:21**<big><big>[[John.18.19 Jesus before the High Priest|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Why askest thou me? ask them which heard me, what I have said unto them: behold, they know what I said.
 <small><sub>**BSB:**</sub></small>
 Why are you asking Me? Ask those who heard My message. Surely they know what I said.”
-<small><sub>**Literal:**</sub></small>
-Why Me do you ask? do ask those having heard what I spoke to them. behold they know what said I myself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.20|<< John 18:20]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.22|John 18:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τί]]  [[G3165\|με]]  [[G2065\|ἐρωτᾷς;]]  [[G2065\|ἐρώτησον]]  [[G3588\|τοὺς]]  [[G0191\|ἀκηκοότας]]  [[G5101\|τί]]  [[G2980\|ἐλάλησα]]  [[G0846\|αὐτοῖς.]]  [[G2396\|ἴδε]]  [[G3778\|οὗτοι]]  [[G6063\|οἴδασιν]]  [[G3739\|ἃ]]  [[G2036\|εἶπον]]  [[G1473\|ἐγώ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.20|<< John 18:20]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.22|John 18:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

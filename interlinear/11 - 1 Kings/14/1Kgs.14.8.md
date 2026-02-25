@@ -1,8 +1,80 @@
+---
+title: 1 Kings 14:8
+type: Verse
+kjv: "And rent the kingdom away from the house of David, and gave it thee: and yet thou hast not been as my servant David, who kept my commandments, and who followed me with all his heart, to do that only which was right in mine eyes;"
+bsb: "I tore the kingdom away from the house of David and gave it to you. But you have not been like My servant David, who kept My commandments and followed Me with all his heart, doing only what was right in My eyes."
+hebrew: "וָאֶקְרַ֤ע אֶת־ הַמַּמְלָכָה֙ מִבֵּ֣ית דָּוִ֔ד וָאֶתְּנֶ֖הָ לָ֑ךְ וְלֹֽא־ הָיִ֜יתָ כְּעַבְדִּ֣י דָוִ֗ד אֲשֶׁר֩ שָׁמַ֨ר מִצְוֹתַ֜י וַאֲשֶׁר־ הָלַ֤ךְ אַחֲרַי֙ בְּכָל־ לְבָב֔וֹ לַעֲשׂ֕וֹת רַ֖ק הַיָּשָׁ֥ר בְּעֵינָֽי׃"
+pericope: "[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|Ahijah’s Prophecy against Jeroboam]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 14
+book/chapter: "[[1Kgs.14|1 Kings 14]]"
+chronological_order: 553
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ABIJAH|ABIJAH]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H7167]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4467]]"
+- "[[H9006]]"
+- "[[H1004M]]"
+- "[[H1732]]"
+- "[[H5414G]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H8104G]]"
+- "[[H4687]]"
+- "[[H1980N]]"
+- "[[H0310A]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H3824]]"
+- "[[H9023]]"
+- "[[H6213A]]"
+- "[[H7535]]"
+- "[[H3477G]]"
+- "[[H5869I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 14:8**<big><big>[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And rent the kingdom away from the house of David, and gave it thee: and [yet] thou hast not been as my servant David, who kept my commandments, and who followed me with all his heart, to do [that] only [which was] right in mine eyes;
 <small><sub>**BSB:**</sub></small>
 I tore the kingdom away from the house of David and gave it to you. But you have not been like My servant David, who kept My commandments and followed Me with all his heart, doing only what was right in My eyes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H7167\|אֶקְרַ֤ע]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4467\|מַּמְלָכָה֙]] [[H9006\|מִ]][[H1004M\|בֵּ֣ית]] [[H1732\|דָּוִ֔ד]] [[H9001\|וָ]][[H5414G\|אֶתְּנֶ֖]][[H9034\|הָ]] [[H9005\|לָ֑]][[H9032\|ךְ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|הָיִ֜יתָ]] [[H9004\|כְּ]][[H5650\|עַבְדִּ֣]][[H9020\|י]] [[H1732\|דָוִ֗ד]] [[H0834A\|אֲשֶׁר֩]] [[H8104G\|שָׁמַ֨ר]] [[H4687\|מִצְוֹתַ֜]][[H9020\|י]] [[H9002\|וַ]][[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1980N\|הָלַ֤ךְ]] [[H0310A\|אַחֲרַ]][[H9030\|י֙]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3824\|לְבָב֔]][[H9023\|וֹ]] [[H9005\|לַ]][[H6213A\|עֲשׂ֕וֹת]] [[H7535\|רַ֖ק]] [[H9009\|הַ]][[H3477G\|יָּשָׁ֥ר]] [[H9003\|בְּ]][[H5869I\|עֵינָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIJAH|ABIJAH]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JEROBOAM|JEROBOAM]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.7|<< 1 Kings 14:7]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.9|1 Kings 14:9 >>]]</td></tr></table>
 

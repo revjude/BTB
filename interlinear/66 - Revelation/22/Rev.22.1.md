@@ -1,10 +1,65 @@
+---
+title: Revelation 22:1
+type: Verse
+kjv: "And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb."
+bsb: "Then the angel showed me a river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb"
+greek: "Καὶ ἔδειξέν μοι ποταμὸν καθαρὸν ὕδατος ζωῆς, λαμπρὸν ὡς κρύσταλλον, ἐκπορευόμενον ἐκ τοῦ θρόνου τοῦ θεοῦ καὶ τοῦ ἀρνίου."
+pericope: "[[Rev.22.1 The River of Life|The River of Life]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 22
+book/chapter: "[[Rev.22|Revelation 22]]"
+chronological_order: 1189
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CRYSTAL|CRYSTAL]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAMB OF GOD|LAMB OF GOD]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RIVER|RIVER]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1166]]"
+- "[[G3165]]"
+- "[[G4215]]"
+- "[[G2513]]"
+- "[[G5204]]"
+- "[[G2222]]"
+- "[[G2986]]"
+- "[[G5613]]"
+- "[[G2930]]"
+- "[[G1607]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G2362]]"
+- "[[G2316]]"
+- "[[G0721]]"
+texts:
+- NKO
+- K
+---
+
 **Revelation 22:1**<big><big>[[Rev.22.1 The River of Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb.
 <small><sub>**BSB:**</sub></small>
 Then the angel showed me a river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb
-<small><sub>**Literal:**</sub></small>
-And he showed me a river pure of water of life, clear as crystal, flowing out of the throne <the> of God and of the Lamb.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.27|<< Revelation 21:27]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.2|Revelation 22:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1166\|ἔδειξέν]]  [[G3165\|μοι]]  [[G4215\|ποταμὸν]]  [[G2513\|καθαρὸν]]  [[G5204\|ὕδατος]]  [[G2222\|ζωῆς,]]  [[G2986\|λαμπρὸν]]  [[G5613\|ὡς]]  [[G2930\|κρύσταλλον,]]  [[G1607\|ἐκπορευόμενον]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2362\|θρόνου]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G0721\|ἀρνίου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CRYSTAL|CRYSTAL]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAMB OF GOD|LAMB OF GOD]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RIVER|RIVER]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.27|<< Revelation 21:27]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.2|Revelation 22:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 22:1** is...
 > $\quad$ alluding to: [[LXX.Ezek.47.1|Ezek 47:1]] ☩ [[LXX.Ezek.47.7|Ezek 47:7]] ☩ [[LXX.Ezek.47.12|Ezek 47:12]] ☩ [[LXX.Zech.14.8|Zech 14:8]]

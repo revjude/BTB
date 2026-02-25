@@ -1,8 +1,75 @@
+---
+title: Ezekiel 39:11
+type: Verse
+kjv: "And it shall come to pass in that day, that I will give unto Gog a place there of graves in Israel, the valley of the passengers on the east of the sea: and it shall stop the noses of the passengers: and there shall they bury Gog and all his multitude: and they shall call it The valley of Hamongog."
+bsb: "And on that day I will give Gog a burial place in Israel, the Valley of the Travelers, east of the Sea. It will block those who travel through, because Gog and all his hordes will be buried there. So it will be called the Valley of Hamon-gog."
+hebrew: "וְהָיָ֣ה בַיּ֣וֹם הַה֡וּא אֶתֵּ֣ן לְגוֹג֩׀ מְקֽוֹם־ שָׁ֨ם קֶ֜בֶר בְּיִשְׂרָאֵ֗ל גֵּ֤י הָעֹֽבְרִים֙ קִדְמַ֣ת הַיָּ֔ם וְחֹסֶ֥מֶת הִ֖יא אֶת־ הָעֹֽבְרִ֑ים וְקָ֣בְרוּ שָׁ֗ם אֶת־ גּוֹג֙ וְאֶת־ כָּל־ הֲמוֹנ֔וֹ וְקָ֣רְא֔וּ גֵּ֖יא הֲמ֥וֹן גּֽוֹג׃"
+pericope: "[[Ezek.39.1 The Slaughter of Gog’s Armies|The Slaughter of Gog’s Armies]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 39
+book/chapter: "[[Ezek.39|Ezekiel 39]]"
+chronological_order: 830
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HAMON-GOG|HAMON-GOG]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H1463H]]"
+- "[[H9015]]"
+- "[[H4725]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H6913]]"
+- "[[H3478]]"
+- "[[H1516O]]"
+- "[[H5674G]]"
+- "[[H6926]]"
+- "[[H3220G]]"
+- "[[H9002]]"
+- "[[H2629]]"
+- "[[H0853]]"
+- "[[H5674A]]"
+- "[[H6912]]"
+- "[[H3605]]"
+- "[[H1995A]]"
+- "[[H9023]]"
+- "[[H7121G]]"
+- "[[H1516N]]"
+- "[[H1996]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 39:11**<big><big>[[Ezek.39.1 The Slaughter of Gog’s Armies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass in that day, [that] I will give unto Gog a place there of graves in Israel, the valley of the passengers on the east of the sea: and it shall stop the [noses] of the passengers: and there shall they bury Gog and all his multitude: and they shall call [it] The valley of Hamongog.
 <small><sub>**BSB:**</sub></small>
 And on that day I will give Gog a burial place in Israel, the Valley of the Travelers, east of the Sea. It will block those who travel through, because Gog and all his hordes will be buried there. So it will be called the Valley of Hamon-gog.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֣ה]] [[H9003\|בַ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֡וּא]] [[H5414G\|אֶתֵּ֣ן]] [[H9005\|לְ]][[H1463H\|גוֹג֩]][[H9015\|׀]] [[H4725\|מְקֽוֹם]][[H9014\|־]] [[H8033G\|שָׁ֨ם]] [[H6913\|קֶ֜בֶר]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֗ל]] [[H1516O\|גֵּ֤י]] [[H9009\|הָ]][[H5674G\|עֹֽבְרִים֙]] [[H6926\|קִדְמַ֣ת]] [[H9009\|הַ]][[H3220G\|יָּ֔ם]] [[H9002\|וְ]][[H2629\|חֹסֶ֥מֶת]] [[H1931\|הִ֖יא]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5674A\|עֹֽבְרִ֑ים]] [[H9001\|וְ]][[H6912\|קָ֣בְרוּ]] [[H8033G\|שָׁ֗ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1463H\|גּוֹג֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1995A\|הֲמוֹנ֔]][[H9023\|וֹ]] [[H9001\|וְ]][[H7121G\|קָ֣רְא֔וּ]] [[H1516N\|גֵּ֖יא]] [[H1996\|הֲמ֥וֹן]] [[H1996\|גּֽוֹג]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAMON-GOG|HAMON-GOG]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.10|<< Ezekiel 39:10]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.12|Ezekiel 39:12 >>]]</td></tr></table>
 
@@ -38,7 +105,7 @@ And on that day I will give Gog a burial place in Israel, the Valley of the Trav
 | Gog  |**<big>&#8207;[[H1996\|גּֽוֹג]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Gog<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.10|<< Ezekiel 39:10]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.12|Ezekiel 39:12 >>]]</td></tr></table>
 
-[^1]: multitude his  | **<big>[[H9023|ה]]</big><big>[[H1995A|הֲמוֹנֹ֔]]</big> ** | ha.mo.No<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: multitude his  | **<big>[[H9023|ה]]</big><big>[[H1995A|הֲמוֹנֹ֔]]</big> ** | ha.mo.No<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: multitude his  | **<big>[[H1995A|הֲמוֹנֹ֔]]</big><big>[[H9023|ה]]</big> ** | ha.mo.No<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: multitude his  | **<big>[[H1995A|הֲמוֹנֹ֔]]</big><big>[[H9023|ה]]</big> ** | ha.mo.No<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>הֲמוֹנֹ֔ה</big></span>**
 

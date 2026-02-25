@@ -1,8 +1,60 @@
+---
+title: Judges 20:38
+type: Verse
+kjv: "Now there was an appointed sign between the men of Israel and the liers in wait, that they should make a great flame with smoke rise up out of the city."
+bsb: "The men of Israel had arranged a signal with the men in ambush: When they sent up a great cloud of smoke from the city,"
+hebrew: "וְהַמּוֹעֵ֗ד הָיָ֛ה לְאִ֥ישׁ יִשְׂרָאֵ֖ל עִם־ הָאֹרֵ֑ב הֶ֕רֶב לְהַעֲלוֹתָ֛ם מַשְׂאַ֥ת הֶעָשָׁ֖ן מִן־ הָעִֽיר׃"
+pericope: "[[Judg.20.18 Civil War against Benjamin|Civil War against Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMBUSH|AMBUSH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H4150J]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0376G]]"
+- "[[H3478]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H0693]]"
+- "[[H7235A]]"
+- "[[H5927G]]"
+- "[[H9038]]"
+- "[[H4864]]"
+- "[[H6227]]"
+- "[[H4480A]]"
+- "[[H5892B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:38**<big><big>[[Judg.20.18 Civil War against Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now there was an appointed sign between the men of Israel and the liers in wait, that they should make a great flame with smoke rise up out of the city.
 <small><sub>**BSB:**</sub></small>
 The men of Israel had arranged a signal with the men in ambush: When they sent up a great cloud of smoke from the city,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H4150J\|מּוֹעֵ֗ד]] [[H1961\|הָיָ֛ה]] [[H9005\|לְ]][[H0376G\|אִ֥ישׁ]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H5973A\|עִם]][[H9014\|־]] [[H9009\|הָ]][[H0693\|אֹרֵ֑ב]] [[H7235A\|הֶ֕רֶב]] [[H9005\|לְ]][[H5927G\|הַעֲלוֹתָ֛]][[H9038\|ם]] [[H4864\|מַשְׂאַ֥ת]] [[H9009\|הֶ]][[H6227\|עָשָׁ֖ן]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBUSH|AMBUSH]] • [[topic ARMIES|ARMIES]] • [[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.37|<< Judges 20:37]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.39|Judges 20:39 >>]]</td></tr></table>
 

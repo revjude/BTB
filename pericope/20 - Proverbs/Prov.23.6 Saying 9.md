@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saying 9
+type: Pericope
 pericope: "[[Prov.23.6 Saying 9|Saying 9]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 23
 book/chapter: "[[Prov.23|Proverbs 23]]"
-genre:
+chronological_order: 478
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 3
 verses:
 - "[[Prov.23.6]]"
 - "[[Prov.23.7]]"
 - "[[Prov.23.8]]"
 ---
 
-[[Prov.23|Proverbs 23:6 - Proverbs 23:8]]
+<small>[[Prov.23|Proverbs 23:6-8]]</small>
 *Saying 9*
 
 [[Prov.23.6|6]] Eat thou not the bread of \[him that hath\] an evil eye, neither desire thou his dainty meats:

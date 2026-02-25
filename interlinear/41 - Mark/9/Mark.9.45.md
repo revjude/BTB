@@ -1,10 +1,66 @@
+---
+title: Mark 9:45
+type: Verse
+kjv: "And if thy foot offend thee, cut it off: it is better for thee to enter halt into life, than having two feet to be cast into hell, into the fire that never shall be quenched:"
+bsb: "If your foot causes you to sin, cut it off. It is better for you to enter life lame than to have two feet and be thrown into hell."
+jesus_said: "And if thy foot offend thee, cut it off: it is better for thee to enter halt into life, than having two feet to be cast into hell, into the fire that never shall be quenched:"
+greek: "καὶ ἐὰν ὁ πούς σου σκανδαλίζῃ σε, ἀπόκοψον αὐτόν· καλόν ἐστίν σε εἰσελθεῖν εἰς τὴν ζωὴν χωλὸν ἢ τοὺς δύο πόδας ἔχοντα βληθῆναι εἰς τὴν γέενναν εἰς τὸ πῦρ τὸ ἄσβεστον."
+pericope: "[[Mark.9.42 Temptations and Trespasses|Temptations and Trespasses]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic HELL|HELL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G3588]]"
+- "[[G4228]]"
+- "[[G4771]]"
+- "[[G4624]]"
+- "[[G0609]]"
+- "[[G0846]]"
+- "[[G2570G]]"
+- "[[G1510]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G2222]]"
+- "[[G5560]]"
+- "[[G2228]]"
+- "[[G1417]]"
+- "[[G2192]]"
+- "[[G0906G]]"
+- "[[G1067]]"
+- "[[G4442]]"
+- "[[G0762]]"
+texts:
+- NKO
+- N(k)O
+- KO
+---
+
 **Mark 9:45**<big><big>[[Mark.9.42 Temptations and Trespasses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if thy foot offend thee, cut it off: it is better for thee to enter halt into life, than having two feet to be cast into hell, into the fire that never shall be quenched:
 <small><sub>**BSB:**</sub></small>
 If your foot causes you to sin, cut it off. It is better for you to enter life lame than to have two feet and be thrown into hell.
-<small><sub>**Literal:**</sub></small>
-And if the foot of you shall cause to stumble you, do cut off it; better it is for you to enter into <the> life lame than the two feet having to be cast into <the> hell into <the> fire <the> unquenchable.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.44|<< Mark 9:44]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.46|Mark 9:46 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1437\|ἐὰν]]  [[G3588\|ὁ]]  [[G4228\|πούς]]  [[G4771\|σου]]  [[G4624\|σκανδαλίζῃ]]  [[G4771\|σε,]]  [[G0609\|ἀπόκοψον]]  [[G0846\|αὐτόν·]]  [[G2570G\|καλόν]]  [[G1510\|ἐστίν]]  [[G4771\|σε]]  [[G1525\|εἰσελθεῖν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2222\|ζωὴν]]  [[G5560\|χωλὸν]]  [[G2228\|ἢ]]  [[G3588\|τοὺς]]  [[G1417\|δύο]]  [[G4228\|πόδας]]  [[G2192\|ἔχοντα]]  [[G0906G\|βληθῆναι]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1067\|γέενναν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4442\|πῦρ]]  [[G3588\|τὸ]]  [[G0762\|ἄσβεστον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic HELL|HELL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.44|<< Mark 9:44]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.46|Mark 9:46 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

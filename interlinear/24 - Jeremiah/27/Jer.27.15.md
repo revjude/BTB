@@ -1,8 +1,69 @@
+---
+title: Jeremiah 27:15
+type: Verse
+kjv: "For I have not sent them, saith the LORD, yet they prophesy a lie in my name; that I might drive you out, and that ye might perish, ye, and the prophets that prophesy unto you."
+bsb: "For I have not sent them, declares the LORD, and yet they are prophesying falsely in My name; therefore I will banish you, and you will perish—you and the prophets who prophesy to you.”"
+hebrew: "כִּ֣י לֹ֤א שְׁלַחְתִּים֙ נְאֻם־ יְהוָ֔ה וְהֵ֛ם נִבְּאִ֥ים בִּשְׁמִ֖י לַשָּׁ֑קֶר לְמַ֨עַן הַדִּיחִ֤י אֶתְכֶם֙ וַאֲבַדְתֶּ֔ם אַתֶּ֕ם וְהַנְּבִאִ֖ים הַֽנִּבְּאִ֥ים לָכֶֽם׃"
+pericope: "[[Jer.27.1 The Yoke of Nebuchadnezzar|The Yoke of Nebuchadnezzar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 27
+book/chapter: "[[Jer.27|Jeremiah 27]]"
+chronological_order: 750
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H7971G]]"
+- "[[H9038]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H1992]]"
+- "[[H5012]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H8267]]"
+- "[[H4616]]"
+- "[[H5080]]"
+- "[[H9040]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9001]]"
+- "[[H0006]]"
+- "[[H0859D]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 27:15**<big><big>[[Jer.27.1 The Yoke of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I have not sent them, saith the LORD, yet they prophesy a lie in my name; that I might drive you out, and that ye might perish, ye, and the prophets that prophesy unto you.
 <small><sub>**BSB:**</sub></small>
 For I have not sent them, declares the LORD, and yet they are prophesying falsely in My name; therefore I will banish you, and you will perish—you and the prophets who prophesy to you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3808\|לֹ֤א]] [[H7971G\|שְׁלַחְתִּי]][[H9038\|ם֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H1992\|הֵ֛ם]] [[H5012\|נִבְּאִ֥ים]] [[H9003\|בִּ]][[H8034\|שְׁמִ֖]][[H9020\|י]] [[H9005\|לַ]][[H8267\|שָּׁ֑קֶר]] [[H4616\|לְמַ֨עַן]] [[H5080\|הַדִּיחִ֤]][[H9040\|י]] [[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H9001\|וַ]][[H0006\|אֲבַדְתֶּ֔ם]] [[H0859D\|אַתֶּ֕ם]] [[H9002\|וְ]][[H9009\|הַ]][[H5030\|נְּבִאִ֖ים]] [[H9009\|הַֽ]][[H5012\|נִּבְּאִ֥ים]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.27.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.27.14|<< Jeremiah 27:14]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.16|Jeremiah 27:16 >>]]</td></tr></table>
 

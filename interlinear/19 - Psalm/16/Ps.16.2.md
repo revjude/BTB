@@ -1,8 +1,55 @@
+---
+title: Psalm 16:2
+type: Verse
+kjv: "O my soul, thou hast said unto the LORD, Thou art my Lord: my goodness extendeth not to thee;"
+bsb: "I said to the LORD, “You are my Lord; apart from You I have no good thing.”"
+hebrew: "אָמַ֣רְתְּ לַֽ֭יהוָה אֲדֹנָ֣י אָ֑תָּה ט֝וֹבָתִ֗י בַּל־ עָלֶֽיךָ׃"
+pericope: "[[Ps.16.1 The Presence of the LORD|The Presence of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 16
+book/chapter: "[[Ps.16|Psalm 16]]"
+chronological_order: 350
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0136]]"
+- "[[H0859A]]"
+- "[[H2896C]]"
+- "[[H9020]]"
+- "[[H1077]]"
+- "[[H9014]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 16:2**<big><big>[[Ps.16.1 The Presence of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [O my soul], thou hast said unto the LORD, Thou [art] my Lord: my goodness [extendeth] not to thee;
 <small><sub>**BSB:**</sub></small>
 I said to the LORD, “You are my Lord; apart from You I have no good thing.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אָמַ֣רְתְּ]] [[H9005\|לַֽ֭]][[H3068G\|יהוָה]] [[H0136\|אֲדֹנָ֣י]] [[H0859A\|אָ֑תָּה]] [[H2896C\|ט֝וֹבָתִ֗]][[H9020\|י]] [[H1077\|בַּל]][[H9014\|־]] [[H5921A\|עָלֶֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.16.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.16.1|<< Psalms 16:1]]</td><td align="center" style="border:none;">[[Ps.16|Psalms 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.16.3|Psalms 16:3 >>]]</td></tr></table>
 

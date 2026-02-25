@@ -1,8 +1,74 @@
+---
+title: Daniel 2:10
+type: Verse
+kjv: "The Chaldeans answered before the king, and said, There is not a man upon the earth that can shew the king’s matter: therefore there is no king, lord, nor ruler, that asked such things at any magician, or astrologer, or Chaldean."
+bsb: "The astrologers answered the king, “No one on earth can do what the king requests! No king, however great and powerful, has ever asked anything like this of any magician, enchanter, or astrologer."
+aramaic: "עֲנ֨וֹ כַשְׂדָּאֵ֤י קֳדָם־ מַלְכָּא֙ וְאָ֣מְרִ֔ין לָֽא־ אִיתַ֤י אֲנָשׁ֙ עַל־ יַבֶּשְׁתָּ֔א דִּ֚י מִלַּ֣ת מַלְכָּ֔א יוּכַ֖ל לְהַחֲוָיָ֑ה כָּל־ קֳבֵ֗ל דִּ֚י כָּל־ מֶ֙לֶךְ֙ רַ֣ב וְשַׁלִּ֔יט מִלָּ֤ה כִדְנָה֙ לָ֣א שְׁאֵ֔ל לְכָל־ חַרְטֹּ֖ם וְאָשַׁ֥ף וְכַשְׂדָּֽי׃"
+pericope: "[[Dan.2.1 Nebuchadnezzar’s Troubling Dream|Nebuchadnezzar’s Troubling Dream]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MAGICIAN|MAGICIAN]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SORCERY|SORCERY]]"
+strongs:
+- "[[H6032]]"
+- "[[H3779]]"
+- "[[H9010]]"
+- "[[H9020]]"
+- "[[H6925]]"
+- "[[H9014]]"
+- "[[H4430]]"
+- "[[H9002]]"
+- "[[H0560]]"
+- "[[H3809]]"
+- "[[H0383]]"
+- "[[H0606]]"
+- "[[H5922]]"
+- "[[H3007]]"
+- "[[H1768]]"
+- "[[H4406]]"
+- "[[H3202]]"
+- "[[H9005]]"
+- "[[H2324]]"
+- "[[H9004]]"
+- "[[H6903H]]"
+- "[[H3606]]"
+- "[[H7229]]"
+- "[[H7990]]"
+- "[[H1836]]"
+- "[[H7593]]"
+- "[[H2749]]"
+- "[[H0826]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Daniel 2:10**<big><big>[[Dan.2.1 Nebuchadnezzar’s Troubling Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Chaldeans answered before the king, and said, There is not a man upon the earth that can shew the king’s matter: therefore [there is] no king, lord, nor ruler, [that] asked such things at any magician, or astrologer, or Chaldean.
 <small><sub>**BSB:**</sub></small>
 The astrologers answered the king, “No one on earth can do what the king requests! No king, however great and powerful, has ever asked anything like this of any magician, enchanter, or astrologer.
+<small><sub>**Aramaic:**</sub></small>
+[[H6032\|עֲנ֨וֹ]] [[H3779\|כַשְׂדָּ]][[H9020\|אֵ֤י]] [[H6925\|קֳדָם]][[H9014\|־]] [[H4430\|מַלְכָּ]][[H9010\|א֙]] [[H9002\|וְ]][[H0560\|אָ֣מְרִ֔ין]] [[H3809\|לָֽא]][[H9014\|־]] [[H0383\|אִיתַ֤י]] [[H0606\|אֲנָשׁ֙]] [[H5922\|עַל]][[H9014\|־]] [[H3007\|יַבֶּשְׁתָּ֔]][[H9010\|א]] [[H1768\|דִּ֚י]] [[H4406\|מִלַּ֣ת]] [[H4430\|מַלְכָּ֔]][[H9010\|א]] [[H3202\|יוּכַ֖ל]] [[H9005\|לְ]][[H2324\|הַחֲוָיָ֑ה]] [[H9004\|כָּ]][[H9005\|ל]][[H9014\|־]] [[H6903H\|קֳבֵ֗ל]] [[H1768\|דִּ֚י]] [[H3606\|כָּל]][[H9014\|־]] [[H4430\|מֶ֙לֶךְ֙]] [[H7229\|רַ֣ב]] [[H9002\|וְ]][[H7990\|שַׁלִּ֔יט]] [[H4406\|מִלָּ֤ה]] [[H9004\|כִ]][[H1836\|דְנָה֙]] [[H3809\|לָ֣א]] [[H7593\|שְׁאֵ֔ל]] [[H9005\|לְ]][[H3606\|כָל]][[H9014\|־]] [[H2749\|חַרְטֹּ֖ם]] [[H9002\|וְ]][[H0826\|אָשַׁ֥ף]] [[H9002\|וְ]][[H3779\|כַשְׂדָּֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic MAGICIAN|MAGICIAN]] • [[topic RULERS|RULERS]] • [[topic SORCERY|SORCERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.9|<< Daniel 2:9]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.11|Daniel 2:11 >>]]</td></tr></table>
 
@@ -40,7 +106,7 @@ The astrologers answered the king, “No one on earth can do what the king reque
 | and Chaldean  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3779\|כַשְׂדָּֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> khas.Dai<small><sup>[[HNgbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.9|<< Daniel 2:9]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.11|Daniel 2:11 >>]]</td></tr></table>
 
-[^1]: Chaldeans the  | **<big>[[H9010|א]]</big><big>[[H3779|כַשְׂדָּיֵ]]</big> ** | khas.da.ye<small><sup>[[ANgmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | K
-[^2]: Chaldeans the  | **<big>[[H9010|א]]</big><big>[[H3779|כַשְׂדָּיֵ]]</big> ** | khas.da.ye<small><sup>[[ANgmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | K
+[^1]: Chaldeans the  | **<big>[[H3779|כַשְׂדָּיֵ]]</big><big>[[H9010|א]]</big> ** | khas.da.ye<small><sup>[[ANgmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | K
+[^2]: Chaldeans the  | **<big>[[H3779|כַשְׂדָּיֵ]]</big><big>[[H9010|א]]</big> ** | khas.da.ye<small><sup>[[ANgmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>כַשְׂדָּיאֵ֤</big></span>**
 

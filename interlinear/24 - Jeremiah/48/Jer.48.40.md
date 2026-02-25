@@ -1,8 +1,58 @@
+---
+title: Jeremiah 48:40
+type: Verse
+kjv: "For thus saith the LORD; Behold, he shall fly as an eagle, and shall spread his wings over Moab."
+bsb: "For this is what the LORD says: “Behold, an eagle swoops down and spreads his wings against Moab."
+hebrew: "כִּי־ כֹה֙ אָמַ֣ר יְהוָ֔ה הִנֵּ֥ה כַנֶּ֖שֶׁר יִדְאֶ֑ה וּפָרַ֥שׂ כְּנָפָ֖יו אֶל־ מוֹאָֽב׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EAGLE|EAGLE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H2009]]"
+- "[[H9004]]"
+- "[[H5404]]"
+- "[[H1675]]"
+- "[[H9001]]"
+- "[[H6566]]"
+- "[[H3671]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H4124G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 48:40**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD; Behold, he shall fly as an eagle, and shall spread his wings over Moab.
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD says: “Behold, an eagle swoops down and spreads his wings against Moab.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H3541\|כֹה֙]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H2009\|הִנֵּ֥ה]] [[H9004\|כַ]][[H5404\|נֶּ֖שֶׁר]] [[H1675\|יִדְאֶ֑ה]] [[H9001\|וּ]][[H6566\|פָרַ֥שׂ]] [[H3671\|כְּנָפָ֖י]][[H9023\|ו]] [[H0413\|אֶל]][[H9014\|־]] [[H4124G\|מוֹאָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EAGLE|EAGLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.39|<< Jeremiah 48:39]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.41|Jeremiah 48:41 >>]]</td></tr></table>
 

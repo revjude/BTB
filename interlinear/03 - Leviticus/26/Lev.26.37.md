@@ -1,8 +1,77 @@
+---
+title: Leviticus 26:37
+type: Verse
+kjv: "And they shall fall one upon another, as it were before a sword, when none pursueth: and ye shall have no power to stand before your enemies."
+bsb: "They will stumble over one another as before the sword, though no one is behind them. So you will not be able to stand against your enemies."
+hebrew: "וְכָשְׁל֧וּ אִישׁ־ בְּאָחִ֛יו כְּמִפְּנֵי־ חֶ֖רֶב וְרֹדֵ֣ף אָ֑יִן וְלֹא־ תִֽהְיֶ֤ה לָכֶם֙ תְּקוּמָ֔ה לִפְנֵ֖י אֹֽיְבֵיכֶֽם׃"
+pericope: "[[Lev.26.14 Punishments for Disobedience|Punishments for Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H3782]]"
+- "[[H0376I]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H0251I]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H2719]]"
+- "[[H9002]]"
+- "[[H7291]]"
+- "[[H0369]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H8617]]"
+- "[[H0341]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 26:37**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall fall one upon another, as it were before a sword, when none pursueth: and ye shall have no power to stand before your enemies.
 <small><sub>**BSB:**</sub></small>
 They will stumble over one another as before the sword, though no one is behind them. So you will not be able to stand against your enemies.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3782\|כָשְׁל֧וּ]] [[H0376I\|אִישׁ]][[H9014\|־]] [[H9003\|בְּ]][[H0251I\|אָחִ֛י]][[H9023\|ו]] [[H9004\|כְּ]][[H9006\|מִ]][[H6440G\|פְּנֵי]][[H9014\|־]] [[H2719\|חֶ֖רֶב]] [[H9002\|וְ]][[H7291\|רֹדֵ֣ף]] [[H0369\|אָ֑יִן]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H1961\|תִֽהְיֶ֤ה]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H8617\|תְּקוּמָ֔ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H0341\|אֹֽיְבֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic COVENANT|COVENANT]] • [[topic COWARDICE|COWARDICE]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REWARD|REWARD]] • [[topic SIN|SIN]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.36|<< Leviticus 26:36]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.38|Leviticus 26:38 >>]]</td></tr></table>
 

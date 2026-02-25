@@ -1,10 +1,65 @@
+---
+title: Luke 16:15
+type: Verse
+kjv: "And he said unto them, Ye are they which justify yourselves before men; but God knoweth your hearts: for that which is highly esteemed among men is abomination in the sight of God."
+bsb: "So He said to them, “You are the ones who justify yourselves before men, but God knows your hearts. For what is prized among men is detestable before God."
+jesus_said: "Ye are they which justify yourselves before men; but God knoweth your hearts: for that which is highly esteemed among men is abomination in the sight of God."
+greek: "καὶ εἶπεν αὐτοῖς· ὑμεῖς ἐστε οἱ δικαιοῦντες ἑαυτοὺς ἐνώπιον τῶν ἀνθρώπων, ὁ δὲ θεὸς γινώσκει τὰς καρδίας ὑμῶν ὅτι τὸ ἐν ἀνθρώποις ὑψηλὸν βδέλυγμα ἐνώπιον τοῦ θεοῦ ἐστιν.¶"
+pericope: "[[Luke.16.14 The Law and the Prophets|The Law and the Prophets]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 16
+book/chapter: "[[Luke.16|Luke 16]]"
+chronological_order: 978
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G1344]]"
+- "[[G1438]]"
+- "[[G1799]]"
+- "[[G0444]]"
+- "[[G1161]]"
+- "[[G2316]]"
+- "[[G1097]]"
+- "[[G2588]]"
+- "[[G3754H]]"
+- "[[G1722]]"
+- "[[G5308]]"
+- "[[G0946]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 16:15**<big><big>[[Luke.16.14 The Law and the Prophets|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Ye are they which justify yourselves before men; but God knoweth your hearts: for that which is highly esteemed among men is abomination in the sight of God.
 <small><sub>**BSB:**</sub></small>
 So He said to them, “You are the ones who justify yourselves before men, but God knows your hearts. For what is prized among men is detestable before God.
-<small><sub>**Literal:**</sub></small>
-And He said to them; You yourselves are those justifying themselves before <the> men, <the> but God knows the hearts of you for that which among men [is] exalted an abomination before <the> God is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.14|<< Luke 16:14]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.16|Luke 16:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G4771\|ὑμεῖς]]  [[G1510\|ἐστε]]  [[G3588\|οἱ]]  [[G1344\|δικαιοῦντες]]  [[G1438\|ἑαυτοὺς]]  [[G1799\|ἐνώπιον]]  [[G3588\|τῶν]]  [[G0444\|ἀνθρώπων,]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2316\|θεὸς]]  [[G1097\|γινώσκει]]  [[G3588\|τὰς]]  [[G2588\|καρδίας]]  [[G4771\|ὑμῶν]]  [[G3754H\|ὅτι]]  [[G3588\|τὸ]]  [[G1722\|ἐν]]  [[G0444\|ἀνθρώποις]]  [[G5308\|ὑψηλὸν]]  [[G0946\|βδέλυγμα]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1510\|ἐστιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic SIN|SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.14|<< Luke 16:14]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.16|Luke 16:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

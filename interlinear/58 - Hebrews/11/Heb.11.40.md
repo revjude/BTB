@@ -1,10 +1,51 @@
+---
+title: Hebrews 11:40
+type: Verse
+kjv: "God having provided some better thing for us, that they without us should not be made perfect."
+bsb: "God had planned something better for us, so that together with us they would be made perfect."
+greek: "τοῦ θεοῦ περὶ ἡμῶν κρεῖττόν τι προβλεψαμένου, ἵνα μὴ χωρὶς ἡμῶν τελειωθῶσιν.¶"
+pericope: "[[Heb.11.30 (Joshua–Malachi)|(Joshua–Malachi)]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 11
+book/chapter: "[[Heb.11|Hebrews 11]]"
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic LAW|LAW]]"
+strongs:
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G4012]]"
+- "[[G3165]]"
+- "[[G2908]]"
+- "[[G5100]]"
+- "[[G4265]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G5565]]"
+- "[[G5048]]"
+texts:
+- NKO
+---
+
 **Hebrews 11:40**<big><big>[[Heb.11.30 (Joshua–Malachi)|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 God having provided some better thing for us, that they without us should not be made perfect.
 <small><sub>**BSB:**</sub></small>
 God had planned something better for us, so that together with us they would be made perfect.
-<small><sub>**Literal:**</sub></small>
-<the> God for us better something having planned, so that not apart from us they may be made perfect.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.39|<< Hebrews 11:39]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.1|Hebrews 12:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G4012\|περὶ]]  [[G3165\|ἡμῶν]]  [[G2908\|κρεῖττόν]]  [[G5100\|τι]]  [[G4265\|προβλεψαμένου,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G5565\|χωρὶς]]  [[G3165\|ἡμῶν]]  [[G5048\|τελειωθῶσιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LAW|LAW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.39|<< Hebrews 11:39]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.1|Hebrews 12:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

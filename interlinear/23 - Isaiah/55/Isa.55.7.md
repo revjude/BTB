@@ -1,8 +1,68 @@
+---
+title: Isaiah 55:7
+type: Verse
+kjv: "Let the wicked forsake his way, and the unrighteous man his thoughts: and let him return unto the LORD, and he will have mercy upon him; and to our God, for he will abundantly pardon."
+bsb: "Let the wicked man forsake his way and the unrighteous man his thoughts; let him return to the LORD, that He may have compassion, and to our God, for He will freely pardon."
+hebrew: "יַעֲזֹ֤ב רָשָׁע֙ דַּרְכּ֔וֹ וְאִ֥ישׁ אָ֖וֶן מַחְשְׁבֹתָ֑יו וְיָשֹׁ֤ב אֶל־ יְהוָה֙ וִֽירַחֲמֵ֔הוּ וְאֶל־ אֱלֹהֵ֖ינוּ כִּֽי־ יַרְבֶּ֥ה לִסְלֽוֹחַ׃"
+pericope: "[[Isa.55.1 Invitation to the Needy|Invitation to the Needy]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 55
+book/chapter: "[[Isa.55|Isaiah 55]]"
+chronological_order: 694
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H5800A]]"
+- "[[H7563]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H0205G]]"
+- "[[H4284]]"
+- "[[H7725O]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H7355]]"
+- "[[H9033]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H3588A]]"
+- "[[H7235A]]"
+- "[[H9005]]"
+- "[[H5545]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 55:7**<big><big>[[Isa.55.1 Invitation to the Needy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the wicked forsake his way, and the unrighteous man his thoughts: and let him return unto the LORD, and he will have mercy upon him; and to our God, for he will abundantly pardon.
 <small><sub>**BSB:**</sub></small>
 Let the wicked man forsake his way and the unrighteous man his thoughts; let him return to the LORD, that He may have compassion, and to our God, for He will freely pardon.
+<small><sub>**Hebrew:**</sub></small>
+[[H5800A\|יַעֲזֹ֤ב]] [[H7563\|רָשָׁע֙]] [[H1870G\|דַּרְכּ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H0376G\|אִ֥ישׁ]] [[H0205G\|אָ֖וֶן]] [[H4284\|מַחְשְׁבֹתָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H7725O\|יָשֹׁ֤ב]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H9002\|וִֽ]][[H7355\|ירַחֲמֵ֔]][[H9033\|הוּ]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H0430G\|אֱלֹהֵ֖י]][[H9025\|נוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7235A\|יַרְבֶּ֥ה]] [[H9005\|לִ]][[H5545\|סְלֽוֹחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SALVATION|SALVATION]] • [[topic SEEKERS|SEEKERS]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.55.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.55.6|<< Isaiah 55:6]]</td><td align="center" style="border:none;">[[Isa.55|Isaiah 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.55.8|Isaiah 55:8 >>]]</td></tr></table>
 

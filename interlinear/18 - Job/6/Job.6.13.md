@@ -1,8 +1,54 @@
+---
+title: Job 6:13
+type: Verse
+kjv: "Is not my help in me? and is wisdom driven quite from me?"
+bsb: "Is there any help within me now that success is driven from me?"
+hebrew: "הַאִ֬ם אֵ֣ין עֶזְרָתִ֣י בִ֑י וְ֝תֻשִׁיָּ֗ה נִדְּחָ֥ה מִמֶּֽנִּי׃"
+pericope: "[[Job.6.1 Job Replies：My Complaint Is Just|Job Replies：My Complaint Is Just]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 6
+book/chapter: "[[Job.6|Job 6]]"
+chronological_order: 17
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H9008]]"
+- "[[H0518H]]"
+- "[[H0369]]"
+- "[[H5833]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H8454]]"
+- "[[H5080]]"
+- "[[H4480A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 6:13**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is] not my help in me? and is wisdom driven quite from me?
 <small><sub>**BSB:**</sub></small>
 Is there any help within me now that success is driven from me?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H0518H\|אִ֬ם]] [[H0369\|אֵ֣ין]] [[H5833\|עֶזְרָתִ֣]][[H9020\|י]] [[H9003\|בִ֑]][[H9030\|י]] [[H9002\|וְ֝]][[H8454\|תֻשִׁיָּ֗ה]] [[H5080\|נִדְּחָ֥ה]] [[H4480A\|מִמֶּֽ]][[H9030\|נִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.12|<< Job 6:12]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.14|Job 6:14 >>]]</td></tr></table>
 

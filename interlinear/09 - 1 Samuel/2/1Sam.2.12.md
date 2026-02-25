@@ -1,8 +1,58 @@
+---
+title: 1 Samuel 2:12
+type: Verse
+kjv: "Now the sons of Eli were sons of Belial; they knew not the LORD."
+bsb: "Now the sons of Eli were wicked men; they had no regard for the LORD"
+hebrew: "וּבְנֵ֥י עֵלִ֖י בְּנֵ֣י בְלִיָּ֑עַל לֹ֥א יָדְע֖וּ אֶת־ יְהוָֽה׃"
+pericope: "[[1Sam.2.12 Eli’s Wicked Sons|Eli’s Wicked Sons]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 2
+book/chapter: "[[1Sam.2|1 Samuel 2]]"
+chronological_order: 281
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GLUTTONY|GLUTTONY]]"
+- "[[topic HOPHNI|HOPHNI]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H5941]]"
+- "[[H1121G]]"
+- "[[H1100G]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 2:12**<big><big>[[1Sam.2.12 Eli’s Wicked Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the sons of Eli [were] sons of Belial; they knew not the LORD.
 <small><sub>**BSB:**</sub></small>
 Now the sons of Eli were wicked men; they had no regard for the LORD
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בְנֵ֥י]] [[H5941\|עֵלִ֖י]] [[H1121G\|בְּנֵ֣י]] [[H1100G\|בְלִיָּ֑עַל]] [[H3808\|לֹ֥א]] [[H3045\|יָדְע֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic GLUTTONY|GLUTTONY]] • [[topic HOPHNI|HOPHNI]] • [[topic JUDGE|JUDGE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]] • [[topic RULERS|RULERS]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.11|<< 1 Samuel 2:11]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.13|1 Samuel 2:13 >>]]</td></tr></table>
 

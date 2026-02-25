@@ -1,8 +1,77 @@
+---
+title: Exodus 5:8
+type: Verse
+kjv: "And the tale of the bricks, which they did make heretofore, ye shall lay upon them; ye shall not diminish ought thereof: for they be idle; therefore they cry, saying, Let us go and sacrifice to our God."
+bsb: "But require of them the same quota of bricks as before; do not reduce it. For they are lazy; that is why they are crying out, ‘Let us go and sacrifice to our God.’"
+hebrew: "וְאֶת־ מַתְכֹּ֨נֶת הַלְּבֵנִ֜ים אֲשֶׁ֣ר הֵם֩ עֹשִׂ֨ים תְּמ֤וֹל שִׁלְשֹׁם֙ תָּשִׂ֣ימוּ עֲלֵיהֶ֔ם לֹ֥א תִגְרְע֖וּ מִמֶּ֑נּוּ כִּֽי־ נִרְפִּ֣ים הֵ֔ם עַל־ כֵּ֗ן הֵ֤ם צֹֽעֲקִים֙ לֵאמֹ֔ר נֵלְכָ֖ה נִזְבְּחָ֥ה לֵאלֹהֵֽינוּ׃"
+pericope: "[[Exod.5.6 Bricks and Straw|Bricks and Straw]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 5
+book/chapter: "[[Exod.5|Exodus 5]]"
+chronological_order: 97
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ART|ART]]"
+- "[[topic BRICK|BRICK]]"
+- "[[topic CRUELTY|CRUELTY]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4971]]"
+- "[[H9009]]"
+- "[[H3843]]"
+- "[[H0834A]]"
+- "[[H1992]]"
+- "[[H6213H]]"
+- "[[H8543]]"
+- "[[H8032]]"
+- "[[H7760H]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H3808]]"
+- "[[H1639]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H7503]]"
+- "[[H3651C]]"
+- "[[H6817]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H1980G]]"
+- "[[H2076]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 5:8**<big><big>[[Exod.5.6 Bricks and Straw|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the tale of the bricks, which they did make heretofore, ye shall lay upon them; ye shall not diminish [ought] thereof: for they [be] idle; therefore they cry, saying, Let us go [and] sacrifice to our God.
 <small><sub>**BSB:**</sub></small>
 But require of them the same quota of bricks as before; do not reduce it. For they are lazy; that is why they are crying out, ‘Let us go and sacrifice to our God.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4971\|מַתְכֹּ֨נֶת]] [[H9009\|הַ]][[H3843\|לְּבֵנִ֜ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H1992\|הֵם֩]] [[H6213H\|עֹשִׂ֨ים]] [[H8543\|תְּמ֤וֹל]] [[H8032\|שִׁלְשֹׁם֙]] [[H7760H\|תָּשִׂ֣ימוּ]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֔ם]] [[H3808\|לֹ֥א]] [[H1639\|תִגְרְע֖וּ]] [[H4480A\|מִמֶּ֑]][[H9033\|נּוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7503\|נִרְפִּ֣ים]] [[H1992\|הֵ֔ם]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֗ן]] [[H1992\|הֵ֤ם]] [[H6817\|צֹֽעֲקִים֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H1980G\|נֵלְכָ֖ה]] [[H2076\|נִזְבְּחָ֥ה]] [[H9005\|לֵ]][[H0430G\|אלֹהֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic BRICK|BRICK]] • [[topic CRUELTY|CRUELTY]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5.7|<< Exodus 5:7]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.9|Exodus 5:9 >>]]</td></tr></table>
 

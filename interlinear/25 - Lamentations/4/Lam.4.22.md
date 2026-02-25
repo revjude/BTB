@@ -1,8 +1,59 @@
+---
+title: Lamentations 4:22
+type: Verse
+kjv: "The punishment of thine iniquity is accomplished, O daughter of Zion; he will no more carry thee away into captivity: he will visit thine iniquity, O daughter of Edom; he will discover thy sins."
+bsb: "O Daughter of Zion, your punishment is complete; He will not prolong your exile. But He will punish your iniquity, O Daughter of Edom; He will expose your sins."
+hebrew: "תַּם־ עֲוֹנֵךְ֙ בַּת־ צִיּ֔וֹן לֹ֥א יוֹסִ֖יף לְהַגְלוֹתֵ֑ךְ פָּקַ֤ד עֲוֹנֵךְ֙ בַּת־ אֱד֔וֹם גִּלָּ֖ה עַל־ חַטֹּאתָֽיִךְ׃ פ"
+pericope: "[[Lam.4.1 The Distress of Zion|The Distress of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 4
+book/chapter: "[[Lam.4|Lamentations 4]]"
+chronological_order: 779
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H8552]]"
+- "[[H9014]]"
+- "[[H5771G]]"
+- "[[H9022]]"
+- "[[H1323G]]"
+- "[[H6726]]"
+- "[[H3808]]"
+- "[[H3254G]]"
+- "[[H9005]]"
+- "[[H1540K]]"
+- "[[H9032]]"
+- "[[H6485H]]"
+- "[[H0123G]]"
+- "[[H1540H]]"
+- "[[H5921A]]"
+- "[[H2403B]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Lamentations 4:22**<big><big>[[Lam.4.1 The Distress of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The punishment of thine iniquity is accomplished, O daughter of Zion; he will no more carry thee away into captivity: he will visit thine iniquity, O daughter of Edom; he will discover thy sins.
 <small><sub>**BSB:**</sub></small>
 O Daughter of Zion, your punishment is complete; He will not prolong your exile. But He will punish your iniquity, O Daughter of Edom; He will expose your sins.
+<small><sub>**Hebrew:**</sub></small>
+[[H8552\|תַּם]][[H9014\|־]] [[H5771G\|עֲוֹנֵ]][[H9022\|ךְ֙]] [[H1323G\|בַּת]][[H9014\|־]] [[H6726\|צִיּ֔וֹן]] [[H3808\|לֹ֥א]] [[H3254G\|יוֹסִ֖יף]] [[H9005\|לְ]][[H1540K\|הַגְלוֹתֵ֑]][[H9032\|ךְ]] [[H6485H\|פָּקַ֤ד]] [[H5771G\|עֲוֹנֵ]][[H9022\|ךְ֙]] [[H1323G\|בַּת]][[H9014\|־]] [[H0123G\|אֱד֔וֹם]] [[H1540H\|גִּלָּ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H2403B\|חַטֹּאתָֽיִ]][[H9022\|ךְ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.4.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.21|<< Lamentations 4:21]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.5.1|Lamentations 5:1 >>]]</td></tr></table>
 
@@ -21,7 +72,7 @@ O Daughter of Zion, your punishment is complete; He will not prolong your exile.
 | Edom  |**<big>&#8207;[[H0123G\|אֱד֔וֹם]]&#8207; </big>**| 'e.Dom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will make known  |**<big>&#8207;[[H1540H\|גִּלָּ֖ה]]&#8207; </big>**| gi.Lah<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sins your  |**<big>&#8207;[[H2403B\|חַטֹּאתָֽיִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| cha.to.Ta.yi<small><sup>[[HNcfpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sins your  |**<big>&#8207;[[H2403B\|חַטֹּאתָֽיִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| cha.to.Ta.yi<small><sup>[[HNcfpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.21|<< Lamentations 4:21]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.5.1|Lamentations 5:1 >>]]</td></tr></table>
 
 

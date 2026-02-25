@@ -9,13 +9,13 @@
 
 - Personal appearance neglected [[2Sam.14.2|2Sa 14:2]]
 
-- Cutting the flesh [[Lev.19.28|Le 19:28]]; [[Lev.21.1|21:1]]-[[Lev.21.5|5]]; [[Deut.14.1|De 14:1]]; [[Jer.16.6|Jer 16:6]],[[Jer.16.7|7]]; [[Jer.41.5|41:5]]
+- Cutting the flesh [[Lev.19.28|Le 19:28]]; [[Lev.21.1|21:1-5]]; [[Deut.14.1|De 14:1]]; [[Jer.16.6|Jer 16:6]],[[Jer.16.7|7]]; [[Jer.41.5|41:5]]
 
 - Lamentations [[Gen.50.10|Ge 50:10]]; [[Exod.12.30|Ex 12:30]]; [[1Sam.30.4|1Sa 30:4]]; [[Jer.22.18|Jer 22:18]]; [[Matt.2.17|Mt 2:17]],[[Matt.2.18|18]]
 
 - Fasting [[1Sam.31.13|1Sa 31:13]]; [[2Sam.1.12|2Sa 1:12]]; [[2Sam.3.35|3:35]]
 
-→ Priests prohibited, except for the nearest of kin [[Lev.21.1|Le 21:1]]-[[Lev.21.11|11]]
+→ Priests prohibited, except for the nearest of kin [[Lev.21.1|Le 21:1-11]]
 
 → For Nadab and Abihu forbidden [[Lev.10.6|Le 10:6]]
 
@@ -25,13 +25,13 @@
 
 → Abraham mourned for Sarah [[Gen.23.2|Ge 23:2]]
 
-→ The Egyptians mourned for Jacob for seventy days [[Gen.50.1|Ge 50:1]]-[[Gen.50.3|3]]
+→ The Egyptians mourned for Jacob for seventy days [[Gen.50.1|Ge 50:1-3]]
 
 → The Israelites mourned for Aaron for thirty days [[Num.20.29|Nu 20:29]]
 
 → David's lamentations over
 
-- The death of Saul and his sons [[2Sam.1.17|2Sa 1:17]]-[[2Sam.1.27|27]]
+- The death of Saul and his sons [[2Sam.1.17|2Sa 1:17-27]]
 
 - The death of Abner [[2Sam.3.33|2Sa 3:33]],[[2Sam.3.34|34]]
 
@@ -71,7 +71,7 @@
 
 → Sitting on the ground [[Isa.3.26|Isa 3:26]]
 
-→ Caused ceremonial defilement [[Num.19.11|Nu 19:11]]-[[Num.19.16|16]]; [[Num.31.19|31:19]]; [[Lev.21.1|Le 21:1]]
+→ Caused ceremonial defilement [[Num.19.11|Nu 19:11-16]]; [[Num.31.19|31:19]]; [[Lev.21.1|Le 21:1]]
 
 → Prevented offerings from being accepted [[Deut.26.14|De 26:14]]; [[Hos.9.4|Ho 9:4]]
 

@@ -1,8 +1,61 @@
+---
+title: Judges 6:9
+type: Verse
+kjv: "And I delivered you out of the hand of the Egyptians, and out of the hand of all that oppressed you, and drave them out from before you, and gave you their land;"
+bsb: "I delivered you out of the hands of Egypt and all your oppressors. I drove them out before you and gave you their land."
+hebrew: "וָאַצִּ֤ל אֶתְכֶם֙ מִיַּ֣ד מִצְרַ֔יִם וּמִיַּ֖ד כָּל־ לֹחֲצֵיכֶ֑ם וָאֲגָרֵ֤שׁ אוֹתָם֙ מִפְּנֵיכֶ֔ם וָאֶתְּנָ֥ה לָכֶ֖ם אֶת־ אַרְצָֽם׃"
+pericope: "[[Judg.6.1 Midian Oppresses Israel|Midian Oppresses Israel]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 6
+book/chapter: "[[Judg.6|Judges 6]]"
+chronological_order: 260
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5337]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H4713]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3905]]"
+- "[[H1644G]]"
+- "[[H9038]]"
+- "[[H6440G]]"
+- "[[H9026]]"
+- "[[H5414G]]"
+- "[[H9012]]"
+- "[[H9005]]"
+- "[[H0776G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 6:9**<big><big>[[Judg.6.1 Midian Oppresses Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I delivered you out of the hand of the Egyptians, and out of the hand of all that oppressed you, and drave them out from before you, and gave you their land;
 <small><sub>**BSB:**</sub></small>
 I delivered you out of the hands of Egypt and all your oppressors. I drove them out before you and gave you their land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H5337\|אַצִּ֤ל]] [[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H9006\|מִ]][[H3027H\|יַּ֣ד]] [[H4713\|מִצְרַ֔יִם]] [[H9002\|וּ]][[H9006\|מִ]][[H3027H\|יַּ֖ד]] [[H3605\|כָּל]][[H9014\|־]] [[H3905\|לֹחֲצֵי]][[H9036\|כֶ֑ם]] [[H9001\|וָ]][[H1644G\|אֲגָרֵ֤שׁ]] [[H0853\|אוֹתָ]][[H9038\|ם֙]] [[H9006\|מִ]][[H6440G\|פְּנֵי]][[H9026\|כֶ֔ם]] [[H9001\|וָ]][[H5414G\|אֶתְּנָ֥]][[H9012\|ה]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אַרְצָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.8|<< Judges 6:8]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.10|Judges 6:10 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Ezekiel 30:17
+type: Verse
+kjv: "The young men of Aven and of Pibeseth shall fall by the sword: and these cities shall go into captivity."
+bsb: "The young men of On and Pi-beseth will fall by the sword, and those cities will go into captivity."
+hebrew: "בַּח֥וּרֵי אָ֛וֶן וּפִי־ בֶ֖סֶת בַּחֶ֣רֶב יִפֹּ֑לוּ וְהֵ֖נָּה בַּשְּׁבִ֥י תֵלַֽכְנָה׃"
+pericope: "[[Ezek.30.1 A Lament for Egypt|A Lament for Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 30
+book/chapter: "[[Ezek.30|Ezekiel 30]]"
+chronological_order: 821
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic AVEN|AVEN]]"
+- "[[topic PI-BESETH|PI-BESETH]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H0970]]"
+- "[[H0204]]"
+- "[[H9002]]"
+- "[[H6364]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H5307J]]"
+- "[[H2007]]"
+- "[[H7628A]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 30:17**<big><big>[[Ezek.30.1 A Lament for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The young men of Aven and of Pibeseth shall fall by the sword: and these [cities] shall go into captivity.
 <small><sub>**BSB:**</sub></small>
 The young men of On and Pi-beseth will fall by the sword, and those cities will go into captivity.
+<small><sub>**Hebrew:**</sub></small>
+[[H0970\|בַּח֥וּרֵי]] [[H0204\|אָ֛וֶן]] [[H9002\|וּ]][[H6364\|פִי]][[H9014\|־]] [[H6364\|בֶ֖סֶת]] [[H9003\|בַּ]][[H2719\|חֶ֣רֶב]] [[H5307J\|יִפֹּ֑לוּ]] [[H9002\|וְ]][[H2007\|הֵ֖נָּה]] [[H9003\|בַּ]][[H7628A\|שְּׁבִ֥י]] [[H1980G\|תֵלַֽכְנָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVEN|AVEN]] • [[topic PI-BESETH|PI-BESETH]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.16|<< Ezekiel 30:16]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.18|Ezekiel 30:18 >>]]</td></tr></table>
 

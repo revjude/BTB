@@ -1,8 +1,53 @@
+---
+title: Psalm 132:18
+type: Verse
+kjv: "His enemies will I clothe with shame: but upon himself shall his crown flourish."
+bsb: "I will clothe his enemies with shame, but the crown upon him will gleam.”"
+hebrew: "א֭וֹיְבָיו אַלְבִּ֣ישׁ בֹּ֑שֶׁת וְ֝עָלָ֗יו יָצִ֥יץ נִזְרֽוֹ׃"
+pericope: "[[Ps.132.1 The LORD Has Chosen Zion|The LORD Has Chosen Zion]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 132
+book/chapter: "[[Ps.132|Psalm 132]]"
+chronological_order: 401
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H0341]]"
+- "[[H9023]]"
+- "[[H3847]]"
+- "[[H1322]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H6692A]]"
+- "[[H5145H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 132:18**<big><big>[[Ps.132.1 The LORD Has Chosen Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His enemies will I clothe with shame: but upon himself shall his crown flourish.
 <small><sub>**BSB:**</sub></small>
 I will clothe his enemies with shame, but the crown upon him will gleam.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0341\|א֭וֹיְבָי]][[H9023\|ו]] [[H3847\|אַלְבִּ֣ישׁ]] [[H1322\|בֹּ֑שֶׁת]] [[H9002\|וְ֝]][[H5921A\|עָלָ֗י]][[H9033\|ו]] [[H6692A\|יָצִ֥יץ]] [[H5145H\|נִזְרֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.132.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.132.17|<< Psalms 132:17]]</td><td align="center" style="border:none;">[[Ps.132|Psalms 132]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.133.0|Psalms 133:0 >>]]</td></tr></table>
 

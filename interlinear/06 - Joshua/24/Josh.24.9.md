@@ -1,8 +1,64 @@
+---
+title: Joshua 24:9
+type: Verse
+kjv: "Then Balak the son of Zippor, king of Moab, arose and warred against Israel, and sent and called Balaam the son of Beor to curse you:"
+bsb: "Then Balak son of Zippor, the king of Moab, set out to fight against Israel. He sent for Balaam son of Beor to curse you,"
+hebrew: "וַיָּ֨קָם בָּלָ֤ק בֶּן־ צִפּוֹר֙ מֶ֣לֶךְ מוֹאָ֔ב וַיִּלָּ֖חֶם בְּיִשְׂרָאֵ֑ל וַיִּשְׁלַ֗ח וַיִּקְרָ֛א לְבִלְעָ֥ם בֶּן־ בְּע֖וֹר לְקַלֵּ֥ל אֶתְכֶֽם׃"
+pericope: "[[Josh.24.1 Joshua Reviews Israel’s History|Joshua Reviews Israel’s History]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BALAAM|BALAAM]]"
+- "[[topic BALAK|BALAK]]"
+- "[[topic MOABITES|MOABITES]]"
+- "[[topic SHECHEM|SHECHEM]]"
+- "[[topic ZIPPOR|ZIPPOR]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H1111]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H6834]]"
+- "[[H4428G]]"
+- "[[H4124G]]"
+- "[[H3898A]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H7971G]]"
+- "[[H7121G]]"
+- "[[H9005]]"
+- "[[H1109A]]"
+- "[[H1160H]]"
+- "[[H7043]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 24:9**<big><big>[[Josh.24.1 Joshua Reviews Israel’s History|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Balak the son of Zippor, king of Moab, arose and warred against Israel, and sent and called Balaam the son of Beor to curse you:
 <small><sub>**BSB:**</sub></small>
 Then Balak son of Zippor, the king of Moab, set out to fight against Israel. He sent for Balaam son of Beor to curse you,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּ֨קָם]] [[H1111\|בָּלָ֤ק]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6834\|צִפּוֹר֙]] [[H4428G\|מֶ֣לֶךְ]] [[H4124G\|מוֹאָ֔ב]] [[H9001\|וַ]][[H3898A\|יִּלָּ֖חֶם]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֗ח]] [[H9001\|וַ]][[H7121G\|יִּקְרָ֛א]] [[H9005\|לְ]][[H1109A\|בִלְעָ֥ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1160H\|בְּע֖וֹר]] [[H9005\|לְ]][[H7043\|קַלֵּ֥ל]] [[H0853\|אֶתְ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALAAM|BALAAM]] • [[topic BALAK|BALAK]] • [[topic MOABITES|MOABITES]] • [[topic SHECHEM|SHECHEM]] • [[topic ZIPPOR|ZIPPOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.8|<< Joshua 24:8]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.10|Joshua 24:10 >>]]</td></tr></table>
 

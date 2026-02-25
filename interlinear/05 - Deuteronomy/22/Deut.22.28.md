@@ -1,8 +1,65 @@
+---
+title: Deuteronomy 22:28
+type: Verse
+kjv: "If a man find a damsel that is a virgin, which is not betrothed, and lay hold on her, and lie with her, and they be found;"
+bsb: "If a man encounters a virgin who is not pledged in marriage, and he seizes her and lies with her, and they are discovered,"
+hebrew: "כִּֽי־ יִמְצָ֣א אִ֗ישׁ נַעֲרָ֤ה בְתוּלָה֙ אֲשֶׁ֣ר לֹא־ אֹרָ֔שָׂה וּתְפָשָׂ֖הּ וְשָׁכַ֣ב עִמָּ֑הּ וְנִמְצָֽאוּ׃"
+pericope: "[[Deut.22.13 Marriage Violations|Marriage Violations]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 22
+book/chapter: "[[Deut.22|Deuteronomy 22]]"
+chronological_order: 218
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DAMAGES AND COMPENSATION|DAMAGES AND COMPENSATION]]"
+- "[[topic SEDUCTION|SEDUCTION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4672]]"
+- "[[H0376G]]"
+- "[[H5291]]"
+- "[[H1330]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H0781]]"
+- "[[H9001]]"
+- "[[H8610]]"
+- "[[H9034]]"
+- "[[H7901I]]"
+- "[[H5973A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Deuteronomy 22:28**<big><big>[[Deut.22.13 Marriage Violations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a man find a damsel [that is] a virgin, which is not betrothed, and lay hold on her, and lie with her, and they be found;
 <small><sub>**BSB:**</sub></small>
 If a man encounters a virgin who is not pledged in marriage, and he seizes her and lies with her, and they are discovered,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H4672\|יִמְצָ֣א]] [[H0376G\|אִ֗ישׁ]] [[H5291\|נַעֲרָ֤ה]] [[H1330\|בְתוּלָה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3808\|לֹא]][[H9014\|־]] [[H0781\|אֹרָ֔שָׂה]] [[H9001\|וּ]][[H8610\|תְפָשָׂ֖]][[H9034\|הּ]] [[H9001\|וְ]][[H7901I\|שָׁכַ֣ב]] [[H5973A\|עִמָּ֑]][[H9034\|הּ]] [[H9001\|וְ]][[H4672\|נִמְצָֽאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHURCH|CHURCH]] • [[topic DAMAGES AND COMPENSATION|DAMAGES AND COMPENSATION]] • [[topic SEDUCTION|SEDUCTION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.27|<< Deuteronomy 22:27]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.29|Deuteronomy 22:29 >>]]</td></tr></table>
 

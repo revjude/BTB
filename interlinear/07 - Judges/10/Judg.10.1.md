@@ -1,8 +1,68 @@
+---
+title: Judges 10:1
+type: Verse
+kjv: "And after Abimelech there arose to defend Israel Tola the son of Puah, the son of Dodo, a man of Issachar; and he dwelt in Shamir in mount Ephraim."
+bsb: "After the time of Abimelech, a man of Issachar, Tola son of Puah, the son of Dodo, rose up to save Israel. He lived in Shamir, in the hill country of Ephraim."
+hebrew: "וַיָּקָם֩ אַחֲרֵ֨י אֲבִימֶ֜לֶךְ לְהוֹשִׁ֣יעַ אֶת־ יִשְׂרָאֵ֗ל תּוֹלָ֧ע בֶּן־ פּוּאָ֛ה בֶּן־ דּוֹד֖וֹ אִ֣ישׁ יִשָּׂשכָ֑ר וְהֽוּא־ יֹשֵׁ֥ב בְּשָׁמִ֖יר בְּהַ֥ר אֶפְרָֽיִם׃"
+pericope: "[[Judg.10.1 Tola|Tola]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 10
+book/chapter: "[[Judg.10|Judges 10]]"
+chronological_order: 264
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic DODO|DODO]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic PUAH|PUAH]]"
+- "[[topic SHAMIR|SHAMIR]]"
+- "[[topic TOLA|TOLA]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H0310A]]"
+- "[[H0040H]]"
+- "[[H9005]]"
+- "[[H3467]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H8439H]]"
+- "[[H1121A]]"
+- "[[H6312H]]"
+- "[[H1734G]]"
+- "[[H0376G]]"
+- "[[H3485G]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H8069H]]"
+- "[[H2022H]]"
+- "[[H0669G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 10:1**<big><big>[[Judg.10.1 Tola|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after Abimelech there arose to defend Israel Tola the son of Puah, the son of Dodo, a man of Issachar; and he dwelt in Shamir in mount Ephraim.
 <small><sub>**BSB:**</sub></small>
 After the time of Abimelech, a man of Issachar, Tola son of Puah, the son of Dodo, rose up to save Israel. He lived in Shamir, in the hill country of Ephraim.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּקָם֩]] [[H0310A\|אַחֲרֵ֨י]] [[H0040H\|אֲבִימֶ֜לֶךְ]] [[H9005\|לְ]][[H3467\|הוֹשִׁ֣יעַ]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H8439H\|תּוֹלָ֧ע]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6312H\|פּוּאָ֛ה]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1734G\|דּוֹד֖וֹ]] [[H0376G\|אִ֣ישׁ]] [[H3485G\|יִשָּׂשכָ֑ר]] [[H9002\|וְ]][[H1931\|הֽוּא]][[H9014\|־]] [[H3427\|יֹשֵׁ֥ב]] [[H9003\|בְּ]][[H8069H\|שָׁמִ֖יר]] [[H9003\|בְּ]][[H2022H\|הַ֥ר]] [[H0669G\|אֶפְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DODO|DODO]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGE|JUDGE]] • [[topic PUAH|PUAH]] • [[topic SHAMIR|SHAMIR]] • [[topic TOLA|TOLA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.57|<< Judges 9:57]]</td><td align="center" style="border:none;">[[Judg.10|Judges 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.10.2|Judges 10:2 >>]]</td></tr></table>
 

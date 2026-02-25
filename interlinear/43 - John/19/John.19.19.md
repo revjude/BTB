@@ -1,10 +1,59 @@
+---
+title: John 19:19
+type: Verse
+kjv: "And Pilate wrote a title, and put it on the cross. And the writing was, JESUS OF NAZARETH THE KING OF THE JEWS."
+bsb: "Pilate also had a notice posted on the cross. It read: JESUS OF NAZARETH, THE KING OF THE JEWS."
+greek: "Ἔγραψεν δὲ καὶ τίτλον ὁ Πιλᾶτος καὶ ἔθηκεν ἐπὶ τοῦ σταυροῦ. ἦν δὲ γεγραμμένον· Ἰησοῦς ὁ Ναζωραῖος ὁ βασιλεὺς τῶν Ἰουδαίων."
+pericope: "[[John.19.16 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic INSCRIPTIONS|INSCRIPTIONS]]"
+- "[[topic IRONY|IRONY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SUPERSCRIPTION (INSCRIPTION)|SUPERSCRIPTION (INSCRIPTION)]]"
+strongs:
+- "[[G1125]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G5102]]"
+- "[[G3588]]"
+- "[[G4091]]"
+- "[[G5087]]"
+- "[[G1909]]"
+- "[[G4716]]"
+- "[[G1510]]"
+- "[[G2424G]]"
+- "[[G3480]]"
+- "[[G0935]]"
+- "[[G2453]]"
+texts:
+- NKO
+---
+
 **John 19:19**<big><big>[[John.19.16 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Pilate wrote a title, and put [it] on the cross. And the writing was, JESUS OF NAZARETH THE KING OF THE JEWS.
 <small><sub>**BSB:**</sub></small>
 Pilate also had a notice posted on the cross. It read: JESUS OF NAZARETH, THE KING OF THE JEWS.
-<small><sub>**Literal:**</sub></small>
-Wrote then also a title <the> Pilate and put [it] on the cross. It was now written: Jesus <the> of Nazareth the King of the Jews.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.18|<< John 19:18]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.20|John 19:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1125\|Ἔγραψεν]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G5102\|τίτλον]]  [[G3588\|ὁ]]  [[G4091\|Πιλᾶτος]]  [[G2532\|καὶ]]  [[G5087\|ἔθηκεν]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῦ]]  [[G4716\|σταυροῦ.]]  [[G1510\|ἦν]]  [[G1161\|δὲ]]  [[G1125\|γεγραμμένον·]]  [[G2424G\|Ἰησοῦς]]  [[G3588\|ὁ]]  [[G3480\|Ναζωραῖος]]  [[G3588\|ὁ]]  [[G0935\|βασιλεὺς]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic INSCRIPTIONS|INSCRIPTIONS]] • [[topic IRONY|IRONY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SUPERSCRIPTION (INSCRIPTION)|SUPERSCRIPTION (INSCRIPTION)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.18|<< John 19:18]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.20|John 19:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

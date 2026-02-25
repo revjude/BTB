@@ -1,8 +1,59 @@
+---
+title: Isaiah 38:7
+type: Verse
+kjv: "And this shall be a sign unto thee from the LORD, that the LORD will do this thing that he hath spoken;"
+bsb: "This will be a sign to you from the LORD that He will do what He has promised:"
+hebrew: "וְזֶה־ לְּךָ֥ הָא֖וֹת מֵאֵ֣ת יְהוָ֑ה אֲשֶׁר֙ יַעֲשֶׂ֣ה יְהוָ֔ה אֶת־ הַדָּבָ֥ר הַזֶּ֖ה אֲשֶׁ֥ר דִּבֵּֽר׃"
+pericope: "[[Isa.38.1 Hezekiah’s Illness and Recovery|Hezekiah’s Illness and Recovery]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 38
+book/chapter: "[[Isa.38|Isaiah 38]]"
+chronological_order: 665
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9002]]"
+- "[[H2088]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9009]]"
+- "[[H0226G]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H1697I]]"
+- "[[H1696I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 38:7**<big><big>[[Isa.38.1 Hezekiah’s Illness and Recovery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this [shall be] a sign unto thee from the LORD, that the LORD will do this thing that he hath spoken;
 <small><sub>**BSB:**</sub></small>
 This will be a sign to you from the LORD that He will do what He has promised:
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2088\|זֶה]][[H9014\|־]] [[H9005\|לְּ]][[H9031\|ךָ֥]] [[H9009\|הָ]][[H0226G\|א֖וֹת]] [[H9006\|מֵ]][[H0854\|אֵ֣ת]] [[H3068G\|יְהוָ֑ה]] [[H0834A\|אֲשֶׁר֙]] [[H6213A\|יַעֲשֶׂ֣ה]] [[H3068G\|יְהוָ֔ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דָּבָ֥ר]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H1696I\|דִּבֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISEASE|DISEASE]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.6|<< Isaiah 38:6]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38.8|Isaiah 38:8 >>]]</td></tr></table>
 

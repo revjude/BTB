@@ -1,8 +1,56 @@
+---
+title: Genesis 36:19
+type: Verse
+kjv: "These are the sons of Esau, who is Edom, and these are their dukes."
+bsb: "All these are the sons of Esau (that is, Edom), and they were their chiefs."
+hebrew: "אֵ֧לֶּה בְנֵי־ עֵשָׂ֛ו וְאֵ֥לֶּה אַלּוּפֵיהֶ֖ם ה֥וּא אֱדֽוֹם׃ ס"
+pericope: "[[Gen.36.1 The Descendants of Esau|The Descendants of Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 36
+book/chapter: "[[Gen.36|Genesis 36]]"
+chronological_order: 78
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DUKE|DUKE]]"
+- "[[topic EDOM|EDOM]]"
+- "[[topic EDOMITES|EDOMITES]]"
+strongs:
+- "[[H0428]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H6215G]]"
+- "[[H9002]]"
+- "[[H0441B]]"
+- "[[H9028]]"
+- "[[H1931]]"
+- "[[H0123H]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Genesis 36:19**<big><big>[[Gen.36.1 The Descendants of Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the sons of Esau, who [is] Edom, and these [are] their dukes.
 <small><sub>**BSB:**</sub></small>
 All these are the sons of Esau (that is, Edom), and they were their chiefs.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֧לֶּה]] [[H1121A\|בְנֵי]][[H9014\|־]] [[H6215G\|עֵשָׂ֛ו]] [[H9002\|וְ]][[H0428\|אֵ֥לֶּה]] [[H0441B\|אַלּוּפֵי]][[H9028\|הֶ֖ם]] [[H1931\|ה֥וּא]] [[H0123H\|אֱדֽוֹם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DUKE|DUKE]] • [[topic EDOM|EDOM]] • [[topic EDOMITES|EDOMITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.18|<< Genesis 36:18]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.20|Genesis 36:20 >>]]</td></tr></table>
 
@@ -14,7 +62,7 @@ All these are the sons of Esau (that is, Edom), and they were their chiefs.
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֥לֶּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] chiefs their  |**<big>&#8207;[[H0441B\|אַלּוּפֵי]]&#8207;&#8207;[[H9028\|הֶ֖ם]]&#8207; </big>**| 'a.lu.fei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H1931\|ה֥וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] Edom  |**<big>&#8207;[[H0123H\|אֱדֽוֹם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.Dom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] Edom  |**<big>&#8207;[[H0123H\|אֱדֽוֹם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.Dom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.18|<< Genesis 36:18]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.20|Genesis 36:20 >>]]</td></tr></table>
 
 

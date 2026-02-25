@@ -1,6 +1,59 @@
+---
+title: LXX Genesis 4:26
+type: Verse
+lxx: "And to Seth was born a son. And he named  his name Enos; this one hoped to call upon the name of the lord  God."
+greek: "και τω Σηθ εγένετο υιός επωνόμασε δε το όνομα αυτού Ενώς ούτος ήλπισεν επικαλείσθαι το όνομα κυρίου του θεού"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 4
+book/chapter: "[[Gen.4|Genesis 4]]"
+chronological_order: 4
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANTEDILUVIANS|ANTEDILUVIANS]]"
+- "[[topic ENOS|ENOS]]"
+- "[[topic SETH|SETH]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4589]]"
+- "[[G1096]]"
+- "[[G5207]]"
+- "[[G2028]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G1473]]"
+- "[[G1800]]"
+- "[[G3778]]"
+- "[[G1679]]"
+- "[[G1941]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G2316]]"
+---
+
 **LXX Genesis 4:26** 
 <small><sub>**LXX:**</sub></small>
 And \[to\] Seth was born a son. And he named  his name Enos; this one hoped to call upon the name of \[the\] <span class="smallcaps">lord</span>  God. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3588\|τω]] [[G4589\|Σηθ]] [[G1096\|εγένετο]] [[G5207\|υιός]] [[G2028\|επωνόμασε]] [[G1161\|δε]] [[G3588\|το]] [[G3686\|όνομα]] [[G1473\|αυτού]] [[G1800\|Ενώς]] [[G3778\|ούτος]] [[G1679\|ήλπισεν]] [[G1941\|επικαλείσθαι]] [[G3588\|το]] [[G3686\|όνομα]] [[G2962\|κυρίου]] [[G3588\|του]] [[G2316\|θεού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTEDILUVIANS|ANTEDILUVIANS]] • [[topic ENOS|ENOS]] • [[topic SETH|SETH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.4.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.4.25|<< Genesis 4:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.1|Genesis 5:1 >>]]</td></tr></table>
 
@@ -23,6 +76,6 @@ And \[to\] Seth was born a son. And he named  his name Enos; this one hoped to c
 | of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
 | \<obj.> | **<big>[[G3588\|του]]</big>** |
 | God. | **<big>[[G2316\|θεού]]</big>** |
-[[Gen.4.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.4.25|<< Genesis 4:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.1|Genesis 5:1 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.4.25|<< Genesis 4:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.1|Genesis 5:1 >>]]</td></tr></table>
 
 

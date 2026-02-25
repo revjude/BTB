@@ -1,6 +1,65 @@
+---
+title: LXX 2 Samuel 23:13
+type: Verse
+lxx: "And three from the thirty rulers went down, and they entered unto David into the cave of Adullam. And the battle order of the Philistines camped in the valley of Rephaim."
+greek: "και κατέβησαν τρεις από των τριάκοντα άρχοντες και εισήλθον προς Δαυίδ εις το σπήλαιον Οδολλάμ και τάγμα των αλλοφύλων παρενέβαλεν εν τη κοιλάδι Ραφαϊν"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 23
+book/chapter: "[[2Sam.23|2 Samuel 23]]"
+chronological_order: 431
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ADULLAM|ADULLAM]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CAVE|CAVE]]"
+- "[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic REPHAIM|REPHAIM]]"
+strongs:
+- "[[G2532]]"
+- "[[G2597]]"
+- "[[G5140]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G5144]]"
+- "[[G0758]]"
+- "[[G2532]]"
+- "[[G1525]]"
+- "[[G4314]]"
+- "[[G4622]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4693]]"
+- "[[H5725]]"
+- "[[G2532]]"
+- "[[G5001]]"
+- "[[G3588]]"
+- "[[G0246]]"
+- "[[G6070]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G8038]]"
+- "[[H7497b]]"
+---
+
 **LXX 2 Samuel 23:13** 
 <small><sub>**LXX:**</sub></small>
 And three from the thirty rulers went down, and they entered unto David into the cave of Adullam. And \[the battle\] order of the Philistines camped in the valley of Rephaim. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2597\|κατέβησαν]] [[G5140\|τρεις]] [[G0575\|από]] [[G3588\|των]] [[G5144\|τριάκοντα]] [[G0758\|άρχοντες]] [[G2532\|και]] [[G1525\|εισήλθον]] [[G4314\|προς]] [[G4622\|Δαυίδ]] [[G1519\|εις]] [[G3588\|το]] [[G4693\|σπήλαιον]] [[H5725\|Οδολλάμ]] [[G2532\|και]] [[G5001\|τάγμα]] [[G3588\|των]] [[G0246\|αλλοφύλων]] [[G6070\|παρενέβαλεν]] [[G1722\|εν]] [[G3588\|τη]] [[G8038\|κοιλάδι]] [[H7497b\|Ραφαϊν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULLAM|ADULLAM]] • [[topic ARMIES|ARMIES]] • [[topic CAVE|CAVE]] • [[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]] • [[topic PHILISTINES|PHILISTINES]] • [[topic REPHAIM|REPHAIM]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.12|<< 2 Samuel 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.14|2 Samuel 23:14 >>]]</td></tr></table>
 
@@ -30,6 +89,6 @@ And three from the thirty rulers went down, and they entered unto David into the
 | the | **<big>[[G3588\|τη]]</big>** |
 | valley | **<big>[[G8038\|κοιλάδι]]</big>** |
 | of Rephaim. | **<big>[[H7497b\|Ραφαϊν]]</big>** |
-[[2Sam.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.12|<< 2 Samuel 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.14|2 Samuel 23:14 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.12|<< 2 Samuel 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.14|2 Samuel 23:14 >>]]</td></tr></table>
 
 

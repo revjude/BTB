@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Word Became Flesh
+type: Pericope
 pericope: "[[John.1.14 The Word Became Flesh|The Word Became Flesh]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: John
 chapter: 1
 book/chapter: "[[John.1|John 1]]"
-genre:
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 5
 verses:
 - "[[John.1.14]]"
 - "[[John.1.15]]"
@@ -23,7 +30,7 @@ verses:
 - "[[John.1.18]]"
 ---
 
-[[John.1|John 1:14 - John 1:18]]
+<small>[[John.1|John 1:14-18]]</small>
 *The Word Became Flesh*
 
 [[John.1.14|14]] And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.

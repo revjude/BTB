@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Song of the Slandered
+type: Pericope
 pericope: "[[Ps.109.1 The Song of the Slandered|The Song of the Slandered]]"
-verse_count: 32
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 109
 book/chapter: "[[Ps.109|Psalm 109]]"
-genre:
+chronological_order: 383
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 32
 verses:
 - "[[Ps.109.0]]"
 - "[[Ps.109.1]]"
@@ -53,7 +60,7 @@ verses:
 - "[[Ps.109.31]]"
 ---
 
-[[Ps.109|Psalm 109:1 - Psalm 109:31]]
+<small>[[Ps.109|Psalm 109:1-31]]</small>
 *The Song of the Slandered*
 
 [[Ps.109.0|0]] To the chief Musician, A Psalm of David.

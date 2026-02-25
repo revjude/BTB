@@ -1,8 +1,54 @@
+---
+title: Job 20:4
+type: Verse
+kjv: "Knowest thou not this of old, since man was placed upon earth,"
+bsb: "Do you not know that from antiquity, since man was placed on the earth,"
+hebrew: "הֲזֹ֣את יָ֭דַעְתָּ מִנִּי־ עַ֑ד מִנִּ֤י שִׂ֖ים אָדָ֣ם עֲלֵי־ אָֽרֶץ׃"
+pericope: "[[Job.20.1 Zophar：Destruction Awaits the Wicked|Zophar：Destruction Awaits the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 20
+book/chapter: "[[Job.20|Job 20]]"
+chronological_order: 31
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9008]]"
+- "[[H2063]]"
+- "[[H3045]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H5703]]"
+- "[[H7760H]]"
+- "[[H0120G]]"
+- "[[H5921A]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 20:4**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Knowest thou [not] this of old, since man was placed upon earth,
 <small><sub>**BSB:**</sub></small>
 Do you not know that from antiquity, since man was placed on the earth,
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H2063\|זֹ֣את]] [[H3045\|יָ֭דַעְתָּ]] [[H4480A\|מִנִּי]][[H9014\|־]] [[H5703\|עַ֑ד]] [[H4480A\|מִנִּ֤י]] [[H7760H\|שִׂ֖ים]] [[H0120G\|אָדָ֣ם]] [[H5921A\|עֲלֵי]][[H9014\|־]] [[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.3|<< Job 20:3]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.5|Job 20:5 >>]]</td></tr></table>
 

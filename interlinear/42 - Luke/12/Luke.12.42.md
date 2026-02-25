@@ -1,10 +1,70 @@
+---
+title: Luke 12:42
+type: Verse
+kjv: "And the Lord said, Who then is that faithful and wise steward, whom his lord shall make ruler over his household, to give them their portion of meat in due season?"
+bsb: "And the Lord answered, “Who then is the faithful and wise manager, whom the master puts in charge of his servants to give them their portion at the proper time?"
+jesus_said: "Who then is that faithful and wise steward, whom his lord shall make ruler over his household, to give them their portion of meat in due season?"
+greek: "καὶ εἶπεν δὲ ὁ κύριος· τίς ἄρα ἐστὶν ὁ πιστὸς οἰκονόμος ὁ φρόνιμος ὃν καταστήσει ὁ κύριος ἐπὶ τῆς θεραπείας αὐτοῦ τοῦ διδόναι ἐν καιρῷ τὸ σιτομέτριον;"
+pericope: "[[Luke.12.35 Readiness at Any Hour|Readiness at Any Hour]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STEWARD|STEWARD]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G5101]]"
+- "[[G0686]]"
+- "[[G1510]]"
+- "[[G4103]]"
+- "[[G3623]]"
+- "[[G5429]]"
+- "[[G3739]]"
+- "[[G2525]]"
+- "[[G2962H]]"
+- "[[G1909]]"
+- "[[G2322]]"
+- "[[G0846]]"
+- "[[G1325]]"
+- "[[G1722]]"
+- "[[G2540]]"
+- "[[G4620]]"
+texts:
+- no
+- NKO
+- k
+- N(k)O
+---
+
 **Luke 12:42**<big><big>[[Luke.12.35 Readiness at Any Hour|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the Lord said, Who then is that faithful and wise steward, whom [his] lord shall make ruler over his household, to give [them their] portion of meat in due season?
 <small><sub>**BSB:**</sub></small>
 And the Lord answered, “Who then is the faithful and wise manager, whom the master puts in charge of his servants to give them their portion at the proper time?
-<small><sub>**Literal:**</sub></small>
-And said now the Lord; Who then is the faithful manager the wise whom will set the master over the care [of servants] of him <the> to give [them] in season the measure of food?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.41|<< Luke 12:41]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.43|Luke 12:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2962G\|κύριος·]]  [[G5101\|τίς]]  [[G0686\|ἄρα]]  [[G1510\|ἐστὶν]]  [[G3588\|ὁ]]  [[G4103\|πιστὸς]]  [[G3623\|οἰκονόμος]]  [[G3588\|ὁ]]  [[G5429\|φρόνιμος]]  [[G3739\|ὃν]]  [[G2525\|καταστήσει]]  [[G3588\|ὁ]]  [[G2962H\|κύριος]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G2322\|θεραπείας]]  [[G0846\|αὐτοῦ]]  [[G3588\|τοῦ]]  [[G1325\|διδόναι]]  [[G1722\|ἐν]]  [[G2540\|καιρῷ]]  [[G3588\|τὸ]]  [[G4620\|σιτομέτριον;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITHFULNESS|FAITHFULNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SERVANT|SERVANT]] • [[topic STEWARD|STEWARD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.41|<< Luke 12:41]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.43|Luke 12:43 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

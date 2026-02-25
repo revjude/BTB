@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Generosity Commended
+type: Pericope
 pericope: "[[2Cor.8.1 Generosity Commended|Generosity Commended]]"
-verse_count: 15
+original_language: Greek
 testament: New
 book: 2 Corinthians
 chapter: 8
 book/chapter: "[[2Cor.8|2 Corinthians 8]]"
-genre:
+chronological_order: 1081
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - apologetic
+verse_count: 15
 verses:
 - "[[2Cor.8.1]]"
 - "[[2Cor.8.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[2Cor.8.15]]"
 ---
 
-[[2Cor.8|2 Corinthians 8:1 - 2 Corinthians 8:15]]
+<small>[[2Cor.8|2 Corinthians 8:1-15]]</small>
 *Generosity Commended*
 
 [[2Cor.8.1|1]] Moreover, brethren, we do you to wit of the grace of God bestowed on the churches of Macedonia;

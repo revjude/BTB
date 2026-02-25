@@ -1,8 +1,74 @@
+---
+title: 1 Kings 11:21
+type: Verse
+kjv: "And when Hadad heard in Egypt that David slept with his fathers, and that Joab the captain of the host was dead, Hadad said to Pharaoh, Let me depart, that I may go to mine own country."
+bsb: "When Hadad heard in Egypt that David had rested with his fathers and that Joab, the commander of the army, was dead, he said to Pharaoh, “Let me go, that I may return to my own country.”"
+hebrew: "וַהֲדַ֞ד שָׁמַ֣ע בְּמִצְרַ֗יִם כִּֽי־ שָׁכַ֤ב דָּוִד֙ עִם־ אֲבֹתָ֔יו וְכִי־ מֵ֖ת יוֹאָ֣ב שַֽׂר־ הַצָּבָ֑א וַיֹּ֤אמֶר הֲדַד֙ אֶל־ פַּרְעֹ֔ה שַׁלְּחֵ֖נִי וְאֵלֵ֥ךְ אֶל־ אַרְצִֽי׃"
+pericope: "[[1Kgs.11.14 Hadad’s Return|Hadad’s Return]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 11
+book/chapter: "[[1Kgs.11|1 Kings 11]]"
+chronological_order: 536
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HADAD|HADAD]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic PHARAOH|PHARAOH]]"
+strongs:
+- "[[H9002]]"
+- "[[H1908I]]"
+- "[[H8085G]]"
+- "[[H9003]]"
+- "[[H4714G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7901J]]"
+- "[[H1732]]"
+- "[[H5973A]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H4191]]"
+- "[[H3097G]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H6635A]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H6547K]]"
+- "[[H7971G]]"
+- "[[H9030]]"
+- "[[H1980G]]"
+- "[[H0776G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 11:21**<big><big>[[1Kgs.11.14 Hadad’s Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Hadad heard in Egypt that David slept with his fathers, and that Joab the captain of the host was dead, Hadad said to Pharaoh, Let me depart, that I may go to mine own country.
 <small><sub>**BSB:**</sub></small>
 When Hadad heard in Egypt that David had rested with his fathers and that Joab, the commander of the army, was dead, he said to Pharaoh, “Let me go, that I may return to my own country.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H1908I\|הֲדַ֞ד]] [[H8085G\|שָׁמַ֣ע]] [[H9003\|בְּ]][[H4714G\|מִצְרַ֗יִם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7901J\|שָׁכַ֤ב]] [[H1732\|דָּוִד֙]] [[H5973A\|עִם]][[H9014\|־]] [[H0001G\|אֲבֹתָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H3588A\|כִי]][[H9014\|־]] [[H4191\|מֵ֖ת]] [[H3097G\|יוֹאָ֣ב]] [[H8269\|שַֽׂר]][[H9014\|־]] [[H9009\|הַ]][[H6635A\|צָּבָ֑א]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H1908I\|הֲדַד֙]] [[H0413\|אֶל]][[H9014\|־]] [[H6547K\|פַּרְעֹ֔ה]] [[H7971G\|שַׁלְּחֵ֖]][[H9030\|נִי]] [[H9002\|וְ]][[H1980G\|אֵלֵ֥ךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אַרְצִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CITIZENS|CITIZENS]] • [[topic GOD|GOD]] • [[topic HADAD|HADAD]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic PHARAOH|PHARAOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.20|<< 1 Kings 11:20]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.22|1 Kings 11:22 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Oil for the Lamps
+type: Pericope
 pericope: "[[Exod.27.20 The Oil for the Lamps|The Oil for the Lamps]]"
-verse_count: 2
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 27
 book/chapter: "[[Exod.27|Exodus 27]]"
-genre:
+chronological_order: 119
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,12 +26,13 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 2
 verses:
 - "[[Exod.27.20]]"
 - "[[Exod.27.21]]"
 ---
 
-[[Exod.27|Exodus 27:20 - Exodus 27:21]]
+<small>[[Exod.27|Exodus 27:20-21]]</small>
 *The Oil for the Lamps*
 
 [[Exod.27.20|20]] And thou shalt command the children of Israel, that they bring thee pure oil olive beaten for the light, to cause the lamp to burn always.

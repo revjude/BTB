@@ -1,10 +1,64 @@
+---
+title: Mark 14:61
+type: Verse
+kjv: "But he held his peace, and answered nothing. Again the high priest asked him, and said unto him, Art thou the Christ, the Son of the Blessed?"
+bsb: "But Jesus remained silent and made no reply. Again the high priest questioned Him, “Are You the Christ, the Son of the Blessed One?”"
+greek: "ὁ δὲ ἐσιώπα καὶ οὐκ ἀπεκρίνατο οὐδέν. πάλιν ὁ ἀρχιερεὺς ἐπηρώτα αὐτὸν καὶ λέγει αὐτῷ· σὺ εἶ ὁ χριστὸς ὁ υἱὸς τοῦ εὐλογητοῦ;"
+pericope: "[[Mark.14.53 Jesus before the Sanhedrin|Jesus before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4623]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G0611]]"
+- "[[G3762]]"
+- "[[G3825]]"
+- "[[G0749]]"
+- "[[G1905]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G5547]]"
+- "[[G5207]]"
+- "[[G2128]]"
+texts:
+- NKO
+- no
+---
+
 **Mark 14:61**<big><big>[[Mark.14.53 Jesus before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he held his peace, and answered nothing. Again the high priest asked him, and said unto him, Art thou the Christ, the Son of the Blessed?
 <small><sub>**BSB:**</sub></small>
 But Jesus remained silent and made no reply. Again the high priest questioned Him, “Are You the Christ, the Son of the Blessed One?”
-<small><sub>**Literal:**</sub></small>
-<the> But He was silent and not did He answer no [thing]. Again the high priest was questioning Him and he says to Him; You yourself are the Christ the Son of the Blessed [One]?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.60|<< Mark 14:60]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.62|Mark 14:62 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G4623\|ἐσιώπα]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G0611\|ἀπεκρίνατο]]  [[G3762\|οὐδέν.]]  [[G3825\|πάλιν]]  [[G3588\|ὁ]]  [[G0749\|ἀρχιερεὺς]]  [[G1905\|ἐπηρώτα]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ·]]  [[G4771\|σὺ]]  [[G1510\|εἶ]]  [[G3588\|ὁ]]  [[G5547\|χριστὸς]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G2128\|εὐλογητοῦ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.60|<< Mark 14:60]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.62|Mark 14:62 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,81 @@
+---
+title: 1 Kings 21:4
+type: Verse
+kjv: "And Ahab came into his house heavy and displeased because of the word which Naboth the Jezreelite had spoken to him: for he had said, I will not give thee the inheritance of my fathers. And he laid him down upon his bed, and turned away his face, and would eat no bread."
+bsb: "So Ahab went to his palace, sullen and angry because Naboth the Jezreelite had told him, “I will not give you the inheritance of my fathers.” He lay down on his bed, turned his face away, and refused to eat."
+hebrew: "וַיָּבֹא֩ אַחְאָ֨ב אֶל־ בֵּית֜וֹ סַ֣ר וְזָעֵ֗ף עַל־ הַדָּבָר֙ אֲשֶׁר־ דִּבֶּ֣ר אֵלָ֗יו נָבוֹת֙ הַיִּזְרְעֵאלִ֔י וַיֹּ֕אמֶר לֹֽא־ אֶתֵּ֥ן לְךָ֖ אֶת־ נַחֲלַ֣ת אֲבוֹתָ֑י וַיִּשְׁכַּב֙ עַל־ מִטָּת֔וֹ וַיַּסֵּ֥ב אֶת־ פָּנָ֖יו וְלֹֽא־ אָ֥כַל לָֽחֶם׃"
+pericope: "[[1Kgs.21.1 Naboth’s Vineyard|Naboth’s Vineyard]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 21
+book/chapter: "[[1Kgs.21|1 Kings 21]]"
+chronological_order: 567
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic KING|KING]]"
+- "[[topic NABOTH|NABOTH]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0256G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H5620]]"
+- "[[H9002]]"
+- "[[H2198]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H9033]]"
+- "[[H5022]]"
+- "[[H3158H]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0853]]"
+- "[[H5159]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H7901G]]"
+- "[[H4296]]"
+- "[[H5437G]]"
+- "[[H6440H]]"
+- "[[H0398]]"
+- "[[H3899G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 21:4**<big><big>[[1Kgs.21.1 Naboth’s Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ahab came into his house heavy and displeased because of the word which Naboth the Jezreelite had spoken to him: for he had said, I will not give thee the inheritance of my fathers. And he laid him down upon his bed, and turned away his face, and would eat no bread.
 <small><sub>**BSB:**</sub></small>
 So Ahab went to his palace, sullen and angry because Naboth the Jezreelite had told him, “I will not give you the inheritance of my fathers.” He lay down on his bed, turned his face away, and refused to eat.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹא֩]] [[H0256G\|אַחְאָ֨ב]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּית֜]][[H9023\|וֹ]] [[H5620\|סַ֣ר]] [[H9002\|וְ]][[H2198\|זָעֵ֗ף]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דָּבָר֙]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1696G\|דִּבֶּ֣ר]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H5022\|נָבוֹת֙]] [[H9009\|הַ]][[H3158H\|יִּזְרְעֵאלִ֔י]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5414G\|אֶתֵּ֥ן]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H0853\|אֶת]][[H9014\|־]] [[H5159\|נַחֲלַ֣ת]] [[H0001G\|אֲבוֹתָ֑]][[H9020\|י]] [[H9001\|וַ]][[H7901G\|יִּשְׁכַּב֙]] [[H5921A\|עַל]][[H9014\|־]] [[H4296\|מִטָּת֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H5437G\|יַּסֵּ֥ב]] [[H0853\|אֶת]][[H9014\|־]] [[H6440H\|פָּנָ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H0398\|אָ֥כַל]] [[H3899G\|לָֽחֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic KING|KING]] • [[topic NABOTH|NABOTH]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.21.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.3|<< 1 Kings 21:3]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.5|1 Kings 21:5 >>]]</td></tr></table>
 

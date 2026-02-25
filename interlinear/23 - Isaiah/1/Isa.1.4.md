@@ -1,8 +1,65 @@
+---
+title: Isaiah 1:4
+type: Verse
+kjv: "Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that are corrupters: they have forsaken the LORD, they have provoked the Holy One of Israel unto anger, they are gone away backward."
+bsb: "Alas, O sinful nation, a people laden with iniquity, a brood of evildoers, children who act corruptly! They have forsaken the LORD; they have despised the Holy One of Israel and turned their backs on Him."
+hebrew: "ה֣וֹי׀ גּ֣וֹי חֹטֵ֗א עַ֚ם כֶּ֣בֶד עָוֹ֔ן זֶ֣רַע מְרֵעִ֔ים בָּנִ֖ים מַשְׁחִיתִ֑ים עָזְב֣וּ אֶת־ יְהוָ֗ה נִֽאֲצ֛וּ אֶת־ קְד֥וֹשׁ יִשְׂרָאֵ֖ל נָזֹ֥רוּ אָחֽוֹר׃"
+pericope: "[[Isa.1.1 Judah’s Rebellion|Judah’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 1
+book/chapter: "[[Isa.1|Isaiah 1]]"
+chronological_order: 609
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1945]]"
+- "[[H9015]]"
+- "[[H1471A]]"
+- "[[H2398]]"
+- "[[H5971A]]"
+- "[[H3515]]"
+- "[[H5771G]]"
+- "[[H2233H]]"
+- "[[H7489A]]"
+- "[[H1121A]]"
+- "[[H7843]]"
+- "[[H5800A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H5006]]"
+- "[[H6918G]]"
+- "[[H3478]]"
+- "[[H2114A]]"
+- "[[H0268]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 1:4**<big><big>[[Isa.1.1 Judah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that are corrupters: they have forsaken the LORD, they have provoked the Holy One of Israel unto anger, they are gone away backward.
 <small><sub>**BSB:**</sub></small>
 Alas, O sinful nation, a people laden with iniquity, a brood of evildoers, children who act corruptly! They have forsaken the LORD; they have despised the Holy One of Israel and turned their backs on Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H1945\|ה֣וֹי]][[H9015\|׀]] [[H1471A\|גּ֣וֹי]] [[H2398\|חֹטֵ֗א]] [[H5971A\|עַ֚ם]] [[H3515\|כֶּ֣בֶד]] [[H5771G\|עָוֹ֔ן]] [[H2233H\|זֶ֣רַע]] [[H7489A\|מְרֵעִ֔ים]] [[H1121A\|בָּנִ֖ים]] [[H7843\|מַשְׁחִיתִ֑ים]] [[H5800A\|עָזְב֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H5006\|נִֽאֲצ֛וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H6918G\|קְד֥וֹשׁ]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H2114A\|נָזֹ֥רוּ]] [[H0268\|אָחֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.3|<< Isaiah 1:3]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.5|Isaiah 1:5 >>]]</td></tr></table>
 

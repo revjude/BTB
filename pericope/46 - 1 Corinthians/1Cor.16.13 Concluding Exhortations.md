@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Concluding Exhortations
+type: Pericope
 pericope: "[[1Cor.16.13 Concluding Exhortations|Concluding Exhortations]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 16
 book/chapter: "[[1Cor.16|1 Corinthians 16]]"
-genre:
+chronological_order: 1073
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 6
 verses:
 - "[[1Cor.16.13]]"
 - "[[1Cor.16.14]]"
@@ -23,7 +30,7 @@ verses:
 - "[[1Cor.16.18]]"
 ---
 
-[[1Cor.16|1 Corinthians 16:13 - 1 Corinthians 16:18]]
+<small>[[1Cor.16|1 Corinthians 16:13-18]]</small>
 *Concluding Exhortations*
 
 [[1Cor.16.13|13]] Watch ye, stand fast in the faith, quit you like men, be strong.

@@ -1,9 +1,59 @@
+---
+title: LXX Judges 16:4
+type: Verse
+lxx: "And it came to pass after this, that he loved a woman by the rushing stream Sorek, and her name was Delilah."
+greek: "και εγένετο μετά τούτο και ηγάπησε γυναίκα επί του χειμάρρου Σωρήχ και όνομα αυτή Δαλιλά"
+original_language: Greek
+testament: Old
+book: Judges
+chapter: 16
+book/chapter: "[[Judg.16|Judges 16]]"
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DELILAH|DELILAH]]"
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic SOREK|SOREK]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G3326]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G0025]]"
+- "[[G1135]]"
+- "[[G2089]]"
+- "[[G3588]]"
+- "[[G5493]]"
+- "[[H7796]]"
+- "[[G2532]]"
+- "[[G3686]]"
+- "[[G1473]]"
+- "[[H1807]]"
+---
+
 **LXX Judges 16:4** 
 
 ***Samson and Delilah***
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after this, that he loved a woman by the rushing stream Sorek, and her name \[was\] Delilah. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1096\|εγένετο]] [[G3326\|μετά]] [[G3778\|τούτο]] [[G2532\|και]] [[G0025\|ηγάπησε]] [[G1135\|γυναίκα]] [[G2089\|επί]] [[G3588\|του]] [[G5493\|χειμάρρου]] [[H7796\|Σωρήχ]] [[G2532\|και]] [[G3686\|όνομα]] [[G1473\|αυτή]] [[H1807\|Δαλιλά]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSPIRACY|CONSPIRACY]] • [[topic DECEPTION|DECEPTION]] • [[topic DELILAH|DELILAH]] • [[topic FRIENDS|FRIENDS]] • [[topic SAMSON|SAMSON]] • [[topic SOREK|SOREK]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Judg.16.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.3|<< Judges 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.5|Judges 16:5 >>]]</td></tr></table>
 
@@ -23,6 +73,6 @@ And it came to pass after this, that he loved a woman by the rushing stream Sore
 | and | **<big>[[G2532\|και]]</big>** |
 | her name | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτή]]</big>** |
 | \[was\] Delilah. | **<big>[[H1807\|Δαλιλά]]</big>** |
-[[Judg.16.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.3|<< Judges 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.5|Judges 16:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.3|<< Judges 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.5|Judges 16:5 >>]]</td></tr></table>
 
 

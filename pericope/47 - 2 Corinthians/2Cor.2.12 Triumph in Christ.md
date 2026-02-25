@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Triumph in Christ
+type: Pericope
 pericope: "[[2Cor.2.12 Triumph in Christ|Triumph in Christ]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: 2 Corinthians
 chapter: 2
 book/chapter: "[[2Cor.2|2 Corinthians 2]]"
-genre:
+chronological_order: 1075
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - apologetic
+verse_count: 6
 verses:
 - "[[2Cor.2.12]]"
 - "[[2Cor.2.13]]"
@@ -24,7 +31,7 @@ verses:
 - "[[2Cor.2.17]]"
 ---
 
-[[2Cor.2|2 Corinthians 2:12 - 2 Corinthians 2:17]]
+<small>[[2Cor.2|2 Corinthians 2:12-17]]</small>
 *Triumph in Christ*
 
 [[2Cor.2.12|12]] Furthermore, when I came to Troas to \[preach\] Christ’s gospel, and a door was opened unto me of the Lord,

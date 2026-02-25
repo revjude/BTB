@@ -1,10 +1,49 @@
+---
+title: Mark 8:21
+type: Verse
+kjv: "And he said unto them, How is it that ye do not understand?"
+bsb: "Then He asked them, “Do you still not understand?”"
+jesus_said: "How is it that ye do not understand?"
+greek: "καὶ ἔλεγεν αὐτοῖς· οὔπω πῶς συνίετε;¶"
+pericope: "[[Mark.8.14 The Leaven of the Pharisees and of Herod|The Leaven of the Pharisees and of Herod]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3768]]"
+- "[[G4459]]"
+- "[[G4920]]"
+texts:
+- NKO
+- N(K)O
+- KO
+---
+
 **Mark 8:21**<big><big>[[Mark.8.14 The Leaven of the Pharisees and of Herod|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, How is it that ye do not understand?
 <small><sub>**BSB:**</sub></small>
 Then He asked them, “Do you still not understand?”
-<small><sub>**Literal:**</sub></small>
-And He was saying to them; Not yet how do you understand?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.20|<< Mark 8:20]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.22|Mark 8:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|ἔλεγεν]]  [[G0846\|αὐτοῖς·]]  [[G3768\|οὔπω]]  [[G4459\|πῶς]]  [[G4920\|συνίετε;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.20|<< Mark 8:20]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.22|Mark 8:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

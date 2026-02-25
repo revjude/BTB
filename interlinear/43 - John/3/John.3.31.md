@@ -1,10 +1,53 @@
+---
+title: John 3:31
+type: Verse
+kjv: "He that cometh from above is above all: he that is of the earth is earthly, and speaketh of the earth: he that cometh from heaven is above all."
+bsb: "The One who comes from above is above all. The one who is from the earth belongs to the earth and speaks as one from the earth. The One who comes from heaven is above all."
+greek: "ὁ ἄνωθεν ἐρχόμενος ἐπάνω πάντων ἐστίν. ὁ ὢν ἐκ τῆς γῆς ἐκ τῆς γῆς ἐστιν καὶ ἐκ τῆς γῆς λαλεῖ. ὁ ἐκ τοῦ οὐρανοῦ ἐρχόμενος ἐπάνω πάντων ἐστίν·"
+pericope: "[[John.3.22 John’s Testimony about Jesus|John’s Testimony about Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 3
+book/chapter: "[[John.3|John 3]]"
+chronological_order: 941
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G3588]]"
+- "[[G0509]]"
+- "[[G2064]]"
+- "[[G1883]]"
+- "[[G3956]]"
+- "[[G1510]]"
+- "[[G1537]]"
+- "[[G1093G]]"
+- "[[G2532]]"
+- "[[G2980]]"
+- "[[G3772]]"
+texts:
+- NKO
+---
+
 **John 3:31**<big><big>[[John.3.22 John’s Testimony about Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He that cometh from above is above all: he that is of the earth is earthly, and speaketh of the earth: he that cometh from heaven is above all.
 <small><sub>**BSB:**</sub></small>
 The One who comes from above is above all. The one who is from the earth belongs to the earth and speaks as one from the earth. The One who comes from heaven is above all.
-<small><sub>**Literal:**</sub></small>
-The [One] from above coming above all is. The [one] being from the earth from the earth is and from the earth speaks. The [One] from <the> heaven coming above all is;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.30|<< John 3:30]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.32|John 3:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G0509\|ἄνωθεν]]  [[G2064\|ἐρχόμενος]]  [[G1883\|ἐπάνω]]  [[G3956\|πάντων]]  [[G1510\|ἐστίν.]]  [[G3588\|ὁ]]  [[G1510\|ὢν]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G1510\|ἐστιν]]  [[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G2980\|λαλεῖ.]]  [[G3588\|ὁ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G2064\|ἐρχόμενος]]  [[G1883\|ἐπάνω]]  [[G3956\|πάντων]]  [[G1510\|ἐστίν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.30|<< John 3:30]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.32|John 3:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

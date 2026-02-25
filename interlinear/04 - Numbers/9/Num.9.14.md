@@ -1,8 +1,72 @@
+---
+title: Numbers 9:14
+type: Verse
+kjv: "And if a stranger shall sojourn among you, and will keep the passover unto the LORD; according to the ordinance of the passover, and according to the manner thereof, so shall he do: ye shall have one ordinance, both for the stranger, and for him that was born in the land."
+bsb: "If a foreigner dwelling among you wants to observe the Passover to the LORD, he is to do so according to the Passover statute and its ordinances. You are to apply the same statute to both the foreigner and the native of the land.’”"
+hebrew: "וְכִֽי־ יָג֨וּר אִתְּכֶ֜ם גֵּ֗ר וְעָ֤שָֽׂה פֶ֙סַח֙ לַֽיהוָ֔ה כְּחֻקַּ֥ת הַפֶּ֛סַח וּכְמִשְׁפָּט֖וֹ כֵּ֣ן יַעֲשֶׂ֑ה חֻקָּ֤ה אַחַת֙ יִהְיֶ֣ה לָכֶ֔ם וְלַגֵּ֖ר וּלְאֶזְרַ֥ח הָאָֽרֶץ׃ פ"
+pericope: "[[Num.9.1 The Second Passover|The Second Passover]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 9
+book/chapter: "[[Num.9|Numbers 9]]"
+chronological_order: 168
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ALIENS|ALIENS]]"
+- "[[topic LEGISLATION|LEGISLATION]]"
+- "[[topic ORDINANCE|ORDINANCE]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1481A]]"
+- "[[H0854]]"
+- "[[H9036]]"
+- "[[H1616]]"
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H6453]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H2708]]"
+- "[[H9009]]"
+- "[[H4941G]]"
+- "[[H9023]]"
+- "[[H3651C]]"
+- "[[H6213A]]"
+- "[[H0259]]"
+- "[[H1961]]"
+- "[[H0249]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Numbers 9:14**<big><big>[[Num.9.1 The Second Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if a stranger shall sojourn among you, and will keep the passover unto the LORD; according to the ordinance of the passover, and according to the manner thereof, so shall he do: ye shall have one ordinance, both for the stranger, and for him that was born in the land.
 <small><sub>**BSB:**</sub></small>
 If a foreigner dwelling among you wants to observe the Passover to the LORD, he is to do so according to the Passover statute and its ordinances. You are to apply the same statute to both the foreigner and the native of the land.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H1481A\|יָג֨וּר]] [[H0854\|אִתְּ]][[H9036\|כֶ֜ם]] [[H1616\|גֵּ֗ר]] [[H9001\|וְ]][[H6213H\|עָ֤שָֽׂה]] [[H6453\|פֶ֙סַח֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H9004\|כְּ]][[H2708\|חֻקַּ֥ת]] [[H9009\|הַ]][[H6453\|פֶּ֛סַח]] [[H9002\|וּ]][[H9004\|כְ]][[H4941G\|מִשְׁפָּט֖]][[H9023\|וֹ]] [[H3651C\|כֵּ֣ן]] [[H6213A\|יַעֲשֶׂ֑ה]] [[H2708\|חֻקָּ֤ה]] [[H0259\|אַחַת֙]] [[H1961\|יִהְיֶ֣ה]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H9002\|וְ]][[H9005\|לַ]][[H1616\|גֵּ֖ר]] [[H9002\|וּ]][[H9005\|לְ]][[H0249\|אֶזְרַ֥ח]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALIENS|ALIENS]] • [[topic LEGISLATION|LEGISLATION]] • [[topic ORDINANCE|ORDINANCE]] • [[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.9.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9.13|<< Numbers 9:13]]</td><td align="center" style="border:none;">[[Num.9|Numbers 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.15|Numbers 9:15 >>]]</td></tr></table>
 
@@ -26,7 +90,7 @@ If a foreigner dwelling among you wants to observe the Passover to the LORD, he 
 | to you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֔ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and to the sojourner  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H1616\|גֵּ֖ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HRd]]</sup></small> Ger<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and to [the] native-born of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0249\|אֶזְרַ֥ח]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> 'ez.Rach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9.13|<< Numbers 9:13]]</td><td align="center" style="border:none;">[[Num.9|Numbers 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.15|Numbers 9:15 >>]]</td></tr></table>
 
 

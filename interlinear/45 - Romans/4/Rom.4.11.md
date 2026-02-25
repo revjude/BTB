@@ -1,10 +1,67 @@
+---
+title: Romans 4:11
+type: Verse
+kjv: "And he received the sign of circumcision, a seal of the righteousness of the faith which he had yet being uncircumcised: that he might be the father of all them that believe, though they be not circumcised; that righteousness might be imputed unto them also:"
+bsb: "And he received the sign of circumcision as a seal of the righteousness that he had by faith while he was still uncircumcised. So then, he is the father of all who believe but are not circumcised, in order that righteousness might be credited to them."
+greek: "καὶ σημεῖον ἔλαβεν περιτομῆς, σφραγῖδα τῆς δικαιοσύνης τῆς πίστεως τῆς ἐν τῇ ἀκροβυστίᾳ· εἰς τὸ εἶναι αὐτὸν πατέρα πάντων τῶν πιστευόντων δι᾽ ἀκροβυστίας, εἰς τὸ λογισθῆναι καὶ αὐτοῖς τὴν δικαιοσύνην,"
+pericope: "[[Rom.4.1 Abraham Justified by Faith|Abraham Justified by Faith]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 4
+book/chapter: "[[Rom.4|Romans 4]]"
+chronological_order: 1090
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SEAL|SEAL]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2532]]"
+- "[[G4592]]"
+- "[[G2983]]"
+- "[[G4061]]"
+- "[[G4973]]"
+- "[[G3588]]"
+- "[[G1343]]"
+- "[[G4102G]]"
+- "[[G1722]]"
+- "[[G0203]]"
+- "[[G1519]]"
+- "[[G1511]]"
+- "[[G0846]]"
+- "[[G3962]]"
+- "[[G3956]]"
+- "[[G4100]]"
+- "[[G1223]]"
+- "[[G3049]]"
+texts:
+- NKO
+---
+
 **Romans 4:11**<big><big>[[Rom.4.1 Abraham Justified by Faith|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he received the sign of circumcision, a seal of the righteousness of the faith which [he had yet] being uncircumcised: that he might be the father of all them that believe, though they be not circumcised; that righteousness might be imputed unto them also:
 <small><sub>**BSB:**</sub></small>
 And he received the sign of circumcision as a seal of the righteousness that he had by faith while he was still uncircumcised. So then, he is the father of all who believe but are not circumcised, in order that righteousness might be credited to them.
-<small><sub>**Literal:**</sub></small>
-And [the] sign he received of circumcision, a seal of the righteousness of the faith that [he had] [while] in the uncircumcision; for the to be him father of all those believing in uncircumcision, for <the> to be credited also to them the righteousness,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.10|<< Romans 4:10]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.12|Romans 4:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4592\|σημεῖον]]  [[G2983\|ἔλαβεν]]  [[G4061\|περιτομῆς,]]  [[G4973\|σφραγῖδα]]  [[G3588\|τῆς]]  [[G1343\|δικαιοσύνης]]  [[G3588\|τῆς]]  [[G4102G\|πίστεως]]  [[G3588\|τῆς]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0203\|ἀκροβυστίᾳ·]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G1511\|εἶναι]]  [[G0846\|αὐτὸν]]  [[G3962\|πατέρα]]  [[G3956\|πάντων]]  [[G3588\|τῶν]]  [[G4100\|πιστευόντων]]  [[G1223\|δι᾽]]  [[G0203\|ἀκροβυστίας,]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3049\|λογισθῆναι]]  [[G2532\|καὶ]]  [[G0846\|αὐτοῖς]]  [[G3588\|τὴν]]  [[G1343\|δικαιοσύνην,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BIGOTRY|BIGOTRY]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic FAITH|FAITH]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SALVATION|SALVATION]] • [[topic SEAL|SEAL]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.10|<< Romans 4:10]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.12|Romans 4:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 4:11** is...
 > $\quad$ referencing: [[LXX.Gen.17.10|Gen 17:10]]

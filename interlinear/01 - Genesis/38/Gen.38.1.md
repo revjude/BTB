@@ -1,8 +1,67 @@
+---
+title: Genesis 38:1
+type: Verse
+kjv: "And it came to pass at that time, that Judah went down from his brethren, and turned in to a certain Adullamite, whose name was Hirah."
+bsb: "About that time, Judah left his brothers and settled near a man named Hirah, an Adullamite."
+hebrew: "וַֽיְהִי֙ בָּעֵ֣ת הַהִ֔וא וַיֵּ֥רֶד יְהוּדָ֖ה מֵאֵ֣ת אֶחָ֑יו וַיֵּ֛ט עַד־ אִ֥ישׁ עֲדֻלָּמִ֖י וּשְׁמ֥וֹ חִירָֽה׃"
+pericope: "[[Gen.38.1 Judah and Tamar|Judah and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 38
+book/chapter: "[[Gen.38|Genesis 38]]"
+chronological_order: 80
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADULLAM|ADULLAM]]"
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic HIRAH|HIRAH]]"
+- "[[topic JUDAH|JUDAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H3381]]"
+- "[[H3063G]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H5186]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H5726]]"
+- "[[H9002]]"
+- "[[H8034]]"
+- "[[H2437]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 38:1**<big><big>[[Gen.38.1 Judah and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass at that time, that Judah went down from his brethren, and turned in to a certain Adullamite, whose name [was] Hirah.
 <small><sub>**BSB:**</sub></small>
 About that time, Judah left his brothers and settled near a man named Hirah, an Adullamite.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H9003\|בָּ]][[H6256\|עֵ֣ת]] [[H9009\|הַ]][[H1931\|הִ֔וא]] [[H9001\|וַ]][[H3381\|יֵּ֥רֶד]] [[H3063G\|יְהוּדָ֖ה]] [[H9006\|מֵ]][[H0854\|אֵ֣ת]] [[H0251G\|אֶחָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H5186\|יֵּ֛ט]] [[H5704\|עַד]][[H9014\|־]] [[H0376G\|אִ֥ישׁ]] [[H5726\|עֲדֻלָּמִ֖י]] [[H9002\|וּ]][[H8034\|שְׁמ֥]][[H9023\|וֹ]] [[H2437\|חִירָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULLAM|ADULLAM]] • [[topic ADULTERY|ADULTERY]] • [[topic HIRAH|HIRAH]] • [[topic JUDAH|JUDAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.38.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.36|<< Genesis 37:36]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.2|Genesis 38:2 >>]]</td></tr></table>
 

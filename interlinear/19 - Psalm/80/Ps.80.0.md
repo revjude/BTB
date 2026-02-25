@@ -1,6 +1,45 @@
+---
+title: Psalm 80:0
+type: Verse
+kjv: "To the chief Musician upon ShoshannimEduth, A Psalm of Asaph."
+hebrew: "לַמְנַצֵּ֥חַ אֶל־ שֹׁשַׁנִּ֑ים עֵד֖וּת לְאָסָ֣ף מִזְמֽוֹר׃"
+pericope: "[[Ps.80.1 Hear Us, O Shepherd of Israel|Hear Us, O Shepherd of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 80
+book/chapter: "[[Ps.80|Psalm 80]]"
+chronological_order: 783
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9005]]"
+- "[[H5329]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7799]]"
+- "[[H5715]]"
+- "[[H0623H]]"
+- "[[H4210]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 80:0**<big><big>[[Ps.80.1 Hear Us, O Shepherd of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To the chief Musician upon ShoshannimEduth, A Psalm of Asaph.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H5329\|מְנַצֵּ֥חַ]] [[H0413\|אֶל]][[H9014\|־]] [[H7799\|שֹׁשַׁנִּ֑ים]] [[H5715\|עֵד֖וּת]] [[H9005\|לְ]][[H0623H\|אָסָ֣ף]] [[H4210\|מִזְמֽוֹר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.80.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.79.13|<< Psalms 79:13]]</td><td align="center" style="border:none;">[[Ps.80|Psalms 80]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.80.1|Psalms 80:1 >>]]</td></tr></table>
 

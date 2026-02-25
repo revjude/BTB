@@ -1,8 +1,63 @@
+---
+title: Genesis 2:8
+type: Verse
+kjv: "And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed."
+bsb: "And the LORD God planted a garden in Eden, in the east, where He placed the man He had formed."
+hebrew: "וַיִּטַּ֞ע יְהוָ֧ה אֱלֹהִ֛ים גַּן־ בְעֵ֖דֶן מִקֶּ֑דֶם וַיָּ֣שֶׂם שָׁ֔ם אֶת־ הָֽאָדָ֖ם אֲשֶׁ֥ר יָצָֽר׃"
+pericope: "[[Gen.2.4 Man and Woman in the Garden|Man and Woman in the Garden]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 2
+book/chapter: "[[Gen.2|Genesis 2]]"
+chronological_order: 2
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic EDEN|EDEN]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H5193]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H1588M]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H5731B]]"
+- "[[H9006]]"
+- "[[H6924G]]"
+- "[[H7760H]]"
+- "[[H8033G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0120H]]"
+- "[[H0834A]]"
+- "[[H3335G]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Genesis 2:8**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed.
 <small><sub>**BSB:**</sub></small>
 And the LORD God planted a garden in Eden, in the east, where He placed the man He had formed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5193\|יִּטַּ֞ע]] [[H3068G\|יְהוָ֧ה]] [[H0430G\|אֱלֹהִ֛ים]] [[H1588M\|גַּן]][[H9014\|־]] [[H9003\|בְ]][[H5731B\|עֵ֖דֶן]] [[H9006\|מִ]][[H6924G\|קֶּ֑דֶם]] [[H9001\|וַ]][[H7760H\|יָּ֣שֶׂם]] [[H8033G\|שָׁ֔ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H0120H\|אָדָ֖ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H3335G\|יָצָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDEN|EDEN]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.7|<< Genesis 2:7]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.9|Genesis 2:9 >>]]</td></tr></table>
 

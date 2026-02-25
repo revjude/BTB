@@ -1,8 +1,68 @@
+---
+title: Genesis 22:8
+type: Verse
+kjv: "And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together."
+bsb: "Abraham answered, “God Himself will provide the lamb for the burnt offering, my son.” And the two walked on together."
+hebrew: "וַיֹּ֙אמֶר֙ אַבְרָהָ֔ם אֱלֹהִ֞ים יִרְאֶה־ לּ֥וֹ הַשֶּׂ֛ה לְעֹלָ֖ה בְּנִ֑י וַיֵּלְכ֥וּ שְׁנֵיהֶ֖ם יַחְדָּֽו׃"
+pericope: "[[Gen.22.1 The Offering of Isaac|The Offering of Isaac]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 22
+book/chapter: "[[Gen.22|Genesis 22]]"
+chronological_order: 64
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0085]]"
+- "[[H0430G]]"
+- "[[H7200J]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H7716]]"
+- "[[H5930A]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H1980G]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H3162B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 22:8**<big><big>[[Gen.22.1 The Offering of Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together.
 <small><sub>**BSB:**</sub></small>
 Abraham answered, “God Himself will provide the lamb for the burnt offering, my son.” And the two walked on together.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H0085\|אַבְרָהָ֔ם]] [[H0430G\|אֱלֹהִ֞ים]] [[H7200J\|יִרְאֶה]][[H9014\|־]] [[H9005\|לּ֥]][[H9033\|וֹ]] [[H9009\|הַ]][[H7716\|שֶּׂ֛ה]] [[H9005\|לְ]][[H5930A\|עֹלָ֖ה]] [[H1121A\|בְּנִ֑]][[H9020\|י]] [[H9001\|וַ]][[H1980G\|יֵּלְכ֥וּ]] [[H8147\|שְׁנֵי]][[H9028\|הֶ֖ם]] [[H3162B\|יַחְדָּֽו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CHILDREN|CHILDREN]] • [[topic COURAGE|COURAGE]] • [[topic FAITH|FAITH]] • [[topic ISAAC|ISAAC]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.22.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.22.7|<< Genesis 22:7]]</td><td align="center" style="border:none;">[[Gen.22|Genesis 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.22.9|Genesis 22:9 >>]]</td></tr></table>
 

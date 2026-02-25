@@ -1,8 +1,66 @@
+---
+title: 2 Kings 19:20
+type: Verse
+kjv: "Then Isaiah the son of Amoz sent to Hezekiah, saying, Thus saith the LORD God of Israel, That which thou hast prayed to me against Sennacherib king of Assyria I have heard."
+bsb: "Then Isaiah son of Amoz sent a message to Hezekiah: “This is what the LORD, the God of Israel, says: I have heard your prayer concerning Sennacherib king of Assyria."
+hebrew: "וַיִּשְׁלַח֙ יְשַֽׁעְיָ֣הוּ בֶן־ אָמ֔וֹץ אֶל־ חִזְקִיָּ֖הוּ לֵאמֹ֑ר כֹּֽה־ אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁ֨ר הִתְפַּלַּ֧לְתָּ אֵלַ֛י אֶל־ סַנְחֵרִ֥ב מֶֽלֶךְ־ אַשּׁ֖וּר שָׁמָֽעְתִּי׃"
+pericope: "[[2Kgs.19.20 Sennacherib’s Fall Prophesied|Sennacherib’s Fall Prophesied]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 19
+book/chapter: "[[2Kgs.19|2 Kings 19]]"
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AMOZ|AMOZ]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H3470A]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0531]]"
+- "[[H0413]]"
+- "[[H2396G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H6419]]"
+- "[[H9030]]"
+- "[[H5576]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H8085G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 19:20**<big><big>[[2Kgs.19.20 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Isaiah the son of Amoz sent to Hezekiah, saying, Thus saith the LORD God of Israel, [That] which thou hast prayed to me against Sennacherib king of Assyria I have heard.
 <small><sub>**BSB:**</sub></small>
 Then Isaiah son of Amoz sent a message to Hezekiah: “This is what the LORD, the God of Israel, says: I have heard your prayer concerning Sennacherib king of Assyria.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַח֙]] [[H3470A\|יְשַֽׁעְיָ֣הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H0531\|אָמ֔וֹץ]] [[H0413\|אֶל]][[H9014\|־]] [[H2396G\|חִזְקִיָּ֖הוּ]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֤ר]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0834A\|אֲשֶׁ֨ר]] [[H6419\|הִתְפַּלַּ֧לְתָּ]] [[H0413\|אֵלַ֛]][[H9030\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H5576\|סַנְחֵרִ֥ב]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0804G\|אַשּׁ֖וּר]] [[H8085G\|שָׁמָֽעְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMOZ|AMOZ]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PRAYER|PRAYER]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.19|<< 2 Kings 19:19]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.21|2 Kings 19:21 >>]]</td></tr></table>
 

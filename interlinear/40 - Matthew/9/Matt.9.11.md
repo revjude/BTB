@@ -1,10 +1,62 @@
+---
+title: Matthew 9:11
+type: Verse
+kjv: "And when the Pharisees saw it, they said unto his disciples, Why eateth your Master with publicans and sinners?"
+bsb: "When the Pharisees saw this, they asked His disciples, “Why does your Teacher eat with tax collectors and sinners?”"
+greek: "καὶ ἰδόντες οἱ Φαρισαῖοι ἔλεγον τοῖς μαθηταῖς αὐτοῦ· διὰ τί μετὰ τῶν τελωνῶν καὶ ἁμαρτωλῶν ἐσθίει ὁ διδάσκαλος ὑμῶν;"
+pericope: "[[Matt.9.9 Jesus Calls Matthew|Jesus Calls Matthew]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 9
+book/chapter: "[[Matt.9|Matthew 9]]"
+chronological_order: 951
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic PUBLICANS|PUBLICANS]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic TAX|TAX]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G5330]]"
+- "[[G3004G]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G1223]]"
+- "[[G5101]]"
+- "[[G3326]]"
+- "[[G5057]]"
+- "[[G0268]]"
+- "[[G2068]]"
+- "[[G1320]]"
+- "[[G4771]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 9:11**<big><big>[[Matt.9.9 Jesus Calls Matthew|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the Pharisees saw [it], they said unto his disciples, Why eateth your Master with publicans and sinners?
 <small><sub>**BSB:**</sub></small>
 When the Pharisees saw this, they asked His disciples, “Why does your Teacher eat with tax collectors and sinners?”
-<small><sub>**Literal:**</sub></small>
-And having seen [it] the Pharisees was saying to the disciples of Him; Because of why with the tax collectors and sinners eats the Teacher of you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.10|<< Matthew 9:10]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.12|Matthew 9:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1492H\|ἰδόντες]]  [[G3588\|οἱ]]  [[G5330\|Φαρισαῖοι]]  [[G3004G\|ἔλεγον]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς]]  [[G0846\|αὐτοῦ·]]  [[G1223\|διὰ]]  [[G5101\|τί]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G5057\|τελωνῶν]]  [[G2532\|καὶ]]  [[G0268\|ἁμαρτωλῶν]]  [[G2068\|ἐσθίει]]  [[G3588\|ὁ]]  [[G1320\|διδάσκαλος]]  [[G4771\|ὑμῶν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]] • [[topic PUBLICANS|PUBLICANS]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic TAX|TAX]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.10|<< Matthew 9:10]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.12|Matthew 9:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

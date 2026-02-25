@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saying 18
+type: Pericope
 pericope: "[[Prov.23.26 Saying 18|Saying 18]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 23
 book/chapter: "[[Prov.23|Proverbs 23]]"
-genre:
+chronological_order: 478
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 3
 verses:
 - "[[Prov.23.26]]"
 - "[[Prov.23.27]]"
 - "[[Prov.23.28]]"
 ---
 
-[[Prov.23|Proverbs 23:26 - Proverbs 23:28]]
+<small>[[Prov.23|Proverbs 23:26-28]]</small>
 *Saying 18*
 
 [[Prov.23.26|26]] My son, give me thine heart, and let thine eyes observe my ways.

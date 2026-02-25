@@ -1,8 +1,55 @@
+---
+title: Psalm 90:6
+type: Verse
+kjv: "In the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth."
+bsb: "in the morning it springs up new, but by evening it fades and withers."
+hebrew: "בַּ֭בֹּקֶר יָצִ֣יץ וְחָלָ֑ף לָ֝עֶ֗רֶב יְמוֹלֵ֥ל וְיָבֵֽשׁ׃"
+pericope: "[[Ps.90.1 From Everlasting to Everlasting|From Everlasting to Everlasting]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 90
+book/chapter: "[[Ps.90|Psalm 90]]"
+chronological_order: 170
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1440–1407 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GRASS|GRASS]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MOWING|MOWING]]"
+strongs:
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H6692A]]"
+- "[[H9001]]"
+- "[[H2498]]"
+- "[[H9005]]"
+- "[[H6153]]"
+- "[[H4135A]]"
+- "[[H3001]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 90:6**<big><big>[[Ps.90.1 From Everlasting to Everlasting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth.
 <small><sub>**BSB:**</sub></small>
 in the morning it springs up new, but by evening it fades and withers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ֭]][[H1242\|בֹּקֶר]] [[H6692A\|יָצִ֣יץ]] [[H9001\|וְ]][[H2498\|חָלָ֑ף]] [[H9005\|לָ֝]][[H6153\|עֶ֗רֶב]] [[H4135A\|יְמוֹלֵ֥ל]] [[H9001\|וְ]][[H3001\|יָבֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GRASS|GRASS]] • [[topic LIFE|LIFE]] • [[topic MOWING|MOWING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.90.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.90.5|<< Psalms 90:5]]</td><td align="center" style="border:none;">[[Ps.90|Psalms 90]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.90.7|Psalms 90:7 >>]]</td></tr></table>
 

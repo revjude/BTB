@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Greatest in the Kingdom
+type: Pericope
 pericope: "[[Mark.9.33 The Greatest in the Kingdom|The Greatest in the Kingdom]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Mark
 chapter: 9
 book/chapter: "[[Mark.9|Mark 9]]"
-genre:
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 9
 verses:
 - "[[Mark.9.33]]"
 - "[[Mark.9.34]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Mark.9.41]]"
 ---
 
-[[Mark.9|Mark 9:33 - Mark 9:41]]
+<small>[[Mark.9|Mark 9:33-41]]</small>
 *The Greatest in the Kingdom*
 
 [[Mark.9.33|33]] And he came to Capernaum: and being in the house he asked them, What was it that ye disputed among yourselves by the way?

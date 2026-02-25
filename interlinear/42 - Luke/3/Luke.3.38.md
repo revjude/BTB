@@ -1,10 +1,51 @@
+---
+title: Luke 3:38
+type: Verse
+kjv: "Which was the son of Enos, which was the son of Seth, which was the son of Adam, which was the son of God."
+bsb: "the son of Enosh, the son of Seth, the son of Adam, the son of God."
+greek: "τοῦ Ἐνὼς τοῦ Σὴθ τοῦ Ἀδὰμ τοῦ θεοῦ.¶"
+pericope: "[[Luke.3.23 The Genealogy of Jesus|The Genealogy of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 3
+book/chapter: "[[Luke.3|Luke 3]]"
+chronological_order: 937
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic ENOS|ENOS]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic SETH|SETH]]"
+strongs:
+- "[[G3588]]"
+- "[[G1800]]"
+- "[[G4589]]"
+- "[[G0076]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Luke 3:38**<big><big>[[Luke.3.23 The Genealogy of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Which was [the son] of Enos, which was [the son] of Seth, which was [the son] of Adam, which was [the son] of God.
 <small><sub>**BSB:**</sub></small>
 the son of Enosh, the son of Seth, the son of Adam, the son of God.
-<small><sub>**Literal:**</sub></small>
-<the> of Enosh <the> of Seth <the> of Adam <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.37|<< Luke 3:37]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.1|Luke 4:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τοῦ]]  [[G1800\|Ἐνὼς]]  [[G3588\|τοῦ]]  [[G4589\|Σὴθ]]  [[G3588\|τοῦ]]  [[G0076\|Ἀδὰμ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic ENOS|ENOS]] • [[topic GENEALOGY|GENEALOGY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic SETH|SETH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.37|<< Luke 3:37]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.1|Luke 4:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

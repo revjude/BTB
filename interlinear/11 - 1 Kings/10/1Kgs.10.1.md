@@ -1,8 +1,63 @@
+---
+title: 1 Kings 10:1
+type: Verse
+kjv: "And when the queen of Sheba heard of the fame of Solomon concerning the name of the LORD, she came to prove him with hard questions."
+bsb: "Now when the queen of Sheba heard about the fame of Solomon concerning the name of the LORD, she came to test him with difficult questions."
+hebrew: "וּמַֽלְכַּת־ שְׁבָ֗א שֹׁמַ֛עַת אֶת־ שֵׁ֥מַע שְׁלֹמֹ֖ה לְשֵׁ֣ם יְהוָ֑ה וַתָּבֹ֥א לְנַסֹּת֖וֹ בְּחִידֽוֹת׃"
+pericope: "[[1Kgs.10.1 The Queen of Sheba|The Queen of Sheba]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 10
+book/chapter: "[[1Kgs.10|1 Kings 10]]"
+chronological_order: 535
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic QUEEN|QUEEN]]"
+- "[[topic SHEBA|SHEBA]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H4436G]]"
+- "[[H9014]]"
+- "[[H7614J]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H8088B]]"
+- "[[H8010]]"
+- "[[H9005]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H5254G]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H2420]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 10:1**<big><big>[[1Kgs.10.1 The Queen of Sheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the queen of Sheba heard of the fame of Solomon concerning the name of the LORD, she came to prove him with hard questions.
 <small><sub>**BSB:**</sub></small>
 Now when the queen of Sheba heard about the fame of Solomon concerning the name of the LORD, she came to test him with difficult questions.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4436G\|מַֽלְכַּת]][[H9014\|־]] [[H7614J\|שְׁבָ֗א]] [[H8085G\|שֹׁמַ֛עַת]] [[H0853\|אֶת]][[H9014\|־]] [[H8088B\|שֵׁ֥מַע]] [[H8010\|שְׁלֹמֹ֖ה]] [[H9005\|לְ]][[H8034\|שֵׁ֣ם]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H0935G\|תָּבֹ֥א]] [[H9005\|לְ]][[H5254G\|נַסֹּת֖]][[H9033\|וֹ]] [[H9003\|בְּ]][[H2420\|חִידֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic QUEEN|QUEEN]] • [[topic SHEBA|SHEBA]] • [[topic SOLOMON|SOLOMON]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.28|<< 1 Kings 9:28]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.2|1 Kings 10:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

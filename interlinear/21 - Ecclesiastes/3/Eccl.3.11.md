@@ -1,8 +1,70 @@
+---
+title: Ecclesiastes 3:11
+type: Verse
+kjv: "He hath made every thing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end."
+bsb: "He has made everything beautiful in its time. He has also set eternity in the hearts of men, yet they cannot fathom the work that God has done from beginning to end."
+hebrew: "אֶת־ הַכֹּ֥ל עָשָׂ֖ה יָפֶ֣ה בְעִתּ֑וֹ גַּ֤ם אֶת־ הָעֹלָם֙ נָתַ֣ן בְּלִבָּ֔ם מִבְּלִ֞י אֲשֶׁ֧ר לֹא־ יִמְצָ֣א הָאָדָ֗ם אֶת־ הַֽמַּעֲשֶׂ֛ה אֲשֶׁר־ עָשָׂ֥ה הָאֱלֹהִ֖ים מֵרֹ֥אשׁ וְעַד־ סֽוֹף׃"
+pericope: "[[Eccl.3.9 God’s Works Remain Forever|God’s Works Remain Forever]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 3
+book/chapter: "[[Eccl.3|Ecclesiastes 3]]"
+chronological_order: 541
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3605]]"
+- "[[H6213H]]"
+- "[[H3303]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9023]]"
+- "[[H1571]]"
+- "[[H5769G]]"
+- "[[H5414H]]"
+- "[[H3820A]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H1097]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H0120G]]"
+- "[[H4639G]]"
+- "[[H6213A]]"
+- "[[H0430G]]"
+- "[[H7218J]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H5490]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 3:11**<big><big>[[Eccl.3.9 God’s Works Remain Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath made every [thing] beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end.
 <small><sub>**BSB:**</sub></small>
 He has made everything beautiful in its time. He has also set eternity in the hearts of men, yet they cannot fathom the work that God has done from beginning to end.
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3605\|כֹּ֥ל]] [[H6213H\|עָשָׂ֖ה]] [[H3303\|יָפֶ֣ה]] [[H9003\|בְ]][[H6256\|עִתּ֑]][[H9023\|וֹ]] [[H1571\|גַּ֤ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5769G\|עֹלָם֙]] [[H5414H\|נָתַ֣ן]] [[H9003\|בְּ]][[H3820A\|לִבָּ֔]][[H9028\|ם]] [[H9006\|מִ]][[H1097\|בְּלִ֞י]] [[H0834A\|אֲשֶׁ֧ר]] [[H3808\|לֹא]][[H9014\|־]] [[H4672\|יִמְצָ֣א]] [[H9009\|הָ]][[H0120G\|אָדָ֗ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H4639G\|מַּעֲשֶׂ֛ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|עָשָׂ֥ה]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H9006\|מֵ]][[H7218J\|רֹ֥אשׁ]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H5490\|סֽוֹף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic IGNORANCE|IGNORANCE]] • [[topic POWER|POWER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.3.10|<< Ecclesiastes 3:10]]</td><td align="center" style="border:none;">[[Eccl.3|Ecclesiastes 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.3.12|Ecclesiastes 3:12 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Two Adulterous Sisters
+type: Pericope
 pericope: "[[Ezek.23.1 The Two Adulterous Sisters|The Two Adulterous Sisters]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 23
 book/chapter: "[[Ezek.23|Ezekiel 23]]"
-genre:
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 21
 verses:
 - "[[Ezek.23.1]]"
 - "[[Ezek.23.2]]"
@@ -42,7 +49,7 @@ verses:
 - "[[Ezek.23.21]]"
 ---
 
-[[Ezek.23|Ezekiel 23:1 - Ezekiel 23:21]]
+<small>[[Ezek.23|Ezekiel 23:1-21]]</small>
 *The Two Adulterous Sisters*
 
 [[Ezek.23.1|1]] The word of the LORD came again unto me, saying,

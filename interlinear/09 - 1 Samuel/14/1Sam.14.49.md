@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 14:49
+type: Verse
+kjv: "Now the sons of Saul were Jonathan, and Ishui, and Melchishua: and the names of his two daughters were these; the name of the firstborn Merab, and the name of the younger Michal:"
+bsb: "Now the sons of Saul were Jonathan, Ishvi, and Malchishua. His two daughters were named Merab (his firstborn) and Michal (his younger daughter)."
+hebrew: "וַיִּֽהְיוּ֙ בְּנֵ֣י שָׁא֔וּל יוֹנָתָ֥ן וְיִשְׁוִ֖י וּמַלְכִּי־ שׁ֑וּעַ וְשֵׁם֙ שְׁתֵּ֣י בְנֹתָ֔יו שֵׁ֤ם הַבְּכִירָה֙ מֵרַ֔ב וְשֵׁ֥ם הַקְּטַנָּ֖ה מִיכַֽל׃"
+pericope: "[[1Sam.14.47 Saul’s Victories|Saul’s Victories]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABINADAB|ABINADAB]]"
+- "[[topic ISHUI|ISHUI]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic MELCHISHUA|MELCHISHUA]]"
+- "[[topic MERAB|MERAB]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1121A]]"
+- "[[H7586G]]"
+- "[[H3129N]]"
+- "[[H9002]]"
+- "[[H3440H]]"
+- "[[H4444]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H8147]]"
+- "[[H1323G]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H1067]]"
+- "[[H4764]]"
+- "[[H6996A]]"
+- "[[H4324G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 14:49**<big><big>[[1Sam.14.47 Saul’s Victories|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the sons of Saul were Jonathan, and Ishui, and Melchishua: and the names of his two daughters [were these]; the name of the firstborn Merab, and the name of the younger Michal:
 <small><sub>**BSB:**</sub></small>
 Now the sons of Saul were Jonathan, Ishvi, and Malchishua. His two daughters were named Merab (his firstborn) and Michal (his younger daughter).
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יִּֽהְיוּ֙]] [[H1121A\|בְּנֵ֣י]] [[H7586G\|שָׁא֔וּל]] [[H3129N\|יוֹנָתָ֥ן]] [[H9002\|וְ]][[H3440H\|יִשְׁוִ֖י]] [[H9002\|וּ]][[H4444\|מַלְכִּי]][[H9014\|־]] [[H4444\|שׁ֑וּעַ]] [[H9002\|וְ]][[H8034\|שֵׁם֙]] [[H8147\|שְׁתֵּ֣י]] [[H1323G\|בְנֹתָ֔י]][[H9023\|ו]] [[H8034\|שֵׁ֤ם]] [[H9009\|הַ]][[H1067\|בְּכִירָה֙]] [[H4764\|מֵרַ֔ב]] [[H9002\|וְ]][[H8034\|שֵׁ֥ם]] [[H9009\|הַ]][[H6996A\|קְּטַנָּ֖ה]] [[H4324G\|מִיכַֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABINADAB|ABINADAB]] • [[topic ISHUI|ISHUI]] • [[topic JONATHAN|JONATHAN]] • [[topic MELCHISHUA|MELCHISHUA]] • [[topic MERAB|MERAB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.48|<< 1 Samuel 14:48]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.50|1 Samuel 14:50 >>]]</td></tr></table>
 

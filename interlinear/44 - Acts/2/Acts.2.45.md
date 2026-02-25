@@ -1,10 +1,57 @@
+---
+title: Acts 2:45
+type: Verse
+kjv: "And sold their possessions and goods, and parted them to all men, as every man had need."
+bsb: "Selling their possessions and goods, they shared with anyone who was in need."
+greek: "καὶ τὰ κτήματα καὶ τὰς ὑπάρξεις ἐπίπρασκον καὶ διεμέριζον αὐτὰ πᾶσιν καθότι ἄν τις χρείαν εἶχεν·"
+pericope: "[[Acts.2.42 The Fellowship of Believers|The Fellowship of Believers]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic COMMUNISM|COMMUNISM]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2933]]"
+- "[[G5223]]"
+- "[[G4097]]"
+- "[[G1266]]"
+- "[[G0846]]"
+- "[[G3956]]"
+- "[[G2530]]"
+- "[[G0302]]"
+- "[[G5100]]"
+- "[[G5532]]"
+- "[[G2192]]"
+texts:
+- NKO
+---
+
 **Acts 2:45**<big><big>[[Acts.2.42 The Fellowship of Believers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And sold their possessions and goods, and parted them to all [men], as every man had need.
 <small><sub>**BSB:**</sub></small>
 Selling their possessions and goods, they shared with anyone who was in need.
-<small><sub>**Literal:**</sub></small>
-and the possessions and the goods they were selling and they were dividing them to all as would anyone need had;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.44|<< Acts 2:44]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.46|Acts 2:46 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G2933\|κτήματα]]  [[G2532\|καὶ]]  [[G3588\|τὰς]]  [[G5223\|ὑπάρξεις]]  [[G4097\|ἐπίπρασκον]]  [[G2532\|καὶ]]  [[G1266\|διεμέριζον]]  [[G0846\|αὐτὰ]]  [[G3956\|πᾶσιν]]  [[G2530\|καθότι]]  [[G0302\|ἄν]]  [[G5100\|τις]]  [[G5532\|χρείαν]]  [[G2192\|εἶχεν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic COMMUNISM|COMMUNISM]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic LIBERALITY|LIBERALITY]] • [[topic SELF-DENIAL|SELF-DENIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.44|<< Acts 2:44]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.46|Acts 2:46 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

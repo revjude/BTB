@@ -1,8 +1,58 @@
+---
+title: Deuteronomy 33:22
+type: Verse
+kjv: "And of Dan he said, Dan is a lion’s whelp: he shall leap from Bashan."
+bsb: "Concerning Dan he said: “Dan is a lion’s cub, leaping out of Bashan.”"
+hebrew: "וּלְדָ֣ן אָמַ֔ר דָּ֖ן גּ֣וּר אַרְיֵ֑ה יְזַנֵּ֖ק מִן־ הַבָּשָֽׁן׃"
+pericope: "[[Deut.33.1 Moses Blesses the Twelve Tribes|Moses Blesses the Twelve Tribes]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 33
+book/chapter: "[[Deut.33|Deuteronomy 33]]"
+chronological_order: 229
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DAN|DAN]]"
+- "[[topic DEATH|DEATH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H1835G]]"
+- "[[H0559]]"
+- "[[H1482]]"
+- "[[H0738B]]"
+- "[[H2187]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1316]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 33:22**<big><big>[[Deut.33.1 Moses Blesses the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of Dan he said, Dan [is] a lion’s whelp: he shall leap from Bashan.
 <small><sub>**BSB:**</sub></small>
 Concerning Dan he said: “Dan is a lion’s cub, leaping out of Bashan.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H1835G\|דָ֣ן]] [[H0559\|אָמַ֔ר]] [[H1835G\|דָּ֖ן]] [[H1482\|גּ֣וּר]] [[H0738B\|אַרְיֵ֑ה]] [[H2187\|יְזַנֵּ֖ק]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1316\|בָּשָֽׁן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAN|DAN]] • [[topic DEATH|DEATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.21|<< Deuteronomy 33:21]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.23|Deuteronomy 33:23 >>]]</td></tr></table>
 

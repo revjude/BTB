@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Rejoicing in Trials
+type: Pericope
 pericope: "[[Jas.1.2 Rejoicing in Trials|Rejoicing in Trials]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: James
 chapter: 1
 book/chapter: "[[Jas.1|James 1]]"
-genre:
+chronological_order: 1033
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
 - epistle
 - general epistle
 - wisdom literature
 - ethical instruction
+verse_count: 11
 verses:
 - "[[Jas.1.2]]"
 - "[[Jas.1.3]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Jas.1.12]]"
 ---
 
-[[Jas.1|James 1:2 - James 1:12]]
+<small>[[Jas.1|James 1:2-12]]</small>
 *Rejoicing in Trials*
 
 [[Jas.1.2|2]] My brethren, count it all joy when ye fall into divers temptations;

@@ -9,7 +9,7 @@
 
 → INSTANCES OF
 
-- At Sinai [[Exod.19.18|Ex 19:18]]; [[Ps.68.8|Ps 68:8]]; [[Ps.77.18|77:18]]; [[Ps.114.4|114:4]]-[[Ps.114.7|7]]; [[Heb.12.26|Heb 12:26]]
+- At Sinai [[Exod.19.18|Ex 19:18]]; [[Ps.68.8|Ps 68:8]]; [[Ps.77.18|77:18]]; [[Ps.114.4|114:4-7]]; [[Heb.12.26|Heb 12:26]]
 
 - When Korah, Dathan, and Abiram were swallowed up [[Num.16.31|Nu  16:31]],[[Num.16.32|32]]
 
@@ -27,5 +27,5 @@
 
 → FIGURATIVE [[Ps.60.2|Ps 60:2]]
 
-→ SYMBOLICAL [[Rev.6.12|Re 6:12]]-[[Rev.6.14|14]]; [[Rev.11.13|11:13]]; [[Rev.16.18|16:18]],[[Rev.16.20|20]]
+→ SYMBOLICAL [[Rev.6.12|Re 6:12-14]]; [[Rev.11.13|11:13]]; [[Rev.16.18|16:18]],[[Rev.16.20|20]]
 

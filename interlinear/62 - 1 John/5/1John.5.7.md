@@ -1,10 +1,59 @@
+---
+title: 1 John 5:7
+type: Verse
+kjv: "For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one."
+bsb: "For there are three that testify:"
+greek: "ὅτι τρεῖς εἰσιν οἱ μαρτυροῦντες, ἕν τῷ οὐρανῷ ὁ πατήρ ὁ λόγος καὶ τὸ ἅγιον πνεῦμα καὶ οὗτοι οἱ τρεῖς ἕν εἰσιν"
+pericope: "[[1John.5.1 Overcoming the World|Overcoming the World]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 5
+book/chapter: "[[1John.5|1 John 5]]"
+chronological_order: 1165
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TRINITY|TRINITY]]"
+- "[[topic WORD|WORD]]"
+strongs:
+- "[[G3754H]]"
+- "[[G5140]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G3140]]"
+- "[[G1722]]"
+- "[[G3772]]"
+- "[[G3962]]"
+- "[[G3056]]"
+- "[[G2532]]"
+- "[[G0040G]]"
+- "[[G4151G]]"
+- "[[G3778]]"
+- "[[G1520]]"
+texts:
+- NKO
+- K
+---
+
 **1 John 5:7**<big><big>[[1John.5.1 Overcoming the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.
 <small><sub>**BSB:**</sub></small>
 For there are three that testify:
-<small><sub>**Literal:**</sub></small>
-For three there are those bearing testimony: in the heaven the Father the Word and the Holy Spirit and these <the> three one are<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.6|<< 1 John 5:6]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.8|1 John 5:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G5140\|τρεῖς]]  [[G1510\|εἰσιν]]  [[G3588\|οἱ]]  [[G3140\|μαρτυροῦντες,]]  [[G1722\|ἕν]]  [[G3588\|τῷ]]  [[G3772\|οὐρανῷ]]  [[G3588\|ὁ]]  [[G3962\|πατήρ]]  [[G3588\|ὁ]]  [[G3056\|λόγος]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G0040G\|ἅγιον]]  [[G4151G\|πνεῦμα]]  [[G2532\|καὶ]]  [[G3778\|οὗτοι]]  [[G3588\|οἱ]]  [[G5140\|τρεῖς]]  [[G1520\|ἕν]]  [[G1510\|εἰσιν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TRINITY|TRINITY]] • [[topic WORD|WORD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.6|<< 1 John 5:6]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.8|1 John 5:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

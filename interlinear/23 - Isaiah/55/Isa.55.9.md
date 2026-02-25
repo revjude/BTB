@@ -1,8 +1,56 @@
+---
+title: Isaiah 55:9
+type: Verse
+kjv: "For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts."
+bsb: "“For as the heavens are higher than the earth, so My ways are higher than your ways and My thoughts than your thoughts."
+hebrew: "כִּֽי־ גָבְה֥וּ שָׁמַ֖יִם מֵאָ֑רֶץ כֵּ֣ן גָּבְה֤וּ דְרָכַי֙ מִדַּרְכֵיכֶ֔ם וּמַחְשְׁבֹתַ֖י מִמַּחְשְׁבֹתֵיכֶֽם׃"
+pericope: "[[Isa.55.1 Invitation to the Needy|Invitation to the Needy]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 55
+book/chapter: "[[Isa.55|Isaiah 55]]"
+chronological_order: 694
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1361]]"
+- "[[H8064]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H3651C]]"
+- "[[H1870G]]"
+- "[[H9020]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H4284]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 55:9**<big><big>[[Isa.55.1 Invitation to the Needy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [as] the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.
 <small><sub>**BSB:**</sub></small>
 “For as the heavens are higher than the earth, so My ways are higher than your ways and My thoughts than your thoughts.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H1361\|גָבְה֥וּ]] [[H8064\|שָׁמַ֖יִם]] [[H9006\|מֵ]][[H0776G\|אָ֑רֶץ]] [[H3651C\|כֵּ֣ן]] [[H1361\|גָּבְה֤וּ]] [[H1870G\|דְרָכַ]][[H9020\|י֙]] [[H9006\|מִ]][[H1870G\|דַּרְכֵי]][[H9026\|כֶ֔ם]] [[H9002\|וּ]][[H4284\|מַחְשְׁבֹתַ֖]][[H9020\|י]] [[H9006\|מִ]][[H4284\|מַּחְשְׁבֹתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.55.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.55.8|<< Isaiah 55:8]]</td><td align="center" style="border:none;">[[Isa.55|Isaiah 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.55.10|Isaiah 55:10 >>]]</td></tr></table>
 

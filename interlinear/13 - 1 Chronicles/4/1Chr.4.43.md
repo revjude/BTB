@@ -1,8 +1,58 @@
+---
+title: 1 Chronicles 4:43
+type: Verse
+kjv: "And they smote the rest of the Amalekites that were escaped, and dwelt there unto this day."
+bsb: "and struck down the remnant of the Amalekites who had escaped. And they have lived there to this day."
+hebrew: "וַיַּכּ֕וּ אֶת־ שְׁאֵרִ֥ית הַפְּלֵטָ֖ה לַעֲמָלֵ֑ק וַיֵּ֣שְׁבוּ שָׁ֔ם עַ֖ד הַיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[1Chr.4.24 The Descendants of Simeon|The Descendants of Simeon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 4
+book/chapter: "[[1Chr.4|1 Chronicles 4]]"
+chronological_order: 323
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic PELATIAH|PELATIAH]]"
+- "[[topic SIMEON|SIMEON]]"
+strongs:
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7611]]"
+- "[[H9009]]"
+- "[[H6413]]"
+- "[[H9005]]"
+- "[[H6002G]]"
+- "[[H3427]]"
+- "[[H8033G]]"
+- "[[H5704]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 4:43**<big><big>[[1Chr.4.24 The Descendants of Simeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they smote the rest of the Amalekites that were escaped, and dwelt there unto this day.
 <small><sub>**BSB:**</sub></small>
 and struck down the remnant of the Amalekites who had escaped. And they have lived there to this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5221\|יַּכּ֕וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H7611\|שְׁאֵרִ֥ית]] [[H9009\|הַ]][[H6413\|פְּלֵטָ֖ה]] [[H9005\|לַ]][[H6002G\|עֲמָלֵ֑ק]] [[H9001\|וַ]][[H3427\|יֵּ֣שְׁבוּ]] [[H8033G\|שָׁ֔ם]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMALEKITES|AMALEKITES]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic PELATIAH|PELATIAH]] • [[topic SIMEON|SIMEON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.42|<< 1 Chronicles 4:42]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.1|1 Chronicles 5:1 >>]]</td></tr></table>
 

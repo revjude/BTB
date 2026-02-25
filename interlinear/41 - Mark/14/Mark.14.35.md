@@ -1,10 +1,61 @@
+---
+title: Mark 14:35
+type: Verse
+kjv: "And he went forward a little, and fell on the ground, and prayed that, if it were possible, the hour might pass from him."
+bsb: "Going a little farther, He fell to the ground and prayed that, if it were possible, the hour would pass from Him."
+greek: "καὶ προελθὼν μικρὸν ἔπιπτεν ἐπὶ τῆς γῆς καὶ προσηύχετο ἵνα εἰ δυνατόν ἐστιν παρέλθῃ ἀπ᾽ αὐτοῦ ἡ ὥρα."
+pericope: "[[Mark.14.32 Jesus Prays at Gethsemane|Jesus Prays at Gethsemane]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GETHSEMANE|GETHSEMANE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SORROW|SORROW]]"
+strongs:
+- "[[G2532]]"
+- "[[G4281]]"
+- "[[G3398]]"
+- "[[G4098]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1093I]]"
+- "[[G4336]]"
+- "[[G2443]]"
+- "[[G1487G]]"
+- "[[G1415]]"
+- "[[G1510]]"
+- "[[G3928]]"
+- "[[G0575]]"
+- "[[G0846]]"
+- "[[G5610]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Mark 14:35**<big><big>[[Mark.14.32 Jesus Prays at Gethsemane|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he went forward a little, and fell on the ground, and prayed that, if it were possible, the hour might pass from him.
 <small><sub>**BSB:**</sub></small>
 Going a little farther, He fell to the ground and prayed that, if it were possible, the hour would pass from Him.
-<small><sub>**Literal:**</sub></small>
-And having gone forward a little He was falling upon the ground and he was praying that if possible it is it shall pass from Him the hour.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.34|<< Mark 14:34]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.36|Mark 14:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4281\|προελθὼν]]  [[G3398\|μικρὸν]]  [[G4098\|ἔπιπτεν]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093I\|γῆς]]  [[G2532\|καὶ]]  [[G4336\|προσηύχετο]]  [[G2443\|ἵνα]]  [[G1487G\|εἰ]]  [[G1415\|δυνατόν]]  [[G1510\|ἐστιν]]  [[G3928\|παρέλθῃ]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτοῦ]]  [[G3588\|ἡ]]  [[G5610\|ὥρα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GETHSEMANE|GETHSEMANE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic SORROW|SORROW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.34|<< Mark 14:34]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.36|Mark 14:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

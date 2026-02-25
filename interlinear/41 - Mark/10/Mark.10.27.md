@@ -1,10 +1,59 @@
+---
+title: Mark 10:27
+type: Verse
+kjv: "And Jesus looking upon them saith, With men it is impossible, but not with God: for with God all things are possible."
+bsb: "Jesus looked at them and said, “With man this is impossible, but not with God. For all things are possible with God.”"
+jesus_said: "With men it is impossible, but not with God: for with God all things are possible."
+greek: "ἐμβλέψας δὲ αὐτοῖς ὁ Ἰησοῦς λέγει· παρὰ ἀνθρώποις ἀδύνατον ἀλλ᾽ οὐ παρὰ τῷ θεῷ· πάντα γὰρ δυνατὰ ἐστιν παρὰ τῷ θεῷ.¶"
+pericope: "[[Mark.10.17 The Rich Young Man|The Rich Young Man]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic RICH, THE|RICH, THE]]"
+strongs:
+- "[[G1689]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3004G]]"
+- "[[G3844]]"
+- "[[G0444]]"
+- "[[G0102]]"
+- "[[G0235]]"
+- "[[G3756]]"
+- "[[G2316]]"
+- "[[G3956]]"
+- "[[G1063]]"
+- "[[G1415]]"
+- "[[G1510]]"
+texts:
+- NKO
+- k
+---
+
 **Mark 10:27**<big><big>[[Mark.10.17 The Rich Young Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus looking upon them saith, With men [it is] impossible, but not with God: for with God all things are possible.
 <small><sub>**BSB:**</sub></small>
 Jesus looked at them and said, “With man this is impossible, but not with God. For all things are possible with God.”
-<small><sub>**Literal:**</sub></small>
-Having looked now on them <the> Jesus says; With men [it is] impossible but not [is impossible] with <the> God; all things for [are] possible is with <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.26|<< Mark 10:26]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.28|Mark 10:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1689\|ἐμβλέψας]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3004G\|λέγει·]]  [[G3844\|παρὰ]]  [[G0444\|ἀνθρώποις]]  [[G0102\|ἀδύνατον]]  [[G0235\|ἀλλ᾽]]  [[G3756\|οὐ]]  [[G3844\|παρὰ]]  [[G3588\|τῷ]]  [[G2316\|θεῷ·]]  [[G3956\|πάντα]]  [[G1063\|γὰρ]]  [[G1415\|δυνατὰ]]  [[G1510\|ἐστιν]]  [[G3844\|παρὰ]]  [[G3588\|τῷ]]  [[G2316\|θεῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic RICH, THE|RICH, THE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.26|<< Mark 10:26]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.28|Mark 10:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

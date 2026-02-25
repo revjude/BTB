@@ -1,10 +1,71 @@
+---
+title: Luke 20:10
+type: Verse
+kjv: "And at the season he sent a servant to the husbandmen, that they should give him of the fruit of the vineyard: but the husbandmen beat him, and sent him away empty."
+bsb: "At harvest time, he sent a servant to the tenants to collect his share of the fruit of the vineyard. But the tenants beat the servant and sent him away empty-handed."
+jesus_said: "And at the season he sent a servant to the husbandmen, that they should give him of the fruit of the vineyard: but the husbandmen beat him, and sent him away empty."
+greek: "καὶ ἐν καιρῷ ἀπέστειλεν πρὸς τοὺς γεωργοὺς δοῦλον ἵνα ἀπὸ τοῦ καρποῦ τοῦ ἀμπελῶνος δώσουσιν αὐτῷ· οἱ δὲ γεωργοὶ ἐξαπέστειλαν αὐτὸν δείραντες κενόν."
+pericope: "[[Luke.20.9 The Parable of the Wicked Tenants|The Parable of the Wicked Tenants]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 20
+book/chapter: "[[Luke.20|Luke 20]]"
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CAPITAL AND LABOR|CAPITAL AND LABOR]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAND|LAND]]"
+- "[[topic LEASE|LEASE]]"
+- "[[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]]"
+- "[[topic RENTING|RENTING]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G2540]]"
+- "[[G0649]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G1092]]"
+- "[[G1401]]"
+- "[[G2443]]"
+- "[[G0575]]"
+- "[[G2590]]"
+- "[[G0290]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G1161]]"
+- "[[G1821]]"
+- "[[G1194]]"
+- "[[G2756]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Luke 20:10**<big><big>[[Luke.20.9 The Parable of the Wicked Tenants|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And at the season he sent a servant to the husbandmen, that they should give him of the fruit of the vineyard: but the husbandmen beat him, and sent [him] away empty.
 <small><sub>**BSB:**</sub></small>
 At harvest time, he sent a servant to the tenants to collect his share of the fruit of the vineyard. But the tenants beat the servant and sent him away empty-handed.
-<small><sub>**Literal:**</sub></small>
-And in [in the] season he sent to the farmers a servant that from the fruit of the vineyard they will give to him; <the> But the farmers sent away him having beaten [him] empty-handed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.9|<< Luke 20:9]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.11|Luke 20:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G2540\|καιρῷ]]  [[G0649\|ἀπέστειλεν]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G1092\|γεωργοὺς]]  [[G1401\|δοῦλον]]  [[G2443\|ἵνα]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G2590\|καρποῦ]]  [[G3588\|τοῦ]]  [[G0290\|ἀμπελῶνος]]  [[G1325\|δώσουσιν]]  [[G0846\|αὐτῷ·]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G1092\|γεωργοὶ]]  [[G1821\|ἐξαπέστειλαν]]  [[G0846\|αὐτὸν]]  [[G1194\|δείραντες]]  [[G2756\|κενόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPITAL AND LABOR|CAPITAL AND LABOR]] • [[topic DEBTOR|DEBTOR]] • [[topic GOD|GOD]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAND|LAND]] • [[topic LEASE|LEASE]] • [[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]] • [[topic RENTING|RENTING]] • [[topic REPROOF|REPROOF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.9|<< Luke 20:9]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.11|Luke 20:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

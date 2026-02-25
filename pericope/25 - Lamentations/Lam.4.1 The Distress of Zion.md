@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Distress of Zion
+type: Pericope
 pericope: "[[Lam.4.1 The Distress of Zion|The Distress of Zion]]"
-verse_count: 22
+original_language: Hebrew
 testament: Old
 book: Lamentations
 chapter: 4
 book/chapter: "[[Lam.4|Lamentations 4]]"
-genre:
+chronological_order: 779
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
 - poetry
 - lament
 - acrostic
 - megillot
+verse_count: 22
 verses:
 - "[[Lam.4.1]]"
 - "[[Lam.4.2]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Lam.4.22]]"
 ---
 
-[[Lam.4|Lamentations 4:1 - Lamentations 4:22]]
+<small>[[Lam.4|Lamentations 4:1-22]]</small>
 *The Distress of Zion*
 
 [[Lam.4.1|1]] How is the gold become dim! \[how\] is the most fine gold changed! the stones of the sanctuary are poured out in the top of every street.

@@ -1,8 +1,59 @@
+---
+title: Joel 2:14
+type: Verse
+kjv: "Who knoweth if he will return and repent, and leave a blessing behind him; even a meat offering and a drink offering unto the LORD your God?"
+bsb: "Who knows? He may turn and relent and leave a blessing behind Him—grain and drink offerings for the LORD your God."
+hebrew: "מִ֥י יוֹדֵ֖עַ יָשׁ֣וּב וְנִחָ֑ם וְהִשְׁאִ֤יר אַֽחֲרָיו֙ בְּרָכָ֔ה מִנְחָ֣ה וָנֶ֔סֶךְ לַיהוָ֖ה אֱלֹהֵיכֶֽם׃ פ"
+pericope: "[[Joel.2.12 Return with All Your Heart|Return with All Your Heart]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 2
+book/chapter: "[[Joel.2|Joel 2]]"
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H4310]]"
+- "[[H3045]]"
+- "[[H7725O]]"
+- "[[H9001]]"
+- "[[H5162H]]"
+- "[[H7604]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H1293]]"
+- "[[H4503G]]"
+- "[[H9002]]"
+- "[[H5262]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Joel 2:14**<big><big>[[Joel.2.12 Return with All Your Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who knoweth [if] he will return and repent, and leave a blessing behind him; [even] a meat offering and a drink offering unto the LORD your God?
 <small><sub>**BSB:**</sub></small>
 Who knows? He may turn and relent and leave a blessing behind Him—grain and drink offerings for the LORD your God.
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִ֥י]] [[H3045\|יוֹדֵ֖עַ]] [[H7725O\|יָשׁ֣וּב]] [[H9001\|וְ]][[H5162H\|נִחָ֑ם]] [[H9001\|וְ]][[H7604\|הִשְׁאִ֤יר]] [[H0310A\|אַֽחֲרָי]][[H9033\|ו֙]] [[H1293\|בְּרָכָ֔ה]] [[H4503G\|מִנְחָ֣ה]] [[H9002\|וָ]][[H5262\|נֶ֔סֶךְ]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶֽם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.13|<< Joel 2:13]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.15|Joel 2:15 >>]]</td></tr></table>
 
@@ -18,7 +69,7 @@ Who knows? He may turn and relent and leave a blessing behind Him—grain and dr
 | a grain offering  |**<big>&#8207;[[H4503G\|מִנְחָ֣ה]]&#8207; </big>**| min.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and a drink offering  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H5262\|נֶ֔סֶךְ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Ne.sekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָ֖ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God your  |**<big>&#8207;[[H0430G\|אֱלֹהֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  |**<big>&#8207;[[H0430G\|אֱלֹהֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.13|<< Joel 2:13]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.15|Joel 2:15 >>]]</td></tr></table>
 
 

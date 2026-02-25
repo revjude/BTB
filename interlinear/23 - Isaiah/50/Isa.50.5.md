@@ -1,8 +1,55 @@
+---
+title: Isaiah 50:5
+type: Verse
+kjv: "The Lord GOD hath opened mine ear, and I was not rebellious, neither turned away back."
+bsb: "The Lord GOD has opened My ears, and I have not been rebellious, nor have I turned back."
+hebrew: "אֲדֹנָ֤י יְהוִה֙ פָּתַֽח־ לִ֣י אֹ֔זֶן וְאָנֹכִ֖י לֹ֣א מָרִ֑יתִי אָח֖וֹר לֹ֥א נְסוּגֹֽתִי׃"
+pericope: "[[Isa.50.4 The Servant’s Obedience|The Servant’s Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 50
+book/chapter: "[[Isa.50|Isaiah 50]]"
+chronological_order: 689
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H6605A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0241G]]"
+- "[[H9002]]"
+- "[[H0595]]"
+- "[[H3808]]"
+- "[[H4784]]"
+- "[[H0268]]"
+- "[[H5472]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 50:5**<big><big>[[Isa.50.4 The Servant’s Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Lord GOD hath opened mine ear, and I was not rebellious, neither turned away back.
 <small><sub>**BSB:**</sub></small>
 The Lord GOD has opened My ears, and I have not been rebellious, nor have I turned back.
+<small><sub>**Hebrew:**</sub></small>
+[[H0136\|אֲדֹנָ֤י]] [[H3069\|יְהוִה֙]] [[H6605A\|פָּתַֽח]][[H9014\|־]] [[H9005\|לִ֣]][[H9030\|י]] [[H0241G\|אֹ֔זֶן]] [[H9002\|וְ]][[H0595\|אָנֹכִ֖י]] [[H3808\|לֹ֣א]] [[H4784\|מָרִ֑יתִי]] [[H0268\|אָח֖וֹר]] [[H3808\|לֹ֥א]] [[H5472\|נְסוּגֹֽתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.50.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.50.4|<< Isaiah 50:4]]</td><td align="center" style="border:none;">[[Isa.50|Isaiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.50.6|Isaiah 50:6 >>]]</td></tr></table>
 

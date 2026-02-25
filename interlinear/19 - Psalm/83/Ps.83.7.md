@@ -1,8 +1,55 @@
+---
+title: Psalm 83:7
+type: Verse
+kjv: "Gebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre;"
+bsb: "of Gebal, Ammon, and Amalek, of Philistia with the people of Tyre."
+hebrew: "גְּבָ֣ל וְ֭עַמּוֹן וַעֲמָלֵ֑ק פְּ֝לֶ֗שֶׁת עִם־ יֹ֥שְׁבֵי צֽוֹר׃"
+pericope: "[[Ps.83.1 O God, Be Not Silent|O God, Be Not Silent]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 83
+book/chapter: "[[Ps.83|Psalm 83]]"
+chronological_order: 513
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic GEBAL|GEBAL]]"
+strongs:
+- "[[H1381]]"
+- "[[H9002]]"
+- "[[H5983]]"
+- "[[H6002G]]"
+- "[[H6429]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H3427]]"
+- "[[H6865]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 83:7**<big><big>[[Ps.83.1 O God, Be Not Silent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Gebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre;
 <small><sub>**BSB:**</sub></small>
 of Gebal, Ammon, and Amalek, of Philistia with the people of Tyre.
+<small><sub>**Hebrew:**</sub></small>
+[[H1381\|גְּבָ֣ל]] [[H9002\|וְ֭]][[H5983\|עַמּוֹן]] [[H9002\|וַ]][[H6002G\|עֲמָלֵ֑ק]] [[H6429\|פְּ֝לֶ֗שֶׁת]] [[H5973A\|עִם]][[H9014\|־]] [[H3427\|יֹ֥שְׁבֵי]] [[H6865\|צֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ARMIES|ARMIES]] • [[topic GEBAL|GEBAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.83.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.83.6|<< Psalms 83:6]]</td><td align="center" style="border:none;">[[Ps.83|Psalms 83]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.83.8|Psalms 83:8 >>]]</td></tr></table>
 

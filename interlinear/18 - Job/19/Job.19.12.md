@@ -1,8 +1,58 @@
+---
+title: Job 19:12
+type: Verse
+kjv: "His troops come together, and raise up their way against me, and encamp round about my tabernacle."
+bsb: "His troops advance together; they construct a ramp against me and encamp around my tent."
+hebrew: "יַ֤חַד׀ יָ֘בֹ֤אוּ גְדוּדָ֗יו וַיָּסֹ֣לּוּ עָלַ֣י דַּרְכָּ֑ם וַיַּחֲנ֖וּ סָבִ֣יב לְאָהֳלִֽי׃"
+pericope: "[[Job.19.1 Job：My Redeemer Lives|Job：My Redeemer Lives]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 19
+book/chapter: "[[Job.19|Job 19]]"
+chronological_order: 30
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H3162A]]"
+- "[[H9015]]"
+- "[[H0935G]]"
+- "[[H1416]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H5549]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H1870K]]"
+- "[[H9028]]"
+- "[[H2583]]"
+- "[[H5439G]]"
+- "[[H9005]]"
+- "[[H0168G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 19:12**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His troops come together, and raise up their way against me, and encamp round about my tabernacle.
 <small><sub>**BSB:**</sub></small>
 His troops advance together; they construct a ramp against me and encamp around my tent.
+<small><sub>**Hebrew:**</sub></small>
+[[H3162A\|יַ֤חַד]][[H9015\|׀]] [[H0935G\|יָ֘בֹ֤אוּ]] [[H1416\|גְדוּדָ֗י]][[H9023\|ו]] [[H9001\|וַ]][[H5549\|יָּסֹ֣לּוּ]] [[H5921A\|עָלַ֣]][[H9030\|י]] [[H1870K\|דַּרְכָּ֑]][[H9028\|ם]] [[H9001\|וַ]][[H2583\|יַּחֲנ֖וּ]] [[H5439G\|סָבִ֣יב]] [[H9005\|לְ]][[H0168G\|אָהֳלִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.11|<< Job 19:11]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.13|Job 19:13 >>]]</td></tr></table>
 

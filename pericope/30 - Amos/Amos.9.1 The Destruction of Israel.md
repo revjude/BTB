@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Destruction of Israel
+type: Pericope
 pericope: "[[Amos.9.1 The Destruction of Israel|The Destruction of Israel]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Amos
 chapter: 9
 book/chapter: "[[Amos.9|Amos 9]]"
-genre:
+chronological_order: 606
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 10
 verses:
 - "[[Amos.9.1]]"
 - "[[Amos.9.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Amos.9.10]]"
 ---
 
-[[Amos.9|Amos 9:1 - Amos 9:10]]
+<small>[[Amos.9|Amos 9:1-10]]</small>
 *The Destruction of Israel*
 
 [[Amos.9.1|1]] I saw the Lord standing upon the altar: and he said, Smite the lintel of the door, that the posts may shake: and cut them in the head, all of them; and I will slay the last of them with the sword: he that fleeth of them shall not flee away, and he that escapeth of them shall not be delivered.

@@ -1,8 +1,62 @@
+---
+title: Psalm 10:9
+type: Verse
+kjv: "He lieth in wait secretly as a lion in his den: he lieth in wait to catch the poor: he doth catch the poor, when he draweth him into his net."
+bsb: "He lies in wait like a lion in a thicket; he lurks to seize the oppressed; he catches the lowly in his net."
+hebrew: "יֶאֱרֹ֬ב בַּמִּסְתָּ֨ר׀ כְּאַרְיֵ֬ה בְסֻכֹּ֗ה יֶ֭אֱרֹב לַחֲט֣וֹף עָנִ֑י יַחְטֹ֥ף עָ֝נִ֗י בְּמָשְׁכ֥וֹ בְרִשְׁתּֽוֹ׃"
+pericope: "[[Ps.10.1 The Perils of the Pilgrim|The Perils of the Pilgrim]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 10
+book/chapter: "[[Ps.10|Psalm 10]]"
+chronological_order: 344
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic LION|LION]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic NET|NET]]"
+- "[[topic POOR|POOR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0693]]"
+- "[[H9003]]"
+- "[[H4565]]"
+- "[[H9015]]"
+- "[[H9004]]"
+- "[[H0738B]]"
+- "[[H5520]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H2414]]"
+- "[[H6041]]"
+- "[[H4900]]"
+- "[[H9043]]"
+- "[[H7568]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 10:9**<big><big>[[Ps.10.1 The Perils of the Pilgrim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He lieth in wait secretly as a lion in his den: he lieth in wait to catch the poor: he doth catch the poor, when he draweth him into his net.
 <small><sub>**BSB:**</sub></small>
 He lies in wait like a lion in a thicket; he lurks to seize the oppressed; he catches the lowly in his net.
+<small><sub>**Hebrew:**</sub></small>
+[[H0693\|יֶאֱרֹ֬ב]] [[H9003\|בַּ]][[H4565\|מִּסְתָּ֨ר]][[H9015\|׀]] [[H9004\|כְּ]][[H0738B\|אַרְיֵ֬ה]] [[H9003\|בְ]][[H5520\|סֻכֹּ֗]][[H9023\|ה]] [[H0693\|יֶ֭אֱרֹב]] [[H9005\|לַ]][[H2414\|חֲט֣וֹף]] [[H6041\|עָנִ֑י]] [[H2414\|יַחְטֹ֥ף]] [[H6041\|עָ֝נִ֗י]] [[H9003\|בְּ]][[H4900\|מָשְׁכ֥]][[H9043\|וֹ]] [[H9003\|בְ]][[H7568\|רִשְׁתּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LION|LION]] • [[topic MALICE|MALICE]] • [[topic NET|NET]] • [[topic POOR|POOR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.10.8|<< Psalms 10:8]]</td><td align="center" style="border:none;">[[Ps.10|Psalms 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.10.10|Psalms 10:10 >>]]</td></tr></table>
 

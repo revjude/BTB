@@ -1,6 +1,80 @@
+---
+title: LXX Ezekiel 8:5
+type: Verse
+lxx: "And he said to me, O son of man, look up with your eyes towards the north. And I looked up  with my eyes towards the north. And behold, from the north at the gate, the one towards the east of the altar, was the image  of jealousy; this was in the entering it."
+greek: "και είπε προς με υιέ ανθρώπου ανάβλεψον τοις οφθαλμοίς σου προς βορράν και ανέβλεψα τους οφθαλμούς μου προς βορράν και ιδού από βορρά επί την πύλην την προς ανατολάς του θυσιαστηρίου η εικών του ζήλου τούτου εν τω εισπορεύεσθαι αυτήν"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 8
+book/chapter: "[[Ezek.8|Ezekiel 8]]"
+chronological_order: 799
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic IMAGE|IMAGE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G0308]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G1473]]"
+- "[[G4314]]"
+- "[[G1005]]"
+- "[[G2532]]"
+- "[[G0308]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G1473]]"
+- "[[G4314]]"
+- "[[G1005]]"
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G0575]]"
+- "[[G1005]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G4439]]"
+- "[[G3588]]"
+- "[[G4314]]"
+- "[[G0395]]"
+- "[[G3588]]"
+- "[[G2379]]"
+- "[[G3588]]"
+- "[[G1504]]"
+- "[[G3588]]"
+- "[[G2205]]"
+- "[[G3778]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1531]]"
+- "[[G1473]]"
+---
+
 **LXX Ezekiel 8:5** 
 <small><sub>**LXX:**</sub></small>
 And he said to me, O son of man, look up \[with\] your eyes towards \[the\] north. And I looked up  with my eyes towards \[the\] north. And behold, from \[the\] north at the gate, the one towards \[the\] east of the altar, \[was\] the image  of jealousy; this \[was\] in the entering it. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπε]] [[G4314\|προς]] [[G1473\|με]] [[G5207\|υιέ]] [[G0444\|ανθρώπου]] [[G0308\|ανάβλεψον]] [[G3588\|τοις]] [[G3788\|οφθαλμοίς]] [[G1473\|σου]] [[G4314\|προς]] [[G1005\|βορράν]] [[G2532\|και]] [[G0308\|ανέβλεψα]] [[G3588\|τους]] [[G3788\|οφθαλμούς]] [[G1473\|μου]] [[G4314\|προς]] [[G1005\|βορράν]] [[G2532\|και]] [[G2400\|ιδού]] [[G0575\|από]] [[G1005\|βορρά]] [[G1909\|επί]] [[G3588\|την]] [[G4439\|πύλην]] [[G3588\|την]] [[G4314\|προς]] [[G0395\|ανατολάς]] [[G3588\|του]] [[G2379\|θυσιαστηρίου]] [[G3588\|η]] [[G1504\|εικών]] [[G3588\|του]] [[G2205\|ζήλου]] [[G3778\|τούτου]] [[G1722\|εν]] [[G3588\|τω]] [[G1531\|εισπορεύεσθαι]] [[G1473\|αυτήν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZEKIEL|EZEKIEL]] • [[topic IDOLATRY|IDOLATRY]] • [[topic IMAGE|IMAGE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.8.4|<< Ezekiel 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.8.6|Ezekiel 8:6 >>]]</td></tr></table>
 
@@ -44,6 +118,6 @@ And he said to me, O son of man, look up \[with\] your eyes towards \[the\] nort
 | the | **<big>[[G3588\|τω]]</big>** |
 | entering | **<big>[[G1531\|εισπορεύεσθαι]]</big>** |
 | it. | **<big>[[G1473\|αυτήν]]</big>** |
-[[Ezek.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.8.4|<< Ezekiel 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.8.6|Ezekiel 8:6 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.8.4|<< Ezekiel 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.8.6|Ezekiel 8:6 >>]]</td></tr></table>
 
 

@@ -1,8 +1,73 @@
+---
+title: Numbers 14:11
+type: Verse
+kjv: "And the LORD said unto Moses, How long will this people provoke me? and how long will it be ere they believe me, for all the signs which I have shewed among them?"
+bsb: "And the LORD said to Moses, “How long will this people treat Me with contempt? How long will they refuse to believe in Me, despite all the signs I have performed among them?"
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֶל־ מֹשֶׁ֔ה עַד־ אָ֥נָה יְנַאֲצֻ֖נִי הָעָ֣ם הַזֶּ֑ה וְעַד־ אָ֙נָה֙ לֹא־ יַאֲמִ֣ינוּ בִ֔י בְּכֹל֙ הָֽאֹת֔וֹת אֲשֶׁ֥ר עָשִׂ֖יתִי בְּקִרְבּֽוֹ׃"
+pericope: "[[Num.14.1 Israel’s Rebellion|Israel’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 14
+book/chapter: "[[Num.14|Numbers 14]]"
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic CALEB|CALEB]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H5704]]"
+- "[[H0575]]"
+- "[[H5006]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0539]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H0226G]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H7130G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 14:11**<big><big>[[Num.14.1 Israel’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, How long will this people provoke me? and how long will it be ere they believe me, for all the signs which I have shewed among them?
 <small><sub>**BSB:**</sub></small>
 And the LORD said to Moses, “How long will this people treat Me with contempt? How long will they refuse to believe in Me, despite all the signs I have performed among them?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H5704\|עַד]][[H9014\|־]] [[H0575\|אָ֥נָה]] [[H5006\|יְנַאֲצֻ֖]][[H9030\|נִי]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H0575\|אָ֙נָה֙]] [[H3808\|לֹא]][[H9014\|־]] [[H0539\|יַאֲמִ֣ינוּ]] [[H9003\|בִ֔]][[H9030\|י]] [[H9003\|בְּ]][[H3605\|כֹל֙]] [[H9009\|הָֽ]][[H0226G\|אֹת֔וֹת]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|עָשִׂ֖יתִי]] [[H9003\|בְּ]][[H7130G\|קִרְבּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic CALEB|CALEB]] • [[topic COURAGE|COURAGE]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.10|<< Numbers 14:10]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.12|Numbers 14:12 >>]]</td></tr></table>
 

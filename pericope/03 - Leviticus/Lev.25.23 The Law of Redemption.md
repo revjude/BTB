@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Law of Redemption
+type: Pericope
 pericope: "[[Lev.25.23 The Law of Redemption|The Law of Redemption]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 25
 book/chapter: "[[Lev.25|Leviticus 25]]"
-genre:
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 12
 verses:
 - "[[Lev.25.23]]"
 - "[[Lev.25.24]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Lev.25.34]]"
 ---
 
-[[Lev.25|Leviticus 25:23 - Leviticus 25:34]]
+<small>[[Lev.25|Leviticus 25:23-34]]</small>
 *The Law of Redemption*
 
 [[Lev.25.23|23]] The land shall not be sold for ever: for the land \[is\] mine; for ye \[are\] strangers and sojourners with me.

@@ -1,8 +1,68 @@
+---
+title: Exodus 5:13
+type: Verse
+kjv: "And the taskmasters hasted them, saying, Fulfil your works, your daily tasks, as when there was straw."
+bsb: "The taskmasters kept pressing them, saying, “Fulfill your quota each day, just as you did when straw was provided.”"
+hebrew: "וְהַנֹּגְשִׂ֖ים אָצִ֣ים לֵאמֹ֑ר כַּלּ֤וּ מַעֲשֵׂיכֶם֙ דְּבַר־ י֣וֹם בְּיוֹמ֔וֹ כַּאֲשֶׁ֖ר בִּהְי֥וֹת הַתֶּֽבֶן׃"
+pericope: "[[Exod.5.6 Bricks and Straw|Bricks and Straw]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 5
+book/chapter: "[[Exod.5|Exodus 5]]"
+chronological_order: 97
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BRICK|BRICK]]"
+- "[[topic CRUELTY|CRUELTY]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic TASKMASTERS|TASKMASTERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5065]]"
+- "[[H0213]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3615G]]"
+- "[[H4639G]]"
+- "[[H9026]]"
+- "[[H1697I]]"
+- "[[H9014]]"
+- "[[H3117J]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1961]]"
+- "[[H8401]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 5:13**<big><big>[[Exod.5.6 Bricks and Straw|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the taskmasters hasted [them], saying, Fulfil your works, [your] daily tasks, as when there was straw.
 <small><sub>**BSB:**</sub></small>
 The taskmasters kept pressing them, saying, “Fulfill your quota each day, just as you did when straw was provided.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H5065\|נֹּגְשִׂ֖ים]] [[H0213\|אָצִ֣ים]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3615G\|כַּלּ֤וּ]] [[H4639G\|מַעֲשֵׂי]][[H9026\|כֶם֙]] [[H1697I\|דְּבַר]][[H9014\|־]] [[H3117J\|י֣וֹם]] [[H9003\|בְּ]][[H3117G\|יוֹמ֔]][[H9023\|וֹ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H9003\|בִּ]][[H1961\|הְי֥וֹת]] [[H9009\|הַ]][[H8401\|תֶּֽבֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRICK|BRICK]] • [[topic CRUELTY|CRUELTY]] • [[topic SERVANT|SERVANT]] • [[topic TASKMASTERS|TASKMASTERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5.12|<< Exodus 5:12]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.14|Exodus 5:14 >>]]</td></tr></table>
 

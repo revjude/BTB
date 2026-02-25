@@ -1,10 +1,61 @@
+---
+title: Revelation 22:8
+type: Verse
+kjv: "And I John saw these things, and heard them. And when I had heard and seen, I fell down to worship before the feet of the angel which shewed me these things."
+bsb: "And I, John, am the one who heard and saw these things. And when I had heard and seen them, I fell down to worship at the feet of the angel who had shown me these things."
+greek: "κἀγὼ κἀγὼ Ἰωάννης ὁ ἀκούων καὶ βλέπων ταῦτα· καὶ ὅτε ἤκουσα καὶ ἔβλεψα, ἔπεσα προσκυνῆσαι ἔμπροσθεν τῶν ποδῶν τοῦ ἀγγέλου τοῦ δεικνύοντός μοι ταῦτα."
+pericope: "[[Rev.22.6 Jesus Is Coming|Jesus Is Coming]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 22
+book/chapter: "[[Rev.22|Revelation 22]]"
+chronological_order: 1189
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic HOMAGE|HOMAGE]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2491H]]"
+- "[[G3588]]"
+- "[[G0191]]"
+- "[[G0991]]"
+- "[[G3778]]"
+- "[[G3753]]"
+- "[[G4098]]"
+- "[[G4352]]"
+- "[[G1715]]"
+- "[[G4228]]"
+- "[[G0032G]]"
+- "[[G1166]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **Revelation 22:8**<big><big>[[Rev.22.6 Jesus Is Coming|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I John saw these things, and heard [them]. And when I had heard and seen, I fell down to worship before the feet of the angel which shewed me these things.
 <small><sub>**BSB:**</sub></small>
 And I, John, am the one who heard and saw these things. And when I had heard and seen them, I fell down to worship at the feet of the angel who had shown me these things.
-<small><sub>**Literal:**</sub></small>
-And I myself John who is hearing and is seeing these things; And when I heard and saw, I fell down to worship before the feet of the angel who is showing me these things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.7|<< Revelation 22:7]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.9|Revelation 22:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G2491H\|Ἰωάννης]]  [[G3588\|ὁ]]  [[G0191\|ἀκούων]]  [[G2532\|καὶ]]  [[G0991\|βλέπων]]  [[G3778\|ταῦτα·]]  [[G2532\|καὶ]]  [[G3753\|ὅτε]]  [[G0191\|ἤκουσα]]  [[G2532\|καὶ]]  [[G0991\|ἔβλεψα,]]  [[G4098\|ἔπεσα]]  [[G4352\|προσκυνῆσαι]]  [[G1715\|ἔμπροσθεν]]  [[G3588\|τῶν]]  [[G4228\|ποδῶν]]  [[G3588\|τοῦ]]  [[G0032G\|ἀγγέλου]]  [[G3588\|τοῦ]]  [[G1166\|δεικνύοντός]]  [[G3165\|μοι]]  [[G3778\|ταῦτα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic HOMAGE|HOMAGE]] • [[topic PROPHETS|PROPHETS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.7|<< Revelation 22:7]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.9|Revelation 22:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

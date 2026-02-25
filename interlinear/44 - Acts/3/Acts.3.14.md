@@ -1,10 +1,58 @@
+---
+title: Acts 3:14
+type: Verse
+kjv: "But ye denied the Holy One and the Just, and desired a murderer to be granted unto you;"
+bsb: "You rejected the Holy and Righteous One and asked that a murderer be released to you."
+greek: "ὑμεῖς δὲ τὸν ἅγιον καὶ δίκαιον ἠρνήσασθε καὶ ᾐτήσασθε ἄνδρα φονέα χαρισθῆναι ὑμῖν,"
+pericope: "[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|Peter Speaks in Solomon’s Colonnade]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 3
+book/chapter: "[[Acts.3|Acts 3]]"
+chronological_order: 1021
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BARABBAS|BARABBAS]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G0040G]]"
+- "[[G2532]]"
+- "[[G1342]]"
+- "[[G0720]]"
+- "[[G0154]]"
+- "[[G0435G]]"
+- "[[G5406]]"
+- "[[G5483]]"
+texts:
+- NKO
+---
+
 **Acts 3:14**<big><big>[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But ye denied the Holy One and the Just, and desired a murderer to be granted unto you;
 <small><sub>**BSB:**</sub></small>
 You rejected the Holy and Righteous One and asked that a murderer be released to you.
-<small><sub>**Literal:**</sub></small>
-You yourselves however the Holy and Righteous One denied and requested a man a murderer to be granted to you,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.13|<< Acts 3:13]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.15|Acts 3:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|ὑμεῖς]]  [[G1161\|δὲ]]  [[G3588\|τὸν]]  [[G0040G\|ἅγιον]]  [[G2532\|καὶ]]  [[G1342\|δίκαιον]]  [[G0720\|ἠρνήσασθε]]  [[G2532\|καὶ]]  [[G0154\|ᾐτήσασθε]]  [[G0435G\|ἄνδρα]]  [[G5406\|φονέα]]  [[G5483\|χαρισθῆναι]]  [[G4771\|ὑμῖν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARABBAS|BARABBAS]] • [[topic COURAGE|COURAGE]] • [[topic HOMICIDE|HOMICIDE]] • [[topic IGNORANCE|IGNORANCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic TEMPLE|TEMPLE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.13|<< Acts 3:13]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.15|Acts 3:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

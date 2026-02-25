@@ -1,10 +1,72 @@
+---
+title: Matthew 5:19
+type: Verse
+kjv: "Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whosoever shall do and teach them, the same shall be called great in the kingdom of heaven."
+bsb: "So then, whoever breaks one of the least of these commandments and teaches others to do likewise will be called least in the kingdom of heaven; but whoever practices and teaches them will be called great in the kingdom of heaven."
+jesus_said: "Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whosoever shall do and teach them, the same shall be called great in the kingdom of heaven."
+greek: "Ὃς ἐὰν οὖν λύσῃ μίαν τῶν ἐντολῶν τούτων τῶν ἐλαχίστων καὶ διδάξῃ οὕτως τοὺς ἀνθρώπους, ἐλάχιστος κληθήσεται ἐν τῇ βασιλείᾳ τῶν οὐρανῶν. ὃς δ᾽ ἂν ποιήσῃ καὶ διδάξῃ, οὗτος μέγας κληθήσεται ἐν τῇ βασιλείᾳ τῶν οὐρανῶν."
+pericope: "[[Matt.5.17 The Fulfillment of the Law|The Fulfillment of the Law]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 5
+book/chapter: "[[Matt.5|Matthew 5]]"
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JUDAISM|JUDAISM]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic TEACHERS|TEACHERS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3739]]"
+- "[[G1437]]"
+- "[[G3767]]"
+- "[[G3089]]"
+- "[[G1520]]"
+- "[[G3588]]"
+- "[[G1785]]"
+- "[[G3778]]"
+- "[[G1646]]"
+- "[[G2532]]"
+- "[[G1321]]"
+- "[[G3779]]"
+- "[[G0444]]"
+- "[[G2564G]]"
+- "[[G1722]]"
+- "[[G0932]]"
+- "[[G3772]]"
+- "[[G1161]]"
+- "[[G0302]]"
+- "[[G4160G]]"
+- "[[G3173]]"
+texts:
+- NKO
+---
+
 **Matthew 5:19**<big><big>[[Matt.5.17 The Fulfillment of the Law|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whosoever shall do and teach [them], the same shall be called great in the kingdom of heaven.
 <small><sub>**BSB:**</sub></small>
 So then, whoever breaks one of the least of these commandments and teaches others to do likewise will be called least in the kingdom of heaven; but whoever practices and teaches them will be called great in the kingdom of heaven.
-<small><sub>**Literal:**</sub></small>
-Who[ever] if then shall break one of the commandments of these the least and shall teach so the others, least he will be called in the kingdom of the heavens. who[ever] now maybe may keep and may teach [them], this [one] great will be called in the kingdom of the heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.18|<< Matthew 5:18]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.20|Matthew 5:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|Ὃς]]  [[G1437\|ἐὰν]]  [[G3767\|οὖν]]  [[G3089\|λύσῃ]]  [[G1520\|μίαν]]  [[G3588\|τῶν]]  [[G1785\|ἐντολῶν]]  [[G3778\|τούτων]]  [[G3588\|τῶν]]  [[G1646\|ἐλαχίστων]]  [[G2532\|καὶ]]  [[G1321\|διδάξῃ]]  [[G3779\|οὕτως]]  [[G3588\|τοὺς]]  [[G0444\|ἀνθρώπους,]]  [[G1646\|ἐλάχιστος]]  [[G2564G\|κληθήσεται]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0932\|βασιλείᾳ]]  [[G3588\|τῶν]]  [[G3772\|οὐρανῶν.]]  [[G3739\|ὃς]]  [[G1161\|δ᾽]]  [[G0302\|ἂν]]  [[G4160G\|ποιήσῃ]]  [[G2532\|καὶ]]  [[G1321\|διδάξῃ,]]  [[G3778\|οὗτος]]  [[G3173\|μέγας]]  [[G2564G\|κληθήσεται]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0932\|βασιλείᾳ]]  [[G3588\|τῶν]]  [[G3772\|οὐρανῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DOCTRINES|DOCTRINES]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JUDAISM|JUDAISM]] • [[topic LAW|LAW]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RELIGION|RELIGION]] • [[topic TEACHERS|TEACHERS]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.18|<< Matthew 5:18]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.20|Matthew 5:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

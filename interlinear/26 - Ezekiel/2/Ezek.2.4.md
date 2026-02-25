@@ -1,8 +1,69 @@
+---
+title: Ezekiel 2:4
+type: Verse
+kjv: "For they are impudent children and stiffhearted. I do send thee unto them; and thou shalt say unto them, Thus saith the Lord GOD."
+bsb: "They are obstinate and stubborn children. I am sending you to them, and you are to say to them, ‘This is what the Lord GOD says.’"
+hebrew: "וְהַבָּנִ֗ים קְשֵׁ֤י פָנִים֙ וְחִזְקֵי־ לֵ֔ב אֲנִ֛י שׁוֹלֵ֥חַ אוֹתְךָ֖ אֲלֵיהֶ֑ם וְאָמַרְתָּ֣ אֲלֵיהֶ֔ם כֹּ֥ה אָמַ֖ר אֲדֹנָ֥י יְהֹוִֽה׃"
+pericope: "[[Ezek.2.1 Ezekiel’s Call|Ezekiel’s Call]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 2
+book/chapter: "[[Ezek.2|Ezekiel 2]]"
+chronological_order: 793
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HEART|HEART]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H1121G]]"
+- "[[H7186]]"
+- "[[H6440H]]"
+- "[[H2389]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H0589]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9031]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 2:4**<big><big>[[Ezek.2.1 Ezekiel’s Call|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [they are] impudent children and stiffhearted. I do send thee unto them; and thou shalt say unto them, Thus saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
 They are obstinate and stubborn children. I am sending you to them, and you are to say to them, ‘This is what the Lord GOD says.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H1121G\|בָּנִ֗ים]] [[H7186\|קְשֵׁ֤י]] [[H6440H\|פָנִים֙]] [[H9002\|וְ]][[H2389\|חִזְקֵי]][[H9014\|־]] [[H3820A\|לֵ֔ב]] [[H0589\|אֲנִ֛י]] [[H7971G\|שׁוֹלֵ֥חַ]] [[H0853\|אוֹתְ]][[H9031\|ךָ֖]] [[H0413\|אֲלֵי]][[H9038\|הֶ֑ם]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֲלֵי]][[H9038\|הֶ֔ם]] [[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֖ר]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהֹוִֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHARACTER|CHARACTER]] • [[topic CHURCH|CHURCH]] • [[topic HEART|HEART]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic NATION|NATION]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.2.3|<< Ezekiel 2:3]]</td><td align="center" style="border:none;">[[Ezek.2|Ezekiel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.2.5|Ezekiel 2:5 >>]]</td></tr></table>
 

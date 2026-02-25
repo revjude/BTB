@@ -1,8 +1,71 @@
+---
+title: Exodus 19:13
+type: Verse
+kjv: "There shall not an hand touch it, but he shall surely be stoned, or shot through; whether it be beast or man, it shall not live: when the trumpet soundeth long, they shall come up to the mount."
+bsb: "No hand shall touch him, but he shall surely be stoned or shot with arrows—whether man or beast, he must not live.’ Only when the ram’s horn sounds a long blast may they approach the mountain.”"
+hebrew: "לֹא־ תִגַּ֨ע בּ֜וֹ יָ֗ד כִּֽי־ סָק֤וֹל יִסָּקֵל֙ אוֹ־ יָרֹ֣ה יִיָּרֶ֔ה אִם־ בְּהֵמָ֥ה אִם־ אִ֖ישׁ לֹ֣א יִחְיֶ֑ה בִּמְשֹׁךְ֙ הַיֹּבֵ֔ל הֵ֖מָּה יַעֲל֥וּ בָהָֽר׃"
+pericope: "[[Exod.19.1 Israel at Mount Sinai|Israel at Mount Sinai]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 19
+book/chapter: "[[Exod.19|Exodus 19]]"
+chronological_order: 111
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SINAI|SINAI]]"
+- "[[topic STONING|STONING]]"
+- "[[topic TRUMPET|TRUMPET]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5060]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H3027G]]"
+- "[[H3588A]]"
+- "[[H5619]]"
+- "[[H0176A]]"
+- "[[H3384A]]"
+- "[[H0518A]]"
+- "[[H0929]]"
+- "[[H0376G]]"
+- "[[H2421]]"
+- "[[H4900]]"
+- "[[H9009]]"
+- "[[H3104]]"
+- "[[H1992]]"
+- "[[H5927G]]"
+- "[[H2022G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 19:13**<big><big>[[Exod.19.1 Israel at Mount Sinai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There shall not an hand touch it, but he shall surely be stoned, or shot through; whether [it be] beast or man, it shall not live: when the trumpet soundeth long, they shall come up to the mount.
 <small><sub>**BSB:**</sub></small>
 No hand shall touch him, but he shall surely be stoned or shot with arrows—whether man or beast, he must not live.’ Only when the ram’s horn sounds a long blast may they approach the mountain.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H5060\|תִגַּ֨ע]] [[H9003\|בּ֜]][[H9033\|וֹ]] [[H3027G\|יָ֗ד]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5619\|סָק֤וֹל]] [[H5619\|יִסָּקֵל֙]] [[H0176A\|אוֹ]][[H9014\|־]] [[H3384A\|יָרֹ֣ה]] [[H3384A\|יִיָּרֶ֔ה]] [[H0518A\|אִם]][[H9014\|־]] [[H0929\|בְּהֵמָ֥ה]] [[H0518A\|אִם]][[H9014\|־]] [[H0376G\|אִ֖ישׁ]] [[H3808\|לֹ֣א]] [[H2421\|יִחְיֶ֑ה]] [[H9003\|בִּ]][[H4900\|מְשֹׁךְ֙]] [[H9009\|הַ]][[H3104\|יֹּבֵ֔ל]] [[H1992\|הֵ֖מָּה]] [[H5927G\|יַעֲל֥וּ]] [[H9003\|בָ]][[H2022G\|הָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic REVERENCE|REVERENCE]] • [[topic SINAI|SINAI]] • [[topic STONING|STONING]] • [[topic TRUMPET|TRUMPET]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.19.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.19.12|<< Exodus 19:12]]</td><td align="center" style="border:none;">[[Exod.19|Exodus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.19.14|Exodus 19:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

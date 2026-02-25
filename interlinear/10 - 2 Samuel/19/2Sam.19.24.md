@@ -1,8 +1,71 @@
+---
+title: 2 Samuel 19:24
+type: Verse
+kjv: "And Mephibosheth the son of Saul came down to meet the king, and had neither dressed his feet, nor trimmed his beard, nor washed his clothes, from the day the king departed until the day he came again in peace."
+bsb: "Then Mephibosheth, Saul’s grandson, went down to meet the king. He had not cared for his feet or trimmed his mustache or washed his clothes from the day the king had left until the day he returned safely."
+hebrew: "וּמְפִבֹ֙שֶׁת֙ בֶּן־ שָׁא֔וּל יָרַ֖ד לִקְרַ֣את הַמֶּ֑לֶךְ וְלֹא־ עָשָׂ֨ה רַגְלָ֜יו וְלֹא־ עָשָׂ֣ה שְׂפָמ֗וֹ וְאֶת־ בְּגָדָיו֙ לֹ֣א כִבֵּ֔ס לְמִן־ הַיּוֹם֙ לֶ֣כֶת הַמֶּ֔לֶךְ עַד־ הַיּ֖וֹם אֲשֶׁר־ בָּ֥א בְשָׁלֽוֹם׃"
+pericope: "[[2Sam.19.24 Mephibosheth Excused|Mephibosheth Excused]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 19
+book/chapter: "[[2Sam.19|2 Samuel 19]]"
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic BEARD|BEARD]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic MEPHIBOSHETH|MEPHIBOSHETH]]"
+- "[[topic SLANDER|SLANDER]]"
+strongs:
+- "[[H9002]]"
+- "[[H4648G]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H7586G]]"
+- "[[H3381]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H7272]]"
+- "[[H9023]]"
+- "[[H8222]]"
+- "[[H0853]]"
+- "[[H0899B]]"
+- "[[H3526H]]"
+- "[[H4480A]]"
+- "[[H3117G]]"
+- "[[H1980G]]"
+- "[[H5704]]"
+- "[[H0834A]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H7965I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 19:24**<big><big>[[2Sam.19.24 Mephibosheth Excused|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Mephibosheth the son of Saul came down to meet the king, and had neither dressed his feet, nor trimmed his beard, nor washed his clothes, from the day the king departed until the day he came [again] in peace.
 <small><sub>**BSB:**</sub></small>
 Then Mephibosheth, Saul’s grandson, went down to meet the king. He had not cared for his feet or trimmed his mustache or washed his clothes from the day the king had left until the day he returned safely.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4648G\|מְפִבֹ֙שֶׁת֙]] [[H1121G\|בֶּן]][[H9014\|־]] [[H7586G\|שָׁא֔וּל]] [[H3381\|יָרַ֖ד]] [[H9005\|לִ]][[H7122G\|קְרַ֣את]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H6213A\|עָשָׂ֨ה]] [[H7272\|רַגְלָ֜י]][[H9023\|ו]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H6213A\|עָשָׂ֣ה]] [[H8222\|שְׂפָמ֗]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0899B\|בְּגָדָי]][[H9023\|ו֙]] [[H3808\|לֹ֣א]] [[H3526H\|כִבֵּ֔ס]] [[H9005\|לְ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּוֹם֙]] [[H1980G\|לֶ֣כֶת]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּ֖וֹם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֥א]] [[H9003\|בְ]][[H7965I\|שָׁלֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEARD|BEARD]] • [[topic DAVID|DAVID]] • [[topic MEPHIBOSHETH|MEPHIBOSHETH]] • [[topic SLANDER|SLANDER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.23|<< 2 Samuel 19:23]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.25|2 Samuel 19:25 >>]]</td></tr></table>
 

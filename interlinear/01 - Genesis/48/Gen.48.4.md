@@ -1,8 +1,64 @@
+---
+title: Genesis 48:4
+type: Verse
+kjv: "And said unto me, Behold, I will make thee fruitful, and multiply thee, and I will make of thee a multitude of people; and will give this land to thy seed after thee for an everlasting possession."
+bsb: "and told me, ‘Behold, I will make you fruitful and multiply you; I will make you a multitude of peoples, and will give this land to your descendants after you as an everlasting possession.’"
+hebrew: "וַיֹּ֣אמֶר אֵלַ֗י הִנְנִ֤י מַפְרְךָ֙ וְהִרְבִּיתִ֔ךָ וּנְתַתִּ֖יךָ לִקְהַ֣ל עַמִּ֑ים וְנָ֨תַתִּ֜י אֶת־ הָאָ֧רֶץ הַזֹּ֛את לְזַרְעֲךָ֥ אַחֲרֶ֖יךָ אֲחֻזַּ֥ת עוֹלָֽם׃"
+pericope: "[[Gen.48.1 Jacob Blesses Ephraim and Manasseh|Jacob Blesses Ephraim and Manasseh]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 48
+book/chapter: "[[Gen.48|Genesis 48]]"
+chronological_order: 90
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H6509]]"
+- "[[H9031]]"
+- "[[H7235A]]"
+- "[[H5414I]]"
+- "[[H9005]]"
+- "[[H6951]]"
+- "[[H5971A]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H2233H]]"
+- "[[H9021]]"
+- "[[H0310A]]"
+- "[[H0272]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 48:4**<big><big>[[Gen.48.1 Jacob Blesses Ephraim and Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said unto me, Behold, I will make thee fruitful, and multiply thee, and I will make of thee a multitude of people; and will give this land to thy seed after thee [for] an everlasting possession.
 <small><sub>**BSB:**</sub></small>
 and told me, ‘Behold, I will make you fruitful and multiply you; I will make you a multitude of peoples, and will give this land to your descendants after you as an everlasting possession.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלַ֗]][[H9030\|י]] [[H2005\|הִנְ]][[H9040\|נִ֤י]] [[H6509\|מַפְרְ]][[H9031\|ךָ֙]] [[H9001\|וְ]][[H7235A\|הִרְבִּיתִ֔]][[H9031\|ךָ]] [[H9001\|וּ]][[H5414I\|נְתַתִּ֖י]][[H9031\|ךָ]] [[H9005\|לִ]][[H6951\|קְהַ֣ל]] [[H5971A\|עַמִּ֑ים]] [[H9001\|וְ]][[H5414G\|נָ֨תַתִּ֜י]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֧רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֛את]] [[H9005\|לְ]][[H2233H\|זַרְעֲ]][[H9021\|ךָ֥]] [[H0310A\|אַחֲרֶ֖י]][[H9031\|ךָ]] [[H0272\|אֲחֻזַּ֥ת]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.48.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.48.3|<< Genesis 48:3]]</td><td align="center" style="border:none;">[[Gen.48|Genesis 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.48.5|Genesis 48:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

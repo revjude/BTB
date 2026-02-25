@@ -1,8 +1,68 @@
+---
+title: Exodus 15:4
+type: Verse
+kjv: "Pharaoh’s chariots and his host hath he cast into the sea: his chosen captains also are drowned in the Red sea."
+bsb: "Pharaoh’s chariots and army He has cast into the sea; the finest of his officers are drowned in the Red Sea."
+hebrew: "מַרְכְּבֹ֥ת פַּרְעֹ֛ה וְחֵיל֖וֹ יָרָ֣ה בַיָּ֑ם וּמִבְחַ֥ר שָֽׁלִשָׁ֖יו טֻבְּע֥וּ בְיַם־ סֽוּף׃"
+pericope: "[[Exod.15.1 The Song at the Sea|The Song at the Sea]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 15
+book/chapter: "[[Exod.15|Exodus 15]]"
+chronological_order: 107
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic EPIC|EPIC]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JOY|JOY]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RED SEA|RED SEA]]"
+- "[[topic SONG|SONG]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H4818]]"
+- "[[H6547J]]"
+- "[[H9002]]"
+- "[[H2428A]]"
+- "[[H9023]]"
+- "[[H3384A]]"
+- "[[H9003]]"
+- "[[H3220G]]"
+- "[[H4005]]"
+- "[[H7991C]]"
+- "[[H2883]]"
+- "[[H9014]]"
+- "[[H5488G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 15:4**<big><big>[[Exod.15.1 The Song at the Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Pharaoh’s chariots and his host hath he cast into the sea: his chosen captains also are drowned in the Red sea.
 <small><sub>**BSB:**</sub></small>
 Pharaoh’s chariots and army He has cast into the sea; the finest of his officers are drowned in the Red Sea.
+<small><sub>**Hebrew:**</sub></small>
+[[H4818\|מַרְכְּבֹ֥ת]] [[H6547J\|פַּרְעֹ֛ה]] [[H9002\|וְ]][[H2428A\|חֵיל֖]][[H9023\|וֹ]] [[H3384A\|יָרָ֣ה]] [[H9003\|בַ]][[H3220G\|יָּ֑ם]] [[H9002\|וּ]][[H4005\|מִבְחַ֥ר]] [[H7991C\|שָֽׁלִשָׁ֖י]][[H9023\|ו]] [[H2883\|טֻבְּע֥וּ]] [[H9003\|בְ]][[H3220G\|יַם]][[H9014\|־]] [[H5488G\|סֽוּף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPIC|EPIC]] • [[topic FAITH|FAITH]] • [[topic JOY|JOY]] • [[topic POETRY|POETRY]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RED SEA|RED SEA]] • [[topic SONG|SONG]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.15.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.3|<< Exodus 15:3]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.5|Exodus 15:5 >>]]</td></tr></table>
 

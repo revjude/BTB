@@ -1,8 +1,53 @@
+---
+title: Joshua 21:23
+type: Verse
+kjv: "And out of the tribe of Dan, Eltekeh with her suburbs, Gibbethon with her suburbs,"
+bsb: "From the tribe of Dan they were given Elteke, Gibbethon,"
+hebrew: "וּמִמַּ֨טֵּה־ דָ֔ן אֶֽת־ אֶלְתְּקֵ֖א וְאֶת־ מִגְרָשֶׁ֑הָ אֶֽת־ גִּבְּת֖וֹן וְאֶת־ מִגְרָשֶֽׁהָ׃"
+pericope: "[[Josh.21.1 Forty-Eight Cities for the Levites|Forty-Eight Cities for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 21
+book/chapter: "[[Josh.21|Joshua 21]]"
+chronological_order: 251
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ELTEKEH|ELTEKEH]]"
+- "[[topic GIBBETHON|GIBBETHON]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H4294H]]"
+- "[[H9014]]"
+- "[[H1835G]]"
+- "[[H0853]]"
+- "[[H0514]]"
+- "[[H4054]]"
+- "[[H9024]]"
+- "[[H1405]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 21:23**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And out of the tribe of Dan, Eltekeh with her suburbs, Gibbethon with her suburbs,
 <small><sub>**BSB:**</sub></small>
 From the tribe of Dan they were given Elteke, Gibbethon,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H4294H\|מַּ֨טֵּה]][[H9014\|־]] [[H1835G\|דָ֔ן]] [[H0853\|אֶֽת]][[H9014\|־]] [[H0514\|אֶלְתְּקֵ֖א]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4054\|מִגְרָשֶׁ֑]][[H9024\|הָ]] [[H0853\|אֶֽת]][[H9014\|־]] [[H1405\|גִּבְּת֖וֹן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4054\|מִגְרָשֶֽׁ]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELTEKEH|ELTEKEH]] • [[topic GIBBETHON|GIBBETHON]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.22|<< Joshua 21:22]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.24|Joshua 21:24 >>]]</td></tr></table>
 

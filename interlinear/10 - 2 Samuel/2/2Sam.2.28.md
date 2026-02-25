@@ -1,8 +1,68 @@
+---
+title: 2 Samuel 2:28
+type: Verse
+kjv: "So Joab blew a trumpet, and all the people stood still, and pursued after Israel no more, neither fought they any more."
+bsb: "So Joab blew the ram’s horn, and all the troops stopped; they no longer pursued Israel or continued to fight."
+hebrew: "וַיִּתְקַ֤ע יוֹאָב֙ בַּשּׁוֹפָ֔ר וַיַּֽעַמְדוּ֙ כָּל־ הָעָ֔ם וְלֹֽא־ יִרְדְּפ֥וּ ע֖וֹד אַחֲרֵ֣י יִשְׂרָאֵ֑ל וְלֹֽא־ יָסְפ֥וּ ע֖וֹד לְהִלָּחֵֽם׃"
+pericope: "[[2Sam.2.12 The Battle of Gibeon|The Battle of Gibeon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 2
+book/chapter: "[[2Sam.2|2 Samuel 2]]"
+chronological_order: 330
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABNER|ABNER]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic TRUCE|TRUCE]]"
+- "[[topic TRUMPET|TRUMPET]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H8628]]"
+- "[[H3097G]]"
+- "[[H9003]]"
+- "[[H7782]]"
+- "[[H5975G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971K]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7291]]"
+- "[[H5750]]"
+- "[[H0310A]]"
+- "[[H3478]]"
+- "[[H3254G]]"
+- "[[H9005]]"
+- "[[H3898A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 2:28**<big><big>[[2Sam.2.12 The Battle of Gibeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Joab blew a trumpet, and all the people stood still, and pursued after Israel no more, neither fought they any more.
 <small><sub>**BSB:**</sub></small>
 So Joab blew the ram’s horn, and all the troops stopped; they no longer pursued Israel or continued to fight.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8628\|יִּתְקַ֤ע]] [[H3097G\|יוֹאָב֙]] [[H9003\|בַּ]][[H7782\|שּׁוֹפָ֔ר]] [[H9001\|וַ]][[H5975G\|יַּֽעַמְדוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971K\|עָ֔ם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7291\|יִרְדְּפ֥וּ]] [[H5750\|ע֖וֹד]] [[H0310A\|אַחֲרֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3254G\|יָסְפ֥וּ]] [[H5750\|ע֖וֹד]] [[H9005\|לְ]][[H3898A\|הִלָּחֵֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]] • [[topic ARMIES|ARMIES]] • [[topic DAVID|DAVID]] • [[topic ISRAEL|ISRAEL]] • [[topic JOAB|JOAB]] • [[topic TRUCE|TRUCE]] • [[topic TRUMPET|TRUMPET]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.27|<< 2 Samuel 2:27]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.29|2 Samuel 2:29 >>]]</td></tr></table>
 

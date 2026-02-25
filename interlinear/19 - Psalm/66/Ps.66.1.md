@@ -1,8 +1,51 @@
+---
+title: Psalm 66:1
+type: Verse
+kjv: "Make a joyful noise unto God, all ye lands:"
+bsb: "For the choirmaster. A song. A Psalm. Make a joyful noise to God, all the earth!"
+hebrew: "הָרִ֥יעוּ לֵ֝אלֹהִים כָּל־ הָאָֽרֶץ׃"
+pericope: "[[Ps.66.1 Make a Joyful Noise|Make a Joyful Noise]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 66
+book/chapter: "[[Ps.66|Psalm 66]]"
+chronological_order: 426
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H7321]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 66:1**<big><big>[[Ps.66.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Make a joyful noise unto God, all ye lands:
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. A song. A Psalm. Make a joyful noise to God, all the earth!
+<small><sub>**Hebrew:**</sub></small>
+[[H7321\|הָרִ֥יעוּ]] [[H9005\|לֵ֝]][[H0430G\|אלֹהִים]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.0|<< Psalms 66:0]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.2|Psalms 66:2 >>]]</td></tr></table>
 

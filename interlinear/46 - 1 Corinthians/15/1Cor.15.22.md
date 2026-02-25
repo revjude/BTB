@@ -1,10 +1,60 @@
+---
+title: 1 Corinthians 15:22
+type: Verse
+kjv: "For as in Adam all die, even so in Christ shall all be made alive."
+bsb: "For as in Adam all die, so in Christ all will be made alive."
+greek: "ὥσπερ γὰρ ἐν τῷ Ἀδὰμ πάντες ἀποθνῄσκουσιν, οὕτως καὶ ἐν τῷ Χριστῷ πάντες ζῳοποιηθήσονται."
+pericope: "[[1Cor.15.20 The Order of Resurrection|The Order of Resurrection]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 15
+book/chapter: "[[1Cor.15|1 Corinthians 15]]"
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic BODY|BODY]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic FALL OF MAN|FALL OF MAN]]"
+- "[[topic HEREDITY|HEREDITY]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MAN|MAN]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5618]]"
+- "[[G1063]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0076]]"
+- "[[G3956]]"
+- "[[G0599]]"
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G5547]]"
+- "[[G2227]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 15:22**<big><big>[[1Cor.15.20 The Order of Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For as in Adam all die, even so in Christ shall all be made alive.
 <small><sub>**BSB:**</sub></small>
 For as in Adam all die, so in Christ all will be made alive.
-<small><sub>**Literal:**</sub></small>
-For as indeed in <the> Adam all die, so also in <the> Christ all will be made alive.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.21|<< 1 Corinthians 15:21]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.23|1 Corinthians 15:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5618\|ὥσπερ]]  [[G1063\|γὰρ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0076\|Ἀδὰμ]]  [[G3956\|πάντες]]  [[G0599\|ἀποθνῄσκουσιν,]]  [[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G5547\|Χριστῷ]]  [[G3956\|πάντες]]  [[G2227\|ζῳοποιηθήσονται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic BODY|BODY]] • [[topic DEATH|DEATH]] • [[topic FALL OF MAN|FALL OF MAN]] • [[topic HEREDITY|HEREDITY]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MAN|MAN]] • [[topic RESURRECTION|RESURRECTION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.21|<< 1 Corinthians 15:21]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.23|1 Corinthians 15:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

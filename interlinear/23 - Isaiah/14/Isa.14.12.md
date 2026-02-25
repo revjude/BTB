@@ -1,8 +1,61 @@
+---
+title: Isaiah 14:12
+type: Verse
+kjv: "How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!"
+bsb: "How you have fallen from heaven, O day star, son of the dawn! You have been cut down to the ground, O destroyer of nations."
+hebrew: "אֵ֛יךְ נָפַ֥לְתָּ מִשָּׁמַ֖יִם הֵילֵ֣ל בֶּן־ שָׁ֑חַר נִגְדַּ֣עְתָּ לָאָ֔רֶץ חוֹלֵ֖שׁ עַל־ גּוֹיִֽם׃"
+pericope: "[[Isa.14.3 The Fall of the King of Babylon|The Fall of the King of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 14
+book/chapter: "[[Isa.14|Isaiah 14]]"
+chronological_order: 631
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic LUCIFER|LUCIFER]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H0349A]]"
+- "[[H5307G]]"
+- "[[H9006]]"
+- "[[H8064]]"
+- "[[H1966]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H7837]]"
+- "[[H1438]]"
+- "[[H9005]]"
+- "[[H0776H]]"
+- "[[H2522]]"
+- "[[H5921A]]"
+- "[[H1471A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 14:12**<big><big>[[Isa.14.3 The Fall of the King of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How art thou fallen from heaven, O Lucifer, son of the morning! [how] art thou cut down to the ground, which didst weaken the nations!
 <small><sub>**BSB:**</sub></small>
 How you have fallen from heaven, O day star, son of the dawn! You have been cut down to the ground, O destroyer of nations.
+<small><sub>**Hebrew:**</sub></small>
+[[H0349A\|אֵ֛יךְ]] [[H5307G\|נָפַ֥לְתָּ]] [[H9006\|מִ]][[H8064\|שָּׁמַ֖יִם]] [[H1966\|הֵילֵ֣ל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7837\|שָׁ֑חַר]] [[H1438\|נִגְדַּ֣עְתָּ]] [[H9005\|לָ]][[H0776H\|אָ֔רֶץ]] [[H2522\|חוֹלֵ֖שׁ]] [[H5921A\|עַל]][[H9014\|־]] [[H1471A\|גּוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic BABYLON|BABYLON]] • [[topic ISAIAH|ISAIAH]] • [[topic LUCIFER|LUCIFER]] • [[topic PRIDE|PRIDE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.11|<< Isaiah 14:11]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.13|Isaiah 14:13 >>]]</td></tr></table>
 

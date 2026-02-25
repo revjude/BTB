@@ -1,8 +1,52 @@
+---
+title: Job 21:29
+type: Verse
+kjv: "Have ye not asked them that go by the way? and do ye not know their tokens,"
+bsb: "Have you never asked those who travel the roads? Do you not accept their reports?"
+hebrew: "הֲלֹ֣א שְׁ֭אֶלְתֶּם ע֣וֹבְרֵי דָ֑רֶךְ וְ֝אֹתֹתָ֗ם לֹ֣א תְנַכֵּֽרוּ׃"
+pericope: "[[Job.21.1 Job：God Will Punish the Wicked|Job：God Will Punish the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 21
+book/chapter: "[[Job.21|Job 21]]"
+chronological_order: 32
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H7592]]"
+- "[[H5674A]]"
+- "[[H1870K]]"
+- "[[H9002]]"
+- "[[H0226H]]"
+- "[[H9028]]"
+- "[[H5234A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 21:29**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have ye not asked them that go by the way? and do ye not know their tokens,
 <small><sub>**BSB:**</sub></small>
 Have you never asked those who travel the roads? Do you not accept their reports?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|לֹ֣א]] [[H7592\|שְׁ֭אֶלְתֶּם]] [[H5674A\|ע֣וֹבְרֵי]] [[H1870K\|דָ֑רֶךְ]] [[H9002\|וְ֝]][[H0226H\|אֹתֹתָ֗]][[H9028\|ם]] [[H3808\|לֹ֣א]] [[H5234A\|תְנַכֵּֽרוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.28|<< Job 21:28]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.30|Job 21:30 >>]]</td></tr></table>
 

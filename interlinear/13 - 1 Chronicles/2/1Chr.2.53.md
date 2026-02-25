@@ -1,8 +1,55 @@
+---
+title: 1 Chronicles 2:53
+type: Verse
+kjv: "And the families of Kirjathjearim; the Ithrites, and the Puhites, and the Shumathites, and the Mishraites; of them came the Zareathites, and the Eshtaulites."
+bsb: "and the clans of Kiriath-jearim—the Ithrites, Puthites, Shumathites, and Mishraites. From these descended the Zorathites and Eshtaolites."
+hebrew: "וּמִשְׁפְּחוֹת֙ קִרְיַ֣ת יְעָרִ֔ים הַיִּתְרִי֙ וְהַפּוּתִ֔י וְהַשֻּׁמָתִ֖י וְהַמִּשְׁרָעִ֑י מֵאֵ֗לֶּה יָצְאוּ֙ הַצָּ֣רְעָתִ֔י וְהָאֶשְׁתָּ֖אֻֽלִֽי׃ ס"
+pericope: "[[1Chr.2.1 The Sons of Israel|The Sons of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 2
+book/chapter: "[[1Chr.2|1 Chronicles 2]]"
+chronological_order: 321
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ITHRITES|ITHRITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H4940]]"
+- "[[H7157]]"
+- "[[H9009]]"
+- "[[H3505]]"
+- "[[H6336]]"
+- "[[H8126]]"
+- "[[H4954]]"
+- "[[H9006]]"
+- "[[H0428]]"
+- "[[H3318M]]"
+- "[[H6882]]"
+- "[[H0848]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Chronicles 2:53**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the families of Kirjathjearim; the Ithrites, and the Puhites, and the Shumathites, and the Mishraites; of them came the Zareathites, and the Eshtaulites.
 <small><sub>**BSB:**</sub></small>
 and the clans of Kiriath-jearim—the Ithrites, Puthites, Shumathites, and Mishraites. From these descended the Zorathites and Eshtaolites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4940\|מִשְׁפְּחוֹת֙]] [[H7157\|קִרְיַ֣ת]] [[H7157\|יְעָרִ֔ים]] [[H9009\|הַ]][[H3505\|יִּתְרִי֙]] [[H9002\|וְ]][[H9009\|הַ]][[H6336\|פּוּתִ֔י]] [[H9002\|וְ]][[H9009\|הַ]][[H8126\|שֻּׁמָתִ֖י]] [[H9002\|וְ]][[H9009\|הַ]][[H4954\|מִּשְׁרָעִ֑י]] [[H9006\|מֵ]][[H0428\|אֵ֗לֶּה]] [[H3318M\|יָצְאוּ֙]] [[H9009\|הַ]][[H6882\|צָּ֣רְעָתִ֔י]] [[H9002\|וְ]][[H9009\|הָ]][[H0848\|אֶשְׁתָּ֖אֻֽלִֽי]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ITHRITES|ITHRITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.53|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.52|<< 1 Chronicles 2:52]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.54|1 Chronicles 2:54 >>]]</td></tr></table>
 
@@ -18,7 +65,7 @@ and the clans of Kiriath-jearim—the Ithrites, Puthites, Shumathites, and Mishr
 | from these  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0428\|אֵ֗לֶּה]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they came forth  |**<big>&#8207;[[H3318M\|יָצְאוּ֙]]&#8207; </big>**| ya.tze.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Zorathite[s]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6882\|צָּ֣רְעָתִ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Tza.re.'a.Ti<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and the Eshtaolite[s]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0848\|אֶשְׁתָּ֖אֻֽלִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'esh.Ta.'u.Li<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the Eshtaolite[s]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0848\|אֶשְׁתָּ֖אֻֽלִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'esh.Ta.'u.Li<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.52|<< 1 Chronicles 2:52]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.54|1 Chronicles 2:54 >>]]</td></tr></table>
 
 

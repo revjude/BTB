@@ -1,10 +1,64 @@
+---
+title: John 2:15
+type: Verse
+kjv: "And when he had made a scourge of small cords, he drove them all out of the temple, and the sheep, and the oxen; and poured out the changers’ money, and overthrew the tables;"
+bsb: "So He made a whip out of cords and drove all from the temple courts, both sheep and cattle. He poured out the coins of the money changers and overturned their tables."
+greek: "καὶ ποιήσας φραγέλλιον ἐκ σχοινίων πάντας ἐξέβαλεν ἐκ τοῦ ἱεροῦ, τά τε πρόβατα καὶ τοὺς βόας, καὶ τῶν κολλυβιστῶν ἐξέχεεν τὸ κέρμα, καὶ τὰς τραπέζας ἀνέτρεψεν,"
+pericope: "[[John.2.12 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 2
+book/chapter: "[[John.2|John 2]]"
+chronological_order: 940
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MONEY CHANGERS|MONEY CHANGERS]]"
+- "[[topic SACRILEGE|SACRILEGE]]"
+- "[[topic TABLE|TABLE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G4160G]]"
+- "[[G5416]]"
+- "[[G1537]]"
+- "[[G4979]]"
+- "[[G3956]]"
+- "[[G1544]]"
+- "[[G3588]]"
+- "[[G2411]]"
+- "[[G5037]]"
+- "[[G4263]]"
+- "[[G1016]]"
+- "[[G2855]]"
+- "[[G1632]]"
+- "[[G2772]]"
+- "[[G5132]]"
+- "[[G0396]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **John 2:15**<big><big>[[John.2.12 Jesus Cleanses the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had made a scourge of small cords, he drove them all out of the temple, and the sheep, and the oxen; and poured out the changers’ money, and overthrew the tables;
 <small><sub>**BSB:**</sub></small>
 So He made a whip out of cords and drove all from the temple courts, both sheep and cattle. He poured out the coins of the money changers and overturned their tables.
-<small><sub>**Literal:**</sub></small>
-And having made a whip of cords all He drove out from the temple, <the> both the sheep and the oxen, and of the money changers He poured out the coin, and the tables He overthrew,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.14|<< John 2:14]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.16|John 2:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4160G\|ποιήσας]]  [[G5416\|φραγέλλιον]]  [[G1537\|ἐκ]]  [[G4979\|σχοινίων]]  [[G3956\|πάντας]]  [[G1544\|ἐξέβαλεν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2411\|ἱεροῦ,]]  [[G3588\|τά]]  [[G5037\|τε]]  [[G4263\|πρόβατα]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G1016\|βόας,]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G2855\|κολλυβιστῶν]]  [[G1632\|ἐξέχεεν]]  [[G3588\|τὸ]]  [[G2772\|κέρμα,]]  [[G2532\|καὶ]]  [[G3588\|τὰς]]  [[G5132\|τραπέζας]]  [[G0396\|ἀνέτρεψεν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MONEY CHANGERS|MONEY CHANGERS]] • [[topic SACRILEGE|SACRILEGE]] • [[topic TABLE|TABLE]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.14|<< John 2:14]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.16|John 2:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

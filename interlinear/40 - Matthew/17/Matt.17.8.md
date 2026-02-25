@@ -1,10 +1,55 @@
+---
+title: Matthew 17:8
+type: Verse
+kjv: "And when they had lifted up their eyes, they saw no man, save Jesus only."
+bsb: "And when they looked up, they saw no one except Jesus."
+greek: "ἐπάραντες δὲ τοὺς ὀφθαλμοὺς αὐτῶν οὐδένα εἶδον εἰ μὴ αὐτὸν Ἰησοῦν μόνον.¶"
+pericope: "[[Matt.17.1 The Transfiguration|The Transfiguration]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 17
+book/chapter: "[[Matt.17|Matthew 17]]"
+chronological_order: 967
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic TRANSFIGURATION|TRANSFIGURATION]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G1869]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G0846]]"
+- "[[G3762]]"
+- "[[G1492H]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G2424G]]"
+- "[[G3441]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 17:8**<big><big>[[Matt.17.1 The Transfiguration|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they had lifted up their eyes, they saw no man, save Jesus only.
 <small><sub>**BSB:**</sub></small>
 And when they looked up, they saw no one except Jesus.
-<small><sub>**Literal:**</sub></small>
-Having lifted up and the eyes of them no [one] they saw only except Himself Jesus alone.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.7|<< Matthew 17:7]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.9|Matthew 17:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1869\|ἐπάραντες]]  [[G1161\|δὲ]]  [[G3588\|τοὺς]]  [[G3788\|ὀφθαλμοὺς]]  [[G0846\|αὐτῶν]]  [[G3762\|οὐδένα]]  [[G1492H\|εἶδον]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G0846\|αὐτὸν]]  [[G2424G\|Ἰησοῦν]]  [[G3441\|μόνον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic TRANSFIGURATION|TRANSFIGURATION]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.7|<< Matthew 17:7]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.9|Matthew 17:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,65 @@
+---
+title: 2 Kings 18:10
+type: Verse
+kjv: "And at the end of three years they took it: even in the sixth year of Hezekiah, that is the ninth year of Hoshea king of Israel, Samaria was taken."
+bsb: "And at the end of three years, the Assyrians captured it. So Samaria was captured in the sixth year of Hezekiah, which was the ninth year of Hoshea king of Israel."
+hebrew: "וַֽיִּלְכְּדֻ֗הָ מִקְצֵה֙ שָׁלֹ֣שׁ שָׁנִ֔ים בִּשְׁנַת־ שֵׁ֖שׁ לְחִזְקִיָּ֑ה הִ֣יא שְׁנַת־ תֵּ֗שַׁע לְהוֹשֵׁ֙עַ֙ מֶ֣לֶךְ יִשְׂרָאֵ֔ל נִלְכְּדָ֖ה שֹׁמְרֽוֹן׃"
+pericope: "[[2Kgs.18.1 Hezekiah Destroys Idolatry in Judah|Hezekiah Destroys Idolatry in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 18
+book/chapter: "[[2Kgs.18|2 Kings 18]]"
+chronological_order: 656
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic CAPTIVITY|CAPTIVITY]]"
+- "[[topic HOSHEA|HOSHEA]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHALMANESER|SHALMANESER]]"
+- "[[topic SIEGE|SIEGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3920]]"
+- "[[H9034]]"
+- "[[H9006]]"
+- "[[H7097A]]"
+- "[[H7969]]"
+- "[[H8141]]"
+- "[[H9003]]"
+- "[[H9014]]"
+- "[[H8337]]"
+- "[[H9005]]"
+- "[[H2396G]]"
+- "[[H1931]]"
+- "[[H8672]]"
+- "[[H1954G]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H8111]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 18:10**<big><big>[[2Kgs.18.1 Hezekiah Destroys Idolatry in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And at the end of three years they took it: [even] in the sixth year of Hezekiah, that [is] the ninth year of Hoshea king of Israel, Samaria was taken.
 <small><sub>**BSB:**</sub></small>
 And at the end of three years, the Assyrians captured it. So Samaria was captured in the sixth year of Hezekiah, which was the ninth year of Hoshea king of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H3920\|יִּלְכְּדֻ֗]][[H9034\|הָ]] [[H9006\|מִ]][[H7097A\|קְצֵה֙]] [[H7969\|שָׁלֹ֣שׁ]] [[H8141\|שָׁנִ֔ים]] [[H9003\|בִּ]][[H8141\|שְׁנַת]][[H9014\|־]] [[H8337\|שֵׁ֖שׁ]] [[H9005\|לְ]][[H2396G\|חִזְקִיָּ֑ה]] [[H1931\|הִ֣יא]] [[H8141\|שְׁנַת]][[H9014\|־]] [[H8672\|תֵּ֗שַׁע]] [[H9005\|לְ]][[H1954G\|הוֹשֵׁ֙עַ֙]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3920\|נִלְכְּדָ֖ה]] [[H8111\|שֹׁמְרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic CAPTIVITY|CAPTIVITY]] • [[topic HOSHEA|HOSHEA]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SAMARIA|SAMARIA]] • [[topic SHALMANESER|SHALMANESER]] • [[topic SIEGE|SIEGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.9|<< 2 Kings 18:9]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.11|2 Kings 18:11 >>]]</td></tr></table>
 

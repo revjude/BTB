@@ -1,8 +1,62 @@
+---
+title: 2 Chronicles 26:9
+type: Verse
+kjv: "Moreover Uzziah built towers in Jerusalem at the corner gate, and at the valley gate, and at the turning of the wall, and fortified them."
+bsb: "Uzziah built towers in Jerusalem at the Corner Gate, the Valley Gate, and the angle in the wall, and he fortified them."
+hebrew: "וַיִּ֨בֶן עֻזִּיָּ֤הוּ מִגְדָּלִים֙ בִּיר֣וּשָׁלִַ֔ם עַל־ שַׁ֧עַר הַפִּנָּ֛ה וְעַל־ שַׁ֥עַר הַגַּ֖יְא וְעַל־ הַמִּקְצ֑וֹעַ וַֽיְחַזְּקֵֽם׃"
+pericope: "[[2Chr.26.1 Uzziah Reigns in Judah|Uzziah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 26
+book/chapter: "[[2Chr.26|2 Chronicles 26]]"
+chronological_order: 593
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic TOWER|TOWER]]"
+- "[[topic UZZIAH|UZZIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H5818G]]"
+- "[[H4026M]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H8179G]]"
+- "[[H9009]]"
+- "[[H6438G]]"
+- "[[H9002]]"
+- "[[H1516M]]"
+- "[[H4740G]]"
+- "[[H2388G]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 26:9**<big><big>[[2Chr.26.1 Uzziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover Uzziah built towers in Jerusalem at the corner gate, and at the valley gate, and at the turning [of the wall], and fortified them.
 <small><sub>**BSB:**</sub></small>
 Uzziah built towers in Jerusalem at the Corner Gate, the Valley Gate, and the angle in the wall, and he fortified them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1129\|יִּ֨בֶן]] [[H5818G\|עֻזִּיָּ֤הוּ]] [[H4026M\|מִגְדָּלִים֙]] [[H9003\|בִּ]][[H3389\|יר֣וּשָׁלִַ֔ם]] [[H5921A\|עַל]][[H9014\|־]] [[H8179G\|שַׁ֧עַר]] [[H9009\|הַ]][[H6438G\|פִּנָּ֛ה]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H8179G\|שַׁ֥עַר]] [[H9009\|הַ]][[H1516M\|גַּ֖יְא]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4740G\|מִּקְצ֑וֹעַ]] [[H9001\|וַֽ]][[H2388G\|יְחַזְּקֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic TOWER|TOWER]] • [[topic UZZIAH|UZZIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.26.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.8|<< 2 Chronicles 26:8]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.10|2 Chronicles 26:10 >>]]</td></tr></table>
 

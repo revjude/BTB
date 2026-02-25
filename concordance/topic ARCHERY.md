@@ -9,13 +9,13 @@
 
 → Practiced by the sons of Ulam [[1Chr.8.40|1Ch 8:40]]
 
-→ Practiced by the Philistines [[1Sam.31.1|1Sa 31:1]]-[[1Sam.31.3|3]]; [[1Chr.10.3|1Ch 10:3]]
+→ Practiced by the Philistines [[1Sam.31.1|1Sa 31:1-3]]; [[1Chr.10.3|1Ch 10:3]]
 
 → Practiced by the Persians [[Isa.13.17|Isa 13:17]],[[Isa.13.18|18]]
 
 → Practiced by the people of Kedar [[Isa.21.17|Isa 21:17]]
 
-→ Practiced by the Syrians [[1Kgs.22.31|1Ki 22:31]]-[[1Kgs.22.34|34]]
+→ Practiced by the Syrians [[1Kgs.22.31|1Ki 22:31-34]]
 
 → Practiced by the Israelites [[2Sam.1.18|2Sa 1:18]]; [[1Chr.5.18|1Ch 5:18]]; [[1Chr.12.2|12:2]]; [[2Chr.14.8|2Ch 14:8]]; [[2Chr.26.14|26:14]]; [[Neh.4.13|Ne 4:13]]; [[Zech.9.13|Zec 9:13]]
 

@@ -1,8 +1,55 @@
+---
+title: 1 Samuel 29:10
+type: Verse
+kjv: "Wherefore now rise up early in the morning with thy master’s servants that are come with thee: and as soon as ye be up early in the morning, and have light, depart."
+bsb: "Now then, get up early in the morning, along with your master’s servants who came with you, and go as soon as it is light.”"
+hebrew: "וְעַתָּה֙ הַשְׁכֵּ֣ם בַּבֹּ֔קֶר וְעַבְדֵ֥י אֲדֹנֶ֖יךָ אֲשֶׁר־ בָּ֣אוּ אִתָּ֑ךְ וְהִשְׁכַּמְתֶּ֣ם בַּבֹּ֔קֶר וְא֥וֹר לָכֶ֖ם וָלֵֽכוּ׃"
+pericope: "[[1Sam.29.1 The Philistines Reject David|The Philistines Reject David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 29
+book/chapter: "[[1Sam.29|1 Samuel 29]]"
+chronological_order: 308
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H7925]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H5650]]"
+- "[[H0113]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H0854]]"
+- "[[H9031]]"
+- "[[H9001]]"
+- "[[H0215]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 29:10**<big><big>[[1Sam.29.1 The Philistines Reject David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore now rise up early in the morning with thy master’s servants that are come with thee: and as soon as ye be up early in the morning, and have light, depart.
 <small><sub>**BSB:**</sub></small>
 Now then, get up early in the morning, along with your master’s servants who came with you, and go as soon as it is light.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּה֙]] [[H7925\|הַשְׁכֵּ֣ם]] [[H9003\|בַּ]][[H1242\|בֹּ֔קֶר]] [[H9002\|וְ]][[H5650\|עַבְדֵ֥י]] [[H0113\|אֲדֹנֶ֖י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֣אוּ]] [[H0854\|אִתָּ֑]][[H9031\|ךְ]] [[H9001\|וְ]][[H7925\|הִשְׁכַּמְתֶּ֣ם]] [[H9003\|בַּ]][[H1242\|בֹּ֔קֶר]] [[H9001\|וְ]][[H0215\|א֥וֹר]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H9002\|וָ]][[H1980G\|לֵֽכוּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.29.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.29.9|<< 1 Samuel 29:9]]</td><td align="center" style="border:none;">[[1Sam.29|1 Samuel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.29.11|1 Samuel 29:11 >>]]</td></tr></table>
 

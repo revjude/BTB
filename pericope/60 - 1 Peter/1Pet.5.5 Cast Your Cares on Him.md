@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Cast Your Cares on Him
+type: Pericope
 pericope: "[[1Pet.5.5 Cast Your Cares on Him|Cast Your Cares on Him]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: 1 Peter
 chapter: 5
 book/chapter: "[[1Pet.5|1 Peter 5]]"
-genre:
+chronological_order: 1139
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
 - epistle
 - general epistle
 - circular letter
 - persecution literature
+verse_count: 5
 verses:
 - "[[1Pet.5.5]]"
 - "[[1Pet.5.6]]"
@@ -23,7 +30,7 @@ verses:
 - "[[1Pet.5.9]]"
 ---
 
-[[1Pet.5|1 Peter 5:5 - 1 Peter 5:9]]
+<small>[[1Pet.5|1 Peter 5:5-9]]</small>
 *Cast Your Cares on Him*
 
 [[1Pet.5.5|5]] Likewise, ye younger, submit yourselves unto the elder. Yea, all \[of you\] be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble.

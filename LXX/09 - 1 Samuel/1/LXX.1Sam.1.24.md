@@ -1,6 +1,70 @@
+---
+title: LXX 1 Samuel 1:24
+type: Verse
+lxx: "And she ascended with him unto Shiloh with a calf being three years old, and an ephah of fine flour, and a skin flask of wine. And she entered into the house of the lord in Shiloh, and the boy with them."
+greek: "και ανέβη μετ΄ αυτού εις Συλώ εν μόσχω τριετίζοντι και οίφι σεμιδάλεως και νέβελ οίνου και εισήλθεν εις οίκον κυρίου εν Συλώ και το παιδάριον μετ΄ αυτών"
+original_language: Greek
+testament: Old
+book: 1 Samuel
+chapter: 1
+book/chapter: "[[1Sam.1|1 Samuel 1]]"
+chronological_order: 280
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONSECRATION|CONSECRATION]]"
+- "[[topic ELI|ELI]]"
+- "[[topic HANNAH|HANNAH]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic SHILOH|SHILOH]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G0305]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[H7887]]"
+- "[[G1722]]"
+- "[[G3448]]"
+- "[[G9485]]"
+- "[[G2532]]"
+- "[[G8467]]"
+- "[[G4585]]"
+- "[[G2532]]"
+- "[[G8380]]"
+- "[[G3631]]"
+- "[[G2532]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G3624]]"
+- "[[G2962]]"
+- "[[G1722]]"
+- "[[H7887]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3808]]"
+- "[[G3326]]"
+- "[[G1473]]"
+---
+
 **LXX 1 Samuel 1:24** 
 <small><sub>**LXX:**</sub></small>
 And she ascended with him unto Shiloh with a calf being three years old, and an ephah of fine flour, and a skin flask of wine. And she entered into \[the\] house of \[the\] <span class="smallcaps">lord</span> in Shiloh, and the boy with them. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0305\|ανέβη]] [[G3326\|μετ΄]] [[G1473\|αυτού]] [[G1519\|εις]] [[H7887\|Συλώ]] [[G1722\|εν]] [[G3448\|μόσχω]] [[G9485\|τριετίζοντι]] [[G2532\|και]] [[G8467\|οίφι]] [[G4585\|σεμιδάλεως]] [[G2532\|και]] [[G8380\|νέβελ]] [[G3631\|οίνου]] [[G2532\|και]] [[G1525\|εισήλθεν]] [[G1519\|εις]] [[G3624\|οίκον]] [[G2962\|κυρίου]] [[G1722\|εν]] [[H7887\|Συλώ]] [[G2532\|και]] [[G3588\|το]] [[G3808\|παιδάριον]] [[G3326\|μετ΄]] [[G1473\|αυτών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic CHURCH|CHURCH]] • [[topic CONSECRATION|CONSECRATION]] • [[topic ELI|ELI]] • [[topic HANNAH|HANNAH]] • [[topic MEASURE|MEASURE]] • [[topic SAMUEL|SAMUEL]] • [[topic SHILOH|SHILOH]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Sam.1.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.23|<< 1 Samuel 1:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.25|1 Samuel 1:25 >>]]</td></tr></table>
 
@@ -33,6 +97,6 @@ And she ascended with him unto Shiloh with a calf being three years old, and an 
 | boy | **<big>[[G3808\|παιδάριον]]</big>** |
 | with | **<big>[[G3326\|μετ΄]]</big>** |
 | them. | **<big>[[G1473\|αυτών]]</big>** |
-[[1Sam.1.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.23|<< 1 Samuel 1:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.25|1 Samuel 1:25 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.23|<< 1 Samuel 1:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.25|1 Samuel 1:25 >>]]</td></tr></table>
 
 

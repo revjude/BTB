@@ -1,8 +1,71 @@
+---
+title: Ezekiel 28:25
+type: Verse
+kjv: "Thus saith the Lord GOD; When I shall have gathered the house of Israel from the people among whom they are scattered, and shall be sanctified in them in the sight of the heathen, then shall they dwell in their land that I have given to my servant Jacob."
+bsb: "This is what the Lord GOD says: ‘When I gather the house of Israel from the peoples among whom they have been scattered, I will show Myself holy among them in the sight of the nations. Then they will dwell in their own land, which I have given to My servant Jacob."
+hebrew: "כֹּֽה־ אָמַר֮ אֲדֹנָ֣י יְהוִה֒ בְּקַבְּצִ֣י׀ אֶת־ בֵּ֣ית יִשְׂרָאֵ֗ל מִן־ הָֽעַמִּים֙ אֲשֶׁ֣ר נָפֹ֣צוּ בָ֔ם וְנִקְדַּ֥שְׁתִּי בָ֖ם לְעֵינֵ֣י הַגּוֹיִ֑ם וְיָֽשְׁבוּ֙ עַל־ אַדְמָתָ֔ם אֲשֶׁ֥ר נָתַ֖תִּי לְעַבְדִּ֥י לְיַעֲקֹֽב׃"
+pericope: "[[Ezek.28.25 The Restoration of Israel|The Restoration of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 28
+book/chapter: "[[Ezek.28|Ezekiel 28]]"
+chronological_order: 819
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9003]]"
+- "[[H6908]]"
+- "[[H9040]]"
+- "[[H9015]]"
+- "[[H0853]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H6327A]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H6942K]]"
+- "[[H9005]]"
+- "[[H5869H]]"
+- "[[H1471A]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H0127G]]"
+- "[[H9028]]"
+- "[[H5414G]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H3290]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 28:25**<big><big>[[Ezek.28.25 The Restoration of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the Lord GOD; When I shall have gathered the house of Israel from the people among whom they are scattered, and shall be sanctified in them in the sight of the heathen, then shall they dwell in their land that I have given to my servant Jacob.
 <small><sub>**BSB:**</sub></small>
 This is what the Lord GOD says: ‘When I gather the house of Israel from the peoples among whom they have been scattered, I will show Myself holy among them in the sight of the nations. Then they will dwell in their own land, which I have given to My servant Jacob.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַר֮]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִה֒]] [[H9003\|בְּ]][[H6908\|קַבְּצִ֣]][[H9040\|י]][[H9015\|׀]] [[H0853\|אֶת]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָֽ]][[H5971A\|עַמִּים֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6327A\|נָפֹ֣צוּ]] [[H9003\|בָ֔]][[H9038\|ם]] [[H9001\|וְ]][[H6942K\|נִקְדַּ֥שְׁתִּי]] [[H9003\|בָ֖]][[H9038\|ם]] [[H9005\|לְ]][[H5869H\|עֵינֵ֣י]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֑ם]] [[H9001\|וְ]][[H3427\|יָֽשְׁבוּ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H0127G\|אַדְמָתָ֔]][[H9028\|ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H5414G\|נָתַ֖תִּי]] [[H9005\|לְ]][[H5650\|עַבְדִּ֥]][[H9020\|י]] [[H9005\|לְ]][[H3290\|יַעֲקֹֽב]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.24|<< Ezekiel 28:24]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.26|Ezekiel 28:26 >>]]</td></tr></table>
 

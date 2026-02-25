@@ -1,8 +1,55 @@
+---
+title: Job 37:5
+type: Verse
+kjv: "God thundereth marvellously with his voice; great things doeth he, which we cannot comprehend."
+bsb: "God thunders wondrously with His voice; He does great things we cannot comprehend."
+hebrew: "יַרְעֵ֤ם אֵ֣ל בְּ֭קוֹלוֹ נִפְלָא֑וֹת עֹשֶׂ֥ה גְ֝דֹל֗וֹת וְלֹ֣א נֵדָֽע׃"
+pericope: "[[Job.37.1 Elihu Proclaims God’s Majesty|Elihu Proclaims God’s Majesty]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 37
+book/chapter: "[[Job.37|Job 37]]"
+chronological_order: 48
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H7481]]"
+- "[[H0410G]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H9023]]"
+- "[[H6381]]"
+- "[[H6213A]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 37:5**<big><big>[[Job.37.1 Elihu Proclaims God’s Majesty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God thundereth marvellously with his voice; great things doeth he, which we cannot comprehend.
 <small><sub>**BSB:**</sub></small>
 God thunders wondrously with His voice; He does great things we cannot comprehend.
+<small><sub>**Hebrew:**</sub></small>
+[[H7481\|יַרְעֵ֤ם]] [[H0410G\|אֵ֣ל]] [[H9003\|בְּ֭]][[H6963A\|קוֹל]][[H9023\|וֹ]] [[H6381\|נִפְלָא֑וֹת]] [[H6213A\|עֹשֶׂ֥ה]] [[H1419A\|גְ֝דֹל֗וֹת]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3045\|נֵדָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic IGNORANCE|IGNORANCE]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.37.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.4|<< Job 37:4]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.6|Job 37:6 >>]]</td></tr></table>
 

@@ -1,10 +1,54 @@
+---
+title: Matthew 12:15
+type: Verse
+kjv: "But when Jesus knew it, he withdrew himself from thence: and great multitudes followed him, and he healed them all;"
+bsb: "Aware of this, Jesus withdrew from that place. Large crowds followed Him, and He healed them all,"
+greek: "Ὁ δὲ Ἰησοῦς γνοὺς ἀνεχώρησεν ἐκεῖθεν, καὶ ἠκολούθησαν αὐτῷ ὄχλοι πολλοί, καὶ ἐθεράπευσεν αὐτοὺς πάντας"
+pericope: "[[Matt.12.15 God’s Chosen Servant|God’s Chosen Servant]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G1097]]"
+- "[[G0402]]"
+- "[[G1564]]"
+- "[[G2532]]"
+- "[[G0190]]"
+- "[[G0846]]"
+- "[[G3793]]"
+- "[[G4183]]"
+- "[[G2323]]"
+- "[[G3956]]"
+texts:
+- NKO
+---
+
 **Matthew 12:15**<big><big>[[Matt.12.15 God’s Chosen Servant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when Jesus knew [it], he withdrew himself from thence: and great multitudes followed him, and he healed them all;
 <small><sub>**BSB:**</sub></small>
 Aware of this, Jesus withdrew from that place. Large crowds followed Him, and He healed them all,
-<small><sub>**Literal:**</sub></small>
-<the> And Jesus having known He withdrew from there, And followed Him multitudes great, and He healed them all<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.14|<< Matthew 12:14]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.16|Matthew 12:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G1097\|γνοὺς]]  [[G0402\|ἀνεχώρησεν]]  [[G1564\|ἐκεῖθεν,]]  [[G2532\|καὶ]]  [[G0190\|ἠκολούθησαν]]  [[G0846\|αὐτῷ]]  [[G3793\|ὄχλοι]]  [[G4183\|πολλοί,]]  [[G2532\|καὶ]]  [[G2323\|ἐθεράπευσεν]]  [[G0846\|αὐτοὺς]]  [[G3956\|πάντας]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRUDENCE|PRUDENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.14|<< Matthew 12:14]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.16|Matthew 12:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

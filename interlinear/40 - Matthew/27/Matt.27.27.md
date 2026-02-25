@@ -1,10 +1,58 @@
+---
+title: Matthew 27:27
+type: Verse
+kjv: "Then the soldiers of the governor took Jesus into the common hall, and gathered unto him the whole band of soldiers."
+bsb: "Then the governor’s soldiers took Jesus into the Praetorium and gathered the whole company around Him."
+greek: "Τότε οἱ στρατιῶται τοῦ ἡγεμόνος παραλαβόντες τὸν Ἰησοῦν εἰς τὸ πραιτώριον συνήγαγον ἐπ᾽ αὐτὸν ὅλην τὴν σπεῖραν,"
+pericope: "[[Matt.27.27 The Soldiers Mock Jesus|The Soldiers Mock Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic PRETORIUM|PRETORIUM]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+strongs:
+- "[[G5119]]"
+- "[[G3588]]"
+- "[[G4757]]"
+- "[[G2232]]"
+- "[[G3880]]"
+- "[[G2424G]]"
+- "[[G1519]]"
+- "[[G4232]]"
+- "[[G4863]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G3650]]"
+- "[[G4686]]"
+texts:
+- NKO
+---
+
 **Matthew 27:27**<big><big>[[Matt.27.27 The Soldiers Mock Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then the soldiers of the governor took Jesus into the common hall, and gathered unto him the whole band [of soldiers].
 <small><sub>**BSB:**</sub></small>
 Then the governor’s soldiers took Jesus into the Praetorium and gathered the whole company around Him.
-<small><sub>**Literal:**</sub></small>
-Then the soldiers of the governor having taken with [them] <the> Jesus to the Praetorium gathered before Him all the cohort,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.26|<< Matthew 27:26]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.28|Matthew 27:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G3588\|οἱ]]  [[G4757\|στρατιῶται]]  [[G3588\|τοῦ]]  [[G2232\|ἡγεμόνος]]  [[G3880\|παραλαβόντες]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4232\|πραιτώριον]]  [[G4863\|συνήγαγον]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτὸν]]  [[G3650\|ὅλην]]  [[G3588\|τὴν]]  [[G4686\|σπεῖραν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic PERSECUTION|PERSECUTION]] • [[topic POLITICS|POLITICS]] • [[topic PRETORIUM|PRETORIUM]] • [[topic SOLDIERS|SOLDIERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.26|<< Matthew 27:26]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.28|Matthew 27:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

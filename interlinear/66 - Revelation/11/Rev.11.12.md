@@ -1,10 +1,62 @@
+---
+title: Revelation 11:12
+type: Verse
+kjv: "And they heard a great voice from heaven saying unto them, Come up hither. And they ascended up to heaven in a cloud; and their enemies beheld them."
+bsb: "And the witnesses heard a loud voice from heaven saying, “Come up here.” And they went up to heaven in a cloud as their enemies watched them."
+greek: "καὶ ἤκουσαν φωνῆς μεγάλης ἐκ τοῦ οὐρανοῦ λεγούσης αὐτοῖς· ἀνάβατε ὧδε. καὶ ἀνέβησαν εἰς τὸν οὐρανὸν ἐν τῇ νεφέλῃ, καὶ ἐθεώρησαν αὐτοὺς οἱ ἐχθροὶ αὐτῶν."
+pericope: "[[Rev.11.7 The Witnesses Killed and Raised|The Witnesses Killed and Raised]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 11
+book/chapter: "[[Rev.11|Revelation 11]]"
+chronological_order: 1178
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ASCENSION|ASCENSION]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G5456G]]"
+- "[[G3173]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G0305]]"
+- "[[G5602]]"
+- "[[G1519]]"
+- "[[G1722]]"
+- "[[G3507]]"
+- "[[G2334]]"
+- "[[G2190]]"
+texts:
+- NKO
+- NK(O)
+- N(k)O
+---
+
 **Revelation 11:12**<big><big>[[Rev.11.7 The Witnesses Killed and Raised|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they heard a great voice from heaven saying unto them, Come up hither. And they ascended up to heaven in a cloud; and their enemies beheld them.
 <small><sub>**BSB:**</sub></small>
 And the witnesses heard a loud voice from heaven saying, “Come up here.” And they went up to heaven in a cloud as their enemies watched them.
-<small><sub>**Literal:**</sub></small>
-And they heard a voice great out of <the> heaven saying to them; do come up here. And they went up to <the> heaven in the cloud, and beheld them the enemies of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.11|<< Revelation 11:11]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.13|Revelation 11:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0191\|ἤκουσαν]]  [[G5456G\|φωνῆς]]  [[G3173\|μεγάλης]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G3004G\|λεγούσης]]  [[G0846\|αὐτοῖς·]]  [[G0305\|ἀνάβατε]]  [[G5602\|ὧδε.]]  [[G2532\|καὶ]]  [[G0305\|ἀνέβησαν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3772\|οὐρανὸν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3507\|νεφέλῃ,]]  [[G2532\|καὶ]]  [[G2334\|ἐθεώρησαν]]  [[G0846\|αὐτοὺς]]  [[G3588\|οἱ]]  [[G2190\|ἐχθροὶ]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASCENSION|ASCENSION]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.11|<< Revelation 11:11]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.13|Revelation 11:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

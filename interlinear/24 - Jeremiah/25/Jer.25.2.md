@@ -1,8 +1,62 @@
+---
+title: Jeremiah 25:2
+type: Verse
+kjv: "The which Jeremiah the prophet spake unto all the people of Judah, and to all the inhabitants of Jerusalem, saying,"
+bsb: "So the prophet Jeremiah spoke to all the people of Judah and all the residents of Jerusalem as follows:"
+hebrew: "אֲשֶׁ֨ר דִּבֶּ֜ר יִרְמְיָ֤הוּ הַנָּבִיא֙ עַל־ כָּל־ עַ֣ם יְהוּדָ֔ה וְאֶ֛ל כָּל־ יֹשְׁבֵ֥י יְרוּשָׁלִַ֖ם לֵאמֹֽר׃"
+pericope: "[[Jer.25.1 Seventy Years of Captivity|Seventy Years of Captivity]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 25
+book/chapter: "[[Jer.25|Jeremiah 25]]"
+chronological_order: 748
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CAPTIVITY|CAPTIVITY]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H3414L]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 25:2**<big><big>[[Jer.25.1 Seventy Years of Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The which Jeremiah the prophet spake unto all the people of Judah, and to all the inhabitants of Jerusalem, saying,
 <small><sub>**BSB:**</sub></small>
 So the prophet Jeremiah spoke to all the people of Judah and all the residents of Jerusalem as follows:
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֨ר]] [[H1696G\|דִּבֶּ֜ר]] [[H3414L\|יִרְמְיָ֤הוּ]] [[H9009\|הַ]][[H5030\|נָּבִיא֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5971A\|עַ֣ם]] [[H3063G\|יְהוּדָ֔ה]] [[H9002\|וְ]][[H0413\|אֶ֛ל]] [[H3605\|כָּל]][[H9014\|־]] [[H3427\|יֹשְׁבֵ֥י]] [[H3389\|יְרוּשָׁלִַ֖ם]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CAPTIVITY|CAPTIVITY]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.1|<< Jeremiah 25:1]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.3|Jeremiah 25:3 >>]]</td></tr></table>
 

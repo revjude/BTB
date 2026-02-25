@@ -1,8 +1,72 @@
+---
+title: Ezra 10:16
+type: Verse
+kjv: "And the children of the captivity did so. And Ezra the priest, with certain chief of the fathers, after the house of their fathers, and all of them by their names, were separated, and sat down in the first day of the tenth month to examine the matter."
+bsb: "So the exiles did as proposed. Ezra the priest selected men who were family heads, each of them identified by name, to represent their families. On the first day of the tenth month they launched the investigation,"
+hebrew: "וַיַּֽעֲשׂוּ־ כֵן֮ בְּנֵ֣י הַגּוֹלָה֒ וַיִּבָּדְלוּ֩ עֶזְרָ֨א הַכֹּהֵ֜ן אֲנָשִׁ֨ים רָאשֵׁ֧י הָאָב֛וֹת לְבֵ֥ית אֲבֹתָ֖ם וְכֻלָּ֣ם בְּשֵׁמ֑וֹת וַיֵּשְׁב֗וּ בְּי֤וֹם אֶחָד֙ לַחֹ֣דֶשׁ הָעֲשִׂירִ֔י לְדַרְי֖וֹשׁ הַדָּבָֽר׃"
+pericope: "[[Ezra.10.6 The People’s Confession of Sin|The People’s Confession of Sin]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 10
+book/chapter: "[[Ezra.10|Ezra 10]]"
+chronological_order: 912
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic EZRA|EZRA]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H1121I]]"
+- "[[H9009]]"
+- "[[H1473]]"
+- "[[H0914]]"
+- "[[H5830G]]"
+- "[[H3548]]"
+- "[[H0582]]"
+- "[[H7218H]]"
+- "[[H0001G]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H3427]]"
+- "[[H3117G]]"
+- "[[H0259]]"
+- "[[H2320G]]"
+- "[[H6224]]"
+- "[[H1875]]"
+- "[[H1697I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 10:16**<big><big>[[Ezra.10.6 The People’s Confession of Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of the captivity did so. And Ezra the priest, [with] certain chief of the fathers, after the house of their fathers, and all of them by [their] names, were separated, and sat down in the first day of the tenth month to examine the matter.
 <small><sub>**BSB:**</sub></small>
 So the exiles did as proposed. Ezra the priest selected men who were family heads, each of them identified by name, to represent their families. On the first day of the tenth month they launched the investigation,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּֽעֲשׂוּ]][[H9014\|־]] [[H3651C\|כֵן֮]] [[H1121I\|בְּנֵ֣י]] [[H9009\|הַ]][[H1473\|גּוֹלָה֒]] [[H9001\|וַ]][[H0914\|יִּבָּדְלוּ֩]] [[H5830G\|עֶזְרָ֨א]] [[H9009\|הַ]][[H3548\|כֹּהֵ֜ן]] [[H0582\|אֲנָשִׁ֨ים]] [[H7218H\|רָאשֵׁ֧י]] [[H9009\|הָ]][[H0001G\|אָב֛וֹת]] [[H9005\|לְ]][[H1004M\|בֵ֥ית]] [[H0001G\|אֲבֹתָ֖]][[H9028\|ם]] [[H9002\|וְ]][[H3605\|כֻלָּ֣]][[H9028\|ם]] [[H9003\|בְּ]][[H8034\|שֵׁמ֑וֹת]] [[H9001\|וַ]][[H3427\|יֵּשְׁב֗וּ]] [[H9003\|בְּ]][[H3117G\|י֤וֹם]] [[H0259\|אֶחָד֙]] [[H9005\|לַ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הָ]][[H6224\|עֲשִׂירִ֔י]] [[H9005\|לְ]][[H1875\|דַרְי֖וֹשׁ]] [[H9009\|הַ]][[H1697I\|דָּבָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic CHURCH|CHURCH]] • [[topic DECISION|DECISION]] • [[topic DIVORCE|DIVORCE]] • [[topic EZRA|EZRA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.10.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.15|<< Ezra 10:15]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.17|Ezra 10:17 >>]]</td></tr></table>
 

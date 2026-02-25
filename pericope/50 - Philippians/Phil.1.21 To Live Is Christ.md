@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: To Live Is Christ
+type: Pericope
 pericope: "[[Phil.1.21 To Live Is Christ|To Live Is Christ]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Philippians
 chapter: 1
 book/chapter: "[[Phil.1|Philippians 1]]"
-genre:
+chronological_order: 1117
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - pastoral letter
+verse_count: 6
 verses:
 - "[[Phil.1.21]]"
 - "[[Phil.1.22]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Phil.1.26]]"
 ---
 
-[[Phil.1|Philippians 1:21 - Philippians 1:26]]
+<small>[[Phil.1|Philippians 1:21-26]]</small>
 *To Live Is Christ*
 
 [[Phil.1.21|21]] For to me to live \[is\] Christ, and to die \[is\] gain.

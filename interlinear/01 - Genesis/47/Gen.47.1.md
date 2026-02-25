@@ -1,8 +1,70 @@
+---
+title: Genesis 47:1
+type: Verse
+kjv: "Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they are in the land of Goshen."
+bsb: "So Joseph went and told Pharaoh: “My father and my brothers, with their flocks and herds and all they own, have come from the land of Canaan and are now in Goshen.”"
+hebrew: "וַיָּבֹ֣א יוֹסֵף֮ וַיַּגֵּ֣ד לְפַרְעֹה֒ וַיֹּ֗אמֶר אָבִ֨י וְאַחַ֜י וְצֹאנָ֤ם וּבְקָרָם֙ וְכָל־ אֲשֶׁ֣ר לָהֶ֔ם בָּ֖אוּ מֵאֶ֣רֶץ כְּנָ֑עַן וְהִנָּ֖ם בְּאֶ֥רֶץ גֹּֽשֶׁן׃"
+pericope: "[[Gen.47.1 Jacob Settles in Goshen|Jacob Settles in Goshen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 47
+book/chapter: "[[Gen.47|Genesis 47]]"
+chronological_order: 89
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic JACOB|JACOB]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H3130G]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H6547H]]"
+- "[[H0559]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H0251G]]"
+- "[[H6629G]]"
+- "[[H9028]]"
+- "[[H1241]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H2005]]"
+- "[[H9048]]"
+- "[[H9003]]"
+- "[[H1657G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 47:1**<big><big>[[Gen.47.1 Jacob Settles in Goshen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they [are] in the land of Goshen.
 <small><sub>**BSB:**</sub></small>
 So Joseph went and told Pharaoh: “My father and my brothers, with their flocks and herds and all they own, have come from the land of Canaan and are now in Goshen.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֣א]] [[H3130G\|יוֹסֵף֮]] [[H9001\|וַ]][[H5046\|יַּגֵּ֣ד]] [[H9005\|לְ]][[H6547H\|פַרְעֹה֒]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H0001G\|אָבִ֨]][[H9020\|י]] [[H9002\|וְ]][[H0251G\|אַחַ֜]][[H9020\|י]] [[H9002\|וְ]][[H6629G\|צֹאנָ֤]][[H9028\|ם]] [[H9002\|וּ]][[H1241\|בְקָרָ]][[H9028\|ם֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H0935G\|בָּ֖אוּ]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H3667A\|כְּנָ֑עַן]] [[H9002\|וְ]][[H2005\|הִנָּ֖]][[H9048\|ם]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H1657G\|גֹּֽשֶׁן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACOB|JACOB]] • [[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.34|<< Genesis 46:34]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.2|Genesis 47:2 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Isaiah 7:16
+type: Verse
+kjv: "For before the child shall know to refuse the evil, and choose the good, the land that thou abhorrest shall be forsaken of both her kings."
+bsb: "For before the boy knows enough to reject evil and choose good, the land of the two kings you dread will be laid waste."
+hebrew: "כִּ֠י בְּטֶ֨רֶם יֵדַ֥ע הַנַּ֛עַר מָאֹ֥ס בָּרָ֖ע וּבָחֹ֣ר בַּטּ֑וֹב תֵּעָזֵ֤ב הָאֲדָמָה֙ אֲשֶׁ֣ר אַתָּ֣ה קָ֔ץ מִפְּנֵ֖י שְׁנֵ֥י מְלָכֶֽיהָ׃"
+pericope: "[[Isa.7.10 The Sign of Immanuel|The Sign of Immanuel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 7
+book/chapter: "[[Isa.7|Isaiah 7]]"
+chronological_order: 617
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AHAZ|AHAZ]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PEKAH|PEKAH]]"
+- "[[topic SYRIA|SYRIA]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H2962]]"
+- "[[H3045]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H3988A]]"
+- "[[H7451B]]"
+- "[[H9002]]"
+- "[[H0977]]"
+- "[[H2896B]]"
+- "[[H5800A]]"
+- "[[H0127G]]"
+- "[[H0834A]]"
+- "[[H0859A]]"
+- "[[H6973]]"
+- "[[H9006]]"
+- "[[H6440L]]"
+- "[[H8147]]"
+- "[[H4428G]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 7:16**<big><big>[[Isa.7.10 The Sign of Immanuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For before the child shall know to refuse the evil, and choose the good, the land that thou abhorrest shall be forsaken of both her kings.
 <small><sub>**BSB:**</sub></small>
 For before the boy knows enough to reject evil and choose good, the land of the two kings you dread will be laid waste.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֠י]] [[H9003\|בְּ]][[H2962\|טֶ֨רֶם]] [[H3045\|יֵדַ֥ע]] [[H9009\|הַ]][[H5288\|נַּ֛עַר]] [[H3988A\|מָאֹ֥ס]] [[H9003\|בָּ]][[H7451B\|רָ֖ע]] [[H9002\|וּ]][[H0977\|בָחֹ֣ר]] [[H9003\|בַּ]][[H2896B\|טּ֑וֹב]] [[H5800A\|תֵּעָזֵ֤ב]] [[H9009\|הָ]][[H0127G\|אֲדָמָה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0859A\|אַתָּ֣ה]] [[H6973\|קָ֔ץ]] [[H9006\|מִ]][[H6440L\|פְּנֵ֖י]] [[H8147\|שְׁנֵ֥י]] [[H4428G\|מְלָכֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZ|AHAZ]] • [[topic ISAIAH|ISAIAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PEKAH|PEKAH]] • [[topic SYRIA|SYRIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.7.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.7.15|<< Isaiah 7:15]]</td><td align="center" style="border:none;">[[Isa.7|Isaiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.17|Isaiah 7:17 >>]]</td></tr></table>
 

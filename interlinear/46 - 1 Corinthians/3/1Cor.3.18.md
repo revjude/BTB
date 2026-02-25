@@ -1,10 +1,58 @@
+---
+title: 1 Corinthians 3:18
+type: Verse
+kjv: "Let no man deceive himself. If any man among you seemeth to be wise in this world, let him become a fool, that he may be wise."
+bsb: "Let no one deceive himself. If any of you thinks he is wise in this age, he should become a fool, so that he may become wise."
+greek: "Μηδεὶς ἑαυτὸν ἐξαπατάτω· εἴ τις δοκεῖ σοφὸς εἶναι ἐν ὑμῖν ἐν τῷ αἰῶνι τούτῳ, μωρὸς γενέσθω ἵνα γένηται σοφός."
+pericope: "[[1Cor.3.16 God’s Temple and God’s Wisdom|God’s Temple and God’s Wisdom]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 3
+book/chapter: "[[1Cor.3|1 Corinthians 3]]"
+chronological_order: 1060
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PARADOX|PARADOX]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3367]]"
+- "[[G1438]]"
+- "[[G1818]]"
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G1380]]"
+- "[[G4680]]"
+- "[[G1511]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G0165G]]"
+- "[[G3778]]"
+- "[[G3474]]"
+- "[[G1096]]"
+- "[[G2443]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 3:18**<big><big>[[1Cor.3.16 God’s Temple and God’s Wisdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Let no man deceive himself. If any man among you seemeth to be wise in this world, let him become a fool, that he may be wise.
 <small><sub>**BSB:**</sub></small>
 Let no one deceive himself. If any of you thinks he is wise in this age, he should become a fool, so that he may become wise.
-<small><sub>**Literal:**</sub></small>
-No one himself should deceive; if anyone thinks [himself] wise to be among you in <the> age this, foolish he should become so that he may become wise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.17|<< 1 Corinthians 3:17]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.19|1 Corinthians 3:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3367\|Μηδεὶς]]  [[G1438\|ἑαυτὸν]]  [[G1818\|ἐξαπατάτω·]]  [[G1487G\|εἴ]]  [[G5100\|τις]]  [[G1380\|δοκεῖ]]  [[G4680\|σοφὸς]]  [[G1511\|εἶναι]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0165G\|αἰῶνι]]  [[G3778\|τούτῳ,]]  [[G3474\|μωρὸς]]  [[G1096\|γενέσθω]]  [[G2443\|ἵνα]]  [[G1096\|γένηται]]  [[G4680\|σοφός.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HUMILITY|HUMILITY]] • [[topic PARADOX|PARADOX]] • [[topic PRIDE|PRIDE]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.17|<< 1 Corinthians 3:17]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.19|1 Corinthians 3:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

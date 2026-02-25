@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Prayer for the Ephesians
+type: Pericope
 pericope: "[[Eph.3.14 Paul’s Prayer for the Ephesians|Paul’s Prayer for the Ephesians]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Ephesians
 chapter: 3
 book/chapter: "[[Eph.3|Ephesians 3]]"
-genre:
+chronological_order: 1113
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - theological treatise
+verse_count: 8
 verses:
 - "[[Eph.3.14]]"
 - "[[Eph.3.15]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Eph.3.21]]"
 ---
 
-[[Eph.3|Ephesians 3:14 - Ephesians 3:21]]
+<small>[[Eph.3|Ephesians 3:14-21]]</small>
 *Paul’s Prayer for the Ephesians*
 
 [[Eph.3.14|14]] For this cause I bow my knees unto the Father of our Lord Jesus Christ,

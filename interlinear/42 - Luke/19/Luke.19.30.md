@@ -1,10 +1,65 @@
+---
+title: Luke 19:30
+type: Verse
+kjv: "Saying, Go ye into the village over against you; in the which at your entering ye shall find a colt tied, whereon yet never man sat: loose him, and bring him hither."
+bsb: "saying, “Go into the village ahead of you, and as you enter it, you will find a colt tied there, on which no one has ever sat. Untie it and bring it here."
+jesus_said: "Go ye into the village over against you; in the which at your entering ye shall find a colt tied, whereon yet never man sat: loose him, and bring him hither."
+greek: "λέγων· ὑπάγετε εἰς τὴν κατέναντι κώμην, ἐν ᾗ εἰσπορευόμενοι εὑρήσετε πῶλον δεδεμένον ἐφ᾽ ὃν οὐδεὶς πώποτε ἀνθρώπων ἐκάθισεν· καὶ λύσαντες αὐτὸν ἀγάγετε."
+pericope: "[[Luke.19.28 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3004G]]"
+- "[[G5217]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2713]]"
+- "[[G2968]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G1531]]"
+- "[[G2147]]"
+- "[[G4454]]"
+- "[[G1210]]"
+- "[[G1909]]"
+- "[[G3762]]"
+- "[[G4455]]"
+- "[[G0444]]"
+- "[[G2523]]"
+- "[[G2532]]"
+- "[[G3089]]"
+- "[[G0846]]"
+- "[[G0071]]"
+texts:
+- N(k)O
+- NKO
+- no
+---
+
 **Luke 19:30**<big><big>[[Luke.19.28 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Saying, Go ye into the village over against [you]; in the which at your entering ye shall find a colt tied, whereon yet never man sat: loose him, and bring [him hither].
 <small><sub>**BSB:**</sub></small>
 saying, “Go into the village ahead of you, and as you enter it, you will find a colt tied there, on which no one has ever sat. Untie it and bring it here.
-<small><sub>**Literal:**</sub></small>
-speaking; do go into the ahead village, in which entering you will find a colt tied on which no [one] ever yet of men has sat; and having untied it do bring [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.29|<< Luke 19:29]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.31|Luke 19:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγων·]]  [[G5217\|ὑπάγετε]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2713\|κατέναντι]]  [[G2968\|κώμην,]]  [[G1722\|ἐν]]  [[G3739\|ᾗ]]  [[G1531\|εἰσπορευόμενοι]]  [[G2147\|εὑρήσετε]]  [[G4454\|πῶλον]]  [[G1210\|δεδεμένον]]  [[G1909\|ἐφ᾽]]  [[G3739\|ὃν]]  [[G3762\|οὐδεὶς]]  [[G4455\|πώποτε]]  [[G0444\|ἀνθρώπων]]  [[G2523\|ἐκάθισεν·]]  [[G2532\|καὶ]]  [[G3089\|λύσαντες]]  [[G0846\|αὐτὸν]]  [[G0071\|ἀγάγετε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.29|<< Luke 19:29]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.31|Luke 19:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

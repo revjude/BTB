@@ -1,8 +1,54 @@
+---
+title: Proverbs 11:24
+type: Verse
+kjv: "There is that scattereth, and yet increaseth; and there is that withholdeth more than is meet, but it tendeth to poverty."
+bsb: "One gives freely, yet gains even more; another withholds what is right, only to become poor."
+hebrew: "יֵ֣שׁ מְ֭פַזֵּר וְנוֹסָ֥ף ע֑וֹד וְחוֹשֵׂ֥ךְ מִ֝יֹּ֗שֶׁר אַךְ־ לְמַחְסֽוֹר׃"
+pericope: "[[Prov.11.1 Dishonest Scales|Dishonest Scales]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 11
+book/chapter: "[[Prov.11|Proverbs 11]]"
+chronological_order: 466
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+strongs:
+- "[[H3426]]"
+- "[[H6340]]"
+- "[[H9002]]"
+- "[[H3254H]]"
+- "[[H5750]]"
+- "[[H2820]]"
+- "[[H9006]]"
+- "[[H3476]]"
+- "[[H0389]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H4270]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 11:24**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There is that scattereth, and yet increaseth; and [there is] that withholdeth more than is meet, but [it tendeth] to poverty.
 <small><sub>**BSB:**</sub></small>
 One gives freely, yet gains even more; another withholds what is right, only to become poor.
+<small><sub>**Hebrew:**</sub></small>
+[[H3426\|יֵ֣שׁ]] [[H6340\|מְ֭פַזֵּר]] [[H9002\|וְ]][[H3254H\|נוֹסָ֥ף]] [[H5750\|ע֑וֹד]] [[H9002\|וְ]][[H2820\|חוֹשֵׂ֥ךְ]] [[H9006\|מִ֝]][[H3476\|יֹּ֗שֶׁר]] [[H0389\|אַךְ]][[H9014\|־]] [[H9005\|לְ]][[H4270\|מַחְסֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic LIBERALITY|LIBERALITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.23|<< Proverbs 11:23]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.25|Proverbs 11:25 >>]]</td></tr></table>
 

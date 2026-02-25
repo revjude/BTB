@@ -1,8 +1,64 @@
+---
+title: Jeremiah 20:8
+type: Verse
+kjv: "For since I spake, I cried out, I cried violence and spoil; because the word of the LORD was made a reproach unto me, and a derision, daily."
+bsb: "For whenever I speak, I cry out; I proclaim violence and destruction. For the word of the LORD has become to me a reproach and derision all day long."
+hebrew: "כִּֽי־ מִדֵּ֤י אֲדַבֵּר֙ אֶזְעָ֔ק חָמָ֥ס וָשֹׁ֖ד אֶקְרָ֑א כִּֽי־ הָיָ֨ה דְבַר־ יְהוָ֥ה לִ֛י לְחֶרְפָּ֥ה וּלְקֶ֖לֶס כָּל־ הַיּֽוֹם׃"
+pericope: "[[Jer.20.7 Jeremiah’s Complaint|Jeremiah’s Complaint]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 20
+book/chapter: "[[Jer.20|Jeremiah 20]]"
+chronological_order: 737
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9006]]"
+- "[[H1767]]"
+- "[[H1696G]]"
+- "[[H2199]]"
+- "[[H2555]]"
+- "[[H9002]]"
+- "[[H7701]]"
+- "[[H7121I]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H2781]]"
+- "[[H7047]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 20:8**<big><big>[[Jer.20.7 Jeremiah’s Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For since I spake, I cried out, I cried violence and spoil; because the word of the LORD was made a reproach unto me, and a derision, daily.
 <small><sub>**BSB:**</sub></small>
 For whenever I speak, I cry out; I proclaim violence and destruction. For the word of the LORD has become to me a reproach and derision all day long.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H9006\|מִ]][[H1767\|דֵּ֤י]] [[H1696G\|אֲדַבֵּר֙]] [[H2199\|אֶזְעָ֔ק]] [[H2555\|חָמָ֥ס]] [[H9002\|וָ]][[H7701\|שֹׁ֖ד]] [[H7121I\|אֶקְרָ֑א]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|הָיָ֨ה]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H9005\|לִ֛]][[H9030\|י]] [[H9005\|לְ]][[H2781\|חֶרְפָּ֥ה]] [[H9002\|וּ]][[H9005\|לְ]][[H7047\|קֶ֖לֶס]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEREMIAH|JEREMIAH]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.20.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.20.7|<< Jeremiah 20:7]]</td><td align="center" style="border:none;">[[Jer.20|Jeremiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.20.9|Jeremiah 20:9 >>]]</td></tr></table>
 

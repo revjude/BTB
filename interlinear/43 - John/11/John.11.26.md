@@ -1,10 +1,63 @@
+---
+title: John 11:26
+type: Verse
+kjv: "And whosoever liveth and believeth in me shall never die. Believest thou this?"
+bsb: "And everyone who lives and believes in Me will never die. Do you believe this?”"
+jesus_said: "And whosoever liveth and believeth in me shall never die. Believest thou this?"
+greek: "καὶ πᾶς ὁ ζῶν καὶ πιστεύων εἰς ἐμὲ οὐ μὴ ἀποθάνῃ εἰς τὸν αἰῶνα. πιστεύεις τοῦτο;"
+pericope: "[[John.11.17 Jesus Comforts Martha and Mary|Jesus Comforts Martha and Mary]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONDOLENCE|CONDOLENCE]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SORROW|SORROW]]"
+strongs:
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2198]]"
+- "[[G4100]]"
+- "[[G1519]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G0599]]"
+- "[[G0165H]]"
+- "[[G3778]]"
+texts:
+- NKO
+---
+
 **John 11:26**<big><big>[[John.11.17 Jesus Comforts Martha and Mary|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And whosoever liveth and believeth in me shall never die. Believest thou this?
 <small><sub>**BSB:**</sub></small>
 And everyone who lives and believes in Me will never die. Do you believe this?”
-<small><sub>**Literal:**</sub></small>
-and everyone who is living and believing in Me myself certainly not he shall die to the age. Believe you this?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.25|<< John 11:25]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.27|John 11:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G2198\|ζῶν]]  [[G2532\|καὶ]]  [[G4100\|πιστεύων]]  [[G1519\|εἰς]]  [[G1473\|ἐμὲ]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G0599\|ἀποθάνῃ]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G0165H\|αἰῶνα.]]  [[G4100\|πιστεύεις]]  [[G3778\|τοῦτο;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDOLENCE|CONDOLENCE]] • [[topic DEATH|DEATH]] • [[topic FAITH|FAITH]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic MIRACLES|MIRACLES]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SALVATION|SALVATION]] • [[topic SORROW|SORROW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.25|<< John 11:25]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.27|John 11:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,70 @@
+---
+title: Genesis 43:2
+type: Verse
+kjv: "And it came to pass, when they had eaten up the corn which they had brought out of Egypt, their father said unto them, Go again, buy us a little food."
+bsb: "So when Jacob’s sons had eaten all the grain they had brought from Egypt, their father said to them, “Go back and buy us a little more food.”"
+hebrew: "וַיְהִ֗י כַּאֲשֶׁ֤ר כִּלּוּ֙ לֶאֱכֹ֣ל אֶת־ הַשֶּׁ֔בֶר אֲשֶׁ֥ר הֵבִ֖יאוּ מִמִּצְרָ֑יִם וַיֹּ֤אמֶר אֲלֵיהֶם֙ אֲבִיהֶ֔ם שֻׁ֖בוּ שִׁבְרוּ־ לָ֥נוּ מְעַט־ אֹֽכֶל׃"
+pericope: "[[Gen.43.1 The Return to Egypt with Benjamin|The Return to Egypt with Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 43
+book/chapter: "[[Gen.43|Genesis 43]]"
+chronological_order: 85
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic JACOB|JACOB]]"
+- "[[topic JUDAH|JUDAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H3615J]]"
+- "[[H9005]]"
+- "[[H0398]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7668]]"
+- "[[H0834A]]"
+- "[[H0935P]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H7725J]]"
+- "[[H7666]]"
+- "[[H9035]]"
+- "[[H4592]]"
+- "[[H0400]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 43:2**<big><big>[[Gen.43.1 The Return to Egypt with Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when they had eaten up the corn which they had brought out of Egypt, their father said unto them, Go again, buy us a little food.
 <small><sub>**BSB:**</sub></small>
 So when Jacob’s sons had eaten all the grain they had brought from Egypt, their father said to them, “Go back and buy us a little more food.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H3615J\|כִּלּוּ֙]] [[H9005\|לֶ]][[H0398\|אֱכֹ֣ל]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7668\|שֶּׁ֔בֶר]] [[H0834A\|אֲשֶׁ֥ר]] [[H0935P\|הֵבִ֖יאוּ]] [[H9006\|מִ]][[H4714G\|מִּצְרָ֑יִם]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֲלֵי]][[H9038\|הֶם֙]] [[H0001G\|אֲבִי]][[H9028\|הֶ֔ם]] [[H7725J\|שֻׁ֖בוּ]] [[H7666\|שִׁבְרוּ]][[H9014\|־]] [[H9005\|לָ֥]][[H9035\|נוּ]] [[H4592\|מְעַט]][[H9014\|־]] [[H0400\|אֹֽכֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACOB|JACOB]] • [[topic JUDAH|JUDAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.1|<< Genesis 43:1]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.3|Genesis 43:3 >>]]</td></tr></table>
 

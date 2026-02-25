@@ -1,8 +1,49 @@
+---
+title: Ezra 2:50
+type: Verse
+kjv: "The children of Asnah, the children of Mehunim, the children of Nephusim,"
+bsb: "the descendants of Asnah, the descendants of Meunim, the descendants of Nephusim,"
+hebrew: "בְּנֵי־ אַסְנָ֥ה בְנֵי־ מְעוּנִ֖ים בְּנֵ֥י נְפוּסִֽים׃"
+pericope: "[[Ezra.2.1 The List of Returning Exiles|The List of Returning Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 2
+book/chapter: "[[Ezra.2|Ezra 2]]"
+chronological_order: 850
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic ASNAH|ASNAH]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MEHUNIM|MEHUNIM]]"
+strongs:
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H0619]]"
+- "[[H4586H]]"
+- "[[H5304]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezra 2:50**<big><big>[[Ezra.2.1 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children of Asnah, the children of Mehunim, the children of Nephusim,
 <small><sub>**BSB:**</sub></small>
 the descendants of Asnah, the descendants of Meunim, the descendants of Nephusim,
+<small><sub>**Hebrew:**</sub></small>
+[[H1121G\|בְּנֵי]][[H9014\|־]] [[H0619\|אַסְנָ֥ה]] [[H1121G\|בְנֵי]][[H9014\|־]] [[H4586H\|מְעוּנִ֖ים]] [[H1121G\|בְּנֵ֥י]] [[H5304\|נְפוּסִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASNAH|ASNAH]] • [[topic LEVITES|LEVITES]] • [[topic MEHUNIM|MEHUNIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.2.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.49|<< Ezra 2:49]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.51|Ezra 2:51 >>]]</td></tr></table>
 
@@ -18,6 +59,6 @@ the descendants of Asnah, the descendants of Meunim, the descendants of Nephusim
 
 [^1]: Meinim  | **<big>[[H4586H|מְעִינִים]]</big> ** | me.'i.nim<small><sup>[[HNpl]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>מְעיּנִ֖ים</big></span>**
-[^3]: Nephissim  | **<big>[[H9016|׃]]</big><big>[[H5304|נְפִיסִים]]</big> ** | ne.fi.sim<small><sup>[[HNpt]]</sup></small> | K
+[^3]: Nephissim  | **<big>[[H5304|נְפִיסִים]]</big><big>[[H9016|׃]]</big> ** | ne.fi.sim<small><sup>[[HNpt]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>נְפיּסִֽים\׃</big></span>**
 

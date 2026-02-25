@@ -1,10 +1,64 @@
+---
+title: Romans 8:39
+type: Verse
+kjv: "Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord."
+bsb: "neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord."
+greek: "οὔτε ὕψωμα οὔτε βάθος οὔτε τις κτίσις ἑτέρα δυνήσεται ἡμᾶς χωρίσαι ἀπὸ τῆς ἀγάπης τοῦ θεοῦ τῆς ἐν Χριστῷ Ἰησοῦ τῷ κυρίῳ ἡμῶν.¶"
+pericope: "[[Rom.8.35 More than Conquerors|More than Conquerors]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 8
+book/chapter: "[[Rom.8|Romans 8]]"
+chronological_order: 1094
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G3777]]"
+- "[[G5313]]"
+- "[[G0899]]"
+- "[[G5100]]"
+- "[[G2937]]"
+- "[[G2087]]"
+- "[[G1410]]"
+- "[[G3165]]"
+- "[[G5563]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G0026]]"
+- "[[G2316]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G2962G]]"
+texts:
+- NKO
+---
+
 **Romans 8:39**<big><big>[[Rom.8.35 More than Conquerors|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.
 <small><sub>**BSB:**</sub></small>
 neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord.
-<small><sub>**Literal:**</sub></small>
-nor height nor depth nor any created thing other will be able us to separate from the love <the> of God <the> in Christ Jesus the Lord of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.38|<< Romans 8:38]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.1|Romans 9:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3777\|οὔτε]]  [[G5313\|ὕψωμα]]  [[G3777\|οὔτε]]  [[G0899\|βάθος]]  [[G3777\|οὔτε]]  [[G5100\|τις]]  [[G2937\|κτίσις]]  [[G2087\|ἑτέρα]]  [[G1410\|δυνήσεται]]  [[G3165\|ἡμᾶς]]  [[G5563\|χωρίσαι]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G0026\|ἀγάπης]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|τῆς]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ]]  [[G3588\|τῷ]]  [[G2962G\|κυρίῳ]]  [[G3165\|ἡμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ASSURANCE|ASSURANCE]] • [[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.38|<< Romans 8:38]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.1|Romans 9:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

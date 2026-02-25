@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Conclusion
+type: Pericope
 pericope: "[[2John.1.12 Conclusion|Conclusion]]"
-verse_count: 2
+original_language: Greek
 testament: New
 book: 2 John
 chapter: 1
 book/chapter: "[[2John.1|2 John 1]]"
-genre:
+chronological_order: 1166
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
 - epistle
 - general epistle
 - johannine epistle
 - personal letter
 - polemical
+verse_count: 2
 verses:
 - "[[2John.1.12]]"
 - "[[2John.1.13]]"
 ---
 
-[[2John.1|2 John 1:12 - 2 John 1:13]]
+<small>[[2John.1|2 John 1:12-13]]</small>
 *Conclusion*
 
 [[2John.1.12|12]] Having many things to write unto you, I would not \[write\] with paper and ink: but I trust to come unto you, and speak face to face, that our joy may be full.

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Peace I Leave with You
+type: Pericope
 pericope: "[[John.14.27 Peace I Leave with You|Peace I Leave with You]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: John
 chapter: 14
 book/chapter: "[[John.14|John 14]]"
-genre:
+chronological_order: 1002
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 5
 verses:
 - "[[John.14.27]]"
 - "[[John.14.28]]"
@@ -23,7 +30,7 @@ verses:
 - "[[John.14.31]]"
 ---
 
-[[John.14|John 14:27 - John 14:31]]
+<small>[[John.14|John 14:27-31]]</small>
 *Peace I Leave with You*
 
 [[John.14.27|27]] Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.

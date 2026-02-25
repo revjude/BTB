@@ -1,8 +1,69 @@
+---
+title: Daniel 1:19
+type: Verse
+kjv: "And the king communed with them; and among them all was found none like Daniel, Hananiah, Mishael, and Azariah: therefore stood they before the king."
+bsb: "And the king spoke with them, and among all the young men he found no one equal to Daniel, Hananiah, Mishael, and Azariah. So they entered the king’s service."
+hebrew: "וַיְדַבֵּ֣ר אִתָּם֮ הַמֶּלֶךְ֒ וְלֹ֤א נִמְצָא֙ מִכֻּלָּ֔ם כְּדָנִיֵּ֣אל חֲנַנְיָ֔ה מִֽישָׁאֵ֖ל וַעֲזַרְיָ֑ה וַיַּֽעַמְד֖וּ לִפְנֵ֥י הַמֶּֽלֶךְ׃"
+pericope: "[[Dan.1.17 Daniel’s Wisdom|Daniel’s Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 1
+book/chapter: "[[Dan.1|Daniel 1]]"
+chronological_order: 786
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ABED-NEGO|ABED-NEGO]]"
+- "[[topic AZARIAH|AZARIAH]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic MISHAEL|MISHAEL]]"
+- "[[topic SCHOOL|SCHOOL]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H9004]]"
+- "[[H1840G]]"
+- "[[H2608T]]"
+- "[[H4332I]]"
+- "[[H5838Z]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 1:19**<big><big>[[Dan.1.17 Daniel’s Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king communed with them; and among them all was found none like Daniel, Hananiah, Mishael, and Azariah: therefore stood they before the king.
 <small><sub>**BSB:**</sub></small>
 And the king spoke with them, and among all the young men he found no one equal to Daniel, Hananiah, Mishael, and Azariah. So they entered the king’s service.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֣ר]] [[H0854\|אִתָּ]][[H9038\|ם֮]] [[H9009\|הַ]][[H4428G\|מֶּלֶךְ֒]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H4672\|נִמְצָא֙]] [[H9006\|מִ]][[H3605\|כֻּלָּ֔]][[H9028\|ם]] [[H9004\|כְּ]][[H1840G\|דָנִיֵּ֣אל]] [[H2608T\|חֲנַנְיָ֔ה]] [[H4332I\|מִֽישָׁאֵ֖ל]] [[H9002\|וַ]][[H5838Z\|עֲזַרְיָ֑ה]] [[H9001\|וַ]][[H5975G\|יַּֽעַמְד֖וּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABED-NEGO|ABED-NEGO]] • [[topic AZARIAH|AZARIAH]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic INTEGRITY|INTEGRITY]] • [[topic MISHAEL|MISHAEL]] • [[topic SCHOOL|SCHOOL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.1.18|<< Daniel 1:18]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.20|Daniel 1:20 >>]]</td></tr></table>
 

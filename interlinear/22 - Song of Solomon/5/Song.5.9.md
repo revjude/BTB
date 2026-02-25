@@ -1,8 +1,49 @@
+---
+title: Song of Solomon 5:9
+type: Verse
+kjv: "What is thy beloved more than another beloved, O thou fairest among women? what is thy beloved more than another beloved, that thou dost so charge us?"
+bsb: "How is your beloved better than others, O most beautiful among women? How is your beloved better than another, that you charge us so?"
+hebrew: "מַה־ דּוֹדֵ֣ךְ מִדּ֔וֹד הַיָּפָ֖ה בַּנָּשִׁ֑ים מַה־ דּוֹדֵ֣ךְ מִדּ֔וֹד שֶׁכָּ֖כָה הִשְׁבַּעְתָּֽנוּ׃"
+pericope: "[[Song.5.9 The Friends|The Friends]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 5
+book/chapter: "[[Song.5|Song of Solomon 5]]"
+chronological_order: 452
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+strongs:
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H1730G]]"
+- "[[H9022]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H3303]]"
+- "[[H9003]]"
+- "[[H0802G]]"
+- "[[H9007]]"
+- "[[H3602]]"
+- "[[H7650]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 5:9**<big><big>[[Song.5.9 The Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What [is] thy beloved more than [another] beloved, O thou fairest among women? what [is] thy beloved more than [another] beloved, that thou dost so charge us?
 <small><sub>**BSB:**</sub></small>
 How is your beloved better than others, O most beautiful among women? How is your beloved better than another, that you charge us so?
+<small><sub>**Hebrew:**</sub></small>
+[[H4100\|מַה]][[H9014\|־]] [[H1730G\|דּוֹדֵ֣]][[H9022\|ךְ]] [[H9006\|מִ]][[H1730G\|דּ֔וֹד]] [[H9009\|הַ]][[H3303\|יָּפָ֖ה]] [[H9003\|בַּ]][[H0802G\|נָּשִׁ֑ים]] [[H4100\|מַה]][[H9014\|־]] [[H1730G\|דּוֹדֵ֣]][[H9022\|ךְ]] [[H9006\|מִ]][[H1730G\|דּ֔וֹד]] [[H9007\|שֶׁ]][[H3602\|כָּ֖כָה]] [[H7650\|הִשְׁבַּעְתָּֽ]][[H9035\|נוּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.8|<< Song of Solomon 5:8]]</td><td align="center" style="border:none;">[[Song.5|Song of Solomon 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.10|Song of Solomon 5:10 >>]]</td></tr></table>
 

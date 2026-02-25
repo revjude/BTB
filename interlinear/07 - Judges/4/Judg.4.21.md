@@ -1,8 +1,78 @@
+---
+title: Judges 4:21
+type: Verse
+kjv: "Then Jael Heber’s wife took a nail of the tent, and took an hammer in her hand, and went softly unto him, and smote the nail into his temples, and fastened it into the ground: for he was fast asleep and weary. So he died."
+bsb: "But as he lay sleeping from exhaustion, Heber’s wife Jael took a tent peg, grabbed a hammer, and went silently to Sisera. She drove the peg through his temple and into the ground, and he died."
+hebrew: "וַתִּקַּ֣ח יָעֵ֣ל אֵֽשֶׁת־ חֶ֠בֶר אֶת־ יְתַ֨ד הָאֹ֜הֶל וַתָּ֧שֶׂם אֶת־ הַמַּקֶּ֣בֶת בְּיָדָ֗הּ וַתָּב֤וֹא אֵלָיו֙ בַּלָּ֔אט וַתִּתְקַ֤ע אֶת־ הַיָּתֵד֙ בְּרַקָּת֔וֹ וַתִּצְנַ֖ח בָּאָ֑רֶץ וְהֽוּא־ נִרְדָּ֥ם וַיָּ֖עַף וַיָּמֹֽת׃"
+pericope: "[[Judg.4.17 Jael Kills Sisera|Jael Kills Sisera]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 4
+book/chapter: "[[Judg.4|Judges 4]]"
+chronological_order: 258
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic HEBER|HEBER]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JAEL|JAEL]]"
+- "[[topic KENITES|KENITES]]"
+- "[[topic NAIL|NAIL]]"
+- "[[topic TREACHERY|TREACHERY]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H3278]]"
+- "[[H0802H]]"
+- "[[H9014]]"
+- "[[H2268H]]"
+- "[[H0853]]"
+- "[[H3489]]"
+- "[[H9009]]"
+- "[[H0168G]]"
+- "[[H7760I]]"
+- "[[H4718A]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9024]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3814]]"
+- "[[H8628]]"
+- "[[H7541]]"
+- "[[H9023]]"
+- "[[H6795]]"
+- "[[H0776H]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H7290]]"
+- "[[H5888]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 4:21**<big><big>[[Judg.4.17 Jael Kills Sisera|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Jael Heber’s wife took a nail of the tent, and took an hammer in her hand, and went softly unto him, and smote the nail into his temples, and fastened it into the ground: for he was fast asleep and weary. So he died.
 <small><sub>**BSB:**</sub></small>
 But as he lay sleeping from exhaustion, Heber’s wife Jael took a tent peg, grabbed a hammer, and went silently to Sisera. She drove the peg through his temple and into the ground, and he died.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|תִּקַּ֣ח]] [[H3278\|יָעֵ֣ל]] [[H0802H\|אֵֽשֶׁת]][[H9014\|־]] [[H2268H\|חֶ֠בֶר]] [[H0853\|אֶת]][[H9014\|־]] [[H3489\|יְתַ֨ד]] [[H9009\|הָ]][[H0168G\|אֹ֜הֶל]] [[H9001\|וַ]][[H7760I\|תָּ֧שֶׂם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4718A\|מַּקֶּ֣בֶת]] [[H9003\|בְּ]][[H3027G\|יָדָ֗]][[H9024\|הּ]] [[H9001\|וַ]][[H0935G\|תָּב֤וֹא]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H9003\|בַּ]][[H3814\|לָּ֔אט]] [[H9001\|וַ]][[H8628\|תִּתְקַ֤ע]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3489\|יָּתֵד֙]] [[H9003\|בְּ]][[H7541\|רַקָּת֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H6795\|תִּצְנַ֖ח]] [[H9003\|בָּ]][[H0776H\|אָ֑רֶץ]] [[H9002\|וְ]][[H1931\|הֽוּא]][[H9014\|־]] [[H7290\|נִרְדָּ֥ם]] [[H9001\|וַ]][[H5888\|יָּ֖עַף]] [[H9001\|וַ]][[H4191\|יָּמֹֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic COURAGE|COURAGE]] • [[topic HEBER|HEBER]] • [[topic HOMICIDE|HOMICIDE]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JAEL|JAEL]] • [[topic KENITES|KENITES]] • [[topic NAIL|NAIL]] • [[topic TREACHERY|TREACHERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.20|<< Judges 4:20]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.22|Judges 4:22 >>]]</td></tr></table>
 

@@ -1,10 +1,53 @@
+---
+title: Matthew 19:7
+type: Verse
+kjv: "They say unto him, Why did Moses then command to give a writing of divorcement, and to put her away?"
+bsb: "“Why then,” they asked, “did Moses order a man to give his wife a certificate of divorce and send her away?”"
+greek: "Λέγουσιν αὐτῷ· τί οὖν Μωϋσῆς ἐνετείλατο δοῦναι βιβλίον ἀποστασίου καὶ ἀπολῦσαι αὐτήν;¶"
+pericope: "[[Matt.19.1 Teachings about Divorce|Teachings about Divorce]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 19
+book/chapter: "[[Matt.19|Matthew 19]]"
+chronological_order: 986
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G3767]]"
+- "[[G3475]]"
+- "[[G1781]]"
+- "[[G1325]]"
+- "[[G0975]]"
+- "[[G0647]]"
+- "[[G2532]]"
+- "[[G0630H]]"
+texts:
+- NKO
+---
+
 **Matthew 19:7**<big><big>[[Matt.19.1 Teachings about Divorce|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 They say unto him, Why did Moses then command to give a writing of divorcement, and to put her away?
 <small><sub>**BSB:**</sub></small>
 “Why then,” they asked, “did Moses order a man to give his wife a certificate of divorce and send her away?”
-<small><sub>**Literal:**</sub></small>
-They say to Him; Why then Moses did command to give a roll of divorce and to send away her?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.6|<< Matthew 19:6]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.8|Matthew 19:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Λέγουσιν]]  [[G0846\|αὐτῷ·]]  [[G5101\|τί]]  [[G3767\|οὖν]]  [[G3475\|Μωϋσῆς]]  [[G1781\|ἐνετείλατο]]  [[G1325\|δοῦναι]]  [[G0975\|βιβλίον]]  [[G0647\|ἀποστασίου]]  [[G2532\|καὶ]]  [[G0630H\|ἀπολῦσαι]]  [[G0846\|αὐτήν;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIVORCE|DIVORCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARRIAGE|MARRIAGE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.6|<< Matthew 19:6]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.8|Matthew 19:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 19:7** is...
 > $\quad$ alluding to: [[LXX.Deut.24.1|Deut 24:1]][[LXX.Deut.24.3|, 3]]

@@ -1,8 +1,59 @@
+---
+title: 1 Samuel 5:7
+type: Verse
+kjv: "And when the men of Ashdod saw that it was so, they said, The ark of the God of Israel shall not abide with us: for his hand is sore upon us, and upon Dagon our god."
+bsb: "And when the men of Ashdod saw what was happening, they said, “The ark of the God of Israel must not stay here with us, because His hand is heavy upon us and upon our god Dagon.”"
+hebrew: "וַיִּרְא֥וּ אַנְשֵֽׁי־ אַשְׁדּ֖וֹד כִּֽי־ כֵ֑ן וְאָמְר֗וּ לֹֽא־ יֵשֵׁ֞ב אֲר֨וֹן אֱלֹהֵ֤י יִשְׂרָאֵל֙ עִמָּ֔נוּ כִּֽי־ קָשְׁתָ֤ה יָדוֹ֙ עָלֵ֔ינוּ וְעַ֖ל דָּג֥וֹן אֱלֹהֵֽינוּ׃"
+pericope: "[[1Sam.5.1 The Ark Afflicts the Philistines|The Ark Afflicts the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 5
+book/chapter: "[[1Sam.5|1 Samuel 5]]"
+chronological_order: 284
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0582]]"
+- "[[H9014]]"
+- "[[H0795]]"
+- "[[H3588A]]"
+- "[[H3651C]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H3427]]"
+- "[[H0727]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H5973A]]"
+- "[[H9035]]"
+- "[[H7185]]"
+- "[[H3027H]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H9002]]"
+- "[[H1712]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 5:7**<big><big>[[1Sam.5.1 The Ark Afflicts the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the men of Ashdod saw that [it was] so, they said, The ark of the God of Israel shall not abide with us: for his hand is sore upon us, and upon Dagon our god.
 <small><sub>**BSB:**</sub></small>
 And when the men of Ashdod saw what was happening, they said, “The ark of the God of Israel must not stay here with us, because His hand is heavy upon us and upon our god Dagon.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יִּרְא֥וּ]] [[H0582\|אַנְשֵֽׁי]][[H9014\|־]] [[H0795\|אַשְׁדּ֖וֹד]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3651C\|כֵ֑ן]] [[H9001\|וְ]][[H0559\|אָמְר֗וּ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3427\|יֵשֵׁ֞ב]] [[H0727\|אֲר֨וֹן]] [[H0430G\|אֱלֹהֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H5973A\|עִמָּ֔]][[H9035\|נוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7185\|קָשְׁתָ֤ה]] [[H3027H\|יָד]][[H9023\|וֹ֙]] [[H5921A\|עָלֵ֔י]][[H9035\|נוּ]] [[H9002\|וְ]][[H5921A\|עַ֖ל]] [[H1712\|דָּג֥וֹן]] [[H0430G\|אֱלֹהֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.5.6|<< 1 Samuel 5:6]]</td><td align="center" style="border:none;">[[1Sam.5|1 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.5.8|1 Samuel 5:8 >>]]</td></tr></table>
 

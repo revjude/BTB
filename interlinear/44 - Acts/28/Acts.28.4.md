@@ -1,10 +1,67 @@
+---
+title: Acts 28:4
+type: Verse
+kjv: "And when the barbarians saw the venomous beast hang on his hand, they said among themselves, No doubt this man is a murderer, whom, though he hath escaped the sea, yet vengeance suffereth not to live."
+bsb: "When the islanders saw the creature hanging from his hand, they said to one another, “Surely this man is a murderer. Although he was saved from the sea, Justice has not allowed him to live.”"
+greek: "Ὡς δὲ εἶδον οἱ βάρβαροι κρεμάμενον τὸ θηρίον ἐκ τῆς χειρὸς αὐτοῦ, πρὸς ἀλλήλους ἔλεγον· πάντως φονεύς ἐστιν ὁ ἄνθρωπος οὗτος, ὃν διασωθέντα ἐκ τῆς θαλάσσης ἡ δίκη ζῆν οὐκ εἴασεν.¶"
+pericope: "[[Acts.28.1 Ashore on Malta|Ashore on Malta]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 28
+book/chapter: "[[Acts.28|Acts 28]]"
+chronological_order: 1110
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BARBARIAN|BARBARIAN]]"
+- "[[topic MELITA (MALTA)|MELITA (MALTA)]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G5613]]"
+- "[[G1161]]"
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G0915]]"
+- "[[G2910]]"
+- "[[G2342]]"
+- "[[G1537]]"
+- "[[G5495]]"
+- "[[G0846]]"
+- "[[G4314]]"
+- "[[G0240]]"
+- "[[G3004G]]"
+- "[[G3843]]"
+- "[[G5406]]"
+- "[[G1510]]"
+- "[[G0444]]"
+- "[[G3778]]"
+- "[[G3739]]"
+- "[[G1295]]"
+- "[[G2281]]"
+- "[[G1349]]"
+- "[[G2198]]"
+- "[[G3756]]"
+- "[[G1439]]"
+texts:
+- NKO
+---
+
 **Acts 28:4**<big><big>[[Acts.28.1 Ashore on Malta|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the barbarians saw the [venomous] beast hang on his hand, they said among themselves, No doubt this man is a murderer, whom, though he hath escaped the sea, yet vengeance suffereth not to live.
 <small><sub>**BSB:**</sub></small>
 When the islanders saw the creature hanging from his hand, they said to one another, “Surely this man is a murderer. Although he was saved from the sea, Justice has not allowed him to live.”
-<small><sub>**Literal:**</sub></small>
-When then saw the natives hanging the beast from the hand of him, to one another they were saying: By all means a murderer is <the> man this, whom having been saved from the sea <the> Justice to live not has permitted.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.3|<< Acts 28:3]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.5|Acts 28:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|Ὡς]]  [[G1161\|δὲ]]  [[G1492H\|εἶδον]]  [[G3588\|οἱ]]  [[G0915\|βάρβαροι]]  [[G2910\|κρεμάμενον]]  [[G3588\|τὸ]]  [[G2342\|θηρίον]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G5495\|χειρὸς]]  [[G0846\|αὐτοῦ,]]  [[G4314\|πρὸς]]  [[G0240\|ἀλλήλους]]  [[G3004G\|ἔλεγον·]]  [[G3843\|πάντως]]  [[G5406\|φονεύς]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G0444\|ἄνθρωπος]]  [[G3778\|οὗτος,]]  [[G3739\|ὃν]]  [[G1295\|διασωθέντα]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G2281\|θαλάσσης]]  [[G3588\|ἡ]]  [[G1349\|δίκη]]  [[G2198\|ζῆν]]  [[G3756\|οὐκ]]  [[G1439\|εἴασεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARBARIAN|BARBARIAN]] • [[topic MELITA (MALTA)|MELITA (MALTA)]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.3|<< Acts 28:3]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.5|Acts 28:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

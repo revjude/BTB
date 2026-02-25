@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Servant and Light to the Gentiles
+type: Pericope
 pericope: "[[Isa.49.1 The Servant and Light to the Gentiles|The Servant and Light to the Gentiles]]"
-verse_count: 26
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 49
 book/chapter: "[[Isa.49|Isaiah 49]]"
-genre:
+chronological_order: 688
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 26
 verses:
 - "[[Isa.49.1]]"
 - "[[Isa.49.2]]"
@@ -45,7 +52,7 @@ verses:
 - "[[Isa.49.26]]"
 ---
 
-[[Isa.49|Isaiah 49:1 - Isaiah 49:26]]
+<small>[[Isa.49|Isaiah 49:1-26]]</small>
 *The Servant and Light to the Gentiles*
 
 [[Isa.49.1|1]] Listen, O isles, unto me; and hearken, ye people, from far; The LORD hath called me from the womb; from the bowels of my mother hath he made mention of my name.

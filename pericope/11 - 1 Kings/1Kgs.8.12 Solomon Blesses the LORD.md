@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Solomon Blesses the LORD
+type: Pericope
 pericope: "[[1Kgs.8.12 Solomon Blesses the LORD|Solomon Blesses the LORD]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 8
 book/chapter: "[[1Kgs.8|1 Kings 8]]"
-genre:
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 10
 verses:
 - "[[1Kgs.8.12]]"
 - "[[1Kgs.8.13]]"
@@ -30,7 +37,7 @@ verses:
 - "[[1Kgs.8.21]]"
 ---
 
-[[1Kgs.8|1 Kings 8:12 - 1 Kings 8:21]]
+<small>[[1Kgs.8|1 Kings 8:12-21]]</small>
 *Solomon Blesses the LORD*
 
 [[1Kgs.8.12|12]] Then spake Solomon, The LORD said that he would dwell in the thick darkness.

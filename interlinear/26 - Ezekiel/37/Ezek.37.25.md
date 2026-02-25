@@ -1,8 +1,71 @@
+---
+title: Ezekiel 37:25
+type: Verse
+kjv: "And they shall dwell in the land that I have given unto Jacob my servant, wherein your fathers have dwelt; and they shall dwell therein, even they, and their children, and their children’s children for ever: and my servant David shall be their prince for ever."
+bsb: "They will live in the land that I gave to My servant Jacob, where your fathers lived. They will live there forever with their children and grandchildren, and My servant David will be their prince forever."
+hebrew: "וְיָשְׁב֣וּ עַל־ הָאָ֗רֶץ אֲשֶׁ֤ר נָתַ֙תִּי֙ לְעַבְדִּ֣י לְיַֽעֲקֹ֔ב אֲשֶׁ֥ר יָֽשְׁבוּ־ בָ֖הּ אֲבֽוֹתֵיכֶ֑ם וְיָשְׁב֣וּ עָלֶ֡יהָ הֵ֠מָּה וּבְנֵיהֶ֞ם וּבְנֵ֤י בְנֵיהֶם֙ עַד־ עוֹלָ֔ם וְדָוִ֣ד עַבְדִּ֔י נָשִׂ֥יא לָהֶ֖ם לְעוֹלָֽם׃"
+pericope: "[[Ezek.37.15 One Nation with One King|One Nation with One King]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 37
+book/chapter: "[[Ezek.37|Ezekiel 37]]"
+chronological_order: 828
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H3290]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H1992]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9028]]"
+- "[[H5704]]"
+- "[[H5769G]]"
+- "[[H1732]]"
+- "[[H5387A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 37:25**<big><big>[[Ezek.37.15 One Nation with One King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall dwell in the land that I have given unto Jacob my servant, wherein your fathers have dwelt; and they shall dwell therein, [even] they, and their children, and their children’s children for ever: and my servant David [shall be] their prince for ever.
 <small><sub>**BSB:**</sub></small>
 They will live in the land that I gave to My servant Jacob, where your fathers lived. They will live there forever with their children and grandchildren, and My servant David will be their prince forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3427\|יָשְׁב֣וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֗רֶץ]] [[H0834A\|אֲשֶׁ֤ר]] [[H5414G\|נָתַ֙תִּי֙]] [[H9005\|לְ]][[H5650\|עַבְדִּ֣]][[H9020\|י]] [[H9005\|לְ]][[H3290\|יַֽעֲקֹ֔ב]] [[H0834A\|אֲשֶׁ֥ר]] [[H3427\|יָֽשְׁבוּ]][[H9014\|־]] [[H9003\|בָ֖]][[H9034\|הּ]] [[H0001G\|אֲבֽוֹתֵי]][[H9026\|כֶ֑ם]] [[H9001\|וְ]][[H3427\|יָשְׁב֣וּ]] [[H5921A\|עָלֶ֡י]][[H9034\|הָ]] [[H1992\|הֵ֠מָּה]] [[H9002\|וּ]][[H1121A\|בְנֵי]][[H9028\|הֶ֞ם]] [[H9002\|וּ]][[H1121A\|בְנֵ֤י]] [[H1121A\|בְנֵי]][[H9028\|הֶם֙]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָ֔ם]] [[H9002\|וְ]][[H1732\|דָוִ֣ד]] [[H5650\|עַבְדִּ֔]][[H9020\|י]] [[H5387A\|נָשִׂ֥יא]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9005\|לְ]][[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.24|<< Ezekiel 37:24]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.26|Ezekiel 37:26 >>]]</td></tr></table>
 

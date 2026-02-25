@@ -1,8 +1,73 @@
+---
+title: Daniel 10:16
+type: Verse
+kjv: "And, behold, one like the similitude of the sons of men touched my lips: then I opened my mouth, and spake, and said unto him that stood before me, O my lord, by the vision my sorrows are turned upon me, and I have retained no strength."
+bsb: "And suddenly one with the likeness of a man touched my lips, and I opened my mouth and said to the one standing before me, “My lord, because of the vision, I am overcome with anguish, and I have no strength."
+hebrew: "וְהִנֵּ֗ה כִּדְמוּת֙ בְּנֵ֣י אָדָ֔ם נֹגֵ֖עַ עַל־ שְׂפָתָ֑י וָאֶפְתַּח־ פִּ֗י וָאֲדַבְּרָה֙ וָאֹֽמְרָה֙ אֶל־ הָעֹמֵ֣ד לְנֶגְדִּ֔י אֲדֹנִ֗י בַּמַּרְאָה֙ נֶהֶפְכ֤וּ צִירַי֙ עָלַ֔י וְלֹ֥א עָצַ֖רְתִּי כֹּֽחַ׃"
+pericope: "[[Dan.10.1 Daniel’s Vision by the Tigris|Daniel’s Vision by the Tigris]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 10
+book/chapter: "[[Dan.10|Daniel 10]]"
+chronological_order: 846
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9004]]"
+- "[[H1823]]"
+- "[[H1121A]]"
+- "[[H0120G]]"
+- "[[H5060]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H8193G]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H6605A]]"
+- "[[H6310G]]"
+- "[[H1696G]]"
+- "[[H9012]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H5048]]"
+- "[[H9030]]"
+- "[[H0113]]"
+- "[[H9003]]"
+- "[[H4759A]]"
+- "[[H2015]]"
+- "[[H6735C]]"
+- "[[H3808]]"
+- "[[H6113]]"
+- "[[H3581B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 10:16**<big><big>[[Dan.10.1 Daniel’s Vision by the Tigris|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, [one] like the similitude of the sons of men touched my lips: then I opened my mouth, and spake, and said unto him that stood before me, O my lord, by the vision my sorrows are turned upon me, and I have retained no strength.
 <small><sub>**BSB:**</sub></small>
 And suddenly one with the likeness of a man touched my lips, and I opened my mouth and said to the one standing before me, “My lord, because of the vision, I am overcome with anguish, and I have no strength.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֗ה]] [[H9004\|כִּ]][[H1823\|דְמוּת֙]] [[H1121A\|בְּנֵ֣י]] [[H0120G\|אָדָ֔ם]] [[H5060\|נֹגֵ֖עַ]] [[H5921A\|עַל]][[H9014\|־]] [[H8193G\|שְׂפָתָ֑]][[H9020\|י]] [[H9001\|וָ]][[H6605A\|אֶפְתַּח]][[H9014\|־]] [[H6310G\|פִּ֗]][[H9020\|י]] [[H9001\|וָ]][[H1696G\|אֲדַבְּרָ]][[H9012\|ה֙]] [[H9001\|וָ]][[H0559\|אֹֽמְרָ]][[H9012\|ה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5975G\|עֹמֵ֣ד]] [[H9005\|לְ]][[H5048\|נֶגְדִּ֔]][[H9030\|י]] [[H0113\|אֲדֹנִ֗]][[H9020\|י]] [[H9003\|בַּ]][[H4759A\|מַּרְאָה֙]] [[H2015\|נֶהֶפְכ֤וּ]] [[H6735C\|צִירַ]][[H9020\|י֙]] [[H5921A\|עָלַ֔]][[H9030\|י]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H6113\|עָצַ֖רְתִּי]] [[H3581B\|כֹּֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.10.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.10.15|<< Daniel 10:15]]</td><td align="center" style="border:none;">[[Dan.10|Daniel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.10.17|Daniel 10:17 >>]]</td></tr></table>
 

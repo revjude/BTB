@@ -1,8 +1,59 @@
+---
+title: Isaiah 54:3
+type: Verse
+kjv: "For thou shalt break forth on the right hand and on the left; and thy seed shall inherit the Gentiles, and make the desolate cities to be inhabited."
+bsb: "For you will spread out to the right and left; your descendants will dispossess the nations and inhabit the desolate cities."
+hebrew: "כִּי־ יָמִ֥ין וּשְׂמֹ֖אול תִּפְרֹ֑צִי וְזַרְעֵךְ֙ גּוֹיִ֣ם יִירָ֔שׁ וְעָרִ֥ים נְשַׁמּ֖וֹת יוֹשִֽׁיבוּ׃"
+pericope: "[[Isa.54.1 Future Blessings for Zion|Future Blessings for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 54
+book/chapter: "[[Isa.54|Isaiah 54]]"
+chronological_order: 693
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3225G]]"
+- "[[H9002]]"
+- "[[H8040G]]"
+- "[[H6555]]"
+- "[[H2233H]]"
+- "[[H9022]]"
+- "[[H1471A]]"
+- "[[H3423H]]"
+- "[[H5892B]]"
+- "[[H8074G]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 54:3**<big><big>[[Isa.54.1 Future Blessings for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou shalt break forth on the right hand and on the left; and thy seed shall inherit the Gentiles, and make the desolate cities to be inhabited.
 <small><sub>**BSB:**</sub></small>
 For you will spread out to the right and left; your descendants will dispossess the nations and inhabit the desolate cities.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H3225G\|יָמִ֥ין]] [[H9002\|וּ]][[H8040G\|שְׂמֹ֖אול]] [[H6555\|תִּפְרֹ֑צִי]] [[H9002\|וְ]][[H2233H\|זַרְעֵ]][[H9022\|ךְ֙]] [[H1471A\|גּוֹיִ֣ם]] [[H3423H\|יִירָ֔שׁ]] [[H9002\|וְ]][[H5892B\|עָרִ֥ים]] [[H8074G\|נְשַׁמּ֖וֹת]] [[H3427\|יוֹשִֽׁיבוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic HEATHEN|HEATHEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.54.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.2|<< Isaiah 54:2]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.4|Isaiah 54:4 >>]]</td></tr></table>
 

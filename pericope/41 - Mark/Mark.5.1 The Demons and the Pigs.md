@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Demons and the Pigs
+type: Pericope
 pericope: "[[Mark.5.1 The Demons and the Pigs|The Demons and the Pigs]]"
-verse_count: 20
+original_language: Greek
 testament: New
 book: Mark
 chapter: 5
 book/chapter: "[[Mark.5|Mark 5]]"
-genre:
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 20
 verses:
 - "[[Mark.5.1]]"
 - "[[Mark.5.2]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Mark.5.20]]"
 ---
 
-[[Mark.5|Mark 5:1 - Mark 5:20]]
+<small>[[Mark.5|Mark 5:1-20]]</small>
 *The Demons and the Pigs*
 
 [[Mark.5.1|1]] And they came over unto the other side of the sea, into the country of the Gadarenes.

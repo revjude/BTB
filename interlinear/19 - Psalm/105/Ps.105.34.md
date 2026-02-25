@@ -1,8 +1,55 @@
+---
+title: Psalm 105:34
+type: Verse
+kjv: "He spake, and the locusts came, and caterpillers, and that without number,"
+bsb: "He spoke, and the locusts came—young locusts without number."
+hebrew: "אָ֭מַר וַיָּבֹ֣א אַרְבֶּ֑ה וְ֝יֶ֗לֶק וְאֵ֣ין מִסְפָּֽר׃"
+pericope: "[[Ps.105.1 Tell of His Wonders|Tell of His Wonders]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 105
+book/chapter: "[[Ps.105|Psalm 105]]"
+chronological_order: 529
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CATERPILLAR|CATERPILLAR]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H0559]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0697]]"
+- "[[H9002]]"
+- "[[H3218]]"
+- "[[H0369]]"
+- "[[H4557]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 105:34**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He spake, and the locusts came, and caterpillers, and that without number,
 <small><sub>**BSB:**</sub></small>
 He spoke, and the locusts came—young locusts without number.
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אָ֭מַר]] [[H9001\|וַ]][[H0935G\|יָּבֹ֣א]] [[H0697\|אַרְבֶּ֑ה]] [[H9002\|וְ֝]][[H3218\|יֶ֗לֶק]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H4557\|מִסְפָּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATERPILLAR|CATERPILLAR]] • [[topic GOD|GOD]] • [[topic LOCUST|LOCUST]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.33|<< Psalms 105:33]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.35|Psalms 105:35 >>]]</td></tr></table>
 

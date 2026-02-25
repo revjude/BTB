@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Stephen’s Address：The Call of Abraham
+type: Pericope
 pericope: "[[Acts.7.1 Stephen’s Address：The Call of Abraham|Stephen’s Address：The Call of Abraham]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Acts
 chapter: 7
 book/chapter: "[[Acts.7|Acts 7]]"
-genre:
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 8
 verses:
 - "[[Acts.7.1]]"
 - "[[Acts.7.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Acts.7.8]]"
 ---
 
-[[Acts.7|Acts 7:1 - Acts 7:8]]
+<small>[[Acts.7|Acts 7:1-8]]</small>
 *Stephen’s Address：The Call of Abraham*
 
 [[Acts.7.1|1]] Then said the high priest, Are these things so?

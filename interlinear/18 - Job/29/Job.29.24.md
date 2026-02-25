@@ -1,8 +1,53 @@
+---
+title: Job 29:24
+type: Verse
+kjv: "If I laughed on them, they believed it not; and the light of my countenance they cast not down."
+bsb: "If I smiled at them, they did not believe it; the light of my countenance was precious."
+hebrew: "אֶשְׂחַ֣ק אֲ֭לֵהֶם לֹ֣א יַאֲמִ֑ינוּ וְא֥וֹר פָּ֝נַ֗י לֹ֣א יַפִּילֽוּן׃"
+pericope: "[[Job.29.1 Job’s Former Blessings|Job’s Former Blessings]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 29
+book/chapter: "[[Job.29|Job 29]]"
+chronological_order: 40
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic COUNTENANCE|COUNTENANCE]]"
+strongs:
+- "[[H7832]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H3808]]"
+- "[[H0539]]"
+- "[[H9002]]"
+- "[[H0216]]"
+- "[[H6440H]]"
+- "[[H9020]]"
+- "[[H5307G]]"
+- "[[H9013]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 29:24**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [If] I laughed on them, they believed [it] not; and the light of my countenance they cast not down.
 <small><sub>**BSB:**</sub></small>
 If I smiled at them, they did not believe it; the light of my countenance was precious.
+<small><sub>**Hebrew:**</sub></small>
+[[H7832\|אֶשְׂחַ֣ק]] [[H0413\|אֲ֭לֵ]][[H9038\|הֶם]] [[H3808\|לֹ֣א]] [[H0539\|יַאֲמִ֑ינוּ]] [[H9002\|וְ]][[H0216\|א֥וֹר]] [[H6440H\|פָּ֝נַ֗]][[H9020\|י]] [[H3808\|לֹ֣א]] [[H5307G\|יַפִּילֽוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTENANCE|COUNTENANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.23|<< Job 29:23]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.25|Job 29:25 >>]]</td></tr></table>
 

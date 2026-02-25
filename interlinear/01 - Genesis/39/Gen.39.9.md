@@ -1,8 +1,87 @@
+---
+title: Genesis 39:9
+type: Verse
+kjv: "There is none greater in this house than I; neither hath he kept back any thing from me but thee, because thou art his wife: how then can I do this great wickedness, and sin against God?"
+bsb: "No one in this house is greater than I am. He has withheld nothing from me except you, because you are his wife. So how could I do such a great evil and sin against God?”"
+hebrew: "אֵינֶ֨נּוּ גָד֜וֹל בַּבַּ֣יִת הַזֶּה֮ מִמֶּנִּי֒ וְלֹֽא־ חָשַׂ֤ךְ מִמֶּ֙נִּי֙ מְא֔וּמָה כִּ֥י אִם־ אוֹתָ֖ךְ בַּאֲשֶׁ֣ר אַתְּ־ אִשְׁתּ֑וֹ וְאֵ֨יךְ אֶֽעֱשֶׂ֜ה הָרָעָ֤ה הַגְּדֹלָה֙ הַזֹּ֔את וְחָטָ֖אתִי לֵֽאלֹהִֽים׃"
+pericope: "[[Gen.39.1 Joseph and Potiphar’s Wife|Joseph and Potiphar’s Wife]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 39
+book/chapter: "[[Gen.39|Genesis 39]]"
+chronological_order: 81
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H1419A]]"
+- "[[H9003]]"
+- "[[H1004M]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2820]]"
+- "[[H3972]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H0853]]"
+- "[[H9032]]"
+- "[[H0834B]]"
+- "[[H0859C]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H0349A]]"
+- "[[H6213A]]"
+- "[[H7451I]]"
+- "[[H2063]]"
+- "[[H9001]]"
+- "[[H2398]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 39:9**<big><big>[[Gen.39.1 Joseph and Potiphar’s Wife|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] none greater in this house than I; neither hath he kept back any thing from me but thee, because thou [art] his wife: how then can I do this great wickedness, and sin against God?
 <small><sub>**BSB:**</sub></small>
 No one in this house is greater than I am. He has withheld nothing from me except you, because you are his wife. So how could I do such a great evil and sin against God?”
+<small><sub>**Hebrew:**</sub></small>
+[[H0369\|אֵינֶ֨]][[H9043\|נּוּ]] [[H1419A\|גָד֜וֹל]] [[H9003\|בַּ]][[H1004M\|בַּ֣יִת]] [[H9009\|הַ]][[H2088\|זֶּה֮]] [[H4480A\|מִמֶּ]][[H9030\|נִּי֒]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H2820\|חָשַׂ֤ךְ]] [[H4480A\|מִמֶּ֙]][[H9030\|נִּי֙]] [[H3972\|מְא֔וּמָה]] [[H3588B\|כִּ֥י]] [[H0518B\|אִם]][[H9014\|־]] [[H0853\|אוֹתָ֖]][[H9032\|ךְ]] [[H9003\|בַּ]][[H0834B\|אֲשֶׁ֣ר]] [[H0859C\|אַתְּ]][[H9014\|־]] [[H0802H\|אִשְׁתּ֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H0349A\|אֵ֨יךְ]] [[H6213A\|אֶֽעֱשֶׂ֜ה]] [[H9009\|הָ]][[H7451I\|רָעָ֤ה]] [[H9009\|הַ]][[H1419A\|גְּדֹלָה֙]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H9001\|וְ]][[H2398\|חָטָ֖אתִי]] [[H9005\|לֵֽ]][[H0430G\|אלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic ADULTERY|ADULTERY]] • [[topic CHARACTER|CHARACTER]] • [[topic CHASTITY|CHASTITY]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic CONTINENCE|CONTINENCE]] • [[topic DECISION|DECISION]] • [[topic INTEGRITY|INTEGRITY]] • [[topic JOSEPH|JOSEPH]] • [[topic MASTER|MASTER]] • [[topic SERVANT|SERVANT]] • [[topic SIN|SIN]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.8|<< Genesis 39:8]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.10|Genesis 39:10 >>]]</td></tr></table>
 

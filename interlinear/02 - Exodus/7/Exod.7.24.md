@@ -1,8 +1,62 @@
+---
+title: Exodus 7:24
+type: Verse
+kjv: "And all the Egyptians digged round about the river for water to drink; for they could not drink of the water of the river."
+bsb: "So all the Egyptians dug around the Nile for water to drink, because they could not drink the water from the river."
+hebrew: "וַיַּחְפְּר֧וּ כָל־ מִצְרַ֛יִם סְבִיבֹ֥ת הַיְאֹ֖ר מַ֣יִם לִשְׁתּ֑וֹת כִּ֣י לֹ֤א יָֽכְלוּ֙ לִשְׁתֹּ֔ת מִמֵּימֵ֖י הַיְאֹֽר׃"
+pericope: "[[Exod.7.14 The First Plague：Blood|The First Plague：Blood]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 7
+book/chapter: "[[Exod.7|Exodus 7]]"
+chronological_order: 99
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H2658]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4713]]"
+- "[[H5439H]]"
+- "[[H9009]]"
+- "[[H2975G]]"
+- "[[H4325G]]"
+- "[[H9005]]"
+- "[[H8354]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 7:24**<big><big>[[Exod.7.14 The First Plague：Blood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the Egyptians digged round about the river for water to drink; for they could not drink of the water of the river.
 <small><sub>**BSB:**</sub></small>
 So all the Egyptians dug around the Nile for water to drink, because they could not drink the water from the river.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2658\|יַּחְפְּר֧וּ]] [[H3605\|כָל]][[H9014\|־]] [[H4713\|מִצְרַ֛יִם]] [[H5439H\|סְבִיבֹ֥ת]] [[H9009\|הַ]][[H2975G\|יְאֹ֖ר]] [[H4325G\|מַ֣יִם]] [[H9005\|לִ]][[H8354\|שְׁתּ֑וֹת]] [[H3588A\|כִּ֣י]] [[H3808\|לֹ֤א]] [[H3201\|יָֽכְלוּ֙]] [[H9005\|לִ]][[H8354\|שְׁתֹּ֔ת]] [[H9006\|מִ]][[H4325G\|מֵּימֵ֖י]] [[H9009\|הַ]][[H2975G\|יְאֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.23|<< Exodus 7:23]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.25|Exodus 7:25 >>]]</td></tr></table>
 

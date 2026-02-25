@@ -1,10 +1,59 @@
+---
+title: Mark 4:40
+type: Verse
+kjv: "And he said unto them, Why are ye so fearful? how is it that ye have no faith?"
+bsb: "“Why are you so afraid?” He asked. “Do you still have no faith?”"
+jesus_said: "Why are ye so fearful? how is it that ye have no faith?"
+greek: "Καὶ εἶπεν αὐτοῖς· τί δειλοί ἐστε; οὔπω πῶς οὐκ ἔχετε πίστιν;"
+pericope: "[[Mark.4.35 Jesus Calms the Storm|Jesus Calms the Storm]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 4
+book/chapter: "[[Mark.4|Mark 4]]"
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G1169]]"
+- "[[G1510]]"
+- "[[G3768]]"
+- "[[G4459]]"
+- "[[G3756]]"
+- "[[G2192]]"
+- "[[G4102G]]"
+texts:
+- NKO
+- N(K)O
+- K
+---
+
 **Mark 4:40**<big><big>[[Mark.4.35 Jesus Calms the Storm|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Why are ye so fearful? how is it that ye have no faith?
 <small><sub>**BSB:**</sub></small>
 “Why are you so afraid?” He asked. “Do you still have no faith?”
-<small><sub>**Literal:**</sub></small>
-And He said to them; Why fearful are you? Still not how not have you faith?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.39|<< Mark 4:39]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.41|Mark 4:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G5101\|τί]]  [[G1169\|δειλοί]]  [[G1510\|ἐστε;]]  [[G3768\|οὔπω]]  [[G4459\|πῶς]]  [[G3756\|οὐκ]]  [[G2192\|ἔχετε]]  [[G4102G\|πίστιν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHIDING|CHIDING]] • [[topic DOUBTING|DOUBTING]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.39|<< Mark 4:39]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.41|Mark 4:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

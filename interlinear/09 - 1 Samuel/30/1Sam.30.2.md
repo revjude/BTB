@@ -1,8 +1,65 @@
+---
+title: 1 Samuel 30:2
+type: Verse
+kjv: "And had taken the women captives, that were therein: they slew not any, either great or small, but carried them away, and went on their way."
+bsb: "They had taken captive the women and all who were there, both young and old. They had not killed anyone, but had carried them off as they went on their way."
+hebrew: "וַיִּשְׁבּ֨וּ אֶת־ הַנָּשִׁ֤ים אֲשֶׁר־ בָּהּ֙ מִקָּטֹ֣ן וְעַד־ גָּד֔וֹל לֹ֥א הֵמִ֖יתוּ אִ֑ישׁ וַיִּֽנְהֲג֔וּ וַיֵּלְכ֖וּ לְדַרְכָּֽם׃"
+pericope: "[[1Sam.30.1 The Amalekites Raid Ziklag|The Amalekites Raid Ziklag]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 30
+book/chapter: "[[1Sam.30|1 Samuel 30]]"
+chronological_order: 309
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABIGAIL|ABIGAIL]]"
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic CAPTIVE|CAPTIVE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7617]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9006]]"
+- "[[H6996B]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H1419A]]"
+- "[[H3808]]"
+- "[[H4191]]"
+- "[[H0376I]]"
+- "[[H5090A]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H1870L]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 30:2**<big><big>[[1Sam.30.1 The Amalekites Raid Ziklag|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And had taken the women captives, that [were] therein: they slew not any, either great or small, but carried [them] away, and went on their way.
 <small><sub>**BSB:**</sub></small>
 They had taken captive the women and all who were there, both young and old. They had not killed anyone, but had carried them off as they went on their way.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7617\|יִּשְׁבּ֨וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H0802G\|נָּשִׁ֤ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בָּ]][[H9034\|הּ֙]] [[H9006\|מִ]][[H6996B\|קָּטֹ֣ן]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H1419A\|גָּד֔וֹל]] [[H3808\|לֹ֥א]] [[H4191\|הֵמִ֖יתוּ]] [[H0376I\|אִ֑ישׁ]] [[H9001\|וַ]][[H5090A\|יִּֽנְהֲג֔וּ]] [[H9001\|וַ]][[H1980G\|יֵּלְכ֖וּ]] [[H9005\|לְ]][[H1870L\|דַרְכָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIGAIL|ABIGAIL]] • [[topic AMALEKITES|AMALEKITES]] • [[topic CAPTIVE|CAPTIVE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.30.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.1|<< 1 Samuel 30:1]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.3|1 Samuel 30:3 >>]]</td></tr></table>
 

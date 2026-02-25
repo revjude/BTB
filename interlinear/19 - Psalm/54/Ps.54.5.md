@@ -1,8 +1,57 @@
+---
+title: Psalm 54:5
+type: Verse
+kjv: "He shall reward evil unto mine enemies: cut them off in thy truth."
+bsb: "He will reward my enemies with evil. In Your faithfulness, destroy them."
+hebrew: "יָשִׁ֣יב הָ֭רַע לְשֹׁרְרָ֑י בַּ֝אֲמִתְּךָ֗ הַצְמִיתֵֽם׃"
+pericope: "[[Ps.54.1 Save Me by Your Name|Save Me by Your Name]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 54
+book/chapter: "[[Ps.54|Psalm 54]]"
+chronological_order: 314
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H7725G]]"
+- "[[H7725H]]"
+- "[[H9009]]"
+- "[[H7451B]]"
+- "[[H9005]]"
+- "[[H8324]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H0571G]]"
+- "[[H9021]]"
+- "[[H6789]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Psalms 54:5**<big><big>[[Ps.54.1 Save Me by Your Name|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall reward evil unto mine enemies: cut them off in thy truth.
 <small><sub>**BSB:**</sub></small>
 He will reward my enemies with evil. In Your faithfulness, destroy them.
+<small><sub>**Hebrew:**</sub></small>
+[[H7725H\|יָשִׁ֣יב]] [[H9009\|הָ֭]][[H7451B\|רַע]] [[H9005\|לְ]][[H8324\|שֹׁרְרָ֑]][[H9020\|י]] [[H9003\|בַּ֝]][[H0571G\|אֲמִתְּ]][[H9021\|ךָ֗]] [[H6789\|הַצְמִיתֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.54.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.54.4|<< Psalms 54:4]]</td><td align="center" style="border:none;">[[Ps.54|Psalms 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.54.6|Psalms 54:6 >>]]</td></tr></table>
 

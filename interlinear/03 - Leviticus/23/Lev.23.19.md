@@ -1,8 +1,62 @@
+---
+title: Leviticus 23:19
+type: Verse
+kjv: "Then ye shall sacrifice one kid of the goats for a sin offering, and two lambs of the first year for a sacrifice of peace offerings."
+bsb: "You shall also prepare one male goat as a sin offering and two male lambs a year old as a peace offering."
+hebrew: "וַעֲשִׂיתֶ֛ם שְׂעִיר־ עִזִּ֥ים אֶחָ֖ד לְחַטָּ֑את וּשְׁנֵ֧י כְבָשִׂ֛ים בְּנֵ֥י שָׁנָ֖ה לְזֶ֥בַח שְׁלָמִֽים׃"
+pericope: "[[Lev.23.15 The Feast of Weeks|The Feast of Weeks]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 23
+book/chapter: "[[Lev.23|Leviticus 23]]"
+chronological_order: 155
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PENTECOST|PENTECOST]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213I]]"
+- "[[H8163B]]"
+- "[[H9014]]"
+- "[[H5795]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H2403H]]"
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H3532]]"
+- "[[H1121L]]"
+- "[[H8141]]"
+- "[[H2077]]"
+- "[[H8002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 23:19**<big><big>[[Lev.23.15 The Feast of Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then ye shall sacrifice one kid of the goats for a sin offering, and two lambs of the first year for a sacrifice of peace offerings.
 <small><sub>**BSB:**</sub></small>
 You shall also prepare one male goat as a sin offering and two male lambs a year old as a peace offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213I\|עֲשִׂיתֶ֛ם]] [[H8163B\|שְׂעִיר]][[H9014\|־]] [[H5795\|עִזִּ֥ים]] [[H0259\|אֶחָ֖ד]] [[H9005\|לְ]][[H2403H\|חַטָּ֑את]] [[H9002\|וּ]][[H8147\|שְׁנֵ֧י]] [[H3532\|כְבָשִׂ֛ים]] [[H1121L\|בְּנֵ֥י]] [[H8141\|שָׁנָ֖ה]] [[H9005\|לְ]][[H2077\|זֶ֥בַח]] [[H8002\|שְׁלָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]] • [[topic PENTECOST|PENTECOST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.18|<< Leviticus 23:18]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.20|Leviticus 23:20 >>]]</td></tr></table>
 

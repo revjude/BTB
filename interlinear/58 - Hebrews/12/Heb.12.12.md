@@ -1,10 +1,51 @@
+---
+title: Hebrews 12:12
+type: Verse
+kjv: "Wherefore lift up the hands which hang down, and the feeble knees;"
+bsb: "Therefore strengthen your limp hands and weak knees."
+greek: "Διὸ τὰς παρειμένας χεῖρας καὶ τὰ παραλελυμένα γόνατα ἀνορθώσατε,"
+pericope: "[[Heb.12.4 God Disciplines His Sons|God Disciplines His Sons]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 12
+book/chapter: "[[Heb.12|Hebrews 12]]"
+chronological_order: 1151
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+strongs:
+- "[[G1352]]"
+- "[[G3588]]"
+- "[[G3935]]"
+- "[[G5495]]"
+- "[[G2532]]"
+- "[[G3886]]"
+- "[[G1119]]"
+- "[[G0461]]"
+texts:
+- NKO
+---
+
 **Hebrews 12:12**<big><big>[[Heb.12.4 God Disciplines His Sons|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore lift up the hands which hang down, and the feeble knees;
 <small><sub>**BSB:**</sub></small>
 Therefore strengthen your limp hands and weak knees.
-<small><sub>**Literal:**</sub></small>
-Therefore the drooped hands and the enfeebled knees do lift up,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.11|<< Hebrews 12:11]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.13|Hebrews 12:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1352\|Διὸ]]  [[G3588\|τὰς]]  [[G3935\|παρειμένας]]  [[G5495\|χεῖρας]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G3886\|παραλελυμένα]]  [[G1119\|γόνατα]]  [[G0461\|ἀνορθώσατε,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RESIGNATION|RESIGNATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.11|<< Hebrews 12:11]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.13|Hebrews 12:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 12:12** is...
 > $\quad$ alluding to: [[LXX.Isa.35.3|Isa 35:3]]

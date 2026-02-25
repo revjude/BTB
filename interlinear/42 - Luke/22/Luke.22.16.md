@@ -1,10 +1,63 @@
+---
+title: Luke 22:16
+type: Verse
+kjv: "For I say unto you, I will not any more eat thereof, until it be fulfilled in the kingdom of God."
+bsb: "For I tell you that I will not eat it again until it is fulfilled in the kingdom of God.”"
+jesus_said: "For I say unto you, I will not any more eat thereof, until it be fulfilled in the kingdom of God."
+greek: "λέγω γὰρ ὑμῖν ὅτι οὐκέτι οὐκέτι οὐ μὴ φάγω ἐξ αὐτὸ ἕως ὅτου πληρωθῇ ἐν τῇ βασιλείᾳ τοῦ θεοῦ."
+pericope: "[[Luke.22.14 The Last Supper|The Last Supper]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1063]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G2089]]"
+- "[[G3361]]"
+- "[[G5315]]"
+- "[[G1537]]"
+- "[[G0846]]"
+- "[[G2193]]"
+- "[[G3748]]"
+- "[[G4137]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G2316]]"
+texts:
+- NKO
+- KO
+- k
+- N(k)O
+---
+
 **Luke 22:16**<big><big>[[Luke.22.14 The Last Supper|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I say unto you, I will not any more eat thereof, until it be fulfilled in the kingdom of God.
 <small><sub>**BSB:**</sub></small>
 For I tell you that I will not eat it again until it is fulfilled in the kingdom of God.”
-<small><sub>**Literal:**</sub></small>
-I say for to you that no longer certainly not shall I eat from it until when it may be fulfilled in the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.15|<< Luke 22:15]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.17|Luke 22:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγω]]  [[G1063\|γὰρ]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G5315\|φάγω]]  [[G1537\|ἐξ]]  [[G0846\|αὐτὸ]]  [[G2193\|ἕως]]  [[G3748\|ὅτου]]  [[G4137\|πληρωθῇ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0932\|βασιλείᾳ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PASSOVER|PASSOVER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.15|<< Luke 22:15]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.17|Luke 22:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,54 @@
+---
+title: Job 38:20
+type: Verse
+kjv: "That thou shouldest take it to the bound thereof, and that thou shouldest know the paths to the house thereof?"
+bsb: "so you can lead it back to its border? Do you know the paths to its home?"
+hebrew: "כִּ֣י תִ֭קָּחֶנּוּ אֶל־ גְּבוּל֑וֹ וְכִֽי־ תָ֝בִ֗ין נְתִיב֥וֹת בֵּיתֽוֹ׃"
+pericope: "[[Job.38.1 The LORD Challenges Job|The LORD Challenges Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 38
+book/chapter: "[[Job.38|Job 38]]"
+chronological_order: 49
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3947G]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1366H]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0995]]"
+- "[[H5410B]]"
+- "[[H1004B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 38:20**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That thou shouldest take it to the bound thereof, and that thou shouldest know the paths [to] the house thereof?
 <small><sub>**BSB:**</sub></small>
 so you can lead it back to its border? Do you know the paths to its home?
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3947G\|תִ֭קָּחֶ]][[H9033\|נּוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H1366H\|גְּבוּל֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H0995\|תָ֝בִ֗ין]] [[H5410B\|נְתִיב֥וֹת]] [[H1004B\|בֵּיתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.19|<< Job 38:19]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.21|Job 38:21 >>]]</td></tr></table>
 

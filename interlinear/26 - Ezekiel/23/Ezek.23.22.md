@@ -1,8 +1,70 @@
+---
+title: Ezekiel 23:22
+type: Verse
+kjv: "Therefore, O Aholibah, thus saith the Lord GOD; Behold, I will raise up thy lovers against thee, from whom thy mind is alienated, and I will bring them against thee on every side;"
+bsb: "Therefore, Oholibah, this is what the Lord GOD says: ‘I will incite your lovers against you, those from whom you turned away in disgust. And I will bring them against you from every side—"
+hebrew: "לָכֵ֣ן אָהֳלִיבָ֗ה כֹּֽה־ אָמַר֮ אֲדֹנָ֣י יְהוִה֒ הִנְנִ֨י מֵעִ֤יר אֶת־ מְאַהֲבַ֙יִךְ֙ עָלַ֔יִךְ אֵ֛ת אֲשֶׁר־ נָקְעָ֥ה נַפְשֵׁ֖ךְ מֵהֶ֑ם וַהֲבֵאתִ֥ים עָלַ֖יִךְ מִסָּבִֽיב׃"
+pericope: "[[Ezek.23.22 Oholibah to Be Plagued|Oholibah to Be Plagued]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 23
+book/chapter: "[[Ezek.23|Ezekiel 23]]"
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H0172]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H5782]]"
+- "[[H0853]]"
+- "[[H0157G]]"
+- "[[H9032]]"
+- "[[H5921A]]"
+- "[[H0834A]]"
+- "[[H5361]]"
+- "[[H5315I]]"
+- "[[H9022]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H5439H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 23:22**<big><big>[[Ezek.23.22 Oholibah to Be Plagued|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore, O Aholibah, thus saith the Lord GOD; Behold, I will raise up thy lovers against thee, from whom thy mind is alienated, and I will bring them against thee on every side;
 <small><sub>**BSB:**</sub></small>
 Therefore, Oholibah, this is what the Lord GOD says: ‘I will incite your lovers against you, those from whom you turned away in disgust. And I will bring them against you from every side—
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֣ן]] [[H0172\|אָהֳלִיבָ֗ה]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַר֮]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִה֒]] [[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H5782\|מֵעִ֤יר]] [[H0853\|אֶת]][[H9014\|־]] [[H0157G\|מְאַהֲבַ֙יִ]][[H9032\|ךְ֙]] [[H5921A\|עָלַ֔יִ]][[H9032\|ךְ]] [[H0853\|אֵ֛ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5361\|נָקְעָ֥ה]] [[H5315I\|נַפְשֵׁ֖]][[H9022\|ךְ]] [[H9006\|מֵ]][[H9038\|הֶ֑ם]] [[H9001\|וַ]][[H0935P\|הֲבֵאתִ֥י]][[H9038\|ם]] [[H5921A\|עָלַ֖יִ]][[H9032\|ךְ]] [[H9006\|מִ]][[H5439H\|סָּבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.21|<< Ezekiel 23:21]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.23|Ezekiel 23:23 >>]]</td></tr></table>
 

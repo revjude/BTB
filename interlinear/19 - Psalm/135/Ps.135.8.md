@@ -1,8 +1,54 @@
+---
+title: Psalm 135:8
+type: Verse
+kjv: "Who smote the firstborn of Egypt, both of man and beast."
+bsb: "He struck down the firstborn of Egypt, of both man and beast."
+hebrew: "שֶֽׁ֭הִכָּה בְּכוֹרֵ֣י מִצְרָ֑יִם מֵ֝אָדָ֗ם עַד־ בְּהֵמָֽה׃"
+pericope: "[[Ps.135.1 Give Praise, O Servants of the LORD|Give Praise, O Servants of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 135
+book/chapter: "[[Ps.135|Psalm 135]]"
+chronological_order: 532
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9007]]"
+- "[[H5221]]"
+- "[[H1060]]"
+- "[[H4714G]]"
+- "[[H9006]]"
+- "[[H0120G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H0929]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 135:8**<big><big>[[Ps.135.1 Give Praise, O Servants of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who smote the firstborn of Egypt, both of man and beast.
 <small><sub>**BSB:**</sub></small>
 He struck down the firstborn of Egypt, of both man and beast.
+<small><sub>**Hebrew:**</sub></small>
+[[H9007\|שֶֽׁ֭]][[H5221\|הִכָּה]] [[H1060\|בְּכוֹרֵ֣י]] [[H4714G\|מִצְרָ֑יִם]] [[H9006\|מֵ֝]][[H0120G\|אָדָ֗ם]] [[H5704\|עַד]][[H9014\|־]] [[H0929\|בְּהֵמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.135.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.135.7|<< Psalms 135:7]]</td><td align="center" style="border:none;">[[Ps.135|Psalms 135]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.135.9|Psalms 135:9 >>]]</td></tr></table>
 

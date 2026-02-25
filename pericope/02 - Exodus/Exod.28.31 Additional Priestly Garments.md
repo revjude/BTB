@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Additional Priestly Garments
+type: Pericope
 pericope: "[[Exod.28.31 Additional Priestly Garments|Additional Priestly Garments]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 28
 book/chapter: "[[Exod.28|Exodus 28]]"
-genre:
+chronological_order: 120
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 13
 verses:
 - "[[Exod.28.31]]"
 - "[[Exod.28.32]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Exod.28.43]]"
 ---
 
-[[Exod.28|Exodus 28:31 - Exodus 28:43]]
+<small>[[Exod.28|Exodus 28:31-43]]</small>
 *Additional Priestly Garments*
 
 [[Exod.28.31|31]] And thou shalt make the robe of the ephod all \[of\] blue.

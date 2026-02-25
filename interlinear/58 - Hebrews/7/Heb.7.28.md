@@ -1,10 +1,58 @@
+---
+title: Hebrews 7:28
+type: Verse
+kjv: "For the law maketh men high priests which have infirmity; but the word of the oath, which was since the law, maketh the Son, who is consecrated for evermore."
+bsb: "For the law appoints as high priests men who are weak; but the oath, which came after the law, appointed the Son, who has been made perfect forever."
+greek: "ὁ νόμος γὰρ ἀνθρώπους καθίστησιν ἀρχιερεῖς ἔχοντας ἀσθένειαν, ὁ λόγος δὲ τῆς ὁρκωμοσίας τῆς μετὰ τὸν νόμον υἱὸν εἰς τὸν αἰῶνα τετελειωμένον.¶"
+pericope: "[[Heb.7.11 A Superior Priesthood|A Superior Priesthood]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 7
+book/chapter: "[[Heb.7|Hebrews 7]]"
+chronological_order: 1146
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OATH|OATH]]"
+- "[[topic SUCCESSION|SUCCESSION]]"
+strongs:
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G1063]]"
+- "[[G0444]]"
+- "[[G2525]]"
+- "[[G0749]]"
+- "[[G2192]]"
+- "[[G0769G]]"
+- "[[G3056]]"
+- "[[G1161]]"
+- "[[G3728]]"
+- "[[G3326]]"
+- "[[G5207]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+- "[[G5048]]"
+texts:
+- NKO
+---
+
 **Hebrews 7:28**<big><big>[[Heb.7.11 A Superior Priesthood|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the law maketh men high priests which have infirmity; but the word of the oath, which was since the law, [maketh] the Son, who is consecrated for evermore.
 <small><sub>**BSB:**</sub></small>
 For the law appoints as high priests men who are weak; but the oath, which came after the law, appointed the Son, who has been made perfect forever.
-<small><sub>**Literal:**</sub></small>
-The law for men appoints as high priests having weakness, the word however of the oath which [is] after the law a Son to the age perfected.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.27|<< Hebrews 7:27]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8.1|Hebrews 8:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G3551\|νόμος]]  [[G1063\|γὰρ]]  [[G0444\|ἀνθρώπους]]  [[G2525\|καθίστησιν]]  [[G0749\|ἀρχιερεῖς]]  [[G2192\|ἔχοντας]]  [[G0769G\|ἀσθένειαν,]]  [[G3588\|ὁ]]  [[G3056\|λόγος]]  [[G1161\|δὲ]]  [[G3588\|τῆς]]  [[G3728\|ὁρκωμοσίας]]  [[G3588\|τῆς]]  [[G3326\|μετὰ]]  [[G3588\|τὸν]]  [[G3551\|νόμον]]  [[G5207\|υἱὸν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G0165H\|αἰῶνα]]  [[G5048\|τετελειωμένον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OATH|OATH]] • [[topic SUCCESSION|SUCCESSION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.27|<< Hebrews 7:27]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8.1|Hebrews 8:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

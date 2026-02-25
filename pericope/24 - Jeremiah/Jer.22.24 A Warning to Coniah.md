@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Warning to Coniah
+type: Pericope
 pericope: "[[Jer.22.24 A Warning to Coniah|A Warning to Coniah]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 22
 book/chapter: "[[Jer.22|Jeremiah 22]]"
-genre:
+chronological_order: 745
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 7
 verses:
 - "[[Jer.22.24]]"
 - "[[Jer.22.25]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Jer.22.30]]"
 ---
 
-[[Jer.22|Jeremiah 22:24 - Jeremiah 22:30]]
+<small>[[Jer.22|Jeremiah 22:24-30]]</small>
 *A Warning to Coniah*
 
 [[Jer.22.24|24]] \[As\] I live, saith the LORD, though Coniah the son of Jehoiakim king of Judah were the signet upon my right hand, yet would I pluck thee thence;

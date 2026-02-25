@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Prophecy against Gog
+type: Pericope
 pericope: "[[Ezek.38.1 A Prophecy against Gog|A Prophecy against Gog]]"
-verse_count: 23
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 38
 book/chapter: "[[Ezek.38|Ezekiel 38]]"
-genre:
+chronological_order: 829
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 23
 verses:
 - "[[Ezek.38.1]]"
 - "[[Ezek.38.2]]"
@@ -44,7 +51,7 @@ verses:
 - "[[Ezek.38.23]]"
 ---
 
-[[Ezek.38|Ezekiel 38:1 - Ezekiel 38:23]]
+<small>[[Ezek.38|Ezekiel 38:1-23]]</small>
 *A Prophecy against Gog*
 
 [[Ezek.38.1|1]] And the word of the LORD came unto me, saying,

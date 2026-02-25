@@ -1,8 +1,75 @@
+---
+title: Esther 6:9
+type: Verse
+kjv: "And let this apparel and horse be delivered to the hand of one of the king’s most noble princes, that they may array the man withal whom the king delighteth to honour, and bring him on horseback through the street of the city, and proclaim before him, Thus shall it be done to the man whom the king delighteth to honour."
+bsb: "Let the robe and the horse be entrusted to one of the king’s most noble princes. Let them array the man the king wants to honor and parade him on the horse through the city square, proclaiming before him, ‘This is what is done for the man whom the king is delighted to honor!’”"
+hebrew: "וְנָת֨וֹן הַלְּב֜וּשׁ וְהַסּ֗וּס עַל־ יַד־ אִ֞ישׁ מִשָּׂרֵ֤י הַמֶּ֙לֶךְ֙ הַֽפַּרְתְּמִ֔ים וְהִלְבִּ֙ישׁוּ֙ אֶת־ הָאִ֔ישׁ אֲשֶׁ֥ר הַמֶּ֖לֶךְ חָפֵ֣ץ בִּֽיקָר֑וֹ וְהִרְכִּיבֻ֤הוּ עַל־ הַסּוּס֙ בִּרְח֣וֹב הָעִ֔יר וְקָרְא֣וּ לְפָנָ֔יו כָּ֚כָה יֵעָשֶׂ֣ה לָאִ֔ישׁ אֲשֶׁ֥ר הַמֶּ֖לֶךְ חָפֵ֥ץ בִּיקָרֽוֹ׃"
+pericope: "[[Esth.6.1 Mordecai Is Honored|Mordecai Is Honored]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 6
+book/chapter: "[[Esth.6|Esther 6]]"
+chronological_order: 904
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MORDECAI|MORDECAI]]"
+- "[[topic PROCLAMATION|PROCLAMATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H5414G]]"
+- "[[H9009]]"
+- "[[H3830]]"
+- "[[H5483M]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3027K]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H8269]]"
+- "[[H4428G]]"
+- "[[H6579]]"
+- "[[H9001]]"
+- "[[H3847]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H2654A]]"
+- "[[H9003]]"
+- "[[H3366]]"
+- "[[H9023]]"
+- "[[H7392]]"
+- "[[H9033]]"
+- "[[H7339]]"
+- "[[H5892B]]"
+- "[[H7121I]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3602]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 6:9**<big><big>[[Esth.6.1 Mordecai Is Honored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let this apparel and horse be delivered to the hand of one of the king’s most noble princes, that they may array the man [withal] whom the king delighteth to honour, and bring him on horseback through the street of the city, and proclaim before him, Thus shall it be done to the man whom the king delighteth to honour.
 <small><sub>**BSB:**</sub></small>
 Let the robe and the horse be entrusted to one of the king’s most noble princes. Let them array the man the king wants to honor and parade him on the horse through the city square, proclaiming before him, ‘This is what is done for the man whom the king is delighted to honor!’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5414G\|נָת֨וֹן]] [[H9009\|הַ]][[H3830\|לְּב֜וּשׁ]] [[H9002\|וְ]][[H9009\|הַ]][[H5483M\|סּ֗וּס]] [[H5921A\|עַל]][[H9014\|־]] [[H3027K\|יַד]][[H9014\|־]] [[H0376G\|אִ֞ישׁ]] [[H9006\|מִ]][[H8269\|שָּׂרֵ֤י]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H9009\|הַֽ]][[H6579\|פַּרְתְּמִ֔ים]] [[H9001\|וְ]][[H3847\|הִלְבִּ֙ישׁוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֔ישׁ]] [[H0834A\|אֲשֶׁ֥ר]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H2654A\|חָפֵ֣ץ]] [[H9003\|בִּֽ]][[H3366\|יקָר֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H7392\|הִרְכִּיבֻ֤]][[H9033\|הוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H5483M\|סּוּס֙]] [[H9003\|בִּ]][[H7339\|רְח֣וֹב]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H9001\|וְ]][[H7121I\|קָרְא֣וּ]] [[H9005\|לְ]][[H6440G\|פָנָ֔י]][[H9023\|ו]] [[H3602\|כָּ֚כָה]] [[H6213A\|יֵעָשֶׂ֣ה]] [[H9005\|לָ]][[H0376G\|אִ֔ישׁ]] [[H0834A\|אֲשֶׁ֥ר]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H2654A\|חָפֵ֥ץ]] [[H9003\|בִּ]][[H3366\|יקָרֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic GOD|GOD]] • [[topic MORDECAI|MORDECAI]] • [[topic PROCLAMATION|PROCLAMATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.6.8|<< Esther 6:8]]</td><td align="center" style="border:none;">[[Esth.6|Esther 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.6.10|Esther 6:10 >>]]</td></tr></table>
 

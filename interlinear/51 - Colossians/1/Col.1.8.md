@@ -1,10 +1,50 @@
+---
+title: Colossians 1:8
+type: Verse
+kjv: "Who also declared unto us your love in the Spirit."
+bsb: "and who also informed us of your love in the Spirit."
+greek: "ὁ καὶ δηλώσας ἡμῖν τὴν ὑμῶν ἀγάπην ἐν πνεύματι.¶"
+pericope: "[[Col.1.3 Thanksgiving and Prayer|Thanksgiving and Prayer]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 1
+book/chapter: "[[Col.1|Colossians 1]]"
+chronological_order: 1121
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic COLOSSE (COLOSSAE)|COLOSSE (COLOSSAE)]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G3588]]"
+- "[[G2532]]"
+- "[[G1213]]"
+- "[[G3165]]"
+- "[[G4771]]"
+- "[[G0026]]"
+- "[[G1722]]"
+- "[[G4151G]]"
+texts:
+- NKO
+---
+
 **Colossians 1:8**<big><big>[[Col.1.3 Thanksgiving and Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who also declared unto us your love in the Spirit.
 <small><sub>**BSB:**</sub></small>
 and who also informed us of your love in the Spirit.
-<small><sub>**Literal:**</sub></small>
-the [one] also having made known to us <the> your love in [the] Spirit.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.7|<< Colossians 1:7]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.9|Colossians 1:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G2532\|καὶ]]  [[G1213\|δηλώσας]]  [[G3165\|ἡμῖν]]  [[G3588\|τὴν]]  [[G4771\|ὑμῶν]]  [[G0026\|ἀγάπην]]  [[G1722\|ἐν]]  [[G4151G\|πνεύματι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLOSSE (COLOSSAE)|COLOSSE (COLOSSAE)]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.7|<< Colossians 1:7]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.9|Colossians 1:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

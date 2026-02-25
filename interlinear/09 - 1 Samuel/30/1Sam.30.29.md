@@ -1,8 +1,50 @@
+---
+title: 1 Samuel 30:29
+type: Verse
+kjv: "And to them which were in Rachal, and to them which were in the cities of the Jerahmeelites, and to them which were in the cities of the Kenites,"
+bsb: "to those in Racal and in the cities of the Jerahmeelites and Kenites;"
+hebrew: "וְלַאֲשֶׁ֣ר בְּרָכָ֗ל וְלַֽאֲשֶׁר֙ בְּעָרֵ֣י הַיְּרַחְמְאֵלִ֔י וְלַאֲשֶׁ֖ר בְּעָרֵ֥י הַקֵּינִֽי׃"
+pericope: "[[1Sam.30.21 The Spoils Are Divided|The Spoils Are Divided]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 30
+book/chapter: "[[1Sam.30|1 Samuel 30]]"
+chronological_order: 309
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic RACHAL|RACHAL]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H7403]]"
+- "[[H5892B]]"
+- "[[H9009]]"
+- "[[H3397]]"
+- "[[H7017]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 30:29**<big><big>[[1Sam.30.21 The Spoils Are Divided|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And to [them] which [were] in Rachal, and to [them] which [were] in the cities of the Jerahmeelites, and to [them] which [were] in the cities of the Kenites,
 <small><sub>**BSB:**</sub></small>
 to those in Racal and in the cities of the Jerahmeelites and Kenites;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לַ]][[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H7403\|רָכָ֗ל]] [[H9002\|וְ]][[H9005\|לַֽ]][[H0834A\|אֲשֶׁר֙]] [[H9003\|בְּ]][[H5892B\|עָרֵ֣י]] [[H9009\|הַ]][[H3397\|יְּרַחְמְאֵלִ֔י]] [[H9002\|וְ]][[H9005\|לַ]][[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בְּ]][[H5892B\|עָרֵ֥י]] [[H9009\|הַ]][[H7017\|קֵּינִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RACHAL|RACHAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.30.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.28|<< 1 Samuel 30:28]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.30|1 Samuel 30:30 >>]]</td></tr></table>
 

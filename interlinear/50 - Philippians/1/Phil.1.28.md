@@ -1,10 +1,66 @@
+---
+title: Philippians 1:28
+type: Verse
+kjv: "And in nothing terrified by your adversaries: which is to them an evident token of perdition, but to you of salvation, and that of God."
+bsb: "without being frightened in any way by those who oppose you. This is a clear sign of their destruction but of your salvation, and it is from God."
+greek: "καὶ μὴ πτυρόμενοι ἐν μηδενὶ ὑπὸ τῶν ἀντικειμένων· ἥτις ἐστὶν αὐτοῖς μέν ἔνδειξις ἀπωλείας, ὑμῶν δὲ σωτηρίας, καὶ τοῦτο ἀπὸ θεοῦ·"
+pericope: "[[Phil.1.27 Worthy of the Gospel|Worthy of the Gospel]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 1
+book/chapter: "[[Phil.1|Philippians 1]]"
+chronological_order: 1117
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G4426]]"
+- "[[G1722]]"
+- "[[G3367]]"
+- "[[G5259G]]"
+- "[[G3588]]"
+- "[[G0480]]"
+- "[[G3748]]"
+- "[[G1510]]"
+- "[[G0846]]"
+- "[[G3303]]"
+- "[[G1732]]"
+- "[[G0684]]"
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G4991]]"
+- "[[G3778]]"
+- "[[G0575]]"
+- "[[G2316]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Philippians 1:28**<big><big>[[Phil.1.27 Worthy of the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And in nothing terrified by your adversaries: which is to them an evident token of perdition, but to you of salvation, and that of God.
 <small><sub>**BSB:**</sub></small>
 without being frightened in any way by those who oppose you. This is a clear sign of their destruction but of your salvation, and it is from God.
-<small><sub>**Literal:**</sub></small>
-and not being frightened in nothing by those opposing [you]; which is to them indeed a demonstration of destruction, to you however of salvation, and this from God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.27|<< Philippians 1:27]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.29|Philippians 1:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G4426\|πτυρόμενοι]]  [[G1722\|ἐν]]  [[G3367\|μηδενὶ]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G0480\|ἀντικειμένων·]]  [[G3748\|ἥτις]]  [[G1510\|ἐστὶν]]  [[G0846\|αὐτοῖς]]  [[G3303\|μέν]]  [[G1732\|ἔνδειξις]]  [[G0684\|ἀπωλείας,]]  [[G4771\|ὑμῶν]]  [[G1161\|δὲ]]  [[G4991\|σωτηρίας,]]  [[G2532\|καὶ]]  [[G3778\|τοῦτο]]  [[G0575\|ἀπὸ]]  [[G2316\|θεοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic COURAGE|COURAGE]] • [[topic PERSECUTION|PERSECUTION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.27|<< Philippians 1:27]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.29|Philippians 1:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

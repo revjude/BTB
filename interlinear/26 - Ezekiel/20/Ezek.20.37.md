@@ -1,8 +1,55 @@
+---
+title: Ezekiel 20:37
+type: Verse
+kjv: "And I will cause you to pass under the rod, and I will bring you into the bond of the covenant:"
+bsb: "I will make you pass under the rod and will bring you into the bond of the covenant."
+hebrew: "וְהַעֲבַרְתִּ֥י אֶתְכֶ֖ם תַּ֣חַת הַשָּׁ֑בֶט וְהֵבֵאתִ֥י אֶתְכֶ֖ם בְּמָסֹ֥רֶת הַבְּרִֽית׃"
+pericope: "[[Ezek.20.33 Judgment and Restoration|Judgment and Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H8478G]]"
+- "[[H9009]]"
+- "[[H7626G]]"
+- "[[H0935P]]"
+- "[[H9003]]"
+- "[[H4562]]"
+- "[[H1285]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:37**<big><big>[[Ezek.20.33 Judgment and Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will cause you to pass under the rod, and I will bring you into the bond of the covenant:
 <small><sub>**BSB:**</sub></small>
 I will make you pass under the rod and will bring you into the bond of the covenant.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5674A\|הַעֲבַרְתִּ֥י]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H8478G\|תַּ֣חַת]] [[H9009\|הַ]][[H7626G\|שָּׁ֑בֶט]] [[H9001\|וְ]][[H0935P\|הֵבֵאתִ֥י]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H9003\|בְּ]][[H4562\|מָסֹ֥רֶת]] [[H9009\|הַ]][[H1285\|בְּרִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.36|<< Ezekiel 20:36]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.38|Ezekiel 20:38 >>]]</td></tr></table>
 

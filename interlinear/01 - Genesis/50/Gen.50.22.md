@@ -1,8 +1,59 @@
+---
+title: Genesis 50:22
+type: Verse
+kjv: "And Joseph dwelt in Egypt, he, and his father’s house: and Joseph lived an hundred and ten years."
+bsb: "Now Joseph and his father’s household remained in Egypt, and Joseph lived to the age of 110."
+hebrew: "וַיֵּ֤שֶׁב יוֹסֵף֙ בְּמִצְרַ֔יִם ה֖וּא וּבֵ֣ית אָבִ֑יו וַיְחִ֣י יוֹסֵ֔ף מֵאָ֥ה וָעֶ֖שֶׂר שָׁנִֽים׃"
+pericope: "[[Gen.50.22 The Death of Joseph|The Death of Joseph]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 50
+book/chapter: "[[Gen.50|Genesis 50]]"
+chronological_order: 92
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H3130G]]"
+- "[[H9003]]"
+- "[[H4714G]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H2421]]"
+- "[[H3967]]"
+- "[[H6235]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 50:22**<big><big>[[Gen.50.22 The Death of Joseph|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph dwelt in Egypt, he, and his father’s house: and Joseph lived an hundred and ten years.
 <small><sub>**BSB:**</sub></small>
 Now Joseph and his father’s household remained in Egypt, and Joseph lived to the age of 110.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3427\|יֵּ֤שֶׁב]] [[H3130G\|יוֹסֵף֙]] [[H9003\|בְּ]][[H4714G\|מִצְרַ֔יִם]] [[H1931\|ה֖וּא]] [[H9002\|וּ]][[H1004M\|בֵ֣ית]] [[H0001G\|אָבִ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H2421\|יְחִ֣י]] [[H3130G\|יוֹסֵ֔ף]] [[H3967\|מֵאָ֥ה]] [[H9002\|וָ]][[H6235\|עֶ֖שֶׂר]] [[H8141\|שָׁנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BROTHER|BROTHER]] • [[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.50.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.21|<< Genesis 50:21]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.23|Genesis 50:23 >>]]</td></tr></table>
 

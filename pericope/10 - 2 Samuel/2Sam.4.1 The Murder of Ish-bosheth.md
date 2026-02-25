@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Murder of Ish-bosheth
+type: Pericope
 pericope: "[[2Sam.4.1 The Murder of Ish-bosheth|The Murder of Ish-bosheth]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 4
 book/chapter: "[[2Sam.4|2 Samuel 4]]"
-genre:
+chronological_order: 332
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 8
 verses:
 - "[[2Sam.4.1]]"
 - "[[2Sam.4.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[2Sam.4.8]]"
 ---
 
-[[2Sam.4|2 Samuel 4:1 - 2 Samuel 4:8]]
+<small>[[2Sam.4|2 Samuel 4:1-8]]</small>
 *The Murder of Ish-bosheth*
 
 [[2Sam.4.1|1]] And when Saul’s son heard that Abner was dead in Hebron, his hands were feeble, and all the Israelites were troubled.

@@ -1,6 +1,71 @@
+---
+title: LXX Ezekiel 39:9
+type: Verse
+lxx: "And the ones dwelling the cities of Israel shall come forth, and they shall kindle a fire with the weapons -- small shields, and shafts, and bows, and arrows, and rods of the hands, and lances; and they shall kindle with them a fire for seven years."
+greek: "και εξελεύσονται οι κατοικούντες τας πόλεις Ισραήλ και καύσουσιν εν τοις όπλοις πέλταις και κόντοις και τόξοις και τοξεύμασι και ράβδοις χειρών και λόγχαις και καύσουσιν εν αυτοίς πυρ επτά έτη"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 39
+book/chapter: "[[Ezek.39|Ezekiel 39]]"
+chronological_order: 830
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BOW|BOW]]"
+- "[[topic JAVELIN|JAVELIN]]"
+- "[[topic SHIELD|SHIELD]]"
+strongs:
+- "[[G2532]]"
+- "[[G1831]]"
+- "[[G3588]]"
+- "[[G2730]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G2474]]"
+- "[[G2532]]"
+- "[[G2545]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3696]]"
+- "[[G8689]]"
+- "[[G2532]]"
+- "[[G8064]]"
+- "[[G2532]]"
+- "[[G5115]]"
+- "[[G2532]]"
+- "[[G9463]]"
+- "[[G2532]]"
+- "[[G4464]]"
+- "[[G5495]]"
+- "[[G2532]]"
+- "[[G3057]]"
+- "[[G2532]]"
+- "[[G2545]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G4442]]"
+- "[[G2033]]"
+- "[[G2094]]"
+---
+
 **LXX Ezekiel 39:9** 
 <small><sub>**LXX:**</sub></small>
 And the ones dwelling the cities of Israel shall come forth, and they shall kindle a fire with the weapons -- small shields, and shafts, and bows, and arrows, and rods of \[the\] hands, and lances; and they shall kindle with them a fire for seven years. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1831\|εξελεύσονται]] [[G3588\|οι]] [[G2730\|κατοικούντες]] [[G3588\|τας]] [[G4172\|πόλεις]] [[G2474\|Ισραήλ]] [[G2532\|και]] [[G2545\|καύσουσιν]] [[G1722\|εν]] [[G3588\|τοις]] [[G3696\|όπλοις]] [[G8689\|πέλταις]] [[G2532\|και]] [[G8064\|κόντοις]] [[G2532\|και]] [[G5115\|τόξοις]] [[G2532\|και]] [[G9463\|τοξεύμασι]] [[G2532\|και]] [[G4464\|ράβδοις]] [[G5495\|χειρών]] [[G2532\|και]] [[G3057\|λόγχαις]] [[G2532\|και]] [[G2545\|καύσουσιν]] [[G1722\|εν]] [[G1473\|αυτοίς]] [[G4442\|πυρ]] [[G2033\|επτά]] [[G2094\|έτη]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOW|BOW]] • [[topic JAVELIN|JAVELIN]] • [[topic SHIELD|SHIELD]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.39.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.8|<< Ezekiel 39:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.10|Ezekiel 39:10 >>]]</td></tr></table>
 
@@ -37,6 +102,6 @@ And the ones dwelling the cities of Israel shall come forth, and they shall kind
 | a fire | **<big>[[G4442\|πυρ]]</big>** |
 | for seven | **<big>[[G2033\|επτά]]</big>** |
 | years. | **<big>[[G2094\|έτη]]</big>** |
-[[Ezek.39.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.8|<< Ezekiel 39:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.10|Ezekiel 39:10 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.8|<< Ezekiel 39:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.10|Ezekiel 39:10 >>]]</td></tr></table>
 
 

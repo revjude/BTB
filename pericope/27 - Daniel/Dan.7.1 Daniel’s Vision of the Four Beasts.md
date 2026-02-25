@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Daniel’s Vision of the Four Beasts
+type: Pericope
 pericope: "[[Dan.7.1 Daniel’s Vision of the Four Beasts|Daniel’s Vision of the Four Beasts]]"
-verse_count: 8
+original_language: Aramaic
 testament: Old
 book: Daniel
 chapter: 7
 book/chapter: "[[Dan.7|Daniel 7]]"
-genre:
+chronological_order: 843
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 8
 verses:
 - "[[Dan.7.1]]"
 - "[[Dan.7.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Dan.7.8]]"
 ---
 
-[[Dan.7|Daniel 7:1 - Daniel 7:8]]
+<small>[[Dan.7|Daniel 7:1-8]]</small>
 *Daniel’s Vision of the Four Beasts*
 
 [[Dan.7.1|1]] In the first year of Belshazzar king of Babylon Daniel had a dream and visions of his head upon his bed: then he wrote the dream, \[and\] told the sum of the matters.

@@ -1,8 +1,55 @@
+---
+title: Job 11:14
+type: Verse
+kjv: "If iniquity be in thine hand, put it far away, and let not wickedness dwell in thy tabernacles."
+bsb: "if you put away the iniquity in your hand, and allow no injustice to dwell in your tents,"
+hebrew: "אִם־ אָ֣וֶן בְּ֭יָדְךָ הַרְחִיקֵ֑הוּ וְאַל־ תַּשְׁכֵּ֖ן בְּאֹהָלֶ֣יךָ עַוְלָֽה׃"
+pericope: "[[Job.11.1 Zophar Rebukes Job|Zophar Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 11
+book/chapter: "[[Job.11|Job 11]]"
+chronological_order: 22
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H0205G]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H7368]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H0408]]"
+- "[[H7931]]"
+- "[[H0168G]]"
+- "[[H5766B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 11:14**<big><big>[[Job.11.1 Zophar Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If iniquity [be] in thine hand, put it far away, and let not wickedness dwell in thy tabernacles.
 <small><sub>**BSB:**</sub></small>
 if you put away the iniquity in your hand, and allow no injustice to dwell in your tents,
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H0205G\|אָ֣וֶן]] [[H9003\|בְּ֭]][[H3027G\|יָדְ]][[H9021\|ךָ]] [[H7368\|הַרְחִיקֵ֑]][[H9033\|הוּ]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H7931\|תַּשְׁכֵּ֖ן]] [[H9003\|בְּ]][[H0168G\|אֹהָלֶ֣י]][[H9021\|ךָ]] [[H5766B\|עַוְלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.13|<< Job 11:13]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.15|Job 11:15 >>]]</td></tr></table>
 

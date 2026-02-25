@@ -1,8 +1,72 @@
+---
+title: 1 Samuel 25:24
+type: Verse
+kjv: "And fell at his feet, and said, Upon me, my lord, upon me let this iniquity be: and let thine handmaid, I pray thee, speak in thine audience, and hear the words of thine handmaid."
+bsb: "She fell at his feet and said, “My lord, may the blame be on me alone, but please let your servant speak to you; hear the words of your servant."
+hebrew: "וַתִּפֹּל֙ עַל־ רַגְלָ֔יו וַתֹּ֕אמֶר בִּי־ אֲנִ֥י אֲדֹנִ֖י הֶֽעָוֹ֑ן וּֽתְדַבֶּר־ נָ֤א אֲמָֽתְךָ֙ בְּאָזְנֶ֔יךָ וּשְׁמַ֕ע אֵ֖ת דִּבְרֵ֥י אֲמָתֶֽךָ׃"
+pericope: "[[1Sam.25.18 Abigail Intercedes for Nabal|Abigail Intercedes for Nabal]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FIG|FIG]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NABAL|NABAL]]"
+- "[[topic OBSEQUIOUSNESS|OBSEQUIOUSNESS]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic TACT|TACT]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5307G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7272]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H0589]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H9009]]"
+- "[[H5771H]]"
+- "[[H9002]]"
+- "[[H1696G]]"
+- "[[H4994]]"
+- "[[H0519]]"
+- "[[H9021]]"
+- "[[H0241I]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 25:24**<big><big>[[1Sam.25.18 Abigail Intercedes for Nabal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And fell at his feet, and said, Upon me, my lord, [upon] me [let this] iniquity [be]: and let thine handmaid, I pray thee, speak in thine audience, and hear the words of thine handmaid.
 <small><sub>**BSB:**</sub></small>
 She fell at his feet and said, “My lord, may the blame be on me alone, but please let your servant speak to you; hear the words of your servant.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5307G\|תִּפֹּל֙]] [[H5921A\|עַל]][[H9014\|־]] [[H7272\|רַגְלָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H0559\|תֹּ֕אמֶר]] [[H9003\|בִּ]][[H9030\|י]][[H9014\|־]] [[H0589\|אֲנִ֥י]] [[H0113\|אֲדֹנִ֖]][[H9020\|י]] [[H9009\|הֶֽ]][[H5771H\|עָוֹ֑ן]] [[H9002\|וּֽ]][[H1696G\|תְדַבֶּר]][[H9014\|־]] [[H4994\|נָ֤א]] [[H0519\|אֲמָֽתְ]][[H9021\|ךָ֙]] [[H9003\|בְּ]][[H0241I\|אָזְנֶ֔י]][[H9021\|ךָ]] [[H9002\|וּ]][[H8085G\|שְׁמַ֕ע]] [[H0853\|אֵ֖ת]] [[H1697G\|דִּבְרֵ֥י]] [[H0519\|אֲמָתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FIG|FIG]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NABAL|NABAL]] • [[topic OBSEQUIOUSNESS|OBSEQUIOUSNESS]] • [[topic PRUDENCE|PRUDENCE]] • [[topic TACT|TACT]] • [[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.23|<< 1 Samuel 25:23]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.25|1 Samuel 25:25 >>]]</td></tr></table>
 

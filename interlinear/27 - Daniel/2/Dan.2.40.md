@@ -1,8 +1,62 @@
+---
+title: Daniel 2:40
+type: Verse
+kjv: "And the fourth kingdom shall be strong as iron: forasmuch as iron breaketh in pieces and subdueth all things: and as iron that breaketh all these, shall it break in pieces and bruise."
+bsb: "Finally, there will be a fourth kingdom as strong as iron; for iron shatters and crushes all things, and like iron that crushes all things, it will shatter and crush all the others."
+aramaic: "וּמַלְכוּ֙ רְבִ֣יעָאָ֔ה תֶּהֱוֵ֥א תַקִּיפָ֖ה כְּפַרְזְלָ֑א כָּל־ קֳבֵ֗ל דִּ֤י פַרְזְלָא֙ מְהַדֵּ֤ק וְחָשֵׁל֙ כֹּ֔לָּא וּֽכְפַרְזְלָ֛א דִּֽי־ מְרָעַ֥ע כָּל־ אִלֵּ֖ין תַּדִּ֥ק וְתֵרֹֽעַ׃"
+pericope: "[[Dan.2.24 Daniel Interprets the Dream|Daniel Interprets the Dream]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic CLAY|CLAY]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[H9002]]"
+- "[[H4437]]"
+- "[[H7244]]"
+- "[[H1934]]"
+- "[[H8624]]"
+- "[[H9004]]"
+- "[[H6523]]"
+- "[[H9010]]"
+- "[[H9005]]"
+- "[[H9014]]"
+- "[[H6903H]]"
+- "[[H1768]]"
+- "[[H1855]]"
+- "[[H2827]]"
+- "[[H3606]]"
+- "[[H7490]]"
+- "[[H0459]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Daniel 2:40**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the fourth kingdom shall be strong as iron: forasmuch as iron breaketh in pieces and subdueth all [things]: and as iron that breaketh all these, shall it break in pieces and bruise.
 <small><sub>**BSB:**</sub></small>
 Finally, there will be a fourth kingdom as strong as iron; for iron shatters and crushes all things, and like iron that crushes all things, it will shatter and crush all the others.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וּ]][[H4437\|מַלְכוּ֙]] [[H7244\|רְבִ֣יעָאָ֔ה]] [[H1934\|תֶּהֱוֵ֥א]] [[H8624\|תַקִּיפָ֖ה]] [[H9004\|כְּ]][[H6523\|פַרְזְלָ֑]][[H9010\|א]] [[H9004\|כָּ]][[H9005\|ל]][[H9014\|־]] [[H6903H\|קֳבֵ֗ל]] [[H1768\|דִּ֤י]] [[H6523\|פַרְזְלָ]][[H9010\|א֙]] [[H1855\|מְהַדֵּ֤ק]] [[H9002\|וְ]][[H2827\|חָשֵׁל֙]] [[H3606\|כֹּ֔לָּ]][[H9010\|א]] [[H9002\|וּֽ]][[H9004\|כְ]][[H6523\|פַרְזְלָ֛]][[H9010\|א]] [[H1768\|דִּֽי]][[H9014\|־]] [[H7490\|מְרָעַ֥ע]] [[H3606\|כָּל]][[H9014\|־]] [[H0459\|אִלֵּ֖ין]] [[H1855\|תַּדִּ֥ק]] [[H9002\|וְ]][[H7490\|תֵרֹֽעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLAY|CLAY]] • [[topic GOLD|GOLD]] • [[topic PERSIA|PERSIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.39|<< Daniel 2:39]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.41|Daniel 2:41 >>]]</td></tr></table>
 

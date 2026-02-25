@@ -1,8 +1,58 @@
+---
+title: Proverbs 31:21
+type: Verse
+kjv: "She is not afraid of the snow for her household: for all her household are clothed with scarlet."
+bsb: "When it snows, she has no fear for her household, for they are all clothed in scarlet."
+hebrew: "לֹא־ תִירָ֣א לְבֵיתָ֣הּ מִשָּׁ֑לֶג כִּ֥י כָל־ בֵּ֝יתָ֗הּ לָבֻ֥שׁ שָׁנִֽים׃"
+pericope: "[[Prov.31.10 The Virtues of a Noble Woman|The Virtues of a Noble Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 31
+book/chapter: "[[Prov.31|Proverbs 31]]"
+chronological_order: 486
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H9024]]"
+- "[[H9006]]"
+- "[[H7950]]"
+- "[[H3588A]]"
+- "[[H3605]]"
+- "[[H3847]]"
+- "[[H8144]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 31:21**<big><big>[[Prov.31.10 The Virtues of a Noble Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She is not afraid of the snow for her household: for all her household [are] clothed with scarlet.
 <small><sub>**BSB:**</sub></small>
 When it snows, she has no fear for her household, for they are all clothed in scarlet.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H3372G\|תִירָ֣א]] [[H9005\|לְ]][[H1004M\|בֵיתָ֣]][[H9024\|הּ]] [[H9006\|מִ]][[H7950\|שָּׁ֑לֶג]] [[H3588A\|כִּ֥י]] [[H3605\|כָל]][[H9014\|־]] [[H1004M\|בֵּ֝יתָ֗]][[H9024\|הּ]] [[H3847\|לָבֻ֥שׁ]] [[H8144\|שָׁנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic ECONOMICS|ECONOMICS]] • [[topic INDUSTRY|INDUSTRY]] • [[topic POETRY|POETRY]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.20|<< Proverbs 31:20]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.22|Proverbs 31:22 >>]]</td></tr></table>
 

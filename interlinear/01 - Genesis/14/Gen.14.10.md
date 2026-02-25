@@ -1,8 +1,69 @@
+---
+title: Genesis 14:10
+type: Verse
+kjv: "And the vale of Siddim was full of slimepits; and the kings of Sodom and Gomorrah fled, and fell there; and they that remained fled to the mountain."
+bsb: "Now the Valley of Siddim was full of tar pits, and as the kings of Sodom and Gomorrah fled, some men fell into the pits, but the survivors fled to the hill country."
+hebrew: "וְעֵ֣מֶק הַשִׂדִּ֗ים בֶּֽאֱרֹ֤ת בֶּאֱרֹת֙ חֵמָ֔ר וַיָּנֻ֛סוּ מֶֽלֶךְ־ סְדֹ֥ם וַעֲמֹרָ֖ה וַיִּפְּלוּ־ שָׁ֑מָּה וְהַנִּשְׁאָרִ֖ים הֶ֥רָה נָּֽסוּ׃"
+pericope: "[[Gen.14.10 Abram Rescues Lot|Abram Rescues Lot]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 14
+book/chapter: "[[Gen.14|Genesis 14]]"
+chronological_order: 56
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BIRSHA|BIRSHA]]"
+- "[[topic BITUMEN|BITUMEN]]"
+- "[[topic CHEDORLAOMER|CHEDORLAOMER]]"
+- "[[topic GOMORRAH|GOMORRAH]]"
+- "[[topic LOT|LOT]]"
+- "[[topic SIDDIM|SIDDIM]]"
+- "[[topic SLIME|SLIME]]"
+- "[[topic SODOM|SODOM]]"
+strongs:
+- "[[H9002]]"
+- "[[H6010Q]]"
+- "[[H9009]]"
+- "[[H7708]]"
+- "[[H0875]]"
+- "[[H2564]]"
+- "[[H9001]]"
+- "[[H5127]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H5467]]"
+- "[[H6017]]"
+- "[[H5307G]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H7604]]"
+- "[[H2022H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 14:10**<big><big>[[Gen.14.10 Abram Rescues Lot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the vale of Siddim [was full of] slimepits; and the kings of Sodom and Gomorrah fled, and fell there; and they that remained fled to the mountain.
 <small><sub>**BSB:**</sub></small>
 Now the Valley of Siddim was full of tar pits, and as the kings of Sodom and Gomorrah fled, some men fell into the pits, but the survivors fled to the hill country.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6010Q\|עֵ֣מֶק]] [[H9009\|הַ]][[H7708\|שִׂדִּ֗ים]] [[H0875\|בֶּֽאֱרֹ֤ת]] [[H0875\|בֶּאֱרֹת֙]] [[H2564\|חֵמָ֔ר]] [[H9001\|וַ]][[H5127\|יָּנֻ֛סוּ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H5467\|סְדֹ֥ם]] [[H9002\|וַ]][[H6017\|עֲמֹרָ֖ה]] [[H9001\|וַ]][[H5307G\|יִּפְּלוּ]][[H9014\|־]] [[H8033G\|שָׁ֑מָּ]][[H9011\|ה]] [[H9002\|וְ]][[H9009\|הַ]][[H7604\|נִּשְׁאָרִ֖ים]] [[H2022H\|הֶ֥רָ]][[H9011\|ה]] [[H5127\|נָּֽסוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BIRSHA|BIRSHA]] • [[topic BITUMEN|BITUMEN]] • [[topic CHEDORLAOMER|CHEDORLAOMER]] • [[topic GOMORRAH|GOMORRAH]] • [[topic LOT|LOT]] • [[topic SIDDIM|SIDDIM]] • [[topic SLIME|SLIME]] • [[topic SODOM|SODOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.14.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.14.9|<< Genesis 14:9]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.14.11|Genesis 14:11 >>]]</td></tr></table>
 

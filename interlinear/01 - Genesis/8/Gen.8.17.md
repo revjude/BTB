@@ -1,8 +1,67 @@
+---
+title: Genesis 8:17
+type: Verse
+kjv: "Bring forth with thee every living thing that is with thee, of all flesh, both of fowl, and of cattle, and of every creeping thing that creepeth upon the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth."
+bsb: "Bring out all the living creatures that are with you—birds, livestock, and everything that crawls upon the ground—so that they can spread out over the earth and be fruitful and multiply upon it.”"
+hebrew: "כָּל־ הַחַיָּ֨ה אֲשֶֽׁר־ אִתְּךָ֜ מִכָּל־ בָּשָׂ֗ר בָּע֧וֹף וּבַבְּהֵמָ֛ה וּבְכָל־ הָרֶ֛מֶשׂ הָרֹמֵ֥שׂ עַל־ הָאָ֖רֶץ הַיְצֵ֣א אִתָּ֑ךְ וְשָֽׁרְצ֣וּ בָאָ֔רֶץ וּפָר֥וּ וְרָב֖וּ עַל־ הָאָֽרֶץ׃"
+pericope: "[[Gen.8.13 Exiting the Ark|Exiting the Ark]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 8
+book/chapter: "[[Gen.8|Genesis 8]]"
+chronological_order: 8
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COMMUNION|COMMUNION]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2416C]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H1320]]"
+- "[[H9003]]"
+- "[[H5775]]"
+- "[[H9002]]"
+- "[[H0929]]"
+- "[[H7431]]"
+- "[[H7430]]"
+- "[[H5921A]]"
+- "[[H0776G]]"
+- "[[H3318H]]"
+- "[[H9001]]"
+- "[[H8317]]"
+- "[[H6509]]"
+- "[[H7235A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Genesis 8:17**<big><big>[[Gen.8.13 Exiting the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bring forth with thee every living thing that [is] with thee, of all flesh, [both] of fowl, and of cattle, and of every creeping thing that creepeth upon the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth.
 <small><sub>**BSB:**</sub></small>
 Bring out all the living creatures that are with you—birds, livestock, and everything that crawls upon the ground—so that they can spread out over the earth and be fruitful and multiply upon it.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H2416C\|חַיָּ֨ה]] [[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H0854\|אִתְּ]][[H9031\|ךָ֜]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H1320\|בָּשָׂ֗ר]] [[H9003\|בָּ]][[H5775\|ע֧וֹף]] [[H9002\|וּ]][[H9003\|בַ]][[H0929\|בְּהֵמָ֛ה]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H7431\|רֶ֛מֶשׂ]] [[H9009\|הָ]][[H7430\|רֹמֵ֥שׂ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H3318H\|הַיְצֵ֣א]] [[H0854\|אִתָּ֑]][[H9031\|ךְ]] [[H9001\|וְ]][[H8317\|שָֽׁרְצ֣וּ]] [[H9003\|בָ]][[H0776G\|אָ֔רֶץ]] [[H9001\|וּ]][[H6509\|פָר֥וּ]] [[H9001\|וְ]][[H7235A\|רָב֖וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMUNION|COMMUNION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.8.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.16|<< Genesis 8:16]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.8.18|Genesis 8:18 >>]]</td></tr></table>
 

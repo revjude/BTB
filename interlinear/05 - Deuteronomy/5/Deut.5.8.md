@@ -1,8 +1,70 @@
+---
+title: Deuteronomy 5:8
+type: Verse
+kjv: "Thou shalt not make thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the waters beneath the earth:"
+bsb: "You shall not make for yourself an idol in the form of anything in the heavens above, on the earth below, or in the waters beneath."
+hebrew: "לֹֽ֣א־ תַעֲשֶׂ֥ה־ לְךָ֥֣ פֶ֣֙סֶל֙׀ כָּל־ תְּמוּנָ֔֡ה אֲשֶׁ֤֣ר בַּשָּׁמַ֣֙יִם֙׀ מִמַּ֔֡עַל וַאֲשֶׁ֥ר֩ בָּאָ֖֨רֶץ מִתָּ֑֜חַת וַאֲשֶׁ֥ר בַּמַּ֖֣יִם׀ מִתַּ֥֣חַת לָאָֽ֗רֶץ׃"
+pericope: "[[Deut.5.5 The Ten Commandments|The Ten Commandments]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 5
+book/chapter: "[[Deut.5|Deuteronomy 5]]"
+chronological_order: 201
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic TABLE|TABLE]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H6459]]"
+- "[[H9015]]"
+- "[[H3605]]"
+- "[[H8544]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H8064]]"
+- "[[H9006]]"
+- "[[H4605]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H8478G]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L(p)
+- L
+---
+
 **Deuteronomy 5:8**<big><big>[[Deut.5.5 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not make thee [any] graven image, [or] any likeness [of any thing] that [is] in heaven above, or that [is] in the earth beneath, or that [is] in the waters beneath the earth:
 <small><sub>**BSB:**</sub></small>
 You shall not make for yourself an idol in the form of anything in the heavens above, on the earth below, or in the waters beneath.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽ֣א]][[H9014\|־]] [[H6213H\|תַעֲשֶׂ֥ה]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֥֣]] [[H6459\|פֶ֣֙סֶל֙]][[H9015\|׀]] [[H3605\|כָּל]][[H9014\|־]] [[H8544\|תְּמוּנָ֔֡ה]] [[H0834A\|אֲשֶׁ֤֣ר]] [[H9003\|בַּ]][[H8064\|שָּׁמַ֣֙יִם֙]][[H9015\|׀]] [[H9006\|מִ]][[H4605\|מַּ֔֡עַל]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֥ר֩]] [[H9003\|בָּ]][[H0776G\|אָ֖֨רֶץ]] [[H9006\|מִ]][[H8478G\|תָּ֑֜חַת]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בַּ]][[H4325G\|מַּ֖֣יִם]][[H9015\|׀]] [[H9006\|מִ]][[H8478G\|תַּ֥֣חַת]] [[H9005\|לָ]][[H0776G\|אָֽ֗רֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECALOGUE|DECALOGUE]] • [[topic IDOLATRY|IDOLATRY]] • [[topic LAW|LAW]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic TABLE|TABLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.7|<< Deuteronomy 5:7]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.9|Deuteronomy 5:9 >>]]</td></tr></table>
 

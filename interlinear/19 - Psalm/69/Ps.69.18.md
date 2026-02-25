@@ -1,8 +1,58 @@
+---
+title: Psalm 69:18
+type: Verse
+kjv: "Draw nigh unto my soul, and redeem it: deliver me because of mine enemies."
+bsb: "Draw near to my soul and redeem me; ransom me because of my foes."
+hebrew: "קָרְבָ֣ה אֶל־ נַפְשִׁ֣י גְאָלָ֑הּ לְמַ֖עַן אֹיְבַ֣י פְּדֵֽנִי׃"
+pericope: "[[Ps.69.1 The Waters Are up to My Neck|The Waters Are up to My Neck]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 69
+book/chapter: "[[Ps.69|Psalm 69]]"
+chronological_order: 377
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H7126G]]"
+- "[[H9012]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H1350A]]"
+- "[[H9034]]"
+- "[[H4616]]"
+- "[[H0341]]"
+- "[[H6299]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 69:18**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Draw nigh unto my soul, [and] redeem it: deliver me because of mine enemies.
 <small><sub>**BSB:**</sub></small>
 Draw near to my soul and redeem me; ransom me because of my foes.
+<small><sub>**Hebrew:**</sub></small>
+[[H7126G\|קָרְבָ֣]][[H9012\|ה]] [[H0413\|אֶל]][[H9014\|־]] [[H5315G\|נַפְשִׁ֣]][[H9020\|י]] [[H1350A\|גְאָלָ֑]][[H9034\|הּ]] [[H4616\|לְמַ֖עַן]] [[H0341\|אֹיְבַ֣]][[H9020\|י]] [[H6299\|פְּדֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.17|<< Psalms 69:17]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.19|Psalms 69:19 >>]]</td></tr></table>
 

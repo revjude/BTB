@@ -1,8 +1,62 @@
+---
+title: Isaiah 31:8
+type: Verse
+kjv: "Then shall the Assyrian fall with the sword, not of a mighty man; and the sword, not of a mean man, shall devour him: but he shall flee from the sword, and his young men shall be discomfited."
+bsb: "“Then Assyria will fall, but not by the sword of man; a sword will devour them, but not one made by mortals. They will flee before the sword, and their young men will be put to forced labor."
+hebrew: "וְנָפַ֤ל אַשּׁוּר֙ בְּחֶ֣רֶב לֹא־ אִ֔ישׁ וְחֶ֥רֶב לֹֽא־ אָדָ֖ם תֹּֽאכֲלֶ֑נּוּ וְנָ֥ס לוֹ֙ מִפְּנֵי־ חֶ֔רֶב וּבַחוּרָ֖יו לָמַ֥ס יִהְיֽוּ׃"
+pericope: "[[Isa.31.1 Woe to Those Who Rely on Egypt|Woe to Those Who Rely on Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 31
+book/chapter: "[[Isa.31|Isaiah 31]]"
+chronological_order: 674
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+strongs:
+- "[[H9001]]"
+- "[[H5307J]]"
+- "[[H0804G]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H9002]]"
+- "[[H0120G]]"
+- "[[H0398]]"
+- "[[H9033]]"
+- "[[H5127]]"
+- "[[H9005]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H0970]]"
+- "[[H9023]]"
+- "[[H4522]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 31:8**<big><big>[[Isa.31.1 Woe to Those Who Rely on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall the Assyrian fall with the sword, not of a mighty man; and the sword, not of a mean man, shall devour him: but he shall flee from the sword, and his young men shall be discomfited.
 <small><sub>**BSB:**</sub></small>
 “Then Assyria will fall, but not by the sword of man; a sword will devour them, but not one made by mortals. They will flee before the sword, and their young men will be put to forced labor.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5307J\|נָפַ֤ל]] [[H0804G\|אַשּׁוּר֙]] [[H9003\|בְּ]][[H2719\|חֶ֣רֶב]] [[H3808\|לֹא]][[H9014\|־]] [[H0376G\|אִ֔ישׁ]] [[H9002\|וְ]][[H2719\|חֶ֥רֶב]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0120G\|אָדָ֖ם]] [[H0398\|תֹּֽאכֲלֶ֑]][[H9033\|נּוּ]] [[H9001\|וְ]][[H5127\|נָ֥ס]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9006\|מִ]][[H6440G\|פְּנֵי]][[H9014\|־]] [[H2719\|חֶ֔רֶב]] [[H9002\|וּ]][[H0970\|בַחוּרָ֖י]][[H9023\|ו]] [[H9005\|לָ]][[H4522\|מַ֥ס]] [[H1961\|יִהְיֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.31.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.31.7|<< Isaiah 31:7]]</td><td align="center" style="border:none;">[[Isa.31|Isaiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.31.9|Isaiah 31:9 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: An Unshakable Kingdom
+type: Pericope
 pericope: "[[Heb.12.18 An Unshakable Kingdom|An Unshakable Kingdom]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 12
 book/chapter: "[[Heb.12|Hebrews 12]]"
-genre:
+chronological_order: 1151
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 12
 verses:
 - "[[Heb.12.18]]"
 - "[[Heb.12.19]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Heb.12.29]]"
 ---
 
-[[Heb.12|Hebrews 12:18 - Hebrews 12:29]]
+<small>[[Heb.12|Hebrews 12:18-29]]</small>
 *An Unshakable Kingdom*
 
 [[Heb.12.18|18]] For ye are not come unto the mount that might be touched, and that burned with fire, nor unto blackness, and darkness, and tempest,

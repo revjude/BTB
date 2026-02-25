@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Elihu Rebukes Job
+type: Pericope
 pericope: "[[Job.33.1 Elihu Rebukes Job|Elihu Rebukes Job]]"
-verse_count: 33
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 33
 book/chapter: "[[Job.33|Job 33]]"
-genre:
+chronological_order: 44
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 33
 verses:
 - "[[Job.33.1]]"
 - "[[Job.33.2]]"
@@ -52,7 +59,7 @@ verses:
 - "[[Job.33.33]]"
 ---
 
-[[Job.33|Job 33:1 - Job 33:33]]
+<small>[[Job.33|Job 33:1-33]]</small>
 *Elihu Rebukes Job*
 
 [[Job.33.1|1]] Wherefore, Job, I pray thee, hear my speeches, and hearken to all my words.

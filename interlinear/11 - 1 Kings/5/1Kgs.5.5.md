@@ -1,8 +1,76 @@
+---
+title: 1 Kings 5:5
+type: Verse
+kjv: "And, behold, I purpose to build an house unto the name of the LORD my God, as the LORD spake unto David my father, saying, Thy son, whom I will set upon thy throne in thy room, he shall build an house unto my name."
+bsb: "So behold, I plan to build a house for the Name of the LORD my God, according to what the LORD said to my father David: ‘I will put your son on your throne in your place, and he will build the house for My Name.’"
+hebrew: "וְהִנְנִ֣י אֹמֵ֔ר לִבְנ֣וֹת בַּ֔יִת לְשֵׁ֖ם יְהוָ֣ה אֱלֹהָ֑י כַּאֲשֶׁ֣ר׀ דִּבֶּ֣ר יְהוָ֗ה אֶל־ דָּוִ֤ד אָבִי֙ לֵאמֹ֔ר בִּנְךָ֗ אֲשֶׁ֨ר אֶתֵּ֤ן תַּחְתֶּ֙יךָ֙ עַל־ כִּסְאֶ֔ךָ הֽוּא־ יִבְנֶ֥ה הַבַּ֖יִת לִשְׁמִֽי׃"
+pericope: "[[1Kgs.5.1 Preparations for the Temple|Preparations for the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 5
+book/chapter: "[[1Kgs.5|1 Kings 5]]"
+chronological_order: 487
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic TREATY|TREATY]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9002]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H1129]]"
+- "[[H1004B]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9015]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H5414H]]"
+- "[[H8478H]]"
+- "[[H9031]]"
+- "[[H5921A]]"
+- "[[H3678G]]"
+- "[[H1931]]"
+- "[[H9009]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 5:5**<big><big>[[1Kgs.5.1 Preparations for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, I purpose to build an house unto the name of the LORD my God, as the LORD spake unto David my father, saying, Thy son, whom I will set upon thy throne in thy room, he shall build an house unto my name.
 <small><sub>**BSB:**</sub></small>
 So behold, I plan to build a house for the Name of the LORD my God, according to what the LORD said to my father David: ‘I will put your son on your throne in your place, and he will build the house for My Name.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2005\|הִנְ]][[H9040\|נִ֣י]] [[H0559\|אֹמֵ֔ר]] [[H9005\|לִ]][[H1129\|בְנ֣וֹת]] [[H1004B\|בַּ֔יִת]] [[H9005\|לְ]][[H8034\|שֵׁ֖ם]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהָ֑]][[H9020\|י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]][[H9015\|׀]] [[H1696G\|דִּבֶּ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֤ד]] [[H0001G\|אָבִ]][[H9020\|י֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H1121A\|בִּנְ]][[H9021\|ךָ֗]] [[H0834A\|אֲשֶׁ֨ר]] [[H5414H\|אֶתֵּ֤ן]] [[H8478H\|תַּחְתֶּ֙י]][[H9031\|ךָ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3678G\|כִּסְאֶ֔]][[H9021\|ךָ]] [[H1931\|הֽוּא]][[H9014\|־]] [[H1129\|יִבְנֶ֥ה]] [[H9009\|הַ]][[H1004B\|בַּ֖יִת]] [[H9005\|לִ]][[H8034\|שְׁמִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIPLOMACY|DIPLOMACY]] • [[topic LIBERALITY|LIBERALITY]] • [[topic RELIGION|RELIGION]] • [[topic TREATY|TREATY]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.5.4|<< 1 Kings 5:4]]</td><td align="center" style="border:none;">[[1Kgs.5|1 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.5.6|1 Kings 5:6 >>]]</td></tr></table>
 

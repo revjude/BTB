@@ -1,10 +1,53 @@
+---
+title: 2 Corinthians 8:13
+type: Verse
+kjv: "For I mean not that other men be eased, and ye burdened:"
+bsb: "It is not our intention that others may be relieved while you are burdened, but that there may be equality."
+greek: "οὐ γὰρ ἵνα ἄλλοις ἄνεσις, ὑμῖν δὲ θλῖψις, ἀλλ᾽ ἐξ ἰσότητος·"
+pericope: "[[2Cor.8.1 Generosity Commended|Generosity Commended]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 8
+book/chapter: "[[2Cor.8|2 Corinthians 8]]"
+chronological_order: 1081
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+strongs:
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G2443]]"
+- "[[G0243]]"
+- "[[G0425]]"
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G2347]]"
+- "[[G0235]]"
+- "[[G1537]]"
+- "[[G2471]]"
+texts:
+- NKO
+- k
+---
+
 **2 Corinthians 8:13**<big><big>[[2Cor.8.1 Generosity Commended|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For [I mean] not that other men be eased, and ye burdened:
 <small><sub>**BSB:**</sub></small>
 It is not our intention that others may be relieved while you are burdened, but that there may be equality.
-<small><sub>**Literal:**</sub></small>
-Not for that to others [there may be] ease but for you now affliction, [14] but of equality;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.12|<< 2 Corinthians 8:12]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.14|2 Corinthians 8:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G2443\|ἵνα]]  [[G0243\|ἄλλοις]]  [[G0425\|ἄνεσις,]]  [[G4771\|ὑμῖν]]  [[G1161\|δὲ]]  [[G2347\|θλῖψις,]]  [[G0235\|ἀλλ᾽]]  [[G1537\|ἐξ]]  [[G2471\|ἰσότητος·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic LIBERALITY|LIBERALITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.12|<< 2 Corinthians 8:12]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.14|2 Corinthians 8:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

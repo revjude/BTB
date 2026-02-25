@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Anger against Israel
+type: Pericope
 pericope: "[[Hos.13.1 God’s Anger against Israel|God’s Anger against Israel]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Hosea
 chapter: 13
 book/chapter: "[[Hos.13|Hosea 13]]"
-genre:
+chronological_order: 654
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 8
 verses:
 - "[[Hos.13.1]]"
 - "[[Hos.13.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Hos.13.8]]"
 ---
 
-[[Hos.13|Hosea 13:1 - Hosea 13:8]]
+<small>[[Hos.13|Hosea 13:1-8]]</small>
 *God’s Anger against Israel*
 
 [[Hos.13.1|1]] When Ephraim spake trembling, he exalted himself in Israel; but when he offended in Baal, he died.

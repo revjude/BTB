@@ -1,8 +1,76 @@
+---
+title: Ezekiel 40:4
+type: Verse
+kjv: "And the man said unto me, Son of man, behold with thine eyes, and hear with thine ears, and set thine heart upon all that I shall shew thee; for to the intent that I might shew them unto thee art thou brought hither: declare all that thou seest to the house of Israel."
+bsb: "“Son of man,” he said to me, “look with your eyes, hear with your ears, and pay attention to everything I am going to show you, for that is why you have been brought here. Report to the house of Israel everything you see.”"
+hebrew: "וַיְדַבֵּ֨ר אֵלַ֜י הָאִ֗ישׁ בֶּן־ אָדָ֡ם רְאֵ֣ה בְעֵינֶיךָ֩ וּבְאָזְנֶ֨יךָ שְּׁמָ֜ע וְשִׂ֣ים לִבְּךָ֗ לְכֹ֤ל אֲשֶׁר־ אֲנִי֙ מַרְאֶ֣ה אוֹתָ֔ךְ כִּ֛י לְמַ֥עַן הַרְאוֹתְכָ֖ה הֻבָ֣אתָה הֵ֑נָּה הַגֵּ֛ד אֶת־ כָּל־ אֲשֶׁר־ אַתָּ֥ה רֹאֶ֖ה לְבֵ֥ית יִשְׂרָאֵֽל׃"
+pericope: "[[Ezek.40.1 The Man with a Measuring Rod|The Man with a Measuring Rod]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 40
+book/chapter: "[[Ezek.40|Ezekiel 40]]"
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic REED|REED]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H0241G]]"
+- "[[H8085G]]"
+- "[[H7760A]]"
+- "[[H3820A]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H0589]]"
+- "[[H0853]]"
+- "[[H9031]]"
+- "[[H3588A]]"
+- "[[H4616]]"
+- "[[H0935P]]"
+- "[[H2008]]"
+- "[[H5046]]"
+- "[[H0859A]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 40:4**<big><big>[[Ezek.40.1 The Man with a Measuring Rod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the man said unto me, Son of man, behold with thine eyes, and hear with thine ears, and set thine heart upon all that I shall shew thee; for to the intent that I might shew [them] unto thee [art] thou brought hither: declare all that thou seest to the house of Israel.
 <small><sub>**BSB:**</sub></small>
 “Son of man,” he said to me, “look with your eyes, hear with your ears, and pay attention to everything I am going to show you, for that is why you have been brought here. Report to the house of Israel everything you see.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֨ר]] [[H0413\|אֵלַ֜]][[H9030\|י]] [[H9009\|הָ]][[H0376G\|אִ֗ישׁ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֡ם]] [[H7200G\|רְאֵ֣ה]] [[H9003\|בְ]][[H5869A\|עֵינֶי]][[H9021\|ךָ֩]] [[H9002\|וּ]][[H9003\|בְ]][[H0241G\|אָזְנֶ֨י]][[H9021\|ךָ]] [[H8085G\|שְּׁמָ֜ע]] [[H9002\|וְ]][[H7760A\|שִׂ֣ים]] [[H3820A\|לִבְּ]][[H9021\|ךָ֗]] [[H9005\|לְ]][[H3605\|כֹ֤ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0589\|אֲנִי֙]] [[H7200G\|מַרְאֶ֣ה]] [[H0853\|אוֹתָ֔]][[H9031\|ךְ]] [[H3588A\|כִּ֛י]] [[H4616\|לְמַ֥עַן]] [[H7200G\|הַרְאוֹתְ]][[H9031\|כָ֖ה]] [[H0935P\|הֻבָ֣אתָה]] [[H2008\|הֵ֑נָּה]] [[H5046\|הַגֵּ֛ד]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0859A\|אַתָּ֥ה]] [[H7200G\|רֹאֶ֖ה]] [[H9005\|לְ]][[H1004M\|בֵ֥ית]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REED|REED]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.3|<< Ezekiel 40:3]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.5|Ezekiel 40:5 >>]]</td></tr></table>
 

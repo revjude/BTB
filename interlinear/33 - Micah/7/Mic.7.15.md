@@ -1,8 +1,48 @@
+---
+title: Micah 7:15
+type: Verse
+kjv: "According to the days of thy coming out of the land of Egypt will I shew unto him marvellous things."
+bsb: "As in the days when you came out of Egypt, I will show My wonders."
+hebrew: "כִּימֵ֥י צֵאתְךָ֖ מֵאֶ֣רֶץ מִצְרָ֑יִם אַרְאֶ֖נּוּ נִפְלָאֽוֹת׃"
+pericope: "[[Mic.7.14 God’s Compassion on Israel|God’s Compassion on Israel]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 7
+book/chapter: "[[Mic.7|Micah 7]]"
+chronological_order: 629
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+strongs:
+- "[[H9004]]"
+- "[[H3117G]]"
+- "[[H3318G]]"
+- "[[H9041]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H7200G]]"
+- "[[H9033]]"
+- "[[H6381]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 7:15**<big><big>[[Mic.7.14 God’s Compassion on Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 According to the days of thy coming out of the land of Egypt will I shew unto him marvellous [things].
 <small><sub>**BSB:**</sub></small>
 As in the days when you came out of Egypt, I will show My wonders.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כִּ]][[H3117G\|ימֵ֥י]] [[H3318G\|צֵאתְ]][[H9041\|ךָ֖]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H7200G\|אַרְאֶ֖]][[H9033\|נּוּ]] [[H6381\|נִפְלָאֽוֹת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.14|<< Micah 7:14]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.16|Micah 7:16 >>]]</td></tr></table>
 

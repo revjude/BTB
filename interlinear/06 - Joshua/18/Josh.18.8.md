@@ -1,8 +1,68 @@
+---
+title: Joshua 18:8
+type: Verse
+kjv: "And the men arose, and went away: and Joshua charged them that went to describe the land, saying, Go and walk through the land, and describe it, and come again to me, that I may here cast lots for you before the LORD in Shiloh."
+bsb: "As the men got up to go out, Joshua commanded them to map out the land, saying, “Go and survey the land, map it out, and return to me. Then I will cast lots for you here in Shiloh in the presence of the LORD.”"
+hebrew: "וַיָּקֻ֥מוּ הָאֲנָשִׁ֖ים וַיֵּלֵ֑כוּ וַיְצַ֣ו יְהוֹשֻׁ֡עַ אֶת־ הַהֹלְכִים֩ לִכְתֹּ֨ב אֶת־ הָאָ֜רֶץ לֵאמֹ֗ר לְ֠כוּ וְהִתְהַלְּכ֨וּ בָאָ֜רֶץ וְכִתְב֤וּ אוֹתָהּ֙ וְשׁ֣וּבוּ אֵלַ֔י וּ֠פֹה אַשְׁלִ֨יךְ לָכֶ֥ם גּוֹרָ֛ל לִפְנֵ֥י יְהוָ֖ה בְּשִׁלֹֽה׃"
+pericope: "[[Josh.18.1 The Remainder Divided|The Remainder Divided]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 18
+book/chapter: "[[Josh.18|Joshua 18]]"
+chronological_order: 248
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic SHILOH|SHILOH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H1980G]]"
+- "[[H6680]]"
+- "[[H3091G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H3789]]"
+- "[[H0776G]]"
+- "[[H0559]]"
+- "[[H9002]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H6311]]"
+- "[[H7993]]"
+- "[[H9036]]"
+- "[[H1486]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H7887]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 18:8**<big><big>[[Josh.18.1 The Remainder Divided|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men arose, and went away: and Joshua charged them that went to describe the land, saying, Go and walk through the land, and describe it, and come again to me, that I may here cast lots for you before the LORD in Shiloh.
 <small><sub>**BSB:**</sub></small>
 As the men got up to go out, Joshua commanded them to map out the land, saying, “Go and survey the land, map it out, and return to me. Then I will cast lots for you here in Shiloh in the presence of the LORD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּקֻ֥מוּ]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֖ים]] [[H9001\|וַ]][[H1980G\|יֵּלֵ֑כוּ]] [[H9001\|וַ]][[H6680\|יְצַ֣ו]] [[H3091G\|יְהוֹשֻׁ֡עַ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1980G\|הֹלְכִים֩]] [[H9005\|לִ]][[H3789\|כְתֹּ֨ב]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֜רֶץ]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H1980G\|לְ֠כוּ]] [[H9002\|וְ]][[H1980I\|הִתְהַלְּכ֨וּ]] [[H9003\|בָ]][[H0776G\|אָ֜רֶץ]] [[H9002\|וְ]][[H3789\|כִתְב֤וּ]] [[H0853\|אוֹתָ]][[H9034\|הּ֙]] [[H9002\|וְ]][[H7725G\|שׁ֣וּבוּ]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H9002\|וּ֠]][[H6311\|פֹה]] [[H7993\|אַשְׁלִ֨יךְ]] [[H9005\|לָ]][[H9036\|כֶ֥ם]] [[H1486\|גּוֹרָ֛ל]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בְּ]][[H7887\|שִׁלֹֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHILOH|SHILOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.7|<< Joshua 18:7]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.9|Joshua 18:9 >>]]</td></tr></table>
 

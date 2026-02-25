@@ -1,8 +1,61 @@
+---
+title: Isaiah 57:16
+type: Verse
+kjv: "For I will not contend for ever, neither will I be always wroth: for the spirit should fail before me, and the souls which I have made."
+bsb: "For I will not accuse you forever, nor will I always be angry; for then the spirit of man would grow weak before Me—the breath of life I have made."
+hebrew: "כִּ֣י לֹ֤א לְעוֹלָם֙ אָרִ֔יב וְלֹ֥א לָנֶ֖צַח אֶקְּצ֑וֹף כִּי־ ר֙וּחַ֙ מִלְּפָנַ֣י יַֽעֲט֔וֹף וּנְשָׁמ֖וֹת אֲנִ֥י עָשִֽׂיתִי׃"
+pericope: "[[Isa.57.14 Healing for the Repentant|Healing for the Repentant]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 57
+book/chapter: "[[Isa.57|Isaiah 57]]"
+chronological_order: 696
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H7378]]"
+- "[[H9002]]"
+- "[[H5331]]"
+- "[[H7107]]"
+- "[[H9014]]"
+- "[[H7307G]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H5848C]]"
+- "[[H5397]]"
+- "[[H0589]]"
+- "[[H6213H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 57:16**<big><big>[[Isa.57.14 Healing for the Repentant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will not contend for ever, neither will I be always wroth: for the spirit should fail before me, and the souls [which] I have made.
 <small><sub>**BSB:**</sub></small>
 For I will not accuse you forever, nor will I always be angry; for then the spirit of man would grow weak before Me—the breath of life I have made.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3808\|לֹ֤א]] [[H9005\|לְ]][[H5769G\|עוֹלָם֙]] [[H7378\|אָרִ֔יב]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H9005\|לָ]][[H5331\|נֶ֖צַח]] [[H7107\|אֶקְּצ֑וֹף]] [[H3588A\|כִּי]][[H9014\|־]] [[H7307G\|ר֙וּחַ֙]] [[H9006\|מִ]][[H9005\|לְּ]][[H6440G\|פָנַ֣]][[H9020\|י]] [[H5848C\|יַֽעֲט֔וֹף]] [[H9002\|וּ]][[H5397\|נְשָׁמ֖וֹת]] [[H0589\|אֲנִ֥י]] [[H6213H\|עָשִֽׂיתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.15|<< Isaiah 57:15]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.17|Isaiah 57:17 >>]]</td></tr></table>
 

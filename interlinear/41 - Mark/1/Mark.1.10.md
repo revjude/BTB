@@ -1,10 +1,60 @@
+---
+title: Mark 1:10
+type: Verse
+kjv: "And straightway coming up out of the water, he saw the heavens opened, and the Spirit like a dove descending upon him:"
+bsb: "As soon as Jesus came up out of the water, He saw the heavens breaking open and the Spirit descending on Him like a dove."
+greek: "καὶ εὐθὺς ἀναβαίνων ἐκ τοῦ ὕδατος εἶδεν σχιζομένους τοὺς οὐρανοὺς καὶ τὸ πνεῦμα ὡς περιστερὰν καταβαῖνον εἰς αὐτόν·"
+pericope: "[[Mark.1.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 1
+book/chapter: "[[Mark.1|Mark 1]]"
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2112]]"
+- "[[G0305]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G5204]]"
+- "[[G1492H]]"
+- "[[G4977]]"
+- "[[G3772]]"
+- "[[G4151G]]"
+- "[[G5613]]"
+- "[[G4058]]"
+- "[[G2597]]"
+- "[[G1519]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 1:10**<big><big>[[Mark.1.1 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And straightway coming up out of the water, he saw the heavens opened, and the Spirit like a dove descending upon him:
 <small><sub>**BSB:**</sub></small>
 As soon as Jesus came up out of the water, He saw the heavens breaking open and the Spirit descending on Him like a dove.
-<small><sub>**Literal:**</sub></small>
-And immediately going up from the water he saw tearing open the heavens and the Spirit as a dove descending upon Him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.9|<< Mark 1:9]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.11|Mark 1:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2112\|εὐθὺς]]  [[G0305\|ἀναβαίνων]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G5204\|ὕδατος]]  [[G1492H\|εἶδεν]]  [[G4977\|σχιζομένους]]  [[G3588\|τοὺς]]  [[G3772\|οὐρανοὺς]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G5613\|ὡς]]  [[G4058\|περιστερὰν]]  [[G2597\|καταβαῖνον]]  [[G1519\|εἰς]]  [[G0846\|αὐτόν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.9|<< Mark 1:9]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.11|Mark 1:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

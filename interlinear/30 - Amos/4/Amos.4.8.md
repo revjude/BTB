@@ -1,8 +1,63 @@
+---
+title: Amos 4:8
+type: Verse
+kjv: "So two or three cities wandered unto one city, to drink water; but they were not satisfied: yet have ye not returned unto me, saith the LORD."
+bsb: "People staggered from city to city for water to drink, but they were not satisfied; yet you did not return to Me,” declares the LORD."
+hebrew: "וְנָע֡וּ שְׁתַּיִם֩ שָׁלֹ֨שׁ עָרִ֜ים אֶל־ עִ֥יר אַחַ֛ת לִשְׁתּ֥וֹת מַ֖יִם וְלֹ֣א יִשְׂבָּ֑עוּ וְלֹֽא־ שַׁבְתֶּ֥ם עָדַ֖י נְאֻם־ יְהוָֽה׃"
+pericope: "[[Amos.4.1 Punishment Brings No Repentance|Punishment Brings No Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 4
+book/chapter: "[[Amos.4|Amos 4]]"
+chronological_order: 601
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H5128]]"
+- "[[H8147]]"
+- "[[H7969]]"
+- "[[H5892B]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H8354]]"
+- "[[H4325G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7646]]"
+- "[[H7725G]]"
+- "[[H5704]]"
+- "[[H9030]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 4:8**<big><big>[[Amos.4.1 Punishment Brings No Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So two [or] three cities wandered unto one city, to drink water; but they were not satisfied: yet have ye not returned unto me, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 People staggered from city to city for water to drink, but they were not satisfied; yet you did not return to Me,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5128\|נָע֡וּ]] [[H8147\|שְׁתַּיִם֩]] [[H7969\|שָׁלֹ֨שׁ]] [[H5892B\|עָרִ֜ים]] [[H0413\|אֶל]][[H9014\|־]] [[H5892B\|עִ֥יר]] [[H0259\|אַחַ֛ת]] [[H9005\|לִ]][[H8354\|שְׁתּ֥וֹת]] [[H4325G\|מַ֖יִם]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H7646\|יִשְׂבָּ֑עוּ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7725G\|שַׁבְתֶּ֥ם]] [[H5704\|עָדַ֖]][[H9030\|י]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAMINE|FAMINE]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.4.7|<< Amos 4:7]]</td><td align="center" style="border:none;">[[Amos.4|Amos 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.4.9|Amos 4:9 >>]]</td></tr></table>
 

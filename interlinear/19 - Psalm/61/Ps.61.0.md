@@ -1,6 +1,44 @@
+---
+title: Psalm 61:0
+type: Verse
+kjv: "To the chief Musician upon Neginah, A Psalm of David."
+hebrew: "לַמְנַצֵּ֬חַ׀ עַֽל־ נְגִינַ֬ת לְדָוִֽד׃"
+pericope: "[[Ps.61.1 You Have Heard My Vows|You Have Heard My Vows]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 61
+book/chapter: "[[Ps.61|Psalm 61]]"
+chronological_order: 372
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9005]]"
+- "[[H5329]]"
+- "[[H9015]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5058]]"
+- "[[H1732]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 61:0**<big><big>[[Ps.61.1 You Have Heard My Vows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To the chief Musician upon Neginah, [A Psalm] of David.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H5329\|מְנַצֵּ֬חַ]][[H9015\|׀]] [[H5921A\|עַֽל]][[H9014\|־]] [[H5058\|נְגִינַ֬ת]] [[H9005\|לְ]][[H1732\|דָוִֽד]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.61.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.60.12|<< Psalms 60:12]]</td><td align="center" style="border:none;">[[Ps.61|Psalms 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.61.1|Psalms 61:1 >>]]</td></tr></table>
 

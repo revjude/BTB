@@ -1,10 +1,54 @@
+---
+title: John 17:15
+type: Verse
+kjv: "I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil."
+bsb: "I am not asking that You take them out of the world, but that You keep them from the evil one."
+jesus_said: "I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil."
+greek: "οὐκ ἐρωτῶ ἵνα ἄρῃς αὐτοὺς ἐκ τοῦ κόσμου ἀλλ᾽ ἵνα τηρήσῃς αὐτοὺς ἐκ τοῦ πονηροῦ."
+pericope: "[[John.17.6 Prayer for the Disciples|Prayer for the Disciples]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 17
+book/chapter: "[[John.17|John 17]]"
+chronological_order: 1005
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G3756]]"
+- "[[G2065]]"
+- "[[G2443]]"
+- "[[G0142]]"
+- "[[G0846]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G2889]]"
+- "[[G0235]]"
+- "[[G5083I]]"
+- "[[G4190]]"
+texts:
+- NKO
+---
+
 **John 17:15**<big><big>[[John.17.6 Prayer for the Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil.
 <small><sub>**BSB:**</sub></small>
 I am not asking that You take them out of the world, but that You keep them from the evil one.
-<small><sub>**Literal:**</sub></small>
-Not I do ask that You may take them out of the world but that You may keep them from <the> evil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.14|<< John 17:14]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.16|John 17:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐκ]]  [[G2065\|ἐρωτῶ]]  [[G2443\|ἵνα]]  [[G0142\|ἄρῃς]]  [[G0846\|αὐτοὺς]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου]]  [[G0235\|ἀλλ᾽]]  [[G2443\|ἵνα]]  [[G5083I\|τηρήσῃς]]  [[G0846\|αὐτοὺς]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4190\|πονηροῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GRACE OF GOD|GRACE OF GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.14|<< John 17:14]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.16|John 17:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,63 @@
+---
+title: Ezekiel 1:23
+type: Verse
+kjv: "And under the firmament were their wings straight, the one toward the other: every one had two, which covered on this side, and every one had two, which covered on that side, their bodies."
+bsb: "And under the expanse, their wings stretched out toward one another. Each one also had two wings covering its body."
+hebrew: "וְתַ֙חַת֙ הָרָקִ֔יעַ כַּנְפֵיהֶ֣ם יְשָׁר֔וֹת אִשָּׁ֖ה אֶל־ אֲחוֹתָ֑הּ לְאִ֗ישׁ שְׁתַּ֤יִם מְכַסּוֹת֙ לָהֵ֔נָּה וּלְאִ֗ישׁ שְׁתַּ֤יִם מְכַסּוֹת֙ לָהֵ֔נָּה אֵ֖ת גְּוִיֹּתֵיהֶֽם׃"
+pericope: "[[Ezek.1.22 The Divine Glory|The Divine Glory]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 1
+book/chapter: "[[Ezek.1|Ezekiel 1]]"
+chronological_order: 792
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+strongs:
+- "[[H9002]]"
+- "[[H8478G]]"
+- "[[H9009]]"
+- "[[H7549]]"
+- "[[H3671]]"
+- "[[H9028]]"
+- "[[H3477I]]"
+- "[[H0802I]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0269]]"
+- "[[H9024]]"
+- "[[H9005]]"
+- "[[H0376I]]"
+- "[[H8147]]"
+- "[[H3680]]"
+- "[[H9039]]"
+- "[[H0853]]"
+- "[[H1472]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 1:23**<big><big>[[Ezek.1.22 The Divine Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And under the firmament [were] their wings straight, the one toward the other: every one had two, which covered on this side, and every one had two, which covered on that side, their bodies.
 <small><sub>**BSB:**</sub></small>
 And under the expanse, their wings stretched out toward one another. Each one also had two wings covering its body.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8478G\|תַ֙חַת֙]] [[H9009\|הָ]][[H7549\|רָקִ֔יעַ]] [[H3671\|כַּנְפֵי]][[H9028\|הֶ֣ם]] [[H3477I\|יְשָׁר֔וֹת]] [[H0802I\|אִשָּׁ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H0269\|אֲחוֹתָ֑]][[H9024\|הּ]] [[H9005\|לְ]][[H0376I\|אִ֗ישׁ]] [[H8147\|שְׁתַּ֤יִם]] [[H3680\|מְכַסּוֹת֙]] [[H9005\|לָ]][[H9039\|הֵ֔נָּה]] [[H9002\|וּ]][[H9005\|לְ]][[H0376I\|אִ֗ישׁ]] [[H8147\|שְׁתַּ֤יִם]] [[H3680\|מְכַסּוֹת֙]] [[H9005\|לָ]][[H9039\|הֵ֔נָּה]] [[H0853\|אֵ֖ת]] [[H1472\|גְּוִיֹּתֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.22|<< Ezekiel 1:22]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.24|Ezekiel 1:24 >>]]</td></tr></table>
 

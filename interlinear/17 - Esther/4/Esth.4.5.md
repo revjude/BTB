@@ -1,8 +1,65 @@
+---
+title: Esther 4:5
+type: Verse
+kjv: "Then called Esther for Hatach, one of the king’s chamberlains, whom he had appointed to attend upon her, and gave him a commandment to Mordecai, to know what it was, and why it was."
+bsb: "Then Esther summoned Hathach, one of the king’s eunuchs appointed to her, and she dispatched him to Mordecai to learn what was troubling him and why."
+hebrew: "וַתִּקְרָא֩ אֶסְתֵּ֨ר לַהֲתָ֜ךְ מִסָּרִיסֵ֤י הַמֶּ֙לֶךְ֙ אֲשֶׁ֣ר הֶעֱמִ֣יד לְפָנֶ֔יהָ וַתְּצַוֵּ֖הוּ עַֽל־ מָרְדֳּכָ֑י לָדַ֥עַת מַה־ זֶּ֖ה וְעַל־ מַה־ זֶּֽה׃"
+pericope: "[[Esth.4.1 Mordecai Appeals to Esther|Mordecai Appeals to Esther]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 4
+book/chapter: "[[Esth.4|Esther 4]]"
+chronological_order: 902
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic CHAMBERLAIN|CHAMBERLAIN]]"
+- "[[topic HATACH|HATACH]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H0635]]"
+- "[[H9005]]"
+- "[[H2047]]"
+- "[[H9006]]"
+- "[[H5631]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0834A]]"
+- "[[H5975H]]"
+- "[[H6440G]]"
+- "[[H9024]]"
+- "[[H6680]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4782H]]"
+- "[[H3045]]"
+- "[[H4100]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 4:5**<big><big>[[Esth.4.1 Mordecai Appeals to Esther|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then called Esther for Hatach, [one] of the king’s chamberlains, whom he had appointed to attend upon her, and gave him a commandment to Mordecai, to know what it [was], and why it [was].
 <small><sub>**BSB:**</sub></small>
 Then Esther summoned Hathach, one of the king’s eunuchs appointed to her, and she dispatched him to Mordecai to learn what was troubling him and why.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|תִּקְרָא֩]] [[H0635\|אֶסְתֵּ֨ר]] [[H9005\|לַ]][[H2047\|הֲתָ֜ךְ]] [[H9006\|מִ]][[H5631\|סָּרִיסֵ֤י]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5975H\|הֶעֱמִ֣יד]] [[H9005\|לְ]][[H6440G\|פָנֶ֔י]][[H9024\|הָ]] [[H9001\|וַ]][[H6680\|תְּצַוֵּ֖]][[H9033\|הוּ]] [[H5921A\|עַֽל]][[H9014\|־]] [[H4782H\|מָרְדֳּכָ֑י]] [[H9005\|לָ]][[H3045\|דַ֥עַת]] [[H4100\|מַה]][[H9014\|־]] [[H2088\|זֶּ֖ה]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H4100\|מַה]][[H9014\|־]] [[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHAMBERLAIN|CHAMBERLAIN]] • [[topic HATACH|HATACH]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.4.4|<< Esther 4:4]]</td><td align="center" style="border:none;">[[Esth.4|Esther 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.4.6|Esther 4:6 >>]]</td></tr></table>
 

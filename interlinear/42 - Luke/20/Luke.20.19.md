@@ -1,10 +1,63 @@
+---
+title: Luke 20:19
+type: Verse
+kjv: "And the chief priests and the scribes the same hour sought to lay hands on him; and they feared the people: for they perceived that he had spoken this parable against them."
+bsb: "When the scribes and chief priests realized that Jesus had spoken this parable against them, they sought to arrest Him that very hour. But they were afraid of the people."
+greek: "Καὶ ἐζήτησαν οἱ γραμματεῖς καὶ οἱ ἀρχιερεῖς ἐπιβαλεῖν ἐπ᾽ αὐτὸν τὰς χεῖρας ἐν αὐτῇ τῇ ὥρᾳ καὶ ἐφοβήθησαν τὸν λαόν· ἔγνωσαν γὰρ ὅτι πρὸς αὐτοὺς εἶπεν τὴν παραβολὴν ταύτην.¶"
+pericope: "[[Luke.20.19 Paying Taxes to Caesar|Paying Taxes to Caesar]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 20
+book/chapter: "[[Luke.20|Luke 20]]"
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[G2532]]"
+- "[[G2212]]"
+- "[[G3588]]"
+- "[[G1122]]"
+- "[[G0749]]"
+- "[[G1911]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G5495]]"
+- "[[G1722]]"
+- "[[G5610]]"
+- "[[G5399]]"
+- "[[G2992]]"
+- "[[G1097]]"
+- "[[G1063]]"
+- "[[G3754G]]"
+- "[[G4314]]"
+- "[[G2036]]"
+- "[[G3850]]"
+- "[[G3778]]"
+texts:
+- NKO
+---
+
 **Luke 20:19**<big><big>[[Luke.20.19 Paying Taxes to Caesar|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the chief priests and the scribes the same hour sought to lay hands on him; and they feared the people: for they perceived that he had spoken this parable against them.
 <small><sub>**BSB:**</sub></small>
 When the scribes and chief priests realized that Jesus had spoken this parable against them, they sought to arrest Him that very hour. But they were afraid of the people.
-<small><sub>**Literal:**</sub></small>
-And sought the scribes and the chief priests to lay on Him <the> hands in that <the> hour and they feared the people; they perceived for that against them He was speaking <the> parable this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.18|<< Luke 20:18]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.20|Luke 20:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2212\|ἐζήτησαν]]  [[G3588\|οἱ]]  [[G1122\|γραμματεῖς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0749\|ἀρχιερεῖς]]  [[G1911\|ἐπιβαλεῖν]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτὸν]]  [[G3588\|τὰς]]  [[G5495\|χεῖρας]]  [[G1722\|ἐν]]  [[G0846\|αὐτῇ]]  [[G3588\|τῇ]]  [[G5610\|ὥρᾳ]]  [[G2532\|καὶ]]  [[G5399\|ἐφοβήθησαν]]  [[G3588\|τὸν]]  [[G2992\|λαόν·]]  [[G1097\|ἔγνωσαν]]  [[G1063\|γὰρ]]  [[G3754G\|ὅτι]]  [[G4314\|πρὸς]]  [[G0846\|αὐτοὺς]]  [[G2036\|εἶπεν]]  [[G3588\|τὴν]]  [[G3850\|παραβολὴν]]  [[G3778\|ταύτην.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRAFTINESS|CRAFTINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REPROOF|REPROOF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.18|<< Luke 20:18]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.20|Luke 20:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

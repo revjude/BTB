@@ -1,8 +1,65 @@
+---
+title: Psalm 86:14
+type: Verse
+kjv: "O God, the proud are risen against me, and the assemblies of violent men have sought after my soul; and have not set thee before them."
+bsb: "The arrogant rise against me, O God; a band of ruthless men seeks my life; they have no regard for You."
+hebrew: "אֱלֹהִ֤ים׀ זֵ֘דִ֤ים קָֽמוּ־ עָלַ֗י וַעֲדַ֣ת עָ֭רִיצִים בִּקְשׁ֣וּ נַפְשִׁ֑י וְלֹ֖א שָׂמ֣וּךָ לְנֶגְדָּֽם׃"
+pericope: "[[Ps.86.1 Tried but Trusting|Tried but Trusting]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 86
+book/chapter: "[[Ps.86|Psalm 86]]"
+chronological_order: 379
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic MALICE|MALICE]]"
+strongs:
+- "[[H0430G]]"
+- "[[H9015]]"
+- "[[H2086]]"
+- "[[H6965J]]"
+- "[[H9014]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H5712]]"
+- "[[H6184]]"
+- "[[H1245]]"
+- "[[H5315H]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H7760A]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H5048]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 86:14**<big><big>[[Ps.86.1 Tried but Trusting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O God, the proud are risen against me, and the assemblies of violent [men] have sought after my soul; and have not set thee before them.
 <small><sub>**BSB:**</sub></small>
 The arrogant rise against me, O God; a band of ruthless men seeks my life; they have no regard for You.
+<small><sub>**Hebrew:**</sub></small>
+[[H0430G\|אֱלֹהִ֤ים]][[H9015\|׀]] [[H2086\|זֵ֘דִ֤ים]] [[H6965J\|קָֽמוּ]][[H9014\|־]] [[H5921A\|עָלַ֗]][[H9030\|י]] [[H9002\|וַ]][[H5712\|עֲדַ֣ת]] [[H6184\|עָ֭רִיצִים]] [[H1245\|בִּקְשׁ֣וּ]] [[H5315H\|נַפְשִׁ֑]][[H9020\|י]] [[H9002\|וְ]][[H3808\|לֹ֖א]] [[H7760A\|שָׂמ֣וּ]][[H9031\|ךָ]] [[H9005\|לְ]][[H5048\|נֶגְדָּֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GODLESSNESS|GODLESSNESS]] • [[topic MALICE|MALICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.86.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.86.13|<< Psalms 86:13]]</td><td align="center" style="border:none;">[[Ps.86|Psalms 86]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.86.15|Psalms 86:15 >>]]</td></tr></table>
 

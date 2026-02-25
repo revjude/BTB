@@ -1,8 +1,53 @@
+---
+title: Isaiah 54:7
+type: Verse
+kjv: "For a small moment have I forsaken thee; but with great mercies will I gather thee."
+bsb: "“For a brief moment I forsook you, but with great compassion I will bring you back."
+hebrew: "בְּרֶ֥גַע קָטֹ֖ן עֲזַבְתִּ֑יךְ וּבְרַחֲמִ֥ים גְּדֹלִ֖ים אֲקַבְּצֵֽךְ׃"
+pericope: "[[Isa.54.1 Future Blessings for Zion|Future Blessings for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 54
+book/chapter: "[[Isa.54|Isaiah 54]]"
+chronological_order: 693
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9003]]"
+- "[[H7281]]"
+- "[[H6996B]]"
+- "[[H5800A]]"
+- "[[H9032]]"
+- "[[H9002]]"
+- "[[H7356B]]"
+- "[[H1419A]]"
+- "[[H6908]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 54:7**<big><big>[[Isa.54.1 Future Blessings for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For a small moment have I forsaken thee; but with great mercies will I gather thee.
 <small><sub>**BSB:**</sub></small>
 “For a brief moment I forsook you, but with great compassion I will bring you back.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H7281\|רֶ֥גַע]] [[H6996B\|קָטֹ֖ן]] [[H5800A\|עֲזַבְתִּ֑י]][[H9032\|ךְ]] [[H9002\|וּ]][[H9003\|בְ]][[H7356B\|רַחֲמִ֥ים]] [[H1419A\|גְּדֹלִ֖ים]] [[H6908\|אֲקַבְּצֵֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHURCH|CHURCH]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.54.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.6|<< Isaiah 54:6]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.8|Isaiah 54:8 >>]]</td></tr></table>
 

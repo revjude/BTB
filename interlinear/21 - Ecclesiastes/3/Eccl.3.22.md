@@ -1,8 +1,65 @@
+---
+title: Ecclesiastes 3:22
+type: Verse
+kjv: "Wherefore I perceive that there is nothing better, than that a man should rejoice in his own works; for that is his portion: for who shall bring him to see what shall be after him?"
+bsb: "I have seen that there is nothing better for a man than to enjoy his work, because that is his lot. For who can bring him to see what will come after him?"
+hebrew: "וְרָאִ֗יתִי כִּ֣י אֵ֥ין טוֹב֙ מֵאֲשֶׁ֨ר יִשְׂמַ֤ח הָאָדָם֙ בְּֽמַעֲשָׂ֔יו כִּי־ ה֖וּא חֶלְק֑וֹ כִּ֣י מִ֤י יְבִיאֶ֙נּוּ֙ לִרְא֔וֹת בְּמֶ֖ה שֶׁיִּהְיֶ֥ה אַחֲרָֽיו׃"
+pericope: "[[Eccl.3.16 From Dust to Dust|From Dust to Dust]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 3
+book/chapter: "[[Eccl.3|Ecclesiastes 3]]"
+chronological_order: 541
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic HAPPINESS|HAPPINESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H2896A]]"
+- "[[H9006]]"
+- "[[H0834C]]"
+- "[[H8055]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H9003]]"
+- "[[H4639G]]"
+- "[[H9023]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H2506A]]"
+- "[[H4310]]"
+- "[[H0935P]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H9007]]"
+- "[[H1961]]"
+- "[[H0310A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 3:22**<big><big>[[Eccl.3.16 From Dust to Dust|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore I perceive that [there is] nothing better, than that a man should rejoice in his own works; for that [is] his portion: for who shall bring him to see what shall be after him?
 <small><sub>**BSB:**</sub></small>
 I have seen that there is nothing better for a man than to enjoy his work, because that is his lot. For who can bring him to see what will come after him?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7200G\|רָאִ֗יתִי]] [[H3588A\|כִּ֣י]] [[H0369\|אֵ֥ין]] [[H2896A\|טוֹב֙]] [[H9006\|מֵ]][[H0834C\|אֲשֶׁ֨ר]] [[H8055\|יִשְׂמַ֤ח]] [[H9009\|הָ]][[H0120G\|אָדָם֙]] [[H9003\|בְּֽ]][[H4639G\|מַעֲשָׂ֔י]][[H9023\|ו]] [[H3588A\|כִּי]][[H9014\|־]] [[H1931\|ה֖וּא]] [[H2506A\|חֶלְק֑]][[H9023\|וֹ]] [[H3588A\|כִּ֣י]] [[H4310\|מִ֤י]] [[H0935P\|יְבִיאֶ֙]][[H9033\|נּוּ֙]] [[H9005\|לִ]][[H7200G\|רְא֔וֹת]] [[H9003\|בְּ]][[H4100\|מֶ֖ה]] [[H9007\|שֶׁ]][[H1961\|יִּהְיֶ֥ה]] [[H0310A\|אַחֲרָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAPPINESS|HAPPINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.3.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.3.21|<< Ecclesiastes 3:21]]</td><td align="center" style="border:none;">[[Eccl.3|Ecclesiastes 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.4.1|Ecclesiastes 4:1 >>]]</td></tr></table>
 

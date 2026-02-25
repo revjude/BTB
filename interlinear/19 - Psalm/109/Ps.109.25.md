@@ -1,8 +1,60 @@
+---
+title: Psalm 109:25
+type: Verse
+kjv: "I became also a reproach unto them: when they looked upon me they shaked their heads."
+bsb: "I am an object of scorn to my accusers; when they see me, they shake their heads."
+hebrew: "וַאֲנִ֤י׀ הָיִ֣יתִי חֶרְפָּ֣ה לָהֶ֑ם יִ֝רְא֗וּנִי יְנִיע֥וּן רֹאשָֽׁם׃"
+pericope: "[[Ps.109.1 The Song of the Slandered|The Song of the Slandered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 109
+book/chapter: "[[Ps.109|Psalm 109]]"
+chronological_order: 383
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H9015]]"
+- "[[H1961]]"
+- "[[H2781]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H7200G]]"
+- "[[H9030]]"
+- "[[H5128]]"
+- "[[H9013]]"
+- "[[H7218A]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 109:25**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I became also a reproach unto them: [when] they looked upon me they shaked their heads.
 <small><sub>**BSB:**</sub></small>
 I am an object of scorn to my accusers; when they see me, they shake their heads.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0589\|אֲנִ֤י]][[H9015\|׀]] [[H1961\|הָיִ֣יתִי]] [[H2781\|חֶרְפָּ֣ה]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H7200G\|יִ֝רְא֗וּ]][[H9030\|נִי]] [[H5128\|יְנִיע֥וּ]][[H9013\|ן]] [[H7218A\|רֹאשָֽׁ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.24|<< Psalms 109:24]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.26|Psalms 109:26 >>]]</td></tr></table>
 

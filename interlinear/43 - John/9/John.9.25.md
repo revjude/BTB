@@ -1,10 +1,60 @@
+---
+title: John 9:25
+type: Verse
+kjv: "He answered and said, Whether he be a sinner or no, I know not: one thing I know, that, whereas I was blind, now I see."
+bsb: "He answered, “Whether He is a sinner I do not know. There is one thing I do know: I was blind, but now I see!”"
+greek: "Ἀπεκρίθη οὖν ἐκεῖνος καὶ εἶπεν· εἰ ἁμαρτωλός ἐστιν οὐκ οἶδα· ἓν οἶδα ὅτι τυφλὸς ὢν ἄρτι βλέπω."
+pericope: "[[John.9.13 The Pharisees Investigate the Healing|The Pharisees Investigate the Healing]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 9
+book/chapter: "[[John.9|John 9]]"
+chronological_order: 983
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[G0611]]"
+- "[[G3767]]"
+- "[[G1565]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1487G]]"
+- "[[G0268]]"
+- "[[G1510]]"
+- "[[G3756]]"
+- "[[G6063]]"
+- "[[G1520]]"
+- "[[G3754G]]"
+- "[[G5185]]"
+- "[[G0737]]"
+- "[[G0991]]"
+texts:
+- NKO
+- k
+---
+
 **John 9:25**<big><big>[[John.9.13 The Pharisees Investigate the Healing|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He answered and said, Whether he be a sinner [or no], I know not: one thing I know, that, whereas I was blind, now I see.
 <small><sub>**BSB:**</sub></small>
 He answered, “Whether He is a sinner I do not know. There is one thing I do know: I was blind, but now I see!”
-<small><sub>**Literal:**</sub></small>
-Answered then he and said: Whether a sinner He is not I know; One [thing] I do know that blind being now I see.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.24|<< John 9:24]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.26|John 9:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀπεκρίθη]]  [[G3767\|οὖν]]  [[G1565\|ἐκεῖνος]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν·]]  [[G1487G\|εἰ]]  [[G0268\|ἁμαρτωλός]]  [[G1510\|ἐστιν]]  [[G3756\|οὐκ]]  [[G6063\|οἶδα·]]  [[G1520\|ἓν]]  [[G6063\|οἶδα]]  [[G3754G\|ὅτι]]  [[G5185\|τυφλὸς]]  [[G1510\|ὢν]]  [[G0737\|ἄρτι]]  [[G0991\|βλέπω.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFESSION|CONFESSION]] • [[topic CONVERTS|CONVERTS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SABBATH|SABBATH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.24|<< John 9:24]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.26|John 9:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

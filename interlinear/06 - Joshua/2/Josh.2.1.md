@@ -1,8 +1,78 @@
+---
+title: Joshua 2:1
+type: Verse
+kjv: "And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot’s house, named Rahab, and lodged there."
+bsb: "Then Joshua son of Nun secretly sent two spies from Shittim, saying, “Go, inspect the land, especially Jericho.” So they went and entered the house of a prostitute named Rahab and stayed there."
+hebrew: "וַיִּשְׁלַ֣ח יְהוֹשֻׁ֣עַ־ בִּן־ נ֠וּן מִֽן־ הַשִּׁטִּ֞ים שְׁנַֽיִם־ אֲנָשִׁ֤ים מְרַגְּלִים֙ חֶ֣רֶשׁ לֵאמֹ֔ר לְכ֛וּ רְא֥וּ אֶת־ הָאָ֖רֶץ וְאֶת־ יְרִיח֑וֹ וַיֵּ֨לְכ֜וּ וַ֠יָּבֹאוּ בֵּית־ אִשָּׁ֥ה זוֹנָ֛ה וּשְׁמָ֥הּ רָחָ֖ב וַיִּשְׁכְּבוּ־ שָֽׁמָּה׃"
+pericope: "[[Josh.2.1 Rahab Welcomes the Spies|Rahab Welcomes the Spies]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 2
+book/chapter: "[[Josh.2|Joshua 2]]"
+chronological_order: 232
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic RECONNOISSANCE|RECONNOISSANCE]]"
+- "[[topic SHITTIM|SHITTIM]]"
+- "[[topic SPIES|SPIES]]"
+- "[[topic VIGILANCE|VIGILANCE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H3091G]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H5126]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H7851G]]"
+- "[[H8147]]"
+- "[[H0582]]"
+- "[[H7270]]"
+- "[[H2791A]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H1980G]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H3405G]]"
+- "[[H0935G]]"
+- "[[H1004B]]"
+- "[[H0802G]]"
+- "[[H2181]]"
+- "[[H8034]]"
+- "[[H9024]]"
+- "[[H7343]]"
+- "[[H7901G]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 2:1**<big><big>[[Josh.2.1 Rahab Welcomes the Spies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot’s house, named Rahab, and lodged there.
 <small><sub>**BSB:**</sub></small>
 Then Joshua son of Nun secretly sent two spies from Shittim, saying, “Go, inspect the land, especially Jericho.” So they went and entered the house of a prostitute named Rahab and stayed there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֣ח]] [[H3091G\|יְהוֹשֻׁ֣עַ]][[H9014\|־]] [[H1121A\|בִּן]][[H9014\|־]] [[H5126\|נ֠וּן]] [[H4480A\|מִֽן]][[H9014\|־]] [[H9009\|הַ]][[H7851G\|שִּׁטִּ֞ים]] [[H8147\|שְׁנַֽיִם]][[H9014\|־]] [[H0582\|אֲנָשִׁ֤ים]] [[H7270\|מְרַגְּלִים֙]] [[H2791A\|חֶ֣רֶשׁ]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H1980G\|לְכ֛וּ]] [[H7200G\|רְא֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3405G\|יְרִיח֑וֹ]] [[H9001\|וַ]][[H1980G\|יֵּ֨לְכ֜וּ]] [[H9001\|וַ֠]][[H0935G\|יָּבֹאוּ]] [[H1004B\|בֵּית]][[H9014\|־]] [[H0802G\|אִשָּׁ֥ה]] [[H2181\|זוֹנָ֛ה]] [[H9002\|וּ]][[H8034\|שְׁמָ֥]][[H9024\|הּ]] [[H7343\|רָחָ֖ב]] [[H9001\|וַ]][[H7901G\|יִּשְׁכְּבוּ]][[H9014\|־]] [[H8033G\|שָֽׁמָּ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic RECONNOISSANCE|RECONNOISSANCE]] • [[topic SHITTIM|SHITTIM]] • [[topic SPIES|SPIES]] • [[topic VIGILANCE|VIGILANCE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.1.18|<< Joshua 1:18]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.2|Joshua 2:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

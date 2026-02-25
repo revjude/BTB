@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Restored as King
+type: Pericope
 pericope: "[[2Sam.19.8 David Restored as King|David Restored as King]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 19
 book/chapter: "[[2Sam.19|2 Samuel 19]]"
-genre:
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 8
 verses:
 - "[[2Sam.19.8]]"
 - "[[2Sam.19.9]]"
@@ -27,7 +34,7 @@ verses:
 - "[[2Sam.19.15]]"
 ---
 
-[[2Sam.19|2 Samuel 19:8 - 2 Samuel 19:15]]
+<small>[[2Sam.19|2 Samuel 19:8-15]]</small>
 *David Restored as King*
 
 [[2Sam.19.8|8]] Then the king arose, and sat in the gate. And they told unto all the people, saying, Behold, the king doth sit in the gate. And all the people came before the king: for Israel had fled every man to his tent.

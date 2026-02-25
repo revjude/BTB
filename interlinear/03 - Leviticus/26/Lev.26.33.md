@@ -1,8 +1,72 @@
+---
+title: Leviticus 26:33
+type: Verse
+kjv: "And I will scatter you among the heathen, and will draw out a sword after you: and your land shall be desolate, and your cities waste."
+bsb: "But I will scatter you among the nations and will draw out a sword after you as your land becomes desolate and your cities are laid waste."
+hebrew: "וְאֶתְכֶם֙ אֱזָרֶ֣ה בַגּוֹיִ֔ם וַהֲרִיקֹתִ֥י אַחֲרֵיכֶ֖ם חָ֑רֶב וְהָיְתָ֤ה אַרְצְכֶם֙ שְׁמָמָ֔ה וְעָרֵיכֶ֖ם יִהְי֥וּ חָרְבָּֽה׃"
+pericope: "[[Lev.26.14 Punishments for Disobedience|Punishments for Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CAPTIVITY|CAPTIVITY]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H2219]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H9001]]"
+- "[[H7324]]"
+- "[[H0310A]]"
+- "[[H2719]]"
+- "[[H1961]]"
+- "[[H0776G]]"
+- "[[H9026]]"
+- "[[H8077A]]"
+- "[[H5892B]]"
+- "[[H2723]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 26:33**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will scatter you among the heathen, and will draw out a sword after you: and your land shall be desolate, and your cities waste.
 <small><sub>**BSB:**</sub></small>
 But I will scatter you among the nations and will draw out a sword after you as your land becomes desolate and your cities are laid waste.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H2219\|אֱזָרֶ֣ה]] [[H9003\|בַ]][[H1471A\|גּוֹיִ֔ם]] [[H9001\|וַ]][[H7324\|הֲרִיקֹתִ֥י]] [[H0310A\|אַחֲרֵי]][[H9036\|כֶ֖ם]] [[H2719\|חָ֑רֶב]] [[H9001\|וְ]][[H1961\|הָיְתָ֤ה]] [[H0776G\|אַרְצְ]][[H9026\|כֶם֙]] [[H8077A\|שְׁמָמָ֔ה]] [[H9002\|וְ]][[H5892B\|עָרֵי]][[H9026\|כֶ֖ם]] [[H1961\|יִהְי֥וּ]] [[H2723\|חָרְבָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic CAPTIVITY|CAPTIVITY]] • [[topic COVENANT|COVENANT]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REWARD|REWARD]] • [[topic SIN|SIN]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.32|<< Leviticus 26:32]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.34|Leviticus 26:34 >>]]</td></tr></table>
 

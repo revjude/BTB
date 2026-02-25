@@ -1,8 +1,54 @@
+---
+title: Job 15:4
+type: Verse
+kjv: "Yea, thou castest off fear, and restrainest prayer before God."
+bsb: "But you even undermine the fear of God and hinder meditation before Him."
+hebrew: "אַף־ אַ֭תָּה תָּפֵ֣ר יִרְאָ֑ה וְתִגְרַ֥ע שִׂ֝יחָ֗ה לִפְנֵי־ אֵֽל׃"
+pericope: "[[Job.15.1 Eliphaz：Job Does Not Fear God|Eliphaz：Job Does Not Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 15
+book/chapter: "[[Job.15|Job 15]]"
+chronological_order: 26
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic PRAYERLESSNESS|PRAYERLESSNESS]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H0637]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H6565A]]"
+- "[[H3374]]"
+- "[[H9002]]"
+- "[[H1639]]"
+- "[[H7881]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0410G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 15:4**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, thou castest off fear, and restrainest prayer before God.
 <small><sub>**BSB:**</sub></small>
 But you even undermine the fear of God and hinder meditation before Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H0637\|אַף]][[H9014\|־]] [[H0859A\|אַ֭תָּה]] [[H6565A\|תָּפֵ֣ר]] [[H3374\|יִרְאָ֑ה]] [[H9002\|וְ]][[H1639\|תִגְרַ֥ע]] [[H7881\|שִׂ֝יחָ֗ה]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9014\|־]] [[H0410G\|אֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYERLESSNESS|PRAYERLESSNESS]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.3|<< Job 15:3]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.5|Job 15:5 >>]]</td></tr></table>
 

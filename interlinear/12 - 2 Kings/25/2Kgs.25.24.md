@@ -1,8 +1,70 @@
+---
+title: 2 Kings 25:24
+type: Verse
+kjv: "And Gedaliah sware to them, and to their men, and said unto them, Fear not to be the servants of the Chaldees: dwell in the land, and serve the king of Babylon; and it shall be well with you."
+bsb: "And Gedaliah took an oath before them and their men, assuring them, “Do not be afraid of the servants of the Chaldeans. Live in the land and serve the king of Babylon, and it will be well with you.”"
+hebrew: "וַיִּשָּׁבַ֨ע לָהֶ֤ם גְּדַלְיָ֙הוּ֙ וּלְאַנְשֵׁיהֶ֔ם וַיֹּ֣אמֶר לָהֶ֔ם אַל־ תִּֽירְא֖וּ מֵעַבְדֵ֣י הַכַּשְׂדִּ֑ים שְׁב֣וּ בָאָ֗רֶץ וְעִבְד֛וּ אֶת־ מֶ֥לֶךְ בָּבֶ֖ל וְיִטַ֥ב לָכֶֽם׃ ס"
+pericope: "[[2Kgs.25.22 Gedaliah Governs in Judah|Gedaliah Governs in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 25
+book/chapter: "[[2Kgs.25|2 Kings 25]]"
+chronological_order: 742
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GEDALIAH|GEDALIAH]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOHANAN|JOHANAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H1436B]]"
+- "[[H9002]]"
+- "[[H0582]]"
+- "[[H9028]]"
+- "[[H0559]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H9006]]"
+- "[[H5650]]"
+- "[[H9009]]"
+- "[[H3778]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H5647G]]"
+- "[[H0853]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H3190]]"
+- "[[H9036]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Kings 25:24**<big><big>[[2Kgs.25.22 Gedaliah Governs in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Gedaliah sware to them, and to their men, and said unto them, Fear not to be the servants of the Chaldees: dwell in the land, and serve the king of Babylon; and it shall be well with you.
 <small><sub>**BSB:**</sub></small>
 And Gedaliah took an oath before them and their men, assuring them, “Do not be afraid of the servants of the Chaldeans. Live in the land and serve the king of Babylon, and it will be well with you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7650\|יִּשָּׁבַ֨ע]] [[H9005\|לָ]][[H9038\|הֶ֤ם]] [[H1436B\|גְּדַלְיָ֙הוּ֙]] [[H9002\|וּ]][[H9005\|לְ]][[H0582\|אַנְשֵׁי]][[H9028\|הֶ֔ם]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּֽירְא֖וּ]] [[H9006\|מֵ]][[H5650\|עַבְדֵ֣י]] [[H9009\|הַ]][[H3778\|כַּשְׂדִּ֑ים]] [[H3427\|שְׁב֣וּ]] [[H9003\|בָ]][[H0776G\|אָ֗רֶץ]] [[H9002\|וְ]][[H5647G\|עִבְד֛וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מֶ֥לֶךְ]] [[H0894\|בָּבֶ֖ל]] [[H9002\|וְ]][[H3190\|יִטַ֥ב]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GEDALIAH|GEDALIAH]] • [[topic ISHMAEL|ISHMAEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOHANAN|JOHANAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.23|<< 2 Kings 25:23]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.25|2 Kings 25:25 >>]]</td></tr></table>
 
@@ -25,7 +87,7 @@ And Gedaliah took an oath before them and their men, assuring them, “Do not be
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶ֥לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Babylon  |**<big>&#8207;[[H0894\|בָּבֶ֖ל]]&#8207; </big>**| ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | so it may go well  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3190\|יִטַ֥ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yi.Tav<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.23|<< 2 Kings 25:23]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.25|2 Kings 25:25 >>]]</td></tr></table>
 
 

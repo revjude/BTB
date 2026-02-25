@@ -1,6 +1,50 @@
+---
+title: LXX 1 Chronicles 15:3
+type: Verse
+lxx: "And David gathered  all Israel to Jerusalem,  to bear the ark of the lord into the place which he prepared for it."
+greek: "και συνήγαγε Δαυίδ τον πάντα Ισραήλ εις Ιερουσαλήμ του ανενεγκείν την κιβωτόν κυρίου εις τον τόπον ον ητοίμασεν αυτή"
+original_language: Greek
+testament: Old
+book: 1 Chronicles
+chapter: 15
+book/chapter: "[[1Chr.15|1 Chronicles 15]]"
+chronological_order: 396
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- septuagint
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+strongs:
+- "[[G2532]]"
+- "[[G4863]]"
+- "[[G4622]]"
+- "[[G3588]]"
+- "[[G3956]]"
+- "[[G2474]]"
+- "[[G1519]]"
+- "[[G2419]]"
+- "[[G3588]]"
+- "[[G0399]]"
+- "[[G3588]]"
+- "[[G2787]]"
+- "[[G2962]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G5117]]"
+- "[[G3739]]"
+- "[[G2090]]"
+- "[[G1473]]"
+---
+
 **LXX 1 Chronicles 15:3** 
 <small><sub>**LXX:**</sub></small>
 And David gathered  all Israel to Jerusalem,  to bear the ark of \[the\] <span class="smallcaps">lord</span> into the place which he prepared for it. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G4863\|συνήγαγε]] [[G4622\|Δαυίδ]] [[G3588\|τον]] [[G3956\|πάντα]] [[G2474\|Ισραήλ]] [[G1519\|εις]] [[G2419\|Ιερουσαλήμ]] [[G3588\|του]] [[G0399\|ανενεγκείν]] [[G3588\|την]] [[G2787\|κιβωτόν]] [[G2962\|κυρίου]] [[G1519\|εις]] [[G3588\|τον]] [[G5117\|τόπον]] [[G3739\|ον]] [[G2090\|ητοίμασεν]] [[G1473\|αυτή]]
 <small><sub>**MT:**</sub></small>
 [[1Chr.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.2|<< 1 Chronicles 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.4|1 Chronicles 15:4 >>]]</td></tr></table>
 
@@ -24,6 +68,6 @@ And David gathered  all Israel to Jerusalem,  to bear the ark of \[the\] <span c
 | which | **<big>[[G3739\|ον]]</big>** |
 | he prepared | **<big>[[G2090\|ητοίμασεν]]</big>** |
 | for it. | **<big>[[G1473\|αυτή]]</big>** |
-[[1Chr.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.2|<< 1 Chronicles 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.4|1 Chronicles 15:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.2|<< 1 Chronicles 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.4|1 Chronicles 15:4 >>]]</td></tr></table>
 
 

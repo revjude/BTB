@@ -1,8 +1,69 @@
+---
+title: Numbers 22:17
+type: Verse
+kjv: "For I will promote thee unto very great honour, and I will do whatsoever thou sayest unto me: come therefore, I pray thee, curse me this people."
+bsb: "for I will honor you richly and do whatever you say. So please come and put a curse on this people for me!’”"
+hebrew: "כִּֽי־ כַבֵּ֤ד אֲכַבֶּדְךָ֙ מְאֹ֔ד וְכֹ֛ל אֲשֶׁר־ תֹּאמַ֥ר אֵלַ֖י אֶֽעֱשֶׂ֑ה וּלְכָה־ נָּא֙ קָֽבָה־ לִּ֔י אֵ֖ת הָעָ֥ם הַזֶּֽה׃"
+pericope: "[[Num.22.1 Balak Summons Balaam|Balak Summons Balaam]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 22
+book/chapter: "[[Num.22|Numbers 22]]"
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BALAK|BALAK]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3513G]]"
+- "[[H9031]]"
+- "[[H3966]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H6213A]]"
+- "[[H1980K]]"
+- "[[H9012]]"
+- "[[H4994]]"
+- "[[H6895]]"
+- "[[H9005]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 22:17**<big><big>[[Num.22.1 Balak Summons Balaam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will promote thee unto very great honour, and I will do whatsoever thou sayest unto me: come therefore, I pray thee, curse me this people.
 <small><sub>**BSB:**</sub></small>
 for I will honor you richly and do whatever you say. So please come and put a curse on this people for me!’”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3513G\|כַבֵּ֤ד]] [[H3513G\|אֲכַבֶּדְ]][[H9031\|ךָ֙]] [[H3966\|מְאֹ֔ד]] [[H9002\|וְ]][[H3605\|כֹ֛ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0559\|תֹּאמַ֥ר]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H6213A\|אֶֽעֱשֶׂ֑ה]] [[H9002\|וּ]][[H1980K\|לְכָ]][[H9012\|ה]][[H9014\|־]] [[H4994\|נָּא֙]] [[H6895\|קָֽבָ]][[H9012\|ה]][[H9014\|־]] [[H9005\|לִּ֔]][[H9030\|י]] [[H0853\|אֵ֖ת]] [[H9009\|הָ]][[H5971A\|עָ֥ם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALAK|BALAK]] • [[topic DECISION|DECISION]] • [[topic GOD|GOD]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.16|<< Numbers 22:16]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.18|Numbers 22:18 >>]]</td></tr></table>
 

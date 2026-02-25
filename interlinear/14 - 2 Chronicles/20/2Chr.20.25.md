@@ -1,8 +1,76 @@
+---
+title: 2 Chronicles 20:25
+type: Verse
+kjv: "And when Jehoshaphat and his people came to take away the spoil of them, they found among them in abundance both riches with the dead bodies, and precious jewels, which they stripped off for themselves, more than they could carry away: and they were three days in gathering of the spoil, it was so much."
+bsb: "Then Jehoshaphat and his people went to carry off the plunder, and they found on the bodies an abundance of goods and valuables—more than they could carry away. They were gathering the plunder for three days because there was so much."
+hebrew: "וַיָּבֹ֨א יְהוֹשָׁפָ֣ט וְעַמּוֹ֮ לָבֹ֣ז אֶת־ שְׁלָלָם֒ וַיִּמְצְאוּ֩ בָהֶ֨ם לָרֹ֜ב וּרְכ֤וּשׁ וּפְגָרִים֙ וּכְלֵ֣י חֲמֻד֔וֹת וַיְנַצְּל֥וּ לָהֶ֖ם לְאֵ֣ין מַשָּׂ֑א וַיִּֽהְי֞וּ יָמִ֧ים שְׁלוֹשָׁ֛ה בֹּזְזִ֥ים אֶת־ הַשָּׁלָ֖ל כִּ֥י רַב־ הֽוּא׃"
+pericope: "[[2Chr.20.20 The Enemies Destroy Themselves|The Enemies Destroy Themselves]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 20
+book/chapter: "[[2Chr.20|2 Chronicles 20]]"
+chronological_order: 573
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H3092I]]"
+- "[[H9002]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H0962]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7998]]"
+- "[[H9028]]"
+- "[[H4672]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H7230]]"
+- "[[H7399]]"
+- "[[H6297]]"
+- "[[H3627]]"
+- "[[H2530B]]"
+- "[[H5337]]"
+- "[[H0369]]"
+- "[[H4853A]]"
+- "[[H1961]]"
+- "[[H3117G]]"
+- "[[H7969]]"
+- "[[H9009]]"
+- "[[H3588A]]"
+- "[[H7227A]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 20:25**<big><big>[[2Chr.20.20 The Enemies Destroy Themselves|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Jehoshaphat and his people came to take away the spoil of them, they found among them in abundance both riches with the dead bodies, and precious jewels, which they stripped off for themselves, more than they could carry away: and they were three days in gathering of the spoil, it was so much.
 <small><sub>**BSB:**</sub></small>
 Then Jehoshaphat and his people went to carry off the plunder, and they found on the bodies an abundance of goods and valuables—more than they could carry away. They were gathering the plunder for three days because there was so much.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֨א]] [[H3092I\|יְהוֹשָׁפָ֣ט]] [[H9002\|וְ]][[H5971A\|עַמּ]][[H9023\|וֹ֮]] [[H9005\|לָ]][[H0962\|בֹ֣ז]] [[H0853\|אֶת]][[H9014\|־]] [[H7998\|שְׁלָלָ]][[H9028\|ם֒]] [[H9001\|וַ]][[H4672\|יִּמְצְאוּ֩]] [[H9003\|בָ]][[H9038\|הֶ֨ם]] [[H9005\|לָ]][[H7230\|רֹ֜ב]] [[H9002\|וּ]][[H7399\|רְכ֤וּשׁ]] [[H9002\|וּ]][[H6297\|פְגָרִים֙]] [[H9002\|וּ]][[H3627\|כְלֵ֣י]] [[H2530B\|חֲמֻד֔וֹת]] [[H9001\|וַ]][[H5337\|יְנַצְּל֥וּ]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9005\|לְ]][[H0369\|אֵ֣ין]] [[H4853A\|מַשָּׂ֑א]] [[H9001\|וַ]][[H1961\|יִּֽהְי֞וּ]] [[H3117G\|יָמִ֧ים]] [[H7969\|שְׁלוֹשָׁ֛ה]] [[H0962\|בֹּזְזִ֥ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7998\|שָּׁלָ֖ל]] [[H3588A\|כִּ֥י]] [[H7227A\|רַב]][[H9014\|־]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic GOD|GOD]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic PRAYER|PRAYER]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.24|<< 2 Chronicles 20:24]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.26|2 Chronicles 20:26 >>]]</td></tr></table>
 

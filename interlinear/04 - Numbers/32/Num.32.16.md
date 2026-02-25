@@ -1,8 +1,66 @@
+---
+title: Numbers 32:16
+type: Verse
+kjv: "And they came near unto him, and said, We will build sheepfolds here for our cattle, and cities for our little ones:"
+bsb: "Then the Gadites and Reubenites approached Moses and said, “We want to build sheepfolds here for our livestock and cities for our little ones."
+hebrew: "וַיִּגְּשׁ֤וּ אֵלָיו֙ וַ֣יֹּאמְר֔וּ גִּדְרֹ֥ת צֹ֛אן נִבְנֶ֥ה לְמִקְנֵ֖נוּ פֹּ֑ה וְעָרִ֖ים לְטַפֵּֽנוּ׃"
+pericope: "[[Num.32.1 The Tribes East of the Jordan|The Tribes East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 32
+book/chapter: "[[Num.32|Numbers 32]]"
+chronological_order: 192
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GAD|GAD]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic HASTE|HASTE]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5066G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H1448]]"
+- "[[H6629G]]"
+- "[[H1129]]"
+- "[[H9005]]"
+- "[[H4735]]"
+- "[[H9025]]"
+- "[[H6311]]"
+- "[[H9002]]"
+- "[[H5892B]]"
+- "[[H2945]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 32:16**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they came near unto him, and said, We will build sheepfolds here for our cattle, and cities for our little ones:
 <small><sub>**BSB:**</sub></small>
 Then the Gadites and Reubenites approached Moses and said, “We want to build sheepfolds here for our livestock and cities for our little ones.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5066G\|יִּגְּשׁ֤וּ]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H9001\|וַ֣]][[H0559\|יֹּאמְר֔וּ]] [[H1448\|גִּדְרֹ֥ת]] [[H6629G\|צֹ֛אן]] [[H1129\|נִבְנֶ֥ה]] [[H9005\|לְ]][[H4735\|מִקְנֵ֖]][[H9025\|נוּ]] [[H6311\|פֹּ֑ה]] [[H9002\|וְ]][[H5892B\|עָרִ֖ים]] [[H9005\|לְ]][[H2945\|טַפֵּֽ]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAD|GAD]] • [[topic GILEAD|GILEAD]] • [[topic HASTE|HASTE]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic SHEPHERD|SHEPHERD]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.15|<< Numbers 32:15]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.17|Numbers 32:17 >>]]</td></tr></table>
 

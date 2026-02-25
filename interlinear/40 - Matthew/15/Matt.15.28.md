@@ -1,10 +1,70 @@
+---
+title: Matthew 15:28
+type: Verse
+kjv: "Then Jesus answered and said unto her, O woman, great is thy faith: be it unto thee even as thou wilt. And her daughter was made whole from that very hour."
+bsb: "“O woman,” Jesus answered, “your faith is great! Let it be done for you as you desire.” And her daughter was healed from that very hour."
+jesus_said: "O woman, great is thy faith: be it unto thee even as thou wilt."
+greek: "Τότε ἀποκριθεὶς ὁ Ἰησοῦς εἶπεν αὐτῇ· ὦ γύναι, μεγάλη σου ἡ πίστις· γενηθήτω σοι ὡς θέλεις. καὶ ἰάθη ἡ θυγάτηρ αὐτῆς ἀπὸ τῆς ὥρας ἐκείνης.¶"
+pericope: "[[Matt.15.21 The Faith of the Canaanite Woman|The Faith of the Canaanite Woman]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 15
+book/chapter: "[[Matt.15|Matthew 15]]"
+chronological_order: 965
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SIDON|SIDON]]"
+- "[[topic SYRO-PHOENICIAN|SYRO-PHOENICIAN]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[G5119]]"
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G5599]]"
+- "[[G1135G]]"
+- "[[G3173]]"
+- "[[G4771]]"
+- "[[G4102G]]"
+- "[[G1096]]"
+- "[[G5613]]"
+- "[[G2309]]"
+- "[[G2532]]"
+- "[[G2390]]"
+- "[[G2364]]"
+- "[[G0575]]"
+- "[[G5610]]"
+- "[[G1565]]"
+texts:
+- NKO
+---
+
 **Matthew 15:28**<big><big>[[Matt.15.21 The Faith of the Canaanite Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Jesus answered and said unto her, O woman, great [is] thy faith: be it unto thee even as thou wilt. And her daughter was made whole from that very hour.
 <small><sub>**BSB:**</sub></small>
 “O woman,” Jesus answered, “your faith is great! Let it be done for you as you desire.” And her daughter was healed from that very hour.
-<small><sub>**Literal:**</sub></small>
-Then answering <the> Jesus said to her; O woman, great [is] of you the faith! it should be [done] to you as you desire. And was healed the daughter of her from the hour that.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.27|<< Matthew 15:27]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.29|Matthew 15:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G0611\|ἀποκριθεὶς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῇ·]]  [[G5599\|ὦ]]  [[G1135G\|γύναι,]]  [[G3173\|μεγάλη]]  [[G4771\|σου]]  [[G3588\|ἡ]]  [[G4102G\|πίστις·]]  [[G1096\|γενηθήτω]]  [[G4771\|σοι]]  [[G5613\|ὡς]]  [[G2309\|θέλεις.]]  [[G2532\|καὶ]]  [[G2390\|ἰάθη]]  [[G3588\|ἡ]]  [[G2364\|θυγάτηρ]]  [[G0846\|αὐτῆς]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G5610\|ὥρας]]  [[G1565\|ἐκείνης.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHILDREN|CHILDREN]] • [[topic DEMONS|DEMONS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic SIDON|SIDON]] • [[topic SYRO-PHOENICIAN|SYRO-PHOENICIAN]] • [[topic TYRE|TYRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.27|<< Matthew 15:27]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.29|Matthew 15:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

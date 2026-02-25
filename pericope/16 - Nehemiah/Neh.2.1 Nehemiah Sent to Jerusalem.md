@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Nehemiah Sent to Jerusalem
+type: Pericope
 pericope: "[[Neh.2.1 Nehemiah Sent to Jerusalem|Nehemiah Sent to Jerusalem]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Nehemiah
 chapter: 2
 book/chapter: "[[Neh.2|Nehemiah 2]]"
-genre:
+chronological_order: 914
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
 - building codes
+verse_count: 10
 verses:
 - "[[Neh.2.1]]"
 - "[[Neh.2.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Neh.2.10]]"
 ---
 
-[[Neh.2|Nehemiah 2:1 - Nehemiah 2:10]]
+<small>[[Neh.2|Nehemiah 2:1-10]]</small>
 *Nehemiah Sent to Jerusalem*
 
 [[Neh.2.1|1]] And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king, \[that\] wine \[was\] before him: and I took up the wine, and gave \[it\] unto the king. Now I had not been \[beforetime\] sad in his presence.

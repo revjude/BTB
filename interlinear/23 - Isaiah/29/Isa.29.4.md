@@ -1,8 +1,62 @@
+---
+title: Isaiah 29:4
+type: Verse
+kjv: "And thou shalt be brought down, and shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust."
+bsb: "You will be brought low, you will speak from the ground, and out of the dust your words will be muffled. Your voice will be like a spirit from the ground; your speech will whisper out of the dust."
+hebrew: "וְשָׁפַלְתְּ֙ מֵאֶ֣רֶץ תְּדַבֵּ֔רִי וּמֵֽעָפָ֖ר תִּשַּׁ֣ח אִמְרָתֵ֑ךְ וְֽ֠הָיָה כְּא֤וֹב מֵאֶ֙רֶץ֙ קוֹלֵ֔ךְ וּמֵעָפָ֖ר אִמְרָתֵ֥ךְ תְּצַפְצֵֽף׃"
+pericope: "[[Isa.29.1 Woe to David’s City|Woe to David’s City]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 29
+book/chapter: "[[Isa.29|Isaiah 29]]"
+chronological_order: 672
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic NECROMANCY|NECROMANCY]]"
+- "[[topic SORCERY|SORCERY]]"
+- "[[topic VENTRILOQUISM|VENTRILOQUISM]]"
+strongs:
+- "[[H9001]]"
+- "[[H8213]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H1696G]]"
+- "[[H9002]]"
+- "[[H6083]]"
+- "[[H7817]]"
+- "[[H0565A]]"
+- "[[H9022]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0178]]"
+- "[[H0776H]]"
+- "[[H6963A]]"
+- "[[H6850]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 29:4**<big><big>[[Isa.29.1 Woe to David’s City|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt be brought down, [and] shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust.
 <small><sub>**BSB:**</sub></small>
 You will be brought low, you will speak from the ground, and out of the dust your words will be muffled. Your voice will be like a spirit from the ground; your speech will whisper out of the dust.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8213\|שָׁפַלְתְּ֙]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H1696G\|תְּדַבֵּ֔רִי]] [[H9002\|וּ]][[H9006\|מֵֽ]][[H6083\|עָפָ֖ר]] [[H7817\|תִּשַּׁ֣ח]] [[H0565A\|אִמְרָתֵ֑]][[H9022\|ךְ]] [[H9001\|וְֽ֠]][[H1961\|הָיָה]] [[H9004\|כְּ]][[H0178\|א֤וֹב]] [[H9006\|מֵ]][[H0776H\|אֶ֙רֶץ֙]] [[H6963A\|קוֹלֵ֔]][[H9022\|ךְ]] [[H9002\|וּ]][[H9006\|מֵ]][[H6083\|עָפָ֖ר]] [[H0565A\|אִמְרָתֵ֥]][[H9022\|ךְ]] [[H6850\|תְּצַפְצֵֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic NECROMANCY|NECROMANCY]] • [[topic SORCERY|SORCERY]] • [[topic VENTRILOQUISM|VENTRILOQUISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.29.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.3|<< Isaiah 29:3]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.5|Isaiah 29:5 >>]]</td></tr></table>
 

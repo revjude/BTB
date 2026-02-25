@@ -1,8 +1,74 @@
+---
+title: Ezekiel 37:9
+type: Verse
+kjv: "Then said he unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus saith the Lord GOD; Come from the four winds, O breath, and breathe upon these slain, that they may live."
+bsb: "Then He said to me, “Prophesy to the breath; prophesy, son of man, and tell the breath that this is what the Lord GOD says: Come from the four winds, O breath, and breathe into these slain, so that they may live!”"
+hebrew: "וַיֹּ֣אמֶר אֵלַ֔י הִנָּבֵ֖א אֶל־ הָר֑וּחַ הִנָּבֵ֣א בֶן־ אָ֠דָם וְאָמַרְתָּ֨ אֶל־ הָר֜וּחַ כֹּֽה־ אָמַ֣ר׀ אֲדֹנָ֣י יְהוִ֗ה מֵאַרְבַּ֤ע רוּחוֹת֙ בֹּ֣אִי הָר֔וּחַ וּפְחִ֛י בַּהֲרוּגִ֥ים הָאֵ֖לֶּה וְיִֽחְיֽוּ׃"
+pericope: "[[Ezek.37.1 The Valley of Dry Bones|The Valley of Dry Bones]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 37
+book/chapter: "[[Ezek.37|Ezekiel 37]]"
+chronological_order: 828
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BONES|BONES]]"
+- "[[topic BREATH|BREATH]]"
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H5012]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7307H]]"
+- "[[H1121A]]"
+- "[[H0120G]]"
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9006]]"
+- "[[H0702]]"
+- "[[H0935G]]"
+- "[[H9002]]"
+- "[[H5301]]"
+- "[[H9003]]"
+- "[[H2026]]"
+- "[[H0428]]"
+- "[[H2421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 37:9**<big><big>[[Ezek.37.1 The Valley of Dry Bones|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said he unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus saith the Lord GOD; Come from the four winds, O breath, and breathe upon these slain, that they may live.
 <small><sub>**BSB:**</sub></small>
 Then He said to me, “Prophesy to the breath; prophesy, son of man, and tell the breath that this is what the Lord GOD says: Come from the four winds, O breath, and breathe into these slain, so that they may live!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H5012\|הִנָּבֵ֖א]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H7307H\|ר֑וּחַ]] [[H5012\|הִנָּבֵ֣א]] [[H1121A\|בֶן]][[H9014\|־]] [[H0120G\|אָ֠דָם]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֨]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H7307H\|ר֜וּחַ]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֣ר]][[H9015\|׀]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֗ה]] [[H9006\|מֵ]][[H0702\|אַרְבַּ֤ע]] [[H7307H\|רוּחוֹת֙]] [[H0935G\|בֹּ֣אִי]] [[H9009\|הָ]][[H7307H\|ר֔וּחַ]] [[H9002\|וּ]][[H5301\|פְחִ֛י]] [[H9003\|בַּ]][[H2026\|הֲרוּגִ֥ים]] [[H9009\|הָ]][[H0428\|אֵ֖לֶּה]] [[H9002\|וְ]][[H2421\|יִֽחְיֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BONES|BONES]] • [[topic BREATH|BREATH]] • [[topic EZEKIEL|EZEKIEL]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic REGENERATION|REGENERATION]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SYMBOLS|SYMBOLS]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.8|<< Ezekiel 37:8]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.10|Ezekiel 37:10 >>]]</td></tr></table>
 

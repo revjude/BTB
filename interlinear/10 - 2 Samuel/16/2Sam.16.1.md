@@ -1,8 +1,73 @@
+---
+title: 2 Samuel 16:1
+type: Verse
+kjv: "And when David was a little past the top of the hill, behold, Ziba the servant of Mephibosheth met him, with a couple of asses saddled, and upon them two hundred loaves of bread, and an hundred bunches of raisins, and an hundred of summer fruits, and a bottle of wine."
+bsb: "When David had gone a little beyond the summit, Ziba the servant of Mephibosheth was there to meet him. He had a pair of saddled donkeys loaded with two hundred loaves of bread, a hundred clusters of raisins, a hundred summer fruits, and a skin of wine."
+hebrew: "וְדָוִ֗ד עָבַ֤ר מְעַט֙ מֵֽהָרֹ֔אשׁ וְהִנֵּ֥ה צִיבָ֛א נַ֥עַר מְפִי־ בֹ֖שֶׁת לִקְרָאת֑וֹ וְצֶ֨מֶד חֲמֹרִ֜ים חֲבֻשִׁ֗ים וַעֲלֵיהֶם֩ מָאתַ֨יִם לֶ֜חֶם וּמֵאָ֧ה צִמּוּקִ֛ים וּמֵ֥אָה קַ֖יִץ וְנֵ֥בֶל יָֽיִן׃"
+pericope: "[[2Sam.16.1 David and Ziba|David and Ziba]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 16
+book/chapter: "[[2Sam.16|2 Samuel 16]]"
+chronological_order: 415
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ASS (DONKEY)|ASS (DONKEY)]]"
+- "[[topic MEPHIBOSHETH|MEPHIBOSHETH]]"
+- "[[topic RAISINS|RAISINS]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SUMMER|SUMMER]]"
+- "[[topic ZIBA|ZIBA]]"
+strongs:
+- "[[H9002]]"
+- "[[H1732]]"
+- "[[H5674A]]"
+- "[[H4592]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H7218I]]"
+- "[[H2009]]"
+- "[[H6717]]"
+- "[[H5288]]"
+- "[[H4648G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H9033]]"
+- "[[H6776]]"
+- "[[H2543]]"
+- "[[H2280]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H3967]]"
+- "[[H3899H]]"
+- "[[H6778]]"
+- "[[H7019]]"
+- "[[H5035A]]"
+- "[[H3196]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 16:1**<big><big>[[2Sam.16.1 David and Ziba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when David was a little past the top [of the hill], behold, Ziba the servant of Mephibosheth met him, with a couple of asses saddled, and upon them two hundred [loaves] of bread, and an hundred bunches of raisins, and an hundred of summer fruits, and a bottle of wine.
 <small><sub>**BSB:**</sub></small>
 When David had gone a little beyond the summit, Ziba the servant of Mephibosheth was there to meet him. He had a pair of saddled donkeys loaded with two hundred loaves of bread, a hundred clusters of raisins, a hundred summer fruits, and a skin of wine.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1732\|דָוִ֗ד]] [[H5674A\|עָבַ֤ר]] [[H4592\|מְעַט֙]] [[H9006\|מֵֽ]][[H9009\|הָ]][[H7218I\|רֹ֔אשׁ]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H6717\|צִיבָ֛א]] [[H5288\|נַ֥עַר]] [[H4648G\|מְפִי]][[H9014\|־]] [[H4648G\|בֹ֖שֶׁת]] [[H9005\|לִ]][[H7122G\|קְרָאת֑]][[H9033\|וֹ]] [[H9002\|וְ]][[H6776\|צֶ֨מֶד]] [[H2543\|חֲמֹרִ֜ים]] [[H2280\|חֲבֻשִׁ֗ים]] [[H9002\|וַ]][[H5921A\|עֲלֵי]][[H9038\|הֶם֩]] [[H3967\|מָאתַ֨יִם]] [[H3899H\|לֶ֜חֶם]] [[H9002\|וּ]][[H3967\|מֵאָ֧ה]] [[H6778\|צִמּוּקִ֛ים]] [[H9002\|וּ]][[H3967\|מֵ֥אָה]] [[H7019\|קַ֖יִץ]] [[H9002\|וְ]][[H5035A\|נֵ֥בֶל]] [[H3196\|יָֽיִן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASS (DONKEY)|ASS (DONKEY)]] • [[topic MEPHIBOSHETH|MEPHIBOSHETH]] • [[topic RAISINS|RAISINS]] • [[topic SERVANT|SERVANT]] • [[topic SUMMER|SUMMER]] • [[topic ZIBA|ZIBA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.16.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.37|<< 2 Samuel 15:37]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.2|2 Samuel 16:2 >>]]</td></tr></table>
 

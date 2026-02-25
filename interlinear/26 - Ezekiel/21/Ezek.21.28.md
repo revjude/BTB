@@ -1,8 +1,68 @@
+---
+title: Ezekiel 21:28
+type: Verse
+kjv: "And thou, son of man, prophesy and say, Thus saith the Lord GOD concerning the Ammonites, and concerning their reproach; even say thou, The sword, the sword is drawn: for the slaughter it is furbished, to consume because of the glittering:"
+bsb: "Now prophesy, son of man, and declare that this is what the Lord GOD says concerning the Ammonites and their contempt: ‘A sword! A sword is drawn for slaughter, polished to consume, to flash like lightning—"
+hebrew: "וְאַתָּ֣ה בֶן־ אָדָ֗ם הִנָּבֵ֤א וְאָֽמַרְתָּ֙ כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהֹוִ֔ה אֶל־ בְּנֵ֥י עַמּ֖וֹן וְאֶל־ חֶרְפָּתָ֑ם וְאָמַרְתָּ֗ חֶ֣רֶב חֶ֤רֶב פְּתוּחָה֙ לְטֶ֣בַח מְרוּטָ֔ה לְהָכִ֖יל לְמַ֥עַן בָּרָֽק׃"
+pericope: "[[Ezek.21.1 God’s Sword of Judgment|God’s Sword of Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 21
+book/chapter: "[[Ezek.21|Ezekiel 21]]"
+chronological_order: 812
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H5012]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H0413]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H2781]]"
+- "[[H9028]]"
+- "[[H2719]]"
+- "[[H6605A]]"
+- "[[H9005]]"
+- "[[H2874]]"
+- "[[H4803]]"
+- "[[H3557]]"
+- "[[H4616]]"
+- "[[H1300B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 21:28**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou, son of man, prophesy and say, Thus saith the Lord GOD concerning the Ammonites, and concerning their reproach; even say thou, The sword, the sword [is] drawn: for the slaughter [it is] furbished, to consume because of the glittering:
 <small><sub>**BSB:**</sub></small>
 Now prophesy, son of man, and declare that this is what the Lord GOD says concerning the Ammonites and their contempt: ‘A sword! A sword is drawn for slaughter, polished to consume, to flash like lightning—
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֣ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H0120G\|אָדָ֗ם]] [[H5012\|הִנָּבֵ֤א]] [[H9001\|וְ]][[H0559\|אָֽמַרְתָּ֙]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהֹוִ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H5983\|עַמּ֖וֹן]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H2781\|חֶרְפָּתָ֑]][[H9028\|ם]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֗]] [[H2719\|חֶ֣רֶב]] [[H2719\|חֶ֤רֶב]] [[H6605A\|פְּתוּחָה֙]] [[H9005\|לְ]][[H2874\|טֶ֣בַח]] [[H4803\|מְרוּטָ֔ה]] [[H9005\|לְ]][[H3557\|הָכִ֖יל]] [[H4616\|לְמַ֥עַן]] [[H1300B\|בָּרָֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.27|<< Ezekiel 21:27]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.29|Ezekiel 21:29 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: 2 Chronicles 11:10
+type: Verse
+kjv: "And Zorah, and Aijalon, and Hebron, which are in Judah and in Benjamin fenced cities."
+bsb: "Zorah, Aijalon, and Hebron, the fortified cities in Judah and Benjamin."
+hebrew: "וְאֶת־ צָרְעָה֙ וְאֶת־ אַיָּל֔וֹן וְאֶת־ חֶבְר֔וֹן אֲשֶׁ֥ר בִּיהוּדָ֖ה וּבְבִנְיָמִ֑ן עָרֵ֖י מְצֻרֽוֹת׃"
+pericope: "[[2Chr.11.5 Rehoboam Fortifies Judah|Rehoboam Fortifies Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 11
+book/chapter: "[[2Chr.11|2 Chronicles 11]]"
+chronological_order: 557
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AJALON|AJALON]]"
+- "[[topic CITIES|CITIES]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic ZORAH|ZORAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6881]]"
+- "[[H0357]]"
+- "[[H2275A]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H3063G]]"
+- "[[H1144G]]"
+- "[[H5892B]]"
+- "[[H4694]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 11:10**<big><big>[[2Chr.11.5 Rehoboam Fortifies Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Zorah, and Aijalon, and Hebron, which [are] in Judah and in Benjamin fenced cities.
 <small><sub>**BSB:**</sub></small>
 Zorah, Aijalon, and Hebron, the fortified cities in Judah and Benjamin.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6881\|צָרְעָה֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0357\|אַיָּל֔וֹן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2275A\|חֶבְר֔וֹן]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בִּ]][[H3063G\|יהוּדָ֖ה]] [[H9002\|וּ]][[H9003\|בְ]][[H1144G\|בִנְיָמִ֑ן]] [[H5892B\|עָרֵ֖י]] [[H4694\|מְצֻרֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AJALON|AJALON]] • [[topic CITIES|CITIES]] • [[topic HEBRON|HEBRON]] • [[topic REHOBOAM|REHOBOAM]] • [[topic ZORAH|ZORAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.11.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.11.9|<< 2 Chronicles 11:9]]</td><td align="center" style="border:none;">[[2Chr.11|2 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.11.11|2 Chronicles 11:11 >>]]</td></tr></table>
 

@@ -1,10 +1,54 @@
+---
+title: Galatians 4:26
+type: Verse
+kjv: "But Jerusalem which is above is free, which is the mother of us all."
+bsb: "But the Jerusalem above is free, and she is our mother."
+greek: "ἡ δὲ ἄνω Ἰερουσαλὴμ ἐλευθέρα ἐστὶν ἥτις ἐστὶν μήτηρ πάντων ἡμῶν·"
+pericope: "[[Gal.4.21 Hagar and Sarah|Hagar and Sarah]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 4
+book/chapter: "[[Gal.4|Galatians 4]]"
+chronological_order: 1042
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0507]]"
+- "[[G2419]]"
+- "[[G1658]]"
+- "[[G1510]]"
+- "[[G3748]]"
+- "[[G3384]]"
+- "[[G3956]]"
+- "[[G3165]]"
+texts:
+- NKO
+- K
+---
+
 **Galatians 4:26**<big><big>[[Gal.4.21 Hagar and Sarah|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Jerusalem which is above is free, which is the mother of us all.
 <small><sub>**BSB:**</sub></small>
 But the Jerusalem above is free, and she is our mother.
-<small><sub>**Literal:**</sub></small>
-<the> But the above Jerusalem free is who is mother of all of us;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.25|<< Galatians 4:25]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.27|Galatians 4:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G1161\|δὲ]]  [[G0507\|ἄνω]]  [[G2419\|Ἰερουσαλὴμ]]  [[G1658\|ἐλευθέρα]]  [[G1510\|ἐστὶν]]  [[G3748\|ἥτις]]  [[G1510\|ἐστὶν]]  [[G3384\|μήτηρ]]  [[G3956\|πάντων]]  [[G3165\|ἡμῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CHURCH|CHURCH]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic PARABLES|PARABLES]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.25|<< Galatians 4:25]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.27|Galatians 4:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

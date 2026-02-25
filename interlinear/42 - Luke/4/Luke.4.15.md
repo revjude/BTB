@@ -1,10 +1,51 @@
+---
+title: Luke 4:15
+type: Verse
+kjv: "And he taught in their synagogues, being glorified of all."
+bsb: "He taught in their synagogues and was glorified by everyone."
+greek: "καὶ αὐτὸς ἐδίδασκεν ἐν ταῖς συναγωγαῖς αὐτῶν δοξαζόμενος ὑπὸ πάντων.¶"
+pericope: "[[Luke.4.14 Jesus Begins His Ministry|Jesus Begins His Ministry]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 4
+book/chapter: "[[Luke.4|Luke 4]]"
+chronological_order: 938
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+strongs:
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G1321]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4864]]"
+- "[[G1392]]"
+- "[[G5259G]]"
+- "[[G3956]]"
+texts:
+- NKO
+---
+
 **Luke 4:15**<big><big>[[Luke.4.14 Jesus Begins His Ministry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he taught in their synagogues, being glorified of all.
 <small><sub>**BSB:**</sub></small>
 He taught in their synagogues and was glorified by everyone.
-<small><sub>**Literal:**</sub></small>
-And He himself was teaching in the synagogues of them being glorified by all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.14|<< Luke 4:14]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.16|Luke 4:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G1321\|ἐδίδασκεν]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G4864\|συναγωγαῖς]]  [[G0846\|αὐτῶν]]  [[G1392\|δοξαζόμενος]]  [[G5259G\|ὑπὸ]]  [[G3956\|πάντων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SYNAGOGUE|SYNAGOGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.14|<< Luke 4:14]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.16|Luke 4:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

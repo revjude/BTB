@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Chosen Servant
+type: Pericope
 pericope: "[[Matt.12.15 God’s Chosen Servant|God’s Chosen Servant]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 12
 book/chapter: "[[Matt.12|Matthew 12]]"
-genre:
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 7
 verses:
 - "[[Matt.12.15]]"
 - "[[Matt.12.16]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Matt.12.21]]"
 ---
 
-[[Matt.12|Matthew 12:15 - Matthew 12:21]]
+<small>[[Matt.12|Matthew 12:15-21]]</small>
 *God’s Chosen Servant*
 
 [[Matt.12.15|15]] But when Jesus knew \[it\], he withdrew himself from thence: and great multitudes followed him, and he healed them all;

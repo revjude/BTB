@@ -1,10 +1,72 @@
+---
+title: John 9:16
+type: Verse
+kjv: "Therefore said some of the Pharisees, This man is not of God, because he keepeth not the sabbath day. Others said, How can a man that is a sinner do such miracles? And there was a division among them."
+bsb: "Because of this, some of the Pharisees said, “This man is not from God, for He does not keep the Sabbath.” But others said, “How can a sinful man perform such signs?” And there was division among them."
+greek: "ἔλεγον οὖν ἐκ τῶν Φαρισαίων τινές· οὐκ ἔστιν οὗτος παρὰ τοῦ θεοῦ ὁ ἄνθρωπος, ὅτι τὸ σάββατον οὐ τηρεῖ. ἄλλοι δὲ ἔλεγον· πῶς δύναται ἄνθρωπος ἁμαρτωλὸς τοιαῦτα σημεῖα ποιεῖν; καὶ σχίσμα ἦν ἐν αὐτοῖς."
+pericope: "[[John.9.13 The Pharisees Investigate the Healing|The Pharisees Investigate the Healing]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 9
+book/chapter: "[[John.9|John 9]]"
+chronological_order: 983
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3767]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G5330]]"
+- "[[G5100]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G3778]]"
+- "[[G3844]]"
+- "[[G2316]]"
+- "[[G0444]]"
+- "[[G3754H]]"
+- "[[G4521]]"
+- "[[G5083G]]"
+- "[[G0243]]"
+- "[[G1161]]"
+- "[[G4459]]"
+- "[[G1410]]"
+- "[[G0268]]"
+- "[[G5108]]"
+- "[[G4592]]"
+- "[[G4160G]]"
+- "[[G2532]]"
+- "[[G4978]]"
+- "[[G1722]]"
+- "[[G0846]]"
+texts:
+- NKO
+- k
+- no
+---
+
 **John 9:16**<big><big>[[John.9.13 The Pharisees Investigate the Healing|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore said some of the Pharisees, This man is not of God, because he keepeth not the sabbath day. Others said, How can a man that is a sinner do such miracles? And there was a division among them.
 <small><sub>**BSB:**</sub></small>
 Because of this, some of the Pharisees said, “This man is not from God, for He does not keep the Sabbath.” But others said, “How can a sinful man perform such signs?” And there was division among them.
-<small><sub>**Literal:**</sub></small>
-Were saying therefore of the Pharisees some; Not is this from <the> God the man for the Sabbath not He does keep. Others however were saying; How is able a man sinful such signs to do? And division there was among them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.15|<< John 9:15]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.17|John 9:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|ἔλεγον]]  [[G3767\|οὖν]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G5330\|Φαρισαίων]]  [[G5100\|τινές·]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G3778\|οὗτος]]  [[G3844\|παρὰ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|ὁ]]  [[G0444\|ἄνθρωπος,]]  [[G3754H\|ὅτι]]  [[G3588\|τὸ]]  [[G4521\|σάββατον]]  [[G3756\|οὐ]]  [[G5083G\|τηρεῖ.]]  [[G0243\|ἄλλοι]]  [[G1161\|δὲ]]  [[G3004G\|ἔλεγον·]]  [[G4459\|πῶς]]  [[G1410\|δύναται]]  [[G0444\|ἄνθρωπος]]  [[G0268\|ἁμαρτωλὸς]]  [[G5108\|τοιαῦτα]]  [[G4592\|σημεῖα]]  [[G4160G\|ποιεῖν;]]  [[G2532\|καὶ]]  [[G4978\|σχίσμα]]  [[G1510\|ἦν]]  [[G1722\|ἐν]]  [[G0846\|αὐτοῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SABBATH|SABBATH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.15|<< John 9:15]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.17|John 9:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

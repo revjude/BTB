@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The List of Returning Exiles
+type: Pericope
 pericope: "[[Neh.7.4 The List of Returning Exiles|The List of Returning Exiles]]"
-verse_count: 66
+original_language: Hebrew
 testament: Old
 book: Nehemiah
 chapter: 7
 book/chapter: "[[Neh.7|Nehemiah 7]]"
-genre:
+chronological_order: 919
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
 - building codes
+verse_count: 66
 verses:
 - "[[Neh.7.4]]"
 - "[[Neh.7.5]]"
@@ -85,7 +92,7 @@ verses:
 - "[[Neh.7.69]]"
 ---
 
-[[Neh.7|Nehemiah 7:4 - Nehemiah 7:69]]
+<small>[[Neh.7|Nehemiah 7:4-69]]</small>
 *The List of Returning Exiles*
 
 [[Neh.7.4|4]] Now the city \[was\] large and great: but the people \[were\] few therein, and the houses \[were\] not builded.

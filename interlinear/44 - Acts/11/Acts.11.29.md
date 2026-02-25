@@ -1,10 +1,63 @@
+---
+title: Acts 11:29
+type: Verse
+kjv: "Then the disciples, every man according to his ability, determined to send relief unto the brethren which dwelt in Judaea:"
+bsb: "So the disciples, each according to his ability, decided to send relief to the brothers living in Judea."
+greek: "τῶν δὲ μαθητῶν καθὼς εὐπορεῖτό τις, ὥρισαν ἕκαστος αὐτῶν εἰς διακονίαν πέμψαι τοῖς κατοικοῦσιν ἐν τῇ Ἰουδαίᾳ ἀδελφοῖς·"
+pericope: "[[Acts.11.19 The Church at Antioch|The Church at Antioch]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 11
+book/chapter: "[[Acts.11|Acts 11]]"
+chronological_order: 1029
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3101]]"
+- "[[G2531]]"
+- "[[G2141]]"
+- "[[G5100]]"
+- "[[G3724]]"
+- "[[G1538]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G1248]]"
+- "[[G3992]]"
+- "[[G2730]]"
+- "[[G1722]]"
+- "[[G2449]]"
+- "[[G0080]]"
+texts:
+- NKO
+---
+
 **Acts 11:29**<big><big>[[Acts.11.19 The Church at Antioch|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then the disciples, every man according to his ability, determined to send relief unto the brethren which dwelt in Judaea:
 <small><sub>**BSB:**</sub></small>
 So the disciples, each according to his ability, decided to send relief to the brothers living in Judea.
-<small><sub>**Literal:**</sub></small>
-<the> And the disciples even as was prospered anyone, determined each of them for ministry to send to the dwelling in <the> Judea brothers;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.28|<< Acts 11:28]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.30|Acts 11:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τῶν]]  [[G1161\|δὲ]]  [[G3101\|μαθητῶν]]  [[G2531\|καθὼς]]  [[G2141\|εὐπορεῖτό]]  [[G5100\|τις,]]  [[G3724\|ὥρισαν]]  [[G1538\|ἕκαστος]]  [[G0846\|αὐτῶν]]  [[G1519\|εἰς]]  [[G1248\|διακονίαν]]  [[G3992\|πέμψαι]]  [[G3588\|τοῖς]]  [[G2730\|κατοικοῦσιν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2449\|Ἰουδαίᾳ]]  [[G0080\|ἀδελφοῖς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic ANTIOCH|ANTIOCH]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic CHURCH|CHURCH]] • [[topic ELDER|ELDER]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PAUL|PAUL]] • [[topic POOR|POOR]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.28|<< Acts 11:28]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.30|Acts 11:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

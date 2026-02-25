@@ -1,10 +1,60 @@
+---
+title: Acts 9:14
+type: Verse
+kjv: "And here he hath authority from the chief priests to bind all that call on thy name."
+bsb: "And now he is here with authority from the chief priests to arrest all who call on Your name.”"
+greek: "καὶ ὧδε ἔχει ἐξουσίαν παρὰ τῶν ἀρχιερέων δῆσαι πάντας τοὺς ἐπικαλουμένους τὸ ὄνομά σου.¶"
+pericope: "[[Acts.9.10 Ananias Baptizes Saul|Ananias Baptizes Saul]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 9
+book/chapter: "[[Acts.9|Acts 9]]"
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANANIAS|ANANIAS]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic EXTRADITION|EXTRADITION]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SYRIA|SYRIA]]"
+strongs:
+- "[[G2532]]"
+- "[[G5602]]"
+- "[[G2192]]"
+- "[[G1849]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G0749]]"
+- "[[G1210]]"
+- "[[G3956]]"
+- "[[G1941]]"
+- "[[G3686]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **Acts 9:14**<big><big>[[Acts.9.10 Ananias Baptizes Saul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And here he hath authority from the chief priests to bind all that call on thy name.
 <small><sub>**BSB:**</sub></small>
 And now he is here with authority from the chief priests to arrest all who call on Your name.”
-<small><sub>**Literal:**</sub></small>
-and here he has authority from the chief priests to bind all those calling on the name of You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.13|<< Acts 9:13]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.15|Acts 9:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5602\|ὧδε]]  [[G2192\|ἔχει]]  [[G1849\|ἐξουσίαν]]  [[G3844\|παρὰ]]  [[G3588\|τῶν]]  [[G0749\|ἀρχιερέων]]  [[G1210\|δῆσαι]]  [[G3956\|πάντας]]  [[G3588\|τοὺς]]  [[G1941\|ἐπικαλουμένους]]  [[G3588\|τὸ]]  [[G3686\|ὄνομά]]  [[G4771\|σου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANANIAS|ANANIAS]] • [[topic CONVERTS|CONVERTS]] • [[topic DOUBTING|DOUBTING]] • [[topic EXTRADITION|EXTRADITION]] • [[topic HEART|HEART]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PAUL|PAUL]] • [[topic PERSECUTION|PERSECUTION]] • [[topic REGENERATION|REGENERATION]] • [[topic SYRIA|SYRIA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.13|<< Acts 9:13]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.15|Acts 9:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

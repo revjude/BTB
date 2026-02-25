@@ -1,10 +1,70 @@
+---
+title: 1 Corinthians 5:7
+type: Verse
+kjv: "Purge out therefore the old leaven, that ye may be a new lump, as ye are unleavened. For even Christ our passover is sacrificed for us:"
+bsb: "Get rid of the old leaven, that you may be a new unleavened batch, as you really are. For Christ, our Passover lamb, has been sacrificed."
+greek: "ἐκκαθάρατε οὖν τὴν παλαιὰν ζύμην, ἵνα ἦτε νέον φύραμα καθώς ἐστε ἄζυμοι· καὶ γὰρ τὸ πάσχα ἡμῶν ὑπὲρ ἡμῶν ἐτύθη Χριστός."
+pericope: "[[1Cor.5.1 Immorality Rebuked|Immorality Rebuked]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 5
+book/chapter: "[[1Cor.5|1 Corinthians 5]]"
+chronological_order: 1062
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEAVEN (YEAST)|LEAVEN (YEAST)]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G1571]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G3820]]"
+- "[[G2219]]"
+- "[[G2443]]"
+- "[[G1510]]"
+- "[[G3501]]"
+- "[[G5445]]"
+- "[[G2531]]"
+- "[[G0106]]"
+- "[[G2532]]"
+- "[[G1063]]"
+- "[[G3957]]"
+- "[[G3165]]"
+- "[[G5228]]"
+- "[[G2380]]"
+- "[[G5547]]"
+texts:
+- NKO
+- K
+---
+
 **1 Corinthians 5:7**<big><big>[[1Cor.5.1 Immorality Rebuked|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Purge out therefore the old leaven, that ye may be a new lump, as ye are unleavened. For even Christ our passover is sacrificed for us:
 <small><sub>**BSB:**</sub></small>
 Get rid of the old leaven, that you may be a new unleavened batch, as you really are. For Christ, our Passover lamb, has been sacrificed.
-<small><sub>**Literal:**</sub></small>
-do cleanse out therefore the old leaven, that you may be a new lump even as you are unleavened; Also for the Passover lamb of us for us has been sacrificed Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.5.6|<< 1 Corinthians 5:6]]</td><td align="center" style="border:none;">[[1Cor.5|1 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.5.8|1 Corinthians 5:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1571\|ἐκκαθάρατε]]  [[G3767\|οὖν]]  [[G3588\|τὴν]]  [[G3820\|παλαιὰν]]  [[G2219\|ζύμην,]]  [[G2443\|ἵνα]]  [[G1510\|ἦτε]]  [[G3501\|νέον]]  [[G5445\|φύραμα]]  [[G2531\|καθώς]]  [[G1510\|ἐστε]]  [[G0106\|ἄζυμοι·]]  [[G2532\|καὶ]]  [[G1063\|γὰρ]]  [[G3588\|τὸ]]  [[G3957\|πάσχα]]  [[G3165\|ἡμῶν]]  [[G5228\|ὑπὲρ]]  [[G3165\|ἡμῶν]]  [[G2380\|ἐτύθη]]  [[G5547\|Χριστός.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic ADULTERY|ADULTERY]] • [[topic ATONEMENT|ATONEMENT]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic HOLINESS|HOLINESS]] • [[topic INFLUENCE|INFLUENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEAVEN (YEAST)|LEAVEN (YEAST)]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PASSOVER|PASSOVER]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.5.6|<< 1 Corinthians 5:6]]</td><td align="center" style="border:none;">[[1Cor.5|1 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.5.8|1 Corinthians 5:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

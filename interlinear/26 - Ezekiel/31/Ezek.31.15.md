@@ -1,8 +1,72 @@
+---
+title: Ezekiel 31:15
+type: Verse
+kjv: "Thus saith the Lord GOD; In the day when he went down to the grave I caused a mourning: I covered the deep for him, and I restrained the floods thereof, and the great waters were stayed: and I caused Lebanon to mourn for him, and all the trees of the field fainted for him."
+bsb: "This is what the Lord GOD says: ‘On the day it was brought down to Sheol, I caused mourning. I covered the deep because of it; I held back its rivers; its abundant waters were restrained. I made Lebanon mourn for it, and all the trees of the field fainted because of it."
+hebrew: "כֹּֽה־ אָמַ֞ר אֲדֹנָ֣י יְהוִ֗ה בְּי֨וֹם רִדְתּ֤וֹ שְׁא֙וֹלָה֙ הֶאֱבַ֜לְתִּי כִּסֵּ֤תִי עָלָיו֙ אֶת־ תְּה֔וֹם וָֽאֶמְנַע֙ נַהֲרוֹתֶ֔יהָ וַיִּכָּלְא֖וּ מַ֣יִם רַבִּ֑ים וָאַקְדִּ֤ר עָלָיו֙ לְבָנ֔וֹן וְכָל־ עֲצֵ֥י הַשָּׂדֶ֖ה עָלָ֥יו עֻלְפֶּֽה׃"
+pericope: "[[Ezek.31.1 Egypt Will Fall like Assyria|Egypt Will Fall like Assyria]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 31
+book/chapter: "[[Ezek.31|Ezekiel 31]]"
+chronological_order: 822
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H3381]]"
+- "[[H9043]]"
+- "[[H7585]]"
+- "[[H9011]]"
+- "[[H0056]]"
+- "[[H3680]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H8415]]"
+- "[[H9001]]"
+- "[[H4513]]"
+- "[[H5104H]]"
+- "[[H9024]]"
+- "[[H3607]]"
+- "[[H4325G]]"
+- "[[H7227A]]"
+- "[[H6937]]"
+- "[[H3844G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H6086H]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H5969]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 31:15**<big><big>[[Ezek.31.1 Egypt Will Fall like Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the Lord GOD; In the day when he went down to the grave I caused a mourning: I covered the deep for him, and I restrained the floods thereof, and the great waters were stayed: and I caused Lebanon to mourn for him, and all the trees of the field fainted for him.
 <small><sub>**BSB:**</sub></small>
 This is what the Lord GOD says: ‘On the day it was brought down to Sheol, I caused mourning. I covered the deep because of it; I held back its rivers; its abundant waters were restrained. I made Lebanon mourn for it, and all the trees of the field fainted because of it.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֞ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֗ה]] [[H9003\|בְּ]][[H3117G\|י֨וֹם]] [[H3381\|רִדְתּ֤]][[H9043\|וֹ]] [[H7585\|שְׁא֙וֹלָ]][[H9011\|ה֙]] [[H0056\|הֶאֱבַ֜לְתִּי]] [[H3680\|כִּסֵּ֤תִי]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H0853\|אֶת]][[H9014\|־]] [[H8415\|תְּה֔וֹם]] [[H9001\|וָֽ]][[H4513\|אֶמְנַע֙]] [[H5104H\|נַהֲרוֹתֶ֔י]][[H9024\|הָ]] [[H9001\|וַ]][[H3607\|יִּכָּלְא֖וּ]] [[H4325G\|מַ֣יִם]] [[H7227A\|רַבִּ֑ים]] [[H9001\|וָ]][[H6937\|אַקְדִּ֤ר]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H3844G\|לְבָנ֔וֹן]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H6086H\|עֲצֵ֥י]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֖ה]] [[H5921A\|עָלָ֥י]][[H9033\|ו]] [[H5969\|עֻלְפֶּֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.31.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.14|<< Ezekiel 31:14]]</td><td align="center" style="border:none;">[[Ezek.31|Ezekiel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.31.16|Ezekiel 31:16 >>]]</td></tr></table>
 

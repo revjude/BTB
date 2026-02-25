@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Eliphaz：Can a Man Be of Use to God？
+type: Pericope
 pericope: "[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|Eliphaz：Can a Man Be of Use to God？]]"
-verse_count: 30
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 22
 book/chapter: "[[Job.22|Job 22]]"
-genre:
+chronological_order: 33
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 30
 verses:
 - "[[Job.22.1]]"
 - "[[Job.22.2]]"
@@ -49,7 +56,7 @@ verses:
 - "[[Job.22.30]]"
 ---
 
-[[Job.22|Job 22:1 - Job 22:30]]
+<small>[[Job.22|Job 22:1-30]]</small>
 *Eliphaz：Can a Man Be of Use to God？*
 
 [[Job.22.1|1]] Then Eliphaz the Temanite answered and said,

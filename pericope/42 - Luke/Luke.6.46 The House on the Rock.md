@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The House on the Rock
+type: Pericope
 pericope: "[[Luke.6.46 The House on the Rock|The House on the Rock]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Luke
 chapter: 6
 book/chapter: "[[Luke.6|Luke 6]]"
-genre:
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 4
 verses:
 - "[[Luke.6.46]]"
 - "[[Luke.6.47]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Luke.6.49]]"
 ---
 
-[[Luke.6|Luke 6:46 - Luke 6:49]]
+<small>[[Luke.6|Luke 6:46-49]]</small>
 *The House on the Rock*
 
 [[Luke.6.46|46]] And why call ye me, Lord, Lord, and do not the things which I say?

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Angel and Balaam’s Donkey
+type: Pericope
 pericope: "[[Num.22.22 The Angel and Balaam’s Donkey|The Angel and Balaam’s Donkey]]"
-verse_count: 20
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 22
 book/chapter: "[[Num.22|Numbers 22]]"
-genre:
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 20
 verses:
 - "[[Num.22.22]]"
 - "[[Num.22.23]]"
@@ -42,7 +49,7 @@ verses:
 - "[[Num.22.41]]"
 ---
 
-[[Num.22|Numbers 22:22 - Numbers 22:41]]
+<small>[[Num.22|Numbers 22:22-41]]</small>
 *The Angel and Balaam’s Donkey*
 
 [[Num.22.22|22]] And God’s anger was kindled because he went: and the angel of the LORD stood in the way for an adversary against him. Now he was riding upon his ass, and his two servants \[were\] with him.

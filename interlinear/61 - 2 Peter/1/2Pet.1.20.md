@@ -1,10 +1,51 @@
+---
+title: 2 Peter 1:20
+type: Verse
+kjv: "Knowing this first, that no prophecy of the scripture is of any private interpretation."
+bsb: "Above all, you must understand that no prophecy of Scripture comes from one’s own interpretation."
+greek: "τοῦτο πρῶτον γινώσκοντες ὅτι πᾶσα προφητεία γραφῆς ἰδίας ἐπιλύσεως οὐ γίνεται."
+pericope: "[[2Pet.1.16 Eyewitnesses of His Majesty|Eyewitnesses of His Majesty]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 1
+book/chapter: "[[2Pet.1|2 Peter 1]]"
+chronological_order: 1157
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3778]]"
+- "[[G4413G]]"
+- "[[G1097]]"
+- "[[G3754G]]"
+- "[[G3956]]"
+- "[[G4394]]"
+- "[[G1124]]"
+- "[[G2398]]"
+- "[[G1955]]"
+- "[[G3756]]"
+- "[[G1096]]"
+texts:
+- NKO
+---
+
 **2 Peter 1:20**<big><big>[[2Pet.1.16 Eyewitnesses of His Majesty|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Knowing this first, that no prophecy of the scripture is of any private interpretation.
 <small><sub>**BSB:**</sub></small>
 Above all, you must understand that no prophecy of Scripture comes from one’s own interpretation.
-<small><sub>**Literal:**</sub></small>
-this first knowing that any prophecy of Scripture of its own interpretation not is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.19|<< 2 Peter 1:19]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.21|2 Peter 1:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτο]]  [[G4413G\|πρῶτον]]  [[G1097\|γινώσκοντες]]  [[G3754G\|ὅτι]]  [[G3956\|πᾶσα]]  [[G4394\|προφητεία]]  [[G1124\|γραφῆς]]  [[G2398\|ἰδίας]]  [[G1955\|ἐπιλύσεως]]  [[G3756\|οὐ]]  [[G1096\|γίνεται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.19|<< 2 Peter 1:19]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.21|2 Peter 1:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

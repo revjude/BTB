@@ -1,10 +1,63 @@
+---
+title: Galatians 4:14
+type: Verse
+kjv: "And my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, even as Christ Jesus."
+bsb: "And although my illness was a trial to you, you did not despise or reject me. Instead, you welcomed me as if I were an angel of God, as if I were Christ Jesus Himself."
+greek: "καὶ τὸν πειρασμὸν ὑμῶν τὸν ἐν τῇ σαρκί μου οὐκ ἐξουθενήσατε οὐδὲ ἐξεπτύσατε, ἀλλ᾽ ὡς ἄγγελον θεοῦ ἐδέξασθέ με, ὡς Χριστὸν Ἰησοῦν.¶"
+pericope: "[[Gal.4.8 Paul’s Concern for the Galatians|Paul’s Concern for the Galatians]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 4
+book/chapter: "[[Gal.4|Galatians 4]]"
+chronological_order: 1042
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3986H]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G4561]]"
+- "[[G3165]]"
+- "[[G3756]]"
+- "[[G1848]]"
+- "[[G3761]]"
+- "[[G1609]]"
+- "[[G0235]]"
+- "[[G5613]]"
+- "[[G0032G]]"
+- "[[G2316]]"
+- "[[G1209]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- N(K)O
+- k
+---
+
 **Galatians 4:14**<big><big>[[Gal.4.8 Paul’s Concern for the Galatians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, [even] as Christ Jesus.
 <small><sub>**BSB:**</sub></small>
 And although my illness was a trial to you, you did not despise or reject me. Instead, you welcomed me as if I were an angel of God, as if I were Christ Jesus Himself.
-<small><sub>**Literal:**</sub></small>
-and the test of you <the> in the flesh of mine not you did despise [me] nor reject [me] with contempt, but as an angel of God you received me even as Christ Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.13|<< Galatians 4:13]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.15|Galatians 4:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G3986H\|πειρασμὸν]]  [[G4771\|ὑμῶν]]  [[G3588\|τὸν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4561\|σαρκί]]  [[G3165\|μου]]  [[G3756\|οὐκ]]  [[G1848\|ἐξουθενήσατε]]  [[G3761\|οὐδὲ]]  [[G1609\|ἐξεπτύσατε,]]  [[G0235\|ἀλλ᾽]]  [[G5613\|ὡς]]  [[G0032G\|ἄγγελον]]  [[G2316\|θεοῦ]]  [[G1209\|ἐδέξασθέ]]  [[G3165\|με,]]  [[G5613\|ὡς]]  [[G5547\|Χριστὸν]]  [[G2424G\|Ἰησοῦν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]] • [[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.13|<< Galatians 4:13]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.15|Galatians 4:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

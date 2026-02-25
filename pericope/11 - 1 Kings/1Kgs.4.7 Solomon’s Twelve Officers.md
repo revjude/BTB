@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Solomon’s Twelve Officers
+type: Pericope
 pericope: "[[1Kgs.4.7 Solomon’s Twelve Officers|Solomon’s Twelve Officers]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 4
 book/chapter: "[[1Kgs.4|1 Kings 4]]"
-genre:
+chronological_order: 444
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 13
 verses:
 - "[[1Kgs.4.7]]"
 - "[[1Kgs.4.8]]"
@@ -33,7 +40,7 @@ verses:
 - "[[1Kgs.4.19]]"
 ---
 
-[[1Kgs.4|1 Kings 4:7 - 1 Kings 4:19]]
+<small>[[1Kgs.4|1 Kings 4:7-19]]</small>
 *Solomon’s Twelve Officers*
 
 [[1Kgs.4.7|7]] And Solomon had twelve officers over all Israel, which provided victuals for the king and his household: each man his month in a year made provision.

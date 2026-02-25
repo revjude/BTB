@@ -1,8 +1,55 @@
+---
+title: Proverbs 6:27
+type: Verse
+kjv: "Can a man take fire in his bosom, and his clothes not be burned?"
+bsb: "Can a man embrace fire and his clothes not be burned?"
+hebrew: "הֲיַחְתֶּ֤ה אִ֓ישׁ אֵ֬שׁ בְּחֵיק֑וֹ וּ֝בְגָדָ֗יו לֹ֣א תִשָּׂרַֽפְנָה׃"
+pericope: "[[Prov.6.20 Warnings against Adultery|Warnings against Adultery]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 6
+book/chapter: "[[Prov.6|Proverbs 6]]"
+chronological_order: 461
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9008]]"
+- "[[H2846]]"
+- "[[H0376G]]"
+- "[[H0784]]"
+- "[[H9003]]"
+- "[[H2436I]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0899B]]"
+- "[[H3808]]"
+- "[[H8313]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 6:27**<big><big>[[Prov.6.20 Warnings against Adultery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Can a man take fire in his bosom, and his clothes not be burned?
 <small><sub>**BSB:**</sub></small>
 Can a man embrace fire and his clothes not be burned?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H2846\|יַחְתֶּ֤ה]] [[H0376G\|אִ֓ישׁ]] [[H0784\|אֵ֬שׁ]] [[H9003\|בְּ]][[H2436I\|חֵיק֑]][[H9023\|וֹ]] [[H9002\|וּ֝]][[H0899B\|בְגָדָ֗י]][[H9023\|ו]] [[H3808\|לֹ֣א]] [[H8313\|תִשָּׂרַֽפְנָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WOMEN|WOMEN]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.26|<< Proverbs 6:26]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.28|Proverbs 6:28 >>]]</td></tr></table>
 

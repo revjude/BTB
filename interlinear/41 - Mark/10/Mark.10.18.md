@@ -1,10 +1,61 @@
+---
+title: Mark 10:18
+type: Verse
+kjv: "And Jesus said unto him, Why callest thou me good? there is none good but one, that is, God."
+bsb: "“Why do you call Me good?” Jesus replied. “No one is good except God alone."
+jesus_said: "Why callest thou me good? there is none good but one, that is, God."
+greek: "Ὁ δὲ Ἰησοῦς εἶπεν αὐτῷ· τί με λέγεις ἀγαθόν; οὐδεὶς ἀγαθὸς εἰ μὴ εἷς ὁ θεός."
+pericope: "[[Mark.10.17 The Rich Young Man|The Rich Young Man]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G3165]]"
+- "[[G3004H]]"
+- "[[G0018]]"
+- "[[G3762]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G1520]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Mark 10:18**<big><big>[[Mark.10.17 The Rich Young Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus said unto him, Why callest thou me good? [there is] none good but one, [that is], God.
 <small><sub>**BSB:**</sub></small>
 “Why do you call Me good?” Jesus replied. “No one is good except God alone.
-<small><sub>**Literal:**</sub></small>
-<the> And Jesus said to him; Why Me you call good? No [one is] good only except one <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.17|<< Mark 10:17]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.19|Mark 10:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G5101\|τί]]  [[G3165\|με]]  [[G3004H\|λέγεις]]  [[G0018\|ἀγαθόν;]]  [[G3762\|οὐδεὶς]]  [[G0018\|ἀγαθὸς]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G1520\|εἷς]]  [[G3588\|ὁ]]  [[G2316\|θεός.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RICH, THE|RICH, THE]] • [[topic RICHES|RICHES]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.17|<< Mark 10:17]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.19|Mark 10:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

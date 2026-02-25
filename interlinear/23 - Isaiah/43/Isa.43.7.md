@@ -1,8 +1,64 @@
+---
+title: Isaiah 43:7
+type: Verse
+kjv: "Even every one that is called by my name: for I have created him for my glory, I have formed him; yea, I have made him."
+bsb: "everyone called by My name and created for My glory, whom I have indeed formed and made.”"
+hebrew: "כֹּ֚ל הַנִּקְרָ֣א בִשְׁמִ֔י וְלִכְבוֹדִ֖י בְּרָאתִ֑יו יְצַרְתִּ֖יו אַף־ עֲשִׂיתִֽיו׃"
+pericope: "[[Isa.43.1 Israel’s Only Savior|Israel’s Only Savior]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 43
+book/chapter: "[[Isa.43|Isaiah 43]]"
+chronological_order: 682
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic MAN|MAN]]"
+- "[[topic MISSIONS|MISSIONS]]"
+- "[[topic REGENERATION|REGENERATION]]"
+strongs:
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H7121H]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H3519]]"
+- "[[H1254A]]"
+- "[[H9033]]"
+- "[[H3335G]]"
+- "[[H0637]]"
+- "[[H9014]]"
+- "[[H6213H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 43:7**<big><big>[[Isa.43.1 Israel’s Only Savior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Even] every one that is called by my name: for I have created him for my glory, I have formed him; yea, I have made him.
 <small><sub>**BSB:**</sub></small>
 everyone called by My name and created for My glory, whom I have indeed formed and made.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כֹּ֚ל]] [[H9009\|הַ]][[H7121H\|נִּקְרָ֣א]] [[H9003\|בִ]][[H8034\|שְׁמִ֔]][[H9020\|י]] [[H9002\|וְ]][[H9005\|לִ]][[H3519\|כְבוֹדִ֖]][[H9020\|י]] [[H1254A\|בְּרָאתִ֑י]][[H9033\|ו]] [[H3335G\|יְצַרְתִּ֖י]][[H9033\|ו]] [[H0637\|אַף]][[H9014\|־]] [[H6213H\|עֲשִׂיתִֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]] • [[topic MAN|MAN]] • [[topic MISSIONS|MISSIONS]] • [[topic REGENERATION|REGENERATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.6|<< Isaiah 43:6]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.8|Isaiah 43:8 >>]]</td></tr></table>
 

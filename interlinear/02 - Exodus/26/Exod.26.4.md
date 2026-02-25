@@ -1,8 +1,65 @@
+---
+title: Exodus 26:4
+type: Verse
+kjv: "And thou shalt make loops of blue upon the edge of the one curtain from the selvedge in the coupling; and likewise shalt thou make in the uttermost edge of another curtain, in the coupling of the second."
+bsb: "Make loops of blue material on the edge of the end curtain in the first set, and do the same for the end curtain in the second set."
+hebrew: "וְעָשִׂ֜יתָ לֻֽלְאֹ֣ת תְּכֵ֗לֶת עַ֣ל שְׂפַ֤ת הַיְרִיעָה֙ הָאֶחָ֔ת מִקָּצָ֖ה בַּחֹבָ֑רֶת וְכֵ֤ן תַּעֲשֶׂה֙ בִּשְׂפַ֣ת הַיְרִיעָ֔ה הַקִּ֣יצוֹנָ֔ה בַּמַּחְבֶּ֖רֶת הַשֵּׁנִֽית׃"
+pericope: "[[Exod.26.1 The Ten Curtains for the Tabernacle|The Ten Curtains for the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 26
+book/chapter: "[[Exod.26|Exodus 26]]"
+chronological_order: 118
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TAPESTRY|TAPESTRY]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H3924]]"
+- "[[H8504]]"
+- "[[H5921A]]"
+- "[[H8193I]]"
+- "[[H9009]]"
+- "[[H3407]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H7098]]"
+- "[[H9003]]"
+- "[[H2279]]"
+- "[[H9002]]"
+- "[[H3651C]]"
+- "[[H7020]]"
+- "[[H4225]]"
+- "[[H8145]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 26:4**<big><big>[[Exod.26.1 The Ten Curtains for the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make loops of blue upon the edge of the one curtain from the selvedge in the coupling; and likewise shalt thou make in the uttermost edge of [another] curtain, in the coupling of the second.
 <small><sub>**BSB:**</sub></small>
 Make loops of blue material on the edge of the end curtain in the first set, and do the same for the end curtain in the second set.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213H\|עָשִׂ֜יתָ]] [[H3924\|לֻֽלְאֹ֣ת]] [[H8504\|תְּכֵ֗לֶת]] [[H5921A\|עַ֣ל]] [[H8193I\|שְׂפַ֤ת]] [[H9009\|הַ]][[H3407\|יְרִיעָה֙]] [[H9009\|הָ]][[H0259\|אֶחָ֔ת]] [[H9006\|מִ]][[H7098\|קָּצָ֖ה]] [[H9003\|בַּ]][[H2279\|חֹבָ֑רֶת]] [[H9002\|וְ]][[H3651C\|כֵ֤ן]] [[H6213H\|תַּעֲשֶׂה֙]] [[H9003\|בִּ]][[H8193I\|שְׂפַ֣ת]] [[H9009\|הַ]][[H3407\|יְרִיעָ֔ה]] [[H9009\|הַ]][[H7020\|קִּ֣יצוֹנָ֔ה]] [[H9003\|בַּ]][[H4225\|מַּחְבֶּ֖רֶת]] [[H9009\|הַ]][[H8145\|שֵּׁנִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TABERNACLE|TABERNACLE]] • [[topic TAPESTRY|TAPESTRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.3|<< Exodus 26:3]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.5|Exodus 26:5 >>]]</td></tr></table>
 

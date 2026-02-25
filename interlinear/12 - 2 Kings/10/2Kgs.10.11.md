@@ -1,8 +1,66 @@
+---
+title: 2 Kings 10:11
+type: Verse
+kjv: "So Jehu slew all that remained of the house of Ahab in Jezreel, and all his great men, and his kinsfolks, and his priests, until he left him none remaining."
+bsb: "So Jehu killed everyone in Jezreel who remained of the house of Ahab, as well as all his great men and close friends and priests, leaving him without a single survivor."
+hebrew: "וַיַּ֣ךְ יֵה֗וּא אֵ֣ת כָּל־ הַנִּשְׁאָרִ֤ים לְבֵית־ אַחְאָב֙ בְּיִזְרְעֶ֔אל וְכָל־ גְּדֹלָ֖יו וּמְיֻדָּעָ֣יו וְכֹהֲנָ֑יו עַד־ בִּלְתִּ֥י הִשְׁאִֽיר־ ל֖וֹ שָׂרִֽיד׃"
+pericope: "[[2Kgs.10.1 Ahab’s Seventy Sons Killed|Ahab’s Seventy Sons Killed]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 10
+book/chapter: "[[2Kgs.10|2 Kings 10]]"
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic JEZREEL|JEZREEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H3058H]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7604]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H0256G]]"
+- "[[H9003]]"
+- "[[H3157H]]"
+- "[[H9002]]"
+- "[[H1419A]]"
+- "[[H9023]]"
+- "[[H3045]]"
+- "[[H3548]]"
+- "[[H5704]]"
+- "[[H1115]]"
+- "[[H9033]]"
+- "[[H8300]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 10:11**<big><big>[[2Kgs.10.1 Ahab’s Seventy Sons Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Jehu slew all that remained of the house of Ahab in Jezreel, and all his great men, and his kinsfolks, and his priests, until he left him none remaining.
 <small><sub>**BSB:**</sub></small>
 So Jehu killed everyone in Jezreel who remained of the house of Ahab, as well as all his great men and close friends and priests, leaving him without a single survivor.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5221\|יַּ֣ךְ]] [[H3058H\|יֵה֗וּא]] [[H0853\|אֵ֣ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H7604\|נִּשְׁאָרִ֤ים]] [[H9005\|לְ]][[H1004M\|בֵית]][[H9014\|־]] [[H0256G\|אַחְאָב֙]] [[H9003\|בְּ]][[H3157H\|יִזְרְעֶ֔אל]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1419A\|גְּדֹלָ֖י]][[H9023\|ו]] [[H9002\|וּ]][[H3045\|מְיֻדָּעָ֣י]][[H9023\|ו]] [[H9002\|וְ]][[H3548\|כֹהֲנָ֑י]][[H9023\|ו]] [[H5704\|עַד]][[H9014\|־]] [[H1115\|בִּלְתִּ֥י]] [[H7604\|הִשְׁאִֽיר]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H8300\|שָׂרִֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENTHUSIASM|ENTHUSIASM]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JEHU|JEHU]] • [[topic JEZREEL|JEZREEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.10|<< 2 Kings 10:10]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.12|2 Kings 10:12 >>]]</td></tr></table>
 

@@ -1,6 +1,44 @@
+---
+title: Psalm 75:0
+type: Verse
+kjv: "To the chief Musician, Altaschith, A Psalm or Song of Asaph."
+hebrew: "לַמְנַצֵּ֥חַ אַל־ תַּשְׁחֵ֑ת מִזְמ֖וֹר לְאָסָ֣ף שִֽׁיר׃"
+pericope: "[[Ps.75.1 God’s Righteous Judgment|God’s Righteous Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 75
+book/chapter: "[[Ps.75|Psalm 75]]"
+chronological_order: 507
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9005]]"
+- "[[H5329]]"
+- "[[H0516]]"
+- "[[H9014]]"
+- "[[H4210]]"
+- "[[H0623H]]"
+- "[[H7892A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 75:0**<big><big>[[Ps.75.1 God’s Righteous Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To the chief Musician, Altaschith, A Psalm [or] Song of Asaph.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H5329\|מְנַצֵּ֥חַ]] [[H0516\|אַל]][[H9014\|־]] [[H0516\|תַּשְׁחֵ֑ת]] [[H4210\|מִזְמ֖וֹר]] [[H9005\|לְ]][[H0623H\|אָסָ֣ף]] [[H7892A\|שִֽׁיר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.75.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.23|<< Psalms 74:23]]</td><td align="center" style="border:none;">[[Ps.75|Psalms 75]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.75.1|Psalms 75:1 >>]]</td></tr></table>
 

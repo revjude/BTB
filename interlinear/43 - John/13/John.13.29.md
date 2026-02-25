@@ -1,10 +1,64 @@
+---
+title: John 13:29
+type: Verse
+kjv: "For some of them thought, because Judas had the bag, that Jesus had said unto him, Buy those things that we have need of against the feast; or, that he should give something to the poor."
+bsb: "Since Judas kept the money bag, some thought that Jesus was telling him to buy what was needed for the feast, or to give something to the poor."
+greek: "τινὲς γὰρ ἐδόκουν, ἐπεὶ τὸ γλωσσόκομον εἶχεν ὁ Ἰούδας, ὅτι λέγει αὐτῷ ὁ Ἰησοῦς· ἀγόρασον ὧν χρείαν ἔχομεν εἰς τὴν ἑορτήν, ἢ τοῖς πτωχοῖς ἵνα τι δῷ."
+pericope: "[[John.13.18 Jesus Predicts His Betrayal|Jesus Predicts His Betrayal]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic TRAITOR|TRAITOR]]"
+strongs:
+- "[[G5100]]"
+- "[[G1063]]"
+- "[[G1380]]"
+- "[[G1893]]"
+- "[[G3588]]"
+- "[[G1101]]"
+- "[[G2192]]"
+- "[[G2455H]]"
+- "[[G3754H]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G2424G]]"
+- "[[G0059]]"
+- "[[G3739]]"
+- "[[G5532]]"
+- "[[G1519]]"
+- "[[G1859]]"
+- "[[G2228]]"
+- "[[G4434]]"
+- "[[G2443]]"
+- "[[G1325]]"
+texts:
+- NKO
+- k
+---
+
 **John 13:29**<big><big>[[John.13.18 Jesus Predicts His Betrayal|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For some [of them] thought, because Judas had the bag, that Jesus had said unto him, Buy [those things] that we have need of against the feast; or, that he should give something to the poor.
 <small><sub>**BSB:**</sub></small>
 Since Judas kept the money bag, some thought that Jesus was telling him to buy what was needed for the feast, or to give something to the poor.
-<small><sub>**Literal:**</sub></small>
-Some for were thinking, since the money bag had <the> Judas, for is saying to him <the> Jesus; do buy what things need [of] we have for the feast, or to the poor that something he may give.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.28|<< John 13:28]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.30|John 13:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5100\|τινὲς]]  [[G1063\|γὰρ]]  [[G1380\|ἐδόκουν,]]  [[G1893\|ἐπεὶ]]  [[G3588\|τὸ]]  [[G1101\|γλωσσόκομον]]  [[G2192\|εἶχεν]]  [[G3588\|ὁ]]  [[G2455H\|Ἰούδας,]]  [[G3754H\|ὅτι]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G0059\|ἀγόρασον]]  [[G3739\|ὧν]]  [[G5532\|χρείαν]]  [[G2192\|ἔχομεν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1859\|ἑορτήν,]]  [[G2228\|ἢ]]  [[G3588\|τοῖς]]  [[G4434\|πτωχοῖς]]  [[G2443\|ἵνα]]  [[G5100\|τι]]  [[G1325\|δῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic TRAITOR|TRAITOR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.28|<< John 13:28]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.30|John 13:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

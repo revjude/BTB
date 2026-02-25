@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Residents Outside Jerusalem
+type: Pericope
 pericope: "[[Neh.11.20 Residents Outside Jerusalem|Residents Outside Jerusalem]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Nehemiah
 chapter: 11
 book/chapter: "[[Neh.11|Nehemiah 11]]"
-genre:
+chronological_order: 923
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
 - building codes
+verse_count: 17
 verses:
 - "[[Neh.11.20]]"
 - "[[Neh.11.21]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Neh.11.36]]"
 ---
 
-[[Neh.11|Nehemiah 11:20 - Nehemiah 11:36]]
+<small>[[Neh.11|Nehemiah 11:20-36]]</small>
 *Residents Outside Jerusalem*
 
 [[Neh.11.20|20]] And the residue of Israel, of the priests, \[and\] the Levites, \[were\] in all the cities of Judah, every one in his inheritance.

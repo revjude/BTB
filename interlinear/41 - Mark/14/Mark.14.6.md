@@ -1,10 +1,58 @@
+---
+title: Mark 14:6
+type: Verse
+kjv: "And Jesus said, Let her alone; why trouble ye her? she hath wrought a good work on me."
+bsb: "But Jesus said, “Leave her alone; why are you bothering her? She has done a beautiful deed to Me."
+jesus_said: "Let her alone; why trouble ye her? she hath wrought a good work on me."
+greek: "ὁ δὲ Ἰησοῦς εἶπεν· ἄφετε αὐτήν, τί αὐτῇ κόπους παρέχετε; καλὸν ἔργον ἠργάσατο ἐν ἐμοί."
+pericope: "[[Mark.14.3 Jesus Anointed at Bethany|Jesus Anointed at Bethany]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARY|MARY]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G0863G]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G2873]]"
+- "[[G3930]]"
+- "[[G2570G]]"
+- "[[G2041]]"
+- "[[G2038]]"
+- "[[G1722]]"
+- "[[G1473]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 14:6**<big><big>[[Mark.14.3 Jesus Anointed at Bethany|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus said, Let her alone; why trouble ye her? she hath wrought a good work on me.
 <small><sub>**BSB:**</sub></small>
 But Jesus said, “Leave her alone; why are you bothering her? She has done a beautiful deed to Me.
-<small><sub>**Literal:**</sub></small>
-<the> And Jesus said; do leave alone her, why to her trouble do you cause? A good work she did toward Me myself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.5|<< Mark 14:5]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.7|Mark 14:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν·]]  [[G0863G\|ἄφετε]]  [[G0846\|αὐτήν,]]  [[G5101\|τί]]  [[G0846\|αὐτῇ]]  [[G2873\|κόπους]]  [[G3930\|παρέχετε;]]  [[G2570G\|καλὸν]]  [[G2041\|ἔργον]]  [[G2038\|ἠργάσατο]]  [[G1722\|ἐν]]  [[G1473\|ἐμοί.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARY|MARY]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.5|<< Mark 14:5]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.7|Mark 14:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

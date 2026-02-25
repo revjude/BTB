@@ -1,8 +1,55 @@
+---
+title: Jeremiah 10:1
+type: Verse
+kjv: "Hear ye the word which the LORD speaketh unto you, O house of Israel:"
+bsb: "Hear the word that the LORD speaks to you, O house of Israel."
+hebrew: "שִׁמְע֣וּ אֶת־ הַדָּבָ֗ר אֲשֶׁ֨ר דִּבֶּ֧ר יְהוָ֛ה עֲלֵיכֶ֖ם בֵּ֥ית יִשְׂרָאֵֽל׃"
+pericope: "[[Jer.10.1 The Sovereignty of God|The Sovereignty of God]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 10
+book/chapter: "[[Jer.10|Jeremiah 10]]"
+chronological_order: 727
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ASTROLOGY|ASTROLOGY]]"
+strongs:
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 10:1**<big><big>[[Jer.10.1 The Sovereignty of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear ye the word which the LORD speaketh unto you, O house of Israel:
 <small><sub>**BSB:**</sub></small>
 Hear the word that the LORD speaks to you, O house of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שִׁמְע֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דָּבָ֗ר]] [[H0834A\|אֲשֶׁ֨ר]] [[H1696G\|דִּבֶּ֧ר]] [[H3068G\|יְהוָ֛ה]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֖ם]] [[H1004M\|בֵּ֥ית]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTROLOGY|ASTROLOGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.26|<< Jeremiah 9:26]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.2|Jeremiah 10:2 >>]]</td></tr></table>
 

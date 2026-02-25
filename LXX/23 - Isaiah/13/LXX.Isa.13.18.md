@@ -1,6 +1,57 @@
+---
+title: LXX Isaiah 13:18
+type: Verse
+lxx: "They shall break the bows of young men,, and  in no way shall they show mercy upon your children, nor   shall their eyes spare your children."
+greek: "τοξεύματα νεανίσκων συντρίψουσι και τα τέκνα υμών ου μη ελεήσωσιν ουδέ επί τοις τέκνοις σου φείσονται οι οφθαλμοί αυτών"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 13
+book/chapter: "[[Isa.13|Isaiah 13]]"
+chronological_order: 630
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ARCHERY|ARCHERY]]"
+- "[[topic BOW|BOW]]"
+- "[[topic CRUELTY|CRUELTY]]"
+- "[[topic CYRUS|CYRUS]]"
+strongs:
+- "[[G9463]]"
+- "[[G3495]]"
+- "[[G4937]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5043]]"
+- "[[G1473]]"
+- "[[G3364]]"
+- "[[G1653]]"
+- "[[G3761]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G5043]]"
+- "[[G1473]]"
+- "[[G5339]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G1473]]"
+---
+
 **LXX Isaiah 13:18** 
 <small><sub>**LXX:**</sub></small>
 They shall break \[the\] bows of young men,, and  in no way shall they show mercy upon your children, nor   shall their eyes spare your children. 
+<small><sub>**Greek:**</sub></small>
+[[G9463\|τοξεύματα]] [[G3495\|νεανίσκων]] [[G4937\|συντρίψουσι]] [[G2532\|και]] [[G3588\|τα]] [[G5043\|τέκνα]] [[G1473\|υμών]] [[G3364\|ου μη]] [[G1653\|ελεήσωσιν]] [[G3761\|ουδέ]] [[G1909\|επί]] [[G3588\|τοις]] [[G5043\|τέκνοις]] [[G1473\|σου]] [[G5339\|φείσονται]] [[G3588\|οι]] [[G3788\|οφθαλμοί]] [[G1473\|αυτών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARCHERY|ARCHERY]] • [[topic BOW|BOW]] • [[topic CRUELTY|CRUELTY]] • [[topic CYRUS|CYRUS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.13.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.17|<< Isaiah 13:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.19|Isaiah 13:19 >>]]</td></tr></table>
 
@@ -21,6 +72,6 @@ They shall break \[the\] bows of young men,, and  in no way shall they show merc
 | spare | **<big>[[G5339\|φείσονται]]</big>** |
 | \<obj.> | **<big>[[G3588\|οι]]</big>** |
 | shall their eyes | **<big>[[G3788\|οφθαλμοί]]</big>** **<big>[[G1473\|αυτών]]</big>** |
-[[Isa.13.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.17|<< Isaiah 13:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.19|Isaiah 13:19 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.17|<< Isaiah 13:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.19|Isaiah 13:19 >>]]</td></tr></table>
 
 

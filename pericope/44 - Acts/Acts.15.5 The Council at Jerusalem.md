@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Council at Jerusalem
+type: Pericope
 pericope: "[[Acts.15.5 The Council at Jerusalem|The Council at Jerusalem]]"
-verse_count: 17
+original_language: Greek
 testament: New
 book: Acts
 chapter: 15
 book/chapter: "[[Acts.15|Acts 15]]"
-genre:
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 17
 verses:
 - "[[Acts.15.5]]"
 - "[[Acts.15.6]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Acts.15.21]]"
 ---
 
-[[Acts.15|Acts 15:5 - Acts 15:21]]
+<small>[[Acts.15|Acts 15:5-21]]</small>
 *The Council at Jerusalem*
 
 [[Acts.15.5|5]] But there rose up certain of the sect of the Pharisees which believed, saying, That it was needful to circumcise them, and to command \[them\] to keep the law of Moses.

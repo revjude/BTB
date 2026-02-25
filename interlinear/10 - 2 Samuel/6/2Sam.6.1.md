@@ -1,8 +1,56 @@
+---
+title: 2 Samuel 6:1
+type: Verse
+kjv: "Again, David gathered together all the chosen men of Israel, thirty thousand."
+bsb: "David again assembled the chosen men of Israel, thirty thousand in all."
+hebrew: "וַיֹּ֨סֶף ע֥וֹד דָּוִ֛ד אֶת־ כָּל־ בָּח֥וּר בְּיִשְׂרָאֵ֖ל שְׁלֹשִׁ֥ים אָֽלֶף׃"
+pericope: "[[2Sam.6.1 David Fetches the Ark|David Fetches the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 6
+book/chapter: "[[2Sam.6|2 Samuel 6]]"
+chronological_order: 392
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic KIRJATH-JEARIM|KIRJATH-JEARIM]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0622]]"
+- "[[H5750]]"
+- "[[H1732]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H0977]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H7970]]"
+- "[[H0505G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 6:1**<big><big>[[2Sam.6.1 David Fetches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Again, David gathered together all [the] chosen [men] of Israel, thirty thousand.
 <small><sub>**BSB:**</sub></small>
 David again assembled the chosen men of Israel, thirty thousand in all.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0622\|יֹּ֨סֶף]] [[H5750\|ע֥וֹד]] [[H1732\|דָּוִ֛ד]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0977\|בָּח֥וּר]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֖ל]] [[H7970\|שְׁלֹשִׁ֥ים]] [[H0505G\|אָֽלֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic KIRJATH-JEARIM|KIRJATH-JEARIM]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.5.25|<< 2 Samuel 5:25]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.2|2 Samuel 6:2 >>]]</td></tr></table>
 

@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Abijah Reigns in Judah
+type: Pericope
 pericope: "[[2Chr.13.1 Abijah Reigns in Judah|Abijah Reigns in Judah]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 13
 book/chapter: "[[2Chr.13|2 Chronicles 13]]"
-genre:
+chronological_order: 559
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 3
 verses:
 - "[[2Chr.13.1]]"
 - "[[2Chr.13.2]]"
 - "[[2Chr.13.3]]"
 ---
 
-[[2Chr.13|2 Chronicles 13:1 - 2 Chronicles 13:3]]
+<small>[[2Chr.13|2 Chronicles 13:1-3]]</small>
 *Abijah Reigns in Judah*
 
 [[2Chr.13.1|1]] Now in the eighteenth year of king Jeroboam began Abijah to reign over Judah.

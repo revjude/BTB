@@ -1,10 +1,48 @@
+---
+title: Galatians 4:21
+type: Verse
+kjv: "Tell me, ye that desire to be under the law, do ye not hear the law?"
+bsb: "Tell me, you who want to be under the law, do you not understand what the law says?"
+greek: "Λέγετέ μοι, οἱ ὑπὸ νόμον θέλοντες εἶναι, τὸν νόμον οὐκ ἀκούετε;"
+pericope: "[[Gal.4.21 Hagar and Sarah|Hagar and Sarah]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 4
+book/chapter: "[[Gal.4|Galatians 4]]"
+chronological_order: 1042
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G5259H]]"
+- "[[G3551]]"
+- "[[G2309]]"
+- "[[G1511]]"
+- "[[G3756]]"
+- "[[G0191]]"
+texts:
+- NKO
+---
+
 **Galatians 4:21**<big><big>[[Gal.4.21 Hagar and Sarah|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Tell me, ye that desire to be under the law, do ye not hear the law?
 <small><sub>**BSB:**</sub></small>
 Tell me, you who want to be under the law, do you not understand what the law says?
-<small><sub>**Literal:**</sub></small>
-do tell me, you who [are] under [the] Law wishing to be, the Law not you do listen to?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.20|<< Galatians 4:20]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.22|Galatians 4:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Λέγετέ]]  [[G3165\|μοι,]]  [[G3588\|οἱ]]  [[G5259H\|ὑπὸ]]  [[G3551\|νόμον]]  [[G2309\|θέλοντες]]  [[G1511\|εἶναι,]]  [[G3588\|τὸν]]  [[G3551\|νόμον]]  [[G3756\|οὐκ]]  [[G0191\|ἀκούετε;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUSTIFICATION|JUSTIFICATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.20|<< Galatians 4:20]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.22|Galatians 4:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

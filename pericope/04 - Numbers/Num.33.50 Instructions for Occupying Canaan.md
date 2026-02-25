@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Instructions for Occupying Canaan
+type: Pericope
 pericope: "[[Num.33.50 Instructions for Occupying Canaan|Instructions for Occupying Canaan]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 33
 book/chapter: "[[Num.33|Numbers 33]]"
-genre:
+chronological_order: 193
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 7
 verses:
 - "[[Num.33.50]]"
 - "[[Num.33.51]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Num.33.56]]"
 ---
 
-[[Num.33|Numbers 33:50 - Numbers 33:56]]
+<small>[[Num.33|Numbers 33:50-56]]</small>
 *Instructions for Occupying Canaan*
 
 [[Num.33.50|50]] And the LORD spake unto Moses in the plains of Moab by Jordan \[near\] Jericho, saying,

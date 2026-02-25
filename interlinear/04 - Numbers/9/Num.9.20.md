@@ -1,8 +1,63 @@
+---
+title: Numbers 9:20
+type: Verse
+kjv: "And so it was, when the cloud was a few days upon the tabernacle; according to the commandment of the LORD they abode in their tents, and according to the commandment of the LORD they journeyed."
+bsb: "Sometimes the cloud remained over the tabernacle for only a few days, and they would camp at the LORD’s command and set out at the LORD’s command."
+hebrew: "וְיֵ֞שׁ אֲשֶׁ֨ר יִהְיֶ֧ה הֶֽעָנָ֛ן יָמִ֥ים מִסְפָּ֖ר עַל־ הַמִּשְׁכָּ֑ן עַל־ פִּ֤י יְהוָה֙ יַחֲנ֔וּ וְעַל־ פִּ֥י יְהוָ֖ה יִסָּֽעוּ׃"
+pericope: "[[Num.9.15 The Cloud above the Tabernacle|The Cloud above the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 9
+book/chapter: "[[Num.9|Numbers 9]]"
+chronological_order: 168
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic FIRE|FIRE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3426]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H6051]]"
+- "[[H3117G]]"
+- "[[H4557]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4908]]"
+- "[[H6310I]]"
+- "[[H3068G]]"
+- "[[H2583]]"
+- "[[H5265]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 9:20**<big><big>[[Num.9.15 The Cloud above the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [so] it was, when the cloud was a few days upon the tabernacle; according to the commandment of the LORD they abode in their tents, and according to the commandment of the LORD they journeyed.
 <small><sub>**BSB:**</sub></small>
 Sometimes the cloud remained over the tabernacle for only a few days, and they would camp at the LORD’s command and set out at the LORD’s command.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3426\|יֵ֞שׁ]] [[H0834A\|אֲשֶׁ֨ר]] [[H1961\|יִהְיֶ֧ה]] [[H9009\|הֶֽ]][[H6051\|עָנָ֛ן]] [[H3117G\|יָמִ֥ים]] [[H4557\|מִסְפָּ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּ֑ן]] [[H5921A\|עַל]][[H9014\|־]] [[H6310I\|פִּ֤י]] [[H3068G\|יְהוָה֙]] [[H2583\|יַחֲנ֔וּ]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H6310I\|פִּ֥י]] [[H3068G\|יְהוָ֖ה]] [[H5265\|יִסָּֽעוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic FIRE|FIRE]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.9.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9.19|<< Numbers 9:19]]</td><td align="center" style="border:none;">[[Num.9|Numbers 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.21|Numbers 9:21 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Zechariah 8:12
+type: Verse
+kjv: "For the seed shall be prosperous; the vine shall give her fruit, and the ground shall give her increase, and the heavens shall give their dew; and I will cause the remnant of this people to possess all these things."
+bsb: "“For the seed will be prosperous, the vine will yield its fruit, the ground will yield its produce, and the skies will give their dew. To the remnant of this people I will give all these things as an inheritance."
+hebrew: "כִּֽי־ זֶ֣רַע הַשָּׁל֗וֹם הַגֶּ֜פֶן תִּתֵּ֤ן פִּרְיָהּ֙ וְהָאָ֙רֶץ֙ תִּתֵּ֣ן אֶת־ יְבוּלָ֔הּ וְהַשָּׁמַ֖יִם יִתְּנ֣וּ טַלָּ֑ם וְהִנְחַלְתִּ֗י אֶת־ שְׁאֵרִ֛ית הָעָ֥ם הַזֶּ֖ה אֶת־ כָּל־ אֵֽלֶּה׃"
+pericope: "[[Zech.8.1 The Restoration of Jerusalem|The Restoration of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 8
+book/chapter: "[[Zech.8|Zechariah 8]]"
+chronological_order: 864
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2233G]]"
+- "[[H9009]]"
+- "[[H7965G]]"
+- "[[H1612]]"
+- "[[H5414G]]"
+- "[[H6529]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H0776H]]"
+- "[[H0853]]"
+- "[[H2981]]"
+- "[[H8064]]"
+- "[[H2919]]"
+- "[[H9028]]"
+- "[[H9001]]"
+- "[[H5157]]"
+- "[[H7611]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H3605]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 8:12**<big><big>[[Zech.8.1 The Restoration of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the seed [shall be] prosperous; the vine shall give her fruit, and the ground shall give her increase, and the heavens shall give their dew; and I will cause the remnant of this people to possess all these [things].
 <small><sub>**BSB:**</sub></small>
 “For the seed will be prosperous, the vine will yield its fruit, the ground will yield its produce, and the skies will give their dew. To the remnant of this people I will give all these things as an inheritance.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H2233G\|זֶ֣רַע]] [[H9009\|הַ]][[H7965G\|שָּׁל֗וֹם]] [[H9009\|הַ]][[H1612\|גֶּ֜פֶן]] [[H5414G\|תִּתֵּ֤ן]] [[H6529\|פִּרְיָ]][[H9024\|הּ֙]] [[H9002\|וְ]][[H9009\|הָ]][[H0776H\|אָ֙רֶץ֙]] [[H5414G\|תִּתֵּ֣ן]] [[H0853\|אֶת]][[H9014\|־]] [[H2981\|יְבוּלָ֔]][[H9024\|הּ]] [[H9002\|וְ]][[H9009\|הַ]][[H8064\|שָּׁמַ֖יִם]] [[H5414G\|יִתְּנ֣וּ]] [[H2919\|טַלָּ֑]][[H9028\|ם]] [[H9001\|וְ]][[H5157\|הִנְחַלְתִּ֗י]] [[H0853\|אֶת]][[H9014\|־]] [[H7611\|שְׁאֵרִ֛ית]] [[H9009\|הָ]][[H5971A\|עָ֥ם]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.8.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.8.11|<< Zechariah 8:11]]</td><td align="center" style="border:none;">[[Zech.8|Zechariah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.8.13|Zechariah 8:13 >>]]</td></tr></table>
 

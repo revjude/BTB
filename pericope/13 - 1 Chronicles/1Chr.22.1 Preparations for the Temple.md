@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Preparations for the Temple
+type: Pericope
 pericope: "[[1Chr.22.1 Preparations for the Temple|Preparations for the Temple]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 22
 book/chapter: "[[1Chr.22|1 Chronicles 22]]"
-genre:
+chronological_order: 433
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 5
 verses:
 - "[[1Chr.22.1]]"
 - "[[1Chr.22.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[1Chr.22.5]]"
 ---
 
-[[1Chr.22|1 Chronicles 22:1 - 1 Chronicles 22:5]]
+<small>[[1Chr.22|1 Chronicles 22:1-5]]</small>
 *Preparations for the Temple*
 
 [[1Chr.22.1|1]] Then David said, This \[is\] the house of the LORD God, and this \[is\] the altar of the burnt offering for Israel.

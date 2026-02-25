@@ -1,10 +1,64 @@
+---
+title: Ephesians 6:9
+type: Verse
+kjv: "And, ye masters, do the same things unto them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him."
+bsb: "And masters, do the same for your slaves. Give up your use of threats, because you know that He who is both their Master and yours is in heaven, and there is no favoritism with Him."
+greek: "Καὶ οἱ κύριοι, τὰ αὐτὰ ποιεῖτε πρὸς αὐτοὺς ἀνιέντες τὴν ἀπειλήν, εἰδότες ὅτι καὶ αὐτῶν καὶ ὑμῶν ὁ κύριός ἐστιν ἐν οὐρανοῖς καὶ προσωπολημψία οὐκ ἔστιν παρ᾽ αὐτῷ.¶"
+pericope: "[[Eph.6.5 Serving with Honor|Serving with Honor]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 6
+book/chapter: "[[Eph.6|Ephesians 6]]"
+chronological_order: 1116
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic EMPLOYER|EMPLOYER]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic RESPECT OF PERSONS|RESPECT OF PERSONS]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2962H]]"
+- "[[G0846]]"
+- "[[G4160G]]"
+- "[[G4314]]"
+- "[[G0447]]"
+- "[[G0547]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3772]]"
+- "[[G4382]]"
+- "[[G3756]]"
+- "[[G3844]]"
+texts:
+- NKO
+- no
+---
+
 **Ephesians 6:9**<big><big>[[Eph.6.5 Serving with Honor|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, ye masters, do the same things unto them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him.
 <small><sub>**BSB:**</sub></small>
 And masters, do the same for your slaves. Give up your use of threats, because you know that He who is both their Master and yours is in heaven, and there is no favoritism with Him.
-<small><sub>**Literal:**</sub></small>
-And you who [are] masters, the [same things] them do perform toward them giving up the threatening, knowing that also of them and of you the master is in [the] heavens and partiality not there is with Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.8|<< Ephesians 6:8]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.10|Ephesians 6:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3588\|οἱ]]  [[G2962H\|κύριοι,]]  [[G3588\|τὰ]]  [[G0846\|αὐτὰ]]  [[G4160G\|ποιεῖτε]]  [[G4314\|πρὸς]]  [[G0846\|αὐτοὺς]]  [[G0447\|ἀνιέντες]]  [[G3588\|τὴν]]  [[G0547\|ἀπειλήν,]]  [[G6063\|εἰδότες]]  [[G3754G\|ὅτι]]  [[G2532\|καὶ]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G4771\|ὑμῶν]]  [[G3588\|ὁ]]  [[G2962H\|κύριός]]  [[G1510\|ἐστιν]]  [[G1722\|ἐν]]  [[G3772\|οὐρανοῖς]]  [[G2532\|καὶ]]  [[G4382\|προσωπολημψία]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G3844\|παρ᾽]]  [[G0846\|αὐτῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EMPLOYER|EMPLOYER]] • [[topic EXAMPLE|EXAMPLE]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MASTER|MASTER]] • [[topic RESPECT OF PERSONS|RESPECT OF PERSONS]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.8|<< Ephesians 6:8]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.10|Ephesians 6:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ephesians 6:9** is...
 > $\quad$ alluding to: [[LXX.Deut.10.17|Deut 10:17]] ☩ [[LXX.Job.34.19|Job 34:19]]

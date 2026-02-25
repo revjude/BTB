@@ -1,8 +1,77 @@
+---
+title: Ezekiel 13:20
+type: Verse
+kjv: "Wherefore thus saith the Lord GOD; Behold, I am against your pillows, wherewith ye there hunt the souls to make them fly, and I will tear them from your arms, and will let the souls go, even the souls that ye hunt to make them fly."
+bsb: "Therefore this is what the Lord GOD says: See, I am against the magic charms with which you ensnare souls like birds, and I will tear them from your arms. So I will free the souls you have ensnared like birds."
+hebrew: "לָכֵ֞ן כֹּה־ אָמַ֣ר׀ אֲדֹנָ֣י יְהוִ֗ה הִנְנִ֤י אֶל־ כִּסְּתוֹתֵיכֶ֙נָה֙ אֲשֶׁ֣ר אַ֠תֵּנָה מְצֹדְד֨וֹת שָׁ֤ם אֶת־ הַנְּפָשׁוֹת֙ לְפֹ֣רְח֔וֹת וְקָרַעְתִּ֣י אֹתָ֔ם מֵעַ֖ל זְרוֹעֹֽתֵיכֶ֑ם וְשִׁלַּחְתִּי֙ אֶת־ הַנְּפָשׁ֔וֹת אֲשֶׁ֥ר אַתֶּ֛ם מְצֹדְד֥וֹת אֶת־ נְפָשִׁ֖ים לְפֹרְחֹֽת׃"
+pericope: "[[Ezek.13.17 Reproof of False Prophetesses|Reproof of False Prophetesses]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 13
+book/chapter: "[[Ezek.13|Ezekiel 13]]"
+chronological_order: 804
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PILLOW|PILLOW]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H9015]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0413]]"
+- "[[H3704]]"
+- "[[H9027]]"
+- "[[H0834A]]"
+- "[[H0859E]]"
+- "[[H6679A]]"
+- "[[H8033G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5315G]]"
+- "[[H6524C]]"
+- "[[H9001]]"
+- "[[H7167]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H2220]]"
+- "[[H9026]]"
+- "[[H7971H]]"
+- "[[H0859D]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 13:20**<big><big>[[Ezek.13.17 Reproof of False Prophetesses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore thus saith the Lord GOD; Behold, I [am] against your pillows, wherewith ye there hunt the souls to make [them] fly, and I will tear them from your arms, and will let the souls go, [even] the souls that ye hunt to make [them] fly.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the Lord GOD says: See, I am against the magic charms with which you ensnare souls like birds, and I will tear them from your arms. So I will free the souls you have ensnared like birds.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֞ן]] [[H3541\|כֹּה]][[H9014\|־]] [[H0559\|אָמַ֣ר]][[H9015\|׀]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֗ה]] [[H2005\|הִנְ]][[H9040\|נִ֤י]] [[H0413\|אֶל]][[H9014\|־]] [[H3704\|כִּסְּתוֹתֵי]][[H9027\|כֶ֙נָה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0859E\|אַ֠תֵּנָה]] [[H6679A\|מְצֹדְד֨וֹת]] [[H8033G\|שָׁ֤ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5315G\|נְּפָשׁוֹת֙]] [[H9005\|לְ]][[H6524C\|פֹ֣רְח֔וֹת]] [[H9001\|וְ]][[H7167\|קָרַעְתִּ֣י]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H9006\|מֵ]][[H5921A\|עַ֖ל]] [[H2220\|זְרוֹעֹֽתֵי]][[H9026\|כֶ֑ם]] [[H9001\|וְ]][[H7971H\|שִׁלַּחְתִּי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5315G\|נְּפָשׁ֔וֹת]] [[H0834A\|אֲשֶׁ֥ר]] [[H0859D\|אַתֶּ֛ם]] [[H6679A\|מְצֹדְד֥וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H5315G\|נְפָשִׁ֖ים]] [[H9005\|לְ]][[H6524C\|פֹרְחֹֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PILLOW|PILLOW]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.13.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13.19|<< Ezekiel 13:19]]</td><td align="center" style="border:none;">[[Ezek.13|Ezekiel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.13.21|Ezekiel 13:21 >>]]</td></tr></table>
 

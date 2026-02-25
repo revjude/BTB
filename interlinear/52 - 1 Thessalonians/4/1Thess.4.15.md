@@ -1,10 +1,62 @@
+---
+title: 1 Thessalonians 4:15
+type: Verse
+kjv: "For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep."
+bsb: "By the word of the Lord, we declare to you that we who are alive and remain until the coming of the Lord will by no means precede those who have fallen asleep."
+greek: "Τοῦτο γὰρ ὑμῖν λέγομεν ἐν λόγῳ κυρίου ὅτι ἡμεῖς οἱ ζῶντες οἱ περιλειπόμενοι εἰς τὴν παρουσίαν τοῦ κυρίου οὐ μὴ φθάσωμεν τοὺς κοιμηθέντας·"
+pericope: "[[1Thess.4.13 The Return of the Lord|The Return of the Lord]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 4
+book/chapter: "[[1Thess.4|1 Thessalonians 4]]"
+chronological_order: 1051
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic BEREAVEMENT|BEREAVEMENT]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G4771]]"
+- "[[G3004G]]"
+- "[[G1722]]"
+- "[[G3056]]"
+- "[[G2962G]]"
+- "[[G3754G]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G2198]]"
+- "[[G4035]]"
+- "[[G1519]]"
+- "[[G3952]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G5348]]"
+- "[[G2837]]"
+texts:
+- NKO
+---
+
 **1 Thessalonians 4:15**<big><big>[[1Thess.4.13 The Return of the Lord|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For this we say unto you by the word of the Lord, that we which are alive [and] remain unto the coming of the Lord shall not prevent them which are asleep.
 <small><sub>**BSB:**</sub></small>
 By the word of the Lord, we declare to you that we who are alive and remain until the coming of the Lord will by no means precede those who have fallen asleep.
-<small><sub>**Literal:**</sub></small>
-This for to you we declare in [the] word of [the] Lord that we ourselves the living who are remaining untill the coming of the Lord certainly not may precede those having fallen asleep;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.14|<< 1 Thessalonians 4:14]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.16|1 Thessalonians 4:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Τοῦτο]]  [[G1063\|γὰρ]]  [[G4771\|ὑμῖν]]  [[G3004G\|λέγομεν]]  [[G1722\|ἐν]]  [[G3056\|λόγῳ]]  [[G2962G\|κυρίου]]  [[G3754G\|ὅτι]]  [[G3165\|ἡμεῖς]]  [[G3588\|οἱ]]  [[G2198\|ζῶντες]]  [[G3588\|οἱ]]  [[G4035\|περιλειπόμενοι]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3952\|παρουσίαν]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G5348\|φθάσωμεν]]  [[G3588\|τοὺς]]  [[G2837\|κοιμηθέντας·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEREAVEMENT|BEREAVEMENT]] • [[topic DEATH|DEATH]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.14|<< 1 Thessalonians 4:14]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.16|1 Thessalonians 4:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

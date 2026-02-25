@@ -1,6 +1,65 @@
+---
+title: LXX 1 Samuel 4:2
+type: Verse
+lxx: "And the Philistines deployed for war against Israel. And the war leaned one way, and the men of Israel failed before the Philistines. And there was struck in the battle array in the field four thousand men."
+greek: "και παρατάσσονται οι αλλόφυλοι εις πόλεμον επί Ισραήλ και έκλινεν ο πόλεμος και έπταισεν ανήρ Ισραήλ ενώπιον των αλλοφύλων και επλήγησαν εν τη παρατάξει εν αγρώ τέσσαρες χιλιάδες ανδρών"
+original_language: Greek
+testament: Old
+book: 1 Samuel
+chapter: 4
+book/chapter: "[[1Sam.4|1 Samuel 4]]"
+chronological_order: 283
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic APHEK|APHEK]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[G2532]]"
+- "[[G8641]]"
+- "[[G3588]]"
+- "[[G0246]]"
+- "[[G1519]]"
+- "[[G4171]]"
+- "[[G1909]]"
+- "[[G2474]]"
+- "[[G2532]]"
+- "[[G2827]]"
+- "[[G3588]]"
+- "[[G4171]]"
+- "[[G2532]]"
+- "[[G4417]]"
+- "[[G0435]]"
+- "[[G2474]]"
+- "[[G1799]]"
+- "[[G3588]]"
+- "[[G0246]]"
+- "[[G2532]]"
+- "[[G4141]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G8640]]"
+- "[[G1722]]"
+- "[[G0068]]"
+- "[[G5064]]"
+- "[[G5505]]"
+- "[[G0435]]"
+---
+
 **LXX 1 Samuel 4:2** 
 <small><sub>**LXX:**</sub></small>
 And the Philistines deployed for war against Israel. And the war leaned \[one way\], and \[the\] men of Israel failed before the Philistines. And there was struck in the battle array in \[the\] field four thousand men. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G8641\|παρατάσσονται]] [[G3588\|οι]] [[G0246\|αλλόφυλοι]] [[G1519\|εις]] [[G4171\|πόλεμον]] [[G1909\|επί]] [[G2474\|Ισραήλ]] [[G2532\|και]] [[G2827\|έκλινεν]] [[G3588\|ο]] [[G4171\|πόλεμος]] [[G2532\|και]] [[G4417\|έπταισεν]] [[G0435\|ανήρ]] [[G2474\|Ισραήλ]] [[G1799\|ενώπιον]] [[G3588\|των]] [[G0246\|αλλοφύλων]] [[G2532\|και]] [[G4141\|επλήγησαν]] [[G1722\|εν]] [[G3588\|τη]] [[G8640\|παρατάξει]] [[G1722\|εν]] [[G0068\|αγρώ]] [[G5064\|τέσσαρες]] [[G5505\|χιλιάδες]] [[G0435\|ανδρών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APHEK|APHEK]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Sam.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.1|<< 1 Samuel 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.3|1 Samuel 4:3 >>]]</td></tr></table>
 
@@ -35,6 +94,6 @@ And the Philistines deployed for war against Israel. And the war leaned \[one wa
 | four | **<big>[[G5064\|τέσσαρες]]</big>** |
 | thousand | **<big>[[G5505\|χιλιάδες]]</big>** |
 | men. | **<big>[[G0435\|ανδρών]]</big>** |
-[[1Sam.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.1|<< 1 Samuel 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.3|1 Samuel 4:3 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.1|<< 1 Samuel 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.3|1 Samuel 4:3 >>]]</td></tr></table>
 
 

@@ -1,8 +1,68 @@
+---
+title: Jeremiah 37:15
+type: Verse
+kjv: "Wherefore the princes were wroth with Jeremiah, and smote him, and put him in prison in the house of Jonathan the scribe: for they had made that the prison."
+bsb: "The officials were angry with Jeremiah, and they beat him and placed him in jail in the house of Jonathan the scribe, for it had been made into a prison."
+hebrew: "וַיִּקְצְפ֧וּ הַשָּׂרִ֛ים עַֽל־ יִרְמְיָ֖הוּ וְהִכּ֣וּ אֹת֑וֹ וְנָתְנ֨וּ אוֹת֜וֹ בֵּ֣ית הָאֵס֗וּר בֵּ֚ית יְהוֹנָתָ֣ן הַסֹּפֵ֔ר כִּֽי־ אֹת֥וֹ עָשׂ֖וּ לְבֵ֥ית הַכֶּֽלֶא׃"
+pericope: "[[Jer.37.11 Jeremiah Imprisoned|Jeremiah Imprisoned]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 37
+book/chapter: "[[Jer.37|Jeremiah 37]]"
+chronological_order: 760
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7107]]"
+- "[[H9009]]"
+- "[[H8269]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3414L]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H5414L]]"
+- "[[H1004B]]"
+- "[[H0612]]"
+- "[[H1004M]]"
+- "[[H3083N]]"
+- "[[H5608B]]"
+- "[[H3588A]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H3608]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 37:15**<big><big>[[Jer.37.11 Jeremiah Imprisoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore the princes were wroth with Jeremiah, and smote him, and put him in prison in the house of Jonathan the scribe: for they had made that the prison.
 <small><sub>**BSB:**</sub></small>
 The officials were angry with Jeremiah, and they beat him and placed him in jail in the house of Jonathan the scribe, for it had been made into a prison.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7107\|יִּקְצְפ֧וּ]] [[H9009\|הַ]][[H8269\|שָּׂרִ֛ים]] [[H5921A\|עַֽל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֖הוּ]] [[H9001\|וְ]][[H5221\|הִכּ֣וּ]] [[H0853\|אֹת֑]][[H9033\|וֹ]] [[H9001\|וְ]][[H5414L\|נָתְנ֨וּ]] [[H0853\|אוֹת֜]][[H9033\|וֹ]] [[H1004B\|בֵּ֣ית]] [[H9009\|הָ]][[H0612\|אֵס֗וּר]] [[H1004M\|בֵּ֚ית]] [[H3083N\|יְהוֹנָתָ֣ן]] [[H9009\|הַ]][[H5608B\|סֹּפֵ֔ר]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0853\|אֹת֥]][[H9033\|וֹ]] [[H6213H\|עָשׂ֖וּ]] [[H9005\|לְ]][[H1004B\|בֵ֥ית]] [[H9009\|הַ]][[H3608\|כֶּֽלֶא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic JEREMIAH|JEREMIAH]] • [[topic JONATHAN|JONATHAN]] • [[topic PRISONERS|PRISONERS]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.37.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.37.14|<< Jeremiah 37:14]]</td><td align="center" style="border:none;">[[Jer.37|Jeremiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.37.16|Jeremiah 37:16 >>]]</td></tr></table>
 

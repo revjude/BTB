@@ -1,8 +1,65 @@
+---
+title: Ezekiel 27:7
+type: Verse
+kjv: "Fine linen with broidered work from Egypt was that which thou spreadest forth to be thy sail; blue and purple from the isles of Elishah was that which covered thee."
+bsb: "Of embroidered fine linen from Egypt they made your sail, which served as your banner. Of blue and purple from the coasts of Elishah they made your awning."
+hebrew: "שֵׁשׁ־ בְּרִקְמָ֤ה מִמִּצְרַ֙יִם֙ הָיָ֣ה מִפְרָשֵׂ֔ךְ לִהְי֥וֹת לָ֖ךְ לְנֵ֑ס תְּכֵ֧לֶת וְאַרְגָּמָ֛ן מֵאִיֵּ֥י אֱלִישָׁ֖ה הָיָ֥ה מְכַסֵּֽךְ׃"
+pericope: "[[Ezek.27.1 A Lament for Tyre|A Lament for Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 27
+book/chapter: "[[Ezek.27|Ezekiel 27]]"
+chronological_order: 818
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic ELISHAH|ELISHAH]]"
+- "[[topic LINEN|LINEN]]"
+- "[[topic SHIP|SHIP]]"
+strongs:
+- "[[H8336B]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H7553]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H1961]]"
+- "[[H4666]]"
+- "[[H9022]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H5251H]]"
+- "[[H8504]]"
+- "[[H9002]]"
+- "[[H0713]]"
+- "[[H0339]]"
+- "[[H0473H]]"
+- "[[H4374]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 27:7**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fine linen with broidered work from Egypt was that which thou spreadest forth to be thy sail; blue and purple from the isles of Elishah was that which covered thee.
 <small><sub>**BSB:**</sub></small>
 Of embroidered fine linen from Egypt they made your sail, which served as your banner. Of blue and purple from the coasts of Elishah they made your awning.
+<small><sub>**Hebrew:**</sub></small>
+[[H8336B\|שֵׁשׁ]][[H9014\|־]] [[H9003\|בְּ]][[H7553\|רִקְמָ֤ה]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֙יִם֙]] [[H1961\|הָיָ֣ה]] [[H4666\|מִפְרָשֵׂ֔]][[H9022\|ךְ]] [[H9005\|לִ]][[H1961\|הְי֥וֹת]] [[H9005\|לָ֖]][[H9032\|ךְ]] [[H9005\|לְ]][[H5251H\|נֵ֑ס]] [[H8504\|תְּכֵ֧לֶת]] [[H9002\|וְ]][[H0713\|אַרְגָּמָ֛ן]] [[H9006\|מֵ]][[H0339\|אִיֵּ֥י]] [[H0473H\|אֱלִישָׁ֖ה]] [[H1961\|הָיָ֥ה]] [[H4374\|מְכַסֵּֽ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPT|EGYPT]] • [[topic ELISHAH|ELISHAH]] • [[topic LINEN|LINEN]] • [[topic SHIP|SHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.6|<< Ezekiel 27:6]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.8|Ezekiel 27:8 >>]]</td></tr></table>
 

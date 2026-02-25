@@ -1,8 +1,59 @@
+---
+title: Genesis 43:27
+type: Verse
+kjv: "And he asked them of their welfare, and said, Is your father well, the old man of whom ye spake? Is he yet alive?"
+bsb: "He asked if they were well, and then he asked, “How is your elderly father you told me about? Is he still alive?”"
+hebrew: "וַיִּשְׁאַ֤ל לָהֶם֙ לְשָׁל֔וֹם וַיֹּ֗אמֶר הֲשָׁל֛וֹם אֲבִיכֶ֥ם הַזָּקֵ֖ן אֲשֶׁ֣ר אֲמַרְתֶּ֑ם הַעוֹדֶ֖נּוּ חָֽי׃"
+pericope: "[[Gen.43.16 Joseph’s Hospitality to His Brothers|Joseph’s Hospitality to His Brothers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 43
+book/chapter: "[[Gen.43|Genesis 43]]"
+chronological_order: 85
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DISSEMBLING|DISSEMBLING]]"
+strongs:
+- "[[H9001]]"
+- "[[H7592]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H7965I]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H9009]]"
+- "[[H2205H]]"
+- "[[H0834A]]"
+- "[[H5750]]"
+- "[[H9043]]"
+- "[[H2416A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 43:27**<big><big>[[Gen.43.16 Joseph’s Hospitality to His Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he asked them of [their] welfare, and said, [Is] your father well, the old man of whom ye spake? [Is] he yet alive?
 <small><sub>**BSB:**</sub></small>
 He asked if they were well, and then he asked, “How is your elderly father you told me about? Is he still alive?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7592\|יִּשְׁאַ֤ל]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H9005\|לְ]][[H7965I\|שָׁל֔וֹם]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H9008\|הֲ]][[H7965I\|שָׁל֛וֹם]] [[H0001G\|אֲבִי]][[H9026\|כֶ֥ם]] [[H9009\|הַ]][[H2205H\|זָּקֵ֖ן]] [[H0834A\|אֲשֶׁ֣ר]] [[H0559\|אֲמַרְתֶּ֑ם]] [[H9008\|הַ]][[H5750\|עוֹדֶ֖]][[H9043\|נּוּ]] [[H2416A\|חָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISSEMBLING|DISSEMBLING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.26|<< Genesis 43:26]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.28|Genesis 43:28 >>]]</td></tr></table>
 

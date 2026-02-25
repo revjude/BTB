@@ -1,8 +1,65 @@
+---
+title: Exodus 21:10
+type: Verse
+kjv: "If he take him another wife; her food, her raiment, and her duty of marriage, shall he not diminish."
+bsb: "If he takes another wife, he must not reduce the food, clothing, or marital rights of his first wife."
+hebrew: "אִם־ אַחֶ֖רֶת יִֽקַּֽח־ ל֑וֹ שְׁאֵרָ֛הּ כְּסוּתָ֥הּ וְעֹנָתָ֖הּ לֹ֥א יִגְרָֽע׃"
+pericope: "[[Exod.21.1 Hebrew Servants|Hebrew Servants]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 21
+book/chapter: "[[Exod.21|Exodus 21]]"
+chronological_order: 113
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONCUBINAGE|CONCUBINAGE]]"
+- "[[topic DAUGHTER|DAUGHTER]]"
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H0312]]"
+- "[[H3947I]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H7607]]"
+- "[[H9024]]"
+- "[[H3682]]"
+- "[[H9002]]"
+- "[[H5772]]"
+- "[[H3808]]"
+- "[[H1639]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 21:10**<big><big>[[Exod.21.1 Hebrew Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If he take him another [wife]; her food, her raiment, and her duty of marriage, shall he not diminish.
 <small><sub>**BSB:**</sub></small>
 If he takes another wife, he must not reduce the food, clothing, or marital rights of his first wife.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H0312\|אַחֶ֖רֶת]] [[H3947I\|יִֽקַּֽח]][[H9014\|־]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H7607\|שְׁאֵרָ֛]][[H9024\|הּ]] [[H3682\|כְּסוּתָ֥]][[H9024\|הּ]] [[H9002\|וְ]][[H5772\|עֹנָתָ֖]][[H9024\|הּ]] [[H3808\|לֹ֥א]] [[H1639\|יִגְרָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic CONCUBINAGE|CONCUBINAGE]] • [[topic DAUGHTER|DAUGHTER]] • [[topic DIVORCE|DIVORCE]] • [[topic POLYGAMY|POLYGAMY]] • [[topic SERVANT|SERVANT]] • [[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.9|<< Exodus 21:9]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.11|Exodus 21:11 >>]]</td></tr></table>
 

@@ -1,10 +1,54 @@
+---
+title: John 12:41
+type: Verse
+kjv: "These things said Esaias, when he saw his glory, and spake of him."
+bsb: "Isaiah said these things because he saw Jesus’ glory and spoke about Him."
+greek: "Ταῦτα εἶπεν Ἠσαΐας ὅτι εἶδεν τὴν δόξαν αὐτοῦ καὶ ἐλάλησεν περὶ αὐτοῦ."
+pericope: "[[John.12.37 Belief and Unbelief|Belief and Unbelief]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G3778]]"
+- "[[G2036]]"
+- "[[G2268]]"
+- "[[G3754H]]"
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G1391]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G2980]]"
+- "[[G4012]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **John 12:41**<big><big>[[John.12.37 Belief and Unbelief|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 These things said Esaias, when he saw his glory, and spake of him.
 <small><sub>**BSB:**</sub></small>
 Isaiah said these things because he saw Jesus’ glory and spoke about Him.
-<small><sub>**Literal:**</sub></small>
-These things said Isaiah because he saw the glory of Him and spoke concerning Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.40|<< John 12:40]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.42|John 12:42 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Ταῦτα]]  [[G2036\|εἶπεν]]  [[G2268\|Ἠσαΐας]]  [[G3754H\|ὅτι]]  [[G1492H\|εἶδεν]]  [[G3588\|τὴν]]  [[G1391\|δόξαν]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G2980\|ἐλάλησεν]]  [[G4012\|περὶ]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.40|<< John 12:40]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.42|John 12:42 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

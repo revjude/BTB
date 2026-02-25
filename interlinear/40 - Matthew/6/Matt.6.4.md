@@ -1,10 +1,64 @@
+---
+title: Matthew 6:4
+type: Verse
+kjv: "That thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly."
+bsb: "so that your giving may be in secret. And your Father, who sees what is done in secret, will reward you."
+jesus_said: "That thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly."
+greek: "ὅπως ᾖ σου ἡ ἐλεημοσύνη ἐν τῷ κρυπτῷ. καὶ ὁ πατήρ σου ὁ βλέπων ἐν τῷ κρυπτῷ αὑτὸς ἀποδώσει σοι ἐν τῷ φανερῷ.¶"
+pericope: "[[Matt.6.1 Giving to the Needy|Giving to the Needy]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 6
+book/chapter: "[[Matt.6|Matthew 6]]"
+chronological_order: 944
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GIVING|GIVING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SECRET|SECRET]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3704]]"
+- "[[G1510]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G1654]]"
+- "[[G1722]]"
+- "[[G2927]]"
+- "[[G2532]]"
+- "[[G3962]]"
+- "[[G0991]]"
+- "[[G1438]]"
+- "[[G0591]]"
+- "[[G5318]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 6:4**<big><big>[[Matt.6.1 Giving to the Needy|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly.
 <small><sub>**BSB:**</sub></small>
 so that your giving may be in secret. And your Father, who sees what is done in secret, will reward you.
-<small><sub>**Literal:**</sub></small>
-so that may be your <the> giving in <the> secret. And the Father of you the [One] seeing in <the> secret himself will reward you in <the> public.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.3|<< Matthew 6:3]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.5|Matthew 6:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3704\|ὅπως]]  [[G1510\|ᾖ]]  [[G4771\|σου]]  [[G3588\|ἡ]]  [[G1654\|ἐλεημοσύνη]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2927\|κρυπτῷ.]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3962\|πατήρ]]  [[G4771\|σου]]  [[G3588\|ὁ]]  [[G0991\|βλέπων]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2927\|κρυπτῷ]]  [[G1438\|αὑτὸς]]  [[G0591\|ἀποδώσει]]  [[G4771\|σοι]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G5318\|φανερῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GIVING|GIVING]] • [[topic GOD|GOD]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MOTIVE|MOTIVE]] • [[topic PHARISEES|PHARISEES]] • [[topic RELIGION|RELIGION]] • [[topic SECRET|SECRET]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.3|<< Matthew 6:3]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.5|Matthew 6:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,56 @@
+---
+title: Genesis 2:1
+type: Verse
+kjv: "Thus the heavens and the earth were finished, and all the host of them."
+bsb: "Thus the heavens and the earth were completed in all their vast array."
+hebrew: "וַיְכֻלּ֛וּ הַשָּׁמַ֥יִם וְהָאָ֖רֶץ וְכָל־ צְבָאָֽם׃"
+pericope: "[[Gen.2.1 The Seventh Day|The Seventh Day]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 2
+book/chapter: "[[Gen.2|Genesis 2]]"
+chronological_order: 2
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H3615G]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6635A]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 2:1**<big><big>[[Gen.2.1 The Seventh Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus the heavens and the earth were finished, and all the host of them.
 <small><sub>**BSB:**</sub></small>
 Thus the heavens and the earth were completed in all their vast array.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3615G\|יְכֻלּ֛וּ]] [[H9009\|הַ]][[H8064\|שָּׁמַ֥יִם]] [[H9002\|וְ]][[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H6635A\|צְבָאָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.1.31|<< Genesis 1:31]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.2|Genesis 2:2 >>]]</td></tr></table>
 

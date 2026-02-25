@@ -1,10 +1,50 @@
+---
+title: John 16:29
+type: Verse
+kjv: "His disciples said unto him, Lo, now speakest thou plainly, and speakest no proverb."
+bsb: "His disciples said, “See, now You are speaking plainly and without figures of speech."
+greek: "Λέγουσιν αὐτῷ οἱ μαθηταὶ αὐτοῦ· ἴδε νῦν ἐν παρρησίᾳ λαλεῖς καὶ παροιμίαν οὐδεμίαν λέγεις."
+pericope: "[[John.16.23 Ask in My Name|Ask in My Name]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 16
+book/chapter: "[[John.16|John 16]]"
+chronological_order: 1004
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G2396]]"
+- "[[G3568]]"
+- "[[G1722]]"
+- "[[G3954]]"
+- "[[G2980]]"
+- "[[G2532]]"
+- "[[G3942]]"
+- "[[G3762]]"
+texts:
+- NKO
+- k
+- no
+---
+
 **John 16:29**<big><big>[[John.16.23 Ask in My Name|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 His disciples said unto him, Lo, now speakest thou plainly, and speakest no proverb.
 <small><sub>**BSB:**</sub></small>
 His disciples said, “See, now You are speaking plainly and without figures of speech.
-<small><sub>**Literal:**</sub></small>
-Say to him the disciples of Him; Behold now in openness You speak and allegory no [thing] speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.28|<< John 16:28]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.30|John 16:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Λέγουσιν]]  [[G0846\|αὐτῷ]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ·]]  [[G2396\|ἴδε]]  [[G3568\|νῦν]]  [[G1722\|ἐν]]  [[G3954\|παρρησίᾳ]]  [[G2980\|λαλεῖς]]  [[G2532\|καὶ]]  [[G3942\|παροιμίαν]]  [[G3762\|οὐδεμίαν]]  [[G3004G\|λέγεις.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.28|<< John 16:28]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.30|John 16:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

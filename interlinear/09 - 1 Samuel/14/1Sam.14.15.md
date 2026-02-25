@@ -1,8 +1,64 @@
+---
+title: 1 Samuel 14:15
+type: Verse
+kjv: "And there was trembling in the host, in the field, and among all the people: the garrison, and the spoilers, they also trembled, and the earth quaked: so it was a very great trembling."
+bsb: "Then panic struck the Philistines in the camp, in the field, and among all the people. Even those in the outposts and raiding parties trembled. Indeed, the earth quaked, and panic spread from God."
+hebrew: "וַתְּהִי֩ חֲרָדָ֨ה בַמַּחֲנֶ֤ה בַשָּׂדֶה֙ וּבְכָל־ הָעָ֔ם הַמַּצָּב֙ וְהַמַּשְׁחִ֔ית חָרְד֖וּ גַּם־ הֵ֑מָּה וַתִּרְגַּ֣ז הָאָ֔רֶץ וַתְּהִ֖י לְחֶרְדַּ֥ת אֱלֹהִֽים׃"
+pericope: "[[1Sam.14.1 Jonathan’s Victory over the Philistines|Jonathan’s Victory over the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic EARTHQUAKES|EARTHQUAKES]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic PANIC|PANIC]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H2731]]"
+- "[[H9003]]"
+- "[[H4264]]"
+- "[[H7704G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H4673]]"
+- "[[H7843]]"
+- "[[H2729]]"
+- "[[H1571]]"
+- "[[H1992]]"
+- "[[H7264]]"
+- "[[H0776G]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 14:15**<big><big>[[1Sam.14.1 Jonathan’s Victory over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there was trembling in the host, in the field, and among all the people: the garrison, and the spoilers, they also trembled, and the earth quaked: so it was a very great trembling.
 <small><sub>**BSB:**</sub></small>
 Then panic struck the Philistines in the camp, in the field, and among all the people. Even those in the outposts and raiding parties trembled. Indeed, the earth quaked, and panic spread from God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|תְּהִי֩]] [[H2731\|חֲרָדָ֨ה]] [[H9003\|בַ]][[H4264\|מַּחֲנֶ֤ה]] [[H9003\|בַ]][[H7704G\|שָּׂדֶה֙]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9009\|הַ]][[H4673\|מַּצָּב֙]] [[H9002\|וְ]][[H9009\|הַ]][[H7843\|מַּשְׁחִ֔ית]] [[H2729\|חָרְד֖וּ]] [[H1571\|גַּם]][[H9014\|־]] [[H1992\|הֵ֑מָּה]] [[H9001\|וַ]][[H7264\|תִּרְגַּ֣ז]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9001\|וַ]][[H1961\|תְּהִ֖י]] [[H9005\|לְ]][[H2731\|חֶרְדַּ֥ת]] [[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic EARTHQUAKES|EARTHQUAKES]] • [[topic JONATHAN|JONATHAN]] • [[topic PANIC|PANIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.14|<< 1 Samuel 14:14]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.16|1 Samuel 14:16 >>]]</td></tr></table>
 

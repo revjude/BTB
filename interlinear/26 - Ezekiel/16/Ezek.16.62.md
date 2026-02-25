@@ -1,8 +1,58 @@
+---
+title: Ezekiel 16:62
+type: Verse
+kjv: "And I will establish my covenant with thee; and thou shalt know that I am the LORD:"
+bsb: "So I will establish My covenant with you, and you will know that I am the LORD,"
+hebrew: "וַהֲקִימוֹתִ֥י אֲנִ֛י אֶת־ בְּרִיתִ֖י אִתָּ֑ךְ וְיָדַ֖עַתְּ כִּֽי־ אֲנִ֥י יְהוָֽה׃"
+pericope: "[[Ezek.16.59 The Covenant Remembered|The Covenant Remembered]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965I]]"
+- "[[H0589]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1285]]"
+- "[[H9020]]"
+- "[[H0854]]"
+- "[[H9031]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 16:62**<big><big>[[Ezek.16.59 The Covenant Remembered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will establish my covenant with thee; and thou shalt know that I [am] the LORD:
 <small><sub>**BSB:**</sub></small>
 So I will establish My covenant with you, and you will know that I am the LORD,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965I\|הֲקִימוֹתִ֥י]] [[H0589\|אֲנִ֛י]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִיתִ֖]][[H9020\|י]] [[H0854\|אִתָּ֑]][[H9031\|ךְ]] [[H9001\|וְ]][[H3045\|יָדַ֖עַתְּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.62|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.61|<< Ezekiel 16:61]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.63|Ezekiel 16:63 >>]]</td></tr></table>
 

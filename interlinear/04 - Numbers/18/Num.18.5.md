@@ -1,8 +1,65 @@
+---
+title: Numbers 18:5
+type: Verse
+kjv: "And ye shall keep the charge of the sanctuary, and the charge of the altar: that there be no wrath any more upon the children of Israel."
+bsb: "And you shall attend to the duties of the sanctuary and of the altar, so that wrath may not fall on the Israelites again."
+hebrew: "וּשְׁמַרְתֶּ֗ם אֵ֚ת מִשְׁמֶ֣רֶת הַקֹּ֔דֶשׁ וְאֵ֖ת מִשְׁמֶ֣רֶת הַמִּזְבֵּ֑חַ וְלֹֽא־ יִהְיֶ֥ה ע֛וֹד קֶ֖צֶף עַל־ בְּנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Num.18.1 Duties of Priests and Levites|Duties of Priests and Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 18
+book/chapter: "[[Num.18|Numbers 18]]"
+chronological_order: 178
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SANCTUARY|SANCTUARY]]"
+strongs:
+- "[[H9001]]"
+- "[[H8104H]]"
+- "[[H0853]]"
+- "[[H4931]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H9002]]"
+- "[[H4196]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H5750]]"
+- "[[H7110A]]"
+- "[[H5921A]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 18:5**<big><big>[[Num.18.1 Duties of Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall keep the charge of the sanctuary, and the charge of the altar: that there be no wrath any more upon the children of Israel.
 <small><sub>**BSB:**</sub></small>
 And you shall attend to the duties of the sanctuary and of the altar, so that wrath may not fall on the Israelites again.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H8104H\|שְׁמַרְתֶּ֗ם]] [[H0853\|אֵ֚ת]] [[H4931\|מִשְׁמֶ֣רֶת]] [[H9009\|הַ]][[H6944G\|קֹּ֔דֶשׁ]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H4931\|מִשְׁמֶ֣רֶת]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֑חַ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|יִהְיֶ֥ה]] [[H5750\|ע֛וֹד]] [[H7110A\|קֶ֖צֶף]] [[H5921A\|עַל]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic LEVITES|LEVITES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]] • [[topic SANCTUARY|SANCTUARY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.4|<< Numbers 18:4]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.6|Numbers 18:6 >>]]</td></tr></table>
 

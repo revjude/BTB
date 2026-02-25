@@ -1,10 +1,62 @@
+---
+title: Romans 8:17
+type: Verse
+kjv: "And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together."
+bsb: "And if we are children, then we are heirs: heirs of God and co-heirs with Christ—if indeed we suffer with Him, so that we may also be glorified with Him."
+greek: "εἰ δὲ τέκνα, καὶ κληρονόμοι· κληρονόμοι μὲν θεοῦ συγκληρονόμοι δὲ Χριστοῦ· εἴπερ εἴπερ συμπάσχομεν ἵνα καὶ συνδοξασθῶμεν.¶"
+pericope: "[[Rom.8.12 Heirs with Christ|Heirs with Christ]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 8
+book/chapter: "[[Rom.8|Romans 8]]"
+chronological_order: 1094
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic HEIR|HEIR]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SUFFERING|SUFFERING]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G5043]]"
+- "[[G2532]]"
+- "[[G2818]]"
+- "[[G3303]]"
+- "[[G2316]]"
+- "[[G4789]]"
+- "[[G5547]]"
+- "[[G4007]]"
+- "[[G4841]]"
+- "[[G2443]]"
+- "[[G4888]]"
+texts:
+- NKO
+---
+
 **Romans 8:17**<big><big>[[Rom.8.12 Heirs with Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with [him], that we may be also glorified together.
 <small><sub>**BSB:**</sub></small>
 And if we are children, then we are heirs: heirs of God and co-heirs with Christ—if indeed we suffer with Him, so that we may also be glorified with Him.
-<small><sub>**Literal:**</sub></small>
-If now children, also heirs; heirs indeed of God joint-heirs however of Christ; if indeed we suffer with [Him] so that also we shall be glorified together.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.16|<< Romans 8:16]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.18|Romans 8:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G5043\|τέκνα,]]  [[G2532\|καὶ]]  [[G2818\|κληρονόμοι·]]  [[G2818\|κληρονόμοι]]  [[G3303\|μὲν]]  [[G2316\|θεοῦ]]  [[G4789\|συγκληρονόμοι]]  [[G1161\|δὲ]]  [[G5547\|Χριστοῦ·]]  [[G1487G\|εἴπερ]]  <sup><small>[[G4007\| [ • ] ]]</small></sup>  [[G4841\|συμπάσχομεν]]  [[G2443\|ἵνα]]  [[G2532\|καὶ]]  [[G4888\|συνδοξασθῶμεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic HEIR|HEIR]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic INHERITANCE|INHERITANCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SUFFERING|SUFFERING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.16|<< Romans 8:16]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.18|Romans 8:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

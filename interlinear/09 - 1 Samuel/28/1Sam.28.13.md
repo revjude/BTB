@@ -1,8 +1,68 @@
+---
+title: 1 Samuel 28:13
+type: Verse
+kjv: "And the king said unto her, Be not afraid: for what sawest thou? And the woman said unto Saul, I saw gods ascending out of the earth."
+bsb: "“Do not be afraid,” the king replied. “What do you see?” “I see a god coming up out of the earth,” the woman answered."
+hebrew: "וַיֹּ֨אמֶר לָ֥הּ הַמֶּ֛לֶךְ אַל־ תִּֽירְאִ֖י כִּ֣י מָ֣ה רָאִ֑ית וַתֹּ֤אמֶר הָֽאִשָּׁה֙ אֶל־ שָׁא֔וּל אֱלֹהִ֣ים רָאִ֖יתִי עֹלִ֥ים מִן־ הָאָֽרֶץ׃"
+pericope: "[[1Sam.28.7 Saul and the Medium of Endor|Saul and the Medium of Endor]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 28
+book/chapter: "[[1Sam.28|1 Samuel 28]]"
+chronological_order: 307
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CLAIRVOYANCE|CLAIRVOYANCE]]"
+- "[[topic EN-DOR|EN-DOR]]"
+- "[[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NECROMANCY|NECROMANCY]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic SORCERY|SORCERY]]"
+- "[[topic WITCHCRAFT|WITCHCRAFT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H3588A]]"
+- "[[H4100]]"
+- "[[H7200G]]"
+- "[[H0802G]]"
+- "[[H0413]]"
+- "[[H7586G]]"
+- "[[H0430]]"
+- "[[H5927G]]"
+- "[[H4480A]]"
+- "[[H0776H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 28:13**<big><big>[[1Sam.28.7 Saul and the Medium of Endor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king said unto her, Be not afraid: for what sawest thou? And the woman said unto Saul, I saw gods ascending out of the earth.
 <small><sub>**BSB:**</sub></small>
 “Do not be afraid,” the king replied. “What do you see?” “I see a god coming up out of the earth,” the woman answered.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H9005\|לָ֥]][[H9034\|הּ]] [[H9009\|הַ]][[H4428G\|מֶּ֛לֶךְ]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּֽירְאִ֖י]] [[H3588A\|כִּ֣י]] [[H4100\|מָ֣ה]] [[H7200G\|רָאִ֑ית]] [[H9001\|וַ]][[H0559\|תֹּ֤אמֶר]] [[H9009\|הָֽ]][[H0802G\|אִשָּׁה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H7586G\|שָׁא֔וּל]] [[H0430\|אֱלֹהִ֣ים]] [[H7200G\|רָאִ֖יתִי]] [[H5927G\|עֹלִ֥ים]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776H\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLAIRVOYANCE|CLAIRVOYANCE]] • [[topic EN-DOR|EN-DOR]] • [[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]] • [[topic MIRACLES|MIRACLES]] • [[topic NECROMANCY|NECROMANCY]] • [[topic SAMUEL|SAMUEL]] • [[topic SAUL|SAUL]] • [[topic SORCERY|SORCERY]] • [[topic WITCHCRAFT|WITCHCRAFT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.28.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.28.12|<< 1 Samuel 28:12]]</td><td align="center" style="border:none;">[[1Sam.28|1 Samuel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.28.14|1 Samuel 28:14 >>]]</td></tr></table>
 

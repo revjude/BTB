@@ -1,8 +1,65 @@
+---
+title: Leviticus 27:2
+type: Verse
+kjv: "Speak unto the children of Israel, and say unto them, When a man shall make a singular vow, the persons shall be for the LORD by thy estimation."
+bsb: "“Speak to the Israelites and say to them, ‘When someone makes a special vow to the LORD involving the value of persons,"
+hebrew: "דַּבֵּ֞ר אֶל־ בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם אִ֕ישׁ כִּ֥י יַפְלִ֖א נֶ֑דֶר בְּעֶרְכְּךָ֥ נְפָשֹׁ֖ת לַֽיהוָֽה׃"
+pericope: "[[Lev.27.1 Rules about Valuations|Rules about Valuations]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 27
+book/chapter: "[[Lev.27|Leviticus 27]]"
+chronological_order: 159
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9038]]"
+- "[[H0376I]]"
+- "[[H3588A]]"
+- "[[H6381]]"
+- "[[H5088]]"
+- "[[H9003]]"
+- "[[H6187]]"
+- "[[H9021]]"
+- "[[H5315J]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 27:2**<big><big>[[Lev.27.1 Rules about Valuations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto the children of Israel, and say unto them, When a man shall make a singular vow, the persons [shall be] for the LORD by thy estimation.
 <small><sub>**BSB:**</sub></small>
 “Speak to the Israelites and say to them, ‘When someone makes a special vow to the LORD involving the value of persons,
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבֵּ֞ר]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֲלֵ]][[H9038\|הֶ֔ם]] [[H0376I\|אִ֕ישׁ]] [[H3588A\|כִּ֥י]] [[H6381\|יַפְלִ֖א]] [[H5088\|נֶ֑דֶר]] [[H9003\|בְּ]][[H6187\|עֶרְכְּ]][[H9021\|ךָ֥]] [[H5315J\|נְפָשֹׁ֖ת]] [[H9005\|לַֽ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REDEMPTION|REDEMPTION]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.1|<< Leviticus 27:1]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.3|Leviticus 27:3 >>]]</td></tr></table>
 

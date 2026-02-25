@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Teachings about Divorce
+type: Pericope
 pericope: "[[Mark.10.1 Teachings about Divorce|Teachings about Divorce]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Mark
 chapter: 10
 book/chapter: "[[Mark.10|Mark 10]]"
-genre:
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 12
 verses:
 - "[[Mark.10.1]]"
 - "[[Mark.10.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Mark.10.12]]"
 ---
 
-[[Mark.10|Mark 10:1 - Mark 10:12]]
+<small>[[Mark.10|Mark 10:1-12]]</small>
 *Teachings about Divorce*
 
 [[Mark.10.1|1]] And he arose from thence, and cometh into the coasts of Judaea by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again.

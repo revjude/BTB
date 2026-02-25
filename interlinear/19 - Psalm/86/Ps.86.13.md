@@ -1,8 +1,62 @@
+---
+title: Psalm 86:13
+type: Verse
+kjv: "For great is thy mercy toward me: and thou hast delivered my soul from the lowest hell."
+bsb: "For great is Your loving devotion to me; You have delivered me from the depths of Sheol."
+hebrew: "כִּֽי־ חַ֭סְדְּךָ גָּד֣וֹל עָלָ֑י וְהִצַּ֥לְתָּ נַ֝פְשִׁ֗י מִשְּׁא֥וֹל תַּחְתִּיָּֽה׃"
+pericope: "[[Ps.86.1 Tried but Trusting|Tried but Trusting]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 86
+book/chapter: "[[Ps.86|Psalm 86]]"
+chronological_order: 379
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HADES|HADES]]"
+- "[[topic HELL|HELL]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2617A]]"
+- "[[H9021]]"
+- "[[H1419A]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H5337]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H7585]]"
+- "[[H8482]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 86:13**<big><big>[[Ps.86.1 Tried but Trusting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For great [is] thy mercy toward me: and thou hast delivered my soul from the lowest hell.
 <small><sub>**BSB:**</sub></small>
 For great is Your loving devotion to me; You have delivered me from the depths of Sheol.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H2617A\|חַ֭סְדְּ]][[H9021\|ךָ]] [[H1419A\|גָּד֣וֹל]] [[H5921A\|עָלָ֑]][[H9030\|י]] [[H9001\|וְ]][[H5337\|הִצַּ֥לְתָּ]] [[H5315G\|נַ֝פְשִׁ֗]][[H9020\|י]] [[H9006\|מִ]][[H7585\|שְּׁא֥וֹל]] [[H8482\|תַּחְתִּיָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic HADES|HADES]] • [[topic HELL|HELL]] • [[topic SALVATION|SALVATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.86.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.86.12|<< Psalms 86:12]]</td><td align="center" style="border:none;">[[Ps.86|Psalms 86]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.86.14|Psalms 86:14 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: 1 Samuel 2:5
+type: Verse
+kjv: "They that were full have hired out themselves for bread; and they that were hungry ceased: so that the barren hath born seven; and she that hath many children is waxed feeble."
+bsb: "The well-fed hire themselves out for food, but the starving hunger no more. The barren woman gives birth to seven, but she who has many sons pines away."
+hebrew: "שְׂבֵעִ֤ים בַּלֶּ֙חֶם֙ נִשְׂכָּ֔רוּ וּרְעֵבִ֖ים חָדֵ֑לּוּ עַד־ עֲקָרָה֙ יָלְדָ֣ה שִׁבְעָ֔ה וְרַבַּ֥ת בָּנִ֖ים אֻמְלָֽלָה׃"
+pericope: "[[1Sam.2.1 Hannah’s Prayer of Thanksgiving|Hannah’s Prayer of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 2
+book/chapter: "[[1Sam.2|1 Samuel 2]]"
+chronological_order: 281
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic HANNAH|HANNAH]]"
+- "[[topic JOY|JOY]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H7649]]"
+- "[[H9003]]"
+- "[[H3899H]]"
+- "[[H7936B]]"
+- "[[H9002]]"
+- "[[H7457]]"
+- "[[H2308]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H6135]]"
+- "[[H3205]]"
+- "[[H7651]]"
+- "[[H7227A]]"
+- "[[H1121A]]"
+- "[[H0535]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 2:5**<big><big>[[1Sam.2.1 Hannah’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [They that were] full have hired out themselves for bread; and [they that were] hungry ceased: so that the barren hath born seven; and she that hath many children is waxed feeble.
 <small><sub>**BSB:**</sub></small>
 The well-fed hire themselves out for food, but the starving hunger no more. The barren woman gives birth to seven, but she who has many sons pines away.
+<small><sub>**Hebrew:**</sub></small>
+[[H7649\|שְׂבֵעִ֤ים]] [[H9003\|בַּ]][[H3899H\|לֶּ֙חֶם֙]] [[H7936B\|נִשְׂכָּ֔רוּ]] [[H9002\|וּ]][[H7457\|רְעֵבִ֖ים]] [[H2308\|חָדֵ֑לּוּ]] [[H5704\|עַד]][[H9014\|־]] [[H6135\|עֲקָרָה֙]] [[H3205\|יָלְדָ֣ה]] [[H7651\|שִׁבְעָ֔ה]] [[H9002\|וְ]][[H7227A\|רַבַּ֥ת]] [[H1121A\|בָּנִ֖ים]] [[H0535\|אֻמְלָֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARRENNESS|BARRENNESS]] • [[topic HANNAH|HANNAH]] • [[topic JOY|JOY]] • [[topic POETRY|POETRY]] • [[topic PRAISE|PRAISE]] • [[topic PRIDE|PRIDE]] • [[topic PSALMS|PSALMS]] • [[topic SAMUEL|SAMUEL]] • [[topic SATIRE|SATIRE]] • [[topic SEVEN|SEVEN]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.4|<< 1 Samuel 2:4]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.6|1 Samuel 2:6 >>]]</td></tr></table>
 

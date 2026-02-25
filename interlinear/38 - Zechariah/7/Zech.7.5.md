@@ -1,8 +1,69 @@
+---
+title: Zechariah 7:5
+type: Verse
+kjv: "Speak unto all the people of the land, and to the priests, saying, When ye fasted and mourned in the fifth and seventh month, even those seventy years, did ye at all fast unto me, even to me?"
+bsb: "“Ask all the people of the land and the priests, ‘When you fasted and mourned in the fifth and seventh months for these seventy years, was it really for Me that you fasted?"
+hebrew: "אֱמֹר֙ אֶל־ כָּל־ עַ֣ם הָאָ֔רֶץ וְאֶל־ הַכֹּהֲנִ֖ים לֵאמֹ֑ר כִּֽי־ צַמְתֶּ֨ם וְסָפ֜וֹד בַּחֲמִישִׁ֣י וּבַשְּׁבִיעִ֗י וְזֶה֙ שִׁבְעִ֣ים שָׁנָ֔ה הֲצ֥וֹם צַמְתֻּ֖נִי אָֽנִי׃"
+pericope: "[[Zech.7.1 A Call to Justice and Mercy|A Call to Justice and Mercy]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 7
+book/chapter: "[[Zech.7|Zechariah 7]]"
+chronological_order: 863
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic FASTING|FASTING]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SEVENTY|SEVENTY]]"
+strongs:
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H3548]]"
+- "[[H9005]]"
+- "[[H3588A]]"
+- "[[H6684]]"
+- "[[H5594]]"
+- "[[H9003]]"
+- "[[H2549]]"
+- "[[H7637]]"
+- "[[H2088]]"
+- "[[H7657]]"
+- "[[H8141]]"
+- "[[H9008]]"
+- "[[H9030]]"
+- "[[H0589]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 7:5**<big><big>[[Zech.7.1 A Call to Justice and Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto all the people of the land, and to the priests, saying, When ye fasted and mourned in the fifth and seventh [month], even those seventy years, did ye at all fast unto me, [even] to me?
 <small><sub>**BSB:**</sub></small>
 “Ask all the people of the land and the priests, ‘When you fasted and mourned in the fifth and seventh months for these seventy years, was it really for Me that you fasted?
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אֱמֹר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5971A\|עַ֣ם]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֖ים]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6684\|צַמְתֶּ֨ם]] [[H9002\|וְ]][[H5594\|סָפ֜וֹד]] [[H9003\|בַּ]][[H2549\|חֲמִישִׁ֣י]] [[H9002\|וּ]][[H9003\|בַ]][[H7637\|שְּׁבִיעִ֗י]] [[H9002\|וְ]][[H2088\|זֶה֙]] [[H7657\|שִׁבְעִ֣ים]] [[H8141\|שָׁנָ֔ה]] [[H9008\|הֲ]][[H6684\|צ֥וֹם]] [[H6684\|צַמְתֻּ֖]][[H9030\|נִי]] [[H0589\|אָֽנִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FASTING|FASTING]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SEVENTY|SEVENTY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.7.4|<< Zechariah 7:4]]</td><td align="center" style="border:none;">[[Zech.7|Zechariah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.7.6|Zechariah 7:6 >>]]</td></tr></table>
 

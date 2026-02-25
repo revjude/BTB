@@ -1,8 +1,67 @@
+---
+title: Deuteronomy 23:13
+type: Verse
+kjv: "And thou shalt have a paddle upon thy weapon; and it shall be, when thou wilt ease thyself abroad, thou shalt dig therewith, and shalt turn back and cover that which cometh from thee:"
+bsb: "And you must have a digging tool in your equipment so that when you relieve yourself you can dig a hole and cover up your excrement."
+hebrew: "וְיָתֵ֛ד תִּהְיֶ֥ה לְךָ֖ עַל־ אֲזֵנֶ֑ךָ וְהָיָה֙ בְּשִׁבְתְּךָ֣ ח֔וּץ וְחָפַרְתָּ֣ה בָ֔הּ וְשַׁבְתָּ֖ וְכִסִּ֥יתָ אֶת־ צֵאָתֶֽךָ׃"
+pericope: "[[Deut.23.9 Uncleanness in the Camp|Uncleanness in the Camp]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 23
+book/chapter: "[[Deut.23|Deuteronomy 23]]"
+chronological_order: 219
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CLEANLINESS|CLEANLINESS]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H3489]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0240]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H9003]]"
+- "[[H3427]]"
+- "[[H9041]]"
+- "[[H2351]]"
+- "[[H2658]]"
+- "[[H9034]]"
+- "[[H7725G]]"
+- "[[H3680]]"
+- "[[H0853]]"
+- "[[H6627]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 23:13**<big><big>[[Deut.23.9 Uncleanness in the Camp|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt have a paddle upon thy weapon; and it shall be, when thou wilt ease thyself abroad, thou shalt dig therewith, and shalt turn back and cover that which cometh from thee:
 <small><sub>**BSB:**</sub></small>
 And you must have a digging tool in your equipment so that when you relieve yourself you can dig a hole and cover up your excrement.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3489\|יָתֵ֛ד]] [[H1961\|תִּהְיֶ֥ה]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H5921A\|עַל]][[H9014\|־]] [[H0240\|אֲזֵנֶ֑]][[H9021\|ךָ]] [[H9001\|וְ]][[H1961\|הָיָה֙]] [[H9003\|בְּ]][[H3427\|שִׁבְתְּ]][[H9041\|ךָ֣]] [[H2351\|ח֔וּץ]] [[H9001\|וְ]][[H2658\|חָפַרְתָּ֣ה]] [[H9003\|בָ֔]][[H9034\|הּ]] [[H9001\|וְ]][[H7725G\|שַׁבְתָּ֖]] [[H9001\|וְ]][[H3680\|כִסִּ֥יתָ]] [[H0853\|אֶת]][[H9014\|־]] [[H6627\|צֵאָתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLEANLINESS|CLEANLINESS]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.12|<< Deuteronomy 23:12]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.14|Deuteronomy 23:14 >>]]</td></tr></table>
 

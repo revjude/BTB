@@ -1,8 +1,76 @@
+---
+title: Jeremiah 5:19
+type: Verse
+kjv: "And it shall come to pass, when ye shall say, Wherefore doeth the LORD our God all these things unto us? then shalt thou answer them, Like as ye have forsaken me, and served strange gods in your land, so shall ye serve strangers in a land that is not yours."
+bsb: "And when the people ask, ‘For what offense has the LORD our God done all these things to us?’ You are to tell them, ‘Just as you have forsaken Me and served foreign gods in your land, so will you serve foreigners in a land that is not your own.’”"
+hebrew: "וְהָיָה֙ כִּ֣י תֹאמְר֔וּ תַּ֣חַת מֶ֗ה עָשָׂ֨ה יְהֹוָ֧ה אֱלֹהֵ֛ינוּ לָ֖נוּ אֶת־ כָּל־ אֵ֑לֶּה וְאָמַרְתָּ֣ אֲלֵיהֶ֗ם כַּאֲשֶׁ֨ר עֲזַבְתֶּ֤ם אוֹתִי֙ וַתַּעַבְד֞וּ אֱלֹהֵ֤י נֵכָר֙ בְּאַרְצְכֶ֔ם כֵּ֚ן תַּעַבְד֣וּ זָרִ֔ים בְּאֶ֖רֶץ לֹ֥א לָכֶֽם׃ ס"
+pericope: "[[Jer.5.14 Judgment Proclaimed|Judgment Proclaimed]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 5
+book/chapter: "[[Jer.5|Jeremiah 5]]"
+chronological_order: 722
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H0559]]"
+- "[[H8478J]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H0428]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H5800A]]"
+- "[[H9030]]"
+- "[[H5647H]]"
+- "[[H0430]]"
+- "[[H5236]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9026]]"
+- "[[H3651C]]"
+- "[[H2114A]]"
+- "[[H3808]]"
+- "[[H9036]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 5:19**<big><big>[[Jer.5.14 Judgment Proclaimed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, when ye shall say, Wherefore doeth the LORD our God all these [things] unto us? then shalt thou answer them, Like as ye have forsaken me, and served strange gods in your land, so shall ye serve strangers in a land [that is] not yours.
 <small><sub>**BSB:**</sub></small>
 And when the people ask, ‘For what offense has the LORD our God done all these things to us?’ You are to tell them, ‘Just as you have forsaken Me and served foreign gods in your land, so will you serve foreigners in a land that is not your own.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָה֙]] [[H3588A\|כִּ֣י]] [[H0559\|תֹאמְר֔וּ]] [[H8478J\|תַּ֣חַת]] [[H4100\|מֶ֗ה]] [[H6213A\|עָשָׂ֨ה]] [[H3068G\|יְהֹוָ֧ה]] [[H0430G\|אֱלֹהֵ֛י]][[H9025\|נוּ]] [[H9005\|לָ֖]][[H9035\|נוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0428\|אֵ֑לֶּה]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֲלֵי]][[H9038\|הֶ֗ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H5800A\|עֲזַבְתֶּ֤ם]] [[H0853\|אוֹתִ]][[H9030\|י֙]] [[H9001\|וַ]][[H5647H\|תַּעַבְד֞וּ]] [[H0430\|אֱלֹהֵ֤י]] [[H5236\|נֵכָר֙]] [[H9003\|בְּ]][[H0776G\|אַרְצְ]][[H9026\|כֶ֔ם]] [[H3651C\|כֵּ֚ן]] [[H5647H\|תַּעַבְד֣וּ]] [[H2114A\|זָרִ֔ים]] [[H9003\|בְּ]][[H0776G\|אֶ֖רֶץ]] [[H3808\|לֹ֥א]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.18|<< Jeremiah 5:18]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.20|Jeremiah 5:20 >>]]</td></tr></table>
 
@@ -34,7 +102,7 @@ And when the people ask, ‘For what offense has the LORD our God done all these
 | strangers  |**<big>&#8207;[[H2114A\|זָרִ֔ים]]&#8207; </big>**| za.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in a land  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0776G\|אֶ֖רֶץ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [which] not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [belongs] to \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belongs] to \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.18|<< Jeremiah 5:18]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.20|Jeremiah 5:20 >>]]</td></tr></table>
 
 

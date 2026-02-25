@@ -1,28 +1,35 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Walking in the Truth
+type: Pericope
 pericope: "[[2John.1.4 Walking in the Truth|Walking in the Truth]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: 2 John
 chapter: 1
 book/chapter: "[[2John.1|2 John 1]]"
-genre:
+chronological_order: 1166
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
 - epistle
 - general epistle
 - johannine epistle
 - personal letter
 - polemical
+verse_count: 3
 verses:
 - "[[2John.1.4]]"
 - "[[2John.1.5]]"
 - "[[2John.1.6]]"
 ---
 
-[[2John.1|2 John 1:4 - 2 John 1:6]]
+<small>[[2John.1|2 John 1:4-6]]</small>
 *Walking in the Truth*
 
 [[2John.1.4|4]] I rejoiced greatly that I found of thy children walking in truth, as we have received a commandment from the Father.

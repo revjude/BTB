@@ -1,8 +1,75 @@
+---
+title: Genesis 25:6
+type: Verse
+kjv: "But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away from Isaac his son, while he yet lived, eastward, unto the east country."
+bsb: "But while he was still alive, Abraham gave gifts to the sons of his concubines and sent them away from his son Isaac to the land of the east."
+hebrew: "וְלִבְנֵ֤י הַפִּֽילַגְשִׁים֙ אֲשֶׁ֣ר לְאַבְרָהָ֔ם נָתַ֥ן אַבְרָהָ֖ם מַתָּנֹ֑ת וַֽיְשַׁלְּחֵ֞ם מֵעַ֨ל יִצְחָ֤ק בְּנוֹ֙ בְּעוֹדֶ֣נּוּ חַ֔י קֵ֖דְמָה אֶל־ אֶ֥רֶץ קֶֽדֶם׃"
+pericope: "[[Gen.25.1 Abraham and Keturah|Abraham and Keturah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 25
+book/chapter: "[[Gen.25|Genesis 25]]"
+chronological_order: 67
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CONCUBINAGE|CONCUBINAGE]]"
+- "[[topic HEIR|HEIR]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic JOKSHAN|JOKSHAN]]"
+- "[[topic WILL|WILL]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H1121A]]"
+- "[[H9009]]"
+- "[[H6370]]"
+- "[[H0834A]]"
+- "[[H0085]]"
+- "[[H5414G]]"
+- "[[H4979]]"
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H3327]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H5750]]"
+- "[[H9043]]"
+- "[[H2416A]]"
+- "[[H6924B]]"
+- "[[H9011]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H6924G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 25:6**<big><big>[[Gen.25.1 Abraham and Keturah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away from Isaac his son, while he yet lived, eastward, unto the east country.
 <small><sub>**BSB:**</sub></small>
 But while he was still alive, Abraham gave gifts to the sons of his concubines and sent them away from his son Isaac to the land of the east.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לִ]][[H1121A\|בְנֵ֤י]] [[H9009\|הַ]][[H6370\|פִּֽילַגְשִׁים֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לְ]][[H0085\|אַבְרָהָ֔ם]] [[H5414G\|נָתַ֥ן]] [[H0085\|אַבְרָהָ֖ם]] [[H4979\|מַתָּנֹ֑ת]] [[H9001\|וַֽ]][[H7971G\|יְשַׁלְּחֵ֞]][[H9038\|ם]] [[H9006\|מֵ]][[H5921A\|עַ֨ל]] [[H3327\|יִצְחָ֤ק]] [[H1121A\|בְּנ]][[H9023\|וֹ֙]] [[H9003\|בְּ]][[H5750\|עוֹדֶ֣]][[H9043\|נּוּ]] [[H2416A\|חַ֔י]] [[H6924B\|קֵ֖דְמָ]][[H9011\|ה]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H6924G\|קֶֽדֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CONCUBINAGE|CONCUBINAGE]] • [[topic HEIR|HEIR]] • [[topic INHERITANCE|INHERITANCE]] • [[topic JOKSHAN|JOKSHAN]] • [[topic WILL|WILL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.5|<< Genesis 25:5]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.7|Genesis 25:7 >>]]</td></tr></table>
 

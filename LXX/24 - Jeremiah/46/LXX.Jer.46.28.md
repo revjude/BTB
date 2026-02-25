@@ -1,6 +1,78 @@
+---
+title: LXX Jeremiah 46:28
+type: Verse
+lxx: "You should not fear, my child, Jacob, says the lord, For I am with you. For I will appoint consummation among every nation in which I led you out of there. But you in no way will I appoint to cease, and I will correct you in judgment; but I will not acquit you as innocent."
+greek: "μη φοβού παις μου Ιακώβ λέγει κύριος ότι μετά σου ειμί εγώ ότι ποιήσω συντέλειαν εν παντί έθνει εις ους έξωσά σε εκεί σε δε ου μη ποιήσω εκλείπειν και παιδεύσω σε εις κρίμα και αθώον ουκ αθωώσω σε"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 46
+book/chapter: "[[Jer.46|Jeremiah 46]]"
+chronological_order: 769
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G3361]]"
+- "[[G5399]]"
+- "[[G3816]]"
+- "[[G1473]]"
+- "[[G2384]]"
+- "[[G3004]]"
+- "[[G2962]]"
+- "[[G3754]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G1473]]"
+- "[[G3754]]"
+- "[[G4160]]"
+- "[[G4930]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G1484]]"
+- "[[G1519]]"
+- "[[G3739]]"
+- "[[G1856]]"
+- "[[G1473]]"
+- "[[G1563]]"
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G3364]]"
+- "[[G4160]]"
+- "[[G1587]]"
+- "[[G2532]]"
+- "[[G3811]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G2917]]"
+- "[[G2532]]"
+- "[[G0121]]"
+- "[[G3756]]"
+- "[[G6154]]"
+- "[[G1473]]"
+---
+
 **LXX Jeremiah 46:28** 
 <small><sub>**LXX:**</sub></small>
 You should not fear, my child, Jacob, says \[the\] <span class="smallcaps">lord</span>, For I am with you. For I will appoint consummation among every nation in which I led you out of there. But you in no way will I appoint to cease, and I will correct you in judgment; but I will not acquit you as innocent. 
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μη]] [[G5399\|φοβού]] [[G3816\|παις]] [[G1473\|μου]] [[G2384\|Ιακώβ]] [[G3004\|λέγει]] [[G2962\|κύριος]] [[G3754\|ότι]] [[G3326\|μετά]] [[G1473\|σου]] [[G1510\|ειμί]] [[G1473\|εγώ]] [[G3754\|ότι]] [[G4160\|ποιήσω]] [[G4930\|συντέλειαν]] [[G1722\|εν]] [[G3956\|παντί]] [[G1484\|έθνει]] [[G1519\|εις]] [[G3739\|ους]] [[G1856\|έξωσά]] [[G1473\|σε]] [[G1563\|εκεί]] [[G1473\|σε]] [[G1161\|δε]] [[G3364\|ου μη]] [[G4160\|ποιήσω]] [[G1587\|εκλείπειν]] [[G2532\|και]] [[G3811\|παιδεύσω]] [[G1473\|σε]] [[G1519\|εις]] [[G2917\|κρίμα]] [[G2532\|και]] [[G0121\|αθώον]] [[G3756\|ουκ]] [[G6154\|αθωώσω]] [[G1473\|σε]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic GOD|GOD]] • [[topic SIN|SIN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.46.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.27|<< Jeremiah 46:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.47.1|Jeremiah 47:1 >>]]</td></tr></table>
 
@@ -40,6 +112,6 @@ You should not fear, my child, Jacob, says \[the\] <span class="smallcaps">lord<
 | I will not | **<big>[[G3756\|ουκ]]</big>** |
 | acquit | **<big>[[G6154\|αθωώσω]]</big>** |
 | you | **<big>[[G1473\|σε]]</big>** |
-[[Jer.46.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.27|<< Jeremiah 46:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.47.1|Jeremiah 47:1 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.27|<< Jeremiah 46:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.47.1|Jeremiah 47:1 >>]]</td></tr></table>
 
 

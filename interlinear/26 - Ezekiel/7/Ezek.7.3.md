@@ -1,8 +1,64 @@
+---
+title: Ezekiel 7:3
+type: Verse
+kjv: "Now is the end come upon thee, and I will send mine anger upon thee, and will judge thee according to thy ways, and will recompense upon thee all thine abominations."
+bsb: "The end is now upon you, and I will unleash My anger against you. I will judge you according to your ways and repay you for all your abominations."
+hebrew: "עַתָּה֙ הַקֵּ֣ץ עָלַ֔יִךְ וְשִׁלַּחְתִּ֤י אַפִּי֙ בָּ֔ךְ וּשְׁפַטְתִּ֖יךְ כִּדְרָכָ֑יִךְ וְנָתַתִּ֣י עָלַ֔יִךְ אֵ֖ת כָּל־ תּוֹעֲבֹתָֽיִךְ׃"
+pericope: "[[Ezek.7.1 The Hour of Doom|The Hour of Doom]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 7
+book/chapter: "[[Ezek.7|Ezekiel 7]]"
+chronological_order: 798
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+strongs:
+- "[[H6258]]"
+- "[[H9009]]"
+- "[[H7093]]"
+- "[[H5921A]]"
+- "[[H9032]]"
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0639G]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H8199]]"
+- "[[H9004]]"
+- "[[H1870G]]"
+- "[[H9022]]"
+- "[[H5414N]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H8441]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 7:3**<big><big>[[Ezek.7.1 The Hour of Doom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now [is] the end [come] upon thee, and I will send mine anger upon thee, and will judge thee according to thy ways, and will recompense upon thee all thine abominations.
 <small><sub>**BSB:**</sub></small>
 The end is now upon you, and I will unleash My anger against you. I will judge you according to your ways and repay you for all your abominations.
+<small><sub>**Hebrew:**</sub></small>
+[[H6258\|עַתָּה֙]] [[H9009\|הַ]][[H7093\|קֵּ֣ץ]] [[H5921A\|עָלַ֔יִ]][[H9032\|ךְ]] [[H9001\|וְ]][[H7971G\|שִׁלַּחְתִּ֤י]] [[H0639G\|אַפִּ]][[H9020\|י֙]] [[H9003\|בָּ֔]][[H9032\|ךְ]] [[H9001\|וּ]][[H8199\|שְׁפַטְתִּ֖י]][[H9032\|ךְ]] [[H9004\|כִּ]][[H1870G\|דְרָכָ֑יִ]][[H9022\|ךְ]] [[H9001\|וְ]][[H5414N\|נָתַתִּ֣י]] [[H5921A\|עָלַ֔יִ]][[H9032\|ךְ]] [[H0853\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H8441\|תּוֹעֲבֹתָֽיִ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGMENT|JUDGMENT]] • [[topic PUNISHMENT|PUNISHMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.2|<< Ezekiel 7:2]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.4|Ezekiel 7:4 >>]]</td></tr></table>
 

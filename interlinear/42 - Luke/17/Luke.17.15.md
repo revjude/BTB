@@ -1,10 +1,62 @@
+---
+title: Luke 17:15
+type: Verse
+kjv: "And one of them, when he saw that he was healed, turned back, and with a loud voice glorified God,"
+bsb: "When one of them saw that he was healed, he came back, praising God in a loud voice."
+greek: "εἷς δὲ ἐξ αὐτῶν ἰδὼν ὅτι ἰάθη, ὑπέστρεψεν μετὰ φωνῆς μεγάλης δοξάζων τὸν θεόν."
+pericope: "[[Luke.17.11 The Ten Lepers|The Ten Lepers]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 17
+book/chapter: "[[Luke.17|Luke 17]]"
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GLORIFYING GOD|GLORIFYING GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHOUTING|SHOUTING]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G1520]]"
+- "[[G1161]]"
+- "[[G1537]]"
+- "[[G0846]]"
+- "[[G1492H]]"
+- "[[G3754G]]"
+- "[[G2390]]"
+- "[[G5290]]"
+- "[[G3326]]"
+- "[[G5456G]]"
+- "[[G3173]]"
+- "[[G1392]]"
+- "[[G3588]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Luke 17:15**<big><big>[[Luke.17.11 The Ten Lepers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And one of them, when he saw that he was healed, turned back, and with a loud voice glorified God,
 <small><sub>**BSB:**</sub></small>
 When one of them saw that he was healed, he came back, praising God in a loud voice.
-<small><sub>**Literal:**</sub></small>
-one then of them having seen that he was healed, turned back with a voice loud glorifying <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.14|<< Luke 17:14]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.16|Luke 17:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1520\|εἷς]]  [[G1161\|δὲ]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G1492H\|ἰδὼν]]  [[G3754G\|ὅτι]]  [[G2390\|ἰάθη,]]  [[G5290\|ὑπέστρεψεν]]  [[G3326\|μετὰ]]  [[G5456G\|φωνῆς]]  [[G3173\|μεγάλης]]  [[G1392\|δοξάζων]]  [[G3588\|τὸν]]  [[G2316\|θεόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GLORIFYING GOD|GLORIFYING GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAISE|PRAISE]] • [[topic SAMARIA|SAMARIA]] • [[topic SHOUTING|SHOUTING]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.14|<< Luke 17:14]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.16|Luke 17:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

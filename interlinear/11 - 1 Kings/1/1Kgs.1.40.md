@@ -1,8 +1,69 @@
+---
+title: 1 Kings 1:40
+type: Verse
+kjv: "And all the people came up after him, and the people piped with pipes, and rejoiced with great joy, so that the earth rent with the sound of them."
+bsb: "All the people followed him, playing flutes and rejoicing with such a great joy that the earth was split by the sound."
+hebrew: "וַיַּעֲל֤וּ כָל־ הָעָם֙ אַֽחֲרָ֔יו וְהָעָם֙ מְחַלְּלִ֣ים בַּחֲלִלִ֔ים וּשְׂמֵחִ֖ים שִׂמְחָ֣ה גְדוֹלָ֑ה וַתִּבָּקַ֥ע הָאָ֖רֶץ בְּקוֹלָֽם׃"
+pericope: "[[1Kgs.1.32 Solomon Anointed King|Solomon Anointed King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic THRONE|THRONE]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H2490B]]"
+- "[[H9003]]"
+- "[[H2485]]"
+- "[[H8056]]"
+- "[[H8057]]"
+- "[[H1419A]]"
+- "[[H1234]]"
+- "[[H0776G]]"
+- "[[H6963H]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:40**<big><big>[[1Kgs.1.32 Solomon Anointed King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the people came up after him, and the people piped with pipes, and rejoiced with great joy, so that the earth rent with the sound of them.
 <small><sub>**BSB:**</sub></small>
 All the people followed him, playing flutes and rejoicing with such a great joy that the earth was split by the sound.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|יַּעֲל֤וּ]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H0310A\|אַֽחֲרָ֔י]][[H9033\|ו]] [[H9002\|וְ]][[H9009\|הָ]][[H5971A\|עָם֙]] [[H2490B\|מְחַלְּלִ֣ים]] [[H9003\|בַּ]][[H2485\|חֲלִלִ֔ים]] [[H9002\|וּ]][[H8056\|שְׂמֵחִ֖ים]] [[H8057\|שִׂמְחָ֣ה]] [[H1419A\|גְדוֹלָ֑ה]] [[H9001\|וַ]][[H1234\|תִּבָּקַ֥ע]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9003\|בְּ]][[H6963H\|קוֹלָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic ISRAEL|ISRAEL]] • [[topic MUSIC|MUSIC]] • [[topic NATHAN|NATHAN]] • [[topic POLITICS|POLITICS]] • [[topic SOLOMON|SOLOMON]] • [[topic THRONE|THRONE]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.39|<< 1 Kings 1:39]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.41|1 Kings 1:41 >>]]</td></tr></table>
 

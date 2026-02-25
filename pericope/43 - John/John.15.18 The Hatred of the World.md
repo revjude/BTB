@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Hatred of the World
+type: Pericope
 pericope: "[[John.15.18 The Hatred of the World|The Hatred of the World]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: John
 chapter: 15
 book/chapter: "[[John.15|John 15]]"
-genre:
+chronological_order: 1003
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 10
 verses:
 - "[[John.15.18]]"
 - "[[John.15.19]]"
@@ -28,7 +35,7 @@ verses:
 - "[[John.15.27]]"
 ---
 
-[[John.15|John 15:18 - John 15:27]]
+<small>[[John.15|John 15:18-27]]</small>
 *The Hatred of the World*
 
 [[John.15.18|18]] If the world hate you, ye know that it hated me before \[it hated\] you.

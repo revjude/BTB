@@ -1,8 +1,54 @@
+---
+title: Job 16:16
+type: Verse
+kjv: "My face is foul with weeping, and on my eyelids is the shadow of death;"
+bsb: "My face is red with weeping, and deep shadows ring my eyes;"
+hebrew: "פָּנַ֣י חֳ֭מַרְמְרוּ מִנִּי־ בֶ֑כִי וְעַ֖ל עַפְעַפַּ֣י צַלְמָֽוֶת׃"
+pericope: "[[Job.16.1 Job Decries His Comforters|Job Decries His Comforters]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 16
+book/chapter: "[[Job.16|Job 16]]"
+chronological_order: 27
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic INJUSTICE|INJUSTICE]]"
+strongs:
+- "[[H6440H]]"
+- "[[H9020]]"
+- "[[H2560C]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H1065]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H6079]]"
+- "[[H6757]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Job 16:16**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My face is foul with weeping, and on my eyelids [is] the shadow of death;
 <small><sub>**BSB:**</sub></small>
 My face is red with weeping, and deep shadows ring my eyes;
+<small><sub>**Hebrew:**</sub></small>
+[[H6440H\|פָּנַ֣]][[H9020\|י]] [[H2560C\|חֳ֭מַרְמְרוּ]] [[H4480A\|מִנִּי]][[H9014\|־]] [[H1065\|בֶ֑כִי]] [[H9002\|וְ]][[H5921A\|עַ֖ל]] [[H6079\|עַפְעַפַּ֣]][[H9020\|י]] [[H6757\|צַלְמָֽוֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic INJUSTICE|INJUSTICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.15|<< Job 16:15]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.17|Job 16:17 >>]]</td></tr></table>
 

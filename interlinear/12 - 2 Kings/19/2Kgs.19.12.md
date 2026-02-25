@@ -1,8 +1,67 @@
+---
+title: 2 Kings 19:12
+type: Verse
+kjv: "Have the gods of the nations delivered them which my fathers have destroyed; as Gozan, and Haran, and Rezeph, and the children of Eden which were in Thelasar?"
+bsb: "Did the gods of the nations destroyed by my fathers rescue those nations—the gods of Gozan, Haran, and Rezeph, and of the people of Eden in Telassar?"
+hebrew: "הַהִצִּ֨ילוּ אֹתָ֜ם אֱלֹהֵ֤י הַגּוֹיִם֙ אֲשֶׁ֣ר שִׁחֲת֣וּ אֲבוֹתַ֔י אֶת־ גּוֹזָ֖ן וְאֶת־ חָרָ֑ן וְרֶ֥צֶף וּבְנֵי־ עֶ֖דֶן אֲשֶׁ֥ר בִּתְלַאשָּֽׂר׃"
+pericope: "[[2Kgs.19.8 Sennacherib’s Blasphemous Letter|Sennacherib’s Blasphemous Letter]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 19
+book/chapter: "[[2Kgs.19|2 Kings 19]]"
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic EDEN|EDEN]]"
+- "[[topic GOZAN|GOZAN]]"
+- "[[topic HARAN|HARAN]]"
+- "[[topic REZEPH|REZEPH]]"
+- "[[topic TELASSAR|TELASSAR]]"
+- "[[topic THELASAR|THELASAR]]"
+strongs:
+- "[[H9008]]"
+- "[[H5337]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H0430]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0834A]]"
+- "[[H7843]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H9014]]"
+- "[[H1470]]"
+- "[[H9002]]"
+- "[[H2771A]]"
+- "[[H7530]]"
+- "[[H1121G]]"
+- "[[H5729]]"
+- "[[H9003]]"
+- "[[H8515]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 19:12**<big><big>[[2Kgs.19.8 Sennacherib’s Blasphemous Letter|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have the gods of the nations delivered them which my fathers have destroyed; [as] Gozan, and Haran, and Rezeph, and the children of Eden which [were] in Thelasar?
 <small><sub>**BSB:**</sub></small>
 Did the gods of the nations destroyed by my fathers rescue those nations—the gods of Gozan, Haran, and Rezeph, and of the people of Eden in Telassar?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H5337\|הִצִּ֨ילוּ]] [[H0853\|אֹתָ֜]][[H9038\|ם]] [[H0430\|אֱלֹהֵ֤י]] [[H9009\|הַ]][[H1471A\|גּוֹיִם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H7843\|שִׁחֲת֣וּ]] [[H0001G\|אֲבוֹתַ֔]][[H9020\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H1470\|גּוֹזָ֖ן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2771A\|חָרָ֑ן]] [[H9002\|וְ]][[H7530\|רֶ֥צֶף]] [[H9002\|וּ]][[H1121G\|בְנֵי]][[H9014\|־]] [[H5729\|עֶ֖דֶן]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בִּ]][[H8515\|תְלַאשָּֽׂר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIPLOMACY|DIPLOMACY]] • [[topic EDEN|EDEN]] • [[topic GOZAN|GOZAN]] • [[topic HARAN|HARAN]] • [[topic REZEPH|REZEPH]] • [[topic TELASSAR|TELASSAR]] • [[topic THELASAR|THELASAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.11|<< 2 Kings 19:11]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.13|2 Kings 19:13 >>]]</td></tr></table>
 

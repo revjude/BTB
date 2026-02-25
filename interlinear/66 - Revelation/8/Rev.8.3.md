@@ -1,10 +1,69 @@
+---
+title: Revelation 8:3
+type: Verse
+kjv: "And another angel came and stood at the altar, having a golden censer; and there was given unto him much incense, that he should offer it with the prayers of all saints upon the golden altar which was before the throne."
+bsb: "Then another angel, who had a golden censer, came and stood at the altar. He was given much incense to offer, along with the prayers of all the saints, on the golden altar before the throne."
+greek: "Καὶ ἄλλος ἄγγελος ἦλθεν καὶ ἐστάθη ἐπὶ τοῦ θυσιαστηρίου ἔχων λιβανωτὸν χρυσοῦν. καὶ ἐδόθη αὐτῷ θυμιάματα πολλὰ ἵνα δώσει ταῖς προσευχαῖς τῶν ἁγίων πάντων ἐπὶ τὸ θυσιαστήριον τὸ χρυσοῦν τὸ ἐνώπιον τοῦ θρόνου."
+pericope: "[[Rev.8.1 The Seventh Seal|The Seventh Seal]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 8
+book/chapter: "[[Rev.8|Revelation 8]]"
+chronological_order: 1175
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CENSER|CENSER]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G0243]]"
+- "[[G0032G]]"
+- "[[G2064]]"
+- "[[G2476]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2379]]"
+- "[[G2192]]"
+- "[[G3031]]"
+- "[[G5552]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G2368]]"
+- "[[G4183]]"
+- "[[G2443]]"
+- "[[G4335]]"
+- "[[G0040H]]"
+- "[[G3956]]"
+- "[[G1799]]"
+- "[[G2362]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 8:3**<big><big>[[Rev.8.1 The Seventh Seal|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And another angel came and stood at the altar, having a golden censer; and there was given unto him much incense, that he should offer [it] with the prayers of all saints upon the golden altar which was before the throne.
 <small><sub>**BSB:**</sub></small>
 Then another angel, who had a golden censer, came and stood at the altar. He was given much incense to offer, along with the prayers of all the saints, on the golden altar before the throne.
-<small><sub>**Literal:**</sub></small>
-And another angel came and he stood at the altar having a censer golden. and was given to him incense much that he will give [it] with the prayers of the saints all upon the altar <the> golden <the> before the throne.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.2|<< Revelation 8:2]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.4|Revelation 8:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0243\|ἄλλος]]  [[G0032G\|ἄγγελος]]  [[G2064\|ἦλθεν]]  [[G2532\|καὶ]]  [[G2476\|ἐστάθη]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῦ]]  [[G2379\|θυσιαστηρίου]]  [[G2192\|ἔχων]]  [[G3031\|λιβανωτὸν]]  [[G5552\|χρυσοῦν.]]  [[G2532\|καὶ]]  [[G1325\|ἐδόθη]]  [[G0846\|αὐτῷ]]  [[G2368\|θυμιάματα]]  [[G4183\|πολλὰ]]  [[G2443\|ἵνα]]  [[G1325\|δώσει]]  [[G3588\|ταῖς]]  [[G4335\|προσευχαῖς]]  [[G3588\|τῶν]]  [[G0040H\|ἁγίων]]  [[G3956\|πάντων]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G2379\|θυσιαστήριον]]  [[G3588\|τὸ]]  [[G5552\|χρυσοῦν]]  [[G3588\|τὸ]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2362\|θρόνου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CENSER|CENSER]] • [[topic INCENSE|INCENSE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.2|<< Revelation 8:2]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.4|Revelation 8:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 8:3** is...
 > $\quad$ possibly alluding to: [[LXX.Exod.30.8|Exod 30:8]]

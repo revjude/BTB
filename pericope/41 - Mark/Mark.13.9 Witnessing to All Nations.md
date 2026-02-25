@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Witnessing to All Nations
+type: Pericope
 pericope: "[[Mark.13.9 Witnessing to All Nations|Witnessing to All Nations]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Mark
 chapter: 13
 book/chapter: "[[Mark.13|Mark 13]]"
-genre:
+chronological_order: 998
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Mark.13.9]]"
 - "[[Mark.13.10]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Mark.13.13]]"
 ---
 
-[[Mark.13|Mark 13:9 - Mark 13:13]]
+<small>[[Mark.13|Mark 13:9-13]]</small>
 *Witnessing to All Nations*
 
 [[Mark.13.9|9]] But take heed to yourselves: for they shall deliver you up to councils; and in the synagogues ye shall be beaten: and ye shall be brought before rulers and kings for my sake, for a testimony against them.

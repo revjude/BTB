@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hosea Redeems His Wife
+type: Pericope
 pericope: "[[Hos.3.1 Hosea Redeems His Wife|Hosea Redeems His Wife]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Hosea
 chapter: 3
 book/chapter: "[[Hos.3|Hosea 3]]"
-genre:
+chronological_order: 644
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 5
 verses:
 - "[[Hos.3.1]]"
 - "[[Hos.3.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Hos.3.5]]"
 ---
 
-[[Hos.3|Hosea 3:1 - Hosea 3:5]]
+<small>[[Hos.3|Hosea 3:1-5]]</small>
 *Hosea Redeems His Wife*
 
 [[Hos.3.1|1]] Then said the LORD unto me, Go yet, love a woman beloved of \[her\] friend, yet an adulteress, according to the love of the LORD toward the children of Israel, who look to other gods, and love flagons of wine.

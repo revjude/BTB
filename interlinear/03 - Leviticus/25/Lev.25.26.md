@@ -1,8 +1,69 @@
+---
+title: Leviticus 25:26
+type: Verse
+kjv: "And if the man have none to redeem it, and himself be able to redeem it;"
+bsb: "Or if a man has no one to redeem it for him, but he prospers and acquires enough to redeem his land,"
+hebrew: "וְאִ֕ישׁ כִּ֛י לֹ֥א יִֽהְיֶה־ לּ֖וֹ גֹּאֵ֑ל וְהִשִּׂ֣יגָה יָד֔וֹ וּמָצָ֖א כְּדֵ֥י גְאֻלָּתֽוֹ׃"
+pericope: "[[Lev.25.23 The Law of Redemption|The Law of Redemption]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic HOMESTEAD|HOMESTEAD]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic LAND|LAND]]"
+- "[[topic POOR|POOR]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376I]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H1350A]]"
+- "[[H9001]]"
+- "[[H5381]]"
+- "[[H3027I]]"
+- "[[H9023]]"
+- "[[H4672]]"
+- "[[H9004]]"
+- "[[H1767]]"
+- "[[H1353]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:26**<big><big>[[Lev.25.23 The Law of Redemption|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if the man have none to redeem it, and himself be able to redeem it;
 <small><sub>**BSB:**</sub></small>
 Or if a man has no one to redeem it for him, but he prospers and acquires enough to redeem his land,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376I\|אִ֕ישׁ]] [[H3588A\|כִּ֛י]] [[H3808\|לֹ֥א]] [[H1961\|יִֽהְיֶה]][[H9014\|־]] [[H9005\|לּ֖]][[H9033\|וֹ]] [[H1350A\|גֹּאֵ֑ל]] [[H9001\|וְ]][[H5381\|הִשִּׂ֣יגָה]] [[H3027I\|יָד֔]][[H9023\|וֹ]] [[H9001\|וּ]][[H4672\|מָצָ֖א]] [[H9004\|כְּ]][[H1767\|דֵ֥י]] [[H1353\|גְאֻלָּתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic DEBTOR|DEBTOR]] • [[topic HOMESTEAD|HOMESTEAD]] • [[topic JUBILEE|JUBILEE]] • [[topic LAND|LAND]] • [[topic POOR|POOR]] • [[topic REDEMPTION|REDEMPTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.25|<< Leviticus 25:25]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.27|Leviticus 25:27 >>]]</td></tr></table>
 

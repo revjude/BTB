@@ -1,10 +1,52 @@
+---
+title: Romans 6:14
+type: Verse
+kjv: "For sin shall not have dominion over you: for ye are not under the law, but under grace."
+bsb: "For sin shall not be your master, because you are not under law, but under grace."
+greek: "ἁμαρτία γὰρ ὑμῶν οὐ κυριεύσει· οὐ γάρ ἐστε ὑπὸ νόμον ἀλλ᾽ ὑπὸ χάριν.¶"
+pericope: "[[Rom.6.1 Dead to Sin, Alive to God|Dead to Sin, Alive to God]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 6
+book/chapter: "[[Rom.6|Romans 6]]"
+chronological_order: 1092
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G0266]]"
+- "[[G1063]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G2961]]"
+- "[[G1510]]"
+- "[[G5259H]]"
+- "[[G3551]]"
+- "[[G0235]]"
+- "[[G5485]]"
+texts:
+- NKO
+---
+
 **Romans 6:14**<big><big>[[Rom.6.1 Dead to Sin, Alive to God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For sin shall not have dominion over you: for ye are not under the law, but under grace.
 <small><sub>**BSB:**</sub></small>
 For sin shall not be your master, because you are not under law, but under grace.
-<small><sub>**Literal:**</sub></small>
-Sin for you not will rule over; not for you are under law but under grace.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.13|<< Romans 6:13]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.15|Romans 6:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0266\|ἁμαρτία]]  [[G1063\|γὰρ]]  [[G4771\|ὑμῶν]]  [[G3756\|οὐ]]  [[G2961\|κυριεύσει·]]  [[G3756\|οὐ]]  [[G1063\|γάρ]]  [[G1510\|ἐστε]]  [[G5259H\|ὑπὸ]]  [[G3551\|νόμον]]  [[G0235\|ἀλλ᾽]]  [[G5259H\|ὑπὸ]]  [[G5485\|χάριν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLINESS|HOLINESS]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.13|<< Romans 6:13]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.15|Romans 6:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,68 @@
+---
+title: 1 Kings 8:24
+type: Verse
+kjv: "Who hast kept with thy servant David my father that thou promisedst him: thou spakest also with thy mouth, and hast fulfilled it with thine hand, as it is this day."
+bsb: "You have kept Your promise to Your servant, my father David. What You spoke with Your mouth You have fulfilled with Your hand this day."
+hebrew: "אֲשֶׁ֣ר שָׁמַ֗רְתָּ לְעַבְדְּךָ֙ דָּוִ֣ד אָבִ֔י אֵ֥ת אֲשֶׁר־ דִּבַּ֖רְתָּ ל֑וֹ וַתְּדַבֵּ֥ר בְּפִ֛יךָ וּבְיָדְךָ֥ מִלֵּ֖אתָ כַּיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[1Kgs.8.22 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H0834A]]"
+- "[[H8104G]]"
+- "[[H9005]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1696I]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H9002]]"
+- "[[H3027H]]"
+- "[[H4390]]"
+- "[[H9004]]"
+- "[[H3117L]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:24**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who hast kept with thy servant David my father that thou promisedst him: thou spakest also with thy mouth, and hast fulfilled [it] with thine hand, as [it is] this day.
 <small><sub>**BSB:**</sub></small>
 You have kept Your promise to Your servant, my father David. What You spoke with Your mouth You have fulfilled with Your hand this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֣ר]] [[H8104G\|שָׁמַ֗רְתָּ]] [[H9005\|לְ]][[H5650\|עַבְדְּ]][[H9021\|ךָ֙]] [[H1732\|דָּוִ֣ד]] [[H0001G\|אָבִ֔]][[H9020\|י]] [[H0853\|אֵ֥ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1696I\|דִּבַּ֖רְתָּ]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H1696G\|תְּדַבֵּ֥ר]] [[H9003\|בְּ]][[H6310G\|פִ֛י]][[H9021\|ךָ]] [[H9002\|וּ]][[H9003\|בְ]][[H3027H\|יָדְ]][[H9021\|ךָ֥]] [[H4390\|מִלֵּ֖אתָ]] [[H9004\|כַּ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PRAYER|PRAYER]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.23|<< 1 Kings 8:23]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.25|1 Kings 8:25 >>]]</td></tr></table>
 

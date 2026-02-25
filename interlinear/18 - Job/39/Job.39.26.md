@@ -1,8 +1,57 @@
+---
+title: Job 39:26
+type: Verse
+kjv: "Doth the hawk fly by thy wisdom, and stretch her wings toward the south?"
+bsb: "Does the hawk take flight by your understanding and spread his wings toward the south?"
+hebrew: "הֲֽ֭מִבִּינָ֣תְךָ יַֽאֲבֶר־ נֵ֑ץ יִפְרֹ֖שׂ כְּנָפָ֣יו לְתֵימָֽן׃"
+pericope: "[[Job.39.1 The LORD Speaks of His Creation|The LORD Speaks of His Creation]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 39
+book/chapter: "[[Job.39|Job 39]]"
+chronological_order: 50
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HAWK|HAWK]]"
+strongs:
+- "[[H9008]]"
+- "[[H9006]]"
+- "[[H0998]]"
+- "[[H9021]]"
+- "[[H0082]]"
+- "[[H9014]]"
+- "[[H5322B]]"
+- "[[H6566]]"
+- "[[H3671]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H8486]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Job 39:26**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Doth the hawk fly by thy wisdom, [and] stretch her wings toward the south?
 <small><sub>**BSB:**</sub></small>
 Does the hawk take flight by your understanding and spread his wings toward the south?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲֽ֭]][[H9006\|מִ]][[H0998\|בִּינָ֣תְ]][[H9021\|ךָ]] [[H0082\|יַֽאֲבֶר]][[H9014\|־]] [[H5322B\|נֵ֑ץ]] [[H6566\|יִפְרֹ֖שׂ]] [[H3671\|כְּנָפָ֣י]][[H9023\|ו]] [[H9005\|לְ]][[H8486\|תֵימָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRDS|BIRDS]] • [[topic GOD|GOD]] • [[topic HAWK|HAWK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.25|<< Job 39:25]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.27|Job 39:27 >>]]</td></tr></table>
 
@@ -16,7 +65,7 @@ Does the hawk take flight by your understanding and spread his wings toward the 
 | to [the] south  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H8486\|תֵימָֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> tei.Man<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.25|<< Job 39:25]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.27|Job 39:27 >>]]</td></tr></table>
 
-[^1]: wing its  | **<big>[[H9023|וֹ]]</big><big>[[H3671|כְּנָפ]]</big> ** | ke.na.fo<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: wing its  | **<big>[[H9023|וֹ]]</big><big>[[H3671|כְּנָפ]]</big> ** | ke.na.fo<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: wing its  | **<big>[[H3671|כְּנָפ]]</big><big>[[H9023|וֹ]]</big> ** | ke.na.fo<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: wing its  | **<big>[[H3671|כְּנָפ]]</big><big>[[H9023|וֹ]]</big> ** | ke.na.fo<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>כְּנָפָ֣ו</big></span>**
 

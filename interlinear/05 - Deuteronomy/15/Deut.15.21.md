@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 15:21
+type: Verse
+kjv: "And if there be any blemish therein, as if it be lame, or blind, or have any ill blemish, thou shalt not sacrifice it unto the LORD thy God."
+bsb: "But if an animal has a defect, is lame or blind, or has any serious flaw, you must not sacrifice it to the LORD your God."
+hebrew: "וְכִֽי־ יִהְיֶ֨ה ב֜וֹ מ֗וּם פִּסֵּ֙חַ֙ א֣וֹ עִוֵּ֔ר כֹּ֖ל מ֣וּם רָ֑ע לֹ֣א תִזְבָּחֶ֔נּוּ לַיהוָ֖ה אֱלֹהֶֽיךָ׃"
+pericope: "[[Deut.15.19 Firstborn Animals|Firstborn Animals]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 15
+book/chapter: "[[Deut.15|Deuteronomy 15]]"
+chronological_order: 211
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic LAMENESS|LAMENESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H3971B]]"
+- "[[H6455]]"
+- "[[H0176A]]"
+- "[[H5787]]"
+- "[[H3605]]"
+- "[[H7451A]]"
+- "[[H3808]]"
+- "[[H2076]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 15:21**<big><big>[[Deut.15.19 Firstborn Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if there be [any] blemish therein, [as if it be] lame, or blind, [or have] any ill blemish, thou shalt not sacrifice it unto the LORD thy God.
 <small><sub>**BSB:**</sub></small>
 But if an animal has a defect, is lame or blind, or has any serious flaw, you must not sacrifice it to the LORD your God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H1961\|יִהְיֶ֨ה]] [[H9003\|ב֜]][[H9033\|וֹ]] [[H3971B\|מ֗וּם]] [[H6455\|פִּסֵּ֙חַ֙]] [[H0176A\|א֣וֹ]] [[H5787\|עִוֵּ֔ר]] [[H3605\|כֹּ֖ל]] [[H3971B\|מ֣וּם]] [[H7451A\|רָ֑ע]] [[H3808\|לֹ֣א]] [[H2076\|תִזְבָּחֶ֔]][[H9033\|נּוּ]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H0430G\|אֱלֹהֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic FIRSTBORN|FIRSTBORN]] • [[topic LAMENESS|LAMENESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.20|<< Deuteronomy 15:20]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.22|Deuteronomy 15:22 >>]]</td></tr></table>
 

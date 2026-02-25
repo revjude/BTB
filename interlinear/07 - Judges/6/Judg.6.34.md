@@ -1,8 +1,64 @@
+---
+title: Judges 6:34
+type: Verse
+kjv: "But the Spirit of the LORD came upon Gideon, and he blew a trumpet; and Abiezer was gathered after him."
+bsb: "So the Spirit of the LORD came upon Gideon, who blew the ram’s horn and rallied the Abiezrites behind him."
+hebrew: "וְר֣וּחַ יְהוָ֔ה לָבְשָׁ֖ה אֶת־ גִּדְע֑וֹן וַיִּתְקַע֙ בַּשּׁוֹפָ֔ר וַיִזָּעֵ֥ק אֲבִיעֶ֖זֶר אַחֲרָֽיו׃"
+pericope: "[[Judg.6.33 The Sign of the Fleece|The Sign of the Fleece]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 6
+book/chapter: "[[Judg.6|Judges 6]]"
+chronological_order: 260
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ABIEZER|ABIEZER]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic GIDEON|GIDEON]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9002]]"
+- "[[H7307G]]"
+- "[[H3068G]]"
+- "[[H3847]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1439]]"
+- "[[H9001]]"
+- "[[H8628]]"
+- "[[H9003]]"
+- "[[H7782]]"
+- "[[H2199]]"
+- "[[H0044I]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Judges 6:34**<big><big>[[Judg.6.33 The Sign of the Fleece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the Spirit of the LORD came upon Gideon, and he blew a trumpet; and Abiezer was gathered after him.
 <small><sub>**BSB:**</sub></small>
 So the Spirit of the LORD came upon Gideon, who blew the ram’s horn and rallied the Abiezrites behind him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7307G\|ר֣וּחַ]] [[H3068G\|יְהוָ֔ה]] [[H3847\|לָבְשָׁ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1439\|גִּדְע֑וֹן]] [[H9001\|וַ]][[H8628\|יִּתְקַע֙]] [[H9003\|בַּ]][[H7782\|שּׁוֹפָ֔ר]] [[H9001\|וַ]][[H2199\|יִזָּעֵ֥ק]] [[H0044I\|אֲבִיעֶ֖זֶר]] [[H0310A\|אַחֲרָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIEZER|ABIEZER]] • [[topic ARMIES|ARMIES]] • [[topic DECISION|DECISION]] • [[topic GIDEON|GIDEON]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JUDGE|JUDGE]] • [[topic PROPHETS|PROPHETS]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.33|<< Judges 6:33]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.35|Judges 6:35 >>]]</td></tr></table>
 

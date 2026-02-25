@@ -1,10 +1,68 @@
+---
+title: Matthew 8:10
+type: Verse
+kjv: "When Jesus heard it, he marvelled, and said to them that followed, Verily I say unto you, I have not found so great faith, no, not in Israel."
+bsb: "When Jesus heard this, He marveled and said to those following Him, “Truly I tell you, I have not found anyone in Israel with such great faith."
+jesus_said: "Verily I say unto you, I have not found so great faith, no, not in Israel."
+greek: "Ἀκούσας δὲ ὁ Ἰησοῦς ἐθαύμασεν καὶ εἶπεν τοῖς ἀκολουθοῦσιν· ἀμὴν λέγω ὑμῖν· παρ᾽ οὐδενὶ τοσαύτην πίστιν ἐν τῷ Ἰσραὴλ εὗρον."
+pericope: "[[Matt.8.5 The Faith of the Centurion|The Faith of the Centurion]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 8
+book/chapter: "[[Matt.8|Matthew 8]]"
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CENTURION|CENTURION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G0191]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2296]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0190]]"
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3844]]"
+- "[[G3762]]"
+- "[[G5118]]"
+- "[[G4102G]]"
+- "[[G1722]]"
+- "[[G2474]]"
+- "[[G2147]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Matthew 8:10**<big><big>[[Matt.8.5 The Faith of the Centurion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When Jesus heard [it], he marvelled, and said to them that followed, Verily I say unto you, I have not found so great faith, no, not in Israel.
 <small><sub>**BSB:**</sub></small>
 When Jesus heard this, He marveled and said to those following Him, “Truly I tell you, I have not found anyone in Israel with such great faith.
-<small><sub>**Literal:**</sub></small>
-Having heard now <the> Jesus marveled and He said to those following; Amen I say to you; such no [one] so great faith in <the> Israel have I found.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.9|<< Matthew 8:9]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.11|Matthew 8:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|Ἀκούσας]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2296\|ἐθαύμασεν]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G3588\|τοῖς]]  [[G0190\|ἀκολουθοῦσιν·]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G3844\|παρ᾽]]  [[G3762\|οὐδενὶ]]  [[G5118\|τοσαύτην]]  [[G4102G\|πίστιν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2474\|Ἰσραὴλ]]  [[G2147\|εὗρον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CENTURION|CENTURION]] • [[topic FAITH|FAITH]] • [[topic HEATHEN|HEATHEN]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.9|<< Matthew 8:9]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.11|Matthew 8:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

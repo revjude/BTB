@@ -1,8 +1,61 @@
+---
+title: Psalm 89:15
+type: Verse
+kjv: "Blessed is the people that know the joyful sound: they shall walk, O LORD, in the light of thy countenance."
+bsb: "Blessed are those who know the joyful sound, who walk, O LORD, in the light of Your presence."
+hebrew: "אַשְׁרֵ֣י הָ֭עָם יוֹדְעֵ֣י תְרוּעָ֑ה יְ֝הוָ֗ה בְּֽאוֹר־ פָּנֶ֥יךָ יְהַלֵּכֽוּן׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H0835]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H3045]]"
+- "[[H8643]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H0216]]"
+- "[[H9014]]"
+- "[[H6440H]]"
+- "[[H9021]]"
+- "[[H1980I]]"
+- "[[H9013]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 89:15**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [is] the people that know the joyful sound: they shall walk, O LORD, in the light of thy countenance.
 <small><sub>**BSB:**</sub></small>
 Blessed are those who know the joyful sound, who walk, O LORD, in the light of Your presence.
+<small><sub>**Hebrew:**</sub></small>
+[[H0835\|אַשְׁרֵ֣י]] [[H9009\|הָ֭]][[H5971A\|עָם]] [[H3045\|יוֹדְעֵ֣י]] [[H8643\|תְרוּעָ֑ה]] [[H3068G\|יְ֝הוָ֗ה]] [[H9003\|בְּֽ]][[H0216\|אוֹר]][[H9014\|־]] [[H6440H\|פָּנֶ֥י]][[H9021\|ךָ]] [[H1980I\|יְהַלֵּכֽוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.14|<< Psalms 89:14]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.16|Psalms 89:16 >>]]</td></tr></table>
 

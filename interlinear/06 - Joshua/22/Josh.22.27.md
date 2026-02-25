@@ -1,8 +1,79 @@
+---
+title: Joshua 22:27
+type: Verse
+kjv: "But that it may be a witness between us, and you, and our generations after us, that we might do the service of the LORD before him with our burnt offerings, and with our sacrifices, and with our peace offerings; that your children may not say to our children in time to come, Ye have no part in the LORD."
+bsb: "Rather, let it be a witness between us and you and the generations to come, that we will worship the LORD in His presence with our burnt offerings, sacrifices, and peace offerings.’ Then in the future, your descendants cannot say to ours, ‘You have no share in the LORD!’"
+hebrew: "כִּי֩ עֵ֨ד ה֜וּא בֵּינֵ֣ינוּ וּבֵינֵיכֶ֗ם וּבֵ֣ין דֹּרוֹתֵינוּ֮ אַחֲרֵינוּ֒ לַעֲבֹ֞ד אֶת־ עֲבֹדַ֤ת יְהוָה֙ לְפָנָ֔יו בְּעֹלוֹתֵ֥ינוּ וּבִזְבָחֵ֖ינוּ וּבִשְׁלָמֵ֑ינוּ וְלֹא־ יֹאמְר֨וּ בְנֵיכֶ֤ם מָחָר֙ לְבָנֵ֔ינוּ אֵין־ לָכֶ֥ם חֵ֖לֶק בַּיהוָֽה׃"
+pericope: "[[Josh.22.9 The Altar of Witness|The Altar of Witness]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 22
+book/chapter: "[[Josh.22|Joshua 22]]"
+chronological_order: 252
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HASTE|HASTE]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PHINEHAS|PHINEHAS]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3588A]]"
+- "[[H5707]]"
+- "[[H1931]]"
+- "[[H0996G]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H9036]]"
+- "[[H1755]]"
+- "[[H9025]]"
+- "[[H0310A]]"
+- "[[H9005]]"
+- "[[H5647H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5656H]]"
+- "[[H3068G]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H5930A]]"
+- "[[H2077]]"
+- "[[H8002]]"
+- "[[H3808]]"
+- "[[H0559]]"
+- "[[H1121G]]"
+- "[[H9026]]"
+- "[[H4279]]"
+- "[[H0369]]"
+- "[[H2506A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 22:27**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But [that] it [may be] a witness between us, and you, and our generations after us, that we might do the service of the LORD before him with our burnt offerings, and with our sacrifices, and with our peace offerings; that your children may not say to our children in time to come, Ye have no part in the LORD.
 <small><sub>**BSB:**</sub></small>
 Rather, let it be a witness between us and you and the generations to come, that we will worship the LORD in His presence with our burnt offerings, sacrifices, and peace offerings.’ Then in the future, your descendants cannot say to ours, ‘You have no share in the LORD!’
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H5707\|עֵ֨ד]] [[H1931\|ה֜וּא]] [[H0996G\|בֵּינֵ֣י]][[H9035\|נוּ]] [[H9002\|וּ]][[H0996G\|בֵינֵי]][[H9036\|כֶ֗ם]] [[H9002\|וּ]][[H0996G\|בֵ֣ין]] [[H1755\|דֹּרוֹתֵי]][[H9025\|נוּ֮]] [[H0310A\|אַחֲרֵי]][[H9035\|נוּ֒]] [[H9005\|לַ]][[H5647H\|עֲבֹ֞ד]] [[H0853\|אֶת]][[H9014\|־]] [[H5656H\|עֲבֹדַ֤ת]] [[H3068G\|יְהוָה֙]] [[H9005\|לְ]][[H6440G\|פָנָ֔י]][[H9023\|ו]] [[H9003\|בְּ]][[H5930A\|עֹלוֹתֵ֥י]][[H9025\|נוּ]] [[H9002\|וּ]][[H9003\|בִ]][[H2077\|זְבָחֵ֖י]][[H9025\|נוּ]] [[H9002\|וּ]][[H9003\|בִ]][[H8002\|שְׁלָמֵ֑י]][[H9025\|נוּ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H0559\|יֹאמְר֨וּ]] [[H1121G\|בְנֵי]][[H9026\|כֶ֤ם]] [[H4279\|מָחָר֙]] [[H9005\|לְ]][[H1121G\|בָנֵ֔י]][[H9025\|נוּ]] [[H0369\|אֵין]][[H9014\|־]] [[H9005\|לָ]][[H9036\|כֶ֥ם]] [[H2506A\|חֵ֖לֶק]] [[H9003\|בַּ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic HASTE|HASTE]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic PHINEHAS|PHINEHAS]] • [[topic PRUDENCE|PRUDENCE]] • [[topic REUBENITES|REUBENITES]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.26|<< Joshua 22:26]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.28|Joshua 22:28 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Jeremiah 48:28
+type: Verse
+kjv: "O ye that dwell in Moab, leave the cities, and dwell in the rock, and be like the dove that maketh her nest in the sides of the hole’s mouth."
+bsb: "Abandon the towns and settle among the rocks, O dwellers of Moab! Be like a dove that nests at the mouth of a cave."
+hebrew: "עִזְב֤וּ עָרִים֙ וְשִׁכְנ֣וּ בַּסֶּ֔לַע יֹשְׁבֵ֖י מוֹאָ֑ב וִֽהְי֣וּ כְיוֹנָ֔ה תְּקַנֵּ֖ן בְּעֶבְרֵ֥י פִי־ פָֽחַת׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DOVE, TURTLE|DOVE, TURTLE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H5800A]]"
+- "[[H5892B]]"
+- "[[H9002]]"
+- "[[H7931]]"
+- "[[H9003]]"
+- "[[H5553H]]"
+- "[[H3427]]"
+- "[[H4124G]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H3123]]"
+- "[[H7077]]"
+- "[[H5676G]]"
+- "[[H6310G]]"
+- "[[H9014]]"
+- "[[H6354]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 48:28**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O ye that dwell in Moab, leave the cities, and dwell in the rock, and be like the dove [that] maketh her nest in the sides of the hole’s mouth.
 <small><sub>**BSB:**</sub></small>
 Abandon the towns and settle among the rocks, O dwellers of Moab! Be like a dove that nests at the mouth of a cave.
+<small><sub>**Hebrew:**</sub></small>
+[[H5800A\|עִזְב֤וּ]] [[H5892B\|עָרִים֙]] [[H9002\|וְ]][[H7931\|שִׁכְנ֣וּ]] [[H9003\|בַּ]][[H5553H\|סֶּ֔לַע]] [[H3427\|יֹשְׁבֵ֖י]] [[H4124G\|מוֹאָ֑ב]] [[H9002\|וִֽ]][[H1961\|הְי֣וּ]] [[H9004\|כְ]][[H3123\|יוֹנָ֔ה]] [[H7077\|תְּקַנֵּ֖ן]] [[H9003\|בְּ]][[H5676G\|עֶבְרֵ֥י]] [[H6310G\|פִי]][[H9014\|־]] [[H6354\|פָֽחַת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOVE, TURTLE|DOVE, TURTLE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.27|<< Jeremiah 48:27]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.29|Jeremiah 48:29 >>]]</td></tr></table>
 

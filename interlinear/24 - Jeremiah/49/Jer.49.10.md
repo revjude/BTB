@@ -1,8 +1,64 @@
+---
+title: Jeremiah 49:10
+type: Verse
+kjv: "But I have made Esau bare, I have uncovered his secret places, and he shall not be able to hide himself: his seed is spoiled, and his brethren, and his neighbours, and he is not."
+bsb: "But I will strip Esau bare; I will uncover his hiding places, and he will be unable to conceal himself. His descendants will be destroyed along with his relatives and neighbors, and he will be no more."
+hebrew: "כִּֽי־ אֲנִ֞י חָשַׂ֣פְתִּי אֶת־ עֵשָׂ֗ו גִּלֵּ֙יתִי֙ אֶת־ מִסְתָּרָ֔יו וְנֶחְבָּ֖ה לֹ֣א יוּכָ֑ל שֻׁדַּ֥ד זַרְע֛וֹ וְאֶחָ֥יו וּשְׁכֵנָ֖יו וְאֵינֶֽנּוּ׃"
+pericope: "[[Jer.49.7 Judgment on Edom|Judgment on Edom]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic ESAU|ESAU]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H2834]]"
+- "[[H0853]]"
+- "[[H6215H]]"
+- "[[H1540I]]"
+- "[[H4565]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H2247]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H7703]]"
+- "[[H2233H]]"
+- "[[H9002]]"
+- "[[H0251G]]"
+- "[[H7934]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 49:10**<big><big>[[Jer.49.7 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I have made Esau bare, I have uncovered his secret places, and he shall not be able to hide himself: his seed is spoiled, and his brethren, and his neighbours, and he [is] not.
 <small><sub>**BSB:**</sub></small>
 But I will strip Esau bare; I will uncover his hiding places, and he will be unable to conceal himself. His descendants will be destroyed along with his relatives and neighbors, and he will be no more.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֞י]] [[H2834\|חָשַׂ֣פְתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H6215H\|עֵשָׂ֗ו]] [[H1540I\|גִּלֵּ֙יתִי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4565\|מִסְתָּרָ֔י]][[H9023\|ו]] [[H9001\|וְ]][[H2247\|נֶחְבָּ֖ה]] [[H3808\|לֹ֣א]] [[H3201\|יוּכָ֑ל]] [[H7703\|שֻׁדַּ֥ד]] [[H2233H\|זַרְע֛]][[H9023\|וֹ]] [[H9002\|וְ]][[H0251G\|אֶחָ֥י]][[H9023\|ו]] [[H9002\|וּ]][[H7934\|שְׁכֵנָ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H0369\|אֵינֶֽ]][[H9043\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic ESAU|ESAU]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.9|<< Jeremiah 49:9]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.11|Jeremiah 49:11 >>]]</td></tr></table>
 

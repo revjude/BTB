@@ -1,8 +1,62 @@
+---
+title: Isaiah 34:11
+type: Verse
+kjv: "But the cormorant and the bittern shall possess it; the owl also and the raven shall dwell in it: and he shall stretch out upon it the line of confusion, and the stones of emptiness."
+bsb: "The desert owl and screech owl will possess it, and the great owl and raven will dwell in it. The LORD will stretch out over Edom a measuring line of chaos and a plumb line of destruction."
+hebrew: "וִירֵשׁ֙וּהָ֙ קָאַ֣ת וְקִפּ֔וֹד וְיַנְשׁ֥וֹף וְעֹרֵ֖ב יִשְׁכְּנוּ־ בָ֑הּ וְנָטָ֥ה עָלֶ֛יהָ קַֽו־ תֹ֖הוּ וְאַבְנֵי־ בֹֽהוּ׃"
+pericope: "[[Isa.34.5 Judgment on Edom|Judgment on Edom]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 34
+book/chapter: "[[Isa.34|Isaiah 34]]"
+chronological_order: 677
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BITTERN|BITTERN]]"
+- "[[topic CORMORANT|CORMORANT]]"
+- "[[topic OWL|OWL]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H3423G]]"
+- "[[H9034]]"
+- "[[H6893]]"
+- "[[H9002]]"
+- "[[H7090]]"
+- "[[H3244]]"
+- "[[H6158]]"
+- "[[H7931]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H5186]]"
+- "[[H5921A]]"
+- "[[H6957B]]"
+- "[[H8414]]"
+- "[[H0068G]]"
+- "[[H0922]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 34:11**<big><big>[[Isa.34.5 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the cormorant and the bittern shall possess it; the owl also and the raven shall dwell in it: and he shall stretch out upon it the line of confusion, and the stones of emptiness.
 <small><sub>**BSB:**</sub></small>
 The desert owl and screech owl will possess it, and the great owl and raven will dwell in it. The LORD will stretch out over Edom a measuring line of chaos and a plumb line of destruction.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וִ]][[H3423G\|ירֵשׁ֙וּ]][[H9034\|הָ֙]] [[H6893\|קָאַ֣ת]] [[H9002\|וְ]][[H7090\|קִפּ֔וֹד]] [[H9002\|וְ]][[H3244\|יַנְשׁ֥וֹף]] [[H9002\|וְ]][[H6158\|עֹרֵ֖ב]] [[H7931\|יִשְׁכְּנוּ]][[H9014\|־]] [[H9003\|בָ֑]][[H9034\|הּ]] [[H9001\|וְ]][[H5186\|נָטָ֥ה]] [[H5921A\|עָלֶ֛י]][[H9034\|הָ]] [[H6957B\|קַֽו]][[H9014\|־]] [[H8414\|תֹ֖הוּ]] [[H9002\|וְ]][[H0068G\|אַבְנֵי]][[H9014\|־]] [[H0922\|בֹֽהוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BITTERN|BITTERN]] • [[topic CORMORANT|CORMORANT]] • [[topic OWL|OWL]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.34.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.34.10|<< Isaiah 34:10]]</td><td align="center" style="border:none;">[[Isa.34|Isaiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.34.12|Isaiah 34:12 >>]]</td></tr></table>
 

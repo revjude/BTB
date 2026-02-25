@@ -1,10 +1,54 @@
+---
+title: 2 Corinthians 8:12
+type: Verse
+kjv: "For if there be first a willing mind, it is accepted according to that a man hath, and not according to that he hath not."
+bsb: "For if the eagerness is there, the gift is acceptable according to what one has, not according to what he does not have."
+greek: "εἰ γὰρ ἡ προθυμία πρόκειται, καθὸ ἐὰν ἔχῃ τις, εὐπρόσδεκτος, οὐ καθὸ οὐκ ἔχει."
+pericope: "[[2Cor.8.1 Generosity Commended|Generosity Commended]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 8
+book/chapter: "[[2Cor.8|2 Corinthians 8]]"
+chronological_order: 1081
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic GIVING|GIVING]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G4288]]"
+- "[[G4295]]"
+- "[[G2526]]"
+- "[[G1437]]"
+- "[[G2192]]"
+- "[[G5100]]"
+- "[[G2144]]"
+- "[[G3756]]"
+texts:
+- NKO
+- k
+---
+
 **2 Corinthians 8:12**<big><big>[[2Cor.8.1 Generosity Commended|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For if there be first a willing mind, [it is] accepted according to that a man hath, [and] not according to that he hath not.
 <small><sub>**BSB:**</sub></small>
 For if the eagerness is there, the gift is acceptable according to what one has, not according to what he does not have.
-<small><sub>**Literal:**</sub></small>
-If for the readiness is present, as if he shall have anyone acceptable, not as not he does have.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.11|<< 2 Corinthians 8:11]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.13|2 Corinthians 8:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1063\|γὰρ]]  [[G3588\|ἡ]]  [[G4288\|προθυμία]]  [[G4295\|πρόκειται,]]  [[G2526\|καθὸ]]  [[G1437\|ἐὰν]]  [[G2192\|ἔχῃ]]  [[G5100\|τις,]]  [[G2144\|εὐπρόσδεκτος,]]  [[G3756\|οὐ]]  [[G2526\|καθὸ]]  [[G3756\|οὐκ]]  [[G2192\|ἔχει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic GIVING|GIVING]] • [[topic LIBERALITY|LIBERALITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.11|<< 2 Corinthians 8:11]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.13|2 Corinthians 8:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

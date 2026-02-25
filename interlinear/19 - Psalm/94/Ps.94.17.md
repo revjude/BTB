@@ -1,8 +1,61 @@
+---
+title: Psalm 94:17
+type: Verse
+kjv: "Unless the LORD had been my help, my soul had almost dwelt in silence."
+bsb: "Unless the LORD had been my helper, I would soon have dwelt in the abode of silence."
+hebrew: "לוּלֵ֣י יְ֭הוָה עֶזְרָ֣תָה לִּ֑י כִּמְעַ֓ט׀ שָֽׁכְנָ֖ה דוּמָ֣ה נַפְשִֽׁי׃"
+pericope: "[[Ps.94.1 The LORD Will Not Forget His People|The LORD Will Not Forget His People]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 94
+book/chapter: "[[Ps.94|Psalm 94]]"
+chronological_order: 521
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H3884]]"
+- "[[H3068G]]"
+- "[[H5833]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9004]]"
+- "[[H4592]]"
+- "[[H9015]]"
+- "[[H7931]]"
+- "[[H1745]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 94:17**<big><big>[[Ps.94.1 The LORD Will Not Forget His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unless the LORD [had been] my help, my soul had almost dwelt in silence.
 <small><sub>**BSB:**</sub></small>
 Unless the LORD had been my helper, I would soon have dwelt in the abode of silence.
+<small><sub>**Hebrew:**</sub></small>
+[[H3884\|לוּלֵ֣י]] [[H3068G\|יְ֭הוָה]] [[H5833\|עֶזְרָ֣תָה]] [[H9005\|לִּ֑]][[H9030\|י]] [[H9004\|כִּ]][[H4592\|מְעַ֓ט]][[H9015\|׀]] [[H7931\|שָֽׁכְנָ֖ה]] [[H1745\|דוּמָ֣ה]] [[H5315G\|נַפְשִֽׁ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLESSING|BLESSING]] • [[topic FAITH|FAITH]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.94.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.94.16|<< Psalms 94:16]]</td><td align="center" style="border:none;">[[Ps.94|Psalms 94]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.94.18|Psalms 94:18 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Song of Solomon 2:12
+type: Verse
+kjv: "The flowers appear on the earth; the time of the singing of birds is come, and the voice of the turtle is heard in our land;"
+bsb: "The flowers have appeared in the countryside; the season of singing has come, and the cooing of turtledoves is heard in our land."
+hebrew: "הַנִּצָּנִים֙ נִרְא֣וּ בָאָ֔רֶץ עֵ֥ת הַזָּמִ֖יר הִגִּ֑יעַ וְק֥וֹל הַתּ֖וֹר נִשְׁמַ֥ע בְּאַרְצֵֽנוּ׃"
+pericope: "[[Song.2.3 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 2
+book/chapter: "[[Song.2|Song of Solomon 2]]"
+chronological_order: 449
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic SPRING|SPRING]]"
+strongs:
+- "[[H9009]]"
+- "[[H5339]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H0776H]]"
+- "[[H6256]]"
+- "[[H2159]]"
+- "[[H5060]]"
+- "[[H9002]]"
+- "[[H6963A]]"
+- "[[H8449]]"
+- "[[H8085G]]"
+- "[[H0776G]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 2:12**<big><big>[[Song.2.3 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The flowers appear on the earth; the time of the singing [of birds] is come, and the voice of the turtle is heard in our land;
 <small><sub>**BSB:**</sub></small>
 The flowers have appeared in the countryside; the season of singing has come, and the cooing of turtledoves is heard in our land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H5339\|נִּצָּנִים֙]] [[H7200G\|נִרְא֣וּ]] [[H9003\|בָ]][[H0776H\|אָ֔רֶץ]] [[H6256\|עֵ֥ת]] [[H9009\|הַ]][[H2159\|זָּמִ֖יר]] [[H5060\|הִגִּ֑יעַ]] [[H9002\|וְ]][[H6963A\|ק֥וֹל]] [[H9009\|הַ]][[H8449\|תּ֖וֹר]] [[H8085G\|נִשְׁמַ֥ע]] [[H9003\|בְּ]][[H0776G\|אַרְצֵֽ]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRDS|BIRDS]] • [[topic SPRING|SPRING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2.11|<< Song of Solomon 2:11]]</td><td align="center" style="border:none;">[[Song.2|Song of Solomon 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.2.13|Song of Solomon 2:13 >>]]</td></tr></table>
 

@@ -1,10 +1,57 @@
+---
+title: James 3:9
+type: Verse
+kjv: "Therewith bless we God, even the Father; and therewith curse we men, which are made after the similitude of God."
+bsb: "With the tongue we bless our Lord and Father, and with it we curse men, who have been made in God’s likeness."
+greek: "ἐν αὐτῇ εὐλογοῦμεν τὸν κύριον καὶ πατέρα καὶ ἐν αὐτῇ καταρώμεθα τοὺς ἀνθρώπους τοὺς καθ᾽ ὁμοίωσιν θεοῦ γεγονότας·"
+pericope: "[[Jas.3.1 Taming the Tongue|Taming the Tongue]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 3
+book/chapter: "[[Jas.3|James 3]]"
+chronological_order: 1035
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic IMAGE|IMAGE]]"
+- "[[topic MAN|MAN]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G2127]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G2532]]"
+- "[[G3962]]"
+- "[[G2672]]"
+- "[[G0444]]"
+- "[[G2596]]"
+- "[[G3669]]"
+- "[[G2316]]"
+- "[[G1096]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **James 3:9**<big><big>[[Jas.3.1 Taming the Tongue|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therewith bless we God, even the Father; and therewith curse we men, which are made after the similitude of God.
 <small><sub>**BSB:**</sub></small>
 With the tongue we bless our Lord and Father, and with it we curse men, who have been made in God’s likeness.
-<small><sub>**Literal:**</sub></small>
-With it we bless the Lord and Father and with it we curse <the> men those according to [the] likeness of God having been made;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.8|<< James 3:8]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.10|James 3:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G0846\|αὐτῇ]]  [[G2127\|εὐλογοῦμεν]]  [[G3588\|τὸν]]  [[G2962G\|κύριον]]  [[G2532\|καὶ]]  [[G3962\|πατέρα]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G0846\|αὐτῇ]]  [[G2672\|καταρώμεθα]]  [[G3588\|τοὺς]]  [[G0444\|ἀνθρώπους]]  [[G3588\|τοὺς]]  [[G2596\|καθ᾽]]  [[G3669\|ὁμοίωσιν]]  [[G2316\|θεοῦ]]  [[G1096\|γεγονότας·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic IMAGE|IMAGE]] • [[topic MAN|MAN]] • [[topic SPEAKING|SPEAKING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.8|<< James 3:8]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.10|James 3:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **James 3:9** is...
 > $\quad$ alluding to: [[LXX.Gen.1.26|Gen 1:26]] ☩ [[LXX.Gen.5.2|Gen 5:2]] ☩ [[LXX.Gen.9.6|Gen 9:6]]

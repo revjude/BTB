@@ -1,10 +1,59 @@
+---
+title: Philippians 2:3
+type: Verse
+kjv: "Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves."
+bsb: "Do nothing out of selfish ambition or empty pride, but in humility consider others more important than yourselves."
+greek: "μηδὲν κατ᾽ ἐριθείαν μηδὲ κατὰ κενοδοξίαν ἀλλὰ τῇ ταπεινοφροσύνῃ ἀλλήλους ἡγούμενοι ὑπερέχοντας ἑαυτῶν·"
+pericope: "[[Phil.2.1 One in Christ|One in Christ]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 2
+book/chapter: "[[Phil.2|Philippians 2]]"
+chronological_order: 1118
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic RESPECT|RESPECT]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[G3367]]"
+- "[[G2596]]"
+- "[[G2052]]"
+- "[[G3366]]"
+- "[[G2754]]"
+- "[[G0235]]"
+- "[[G3588]]"
+- "[[G5012]]"
+- "[[G0240]]"
+- "[[G2233]]"
+- "[[G5242]]"
+- "[[G1438]]"
+texts:
+- NKO
+- N(k)O
+- no
+---
+
 **Philippians 2:3**<big><big>[[Phil.2.1 One in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [Let] nothing [be done] through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.
 <small><sub>**BSB:**</sub></small>
 Do nothing out of selfish ambition or empty pride, but in humility consider others more important than yourselves.
-<small><sub>**Literal:**</sub></small>
-nothing according to self-interest nor according to vain conceit but <the> in humility one another be esteeming surpassing themselves;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.2|<< Philippians 2:2]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.4|Philippians 2:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3367\|μηδὲν]]  [[G2596\|κατ᾽]]  [[G2052\|ἐριθείαν]]  [[G3366\|μηδὲ]]  [[G2596\|κατὰ]]  [[G2754\|κενοδοξίαν]]  [[G0235\|ἀλλὰ]]  [[G3588\|τῇ]]  [[G5012\|ταπεινοφροσύνῃ]]  [[G0240\|ἀλλήλους]]  [[G2233\|ἡγούμενοι]]  [[G5242\|ὑπερέχοντας]]  [[G1438\|ἑαυτῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic HUMILITY|HUMILITY]] • [[topic PRIDE|PRIDE]] • [[topic RESPECT|RESPECT]] • [[topic STRIFE|STRIFE]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.2|<< Philippians 2:2]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.4|Philippians 2:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

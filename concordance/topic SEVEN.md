@@ -55,15 +55,15 @@
 
 → MONTHS
 
-- Holy convocations in the seventh month [[Lev.23.24|Le 23:24]]-[[Lev.23.44|44]];  [[Num.29|Nu 29]]; [[Ezek.45.25|Eze 45:25]]
+- Holy convocations in the seventh month [[Lev.23.24|Le 23:24-44]];  [[Num.29|Nu 29]]; [[Ezek.45.25|Eze 45:25]]
 
 → YEARS
 
-- Jacob serves for each of his wives for [[Gen.29.15|Ge 29:15]]-[[Gen.29.30|30]]
+- Jacob serves for each of his wives for [[Gen.29.15|Ge 29:15-30]]
 
-- Of abundance for [[Gen.41.1|Ge 41:1]]-[[Gen.41.32|32]],[[Gen.41.53|53]]
+- Of abundance for [[Gen.41.1|Ge 41:1-32]],[[Gen.41.53|53]]
 
-- A famine lasted in Egypt for [[Gen.41.1|Ge 41:1]]-[[Gen.41.32|32]],[[Gen.41.54|54]]-[[Gen.41.56|56]]
+- A famine lasted in Egypt for [[Gen.41.1|Ge 41:1-32]],[[Gen.41.54|54-56]]
 
 - A famine lasted in Canaan for [[2Sam.24.13|2Sa 24:13]]; [[2Kgs.8.1|2Ki 8:1]]
 
@@ -83,7 +83,7 @@
 
 - The sprinkling of oil seven times [[Lev.14.16|Le 14:16]]
 
-- Seven cows and seven ears of grain in Pharaoh' s vision [[Gen.41.2|Ge 41:2]]-[[Gen.41.7|7]]
+- Seven cows and seven ears of grain in Pharaoh' s vision [[Gen.41.2|Ge 41:2-7]]
 
 - The Israelites surrounded Jericho seven times, and on the seventh  day sounding seven trumpets [[Josh.6.4|Jos 6:4]]
 
@@ -97,7 +97,7 @@
 
 - The light of the sun was intensified sevenfold  [[Isa.30.26|Isa 30:26]]
 
-- The threatened punishment of Israel was sevenfold [[Lev.26.18|Le 26:18]]-[[Lev.26.21|21]]
+- The threatened punishment of Israel was sevenfold [[Lev.26.18|Le 26:18-21]]
 
 - Silver was purified seven times [[Ps.12.6|Ps 12:6]]
 

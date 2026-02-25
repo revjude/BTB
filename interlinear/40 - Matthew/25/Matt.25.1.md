@@ -1,10 +1,68 @@
+---
+title: Matthew 25:1
+type: Verse
+kjv: "Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom."
+bsb: "“At that time the kingdom of heaven will be like ten virgins who took their lamps and went out to meet the bridegroom."
+jesus_said: "Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom."
+greek: "Τότε ὁμοιωθήσεται ἡ βασιλεία τῶν οὐρανῶν δέκα παρθένοις αἵτινες λαβοῦσαι τὰς λαμπάδας ἑαυτῶν ἐξῆλθον εἰς ὑπάντησιν τοῦ νυμφίου."
+pericope: "[[Matt.25.1 The Parable of the Ten Virgins|The Parable of the Ten Virgins]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BRIDEGROOM|BRIDEGROOM]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic VIRGIN|VIRGIN]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G5119]]"
+- "[[G3666]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G3772]]"
+- "[[G1176]]"
+- "[[G3933]]"
+- "[[G3748]]"
+- "[[G2983]]"
+- "[[G2985]]"
+- "[[G1438]]"
+- "[[G1831]]"
+- "[[G1519]]"
+- "[[G5222]]"
+- "[[G3566]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 25:1**<big><big>[[Matt.25.1 The Parable of the Ten Virgins|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom.
 <small><sub>**BSB:**</sub></small>
 “At that time the kingdom of heaven will be like ten virgins who took their lamps and went out to meet the bridegroom.
-<small><sub>**Literal:**</sub></small>
-Then will be likened the kingdom of the heavens to ten virgins who having taken the lamps their own went forth to meet the bridegroom.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.51|<< Matthew 24:51]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.2|Matthew 25:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G3666\|ὁμοιωθήσεται]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G3588\|τῶν]]  [[G3772\|οὐρανῶν]]  [[G1176\|δέκα]]  [[G3933\|παρθένοις]]  [[G3748\|αἵτινες]]  [[G2983\|λαβοῦσαι]]  [[G3588\|τὰς]]  [[G2985\|λαμπάδας]]  [[G1438\|ἑαυτῶν]]  [[G1831\|ἐξῆλθον]]  [[G1519\|εἰς]]  [[G5222\|ὑπάντησιν]]  [[G3588\|τοῦ]]  [[G3566\|νυμφίου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDEGROOM|BRIDEGROOM]] • [[topic FOOL|FOOL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic MARRIAGE|MARRIAGE]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic RESURRECTION|RESURRECTION]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic VIRGIN|VIRGIN]] • [[topic WISDOM|WISDOM]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.51|<< Matthew 24:51]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.2|Matthew 25:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

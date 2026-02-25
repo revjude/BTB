@@ -1,8 +1,59 @@
+---
+title: Psalm 49:7
+type: Verse
+kjv: "None of them can by any means redeem his brother, nor give to God a ransom for him:"
+bsb: "No man can possibly redeem his brother or pay his ransom to God."
+hebrew: "אָ֗ח לֹא־ פָדֹ֣ה יִפְדֶּ֣ה אִ֑ישׁ לֹא־ יִתֵּ֖ן לֵאלֹהִ֣ים כָּפְרֽוֹ׃"
+pericope: "[[Ps.49.1 The Evanescence of Wealth|The Evanescence of Wealth]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 49
+book/chapter: "[[Ps.49|Psalm 49]]"
+chronological_order: 504
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic RANSOM|RANSOM]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[H0251I]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6299]]"
+- "[[H0376I]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H3724A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 49:7**<big><big>[[Ps.49.1 The Evanescence of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 None [of them] can by any means redeem his brother, nor give to God a ransom for him:
 <small><sub>**BSB:**</sub></small>
 No man can possibly redeem his brother or pay his ransom to God.
+<small><sub>**Hebrew:**</sub></small>
+[[H0251I\|אָ֗ח]] [[H3808\|לֹא]][[H9014\|־]] [[H6299\|פָדֹ֣ה]] [[H6299\|יִפְדֶּ֣ה]] [[H0376I\|אִ֑ישׁ]] [[H3808\|לֹא]][[H9014\|־]] [[H5414G\|יִתֵּ֖ן]] [[H9005\|לֵ]][[H0430G\|אלֹהִ֣ים]] [[H3724A\|כָּפְרֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOASTING|BOASTING]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic DEATH|DEATH]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic RANSOM|RANSOM]] • [[topic WORKS|WORKS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.49.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.49.6|<< Psalms 49:6]]</td><td align="center" style="border:none;">[[Ps.49|Psalms 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.49.8|Psalms 49:8 >>]]</td></tr></table>
 

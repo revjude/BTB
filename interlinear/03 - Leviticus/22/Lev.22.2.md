@@ -1,8 +1,72 @@
+---
+title: Leviticus 22:2
+type: Verse
+kjv: "Speak unto Aaron and to his sons, that they separate themselves from the holy things of the children of Israel, and that they profane not my holy name in those things which they hallow unto me: I am the LORD."
+bsb: "“Tell Aaron and his sons to treat with respect the sacred offerings that the Israelites have consecrated to Me, so that they do not profane My holy name. I am the LORD."
+hebrew: "דַּבֵּ֨ר אֶֽל־ אַהֲרֹ֜ן וְאֶל־ בָּנָ֗יו וְיִנָּֽזְרוּ֙ מִקָּדְשֵׁ֣י בְנֵֽי־ יִשְׂרָאֵ֔ל וְלֹ֥א יְחַלְּל֖וּ אֶת־ שֵׁ֣ם קָדְשִׁ֑י אֲשֶׁ֨ר הֵ֧ם מַקְדִּשִׁ֛ים לִ֖י אֲנִ֥י יְהוָֽה׃"
+pericope: "[[Lev.22.1 Restrictions against the Unclean|Restrictions against the Unclean]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 22
+book/chapter: "[[Lev.22|Leviticus 22]]"
+chronological_order: 154
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic UNCLEANNESS|UNCLEANNESS]]"
+strongs:
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H5144A]]"
+- "[[H9006]]"
+- "[[H6944G]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H3808]]"
+- "[[H2490H]]"
+- "[[H0853]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H1992]]"
+- "[[H6942G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 22:2**<big><big>[[Lev.22.1 Restrictions against the Unclean|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto Aaron and to his sons, that they separate themselves from the holy things of the children of Israel, and that they profane not my holy name [in those things] which they hallow unto me: I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
 “Tell Aaron and his sons to treat with respect the sacred offerings that the Israelites have consecrated to Me, so that they do not profane My holy name. I am the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבֵּ֨ר]] [[H0413\|אֶֽל]][[H9014\|־]] [[H0175\|אַהֲרֹ֜ן]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H1121A\|בָּנָ֗י]][[H9023\|ו]] [[H9002\|וְ]][[H5144A\|יִנָּֽזְרוּ֙]] [[H9006\|מִ]][[H6944G\|קָּדְשֵׁ֣י]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H2490H\|יְחַלְּל֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שֵׁ֣ם]] [[H6944G\|קָדְשִׁ֑]][[H9020\|י]] [[H0834A\|אֲשֶׁ֨ר]] [[H1992\|הֵ֧ם]] [[H6942G\|מַקְדִּשִׁ֛ים]] [[H9005\|לִ֖]][[H9030\|י]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic GOD|GOD]] • [[topic UNCLEANNESS|UNCLEANNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.1|<< Leviticus 22:1]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.3|Leviticus 22:3 >>]]</td></tr></table>
 

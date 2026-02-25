@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 16:1
+type: Verse
+kjv: "Observe the month of Abib, and keep the passover unto the LORD thy God: for in the month of Abib the LORD thy God brought thee forth out of Egypt by night."
+bsb: "Observe the month of Abib and celebrate the Passover to the LORD your God, because in the month of Abib the LORD your God brought you out of Egypt by night."
+hebrew: "שָׁמוֹר֙ אֶת־ חֹ֣דֶשׁ הָאָבִ֔יב וְעָשִׂ֣יתָ פֶּ֔סַח לַיהוָ֖ה אֱלֹהֶ֑יךָ כִּ֞י בְּחֹ֣דֶשׁ הָֽאָבִ֗יב הוֹצִ֨יאֲךָ֜ יְהוָ֧ה אֱלֹהֶ֛יךָ מִמִּצְרַ֖יִם לָֽיְלָה׃"
+pericope: "[[Deut.16.1 Passover and the Feast of Unleavened Bread|Passover and the Feast of Unleavened Bread]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 16
+book/chapter: "[[Deut.16|Deuteronomy 16]]"
+chronological_order: 212
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ABIB|ABIB]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[H8104G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H0024]]"
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H6453]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H3318H]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H3915]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 16:1**<big><big>[[Deut.16.1 Passover and the Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Observe the month of Abib, and keep the passover unto the LORD thy God: for in the month of Abib the LORD thy God brought thee forth out of Egypt by night.
 <small><sub>**BSB:**</sub></small>
 Observe the month of Abib and celebrate the Passover to the LORD your God, because in the month of Abib the LORD your God brought you out of Egypt by night.
+<small><sub>**Hebrew:**</sub></small>
+[[H8104G\|שָׁמוֹר֙]] [[H0853\|אֶת]][[H9014\|־]] [[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הָ]][[H0024\|אָבִ֔יב]] [[H9001\|וְ]][[H6213A\|עָשִׂ֣יתָ]] [[H6453\|פֶּ֔סַח]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H0430G\|אֱלֹהֶ֑י]][[H9021\|ךָ]] [[H3588A\|כִּ֞י]] [[H9003\|בְּ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הָֽ]][[H0024\|אָבִ֗יב]] [[H3318H\|הוֹצִ֨יאֲ]][[H9031\|ךָ֜]] [[H3068G\|יְהוָ֧ה]] [[H0430G\|אֱלֹהֶ֛י]][[H9021\|ךָ]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֖יִם]] [[H3915\|לָֽיְלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIB|ABIB]] • [[topic MONTH|MONTH]] • [[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.16.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.23|<< Deuteronomy 15:23]]</td><td align="center" style="border:none;">[[Deut.16|Deuteronomy 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.16.2|Deuteronomy 16:2 >>]]</td></tr></table>
 

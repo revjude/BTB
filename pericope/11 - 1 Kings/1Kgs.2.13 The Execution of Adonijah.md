@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Execution of Adonijah
+type: Pericope
 pericope: "[[1Kgs.2.13 The Execution of Adonijah|The Execution of Adonijah]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 2
 book/chapter: "[[1Kgs.2|1 Kings 2]]"
-genre:
+chronological_order: 442
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 15
 verses:
 - "[[1Kgs.2.13]]"
 - "[[1Kgs.2.14]]"
@@ -35,7 +42,7 @@ verses:
 - "[[1Kgs.2.27]]"
 ---
 
-[[1Kgs.2|1 Kings 2:13 - 1 Kings 2:27]]
+<small>[[1Kgs.2|1 Kings 2:13-27]]</small>
 *The Execution of Adonijah*
 
 [[1Kgs.2.13|13]] And Adonijah the son of Haggith came to Bathsheba the mother of Solomon. And she said, Comest thou peaceably? And he said, Peaceably.

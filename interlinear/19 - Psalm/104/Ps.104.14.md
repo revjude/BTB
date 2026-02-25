@@ -1,8 +1,62 @@
+---
+title: Psalm 104:14
+type: Verse
+kjv: "He causeth the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth;"
+bsb: "He makes the grass grow for the livestock and provides crops for man to cultivate, bringing forth food from the earth:"
+hebrew: "מַצְמִ֤יחַ חָצִ֨יר׀ לַבְּהֵמָ֗ה וְ֭עֵשֶׂב לַעֲבֹדַ֣ת הָאָדָ֑ם לְה֥וֹצִיא לֶ֝֗חֶם מִן־ הָאָֽרֶץ׃"
+pericope: "[[Ps.104.1 How Many Are Your Works, O LORD!|How Many Are Your Works, O LORD!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 104
+book/chapter: "[[Ps.104|Psalm 104]]"
+chronological_order: 528
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H6779]]"
+- "[[H2682A]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H0929]]"
+- "[[H9002]]"
+- "[[H6212]]"
+- "[[H5656I]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H3318H]]"
+- "[[H3899G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 104:14**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He causeth the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth;
 <small><sub>**BSB:**</sub></small>
 He makes the grass grow for the livestock and provides crops for man to cultivate, bringing forth food from the earth:
+<small><sub>**Hebrew:**</sub></small>
+[[H6779\|מַצְמִ֤יחַ]] [[H2682A\|חָצִ֨יר]][[H9015\|׀]] [[H9005\|לַ]][[H0929\|בְּהֵמָ֗ה]] [[H9002\|וְ֭]][[H6212\|עֵשֶׂב]] [[H9005\|לַ]][[H5656I\|עֲבֹדַ֣ת]] [[H9009\|הָ]][[H0120G\|אָדָ֑ם]] [[H9005\|לְ]][[H3318H\|ה֥וֹצִיא]] [[H3899G\|לֶ֝֗חֶם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic FOOD|FOOD]] • [[topic GOD|GOD]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.13|<< Psalms 104:13]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.15|Psalms 104:15 >>]]</td></tr></table>
 

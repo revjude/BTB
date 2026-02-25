@@ -1,8 +1,54 @@
+---
+title: 1 Chronicles 15:7
+type: Verse
+kjv: "Of the sons of Gershom; Joel the chief, and his brethren an hundred and thirty:"
+bsb: "from the Gershomites, Joel the chief and 130 of his relatives;"
+hebrew: "לִבְנֵ֖י גֵּרְשׁ֑וֹם יוֹאֵ֣ל הַשָּׂ֔ר וְאֶחָ֖יו מֵאָ֥ה וּשְׁלֹשִֽׁים׃ ס"
+pericope: "[[1Chr.15.1 Preparing to Move the Ark|Preparing to Move the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 15
+book/chapter: "[[1Chr.15|1 Chronicles 15]]"
+chronological_order: 396
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic GERSHON|GERSHON]]"
+- "[[topic JOEL|JOEL]]"
+strongs:
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H1648]]"
+- "[[H3100N]]"
+- "[[H9009]]"
+- "[[H8269]]"
+- "[[H9002]]"
+- "[[H0251H]]"
+- "[[H9023]]"
+- "[[H3967]]"
+- "[[H7970]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Chronicles 15:7**<big><big>[[1Chr.15.1 Preparing to Move the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of the sons of Gershom; Joel the chief, and his brethren an hundred and thirty:
 <small><sub>**BSB:**</sub></small>
 from the Gershomites, Joel the chief and 130 of his relatives;
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H1121G\|בְנֵ֖י]] [[H1648\|גֵּרְשׁ֑וֹם]] [[H3100N\|יוֹאֵ֣ל]] [[H9009\|הַ]][[H8269\|שָּׂ֔ר]] [[H9002\|וְ]][[H0251H\|אֶחָ֖י]][[H9023\|ו]] [[H3967\|מֵאָ֥ה]] [[H9002\|וּ]][[H7970\|שְׁלֹשִֽׁים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GERSHON|GERSHON]] • [[topic JOEL|JOEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.15.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.6|<< 1 Chronicles 15:6]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.8|1 Chronicles 15:8 >>]]</td></tr></table>
 
@@ -14,7 +60,7 @@ from the Gershomites, Joel the chief and 130 of his relatives;
 | the leader  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8269\|שָּׂ֔ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and relatives his  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0251H\|אֶחָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.Cha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | one hundred  |**<big>&#8207;[[H3967\|מֵאָ֥ה]]&#8207; </big>**| me.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and thirty  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7970\|שְׁלֹשִֽׁים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.lo.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and thirty  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7970\|שְׁלֹשִֽׁים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.lo.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.6|<< 1 Chronicles 15:6]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.8|1 Chronicles 15:8 >>]]</td></tr></table>
 
 

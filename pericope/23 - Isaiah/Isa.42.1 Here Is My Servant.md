@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Here Is My Servant
+type: Pericope
 pericope: "[[Isa.42.1 Here Is My Servant|Here Is My Servant]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 42
 book/chapter: "[[Isa.42|Isaiah 42]]"
-genre:
+chronological_order: 681
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 9
 verses:
 - "[[Isa.42.1]]"
 - "[[Isa.42.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Isa.42.9]]"
 ---
 
-[[Isa.42|Isaiah 42:1 - Isaiah 42:9]]
+<small>[[Isa.42|Isaiah 42:1-9]]</small>
 *Here Is My Servant*
 
 [[Isa.42.1|1]] Behold my servant, whom I uphold; mine elect, \[in whom\] my soul delighteth; I have put my spirit upon him: he shall bring forth judgment to the Gentiles.

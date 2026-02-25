@@ -1,8 +1,51 @@
+---
+title: Proverbs 28:3
+type: Verse
+kjv: "A poor man that oppresseth the poor is like a sweeping rain which leaveth no food."
+bsb: "A destitute leader who oppresses the poor is like a driving rain that leaves no food."
+hebrew: "גֶּ֣בֶר רָ֭שׁ וְעֹשֵׁ֣ק דַּלִּ֑ים מָטָ֥ר סֹ֝חֵ֗ף וְאֵ֣ין לָֽחֶם׃"
+pericope: "[[Prov.28.1 The Boldness of the Righteous|The Boldness of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 28
+book/chapter: "[[Prov.28|Proverbs 28]]"
+chronological_order: 483
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H1397]]"
+- "[[H7326]]"
+- "[[H9002]]"
+- "[[H6231]]"
+- "[[H1800]]"
+- "[[H4306]]"
+- "[[H5502]]"
+- "[[H0369]]"
+- "[[H3899G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 28:3**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A poor man that oppresseth the poor [is like] a sweeping rain which leaveth no food.
 <small><sub>**BSB:**</sub></small>
 A destitute leader who oppresses the poor is like a driving rain that leaves no food.
+<small><sub>**Hebrew:**</sub></small>
+[[H1397\|גֶּ֣בֶר]] [[H7326\|רָ֭שׁ]] [[H9002\|וְ]][[H6231\|עֹשֵׁ֣ק]] [[H1800\|דַּלִּ֑ים]] [[H4306\|מָטָ֥ר]] [[H5502\|סֹ֝חֵ֗ף]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H3899G\|לָֽחֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OPPRESSION|OPPRESSION]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.2|<< Proverbs 28:2]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.4|Proverbs 28:4 >>]]</td></tr></table>
 

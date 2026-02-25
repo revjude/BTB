@@ -1,8 +1,57 @@
+---
+title: Psalm 9:19
+type: Verse
+kjv: "Arise, O LORD; let not man prevail: let the heathen be judged in thy sight."
+bsb: "Rise up, O LORD, do not let man prevail; let the nations be judged in Your presence."
+hebrew: "קוּמָ֣ה יְ֭הוָה אַל־ יָעֹ֣ז אֱנ֑וֹשׁ יִשָּׁפְט֥וּ ג֝וֹיִ֗ם עַל־ פָּנֶֽיךָ׃"
+pericope: "[[Ps.9.1 I Will Give Thanks to the LORD|I Will Give Thanks to the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 9
+book/chapter: "[[Ps.9|Psalm 9]]"
+chronological_order: 343
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H6965B]]"
+- "[[H9012]]"
+- "[[H3068G]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5810]]"
+- "[[H0582]]"
+- "[[H8199]]"
+- "[[H1471A]]"
+- "[[H5921A]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 9:19**<big><big>[[Ps.9.1 I Will Give Thanks to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise, O LORD; let not man prevail: let the heathen be judged in thy sight.
 <small><sub>**BSB:**</sub></small>
 Rise up, O LORD, do not let man prevail; let the nations be judged in Your presence.
+<small><sub>**Hebrew:**</sub></small>
+[[H6965B\|קוּמָ֣]][[H9012\|ה]] [[H3068G\|יְ֭הוָה]] [[H0408\|אַל]][[H9014\|־]] [[H5810\|יָעֹ֣ז]] [[H0582\|אֱנ֑וֹשׁ]] [[H8199\|יִשָּׁפְט֥וּ]] [[H1471A\|ג֝וֹיִ֗ם]] [[H5921A\|עַל]][[H9014\|־]] [[H6440G\|פָּנֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.9.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.18|<< Psalms 9:18]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.20|Psalms 9:20 >>]]</td></tr></table>
 

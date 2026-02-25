@@ -1,10 +1,61 @@
+---
+title: Luke 8:21
+type: Verse
+kjv: "And he answered and said unto them, My mother and my brethren are these which hear the word of God, and do it."
+bsb: "But He replied, “My mother and brothers are those who hear the word of God and carry it out.”"
+jesus_said: "My mother and my brethren are these which hear the word of God, and do it."
+greek: "ὁ δὲ ἀποκριθεὶς εἶπεν πρὸς αὐτούς· μήτηρ μου καὶ ἀδελφοί μου οὗτοί εἰσιν οἱ τὸν λόγον τοῦ θεοῦ ἀκούοντες καὶ ποιοῦντες αὐτόν.¶"
+pericope: "[[Luke.8.19 Jesus’ Mother and Brothers|Jesus’ Mother and Brothers]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0611]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3384]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G0080]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3056]]"
+- "[[G2316]]"
+- "[[G0191]]"
+- "[[G4160G]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 8:21**<big><big>[[Luke.8.19 Jesus’ Mother and Brothers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he answered and said unto them, My mother and my brethren are these which hear the word of God, and do it.
 <small><sub>**BSB:**</sub></small>
 But He replied, “My mother and brothers are those who hear the word of God and carry it out.”
-<small><sub>**Literal:**</sub></small>
-<the> But answering He said to them; Mother of Mine and brothers of mine those are who the word <the> of God are hearing and doing it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.20|<< Luke 8:20]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.22|Luke 8:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G0611\|ἀποκριθεὶς]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς·]]  [[G3384\|μήτηρ]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G0080\|ἀδελφοί]]  [[G3165\|μου]]  [[G3778\|οὗτοί]]  [[G1510\|εἰσιν]]  [[G3588\|οἱ]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G0191\|ἀκούοντες]]  [[G2532\|καὶ]]  [[G4160G\|ποιοῦντες]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FELLOWSHIP|FELLOWSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OBEDIENCE|OBEDIENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.20|<< Luke 8:20]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.22|Luke 8:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

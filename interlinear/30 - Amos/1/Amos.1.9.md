@@ -1,8 +1,65 @@
+---
+title: Amos 1:9
+type: Verse
+kjv: "Thus saith the LORD; For three transgressions of Tyrus, and for four, I will not turn away the punishment thereof; because they delivered up the whole captivity to Edom, and remembered not the brotherly covenant:"
+bsb: "This is what the LORD says: “For three transgressions of Tyre, even four, I will not revoke My judgment, because they delivered up a whole congregation of exiles to Edom and broke a covenant of brotherhood."
+hebrew: "כֹּ֚ה אָמַ֣ר יְהוָ֔ה עַל־ שְׁלֹשָׁה֙ פִּשְׁעֵי־ צֹ֔ר וְעַל־ אַרְבָּעָ֖ה לֹ֣א אֲשִׁיבֶ֑נּוּ עַֽל־ הַסְגִּירָ֞ם גָּל֤וּת שְׁלֵמָה֙ לֶאֱד֔וֹם וְלֹ֥א זָכְר֖וּ בְּרִ֥ית אַחִֽים׃"
+pericope: "[[Amos.1.1 Judgment on Israel’s Neighbors|Judgment on Israel’s Neighbors]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 1
+book/chapter: "[[Amos.1|Amos 1]]"
+chronological_order: 598
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic EDOMITES|EDOMITES]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7969]]"
+- "[[H6588]]"
+- "[[H6865]]"
+- "[[H9002]]"
+- "[[H0702]]"
+- "[[H3808]]"
+- "[[H7725O]]"
+- "[[H9033]]"
+- "[[H5462]]"
+- "[[H9048]]"
+- "[[H1546]]"
+- "[[H8003]]"
+- "[[H9005]]"
+- "[[H0123G]]"
+- "[[H2142]]"
+- "[[H1285]]"
+- "[[H0251I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 1:9**<big><big>[[Amos.1.1 Judgment on Israel’s Neighbors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD; For three transgressions of Tyrus, and for four, I will not turn away [the punishment] thereof; because they delivered up the whole captivity to Edom, and remembered not the brotherly covenant:
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: “For three transgressions of Tyre, even four, I will not revoke My judgment, because they delivered up a whole congregation of exiles to Edom and broke a covenant of brotherhood.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H5921A\|עַל]][[H9014\|־]] [[H7969\|שְׁלֹשָׁה֙]] [[H6588\|פִּשְׁעֵי]][[H9014\|־]] [[H6865\|צֹ֔ר]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H0702\|אַרְבָּעָ֖ה]] [[H3808\|לֹ֣א]] [[H7725O\|אֲשִׁיבֶ֑]][[H9033\|נּוּ]] [[H5921A\|עַֽל]][[H9014\|־]] [[H5462\|הַסְגִּירָ֞]][[H9048\|ם]] [[H1546\|גָּל֤וּת]] [[H8003\|שְׁלֵמָה֙]] [[H9005\|לֶ]][[H0123G\|אֱד֔וֹם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H2142\|זָכְר֖וּ]] [[H1285\|בְּרִ֥ית]] [[H0251I\|אַחִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic EDOMITES|EDOMITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.1.8|<< Amos 1:8]]</td><td align="center" style="border:none;">[[Amos.1|Amos 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.1.10|Amos 1:10 >>]]</td></tr></table>
 

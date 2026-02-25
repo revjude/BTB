@@ -1,6 +1,53 @@
+---
+title: LXX Proverbs 26:5
+type: Verse
+lxx: "But answer a fool to the folly of that one! lest he should appear wise of himself."
+greek: "αλλά αποκρίνου άφρονι προς την εκείνου αφροσύνην ίνα μη φαίνηται σοφός παρ΄ εαυτώ"
+original_language: Greek
+testament: Old
+book: Proverbs
+chapter: 26
+book/chapter: "[[Prov.26|Proverbs 26]]"
+chronological_order: 481
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CONCEIT|CONCEIT]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[G0235]]"
+- "[[G0611]]"
+- "[[G0878]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G1565]]"
+- "[[G0877]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G5316]]"
+- "[[G4680]]"
+- "[[G3844]]"
+- "[[G1438]]"
+---
+
 **LXX Proverbs 26:5** 
 <small><sub>**LXX:**</sub></small>
 But answer a fool to the folly of that one! lest he should appear wise of himself. 
+<small><sub>**Greek:**</sub></small>
+[[G0235\|αλλά]] [[G0611\|αποκρίνου]] [[G0878\|άφρονι]] [[G4314\|προς]] [[G3588\|την]] [[G1565\|εκείνου]] [[G0877\|αφροσύνην]] [[G2443\|ίνα]] [[G3361\|μη]] [[G5316\|φαίνηται]] [[G4680\|σοφός]] [[G3844\|παρ΄]] [[G1438\|εαυτώ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONCEIT|CONCEIT]] • [[topic FOOL|FOOL]] • [[topic PRIDE|PRIDE]] • [[topic PRUDENCE|PRUDENCE]] • [[topic REPROOF|REPROOF]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**MT:**</sub></small>
 [[Prov.26.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.4|<< Proverbs 26:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.6|Proverbs 26:6 >>]]</td></tr></table>
 
@@ -17,6 +64,6 @@ But answer a fool to the folly of that one! lest he should appear wise of himsel
 | wise | **<big>[[G4680\|σοφός]]</big>** |
 | of | **<big>[[G3844\|παρ΄]]</big>** |
 | himself. | **<big>[[G1438\|εαυτώ]]</big>** |
-[[Prov.26.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.4|<< Proverbs 26:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.6|Proverbs 26:6 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.4|<< Proverbs 26:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.6|Proverbs 26:6 >>]]</td></tr></table>
 
 

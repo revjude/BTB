@@ -1,8 +1,60 @@
+---
+title: Joshua 6:7
+type: Verse
+kjv: "And he said unto the people, Pass on, and compass the city, and let him that is armed pass on before the ark of the LORD."
+bsb: "And he told the people, “Advance and march around the city, with the armed troops going ahead of the ark of the LORD.”"
+hebrew: "וַיֹּ֙אמֶר֙ אֶל־ הָעָ֔ם עִבְר֖וּ וְסֹ֣בּוּ אֶת־ הָעִ֑יר וְהֶ֣חָל֔וּץ יַעֲבֹ֕ר לִפְנֵ֖י אֲר֥וֹן יְהוָֽה׃"
+pericope: "[[Josh.6.1 The Walls of Jericho|The Walls of Jericho]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 6
+book/chapter: "[[Josh.6|Joshua 6]]"
+chronological_order: 236
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H5674A]]"
+- "[[H9002]]"
+- "[[H5437H]]"
+- "[[H0853]]"
+- "[[H5892B]]"
+- "[[H2502B]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0727]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Joshua 6:7**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto the people, Pass on, and compass the city, and let him that is armed pass on before the ark of the LORD.
 <small><sub>**BSB:**</sub></small>
 And he told the people, “Advance and march around the city, with the armed troops going ahead of the ark of the LORD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H5674A\|עִבְר֖וּ]] [[H9002\|וְ]][[H5437H\|סֹ֣בּוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֑יר]] [[H9002\|וְ]][[H9009\|הֶ֣]][[H2502B\|חָל֔וּץ]] [[H5674A\|יַעֲבֹ֕ר]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H0727\|אֲר֥וֹן]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic ARMIES|ARMIES]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.6|<< Joshua 6:6]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.8|Joshua 6:8 >>]]</td></tr></table>
 
@@ -22,7 +74,7 @@ And he told the people, “Advance and march around the city, with the armed tro
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.6|<< Joshua 6:6]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.8|Joshua 6:8 >>]]</td></tr></table>
 
-[^1]: and they said  | **<big>[[H0559|יֹּאמְרוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.me.ru<small><sup>[[HVqw3mp]]</sup></small> | K
-[^2]: and they said  | **<big>[[H0559|יֹּאמְרוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.me.ru<small><sup>[[HVqw3mp]]</sup></small> | K
+[^1]: and they said  | **<big>[[H9001|וַ]]</big><big>[[H0559|יֹּאמְרוּ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.me.ru<small><sup>[[HVqw3mp]]</sup></small> | K
+[^2]: and they said  | **<big>[[H9001|וַ]]</big><big>[[H0559|יֹּאמְרוּ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.me.ru<small><sup>[[HVqw3mp]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וַיֹּ֙אמֶר֙ו</big></span>**
 

@@ -9,5 +9,5 @@
 
 → Professed by Pilate [[Matt.27.24|Mt 27:24]]
 
-→ Contrasted with guilt, compare [[Gen.2.25|Ge 2:25]]; [[Gen.3.7|3:7]]-[[Gen.3.11|11]]
+→ Contrasted with guilt, compare [[Gen.2.25|Ge 2:25]]; [[Gen.3.7|3:7-11]]
 

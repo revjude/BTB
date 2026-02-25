@@ -1,8 +1,62 @@
+---
+title: Leviticus 16:31
+type: Verse
+kjv: "It shall be a sabbath of rest unto you, and ye shall afflict your souls, by a statute for ever."
+bsb: "It is a Sabbath of complete rest for you, that you may humble yourselves; it is a permanent statute."
+hebrew: "שַׁבַּ֨ת שַׁבָּת֥וֹן הִיא֙ לָכֶ֔ם וְעִנִּיתֶ֖ם אֶת־ נַפְשֹׁתֵיכֶ֑ם חֻקַּ֖ת עוֹלָֽם׃"
+pericope: "[[Lev.16.1 The Day of Atonement|The Day of Atonement]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 16
+book/chapter: "[[Lev.16|Leviticus 16]]"
+chronological_order: 148
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic HUMILIATION AND SELF-AFFLICTION|HUMILIATION AND SELF-AFFLICTION]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SCAPEGOAT|SCAPEGOAT]]"
+strongs:
+- "[[H7676]]"
+- "[[H7677]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9001]]"
+- "[[H6031B]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5315I]]"
+- "[[H9026]]"
+- "[[H2708]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 16:31**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It [shall be] a sabbath of rest unto you, and ye shall afflict your souls, by a statute for ever.
 <small><sub>**BSB:**</sub></small>
 It is a Sabbath of complete rest for you, that you may humble yourselves; it is a permanent statute.
+<small><sub>**Hebrew:**</sub></small>
+[[H7676\|שַׁבַּ֨ת]] [[H7677\|שַׁבָּת֥וֹן]] [[H1931\|הִיא֙]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H9001\|וְ]][[H6031B\|עִנִּיתֶ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H5315I\|נַפְשֹׁתֵי]][[H9026\|כֶ֑ם]] [[H2708\|חֻקַּ֖ת]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic HUMILIATION AND SELF-AFFLICTION|HUMILIATION AND SELF-AFFLICTION]] • [[topic SABBATH|SABBATH]] • [[topic SCAPEGOAT|SCAPEGOAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.30|<< Leviticus 16:30]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.32|Leviticus 16:32 >>]]</td></tr></table>
 

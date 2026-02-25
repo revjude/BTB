@@ -1,10 +1,58 @@
+---
+title: Matthew 5:48
+type: Verse
+kjv: "Be ye therefore perfect, even as your Father which is in heaven is perfect."
+bsb: "Be perfect, therefore, as your heavenly Father is perfect."
+jesus_said: "Be ye therefore perfect, even as your Father which is in heaven is perfect."
+greek: "ἔσεσθε οὖν ὑμεῖς τέλειοι ὡς ὁ πατὴρ ὑμῶν ὁ οὐράνιος τέλειός ἐστιν.¶"
+pericope: "[[Matt.5.38 Love Your Enemies|Love Your Enemies]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 5
+book/chapter: "[[Matt.5|Matthew 5]]"
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[G1510]]"
+- "[[G3767]]"
+- "[[G4771]]"
+- "[[G5046]]"
+- "[[G5613]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G3770]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 5:48**<big><big>[[Matt.5.38 Love Your Enemies|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Be ye therefore perfect, even as your Father which is in heaven is perfect.
 <small><sub>**BSB:**</sub></small>
 Be perfect, therefore, as your heavenly Father is perfect.
-<small><sub>**Literal:**</sub></small>
-Will be therefore you yourselves perfect how the Father of you who Heavenly perfect is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.47|<< Matthew 5:47]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.1|Matthew 6:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἔσεσθε]]  [[G3767\|οὖν]]  [[G4771\|ὑμεῖς]]  [[G5046\|τέλειοι]]  [[G5613\|ὡς]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G4771\|ὑμῶν]]  [[G3588\|ὁ]]  [[G3770\|οὐράνιος]]  [[G5046\|τέλειός]]  [[G1510\|ἐστιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ENEMY|ENEMY]] • [[topic EXAMPLE|EXAMPLE]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic GOD|GOD]] • [[topic HOLINESS|HOLINESS]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic PERFECTION|PERFECTION]] • [[topic RELIGION|RELIGION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.47|<< Matthew 5:47]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.1|Matthew 6:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 5:48** is...
 > $\quad$ referencing: [[LXX.Gen.17.1|Gen 17:1]]

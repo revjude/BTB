@@ -1,8 +1,66 @@
+---
+title: 2 Kings 21:9
+type: Verse
+kjv: "But they hearkened not: and Manasseh seduced them to do more evil than did the nations whom the LORD destroyed before the children of Israel."
+bsb: "But the people did not listen and Manasseh led them astray, so that they did greater evil than the nations that the LORD had destroyed before the Israelites."
+hebrew: "וְלֹ֖א שָׁמֵ֑עוּ וַיַּתְעֵ֤ם מְנַשֶּׁה֙ לַעֲשׂ֣וֹת אֶת־ הָרָ֔ע מִן־ הַ֨גּוֹיִ֔ם אֲשֶׁר֙ הִשְׁמִ֣יד יְהוָ֔ה מִפְּנֵ֖י בְּנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[2Kgs.21.1 Manasseh Reigns in Judah|Manasseh Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 21
+book/chapter: "[[2Kgs.21|2 Kings 21]]"
+chronological_order: 706
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H9001]]"
+- "[[H8582]]"
+- "[[H9038]]"
+- "[[H4519H]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7451B]]"
+- "[[H4480A]]"
+- "[[H1471A]]"
+- "[[H0834A]]"
+- "[[H8045]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 21:9**<big><big>[[2Kgs.21.1 Manasseh Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But they hearkened not: and Manasseh seduced them to do more evil than did the nations whom the LORD destroyed before the children of Israel.
 <small><sub>**BSB:**</sub></small>
 But the people did not listen and Manasseh led them astray, so that they did greater evil than the nations that the LORD had destroyed before the Israelites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֖א]] [[H8085G\|שָׁמֵ֑עוּ]] [[H9001\|וַ]][[H8582\|יַּתְעֵ֤]][[H9038\|ם]] [[H4519H\|מְנַשֶּׁה֙]] [[H9005\|לַ]][[H6213A\|עֲשׂ֣וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H7451B\|רָ֔ע]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ֨]][[H1471A\|גּוֹיִ֔ם]] [[H0834A\|אֲשֶׁר֙]] [[H8045\|הִשְׁמִ֣יד]] [[H3068G\|יְהוָ֔ה]] [[H9006\|מִ]][[H6440G\|פְּנֵ֖י]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFLUENCE|INFLUENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MANASSEH|MANASSEH]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.21.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.21.8|<< 2 Kings 21:8]]</td><td align="center" style="border:none;">[[2Kgs.21|2 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.21.10|2 Kings 21:10 >>]]</td></tr></table>
 

@@ -1,10 +1,58 @@
+---
+title: 2 Timothy 1:2
+type: Verse
+kjv: "To Timothy, my dearly beloved son: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord."
+bsb: "To Timothy, my beloved child: Grace, mercy, and peace from God the Father and Christ Jesus our Lord."
+greek: "Τιμοθέῳ ἀγαπητῷ τέκνῳ· χάρις, ἔλεος, εἰρήνη ἀπὸ θεοῦ πατρὸς καὶ Χριστοῦ Ἰησοῦ τοῦ κυρίου ἡμῶν.¶"
+pericope: "[[2Tim.1.1 Paul’s Greeting to Timothy|Paul’s Greeting to Timothy]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 1
+book/chapter: "[[2Tim.1|2 Timothy 1]]"
+chronological_order: 1153
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic TIMOTHY|TIMOTHY]]"
+strongs:
+- "[[G5095]]"
+- "[[G0027]]"
+- "[[G5043]]"
+- "[[G5485]]"
+- "[[G1656]]"
+- "[[G1515]]"
+- "[[G0575]]"
+- "[[G2316]]"
+- "[[G3962]]"
+- "[[G2532]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **2 Timothy 1:2**<big><big>[[2Tim.1.1 Paul’s Greeting to Timothy|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 To Timothy, [my] dearly beloved son: Grace, mercy, [and] peace, from God the Father and Christ Jesus our Lord.
 <small><sub>**BSB:**</sub></small>
 To Timothy, my beloved child: Grace, mercy, and peace from God the Father and Christ Jesus our Lord.
-<small><sub>**Literal:**</sub></small>
-To Timothy [my] beloved child: Grace, mercy, [and] peace from God [the] Father and Christ Jesus the Lord of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.1|<< 2 Timothy 1:1]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.3|2 Timothy 1:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5095\|Τιμοθέῳ]]  [[G0027\|ἀγαπητῷ]]  [[G5043\|τέκνῳ·]]  [[G5485\|χάρις,]]  [[G1656\|ἔλεος,]]  [[G1515\|εἰρήνη]]  [[G0575\|ἀπὸ]]  [[G2316\|θεοῦ]]  [[G3962\|πατρὸς]]  [[G2532\|καὶ]]  [[G5547\|Χριστοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PEACE|PEACE]] • [[topic TIMOTHY|TIMOTHY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.1|<< 2 Timothy 1:1]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.3|2 Timothy 1:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

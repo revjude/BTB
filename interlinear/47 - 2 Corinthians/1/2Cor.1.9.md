@@ -1,10 +1,62 @@
+---
+title: 2 Corinthians 1:9
+type: Verse
+kjv: "But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead:"
+bsb: "Indeed, we felt we were under the sentence of death, in order that we would not trust in ourselves, but in God, who raises the dead."
+greek: "ἀλλ᾽ αὐτοὶ ἐν ἑαυτοῖς τὸ ἀπόκριμα τοῦ θανάτου ἐσχήκαμεν, ἵνα μὴ πεποιθότες ὦμεν ἐφ᾽ ἑαυτοῖς ἀλλ᾽ ἐπὶ τῷ θεῷ τῷ ἐγείροντι τοὺς νεκρούς·"
+pericope: "[[2Cor.1.3 The God of All Comfort|The God of All Comfort]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 1
+book/chapter: "[[2Cor.1|2 Corinthians 1]]"
+chronological_order: 1074
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic FALSE CONFIDENCE|FALSE CONFIDENCE]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G0235]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G1438]]"
+- "[[G3588]]"
+- "[[G0610]]"
+- "[[G2288]]"
+- "[[G2192]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G3982]]"
+- "[[G1510]]"
+- "[[G1909]]"
+- "[[G2316]]"
+- "[[G1453]]"
+- "[[G3498]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 1:9**<big><big>[[2Cor.1.3 The God of All Comfort|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead:
 <small><sub>**BSB:**</sub></small>
 Indeed, we felt we were under the sentence of death, in order that we would not trust in ourselves, but in God, who raises the dead.
-<small><sub>**Literal:**</sub></small>
-But we in ourselves the sentence <the> of death has, in order that not having trusted we may be in ourselves but in <the> God who is raising the dead;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.8|<< 2 Corinthians 1:8]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.10|2 Corinthians 1:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G0846\|αὐτοὶ]]  [[G1722\|ἐν]]  [[G1438\|ἑαυτοῖς]]  [[G3588\|τὸ]]  [[G0610\|ἀπόκριμα]]  [[G3588\|τοῦ]]  [[G2288\|θανάτου]]  [[G2192\|ἐσχήκαμεν,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G3982\|πεποιθότες]]  [[G1510\|ὦμεν]]  [[G1909\|ἐφ᾽]]  [[G1438\|ἑαυτοῖς]]  [[G0235\|ἀλλ᾽]]  [[G1909\|ἐπὶ]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G3588\|τῷ]]  [[G1453\|ἐγείροντι]]  [[G3588\|τοὺς]]  [[G3498\|νεκρούς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic DEATH|DEATH]] • [[topic FALSE CONFIDENCE|FALSE CONFIDENCE]] • [[topic PAUL|PAUL]] • [[topic PRAYER|PRAYER]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.8|<< 2 Corinthians 1:8]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.10|2 Corinthians 1:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

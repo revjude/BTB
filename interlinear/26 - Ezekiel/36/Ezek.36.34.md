@@ -1,8 +1,60 @@
+---
+title: Ezekiel 36:34
+type: Verse
+kjv: "And the desolate land shall be tilled, whereas it lay desolate in the sight of all that passed by."
+bsb: "The desolate land will be cultivated instead of lying desolate in the sight of all who pass through."
+hebrew: "וְהָאָ֥רֶץ הַנְּשַׁמָּ֖ה תֵּֽעָבֵ֑ד תַּ֚חַת אֲשֶׁ֣ר הָיְתָ֣ה שְׁמָמָ֔ה לְעֵינֵ֖י כָּל־ עוֹבֵֽר׃"
+pericope: "[[Ezek.36.16 A New Heart and a New Spirit|A New Heart and a New Spirit]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 36
+book/chapter: "[[Ezek.36|Ezekiel 36]]"
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H8074G]]"
+- "[[H5647I]]"
+- "[[H8478H]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H8077A]]"
+- "[[H9005]]"
+- "[[H5869H]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5674A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 36:34**<big><big>[[Ezek.36.16 A New Heart and a New Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the desolate land shall be tilled, whereas it lay desolate in the sight of all that passed by.
 <small><sub>**BSB:**</sub></small>
 The desolate land will be cultivated instead of lying desolate in the sight of all who pass through.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H0776G\|אָ֥רֶץ]] [[H9009\|הַ]][[H8074G\|נְּשַׁמָּ֖ה]] [[H5647I\|תֵּֽעָבֵ֑ד]] [[H8478H\|תַּ֚חַת]] [[H0834A\|אֲשֶׁ֣ר]] [[H1961\|הָיְתָ֣ה]] [[H8077A\|שְׁמָמָ֔ה]] [[H9005\|לְ]][[H5869H\|עֵינֵ֖י]] [[H3605\|כָּל]][[H9014\|־]] [[H5674A\|עוֹבֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.33|<< Ezekiel 36:33]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.35|Ezekiel 36:35 >>]]</td></tr></table>
 

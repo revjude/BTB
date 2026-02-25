@@ -1,8 +1,58 @@
+---
+title: Joshua 13:10
+type: Verse
+kjv: "And all the cities of Sihon king of the Amorites, which reigned in Heshbon, unto the border of the children of Ammon;"
+bsb: "and all the cities of Sihon king of the Amorites who reigned in Heshbon, as far as the border of the Ammonites;"
+hebrew: "וְכֹ֗ל עָרֵי֙ סִיחוֹן֙ מֶ֣לֶךְ הָאֱמֹרִ֔י אֲשֶׁ֥ר מָלַ֖ךְ בְּחֶשְׁבּ֑וֹן עַד־ גְּב֖וּל בְּנֵ֥י עַמּֽוֹן׃"
+pericope: "[[Josh.13.8 The Inheritance East of the Jordan|The Inheritance East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 13
+book/chapter: "[[Josh.13|Joshua 13]]"
+chronological_order: 243
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic GESHUR|GESHUR]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H5892B]]"
+- "[[H5511]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H0567]]"
+- "[[H0834A]]"
+- "[[H4427A]]"
+- "[[H9003]]"
+- "[[H2809]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H1366G]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 13:10**<big><big>[[Josh.13.8 The Inheritance East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the cities of Sihon king of the Amorites, which reigned in Heshbon, unto the border of the children of Ammon;
 <small><sub>**BSB:**</sub></small>
 and all the cities of Sihon king of the Amorites who reigned in Heshbon, as far as the border of the Ammonites;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כֹ֗ל]] [[H5892B\|עָרֵי֙]] [[H5511\|סִיחוֹן֙]] [[H4428G\|מֶ֣לֶךְ]] [[H9009\|הָ]][[H0567\|אֱמֹרִ֔י]] [[H0834A\|אֲשֶׁ֥ר]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בְּ]][[H2809\|חֶשְׁבּ֑וֹן]] [[H5704\|עַד]][[H9014\|־]] [[H1366G\|גְּב֖וּל]] [[H1121G\|בְּנֵ֥י]] [[H5983\|עַמּֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic GESHUR|GESHUR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.9|<< Joshua 13:9]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.11|Joshua 13:11 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: 1 Samuel 23:20
+type: Verse
+kjv: "Now therefore, O king, come down according to all the desire of thy soul to come down; and our part shall be to deliver him into the king’s hand."
+bsb: "Now, O king, come down whenever your soul desires, and we will be responsible for delivering him into your hand.”"
+hebrew: "וְ֠עַתָּה לְכָל־ אַוַּ֨ת נַפְשְׁךָ֥ הַמֶּ֛לֶךְ לָרֶ֖דֶת רֵ֑ד וְלָ֥נוּ הַסְגִּיר֖וֹ בְּיַ֥ד הַמֶּֽלֶךְ׃"
+pericope: "[[1Sam.23.7 Saul Pursues David|Saul Pursues David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 23
+book/chapter: "[[1Sam.23|1 Samuel 23]]"
+chronological_order: 302
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic MALICE|MALICE]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0185]]"
+- "[[H5315G]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3381]]"
+- "[[H9035]]"
+- "[[H5462]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 23:20**<big><big>[[1Sam.23.7 Saul Pursues David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore, O king, come down according to all the desire of thy soul to come down; and our part [shall be] to deliver him into the king’s hand.
 <small><sub>**BSB:**</sub></small>
 Now, O king, come down whenever your soul desires, and we will be responsible for delivering him into your hand.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֠]][[H6258\|עַתָּה]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H0185\|אַוַּ֨ת]] [[H5315G\|נַפְשְׁ]][[H9021\|ךָ֥]] [[H9009\|הַ]][[H4428G\|מֶּ֛לֶךְ]] [[H9005\|לָ]][[H3381\|רֶ֖דֶת]] [[H3381\|רֵ֑ד]] [[H9002\|וְ]][[H9005\|לָ֥]][[H9035\|נוּ]] [[H5462\|הַסְגִּיר֖]][[H9033\|וֹ]] [[H9003\|בְּ]][[H3027H\|יַ֥ד]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic MALICE|MALICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.23.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.19|<< 1 Samuel 23:19]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.21|1 Samuel 23:21 >>]]</td></tr></table>
 

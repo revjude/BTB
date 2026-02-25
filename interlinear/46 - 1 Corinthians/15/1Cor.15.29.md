@@ -1,10 +1,58 @@
+---
+title: 1 Corinthians 15:29
+type: Verse
+kjv: "Else what shall they do which are baptized for the dead, if the dead rise not at all? why are they then baptized for the dead?"
+bsb: "If these things are not so, what will those do who are baptized for the dead? If the dead are not raised at all, why are people baptized for them?"
+greek: "Ἐπεὶ τί ποιήσουσιν οἱ βαπτιζόμενοι ὑπὲρ τῶν νεκρῶν; εἰ ὅλως νεκροὶ οὐκ ἐγείρονται· τί καὶ βαπτίζονται ὑπὲρ τῶν αὐτῶν;"
+pericope: "[[1Cor.15.20 The Order of Resurrection|The Order of Resurrection]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 15
+book/chapter: "[[1Cor.15|1 Corinthians 15]]"
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic BODY|BODY]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1893]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+- "[[G3588]]"
+- "[[G0907]]"
+- "[[G5228]]"
+- "[[G3498]]"
+- "[[G1487G]]"
+- "[[G3654]]"
+- "[[G3756]]"
+- "[[G1453]]"
+- "[[G2532]]"
+- "[[G0846]]"
+texts:
+- NKO
+- k
+- N(K)O
+---
+
 **1 Corinthians 15:29**<big><big>[[1Cor.15.20 The Order of Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Else what shall they do which are baptized for the dead, if the dead rise not at all? why are they then baptized for the dead?
 <small><sub>**BSB:**</sub></small>
 If these things are not so, what will those do who are baptized for the dead? If the dead are not raised at all, why are people baptized for them?
-<small><sub>**Literal:**</sub></small>
-Otherwise what will they do who are baptized for the dead? If at all [the] dead not are raised; why also are they baptized for <the> them?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.28|<< 1 Corinthians 15:28]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.30|1 Corinthians 15:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1893\|Ἐπεὶ]]  [[G5101\|τί]]  [[G4160G\|ποιήσουσιν]]  [[G3588\|οἱ]]  [[G0907\|βαπτιζόμενοι]]  [[G5228\|ὑπὲρ]]  [[G3588\|τῶν]]  [[G3498\|νεκρῶν;]]  [[G1487G\|εἰ]]  [[G3654\|ὅλως]]  [[G3498\|νεκροὶ]]  [[G3756\|οὐκ]]  [[G1453\|ἐγείρονται·]]  [[G5101\|τί]]  [[G2532\|καὶ]]  [[G0907\|βαπτίζονται]]  [[G5228\|ὑπὲρ]]  [[G3588\|τῶν]]  [[G0846\|αὐτῶν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic BODY|BODY]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic RESURRECTION|RESURRECTION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.28|<< 1 Corinthians 15:28]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.30|1 Corinthians 15:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

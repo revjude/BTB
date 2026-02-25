@@ -1,8 +1,66 @@
+---
+title: Isaiah 10:27
+type: Verse
+kjv: "And it shall come to pass in that day, that his burden shall be taken away from off thy shoulder, and his yoke from off thy neck, and the yoke shall be destroyed because of the anointing."
+bsb: "On that day the burden will be lifted from your shoulders, and the yoke from your neck. The yoke will be broken because your neck will be too large."
+hebrew: "וְהָיָ֣ה׀ בַּיּ֣וֹם הַה֗וּא יָס֤וּר סֻבֳּלוֹ֙ מֵעַ֣ל שִׁכְמֶ֔ךָ וְעֻלּ֖וֹ מֵעַ֣ל צַוָּארֶ֑ךָ וְחֻבַּ֥ל עֹ֖ל מִפְּנֵי־ שָֽׁמֶן׃"
+pericope: "[[Isa.10.20 A Remnant Shall Return|A Remnant Shall Return]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 10
+book/chapter: "[[Isa.10|Isaiah 10]]"
+chronological_order: 620
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic YOKE|YOKE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H5493H]]"
+- "[[H5448]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H7926]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H5923]]"
+- "[[H6677A]]"
+- "[[H2254B]]"
+- "[[H6440I]]"
+- "[[H9014]]"
+- "[[H8081]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 10:27**<big><big>[[Isa.10.20 A Remnant Shall Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass in that day, [that] his burden shall be taken away from off thy shoulder, and his yoke from off thy neck, and the yoke shall be destroyed because of the anointing.
 <small><sub>**BSB:**</sub></small>
 On that day the burden will be lifted from your shoulders, and the yoke from your neck. The yoke will be broken because your neck will be too large.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֣ה]][[H9015\|׀]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֗וּא]] [[H5493H\|יָס֤וּר]] [[H5448\|סֻבֳּל]][[H9023\|וֹ֙]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H7926\|שִׁכְמֶ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H5923\|עֻלּ֖]][[H9023\|וֹ]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H6677A\|צַוָּארֶ֑]][[H9021\|ךָ]] [[H9001\|וְ]][[H2254B\|חֻבַּ֥ל]] [[H5923\|עֹ֖ל]] [[H9006\|מִ]][[H6440I\|פְּנֵי]][[H9014\|־]] [[H8081\|שָֽׁמֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]] • [[topic YOKE|YOKE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.26|<< Isaiah 10:26]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.28|Isaiah 10:28 >>]]</td></tr></table>
 

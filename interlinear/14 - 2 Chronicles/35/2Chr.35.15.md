@@ -1,8 +1,74 @@
+---
+title: 2 Chronicles 35:15
+type: Verse
+kjv: "And the singers the sons of Asaph were in their place, according to the commandment of David, and Asaph, and Heman, and Jeduthun the king’s seer; and the porters waited at every gate; they might not depart from their service; for their brethren the Levites prepared for them."
+bsb: "The singers, the descendants of Asaph, were at their stations according to the command of David, Asaph, Heman, and Jeduthun the king’s seer. And the gatekeepers at each gate did not need to leave their posts, because their fellow Levites made preparations for them."
+hebrew: "וְהַמְשֹֽׁרֲרִ֨ים בְּנֵי־ אָסָ֜ף עַל־ מַעֲמָדָ֗ם כְּמִצְוַ֤ת דָּוִיד֙ וְאָסָ֞ף וְהֵימָ֤ן וִֽידֻתוּן֙ חוֹזֵ֣ה הַמֶּ֔לֶךְ וְהַשֹּׁעֲרִ֖ים לְשַׁ֣עַר וָשָׁ֑עַר אֵ֣ין לָהֶ֗ם לָסוּר֙ מֵעַ֣ל עֲבֹֽדָתָ֔ם כִּֽי־ אֲחֵיהֶ֥ם הַלְוִיִּ֖ם הֵכִ֥ינוּ לָהֶֽם׃"
+pericope: "[[2Chr.35.1 Josiah Restores the Passover|Josiah Restores the Passover]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 35
+book/chapter: "[[2Chr.35|2 Chronicles 35]]"
+chronological_order: 714
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ASAPH|ASAPH]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PORTERS|PORTERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H7891]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H0623H]]"
+- "[[H5921A]]"
+- "[[H4612]]"
+- "[[H9028]]"
+- "[[H9004]]"
+- "[[H4687]]"
+- "[[H1732]]"
+- "[[H1968I]]"
+- "[[H3038G]]"
+- "[[H2374]]"
+- "[[H4428G]]"
+- "[[H7778]]"
+- "[[H9005]]"
+- "[[H8179G]]"
+- "[[H0369]]"
+- "[[H9038]]"
+- "[[H5493H]]"
+- "[[H9006]]"
+- "[[H5656G]]"
+- "[[H3588A]]"
+- "[[H0251H]]"
+- "[[H3881]]"
+- "[[H3559A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 35:15**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the singers the sons of Asaph [were] in their place, according to the commandment of David, and Asaph, and Heman, and Jeduthun the king’s seer; and the porters [waited] at every gate; they might not depart from their service; for their brethren the Levites prepared for them.
 <small><sub>**BSB:**</sub></small>
 The singers, the descendants of Asaph, were at their stations according to the command of David, Asaph, Heman, and Jeduthun the king’s seer. And the gatekeepers at each gate did not need to leave their posts, because their fellow Levites made preparations for them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H7891\|מְשֹֽׁרֲרִ֨ים]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H0623H\|אָסָ֜ף]] [[H5921A\|עַל]][[H9014\|־]] [[H4612\|מַעֲמָדָ֗]][[H9028\|ם]] [[H9004\|כְּ]][[H4687\|מִצְוַ֤ת]] [[H1732\|דָּוִיד֙]] [[H9002\|וְ]][[H0623H\|אָסָ֞ף]] [[H9002\|וְ]][[H1968I\|הֵימָ֤ן]] [[H9002\|וִֽ]][[H3038G\|ידֻתוּן֙]] [[H2374\|חוֹזֵ֣ה]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9002\|וְ]][[H9009\|הַ]][[H7778\|שֹּׁעֲרִ֖ים]] [[H9005\|לְ]][[H8179G\|שַׁ֣עַר]] [[H9002\|וָ]][[H8179G\|שָׁ֑עַר]] [[H0369\|אֵ֣ין]] [[H9005\|לָ]][[H9038\|הֶ֗ם]] [[H9005\|לָ]][[H5493H\|סוּר֙]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H5656G\|עֲבֹֽדָתָ֔]][[H9028\|ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0251H\|אֲחֵי]][[H9028\|הֶ֥ם]] [[H9009\|הַ]][[H3881\|לְוִיִּ֖ם]] [[H3559A\|הֵכִ֥ינוּ]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAPH|ASAPH]] • [[topic JOSIAH|JOSIAH]] • [[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MUSIC|MUSIC]] • [[topic PORTERS|PORTERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.14|<< 2 Chronicles 35:14]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.16|2 Chronicles 35:16 >>]]</td></tr></table>
 

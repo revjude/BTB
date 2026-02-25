@@ -1,8 +1,63 @@
+---
+title: Genesis 4:20
+type: Verse
+kjv: "And Adah bare Jabal: he was the father of such as dwell in tents, and of such as have cattle."
+bsb: "Adah gave birth to Jabal; he was the father of those who dwell in tents and raise livestock."
+hebrew: "וַתֵּ֥לֶד עָדָ֖ה אֶת־ יָבָ֑ל ה֣וּא הָיָ֔ה אֲבִ֕י יֹשֵׁ֥ב אֹ֖הֶל וּמִקְנֶֽה׃"
+pericope: "[[Gen.4.17 The Descendants of Cain|The Descendants of Cain]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 4
+book/chapter: "[[Gen.4|Genesis 4]]"
+chronological_order: 4
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADAH|ADAH]]"
+- "[[topic ANTEDILUVIANS|ANTEDILUVIANS]]"
+- "[[topic ART|ART]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic JABAL|JABAL]]"
+- "[[topic LAMECH|LAMECH]]"
+- "[[topic TENT|TENT]]"
+strongs:
+- "[[H9001]]"
+- "[[H3205]]"
+- "[[H5711G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2989]]"
+- "[[H1931]]"
+- "[[H1961]]"
+- "[[H0001G]]"
+- "[[H3427]]"
+- "[[H0168G]]"
+- "[[H9002]]"
+- "[[H4735]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 4:20**<big><big>[[Gen.4.17 The Descendants of Cain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Adah bare Jabal: he was the father of such as dwell in tents, and [of such as have] cattle.
 <small><sub>**BSB:**</sub></small>
 Adah gave birth to Jabal; he was the father of those who dwell in tents and raise livestock.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3205\|תֵּ֥לֶד]] [[H5711G\|עָדָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H2989\|יָבָ֑ל]] [[H1931\|ה֣וּא]] [[H1961\|הָיָ֔ה]] [[H0001G\|אֲבִ֕י]] [[H3427\|יֹשֵׁ֥ב]] [[H0168G\|אֹ֖הֶל]] [[H9002\|וּ]][[H4735\|מִקְנֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAH|ADAH]] • [[topic ANTEDILUVIANS|ANTEDILUVIANS]] • [[topic ART|ART]] • [[topic GENEALOGY|GENEALOGY]] • [[topic JABAL|JABAL]] • [[topic LAMECH|LAMECH]] • [[topic TENT|TENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.4.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.19|<< Genesis 4:19]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.21|Genesis 4:21 >>]]</td></tr></table>
 

@@ -1,8 +1,49 @@
+---
+title: Psalm 106:4
+type: Verse
+kjv: "Remember me, O LORD, with the favour that thou bearest unto thy people: O visit me with thy salvation;"
+bsb: "Remember me, O LORD, in Your favor to Your people; visit me with Your salvation,"
+hebrew: "זָכְרֵ֣נִי יְ֭הוָה בִּרְצ֣וֹן עַמֶּ֑ךָ פָּ֝קְדֵ֗נִי בִּישׁוּעָתֶֽךָ׃"
+pericope: "[[Ps.106.1 Give Thanks to the LORD, for He Is Good|Give Thanks to the LORD, for He Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 106
+book/chapter: "[[Ps.106|Psalm 106]]"
+chronological_order: 530
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H2142]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H7522]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H6485I]]"
+- "[[H3444]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 106:4**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember me, O LORD, with the favour [that thou bearest unto] thy people: O visit me with thy salvation;
 <small><sub>**BSB:**</sub></small>
 Remember me, O LORD, in Your favor to Your people; visit me with Your salvation,
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|זָכְרֵ֣]][[H9030\|נִי]] [[H3068G\|יְ֭הוָה]] [[H9003\|בִּ]][[H7522\|רְצ֣וֹן]] [[H5971A\|עַמֶּ֑]][[H9021\|ךָ]] [[H6485I\|פָּ֝קְדֵ֗]][[H9030\|נִי]] [[H9003\|בִּ]][[H3444\|ישׁוּעָתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.3|<< Psalms 106:3]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.5|Psalms 106:5 >>]]</td></tr></table>
 

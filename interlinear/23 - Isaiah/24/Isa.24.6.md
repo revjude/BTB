@@ -1,8 +1,58 @@
+---
+title: Isaiah 24:6
+type: Verse
+kjv: "Therefore hath the curse devoured the earth, and they that dwell therein are desolate: therefore the inhabitants of the earth are burned, and few men left."
+bsb: "Therefore a curse has consumed the earth, and its inhabitants must bear the guilt; the earth’s dwellers have been burned, and only a few survive."
+hebrew: "עַל־ כֵּ֗ן אָלָה֙ אָ֣כְלָה אֶ֔רֶץ וַֽיֶּאְשְׁמ֖וּ יֹ֣שְׁבֵי בָ֑הּ עַל־ כֵּ֗ן חָרוּ֙ יֹ֣שְׁבֵי אֶ֔רֶץ וְנִשְׁאַ֥ר אֱנ֖וֹשׁ מִזְעָֽר׃"
+pericope: "[[Isa.24.1 God’s Judgment on the Earth|God’s Judgment on the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 24
+book/chapter: "[[Isa.24|Isaiah 24]]"
+chronological_order: 667
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H0423]]"
+- "[[H0398]]"
+- "[[H0776G]]"
+- "[[H9001]]"
+- "[[H0816]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H2787]]"
+- "[[H7604]]"
+- "[[H0582]]"
+- "[[H4213]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 24:6**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore hath the curse devoured the earth, and they that dwell therein are desolate: therefore the inhabitants of the earth are burned, and few men left.
 <small><sub>**BSB:**</sub></small>
 Therefore a curse has consumed the earth, and its inhabitants must bear the guilt; the earth’s dwellers have been burned, and only a few survive.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֗ן]] [[H0423\|אָלָה֙]] [[H0398\|אָ֣כְלָה]] [[H0776G\|אֶ֔רֶץ]] [[H9001\|וַֽ]][[H0816\|יֶּאְשְׁמ֖וּ]] [[H3427\|יֹ֣שְׁבֵי]] [[H9003\|בָ֑]][[H9034\|הּ]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֗ן]] [[H2787\|חָרוּ֙]] [[H3427\|יֹ֣שְׁבֵי]] [[H0776G\|אֶ֔רֶץ]] [[H9001\|וְ]][[H7604\|נִשְׁאַ֥ר]] [[H0582\|אֱנ֖וֹשׁ]] [[H4213\|מִזְעָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.5|<< Isaiah 24:5]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.7|Isaiah 24:7 >>]]</td></tr></table>
 

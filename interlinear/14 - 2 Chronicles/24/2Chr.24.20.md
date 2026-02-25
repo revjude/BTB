@@ -1,8 +1,78 @@
+---
+title: 2 Chronicles 24:20
+type: Verse
+kjv: "And the Spirit of God came upon Zechariah the son of Jehoiada the priest, which stood above the people, and said unto them, Thus saith God, Why transgress ye the commandments of the LORD, that ye cannot prosper? because ye have forsaken the LORD, he hath also forsaken you."
+bsb: "Then the Spirit of God came upon Zechariah son of Jehoiada the priest, who stood up before the people and said to them, “This is what God says: ‘Why do you transgress the commandments of the LORD so that you cannot prosper? Because you have forsaken the LORD, He has forsaken you.’”"
+hebrew: "וְר֣וּחַ אֱלֹהִ֗ים לָֽבְשָׁה֙ אֶת־ זְכַרְיָה֙ בֶּן־ יְהוֹיָדָ֣ע הַכֹּהֵ֔ן וַֽיַּעֲמֹ֖ד מֵעַ֣ל לָעָ֑ם וַיֹּ֨אמֶר לָהֶ֜ם כֹּ֣ה׀ אָמַ֣ר הָאֱלֹהִ֗ים לָמָה֩ אַתֶּ֨ם עֹבְרִ֜ים אֶת־ מִצְוֹ֤ת יְהוָה֙ וְלֹ֣א תַצְלִ֔יחוּ כִּֽי־ עֲזַבְתֶּ֥ם אֶת־ יְהוָ֖ה וַיַּֽעֲזֹ֥ב אֶתְכֶֽם׃"
+pericope: "[[2Chr.24.17 The Wickedness of Joash|The Wickedness of Joash]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 24
+book/chapter: "[[2Chr.24|2 Chronicles 24]]"
+chronological_order: 589
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AZARIAH|AZARIAH]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic JOASH|JOASH]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SIN|SIN]]"
+- "[[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]"
+strongs:
+- "[[H9002]]"
+- "[[H7307G]]"
+- "[[H0430G]]"
+- "[[H3847]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2148w]]"
+- "[[H1121A]]"
+- "[[H3077H]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9001]]"
+- "[[H5975G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H0559]]"
+- "[[H9038]]"
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H4100]]"
+- "[[H0859D]]"
+- "[[H5674D]]"
+- "[[H4687]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H6743B]]"
+- "[[H3588A]]"
+- "[[H5800A]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 24:20**<big><big>[[2Chr.24.17 The Wickedness of Joash|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Spirit of God came upon Zechariah the son of Jehoiada the priest, which stood above the people, and said unto them, Thus saith God, Why transgress ye the commandments of the LORD, that ye cannot prosper? because ye have forsaken the LORD, he hath also forsaken you.
 <small><sub>**BSB:**</sub></small>
 Then the Spirit of God came upon Zechariah son of Jehoiada the priest, who stood up before the people and said to them, “This is what God says: ‘Why do you transgress the commandments of the LORD so that you cannot prosper? Because you have forsaken the LORD, He has forsaken you.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7307G\|ר֣וּחַ]] [[H0430G\|אֱלֹהִ֗ים]] [[H3847\|לָֽבְשָׁה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H2148w\|זְכַרְיָה֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3077H\|יְהוֹיָדָ֣ע]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H9001\|וַֽ]][[H5975G\|יַּעֲמֹ֖ד]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H9005\|לָ]][[H5971A\|עָ֑ם]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H9005\|לָ]][[H9038\|הֶ֜ם]] [[H3541\|כֹּ֣ה]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֗ים]] [[H9005\|לָ]][[H4100\|מָה֩]] [[H0859D\|אַתֶּ֨ם]] [[H5674D\|עֹבְרִ֜ים]] [[H0853\|אֶת]][[H9014\|־]] [[H4687\|מִצְוֹ֤ת]] [[H3068G\|יְהוָה֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6743B\|תַצְלִ֔יחוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5800A\|עֲזַבְתֶּ֥ם]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9001\|וַ]][[H5800A\|יַּֽעֲזֹ֥ב]] [[H0853\|אֶתְ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AZARIAH|AZARIAH]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic JOASH|JOASH]] • [[topic PROPHETS|PROPHETS]] • [[topic REPROOF|REPROOF]] • [[topic SIN|SIN]] • [[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.24.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.19|<< 2 Chronicles 24:19]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.21|2 Chronicles 24:21 >>]]</td></tr></table>
 

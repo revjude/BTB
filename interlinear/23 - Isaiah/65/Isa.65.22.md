@@ -1,8 +1,65 @@
+---
+title: Isaiah 65:22
+type: Verse
+kjv: "They shall not build, and another inhabit; they shall not plant, and another eat: for as the days of a tree are the days of my people, and mine elect shall long enjoy the work of their hands."
+bsb: "No longer will they build houses for others to inhabit, nor plant for others to eat. For as is the lifetime of a tree, so will be the days of My people, and My chosen ones will fully enjoy the work of their hands."
+hebrew: "לֹ֤א יִבְנוּ֙ וְאַחֵ֣ר יֵשֵׁ֔ב לֹ֥א יִטְּע֖וּ וְאַחֵ֣ר יֹאכֵ֑ל כִּֽי־ כִימֵ֤י הָעֵץ֙ יְמֵ֣י עַמִּ֔י וּמַעֲשֵׂ֥ה יְדֵיהֶ֖ם יְבַלּ֥וּ בְחִירָֽי׃"
+pericope: "[[Isa.65.17 A New Heaven and a New Earth|A New Heaven and a New Earth]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 65
+book/chapter: "[[Isa.65|Isaiah 65]]"
+chronological_order: 704
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H3808]]"
+- "[[H1129]]"
+- "[[H9002]]"
+- "[[H0312]]"
+- "[[H3427]]"
+- "[[H5193]]"
+- "[[H0398]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9004]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H6086H]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H4639G]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H1086]]"
+- "[[H0972]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 65:22**<big><big>[[Isa.65.17 A New Heaven and a New Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall not build, and another inhabit; they shall not plant, and another eat: for as the days of a tree [are] the days of my people, and mine elect shall long enjoy the work of their hands.
 <small><sub>**BSB:**</sub></small>
 No longer will they build houses for others to inhabit, nor plant for others to eat. For as is the lifetime of a tree, so will be the days of My people, and My chosen ones will fully enjoy the work of their hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֤א]] [[H1129\|יִבְנוּ֙]] [[H9002\|וְ]][[H0312\|אַחֵ֣ר]] [[H3427\|יֵשֵׁ֔ב]] [[H3808\|לֹ֥א]] [[H5193\|יִטְּע֖וּ]] [[H9002\|וְ]][[H0312\|אַחֵ֣ר]] [[H0398\|יֹאכֵ֑ל]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9004\|כִ]][[H3117G\|ימֵ֤י]] [[H9009\|הָ]][[H6086H\|עֵץ֙]] [[H3117G\|יְמֵ֣י]] [[H5971A\|עַמִּ֔]][[H9020\|י]] [[H9002\|וּ]][[H4639G\|מַעֲשֵׂ֥ה]] [[H3027G\|יְדֵי]][[H9028\|הֶ֖ם]] [[H1086\|יְבַלּ֥וּ]] [[H0972\|בְחִירָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.21|<< Isaiah 65:21]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.23|Isaiah 65:23 >>]]</td></tr></table>
 

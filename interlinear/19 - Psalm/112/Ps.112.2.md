@@ -1,8 +1,54 @@
+---
+title: Psalm 112:2
+type: Verse
+kjv: "His seed shall be mighty upon earth: the generation of the upright shall be blessed."
+bsb: "His descendants will be mighty in the land; the generation of the upright will be blessed."
+hebrew: "גִּבּ֣וֹר בָּ֭אָרֶץ יִהְיֶ֣ה זַרְע֑וֹ דּ֭וֹר יְשָׁרִ֣ים יְבֹרָֽךְ׃"
+pericope: "[[Ps.112.1 The Blessed Fear of the LORD|The Blessed Fear of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 112
+book/chapter: "[[Ps.112|Psalm 112]]"
+chronological_order: 874
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H1368]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H1961]]"
+- "[[H2233H]]"
+- "[[H9023]]"
+- "[[H1755]]"
+- "[[H3477G]]"
+- "[[H1288]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 112:2**<big><big>[[Ps.112.1 The Blessed Fear of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His seed shall be mighty upon earth: the generation of the upright shall be blessed.
 <small><sub>**BSB:**</sub></small>
 His descendants will be mighty in the land; the generation of the upright will be blessed.
+<small><sub>**Hebrew:**</sub></small>
+[[H1368\|גִּבּ֣וֹר]] [[H9003\|בָּ֭]][[H0776G\|אָרֶץ]] [[H1961\|יִהְיֶ֣ה]] [[H2233H\|זַרְע֑]][[H9023\|וֹ]] [[H1755\|דּ֭וֹר]] [[H3477G\|יְשָׁרִ֣ים]] [[H1288\|יְבֹרָֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.112.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.112.1|<< Psalms 112:1]]</td><td align="center" style="border:none;">[[Ps.112|Psalms 112]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.112.3|Psalms 112:3 >>]]</td></tr></table>
 

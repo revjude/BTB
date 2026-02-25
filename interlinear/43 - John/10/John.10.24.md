@@ -1,10 +1,60 @@
+---
+title: John 10:24
+type: Verse
+kjv: "Then came the Jews round about him, and said unto him, How long dost thou make us to doubt? If thou be the Christ, tell us plainly."
+bsb: "So the Jews gathered around Him and demanded, “How long will You keep us in suspense? If You are the Christ, tell us plainly.”"
+greek: "ἐκύκλωσαν οὖν αὐτὸν οἱ Ἰουδαῖοι καὶ ἔλεγον αὐτῷ· ἕως πότε τὴν ψυχὴν ἡμῶν αἴρεις; εἰ σὺ εἶ ὁ χριστός, εἰπὲ ἡμῖν παρρησίᾳ.¶"
+pericope: "[[John.10.22 Jesus at the Feast of Dedication|Jesus at the Feast of Dedication]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 10
+book/chapter: "[[John.10|John 10]]"
+chronological_order: 984
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2944]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2453]]"
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G2193]]"
+- "[[G4219]]"
+- "[[G5590I]]"
+- "[[G3165]]"
+- "[[G0142]]"
+- "[[G1487G]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G5547]]"
+- "[[G2036]]"
+- "[[G3954]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **John 10:24**<big><big>[[John.10.22 Jesus at the Feast of Dedication|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then came the Jews round about him, and said unto him, How long dost thou make us to doubt? If thou be the Christ, tell us plainly.
 <small><sub>**BSB:**</sub></small>
 So the Jews gathered around Him and demanded, “How long will You keep us in suspense? If You are the Christ, tell us plainly.”
-<small><sub>**Literal:**</sub></small>
-Encircled therefore Him the Jews and they were saying to Him; Until when the soul of us hold You in suspense? If You yourself are the Christ, do tell us plainly.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.23|<< John 10:23]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.25|John 10:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2944\|ἐκύκλωσαν]]  [[G3767\|οὖν]]  [[G0846\|αὐτὸν]]  [[G3588\|οἱ]]  [[G2453\|Ἰουδαῖοι]]  [[G2532\|καὶ]]  [[G3004G\|ἔλεγον]]  [[G0846\|αὐτῷ·]]  [[G2193\|ἕως]]  [[G4219\|πότε]]  [[G3588\|τὴν]]  [[G5590I\|ψυχὴν]]  [[G3165\|ἡμῶν]]  [[G0142\|αἴρεις;]]  [[G1487G\|εἰ]]  [[G4771\|σὺ]]  [[G1510\|εἶ]]  [[G3588\|ὁ]]  [[G5547\|χριστός,]]  [[G2036\|εἰπὲ]]  [[G3165\|ἡμῖν]]  [[G3954\|παρρησίᾳ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.23|<< John 10:23]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.25|John 10:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

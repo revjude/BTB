@@ -1,8 +1,77 @@
+---
+title: Exodus 16:23
+type: Verse
+kjv: "And he said unto them, This is that which the LORD hath said, To morrow is the rest of the holy sabbath unto the LORD: bake that which ye will bake to day, and seethe that ye will seethe; and that which remaineth over lay up for you to be kept until the morning."
+bsb: "He told them, “This is what the LORD has said: ‘Tomorrow is to be a day of complete rest, a holy Sabbath to the LORD. So bake what you want to bake, and boil what you want to boil. Then set aside whatever remains and keep it until morning.’”"
+hebrew: "וַיֹּ֣אמֶר אֲלֵהֶ֗ם ה֚וּא אֲשֶׁ֣ר דִּבֶּ֣ר יְהוָ֔ה שַׁבָּת֧וֹן שַׁבַּת־ קֹ֛דֶשׁ לַֽיהוָ֖ה מָחָ֑ר אֵ֣ת אֲשֶׁר־ תֹּאפ֞וּ אֵפ֗וּ וְאֵ֤ת אֲשֶֽׁר־ תְּבַשְּׁלוּ֙ בַּשֵּׁ֔לוּ וְאֵת֙ כָּל־ הָ֣עֹדֵ֔ף הַנִּ֧יחוּ לָכֶ֛ם לְמִשְׁמֶ֖רֶת עַד־ הַבֹּֽקֶר׃"
+pericope: "[[Exod.16.22 The Sabbath Observed|The Sabbath Observed]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 16
+book/chapter: "[[Exod.16|Exodus 16]]"
+chronological_order: 108
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic FRUGALITY|FRUGALITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MANNA|MANNA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H1931]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H7677]]"
+- "[[H7676]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H9005]]"
+- "[[H4279]]"
+- "[[H0853]]"
+- "[[H0644]]"
+- "[[H9002]]"
+- "[[H1310]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5736]]"
+- "[[H5117]]"
+- "[[H9036]]"
+- "[[H4931]]"
+- "[[H5704]]"
+- "[[H1242]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 16:23**<big><big>[[Exod.16.22 The Sabbath Observed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto them, This [is that] which the LORD hath said, To morrow [is] the rest of the holy sabbath unto the LORD: bake [that] which ye will bake [to day], and seethe that ye will seethe; and that which remaineth over lay up for you to be kept until the morning.
 <small><sub>**BSB:**</sub></small>
 He told them, “This is what the LORD has said: ‘Tomorrow is to be a day of complete rest, a holy Sabbath to the LORD. So bake what you want to bake, and boil what you want to boil. Then set aside whatever remains and keep it until morning.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֗ם]] [[H1931\|ה֚וּא]] [[H0834A\|אֲשֶׁ֣ר]] [[H1696G\|דִּבֶּ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H7677\|שַׁבָּת֧וֹן]] [[H7676\|שַׁבַּת]][[H9014\|־]] [[H6944G\|קֹ֛דֶשׁ]] [[H9005\|לַֽ]][[H3068G\|יהוָ֖ה]] [[H4279\|מָחָ֑ר]] [[H0853\|אֵ֣ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0644\|תֹּאפ֞וּ]] [[H0644\|אֵפ֗וּ]] [[H9002\|וְ]][[H0853\|אֵ֤ת]] [[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H1310\|תְּבַשְּׁלוּ֙]] [[H1310\|בַּשֵּׁ֔לוּ]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ֣]][[H5736\|עֹדֵ֔ף]] [[H5117\|הַנִּ֧יחוּ]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H9005\|לְ]][[H4931\|מִשְׁמֶ֖רֶת]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H1242\|בֹּֽקֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRUGALITY|FRUGALITY]] • [[topic ISRAEL|ISRAEL]] • [[topic MANNA|MANNA]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.22|<< Exodus 16:22]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.24|Exodus 16:24 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: 2 Samuel 13:12
+type: Verse
+kjv: "And she answered him, Nay, my brother, do not force me; for no such thing ought to be done in Israel: do not thou this folly."
+bsb: "“No, my brother!” she cried. “Do not violate me, for such a thing should never be done in Israel. Do not do this disgraceful thing!"
+hebrew: "וַתֹּ֣אמֶר ל֗וֹ אַל־ אָחִי֙ אַל־ תְּעַנֵּ֔נִי כִּ֛י לֹא־ יֵֽעָשֶׂ֥ה כֵ֖ן בְּיִשְׂרָאֵ֑ל אַֽל־ תַּעֲשֵׂ֖ה אֶת־ הַנְּבָלָ֥ה הַזֹּֽאת׃"
+pericope: "[[2Sam.13.1 Amnon and Tamar|Amnon and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic RAPE|RAPE]]"
+- "[[topic SEDUCTION|SEDUCTION]]"
+- "[[topic TAMAR|TAMAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0251G]]"
+- "[[H9020]]"
+- "[[H6031B]]"
+- "[[H9030]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H3651C]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5039]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 13:12**<big><big>[[2Sam.13.1 Amnon and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she answered him, Nay, my brother, do not force me; for no such thing ought to be done in Israel: do not thou this folly.
 <small><sub>**BSB:**</sub></small>
 “No, my brother!” she cried. “Do not violate me, for such a thing should never be done in Israel. Do not do this disgraceful thing!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H0408\|אַל]][[H9014\|־]] [[H0251G\|אָחִ]][[H9020\|י֙]] [[H0408\|אַל]][[H9014\|־]] [[H6031B\|תְּעַנֵּ֔]][[H9030\|נִי]] [[H3588A\|כִּ֛י]] [[H3808\|לֹא]][[H9014\|־]] [[H6213A\|יֵֽעָשֶׂ֥ה]] [[H3651C\|כֵ֖ן]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֑ל]] [[H0408\|אַֽל]][[H9014\|־]] [[H6213A\|תַּעֲשֵׂ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5039\|נְּבָלָ֥ה]] [[H9009\|הַ]][[H2063\|זֹּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic DECEPTION|DECEPTION]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic RAPE|RAPE]] • [[topic SEDUCTION|SEDUCTION]] • [[topic TAMAR|TAMAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.11|<< 2 Samuel 13:11]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.13|2 Samuel 13:13 >>]]</td></tr></table>
 

@@ -1,10 +1,57 @@
+---
+title: Romans 14:9
+type: Verse
+kjv: "For to this end Christ both died, and rose, and revived, that he might be Lord both of the dead and living."
+bsb: "For this reason Christ died and returned to life, that He might be the Lord of both the dead and the living."
+greek: "εἰς τοῦτο γὰρ Χριστὸς καὶ ἀπέθανεν καὶ ἀνέστη καὶ ἔζησεν, ἵνα καὶ νεκρῶν καὶ ζώντων κυριεύσῃ."
+pericope: "[[Rom.14.1 The Law of Liberty|The Law of Liberty]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 14
+book/chapter: "[[Rom.14|Romans 14]]"
+chronological_order: 1100
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic EVIL|EVIL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[G1519]]"
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G5547]]"
+- "[[G2532]]"
+- "[[G0599]]"
+- "[[G0450]]"
+- "[[G2198]]"
+- "[[G2443]]"
+- "[[G3498]]"
+- "[[G2961]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Romans 14:9**<big><big>[[Rom.14.1 The Law of Liberty|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For to this end Christ both died, and rose, and revived, that he might be Lord both of the dead and living.
 <small><sub>**BSB:**</sub></small>
 For this reason Christ died and returned to life, that He might be the Lord of both the dead and the living.
-<small><sub>**Literal:**</sub></small>
-Unto this for Christ and died and rose up and lived again, that both over [the] dead and living He may rule.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.8|<< Romans 14:8]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.10|Romans 14:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1519\|εἰς]]  [[G3778\|τοῦτο]]  [[G1063\|γὰρ]]  [[G5547\|Χριστὸς]]  [[G2532\|καὶ]]  [[G0599\|ἀπέθανεν]]  [[G2532\|καὶ]]  [[G0450\|ἀνέστη]]  [[G2532\|καὶ]]  [[G2198\|ἔζησεν,]]  [[G2443\|ἵνα]]  [[G2532\|καὶ]]  [[G3498\|νεκρῶν]]  [[G2532\|καὶ]]  [[G2198\|ζώντων]]  [[G2961\|κυριεύσῃ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic EVIL|EVIL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.8|<< Romans 14:8]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.10|Romans 14:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

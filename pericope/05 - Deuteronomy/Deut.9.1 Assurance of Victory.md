@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Assurance of Victory
+type: Pericope
 pericope: "[[Deut.9.1 Assurance of Victory|Assurance of Victory]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 9
 book/chapter: "[[Deut.9|Deuteronomy 9]]"
-genre:
+chronological_order: 205
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 6
 verses:
 - "[[Deut.9.1]]"
 - "[[Deut.9.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Deut.9.6]]"
 ---
 
-[[Deut.9|Deuteronomy 9:1 - Deuteronomy 9:6]]
+<small>[[Deut.9|Deuteronomy 9:1-6]]</small>
 *Assurance of Victory*
 
 [[Deut.9.1|1]] Hear, O Israel: Thou \[art\] to pass over Jordan this day, to go in to possess nations greater and mightier than thyself, cities great and fenced up to heaven,

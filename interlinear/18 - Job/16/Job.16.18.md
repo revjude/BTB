@@ -1,8 +1,53 @@
+---
+title: Job 16:18
+type: Verse
+kjv: "O earth, cover not thou my blood, and let my cry have no place."
+bsb: "O earth, do not cover my blood; may my cry for help never be laid to rest."
+hebrew: "אֶ֭רֶץ אַל־ תְּכַסִּ֣י דָמִ֑י וְֽאַל־ יְהִ֥י מָ֝ק֗וֹם לְזַעֲקָתִֽי׃"
+pericope: "[[Job.16.1 Job Decries His Comforters|Job Decries His Comforters]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 16
+book/chapter: "[[Job.16|Job 16]]"
+chronological_order: 27
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H0776H]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3680]]"
+- "[[H1818]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H4725]]"
+- "[[H9005]]"
+- "[[H2201]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 16:18**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O earth, cover not thou my blood, and let my cry have no place.
 <small><sub>**BSB:**</sub></small>
 O earth, do not cover my blood; may my cry for help never be laid to rest.
+<small><sub>**Hebrew:**</sub></small>
+[[H0776H\|אֶ֭רֶץ]] [[H0408\|אַל]][[H9014\|־]] [[H3680\|תְּכַסִּ֣י]] [[H1818\|דָמִ֑]][[H9020\|י]] [[H9002\|וְֽ]][[H0408\|אַל]][[H9014\|־]] [[H1961\|יְהִ֥י]] [[H4725\|מָ֝ק֗וֹם]] [[H9005\|לְ]][[H2201\|זַעֲקָתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.17|<< Job 16:17]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.19|Job 16:19 >>]]</td></tr></table>
 

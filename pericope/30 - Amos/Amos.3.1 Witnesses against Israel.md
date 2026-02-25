@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Witnesses against Israel
+type: Pericope
 pericope: "[[Amos.3.1 Witnesses against Israel|Witnesses against Israel]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Amos
 chapter: 3
 book/chapter: "[[Amos.3|Amos 3]]"
-genre:
+chronological_order: 600
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 15
 verses:
 - "[[Amos.3.1]]"
 - "[[Amos.3.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Amos.3.15]]"
 ---
 
-[[Amos.3|Amos 3:1 - Amos 3:15]]
+<small>[[Amos.3|Amos 3:1-15]]</small>
 *Witnesses against Israel*
 
 [[Amos.3.1|1]] Hear this word that the LORD hath spoken against you, O children of Israel, against the whole family which I brought up from the land of Egypt, saying,

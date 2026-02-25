@@ -1,8 +1,61 @@
+---
+title: Psalm 145:21
+type: Verse
+kjv: "My mouth shall speak the praise of the LORD: and let all flesh bless his holy name for ever and ever."
+bsb: "My mouth will declare the praise of the LORD; let every creature bless His holy name forever and ever."
+hebrew: "תְּהִלַּ֥ת יְהוָ֗ה יְֽדַבֶּ֫ר־ פִּ֥י וִיבָרֵ֣ךְ כָּל־ בָּ֭שָׂר שֵׁ֥ם קָדְשׁ֗וֹ לְעוֹלָ֥ם וָעֶֽד׃"
+pericope: "[[Ps.145.1 I Will Exalt You, My God and King|I Will Exalt You, My God and King]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 145
+book/chapter: "[[Ps.145|Psalm 145]]"
+chronological_order: 391
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H8416]]"
+- "[[H3068G]]"
+- "[[H1696G]]"
+- "[[H9014]]"
+- "[[H6310G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H1288]]"
+- "[[H3605]]"
+- "[[H1320]]"
+- "[[H8034]]"
+- "[[H6944G]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H5703]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 145:21**<big><big>[[Ps.145.1 I Will Exalt You, My God and King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My mouth shall speak the praise of the LORD: and let all flesh bless his holy name for ever and ever.
 <small><sub>**BSB:**</sub></small>
 My mouth will declare the praise of the LORD; let every creature bless His holy name forever and ever.
+<small><sub>**Hebrew:**</sub></small>
+[[H8416\|תְּהִלַּ֥ת]] [[H3068G\|יְהוָ֗ה]] [[H1696G\|יְֽדַבֶּ֫ר]][[H9014\|־]] [[H6310G\|פִּ֥]][[H9020\|י]] [[H9002\|וִ]][[H1288\|יבָרֵ֣ךְ]] [[H3605\|כָּל]][[H9014\|־]] [[H1320\|בָּ֭שָׂר]] [[H8034\|שֵׁ֥ם]] [[H6944G\|קָדְשׁ֗]][[H9023\|וֹ]] [[H9005\|לְ]][[H5769G\|עוֹלָ֥ם]] [[H9002\|וָ]][[H5703\|עֶֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAISE|PRAISE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.145.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.145.20|<< Psalms 145:20]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.146.1|Psalms 146:1 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: 1 Samuel 9:24
+type: Verse
+kjv: "And the cook took up the shoulder, and that which was upon it, and set it before Saul. And Samuel said, Behold that which is left! set it before thee, and eat: for unto this time hath it been kept for thee since I said, I have invited the people. So Saul did eat with Samuel that day."
+bsb: "So the cook picked up the leg and what was attached to it and set it before Saul. Then Samuel said, “Here is what was kept back. It was set apart for you. Eat, for it has been kept for you for this occasion, from the time I said, ‘I have invited the people.’” So Saul dined with Samuel that day."
+hebrew: "וַיָּ֣רֶם הַ֠טַּבָּח אֶת־ הַשּׁ֨וֹק וְהֶעָלֶ֜יהָ וַיָּ֣שֶׂם׀ לִפְנֵ֣י שָׁא֗וּל וַיֹּ֙אמֶר֙ הִנֵּ֤ה הַנִּשְׁאָר֙ שִׂים־ לְפָנֶ֣יךָ אֱכֹ֔ל כִּ֧י לַמּוֹעֵ֛ד שָֽׁמוּר־ לְךָ֥ לֵאמֹ֖ר הָעָ֣ם׀ קָרָ֑אתִי וַיֹּ֧אכַל שָׁא֛וּל עִם־ שְׁמוּאֵ֖ל בַּיּ֥וֹם הַהֽוּא׃"
+pericope: "[[1Sam.9.1 Saul Chosen as King|Saul Chosen as King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 9
+book/chapter: "[[1Sam.9|1 Samuel 9]]"
+chronological_order: 288
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[H9001]]"
+- "[[H7311A]]"
+- "[[H9009]]"
+- "[[H2876]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7785]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H7760A]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H7586G]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H7604]]"
+- "[[H9021]]"
+- "[[H0398]]"
+- "[[H3588A]]"
+- "[[H4150G]]"
+- "[[H8104H]]"
+- "[[H9031]]"
+- "[[H5971A]]"
+- "[[H7121G]]"
+- "[[H5973A]]"
+- "[[H8050G]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 9:24**<big><big>[[1Sam.9.1 Saul Chosen as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the cook took up the shoulder, and [that] which [was] upon it, and set [it] before Saul. And [Samuel] said, Behold that which is left! set [it] before thee, [and] eat: for unto this time hath it been kept for thee since I said, I have invited the people. So Saul did eat with Samuel that day.
 <small><sub>**BSB:**</sub></small>
 So the cook picked up the leg and what was attached to it and set it before Saul. Then Samuel said, “Here is what was kept back. It was set apart for you. Eat, for it has been kept for you for this occasion, from the time I said, ‘I have invited the people.’” So Saul dined with Samuel that day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7311A\|יָּ֣רֶם]] [[H9009\|הַ֠]][[H2876\|טַּבָּח]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7785\|שּׁ֨וֹק]] [[H9002\|וְ]][[H9009\|הֶ]][[H5921A\|עָלֶ֜י]][[H9034\|הָ]] [[H9001\|וַ]][[H7760A\|יָּ֣שֶׂם]][[H9015\|׀]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H7586G\|שָׁא֗וּל]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H2009\|הִנֵּ֤ה]] [[H9009\|הַ]][[H7604\|נִּשְׁאָר֙]] [[H7760A\|שִׂים]][[H9014\|־]] [[H9005\|לְ]][[H6440G\|פָנֶ֣י]][[H9021\|ךָ]] [[H0398\|אֱכֹ֔ל]] [[H3588A\|כִּ֧י]] [[H9005\|לַ]][[H4150G\|מּוֹעֵ֛ד]] [[H8104H\|שָֽׁמוּר]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֥]] [[H9005\|לֵ]][[H0559\|אמֹ֖ר]] [[H9009\|הָ]][[H5971A\|עָ֣ם]][[H9015\|׀]] [[H7121G\|קָרָ֑אתִי]] [[H9001\|וַ]][[H0398\|יֹּ֧אכַל]] [[H7586G\|שָׁא֛וּל]] [[H5973A\|עִם]][[H9014\|־]] [[H8050G\|שְׁמוּאֵ֖ל]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H1931\|הֽוּא]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.9.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9.23|<< 1 Samuel 9:23]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.25|1 Samuel 9:25 >>]]</td></tr></table>
 

@@ -3,7 +3,7 @@
 
 1. A daughter of Zelophehad [[Num.26.33|Nu 26:33]]; [[Num.36.11|36:11]]; [[Josh.17.3|Jos 17:3]]
 
-- Special legislation in regard to the inheritance of [[Num.27.1|Nu 27:1]]-[[Num.27.11|11]]; [[Num.36|36]]; [[Josh.17.3|Jos 17:3]],[[Josh.17.4|4]]
+- Special legislation in regard to the inheritance of [[Num.27.1|Nu 27:1-11]]; [[Num.36|36]]; [[Josh.17.3|Jos 17:3]],[[Josh.17.4|4]]
 
 2. A city of Canaan
 

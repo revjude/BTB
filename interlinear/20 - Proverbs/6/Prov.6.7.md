@@ -1,8 +1,56 @@
+---
+title: Proverbs 6:7
+type: Verse
+kjv: "Which having no guide, overseer, or ruler,"
+bsb: "Without a commander, without an overseer or ruler,"
+hebrew: "אֲשֶׁ֖ר אֵֽין־ לָ֥הּ קָצִ֗ין שֹׁטֵ֥ר וּמֹשֵֽׁל׃"
+pericope: "[[Prov.6.1 Warnings against Foolishness|Warnings against Foolishness]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 6
+book/chapter: "[[Prov.6|Proverbs 6]]"
+chronological_order: 461
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ANT|ANT]]"
+- "[[topic DILIGENCE|DILIGENCE]]"
+- "[[topic IDLENESS|IDLENESS]]"
+- "[[topic SLOTHFULNESS|SLOTHFULNESS]]"
+- "[[topic SUMMER|SUMMER]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H0834A]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H7101]]"
+- "[[H7860]]"
+- "[[H9002]]"
+- "[[H4910]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 6:7**<big><big>[[Prov.6.1 Warnings against Foolishness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which having no guide, overseer, or ruler,
 <small><sub>**BSB:**</sub></small>
 Without a commander, without an overseer or ruler,
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֖ר]] [[H0369\|אֵֽין]][[H9014\|־]] [[H9005\|לָ֥]][[H9034\|הּ]] [[H7101\|קָצִ֗ין]] [[H7860\|שֹׁטֵ֥ר]] [[H9002\|וּ]][[H4910\|מֹשֵֽׁל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic ANT|ANT]] • [[topic DILIGENCE|DILIGENCE]] • [[topic IDLENESS|IDLENESS]] • [[topic SLOTHFULNESS|SLOTHFULNESS]] • [[topic SUMMER|SUMMER]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.6|<< Proverbs 6:6]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.8|Proverbs 6:8 >>]]</td></tr></table>
 

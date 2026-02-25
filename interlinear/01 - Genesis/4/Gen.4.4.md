@@ -1,8 +1,71 @@
+---
+title: Genesis 4:4
+type: Verse
+kjv: "And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering:"
+bsb: "while Abel brought the best portions of the firstborn of his flock. And the LORD looked with favor on Abel and his offering,"
+hebrew: "וְהֶ֨בֶל הֵבִ֥יא גַם־ ה֛וּא מִבְּכֹר֥וֹת צֹאנ֖וֹ וּמֵֽחֶלְבֵהֶ֑ן וַיִּ֣שַׁע יְהוָ֔ה אֶל־ הֶ֖בֶל וְאֶל־ מִנְחָתֽוֹ׃"
+pericope: "[[Gen.4.1 Cain and Abel|Cain and Abel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 4
+book/chapter: "[[Gen.4|Genesis 4]]"
+chronological_order: 4
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABEL|ABEL]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ANTEDILUVIANS|ANTEDILUVIANS]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CAIN|CAIN]]"
+- "[[topic CONSECRATION|CONSECRATION]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9002]]"
+- "[[H1893]]"
+- "[[H0935P]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H9006]]"
+- "[[H1060]]"
+- "[[H6629G]]"
+- "[[H9023]]"
+- "[[H2459]]"
+- "[[H9029]]"
+- "[[H9001]]"
+- "[[H8159]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H4503G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 4:4**<big><big>[[Gen.4.1 Cain and Abel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering:
 <small><sub>**BSB:**</sub></small>
 while Abel brought the best portions of the firstborn of his flock. And the LORD looked with favor on Abel and his offering,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1893\|הֶ֨בֶל]] [[H0935P\|הֵבִ֥יא]] [[H1571\|גַם]][[H9014\|־]] [[H1931\|ה֛וּא]] [[H9006\|מִ]][[H1060\|בְּכֹר֥וֹת]] [[H6629G\|צֹאנ֖]][[H9023\|וֹ]] [[H9002\|וּ]][[H9006\|מֵֽ]][[H2459\|חֶלְבֵ]][[H9029\|הֶ֑ן]] [[H9001\|וַ]][[H8159\|יִּ֣שַׁע]] [[H3068G\|יְהוָ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H1893\|הֶ֖בֶל]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H4503G\|מִנְחָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABEL|ABEL]] • [[topic ANIMALS|ANIMALS]] • [[topic ANTEDILUVIANS|ANTEDILUVIANS]] • [[topic ATONEMENT|ATONEMENT]] • [[topic CAIN|CAIN]] • [[topic CONSECRATION|CONSECRATION]] • [[topic ENVY|ENVY]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic RELIGION|RELIGION]] • [[topic SHEEP|SHEEP]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.3|<< Genesis 4:3]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.5|Genesis 4:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

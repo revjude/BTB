@@ -1,8 +1,60 @@
+---
+title: Isaiah 5:11
+type: Verse
+kjv: "Woe unto them that rise up early in the morning, that they may follow strong drink; that continue until night, till wine inflame them!"
+bsb: "Woe to those who rise early in the morning in pursuit of strong drink, who linger into the evening, to be inflamed by wine."
+hebrew: "ה֛וֹי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר שֵׁכָ֣ר יִרְדֹּ֑פוּ מְאַחֲרֵ֣י בַנֶּ֔שֶׁף יַ֖יִן יַדְלִיקֵֽם׃"
+pericope: "[[Isa.5.8 Woes to the Wicked|Woes to the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 5
+book/chapter: "[[Isa.5|Isaiah 5]]"
+chronological_order: 613
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PLEASURE|PLEASURE]]"
+- "[[topic RISING|RISING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H1945]]"
+- "[[H7925]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H7941]]"
+- "[[H7291]]"
+- "[[H0309]]"
+- "[[H5399]]"
+- "[[H3196]]"
+- "[[H1814]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 5:11**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe unto them that rise up early in the morning, [that] they may follow strong drink; that continue until night, [till] wine inflame them!
 <small><sub>**BSB:**</sub></small>
 Woe to those who rise early in the morning in pursuit of strong drink, who linger into the evening, to be inflamed by wine.
+<small><sub>**Hebrew:**</sub></small>
+[[H1945\|ה֛וֹי]] [[H7925\|מַשְׁכִּימֵ֥י]] [[H9003\|בַ]][[H1242\|בֹּ֖קֶר]] [[H7941\|שֵׁכָ֣ר]] [[H7291\|יִרְדֹּ֑פוּ]] [[H0309\|מְאַחֲרֵ֣י]] [[H9003\|בַ]][[H5399\|נֶּ֔שֶׁף]] [[H3196\|יַ֖יִן]] [[H1814\|יַדְלִיקֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic HAPPINESS|HAPPINESS]] • [[topic ISAIAH|ISAIAH]] • [[topic PLEASURE|PLEASURE]] • [[topic RISING|RISING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.10|<< Isaiah 5:10]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.12|Isaiah 5:12 >>]]</td></tr></table>
 

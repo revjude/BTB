@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Do Not Harden Your Hearts
+type: Pericope
 pericope: "[[Ps.95.1 Do Not Harden Your Hearts|Do Not Harden Your Hearts]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 95
 book/chapter: "[[Ps.95|Psalm 95]]"
-genre:
+chronological_order: 522
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 11
 verses:
 - "[[Ps.95.1]]"
 - "[[Ps.95.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Ps.95.11]]"
 ---
 
-[[Ps.95|Psalm 95:1 - Psalm 95:11]]
+<small>[[Ps.95|Psalm 95:1-11]]</small>
 *Do Not Harden Your Hearts*
 
 [[Ps.95.1|1]] O come, let us sing unto the LORD: let us make a joyful noise to the rock of our salvation.

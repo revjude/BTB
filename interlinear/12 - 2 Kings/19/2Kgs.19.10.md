@@ -1,8 +1,65 @@
+---
+title: 2 Kings 19:10
+type: Verse
+kjv: "Thus shall ye speak to Hezekiah king of Judah, saying, Let not thy God in whom thou trustest deceive thee, saying, Jerusalem shall not be delivered into the hand of the king of Assyria."
+bsb: "“Give this message to Hezekiah king of Judah: ‘Do not let your God, in whom you trust, deceive you by saying that Jerusalem will not be delivered into the hand of the king of Assyria."
+hebrew: "כֹּ֣ה תֹאמְר֗וּן אֶל־ חִזְקִיָּ֤הוּ מֶֽלֶךְ־ יְהוּדָה֙ לֵאמֹ֔ר אַל־ יַשִּׁאֲךָ֣ אֱלֹהֶ֔יךָ אֲשֶׁ֥ר אַתָּ֛ה בֹּטֵ֥חַ בּ֖וֹ לֵאמֹ֑ר לֹ֤א תִנָּתֵן֙ יְר֣וּשָׁלִַ֔ם בְּיַ֖ד מֶ֥לֶךְ אַשּֽׁוּר׃"
+pericope: "[[2Kgs.19.8 Sennacherib’s Blasphemous Letter|Sennacherib’s Blasphemous Letter]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 19
+book/chapter: "[[2Kgs.19|2 Kings 19]]"
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H9013]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2396G]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H9005]]"
+- "[[H0408]]"
+- "[[H5377]]"
+- "[[H9031]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H0859A]]"
+- "[[H0982]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H5414G]]"
+- "[[H3389]]"
+- "[[H3027H]]"
+- "[[H0804G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 19:10**<big><big>[[2Kgs.19.8 Sennacherib’s Blasphemous Letter|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus shall ye speak to Hezekiah king of Judah, saying, Let not thy God in whom thou trustest deceive thee, saying, Jerusalem shall not be delivered into the hand of the king of Assyria.
 <small><sub>**BSB:**</sub></small>
 “Give this message to Hezekiah king of Judah: ‘Do not let your God, in whom you trust, deceive you by saying that Jerusalem will not be delivered into the hand of the king of Assyria.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֣ה]] [[H0559\|תֹאמְר֗וּ]][[H9013\|ן]] [[H0413\|אֶל]][[H9014\|־]] [[H2396G\|חִזְקִיָּ֤הוּ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָה֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H0408\|אַל]][[H9014\|־]] [[H5377\|יַשִּׁאֲ]][[H9031\|ךָ֣]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֥ר]] [[H0859A\|אַתָּ֛ה]] [[H0982\|בֹּטֵ֥חַ]] [[H9003\|בּ֖]][[H9033\|וֹ]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3808\|לֹ֤א]] [[H5414G\|תִנָּתֵן֙]] [[H3389\|יְר֣וּשָׁלִַ֔ם]] [[H9003\|בְּ]][[H3027H\|יַ֖ד]] [[H4428G\|מֶ֥לֶךְ]] [[H0804G\|אַשּֽׁוּר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIPLOMACY|DIPLOMACY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.9|<< 2 Kings 19:9]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.11|2 Kings 19:11 >>]]</td></tr></table>
 

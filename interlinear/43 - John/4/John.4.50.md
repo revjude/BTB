@@ -1,10 +1,63 @@
+---
+title: John 4:50
+type: Verse
+kjv: "Jesus saith unto him, Go thy way; thy son liveth. And the man believed the word that Jesus had spoken unto him, and he went his way."
+bsb: "“Go,” said Jesus. “Your son will live.” The man took Jesus at His word and departed."
+jesus_said: "Go thy way; thy son liveth."
+greek: "Λέγει αὐτῷ ὁ Ἰησοῦς· πορεύου, ὁ υἱός σου ζῇ. καὶ ἐπίστευσεν ὁ ἄνθρωπος τῷ λόγῳ ὃν εἶπεν αὐτῷ ὁ Ἰησοῦς, καὶ ἐπορεύετο."
+pericope: "[[John.4.43 Jesus Heals the Official’s Son|Jesus Heals the Official’s Son]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NOBLEMAN|NOBLEMAN]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G4198]]"
+- "[[G5207]]"
+- "[[G4771]]"
+- "[[G2198]]"
+- "[[G2532]]"
+- "[[G4100]]"
+- "[[G0444]]"
+- "[[G3056]]"
+- "[[G3739]]"
+- "[[G2036]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **John 4:50**<big><big>[[John.4.43 Jesus Heals the Official’s Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus saith unto him, Go thy way; thy son liveth. And the man believed the word that Jesus had spoken unto him, and he went his way.
 <small><sub>**BSB:**</sub></small>
 “Go,” said Jesus. “Your son will live.” The man took Jesus at His word and departed.
-<small><sub>**Literal:**</sub></small>
-Says to him <the> Jesus; do go, the son of you lives. and Believed the man in the word that said to him <the> Jesus, and he was going.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.49|<< John 4:49]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.51|John 4:51 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Λέγει]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G4198\|πορεύου,]]  [[G3588\|ὁ]]  [[G5207\|υἱός]]  [[G4771\|σου]]  [[G2198\|ζῇ.]]  [[G2532\|καὶ]]  [[G4100\|ἐπίστευσεν]]  [[G3588\|ὁ]]  [[G0444\|ἄνθρωπος]]  [[G3588\|τῷ]]  [[G3056\|λόγῳ]]  [[G3739\|ὃν]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς,]]  [[G2532\|καὶ]]  [[G4198\|ἐπορεύετο.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic CHILDREN|CHILDREN]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic NOBLEMAN|NOBLEMAN]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.49|<< John 4:49]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.51|John 4:51 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

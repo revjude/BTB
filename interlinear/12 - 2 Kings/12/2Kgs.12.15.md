@@ -1,8 +1,70 @@
+---
+title: 2 Kings 12:15
+type: Verse
+kjv: "Moreover they reckoned not with the men, into whose hand they delivered the money to be bestowed on workmen: for they dealt faithfully."
+bsb: "No accounting was required from the men who received the money to pay the workmen, because they acted with integrity."
+hebrew: "וְלֹ֧א יְחַשְּׁב֣וּ אֶת־ הָאֲנָשִׁ֗ים אֲשֶׁ֨ר יִתְּנ֤וּ אֶת־ הַכֶּ֙סֶף֙ עַל־ יָדָ֔ם לָתֵ֖ת לְעֹשֵׂ֣י הַמְּלָאכָ֑ה כִּ֥י בֶאֱמֻנָ֖ה הֵ֥ם עֹשִֽׂים׃"
+pericope: "[[2Kgs.12.1 Joash Repairs the Temple|Joash Repairs the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 12
+book/chapter: "[[2Kgs.12|2 Kings 12]]"
+chronological_order: 585
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~835–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic HONESTY|HONESTY]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOIADA|JEHOIADA]]"
+- "[[topic JOASH|JOASH]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2803H]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H3701G]]"
+- "[[H5921A]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H5414N]]"
+- "[[H6213A]]"
+- "[[H4399]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H0530]]"
+- "[[H1992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 12:15**<big><big>[[2Kgs.12.1 Joash Repairs the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover they reckoned not with the men, into whose hand they delivered the money to be bestowed on workmen: for they dealt faithfully.
 <small><sub>**BSB:**</sub></small>
 No accounting was required from the men who received the money to pay the workmen, because they acted with integrity.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֧א]] [[H2803H\|יְחַשְּׁב֣וּ]] [[H0854\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֗ים]] [[H0834A\|אֲשֶׁ֨ר]] [[H5414G\|יִתְּנ֤וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3701G\|כֶּ֙סֶף֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3027G\|יָדָ֔]][[H9028\|ם]] [[H9005\|לָ]][[H5414N\|תֵ֖ת]] [[H9005\|לְ]][[H6213A\|עֹשֵׂ֣י]] [[H9009\|הַ]][[H4399\|מְּלָאכָ֑ה]] [[H3588A\|כִּ֥י]] [[H9003\|בֶ]][[H0530\|אֱמֻנָ֖ה]] [[H1992\|הֵ֥ם]] [[H6213A\|עֹשִֽׂים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic HONESTY|HONESTY]] • [[topic INTEGRITY|INTEGRITY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOIADA|JEHOIADA]] • [[topic JOASH|JOASH]] • [[topic MONEY|MONEY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.12.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.12.14|<< 2 Kings 12:14]]</td><td align="center" style="border:none;">[[2Kgs.12|2 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.12.16|2 Kings 12:16 >>]]</td></tr></table>
 

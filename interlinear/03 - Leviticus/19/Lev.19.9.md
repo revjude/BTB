@@ -1,8 +1,65 @@
+---
+title: Leviticus 19:9
+type: Verse
+kjv: "And when ye reap the harvest of your land, thou shalt not wholly reap the corners of thy field, neither shalt thou gather the gleanings of thy harvest."
+bsb: "When you reap the harvest of your land, you are not to reap to the very edges of your field or gather the gleanings of your harvest."
+hebrew: "וּֽבְקֻצְרְכֶם֙ אֶת־ קְצִ֣יר אַרְצְכֶ֔ם לֹ֧א תְכַלֶּ֛ה פְּאַ֥ת שָׂדְךָ֖ לִקְצֹ֑ר וְלֶ֥קֶט קְצִֽירְךָ֖ לֹ֥א תְלַקֵּֽט׃"
+pericope: "[[Lev.19.9 Love Your Neighbor|Love Your Neighbor]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 19
+book/chapter: "[[Lev.19|Leviticus 19]]"
+chronological_order: 151
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic GLEANING|GLEANING]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H7114B]]"
+- "[[H9046]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7105A]]"
+- "[[H0776G]]"
+- "[[H9026]]"
+- "[[H3808]]"
+- "[[H3615J]]"
+- "[[H6285]]"
+- "[[H7704G]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H3951]]"
+- "[[H3950]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 19:9**<big><big>[[Lev.19.9 Love Your Neighbor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when ye reap the harvest of your land, thou shalt not wholly reap the corners of thy field, neither shalt thou gather the gleanings of thy harvest.
 <small><sub>**BSB:**</sub></small>
 When you reap the harvest of your land, you are not to reap to the very edges of your field or gather the gleanings of your harvest.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּֽ]][[H9003\|בְ]][[H7114B\|קֻצְרְ]][[H9046\|כֶם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H7105A\|קְצִ֣יר]] [[H0776G\|אַרְצְ]][[H9026\|כֶ֔ם]] [[H3808\|לֹ֧א]] [[H3615J\|תְכַלֶּ֛ה]] [[H6285\|פְּאַ֥ת]] [[H7704G\|שָׂדְ]][[H9021\|ךָ֖]] [[H9005\|לִ]][[H7114B\|קְצֹ֑ר]] [[H9002\|וְ]][[H3951\|לֶ֥קֶט]] [[H7105A\|קְצִֽירְ]][[H9021\|ךָ֖]] [[H3808\|לֹ֥א]] [[H3950\|תְלַקֵּֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic GLEANING|GLEANING]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.8|<< Leviticus 19:8]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.10|Leviticus 19:10 >>]]</td></tr></table>
 

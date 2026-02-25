@@ -1,6 +1,60 @@
+---
+title: LXX Deuteronomy 1:43
+type: Verse
+lxx: "And I spoke to you, and you did not listen to me, and you violated the word of the lord, and pressing forward you ascended unto the mountain."
+greek: "και ελάλησα υμίν και ουκ εισηκούσατέ μου και παρέβητε το ρήμα κυρίου και παραβιασάμενοι ανέβητε εις το όρος"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[G2532]]"
+- "[[G2980]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1522]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3845]]"
+- "[[G3588]]"
+- "[[G4487]]"
+- "[[G2962]]"
+- "[[G2532]]"
+- "[[G3849]]"
+- "[[G0305]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3735]]"
+---
+
 **LXX Deuteronomy 1:43** 
 <small><sub>**LXX:**</sub></small>
 And I spoke to you, and you did not listen to me, and you violated the word \[of the\] <span class="smallcaps">lord</span>, and pressing \[forward\] you ascended unto the mountain. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2980\|ελάλησα]] [[G1473\|υμίν]] [[G2532\|και]] [[G3756\|ουκ]] [[G1522\|εισηκούσατέ]] [[G1473\|μου]] [[G2532\|και]] [[G3845\|παρέβητε]] [[G3588\|το]] [[G4487\|ρήμα]] [[G2962\|κυρίου]] [[G2532\|και]] [[G3849\|παραβιασάμενοι]] [[G0305\|ανέβητε]] [[G1519\|εις]] [[G3588\|το]] [[G3735\|όρος]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic REPROBACY|REPROBACY]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.1.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.42|<< Deuteronomy 1:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.44|Deuteronomy 1:44 >>]]</td></tr></table>
 
@@ -23,6 +77,6 @@ And I spoke to you, and you did not listen to me, and you violated the word \[of
 | unto | **<big>[[G1519\|εις]]</big>** |
 | the | **<big>[[G3588\|το]]</big>** |
 | mountain. | **<big>[[G3735\|όρος]]</big>** |
-[[Deut.1.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.42|<< Deuteronomy 1:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.44|Deuteronomy 1:44 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.42|<< Deuteronomy 1:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.44|Deuteronomy 1:44 >>]]</td></tr></table>
 
 

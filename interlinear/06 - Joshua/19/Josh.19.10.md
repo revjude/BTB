@@ -1,8 +1,58 @@
+---
+title: Joshua 19:10
+type: Verse
+kjv: "And the third lot came up for the children of Zebulun according to their families: and the border of their inheritance was unto Sarid:"
+bsb: "The third lot came up for the clans of the tribe of Zebulun: The border of their inheritance stretched as far as Sarid."
+hebrew: "וַיַּ֙עַל֙ הַגּוֹרָ֣ל הַשְּׁלִישִׁ֔י לִבְנֵ֥י זְבוּלֻ֖ן לְמִשְׁפְּחֹתָ֑ם וַיְהִ֛י גְּב֥וּל נַחֲלָתָ֖ם עַד־ שָׂרִֽיד׃"
+pericope: "[[Josh.19.10 Zebulun’s Inheritance|Zebulun’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 19
+book/chapter: "[[Josh.19|Joshua 19]]"
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic SARID|SARID]]"
+- "[[topic ZEBULUN|ZEBULUN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H9009]]"
+- "[[H1486]]"
+- "[[H7992]]"
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H2074]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H1961]]"
+- "[[H1366H]]"
+- "[[H5159]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H8301]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 19:10**<big><big>[[Josh.19.10 Zebulun’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the third lot came up for the children of Zebulun according to their families: and the border of their inheritance was unto Sarid:
 <small><sub>**BSB:**</sub></small>
 The third lot came up for the clans of the tribe of Zebulun: The border of their inheritance stretched as far as Sarid.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|יַּ֙עַל֙]] [[H9009\|הַ]][[H1486\|גּוֹרָ֣ל]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁ֔י]] [[H9005\|לִ]][[H1121G\|בְנֵ֥י]] [[H2074\|זְבוּלֻ֖ן]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָ֑]][[H9028\|ם]] [[H9001\|וַ]][[H1961\|יְהִ֛י]] [[H1366H\|גְּב֥וּל]] [[H5159\|נַחֲלָתָ֖]][[H9028\|ם]] [[H5704\|עַד]][[H9014\|־]] [[H8301\|שָׂרִֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SARID|SARID]] • [[topic ZEBULUN|ZEBULUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.9|<< Joshua 19:9]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.11|Joshua 19:11 >>]]</td></tr></table>
 

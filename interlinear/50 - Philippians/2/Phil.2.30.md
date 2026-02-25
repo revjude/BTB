@@ -1,10 +1,62 @@
+---
+title: Philippians 2:30
+type: Verse
+kjv: "Because for the work of Christ he was nigh unto death, not regarding his life, to supply your lack of service toward me."
+bsb: "because he nearly died for the work of Christ, risking his life to make up for your deficit of service to me."
+greek: "ὅτι διὰ τὸ ἔργον τοῦ Χριστοῦ μέχρι θανάτου ἤγγισεν παραβολευσάμενος τῇ ψυχῇ, ἵνα ἀναπληρώσῃ τὸ ὑμῶν ὑστέρημα τῆς πρός με λειτουργίας.¶"
+pericope: "[[Phil.2.19 Timothy and Epaphroditus|Timothy and Epaphroditus]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 2
+book/chapter: "[[Phil.2|Philippians 2]]"
+chronological_order: 1118
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic EPAPHRODITUS|EPAPHRODITUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SUFFERING|SUFFERING]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3754H]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G2041]]"
+- "[[G5547]]"
+- "[[G3360]]"
+- "[[G2288]]"
+- "[[G1448]]"
+- "[[G3851]]"
+- "[[G5590H]]"
+- "[[G2443]]"
+- "[[G0378]]"
+- "[[G4771]]"
+- "[[G5303]]"
+- "[[G4314]]"
+- "[[G3165]]"
+- "[[G3009]]"
+texts:
+- NKO
+- k
+- NK(O)
+---
+
 **Philippians 2:30**<big><big>[[Phil.2.19 Timothy and Epaphroditus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Because for the work of Christ he was nigh unto death, not regarding his life, to supply your lack of service toward me.
 <small><sub>**BSB:**</sub></small>
 because he nearly died for the work of Christ, risking his life to make up for your deficit of service to me.
-<small><sub>**Literal:**</sub></small>
-because for the sake of the work <the> of Christ unto death he came near having disregarded <the> [his] life so that he may fill up the of you deficit <the> of toward me service.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.29|<< Philippians 2:29]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.1|Philippians 3:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G1223\|διὰ]]  [[G3588\|τὸ]]  [[G2041\|ἔργον]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ]]  [[G3360\|μέχρι]]  [[G2288\|θανάτου]]  [[G1448\|ἤγγισεν]]  [[G3851\|παραβολευσάμενος]]  [[G3588\|τῇ]]  [[G5590H\|ψυχῇ,]]  [[G2443\|ἵνα]]  [[G0378\|ἀναπληρώσῃ]]  [[G3588\|τὸ]]  [[G4771\|ὑμῶν]]  [[G5303\|ὑστέρημα]]  [[G3588\|τῆς]]  [[G4314\|πρός]]  [[G3165\|με]]  [[G3009\|λειτουργίας.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPAPHRODITUS|EPAPHRODITUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SUFFERING|SUFFERING]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.29|<< Philippians 2:29]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.1|Philippians 3:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

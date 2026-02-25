@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 33:16
+type: Verse
+kjv: "And for the precious things of the earth and fulness thereof, and for the good will of him that dwelt in the bush: let the blessing come upon the head of Joseph, and upon the top of the head of him that was separated from his brethren."
+bsb: "with the choice gifts of the land and everything in it, and with the favor of Him who dwelt in the burning bush. May these rest on the head of Joseph and crown the brow of the prince of his brothers."
+hebrew: "וּמִמֶּ֗גֶד אֶ֚רֶץ וּמְלֹאָ֔הּ וּרְצ֥וֹן שֹׁכְנִ֖י סְנֶ֑ה תָּב֙וֹאתָה֙ לְרֹ֣אשׁ יוֹסֵ֔ף וּלְקָדְקֹ֖ד נְזִ֥יר אֶחָֽיו׃"
+pericope: "[[Deut.33.1 Moses Blesses the Twelve Tribes|Moses Blesses the Twelve Tribes]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 33
+book/chapter: "[[Deut.33|Deuteronomy 33]]"
+chronological_order: 229
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MANASSEH|MANASSEH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H4022]]"
+- "[[H0776G]]"
+- "[[H4393]]"
+- "[[H9024]]"
+- "[[H7522]]"
+- "[[H7931]]"
+- "[[H5572]]"
+- "[[H0935I]]"
+- "[[H9012]]"
+- "[[H9005]]"
+- "[[H7218A]]"
+- "[[H3130G]]"
+- "[[H6936]]"
+- "[[H5139]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 33:16**<big><big>[[Deut.33.1 Moses Blesses the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for the precious things of the earth and fulness thereof, and [for] the good will of him that dwelt in the bush: let [the blessing] come upon the head of Joseph, and upon the top of the head of him [that was] separated from his brethren.
 <small><sub>**BSB:**</sub></small>
 with the choice gifts of the land and everything in it, and with the favor of Him who dwelt in the burning bush. May these rest on the head of Joseph and crown the brow of the prince of his brothers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H4022\|מֶּ֗גֶד]] [[H0776G\|אֶ֚רֶץ]] [[H9002\|וּ]][[H4393\|מְלֹאָ֔]][[H9024\|הּ]] [[H9002\|וּ]][[H7522\|רְצ֥וֹן]] [[H7931\|שֹׁכְנִ֖י]] [[H5572\|סְנֶ֑ה]] [[H0935I\|תָּב֙וֹאתָ]][[H9012\|ה֙]] [[H9005\|לְ]][[H7218A\|רֹ֣אשׁ]] [[H3130G\|יוֹסֵ֔ף]] [[H9002\|וּ]][[H9005\|לְ]][[H6936\|קָדְקֹ֖ד]] [[H5139\|נְזִ֥יר]] [[H0251G\|אֶחָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic DEATH|DEATH]] • [[topic EPHRAIM|EPHRAIM]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JOSEPH|JOSEPH]] • [[topic MANASSEH|MANASSEH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.15|<< Deuteronomy 33:15]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.17|Deuteronomy 33:17 >>]]</td></tr></table>
 

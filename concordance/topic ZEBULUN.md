@@ -11,7 +11,7 @@
 
 - Place of, in marching and camping [[Num.2.3|Nu 2:3]],[[Num.2.7|7]]; [[Num.10.14|10:14]],[[Num.10.16|16]]
 
-- Territory awarded to [[Gen.49.13|Ge 49:13]]; [[Josh.19.10|Jos 19:10]]-[[Josh.19.16|16]]; [[Matt.4.13|Mt 4:13]]
+- Territory awarded to [[Gen.49.13|Ge 49:13]]; [[Josh.19.10|Jos 19:10-16]]; [[Matt.4.13|Mt 4:13]]
 
 - Aboriginal inhabitants of the territory of, not expelled [[Judg.1.30|Jud 1:30]]
 
@@ -25,7 +25,7 @@
 
 - With Gideon against the Midianites [[Judg.6.35|Jud 6:35]]
 
-- With David when made king over Israel  [[1Chr.12.33|1Ch 12:33]],[[1Chr.12.38|38]]-[[1Chr.12.40|40]]
+- With David when made king over Israel  [[1Chr.12.33|1Ch 12:33]],[[1Chr.12.38|38-40]]
 
 - Joins with Hezekiah in renewing the Passover [[2Chr.30.11|2Ch 30:11]],[[2Chr.30.18|18]]
 

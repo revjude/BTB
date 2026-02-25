@@ -1,8 +1,60 @@
+---
+title: Ecclesiastes 11:3
+type: Verse
+kjv: "If the clouds be full of rain, they empty themselves upon the earth: and if the tree fall toward the south, or toward the north, in the place where the tree falleth, there it shall be."
+bsb: "If the clouds are full, they will pour out rain upon the earth; whether a tree falls to the south or to the north, in the place where it falls, there it will lie."
+hebrew: "אִם־ יִמָּלְא֨וּ הֶעָבִ֥ים גֶּ֙שֶׁם֙ עַל־ הָאָ֣רֶץ יָרִ֔יקוּ וְאִם־ יִפּ֥וֹל עֵ֛ץ בַּדָּר֖וֹם וְאִ֣ם בַּצָּפ֑וֹן מְק֛וֹם שֶׁיִּפּ֥וֹל הָעֵ֖ץ שָׁ֥ם יְהֽוּא׃"
+pericope: "[[Eccl.11.1 Cast Your Bread upon the Waters|Cast Your Bread upon the Waters]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 11
+book/chapter: "[[Eccl.11|Ecclesiastes 11]]"
+chronological_order: 549
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H4390]]"
+- "[[H9009]]"
+- "[[H5645]]"
+- "[[H1653]]"
+- "[[H5921A]]"
+- "[[H0776G]]"
+- "[[H7324]]"
+- "[[H9002]]"
+- "[[H5307G]]"
+- "[[H6086H]]"
+- "[[H9003]]"
+- "[[H1864]]"
+- "[[H6828G]]"
+- "[[H4725]]"
+- "[[H9007]]"
+- "[[H8033G]]"
+- "[[H1933B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 11:3**<big><big>[[Eccl.11.1 Cast Your Bread upon the Waters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If the clouds be full of rain, they empty [themselves] upon the earth: and if the tree fall toward the south, or toward the north, in the place where the tree falleth, there it shall be.
 <small><sub>**BSB:**</sub></small>
 If the clouds are full, they will pour out rain upon the earth; whether a tree falls to the south or to the north, in the place where it falls, there it will lie.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H4390\|יִמָּלְא֨וּ]] [[H9009\|הֶ]][[H5645\|עָבִ֥ים]] [[H1653\|גֶּ֙שֶׁם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H7324\|יָרִ֔יקוּ]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H5307G\|יִפּ֥וֹל]] [[H6086H\|עֵ֛ץ]] [[H9003\|בַּ]][[H1864\|דָּר֖וֹם]] [[H9002\|וְ]][[H0518A\|אִ֣ם]] [[H9003\|בַּ]][[H6828G\|צָּפ֑וֹן]] [[H4725\|מְק֛וֹם]] [[H9007\|שֶׁ]][[H5307G\|יִּפּ֥וֹל]] [[H9009\|הָ]][[H6086H\|עֵ֖ץ]] [[H8033G\|שָׁ֥ם]] [[H1933B\|יְהֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.11.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.11.2|<< Ecclesiastes 11:2]]</td><td align="center" style="border:none;">[[Eccl.11|Ecclesiastes 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.11.4|Ecclesiastes 11:4 >>]]</td></tr></table>
 

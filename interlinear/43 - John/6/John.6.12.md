@@ -1,10 +1,56 @@
+---
+title: John 6:12
+type: Verse
+kjv: "When they were filled, he said unto his disciples, Gather up the fragments that remain, that nothing be lost."
+bsb: "And when everyone was full, He said to His disciples, “Gather the pieces that are left over, so that nothing will be wasted.”"
+jesus_said: "Gather up the fragments that remain, that nothing be lost."
+greek: "ὡς δὲ ἐνεπλήσθησαν λέγει τοῖς μαθηταῖς αὐτοῦ· συναγάγετε τὰ περισσεύσαντα κλάσματα ἵνα μή τι ἀπόληται."
+pericope: "[[John.6.1 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G5613]]"
+- "[[G1161]]"
+- "[[G1705]]"
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G4863]]"
+- "[[G4052]]"
+- "[[G2801]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G5100]]"
+- "[[G0622]]"
+texts:
+- NKO
+---
+
 **John 6:12**<big><big>[[John.6.1 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When they were filled, he said unto his disciples, Gather up the fragments that remain, that nothing be lost.
 <small><sub>**BSB:**</sub></small>
 And when everyone was full, He said to His disciples, “Gather the pieces that are left over, so that nothing will be wasted.”
-<small><sub>**Literal:**</sub></small>
-When now they were filled He says to the disciples of Him; do gather together the having been over and above fragments so that nothing anything may be lost.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.11|<< John 6:11]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.13|John 6:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G1161\|δὲ]]  [[G1705\|ἐνεπλήσθησαν]]  [[G3004G\|λέγει]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς]]  [[G0846\|αὐτοῦ·]]  [[G4863\|συναγάγετε]]  [[G3588\|τὰ]]  [[G4052\|περισσεύσαντα]]  [[G2801\|κλάσματα]]  [[G2443\|ἵνα]]  [[G3361\|μή]]  [[G5100\|τι]]  [[G0622\|ἀπόληται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ECONOMICS|ECONOMICS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.11|<< John 6:11]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.13|John 6:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

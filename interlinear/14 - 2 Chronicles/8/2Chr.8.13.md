@@ -1,8 +1,63 @@
+---
+title: 2 Chronicles 8:13
+type: Verse
+kjv: "Even after a certain rate every day, offering according to the commandment of Moses, on the sabbaths, and on the new moons, and on the solemn feasts, three times in the year, even in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles."
+bsb: "He observed the daily requirement for offerings according to the commandment of Moses for Sabbaths, New Moons, and the three annual appointed feasts—the Feast of Unleavened Bread, the Feast of Weeks, and the Feast of Tabernacles."
+hebrew: "וּבִדְבַר־ י֣וֹם בְּי֗וֹם לְהַעֲלוֹת֙ כְּמִצְוַ֣ת מֹשֶׁ֔ה לַשַּׁבָּתוֹת֙ וְלֶ֣חֳדָשִׁ֔ים וְלַמּ֣וֹעֲד֔וֹת שָׁל֥וֹשׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה בְּחַ֧ג הַמַּצּ֛וֹת וּבְחַ֥ג הַשָּׁבֻע֖וֹת וּבְחַ֥ג הַסֻּכּֽוֹת׃"
+pericope: "[[2Chr.8.1 Solomon’s Additional Achievements|Solomon’s Additional Achievements]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 8
+book/chapter: "[[2Chr.8|2 Chronicles 8]]"
+chronological_order: 537
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H1697J]]"
+- "[[H9014]]"
+- "[[H3117J]]"
+- "[[H9005]]"
+- "[[H5927I]]"
+- "[[H9004]]"
+- "[[H4687]]"
+- "[[H4872]]"
+- "[[H7676]]"
+- "[[H2320H]]"
+- "[[H4150H]]"
+- "[[H7969]]"
+- "[[H6471]]"
+- "[[H8141]]"
+- "[[H2282]]"
+- "[[H9009]]"
+- "[[H4682]]"
+- "[[H7620G]]"
+- "[[H5521]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 8:13**<big><big>[[2Chr.8.1 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even after a certain rate every day, offering according to the commandment of Moses, on the sabbaths, and on the new moons, and on the solemn feasts, three times in the year, [even] in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles.
 <small><sub>**BSB:**</sub></small>
 He observed the daily requirement for offerings according to the commandment of Moses for Sabbaths, New Moons, and the three annual appointed feasts—the Feast of Unleavened Bread, the Feast of Weeks, and the Feast of Tabernacles.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בִ]][[H1697J\|דְבַר]][[H9014\|־]] [[H3117J\|י֣וֹם]] [[H9003\|בְּ]][[H3117J\|י֗וֹם]] [[H9005\|לְ]][[H5927I\|הַעֲלוֹת֙]] [[H9004\|כְּ]][[H4687\|מִצְוַ֣ת]] [[H4872\|מֹשֶׁ֔ה]] [[H9005\|לַ]][[H7676\|שַּׁבָּתוֹת֙]] [[H9002\|וְ]][[H9005\|לֶ֣]][[H2320H\|חֳדָשִׁ֔ים]] [[H9002\|וְ]][[H9005\|לַ]][[H4150H\|מּ֣וֹעֲד֔וֹת]] [[H7969\|שָׁל֥וֹשׁ]] [[H6471\|פְּעָמִ֖ים]] [[H9003\|בַּ]][[H8141\|שָּׁנָ֑ה]] [[H9003\|בְּ]][[H2282\|חַ֧ג]] [[H9009\|הַ]][[H4682\|מַּצּ֛וֹת]] [[H9002\|וּ]][[H9003\|בְ]][[H2282\|חַ֥ג]] [[H9009\|הַ]][[H7620G\|שָּׁבֻע֖וֹת]] [[H9002\|וּ]][[H9003\|בְ]][[H2282\|חַ֥ג]] [[H9009\|הַ]][[H5521\|סֻּכּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.8.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.12|<< 2 Chronicles 8:12]]</td><td align="center" style="border:none;">[[2Chr.8|2 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8.14|2 Chronicles 8:14 >>]]</td></tr></table>
 

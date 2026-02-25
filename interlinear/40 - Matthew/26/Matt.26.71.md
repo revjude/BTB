@@ -1,10 +1,67 @@
+---
+title: Matthew 26:71
+type: Verse
+kjv: "And when he was gone out into the porch, another maid saw him, and said unto them that were there, This fellow was also with Jesus of Nazareth."
+bsb: "When Peter had gone out to the gateway, another servant girl saw him and said to the people there, “This man was with Jesus of Nazareth.”"
+greek: "ἐξελθόντα δὲ αὐτὸν εἰς τὸν πυλῶνα εἶδεν αὐτὸν ἄλλη καὶ λέγει τοῖς ἐκεῖ· καὶ οὗτος ἦν μετὰ Ἰησοῦ τοῦ Ναζωραίου."
+pericope: "[[Matt.26.69 Peter Denies Jesus|Peter Denies Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic COURT|COURT]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G1831]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4440]]"
+- "[[G1492H]]"
+- "[[G0243]]"
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G1563]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3326]]"
+- "[[G2424G]]"
+- "[[G3480]]"
+texts:
+- NKO
+- k
+- NK(o)
+- ko
+---
+
 **Matthew 26:71**<big><big>[[Matt.26.69 Peter Denies Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he was gone out into the porch, another [maid] saw him, and said unto them that were there, This [fellow] was also with Jesus of Nazareth.
 <small><sub>**BSB:**</sub></small>
 When Peter had gone out to the gateway, another servant girl saw him and said to the people there, “This man was with Jesus of Nazareth.”
-<small><sub>**Literal:**</sub></small>
-Having gone out then him to the porch saw him another [servant girl] and she says to those there; and This [man] was with Jesus <the> of Nazareth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.70|<< Matthew 26:70]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.72|Matthew 26:72 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1831\|ἐξελθόντα]]  [[G1161\|δὲ]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G4440\|πυλῶνα]]  [[G1492H\|εἶδεν]]  [[G0846\|αὐτὸν]]  [[G0243\|ἄλλη]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G3588\|τοῖς]]  [[G1563\|ἐκεῖ·]]  [[G2532\|καὶ]]  [[G3778\|οὗτος]]  [[G1510\|ἦν]]  [[G3326\|μετὰ]]  [[G2424G\|Ἰησοῦ]]  [[G3588\|τοῦ]]  [[G3480\|Ναζωραίου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic COURT|COURT]] • [[topic COWARDICE|COWARDICE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic PETER|PETER]] • [[topic PRISONERS|PRISONERS]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.70|<< Matthew 26:70]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.72|Matthew 26:72 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,66 @@
+---
+title: Ezekiel 21:29
+type: Verse
+kjv: "Whiles they see vanity unto thee, whiles they divine a lie unto thee, to bring thee upon the necks of them that are slain, of the wicked, whose day is come, when their iniquity shall have an end."
+bsb: "while they offer false visions for you and lying divinations about you—to be placed on the necks of the wicked who are slain, whose day has come, the time of their final punishment."
+hebrew: "בַּחֲז֥וֹת לָךְ֙ שָׁ֔וְא בִּקְסָם־ לָ֖ךְ כָּזָ֑ב לָתֵ֣ת אוֹתָ֗ךְ אֶֽל־ צַוְּארֵי֙ חַֽלְלֵ֣י רְשָׁעִ֔ים אֲשֶׁר־ בָּ֣א יוֹמָ֔ם בְּעֵ֖ת עֲוֹ֥ן קֵֽץ׃"
+pericope: "[[Ezek.21.1 God’s Sword of Judgment|God’s Sword of Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 21
+book/chapter: "[[Ezek.21|Ezekiel 21]]"
+chronological_order: 812
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic SORCERY|SORCERY]]"
+strongs:
+- "[[H9003]]"
+- "[[H2372]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H7723G]]"
+- "[[H7080]]"
+- "[[H9014]]"
+- "[[H3577]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H0413]]"
+- "[[H6677A]]"
+- "[[H2491B]]"
+- "[[H7563]]"
+- "[[H0834A]]"
+- "[[H0935G]]"
+- "[[H3117G]]"
+- "[[H9028]]"
+- "[[H6256]]"
+- "[[H5771I]]"
+- "[[H7093]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 21:29**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whiles they see vanity unto thee, whiles they divine a lie unto thee, to bring thee upon the necks of [them that are] slain, of the wicked, whose day is come, when their iniquity [shall have] an end.
 <small><sub>**BSB:**</sub></small>
 while they offer false visions for you and lying divinations about you—to be placed on the necks of the wicked who are slain, whose day has come, the time of their final punishment.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H2372\|חֲז֥וֹת]] [[H9005\|לָ]][[H9032\|ךְ֙]] [[H7723G\|שָׁ֔וְא]] [[H9003\|בִּ]][[H7080\|קְסָם]][[H9014\|־]] [[H9005\|לָ֖]][[H9032\|ךְ]] [[H3577\|כָּזָ֑ב]] [[H9005\|לָ]][[H5414H\|תֵ֣ת]] [[H0853\|אוֹתָ֗]][[H9032\|ךְ]] [[H0413\|אֶֽל]][[H9014\|־]] [[H6677A\|צַוְּארֵי֙]] [[H2491B\|חַֽלְלֵ֣י]] [[H7563\|רְשָׁעִ֔ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֣א]] [[H3117G\|יוֹמָ֔]][[H9028\|ם]] [[H9003\|בְּ]][[H6256\|עֵ֖ת]] [[H5771I\|עֲוֹ֥ן]] [[H7093\|קֵֽץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic SORCERY|SORCERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.28|<< Ezekiel 21:28]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.30|Ezekiel 21:30 >>]]</td></tr></table>
 

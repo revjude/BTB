@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Philemon’s Faith and Love
+type: Pericope
 pericope: "[[Phlm.1.4 Philemon’s Faith and Love|Philemon’s Faith and Love]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Philemon
 chapter: 1
 book/chapter: "[[Phlm.1|Philemon 1]]"
-genre:
+chronological_order: 1125
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - personal letter
+verse_count: 4
 verses:
 - "[[Phlm.1.4]]"
 - "[[Phlm.1.5]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Phlm.1.7]]"
 ---
 
-[[Phlm.1|Philemon 1:4 - Philemon 1:7]]
+<small>[[Phlm.1|Philemon 1:4-7]]</small>
 *Philemon’s Faith and Love*
 
 [[Phlm.1.4|4]] I thank my God, making mention of thee always in my prayers,

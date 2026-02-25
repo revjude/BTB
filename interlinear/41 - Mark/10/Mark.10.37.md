@@ -1,10 +1,62 @@
+---
+title: Mark 10:37
+type: Verse
+kjv: "They said unto him, Grant unto us that we may sit, one on thy right hand, and the other on thy left hand, in thy glory."
+bsb: "They answered, “Grant that one of us may sit at Your right hand and the other at Your left in Your glory.”"
+greek: "οἱ δὲ εἶπαν αὐτῷ· δὸς ἡμῖν ἵνα εἷς σου ἐκ δεξιῶν καὶ εἷς ἐξ ἀριστερῶν σου καθίσωμεν ἐν τῇ δόξῃ σου.¶"
+pericope: "[[Mark.10.35 The Request of James and John|The Request of James and John]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G2443]]"
+- "[[G1520]]"
+- "[[G4771]]"
+- "[[G1537]]"
+- "[[G1188]]"
+- "[[G2532]]"
+- "[[G0710]]"
+- "[[G2523]]"
+- "[[G1722]]"
+- "[[G1391]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Mark 10:37**<big><big>[[Mark.10.35 The Request of James and John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 They said unto him, Grant unto us that we may sit, one on thy right hand, and the other on thy left hand, in thy glory.
 <small><sub>**BSB:**</sub></small>
 They answered, “Grant that one of us may sit at Your right hand and the other at Your left in Your glory.”
-<small><sub>**Literal:**</sub></small>
-<the> And they said to Him; do grant to us that one of [us] at right [hand] and one at left [hand] of you let us sit in the glory of You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.36|<< Mark 10:36]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.38|Mark 10:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2036\|εἶπαν]]  [[G0846\|αὐτῷ·]]  [[G1325\|δὸς]]  [[G3165\|ἡμῖν]]  [[G2443\|ἵνα]]  [[G1520\|εἷς]]  [[G4771\|σου]]  [[G1537\|ἐκ]]  [[G1188\|δεξιῶν]]  [[G2532\|καὶ]]  [[G1520\|εἷς]]  [[G1537\|ἐξ]]  [[G0710\|ἀριστερῶν]]  [[G4771\|σου]]  [[G2523\|καθίσωμεν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1391\|δόξῃ]]  [[G4771\|σου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic JAMES|JAMES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.36|<< Mark 10:36]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.38|Mark 10:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

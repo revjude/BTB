@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ahaziah Reigns in Judah
+type: Pericope
 pericope: "[[2Kgs.8.25 Ahaziah Reigns in Judah|Ahaziah Reigns in Judah]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 8
 book/chapter: "[[2Kgs.8|2 Kings 8]]"
-genre:
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 5
 verses:
 - "[[2Kgs.8.25]]"
 - "[[2Kgs.8.26]]"
@@ -23,7 +30,7 @@ verses:
 - "[[2Kgs.8.29]]"
 ---
 
-[[2Kgs.8|2 Kings 8:25 - 2 Kings 8:29]]
+<small>[[2Kgs.8|2 Kings 8:25-29]]</small>
 *Ahaziah Reigns in Judah*
 
 [[2Kgs.8.25|25]] In the twelfth year of Joram the son of Ahab king of Israel did Ahaziah the son of Jehoram king of Judah begin to reign.

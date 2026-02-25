@@ -1,8 +1,68 @@
+---
+title: Isaiah 45:18
+type: Verse
+kjv: "For thus saith the LORD that created the heavens; God himself that formed the earth and made it; he hath established it, he created it not in vain, he formed it to be inhabited: I am the LORD; and there is none else."
+bsb: "For thus says the LORD, who created the heavens—He is God; He formed the earth and fashioned it; He established it; He did not create it to be empty, but formed it to be inhabited: “I am the LORD, and there is no other."
+hebrew: "כִּ֣י כֹ֣ה אָֽמַר־ יְ֠הוָה בּוֹרֵ֨א הַשָּׁמַ֜יִם ה֣וּא הָאֱלֹהִ֗ים יֹצֵ֨ר הָאָ֤רֶץ וְעֹשָׂהּ֙ ה֣וּא כֽוֹנְנָ֔הּ לֹא־ תֹ֥הוּ בְרָאָ֖הּ לָשֶׁ֣בֶת יְצָרָ֑הּ אֲנִ֥י יְהוָ֖ה וְאֵ֥ין עֽוֹד׃"
+pericope: "[[Isa.45.1 God Calls Cyrus|God Calls Cyrus]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 45
+book/chapter: "[[Isa.45|Isaiah 45]]"
+chronological_order: 684
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic ISAIAH|ISAIAH]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H1254A]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H1931]]"
+- "[[H0430G]]"
+- "[[H3335G]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H6213H]]"
+- "[[H9034]]"
+- "[[H3559I]]"
+- "[[H3808]]"
+- "[[H8414]]"
+- "[[H9005]]"
+- "[[H3427]]"
+- "[[H0589]]"
+- "[[H0369]]"
+- "[[H5750]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 45:18**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD that created the heavens; God himself that formed the earth and made it; he hath established it, he created it not in vain, he formed it to be inhabited: I [am] the LORD; and [there is] none else.
 <small><sub>**BSB:**</sub></small>
 For thus says the LORD, who created the heavens—He is God; He formed the earth and fashioned it; He established it; He did not create it to be empty, but formed it to be inhabited: “I am the LORD, and there is no other.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3541\|כֹ֣ה]] [[H0559\|אָֽמַר]][[H9014\|־]] [[H3068G\|יְ֠הוָה]] [[H1254A\|בּוֹרֵ֨א]] [[H9009\|הַ]][[H8064\|שָּׁמַ֜יִם]] [[H1931\|ה֣וּא]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֗ים]] [[H3335G\|יֹצֵ֨ר]] [[H9009\|הָ]][[H0776G\|אָ֤רֶץ]] [[H9002\|וְ]][[H6213H\|עֹשָׂ]][[H9034\|הּ֙]] [[H1931\|ה֣וּא]] [[H3559I\|כֽוֹנְנָ֔]][[H9034\|הּ]] [[H3808\|לֹא]][[H9014\|־]] [[H8414\|תֹ֥הוּ]] [[H1254A\|בְרָאָ֖]][[H9034\|הּ]] [[H9005\|לָ]][[H3427\|שֶׁ֣בֶת]] [[H3335G\|יְצָרָ֑]][[H9034\|הּ]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָ֖ה]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H5750\|עֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic ISAIAH|ISAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.17|<< Isaiah 45:17]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.19|Isaiah 45:19 >>]]</td></tr></table>
 

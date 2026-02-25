@@ -1,8 +1,65 @@
+---
+title: Isaiah 8:21
+type: Verse
+kjv: "And they shall pass through it, hardly bestead and hungry: and it shall come to pass, that when they shall be hungry, they shall fret themselves, and curse their king and their God, and look upward."
+bsb: "They will roam the land, dejected and hungry. When they are famished, they will become enraged; and looking upward, they will curse their king and their God."
+hebrew: "וְעָ֥בַר בָּ֖הּ נִקְשֶׁ֣ה וְרָעֵ֑ב וְהָיָ֨ה כִֽי־ יִרְעַ֜ב וְהִתְקַצַּ֗ף וְקִלֵּ֧ל בְּמַלְכּ֛וֹ וּבֵאלֹהָ֖יו וּפָנָ֥ה לְמָֽעְלָה׃"
+pericope: "[[Isa.8.19 Darkness and Light|Darkness and Light]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 8
+book/chapter: "[[Isa.8|Isaiah 8]]"
+chronological_order: 618
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic KING|KING]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H7185]]"
+- "[[H9002]]"
+- "[[H7457]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7456]]"
+- "[[H7107]]"
+- "[[H7043]]"
+- "[[H4428G]]"
+- "[[H9023]]"
+- "[[H0430G]]"
+- "[[H6437G]]"
+- "[[H9005]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 8:21**<big><big>[[Isa.8.19 Darkness and Light|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall pass through it, hardly bestead and hungry: and it shall come to pass, that when they shall be hungry, they shall fret themselves, and curse their king and their God, and look upward.
 <small><sub>**BSB:**</sub></small>
 They will roam the land, dejected and hungry. When they are famished, they will become enraged; and looking upward, they will curse their king and their God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5674A\|עָ֥בַר]] [[H9003\|בָּ֖]][[H9034\|הּ]] [[H7185\|נִקְשֶׁ֣ה]] [[H9002\|וְ]][[H7457\|רָעֵ֑ב]] [[H9001\|וְ]][[H1961\|הָיָ֨ה]] [[H3588A\|כִֽי]][[H9014\|־]] [[H7456\|יִרְעַ֜ב]] [[H9001\|וְ]][[H7107\|הִתְקַצַּ֗ף]] [[H9001\|וְ]][[H7043\|קִלֵּ֧ל]] [[H9003\|בְּ]][[H4428G\|מַלְכּ֛]][[H9023\|וֹ]] [[H9002\|וּ]][[H9003\|בֵ]][[H0430G\|אלֹהָ֖י]][[H9023\|ו]] [[H9001\|וּ]][[H6437G\|פָנָ֥ה]] [[H9005\|לְ]][[H4605\|מָֽעְלָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic KING|KING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.8.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.8.20|<< Isaiah 8:20]]</td><td align="center" style="border:none;">[[Isa.8|Isaiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.8.22|Isaiah 8:22 >>]]</td></tr></table>
 

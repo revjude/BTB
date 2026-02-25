@@ -1,8 +1,64 @@
+---
+title: 2 Samuel 7:20
+type: Verse
+kjv: "And what can David say more unto thee? for thou, Lord GOD, knowest thy servant."
+bsb: "What more can David say to You? For You know Your servant, O Lord GOD."
+hebrew: "וּמַה־ יּוֹסִ֥יף דָּוִ֛ד ע֖וֹד לְדַבֵּ֣ר אֵלֶ֑יךָ וְאַתָּ֛ה יָדַ֥עְתָּ אֶֽת־ עַבְדְּךָ֖ אֲדֹנָ֥י יְהוִֽה׃"
+pericope: "[[2Sam.7.18 David’s Prayer of Thanksgiving|David’s Prayer of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 7
+book/chapter: "[[2Sam.7|2 Samuel 7]]"
+chronological_order: 393
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SECRET|SECRET]]"
+strongs:
+- "[[H9002]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H3254H]]"
+- "[[H1732]]"
+- "[[H5750]]"
+- "[[H9005]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H0859A]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 7:20**<big><big>[[2Sam.7.18 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And what can David say more unto thee? for thou, Lord GOD, knowest thy servant.
 <small><sub>**BSB:**</sub></small>
 What more can David say to You? For You know Your servant, O Lord GOD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4100\|מַה]][[H9014\|־]] [[H3254H\|יּוֹסִ֥יף]] [[H1732\|דָּוִ֛ד]] [[H5750\|ע֖וֹד]] [[H9005\|לְ]][[H1696G\|דַבֵּ֣ר]] [[H0413\|אֵלֶ֑י]][[H9031\|ךָ]] [[H9002\|וְ]][[H0859A\|אַתָּ֛ה]] [[H3045\|יָדַ֥עְתָּ]] [[H0853\|אֶֽת]][[H9014\|־]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֖]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic HUMILITY|HUMILITY]] • [[topic PRAYER|PRAYER]] • [[topic SECRET|SECRET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.19|<< 2 Samuel 7:19]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.21|2 Samuel 7:21 >>]]</td></tr></table>
 

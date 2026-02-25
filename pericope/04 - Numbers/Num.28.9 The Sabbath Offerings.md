@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sabbath Offerings
+type: Pericope
 pericope: "[[Num.28.9 The Sabbath Offerings|The Sabbath Offerings]]"
-verse_count: 2
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 28
 book/chapter: "[[Num.28|Numbers 28]]"
-genre:
+chronological_order: 188
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,12 +25,13 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 2
 verses:
 - "[[Num.28.9]]"
 - "[[Num.28.10]]"
 ---
 
-[[Num.28|Numbers 28:9 - Numbers 28:10]]
+<small>[[Num.28|Numbers 28:9-10]]</small>
 *The Sabbath Offerings*
 
 [[Num.28.9|9]] And on the sabbath day two lambs of the first year without spot, and two tenth deals of flour \[for\] a meat offering, mingled with oil, and the drink offering thereof:

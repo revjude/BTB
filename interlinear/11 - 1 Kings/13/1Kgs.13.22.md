@@ -1,8 +1,67 @@
+---
+title: 1 Kings 13:22
+type: Verse
+kjv: "But camest back, and hast eaten bread and drunk water in the place, of the which the LORD did say to thee, Eat no bread, and drink no water; thy carcase shall not come unto the sepulchre of thy fathers."
+bsb: "but you went back and ate bread and drank water in the place where He told you not to do so, your body shall never reach the tomb of your fathers.’”"
+hebrew: "וַתָּ֗שָׁב וַתֹּ֤אכַל לֶ֙חֶם֙ וַתֵּ֣שְׁתְּ מַ֔יִם בַּמָּקוֹם֙ אֲשֶׁ֣ר דִּבֶּ֣ר אֵלֶ֔יךָ אַל־ תֹּ֥אכַל לֶ֖חֶם וְאַל־ תֵּ֣שְׁתְּ מָ֑יִם לֹֽא־ תָב֥וֹא נִבְלָתְךָ֖ אֶל־ קֶ֥בֶר אֲבֹתֶֽיךָ׃"
+pericope: "[[1Kgs.13.11 The Old Prophet and the Man of God|The Old Prophet and the Man of God]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 13
+book/chapter: "[[1Kgs.13|1 Kings 13]]"
+chronological_order: 552
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H0398]]"
+- "[[H3899H]]"
+- "[[H8354]]"
+- "[[H4325G]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0935G]]"
+- "[[H5038]]"
+- "[[H9021]]"
+- "[[H6913]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 13:22**<big><big>[[1Kgs.13.11 The Old Prophet and the Man of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But camest back, and hast eaten bread and drunk water in the place, of the which [the LORD] did say to thee, Eat no bread, and drink no water; thy carcase shall not come unto the sepulchre of thy fathers.
 <small><sub>**BSB:**</sub></small>
 but you went back and ate bread and drank water in the place where He told you not to do so, your body shall never reach the tomb of your fathers.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|תָּ֗שָׁב]] [[H9001\|וַ]][[H0398\|תֹּ֤אכַל]] [[H3899H\|לֶ֙חֶם֙]] [[H9001\|וַ]][[H8354\|תֵּ֣שְׁתְּ]] [[H4325G\|מַ֔יִם]] [[H9003\|בַּ]][[H4725\|מָּקוֹם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H1696G\|דִּבֶּ֣ר]] [[H0413\|אֵלֶ֔י]][[H9031\|ךָ]] [[H0408\|אַל]][[H9014\|־]] [[H0398\|תֹּ֥אכַל]] [[H3899H\|לֶ֖חֶם]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H8354\|תֵּ֣שְׁתְּ]] [[H4325G\|מָ֑יִם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0935G\|תָב֥וֹא]] [[H5038\|נִבְלָתְ]][[H9021\|ךָ֖]] [[H0413\|אֶל]][[H9014\|־]] [[H6913\|קֶ֥בֶר]] [[H0001G\|אֲבֹתֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.13.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.13.21|<< 1 Kings 13:21]]</td><td align="center" style="border:none;">[[1Kgs.13|1 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.13.23|1 Kings 13:23 >>]]</td></tr></table>
 

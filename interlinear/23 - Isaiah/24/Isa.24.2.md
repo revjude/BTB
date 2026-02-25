@@ -1,8 +1,64 @@
+---
+title: Isaiah 24:2
+type: Verse
+kjv: "And it shall be, as with the people, so with the priest; as with the servant, so with his master; as with the maid, so with her mistress; as with the buyer, so with the seller; as with the lender, so with the borrower; as with the taker of usury, so with the giver of usury to him."
+bsb: "people and priest alike, servant and master, maid and mistress, buyer and seller, lender and borrower, creditor and debtor."
+hebrew: "וְהָיָ֤ה כָעָם֙ כַּכֹּהֵ֔ן כַּעֶ֙בֶד֙ כַּֽאדֹנָ֔יו כַּשִּׁפְחָ֖ה כַּגְּבִרְתָּ֑הּ כַּקּוֹנֶה֙ כַּמּוֹכֵ֔ר כַּמַּלְוֶה֙ כַּלֹּוֶ֔ה כַּנֹּשֶׁ֕ה כַּאֲשֶׁ֖ר נֹשֶׁ֥א בֽוֹ׃"
+pericope: "[[Isa.24.1 God’s Judgment on the Earth|God’s Judgment on the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 24
+book/chapter: "[[Isa.24|Isaiah 24]]"
+chronological_order: 667
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic INTEREST|INTEREST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic LENDING|LENDING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H5971A]]"
+- "[[H3548]]"
+- "[[H5650]]"
+- "[[H0113]]"
+- "[[H9023]]"
+- "[[H8198]]"
+- "[[H1404]]"
+- "[[H9024]]"
+- "[[H7069]]"
+- "[[H4376]]"
+- "[[H3867B]]"
+- "[[H5383]]"
+- "[[H0834D]]"
+- "[[H5378]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 24:2**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, as with the people, so with the priest; as with the servant, so with his master; as with the maid, so with her mistress; as with the buyer, so with the seller; as with the lender, so with the borrower; as with the taker of usury, so with the giver of usury to him.
 <small><sub>**BSB:**</sub></small>
 people and priest alike, servant and master, maid and mistress, buyer and seller, lender and borrower, creditor and debtor.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֤ה]] [[H9004\|כָ]][[H5971A\|עָם֙]] [[H9004\|כַּ]][[H3548\|כֹּהֵ֔ן]] [[H9004\|כַּ]][[H5650\|עֶ֙בֶד֙]] [[H9004\|כַּֽ]][[H0113\|אדֹנָ֔י]][[H9023\|ו]] [[H9004\|כַּ]][[H8198\|שִּׁפְחָ֖ה]] [[H9004\|כַּ]][[H1404\|גְּבִרְתָּ֑]][[H9024\|הּ]] [[H9004\|כַּ]][[H7069\|קּוֹנֶה֙]] [[H9004\|כַּ]][[H4376\|מּוֹכֵ֔ר]] [[H9004\|כַּ]][[H3867B\|מַּלְוֶה֙]] [[H9004\|כַּ]][[H3867B\|לֹּוֶ֔ה]] [[H9004\|כַּ]][[H5383\|נֹּשֶׁ֕ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H5378\|נֹשֶׁ֥א]] [[H9003\|בֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic INTEREST|INTEREST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic LENDING|LENDING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.1|<< Isaiah 24:1]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.3|Isaiah 24:3 >>]]</td></tr></table>
 

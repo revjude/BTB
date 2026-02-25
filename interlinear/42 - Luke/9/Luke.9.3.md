@@ -1,10 +1,64 @@
+---
+title: Luke 9:3
+type: Verse
+kjv: "And he said unto them, Take nothing for your journey, neither staves, nor scrip, neither bread, neither money; neither have two coats apiece."
+bsb: "“Take nothing for the journey,” He told them, “no staff, no bag, no bread, no money, no second tunic."
+jesus_said: "Take nothing for your journey, neither staves, nor scrip, neither bread, neither money; neither have two coats apiece."
+greek: "καὶ εἶπεν πρὸς αὐτούς· μηδὲν αἴρετε εἰς τὴν ὁδόν· μήτε ῥάβδον μήτε πήραν μήτε ἄρτον μήτε ἀργύριον μήτε ἀνὰ δύο χιτῶνας ἔχειν."
+pericope: "[[Luke.9.1 The Ministry of the Twelve|The Ministry of the Twelve]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic FISH|FISH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MONEY|MONEY]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3367]]"
+- "[[G0142]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3598]]"
+- "[[G3383]]"
+- "[[G4464]]"
+- "[[G4082]]"
+- "[[G0740]]"
+- "[[G0694]]"
+- "[[G0303]]"
+- "[[G1417]]"
+- "[[G5509]]"
+- "[[G2192]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Luke 9:3**<big><big>[[Luke.9.1 The Ministry of the Twelve|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Take nothing for [your] journey, neither staves, nor scrip, neither bread, neither money; neither have two coats apiece.
 <small><sub>**BSB:**</sub></small>
 “Take nothing for the journey,” He told them, “no staff, no bag, no bread, no money, no second tunic.
-<small><sub>**Literal:**</sub></small>
-and He said to them; Nothing do take for the journey; neither staff nor bag nor bread nor money nor apiece two tunics to have.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.2|<< Luke 9:2]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.4|Luke 9:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς·]]  [[G3367\|μηδὲν]]  [[G0142\|αἴρετε]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3598\|ὁδόν·]]  [[G3383\|μήτε]]  [[G4464\|ῥάβδον]]  [[G3383\|μήτε]]  [[G4082\|πήραν]]  [[G3383\|μήτε]]  [[G0740\|ἄρτον]]  [[G3383\|μήτε]]  [[G0694\|ἀργύριον]]  [[G3383\|μήτε]]  [[G0303\|ἀνὰ]]  [[G1417\|δύο]]  [[G5509\|χιτῶνας]]  [[G2192\|ἔχειν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic FISH|FISH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MONEY|MONEY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.2|<< Luke 9:2]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.4|Luke 9:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

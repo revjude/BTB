@@ -1,10 +1,61 @@
+---
+title: Acts 7:33
+type: Verse
+kjv: "Then said the Lord to him, Put off thy shoes from thy feet: for the place where thou standest is holy ground."
+bsb: "Then the Lord said to him, ‘Take off your sandals, for the place where you are standing is holy ground."
+greek: "εἶπεν δὲ αὐτῷ ὁ κύριος· λῦσον τὸ ὑπόδημα τῶν ποδῶν σου· ὁ γὰρ τόπος ἐφ᾽ ᾧ ἕστηκας γῆ ἁγία ἐστίν."
+pericope: "[[Acts.7.30 The Call of Moses|The Call of Moses]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SHOE|SHOE]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G3089]]"
+- "[[G5266]]"
+- "[[G4228]]"
+- "[[G4771]]"
+- "[[G1063]]"
+- "[[G5117]]"
+- "[[G1909]]"
+- "[[G3739]]"
+- "[[G2476]]"
+- "[[G1093I]]"
+- "[[G0040G]]"
+- "[[G1510]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 7:33**<big><big>[[Acts.7.30 The Call of Moses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said the Lord to him, Put off thy shoes from thy feet: for the place where thou standest is holy ground.
 <small><sub>**BSB:**</sub></small>
 Then the Lord said to him, ‘Take off your sandals, for the place where you are standing is holy ground.
-<small><sub>**Literal:**</sub></small>
-Said then to him the Lord; do take off the sandal of the feet of you; <the> for the place on which you have stood ground holy is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.32|<< Acts 7:32]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.34|Acts 7:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2962G\|κύριος·]]  [[G3089\|λῦσον]]  [[G3588\|τὸ]]  [[G5266\|ὑπόδημα]]  [[G3588\|τῶν]]  [[G4228\|ποδῶν]]  [[G4771\|σου·]]  [[G3588\|ὁ]]  [[G1063\|γὰρ]]  [[G5117\|τόπος]]  [[G1909\|ἐφ᾽]]  [[G3739\|ᾧ]]  [[G2476\|ἕστηκας]]  [[G1093I\|γῆ]]  [[G0040G\|ἁγία]]  [[G1510\|ἐστίν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SHOE|SHOE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.32|<< Acts 7:32]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.34|Acts 7:34 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 7:33** is...
 > $\quad$ referencing: [[LXX.Exod.3.5|Exod 3:5]]

@@ -1,8 +1,78 @@
+---
+title: Joshua 1:7
+type: Verse
+kjv: "Only be thou strong and very courageous, that thou mayest observe to do according to all the law, which Moses my servant commanded thee: turn not from it to the right hand or to the left, that thou mayest prosper whithersoever thou goest."
+bsb: "Above all, be strong and very courageous. Be careful to observe all the law that My servant Moses commanded you. Do not turn from it to the right or to the left, so that you may prosper wherever you go."
+hebrew: "רַק֩ חֲזַ֨ק וֶֽאֱמַ֜ץ מְאֹ֗ד לִשְׁמֹ֤ר לַעֲשׂוֹת֙ כְּכָל־ הַתּוֹרָ֗ה אֲשֶׁ֤ר צִוְּךָ֙ מֹשֶׁ֣ה עַבְדִּ֔י אַל־ תָּס֥וּר מִמֶּ֖נּוּ יָמִ֣ין וּשְׂמֹ֑אול לְמַ֣עַן תַּשְׂכִּ֔יל בְּכֹ֖ל אֲשֶׁ֥ר תֵּלֵֽךְ׃"
+pericope: "[[Josh.1.1 God Instructs Joshua|God Instructs Joshua]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 1
+book/chapter: "[[Josh.1|Joshua 1]]"
+chronological_order: 231
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H7535]]"
+- "[[H2388G]]"
+- "[[H9002]]"
+- "[[H0553]]"
+- "[[H3966]]"
+- "[[H9005]]"
+- "[[H8104J]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8451]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H9031]]"
+- "[[H4872]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H0408]]"
+- "[[H5493I]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H3225G]]"
+- "[[H8040G]]"
+- "[[H4616]]"
+- "[[H7919A]]"
+- "[[H9003]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 1:7**<big><big>[[Josh.1.1 God Instructs Joshua|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only be thou strong and very courageous, that thou mayest observe to do according to all the law, which Moses my servant commanded thee: turn not from it [to] the right hand or [to] the left, that thou mayest prosper whithersoever thou goest.
 <small><sub>**BSB:**</sub></small>
 Above all, be strong and very courageous. Be careful to observe all the law that My servant Moses commanded you. Do not turn from it to the right or to the left, so that you may prosper wherever you go.
+<small><sub>**Hebrew:**</sub></small>
+[[H7535\|רַק֩]] [[H2388G\|חֲזַ֨ק]] [[H9002\|וֶֽ]][[H0553\|אֱמַ֜ץ]] [[H3966\|מְאֹ֗ד]] [[H9005\|לִ]][[H8104J\|שְׁמֹ֤ר]] [[H9005\|לַ]][[H6213A\|עֲשׂוֹת֙]] [[H9004\|כְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H8451\|תּוֹרָ֗ה]] [[H0834A\|אֲשֶׁ֤ר]] [[H6680\|צִוְּ]][[H9031\|ךָ֙]] [[H4872\|מֹשֶׁ֣ה]] [[H5650\|עַבְדִּ֔]][[H9020\|י]] [[H0408\|אַל]][[H9014\|־]] [[H5493I\|תָּס֥וּר]] [[H4480A\|מִמֶּ֖]][[H9033\|נּוּ]] [[H3225G\|יָמִ֣ין]] [[H9002\|וּ]][[H8040G\|שְׂמֹ֑אול]] [[H4616\|לְמַ֣עַן]] [[H7919A\|תַּשְׂכִּ֔יל]] [[H9003\|בְּ]][[H3605\|כֹ֖ל]] [[H0834A\|אֲשֶׁ֥ר]] [[H1980G\|תֵּלֵֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic COMMUNION|COMMUNION]] • [[topic COURAGE|COURAGE]] • [[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic JOSHUA|JOSHUA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RULERS|RULERS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.1.6|<< Joshua 1:6]]</td><td align="center" style="border:none;">[[Josh.1|Joshua 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.1.8|Joshua 1:8 >>]]</td></tr></table>
 

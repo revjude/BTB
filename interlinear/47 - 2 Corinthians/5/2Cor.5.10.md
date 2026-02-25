@@ -1,10 +1,64 @@
+---
+title: 2 Corinthians 5:10
+type: Verse
+kjv: "For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad."
+bsb: "For we must all appear before the judgment seat of Christ, that each one may receive his due for the things done in the body, whether good or bad."
+greek: "τοὺς γὰρ πάντας ἡμᾶς φανερωθῆναι δεῖ ἔμπροσθεν τοῦ βήματος τοῦ Χριστοῦ, ἵνα κομίσηται ἕκαστος τὰ διὰ τοῦ σώματος πρὸς ἃ ἔπραξεν, εἴτε ἀγαθὸν εἴτε φαῦλον.¶"
+pericope: "[[2Cor.5.1 Our Eternal Dwelling|Our Eternal Dwelling]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 5
+book/chapter: "[[2Cor.5|2 Corinthians 5]]"
+chronological_order: 1078
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G3956]]"
+- "[[G3165]]"
+- "[[G5319]]"
+- "[[G1163]]"
+- "[[G1715]]"
+- "[[G0968]]"
+- "[[G5547]]"
+- "[[G2443]]"
+- "[[G2865]]"
+- "[[G1538]]"
+- "[[G1223]]"
+- "[[G4983]]"
+- "[[G4314]]"
+- "[[G3739]]"
+- "[[G4238]]"
+- "[[G1535]]"
+- "[[G0018]]"
+- "[[G5337]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Corinthians 5:10**<big><big>[[2Cor.5.1 Our Eternal Dwelling|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For we must all appear before the judgment seat of Christ; that every one may receive the things [done] in [his] body, according to that he hath done, whether [it be] good or bad.
 <small><sub>**BSB:**</sub></small>
 For we must all appear before the judgment seat of Christ, that each one may receive his due for the things done in the body, whether good or bad.
-<small><sub>**Literal:**</sub></small>
-<the> For all of us to be revealed it behooves before the judgment seat <the> of Christ, that may receive back each the [things done] in the body according to what he did, whether good or evil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.9|<< 2 Corinthians 5:9]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.11|2 Corinthians 5:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τοὺς]]  [[G1063\|γὰρ]]  [[G3956\|πάντας]]  [[G3165\|ἡμᾶς]]  [[G5319\|φανερωθῆναι]]  [[G1163\|δεῖ]]  [[G1715\|ἔμπροσθεν]]  [[G3588\|τοῦ]]  [[G0968\|βήματος]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ,]]  [[G2443\|ἵνα]]  [[G2865\|κομίσηται]]  [[G1538\|ἕκαστος]]  [[G3588\|τὰ]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G4983\|σώματος]]  [[G4314\|πρὸς]]  [[G3739\|ἃ]]  [[G4238\|ἔπραξεν,]]  [[G1535\|εἴτε]]  [[G0018\|ἀγαθὸν]]  [[G1535\|εἴτε]]  [[G5337\|φαῦλον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic REVERENCE|REVERENCE]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.9|<< 2 Corinthians 5:9]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.11|2 Corinthians 5:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

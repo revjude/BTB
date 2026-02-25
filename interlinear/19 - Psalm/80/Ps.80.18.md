@@ -1,8 +1,58 @@
+---
+title: Psalm 80:18
+type: Verse
+kjv: "So will not we go back from thee: quicken us, and we will call upon thy name."
+bsb: "Then we will not turn away from You; revive us, and we will call on Your name."
+hebrew: "וְלֹא־ נָס֥וֹג מִמֶּ֑ךָּ תְּ֝חַיֵּ֗נוּ וּבְשִׁמְךָ֥ נִקְרָֽא׃"
+pericope: "[[Ps.80.1 Hear Us, O Shepherd of Israel|Hear Us, O Shepherd of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 80
+book/chapter: "[[Ps.80|Psalm 80]]"
+chronological_order: 783
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic QUICKENING|QUICKENING]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5472]]"
+- "[[H4480A]]"
+- "[[H9031]]"
+- "[[H2421]]"
+- "[[H9035]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H7121G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 80:18**<big><big>[[Ps.80.1 Hear Us, O Shepherd of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So will not we go back from thee: quicken us, and we will call upon thy name.
 <small><sub>**BSB:**</sub></small>
 Then we will not turn away from You; revive us, and we will call on Your name.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H5472\|נָס֥וֹג]] [[H4480A\|מִמֶּ֑]][[H9031\|ךָּ]] [[H2421\|תְּ֝חַיֵּ֗]][[H9035\|נוּ]] [[H9002\|וּ]][[H9003\|בְ]][[H8034\|שִׁמְ]][[H9021\|ךָ֥]] [[H7121G\|נִקְרָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic QUICKENING|QUICKENING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.80.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.80.17|<< Psalms 80:17]]</td><td align="center" style="border:none;">[[Ps.80|Psalms 80]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.80.19|Psalms 80:19 >>]]</td></tr></table>
 

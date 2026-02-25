@@ -1,8 +1,56 @@
+---
+title: Psalm 148:7
+type: Verse
+kjv: "Praise the LORD from the earth, ye dragons, and all deeps:"
+bsb: "Praise the LORD from the earth, all great sea creatures and ocean depths,"
+hebrew: "הַֽלְל֣וּ אֶת־ יְ֭הוָה מִן־ הָאָ֑רֶץ תַּ֝נִּינִ֗ים וְכָל־ תְּהֹמֽוֹת׃"
+pericope: "[[Ps.148.1 Praise the LORD from the Heavens|Praise the LORD from the Heavens]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 148
+book/chapter: "[[Ps.148|Psalm 148]]"
+chronological_order: 896
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H1984B]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H8577N]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H8415]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 148:7**<big><big>[[Ps.148.1 Praise the LORD from the Heavens|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Praise the LORD from the earth, ye dragons, and all deeps:
 <small><sub>**BSB:**</sub></small>
 Praise the LORD from the earth, all great sea creatures and ocean depths,
+<small><sub>**Hebrew:**</sub></small>
+[[H1984B\|הַֽלְל֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְ֭הוָה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H8577N\|תַּ֝נִּינִ֗ים]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H8415\|תְּהֹמֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.148.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.148.6|<< Psalms 148:6]]</td><td align="center" style="border:none;">[[Ps.148|Psalms 148]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.148.8|Psalms 148:8 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Ezekiel 47:19
+type: Verse
+kjv: "And the south side southward, from Tamar even to the waters of strife in Kadesh, the river to the great sea. And this is the south side southward."
+bsb: "On the south side it will run from Tamar to the waters of Meribath-kadesh, and along the Brook of Egypt to the Great Sea. This will be the southern boundary."
+hebrew: "וּפְאַת֙ נֶ֣גֶב תֵּימָ֔נָה מִתָּמָ֗ר עַד־ מֵי֙ מְרִיב֣וֹת קָדֵ֔שׁ נַחֲלָ֖ה אֶל־ הַיָּ֣ם הַגָּד֑וֹל וְאֵ֥ת פְּאַת־ תֵּימָ֖נָה נֶֽגְבָּה׃"
+pericope: "[[Ezek.47.13 The Borders of the Land|The Borders of the Land]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 47
+book/chapter: "[[Ezek.47|Ezekiel 47]]"
+chronological_order: 838
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic TAMAR|TAMAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H6285]]"
+- "[[H5045H]]"
+- "[[H8486]]"
+- "[[H9011]]"
+- "[[H9006]]"
+- "[[H8559J]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H4809H]]"
+- "[[H6946H]]"
+- "[[H5158M]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H1419J]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 47:19**<big><big>[[Ezek.47.13 The Borders of the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the south side southward, from Tamar [even] to the waters of strife [in] Kadesh, the river to the great sea. And [this is] the south side southward.
 <small><sub>**BSB:**</sub></small>
 On the south side it will run from Tamar to the waters of Meribath-kadesh, and along the Brook of Egypt to the Great Sea. This will be the southern boundary.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H6285\|פְאַת֙]] [[H5045H\|נֶ֣גֶב]] [[H8486\|תֵּימָ֔נָ]][[H9011\|ה]] [[H9006\|מִ]][[H8559J\|תָּמָ֗ר]] [[H5704\|עַד]][[H9014\|־]] [[H4325G\|מֵי֙]] [[H4809H\|מְרִיב֣וֹת]] [[H6946H\|קָדֵ֔שׁ]] [[H5158M\|נַחֲלָ֖]][[H9011\|ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּ֣ם]] [[H9009\|הַ]][[H1419J\|גָּד֑וֹל]] [[H9002\|וְ]][[H0853\|אֵ֥ת]] [[H6285\|פְּאַת]][[H9014\|־]] [[H8486\|תֵּימָ֖נָ]][[H9011\|ה]] [[H5045H\|נֶֽגְבָּ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic EGYPT|EGYPT]] • [[topic TAMAR|TAMAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.47.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.18|<< Ezekiel 47:18]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.20|Ezekiel 47:20 >>]]</td></tr></table>
 

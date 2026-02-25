@@ -1,10 +1,68 @@
+---
+title: Luke 18:16
+type: Verse
+kjv: "But Jesus called them unto him, and said, Suffer little children to come unto me, and forbid them not: for of such is the kingdom of God."
+bsb: "But Jesus called the children to Him and said, “Let the little children come to Me, and do not hinder them! For the kingdom of God belongs to such as these."
+jesus_said: "Suffer little children to come unto me, and forbid them not: for of such is the kingdom of God."
+greek: "ὁ δὲ Ἰησοῦς προσεκαλέσατο αὐτὰ λέγων· ἄφετε τὰ παιδία ἔρχεσθαι πρός με καὶ μὴ κωλύετε αὐτά· τῶν γὰρ τοιούτων ἐστὶν ἡ βασιλεία τοῦ θεοῦ."
+pericope: "[[Luke.18.15 Jesus Blesses the Children|Jesus Blesses the Children]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 18
+book/chapter: "[[Luke.18|Luke 18]]"
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G4341]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G0863I]]"
+- "[[G3813]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G2967]]"
+- "[[G1063]]"
+- "[[G5108]]"
+- "[[G1510]]"
+- "[[G0932]]"
+- "[[G2316]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 18:16**<big><big>[[Luke.18.15 Jesus Blesses the Children|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Jesus called them [unto him], and said, Suffer little children to come unto me, and forbid them not: for of such is the kingdom of God.
 <small><sub>**BSB:**</sub></small>
 But Jesus called the children to Him and said, “Let the little children come to Me, and do not hinder them! For the kingdom of God belongs to such as these.
-<small><sub>**Literal:**</sub></small>
-<the> But Jesus called them speaking; do permit the little children to come to Me and not do forbid them; <the> for of such is the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.15|<< Luke 18:15]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.17|Luke 18:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G4341\|προσεκαλέσατο]]  [[G0846\|αὐτὰ]]  [[G3004G\|λέγων·]]  [[G0863I\|ἄφετε]]  [[G3588\|τὰ]]  [[G3813\|παιδία]]  [[G2064\|ἔρχεσθαι]]  [[G4314\|πρός]]  [[G3165\|με]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G2967\|κωλύετε]]  [[G0846\|αὐτά·]]  [[G3588\|τῶν]]  [[G1063\|γὰρ]]  [[G5108\|τοιούτων]]  [[G1510\|ἐστὶν]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHIDING|CHIDING]] • [[topic CHILDREN|CHILDREN]] • [[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SYMBOLS|SYMBOLS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.15|<< Luke 18:15]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.17|Luke 18:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

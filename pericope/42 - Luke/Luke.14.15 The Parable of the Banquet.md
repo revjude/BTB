@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Banquet
+type: Pericope
 pericope: "[[Luke.14.15 The Parable of the Banquet|The Parable of the Banquet]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Luke
 chapter: 14
 book/chapter: "[[Luke.14|Luke 14]]"
-genre:
+chronological_order: 976
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 10
 verses:
 - "[[Luke.14.15]]"
 - "[[Luke.14.16]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Luke.14.24]]"
 ---
 
-[[Luke.14|Luke 14:15 - Luke 14:24]]
+<small>[[Luke.14|Luke 14:15-24]]</small>
 *The Parable of the Banquet*
 
 [[Luke.14.15|15]] And when one of them that sat at meat with him heard these things, he said unto him, Blessed \[is\] he that shall eat bread in the kingdom of God.

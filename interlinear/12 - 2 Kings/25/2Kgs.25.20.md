@@ -1,8 +1,60 @@
+---
+title: 2 Kings 25:20
+type: Verse
+kjv: "And Nebuzaradan captain of the guard took these, and brought them to the king of Babylon to Riblah:"
+bsb: "Nebuzaradan captain of the guard took them and brought them to the king of Babylon at Riblah."
+hebrew: "וַיִּקַּ֣ח אֹתָ֔ם נְבוּזַרְאֲדָ֖ן רַב־ טַבָּחִ֑ים וַיֹּ֧לֶךְ אֹתָ֛ם עַל־ מֶ֥לֶךְ בָּבֶ֖ל רִבְלָֽתָה׃"
+pericope: "[[2Kgs.25.18 Captives Carried to Babylon|Captives Carried to Babylon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 25
+book/chapter: "[[2Kgs.25|2 Kings 25]]"
+chronological_order: 742
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HAMATH|HAMATH]]"
+- "[[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic RIBLAH|RIBLAH]]"
+- "[[topic SERAIAH|SERAIAH]]"
+- "[[topic ZEPHANIAH|ZEPHANIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H5018]]"
+- "[[H7227B]]"
+- "[[H9014]]"
+- "[[H2876]]"
+- "[[H1980J]]"
+- "[[H5921A]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H7247H]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 25:20**<big><big>[[2Kgs.25.18 Captives Carried to Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Nebuzaradan captain of the guard took these, and brought them to the king of Babylon to Riblah:
 <small><sub>**BSB:**</sub></small>
 Nebuzaradan captain of the guard took them and brought them to the king of Babylon at Riblah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֣ח]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H5018\|נְבוּזַרְאֲדָ֖ן]] [[H7227B\|רַב]][[H9014\|־]] [[H2876\|טַבָּחִ֑ים]] [[H9001\|וַ]][[H1980J\|יֹּ֧לֶךְ]] [[H0853\|אֹתָ֛]][[H9038\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H4428G\|מֶ֥לֶךְ]] [[H0894\|בָּבֶ֖ל]] [[H7247H\|רִבְלָֽתָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAMATH|HAMATH]] • [[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]] • [[topic PROPHECY|PROPHECY]] • [[topic RIBLAH|RIBLAH]] • [[topic SERAIAH|SERAIAH]] • [[topic ZEPHANIAH|ZEPHANIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.19|<< 2 Kings 25:19]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.21|2 Kings 25:21 >>]]</td></tr></table>
 

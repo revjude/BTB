@@ -1,8 +1,82 @@
+---
+title: Deuteronomy 31:29
+type: Verse
+kjv: "For I know that after my death ye will utterly corrupt yourselves, and turn aside from the way which I have commanded you; and evil will befall you in the latter days; because ye will do evil in the sight of the LORD, to provoke him to anger through the work of your hands."
+bsb: "For I know that after my death you will become utterly corrupt and turn from the path I have commanded you. And in the days to come, disaster will befall you because you will do evil in the sight of the LORD to provoke Him to anger by the work of your hands.”"
+hebrew: "כִּ֣י יָדַ֗עְתִּי אַחֲרֵ֤י מוֹתִי֙ כִּֽי־ הַשְׁחֵ֣ת תַּשְׁחִת֔וּן וְסַרְתֶּ֣ם מִן־ הַדֶּ֔רֶךְ אֲשֶׁ֥ר צִוִּ֖יתִי אֶתְכֶ֑ם וְקָרָ֨את אֶתְכֶ֤ם הָֽרָעָה֙ בְּאַחֲרִ֣ית הַיָּמִ֔ים כִּֽי־ תַעֲשׂ֤וּ אֶת־ הָרַע֙ בְּעֵינֵ֣י יְהוָ֔ה לְהַכְעִיס֖וֹ בְּמַעֲשֵׂ֥ה יְדֵיכֶֽם׃"
+pericope: "[[Deut.31.24 The Law Placed in the Ark|The Law Placed in the Ark]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 31
+book/chapter: "[[Deut.31|Deuteronomy 31]]"
+chronological_order: 227
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3045]]"
+- "[[H0310A]]"
+- "[[H4194]]"
+- "[[H9020]]"
+- "[[H9014]]"
+- "[[H7843]]"
+- "[[H9013]]"
+- "[[H9001]]"
+- "[[H5493I]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H1870G]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H7122I]]"
+- "[[H7451I]]"
+- "[[H9003]]"
+- "[[H0319]]"
+- "[[H3117G]]"
+- "[[H6213A]]"
+- "[[H7451H]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H3707]]"
+- "[[H9033]]"
+- "[[H4639G]]"
+- "[[H3027G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 31:29**<big><big>[[Deut.31.24 The Law Placed in the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I know that after my death ye will utterly corrupt [yourselves], and turn aside from the way which I have commanded you; and evil will befall you in the latter days; because ye will do evil in the sight of the LORD, to provoke him to anger through the work of your hands.
 <small><sub>**BSB:**</sub></small>
 For I know that after my death you will become utterly corrupt and turn from the path I have commanded you. And in the days to come, disaster will befall you because you will do evil in the sight of the LORD to provoke Him to anger by the work of your hands.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3045\|יָדַ֗עְתִּי]] [[H0310A\|אַחֲרֵ֤י]] [[H4194\|מוֹתִ]][[H9020\|י֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7843\|הַשְׁחֵ֣ת]] [[H7843\|תַּשְׁחִת֔וּ]][[H9013\|ן]] [[H9001\|וְ]][[H5493I\|סַרְתֶּ֣ם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1870G\|דֶּ֔רֶךְ]] [[H0834A\|אֲשֶׁ֥ר]] [[H6680\|צִוִּ֖יתִי]] [[H0853\|אֶתְ]][[H9036\|כֶ֑ם]] [[H9001\|וְ]][[H7122I\|קָרָ֨את]] [[H0853\|אֶתְ]][[H9036\|כֶ֤ם]] [[H9009\|הָֽ]][[H7451I\|רָעָה֙]] [[H9003\|בְּ]][[H0319\|אַחֲרִ֣ית]] [[H9009\|הַ]][[H3117G\|יָּמִ֔ים]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6213A\|תַעֲשׂ֤וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H7451H\|רַע֙]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לְ]][[H3707\|הַכְעִיס֖]][[H9033\|וֹ]] [[H9003\|בְּ]][[H4639G\|מַעֲשֵׂ֥ה]] [[H3027G\|יְדֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DEATH|DEATH]] • [[topic IDOLATRY|IDOLATRY]] • [[topic REPROOF|REPROOF]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.28|<< Deuteronomy 31:28]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.30|Deuteronomy 31:30 >>]]</td></tr></table>
 

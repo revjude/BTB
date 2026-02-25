@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Spoils Are Divided
+type: Pericope
 pericope: "[[1Sam.30.21 The Spoils Are Divided|The Spoils Are Divided]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 30
 book/chapter: "[[1Sam.30|1 Samuel 30]]"
-genre:
+chronological_order: 309
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 11
 verses:
 - "[[1Sam.30.21]]"
 - "[[1Sam.30.22]]"
@@ -29,7 +36,7 @@ verses:
 - "[[1Sam.30.31]]"
 ---
 
-[[1Sam.30|1 Samuel 30:21 - 1 Samuel 30:31]]
+<small>[[1Sam.30|1 Samuel 30:21-31]]</small>
 *The Spoils Are Divided*
 
 [[1Sam.30.21|21]] And David came to the two hundred men, which were so faint that they could not follow David, whom they had made also to abide at the brook Besor: and they went forth to meet David, and to meet the people that \[were\] with him: and when David came near to the people, he saluted them.

@@ -1,10 +1,50 @@
+---
+title: John 7:49
+type: Verse
+kjv: "But this people who knoweth not the law are cursed."
+bsb: "But this crowd that does not know the law—they are under a curse.”"
+greek: "ἀλλ᾽ ὁ ὄχλος οὗτος ὁ μὴ γινώσκων τὸν νόμον ἐπάρατοί εἰσιν."
+pericope: "[[John.7.45 The Unbelief of the Jewish Leaders|The Unbelief of the Jewish Leaders]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G0235]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G3778]]"
+- "[[G3361]]"
+- "[[G1097]]"
+- "[[G3551]]"
+- "[[G6035]]"
+- "[[G1510]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 7:49**<big><big>[[John.7.45 The Unbelief of the Jewish Leaders|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But this people who knoweth not the law are cursed.
 <small><sub>**BSB:**</sub></small>
 But this crowd that does not know the law—they are under a curse.”
-<small><sub>**Literal:**</sub></small>
-But <the> crowd this <the> not knowing the law cursed are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.48|<< John 7:48]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.50|John 7:50 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G3588\|ὁ]]  [[G3793\|ὄχλος]]  [[G3778\|οὗτος]]  [[G3588\|ὁ]]  [[G3361\|μὴ]]  [[G1097\|γινώσκων]]  [[G3588\|τὸν]]  [[G3551\|νόμον]]  [[G6035\|ἐπάρατοί]]  [[G1510\|εἰσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.48|<< John 7:48]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.50|John 7:50 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

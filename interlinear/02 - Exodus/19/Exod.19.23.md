@@ -1,8 +1,73 @@
+---
+title: Exodus 19:23
+type: Verse
+kjv: "And Moses said unto the LORD, The people cannot come up to mount Sinai: for thou chargedst us, saying, Set bounds about the mount, and sanctify it."
+bsb: "But Moses said to the LORD, “The people cannot come up Mount Sinai, for You solemnly warned us, ‘Put a boundary around the mountain and set it apart as holy.’”"
+hebrew: "וַיֹּ֤אמֶר מֹשֶׁה֙ אֶל־ יְהוָ֔ה לֹא־ יוּכַ֣ל הָעָ֔ם לַעֲלֹ֖ת אֶל־ הַ֣ר סִינָ֑י כִּֽי־ אַתָּ֞ה הַעֵדֹ֤תָה בָּ֙נוּ֙ לֵאמֹ֔ר הַגְבֵּ֥ל אֶת־ הָהָ֖ר וְקִדַּשְׁתּֽוֹ׃"
+pericope: "[[Exod.19.16 The LORD Visits Sinai|The LORD Visits Sinai]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 19
+book/chapter: "[[Exod.19|Exodus 19]]"
+chronological_order: 111
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic LAW|LAW]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SINAI|SINAI]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H5927G]]"
+- "[[H2022G]]"
+- "[[H5514G]]"
+- "[[H3588A]]"
+- "[[H0859A]]"
+- "[[H5749B]]"
+- "[[H9003]]"
+- "[[H9035]]"
+- "[[H1379]]"
+- "[[H0853]]"
+- "[[H6942G]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 19:23**<big><big>[[Exod.19.16 The LORD Visits Sinai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses said unto the LORD, The people cannot come up to mount Sinai: for thou chargedst us, saying, Set bounds about the mount, and sanctify it.
 <small><sub>**BSB:**</sub></small>
 But Moses said to the LORD, “The people cannot come up Mount Sinai, for You solemnly warned us, ‘Put a boundary around the mountain and set it apart as holy.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H4872\|מֹשֶׁה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H3808\|לֹא]][[H9014\|־]] [[H3201\|יוּכַ֣ל]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9005\|לַ]][[H5927G\|עֲלֹ֖ת]] [[H0413\|אֶל]][[H9014\|־]] [[H2022G\|הַ֣ר]] [[H5514G\|סִינָ֑י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0859A\|אַתָּ֞ה]] [[H5749B\|הַעֵדֹ֤תָה]] [[H9003\|בָּ֙]][[H9035\|נוּ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H1379\|הַגְבֵּ֥ל]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H2022G\|הָ֖ר]] [[H9001\|וְ]][[H6942G\|קִדַּשְׁתּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic LAW|LAW]] • [[topic REVERENCE|REVERENCE]] • [[topic SINAI|SINAI]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.19.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.19.22|<< Exodus 19:22]]</td><td align="center" style="border:none;">[[Exod.19|Exodus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.19.24|Exodus 19:24 >>]]</td></tr></table>
 

@@ -1,8 +1,73 @@
+---
+title: Numbers 16:11
+type: Verse
+kjv: "For which cause both thou and all thy company are gathered together against the LORD: and what is Aaron, that ye murmur against him?"
+bsb: "Therefore, it is you and all your followers who have conspired against the LORD! As for Aaron, who is he that you should grumble against him?”"
+hebrew: "לָכֵ֗ן אַתָּה֙ וְכָל־ עֲדָ֣תְךָ֔ הַנֹּעָדִ֖ים עַל־ יְהוָ֑ה וְאַהֲרֹ֣ן מַה־ ה֔וּא כִּ֥י תַלִּ֖ינוּ עָלָֽיו׃"
+pericope: "[[Num.16.1 Korah’s Rebellion|Korah’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DATHAN|DATHAN]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5712]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H3259]]"
+- "[[H5921A]]"
+- "[[H3068G]]"
+- "[[H0175]]"
+- "[[H4100]]"
+- "[[H1931]]"
+- "[[H3588A]]"
+- "[[H3885B]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Numbers 16:11**<big><big>[[Num.16.1 Korah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For which cause [both] thou and all thy company [are] gathered together against the LORD: and what [is] Aaron, that ye murmur against him?
 <small><sub>**BSB:**</sub></small>
 Therefore, it is you and all your followers who have conspired against the LORD! As for Aaron, who is he that you should grumble against him?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H0859A\|אַתָּה֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5712\|עֲדָ֣תְ]][[H9021\|ךָ֔]] [[H9009\|הַ]][[H3259\|נֹּעָדִ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H0175\|אַהֲרֹ֣ן]] [[H4100\|מַה]][[H9014\|־]] [[H1931\|ה֔וּא]] [[H3588A\|כִּ֥י]] [[H3885B\|תַלִּ֖ינוּ]] [[H5921A\|עָלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic AMBITION|AMBITION]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DATHAN|DATHAN]] • [[topic ISRAEL|ISRAEL]] • [[topic MEEKNESS|MEEKNESS]] • [[topic MOSES|MOSES]] • [[topic MURMURING|MURMURING]] • [[topic REPROOF|REPROOF]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.10|<< Numbers 16:10]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.12|Numbers 16:12 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Joshua 10:2
+type: Verse
+kjv: "That they feared greatly, because Gibeon was a great city, as one of the royal cities, and because it was greater than Ai, and all the men thereof were mighty."
+bsb: "So Adoni-zedek and his people were greatly alarmed, because Gibeon was a great city, like one of the royal cities; it was larger than Ai, and all its men were mighty."
+hebrew: "וַיִּֽירְא֣וּ מְאֹ֔ד כִּ֣י עִ֤יר גְּדוֹלָה֙ גִּבְע֔וֹן כְּאַחַ֖ת עָרֵ֣י הַמַּמְלָכָ֑ה וְכִ֨י הִ֤יא גְדוֹלָה֙ מִן־ הָעַ֔י וְכָל־ אֲנָשֶׁ֖יהָ גִּבֹּרִֽים׃"
+pericope: "[[Josh.10.1 The Day the Sun Stood Still|The Day the Sun Stood Still]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 10
+book/chapter: "[[Josh.10|Joshua 10]]"
+chronological_order: 240
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ADONI-ZEDEK|ADONI-ZEDEK]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CITIES|CITIES]]"
+- "[[topic CONFEDERACIES|CONFEDERACIES]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H3372G]]"
+- "[[H3966]]"
+- "[[H3588A]]"
+- "[[H5892B]]"
+- "[[H1419A]]"
+- "[[H1391]]"
+- "[[H9004]]"
+- "[[H0259]]"
+- "[[H9009]]"
+- "[[H4467]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H5857G]]"
+- "[[H3605]]"
+- "[[H0582]]"
+- "[[H9024]]"
+- "[[H1368]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 10:2**<big><big>[[Josh.10.1 The Day the Sun Stood Still|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That they feared greatly, because Gibeon [was] a great city, as one of the royal cities, and because it [was] greater than Ai, and all the men thereof [were] mighty.
 <small><sub>**BSB:**</sub></small>
 So Adoni-zedek and his people were greatly alarmed, because Gibeon was a great city, like one of the royal cities; it was larger than Ai, and all its men were mighty.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3372G\|יִּֽירְא֣וּ]] [[H3966\|מְאֹ֔ד]] [[H3588A\|כִּ֣י]] [[H5892B\|עִ֤יר]] [[H1419A\|גְּדוֹלָה֙]] [[H1391\|גִּבְע֔וֹן]] [[H9004\|כְּ]][[H0259\|אַחַ֖ת]] [[H5892B\|עָרֵ֣י]] [[H9009\|הַ]][[H4467\|מַּמְלָכָ֑ה]] [[H9002\|וְ]][[H3588A\|כִ֨י]] [[H1931\|הִ֤יא]] [[H1419A\|גְדוֹלָה֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5857G\|עַ֔י]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0582\|אֲנָשֶׁ֖י]][[H9024\|הָ]] [[H1368\|גִּבֹּרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADONI-ZEDEK|ADONI-ZEDEK]] • [[topic ARMIES|ARMIES]] • [[topic CITIES|CITIES]] • [[topic CONFEDERACIES|CONFEDERACIES]] • [[topic JERUSALEM|JERUSALEM]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.1|<< Joshua 10:1]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.3|Joshua 10:3 >>]]</td></tr></table>
 

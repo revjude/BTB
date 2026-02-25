@@ -1,10 +1,58 @@
+---
+title: John 11:3
+type: Verse
+kjv: "Therefore his sisters sent unto him, saying, Lord, behold, he whom thou lovest is sick."
+bsb: "So the sisters sent word to Jesus, “Lord, the one You love is sick.”"
+greek: "ἀπέστειλαν οὖν αἱ ἀδελφαὶ πρὸς αὐτὸν λέγουσαι· κύριε, ἴδε ὃν φιλεῖς ἀσθενεῖ.¶"
+pericope: "[[John.11.1 The Death of Lazarus|The Death of Lazarus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAZARUS|LAZARUS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G0649]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G0079]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G2962G]]"
+- "[[G2396]]"
+- "[[G3739]]"
+- "[[G5368]]"
+- "[[G0770H]]"
+texts:
+- NKO
+---
+
 **John 11:3**<big><big>[[John.11.1 The Death of Lazarus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore his sisters sent unto him, saying, Lord, behold, he whom thou lovest is sick.
 <small><sub>**BSB:**</sub></small>
 So the sisters sent word to Jesus, “Lord, the one You love is sick.”
-<small><sub>**Literal:**</sub></small>
-Sent therefore the sisters to Him saying; Lord, behold [he] whom You love was being sick.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.2|<< John 11:2]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.4|John 11:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0649\|ἀπέστειλαν]]  [[G3767\|οὖν]]  [[G3588\|αἱ]]  [[G0079\|ἀδελφαὶ]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G3004G\|λέγουσαι·]]  [[G2962G\|κύριε,]]  [[G2396\|ἴδε]]  [[G3739\|ὃν]]  [[G5368\|φιλεῖς]]  [[G0770H\|ἀσθενεῖ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAMILY|FAMILY]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAZARUS|LAZARUS]] • [[topic MIRACLES|MIRACLES]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.2|<< John 11:2]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.4|John 11:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

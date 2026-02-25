@@ -1,8 +1,62 @@
+---
+title: Ecclesiastes 1:8
+type: Verse
+kjv: "All things are full of labour; man cannot utter it: the eye is not satisfied with seeing, nor the ear filled with hearing."
+bsb: "All things are wearisome, more than one can describe; the eye is not satisfied with seeing, nor the ear content with hearing."
+hebrew: "כָּל־ הַדְּבָרִ֣ים יְגֵעִ֔ים לֹא־ יוּכַ֥ל אִ֖ישׁ לְדַבֵּ֑ר לֹא־ תִשְׂבַּ֥ע עַ֙יִן֙ לִרְא֔וֹת וְלֹא־ תִמָּלֵ֥א אֹ֖זֶן מִשְּׁמֹֽעַ׃"
+pericope: "[[Eccl.1.1 Everything Is Futile|Everything Is Futile]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 1
+book/chapter: "[[Eccl.1|Ecclesiastes 1]]"
+chronological_order: 539
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic EYE|EYE]]"
+- "[[topic MAN|MAN]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H3023]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H0376I]]"
+- "[[H9005]]"
+- "[[H1696G]]"
+- "[[H7646]]"
+- "[[H5869A]]"
+- "[[H7200G]]"
+- "[[H9002]]"
+- "[[H4390]]"
+- "[[H0241G]]"
+- "[[H9006]]"
+- "[[H8085G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 1:8**<big><big>[[Eccl.1.1 Everything Is Futile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All things [are] full of labour; man cannot utter [it]: the eye is not satisfied with seeing, nor the ear filled with hearing.
 <small><sub>**BSB:**</sub></small>
 All things are wearisome, more than one can describe; the eye is not satisfied with seeing, nor the ear content with hearing.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דְּבָרִ֣ים]] [[H3023\|יְגֵעִ֔ים]] [[H3808\|לֹא]][[H9014\|־]] [[H3201\|יוּכַ֥ל]] [[H0376I\|אִ֖ישׁ]] [[H9005\|לְ]][[H1696G\|דַבֵּ֑ר]] [[H3808\|לֹא]][[H9014\|־]] [[H7646\|תִשְׂבַּ֥ע]] [[H5869A\|עַ֙יִן֙]] [[H9005\|לִ]][[H7200G\|רְא֔וֹת]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H4390\|תִמָּלֵ֥א]] [[H0241G\|אֹ֖זֶן]] [[H9006\|מִ]][[H8085G\|שְּׁמֹֽעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic EYE|EYE]] • [[topic MAN|MAN]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.1.7|<< Ecclesiastes 1:7]]</td><td align="center" style="border:none;">[[Eccl.1|Ecclesiastes 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.1.9|Ecclesiastes 1:9 >>]]</td></tr></table>
 

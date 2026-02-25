@@ -1,8 +1,63 @@
+---
+title: Genesis 34:23
+type: Verse
+kjv: "Shall not their cattle and their substance and every beast of theirs be ours? only let us consent unto them, and they will dwell with us."
+bsb: "Will not their livestock, their possessions, and all their animals become ours? Only let us consent to them, and they will dwell among us.”"
+hebrew: "מִקְנֵהֶ֤ם וְקִנְיָנָם֙ וְכָל־ בְּהֶמְתָּ֔ם הֲל֥וֹא לָ֖נוּ הֵ֑ם אַ֚ךְ נֵא֣וֹתָה לָהֶ֔ם וְיֵשְׁב֖וּ אִתָּֽנוּ׃"
+pericope: "[[Gen.34.13 The Revenge of Dinah’s Brothers|The Revenge of Dinah’s Brothers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 34
+book/chapter: "[[Gen.34|Genesis 34]]"
+chronological_order: 76
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic VENGEANCE|VENGEANCE]]"
+strongs:
+- "[[H4735]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H7075]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0929]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H1992]]"
+- "[[H0389]]"
+- "[[H0225]]"
+- "[[H9038]]"
+- "[[H3427]]"
+- "[[H0854]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 34:23**<big><big>[[Gen.34.13 The Revenge of Dinah’s Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Shall] not their cattle and their substance and every beast of theirs [be] ours? only let us consent unto them, and they will dwell with us.
 <small><sub>**BSB:**</sub></small>
 Will not their livestock, their possessions, and all their animals become ours? Only let us consent to them, and they will dwell among us.”
+<small><sub>**Hebrew:**</sub></small>
+[[H4735\|מִקְנֵ]][[H9028\|הֶ֤ם]] [[H9002\|וְ]][[H7075\|קִנְיָנָ]][[H9028\|ם֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0929\|בְּהֶמְתָּ֔]][[H9028\|ם]] [[H9008\|הֲ]][[H3808\|ל֥וֹא]] [[H9005\|לָ֖]][[H9035\|נוּ]] [[H1992\|הֵ֑ם]] [[H0389\|אַ֚ךְ]] [[H0225\|נֵא֣וֹתָה]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H9002\|וְ]][[H3427\|יֵשְׁב֖וּ]] [[H0854\|אִתָּֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEPTION|DECEPTION]] • [[topic DISHONESTY|DISHONESTY]] • [[topic VENGEANCE|VENGEANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.22|<< Genesis 34:22]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.24|Genesis 34:24 >>]]</td></tr></table>
 

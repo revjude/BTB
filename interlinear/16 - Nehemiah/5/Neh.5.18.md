@@ -1,8 +1,78 @@
+---
+title: Nehemiah 5:18
+type: Verse
+kjv: "Now that which was prepared for me daily was one ox and six choice sheep; also fowls were prepared for me, and once in ten days store of all sorts of wine: yet for all this required not I the bread of the governor, because the bondage was heavy upon this people."
+bsb: "Each day one ox, six choice sheep, and some fowl were prepared for me, and once every ten days an abundance of all kinds of wine was provided. But I did not demand the food allotted to the governor, because the burden on the people was so heavy."
+hebrew: "וַאֲשֶׁר֩ הָיָ֨ה נַעֲשֶׂ֜ה לְי֣וֹם אֶחָ֗ד שׁ֣וֹר אֶחָ֞ד צֹ֠אן שֵׁשׁ־ בְּרֻר֤וֹת וְצִפֳּרִים֙ נַֽעֲשׂוּ־ לִ֔י וּבֵ֨ין עֲשֶׂ֧רֶת יָמִ֛ים בְּכָל־ יַ֖יִן לְהַרְבֵּ֑ה וְעִם־ זֶ֗ה לֶ֤חֶם הַפֶּחָה֙ לֹ֣א בִקַּ֔שְׁתִּי כִּֽי־ כָֽבְדָ֥ה הָעֲבֹדָ֖ה עַל־ הָעָ֥ם הַזֶּֽה׃"
+pericope: "[[Neh.5.14 Nehemiah’s Generosity|Nehemiah’s Generosity]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 5
+book/chapter: "[[Neh.5|Nehemiah 5]]"
+chronological_order: 917
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H3117G]]"
+- "[[H0259]]"
+- "[[H7794]]"
+- "[[H6629G]]"
+- "[[H8337]]"
+- "[[H9014]]"
+- "[[H1305]]"
+- "[[H6833]]"
+- "[[H9030]]"
+- "[[H0996G]]"
+- "[[H6235]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H3196]]"
+- "[[H7235A]]"
+- "[[H5973A]]"
+- "[[H2088]]"
+- "[[H3899I]]"
+- "[[H9009]]"
+- "[[H6346]]"
+- "[[H3808]]"
+- "[[H1245]]"
+- "[[H3588A]]"
+- "[[H3513H]]"
+- "[[H5656G]]"
+- "[[H5921A]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 5:18**<big><big>[[Neh.5.14 Nehemiah’s Generosity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now [that] which was prepared [for me] daily [was] one ox [and] six choice sheep; also fowls were prepared for me, and once in ten days store of all sorts of wine: yet for all this required not I the bread of the governor, because the bondage was heavy upon this people.
 <small><sub>**BSB:**</sub></small>
 Each day one ox, six choice sheep, and some fowl were prepared for me, and once every ten days an abundance of all kinds of wine was provided. But I did not demand the food allotted to the governor, because the burden on the people was so heavy.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0834A\|אֲשֶׁר֩]] [[H1961\|הָיָ֨ה]] [[H6213A\|נַעֲשֶׂ֜ה]] [[H9005\|לְ]][[H3117G\|י֣וֹם]] [[H0259\|אֶחָ֗ד]] [[H7794\|שׁ֣וֹר]] [[H0259\|אֶחָ֞ד]] [[H6629G\|צֹ֠אן]] [[H8337\|שֵׁשׁ]][[H9014\|־]] [[H1305\|בְּרֻר֤וֹת]] [[H9002\|וְ]][[H6833\|צִפֳּרִים֙]] [[H6213A\|נַֽעֲשׂוּ]][[H9014\|־]] [[H9005\|לִ֔]][[H9030\|י]] [[H9002\|וּ]][[H0996G\|בֵ֨ין]] [[H6235\|עֲשֶׂ֧רֶת]] [[H3117G\|יָמִ֛ים]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3196\|יַ֖יִן]] [[H9005\|לְ]][[H7235A\|הַרְבֵּ֑ה]] [[H9002\|וְ]][[H5973A\|עִם]][[H9014\|־]] [[H2088\|זֶ֗ה]] [[H3899I\|לֶ֤חֶם]] [[H9009\|הַ]][[H6346\|פֶּחָה֙]] [[H3808\|לֹ֣א]] [[H1245\|בִקַּ֔שְׁתִּי]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3513H\|כָֽבְדָ֥ה]] [[H9009\|הָ]][[H5656G\|עֲבֹדָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֥ם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTRY|COUNTRY]] • [[topic EXAMPLE|EXAMPLE]] • [[topic INTEGRITY|INTEGRITY]] • [[topic KINDNESS|KINDNESS]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.5.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.5.17|<< Nehemiah 5:17]]</td><td align="center" style="border:none;">[[Neh.5|Nehemiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.19|Nehemiah 5:19 >>]]</td></tr></table>
 

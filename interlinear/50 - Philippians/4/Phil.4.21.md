@@ -1,10 +1,51 @@
+---
+title: Philippians 4:21
+type: Verse
+kjv: "Salute every saint in Christ Jesus. The brethren which are with me greet you."
+bsb: "Greet all the saints in Christ Jesus. The brothers who are with me send you greetings."
+greek: "Ἀσπάσασθε πάντα ἅγιον ἐν Χριστῷ Ἰησοῦ.¶ ἀσπάζονται ὑμᾶς οἱ σὺν ἐμοὶ ἀδελφοί.¶"
+pericope: "[[Phil.4.21 Final Greetings|Final Greetings]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 4
+book/chapter: "[[Phil.4|Philippians 4]]"
+chronological_order: 1120
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic SALUTATIONS|SALUTATIONS]]"
+strongs:
+- "[[G0782]]"
+- "[[G3956]]"
+- "[[G0040H]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G4862]]"
+- "[[G1473]]"
+- "[[G0080]]"
+texts:
+- NKO
+---
+
 **Philippians 4:21**<big><big>[[Phil.4.21 Final Greetings|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Salute every saint in Christ Jesus. The brethren which are with me greet you.
 <small><sub>**BSB:**</sub></small>
 Greet all the saints in Christ Jesus. The brothers who are with me send you greetings.
-<small><sub>**Literal:**</sub></small>
-do greet every saint in Christ Jesus. Greet you the with me myself brothers.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.20|<< Philippians 4:20]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.22|Philippians 4:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0782\|Ἀσπάσασθε]]  [[G3956\|πάντα]]  [[G0040H\|ἅγιον]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ.¶]]  [[G0782\|ἀσπάζονται]]  [[G4771\|ὑμᾶς]]  [[G3588\|οἱ]]  [[G4862\|σὺν]]  [[G1473\|ἐμοὶ]]  [[G0080\|ἀδελφοί.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SALUTATIONS|SALUTATIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.20|<< Philippians 4:20]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.22|Philippians 4:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

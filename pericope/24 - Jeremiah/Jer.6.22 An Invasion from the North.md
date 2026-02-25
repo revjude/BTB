@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: An Invasion from the North
+type: Pericope
 pericope: "[[Jer.6.22 An Invasion from the North|An Invasion from the North]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 6
 book/chapter: "[[Jer.6|Jeremiah 6]]"
-genre:
+chronological_order: 723
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 9
 verses:
 - "[[Jer.6.22]]"
 - "[[Jer.6.23]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Jer.6.30]]"
 ---
 
-[[Jer.6|Jeremiah 6:22 - Jeremiah 6:30]]
+<small>[[Jer.6|Jeremiah 6:22-30]]</small>
 *An Invasion from the North*
 
 [[Jer.6.22|22]] Thus saith the LORD, Behold, a people cometh from the north country, and a great nation shall be raised from the sides of the earth.

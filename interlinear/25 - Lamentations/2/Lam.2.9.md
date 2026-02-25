@@ -1,8 +1,64 @@
+---
+title: Lamentations 2:9
+type: Verse
+kjv: "Her gates are sunk into the ground; he hath destroyed and broken her bars: her king and her princes are among the Gentiles: the law is no more; her prophets also find no vision from the LORD."
+bsb: "Her gates have sunk into the ground; He has destroyed and shattered their bars. Her king and her princes are exiled among the nations, the law is no more, and even her prophets find no vision from the LORD."
+hebrew: "טָבְע֤וּ בָאָ֙רֶץ֙ שְׁעָרֶ֔יהָ אִבַּ֥ד וְשִׁבַּ֖ר בְּרִיחֶ֑יהָ מַלְכָּ֨הּ וְשָׂרֶ֤יהָ בַגּוֹיִם֙ אֵ֣ין תּוֹרָ֔ה גַּם־ נְבִיאֶ֕יהָ לֹא־ מָצְא֥וּ חָז֖וֹן מֵיְהוָֽה׃ ס"
+pericope: "[[Lam.2.1 God’s Anger over Jerusalem|God’s Anger over Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 2
+book/chapter: "[[Lam.2|Lamentations 2]]"
+chronological_order: 777
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H2883]]"
+- "[[H9003]]"
+- "[[H0776H]]"
+- "[[H8179G]]"
+- "[[H9024]]"
+- "[[H0006]]"
+- "[[H9002]]"
+- "[[H7665]]"
+- "[[H1280]]"
+- "[[H4428G]]"
+- "[[H8269]]"
+- "[[H1471A]]"
+- "[[H0369]]"
+- "[[H8451]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H5030]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H2377]]"
+- "[[H9006]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Lamentations 2:9**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Her gates are sunk into the ground; he hath destroyed and broken her bars: her king and her princes [are] among the Gentiles: the law [is] no [more]; her prophets also find no vision from the LORD.
 <small><sub>**BSB:**</sub></small>
 Her gates have sunk into the ground; He has destroyed and shattered their bars. Her king and her princes are exiled among the nations, the law is no more, and even her prophets find no vision from the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H2883\|טָבְע֤וּ]] [[H9003\|בָ]][[H0776H\|אָ֙רֶץ֙]] [[H8179G\|שְׁעָרֶ֔י]][[H9024\|הָ]] [[H0006\|אִבַּ֥ד]] [[H9002\|וְ]][[H7665\|שִׁבַּ֖ר]] [[H1280\|בְּרִיחֶ֑י]][[H9024\|הָ]] [[H4428G\|מַלְכָּ֨]][[H9024\|הּ]] [[H9002\|וְ]][[H8269\|שָׂרֶ֤י]][[H9024\|הָ]] [[H9003\|בַ]][[H1471A\|גּוֹיִם֙]] [[H0369\|אֵ֣ין]] [[H8451\|תּוֹרָ֔ה]] [[H1571\|גַּם]][[H9014\|־]] [[H5030\|נְבִיאֶ֕י]][[H9024\|הָ]] [[H3808\|לֹא]][[H9014\|־]] [[H4672\|מָצְא֥וּ]] [[H2377\|חָז֖וֹן]] [[H9006\|מֵ]][[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.8|<< Lamentations 2:8]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.10|Lamentations 2:10 >>]]</td></tr></table>
 
@@ -24,7 +80,7 @@ Her gates have sunk into the ground; He has destroyed and shattered their bars. 
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have found  |**<big>&#8207;[[H4672\|מָצְא֥וּ]]&#8207; </big>**| ma.tze.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a vision  |**<big>&#8207;[[H2377\|חָז֖וֹן]]&#8207; </big>**| cha.Zon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from Yahweh  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Yahweh  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.8|<< Lamentations 2:8]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.10|Lamentations 2:10 >>]]</td></tr></table>
 
 

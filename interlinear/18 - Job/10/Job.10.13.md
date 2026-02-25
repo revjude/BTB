@@ -1,8 +1,55 @@
+---
+title: Job 10:13
+type: Verse
+kjv: "And these things hast thou hid in thine heart: I know that this is with thee."
+bsb: "Yet You concealed these things in Your heart, and I know that this was in Your mind:"
+hebrew: "וְ֭אֵלֶּה צָפַ֣נְתָּ בִלְבָבֶ֑ךָ יָ֝דַ֗עְתִּי כִּי־ זֹ֥את עִמָּֽךְ׃"
+pericope: "[[Job.10.1 Job’s Plea to God|Job’s Plea to God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 10
+book/chapter: "[[Job.10|Job 10]]"
+chronological_order: 21
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H6845]]"
+- "[[H9003]]"
+- "[[H3824]]"
+- "[[H9021]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 10:13**<big><big>[[Job.10.1 Job’s Plea to God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [things] hast thou hid in thine heart: I know that this [is] with thee.
 <small><sub>**BSB:**</sub></small>
 Yet You concealed these things in Your heart, and I know that this was in Your mind:
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֭]][[H0428\|אֵלֶּה]] [[H6845\|צָפַ֣נְתָּ]] [[H9003\|בִ]][[H3824\|לְבָבֶ֑]][[H9021\|ךָ]] [[H3045\|יָ֝דַ֗עְתִּי]] [[H3588A\|כִּי]][[H9014\|־]] [[H2063\|זֹ֥את]] [[H5973A\|עִמָּֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PHILOSOPHY|PHILOSOPHY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.10.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.10.12|<< Job 10:12]]</td><td align="center" style="border:none;">[[Job.10|Job 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.10.14|Job 10:14 >>]]</td></tr></table>
 

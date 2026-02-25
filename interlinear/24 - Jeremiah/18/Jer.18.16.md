@@ -1,8 +1,64 @@
+---
+title: Jeremiah 18:16
+type: Verse
+kjv: "To make their land desolate, and a perpetual hissing; every one that passeth thereby shall be astonished, and wag his head."
+bsb: "They have made their land a desolation, a perpetual object of scorn; all who pass by will be appalled and shake their heads."
+hebrew: "לָשׂ֥וּם אַרְצָ֛ם לְשַׁמָּ֖ה שְׁרִיק֣וֹת עוֹלָ֑ם כֹּ֚ל עוֹבֵ֣ר עָלֶ֔יהָ יִשֹּׁ֖ם וְיָנִ֥יד בְּרֹאשֽׁוֹ׃"
+pericope: "[[Jer.18.1 The Potter and the Clay|The Potter and the Clay]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 18
+book/chapter: "[[Jer.18|Jeremiah 18]]"
+chronological_order: 735
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9005]]"
+- "[[H7760A]]"
+- "[[H0776G]]"
+- "[[H9028]]"
+- "[[H8047H]]"
+- "[[H8322]]"
+- "[[H8292]]"
+- "[[H5769G]]"
+- "[[H3605]]"
+- "[[H5674A]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H8074H]]"
+- "[[H9002]]"
+- "[[H5110]]"
+- "[[H9003]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 18:16**<big><big>[[Jer.18.1 The Potter and the Clay|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To make their land desolate, [and] a perpetual hissing; every one that passeth thereby shall be astonished, and wag his head.
 <small><sub>**BSB:**</sub></small>
 They have made their land a desolation, a perpetual object of scorn; all who pass by will be appalled and shake their heads.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H7760A\|שׂ֥וּם]] [[H0776G\|אַרְצָ֛]][[H9028\|ם]] [[H9005\|לְ]][[H8047H\|שַׁמָּ֖ה]] [[H8292\|שְׁרִיק֣וֹת]] [[H5769G\|עוֹלָ֑ם]] [[H3605\|כֹּ֚ל]] [[H5674A\|עוֹבֵ֣ר]] [[H5921A\|עָלֶ֔י]][[H9034\|הָ]] [[H8074H\|יִשֹּׁ֖ם]] [[H9002\|וְ]][[H5110\|יָנִ֥יד]] [[H9003\|בְּ]][[H7218A\|רֹאשֽׁ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.15|<< Jeremiah 18:15]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.17|Jeremiah 18:17 >>]]</td></tr></table>
 

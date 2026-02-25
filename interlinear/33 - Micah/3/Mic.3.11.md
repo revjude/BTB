@@ -1,8 +1,77 @@
+---
+title: Micah 3:11
+type: Verse
+kjv: "The heads thereof judge for reward, and the priests thereof teach for hire, and the prophets thereof divine for money: yet will they lean upon the LORD, and say, Is not the LORD among us? none evil can come upon us."
+bsb: "Her leaders judge for a bribe, her priests teach for a price, and her prophets practice divination for money. Yet they lean upon the LORD, saying, “Is not the LORD among us? No disaster can come upon us.”"
+hebrew: "רָאשֶׁ֣יהָ׀ בְּשֹׁ֣חַד יִשְׁפֹּ֗טוּ וְכֹהֲנֶ֙יהָ֙ בִּמְחִ֣יר יוֹר֔וּ וּנְבִיאֶ֖יהָ בְּכֶ֣סֶף יִקְסֹ֑מוּ וְעַל־ יְהוָה֙ יִשָּׁעֵ֣נוּ לֵאמֹ֔ר הֲל֤וֹא יְהוָה֙ בְּקִרְבֵּ֔נוּ לֹֽא־ תָב֥וֹא עָלֵ֖ינוּ רָעָֽה׃"
+pericope: "[[Mic.3.1 Rulers and Prophets Condemned|Rulers and Prophets Condemned]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 3
+book/chapter: "[[Mic.3|Micah 3]]"
+chronological_order: 625
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic COURT|COURT]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SELFISHNESS|SELFISHNESS]]"
+strongs:
+- "[[H7218H]]"
+- "[[H9024]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H7810]]"
+- "[[H8199]]"
+- "[[H9002]]"
+- "[[H3548]]"
+- "[[H4242]]"
+- "[[H3384B]]"
+- "[[H5030]]"
+- "[[H3701G]]"
+- "[[H7080]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H8172]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H7130G]]"
+- "[[H9025]]"
+- "[[H0935G]]"
+- "[[H9035]]"
+- "[[H7451C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 3:11**<big><big>[[Mic.3.1 Rulers and Prophets Condemned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The heads thereof judge for reward, and the priests thereof teach for hire, and the prophets thereof divine for money: yet will they lean upon the LORD, and say, [Is] not the LORD among us? none evil can come upon us.
 <small><sub>**BSB:**</sub></small>
 Her leaders judge for a bribe, her priests teach for a price, and her prophets practice divination for money. Yet they lean upon the LORD, saying, “Is not the LORD among us? No disaster can come upon us.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7218H\|רָאשֶׁ֣י]][[H9024\|הָ]][[H9015\|׀]] [[H9003\|בְּ]][[H7810\|שֹׁ֣חַד]] [[H8199\|יִשְׁפֹּ֗טוּ]] [[H9002\|וְ]][[H3548\|כֹהֲנֶ֙י]][[H9024\|הָ֙]] [[H9003\|בִּ]][[H4242\|מְחִ֣יר]] [[H3384B\|יוֹר֔וּ]] [[H9002\|וּ]][[H5030\|נְבִיאֶ֖י]][[H9024\|הָ]] [[H9003\|בְּ]][[H3701G\|כֶ֣סֶף]] [[H7080\|יִקְסֹ֑מוּ]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H8172\|יִשָּׁעֵ֣נוּ]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H9008\|הֲ]][[H3808\|ל֤וֹא]] [[H3068G\|יְהוָה֙]] [[H9003\|בְּ]][[H7130G\|קִרְבֵּ֔]][[H9025\|נוּ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0935G\|תָב֥וֹא]] [[H5921A\|עָלֵ֖י]][[H9035\|נוּ]] [[H7451C\|רָעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic COURT|COURT]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MONEY|MONEY]] • [[topic RULERS|RULERS]] • [[topic SELFISHNESS|SELFISHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.3.10|<< Micah 3:10]]</td><td align="center" style="border:none;">[[Mic.3|Micah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.3.12|Micah 3:12 >>]]</td></tr></table>
 

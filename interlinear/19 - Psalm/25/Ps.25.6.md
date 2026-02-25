@@ -1,8 +1,56 @@
+---
+title: Psalm 25:6
+type: Verse
+kjv: "Remember, O LORD, thy tender mercies and thy lovingkindnesses; for they have been ever of old."
+bsb: "Remember, O LORD, Your compassion and loving devotion, for they are from age to age."
+hebrew: "זְכֹר־ רַחֲמֶ֣יךָ יְ֭הוָה וַחֲסָדֶ֑יךָ כִּ֖י מֵעוֹלָ֣ם הֵֽמָּה׃"
+pericope: "[[Ps.25.1 To You I Lift Up My Soul|To You I Lift Up My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 25
+book/chapter: "[[Ps.25|Psalm 25]]"
+chronological_order: 357
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H2142]]"
+- "[[H9014]]"
+- "[[H7356B]]"
+- "[[H9021]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H2617A]]"
+- "[[H3588A]]"
+- "[[H9006]]"
+- "[[H5769J]]"
+- "[[H1992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 25:6**<big><big>[[Ps.25.1 To You I Lift Up My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember, O LORD, thy tender mercies and thy lovingkindnesses; for they [have been] ever of old.
 <small><sub>**BSB:**</sub></small>
 Remember, O LORD, Your compassion and loving devotion, for they are from age to age.
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|זְכֹר]][[H9014\|־]] [[H7356B\|רַחֲמֶ֣י]][[H9021\|ךָ]] [[H3068G\|יְ֭הוָה]] [[H9002\|וַ]][[H2617A\|חֲסָדֶ֑י]][[H9021\|ךָ]] [[H3588A\|כִּ֖י]] [[H9006\|מֵ]][[H5769J\|עוֹלָ֣ם]] [[H1992\|הֵֽמָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.25.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.25.5|<< Psalms 25:5]]</td><td align="center" style="border:none;">[[Ps.25|Psalms 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.25.7|Psalms 25:7 >>]]</td></tr></table>
 

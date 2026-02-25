@@ -1,10 +1,57 @@
+---
+title: Luke 16:29
+type: Verse
+kjv: "Abraham saith unto him, They have Moses and the prophets; let them hear them."
+bsb: "But Abraham replied, ‘They have Moses and the Prophets; let your brothers listen to them.’"
+jesus_said: "Abraham saith unto him, They have Moses and the prophets; let them hear them."
+greek: "Λέγει δὲ αὐτῷ Ἀβραάμ· ἔχουσιν Μωϋσέα καὶ τοὺς προφήτας· ἀκουσάτωσαν αὐτῶν."
+pericope: "[[Luke.16.19 The Rich Man and Lazarus|The Rich Man and Lazarus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 16
+book/chapter: "[[Luke.16|Luke 16]]"
+chronological_order: 978
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G0011]]"
+- "[[G2192]]"
+- "[[G3475]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4396]]"
+- "[[G0191]]"
+texts:
+- NKO
+- no
+- ko
+---
+
 **Luke 16:29**<big><big>[[Luke.16.19 The Rich Man and Lazarus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Abraham saith unto him, They have Moses and the prophets; let them hear them.
 <small><sub>**BSB:**</sub></small>
 But Abraham replied, ‘They have Moses and the Prophets; let your brothers listen to them.’
-<small><sub>**Literal:**</sub></small>
-Says however to him Abraham; They have Moses and the prophets; they should listen to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.28|<< Luke 16:28]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.30|Luke 16:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Λέγει]]  [[G1161\|δὲ]]  [[G0846\|αὐτῷ]]  [[G0011\|Ἀβραάμ·]]  [[G2192\|ἔχουσιν]]  [[G3475\|Μωϋσέα]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G4396\|προφήτας·]]  [[G0191\|ἀκουσάτωσαν]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.28|<< Luke 16:28]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.30|Luke 16:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

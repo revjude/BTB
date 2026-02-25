@@ -1,6 +1,80 @@
+---
+title: LXX Genesis 19:8
+type: Verse
+lxx: "But there are to me two daughters who knew not a man. I will lead them to you, and you treat them as  pleases you! Only to  these men you should not do unjust, because they entered under the protection  of my beams."
+greek: "εισί δε μοι δύο θυγατέρες αι ουκ έγνωσαν άνδρα εξάξω αυτάς προς υμάς και χράσθε αυταίς καθά αν αρέσκοι υμίν μόνον εις τους άνδρας τούτους μη ποιήσητε άδικον ου είνεκεν εισήλθον υπό την σκέπην των δοκών μου"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 19
+book/chapter: "[[Gen.19|Genesis 19]]"
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic SODOMITES|SODOMITES]]"
+- "[[topic SODOMY|SODOMY]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G1473]]"
+- "[[G1417]]"
+- "[[G2364]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1097]]"
+- "[[G0435]]"
+- "[[G1806]]"
+- "[[G1473]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G5530]]"
+- "[[G1473]]"
+- "[[G2505]]"
+- "[[G0302]]"
+- "[[G0700]]"
+- "[[G1473]]"
+- "[[G3440]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0435]]"
+- "[[G3778]]"
+- "[[G3361]]"
+- "[[G4160]]"
+- "[[G0094]]"
+- "[[G3739]]"
+- "[[G1752]]"
+- "[[G1525]]"
+- "[[G5259]]"
+- "[[G3588]]"
+- "[[G9098]]"
+- "[[G3588]]"
+- "[[G1385]]"
+- "[[G1473]]"
+---
+
 **LXX Genesis 19:8** 
 <small><sub>**LXX:**</sub></small>
 But there are to me two daughters who knew not a man. I will lead them to you, and you treat them as  pleases you! Only to  these men you should not do unjust, because they entered under the protection  of my beams. 
+<small><sub>**Greek:**</sub></small>
+[[G1510\|εισί]] [[G1161\|δε]] [[G1473\|μοι]] [[G1417\|δύο]] [[G2364\|θυγατέρες]] [[G3739\|αι]] [[G3756\|ουκ]] [[G1097\|έγνωσαν]] [[G0435\|άνδρα]] [[G1806\|εξάξω]] [[G1473\|αυτάς]] [[G4314\|προς]] [[G1473\|υμάς]] [[G2532\|και]] [[G5530\|χράσθε]] [[G1473\|αυταίς]] [[G2505\|καθά]] [[G0302\|αν]] [[G0700\|αρέσκοι]] [[G1473\|υμίν]] [[G3440\|μόνον]] [[G1519\|εις]] [[G3588\|τους]] [[G0435\|άνδρας]] [[G3778\|τούτους]] [[G3361\|μη]] [[G4160\|ποιήσητε]] [[G0094\|άδικον]] [[G3739\|ου]] [[G1752\|είνεκεν]] [[G1525\|εισήλθον]] [[G5259\|υπό]] [[G3588\|την]] [[G9098\|σκέπην]] [[G3588\|των]] [[G1385\|δοκών]] [[G1473\|μου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic SODOM|SODOM]] • [[topic SODOMITES|SODOMITES]] • [[topic SODOMY|SODOMY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.19.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.7|<< Genesis 19:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.9|Genesis 19:9 >>]]</td></tr></table>
 
@@ -38,6 +112,6 @@ But there are to me two daughters who knew not a man. I will lead them to you, a
 | protection | **<big>[[G9098\|σκέπην]]</big>** |
 | \<obj.> | **<big>[[G3588\|των]]</big>** |
 | of my beams. | **<big>[[G1385\|δοκών]]</big>** **<big>[[G1473\|μου]]</big>** |
-[[Gen.19.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.7|<< Genesis 19:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.9|Genesis 19:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.7|<< Genesis 19:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.9|Genesis 19:9 >>]]</td></tr></table>
 
 

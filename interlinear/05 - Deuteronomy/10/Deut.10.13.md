@@ -1,8 +1,64 @@
+---
+title: Deuteronomy 10:13
+type: Verse
+kjv: "To keep the commandments of the LORD, and his statutes, which I command thee this day for thy good?"
+bsb: "and to keep the commandments and statutes of the LORD that I am giving you this day for your own good?"
+hebrew: "לִשְׁמֹ֞ר אֶת־ מִצְוֹ֤ת יְהוָה֙ וְאֶת־ חֻקֹּתָ֔יו אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּךָ֖ הַיּ֑וֹם לְט֖וֹב לָֽךְ׃"
+pericope: "[[Deut.10.12 A Call to Obedience|A Call to Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 10
+book/chapter: "[[Deut.10|Deuteronomy 10]]"
+chronological_order: 206
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DUTY|DUTY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9005]]"
+- "[[H8104G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4687]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H2708]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H6680]]"
+- "[[H9031]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H2896B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 10:13**<big><big>[[Deut.10.12 A Call to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To keep the commandments of the LORD, and his statutes, which I command thee this day for thy good?
 <small><sub>**BSB:**</sub></small>
 and to keep the commandments and statutes of the LORD that I am giving you this day for your own good?
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H8104G\|שְׁמֹ֞ר]] [[H0853\|אֶת]][[H9014\|־]] [[H4687\|מִצְוֹ֤ת]] [[H3068G\|יְהוָה֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2708\|חֻקֹּתָ֔י]][[H9023\|ו]] [[H0834A\|אֲשֶׁ֛ר]] [[H0595\|אָנֹכִ֥י]] [[H6680\|מְצַוְּ]][[H9031\|ךָ֖]] [[H9009\|הַ]][[H3117G\|יּ֑וֹם]] [[H9005\|לְ]][[H2896B\|ט֖וֹב]] [[H9005\|לָֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DUTY|DUTY]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.10.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.12|<< Deuteronomy 10:12]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.14|Deuteronomy 10:14 >>]]</td></tr></table>
 

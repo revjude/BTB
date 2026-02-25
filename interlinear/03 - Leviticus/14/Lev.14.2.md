@@ -1,8 +1,60 @@
+---
+title: Leviticus 14:2
+type: Verse
+kjv: "This shall be the law of the leper in the day of his cleansing: He shall be brought unto the priest:"
+bsb: "“This is the law for the one afflicted with a skin disease on the day of his cleansing, when he is brought to the priest."
+hebrew: "זֹ֤את תִּֽהְיֶה֙ תּוֹרַ֣ת הַמְּצֹרָ֔ע בְּי֖וֹם טָהֳרָת֑וֹ וְהוּבָ֖א אֶל־ הַכֹּהֵֽן׃"
+pericope: "[[Lev.14.1 Cleansing from Skin Diseases|Cleansing from Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 14
+book/chapter: "[[Lev.14|Leviticus 14]]"
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H2063]]"
+- "[[H1961]]"
+- "[[H8451]]"
+- "[[H9009]]"
+- "[[H6879]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H2893]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 14:2**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This shall be the law of the leper in the day of his cleansing: He shall be brought unto the priest:
 <small><sub>**BSB:**</sub></small>
 “This is the law for the one afflicted with a skin disease on the day of his cleansing, when he is brought to the priest.
+<small><sub>**Hebrew:**</sub></small>
+[[H2063\|זֹ֤את]] [[H1961\|תִּֽהְיֶה֙]] [[H8451\|תּוֹרַ֣ת]] [[H9009\|הַ]][[H6879\|מְּצֹרָ֔ע]] [[H9003\|בְּ]][[H3117G\|י֖וֹם]] [[H2893\|טָהֳרָת֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H0935P\|הוּבָ֖א]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.1|<< Leviticus 14:1]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.3|Leviticus 14:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

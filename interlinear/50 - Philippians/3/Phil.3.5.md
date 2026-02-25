@@ -1,10 +1,59 @@
+---
+title: Philippians 3:5
+type: Verse
+kjv: "Circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, an Hebrew of the Hebrews; as touching the law, a Pharisee;"
+bsb: "circumcised on the eighth day, of the people of Israel, of the tribe of Benjamin; a Hebrew of Hebrews; as to the law, a Pharisee;"
+greek: "περιτομῇ ὀκταήμερος, ἐκ γένους Ἰσραήλ, φυλῆς Βενιαμίν, Ἑβραῖος ἐξ Ἑβραίων, κατὰ νόμον Φαρισαῖος,"
+pericope: "[[Phil.3.1 Righteousness through Faith in Christ|Righteousness through Faith in Christ]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 3
+book/chapter: "[[Phil.3|Philippians 3]]"
+chronological_order: 1119
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic HEBREW|HEBREW]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WORKS|WORKS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G4061]]"
+- "[[G3637]]"
+- "[[G1537]]"
+- "[[G1085G]]"
+- "[[G2474]]"
+- "[[G5443]]"
+- "[[G0958]]"
+- "[[G1445]]"
+- "[[G2596]]"
+- "[[G3551]]"
+- "[[G5330]]"
+texts:
+- NKO
+---
+
 **Philippians 3:5**<big><big>[[Phil.3.1 Righteousness through Faith in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Circumcised the eighth day, of the stock of Israel, [of] the tribe of Benjamin, an Hebrew of the Hebrews; as touching the law, a Pharisee;
 <small><sub>**BSB:**</sub></small>
 circumcised on the eighth day, of the people of Israel, of the tribe of Benjamin; a Hebrew of Hebrews; as to the law, a Pharisee;
-<small><sub>**Literal:**</sub></small>
-circumcision on [the] eighth day, of [the] nation of Israel, of [the] tribe of Benjamin, a Hebrew of Hebrews, according to [the] Law a Pharisee,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.4|<< Philippians 3:4]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.6|Philippians 3:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4061\|περιτομῇ]]  [[G3637\|ὀκταήμερος,]]  [[G1537\|ἐκ]]  [[G1085G\|γένους]]  [[G2474\|Ἰσραήλ,]]  [[G5443\|φυλῆς]]  [[G0958\|Βενιαμίν,]]  [[G1445\|Ἑβραῖος]]  [[G1537\|ἐξ]]  [[G1445\|Ἑβραίων,]]  [[G2596\|κατὰ]]  [[G3551\|νόμον]]  [[G5330\|Φαρισαῖος,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic FORMALISM|FORMALISM]] • [[topic HEBREW|HEBREW]] • [[topic ISRAEL|ISRAEL]] • [[topic PAUL|PAUL]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WORKS|WORKS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.4|<< Philippians 3:4]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.6|Philippians 3:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

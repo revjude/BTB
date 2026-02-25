@@ -1,8 +1,56 @@
+---
+title: 1 Chronicles 4:38
+type: Verse
+kjv: "These mentioned by their names were princes in their families: and the house of their fathers increased greatly."
+bsb: "These men listed by name were the leaders of their clans. Their families increased greatly,"
+hebrew: "אֵ֚לֶּה הַבָּאִ֣ים בְּשֵׁמ֔וֹת נְשִׂיאִ֖ים בְּמִשְׁפְּחוֹתָ֑ם וּבֵית֙ אֲב֣וֹתֵיהֶ֔ם פָּרְצ֖וּ לָרֽוֹב׃"
+pericope: "[[1Chr.4.24 The Descendants of Simeon|The Descendants of Simeon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 4
+book/chapter: "[[1Chr.4|1 Chronicles 4]]"
+chronological_order: 323
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic SHIMRI|SHIMRI]]"
+- "[[topic SIMEON|SIMEON]]"
+strongs:
+- "[[H0428]]"
+- "[[H9009]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H5387A]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H6555]]"
+- "[[H9005]]"
+- "[[H7230]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 4:38**<big><big>[[1Chr.4.24 The Descendants of Simeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These mentioned by [their] names [were] princes in their families: and the house of their fathers increased greatly.
 <small><sub>**BSB:**</sub></small>
 These men listed by name were the leaders of their clans. Their families increased greatly,
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֚לֶּה]] [[H9009\|הַ]][[H0935G\|בָּאִ֣ים]] [[H9003\|בְּ]][[H8034\|שֵׁמ֔וֹת]] [[H5387A\|נְשִׂיאִ֖ים]] [[H9003\|בְּ]][[H4940\|מִשְׁפְּחוֹתָ֑]][[H9028\|ם]] [[H9002\|וּ]][[H1004M\|בֵית֙]] [[H0001G\|אֲב֣וֹתֵי]][[H9028\|הֶ֔ם]] [[H6555\|פָּרְצ֖וּ]] [[H9005\|לָ]][[H7230\|רֽוֹב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHIMRI|SHIMRI]] • [[topic SIMEON|SIMEON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.37|<< 1 Chronicles 4:37]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.39|1 Chronicles 4:39 >>]]</td></tr></table>
 

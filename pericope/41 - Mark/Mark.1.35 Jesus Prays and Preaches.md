@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Prays and Preaches
+type: Pericope
 pericope: "[[Mark.1.35 Jesus Prays and Preaches|Jesus Prays and Preaches]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Mark
 chapter: 1
 book/chapter: "[[Mark.1|Mark 1]]"
-genre:
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Mark.1.35]]"
 - "[[Mark.1.36]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Mark.1.39]]"
 ---
 
-[[Mark.1|Mark 1:35 - Mark 1:39]]
+<small>[[Mark.1|Mark 1:35-39]]</small>
 *Jesus Prays and Preaches*
 
 [[Mark.1.35|35]] And in the morning, rising up a great while before day, he went out, and departed into a solitary place, and there prayed.

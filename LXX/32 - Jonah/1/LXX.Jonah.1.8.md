@@ -1,6 +1,69 @@
+---
+title: LXX Jonah 1:8
+type: Verse
+lxx: "And they said to him, Report indeed! for what reason  is this evil to us? What is your work, and from where have you come, and from out of what kind of place, and of what kind of people are you?"
+greek: "και είπον προς αυτόν απάγγειλον δη τίνος ένεκα η κακία αύτη εστίν εν ημίν τις σου η εργασία εστί και πόθεν έρχη και εκ ποίας χώρας και εκ ποίου λαού ει συ"
+original_language: Greek
+testament: Old
+book: Jonah
+chapter: 1
+book/chapter: "[[Jonah.1|Jonah 1]]"
+chronological_order: 594
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic JONAH|JONAH]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G0518]]"
+- "[[G1211]]"
+- "[[G5100]]"
+- "[[G1752]]"
+- "[[G3588]]"
+- "[[G2549]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G5100]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G2039]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G4159]]"
+- "[[G2064]]"
+- "[[G2532]]"
+- "[[G1537]]"
+- "[[G4169]]"
+- "[[G5561]]"
+- "[[G2532]]"
+- "[[G1537]]"
+- "[[G4169]]"
+- "[[G2992]]"
+- "[[G1510]]"
+- "[[G1473]]"
+---
+
 **LXX Jonah 1:8** 
 <small><sub>**LXX:**</sub></small>
 And they said to him, Report indeed! for what \[reason\]  is this evil to us? What is your work, and from where have you come, and from out of what kind of place, and of what kind of people are you? 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπον]] [[G4314\|προς]] [[G1473\|αυτόν]] [[G0518\|απάγγειλον]] [[G1211\|δη]] [[G5100\|τίνος]] [[G1752\|ένεκα]] [[G3588\|η]] [[G2549\|κακία]] [[G1473\|αύτη]] [[G1510\|εστίν]] [[G1722\|εν]] [[G1473\|ημίν]] [[G5100\|τις]] [[G1473\|σου]] [[G3588\|η]] [[G2039\|εργασία]] [[G1510\|εστί]] [[G2532\|και]] [[G4159\|πόθεν]] [[G2064\|έρχη]] [[G2532\|και]] [[G1537\|εκ]] [[G4169\|ποίας]] [[G5561\|χώρας]] [[G2532\|και]] [[G1537\|εκ]] [[G4169\|ποίου]] [[G2992\|λαού]] [[G1510\|ει]] [[G1473\|συ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONAH|JONAH]] • [[topic SUPERSTITION|SUPERSTITION]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jonah.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.7|<< Jonah 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.9|Jonah 1:9 >>]]</td></tr></table>
 
@@ -35,6 +98,6 @@ And they said to him, Report indeed! for what \[reason\]  is this evil to us? Wh
 | what kind | **<big>[[G4169\|ποίου]]</big>** |
 | of people | **<big>[[G2992\|λαού]]</big>** |
 | are you? | **<big>[[G1510\|ει]]</big>** **<big>[[G1473\|συ]]</big>** |
-[[Jonah.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.7|<< Jonah 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.9|Jonah 1:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.7|<< Jonah 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.9|Jonah 1:9 >>]]</td></tr></table>
 
 

@@ -1,10 +1,62 @@
+---
+title: 2 Corinthians 9:8
+type: Verse
+kjv: "And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work:"
+bsb: "And God is able to make all grace abound to you, so that in all things, at all times, having all that you need, you will abound in every good work."
+greek: "Δυνατεῖ δὲ ὁ θεὸς πᾶσαν χάριν περισσεῦσαι εἰς ὑμᾶς, ἵνα ἐν παντὶ πάντοτε πᾶσαν αὐτάρκειαν ἔχοντες περισσεύητε εἰς πᾶν ἔργον ἀγαθὸν"
+pericope: "[[2Cor.9.1 God Loves a Cheerful Giver|God Loves a Cheerful Giver]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 9
+book/chapter: "[[2Cor.9|2 Corinthians 9]]"
+chronological_order: 1082
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic POWER|POWER]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G1414]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3956]]"
+- "[[G5485]]"
+- "[[G4052]]"
+- "[[G1519]]"
+- "[[G4771]]"
+- "[[G2443]]"
+- "[[G1722]]"
+- "[[G3842]]"
+- "[[G0841]]"
+- "[[G2192]]"
+- "[[G2041]]"
+- "[[G0018]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **2 Corinthians 9:8**<big><big>[[2Cor.9.1 God Loves a Cheerful Giver|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And God [is] able to make all grace abound toward you; that ye, always having all sufficiency in all [things], may abound to every good work:
 <small><sub>**BSB:**</sub></small>
 And God is able to make all grace abound to you, so that in all things, at all times, having all that you need, you will abound in every good work.
-<small><sub>**Literal:**</sub></small>
-is able now <the> God all grace to make abound to you, so that in every [way] always all sufficiency having you may abound in every work good<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.7|<< 2 Corinthians 9:7]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.9|2 Corinthians 9:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1414\|Δυνατεῖ]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3956\|πᾶσαν]]  [[G5485\|χάριν]]  [[G4052\|περισσεῦσαι]]  [[G1519\|εἰς]]  [[G4771\|ὑμᾶς,]]  [[G2443\|ἵνα]]  [[G1722\|ἐν]]  [[G3956\|παντὶ]]  [[G3842\|πάντοτε]]  [[G3956\|πᾶσαν]]  [[G0841\|αὐτάρκειαν]]  [[G2192\|ἔχοντες]]  [[G4052\|περισσεύητε]]  [[G1519\|εἰς]]  [[G3956\|πᾶν]]  [[G2041\|ἔργον]]  [[G0018\|ἀγαθὸν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic LIBERALITY|LIBERALITY]] • [[topic POWER|POWER]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.7|<< 2 Corinthians 9:7]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.9|2 Corinthians 9:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

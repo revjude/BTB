@@ -1,8 +1,60 @@
+---
+title: 2 Samuel 8:17
+type: Verse
+kjv: "And Zadok the son of Ahitub, and Ahimelech the son of Abiathar, were the priests; and Seraiah was the scribe;"
+bsb: "Zadok son of Ahitub and Ahimelech son of Abiathar were priests; Seraiah was the scribe;"
+hebrew: "וְצָד֧וֹק בֶּן־ אֲחִיט֛וּב וַאֲחִימֶ֥לֶךְ בֶּן־ אֶבְיָתָ֖ר כֹּהֲנִ֑ים וּשְׂרָיָ֖ה סוֹפֵֽר׃"
+pericope: "[[2Sam.8.15 David’s Officers|David’s Officers]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 8
+book/chapter: "[[2Sam.8|2 Samuel 8]]"
+chronological_order: 402
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABIATHAR|ABIATHAR]]"
+- "[[topic AHITUB|AHITUB]]"
+- "[[topic CABINET|CABINET]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic KING|KING]]"
+- "[[topic OFFICER|OFFICER]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+- "[[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]]"
+- "[[topic SERAIAH|SERAIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H6659G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0285H]]"
+- "[[H0288I]]"
+- "[[H0054]]"
+- "[[H3548]]"
+- "[[H8304G]]"
+- "[[H5608B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 8:17**<big><big>[[2Sam.8.15 David’s Officers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Zadok the son of Ahitub, and Ahimelech the son of Abiathar, [were] the priests; and Seraiah [was] the scribe;
 <small><sub>**BSB:**</sub></small>
 Zadok son of Ahitub and Ahimelech son of Abiathar were priests; Seraiah was the scribe;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6659G\|צָד֧וֹק]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0285H\|אֲחִיט֛וּב]] [[H9002\|וַ]][[H0288I\|אֲחִימֶ֥לֶךְ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0054\|אֶבְיָתָ֖ר]] [[H3548\|כֹּהֲנִ֑ים]] [[H9002\|וּ]][[H8304G\|שְׂרָיָ֖ה]] [[H5608B\|סוֹפֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIATHAR|ABIATHAR]] • [[topic AHITUB|AHITUB]] • [[topic CABINET|CABINET]] • [[topic DAVID|DAVID]] • [[topic KING|KING]] • [[topic OFFICER|OFFICER]] • [[topic SCRIBE (S)|SCRIBE (S)]] • [[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]] • [[topic SERAIAH|SERAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.8.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.8.16|<< 2 Samuel 8:16]]</td><td align="center" style="border:none;">[[2Sam.8|2 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.8.18|2 Samuel 8:18 >>]]</td></tr></table>
 

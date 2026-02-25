@@ -1,21 +1,21 @@
 
 **PRISONERS**
 
-→ Joseph [[Gen.39.20|Ge 39:20]]-[[Gen.39.23|23]]; [[Gen.40|40]]; [[Gen.41.1|41:1]]-[[Gen.41.44|44]]
+→ Joseph [[Gen.39.20|Ge 39:20-23]]; [[Gen.40|40]]; [[Gen.41.1|41:1-44]]
 
-→ Jeremiah [[Jer.38.6|Jer 38:6]]-[[Jer.38.28|28]]; [[Jer.39.14|39:14]]
+→ Jeremiah [[Jer.38.6|Jer 38:6-28]]; [[Jer.39.14|39:14]]
 
-→ John the Baptist  [[Matt.11.2|Mt 11:2]]; [[Matt.14.3|14:3]]-[[Matt.14.12|12]]; [[Mark.6.17|Mr 6:17]]; [[Luke.3.20|Lu 3:20]]
+→ John the Baptist  [[Matt.11.2|Mt 11:2]]; [[Matt.14.3|14:3-12]]; [[Mark.6.17|Mr 6:17]]; [[Luke.3.20|Lu 3:20]]
 
-→ Jesus [[Matt.26.47|Mt 26:47]]-[[Matt.26.75|75]]; [[Matt.27|27]]; [[Mark.14.43|Mr 14:43]]-[[Mark.14.72|72]]; [[Mark.15|15]]; [[Luke.22.47|Lu 22:47]]-[[Luke.22.71|71]];  [[Luke.23|23]]; [[John.18.3|Joh 18:3]]-[[John.18.40|40]]; [[John.19|19]]
+→ Jesus [[Matt.26.47|Mt 26:47-75]]; [[Matt.27|27]]; [[Mark.14.43|Mr 14:43-72]]; [[Mark.15|15]]; [[Luke.22.47|Lu 22:47-71]];  [[Luke.23|23]]; [[John.18.3|Joh 18:3-40]]; [[John.19|19]]
 
-→ The apostles [[Acts.5.17|Ac 5:17]]-[[Acts.5.42|42]]
+→ The apostles [[Acts.5.17|Ac 5:17-42]]
 
-→ Peter [[Acts.12.3|Ac 12:3]]-[[Acts.12.19|19]]
+→ Peter [[Acts.12.3|Ac 12:3-19]]
 
-→ Paul  [[Acts.16.19|Ac 16:19]]-[[Acts.16.40|40]]; [[Acts.21.27|21:27]]-[[Acts.21.40|40]]; [[Acts.22|22]]; [[Acts.23|23]]; [[Acts.24|24]]; [[Acts.25|25]]; [[Acts.26|26]]; [[Acts.27|27]]; [[Acts.28|28]]
+→ Paul  [[Acts.16.19|Ac 16:19-40]]; [[Acts.21.27|21:27-40]]; [[Acts.22|22]]; [[Acts.23|23]]; [[Acts.24|24]]; [[Acts.25|25]]; [[Acts.26|26]]; [[Acts.27|27]]; [[Acts.28|28]]
 
-→ Silas [[Acts.16.19|Ac 16:19]]-[[Acts.16.40|40]]
+→ Silas [[Acts.16.19|Ac 16:19-40]]
 
 → Required to labor [[Judg.16.21|Jud 16:21]]
 
@@ -53,7 +53,7 @@
 
 → Kindness to
 
-- By the prison guard to Jeremiah [[Jer.38.7|Jer 38:7]]-[[Jer.38.28|28]]
+- By the prison guard to Jeremiah [[Jer.38.7|Jer 38:7-28]]
 
 - By the Philippian jailer to Paul [[Acts.16.33|Ac 16:33]]
 
@@ -61,13 +61,13 @@
 
 - By Julius, the centurion [[Acts.27.1|Ac 27:1]],[[Acts.27.3|3]]; [[Acts.28.16|28:16]],[[Acts.28.30|30]],[[Acts.28.31|31]]
 
-→ To be visited and ministered to [[Matt.25.35|Mt 25:35]]-[[Matt.25.46|46]]
+→ To be visited and ministered to [[Matt.25.35|Mt 25:35-46]]
 
-→ Released at feasts [[Matt.27.15|Mt 27:15]]-[[Matt.27.17|17]]; [[Mark.15.6|Mr 15:6]]; [[Luke.23.17|Lu 23:17]];  [[John.18.39|Joh 18:39]]
+→ Released at feasts [[Matt.27.15|Mt 27:15-17]]; [[Mark.15.6|Mr 15:6]]; [[Luke.23.17|Lu 23:17]];  [[John.18.39|Joh 18:39]]
 
 → OF WAR
 
-- Put to death [[Josh.10.16|Jos 10:16]]-[[Josh.10.27|27]]; [[1Sam.15.33|1Sa 15:33]]; [[1Sam.27.11|27:11]]; [[2Sam.12.31|2Sa 12:31]];  [[2Kgs.25.7|2Ki 25:7]]; [[1Chr.20.3|1Ch 20:3]]; [[Hos.13.16|Ho 13:16]]; [[Amos.1.13|Am 1:13]]; [[Lam.3.34|La 3:34]]
+- Put to death [[Josh.10.16|Jos 10:16-27]]; [[1Sam.15.33|1Sa 15:33]]; [[1Sam.27.11|27:11]]; [[2Sam.12.31|2Sa 12:31]];  [[2Kgs.25.7|2Ki 25:7]]; [[1Chr.20.3|1Ch 20:3]]; [[Hos.13.16|Ho 13:16]]; [[Amos.1.13|Am 1:13]]; [[Lam.3.34|La 3:34]]
 
 - By divine command [[Num.31.9|Nu 31:9]],[[Num.31.17|17]]
 

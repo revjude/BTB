@@ -1,8 +1,51 @@
+---
+title: 1 Samuel 10:17
+type: Verse
+kjv: "And Samuel called the people together unto the LORD to Mizpeh;"
+bsb: "After this, Samuel summoned the people to the LORD at Mizpah"
+hebrew: "וַיַּצְעֵ֤ק שְׁמוּאֵל֙ אֶת־ הָעָ֔ם אֶל־ יְהוָ֖ה הַמִּצְפָּֽה׃"
+pericope: "[[1Sam.10.17 Saul Proclaimed King|Saul Proclaimed King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 10
+book/chapter: "[[1Sam.10|1 Samuel 10]]"
+chronological_order: 289
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic MIZPAH|MIZPAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6817]]"
+- "[[H8050G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0413]]"
+- "[[H3068G]]"
+- "[[H4709G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 10:17**<big><big>[[1Sam.10.17 Saul Proclaimed King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samuel called the people together unto the LORD to Mizpeh;
 <small><sub>**BSB:**</sub></small>
 After this, Samuel summoned the people to the LORD at Mizpah
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6817\|יַּצְעֵ֤ק]] [[H8050G\|שְׁמוּאֵל֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9009\|הַ]][[H4709G\|מִּצְפָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MIZPAH|MIZPAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.10.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.10.16|<< 1 Samuel 10:16]]</td><td align="center" style="border:none;">[[1Sam.10|1 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.10.18|1 Samuel 10:18 >>]]</td></tr></table>
 

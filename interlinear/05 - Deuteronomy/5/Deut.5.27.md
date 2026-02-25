@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 5:27
+type: Verse
+kjv: "Go thou near, and hear all that the LORD our God shall say: and speak thou unto us all that the LORD our God shall speak unto thee; and we will hear it, and do it."
+bsb: "Go near and listen to all that the LORD our God says. Then you can tell us everything the LORD our God tells you; we will listen and obey.”"
+hebrew: "קְרַ֤ב אַתָּה֙ וּֽשֲׁמָ֔ע אֵ֛ת כָּל־ אֲשֶׁ֥ר יֹאמַ֖ר יְהוָ֣ה אֱלֹהֵ֑ינוּ וְאַ֣תְּ׀ תְּדַבֵּ֣ר אֵלֵ֗ינוּ אֵת֩ כָּל־ אֲשֶׁ֨ר יְדַבֵּ֜ר יְהוָ֧ה אֱלֹהֵ֛ינוּ אֵלֶ֖יךָ וְשָׁמַ֥עְנוּ וְעָשִֽׂינוּ׃"
+pericope: "[[Deut.5.22 Moses Intercedes for the People|Moses Intercedes for the People]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 5
+book/chapter: "[[Deut.5|Deuteronomy 5]]"
+chronological_order: 201
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic THEOCRACY|THEOCRACY]]"
+strongs:
+- "[[H7126G]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H0859C]]"
+- "[[H9015]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9035]]"
+- "[[H9031]]"
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 5:27**<big><big>[[Deut.5.22 Moses Intercedes for the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go thou near, and hear all that the LORD our God shall say: and speak thou unto us all that the LORD our God shall speak unto thee; and we will hear [it], and do [it].
 <small><sub>**BSB:**</sub></small>
 Go near and listen to all that the LORD our God says. Then you can tell us everything the LORD our God tells you; we will listen and obey.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7126G\|קְרַ֤ב]] [[H0859A\|אַתָּה֙]] [[H9002\|וּֽ]][[H8085G\|שֲׁמָ֔ע]] [[H0853\|אֵ֛ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H0559\|יֹאמַ֖ר]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵ֑י]][[H9025\|נוּ]] [[H9002\|וְ]][[H0859C\|אַ֣תְּ]][[H9015\|׀]] [[H1696G\|תְּדַבֵּ֣ר]] [[H0413\|אֵלֵ֗י]][[H9035\|נוּ]] [[H0853\|אֵת֩]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֨ר]] [[H1696G\|יְדַבֵּ֜ר]] [[H3068G\|יְהוָ֧ה]] [[H0430G\|אֱלֹהֵ֛י]][[H9025\|נוּ]] [[H0413\|אֵלֶ֖י]][[H9031\|ךָ]] [[H9001\|וְ]][[H8085G\|שָׁמַ֥עְנוּ]] [[H9001\|וְ]][[H6213A\|עָשִֽׂינוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic THEOCRACY|THEOCRACY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.26|<< Deuteronomy 5:26]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.28|Deuteronomy 5:28 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: Malachi 1:9
+type: Verse
+kjv: "And now, I pray you, beseech God that he will be gracious unto us: this hath been by your means: will he regard your persons? saith the LORD of hosts."
+bsb: "“But ask now for God’s favor. Will He be gracious? Since this has come from your hands, will He show you favor?” asks the LORD of Hosts."
+hebrew: "וְעַתָּ֛ה חַלּוּ־ נָ֥א פְנֵי־ אֵ֖ל וִֽיחָנֵ֑נוּ מִיֶּדְכֶם֙ הָ֣יְתָה זֹּ֔את הֲיִשָּׂ֤א מִכֶּם֙ פָּנִ֔ים אָמַ֖ר יְהוָ֥ה צְבָאֽוֹת׃"
+pericope: "[[Mal.1.6 The Polluted Offerings|The Polluted Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 1
+book/chapter: "[[Mal.1|Malachi 1]]"
+chronological_order: 926
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H2470B]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H6440L]]"
+- "[[H0410G]]"
+- "[[H2603A]]"
+- "[[H9035]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H9026]]"
+- "[[H1961]]"
+- "[[H2063]]"
+- "[[H9008]]"
+- "[[H5375Q]]"
+- "[[H9036]]"
+- "[[H6440N]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 1:9**<big><big>[[Mal.1.6 The Polluted Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now, I pray you, beseech God that he will be gracious unto us: this hath been by your means: will he regard your persons? saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
 “But ask now for God’s favor. Will He be gracious? Since this has come from your hands, will He show you favor?” asks the LORD of Hosts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֛ה]] [[H2470B\|חַלּוּ]][[H9014\|־]] [[H4994\|נָ֥א]] [[H6440L\|פְנֵי]][[H9014\|־]] [[H0410G\|אֵ֖ל]] [[H9002\|וִֽ]][[H2603A\|יחָנֵ֑]][[H9035\|נוּ]] [[H9006\|מִ]][[H3027H\|יֶּדְ]][[H9026\|כֶם֙]] [[H1961\|הָ֣יְתָה]] [[H2063\|זֹּ֔את]] [[H9008\|הֲ]][[H5375Q\|יִשָּׂ֤א]] [[H9006\|מִ]][[H9036\|כֶּם֙]] [[H6440N\|פָּנִ֔ים]] [[H0559\|אָמַ֖ר]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.1.8|<< Malachi 1:8]]</td><td align="center" style="border:none;">[[Mal.1|Malachi 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.1.10|Malachi 1:10 >>]]</td></tr></table>
 

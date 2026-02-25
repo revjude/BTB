@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sovereignty of God
+type: Pericope
 pericope: "[[Jer.10.1 The Sovereignty of God|The Sovereignty of God]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 10
 book/chapter: "[[Jer.10|Jeremiah 10]]"
-genre:
+chronological_order: 727
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 16
 verses:
 - "[[Jer.10.1]]"
 - "[[Jer.10.2]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Jer.10.16]]"
 ---
 
-[[Jer.10|Jeremiah 10:1 - Jeremiah 10:16]]
+<small>[[Jer.10|Jeremiah 10:1-16]]</small>
 *The Sovereignty of God*
 
 [[Jer.10.1|1]] Hear ye the word which the LORD speaketh unto you, O house of Israel:

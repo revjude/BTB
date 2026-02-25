@@ -1,10 +1,61 @@
+---
+title: Romans 14:13
+type: Verse
+kjv: "Let us not therefore judge one another any more: but judge this rather, that no man put a stumblingblock or an occasion to fall in his brother’s way."
+bsb: "Therefore let us stop judging one another. Instead, make up your mind not to put any stumbling block or obstacle in your brother’s way."
+greek: "μηκέτι οὖν ἀλλήλους κρίνωμεν, ἀλλὰ τοῦτο κρίνατε μᾶλλον, τὸ μὴ τιθέναι πρόσκομμα τῷ ἀδελφῷ ἢ σκάνδαλον.¶"
+pericope: "[[Rom.14.13 The Law of Love|The Law of Love]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 14
+book/chapter: "[[Rom.14|Romans 14]]"
+chronological_order: 1100
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic EVIL|EVIL]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic STUMBLING|STUMBLING]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[G3371]]"
+- "[[G3767]]"
+- "[[G0240]]"
+- "[[G2919]]"
+- "[[G0235]]"
+- "[[G3778]]"
+- "[[G3123H]]"
+- "[[G3588]]"
+- "[[G3361]]"
+- "[[G5087]]"
+- "[[G4348]]"
+- "[[G0080]]"
+- "[[G2228]]"
+- "[[G4625]]"
+texts:
+- NKO
+---
+
 **Romans 14:13**<big><big>[[Rom.14.13 The Law of Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Let us not therefore judge one another any more: but judge this rather, that no man put a stumblingblock or an occasion to fall in [his] brother’s way.
 <small><sub>**BSB:**</sub></small>
 Therefore let us stop judging one another. Instead, make up your mind not to put any stumbling block or obstacle in your brother’s way.
-<small><sub>**Literal:**</sub></small>
-No longer therefore one another shall we judge, but this do determine rather, <the> not to put [any] stumbling block <the> before [your] brother or snare.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.12|<< Romans 14:12]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.14|Romans 14:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3371\|μηκέτι]]  [[G3767\|οὖν]]  [[G0240\|ἀλλήλους]]  [[G2919\|κρίνωμεν,]]  [[G0235\|ἀλλὰ]]  [[G3778\|τοῦτο]]  [[G2919\|κρίνατε]]  [[G3123H\|μᾶλλον,]]  [[G3588\|τὸ]]  [[G3361\|μὴ]]  [[G5087\|τιθέναι]]  [[G4348\|πρόσκομμα]]  [[G3588\|τῷ]]  [[G0080\|ἀδελφῷ]]  [[G2228\|ἢ]]  [[G4625\|σκάνδαλον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic EVIL|EVIL]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic STUMBLING|STUMBLING]] • [[topic TEMPTATION|TEMPTATION]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.12|<< Romans 14:12]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.14|Romans 14:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

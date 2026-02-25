@@ -1,8 +1,63 @@
+---
+title: Leviticus 16:33
+type: Verse
+kjv: "And he shall make an atonement for the holy sanctuary, and he shall make an atonement for the tabernacle of the congregation, and for the altar, and he shall make an atonement for the priests, and for all the people of the congregation."
+bsb: "and make atonement for the Most Holy Place, the Tent of Meeting, and the altar, and for the priests and all the people of the assembly."
+hebrew: "וְכִפֶּר֙ אֶת־ מִקְדַּ֣שׁ הַקֹּ֔דֶשׁ וְאֶת־ אֹ֧הֶל מוֹעֵ֛ד וְאֶת־ הַמִּזְבֵּ֖חַ יְכַפֵּ֑ר וְעַ֧ל הַכֹּהֲנִ֛ים וְעַל־ כָּל־ עַ֥ם הַקָּהָ֖ל יְכַפֵּֽר׃"
+pericope: "[[Lev.16.1 The Day of Atonement|The Day of Atonement]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 16
+book/chapter: "[[Lev.16|Leviticus 16]]"
+chronological_order: 148
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic SCAPEGOAT|SCAPEGOAT]]"
+strongs:
+- "[[H9001]]"
+- "[[H3722A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4720]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H9002]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H4196]]"
+- "[[H5921A]]"
+- "[[H3548]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H6951]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 16:33**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall make an atonement for the holy sanctuary, and he shall make an atonement for the tabernacle of the congregation, and for the altar, and he shall make an atonement for the priests, and for all the people of the congregation.
 <small><sub>**BSB:**</sub></small>
 and make atonement for the Most Holy Place, the Tent of Meeting, and the altar, and for the priests and all the people of the assembly.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3722A\|כִפֶּר֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4720\|מִקְדַּ֣שׁ]] [[H9009\|הַ]][[H6944G\|קֹּ֔דֶשׁ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0168G\|אֹ֧הֶל]] [[H4150I\|מוֹעֵ֛ד]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֖חַ]] [[H3722A\|יְכַפֵּ֑ר]] [[H9002\|וְ]][[H5921A\|עַ֧ל]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֛ים]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5971A\|עַ֥ם]] [[H9009\|הַ]][[H6951\|קָּהָ֖ל]] [[H3722A\|יְכַפֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic SCAPEGOAT|SCAPEGOAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.32|<< Leviticus 16:32]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.34|Leviticus 16:34 >>]]</td></tr></table>
 

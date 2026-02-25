@@ -1,8 +1,59 @@
+---
+title: Psalm 119:153
+type: Verse
+kjv: "Consider mine affliction, and deliver me: for I do not forget thy law."
+bsb: "Look upon my affliction and rescue me, for I have not forgotten Your law."
+hebrew: "רְאֵֽה־ עָנְיִ֥י וְחַלְּצֵ֑נִי כִּי־ תֽ֝וֹרָתְךָ֗ לֹ֣א שָׁכָֽחְתִּי׃"
+pericope: "[[Ps.119.153 Your Word Is a Lamp to My Feet - RESH|Your Word Is a Lamp to My Feet - RESH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FORGETTING GOD|FORGETTING GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H7200G]]"
+- "[[H9014]]"
+- "[[H6040]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H2502A]]"
+- "[[H9030]]"
+- "[[H3588A]]"
+- "[[H8451]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H7911]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:153**<big><big>[[Ps.119.153 Your Word Is a Lamp to My Feet - RESH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Consider mine affliction, and deliver me: for I do not forget thy law.
 <small><sub>**BSB:**</sub></small>
 Look upon my affliction and rescue me, for I have not forgotten Your law.
+<small><sub>**Hebrew:**</sub></small>
+[[H7200G\|רְאֵֽה]][[H9014\|־]] [[H6040\|עָנְיִ֥]][[H9020\|י]] [[H9002\|וְ]][[H2502A\|חַלְּצֵ֑]][[H9030\|נִי]] [[H3588A\|כִּי]][[H9014\|־]] [[H8451\|תֽ֝וֹרָתְ]][[H9021\|ךָ֗]] [[H3808\|לֹ֣א]] [[H7911\|שָׁכָֽחְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FORGETTING GOD|FORGETTING GOD]] • [[topic PRAYER|PRAYER]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.153|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.152|<< Psalms 119:152]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.154|Psalms 119:154 >>]]</td></tr></table>
 

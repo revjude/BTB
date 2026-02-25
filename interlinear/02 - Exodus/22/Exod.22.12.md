@@ -1,8 +1,60 @@
+---
+title: Exodus 22:12
+type: Verse
+kjv: "And if it be stolen from him, he shall make restitution unto the owner thereof."
+bsb: "But if the animal was actually stolen from the neighbor, he must make restitution to the owner."
+hebrew: "וְאִם־ גָּנֹ֥ב יִגָּנֵ֖ב מֵעִמּ֑וֹ יְשַׁלֵּ֖ם לִבְעָלָֽיו׃"
+pericope: "[[Exod.22.1 Property Laws|Property Laws]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 22
+book/chapter: "[[Exod.22|Exodus 22]]"
+chronological_order: 114
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+- "[[topic TRUSTEE|TRUSTEE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H1589]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H9033]]"
+- "[[H7999A]]"
+- "[[H9005]]"
+- "[[H1167G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 22:12**<big><big>[[Exod.22.1 Property Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if it be stolen from him, he shall make restitution unto the owner thereof.
 <small><sub>**BSB:**</sub></small>
 But if the animal was actually stolen from the neighbor, he must make restitution to the owner.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H1589\|גָּנֹ֥ב]] [[H1589\|יִגָּנֵ֖ב]] [[H9006\|מֵ]][[H5973B\|עִמּ֑]][[H9033\|וֹ]] [[H7999A\|יְשַׁלֵּ֖ם]] [[H9005\|לִ]][[H1167G\|בְעָלָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEBTOR|DEBTOR]] • [[topic PROPERTY|PROPERTY]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]] • [[topic TRUSTEE|TRUSTEE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.11|<< Exodus 22:11]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.13|Exodus 22:13 >>]]</td></tr></table>
 

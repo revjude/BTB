@@ -1,8 +1,57 @@
+---
+title: 2 Kings 24:6
+type: Verse
+kjv: "So Jehoiakim slept with his fathers: and Jehoiachin his son reigned in his stead."
+bsb: "And Jehoiakim rested with his fathers, and his son Jehoiachin reigned in his place."
+hebrew: "וַיִּשְׁכַּ֥ב יְהוֹיָקִ֖ים עִם־ אֲבֹתָ֑יו וַיִּמְלֹ֛ךְ יְהוֹיָכִ֥ין בְּנ֖וֹ תַּחְתָּֽיו׃"
+pericope: "[[2Kgs.24.6 Jehoiachin Reigns in Judah|Jehoiachin Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 24
+book/chapter: "[[2Kgs.24|2 Kings 24]]"
+chronological_order: 741
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOIACHIN|JEHOIACHIN]]"
+- "[[topic JEHOIAKIM|JEHOIAKIM]]"
+- "[[topic NEHUSHTA|NEHUSHTA]]"
+strongs:
+- "[[H9001]]"
+- "[[H7901J]]"
+- "[[H3079]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H4427A]]"
+- "[[H3078]]"
+- "[[H1121A]]"
+- "[[H8478H]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 24:6**<big><big>[[2Kgs.24.6 Jehoiachin Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Jehoiakim slept with his fathers: and Jehoiachin his son reigned in his stead.
 <small><sub>**BSB:**</sub></small>
 And Jehoiakim rested with his fathers, and his son Jehoiachin reigned in his place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7901J\|יִּשְׁכַּ֥ב]] [[H3079\|יְהוֹיָקִ֖ים]] [[H5973A\|עִם]][[H9014\|־]] [[H0001G\|אֲבֹתָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H4427A\|יִּמְלֹ֛ךְ]] [[H3078\|יְהוֹיָכִ֥ין]] [[H1121A\|בְּנ֖]][[H9023\|וֹ]] [[H8478H\|תַּחְתָּֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOIACHIN|JEHOIACHIN]] • [[topic JEHOIAKIM|JEHOIAKIM]] • [[topic NEHUSHTA|NEHUSHTA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.24.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.24.5|<< 2 Kings 24:5]]</td><td align="center" style="border:none;">[[2Kgs.24|2 Kings 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.24.7|2 Kings 24:7 >>]]</td></tr></table>
 

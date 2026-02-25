@@ -1,8 +1,72 @@
+---
+title: Psalm 75:8
+type: Verse
+kjv: "For in the hand of the LORD there is a cup, and the wine is red; it is full of mixture; and he poureth out of the same: but the dregs thereof, all the wicked of the earth shall wring them out, and drink them."
+bsb: "For a cup is in the hand of the LORD, full of foaming wine mixed with spices. He pours from His cup, and all the wicked of the earth drink it down to the dregs."
+hebrew: "כִּ֤י כ֪וֹס בְּֽיַד־ יְהוָ֡ה וְיַ֤יִן חָמַ֨ר׀ מָ֥לֵא מֶסֶךְ֮ וַיַּגֵּ֪ר מִ֫זֶּ֥ה אַךְ־ שְׁ֭מָרֶיהָ יִמְצ֣וּ יִשְׁתּ֑וּ כֹּ֝֗ל רִשְׁעֵי־ אָֽרֶץ׃"
+pericope: "[[Ps.75.1 God’s Righteous Judgment|God’s Righteous Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 75
+book/chapter: "[[Ps.75|Psalm 75]]"
+chronological_order: 507
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CUP|CUP]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic LEES|LEES]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3563A]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H3196]]"
+- "[[H2560A]]"
+- "[[H9015]]"
+- "[[H4392]]"
+- "[[H4538]]"
+- "[[H9001]]"
+- "[[H5064]]"
+- "[[H9006]]"
+- "[[H2088]]"
+- "[[H0389]]"
+- "[[H8105]]"
+- "[[H9024]]"
+- "[[H4680]]"
+- "[[H8354]]"
+- "[[H3605]]"
+- "[[H7563]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 75:8**<big><big>[[Ps.75.1 God’s Righteous Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For in the hand of the LORD [there is] a cup, and the wine is red; it is full of mixture; and he poureth out of the same: but the dregs thereof, all the wicked of the earth shall wring [them] out, [and] drink [them].
 <small><sub>**BSB:**</sub></small>
 For a cup is in the hand of the LORD, full of foaming wine mixed with spices. He pours from His cup, and all the wicked of the earth drink it down to the dregs.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H3563A\|כ֪וֹס]] [[H9003\|בְּֽ]][[H3027G\|יַד]][[H9014\|־]] [[H3068G\|יְהוָ֡ה]] [[H9002\|וְ]][[H3196\|יַ֤יִן]] [[H2560A\|חָמַ֨ר]][[H9015\|׀]] [[H4392\|מָ֥לֵא]] [[H4538\|מֶסֶךְ֮]] [[H9001\|וַ]][[H5064\|יַּגֵּ֪ר]] [[H9006\|מִ֫]][[H2088\|זֶּ֥ה]] [[H0389\|אַךְ]][[H9014\|־]] [[H8105\|שְׁ֭מָרֶי]][[H9024\|הָ]] [[H4680\|יִמְצ֣וּ]] [[H8354\|יִשְׁתּ֑וּ]] [[H3605\|כֹּ֝֗ל]] [[H7563\|רִשְׁעֵי]][[H9014\|־]] [[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CUP|CUP]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic LEES|LEES]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.75.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.75.7|<< Psalms 75:7]]</td><td align="center" style="border:none;">[[Ps.75|Psalms 75]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.75.9|Psalms 75:9 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: Genesis 10:25
+type: Verse
+kjv: "And unto Eber were born two sons: the name of one was Peleg; for in his days was the earth divided; and his brother’s name was Joktan."
+bsb: "Two sons were born to Eber: One was named Peleg, because in his days the earth was divided, and his brother was named Joktan."
+hebrew: "וּלְעֵ֥בֶר יֻלַּ֖ד שְׁנֵ֣י בָנִ֑ים שֵׁ֣ם הָֽאֶחָ֞ד פֶּ֗לֶג כִּ֤י בְיָמָיו֙ נִפְלְגָ֣ה הָאָ֔רֶץ וְשֵׁ֥ם אָחִ֖יו יָקְטָֽן׃"
+pericope: "[[Gen.10.21 The Semites|The Semites]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 10
+book/chapter: "[[Gen.10|Genesis 10]]"
+chronological_order: 10
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic EBER|EBER]]"
+- "[[topic JOKTAN|JOKTAN]]"
+- "[[topic PELEG|PELEG]]"
+- "[[topic SHEM|SHEM]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H5677G]]"
+- "[[H3205]]"
+- "[[H8147]]"
+- "[[H1121A]]"
+- "[[H8034]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H6389]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9023]]"
+- "[[H6385]]"
+- "[[H0776G]]"
+- "[[H0251G]]"
+- "[[H3355]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 10:25**<big><big>[[Gen.10.21 The Semites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And unto Eber were born two sons: the name of one [was] Peleg; for in his days was the earth divided; and his brother’s name [was] Joktan.
 <small><sub>**BSB:**</sub></small>
 Two sons were born to Eber: One was named Peleg, because in his days the earth was divided, and his brother was named Joktan.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H5677G\|עֵ֥בֶר]] [[H3205\|יֻלַּ֖ד]] [[H8147\|שְׁנֵ֣י]] [[H1121A\|בָנִ֑ים]] [[H8034\|שֵׁ֣ם]] [[H9009\|הָֽ]][[H0259\|אֶחָ֞ד]] [[H6389\|פֶּ֗לֶג]] [[H3588A\|כִּ֤י]] [[H9003\|בְ]][[H3117G\|יָמָי]][[H9023\|ו֙]] [[H6385\|נִפְלְגָ֣ה]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וְ]][[H8034\|שֵׁ֥ם]] [[H0251G\|אָחִ֖י]][[H9023\|ו]] [[H3355\|יָקְטָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EBER|EBER]] • [[topic JOKTAN|JOKTAN]] • [[topic PELEG|PELEG]] • [[topic SHEM|SHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.10.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.24|<< Genesis 10:24]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.26|Genesis 10:26 >>]]</td></tr></table>
 

@@ -1,10 +1,72 @@
+---
+title: Hebrews 7:11
+type: Verse
+kjv: "If therefore perfection were by the Levitical priesthood, (for under it the people received the law,) what further need was there that another priest should rise after the order of Melchisedec, and not be called after the order of Aaron?"
+bsb: "Now if perfection could have been attained through the Levitical priesthood (for on this basis the people received the law), why was there still need for another priest to appear—one in the order of Melchizedek and not in the order of Aaron?"
+greek: "Εἰ μὲν οὖν τελείωσις διὰ τῆς Λευιτικῆς ἱερωσύνης ἦν, ὁ λαὸς γὰρ ἐπ᾽ αὐτῆς νενομοθέτηται, τίς ἔτι χρεία κατὰ τὴν τάξιν Μελχισέδεκ ἕτερον ἀνίστασθαι ἱερέα καὶ οὐ κατὰ τὴν τάξιν Ἀαρὼν λέγεσθαι;"
+pericope: "[[Heb.7.11 A Superior Priesthood|A Superior Priesthood]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 7
+book/chapter: "[[Heb.7|Hebrews 7]]"
+chronological_order: 1146
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MELCHIZEDEK|MELCHIZEDEK]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SUCCESSION|SUCCESSION]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G1487G]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G5050]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G3020]]"
+- "[[G2420]]"
+- "[[G1510]]"
+- "[[G2992]]"
+- "[[G1063]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G3549]]"
+- "[[G5101]]"
+- "[[G2089]]"
+- "[[G5532]]"
+- "[[G2596]]"
+- "[[G5010]]"
+- "[[G3198]]"
+- "[[G2087]]"
+- "[[G0450]]"
+- "[[G2409]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G0002]]"
+- "[[G3004H]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Hebrews 7:11**<big><big>[[Heb.7.11 A Superior Priesthood|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If therefore perfection were by the Levitical priesthood, (for under it the people received the law,) what further need [was there] that another priest should rise after the order of Melchisedec, and not be called after the order of Aaron?
 <small><sub>**BSB:**</sub></small>
 Now if perfection could have been attained through the Levitical priesthood (for on this basis the people received the law), why was there still need for another priest to appear—one in the order of Melchizedek and not in the order of Aaron?
-<small><sub>**Literal:**</sub></small>
-If indeed then perfection through the Levitical priesthood were — the people for upon it has received [the] Law — what still need [was there] according to the order of Melchizedek [for] another to arise priest and not according to the order of Aaron to be named?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.10|<< Hebrews 7:10]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.12|Hebrews 7:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|Εἰ]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G5050\|τελείωσις]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G3020\|Λευιτικῆς]]  [[G2420\|ἱερωσύνης]]  [[G1510\|ἦν,]]  [[G3588\|ὁ]]  [[G2992\|λαὸς]]  [[G1063\|γὰρ]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτῆς]]  [[G3549\|νενομοθέτηται,]]  [[G5101\|τίς]]  [[G2089\|ἔτι]]  [[G5532\|χρεία]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G5010\|τάξιν]]  [[G3198\|Μελχισέδεκ]]  [[G2087\|ἕτερον]]  [[G0450\|ἀνίστασθαι]]  [[G2409\|ἱερέα]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G5010\|τάξιν]]  [[G0002\|Ἀαρὼν]]  [[G3004H\|λέγεσθαι;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MELCHIZEDEK|MELCHIZEDEK]] • [[topic PRIEST|PRIEST]] • [[topic SUCCESSION|SUCCESSION]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.10|<< Hebrews 7:10]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.12|Hebrews 7:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

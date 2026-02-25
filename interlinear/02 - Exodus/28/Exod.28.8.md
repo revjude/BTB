@@ -1,8 +1,68 @@
+---
+title: Exodus 28:8
+type: Verse
+kjv: "And the curious girdle of the ephod, which is upon it, shall be of the same, according to the work thereof; even of gold, of blue, and purple, and scarlet, and fine twined linen."
+bsb: "And the skillfully woven waistband of the ephod must be of one piece, of the same workmanship—with gold, with blue, purple, and scarlet yarn, and with finely spun linen."
+hebrew: "וְחֵ֤שֶׁב אֲפֻדָּתוֹ֙ אֲשֶׁ֣ר עָלָ֔יו כְּמַעֲשֵׂ֖הוּ מִמֶּ֣נּוּ יִהְיֶ֑ה זָהָ֗ב תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֥שׁ מָשְׁזָֽר׃"
+pericope: "[[Exod.28.6 The Ephod|The Ephod]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 28
+book/chapter: "[[Exod.28|Exodus 28]]"
+chronological_order: 120
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic EPHOD|EPHOD]]"
+- "[[topic GIRDLE|GIRDLE]]"
+- "[[topic LINEN|LINEN]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H2805]]"
+- "[[H0642]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9004]]"
+- "[[H4639G]]"
+- "[[H4480A]]"
+- "[[H1961]]"
+- "[[H2091]]"
+- "[[H8504]]"
+- "[[H0713]]"
+- "[[H8438B]]"
+- "[[H8144]]"
+- "[[H8336B]]"
+- "[[H7806]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 28:8**<big><big>[[Exod.28.6 The Ephod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the curious girdle of the ephod, which [is] upon it, shall be of the same, according to the work thereof; [even of] gold, [of] blue, and purple, and scarlet, and fine twined linen.
 <small><sub>**BSB:**</sub></small>
 And the skillfully woven waistband of the ephod must be of one piece, of the same workmanship—with gold, with blue, purple, and scarlet yarn, and with finely spun linen.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2805\|חֵ֤שֶׁב]] [[H0642\|אֲפֻדָּת]][[H9023\|וֹ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5921A\|עָלָ֔י]][[H9033\|ו]] [[H9004\|כְּ]][[H4639G\|מַעֲשֵׂ֖]][[H9023\|הוּ]] [[H4480A\|מִמֶּ֣]][[H9033\|נּוּ]] [[H1961\|יִהְיֶ֑ה]] [[H2091\|זָהָ֗ב]] [[H8504\|תְּכֵ֧לֶת]] [[H9002\|וְ]][[H0713\|אַרְגָּמָ֛ן]] [[H9002\|וְ]][[H8438B\|תוֹלַ֥עַת]] [[H8144\|שָׁנִ֖י]] [[H9002\|וְ]][[H8336B\|שֵׁ֥שׁ]] [[H7806\|מָשְׁזָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic EPHOD|EPHOD]] • [[topic GIRDLE|GIRDLE]] • [[topic LINEN|LINEN]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.7|<< Exodus 28:7]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.9|Exodus 28:9 >>]]</td></tr></table>
 

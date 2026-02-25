@@ -1,7 +1,7 @@
 
 **HARAN**
 
-1. Father of Lot and brother of Abraham [[Gen.11.26|Ge 11:26]]-[[Gen.11.31|31]]
+1. Father of Lot and brother of Abraham [[Gen.11.26|Ge 11:26-31]]
 
 2. Son of Caleb [[1Chr.2.46|1Ch 2:46]]
 
@@ -13,11 +13,11 @@
 
 - Death of Terah at [[Gen.11.32|Ge 11:32]]
 
-- Abraham leaves, by divine command [[Gen.12.1|Ge 12:1]]-[[Gen.12.5|5]]
+- Abraham leaves, by divine command [[Gen.12.1|Ge 12:1-5]]
 
 - Jacob flees to [[Gen.27.43|Ge 27:43]]; [[Gen.28.7|28:7]]; [[Gen.29|29]]
 
-- Returns from, with Rachel and Leah [[Gen.31.17|Ge 31:17]]-[[Gen.31.21|21]]
+- Returns from, with Rachel and Leah [[Gen.31.17|Ge 31:17-21]]
 
 - Conquest of, king of Assyria [[2Kgs.19.12|2Ki 19:12]]
 

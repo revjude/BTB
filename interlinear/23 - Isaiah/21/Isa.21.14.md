@@ -1,8 +1,59 @@
+---
+title: Isaiah 21:14
+type: Verse
+kjv: "The inhabitants of the land of Tema brought water to him that was thirsty, they prevented with their bread him that fled."
+bsb: "Bring water for the thirsty, O dwellers of Tema; meet the refugees with food."
+hebrew: "לִקְרַ֥את צָמֵ֖א הֵתָ֣יוּ מָ֑יִם יֹשְׁבֵי֙ אֶ֣רֶץ תֵּימָ֔א בְּלַחְמ֖וֹ קִדְּמ֥וּ נֹדֵֽד׃"
+pericope: "[[Isa.21.13 The Burden against Arabia|The Burden against Arabia]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 21
+book/chapter: "[[Isa.21|Isaiah 21]]"
+chronological_order: 638
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ARABIANS|ARABIANS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic POOR|POOR]]"
+- "[[topic TEMA|TEMA]]"
+strongs:
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H6771]]"
+- "[[H0857]]"
+- "[[H4325G]]"
+- "[[H3427]]"
+- "[[H0776G]]"
+- "[[H8485H]]"
+- "[[H9003]]"
+- "[[H3899H]]"
+- "[[H9023]]"
+- "[[H6923]]"
+- "[[H5074]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 21:14**<big><big>[[Isa.21.13 The Burden against Arabia|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The inhabitants of the land of Tema brought water to him that was thirsty, they prevented with their bread him that fled.
 <small><sub>**BSB:**</sub></small>
 Bring water for the thirsty, O dwellers of Tema; meet the refugees with food.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H7122G\|קְרַ֥את]] [[H6771\|צָמֵ֖א]] [[H0857\|הֵתָ֣יוּ]] [[H4325G\|מָ֑יִם]] [[H3427\|יֹשְׁבֵי֙]] [[H0776G\|אֶ֣רֶץ]] [[H8485H\|תֵּימָ֔א]] [[H9003\|בְּ]][[H3899H\|לַחְמ֖]][[H9023\|וֹ]] [[H6923\|קִדְּמ֥וּ]] [[H5074\|נֹדֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARABIANS|ARABIANS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic ISAIAH|ISAIAH]] • [[topic POOR|POOR]] • [[topic TEMA|TEMA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.21.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.21.13|<< Isaiah 21:13]]</td><td align="center" style="border:none;">[[Isa.21|Isaiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.21.15|Isaiah 21:15 >>]]</td></tr></table>
 

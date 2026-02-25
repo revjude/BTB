@@ -1,8 +1,64 @@
+---
+title: Ezekiel 24:18
+type: Verse
+kjv: "So I spake unto the people in the morning: and at even my wife died; and I did in the morning as I was commanded."
+bsb: "So I spoke to the people in the morning, and in the evening my wife died. And the next morning I did as I had been commanded."
+hebrew: "וָאֲדַבֵּ֤ר אֶל־ הָעָם֙ בַּבֹּ֔קֶר וַתָּ֥מָת אִשְׁתִּ֖י בָּעָ֑רֶב וָאַ֥עַשׂ בַּבֹּ֖קֶר כַּאֲשֶׁ֥ר צֻוֵּֽיתִי׃"
+pericope: "[[Ezek.24.15 Ezekiel’s Wife Dies|Ezekiel’s Wife Dies]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 24
+book/chapter: "[[Ezek.24|Ezekiel 24]]"
+chronological_order: 815
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BEREAVEMENT|BEREAVEMENT]]"
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H4191]]"
+- "[[H0802H]]"
+- "[[H9020]]"
+- "[[H6153]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 24:18**<big><big>[[Ezek.24.15 Ezekiel’s Wife Dies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So I spake unto the people in the morning: and at even my wife died; and I did in the morning as I was commanded.
 <small><sub>**BSB:**</sub></small>
 So I spoke to the people in the morning, and in the evening my wife died. And the next morning I did as I had been commanded.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H1696G\|אֲדַבֵּ֤ר]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H9003\|בַּ]][[H1242\|בֹּ֔קֶר]] [[H9001\|וַ]][[H4191\|תָּ֥מָת]] [[H0802H\|אִשְׁתִּ֖]][[H9020\|י]] [[H9003\|בָּ]][[H6153\|עָ֑רֶב]] [[H9001\|וָ]][[H6213A\|אַ֥עַשׂ]] [[H9003\|בַּ]][[H1242\|בֹּ֖קֶר]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H6680\|צֻוֵּֽיתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEREAVEMENT|BEREAVEMENT]] • [[topic EZEKIEL|EZEKIEL]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.17|<< Ezekiel 24:17]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.19|Ezekiel 24:19 >>]]</td></tr></table>
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Boy with an Evil Spirit
+type: Pericope
 pericope: "[[Luke.9.37 The Boy with an Evil Spirit|The Boy with an Evil Spirit]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Luke
 chapter: 9
 book/chapter: "[[Luke.9|Luke 9]]"
-genre:
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 6
 verses:
 - "[[Luke.9.37]]"
 - "[[Luke.9.38]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Luke.9.42]]"
 ---
 
-[[Luke.9|Luke 9:37 - Luke 9:42]]
+<small>[[Luke.9|Luke 9:37-42]]</small>
 *The Boy with an Evil Spirit*
 
 [[Luke.9.37|37]] And it came to pass, that on the next day, when they were come down from the hill, much people met him.

@@ -1,8 +1,62 @@
+---
+title: Genesis 42:4
+type: Verse
+kjv: "But Benjamin, Joseph’s brother, Jacob sent not with his brethren; for he said, Lest peradventure mischief befall him."
+bsb: "But Jacob did not send Joseph’s brother Benjamin with his brothers, for he said, “I am afraid that harm might befall him.”"
+hebrew: "וְאֶת־ בִּנְיָמִין֙ אֲחִ֣י יוֹסֵ֔ף לֹא־ שָׁלַ֥ח יַעֲקֹ֖ב אֶת־ אֶחָ֑יו כִּ֣י אָמַ֔ר פֶּן־ יִקְרָאֶ֖נּוּ אָסֽוֹן׃"
+pericope: "[[Gen.42.1 Joseph’s Brothers Sent to Egypt|Joseph’s Brothers Sent to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 42
+book/chapter: "[[Gen.42|Genesis 42]]"
+chronological_order: 84
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1144G]]"
+- "[[H0251G]]"
+- "[[H3130G]]"
+- "[[H3808]]"
+- "[[H7971G]]"
+- "[[H3290]]"
+- "[[H0854]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H0559]]"
+- "[[H6435]]"
+- "[[H7122I]]"
+- "[[H9033]]"
+- "[[H0611]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 42:4**<big><big>[[Gen.42.1 Joseph’s Brothers Sent to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Benjamin, Joseph’s brother, Jacob sent not with his brethren; for he said, Lest peradventure mischief befall him.
 <small><sub>**BSB:**</sub></small>
 But Jacob did not send Joseph’s brother Benjamin with his brothers, for he said, “I am afraid that harm might befall him.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1144G\|בִּנְיָמִין֙]] [[H0251G\|אֲחִ֣י]] [[H3130G\|יוֹסֵ֔ף]] [[H3808\|לֹא]][[H9014\|־]] [[H7971G\|שָׁלַ֥ח]] [[H3290\|יַעֲקֹ֖ב]] [[H0854\|אֶת]][[H9014\|־]] [[H0251G\|אֶחָ֑י]][[H9023\|ו]] [[H3588A\|כִּ֣י]] [[H0559\|אָמַ֔ר]] [[H6435\|פֶּן]][[H9014\|־]] [[H7122I\|יִקְרָאֶ֖]][[H9033\|נּוּ]] [[H0611\|אָסֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.3|<< Genesis 42:3]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.5|Genesis 42:5 >>]]</td></tr></table>
 

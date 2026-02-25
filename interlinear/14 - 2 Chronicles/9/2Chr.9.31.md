@@ -1,8 +1,59 @@
+---
+title: 2 Chronicles 9:31
+type: Verse
+kjv: "And Solomon slept with his fathers, and he was buried in the city of David his father: and Rehoboam his son reigned in his stead."
+bsb: "And Solomon rested with his fathers and was buried in the city of his father David. And his son Rehoboam reigned in his place."
+hebrew: "וַיִּשְׁכַּ֤ב שְׁלֹמֹה֙ עִם־ אֲבֹתָ֔יו וַֽיִּקְבְּרֻ֔הוּ בְּעִ֖יר דָּוִ֣יד אָבִ֑יו וַיִּמְלֹ֛ךְ רְחַבְעָ֥ם בְּנ֖וֹ תַּחְתָּֽיו׃ פ"
+pericope: "[[2Chr.9.29 The Death of Solomon|The Death of Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 9
+book/chapter: "[[2Chr.9|2 Chronicles 9]]"
+chronological_order: 538
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H7901J]]"
+- "[[H8010]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H6912]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H1732]]"
+- "[[H4427A]]"
+- "[[H7346]]"
+- "[[H1121A]]"
+- "[[H8478H]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Chronicles 9:31**<big><big>[[2Chr.9.29 The Death of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon slept with his fathers, and he was buried in the city of David his father: and Rehoboam his son reigned in his stead.
 <small><sub>**BSB:**</sub></small>
 And Solomon rested with his fathers and was buried in the city of his father David. And his son Rehoboam reigned in his place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7901J\|יִּשְׁכַּ֤ב]] [[H8010\|שְׁלֹמֹה֙]] [[H5973A\|עִם]][[H9014\|־]] [[H0001G\|אֲבֹתָ֔י]][[H9023\|ו]] [[H9001\|וַֽ]][[H6912\|יִּקְבְּרֻ֔]][[H9033\|הוּ]] [[H9003\|בְּ]][[H5892B\|עִ֖יר]] [[H1732\|דָּוִ֣יד]] [[H0001G\|אָבִ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H4427A\|יִּמְלֹ֛ךְ]] [[H7346\|רְחַבְעָ֥ם]] [[H1121A\|בְּנ֖]][[H9023\|וֹ]] [[H8478H\|תַּחְתָּֽי]][[H9033\|ו]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REHOBOAM|REHOBOAM]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.9.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.30|<< 2 Chronicles 9:30]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.10.1|2 Chronicles 10:1 >>]]</td></tr></table>
 
@@ -19,7 +70,7 @@ And Solomon rested with his fathers and was buried in the city of his father Dav
 | and he became king  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4427A\|יִּמְלֹ֛ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yim.Lokh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Rehoboam  |**<big>&#8207;[[H7346\|רְחַבְעָ֥ם]]&#8207; </big>**| re.chav.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | son his  |**<big>&#8207;[[H1121A\|בְּנ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in place of him  |**<big>&#8207;[[H8478H\|תַּחְתָּֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tach.Ta<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in place of him  |**<big>&#8207;[[H8478H\|תַּחְתָּֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tach.Ta<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.30|<< 2 Chronicles 9:30]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.10.1|2 Chronicles 10:1 >>]]</td></tr></table>
 
 

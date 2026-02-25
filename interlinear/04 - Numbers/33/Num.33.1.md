@@ -1,8 +1,59 @@
+---
+title: Numbers 33:1
+type: Verse
+kjv: "These are the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron."
+bsb: "These are the journeys of the Israelites when they came out of the land of Egypt by their divisions under the leadership of Moses and Aaron."
+hebrew: "אֵ֜לֶּה מַסְעֵ֣י בְנֵֽי־ יִשְׂרָאֵ֗ל אֲשֶׁ֥ר יָצְא֛וּ מֵאֶ֥רֶץ מִצְרַ֖יִם לְצִבְאֹתָ֑ם בְּיַד־ מֹשֶׁ֖ה וְאַהֲרֹֽן׃"
+pericope: "[[Num.33.1 Forty-Two Journeys of the Israelites|Forty-Two Journeys of the Israelites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 33
+book/chapter: "[[Num.33|Numbers 33]]"
+chronological_order: 193
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+strongs:
+- "[[H0428]]"
+- "[[H4550]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9005]]"
+- "[[H6635A]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 33:1**<big><big>[[Num.33.1 Forty-Two Journeys of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron.
 <small><sub>**BSB:**</sub></small>
 These are the journeys of the Israelites when they came out of the land of Egypt by their divisions under the leadership of Moses and Aaron.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֜לֶּה]] [[H4550\|מַסְעֵ֣י]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H0834A\|אֲשֶׁ֥ר]] [[H3318G\|יָצְא֛וּ]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרַ֖יִם]] [[H9005\|לְ]][[H6635A\|צִבְאֹתָ֑]][[H9028\|ם]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H4872\|מֹשֶׁ֖ה]] [[H9002\|וְ]][[H0175\|אַהֲרֹֽן]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.42|<< Numbers 32:42]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.2|Numbers 33:2 >>]]</td></tr></table>
 

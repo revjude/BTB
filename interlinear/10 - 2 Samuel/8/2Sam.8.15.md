@@ -1,8 +1,61 @@
+---
+title: 2 Samuel 8:15
+type: Verse
+kjv: "And David reigned over all Israel; and David executed judgment and justice unto all his people."
+bsb: "Thus David reigned over all Israel and administered justice and righteousness for all his people:"
+hebrew: "וַיִּמְלֹ֥ךְ דָּוִ֖ד עַל־ כָּל־ יִשְׂרָאֵ֑ל וַיְהִ֣י דָוִ֗ד עֹשֶׂ֛ה מִשְׁפָּ֥ט וּצְדָקָ֖ה לְכָל־ עַמּֽוֹ׃"
+pericope: "[[2Sam.8.15 David’s Officers|David’s Officers]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 8
+book/chapter: "[[2Sam.8|2 Samuel 8]]"
+chronological_order: 402
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic CABINET|CABINET]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic KING|KING]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[H9001]]"
+- "[[H4427A]]"
+- "[[H1732]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H1961]]"
+- "[[H6213A]]"
+- "[[H4941H]]"
+- "[[H9002]]"
+- "[[H6666]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 8:15**<big><big>[[2Sam.8.15 David’s Officers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David reigned over all Israel; and David executed judgment and justice unto all his people.
 <small><sub>**BSB:**</sub></small>
 Thus David reigned over all Israel and administered justice and righteousness for all his people:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4427A\|יִּמְלֹ֥ךְ]] [[H1732\|דָּוִ֖ד]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H1732\|דָוִ֗ד]] [[H6213A\|עֹשֶׂ֛ה]] [[H4941H\|מִשְׁפָּ֥ט]] [[H9002\|וּ]][[H6666\|צְדָקָ֖ה]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H5971A\|עַמּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CABINET|CABINET]] • [[topic DAVID|DAVID]] • [[topic JUDGE|JUDGE]] • [[topic KING|KING]] • [[topic TYPES|TYPES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.8.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.8.14|<< 2 Samuel 8:14]]</td><td align="center" style="border:none;">[[2Sam.8|2 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.8.16|2 Samuel 8:16 >>]]</td></tr></table>
 

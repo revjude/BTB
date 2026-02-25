@@ -1,10 +1,62 @@
+---
+title: 1 Peter 1:18
+type: Verse
+kjv: "Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers;"
+bsb: "For you know that it was not with perishable things such as silver or gold that you were redeemed from the empty way of life you inherited from your forefathers,"
+greek: "εἰδότες ὅτι οὐ φθαρτοῖς, ἀργυρίῳ ἢ χρυσίῳ, ἐλυτρώθητε ἐκ τῆς ματαίας ὑμῶν ἀναστροφῆς πατροπαραδότου,"
+pericope: "[[1Pet.1.13 A Call to Holiness|A Call to Holiness]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 1
+book/chapter: "[[1Pet.1|1 Peter 1]]"
+chronological_order: 1135
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic TRADITION|TRADITION]]"
+- "[[topic VANITY|VANITY]]"
+strongs:
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G5349]]"
+- "[[G0694]]"
+- "[[G2228]]"
+- "[[G5553]]"
+- "[[G3084]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3152]]"
+- "[[G4771]]"
+- "[[G0391]]"
+- "[[G3970]]"
+texts:
+- NKO
+---
+
 **1 Peter 1:18**<big><big>[[1Pet.1.13 A Call to Holiness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Forasmuch as ye know that ye were not redeemed with corruptible things, [as] silver and gold, from your vain conversation [received] by tradition from your fathers;
 <small><sub>**BSB:**</sub></small>
 For you know that it was not with perishable things such as silver or gold that you were redeemed from the empty way of life you inherited from your forefathers,
-<small><sub>**Literal:**</sub></small>
-knowing that not by perishable things — by silver or by gold — you were redeemed from the futile of you manner of life handed down from [your] fathers,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.17|<< 1 Peter 1:17]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.19|1 Peter 1:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|εἰδότες]]  [[G3754G\|ὅτι]]  [[G3756\|οὐ]]  [[G5349\|φθαρτοῖς,]]  [[G0694\|ἀργυρίῳ]]  [[G2228\|ἢ]]  [[G5553\|χρυσίῳ,]]  [[G3084\|ἐλυτρώθητε]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G3152\|ματαίας]]  [[G4771\|ὑμῶν]]  [[G0391\|ἀναστροφῆς]]  [[G3970\|πατροπαραδότου,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BLOOD|BLOOD]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GOLD|GOLD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MONEY|MONEY]] • [[topic REDEMPTION|REDEMPTION]] • [[topic TRADITION|TRADITION]] • [[topic VANITY|VANITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.17|<< 1 Peter 1:17]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.19|1 Peter 1:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

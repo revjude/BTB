@@ -1,8 +1,51 @@
+---
+title: 2 Kings 9:4
+type: Verse
+kjv: "So the young man, even the young man the prophet, went to Ramothgilead."
+bsb: "So the young prophet went to Ramoth-gilead,"
+hebrew: "וַיֵּ֧לֶךְ הַנַּ֛עַר הַנַּ֥עַר הַנָּבִ֖יא רָמֹ֥ת גִּלְעָֽד׃"
+pericope: "[[2Kgs.9.1 Jehu Anointed King of Israel|Jehu Anointed King of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 9
+book/chapter: "[[2Kgs.9|2 Kings 9]]"
+chronological_order: 582
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H5030]]"
+- "[[H7418G]]"
+- "[[H1568M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 9:4**<big><big>[[2Kgs.9.1 Jehu Anointed King of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the young man, [even] the young man the prophet, went to Ramothgilead.
 <small><sub>**BSB:**</sub></small>
 So the young prophet went to Ramoth-gilead,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּ֧לֶךְ]] [[H9009\|הַ]][[H5288\|נַּ֛עַר]] [[H9009\|הַ]][[H5288\|נַּ֥עַר]] [[H9009\|הַ]][[H5030\|נָּבִ֖יא]] [[H7418G\|רָמֹ֥ת]] [[H1568M\|גִּלְעָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ENTHUSIASM|ENTHUSIASM]] • [[topic JEHU|JEHU]] • [[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.3|<< 2 Kings 9:3]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.5|2 Kings 9:5 >>]]</td></tr></table>
 

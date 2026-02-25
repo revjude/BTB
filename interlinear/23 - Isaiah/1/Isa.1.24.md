@@ -1,8 +1,61 @@
+---
+title: Isaiah 1:24
+type: Verse
+kjv: "Therefore saith the Lord, the LORD of hosts, the mighty One of Israel, Ah, I will ease me of mine adversaries, and avenge me of mine enemies:"
+bsb: "Therefore the Lord GOD of Hosts, the Mighty One of Israel, declares: “Ah, I will be relieved of My foes and avenge Myself on My enemies."
+hebrew: "לָכֵ֗ן נְאֻ֤ם הָֽאָדוֹן֙ יְהוָ֣ה צְבָא֔וֹת אֲבִ֖יר יִשְׂרָאֵ֑ל ה֚וֹי אֶנָּחֵ֣ם מִצָּרַ֔י וְאִנָּקְמָ֖ה מֵאוֹיְבָֽי׃"
+pericope: "[[Isa.1.21 The Corruption of Zion|The Corruption of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 1
+book/chapter: "[[Isa.1|Isaiah 1]]"
+chronological_order: 609
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H5002]]"
+- "[[H9009]]"
+- "[[H0113]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0046]]"
+- "[[H3478]]"
+- "[[H1945]]"
+- "[[H5162G]]"
+- "[[H9006]]"
+- "[[H6862C]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H5358]]"
+- "[[H0341]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 1:24**<big><big>[[Isa.1.21 The Corruption of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore saith the Lord, the LORD of hosts, the mighty One of Israel, Ah, I will ease me of mine adversaries, and avenge me of mine enemies:
 <small><sub>**BSB:**</sub></small>
 Therefore the Lord GOD of Hosts, the Mighty One of Israel, declares: “Ah, I will be relieved of My foes and avenge Myself on My enemies.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H5002\|נְאֻ֤ם]] [[H9009\|הָֽ]][[H0113\|אָדוֹן֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H0046\|אֲבִ֖יר]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H1945\|ה֚וֹי]] [[H5162G\|אֶנָּחֵ֣ם]] [[H9006\|מִ]][[H6862C\|צָּרַ֔]][[H9020\|י]] [[H9002\|וְ]][[H5358\|אִנָּקְמָ֖ה]] [[H9006\|מֵ]][[H0341\|אוֹיְבָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.23|<< Isaiah 1:23]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.25|Isaiah 1:25 >>]]</td></tr></table>
 

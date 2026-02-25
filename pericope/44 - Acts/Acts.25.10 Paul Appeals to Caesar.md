@@ -1,26 +1,33 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul Appeals to Caesar
+type: Pericope
 pericope: "[[Acts.25.10 Paul Appeals to Caesar|Paul Appeals to Caesar]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: Acts
 chapter: 25
 book/chapter: "[[Acts.25|Acts 25]]"
-genre:
+chronological_order: 1107
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 3
 verses:
 - "[[Acts.25.10]]"
 - "[[Acts.25.11]]"
 - "[[Acts.25.12]]"
 ---
 
-[[Acts.25|Acts 25:10 - Acts 25:12]]
+<small>[[Acts.25|Acts 25:10-12]]</small>
 *Paul Appeals to Caesar*
 
 [[Acts.25.10|10]] Then said Paul, I stand at Caesar’s judgment seat, where I ought to be judged: to the Jews have I done no wrong, as thou very well knowest.

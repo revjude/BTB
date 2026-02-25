@@ -1,9 +1,65 @@
+---
+title: LXX Judges 19:26
+type: Verse
+lxx: "And the woman came in the morning, and fell by the door of the vestibule of the house of the man of whom her master was there, until of which time light shown through."
+greek: "και ήλθεν η γυνή τοπρωϊ και έπεσε παρά την θύραν του πυλώνος του οίκου του ανδρός ου ην ο κυριός αυτής εκεί έως ου διέφαυσε"
+original_language: Greek
+testament: Old
+book: Judges
+chapter: 19
+book/chapter: "[[Judg.19|Judges 19]]"
+chronological_order: 273
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GIBEAH|GIBEAH]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic RAPE|RAPE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G1135]]"
+- "[[G4404]]"
+- "[[G2532]]"
+- "[[G4098]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G2374]]"
+- "[[G3588]]"
+- "[[G4440]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G3588]]"
+- "[[G0435]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G1473]]"
+- "[[G1563]]"
+- "[[G2193]]"
+- "[[G3739]]"
+- "[[G6898]]"
+---
+
 **LXX Judges 19:26** 
 
 ***The Levite's Concubine Perishes***
 
 <small><sub>**LXX:**</sub></small>
 And the woman came in the morning, and fell by the door of the vestibule of the house of the man of whom her master was there, until of which \[time\] light shown through. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2064\|ήλθεν]] [[G3588\|η]] [[G1135\|γυνή]] [[G4404\|τοπρωϊ]] [[G2532\|και]] [[G4098\|έπεσε]] [[G3844\|παρά]] [[G3588\|την]] [[G2374\|θύραν]] [[G3588\|του]] [[G4440\|πυλώνος]] [[G3588\|του]] [[G3624\|οίκου]] [[G3588\|του]] [[G0435\|ανδρός]] [[G3739\|ου]] [[G1510\|ην]] [[G3588\|ο]] [[G2962\|κυριός]] [[G1473\|αυτής]] [[G1563\|εκεί]] [[G2193\|έως]] [[G3739\|ου]] [[G6898\|διέφαυσε]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIBEAH|GIBEAH]] • [[topic HOMICIDE|HOMICIDE]] • [[topic RAPE|RAPE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Judg.19.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.25|<< Judges 19:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.27|Judges 19:27 >>]]</td></tr></table>
 
@@ -33,6 +89,6 @@ And the woman came in the morning, and fell by the door of the vestibule of the 
 | until | **<big>[[G2193\|έως]]</big>** |
 | of which \[time\] | **<big>[[G3739\|ου]]</big>** |
 | light shown through. | **<big>[[G6898\|διέφαυσε]]</big>** |
-[[Judg.19.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.25|<< Judges 19:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.27|Judges 19:27 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.25|<< Judges 19:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.27|Judges 19:27 >>]]</td></tr></table>
 
 

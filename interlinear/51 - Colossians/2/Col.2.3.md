@@ -1,10 +1,53 @@
+---
+title: Colossians 2:3
+type: Verse
+kjv: "In whom are hid all the treasures of wisdom and knowledge."
+bsb: "in whom are hidden all the treasures of wisdom and knowledge."
+greek: "ἐν ᾧ εἰσιν πάντες οἱ θησαυροὶ τῆς σοφίας καὶ τῆς γνώσεως ἀπόκρυφοι·"
+pericope: "[[Col.2.1 Absent in Body, Present in Spirit|Absent in Body, Present in Spirit]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 2
+book/chapter: "[[Col.2|Colossians 2]]"
+chronological_order: 1122
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TREASURE|TREASURE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2344]]"
+- "[[G4678]]"
+- "[[G2532]]"
+- "[[G1108]]"
+- "[[G0614]]"
+texts:
+- NKO
+- k
+---
+
 **Colossians 2:3**<big><big>[[Col.2.1 Absent in Body, Present in Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 In whom are hid all the treasures of wisdom and knowledge.
 <small><sub>**BSB:**</sub></small>
 in whom are hidden all the treasures of wisdom and knowledge.
-<small><sub>**Literal:**</sub></small>
-in whom are all the treasures <the> of wisdom and <the> of knowledge hidden;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.2|<< Colossians 2:2]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.4|Colossians 2:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3739\|ᾧ]]  [[G1510\|εἰσιν]]  [[G3956\|πάντες]]  [[G3588\|οἱ]]  [[G2344\|θησαυροὶ]]  [[G3588\|τῆς]]  [[G4678\|σοφίας]]  [[G2532\|καὶ]]  [[G3588\|τῆς]]  [[G1108\|γνώσεως]]  [[G0614\|ἀπόκρυφοι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TREASURE|TREASURE]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.2|<< Colossians 2:2]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.4|Colossians 2:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

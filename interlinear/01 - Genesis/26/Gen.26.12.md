@@ -1,8 +1,59 @@
+---
+title: Genesis 26:12
+type: Verse
+kjv: "Then Isaac sowed in that land, and received in the same year an hundredfold: and the LORD blessed him."
+bsb: "Now Isaac sowed seed in the land, and that very year he reaped a hundredfold. And the LORD blessed him,"
+hebrew: "וַיִּזְרַ֤ע יִצְחָק֙ בָּאָ֣רֶץ הַהִ֔וא וַיִּמְצָ֛א בַּשָּׁנָ֥ה הַהִ֖וא מֵאָ֣ה שְׁעָרִ֑ים וַֽיְבָרֲכֵ֖הוּ יְהוָֽה׃"
+pericope: "[[Gen.26.12 Isaac’s Prosperity|Isaac’s Prosperity]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 26
+book/chapter: "[[Gen.26|Genesis 26]]"
+chronological_order: 68
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic ISAAC|ISAAC]]"
+strongs:
+- "[[H9001]]"
+- "[[H2232]]"
+- "[[H3327]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H4672]]"
+- "[[H8141]]"
+- "[[H3967]]"
+- "[[H8180]]"
+- "[[H1288]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 26:12**<big><big>[[Gen.26.12 Isaac’s Prosperity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Isaac sowed in that land, and received in the same year an hundredfold: and the LORD blessed him.
 <small><sub>**BSB:**</sub></small>
 Now Isaac sowed seed in the land, and that very year he reaped a hundredfold. And the LORD blessed him,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2232\|יִּזְרַ֤ע]] [[H3327\|יִצְחָק֙]] [[H9003\|בָּ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H1931\|הִ֔וא]] [[H9001\|וַ]][[H4672\|יִּמְצָ֛א]] [[H9003\|בַּ]][[H8141\|שָּׁנָ֥ה]] [[H9009\|הַ]][[H1931\|הִ֖וא]] [[H3967\|מֵאָ֣ה]] [[H8180\|שְׁעָרִ֑ים]] [[H9001\|וַֽ]][[H1288\|יְבָרֲכֵ֖]][[H9033\|הוּ]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic ISAAC|ISAAC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.11|<< Genesis 26:11]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.13|Genesis 26:13 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Reproof of False Prophets
+type: Pericope
 pericope: "[[Ezek.13.1 Reproof of False Prophets|Reproof of False Prophets]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 13
 book/chapter: "[[Ezek.13|Ezekiel 13]]"
-genre:
+chronological_order: 804
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 16
 verses:
 - "[[Ezek.13.1]]"
 - "[[Ezek.13.2]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Ezek.13.16]]"
 ---
 
-[[Ezek.13|Ezekiel 13:1 - Ezekiel 13:16]]
+<small>[[Ezek.13|Ezekiel 13:1-16]]</small>
 *Reproof of False Prophets*
 
 [[Ezek.13.1|1]] And the word of the LORD came unto me, saying,

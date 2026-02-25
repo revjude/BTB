@@ -1,10 +1,56 @@
+---
+title: John 7:40
+type: Verse
+kjv: "Many of the people therefore, when they heard this saying, said, Of a truth this is the Prophet."
+bsb: "On hearing these words, some of the people said, “This is truly the Prophet.”"
+greek: "Πολλοὶ ἐκ τοῦ ὄχλου οὖν ἀκούσαντες τῶν λόγων τούτων ἔλεγον ὅτι· οὗτός ἐστιν ἀληθῶς ὁ προφήτης."
+pericope: "[[John.7.40 Division over Jesus|Division over Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G4183]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G3767]]"
+- "[[G0191]]"
+- "[[G3056]]"
+- "[[G3778]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G1510]]"
+- "[[G0230]]"
+- "[[G4396]]"
+texts:
+- K
+- NKO
+- N(k)O
+- o
+---
+
 **John 7:40**<big><big>[[John.7.40 Division over Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Many of the people therefore, when they heard this saying, said, Of a truth this is the Prophet.
 <small><sub>**BSB:**</sub></small>
 On hearing these words, some of the people said, “This is truly the Prophet.”
-<small><sub>**Literal:**</sub></small>
-many from the crowd therefore having heard the words these were saying that: This is truly the Prophet.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.39|<< John 7:39]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.41|John 7:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4183\|Πολλοὶ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3793\|ὄχλου]]  [[G3767\|οὖν]]  [[G0191\|ἀκούσαντες]]  [[G3588\|τῶν]]  [[G3056\|λόγων]]  [[G3778\|τούτων]]  [[G3004G\|ἔλεγον]]  [[G3754G\|ὅτι·]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G0230\|ἀληθῶς]]  [[G3588\|ὁ]]  [[G4396\|προφήτης.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.39|<< John 7:39]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.41|John 7:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

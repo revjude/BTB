@@ -1,10 +1,63 @@
+---
+title: Romans 10:12
+type: Verse
+kjv: "For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him."
+bsb: "For there is no difference between Jew and Greek: The same Lord is Lord of all, and gives richly to all who call on Him,"
+greek: "οὐ γάρ ἐστιν διαστολὴ Ἰουδαίου τε καὶ Ἕλληνος· ὁ γὰρ αὐτὸς κύριος πάντων πλουτῶν εἰς πάντας τοὺς ἐπικαλουμένους αὐτόν."
+pericope: "[[Rom.10.1 The Word Brings Salvation|The Word Brings Salvation]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 10
+book/chapter: "[[Rom.10|Romans 10]]"
+chronological_order: 1096
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic GREECE|GREECE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RESPECT OF PERSONS|RESPECT OF PERSONS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G1293]]"
+- "[[G2453]]"
+- "[[G5037]]"
+- "[[G2532]]"
+- "[[G1672]]"
+- "[[G3588]]"
+- "[[G0846]]"
+- "[[G2962G]]"
+- "[[G3956]]"
+- "[[G4147]]"
+- "[[G1519]]"
+- "[[G1941]]"
+texts:
+- NKO
+---
+
 **Romans 10:12**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him.
 <small><sub>**BSB:**</sub></small>
 For there is no difference between Jew and Greek: The same Lord is Lord of all, and gives richly to all who call on Him,
-<small><sub>**Literal:**</sub></small>
-Not for there is difference Jew between and Greek; <the> for the same Lord of all is rich toward all those calling Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.11|<< Romans 10:11]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.13|Romans 10:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G1063\|γάρ]]  [[G1510\|ἐστιν]]  [[G1293\|διαστολὴ]]  [[G2453\|Ἰουδαίου]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G1672\|Ἕλληνος·]]  [[G3588\|ὁ]]  [[G1063\|γὰρ]]  [[G0846\|αὐτὸς]]  [[G2962G\|κύριος]]  [[G3956\|πάντων]]  [[G4147\|πλουτῶν]]  [[G1519\|εἰς]]  [[G3956\|πάντας]]  [[G3588\|τοὺς]]  [[G1941\|ἐπικαλουμένους]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic GREECE|GREECE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic PENITENT|PENITENT]] • [[topic PRAYER|PRAYER]] • [[topic RELIGION|RELIGION]] • [[topic RESPECT OF PERSONS|RESPECT OF PERSONS]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.11|<< Romans 10:11]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.13|Romans 10:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

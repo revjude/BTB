@@ -1,8 +1,64 @@
+---
+title: Psalm 59:11
+type: Verse
+kjv: "Slay them not, lest my people forget: scatter them by thy power; and bring them down, O Lord our shield."
+bsb: "Do not kill them, or my people will forget. Scatter them by Your power, and bring them down, O Lord, our shield."
+hebrew: "אַל־ תַּהַרְגֵ֤ם׀ פֶּֽן־ יִשְׁכְּח֬וּ עַמִּ֗י הֲנִיעֵ֣מוֹ בְ֭חֵילְךָ וְהוֹרִידֵ֑מוֹ מָֽגִנֵּ֣נוּ אֲדֹנָֽי׃"
+pericope: "[[Ps.59.1 Deliver Me from My Enemies|Deliver Me from My Enemies]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 59
+book/chapter: "[[Ps.59|Psalm 59]]"
+chronological_order: 317
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SHIELD|SHIELD]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H2026]]"
+- "[[H9038]]"
+- "[[H9015]]"
+- "[[H6435]]"
+- "[[H7911]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H5128]]"
+- "[[H9003]]"
+- "[[H2428G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3381]]"
+- "[[H4043]]"
+- "[[H9025]]"
+- "[[H0136]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 59:11**<big><big>[[Ps.59.1 Deliver Me from My Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Slay them not, lest my people forget: scatter them by thy power; and bring them down, O Lord our shield.
 <small><sub>**BSB:**</sub></small>
 Do not kill them, or my people will forget. Scatter them by Your power, and bring them down, O Lord, our shield.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H2026\|תַּהַרְגֵ֤]][[H9038\|ם]][[H9015\|׀]] [[H6435\|פֶּֽן]][[H9014\|־]] [[H7911\|יִשְׁכְּח֬וּ]] [[H5971A\|עַמִּ֗]][[H9020\|י]] [[H5128\|הֲנִיעֵ֣]][[H9038\|מוֹ]] [[H9003\|בְ֭]][[H2428G\|חֵילְ]][[H9021\|ךָ]] [[H9002\|וְ]][[H3381\|הוֹרִידֵ֑]][[H9038\|מוֹ]] [[H4043\|מָֽגִנֵּ֣]][[H9025\|נוּ]] [[H0136\|אֲדֹנָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAYER|PRAYER]] • [[topic SHIELD|SHIELD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.59.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59.10|<< Psalms 59:10]]</td><td align="center" style="border:none;">[[Ps.59|Psalms 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.12|Psalms 59:12 >>]]</td></tr></table>
 

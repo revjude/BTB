@@ -1,8 +1,63 @@
+---
+title: Genesis 13:4
+type: Verse
+kjv: "Unto the place of the altar, which he had made there at the first: and there Abram called on the name of the LORD."
+bsb: "to the site where he had built the altar. And there Abram called on the name of the LORD."
+hebrew: "אֶל־ מְקוֹם֙ הַמִּזְבֵּ֔חַ אֲשֶׁר־ עָ֥שָׂה שָׁ֖ם בָּרִאשֹׁנָ֑ה וַיִּקְרָ֥א שָׁ֛ם אַבְרָ֖ם בְּשֵׁ֥ם יְהוָֽה׃"
+pericope: "[[Gen.13.1 Abram and Lot Part Ways|Abram and Lot Part Ways]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 13
+book/chapter: "[[Gen.13|Genesis 13]]"
+chronological_order: 55
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4725]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H8033G]]"
+- "[[H9003]]"
+- "[[H7223G]]"
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H0087]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 13:4**<big><big>[[Gen.13.1 Abram and Lot Part Ways|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unto the place of the altar, which he had made there at the first: and there Abram called on the name of the LORD.
 <small><sub>**BSB:**</sub></small>
 to the site where he had built the altar. And there Abram called on the name of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H0413\|אֶל]][[H9014\|־]] [[H4725\|מְקוֹם֙]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֔חַ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213H\|עָ֥שָׂה]] [[H8033G\|שָׁ֖ם]] [[H9003\|בָּ]][[H7223G\|רִאשֹׁנָ֑ה]] [[H9001\|וַ]][[H7121G\|יִּקְרָ֥א]] [[H8033G\|שָׁ֛ם]] [[H0087\|אַבְרָ֖ם]] [[H9003\|בְּ]][[H8034\|שֵׁ֥ם]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BETH-EL|BETH-EL]] • [[topic FAMILY|FAMILY]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.13.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.13.3|<< Genesis 13:3]]</td><td align="center" style="border:none;">[[Gen.13|Genesis 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.13.5|Genesis 13:5 >>]]</td></tr></table>
 

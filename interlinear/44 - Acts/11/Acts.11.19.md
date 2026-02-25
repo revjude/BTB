@@ -1,10 +1,65 @@
+---
+title: Acts 11:19
+type: Verse
+kjv: "Now they which were scattered abroad upon the persecution that arose about Stephen travelled as far as Phenice, and Cyprus, and Antioch, preaching the word to none but unto the Jews only."
+bsb: "Meanwhile those scattered by the persecution that began with Stephen traveled as far as Phoenicia, Cyprus, and Antioch, speaking the message only to Jews."
+greek: "Οἱ μὲν οὖν διασπαρέντες ἀπὸ τῆς θλίψεως τῆς γενομένης ἐπὶ Στεφάνῳ διῆλθον ἕως Φοινίκης καὶ Κύπρου καὶ Ἀντιοχείας μηδενὶ λαλοῦντες τὸν λόγον εἰ μὴ μόνον Ἰουδαίοις.¶"
+pericope: "[[Acts.11.19 The Church at Antioch|The Church at Antioch]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 11
+book/chapter: "[[Acts.11|Acts 11]]"
+chronological_order: 1029
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic CYPRUS|CYPRUS]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G1289]]"
+- "[[G0575]]"
+- "[[G2347]]"
+- "[[G1096]]"
+- "[[G1909]]"
+- "[[G4736]]"
+- "[[G1330]]"
+- "[[G2193]]"
+- "[[G5403]]"
+- "[[G2532]]"
+- "[[G2954]]"
+- "[[G0490G]]"
+- "[[G3367]]"
+- "[[G2980]]"
+- "[[G3056]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G3441]]"
+- "[[G2453]]"
+texts:
+- NKO
+---
+
 **Acts 11:19**<big><big>[[Acts.11.19 The Church at Antioch|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now they which were scattered abroad upon the persecution that arose about Stephen travelled as far as Phenice, and Cyprus, and Antioch, preaching the word to none but unto the Jews only.
 <small><sub>**BSB:**</sub></small>
 Meanwhile those scattered by the persecution that began with Stephen traveled as far as Phoenicia, Cyprus, and Antioch, speaking the message only to Jews.
-<small><sub>**Literal:**</sub></small>
-Those indeed therefore having been scattered by the tribulation <the> having taken place over Stephen passed through until Phoenicia and Cyprus and Antioch to no one speaking the word only except solely to Jews.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.18|<< Acts 11:18]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.20|Acts 11:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Οἱ]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G1289\|διασπαρέντες]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G2347\|θλίψεως]]  [[G3588\|τῆς]]  [[G1096\|γενομένης]]  [[G1909\|ἐπὶ]]  [[G4736\|Στεφάνῳ]]  [[G1330\|διῆλθον]]  [[G2193\|ἕως]]  [[G5403\|Φοινίκης]]  [[G2532\|καὶ]]  [[G2954\|Κύπρου]]  [[G2532\|καὶ]]  [[G0490G\|Ἀντιοχείας]]  [[G3367\|μηδενὶ]]  [[G2980\|λαλοῦντες]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G3441\|μόνον]]  [[G2453\|Ἰουδαίοις.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic CYPRUS|CYPRUS]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PERSECUTION|PERSECUTION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.18|<< Acts 11:18]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.20|Acts 11:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

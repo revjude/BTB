@@ -1,8 +1,55 @@
+---
+title: Proverbs 31:11
+type: Verse
+kjv: "The heart of her husband doth safely trust in her, so that he shall have no need of spoil."
+bsb: "The heart of her husband trusts in her, and he lacks nothing of value."
+hebrew: "בָּ֣טַח בָּ֭הּ לֵ֣ב בַּעְלָ֑הּ וְ֝שָׁלָ֗ל לֹ֣א יֶחְסָֽר׃"
+pericope: "[[Prov.31.10 The Virtues of a Noble Woman|The Virtues of a Noble Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 31
+book/chapter: "[[Prov.31|Proverbs 31]]"
+chronological_order: 486
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H0982]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H3820A]]"
+- "[[H1167H]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H7998]]"
+- "[[H3808]]"
+- "[[H2637]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 31:11**<big><big>[[Prov.31.10 The Virtues of a Noble Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The heart of her husband doth safely trust in her, so that he shall have no need of spoil.
 <small><sub>**BSB:**</sub></small>
 The heart of her husband trusts in her, and he lacks nothing of value.
+<small><sub>**Hebrew:**</sub></small>
+[[H0982\|בָּ֣טַח]] [[H9003\|בָּ֭]][[H9034\|הּ]] [[H3820A\|לֵ֣ב]] [[H1167H\|בַּעְלָ֑]][[H9024\|הּ]] [[H9002\|וְ֝]][[H7998\|שָׁלָ֗ל]] [[H3808\|לֹ֣א]] [[H2637\|יֶחְסָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic ECONOMICS|ECONOMICS]] • [[topic POETRY|POETRY]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.10|<< Proverbs 31:10]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.12|Proverbs 31:12 >>]]</td></tr></table>
 

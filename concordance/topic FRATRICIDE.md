@@ -9,7 +9,7 @@
 
 - Absalom [[2Sam.13.28|2Sa 13:28]],[[2Sam.13.29|29]]
 
-- Solomon [[1Kgs.2.23|1Ki 2:23]]-[[1Kgs.2.25|25]]
+- Solomon [[1Kgs.2.23|1Ki 2:23-25]]
 
 - Jehoram [[2Chr.21.4|2Ch 21:4]]
 

@@ -1,8 +1,65 @@
+---
+title: Ezekiel 28:7
+type: Verse
+kjv: "Behold, therefore I will bring strangers upon thee, the terrible of the nations: and they shall draw their swords against the beauty of thy wisdom, and they shall defile thy brightness."
+bsb: "behold, I will bring foreigners against you, the most ruthless of nations. They will draw their swords against the beauty of your wisdom and will defile your splendor."
+hebrew: "לָכֵ֗ן הִנְנִ֨י מֵבִ֤יא עָלֶ֙יךָ֙ זָרִ֔ים עָרִיצֵ֖י גּוֹיִ֑ם וְהֵרִ֤יקוּ חַרְבוֹתָם֙ עַל־ יְפִ֣י חָכְמָתֶ֔ךָ וְחִלְּל֖וּ יִפְעָתֶֽךָ׃"
+pericope: "[[Ezek.28.1 A Prophecy against the Ruler of Tyre|A Prophecy against the Ruler of Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 28
+book/chapter: "[[Ezek.28|Ezekiel 28]]"
+chronological_order: 819
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0935P]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H2114A]]"
+- "[[H6184]]"
+- "[[H1471A]]"
+- "[[H9001]]"
+- "[[H7324]]"
+- "[[H2719]]"
+- "[[H9028]]"
+- "[[H9014]]"
+- "[[H3308]]"
+- "[[H2451]]"
+- "[[H9021]]"
+- "[[H2490H]]"
+- "[[H3314]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 28:7**<big><big>[[Ezek.28.1 A Prophecy against the Ruler of Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, therefore I will bring strangers upon thee, the terrible of the nations: and they shall draw their swords against the beauty of thy wisdom, and they shall defile thy brightness.
 <small><sub>**BSB:**</sub></small>
 behold, I will bring foreigners against you, the most ruthless of nations. They will draw their swords against the beauty of your wisdom and will defile your splendor.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H0935P\|מֵבִ֤יא]] [[H5921A\|עָלֶ֙י]][[H9031\|ךָ֙]] [[H2114A\|זָרִ֔ים]] [[H6184\|עָרִיצֵ֖י]] [[H1471A\|גּוֹיִ֑ם]] [[H9001\|וְ]][[H7324\|הֵרִ֤יקוּ]] [[H2719\|חַרְבוֹתָ]][[H9028\|ם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3308\|יְפִ֣י]] [[H2451\|חָכְמָתֶ֔]][[H9021\|ךָ]] [[H9001\|וְ]][[H2490H\|חִלְּל֖וּ]] [[H3314\|יִפְעָתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.6|<< Ezekiel 28:6]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.8|Ezekiel 28:8 >>]]</td></tr></table>
 

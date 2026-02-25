@@ -1,8 +1,65 @@
+---
+title: Ezekiel 45:4
+type: Verse
+kjv: "The holy portion of the land shall be for the priests the ministers of the sanctuary, which shall come near to minister unto the LORD: and it shall be a place for their houses, and an holy place for the sanctuary."
+bsb: "It will be a holy portion of the land to be used by the priests who minister in the sanctuary, who draw near to minister before the LORD. It will be a place for their houses, as well as a holy area for the sanctuary."
+hebrew: "קֹ֣דֶשׁ מִן־ הָאָ֜רֶץ ה֗וּא לַכֹּ֨הֲנִ֜ים מְשָׁרְתֵ֤י הַמִּקְדָּשׁ֙ יִֽהְיֶ֔ה הַקְּרֵבִ֖ים לְשָׁרֵ֣ת אֶת־ יְהוָ֑ה וְהָיָ֨ה לָהֶ֤ם מָקוֹם֙ לְבָ֣תִּ֔ים וּמִקְדָּ֖שׁ לַמִּקְדָּֽשׁ׃"
+pericope: "[[Ezek.45.1 Consecration of the Land|Consecration of the Land]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 45
+book/chapter: "[[Ezek.45|Ezekiel 45]]"
+chronological_order: 836
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H6944G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H3548]]"
+- "[[H8334]]"
+- "[[H4720]]"
+- "[[H1961]]"
+- "[[H7131]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H9038]]"
+- "[[H4725]]"
+- "[[H1004B]]"
+- "[[H9002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 45:4**<big><big>[[Ezek.45.1 Consecration of the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The holy [portion] of the land shall be for the priests the ministers of the sanctuary, which shall come near to minister unto the LORD: and it shall be a place for their houses, and an holy place for the sanctuary.
 <small><sub>**BSB:**</sub></small>
 It will be a holy portion of the land to be used by the priests who minister in the sanctuary, who draw near to minister before the LORD. It will be a place for their houses, as well as a holy area for the sanctuary.
+<small><sub>**Hebrew:**</sub></small>
+[[H6944G\|קֹ֣דֶשׁ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֜רֶץ]] [[H1931\|ה֗וּא]] [[H9005\|לַ]][[H3548\|כֹּ֨הֲנִ֜ים]] [[H8334\|מְשָׁרְתֵ֤י]] [[H9009\|הַ]][[H4720\|מִּקְדָּשׁ֙]] [[H1961\|יִֽהְיֶ֔ה]] [[H9009\|הַ]][[H7131\|קְּרֵבִ֖ים]] [[H9005\|לְ]][[H8334\|שָׁרֵ֣ת]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וְ]][[H1961\|הָיָ֨ה]] [[H9005\|לָ]][[H9038\|הֶ֤ם]] [[H4725\|מָקוֹם֙]] [[H9005\|לְ]][[H1004B\|בָ֣תִּ֔ים]] [[H9002\|וּ]][[H4720\|מִקְדָּ֖שׁ]] [[H9005\|לַ]][[H4720\|מִּקְדָּֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.3|<< Ezekiel 45:3]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.5|Ezekiel 45:5 >>]]</td></tr></table>
 

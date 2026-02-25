@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: An End to Idolatry
+type: Pericope
 pericope: "[[Zech.13.1 An End to Idolatry|An End to Idolatry]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Zechariah
 chapter: 13
 book/chapter: "[[Zech.13|Zechariah 13]]"
-genre:
+chronological_order: 869
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - visionary
 - apocalyptic
 - post exilic
+verse_count: 6
 verses:
 - "[[Zech.13.1]]"
 - "[[Zech.13.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Zech.13.6]]"
 ---
 
-[[Zech.13|Zechariah 13:1 - Zechariah 13:6]]
+<small>[[Zech.13|Zechariah 13:1-6]]</small>
 *An End to Idolatry*
 
 [[Zech.13.1|1]] In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness.

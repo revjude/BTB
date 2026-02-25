@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God Promises Deliverance
+type: Pericope
 pericope: "[[Exod.6.1 God Promises Deliverance|God Promises Deliverance]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 6
 book/chapter: "[[Exod.6|Exodus 6]]"
-genre:
+chronological_order: 98
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 13
 verses:
 - "[[Exod.6.1]]"
 - "[[Exod.6.2]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Exod.6.13]]"
 ---
 
-[[Exod.6|Exodus 6:1 - Exodus 6:13]]
+<small>[[Exod.6|Exodus 6:1-13]]</small>
 *God Promises Deliverance*
 
 [[Exod.6.1|1]] Then the LORD said unto Moses, Now shalt thou see what I will do to Pharaoh: for with a strong hand shall he let them go, and with a strong hand shall he drive them out of his land.

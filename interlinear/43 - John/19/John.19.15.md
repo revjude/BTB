@@ -1,10 +1,69 @@
+---
+title: John 19:15
+type: Verse
+kjv: "But they cried out, Away with him, away with him, crucify him. Pilate saith unto them, Shall I crucify your King? The chief priests answered, We have no king but Caesar."
+bsb: "At this, they shouted, “Away with Him! Away with Him! Crucify Him!” “Shall I crucify your King?” Pilate asked. “We have no king but Caesar,” replied the chief priests."
+greek: "οἱ δὲ ἐκραύγασαν οὖν ἐκεῖνοι· ἆρον ἆρον, σταύρωσον αὐτόν. λέγει αὐτοῖς ὁ Πιλᾶτος· τὸν βασιλέα ὑμῶν σταυρώσω;¶ ἀπεκρίθησαν οἱ ἀρχιερεῖς· οὐκ ἔχομεν βασιλέα εἰ μὴ Καίσαρα.¶"
+pericope: "[[John.19.1 The Soldiers Mock Jesus|The Soldiers Mock Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COMPLICITY|COMPLICITY]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic IRONY|IRONY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SARCASM|SARCASM]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2905]]"
+- "[[G3767]]"
+- "[[G1565]]"
+- "[[G0142]]"
+- "[[G4717]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G4091]]"
+- "[[G0935]]"
+- "[[G4771]]"
+- "[[G0611]]"
+- "[[G0749]]"
+- "[[G3756]]"
+- "[[G2192]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G2541]]"
+texts:
+- k
+- NKO
+- NO
+---
+
 **John 19:15**<big><big>[[John.19.1 The Soldiers Mock Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But they cried out, Away with [him], away with [him], crucify him. Pilate saith unto them, Shall I crucify your King? The chief priests answered, We have no king but Caesar.
 <small><sub>**BSB:**</sub></small>
 At this, they shouted, “Away with Him! Away with Him! Crucify Him!” “Shall I crucify your King?” Pilate asked. “We have no king but Caesar,” replied the chief priests.
-<small><sub>**Literal:**</sub></small>
-<the> now They cried out therefore concerning Him: away away! do crucify Him! Says to them <the> Pilate; The King of you shall I crucify? Answered the chief priests; Not we have a king only except Caesar.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.14|<< John 19:14]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.16|John 19:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2905\|ἐκραύγασαν]]  [[G3767\|οὖν]]  [[G1565\|ἐκεῖνοι·]]  [[G0142\|ἆρον]]  [[G0142\|ἆρον,]]  [[G4717\|σταύρωσον]]  [[G0846\|αὐτόν.]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G4091\|Πιλᾶτος·]]  [[G3588\|τὸν]]  [[G0935\|βασιλέα]]  [[G4771\|ὑμῶν]]  [[G4717\|σταυρώσω;¶]]  [[G0611\|ἀπεκρίθησαν]]  [[G3588\|οἱ]]  [[G0749\|ἀρχιερεῖς·]]  [[G3756\|οὐκ]]  [[G2192\|ἔχομεν]]  [[G0935\|βασιλέα]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G2541\|Καίσαρα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPLICITY|COMPLICITY]] • [[topic COWARDICE|COWARDICE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic IRONY|IRONY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PRIEST|PRIEST]] • [[topic SARCASM|SARCASM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.14|<< John 19:14]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.16|John 19:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

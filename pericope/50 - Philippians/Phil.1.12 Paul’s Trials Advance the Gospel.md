@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Trials Advance the Gospel
+type: Pericope
 pericope: "[[Phil.1.12 Paul’s Trials Advance the Gospel|Paul’s Trials Advance the Gospel]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Philippians
 chapter: 1
 book/chapter: "[[Phil.1|Philippians 1]]"
-genre:
+chronological_order: 1117
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - pastoral letter
+verse_count: 9
 verses:
 - "[[Phil.1.12]]"
 - "[[Phil.1.13]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Phil.1.20]]"
 ---
 
-[[Phil.1|Philippians 1:12 - Philippians 1:20]]
+<small>[[Phil.1|Philippians 1:12-20]]</small>
 *Paul’s Trials Advance the Gospel*
 
 [[Phil.1.12|12]] But I would ye should understand, brethren, that the things \[which happened\] unto me have fallen out rather unto the furtherance of the gospel;

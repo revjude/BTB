@@ -1,8 +1,70 @@
+---
+title: 2 Kings 10:9
+type: Verse
+kjv: "And it came to pass in the morning, that he went out, and stood, and said to all the people, Ye be righteous: behold, I conspired against my master, and slew him: but who slew all these?"
+bsb: "The next morning, Jehu went out and stood before all the people and said, “You are innocent. It was I who conspired against my master and killed him. But who killed all these?"
+hebrew: "וַיְהִ֤י בַבֹּ֙קֶר֙ וַיֵּצֵ֣א וַֽיַּעֲמֹ֔ד וַיֹּ֙אמֶר֙ אֶל־ כָּל־ הָעָ֔ם צַדִּקִ֖ים אַתֶּ֑ם הִנֵּ֨ה אֲנִ֜י קָשַׁ֤רְתִּי עַל־ אֲדֹנִי֙ וָאֶהְרְגֵ֔הוּ וּמִ֥י הִכָּ֖ה אֶת־ כָּל־ אֵֽלֶּה׃"
+pericope: "[[2Kgs.10.1 Ahab’s Seventy Sons Killed|Ahab’s Seventy Sons Killed]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 10
+book/chapter: "[[2Kgs.10|2 Kings 10]]"
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JEHU|JEHU]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H3318G]]"
+- "[[H5975G]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H6662]]"
+- "[[H0859D]]"
+- "[[H2009]]"
+- "[[H0589]]"
+- "[[H7194]]"
+- "[[H5921A]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H2026]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H4310]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 10:9**<big><big>[[2Kgs.10.1 Ahab’s Seventy Sons Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the morning, that he went out, and stood, and said to all the people, Ye [be] righteous: behold, I conspired against my master, and slew him: but who slew all these?
 <small><sub>**BSB:**</sub></small>
 The next morning, Jehu went out and stood before all the people and said, “You are innocent. It was I who conspired against my master and killed him. But who killed all these?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H9003\|בַ]][[H1242\|בֹּ֙קֶר֙]] [[H9001\|וַ]][[H3318G\|יֵּצֵ֣א]] [[H9001\|וַֽ]][[H5975G\|יַּעֲמֹ֔ד]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H6662\|צַדִּקִ֖ים]] [[H0859D\|אַתֶּ֑ם]] [[H2009\|הִנֵּ֨ה]] [[H0589\|אֲנִ֜י]] [[H7194\|קָשַׁ֤רְתִּי]] [[H5921A\|עַל]][[H9014\|־]] [[H0113\|אֲדֹנִ]][[H9020\|י֙]] [[H9001\|וָ]][[H2026\|אֶהְרְגֵ֔]][[H9033\|הוּ]] [[H9002\|וּ]][[H4310\|מִ֥י]] [[H5221\|הִכָּ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENTHUSIASM|ENTHUSIASM]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JEHU|JEHU]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.8|<< 2 Kings 10:8]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.10|2 Kings 10:10 >>]]</td></tr></table>
 

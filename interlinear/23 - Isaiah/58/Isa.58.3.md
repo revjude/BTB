@@ -1,8 +1,66 @@
+---
+title: Isaiah 58:3
+type: Verse
+kjv: "Wherefore have we fasted, say they, and thou seest not? wherefore have we afflicted our soul, and thou takest no knowledge? Behold, in the day of your fast ye find pleasure, and exact all your labours."
+bsb: "“Why have we fasted, and You have not seen? Why have we humbled ourselves, and You have not noticed?” “Behold, on the day of your fast, you do as you please, and you oppress all your workers."
+hebrew: "לָ֤מָּה צַּ֙מְנוּ֙ וְלֹ֣א רָאִ֔יתָ עִנִּ֥ינוּ נַפְשֵׁ֖נוּ וְלֹ֣א תֵדָ֑ע הֵ֣ן בְּי֤וֹם צֹֽמְכֶם֙ תִּמְצְאוּ־ חֵ֔פֶץ וְכָל־ עַצְּבֵיכֶ֖ם תִּנְגֹּֽשׂוּ׃"
+pericope: "[[Isa.58.1 True Fasts and Sabbaths|True Fasts and Sabbaths]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 58
+book/chapter: "[[Isa.58|Isaiah 58]]"
+chronological_order: 697
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic FASTING|FASTING]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H6684]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H6031B]]"
+- "[[H5315I]]"
+- "[[H9025]]"
+- "[[H3045]]"
+- "[[H2005]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H6685]]"
+- "[[H9026]]"
+- "[[H4672]]"
+- "[[H9014]]"
+- "[[H2656]]"
+- "[[H3605]]"
+- "[[H6092]]"
+- "[[H5065]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 58:3**<big><big>[[Isa.58.1 True Fasts and Sabbaths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore have we fasted, [say they], and thou seest not? [wherefore] have we afflicted our soul, and thou takest no knowledge? Behold, in the day of your fast ye find pleasure, and exact all your labours.
 <small><sub>**BSB:**</sub></small>
 “Why have we fasted, and You have not seen? Why have we humbled ourselves, and You have not noticed?” “Behold, on the day of your fast, you do as you please, and you oppress all your workers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ֤]][[H4100\|מָּה]] [[H6684\|צַּ֙מְנוּ֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H7200G\|רָאִ֔יתָ]] [[H6031B\|עִנִּ֥ינוּ]] [[H5315I\|נַפְשֵׁ֖]][[H9025\|נוּ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3045\|תֵדָ֑ע]] [[H2005\|הֵ֣ן]] [[H9003\|בְּ]][[H3117G\|י֤וֹם]] [[H6685\|צֹֽמְ]][[H9026\|כֶם֙]] [[H4672\|תִּמְצְאוּ]][[H9014\|־]] [[H2656\|חֵ֔פֶץ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H6092\|עַצְּבֵי]][[H9026\|כֶ֖ם]] [[H5065\|תִּנְגֹּֽשׂוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FASTING|FASTING]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic UNBELIEF|UNBELIEF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.58.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.58.2|<< Isaiah 58:2]]</td><td align="center" style="border:none;">[[Isa.58|Isaiah 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58.4|Isaiah 58:4 >>]]</td></tr></table>
 

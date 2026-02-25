@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Faith of the Centurion
+type: Pericope
 pericope: "[[Luke.7.1 The Faith of the Centurion|The Faith of the Centurion]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Luke
 chapter: 7
 book/chapter: "[[Luke.7|Luke 7]]"
-genre:
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 10
 verses:
 - "[[Luke.7.1]]"
 - "[[Luke.7.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Luke.7.10]]"
 ---
 
-[[Luke.7|Luke 7:1 - Luke 7:10]]
+<small>[[Luke.7|Luke 7:1-10]]</small>
 *The Faith of the Centurion*
 
 [[Luke.7.1|1]] Now when he had ended all his sayings in the audience of the people, he entered into Capernaum.

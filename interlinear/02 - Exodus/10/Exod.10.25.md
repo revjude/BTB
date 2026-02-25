@@ -1,8 +1,63 @@
+---
+title: Exodus 10:25
+type: Verse
+kjv: "And Moses said, Thou must give us also sacrifices and burnt offerings, that we may sacrifice unto the LORD our God."
+bsb: "But Moses replied, “You must also provide us with sacrifices and burnt offerings to present to the LORD our God."
+hebrew: "וַיֹּ֣אמֶר מֹשֶׁ֔ה גַּם־ אַתָּ֛ה תִּתֵּ֥ן בְּיָדֵ֖נוּ זְבָחִ֣ים וְעֹל֑וֹת וְעָשִׂ֖ינוּ לַיהוָ֥ה אֱלֹהֵֽינוּ׃"
+pericope: "[[Exod.10.21 The Ninth Plague：Darkness|The Ninth Plague：Darkness]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 10
+book/chapter: "[[Exod.10|Exodus 10]]"
+chronological_order: 102
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H5414K]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9025]]"
+- "[[H2077]]"
+- "[[H9002]]"
+- "[[H5930A]]"
+- "[[H6213I]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 10:25**<big><big>[[Exod.10.21 The Ninth Plague：Darkness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses said, Thou must give us also sacrifices and burnt offerings, that we may sacrifice unto the LORD our God.
 <small><sub>**BSB:**</sub></small>
 But Moses replied, “You must also provide us with sacrifices and burnt offerings to present to the LORD our God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H4872\|מֹשֶׁ֔ה]] [[H1571\|גַּם]][[H9014\|־]] [[H0859A\|אַתָּ֛ה]] [[H5414K\|תִּתֵּ֥ן]] [[H9003\|בְּ]][[H3027H\|יָדֵ֖]][[H9025\|נוּ]] [[H2077\|זְבָחִ֣ים]] [[H9002\|וְ]][[H5930A\|עֹל֑וֹת]] [[H9001\|וְ]][[H6213I\|עָשִׂ֖ינוּ]] [[H9005\|לַ]][[H3068G\|יהוָ֥ה]] [[H0430G\|אֱלֹהֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.24|<< Exodus 10:24]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.26|Exodus 10:26 >>]]</td></tr></table>
 

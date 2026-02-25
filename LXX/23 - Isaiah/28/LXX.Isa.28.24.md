@@ -1,6 +1,55 @@
+---
+title: LXX Isaiah 28:24
+type: Verse
+lxx: "Shall not the one plowing be about to plow the entire day? or the one sowing, will he not prepare beforehand to work the ground?"
+greek: "μη όλην την ημέραν μέλλει ο αροτριών αροτριάν η σπόρον προετοιμάσει πριν εργάσασθαι την γην"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 28
+book/chapter: "[[Isa.28|Isaiah 28]]"
+chronological_order: 671
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3361]]"
+- "[[G3650]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3195]]"
+- "[[G3588]]"
+- "[[G0722]]"
+- "[[G0722]]"
+- "[[G2228]]"
+- "[[G4703]]"
+- "[[G4282]]"
+- "[[G4250]]"
+- "[[G2038]]"
+- "[[G3588]]"
+- "[[G1093]]"
+---
+
 **LXX Isaiah 28:24** 
 <small><sub>**LXX:**</sub></small>
 Shall not the one plowing be about to plow \[the\] entire day? or \[the one\] sowing, will he \[not\] prepare beforehand to work the ground? 
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μη]] [[G3650\|όλην]] [[G3588\|την]] [[G2250\|ημέραν]] [[G3195\|μέλλει]] [[G3588\|ο]] [[G0722\|αροτριών]] [[G0722\|αροτριάν]] [[G2228\|η]] [[G4703\|σπόρον]] [[G4282\|προετοιμάσει]] [[G4250\|πριν]] [[G2038\|εργάσασθαι]] [[G3588\|την]] [[G1093\|γην]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic ISAIAH|ISAIAH]] • [[topic JUDGMENT|JUDGMENT]] • [[topic PARABLES|PARABLES]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.28.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.23|<< Isaiah 28:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.25|Isaiah 28:25 >>]]</td></tr></table>
 
@@ -21,6 +70,6 @@ Shall not the one plowing be about to plow \[the\] entire day? or \[the one\] so
 | to work | **<big>[[G2038\|εργάσασθαι]]</big>** |
 | the | **<big>[[G3588\|την]]</big>** |
 | ground? | **<big>[[G1093\|γην]]</big>** |
-[[Isa.28.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.23|<< Isaiah 28:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.25|Isaiah 28:25 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.23|<< Isaiah 28:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.25|Isaiah 28:25 >>]]</td></tr></table>
 
 

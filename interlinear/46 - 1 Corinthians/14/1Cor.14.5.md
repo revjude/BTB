@@ -1,10 +1,63 @@
+---
+title: 1 Corinthians 14:5
+type: Verse
+kjv: "I would that ye all spake with tongues, but rather that ye prophesied: for greater is he that prophesieth than he that speaketh with tongues, except he interpret, that the church may receive edifying."
+bsb: "I wish that all of you could speak in tongues, but I would rather have you prophesy. He who prophesies is greater than one who speaks in tongues, unless he interprets so that the church may be edified."
+greek: "Θέλω δὲ πάντας ὑμᾶς λαλεῖν γλώσσαις, μᾶλλον δὲ ἵνα προφητεύητε· μείζων δὲ ὁ προφητεύων ἢ ὁ λαλῶν γλώσσαις ἐκτὸς εἰ μὴ διερμηνεύῃ, ἵνα ἡ ἐκκλησία οἰκοδομὴν λάβῃ.¶"
+pericope: "[[1Cor.14.1 Prophecy and Tongues|Prophecy and Tongues]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 14
+book/chapter: "[[1Cor.14|1 Corinthians 14]]"
+chronological_order: 1071
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic INTERPRETER|INTERPRETER]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]"
+strongs:
+- "[[G2309]]"
+- "[[G1161]]"
+- "[[G3956]]"
+- "[[G4771]]"
+- "[[G2980]]"
+- "[[G1100]]"
+- "[[G3123G]]"
+- "[[G2443]]"
+- "[[G4395]]"
+- "[[G3173]]"
+- "[[G3588]]"
+- "[[G2228]]"
+- "[[G1622]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G1329]]"
+- "[[G1577]]"
+- "[[G3619]]"
+- "[[G2983]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+---
+
 **1 Corinthians 14:5**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I would that ye all spake with tongues, but rather that ye prophesied: for greater [is] he that prophesieth than he that speaketh with tongues, except he interpret, that the church may receive edifying.
 <small><sub>**BSB:**</sub></small>
 I wish that all of you could speak in tongues, but I would rather have you prophesy. He who prophesies is greater than one who speaks in tongues, unless he interprets so that the church may be edified.
-<small><sub>**Literal:**</sub></small>
-I desire now all you to speak in tongues, rather however that you may prophesy; greater [is] now the [one] prophesying than the [one] speaking in tongues except only unless he shall interpret, so that the church edification may receive.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.4|<< 1 Corinthians 14:4]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.6|1 Corinthians 14:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2309\|Θέλω]]  [[G1161\|δὲ]]  [[G3956\|πάντας]]  [[G4771\|ὑμᾶς]]  [[G2980\|λαλεῖν]]  [[G1100\|γλώσσαις,]]  [[G3123G\|μᾶλλον]]  [[G1161\|δὲ]]  [[G2443\|ἵνα]]  [[G4395\|προφητεύητε·]]  [[G3173\|μείζων]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G4395\|προφητεύων]]  [[G2228\|ἢ]]  [[G3588\|ὁ]]  [[G2980\|λαλῶν]]  [[G1100\|γλώσσαις]]  [[G1622\|ἐκτὸς]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G1329\|διερμηνεύῃ,]]  [[G2443\|ἵνα]]  [[G3588\|ἡ]]  [[G1577\|ἐκκλησία]]  [[G3619\|οἰκοδομὴν]]  [[G2983\|λάβῃ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERPRETER|INTERPRETER]] • [[topic LANGUAGE|LANGUAGE]] • [[topic PREACHING|PREACHING]] • [[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.4|<< 1 Corinthians 14:4]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.6|1 Corinthians 14:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

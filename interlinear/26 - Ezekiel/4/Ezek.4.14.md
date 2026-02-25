@@ -1,8 +1,71 @@
+---
+title: Ezekiel 4:14
+type: Verse
+kjv: "Then said I, Ah Lord GOD! behold, my soul hath not been polluted: for from my youth up even till now have I not eaten of that which dieth of itself, or is torn in pieces; neither came there abominable flesh into my mouth."
+bsb: "“Ah, Lord GOD,” I said, “I have never defiled myself. From my youth until now I have not eaten anything found dead or mauled by wild beasts. No unclean meat has ever entered my mouth.”"
+hebrew: "וָאֹמַ֗ר אֲהָהּ֙ אֲדֹנָ֣י יְהוִ֔ה הִנֵּ֥ה נַפְשִׁ֖י לֹ֣א מְטֻמָּאָ֑ה וּנְבֵלָ֨ה וּטְרֵפָ֤ה לֹֽא־ אָכַ֙לְתִּי֙ מִנְּעוּרַ֣י וְעַד־ עַ֔תָּה וְלֹא־ בָ֥א בְּפִ֖י בְּשַׂ֥ר פִּגּֽוּל׃ ס"
+pericope: "[[Ezek.4.9 The Defiled Bread|The Defiled Bread]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 4
+book/chapter: "[[Ezek.4|Ezekiel 4]]"
+chronological_order: 795
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0162]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2009]]"
+- "[[H5315I]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H2930A]]"
+- "[[H9002]]"
+- "[[H5038]]"
+- "[[H2966]]"
+- "[[H9014]]"
+- "[[H0398]]"
+- "[[H9006]]"
+- "[[H5271A]]"
+- "[[H5704]]"
+- "[[H6258]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H1320]]"
+- "[[H6292]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 4:14**<big><big>[[Ezek.4.9 The Defiled Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said I, Ah Lord GOD! behold, my soul hath not been polluted: for from my youth up even till now have I not eaten of that which dieth of itself, or is torn in pieces; neither came there abominable flesh into my mouth.
 <small><sub>**BSB:**</sub></small>
 “Ah, Lord GOD,” I said, “I have never defiled myself. From my youth until now I have not eaten anything found dead or mauled by wild beasts. No unclean meat has ever entered my mouth.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמַ֗ר]] [[H0162\|אֲהָהּ֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H2009\|הִנֵּ֥ה]] [[H5315I\|נַפְשִׁ֖]][[H9020\|י]] [[H3808\|לֹ֣א]] [[H2930A\|מְטֻמָּאָ֑ה]] [[H9002\|וּ]][[H5038\|נְבֵלָ֨ה]] [[H9002\|וּ]][[H2966\|טְרֵפָ֤ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0398\|אָכַ֙לְתִּי֙]] [[H9006\|מִ]][[H5271A\|נְּעוּרַ֣]][[H9020\|י]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H6258\|עַ֔תָּה]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H0935G\|בָ֥א]] [[H9003\|בְּ]][[H6310G\|פִ֖]][[H9020\|י]] [[H1320\|בְּשַׂ֥ר]] [[H6292\|פִּגּֽוּל]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic PRAYER|PRAYER]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4.13|<< Ezekiel 4:13]]</td><td align="center" style="border:none;">[[Ezek.4|Ezekiel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.4.15|Ezekiel 4:15 >>]]</td></tr></table>
 
@@ -27,7 +90,7 @@ Then said I, Ah Lord GOD! behold, my soul hath not been polluted: for from my yo
 | it has gone  |**<big>&#8207;[[H0935G\|בָ֥א]]&#8207; </big>**| va'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in mouth my  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6310G\|פִ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> F<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] flesh of  |**<big>&#8207;[[H1320\|בְּשַׂ֥ר]]&#8207; </big>**| be.Sar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| unclean meat  |**<big>&#8207;[[H6292\|פִּגּֽוּל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| pi.Gul<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| unclean meat  |**<big>&#8207;[[H6292\|פִּגּֽוּל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| pi.Gul<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4.13|<< Ezekiel 4:13]]</td><td align="center" style="border:none;">[[Ezek.4|Ezekiel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.4.15|Ezekiel 4:15 >>]]</td></tr></table>
 
 

@@ -1,10 +1,77 @@
+---
+title: Luke 19:15
+type: Verse
+kjv: "And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading."
+bsb: "When he returned from procuring his kingship, he summoned the servants to whom he had given the money, to find out what each one had earned."
+jesus_said: "And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading."
+greek: "καὶ ἐγένετο ἐν τῷ ἐπανελθεῖν αὐτὸν λαβόντα τὴν βασιλείαν καὶ εἶπεν φωνηθῆναι αὐτῷ τοὺς δούλους τούτους οἷς δεδώκει τὸ ἀργύριον, ἵνα γνοῖ τίς τί διεπραγματεύσαντο.¶"
+pericope: "[[Luke.19.11 The Parable of the Ten Minas|The Parable of the Ten Minas]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic POUND|POUND]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STEWARD|STEWARD]]"
+- "[[topic TRUSTEE|TRUSTEE]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1880]]"
+- "[[G0846]]"
+- "[[G2983]]"
+- "[[G0932]]"
+- "[[G2036]]"
+- "[[G5455]]"
+- "[[G1401]]"
+- "[[G3778]]"
+- "[[G3739]]"
+- "[[G1325]]"
+- "[[G0694]]"
+- "[[G2443]]"
+- "[[G1097]]"
+- "[[G5101]]"
+- "[[G1281]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Luke 19:15**<big><big>[[Luke.19.11 The Parable of the Ten Minas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading.
 <small><sub>**BSB:**</sub></small>
 When he returned from procuring his kingship, he summoned the servants to whom he had given the money, to find out what each one had earned.
-<small><sub>**Literal:**</sub></small>
-And it came to pass on the returning of him having received the kingdom that he directed to be called to him <the> servants these to whom he had given the money, in order that he may know who what they had gained by trading.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.14|<< Luke 19:14]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.16|Luke 19:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1096\|ἐγένετο]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G1880\|ἐπανελθεῖν]]  [[G0846\|αὐτὸν]]  [[G2983\|λαβόντα]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G5455\|φωνηθῆναι]]  [[G0846\|αὐτῷ]]  [[G3588\|τοὺς]]  [[G1401\|δούλους]]  [[G3778\|τούτους]]  [[G3739\|οἷς]]  [[G1325\|δεδώκει]]  [[G3588\|τὸ]]  [[G0694\|ἀργύριον,]]  [[G2443\|ἵνα]]  [[G1097\|γνοῖ]]  [[G5101\|τίς]]  [[G5101\|τί]]  [[G1281\|διεπραγματεύσαντο.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic MONEY|MONEY]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic POUND|POUND]] • [[topic PROBATION|PROBATION]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SERVANT|SERVANT]] • [[topic STEWARD|STEWARD]] • [[topic TRUSTEE|TRUSTEE]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.14|<< Luke 19:14]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.16|Luke 19:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

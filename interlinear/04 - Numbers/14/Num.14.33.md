@@ -1,8 +1,72 @@
+---
+title: Numbers 14:33
+type: Verse
+kjv: "And your children shall wander in the wilderness forty years, and bear your whoredoms, until your carcases be wasted in the wilderness."
+bsb: "Your children will be shepherds in the wilderness for forty years, and they will suffer for your unfaithfulness until the last of your bodies lies in the wilderness."
+hebrew: "וּ֠בְנֵיכֶם יִהְי֨וּ רֹעִ֤ים בַּמִּדְבָּר֙ אַרְבָּעִ֣ים שָׁנָ֔ה וְנָשְׂא֖וּ אֶת־ זְנוּתֵיכֶ֑ם עַד־ תֹּ֥ם פִּגְרֵיכֶ֖ם בַּמִּדְבָּֽר׃"
+pericope: "[[Num.14.20 God’s Forgiveness and Judgment|God’s Forgiveness and Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 14
+book/chapter: "[[Num.14|Numbers 14]]"
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic HEREDITY|HEREDITY]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9026]]"
+- "[[H1961]]"
+- "[[H7462B]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H0705]]"
+- "[[H8141]]"
+- "[[H9001]]"
+- "[[H5375H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2184]]"
+- "[[H5704]]"
+- "[[H8552]]"
+- "[[H6297]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 14:33**<big><big>[[Num.14.20 God’s Forgiveness and Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And your children shall wander in the wilderness forty years, and bear your whoredoms, until your carcases be wasted in the wilderness.
 <small><sub>**BSB:**</sub></small>
 Your children will be shepherds in the wilderness for forty years, and they will suffer for your unfaithfulness until the last of your bodies lies in the wilderness.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ֠]][[H1121A\|בְנֵי]][[H9026\|כֶם]] [[H1961\|יִהְי֨וּ]] [[H7462B\|רֹעִ֤ים]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּר֙]] [[H0705\|אַרְבָּעִ֣ים]] [[H8141\|שָׁנָ֔ה]] [[H9001\|וְ]][[H5375H\|נָשְׂא֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H2184\|זְנוּתֵי]][[H9026\|כֶ֑ם]] [[H5704\|עַד]][[H9014\|־]] [[H8552\|תֹּ֥ם]] [[H6297\|פִּגְרֵי]][[H9026\|כֶ֖ם]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHILDREN|CHILDREN]] • [[topic HEREDITY|HEREDITY]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic INFIDELITY|INFIDELITY]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MURMURING|MURMURING]] • [[topic REPROBACY|REPROBACY]] • [[topic SIN|SIN]] • [[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.32|<< Numbers 14:32]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.34|Numbers 14:34 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

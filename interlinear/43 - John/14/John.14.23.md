@@ -1,10 +1,69 @@
+---
+title: John 14:23
+type: Verse
+kjv: "Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him."
+bsb: "Jesus replied, “If anyone loves Me, he will keep My word. My Father will love him, and We will come to him and make Our home with him."
+jesus_said: "If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him."
+greek: "Ἀπεκρίθη ὁ Ἰησοῦς καὶ εἶπεν αὐτῷ· ἐάν τις ἀγαπᾷ με, τὸν λόγον μου τηρήσει, καὶ ὁ πατήρ μου ἀγαπήσει αὐτόν, καὶ πρὸς αὐτὸν ἐλευσόμεθα καὶ μονὴν παρ᾽ αὐτῷ ποιησόμεθα."
+pericope: "[[John.14.15 Jesus Promises the Holy Spirit|Jesus Promises the Holy Spirit]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 14
+book/chapter: "[[John.14|John 14]]"
+chronological_order: 1002
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G1437]]"
+- "[[G5100]]"
+- "[[G0025]]"
+- "[[G3165]]"
+- "[[G3056]]"
+- "[[G5083G]]"
+- "[[G3962]]"
+- "[[G4314]]"
+- "[[G2064]]"
+- "[[G3438]]"
+- "[[G3844]]"
+- "[[G4160G]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **John 14:23**<big><big>[[John.14.15 Jesus Promises the Holy Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him.
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “If anyone loves Me, he will keep My word. My Father will love him, and We will come to him and make Our home with him.
-<small><sub>**Literal:**</sub></small>
-Answered <the> Jesus and said to him; If anyone shall love Me, the word of Mine he will keep, and the Father of Mine will love him, and to him we will come and a home with him we will make.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.22|<< John 14:22]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.24|John 14:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀπεκρίθη]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G1437\|ἐάν]]  [[G5100\|τις]]  [[G0025\|ἀγαπᾷ]]  [[G3165\|με,]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3165\|μου]]  [[G5083G\|τηρήσει,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3962\|πατήρ]]  [[G3165\|μου]]  [[G0025\|ἀγαπήσει]]  [[G0846\|αὐτόν,]]  [[G2532\|καὶ]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G2064\|ἐλευσόμεθα]]  [[G2532\|καὶ]]  [[G3438\|μονὴν]]  [[G3844\|παρ᾽]]  [[G0846\|αὐτῷ]]  [[G4160G\|ποιησόμεθα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic COMMUNION|COMMUNION]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOD|GOD]] • [[topic LOVE|LOVE]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.22|<< John 14:22]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.24|John 14:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

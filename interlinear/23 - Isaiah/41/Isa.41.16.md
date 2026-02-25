@@ -1,8 +1,58 @@
+---
+title: Isaiah 41:16
+type: Verse
+kjv: "Thou shalt fan them, and the wind shall carry them away, and the whirlwind shall scatter them: and thou shalt rejoice in the LORD, and shalt glory in the Holy One of Israel."
+bsb: "You will winnow them, and a wind will carry them away; a gale will scatter them. But you will rejoice in the LORD; you will glory in the Holy One of Israel."
+hebrew: "תִּזְרֵם֙ וְר֣וּחַ תִּשָּׂאֵ֔ם וּסְעָרָ֖ה תָּפִ֣יץ אוֹתָ֑ם וְאַתָּה֙ תָּגִ֣יל בַּֽיהוָ֔ה בִּקְד֥וֹשׁ יִשְׂרָאֵ֖ל תִּתְהַלָּֽל׃ פ"
+pericope: "[[Isa.41.1 God’s Help to Israel|God’s Help to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 41
+book/chapter: "[[Isa.41|Isaiah 41]]"
+chronological_order: 680
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic JOY|JOY]]"
+strongs:
+- "[[H2219]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H7307H]]"
+- "[[H5375H]]"
+- "[[H5591B]]"
+- "[[H6327A]]"
+- "[[H0853]]"
+- "[[H0859A]]"
+- "[[H1523]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H6918G]]"
+- "[[H3478]]"
+- "[[H1984H]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Isaiah 41:16**<big><big>[[Isa.41.1 God’s Help to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt fan them, and the wind shall carry them away, and the whirlwind shall scatter them: and thou shalt rejoice in the LORD, [and] shalt glory in the Holy One of Israel.
 <small><sub>**BSB:**</sub></small>
 You will winnow them, and a wind will carry them away; a gale will scatter them. But you will rejoice in the LORD; you will glory in the Holy One of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H2219\|תִּזְרֵ]][[H9038\|ם֙]] [[H9002\|וְ]][[H7307H\|ר֣וּחַ]] [[H5375H\|תִּשָּׂאֵ֔]][[H9038\|ם]] [[H9002\|וּ]][[H5591B\|סְעָרָ֖ה]] [[H6327A\|תָּפִ֣יץ]] [[H0853\|אוֹתָ֑]][[H9038\|ם]] [[H9002\|וְ]][[H0859A\|אַתָּה֙]] [[H1523\|תָּגִ֣יל]] [[H9003\|בַּֽ]][[H3068G\|יהוָ֔ה]] [[H9003\|בִּ]][[H6918G\|קְד֥וֹשׁ]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H1984H\|תִּתְהַלָּֽל]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOY|JOY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.15|<< Isaiah 41:15]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.17|Isaiah 41:17 >>]]</td></tr></table>
 
@@ -19,7 +69,7 @@ You will winnow them, and a wind will carry them away; a gale will scatter them.
 | in Yahweh  |**<big>&#8207;[[H9003\|בַּֽ]]&#8207;&#8207;[[H3068G\|יהוָ֔ה]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] holy [one] of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H6918G\|קְד֥וֹשׁ]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> k.Do.osh<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will boast  |**<big>&#8207;[[H1984H\|תִּתְהַלָּֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tit.ha.Lal<small><sup>[[HVti2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will boast  |**<big>&#8207;[[H1984H\|תִּתְהַלָּֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tit.ha.Lal<small><sup>[[HVti2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.15|<< Isaiah 41:15]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.17|Isaiah 41:17 >>]]</td></tr></table>
 
 

@@ -1,8 +1,49 @@
+---
+title: Proverbs 19:5
+type: Verse
+kjv: "A false witness shall not be unpunished, and he that speaketh lies shall not escape."
+bsb: "A false witness will not go unpunished, and one who utters lies will not escape."
+hebrew: "עֵ֣ד שְׁ֭קָרִים לֹ֣א יִנָּקֶ֑ה וְיָפִ֥יחַ כְּ֝זָבִ֗ים לֹ֣א יִמָּלֵֽט׃"
+pericope: "[[Prov.19.1 The Man of Integrity|The Man of Integrity]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 19
+book/chapter: "[[Prov.19|Proverbs 19]]"
+chronological_order: 474
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+strongs:
+- "[[H5707]]"
+- "[[H8267]]"
+- "[[H3808]]"
+- "[[H5352]]"
+- "[[H9002]]"
+- "[[H6315]]"
+- "[[H3577]]"
+- "[[H4422]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 19:5**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A false witness shall not be unpunished, and [he that] speaketh lies shall not escape.
 <small><sub>**BSB:**</sub></small>
 A false witness will not go unpunished, and one who utters lies will not escape.
+<small><sub>**Hebrew:**</sub></small>
+[[H5707\|עֵ֣ד]] [[H8267\|שְׁ֭קָרִים]] [[H3808\|לֹ֣א]] [[H5352\|יִנָּקֶ֑ה]] [[H9002\|וְ]][[H6315\|יָפִ֥יחַ]] [[H3577\|כְּ֝זָבִ֗ים]] [[H3808\|לֹ֣א]] [[H4422\|יִמָּלֵֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.4|<< Proverbs 19:4]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.6|Proverbs 19:6 >>]]</td></tr></table>
 

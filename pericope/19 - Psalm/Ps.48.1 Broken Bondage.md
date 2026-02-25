@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Broken Bondage
+type: Pericope
 pericope: "[[Ps.48.1 Broken Bondage|Broken Bondage]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 48
 book/chapter: "[[Ps.48|Psalm 48]]"
-genre:
+chronological_order: 503
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 15
 verses:
 - "[[Ps.48.0]]"
 - "[[Ps.48.1]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Ps.48.14]]"
 ---
 
-[[Ps.48|Psalm 48:1 - Psalm 48:14]]
+<small>[[Ps.48|Psalm 48:1-14]]</small>
 *Broken Bondage*
 
 [[Ps.48.0|0]] A Song \[and\] Psalm for the sons of Korah.

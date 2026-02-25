@@ -1,8 +1,54 @@
+---
+title: Proverbs 22:22
+type: Verse
+kjv: "Rob not the poor, because he is poor: neither oppress the afflicted in the gate:"
+bsb: "Do not rob a poor man because he is poor, and do not crush the afflicted at the gate,"
+hebrew: "אַֽל־ תִּגְזָל־ דָּ֭ל כִּ֣י דַל־ ה֑וּא וְאַל־ תְּדַכֵּ֖א עָנִ֣י בַשָּֽׁעַר׃"
+pericope: "[[Prov.22.22 Saying 2|Saying 2]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 22
+book/chapter: "[[Prov.22|Proverbs 22]]"
+chronological_order: 477
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GATES|GATES]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H1497]]"
+- "[[H1800]]"
+- "[[H3588A]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H1792]]"
+- "[[H6041]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 22:22**<big><big>[[Prov.22.22 Saying 2|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rob not the poor, because he [is] poor: neither oppress the afflicted in the gate:
 <small><sub>**BSB:**</sub></small>
 Do not rob a poor man because he is poor, and do not crush the afflicted at the gate,
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַֽל]][[H9014\|־]] [[H1497\|תִּגְזָל]][[H9014\|־]] [[H1800\|דָּ֭ל]] [[H3588A\|כִּ֣י]] [[H1800\|דַל]][[H9014\|־]] [[H1931\|ה֑וּא]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H1792\|תְּדַכֵּ֖א]] [[H6041\|עָנִ֣י]] [[H9003\|בַ]][[H8179G\|שָּֽׁעַר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GATES|GATES]] • [[topic OPPRESSION|OPPRESSION]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.22.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.21|<< Proverbs 22:21]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.23|Proverbs 22:23 >>]]</td></tr></table>
 

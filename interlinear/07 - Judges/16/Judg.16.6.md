@@ -1,8 +1,66 @@
+---
+title: Judges 16:6
+type: Verse
+kjv: "And Delilah said to Samson, Tell me, I pray thee, wherein thy great strength lieth, and wherewith thou mightest be bound to afflict thee."
+bsb: "So Delilah said to Samson, “Please tell me the source of your great strength and how you can be tied up and subdued.”"
+hebrew: "וַתֹּ֤אמֶר דְּלִילָה֙ אֶל־ שִׁמְשׁ֔וֹן הַגִּֽידָה־ נָּ֣א לִ֔י בַּמֶּ֖ה כֹּחֲךָ֣ גָד֑וֹל וּבַמֶּ֥ה תֵאָסֵ֖ר לְעַנּוֹתֶֽךָ׃"
+pericope: "[[Judg.16.4 Samson and Delilah|Samson and Delilah]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 16
+book/chapter: "[[Judg.16|Judges 16]]"
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DELILAH|DELILAH]]"
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1807]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8123]]"
+- "[[H5046]]"
+- "[[H9012]]"
+- "[[H4994]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H4100]]"
+- "[[H3581B]]"
+- "[[H9021]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H0631]]"
+- "[[H6031B]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 16:6**<big><big>[[Judg.16.4 Samson and Delilah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Delilah said to Samson, Tell me, I pray thee, wherein thy great strength [lieth], and wherewith thou mightest be bound to afflict thee.
 <small><sub>**BSB:**</sub></small>
 So Delilah said to Samson, “Please tell me the source of your great strength and how you can be tied up and subdued.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֤אמֶר]] [[H1807\|דְּלִילָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H8123\|שִׁמְשׁ֔וֹן]] [[H5046\|הַגִּֽידָ]][[H9012\|ה]][[H9014\|־]] [[H4994\|נָּ֣א]] [[H9005\|לִ֔]][[H9030\|י]] [[H9003\|בַּ]][[H4100\|מֶּ֖ה]] [[H3581B\|כֹּחֲ]][[H9021\|ךָ֣]] [[H1419A\|גָד֑וֹל]] [[H9002\|וּ]][[H9003\|בַ]][[H4100\|מֶּ֥ה]] [[H0631\|תֵאָסֵ֖ר]] [[H9005\|לְ]][[H6031B\|עַנּוֹתֶֽ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSPIRACY|CONSPIRACY]] • [[topic DECEPTION|DECEPTION]] • [[topic DELILAH|DELILAH]] • [[topic FRIENDS|FRIENDS]] • [[topic SAMSON|SAMSON]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.5|<< Judges 16:5]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.7|Judges 16:7 >>]]</td></tr></table>
 

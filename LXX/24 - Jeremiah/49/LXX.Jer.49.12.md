@@ -1,6 +1,59 @@
+---
+title: LXX Jeremiah 49:12
+type: Verse
+lxx: "For thus says the lord, Behold, the ones which were not by law to drink the cup, drank; and you for being acquitted in no way shall be acquitted; for by drinking you shall drink."
+greek: "ότι τάδε λέγει κύριος ιδού οις ουκ ην νόμος πιείν το ποτήριον έπιον και συ αθωωμένη ου μη αθωωθής ότι πιών πίεσαι"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3754]]"
+- "[[G3592]]"
+- "[[G3004]]"
+- "[[G2962]]"
+- "[[G2400]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G3551]]"
+- "[[G4095]]"
+- "[[G3588]]"
+- "[[G4221]]"
+- "[[G4095]]"
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G6154]]"
+- "[[G3364]]"
+- "[[G6154]]"
+- "[[G3754]]"
+- "[[G4095]]"
+- "[[G4095]]"
+---
+
 **LXX Jeremiah 49:12** 
 <small><sub>**LXX:**</sub></small>
 For thus says \[the\] <span class="smallcaps">lord</span>, Behold, the ones which \[were\] not by law to drink the cup, drank; and you for being acquitted in no way shall be acquitted; for by drinking you shall drink. 
+<small><sub>**Greek:**</sub></small>
+[[G3754\|ότι]] [[G3592\|τάδε]] [[G3004\|λέγει]] [[G2962\|κύριος]] [[G2400\|ιδού]] [[G3739\|οις]] [[G3756\|ουκ]] [[G1510\|ην]] [[G3551\|νόμος]] [[G4095\|πιείν]] [[G3588\|το]] [[G4221\|ποτήριον]] [[G4095\|έπιον]] [[G2532\|και]] [[G1473\|συ]] [[G6154\|αθωωμένη]] [[G3364\|ου μη]] [[G6154\|αθωωθής]] [[G3754\|ότι]] [[G4095\|πιών]] [[G4095\|πίεσαι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.49.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.11|<< Jeremiah 49:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.13|Jeremiah 49:13 >>]]</td></tr></table>
 
@@ -26,6 +79,6 @@ For thus says \[the\] <span class="smallcaps">lord</span>, Behold, the ones whic
 | for | **<big>[[G3754\|ότι]]</big>** |
 | by drinking | **<big>[[G4095\|πιών]]</big>** |
 | you shall drink. | **<big>[[G4095\|πίεσαι]]</big>** |
-[[Jer.49.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.11|<< Jeremiah 49:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.13|Jeremiah 49:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.11|<< Jeremiah 49:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.13|Jeremiah 49:13 >>]]</td></tr></table>
 
 

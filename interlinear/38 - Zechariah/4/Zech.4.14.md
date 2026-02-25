@@ -1,8 +1,52 @@
+---
+title: Zechariah 4:14
+type: Verse
+kjv: "Then said he, These are the two anointed ones, that stand by the Lord of the whole earth."
+bsb: "So he said, “These are the two anointed ones who are standing beside the Lord of all the earth.”"
+hebrew: "וַיֹּ֕אמֶר אֵ֖לֶּה שְׁנֵ֣י בְנֵֽי־ הַיִּצְהָ֑ר הָעֹמְדִ֖ים עַל־ אֲד֥וֹן כָּל־ הָאָֽרֶץ׃"
+pericope: "[[Zech.4.1 The Vision of the Lampstand and Olive Trees|The Vision of the Lampstand and Olive Trees]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 4
+book/chapter: "[[Zech.4|Zechariah 4]]"
+chronological_order: 860
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0428]]"
+- "[[H8147]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3323]]"
+- "[[H5975G]]"
+- "[[H5921A]]"
+- "[[H0113]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 4:14**<big><big>[[Zech.4.1 The Vision of the Lampstand and Olive Trees|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said he, These [are] the two anointed ones, that stand by the Lord of the whole earth.
 <small><sub>**BSB:**</sub></small>
 So he said, “These are the two anointed ones who are standing beside the Lord of all the earth.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H0428\|אֵ֖לֶּה]] [[H8147\|שְׁנֵ֣י]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H9009\|הַ]][[H3323\|יִּצְהָ֑ר]] [[H9009\|הָ]][[H5975G\|עֹמְדִ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H0113\|אֲד֥וֹן]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.4.13|<< Zechariah 4:13]]</td><td align="center" style="border:none;">[[Zech.4|Zechariah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.5.1|Zechariah 5:1 >>]]</td></tr></table>
 

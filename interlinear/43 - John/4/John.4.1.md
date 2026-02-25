@@ -1,10 +1,59 @@
+---
+title: John 4:1
+type: Verse
+kjv: "When therefore the Lord knew how the Pharisees had heard that Jesus made and baptized more disciples than John,"
+bsb: "When Jesus realized that the Pharisees were aware He was gaining and baptizing more disciples than John"
+greek: "Ὡς οὖν ἔγνω ὁ Ἰησοῦς ὅτι ἤκουσαν οἱ Φαρισαῖοι ὅτι Ἰησοῦς πλείονας μαθητὰς ποιεῖ καὶ βαπτίζει ἢ Ἰωάννης,"
+pericope: "[[John.4.1 Jesus and the Samaritan Woman|Jesus and the Samaritan Woman]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[G5613]]"
+- "[[G3767]]"
+- "[[G1097]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3754G]]"
+- "[[G0191]]"
+- "[[G5330]]"
+- "[[G4119]]"
+- "[[G3101]]"
+- "[[G4160G]]"
+- "[[G2532]]"
+- "[[G0907]]"
+- "[[G2228]]"
+- "[[G2491G]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **John 4:1**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When therefore the Lord knew how the Pharisees had heard that Jesus made and baptized more disciples than John,
 <small><sub>**BSB:**</sub></small>
 When Jesus realized that the Pharisees were aware He was gaining and baptizing more disciples than John
-<small><sub>**Literal:**</sub></small>
-When therefore knew <the> Jesus that heard the Pharisees that Jesus more disciples makes and baptizes than John<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.36|<< John 3:36]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.2|John 4:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|Ὡς]]  [[G3767\|οὖν]]  [[G1097\|ἔγνω]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3754G\|ὅτι]]  [[G0191\|ἤκουσαν]]  [[G3588\|οἱ]]  [[G5330\|Φαρισαῖοι]]  [[G3754G\|ὅτι]]  [[G2424G\|Ἰησοῦς]]  [[G4119\|πλείονας]]  [[G3101\|μαθητὰς]]  [[G4160G\|ποιεῖ]]  [[G2532\|καὶ]]  [[G0907\|βαπτίζει]]  [[G2228\|ἢ]]  [[G2491G\|Ἰωάννης,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SAMARIA|SAMARIA]] • [[topic SHECHEM|SHECHEM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.36|<< John 3:36]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.2|John 4:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

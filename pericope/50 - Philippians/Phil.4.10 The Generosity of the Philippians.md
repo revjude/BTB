@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Generosity of the Philippians
+type: Pericope
 pericope: "[[Phil.4.10 The Generosity of the Philippians|The Generosity of the Philippians]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Philippians
 chapter: 4
 book/chapter: "[[Phil.4|Philippians 4]]"
-genre:
+chronological_order: 1120
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - pastoral letter
+verse_count: 11
 verses:
 - "[[Phil.4.10]]"
 - "[[Phil.4.11]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Phil.4.20]]"
 ---
 
-[[Phil.4|Philippians 4:10 - Philippians 4:20]]
+<small>[[Phil.4|Philippians 4:10-20]]</small>
 *The Generosity of the Philippians*
 
 [[Phil.4.10|10]] But I rejoiced in the Lord greatly, that now at the last your care of me hath flourished again; wherein ye were also careful, but ye lacked opportunity.

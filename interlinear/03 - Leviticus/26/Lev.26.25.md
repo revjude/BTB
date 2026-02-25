@@ -1,8 +1,77 @@
+---
+title: Leviticus 26:25
+type: Verse
+kjv: "And I will bring a sword upon you, that shall avenge the quarrel of my covenant: and when ye are gathered together within your cities, I will send the pestilence among you; and ye shall be delivered into the hand of the enemy."
+bsb: "And I will bring a sword against you to execute the vengeance of the covenant. Though you withdraw into your cities, I will send a plague among you, and you will be delivered into the hand of the enemy."
+hebrew: "וְהֵבֵאתִ֨י עֲלֵיכֶ֜ם חֶ֗רֶב נֹקֶ֙מֶת֙ נְקַם־ בְּרִ֔ית וְנֶאֱסַפְתֶּ֖ם אֶל־ עָרֵיכֶ֑ם וְשִׁלַּ֤חְתִּי דֶ֙בֶר֙ בְּת֣וֹכְכֶ֔ם וְנִתַּתֶּ֖ם בְּיַד־ אוֹיֵֽב׃"
+pericope: "[[Lev.26.14 Punishments for Disobedience|Punishments for Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PESTILENCE|PESTILENCE]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H2719]]"
+- "[[H5358]]"
+- "[[H5359]]"
+- "[[H9014]]"
+- "[[H1285]]"
+- "[[H0622]]"
+- "[[H0413]]"
+- "[[H5892B]]"
+- "[[H9026]]"
+- "[[H7971G]]"
+- "[[H1698]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H5414G]]"
+- "[[H3027H]]"
+- "[[H0341]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 26:25**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will bring a sword upon you, that shall avenge the quarrel of [my] covenant: and when ye are gathered together within your cities, I will send the pestilence among you; and ye shall be delivered into the hand of the enemy.
 <small><sub>**BSB:**</sub></small>
 And I will bring a sword against you to execute the vengeance of the covenant. Though you withdraw into your cities, I will send a plague among you, and you will be delivered into the hand of the enemy.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0935P\|הֵבֵאתִ֨י]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֜ם]] [[H2719\|חֶ֗רֶב]] [[H5358\|נֹקֶ֙מֶת֙]] [[H5359\|נְקַם]][[H9014\|־]] [[H1285\|בְּרִ֔ית]] [[H9001\|וְ]][[H0622\|נֶאֱסַפְתֶּ֖ם]] [[H0413\|אֶל]][[H9014\|־]] [[H5892B\|עָרֵי]][[H9026\|כֶ֑ם]] [[H9001\|וְ]][[H7971G\|שִׁלַּ֤חְתִּי]] [[H1698\|דֶ֙בֶר֙]] [[H9003\|בְּ]][[H8432\|ת֣וֹכְ]][[H9026\|כֶ֔ם]] [[H9001\|וְ]][[H5414G\|נִתַּתֶּ֖ם]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H0341\|אוֹיֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic COVENANT|COVENANT]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic FAMINE|FAMINE]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PESTILENCE|PESTILENCE]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REWARD|REWARD]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.24|<< Leviticus 26:24]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.26|Leviticus 26:26 >>]]</td></tr></table>
 

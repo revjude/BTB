@@ -1,8 +1,58 @@
+---
+title: Psalm 36:4
+type: Verse
+kjv: "He deviseth mischief upon his bed; he setteth himself in a way that is not good; he abhorreth not evil."
+bsb: "Even on his bed he plots wickedness; he sets himself on a path that is not good; he fails to reject evil."
+hebrew: "אָ֤וֶן׀ יַחְשֹׁ֗ב עַֽל־ מִשְׁכָּ֫ב֥וֹ יִ֭תְיַצֵּב עַל־ דֶּ֣רֶךְ לֹא־ ט֑וֹב רָ֝֗ע לֹ֣א יִמְאָֽס׃"
+pericope: "[[Ps.36.1 The Transgression of the Wicked|The Transgression of the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 36
+book/chapter: "[[Ps.36|Psalm 36]]"
+chronological_order: 364
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic VANITY|VANITY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0205G]]"
+- "[[H9015]]"
+- "[[H2803I]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4904]]"
+- "[[H9023]]"
+- "[[H3320]]"
+- "[[H1870G]]"
+- "[[H3808]]"
+- "[[H2896A]]"
+- "[[H7451B]]"
+- "[[H3988A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 36:4**<big><big>[[Ps.36.1 The Transgression of the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He deviseth mischief upon his bed; he setteth himself in a way [that is] not good; he abhorreth not evil.
 <small><sub>**BSB:**</sub></small>
 Even on his bed he plots wickedness; he sets himself on a path that is not good; he fails to reject evil.
+<small><sub>**Hebrew:**</sub></small>
+[[H0205G\|אָ֤וֶן]][[H9015\|׀]] [[H2803I\|יַחְשֹׁ֗ב]] [[H5921A\|עַֽל]][[H9014\|־]] [[H4904\|מִשְׁכָּ֫ב֥]][[H9023\|וֹ]] [[H3320\|יִ֭תְיַצֵּב]] [[H5921A\|עַל]][[H9014\|־]] [[H1870G\|דֶּ֣רֶךְ]] [[H3808\|לֹא]][[H9014\|־]] [[H2896A\|ט֑וֹב]] [[H7451B\|רָ֝֗ע]] [[H3808\|לֹ֣א]] [[H3988A\|יִמְאָֽס]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VANITY|VANITY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.36.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.36.3|<< Psalms 36:3]]</td><td align="center" style="border:none;">[[Ps.36|Psalms 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.36.5|Psalms 36:5 >>]]</td></tr></table>
 

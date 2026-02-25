@@ -1,8 +1,65 @@
+---
+title: Genesis 47:25
+type: Verse
+kjv: "And they said, Thou hast saved our lives: let us find grace in the sight of my lord, and we will be Pharaoh’s servants."
+bsb: "“You have saved our lives,” they said. “We have found favor in our lord’s eyes, and we will be Pharaoh’s servants.”"
+hebrew: "וַיֹּאמְר֖וּ הֶחֱיִתָ֑נוּ נִמְצָא־ חֵן֙ בְּעֵינֵ֣י אֲדֹנִ֔י וְהָיִ֥ינוּ עֲבָדִ֖ים לְפַרְעֹֽה׃"
+pericope: "[[Gen.47.13 The Famine Continues|The Famine Continues]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 47
+book/chapter: "[[Gen.47|Genesis 47]]"
+chronological_order: 89
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EXTORTION|EXTORTION]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MONOPOLY|MONOPOLY]]"
+- "[[topic STATECRAFT|STATECRAFT]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2421]]"
+- "[[H9035]]"
+- "[[H4672]]"
+- "[[H9014]]"
+- "[[H2580]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H1961]]"
+- "[[H5650]]"
+- "[[H9005]]"
+- "[[H6547H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 47:25**<big><big>[[Gen.47.13 The Famine Continues|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said, Thou hast saved our lives: let us find grace in the sight of my lord, and we will be Pharaoh’s servants.
 <small><sub>**BSB:**</sub></small>
 “You have saved our lives,” they said. “We have found favor in our lord’s eyes, and we will be Pharaoh’s servants.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֖וּ]] [[H2421\|הֶחֱיִתָ֑]][[H9035\|נוּ]] [[H4672\|נִמְצָא]][[H9014\|־]] [[H2580\|חֵן֙]] [[H9003\|בְּ]][[H5869I\|עֵינֵ֣י]] [[H0113\|אֲדֹנִ֔]][[H9020\|י]] [[H9001\|וְ]][[H1961\|הָיִ֥ינוּ]] [[H5650\|עֲבָדִ֖ים]] [[H9005\|לְ]][[H6547H\|פַרְעֹֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPT|EGYPT]] • [[topic EXTORTION|EXTORTION]] • [[topic JOSEPH|JOSEPH]] • [[topic LAND|LAND]] • [[topic MONOPOLY|MONOPOLY]] • [[topic STATECRAFT|STATECRAFT]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.24|<< Genesis 47:24]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.26|Genesis 47:26 >>]]</td></tr></table>
 

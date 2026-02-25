@@ -1,8 +1,57 @@
+---
+title: Deuteronomy 14:22
+type: Verse
+kjv: "Thou shalt truly tithe all the increase of thy seed, that the field bringeth forth year by year."
+bsb: "You must be sure to set aside a tenth of all the produce brought forth each year from your fields."
+hebrew: "עַשֵּׂ֣ר תְּעַשֵּׂ֔ר אֵ֖ת כָּל־ תְּבוּאַ֣ת זַרְעֶ֑ךָ הַיֹּצֵ֥א הַשָּׂדֶ֖ה שָׁנָ֥ה שָׁנָֽה׃"
+pericope: "[[Deut.14.22 Giving Tithes|Giving Tithes]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 14
+book/chapter: "[[Deut.14|Deuteronomy 14]]"
+chronological_order: 210
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic TITHES|TITHES]]"
+strongs:
+- "[[H6237]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H8393]]"
+- "[[H2233G]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H3318M]]"
+- "[[H7704G]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 14:22**<big><big>[[Deut.14.22 Giving Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt truly tithe all the increase of thy seed, that the field bringeth forth year by year.
 <small><sub>**BSB:**</sub></small>
 You must be sure to set aside a tenth of all the produce brought forth each year from your fields.
+<small><sub>**Hebrew:**</sub></small>
+[[H6237\|עַשֵּׂ֣ר]] [[H6237\|תְּעַשֵּׂ֔ר]] [[H0853\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H8393\|תְּבוּאַ֣ת]] [[H2233G\|זַרְעֶ֑]][[H9021\|ךָ]] [[H9009\|הַ]][[H3318M\|יֹּצֵ֥א]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֖ה]] [[H8141\|שָׁנָ֥ה]] [[H8141\|שָׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TITHES|TITHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.14.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.14.21|<< Deuteronomy 14:21]]</td><td align="center" style="border:none;">[[Deut.14|Deuteronomy 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.14.23|Deuteronomy 14:23 >>]]</td></tr></table>
 

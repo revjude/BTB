@@ -1,8 +1,63 @@
+---
+title: 2 Kings 21:13
+type: Verse
+kjv: "And I will stretch over Jerusalem the line of Samaria, and the plummet of the house of Ahab: and I will wipe Jerusalem as a man wipeth a dish, wiping it, and turning it upside down."
+bsb: "I will stretch out over Jerusalem the measuring line used against Samaria and the plumb line used against the house of Ahab, and I will wipe out Jerusalem as one wipes out a bowl—wiping it and turning it upside down."
+hebrew: "וְנָטִ֣יתִי עַל־ יְרוּשָׁלִַ֗ם אֵ֚ת קָ֣ו שֹֽׁמְר֔וֹן וְאֶת־ מִשְׁקֹ֖לֶת בֵּ֣ית אַחְאָ֑ב וּמָחִ֨יתִי אֶת־ יְרוּשָׁלִַ֜ם כַּֽאֲשֶׁר־ יִמְחֶ֤ה אֶת־ הַצַּלַּ֙חַת֙ מָחָ֔ה וְהָפַ֖ךְ עַל־ פָּנֶֽיהָ׃"
+pericope: "[[2Kgs.21.10 Manasseh’s Idolatries Rebuked|Manasseh’s Idolatries Rebuked]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 21
+book/chapter: "[[2Kgs.21|2 Kings 21]]"
+chronological_order: 706
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5186]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3389]]"
+- "[[H0853]]"
+- "[[H6957B]]"
+- "[[H8111]]"
+- "[[H9002]]"
+- "[[H4949]]"
+- "[[H1004M]]"
+- "[[H0256G]]"
+- "[[H4229A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9009]]"
+- "[[H6747]]"
+- "[[H2015]]"
+- "[[H6440H]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 21:13**<big><big>[[2Kgs.21.10 Manasseh’s Idolatries Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will stretch over Jerusalem the line of Samaria, and the plummet of the house of Ahab: and I will wipe Jerusalem as [a man] wipeth a dish, wiping [it], and turning [it] upside down.
 <small><sub>**BSB:**</sub></small>
 I will stretch out over Jerusalem the measuring line used against Samaria and the plumb line used against the house of Ahab, and I will wipe out Jerusalem as one wipes out a bowl—wiping it and turning it upside down.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5186\|נָטִ֣יתִי]] [[H5921A\|עַל]][[H9014\|־]] [[H3389\|יְרוּשָׁלִַ֗ם]] [[H0853\|אֵ֚ת]] [[H6957B\|קָ֣ו]] [[H8111\|שֹֽׁמְר֔וֹן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4949\|מִשְׁקֹ֖לֶת]] [[H1004M\|בֵּ֣ית]] [[H0256G\|אַחְאָ֑ב]] [[H9001\|וּ]][[H4229A\|מָחִ֨יתִי]] [[H0853\|אֶת]][[H9014\|־]] [[H3389\|יְרוּשָׁלִַ֜ם]] [[H9004\|כַּֽ]][[H0834D\|אֲשֶׁר]][[H9014\|־]] [[H4229A\|יִמְחֶ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6747\|צַּלַּ֙חַת֙]] [[H4229A\|מָחָ֔ה]] [[H9002\|וְ]][[H2015\|הָפַ֖ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פָּנֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MANASSEH|MANASSEH]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.21.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.21.12|<< 2 Kings 21:12]]</td><td align="center" style="border:none;">[[2Kgs.21|2 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.21.14|2 Kings 21:14 >>]]</td></tr></table>
 

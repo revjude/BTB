@@ -1,8 +1,53 @@
+---
+title: Job 12:20
+type: Verse
+kjv: "He removeth away the speech of the trusty, and taketh away the understanding of the aged."
+bsb: "He deprives the trusted of speech and takes away the discernment of elders."
+hebrew: "מֵסִ֣יר שָׂ֭פָה לְנֶאֱמָנִ֑ים וְטַ֖עַם זְקֵנִ֣ים יִקָּֽח׃"
+pericope: "[[Job.12.1 Job Presents His Case|Job Presents His Case]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 12
+book/chapter: "[[Job.12|Job 12]]"
+chronological_order: 23
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ATHEISM|ATHEISM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+strongs:
+- "[[H5493G]]"
+- "[[H8193H]]"
+- "[[H9005]]"
+- "[[H0539]]"
+- "[[H9002]]"
+- "[[H2940]]"
+- "[[H2205G]]"
+- "[[H3947G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 12:20**<big><big>[[Job.12.1 Job Presents His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He removeth away the speech of the trusty, and taketh away the understanding of the aged.
 <small><sub>**BSB:**</sub></small>
 He deprives the trusted of speech and takes away the discernment of elders.
+<small><sub>**Hebrew:**</sub></small>
+[[H5493G\|מֵסִ֣יר]] [[H8193H\|שָׂ֭פָה]] [[H9005\|לְ]][[H0539\|נֶאֱמָנִ֑ים]] [[H9002\|וְ]][[H2940\|טַ֖עַם]] [[H2205G\|זְקֵנִ֣ים]] [[H3947G\|יִקָּֽח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ATHEISM|ATHEISM]] • [[topic GOD|GOD]] • [[topic PHILOSOPHY|PHILOSOPHY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.12.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.12.19|<< Job 12:19]]</td><td align="center" style="border:none;">[[Job.12|Job 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.12.21|Job 12:21 >>]]</td></tr></table>
 

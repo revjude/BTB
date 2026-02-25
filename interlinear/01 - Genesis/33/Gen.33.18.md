@@ -1,8 +1,64 @@
+---
+title: Genesis 33:18
+type: Verse
+kjv: "And Jacob came to Shalem, a city of Shechem, which is in the land of Canaan, when he came from Padanaram; and pitched his tent before the city."
+bsb: "After Jacob had come from Paddan-aram, he arrived safely at the city of Shechem in the land of Canaan, and he camped just outside the city."
+hebrew: "וַיָּבֹא֩ יַעֲקֹ֨ב שָׁלֵ֜ם עִ֣יר שְׁכֶ֗ם אֲשֶׁר֙ בְּאֶ֣רֶץ כְּנַ֔עַן בְּבֹא֖וֹ מִפַּדַּ֣ן אֲרָ֑ם וַיִּ֖חַן אֶת־ פְּנֵ֥י הָעִֽיר׃"
+pericope: "[[Gen.33.18 Jacob Settles in Shechem|Jacob Settles in Shechem]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 33
+book/chapter: "[[Gen.33|Genesis 33]]"
+chronological_order: 75
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic JACOB|JACOB]]"
+- "[[topic SHALEM|SHALEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H3290]]"
+- "[[H8003]]"
+- "[[H5892B]]"
+- "[[H7927G]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H9043]]"
+- "[[H9006]]"
+- "[[H6307]]"
+- "[[H0758L]]"
+- "[[H2583]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 33:18**<big><big>[[Gen.33.18 Jacob Settles in Shechem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob came to Shalem, a city of Shechem, which [is] in the land of Canaan, when he came from Padanaram; and pitched his tent before the city.
 <small><sub>**BSB:**</sub></small>
 After Jacob had come from Paddan-aram, he arrived safely at the city of Shechem in the land of Canaan, and he camped just outside the city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹא֩]] [[H3290\|יַעֲקֹ֨ב]] [[H8003\|שָׁלֵ֜ם]] [[H5892B\|עִ֣יר]] [[H7927G\|שְׁכֶ֗ם]] [[H0834A\|אֲשֶׁר֙]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H3667A\|כְּנַ֔עַן]] [[H9003\|בְּ]][[H0935G\|בֹא֖]][[H9043\|וֹ]] [[H9006\|מִ]][[H6307\|פַּדַּ֣ן]] [[H0758L\|אֲרָ֑ם]] [[H9001\|וַ]][[H2583\|יִּ֖חַן]] [[H0854\|אֶת]][[H9014\|־]] [[H6440G\|פְּנֵ֥י]] [[H9009\|הָ]][[H5892B\|עִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACOB|JACOB]] • [[topic SHALEM|SHALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.33.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.33.17|<< Genesis 33:17]]</td><td align="center" style="border:none;">[[Gen.33|Genesis 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.33.19|Genesis 33:19 >>]]</td></tr></table>
 

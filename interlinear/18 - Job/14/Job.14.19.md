@@ -1,8 +1,56 @@
+---
+title: Job 14:19
+type: Verse
+kjv: "The waters wear the stones: thou washest away the things which grow out of the dust of the earth; and thou destroyest the hope of man."
+bsb: "as water wears away the stones and torrents wash away the soil, so You destroy a man’s hope."
+hebrew: "אֲבָנִ֤ים׀ שָׁ֥חֲקוּ מַ֗יִם תִּשְׁטֹֽף־ סְפִיחֶ֥יהָ עֲפַר־ אָ֑רֶץ וְתִקְוַ֖ת אֱנ֣וֹשׁ הֶאֱבַֽדְתָּ׃"
+pericope: "[[Job.14.1 Job Laments the Finality of Death|Job Laments the Finality of Death]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 14
+book/chapter: "[[Job.14|Job 14]]"
+chronological_order: 25
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+strongs:
+- "[[H0068G]]"
+- "[[H9015]]"
+- "[[H7833]]"
+- "[[H4325G]]"
+- "[[H7857]]"
+- "[[H9014]]"
+- "[[H5599A]]"
+- "[[H9024]]"
+- "[[H6083]]"
+- "[[H0776H]]"
+- "[[H9002]]"
+- "[[H8615B]]"
+- "[[H0582]]"
+- "[[H0006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 14:19**<big><big>[[Job.14.1 Job Laments the Finality of Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The waters wear the stones: thou washest away the things which grow [out] of the dust of the earth; and thou destroyest the hope of man.
 <small><sub>**BSB:**</sub></small>
 as water wears away the stones and torrents wash away the soil, so You destroy a man’s hope.
+<small><sub>**Hebrew:**</sub></small>
+[[H0068G\|אֲבָנִ֤ים]][[H9015\|׀]] [[H7833\|שָׁ֥חֲקוּ]] [[H4325G\|מַ֗יִם]] [[H7857\|תִּשְׁטֹֽף]][[H9014\|־]] [[H5599A\|סְפִיחֶ֥י]][[H9024\|הָ]] [[H6083\|עֲפַר]][[H9014\|־]] [[H0776H\|אָ֑רֶץ]] [[H9002\|וְ]][[H8615B\|תִקְוַ֖ת]] [[H0582\|אֱנ֣וֹשׁ]] [[H0006\|הֶאֱבַֽדְתָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.14.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.14.18|<< Job 14:18]]</td><td align="center" style="border:none;">[[Job.14|Job 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.14.20|Job 14:20 >>]]</td></tr></table>
 

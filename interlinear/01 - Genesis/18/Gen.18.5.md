@@ -1,8 +1,74 @@
+---
+title: Genesis 18:5
+type: Verse
+kjv: "And I will fetch a morsel of bread, and comfort ye your hearts; after that ye shall pass on: for therefore are ye come to your servant. And they said, So do, as thou hast said."
+bsb: "And I will bring a bit of bread so that you may refresh yourselves. This is why you have passed your servant’s way. After that, you may continue on your way.” “Yes,” they replied, “you may do as you have said.”"
+hebrew: "וְאֶקְחָ֨ה פַת־ לֶ֜חֶם וְסַעֲד֤וּ לִבְּכֶם֙ אַחַ֣ר תַּעֲבֹ֔רוּ כִּֽי־ עַל־ כֵּ֥ן עֲבַרְתֶּ֖ם עַֽל־ עַבְדְּכֶ֑ם וַיֹּ֣אמְר֔וּ כֵּ֥ן תַּעֲשֶׂ֖ה כַּאֲשֶׁ֥ר דִּבַּֽרְתָּ׃"
+pericope: "[[Gen.18.1 The Three Visitors|The Three Visitors]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 18
+book/chapter: "[[Gen.18|Genesis 18]]"
+chronological_order: 60
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic MAMRE|MAMRE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3947J]]"
+- "[[H6595A]]"
+- "[[H9014]]"
+- "[[H3899H]]"
+- "[[H5582]]"
+- "[[H3820A]]"
+- "[[H9026]]"
+- "[[H0310A]]"
+- "[[H5674A]]"
+- "[[H3588C]]"
+- "[[H5921B]]"
+- "[[H3651B]]"
+- "[[H5921A]]"
+- "[[H5650]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3651C]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+- L(S)
+---
+
 **Genesis 18:5**<big><big>[[Gen.18.1 The Three Visitors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will fetch a morsel of bread, and comfort ye your hearts; after that ye shall pass on: for therefore are ye come to your servant. And they said, So do, as thou hast said.
 <small><sub>**BSB:**</sub></small>
 And I will bring a bit of bread so that you may refresh yourselves. This is why you have passed your servant’s way. After that, you may continue on your way.” “Yes,” they replied, “you may do as you have said.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3947J\|אֶקְחָ֨ה]] [[H6595A\|פַת]][[H9014\|־]] [[H3899H\|לֶ֜חֶם]] [[H9002\|וְ]][[H5582\|סַעֲד֤וּ]] [[H3820A\|לִבְּ]][[H9026\|כֶם֙]] [[H0310A\|אַחַ֣ר]] [[H5674A\|תַּעֲבֹ֔רוּ]] [[H3588C\|כִּֽי]][[H9014\|־]] [[H5921B\|עַל]][[H9014\|־]] [[H3651B\|כֵּ֥ן]] [[H5674A\|עֲבַרְתֶּ֖ם]] [[H5921A\|עַֽל]][[H9014\|־]] [[H5650\|עַבְדְּ]][[H9026\|כֶ֑ם]] [[H9001\|וַ]][[H0559\|יֹּ֣אמְר֔וּ]] [[H3651C\|כֵּ֥ן]] [[H6213A\|תַּעֲשֶׂ֖ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H1696G\|דִּבַּֽרְתָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic COMMUNION|COMMUNION]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic FOOD|FOOD]] • [[topic GOD|GOD]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic ISAAC|ISAAC]] • [[topic MAMRE|MAMRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.18.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.4|<< Genesis 18:4]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.6|Genesis 18:6 >>]]</td></tr></table>
 
@@ -28,5 +94,5 @@ And I will bring a bit of bread so that you may refresh yourselves. This is why 
 | you have said  |**<big>&#8207;[[H1696G\|דִּבַּֽרְתָּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| di.Bar.ta<small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.4|<< Genesis 18:4]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.6|Genesis 18:6 >>]]</td></tr></table>
 
-[^1]: and after  | **<big>[[H0310A|אַחַ֣ר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.Char<small><sup>[[HAcmsa]]</sup></small> | S
+[^1]: and after  | **<big>[[H9002|וְ]]</big><big>[[H0310A|אַחַ֣ר]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.Char<small><sup>[[HAcmsa]]</sup></small> | S
 

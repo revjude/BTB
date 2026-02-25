@@ -1,8 +1,58 @@
+---
+title: Genesis 13:17
+type: Verse
+kjv: "Arise, walk through the land in the length of it and in the breadth of it; for I will give it unto thee."
+bsb: "Get up and walk around the land, through its length and breadth, for I will give it to you.”"
+hebrew: "ק֚וּם הִתְהַלֵּ֣ךְ בָּאָ֔רֶץ לְאָרְכָּ֖הּ וּלְרָחְבָּ֑הּ כִּ֥י לְךָ֖ אֶתְּנֶֽנָּה׃"
+pericope: "[[Gen.13.14 God Renews the Promise to Abram|God Renews the Promise to Abram]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 13
+book/chapter: "[[Gen.13|Genesis 13]]"
+chronological_order: 55
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic LAND|LAND]]"
+strongs:
+- "[[H6965B]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9005]]"
+- "[[H0753]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H7341]]"
+- "[[H3588A]]"
+- "[[H9031]]"
+- "[[H5414G]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 13:17**<big><big>[[Gen.13.14 God Renews the Promise to Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise, walk through the land in the length of it and in the breadth of it; for I will give it unto thee.
 <small><sub>**BSB:**</sub></small>
 Get up and walk around the land, through its length and breadth, for I will give it to you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H6965B\|ק֚וּם]] [[H1980I\|הִתְהַלֵּ֣ךְ]] [[H9003\|בָּ]][[H0776G\|אָ֔רֶץ]] [[H9005\|לְ]][[H0753\|אָרְכָּ֖]][[H9024\|הּ]] [[H9002\|וּ]][[H9005\|לְ]][[H7341\|רָחְבָּ֑]][[H9024\|הּ]] [[H3588A\|כִּ֥י]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H5414G\|אֶתְּנֶֽ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic LAND|LAND]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.13.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.13.16|<< Genesis 13:16]]</td><td align="center" style="border:none;">[[Gen.13|Genesis 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.13.18|Genesis 13:18 >>]]</td></tr></table>
 

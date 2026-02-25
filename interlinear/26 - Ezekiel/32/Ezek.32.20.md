@@ -1,8 +1,54 @@
+---
+title: Ezekiel 32:20
+type: Verse
+kjv: "They shall fall in the midst of them that are slain by the sword: she is delivered to the sword: draw her and all her multitudes."
+bsb: "They will fall among those slain by the sword. The sword is appointed! Let them drag her away along with all her multitudes."
+hebrew: "בְּת֥וֹךְ חַלְלֵי־ חֶ֖רֶב יִפֹּ֑לוּ חֶ֣רֶב נִתָּ֔נָה מָשְׁכ֥וּ אוֹתָ֖הּ וְכָל־ הֲמוֹנֶֽיהָ׃"
+pericope: "[[Ezek.32.17 Egypt Cast into the Pit|Egypt Cast into the Pit]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 32
+book/chapter: "[[Ezek.32|Ezekiel 32]]"
+chronological_order: 823
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H2491A]]"
+- "[[H9014]]"
+- "[[H2719]]"
+- "[[H5307G]]"
+- "[[H5414G]]"
+- "[[H4900]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H1995A]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 32:20**<big><big>[[Ezek.32.17 Egypt Cast into the Pit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall fall in the midst of [them that are] slain by the sword: she is delivered to the sword: draw her and all her multitudes.
 <small><sub>**BSB:**</sub></small>
 They will fall among those slain by the sword. The sword is appointed! Let them drag her away along with all her multitudes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H2491A\|חַלְלֵי]][[H9014\|־]] [[H2719\|חֶ֖רֶב]] [[H5307G\|יִפֹּ֑לוּ]] [[H2719\|חֶ֣רֶב]] [[H5414G\|נִתָּ֔נָה]] [[H4900\|מָשְׁכ֥וּ]] [[H0853\|אוֹתָ֖]][[H9034\|הּ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1995A\|הֲמוֹנֶֽי]][[H9024\|הָ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.19|<< Ezekiel 32:19]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.21|Ezekiel 32:21 >>]]</td></tr></table>
 

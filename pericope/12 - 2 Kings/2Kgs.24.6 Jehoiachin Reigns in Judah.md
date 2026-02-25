@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jehoiachin Reigns in Judah
+type: Pericope
 pericope: "[[2Kgs.24.6 Jehoiachin Reigns in Judah|Jehoiachin Reigns in Judah]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 24
 book/chapter: "[[2Kgs.24|2 Kings 24]]"
-genre:
+chronological_order: 741
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 4
 verses:
 - "[[2Kgs.24.6]]"
 - "[[2Kgs.24.7]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Kgs.24.9]]"
 ---
 
-[[2Kgs.24|2 Kings 24:6 - 2 Kings 24:9]]
+<small>[[2Kgs.24|2 Kings 24:6-9]]</small>
 *Jehoiachin Reigns in Judah*
 
 [[2Kgs.24.6|6]] So Jehoiakim slept with his fathers: and Jehoiachin his son reigned in his stead.

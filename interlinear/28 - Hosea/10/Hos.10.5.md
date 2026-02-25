@@ -1,8 +1,62 @@
+---
+title: Hosea 10:5
+type: Verse
+kjv: "The inhabitants of Samaria shall fear because of the calves of Bethaven: for the people thereof shall mourn over it, and the priests thereof that rejoiced on it, for the glory thereof, because it is departed from it."
+bsb: "The people of Samaria will fear for the calf of Beth-aven. Indeed, its people will mourn over it with its idolatrous priests—those who rejoiced in its glory—for it has been taken from them into exile."
+hebrew: "לְעֶגְלוֹת֙ בֵּ֣ית אָ֔וֶן יָג֖וּרוּ שְׁכַ֣ן שֹֽׁמְר֑וֹן כִּי־ אָבַ֨ל עָלָ֜יו עַמּ֗וֹ וּכְמָרָיו֙ עָלָ֣יו יָגִ֔ילוּ עַל־ כְּבוֹד֖וֹ כִּֽי־ גָלָ֥ה מִמֶּֽנּוּ׃"
+pericope: "[[Hos.10.1 Retribution for Israel’s Sin|Retribution for Israel’s Sin]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 10
+book/chapter: "[[Hos.10|Hosea 10]]"
+chronological_order: 651
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BETH-AVEN|BETH-AVEN]]"
+- "[[topic CALF|CALF]]"
+- "[[topic CHEMARIM|CHEMARIM]]"
+strongs:
+- "[[H9005]]"
+- "[[H5697A]]"
+- "[[H1007]]"
+- "[[H1481C]]"
+- "[[H7934]]"
+- "[[H8111]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0056]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3649]]"
+- "[[H1523]]"
+- "[[H3519]]"
+- "[[H1540K]]"
+- "[[H4480A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 10:5**<big><big>[[Hos.10.1 Retribution for Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The inhabitants of Samaria shall fear because of the calves of Bethaven: for the people thereof shall mourn over it, and the priests thereof [that] rejoiced on it, for the glory thereof, because it is departed from it.
 <small><sub>**BSB:**</sub></small>
 The people of Samaria will fear for the calf of Beth-aven. Indeed, its people will mourn over it with its idolatrous priests—those who rejoiced in its glory—for it has been taken from them into exile.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H5697A\|עֶגְלוֹת֙]] [[H1007\|בֵּ֣ית]] [[H1007\|אָ֔וֶן]] [[H1481C\|יָג֖וּרוּ]] [[H7934\|שְׁכַ֣ן]] [[H8111\|שֹֽׁמְר֑וֹן]] [[H3588A\|כִּי]][[H9014\|־]] [[H0056\|אָבַ֨ל]] [[H5921A\|עָלָ֜י]][[H9033\|ו]] [[H5971A\|עַמּ֗]][[H9023\|וֹ]] [[H9002\|וּ]][[H3649\|כְמָרָי]][[H9023\|ו֙]] [[H5921A\|עָלָ֣י]][[H9033\|ו]] [[H1523\|יָגִ֔ילוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H3519\|כְּבוֹד֖]][[H9023\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1540K\|גָלָ֥ה]] [[H4480A\|מִמֶּֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-AVEN|BETH-AVEN]] • [[topic CALF|CALF]] • [[topic CHEMARIM|CHEMARIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.10.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.4|<< Hosea 10:4]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.6|Hosea 10:6 >>]]</td></tr></table>
 

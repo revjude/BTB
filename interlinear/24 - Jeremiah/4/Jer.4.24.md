@@ -1,8 +1,56 @@
+---
+title: Jeremiah 4:24
+type: Verse
+kjv: "I beheld the mountains, and, lo, they trembled, and all the hills moved lightly."
+bsb: "I looked at the mountains, and behold, they were quaking; all the hills were swaying."
+hebrew: "רָאִ֙יתִי֙ הֶֽהָרִ֔ים וְהִנֵּ֖ה רֹעֲשִׁ֑ים וְכָל־ הַגְּבָע֖וֹת הִתְקַלְקָֽלוּ׃"
+pericope: "[[Jer.4.19 Lamentation for Judah|Lamentation for Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 4
+book/chapter: "[[Jer.4|Jeremiah 4]]"
+chronological_order: 721
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic EARTHQUAKES|EARTHQUAKES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H7200G]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H7493]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1389I]]"
+- "[[H7043]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 4:24**<big><big>[[Jer.4.19 Lamentation for Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I beheld the mountains, and, lo, they trembled, and all the hills moved lightly.
 <small><sub>**BSB:**</sub></small>
 I looked at the mountains, and behold, they were quaking; all the hills were swaying.
+<small><sub>**Hebrew:**</sub></small>
+[[H7200G\|רָאִ֙יתִי֙]] [[H9009\|הֶֽ]][[H2022G\|הָרִ֔ים]] [[H9002\|וְ]][[H2009\|הִנֵּ֖ה]] [[H7493\|רֹעֲשִׁ֑ים]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1389I\|גְּבָע֖וֹת]] [[H7043\|הִתְקַלְקָֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic EARTHQUAKES|EARTHQUAKES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.23|<< Jeremiah 4:23]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.25|Jeremiah 4:25 >>]]</td></tr></table>
 

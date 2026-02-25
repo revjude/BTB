@@ -1,6 +1,86 @@
+---
+title: LXX Judges 14:3
+type: Verse
+lxx: "And his father said to him, and  his mother, Is it that there is not a woman of the daughters of your brethren and among all my people, that you should go to take a wife from the uncircumcised Philistines? And Samson said to  his father, Take this one for me! for she pleases in my eyes."
+greek: "και είπεν αυτώ ο πατήρ αυτού και η μήτηρ αυτού ουκ έστιν από των θυγατέρων των αδελφών σου και εν παντί τω λαώ μου γυνή ότι συ πορεύση λαβείν γυναίκα εκ των αλλοφύλων των απεριτμήτων και είπε Σαμψών προς τον πατέρα αυτού ταύτην λάβε μοι ότι αύτη ήρεσεν εν οφθαλμοίς μου"
+original_language: Greek
+testament: Old
+book: Judges
+chapter: 14
+book/chapter: "[[Judg.14|Judges 14]]"
+chronological_order: 268
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3384]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G2364]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1537]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G1473]]"
+- "[[G1135]]"
+- "[[G3754]]"
+- "[[G1473]]"
+- "[[G4198]]"
+- "[[G2983]]"
+- "[[G1135]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G0246]]"
+- "[[G3588]]"
+- "[[G0564]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4546]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+- "[[G3778]]"
+- "[[G2983]]"
+- "[[G1473]]"
+- "[[G3754]]"
+- "[[G3778]]"
+- "[[G0700]]"
+- "[[G1722]]"
+- "[[G3788]]"
+- "[[G1473]]"
+---
+
 **LXX Judges 14:3** 
 <small><sub>**LXX:**</sub></small>
 And his father said to him, and  his mother, Is it that there is not a woman of the daughters of your brethren and among all my people, that you should go to take a wife from the uncircumcised Philistines? And Samson said to  his father, Take this one for me! for she pleases in my eyes. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπεν]] [[G1473\|αυτώ]] [[G3588\|ο]] [[G3962\|πατήρ]] [[G1473\|αυτού]] [[G2532\|και]] [[G3588\|η]] [[G3384\|μήτηρ]] [[G1473\|αυτού]] [[G3756\|ουκ]] [[G1510\|έστιν]] [[G0575\|από]] [[G3588\|των]] [[G2364\|θυγατέρων]] [[G3588\|των]] [[G0080\|αδελφών]] [[G1473\|σου]] [[G2532\|και]] [[G1537\|εν]] [[G3956\|παντί]] [[G3588\|τω]] [[G2992\|λαώ]] [[G1473\|μου]] [[G1135\|γυνή]] [[G3754\|ότι]] [[G1473\|συ]] [[G4198\|πορεύση]] [[G2983\|λαβείν]] [[G1135\|γυναίκα]] [[G1537\|εκ]] [[G3588\|των]] [[G0246\|αλλοφύλων]] [[G3588\|των]] [[G0564\|απεριτμήτων]] [[G2532\|και]] [[G2036\|είπε]] [[G4546\|Σαμψών]] [[G4314\|προς]] [[G3588\|τον]] [[G3962\|πατέρα]] [[G1473\|αυτού]] [[G3778\|ταύτην]] [[G2983\|λάβε]] [[G1473\|μοι]] [[G3754\|ότι]] [[G3778\|αύτη]] [[G0700\|ήρεσεν]] [[G1722\|εν]] [[G3788\|οφθαλμοίς]] [[G1473\|μου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SAMSON|SAMSON]]</small>
 <small><sub>**MT:**</sub></small>
 [[Judg.14.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.2|<< Judges 14:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.4|Judges 14:4 >>]]</td></tr></table>
 
@@ -48,6 +128,6 @@ And his father said to him, and  his mother, Is it that there is not a woman of 
 | pleases | **<big>[[G0700\|ήρεσεν]]</big>** |
 | in | **<big>[[G1722\|εν]]</big>** |
 | my eyes. | **<big>[[G3788\|οφθαλμοίς]]</big>** **<big>[[G1473\|μου]]</big>** |
-[[Judg.14.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.2|<< Judges 14:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.4|Judges 14:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.2|<< Judges 14:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.4|Judges 14:4 >>]]</td></tr></table>
 
 

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jeremiah Rewrites the Scroll
+type: Pericope
 pericope: "[[Jer.36.27 Jeremiah Rewrites the Scroll|Jeremiah Rewrites the Scroll]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 36
 book/chapter: "[[Jer.36|Jeremiah 36]]"
-genre:
+chronological_order: 759
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 6
 verses:
 - "[[Jer.36.27]]"
 - "[[Jer.36.28]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Jer.36.32]]"
 ---
 
-[[Jer.36|Jeremiah 36:27 - Jeremiah 36:32]]
+<small>[[Jer.36|Jeremiah 36:27-32]]</small>
 *Jeremiah Rewrites the Scroll*
 
 [[Jer.36.27|27]] Then the word of the LORD came to Jeremiah, after that the king had burned the roll, and the words which Baruch wrote at the mouth of Jeremiah, saying,

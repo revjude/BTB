@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Better a Dry Morsel in Quietness
+type: Pericope
 pericope: "[[Prov.17.1 Better a Dry Morsel in Quietness|Better a Dry Morsel in Quietness]]"
-verse_count: 28
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 17
 book/chapter: "[[Prov.17|Proverbs 17]]"
-genre:
+chronological_order: 472
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 28
 verses:
 - "[[Prov.17.1]]"
 - "[[Prov.17.2]]"
@@ -46,7 +53,7 @@ verses:
 - "[[Prov.17.28]]"
 ---
 
-[[Prov.17|Proverbs 17:1 - Proverbs 17:28]]
+<small>[[Prov.17|Proverbs 17:1-28]]</small>
 *Better a Dry Morsel in Quietness*
 
 [[Prov.17.1|1]] Better \[is\] a dry morsel, and quietness therewith, than an house full of sacrifices \[with\] strife.

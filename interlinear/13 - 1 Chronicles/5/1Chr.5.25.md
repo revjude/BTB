@@ -1,8 +1,54 @@
+---
+title: 1 Chronicles 5:25
+type: Verse
+kjv: "And they transgressed against the God of their fathers, and went a whoring after the gods of the people of the land, whom God destroyed before them."
+bsb: "But they were unfaithful to the God of their fathers, and they prostituted themselves with the gods of the peoples of the land, whom God had destroyed before them."
+hebrew: "וַיִּֽמְעֲל֔וּ בֵּאלֹהֵ֖י אֲבוֹתֵיהֶ֑ם וַיִּזְנ֗וּ אַחֲרֵי֙ אֱלֹהֵ֣י עַמֵּי־ הָאָ֔רֶץ אֲשֶׁר־ הִשְׁמִ֥יד אֱלֹהִ֖ים מִפְּנֵיהֶֽם׃"
+pericope: "[[1Chr.5.23 The Half-Tribe of Manasseh|The Half-Tribe of Manasseh]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 5
+book/chapter: "[[1Chr.5|1 Chronicles 5]]"
+chronological_order: 324
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+strongs:
+- "[[H9001]]"
+- "[[H4603]]"
+- "[[H9003]]"
+- "[[H0430G]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H2181]]"
+- "[[H0310A]]"
+- "[[H0430]]"
+- "[[H5971A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H8045]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 5:25**<big><big>[[1Chr.5.23 The Half-Tribe of Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they transgressed against the God of their fathers, and went a whoring after the gods of the people of the land, whom God destroyed before them.
 <small><sub>**BSB:**</sub></small>
 But they were unfaithful to the God of their fathers, and they prostituted themselves with the gods of the peoples of the land, whom God had destroyed before them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4603\|יִּֽמְעֲל֔וּ]] [[H9003\|בֵּ]][[H0430G\|אלֹהֵ֖י]] [[H0001G\|אֲבוֹתֵי]][[H9028\|הֶ֑ם]] [[H9001\|וַ]][[H2181\|יִּזְנ֗וּ]] [[H0310A\|אַחֲרֵי֙]] [[H0430\|אֱלֹהֵ֣י]] [[H5971A\|עַמֵּי]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H8045\|הִשְׁמִ֥יד]] [[H0430G\|אֱלֹהִ֖ים]] [[H9006\|מִ]][[H6440G\|פְּנֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.5.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.24|<< 1 Chronicles 5:24]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.26|1 Chronicles 5:26 >>]]</td></tr></table>
 

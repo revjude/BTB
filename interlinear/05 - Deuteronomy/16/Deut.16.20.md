@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 16:20
+type: Verse
+kjv: "That which is altogether just shalt thou follow, that thou mayest live, and inherit the land which the LORD thy God giveth thee."
+bsb: "Pursue justice, and justice alone, so that you may live, and you may possess the land that the LORD your God is giving you."
+hebrew: "צֶ֥דֶק צֶ֖דֶק תִּרְדֹּ֑ף לְמַ֤עַן תִּֽחְיֶה֙ וְיָרַשְׁתָּ֣ אֶת־ הָאָ֔רֶץ אֲשֶׁר־ יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ׃ ס"
+pericope: "[[Deut.16.18 Judges and Justice|Judges and Justice]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 16
+book/chapter: "[[Deut.16|Deuteronomy 16]]"
+chronological_order: 212
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic HONESTY|HONESTY]]"
+- "[[topic INJUSTICE|INJUSTICE]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic JUSTICE|JUSTICE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H6664G]]"
+- "[[H7291]]"
+- "[[H4616]]"
+- "[[H2421]]"
+- "[[H9001]]"
+- "[[H3423H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Deuteronomy 16:20**<big><big>[[Deut.16.18 Judges and Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That which is altogether just shalt thou follow, that thou mayest live, and inherit the land which the LORD thy God giveth thee.
 <small><sub>**BSB:**</sub></small>
 Pursue justice, and justice alone, so that you may live, and you may possess the land that the LORD your God is giving you.
+<small><sub>**Hebrew:**</sub></small>
+[[H6664G\|צֶ֥דֶק]] [[H6664G\|צֶ֖דֶק]] [[H7291\|תִּרְדֹּ֑ף]] [[H4616\|לְמַ֤עַן]] [[H2421\|תִּֽחְיֶה֙]] [[H9001\|וְ]][[H3423H\|יָרַשְׁתָּ֣]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H5414G\|נֹתֵ֥ן]] [[H9005\|לָֽ]][[H9031\|ךְ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HONESTY|HONESTY]] • [[topic INJUSTICE|INJUSTICE]] • [[topic INTEGRITY|INTEGRITY]] • [[topic JUDGE|JUDGE]] • [[topic JUSTICE|JUSTICE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.16.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.16.19|<< Deuteronomy 16:19]]</td><td align="center" style="border:none;">[[Deut.16|Deuteronomy 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.16.21|Deuteronomy 16:21 >>]]</td></tr></table>
 
@@ -20,7 +81,7 @@ Pursue justice, and justice alone, so that you may live, and you may possess the
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God your  |**<big>&#8207;[[H0430G\|אֱלֹהֶ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] about to give  |**<big>&#8207;[[H5414G\|נֹתֵ֥ן]]&#8207; </big>**| no.Ten<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to you  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9031\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| La<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to you  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9031\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| La<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.16.19|<< Deuteronomy 16:19]]</td><td align="center" style="border:none;">[[Deut.16|Deuteronomy 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.16.21|Deuteronomy 16:21 >>]]</td></tr></table>
 
 

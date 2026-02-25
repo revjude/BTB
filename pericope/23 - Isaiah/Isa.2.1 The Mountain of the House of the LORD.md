@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Mountain of the House of the LORD
+type: Pericope
 pericope: "[[Isa.2.1 The Mountain of the House of the LORD|The Mountain of the House of the LORD]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 2
 book/chapter: "[[Isa.2|Isaiah 2]]"
-genre:
+chronological_order: 610
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 4
 verses:
 - "[[Isa.2.1]]"
 - "[[Isa.2.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Isa.2.4]]"
 ---
 
-[[Isa.2|Isaiah 2:1 - Isaiah 2:4]]
+<small>[[Isa.2|Isaiah 2:1-4]]</small>
 *The Mountain of the House of the LORD*
 
 [[Isa.2.1|1]] The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem.

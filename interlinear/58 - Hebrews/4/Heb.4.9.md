@@ -1,10 +1,54 @@
+---
+title: Hebrews 4:9
+type: Verse
+kjv: "There remaineth therefore a rest to the people of God."
+bsb: "There remains, then, a Sabbath rest for the people of God."
+greek: "ἄρα ἀπολείπεται σαββατισμὸς τῷ λαῷ τοῦ θεοῦ."
+pericope: "[[Heb.4.1 The Sabbath Rest|The Sabbath Rest]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 4
+book/chapter: "[[Heb.4|Hebrews 4]]"
+chronological_order: 1143
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic REST|REST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G0686]]"
+- "[[G0620]]"
+- "[[G4520]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Hebrews 4:9**<big><big>[[Heb.4.1 The Sabbath Rest|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 There remaineth therefore a rest to the people of God.
 <small><sub>**BSB:**</sub></small>
 There remains, then, a Sabbath rest for the people of God.
-<small><sub>**Literal:**</sub></small>
-So then there remains a Sabbath rest for the people <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.8|<< Hebrews 4:8]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.10|Hebrews 4:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0686\|ἄρα]]  [[G0620\|ἀπολείπεται]]  [[G4520\|σαββατισμὸς]]  [[G3588\|τῷ]]  [[G2992\|λαῷ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic HEAVEN|HEAVEN]] • [[topic HOLINESS|HOLINESS]] • [[topic REGENERATION|REGENERATION]] • [[topic REST|REST]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SABBATH|SABBATH]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.8|<< Hebrews 4:8]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.10|Hebrews 4:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

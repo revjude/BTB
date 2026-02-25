@@ -1,10 +1,50 @@
+---
+title: Matthew 28:17
+type: Verse
+kjv: "And when they saw him, they worshipped him: but some doubted."
+bsb: "When they saw Him, they worshiped Him, but some doubted."
+greek: "καὶ ἰδόντες αὐτὸν προσεκύνησαν αὐτῷ, οἱ δὲ ἐδίστασαν.¶"
+pericope: "[[Matt.28.16 The Great Commission|The Great Commission]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 28
+book/chapter: "[[Matt.28|Matthew 28]]"
+chronological_order: 1014
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G0846]]"
+- "[[G4352]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1365]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 28:17**<big><big>[[Matt.28.16 The Great Commission|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they saw him, they worshipped him: but some doubted.
 <small><sub>**BSB:**</sub></small>
 When they saw Him, they worshiped Him, but some doubted.
-<small><sub>**Literal:**</sub></small>
-And having seen Him they worshiped to him some however doubted.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.16|<< Matthew 28:16]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.18|Matthew 28:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1492H\|ἰδόντες]]  [[G0846\|αὐτὸν]]  [[G4352\|προσεκύνησαν]]  [[G0846\|αὐτῷ,]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G1365\|ἐδίστασαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOUBTING|DOUBTING]] • [[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.16|<< Matthew 28:16]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.18|Matthew 28:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,63 @@
+---
+title: Deuteronomy 7:23
+type: Verse
+kjv: "But the LORD thy God shall deliver them unto thee, and shall destroy them with a mighty destruction, until they be destroyed."
+bsb: "But the LORD your God will give them over to you and throw them into great confusion, until they are destroyed."
+hebrew: "וּנְתָנָ֛ם יְהוָ֥ה אֱלֹהֶ֖יךָ לְפָנֶ֑יךָ וְהָמָם֙ מְהוּמָ֣ה גְדֹלָ֔ה עַ֖ד הִשָּׁמְדָֽם׃"
+pericope: "[[Deut.7.12 The Promises of God|The Promises of God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 7
+book/chapter: "[[Deut.7|Deuteronomy 7]]"
+chronological_order: 203
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H2000]]"
+- "[[H4103]]"
+- "[[H1419A]]"
+- "[[H5704]]"
+- "[[H8045]]"
+- "[[H9048]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 7:23**<big><big>[[Deut.7.12 The Promises of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the LORD thy God shall deliver them unto thee, and shall destroy them with a mighty destruction, until they be destroyed.
 <small><sub>**BSB:**</sub></small>
 But the LORD your God will give them over to you and throw them into great confusion, until they are destroyed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H5414G\|נְתָנָ֛]][[H9038\|ם]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H9005\|לְ]][[H6440G\|פָנֶ֑י]][[H9021\|ךָ]] [[H9001\|וְ]][[H2000\|הָמָ]][[H9038\|ם֙]] [[H4103\|מְהוּמָ֣ה]] [[H1419A\|גְדֹלָ֔ה]] [[H5704\|עַ֖ד]] [[H8045\|הִשָּׁמְדָֽ]][[H9048\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic GOD|GOD]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.22|<< Deuteronomy 7:22]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.24|Deuteronomy 7:24 >>]]</td></tr></table>
 

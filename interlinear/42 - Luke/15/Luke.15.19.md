@@ -1,10 +1,69 @@
+---
+title: Luke 15:19
+type: Verse
+kjv: "And am no more worthy to be called thy son: make me as one of thy hired servants."
+bsb: "I am no longer worthy to be called your son. Make me like one of your hired servants.”’"
+jesus_said: "And am no more worthy to be called thy son: make me as one of thy hired servants."
+greek: "καὶ οὐκέτι οὐκέτι εἰμὶ ἄξιος κληθῆναι υἱός σου. ποίησόν με ὡς ἕνα τῶν μισθίων σου."
+pericope: "[[Luke.15.11 The Parable of the Prodigal Son|The Parable of the Prodigal Son]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 15
+book/chapter: "[[Luke.15|Luke 15]]"
+chronological_order: 977
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic EMPLOYEE|EMPLOYEE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRODIGAL SON|PRODIGAL SON]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SIN|SIN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2089]]"
+- "[[G1510]]"
+- "[[G0514]]"
+- "[[G2564G]]"
+- "[[G5207]]"
+- "[[G4771]]"
+- "[[G4160G]]"
+- "[[G3165]]"
+- "[[G5613]]"
+- "[[G1520]]"
+- "[[G3588]]"
+- "[[G3407]]"
+texts:
+- k
+- NKO
+---
+
 **Luke 15:19**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And am no more worthy to be called thy son: make me as one of thy hired servants.
 <small><sub>**BSB:**</sub></small>
 I am no longer worthy to be called your son. Make me like one of your hired servants.”’
-<small><sub>**Literal:**</sub></small>
-and no longer am I worthy to be called son of you. do make me like one of the servants of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.18|<< Luke 15:18]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.20|Luke 15:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G1510\|εἰμὶ]]  [[G0514\|ἄξιος]]  [[G2564G\|κληθῆναι]]  [[G5207\|υἱός]]  [[G4771\|σου.]]  [[G4160G\|ποίησόν]]  [[G3165\|με]]  [[G5613\|ὡς]]  [[G1520\|ἕνα]]  [[G3588\|τῶν]]  [[G3407\|μισθίων]]  [[G4771\|σου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic EMPLOYEE|EMPLOYEE]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic PENITENT|PENITENT]] • [[topic PRODIGAL SON|PRODIGAL SON]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SALVATION|SALVATION]] • [[topic SERVANT|SERVANT]] • [[topic SIN|SIN]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.18|<< Luke 15:18]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.20|Luke 15:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

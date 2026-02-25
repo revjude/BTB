@@ -1,8 +1,52 @@
+---
+title: Job 15:19
+type: Verse
+kjv: "Unto whom alone the earth was given, and no stranger passed among them."
+bsb: "to whom alone the land was given when no foreigner passed among them."
+hebrew: "לָהֶ֣ם לְ֭בַדָּם נִתְּנָ֣ה הָאָ֑רֶץ וְלֹא־ עָ֖בַר זָ֣ר בְּתוֹכָֽם׃"
+pericope: "[[Job.15.1 Eliphaz：Job Does Not Fear God|Eliphaz：Job Does Not Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 15
+book/chapter: "[[Job.15|Job 15]]"
+chronological_order: 26
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0905H]]"
+- "[[H5414G]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5674A]]"
+- "[[H2114A]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 15:19**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unto whom alone the earth was given, and no stranger passed among them.
 <small><sub>**BSB:**</sub></small>
 to whom alone the land was given when no foreigner passed among them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H9038\|הֶ֣ם]] [[H9005\|לְ֭]][[H0905H\|בַדָּ]][[H9038\|ם]] [[H5414G\|נִתְּנָ֣ה]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H5674A\|עָ֖בַר]] [[H2114A\|זָ֣ר]] [[H9003\|בְּ]][[H8432\|תוֹכָֽ]][[H9028\|ם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.18|<< Job 15:18]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.20|Job 15:20 >>]]</td></tr></table>
 

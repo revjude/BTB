@@ -1,10 +1,55 @@
+---
+title: Acts 25:4
+type: Verse
+kjv: "But Festus answered, that Paul should be kept at Caesarea, and that he himself would depart shortly thither."
+bsb: "But Festus replied, “Paul is being held in Caesarea, and I myself am going there soon."
+greek: "Ὁ μὲν οὖν Φῆστος ἀπεκρίθη τηρεῖσθαι τὸν Παῦλον εἰς Καισάρειαν, ἑαυτὸν δὲ μέλλειν ἐν τάχει ἐκπορεύεσθαι·"
+pericope: "[[Acts.25.1 Paul’s Trial before Festus|Paul’s Trial before Festus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 25
+book/chapter: "[[Acts.25|Acts 25]]"
+chronological_order: 1107
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G3588]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G5347]]"
+- "[[G0611]]"
+- "[[G5083H]]"
+- "[[G3972G]]"
+- "[[G1519]]"
+- "[[G2542H]]"
+- "[[G1438]]"
+- "[[G1161]]"
+- "[[G3195]]"
+- "[[G1722]]"
+- "[[G5034]]"
+- "[[G1607]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 25:4**<big><big>[[Acts.25.1 Paul’s Trial before Festus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Festus answered, that Paul should be kept at Caesarea, and that he himself would depart shortly [thither].
 <small><sub>**BSB:**</sub></small>
 But Festus replied, “Paul is being held in Caesarea, and I myself am going there soon.
-<small><sub>**Literal:**</sub></small>
-<the> Indeed therefore Festus answered that is to be kept <the> Paul in Caesarea, he himself however ensuing with speed to set out;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.3|<< Acts 25:3]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.5|Acts 25:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G5347\|Φῆστος]]  [[G0611\|ἀπεκρίθη]]  [[G5083H\|τηρεῖσθαι]]  [[G3588\|τὸν]]  [[G3972G\|Παῦλον]]  [[G1519\|εἰς]]  [[G2542H\|Καισάρειαν,]]  [[G1438\|ἑαυτὸν]]  [[G1161\|δὲ]]  [[G3195\|μέλλειν]]  [[G1722\|ἐν]]  [[G5034\|τάχει]]  [[G1607\|ἐκπορεύεσθαι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.3|<< Acts 25:3]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.5|Acts 25:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,54 @@
+---
+title: Psalm 119:142
+type: Verse
+kjv: "Thy righteousness is an everlasting righteousness, and thy law is the truth."
+bsb: "Your righteousness is everlasting and Your law is true."
+hebrew: "צִדְקָתְךָ֣ צֶ֣דֶק לְעוֹלָ֑ם וְֽתוֹרָתְךָ֥ אֱמֶֽת׃"
+pericope: "[[Ps.119.137 Your Word Is a Lamp to My Feet - TZADDI|Your Word Is a Lamp to My Feet - TZADDI]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ETERNITY|ETERNITY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H6666]]"
+- "[[H9021]]"
+- "[[H6664G]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H9002]]"
+- "[[H8451]]"
+- "[[H0571I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:142**<big><big>[[Ps.119.137 Your Word Is a Lamp to My Feet - TZADDI|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy righteousness [is] an everlasting righteousness, and thy law [is] the truth.
 <small><sub>**BSB:**</sub></small>
 Your righteousness is everlasting and Your law is true.
+<small><sub>**Hebrew:**</sub></small>
+[[H6666\|צִדְקָתְ]][[H9021\|ךָ֣]] [[H6664G\|צֶ֣דֶק]] [[H9005\|לְ]][[H5769G\|עוֹלָ֑ם]] [[H9002\|וְֽ]][[H8451\|תוֹרָתְ]][[H9021\|ךָ֥]] [[H0571I\|אֱמֶֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ETERNITY|ETERNITY]] • [[topic GOD|GOD]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.142|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.141|<< Psalms 119:141]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.143|Psalms 119:143 >>]]</td></tr></table>
 

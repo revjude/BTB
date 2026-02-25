@@ -1,8 +1,76 @@
+---
+title: Ezekiel 34:12
+type: Verse
+kjv: "As a shepherd seeketh out his flock in the day that he is among his sheep that are scattered; so will I seek out my sheep, and will deliver them out of all places where they have been scattered in the cloudy and dark day."
+bsb: "As a shepherd looks for his scattered sheep when he is among the flock, so I will look for My flock. I will rescue them from all the places to which they were scattered on a day of clouds and darkness."
+hebrew: "כְּבַקָּרַת֩ רֹעֶ֨ה עֶדְר֜וֹ בְּיוֹם־ הֱיוֹת֤וֹ בְתוֹךְ־ צֹאנוֹ֙ נִפְרָשׁ֔וֹת כֵּ֖ן אֲבַקֵּ֣ר אֶת־ צֹאנִ֑י וְהִצַּלְתִּ֣י אֶתְהֶ֗ם מִכָּל־ הַמְּקוֹמֹת֙ אֲשֶׁ֣ר נָפֹ֣צוּ שָׁ֔ם בְּי֥וֹם עָנָ֖ן וַעֲרָפֶֽל׃"
+pericope: "[[Ezek.34.11 The Good Shepherd|The Good Shepherd]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 34
+book/chapter: "[[Ezek.34|Ezekiel 34]]"
+chronological_order: 825
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9004]]"
+- "[[H1243]]"
+- "[[H7462B]]"
+- "[[H5739]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9043]]"
+- "[[H8432]]"
+- "[[H6629G]]"
+- "[[H6567A]]"
+- "[[H3651C]]"
+- "[[H1239]]"
+- "[[H0853]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H5337]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H6327A]]"
+- "[[H8033G]]"
+- "[[H6051]]"
+- "[[H9002]]"
+- "[[H6205]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 34:12**<big><big>[[Ezek.34.11 The Good Shepherd|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As a shepherd seeketh out his flock in the day that he is among his sheep [that are] scattered; so will I seek out my sheep, and will deliver them out of all places where they have been scattered in the cloudy and dark day.
 <small><sub>**BSB:**</sub></small>
 As a shepherd looks for his scattered sheep when he is among the flock, so I will look for My flock. I will rescue them from all the places to which they were scattered on a day of clouds and darkness.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּ]][[H1243\|בַקָּרַת֩]] [[H7462B\|רֹעֶ֨ה]] [[H5739\|עֶדְר֜]][[H9023\|וֹ]] [[H9003\|בְּ]][[H3117G\|יוֹם]][[H9014\|־]] [[H1961\|הֱיוֹת֤]][[H9043\|וֹ]] [[H9003\|בְ]][[H8432\|תוֹךְ]][[H9014\|־]] [[H6629G\|צֹאנ]][[H9023\|וֹ֙]] [[H6567A\|נִפְרָשׁ֔וֹת]] [[H3651C\|כֵּ֖ן]] [[H1239\|אֲבַקֵּ֣ר]] [[H0853\|אֶת]][[H9014\|־]] [[H6629G\|צֹאנִ֑]][[H9020\|י]] [[H9001\|וְ]][[H5337\|הִצַּלְתִּ֣י]] [[H0853\|אֶתְ]][[H9038\|הֶ֗ם]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מְּקוֹמֹת֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6327A\|נָפֹ֣צוּ]] [[H8033G\|שָׁ֔ם]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H6051\|עָנָ֖ן]] [[H9002\|וַ]][[H6205\|עֲרָפֶֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.11|<< Ezekiel 34:11]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.13|Ezekiel 34:13 >>]]</td></tr></table>
 

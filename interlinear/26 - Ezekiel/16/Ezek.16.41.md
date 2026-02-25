@@ -1,8 +1,69 @@
+---
+title: Ezekiel 16:41
+type: Verse
+kjv: "And they shall burn thine houses with fire, and execute judgments upon thee in the sight of many women: and I will cause thee to cease from playing the harlot, and thou also shalt give no hire any more."
+bsb: "Then they will burn down your houses and execute judgment against you in the sight of many women. I will put an end to your prostitution, and you will never again pay your lovers."
+hebrew: "וְשָׂרְפ֤וּ בָתַּ֙יִךְ֙ בָּאֵ֔שׁ וְעָשׂוּ־ בָ֣ךְ שְׁפָטִ֔ים לְעֵינֵ֖י נָשִׁ֣ים רַבּ֑וֹת וְהִשְׁבַּתִּיךְ֙ מִזּוֹנָ֔ה וְגַם־ אֶתְנַ֖ן לֹ֥א תִתְּנִי־ עֽוֹד׃"
+pericope: "[[Ezek.16.35 Judgment on Jerusalem|Judgment on Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H8313]]"
+- "[[H1004B]]"
+- "[[H9022]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H6213A]]"
+- "[[H9014]]"
+- "[[H9032]]"
+- "[[H8201]]"
+- "[[H9005]]"
+- "[[H5869H]]"
+- "[[H0802G]]"
+- "[[H7227A]]"
+- "[[H7673A]]"
+- "[[H9006]]"
+- "[[H2181]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H0868]]"
+- "[[H3808]]"
+- "[[H5414G]]"
+- "[[H5750]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 16:41**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall burn thine houses with fire, and execute judgments upon thee in the sight of many women: and I will cause thee to cease from playing the harlot, and thou also shalt give no hire any more.
 <small><sub>**BSB:**</sub></small>
 Then they will burn down your houses and execute judgment against you in the sight of many women. I will put an end to your prostitution, and you will never again pay your lovers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8313\|שָׂרְפ֤וּ]] [[H1004B\|בָתַּ֙יִ]][[H9022\|ךְ֙]] [[H9003\|בָּ]][[H0784\|אֵ֔שׁ]] [[H9001\|וְ]][[H6213A\|עָשׂוּ]][[H9014\|־]] [[H9003\|בָ֣]][[H9032\|ךְ]] [[H8201\|שְׁפָטִ֔ים]] [[H9005\|לְ]][[H5869H\|עֵינֵ֖י]] [[H0802G\|נָשִׁ֣ים]] [[H7227A\|רַבּ֑וֹת]] [[H9001\|וְ]][[H7673A\|הִשְׁבַּתִּי]][[H9032\|ךְ֙]] [[H9006\|מִ]][[H2181\|זּוֹנָ֔ה]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H0868\|אֶתְנַ֖ן]] [[H3808\|לֹ֥א]] [[H5414G\|תִתְּנִי]][[H9014\|־]] [[H5750\|עֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic HIGH PLACES|HIGH PLACES]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.40|<< Ezekiel 16:40]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.42|Ezekiel 16:42 >>]]</td></tr></table>
 

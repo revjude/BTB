@@ -1,10 +1,67 @@
+---
+title: Hebrews 12:15
+type: Verse
+kjv: "Looking diligently lest any man fail of the grace of God; lest any root of bitterness springing up trouble you, and thereby many be defiled;"
+bsb: "See to it that no one falls short of the grace of God, and that no root of bitterness springs up to cause trouble and defile many."
+greek: "ἐπισκοποῦντες μή τις ὑστερῶν ἀπὸ τῆς χάριτος τοῦ θεοῦ, μή τις ῥίζα πικρίας ἄνω φύουσα ἐνοχλῇ, καὶ δι᾽ αὐτῆς μιανθῶσιν οἱ πολλοί·"
+pericope: "[[Heb.12.14 A Call to Holiness|A Call to Holiness]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 12
+book/chapter: "[[Heb.12|Hebrews 12]]"
+chronological_order: 1151
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DILIGENCE|DILIGENCE]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G1983]]"
+- "[[G3361]]"
+- "[[G5100]]"
+- "[[G5302]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G5485]]"
+- "[[G2316]]"
+- "[[G4491]]"
+- "[[G4088]]"
+- "[[G0507]]"
+- "[[G5453]]"
+- "[[G1776]]"
+- "[[G2532]]"
+- "[[G1223]]"
+- "[[G0846]]"
+- "[[G3392]]"
+- "[[G4183]]"
+texts:
+- NKO
+- N(k)O
+- o
+---
+
 **Hebrews 12:15**<big><big>[[Heb.12.14 A Call to Holiness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Looking diligently lest any man fail of the grace of God; lest any root of bitterness springing up trouble [you], and thereby many be defiled;
 <small><sub>**BSB:**</sub></small>
 See to it that no one falls short of the grace of God, and that no root of bitterness springs up to cause trouble and defile many.
-<small><sub>**Literal:**</sub></small>
-observing lest any be failing of the grace <the> of God, lest any root of bitterness up springing may trouble [you], and through this may be defiled <the> many;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.14|<< Hebrews 12:14]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.16|Hebrews 12:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1983\|ἐπισκοποῦντες]]  [[G3361\|μή]]  [[G5100\|τις]]  [[G5302\|ὑστερῶν]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G5485\|χάριτος]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G3361\|μή]]  [[G5100\|τις]]  [[G4491\|ῥίζα]]  [[G4088\|πικρίας]]  [[G0507\|ἄνω]]  [[G5453\|φύουσα]]  [[G1776\|ἐνοχλῇ,]]  [[G2532\|καὶ]]  [[G1223\|δι᾽]]  [[G0846\|αὐτῆς]]  [[G3392\|μιανθῶσιν]]  [[G3588\|οἱ]]  [[G4183\|πολλοί·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DILIGENCE|DILIGENCE]] • [[topic HOLINESS|HOLINESS]] • [[topic INFLUENCE|INFLUENCE]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic REPROBACY|REPROBACY]] • [[topic SIN|SIN]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.14|<< Hebrews 12:14]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.16|Hebrews 12:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 12:15** is...
 > $\quad$ referencing: [[LXX.Deut.29.18|Deut 29:18]]

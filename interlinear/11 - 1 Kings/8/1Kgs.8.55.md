@@ -1,8 +1,55 @@
+---
+title: 1 Kings 8:55
+type: Verse
+kjv: "And he stood, and blessed all the congregation of Israel with a loud voice, saying,"
+bsb: "And he stood and blessed the whole assembly of Israel in a loud voice, saying:"
+hebrew: "וַֽיַּעְמֹ֕ד וַיְבָ֕רֶךְ אֵ֖ת כָּל־ קְהַ֣ל יִשְׂרָאֵ֑ל ק֥וֹל גָּד֖וֹל לֵאמֹֽר׃"
+pericope: "[[1Kgs.8.54 Solomon’s Benediction|Solomon’s Benediction]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5975G]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6951]]"
+- "[[H3478]]"
+- "[[H6963A]]"
+- "[[H1419A]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:55**<big><big>[[1Kgs.8.54 Solomon’s Benediction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he stood, and blessed all the congregation of Israel with a loud voice, saying,
 <small><sub>**BSB:**</sub></small>
 And he stood and blessed the whole assembly of Israel in a loud voice, saying:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H5975G\|יַּעְמֹ֕ד]] [[H9001\|וַ]][[H1288\|יְבָ֕רֶךְ]] [[H0853\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H6951\|קְהַ֣ל]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H6963A\|ק֥וֹל]] [[H1419A\|גָּד֖וֹל]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.55|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.54|<< 1 Kings 8:54]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.56|1 Kings 8:56 >>]]</td></tr></table>
 

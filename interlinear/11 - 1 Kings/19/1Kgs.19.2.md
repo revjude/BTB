@@ -1,8 +1,78 @@
+---
+title: 1 Kings 19:2
+type: Verse
+kjv: "Then Jezebel sent a messenger unto Elijah, saying, So let the gods do to me, and more also, if I make not thy life as the life of one of them by to morrow about this time."
+bsb: "So Jezebel sent a messenger to Elijah, saying, “May the gods deal with me, and ever so severely, if by this time tomorrow I have not made your life like the lives of those you killed!”"
+hebrew: "וַתִּשְׁלַ֤ח אִיזֶ֙בֶל֙ מַלְאָ֔ךְ אֶל־ אֵלִיָּ֖הוּ לֵאמֹ֑ר כֹּֽה־ יַעֲשׂ֤וּן אֱלֹהִים֙ וְכֹ֣ה יוֹסִפ֔וּן כִּֽי־ כָעֵ֤ת מָחָר֙ אָשִׂ֣ים אֶֽת־ נַפְשְׁךָ֔ כְּנֶ֖פֶשׁ אַחַ֥ד מֵהֶֽם׃"
+pericope: "[[1Kgs.19.1 Elijah Flees from Jezebel|Elijah Flees from Jezebel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 19
+book/chapter: "[[1Kgs.19|1 Kings 19]]"
+chronological_order: 565
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEZEBEL|JEZEBEL]]"
+- "[[topic KING|KING]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic REVENGE|REVENGE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0348]]"
+- "[[H4397G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0452G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H6213A]]"
+- "[[H9013]]"
+- "[[H0430]]"
+- "[[H9002]]"
+- "[[H3254H]]"
+- "[[H3588A]]"
+- "[[H9004]]"
+- "[[H6256]]"
+- "[[H4279]]"
+- "[[H7760A]]"
+- "[[H0853]]"
+- "[[H5315H]]"
+- "[[H9021]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 19:2**<big><big>[[1Kgs.19.1 Elijah Flees from Jezebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Jezebel sent a messenger unto Elijah, saying, So let the gods do [to me], and more also, if I make not thy life as the life of one of them by to morrow about this time.
 <small><sub>**BSB:**</sub></small>
 So Jezebel sent a messenger to Elijah, saying, “May the gods deal with me, and ever so severely, if by this time tomorrow I have not made your life like the lives of those you killed!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|תִּשְׁלַ֤ח]] [[H0348\|אִיזֶ֙בֶל֙]] [[H4397G\|מַלְאָ֔ךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H0452G\|אֵלִיָּ֖הוּ]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H6213A\|יַעֲשׂ֤וּ]][[H9013\|ן]] [[H0430\|אֱלֹהִים֙]] [[H9002\|וְ]][[H3541\|כֹ֣ה]] [[H3254H\|יוֹסִפ֔וּ]][[H9013\|ן]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9004\|כָ]][[H6256\|עֵ֤ת]] [[H4279\|מָחָר֙]] [[H7760A\|אָשִׂ֣ים]] [[H0853\|אֶֽת]][[H9014\|־]] [[H5315H\|נַפְשְׁ]][[H9021\|ךָ֔]] [[H9004\|כְּ]][[H5315H\|נֶ֖פֶשׁ]] [[H0259\|אַחַ֥ד]] [[H9006\|מֵ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIJAH|ELIJAH]] • [[topic GOD|GOD]] • [[topic JEZEBEL|JEZEBEL]] • [[topic KING|KING]] • [[topic LIFE|LIFE]] • [[topic MALICE|MALICE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic REVENGE|REVENGE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.19.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19.1|<< 1 Kings 19:1]]</td><td align="center" style="border:none;">[[1Kgs.19|1 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.19.3|1 Kings 19:3 >>]]</td></tr></table>
 

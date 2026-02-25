@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: James Killed, Peter Imprisoned
+type: Pericope
 pericope: "[[Acts.12.1 James Killed, Peter Imprisoned|James Killed, Peter Imprisoned]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Acts
 chapter: 12
 book/chapter: "[[Acts.12|Acts 12]]"
-genre:
+chronological_order: 1030
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 4
 verses:
 - "[[Acts.12.1]]"
 - "[[Acts.12.2]]"
@@ -21,7 +28,7 @@ verses:
 - "[[Acts.12.4]]"
 ---
 
-[[Acts.12|Acts 12:1 - Acts 12:4]]
+<small>[[Acts.12|Acts 12:1-4]]</small>
 *James Killed, Peter Imprisoned*
 
 [[Acts.12.1|1]] Now about that time Herod the king stretched forth \[his\] hands to vex certain of the church.

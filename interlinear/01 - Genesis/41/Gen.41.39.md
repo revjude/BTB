@@ -1,8 +1,73 @@
+---
+title: Genesis 41:39
+type: Verse
+kjv: "And Pharaoh said unto Joseph, Forasmuch as God hath shewed thee all this, there is none so discreet and wise as thou art:"
+bsb: "Then Pharaoh said to Joseph, “Since God has made all this known to you, there is no one as discerning and wise as you."
+hebrew: "וַיֹּ֤אמֶר פַּרְעֹה֙ אֶל־ יוֹסֵ֔ף אַחֲרֵ֨י הוֹדִ֧יעַ אֱלֹהִ֛ים אוֹתְךָ֖ אֶת־ כָּל־ זֹ֑את אֵין־ נָב֥וֹן וְחָכָ֖ם כָּמֽוֹךָ׃"
+pericope: "[[Gen.41.37 Joseph Given Charge of Egypt|Joseph Given Charge of Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROMOTION|PROMOTION]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H6547H]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3130G]]"
+- "[[H0310A]]"
+- "[[H3045]]"
+- "[[H0430G]]"
+- "[[H0853]]"
+- "[[H9031]]"
+- "[[H3605]]"
+- "[[H2063]]"
+- "[[H0369]]"
+- "[[H0995]]"
+- "[[H9002]]"
+- "[[H2450]]"
+- "[[H3644G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:39**<big><big>[[Gen.41.37 Joseph Given Charge of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaoh said unto Joseph, Forasmuch as God hath shewed thee all this, [there is] none so discreet and wise as thou [art]:
 <small><sub>**BSB:**</sub></small>
 Then Pharaoh said to Joseph, “Since God has made all this known to you, there is no one as discerning and wise as you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H6547H\|פַּרְעֹה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3130G\|יוֹסֵ֔ף]] [[H0310A\|אַחֲרֵ֨י]] [[H3045\|הוֹדִ֧יעַ]] [[H0430G\|אֱלֹהִ֛ים]] [[H0853\|אוֹתְ]][[H9031\|ךָ֖]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H2063\|זֹ֑את]] [[H0369\|אֵין]][[H9014\|־]] [[H0995\|נָב֥וֹן]] [[H9002\|וְ]][[H2450\|חָכָ֖ם]] [[H3644G\|כָּמֽוֹ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTIVE|CAPTIVE]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic ECONOMICS|ECONOMICS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOSEPH|JOSEPH]] • [[topic PRISONERS|PRISONERS]] • [[topic PROMOTION|PROMOTION]] • [[topic PROPHETS|PROPHETS]] • [[topic PRUDENCE|PRUDENCE]] • [[topic RULERS|RULERS]] • [[topic SERVANT|SERVANT]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.38|<< Genesis 41:38]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.40|Genesis 41:40 >>]]</td></tr></table>
 

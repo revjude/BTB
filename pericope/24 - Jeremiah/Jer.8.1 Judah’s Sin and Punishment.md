@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judah’s Sin and Punishment
+type: Pericope
 pericope: "[[Jer.8.1 Judah’s Sin and Punishment|Judah’s Sin and Punishment]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 8
 book/chapter: "[[Jer.8|Jeremiah 8]]"
-genre:
+chronological_order: 725
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 13
 verses:
 - "[[Jer.8.1]]"
 - "[[Jer.8.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Jer.8.13]]"
 ---
 
-[[Jer.8|Jeremiah 8:1 - Jeremiah 8:13]]
+<small>[[Jer.8|Jeremiah 8:1-13]]</small>
 *Judah’s Sin and Punishment*
 
 [[Jer.8.1|1]] At that time, saith the LORD, they shall bring out the bones of the kings of Judah, and the bones of his princes, and the bones of the priests, and the bones of the prophets, and the bones of the inhabitants of Jerusalem, out of their graves:

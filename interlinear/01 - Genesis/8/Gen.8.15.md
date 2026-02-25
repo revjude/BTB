@@ -1,8 +1,53 @@
+---
+title: Genesis 8:15
+type: Verse
+kjv: "And God spake unto Noah, saying,"
+bsb: "Then God said to Noah,"
+hebrew: "וַיְדַבֵּ֥ר אֱלֹהִ֖ים אֶל־ נֹ֥חַ לֵאמֹֽר׃"
+pericope: "[[Gen.8.13 Exiting the Ark|Exiting the Ark]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 8
+book/chapter: "[[Gen.8|Genesis 8]]"
+chronological_order: 8
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H0430G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5146]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 8:15**<big><big>[[Gen.8.13 Exiting the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God spake unto Noah, saying,
 <small><sub>**BSB:**</sub></small>
 Then God said to Noah,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֥ר]] [[H0430G\|אֱלֹהִ֖ים]] [[H0413\|אֶל]][[H9014\|־]] [[H5146\|נֹ֥חַ]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMUNION|COMMUNION]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.8.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.14|<< Genesis 8:14]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.8.16|Genesis 8:16 >>]]</td></tr></table>
 

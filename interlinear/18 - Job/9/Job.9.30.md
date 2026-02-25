@@ -1,8 +1,58 @@
+---
+title: Job 9:30
+type: Verse
+kjv: "If I wash myself with snow water, and make my hands never so clean;"
+bsb: "If I should wash myself with snow and cleanse my hands with lye,"
+hebrew: "אִם־ הִתְרָחַ֥צְתִּי בְמֵי שָׁ֑לֶג וַ֝הֲזִכּ֗וֹתִי בְּבֹ֣ר כַּפָּֽי׃"
+pericope: "[[Job.9.1 Job：How Can I Contend with God？|Job：How Can I Contend with God？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 9
+book/chapter: "[[Job.9|Job 9]]"
+chronological_order: 20
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SNOW|SNOW]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H7364]]"
+- "[[H1119]]"
+- "[[H9003]]"
+- "[[H4325G]]"
+- "[[H7950]]"
+- "[[H9001]]"
+- "[[H2141]]"
+- "[[H1253]]"
+- "[[H3709G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Job 9:30**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If I wash myself with snow water, and make my hands never so clean;
 <small><sub>**BSB:**</sub></small>
 If I should wash myself with snow and cleanse my hands with lye,
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H7364\|הִתְרָחַ֥צְתִּי]] [[H9003\|בְ]][[H4325G\|מֵי]] [[H7950\|שָׁ֑לֶג]] [[H9001\|וַ֝]][[H2141\|הֲזִכּ֗וֹתִי]] [[H9003\|בְּ]][[H1253\|בֹ֣ר]] [[H3709G\|כַּפָּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GOD|GOD]] • [[topic SNOW|SNOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.29|<< Job 9:29]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.31|Job 9:31 >>]]</td></tr></table>
 

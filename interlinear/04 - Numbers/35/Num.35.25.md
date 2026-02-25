@@ -1,8 +1,80 @@
+---
+title: Numbers 35:25
+type: Verse
+kjv: "And the congregation shall deliver the slayer out of the hand of the revenger of blood, and the congregation shall restore him to the city of his refuge, whither he was fled: and he shall abide in it unto the death of the high priest, which was anointed with the holy oil."
+bsb: "The assembly is to protect the manslayer from the hand of the avenger of blood. Then the assembly will return him to the city of refuge to which he fled, and he must live there until the death of the high priest, who was anointed with the holy oil."
+hebrew: "וְהִצִּ֨ילוּ הָעֵדָ֜ה אֶת־ הָרֹצֵ֗חַ מִיַּד֮ גֹּאֵ֣ל הַדָּם֒ וְהֵשִׁ֤יבוּ אֹתוֹ֙ הָֽעֵדָ֔ה אֶל־ עִ֥יר מִקְלָט֖וֹ אֲשֶׁר־ נָ֣ס שָׁ֑מָּה וְיָ֣שַׁב בָּ֗הּ עַד־ מוֹת֙ הַכֹּהֵ֣ן הַגָּדֹ֔ל אֲשֶׁר־ מָשַׁ֥ח אֹת֖וֹ בְּשֶׁ֥מֶן הַקֹּֽדֶשׁ׃"
+pericope: "[[Num.35.9 Six Cities of Refuge|Six Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 35
+book/chapter: "[[Num.35|Numbers 35]]"
+chronological_order: 195
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic REFUGE|REFUGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5337]]"
+- "[[H9009]]"
+- "[[H5712]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7523]]"
+- "[[H9006]]"
+- "[[H3027G]]"
+- "[[H1350H]]"
+- "[[H1818]]"
+- "[[H7725H]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H5892B]]"
+- "[[H4733]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H5127]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H5704]]"
+- "[[H4194]]"
+- "[[H3548]]"
+- "[[H1419A]]"
+- "[[H4886]]"
+- "[[H8081]]"
+- "[[H6944G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 35:25**<big><big>[[Num.35.9 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the congregation shall deliver the slayer out of the hand of the revenger of blood, and the congregation shall restore him to the city of his refuge, whither he was fled: and he shall abide in it unto the death of the high priest, which was anointed with the holy oil.
 <small><sub>**BSB:**</sub></small>
 The assembly is to protect the manslayer from the hand of the avenger of blood. Then the assembly will return him to the city of refuge to which he fled, and he must live there until the death of the high priest, who was anointed with the holy oil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5337\|הִצִּ֨ילוּ]] [[H9009\|הָ]][[H5712\|עֵדָ֜ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H7523\|רֹצֵ֗חַ]] [[H9006\|מִ]][[H3027G\|יַּד֮]] [[H1350H\|גֹּאֵ֣ל]] [[H9009\|הַ]][[H1818\|דָּם֒]] [[H9001\|וְ]][[H7725H\|הֵשִׁ֤יבוּ]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H9009\|הָֽ]][[H5712\|עֵדָ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H5892B\|עִ֥יר]] [[H4733\|מִקְלָט֖]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5127\|נָ֣ס]] [[H8033G\|שָׁ֑מָּ]][[H9011\|ה]] [[H9001\|וְ]][[H3427\|יָ֣שַׁב]] [[H9003\|בָּ֗]][[H9034\|הּ]] [[H5704\|עַד]][[H9014\|־]] [[H4194\|מוֹת֙]] [[H9009\|הַ]][[H3548\|כֹּהֵ֣ן]] [[H9009\|הַ]][[H1419A\|גָּדֹ֔ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H4886\|מָשַׁ֥ח]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9003\|בְּ]][[H8081\|שֶׁ֥מֶן]] [[H9009\|הַ]][[H6944G\|קֹּֽדֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic AVENGER OF BLOOD|AVENGER OF BLOOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOMICIDE|HOMICIDE]] • [[topic REFUGE|REFUGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.24|<< Numbers 35:24]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.26|Numbers 35:26 >>]]</td></tr></table>
 

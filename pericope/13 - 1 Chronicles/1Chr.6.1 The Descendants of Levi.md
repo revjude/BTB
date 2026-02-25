@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Descendants of Levi
+type: Pericope
 pericope: "[[1Chr.6.1 The Descendants of Levi|The Descendants of Levi]]"
-verse_count: 30
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 6
 book/chapter: "[[1Chr.6|1 Chronicles 6]]"
-genre:
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 30
 verses:
 - "[[1Chr.6.1]]"
 - "[[1Chr.6.2]]"
@@ -48,7 +55,7 @@ verses:
 - "[[1Chr.6.30]]"
 ---
 
-[[1Chr.6|1 Chronicles 6:1 - 1 Chronicles 6:30]]
+<small>[[1Chr.6|1 Chronicles 6:1-30]]</small>
 *The Descendants of Levi*
 
 [[1Chr.6.1|1]] The sons of Levi; Gershon, Kohath, and Merari.

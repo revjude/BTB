@@ -1,10 +1,58 @@
+---
+title: Matthew 17:11
+type: Verse
+kjv: "And Jesus answered and said unto them, Elias truly shall first come, and restore all things."
+bsb: "Jesus replied, “Elijah does indeed come, and he will restore all things."
+jesus_said: "Elias truly shall first come, and restore all things."
+greek: "Ὁ δὲ Ἰησοῦς ἀποκριθεὶς εἶπεν αὐτοῖς· Ἠλίας μὲν ἔρχεται πρῶτον καὶ ἀποκαταστήσει πάντα·"
+pericope: "[[Matt.17.1 The Transfiguration|The Transfiguration]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 17
+book/chapter: "[[Matt.17|Matthew 17]]"
+chronological_order: 967
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G0611]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G2243]]"
+- "[[G3303]]"
+- "[[G2064]]"
+- "[[G4413G]]"
+- "[[G2532]]"
+- "[[G0600]]"
+- "[[G3956]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 17:11**<big><big>[[Matt.17.1 The Transfiguration|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus answered and said unto them, Elias truly shall first come, and restore all things.
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “Elijah does indeed come, and he will restore all things.
-<small><sub>**Literal:**</sub></small>
-<the> And Jesus answering He said to them: Elijah indeed comes first and will restore all things;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.10|<< Matthew 17:10]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.12|Matthew 17:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G0611\|ἀποκριθεὶς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G2243\|Ἠλίας]]  [[G3303\|μὲν]]  [[G2064\|ἔρχεται]]  [[G4413G\|πρῶτον]]  [[G2532\|καὶ]]  [[G0600\|ἀποκαταστήσει]]  [[G3956\|πάντα·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIJAH|ELIJAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic PROPHECY|PROPHECY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.10|<< Matthew 17:10]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.12|Matthew 17:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

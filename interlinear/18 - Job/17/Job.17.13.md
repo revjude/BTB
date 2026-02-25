@@ -1,8 +1,56 @@
+---
+title: Job 17:13
+type: Verse
+kjv: "If I wait, the grave is mine house: I have made my bed in the darkness."
+bsb: "If I look for Sheol as my home, if I spread out my bed in darkness,"
+hebrew: "אִם־ אֲ֭קַוֶּה שְׁא֣וֹל בֵּיתִ֑י בַּ֝חֹ֗שֶׁךְ רִפַּ֥דְתִּי יְצוּעָֽי׃"
+pericope: "[[Job.17.1 Job Prepares for Death|Job Prepares for Death]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 17
+book/chapter: "[[Job.17|Job 17]]"
+chronological_order: 28
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic HELL|HELL]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H6960A]]"
+- "[[H7585]]"
+- "[[H1004B]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H2822]]"
+- "[[H7502]]"
+- "[[H3326A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 17:13**<big><big>[[Job.17.1 Job Prepares for Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If I wait, the grave [is] mine house: I have made my bed in the darkness.
 <small><sub>**BSB:**</sub></small>
 If I look for Sheol as my home, if I spread out my bed in darkness,
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H6960A\|אֲ֭קַוֶּה]] [[H7585\|שְׁא֣וֹל]] [[H1004B\|בֵּיתִ֑]][[H9020\|י]] [[H9003\|בַּ֝]][[H2822\|חֹ֗שֶׁךְ]] [[H7502\|רִפַּ֥דְתִּי]] [[H3326A\|יְצוּעָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DEATH|DEATH]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic HELL|HELL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.17.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.17.12|<< Job 17:12]]</td><td align="center" style="border:none;">[[Job.17|Job 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.17.14|Job 17:14 >>]]</td></tr></table>
 

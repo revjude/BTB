@@ -1,8 +1,65 @@
+---
+title: Joshua 19:11
+type: Verse
+kjv: "And their border went up toward the sea, and Maralah, and reached to Dabbasheth, and reached to the river that is before Jokneam;"
+bsb: "It went up westward to Maralah, reached Dabbesheth, and met the brook east of Jokneam."
+hebrew: "וְעָלָ֨ה גְבוּלָ֧ם׀ לַיָּ֛מָּה וּמַרְעֲלָ֖ה וּפָגַ֣ע בְּדַבָּ֑שֶׁת וּפָגַע֙ אֶל־ הַנַּ֔חַל אֲשֶׁ֖ר עַל־ פְּנֵ֥י יָקְנְעָֽם׃"
+pericope: "[[Josh.19.10 Zebulun’s Inheritance|Zebulun’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 19
+book/chapter: "[[Josh.19|Joshua 19]]"
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic DABBASHETH|DABBASHETH]]"
+- "[[topic JOKNEAM|JOKNEAM]]"
+- "[[topic MARALAH|MARALAH]]"
+- "[[topic ZEBULUN|ZEBULUN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H1366G]]"
+- "[[H9028]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H3220H]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H4831]]"
+- "[[H6293]]"
+- "[[H9003]]"
+- "[[H1708]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5158A]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H6440K]]"
+- "[[H3362]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 19:11**<big><big>[[Josh.19.10 Zebulun’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their border went up toward the sea, and Maralah, and reached to Dabbasheth, and reached to the river that [is] before Jokneam;
 <small><sub>**BSB:**</sub></small>
 It went up westward to Maralah, reached Dabbesheth, and met the brook east of Jokneam.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5927G\|עָלָ֨ה]] [[H1366G\|גְבוּלָ֧]][[H9028\|ם]][[H9015\|׀]] [[H9005\|לַ]][[H3220H\|יָּ֛מָּ]][[H9011\|ה]] [[H9002\|וּ]][[H4831\|מַרְעֲלָ֖ה]] [[H9001\|וּ]][[H6293\|פָגַ֣ע]] [[H9003\|בְּ]][[H1708\|דַבָּ֑שֶׁת]] [[H9001\|וּ]][[H6293\|פָגַע֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H5158A\|נַּ֔חַל]] [[H0834A\|אֲשֶׁ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H6440K\|פְּנֵ֥י]] [[H3362\|יָקְנְעָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DABBASHETH|DABBASHETH]] • [[topic JOKNEAM|JOKNEAM]] • [[topic MARALAH|MARALAH]] • [[topic ZEBULUN|ZEBULUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.10|<< Joshua 19:10]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.12|Joshua 19:12 >>]]</td></tr></table>
 

@@ -1,8 +1,54 @@
+---
+title: Job 9:11
+type: Verse
+kjv: "Lo, he goeth by me, and I see him not: he passeth on also, but I perceive him not."
+bsb: "Were He to pass by me, I would not see Him; were He to move, I would not recognize Him."
+hebrew: "הֵ֤ן יַעֲבֹ֣ר עָ֭לַי וְלֹ֣א אֶרְאֶ֑ה וְ֝יַחֲלֹ֗ף וְֽלֹא־ אָבִ֥ין לֽוֹ׃"
+pericope: "[[Job.9.1 Job：How Can I Contend with God？|Job：How Can I Contend with God？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 9
+book/chapter: "[[Job.9|Job 9]]"
+chronological_order: 20
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H2005]]"
+- "[[H5674A]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H2498]]"
+- "[[H9014]]"
+- "[[H0995]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 9:11**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lo, he goeth by me, and I see [him] not: he passeth on also, but I perceive him not.
 <small><sub>**BSB:**</sub></small>
 Were He to pass by me, I would not see Him; were He to move, I would not recognize Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵ֤ן]] [[H5674A\|יַעֲבֹ֣ר]] [[H5921A\|עָ֭לַ]][[H9030\|י]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H7200G\|אֶרְאֶ֑ה]] [[H9002\|וְ֝]][[H2498\|יַחֲלֹ֗ף]] [[H9002\|וְֽ]][[H3808\|לֹא]][[H9014\|־]] [[H0995\|אָבִ֥ין]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.10|<< Job 9:10]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.12|Job 9:12 >>]]</td></tr></table>
 

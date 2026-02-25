@@ -1,8 +1,66 @@
+---
+title: Joshua 8:11
+type: Verse
+kjv: "And all the people, even the people of war that were with him, went up, and drew nigh, and came before the city, and pitched on the north side of Ai: now there was a valley between them and Ai."
+bsb: "Then all the troops who were with him marched up and approached the city. They arrived in front of Ai and camped to the north of it, with the valley between them and the city."
+hebrew: "וְכָל־ הָעָ֨ם הַמִּלְחָמָ֜ה אֲשֶׁ֣ר אִתּ֗וֹ עָלוּ֙ וַֽיִּגְּשׁ֔וּ וַיָּבֹ֖אוּ נֶ֣גֶד הָעִ֑יר וַֽיַּחֲנוּ֙ מִצְּפ֣וֹן לָעַ֔י וְהַגַּ֖י בֵּינָ֥יו וּבֵין־ הָעָֽי׃"
+pericope: "[[Josh.8.1 The Conquest of Ai|The Conquest of Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 8
+book/chapter: "[[Josh.8|Joshua 8]]"
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMBUSH|AMBUSH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971K]]"
+- "[[H4421]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H5927G]]"
+- "[[H9001]]"
+- "[[H5066G]]"
+- "[[H0935I]]"
+- "[[H5048]]"
+- "[[H5892B]]"
+- "[[H2583]]"
+- "[[H9006]]"
+- "[[H6828G]]"
+- "[[H9005]]"
+- "[[H5857G]]"
+- "[[H1516R]]"
+- "[[H0996G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Joshua 8:11**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the people, [even the people] of war that [were] with him, went up, and drew nigh, and came before the city, and pitched on the north side of Ai: now [there was] a valley between them and Ai.
 <small><sub>**BSB:**</sub></small>
 Then all the troops who were with him marched up and approached the city. They arrived in front of Ai and camped to the north of it, with the valley between them and the city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971K\|עָ֨ם]] [[H9009\|הַ]][[H4421\|מִּלְחָמָ֜ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H0854\|אִתּ֗]][[H9033\|וֹ]] [[H5927G\|עָלוּ֙]] [[H9001\|וַֽ]][[H5066G\|יִּגְּשׁ֔וּ]] [[H9001\|וַ]][[H0935I\|יָּבֹ֖אוּ]] [[H5048\|נֶ֣גֶד]] [[H9009\|הָ]][[H5892B\|עִ֑יר]] [[H9001\|וַֽ]][[H2583\|יַּחֲנוּ֙]] [[H9006\|מִ]][[H6828G\|צְּפ֣וֹן]] [[H9005\|לָ]][[H5857G\|עַ֔י]] [[H9002\|וְ]][[H9009\|הַ]][[H1516R\|גַּ֖י]] [[H0996G\|בֵּינָ֥י]][[H9033\|ו]] [[H9002\|וּ]][[H0996G\|בֵין]][[H9014\|־]] [[H9009\|הָ]][[H5857G\|עָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBUSH|AMBUSH]] • [[topic ARMIES|ARMIES]] • [[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.10|<< Joshua 8:10]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.12|Joshua 8:12 >>]]</td></tr></table>
 

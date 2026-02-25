@@ -1,8 +1,67 @@
+---
+title: Isaiah 45:23
+type: Verse
+kjv: "I have sworn by myself, the word is gone out of my mouth in righteousness, and shall not return, That unto me every knee shall bow, every tongue shall swear."
+bsb: "By Myself I have sworn; truth has gone out from My mouth, a word that will not be revoked: Every knee will bow before Me, every tongue will swear allegiance."
+hebrew: "בִּ֣י נִשְׁבַּ֔עְתִּי יָצָ֨א מִפִּ֧י צְדָקָ֛ה דָּבָ֖ר וְלֹ֣א יָשׁ֑וּב כִּי־ לִי֙ תִּכְרַ֣ע כָּל־ בֶּ֔רֶךְ תִּשָּׁבַ֖ע כָּל־ לָשֽׁוֹן׃"
+pericope: "[[Isa.45.1 God Calls Cyrus|God Calls Cyrus]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 45
+book/chapter: "[[Isa.45|Isaiah 45]]"
+chronological_order: 684
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OATH|OATH]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H7650]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H6310G]]"
+- "[[H9020]]"
+- "[[H6666]]"
+- "[[H1697G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7725G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H3766]]"
+- "[[H3605]]"
+- "[[H1290]]"
+- "[[H3956G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 45:23**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have sworn by myself, the word is gone out of my mouth [in] righteousness, and shall not return, That unto me every knee shall bow, every tongue shall swear.
 <small><sub>**BSB:**</sub></small>
 By Myself I have sworn; truth has gone out from My mouth, a word that will not be revoked: Every knee will bow before Me, every tongue will swear allegiance.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ֣]][[H9030\|י]] [[H7650\|נִשְׁבַּ֔עְתִּי]] [[H3318G\|יָצָ֨א]] [[H9006\|מִ]][[H6310G\|פִּ֧]][[H9020\|י]] [[H6666\|צְדָקָ֛ה]] [[H1697G\|דָּבָ֖ר]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H7725G\|יָשׁ֑וּב]] [[H3588A\|כִּי]][[H9014\|־]] [[H9005\|לִ]][[H9030\|י֙]] [[H3766\|תִּכְרַ֣ע]] [[H3605\|כָּל]][[H9014\|־]] [[H1290\|בֶּ֔רֶךְ]] [[H7650\|תִּשָּׁבַ֖ע]] [[H3605\|כָּל]][[H9014\|־]] [[H3956G\|לָשֽׁוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OATH|OATH]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.22|<< Isaiah 45:22]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.24|Isaiah 45:24 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

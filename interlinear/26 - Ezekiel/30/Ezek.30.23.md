@@ -1,8 +1,55 @@
+---
+title: Ezekiel 30:23
+type: Verse
+kjv: "And I will scatter the Egyptians among the nations, and will disperse them through the countries."
+bsb: "I will disperse the Egyptians among the nations and scatter them throughout the lands."
+hebrew: "וַהֲפִצוֹתִ֥י אֶת־ מִצְרַ֖יִם בַּגּוֹיִ֑ם וְזֵרִיתִ֖ם בָּאֲרָצֽוֹת׃"
+pericope: "[[Ezek.30.20 Pharaoh’s Power Broken|Pharaoh’s Power Broken]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 30
+book/chapter: "[[Ezek.30|Ezekiel 30]]"
+chronological_order: 821
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic PHARAOH|PHARAOH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6327A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4714G]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H2219]]"
+- "[[H9038]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 30:23**<big><big>[[Ezek.30.20 Pharaoh’s Power Broken|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will scatter the Egyptians among the nations, and will disperse them through the countries.
 <small><sub>**BSB:**</sub></small>
 I will disperse the Egyptians among the nations and scatter them throughout the lands.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6327A\|הֲפִצוֹתִ֥י]] [[H0853\|אֶת]][[H9014\|־]] [[H4714G\|מִצְרַ֖יִם]] [[H9003\|בַּ]][[H1471A\|גּוֹיִ֑ם]] [[H9001\|וְ]][[H2219\|זֵרִיתִ֖]][[H9038\|ם]] [[H9003\|בָּ]][[H0776G\|אֲרָצֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPTIANS|EGYPTIANS]] • [[topic PHARAOH|PHARAOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.22|<< Ezekiel 30:22]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.24|Ezekiel 30:24 >>]]</td></tr></table>
 

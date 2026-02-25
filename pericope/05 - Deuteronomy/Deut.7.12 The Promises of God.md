@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Promises of God
+type: Pericope
 pericope: "[[Deut.7.12 The Promises of God|The Promises of God]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 7
 book/chapter: "[[Deut.7|Deuteronomy 7]]"
-genre:
+chronological_order: 203
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 15
 verses:
 - "[[Deut.7.12]]"
 - "[[Deut.7.13]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Deut.7.26]]"
 ---
 
-[[Deut.7|Deuteronomy 7:12 - Deuteronomy 7:26]]
+<small>[[Deut.7|Deuteronomy 7:12-26]]</small>
 *The Promises of God*
 
 [[Deut.7.12|12]] Wherefore it shall come to pass, if ye hearken to these judgments, and keep, and do them, that the LORD thy God shall keep unto thee the covenant and the mercy which he sware unto thy fathers:

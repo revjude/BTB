@@ -1,8 +1,61 @@
+---
+title: 1 Chronicles 25:7
+type: Verse
+kjv: "So the number of them, with their brethren that were instructed in the songs of the LORD, even all that were cunning, was two hundred fourscore and eight."
+bsb: "Together with their relatives, who were all trained and skillful in the songs of the LORD, they numbered 288."
+hebrew: "וַיְהִ֤י מִסְפָּרָם֙ עִם־ אֲחֵיהֶ֔ם מְלֻמְּדֵי־ שִׁ֖יר לַיהוָ֑ה כָּל־ הַ֨מֵּבִ֔ין מָאתַ֖יִם שְׁמוֹנִ֥ים וּשְׁמוֹנָֽה׃"
+pericope: "[[1Chr.25.1 Twenty-Four Divisions of Musicians|Twenty-Four Divisions of Musicians]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 25
+book/chapter: "[[1Chr.25|1 Chronicles 25]]"
+chronological_order: 436
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ASAPH|ASAPH]]"
+- "[[topic HARP|HARP]]"
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H4557]]"
+- "[[H9028]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H0251H]]"
+- "[[H3925G]]"
+- "[[H7892A]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0995]]"
+- "[[H3967]]"
+- "[[H8084]]"
+- "[[H9002]]"
+- "[[H8083]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 25:7**<big><big>[[1Chr.25.1 Twenty-Four Divisions of Musicians|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the number of them, with their brethren that were instructed in the songs of the LORD, [even] all that were cunning, was two hundred fourscore and eight.
 <small><sub>**BSB:**</sub></small>
 Together with their relatives, who were all trained and skillful in the songs of the LORD, they numbered 288.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H4557\|מִסְפָּרָ]][[H9028\|ם֙]] [[H5973A\|עִם]][[H9014\|־]] [[H0251H\|אֲחֵי]][[H9028\|הֶ֔ם]] [[H3925G\|מְלֻמְּדֵי]][[H9014\|־]] [[H7892A\|שִׁ֖יר]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ֨]][[H0995\|מֵּבִ֔ין]] [[H3967\|מָאתַ֖יִם]] [[H8084\|שְׁמוֹנִ֥ים]] [[H9002\|וּ]][[H8083\|שְׁמוֹנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAPH|ASAPH]] • [[topic HARP|HARP]] • [[topic MUSIC|MUSIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.25.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.25.6|<< 1 Chronicles 25:6]]</td><td align="center" style="border:none;">[[1Chr.25|1 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.25.8|1 Chronicles 25:8 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Levite Duties Revised
+type: Pericope
 pericope: "[[1Chr.23.24 Levite Duties Revised|Levite Duties Revised]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 23
 book/chapter: "[[1Chr.23|1 Chronicles 23]]"
-genre:
+chronological_order: 434
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 9
 verses:
 - "[[1Chr.23.24]]"
 - "[[1Chr.23.25]]"
@@ -27,7 +34,7 @@ verses:
 - "[[1Chr.23.32]]"
 ---
 
-[[1Chr.23|1 Chronicles 23:24 - 1 Chronicles 23:32]]
+<small>[[1Chr.23|1 Chronicles 23:24-32]]</small>
 *Levite Duties Revised*
 
 [[1Chr.23.24|24]] These \[were\] the sons of Levi after the house of their fathers; \[even\] the chief of the fathers, as they were counted by number of names by their polls, that did the work for the service of the house of the LORD, from the age of twenty years and upward.

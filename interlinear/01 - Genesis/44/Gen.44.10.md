@@ -1,8 +1,65 @@
+---
+title: Genesis 44:10
+type: Verse
+kjv: "And he said, Now also let it be according unto your words: he with whom it is found shall be my servant; and ye shall be blameless."
+bsb: "“As you say,” replied the steward. “But only the one who is found with the cup will be my slave, and the rest of you shall be free of blame.”"
+hebrew: "וַיֹּ֕אמֶר גַּם־ עַתָּ֥ה כְדִבְרֵיכֶ֖ם כֶּן־ ה֑וּא אֲשֶׁ֨ר יִמָּצֵ֤א אִתּוֹ֙ יִהְיֶה־ לִּ֣י עָ֔בֶד וְאַתֶּ֖ם תִּהְי֥וּ נְקִיִּֽם׃"
+pericope: "[[Gen.44.1 Benjamin and the Silver Cup|Benjamin and the Silver Cup]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 44
+book/chapter: "[[Gen.44|Genesis 44]]"
+chronological_order: 86
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic INTEGRITY|INTEGRITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H6258]]"
+- "[[H9004]]"
+- "[[H1697H]]"
+- "[[H9026]]"
+- "[[H3651C]]"
+- "[[H1931]]"
+- "[[H0834A]]"
+- "[[H4672]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H5650]]"
+- "[[H9002]]"
+- "[[H0859D]]"
+- "[[H5355A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 44:10**<big><big>[[Gen.44.1 Benjamin and the Silver Cup|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Now also [let] it [be] according unto your words: he with whom it is found shall be my servant; and ye shall be blameless.
 <small><sub>**BSB:**</sub></small>
 “As you say,” replied the steward. “But only the one who is found with the cup will be my slave, and the rest of you shall be free of blame.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H1571\|גַּם]][[H9014\|־]] [[H6258\|עַתָּ֥ה]] [[H9004\|כְ]][[H1697H\|דִבְרֵי]][[H9026\|כֶ֖ם]] [[H3651C\|כֶּן]][[H9014\|־]] [[H1931\|ה֑וּא]] [[H0834A\|אֲשֶׁ֨ר]] [[H4672\|יִמָּצֵ֤א]] [[H0854\|אִתּ]][[H9033\|וֹ֙]] [[H1961\|יִהְיֶה]][[H9014\|־]] [[H9005\|לִּ֣]][[H9030\|י]] [[H5650\|עָ֔בֶד]] [[H9002\|וְ]][[H0859D\|אַתֶּ֖ם]] [[H1961\|תִּהְי֥וּ]] [[H5355A\|נְקִיִּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTEGRITY|INTEGRITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.44.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.9|<< Genesis 44:9]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.11|Genesis 44:11 >>]]</td></tr></table>
 

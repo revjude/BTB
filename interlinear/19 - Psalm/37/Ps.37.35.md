@@ -1,8 +1,55 @@
+---
+title: Psalm 37:35
+type: Verse
+kjv: "I have seen the wicked in great power, and spreading himself like a green bay tree."
+bsb: "I have seen a wicked, ruthless man flourishing like a well-rooted native tree,"
+hebrew: "רָ֭אִיתִי רָשָׁ֣ע עָרִ֑יץ וּ֝מִתְעָרֶ֗ה כְּאֶזְרָ֥ח רַעֲנָֽן׃"
+pericope: "[[Ps.37.1 Delight Yourself in the LORD|Delight Yourself in the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 37
+book/chapter: "[[Ps.37|Psalm 37]]"
+chronological_order: 365
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BAY TREE|BAY TREE]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7200G]]"
+- "[[H7563]]"
+- "[[H6184]]"
+- "[[H9002]]"
+- "[[H6168]]"
+- "[[H9004]]"
+- "[[H0249]]"
+- "[[H7488B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 37:35**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have seen the wicked in great power, and spreading himself like a green bay tree.
 <small><sub>**BSB:**</sub></small>
 I have seen a wicked, ruthless man flourishing like a well-rooted native tree,
+<small><sub>**Hebrew:**</sub></small>
+[[H7200G\|רָ֭אִיתִי]] [[H7563\|רָשָׁ֣ע]] [[H6184\|עָרִ֑יץ]] [[H9002\|וּ֝]][[H6168\|מִתְעָרֶ֗ה]] [[H9004\|כְּ]][[H0249\|אֶזְרָ֥ח]] [[H7488B\|רַעֲנָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAY TREE|BAY TREE]] • [[topic DEATH|DEATH]] • [[topic HAPPINESS|HAPPINESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.34|<< Psalms 37:34]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.36|Psalms 37:36 >>]]</td></tr></table>
 

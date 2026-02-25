@@ -1,8 +1,64 @@
+---
+title: Leviticus 17:6
+type: Verse
+kjv: "And the priest shall sprinkle the blood upon the altar of the LORD at the door of the tabernacle of the congregation, and burn the fat for a sweet savour unto the LORD."
+bsb: "The priest will then splatter the blood on the altar of the LORD at the entrance to the Tent of Meeting and burn the fat as a pleasing aroma to the LORD."
+hebrew: "וְזָרַ֨ק הַכֹּהֵ֤ן אֶת־ הַדָּם֙ עַל־ מִזְבַּ֣ח יְהוָ֔ה פֶּ֖תַח אֹ֣הֶל מוֹעֵ֑ד וְהִקְטִ֣יר הַחֵ֔לֶב לְרֵ֥יחַ נִיחֹ֖חַ לַיהוָֽה׃"
+pericope: "[[Lev.17.1 The Place of Sacrifice|The Place of Sacrifice]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 17
+book/chapter: "[[Lev.17|Leviticus 17]]"
+chronological_order: 149
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic FAT|FAT]]"
+strongs:
+- "[[H9001]]"
+- "[[H2236]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1818]]"
+- "[[H5921A]]"
+- "[[H4196]]"
+- "[[H3068G]]"
+- "[[H6607]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H6999A]]"
+- "[[H2459]]"
+- "[[H9005]]"
+- "[[H7381]]"
+- "[[H5207]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 17:6**<big><big>[[Lev.17.1 The Place of Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall sprinkle the blood upon the altar of the LORD [at] the door of the tabernacle of the congregation, and burn the fat for a sweet savour unto the LORD.
 <small><sub>**BSB:**</sub></small>
 The priest will then splatter the blood on the altar of the LORD at the entrance to the Tent of Meeting and burn the fat as a pleasing aroma to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2236\|זָרַ֨ק]] [[H9009\|הַ]][[H3548\|כֹּהֵ֤ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1818\|דָּם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H4196\|מִזְבַּ֣ח]] [[H3068G\|יְהוָ֔ה]] [[H6607\|פֶּ֖תַח]] [[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֑ד]] [[H9001\|וְ]][[H6999A\|הִקְטִ֣יר]] [[H9009\|הַ]][[H2459\|חֵ֔לֶב]] [[H9005\|לְ]][[H7381\|רֵ֥יחַ]] [[H5207\|נִיחֹ֖חַ]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAT|FAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.17.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.17.5|<< Leviticus 17:5]]</td><td align="center" style="border:none;">[[Lev.17|Leviticus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.17.7|Leviticus 17:7 >>]]</td></tr></table>
 

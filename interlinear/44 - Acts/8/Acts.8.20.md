@@ -1,10 +1,68 @@
+---
+title: Acts 8:20
+type: Verse
+kjv: "But Peter said unto him, Thy money perish with thee, because thou hast thought that the gift of God may be purchased with money."
+bsb: "But Peter replied, “May your silver perish with you, because you thought you could buy the gift of God with money!"
+greek: "Πέτρος δὲ εἶπεν πρὸς αὐτόν· τὸ ἀργύριόν σου σὺν σοὶ εἴη εἰς ἀπώλειαν, ὅτι τὴν δωρεὰν τοῦ θεοῦ ἐνόμισας διὰ χρημάτων κτᾶσθαι."
+pericope: "[[Acts.8.9 Simon the Sorcerer|Simon the Sorcerer]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 8
+book/chapter: "[[Acts.8|Acts 8]]"
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic PETER|PETER]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SIMON|SIMON]]"
+strongs:
+- "[[G4074G]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G0694]]"
+- "[[G4771]]"
+- "[[G4862]]"
+- "[[G1510]]"
+- "[[G1519]]"
+- "[[G0684]]"
+- "[[G3754H]]"
+- "[[G1431]]"
+- "[[G2316]]"
+- "[[G3543]]"
+- "[[G1223]]"
+- "[[G5536]]"
+- "[[G2932]]"
+texts:
+- NKO
+---
+
 **Acts 8:20**<big><big>[[Acts.8.9 Simon the Sorcerer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Peter said unto him, Thy money perish with thee, because thou hast thought that the gift of God may be purchased with money.
 <small><sub>**BSB:**</sub></small>
 But Peter replied, “May your silver perish with you, because you thought you could buy the gift of God with money!
-<small><sub>**Literal:**</sub></small>
-Peter however said to him; The silver of you with you would [that] it be to destruction, because the gift <the> of God you thought through money to be obtained!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.19|<< Acts 8:19]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.21|Acts 8:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4074G\|Πέτρος]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν·]]  [[G3588\|τὸ]]  [[G0694\|ἀργύριόν]]  [[G4771\|σου]]  [[G4862\|σὺν]]  [[G4771\|σοὶ]]  [[G1510\|εἴη]]  [[G1519\|εἰς]]  [[G0684\|ἀπώλειαν,]]  [[G3754H\|ὅτι]]  [[G3588\|τὴν]]  [[G1431\|δωρεὰν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3543\|ἐνόμισας]]  [[G1223\|διὰ]]  [[G5536\|χρημάτων]]  [[G2932\|κτᾶσθαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic INTEGRITY|INTEGRITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic MONEY|MONEY]] • [[topic PETER|PETER]] • [[topic REPROOF|REPROOF]] • [[topic SAMARIA|SAMARIA]] • [[topic SIMON|SIMON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.19|<< Acts 8:19]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.21|Acts 8:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

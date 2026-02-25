@@ -1,10 +1,64 @@
+---
+title: 1 Timothy 6:20
+type: Verse
+kjv: "O Timothy, keep that which is committed to thy trust, avoiding profane and vain babblings, and oppositions of science falsely so called:"
+bsb: "O Timothy, guard what has been entrusted to you. Avoid irreverent, empty chatter and the opposing arguments of so-called “knowledge,”"
+greek: "Ὦ Τιμόθεε, τὴν παραθήκην φύλαξον ἐκτρεπόμενος τὰς βεβήλους κενοφωνίας καὶ ἀντιθέσεις τῆς ψευδωνύμου γνώσεως,"
+pericope: "[[1Tim.6.20 Guard the Faith|Guard the Faith]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 6
+book/chapter: "[[1Tim.6|1 Timothy 6]]"
+chronological_order: 1131
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SCIENCE|SCIENCE]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G5599]]"
+- "[[G5095]]"
+- "[[G3588]]"
+- "[[G3866]]"
+- "[[G5442I]]"
+- "[[G1624]]"
+- "[[G0952]]"
+- "[[G2757]]"
+- "[[G2532]]"
+- "[[G0477]]"
+- "[[G5581]]"
+- "[[G1108]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Timothy 6:20**<big><big>[[1Tim.6.20 Guard the Faith|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 O Timothy, keep that which is committed to thy trust, avoiding profane [and] vain babblings, and oppositions of science falsely so called:
 <small><sub>**BSB:**</sub></small>
 O Timothy, guard what has been entrusted to you. Avoid irreverent, empty chatter and the opposing arguments of so-called “knowledge,”
-<small><sub>**Literal:**</sub></small>
-O Timothy, the deposit committed [to you] do guard avoiding the profane empty babblings and opposing arguments <the> falsely called knowledge,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.19|<< 1 Timothy 6:19]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.21|1 Timothy 6:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5599\|Ὦ]]  [[G5095\|Τιμόθεε,]]  [[G3588\|τὴν]]  [[G3866\|παραθήκην]]  [[G5442I\|φύλαξον]]  [[G1624\|ἐκτρεπόμενος]]  [[G3588\|τὰς]]  [[G0952\|βεβήλους]]  [[G2757\|κενοφωνίας]]  [[G2532\|καὶ]]  [[G0477\|ἀντιθέσεις]]  [[G3588\|τῆς]]  [[G5581\|ψευδωνύμου]]  [[G1108\|γνώσεως,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGENCY|AGENCY]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DOCTRINES|DOCTRINES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic PREACHING|PREACHING]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SCIENCE|SCIENCE]] • [[topic STRIFE|STRIFE]] • [[topic VANITY|VANITY]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.19|<< 1 Timothy 6:19]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.21|1 Timothy 6:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,65 @@
+---
+title: Mark 10:52
+type: Verse
+kjv: "And Jesus said unto him, Go thy way; thy faith hath made thee whole. And immediately he received his sight, and followed Jesus in the way."
+bsb: "“Go,” said Jesus, “your faith has healed you.” And immediately he received his sight and followed Jesus along the road."
+jesus_said: "Go thy way; thy faith hath made thee whole."
+greek: "καὶ ὁ δὲ Ἰησοῦς εἶπεν αὐτῷ· ὕπαγε, ἡ πίστις σου σέσωκέν σε. καὶ εὐθὺς ἀνέβλεψεν καὶ ἠκολούθει αὐτῷ Ἰησοῦ ἐν τῇ ὁδῷ.¶"
+pericope: "[[Mark.10.46 Jesus Heals Bartimaeus|Jesus Heals Bartimaeus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G5217]]"
+- "[[G4102G]]"
+- "[[G4771]]"
+- "[[G4982]]"
+- "[[G2112]]"
+- "[[G0308]]"
+- "[[G0190]]"
+- "[[G1722]]"
+- "[[G3598]]"
+texts:
+- no
+- NKO
+- ko
+- N(k)O
+- k
+---
+
 **Mark 10:52**<big><big>[[Mark.10.46 Jesus Heals Bartimaeus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus said unto him, Go thy way; thy faith hath made thee whole. And immediately he received his sight, and followed Jesus in the way.
 <small><sub>**BSB:**</sub></small>
 “Go,” said Jesus, “your faith has healed you.” And immediately he received his sight and followed Jesus along the road.
-<small><sub>**Literal:**</sub></small>
-And <the> now Jesus said to him; do go, the faith of you has healed you. And immediately he received sight and he was following Him Jesus on the way.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.51|<< Mark 10:51]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.1|Mark 11:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G5217\|ὕπαγε,]]  [[G3588\|ἡ]]  [[G4102G\|πίστις]]  [[G4771\|σου]]  [[G4982\|σέσωκέν]]  [[G4771\|σε.]]  [[G2532\|καὶ]]  [[G2112\|εὐθὺς]]  [[G0308\|ἀνέβλεψεν]]  [[G2532\|καὶ]]  [[G0190\|ἠκολούθει]]  [[G0846\|αὐτῷ]]  [[G2424G\|Ἰησοῦ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3598\|ὁδῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]] • [[topic BLINDNESS|BLINDNESS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.51|<< Mark 10:51]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.1|Mark 11:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

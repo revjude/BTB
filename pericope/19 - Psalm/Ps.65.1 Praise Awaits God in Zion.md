@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Praise Awaits God in Zion
+type: Pericope
 pericope: "[[Ps.65.1 Praise Awaits God in Zion|Praise Awaits God in Zion]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 65
 book/chapter: "[[Ps.65|Psalm 65]]"
-genre:
+chronological_order: 375
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 14
 verses:
 - "[[Ps.65.0]]"
 - "[[Ps.65.1]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Ps.65.13]]"
 ---
 
-[[Ps.65|Psalm 65:1 - Psalm 65:13]]
+<small>[[Ps.65|Psalm 65:1-13]]</small>
 *Praise Awaits God in Zion*
 
 [[Ps.65.0|0]] To the chief Musician, A Psalm \[and\] Song of David.

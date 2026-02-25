@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Complaint of Moses
+type: Pericope
 pericope: "[[Num.11.10 The Complaint of Moses|The Complaint of Moses]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 11
 book/chapter: "[[Num.11|Numbers 11]]"
-genre:
+chronological_order: 171
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 6
 verses:
 - "[[Num.11.10]]"
 - "[[Num.11.11]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Num.11.15]]"
 ---
 
-[[Num.11|Numbers 11:10 - Numbers 11:15]]
+<small>[[Num.11|Numbers 11:10-15]]</small>
 *The Complaint of Moses*
 
 [[Num.11.10|10]] Then Moses heard the people weep throughout their families, every man in the door of his tent: and the anger of the LORD was kindled greatly; Moses also was displeased.

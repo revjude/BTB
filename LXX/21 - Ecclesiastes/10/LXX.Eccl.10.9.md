@@ -1,6 +1,41 @@
+---
+title: LXX Ecclesiastes 10:9
+type: Verse
+lxx: "One lifting away stones shall work hard among them; one splitting wood shall be exposed to danger in them."
+greek: "εξαιρών λίθους διαπονηθήσεται εν αυτοίς σχίζων ξύλα κινδυνεύσει εν αυτοίς"
+original_language: Greek
+testament: Old
+book: Ecclesiastes
+chapter: 10
+book/chapter: "[[Eccl.10|Ecclesiastes 10]]"
+chronological_order: 548
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+strongs:
+- "[[G1808]]"
+- "[[G3037]]"
+- "[[G1278]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G4977]]"
+- "[[G3586]]"
+- "[[G2793]]"
+- "[[G1722]]"
+- "[[G1473]]"
+---
+
 **LXX Ecclesiastes 10:9** 
 <small><sub>**LXX:**</sub></small>
 One lifting away stones shall work hard among them; one splitting wood shall be exposed to danger in them. 
+<small><sub>**Greek:**</sub></small>
+[[G1808\|εξαιρών]] [[G3037\|λίθους]] [[G1278\|διαπονηθήσεται]] [[G1722\|εν]] [[G1473\|αυτοίς]] [[G4977\|σχίζων]] [[G3586\|ξύλα]] [[G2793\|κινδυνεύσει]] [[G1722\|εν]] [[G1473\|αυτοίς]]
 <small><sub>**MT:**</sub></small>
 [[Eccl.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.10.8|<< Ecclesiastes 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.10.10|Ecclesiastes 10:10 >>]]</td></tr></table>
 
@@ -16,6 +51,6 @@ One lifting away stones shall work hard among them; one splitting wood shall be 
 | shall be exposed to danger | **<big>[[G2793\|κινδυνεύσει]]</big>** |
 | in | **<big>[[G1722\|εν]]</big>** |
 | them. | **<big>[[G1473\|αυτοίς]]</big>** |
-[[Eccl.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.10.8|<< Ecclesiastes 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.10.10|Ecclesiastes 10:10 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.10.8|<< Ecclesiastes 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.10.10|Ecclesiastes 10:10 >>]]</td></tr></table>
 
 

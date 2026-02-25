@@ -1,10 +1,54 @@
+---
+title: John 16:8
+type: Verse
+kjv: "And when he is come, he will reprove the world of sin, and of righteousness, and of judgment:"
+bsb: "And when He comes, He will convict the world in regard to sin and righteousness and judgment:"
+jesus_said: "And when he is come, he will reprove the world of sin, and of righteousness, and of judgment:"
+greek: "καὶ ἐλθὼν ἐκεῖνος ἐλέγξει τὸν κόσμον περὶ ἁμαρτίας καὶ περὶ δικαιοσύνης καὶ περὶ κρίσεως."
+pericope: "[[John.16.5 The Promise of the Holy Spirit|The Promise of the Holy Spirit]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 16
+book/chapter: "[[John.16|John 16]]"
+chronological_order: 1004
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G1565]]"
+- "[[G1651]]"
+- "[[G3588]]"
+- "[[G2889]]"
+- "[[G4012]]"
+- "[[G0266]]"
+- "[[G1343]]"
+- "[[G2920]]"
+texts:
+- NKO
+---
+
 **John 16:8**<big><big>[[John.16.5 The Promise of the Holy Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he is come, he will reprove the world of sin, and of righteousness, and of judgment:
 <small><sub>**BSB:**</sub></small>
 And when He comes, He will convict the world in regard to sin and righteousness and judgment:
-<small><sub>**Literal:**</sub></small>
-And having come He will convict the world concerning sin and concerning righteousness and concerning judgment.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.7|<< John 16:7]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.9|John 16:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2064\|ἐλθὼν]]  [[G1565\|ἐκεῖνος]]  [[G1651\|ἐλέγξει]]  [[G3588\|τὸν]]  [[G2889\|κόσμον]]  [[G4012\|περὶ]]  [[G0266\|ἁμαρτίας]]  [[G2532\|καὶ]]  [[G4012\|περὶ]]  [[G1343\|δικαιοσύνης]]  [[G2532\|καὶ]]  [[G4012\|περὶ]]  [[G2920\|κρίσεως.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVICTION|CONVICTION]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.7|<< John 16:7]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.9|John 16:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

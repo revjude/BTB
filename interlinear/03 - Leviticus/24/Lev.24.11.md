@@ -1,8 +1,73 @@
+---
+title: Leviticus 24:11
+type: Verse
+kjv: "And the Israelitish woman’s son blasphemed the name of the LORD, and cursed. And they brought him unto Moses: (and his mother’s name was Shelomith, the daughter of Dibri, of the tribe of Dan:)"
+bsb: "The son of the Israelite woman blasphemed the Name with a curse. So they brought him to Moses. (His mother’s name was Shelomith daughter of Dibri, of the tribe of Dan.)"
+hebrew: "וַ֠יִּקֹּב בֶּן־ הָֽאִשָּׁ֨ה הַיִּשְׂרְאֵלִ֤ית אֶת־ הַשֵּׁם֙ וַיְקַלֵּ֔ל וַיָּבִ֥יאוּ אֹת֖וֹ אֶל־ מֹשֶׁ֑ה וְשֵׁ֥ם אִמּ֛וֹ שְׁלֹמִ֥ית בַּת־ דִּבְרִ֖י לְמַטֵּה־ דָֽן׃"
+pericope: "[[Lev.24.10 Punishment for Blasphemy|Punishment for Blasphemy]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 24
+book/chapter: "[[Lev.24|Leviticus 24]]"
+chronological_order: 156
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic DIBRI|DIBRI]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SHELOMITH|SHELOMITH]]"
+- "[[topic TRIAL|TRIAL]]"
+strongs:
+- "[[H9001]]"
+- "[[H5344A]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H3481H]]"
+- "[[H0853]]"
+- "[[H8034]]"
+- "[[H7043]]"
+- "[[H0935P]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H8019B]]"
+- "[[H1323G]]"
+- "[[H1704]]"
+- "[[H9005]]"
+- "[[H4294H]]"
+- "[[H1835G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 24:11**<big><big>[[Lev.24.10 Punishment for Blasphemy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Israelitish woman’s son blasphemed the name [of the LORD], and cursed. And they brought him unto Moses: (and his mother’s name [was] Shelomith, the daughter of Dibri, of the tribe of Dan:)
 <small><sub>**BSB:**</sub></small>
 The son of the Israelite woman blasphemed the Name with a curse. So they brought him to Moses. (His mother’s name was Shelomith daughter of Dibri, of the tribe of Dan.)
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֠]][[H5344A\|יִּקֹּב]] [[H1121A\|בֶּן]][[H9014\|־]] [[H9009\|הָֽ]][[H0802G\|אִשָּׁ֨ה]] [[H9009\|הַ]][[H3481H\|יִּשְׂרְאֵלִ֤ית]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8034\|שֵּׁם֙]] [[H9001\|וַ]][[H7043\|יְקַלֵּ֔ל]] [[H9001\|וַ]][[H0935P\|יָּבִ֥יאוּ]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֑ה]] [[H9002\|וְ]][[H8034\|שֵׁ֥ם]] [[H0517\|אִמּ֛]][[H9023\|וֹ]] [[H8019B\|שְׁלֹמִ֥ית]] [[H1323G\|בַּת]][[H9014\|־]] [[H1704\|דִּבְרִ֖י]] [[H9005\|לְ]][[H4294H\|מַטֵּה]][[H9014\|־]] [[H1835G\|דָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic DIBRI|DIBRI]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SHELOMITH|SHELOMITH]] • [[topic TRIAL|TRIAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.24.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.10|<< Leviticus 24:10]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.12|Leviticus 24:12 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Exodus 8:5
+type: Verse
+kjv: "And the LORD spake unto Moses, Say unto Aaron, Stretch forth thine hand with thy rod over the streams, over the rivers, and over the ponds, and cause frogs to come up upon the land of Egypt."
+bsb: "And the LORD said to Moses, “Tell Aaron, ‘Stretch out your hand with your staff over the rivers and canals and ponds, and cause the frogs to come up onto the land of Egypt.’”"
+hebrew: "וַיֹּ֣אמֶר יְהוָה֮ אֶל־ מֹשֶׁה֒ אֱמֹ֣ר אֶֽל־ אַהֲרֹ֗ן נְטֵ֤ה אֶת־ יָדְךָ֙ בְּמַטֶּ֔ךָ עַל־ הַ֨נְּהָרֹ֔ת עַל־ הַיְאֹרִ֖ים וְעַל־ הָאֲגַמִּ֑ים וְהַ֥עַל אֶת־ הַֽצְפַרְדְּעִ֖ים עַל־ אֶ֥רֶץ מִצְרָֽיִם׃"
+pericope: "[[Exod.8.1 The Second Plague：Frogs|The Second Plague：Frogs]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 8
+book/chapter: "[[Exod.8|Exodus 8]]"
+chronological_order: 100
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic FROGS|FROGS]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H0175]]"
+- "[[H5186]]"
+- "[[H0853]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H4294G]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H5104H]]"
+- "[[H2975G]]"
+- "[[H9002]]"
+- "[[H0098]]"
+- "[[H5927G]]"
+- "[[H6854]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 8:5**<big><big>[[Exod.8.1 The Second Plague：Frogs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD spake unto Moses, Say unto Aaron, Stretch forth thine hand with thy rod over the streams, over the rivers, and over the ponds, and cause frogs to come up upon the land of Egypt.
 <small><sub>**BSB:**</sub></small>
 And the LORD said to Moses, “Tell Aaron, ‘Stretch out your hand with your staff over the rivers and canals and ponds, and cause the frogs to come up onto the land of Egypt.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3068G\|יְהוָה֮]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁה֒]] [[H0559\|אֱמֹ֣ר]] [[H0413\|אֶֽל]][[H9014\|־]] [[H0175\|אַהֲרֹ֗ן]] [[H5186\|נְטֵ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יָדְ]][[H9021\|ךָ֙]] [[H9003\|בְּ]][[H4294G\|מַטֶּ֔]][[H9021\|ךָ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ֨]][[H5104H\|נְּהָרֹ֔ת]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H2975G\|יְאֹרִ֖ים]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0098\|אֲגַמִּ֑ים]] [[H9002\|וְ]][[H5927G\|הַ֥עַל]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H6854\|צְפַרְדְּעִ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FROGS|FROGS]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.4|<< Exodus 8:4]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8.6|Exodus 8:6 >>]]</td></tr></table>
 

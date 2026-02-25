@@ -1,8 +1,54 @@
+---
+title: Psalm 18:36
+type: Verse
+kjv: "Thou hast enlarged my steps under me, that my feet did not slip."
+bsb: "You broaden the path beneath me so that my ankles do not give way."
+hebrew: "תַּרְחִ֣יב צַעֲדִ֣י תַחְתָּ֑י וְלֹ֥א מָ֝עֲד֗וּ קַרְסֻלָּֽי׃"
+pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[H7337]]"
+- "[[H6806]]"
+- "[[H9020]]"
+- "[[H8478G]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H4571]]"
+- "[[H7166]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 18:36**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast enlarged my steps under me, that my feet did not slip.
 <small><sub>**BSB:**</sub></small>
 You broaden the path beneath me so that my ankles do not give way.
+<small><sub>**Hebrew:**</sub></small>
+[[H7337\|תַּרְחִ֣יב]] [[H6806\|צַעֲדִ֣]][[H9020\|י]] [[H8478G\|תַחְתָּ֑]][[H9030\|י]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H4571\|מָ֝עֲד֗וּ]] [[H7166\|קַרְסֻלָּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic TESTIMONY|TESTIMONY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.35|<< Psalms 18:35]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.37|Psalms 18:37 >>]]</td></tr></table>
 

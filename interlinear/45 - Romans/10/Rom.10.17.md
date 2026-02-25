@@ -1,10 +1,52 @@
+---
+title: Romans 10:17
+type: Verse
+kjv: "So then faith cometh by hearing, and hearing by the word of God."
+bsb: "Consequently, faith comes by hearing, and hearing by the word of Christ."
+greek: "ἄρα ἡ πίστις ἐξ ἀκοῆς ἡ δὲ ἀκοὴ διὰ ῥήματος Χριστοῦ."
+pericope: "[[Rom.10.1 The Word Brings Salvation|The Word Brings Salvation]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 10
+book/chapter: "[[Rom.10|Romans 10]]"
+chronological_order: 1096
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G0686]]"
+- "[[G3588]]"
+- "[[G4102G]]"
+- "[[G1537]]"
+- "[[G0189]]"
+- "[[G1161]]"
+- "[[G1223]]"
+- "[[G4487]]"
+- "[[G5547]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Romans 10:17**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So then faith [cometh] by hearing, and hearing by the word of God.
 <small><sub>**BSB:**</sub></small>
 Consequently, faith comes by hearing, and hearing by the word of Christ.
-<small><sub>**Literal:**</sub></small>
-So <the> faith [is] from hearing <the> and hearing through declaration of Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.16|<< Romans 10:16]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.18|Romans 10:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0686\|ἄρα]]  [[G3588\|ἡ]]  [[G4102G\|πίστις]]  [[G1537\|ἐξ]]  [[G0189\|ἀκοῆς]]  [[G3588\|ἡ]]  [[G1161\|δὲ]]  [[G0189\|ἀκοὴ]]  [[G1223\|διὰ]]  [[G4487\|ῥήματος]]  [[G5547\|Χριστοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic RELIGION|RELIGION]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.16|<< Romans 10:16]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.18|Romans 10:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

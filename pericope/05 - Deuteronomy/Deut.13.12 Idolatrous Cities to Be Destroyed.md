@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Idolatrous Cities to Be Destroyed
+type: Pericope
 pericope: "[[Deut.13.12 Idolatrous Cities to Be Destroyed|Idolatrous Cities to Be Destroyed]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 13
 book/chapter: "[[Deut.13|Deuteronomy 13]]"
-genre:
+chronological_order: 209
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 7
 verses:
 - "[[Deut.13.12]]"
 - "[[Deut.13.13]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Deut.13.18]]"
 ---
 
-[[Deut.13|Deuteronomy 13:12 - Deuteronomy 13:18]]
+<small>[[Deut.13|Deuteronomy 13:12-18]]</small>
 *Idolatrous Cities to Be Destroyed*
 
 [[Deut.13.12|12]] If thou shalt hear \[say\] in one of thy cities, which the LORD thy God hath given thee to dwell there, saying,

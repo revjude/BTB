@@ -1,10 +1,57 @@
+---
+title: Acts 9:9
+type: Verse
+kjv: "And he was three days without sight, and neither did eat nor drink."
+bsb: "For three days he was without sight, and he did not eat or drink anything."
+greek: "καὶ ἦν ἡμέρας τρεῖς μὴ βλέπων καὶ οὐκ ἔφαγεν οὐδὲ ἔπιεν.¶"
+pericope: "[[Acts.9.1 The Road to Damascus|The Road to Damascus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 9
+book/chapter: "[[Acts.9|Acts 9]]"
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic FASTING|FASTING]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SYRIA|SYRIA]]"
+strongs:
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G2250]]"
+- "[[G5140]]"
+- "[[G3361]]"
+- "[[G0991]]"
+- "[[G3756]]"
+- "[[G5315]]"
+- "[[G3761]]"
+- "[[G4095]]"
+texts:
+- NKO
+---
+
 **Acts 9:9**<big><big>[[Acts.9.1 The Road to Damascus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he was three days without sight, and neither did eat nor drink.
 <small><sub>**BSB:**</sub></small>
 For three days he was without sight, and he did not eat or drink anything.
-<small><sub>**Literal:**</sub></small>
-And he was days three without seeing and neither did he eat nor drink.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.8|<< Acts 9:8]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.10|Acts 9:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1510\|ἦν]]  [[G2250\|ἡμέρας]]  [[G5140\|τρεῖς]]  [[G3361\|μὴ]]  [[G0991\|βλέπων]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G5315\|ἔφαγεν]]  [[G3761\|οὐδὲ]]  [[G4095\|ἔπιεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic CONVERTS|CONVERTS]] • [[topic FASTING|FASTING]] • [[topic HEART|HEART]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PAUL|PAUL]] • [[topic PERSECUTION|PERSECUTION]] • [[topic REGENERATION|REGENERATION]] • [[topic SYRIA|SYRIA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.8|<< Acts 9:8]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.10|Acts 9:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

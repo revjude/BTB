@@ -1,10 +1,43 @@
+---
+title: 1 Corinthians 14:32
+type: Verse
+kjv: "And the spirits of the prophets are subject to the prophets."
+bsb: "The spirits of prophets are subject to prophets."
+greek: "καὶ πνεύματα προφητῶν προφήταις ὑποτάσσεται·"
+pericope: "[[1Cor.14.26 Orderly Worship|Orderly Worship]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 14
+book/chapter: "[[1Cor.14|1 Corinthians 14]]"
+chronological_order: 1071
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[G2532]]"
+- "[[G4151G]]"
+- "[[G4396]]"
+- "[[G5293]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 14:32**<big><big>[[1Cor.14.26 Orderly Worship|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the spirits of the prophets are subject to the prophets.
 <small><sub>**BSB:**</sub></small>
 The spirits of prophets are subject to prophets.
-<small><sub>**Literal:**</sub></small>
-And spirits of prophets to prophets are subject;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.31|<< 1 Corinthians 14:31]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.33|1 Corinthians 14:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4151G\|πνεύματα]]  [[G4396\|προφητῶν]]  [[G4396\|προφήταις]]  [[G5293\|ὑποτάσσεται·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHETS|PROPHETS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.31|<< 1 Corinthians 14:31]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.33|1 Corinthians 14:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

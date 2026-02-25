@@ -1,10 +1,54 @@
+---
+title: Romans 7:16
+type: Verse
+kjv: "If then I do that which I would not, I consent unto the law that it is good."
+bsb: "And if I do what I do not want to do, I admit that the law is good."
+greek: "εἰ δὲ ὃ οὐ θέλω τοῦτο ποιῶ, σύμφημι τῷ νόμῳ ὅτι καλός·"
+pericope: "[[Rom.7.13 Struggling with Sin|Struggling with Sin]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 7
+book/chapter: "[[Rom.7|Romans 7]]"
+chronological_order: 1093
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic GOOD AND EVIL|GOOD AND EVIL]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic MAN|MAN]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G2309]]"
+- "[[G3778]]"
+- "[[G4160G]]"
+- "[[G4852]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G3754G]]"
+- "[[G2570G]]"
+texts:
+- NKO
+---
+
 **Romans 7:16**<big><big>[[Rom.7.13 Struggling with Sin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If then I do that which I would not, I consent unto the law that [it is] good.
 <small><sub>**BSB:**</sub></small>
 And if I do what I do not want to do, I admit that the law is good.
-<small><sub>**Literal:**</sub></small>
-If now that which not I do want this I do, I consent to the law that [it is] good;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.15|<< Romans 7:15]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.17|Romans 7:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G3739\|ὃ]]  [[G3756\|οὐ]]  [[G2309\|θέλω]]  [[G3778\|τοῦτο]]  [[G4160G\|ποιῶ,]]  [[G4852\|σύμφημι]]  [[G3588\|τῷ]]  [[G3551\|νόμῳ]]  [[G3754G\|ὅτι]]  [[G2570G\|καλός·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic GOOD AND EVIL|GOOD AND EVIL]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic MAN|MAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.15|<< Romans 7:15]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.17|Romans 7:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

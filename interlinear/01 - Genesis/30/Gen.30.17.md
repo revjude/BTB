@@ -1,8 +1,62 @@
+---
+title: Genesis 30:17
+type: Verse
+kjv: "And God hearkened unto Leah, and she conceived, and bare Jacob the fifth son."
+bsb: "And God listened to Leah, and she conceived and bore a fifth son to Jacob."
+hebrew: "וַיִּשְׁמַ֥ע אֱלֹהִ֖ים אֶל־ לֵאָ֑ה וַתַּ֛הַר וַתֵּ֥לֶד לְיַעֲקֹ֖ב בֵּ֥ן חֲמִישִֽׁי׃"
+pericope: "[[Gen.30.17 Issachar, Zebulun, and Dinah|Issachar, Zebulun, and Dinah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 30
+book/chapter: "[[Gen.30|Genesis 30]]"
+chronological_order: 72
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic EMULATION|EMULATION]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic LEAH|LEAH]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H0430G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3812]]"
+- "[[H2029]]"
+- "[[H3205]]"
+- "[[H9005]]"
+- "[[H3290]]"
+- "[[H1121A]]"
+- "[[H2549]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 30:17**<big><big>[[Gen.30.17 Issachar, Zebulun, and Dinah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God hearkened unto Leah, and she conceived, and bare Jacob the fifth son.
 <small><sub>**BSB:**</sub></small>
 And God listened to Leah, and she conceived and bore a fifth son to Jacob.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֥ע]] [[H0430G\|אֱלֹהִ֖ים]] [[H0413\|אֶל]][[H9014\|־]] [[H3812\|לֵאָ֑ה]] [[H9001\|וַ]][[H2029\|תַּ֛הַר]] [[H9001\|וַ]][[H3205\|תֵּ֥לֶד]] [[H9005\|לְ]][[H3290\|יַעֲקֹ֖ב]] [[H1121A\|בֵּ֥ן]] [[H2549\|חֲמִישִֽׁי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic EMULATION|EMULATION]] • [[topic FAMILY|FAMILY]] • [[topic JACOB|JACOB]] • [[topic LEAH|LEAH]] • [[topic POLYGAMY|POLYGAMY]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.16|<< Genesis 30:16]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.18|Genesis 30:18 >>]]</td></tr></table>
 

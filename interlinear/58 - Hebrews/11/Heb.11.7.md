@@ -1,10 +1,71 @@
+---
+title: Hebrews 11:7
+type: Verse
+kjv: "By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house; by the which he condemned the world, and became heir of the righteousness which is by faith."
+bsb: "By faith Noah, when warned about things not yet seen, in godly fear built an ark to save his family. By faith he condemned the world and became heir of the righteousness that comes by faith."
+greek: "Πίστει χρηματισθεὶς Νῶε περὶ τῶν μηδέπω βλεπομένων εὐλαβηθεὶς κατεσκεύασεν κιβωτὸν εἰς σωτηρίαν τοῦ οἴκου αὐτοῦ, δι᾽ ἧς κατέκρινεν τὸν κόσμον καὶ τῆς κατὰ πίστιν δικαιοσύνης ἐγένετο κληρονόμος.¶"
+pericope: "[[Heb.11.4 The Faith of Abel, Enoch, Noah|The Faith of Abel, Enoch, Noah]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 11
+book/chapter: "[[Heb.11|Hebrews 11]]"
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ANTEDILUVIANS|ANTEDILUVIANS]]"
+- "[[topic ARK|ARK]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FLOOD|FLOOD]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic NOAH|NOAH]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[G4102G]]"
+- "[[G5537]]"
+- "[[G3575]]"
+- "[[G4012]]"
+- "[[G3588]]"
+- "[[G3369]]"
+- "[[G0991]]"
+- "[[G2125]]"
+- "[[G2680]]"
+- "[[G2787G]]"
+- "[[G1519]]"
+- "[[G4991]]"
+- "[[G3624H]]"
+- "[[G0846]]"
+- "[[G1223]]"
+- "[[G3739]]"
+- "[[G2632]]"
+- "[[G2889]]"
+- "[[G2532]]"
+- "[[G2596]]"
+- "[[G1343]]"
+- "[[G1096]]"
+- "[[G2818]]"
+texts:
+- NKO
+---
+
 **Hebrews 11:7**<big><big>[[Heb.11.4 The Faith of Abel, Enoch, Noah|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house; by the which he condemned the world, and became heir of the righteousness which is by faith.
 <small><sub>**BSB:**</sub></small>
 By faith Noah, when warned about things not yet seen, in godly fear built an ark to save his family. By faith he condemned the world and became heir of the righteousness that comes by faith.
-<small><sub>**Literal:**</sub></small>
-By faith having been divinely instructed Noah concerning the [things] not yet seen having been moved with fear he prepared an ark for [the] salvation of the household of him, through which he condemned the world and of the according to faith righteousness [that is] he became heir.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.6|<< Hebrews 11:6]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.8|Hebrews 11:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4102G\|Πίστει]]  [[G5537\|χρηματισθεὶς]]  [[G3575\|Νῶε]]  [[G4012\|περὶ]]  [[G3588\|τῶν]]  [[G3369\|μηδέπω]]  [[G0991\|βλεπομένων]]  [[G2125\|εὐλαβηθεὶς]]  [[G2680\|κατεσκεύασεν]]  [[G2787G\|κιβωτὸν]]  [[G1519\|εἰς]]  [[G4991\|σωτηρίαν]]  [[G3588\|τοῦ]]  [[G3624H\|οἴκου]]  [[G0846\|αὐτοῦ,]]  [[G1223\|δι᾽]]  [[G3739\|ἧς]]  [[G2632\|κατέκρινεν]]  [[G3588\|τὸν]]  [[G2889\|κόσμον]]  [[G2532\|καὶ]]  [[G3588\|τῆς]]  [[G2596\|κατὰ]]  [[G4102G\|πίστιν]]  [[G1343\|δικαιοσύνης]]  [[G1096\|ἐγένετο]]  [[G2818\|κληρονόμος.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTEDILUVIANS|ANTEDILUVIANS]] • [[topic ARK|ARK]] • [[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic FLOOD|FLOOD]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic NOAH|NOAH]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REVERENCE|REVERENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.6|<< Hebrews 11:6]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.8|Hebrews 11:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 11:7** is...
 > $\quad$ alluding to: [[LXX.Gen.6.8|Gen 6:8]] ☩ [[LXX.Gen.6.14|Gen 6:14]]

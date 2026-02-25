@@ -1,8 +1,65 @@
+---
+title: Psalm 73:26
+type: Verse
+kjv: "My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever."
+bsb: "My flesh and my heart may fail, but God is the strength of my heart and my portion forever."
+hebrew: "כָּלָ֥ה שְׁאֵרִ֗י וּלְבָ֫בִ֥י צוּר־ לְבָבִ֥י וְחֶלְקִ֗י אֱלֹהִ֥ים לְעוֹלָֽם׃"
+pericope: "[[Ps.73.1 Surely God Is Good to Israel|Surely God Is Good to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 73
+book/chapter: "[[Ps.73|Psalm 73]]"
+chronological_order: 506
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3615J]]"
+- "[[H7607]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3824]]"
+- "[[H6697H]]"
+- "[[H9014]]"
+- "[[H2506A]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 73:26**<big><big>[[Ps.73.1 Surely God Is Good to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My flesh and my heart faileth: [but] God [is] the strength of my heart, and my portion for ever.
 <small><sub>**BSB:**</sub></small>
 My flesh and my heart may fail, but God is the strength of my heart and my portion forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H3615J\|כָּלָ֥ה]] [[H7607\|שְׁאֵרִ֗]][[H9020\|י]] [[H9002\|וּ]][[H3824\|לְבָ֫בִ֥]][[H9020\|י]] [[H6697H\|צוּר]][[H9014\|־]] [[H3824\|לְבָבִ֥]][[H9020\|י]] [[H9002\|וְ]][[H2506A\|חֶלְקִ֗]][[H9020\|י]] [[H0430G\|אֱלֹהִ֥ים]] [[H9005\|לְ]][[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ASSURANCE|ASSURANCE]] • [[topic BLESSING|BLESSING]] • [[topic BLINDNESS|BLINDNESS]] • [[topic FAITH|FAITH]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic LOVE|LOVE]] • [[topic PEACE|PEACE]] • [[topic TEMPTATION|TEMPTATION]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.73.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.25|<< Psalms 73:25]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.27|Psalms 73:27 >>]]</td></tr></table>
 

@@ -1,8 +1,71 @@
+---
+title: Ecclesiastes 5:6
+type: Verse
+kjv: "Suffer not thy mouth to cause thy flesh to sin; neither say thou before the angel, that it was an error: wherefore should God be angry at thy voice, and destroy the work of thine hands?"
+bsb: "Do not let your mouth cause your flesh to sin, and do not tell the messenger that your vow was a mistake. Why should God be angry with your words and destroy the work of your hands?"
+hebrew: "אַל־ תִּתֵּ֤ן אֶת־ פִּ֙יךָ֙ לַחֲטִ֣יא אֶת־ בְּשָׂרֶ֔ךָ וְאַל־ תֹּאמַר֙ לִפְנֵ֣י הַמַּלְאָ֔ךְ כִּ֥י שְׁגָגָ֖ה הִ֑יא לָ֣מָּה יִקְצֹ֤ף הָֽאֱלֹהִים֙ עַל־ קוֹלֶ֔ךָ וְחִבֵּ֖ל אֶת־ מַעֲשֵׂ֥ה יָדֶֽיךָ׃"
+pericope: "[[Eccl.5.1 Approaching God with Awe|Approaching God with Awe]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 5
+book/chapter: "[[Eccl.5|Ecclesiastes 5]]"
+chronological_order: 543
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SIN|SIN]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5414K]]"
+- "[[H0853]]"
+- "[[H6310G]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H2398]]"
+- "[[H1320]]"
+- "[[H9002]]"
+- "[[H0559]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H4397G]]"
+- "[[H3588A]]"
+- "[[H7684]]"
+- "[[H1931]]"
+- "[[H4100]]"
+- "[[H7107]]"
+- "[[H0430G]]"
+- "[[H5921A]]"
+- "[[H6963A]]"
+- "[[H9001]]"
+- "[[H2254B]]"
+- "[[H4639G]]"
+- "[[H3027G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 5:6**<big><big>[[Eccl.5.1 Approaching God with Awe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Suffer not thy mouth to cause thy flesh to sin; neither say thou before the angel, that it [was] an error: wherefore should God be angry at thy voice, and destroy the work of thine hands?
 <small><sub>**BSB:**</sub></small>
 Do not let your mouth cause your flesh to sin, and do not tell the messenger that your vow was a mistake. Why should God be angry with your words and destroy the work of your hands?
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H5414K\|תִּתֵּ֤ן]] [[H0853\|אֶת]][[H9014\|־]] [[H6310G\|פִּ֙י]][[H9021\|ךָ֙]] [[H9005\|לַ]][[H2398\|חֲטִ֣יא]] [[H0853\|אֶת]][[H9014\|־]] [[H1320\|בְּשָׂרֶ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H0559\|תֹּאמַר֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H9009\|הַ]][[H4397G\|מַּלְאָ֔ךְ]] [[H3588A\|כִּ֥י]] [[H7684\|שְׁגָגָ֖ה]] [[H1931\|הִ֑יא]] [[H9005\|לָ֣]][[H4100\|מָּה]] [[H7107\|יִקְצֹ֤ף]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִים֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6963A\|קוֹלֶ֔]][[H9021\|ךָ]] [[H9001\|וְ]][[H2254B\|חִבֵּ֖ל]] [[H0853\|אֶת]][[H9014\|־]] [[H4639G\|מַעֲשֵׂ֥ה]] [[H3027G\|יָדֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic PRIEST|PRIEST]] • [[topic SIN|SIN]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.5|<< Ecclesiastes 5:5]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.7|Ecclesiastes 5:7 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: Isaiah 25:10
+type: Verse
+kjv: "For in this mountain shall the hand of the LORD rest, and Moab shall be trodden down under him, even as straw is trodden down for the dunghill."
+bsb: "For the hand of the LORD will rest on this mountain. But Moab will be trampled in his place as straw is trodden into the dung pile."
+hebrew: "כִּֽי־ תָנ֥וּחַ יַד־ יְהוָ֖ה בָּהָ֣ר הַזֶּ֑ה וְנָ֤דוֹשׁ מוֹאָב֙ תַּחְתָּ֔יו כְּהִדּ֥וּשׁ מַתְבֵּ֖ן בְּמ֥וֹ מַדְמֵנָֽה׃"
+pericope: "[[Isa.25.1 Praise to the Victorious God|Praise to the Victorious God]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 25
+book/chapter: "[[Isa.25|Isaiah 25]]"
+chronological_order: 668
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic MANURE|MANURE]]"
+- "[[topic THRESHING|THRESHING]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5117]]"
+- "[[H3027H]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H2022G]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H9001]]"
+- "[[H1758]]"
+- "[[H4124G]]"
+- "[[H8478I]]"
+- "[[H9033]]"
+- "[[H9004]]"
+- "[[H4963]]"
+- "[[H4325G]]"
+- "[[H1119]]"
+- "[[H4087]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Isaiah 25:10**<big><big>[[Isa.25.1 Praise to the Victorious God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For in this mountain shall the hand of the LORD rest, and Moab shall be trodden down under him, even as straw is trodden down for the dunghill.
 <small><sub>**BSB:**</sub></small>
 For the hand of the LORD will rest on this mountain. But Moab will be trampled in his place as straw is trodden into the dung pile.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H5117\|תָנ֥וּחַ]] [[H3027H\|יַד]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בָּ]][[H2022G\|הָ֣ר]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9001\|וְ]][[H1758\|נָ֤דוֹשׁ]] [[H4124G\|מוֹאָב֙]] [[H8478I\|תַּחְתָּ֔י]][[H9033\|ו]] [[H9004\|כְּ]][[H1758\|הִדּ֥וּשׁ]] [[H4963\|מַתְבֵּ֖ן]] [[H1119\|בְּמ֥וֹ]] [[H4087\|מַדְמֵנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MANURE|MANURE]] • [[topic THRESHING|THRESHING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.25.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.25.9|<< Isaiah 25:9]]</td><td align="center" style="border:none;">[[Isa.25|Isaiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.25.11|Isaiah 25:11 >>]]</td></tr></table>
 
@@ -23,6 +78,6 @@ For the hand of the LORD will rest on this mountain. But Moab will be trampled i
 | a dung hill  |**<big>&#8207;[[H4087\|מַדְמֵנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mad.me.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.25.9|<< Isaiah 25:9]]</td><td align="center" style="border:none;">[[Isa.25|Isaiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.25.11|Isaiah 25:11 >>]]</td></tr></table>
 
-[^1]: in [the] water  | **<big>[[H4325G|מֵי]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> mei<small><sup>[[HNcmpc]]</sup></small> | K
+[^1]: in [the] water  | **<big>[[H9003|בְּ]]</big><big>[[H4325G|מֵי]]</big> ** | be.<small><sup>[[HR]]</sup></small> mei<small><sup>[[HNcmpc]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>בְּמֹ֥י</big></span>**
 

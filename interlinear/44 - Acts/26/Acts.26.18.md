@@ -1,10 +1,86 @@
+---
+title: Acts 26:18
+type: Verse
+kjv: "To open their eyes, and to turn them from darkness to light, and from the power of Satan unto God, that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me."
+bsb: "to open their eyes, so that they may turn from darkness to light and from the power of Satan to God, that they may receive forgiveness of sins and an inheritance among those sanctified by faith in Me.’"
+jesus_said: "To open their eyes, and to turn them from darkness to light, and from the power of Satan unto God, that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me."
+greek: "ἀνοῖξαι ὀφθαλμοὺς αὐτῶν, τοῦ ἐπιστρέψαι ἀπὸ σκότους εἰς φῶς καὶ τῆς ἐξουσίας τοῦ σατανᾶ ἐπὶ τὸν θεόν, τοῦ λαβεῖν αὐτοὺς ἄφεσιν ἁμαρτιῶν καὶ κλῆρον ἐν τοῖς ἡγιασμένοις πίστει τῇ εἰς ἐμέ.¶"
+pericope: "[[Acts.26.1 Paul’s Testimony to Agrippa|Paul’s Testimony to Agrippa]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 26
+book/chapter: "[[Acts.26|Acts 26]]"
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic COURT|COURT]]"
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic LIGHT|LIGHT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MISSIONS|MISSIONS]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0455]]"
+- "[[G3788]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G1994]]"
+- "[[G0575]]"
+- "[[G4655]]"
+- "[[G1519]]"
+- "[[G5457]]"
+- "[[G2532]]"
+- "[[G1849]]"
+- "[[G4567]]"
+- "[[G1909]]"
+- "[[G2316]]"
+- "[[G2983]]"
+- "[[G0859]]"
+- "[[G0266]]"
+- "[[G2819]]"
+- "[[G1722]]"
+- "[[G0037]]"
+- "[[G4102G]]"
+- "[[G1473]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Acts 26:18**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 To open their eyes, [and] to turn [them] from darkness to light, and [from] the power of Satan unto God, that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me.
 <small><sub>**BSB:**</sub></small>
 to open their eyes, so that they may turn from darkness to light and from the power of Satan to God, that they may receive forgiveness of sins and an inheritance among those sanctified by faith in Me.’
-<small><sub>**Literal:**</sub></small>
-to open eyes of them, that to turn from darkness to light and from the power <the> of Satan to <the> God, [that] to receive they forgiveness of sins and [an] inheritance among those sanctified by faith which [is] in Me myself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.17|<< Acts 26:17]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.19|Acts 26:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0455\|ἀνοῖξαι]]  [[G3788\|ὀφθαλμοὺς]]  [[G0846\|αὐτῶν,]]  [[G3588\|τοῦ]]  [[G1994\|ἐπιστρέψαι]]  [[G0575\|ἀπὸ]]  [[G4655\|σκότους]]  [[G1519\|εἰς]]  [[G5457\|φῶς]]  [[G2532\|καὶ]]  [[G3588\|τῆς]]  [[G1849\|ἐξουσίας]]  [[G3588\|τοῦ]]  [[G4567\|σατανᾶ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G2316\|θεόν,]]  [[G3588\|τοῦ]]  [[G2983\|λαβεῖν]]  [[G0846\|αὐτοὺς]]  [[G0859\|ἄφεσιν]]  [[G0266\|ἁμαρτιῶν]]  [[G2532\|καὶ]]  [[G2819\|κλῆρον]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G0037\|ἡγιασμένοις]]  [[G4102G\|πίστει]]  [[G3588\|τῇ]]  [[G1519\|εἰς]]  [[G1473\|ἐμέ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic CONVERTS|CONVERTS]] • [[topic COURT|COURT]] • [[topic DAMASCUS|DAMASCUS]] • [[topic DARKNESS|DARKNESS]] • [[topic DEFENSE|DEFENSE]] • [[topic FAITH|FAITH]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic INHERITANCE|INHERITANCE]] • [[topic LIGHT|LIGHT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MISSIONS|MISSIONS]] • [[topic PAUL|PAUL]] • [[topic REGENERATION|REGENERATION]] • [[topic REWARD|REWARD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic SATAN|SATAN]] • [[topic SIN|SIN]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.17|<< Acts 26:17]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.19|Acts 26:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

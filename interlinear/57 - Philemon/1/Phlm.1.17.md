@@ -1,10 +1,45 @@
+---
+title: Philemon 1:17
+type: Verse
+kjv: "If thou count me therefore a partner, receive him as myself."
+bsb: "So if you consider me a partner, receive him as you would receive me."
+greek: "εἰ οὖν με ἔχεις κοινωνόν, προσλαβοῦ αὐτὸν ὡς ἐμέ."
+pericope: "[[Phlm.1.8 Paul’s Appeal for Onesimus|Paul’s Appeal for Onesimus]]"
+original_language: Greek
+testament: New
+book: Philemon
+chapter: 1
+book/chapter: "[[Phlm.1|Philemon 1]]"
+chronological_order: 1125
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- personal letter
+strongs:
+- "[[G1487G]]"
+- "[[G3767]]"
+- "[[G3165]]"
+- "[[G2192]]"
+- "[[G2844]]"
+- "[[G4355]]"
+- "[[G0846]]"
+- "[[G5613]]"
+- "[[G1473]]"
+texts:
+- NKO
+---
+
 **Philemon 1:17**<big><big>[[Phlm.1.8 Paul’s Appeal for Onesimus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If thou count me therefore a partner, receive him as myself.
 <small><sub>**BSB:**</sub></small>
 So if you consider me a partner, receive him as you would receive me.
-<small><sub>**Literal:**</sub></small>
-If therefore me you consider a partner, do yourself receive him as me myself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.16|<< Philemon 1:16]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.18|Philemon 1:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G3767\|οὖν]]  [[G3165\|με]]  [[G2192\|ἔχεις]]  [[G2844\|κοινωνόν,]]  [[G4355\|προσλαβοῦ]]  [[G0846\|αὐτὸν]]  [[G5613\|ὡς]]  [[G1473\|ἐμέ.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.16|<< Philemon 1:16]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.18|Philemon 1:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

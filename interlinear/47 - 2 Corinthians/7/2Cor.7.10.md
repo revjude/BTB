@@ -1,10 +1,59 @@
+---
+title: 2 Corinthians 7:10
+type: Verse
+kjv: "For godly sorrow worketh repentance to salvation not to be repented of: but the sorrow of the world worketh death."
+bsb: "Godly sorrow brings repentance that leads to salvation without regret, but worldly sorrow brings death."
+greek: "ἡ γὰρ κατὰ θεὸν λύπη μετάνοιαν εἰς σωτηρίαν ἀμεταμέλητον ἐργάζεται, ἡ δὲ τοῦ κόσμου λύπη θάνατον κατεργάζεται."
+pericope: "[[2Cor.7.1 Paul’s Joy in the Corinthians|Paul’s Joy in the Corinthians]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 7
+book/chapter: "[[2Cor.7|2 Corinthians 7]]"
+chronological_order: 1080
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SORROW|SORROW]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G2596]]"
+- "[[G2316]]"
+- "[[G3077]]"
+- "[[G3341]]"
+- "[[G1519]]"
+- "[[G4991]]"
+- "[[G0278]]"
+- "[[G2038]]"
+- "[[G1161]]"
+- "[[G2889]]"
+- "[[G2288]]"
+- "[[G2716]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Corinthians 7:10**<big><big>[[2Cor.7.1 Paul’s Joy in the Corinthians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For godly sorrow worketh repentance to salvation not to be repented of: but the sorrow of the world worketh death.
 <small><sub>**BSB:**</sub></small>
 Godly sorrow brings repentance that leads to salvation without regret, but worldly sorrow brings death.
-<small><sub>**Literal:**</sub></small>
-The for according to God grief repentance to salvation without regret produces, <the> and the of the world grief death produces.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.7.9|<< 2 Corinthians 7:9]]</td><td align="center" style="border:none;">[[2Cor.7|2 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.11|2 Corinthians 7:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G1063\|γὰρ]]  [[G2596\|κατὰ]]  [[G2316\|θεὸν]]  [[G3077\|λύπη]]  [[G3341\|μετάνοιαν]]  [[G1519\|εἰς]]  [[G4991\|σωτηρίαν]]  [[G0278\|ἀμεταμέλητον]]  [[G2038\|ἐργάζεται,]]  [[G3588\|ἡ]]  [[G1161\|δὲ]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου]]  [[G3077\|λύπη]]  [[G2288\|θάνατον]]  [[G2716\|κατεργάζεται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REPENTANCE|REPENTANCE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SALVATION|SALVATION]] • [[topic SORROW|SORROW]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.7.9|<< 2 Corinthians 7:9]]</td><td align="center" style="border:none;">[[2Cor.7|2 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.11|2 Corinthians 7:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

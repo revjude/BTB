@@ -1,8 +1,74 @@
+---
+title: Judges 7:19
+type: Verse
+kjv: "So Gideon, and the hundred men that were with him, came unto the outside of the camp in the beginning of the middle watch; and they had but newly set the watch: and they blew the trumpets, and brake the pitchers that were in their hands."
+bsb: "Gideon and the hundred men with him reached the outskirts of the camp at the beginning of the middle watch, just after the changing of the guard. They blew their horns and broke the jars that were in their hands."
+hebrew: "וַיָּבֹ֣א גִ֠דְעוֹן וּמֵאָה־ אִ֨ישׁ אֲשֶׁר־ אִתּ֜וֹ בִּקְצֵ֣ה הַֽמַּחֲנֶ֗ה רֹ֚אשׁ הָאַשְׁמֹ֣רֶת הַתִּֽיכוֹנָ֔ה אַ֛ךְ הָקֵ֥ם הֵקִ֖ימוּ אֶת־ הַשֹּֽׁמְרִ֑ים וַֽיִּתְקְעוּ֙ בַּשּׁ֣וֹפָר֔וֹת וְנָפ֥וֹץ הַכַּדִּ֖ים אֲשֶׁ֥ר בְּיָדָֽם׃"
+pericope: "[[Judg.7.15 Gideon Defeats Midian|Gideon Defeats Midian]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 7
+book/chapter: "[[Judg.7|Judges 7]]"
+chronological_order: 261
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NIGHT|NIGHT]]"
+- "[[topic PITCHER|PITCHER]]"
+- "[[topic STRATEGY|STRATEGY]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H1439]]"
+- "[[H9002]]"
+- "[[H3967]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H7097A]]"
+- "[[H9009]]"
+- "[[H4264]]"
+- "[[H7218J]]"
+- "[[H0821]]"
+- "[[H8484]]"
+- "[[H0389]]"
+- "[[H6965K]]"
+- "[[H0853]]"
+- "[[H8104H]]"
+- "[[H8628]]"
+- "[[H7782]]"
+- "[[H5310A]]"
+- "[[H3537]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 7:19**<big><big>[[Judg.7.15 Gideon Defeats Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Gideon, and the hundred men that [were] with him, came unto the outside of the camp in the beginning of the middle watch; and they had but newly set the watch: and they blew the trumpets, and brake the pitchers that [were] in their hands.
 <small><sub>**BSB:**</sub></small>
 Gideon and the hundred men with him reached the outskirts of the camp at the beginning of the middle watch, just after the changing of the guard. They blew their horns and broke the jars that were in their hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֣א]] [[H1439\|גִ֠דְעוֹן]] [[H9002\|וּ]][[H3967\|מֵאָה]][[H9014\|־]] [[H0376G\|אִ֨ישׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0854\|אִתּ֜]][[H9033\|וֹ]] [[H9003\|בִּ]][[H7097A\|קְצֵ֣ה]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶ֗ה]] [[H7218J\|רֹ֚אשׁ]] [[H9009\|הָ]][[H0821\|אַשְׁמֹ֣רֶת]] [[H9009\|הַ]][[H8484\|תִּֽיכוֹנָ֔ה]] [[H0389\|אַ֛ךְ]] [[H6965K\|הָקֵ֥ם]] [[H6965K\|הֵקִ֖ימוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8104H\|שֹּֽׁמְרִ֑ים]] [[H9001\|וַֽ]][[H8628\|יִּתְקְעוּ֙]] [[H9003\|בַּ]][[H7782\|שּׁ֣וֹפָר֔וֹת]] [[H9002\|וְ]][[H5310A\|נָפ֥וֹץ]] [[H9009\|הַ]][[H3537\|כַּדִּ֖ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בְּ]][[H3027G\|יָדָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic COURAGE|COURAGE]] • [[topic MIRACLES|MIRACLES]] • [[topic NIGHT|NIGHT]] • [[topic PITCHER|PITCHER]] • [[topic STRATEGY|STRATEGY]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.18|<< Judges 7:18]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.20|Judges 7:20 >>]]</td></tr></table>
 

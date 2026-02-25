@@ -1,8 +1,50 @@
+---
+title: Proverbs 21:18
+type: Verse
+kjv: "The wicked shall be a ransom for the righteous, and the transgressor for the upright."
+bsb: "The wicked become a ransom for the righteous, and the faithless for the upright."
+hebrew: "כֹּ֣פֶר לַצַּדִּ֣יק רָשָׁ֑ע וְתַ֖חַת יְשָׁרִ֣ים בּוֹגֵֽד׃"
+pericope: "[[Prov.21.1 The King’s Heart|The King’s Heart]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 21
+book/chapter: "[[Prov.21|Proverbs 21]]"
+chronological_order: 476
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3724A]]"
+- "[[H9005]]"
+- "[[H6662]]"
+- "[[H7563]]"
+- "[[H9002]]"
+- "[[H8478H]]"
+- "[[H3477G]]"
+- "[[H0898]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 21:18**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wicked [shall be] a ransom for the righteous, and the transgressor for the upright.
 <small><sub>**BSB:**</sub></small>
 The wicked become a ransom for the righteous, and the faithless for the upright.
+<small><sub>**Hebrew:**</sub></small>
+[[H3724A\|כֹּ֣פֶר]] [[H9005\|לַ]][[H6662\|צַּדִּ֣יק]] [[H7563\|רָשָׁ֑ע]] [[H9002\|וְ]][[H8478H\|תַ֖חַת]] [[H3477G\|יְשָׁרִ֣ים]] [[H0898\|בּוֹגֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.17|<< Proverbs 21:17]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.19|Proverbs 21:19 >>]]</td></tr></table>
 

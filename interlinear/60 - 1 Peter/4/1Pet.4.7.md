@@ -1,10 +1,57 @@
+---
+title: 1 Peter 4:7
+type: Verse
+kjv: "But the end of all things is at hand: be ye therefore sober, and watch unto prayer."
+bsb: "The end of all things is near. Therefore be clear-minded and sober, so that you can pray."
+greek: "Πάντων δὲ τὸ τέλος ἤγγικεν· σωφρονήσατε οὖν καὶ νήψατε εἰς τὰς προσευχάς,"
+pericope: "[[1Pet.4.1 Living for God’s Glory|Living for God’s Glory]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 4
+book/chapter: "[[1Pet.4|1 Peter 4]]"
+chronological_order: 1138
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic SOBRIETY|SOBRIETY]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G3956]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G5056]]"
+- "[[G1448]]"
+- "[[G4993]]"
+- "[[G3767]]"
+- "[[G2532]]"
+- "[[G3525]]"
+- "[[G1519]]"
+- "[[G4335]]"
+texts:
+- NKO
+- k
+---
+
 **1 Peter 4:7**<big><big>[[1Pet.4.1 Living for God’s Glory|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the end of all things is at hand: be ye therefore sober, and watch unto prayer.
 <small><sub>**BSB:**</sub></small>
 The end of all things is near. Therefore be clear-minded and sober, so that you can pray.
-<small><sub>**Literal:**</sub></small>
-Of all now the end has drawn near; do be clear-minded therefore and do sober for the purpose of <the> prayers<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.6|<< 1 Peter 4:6]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.8|1 Peter 4:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|Πάντων]]  [[G1161\|δὲ]]  [[G3588\|τὸ]]  [[G5056\|τέλος]]  [[G1448\|ἤγγικεν·]]  [[G4993\|σωφρονήσατε]]  [[G3767\|οὖν]]  [[G2532\|καὶ]]  [[G3525\|νήψατε]]  [[G1519\|εἰς]]  [[G3588\|τὰς]]  [[G4335\|προσευχάς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic HOLINESS|HOLINESS]] • [[topic JUDGMENT|JUDGMENT]] • [[topic SOBRIETY|SOBRIETY]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.6|<< 1 Peter 4:6]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.8|1 Peter 4:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

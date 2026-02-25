@@ -1,26 +1,33 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saying 30
+type: Pericope
 pericope: "[[Prov.24.21 Saying 30|Saying 30]]"
-verse_count: 2
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 24
 book/chapter: "[[Prov.24|Proverbs 24]]"
-genre:
+chronological_order: 479
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 2
 verses:
 - "[[Prov.24.21]]"
 - "[[Prov.24.22]]"
 ---
 
-[[Prov.24|Proverbs 24:21 - Proverbs 24:22]]
+<small>[[Prov.24|Proverbs 24:21-22]]</small>
 *Saying 30*
 
 [[Prov.24.21|21]] My son, fear thou the LORD and the king: \[and\] meddle not with them that are given to change:

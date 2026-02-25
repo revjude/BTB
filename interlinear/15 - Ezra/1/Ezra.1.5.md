@@ -1,8 +1,70 @@
+---
+title: Ezra 1:5
+type: Verse
+kjv: "Then rose up the chief of the fathers of Judah and Benjamin, and the priests, and the Levites, with all them whose spirit God had raised, to go up to build the house of the LORD which is in Jerusalem."
+bsb: "So the family heads of Judah and Benjamin, along with the priests and Levites—everyone whose spirit God had stirred—prepared to go up and rebuild the house of the LORD in Jerusalem."
+hebrew: "וַיָּק֜וּמוּ רָאשֵׁ֣י הָאָב֗וֹת לִֽיהוּדָה֙ וּבִנְיָמִ֔ן וְהַכֹּהֲנִ֖ים וְהַלְוִיִּ֑ם לְכֹ֨ל הֵעִ֤יר הָאֱלֹהִים֙ אֶת־ רוּח֔וֹ לַעֲל֣וֹת לִבְנ֔וֹת אֶת־ בֵּ֥ית יְהוָ֖ה אֲשֶׁ֥ר בִּירוּשָׁלִָֽם׃"
+pericope: "[[Ezra.1.1 The Proclamation of Cyrus|The Proclamation of Cyrus]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 1
+book/chapter: "[[Ezra.1|Ezra 1]]"
+chronological_order: 849
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H7218H]]"
+- "[[H9009]]"
+- "[[H0001G]]"
+- "[[H9005]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H1144G]]"
+- "[[H3548]]"
+- "[[H3881]]"
+- "[[H3605]]"
+- "[[H5782]]"
+- "[[H0430G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7307G]]"
+- "[[H9023]]"
+- "[[H5927G]]"
+- "[[H1129]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 1:5**<big><big>[[Ezra.1.1 The Proclamation of Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then rose up the chief of the fathers of Judah and Benjamin, and the priests, and the Levites, with all [them] whose spirit God had raised, to go up to build the house of the LORD which [is] in Jerusalem.
 <small><sub>**BSB:**</sub></small>
 So the family heads of Judah and Benjamin, along with the priests and Levites—everyone whose spirit God had stirred—prepared to go up and rebuild the house of the LORD in Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּק֜וּמוּ]] [[H7218H\|רָאשֵׁ֣י]] [[H9009\|הָ]][[H0001G\|אָב֗וֹת]] [[H9005\|לִֽ]][[H3063G\|יהוּדָה֙]] [[H9002\|וּ]][[H1144G\|בִנְיָמִ֔ן]] [[H9002\|וְ]][[H9009\|הַ]][[H3548\|כֹּהֲנִ֖ים]] [[H9002\|וְ]][[H9009\|הַ]][[H3881\|לְוִיִּ֑ם]] [[H9005\|לְ]][[H3605\|כֹ֨ל]] [[H5782\|הֵעִ֤יר]] [[H9009\|הָ]][[H0430G\|אֱלֹהִים֙]] [[H0853\|אֶת]][[H9014\|־]] [[H7307G\|רוּח֔]][[H9023\|וֹ]] [[H9005\|לַ]][[H5927G\|עֲל֣וֹת]] [[H9005\|לִ]][[H1129\|בְנ֔וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H1004Q\|בֵּ֥ית]] [[H3068G\|יְהוָ֖ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.1.4|<< Ezra 1:4]]</td><td align="center" style="border:none;">[[Ezra.1|Ezra 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.1.6|Ezra 1:6 >>]]</td></tr></table>
 

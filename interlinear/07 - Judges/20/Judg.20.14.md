@@ -1,8 +1,52 @@
+---
+title: Judges 20:14
+type: Verse
+kjv: "But the children of Benjamin gathered themselves together out of the cities unto Gibeah, to go out to battle against the children of Israel."
+bsb: "And from their cities they came together at Gibeah to go out and fight against the Israelites."
+hebrew: "וַיֵּאָסְפ֧וּ בְנֵֽי־ בִנְיָמִ֛ן מִן־ הֶעָרִ֖ים הַגִּבְעָ֑תָה לָצֵ֥את לַמִּלְחָמָ֖ה עִם־ בְּנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Judg.20.1 The Decree of the Assembly|The Decree of the Assembly]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+strongs:
+- "[[H9001]]"
+- "[[H0622]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H1144G]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H1390H]]"
+- "[[H9011]]"
+- "[[H9005]]"
+- "[[H3318G]]"
+- "[[H4421]]"
+- "[[H5973A]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:14**<big><big>[[Judg.20.1 The Decree of the Assembly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the children of Benjamin gathered themselves together out of the cities unto Gibeah, to go out to battle against the children of Israel.
 <small><sub>**BSB:**</sub></small>
 And from their cities they came together at Gibeah to go out and fight against the Israelites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0622\|יֵּאָסְפ֧וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H1144G\|בִנְיָמִ֛ן]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הֶ]][[H5892B\|עָרִ֖ים]] [[H9009\|הַ]][[H1390H\|גִּבְעָ֑תָ]][[H9011\|ה]] [[H9005\|לָ]][[H3318G\|צֵ֥את]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֖ה]] [[H5973A\|עִם]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.13|<< Judges 20:13]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.15|Judges 20:15 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: 1 Kings 7:9
+type: Verse
+kjv: "All these were of costly stones, according to the measures of hewed stones, sawed with saws, within and without, even from the foundation unto the coping, and so on the outside toward the great court."
+bsb: "All these buildings were constructed with costly stones, cut to size and trimmed with saws inside and out from the foundation to the eaves, and from the outside to the great courtyard."
+hebrew: "כָּל־ אֵ֜לֶּה אֲבָנִ֤ים יְקָרֹת֙ כְּמִדֹּ֣ת גָּזִ֔ית מְגֹרָר֥וֹת בַּמְּגֵרָ֖ה מִבַּ֣יִת וּמִח֑וּץ וּמִמַּסָּד֙ עַד־ הַטְּפָח֔וֹת וּמִח֖וּץ עַד־ הֶחָצֵ֥ר הַגְּדוֹלָֽה׃"
+pericope: "[[1Kgs.7.1 Solomon’s Palace Complex|Solomon’s Palace Complex]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic PALACE|PALACE]]"
+- "[[topic SAW|SAW]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0428]]"
+- "[[H0068G]]"
+- "[[H3368]]"
+- "[[H9004]]"
+- "[[H4060A]]"
+- "[[H1496]]"
+- "[[H1641]]"
+- "[[H9003]]"
+- "[[H4050]]"
+- "[[H9006]]"
+- "[[H1004O]]"
+- "[[H9002]]"
+- "[[H2351]]"
+- "[[H4527]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H2947]]"
+- "[[H2691A]]"
+- "[[H1419A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 7:9**<big><big>[[1Kgs.7.1 Solomon’s Palace Complex|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All these [were of] costly stones, according to the measures of hewed stones, sawed with saws, within and without, even from the foundation unto the coping, and [so] on the outside toward the great court.
 <small><sub>**BSB:**</sub></small>
 All these buildings were constructed with costly stones, cut to size and trimmed with saws inside and out from the foundation to the eaves, and from the outside to the great courtyard.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H0428\|אֵ֜לֶּה]] [[H0068G\|אֲבָנִ֤ים]] [[H3368\|יְקָרֹת֙]] [[H9004\|כְּ]][[H4060A\|מִדֹּ֣ת]] [[H1496\|גָּזִ֔ית]] [[H1641\|מְגֹרָר֥וֹת]] [[H9003\|בַּ]][[H4050\|מְּגֵרָ֖ה]] [[H9006\|מִ]][[H1004O\|בַּ֣יִת]] [[H9002\|וּ]][[H9006\|מִ]][[H2351\|ח֑וּץ]] [[H9002\|וּ]][[H9006\|מִ]][[H4527\|מַּסָּד֙]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H2947\|טְּפָח֔וֹת]] [[H9002\|וּ]][[H9006\|מִ]][[H2351\|ח֖וּץ]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הֶ]][[H2691A\|חָצֵ֥ר]] [[H9009\|הַ]][[H1419A\|גְּדוֹלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOUSE|HOUSE]] • [[topic PALACE|PALACE]] • [[topic SAW|SAW]] • [[topic SOLOMON|SOLOMON]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.8|<< 1 Kings 7:8]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.10|1 Kings 7:10 >>]]</td></tr></table>
 

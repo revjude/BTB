@@ -1,10 +1,55 @@
+---
+title: Matthew 26:43
+type: Verse
+kjv: "And he came and found them asleep again: for their eyes were heavy."
+bsb: "And again Jesus returned and found them sleeping, for their eyes were heavy."
+greek: "καὶ ἐλθὼν πάλιν εὗρεν αὐτοὺς καθεύδοντας· ἦσαν γὰρ αὐτῶν οἱ ὀφθαλμοὶ βεβαρημένοι.¶"
+pericope: "[[Matt.26.36 Jesus Prays at Gethsemane|Jesus Prays at Gethsemane]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GETHSEMANE|GETHSEMANE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SORROW|SORROW]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G3825]]"
+- "[[G2147]]"
+- "[[G0846]]"
+- "[[G2518]]"
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G0916]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 26:43**<big><big>[[Matt.26.36 Jesus Prays at Gethsemane|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he came and found them asleep again: for their eyes were heavy.
 <small><sub>**BSB:**</sub></small>
 And again Jesus returned and found them sleeping, for their eyes were heavy.
-<small><sub>**Literal:**</sub></small>
-And having come again He found them sleeping; were for of them the eyes wearied.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.42|<< Matthew 26:42]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.44|Matthew 26:44 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2064\|ἐλθὼν]]  [[G3825\|πάλιν]]  [[G2147\|εὗρεν]]  [[G0846\|αὐτοὺς]]  [[G2518\|καθεύδοντας·]]  [[G1510\|ἦσαν]]  [[G1063\|γὰρ]]  [[G0846\|αὐτῶν]]  [[G3588\|οἱ]]  [[G3788\|ὀφθαλμοὶ]]  [[G0916\|βεβαρημένοι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GETHSEMANE|GETHSEMANE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic SORROW|SORROW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.42|<< Matthew 26:42]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.44|Matthew 26:44 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

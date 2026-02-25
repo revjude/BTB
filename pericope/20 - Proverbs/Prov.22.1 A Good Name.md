@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Good Name
+type: Pericope
 pericope: "[[Prov.22.1 A Good Name|A Good Name]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 22
 book/chapter: "[[Prov.22|Proverbs 22]]"
-genre:
+chronological_order: 477
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 16
 verses:
 - "[[Prov.22.1]]"
 - "[[Prov.22.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Prov.22.16]]"
 ---
 
-[[Prov.22|Proverbs 22:1 - Proverbs 22:16]]
+<small>[[Prov.22|Proverbs 22:1-16]]</small>
 *A Good Name*
 
 [[Prov.22.1|1]] A \[good\] name \[is\] rather to be chosen than great riches, \[and\] loving favour rather than silver and gold.

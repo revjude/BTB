@@ -1,8 +1,72 @@
+---
+title: 1 Kings 3:9
+type: Verse
+kjv: "Give therefore thy servant an understanding heart to judge thy people, that I may discern between good and bad: for who is able to judge this thy so great a people?"
+bsb: "Therefore give Your servant an understanding heart to judge Your people and to discern between good and evil. For who is able to govern this great people of Yours?”"
+hebrew: "וְנָתַתָּ֨ לְעַבְדְּךָ֜ לֵ֤ב שֹׁמֵ֙עַ֙ לִשְׁפֹּ֣ט אֶֽת־ עַמְּךָ֔ לְהָבִ֖ין בֵּֽין־ ט֣וֹב לְרָ֑ע כִּ֣י מִ֤י יוּכַל֙ לִשְׁפֹּ֔ט אֶת־ עַמְּךָ֥ הַכָּבֵ֖ד הַזֶּֽה׃"
+pericope: "[[1Kgs.3.1 Solomon’s Prayer for Wisdom|Solomon’s Prayer for Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 3
+book/chapter: "[[1Kgs.3|1 Kings 3]]"
+chronological_order: 443
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic KNOWLEDGE|KNOWLEDGE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H3820A]]"
+- "[[H8085J]]"
+- "[[H8199]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H0995]]"
+- "[[H0996G]]"
+- "[[H2896B]]"
+- "[[H7451B]]"
+- "[[H3588A]]"
+- "[[H4310]]"
+- "[[H3201]]"
+- "[[H9009]]"
+- "[[H3515]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 3:9**<big><big>[[1Kgs.3.1 Solomon’s Prayer for Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give therefore thy servant an understanding heart to judge thy people, that I may discern between good and bad: for who is able to judge this thy so great a people?
 <small><sub>**BSB:**</sub></small>
 Therefore give Your servant an understanding heart to judge Your people and to discern between good and evil. For who is able to govern this great people of Yours?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414G\|נָתַתָּ֨]] [[H9005\|לְ]][[H5650\|עַבְדְּ]][[H9021\|ךָ֜]] [[H3820A\|לֵ֤ב]] [[H8085J\|שֹׁמֵ֙עַ֙]] [[H9005\|לִ]][[H8199\|שְׁפֹּ֣ט]] [[H0853\|אֶֽת]][[H9014\|־]] [[H5971A\|עַמְּ]][[H9021\|ךָ֔]] [[H9005\|לְ]][[H0995\|הָבִ֖ין]] [[H0996G\|בֵּֽין]][[H9014\|־]] [[H2896B\|ט֣וֹב]] [[H9005\|לְ]][[H7451B\|רָ֑ע]] [[H3588A\|כִּ֣י]] [[H4310\|מִ֤י]] [[H3201\|יוּכַל֙]] [[H9005\|לִ]][[H8199\|שְׁפֹּ֔ט]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמְּ]][[H9021\|ךָ֥]] [[H9009\|הַ]][[H3515\|כָּבֵ֖ד]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COMMUNION|COMMUNION]] • [[topic DREAM|DREAM]] • [[topic HEART|HEART]] • [[topic JUDGE|JUDGE]] • [[topic KNOWLEDGE|KNOWLEDGE]] • [[topic PRAYER|PRAYER]] • [[topic SOLOMON|SOLOMON]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.8|<< 1 Kings 3:8]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3.10|1 Kings 3:10 >>]]</td></tr></table>
 

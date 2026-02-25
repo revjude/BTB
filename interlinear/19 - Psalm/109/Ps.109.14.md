@@ -1,8 +1,59 @@
+---
+title: Psalm 109:14
+type: Verse
+kjv: "Let the iniquity of his fathers be remembered with the LORD; and let not the sin of his mother be blotted out."
+bsb: "May the iniquity of his fathers be remembered before the LORD, and the sin of his mother never be blotted out."
+hebrew: "יִזָּכֵ֤ר׀ עֲוֹ֣ן אֲ֭בֹתָיו אֶל־ יְהוָ֑ה וְחַטַּ֥את אִ֝מּ֗וֹ אַל־ תִּמָּֽח׃"
+pericope: "[[Ps.109.1 The Song of the Slandered|The Song of the Slandered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 109
+book/chapter: "[[Ps.109|Psalm 109]]"
+chronological_order: 383
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2142]]"
+- "[[H9015]]"
+- "[[H5771G]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H2403B]]"
+- "[[H0517]]"
+- "[[H0408]]"
+- "[[H4229A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 109:14**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the iniquity of his fathers be remembered with the LORD; and let not the sin of his mother be blotted out.
 <small><sub>**BSB:**</sub></small>
 May the iniquity of his fathers be remembered before the LORD, and the sin of his mother never be blotted out.
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|יִזָּכֵ֤ר]][[H9015\|׀]] [[H5771G\|עֲוֹ֣ן]] [[H0001G\|אֲ֭בֹתָי]][[H9023\|ו]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H2403B\|חַטַּ֥את]] [[H0517\|אִ֝מּ֗]][[H9023\|וֹ]] [[H0408\|אַל]][[H9014\|־]] [[H4229A\|תִּמָּֽח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAYER|PRAYER]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.13|<< Psalms 109:13]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.15|Psalms 109:15 >>]]</td></tr></table>
 

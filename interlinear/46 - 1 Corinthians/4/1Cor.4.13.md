@@ -1,10 +1,57 @@
+---
+title: 1 Corinthians 4:13
+type: Verse
+kjv: "Being defamed, we intreat: we are made as the filth of the world, and are the offscouring of all things unto this day."
+bsb: "when we are slandered, we answer gently. Up to this moment we have become the scum of the earth, the refuse of the world."
+greek: "δυσφημούμενοι παρακαλοῦμεν, ὡς περικαθάρματα τοῦ κόσμου ἐγενήθημεν, πάντων περίψημα ἕως ἄρτι."
+pericope: "[[1Cor.4.1 Servants of Christ|Servants of Christ]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 4
+book/chapter: "[[1Cor.4|1 Corinthians 4]]"
+chronological_order: 1061
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic SUFFERING|SUFFERING]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G6022]]"
+- "[[G3870]]"
+- "[[G5613]]"
+- "[[G4027]]"
+- "[[G3588]]"
+- "[[G2889]]"
+- "[[G1096]]"
+- "[[G3956]]"
+- "[[G4067]]"
+- "[[G2193]]"
+- "[[G0737]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **1 Corinthians 4:13**<big><big>[[1Cor.4.1 Servants of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Being defamed, we intreat: we are made as the filth of the world, [and are] the offscouring of all things unto this day.
 <small><sub>**BSB:**</sub></small>
 when we are slandered, we answer gently. Up to this moment we have become the scum of the earth, the refuse of the world.
-<small><sub>**Literal:**</sub></small>
-being defamed we entreat, As [the] scum of the earth we have become, of all [the] refuse until now.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.12|<< 1 Corinthians 4:12]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.14|1 Corinthians 4:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6022\|δυσφημούμενοι]]  [[G3870\|παρακαλοῦμεν,]]  [[G5613\|ὡς]]  [[G4027\|περικαθάρματα]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου]]  [[G1096\|ἐγενήθημεν,]]  [[G3956\|πάντων]]  [[G4067\|περίψημα]]  [[G2193\|ἕως]]  [[G0737\|ἄρτι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORGIVENESS|FORGIVENESS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SLANDER|SLANDER]] • [[topic SUFFERING|SUFFERING]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.12|<< 1 Corinthians 4:12]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.14|1 Corinthians 4:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

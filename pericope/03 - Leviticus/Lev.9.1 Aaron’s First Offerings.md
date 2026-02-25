@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Aaron’s First Offerings
+type: Pericope
 pericope: "[[Lev.9.1 Aaron’s First Offerings|Aaron’s First Offerings]]"
-verse_count: 24
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 9
 book/chapter: "[[Lev.9|Leviticus 9]]"
-genre:
+chronological_order: 141
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 24
 verses:
 - "[[Lev.9.1]]"
 - "[[Lev.9.2]]"
@@ -47,7 +54,7 @@ verses:
 - "[[Lev.9.24]]"
 ---
 
-[[Lev.9|Leviticus 9:1 - Leviticus 9:24]]
+<small>[[Lev.9|Leviticus 9:1-24]]</small>
 *Aaron’s First Offerings*
 
 [[Lev.9.1|1]] And it came to pass on the eighth day, \[that\] Moses called Aaron and his sons, and the elders of Israel;

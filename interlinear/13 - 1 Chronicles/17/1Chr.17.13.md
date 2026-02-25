@@ -1,8 +1,65 @@
+---
+title: 1 Chronicles 17:13
+type: Verse
+kjv: "I will be his father, and he shall be my son: and I will not take my mercy away from him, as I took it from him that was before thee:"
+bsb: "I will be his Father, and he will be My son. And I will never remove My loving devotion from him as I removed it from your predecessor."
+hebrew: "אֲנִי֙ אֶֽהְיֶה־ לּ֣וֹ לְאָ֔ב וְה֖וּא יִֽהְיֶה־ לִּ֣י לְבֵ֑ן וְחַסְדִּי֙ לֹא־ אָסִ֣יר מֵֽעִמּ֔וֹ כַּאֲשֶׁ֣ר הֲסִיר֔וֹתִי מֵאֲשֶׁ֥ר הָיָ֖ה לְפָנֶֽיךָ׃"
+pericope: "[[1Chr.17.1 God’s Covenant with David|God’s Covenant with David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 17
+book/chapter: "[[1Chr.17|1 Chronicles 17]]"
+chronological_order: 398
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H0589]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0001G]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H9030]]"
+- "[[H1121A]]"
+- "[[H2617A]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H5493G]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H0834C]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 17:13**<big><big>[[1Chr.17.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will be his father, and he shall be my son: and I will not take my mercy away from him, as I took [it] from [him] that was before thee:
 <small><sub>**BSB:**</sub></small>
 I will be his Father, and he will be My son. And I will never remove My loving devotion from him as I removed it from your predecessor.
+<small><sub>**Hebrew:**</sub></small>
+[[H0589\|אֲנִי֙]] [[H1961\|אֶֽהְיֶה]][[H9014\|־]] [[H9005\|לּ֣]][[H9033\|וֹ]] [[H9005\|לְ]][[H0001G\|אָ֔ב]] [[H9002\|וְ]][[H1931\|ה֖וּא]] [[H1961\|יִֽהְיֶה]][[H9014\|־]] [[H9005\|לִּ֣]][[H9030\|י]] [[H9005\|לְ]][[H1121A\|בֵ֑ן]] [[H9002\|וְ]][[H2617A\|חַסְדִּ]][[H9020\|י֙]] [[H3808\|לֹא]][[H9014\|־]] [[H5493G\|אָסִ֣יר]] [[H9006\|מֵֽ]][[H5973B\|עִמּ֔]][[H9033\|וֹ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H5493G\|הֲסִיר֔וֹתִי]] [[H9006\|מֵ]][[H0834C\|אֲשֶׁ֥ר]] [[H1961\|הָיָ֖ה]] [[H9005\|לְ]][[H6440G\|פָנֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic DAVID|DAVID]] • [[topic NATHAN|NATHAN]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.12|<< 1 Chronicles 17:12]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.14|1 Chronicles 17:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

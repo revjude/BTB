@@ -1,8 +1,58 @@
+---
+title: 1 Chronicles 5:16
+type: Verse
+kjv: "And they dwelt in Gilead in Bashan, and in her towns, and in all the suburbs of Sharon, upon their borders."
+bsb: "They lived in Gilead, in Bashan and its towns, and throughout the pasturelands of Sharon."
+hebrew: "וַיֵּֽשְׁב֛וּ בַּגִּלְעָ֥ד בַּבָּשָׁ֖ן וּבִבְנֹתֶ֑יהָ וּבְכָֽל־ מִגְרְשֵׁ֥י שָׁר֖וֹן עַל־ תּוֹצְאוֹתָֽם׃"
+pericope: "[[1Chr.5.11 The Descendants of Gad|The Descendants of Gad]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 5
+book/chapter: "[[1Chr.5|1 Chronicles 5]]"
+chronological_order: 324
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic GAD|GAD]]"
+- "[[topic SHARON|SHARON]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H1568G]]"
+- "[[H1316]]"
+- "[[H9002]]"
+- "[[H1323H]]"
+- "[[H9024]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4054]]"
+- "[[H8289H]]"
+- "[[H5921A]]"
+- "[[H8444]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+- LA(bh)
+---
+
 **1 Chronicles 5:16**<big><big>[[1Chr.5.11 The Descendants of Gad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they dwelt in Gilead in Bashan, and in her towns, and in all the suburbs of Sharon, upon their borders.
 <small><sub>**BSB:**</sub></small>
 They lived in Gilead, in Bashan and its towns, and throughout the pasturelands of Sharon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3427\|יֵּֽשְׁב֛וּ]] [[H9003\|בַּ]][[H1568G\|גִּלְעָ֥ד]] [[H9003\|בַּ]][[H1316\|בָּשָׁ֖ן]] [[H9002\|וּ]][[H9003\|בִ]][[H1323H\|בְנֹתֶ֑י]][[H9024\|הָ]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָֽל]][[H9014\|־]] [[H4054\|מִגְרְשֵׁ֥י]] [[H8289H\|שָׁר֖וֹן]] [[H5921A\|עַל]][[H9014\|־]] [[H8444\|תּוֹצְאוֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAD|GAD]] • [[topic SHARON|SHARON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.5.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.15|<< 1 Chronicles 5:15]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.17|1 Chronicles 5:17 >>]]</td></tr></table>
 

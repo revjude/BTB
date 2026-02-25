@@ -1,8 +1,70 @@
+---
+title: Jeremiah 31:35
+type: Verse
+kjv: "Thus saith the LORD, which giveth the sun for a light by day, and the ordinances of the moon and of the stars for a light by night, which divideth the sea when the waves thereof roar; The LORD of hosts is his name:"
+bsb: "Thus says the LORD, who gives the sun for light by day, who sets in order the moon and stars for light by night, who stirs up the sea so that its waves roar—the LORD of Hosts is His name:"
+hebrew: "כֹּ֣ה׀ אָמַ֣ר יְהוָ֗ה נֹתֵ֥ן שֶׁ֙מֶשׁ֙ לְא֣וֹר יוֹמָ֔ם חֻקֹּ֛ת יָרֵ֥חַ וְכוֹכָבִ֖ים לְא֣וֹר לָ֑יְלָה רֹגַ֤ע הַיָּם֙ וַיֶּהֱמ֣וּ גַלָּ֔יו יְהוָ֥ה צְבָא֖וֹת שְׁמֽוֹ׃"
+pericope: "[[Jer.31.26 The New Covenant|The New Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MOON|MOON]]"
+- "[[topic SUN|SUN]]"
+strongs:
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H5414G]]"
+- "[[H8121]]"
+- "[[H9005]]"
+- "[[H0216]]"
+- "[[H3119]]"
+- "[[H2708]]"
+- "[[H3394]]"
+- "[[H9002]]"
+- "[[H3556]]"
+- "[[H3915]]"
+- "[[H7280A]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H9001]]"
+- "[[H1993]]"
+- "[[H1530H]]"
+- "[[H9023]]"
+- "[[H6635B]]"
+- "[[H8034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 31:35**<big><big>[[Jer.31.26 The New Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD, which giveth the sun for a light by day, [and] the ordinances of the moon and of the stars for a light by night, which divideth the sea when the waves thereof roar; The LORD of hosts [is] his name:
 <small><sub>**BSB:**</sub></small>
 Thus says the LORD, who gives the sun for light by day, who sets in order the moon and stars for light by night, who stirs up the sea so that its waves roar—the LORD of Hosts is His name:
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֣ה]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H5414G\|נֹתֵ֥ן]] [[H8121\|שֶׁ֙מֶשׁ֙]] [[H9005\|לְ]][[H0216\|א֣וֹר]] [[H3119\|יוֹמָ֔ם]] [[H2708\|חֻקֹּ֛ת]] [[H3394\|יָרֵ֥חַ]] [[H9002\|וְ]][[H3556\|כוֹכָבִ֖ים]] [[H9005\|לְ]][[H0216\|א֣וֹר]] [[H3915\|לָ֑יְלָה]] [[H7280A\|רֹגַ֤ע]] [[H9009\|הַ]][[H3220G\|יָּם֙]] [[H9001\|וַ]][[H1993\|יֶּהֱמ֣וּ]] [[H1530H\|גַלָּ֔י]][[H9023\|ו]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָא֖וֹת]] [[H8034\|שְׁמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTRONOMY|ASTRONOMY]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic MOON|MOON]] • [[topic SUN|SUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.34|<< Jeremiah 31:34]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.36|Jeremiah 31:36 >>]]</td></tr></table>
 

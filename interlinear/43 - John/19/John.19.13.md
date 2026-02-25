@@ -1,10 +1,70 @@
+---
+title: John 19:13
+type: Verse
+kjv: "When Pilate therefore heard that saying, he brought Jesus forth, and sat down in the judgment seat in a place that is called the Pavement, but in the Hebrew, Gabbatha."
+bsb: "When Pilate heard these words, he brought Jesus out and sat on the judgment seat at a place called the Stone Pavement, which in Hebrew is Gabbatha."
+greek: "Ὁ οὖν Πιλᾶτος ἀκούσας τῶν λόγων τούτων ἤγαγεν ἔξω τὸν Ἰησοῦν καὶ ἐκάθισεν ἐπὶ τοῦ βήματος εἰς τόπον λεγόμενον Λιθόστρωτον, Ἑβραϊστὶ δὲ Γαββαθα."
+pericope: "[[John.19.1 The Soldiers Mock Jesus|The Soldiers Mock Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COMPLICITY|COMPLICITY]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic DEMAGOGISM|DEMAGOGISM]]"
+- "[[topic GABBATHA|GABBATHA]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KING|KING]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic POLITICS|POLITICS]]"
+strongs:
+- "[[G3588]]"
+- "[[G3767]]"
+- "[[G4091]]"
+- "[[G0191]]"
+- "[[G3056]]"
+- "[[G3778]]"
+- "[[G0071]]"
+- "[[G1854]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G2523]]"
+- "[[G1909]]"
+- "[[G0968]]"
+- "[[G1519]]"
+- "[[G5117]]"
+- "[[G3004H]]"
+- "[[G3038]]"
+- "[[G1447]]"
+- "[[G1161]]"
+- "[[G1042]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **John 19:13**<big><big>[[John.19.1 The Soldiers Mock Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When Pilate therefore heard that saying, he brought Jesus forth, and sat down in the judgment seat in a place that is called the Pavement, but in the Hebrew, Gabbatha.
 <small><sub>**BSB:**</sub></small>
 When Pilate heard these words, he brought Jesus out and sat on the judgment seat at a place called the Stone Pavement, which in Hebrew is Gabbatha.
-<small><sub>**Literal:**</sub></small>
-<the> Therefore Pilate having heard <the> words these brought out <the> Jesus and sat down upon of the judgment seat at a place being named [the] Stone Pavement, in Hebrew now Gabbatha.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.12|<< John 19:12]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.14|John 19:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G3767\|οὖν]]  [[G4091\|Πιλᾶτος]]  [[G0191\|ἀκούσας]]  [[G3588\|τῶν]]  [[G3056\|λόγων]]  [[G3778\|τούτων]]  [[G0071\|ἤγαγεν]]  [[G1854\|ἔξω]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G2532\|καὶ]]  [[G2523\|ἐκάθισεν]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῦ]]  [[G0968\|βήματος]]  [[G1519\|εἰς]]  [[G5117\|τόπον]]  [[G3004H\|λεγόμενον]]  [[G3038\|Λιθόστρωτον,]]  [[G1447\|Ἑβραϊστὶ]]  [[G1161\|δὲ]]  [[G1042\|Γαββαθα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPLICITY|COMPLICITY]] • [[topic COWARDICE|COWARDICE]] • [[topic DEMAGOGISM|DEMAGOGISM]] • [[topic GABBATHA|GABBATHA]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KING|KING]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic POLITICS|POLITICS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.12|<< John 19:12]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.14|John 19:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Predicts His Death
+type: Pericope
 pericope: "[[John.12.20 Jesus Predicts His Death|Jesus Predicts His Death]]"
-verse_count: 17
+original_language: Greek
 testament: New
 book: John
 chapter: 12
 book/chapter: "[[John.12|John 12]]"
-genre:
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 17
 verses:
 - "[[John.12.20]]"
 - "[[John.12.21]]"
@@ -35,7 +42,7 @@ verses:
 - "[[John.12.36]]"
 ---
 
-[[John.12|John 12:20 - John 12:36]]
+<small>[[John.12|John 12:20-36]]</small>
 *Jesus Predicts His Death*
 
 [[John.12.20|20]] And there were certain Greeks among them that came up to worship at the feast:

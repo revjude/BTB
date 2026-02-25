@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Corruption on the Earth
+type: Pericope
 pericope: "[[Gen.6.1 Corruption on the Earth|Corruption on the Earth]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 6
 book/chapter: "[[Gen.6|Genesis 6]]"
-genre:
+chronological_order: 6
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 7
 verses:
 - "[[Gen.6.1]]"
 - "[[Gen.6.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Gen.6.7]]"
 ---
 
-[[Gen.6|Genesis 6:1 - Genesis 6:7]]
+<small>[[Gen.6|Genesis 6:1-7]]</small>
 *Corruption on the Earth*
 
 [[Gen.6.1|1]] And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,

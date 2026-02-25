@@ -1,10 +1,66 @@
+---
+title: 1 Corinthians 12:28
+type: Verse
+kjv: "And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues."
+bsb: "And in the church God has appointed first of all apostles, second prophets, third teachers, then workers of miracles, and those with gifts of healing, helping, administration, and various tongues."
+greek: "καὶ οὓς μὲν ἔθετο ὁ θεὸς ἐν τῇ ἐκκλησίᾳ πρῶτον ἀποστόλους, δεύτερον προφήτας, τρίτον διδασκάλους, ἔπειτα δυνάμεις, ἔπειτα χαρίσματα ἰαμάτων, ἀντιλήμψεις, κυβερνήσεις, γένη γλωσσῶν."
+pericope: "[[1Cor.12.27 The Greater Gifts|The Greater Gifts]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 12
+book/chapter: "[[1Cor.12|1 Corinthians 12]]"
+chronological_order: 1069
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TONGUE|TONGUE]]"
+- "[[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]"
+strongs:
+- "[[G2532]]"
+- "[[G3739]]"
+- "[[G3303]]"
+- "[[G5087]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1722]]"
+- "[[G1577]]"
+- "[[G4413G]]"
+- "[[G0652]]"
+- "[[G1208]]"
+- "[[G4396]]"
+- "[[G5154]]"
+- "[[G1320]]"
+- "[[G1899]]"
+- "[[G1411]]"
+- "[[G5486]]"
+- "[[G2386]]"
+- "[[G0484]]"
+- "[[G2941]]"
+- "[[G1085H]]"
+- "[[G1100]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Corinthians 12:28**<big><big>[[1Cor.12.27 The Greater Gifts|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues.
 <small><sub>**BSB:**</sub></small>
 And in the church God has appointed first of all apostles, second prophets, third teachers, then workers of miracles, and those with gifts of healing, helping, administration, and various tongues.
-<small><sub>**Literal:**</sub></small>
-And some indeed has appointed <the> God in the church first apostles, secondly prophets, third teachers, then miracles, then gifts of healing, helping, administrating, various kinds of tongues.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.27|<< 1 Corinthians 12:27]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.29|1 Corinthians 12:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3739\|οὓς]]  [[G3303\|μὲν]]  [[G5087\|ἔθετο]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1577\|ἐκκλησίᾳ]]  [[G4413G\|πρῶτον]]  [[G0652\|ἀποστόλους,]]  [[G1208\|δεύτερον]]  [[G4396\|προφήτας,]]  [[G5154\|τρίτον]]  [[G1320\|διδασκάλους,]]  [[G1899\|ἔπειτα]]  [[G1411\|δυνάμεις,]]  [[G1899\|ἔπειτα]]  [[G5486\|χαρίσματα]]  [[G2386\|ἰαμάτων,]]  [[G0484\|ἀντιλήμψεις,]]  [[G2941\|κυβερνήσεις,]]  [[G1085H\|γένη]]  [[G1100\|γλωσσῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic MIRACLES|MIRACLES]] • [[topic TONGUE|TONGUE]] • [[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.27|<< 1 Corinthians 12:27]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.29|1 Corinthians 12:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

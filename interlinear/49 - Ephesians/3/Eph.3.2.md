@@ -1,10 +1,53 @@
+---
+title: Ephesians 3:2
+type: Verse
+kjv: "If ye have heard of the dispensation of the grace of God which is given me to you-ward:"
+bsb: "Surely you have heard about the stewardship of God’s grace that was given to me for you,"
+greek: "εἴ γε ἠκούσατε τὴν οἰκονομίαν τῆς χάριτος τοῦ θεοῦ τῆς δοθείσης μοι εἰς ὑμᾶς"
+pericope: "[[Eph.3.1 The Mystery of the Gospel|The Mystery of the Gospel]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 3
+book/chapter: "[[Eph.3|Ephesians 3]]"
+chronological_order: 1113
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1065]]"
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[G3622]]"
+- "[[G5485]]"
+- "[[G2316]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G1519]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **Ephesians 3:2**<big><big>[[Eph.3.1 The Mystery of the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If ye have heard of the dispensation of the grace of God which is given me to you-ward:
 <small><sub>**BSB:**</sub></small>
 Surely you have heard about the stewardship of God’s grace that was given to me for you,
-<small><sub>**Literal:**</sub></small>
-If indeed you have heard of the administration of the grace <the> of God which having been given to me toward you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.1|<< Ephesians 3:1]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.3|Ephesians 3:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἴ]]  [[G1065\|γε]]  [[G0191\|ἠκούσατε]]  [[G3588\|τὴν]]  [[G3622\|οἰκονομίαν]]  [[G3588\|τῆς]]  [[G5485\|χάριτος]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|τῆς]]  [[G1325\|δοθείσης]]  [[G3165\|μοι]]  [[G1519\|εἰς]]  [[G4771\|ὑμᾶς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic GOSPEL|GOSPEL]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.1|<< Ephesians 3:1]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.3|Ephesians 3:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

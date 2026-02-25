@@ -1,10 +1,56 @@
+---
+title: 2 Corinthians 11:6
+type: Verse
+kjv: "But though I be rude in speech, yet not in knowledge; but we have been throughly made manifest among you in all things."
+bsb: "Although I am not a polished speaker, I am certainly not lacking in knowledge. We have made this clear to you in every way possible."
+greek: "εἰ δὲ καὶ ἰδιώτης τῷ λόγῳ, ἀλλ᾽ οὐ τῇ γνώσει, ἀλλ᾽ ἐν παντὶ φανερώσαντες ἐν πᾶσιν εἰς ὑμᾶς."
+pericope: "[[2Cor.11.1 Paul and the False Apostles|Paul and the False Apostles]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 11
+book/chapter: "[[2Cor.11|2 Corinthians 11]]"
+chronological_order: 1084
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G1487M]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G2399]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G0235]]"
+- "[[G3756]]"
+- "[[G1108]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G5319]]"
+- "[[G1519]]"
+- "[[G4771]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Corinthians 11:6**<big><big>[[2Cor.11.1 Paul and the False Apostles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But though [I be] rude in speech, yet not in knowledge; but we have been throughly made manifest among you in all things.
 <small><sub>**BSB:**</sub></small>
 Although I am not a polished speaker, I am certainly not lacking in knowledge. We have made this clear to you in every way possible.
-<small><sub>**Literal:**</sub></small>
-If however even unpolished <the> in speech [I am], yet not <the> in knowledge, but in every [way] were manifested in all things to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.5|<< 2 Corinthians 11:5]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.7|2 Corinthians 11:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487M\|εἰ]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G2399\|ἰδιώτης]]  [[G3588\|τῷ]]  [[G3056\|λόγῳ,]]  [[G0235\|ἀλλ᾽]]  [[G3756\|οὐ]]  [[G3588\|τῇ]]  [[G1108\|γνώσει,]]  [[G0235\|ἀλλ᾽]]  [[G1722\|ἐν]]  [[G3956\|παντὶ]]  [[G5319\|φανερώσαντες]]  [[G1722\|ἐν]]  [[G3956\|πᾶσιν]]  [[G1519\|εἰς]]  [[G4771\|ὑμᾶς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.5|<< 2 Corinthians 11:5]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.7|2 Corinthians 11:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

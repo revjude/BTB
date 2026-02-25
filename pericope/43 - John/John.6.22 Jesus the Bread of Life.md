@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus the Bread of Life
+type: Pericope
 pericope: "[[John.6.22 Jesus the Bread of Life|Jesus the Bread of Life]]"
-verse_count: 37
+original_language: Greek
 testament: New
 book: John
 chapter: 6
 book/chapter: "[[John.6|John 6]]"
-genre:
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 37
 verses:
 - "[[John.6.22]]"
 - "[[John.6.23]]"
@@ -55,7 +62,7 @@ verses:
 - "[[John.6.58]]"
 ---
 
-[[John.6|John 6:22 - John 6:58]]
+<small>[[John.6|John 6:22-58]]</small>
 *Jesus the Bread of Life*
 
 [[John.6.22|22]] The day following, when the people which stood on the other side of the sea saw that there was none other boat there, save that one whereinto his disciples were entered, and that Jesus went not with his disciples into the boat, but \[that\] his disciples were gone away alone;

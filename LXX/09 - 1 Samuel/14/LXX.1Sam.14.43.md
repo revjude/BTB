@@ -1,6 +1,67 @@
+---
+title: LXX 1 Samuel 14:43
+type: Verse
+lxx: "And Saul said to Jonathan, Report to me what you have done! And Jonathan reported to him, saying, In tasting, I tasted with the tip of the staff, the one in  my hand, a little honey; and behold, I die."
+greek: "και είπε Σαούλ προς Ιωναθάν απάγγειλόν μοι τι πεποίηκας και απήγγειλεν αυτώ Ιωναθάν λέγων γευσάμενος εγευσάμην εν άκρω του σκήπτρου του εν τη χειρί μου μικρόν μέλιτος και ιδού εγώ αποθνήσκω"
+original_language: Greek
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4549]]"
+- "[[G4314]]"
+- "[[H3129]]"
+- "[[G0518]]"
+- "[[G1473]]"
+- "[[G5100]]"
+- "[[G4160]]"
+- "[[G2532]]"
+- "[[G0518]]"
+- "[[G1473]]"
+- "[[H3129]]"
+- "[[G3004]]"
+- "[[G1089]]"
+- "[[G1089]]"
+- "[[G1722]]"
+- "[[G6208]]"
+- "[[G3588]]"
+- "[[G9104]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G1473]]"
+- "[[G3398]]"
+- "[[G3192]]"
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G1473]]"
+- "[[G0599]]"
+---
+
 **LXX 1 Samuel 14:43** 
 <small><sub>**LXX:**</sub></small>
 And Saul said to Jonathan, Report to me what you have done! And Jonathan reported to him, saying, In tasting, I tasted with \[the\] tip of the staff, the one in  my hand, a little honey; and behold, I die. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπε]] [[G4549\|Σαούλ]] [[G4314\|προς]] [[H3129\|Ιωναθάν]] [[G0518\|απάγγειλόν]] [[G1473\|μοι]] [[G5100\|τι]] [[G4160\|πεποίηκας]] [[G2532\|και]] [[G0518\|απήγγειλεν]] [[G1473\|αυτώ]] [[H3129\|Ιωναθάν]] [[G3004\|λέγων]] [[G1089\|γευσάμενος]] [[G1089\|εγευσάμην]] [[G1722\|εν]] [[G6208\|άκρω]] [[G3588\|του]] [[G9104\|σκήπτρου]] [[G3588\|του]] [[G1722\|εν]] [[G3588\|τη]] [[G5495\|χειρί]] [[G1473\|μου]] [[G3398\|μικρόν]] [[G3192\|μέλιτος]] [[G2532\|και]] [[G2400\|ιδού]] [[G1473\|εγώ]] [[G0599\|αποθνήσκω]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONATHAN|JONATHAN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Sam.14.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.42|<< 1 Samuel 14:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.44|1 Samuel 14:44 >>]]</td></tr></table>
 
@@ -35,6 +96,6 @@ And Saul said to Jonathan, Report to me what you have done! And Jonathan reporte
 | behold, | **<big>[[G2400\|ιδού]]</big>** |
 | I | **<big>[[G1473\|εγώ]]</big>** |
 | die. | **<big>[[G0599\|αποθνήσκω]]</big>** |
-[[1Sam.14.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.42|<< 1 Samuel 14:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.44|1 Samuel 14:44 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.42|<< 1 Samuel 14:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.44|1 Samuel 14:44 >>]]</td></tr></table>
 
 

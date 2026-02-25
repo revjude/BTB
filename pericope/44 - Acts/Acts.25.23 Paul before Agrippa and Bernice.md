@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul before Agrippa and Bernice
+type: Pericope
 pericope: "[[Acts.25.23 Paul before Agrippa and Bernice|Paul before Agrippa and Bernice]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Acts
 chapter: 25
 book/chapter: "[[Acts.25|Acts 25]]"
-genre:
+chronological_order: 1107
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 5
 verses:
 - "[[Acts.25.23]]"
 - "[[Acts.25.24]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Acts.25.27]]"
 ---
 
-[[Acts.25|Acts 25:23 - Acts 25:27]]
+<small>[[Acts.25|Acts 25:23-27]]</small>
 *Paul before Agrippa and Bernice*
 
 [[Acts.25.23|23]] And on the morrow, when Agrippa was come, and Bernice, with great pomp, and was entered into the place of hearing, with the chief captains, and principal men of the city, at Festus’ commandment Paul was brought forth.

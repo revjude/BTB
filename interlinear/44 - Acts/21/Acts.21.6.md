@@ -1,10 +1,55 @@
+---
+title: Acts 21:6
+type: Verse
+kjv: "And when we had taken our leave one of another, we took ship; and they returned home again."
+bsb: "And after we had said our farewells, we went aboard the ship, and they returned home."
+greek: "ἀπησπασάμεθα ἀλλήλους καὶ ἀνέβημεν εἰς τὸ πλοῖον, ἐκεῖνοι δὲ ὑπέστρεψαν εἰς τὰ ἴδια."
+pericope: "[[Acts.21.1 Paul’s Journey to Jerusalem|Paul’s Journey to Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 21
+book/chapter: "[[Acts.21|Acts 21]]"
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic LUKE|LUKE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[G0782]]"
+- "[[G0240]]"
+- "[[G2532]]"
+- "[[G0305]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4143]]"
+- "[[G1565]]"
+- "[[G1161]]"
+- "[[G5290]]"
+- "[[G2398]]"
+texts:
+- N(k)O
+- NKO
+- N(k)(o)
+---
+
 **Acts 21:6**<big><big>[[Acts.21.1 Paul’s Journey to Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when we had taken our leave one of another, we took ship; and they returned home again.
 <small><sub>**BSB:**</sub></small>
 And after we had said our farewells, we went aboard the ship, and they returned home.
-<small><sub>**Literal:**</sub></small>
-we greeted one another and we went up into the boat, they then returned to <the> [their] own.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.5|<< Acts 21:5]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.7|Acts 21:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0782\|ἀπησπασάμεθα]]  [[G0240\|ἀλλήλους]]  [[G2532\|καὶ]]  [[G0305\|ἀνέβημεν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4143\|πλοῖον,]]  [[G1565\|ἐκεῖνοι]]  [[G1161\|δὲ]]  [[G5290\|ὑπέστρεψαν]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G2398\|ἴδια.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LUKE|LUKE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic TYRE|TYRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.5|<< Acts 21:5]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.7|Acts 21:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

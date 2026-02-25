@@ -1,6 +1,68 @@
+---
+title: LXX Deuteronomy 9:14
+type: Verse
+lxx: "Allow me! to utterly destroy them, and I will wipe away  their name from beneath the heaven. And I will make you into a great and strong nation, and more numerous rather than this one."
+greek: "έασόν με εξολοθρεύσαι αυτούς και εξαλείψω το όνομα αυτών υποκάτωθεν του ουρανού και ποιήσω σε εις έθνος μέγα και ισχυρόν και πολύ μάλλον η τούτο"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 9
+book/chapter: "[[Deut.9|Deuteronomy 9]]"
+chronological_order: 205
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[G1439]]"
+- "[[G1473]]"
+- "[[G1842]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1813]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G1473]]"
+- "[[G9575]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G2532]]"
+- "[[G4160]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G1484]]"
+- "[[G3173]]"
+- "[[G2532]]"
+- "[[G2478]]"
+- "[[G2532]]"
+- "[[G4183]]"
+- "[[G3123]]"
+- "[[G2228]]"
+- "[[G3778]]"
+---
+
 **LXX Deuteronomy 9:14** 
 <small><sub>**LXX:**</sub></small>
 Allow me! to utterly destroy them, and I will wipe away  their name from beneath the heaven. And I will make you into a great and strong nation, and \[more\] numerous rather than this one. 
+<small><sub>**Greek:**</sub></small>
+[[G1439\|έασόν]] [[G1473\|με]] [[G1842\|εξολοθρεύσαι]] [[G1473\|αυτούς]] [[G2532\|και]] [[G1813\|εξαλείψω]] [[G3588\|το]] [[G3686\|όνομα]] [[G1473\|αυτών]] [[G9575\|υποκάτωθεν]] [[G3588\|του]] [[G3772\|ουρανού]] [[G2532\|και]] [[G4160\|ποιήσω]] [[G1473\|σε]] [[G1519\|εις]] [[G1484\|έθνος]] [[G3173\|μέγα]] [[G2532\|και]] [[G2478\|ισχυρόν]] [[G2532\|και]] [[G4183\|πολύ]] [[G3123\|μάλλον]] [[G2228\|η]] [[G3778\|τούτο]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic HUMILITY|HUMILITY]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.13|<< Deuteronomy 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.15|Deuteronomy 9:15 >>]]</td></tr></table>
 
@@ -30,6 +92,6 @@ Allow me! to utterly destroy them, and I will wipe away  their name from beneath
 | rather | **<big>[[G3123\|μάλλον]]</big>** |
 | than | **<big>[[G2228\|η]]</big>** |
 | this one. | **<big>[[G3778\|τούτο]]</big>** |
-[[Deut.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.13|<< Deuteronomy 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.15|Deuteronomy 9:15 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.13|<< Deuteronomy 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.15|Deuteronomy 9:15 >>]]</td></tr></table>
 
 

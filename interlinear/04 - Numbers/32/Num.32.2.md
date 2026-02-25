@@ -1,8 +1,69 @@
+---
+title: Numbers 32:2
+type: Verse
+kjv: "The children of Gad and the children of Reuben came and spake unto Moses, and to Eleazar the priest, and unto the princes of the congregation, saying,"
+bsb: "So the Gadites and Reubenites came to Moses, Eleazar the priest, and the leaders of the congregation, and said,"
+hebrew: "וַיָּבֹ֥אוּ בְנֵֽי־ גָ֖ד וּבְנֵ֣י רְאוּבֵ֑ן וַיֹּאמְר֤וּ אֶל־ מֹשֶׁה֙ וְאֶל־ אֶלְעָזָ֣ר הַכֹּהֵ֔ן וְאֶל־ נְשִׂיאֵ֥י הָעֵדָ֖ה לֵאמֹֽר׃"
+pericope: "[[Num.32.1 The Tribes East of the Jordan|The Tribes East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 32
+book/chapter: "[[Num.32|Numbers 32]]"
+chronological_order: 192
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CATTLE|CATTLE]]"
+- "[[topic GAD|GAD]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HASTE|HASTE]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PETITION|PETITION]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H1410G]]"
+- "[[H9002]]"
+- "[[H7205]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H4872]]"
+- "[[H0499G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H5387A]]"
+- "[[H5712]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 32:2**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children of Gad and the children of Reuben came and spake unto Moses, and to Eleazar the priest, and unto the princes of the congregation, saying,
 <small><sub>**BSB:**</sub></small>
 So the Gadites and Reubenites came to Moses, Eleazar the priest, and the leaders of the congregation, and said,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֥אוּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H1410G\|גָ֖ד]] [[H9002\|וּ]][[H1121G\|בְנֵ֣י]] [[H7205\|רְאוּבֵ֑ן]] [[H9001\|וַ]][[H0559\|יֹּאמְר֤וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁה֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H0499G\|אֶלְעָזָ֣ר]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H5387A\|נְשִׂיאֵ֥י]] [[H9009\|הָ]][[H5712\|עֵדָ֖ה]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATTLE|CATTLE]] • [[topic GAD|GAD]] • [[topic GILEAD|GILEAD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HASTE|HASTE]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic PETITION|PETITION]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.1|<< Numbers 32:1]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.3|Numbers 32:3 >>]]</td></tr></table>
 

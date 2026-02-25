@@ -1,10 +1,53 @@
+---
+title: John 20:3
+type: Verse
+kjv: "Peter therefore went forth, and that other disciple, and came to the sepulchre."
+bsb: "Then Peter and the other disciple set out for the tomb."
+greek: "Ἐξῆλθεν οὖν ὁ Πέτρος καὶ ὁ ἄλλος μαθητὴς καὶ ἤρχοντο εἰς τὸ μνημεῖον·"
+pericope: "[[John.20.1 The Resurrection|The Resurrection]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 20
+book/chapter: "[[John.20|John 20]]"
+chronological_order: 1017
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G1831]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G2532]]"
+- "[[G0243]]"
+- "[[G3101]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G3419]]"
+texts:
+- NKO
+---
+
 **John 20:3**<big><big>[[John.20.1 The Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Peter therefore went forth, and that other disciple, and came to the sepulchre.
 <small><sub>**BSB:**</sub></small>
 Then Peter and the other disciple set out for the tomb.
-<small><sub>**Literal:**</sub></small>
-Went forth therefore <the> Peter and the other disciple and were coming to the tomb;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.2|<< John 20:2]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.4|John 20:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1831\|Ἐξῆλθεν]]  [[G3767\|οὖν]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G0243\|ἄλλος]]  [[G3101\|μαθητὴς]]  [[G2532\|καὶ]]  [[G2064\|ἤρχοντο]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3419\|μνημεῖον·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic LOVE|LOVE]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.2|<< John 20:2]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.4|John 20:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,62 @@
+---
+title: Leviticus 18:27
+type: Verse
+kjv: "(For all these abominations have the men of the land done, which were before you, and the land is defiled;)"
+bsb: "For the men who were in the land before you committed all these abominations, and the land has become defiled."
+hebrew: "כִּ֚י אֶת־ כָּל־ הַתּוֹעֵבֹ֣ת הָאֵ֔ל עָשׂ֥וּ אַנְשֵֽׁי־ הָאָ֖רֶץ אֲשֶׁ֣ר לִפְנֵיכֶ֑ם וַתִּטְמָ֖א הָאָֽרֶץ׃"
+pericope: "[[Lev.18.1 Unlawful Sexual Relations|Unlawful Sexual Relations]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 18
+book/chapter: "[[Lev.18|Leviticus 18]]"
+chronological_order: 150
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H8441]]"
+- "[[H0411]]"
+- "[[H6213A]]"
+- "[[H0582]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9026]]"
+- "[[H9001]]"
+- "[[H2930A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 18:27**<big><big>[[Lev.18.1 Unlawful Sexual Relations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 (For all these abominations have the men of the land done, which [were] before you, and the land is defiled;)
 <small><sub>**BSB:**</sub></small>
 For the men who were in the land before you committed all these abominations, and the land has become defiled.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֚י]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H8441\|תּוֹעֵבֹ֣ת]] [[H9009\|הָ]][[H0411\|אֵ֔ל]] [[H6213A\|עָשׂ֥וּ]] [[H0582\|אַנְשֵֽׁי]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9026\|כֶ֑ם]] [[H9001\|וַ]][[H2930A\|תִּטְמָ֖א]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.18.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18.26|<< Leviticus 18:26]]</td><td align="center" style="border:none;">[[Lev.18|Leviticus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.18.28|Leviticus 18:28 >>]]</td></tr></table>
 

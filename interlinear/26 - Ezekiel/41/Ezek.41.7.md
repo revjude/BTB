@@ -1,8 +1,62 @@
+---
+title: Ezekiel 41:7
+type: Verse
+kjv: "And there was an enlarging, and a winding about still upward to the side chambers: for the winding about of the house went still upward round about the house: therefore the breadth of the house was still upward, and so increased from the lowest chamber to the highest by the midst."
+bsb: "The side rooms surrounding the temple widened at each successive level, because the structure surrounding the temple ascended by stages corresponding to the narrowing of the temple wall as it rose upward. And so a stairway went up from the lowest story to the highest, through the middle one."
+hebrew: "וְֽרָחֲבָ֡ה וְֽנָסְבָה֩ לְמַ֨עְלָה לְמַ֜עְלָה לַצְּלָע֗וֹת כִּ֣י מֽוּסַב־ הַ֠בַּיִת לְמַ֨עְלָה לְמַ֜עְלָה סָבִ֤יב׀ סָבִיב֙ לַבַּ֔יִת עַל־ כֵּ֥ן רֹֽחַב־ לַבַּ֖יִת לְמָ֑עְלָה וְכֵ֧ן הַתַּחְתּוֹנָ֛ה יַעֲלֶ֥ה עַל־ הָעֶלְיוֹנָ֖ה לַתִּיכוֹנָֽה׃"
+pericope: "[[Ezek.41.5 Outside the Temple|Outside the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 41
+book/chapter: "[[Ezek.41|Ezekiel 41]]"
+chronological_order: 832
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H7337]]"
+- "[[H5437G]]"
+- "[[H9005]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H6763]]"
+- "[[H3588A]]"
+- "[[H4141]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H5439G]]"
+- "[[H9015]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H7341]]"
+- "[[H9002]]"
+- "[[H8481H]]"
+- "[[H5927G]]"
+- "[[H5945A]]"
+- "[[H8484]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 41:7**<big><big>[[Ezek.41.5 Outside the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [there was] an enlarging, and a winding about still upward to the side chambers: for the winding about of the house went still upward round about the house: therefore the breadth of the house [was still] upward, and so increased [from] the lowest [chamber] to the highest by the midst.
 <small><sub>**BSB:**</sub></small>
 The side rooms surrounding the temple widened at each successive level, because the structure surrounding the temple ascended by stages corresponding to the narrowing of the temple wall as it rose upward. And so a stairway went up from the lowest story to the highest, through the middle one.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְֽ]][[H7337\|רָחֲבָ֡ה]] [[H9001\|וְֽ]][[H5437G\|נָסְבָה֩]] [[H9005\|לְ]][[H4605\|מַ֨עְלָ]][[H9011\|ה]] [[H9005\|לְ]][[H4605\|מַ֜עְלָ]][[H9011\|ה]] [[H9005\|לַ]][[H6763\|צְּלָע֗וֹת]] [[H3588A\|כִּ֣י]] [[H4141\|מֽוּסַב]][[H9014\|־]] [[H9009\|הַ֠]][[H1004B\|בַּיִת]] [[H9005\|לְ]][[H4605\|מַ֨עְלָ]][[H9011\|ה]] [[H9005\|לְ]][[H4605\|מַ֜עְלָ]][[H9011\|ה]] [[H5439G\|סָבִ֤יב]][[H9015\|׀]] [[H5439G\|סָבִיב֙]] [[H9005\|לַ]][[H1004B\|בַּ֔יִת]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֥ן]] [[H7341\|רֹֽחַב]][[H9014\|־]] [[H9005\|לַ]][[H1004B\|בַּ֖יִת]] [[H9005\|לְ]][[H4605\|מָ֑עְלָ]][[H9011\|ה]] [[H9002\|וְ]][[H3651C\|כֵ֧ן]] [[H9009\|הַ]][[H8481H\|תַּחְתּוֹנָ֛ה]] [[H5927G\|יַעֲלֶ֥ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H5945A\|עֶלְיוֹנָ֖ה]] [[H9005\|לַ]][[H8484\|תִּיכוֹנָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.6|<< Ezekiel 41:6]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.8|Ezekiel 41:8 >>]]</td></tr></table>
 

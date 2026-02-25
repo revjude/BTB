@@ -1,10 +1,55 @@
+---
+title: 2 Corinthians 3:2
+type: Verse
+kjv: "Ye are our epistle written in our hearts, known and read of all men:"
+bsb: "You yourselves are our letter, inscribed on our hearts, known and read by everyone."
+greek: "ἡ ἐπιστολὴ ἡμῶν ὑμεῖς ἐστε ἐγγεγραμμένη ἐν ταῖς καρδίαις ἡμῶν, γινωσκομένη καὶ ἀναγινωσκομένη ὑπὸ πάντων ἀνθρώπων,"
+pericope: "[[2Cor.3.1 Ministers of a New Covenant|Ministers of a New Covenant]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 3
+book/chapter: "[[2Cor.3|2 Corinthians 3]]"
+chronological_order: 1076
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1992]]"
+- "[[G3165]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G1449]]"
+- "[[G1722]]"
+- "[[G2588]]"
+- "[[G1097]]"
+- "[[G2532]]"
+- "[[G0314]]"
+- "[[G5259G]]"
+- "[[G3956]]"
+- "[[G0444]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 3:2**<big><big>[[2Cor.3.1 Ministers of a New Covenant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ye are our epistle written in our hearts, known and read of all men:
 <small><sub>**BSB:**</sub></small>
 You yourselves are our letter, inscribed on our hearts, known and read by everyone.
-<small><sub>**Literal:**</sub></small>
-The letter of us you yourselves are inscribed in the hearts of us, being known and being read by all men,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.1|<< 2 Corinthians 3:1]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.3|2 Corinthians 3:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G1992\|ἐπιστολὴ]]  [[G3165\|ἡμῶν]]  [[G4771\|ὑμεῖς]]  [[G1510\|ἐστε]]  [[G1449\|ἐγγεγραμμένη]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2588\|καρδίαις]]  [[G3165\|ἡμῶν,]]  [[G1097\|γινωσκομένη]]  [[G2532\|καὶ]]  [[G0314\|ἀναγινωσκομένη]]  [[G5259G\|ὑπὸ]]  [[G3956\|πάντων]]  [[G0444\|ἀνθρώπων,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.1|<< 2 Corinthians 3:1]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.3|2 Corinthians 3:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

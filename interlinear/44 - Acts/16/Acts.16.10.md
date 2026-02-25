@@ -1,10 +1,60 @@
+---
+title: Acts 16:10
+type: Verse
+kjv: "And after he had seen the vision, immediately we endeavoured to go into Macedonia, assuredly gathering that the Lord had called us for to preach the gospel unto them."
+bsb: "As soon as Paul had seen the vision, we got ready to leave for Macedonia, concluding that God had called us to preach the gospel to them."
+greek: "ὡς δὲ τὸ ὅραμα εἶδεν, εὐθέως ἐζητήσαμεν ἐξελθεῖν εἰς τὴν Μακεδονίαν συμβιβάζοντες ὅτι προσκέκληται ἡμᾶς ὁ θεὸς εὐαγγελίσασθαι αὐτούς.¶"
+pericope: "[[Acts.16.6 Paul’s Vision of the Macedonian|Paul’s Vision of the Macedonian]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic LUKE|LUKE]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5613]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3705]]"
+- "[[G1492H]]"
+- "[[G2112]]"
+- "[[G2212]]"
+- "[[G1831]]"
+- "[[G1519]]"
+- "[[G3109]]"
+- "[[G4822]]"
+- "[[G3754G]]"
+- "[[G4341]]"
+- "[[G3165]]"
+- "[[G2316]]"
+- "[[G2097]]"
+- "[[G0846]]"
+texts:
+- NKO
+- k
+- N(K)O
+---
+
 **Acts 16:10**<big><big>[[Acts.16.6 Paul’s Vision of the Macedonian|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And after he had seen the vision, immediately we endeavoured to go into Macedonia, assuredly gathering that the Lord had called us for to preach the gospel unto them.
 <small><sub>**BSB:**</sub></small>
 As soon as Paul had seen the vision, we got ready to leave for Macedonia, concluding that God had called us to preach the gospel to them.
-<small><sub>**Literal:**</sub></small>
-When now the vision he had seen, immediately we sought to go forth to <the> Macedonia concluding that he has called us <the> God to evangelise to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.9|<< Acts 16:9]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.11|Acts 16:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G1161\|δὲ]]  [[G3588\|τὸ]]  [[G3705\|ὅραμα]]  [[G1492H\|εἶδεν,]]  [[G2112\|εὐθέως]]  [[G2212\|ἐζητήσαμεν]]  [[G1831\|ἐξελθεῖν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3109\|Μακεδονίαν]]  [[G4822\|συμβιβάζοντες]]  [[G3754G\|ὅτι]]  [[G4341\|προσκέκληται]]  [[G3165\|ἡμᾶς]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G2097\|εὐαγγελίσασθαι]]  [[G0846\|αὐτούς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LUKE|LUKE]] • [[topic PAUL|PAUL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.9|<< Acts 16:9]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.11|Acts 16:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

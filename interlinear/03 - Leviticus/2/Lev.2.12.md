@@ -1,8 +1,62 @@
+---
+title: Leviticus 2:12
+type: Verse
+kjv: "As for the oblation of the firstfruits, ye shall offer them unto the LORD: but they shall not be burnt on the altar for a sweet savour."
+bsb: "You may bring them to the LORD as an offering of firstfruits, but they must not go up on the altar as a pleasing aroma."
+hebrew: "קָרְבַּ֥ן רֵאשִׁ֛ית תַּקְרִ֥יבוּ אֹתָ֖ם לַיהוָ֑ה וְאֶל־ הַמִּזְבֵּ֥חַ לֹא־ יַעֲל֖וּ לְרֵ֥יחַ נִיחֹֽחַ׃"
+pericope: "[[Lev.2.1 Laws for Grain Offerings|Laws for Grain Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 2
+book/chapter: "[[Lev.2|Leviticus 2]]"
+chronological_order: 134
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic FIRST FRUITS|FIRST FRUITS]]"
+strongs:
+- "[[H7133A]]"
+- "[[H7225G]]"
+- "[[H7126H]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H3808]]"
+- "[[H5927I]]"
+- "[[H7381]]"
+- "[[H5207]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 2:12**<big><big>[[Lev.2.1 Laws for Grain Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As for the oblation of the firstfruits, ye shall offer them unto the LORD: but they shall not be burnt on the altar for a sweet savour.
 <small><sub>**BSB:**</sub></small>
 You may bring them to the LORD as an offering of firstfruits, but they must not go up on the altar as a pleasing aroma.
+<small><sub>**Hebrew:**</sub></small>
+[[H7133A\|קָרְבַּ֥ן]] [[H7225G\|רֵאשִׁ֛ית]] [[H7126H\|תַּקְרִ֥יבוּ]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֥חַ]] [[H3808\|לֹא]][[H9014\|־]] [[H5927I\|יַעֲל֖וּ]] [[H9005\|לְ]][[H7381\|רֵ֥יחַ]] [[H5207\|נִיחֹֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRST FRUITS|FIRST FRUITS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.2.11|<< Leviticus 2:11]]</td><td align="center" style="border:none;">[[Lev.2|Leviticus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.2.13|Leviticus 2:13 >>]]</td></tr></table>
 

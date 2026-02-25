@@ -1,8 +1,63 @@
+---
+title: Joshua 11:2
+type: Verse
+kjv: "And to the kings that were on the north of the mountains, and of the plains south of Chinneroth, and in the valley, and in the borders of Dor on the west,"
+bsb: "to the kings of the north in the mountains, in the Arabah south of Chinnereth, in the foothills, and in Naphoth-dor to the west;"
+hebrew: "וְֽאֶל־ הַמְּלָכִ֞ים אֲשֶׁ֣ר מִצְּפ֗וֹן בָּהָ֧ר וּבָעֲרָבָ֛ה נֶ֥גֶב כִּֽנֲר֖וֹת וּבַשְּׁפֵלָ֑ה וּבְנָפ֥וֹת דּ֖וֹר מִיָּֽם׃"
+pericope: "[[Josh.11.1 Conquest of the Northern Cities|Conquest of the Northern Cities]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 11
+book/chapter: "[[Josh.11|Joshua 11]]"
+chronological_order: 241
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic CHINNERETH|CHINNERETH]]"
+- "[[topic CONFEDERACIES|CONFEDERACIES]]"
+- "[[topic DOR|DOR]]"
+- "[[topic JABIN|JABIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0834A]]"
+- "[[H9006]]"
+- "[[H6828G]]"
+- "[[H9003]]"
+- "[[H2022H]]"
+- "[[H6160G]]"
+- "[[H5045H]]"
+- "[[H3672H]]"
+- "[[H8219]]"
+- "[[H5299B]]"
+- "[[H1756H]]"
+- "[[H3220H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 11:2**<big><big>[[Josh.11.1 Conquest of the Northern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And to the kings that [were] on the north of the mountains, and of the plains south of Chinneroth, and in the valley, and in the borders of Dor on the west,
 <small><sub>**BSB:**</sub></small>
 to the kings of the north in the mountains, in the Arabah south of Chinnereth, in the foothills, and in Naphoth-dor to the west;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְֽ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מְּלָכִ֞ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H9006\|מִ]][[H6828G\|צְּפ֗וֹן]] [[H9003\|בָּ]][[H2022H\|הָ֧ר]] [[H9002\|וּ]][[H9003\|בָ]][[H6160G\|עֲרָבָ֛ה]] [[H5045H\|נֶ֥גֶב]] [[H3672H\|כִּֽנֲר֖וֹת]] [[H9002\|וּ]][[H9003\|בַ]][[H8219\|שְּׁפֵלָ֑ה]] [[H9002\|וּ]][[H9003\|בְ]][[H5299B\|נָפ֥וֹת]] [[H1756H\|דּ֖וֹר]] [[H9006\|מִ]][[H3220H\|יָּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CANAANITES|CANAANITES]] • [[topic CHINNERETH|CHINNERETH]] • [[topic CONFEDERACIES|CONFEDERACIES]] • [[topic DOR|DOR]] • [[topic JABIN|JABIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.11.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.11.1|<< Joshua 11:1]]</td><td align="center" style="border:none;">[[Josh.11|Joshua 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11.3|Joshua 11:3 >>]]</td></tr></table>
 

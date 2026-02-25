@@ -1,8 +1,58 @@
+---
+title: Exodus 25:34
+type: Verse
+kjv: "And in the candlestick shall be four bowls made like unto almonds, with their knops and their flowers."
+bsb: "And on the lampstand there shall be four cups shaped like almond blossoms with buds and petals."
+hebrew: "וּבַמְּנֹרָ֖ה אַרְבָּעָ֣ה גְבִעִ֑ים מְשֻׁקָּדִ֔ים כַּפְתֹּרֶ֖יהָ וּפְרָחֶֽיהָ׃"
+pericope: "[[Exod.25.31 The Lampstand|The Lampstand]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 25
+book/chapter: "[[Exod.25|Exodus 25]]"
+chronological_order: 117
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALMOND|ALMOND]]"
+- "[[topic CANDLESTICK|CANDLESTICK]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H4501]]"
+- "[[H0702]]"
+- "[[H1375]]"
+- "[[H8246]]"
+- "[[H3730]]"
+- "[[H9024]]"
+- "[[H6525]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 25:34**<big><big>[[Exod.25.31 The Lampstand|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the candlestick [shall be] four bowls made like unto almonds, [with] their knops and their flowers.
 <small><sub>**BSB:**</sub></small>
 And on the lampstand there shall be four cups shaped like almond blossoms with buds and petals.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H4501\|מְּנֹרָ֖ה]] [[H0702\|אַרְבָּעָ֣ה]] [[H1375\|גְבִעִ֑ים]] [[H8246\|מְשֻׁקָּדִ֔ים]] [[H3730\|כַּפְתֹּרֶ֖י]][[H9024\|הָ]] [[H9002\|וּ]][[H6525\|פְרָחֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMOND|ALMOND]] • [[topic CANDLESTICK|CANDLESTICK]] • [[topic GOLD|GOLD]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.33|<< Exodus 25:33]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.35|Exodus 25:35 >>]]</td></tr></table>
 

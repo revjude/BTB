@@ -1,8 +1,52 @@
+---
+title: Amos 4:3
+type: Verse
+kjv: "And ye shall go out at the breaches, every cow at that which is before her; and ye shall cast them into the palace, saith the LORD."
+bsb: "You will go out through broken walls, each one straight ahead of her, and you will be cast out toward Harmon,” declares the LORD."
+hebrew: "וּפְרָצִ֥ים תֵּצֶ֖אנָה אִשָּׁ֣ה נֶגְדָּ֑הּ וְהִשְׁלַכְתֶּ֥נָה הַהַרְמ֖וֹנָה נְאֻם־ יְהוָֽה׃"
+pericope: "[[Amos.4.1 Punishment Brings No Repentance|Punishment Brings No Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 4
+book/chapter: "[[Amos.4|Amos 4]]"
+chronological_order: 601
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+strongs:
+- "[[H9002]]"
+- "[[H6556]]"
+- "[[H3318G]]"
+- "[[H0802I]]"
+- "[[H5048]]"
+- "[[H9034]]"
+- "[[H9001]]"
+- "[[H7993]]"
+- "[[H9009]]"
+- "[[H2038]]"
+- "[[H9011]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 4:3**<big><big>[[Amos.4.1 Punishment Brings No Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall go out at the breaches, every [cow at that which is] before her; and ye shall cast [them] into the palace, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 You will go out through broken walls, each one straight ahead of her, and you will be cast out toward Harmon,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H6556\|פְרָצִ֥ים]] [[H3318G\|תֵּצֶ֖אנָה]] [[H0802I\|אִשָּׁ֣ה]] [[H5048\|נֶגְדָּ֑]][[H9034\|הּ]] [[H9001\|וְ]][[H7993\|הִשְׁלַכְתֶּ֥נָה]] [[H9009\|הַ]][[H2038\|הַרְמ֖וֹנָ]][[H9011\|ה]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.4.2|<< Amos 4:2]]</td><td align="center" style="border:none;">[[Amos.4|Amos 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.4.4|Amos 4:4 >>]]</td></tr></table>
 

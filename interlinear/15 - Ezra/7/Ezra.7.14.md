@@ -1,8 +1,67 @@
+---
+title: Ezra 7:14
+type: Verse
+kjv: "Forasmuch as thou art sent of the king, and of his seven counsellers, to inquire concerning Judah and Jerusalem, according to the law of thy God which is in thine hand;"
+bsb: "You are sent by the king and his seven counselors to evaluate Judah and Jerusalem according to the Law of your God, which is in your hand."
+aramaic: "כָּל־ קֳבֵ֗ל דִּי֩ מִן־ קֳדָ֨ם מַלְכָּ֜א וְשִׁבְעַ֤ת יָעֲטֹ֙הִי֙ שְׁלִ֔יחַ לְבַקָּרָ֥א עַל־ יְה֖וּד וְלִֽירוּשְׁלֶ֑ם בְּדָ֥ת אֱלָהָ֖ךְ דִּ֥י בִידָֽךְ׃"
+pericope: "[[Ezra.7.11 Artaxerxes’ Letter for Ezra|Artaxerxes’ Letter for Ezra]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 7
+book/chapter: "[[Ezra.7|Ezra 7]]"
+chronological_order: 909
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic CABINET|CABINET]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9004]]"
+- "[[H9005]]"
+- "[[H9014]]"
+- "[[H6903H]]"
+- "[[H1768]]"
+- "[[H4481]]"
+- "[[H6925]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H9002]]"
+- "[[H7655]]"
+- "[[H3272B]]"
+- "[[H9023]]"
+- "[[H7972]]"
+- "[[H1240]]"
+- "[[H5922]]"
+- "[[H3061]]"
+- "[[H3390]]"
+- "[[H9003]]"
+- "[[H1882]]"
+- "[[H0426]]"
+- "[[H9021]]"
+- "[[H3028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 7:14**<big><big>[[Ezra.7.11 Artaxerxes’ Letter for Ezra|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Forasmuch as thou art sent of the king, and of his seven counsellers, to inquire concerning Judah and Jerusalem, according to the law of thy God which [is] in thine hand;
 <small><sub>**BSB:**</sub></small>
 You are sent by the king and his seven counselors to evaluate Judah and Jerusalem according to the Law of your God, which is in your hand.
+<small><sub>**Aramaic:**</sub></small>
+[[H9004\|כָּ]][[H9005\|ל]][[H9014\|־]] [[H6903H\|קֳבֵ֗ל]] [[H1768\|דִּי֩]] [[H4481\|מִן]][[H9014\|־]] [[H6925\|קֳדָ֨ם]] [[H4430\|מַלְכָּ֜]][[H9010\|א]] [[H9002\|וְ]][[H7655\|שִׁבְעַ֤ת]] [[H3272B\|יָעֲטֹ֙]][[H9023\|הִי֙]] [[H7972\|שְׁלִ֔יחַ]] [[H9005\|לְ]][[H1240\|בַקָּרָ֥א]] [[H5922\|עַל]][[H9014\|־]] [[H3061\|יְה֖וּד]] [[H9002\|וְ]][[H9005\|לִֽ]][[H3390\|ירוּשְׁלֶ֑ם]] [[H9003\|בְּ]][[H1882\|דָ֥ת]] [[H0426\|אֱלָהָ֖]][[H9021\|ךְ]] [[H1768\|דִּ֥י]] [[H9003\|בִ]][[H3028\|ידָֽ]][[H9021\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CABINET|CABINET]] • [[topic LIBERALITY|LIBERALITY]] • [[topic SEVEN|SEVEN]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.13|<< Ezra 7:13]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.15|Ezra 7:15 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Deuteronomy 2:27
+type: Verse
+kjv: "Let me pass through thy land: I will go along by the high way, I will neither turn unto the right hand nor to the left."
+bsb: "“Let us pass through your land; we will stay on the main road. We will not turn to the right or to the left."
+hebrew: "אֶעְבְּרָ֣ה בְאַרְצֶ֔ךָ בַּדֶּ֥רֶךְ בַּדֶּ֖רֶךְ אֵלֵ֑ךְ לֹ֥א אָס֖וּר יָמִ֥ין וּשְׂמֹֽאול׃"
+pericope: "[[Deut.2.24 The Defeat of Sihon|The Defeat of Sihon]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 2
+book/chapter: "[[Deut.2|Deuteronomy 2]]"
+chronological_order: 198
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic ROADS|ROADS]]"
+- "[[topic SIHON|SIHON]]"
+strongs:
+- "[[H5674A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9021]]"
+- "[[H1870L]]"
+- "[[H1870K]]"
+- "[[H1980G]]"
+- "[[H3808]]"
+- "[[H5493I]]"
+- "[[H3225G]]"
+- "[[H9002]]"
+- "[[H8040G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 2:27**<big><big>[[Deut.2.24 The Defeat of Sihon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let me pass through thy land: I will go along by the high way, I will neither turn unto the right hand nor to the left.
 <small><sub>**BSB:**</sub></small>
 “Let us pass through your land; we will stay on the main road. We will not turn to the right or to the left.
+<small><sub>**Hebrew:**</sub></small>
+[[H5674A\|אֶעְבְּרָ֣ה]] [[H9003\|בְ]][[H0776G\|אַרְצֶ֔]][[H9021\|ךָ]] [[H9003\|בַּ]][[H1870L\|דֶּ֥רֶךְ]] [[H9003\|בַּ]][[H1870K\|דֶּ֖רֶךְ]] [[H1980G\|אֵלֵ֑ךְ]] [[H3808\|לֹ֥א]] [[H5493I\|אָס֖וּר]] [[H3225G\|יָמִ֥ין]] [[H9002\|וּ]][[H8040G\|שְׂמֹֽאול]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic ISRAEL|ISRAEL]] • [[topic ROADS|ROADS]] • [[topic SIHON|SIHON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.26|<< Deuteronomy 2:26]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.28|Deuteronomy 2:28 >>]]</td></tr></table>
 

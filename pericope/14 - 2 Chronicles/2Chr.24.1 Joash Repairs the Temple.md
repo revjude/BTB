@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joash Repairs the Temple
+type: Pericope
 pericope: "[[2Chr.24.1 Joash Repairs the Temple|Joash Repairs the Temple]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 24
 book/chapter: "[[2Chr.24|2 Chronicles 24]]"
-genre:
+chronological_order: 589
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 14
 verses:
 - "[[2Chr.24.1]]"
 - "[[2Chr.24.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[2Chr.24.14]]"
 ---
 
-[[2Chr.24|2 Chronicles 24:1 - 2 Chronicles 24:14]]
+<small>[[2Chr.24|2 Chronicles 24:1-14]]</small>
 *Joash Repairs the Temple*
 
 [[2Chr.24.1|1]] Joash \[was\] seven years old when he began to reign, and he reigned forty years in Jerusalem. His mother’s name also \[was\] Zibiah of Beersheba.

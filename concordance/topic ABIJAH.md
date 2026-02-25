@@ -1,7 +1,7 @@
 
 **ABIJAH**
 
-1. Son of Jeroboam [[1Kgs.14.1|1Ki 14:1]]-[[1Kgs.14.18|18]]
+1. Son of Jeroboam [[1Kgs.14.1|1Ki 14:1-18]]
 
 2. ABIJAH
 

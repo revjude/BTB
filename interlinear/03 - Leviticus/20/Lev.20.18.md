@@ -1,8 +1,70 @@
+---
+title: Leviticus 20:18
+type: Verse
+kjv: "And if a man shall lie with a woman having her sickness, and shall uncover her nakedness; he hath discovered her fountain, and she hath uncovered the fountain of her blood: and both of them shall be cut off from among their people."
+bsb: "If a man lies with a menstruating woman and has sexual relations with her, he has exposed the source of her flow, and she has uncovered the source of her blood. Both of them must be cut off from among their people."
+hebrew: "וְ֠אִישׁ אֲשֶׁר־ יִשְׁכַּ֨ב אֶת־ אִשָּׁ֜ה דָּוָ֗ה וְגִלָּ֤ה אֶת־ עֶרְוָתָהּ֙ אֶת־ מְקֹרָ֣הּ הֶֽעֱרָ֔ה וְהִ֕יא גִּלְּתָ֖ה אֶת־ מְק֣וֹר דָּמֶ֑יהָ וְנִכְרְת֥וּ שְׁנֵיהֶ֖ם מִקֶּ֥רֶב עַמָּֽם׃"
+pericope: "[[Lev.20.10 Punishments for Sexual Immorality|Punishments for Sexual Immorality]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 20
+book/chapter: "[[Lev.20|Leviticus 20]]"
+chronological_order: 152
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic MENSTRUATION|MENSTRUATION]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H7901I]]"
+- "[[H0853]]"
+- "[[H0802G]]"
+- "[[H1739]]"
+- "[[H9001]]"
+- "[[H1540I]]"
+- "[[H6172]]"
+- "[[H9024]]"
+- "[[H4726]]"
+- "[[H6168]]"
+- "[[H1931]]"
+- "[[H1818]]"
+- "[[H3772I]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H7130G]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 20:18**<big><big>[[Lev.20.10 Punishments for Sexual Immorality|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if a man shall lie with a woman having her sickness, and shall uncover her nakedness; he hath discovered her fountain, and she hath uncovered the fountain of her blood: and both of them shall be cut off from among their people.
 <small><sub>**BSB:**</sub></small>
 If a man lies with a menstruating woman and has sexual relations with her, he has exposed the source of her flow, and she has uncovered the source of her blood. Both of them must be cut off from among their people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֠]][[H0376G\|אִישׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7901I\|יִשְׁכַּ֨ב]] [[H0853\|אֶת]][[H9014\|־]] [[H0802G\|אִשָּׁ֜ה]] [[H1739\|דָּוָ֗ה]] [[H9001\|וְ]][[H1540I\|גִלָּ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H6172\|עֶרְוָתָ]][[H9024\|הּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4726\|מְקֹרָ֣]][[H9024\|הּ]] [[H6168\|הֶֽעֱרָ֔ה]] [[H9002\|וְ]][[H1931\|הִ֕יא]] [[H1540I\|גִּלְּתָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4726\|מְק֣וֹר]] [[H1818\|דָּמֶ֑י]][[H9024\|הָ]] [[H9001\|וְ]][[H3772I\|נִכְרְת֥וּ]] [[H8147\|שְׁנֵי]][[H9028\|הֶ֖ם]] [[H9006\|מִ]][[H7130G\|קֶּ֥רֶב]] [[H5971A\|עַמָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic MENSTRUATION|MENSTRUATION]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.20.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.20.17|<< Leviticus 20:17]]</td><td align="center" style="border:none;">[[Lev.20|Leviticus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.20.19|Leviticus 20:19 >>]]</td></tr></table>
 

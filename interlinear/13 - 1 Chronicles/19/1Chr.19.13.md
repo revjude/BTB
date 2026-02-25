@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 19:13
+type: Verse
+kjv: "Be of good courage, and let us behave ourselves valiantly for our people, and for the cities of our God: and let the LORD do that which is good in his sight."
+bsb: "Be strong and let us fight bravely for our people and for the cities of our God. May the LORD do what is good in His sight.”"
+hebrew: "חֲזַ֤ק וְנִֽתְחַזְּקָה֙ בְּעַד־ עַמֵּ֔נוּ וּבְעַ֖ד עָרֵ֣י אֱלֹהֵ֑ינוּ וַֽיהוָ֔ה הַטּ֥וֹב בְּעֵינָ֖יו יַעֲשֶֽׂה׃"
+pericope: "[[1Chr.19.10 David Defeats Ammon and Aram|David Defeats Ammon and Aram]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 19
+book/chapter: "[[1Chr.19|1 Chronicles 19]]"
+chronological_order: 406
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic HADADEZER|HADADEZER]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic MEDEBA|MEDEBA]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[H2388G]]"
+- "[[H9002]]"
+- "[[H1157]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9025]]"
+- "[[H5892B]]"
+- "[[H0430G]]"
+- "[[H3068G]]"
+- "[[H9009]]"
+- "[[H2896A]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9023]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 19:13**<big><big>[[1Chr.19.10 David Defeats Ammon and Aram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be of good courage, and let us behave ourselves valiantly for our people, and for the cities of our God: and let the LORD do [that which is] good in his sight.
 <small><sub>**BSB:**</sub></small>
 Be strong and let us fight bravely for our people and for the cities of our God. May the LORD do what is good in His sight.”
+<small><sub>**Hebrew:**</sub></small>
+[[H2388G\|חֲזַ֤ק]] [[H9002\|וְ]][[H2388G\|נִֽתְחַזְּקָה֙]] [[H1157\|בְּעַד]][[H9014\|־]] [[H5971A\|עַמֵּ֔]][[H9025\|נוּ]] [[H9002\|וּ]][[H1157\|בְעַ֖ד]] [[H5892B\|עָרֵ֣י]] [[H0430G\|אֱלֹהֵ֑י]][[H9025\|נוּ]] [[H9002\|וַֽ]][[H3068G\|יהוָ֔ה]] [[H9009\|הַ]][[H2896A\|טּ֥וֹב]] [[H9003\|בְּ]][[H5869I\|עֵינָ֖י]][[H9023\|ו]] [[H6213A\|יַעֲשֶֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HADADEZER|HADADEZER]] • [[topic JOAB|JOAB]] • [[topic MEDEBA|MEDEBA]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.19.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.19.12|<< 1 Chronicles 19:12]]</td><td align="center" style="border:none;">[[1Chr.19|1 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.19.14|1 Chronicles 19:14 >>]]</td></tr></table>
 

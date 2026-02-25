@@ -1,10 +1,64 @@
+---
+title: Matthew 13:43
+type: Verse
+kjv: "Then shall the righteous shine forth as the sun in the kingdom of their Father. Who hath ears to hear, let him hear."
+bsb: "Then the righteous will shine like the sun in the kingdom of their Father. He who has ears, let him hear."
+jesus_said: "Then shall the righteous shine forth as the sun in the kingdom of their Father. Who hath ears to hear, let him hear."
+greek: "τότε οἱ δίκαιοι ἐκλάμψουσιν ὡς ὁ ἥλιος ἐν τῇ βασιλείᾳ τοῦ πατρὸς αὐτῶν. ὁ ἔχων ὦτα ἀκούειν ἀκουέτω.¶"
+pericope: "[[Matt.13.36 The Parable of the Weeds Explained|The Parable of the Weeds Explained]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 13
+book/chapter: "[[Matt.13|Matthew 13]]"
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SERMON|SERMON]]"
+strongs:
+- "[[G5119]]"
+- "[[G3588]]"
+- "[[G1342]]"
+- "[[G1584]]"
+- "[[G5613]]"
+- "[[G2246]]"
+- "[[G1722]]"
+- "[[G0932]]"
+- "[[G3962]]"
+- "[[G0846]]"
+- "[[G2192]]"
+- "[[G3775]]"
+- "[[G0191]]"
+texts:
+- NKO
+- ko
+---
+
 **Matthew 13:43**<big><big>[[Matt.13.36 The Parable of the Weeds Explained|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then shall the righteous shine forth as the sun in the kingdom of their Father. Who hath ears to hear, let him hear.
 <small><sub>**BSB:**</sub></small>
 Then the righteous will shine like the sun in the kingdom of their Father. He who has ears, let him hear.
-<small><sub>**Literal:**</sub></small>
-Then the righteous will shine forth as the sun in the kingdom of the Father of them. The [one] having ears to hear he should hear.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.42|<< Matthew 13:42]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.44|Matthew 13:44 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|τότε]]  [[G3588\|οἱ]]  [[G1342\|δίκαιοι]]  [[G1584\|ἐκλάμψουσιν]]  [[G5613\|ὡς]]  [[G3588\|ὁ]]  [[G2246\|ἥλιος]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0932\|βασιλείᾳ]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G0846\|αὐτῶν.]]  [[G3588\|ὁ]]  [[G2192\|ἔχων]]  [[G3775\|ὦτα]]  [[G0191\|ἀκούειν]]  [[G0191\|ἀκουέτω.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic AGRICULTURE|AGRICULTURE]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SERMON|SERMON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.42|<< Matthew 13:42]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.44|Matthew 13:44 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

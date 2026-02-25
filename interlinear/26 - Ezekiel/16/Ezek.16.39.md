@@ -1,8 +1,66 @@
+---
+title: Ezekiel 16:39
+type: Verse
+kjv: "And I will also give thee into their hand, and they shall throw down thine eminent place, and shall break down thy high places: they shall strip thee also of thy clothes, and shall take thy fair jewels, and leave thee naked and bare."
+bsb: "Then I will deliver you into the hands of your lovers, and they will level your mounds and tear down your lofty shrines. They will strip off your clothes, take your fine jewelry, and leave you naked and bare."
+hebrew: "וְנָתַתִּ֨י אוֹתָ֜ךְ בְּיָדָ֗ם וְהָרְס֤וּ גַבֵּךְ֙ וְנִתְּצ֣וּ רָמֹתַ֔יִךְ וְהִפְשִׁ֤יטוּ אוֹתָךְ֙ בְּגָדַ֔יִךְ וְלָקְח֖וּ כְּלֵ֣י תִפְאַרְתֵּ֑ךְ וְהִנִּיח֖וּךְ עֵירֹ֥ם וְעֶרְיָֽה׃"
+pericope: "[[Ezek.16.35 Judgment on Jerusalem|Judgment on Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9032]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9028]]"
+- "[[H2040]]"
+- "[[H1354]]"
+- "[[H9022]]"
+- "[[H5422]]"
+- "[[H7413]]"
+- "[[H6584]]"
+- "[[H0899B]]"
+- "[[H3947G]]"
+- "[[H3627]]"
+- "[[H8597]]"
+- "[[H5117]]"
+- "[[H5903]]"
+- "[[H9002]]"
+- "[[H6181]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 16:39**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will also give thee into their hand, and they shall throw down thine eminent place, and shall break down thy high places: they shall strip thee also of thy clothes, and shall take thy fair jewels, and leave thee naked and bare.
 <small><sub>**BSB:**</sub></small>
 Then I will deliver you into the hands of your lovers, and they will level your mounds and tear down your lofty shrines. They will strip off your clothes, take your fine jewelry, and leave you naked and bare.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414G\|נָתַתִּ֨י]] [[H0853\|אוֹתָ֜]][[H9032\|ךְ]] [[H9003\|בְּ]][[H3027H\|יָדָ֗]][[H9028\|ם]] [[H9001\|וְ]][[H2040\|הָרְס֤וּ]] [[H1354\|גַבֵּ]][[H9022\|ךְ֙]] [[H9001\|וְ]][[H5422\|נִתְּצ֣וּ]] [[H7413\|רָמֹתַ֔יִ]][[H9022\|ךְ]] [[H9001\|וְ]][[H6584\|הִפְשִׁ֤יטוּ]] [[H0853\|אוֹתָ]][[H9032\|ךְ֙]] [[H0899B\|בְּגָדַ֔יִ]][[H9022\|ךְ]] [[H9001\|וְ]][[H3947G\|לָקְח֖וּ]] [[H3627\|כְּלֵ֣י]] [[H8597\|תִפְאַרְתֵּ֑]][[H9022\|ךְ]] [[H9001\|וְ]][[H5117\|הִנִּיח֖וּ]][[H9032\|ךְ]] [[H5903\|עֵירֹ֥ם]] [[H9002\|וְ]][[H6181\|עֶרְיָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HIGH PLACES|HIGH PLACES]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.38|<< Ezekiel 16:38]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.40|Ezekiel 16:40 >>]]</td></tr></table>
 

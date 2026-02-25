@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Four Living Creatures
+type: Pericope
 pericope: "[[Ezek.1.4 The Four Living Creatures|The Four Living Creatures]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 1
 book/chapter: "[[Ezek.1|Ezekiel 1]]"
-genre:
+chronological_order: 792
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 11
 verses:
 - "[[Ezek.1.4]]"
 - "[[Ezek.1.5]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Ezek.1.14]]"
 ---
 
-[[Ezek.1|Ezekiel 1:4 - Ezekiel 1:14]]
+<small>[[Ezek.1|Ezekiel 1:4-14]]</small>
 *The Four Living Creatures*
 
 [[Ezek.1.4|4]] And I looked, and, behold, a whirlwind came out of the north, a great cloud, and a fire infolding itself, and a brightness \[was\] about it, and out of the midst thereof as the colour of amber, out of the midst of the fire.

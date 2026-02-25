@@ -1,8 +1,62 @@
+---
+title: Joel 3:19
+type: Verse
+kjv: "Egypt shall be a desolation, and Edom shall be a desolate wilderness, for the violence against the children of Judah, because they have shed innocent blood in their land."
+bsb: "Egypt will become desolate, and Edom a desert wasteland, because of the violence done to the people of Judah, in whose land they shed innocent blood."
+hebrew: "מִצְרַ֙יִם֙ לִשְׁמָמָ֣ה תִֽהְיֶ֔ה וֶאֱד֕וֹם לְמִדְבַּ֥ר שְׁמָמָ֖ה תִּֽהְיֶ֑ה מֵֽחֲמַס֙ בְּנֵ֣י יְהוּדָ֔ה אֲשֶׁר־ שָׁפְכ֥וּ דָם־ נָקִ֖יא בְּאַרְצָֽם׃"
+pericope: "[[Joel.3.17 Blessings for God’s People|Blessings for God’s People]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 3
+book/chapter: "[[Joel.3|Joel 3]]"
+chronological_order: 842
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic JOEL|JOEL]]"
+strongs:
+- "[[H4714G]]"
+- "[[H9005]]"
+- "[[H8077A]]"
+- "[[H1961]]"
+- "[[H9002]]"
+- "[[H0123G]]"
+- "[[H4057B]]"
+- "[[H9006]]"
+- "[[H2555]]"
+- "[[H1121G]]"
+- "[[H3063G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H8210H]]"
+- "[[H1818]]"
+- "[[H5355B]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 3:19**<big><big>[[Joel.3.17 Blessings for God’s People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Egypt shall be a desolation, and Edom shall be a desolate wilderness, for the violence [against] the children of Judah, because they have shed innocent blood in their land.
 <small><sub>**BSB:**</sub></small>
 Egypt will become desolate, and Edom a desert wasteland, because of the violence done to the people of Judah, in whose land they shed innocent blood.
+<small><sub>**Hebrew:**</sub></small>
+[[H4714G\|מִצְרַ֙יִם֙]] [[H9005\|לִ]][[H8077A\|שְׁמָמָ֣ה]] [[H1961\|תִֽהְיֶ֔ה]] [[H9002\|וֶ]][[H0123G\|אֱד֕וֹם]] [[H9005\|לְ]][[H4057B\|מִדְבַּ֥ר]] [[H8077A\|שְׁמָמָ֖ה]] [[H1961\|תִּֽהְיֶ֑ה]] [[H9006\|מֵֽ]][[H2555\|חֲמַס֙]] [[H1121G\|בְּנֵ֣י]] [[H3063G\|יְהוּדָ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H8210H\|שָׁפְכ֥וּ]] [[H1818\|דָם]][[H9014\|־]] [[H5355B\|נָקִ֖יא]] [[H9003\|בְּ]][[H0776G\|אַרְצָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic JOEL|JOEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.3.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.18|<< Joel 3:18]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.20|Joel 3:20 >>]]</td></tr></table>
 

@@ -11,11 +11,11 @@
 
 - The belief of the Syrians concerning the help of the gods [[1Kgs.20.23|1Ki 20:23]]
 
-- Jews, attributing their calamities to having ceased offering  sacrifices to the Queen of Heaven [[Jer.44.17|Jer 44:17]]-[[Jer.44.19|19]]
+- Jews, attributing their calamities to having ceased offering  sacrifices to the Queen of Heaven [[Jer.44.17|Jer 44:17-19]]
 
 - Nebuchadnezzar, supposing that the spirit of the gods was upon  Daniel [[Dan.4.8|Da 4:8]],[[Dan.4.9|9]]
 
-- The sailors who threw Jonah into the sea  [[Jonah.1.4|Jon 1:4]]-[[Jonah.1.16|16]]
+- The sailors who threw Jonah into the sea  [[Jonah.1.4|Jon 1:4-16]]
 
 - The disciples, supposing they saw a ghost when Jesus came walking  upon the lake [[Matt.14.26|Mt 14:26]]; [[Mark.6.49|Mr 6:49]],[[Mark.6.50|50]]
 
@@ -25,7 +25,7 @@
 
 - The disciples who were frightened at the appearance of Peter [[Acts.12.14|Ac 12:14]],[[Acts.12.15|15]]
 
-- The Ephesians, in their sorceries [[Acts.19.13|Ac 19:13]]-[[Acts.19.19|19]]
+- The Ephesians, in their sorceries [[Acts.19.13|Ac 19:13-19]]
 
 - The people of the island of Melita (Malta), in assuming that  Paul was some sort of god [[Acts.28.6|Ac 28:6]]
 

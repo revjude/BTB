@@ -1,10 +1,59 @@
+---
+title: Galatians 1:17
+type: Verse
+kjv: "Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus."
+bsb: "nor did I go up to Jerusalem to the apostles who came before me, but I went into Arabia and later returned to Damascus."
+greek: "οὐδὲ ἀνῆλθον εἰς Ἱεροσόλυμα πρὸς τοὺς πρὸ ἐμοῦ ἀποστόλους, ἀλλ᾽ ἀπῆλθον εἰς Ἀραβίαν καὶ πάλιν ὑπέστρεψα εἰς Δαμασκόν."
+pericope: "[[Gal.1.10 Paul Preaches the Gospel|Paul Preaches the Gospel]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 1
+book/chapter: "[[Gal.1|Galatians 1]]"
+chronological_order: 1039
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic ARABIA|ARABIA]]"
+- "[[topic ARABIANS|ARABIANS]]"
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G3761]]"
+- "[[G0424]]"
+- "[[G1519]]"
+- "[[G2414]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G4253]]"
+- "[[G1473]]"
+- "[[G0652]]"
+- "[[G0235]]"
+- "[[G0565]]"
+- "[[G0688]]"
+- "[[G2532]]"
+- "[[G3825]]"
+- "[[G5290]]"
+- "[[G1154]]"
+texts:
+- NKO
+---
+
 **Galatians 1:17**<big><big>[[Gal.1.10 Paul Preaches the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus.
 <small><sub>**BSB:**</sub></small>
 nor did I go up to Jerusalem to the apostles who came before me, but I went into Arabia and later returned to Damascus.
-<small><sub>**Literal:**</sub></small>
-nor did I go up to Jerusalem to the before me apostles, but I went away into Arabia and again returned to Damascus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.16|<< Galatians 1:16]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.18|Galatians 1:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3761\|οὐδὲ]]  [[G0424\|ἀνῆλθον]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G4253\|πρὸ]]  [[G1473\|ἐμοῦ]]  [[G0652\|ἀποστόλους,]]  [[G0235\|ἀλλ᾽]]  [[G0565\|ἀπῆλθον]]  [[G1519\|εἰς]]  [[G0688\|Ἀραβίαν]]  [[G2532\|καὶ]]  [[G3825\|πάλιν]]  [[G5290\|ὑπέστρεψα]]  [[G1519\|εἰς]]  [[G1154\|Δαμασκόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARABIA|ARABIA]] • [[topic ARABIANS|ARABIANS]] • [[topic DAMASCUS|DAMASCUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.16|<< Galatians 1:16]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.18|Galatians 1:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

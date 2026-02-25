@@ -1,10 +1,53 @@
+---
+title: Hebrews 1:7
+type: Verse
+kjv: "And of the angels he saith, Who maketh his angels spirits, and his ministers a flame of fire."
+bsb: "Now about the angels He says: “He makes His angels winds, His servants flames of fire.”"
+greek: "καὶ πρὸς μὲν τοὺς ἀγγέλους λέγει· ὁ ποιῶν τοὺς ἀγγέλους αὐτοῦ πνεύματα καὶ τοὺς λειτουργοὺς αὐτοῦ πυρὸς φλόγα·"
+pericope: "[[Heb.1.1 The Supremacy of the Son|The Supremacy of the Son]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 1
+book/chapter: "[[Heb.1|Hebrews 1]]"
+chronological_order: 1140
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G2532]]"
+- "[[G4314]]"
+- "[[G3303]]"
+- "[[G3588]]"
+- "[[G0032G]]"
+- "[[G3004G]]"
+- "[[G4160G]]"
+- "[[G0846]]"
+- "[[G4151H]]"
+- "[[G3011]]"
+- "[[G4442]]"
+- "[[G5395]]"
+texts:
+- NKO
+---
+
 **Hebrews 1:7**<big><big>[[Heb.1.1 The Supremacy of the Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And of the angels he saith, Who maketh his angels spirits, and his ministers a flame of fire.
 <small><sub>**BSB:**</sub></small>
 Now about the angels He says: “He makes His angels winds, His servants flames of fire.”
-<small><sub>**Literal:**</sub></small>
-And as to indeed the angels He says: The [One] making the angels of Him winds and the ministers of Him of fire a flame;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.1.6|<< Hebrews 1:6]]</td><td align="center" style="border:none;">[[Heb.1|Hebrews 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.1.8|Hebrews 1:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4314\|πρὸς]]  [[G3303\|μὲν]]  [[G3588\|τοὺς]]  [[G0032G\|ἀγγέλους]]  [[G3004G\|λέγει·]]  [[G3588\|ὁ]]  [[G4160G\|ποιῶν]]  [[G3588\|τοὺς]]  [[G0032G\|ἀγγέλους]]  [[G0846\|αὐτοῦ]]  [[G4151H\|πνεύματα]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G3011\|λειτουργοὺς]]  [[G0846\|αὐτοῦ]]  [[G4442\|πυρὸς]]  [[G5395\|φλόγα·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.1.6|<< Hebrews 1:6]]</td><td align="center" style="border:none;">[[Heb.1|Hebrews 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.1.8|Hebrews 1:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 1:7** is...
 > $\quad$ referencing: [[LXX.Ps.104.4|Ps 104:4]]

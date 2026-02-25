@@ -1,8 +1,63 @@
+---
+title: Psalm 40:8
+type: Verse
+kjv: "I delight to do thy will, O my God: yea, thy law is within my heart."
+bsb: "I delight to do Your will, O my God; Your law is within my heart.”"
+hebrew: "לַֽעֲשֽׂוֹת־ רְצוֹנְךָ֣ אֱלֹהַ֣י חָפָ֑צְתִּי וְ֝ת֥וֹרָתְךָ֗ בְּת֣וֹךְ מֵעָֽי׃"
+pericope: "[[Ps.40.1 I Waited Patiently for the LORD|I Waited Patiently for the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 40
+book/chapter: "[[Ps.40|Psalm 40]]"
+chronological_order: 367
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9014]]"
+- "[[H7522]]"
+- "[[H9021]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H2654A]]"
+- "[[H9002]]"
+- "[[H8451]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H4578]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 40:8**<big><big>[[Ps.40.1 I Waited Patiently for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I delight to do thy will, O my God: yea, thy law [is] within my heart.
 <small><sub>**BSB:**</sub></small>
 I delight to do Your will, O my God; Your law is within my heart.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַֽ]][[H6213A\|עֲשֽׂוֹת]][[H9014\|־]] [[H7522\|רְצוֹנְ]][[H9021\|ךָ֣]] [[H0430G\|אֱלֹהַ֣]][[H9020\|י]] [[H2654A\|חָפָ֑צְתִּי]] [[H9002\|וְ֝]][[H8451\|ת֥וֹרָתְ]][[H9021\|ךָ֗]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H4578\|מֵעָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic HAPPINESS|HAPPINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OFFERINGS|OFFERINGS]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.40.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.40.7|<< Psalms 40:7]]</td><td align="center" style="border:none;">[[Ps.40|Psalms 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.40.9|Psalms 40:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,60 @@
+---
+title: Daniel 11:14
+type: Verse
+kjv: "And in those times there shall many stand up against the king of the south: also the robbers of thy people shall exalt themselves to establish the vision; but they shall fall."
+bsb: "In those times many will rise up against the king of the South. Violent ones among your own people will exalt themselves in fulfillment of the vision, but they will fail."
+hebrew: "וּבָעִתִּ֣ים הָהֵ֔ם רַבִּ֥ים יַֽעַמְד֖וּ עַל־ מֶ֣לֶךְ הַנֶּ֑גֶב וּבְנֵ֣י׀ פָּרִיצֵ֣י עַמְּךָ֗ יִֽנַּשְּׂא֛וּ לְהַעֲמִ֥יד חָז֖וֹן וְנִכְשָֽׁלוּ׃"
+pericope: "[[Dan.11.1 Kings of the South and North|Kings of the South and North]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H1992]]"
+- "[[H7227A]]"
+- "[[H5975I]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H5045H]]"
+- "[[H1121I]]"
+- "[[H9015]]"
+- "[[H6530]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H5375G]]"
+- "[[H9005]]"
+- "[[H5975G]]"
+- "[[H2377]]"
+- "[[H9001]]"
+- "[[H3782]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 11:14**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in those times there shall many stand up against the king of the south: also the robbers of thy people shall exalt themselves to establish the vision; but they shall fall.
 <small><sub>**BSB:**</sub></small>
 In those times many will rise up against the king of the South. Violent ones among your own people will exalt themselves in fulfillment of the vision, but they will fail.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בָ]][[H6256\|עִתִּ֣ים]] [[H9009\|הָ]][[H1992\|הֵ֔ם]] [[H7227A\|רַבִּ֥ים]] [[H5975I\|יַֽעַמְד֖וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H4428G\|מֶ֣לֶךְ]] [[H9009\|הַ]][[H5045H\|נֶּ֑גֶב]] [[H9002\|וּ]][[H1121I\|בְנֵ֣י]][[H9015\|׀]] [[H6530\|פָּרִיצֵ֣י]] [[H5971A\|עַמְּ]][[H9021\|ךָ֗]] [[H5375G\|יִֽנַּשְּׂא֛וּ]] [[H9005\|לְ]][[H5975G\|הַעֲמִ֥יד]] [[H2377\|חָז֖וֹן]] [[H9001\|וְ]][[H3782\|נִכְשָֽׁלוּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.13|<< Daniel 11:13]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.15|Daniel 11:15 >>]]</td></tr></table>
 

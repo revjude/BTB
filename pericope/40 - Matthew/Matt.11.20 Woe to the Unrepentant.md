@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Woe to the Unrepentant
+type: Pericope
 pericope: "[[Matt.11.20 Woe to the Unrepentant|Woe to the Unrepentant]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 11
 book/chapter: "[[Matt.11|Matthew 11]]"
-genre:
+chronological_order: 955
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Matt.11.20]]"
 - "[[Matt.11.21]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Matt.11.24]]"
 ---
 
-[[Matt.11|Matthew 11:20 - Matthew 11:24]]
+<small>[[Matt.11|Matthew 11:20-24]]</small>
 *Woe to the Unrepentant*
 
 [[Matt.11.20|20]] Then began he to upbraid the cities wherein most of his mighty works were done, because they repented not:

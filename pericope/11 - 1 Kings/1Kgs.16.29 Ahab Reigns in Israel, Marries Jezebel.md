@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ahab Reigns in Israel, Marries Jezebel
+type: Pericope
 pericope: "[[1Kgs.16.29 Ahab Reigns in Israel, Marries Jezebel|Ahab Reigns in Israel, Marries Jezebel]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 16
 book/chapter: "[[1Kgs.16|1 Kings 16]]"
-genre:
+chronological_order: 555
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 6
 verses:
 - "[[1Kgs.16.29]]"
 - "[[1Kgs.16.30]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Kgs.16.34]]"
 ---
 
-[[1Kgs.16|1 Kings 16:29 - 1 Kings 16:34]]
+<small>[[1Kgs.16|1 Kings 16:29-34]]</small>
 *Ahab Reigns in Israel, Marries Jezebel*
 
 [[1Kgs.16.29|29]] And in the thirty and eighth year of Asa king of Judah began Ahab the son of Omri to reign over Israel: and Ahab the son of Omri reigned over Israel in Samaria twenty and two years.

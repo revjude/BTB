@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jeroboam’s Rebellion
+type: Pericope
 pericope: "[[1Kgs.11.26 Jeroboam’s Rebellion|Jeroboam’s Rebellion]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 11
 book/chapter: "[[1Kgs.11|1 Kings 11]]"
-genre:
+chronological_order: 536
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 15
 verses:
 - "[[1Kgs.11.26]]"
 - "[[1Kgs.11.27]]"
@@ -35,7 +42,7 @@ verses:
 - "[[1Kgs.11.40]]"
 ---
 
-[[1Kgs.11|1 Kings 11:26 - 1 Kings 11:40]]
+<small>[[1Kgs.11|1 Kings 11:26-40]]</small>
 *Jeroboam’s Rebellion*
 
 [[1Kgs.11.26|26]] And Jeroboam the son of Nebat, an Ephrathite of Zereda, Solomon’s servant, whose mother’s name \[was\] Zeruah, a widow woman, even he lifted up \[his\] hand against the king.

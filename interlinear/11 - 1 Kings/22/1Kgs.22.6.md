@@ -1,8 +1,73 @@
+---
+title: 1 Kings 22:6
+type: Verse
+kjv: "Then the king of Israel gathered the prophets together, about four hundred men, and said unto them, Shall I go against Ramothgilead to battle, or shall I forbear? And they said, Go up; for the Lord shall deliver it into the hand of the king."
+bsb: "So the king of Israel assembled the prophets, about four hundred men, and asked them, “Should I go to war against Ramoth-gilead, or should I refrain?” “Go up,” they replied, “and the Lord will deliver it into the hand of the king.”"
+hebrew: "וַיִּקְבֹּ֨ץ מֶֽלֶךְ־ יִשְׂרָאֵ֥ל אֶֽת־ הַנְּבִיאִים֮ כְּאַרְבַּ֣ע מֵא֣וֹת אִישׁ֒ וַיֹּ֣אמֶר אֲלֵהֶ֗ם הַאֵלֵ֞ךְ עַל־ רָמֹ֥ת גִּלְעָ֛ד לַמִּלְחָמָ֖ה אִם־ אֶחְדָּ֑ל וַיֹּאמְר֣וּ עֲלֵ֔ה וְיִתֵּ֥ן אֲדֹנָ֖י בְּיַ֥ד הַמֶּֽלֶךְ׃"
+pericope: "[[1Kgs.22.1 Ahab and the False Prophets|Ahab and the False Prophets]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 22
+book/chapter: "[[1Kgs.22|1 Kings 22]]"
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6908]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H9004]]"
+- "[[H0702]]"
+- "[[H3967]]"
+- "[[H0376G]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H9008]]"
+- "[[H1980G]]"
+- "[[H5921A]]"
+- "[[H7418G]]"
+- "[[H1568M]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H0518A]]"
+- "[[H2308]]"
+- "[[H5927G]]"
+- "[[H9002]]"
+- "[[H5414G]]"
+- "[[H0136]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 22:6**<big><big>[[1Kgs.22.1 Ahab and the False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king of Israel gathered the prophets together, about four hundred men, and said unto them, Shall I go against Ramothgilead to battle, or shall I forbear? And they said, Go up; for the Lord shall deliver [it] into the hand of the king.
 <small><sub>**BSB:**</sub></small>
 So the king of Israel assembled the prophets, about four hundred men, and asked them, “Should I go to war against Ramoth-gilead, or should I refrain?” “Go up,” they replied, “and the Lord will deliver it into the hand of the king.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6908\|יִּקְבֹּ֨ץ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֥ל]] [[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הַ]][[H5030\|נְּבִיאִים֮]] [[H9004\|כְּ]][[H0702\|אַרְבַּ֣ע]] [[H3967\|מֵא֣וֹת]] [[H0376G\|אִישׁ֒]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֗ם]] [[H9008\|הַ]][[H1980G\|אֵלֵ֞ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H7418G\|רָמֹ֥ת]] [[H1568M\|גִּלְעָ֛ד]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֖ה]] [[H0518A\|אִם]][[H9014\|־]] [[H2308\|אֶחְדָּ֑ל]] [[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H5927G\|עֲלֵ֔ה]] [[H9002\|וְ]][[H5414G\|יִתֵּ֥ן]] [[H0136\|אֲדֹנָ֖י]] [[H9003\|בְּ]][[H3027H\|יַ֥ד]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.5|<< 1 Kings 22:5]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.7|1 Kings 22:7 >>]]</td></tr></table>
 

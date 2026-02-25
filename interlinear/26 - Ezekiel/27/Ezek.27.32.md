@@ -1,8 +1,61 @@
+---
+title: Ezekiel 27:32
+type: Verse
+kjv: "And in their wailing they shall take up a lamentation for thee, and lament over thee, saying, What city is like Tyrus, like the destroyed in the midst of the sea?"
+bsb: "As they wail and mourn over you, they will take up a lament for you: ‘Who was ever like Tyre, silenced in the middle of the sea?"
+hebrew: "וְנָשְׂא֨וּ אֵלַ֤יִךְ בְּנִיהֶם֙ קִינָ֔ה וְקוֹנְנ֖וּ עָלָ֑יִךְ מִ֣י כְצ֔וֹר כְּדֻמָ֖ה בְּת֥וֹךְ הַיָּֽם׃"
+pericope: "[[Ezek.27.1 A Lament for Tyre|A Lament for Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 27
+book/chapter: "[[Ezek.27|Ezekiel 27]]"
+chronological_order: 818
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic MERCHANT|MERCHANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H5375G]]"
+- "[[H0413]]"
+- "[[H9032]]"
+- "[[H9003]]"
+- "[[H5204]]"
+- "[[H9028]]"
+- "[[H7015]]"
+- "[[H6969]]"
+- "[[H5921A]]"
+- "[[H4310]]"
+- "[[H9004]]"
+- "[[H6865]]"
+- "[[H1822]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 27:32**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in their wailing they shall take up a lamentation for thee, and lament over thee, [saying], What [city is] like Tyrus, like the destroyed in the midst of the sea?
 <small><sub>**BSB:**</sub></small>
 As they wail and mourn over you, they will take up a lament for you: ‘Who was ever like Tyre, silenced in the middle of the sea?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5375G\|נָשְׂא֨וּ]] [[H0413\|אֵלַ֤יִ]][[H9032\|ךְ]] [[H9003\|בְּ]][[H5204\|נִי]][[H9028\|הֶם֙]] [[H7015\|קִינָ֔ה]] [[H9001\|וְ]][[H6969\|קוֹנְנ֖וּ]] [[H5921A\|עָלָ֑יִ]][[H9032\|ךְ]] [[H4310\|מִ֣י]] [[H9004\|כְ]][[H6865\|צ֔וֹר]] [[H9004\|כְּ]][[H1822\|דֻמָ֖ה]] [[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H9009\|הַ]][[H3220G\|יָּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MERCHANT|MERCHANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.31|<< Ezekiel 27:31]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.33|Ezekiel 27:33 >>]]</td></tr></table>
 

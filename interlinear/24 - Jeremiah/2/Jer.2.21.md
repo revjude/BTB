@@ -1,8 +1,63 @@
+---
+title: Jeremiah 2:21
+type: Verse
+kjv: "Yet I had planted thee a noble vine, wholly a right seed: how then art thou turned into the degenerate plant of a strange vine unto me?"
+bsb: "I had planted you like a choice vine from the very best seed. How could you turn yourself before Me into a rotten, wild vine?"
+hebrew: "וְאָֽנֹכִי֙ נְטַעְתִּ֣יךְ שֹׂרֵ֔ק כֻּלֹּ֖ה זֶ֣רַע אֱמֶ֑ת וְאֵיךְ֙ נֶהְפַּ֣כְתְּ לִ֔י סוּרֵ֖י הַגֶּ֥פֶן נָכְרִיָּֽה׃"
+pericope: "[[Jer.2.14 The Consequence of Israel’s Sin|The Consequence of Israel’s Sin]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 2
+book/chapter: "[[Jer.2|Jeremiah 2]]"
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic VINE|VINE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0595]]"
+- "[[H5193]]"
+- "[[H9032]]"
+- "[[H8321A]]"
+- "[[H3605]]"
+- "[[H9023]]"
+- "[[H2233G]]"
+- "[[H0571G]]"
+- "[[H0349A]]"
+- "[[H2015]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H5494]]"
+- "[[H9009]]"
+- "[[H1612]]"
+- "[[H5237]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 2:21**<big><big>[[Jer.2.14 The Consequence of Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet I had planted thee a noble vine, wholly a right seed: how then art thou turned into the degenerate plant of a strange vine unto me?
 <small><sub>**BSB:**</sub></small>
 I had planted you like a choice vine from the very best seed. How could you turn yourself before Me into a rotten, wild vine?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0595\|אָֽנֹכִי֙]] [[H5193\|נְטַעְתִּ֣י]][[H9032\|ךְ]] [[H8321A\|שֹׂרֵ֔ק]] [[H3605\|כֻּלֹּ֖]][[H9023\|ה]] [[H2233G\|זֶ֣רַע]] [[H0571G\|אֱמֶ֑ת]] [[H9002\|וְ]][[H0349A\|אֵיךְ֙]] [[H2015\|נֶהְפַּ֣כְתְּ]] [[H9005\|לִ֔]][[H9030\|י]] [[H5494\|סוּרֵ֖י]] [[H9009\|הַ]][[H1612\|גֶּ֥פֶן]] [[H5237\|נָכְרִיָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic GRAPE|GRAPE]] • [[topic VINE|VINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.20|<< Jeremiah 2:20]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.22|Jeremiah 2:22 >>]]</td></tr></table>
 

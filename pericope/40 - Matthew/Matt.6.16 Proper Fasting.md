@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Proper Fasting
+type: Pericope
 pericope: "[[Matt.6.16 Proper Fasting|Proper Fasting]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 6
 book/chapter: "[[Matt.6|Matthew 6]]"
-genre:
+chronological_order: 944
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 3
 verses:
 - "[[Matt.6.16]]"
 - "[[Matt.6.17]]"
 - "[[Matt.6.18]]"
 ---
 
-[[Matt.6|Matthew 6:16 - Matthew 6:18]]
+<small>[[Matt.6|Matthew 6:16-18]]</small>
 *Proper Fasting*
 
 [[Matt.6.16|16]] Moreover when ye fast, be not, as the hypocrites, of a sad countenance: for they disfigure their faces, that they may appear unto men to fast. Verily I say unto you, They have their reward.

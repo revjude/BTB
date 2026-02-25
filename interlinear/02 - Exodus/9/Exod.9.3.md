@@ -1,8 +1,67 @@
+---
+title: Exodus 9:3
+type: Verse
+kjv: "Behold, the hand of the LORD is upon thy cattle which is in the field, upon the horses, upon the asses, upon the camels, upon the oxen, and upon the sheep: there shall be a very grievous murrain."
+bsb: "then the hand of the LORD will bring a severe plague on your livestock in the field—on your horses, donkeys, camels, herds, and flocks."
+hebrew: "הִנֵּ֨ה יַד־ יְהוָ֜ה הוֹיָ֗ה בְּמִקְנְךָ֙ אֲשֶׁ֣ר בַּשָּׂדֶ֔ה בַּסּוּסִ֤ים בַּֽחֲמֹרִים֙ בַּגְּמַלִּ֔ים בַּבָּקָ֖ר וּבַצֹּ֑אן דֶּ֖בֶר כָּבֵ֥ד מְאֹֽד׃"
+pericope: "[[Exod.9.1 The Fifth Plague：Livestock|The Fifth Plague：Livestock]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 9
+book/chapter: "[[Exod.9|Exodus 9]]"
+chronological_order: 101
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic MURRAIN (A DISEASE OF LIVESTOCK)|MURRAIN (A DISEASE OF LIVESTOCK)]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[H2009]]"
+- "[[H3027H]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H4735]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H7704G]]"
+- "[[H5483M]]"
+- "[[H2543]]"
+- "[[H1581]]"
+- "[[H1241]]"
+- "[[H9002]]"
+- "[[H6629G]]"
+- "[[H1698]]"
+- "[[H3515]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 9:3**<big><big>[[Exod.9.1 The Fifth Plague：Livestock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the hand of the LORD is upon thy cattle which [is] in the field, upon the horses, upon the asses, upon the camels, upon the oxen, and upon the sheep: [there shall be] a very grievous murrain.
 <small><sub>**BSB:**</sub></small>
 then the hand of the LORD will bring a severe plague on your livestock in the field—on your horses, donkeys, camels, herds, and flocks.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֨ה]] [[H3027H\|יַד]][[H9014\|־]] [[H3068G\|יְהוָ֜ה]] [[H1961\|הוֹיָ֗ה]] [[H9003\|בְּ]][[H4735\|מִקְנְ]][[H9021\|ךָ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶ֔ה]] [[H9003\|בַּ]][[H5483M\|סּוּסִ֤ים]] [[H9003\|בַּֽ]][[H2543\|חֲמֹרִים֙]] [[H9003\|בַּ]][[H1581\|גְּמַלִּ֔ים]] [[H9003\|בַּ]][[H1241\|בָּקָ֖ר]] [[H9002\|וּ]][[H9003\|בַ]][[H6629G\|צֹּ֑אן]] [[H1698\|דֶּ֖בֶר]] [[H3515\|כָּבֵ֥ד]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MURRAIN (A DISEASE OF LIVESTOCK)|MURRAIN (A DISEASE OF LIVESTOCK)]] • [[topic PLAGUE|PLAGUE]] • [[topic POWER|POWER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.2|<< Exodus 9:2]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.4|Exodus 9:4 >>]]</td></tr></table>
 

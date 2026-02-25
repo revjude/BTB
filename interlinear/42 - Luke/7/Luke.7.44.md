@@ -1,10 +1,76 @@
+---
+title: Luke 7:44
+type: Verse
+kjv: "And he turned to the woman, and said unto Simon, Seest thou this woman? I entered into thine house, thou gavest me no water for my feet: but she hath washed my feet with tears, and wiped them with the hairs of her head."
+bsb: "And turning toward the woman, He said to Simon, “Do you see this woman? When I entered your house, you did not give Me water for My feet, but she wet My feet with her tears and wiped them with her hair."
+jesus_said: "Seest thou this woman? I entered into thine house, thou gavest me no water for my feet: but she hath washed my feet with tears, and wiped them with the hairs of her head."
+greek: "καὶ στραφεὶς πρὸς τὴν γυναῖκα τῷ Σίμωνι ἔφη· βλέπεις ταύτην τὴν γυναῖκα; εἰσῆλθόν σου εἰς τὴν οἰκίαν, ὕδωρ μοι ἐπὶ τοὺς πόδας μου οὐκ ἔδωκας· αὕτη δὲ τοῖς δάκρυσιν ἔβρεξέν μου τοὺς πόδας καὶ ταῖς θριξὶν τὴς κεφαλῆς αὐτῆς ἐξέμαξεν."
+pericope: "[[Luke.7.36 A Sinful Woman Anoints Jesus|A Sinful Woman Anoints Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic SIMON|SIMON]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G2532]]"
+- "[[G4762]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G1135G]]"
+- "[[G4613I]]"
+- "[[G5346]]"
+- "[[G0991]]"
+- "[[G3778]]"
+- "[[G1525]]"
+- "[[G4771]]"
+- "[[G1519]]"
+- "[[G3614G]]"
+- "[[G5204]]"
+- "[[G3165]]"
+- "[[G1909]]"
+- "[[G4228]]"
+- "[[G3756]]"
+- "[[G1325]]"
+- "[[G1161]]"
+- "[[G1144]]"
+- "[[G1026]]"
+- "[[G2359]]"
+- "[[G2776]]"
+- "[[G0846]]"
+- "[[G1591]]"
+texts:
+- NKO
+- ko
+- k
+---
+
 **Luke 7:44**<big><big>[[Luke.7.36 A Sinful Woman Anoints Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he turned to the woman, and said unto Simon, Seest thou this woman? I entered into thine house, thou gavest me no water for my feet: but she hath washed my feet with tears, and wiped [them] with the hairs of her head.
 <small><sub>**BSB:**</sub></small>
 And turning toward the woman, He said to Simon, “Do you see this woman? When I entered your house, you did not give Me water for My feet, but she wet My feet with her tears and wiped them with her hair.
-<small><sub>**Literal:**</sub></small>
-And having turned to the woman <the> to Simon He was saying; See you this the woman? I entered of you into the house, water to Me for the feet of mine not you gave; with her however <the> tears she wet My <the> feet and with the hair the head of her wiped [them].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.43|<< Luke 7:43]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.45|Luke 7:45 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4762\|στραφεὶς]]  [[G4314\|πρὸς]]  [[G3588\|τὴν]]  [[G1135G\|γυναῖκα]]  [[G3588\|τῷ]]  [[G4613I\|Σίμωνι]]  [[G5346\|ἔφη·]]  [[G0991\|βλέπεις]]  [[G3778\|ταύτην]]  [[G3588\|τὴν]]  [[G1135G\|γυναῖκα;]]  [[G1525\|εἰσῆλθόν]]  [[G4771\|σου]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3614G\|οἰκίαν,]]  [[G5204\|ὕδωρ]]  [[G3165\|μοι]]  [[G1909\|ἐπὶ]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G3165\|μου]]  [[G3756\|οὐκ]]  [[G1325\|ἔδωκας·]]  [[G3778\|αὕτη]]  [[G1161\|δὲ]]  [[G3588\|τοῖς]]  [[G1144\|δάκρυσιν]]  [[G1026\|ἔβρεξέν]]  [[G3165\|μου]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G2532\|καὶ]]  [[G3588\|ταῖς]]  [[G2359\|θριξὶν]]  [[G3588\|τὴς]]  [[G2776\|κεφαλῆς]]  [[G0846\|αὐτῆς]]  [[G1591\|ἐξέμαξεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic SIMON|SIMON]] • [[topic SIN|SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.43|<< Luke 7:43]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.45|Luke 7:45 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

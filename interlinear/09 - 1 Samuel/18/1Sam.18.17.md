@@ -1,8 +1,80 @@
+---
+title: 1 Samuel 18:17
+type: Verse
+kjv: "And Saul said to David, Behold my elder daughter Merab, her will I give thee to wife: only be thou valiant for me, and fight the LORD’S battles. For Saul said, Let not mine hand be upon him, but let the hand of the Philistines be upon him."
+bsb: "Then Saul said to David, “Here is my older daughter Merab. I will give her to you in marriage. Only be valiant for me and fight the LORD’s battles.” But Saul was thinking, “I need not raise my hand against him; let the hand of the Philistines be against him.”"
+hebrew: "וַיֹּ֨אמֶר שָׁא֜וּל אֶל־ דָּוִ֗ד הִנֵּה֩ בִתִּ֨י הַגְּדוֹלָ֤ה מֵרַב֙ אֹתָהּ֙ אֶתֶּן־ לְךָ֣ לְאִשָּׁ֔ה אַ֚ךְ הֱיֵה־ לִּ֣י לְבֶן־ חַ֔יִל וְהִלָּחֵ֖ם מִלְחֲמ֣וֹת יְהוָ֑ה וְשָׁא֣וּל אָמַ֗ר אַל־ תְּהִ֤י יָדִי֙ בּ֔וֹ וּתְהִי־ ב֖וֹ יַד־ פְּלִשְׁתִּֽים׃ ס"
+pericope: "[[1Sam.18.17 David Marries Michal|David Marries Michal]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 18
+book/chapter: "[[1Sam.18|1 Samuel 18]]"
+chronological_order: 297
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic MERAB|MERAB]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7586G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H2009]]"
+- "[[H1323G]]"
+- "[[H9020]]"
+- "[[H9009]]"
+- "[[H1419K]]"
+- "[[H4764]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H5414O]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0802H]]"
+- "[[H0389]]"
+- "[[H1961]]"
+- "[[H9030]]"
+- "[[H1121K]]"
+- "[[H2428G]]"
+- "[[H9002]]"
+- "[[H3898A]]"
+- "[[H4421]]"
+- "[[H3068G]]"
+- "[[H0408]]"
+- "[[H3027H]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H6430G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Samuel 18:17**<big><big>[[1Sam.18.17 David Marries Michal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul said to David, Behold my elder daughter Merab, her will I give thee to wife: only be thou valiant for me, and fight the LORD’S battles. For Saul said, Let not mine hand be upon him, but let the hand of the Philistines be upon him.
 <small><sub>**BSB:**</sub></small>
 Then Saul said to David, “Here is my older daughter Merab. I will give her to you in marriage. Only be valiant for me and fight the LORD’s battles.” But Saul was thinking, “I need not raise my hand against him; let the hand of the Philistines be against him.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H7586G\|שָׁא֜וּל]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֗ד]] [[H2009\|הִנֵּה֩]] [[H1323G\|בִתִּ֨]][[H9020\|י]] [[H9009\|הַ]][[H1419K\|גְּדוֹלָ֤ה]] [[H4764\|מֵרַב֙]] [[H0853\|אֹתָ]][[H9034\|הּ֙]] [[H5414O\|אֶתֶּן]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֣]] [[H9005\|לְ]][[H0802H\|אִשָּׁ֔ה]] [[H0389\|אַ֚ךְ]] [[H1961\|הֱיֵה]][[H9014\|־]] [[H9005\|לִּ֣]][[H9030\|י]] [[H9005\|לְ]][[H1121K\|בֶן]][[H9014\|־]] [[H2428G\|חַ֔יִל]] [[H9002\|וְ]][[H3898A\|הִלָּחֵ֖ם]] [[H4421\|מִלְחֲמ֣וֹת]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H7586G\|שָׁא֣וּל]] [[H0559\|אָמַ֗ר]] [[H0408\|אַל]][[H9014\|־]] [[H1961\|תְּהִ֤י]] [[H3027H\|יָדִ]][[H9020\|י֙]] [[H9003\|בּ֔]][[H9033\|וֹ]] [[H9002\|וּ]][[H1961\|תְהִי]][[H9014\|־]] [[H9003\|ב֖]][[H9033\|וֹ]] [[H3027H\|יַד]][[H9014\|־]] [[H6430G\|פְּלִשְׁתִּֽים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic DAVID|DAVID]] • [[topic JEALOUSY|JEALOUSY]] • [[topic MALICE|MALICE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic MERAB|MERAB]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.18.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.16|<< 1 Samuel 18:16]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.18|1 Samuel 18:18 >>]]</td></tr></table>
 
@@ -37,7 +109,7 @@ Then Saul said to David, “Here is my older daughter Merab. I will give her to 
 | and let it be  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1961\|תְהִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> te.hi-<small><sup>[[HVqj3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on \<the> him  |**<big>&#8207;[[H9003\|ב֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| v<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] hand of  |**<big>&#8207;[[H3027H\|יַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yad-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Philistines  |**<big>&#8207;[[H6430G\|פְּלִשְׁתִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| pe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Philistines  |**<big>&#8207;[[H6430G\|פְּלִשְׁתִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| pe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.16|<< 1 Samuel 18:16]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.18|1 Samuel 18:18 >>]]</td></tr></table>
 
 

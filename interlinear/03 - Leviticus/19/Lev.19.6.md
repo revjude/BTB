@@ -1,8 +1,62 @@
+---
+title: Leviticus 19:6
+type: Verse
+kjv: "It shall be eaten the same day ye offer it, and on the morrow: and if ought remain until the third day, it shall be burnt in the fire."
+bsb: "It shall be eaten on the day you sacrifice it, or on the next day; but what remains on the third day must be burned up."
+hebrew: "בְּי֧וֹם זִבְחֲכֶ֛ם יֵאָכֵ֖ל וּמִֽמָּחֳרָ֑ת וְהַנּוֹתָר֙ עַד־ י֣וֹם הַשְּׁלִישִׁ֔י בָּאֵ֖שׁ יִשָּׂרֵֽף׃"
+pericope: "[[Lev.19.1 Commandments for Holiness|Commandments for Holiness]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 19
+book/chapter: "[[Lev.19|Leviticus 19]]"
+chronological_order: 151
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H2077]]"
+- "[[H9026]]"
+- "[[H0398]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H4283]]"
+- "[[H9009]]"
+- "[[H3498]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H7992]]"
+- "[[H0784]]"
+- "[[H8313]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 19:6**<big><big>[[Lev.19.1 Commandments for Holiness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It shall be eaten the same day ye offer it, and on the morrow: and if ought remain until the third day, it shall be burnt in the fire.
 <small><sub>**BSB:**</sub></small>
 It shall be eaten on the day you sacrifice it, or on the next day; but what remains on the third day must be burned up.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3117G\|י֧וֹם]] [[H2077\|זִבְחֲ]][[H9026\|כֶ֛ם]] [[H0398\|יֵאָכֵ֖ל]] [[H9002\|וּ]][[H9006\|מִֽ]][[H4283\|מָּחֳרָ֑ת]] [[H9002\|וְ]][[H9009\|הַ]][[H3498\|נּוֹתָר֙]] [[H5704\|עַד]][[H9014\|־]] [[H3117G\|י֣וֹם]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁ֔י]] [[H9003\|בָּ]][[H0784\|אֵ֖שׁ]] [[H8313\|יִשָּׂרֵֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.5|<< Leviticus 19:5]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.7|Leviticus 19:7 >>]]</td></tr></table>
 

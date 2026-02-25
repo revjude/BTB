@@ -1,8 +1,54 @@
+---
+title: Psalm 115:10
+type: Verse
+kjv: "O house of Aaron, trust in the LORD: he is their help and their shield."
+bsb: "O house of Aaron, trust in the LORD! He is their help and shield."
+hebrew: "בֵּ֣ית אַ֭הֲרֹן בִּטְח֣וּ בַיהוָ֑ה עֶזְרָ֖ם וּמָגִנָּ֣ם הֽוּא׃"
+pericope: "[[Ps.115.1 To Your Name Be the Glory|To Your Name Be the Glory]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 115
+book/chapter: "[[Ps.115|Psalm 115]]"
+chronological_order: 877
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H1004M]]"
+- "[[H0175]]"
+- "[[H0982]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H5828]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H4043]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 115:10**<big><big>[[Ps.115.1 To Your Name Be the Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O house of Aaron, trust in the LORD: he [is] their help and their shield.
 <small><sub>**BSB:**</sub></small>
 O house of Aaron, trust in the LORD! He is their help and shield.
+<small><sub>**Hebrew:**</sub></small>
+[[H1004M\|בֵּ֣ית]] [[H0175\|אַ֭הֲרֹן]] [[H0982\|בִּטְח֣וּ]] [[H9003\|בַ]][[H3068G\|יהוָ֑ה]] [[H5828\|עֶזְרָ֖]][[H9028\|ם]] [[H9002\|וּ]][[H4043\|מָגִנָּ֣]][[H9028\|ם]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.115.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.115.9|<< Psalms 115:9]]</td><td align="center" style="border:none;">[[Ps.115|Psalms 115]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.115.11|Psalms 115:11 >>]]</td></tr></table>
 

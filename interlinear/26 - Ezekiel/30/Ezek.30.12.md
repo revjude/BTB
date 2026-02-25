@@ -1,8 +1,61 @@
+---
+title: Ezekiel 30:12
+type: Verse
+kjv: "And I will make the rivers dry, and sell the land into the hand of the wicked: and I will make the land waste, and all that is therein, by the hand of strangers: I the LORD have spoken it."
+bsb: "I will make the streams dry up and sell the land to the wicked. By the hands of foreigners I will bring desolation upon the land and everything in it. I, the LORD, have spoken."
+hebrew: "וְנָתַתִּ֤י יְאֹרִים֙ חָֽרָבָ֔ה וּמָכַרְתִּ֥י אֶת־ הָאָ֖רֶץ בְּיַד־ רָעִ֑ים וַהֲשִׁמֹּתִ֞י אֶ֤רֶץ וּמְלֹאָהּ֙ בְּיַד־ זָרִ֔ים אֲנִ֥י יְהוָ֖ה דִּבַּֽרְתִּי׃ ס"
+pericope: "[[Ezek.30.1 A Lament for Egypt|A Lament for Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 30
+book/chapter: "[[Ezek.30|Ezekiel 30]]"
+chronological_order: 821
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H5414I]]"
+- "[[H2975G]]"
+- "[[H2724]]"
+- "[[H4376]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H7451H]]"
+- "[[H8074G]]"
+- "[[H9002]]"
+- "[[H4393]]"
+- "[[H9024]]"
+- "[[H2114A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 30:12**<big><big>[[Ezek.30.1 A Lament for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make the rivers dry, and sell the land into the hand of the wicked: and I will make the land waste, and all that is therein, by the hand of strangers: I the LORD have spoken [it].
 <small><sub>**BSB:**</sub></small>
 I will make the streams dry up and sell the land to the wicked. By the hands of foreigners I will bring desolation upon the land and everything in it. I, the LORD, have spoken.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414I\|נָתַתִּ֤י]] [[H2975G\|יְאֹרִים֙]] [[H2724\|חָֽרָבָ֔ה]] [[H9001\|וּ]][[H4376\|מָכַרְתִּ֥י]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H7451H\|רָעִ֑ים]] [[H9001\|וַ]][[H8074G\|הֲשִׁמֹּתִ֞י]] [[H0776G\|אֶ֤רֶץ]] [[H9002\|וּ]][[H4393\|מְלֹאָ]][[H9024\|הּ֙]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H2114A\|זָרִ֔ים]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָ֖ה]] [[H1696G\|דִּבַּֽרְתִּי]][[H9016\|׃]] [[H9018\|ס]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.11|<< Ezekiel 30:11]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.13|Ezekiel 30:13 >>]]</td></tr></table>
 
@@ -23,7 +76,7 @@ I will make the streams dry up and sell the land to the wicked. By the hands of 
 | strangers  |**<big>&#8207;[[H2114A\|זָרִ֔ים]]&#8207; </big>**| za.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֥י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have spoken  |**<big>&#8207;[[H1696G\|דִּבַּֽרְתִּי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| di.Bar.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have spoken  |**<big>&#8207;[[H1696G\|דִּבַּֽרְתִּי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| di.Bar.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.11|<< Ezekiel 30:11]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.13|Ezekiel 30:13 >>]]</td></tr></table>
 
 

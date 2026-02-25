@@ -1,8 +1,60 @@
+---
+title: Ezekiel 48:33
+type: Verse
+kjv: "And at the south side four thousand and five hundred measures: and three gates; one gate of Simeon, one gate of Issachar, one gate of Zebulun."
+bsb: "On the south side, which will be 4,500 cubits long, there will be three gates: the gate of Simeon, the gate of Issachar, and the gate of Zebulun."
+hebrew: "וּפְאַת־ נֶ֗גְבָּה חֲמֵ֨שׁ מֵא֜וֹת וְאַרְבַּ֤עַת אֲלָפִים֙ מִדָּ֔ה וּשְׁעָרִ֖ים שְׁלֹשָׁ֑ה שַׁ֣עַר שִׁמְע֞וֹן אֶחָ֗ד שַׁ֤עַר יִשָּׂשכָר֙ אֶחָ֔ד שַׁ֥עַר זְבוּלֻ֖ן אֶחָֽד׃"
+pericope: "[[Ezek.48.30 The City Gates and Dimensions|The City Gates and Dimensions]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 48
+book/chapter: "[[Ezek.48|Ezekiel 48]]"
+chronological_order: 839
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H9002]]"
+- "[[H6285]]"
+- "[[H9014]]"
+- "[[H5045H]]"
+- "[[H9011]]"
+- "[[H2568]]"
+- "[[H3967]]"
+- "[[H0702]]"
+- "[[H0505G]]"
+- "[[H4060A]]"
+- "[[H8179G]]"
+- "[[H7969]]"
+- "[[H8095G]]"
+- "[[H0259]]"
+- "[[H3485G]]"
+- "[[H2074]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 48:33**<big><big>[[Ezek.48.30 The City Gates and Dimensions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And at the south side four thousand and five hundred measures: and three gates; one gate of Simeon, one gate of Issachar, one gate of Zebulun.
 <small><sub>**BSB:**</sub></small>
 On the south side, which will be 4,500 cubits long, there will be three gates: the gate of Simeon, the gate of Issachar, and the gate of Zebulun.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H6285\|פְאַת]][[H9014\|־]] [[H5045H\|נֶ֗גְבָּ]][[H9011\|ה]] [[H2568\|חֲמֵ֨שׁ]] [[H3967\|מֵא֜וֹת]] [[H9002\|וְ]][[H0702\|אַרְבַּ֤עַת]] [[H0505G\|אֲלָפִים֙]] [[H4060A\|מִדָּ֔ה]] [[H9002\|וּ]][[H8179G\|שְׁעָרִ֖ים]] [[H7969\|שְׁלֹשָׁ֑ה]] [[H8179G\|שַׁ֣עַר]] [[H8095G\|שִׁמְע֞וֹן]] [[H0259\|אֶחָ֗ד]] [[H8179G\|שַׁ֤עַר]] [[H3485G\|יִשָּׂשכָר֙]] [[H0259\|אֶחָ֔ד]] [[H8179G\|שַׁ֥עַר]] [[H2074\|זְבוּלֻ֖ן]] [[H0259\|אֶחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.32|<< Ezekiel 48:32]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.34|Ezekiel 48:34 >>]]</td></tr></table>
 

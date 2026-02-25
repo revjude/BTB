@@ -1,6 +1,54 @@
+---
+title: LXX Ezekiel 42:9
+type: Verse
+lxx: "And the doors  of these inner chambers of the entrance of the one towards the east is for one to enter through them from the outer courtyard"
+greek: "και αι θύραι των εξεδρών τούτων της εισόδου της προς ανατολάς του εισπορεύεσθαι δι΄ αυτών εκ της αυλής της εξωτέρας"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 42
+book/chapter: "[[Ezek.42|Ezekiel 42]]"
+chronological_order: 833
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2374]]"
+- "[[G3588]]"
+- "[[G7306]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G1529]]"
+- "[[G3588]]"
+- "[[G4314]]"
+- "[[G0395]]"
+- "[[G3588]]"
+- "[[G1531]]"
+- "[[G1223]]"
+- "[[G1473]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G0833]]"
+- "[[G3588]]"
+- "[[G1857]]"
+---
+
 **LXX Ezekiel 42:9** 
 <small><sub>**LXX:**</sub></small>
 And the doors  of these inner chambers of the entrance of the one towards \[the\] east \[is for one\] to enter through them from the outer courtyard 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3588\|αι]] [[G2374\|θύραι]] [[G3588\|των]] [[G7306\|εξεδρών]] [[G3778\|τούτων]] [[G3588\|της]] [[G1529\|εισόδου]] [[G3588\|της]] [[G4314\|προς]] [[G0395\|ανατολάς]] [[G3588\|του]] [[G1531\|εισπορεύεσθαι]] [[G1223\|δι΄]] [[G1473\|αυτών]] [[G1537\|εκ]] [[G3588\|της]] [[G0833\|αυλής]] [[G3588\|της]] [[G1857\|εξωτέρας]]
 <small><sub>**MT:**</sub></small>
 [[Ezek.42.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.8|<< Ezekiel 42:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.10|Ezekiel 42:10 >>]]</td></tr></table>
 
@@ -25,6 +73,6 @@ And the doors  of these inner chambers of the entrance of the one towards \[the\
 | courtyard | **<big>[[G0833\|αυλής]]</big>** |
 | \<obj.> | **<big>[[G3588\|της]]</big>** |
 | outer | **<big>[[G1857\|εξωτέρας]]</big>** |
-[[Ezek.42.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.8|<< Ezekiel 42:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.10|Ezekiel 42:10 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.8|<< Ezekiel 42:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.10|Ezekiel 42:10 >>]]</td></tr></table>
 
 

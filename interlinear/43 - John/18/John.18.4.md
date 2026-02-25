@@ -1,10 +1,61 @@
+---
+title: John 18:4
+type: Verse
+kjv: "Jesus therefore, knowing all things that should come upon him, went forth, and said unto them, Whom seek ye?"
+bsb: "Jesus, knowing all that was coming upon Him, stepped forward and asked them, “Whom are you seeking?”"
+jesus_said: "Whom seek ye?"
+greek: "Ἰησοῦς οὖν εἰδὼς πάντα τὰ ἐρχόμενα ἐπ᾽ αὐτὸν ἐξῆλθεν καὶ λέγει αὐτοῖς· τίνα ζητεῖτε;"
+pericope: "[[John.18.1 The Betrayal of Jesus|The Betrayal of Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic TRAITOR|TRAITOR]]"
+strongs:
+- "[[G2424G]]"
+- "[[G3767]]"
+- "[[G6063]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2064]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G1831]]"
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G5101]]"
+- "[[G2212]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+- no
+---
+
 **John 18:4**<big><big>[[John.18.1 The Betrayal of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus therefore, knowing all things that should come upon him, went forth, and said unto them, Whom seek ye?
 <small><sub>**BSB:**</sub></small>
 Jesus, knowing all that was coming upon Him, stepped forward and asked them, “Whom are you seeking?”
-<small><sub>**Literal:**</sub></small>
-Jesus therefore knowing all things that are coming upon Him he went out also speaks to them; Whom seek you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.3|<< John 18:3]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.5|John 18:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2424G\|Ἰησοῦς]]  [[G3767\|οὖν]]  [[G6063\|εἰδὼς]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G2064\|ἐρχόμενα]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτὸν]]  [[G1831\|ἐξῆλθεν]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G5101\|τίνα]]  [[G2212\|ζητεῖτε;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic PRISONERS|PRISONERS]] • [[topic PROPHECY|PROPHECY]] • [[topic TRAITOR|TRAITOR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.3|<< John 18:3]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.5|John 18:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

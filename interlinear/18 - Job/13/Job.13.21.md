@@ -1,8 +1,55 @@
+---
+title: Job 13:21
+type: Verse
+kjv: "Withdraw thine hand far from me: and let not thy dread make me afraid."
+bsb: "Withdraw Your hand from me, and do not let Your terror frighten me."
+hebrew: "כַּ֭פְּךָ מֵעָלַ֣י הַרְחַ֑ק וְ֝אֵ֥מָתְךָ֗ אַֽל־ תְּבַעֲתַֽנִּי׃"
+pericope: "[[Job.13.1 Job Prepares His Case|Job Prepares His Case]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 13
+book/chapter: "[[Job.13|Job 13]]"
+chronological_order: 24
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic REASONING|REASONING]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H3709G]]"
+- "[[H9021]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H7368]]"
+- "[[H9002]]"
+- "[[H0367]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H1204]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 13:21**<big><big>[[Job.13.1 Job Prepares His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Withdraw thine hand far from me: and let not thy dread make me afraid.
 <small><sub>**BSB:**</sub></small>
 Withdraw Your hand from me, and do not let Your terror frighten me.
+<small><sub>**Hebrew:**</sub></small>
+[[H3709G\|כַּ֭פְּ]][[H9021\|ךָ]] [[H9006\|מֵ]][[H5921A\|עָלַ֣]][[H9030\|י]] [[H7368\|הַרְחַ֑ק]] [[H9002\|וְ֝]][[H0367\|אֵ֥מָתְ]][[H9021\|ךָ֗]] [[H0408\|אַֽל]][[H9014\|־]] [[H1204\|תְּבַעֲתַֽ]][[H9030\|נִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic REASONING|REASONING]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.13.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.13.20|<< Job 13:20]]</td><td align="center" style="border:none;">[[Job.13|Job 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13.22|Job 13:22 >>]]</td></tr></table>
 

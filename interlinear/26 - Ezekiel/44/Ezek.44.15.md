@@ -1,8 +1,77 @@
+---
+title: Ezekiel 44:15
+type: Verse
+kjv: "But the priests the Levites, the sons of Zadok, that kept the charge of my sanctuary when the children of Israel went astray from me, they shall come near to me to minister unto me, and they shall stand before me to offer unto me the fat and the blood, saith the Lord GOD:"
+bsb: "But the Levitical priests, who are descended from Zadok and who kept charge of My sanctuary when the Israelites went astray from Me, are to approach Me to minister before Me. They will stand before Me to offer Me fat and blood, declares the Lord GOD."
+hebrew: "וְהַכֹּהֲנִ֨ים הַלְוִיִּ֜ם בְּנֵ֣י צָד֗וֹק אֲשֶׁ֨ר שָׁמְר֜וּ אֶת־ מִשְׁמֶ֤רֶת מִקְדָּשִׁי֙ בִּתְע֤וֹת בְּנֵֽי־ יִשְׂרָאֵל֙ מֵֽעָלַ֔י הֵ֛מָּה יִקְרְב֥וּ אֵלַ֖י לְשָֽׁרְתֵ֑נִי וְעָמְד֣וּ לְפָנַ֗י לְהַקְרִ֥יב לִי֙ חֵ֣לֶב וָדָ֔ם נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃"
+pericope: "[[Ezek.44.15 The Duties of the Priests|The Duties of the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 44
+book/chapter: "[[Ezek.44|Ezekiel 44]]"
+chronological_order: 835
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H3881]]"
+- "[[H1121G]]"
+- "[[H6659G]]"
+- "[[H0834A]]"
+- "[[H8104G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4931]]"
+- "[[H4720]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H8582]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H1992]]"
+- "[[H7126G]]"
+- "[[H0413]]"
+- "[[H9005]]"
+- "[[H8334]]"
+- "[[H9001]]"
+- "[[H5975G]]"
+- "[[H6440G]]"
+- "[[H7126H]]"
+- "[[H2459]]"
+- "[[H1818]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 44:15**<big><big>[[Ezek.44.15 The Duties of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the priests the Levites, the sons of Zadok, that kept the charge of my sanctuary when the children of Israel went astray from me, they shall come near to me to minister unto me, and they shall stand before me to offer unto me the fat and the blood, saith the Lord GOD:
 <small><sub>**BSB:**</sub></small>
 But the Levitical priests, who are descended from Zadok and who kept charge of My sanctuary when the Israelites went astray from Me, are to approach Me to minister before Me. They will stand before Me to offer Me fat and blood, declares the Lord GOD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H3548\|כֹּהֲנִ֨ים]] [[H9009\|הַ]][[H3881\|לְוִיִּ֜ם]] [[H1121G\|בְּנֵ֣י]] [[H6659G\|צָד֗וֹק]] [[H0834A\|אֲשֶׁ֨ר]] [[H8104G\|שָׁמְר֜וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H4931\|מִשְׁמֶ֤רֶת]] [[H4720\|מִקְדָּשִׁ]][[H9020\|י֙]] [[H9003\|בִּ]][[H8582\|תְע֤וֹת]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9006\|מֵֽ]][[H5921A\|עָלַ֔]][[H9030\|י]] [[H1992\|הֵ֛מָּה]] [[H7126G\|יִקְרְב֥וּ]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H9005\|לְ]][[H8334\|שָֽׁרְתֵ֑]][[H9030\|נִי]] [[H9001\|וְ]][[H5975G\|עָמְד֣וּ]] [[H9005\|לְ]][[H6440G\|פָנַ֗]][[H9020\|י]] [[H9005\|לְ]][[H7126H\|הַקְרִ֥יב]] [[H9005\|לִ]][[H9030\|י֙]] [[H2459\|חֵ֣לֶב]] [[H9002\|וָ]][[H1818\|דָ֔ם]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.14|<< Ezekiel 44:14]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.16|Ezekiel 44:16 >>]]</td></tr></table>
 

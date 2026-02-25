@@ -1,8 +1,56 @@
+---
+title: Psalm 116:15
+type: Verse
+kjv: "Precious in the sight of the LORD is the death of his saints."
+bsb: "Precious in the sight of the LORD is the death of His saints."
+hebrew: "יָ֭קָר בְּעֵינֵ֣י יְהוָ֑ה הַ֝מָּ֗וְתָה לַחֲסִידָֽיו׃"
+pericope: "[[Ps.116.1 The LORD Has Heard My Voice|The LORD Has Heard My Voice]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 116
+book/chapter: "[[Ps.116|Psalm 116]]"
+chronological_order: 878
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H3368]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H9009]]"
+- "[[H4194]]"
+- "[[H9011]]"
+- "[[H9005]]"
+- "[[H2623]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 116:15**<big><big>[[Ps.116.1 The LORD Has Heard My Voice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Precious in the sight of the LORD [is] the death of his saints.
 <small><sub>**BSB:**</sub></small>
 Precious in the sight of the LORD is the death of His saints.
+<small><sub>**Hebrew:**</sub></small>
+[[H3368\|יָ֭קָר]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9009\|הַ֝]][[H4194\|מָּ֗וְתָ]][[H9011\|ה]] [[H9005\|לַ]][[H2623\|חֲסִידָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.116.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.116.14|<< Psalms 116:14]]</td><td align="center" style="border:none;">[[Ps.116|Psalms 116]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.116.16|Psalms 116:16 >>]]</td></tr></table>
 

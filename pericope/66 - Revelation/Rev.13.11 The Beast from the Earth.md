@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Beast from the Earth
+type: Pericope
 pericope: "[[Rev.13.11 The Beast from the Earth|The Beast from the Earth]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 13
 book/chapter: "[[Rev.13|Revelation 13]]"
-genre:
+chronological_order: 1180
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 5
 verses:
 - "[[Rev.13.11]]"
 - "[[Rev.13.12]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Rev.13.15]]"
 ---
 
-[[Rev.13|Revelation 13:11 - Revelation 13:15]]
+<small>[[Rev.13|Revelation 13:11-15]]</small>
 *The Beast from the Earth*
 
 [[Rev.13.11|11]] And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon.

@@ -1,8 +1,58 @@
+---
+title: 1 Chronicles 2:35
+type: Verse
+kjv: "And Sheshan gave his daughter to Jarha his servant to wife; and she bare him Attai."
+bsb: "Sheshan gave his daughter in marriage to his servant Jarha, and she bore to him Attai."
+hebrew: "וַיִּתֵּ֨ן שֵׁשָׁ֧ן אֶת־ בִּתּ֛וֹ לְיַרְחָ֥ע עַבְדּ֖וֹ לְאִשָּׁ֑ה וַתֵּ֥לֶד ל֖וֹ אֶת־ עַתָּֽי׃"
+pericope: "[[1Chr.2.1 The Sons of Israel|The Sons of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 2
+book/chapter: "[[1Chr.2|1 Chronicles 2]]"
+chronological_order: 321
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AHLAI|AHLAI]]"
+- "[[topic ATTAI|ATTAI]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SHESHAN|SHESHAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H8348]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1323G]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H3398]]"
+- "[[H5650]]"
+- "[[H0802H]]"
+- "[[H3205]]"
+- "[[H9033]]"
+- "[[H6262G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 2:35**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Sheshan gave his daughter to Jarha his servant to wife; and she bare him Attai.
 <small><sub>**BSB:**</sub></small>
 Sheshan gave his daughter in marriage to his servant Jarha, and she bore to him Attai.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|יִּתֵּ֨ן]] [[H8348\|שֵׁשָׁ֧ן]] [[H0853\|אֶת]][[H9014\|־]] [[H1323G\|בִּתּ֛]][[H9023\|וֹ]] [[H9005\|לְ]][[H3398\|יַרְחָ֥ע]] [[H5650\|עַבְדּ֖]][[H9023\|וֹ]] [[H9005\|לְ]][[H0802H\|אִשָּׁ֑ה]] [[H9001\|וַ]][[H3205\|תֵּ֥לֶד]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H6262G\|עַתָּֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHLAI|AHLAI]] • [[topic ATTAI|ATTAI]] • [[topic SERVANT|SERVANT]] • [[topic SHESHAN|SHESHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.34|<< 1 Chronicles 2:34]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.36|1 Chronicles 2:36 >>]]</td></tr></table>
 

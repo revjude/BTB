@@ -1,8 +1,58 @@
+---
+title: Isaiah 65:24
+type: Verse
+kjv: "And it shall come to pass, that before they call, I will answer; and while they are yet speaking, I will hear."
+bsb: "Even before they call, I will answer, and while they are still speaking, I will hear."
+hebrew: "וְהָיָ֥ה טֶֽרֶם־ יִקְרָ֖אוּ וַאֲנִ֣י אֶעֱנֶ֑ה ע֛וֹד הֵ֥ם מְדַבְּרִ֖ים וַאֲנִ֥י אֶשְׁמָֽע׃"
+pericope: "[[Isa.65.17 A New Heaven and a New Earth|A New Heaven and a New Earth]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 65
+book/chapter: "[[Isa.65|Isaiah 65]]"
+chronological_order: 704
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H2962]]"
+- "[[H9014]]"
+- "[[H7121G]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H6030B]]"
+- "[[H5750]]"
+- "[[H1992]]"
+- "[[H1696G]]"
+- "[[H8085G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 65:24**<big><big>[[Isa.65.17 A New Heaven and a New Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, that before they call, I will answer; and while they are yet speaking, I will hear.
 <small><sub>**BSB:**</sub></small>
 Even before they call, I will answer, and while they are still speaking, I will hear.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֥ה]] [[H2962\|טֶֽרֶם]][[H9014\|־]] [[H7121G\|יִקְרָ֖אוּ]] [[H9002\|וַ]][[H0589\|אֲנִ֣י]] [[H6030B\|אֶעֱנֶ֑ה]] [[H5750\|ע֛וֹד]] [[H1992\|הֵ֥ם]] [[H1696G\|מְדַבְּרִ֖ים]] [[H9002\|וַ]][[H0589\|אֲנִ֥י]] [[H8085G\|אֶשְׁמָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic PRAYER|PRAYER]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.23|<< Isaiah 65:23]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.25|Isaiah 65:25 >>]]</td></tr></table>
 

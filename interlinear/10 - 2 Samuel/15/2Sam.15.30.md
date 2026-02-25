@@ -1,8 +1,74 @@
+---
+title: 2 Samuel 15:30
+type: Verse
+kjv: "And David went up by the ascent of mount Olivet, and wept as he went up, and had his head covered, and he went barefoot: and all the people that was with him covered every man his head, and they went up, weeping as they went up."
+bsb: "But David continued up the Mount of Olives, weeping as he went up. His head was covered, and he was walking barefoot. And all the people with him covered their heads and went up, weeping as they went."
+hebrew: "וְדָוִ֡ד עֹלֶה֩ בְמַעֲלֵ֨ה הַזֵּיתִ֜ים עֹלֶ֣ה׀ וּבוֹכֶ֗ה וְרֹ֥אשׁ לוֹ֙ חָפ֔וּי וְה֖וּא הֹלֵ֣ךְ יָחֵ֑ף וְכָל־ הָעָ֣ם אֲשֶׁר־ אִתּ֗וֹ חָפוּ֙ אִ֣ישׁ רֹאשׁ֔וֹ וְעָל֥וּ עָלֹ֖ה וּבָכֹֽה׃"
+pericope: "[[2Sam.15.30 David Weeps at the Mount of Olives|David Weeps at the Mount of Olives]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 15
+book/chapter: "[[2Sam.15|2 Samuel 15]]"
+chronological_order: 414
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DUST|DUST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic LOYALTY|LOYALTY]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic OLIVES, MOUNT OF|OLIVES, MOUNT OF]]"
+- "[[topic WEEPING|WEEPING]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H9002]]"
+- "[[H1732]]"
+- "[[H5927G]]"
+- "[[H9003]]"
+- "[[H4608]]"
+- "[[H9009]]"
+- "[[H2132G]]"
+- "[[H9015]]"
+- "[[H1058]]"
+- "[[H7218A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H2645]]"
+- "[[H1931]]"
+- "[[H1980G]]"
+- "[[H3182]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H0376I]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 15:30**<big><big>[[2Sam.15.30 David Weeps at the Mount of Olives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David went up by the ascent of [mount] Olivet, and wept as he went up, and had his head covered, and he went barefoot: and all the people that [was] with him covered every man his head, and they went up, weeping as they went up.
 <small><sub>**BSB:**</sub></small>
 But David continued up the Mount of Olives, weeping as he went up. His head was covered, and he was walking barefoot. And all the people with him covered their heads and went up, weeping as they went.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1732\|דָוִ֡ד]] [[H5927G\|עֹלֶה֩]] [[H9003\|בְ]][[H4608\|מַעֲלֵ֨ה]] [[H9009\|הַ]][[H2132G\|זֵּיתִ֜ים]] [[H5927G\|עֹלֶ֣ה]][[H9015\|׀]] [[H9002\|וּ]][[H1058\|בוֹכֶ֗ה]] [[H9002\|וְ]][[H7218A\|רֹ֥אשׁ]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H2645\|חָפ֔וּי]] [[H9002\|וְ]][[H1931\|ה֖וּא]] [[H1980G\|הֹלֵ֣ךְ]] [[H3182\|יָחֵ֑ף]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0854\|אִתּ֗]][[H9033\|וֹ]] [[H2645\|חָפוּ֙]] [[H0376I\|אִ֣ישׁ]] [[H7218A\|רֹאשׁ֔]][[H9023\|וֹ]] [[H9001\|וְ]][[H5927G\|עָל֥וּ]] [[H5927G\|עָלֹ֖ה]] [[H9002\|וּ]][[H1058\|בָכֹֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic DAVID|DAVID]] • [[topic DUST|DUST]] • [[topic LOVE|LOVE]] • [[topic LOYALTY|LOYALTY]] • [[topic MOURNING|MOURNING]] • [[topic OLIVES, MOUNT OF|OLIVES, MOUNT OF]] • [[topic WEEPING|WEEPING]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.29|<< 2 Samuel 15:29]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.31|2 Samuel 15:31 >>]]</td></tr></table>
 

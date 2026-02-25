@@ -1,8 +1,70 @@
+---
+title: Ezra 9:6
+type: Verse
+kjv: "And said, O my God, I am ashamed and blush to lift up my face to thee, my God: for our iniquities are increased over our head, and our trespass is grown up unto the heavens."
+bsb: "and said: “O my God, I am ashamed and embarrassed to lift up my face to You, my God, because our iniquities are higher than our heads, and our guilt has reached the heavens."
+hebrew: "וָאֹמְרָ֗ה אֱלֹהַי֙ בֹּ֣שְׁתִּי וְנִכְלַ֔מְתִּי לְהָרִ֧ים אֱלֹהַ֛י פָּנַ֖י אֵלֶ֑יךָ כִּ֣י עֲוֹנֹתֵ֤ינוּ רָבוּ֙ לְמַ֣עְלָה רֹּ֔אשׁ וְאַשְׁמָתֵ֥נוּ גָדְלָ֖ה עַ֥ד לַשָּׁמָֽיִם׃"
+pericope: "[[Ezra.9.5 Ezra’s Prayer of Confession|Ezra’s Prayer of Confession]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 9
+book/chapter: "[[Ezra.9|Ezra 9]]"
+chronological_order: 911
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLUSHING|BLUSHING]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9012]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H0954]]"
+- "[[H9002]]"
+- "[[H3637]]"
+- "[[H9005]]"
+- "[[H7311A]]"
+- "[[H6440H]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H3588A]]"
+- "[[H5771G]]"
+- "[[H9025]]"
+- "[[H7235A]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H7218A]]"
+- "[[H0819]]"
+- "[[H1431]]"
+- "[[H5704]]"
+- "[[H8064]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 9:6**<big><big>[[Ezra.9.5 Ezra’s Prayer of Confession|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said, O my God, I am ashamed and blush to lift up my face to thee, my God: for our iniquities are increased over [our] head, and our trespass is grown up unto the heavens.
 <small><sub>**BSB:**</sub></small>
 and said: “O my God, I am ashamed and embarrassed to lift up my face to You, my God, because our iniquities are higher than our heads, and our guilt has reached the heavens.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמְרָ֗]][[H9012\|ה]] [[H0430G\|אֱלֹהַ]][[H9020\|י֙]] [[H0954\|בֹּ֣שְׁתִּי]] [[H9002\|וְ]][[H3637\|נִכְלַ֔מְתִּי]] [[H9005\|לְ]][[H7311A\|הָרִ֧ים]] [[H0430G\|אֱלֹהַ֛]][[H9020\|י]] [[H6440H\|פָּנַ֖]][[H9020\|י]] [[H0413\|אֵלֶ֑י]][[H9031\|ךָ]] [[H3588A\|כִּ֣י]] [[H5771G\|עֲוֹנֹתֵ֤י]][[H9025\|נוּ]] [[H7235A\|רָבוּ֙]] [[H9005\|לְ]][[H4605\|מַ֣עְלָ]][[H9011\|ה]] [[H7218A\|רֹּ֔אשׁ]] [[H9002\|וְ]][[H0819\|אַשְׁמָתֵ֥]][[H9025\|נוּ]] [[H1431\|גָדְלָ֖ה]] [[H5704\|עַ֥ד]] [[H9005\|לַ]][[H8064\|שָּׁמָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLUSHING|BLUSHING]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.9.5|<< Ezra 9:5]]</td><td align="center" style="border:none;">[[Ezra.9|Ezra 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.9.7|Ezra 9:7 >>]]</td></tr></table>
 

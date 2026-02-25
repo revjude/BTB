@@ -1,8 +1,61 @@
+---
+title: 1 Samuel 3:15
+type: Verse
+kjv: "And Samuel lay until the morning, and opened the doors of the house of the LORD. And Samuel feared to shew Eli the vision."
+bsb: "Samuel lay down until the morning; then he opened the doors of the house of the LORD. He was afraid to tell Eli the vision,"
+hebrew: "וַיִּשְׁכַּ֤ב שְׁמוּאֵל֙ עַד־ הַבֹּ֔קֶר וַיִּפְתַּ֖ח אֶת־ דַּלְת֣וֹת בֵּית־ יְהוָ֑ה וּשְׁמוּאֵ֣ל יָרֵ֔א מֵהַגִּ֥יד אֶת־ הַמַּרְאָ֖ה אֶל־ עֵלִֽי׃"
+pericope: "[[1Sam.3.15 Samuel Shares the Vision|Samuel Shares the Vision]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 3
+book/chapter: "[[1Sam.3|1 Samuel 3]]"
+chronological_order: 282
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H7901G]]"
+- "[[H8050G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1242]]"
+- "[[H6605A]]"
+- "[[H0853]]"
+- "[[H1817C]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H3372G]]"
+- "[[H9006]]"
+- "[[H5046]]"
+- "[[H4759A]]"
+- "[[H0413]]"
+- "[[H5941]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 3:15**<big><big>[[1Sam.3.15 Samuel Shares the Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samuel lay until the morning, and opened the doors of the house of the LORD. And Samuel feared to shew Eli the vision.
 <small><sub>**BSB:**</sub></small>
 Samuel lay down until the morning; then he opened the doors of the house of the LORD. He was afraid to tell Eli the vision,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7901G\|יִּשְׁכַּ֤ב]] [[H8050G\|שְׁמוּאֵל֙]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H1242\|בֹּ֔קֶר]] [[H9001\|וַ]][[H6605A\|יִּפְתַּ֖ח]] [[H0853\|אֶת]][[H9014\|־]] [[H1817C\|דַּלְת֣וֹת]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וּ]][[H8050G\|שְׁמוּאֵ֣ל]] [[H3372G\|יָרֵ֔א]] [[H9006\|מֵ]][[H5046\|הַגִּ֥יד]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4759A\|מַּרְאָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H5941\|עֵלִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.3.14|<< 1 Samuel 3:14]]</td><td align="center" style="border:none;">[[1Sam.3|1 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.3.16|1 Samuel 3:16 >>]]</td></tr></table>
 

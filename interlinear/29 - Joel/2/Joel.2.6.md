@@ -1,8 +1,56 @@
+---
+title: Joel 2:6
+type: Verse
+kjv: "Before their face the people shall be much pained: all faces shall gather blackness."
+bsb: "Nations writhe in horror before them; every face turns pale."
+hebrew: "מִפָּנָ֖יו יָחִ֣ילוּ עַמִּ֑ים כָּל־ פָּנִ֖ים קִבְּצ֥וּ פָארֽוּר׃"
+pericope: "[[Joel.2.1 The Army of Locusts|The Army of Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 2
+book/chapter: "[[Joel.2|Joel 2]]"
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLACKNESS|BLACKNESS]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOEL|JOEL]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H2342I]]"
+- "[[H5971A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6440H]]"
+- "[[H6908]]"
+- "[[H6289]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 2:6**<big><big>[[Joel.2.1 The Army of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Before their face the people shall be much pained: all faces shall gather blackness.
 <small><sub>**BSB:**</sub></small>
 Nations writhe in horror before them; every face turns pale.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H6440G\|פָּנָ֖י]][[H9023\|ו]] [[H2342I\|יָחִ֣ילוּ]] [[H5971A\|עַמִּ֑ים]] [[H3605\|כָּל]][[H9014\|־]] [[H6440H\|פָּנִ֖ים]] [[H6908\|קִבְּצ֥וּ]] [[H6289\|פָארֽוּר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLACKNESS|BLACKNESS]] • [[topic COLORS|COLORS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOEL|JOEL]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.5|<< Joel 2:5]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.7|Joel 2:7 >>]]</td></tr></table>
 

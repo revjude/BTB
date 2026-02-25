@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sennacherib Threatens Jerusalem
+type: Pericope
 pericope: "[[2Kgs.18.17 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 18
 book/chapter: "[[2Kgs.18|2 Kings 18]]"
-genre:
+chronological_order: 656
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 21
 verses:
 - "[[2Kgs.18.17]]"
 - "[[2Kgs.18.18]]"
@@ -39,7 +46,7 @@ verses:
 - "[[2Kgs.18.37]]"
 ---
 
-[[2Kgs.18|2 Kings 18:17 - 2 Kings 18:37]]
+<small>[[2Kgs.18|2 Kings 18:17-37]]</small>
 *Sennacherib Threatens Jerusalem*
 
 [[2Kgs.18.17|17]] And the king of Assyria sent Tartan and Rabsaris and Rabshakeh from Lachish to king Hezekiah with a great host against Jerusalem. And they went up and came to Jerusalem. And when they were come up, they came and stood by the conduit of the upper pool, which \[is\] in the highway of the fuller’s field.

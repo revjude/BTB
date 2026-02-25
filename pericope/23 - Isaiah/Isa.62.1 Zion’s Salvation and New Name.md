@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Zion’s Salvation and New Name
+type: Pericope
 pericope: "[[Isa.62.1 Zion’s Salvation and New Name|Zion’s Salvation and New Name]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 62
 book/chapter: "[[Isa.62|Isaiah 62]]"
-genre:
+chronological_order: 701
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 12
 verses:
 - "[[Isa.62.1]]"
 - "[[Isa.62.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Isa.62.12]]"
 ---
 
-[[Isa.62|Isaiah 62:1 - Isaiah 62:12]]
+<small>[[Isa.62|Isaiah 62:1-12]]</small>
 *Zion’s Salvation and New Name*
 
 [[Isa.62.1|1]] For Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will not rest, until the righteousness thereof go forth as brightness, and the salvation thereof as a lamp \[that\] burneth.

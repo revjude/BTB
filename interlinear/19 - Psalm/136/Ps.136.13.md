@@ -1,8 +1,58 @@
+---
+title: Psalm 136:13
+type: Verse
+kjv: "To him which divided the Red sea into parts: for his mercy endureth for ever:"
+bsb: "He divided the Red Sea in two His loving devotion endures forever."
+hebrew: "לְגֹזֵ֣ר יַם־ ס֭וּף לִגְזָרִ֑ים כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃"
+pericope: "[[Ps.136.1 His Loving Devotion Endures Forever|His Loving Devotion Endures Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 136
+book/chapter: "[[Ps.136|Psalm 136]]"
+chronological_order: 533
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic RED SEA|RED SEA]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9005]]"
+- "[[H1504]]"
+- "[[H3220G]]"
+- "[[H9014]]"
+- "[[H5488G]]"
+- "[[H1506]]"
+- "[[H3588A]]"
+- "[[H5769G]]"
+- "[[H2617A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 136:13**<big><big>[[Ps.136.1 His Loving Devotion Endures Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To him which divided the Red sea into parts: for his mercy [endureth] for ever:
 <small><sub>**BSB:**</sub></small>
 He divided the Red Sea in two His loving devotion endures forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H1504\|גֹזֵ֣ר]] [[H3220G\|יַם]][[H9014\|־]] [[H5488G\|ס֭וּף]] [[H9005\|לִ]][[H1506\|גְזָרִ֑ים]] [[H3588A\|כִּ֖י]] [[H9005\|לְ]][[H5769G\|עוֹלָ֣ם]] [[H2617A\|חַסְדּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic PRAISE|PRAISE]] • [[topic RED SEA|RED SEA]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.136.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.136.12|<< Psalms 136:12]]</td><td align="center" style="border:none;">[[Ps.136|Psalms 136]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.136.14|Psalms 136:14 >>]]</td></tr></table>
 

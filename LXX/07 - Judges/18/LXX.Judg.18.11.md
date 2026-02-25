@@ -1,6 +1,53 @@
+---
+title: LXX Judges 18:11
+type: Verse
+lxx: "And they departed from there, from the kin  of Dan, from Zorah and from Esthaol -- six hundred men being girded with weapons for battle."
+greek: "και απήραν εκείθεν εκ συγγενείας του Δαν εκ Σαραά και από Εσθαόλ εξακόσιοι άνδρες περιεζωσμένοι σκεύη παρατάξεως"
+original_language: Greek
+testament: Old
+book: Judges
+chapter: 18
+book/chapter: "[[Judg.18|Judges 18]]"
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ESHTAOL|ESHTAOL]]"
+- "[[topic JONATHAN|JONATHAN]]"
+strongs:
+- "[[G2532]]"
+- "[[G0522]]"
+- "[[G1564]]"
+- "[[G1537]]"
+- "[[G4772]]"
+- "[[G3588]]"
+- "[[H1835]]"
+- "[[G1537]]"
+- "[[H6881]]"
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[H0847]]"
+- "[[G1812]]"
+- "[[G0435]]"
+- "[[G4024]]"
+- "[[G4632]]"
+- "[[G8640]]"
+---
+
 **LXX Judges 18:11** 
 <small><sub>**LXX:**</sub></small>
 And they departed from there, from \[the\] kin  of Dan, from Zorah and from Esthaol -- six hundred men being girded with weapons for battle. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0522\|απήραν]] [[G1564\|εκείθεν]] [[G1537\|εκ]] [[G4772\|συγγενείας]] [[G3588\|του]] [[H1835\|Δαν]] [[G1537\|εκ]] [[H6881\|Σαραά]] [[G2532\|και]] [[G0575\|από]] [[H0847\|Εσθαόλ]] [[G1812\|εξακόσιοι]] [[G0435\|άνδρες]] [[G4024\|περιεζωσμένοι]] [[G4632\|σκεύη]] [[G8640\|παρατάξεως]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ESHTAOL|ESHTAOL]] • [[topic JONATHAN|JONATHAN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Judg.18.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.10|<< Judges 18:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.12|Judges 18:12 >>]]</td></tr></table>
 
@@ -23,6 +70,6 @@ And they departed from there, from \[the\] kin  of Dan, from Zorah and from Esth
 | being girded with | **<big>[[G4024\|περιεζωσμένοι]]</big>** |
 | weapons | **<big>[[G4632\|σκεύη]]</big>** |
 | for battle. | **<big>[[G8640\|παρατάξεως]]</big>** |
-[[Judg.18.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.10|<< Judges 18:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.12|Judges 18:12 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.10|<< Judges 18:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.12|Judges 18:12 >>]]</td></tr></table>
 
 

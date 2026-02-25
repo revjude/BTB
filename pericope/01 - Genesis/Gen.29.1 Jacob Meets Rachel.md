@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jacob Meets Rachel
+type: Pericope
 pericope: "[[Gen.29.1 Jacob Meets Rachel|Jacob Meets Rachel]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 29
 book/chapter: "[[Gen.29|Genesis 29]]"
-genre:
+chronological_order: 71
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 13
 verses:
 - "[[Gen.29.1]]"
 - "[[Gen.29.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Gen.29.13]]"
 ---
 
-[[Gen.29|Genesis 29:1 - Genesis 29:13]]
+<small>[[Gen.29|Genesis 29:1-13]]</small>
 *Jacob Meets Rachel*
 
 [[Gen.29.1|1]] Then Jacob went on his journey, and came into the land of the people of the east.

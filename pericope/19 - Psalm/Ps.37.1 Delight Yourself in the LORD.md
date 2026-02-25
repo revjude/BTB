@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Delight Yourself in the LORD
+type: Pericope
 pericope: "[[Ps.37.1 Delight Yourself in the LORD|Delight Yourself in the LORD]]"
-verse_count: 41
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 37
 book/chapter: "[[Ps.37|Psalm 37]]"
-genre:
+chronological_order: 365
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 41
 verses:
 - "[[Ps.37.0]]"
 - "[[Ps.37.1]]"
@@ -62,7 +69,7 @@ verses:
 - "[[Ps.37.40]]"
 ---
 
-[[Ps.37|Psalm 37:1 - Psalm 37:40]]
+<small>[[Ps.37|Psalm 37:1-40]]</small>
 *Delight Yourself in the LORD*
 
 [[Ps.37.0|0]] \[A Psalm\] of David.

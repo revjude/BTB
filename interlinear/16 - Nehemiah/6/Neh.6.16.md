@@ -1,8 +1,70 @@
+---
+title: Nehemiah 6:16
+type: Verse
+kjv: "And it came to pass, that when all our enemies heard thereof, and all the heathen that were about us saw these things, they were much cast down in their own eyes: for they perceived that this work was wrought of our God."
+bsb: "When all our enemies heard about this, all the surrounding nations were afraid and disheartened, for they realized that this task had been accomplished by our God."
+hebrew: "וַיְהִ֗י כַּאֲשֶׁ֤ר שָֽׁמְעוּ֙ כָּל־ א֣וֹיְבֵ֔ינוּ וַיִּֽרְא֗וּ כָּל־ הַגּוֹיִם֙ אֲשֶׁ֣ר סְבִֽיבֹתֵ֔ינוּ וַיִּפְּל֥וּ מְאֹ֖ד בְּעֵינֵיהֶ֑ם וַיֵּ֣דְע֔וּ כִּ֚י מֵאֵ֣ת אֱלֹהֵ֔ינוּ נֶעֶשְׂתָ֖ה הַמְּלָאכָ֥ה הַזֹּֽאת׃"
+pericope: "[[Neh.6.15 Completion of the Wall|Completion of the Wall]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 6
+book/chapter: "[[Neh.6|Nehemiah 6]]"
+chronological_order: 918
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H8085G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0341]]"
+- "[[H9025]]"
+- "[[H3372G]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0834A]]"
+- "[[H5439G]]"
+- "[[H9035]]"
+- "[[H5307G]]"
+- "[[H3966]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9028]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H0430G]]"
+- "[[H6213A]]"
+- "[[H4399]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 6:16**<big><big>[[Neh.6.15 Completion of the Wall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that when all our enemies heard [thereof], and all the heathen that [were] about us saw [these things], they were much cast down in their own eyes: for they perceived that this work was wrought of our God.
 <small><sub>**BSB:**</sub></small>
 When all our enemies heard about this, all the surrounding nations were afraid and disheartened, for they realized that this task had been accomplished by our God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H8085G\|שָֽׁמְעוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H0341\|א֣וֹיְבֵ֔י]][[H9025\|נוּ]] [[H9001\|וַ]][[H3372G\|יִּֽרְא֗וּ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5439G\|סְבִֽיבֹתֵ֔י]][[H9035\|נוּ]] [[H9001\|וַ]][[H5307G\|יִּפְּל֥וּ]] [[H3966\|מְאֹ֖ד]] [[H9003\|בְּ]][[H5869I\|עֵינֵי]][[H9028\|הֶ֑ם]] [[H9001\|וַ]][[H3045\|יֵּ֣דְע֔וּ]] [[H3588A\|כִּ֚י]] [[H9006\|מֵ]][[H0854\|אֵ֣ת]] [[H0430G\|אֱלֹהֵ֔י]][[H9025\|נוּ]] [[H6213A\|נֶעֶשְׂתָ֖ה]] [[H9009\|הַ]][[H4399\|מְּלָאכָ֥ה]] [[H9009\|הַ]][[H2063\|זֹּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.6.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.6.15|<< Nehemiah 6:15]]</td><td align="center" style="border:none;">[[Neh.6|Nehemiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.6.17|Nehemiah 6:17 >>]]</td></tr></table>
 

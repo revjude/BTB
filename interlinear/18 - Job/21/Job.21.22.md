@@ -1,8 +1,53 @@
+---
+title: Job 21:22
+type: Verse
+kjv: "Shall any teach God knowledge? seeing he judgeth those that are high."
+bsb: "Can anyone teach knowledge to God, since He judges those on high?"
+hebrew: "הַלְאֵ֥ל יְלַמֶּד־ דָּ֑עַת וְ֝ה֗וּא רָמִ֥ים יִשְׁפּֽוֹט׃"
+pericope: "[[Job.21.1 Job：God Will Punish the Wicked|Job：God Will Punish the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 21
+book/chapter: "[[Job.21|Job 21]]"
+chronological_order: 32
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9008]]"
+- "[[H9005]]"
+- "[[H0410G]]"
+- "[[H3925G]]"
+- "[[H9014]]"
+- "[[H1847]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H7311A]]"
+- "[[H8199]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 21:22**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall [any] teach God knowledge? seeing he judgeth those that are high.
 <small><sub>**BSB:**</sub></small>
 Can anyone teach knowledge to God, since He judges those on high?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H9005\|לְ]][[H0410G\|אֵ֥ל]] [[H3925G\|יְלַמֶּד]][[H9014\|־]] [[H1847\|דָּ֑עַת]] [[H9002\|וְ֝]][[H1931\|ה֗וּא]] [[H7311A\|רָמִ֥ים]] [[H8199\|יִשְׁפּֽוֹט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.21|<< Job 21:21]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.23|Job 21:23 >>]]</td></tr></table>
 

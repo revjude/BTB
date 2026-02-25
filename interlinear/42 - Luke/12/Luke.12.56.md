@@ -1,10 +1,59 @@
+---
+title: Luke 12:56
+type: Verse
+kjv: "Ye hypocrites, ye can discern the face of the sky and of the earth; but how is it that ye do not discern this time?"
+bsb: "You hypocrites! You know how to interpret the appearance of the earth and sky. Why don’t you know how to interpret the present time?"
+jesus_said: "Ye hypocrites, ye can discern the face of the sky and of the earth; but how is it that ye do not discern this time?"
+greek: "ὑποκριταί, τὸ πρόσωπον τῆς γῆς καὶ τοῦ οὐρανοῦ οἴδατε δοκιμάζειν, τὸν καιρὸν δὲ τοῦτον πῶς οὐκ οἴδατε δοκιμάζειν;"
+pericope: "[[Luke.12.54 Interpreting the Present Time|Interpreting the Present Time]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+strongs:
+- "[[G5273]]"
+- "[[G3588]]"
+- "[[G4383]]"
+- "[[G1093G]]"
+- "[[G2532]]"
+- "[[G3772]]"
+- "[[G6063]]"
+- "[[G1381]]"
+- "[[G2540]]"
+- "[[G1161]]"
+- "[[G3778]]"
+- "[[G4459]]"
+- "[[G3756]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Luke 12:56**<big><big>[[Luke.12.54 Interpreting the Present Time|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [Ye] hypocrites, ye can discern the face of the sky and of the earth; but how is it that ye do not discern this time?
 <small><sub>**BSB:**</sub></small>
 You hypocrites! You know how to interpret the appearance of the earth and sky. Why don’t you know how to interpret the present time?
-<small><sub>**Literal:**</sub></small>
-Hypocrites! The appearance of the earth and of the sky you know [how] to discern, the time however this how not do you know to discern?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.55|<< Luke 12:55]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.57|Luke 12:57 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5273\|ὑποκριταί,]]  [[G3588\|τὸ]]  [[G4383\|πρόσωπον]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G6063\|οἴδατε]]  [[G1381\|δοκιμάζειν,]]  [[G3588\|τὸν]]  [[G2540\|καιρὸν]]  [[G1161\|δὲ]]  [[G3778\|τοῦτον]]  [[G4459\|πῶς]]  [[G3756\|οὐκ]]  [[G6063\|οἴδατε]]  [[G1381\|δοκιμάζειν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.55|<< Luke 12:55]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.57|Luke 12:57 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

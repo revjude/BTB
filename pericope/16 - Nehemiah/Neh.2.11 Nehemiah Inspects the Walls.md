@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Nehemiah Inspects the Walls
+type: Pericope
 pericope: "[[Neh.2.11 Nehemiah Inspects the Walls|Nehemiah Inspects the Walls]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Nehemiah
 chapter: 2
 book/chapter: "[[Neh.2|Nehemiah 2]]"
-genre:
+chronological_order: 914
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
 - building codes
+verse_count: 10
 verses:
 - "[[Neh.2.11]]"
 - "[[Neh.2.12]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Neh.2.20]]"
 ---
 
-[[Neh.2|Nehemiah 2:11 - Nehemiah 2:20]]
+<small>[[Neh.2|Nehemiah 2:11-20]]</small>
 *Nehemiah Inspects the Walls*
 
 [[Neh.2.11|11]] So I came to Jerusalem, and was there three days.

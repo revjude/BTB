@@ -1,10 +1,76 @@
+---
+title: Mark 12:14
+type: Verse
+kjv: "And when they were come, they say unto him, Master, we know that thou art true, and carest for no man: for thou regardest not the person of men, but teachest the way of God in truth: Is it lawful to give tribute to Caesar, or not?"
+bsb: "“Teacher,” they said, “we know that You are honest and seek favor from no one. Indeed, You are impartial and teach the way of God in accordance with the truth. Is it lawful to pay taxes to Caesar or not? Should we pay them or not?”"
+greek: "οἱ καὶ ἐλθόντες λέγουσιν αὐτῷ· διδάσκαλε, οἴδαμεν ὅτι ἀληθὴς εἶ καὶ οὐ μέλει σοι περὶ οὐδενός· οὐ γὰρ βλέπεις εἰς πρόσωπον ἀνθρώπων ἀλλ᾽ ἐπ᾽ ἀληθείας τὴν ὁδὸν τοῦ θεοῦ διδάσκεις. ἔξεστιν δοῦναι κῆνσον Καίσαρι ἢ οὔ;"
+pericope: "[[Mark.12.13 Paying Taxes to Caesar|Paying Taxes to Caesar]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 12
+book/chapter: "[[Mark.12|Mark 12]]"
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SATIRE|SATIRE]]"
+strongs:
+- "[[G3588]]"
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G1320]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G0227]]"
+- "[[G1510]]"
+- "[[G3756]]"
+- "[[G3199]]"
+- "[[G4771]]"
+- "[[G4012]]"
+- "[[G3762]]"
+- "[[G1063]]"
+- "[[G0991]]"
+- "[[G1519]]"
+- "[[G4383]]"
+- "[[G0444]]"
+- "[[G0235]]"
+- "[[G1909]]"
+- "[[G0225]]"
+- "[[G3598]]"
+- "[[G2316]]"
+- "[[G1321]]"
+- "[[G1832]]"
+- "[[G1325]]"
+- "[[G2778]]"
+- "[[G2541]]"
+- "[[G2228]]"
+texts:
+- k
+- N(k)O
+- NKO
+---
+
 **Mark 12:14**<big><big>[[Mark.12.13 Paying Taxes to Caesar|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they were come, they say unto him, Master, we know that thou art true, and carest for no man: for thou regardest not the person of men, but teachest the way of God in truth: Is it lawful to give tribute to Caesar, or not?
 <small><sub>**BSB:**</sub></small>
 “Teacher,” they said, “we know that You are honest and seek favor from no one. Indeed, You are impartial and teach the way of God in accordance with the truth. Is it lawful to pay taxes to Caesar or not? Should we pay them or not?”
-<small><sub>**Literal:**</sub></small>
-<the> And having come they say to Him; Teacher, we know that true You are and not there is care to You about no [one]; not for You look on [the] appearance of men but on the basis of [the] truth the way <the> of God teach. Is it lawful to give tribute to Caesar or not?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.13|<< Mark 12:13]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.15|Mark 12:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G2532\|καὶ]]  [[G2064\|ἐλθόντες]]  [[G3004G\|λέγουσιν]]  [[G0846\|αὐτῷ·]]  [[G1320\|διδάσκαλε,]]  [[G6063\|οἴδαμεν]]  [[G3754G\|ὅτι]]  [[G0227\|ἀληθὴς]]  [[G1510\|εἶ]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G3199\|μέλει]]  [[G4771\|σοι]]  [[G4012\|περὶ]]  [[G3762\|οὐδενός·]]  [[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G0991\|βλέπεις]]  [[G1519\|εἰς]]  [[G4383\|πρόσωπον]]  [[G0444\|ἀνθρώπων]]  [[G0235\|ἀλλ᾽]]  [[G1909\|ἐπ᾽]]  [[G0225\|ἀληθείας]]  [[G3588\|τὴν]]  [[G3598\|ὁδὸν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1321\|διδάσκεις.]]  [[G1832\|ἔξεστιν]]  [[G1325\|δοῦναι]]  [[G2778\|κῆνσον]]  [[G2541\|Καίσαρι]]  [[G2228\|ἢ]]  [[G3756\|οὔ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SATIRE|SATIRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.13|<< Mark 12:13]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.15|Mark 12:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

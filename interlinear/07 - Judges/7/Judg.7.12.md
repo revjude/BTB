@@ -1,8 +1,69 @@
+---
+title: Judges 7:12
+type: Verse
+kjv: "And the Midianites and the Amalekites and all the children of the east lay along in the valley like grasshoppers for multitude; and their camels were without number, as the sand by the sea side for multitude."
+bsb: "Now the Midianites, Amalekites, and all the other people of the east had settled in the valley like a swarm of locusts, and their camels were as countless as the sand on the seashore."
+hebrew: "וּמִדְיָ֨ן וַעֲמָלֵ֤ק וְכָל־ בְּנֵי־ קֶ֙דֶם֙ נֹפְלִ֣ים בָּעֵ֔מֶק כָּאַרְבֶּ֖ה לָרֹ֑ב וְלִגְמַלֵּיהֶם֙ אֵ֣ין מִסְפָּ֔ר כַּח֛וֹל שֶׁעַל־ שְׂפַ֥ת הַיָּ֖ם לָרֹֽב׃"
+pericope: "[[Judg.7.9 The Sword of Gideon|The Sword of Gideon]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 7
+book/chapter: "[[Judg.7|Judges 7]]"
+chronological_order: 261
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic MOREH|MOREH]]"
+- "[[topic PITCHER|PITCHER]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9002]]"
+- "[[H4080H]]"
+- "[[H6002G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H6924A]]"
+- "[[H5307G]]"
+- "[[H9003]]"
+- "[[H6010R]]"
+- "[[H9004]]"
+- "[[H0697]]"
+- "[[H9005]]"
+- "[[H7230]]"
+- "[[H1581]]"
+- "[[H9028]]"
+- "[[H0369]]"
+- "[[H4557]]"
+- "[[H2344]]"
+- "[[H9007]]"
+- "[[H5921A]]"
+- "[[H8193J]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 7:12**<big><big>[[Judg.7.9 The Sword of Gideon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Midianites and the Amalekites and all the children of the east lay along in the valley like grasshoppers for multitude; and their camels [were] without number, as the sand by the sea side for multitude.
 <small><sub>**BSB:**</sub></small>
 Now the Midianites, Amalekites, and all the other people of the east had settled in the valley like a swarm of locusts, and their camels were as countless as the sand on the seashore.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4080H\|מִדְיָ֨ן]] [[H9002\|וַ]][[H6002G\|עֲמָלֵ֤ק]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H6924A\|קֶ֙דֶם֙]] [[H5307G\|נֹפְלִ֣ים]] [[H9003\|בָּ]][[H6010R\|עֵ֔מֶק]] [[H9004\|כָּ]][[H0697\|אַרְבֶּ֖ה]] [[H9005\|לָ]][[H7230\|רֹ֑ב]] [[H9002\|וְ]][[H9005\|לִ]][[H1581\|גְמַלֵּי]][[H9028\|הֶם֙]] [[H0369\|אֵ֣ין]] [[H4557\|מִסְפָּ֔ר]] [[H9004\|כַּ]][[H2344\|ח֛וֹל]] [[H9007\|שֶׁ]][[H5921A\|עַל]][[H9014\|־]] [[H8193J\|שְׂפַ֥ת]] [[H9009\|הַ]][[H3220G\|יָּ֖ם]] [[H9005\|לָ]][[H7230\|רֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURAGE|COURAGE]] • [[topic LOCUST|LOCUST]] • [[topic MOREH|MOREH]] • [[topic PITCHER|PITCHER]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.11|<< Judges 7:11]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.13|Judges 7:13 >>]]</td></tr></table>
 

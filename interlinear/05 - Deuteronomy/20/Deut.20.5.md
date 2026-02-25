@@ -1,8 +1,76 @@
+---
+title: Deuteronomy 20:5
+type: Verse
+kjv: "And the officers shall speak unto the people, saying, What man is there that hath built a new house, and hath not dedicated it? let him go and return to his house, lest he die in the battle, and another man dedicate it."
+bsb: "Furthermore, the officers are to address the army, saying, “Has any man built a new house and not dedicated it? Let him return home, or he may die in battle and another man dedicate it."
+hebrew: "וְדִבְּר֣וּ הַשֹּֽׁטְרִים֮ אֶל־ הָעָ֣ם לֵאמֹר֒ מִֽי־ הָאִ֞ישׁ אֲשֶׁ֨ר בָּנָ֤ה בַֽיִת־ חָדָשׁ֙ וְלֹ֣א חֲנָכ֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן־ יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יַחְנְכֶֽנּוּ׃"
+pericope: "[[Deut.20.1 Laws of Warfare|Laws of Warfare]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 20
+book/chapter: "[[Deut.20|Deuteronomy 20]]"
+chronological_order: 216
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic DEDICATION|DEDICATION]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H9009]]"
+- "[[H7860]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H4310]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H1129]]"
+- "[[H1004B]]"
+- "[[H2319H]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2596]]"
+- "[[H9033]]"
+- "[[H1980G]]"
+- "[[H7725G]]"
+- "[[H9023]]"
+- "[[H6435]]"
+- "[[H4191]]"
+- "[[H9003]]"
+- "[[H4421]]"
+- "[[H0312]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 20:5**<big><big>[[Deut.20.1 Laws of Warfare|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the officers shall speak unto the people, saying, What man [is there] that hath built a new house, and hath not dedicated it? let him go and return to his house, lest he die in the battle, and another man dedicate it.
 <small><sub>**BSB:**</sub></small>
 Furthermore, the officers are to address the army, saying, “Has any man built a new house and not dedicated it? Let him return home, or he may die in battle and another man dedicate it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1696G\|דִבְּר֣וּ]] [[H9009\|הַ]][[H7860\|שֹּֽׁטְרִים֮]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H9005\|לֵ]][[H0559\|אמֹר֒]] [[H4310\|מִֽי]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֞ישׁ]] [[H0834A\|אֲשֶׁ֨ר]] [[H1129\|בָּנָ֤ה]] [[H1004B\|בַֽיִת]][[H9014\|־]] [[H2319H\|חָדָשׁ֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H2596\|חֲנָכ֔]][[H9033\|וֹ]] [[H1980G\|יֵלֵ֖ךְ]] [[H9002\|וְ]][[H7725G\|יָשֹׁ֣ב]] [[H9005\|לְ]][[H1004B\|בֵית֑]][[H9023\|וֹ]] [[H6435\|פֶּן]][[H9014\|־]] [[H4191\|יָמוּת֙]] [[H9003\|בַּ]][[H4421\|מִּלְחָמָ֔ה]] [[H9002\|וְ]][[H0376G\|אִ֥ישׁ]] [[H0312\|אַחֵ֖ר]] [[H2596\|יַחְנְכֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic DEDICATION|DEDICATION]] • [[topic HOUSE|HOUSE]] • [[topic SOLDIERS|SOLDIERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.20.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.20.4|<< Deuteronomy 20:4]]</td><td align="center" style="border:none;">[[Deut.20|Deuteronomy 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.20.6|Deuteronomy 20:6 >>]]</td></tr></table>
 

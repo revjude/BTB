@@ -1,8 +1,58 @@
+---
+title: Job 22:27
+type: Verse
+kjv: "Thou shalt make thy prayer unto him, and he shall hear thee, and thou shalt pay thy vows."
+bsb: "You will pray to Him, and He will hear you, and you will fulfill your vows."
+hebrew: "תַּעְתִּ֣יר אֵ֭לָיו וְיִשְׁמָעֶ֑ךָּ וּנְדָרֶ֥יךָ תְשַׁלֵּֽם׃"
+pericope: "[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|Eliphaz：Can a Man Be of Use to God？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 22
+book/chapter: "[[Job.22|Job 22]]"
+chronological_order: 33
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PROSPERITY|PROSPERITY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic VOWS|VOWS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H6279]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H8085G]]"
+- "[[H9031]]"
+- "[[H5088]]"
+- "[[H9021]]"
+- "[[H7999A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 22:27**<big><big>[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt make thy prayer unto him, and he shall hear thee, and thou shalt pay thy vows.
 <small><sub>**BSB:**</sub></small>
 You will pray to Him, and He will hear you, and you will fulfill your vows.
+<small><sub>**Hebrew:**</sub></small>
+[[H6279\|תַּעְתִּ֣יר]] [[H0413\|אֵ֭לָי]][[H9033\|ו]] [[H9002\|וְ]][[H8085G\|יִשְׁמָעֶ֑]][[H9031\|ךָּ]] [[H9002\|וּ]][[H5088\|נְדָרֶ֥י]][[H9021\|ךָ]] [[H7999A\|תְשַׁלֵּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOD|GOD]] • [[topic PENITENT|PENITENT]] • [[topic PRAYER|PRAYER]] • [[topic PROSPERITY|PROSPERITY]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic VOWS|VOWS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.22.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.22.26|<< Job 22:26]]</td><td align="center" style="border:none;">[[Job.22|Job 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.22.28|Job 22:28 >>]]</td></tr></table>
 

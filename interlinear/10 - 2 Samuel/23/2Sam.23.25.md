@@ -1,8 +1,50 @@
+---
+title: 2 Samuel 23:25
+type: Verse
+kjv: "Shammah the Harodite, Elika the Harodite,"
+bsb: "Shammah the Harodite, Elika the Harodite,"
+hebrew: "שַׁמָּה֙ הַֽחֲרֹדִ֔י אֱלִיקָ֖א הַחֲרֹדִֽי׃ ס"
+pericope: "[[2Sam.23.8 David’s Mighty Men|David’s Mighty Men]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 23
+book/chapter: "[[2Sam.23|2 Samuel 23]]"
+chronological_order: 431
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ELIKA|ELIKA]]"
+- "[[topic SHAMMAH|SHAMMAH]]"
+- "[[topic SHAMMOTH|SHAMMOTH]]"
+strongs:
+- "[[H8048H]]"
+- "[[H9009]]"
+- "[[H2733]]"
+- "[[H0470]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Samuel 23:25**<big><big>[[2Sam.23.8 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shammah the Harodite, Elika the Harodite,
 <small><sub>**BSB:**</sub></small>
 Shammah the Harodite, Elika the Harodite,
+<small><sub>**Hebrew:**</sub></small>
+[[H8048H\|שַׁמָּה֙]] [[H9009\|הַֽ]][[H2733\|חֲרֹדִ֔י]] [[H0470\|אֱלִיקָ֖א]] [[H9009\|הַ]][[H2733\|חֲרֹדִֽי]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic ELIKA|ELIKA]] • [[topic SHAMMAH|SHAMMAH]] • [[topic SHAMMOTH|SHAMMOTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.23.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.24|<< 2 Samuel 23:24]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.26|2 Samuel 23:26 >>]]</td></tr></table>
 
@@ -11,7 +53,7 @@ Shammah the Harodite, Elika the Harodite,
 | Shammah  |**<big>&#8207;[[H8048H\|שַׁמָּה֙]]&#8207; </big>**| sha.Mah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Harodite  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H2733\|חֲרֹדִ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> cha.ro.Di<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Elika  |**<big>&#8207;[[H0470\|אֱלִיקָ֖א]]&#8207; </big>**| 'e.li.Ka'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the Harodite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2733\|חֲרֹדִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> cha.ro.Di<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Harodite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2733\|חֲרֹדִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> cha.ro.Di<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.24|<< 2 Samuel 23:24]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.26|2 Samuel 23:26 >>]]</td></tr></table>
 
 

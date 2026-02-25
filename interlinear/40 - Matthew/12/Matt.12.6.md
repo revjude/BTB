@@ -1,10 +1,57 @@
+---
+title: Matthew 12:6
+type: Verse
+kjv: "But I say unto you, That in this place is one greater than the temple."
+bsb: "But I tell you that One greater than the temple is here."
+jesus_said: "But I say unto you, That in this place is one greater than the temple."
+greek: "λέγω δὲ ὑμῖν ὅτι τοῦ ἱεροῦ μεῖζόν ἐστιν ὧδε."
+pericope: "[[Matt.12.1 The Lord of the Sabbath|The Lord of the Sabbath]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic TRADITION|TRADITION]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G2411]]"
+- "[[G3173]]"
+- "[[G1510]]"
+- "[[G5602]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 12:6**<big><big>[[Matt.12.1 The Lord of the Sabbath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But I say unto you, That in this place is [one] greater than the temple.
 <small><sub>**BSB:**</sub></small>
 But I tell you that One greater than the temple is here.
-<small><sub>**Literal:**</sub></small>
-I say however to you that than the temple a greater is here.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.5|<< Matthew 12:5]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.7|Matthew 12:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγω]]  [[G1161\|δὲ]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G3588\|τοῦ]]  [[G2411\|ἱεροῦ]]  [[G3173\|μεῖζόν]]  [[G1510\|ἐστιν]]  [[G5602\|ὧδε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic CHURCH|CHURCH]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]] • [[topic SABBATH|SABBATH]] • [[topic TRADITION|TRADITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.5|<< Matthew 12:5]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.7|Matthew 12:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

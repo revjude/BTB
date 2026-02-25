@@ -7,9 +7,9 @@
 
 3. One of the seven servants (Greek: diakonos) [[Acts.6.5|Ac 6:5]]
 
-- Successfully preaches in Samaria [[Acts.8.4|Ac 8:4]]-[[Acts.8.14|14]]
+- Successfully preaches in Samaria [[Acts.8.4|Ac 8:4-14]]
 
-- Expounds the Scriptures to the Ethiopian eunuch whom he immerses [[Acts.8.27|Ac 8:27]]-[[Acts.8.38|38]]
+- Expounds the Scriptures to the Ethiopian eunuch whom he immerses [[Acts.8.27|Ac 8:27-38]]
 
 - Caught away by the Spirit to Azotus, preaches in the cities,  and goes to Caesarea [[Acts.8.39|Ac 8:39]],[[Acts.8.40|40]]
 
@@ -21,11 +21,11 @@
 
 - Call of [[John.1.43|Joh 1:43]]
 
-- Brings Nathanael to Jesus [[John.1.45|Joh 1:45]]-[[John.1.50|50]]
+- Brings Nathanael to Jesus [[John.1.45|Joh 1:45-50]]
 
-- Assists in caring for the multitude whom Jesus miraculously feeds  [[John.6.5|Joh 6:5]]-[[John.6.7|7]]
+- Assists in caring for the multitude whom Jesus miraculously feeds  [[John.6.5|Joh 6:5-7]]
 
-- Brings certain Greeks to Jesus who desire to see him [[John.12.20|Joh 12:20]]-[[John.12.22|22]]
+- Brings certain Greeks to Jesus who desire to see him [[John.12.20|Joh 12:20-22]]
 
-- Asks Jesus to show the Father [[John.14.8|Joh 14:8]]-[[John.14.13|13]]
+- Asks Jesus to show the Father [[John.14.8|Joh 14:8-13]]
 

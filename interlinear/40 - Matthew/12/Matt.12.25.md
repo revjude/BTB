@@ -1,10 +1,64 @@
+---
+title: Matthew 12:25
+type: Verse
+kjv: "And Jesus knew their thoughts, and said unto them, Every kingdom divided against itself is brought to desolation; and every city or house divided against itself shall not stand:"
+bsb: "Knowing their thoughts, Jesus said to them, “Every kingdom divided against itself will be laid waste, and every city or household divided against itself will not stand."
+jesus_said: "Every kingdom divided against itself is brought to desolation; and every city or house divided against itself shall not stand:"
+greek: "Εἰδὼς δὲ ὁ Ἰησοῦς τὰς ἐνθυμήσεις αὐτῶν εἶπεν αὐτοῖς· πᾶσα βασιλεία μερισθεῖσα καθ᾽ ἑαυτῆς ἐρημοῦται, καὶ πᾶσα πόλις ἢ οἰκία μερισθεῖσα καθ᾽ ἑαυτῆς οὐ σταθήσεται."
+pericope: "[[Matt.12.22 A House Divided|A House Divided]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[G6063]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1761]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G3956]]"
+- "[[G0932]]"
+- "[[G3307]]"
+- "[[G2596]]"
+- "[[G1438]]"
+- "[[G2049]]"
+- "[[G2532]]"
+- "[[G4172]]"
+- "[[G2228]]"
+- "[[G3614H]]"
+- "[[G3756]]"
+- "[[G2476]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 12:25**<big><big>[[Matt.12.22 A House Divided|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus knew their thoughts, and said unto them, Every kingdom divided against itself is brought to desolation; and every city or house divided against itself shall not stand:
 <small><sub>**BSB:**</sub></small>
 Knowing their thoughts, Jesus said to them, “Every kingdom divided against itself will be laid waste, and every city or household divided against itself will not stand.
-<small><sub>**Literal:**</sub></small>
-knowing now <the> Jesus the thoughts of them He said to them; Every kingdom having been divided against itself is brought to desolation, and every city or house having been divided against itself not will stand.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.24|<< Matthew 12:24]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.26|Matthew 12:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|Εἰδὼς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3588\|τὰς]]  [[G1761\|ἐνθυμήσεις]]  [[G0846\|αὐτῶν]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G3956\|πᾶσα]]  [[G0932\|βασιλεία]]  [[G3307\|μερισθεῖσα]]  [[G2596\|καθ᾽]]  [[G1438\|ἑαυτῆς]]  [[G2049\|ἐρημοῦται,]]  [[G2532\|καὶ]]  [[G3956\|πᾶσα]]  [[G4172\|πόλις]]  [[G2228\|ἢ]]  [[G3614H\|οἰκία]]  [[G3307\|μερισθεῖσα]]  [[G2596\|καθ᾽]]  [[G1438\|ἑαυτῆς]]  [[G3756\|οὐ]]  [[G2476\|σταθήσεται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTABILITY|INSTABILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic STRIFE|STRIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.24|<< Matthew 12:24]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.26|Matthew 12:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

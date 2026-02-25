@@ -1,8 +1,63 @@
+---
+title: Psalm 51:2
+type: Verse
+kjv: "Wash me throughly from mine iniquity, and cleanse me from my sin."
+bsb: "Wash me clean of my iniquity and cleanse me from my sin."
+hebrew: "הֶ֭רֶב כַּבְּסֵ֣נִי מֵעֲוֹנִ֑י וּֽמֵחַטָּאתִ֥י טַהֲרֵֽנִי׃"
+pericope: "[[Ps.51.1 Create in Me a Clean Heart, O God|Create in Me a Clean Heart, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 51
+book/chapter: "[[Ps.51|Psalm 51]]"
+chronological_order: 425
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic REMORSE|REMORSE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H7235A]]"
+- "[[H3526H]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H5771G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H2403B]]"
+- "[[H2891]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Psalms 51:2**<big><big>[[Ps.51.1 Create in Me a Clean Heart, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wash me throughly from mine iniquity, and cleanse me from my sin.
 <small><sub>**BSB:**</sub></small>
 Wash me clean of my iniquity and cleanse me from my sin.
+<small><sub>**Hebrew:**</sub></small>
+[[H7235A\|הֶ֭רֶב]] [[H3526H\|כַּבְּסֵ֣]][[H9030\|נִי]] [[H9006\|מֵ]][[H5771G\|עֲוֹנִ֑]][[H9020\|י]] [[H9002\|וּֽ]][[H9006\|מֵ]][[H2403B\|חַטָּאתִ֥]][[H9020\|י]] [[H2891\|טַהֲרֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic CONVICTION|CONVICTION]] • [[topic DESIRE|DESIRE]] • [[topic HOMICIDE|HOMICIDE]] • [[topic PRAYER|PRAYER]] • [[topic REGENERATION|REGENERATION]] • [[topic REMORSE|REMORSE]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.51.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.51.1|<< Psalms 51:1]]</td><td align="center" style="border:none;">[[Ps.51|Psalms 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.51.3|Psalms 51:3 >>]]</td></tr></table>
 

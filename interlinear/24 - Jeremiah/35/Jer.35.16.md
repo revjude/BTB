@@ -1,8 +1,68 @@
+---
+title: Jeremiah 35:16
+type: Verse
+kjv: "Because the sons of Jonadab the son of Rechab have performed the commandment of their father, which he commanded them; but this people hath not hearkened unto me:"
+bsb: "Yes, the sons of Jonadab son of Rechab carried out the command their forefather gave them, but these people have not listened to Me."
+hebrew: "כִּ֣י הֵקִ֗ימוּ בְּנֵי֙ יְהוֹנָדָ֣ב בֶּן־ רֵכָ֔ב אֶת־ מִצְוַ֥ת אֲבִיהֶ֖ם אֲשֶׁ֣ר צִוָּ֑ם וְהָעָ֣ם הַזֶּ֔ה לֹ֥א שָׁמְע֖וּ אֵלָֽי׃ ס"
+pericope: "[[Jer.35.12 Judah Rebuked|Judah Rebuked]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 35
+book/chapter: "[[Jer.35|Jeremiah 35]]"
+chronological_order: 758
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic JONADAB|JONADAB]]"
+- "[[topic RECHAB|RECHAB]]"
+strongs:
+- "[[H3588A]]"
+- "[[H6965I]]"
+- "[[H1121A]]"
+- "[[H3082G]]"
+- "[[H9014]]"
+- "[[H7394H]]"
+- "[[H0853]]"
+- "[[H4687]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H3808]]"
+- "[[H8085H]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 35:16**<big><big>[[Jer.35.12 Judah Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because the sons of Jonadab the son of Rechab have performed the commandment of their father, which he commanded them; but this people hath not hearkened unto me:
 <small><sub>**BSB:**</sub></small>
 Yes, the sons of Jonadab son of Rechab carried out the command their forefather gave them, but these people have not listened to Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H6965I\|הֵקִ֗ימוּ]] [[H1121A\|בְּנֵי֙]] [[H3082G\|יְהוֹנָדָ֣ב]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7394H\|רֵכָ֔ב]] [[H0853\|אֶת]][[H9014\|־]] [[H4687\|מִצְוַ֥ת]] [[H0001G\|אֲבִי]][[H9028\|הֶ֖ם]] [[H0834A\|אֲשֶׁ֣ר]] [[H6680\|צִוָּ֑]][[H9038\|ם]] [[H9002\|וְ]][[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H3808\|לֹ֥א]] [[H8085H\|שָׁמְע֖וּ]] [[H0413\|אֵלָֽ]][[H9030\|י]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMPENITENCE|IMPENITENCE]] • [[topic INTEGRITY|INTEGRITY]] • [[topic JONADAB|JONADAB]] • [[topic RECHAB|RECHAB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.35.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.35.15|<< Jeremiah 35:15]]</td><td align="center" style="border:none;">[[Jer.35|Jeremiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35.17|Jeremiah 35:17 >>]]</td></tr></table>
 
@@ -23,7 +83,7 @@ Yes, the sons of Jonadab son of Rechab carried out the command their forefather 
 | \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּ֔ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have listened  |**<big>&#8207;[[H8085H\|שָׁמְע֖וּ]]&#8207; </big>**| sha.me.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to me  |**<big>&#8207;[[H0413\|אֵלָֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to me  |**<big>&#8207;[[H0413\|אֵלָֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.35.15|<< Jeremiah 35:15]]</td><td align="center" style="border:none;">[[Jer.35|Jeremiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35.17|Jeremiah 35:17 >>]]</td></tr></table>
 
 

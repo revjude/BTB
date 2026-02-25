@@ -1,8 +1,84 @@
+---
+title: Deuteronomy 28:20
+type: Verse
+kjv: "The LORD shall send upon thee cursing, vexation, and rebuke, in all that thou settest thine hand unto for to do, until thou be destroyed, and until thou perish quickly; because of the wickedness of thy doings, whereby thou hast forsaken me."
+bsb: "The LORD will send curses upon you, confusion and reproof in all to which you put your hand, until you are destroyed and quickly perish because of the wickedness you have committed in forsaking Him."
+hebrew: "יְשַׁלַּ֣ח יְהוָ֣ה׀ בְּ֠ךָ אֶת־ הַמְּאֵרָ֤ה אֶת־ הַמְּהוּמָה֙ וְאֶת־ הַמִּגְעֶ֔רֶת בְּכָל־ מִשְׁלַ֥ח יָדְךָ֖ אֲשֶׁ֣ר תַּעֲשֶׂ֑ה עַ֣ד הִשָּֽׁמֶדְךָ֤ וְעַד־ אֲבָדְךָ֙ מַהֵ֔ר מִפְּנֵ֛י רֹ֥עַ מַֽעֲלָלֶ֖יךָ אֲשֶׁ֥ר עֲזַבְתָּֽנִי׃"
+pericope: "[[Deut.28.15 The Curses of Disobedience|The Curses of Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7971G]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3994]]"
+- "[[H4103]]"
+- "[[H9002]]"
+- "[[H4045]]"
+- "[[H3605]]"
+- "[[H4916A]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H5704]]"
+- "[[H8045]]"
+- "[[H9041]]"
+- "[[H0006]]"
+- "[[H4118B]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H7455]]"
+- "[[H4611]]"
+- "[[H5800A]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:20**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD shall send upon thee cursing, vexation, and rebuke, in all that thou settest thine hand unto for to do, until thou be destroyed, and until thou perish quickly; because of the wickedness of thy doings, whereby thou hast forsaken me.
 <small><sub>**BSB:**</sub></small>
 The LORD will send curses upon you, confusion and reproof in all to which you put your hand, until you are destroyed and quickly perish because of the wickedness you have committed in forsaking Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H7971G\|יְשַׁלַּ֣ח]] [[H3068G\|יְהוָ֣ה]][[H9015\|׀]] [[H9003\|בְּ֠]][[H9031\|ךָ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3994\|מְּאֵרָ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4103\|מְּהוּמָה֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4045\|מִּגְעֶ֔רֶת]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H4916A\|מִשְׁלַ֥ח]] [[H3027G\|יָדְ]][[H9021\|ךָ֖]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213A\|תַּעֲשֶׂ֑ה]] [[H5704\|עַ֣ד]] [[H8045\|הִשָּֽׁמֶדְ]][[H9041\|ךָ֤]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H0006\|אֲבָדְ]][[H9041\|ךָ֙]] [[H4118B\|מַהֵ֔ר]] [[H9006\|מִ]][[H6440I\|פְּנֵ֛י]] [[H7455\|רֹ֥עַ]] [[H4611\|מַֽעֲלָלֶ֖י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֥ר]] [[H5800A\|עֲזַבְתָּֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.19|<< Deuteronomy 28:19]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.21|Deuteronomy 28:21 >>]]</td></tr></table>
 

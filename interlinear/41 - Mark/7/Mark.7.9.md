@@ -1,10 +1,63 @@
+---
+title: Mark 7:9
+type: Verse
+kjv: "And he said unto them, Full well ye reject the commandment of God, that ye may keep your own tradition."
+bsb: "He went on to say, “You neatly set aside the command of God to maintain your own tradition."
+jesus_said: "Full well ye reject the commandment of God, that ye may keep your own tradition."
+greek: "καὶ ἔλεγεν αὐτοῖς· καλῶς ἀθετεῖτε τὴν ἐντολὴν τοῦ θεοῦ ἵνα τὴν παράδοσιν ὑμῶν στήσητε."
+pericope: "[[Mark.7.1 The Tradition of the Elders|The Tradition of the Elders]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 7
+book/chapter: "[[Mark.7|Mark 7]]"
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic TRADITION|TRADITION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G2573]]"
+- "[[G0114]]"
+- "[[G3588]]"
+- "[[G1785]]"
+- "[[G2316]]"
+- "[[G2443]]"
+- "[[G3862]]"
+- "[[G4771]]"
+- "[[G2476]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 7:9**<big><big>[[Mark.7.1 The Tradition of the Elders|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Full well ye reject the commandment of God, that ye may keep your own tradition.
 <small><sub>**BSB:**</sub></small>
 He went on to say, “You neatly set aside the command of God to maintain your own tradition.
-<small><sub>**Literal:**</sub></small>
-And He was saying to them; Neatly do you set aside the commandment <the> of God that the tradition of you you may maintain.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.8|<< Mark 7:8]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.10|Mark 7:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|ἔλεγεν]]  [[G0846\|αὐτοῖς·]]  [[G2573\|καλῶς]]  [[G0114\|ἀθετεῖτε]]  [[G3588\|τὴν]]  [[G1785\|ἐντολὴν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2443\|ἵνα]]  [[G3588\|τὴν]]  [[G3862\|παράδοσιν]]  [[G4771\|ὑμῶν]]  [[G2476\|στήσητε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic CHILDREN|CHILDREN]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOSES|MOSES]] • [[topic PHARISEES|PHARISEES]] • [[topic PURIFICATION|PURIFICATION]] • [[topic TRADITION|TRADITION]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.8|<< Mark 7:8]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.10|Mark 7:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

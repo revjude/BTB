@@ -1,10 +1,71 @@
+---
+title: Luke 19:5
+type: Verse
+kjv: "And when Jesus came to the place, he looked up, and saw him, and said unto him, Zacchaeus, make haste, and come down; for to day I must abide at thy house."
+bsb: "When Jesus came to that place, He looked up and said, “Zacchaeus, hurry down, for I must stay at your house today.”"
+jesus_said: "Zaccheus, make haste, and come down; for to day I must abide at thy house."
+greek: "καὶ ὡς ἦλθεν ἐπὶ τὸν τόπον, ἀναβλέψας ὁ Ἰησοῦς εἶδεν αὐτόν καὶ εἶπεν πρὸς αὐτόν· Ζακχαῖε, σπεύσας κατάβηθι· σήμερον γὰρ ἐν τῷ οἴκῳ σου δεῖ με μεῖναι."
+pericope: "[[Luke.19.1 Jesus and Zacchaeus|Jesus and Zacchaeus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PUBLICANS|PUBLICANS]]"
+- "[[topic ZACCHAEUS (ZACCHEUS)|ZACCHAEUS (ZACCHEUS)]]"
+strongs:
+- "[[G2532]]"
+- "[[G5613]]"
+- "[[G2064]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G5117]]"
+- "[[G0308]]"
+- "[[G2424G]]"
+- "[[G1492H]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G2195]]"
+- "[[G4692]]"
+- "[[G2597]]"
+- "[[G4594]]"
+- "[[G1063]]"
+- "[[G1722]]"
+- "[[G3624G]]"
+- "[[G4771]]"
+- "[[G1163]]"
+- "[[G3165]]"
+- "[[G3306]]"
+texts:
+- NKO
+- K
+---
+
 **Luke 19:5**<big><big>[[Luke.19.1 Jesus and Zacchaeus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when Jesus came to the place, he looked up, and saw him, and said unto him, Zacchaeus, make haste, and come down; for to day I must abide at thy house.
 <small><sub>**BSB:**</sub></small>
 When Jesus came to that place, He looked up and said, “Zacchaeus, hurry down, for I must stay at your house today.”
-<small><sub>**Literal:**</sub></small>
-And as He came to the place, having looked up <the> Jesus he saw him and said to him; Zacchaeus, having hurried do come down; today for in the house of you it behooves Me to stay.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.4|<< Luke 19:4]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.6|Luke 19:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5613\|ὡς]]  [[G2064\|ἦλθεν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G5117\|τόπον,]]  [[G0308\|ἀναβλέψας]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G1492H\|εἶδεν]]  [[G0846\|αὐτόν]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν·]]  [[G2195\|Ζακχαῖε,]]  [[G4692\|σπεύσας]]  [[G2597\|κατάβηθι·]]  [[G4594\|σήμερον]]  [[G1063\|γὰρ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3624G\|οἴκῳ]]  [[G4771\|σου]]  [[G1163\|δεῖ]]  [[G3165\|με]]  [[G3306\|μεῖναι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic JERICHO|JERICHO]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PUBLICANS|PUBLICANS]] • [[topic ZACCHAEUS (ZACCHEUS)|ZACCHAEUS (ZACCHEUS)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.4|<< Luke 19:4]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.6|Luke 19:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

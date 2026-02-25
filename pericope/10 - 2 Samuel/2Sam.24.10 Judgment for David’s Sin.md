@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment for David’s Sin
+type: Pericope
 pericope: "[[2Sam.24.10 Judgment for David’s Sin|Judgment for David’s Sin]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 24
 book/chapter: "[[2Sam.24|2 Samuel 24]]"
-genre:
+chronological_order: 432
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 5
 verses:
 - "[[2Sam.24.10]]"
 - "[[2Sam.24.11]]"
@@ -24,7 +31,7 @@ verses:
 - "[[2Sam.24.14]]"
 ---
 
-[[2Sam.24|2 Samuel 24:10 - 2 Samuel 24:14]]
+<small>[[2Sam.24|2 Samuel 24:10-14]]</small>
 *Judgment for David’s Sin*
 
 [[2Sam.24.10|10]] And David’s heart smote him after that he had numbered the people. And David said unto the LORD, I have sinned greatly in that I have done: and now, I beseech thee, O LORD, take away the iniquity of thy servant; for I have done very foolishly.

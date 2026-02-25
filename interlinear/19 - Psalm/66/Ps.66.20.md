@@ -1,8 +1,60 @@
+---
+title: Psalm 66:20
+type: Verse
+kjv: "Blessed be God, which hath not turned away my prayer, nor his mercy from me."
+bsb: "Blessed be God, who has not rejected my prayer or withheld from me His loving devotion!"
+hebrew: "בָּר֥וּךְ אֱלֹהִ֑ים אֲשֶׁ֥ר לֹֽא־ הֵסִ֘יר תְּפִלָּתִ֥י וְ֝חַסְדּ֗וֹ מֵאִתִּֽי׃"
+pericope: "[[Ps.66.1 Make a Joyful Noise|Make a Joyful Noise]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 66
+book/chapter: "[[Ps.66|Psalm 66]]"
+chronological_order: 426
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H1288]]"
+- "[[H0430G]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5493I]]"
+- "[[H8605]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H2617A]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 66:20**<big><big>[[Ps.66.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [be] God, which hath not turned away my prayer, nor his mercy from me.
 <small><sub>**BSB:**</sub></small>
 Blessed be God, who has not rejected my prayer or withheld from me His loving devotion!
+<small><sub>**Hebrew:**</sub></small>
+[[H1288\|בָּר֥וּךְ]] [[H0430G\|אֱלֹהִ֑ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5493I\|הֵסִ֘יר]] [[H8605\|תְּפִלָּתִ֥]][[H9020\|י]] [[H9002\|וְ֝]][[H2617A\|חַסְדּ֗]][[H9023\|וֹ]] [[H9006\|מֵ]][[H0854\|אִתִּֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic TESTIMONY|TESTIMONY]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.19|<< Psalms 66:19]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.67.0|Psalms 67:0 >>]]</td></tr></table>
 

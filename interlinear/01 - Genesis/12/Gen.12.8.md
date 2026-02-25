@@ -1,8 +1,78 @@
+---
+title: Genesis 12:8
+type: Verse
+kjv: "And he removed from thence unto a mountain on the east of Bethel, and pitched his tent, having Bethel on the west, and Hai on the east: and there he builded an altar unto the LORD, and called upon the name of the LORD."
+bsb: "From there Abram moved on to the hill country east of Bethel and pitched his tent, with Bethel to the west and Ai to the east. There he built an altar to the LORD, and he called on the name of the LORD."
+hebrew: "וַיַּעְתֵּ֨ק מִשָּׁ֜ם הָהָ֗רָה מִקֶּ֛דֶם לְבֵֽית־ אֵ֖ל וַיֵּ֣ט אָהְָל֑וֹ בֵּֽית־ אֵ֤ל מִיָּם֙ וְהָעַ֣י מִקֶּ֔דֶם וַיִּֽבֶן־ שָׁ֤ם מִזְבֵּ֙חַ֙ לַֽיהוָ֔ה וַיִּקְרָ֖א בְּשֵׁ֥ם יְהוָֽה׃"
+pericope: "[[Gen.12.1 The Call of Abram|The Call of Abram]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 12
+book/chapter: "[[Gen.12|Genesis 12]]"
+chronological_order: 54
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic HAI|HAI]]"
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic TENT|TENT]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H6275]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H9009]]"
+- "[[H2022H]]"
+- "[[H9011]]"
+- "[[H6924G]]"
+- "[[H9005]]"
+- "[[H1008G]]"
+- "[[H9014]]"
+- "[[H5186]]"
+- "[[H0168G]]"
+- "[[H9023]]"
+- "[[H3220H]]"
+- "[[H9002]]"
+- "[[H5857G]]"
+- "[[H1129]]"
+- "[[H4196]]"
+- "[[H3068G]]"
+- "[[H7121G]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Genesis 12:8**<big><big>[[Gen.12.1 The Call of Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he removed from thence unto a mountain on the east of Bethel, and pitched his tent, [having] Bethel on the west, and Hai on the east: and there he builded an altar unto the LORD, and called upon the name of the LORD.
 <small><sub>**BSB:**</sub></small>
 From there Abram moved on to the hill country east of Bethel and pitched his tent, with Bethel to the west and Ai to the east. There he built an altar to the LORD, and he called on the name of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6275\|יַּעְתֵּ֨ק]] [[H9006\|מִ]][[H8033G\|שָּׁ֜ם]] [[H9009\|הָ]][[H2022H\|הָ֗רָ]][[H9011\|ה]] [[H9006\|מִ]][[H6924G\|קֶּ֛דֶם]] [[H9005\|לְ]][[H1008G\|בֵֽית]][[H9014\|־]] [[H1008G\|אֵ֖ל]] [[H9001\|וַ]][[H5186\|יֵּ֣ט]] [[H0168G\|אָהְָל֑]][[H9023\|וֹ]] [[H1008G\|בֵּֽית]][[H9014\|־]] [[H1008G\|אֵ֤ל]] [[H9006\|מִ]][[H3220H\|יָּם֙]] [[H9002\|וְ]][[H9009\|הָ]][[H5857G\|עַ֣י]] [[H9006\|מִ]][[H6924G\|קֶּ֔דֶם]] [[H9001\|וַ]][[H1129\|יִּֽבֶן]][[H9014\|־]] [[H8033G\|שָׁ֤ם]] [[H4196\|מִזְבֵּ֙חַ֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H9001\|וַ]][[H7121G\|יִּקְרָ֖א]] [[H9003\|בְּ]][[H8034\|שֵׁ֥ם]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic ALTAR|ALTAR]] • [[topic BETH-EL|BETH-EL]] • [[topic COURAGE|COURAGE]] • [[topic FAMILY|FAMILY]] • [[topic HAI|HAI]] • [[topic HIGH PLACES|HIGH PLACES]] • [[topic PRAYER|PRAYER]] • [[topic RELIGION|RELIGION]] • [[topic TENT|TENT]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.12.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.7|<< Genesis 12:7]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.9|Genesis 12:9 >>]]</td></tr></table>
 
@@ -30,7 +100,7 @@ From there Abram moved on to the hill country east of Bethel and pitched his ten
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.7|<< Genesis 12:7]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.9|Genesis 12:9 >>]]</td></tr></table>
 
-[^1]: tent his  | **<big>[[H9023|ה]]</big><big>[[H0168G|אָהֳלֹ]]</big> ** | 'o.ho.Lo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: tent his  | **<big>[[H9023|ה]]</big><big>[[H0168G|אָהֳלֹ]]</big> ** | 'o.ho.Lo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: tent his  | **<big>[[H0168G|אָהֳלֹ]]</big><big>[[H9023|ה]]</big> ** | 'o.ho.Lo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: tent his  | **<big>[[H0168G|אָהֳלֹ]]</big><big>[[H9023|ה]]</big> ** | 'o.ho.Lo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>אָהֳלֹ֑ה</big></span>**
 

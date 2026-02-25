@@ -1,10 +1,63 @@
+---
+title: Matthew 14:26
+type: Verse
+kjv: "And when the disciples saw him walking on the sea, they were troubled, saying, It is a spirit; and they cried out for fear."
+bsb: "When the disciples saw Him walking on the sea, they were terrified. “It’s a ghost!” they said, and cried out in fear."
+greek: "Οἱ δὲ μαθηταὶ ἰδόντες αὐτὸν ἐπὶ τῆς θαλάσσης περιπατοῦντα ἐταράχθησαν λέγοντες ὅτι φάντασμά ἐστιν, καὶ ἀπὸ τοῦ φόβου ἔκραξαν."
+pericope: "[[Matt.14.22 Jesus Walks on Water|Jesus Walks on Water]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 14
+book/chapter: "[[Matt.14|Matthew 14]]"
+chronological_order: 964
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SEA|SEA]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3101]]"
+- "[[G1492H]]"
+- "[[G0846]]"
+- "[[G1909]]"
+- "[[G2281]]"
+- "[[G4043]]"
+- "[[G5015]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G5326]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G5401]]"
+- "[[G2896]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 14:26**<big><big>[[Matt.14.22 Jesus Walks on Water|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the disciples saw him walking on the sea, they were troubled, saying, It is a spirit; and they cried out for fear.
 <small><sub>**BSB:**</sub></small>
 When the disciples saw Him walking on the sea, they were terrified. “It’s a ghost!” they said, and cried out in fear.
-<small><sub>**Literal:**</sub></small>
-<the> and the disciples having seen Him on the sea walking they were troubled saying that A ghost it is! And in <the> fear they cried out.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.25|<< Matthew 14:25]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.27|Matthew 14:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Οἱ]]  [[G1161\|δὲ]]  [[G3101\|μαθηταὶ]]  [[G1492H\|ἰδόντες]]  [[G0846\|αὐτὸν]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G2281\|θαλάσσης]]  [[G4043\|περιπατοῦντα]]  [[G5015\|ἐταράχθησαν]]  [[G3004G\|λέγοντες]]  [[G3754G\|ὅτι]]  [[G5326\|φάντασμά]]  [[G1510\|ἐστιν,]]  [[G2532\|καὶ]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G5401\|φόβου]]  [[G2896\|ἔκραξαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SEA|SEA]] • [[topic SUPERSTITION|SUPERSTITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.25|<< Matthew 14:25]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.27|Matthew 14:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,68 @@
+---
+title: 2 Kings 3:26
+type: Verse
+kjv: "And when the king of Moab saw that the battle was too sore for him, he took with him seven hundred men that drew swords, to break through even unto the king of Edom: but they could not."
+bsb: "When the king of Moab saw that the battle was too fierce for him, he took with him seven hundred swordsmen to break through to the king of Edom, but they could not prevail."
+hebrew: "וַיַּרְא֙ מֶ֣לֶךְ מוֹאָ֔ב כִּֽי־ חָזַ֥ק מִמֶּ֖נּוּ הַמִּלְחָמָ֑ה וַיִּקַּ֣ח א֠וֹתוֹ שְׁבַע־ מֵא֨וֹת אִ֜ישׁ שֹׁ֣לֵֽף חֶ֗רֶב לְהַבְקִ֛יעַ אֶל־ מֶ֥לֶךְ אֱד֖וֹם וְלֹ֥א יָכֹֽלוּ׃"
+pericope: "[[2Kgs.3.1 Moab’s Rebellion|Moab’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 3
+book/chapter: "[[2Kgs.3|2 Kings 3]]"
+chronological_order: 575
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MOABITES|MOABITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H4428G]]"
+- "[[H4124G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2388J]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H4421]]"
+- "[[H3947G]]"
+- "[[H0854]]"
+- "[[H7651]]"
+- "[[H3967]]"
+- "[[H0376G]]"
+- "[[H8025]]"
+- "[[H2719]]"
+- "[[H9005]]"
+- "[[H1234]]"
+- "[[H0413]]"
+- "[[H0123G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 3:26**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the king of Moab saw that the battle was too sore for him, he took with him seven hundred men that drew swords, to break through [even] unto the king of Edom: but they could not.
 <small><sub>**BSB:**</sub></small>
 When the king of Moab saw that the battle was too fierce for him, he took with him seven hundred swordsmen to break through to the king of Edom, but they could not prevail.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּרְא֙]] [[H4428G\|מֶ֣לֶךְ]] [[H4124G\|מוֹאָ֔ב]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2388J\|חָזַ֥ק]] [[H4480A\|מִמֶּ֖]][[H9033\|נּוּ]] [[H9009\|הַ]][[H4421\|מִּלְחָמָ֑ה]] [[H9001\|וַ]][[H3947G\|יִּקַּ֣ח]] [[H0854\|א֠וֹת]][[H9033\|וֹ]] [[H7651\|שְׁבַע]][[H9014\|־]] [[H3967\|מֵא֨וֹת]] [[H0376G\|אִ֜ישׁ]] [[H8025\|שֹׁ֣לֵֽף]] [[H2719\|חֶ֗רֶב]] [[H9005\|לְ]][[H1234\|הַבְקִ֛יעַ]] [[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֥לֶךְ]] [[H0123G\|אֱד֖וֹם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3201\|יָכֹֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic IDOLATRY|IDOLATRY]] • [[topic MOABITES|MOABITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.25|<< 2 Kings 3:25]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.27|2 Kings 3:27 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Job 39:4
+type: Verse
+kjv: "Their young ones are in good liking, they grow up with corn; they go forth, and return not unto them."
+bsb: "Their young ones thrive and grow up in the open field; they leave and do not return."
+hebrew: "יַחְלְמ֣וּ בְ֭נֵיהֶם יִרְבּ֣וּ בַבָּ֑ר יָ֝צְא֗וּ וְלֹא־ שָׁ֥בוּ לָֽמוֹ׃"
+pericope: "[[Job.39.1 The LORD Speaks of His Creation|The LORD Speaks of His Creation]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 39
+book/chapter: "[[Job.39|Job 39]]"
+chronological_order: 50
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H2492A]]"
+- "[[H1121A]]"
+- "[[H9028]]"
+- "[[H7235A]]"
+- "[[H9003]]"
+- "[[H1250B]]"
+- "[[H3318G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7725G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 39:4**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their young ones are in good liking, they grow up with corn; they go forth, and return not unto them.
 <small><sub>**BSB:**</sub></small>
 Their young ones thrive and grow up in the open field; they leave and do not return.
+<small><sub>**Hebrew:**</sub></small>
+[[H2492A\|יַחְלְמ֣וּ]] [[H1121A\|בְ֭נֵי]][[H9028\|הֶם]] [[H7235A\|יִרְבּ֣וּ]] [[H9003\|בַ]][[H1250B\|בָּ֑ר]] [[H3318G\|יָ֝צְא֗וּ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H7725G\|שָׁ֥בוּ]] [[H9005\|לָֽ]][[H9038\|מוֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.3|<< Job 39:3]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.5|Job 39:5 >>]]</td></tr></table>
 

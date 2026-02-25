@@ -1,10 +1,62 @@
+---
+title: Galatians 4:24
+type: Verse
+kjv: "Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar."
+bsb: "These things serve as illustrations, for the women represent two covenants. One covenant is from Mount Sinai and bears children into slavery: This is Hagar."
+greek: "ἅτινά ἐστιν ἀλληγορούμενα· αὗται γάρ εἰσιν αἱ δύο διαθῆκαι, μία μὲν ἀπὸ ὄρους Σινᾶ εἰς δουλείαν γεννῶσα ἥτις ἐστὶν Ἁγάρ."
+pericope: "[[Gal.4.21 Hagar and Sarah|Hagar and Sarah]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 4
+book/chapter: "[[Gal.4|Galatians 4]]"
+chronological_order: 1042
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic ALLEGORY|ALLEGORY]]"
+- "[[topic HAGAR|HAGAR]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic SINAI|SINAI]]"
+strongs:
+- "[[G3748]]"
+- "[[G1510]]"
+- "[[G0238]]"
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G1417]]"
+- "[[G1242]]"
+- "[[G1520]]"
+- "[[G3303]]"
+- "[[G0575]]"
+- "[[G3735]]"
+- "[[G4614]]"
+- "[[G1519]]"
+- "[[G1397]]"
+- "[[G1080]]"
+- "[[G0028]]"
+texts:
+- NKO
+- k
+---
+
 **Galatians 4:24**<big><big>[[Gal.4.21 Hagar and Sarah|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar.
 <small><sub>**BSB:**</sub></small>
 These things serve as illustrations, for the women represent two covenants. One covenant is from Mount Sinai and bears children into slavery: This is Hagar.
-<small><sub>**Literal:**</sub></small>
-which things are allegorized; these for are <the> two covenants, one indeed from Mount Sinai unto slavery begetting which is Hagar.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.23|<< Galatians 4:23]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.25|Galatians 4:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3748\|ἅτινά]]  [[G1510\|ἐστιν]]  [[G0238\|ἀλληγορούμενα·]]  [[G3778\|αὗται]]  [[G1063\|γάρ]]  [[G1510\|εἰσιν]]  [[G3588\|αἱ]]  [[G1417\|δύο]]  [[G1242\|διαθῆκαι,]]  [[G1520\|μία]]  [[G3303\|μὲν]]  [[G0575\|ἀπὸ]]  [[G3735\|ὄρους]]  [[G4614\|Σινᾶ]]  [[G1519\|εἰς]]  [[G1397\|δουλείαν]]  [[G1080\|γεννῶσα]]  [[G3748\|ἥτις]]  [[G1510\|ἐστὶν]]  [[G0028\|Ἁγάρ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic ALLEGORY|ALLEGORY]] • [[topic HAGAR|HAGAR]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic PARABLES|PARABLES]] • [[topic SINAI|SINAI]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.23|<< Galatians 4:23]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.25|Galatians 4:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,66 @@
+---
+title: 2 Chronicles 29:6
+type: Verse
+kjv: "For our fathers have trespassed, and done that which was evil in the eyes of the LORD our God, and have forsaken him, and have turned away their faces from the habitation of the LORD, and turned their backs."
+bsb: "For our fathers were unfaithful and did evil in the sight of the LORD our God. They abandoned Him, turned their faces away from the dwelling place of the LORD, and turned their backs on Him."
+hebrew: "כִּֽי־ מָעֲל֣וּ אֲבֹתֵ֗ינוּ וְעָשׂ֥וּ הָרַ֛ע בְּעֵינֵ֥י יְהוָֽה־ אֱלֹהֵ֖ינוּ וַיַּֽעַזְבֻ֑הוּ וַיַּסֵּ֧בּוּ פְנֵיהֶ֛ם מִמִּשְׁכַּ֥ן יְהוָ֖ה וַיִּתְּנוּ־ עֹֽרֶף׃"
+pericope: "[[2Chr.29.1 Hezekiah Cleanses the Temple|Hezekiah Cleanses the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 29
+book/chapter: "[[2Chr.29|2 Chronicles 29]]"
+chronological_order: 659
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4603]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H5800A]]"
+- "[[H9033]]"
+- "[[H5437G]]"
+- "[[H6440H]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H4908]]"
+- "[[H5414H]]"
+- "[[H6203]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 29:6**<big><big>[[2Chr.29.1 Hezekiah Cleanses the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For our fathers have trespassed, and done [that which was] evil in the eyes of the LORD our God, and have forsaken him, and have turned away their faces from the habitation of the LORD, and turned [their] backs.
 <small><sub>**BSB:**</sub></small>
 For our fathers were unfaithful and did evil in the sight of the LORD our God. They abandoned Him, turned their faces away from the dwelling place of the LORD, and turned their backs on Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H4603\|מָעֲל֣וּ]] [[H0001G\|אֲבֹתֵ֗י]][[H9025\|נוּ]] [[H9001\|וְ]][[H6213A\|עָשׂ֥וּ]] [[H9009\|הָ]][[H7451H\|רַ֛ע]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֥י]] [[H3068G\|יְהוָֽה]][[H9014\|־]] [[H0430G\|אֱלֹהֵ֖י]][[H9025\|נוּ]] [[H9001\|וַ]][[H5800A\|יַּֽעַזְבֻ֑]][[H9033\|הוּ]] [[H9001\|וַ]][[H5437G\|יַּסֵּ֧בּוּ]] [[H6440H\|פְנֵי]][[H9028\|הֶ֛ם]] [[H9006\|מִ]][[H4908\|מִּשְׁכַּ֥ן]] [[H3068G\|יְהוָ֖ה]] [[H9001\|וַ]][[H5414H\|יִּתְּנוּ]][[H9014\|־]] [[H6203\|עֹֽרֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic PRIEST|PRIEST]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.5|<< 2 Chronicles 29:5]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.7|2 Chronicles 29:7 >>]]</td></tr></table>
 

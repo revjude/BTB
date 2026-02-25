@@ -1,6 +1,65 @@
+---
+title: LXX 1 Samuel 9:3
+type: Verse
+lxx: "And the donkeys of Kish the father were lost of Saul. And Kish said to Saul  his son, Take with yourself one of the servant-lads, and rise up and go and seek the donkeys!"
+greek: "και απώλοντο αι όνοι Κις του πατρός Σαούλ και είπε Κις προς Σαούλ τον υιόν αυτού λάβε μετά σεαυτού εν των παιδαρίων και ανάστητε και πορεύθητε και ζητήσατε τας όνους"
+original_language: Greek
+testament: Old
+book: 1 Samuel
+chapter: 9
+book/chapter: "[[1Sam.9|1 Samuel 9]]"
+chronological_order: 288
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic KISH|KISH]]"
+strongs:
+- "[[G2532]]"
+- "[[G0622]]"
+- "[[G3588]]"
+- "[[G3688]]"
+- "[[G2797]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G4549]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G2797]]"
+- "[[G4314]]"
+- "[[G4549]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G1473]]"
+- "[[G2983]]"
+- "[[G3326]]"
+- "[[G4572]]"
+- "[[G1520]]"
+- "[[G3588]]"
+- "[[G3808]]"
+- "[[G2532]]"
+- "[[G0450]]"
+- "[[G2532]]"
+- "[[G4198]]"
+- "[[G2532]]"
+- "[[G2212]]"
+- "[[G3588]]"
+- "[[G3688]]"
+---
+
 **LXX 1 Samuel 9:3** 
 <small><sub>**LXX:**</sub></small>
 And the donkeys of Kish the father were lost of Saul. And Kish said to Saul  his son, Take with yourself one of the servant-lads, and rise up and go and seek the donkeys! 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0622\|απώλοντο]] [[G3588\|αι]] [[G3688\|όνοι]] [[G2797\|Κις]] [[G3588\|του]] [[G3962\|πατρός]] [[G4549\|Σαούλ]] [[G2532\|και]] [[G2036\|είπε]] [[G2797\|Κις]] [[G4314\|προς]] [[G4549\|Σαούλ]] [[G3588\|τον]] [[G5207\|υιόν]] [[G1473\|αυτού]] [[G2983\|λάβε]] [[G3326\|μετά]] [[G4572\|σεαυτού]] [[G1520\|εν]] [[G3588\|των]] [[G3808\|παιδαρίων]] [[G2532\|και]] [[G0450\|ανάστητε]] [[G2532\|και]] [[G4198\|πορεύθητε]] [[G2532\|και]] [[G2212\|ζητήσατε]] [[G3588\|τας]] [[G3688\|όνους]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KISH|KISH]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Sam.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.2|<< 1 Samuel 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.4|1 Samuel 9:4 >>]]</td></tr></table>
 
@@ -34,6 +93,6 @@ And the donkeys of Kish the father were lost of Saul. And Kish said to Saul  his
 | seek | **<big>[[G2212\|ζητήσατε]]</big>** |
 | the | **<big>[[G3588\|τας]]</big>** |
 | donkeys! | **<big>[[G3688\|όνους]]</big>** |
-[[1Sam.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.2|<< 1 Samuel 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.4|1 Samuel 9:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.2|<< 1 Samuel 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.4|1 Samuel 9:4 >>]]</td></tr></table>
 
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Book of Remembrance
+type: Pericope
 pericope: "[[Mal.3.13 The Book of Remembrance|The Book of Remembrance]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Malachi
 chapter: 3
 book/chapter: "[[Mal.3|Malachi 3]]"
-genre:
+chronological_order: 928
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - post exilic
 - dialogue
+verse_count: 6
 verses:
 - "[[Mal.3.13]]"
 - "[[Mal.3.14]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Mal.3.18]]"
 ---
 
-[[Mal.3|Malachi 3:13 - Malachi 3:18]]
+<small>[[Mal.3|Malachi 3:13-18]]</small>
 *The Book of Remembrance*
 
 [[Mal.3.13|13]] Your words have been stout against me, saith the LORD. Yet ye say, What have we spoken \[so much\] against thee?

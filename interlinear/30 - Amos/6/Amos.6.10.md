@@ -1,8 +1,72 @@
+---
+title: Amos 6:10
+type: Verse
+kjv: "And a man’s uncle shall take him up, and he that burneth him, to bring out the bones out of the house, and shall say unto him that is by the sides of the house, Is there yet any with thee? and he shall say, No. Then shall he say, Hold thy tongue: for we may not make mention of the name of the LORD."
+bsb: "And when the relative who is to burn the bodies picks them up to remove them from the house, he will call to one inside, “Is anyone else with you?” “None,” that person will answer. “Silence,” the relative will retort, “for the name of the LORD must not be invoked.”"
+hebrew: "וּנְשָׂא֞וֹ דּוֹד֣וֹ וּמְסָרְפ֗וֹ לְהוֹצִ֣יא עֲצָמִים֮ מִן־ הַבַּיִת֒ וְאָמַ֞ר לַאֲשֶׁ֨ר בְּיַרְכְּתֵ֥י הַבַּ֛יִת הַע֥וֹד עִמָּ֖ךְ וְאָמַ֣ר אָ֑פֶס וְאָמַ֣ר הָ֔ס כִּ֛י לֹ֥א לְהַזְכִּ֖יר בְּשֵׁ֥ם יְהוָֽה׃"
+pericope: "[[Amos.6.8 The Pride of Israel|The Pride of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 6
+book/chapter: "[[Amos.6|Amos 6]]"
+chronological_order: 603
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic CREMATION|CREMATION]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5375G]]"
+- "[[H9033]]"
+- "[[H1730I]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H5635]]"
+- "[[H9005]]"
+- "[[H3318H]]"
+- "[[H6106G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H0559]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H3411]]"
+- "[[H9008]]"
+- "[[H5750]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H0657A]]"
+- "[[H2013]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H2142]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 6:10**<big><big>[[Amos.6.8 The Pride of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a man’s uncle shall take him up, and he that burneth him, to bring out the bones out of the house, and shall say unto him that [is] by the sides of the house, [Is there] yet [any] with thee? and he shall say, No. Then shall he say, Hold thy tongue: for we may not make mention of the name of the LORD.
 <small><sub>**BSB:**</sub></small>
 And when the relative who is to burn the bodies picks them up to remove them from the house, he will call to one inside, “Is anyone else with you?” “None,” that person will answer. “Silence,” the relative will retort, “for the name of the LORD must not be invoked.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H5375G\|נְשָׂא֞]][[H9033\|וֹ]] [[H1730I\|דּוֹד֣]][[H9023\|וֹ]] [[H9002\|וּ]][[H5635\|מְסָרְפ֗]][[H9033\|וֹ]] [[H9005\|לְ]][[H3318H\|הוֹצִ֣יא]] [[H6106G\|עֲצָמִים֮]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּיִת֒]] [[H9001\|וְ]][[H0559\|אָמַ֞ר]] [[H9005\|לַ]][[H0834A\|אֲשֶׁ֨ר]] [[H9003\|בְּ]][[H3411\|יַרְכְּתֵ֥י]] [[H9009\|הַ]][[H1004B\|בַּ֛יִת]] [[H9008\|הַ]][[H5750\|ע֥וֹד]] [[H5973A\|עִמָּ֖]][[H9032\|ךְ]] [[H9001\|וְ]][[H0559\|אָמַ֣ר]] [[H0657A\|אָ֑פֶס]] [[H9001\|וְ]][[H0559\|אָמַ֣ר]] [[H2013\|הָ֔ס]] [[H3588A\|כִּ֛י]] [[H3808\|לֹ֥א]] [[H9005\|לְ]][[H2142\|הַזְכִּ֖יר]] [[H9003\|בְּ]][[H8034\|שֵׁ֥ם]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CREMATION|CREMATION]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.6.9|<< Amos 6:9]]</td><td align="center" style="border:none;">[[Amos.6|Amos 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.6.11|Amos 6:11 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Joshua 9:14
+type: Verse
+kjv: "And the men took of their victuals, and asked not counsel at the mouth of the LORD."
+bsb: "Then the men of Israel sampled their provisions but did not seek the counsel of the LORD."
+hebrew: "וַיִּקְח֥וּ הָֽאֲנָשִׁ֖ים מִצֵּידָ֑ם וְאֶת־ פִּ֥י יְהוָ֖ה לֹ֥א שָׁאָֽלוּ׃"
+pericope: "[[Josh.9.1 The Deceit of the Gibeonites|The Deceit of the Gibeonites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 9
+book/chapter: "[[Josh.9|Joshua 9]]"
+chronological_order: 239
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MAGNANIMITY|MAGNANIMITY]]"
+- "[[topic OATH|OATH]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic TREATY|TREATY]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H9006]]"
+- "[[H6718B]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6310I]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H7592]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 9:14**<big><big>[[Josh.9.1 The Deceit of the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men took of their victuals, and asked not [counsel] at the mouth of the LORD.
 <small><sub>**BSB:**</sub></small>
 Then the men of Israel sampled their provisions but did not seek the counsel of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקְח֥וּ]] [[H9009\|הָֽ]][[H0582\|אֲנָשִׁ֖ים]] [[H9006\|מִ]][[H6718B\|צֵּידָ֑]][[H9028\|ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6310I\|פִּ֥י]] [[H3068G\|יְהוָ֖ה]] [[H3808\|לֹ֥א]] [[H7592\|שָׁאָֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DECEPTION|DECEPTION]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic JOSHUA|JOSHUA]] • [[topic MAGNANIMITY|MAGNANIMITY]] • [[topic OATH|OATH]] • [[topic PRAYER|PRAYER]] • [[topic SERVANT|SERVANT]] • [[topic TREATY|TREATY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.9.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.13|<< Joshua 9:13]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.15|Joshua 9:15 >>]]</td></tr></table>
 

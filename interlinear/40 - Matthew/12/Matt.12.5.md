@@ -1,10 +1,60 @@
+---
+title: Matthew 12:5
+type: Verse
+kjv: "Or have ye not read in the law, how that on the sabbath days the priests in the temple profane the sabbath, and are blameless?"
+bsb: "Or haven’t you read in the Law that on the Sabbath the priests in the temple break the Sabbath and yet are innocent?"
+jesus_said: "Or have ye not read in the law, how that on the sabbath days the priests in the temple profane the sabbath, and are blameless?"
+greek: "Ἢ οὐκ ἀνέγνωτε ἐν τῷ νόμῳ ὅτι τοῖς σάββασιν οἱ ἱερεῖς ἐν τῷ ἱερῷ τὸ σάββατον βεβηλοῦσιν καὶ ἀναίτιοί εἰσιν;"
+pericope: "[[Matt.12.1 The Lord of the Sabbath|The Lord of the Sabbath]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic TRADITION|TRADITION]]"
+strongs:
+- "[[G2228]]"
+- "[[G3756]]"
+- "[[G0314]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G3754G]]"
+- "[[G4521]]"
+- "[[G2409]]"
+- "[[G2411]]"
+- "[[G0953]]"
+- "[[G2532]]"
+- "[[G0338]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **Matthew 12:5**<big><big>[[Matt.12.1 The Lord of the Sabbath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Or have ye not read in the law, how that on the sabbath days the priests in the temple profane the sabbath, and are blameless?
 <small><sub>**BSB:**</sub></small>
 Or haven’t you read in the Law that on the Sabbath the priests in the temple break the Sabbath and yet are innocent?
-<small><sub>**Literal:**</sub></small>
-Or surely have you read in the law that on the Sabbath the priests in the temple the Sabbath profane and guiltless are?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.4|<< Matthew 12:4]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.6|Matthew 12:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2228\|Ἢ]]  [[G3756\|οὐκ]]  [[G0314\|ἀνέγνωτε]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3551\|νόμῳ]]  [[G3754G\|ὅτι]]  [[G3588\|τοῖς]]  [[G4521\|σάββασιν]]  [[G3588\|οἱ]]  [[G2409\|ἱερεῖς]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2411\|ἱερῷ]]  [[G3588\|τὸ]]  [[G4521\|σάββατον]]  [[G0953\|βεβηλοῦσιν]]  [[G2532\|καὶ]]  [[G0338\|ἀναίτιοί]]  [[G1510\|εἰσιν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]] • [[topic SABBATH|SABBATH]] • [[topic TRADITION|TRADITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.4|<< Matthew 12:4]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.6|Matthew 12:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 12:5** is...
 > $\quad$ referencing: [[LXX.Num.28.9|Num 28:9-10]]

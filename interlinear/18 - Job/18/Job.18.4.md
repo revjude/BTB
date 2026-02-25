@@ -1,8 +1,58 @@
+---
+title: Job 18:4
+type: Verse
+kjv: "He teareth himself in his anger: shall the earth be forsaken for thee? and shall the rock be removed out of his place?"
+bsb: "You who tear yourself in anger—should the earth be forsaken on your account, or the rocks be moved from their place?"
+hebrew: "טֹֽרֵ֥ף נַפְשׁ֗וֹ בְּאַ֫פּ֥וֹ הַ֭לְמַעַנְךָ תֵּעָ֣זַב אָ֑רֶץ וְיֶעְתַּק־ צ֝֗וּר מִמְּקֹמֽוֹ׃"
+pericope: "[[Job.18.1 Bildad：God Punishes the Wicked|Bildad：God Punishes the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 18
+book/chapter: "[[Job.18|Job 18]]"
+chronological_order: 29
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H2963]]"
+- "[[H5315I]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H0639G]]"
+- "[[H9008]]"
+- "[[H4616]]"
+- "[[H9031]]"
+- "[[H5800A]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H6275]]"
+- "[[H9014]]"
+- "[[H6697H]]"
+- "[[H9006]]"
+- "[[H4725]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 18:4**<big><big>[[Job.18.1 Bildad：God Punishes the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He teareth himself in his anger: shall the earth be forsaken for thee? and shall the rock be removed out of his place?
 <small><sub>**BSB:**</sub></small>
 You who tear yourself in anger—should the earth be forsaken on your account, or the rocks be moved from their place?
+<small><sub>**Hebrew:**</sub></small>
+[[H2963\|טֹֽרֵ֥ף]] [[H5315I\|נַפְשׁ֗]][[H9023\|וֹ]] [[H9003\|בְּ]][[H0639G\|אַ֫פּ֥]][[H9023\|וֹ]] [[H9008\|הַ֭]][[H4616\|לְמַעַנְ]][[H9031\|ךָ]] [[H5800A\|תֵּעָ֣זַב]] [[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H6275\|יֶעְתַּק]][[H9014\|־]] [[H6697H\|צ֝֗וּר]] [[H9006\|מִ]][[H4725\|מְּקֹמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.18.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.18.3|<< Job 18:3]]</td><td align="center" style="border:none;">[[Job.18|Job 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.18.5|Job 18:5 >>]]</td></tr></table>
 

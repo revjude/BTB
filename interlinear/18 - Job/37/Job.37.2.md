@@ -1,8 +1,53 @@
+---
+title: Job 37:2
+type: Verse
+kjv: "Hear attentively the noise of his voice, and the sound that goeth out of his mouth."
+bsb: "Listen closely to the thunder of His voice and the rumbling that comes from His mouth."
+hebrew: "שִׁמְע֤וּ שָׁמ֣וֹעַ בְּרֹ֣גֶז קֹל֑וֹ וְ֝הֶ֗גֶה מִפִּ֥יו יֵצֵֽא׃"
+pericope: "[[Job.37.1 Elihu Proclaims God’s Majesty|Elihu Proclaims God’s Majesty]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 37
+book/chapter: "[[Job.37|Job 37]]"
+chronological_order: 48
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H8085G]]"
+- "[[H9003]]"
+- "[[H7267]]"
+- "[[H6963A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1899]]"
+- "[[H9006]]"
+- "[[H6310G]]"
+- "[[H3318G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 37:2**<big><big>[[Job.37.1 Elihu Proclaims God’s Majesty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear attentively the noise of his voice, and the sound [that] goeth out of his mouth.
 <small><sub>**BSB:**</sub></small>
 Listen closely to the thunder of His voice and the rumbling that comes from His mouth.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שִׁמְע֤וּ]] [[H8085G\|שָׁמ֣וֹעַ]] [[H9003\|בְּ]][[H7267\|רֹ֣גֶז]] [[H6963A\|קֹל֑]][[H9023\|וֹ]] [[H9002\|וְ֝]][[H1899\|הֶ֗גֶה]] [[H9006\|מִ]][[H6310G\|פִּ֥י]][[H9023\|ו]] [[H3318G\|יֵצֵֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.37.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.1|<< Job 37:1]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.3|Job 37:3 >>]]</td></tr></table>
 

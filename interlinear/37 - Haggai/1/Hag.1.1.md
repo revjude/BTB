@@ -1,8 +1,74 @@
+---
+title: Haggai 1:1
+type: Verse
+kjv: "In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the LORD by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying,"
+bsb: "In the second year of the reign of Darius, on the first day of the sixth month, the word of the LORD came through Haggai the prophet to Zerubbabel son of Shealtiel, governor of Judah, and to Joshua son of Jehozadak, the high priest, stating"
+hebrew: "בִּשְׁנַ֤ת שְׁתַּ֙יִם֙ לְדָרְיָ֣וֶשׁ הַמֶּ֔לֶךְ בַּחֹ֙דֶשׁ֙ הַשִּׁשִּׁ֔י בְּי֥וֹם אֶחָ֖ד לַחֹ֑דֶשׁ הָיָ֨ה דְבַר־ יְהוָ֜ה בְּיַד־ חַגַּ֣י הַנָּבִ֗יא אֶל־ זְרֻבָּבֶ֤ל בֶּן־ שְׁאַלְתִּיאֵל֙ פַּחַ֣ת יְהוּדָ֔ה וְאֶל־ יְהוֹשֻׁ֧עַ בֶּן־ יְהוֹצָדָ֛ק הַכֹּהֵ֥ן הַגָּד֖וֹל לֵאמֹֽר׃"
+pericope: "[[Hag.1.1 A Call to Rebuild the Temple|A Call to Rebuild the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Haggai
+chapter: 1
+book/chapter: "[[Hag.1|Haggai 1]]"
+chronological_order: 855
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+topics:
+- "[[topic DARIUS|DARIUS]]"
+- "[[topic JEHOZADAK|JEHOZADAK]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic SHEALTIEL|SHEALTIEL]]"
+strongs:
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H8147]]"
+- "[[H9005]]"
+- "[[H1867H]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H2320G]]"
+- "[[H8345]]"
+- "[[H3117G]]"
+- "[[H0259]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H3027K]]"
+- "[[H2292A]]"
+- "[[H5030]]"
+- "[[H0413]]"
+- "[[H2216]]"
+- "[[H1121A]]"
+- "[[H7597A]]"
+- "[[H6346]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3091J]]"
+- "[[H3087]]"
+- "[[H3548]]"
+- "[[H1419A]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Haggai 1:1**<big><big>[[Hag.1.1 A Call to Rebuild the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the LORD by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying,
 <small><sub>**BSB:**</sub></small>
 In the second year of the reign of Darius, on the first day of the sixth month, the word of the LORD came through Haggai the prophet to Zerubbabel son of Shealtiel, governor of Judah, and to Joshua son of Jehozadak, the high priest, stating
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8141\|שְׁנַ֤ת]] [[H8147\|שְׁתַּ֙יִם֙]] [[H9005\|לְ]][[H1867H\|דָרְיָ֣וֶשׁ]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9003\|בַּ]][[H2320G\|חֹ֙דֶשׁ֙]] [[H9009\|הַ]][[H8345\|שִּׁשִּׁ֔י]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H0259\|אֶחָ֖ד]] [[H9005\|לַ]][[H2320G\|חֹ֑דֶשׁ]] [[H1961\|הָיָ֨ה]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֜ה]] [[H9003\|בְּ]][[H3027K\|יַד]][[H9014\|־]] [[H2292A\|חַגַּ֣י]] [[H9009\|הַ]][[H5030\|נָּבִ֗יא]] [[H0413\|אֶל]][[H9014\|־]] [[H2216\|זְרֻבָּבֶ֤ל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7597A\|שְׁאַלְתִּיאֵל֙]] [[H6346\|פַּחַ֣ת]] [[H3063G\|יְהוּדָ֔ה]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H3091J\|יְהוֹשֻׁ֧עַ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3087\|יְהוֹצָדָ֛ק]] [[H9009\|הַ]][[H3548\|כֹּהֵ֥ן]] [[H9009\|הַ]][[H1419A\|גָּד֖וֹל]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DARIUS|DARIUS]] • [[topic JEHOZADAK|JEHOZADAK]] • [[topic JOSHUA|JOSHUA]] • [[topic SHEALTIEL|SHEALTIEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.20|<< Zephaniah 3:20]]</td><td align="center" style="border:none;">[[Hag.1|Haggai 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.1.2|Haggai 1:2 >>]]</td></tr></table>
 

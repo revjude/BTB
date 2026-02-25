@@ -1,8 +1,58 @@
+---
+title: Amos 5:23
+type: Verse
+kjv: "Take thou away from me the noise of thy songs; for I will not hear the melody of thy viols."
+bsb: "Take away from Me the noise of your songs! I will not listen to the music of your harps."
+hebrew: "הָסֵ֥ר מֵעָלַ֖י הֲמ֣וֹן שִׁרֶ֑יךָ וְזִמְרַ֥ת נְבָלֶ֖יךָ לֹ֥א אֶשְׁמָֽע׃"
+pericope: "[[Amos.5.16 Woe to Rebellious Israel|Woe to Rebellious Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 5
+book/chapter: "[[Amos.5|Amos 5]]"
+chronological_order: 602
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H5493G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H1995A]]"
+- "[[H7892A]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H2172]]"
+- "[[H5035B]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 5:23**<big><big>[[Amos.5.16 Woe to Rebellious Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take thou away from me the noise of thy songs; for I will not hear the melody of thy viols.
 <small><sub>**BSB:**</sub></small>
 Take away from Me the noise of your songs! I will not listen to the music of your harps.
+<small><sub>**Hebrew:**</sub></small>
+[[H5493G\|הָסֵ֥ר]] [[H9006\|מֵ]][[H5921A\|עָלַ֖]][[H9030\|י]] [[H1995A\|הֲמ֣וֹן]] [[H7892A\|שִׁרֶ֑י]][[H9021\|ךָ]] [[H9002\|וְ]][[H2172\|זִמְרַ֥ת]] [[H5035B\|נְבָלֶ֖י]][[H9021\|ךָ]] [[H3808\|לֹ֥א]] [[H8085G\|אֶשְׁמָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORMALISM|FORMALISM]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic MUSIC|MUSIC]] • [[topic OFFERINGS|OFFERINGS]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.22|<< Amos 5:22]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.24|Amos 5:24 >>]]</td></tr></table>
 

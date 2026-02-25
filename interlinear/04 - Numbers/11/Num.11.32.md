@@ -1,8 +1,77 @@
+---
+title: Numbers 11:32
+type: Verse
+kjv: "And the people stood up all that day, and all that night, and all the next day, and they gathered the quails: he that gathered least gathered ten homers: and they spread them all abroad for themselves round about the camp."
+bsb: "All that day and night, and all the next day, the people stayed up gathering the quail. No one gathered less than ten homers, and they spread them out all around the camp."
+hebrew: "וַיָּ֣קָם הָעָ֡ם כָּל־ הַיּוֹם֩ הַה֨וּא וְכָל־ הַלַּ֜יְלָה וְכֹ֣ל׀ י֣וֹם הַֽמָּחֳרָ֗ת וַיַּֽאַסְפוּ֙ אֶת־ הַשְּׂלָ֔ו הַמַּמְעִ֕יט אָסַ֖ף עֲשָׂרָ֣ה חֳמָרִ֑ים וַיִּשְׁטְח֤וּ לָהֶם֙ שָׁט֔וֹחַ סְבִיב֖וֹת הַֽמַּחֲנֶֽה׃"
+pericope: "[[Num.11.31 The Quail and the Plague|The Quail and the Plague]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 11
+book/chapter: "[[Num.11|Numbers 11]]"
+chronological_order: 171
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GLUTTONY|GLUTTONY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic KIBROTH-HATTAAVAH|KIBROTH-HATTAAVAH]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic QUAIL|QUAIL]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H3915]]"
+- "[[H9015]]"
+- "[[H4283]]"
+- "[[H0622]]"
+- "[[H0853]]"
+- "[[H7958]]"
+- "[[H4591]]"
+- "[[H6235]]"
+- "[[H2563C]]"
+- "[[H7849]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H5439G]]"
+- "[[H4264]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 11:32**<big><big>[[Num.11.31 The Quail and the Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people stood up all that day, and all [that] night, and all the next day, and they gathered the quails: he that gathered least gathered ten homers: and they spread [them] all abroad for themselves round about the camp.
 <small><sub>**BSB:**</sub></small>
 All that day and night, and all the next day, the people stayed up gathering the quail. No one gathered less than ten homers, and they spread them out all around the camp.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּ֣קָם]] [[H9009\|הָ]][[H5971A\|עָ֡ם]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּוֹם֩]] [[H9009\|הַ]][[H1931\|ה֨וּא]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H3915\|לַּ֜יְלָה]] [[H9002\|וְ]][[H3605\|כֹ֣ל]][[H9015\|׀]] [[H3117G\|י֣וֹם]] [[H9009\|הַֽ]][[H4283\|מָּחֳרָ֗ת]] [[H9001\|וַ]][[H0622\|יַּֽאַסְפוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7958\|שְּׂלָ֔ו]] [[H9009\|הַ]][[H4591\|מַּמְעִ֕יט]] [[H0622\|אָסַ֖ף]] [[H6235\|עֲשָׂרָ֣ה]] [[H2563C\|חֳמָרִ֑ים]] [[H9001\|וַ]][[H7849\|יִּשְׁטְח֤וּ]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H7849\|שָׁט֔וֹחַ]] [[H5439G\|סְבִיב֖וֹת]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GLUTTONY|GLUTTONY]] • [[topic GOD|GOD]] • [[topic KIBROTH-HATTAAVAH|KIBROTH-HATTAAVAH]] • [[topic MEASURE|MEASURE]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic PRAYER|PRAYER]] • [[topic QUAIL|QUAIL]] • [[topic SANITATION|SANITATION]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.31|<< Numbers 11:31]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.33|Numbers 11:33 >>]]</td></tr></table>
 

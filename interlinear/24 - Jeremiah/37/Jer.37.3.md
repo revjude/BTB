@@ -1,8 +1,75 @@
+---
+title: Jeremiah 37:3
+type: Verse
+kjv: "And Zedekiah the king sent Jehucal the son of Shelemiah and Zephaniah the son of Maaseiah the priest to the prophet Jeremiah, saying, Pray now unto the LORD our God for us."
+bsb: "Yet King Zedekiah sent Jehucal son of Shelemiah and Zephaniah the priest, the son of Maaseiah, to Jeremiah the prophet with the message, “Please pray to the LORD our God for us!”"
+hebrew: "וַיִּשְׁלַח֩ הַמֶּ֨לֶךְ צִדְקִיָּ֜הוּ אֶת־ יְהוּכַ֣ל בֶּן־ שֶֽׁלֶמְיָ֗ה וְאֶת־ צְפַנְיָ֤הוּ בֶן־ מַֽעֲשֵׂיָה֙ הַכֹּהֵ֔ן אֶל־ יִרְמְיָ֥הוּ הַנָּבִ֖יא לֵאמֹ֑ר הִתְפַּלֶּל־ נָ֣א בַעֲדֵ֔נוּ אֶל־ יְהוָ֖ה אֱלֹהֵֽינוּ׃"
+pericope: "[[Jer.37.1 Jeremiah Warns Zedekiah|Jeremiah Warns Zedekiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 37
+book/chapter: "[[Jer.37|Jeremiah 37]]"
+chronological_order: 760
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JEHUCAL|JEHUCAL]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic MAASEIAH|MAASEIAH]]"
+- "[[topic SHELEMIAH|SHELEMIAH]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H6667H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3081]]"
+- "[[H1121A]]"
+- "[[H8018M]]"
+- "[[H9002]]"
+- "[[H6846G]]"
+- "[[H4641X]]"
+- "[[H3548]]"
+- "[[H0413]]"
+- "[[H3414L]]"
+- "[[H5030]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H6419]]"
+- "[[H4994]]"
+- "[[H1157]]"
+- "[[H9035]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 37:3**<big><big>[[Jer.37.1 Jeremiah Warns Zedekiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Zedekiah the king sent Jehucal the son of Shelemiah and Zephaniah the son of Maaseiah the priest to the prophet Jeremiah, saying, Pray now unto the LORD our God for us.
 <small><sub>**BSB:**</sub></small>
 Yet King Zedekiah sent Jehucal son of Shelemiah and Zephaniah the priest, the son of Maaseiah, to Jeremiah the prophet with the message, “Please pray to the LORD our God for us!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַח֩]] [[H9009\|הַ]][[H4428G\|מֶּ֨לֶךְ]] [[H6667H\|צִדְקִיָּ֜הוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3081\|יְהוּכַ֣ל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H8018M\|שֶֽׁלֶמְיָ֗ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6846G\|צְפַנְיָ֤הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H4641X\|מַֽעֲשֵׂיָה֙]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H0413\|אֶל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֥הוּ]] [[H9009\|הַ]][[H5030\|נָּבִ֖יא]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H6419\|הִתְפַּלֶּל]][[H9014\|־]] [[H4994\|נָ֣א]] [[H1157\|בַעֲדֵ֔]][[H9035\|נוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JEHUCAL|JEHUCAL]] • [[topic JEREMIAH|JEREMIAH]] • [[topic MAASEIAH|MAASEIAH]] • [[topic SHELEMIAH|SHELEMIAH]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.37.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.37.2|<< Jeremiah 37:2]]</td><td align="center" style="border:none;">[[Jer.37|Jeremiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.37.4|Jeremiah 37:4 >>]]</td></tr></table>
 

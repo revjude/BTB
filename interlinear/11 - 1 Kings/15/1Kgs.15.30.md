@@ -1,8 +1,61 @@
+---
+title: 1 Kings 15:30
+type: Verse
+kjv: "Because of the sins of Jeroboam which he sinned, and which he made Israel sin, by his provocation wherewith he provoked the LORD God of Israel to anger."
+bsb: "because of the sins Jeroboam had committed and had caused Israel to commit, and because he had provoked the LORD, the God of Israel, to anger."
+hebrew: "עַל־ חַטֹּ֤אות יָרָבְעָם֙ אֲשֶׁ֣ר חָטָ֔א וַאֲשֶׁ֥ר הֶחֱטִ֖יא אֶת־ יִשְׂרָאֵ֑ל בְּכַעְס֕וֹ אֲשֶׁ֣ר הִכְעִ֔יס אֶת־ יְהוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[1Kgs.15.25 Nadab Reigns in Israel|Nadab Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 15
+book/chapter: "[[1Kgs.15|1 Kings 15]]"
+chronological_order: 554
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BAASHA|BAASHA]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic NADAB|NADAB]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2403B]]"
+- "[[H3379G]]"
+- "[[H0834A]]"
+- "[[H2398]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H3708A]]"
+- "[[H9023]]"
+- "[[H3707]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 15:30**<big><big>[[1Kgs.15.25 Nadab Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because of the sins of Jeroboam which he sinned, and which he made Israel sin, by his provocation wherewith he provoked the LORD God of Israel to anger.
 <small><sub>**BSB:**</sub></small>
 because of the sins Jeroboam had committed and had caused Israel to commit, and because he had provoked the LORD, the God of Israel, to anger.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H2403B\|חַטֹּ֤אות]] [[H3379G\|יָרָבְעָם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H2398\|חָטָ֔א]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֥ר]] [[H2398\|הֶחֱטִ֖יא]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9003\|בְּ]][[H3708A\|כַעְס֕]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֣ר]] [[H3707\|הִכְעִ֔יס]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAASHA|BAASHA]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic NADAB|NADAB]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.29|<< 1 Kings 15:29]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.31|1 Kings 15:31 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: Nahum 3:19
+type: Verse
+kjv: "There is no healing of thy bruise; thy wound is grievous: all that hear the bruit of thee shall clap the hands over thee: for upon whom hath not thy wickedness passed continually?"
+bsb: "There is no healing for your injury; your wound is severe. All who hear the news of you applaud your downfall, for who has not experienced your constant cruelty?"
+hebrew: "אֵין־ כֵּהָ֣ה לְשִׁבְרֶ֔ךָ נַחְלָ֖ה מַכָּתֶ֑ךָ כֹּ֣ל׀ שֹׁמְעֵ֣י שִׁמְעֲךָ֗ תָּ֤קְעוּ כַף֙ עָלֶ֔יךָ כִּ֗י עַל־ מִ֛י לֹֽא־ עָבְרָ֥ה רָעָתְךָ֖ תָּמִֽיד׃"
+pericope: "[[Nah.3.1 Judgment on Nineveh|Judgment on Nineveh]]"
+original_language: Hebrew
+testament: Old
+book: Nahum
+chapter: 3
+book/chapter: "[[Nah.3|Nahum 3]]"
+chronological_order: 710
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H3545]]"
+- "[[H9005]]"
+- "[[H7667]]"
+- "[[H9021]]"
+- "[[H2470I]]"
+- "[[H4347]]"
+- "[[H3605]]"
+- "[[H9015]]"
+- "[[H8085G]]"
+- "[[H8088B]]"
+- "[[H8628]]"
+- "[[H3709G]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H3588A]]"
+- "[[H4310]]"
+- "[[H3808]]"
+- "[[H5674A]]"
+- "[[H7451I]]"
+- "[[H8548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nahum 3:19**<big><big>[[Nah.3.1 Judgment on Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] no healing of thy bruise; thy wound is grievous: all that hear the bruit of thee shall clap the hands over thee: for upon whom hath not thy wickedness passed continually?
 <small><sub>**BSB:**</sub></small>
 There is no healing for your injury; your wound is severe. All who hear the news of you applaud your downfall, for who has not experienced your constant cruelty?
+<small><sub>**Hebrew:**</sub></small>
+[[H0369\|אֵין]][[H9014\|־]] [[H3545\|כֵּהָ֣ה]] [[H9005\|לְ]][[H7667\|שִׁבְרֶ֔]][[H9021\|ךָ]] [[H2470I\|נַחְלָ֖ה]] [[H4347\|מַכָּתֶ֑]][[H9021\|ךָ]] [[H3605\|כֹּ֣ל]][[H9015\|׀]] [[H8085G\|שֹׁמְעֵ֣י]] [[H8088B\|שִׁמְעֲ]][[H9021\|ךָ֗]] [[H8628\|תָּ֤קְעוּ]] [[H3709G\|כַף֙]] [[H5921A\|עָלֶ֔י]][[H9031\|ךָ]] [[H3588A\|כִּ֗י]] [[H5921A\|עַל]][[H9014\|־]] [[H4310\|מִ֛י]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5674A\|עָבְרָ֥ה]] [[H7451I\|רָעָתְ]][[H9021\|ךָ֖]] [[H8548\|תָּמִֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.3.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.18|<< Nahum 3:18]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.1|Habakkuk 1:1 >>]]</td></tr></table>
 

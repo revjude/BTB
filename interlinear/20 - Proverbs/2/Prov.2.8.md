@@ -1,8 +1,55 @@
+---
+title: Proverbs 2:8
+type: Verse
+kjv: "He keepeth the paths of judgment, and preserveth the way of his saints."
+bsb: "to guard the paths of justice and protect the way of His saints."
+hebrew: "לִ֭נְצֹר אָרְח֣וֹת מִשְׁפָּ֑ט וְדֶ֖רֶךְ חֲסִידָ֣יו יִשְׁמֹֽר׃"
+pericope: "[[Prov.2.1 The Benefits of Wisdom|The Benefits of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 2
+book/chapter: "[[Prov.2|Proverbs 2]]"
+chronological_order: 457
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PERSONIFICATION|PERSONIFICATION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9005]]"
+- "[[H5341]]"
+- "[[H0734]]"
+- "[[H4941H]]"
+- "[[H9002]]"
+- "[[H1870L]]"
+- "[[H2623]]"
+- "[[H9023]]"
+- "[[H8104H]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Proverbs 2:8**<big><big>[[Prov.2.1 The Benefits of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He keepeth the paths of judgment, and preserveth the way of his saints.
 <small><sub>**BSB:**</sub></small>
 to guard the paths of justice and protect the way of His saints.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ֭]][[H5341\|נְצֹר]] [[H0734\|אָרְח֣וֹת]] [[H4941H\|מִשְׁפָּ֑ט]] [[H9002\|וְ]][[H1870L\|דֶ֖רֶךְ]] [[H2623\|חֲסִידָ֣י]][[H9023\|ו]] [[H8104H\|יִשְׁמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PERSONIFICATION|PERSONIFICATION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.2.7|<< Proverbs 2:7]]</td><td align="center" style="border:none;">[[Prov.2|Proverbs 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.2.9|Proverbs 2:9 >>]]</td></tr></table>
 
@@ -16,7 +63,7 @@ to guard the paths of justice and protect the way of His saints.
 | he will preserve  |**<big>&#8207;[[H8104H\|יִשְׁמֹֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yish.Mor<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.2.7|<< Proverbs 2:7]]</td><td align="center" style="border:none;">[[Prov.2|Proverbs 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.2.9|Proverbs 2:9 >>]]</td></tr></table>
 
-[^1]: faithful [person] his  | **<big>[[H9023|וֹ]]</big><big>[[H2623|חֲסִיד]]</big> ** | cha.si.do<small><sup>[[HAamsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: faithful [person] his  | **<big>[[H9023|וֹ]]</big><big>[[H2623|חֲסִיד]]</big> ** | cha.si.do<small><sup>[[HAamsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: faithful [person] his  | **<big>[[H2623|חֲסִיד]]</big><big>[[H9023|וֹ]]</big> ** | cha.si.do<small><sup>[[HAamsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: faithful [person] his  | **<big>[[H2623|חֲסִיד]]</big><big>[[H9023|וֹ]]</big> ** | cha.si.do<small><sup>[[HAamsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>חֲסִידָ֣ו</big></span>**
 

@@ -17,5 +17,5 @@
 
 → See [[topic FETTERS|FETTERS]]
 
-→ FIGURATIVE [[Ps.73.6|Ps 73:6]]; [[Prov.1.9|Pr 1:9]]; [[Lam.3.7|La 3:7]]; [[Ezek.7.23|Eze 7:23]]-[[Ezek.7.27|27]]; [[Jude.1.1|Jude  1]]:6; [[2Pet.2.4|2Pe 2:4]]; [[Rev.20.1|Re 20:1]]
+→ FIGURATIVE [[Ps.73.6|Ps 73:6]]; [[Prov.1.9|Pr 1:9]]; [[Lam.3.7|La 3:7]]; [[Ezek.7.23|Eze 7:23-27]]; [[Jude.1.1|Jude  1]]:6; [[2Pet.2.4|2Pe 2:4]]; [[Rev.20.1|Re 20:1]]
 

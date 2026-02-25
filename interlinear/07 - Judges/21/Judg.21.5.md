@@ -1,8 +1,69 @@
+---
+title: Judges 21:5
+type: Verse
+kjv: "And the children of Israel said, Who is there among all the tribes of Israel that came not up with the congregation unto the LORD? For they had made a great oath concerning him that came not up to the LORD to Mizpeh, saying, He shall surely be put to death."
+bsb: "The Israelites asked, “Who among all the tribes of Israel did not come to the assembly before the LORD?” For they had taken a solemn oath that anyone who failed to come up before the LORD at Mizpah would surely be put to death."
+hebrew: "וַיֹּֽאמְרוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל מִ֠י אֲשֶׁ֨ר לֹא־ עָלָ֧ה בַקָּהָ֛ל מִכָּל־ שִׁבְטֵ֥י יִשְׂרָאֵ֖ל אֶל־ יְהוָ֑ה כִּי֩ הַשְּׁבוּעָ֨ה הַגְּדוֹלָ֜ה הָיְתָ֗ה לַ֠אֲשֶׁר לֹא־ עָלָ֨ה אֶל־ יְהוָ֧ה הַמִּצְפָּ֛ה לֵאמֹ֖ר מ֥וֹת יוּמָֽת׃"
+pericope: "[[Judg.21.1 Wives for the Benjamites|Wives for the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 21
+book/chapter: "[[Judg.21|Judges 21]]"
+chronological_order: 275
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic DISCIPLINE|DISCIPLINE]]"
+- "[[topic OATH|OATH]]"
+- "[[topic RASHNESS|RASHNESS]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H4310]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5927G]]"
+- "[[H9003]]"
+- "[[H6951]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H7626H]]"
+- "[[H0413]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H9009]]"
+- "[[H7621]]"
+- "[[H1419A]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H4709G]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 21:5**<big><big>[[Judg.21.1 Wives for the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel said, Who [is there] among all the tribes of Israel that came not up with the congregation unto the LORD? For they had made a great oath concerning him that came not up to the LORD to Mizpeh, saying, He shall surely be put to death.
 <small><sub>**BSB:**</sub></small>
 The Israelites asked, “Who among all the tribes of Israel did not come to the assembly before the LORD?” For they had taken a solemn oath that anyone who failed to come up before the LORD at Mizpah would surely be put to death.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּֽאמְרוּ֙]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H4310\|מִ֠י]] [[H0834A\|אֲשֶׁ֨ר]] [[H3808\|לֹא]][[H9014\|־]] [[H5927G\|עָלָ֧ה]] [[H9003\|בַ]][[H6951\|קָּהָ֛ל]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H7626H\|שִׁבְטֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H3588A\|כִּי֩]] [[H9009\|הַ]][[H7621\|שְּׁבוּעָ֨ה]] [[H9009\|הַ]][[H1419A\|גְּדוֹלָ֜ה]] [[H1961\|הָיְתָ֗ה]] [[H9005\|לַ֠]][[H0834A\|אֲשֶׁר]] [[H3808\|לֹא]][[H9014\|־]] [[H5927G\|עָלָ֨ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֧ה]] [[H9009\|הַ]][[H4709G\|מִּצְפָּ֛ה]] [[H9005\|לֵ]][[H0559\|אמֹ֖ר]] [[H4191\|מ֥וֹת]] [[H4191\|יוּמָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic DISCIPLINE|DISCIPLINE]] • [[topic OATH|OATH]] • [[topic RASHNESS|RASHNESS]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.21.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.4|<< Judges 21:4]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.6|Judges 21:6 >>]]</td></tr></table>
 

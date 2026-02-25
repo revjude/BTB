@@ -1,8 +1,50 @@
+---
+title: 2 Samuel 22:46
+type: Verse
+kjv: "Strangers shall fade away, and they shall be afraid out of their close places."
+bsb: "Foreigners lose heart and come trembling from their strongholds."
+hebrew: "בְּנֵ֥י נֵכָ֖ר יִבֹּ֑לוּ וְיַחְגְּר֖וּ מִמִּסְגְּרוֹתָֽם׃"
+pericope: "[[2Sam.22.1 David’s Song of Deliverance|David’s Song of Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 22
+book/chapter: "[[2Sam.22|2 Samuel 22]]"
+chronological_order: 430
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ALIENS|ALIENS]]"
+strongs:
+- "[[H1121I]]"
+- "[[H5236]]"
+- "[[H5034B]]"
+- "[[H9002]]"
+- "[[H2296]]"
+- "[[H9006]]"
+- "[[H4526]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 22:46**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Strangers shall fade away, and they shall be afraid out of their close places.
 <small><sub>**BSB:**</sub></small>
 Foreigners lose heart and come trembling from their strongholds.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121I\|בְּנֵ֥י]] [[H5236\|נֵכָ֖ר]] [[H5034B\|יִבֹּ֑לוּ]] [[H9002\|וְ]][[H2296\|יַחְגְּר֖וּ]] [[H9006\|מִ]][[H4526\|מִּסְגְּרוֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALIENS|ALIENS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.45|<< 2 Samuel 22:45]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.47|2 Samuel 22:47 >>]]</td></tr></table>
 

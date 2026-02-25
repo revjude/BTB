@@ -1,10 +1,59 @@
+---
+title: Hebrews 3:7
+type: Verse
+kjv: "Wherefore (as the Holy Ghost saith, To day if ye will hear his voice,"
+bsb: "Therefore, as the Holy Spirit says: “Today, if you hear His voice,"
+greek: "Διό, καθὼς λέγει τὸ πνεῦμα τὸ ἅγιον, σήμερον ἐὰν τῆς φωνῆς αὐτοῦ ἀκούσητε,"
+pericope: "[[Heb.3.7 Do Not Harden Your Hearts|Do Not Harden Your Hearts]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 3
+book/chapter: "[[Heb.3|Hebrews 3]]"
+chronological_order: 1142
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SELF-WILL|SELF-WILL]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G1352]]"
+- "[[G2531]]"
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G4594]]"
+- "[[G1437]]"
+- "[[G5456G]]"
+- "[[G0846]]"
+- "[[G0191]]"
+texts:
+- NKO
+---
+
 **Hebrews 3:7**<big><big>[[Heb.3.7 Do Not Harden Your Hearts|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore (as the Holy Ghost saith, To day if ye will hear his voice,
 <small><sub>**BSB:**</sub></small>
 Therefore, as the Holy Spirit says: “Today, if you hear His voice,
-<small><sub>**Literal:**</sub></small>
-Therefore, even as says the Spirit <the> Holy: Today if the voice of Him you shall hear,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.6|<< Hebrews 3:6]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.8|Hebrews 3:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1352\|Διό,]]  [[G2531\|καθὼς]]  [[G3004G\|λέγει]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τὸ]]  [[G0040G\|ἅγιον,]]  [[G4594\|σήμερον]]  [[G1437\|ἐὰν]]  [[G3588\|τῆς]]  [[G5456G\|φωνῆς]]  [[G0846\|αὐτοῦ]]  [[G0191\|ἀκούσητε,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic DECISION|DECISION]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic PROCRASTINATION|PROCRASTINATION]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SELF-WILL|SELF-WILL]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.6|<< Hebrews 3:6]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.8|Hebrews 3:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 3:7** is...
 > $\quad$ referencing: [[LXX.Ps.95.7|Ps 95:7-11]]

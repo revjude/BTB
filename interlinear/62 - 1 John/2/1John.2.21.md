@@ -1,10 +1,56 @@
+---
+title: 1 John 2:21
+type: Verse
+kjv: "I have not written unto you because ye know not the truth, but because ye know it, and that no lie is of the truth."
+bsb: "I have not written to you because you lack knowledge of the truth, but because you have it, and because no lie comes from the truth."
+greek: "οὐκ ἔγραψα ὑμῖν ὅτι οὐκ οἴδατε τὴν ἀλήθειαν ἀλλ᾽ ὅτι οἴδατε αὐτὴν καὶ ὅτι πᾶν ψεῦδος ἐκ τῆς ἀληθείας οὐκ ἔστιν."
+pericope: "[[1John.2.18 Beware of Antichrists|Beware of Antichrists]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 2
+book/chapter: "[[1John.2|1 John 2]]"
+chronological_order: 1162
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3756]]"
+- "[[G1125]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G6063]]"
+- "[[G3588]]"
+- "[[G0225]]"
+- "[[G0235]]"
+- "[[G3754H]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G5579]]"
+- "[[G1537]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **1 John 2:21**<big><big>[[1John.2.18 Beware of Antichrists|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I have not written unto you because ye know not the truth, but because ye know it, and that no lie is of the truth.
 <small><sub>**BSB:**</sub></small>
 I have not written to you because you lack knowledge of the truth, but because you have it, and because no lie comes from the truth.
-<small><sub>**Literal:**</sub></small>
-Not I have written to you because not you know the truth but because you know it and because any lie of the truth not is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.20|<< 1 John 2:20]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.22|1 John 2:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐκ]]  [[G1125\|ἔγραψα]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G3756\|οὐκ]]  [[G6063\|οἴδατε]]  [[G3588\|τὴν]]  [[G0225\|ἀλήθειαν]]  [[G0235\|ἀλλ᾽]]  [[G3754H\|ὅτι]]  [[G6063\|οἴδατε]]  [[G0846\|αὐτὴν]]  [[G2532\|καὶ]]  [[G3754H\|ὅτι]]  [[G3956\|πᾶν]]  [[G5579\|ψεῦδος]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G0225\|ἀληθείας]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.20|<< 1 John 2:20]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.22|1 John 2:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

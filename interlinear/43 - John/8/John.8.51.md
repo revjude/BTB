@@ -1,10 +1,59 @@
+---
+title: John 8:51
+type: Verse
+kjv: "Verily, verily, I say unto you, If a man keep my saying, he shall never see death."
+bsb: "Truly, truly, I tell you, if anyone keeps My word, he will never see death.”"
+jesus_said: "Verily, verily, I say unto you, If a man keep my saying, he shall never see death."
+greek: "Ἀμὴν ἀμὴν λέγω ὑμῖν· ἐάν τις τὸν ἐμὸν λόγον τὸν τηρήσῃ, θάνατον οὐ μὴ θεωρήσῃ εἰς τὸν αἰῶνα.¶"
+pericope: "[[John.8.48 Before Abraham Was Born, I Am|Before Abraham Was Born, I Am]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G1437]]"
+- "[[G5100]]"
+- "[[G3588]]"
+- "[[G1473]]"
+- "[[G3056]]"
+- "[[G5083G]]"
+- "[[G2288]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G2334]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+texts:
+- NKO
+- k
+---
+
 **John 8:51**<big><big>[[John.8.48 Before Abraham Was Born, I Am|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Verily, verily, I say unto you, If a man keep my saying, he shall never see death.
 <small><sub>**BSB:**</sub></small>
 Truly, truly, I tell you, if anyone keeps My word, he will never see death.”
-<small><sub>**Literal:**</sub></small>
-Amen Amen I say to you; if anyone <the> My word <the> shall keep, death certainly not shall he see to the age.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.50|<< John 8:50]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.52|John 8:52 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0281\|Ἀμὴν]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G1437\|ἐάν]]  [[G5100\|τις]]  [[G3588\|τὸν]]  [[G1473\|ἐμὸν]]  [[G3056\|λόγον]]  [[G3588\|τὸν]]  [[G5083G\|τηρήσῃ,]]  [[G2288\|θάνατον]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G2334\|θεωρήσῃ]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G0165H\|αἰῶνα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OBEDIENCE|OBEDIENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.50|<< John 8:50]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.52|John 8:52 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

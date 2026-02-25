@@ -1,8 +1,87 @@
+---
+title: Leviticus 10:6
+type: Verse
+kjv: "And Moses said unto Aaron, and unto Eleazar and unto Ithamar, his sons, Uncover not your heads, neither rend your clothes; lest ye die, and lest wrath come upon all the people: but let your brethren, the whole house of Israel, bewail the burning which the LORD hath kindled."
+bsb: "Then Moses said to Aaron and his sons Eleazar and Ithamar, “Do not let your hair become disheveled and do not tear your garments, or else you will die, and the LORD will be angry with the whole congregation. But your brothers, the whole house of Israel, may mourn on account of the fire that the LORD has ignited."
+hebrew: "וַיֹּ֣אמֶר מֹשֶׁ֣ה אֶֽל־ אַהֲרֹ֡ן וּלְאֶלְעָזָר֩ וּלְאִֽיתָמָ֨ר׀ בָּנָ֜יו רָֽאשֵׁיכֶ֥ם אַל־ תִּפְרָ֣עוּ׀ וּבִגְדֵיכֶ֤ם לֹֽא־ תִפְרֹ֙מוּ֙ וְלֹ֣א תָמֻ֔תוּ וְעַ֥ל כָּל־ הָעֵדָ֖ה יִקְצֹ֑ף וַאֲחֵיכֶם֙ כָּל־ בֵּ֣ית יִשְׂרָאֵ֔ל יִבְכּוּ֙ אֶת־ הַשְּׂרֵפָ֔ה אֲשֶׁ֖ר שָׂרַ֥ף יְהוָֽה׃"
+pericope: "[[Lev.10.1 The Sin of Nadab and Abihu|The Sin of Nadab and Abihu]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 10
+book/chapter: "[[Lev.10|Leviticus 10]]"
+chronological_order: 142
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic BEREAVEMENT|BEREAVEMENT]]"
+- "[[topic ITHAMAR|ITHAMAR]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic NADAB|NADAB]]"
+- "[[topic SACRILEGE|SACRILEGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H0499G]]"
+- "[[H0385]]"
+- "[[H9015]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H7218A]]"
+- "[[H9026]]"
+- "[[H0408]]"
+- "[[H6544B]]"
+- "[[H0899B]]"
+- "[[H3808]]"
+- "[[H6533]]"
+- "[[H4191]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5712]]"
+- "[[H7107]]"
+- "[[H0251G]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H1058]]"
+- "[[H0853]]"
+- "[[H8316]]"
+- "[[H0834A]]"
+- "[[H8313]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 10:6**<big><big>[[Lev.10.1 The Sin of Nadab and Abihu|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses said unto Aaron, and unto Eleazar and unto Ithamar, his sons, Uncover not your heads, neither rend your clothes; lest ye die, and lest wrath come upon all the people: but let your brethren, the whole house of Israel, bewail the burning which the LORD hath kindled.
 <small><sub>**BSB:**</sub></small>
 Then Moses said to Aaron and his sons Eleazar and Ithamar, “Do not let your hair become disheveled and do not tear your garments, or else you will die, and the LORD will be angry with the whole congregation. But your brothers, the whole house of Israel, may mourn on account of the fire that the LORD has ignited.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H4872\|מֹשֶׁ֣ה]] [[H0413\|אֶֽל]][[H9014\|־]] [[H0175\|אַהֲרֹ֡ן]] [[H9002\|וּ]][[H9005\|לְ]][[H0499G\|אֶלְעָזָר֩]] [[H9002\|וּ]][[H9005\|לְ]][[H0385\|אִֽיתָמָ֨ר]][[H9015\|׀]] [[H1121A\|בָּנָ֜י]][[H9023\|ו]] [[H7218A\|רָֽאשֵׁי]][[H9026\|כֶ֥ם]] [[H0408\|אַל]][[H9014\|־]] [[H6544B\|תִּפְרָ֣עוּ]][[H9015\|׀]] [[H9002\|וּ]][[H0899B\|בִגְדֵי]][[H9026\|כֶ֤ם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H6533\|תִפְרֹ֙מוּ֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H4191\|תָמֻ֔תוּ]] [[H9002\|וְ]][[H5921A\|עַ֥ל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5712\|עֵדָ֖ה]] [[H7107\|יִקְצֹ֑ף]] [[H9002\|וַ]][[H0251G\|אֲחֵי]][[H9026\|כֶם֙]] [[H3605\|כָּל]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H1058\|יִבְכּוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8316\|שְּׂרֵפָ֔ה]] [[H0834A\|אֲשֶׁ֖ר]] [[H8313\|שָׂרַ֥ף]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic BEREAVEMENT|BEREAVEMENT]] • [[topic ITHAMAR|ITHAMAR]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MOURNING|MOURNING]] • [[topic NADAB|NADAB]] • [[topic SACRILEGE|SACRILEGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.10.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.10.5|<< Leviticus 10:5]]</td><td align="center" style="border:none;">[[Lev.10|Leviticus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.10.7|Leviticus 10:7 >>]]</td></tr></table>
 

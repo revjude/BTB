@@ -1,8 +1,55 @@
+---
+title: Proverbs 1:23
+type: Verse
+kjv: "Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you."
+bsb: "If you had repented at my rebuke, then surely I would have poured out my spirit on you; I would have made my words known to you."
+hebrew: "תָּשׁ֗וּבוּ לְֽת֫וֹכַחְתִּ֥י הִנֵּ֤ה אַבִּ֣יעָה לָכֶ֣ם רוּחִ֑י אוֹדִ֖יעָה דְבָרַ֣י אֶתְכֶֽם׃"
+pericope: "[[Prov.1.20 Wisdom Calls Aloud|Wisdom Calls Aloud]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 1
+book/chapter: "[[Prov.1|Proverbs 1]]"
+chronological_order: 456
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H7725O]]"
+- "[[H9005]]"
+- "[[H8433B]]"
+- "[[H9020]]"
+- "[[H2009]]"
+- "[[H5042]]"
+- "[[H9036]]"
+- "[[H7307G]]"
+- "[[H3045]]"
+- "[[H1697G]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 1:23**<big><big>[[Prov.1.20 Wisdom Calls Aloud|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you.
 <small><sub>**BSB:**</sub></small>
 If you had repented at my rebuke, then surely I would have poured out my spirit on you; I would have made my words known to you.
+<small><sub>**Hebrew:**</sub></small>
+[[H7725O\|תָּשׁ֗וּבוּ]] [[H9005\|לְֽ]][[H8433B\|ת֫וֹכַחְתִּ֥]][[H9020\|י]] [[H2009\|הִנֵּ֤ה]] [[H5042\|אַבִּ֣יעָה]] [[H9005\|לָ]][[H9036\|כֶ֣ם]] [[H7307G\|רוּחִ֑]][[H9020\|י]] [[H3045\|אוֹדִ֖יעָה]] [[H1697G\|דְבָרַ֣]][[H9020\|י]] [[H0853\|אֶתְ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic REPENTANCE|REPENTANCE]] • [[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.1.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.22|<< Proverbs 1:22]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.24|Proverbs 1:24 >>]]</td></tr></table>
 

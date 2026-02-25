@@ -1,8 +1,62 @@
+---
+title: Genesis 25:16
+type: Verse
+kjv: "These are the sons of Ishmael, and these are their names, by their towns, and by their castles; twelve princes according to their nations."
+bsb: "These were the sons of Ishmael, and these were their names by their villages and encampments—twelve princes of their tribes."
+hebrew: "אֵ֣לֶּה הֵ֞ם בְּנֵ֤י יִשְׁמָעֵאל֙ וְאֵ֣לֶּה שְׁמֹתָ֔ם בְּחַצְרֵיהֶ֖ם וּבְטִֽירֹתָ֑ם שְׁנֵים־ עָשָׂ֥ר נְשִׂיאִ֖ם לְאֻמֹּתָֽם׃"
+pericope: "[[Gen.25.12 The Descendants of Ishmael|The Descendants of Ishmael]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 25
+book/chapter: "[[Gen.25|Genesis 25]]"
+chronological_order: 67
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CASTLE|CASTLE]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+strongs:
+- "[[H0428]]"
+- "[[H1992]]"
+- "[[H1121A]]"
+- "[[H3458G]]"
+- "[[H9002]]"
+- "[[H8034]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H2691B]]"
+- "[[H2918]]"
+- "[[H8147]]"
+- "[[H9014]]"
+- "[[H6240]]"
+- "[[H5387A]]"
+- "[[H9005]]"
+- "[[H0523]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 25:16**<big><big>[[Gen.25.12 The Descendants of Ishmael|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the sons of Ishmael, and these [are] their names, by their towns, and by their castles; twelve princes according to their nations.
 <small><sub>**BSB:**</sub></small>
 These were the sons of Ishmael, and these were their names by their villages and encampments—twelve princes of their tribes.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֣לֶּה]] [[H1992\|הֵ֞ם]] [[H1121A\|בְּנֵ֤י]] [[H3458G\|יִשְׁמָעֵאל֙]] [[H9002\|וְ]][[H0428\|אֵ֣לֶּה]] [[H8034\|שְׁמֹתָ֔]][[H9028\|ם]] [[H9003\|בְּ]][[H2691B\|חַצְרֵי]][[H9028\|הֶ֖ם]] [[H9002\|וּ]][[H9003\|בְ]][[H2918\|טִֽירֹתָ֑]][[H9028\|ם]] [[H8147\|שְׁנֵים]][[H9014\|־]] [[H6240\|עָשָׂ֥ר]] [[H5387A\|נְשִׂיאִ֖ם]] [[H9005\|לְ]][[H0523\|אֻמֹּתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CASTLE|CASTLE]] • [[topic GENEALOGY|GENEALOGY]] • [[topic ISHMAEL|ISHMAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.15|<< Genesis 25:15]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.17|Genesis 25:17 >>]]</td></tr></table>
 

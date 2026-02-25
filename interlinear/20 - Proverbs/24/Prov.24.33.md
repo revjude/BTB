@@ -1,8 +1,54 @@
+---
+title: Proverbs 24:33
+type: Verse
+kjv: "Yet a little sleep, a little slumber, a little folding of the hands to sleep:"
+bsb: "A little sleep, a little slumber, a little folding of the hands to rest,"
+hebrew: "מְעַ֣ט שֵׁ֭נוֹת מְעַ֣ט תְּנוּמ֑וֹת מְעַ֓ט׀ חִבֻּ֖ק יָדַ֣יִם לִשְׁכָּֽב׃"
+pericope: "[[Prov.24.23 Further Sayings of the Wise|Further Sayings of the Wise]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 24
+book/chapter: "[[Prov.24|Proverbs 24]]"
+chronological_order: 479
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic IDLENESS|IDLENESS]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic POVERTY|POVERTY]]"
+- "[[topic RISING|RISING]]"
+- "[[topic SLOTHFULNESS|SLOTHFULNESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H4592]]"
+- "[[H8142]]"
+- "[[H8572]]"
+- "[[H9015]]"
+- "[[H2264]]"
+- "[[H3027G]]"
+- "[[H9005]]"
+- "[[H7901H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 24:33**<big><big>[[Prov.24.23 Further Sayings of the Wise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Yet] a little sleep, a little slumber, a little folding of the hands to sleep:
 <small><sub>**BSB:**</sub></small>
 A little sleep, a little slumber, a little folding of the hands to rest,
+<small><sub>**Hebrew:**</sub></small>
+[[H4592\|מְעַ֣ט]] [[H8142\|שֵׁ֭נוֹת]] [[H4592\|מְעַ֣ט]] [[H8572\|תְּנוּמ֑וֹת]] [[H4592\|מְעַ֓ט]][[H9015\|׀]] [[H2264\|חִבֻּ֖ק]] [[H3027G\|יָדַ֣יִם]] [[H9005\|לִ]][[H7901H\|שְׁכָּֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDLENESS|IDLENESS]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic POVERTY|POVERTY]] • [[topic RISING|RISING]] • [[topic SLOTHFULNESS|SLOTHFULNESS]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.32|<< Proverbs 24:32]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.34|Proverbs 24:34 >>]]</td></tr></table>
 

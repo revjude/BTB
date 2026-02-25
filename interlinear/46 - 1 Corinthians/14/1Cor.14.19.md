@@ -1,10 +1,64 @@
+---
+title: 1 Corinthians 14:19
+type: Verse
+kjv: "Yet in the church I had rather speak five words with my understanding, that by my voice I might teach others also, than ten thousand words in an unknown tongue."
+bsb: "But in the church, I would rather speak five coherent words to instruct others than ten thousand words in a tongue."
+greek: "ἀλλ᾽ ἐν ἐκκλησίᾳ θέλω πέντε λόγους διὰ τῷ νοΐ μου λαλῆσαι, ἵνα καὶ ἄλλους κατηχήσω, ἢ μυρίους λόγους ἐν γλώσσῃ.¶"
+pericope: "[[1Cor.14.1 Prophecy and Tongues|Prophecy and Tongues]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 14
+book/chapter: "[[1Cor.14|1 Corinthians 14]]"
+chronological_order: 1071
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic INTERPRETATION|INTERPRETATION]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]"
+- "[[topic WORDS|WORDS]]"
+strongs:
+- "[[G0235]]"
+- "[[G1722]]"
+- "[[G1577]]"
+- "[[G2309]]"
+- "[[G4002]]"
+- "[[G3056]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G3563]]"
+- "[[G3165]]"
+- "[[G2980]]"
+- "[[G2443]]"
+- "[[G2532]]"
+- "[[G0243]]"
+- "[[G2727]]"
+- "[[G2228]]"
+- "[[G3463]]"
+- "[[G1100]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **1 Corinthians 14:19**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Yet in the church I had rather speak five words with my understanding, that [by my voice] I might teach others also, than ten thousand words in an [unknown] tongue.
 <small><sub>**BSB:**</sub></small>
 But in the church, I would rather speak five coherent words to instruct others than ten thousand words in a tongue.
-<small><sub>**Literal:**</sub></small>
-but in [the] church I desire five words through the with mind of mine to speak that also others I may instruct, rather than ten thousand words in a tongue.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.18|<< 1 Corinthians 14:18]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.20|1 Corinthians 14:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G1722\|ἐν]]  [[G1577\|ἐκκλησίᾳ]]  [[G2309\|θέλω]]  [[G4002\|πέντε]]  [[G3056\|λόγους]]  [[G1223\|διὰ]]  [[G3588\|τῷ]]  [[G3563\|νοΐ]]  [[G3165\|μου]]  [[G2980\|λαλῆσαι,]]  [[G2443\|ἵνα]]  [[G2532\|καὶ]]  [[G0243\|ἄλλους]]  [[G2727\|κατηχήσω,]]  [[G2228\|ἢ]]  [[G3463\|μυρίους]]  [[G3056\|λόγους]]  [[G1722\|ἐν]]  [[G1100\|γλώσσῃ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic INTERPRETATION|INTERPRETATION]] • [[topic LANGUAGE|LANGUAGE]] • [[topic PREACHING|PREACHING]] • [[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]] • [[topic WORDS|WORDS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.18|<< 1 Corinthians 14:18]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.20|1 Corinthians 14:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

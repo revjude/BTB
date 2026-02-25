@@ -1,10 +1,64 @@
+---
+title: 2 Thessalonians 3:12
+type: Verse
+kjv: "Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread."
+bsb: "We command and urge such people by our Lord Jesus Christ to begin working quietly to earn their own living."
+greek: "Τοῖς δὲ τοιούτοις παραγγέλλομεν καὶ παρακαλοῦμεν ἐν τοῦ κυρίῳ ἡμῶν Ἰησοῦ Χριστῷ ἵνα μετὰ ἡσυχίας ἐργαζόμενοι τὸν ἑαυτῶν ἄρτον ἐσθίωσιν."
+pericope: "[[2Thess.3.6 A Warning against Idleness|A Warning against Idleness]]"
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 3
+book/chapter: "[[2Thess.3|2 Thessalonians 3]]"
+chronological_order: 1055
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic BUSYBODY|BUSYBODY]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic LABOR|LABOR]]"
+- "[[topic SLOTHFULNESS|SLOTHFULNESS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G5108]]"
+- "[[G3853]]"
+- "[[G2532]]"
+- "[[G3870]]"
+- "[[G1722]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G2443]]"
+- "[[G3326]]"
+- "[[G2271]]"
+- "[[G2038]]"
+- "[[G1438]]"
+- "[[G0740]]"
+- "[[G2068]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **2 Thessalonians 3:12**<big><big>[[2Thess.3.6 A Warning against Idleness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread.
 <small><sub>**BSB:**</sub></small>
 We command and urge such people by our Lord Jesus Christ to begin working quietly to earn their own living.
-<small><sub>**Literal:**</sub></small>
-<the> Now to such we warn and we exhort by the Lord of us Jesus Christ so that with quietness working <the> their own bread they may eat.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.11|<< 2 Thessalonians 3:11]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.13|2 Thessalonians 3:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τοῖς]]  [[G1161\|δὲ]]  [[G5108\|τοιούτοις]]  [[G3853\|παραγγέλλομεν]]  [[G2532\|καὶ]]  [[G3870\|παρακαλοῦμεν]]  [[G1722\|ἐν]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίῳ]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστῷ]]  [[G2443\|ἵνα]]  [[G3326\|μετὰ]]  [[G2271\|ἡσυχίας]]  [[G2038\|ἐργαζόμενοι]]  [[G3588\|τὸν]]  [[G1438\|ἑαυτῶν]]  [[G0740\|ἄρτον]]  [[G2068\|ἐσθίωσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BUSYBODY|BUSYBODY]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic INDUSTRY|INDUSTRY]] • [[topic LABOR|LABOR]] • [[topic SLOTHFULNESS|SLOTHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.11|<< 2 Thessalonians 3:11]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.13|2 Thessalonians 3:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

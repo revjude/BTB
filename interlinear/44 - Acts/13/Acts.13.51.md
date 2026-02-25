@@ -1,10 +1,55 @@
+---
+title: Acts 13:51
+type: Verse
+kjv: "But they shook off the dust of their feet against them, and came unto Iconium."
+bsb: "So they shook the dust off their feet in protest against them and went to Iconium."
+greek: "οἱ δὲ ἐκτιναξάμενοι τὸν κονιορτὸν τῶν ποδῶν αὐτῶν ἐπ᾽ αὐτοὺς ἦλθον εἰς Ἰκόνιον."
+pericope: "[[Acts.13.42 A Light for the Gentiles|A Light for the Gentiles]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic DUST|DUST]]"
+- "[[topic ICONIUM|ICONIUM]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1621]]"
+- "[[G2868]]"
+- "[[G4228]]"
+- "[[G0846]]"
+- "[[G1909]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G2430]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 13:51**<big><big>[[Acts.13.42 A Light for the Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But they shook off the dust of their feet against them, and came unto Iconium.
 <small><sub>**BSB:**</sub></small>
 So they shook the dust off their feet in protest against them and went to Iconium.
-<small><sub>**Literal:**</sub></small>
-<the> But having shaken off the dust of the feet of them against them they went to Iconium.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.50|<< Acts 13:50]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.52|Acts 13:52 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G1621\|ἐκτιναξάμενοι]]  [[G3588\|τὸν]]  [[G2868\|κονιορτὸν]]  [[G3588\|τῶν]]  [[G4228\|ποδῶν]]  [[G0846\|αὐτῶν]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτοὺς]]  [[G2064\|ἦλθον]]  [[G1519\|εἰς]]  [[G2430\|Ἰκόνιον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic DUST|DUST]] • [[topic ICONIUM|ICONIUM]] • [[topic LAW|LAW]] • [[topic PAUL|PAUL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.50|<< Acts 13:50]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.52|Acts 13:52 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

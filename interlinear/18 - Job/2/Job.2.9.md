@@ -1,8 +1,64 @@
+---
+title: Job 2:9
+type: Verse
+kjv: "Then said his wife unto him, Dost thou still retain thine integrity? curse God, and die."
+bsb: "Then Job’s wife said to him, “Do you still retain your integrity? Curse God and die!”"
+hebrew: "וַתֹּ֤אמֶר לוֹ֙ אִשְׁתּ֔וֹ עֹדְךָ֖ מַחֲזִ֣יק בְּתֻמָּתֶ֑ךָ בָּרֵ֥ךְ אֱלֹהִ֖ים וָמֻֽת׃"
+pericope: "[[Job.2.1 Job Loses His Health|Job Loses His Health]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 2
+book/chapter: "[[Job.2|Job 2]]"
+chronological_order: 13
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic JOB|JOB]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H5750]]"
+- "[[H9041]]"
+- "[[H2388H]]"
+- "[[H9003]]"
+- "[[H8538]]"
+- "[[H9021]]"
+- "[[H1288]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 2:9**<big><big>[[Job.2.1 Job Loses His Health|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said his wife unto him, Dost thou still retain thine integrity? curse God, and die.
 <small><sub>**BSB:**</sub></small>
 Then Job’s wife said to him, “Do you still retain your integrity? Curse God and die!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֤אמֶר]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H0802H\|אִשְׁתּ֔]][[H9023\|וֹ]] [[H5750\|עֹדְ]][[H9041\|ךָ֖]] [[H2388H\|מַחֲזִ֣יק]] [[H9003\|בְּ]][[H8538\|תֻמָּתֶ֑]][[H9021\|ךָ]] [[H1288\|בָּרֵ֥ךְ]] [[H0430G\|אֱלֹהִ֖ים]] [[H9002\|וָ]][[H4191\|מֻֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic JOB|JOB]] • [[topic RESIGNATION|RESIGNATION]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.2.8|<< Job 2:8]]</td><td align="center" style="border:none;">[[Job.2|Job 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.2.10|Job 2:10 >>]]</td></tr></table>
 

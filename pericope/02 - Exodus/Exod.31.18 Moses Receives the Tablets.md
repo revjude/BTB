@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Moses Receives the Tablets
+type: Pericope
 pericope: "[[Exod.31.18 Moses Receives the Tablets|Moses Receives the Tablets]]"
-verse_count: 1
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 31
 book/chapter: "[[Exod.31|Exodus 31]]"
-genre:
+chronological_order: 123
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,11 +26,12 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 1
 verses:
 - "[[Exod.31.18]]"
 ---
 
-[[Exod.31|Exodus 31:18 - Exodus 31:18]]
+<small>[[Exod.31|Exodus 31:18-18]]</small>
 *Moses Receives the Tablets*
 
 [[Exod.31.18|18]] And he gave unto Moses, when he had made an end of communing with him upon mount Sinai, two tables of testimony, tables of stone, written with the finger of God.

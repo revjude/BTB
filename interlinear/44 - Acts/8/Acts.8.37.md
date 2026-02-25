@@ -1,10 +1,65 @@
+---
+title: Acts 8:37
+type: Verse
+kjv: "And Philip said, If thou believest with all thine heart, thou mayest. And he answered and said, I believe that Jesus Christ is the Son of God."
+bsb: ""
+greek: "εἶπε δὲ ὁ Φίλιππος· εἰ πιστεύεις ἐξ ὅλης τῆς καρδίας, ἔξεστιν. ἀποκριθεὶς δὲ εἶπε· πιστεύω τὸν υἱὸν τοῦ θεοῦ εἶναι τὸν Ἰησοῦν Χριστόν."
+pericope: "[[Acts.8.26 Philip and the Ethiopian|Philip and the Ethiopian]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 8
+book/chapter: "[[Acts.8|Acts 8]]"
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GAZA|GAZA]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHILIP|PHILIP]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G5376J]]"
+- "[[G1487G]]"
+- "[[G4100]]"
+- "[[G1537]]"
+- "[[G3650]]"
+- "[[G2588]]"
+- "[[G1832]]"
+- "[[G0611]]"
+- "[[G5207]]"
+- "[[G2316]]"
+- "[[G1511]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+texts:
+- K
+---
+
 **Acts 8:37**<big><big>[[Acts.8.26 Philip and the Ethiopian|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Philip said, If thou believest with all thine heart, thou mayest. And he answered and said, I believe that Jesus Christ is the Son of God.
 <small><sub>**BSB:**</sub></small>
 
-<small><sub>**Literal:**</sub></small>
-said now <the> Philip: if believe you from all the heart it is lawful. answering now said: I believe the son <the> of God to be <the> Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.36|<< Acts 8:36]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.38|Acts 8:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπε]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G5376J\|Φίλιππος·]]  [[G1487G\|εἰ]]  [[G4100\|πιστεύεις]]  [[G1537\|ἐξ]]  [[G3650\|ὅλης]]  [[G3588\|τῆς]]  [[G2588\|καρδίας,]]  [[G1832\|ἔξεστιν.]]  [[G0611\|ἀποκριθεὶς]]  [[G1161\|δὲ]]  [[G2036\|εἶπε·]]  [[G4100\|πιστεύω]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1511\|εἶναι]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G5547\|Χριστόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic CONFESSION|CONFESSION]] • [[topic CONVERTS|CONVERTS]] • [[topic ETHIOPIA|ETHIOPIA]] • [[topic FAITH|FAITH]] • [[topic GAZA|GAZA]] • [[topic HEART|HEART]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHILIP|PHILIP]] • [[topic PREACHING|PREACHING]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.36|<< Acts 8:36]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.38|Acts 8:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

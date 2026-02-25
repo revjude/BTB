@@ -1,8 +1,55 @@
+---
+title: Proverbs 5:4
+type: Verse
+kjv: "But her end is bitter as wormwood, sharp as a twoedged sword."
+bsb: "in the end she is bitter as wormwood, sharp as a double-edged sword."
+hebrew: "וְֽ֭אַחֲרִיתָהּ מָרָ֣ה כַֽלַּעֲנָ֑ה חַ֝דָּ֗ה כְּחֶ֣רֶב פִּיּֽוֹת׃"
+pericope: "[[Prov.5.1 Avoiding Immorality|Avoiding Immorality]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 5
+book/chapter: "[[Prov.5|Proverbs 5]]"
+chronological_order: 460
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic WORMWOOD|WORMWOOD]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0319]]"
+- "[[H9024]]"
+- "[[H4751]]"
+- "[[H9004]]"
+- "[[H3939]]"
+- "[[H2299]]"
+- "[[H2719]]"
+- "[[H6310H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 5:4**<big><big>[[Prov.5.1 Avoiding Immorality|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But her end is bitter as wormwood, sharp as a twoedged sword.
 <small><sub>**BSB:**</sub></small>
 in the end she is bitter as wormwood, sharp as a double-edged sword.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְֽ֭]][[H0319\|אַחֲרִיתָ]][[H9024\|הּ]] [[H4751\|מָרָ֣ה]] [[H9004\|כַֽ]][[H3939\|לַּעֲנָ֑ה]] [[H2299\|חַ֝דָּ֗ה]] [[H9004\|כְּ]][[H2719\|חֶ֣רֶב]] [[H6310H\|פִּיּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic WOMEN|WOMEN]] • [[topic WORMWOOD|WORMWOOD]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.5.3|<< Proverbs 5:3]]</td><td align="center" style="border:none;">[[Prov.5|Proverbs 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.5.5|Proverbs 5:5 >>]]</td></tr></table>
 

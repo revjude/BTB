@@ -1,8 +1,72 @@
+---
+title: Isaiah 29:11
+type: Verse
+kjv: "And the vision of all is become unto you as the words of a book that is sealed, which men deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it is sealed:"
+bsb: "And the entire vision will be to you like the words sealed in a scroll. If it is handed to someone to read, he will say, “I cannot, because it is sealed.”"
+hebrew: "וַתְּהִ֨י לָכֶ֜ם חָז֣וּת הַכֹּ֗ל כְּדִבְרֵי֮ הַסֵּ֣פֶר הֶֽחָתוּם֒ אֲשֶֽׁר־ יִתְּנ֣וּ אֹת֗וֹ אֶל־ יוֹדֵ֥עַ סֵ֛פֶר לֵאמֹ֖ר קְרָ֣א נָא־ זֶ֑ה וְאָמַר֙ לֹ֣א אוּכַ֔ל כִּ֥י חָת֖וּם הֽוּא׃"
+pericope: "[[Isa.29.1 Woe to David’s City|Woe to David’s City]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 29
+book/chapter: "[[Isa.29|Isaiah 29]]"
+chronological_order: 672
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic REPROBACY|REPROBACY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H2380]]"
+- "[[H9009]]"
+- "[[H3605]]"
+- "[[H9004]]"
+- "[[H1697G]]"
+- "[[H5612H]]"
+- "[[H2856]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H3045]]"
+- "[[H0559]]"
+- "[[H7121J]]"
+- "[[H4994]]"
+- "[[H2088]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H3588A]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Isaiah 29:11**<big><big>[[Isa.29.1 Woe to David’s City|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the vision of all is become unto you as the words of a book that is sealed, which [men] deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it [is] sealed:
 <small><sub>**BSB:**</sub></small>
 And the entire vision will be to you like the words sealed in a scroll. If it is handed to someone to read, he will say, “I cannot, because it is sealed.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|תְּהִ֨י]] [[H9005\|לָ]][[H9036\|כֶ֜ם]] [[H2380\|חָז֣וּת]] [[H9009\|הַ]][[H3605\|כֹּ֗ל]] [[H9004\|כְּ]][[H1697G\|דִבְרֵי֮]] [[H9009\|הַ]][[H5612H\|סֵּ֣פֶר]] [[H9009\|הֶֽ]][[H2856\|חָתוּם֒]] [[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H5414G\|יִתְּנ֣וּ]] [[H0853\|אֹת֗]][[H9033\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H3045\|יוֹדֵ֥עַ]] [[H5612H\|סֵ֛פֶר]] [[H9005\|לֵ]][[H0559\|אמֹ֖ר]] [[H7121J\|קְרָ֣א]] [[H4994\|נָא]][[H9014\|־]] [[H2088\|זֶ֑ה]] [[H9001\|וְ]][[H0559\|אָמַר֙]] [[H3808\|לֹ֣א]] [[H3201\|אוּכַ֔ל]] [[H3588A\|כִּ֥י]] [[H2856\|חָת֖וּם]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic ISAIAH|ISAIAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic REPROBACY|REPROBACY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.29.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.10|<< Isaiah 29:10]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.12|Isaiah 29:12 >>]]</td></tr></table>
 
@@ -33,6 +97,6 @@ And the entire vision will be to you like the words sealed in a scroll. If it is
 | it  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.10|<< Isaiah 29:10]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.12|Isaiah 29:12 >>]]</td></tr></table>
 
-[^1]: the scroll  | **<big>[[H5612H|סֵּפֶר]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> se.fer<small><sup>[[HNcbsa]]</sup></small> | K
+[^1]: the scroll  | **<big>[[H9009|הַ]]</big><big>[[H5612H|סֵּפֶר]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> se.fer<small><sup>[[HNcbsa]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>הסֵ֛פֶר</big></span>**
 

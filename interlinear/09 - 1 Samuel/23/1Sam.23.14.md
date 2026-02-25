@@ -1,8 +1,64 @@
+---
+title: 1 Samuel 23:14
+type: Verse
+kjv: "And David abode in the wilderness in strong holds, and remained in a mountain in the wilderness of Ziph. And Saul sought him every day, but God delivered him not into his hand."
+bsb: "And David stayed in the wilderness strongholds and in the hill country of the Wilderness of Ziph. Day after day Saul searched for him, but God would not deliver David into his hand."
+hebrew: "וַיֵּ֨שֶׁב דָּוִ֤ד בַּמִּדְבָּר֙ בַּמְּצָד֔וֹת וַיֵּ֥שֶׁב בָּהָ֖ר בְּמִדְבַּר־ זִ֑יף וַיְבַקְשֵׁ֤הוּ שָׁאוּל֙ כָּל־ הַיָּמִ֔ים וְלֹֽא־ נְתָנ֥וֹ אֱלֹהִ֖ים בְּיָדֽוֹ׃"
+pericope: "[[1Sam.23.7 Saul Pursues David|Saul Pursues David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 23
+book/chapter: "[[1Sam.23|1 Samuel 23]]"
+chronological_order: 302
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic ZIPH|ZIPH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H1732]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H4679]]"
+- "[[H2022H]]"
+- "[[H9014]]"
+- "[[H2128H]]"
+- "[[H1245]]"
+- "[[H9033]]"
+- "[[H7586G]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5414G]]"
+- "[[H0430G]]"
+- "[[H3027H]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 23:14**<big><big>[[1Sam.23.7 Saul Pursues David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David abode in the wilderness in strong holds, and remained in a mountain in the wilderness of Ziph. And Saul sought him every day, but God delivered him not into his hand.
 <small><sub>**BSB:**</sub></small>
 And David stayed in the wilderness strongholds and in the hill country of the Wilderness of Ziph. Day after day Saul searched for him, but God would not deliver David into his hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3427\|יֵּ֨שֶׁב]] [[H1732\|דָּוִ֤ד]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּר֙]] [[H9003\|בַּ]][[H4679\|מְּצָד֔וֹת]] [[H9001\|וַ]][[H3427\|יֵּ֥שֶׁב]] [[H9003\|בָּ]][[H2022H\|הָ֖ר]] [[H9003\|בְּ]][[H4057B\|מִדְבַּר]][[H9014\|־]] [[H2128H\|זִ֑יף]] [[H9001\|וַ]][[H1245\|יְבַקְשֵׁ֤]][[H9033\|הוּ]] [[H7586G\|שָׁאוּל֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יָּמִ֔ים]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5414G\|נְתָנ֥]][[H9033\|וֹ]] [[H0430G\|אֱלֹהִ֖ים]] [[H9003\|בְּ]][[H3027H\|יָדֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic MALICE|MALICE]] • [[topic ZIPH|ZIPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.23.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.13|<< 1 Samuel 23:13]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.15|1 Samuel 23:15 >>]]</td></tr></table>
 

@@ -1,10 +1,58 @@
+---
+title: Matthew 16:10
+type: Verse
+kjv: "Neither the seven loaves of the four thousand, and how many baskets ye took up?"
+bsb: "Or the seven loaves for the four thousand, and how many basketfuls you gathered?"
+jesus_said: "Neither the seven loaves of the four thousand, and how many baskets ye took up?"
+greek: "οὐδὲ τοὺς ἑπτὰ ἄρτους τῶν τετρακισχιλίων καὶ πόσας σπυρίδας ἐλάβετε;"
+pericope: "[[Matt.16.5 The Leaven of the Pharisees and Sadducees|The Leaven of the Pharisees and Sadducees]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 16
+book/chapter: "[[Matt.16|Matthew 16]]"
+chronological_order: 966
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic BASKET|BASKET]]"
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEAVEN (YEAST)|LEAVEN (YEAST)]]"
+- "[[topic LOAVES|LOAVES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+strongs:
+- "[[G3761]]"
+- "[[G3588]]"
+- "[[G2033]]"
+- "[[G0740]]"
+- "[[G5070]]"
+- "[[G2532]]"
+- "[[G4214]]"
+- "[[G4711]]"
+- "[[G2983]]"
+texts:
+- NKO
+---
+
 **Matthew 16:10**<big><big>[[Matt.16.5 The Leaven of the Pharisees and Sadducees|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Neither the seven loaves of the four thousand, and how many baskets ye took up?
 <small><sub>**BSB:**</sub></small>
 Or the seven loaves for the four thousand, and how many basketfuls you gathered?
-<small><sub>**Literal:**</sub></small>
-Nor [remember] the seven loaves for the four thousand and how many baskets you gathered?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.9|<< Matthew 16:9]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.11|Matthew 16:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3761\|οὐδὲ]]  [[G3588\|τοὺς]]  [[G2033\|ἑπτὰ]]  [[G0740\|ἄρτους]]  [[G3588\|τῶν]]  [[G5070\|τετρακισχιλίων]]  [[G2532\|καὶ]]  [[G4214\|πόσας]]  [[G4711\|σπυρίδας]]  [[G2983\|ἐλάβετε;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic BASKET|BASKET]] • [[topic CHIDING|CHIDING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEAVEN (YEAST)|LEAVEN (YEAST)]] • [[topic LOAVES|LOAVES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PHARISEES|PHARISEES]] • [[topic SADDUCEES|SADDUCEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.9|<< Matthew 16:9]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.11|Matthew 16:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

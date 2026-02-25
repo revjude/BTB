@@ -1,8 +1,54 @@
+---
+title: Ecclesiastes 10:12
+type: Verse
+kjv: "The words of a wise man’s mouth are gracious; but the lips of a fool will swallow up himself."
+bsb: "The words of a wise man’s mouth are gracious, but the lips of a fool consume him."
+hebrew: "דִּבְרֵ֥י פִי־ חָכָ֖ם חֵ֑ן וְשִׂפְת֥וֹת כְּסִ֖יל תְּבַלְּעֶֽנּוּ׃"
+pericope: "[[Eccl.10.1 Wisdom and Folly|Wisdom and Folly]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 10
+book/chapter: "[[Eccl.10|Ecclesiastes 10]]"
+chronological_order: 548
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic FOOL|FOOL]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORDS|WORDS]]"
+strongs:
+- "[[H1697G]]"
+- "[[H6310G]]"
+- "[[H9014]]"
+- "[[H2450]]"
+- "[[H2580]]"
+- "[[H9002]]"
+- "[[H8193G]]"
+- "[[H3684]]"
+- "[[H1104]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 10:12**<big><big>[[Eccl.10.1 Wisdom and Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The words of a wise man’s mouth [are] gracious; but the lips of a fool will swallow up himself.
 <small><sub>**BSB:**</sub></small>
 The words of a wise man’s mouth are gracious, but the lips of a fool consume him.
+<small><sub>**Hebrew:**</sub></small>
+[[H1697G\|דִּבְרֵ֥י]] [[H6310G\|פִי]][[H9014\|־]] [[H2450\|חָכָ֖ם]] [[H2580\|חֵ֑ן]] [[H9002\|וְ]][[H8193G\|שִׂפְת֥וֹת]] [[H3684\|כְּסִ֖יל]] [[H1104\|תְּבַלְּעֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FOOL|FOOL]] • [[topic SPEAKING|SPEAKING]] • [[topic WISDOM|WISDOM]] • [[topic WORDS|WORDS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.10.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.11|<< Ecclesiastes 10:11]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.13|Ecclesiastes 10:13 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Psalm 72:16
+type: Verse
+kjv: "There shall be an handful of corn in the earth upon the top of the mountains; the fruit thereof shall shake like Lebanon: and they of the city shall flourish like grass of the earth."
+bsb: "May there be an abundance of grain in the land; may it sway atop the hills. May its fruit trees flourish like the forests of Lebanon, the people of its cities like the grass of the field."
+hebrew: "יְהִ֤י פִסַּת־ בַּ֨ר׀ בָּאָרֶץ֮ בְּרֹ֪אשׁ הָ֫רִ֥ים יִרְעַ֣שׁ כַּלְּבָנ֣וֹן פִּרְי֑וֹ וְיָצִ֥יצוּ מֵ֝עִ֗יר כְּעֵ֣שֶׂב הָאָֽרֶץ׃"
+pericope: "[[Ps.72.1 Endow the King with Your Justice|Endow the King with Your Justice]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 72
+book/chapter: "[[Ps.72|Psalm 72]]"
+chronological_order: 446
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CEDAR|CEDAR]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CORN|CORN]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H1961]]"
+- "[[H6451]]"
+- "[[H9014]]"
+- "[[H1250A]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H7218I]]"
+- "[[H2022G]]"
+- "[[H7493]]"
+- "[[H9004]]"
+- "[[H3844G]]"
+- "[[H6529]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H6692A]]"
+- "[[H9006]]"
+- "[[H5892B]]"
+- "[[H6212]]"
+- "[[H9009]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 72:16**<big><big>[[Ps.72.1 Endow the King with Your Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There shall be an handful of corn in the earth upon the top of the mountains; the fruit thereof shall shake like Lebanon: and [they] of the city shall flourish like grass of the earth.
 <small><sub>**BSB:**</sub></small>
 May there be an abundance of grain in the land; may it sway atop the hills. May its fruit trees flourish like the forests of Lebanon, the people of its cities like the grass of the field.
+<small><sub>**Hebrew:**</sub></small>
+[[H1961\|יְהִ֤י]] [[H6451\|פִסַּת]][[H9014\|־]] [[H1250A\|בַּ֨ר]][[H9015\|׀]] [[H9003\|בָּ]][[H0776G\|אָרֶץ֮]] [[H9003\|בְּ]][[H7218I\|רֹ֪אשׁ]] [[H2022G\|הָ֫רִ֥ים]] [[H7493\|יִרְעַ֣שׁ]] [[H9004\|כַּ]][[H3844G\|לְּבָנ֣וֹן]] [[H6529\|פִּרְי֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H6692A\|יָצִ֥יצוּ]] [[H9006\|מֵ֝]][[H5892B\|עִ֗יר]] [[H9004\|כְּ]][[H6212\|עֵ֣שֶׂב]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CEDAR|CEDAR]] • [[topic CHURCH|CHURCH]] • [[topic CORN|CORN]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.72.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.15|<< Psalms 72:15]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.17|Psalms 72:17 >>]]</td></tr></table>
 

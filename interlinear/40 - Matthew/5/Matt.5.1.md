@@ -1,10 +1,57 @@
+---
+title: Matthew 5:1
+type: Verse
+kjv: "And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:"
+bsb: "When Jesus saw the crowds, He went up on the mountain and sat down. His disciples came to Him,"
+greek: "Ἰδὼν δὲ τοὺς ὄχλους ἀνέβη εἰς τὸ ὄρος, καὶ καθίσαντος αὐτοῦ προσῆλθαν αὐτῷ οἱ μαθηταὶ αὐτοῦ."
+pericope: "[[Matt.5.1 The Sermon on the Mount|The Sermon on the Mount]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 5
+book/chapter: "[[Matt.5|Matthew 5]]"
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[G1492H]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G0305]]"
+- "[[G1519]]"
+- "[[G3735]]"
+- "[[G2532]]"
+- "[[G2523]]"
+- "[[G0846]]"
+- "[[G4334]]"
+- "[[G3101]]"
+texts:
+- NKO
+---
+
 **Matthew 5:1**<big><big>[[Matt.5.1 The Sermon on the Mount|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:
 <small><sub>**BSB:**</sub></small>
 When Jesus saw the crowds, He went up on the mountain and sat down. His disciples came to Him,
-<small><sub>**Literal:**</sub></small>
-Having seen then the crowds He went up on the mountain, and when was sitting down He they came to Him the disciples of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.25|<< Matthew 4:25]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.2|Matthew 5:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1492H\|Ἰδὼν]]  [[G1161\|δὲ]]  [[G3588\|τοὺς]]  [[G3793\|ὄχλους]]  [[G0305\|ἀνέβη]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3735\|ὄρος,]]  [[G2532\|καὶ]]  [[G2523\|καθίσαντος]]  [[G0846\|αὐτοῦ]]  [[G4334\|προσῆλθαν]]  [[G0846\|αὐτῷ]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic PREACHING|PREACHING]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RELIGION|RELIGION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.25|<< Matthew 4:25]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.2|Matthew 5:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,53 @@
+---
+title: Jeremiah 49:15
+type: Verse
+kjv: "For, lo, I will make thee small among the heathen, and despised among men."
+bsb: "“For behold, I will make you small among nations, despised among men."
+hebrew: "כִּֽי־ הִנֵּ֥ה קָטֹ֛ן נְתַתִּ֖יךָ בַּגּוֹיִ֑ם בָּז֖וּי בָּאָדָֽם׃"
+pericope: "[[Jer.49.7 Judgment on Edom|Judgment on Edom]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2009]]"
+- "[[H6996B]]"
+- "[[H5414I]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H0959]]"
+- "[[H0120G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 49:15**<big><big>[[Jer.49.7 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, lo, I will make thee small among the heathen, [and] despised among men.
 <small><sub>**BSB:**</sub></small>
 “For behold, I will make you small among nations, despised among men.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H2009\|הִנֵּ֥ה]] [[H6996B\|קָטֹ֛ן]] [[H5414I\|נְתַתִּ֖י]][[H9031\|ךָ]] [[H9003\|בַּ]][[H1471A\|גּוֹיִ֑ם]] [[H0959\|בָּז֖וּי]] [[H9003\|בָּ]][[H0120G\|אָדָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.14|<< Jeremiah 49:14]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.16|Jeremiah 49:16 >>]]</td></tr></table>
 

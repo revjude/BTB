@@ -1,8 +1,55 @@
+---
+title: Hosea 5:10
+type: Verse
+kjv: "The princes of Judah were like them that remove the bound: therefore I will pour out my wrath upon them like water."
+bsb: "The princes of Judah are like those who move boundary stones; I will pour out My fury upon them like water."
+hebrew: "הָיוּ֙ שָׂרֵ֣י יְהוּדָ֔ה כְּמַסִּיגֵ֖י גְּב֑וּל עֲלֵיהֶ֕ם אֶשְׁפּ֥וֹךְ כַּמַּ֖יִם עֶבְרָתִֽי׃"
+pericope: "[[Hos.5.1 Judgment on Israel and Judah|Judgment on Israel and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 5
+book/chapter: "[[Hos.5|Hosea 5]]"
+chronological_order: 646
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic LANDMARKS|LANDMARKS]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H1961]]"
+- "[[H8269]]"
+- "[[H3063G]]"
+- "[[H9004]]"
+- "[[H5253]]"
+- "[[H1366G]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H8210G]]"
+- "[[H4325G]]"
+- "[[H5678]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 5:10**<big><big>[[Hos.5.1 Judgment on Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The princes of Judah were like them that remove the bound: [therefore] I will pour out my wrath upon them like water.
 <small><sub>**BSB:**</sub></small>
 The princes of Judah are like those who move boundary stones; I will pour out My fury upon them like water.
+<small><sub>**Hebrew:**</sub></small>
+[[H1961\|הָיוּ֙]] [[H8269\|שָׂרֵ֣י]] [[H3063G\|יְהוּדָ֔ה]] [[H9004\|כְּ]][[H5253\|מַסִּיגֵ֖י]] [[H1366G\|גְּב֑וּל]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֕ם]] [[H8210G\|אֶשְׁפּ֥וֹךְ]] [[H9004\|כַּ]][[H4325G\|מַּ֖יִם]] [[H5678\|עֶבְרָתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic LANDMARKS|LANDMARKS]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.5.9|<< Hosea 5:9]]</td><td align="center" style="border:none;">[[Hos.5|Hosea 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.5.11|Hosea 5:11 >>]]</td></tr></table>
 

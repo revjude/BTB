@@ -1,8 +1,58 @@
+---
+title: Psalm 24:9
+type: Verse
+kjv: "Lift up your heads, O ye gates; even lift them up, ye everlasting doors; and the King of glory shall come in."
+bsb: "Lift up your heads, O gates! Be lifted up, O ancient doors, that the King of Glory may enter!"
+hebrew: "שְׂא֤וּ שְׁעָרִ֨ים׀ רָֽאשֵׁיכֶ֗ם וּ֭שְׂאוּ פִּתְחֵ֣י עוֹלָ֑ם וְ֝יָבֹא מֶ֣לֶךְ הַכָּבֽוֹד׃"
+pericope: "[[Ps.24.1 The Earth Is the LORD’s|The Earth Is the LORD’s]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 24
+book/chapter: "[[Ps.24|Psalm 24]]"
+chronological_order: 399
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H5375P]]"
+- "[[H8179G]]"
+- "[[H9015]]"
+- "[[H7218A]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H6607]]"
+- "[[H5769J]]"
+- "[[H0935G]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H3519]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 24:9**<big><big>[[Ps.24.1 The Earth Is the LORD’s|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lift up your heads, O ye gates; even lift [them] up, ye everlasting doors; and the King of glory shall come in.
 <small><sub>**BSB:**</sub></small>
 Lift up your heads, O gates! Be lifted up, O ancient doors, that the King of Glory may enter!
+<small><sub>**Hebrew:**</sub></small>
+[[H5375P\|שְׂא֤וּ]] [[H8179G\|שְׁעָרִ֨ים]][[H9015\|׀]] [[H7218A\|רָֽאשֵׁי]][[H9026\|כֶ֗ם]] [[H9002\|וּ֭]][[H5375P\|שְׂאוּ]] [[H6607\|פִּתְחֵ֣י]] [[H5769J\|עוֹלָ֑ם]] [[H9002\|וְ֝]][[H0935G\|יָבֹא]] [[H4428G\|מֶ֣לֶךְ]] [[H9009\|הַ]][[H3519\|כָּבֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.24.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.24.8|<< Psalms 24:8]]</td><td align="center" style="border:none;">[[Ps.24|Psalms 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.24.10|Psalms 24:10 >>]]</td></tr></table>
 

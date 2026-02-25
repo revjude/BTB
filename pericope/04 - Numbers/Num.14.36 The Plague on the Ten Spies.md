@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Plague on the Ten Spies
+type: Pericope
 pericope: "[[Num.14.36 The Plague on the Ten Spies|The Plague on the Ten Spies]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 14
 book/chapter: "[[Num.14|Numbers 14]]"
-genre:
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 4
 verses:
 - "[[Num.14.36]]"
 - "[[Num.14.37]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Num.14.39]]"
 ---
 
-[[Num.14|Numbers 14:36 - Numbers 14:39]]
+<small>[[Num.14|Numbers 14:36-39]]</small>
 *The Plague on the Ten Spies*
 
 [[Num.14.36|36]] And the men, which Moses sent to search the land, who returned, and made all the congregation to murmur against him, by bringing up a slander upon the land,

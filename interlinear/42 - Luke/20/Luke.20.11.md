@@ -1,10 +1,63 @@
+---
+title: Luke 20:11
+type: Verse
+kjv: "And again he sent another servant: and they beat him also, and entreated him shamefully, and sent him away empty."
+bsb: "So he sent another servant, but they beat him and treated him shamefully, sending him away empty-handed."
+jesus_said: "And again he sent another servant: and they beat him also, and entreated him shamefully, and sent him away empty."
+greek: "καὶ προσέθετο ἕτερον πέμψαι δοῦλον· οἱ δὲ κἀκεῖνον κἀκεῖνον δείραντες καὶ ἀτιμάσαντες ἐξαπέστειλαν κενόν."
+pericope: "[[Luke.20.9 The Parable of the Wicked Tenants|The Parable of the Wicked Tenants]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 20
+book/chapter: "[[Luke.20|Luke 20]]"
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CAPITAL AND LABOR|CAPITAL AND LABOR]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAND|LAND]]"
+- "[[topic LEASE|LEASE]]"
+- "[[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]]"
+- "[[topic RENTING|RENTING]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[G2532]]"
+- "[[G4369]]"
+- "[[G2087]]"
+- "[[G3992]]"
+- "[[G1401]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1565]]"
+- "[[G1194]]"
+- "[[G0818]]"
+- "[[G1821]]"
+- "[[G2756]]"
+texts:
+- NKO
+---
+
 **Luke 20:11**<big><big>[[Luke.20.9 The Parable of the Wicked Tenants|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And again he sent another servant: and they beat him also, and entreated [him] shamefully, and sent [him] away empty.
 <small><sub>**BSB:**</sub></small>
 So he sent another servant, but they beat him and treated him shamefully, sending him away empty-handed.
-<small><sub>**Literal:**</sub></small>
-And he proceeded another to send a servant; <the> but him having beaten and having dishonored they sent away empty-handed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.10|<< Luke 20:10]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.12|Luke 20:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4369\|προσέθετο]]  [[G2087\|ἕτερον]]  [[G3992\|πέμψαι]]  [[G1401\|δοῦλον·]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2532\|κἀκεῖνον]]  <sup><small>[[G1565\| [ • ] ]]</small></sup>  [[G1194\|δείραντες]]  [[G2532\|καὶ]]  [[G0818\|ἀτιμάσαντες]]  [[G1821\|ἐξαπέστειλαν]]  [[G2756\|κενόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPITAL AND LABOR|CAPITAL AND LABOR]] • [[topic DEBTOR|DEBTOR]] • [[topic GOD|GOD]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAND|LAND]] • [[topic LEASE|LEASE]] • [[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]] • [[topic RENTING|RENTING]] • [[topic REPROOF|REPROOF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.10|<< Luke 20:10]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.12|Luke 20:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

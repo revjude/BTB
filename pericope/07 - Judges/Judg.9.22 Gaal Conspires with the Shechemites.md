@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Gaal Conspires with the Shechemites
+type: Pericope
 pericope: "[[Judg.9.22 Gaal Conspires with the Shechemites|Gaal Conspires with the Shechemites]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 9
 book/chapter: "[[Judg.9|Judges 9]]"
-genre:
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 8
 verses:
 - "[[Judg.9.22]]"
 - "[[Judg.9.23]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Judg.9.29]]"
 ---
 
-[[Judg.9|Judges 9:22 - Judges 9:29]]
+<small>[[Judg.9|Judges 9:22-29]]</small>
 *Gaal Conspires with the Shechemites*
 
 [[Judg.9.22|22]] When Abimelech had reigned three years over Israel,

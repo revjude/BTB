@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Rejection at Nazareth
+type: Pericope
 pericope: "[[Mark.6.1 The Rejection at Nazareth|The Rejection at Nazareth]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Mark
 chapter: 6
 book/chapter: "[[Mark.6|Mark 6]]"
-genre:
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 6
 verses:
 - "[[Mark.6.1]]"
 - "[[Mark.6.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Mark.6.6]]"
 ---
 
-[[Mark.6|Mark 6:1 - Mark 6:6]]
+<small>[[Mark.6|Mark 6:1-6]]</small>
 *The Rejection at Nazareth*
 
 [[Mark.6.1|1]] And he went out from thence, and came into his own country; and his disciples follow him.

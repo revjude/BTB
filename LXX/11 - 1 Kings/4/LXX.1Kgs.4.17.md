@@ -1,6 +1,51 @@
+---
+title: LXX 1 Kings 4:17
+type: Verse
+lxx: "Jehoshaphat son of Paruah was in Issachar."
+greek: "Ιωσαφάτ υιός Φαρουέ εν Ισάχαρ"
+original_language: Greek
+testament: Old
+book: 1 Kings
+chapter: 4
+book/chapter: "[[1Kgs.4|1 Kings 4]]"
+chronological_order: 444
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic COMMISSARY|COMMISSARY]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic KING|KING]]"
+- "[[topic OFFICER|OFFICER]]"
+- "[[topic PARUAH|PARUAH]]"
+- "[[topic PURVEYOR|PURVEYOR]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TAX|TAX]]"
+strongs:
+- "[[G2498]]"
+- "[[G5207]]"
+- "[[H6515]]"
+- "[[G1722]]"
+- "[[G2466]]"
+---
+
 **LXX 1 Kings 4:17** 
 <small><sub>**LXX:**</sub></small>
 Jehoshaphat son of Paruah \[was\] in Issachar. 
+<small><sub>**Greek:**</sub></small>
+[[G2498\|Ιωσαφάτ]] [[G5207\|υιός]] [[H6515\|Φαρουέ]] [[G1722\|εν]] [[G2466\|Ισάχαρ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic COMMISSARY|COMMISSARY]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic KING|KING]] • [[topic OFFICER|OFFICER]] • [[topic PARUAH|PARUAH]] • [[topic PURVEYOR|PURVEYOR]] • [[topic RULERS|RULERS]] • [[topic SOLOMON|SOLOMON]] • [[topic TAX|TAX]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Kgs.4.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.16|<< 1 Kings 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.18|1 Kings 4:18 >>]]</td></tr></table>
 
@@ -11,6 +56,6 @@ Jehoshaphat son of Paruah \[was\] in Issachar.
 | of Paruah | **<big>[[H6515\|Φαρουέ]]</big>** |
 | \[was\] in | **<big>[[G1722\|εν]]</big>** |
 | Issachar. | **<big>[[G2466\|Ισάχαρ]]</big>** |
-[[1Kgs.4.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.16|<< 1 Kings 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.18|1 Kings 4:18 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.16|<< 1 Kings 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.18|1 Kings 4:18 >>]]</td></tr></table>
 
 

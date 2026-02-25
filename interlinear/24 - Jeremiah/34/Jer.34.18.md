@@ -1,8 +1,68 @@
+---
+title: Jeremiah 34:18
+type: Verse
+kjv: "And I will give the men that have transgressed my covenant, which have not performed the words of the covenant which they had made before me, when they cut the calf in twain, and passed between the parts thereof,"
+bsb: "And those who have transgressed My covenant and have not fulfilled the terms of the covenant they made before Me, I will treat like the calf they cut in two in order to pass between its pieces."
+hebrew: "וְנָתַתִּ֣י אֶת־ הָאֲנָשִׁ֗ים הָעֹֽבְרִים֙ אֶת־ בְּרִתִ֔י אֲשֶׁ֤ר לֹֽא־ הֵקִ֙ימוּ֙ אֶת־ דִּבְרֵ֣י הַבְּרִ֔ית אֲשֶׁ֥ר כָּרְת֖וּ לְפָנָ֑י הָעֵ֙גֶל֙ אֲשֶׁ֣ר כָּרְת֣וּ לִשְׁנַ֔יִם וַיַּעַבְר֖וּ בֵּ֥ין בְּתָרָֽיו׃"
+pericope: "[[Jer.34.8 Freedom for Hebrew Slaves|Freedom for Hebrew Slaves]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 34
+book/chapter: "[[Jer.34|Jeremiah 34]]"
+chronological_order: 757
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H5674D]]"
+- "[[H1285]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H6965I]]"
+- "[[H1697J]]"
+- "[[H3772H]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H5695]]"
+- "[[H3772G]]"
+- "[[H8147]]"
+- "[[H5674A]]"
+- "[[H0996G]]"
+- "[[H1335]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 34:18**<big><big>[[Jer.34.8 Freedom for Hebrew Slaves|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will give the men that have transgressed my covenant, which have not performed the words of the covenant which they had made before me, when they cut the calf in twain, and passed between the parts thereof,
 <small><sub>**BSB:**</sub></small>
 And those who have transgressed My covenant and have not fulfilled the terms of the covenant they made before Me, I will treat like the calf they cut in two in order to pass between its pieces.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414I\|נָתַתִּ֣י]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֗ים]] [[H9009\|הָ]][[H5674D\|עֹֽבְרִים֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִתִ֔]][[H9020\|י]] [[H0834A\|אֲשֶׁ֤ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H6965I\|הֵקִ֙ימוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1697J\|דִּבְרֵ֣י]] [[H9009\|הַ]][[H1285\|בְּרִ֔ית]] [[H0834A\|אֲשֶׁ֥ר]] [[H3772H\|כָּרְת֖וּ]] [[H9005\|לְ]][[H6440G\|פָנָ֑]][[H9020\|י]] [[H9009\|הָ]][[H5695\|עֵ֙גֶל֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3772G\|כָּרְת֣וּ]] [[H9005\|לִ]][[H8147\|שְׁנַ֔יִם]] [[H9001\|וַ]][[H5674A\|יַּעַבְר֖וּ]] [[H0996G\|בֵּ֥ין]] [[H1335\|בְּתָרָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic SABBATIC YEAR|SABBATIC YEAR]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.34.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.17|<< Jeremiah 34:17]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.19|Jeremiah 34:19 >>]]</td></tr></table>
 

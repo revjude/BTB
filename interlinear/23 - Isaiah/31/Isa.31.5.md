@@ -1,8 +1,58 @@
+---
+title: Isaiah 31:5
+type: Verse
+kjv: "As birds flying, so will the LORD of hosts defend Jerusalem; defending also he will deliver it; and passing over he will preserve it."
+bsb: "Like birds hovering overhead, so the LORD of Hosts will protect Jerusalem. He will shield it and deliver it; He will pass over it and preserve it.”"
+hebrew: "כְּצִפֳּרִ֣ים עָפ֔וֹת כֵּ֗ן יָגֵ֛ן יְהוָ֥ה צְבָא֖וֹת עַל־ יְרֽוּשָׁלִָ֑ם גָּנ֥וֹן וְהִצִּ֖יל פָּסֹ֥חַ וְהִמְלִֽיט׃"
+pericope: "[[Isa.31.1 Woe to Those Who Rely on Egypt|Woe to Those Who Rely on Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 31
+book/chapter: "[[Isa.31|Isaiah 31]]"
+chronological_order: 674
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+strongs:
+- "[[H9004]]"
+- "[[H6833]]"
+- "[[H5774A]]"
+- "[[H3651C]]"
+- "[[H1598]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3389]]"
+- "[[H9001]]"
+- "[[H5337]]"
+- "[[H6452A]]"
+- "[[H4422]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 31:5**<big><big>[[Isa.31.1 Woe to Those Who Rely on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As birds flying, so will the LORD of hosts defend Jerusalem; defending also he will deliver [it; and] passing over he will preserve [it].
 <small><sub>**BSB:**</sub></small>
 Like birds hovering overhead, so the LORD of Hosts will protect Jerusalem. He will shield it and deliver it; He will pass over it and preserve it.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּ]][[H6833\|צִפֳּרִ֣ים]] [[H5774A\|עָפ֔וֹת]] [[H3651C\|כֵּ֗ן]] [[H1598\|יָגֵ֛ן]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָא֖וֹת]] [[H5921A\|עַל]][[H9014\|־]] [[H3389\|יְרֽוּשָׁלִָ֑ם]] [[H1598\|גָּנ֥וֹן]] [[H9001\|וְ]][[H5337\|הִצִּ֖יל]] [[H6452A\|פָּסֹ֥חַ]] [[H9001\|וְ]][[H4422\|הִמְלִֽיט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.31.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.31.4|<< Isaiah 31:4]]</td><td align="center" style="border:none;">[[Isa.31|Isaiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.31.6|Isaiah 31:6 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: 2 Chronicles 33:1
+type: Verse
+kjv: "Manasseh was twelve years old when he began to reign, and he reigned fifty and five years in Jerusalem:"
+bsb: "Manasseh was twelve years old when he became king, and he reigned in Jerusalem fifty-five years."
+hebrew: "בֶּן־ שְׁתֵּ֥ים עֶשְׂרֵ֛ה שָׁנָ֖ה מְנַשֶּׁ֣ה בְמָלְכ֑וֹ וַחֲמִשִּׁ֤ים וְחָמֵשׁ֙ שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלִָֽם׃"
+pericope: "[[2Chr.33.1 Manasseh Reigns in Judah|Manasseh Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 33
+book/chapter: "[[2Chr.33|2 Chronicles 33]]"
+chronological_order: 707
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MANASSEH|MANASSEH]]"
+strongs:
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H8141]]"
+- "[[H4519H]]"
+- "[[H9003]]"
+- "[[H4427A]]"
+- "[[H9043]]"
+- "[[H9002]]"
+- "[[H2572]]"
+- "[[H2568]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 33:1**<big><big>[[2Chr.33.1 Manasseh Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Manasseh [was] twelve years old when he began to reign, and he reigned fifty and five years in Jerusalem:
 <small><sub>**BSB:**</sub></small>
 Manasseh was twelve years old when he became king, and he reigned in Jerusalem fifty-five years.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121L\|בֶּן]][[H9014\|־]] [[H8147\|שְׁתֵּ֥ים]] [[H6240\|עֶשְׂרֵ֛ה]] [[H8141\|שָׁנָ֖ה]] [[H4519H\|מְנַשֶּׁ֣ה]] [[H9003\|בְ]][[H4427A\|מָלְכ֑]][[H9043\|וֹ]] [[H9002\|וַ]][[H2572\|חֲמִשִּׁ֤ים]] [[H9002\|וְ]][[H2568\|חָמֵשׁ֙]] [[H8141\|שָׁנָ֔ה]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MANASSEH|MANASSEH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.33.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.33|<< 2 Chronicles 32:33]]</td><td align="center" style="border:none;">[[2Chr.33|2 Chronicles 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.33.2|2 Chronicles 33:2 >>]]</td></tr></table>
 

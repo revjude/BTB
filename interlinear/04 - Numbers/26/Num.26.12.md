@@ -1,8 +1,60 @@
+---
+title: Numbers 26:12
+type: Verse
+kjv: "The sons of Simeon after their families: of Nemuel, the family of the Nemuelites: of Jamin, the family of the Jaminites: of Jachin, the family of the Jachinites:"
+bsb: "These were the descendants of Simeon by their clans: The Nemuelite clan from Nemuel, the Jaminite clan from Jamin, the Jachinite clan from Jachin,"
+hebrew: "בְּנֵ֣י שִׁמְעוֹן֮ לְמִשְׁפְּחֹתָם֒ לִנְמוּאֵ֗ל מִשְׁפַּ֙חַת֙ הַנְּמ֣וּאֵלִ֔י לְיָמִ֕ין מִשְׁפַּ֖חַת הַיָּמִינִ֑י לְיָכִ֕ין מִשְׁפַּ֖חַת הַיָּכִינִֽי׃"
+pericope: "[[Num.26.12 The Tribe of Simeon|The Tribe of Simeon]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 26
+book/chapter: "[[Num.26|Numbers 26]]"
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic JACHIN|JACHIN]]"
+- "[[topic JAMIN|JAMIN]]"
+- "[[topic NEMUEL|NEMUEL]]"
+- "[[topic SIMEON|SIMEON]]"
+strongs:
+- "[[H1121G]]"
+- "[[H8095G]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H5241H]]"
+- "[[H9009]]"
+- "[[H5242]]"
+- "[[H3226G]]"
+- "[[H3228H]]"
+- "[[H3199G]]"
+- "[[H3200]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 26:12**<big><big>[[Num.26.12 The Tribe of Simeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Simeon after their families: of Nemuel, the family of the Nemuelites: of Jamin, the family of the Jaminites: of Jachin, the family of the Jachinites:
 <small><sub>**BSB:**</sub></small>
 These were the descendants of Simeon by their clans: The Nemuelite clan from Nemuel, the Jaminite clan from Jamin, the Jachinite clan from Jachin,
+<small><sub>**Hebrew:**</sub></small>
+[[H1121G\|בְּנֵ֣י]] [[H8095G\|שִׁמְעוֹן֮]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָ]][[H9028\|ם֒]] [[H9005\|לִ]][[H5241H\|נְמוּאֵ֗ל]] [[H4940\|מִשְׁפַּ֙חַת֙]] [[H9009\|הַ]][[H5242\|נְּמ֣וּאֵלִ֔י]] [[H9005\|לְ]][[H3226G\|יָמִ֕ין]] [[H4940\|מִשְׁפַּ֖חַת]] [[H9009\|הַ]][[H3228H\|יָּמִינִ֑י]] [[H9005\|לְ]][[H3199G\|יָכִ֕ין]] [[H4940\|מִשְׁפַּ֖חַת]] [[H9009\|הַ]][[H3200\|יָּכִינִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACHIN|JACHIN]] • [[topic JAMIN|JAMIN]] • [[topic NEMUEL|NEMUEL]] • [[topic SIMEON|SIMEON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.11|<< Numbers 26:11]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.13|Numbers 26:13 >>]]</td></tr></table>
 

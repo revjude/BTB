@@ -1,8 +1,62 @@
+---
+title: 1 Samuel 13:7
+type: Verse
+kjv: "And some of the Hebrews went over Jordan to the land of Gad and Gilead. As for Saul, he was yet in Gilgal, and all the people followed him trembling."
+bsb: "Some Hebrews even crossed the Jordan into the land of Gad and Gilead. Saul, however, remained at Gilgal, and all his troops were quaking in fear."
+hebrew: "וְעִבְרִ֗ים עָֽבְרוּ֙ אֶת־ הַיַּרְדֵּ֔ן אֶ֥רֶץ גָּ֖ד וְגִלְעָ֑ד וְשָׁאוּל֙ עוֹדֶ֣נּוּ בַגִּלְגָּ֔ל וְכָל־ הָעָ֖ם חָרְד֥וּ אַחֲרָֽיו׃"
+pericope: "[[1Sam.13.1 War with the Philistines|War with the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 13
+book/chapter: "[[1Sam.13|1 Samuel 13]]"
+chronological_order: 292
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic GILGAL|GILGAL]]"
+strongs:
+- "[[H9002]]"
+- "[[H5680]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H0776G]]"
+- "[[H1410G]]"
+- "[[H1568G]]"
+- "[[H7586G]]"
+- "[[H5750]]"
+- "[[H9043]]"
+- "[[H9003]]"
+- "[[H1537G]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H2729]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 13:7**<big><big>[[1Sam.13.1 War with the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [some of] the Hebrews went over Jordan to the land of Gad and Gilead. As for Saul, he [was] yet in Gilgal, and all the people followed him trembling.
 <small><sub>**BSB:**</sub></small>
 Some Hebrews even crossed the Jordan into the land of Gad and Gilead. Saul, however, remained at Gilgal, and all his troops were quaking in fear.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5680\|עִבְרִ֗ים]] [[H5674A\|עָֽבְרוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֔ן]] [[H0776G\|אֶ֥רֶץ]] [[H1410G\|גָּ֖ד]] [[H9002\|וְ]][[H1568G\|גִלְעָ֑ד]] [[H9002\|וְ]][[H7586G\|שָׁאוּל֙]] [[H5750\|עוֹדֶ֣]][[H9043\|נּוּ]] [[H9003\|בַ]][[H1537G\|גִּלְגָּ֔ל]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H2729\|חָרְד֥וּ]] [[H0310A\|אַחֲרָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COWARDICE|COWARDICE]] • [[topic GILGAL|GILGAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.13.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.6|<< 1 Samuel 13:6]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.8|1 Samuel 13:8 >>]]</td></tr></table>
 

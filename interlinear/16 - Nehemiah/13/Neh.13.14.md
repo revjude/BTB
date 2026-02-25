@@ -1,8 +1,61 @@
+---
+title: Nehemiah 13:14
+type: Verse
+kjv: "Remember me, O my God, concerning this, and wipe not out my good deeds that I have done for the house of my God, and for the offices thereof."
+bsb: "Remember me for this, O my God, and do not blot out my deeds of loving devotion for the house of my God and for its services."
+hebrew: "זָכְרָה־ לִּ֥י אֱלֹהַ֖י עַל־ זֹ֑את וְאַל־ תֶּ֣מַח חֲסָדַ֗י אֲשֶׁ֥ר עָשִׂ֛יתִי בְּבֵ֥ית אֱלֹהַ֖י וּבְמִשְׁמָרָֽיו׃"
+pericope: "[[Neh.13.10 Tithes Restored|Tithes Restored]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 13
+book/chapter: "[[Neh.13|Nehemiah 13]]"
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[H2142]]"
+- "[[H9012]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H2063]]"
+- "[[H9002]]"
+- "[[H0408]]"
+- "[[H4229A]]"
+- "[[H2617A]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H1004Q]]"
+- "[[H4929]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 13:14**<big><big>[[Neh.13.10 Tithes Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember me, O my God, concerning this, and wipe not out my good deeds that I have done for the house of my God, and for the offices thereof.
 <small><sub>**BSB:**</sub></small>
 Remember me for this, O my God, and do not blot out my deeds of loving devotion for the house of my God and for its services.
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|זָכְרָ]][[H9012\|ה]][[H9014\|־]] [[H9005\|לִּ֥]][[H9030\|י]] [[H0430G\|אֱלֹהַ֖]][[H9020\|י]] [[H5921A\|עַל]][[H9014\|־]] [[H2063\|זֹ֑את]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H4229A\|תֶּ֣מַח]] [[H2617A\|חֲסָדַ֗]][[H9020\|י]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|עָשִׂ֛יתִי]] [[H9003\|בְּ]][[H1004Q\|בֵ֥ית]] [[H0430G\|אֱלֹהַ֖]][[H9020\|י]] [[H9002\|וּ]][[H9003\|בְ]][[H4929\|מִשְׁמָרָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WORKS|WORKS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.13|<< Nehemiah 13:13]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.15|Nehemiah 13:15 >>]]</td></tr></table>
 

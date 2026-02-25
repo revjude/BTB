@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Aaron’s Staff
+type: Pericope
 pericope: "[[Exod.7.8 Aaron’s Staff|Aaron’s Staff]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 7
 book/chapter: "[[Exod.7|Exodus 7]]"
-genre:
+chronological_order: 99
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 6
 verses:
 - "[[Exod.7.8]]"
 - "[[Exod.7.9]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Exod.7.13]]"
 ---
 
-[[Exod.7|Exodus 7:8 - Exodus 7:13]]
+<small>[[Exod.7|Exodus 7:8-13]]</small>
 *Aaron’s Staff*
 
 [[Exod.7.8|8]] And the LORD spake unto Moses and unto Aaron, saying,

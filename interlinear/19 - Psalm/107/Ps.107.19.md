@@ -1,8 +1,61 @@
+---
+title: Psalm 107:19
+type: Verse
+kjv: "Then they cry unto the LORD in their trouble, and he saveth them out of their distresses."
+bsb: "Then they cried out to the LORD in their trouble, and He saved them from their distress."
+hebrew: "וַיִּזְעֲק֣וּ אֶל־ יְ֭הוָה בַּצַּ֣ר לָהֶ֑ם מִ֝מְּצֻֽקוֹתֵיהֶ֗ם יוֹשִׁיעֵֽם׃"
+pericope: "[[Ps.107.1 Thanksgiving for Deliverance|Thanksgiving for Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 107
+book/chapter: "[[Ps.107|Psalm 107]]"
+chronological_order: 872
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H2199]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H6862B]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H4691]]"
+- "[[H9028]]"
+- "[[H3467]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 107:19**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they cry unto the LORD in their trouble, [and] he saveth them out of their distresses.
 <small><sub>**BSB:**</sub></small>
 Then they cried out to the LORD in their trouble, and He saved them from their distress.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2199\|יִּזְעֲק֣וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְ֭הוָה]] [[H9003\|בַּ]][[H6862B\|צַּ֣ר]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H9006\|מִ֝]][[H4691\|מְּצֻֽקוֹתֵי]][[H9028\|הֶ֗ם]] [[H3467\|יוֹשִׁיעֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic GOD|GOD]] • [[topic PRAYER|PRAYER]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.18|<< Psalms 107:18]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.20|Psalms 107:20 >>]]</td></tr></table>
 

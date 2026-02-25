@@ -1,8 +1,58 @@
+---
+title: 2 Kings 3:4
+type: Verse
+kjv: "And Mesha king of Moab was a sheepmaster, and rendered unto the king of Israel an hundred thousand lambs, and an hundred thousand rams, with the wool."
+bsb: "Now Mesha king of Moab was a sheep breeder, and he would render to the king of Israel a hundred thousand lambs and the wool of a hundred thousand rams."
+hebrew: "וּמֵישַׁ֥ע מֶֽלֶךְ־ מוֹאָ֖ב הָיָ֣ה נֹקֵ֑ד וְהֵשִׁ֤יב לְמֶֽלֶךְ־ יִשְׂרָאֵל֙ מֵאָה־ אֶ֣לֶף כָּרִ֔ים וּמֵ֥אָה אֶ֖לֶף אֵילִ֥ים צָֽמֶר׃"
+pericope: "[[2Kgs.3.1 Moab’s Rebellion|Moab’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 3
+book/chapter: "[[2Kgs.3|2 Kings 3]]"
+chronological_order: 575
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic MESHA|MESHA]]"
+- "[[topic SHEEP|SHEEP]]"
+strongs:
+- "[[H9002]]"
+- "[[H4338]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H4124G]]"
+- "[[H1961]]"
+- "[[H5349]]"
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H9005]]"
+- "[[H3478]]"
+- "[[H3967]]"
+- "[[H0505G]]"
+- "[[H3733C]]"
+- "[[H0352A]]"
+- "[[H6785]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 3:4**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Mesha king of Moab was a sheepmaster, and rendered unto the king of Israel an hundred thousand lambs, and an hundred thousand rams, with the wool.
 <small><sub>**BSB:**</sub></small>
 Now Mesha king of Moab was a sheep breeder, and he would render to the king of Israel a hundred thousand lambs and the wool of a hundred thousand rams.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4338\|מֵישַׁ֥ע]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H4124G\|מוֹאָ֖ב]] [[H1961\|הָיָ֣ה]] [[H5349\|נֹקֵ֑ד]] [[H9001\|וְ]][[H7725G\|הֵשִׁ֤יב]] [[H9005\|לְ]][[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H3967\|מֵאָה]][[H9014\|־]] [[H0505G\|אֶ֣לֶף]] [[H3733C\|כָּרִ֔ים]] [[H9002\|וּ]][[H3967\|מֵ֥אָה]] [[H0505G\|אֶ֖לֶף]] [[H0352A\|אֵילִ֥ים]] [[H6785\|צָֽמֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MESHA|MESHA]] • [[topic SHEEP|SHEEP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.3|<< 2 Kings 3:3]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.5|2 Kings 3:5 >>]]</td></tr></table>
 

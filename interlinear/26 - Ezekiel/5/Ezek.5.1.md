@@ -1,8 +1,79 @@
+---
+title: Ezekiel 5:1
+type: Verse
+kjv: "And thou, son of man, take thee a sharp knife, take thee a barber’s rasor, and cause it to pass upon thine head and upon thy beard: then take thee balances to weigh, and divide the hair."
+bsb: "“As for you, son of man, take a sharp sword, use it as a barber’s razor, and shave your head and beard. Then take a set of scales and divide the hair."
+hebrew: "וְאַתָּ֨ה בֶן־ אָדָ֜ם קַח־ לְךָ֣׀ חֶ֣רֶב חַדָּ֗ה תַּ֤עַר הַגַּלָּבִים֙ תִּקָּחֶ֣נָּה לָּ֔ךְ וְהַעֲבַרְתָּ֥ עַל־ רֹאשְׁךָ֖ וְעַל־ זְקָנֶ֑ךָ וְלָקַחְתָּ֥ לְךָ֛ מֹאזְנֵ֥י מִשְׁקָ֖ל וְחִלַּקְתָּֽם׃"
+pericope: "[[Ezek.5.1 The Razor of Judgment|The Razor of Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 5
+book/chapter: "[[Ezek.5|Ezekiel 5]]"
+chronological_order: 796
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ART|ART]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BALANCES|BALANCES]]"
+- "[[topic BARBER|BARBER]]"
+- "[[topic BEARD|BEARD]]"
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic HAIR|HAIR]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic RAZOR|RAZOR]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H3947G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9015]]"
+- "[[H2719]]"
+- "[[H2299]]"
+- "[[H8593]]"
+- "[[H9009]]"
+- "[[H1532]]"
+- "[[H9034]]"
+- "[[H9032]]"
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H5921A]]"
+- "[[H7218A]]"
+- "[[H9021]]"
+- "[[H2206]]"
+- "[[H3976]]"
+- "[[H4948]]"
+- "[[H2505A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 5:1**<big><big>[[Ezek.5.1 The Razor of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou, son of man, take thee a sharp knife, take thee a barber’s rasor, and cause [it] to pass upon thine head and upon thy beard: then take thee balances to weigh, and divide the [hair].
 <small><sub>**BSB:**</sub></small>
 “As for you, son of man, take a sharp sword, use it as a barber’s razor, and shave your head and beard. Then take a set of scales and divide the hair.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֨ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H0120G\|אָדָ֜ם]] [[H3947G\|קַח]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֣]][[H9015\|׀]] [[H2719\|חֶ֣רֶב]] [[H2299\|חַדָּ֗ה]] [[H8593\|תַּ֤עַר]] [[H9009\|הַ]][[H1532\|גַּלָּבִים֙]] [[H3947G\|תִּקָּחֶ֣]][[H9034\|נָּה]] [[H9005\|לָּ֔]][[H9032\|ךְ]] [[H9001\|וְ]][[H5674A\|הַעֲבַרְתָּ֥]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹאשְׁ]][[H9021\|ךָ֖]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H2206\|זְקָנֶ֑]][[H9021\|ךָ]] [[H9001\|וְ]][[H3947G\|לָקַחְתָּ֥]] [[H9005\|לְ]][[H9031\|ךָ֛]] [[H3976\|מֹאזְנֵ֥י]] [[H4948\|מִשְׁקָ֖ל]] [[H9001\|וְ]][[H2505A\|חִלַּקְתָּֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BALANCES|BALANCES]] • [[topic BARBER|BARBER]] • [[topic BEARD|BEARD]] • [[topic EZEKIEL|EZEKIEL]] • [[topic HAIR|HAIR]] • [[topic PROPHECY|PROPHECY]] • [[topic RAZOR|RAZOR]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4.17|<< Ezekiel 4:17]]</td><td align="center" style="border:none;">[[Ezek.5|Ezekiel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.5.2|Ezekiel 5:2 >>]]</td></tr></table>
 

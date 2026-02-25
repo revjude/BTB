@@ -1,8 +1,65 @@
+---
+title: Psalm 81:10
+type: Verse
+kjv: "I am the LORD thy God, which brought thee out of the land of Egypt: open thy mouth wide, and I will fill it."
+bsb: "I am the LORD your God, who brought you up out of Egypt. Open wide your mouth, and I will fill it."
+hebrew: "אָנֹכִ֨י׀ יְה֘וָ֤ה אֱלֹהֶ֗יךָ הַֽ֭מַּעַלְךָ מֵאֶ֣רֶץ מִצְרָ֑יִם הַרְחֶב־ פִּ֝֗יךָ וַאֲמַלְאֵֽהוּ׃"
+pericope: "[[Ps.81.1 Sing for Joy to God Our Strength|Sing for Joy to God Our Strength]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 81
+book/chapter: "[[Ps.81|Psalm 81]]"
+chronological_order: 511
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H0595]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H5927H]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H7337]]"
+- "[[H9014]]"
+- "[[H6310G]]"
+- "[[H9002]]"
+- "[[H4390]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 81:10**<big><big>[[Ps.81.1 Sing for Joy to God Our Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I [am] the LORD thy God, which brought thee out of the land of Egypt: open thy mouth wide, and I will fill it.
 <small><sub>**BSB:**</sub></small>
 I am the LORD your God, who brought you up out of Egypt. Open wide your mouth, and I will fill it.
+<small><sub>**Hebrew:**</sub></small>
+[[H0595\|אָנֹכִ֨י]][[H9015\|׀]] [[H3068G\|יְה֘וָ֤ה]] [[H0430G\|אֱלֹהֶ֗י]][[H9021\|ךָ]] [[H9009\|הַֽ֭]][[H5927H\|מַּעַלְ]][[H9031\|ךָ]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H7337\|הַרְחֶב]][[H9014\|־]] [[H6310G\|פִּ֝֗י]][[H9021\|ךָ]] [[H9002\|וַ]][[H4390\|אֲמַלְאֵֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic DESIRE|DESIRE]] • [[topic PRAYER|PRAYER]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.81.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.81.9|<< Psalms 81:9]]</td><td align="center" style="border:none;">[[Ps.81|Psalms 81]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.81.11|Psalms 81:11 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Isaiah 41:20
+type: Verse
+kjv: "That they may see, and know, and consider, and understand together, that the hand of the LORD hath done this, and the Holy One of Israel hath created it."
+bsb: "so that all may see and know, may consider and understand, that the hand of the LORD has done this and the Holy One of Israel has created it.”"
+hebrew: "לְמַ֧עַן יִרְא֣וּ וְיֵדְע֗וּ וְיָשִׂ֤ימוּ וְיַשְׂכִּ֙ילוּ֙ יַחְדָּ֔ו כִּ֥י יַד־ יְהוָ֖ה עָ֣שְׂתָה זֹּ֑את וּקְד֥וֹשׁ יִשְׂרָאֵ֖ל בְּרָאָֽהּ׃ פ"
+pericope: "[[Isa.41.1 God’s Help to Israel|God’s Help to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 41
+book/chapter: "[[Isa.41|Isaiah 41]]"
+chronological_order: 680
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H4616]]"
+- "[[H7200G]]"
+- "[[H9002]]"
+- "[[H3045]]"
+- "[[H7760K]]"
+- "[[H7919A]]"
+- "[[H3162B]]"
+- "[[H3588A]]"
+- "[[H3027H]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H6213A]]"
+- "[[H2063]]"
+- "[[H6918G]]"
+- "[[H3478]]"
+- "[[H1254A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Isaiah 41:20**<big><big>[[Isa.41.1 God’s Help to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That they may see, and know, and consider, and understand together, that the hand of the LORD hath done this, and the Holy One of Israel hath created it.
 <small><sub>**BSB:**</sub></small>
 so that all may see and know, may consider and understand, that the hand of the LORD has done this and the Holy One of Israel has created it.”
+<small><sub>**Hebrew:**</sub></small>
+[[H4616\|לְמַ֧עַן]] [[H7200G\|יִרְא֣וּ]] [[H9002\|וְ]][[H3045\|יֵדְע֗וּ]] [[H9002\|וְ]][[H7760K\|יָשִׂ֤ימוּ]] [[H9002\|וְ]][[H7919A\|יַשְׂכִּ֙ילוּ֙]] [[H3162B\|יַחְדָּ֔ו]] [[H3588A\|כִּ֥י]] [[H3027H\|יַד]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H6213A\|עָ֣שְׂתָה]] [[H2063\|זֹּ֑את]] [[H9002\|וּ]][[H6918G\|קְד֥וֹשׁ]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H1254A\|בְּרָאָֽ]][[H9034\|הּ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.19|<< Isaiah 41:19]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.21|Isaiah 41:21 >>]]</td></tr></table>
 
@@ -21,7 +73,7 @@ so that all may see and know, may consider and understand, that the hand of the 
 | this  |**<big>&#8207;[[H2063\|זֹּ֑את]]&#8207; </big>**| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [the] holy [one] of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6918G\|קְד֥וֹשׁ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ke.Do.osh<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has created it  |**<big>&#8207;[[H1254A\|בְּרָאָֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| be.ra.'A<small><sup>[[HVqp3ms]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has created it  |**<big>&#8207;[[H1254A\|בְּרָאָֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| be.ra.'A<small><sup>[[HVqp3ms]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.19|<< Isaiah 41:19]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.21|Isaiah 41:21 >>]]</td></tr></table>
 
 

@@ -1,8 +1,74 @@
+---
+title: Jeremiah 38:14
+type: Verse
+kjv: "Then Zedekiah the king sent, and took Jeremiah the prophet unto him into the third entry that is in the house of the LORD: and the king said unto Jeremiah, I will ask thee a thing; hide nothing from me."
+bsb: "Then King Zedekiah sent for Jeremiah the prophet and received him at the third entrance to the house of the LORD. “I am going to ask you something,” said the king to Jeremiah. “Do not hide anything from me.”"
+hebrew: "וַיִּשְׁלַ֞ח הַמֶּ֣לֶךְ צִדְקִיָּ֗הוּ וַיִּקַּ֞ח אֶֽת־ יִרְמְיָ֤הוּ הַנָּבִיא֙ אֵלָ֔יו אֶל־ מָבוֹא֙ הַשְּׁלִישִׁ֔י אֲשֶׁ֖ר בְּבֵ֣ית יְהוָ֑ה וַיֹּ֨אמֶר הַמֶּ֜לֶךְ אֶֽל־ יִרְמְיָ֗הוּ שֹׁאֵ֨ל אֲנִ֤י אֹֽתְךָ֙ דָּבָ֔ר אַל־ תְּכַחֵ֥ד מִמֶּ֖נִּי דָּבָֽר׃"
+pericope: "[[Jer.38.1 Jeremiah Cast into the Cistern|Jeremiah Cast into the Cistern]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 38
+book/chapter: "[[Jer.38|Jeremiah 38]]"
+chronological_order: 761
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H6667H]]"
+- "[[H3947H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3414L]]"
+- "[[H5030]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3996]]"
+- "[[H7992]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H7592]]"
+- "[[H0589]]"
+- "[[H9031]]"
+- "[[H1697H]]"
+- "[[H0408]]"
+- "[[H3582]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H1697G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 38:14**<big><big>[[Jer.38.1 Jeremiah Cast into the Cistern|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Zedekiah the king sent, and took Jeremiah the prophet unto him into the third entry that [is] in the house of the LORD: and the king said unto Jeremiah, I will ask thee a thing; hide nothing from me.
 <small><sub>**BSB:**</sub></small>
 Then King Zedekiah sent for Jeremiah the prophet and received him at the third entrance to the house of the LORD. “I am going to ask you something,” said the king to Jeremiah. “Do not hide anything from me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֞ח]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H6667H\|צִדְקִיָּ֗הוּ]] [[H9001\|וַ]][[H3947H\|יִּקַּ֞ח]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3414L\|יִרְמְיָ֤הוּ]] [[H9009\|הַ]][[H5030\|נָּבִיא֙]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H0413\|אֶל]][[H9014\|־]] [[H3996\|מָבוֹא֙]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁ֔י]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בְּ]][[H1004Q\|בֵ֣ית]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֗הוּ]] [[H7592\|שֹׁאֵ֨ל]] [[H0589\|אֲנִ֤י]] [[H0853\|אֹֽתְ]][[H9031\|ךָ֙]] [[H1697H\|דָּבָ֔ר]] [[H0408\|אַל]][[H9014\|־]] [[H3582\|תְּכַחֵ֥ד]] [[H4480A\|מִמֶּ֖]][[H9030\|נִּי]] [[H1697G\|דָּבָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PRISONERS|PRISONERS]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.38.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.13|<< Jeremiah 38:13]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.15|Jeremiah 38:15 >>]]</td></tr></table>
 

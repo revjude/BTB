@@ -1,8 +1,53 @@
+---
+title: Proverbs 4:19
+type: Verse
+kjv: "The way of the wicked is as darkness: they know not at what they stumble."
+bsb: "But the way of the wicked is like the darkest gloom; they do not know what makes them stumble."
+hebrew: "דֶּ֣רֶךְ רְ֭שָׁעִים כָּֽאֲפֵלָ֑ה לֹ֥א יָ֝דְע֗וּ בַּמֶּ֥ה יִכָּשֵֽׁלוּ׃ פ"
+pericope: "[[Prov.4.1 A Father’s Instruction|A Father’s Instruction]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 4
+book/chapter: "[[Prov.4|Proverbs 4]]"
+chronological_order: 459
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H1870G]]"
+- "[[H7563]]"
+- "[[H9004]]"
+- "[[H0653]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H9003]]"
+- "[[H4100]]"
+- "[[H3782]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Proverbs 4:19**<big><big>[[Prov.4.1 A Father’s Instruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The way of the wicked [is] as darkness: they know not at what they stumble.
 <small><sub>**BSB:**</sub></small>
 But the way of the wicked is like the darkest gloom; they do not know what makes them stumble.
+<small><sub>**Hebrew:**</sub></small>
+[[H1870G\|דֶּ֣רֶךְ]] [[H7563\|רְ֭שָׁעִים]] [[H9004\|כָּֽ]][[H0653\|אֲפֵלָ֑ה]] [[H3808\|לֹ֥א]] [[H3045\|יָ֝דְע֗וּ]] [[H9003\|בַּ]][[H4100\|מֶּ֥ה]] [[H3782\|יִכָּשֵֽׁלוּ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.18|<< Proverbs 4:18]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.20|Proverbs 4:20 >>]]</td></tr></table>
 
@@ -14,7 +59,7 @@ But the way of the wicked is like the darkest gloom; they do not know what makes
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they know  |**<big>&#8207;[[H3045\|יָ֝דְע֗וּ]]&#8207; </big>**| ya.de.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on what?  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4100\|מֶּ֥ה]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> Meh<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| are they stumbling  |**<big>&#8207;[[H3782\|יִכָּשֵֽׁלוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| yi.ka.She.lu<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| are they stumbling  |**<big>&#8207;[[H3782\|יִכָּשֵֽׁלוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| yi.ka.She.lu<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.18|<< Proverbs 4:18]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.20|Proverbs 4:20 >>]]</td></tr></table>
 
 

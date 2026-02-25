@@ -1,8 +1,61 @@
+---
+title: 1 Chronicles 13:9
+type: Verse
+kjv: "And when they came unto the threshingfloor of Chidon, Uzza put forth his hand to hold the ark; for the oxen stumbled."
+bsb: "When they came to the threshing floor of Chidon, Uzzah reached out and took hold of the ark, because the oxen had stumbled."
+hebrew: "וַיָּבֹ֖אוּ עַד־ גֹּ֣רֶן כִּידֹ֑ן וַיִּשְׁלַ֨ח עֻזָּ֜א אֶת־ יָד֗וֹ לֶאֱחֹז֙ אֶת־ הָ֣אָר֔וֹן כִּ֥י שָֽׁמְט֖וּ הַבָּקָֽר׃"
+pericope: "[[1Chr.13.8 Uzzah Touches the Ark|Uzzah Touches the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 13
+book/chapter: "[[1Chr.13|1 Chronicles 13]]"
+chronological_order: 394
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic CHIDON|CHIDON]]"
+- "[[topic NACHON|NACHON]]"
+- "[[topic UZZAH|UZZAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H1637]]"
+- "[[H3592]]"
+- "[[H7971K]]"
+- "[[H5798A]]"
+- "[[H0853]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H0270]]"
+- "[[H9009]]"
+- "[[H0727]]"
+- "[[H3588A]]"
+- "[[H8058]]"
+- "[[H1241]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 13:9**<big><big>[[1Chr.13.8 Uzzah Touches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they came unto the threshingfloor of Chidon, Uzza put forth his hand to hold the ark; for the oxen stumbled.
 <small><sub>**BSB:**</sub></small>
 When they came to the threshing floor of Chidon, Uzzah reached out and took hold of the ark, because the oxen had stumbled.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֖אוּ]] [[H5704\|עַד]][[H9014\|־]] [[H1637\|גֹּ֣רֶן]] [[H3592\|כִּידֹ֑ן]] [[H9001\|וַ]][[H7971K\|יִּשְׁלַ֨ח]] [[H5798A\|עֻזָּ֜א]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יָד֗]][[H9023\|וֹ]] [[H9005\|לֶ]][[H0270\|אֱחֹז֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ֣]][[H0727\|אָר֔וֹן]] [[H3588A\|כִּ֥י]] [[H8058\|שָֽׁמְט֖וּ]] [[H9009\|הַ]][[H1241\|בָּקָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHIDON|CHIDON]] • [[topic NACHON|NACHON]] • [[topic UZZAH|UZZAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.13.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.13.8|<< 1 Chronicles 13:8]]</td><td align="center" style="border:none;">[[1Chr.13|1 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.13.10|1 Chronicles 13:10 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Hosea 13:2
+type: Verse
+kjv: "And now they sin more and more, and have made them molten images of their silver, and idols according to their own understanding, all of it the work of the craftsmen: they say of them, Let the men that sacrifice kiss the calves."
+bsb: "Now they sin more and more and make for themselves cast images, idols skillfully made from their silver, all of them the work of craftsmen. People say of them, “They offer human sacrifice and kiss the calves!”"
+hebrew: "וְעַתָּ֣ה׀ יוֹסִ֣פוּ לַחֲטֹ֗א וַיַּעְשׂ֣וּ לָהֶם֩ מַסֵּכָ֨ה מִכַּסְפָּ֤ם כִּתְבוּנָם֙ עֲצַבִּ֔ים מַעֲשֵׂ֥ה חָרָשִׁ֖ים כֻּלֹּ֑ה לָהֶם֙ הֵ֣ם אֹמְרִ֔ים זֹבְחֵ֣י אָדָ֔ם עֲגָלִ֖ים יִשָּׁקֽוּן׃"
+pericope: "[[Hos.13.1 God’s Anger against Israel|God’s Anger against Israel]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 13
+book/chapter: "[[Hos.13|Hosea 13]]"
+chronological_order: 654
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic SILVER|SILVER]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H9015]]"
+- "[[H3254H]]"
+- "[[H9005]]"
+- "[[H2398]]"
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H9038]]"
+- "[[H4541A]]"
+- "[[H9006]]"
+- "[[H3701G]]"
+- "[[H9028]]"
+- "[[H9004]]"
+- "[[H8394]]"
+- "[[H6091]]"
+- "[[H4639G]]"
+- "[[H2796]]"
+- "[[H3605]]"
+- "[[H9023]]"
+- "[[H1992]]"
+- "[[H0559]]"
+- "[[H2076]]"
+- "[[H0120G]]"
+- "[[H5695]]"
+- "[[H5401A]]"
+- "[[H9013]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 13:2**<big><big>[[Hos.13.1 God’s Anger against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now they sin more and more, and have made them molten images of their silver, [and] idols according to their own understanding, all of it the work of the craftsmen: they say of them, Let the men that sacrifice kiss the calves.
 <small><sub>**BSB:**</sub></small>
 Now they sin more and more and make for themselves cast images, idols skillfully made from their silver, all of them the work of craftsmen. People say of them, “They offer human sacrifice and kiss the calves!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֣ה]][[H9015\|׀]] [[H3254H\|יוֹסִ֣פוּ]] [[H9005\|לַ]][[H2398\|חֲטֹ֗א]] [[H9001\|וַ]][[H6213H\|יַּעְשׂ֣וּ]] [[H9005\|לָ]][[H9038\|הֶם֩]] [[H4541A\|מַסֵּכָ֨ה]] [[H9006\|מִ]][[H3701G\|כַּסְפָּ֤]][[H9028\|ם]] [[H9004\|כִּ]][[H8394\|תְבוּנָ]][[H9028\|ם֙]] [[H6091\|עֲצַבִּ֔ים]] [[H4639G\|מַעֲשֵׂ֥ה]] [[H2796\|חָרָשִׁ֖ים]] [[H3605\|כֻּלֹּ֑]][[H9023\|ה]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H1992\|הֵ֣ם]] [[H0559\|אֹמְרִ֔ים]] [[H2076\|זֹבְחֵ֣י]] [[H0120G\|אָדָ֔ם]] [[H5695\|עֲגָלִ֖ים]] [[H5401A\|יִשָּׁקֽוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic SILVER|SILVER]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.13.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.1|<< Hosea 13:1]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.3|Hosea 13:3 >>]]</td></tr></table>
 

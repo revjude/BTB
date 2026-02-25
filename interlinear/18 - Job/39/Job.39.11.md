@@ -1,8 +1,57 @@
+---
+title: Job 39:11
+type: Verse
+kjv: "Wilt thou trust him, because his strength is great? or wilt thou leave thy labour to him?"
+bsb: "Can you rely on his great strength? Will you leave your hard work to him?"
+hebrew: "הֲֽתִבְטַח־ בּ֭וֹ כִּי־ רַ֣ב כֹּח֑וֹ וְתַעֲזֹ֖ב אֵלָ֣יו יְגִיעֶֽךָ׃"
+pericope: "[[Job.39.1 The LORD Speaks of His Creation|The LORD Speaks of His Creation]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 39
+book/chapter: "[[Job.39|Job 39]]"
+chronological_order: 50
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic UNICORN (WILD OX, R. V.)|UNICORN (WILD OX, R. V.)]]"
+strongs:
+- "[[H9008]]"
+- "[[H0982]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H7227A]]"
+- "[[H3581B]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H5800A]]"
+- "[[H0413]]"
+- "[[H3018]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 39:11**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wilt thou trust him, because his strength [is] great? or wilt thou leave thy labour to him?
 <small><sub>**BSB:**</sub></small>
 Can you rely on his great strength? Will you leave your hard work to him?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲֽ]][[H0982\|תִבְטַח]][[H9014\|־]] [[H9003\|בּ֭]][[H9033\|וֹ]] [[H3588A\|כִּי]][[H9014\|־]] [[H7227A\|רַ֣ב]] [[H3581B\|כֹּח֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H5800A\|תַעֲזֹ֖ב]] [[H0413\|אֵלָ֣י]][[H9033\|ו]] [[H3018\|יְגִיעֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic UNICORN (WILD OX, R. V.)|UNICORN (WILD OX, R. V.)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.10|<< Job 39:10]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.12|Job 39:12 >>]]</td></tr></table>
 

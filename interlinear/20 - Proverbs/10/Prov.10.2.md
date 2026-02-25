@@ -1,8 +1,53 @@
+---
+title: Proverbs 10:2
+type: Verse
+kjv: "Treasures of wickedness profit nothing: but righteousness delivereth from death."
+bsb: "Ill-gotten treasures profit nothing, but righteousness brings deliverance from death."
+hebrew: "לֹא־ י֭וֹעִילוּ אוֹצְר֣וֹת רֶ֑שַׁע וּ֝צְדָקָ֗ה תַּצִּ֥יל מִמָּֽוֶת׃"
+pericope: "[[Prov.10.1 Solomon’s Proverbs：The Wise Son|Solomon’s Proverbs：The Wise Son]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 10
+book/chapter: "[[Prov.10|Proverbs 10]]"
+chronological_order: 465
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic RICHES|RICHES]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic VANITY|VANITY]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3276]]"
+- "[[H0214]]"
+- "[[H7562]]"
+- "[[H9002]]"
+- "[[H6666]]"
+- "[[H5337]]"
+- "[[H9006]]"
+- "[[H4194]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 10:2**<big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Treasures of wickedness profit nothing: but righteousness delivereth from death.
 <small><sub>**BSB:**</sub></small>
 Ill-gotten treasures profit nothing, but righteousness brings deliverance from death.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H3276\|י֭וֹעִילוּ]] [[H0214\|אוֹצְר֣וֹת]] [[H7562\|רֶ֑שַׁע]] [[H9002\|וּ֝]][[H6666\|צְדָקָ֗ה]] [[H5337\|תַּצִּ֥יל]] [[H9006\|מִ]][[H4194\|מָּֽוֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RICHES|RICHES]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic VANITY|VANITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.1|<< Proverbs 10:1]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.3|Proverbs 10:3 >>]]</td></tr></table>
 

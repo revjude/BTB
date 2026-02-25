@@ -1,8 +1,63 @@
+---
+title: Numbers 16:50
+type: Verse
+kjv: "And Aaron returned unto Moses unto the door of the tabernacle of the congregation: and the plague was stayed."
+bsb: "Then Aaron returned to Moses at the entrance to the Tent of Meeting, since the plague had been halted."
+hebrew: "וַיָּ֤שָׁב אַהֲרֹן֙ אֶל־ מֹשֶׁ֔ה אֶל־ פֶּ֖תַח אֹ֣הֶל מוֹעֵ֑ד וְהַמַּגֵּפָ֖ה נֶעֱצָֽרָה׃ פ"
+pericope: "[[Num.16.41 Murmuring and Plague|Murmuring and Plague]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H0175]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H6607]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H4046]]"
+- "[[H6113]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Numbers 16:50**<big><big>[[Num.16.41 Murmuring and Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Aaron returned unto Moses unto the door of the tabernacle of the congregation: and the plague was stayed.
 <small><sub>**BSB:**</sub></small>
 Then Aaron returned to Moses at the entrance to the Tent of Meeting, since the plague had been halted.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּ֤שָׁב]] [[H0175\|אַהֲרֹן֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H6607\|פֶּ֖תַח]] [[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֑ד]] [[H9002\|וְ]][[H9009\|הַ]][[H4046\|מַּגֵּפָ֖ה]] [[H6113\|נֶעֱצָֽרָה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic MIRACLES|MIRACLES]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.49|<< Numbers 16:49]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.17.1|Numbers 17:1 >>]]</td></tr></table>
 
@@ -17,7 +72,7 @@ Then Aaron returned to Moses at the entrance to the Tent of Meeting, since the p
 | [the] tent of  |**<big>&#8207;[[H0168G\|אֹ֣הֶל]]&#8207; </big>**| 'O.hel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | meeting  |**<big>&#8207;[[H4150I\|מוֹעֵ֑ד]]&#8207; </big>**| mo.'Ed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and the plague  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4046\|מַּגֵּפָ֖ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha<small><sup>[[HTd]]</sup></small> m.ma.ge.Fah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it had been restrained  |**<big>&#8207;[[H6113\|נֶעֱצָֽרָה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ne.'e.Tza.rah<small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it had been restrained  |**<big>&#8207;[[H6113\|נֶעֱצָֽרָה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ne.'e.Tza.rah<small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.49|<< Numbers 16:49]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.17.1|Numbers 17:1 >>]]</td></tr></table>
 
 

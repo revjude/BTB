@@ -1,8 +1,65 @@
+---
+title: Ezekiel 38:19
+type: Verse
+kjv: "For in my jealousy and in the fire of my wrath have I spoken, Surely in that day there shall be a great shaking in the land of Israel;"
+bsb: "In My zeal and fiery rage I proclaim that on that day there will be a great earthquake in the land of Israel."
+hebrew: "וּבְקִנְאָתִ֥י בְאֵשׁ־ עֶבְרָתִ֖י דִּבַּ֑רְתִּי אִם־ לֹ֣א׀ בַּיּ֣וֹם הַה֗וּא יִֽהְיֶה֙ רַ֣עַשׁ גָּד֔וֹל עַ֖ל אַדְמַ֥ת יִשְׂרָאֵֽל׃"
+pericope: "[[Ezek.38.1 A Prophecy against Gog|A Prophecy against Gog]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 38
+book/chapter: "[[Ezek.38|Ezekiel 38]]"
+chronological_order: 829
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EARTHQUAKES|EARTHQUAKES]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H7068]]"
+- "[[H9020]]"
+- "[[H0784]]"
+- "[[H9014]]"
+- "[[H5678]]"
+- "[[H1696I]]"
+- "[[H0518I]]"
+- "[[H3808]]"
+- "[[H9015]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H1961]]"
+- "[[H7494]]"
+- "[[H1419A]]"
+- "[[H5921A]]"
+- "[[H0127G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 38:19**<big><big>[[Ezek.38.1 A Prophecy against Gog|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For in my jealousy [and] in the fire of my wrath have I spoken, Surely in that day there shall be a great shaking in the land of Israel;
 <small><sub>**BSB:**</sub></small>
 In My zeal and fiery rage I proclaim that on that day there will be a great earthquake in the land of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H7068\|קִנְאָתִ֥]][[H9020\|י]] [[H9003\|בְ]][[H0784\|אֵשׁ]][[H9014\|־]] [[H5678\|עֶבְרָתִ֖]][[H9020\|י]] [[H1696I\|דִּבַּ֑רְתִּי]] [[H0518I\|אִם]][[H9014\|־]] [[H3808\|לֹ֣א]][[H9015\|׀]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֗וּא]] [[H1961\|יִֽהְיֶה֙]] [[H7494\|רַ֣עַשׁ]] [[H1419A\|גָּד֔וֹל]] [[H5921A\|עַ֖ל]] [[H0127G\|אַדְמַ֥ת]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTHQUAKES|EARTHQUAKES]] • [[topic JEALOUSY|JEALOUSY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.38.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.18|<< Ezekiel 38:18]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.20|Ezekiel 38:20 >>]]</td></tr></table>
 

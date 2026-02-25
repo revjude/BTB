@@ -1,8 +1,64 @@
+---
+title: Judges 9:34
+type: Verse
+kjv: "And Abimelech rose up, and all the people that were with him, by night, and they laid wait against Shechem in four companies."
+bsb: "So Abimelech and all his troops set out by night and lay in wait against Shechem in four companies."
+hebrew: "וַיָּ֧קָם אֲבִימֶ֛לֶךְ וְכָל־ הָעָ֥ם אֲשֶׁר־ עִמּ֖וֹ לָ֑יְלָה וַיֶּאֶרְב֣וּ עַל־ שְׁכֶ֔ם אַרְבָּעָ֖ה רָאשִֽׁים׃"
+pericope: "[[Judg.9.30 The Fall of Shechem|The Fall of Shechem]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMBUSH|AMBUSH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic EBED|EBED]]"
+- "[[topic GAAL|GAAL]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic ZEBUL|ZEBUL]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H0040H]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971K]]"
+- "[[H0834A]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H3915]]"
+- "[[H0693]]"
+- "[[H5921A]]"
+- "[[H7927G]]"
+- "[[H0702]]"
+- "[[H7218K]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 9:34**<big><big>[[Judg.9.30 The Fall of Shechem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abimelech rose up, and all the people that [were] with him, by night, and they laid wait against Shechem in four companies.
 <small><sub>**BSB:**</sub></small>
 So Abimelech and all his troops set out by night and lay in wait against Shechem in four companies.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּ֧קָם]] [[H0040H\|אֲבִימֶ֛לֶךְ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971K\|עָ֥ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5973A\|עִמּ֖]][[H9033\|וֹ]] [[H3915\|לָ֑יְלָה]] [[H9001\|וַ]][[H0693\|יֶּאֶרְב֣וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H7927G\|שְׁכֶ֔ם]] [[H0702\|אַרְבָּעָ֖ה]] [[H7218K\|רָאשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBUSH|AMBUSH]] • [[topic ARMIES|ARMIES]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic EBED|EBED]] • [[topic GAAL|GAAL]] • [[topic JUDGE|JUDGE]] • [[topic ZEBUL|ZEBUL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.33|<< Judges 9:33]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.35|Judges 9:35 >>]]</td></tr></table>
 

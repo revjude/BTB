@@ -1,28 +1,35 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus’ Mother and Brothers
+type: Pericope
 pericope: "[[Luke.8.19 Jesus’ Mother and Brothers|Jesus’ Mother and Brothers]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: Luke
 chapter: 8
 book/chapter: "[[Luke.8|Luke 8]]"
-genre:
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 3
 verses:
 - "[[Luke.8.19]]"
 - "[[Luke.8.20]]"
 - "[[Luke.8.21]]"
 ---
 
-[[Luke.8|Luke 8:19 - Luke 8:21]]
+<small>[[Luke.8|Luke 8:19-21]]</small>
 *Jesus’ Mother and Brothers*
 
 [[Luke.8.19|19]] Then came to him \[his\] mother and his brethren, and could not come at him for the press.

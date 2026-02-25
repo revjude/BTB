@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Shishak Raids Jerusalem
+type: Pericope
 pericope: "[[2Chr.12.1 Shishak Raids Jerusalem|Shishak Raids Jerusalem]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 12
 book/chapter: "[[2Chr.12|2 Chronicles 12]]"
-genre:
+chronological_order: 558
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 12
 verses:
 - "[[2Chr.12.1]]"
 - "[[2Chr.12.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[2Chr.12.12]]"
 ---
 
-[[2Chr.12|2 Chronicles 12:1 - 2 Chronicles 12:12]]
+<small>[[2Chr.12|2 Chronicles 12:1-12]]</small>
 *Shishak Raids Jerusalem*
 
 [[2Chr.12.1|1]] And it came to pass, when Rehoboam had established the kingdom, and had strengthened himself, he forsook the law of the LORD, and all Israel with him.

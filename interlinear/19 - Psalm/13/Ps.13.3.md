@@ -1,8 +1,58 @@
+---
+title: Psalm 13:3
+type: Verse
+kjv: "Consider and hear me, O LORD my God: lighten mine eyes, lest I sleep the sleep of death;"
+bsb: "Consider me and respond, O LORD my God. Give light to my eyes, lest I sleep in death,"
+hebrew: "הַבִּ֣יטָֽה עֲ֭נֵנִי יְהוָ֣ה אֱלֹהָ֑י הָאִ֥ירָה עֵ֝ינַ֗י פֶּן־ אִישַׁ֥ן הַמָּֽוֶת׃"
+pericope: "[[Ps.13.1 How Long, O LORD？|How Long, O LORD？]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 13
+book/chapter: "[[Ps.13|Psalm 13]]"
+chronological_order: 347
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H5027]]"
+- "[[H9012]]"
+- "[[H6030B]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H0215]]"
+- "[[H5869A]]"
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H3462]]"
+- "[[H9009]]"
+- "[[H4194]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 13:3**<big><big>[[Ps.13.1 How Long, O LORD？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Consider [and] hear me, O LORD my God: lighten mine eyes, lest I sleep the [sleep of] death;
 <small><sub>**BSB:**</sub></small>
 Consider me and respond, O LORD my God. Give light to my eyes, lest I sleep in death,
+<small><sub>**Hebrew:**</sub></small>
+[[H5027\|הַבִּ֣יטָֽ]][[H9012\|ה]] [[H6030B\|עֲ֭נֵ]][[H9030\|נִי]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהָ֑]][[H9020\|י]] [[H0215\|הָאִ֥ירָ]][[H9012\|ה]] [[H5869A\|עֵ֝ינַ֗]][[H9020\|י]] [[H6435\|פֶּן]][[H9014\|־]] [[H3462\|אִישַׁ֥ן]] [[H9009\|הַ]][[H4194\|מָּֽוֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.13.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.13.2|<< Psalms 13:2]]</td><td align="center" style="border:none;">[[Ps.13|Psalms 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.13.4|Psalms 13:4 >>]]</td></tr></table>
 

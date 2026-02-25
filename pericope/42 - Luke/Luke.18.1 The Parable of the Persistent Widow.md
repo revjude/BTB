@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Persistent Widow
+type: Pericope
 pericope: "[[Luke.18.1 The Parable of the Persistent Widow|The Parable of the Persistent Widow]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Luke
 chapter: 18
 book/chapter: "[[Luke.18|Luke 18]]"
-genre:
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 8
 verses:
 - "[[Luke.18.1]]"
 - "[[Luke.18.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Luke.18.8]]"
 ---
 
-[[Luke.18|Luke 18:1 - Luke 18:8]]
+<small>[[Luke.18|Luke 18:1-8]]</small>
 *The Parable of the Persistent Widow*
 
 [[Luke.18.1|1]] And he spake a parable unto them \[to this end\], that men ought always to pray, and not to faint;

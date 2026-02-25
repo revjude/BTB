@@ -1,8 +1,56 @@
+---
+title: Jeremiah 31:11
+type: Verse
+kjv: "For the LORD hath redeemed Jacob, and ransomed him from the hand of him that was stronger than he."
+bsb: "For the LORD has ransomed Jacob and redeemed him from the hand that had overpowered him."
+hebrew: "כִּֽי־ פָדָ֥ה יְהוָ֖ה אֶֽת־ יַעֲקֹ֑ב וּגְאָל֕וֹ מִיַּ֖ד חָזָ֥ק מִמֶּֽנּוּ׃"
+pericope: "[[Jer.31.1 Mourning Turned to Joy|Mourning Turned to Joy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6299]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H3290]]"
+- "[[H9001]]"
+- "[[H1350A]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H3027G]]"
+- "[[H2389]]"
+- "[[H4480A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 31:11**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD hath redeemed Jacob, and ransomed him from the hand of [him that was] stronger than he.
 <small><sub>**BSB:**</sub></small>
 For the LORD has ransomed Jacob and redeemed him from the hand that had overpowered him.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H6299\|פָדָ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3290\|יַעֲקֹ֑ב]] [[H9001\|וּ]][[H1350A\|גְאָל֕]][[H9033\|וֹ]] [[H9006\|מִ]][[H3027G\|יַּ֖ד]] [[H2389\|חָזָ֥ק]] [[H4480A\|מִמֶּֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.10|<< Jeremiah 31:10]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.12|Jeremiah 31:12 >>]]</td></tr></table>
 

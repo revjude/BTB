@@ -1,10 +1,61 @@
+---
+title: Acts 26:4
+type: Verse
+kjv: "My manner of life from my youth, which was at the first among mine own nation at Jerusalem, know all the Jews;"
+bsb: "Surely all the Jews know how I have lived from my earliest childhood among my own people, and also in Jerusalem."
+greek: "Τὴν μὲν οὖν βίωσίν μου τὴν ἐκ νεότητος τὴν ἀπ᾽ ἀρχῆς γενομένην ἐν τῷ ἔθνει μου ἔν τε Ἱεροσολύμοις ἴσασιν πάντες οἱ Ἰουδαῖοι"
+pericope: "[[Acts.26.1 Paul’s Testimony to Agrippa|Paul’s Testimony to Agrippa]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 26
+book/chapter: "[[Acts.26|Acts 26]]"
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G0981]]"
+- "[[G3165]]"
+- "[[G1537]]"
+- "[[G3503]]"
+- "[[G0575]]"
+- "[[G0746]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G1484]]"
+- "[[G5037]]"
+- "[[G2414]]"
+- "[[G2467]]"
+- "[[G3956]]"
+- "[[G2453]]"
+texts:
+- NKO
+- no
+---
+
 **Acts 26:4**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 My manner of life from my youth, which was at the first among mine own nation at Jerusalem, know all the Jews;
 <small><sub>**BSB:**</sub></small>
 Surely all the Jews know how I have lived from my earliest childhood among my own people, and also in Jerusalem.
-<small><sub>**Literal:**</sub></small>
-The indeed then manner of life of mine which [is] from youth <the> from [its] beginning having been among the nation of mine in also Jerusalem know all the Jews<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.3|<< Acts 26:3]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.5|Acts 26:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τὴν]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G0981\|βίωσίν]]  [[G3165\|μου]]  [[G3588\|τὴν]]  [[G1537\|ἐκ]]  [[G3503\|νεότητος]]  [[G3588\|τὴν]]  [[G0575\|ἀπ᾽]]  [[G0746\|ἀρχῆς]]  [[G1096\|γενομένην]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G1484\|ἔθνει]]  [[G3165\|μου]]  [[G1722\|ἔν]]  [[G5037\|τε]]  [[G2414\|Ἱεροσολύμοις]]  [[G2467\|ἴσασιν]]  [[G3956\|πάντες]]  [[G3588\|οἱ]]  [[G2453\|Ἰουδαῖοι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic DEFENSE|DEFENSE]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PAUL|PAUL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.3|<< Acts 26:3]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.5|Acts 26:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

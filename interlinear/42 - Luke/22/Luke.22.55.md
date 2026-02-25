@@ -1,10 +1,63 @@
+---
+title: Luke 22:55
+type: Verse
+kjv: "And when they had kindled a fire in the midst of the hall, and were set down together, Peter sat down among them."
+bsb: "When those present had kindled a fire in the middle of the courtyard and sat down together, Peter sat down among them."
+greek: "περιαψάντων δὲ πῦρ ἐν μέσῳ τῆς αὐλῆς καὶ συγκαθισάντων αὐτῶν ἐκάθητο ὁ Πέτρος ἐν μέσος αὐτῶν."
+pericope: "[[Luke.22.54 Peter Denies Jesus|Peter Denies Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G6072]]"
+- "[[G1161]]"
+- "[[G4442]]"
+- "[[G1722]]"
+- "[[G3319]]"
+- "[[G3588]]"
+- "[[G0833]]"
+- "[[G2532]]"
+- "[[G4776]]"
+- "[[G0846]]"
+- "[[G2521]]"
+- "[[G4074G]]"
+texts:
+- N(k)O
+- NKO
+- k
+---
+
 **Luke 22:55**<big><big>[[Luke.22.54 Peter Denies Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they had kindled a fire in the midst of the hall, and were set down together, Peter sat down among them.
 <small><sub>**BSB:**</sub></small>
 When those present had kindled a fire in the middle of the courtyard and sat down together, Peter sat down among them.
-<small><sub>**Literal:**</sub></small>
-They having kindled around then a fire in [the] midst of the courtyard and when having sat down together they was sitting <the> Peter in midst of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.54|<< Luke 22:54]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.56|Luke 22:56 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6072\|περιαψάντων]]  [[G1161\|δὲ]]  [[G4442\|πῦρ]]  [[G1722\|ἐν]]  [[G3319\|μέσῳ]]  [[G3588\|τῆς]]  [[G0833\|αὐλῆς]]  [[G2532\|καὶ]]  [[G4776\|συγκαθισάντων]]  [[G0846\|αὐτῶν]]  [[G2521\|ἐκάθητο]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G1722\|ἐν]]  [[G3319\|μέσος]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic COWARDICE|COWARDICE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.54|<< Luke 22:54]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.56|Luke 22:56 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

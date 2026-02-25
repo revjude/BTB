@@ -1,8 +1,54 @@
+---
+title: Psalm 25:22
+type: Verse
+kjv: "Redeem Israel, O God, out of all his troubles."
+bsb: "Redeem Israel, O God, from all its distress."
+hebrew: "פְּדֵ֣ה אֱ֭לֹהִים אֶת־ יִשְׂרָאֵ֑ל מִ֝כֹּ֗ל צָֽרוֹתָיו׃"
+pericope: "[[Ps.25.1 To You I Lift Up My Soul|To You I Lift Up My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 25
+book/chapter: "[[Ps.25|Psalm 25]]"
+chronological_order: 357
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+strongs:
+- "[[H6299]]"
+- "[[H0430G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H6869B]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 25:22**<big><big>[[Ps.25.1 To You I Lift Up My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Redeem Israel, O God, out of all his troubles.
 <small><sub>**BSB:**</sub></small>
 Redeem Israel, O God, from all its distress.
+<small><sub>**Hebrew:**</sub></small>
+[[H6299\|פְּדֵ֣ה]] [[H0430G\|אֱ֭לֹהִים]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9006\|מִ֝]][[H3605\|כֹּ֗ל]] [[H6869B\|צָֽרוֹתָי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic INTERCESSION|INTERCESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.25.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.25.21|<< Psalms 25:21]]</td><td align="center" style="border:none;">[[Ps.25|Psalms 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.26.0|Psalms 26:0 >>]]</td></tr></table>
 

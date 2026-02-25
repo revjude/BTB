@@ -1,6 +1,79 @@
+---
+title: LXX 1 Kings 20:32
+type: Verse
+lxx: "And they girded sackcloths upon  their loins, and put rough cords upon  their heads. And they said to the king of Israel, Your servant, the son of Hadad says, my soul indeed live! And he said, Does he still live? he is my brother."
+greek: "και περιεζώσαντο σάκκους επί τας οσφυάς αυτών και έθεσαν σχοινία επί τας κεφαλάς αυτών και είπον τω βασιλεί Ισραήλ δούλός σου υιός Άδερ λέγει ζησάτω δη η ψυχή μου και είπεν ει έτι ζη αδελφός μου εστί"
+original_language: Greek
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CORD|CORD]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic MAGNANIMITY|MAGNANIMITY]]"
+- "[[topic ROPE|ROPE]]"
+- "[[topic SACKCLOTH|SACKCLOTH]]"
+strongs:
+- "[[G2532]]"
+- "[[G4024]]"
+- "[[G4526]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3751]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G5087]]"
+- "[[G4979]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2776]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2474]]"
+- "[[G1401]]"
+- "[[G1473]]"
+- "[[G5207]]"
+- "[[H2301]]"
+- "[[G3004]]"
+- "[[G2198]]"
+- "[[G1211]]"
+- "[[G3588]]"
+- "[[G5590]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1487]]"
+- "[[G2089]]"
+- "[[G2198]]"
+- "[[G0080]]"
+- "[[G1473]]"
+- "[[G1510]]"
+---
+
 **LXX 1 Kings 20:32** 
 <small><sub>**LXX:**</sub></small>
 And they girded sackcloths upon  their loins, and put rough cords upon  their heads. And they said to the king of Israel, Your servant, \[the\] son of Hadad says, my soul indeed live! And he said, Does he still live? he is my brother. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G4024\|περιεζώσαντο]] [[G4526\|σάκκους]] [[G1909\|επί]] [[G3588\|τας]] [[G3751\|οσφυάς]] [[G1473\|αυτών]] [[G2532\|και]] [[G5087\|έθεσαν]] [[G4979\|σχοινία]] [[G1909\|επί]] [[G3588\|τας]] [[G2776\|κεφαλάς]] [[G1473\|αυτών]] [[G2532\|και]] [[G2036\|είπον]] [[G3588\|τω]] [[G0935\|βασιλεί]] [[G2474\|Ισραήλ]] [[G1401\|δούλός]] [[G1473\|σου]] [[G5207\|υιός]] [[H2301\|Άδερ]] [[G3004\|λέγει]] [[G2198\|ζησάτω]] [[G1211\|δη]] [[G3588\|η]] [[G5590\|ψυχή]] [[G1473\|μου]] [[G2532\|και]] [[G2036\|είπεν]] [[G1487\|ει]] [[G2089\|έτι]] [[G2198\|ζη]] [[G0080\|αδελφός]] [[G1473\|μου]] [[G1510\|εστί]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CORD|CORD]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic KINDNESS|KINDNESS]] • [[topic MAGNANIMITY|MAGNANIMITY]] • [[topic ROPE|ROPE]] • [[topic SACKCLOTH|SACKCLOTH]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Kgs.20.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.31|<< 1 Kings 20:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.33|1 Kings 20:33 >>]]</td></tr></table>
 
@@ -38,6 +111,6 @@ And they girded sackcloths upon  their loins, and put rough cords upon  their he
 | live? | **<big>[[G2198\|ζη]]</big>** |
 | brother | **<big>[[G0080\|αδελφός]]</big>** |
 | he is my | **<big>[[G1473\|μου]]</big>** **<big>[[G1510\|εστί]]</big>** |
-[[1Kgs.20.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.31|<< 1 Kings 20:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.33|1 Kings 20:33 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.31|<< 1 Kings 20:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.33|1 Kings 20:33 >>]]</td></tr></table>
 
 

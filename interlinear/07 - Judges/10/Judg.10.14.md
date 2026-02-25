@@ -1,8 +1,66 @@
+---
+title: Judges 10:14
+type: Verse
+kjv: "Go and cry unto the gods which ye have chosen; let them deliver you in the time of your tribulation."
+bsb: "Go and cry out to the gods you have chosen. Let them save you in your time of trouble.”"
+hebrew: "לְכ֗וּ וְזַֽעֲקוּ֙ אֶל־ הָ֣אֱלֹהִ֔ים אֲשֶׁ֥ר בְּחַרְתֶּ֖ם בָּ֑ם הֵ֛מָּה יוֹשִׁ֥יעוּ לָכֶ֖ם בְּעֵ֥ת צָרַתְכֶֽם׃"
+pericope: "[[Judg.10.6 Oppression by the Philistines and Ammonites|Oppression by the Philistines and Ammonites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 10
+book/chapter: "[[Judg.10|Judges 10]]"
+chronological_order: 264
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SARCASM|SARCASM]]"
+strongs:
+- "[[H1980G]]"
+- "[[H9002]]"
+- "[[H2199]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0430]]"
+- "[[H0834A]]"
+- "[[H0977]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H1992]]"
+- "[[H3467]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H6256]]"
+- "[[H6869B]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 10:14**<big><big>[[Judg.10.6 Oppression by the Philistines and Ammonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go and cry unto the gods which ye have chosen; let them deliver you in the time of your tribulation.
 <small><sub>**BSB:**</sub></small>
 Go and cry out to the gods you have chosen. Let them save you in your time of trouble.”
+<small><sub>**Hebrew:**</sub></small>
+[[H1980G\|לְכ֗וּ]] [[H9002\|וְ]][[H2199\|זַֽעֲקוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ֣]][[H0430\|אֱלֹהִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H0977\|בְּחַרְתֶּ֖ם]] [[H9003\|בָּ֑]][[H9038\|ם]] [[H1992\|הֵ֛מָּה]] [[H3467\|יוֹשִׁ֥יעוּ]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H9003\|בְּ]][[H6256\|עֵ֥ת]] [[H6869B\|צָרַתְ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic ISRAEL|ISRAEL]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SARCASM|SARCASM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.10.13|<< Judges 10:13]]</td><td align="center" style="border:none;">[[Judg.10|Judges 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.10.15|Judges 10:15 >>]]</td></tr></table>
 

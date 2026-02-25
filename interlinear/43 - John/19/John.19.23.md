@@ -1,10 +1,68 @@
+---
+title: John 19:23
+type: Verse
+kjv: "Then the soldiers, when they had crucified Jesus, took his garments, and made four parts, to every soldier a part; and also his coat: now the coat was without seam, woven from the top throughout."
+bsb: "When the soldiers had crucified Jesus, they divided His garments into four parts, one for each soldier, with the tunic remaining. It was seamless, woven in one piece from top to bottom."
+greek: "Οἱ οὖν στρατιῶται, ὅτε ἐσταύρωσαν τὸν Ἰησοῦν, ἔλαβον τὰ ἱμάτια αὐτοῦ καὶ ἐποίησαν τέσσαρα μέρη, ἑκάστῳ στρατιώτῃ μέρος, καὶ τὸν χιτῶνα. ἦν δὲ ὁ χιτὼν ἄραφος, ἐκ τῶν ἄνωθεν ὑφαντὸς δι᾽ ὅλου."
+pericope: "[[John.19.16 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ART|ART]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic DRESS|DRESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOT, THE|LOT, THE]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+strongs:
+- "[[G3588]]"
+- "[[G3767]]"
+- "[[G4757]]"
+- "[[G3753]]"
+- "[[G4717]]"
+- "[[G2424G]]"
+- "[[G2983]]"
+- "[[G2440]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G4160G]]"
+- "[[G5064]]"
+- "[[G3313]]"
+- "[[G1538]]"
+- "[[G5509]]"
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G0729]]"
+- "[[G1537]]"
+- "[[G0509]]"
+- "[[G5307]]"
+- "[[G1223]]"
+- "[[G3650]]"
+texts:
+- NKO
+---
+
 **John 19:23**<big><big>[[John.19.16 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then the soldiers, when they had crucified Jesus, took his garments, and made four parts, to every soldier a part; and also [his] coat: now the coat was without seam, woven from the top throughout.
 <small><sub>**BSB:**</sub></small>
 When the soldiers had crucified Jesus, they divided His garments into four parts, one for each soldier, with the tunic remaining. It was seamless, woven in one piece from top to bottom.
-<small><sub>**Literal:**</sub></small>
-The then soldiers, when they crucified <the> Jesus, took the garments of Him and made four parts, to each soldier a part, and also the tunic. Was now the tunic seamless, from the top woven throughout all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.22|<< John 19:22]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.24|John 19:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Οἱ]]  [[G3767\|οὖν]]  [[G4757\|στρατιῶται,]]  [[G3753\|ὅτε]]  [[G4717\|ἐσταύρωσαν]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν,]]  [[G2983\|ἔλαβον]]  [[G3588\|τὰ]]  [[G2440\|ἱμάτια]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G4160G\|ἐποίησαν]]  [[G5064\|τέσσαρα]]  [[G3313\|μέρη,]]  [[G1538\|ἑκάστῳ]]  [[G4757\|στρατιώτῃ]]  [[G3313\|μέρος,]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G5509\|χιτῶνα.]]  [[G1510\|ἦν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G5509\|χιτὼν]]  [[G0729\|ἄραφος,]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G0509\|ἄνωθεν]]  [[G5307\|ὑφαντὸς]]  [[G1223\|δι᾽]]  [[G3650\|ὅλου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic DEATH|DEATH]] • [[topic DRESS|DRESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOT, THE|LOT, THE]] • [[topic SOLDIERS|SOLDIERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.22|<< John 19:22]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.24|John 19:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

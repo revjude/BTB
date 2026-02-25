@@ -1,8 +1,53 @@
+---
+title: Ezra 2:55
+type: Verse
+kjv: "The children of Solomon’s servants: the children of Sotai, the children of Sophereth, the children of Peruda,"
+bsb: "The descendants of the servants of Solomon: the descendants of Sotai, the descendants of Hassophereth, the descendants of Peruda,"
+hebrew: "בְּנֵ֖י עַבְדֵ֣י שְׁלֹמֹ֑ה בְּנֵי־ סֹטַ֥י בְּנֵי־ הַסֹּפֶ֖רֶת בְּנֵ֥י פְרוּדָֽא׃"
+pericope: "[[Ezra.2.1 The List of Returning Exiles|The List of Returning Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 2
+book/chapter: "[[Ezra.2|Ezra 2]]"
+chronological_order: 850
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PERIDA|PERIDA]]"
+- "[[topic PERUDA|PERUDA]]"
+- "[[topic SOPHERETH|SOPHERETH]]"
+- "[[topic SOTAI|SOTAI]]"
+strongs:
+- "[[H1121G]]"
+- "[[H5650]]"
+- "[[H8010]]"
+- "[[H9014]]"
+- "[[H5479]]"
+- "[[H9009]]"
+- "[[H5618]]"
+- "[[H6514]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 2:55**<big><big>[[Ezra.2.1 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children of Solomon’s servants: the children of Sotai, the children of Sophereth, the children of Peruda,
 <small><sub>**BSB:**</sub></small>
 The descendants of the servants of Solomon: the descendants of Sotai, the descendants of Hassophereth, the descendants of Peruda,
+<small><sub>**Hebrew:**</sub></small>
+[[H1121G\|בְּנֵ֖י]] [[H5650\|עַבְדֵ֣י]] [[H8010\|שְׁלֹמֹ֑ה]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H5479\|סֹטַ֥י]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H9009\|הַ]][[H5618\|סֹּפֶ֖רֶת]] [[H1121G\|בְּנֵ֥י]] [[H6514\|פְרוּדָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic PERIDA|PERIDA]] • [[topic PERUDA|PERUDA]] • [[topic SOPHERETH|SOPHERETH]] • [[topic SOTAI|SOTAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.2.55|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.54|<< Ezra 2:54]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.56|Ezra 2:56 >>]]</td></tr></table>
 

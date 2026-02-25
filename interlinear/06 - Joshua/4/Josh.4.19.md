@@ -1,8 +1,63 @@
+---
+title: Joshua 4:19
+type: Verse
+kjv: "And the people came up out of Jordan on the tenth day of the first month, and encamped in Gilgal, in the east border of Jericho."
+bsb: "On the tenth day of the first month the people went up from the Jordan and camped at Gilgal on the eastern border of Jericho."
+hebrew: "וְהָעָ֗ם עָלוּ֙ מִן־ הַיַּרְדֵּ֔ן בֶּעָשׂ֖וֹר לַחֹ֣דֶשׁ הָרִאשׁ֑וֹן וַֽיַּחֲנוּ֙ בַּגִּלְגָּ֔ל בִּקְצֵ֖ה מִזְרַ֥ח יְרִיחֽוֹ׃"
+pericope: "[[Josh.4.19 The Camp at Gilgal|The Camp at Gilgal]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 4
+book/chapter: "[[Josh.4|Joshua 4]]"
+chronological_order: 234
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ABIB|ABIB]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H5927G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H3383]]"
+- "[[H9003]]"
+- "[[H6218]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H7223G]]"
+- "[[H9001]]"
+- "[[H2583]]"
+- "[[H1537G]]"
+- "[[H7097A]]"
+- "[[H4217H]]"
+- "[[H3405G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 4:19**<big><big>[[Josh.4.19 The Camp at Gilgal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people came up out of Jordan on the tenth [day] of the first month, and encamped in Gilgal, in the east border of Jericho.
 <small><sub>**BSB:**</sub></small>
 On the tenth day of the first month the people went up from the Jordan and camped at Gilgal on the eastern border of Jericho.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H5971A\|עָ֗ם]] [[H5927G\|עָלוּ֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֔ן]] [[H9003\|בֶּ]][[H6218\|עָשׂ֖וֹר]] [[H9005\|לַ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הָ]][[H7223G\|רִאשׁ֑וֹן]] [[H9001\|וַֽ]][[H2583\|יַּחֲנוּ֙]] [[H9003\|בַּ]][[H1537G\|גִּלְגָּ֔ל]] [[H9003\|בִּ]][[H7097A\|קְצֵ֖ה]] [[H4217H\|מִזְרַ֥ח]] [[H3405G\|יְרִיחֽוֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIB|ABIB]] • [[topic GILGAL|GILGAL]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic MONTH|MONTH]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.4.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.18|<< Joshua 4:18]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.20|Joshua 4:20 >>]]</td></tr></table>
 

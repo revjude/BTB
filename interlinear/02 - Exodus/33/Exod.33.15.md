@@ -1,8 +1,65 @@
+---
+title: Exodus 33:15
+type: Verse
+kjv: "And he said unto him, If thy presence go not with me, carry us not up hence."
+bsb: "“If Your Presence does not go with us,” Moses replied, “do not lead us up from here."
+hebrew: "וַיֹּ֖אמֶר אֵלָ֑יו אִם־ אֵ֤ין פָּנֶ֙יךָ֙ הֹלְכִ֔ים אַֽל־ תַּעֲלֵ֖נוּ מִזֶּֽה׃"
+pericope: "[[Exod.33.12 The Promise of God’s Presence|The Promise of God’s Presence]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 33
+book/chapter: "[[Exod.33|Exodus 33]]"
+chronological_order: 125
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BOLDNESS|BOLDNESS]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H0369]]"
+- "[[H6440H]]"
+- "[[H9021]]"
+- "[[H1980G]]"
+- "[[H0408]]"
+- "[[H5927H]]"
+- "[[H9035]]"
+- "[[H9006]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 33:15**<big><big>[[Exod.33.12 The Promise of God’s Presence|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto him, If thy presence go not [with me], carry us not up hence.
 <small><sub>**BSB:**</sub></small>
 “If Your Presence does not go with us,” Moses replied, “do not lead us up from here.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H0413\|אֵלָ֑י]][[H9033\|ו]] [[H0518A\|אִם]][[H9014\|־]] [[H0369\|אֵ֤ין]] [[H6440H\|פָּנֶ֙י]][[H9021\|ךָ֙]] [[H1980G\|הֹלְכִ֔ים]] [[H0408\|אַֽל]][[H9014\|־]] [[H5927H\|תַּעֲלֵ֖]][[H9035\|נוּ]] [[H9006\|מִ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOLDNESS|BOLDNESS]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.33.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.33.14|<< Exodus 33:14]]</td><td align="center" style="border:none;">[[Exod.33|Exodus 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.33.16|Exodus 33:16 >>]]</td></tr></table>
 

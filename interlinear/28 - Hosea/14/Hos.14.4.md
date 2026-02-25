@@ -1,8 +1,55 @@
+---
+title: Hosea 14:4
+type: Verse
+kjv: "I will heal their backsliding, I will love them freely: for mine anger is turned away from him."
+bsb: "I will heal their apostasy; I will freely love them, for My anger has turned away from them."
+hebrew: "אֶרְפָּא֙ מְשׁ֣וּבָתָ֔ם אֹהֲבֵ֖ם נְדָבָ֑ה כִּ֛י שָׁ֥ב אַפִּ֖י מִמֶּֽנּוּ׃"
+pericope: "[[Hos.14.4 A Promise of God’s Blessing|A Promise of God’s Blessing]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 14
+book/chapter: "[[Hos.14|Hosea 14]]"
+chronological_order: 655
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H7495]]"
+- "[[H4878]]"
+- "[[H9028]]"
+- "[[H0157G]]"
+- "[[H9038]]"
+- "[[H5071]]"
+- "[[H3588A]]"
+- "[[H7725I]]"
+- "[[H0639G]]"
+- "[[H9020]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 14:4**<big><big>[[Hos.14.4 A Promise of God’s Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will heal their backsliding, I will love them freely: for mine anger is turned away from him.
 <small><sub>**BSB:**</sub></small>
 I will heal their apostasy; I will freely love them, for My anger has turned away from them.
+<small><sub>**Hebrew:**</sub></small>
+[[H7495\|אֶרְפָּא֙]] [[H4878\|מְשׁ֣וּבָתָ֔]][[H9028\|ם]] [[H0157G\|אֹהֲבֵ֖]][[H9038\|ם]] [[H5071\|נְדָבָ֑ה]] [[H3588A\|כִּ֛י]] [[H7725I\|שָׁ֥ב]] [[H0639G\|אַפִּ֖]][[H9020\|י]] [[H4480A\|מִמֶּֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.14.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.14.3|<< Hosea 14:3]]</td><td align="center" style="border:none;">[[Hos.14|Hosea 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.14.5|Hosea 14:5 >>]]</td></tr></table>
 

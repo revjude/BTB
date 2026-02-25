@@ -1,8 +1,68 @@
+---
+title: 1 Samuel 28:12
+type: Verse
+kjv: "And when the woman saw Samuel, she cried with a loud voice: and the woman spake to Saul, saying, Why hast thou deceived me? for thou art Saul."
+bsb: "But when the woman saw Samuel, she cried out in a loud voice and said to Saul, “Why have you deceived me? You are Saul!”"
+hebrew: "וַתֵּ֤רֶא הָֽאִשָּׁה֙ אֶת־ שְׁמוּאֵ֔ל וַתִּזְעַ֖ק בְּק֣וֹל גָּד֑וֹל וַתֹּאמֶר֩ הָאִשָּׁ֨ה אֶל־ שָׁא֧וּל לֵאמֹ֛ר לָ֥מָּה רִמִּיתָ֖נִי וְאַתָּ֥ה שָׁאֽוּל׃"
+pericope: "[[1Sam.28.7 Saul and the Medium of Endor|Saul and the Medium of Endor]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 28
+book/chapter: "[[1Sam.28|1 Samuel 28]]"
+chronological_order: 307
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic EN-DOR|EN-DOR]]"
+- "[[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NECROMANCY|NECROMANCY]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic SORCERY|SORCERY]]"
+- "[[topic WITCHCRAFT|WITCHCRAFT]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8050G]]"
+- "[[H2199]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H1419A]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H7586G]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H7411B]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 28:12**<big><big>[[1Sam.28.7 Saul and the Medium of Endor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the woman saw Samuel, she cried with a loud voice: and the woman spake to Saul, saying, Why hast thou deceived me? for thou [art] Saul.
 <small><sub>**BSB:**</sub></small>
 But when the woman saw Samuel, she cried out in a loud voice and said to Saul, “Why have you deceived me? You are Saul!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|תֵּ֤רֶא]] [[H9009\|הָֽ]][[H0802G\|אִשָּׁה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H8050G\|שְׁמוּאֵ֔ל]] [[H9001\|וַ]][[H2199\|תִּזְעַ֖ק]] [[H9003\|בְּ]][[H6963A\|ק֣וֹל]] [[H1419A\|גָּד֑וֹל]] [[H9001\|וַ]][[H0559\|תֹּאמֶר֩]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֨ה]] [[H0413\|אֶל]][[H9014\|־]] [[H7586G\|שָׁא֧וּל]] [[H9005\|לֵ]][[H0559\|אמֹ֛ר]] [[H9005\|לָ֥]][[H4100\|מָּה]] [[H7411B\|רִמִּיתָ֖]][[H9030\|נִי]] [[H9002\|וְ]][[H0859A\|אַתָּ֥ה]] [[H7586G\|שָׁאֽוּל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EN-DOR|EN-DOR]] • [[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]] • [[topic MIRACLES|MIRACLES]] • [[topic NECROMANCY|NECROMANCY]] • [[topic SAMUEL|SAMUEL]] • [[topic SAUL|SAUL]] • [[topic SORCERY|SORCERY]] • [[topic WITCHCRAFT|WITCHCRAFT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.28.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.28.11|<< 1 Samuel 28:11]]</td><td align="center" style="border:none;">[[1Sam.28|1 Samuel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.28.13|1 Samuel 28:13 >>]]</td></tr></table>
 

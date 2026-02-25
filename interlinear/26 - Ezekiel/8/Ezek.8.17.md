@@ -1,8 +1,77 @@
+---
+title: Ezekiel 8:17
+type: Verse
+kjv: "Then he said unto me, Hast thou seen this, O son of man? Is it a light thing to the house of Judah that they commit the abominations which they commit here? for they have filled the land with violence, and have returned to provoke me to anger: and, lo, they put the branch to their nose."
+bsb: "“Son of man,” He said to me, “do you see this? Is it not enough for the house of Judah to commit the abominations they are practicing here, that they must also fill the land with violence and continually provoke Me to anger? Look, they are even putting the branch to their nose!"
+hebrew: "וַיֹּ֣אמֶר אֵלַי֮ הֲרָאִ֣יתָ בֶן־ אָדָם֒ הֲנָקֵל֙ לְבֵ֣ית יְהוּדָ֔ה מֵעֲשׂ֕וֹת אֶת־ הַתּוֹעֵב֖וֹת אֲשֶׁ֣ר עָֽשׂוּ־ פֹ֑ה כִּֽי־ מָלְא֨וּ אֶת־ הָאָ֜רֶץ חָמָ֗ס וַיָּשֻׁ֙בוּ֙ לְהַכְעִיסֵ֔נִי וְהִנָּ֛ם שֹׁלְחִ֥ים אֶת־ הַזְּמוֹרָ֖ה אֶל־ אַפָּֽם׃"
+pericope: "[[Ezek.8.1 The Vision of Idolatry in the Temple|The Vision of Idolatry in the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 8
+book/chapter: "[[Ezek.8|Ezekiel 8]]"
+chronological_order: 799
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9008]]"
+- "[[H7200G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H7043]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H3063G]]"
+- "[[H9006]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H8441]]"
+- "[[H0834A]]"
+- "[[H6311]]"
+- "[[H3588A]]"
+- "[[H4390]]"
+- "[[H0776G]]"
+- "[[H2555]]"
+- "[[H7725J]]"
+- "[[H3707]]"
+- "[[H9002]]"
+- "[[H2005]]"
+- "[[H9048]]"
+- "[[H7971K]]"
+- "[[H2156]]"
+- "[[H0639H]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 8:17**<big><big>[[Ezek.8.1 The Vision of Idolatry in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he said unto me, Hast thou seen [this], O son of man? Is it a light thing to the house of Judah that they commit the abominations which they commit here? for they have filled the land with violence, and have returned to provoke me to anger: and, lo, they put the branch to their nose.
 <small><sub>**BSB:**</sub></small>
 “Son of man,” He said to me, “do you see this? Is it not enough for the house of Judah to commit the abominations they are practicing here, that they must also fill the land with violence and continually provoke Me to anger? Look, they are even putting the branch to their nose!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלַ]][[H9030\|י֮]] [[H9008\|הֲ]][[H7200G\|רָאִ֣יתָ]] [[H1121A\|בֶן]][[H9014\|־]] [[H0120G\|אָדָם֒]] [[H9008\|הֲ]][[H7043\|נָקֵל֙]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H3063G\|יְהוּדָ֔ה]] [[H9006\|מֵ]][[H6213H\|עֲשׂ֕וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8441\|תּוֹעֵב֖וֹת]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213H\|עָֽשׂוּ]][[H9014\|־]] [[H6311\|פֹ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4390\|מָלְא֨וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֜רֶץ]] [[H2555\|חָמָ֗ס]] [[H9001\|וַ]][[H7725J\|יָּשֻׁ֙בוּ֙]] [[H9005\|לְ]][[H3707\|הַכְעִיסֵ֔]][[H9030\|נִי]] [[H9002\|וְ]][[H2005\|הִנָּ֛]][[H9048\|ם]] [[H7971K\|שֹׁלְחִ֥ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2156\|זְּמוֹרָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H0639H\|אַפָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.8.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.8.16|<< Ezekiel 8:16]]</td><td align="center" style="border:none;">[[Ezek.8|Ezekiel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.8.18|Ezekiel 8:18 >>]]</td></tr></table>
 

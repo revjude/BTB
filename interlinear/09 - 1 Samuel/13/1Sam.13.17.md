@@ -1,8 +1,60 @@
+---
+title: 1 Samuel 13:17
+type: Verse
+kjv: "And the spoilers came out of the camp of the Philistines in three companies: one company turned unto the way that leadeth to Ophrah, unto the land of Shual:"
+bsb: "And raiders went out of the Philistine camp in three divisions. One headed toward Ophrah in the land of Shual,"
+hebrew: "וַיֵּצֵ֧א הַמַּשְׁחִ֛ית מִמַּחֲנֵ֥ה פְלִשְׁתִּ֖ים שְׁלֹשָׁ֣ה רָאשִׁ֑ים הָרֹ֨אשׁ אֶחָ֥ד יִפְנֶ֛ה אֶל־ דֶּ֥רֶךְ עָפְרָ֖ה אֶל־ אֶ֥רֶץ שׁוּעָֽל׃"
+pericope: "[[1Sam.13.16 Israel without Weapons|Israel without Weapons]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 13
+book/chapter: "[[1Sam.13|1 Samuel 13]]"
+chronological_order: 292
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic OPHRAH|OPHRAH]]"
+- "[[topic SHUAL|SHUAL]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H9009]]"
+- "[[H7843]]"
+- "[[H9006]]"
+- "[[H4264]]"
+- "[[H6430G]]"
+- "[[H7969]]"
+- "[[H7218K]]"
+- "[[H0259]]"
+- "[[H6437G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1870J]]"
+- "[[H6084G]]"
+- "[[H0776G]]"
+- "[[H7777A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 13:17**<big><big>[[1Sam.13.16 Israel without Weapons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the spoilers came out of the camp of the Philistines in three companies: one company turned unto the way [that leadeth to] Ophrah, unto the land of Shual:
 <small><sub>**BSB:**</sub></small>
 And raiders went out of the Philistine camp in three divisions. One headed toward Ophrah in the land of Shual,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵ֧א]] [[H9009\|הַ]][[H7843\|מַּשְׁחִ֛ית]] [[H9006\|מִ]][[H4264\|מַּחֲנֵ֥ה]] [[H6430G\|פְלִשְׁתִּ֖ים]] [[H7969\|שְׁלֹשָׁ֣ה]] [[H7218K\|רָאשִׁ֑ים]] [[H9009\|הָ]][[H7218K\|רֹ֨אשׁ]] [[H0259\|אֶחָ֥ד]] [[H6437G\|יִפְנֶ֛ה]] [[H0413\|אֶל]][[H9014\|־]] [[H1870J\|דֶּ֥רֶךְ]] [[H6084G\|עָפְרָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H7777A\|שׁוּעָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic OPHRAH|OPHRAH]] • [[topic SHUAL|SHUAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.13.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.16|<< 1 Samuel 13:16]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.18|1 Samuel 13:18 >>]]</td></tr></table>
 

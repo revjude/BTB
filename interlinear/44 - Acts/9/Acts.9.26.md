@@ -1,10 +1,63 @@
+---
+title: Acts 9:26
+type: Verse
+kjv: "And when Saul was come to Jerusalem, he assayed to join himself to the disciples: but they were all afraid of him, and believed not that he was a disciple."
+bsb: "When Saul arrived in Jerusalem, he tried to join the disciples, but they were all afraid of him, not believing that he was a disciple."
+greek: "Παραγενόμενος δὲ ὁ Σαῦλος εἰς Ἰερουσαλὴμ ἐπείραζεν κολλᾶσθαι τοῖς μαθηταῖς· καὶ πάντες ἐφοβοῦντο αὐτὸν μὴ πιστεύοντες ὅτι ἐστὶν μαθητής."
+pericope: "[[Acts.9.26 Saul in Jerusalem|Saul in Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 9
+book/chapter: "[[Acts.9|Acts 9]]"
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BARNABAS|BARNABAS]]"
+- "[[topic DISCIPLE|DISCIPLE]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SYRIA|SYRIA]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3854]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4569H]]"
+- "[[G1519]]"
+- "[[G2419]]"
+- "[[G3985H]]"
+- "[[G2853]]"
+- "[[G3101]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G5399]]"
+- "[[G0846]]"
+- "[[G3361]]"
+- "[[G4100]]"
+- "[[G3754G]]"
+- "[[G1510]]"
+texts:
+- NKO
+- k
+- NK(o)
+- N(k)O
+---
+
 **Acts 9:26**<big><big>[[Acts.9.26 Saul in Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when Saul was come to Jerusalem, he assayed to join himself to the disciples: but they were all afraid of him, and believed not that he was a disciple.
 <small><sub>**BSB:**</sub></small>
 When Saul arrived in Jerusalem, he tried to join the disciples, but they were all afraid of him, not believing that he was a disciple.
-<small><sub>**Literal:**</sub></small>
-Having arrived then <the> Saul in Jerusalem he was trying to join to the disciples; And all were afraid of him not believing that he is a disciple.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.25|<< Acts 9:25]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.27|Acts 9:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3854\|Παραγενόμενος]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G4569H\|Σαῦλος]]  [[G1519\|εἰς]]  [[G2419\|Ἰερουσαλὴμ]]  [[G3985H\|ἐπείραζεν]]  [[G2853\|κολλᾶσθαι]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς·]]  [[G2532\|καὶ]]  [[G3956\|πάντες]]  [[G5399\|ἐφοβοῦντο]]  [[G0846\|αὐτὸν]]  [[G3361\|μὴ]]  [[G4100\|πιστεύοντες]]  [[G3754G\|ὅτι]]  [[G1510\|ἐστὶν]]  [[G3101\|μαθητής.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARNABAS|BARNABAS]] • [[topic DISCIPLE|DISCIPLE]] • [[topic PAUL|PAUL]] • [[topic SYRIA|SYRIA]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.25|<< Acts 9:25]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.27|Acts 9:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

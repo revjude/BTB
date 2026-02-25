@@ -1,8 +1,71 @@
+---
+title: 1 Chronicles 1:32
+type: Verse
+kjv: "Now the sons of Keturah, Abraham’s concubine: she bare Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. And the sons of Jokshan; Sheba, and Dedan."
+bsb: "The sons born to Keturah, Abraham’s concubine: Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. The sons of Jokshan: Sheba and Dedan."
+hebrew: "וּבְנֵ֨י קְטוּרָ֜ה פִּילֶ֣גֶשׁ אַבְרָהָ֗ם יָלְדָ֞ה אֶת־ זִמְרָ֧ן וְיָקְשָׁ֛ן וּמְדָ֥ן וּמִדְיָ֖ן וְיִשְׁבָּ֣ק וְשׁ֑וּחַ וּבְנֵ֥י יָקְשָׁ֖ן שְׁבָ֥א וּדְדָֽן׃ ס"
+pericope: "[[1Chr.1.28 The Descendants of Abraham|The Descendants of Abraham]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 1
+book/chapter: "[[1Chr.1|1 Chronicles 1]]"
+chronological_order: 320
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CONCUBINAGE|CONCUBINAGE]]"
+- "[[topic DEDAN|DEDAN]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic ISHBAK|ISHBAK]]"
+- "[[topic JOKSHAN|JOKSHAN]]"
+- "[[topic KETURAH|KETURAH]]"
+- "[[topic MEDAN|MEDAN]]"
+- "[[topic MIDIAN|MIDIAN]]"
+- "[[topic MIDIANITES|MIDIANITES]]"
+- "[[topic SHEBA|SHEBA]]"
+- "[[topic SHEM|SHEM]]"
+- "[[topic SHUAH|SHUAH]]"
+- "[[topic ZIMRAN|ZIMRAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H6989]]"
+- "[[H6370]]"
+- "[[H0085]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2175]]"
+- "[[H3370]]"
+- "[[H4091]]"
+- "[[H4080G]]"
+- "[[H3435]]"
+- "[[H7744]]"
+- "[[H7614I]]"
+- "[[H1719C]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Chronicles 1:32**<big><big>[[1Chr.1.28 The Descendants of Abraham|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the sons of Keturah, Abraham’s concubine: she bare Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. And the sons of Jokshan; Sheba, and Dedan.
 <small><sub>**BSB:**</sub></small>
 The sons born to Keturah, Abraham’s concubine: Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. The sons of Jokshan: Sheba and Dedan.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בְנֵ֨י]] [[H6989\|קְטוּרָ֜ה]] [[H6370\|פִּילֶ֣גֶשׁ]] [[H0085\|אַבְרָהָ֗ם]] [[H3205\|יָלְדָ֞ה]] [[H0853\|אֶת]][[H9014\|־]] [[H2175\|זִמְרָ֧ן]] [[H9002\|וְ]][[H3370\|יָקְשָׁ֛ן]] [[H9002\|וּ]][[H4091\|מְדָ֥ן]] [[H9002\|וּ]][[H4080G\|מִדְיָ֖ן]] [[H9002\|וְ]][[H3435\|יִשְׁבָּ֣ק]] [[H9002\|וְ]][[H7744\|שׁ֑וּחַ]] [[H9002\|וּ]][[H1121A\|בְנֵ֥י]] [[H3370\|יָקְשָׁ֖ן]] [[H7614I\|שְׁבָ֥א]] [[H9002\|וּ]][[H1719C\|דְדָֽן]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CONCUBINAGE|CONCUBINAGE]] • [[topic DEDAN|DEDAN]] • [[topic GENEALOGY|GENEALOGY]] • [[topic ISHBAK|ISHBAK]] • [[topic JOKSHAN|JOKSHAN]] • [[topic KETURAH|KETURAH]] • [[topic MEDAN|MEDAN]] • [[topic MIDIAN|MIDIAN]] • [[topic MIDIANITES|MIDIANITES]] • [[topic SHEBA|SHEBA]] • [[topic SHEM|SHEM]] • [[topic SHUAH|SHUAH]] • [[topic ZIMRAN|ZIMRAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.1.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.31|<< 1 Chronicles 1:31]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.33|1 Chronicles 1:33 >>]]</td></tr></table>
 
@@ -23,7 +86,7 @@ The sons born to Keturah, Abraham’s concubine: Zimran, Jokshan, Medan, Midian,
 | and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵ֥י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jokshan  |**<big>&#8207;[[H3370\|יָקְשָׁ֖ן]]&#8207; </big>**| ya.ke.Shan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Sheba  |**<big>&#8207;[[H7614I\|שְׁבָ֥א]]&#8207; </big>**| she.Va'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Dedan  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1719C\|דְדָֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> de.Dan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Dedan  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1719C\|דְדָֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> de.Dan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.31|<< 1 Chronicles 1:31]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.33|1 Chronicles 1:33 >>]]</td></tr></table>
 
 

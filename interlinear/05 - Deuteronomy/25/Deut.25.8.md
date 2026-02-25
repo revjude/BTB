@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 25:8
+type: Verse
+kjv: "Then the elders of his city shall call him, and speak unto him: and if he stand to it, and say, I like not to take her;"
+bsb: "Then the elders of his city shall summon him and speak with him. If he persists and says, “I do not want to marry her,”"
+hebrew: "וְקָֽרְאוּ־ ל֥וֹ זִקְנֵי־ עִיר֖וֹ וְדִבְּר֣וּ אֵלָ֑יו וְעָמַ֣ד וְאָמַ֔ר לֹ֥א חָפַ֖צְתִּי לְקַחְתָּֽהּ׃"
+pericope: "[[Deut.25.5 Widowhood and Marriage|Widowhood and Marriage]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 25
+book/chapter: "[[Deut.25|Deuteronomy 25]]"
+chronological_order: 221
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H2205G]]"
+- "[[H5892B]]"
+- "[[H9023]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H5975G]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H2654A]]"
+- "[[H3947I]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 25:8**<big><big>[[Deut.25.5 Widowhood and Marriage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the elders of his city shall call him, and speak unto him: and [if] he stand [to it], and say, I like not to take her;
 <small><sub>**BSB:**</sub></small>
 Then the elders of his city shall summon him and speak with him. If he persists and says, “I do not want to marry her,”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7121G\|קָֽרְאוּ]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H2205G\|זִקְנֵי]][[H9014\|־]] [[H5892B\|עִיר֖]][[H9023\|וֹ]] [[H9001\|וְ]][[H1696G\|דִבְּר֣וּ]] [[H0413\|אֵלָ֑י]][[H9033\|ו]] [[H9001\|וְ]][[H5975G\|עָמַ֣ד]] [[H9001\|וְ]][[H0559\|אָמַ֔ר]] [[H3808\|לֹ֥א]] [[H2654A\|חָפַ֖צְתִּי]] [[H9005\|לְ]][[H3947I\|קַחְתָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BROTHER|BROTHER]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INHERITANCE|INHERITANCE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.25.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.25.7|<< Deuteronomy 25:7]]</td><td align="center" style="border:none;">[[Deut.25|Deuteronomy 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.25.9|Deuteronomy 25:9 >>]]</td></tr></table>
 

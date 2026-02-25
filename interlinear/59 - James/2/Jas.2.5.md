@@ -1,10 +1,68 @@
+---
+title: James 2:5
+type: Verse
+kjv: "Hearken, my beloved brethren, Hath not God chosen the poor of this world rich in faith, and heirs of the kingdom which he hath promised to them that love him?"
+bsb: "Listen, my beloved brothers: Has not God chosen the poor of this world to be rich in faith and to inherit the kingdom He promised those who love Him?"
+greek: "ἀκούσατε, ἀδελφοί μου ἀγαπητοί, οὐχ ὁ θεὸς ἐξελέξατο τοὺς πτωχοὺς τῷ κόσμῳ τούτου πλουσίους ἐν πίστει καὶ κληρονόμους τῆς βασιλείας ἧς ἐπηγγείλατο τοῖς ἀγαπῶσιν αὐτόν;"
+pericope: "[[Jas.2.1 A Warning against Favoritism|A Warning against Favoritism]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 2
+book/chapter: "[[Jas.2|James 2]]"
+chronological_order: 1034
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEIR|HEIR]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RESPECT OF PERSONS|RESPECT OF PERSONS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G0191]]"
+- "[[G0080]]"
+- "[[G3165]]"
+- "[[G0027]]"
+- "[[G3756]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1586]]"
+- "[[G4434]]"
+- "[[G2889]]"
+- "[[G3778]]"
+- "[[G4145]]"
+- "[[G1722]]"
+- "[[G4102G]]"
+- "[[G2532]]"
+- "[[G2818]]"
+- "[[G0932]]"
+- "[[G3739]]"
+- "[[G1861]]"
+- "[[G0025]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **James 2:5**<big><big>[[Jas.2.1 A Warning against Favoritism|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Hearken, my beloved brethren, Hath not God chosen the poor of this world rich in faith, and heirs of the kingdom which he hath promised to them that love him?
 <small><sub>**BSB:**</sub></small>
 Listen, my beloved brothers: Has not God chosen the poor of this world to be rich in faith and to inherit the kingdom He promised those who love Him?
-<small><sub>**Literal:**</sub></small>
-do listen, brothers of mine beloved, Not <the> God has chosen the poor in the world this [to be] rich in faith and heirs of the kingdom that He promised to those loving Him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.4|<< James 2:4]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.6|James 2:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|ἀκούσατε,]]  [[G0080\|ἀδελφοί]]  [[G3165\|μου]]  [[G0027\|ἀγαπητοί,]]  [[G3756\|οὐχ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1586\|ἐξελέξατο]]  [[G3588\|τοὺς]]  [[G4434\|πτωχοὺς]]  [[G3588\|τῷ]]  [[G2889\|κόσμῳ]]  [[G3778\|τούτου]]  [[G4145\|πλουσίους]]  [[G1722\|ἐν]]  [[G4102G\|πίστει]]  [[G2532\|καὶ]]  [[G2818\|κληρονόμους]]  [[G3588\|τῆς]]  [[G0932\|βασιλείας]]  [[G3739\|ἧς]]  [[G1861\|ἐπηγγείλατο]]  [[G3588\|τοῖς]]  [[G0025\|ἀγαπῶσιν]]  [[G0846\|αὐτόν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic HEIR|HEIR]] • [[topic LOVE|LOVE]] • [[topic POOR|POOR]] • [[topic RESPECT OF PERSONS|RESPECT OF PERSONS]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.4|<< James 2:4]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.6|James 2:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

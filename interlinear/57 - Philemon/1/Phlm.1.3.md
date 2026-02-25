@@ -1,10 +1,47 @@
+---
+title: Philemon 1:3
+type: Verse
+kjv: "Grace to you, and peace, from God our Father and the Lord Jesus Christ."
+bsb: "Grace and peace to you from God our Father and the Lord Jesus Christ."
+greek: "χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ.¶"
+pericope: "[[Phlm.1.1 Greetings from Paul and Timothy|Greetings from Paul and Timothy]]"
+original_language: Greek
+testament: New
+book: Philemon
+chapter: 1
+book/chapter: "[[Phlm.1|Philemon 1]]"
+chronological_order: 1125
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- personal letter
+strongs:
+- "[[G5485]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G1515]]"
+- "[[G0575]]"
+- "[[G2316]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+texts:
+- NKO
+---
+
 **Philemon 1:3**<big><big>[[Phlm.1.1 Greetings from Paul and Timothy|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Grace to you, and peace, from God our Father and the Lord Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 Grace and peace to you from God our Father and the Lord Jesus Christ.
-<small><sub>**Literal:**</sub></small>
-Grace to you and peace from God Father of us and [the] Lord Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.2|<< Philemon 1:2]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.4|Philemon 1:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5485\|χάρις]]  [[G4771\|ὑμῖν]]  [[G2532\|καὶ]]  [[G1515\|εἰρήνη]]  [[G0575\|ἀπὸ]]  [[G2316\|θεοῦ]]  [[G3962\|πατρὸς]]  [[G3165\|ἡμῶν]]  [[G2532\|καὶ]]  [[G2962G\|κυρίου]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ.¶]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.2|<< Philemon 1:2]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.4|Philemon 1:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

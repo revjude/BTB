@@ -1,8 +1,54 @@
+---
+title: Psalm 124:8
+type: Verse
+kjv: "Our help is in the name of the LORD, who made heaven and earth."
+bsb: "Our help is in the name of the LORD, the Maker of heaven and earth."
+hebrew: "עֶ֭זְרֵנוּ בְּשֵׁ֣ם יְהוָ֑ה עֹ֝שֵׂ֗ה שָׁמַ֥יִם וָאָֽרֶץ׃"
+pericope: "[[Ps.124.1 Our Help Is in the Name of the LORD|Our Help Is in the Name of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 124
+book/chapter: "[[Ps.124|Psalm 124]]"
+chronological_order: 886
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H5828]]"
+- "[[H9025]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H6213H]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 124:8**<big><big>[[Ps.124.1 Our Help Is in the Name of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Our help [is] in the name of the LORD, who made heaven and earth.
 <small><sub>**BSB:**</sub></small>
 Our help is in the name of the LORD, the Maker of heaven and earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H5828\|עֶ֭זְרֵ]][[H9025\|נוּ]] [[H9003\|בְּ]][[H8034\|שֵׁ֣ם]] [[H3068G\|יְהוָ֑ה]] [[H6213H\|עֹ֝שֵׂ֗ה]] [[H8064\|שָׁמַ֥יִם]] [[H9002\|וָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.124.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.124.7|<< Psalms 124:7]]</td><td align="center" style="border:none;">[[Ps.124|Psalms 124]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.125.0|Psalms 125:0 >>]]</td></tr></table>
 

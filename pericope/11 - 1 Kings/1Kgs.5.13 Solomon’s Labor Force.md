@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Solomon’s Labor Force
+type: Pericope
 pericope: "[[1Kgs.5.13 Solomon’s Labor Force|Solomon’s Labor Force]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 5
 book/chapter: "[[1Kgs.5|1 Kings 5]]"
-genre:
+chronological_order: 487
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 6
 verses:
 - "[[1Kgs.5.13]]"
 - "[[1Kgs.5.14]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Kgs.5.18]]"
 ---
 
-[[1Kgs.5|1 Kings 5:13 - 1 Kings 5:18]]
+<small>[[1Kgs.5|1 Kings 5:13-18]]</small>
 *Solomon’s Labor Force*
 
 [[1Kgs.5.13|13]] And king Solomon raised a levy out of all Israel; and the levy was thirty thousand men.

@@ -1,8 +1,58 @@
+---
+title: Leviticus 18:4
+type: Verse
+kjv: "Ye shall do my judgments, and keep mine ordinances, to walk therein: I am the LORD your God."
+bsb: "You are to practice My judgments and keep My statutes by walking in them. I am the LORD your God."
+hebrew: "אֶת־ מִשְׁפָּטַ֧י תַּעֲשׂ֛וּ וְאֶת־ חֻקֹּתַ֥י תִּשְׁמְר֖וּ לָלֶ֣כֶת בָּהֶ֑ם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃"
+pericope: "[[Lev.18.1 Unlawful Sexual Relations|Unlawful Sexual Relations]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 18
+book/chapter: "[[Lev.18|Leviticus 18]]"
+chronological_order: 150
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4941G]]"
+- "[[H9020]]"
+- "[[H6213A]]"
+- "[[H9002]]"
+- "[[H2708]]"
+- "[[H8104G]]"
+- "[[H9005]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 18:4**<big><big>[[Lev.18.1 Unlawful Sexual Relations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall do my judgments, and keep mine ordinances, to walk therein: I [am] the LORD your God.
 <small><sub>**BSB:**</sub></small>
 You are to practice My judgments and keep My statutes by walking in them. I am the LORD your God.
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶת]][[H9014\|־]] [[H4941G\|מִשְׁפָּטַ֧]][[H9020\|י]] [[H6213A\|תַּעֲשׂ֛וּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2708\|חֻקֹּתַ֥]][[H9020\|י]] [[H8104G\|תִּשְׁמְר֖וּ]] [[H9005\|לָ]][[H1980I\|לֶ֣כֶת]] [[H9003\|בָּ]][[H9038\|הֶ֑ם]] [[H0589\|אֲנִ֖י]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.18.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18.3|<< Leviticus 18:3]]</td><td align="center" style="border:none;">[[Lev.18|Leviticus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.18.5|Leviticus 18:5 >>]]</td></tr></table>
 

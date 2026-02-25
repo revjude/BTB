@@ -1,8 +1,57 @@
+---
+title: Psalm 94:13
+type: Verse
+kjv: "That thou mayest give him rest from the days of adversity, until the pit be digged for the wicked."
+bsb: "to grant him relief from days of trouble, until a pit is dug for the wicked."
+hebrew: "לְהַשְׁקִ֣יט ל֭וֹ מִ֣ימֵי רָ֑ע עַ֤ד יִכָּרֶ֖ה לָרָשָׁ֣ע שָֽׁחַת׃"
+pericope: "[[Ps.94.1 The LORD Will Not Forget His People|The LORD Will Not Forget His People]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 94
+book/chapter: "[[Ps.94|Psalm 94]]"
+chronological_order: 521
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9005]]"
+- "[[H8252]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H3117G]]"
+- "[[H7451B]]"
+- "[[H5704]]"
+- "[[H3738B]]"
+- "[[H7563]]"
+- "[[H7845H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 94:13**<big><big>[[Ps.94.1 The LORD Will Not Forget His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That thou mayest give him rest from the days of adversity, until the pit be digged for the wicked.
 <small><sub>**BSB:**</sub></small>
 to grant him relief from days of trouble, until a pit is dug for the wicked.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H8252\|הַשְׁקִ֣יט]] [[H9005\|ל֭]][[H9033\|וֹ]] [[H9006\|מִ֣]][[H3117G\|ימֵי]] [[H7451B\|רָ֑ע]] [[H5704\|עַ֤ד]] [[H3738B\|יִכָּרֶ֖ה]] [[H9005\|לָ]][[H7563\|רָשָׁ֣ע]] [[H7845H\|שָֽׁחַת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.94.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.94.12|<< Psalms 94:12]]</td><td align="center" style="border:none;">[[Ps.94|Psalms 94]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.94.14|Psalms 94:14 >>]]</td></tr></table>
 

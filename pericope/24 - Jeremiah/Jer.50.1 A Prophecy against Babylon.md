@@ -1,29 +1,36 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Prophecy against Babylon
+type: Pericope
 pericope: "[[Jer.50.1 A Prophecy against Babylon|A Prophecy against Babylon]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 50
 book/chapter: "[[Jer.50|Jeremiah 50]]"
-genre:
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 3
 verses:
 - "[[Jer.50.1]]"
 - "[[Jer.50.2]]"
 - "[[Jer.50.3]]"
 ---
 
-[[Jer.50|Jeremiah 50:1 - Jeremiah 50:3]]
+<small>[[Jer.50|Jeremiah 50:1-3]]</small>
 *A Prophecy against Babylon*
 
 [[Jer.50.1|1]] The word that the LORD spake against Babylon \[and\] against the land of the Chaldeans by Jeremiah the prophet.

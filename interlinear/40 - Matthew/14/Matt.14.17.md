@@ -1,10 +1,55 @@
+---
+title: Matthew 14:17
+type: Verse
+kjv: "And they say unto him, We have here but five loaves, and two fishes."
+bsb: "“We have here only five loaves of bread and two fish,” they answered."
+greek: "οἱ δὲ λέγουσιν αὐτῷ· οὐκ ἔχομεν ὧδε εἰ μὴ πέντε ἄρτους καὶ δύο ἰχθύας."
+pericope: "[[Matt.14.13 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 14
+book/chapter: "[[Matt.14|Matthew 14]]"
+chronological_order: 964
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOAVES|LOAVES]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G2192]]"
+- "[[G5602]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G4002]]"
+- "[[G0740]]"
+- "[[G2532]]"
+- "[[G1417]]"
+- "[[G2486]]"
+texts:
+- NKO
+---
+
 **Matthew 14:17**<big><big>[[Matt.14.13 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they say unto him, We have here but five loaves, and two fishes.
 <small><sub>**BSB:**</sub></small>
 “We have here only five loaves of bread and two fish,” they answered.
-<small><sub>**Literal:**</sub></small>
-<the> And they say to Him; Not we have here only except five loaves and two fish.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.16|<< Matthew 14:16]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.18|Matthew 14:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G3004G\|λέγουσιν]]  [[G0846\|αὐτῷ·]]  [[G3756\|οὐκ]]  [[G2192\|ἔχομεν]]  [[G5602\|ὧδε]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G4002\|πέντε]]  [[G0740\|ἄρτους]]  [[G2532\|καὶ]]  [[G1417\|δύο]]  [[G2486\|ἰχθύας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOAVES|LOAVES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.16|<< Matthew 14:16]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.18|Matthew 14:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

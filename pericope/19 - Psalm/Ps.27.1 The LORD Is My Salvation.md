@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Is My Salvation
+type: Pericope
 pericope: "[[Ps.27.1 The LORD Is My Salvation|The LORD Is My Salvation]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 27
 book/chapter: "[[Ps.27|Psalm 27]]"
-genre:
+chronological_order: 359
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 15
 verses:
 - "[[Ps.27.0]]"
 - "[[Ps.27.1]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Ps.27.14]]"
 ---
 
-[[Ps.27|Psalm 27:1 - Psalm 27:14]]
+<small>[[Ps.27|Psalm 27:1-14]]</small>
 *The LORD Is My Salvation*
 
 [[Ps.27.0|0]] \[A Psalm\] of David.

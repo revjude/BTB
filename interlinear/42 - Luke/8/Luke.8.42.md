@@ -1,10 +1,60 @@
+---
+title: Luke 8:42
+type: Verse
+kjv: "For he had one only daughter, about twelve years of age, and she lay a dying. But as he went the people thronged him."
+bsb: "because his only daughter, who was about twelve, was dying. As Jesus went with him, the crowds pressed around Him,"
+greek: "ὅτι θυγάτηρ μονογενὴς ἦν αὐτῷ ὡς ἐτῶν δώδεκα καὶ αὐτὴ ἀπέθνῃσκεν. ἐν δὲ τῷ ὑπάγειν αὐτὸν οἱ ὄχλοι συνέπνιγον αὐτόν.¶"
+pericope: "[[Luke.8.40 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JAIRUS|JAIRUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G3754H]]"
+- "[[G2364]]"
+- "[[G3439]]"
+- "[[G1510]]"
+- "[[G0846]]"
+- "[[G5613]]"
+- "[[G2094]]"
+- "[[G1427]]"
+- "[[G2532]]"
+- "[[G0599]]"
+- "[[G1722]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G5217]]"
+- "[[G3793]]"
+- "[[G4846]]"
+texts:
+- NKO
+---
+
 **Luke 8:42**<big><big>[[Luke.8.40 The Healing Touch of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For he had one only daughter, about twelve years of age, and she lay a dying. But as he went the people thronged him.
 <small><sub>**BSB:**</sub></small>
 because his only daughter, who was about twelve, was dying. As Jesus went with him, the crowds pressed around Him,
-<small><sub>**Literal:**</sub></small>
-because daughter an only was to him about years [old] twelve and she was dying. As then <the> [is] to go He the crowds were pressing around Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.41|<< Luke 8:41]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.43|Luke 8:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G2364\|θυγάτηρ]]  [[G3439\|μονογενὴς]]  [[G1510\|ἦν]]  [[G0846\|αὐτῷ]]  [[G5613\|ὡς]]  [[G2094\|ἐτῶν]]  [[G1427\|δώδεκα]]  [[G2532\|καὶ]]  [[G0846\|αὐτὴ]]  [[G0599\|ἀπέθνῃσκεν.]]  [[G1722\|ἐν]]  [[G1161\|δὲ]]  [[G3588\|τῷ]]  [[G5217\|ὑπάγειν]]  [[G0846\|αὐτὸν]]  [[G3588\|οἱ]]  [[G3793\|ὄχλοι]]  [[G4846\|συνέπνιγον]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic JAIRUS|JAIRUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.41|<< Luke 8:41]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.43|Luke 8:43 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

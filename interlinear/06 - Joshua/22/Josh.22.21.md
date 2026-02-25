@@ -1,8 +1,65 @@
+---
+title: Joshua 22:21
+type: Verse
+kjv: "Then the children of Reuben and the children of Gad and the half tribe of Manasseh answered, and said unto the heads of the thousands of Israel,"
+bsb: "Then the Reubenites, the Gadites, and the half-tribe of Manasseh answered the leaders of the clans of Israel:"
+hebrew: "וַֽיַּעֲנוּ֙ בְּנֵי־ רְאוּבֵ֣ן וּבְנֵי־ גָ֔ד וַחֲצִ֖י שֵׁ֣בֶט הַֽמְנַשֶּׁ֑ה וַֽיְדַבְּר֔וּ אֶת־ רָאשֵׁ֖י אַלְפֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Josh.22.9 The Altar of Witness|The Altar of Witness]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 22
+book/chapter: "[[Josh.22|Joshua 22]]"
+chronological_order: 252
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HASTE|HASTE]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PHINEHAS|PHINEHAS]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H7205]]"
+- "[[H9002]]"
+- "[[H1410G]]"
+- "[[H2677]]"
+- "[[H7626H]]"
+- "[[H9009]]"
+- "[[H4519G]]"
+- "[[H1696G]]"
+- "[[H0854]]"
+- "[[H7218H]]"
+- "[[H0505H]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 22:21**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the children of Reuben and the children of Gad and the half tribe of Manasseh answered, and said unto the heads of the thousands of Israel,
 <small><sub>**BSB:**</sub></small>
 Then the Reubenites, the Gadites, and the half-tribe of Manasseh answered the leaders of the clans of Israel:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H6030B\|יַּעֲנוּ֙]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H7205\|רְאוּבֵ֣ן]] [[H9002\|וּ]][[H1121G\|בְנֵי]][[H9014\|־]] [[H1410G\|גָ֔ד]] [[H9002\|וַ]][[H2677\|חֲצִ֖י]] [[H7626H\|שֵׁ֣בֶט]] [[H9009\|הַֽ]][[H4519G\|מְנַשֶּׁ֑ה]] [[H9001\|וַֽ]][[H1696G\|יְדַבְּר֔וּ]] [[H0854\|אֶת]][[H9014\|־]] [[H7218H\|רָאשֵׁ֖י]] [[H0505H\|אַלְפֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic HASTE|HASTE]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic PHINEHAS|PHINEHAS]] • [[topic PRUDENCE|PRUDENCE]] • [[topic REUBENITES|REUBENITES]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.20|<< Joshua 22:20]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.22|Joshua 22:22 >>]]</td></tr></table>
 

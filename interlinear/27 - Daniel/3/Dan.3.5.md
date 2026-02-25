@@ -1,8 +1,77 @@
+---
+title: Daniel 3:5
+type: Verse
+kjv: "That at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, dulcimer, and all kinds of musick, ye fall down and worship the golden image that Nebuchadnezzar the king hath set up:"
+bsb: "As soon as you hear the sound of the horn, flute, zither, lyre, harp, pipes, and all kinds of music, you must fall down and worship the golden statue that King Nebuchadnezzar has set up."
+aramaic: "בְּעִדָּנָ֡א דִּֽי־ תִשְׁמְע֡וּן קָ֣ל קַרְנָ֣א מַ֠שְׁרוֹקִיתָא קַתְר֨וֹס סַבְּכָ֤א פְּסַנְתֵּרִין֙ סוּמְפֹּ֣נְיָ֔ה וְכֹ֖ל זְנֵ֣י זְמָרָ֑א תִּפְּל֤וּן וְתִסְגְּדוּן֙ לְצֶ֣לֶם דַּהֲבָ֔א דִּ֥י הֲקֵ֖ים נְבוּכַדְנֶצַּ֥ר מַלְכָּֽא׃"
+pericope: "[[Dan.3.1 Nebuchadnezzar’s Golden Statue|Nebuchadnezzar’s Golden Statue]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 3
+book/chapter: "[[Dan.3|Daniel 3]]"
+chronological_order: 788
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BAGPIPE|BAGPIPE]]"
+- "[[topic COERCION|COERCION]]"
+- "[[topic DULCIMER|DULCIMER]]"
+- "[[topic FLUTE|FLUTE]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PROCLAMATION|PROCLAMATION]]"
+- "[[topic PSALTERY|PSALTERY]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SACKBUT|SACKBUT]]"
+strongs:
+- "[[H9003]]"
+- "[[H5732]]"
+- "[[H9010]]"
+- "[[H1768]]"
+- "[[H9014]]"
+- "[[H8086]]"
+- "[[H7032G]]"
+- "[[H7162]]"
+- "[[H4953]]"
+- "[[H7030]]"
+- "[[H5443]]"
+- "[[H6460]]"
+- "[[H5481]]"
+- "[[H9002]]"
+- "[[H3606]]"
+- "[[H2178]]"
+- "[[H2170]]"
+- "[[H5308]]"
+- "[[H5457]]"
+- "[[H9005]]"
+- "[[H6755]]"
+- "[[H1722]]"
+- "[[H6966I]]"
+- "[[H5020]]"
+- "[[H4430]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Daniel 3:5**<big><big>[[Dan.3.1 Nebuchadnezzar’s Golden Statue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [That] at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, dulcimer, and all kinds of musick, ye fall down and worship the golden image that Nebuchadnezzar the king hath set up:
 <small><sub>**BSB:**</sub></small>
 As soon as you hear the sound of the horn, flute, zither, lyre, harp, pipes, and all kinds of music, you must fall down and worship the golden statue that King Nebuchadnezzar has set up.
+<small><sub>**Aramaic:**</sub></small>
+[[H9003\|בְּ]][[H5732\|עִדָּנָ֡]][[H9010\|א]] [[H1768\|דִּֽי]][[H9014\|־]] [[H8086\|תִשְׁמְע֡וּן]] [[H7032G\|קָ֣ל]] [[H7162\|קַרְנָ֣]][[H9010\|א]] [[H4953\|מַ֠שְׁרוֹקִיתָ]][[H9010\|א]] [[H7030\|קַתְר֨וֹס]] [[H5443\|סַבְּכָ֤א]] [[H6460\|פְּסַנְתֵּרִין֙]] [[H5481\|סוּמְפֹּ֣נְיָ֔ה]] [[H9002\|וְ]][[H3606\|כֹ֖ל]] [[H2178\|זְנֵ֣י]] [[H2170\|זְמָרָ֑]][[H9010\|א]] [[H5308\|תִּפְּל֤וּן]] [[H9002\|וְ]][[H5457\|תִסְגְּדוּן֙]] [[H9005\|לְ]][[H6755\|צֶ֣לֶם]] [[H1722\|דַּהֲבָ֔]][[H9010\|א]] [[H1768\|דִּ֥י]] [[H6966I\|הֲקֵ֖ים]] [[H5020\|נְבוּכַדְנֶצַּ֥ר]] [[H4430\|מַלְכָּֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAGPIPE|BAGPIPE]] • [[topic COERCION|COERCION]] • [[topic DULCIMER|DULCIMER]] • [[topic FLUTE|FLUTE]] • [[topic IDOLATRY|IDOLATRY]] • [[topic MUSIC|MUSIC]] • [[topic PROCLAMATION|PROCLAMATION]] • [[topic PSALTERY|PSALTERY]] • [[topic RULERS|RULERS]] • [[topic SACKBUT|SACKBUT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.4|<< Daniel 3:4]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.6|Daniel 3:6 >>]]</td></tr></table>
 

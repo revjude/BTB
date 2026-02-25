@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Apostolic Authority
+type: Pericope
 pericope: "[[2Cor.10.1 Paul’s Apostolic Authority|Paul’s Apostolic Authority]]"
-verse_count: 18
+original_language: Greek
 testament: New
 book: 2 Corinthians
 chapter: 10
 book/chapter: "[[2Cor.10|2 Corinthians 10]]"
-genre:
+chronological_order: 1083
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - apologetic
+verse_count: 18
 verses:
 - "[[2Cor.10.1]]"
 - "[[2Cor.10.2]]"
@@ -36,7 +43,7 @@ verses:
 - "[[2Cor.10.18]]"
 ---
 
-[[2Cor.10|2 Corinthians 10:1 - 2 Corinthians 10:18]]
+<small>[[2Cor.10|2 Corinthians 10:1-18]]</small>
 *Paul’s Apostolic Authority*
 
 [[2Cor.10.1|1]] Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence \[am\] base among you, but being absent am bold toward you:

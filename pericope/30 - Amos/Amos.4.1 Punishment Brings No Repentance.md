@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Punishment Brings No Repentance
+type: Pericope
 pericope: "[[Amos.4.1 Punishment Brings No Repentance|Punishment Brings No Repentance]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Amos
 chapter: 4
 book/chapter: "[[Amos.4|Amos 4]]"
-genre:
+chronological_order: 601
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 13
 verses:
 - "[[Amos.4.1]]"
 - "[[Amos.4.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Amos.4.13]]"
 ---
 
-[[Amos.4|Amos 4:1 - Amos 4:13]]
+<small>[[Amos.4|Amos 4:1-13]]</small>
 *Punishment Brings No Repentance*
 
 [[Amos.4.1|1]] Hear this word, ye kine of Bashan, that \[are\] in the mountain of Samaria, which oppress the poor, which crush the needy, which say to their masters, Bring, and let us drink.

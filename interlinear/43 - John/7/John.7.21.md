@@ -1,10 +1,55 @@
+---
+title: John 7:21
+type: Verse
+kjv: "Jesus answered and said unto them, I have done one work, and ye all marvel."
+bsb: "Jesus answered them, “I did one miracle, and you are all amazed."
+jesus_said: "I have done one work, and ye all marvel."
+greek: "Ἀπεκρίθη ὁ Ἰησοῦς καὶ εἶπεν αὐτοῖς· ἓν ἔργον ἐποίησα, καὶ πάντες θαυμάζετε."
+pericope: "[[John.7.1 Jesus Teaches at the Feast|Jesus Teaches at the Feast]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G1520]]"
+- "[[G2041]]"
+- "[[G4160G]]"
+- "[[G3956]]"
+- "[[G2296]]"
+texts:
+- NKO
+- k
+---
+
 **John 7:21**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus answered and said unto them, I have done one work, and ye all marvel.
 <small><sub>**BSB:**</sub></small>
 Jesus answered them, “I did one miracle, and you are all amazed.
-<small><sub>**Literal:**</sub></small>
-Answered <the> Jesus and said to them; One work I did, and all you marvel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.20|<< John 7:20]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.22|John 7:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀπεκρίθη]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G1520\|ἓν]]  [[G2041\|ἔργον]]  [[G4160G\|ἐποίησα,]]  [[G2532\|καὶ]]  [[G3956\|πάντες]]  [[G2296\|θαυμάζετε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SABBATH|SABBATH]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.20|<< John 7:20]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.22|John 7:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

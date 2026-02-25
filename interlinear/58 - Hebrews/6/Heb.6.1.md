@@ -1,10 +1,68 @@
+---
+title: Hebrews 6:1
+type: Verse
+kjv: "Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,"
+bsb: "Therefore let us leave the elementary teachings about Christ and go on to maturity, not laying again the foundation of repentance from dead works, and of faith in God,"
+greek: "Διὸ ἀφέντες τὸν τῆς ἀρχῆς τοῦ Χριστοῦ λόγον ἐπὶ τὴν τελειότητα φερώμεθα μὴ πάλιν θεμέλιον καταβαλλόμενοι μετανοίας ἀπὸ νεκρῶν ἔργων καὶ πίστεως ἐπὶ θεόν,"
+pericope: "[[Heb.6.1 A Call to Maturity|A Call to Maturity]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 6
+book/chapter: "[[Heb.6|Hebrews 6]]"
+chronological_order: 1145
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G1352]]"
+- "[[G0863G]]"
+- "[[G3588]]"
+- "[[G0746]]"
+- "[[G5547]]"
+- "[[G3056]]"
+- "[[G1909]]"
+- "[[G5047]]"
+- "[[G5342]]"
+- "[[G3361]]"
+- "[[G3825]]"
+- "[[G2310]]"
+- "[[G2598]]"
+- "[[G3341]]"
+- "[[G0575]]"
+- "[[G3498]]"
+- "[[G2041]]"
+- "[[G2532]]"
+- "[[G4102G]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Hebrews 6:1**<big><big>[[Heb.6.1 A Call to Maturity|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,
 <small><sub>**BSB:**</sub></small>
 Therefore let us leave the elementary teachings about Christ and go on to maturity, not laying again the foundation of repentance from dead works, and of faith in God,
-<small><sub>**Literal:**</sub></small>
-Therefore having left <the> the beginning <the> of Christ [of the] teaching to <the> maturity we may go on not again a foundation laying of repentance from dead works and faith in God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.5.14|<< Hebrews 5:14]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.2|Hebrews 6:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1352\|Διὸ]]  [[G0863G\|ἀφέντες]]  [[G3588\|τὸν]]  [[G3588\|τῆς]]  [[G0746\|ἀρχῆς]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ]]  [[G3056\|λόγον]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G5047\|τελειότητα]]  [[G5342\|φερώμεθα]]  [[G3361\|μὴ]]  [[G3825\|πάλιν]]  [[G2310\|θεμέλιον]]  [[G2598\|καταβαλλόμενοι]]  [[G3341\|μετανοίας]]  [[G0575\|ἀπὸ]]  [[G3498\|νεκρῶν]]  [[G2041\|ἔργων]]  [[G2532\|καὶ]]  [[G4102G\|πίστεως]]  [[G1909\|ἐπὶ]]  [[G2316\|θεόν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FAITH|FAITH]] • [[topic GOSPEL|GOSPEL]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic HOUSE|HOUSE]] • [[topic PERFECTION|PERFECTION]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic REPENTANCE|REPENTANCE]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.5.14|<< Hebrews 5:14]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.2|Hebrews 6:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

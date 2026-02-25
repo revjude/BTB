@@ -1,10 +1,62 @@
+---
+title: Revelation 1:6
+type: Verse
+kjv: "And hath made us kings and priests unto God and his Father; to him be glory and dominion for ever and ever. Amen."
+bsb: "who has made us to be a kingdom, priests to His God and Father—to Him be the glory and power forever and ever! Amen."
+greek: "καὶ ἐποίησεν ἡμᾶς βασιλείαν, καὶ ἱερεῖς τῷ θεῷ καὶ πατρὶ αὐτοῦ, αὐτῷ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων, ἀμήν.¶"
+pericope: "[[Rev.1.4 John Greets the Seven Churches|John Greets the Seven Churches]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 1
+book/chapter: "[[Rev.1|Revelation 1]]"
+chronological_order: 1168
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G4160G]]"
+- "[[G3165]]"
+- "[[G0932]]"
+- "[[G2409]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3962]]"
+- "[[G0846]]"
+- "[[G1391]]"
+- "[[G2904]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+- "[[G0281]]"
+texts:
+- NKO
+- N(K)O
+- K
+---
+
 **Revelation 1:6**<big><big>[[Rev.1.4 John Greets the Seven Churches|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And hath made us kings and priests unto God and his Father; to him [be] glory and dominion for ever and ever. Amen.
 <small><sub>**BSB:**</sub></small>
 who has made us to be a kingdom, priests to His God and Father—to Him be the glory and power forever and ever! Amen.
-<small><sub>**Literal:**</sub></small>
-and He has made us a kingdom, and priests to the God and Father of Him — to Him [be] the glory and the dominion to the ages of the ages, Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.5|<< Revelation 1:5]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.7|Revelation 1:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4160G\|ἐποίησεν]]  [[G3165\|ἡμᾶς]]  [[G0932\|βασιλείαν,]]  [[G2532\|καὶ]]  [[G2409\|ἱερεῖς]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G2532\|καὶ]]  [[G3962\|πατρὶ]]  [[G0846\|αὐτοῦ,]]  [[G0846\|αὐτῷ]]  [[G3588\|ἡ]]  [[G1391\|δόξα]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G2904\|κράτος]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G0165H\|αἰῶνας]]  [[G3588\|τῶν]]  [[G0165H\|αἰώνων,]]  [[G0281\|ἀμήν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAISE|PRAISE]] • [[topic PRIEST|PRIEST]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.5|<< Revelation 1:5]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.7|Revelation 1:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 1:6** is...
 > $\quad$ possibly alluding to: [[LXX.Exod.19.6|Exod 19:6]]

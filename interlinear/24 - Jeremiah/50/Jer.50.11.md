@@ -1,8 +1,53 @@
+---
+title: Jeremiah 50:11
+type: Verse
+kjv: "Because ye were glad, because ye rejoiced, O ye destroyers of mine heritage, because ye are grown fat as the heifer at grass, and bellow as bulls;"
+bsb: "“Because you rejoice, because you sing in triumph—you who plunder My inheritance—because you frolic like a heifer treading grain and neigh like stallions,"
+hebrew: "כִּ֤י תִשְׂמְחוּ֙ כִּ֣י תַֽעֲלְז֔וּ שֹׁסֵ֖י נַחֲלָתִ֑י כִּ֤י תָפ֙וּשׁוּ֙ כְּעֶגְלָ֣ה דָשָׁ֔ה וְתִצְהֲל֖וּ כָּאֲבִּרִֽים׃"
+pericope: "[[Jer.50.11 Babylon’s Fall Is Certain|Babylon’s Fall Is Certain]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H3588A]]"
+- "[[H8055]]"
+- "[[H5937]]"
+- "[[H8154]]"
+- "[[H5159]]"
+- "[[H9020]]"
+- "[[H6335A]]"
+- "[[H9004]]"
+- "[[H5697A]]"
+- "[[H1758]]"
+- "[[H9002]]"
+- "[[H6670A]]"
+- "[[H0047H]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 50:11**<big><big>[[Jer.50.11 Babylon’s Fall Is Certain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because ye were glad, because ye rejoiced, O ye destroyers of mine heritage, because ye are grown fat as the heifer at grass, and bellow as bulls;
 <small><sub>**BSB:**</sub></small>
 “Because you rejoice, because you sing in triumph—you who plunder My inheritance—because you frolic like a heifer treading grain and neigh like stallions,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H8055\|תִשְׂמְחוּ֙]] [[H3588A\|כִּ֣י]] [[H5937\|תַֽעֲלְז֔וּ]] [[H8154\|שֹׁסֵ֖י]] [[H5159\|נַחֲלָתִ֑]][[H9020\|י]] [[H3588A\|כִּ֤י]] [[H6335A\|תָפ֙וּשׁוּ֙]] [[H9004\|כְּ]][[H5697A\|עֶגְלָ֣ה]] [[H1758\|דָשָׁ֔ה]] [[H9002\|וְ]][[H6670A\|תִצְהֲל֖וּ]] [[H9004\|כָּ]][[H0047H\|אֲבִּרִֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.10|<< Jeremiah 50:10]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.12|Jeremiah 50:12 >>]]</td></tr></table>
 
@@ -28,7 +73,7 @@ Because ye were glad, because ye rejoiced, O ye destroyers of mine heritage, bec
 [^4]: L spelled: **<span class="ashebrew"><big>תַֽעַלְז֔יּ</big></span>**
 [^5]: you are skipping about  | **<big>[[H6335A|תָפוּשִׁי]]</big> ** | ta.fu.shi<small><sup>[[HVqi2fs]]</sup></small> | K
 [^6]: L spelled: **<span class="ashebrew"><big>תָפ֙וּשׁיּ֙</big></span>**
-[^7]: so you may neigh  | **<big>[[H6670A|תִצְהֲלִי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> titz.ha.li<small><sup>[[HVqu2fs]]</sup></small> | K
-[^8]: so you may neigh  | **<big>[[H6670A|תִצְהֲלִי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> titz.ha.li<small><sup>[[HVqu2fs]]</sup></small> | K
+[^7]: so you may neigh  | **<big>[[H9002|וְ]]</big><big>[[H6670A|תִצְהֲלִי]]</big> ** | ve.<small><sup>[[HC]]</sup></small> titz.ha.li<small><sup>[[HVqu2fs]]</sup></small> | K
+[^8]: so you may neigh  | **<big>[[H9002|וְ]]</big><big>[[H6670A|תִצְהֲלִי]]</big> ** | ve.<small><sup>[[HC]]</sup></small> titz.ha.li<small><sup>[[HVqu2fs]]</sup></small> | K
 [^9]: L spelled: **<span class="ashebrew"><big>וְתִצְהֲל֖יּ</big></span>**
 

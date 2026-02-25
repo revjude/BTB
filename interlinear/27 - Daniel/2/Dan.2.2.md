@@ -1,8 +1,62 @@
+---
+title: Daniel 2:2
+type: Verse
+kjv: "Then the king commanded to call the magicians, and the astrologers, and the sorcerers, and the Chaldeans, for to shew the king his dreams. So they came and stood before the king."
+bsb: "So the king gave orders to summon the magicians, enchanters, sorcerers, and astrologers to explain his dreams. When they came and stood before the king,"
+hebrew: "וַיֹּ֣אמֶר הַ֠מֶּלֶךְ לִקְרֹ֨א לַֽחַרְטֻמִּ֜ים וְלָֽאַשָּׁפִ֗ים וְלַֽמְכַשְּׁפִים֙ וְלַכַּשְׂדִּ֔ים לְהַגִּ֥יד לַמֶּ֖לֶךְ חֲלֹמֹתָ֑יו וַיָּבֹ֕אוּ וַיַּֽעַמְד֖וּ לִפְנֵ֥י הַמֶּֽלֶךְ׃"
+pericope: "[[Dan.2.1 Nebuchadnezzar’s Troubling Dream|Nebuchadnezzar’s Troubling Dream]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic CHALDEANS|CHALDEANS]]"
+- "[[topic MAGICIAN|MAGICIAN]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SORCERY|SORCERY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H7121G]]"
+- "[[H2748]]"
+- "[[H9002]]"
+- "[[H0825]]"
+- "[[H3784]]"
+- "[[H3778]]"
+- "[[H5046]]"
+- "[[H2472]]"
+- "[[H9023]]"
+- "[[H0935G]]"
+- "[[H5975G]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 2:2**<big><big>[[Dan.2.1 Nebuchadnezzar’s Troubling Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king commanded to call the magicians, and the astrologers, and the sorcerers, and the Chaldeans, for to shew the king his dreams. So they came and stood before the king.
 <small><sub>**BSB:**</sub></small>
 So the king gave orders to summon the magicians, enchanters, sorcerers, and astrologers to explain his dreams. When they came and stood before the king,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9009\|הַ֠]][[H4428G\|מֶּלֶךְ]] [[H9005\|לִ]][[H7121G\|קְרֹ֨א]] [[H9005\|לַֽ]][[H2748\|חַרְטֻמִּ֜ים]] [[H9002\|וְ]][[H9005\|לָֽ]][[H0825\|אַשָּׁפִ֗ים]] [[H9002\|וְ]][[H9005\|לַֽ]][[H3784\|מְכַשְּׁפִים֙]] [[H9002\|וְ]][[H9005\|לַ]][[H3778\|כַּשְׂדִּ֔ים]] [[H9005\|לְ]][[H5046\|הַגִּ֥יד]] [[H9005\|לַ]][[H4428G\|מֶּ֖לֶךְ]] [[H2472\|חֲלֹמֹתָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H0935G\|יָּבֹ֕אוּ]] [[H9001\|וַ]][[H5975G\|יַּֽעַמְד֖וּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHALDEANS|CHALDEANS]] • [[topic MAGICIAN|MAGICIAN]] • [[topic RULERS|RULERS]] • [[topic SORCERY|SORCERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.1|<< Daniel 2:1]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.3|Daniel 2:3 >>]]</td></tr></table>
 

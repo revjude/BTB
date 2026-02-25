@@ -1,8 +1,68 @@
+---
+title: 1 Kings 8:54
+type: Verse
+kjv: "And it was so, that when Solomon had made an end of praying all this prayer and supplication unto the LORD, he arose from before the altar of the LORD, from kneeling on his knees with his hands spread up to heaven."
+bsb: "Now when Solomon had finished praying this entire prayer and petition to the LORD, he got up before the altar of the LORD, where he had been kneeling with his hands spread out toward heaven."
+hebrew: "וַיְהִ֣י׀ כְּכַלּ֣וֹת שְׁלֹמֹ֗ה לְהִתְפַּלֵּל֙ אֶל־ יְהוָ֔ה אֵ֛ת כָּל־ הַתְּפִלָּ֥ה וְהַתְּחִנָּ֖ה הַזֹּ֑את קָ֞ם מִלִּפְנֵ֨י מִזְבַּ֤ח יְהוָה֙ מִכְּרֹ֣עַ עַל־ בִּרְכָּ֔יו וְכַפָּ֖יו פְּרֻשׂ֥וֹת הַשָּׁמָֽיִם׃"
+pericope: "[[1Kgs.8.54 Solomon’s Benediction|Solomon’s Benediction]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9004]]"
+- "[[H3615G]]"
+- "[[H8010]]"
+- "[[H9005]]"
+- "[[H6419]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H8605]]"
+- "[[H9002]]"
+- "[[H8467]]"
+- "[[H2063]]"
+- "[[H6965B]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H4196]]"
+- "[[H3766]]"
+- "[[H5921A]]"
+- "[[H1290]]"
+- "[[H9023]]"
+- "[[H3709G]]"
+- "[[H6566]]"
+- "[[H8064]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:54**<big><big>[[1Kgs.8.54 Solomon’s Benediction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was [so], that when Solomon had made an end of praying all this prayer and supplication unto the LORD, he arose from before the altar of the LORD, from kneeling on his knees with his hands spread up to heaven.
 <small><sub>**BSB:**</sub></small>
 Now when Solomon had finished praying this entire prayer and petition to the LORD, he got up before the altar of the LORD, where he had been kneeling with his hands spread out toward heaven.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]][[H9015\|׀]] [[H9004\|כְּ]][[H3615G\|כַלּ֣וֹת]] [[H8010\|שְׁלֹמֹ֗ה]] [[H9005\|לְ]][[H6419\|הִתְפַּלֵּל֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H0853\|אֵ֛ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H8605\|תְּפִלָּ֥ה]] [[H9002\|וְ]][[H9009\|הַ]][[H8467\|תְּחִנָּ֖ה]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H6965B\|קָ֞ם]] [[H9006\|מִ]][[H9005\|לִּ]][[H6440G\|פְנֵ֨י]] [[H4196\|מִזְבַּ֤ח]] [[H3068G\|יְהוָה֙]] [[H9006\|מִ]][[H3766\|כְּרֹ֣עַ]] [[H5921A\|עַל]][[H9014\|־]] [[H1290\|בִּרְכָּ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H3709G\|כַפָּ֖י]][[H9023\|ו]] [[H6566\|פְּרֻשׂ֥וֹת]] [[H9009\|הַ]][[H8064\|שָּׁמָֽיִם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.53|<< 1 Kings 8:53]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.55|1 Kings 8:55 >>]]</td></tr></table>
 

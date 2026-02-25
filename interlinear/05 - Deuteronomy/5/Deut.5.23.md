@@ -1,8 +1,75 @@
+---
+title: Deuteronomy 5:23
+type: Verse
+kjv: "And it came to pass, when ye heard the voice out of the midst of the darkness, (for the mountain did burn with fire,) that ye came near unto me, even all the heads of your tribes, and your elders;"
+bsb: "And when you heard the voice out of the darkness while the mountain was blazing with fire, all the heads of your tribes and your elders approached me,"
+hebrew: "וַיְהִ֗י כְּשָׁמְעֲכֶ֤ם אֶת־ הַקּוֹל֙ מִתּ֣וֹךְ הַחֹ֔שֶׁךְ וְהָהָ֖ר בֹּעֵ֣ר בָּאֵ֑שׁ וַתִּקְרְב֣וּן אֵלַ֔י כָּל־ רָאשֵׁ֥י שִׁבְטֵיכֶ֖ם וְזִקְנֵיכֶֽם׃"
+pericope: "[[Deut.5.22 Moses Intercedes for the People|Moses Intercedes for the People]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 5
+book/chapter: "[[Deut.5|Deuteronomy 5]]"
+chronological_order: 201
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic VOLCANOES|VOLCANOES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H9046]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6963A]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H2822]]"
+- "[[H9002]]"
+- "[[H2022G]]"
+- "[[H1197A]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H7126G]]"
+- "[[H9013]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H3605]]"
+- "[[H7218H]]"
+- "[[H7626H]]"
+- "[[H9026]]"
+- "[[H2205G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 5:23**<big><big>[[Deut.5.22 Moses Intercedes for the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when ye heard the voice out of the midst of the darkness, (for the mountain did burn with fire,) that ye came near unto me, [even] all the heads of your tribes, and your elders;
 <small><sub>**BSB:**</sub></small>
 And when you heard the voice out of the darkness while the mountain was blazing with fire, all the heads of your tribes and your elders approached me,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9004\|כְּ]][[H8085G\|שָׁמְעֲ]][[H9046\|כֶ֤ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6963A\|קּוֹל֙]] [[H9006\|מִ]][[H8432\|תּ֣וֹךְ]] [[H9009\|הַ]][[H2822\|חֹ֔שֶׁךְ]] [[H9002\|וְ]][[H9009\|הָ]][[H2022G\|הָ֖ר]] [[H1197A\|בֹּעֵ֣ר]] [[H9003\|בָּ]][[H0784\|אֵ֑שׁ]] [[H9001\|וַ]][[H7126G\|תִּקְרְב֣וּ]][[H9013\|ן]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H3605\|כָּל]][[H9014\|־]] [[H7218H\|רָאשֵׁ֥י]] [[H7626H\|שִׁבְטֵי]][[H9026\|כֶ֖ם]] [[H9002\|וְ]][[H2205G\|זִקְנֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic VOLCANOES|VOLCANOES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.22|<< Deuteronomy 5:22]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.24|Deuteronomy 5:24 >>]]</td></tr></table>
 

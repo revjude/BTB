@@ -1,8 +1,51 @@
+---
+title: Ezekiel 43:1
+type: Verse
+kjv: "Afterward he brought me to the gate, even the gate that looketh toward the east:"
+bsb: "Then the man brought me back to the gate that faces east,"
+hebrew: "וַיּוֹלִכֵ֖נִי אֶל־ הַשָּׁ֑עַר שַׁ֕עַר אֲשֶׁ֥ר פֹּנֶ֖ה דֶּ֥רֶךְ הַקָּדִֽים׃"
+pericope: "[[Ezek.43.1 The Glory of the LORD Returns to the Temple|The Glory of the LORD Returns to the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 43
+book/chapter: "[[Ezek.43|Ezekiel 43]]"
+chronological_order: 834
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H1980J]]"
+- "[[H9030]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8179G]]"
+- "[[H0834A]]"
+- "[[H6437G]]"
+- "[[H1870J]]"
+- "[[H6921]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 43:1**<big><big>[[Ezek.43.1 The Glory of the LORD Returns to the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Afterward he brought me to the gate, [even] the gate that looketh toward the east:
 <small><sub>**BSB:**</sub></small>
 Then the man brought me back to the gate that faces east,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980J\|יּוֹלִכֵ֖]][[H9030\|נִי]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H8179G\|שָּׁ֑עַר]] [[H8179G\|שַׁ֕עַר]] [[H0834A\|אֲשֶׁ֥ר]] [[H6437G\|פֹּנֶ֖ה]] [[H1870J\|דֶּ֥רֶךְ]] [[H9009\|הַ]][[H6921\|קָּדִֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.20|<< Ezekiel 42:20]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.2|Ezekiel 43:2 >>]]</td></tr></table>
 

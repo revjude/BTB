@@ -1,8 +1,79 @@
+---
+title: Numbers 16:26
+type: Verse
+kjv: "And he spake unto the congregation, saying, Depart, I pray you, from the tents of these wicked men, and touch nothing of theirs, lest ye be consumed in all their sins."
+bsb: "And he warned the congregation, “Move away now from the tents of these wicked men. Do not touch anything that belongs to them, or you will be swept away because of all their sins.”"
+hebrew: "וַיְדַבֵּ֨ר אֶל־ הָעֵדָ֜ה לֵאמֹ֗ר ס֣וּרוּ נָ֡א מֵעַל֩ אָהֳלֵ֨י הָאֲנָשִׁ֤ים הָֽרְשָׁעִים֙ הָאֵ֔לֶּה וְאַֽל־ תִּגְּע֖וּ בְּכָל־ אֲשֶׁ֣ר לָהֶ֑ם פֶּן־ תִּסָּפ֖וּ בְּכָל־ חַטֹּאתָֽם׃"
+pericope: "[[Num.16.23 Moses Separates the People|Moses Separates the People]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DATHAN|DATHAN]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5712]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H5493H]]"
+- "[[H4994]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H0168G]]"
+- "[[H0582]]"
+- "[[H7563]]"
+- "[[H0428]]"
+- "[[H9002]]"
+- "[[H0408]]"
+- "[[H5060]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9038]]"
+- "[[H6435]]"
+- "[[H5595]]"
+- "[[H2403B]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 16:26**<big><big>[[Num.16.23 Moses Separates the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he spake unto the congregation, saying, Depart, I pray you, from the tents of these wicked men, and touch nothing of theirs, lest ye be consumed in all their sins.
 <small><sub>**BSB:**</sub></small>
 And he warned the congregation, “Move away now from the tents of these wicked men. Do not touch anything that belongs to them, or you will be swept away because of all their sins.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֨ר]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5712\|עֵדָ֜ה]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H5493H\|ס֣וּרוּ]] [[H4994\|נָ֡א]] [[H9006\|מֵ]][[H5921A\|עַל֩]] [[H0168G\|אָהֳלֵ֨י]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֤ים]] [[H9009\|הָֽ]][[H7563\|רְשָׁעִים֙]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H9002\|וְ]][[H0408\|אַֽל]][[H9014\|־]] [[H5060\|תִּגְּע֖וּ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H6435\|פֶּן]][[H9014\|־]] [[H5595\|תִּסָּפ֖וּ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H2403B\|חַטֹּאתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic COMPANY|COMPANY]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DATHAN|DATHAN]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic INCENSE|INCENSE]] • [[topic ISRAEL|ISRAEL]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.25|<< Numbers 16:25]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.27|Numbers 16:27 >>]]</td></tr></table>
 

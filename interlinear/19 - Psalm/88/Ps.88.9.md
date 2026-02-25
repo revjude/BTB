@@ -1,8 +1,61 @@
+---
+title: Psalm 88:9
+type: Verse
+kjv: "Mine eye mourneth by reason of affliction: LORD, I have called daily upon thee, I have stretched out my hands unto thee."
+bsb: "My eyes grow dim with grief. I call to You daily, O LORD; I spread out my hands to You."
+hebrew: "עֵינִ֥י דָאֲבָ֗ה מִנִּ֫י עֹ֥נִי קְרָאתִ֣יךָ יְהוָ֣ה בְּכָל־ י֑וֹם שִׁטַּ֖חְתִּי אֵלֶ֣יךָ כַפָּֽי׃"
+pericope: "[[Ps.88.1 I Cry Out before You|I Cry Out before You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 88
+book/chapter: "[[Ps.88|Psalm 88]]"
+chronological_order: 516
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H1669]]"
+- "[[H4480A]]"
+- "[[H6040]]"
+- "[[H7121G]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H7849]]"
+- "[[H0413]]"
+- "[[H3709G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 88:9**<big><big>[[Ps.88.1 I Cry Out before You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mine eye mourneth by reason of affliction: LORD, I have called daily upon thee, I have stretched out my hands unto thee.
 <small><sub>**BSB:**</sub></small>
 My eyes grow dim with grief. I call to You daily, O LORD; I spread out my hands to You.
+<small><sub>**Hebrew:**</sub></small>
+[[H5869A\|עֵינִ֥]][[H9020\|י]] [[H1669\|דָאֲבָ֗ה]] [[H4480A\|מִנִּ֫י]] [[H6040\|עֹ֥נִי]] [[H7121G\|קְרָאתִ֣י]][[H9031\|ךָ]] [[H3068G\|יְהוָ֣ה]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3117G\|י֑וֹם]] [[H7849\|שִׁטַּ֖חְתִּי]] [[H0413\|אֵלֶ֣י]][[H9031\|ךָ]] [[H3709G\|כַפָּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEATH|DEATH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.88.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.88.8|<< Psalms 88:8]]</td><td align="center" style="border:none;">[[Ps.88|Psalms 88]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.88.10|Psalms 88:10 >>]]</td></tr></table>
 

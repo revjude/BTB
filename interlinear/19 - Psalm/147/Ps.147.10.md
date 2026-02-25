@@ -1,8 +1,54 @@
+---
+title: Psalm 147:10
+type: Verse
+kjv: "He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man."
+bsb: "He does not delight in the strength of the horse; He takes no pleasure in the legs of a man."
+hebrew: "לֹ֤א בִגְבוּרַ֣ת הַסּ֣וּס יֶחְפָּ֑ץ לֹֽא־ בְשׁוֹקֵ֖י הָאִ֣ישׁ יִרְצֶֽה׃"
+pericope: "[[Ps.147.1 It Is Good to Sing Praises|It Is Good to Sing Praises]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 147
+book/chapter: "[[Ps.147|Psalm 147]]"
+chronological_order: 895
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H1369]]"
+- "[[H9009]]"
+- "[[H5483M]]"
+- "[[H2654A]]"
+- "[[H9014]]"
+- "[[H7785]]"
+- "[[H0376G]]"
+- "[[H7521]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 147:10**<big><big>[[Ps.147.1 It Is Good to Sing Praises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man.
 <small><sub>**BSB:**</sub></small>
 He does not delight in the strength of the horse; He takes no pleasure in the legs of a man.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֤א]] [[H9003\|בִ]][[H1369\|גְבוּרַ֣ת]] [[H9009\|הַ]][[H5483M\|סּ֣וּס]] [[H2654A\|יֶחְפָּ֑ץ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H9003\|בְ]][[H7785\|שׁוֹקֵ֖י]] [[H9009\|הָ]][[H0376G\|אִ֣ישׁ]] [[H7521\|יִרְצֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.147.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.9|<< Psalms 147:9]]</td><td align="center" style="border:none;">[[Ps.147|Psalms 147]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.147.11|Psalms 147:11 >>]]</td></tr></table>
 

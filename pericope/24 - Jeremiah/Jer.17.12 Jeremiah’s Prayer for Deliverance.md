@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jeremiah’s Prayer for Deliverance
+type: Pericope
 pericope: "[[Jer.17.12 Jeremiah’s Prayer for Deliverance|Jeremiah’s Prayer for Deliverance]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 17
 book/chapter: "[[Jer.17|Jeremiah 17]]"
-genre:
+chronological_order: 734
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 7
 verses:
 - "[[Jer.17.12]]"
 - "[[Jer.17.13]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Jer.17.18]]"
 ---
 
-[[Jer.17|Jeremiah 17:12 - Jeremiah 17:18]]
+<small>[[Jer.17|Jeremiah 17:12-18]]</small>
 *Jeremiah’s Prayer for Deliverance*
 
 [[Jer.17.12|12]] A glorious high throne from the beginning \[is\] the place of our sanctuary.

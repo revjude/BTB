@@ -1,8 +1,60 @@
+---
+title: Joshua 10:42
+type: Verse
+kjv: "And all these kings and their land did Joshua take at one time, because the LORD God of Israel fought for Israel."
+bsb: "And because the LORD, the God of Israel, fought for Israel, Joshua captured all these kings and their land in one campaign."
+hebrew: "וְאֵ֨ת כָּל־ הַמְּלָכִ֤ים הָאֵ֙לֶּה֙ וְאֶת־ אַרְצָ֔ם לָכַ֥ד יְהוֹשֻׁ֖עַ פַּ֣עַם אֶחָ֑ת כִּ֗י יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל נִלְחָ֖ם לְיִשְׂרָאֵֽל׃"
+pericope: "[[Josh.10.29 Conquest of the Southern Cities|Conquest of the Southern Cities]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 10
+book/chapter: "[[Josh.10|Joshua 10]]"
+chronological_order: 240
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic JOSHUA|JOSHUA]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0428]]"
+- "[[H0776G]]"
+- "[[H9028]]"
+- "[[H3920]]"
+- "[[H3091G]]"
+- "[[H6471]]"
+- "[[H0259]]"
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H3898A]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 10:42**<big><big>[[Josh.10.29 Conquest of the Southern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all these kings and their land did Joshua take at one time, because the LORD God of Israel fought for Israel.
 <small><sub>**BSB:**</sub></small>
 And because the LORD, the God of Israel, fought for Israel, Joshua captured all these kings and their land in one campaign.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵ֨ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מְּלָכִ֤ים]] [[H9009\|הָ]][[H0428\|אֵ֙לֶּה֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אַרְצָ֔]][[H9028\|ם]] [[H3920\|לָכַ֥ד]] [[H3091G\|יְהוֹשֻׁ֖עַ]] [[H6471\|פַּ֣עַם]] [[H0259\|אֶחָ֑ת]] [[H3588A\|כִּ֗י]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3898A\|נִלְחָ֖ם]] [[H9005\|לְ]][[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOSHUA|JOSHUA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.41|<< Joshua 10:41]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.43|Joshua 10:43 >>]]</td></tr></table>
 

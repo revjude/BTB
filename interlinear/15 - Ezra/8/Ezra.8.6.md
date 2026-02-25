@@ -1,8 +1,58 @@
+---
+title: Ezra 8:6
+type: Verse
+kjv: "Of the sons also of Adin; Ebed the son of Jonathan, and with him fifty males."
+bsb: "from the descendants of Adin, Ebed son of Jonathan, and with him 50 men;"
+hebrew: "וּמִבְּנֵ֣י עָדִ֔ין עֶ֖בֶד בֶּן־ יוֹנָתָ֑ן וְעִמּ֖וֹ חֲמִשִּׁ֥ים הַזְּכָרִֽים׃ ס"
+pericope: "[[Ezra.8.1 The Exiles Who Returned with Ezra|The Exiles Who Returned with Ezra]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 8
+book/chapter: "[[Ezra.8|Ezra 8]]"
+chronological_order: 910
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic ADIN|ADIN]]"
+- "[[topic EBED|EBED]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic JONATHAN|JONATHAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H1121G]]"
+- "[[H5720G]]"
+- "[[H5651H]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3129H]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H2572]]"
+- "[[H9009]]"
+- "[[H2145]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezra 8:6**<big><big>[[Ezra.8.1 The Exiles Who Returned with Ezra|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of the sons also of Adin; Ebed the son of Jonathan, and with him fifty males.
 <small><sub>**BSB:**</sub></small>
 from the descendants of Adin, Ebed son of Jonathan, and with him 50 men;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H1121G\|בְּנֵ֣י]] [[H5720G\|עָדִ֔ין]] [[H5651H\|עֶ֖בֶד]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3129H\|יוֹנָתָ֑ן]] [[H9002\|וְ]][[H5973A\|עִמּ֖]][[H9033\|וֹ]] [[H2572\|חֲמִשִּׁ֥ים]] [[H9009\|הַ]][[H2145\|זְּכָרִֽים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADIN|ADIN]] • [[topic EBED|EBED]] • [[topic GENEALOGY|GENEALOGY]] • [[topic JONATHAN|JONATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.5|<< Ezra 8:5]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.7|Ezra 8:7 >>]]</td></tr></table>
 
@@ -15,7 +65,7 @@ from the descendants of Adin, Ebed son of Jonathan, and with him 50 men;
 | Jonathan  |**<big>&#8207;[[H3129H\|יוֹנָתָ֑ן]]&#8207; </big>**| yo.na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and with him  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5973A\|עִמּ֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.M<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] fifty  |**<big>&#8207;[[H2572\|חֲמִשִּׁ֥ים]]&#8207; </big>**| cha.mi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the males  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2145\|זְּכָרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ze.kha.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the males  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2145\|זְּכָרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ze.kha.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.5|<< Ezra 8:5]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.7|Ezra 8:7 >>]]</td></tr></table>
 
 

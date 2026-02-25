@@ -1,8 +1,61 @@
+---
+title: 1 Samuel 23:16
+type: Verse
+kjv: "And Jonathan Saul’s son arose, and went to David into the wood, and strengthened his hand in God."
+bsb: "And Saul’s son Jonathan came to David in Horesh and strengthened his hand in God,"
+hebrew: "וַיָּ֙קָם֙ יְהוֹנָתָ֣ן בֶּן־ שָׁא֔וּל וַיֵּ֥לֶךְ אֶל־ דָּוִ֖ד חֹ֑רְשָׁה וַיְחַזֵּ֥ק אֶת־ יָד֖וֹ בֵּאלֹהִֽים׃"
+pericope: "[[1Sam.23.7 Saul Pursues David|Saul Pursues David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 23
+book/chapter: "[[1Sam.23|1 Samuel 23]]"
+chronological_order: 302
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic MALICE|MALICE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H3083H]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H7586G]]"
+- "[[H1980G]]"
+- "[[H0413]]"
+- "[[H1732]]"
+- "[[H2793G]]"
+- "[[H2388G]]"
+- "[[H0853]]"
+- "[[H3027H]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 23:16**<big><big>[[1Sam.23.7 Saul Pursues David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jonathan Saul’s son arose, and went to David into the wood, and strengthened his hand in God.
 <small><sub>**BSB:**</sub></small>
 And Saul’s son Jonathan came to David in Horesh and strengthened his hand in God,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּ֙קָם֙]] [[H3083H\|יְהוֹנָתָ֣ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7586G\|שָׁא֔וּל]] [[H9001\|וַ]][[H1980G\|יֵּ֥לֶךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֖ד]] [[H2793G\|חֹ֑רְשָׁה]] [[H9001\|וַ]][[H2388G\|יְחַזֵּ֥ק]] [[H0853\|אֶת]][[H9014\|־]] [[H3027H\|יָד֖]][[H9023\|וֹ]] [[H9003\|בֵּ]][[H0430G\|אלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMUNION|COMMUNION]] • [[topic DAVID|DAVID]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JONATHAN|JONATHAN]] • [[topic MALICE|MALICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.23.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.15|<< 1 Samuel 23:15]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.17|1 Samuel 23:17 >>]]</td></tr></table>
 

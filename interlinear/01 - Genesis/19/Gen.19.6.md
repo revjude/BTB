@@ -1,8 +1,62 @@
+---
+title: Genesis 19:6
+type: Verse
+kjv: "And Lot went out at the door unto them, and shut the door after him,"
+bsb: "Lot went outside to meet them, shutting the door behind him."
+hebrew: "וַיֵּצֵ֧א אֲלֵהֶ֛ם ל֖וֹט הַפֶּ֑תְחָה וְהַדֶּ֖לֶת סָגַ֥ר אַחֲרָֽיו׃"
+pericope: "[[Gen.19.1 Lot Welcomes the Angels|Lot Welcomes the Angels]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 19
+book/chapter: "[[Gen.19|Genesis 19]]"
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic SODOMITES|SODOMITES]]"
+- "[[topic SODOMY|SODOMY]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H3876]]"
+- "[[H9009]]"
+- "[[H6607]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H1817C]]"
+- "[[H5462]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 19:6**<big><big>[[Gen.19.1 Lot Welcomes the Angels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Lot went out at the door unto them, and shut the door after him,
 <small><sub>**BSB:**</sub></small>
 Lot went outside to meet them, shutting the door behind him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵ֧א]] [[H0413\|אֲלֵ]][[H9038\|הֶ֛ם]] [[H3876\|ל֖וֹט]] [[H9009\|הַ]][[H6607\|פֶּ֑תְחָ]][[H9011\|ה]] [[H9002\|וְ]][[H9009\|הַ]][[H1817C\|דֶּ֖לֶת]] [[H5462\|סָגַ֥ר]] [[H0310A\|אַחֲרָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic SODOM|SODOM]] • [[topic SODOMITES|SODOMITES]] • [[topic SODOMY|SODOMY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.5|<< Genesis 19:5]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.7|Genesis 19:7 >>]]</td></tr></table>
 

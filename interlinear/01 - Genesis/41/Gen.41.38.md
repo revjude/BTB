@@ -1,8 +1,72 @@
+---
+title: Genesis 41:38
+type: Verse
+kjv: "And Pharaoh said unto his servants, Can we find such a one as this is, a man in whom the Spirit of God is?"
+bsb: "So Pharaoh asked them, “Can we find anyone like this man, in whom the Spirit of God abides?”"
+hebrew: "וַיֹּ֥אמֶר פַּרְעֹ֖ה אֶל־ עֲבָדָ֑יו הֲנִמְצָ֣א כָזֶ֔ה אִ֕ישׁ אֲשֶׁ֛ר ר֥וּחַ אֱלֹהִ֖ים בּֽוֹ׃"
+pericope: "[[Gen.41.37 Joseph Given Charge of Egypt|Joseph Given Charge of Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROMOTION|PROMOTION]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H6547H]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H9008]]"
+- "[[H4672]]"
+- "[[H9004]]"
+- "[[H2088]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H7307G]]"
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:38**<big><big>[[Gen.41.37 Joseph Given Charge of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaoh said unto his servants, Can we find [such a one] as this [is], a man in whom the Spirit of God [is]?
 <small><sub>**BSB:**</sub></small>
 So Pharaoh asked them, “Can we find anyone like this man, in whom the Spirit of God abides?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H6547H\|פַּרְעֹ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H5650\|עֲבָדָ֑י]][[H9023\|ו]] [[H9008\|הֲ]][[H4672\|נִמְצָ֣א]] [[H9004\|כָ]][[H2088\|זֶ֔ה]] [[H0376G\|אִ֕ישׁ]] [[H0834A\|אֲשֶׁ֛ר]] [[H7307G\|ר֥וּחַ]] [[H0430G\|אֱלֹהִ֖ים]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic ECONOMICS|ECONOMICS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JOSEPH|JOSEPH]] • [[topic PRISONERS|PRISONERS]] • [[topic PROMOTION|PROMOTION]] • [[topic PROPHETS|PROPHETS]] • [[topic PRUDENCE|PRUDENCE]] • [[topic RULERS|RULERS]] • [[topic SERVANT|SERVANT]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.37|<< Genesis 41:37]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.39|Genesis 41:39 >>]]</td></tr></table>
 

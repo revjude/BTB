@@ -1,8 +1,64 @@
+---
+title: Malachi 4:3
+type: Verse
+kjv: "And ye shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I shall do this, saith the LORD of hosts."
+bsb: "Then you will trample the wicked, for they will be ashes under the soles of your feet on the day I am preparing,” says the LORD of Hosts."
+hebrew: "וְעַסּוֹתֶ֣ם רְשָׁעִ֔ים כִּֽי־ יִהְי֣וּ אֵ֔פֶר תַּ֖חַת כַּפּ֣וֹת רַגְלֵיכֶ֑ם בַּיּוֹם֙ אֲשֶׁ֣ר אֲנִ֣י עֹשֶׂ֔ה אָמַ֖ר יְהוָ֥ה צְבָאֽוֹת׃ פ"
+pericope: "[[Mal.4.1 The Day of the LORD|The Day of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 4
+book/chapter: "[[Mal.4|Malachi 4]]"
+chronological_order: 929
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic MALACHI|MALACHI]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H6072]]"
+- "[[H7563]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H0665]]"
+- "[[H8478G]]"
+- "[[H3709H]]"
+- "[[H7272]]"
+- "[[H9026]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H0834A]]"
+- "[[H0589]]"
+- "[[H6213A]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Malachi 4:3**<big><big>[[Mal.4.1 The Day of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I shall do [this], saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
 Then you will trample the wicked, for they will be ashes under the soles of your feet on the day I am preparing,” says the LORD of Hosts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6072\|עַסּוֹתֶ֣ם]] [[H7563\|רְשָׁעִ֔ים]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|יִהְי֣וּ]] [[H0665\|אֵ֔פֶר]] [[H8478G\|תַּ֖חַת]] [[H3709H\|כַּפּ֣וֹת]] [[H7272\|רַגְלֵי]][[H9026\|כֶ֑ם]] [[H9003\|בַּ]][[H3117G\|יּוֹם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0589\|אֲנִ֣י]] [[H6213A\|עֹשֶׂ֔ה]] [[H0559\|אָמַ֖ר]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָאֽוֹת]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MALACHI|MALACHI]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.4.2|<< Malachi 4:2]]</td><td align="center" style="border:none;">[[Mal.4|Malachi 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.4.4|Malachi 4:4 >>]]</td></tr></table>
 
@@ -22,7 +78,7 @@ Then you will trample the wicked, for they will be ashes under the soles of your
 | [will be] acting  |**<big>&#8207;[[H6213A\|עֹשֶׂ֔ה]]&#8207; </big>**| 'o.Seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he says  |**<big>&#8207;[[H0559\|אָמַ֖ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of hosts  |**<big>&#8207;[[H6635B\|צְבָאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of hosts  |**<big>&#8207;[[H6635B\|צְבָאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.4.2|<< Malachi 4:2]]</td><td align="center" style="border:none;">[[Mal.4|Malachi 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.4.4|Malachi 4:4 >>]]</td></tr></table>
 
 

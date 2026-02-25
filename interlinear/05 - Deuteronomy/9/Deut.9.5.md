@@ -1,8 +1,85 @@
+---
+title: Deuteronomy 9:5
+type: Verse
+kjv: "Not for thy righteousness, or for the uprightness of thine heart, dost thou go to possess their land: but for the wickedness of these nations the LORD thy God doth drive them out from before thee, and that he may perform the word which the LORD sware unto thy fathers, Abraham, Isaac, and Jacob."
+bsb: "It is not because of your righteousness or uprightness of heart that you are going in to possess their land, but it is because of their wickedness that the LORD your God is driving out these nations before you, to keep the promise He swore to your fathers, to Abraham, Isaac, and Jacob."
+hebrew: "לֹ֣א בְצִדְקָתְךָ֗ וּבְיֹ֙שֶׁר֙ לְבָ֣בְךָ֔ אַתָּ֥ה בָ֖א לָרֶ֣שֶׁת אֶת־ אַרְצָ֑ם כִּ֞י בְּרִשְׁעַ֣ת׀ הַגּוֹיִ֣ם הָאֵ֗לֶּה יְהוָ֤ה אֱלֹהֶ֙יךָ֙ מוֹרִישָׁ֣ם מִפָּנֶ֔יךָ וּלְמַ֜עַן הָקִ֣ים אֶת־ הַדָּבָ֗ר אֲשֶׁ֨ר נִשְׁבַּ֤ע יְהוָה֙ לַאֲבֹתֶ֔יךָ לְאַבְרָהָ֥ם לְיִצְחָ֖ק וּֽלְיַעֲקֹֽב׃"
+pericope: "[[Deut.9.1 Assurance of Victory|Assurance of Victory]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 9
+book/chapter: "[[Deut.9|Deuteronomy 9]]"
+chronological_order: 205
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H6666]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3476]]"
+- "[[H3824]]"
+- "[[H0859A]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H3423H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9028]]"
+- "[[H3588A]]"
+- "[[H7564]]"
+- "[[H9015]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0428]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H4616]]"
+- "[[H6965I]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H0001G]]"
+- "[[H0085]]"
+- "[[H3327]]"
+- "[[H3290]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 9:5**<big><big>[[Deut.9.1 Assurance of Victory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Not for thy righteousness, or for the uprightness of thine heart, dost thou go to possess their land: but for the wickedness of these nations the LORD thy God doth drive them out from before thee, and that he may perform the word which the LORD sware unto thy fathers, Abraham, Isaac, and Jacob.
 <small><sub>**BSB:**</sub></small>
 It is not because of your righteousness or uprightness of heart that you are going in to possess their land, but it is because of their wickedness that the LORD your God is driving out these nations before you, to keep the promise He swore to your fathers, to Abraham, Isaac, and Jacob.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֣א]] [[H9003\|בְ]][[H6666\|צִדְקָתְ]][[H9021\|ךָ֗]] [[H9002\|וּ]][[H9003\|בְ]][[H3476\|יֹ֙שֶׁר֙]] [[H3824\|לְבָ֣בְ]][[H9021\|ךָ֔]] [[H0859A\|אַתָּ֥ה]] [[H0935G\|בָ֖א]] [[H9005\|לָ]][[H3423H\|רֶ֣שֶׁת]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אַרְצָ֑]][[H9028\|ם]] [[H3588A\|כִּ֞י]] [[H9003\|בְּ]][[H7564\|רִשְׁעַ֣ת]][[H9015\|׀]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֣ם]] [[H9009\|הָ]][[H0428\|אֵ֗לֶּה]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֶ֙י]][[H9021\|ךָ֙]] [[H3423H\|מוֹרִישָׁ֣]][[H9038\|ם]] [[H9006\|מִ]][[H6440G\|פָּנֶ֔י]][[H9021\|ךָ]] [[H9002\|וּ]][[H4616\|לְמַ֜עַן]] [[H6965I\|הָקִ֣ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דָּבָ֗ר]] [[H0834A\|אֲשֶׁ֨ר]] [[H7650\|נִשְׁבַּ֤ע]] [[H3068G\|יְהוָה֙]] [[H9005\|לַ]][[H0001G\|אֲבֹתֶ֔י]][[H9021\|ךָ]] [[H9005\|לְ]][[H0085\|אַבְרָהָ֥ם]] [[H9005\|לְ]][[H3327\|יִצְחָ֖ק]] [[H9002\|וּֽ]][[H9005\|לְ]][[H3290\|יַעֲקֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic HUMILITY|HUMILITY]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.4|<< Deuteronomy 9:4]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.6|Deuteronomy 9:6 >>]]</td></tr></table>
 

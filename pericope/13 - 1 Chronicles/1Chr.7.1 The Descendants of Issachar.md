@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Descendants of Issachar
+type: Pericope
 pericope: "[[1Chr.7.1 The Descendants of Issachar|The Descendants of Issachar]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 7
 book/chapter: "[[1Chr.7|1 Chronicles 7]]"
-genre:
+chronological_order: 326
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 5
 verses:
 - "[[1Chr.7.1]]"
 - "[[1Chr.7.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[1Chr.7.5]]"
 ---
 
-[[1Chr.7|1 Chronicles 7:1 - 1 Chronicles 7:5]]
+<small>[[1Chr.7|1 Chronicles 7:1-5]]</small>
 *The Descendants of Issachar*
 
 [[1Chr.7.1|1]] Now the sons of Issachar \[were\], Tola, and Puah, Jashub, and Shimron, four.

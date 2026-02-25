@@ -1,8 +1,52 @@
+---
+title: Psalm 126:3
+type: Verse
+kjv: "The LORD hath done great things for us; whereof we are glad."
+bsb: "The LORD has done great things for us; we are filled with joy."
+hebrew: "הִגְדִּ֣יל יְ֭הוָה לַעֲשׂ֥וֹת עִמָּ֗נוּ הָיִ֥ינוּ שְׂמֵחִֽים׃"
+pericope: "[[Ps.126.1 Zion’s Captives Restored|Zion’s Captives Restored]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 126
+book/chapter: "[[Ps.126|Psalm 126]]"
+chronological_order: 888
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H1431]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H5973A]]"
+- "[[H9035]]"
+- "[[H1961]]"
+- "[[H8056]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 126:3**<big><big>[[Ps.126.1 Zion’s Captives Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD hath done great things for us; [whereof] we are glad.
 <small><sub>**BSB:**</sub></small>
 The LORD has done great things for us; we are filled with joy.
+<small><sub>**Hebrew:**</sub></small>
+[[H1431\|הִגְדִּ֣יל]] [[H3068G\|יְ֭הוָה]] [[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H5973A\|עִמָּ֗]][[H9035\|נוּ]] [[H1961\|הָיִ֥ינוּ]] [[H8056\|שְׂמֵחִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.126.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.126.2|<< Psalms 126:2]]</td><td align="center" style="border:none;">[[Ps.126|Psalms 126]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.126.4|Psalms 126:4 >>]]</td></tr></table>
 

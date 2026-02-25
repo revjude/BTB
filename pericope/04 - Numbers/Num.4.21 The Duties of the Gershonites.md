@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Duties of the Gershonites
+type: Pericope
 pericope: "[[Num.4.21 The Duties of the Gershonites|The Duties of the Gershonites]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 4
 book/chapter: "[[Num.4|Numbers 4]]"
-genre:
+chronological_order: 163
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 8
 verses:
 - "[[Num.4.21]]"
 - "[[Num.4.22]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Num.4.28]]"
 ---
 
-[[Num.4|Numbers 4:21 - Numbers 4:28]]
+<small>[[Num.4|Numbers 4:21-28]]</small>
 *The Duties of the Gershonites*
 
 [[Num.4.21|21]] And the LORD spake unto Moses, saying,

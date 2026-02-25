@@ -1,9 +1,72 @@
+---
+title: LXX 1 Kings 18:1
+type: Verse
+lxx: "And it came to pass after many days, and the word of the lord came to Elijah in  the third year, saying, Go, and appear to Ahab! and I will put rain upon the face of the earth."
+greek: "και εγένετο μεθ΄ ημέρας πολλάς και ρήμα κυρίου εγένετο προς Ηλίαν εν τω ενιαυτώ τω τρίτω λέγων πορεύου και όφθητι τω Αχαάβ και δώσω υετόν επί πρόσωπον της γης"
+original_language: Greek
+testament: Old
+book: 1 Kings
+chapter: 18
+book/chapter: "[[1Kgs.18|1 Kings 18]]"
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G3326]]"
+- "[[G2250]]"
+- "[[G4183]]"
+- "[[G2532]]"
+- "[[G4487]]"
+- "[[G2962]]"
+- "[[G1096]]"
+- "[[G4314]]"
+- "[[G2243]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1763]]"
+- "[[G3588]]"
+- "[[G5154]]"
+- "[[G3004]]"
+- "[[G4198]]"
+- "[[G2532]]"
+- "[[G3708]]"
+- "[[G3588]]"
+- "[[H0256]]"
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G5205]]"
+- "[[G1909]]"
+- "[[G4383]]"
+- "[[G3588]]"
+- "[[G1093]]"
+---
+
 **LXX 1 Kings 18:1** 
 
 ***Elijah Sent to Ahab***
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after many days, and \[the\] word of \[the\] <span class="smallcaps">lord</span> came to Elijah in  the third year, saying, Go, and appear to Ahab! and I will put rain upon \[the\] face of the earth. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1096\|εγένετο]] [[G3326\|μεθ΄]] [[G2250\|ημέρας]] [[G4183\|πολλάς]] [[G2532\|και]] [[G4487\|ρήμα]] [[G2962\|κυρίου]] [[G1096\|εγένετο]] [[G4314\|προς]] [[G2243\|Ηλίαν]] [[G1722\|εν]] [[G3588\|τω]] [[G1763\|ενιαυτώ]] [[G3588\|τω]] [[G5154\|τρίτω]] [[G3004\|λέγων]] [[G4198\|πορεύου]] [[G2532\|και]] [[G3708\|όφθητι]] [[G3588\|τω]] [[H0256\|Αχαάβ]] [[G2532\|και]] [[G1325\|δώσω]] [[G5205\|υετόν]] [[G1909\|επί]] [[G4383\|πρόσωπον]] [[G3588\|της]] [[G1093\|γης]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIJAH|ELIJAH]] • [[topic FAMINE|FAMINE]] • [[topic ISRAEL|ISRAEL]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Kgs.18.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.24|<< 1 Kings 17:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.2|1 Kings 18:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -42,6 +105,6 @@ And it came to pass after many days, and \[the\] word of \[the\] <span class="sm
 | \[the\] face | **<big>[[G4383\|πρόσωπον]]</big>** |
 | of the | **<big>[[G3588\|της]]</big>** |
 | earth. | **<big>[[G1093\|γης]]</big>** |
-[[1Kgs.18.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.24|<< 1 Kings 17:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.2|1 Kings 18:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.24|<< 1 Kings 17:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.2|1 Kings 18:2 >>]]</td></tr></table>
 
 

@@ -1,8 +1,58 @@
+---
+title: Deuteronomy 2:3
+type: Verse
+kjv: "Ye have compassed this mountain long enough: turn you northward."
+bsb: "“You have been wandering around this hill country long enough; turn to the north"
+hebrew: "רַב־ לָכֶ֕ם סֹ֖ב אֶת־ הָהָ֣ר הַזֶּ֑ה פְּנ֥וּ לָכֶ֖ם צָפֹֽנָה׃"
+pericope: "[[Deut.2.1 Wanderings in the Wilderness|Wanderings in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 2
+book/chapter: "[[Deut.2|Deuteronomy 2]]"
+chronological_order: 198
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic RED SEA|RED SEA]]"
+strongs:
+- "[[H7227A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H5437H]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H2022H]]"
+- "[[H2088]]"
+- "[[H6437G]]"
+- "[[H6828G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 2:3**<big><big>[[Deut.2.1 Wanderings in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye have compassed this mountain long enough: turn you northward.
 <small><sub>**BSB:**</sub></small>
 “You have been wandering around this hill country long enough; turn to the north
+<small><sub>**Hebrew:**</sub></small>
+[[H7227A\|רַב]][[H9014\|־]] [[H9005\|לָ]][[H9036\|כֶ֕ם]] [[H5437H\|סֹ֖ב]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H2022H\|הָ֣ר]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H6437G\|פְּנ֥וּ]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H6828G\|צָפֹֽנָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RED SEA|RED SEA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.2|<< Deuteronomy 2:2]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.4|Deuteronomy 2:4 >>]]</td></tr></table>
 

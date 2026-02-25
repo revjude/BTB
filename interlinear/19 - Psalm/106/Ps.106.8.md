@@ -1,8 +1,59 @@
+---
+title: Psalm 106:8
+type: Verse
+kjv: "Nevertheless he saved them for his name’s sake, that he might make his mighty power to be known."
+bsb: "Yet He saved them for the sake of His name, to make His power known."
+hebrew: "וַֽ֭יּוֹשִׁיעֵם לְמַ֣עַן שְׁמ֑וֹ לְ֝הוֹדִ֗יעַ אֶת־ גְּבוּרָתֽוֹ׃"
+pericope: "[[Ps.106.1 Give Thanks to the LORD, for He Is Good|Give Thanks to the LORD, for He Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 106
+book/chapter: "[[Ps.106|Psalm 106]]"
+chronological_order: 530
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic POWER|POWER]]"
+- "[[topic RED SEA|RED SEA]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H3467]]"
+- "[[H9038]]"
+- "[[H4616]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1369]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 106:8**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless he saved them for his name’s sake, that he might make his mighty power to be known.
 <small><sub>**BSB:**</sub></small>
 Yet He saved them for the sake of His name, to make His power known.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ֭]][[H3467\|יּוֹשִׁיעֵ]][[H9038\|ם]] [[H4616\|לְמַ֣עַן]] [[H8034\|שְׁמ֑]][[H9023\|וֹ]] [[H9005\|לְ֝]][[H3045\|הוֹדִ֗יעַ]] [[H0853\|אֶת]][[H9014\|־]] [[H1369\|גְּבוּרָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MOTIVE|MOTIVE]] • [[topic POWER|POWER]] • [[topic RED SEA|RED SEA]] • [[topic SALVATION|SALVATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.7|<< Psalms 106:7]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.9|Psalms 106:9 >>]]</td></tr></table>
 

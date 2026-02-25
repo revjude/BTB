@@ -1,8 +1,68 @@
+---
+title: Isaiah 52:7
+type: Verse
+kjv: "How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!"
+bsb: "How beautiful on the mountains are the feet of those who bring good news, who proclaim peace, who bring good tidings, who proclaim salvation, who say to Zion, “Your God reigns!”"
+hebrew: "מַה־ נָּאו֨וּ עַל־ הֶהָרִ֜ים רַגְלֵ֣י מְבַשֵּׂ֗ר מַשְׁמִ֧יעַ שָׁל֛וֹם מְבַשֵּׂ֥ר ט֖וֹב מַשְׁמִ֣יעַ יְשׁוּעָ֑ה אֹמֵ֥ר לְצִיּ֖וֹן מָלַ֥ךְ אֱלֹהָֽיִךְ׃"
+pericope: "[[Isa.52.1 Deliverance for Jerusalem|Deliverance for Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 52
+book/chapter: "[[Isa.52|Isaiah 52]]"
+chronological_order: 691
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BEAUTY|BEAUTY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H4998]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H7272]]"
+- "[[H1319]]"
+- "[[H8085I]]"
+- "[[H7965G]]"
+- "[[H2896A]]"
+- "[[H3444]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H6726]]"
+- "[[H4427A]]"
+- "[[H0430G]]"
+- "[[H9022]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 52:7**<big><big>[[Isa.52.1 Deliverance for Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!
 <small><sub>**BSB:**</sub></small>
 How beautiful on the mountains are the feet of those who bring good news, who proclaim peace, who bring good tidings, who proclaim salvation, who say to Zion, “Your God reigns!”
+<small><sub>**Hebrew:**</sub></small>
+[[H4100\|מַה]][[H9014\|־]] [[H4998\|נָּאו֨וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הֶ]][[H2022G\|הָרִ֜ים]] [[H7272\|רַגְלֵ֣י]] [[H1319\|מְבַשֵּׂ֗ר]] [[H8085I\|מַשְׁמִ֧יעַ]] [[H7965G\|שָׁל֛וֹם]] [[H1319\|מְבַשֵּׂ֥ר]] [[H2896A\|ט֖וֹב]] [[H8085I\|מַשְׁמִ֣יעַ]] [[H3444\|יְשׁוּעָ֑ה]] [[H0559\|אֹמֵ֥ר]] [[H9005\|לְ]][[H6726\|צִיּ֖וֹן]] [[H4427A\|מָלַ֥ךְ]] [[H0430G\|אֱלֹהָֽיִ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEAUTY|BEAUTY]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAISE|PRAISE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.52.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.52.6|<< Isaiah 52:6]]</td><td align="center" style="border:none;">[[Isa.52|Isaiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52.8|Isaiah 52:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

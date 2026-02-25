@@ -1,8 +1,75 @@
+---
+title: Jeremiah 11:19
+type: Verse
+kjv: "But I was like a lamb or an ox that is brought to the slaughter; and I knew not that they had devised devices against me, saying, Let us destroy the tree with the fruit thereof, and let us cut him off from the land of the living, that his name may be no more remembered."
+bsb: "For I was like a gentle lamb led to slaughter; I did not know that they had plotted against me: “Let us destroy the tree with its fruit; let us cut him off from the land of the living, that his name may be remembered no more.”"
+hebrew: "וַאֲנִ֕י כְּכֶ֥בֶשׂ אַלּ֖וּף יוּבַ֣ל לִטְב֑וֹחַ וְלֹֽא־ יָדַ֜עְתִּי כִּֽי־ עָלַ֣י׀ חָשְׁב֣וּ מַחֲשָׁב֗וֹת נַשְׁחִ֨יתָה עֵ֤ץ בְּלַחְמוֹ֙ וְנִכְרְתֶ֙נּוּ֙ מֵאֶ֣רֶץ חַיִּ֔ים וּשְׁמ֖וֹ לֹֽא־ יִזָּכֵ֥ר עֽוֹד׃"
+pericope: "[[Jer.11.18 A Plot against Jeremiah|A Plot against Jeremiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 11
+book/chapter: "[[Jer.11|Jeremiah 11]]"
+chronological_order: 728
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H9004]]"
+- "[[H3532]]"
+- "[[H0441A]]"
+- "[[H2986]]"
+- "[[H9005]]"
+- "[[H2873]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H9015]]"
+- "[[H2803I]]"
+- "[[H4284]]"
+- "[[H7843]]"
+- "[[H6086H]]"
+- "[[H9003]]"
+- "[[H3899G]]"
+- "[[H9023]]"
+- "[[H3772I]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H2416A]]"
+- "[[H8034]]"
+- "[[H2142]]"
+- "[[H5750]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 11:19**<big><big>[[Jer.11.18 A Plot against Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I [was] like a lamb [or] an ox [that] is brought to the slaughter; and I knew not that they had devised devices against me, [saying], Let us destroy the tree with the fruit thereof, and let us cut him off from the land of the living, that his name may be no more remembered.
 <small><sub>**BSB:**</sub></small>
 For I was like a gentle lamb led to slaughter; I did not know that they had plotted against me: “Let us destroy the tree with its fruit; let us cut him off from the land of the living, that his name may be remembered no more.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0589\|אֲנִ֕י]] [[H9004\|כְּ]][[H3532\|כֶ֥בֶשׂ]] [[H0441A\|אַלּ֖וּף]] [[H2986\|יוּבַ֣ל]] [[H9005\|לִ]][[H2873\|טְב֑וֹחַ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3045\|יָדַ֜עְתִּי]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5921A\|עָלַ֣]][[H9030\|י]][[H9015\|׀]] [[H2803I\|חָשְׁב֣וּ]] [[H4284\|מַחֲשָׁב֗וֹת]] [[H7843\|נַשְׁחִ֨יתָה]] [[H6086H\|עֵ֤ץ]] [[H9003\|בְּ]][[H3899G\|לַחְמ]][[H9023\|וֹ֙]] [[H9002\|וְ]][[H3772I\|נִכְרְתֶ֙]][[H9033\|נּוּ֙]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H2416A\|חַיִּ֔ים]] [[H9002\|וּ]][[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H2142\|יִזָּכֵ֥ר]] [[H5750\|עֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSPIRACY|CONSPIRACY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.11.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.18|<< Jeremiah 11:18]]</td><td align="center" style="border:none;">[[Jer.11|Jeremiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.11.20|Jeremiah 11:20 >>]]</td></tr></table>
 

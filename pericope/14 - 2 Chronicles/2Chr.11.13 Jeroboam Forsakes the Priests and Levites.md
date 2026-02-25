@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jeroboam Forsakes the Priests and Levites
+type: Pericope
 pericope: "[[2Chr.11.13 Jeroboam Forsakes the Priests and Levites|Jeroboam Forsakes the Priests and Levites]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 11
 book/chapter: "[[2Chr.11|2 Chronicles 11]]"
-genre:
+chronological_order: 557
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 5
 verses:
 - "[[2Chr.11.13]]"
 - "[[2Chr.11.14]]"
@@ -23,7 +30,7 @@ verses:
 - "[[2Chr.11.17]]"
 ---
 
-[[2Chr.11|2 Chronicles 11:13 - 2 Chronicles 11:17]]
+<small>[[2Chr.11|2 Chronicles 11:13-17]]</small>
 *Jeroboam Forsakes the Priests and Levites*
 
 [[2Chr.11.13|13]] And the priests and the Levites that \[were\] in all Israel resorted to him out of all their coasts.

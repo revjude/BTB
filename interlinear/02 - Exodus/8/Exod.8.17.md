@@ -1,8 +1,71 @@
+---
+title: Exodus 8:17
+type: Verse
+kjv: "And they did so; for Aaron stretched out his hand with his rod, and smote the dust of the earth, and it became lice in man, and in beast; all the dust of the land became lice throughout all the land of Egypt."
+bsb: "This they did, and when Aaron stretched out his hand with his staff and struck the dust of the earth, gnats came upon man and beast. All the dust of the earth turned into gnats throughout the land of Egypt."
+hebrew: "וַיַּֽעֲשׂוּ־ כֵ֗ן וַיֵּט֩ אַהֲרֹ֨ן אֶת־ יָד֤וֹ בְמַטֵּ֙הוּ֙ וַיַּךְ֙ אֶת־ עֲפַ֣ר הָאָ֔רֶץ וַתְּהִי֙ הַכִּנָּ֔ם בָּאָדָ֖ם וּבַבְּהֵמָ֑ה כָּל־ עֲפַ֥ר הָאָ֛רֶץ הָיָ֥ה כִנִּ֖ים בְּכָל־ אֶ֥רֶץ מִצְרָֽיִם׃"
+pericope: "[[Exod.8.16 The Third Plague：Gnats|The Third Plague：Gnats]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 8
+book/chapter: "[[Exod.8|Exodus 8]]"
+chronological_order: 100
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic LICE|LICE]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H5186]]"
+- "[[H0175]]"
+- "[[H0853]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H4294G]]"
+- "[[H5221]]"
+- "[[H6083]]"
+- "[[H9009]]"
+- "[[H0776H]]"
+- "[[H1961]]"
+- "[[H3654]]"
+- "[[H0120G]]"
+- "[[H9002]]"
+- "[[H0929]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 8:17**<big><big>[[Exod.8.16 The Third Plague：Gnats|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they did so; for Aaron stretched out his hand with his rod, and smote the dust of the earth, and it became lice in man, and in beast; all the dust of the land became lice throughout all the land of Egypt.
 <small><sub>**BSB:**</sub></small>
 This they did, and when Aaron stretched out his hand with his staff and struck the dust of the earth, gnats came upon man and beast. All the dust of the earth turned into gnats throughout the land of Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּֽעֲשׂוּ]][[H9014\|־]] [[H3651C\|כֵ֗ן]] [[H9001\|וַ]][[H5186\|יֵּט֩]] [[H0175\|אַהֲרֹ֨ן]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יָד֤]][[H9023\|וֹ]] [[H9003\|בְ]][[H4294G\|מַטֵּ֙]][[H9023\|הוּ֙]] [[H9001\|וַ]][[H5221\|יַּךְ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6083\|עֲפַ֣ר]] [[H9009\|הָ]][[H0776H\|אָ֔רֶץ]] [[H9001\|וַ]][[H1961\|תְּהִי֙]] [[H9009\|הַ]][[H3654\|כִּנָּ֔ם]] [[H9003\|בָּ]][[H0120G\|אָדָ֖ם]] [[H9002\|וּ]][[H9003\|בַ]][[H0929\|בְּהֵמָ֑ה]] [[H3605\|כָּל]][[H9014\|־]] [[H6083\|עֲפַ֥ר]] [[H9009\|הָ]][[H0776H\|אָ֛רֶץ]] [[H1961\|הָיָ֥ה]] [[H3654\|כִנִּ֖ים]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic LICE|LICE]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.8.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.16|<< Exodus 8:16]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8.18|Exodus 8:18 >>]]</td></tr></table>
 

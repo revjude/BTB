@@ -1,8 +1,71 @@
+---
+title: Genesis 49:30
+type: Verse
+kjv: "In the cave that is in the field of Machpelah, which is before Mamre, in the land of Canaan, which Abraham bought with the field of Ephron the Hittite for a possession of a buryingplace."
+bsb: "The cave is in the field of Machpelah near Mamre, in the land of Canaan. This is the field Abraham purchased from Ephron the Hittite as a burial site."
+hebrew: "בַּמְּעָרָ֞ה אֲשֶׁ֨ר בִּשְׂדֵ֧ה הַמַּכְפֵּלָ֛ה אֲשֶׁ֥ר עַל־ פְּנֵי־ מַמְרֵ֖א בְּאֶ֣רֶץ כְּנָ֑עַן אֲשֶׁר֩ קָנָ֨ה אַבְרָהָ֜ם אֶת־ הַשָּׂדֶ֗ה מֵאֵ֛ת עֶפְרֹ֥ן הַחִתִּ֖י לַאֲחֻזַּת־ קָֽבֶר׃"
+pericope: "[[Gen.49.29 The Death of Jacob|The Death of Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 49
+book/chapter: "[[Gen.49|Genesis 49]]"
+chronological_order: 91
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic CAVE|CAVE]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic EPHRON|EPHRON]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic MACHPELAH|MACHPELAH]]"
+strongs:
+- "[[H9003]]"
+- "[[H4631]]"
+- "[[H0834A]]"
+- "[[H7704G]]"
+- "[[H9009]]"
+- "[[H4375]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440K]]"
+- "[[H4471G]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H7069]]"
+- "[[H0085]]"
+- "[[H0853]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H6085G]]"
+- "[[H2850]]"
+- "[[H9005]]"
+- "[[H0272]]"
+- "[[H6913]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 49:30**<big><big>[[Gen.49.29 The Death of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the cave that [is] in the field of Machpelah, which [is] before Mamre, in the land of Canaan, which Abraham bought with the field of Ephron the Hittite for a possession of a buryingplace.
 <small><sub>**BSB:**</sub></small>
 The cave is in the field of Machpelah near Mamre, in the land of Canaan. This is the field Abraham purchased from Ephron the Hittite as a burial site.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H4631\|מְּעָרָ֞ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H9003\|בִּ]][[H7704G\|שְׂדֵ֧ה]] [[H9009\|הַ]][[H4375\|מַּכְפֵּלָ֛ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H5921A\|עַל]][[H9014\|־]] [[H6440K\|פְּנֵי]][[H9014\|־]] [[H4471G\|מַמְרֵ֖א]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H3667A\|כְּנָ֑עַן]] [[H0834A\|אֲשֶׁר֩]] [[H7069\|קָנָ֨ה]] [[H0085\|אַבְרָהָ֜ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֗ה]] [[H9006\|מֵ]][[H0854\|אֵ֛ת]] [[H6085G\|עֶפְרֹ֥ן]] [[H9009\|הַ]][[H2850\|חִתִּ֖י]] [[H9005\|לַ]][[H0272\|אֲחֻזַּת]][[H9014\|־]] [[H6913\|קָֽבֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURIAL|BURIAL]] • [[topic CAVE|CAVE]] • [[topic DEATH|DEATH]] • [[topic EPHRON|EPHRON]] • [[topic JACOB|JACOB]] • [[topic MACHPELAH|MACHPELAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.29|<< Genesis 49:29]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.31|Genesis 49:31 >>]]</td></tr></table>
 

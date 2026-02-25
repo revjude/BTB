@@ -1,8 +1,66 @@
+---
+title: Ezra 10:25
+type: Verse
+kjv: "Moreover of Israel: of the sons of Parosh; Ramiah, and Jeziah, and Malchiah, and Miamin, and Eleazar, and Malchijah, and Benaiah."
+bsb: "And among the other Israelites, from the descendants of Parosh: Ramiah, Izziah, Malchijah, Mijamin, Eleazar, Malchijah, and Benaiah."
+hebrew: "וּמִֽיִּשְׂרָאֵ֑ל מִבְּנֵ֣י פַרְעֹ֡שׁ רַ֠מְיָה וְיִזִּיָּ֤ה וּמַלְכִּיָּה֙ וּמִיָּמִ֣ן וְאֶלְעָזָ֔ר וּמַלְכִּיָּ֖ה וּבְנָיָֽה׃ ס"
+pericope: "[[Ezra.10.18 Those Guilty of Intermarriage|Those Guilty of Intermarriage]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 10
+book/chapter: "[[Ezra.10|Ezra 10]]"
+chronological_order: 912
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic BENAIAH|BENAIAH]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]]"
+- "[[topic JEBUSITES|JEBUSITES]]"
+- "[[topic JEZIAH|JEZIAH]]"
+- "[[topic MALCHIAH|MALCHIAH]]"
+- "[[topic MIAMIN|MIAMIN]]"
+- "[[topic PAROSH|PAROSH]]"
+- "[[topic PHAROSH|PHAROSH]]"
+- "[[topic RAMIAH|RAMIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H3478]]"
+- "[[H1121G]]"
+- "[[H6551G]]"
+- "[[H7422]]"
+- "[[H3150]]"
+- "[[H4441K]]"
+- "[[H4326H]]"
+- "[[H0499L]]"
+- "[[H4441J]]"
+- "[[H1141N]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezra 10:25**<big><big>[[Ezra.10.18 Those Guilty of Intermarriage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover of Israel: of the sons of Parosh; Ramiah, and Jeziah, and Malchiah, and Miamin, and Eleazar, and Malchijah, and Benaiah.
 <small><sub>**BSB:**</sub></small>
 And among the other Israelites, from the descendants of Parosh: Ramiah, Izziah, Malchijah, Mijamin, Eleazar, Malchijah, and Benaiah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִֽ]][[H3478\|יִּשְׂרָאֵ֑ל]] [[H9006\|מִ]][[H1121G\|בְּנֵ֣י]] [[H6551G\|פַרְעֹ֡שׁ]] [[H7422\|רַ֠מְיָה]] [[H9002\|וְ]][[H3150\|יִזִּיָּ֤ה]] [[H9002\|וּ]][[H4441K\|מַלְכִּיָּה֙]] [[H9002\|וּ]][[H4326H\|מִיָּמִ֣ן]] [[H9002\|וְ]][[H0499L\|אֶלְעָזָ֔ר]] [[H9002\|וּ]][[H4441J\|מַלְכִּיָּ֖ה]] [[H9002\|וּ]][[H1141N\|בְנָיָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic AMORITES|AMORITES]] • [[topic BENAIAH|BENAIAH]] • [[topic CHURCH|CHURCH]] • [[topic DECISION|DECISION]] • [[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]] • [[topic JEBUSITES|JEBUSITES]] • [[topic JEZIAH|JEZIAH]] • [[topic MALCHIAH|MALCHIAH]] • [[topic MIAMIN|MIAMIN]] • [[topic PAROSH|PAROSH]] • [[topic PHAROSH|PHAROSH]] • [[topic RAMIAH|RAMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.10.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.24|<< Ezra 10:24]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.26|Ezra 10:26 >>]]</td></tr></table>
 
@@ -17,7 +75,7 @@ And among the other Israelites, from the descendants of Parosh: Ramiah, Izziah, 
 | and Mijamin  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4326H\|מִיָּמִ֣ן]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Eleazar  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0499L\|אֶלְעָזָ֔ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'el.'a.Zar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Malkijah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4441J\|מַלְכִּיָּ֖ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mal.ki.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and Benaiah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1141N\|בְנָיָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.na.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Benaiah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1141N\|בְנָיָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.na.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.24|<< Ezra 10:24]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.26|Ezra 10:26 >>]]</td></tr></table>
 
 

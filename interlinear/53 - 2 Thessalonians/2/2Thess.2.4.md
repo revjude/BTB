@@ -1,10 +1,64 @@
+---
+title: 2 Thessalonians 2:4
+type: Verse
+kjv: "Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God."
+bsb: "He will oppose and exalt himself above every so-called god or object of worship. So he will seat himself in the temple of God, proclaiming himself to be God."
+greek: "ὁ ἀντικείμενος καὶ ὑπεραιρόμενος ἐπὶ πάντα λεγόμενον θεὸν ἢ σέβασμα ὥστε αὐτὸν εἰς τὸν ναὸν τοῦ θεοῦ ὡς θεὸν καθίσαι ἀποδεικνύντα ἑαυτὸν ὅτι ἐστὶν θεός.¶"
+pericope: "[[2Thess.2.1 The Man of Lawlessness|The Man of Lawlessness]]"
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 2
+book/chapter: "[[2Thess.2|2 Thessalonians 2]]"
+chronological_order: 1054
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic ANTICHRIST|ANTICHRIST]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G3588]]"
+- "[[G0480]]"
+- "[[G2532]]"
+- "[[G5229]]"
+- "[[G1909]]"
+- "[[G3956]]"
+- "[[G3004H]]"
+- "[[G2316]]"
+- "[[G2228]]"
+- "[[G4574]]"
+- "[[G5620]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G3485]]"
+- "[[G5613]]"
+- "[[G2523]]"
+- "[[G0584]]"
+- "[[G1438]]"
+- "[[G3754G]]"
+- "[[G1510]]"
+texts:
+- NKO
+- K
+---
+
 **2 Thessalonians 2:4**<big><big>[[2Thess.2.1 The Man of Lawlessness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God.
 <small><sub>**BSB:**</sub></small>
 He will oppose and exalt himself above every so-called god or object of worship. So he will seat himself in the temple of God, proclaiming himself to be God.
-<small><sub>**Literal:**</sub></small>
-who is opposing and exalting himself above every [one] named god or object of worship so as for him in the temple <the> of God as god to sit down setting forth he himself that is God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.3|<< 2 Thessalonians 2:3]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.5|2 Thessalonians 2:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G0480\|ἀντικείμενος]]  [[G2532\|καὶ]]  [[G5229\|ὑπεραιρόμενος]]  [[G1909\|ἐπὶ]]  [[G3956\|πάντα]]  [[G3004H\|λεγόμενον]]  [[G2316\|θεὸν]]  [[G2228\|ἢ]]  [[G4574\|σέβασμα]]  [[G5620\|ὥστε]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3485\|ναὸν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G5613\|ὡς]]  [[G2316\|θεὸν]]  [[G2523\|καθίσαι]]  [[G0584\|ἀποδεικνύντα]]  [[G1438\|ἑαυτὸν]]  [[G3754G\|ὅτι]]  [[G1510\|ἐστὶν]]  [[G2316\|θεός.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTICHRIST|ANTICHRIST]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic SELF-EXALTATION|SELF-EXALTATION]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.3|<< 2 Thessalonians 2:3]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.5|2 Thessalonians 2:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Thessalonians 2:4** is...
 > $\quad$ alluding to: [[LXX.Ezek.28.2|Ezek 28:2]] ☩ [[LXX.Dan.11.36|Dan 11:36]]

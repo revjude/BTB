@@ -1,8 +1,65 @@
+---
+title: Ezekiel 1:24
+type: Verse
+kjv: "And when they went, I heard the noise of their wings, like the noise of great waters, as the voice of the Almighty, the voice of speech, as the noise of an host: when they stood, they let down their wings."
+bsb: "When the creatures moved, I heard the sound of their wings like the roar of many waters, like the voice of the Almighty, like the tumult of an army. When they stood still, they lowered their wings."
+hebrew: "וָאֶשְׁמַ֣ע אֶת־ ק֣וֹל כַּנְפֵיהֶ֡ם כְּקוֹל֩ מַ֨יִם רַבִּ֤ים כְּקוֹל־ שַׁדַּי֙ בְּלֶכְתָּ֔ם ק֥וֹל הֲמֻלָּ֖ה כְּק֣וֹל מַחֲנֶ֑ה בְּעָמְדָ֖ם תְּרַפֶּ֥ינָה כַנְפֵיהֶֽן׃"
+pericope: "[[Ezek.1.22 The Divine Glory|The Divine Glory]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 1
+book/chapter: "[[Ezek.1|Ezekiel 1]]"
+chronological_order: 792
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic VOICE|VOICE]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6963H]]"
+- "[[H3671]]"
+- "[[H9028]]"
+- "[[H9004]]"
+- "[[H4325G]]"
+- "[[H7227A]]"
+- "[[H7706]]"
+- "[[H9003]]"
+- "[[H1980G]]"
+- "[[H9048]]"
+- "[[H1999]]"
+- "[[H4264]]"
+- "[[H5975G]]"
+- "[[H7503]]"
+- "[[H9029]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 1:24**<big><big>[[Ezek.1.22 The Divine Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they went, I heard the noise of their wings, like the noise of great waters, as the voice of the Almighty, the voice of speech, as the noise of an host: when they stood, they let down their wings.
 <small><sub>**BSB:**</sub></small>
 When the creatures moved, I heard the sound of their wings like the roar of many waters, like the voice of the Almighty, like the tumult of an army. When they stood still, they lowered their wings.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H8085G\|אֶשְׁמַ֣ע]] [[H0853\|אֶת]][[H9014\|־]] [[H6963H\|ק֣וֹל]] [[H3671\|כַּנְפֵי]][[H9028\|הֶ֡ם]] [[H9004\|כְּ]][[H6963H\|קוֹל֩]] [[H4325G\|מַ֨יִם]] [[H7227A\|רַבִּ֤ים]] [[H9004\|כְּ]][[H6963H\|קוֹל]][[H9014\|־]] [[H7706\|שַׁדַּי֙]] [[H9003\|בְּ]][[H1980G\|לֶכְתָּ֔]][[H9048\|ם]] [[H6963H\|ק֥וֹל]] [[H1999\|הֲמֻלָּ֖ה]] [[H9004\|כְּ]][[H6963H\|ק֣וֹל]] [[H4264\|מַחֲנֶ֑ה]] [[H9003\|בְּ]][[H5975G\|עָמְדָ֖]][[H9048\|ם]] [[H7503\|תְּרַפֶּ֥ינָה]] [[H3671\|כַנְפֵי]][[H9029\|הֶֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic VOICE|VOICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.23|<< Ezekiel 1:23]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.25|Ezekiel 1:25 >>]]</td></tr></table>
 

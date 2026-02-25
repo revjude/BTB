@@ -1,8 +1,55 @@
+---
+title: Judges 5:3
+type: Verse
+kjv: "Hear, O ye kings; give ear, O ye princes; I, even I, will sing unto the LORD; I will sing praise to the LORD God of Israel."
+bsb: "Listen, O kings! Give ear, O princes! I will sing to the LORD; I will sing praise to the LORD, the God of Israel."
+hebrew: "שִׁמְע֣וּ מְלָכִ֔ים הַאֲזִ֖ינוּ רֹֽזְנִ֑ים אָֽנֹכִ֗י לַֽיהוָה֙ אָנֹכִ֣י אָשִׁ֔ירָה אֲזַמֵּ֕ר לַֽיהוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Judg.5.1 The Song of Deborah and Barak|The Song of Deborah and Barak]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 5
+book/chapter: "[[Judg.5|Judges 5]]"
+chronological_order: 259
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H8085G]]"
+- "[[H4428G]]"
+- "[[H0238]]"
+- "[[H7336]]"
+- "[[H0595]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H7891]]"
+- "[[H2167]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 5:3**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear, O ye kings; give ear, O ye princes; I, [even] I, will sing unto the LORD; I will sing [praise] to the LORD God of Israel.
 <small><sub>**BSB:**</sub></small>
 Listen, O kings! Give ear, O princes! I will sing to the LORD; I will sing praise to the LORD, the God of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שִׁמְע֣וּ]] [[H4428G\|מְלָכִ֔ים]] [[H0238\|הַאֲזִ֖ינוּ]] [[H7336\|רֹֽזְנִ֑ים]] [[H0595\|אָֽנֹכִ֗י]] [[H9005\|לַֽ]][[H3068G\|יהוָה֙]] [[H0595\|אָנֹכִ֣י]] [[H7891\|אָשִׁ֔ירָה]] [[H2167\|אֲזַמֵּ֕ר]] [[H9005\|לַֽ]][[H3068G\|יהוָ֖ה]] [[H0430G\|אֱלֹהֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTRY|COUNTRY]] • [[topic MUSIC|MUSIC]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.2|<< Judges 5:2]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.4|Judges 5:4 >>]]</td></tr></table>
 

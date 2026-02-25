@@ -1,10 +1,48 @@
+---
+title: Mark 14:17
+type: Verse
+kjv: "And in the evening he cometh with the twelve."
+bsb: "When evening came, Jesus arrived with the Twelve."
+greek: "Καὶ ὀψίας γενομένης ἔρχεται μετὰ τῶν δώδεκα."
+pericope: "[[Mark.14.17 The Last Supper|The Last Supper]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[G2532]]"
+- "[[G3798]]"
+- "[[G1096]]"
+- "[[G2064]]"
+- "[[G3326]]"
+- "[[G3588]]"
+- "[[G1427]]"
+texts:
+- NKO
+---
+
 **Mark 14:17**<big><big>[[Mark.14.17 The Last Supper|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And in the evening he cometh with the twelve.
 <small><sub>**BSB:**</sub></small>
 When evening came, Jesus arrived with the Twelve.
-<small><sub>**Literal:**</sub></small>
-And when evening having arrived He comes with the Twelve.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.16|<< Mark 14:16]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.18|Mark 14:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3798\|ὀψίας]]  [[G1096\|γενομένης]]  [[G2064\|ἔρχεται]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G1427\|δώδεκα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PASSOVER|PASSOVER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.16|<< Mark 14:16]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.18|Mark 14:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

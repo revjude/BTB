@@ -1,10 +1,72 @@
+---
+title: Revelation 21:23
+type: Verse
+kjv: "And the city had no need of the sun, neither of the moon, to shine in it: for the glory of God did lighten it, and the Lamb is the light thereof."
+bsb: "And the city has no need of sun or moon to shine on it, because the glory of God illuminates the city, and the Lamb is its lamp."
+greek: "καὶ ἡ πόλις οὐ χρείαν ἔχει τοῦ ἡλίου οὐδὲ τῆς σελήνης ἵνα φαίνωσιν ἐν αὐτῇ· ἡ γὰρ δόξα τοῦ θεοῦ ἐφώτισεν αὐτήν, καὶ ὁ λύχνος αὐτῆς τὸ ἀρνίον."
+pericope: "[[Rev.21.9 The New Jerusalem|The New Jerusalem]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 21
+book/chapter: "[[Rev.21|Revelation 21]]"
+chronological_order: 1188
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GLORY|GLORY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAMB OF GOD|LAMB OF GOD]]"
+- "[[topic LAMP|LAMP]]"
+- "[[topic LIGHT|LIGHT]]"
+- "[[topic MOON|MOON]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SUN|SUN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G3756]]"
+- "[[G5532]]"
+- "[[G2192]]"
+- "[[G2246]]"
+- "[[G3761]]"
+- "[[G4582]]"
+- "[[G2443]]"
+- "[[G5316]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G1063]]"
+- "[[G1391]]"
+- "[[G2316]]"
+- "[[G5461]]"
+- "[[G3088]]"
+- "[[G0721]]"
+texts:
+- NKO
+- k
+---
+
 **Revelation 21:23**<big><big>[[Rev.21.9 The New Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the city had no need of the sun, neither of the moon, to shine in it: for the glory of God did lighten it, and the Lamb [is] the light thereof.
 <small><sub>**BSB:**</sub></small>
 And the city has no need of sun or moon to shine on it, because the glory of God illuminates the city, and the Lamb is its lamp.
-<small><sub>**Literal:**</sub></small>
-And the city no need has of the sun nor of the moon that they may shine in in it; the for glory <the> of God enlightened it, and the lamp of it [is] the Lamb.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.22|<< Revelation 21:22]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.24|Revelation 21:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G4172\|πόλις]]  [[G3756\|οὐ]]  [[G5532\|χρείαν]]  [[G2192\|ἔχει]]  [[G3588\|τοῦ]]  [[G2246\|ἡλίου]]  [[G3761\|οὐδὲ]]  [[G3588\|τῆς]]  [[G4582\|σελήνης]]  [[G2443\|ἵνα]]  [[G5316\|φαίνωσιν]]  [[G1722\|ἐν]]  [[G0846\|αὐτῇ·]]  [[G3588\|ἡ]]  [[G1063\|γὰρ]]  [[G1391\|δόξα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G5461\|ἐφώτισεν]]  [[G0846\|αὐτήν,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3088\|λύχνος]]  [[G0846\|αὐτῆς]]  [[G3588\|τὸ]]  [[G0721\|ἀρνίον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GLORY|GLORY]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAMB OF GOD|LAMB OF GOD]] • [[topic LAMP|LAMP]] • [[topic LIGHT|LIGHT]] • [[topic MOON|MOON]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SUN|SUN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.22|<< Revelation 21:22]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.24|Revelation 21:24 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 21:23** is...
 > $\quad$ alluding to: [[LXX.Isa.60.19|Isa 60:19]]

@@ -1,8 +1,59 @@
+---
+title: Psalm 33:18
+type: Verse
+kjv: "Behold, the eye of the LORD is upon them that fear him, upon them that hope in his mercy;"
+bsb: "Surely the eyes of the LORD are on those who fear Him, on those whose hope is in His loving devotion"
+hebrew: "הִנֵּ֤ה עֵ֣ין יְ֭הוָה אֶל־ יְרֵאָ֑יו לַֽמְיַחֲלִ֥ים לְחַסְדּֽוֹ׃"
+pericope: "[[Ps.33.1 Praise to the Creator|Praise to the Creator]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 33
+book/chapter: "[[Ps.33|Psalm 33]]"
+chronological_order: 423
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic EYE|EYE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H2009]]"
+- "[[H5869A]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3373]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H3176H]]"
+- "[[H2617A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 33:18**<big><big>[[Ps.33.1 Praise to the Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the eye of the LORD [is] upon them that fear him, upon them that hope in his mercy;
 <small><sub>**BSB:**</sub></small>
 Surely the eyes of the LORD are on those who fear Him, on those whose hope is in His loving devotion
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֤ה]] [[H5869A\|עֵ֣ין]] [[H3068G\|יְ֭הוָה]] [[H0413\|אֶל]][[H9014\|־]] [[H3373\|יְרֵאָ֑י]][[H9023\|ו]] [[H9005\|לַֽ]][[H3176H\|מְיַחֲלִ֥ים]] [[H9005\|לְ]][[H2617A\|חַסְדּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EYE|EYE]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic HOPE|HOPE]] • [[topic REVERENCE|REVERENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.33.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.33.17|<< Psalms 33:17]]</td><td align="center" style="border:none;">[[Ps.33|Psalms 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.33.19|Psalms 33:19 >>]]</td></tr></table>
 

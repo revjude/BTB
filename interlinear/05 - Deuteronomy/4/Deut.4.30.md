@@ -1,8 +1,72 @@
+---
+title: Deuteronomy 4:30
+type: Verse
+kjv: "When thou art in tribulation, and all these things are come upon thee, even in the latter days, if thou turn to the LORD thy God, and shalt be obedient unto his voice;"
+bsb: "When you are in distress and all these things have happened to you, then in later days you will return to the LORD your God and listen to His voice."
+hebrew: "בַּצַּ֣ר לְךָ֔ וּמְצָא֕וּךָ כֹּ֖ל הַדְּבָרִ֣ים הָאֵ֑לֶּה בְּאַחֲרִית֙ הַיָּמִ֔ים וְשַׁבְתָּ֙ עַד־ יְהוָ֣ה אֱלֹהֶ֔יךָ וְשָׁמַעְתָּ֖ בְּקֹלֽוֹ׃"
+pericope: "[[Deut.4.15 A Warning against Idolatry|A Warning against Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9003]]"
+- "[[H6862B]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9001]]"
+- "[[H4672]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H0428]]"
+- "[[H0319]]"
+- "[[H3117G]]"
+- "[[H7725G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H8085H]]"
+- "[[H6963A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:30**<big><big>[[Deut.4.15 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou art in tribulation, and all these things are come upon thee, [even] in the latter days, if thou turn to the LORD thy God, and shalt be obedient unto his voice;
 <small><sub>**BSB:**</sub></small>
 When you are in distress and all these things have happened to you, then in later days you will return to the LORD your God and listen to His voice.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H6862B\|צַּ֣ר]] [[H9005\|לְ]][[H9031\|ךָ֔]] [[H9001\|וּ]][[H4672\|מְצָא֕וּ]][[H9031\|ךָ]] [[H3605\|כֹּ֖ל]] [[H9009\|הַ]][[H1697I\|דְּבָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֑לֶּה]] [[H9003\|בְּ]][[H0319\|אַחֲרִית֙]] [[H9009\|הַ]][[H3117G\|יָּמִ֔ים]] [[H9001\|וְ]][[H7725G\|שַׁבְתָּ֙]] [[H5704\|עַד]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H9001\|וְ]][[H8085H\|שָׁמַעְתָּ֖]] [[H9003\|בְּ]][[H6963A\|קֹלֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PENITENT|PENITENT]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.29|<< Deuteronomy 4:29]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.31|Deuteronomy 4:31 >>]]</td></tr></table>
 

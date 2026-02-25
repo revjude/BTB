@@ -1,10 +1,69 @@
+---
+title: 2 Thessalonians 1:4
+type: Verse
+kjv: "So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that ye endure:"
+bsb: "That is why we boast among God’s churches about your perseverance and faith in the face of all the persecution and affliction you are enduring."
+greek: "ὥστε αὐτοὺς ἡμᾶς ἐν ὑμῖν ἐγκαυχᾶσθαι ἐν ταῖς ἐκκλησίαις τοῦ θεοῦ ὑπὲρ τῆς ὑπομονῆς ὑμῶν καὶ πίστεως ἐν πᾶσιν τοῖς διωγμοῖς ὑμῶν καὶ ταῖς θλίψεσιν αἷς ἀνέχεσθε,"
+pericope: "[[2Thess.1.1 Greetings to the Thessalonians|Greetings to the Thessalonians]]"
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 1
+book/chapter: "[[2Thess.1|2 Thessalonians 1]]"
+chronological_order: 1053
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SUFFERING|SUFFERING]]"
+strongs:
+- "[[G5620]]"
+- "[[G0846]]"
+- "[[G3165]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G7013]]"
+- "[[G3588]]"
+- "[[G1577]]"
+- "[[G2316]]"
+- "[[G5228]]"
+- "[[G5281]]"
+- "[[G2532]]"
+- "[[G4102G]]"
+- "[[G3956]]"
+- "[[G1375]]"
+- "[[G2347]]"
+- "[[G3739]]"
+- "[[G0430]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Thessalonians 1:4**<big><big>[[2Thess.1.1 Greetings to the Thessalonians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that ye endure:
 <small><sub>**BSB:**</sub></small>
 That is why we boast among God’s churches about your perseverance and faith in the face of all the persecution and affliction you are enduring.
-<small><sub>**Literal:**</sub></small>
-so as for ourselves us in you to greatly boast in the churches <the> of God about the perseverance of you and faith in all the persecutions of you and in the tribulations that you are bearing,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.1.3|<< 2 Thessalonians 1:3]]</td><td align="center" style="border:none;">[[2Thess.1|2 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.1.5|2 Thessalonians 1:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5620\|ὥστε]]  [[G0846\|αὐτοὺς]]  [[G3165\|ἡμᾶς]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G7013\|ἐγκαυχᾶσθαι]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G1577\|ἐκκλησίαις]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G5228\|ὑπὲρ]]  [[G3588\|τῆς]]  [[G5281\|ὑπομονῆς]]  [[G4771\|ὑμῶν]]  [[G2532\|καὶ]]  [[G4102G\|πίστεως]]  [[G1722\|ἐν]]  [[G3956\|πᾶσιν]]  [[G3588\|τοῖς]]  [[G1375\|διωγμοῖς]]  [[G4771\|ὑμῶν]]  [[G2532\|καὶ]]  [[G3588\|ταῖς]]  [[G2347\|θλίψεσιν]]  [[G3739\|αἷς]]  [[G0430\|ἀνέχεσθε,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic LOVE|LOVE]] • [[topic MEEKNESS|MEEKNESS]] • [[topic PATIENCE|PATIENCE]] • [[topic PAUL|PAUL]] • [[topic PERSECUTION|PERSECUTION]] • [[topic RESIGNATION|RESIGNATION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SUFFERING|SUFFERING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.1.3|<< 2 Thessalonians 1:3]]</td><td align="center" style="border:none;">[[2Thess.1|2 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.1.5|2 Thessalonians 1:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

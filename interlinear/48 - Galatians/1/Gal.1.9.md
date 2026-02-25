@@ -1,10 +1,55 @@
+---
+title: Galatians 1:9
+type: Verse
+kjv: "As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed."
+bsb: "As we have said before, so now I say again: If anyone is preaching to you a gospel contrary to the one you received, let him be under a curse!"
+greek: "ὡς προειρήκαμεν, καὶ ἄρτι πάλιν λέγω, εἴ τις ὑμᾶς εὐαγγελίζεται παρ᾽ ὃ παρελάβετε, ἀνάθεμα ἔστω."
+pericope: "[[Gal.1.6 No Other Gospel|No Other Gospel]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 1
+book/chapter: "[[Gal.1|Galatians 1]]"
+chronological_order: 1039
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G5613]]"
+- "[[G4280]]"
+- "[[G2532]]"
+- "[[G0737]]"
+- "[[G3825]]"
+- "[[G3004G]]"
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G4771]]"
+- "[[G2097]]"
+- "[[G3844]]"
+- "[[G3739]]"
+- "[[G3880]]"
+- "[[G0331]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **Galatians 1:9**<big><big>[[Gal.1.6 No Other Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As we said before, so say I now again, If any [man] preach any other gospel unto you than that ye have received, let him be accursed.
 <small><sub>**BSB:**</sub></small>
 As we have said before, so now I say again: If anyone is preaching to you a gospel contrary to the one you received, let him be under a curse!
-<small><sub>**Literal:**</sub></small>
-As we have said before, even now again I say, if anyone [to] you is evangelising contrary to what you received, accursed he should be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.8|<< Galatians 1:8]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.10|Galatians 1:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G4280\|προειρήκαμεν,]]  [[G2532\|καὶ]]  [[G0737\|ἄρτι]]  [[G3825\|πάλιν]]  [[G3004G\|λέγω,]]  [[G1487G\|εἴ]]  [[G5100\|τις]]  [[G4771\|ὑμᾶς]]  [[G2097\|εὐαγγελίζεται]]  [[G3844\|παρ᾽]]  [[G3739\|ὃ]]  [[G3880\|παρελάβετε,]]  [[G0331\|ἀνάθεμα]]  [[G1510\|ἔστω.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.8|<< Galatians 1:8]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.10|Galatians 1:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

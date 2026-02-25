@@ -1,10 +1,63 @@
+---
+title: John 18:15
+type: Verse
+kjv: "And Simon Peter followed Jesus, and so did another disciple: that disciple was known unto the high priest, and went in with Jesus into the palace of the high priest."
+bsb: "Now Simon Peter and another disciple were following Jesus. Since that disciple was known to the high priest, he also went with Jesus into the courtyard of the high priest."
+greek: "Ἠκολούθει δὲ τῷ Ἰησοῦ Σίμων Πέτρος καὶ ὁ ἄλλος μαθητής. ὁ δὲ μαθητὴς ἐκεῖνος ἦν γνωστὸς τῷ ἀρχιερεῖ καὶ συνεισῆλθεν τῷ Ἰησοῦ εἰς τὴν αὐλὴν τοῦ ἀρχιερέως.¶"
+pericope: "[[John.18.15 Peter’s First Denial|Peter’s First Denial]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G0190]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G4613O]]"
+- "[[G4074G]]"
+- "[[G2532]]"
+- "[[G0243]]"
+- "[[G3101]]"
+- "[[G1565]]"
+- "[[G1510]]"
+- "[[G1110]]"
+- "[[G0749]]"
+- "[[G4897]]"
+- "[[G1519]]"
+- "[[G0833]]"
+texts:
+- NKO
+- ko
+---
+
 **John 18:15**<big><big>[[John.18.15 Peter’s First Denial|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Simon Peter followed Jesus, and [so did] another disciple: that disciple was known unto the high priest, and went in with Jesus into the palace of the high priest.
 <small><sub>**BSB:**</sub></small>
 Now Simon Peter and another disciple were following Jesus. Since that disciple was known to the high priest, he also went with Jesus into the courtyard of the high priest.
-<small><sub>**Literal:**</sub></small>
-Were following now <the> after Jesus Simon Peter and the other disciple. the Now disciple that [one] was known to the high priest also he entered with <the> Jesus into the court of the high priest.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.14|<< John 18:14]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.16|John 18:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0190\|Ἠκολούθει]]  [[G1161\|δὲ]]  [[G3588\|τῷ]]  [[G2424G\|Ἰησοῦ]]  [[G4613O\|Σίμων]]  [[G4074G\|Πέτρος]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G0243\|ἄλλος]]  [[G3101\|μαθητής.]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G3101\|μαθητὴς]]  [[G1565\|ἐκεῖνος]]  [[G1510\|ἦν]]  [[G1110\|γνωστὸς]]  [[G3588\|τῷ]]  [[G0749\|ἀρχιερεῖ]]  [[G2532\|καὶ]]  [[G4897\|συνεισῆλθεν]]  [[G3588\|τῷ]]  [[G2424G\|Ἰησοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0833\|αὐλὴν]]  [[G3588\|τοῦ]]  [[G0749\|ἀρχιερέως.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.14|<< John 18:14]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.16|John 18:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

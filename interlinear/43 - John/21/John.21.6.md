@@ -1,10 +1,68 @@
+---
+title: John 21:6
+type: Verse
+kjv: "And he said unto them, Cast the net on the right side of the ship, and ye shall find. They cast therefore, and now they were not able to draw it for the multitude of fishes."
+bsb: "He told them, “Cast the net on the right side of the boat, and you will find some.” So they cast it there, and they were unable to haul it in because of the great number of fish."
+jesus_said: "Cast the net on the right side of the ship, and ye shall find."
+greek: "ὁ δὲ εἶπεν αὐτοῖς· βάλετε εἰς τὰ δεξιὰ μέρη τοῦ πλοίου τὸ δίκτυον καὶ εὑρήσετε. ἔβαλον οὖν, καὶ οὐκέτι οὐκέτι αὐτὸ ἑλκύσαι ἴσχυον ἀπὸ τοῦ πλήθους τῶν ἰχθύων."
+pericope: "[[John.21.1 Jesus Appears by the Sea of Tiberias|Jesus Appears by the Sea of Tiberias]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 21
+book/chapter: "[[John.21|John 21]]"
+chronological_order: 1018
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FISH|FISH]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NET|NET]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G0906G]]"
+- "[[G1519]]"
+- "[[G1188]]"
+- "[[G3313]]"
+- "[[G4143]]"
+- "[[G1350]]"
+- "[[G2532]]"
+- "[[G2147]]"
+- "[[G3767]]"
+- "[[G3756]]"
+- "[[G2089]]"
+- "[[G1670]]"
+- "[[G2480]]"
+- "[[G0575]]"
+- "[[G4128]]"
+- "[[G2486]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 21:6**<big><big>[[John.21.1 Jesus Appears by the Sea of Tiberias|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Cast the net on the right side of the ship, and ye shall find. They cast therefore, and now they were not able to draw it for the multitude of fishes.
 <small><sub>**BSB:**</sub></small>
 He told them, “Cast the net on the right side of the boat, and you will find some.” So they cast it there, and they were unable to haul it in because of the great number of fish.
-<small><sub>**Literal:**</sub></small>
-<the> And He said to them; do cast to the right side of the boat the net and you will find [some]. They cast therefore, and no longer it to haul in were they able from the multitude of the fish.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.5|<< John 21:5]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.7|John 21:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G0906G\|βάλετε]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G1188\|δεξιὰ]]  [[G3313\|μέρη]]  [[G3588\|τοῦ]]  [[G4143\|πλοίου]]  [[G3588\|τὸ]]  [[G1350\|δίκτυον]]  [[G2532\|καὶ]]  [[G2147\|εὑρήσετε.]]  [[G0906G\|ἔβαλον]]  [[G3767\|οὖν,]]  [[G2532\|καὶ]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G0846\|αὐτὸ]]  [[G1670\|ἑλκύσαι]]  [[G2480\|ἴσχυον]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G4128\|πλήθους]]  [[G3588\|τῶν]]  [[G2486\|ἰχθύων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FISH|FISH]] • [[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MIRACLES|MIRACLES]] • [[topic NET|NET]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.5|<< John 21:5]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.7|John 21:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

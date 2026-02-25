@@ -1,8 +1,65 @@
+---
+title: Joshua 24:1
+type: Verse
+kjv: "And Joshua gathered all the tribes of Israel to Shechem, and called for the elders of Israel, and for their heads, and for their judges, and for their officers; and they presented themselves before God."
+bsb: "Then Joshua assembled all the tribes of Israel at Shechem. He summoned the elders, leaders, judges, and officers of Israel, and they presented themselves before God."
+hebrew: "וַיֶּאֶסֹ֧ף יְהוֹשֻׁ֛עַ אֶת־ כָּל־ שִׁבְטֵ֥י יִשְׂרָאֵ֖ל שְׁכֶ֑מָה וַיִּקְרָא֩ לְזִקְנֵ֨י יִשְׂרָאֵ֜ל וּלְרָאשָׁ֗יו וּלְשֹֽׁפְטָיו֙ וּלְשֹׁ֣טְרָ֔יו וַיִּֽתְיַצְּב֖וּ לִפְנֵ֥י הָאֱלֹהִֽים׃"
+pericope: "[[Josh.24.1 Joshua Reviews Israel’s History|Joshua Reviews Israel’s History]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0622]]"
+- "[[H3091G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H7626H]]"
+- "[[H3478]]"
+- "[[H7927G]]"
+- "[[H9011]]"
+- "[[H7121G]]"
+- "[[H9005]]"
+- "[[H2205G]]"
+- "[[H9002]]"
+- "[[H7218H]]"
+- "[[H9023]]"
+- "[[H8199]]"
+- "[[H9033]]"
+- "[[H7860]]"
+- "[[H3320]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 24:1**<big><big>[[Josh.24.1 Joshua Reviews Israel’s History|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua gathered all the tribes of Israel to Shechem, and called for the elders of Israel, and for their heads, and for their judges, and for their officers; and they presented themselves before God.
 <small><sub>**BSB:**</sub></small>
 Then Joshua assembled all the tribes of Israel at Shechem. He summoned the elders, leaders, judges, and officers of Israel, and they presented themselves before God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0622\|יֶּאֶסֹ֧ף]] [[H3091G\|יְהוֹשֻׁ֛עַ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H7626H\|שִׁבְטֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H7927G\|שְׁכֶ֑מָ]][[H9011\|ה]] [[H9001\|וַ]][[H7121G\|יִּקְרָא֩]] [[H9005\|לְ]][[H2205G\|זִקְנֵ֨י]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H9002\|וּ]][[H9005\|לְ]][[H7218H\|רָאשָׁ֗י]][[H9023\|ו]] [[H9002\|וּ]][[H9005\|לְ]][[H8199\|שֹֽׁפְטָי]][[H9033\|ו֙]] [[H9002\|וּ]][[H9005\|לְ]][[H7860\|שֹׁ֣טְרָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H3320\|יִּֽתְיַצְּב֖וּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הָ]][[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic SHECHEM|SHECHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.23.16|<< Joshua 23:16]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.2|Joshua 24:2 >>]]</td></tr></table>
 

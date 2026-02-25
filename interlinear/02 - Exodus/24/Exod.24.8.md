@@ -1,8 +1,72 @@
+---
+title: Exodus 24:8
+type: Verse
+kjv: "And Moses took the blood, and sprinkled it on the people, and said, Behold the blood of the covenant, which the LORD hath made with you concerning all these words."
+bsb: "So Moses took the blood, splattered it on the people, and said, “This is the blood of the covenant that the LORD has made with you in accordance with all these words.”"
+hebrew: "וַיִּקַּ֤ח מֹשֶׁה֙ אֶת־ הַדָּ֔ם וַיִּזְרֹ֖ק עַל־ הָעָ֑ם וַיֹּ֗אמֶר הִנֵּ֤ה דַֽם־ הַבְּרִית֙ אֲשֶׁ֨ר כָּרַ֤ת יְהוָה֙ עִמָּכֶ֔ם עַ֥ל כָּל־ הַדְּבָרִ֖ים הָאֵֽלֶּה׃"
+pericope: "[[Exod.24.1 The Covenant Sealed|The Covenant Sealed]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 24
+book/chapter: "[[Exod.24|Exodus 24]]"
+chronological_order: 116
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H4872]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1818]]"
+- "[[H2236]]"
+- "[[H5921A]]"
+- "[[H5971A]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H1285]]"
+- "[[H0834A]]"
+- "[[H3772H]]"
+- "[[H3068G]]"
+- "[[H5973A]]"
+- "[[H9036]]"
+- "[[H3605]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 24:8**<big><big>[[Exod.24.1 The Covenant Sealed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses took the blood, and sprinkled [it] on the people, and said, Behold the blood of the covenant, which the LORD hath made with you concerning all these words.
 <small><sub>**BSB:**</sub></small>
 So Moses took the blood, splattered it on the people, and said, “This is the blood of the covenant that the LORD has made with you in accordance with all these words.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֤ח]] [[H4872\|מֹשֶׁה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1818\|דָּ֔ם]] [[H9001\|וַ]][[H2236\|יִּזְרֹ֖ק]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H2009\|הִנֵּ֤ה]] [[H1818\|דַֽם]][[H9014\|־]] [[H9009\|הַ]][[H1285\|בְּרִית֙]] [[H0834A\|אֲשֶׁ֨ר]] [[H3772H\|כָּרַ֤ת]] [[H3068G\|יְהוָה֙]] [[H5973A\|עִמָּ]][[H9036\|כֶ֔ם]] [[H5921A\|עַ֥ל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֖ים]] [[H9009\|הָ]][[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BLOOD|BLOOD]] • [[topic COVENANT|COVENANT]] • [[topic PURIFICATION|PURIFICATION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.24.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.24.7|<< Exodus 24:7]]</td><td align="center" style="border:none;">[[Exod.24|Exodus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.24.9|Exodus 24:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

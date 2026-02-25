@@ -1,8 +1,61 @@
+---
+title: 1 Kings 4:26
+type: Verse
+kjv: "And Solomon had forty thousand stalls of horses for his chariots, and twelve thousand horsemen."
+bsb: "Solomon had 4,000 stalls for his chariot horses and 12,000 horses."
+hebrew: "וַיְהִ֣י לִשְׁלֹמֹ֗ה אַרְבָּעִ֥ים אֶ֛לֶף אֻרְוֹ֥ת סוּסִ֖ים לְמֶרְכָּב֑וֹ וּשְׁנֵים־ עָשָׂ֥ר אֶ֖לֶף פָּרָשִֽׁים׃"
+pericope: "[[1Kgs.4.20 Solomon’s Prosperity|Solomon’s Prosperity]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 4
+book/chapter: "[[1Kgs.4|1 Kings 4]]"
+chronological_order: 444
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CAVALRY|CAVALRY]]"
+- "[[topic KING|KING]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TAX|TAX]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H8010]]"
+- "[[H0705]]"
+- "[[H0505G]]"
+- "[[H0723]]"
+- "[[H5483M]]"
+- "[[H4817]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H9014]]"
+- "[[H6240]]"
+- "[[H6571B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 4:26**<big><big>[[1Kgs.4.20 Solomon’s Prosperity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon had forty thousand stalls of horses for his chariots, and twelve thousand horsemen.
 <small><sub>**BSB:**</sub></small>
 Solomon had 4,000 stalls for his chariot horses and 12,000 horses.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H9005\|לִ]][[H8010\|שְׁלֹמֹ֗ה]] [[H0705\|אַרְבָּעִ֥ים]] [[H0505G\|אֶ֛לֶף]] [[H0723\|אֻרְוֹ֥ת]] [[H5483M\|סוּסִ֖ים]] [[H9005\|לְ]][[H4817\|מֶרְכָּב֑]][[H9023\|וֹ]] [[H9002\|וּ]][[H8147\|שְׁנֵים]][[H9014\|־]] [[H6240\|עָשָׂ֥ר]] [[H0505G\|אֶ֖לֶף]] [[H6571B\|פָּרָשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAVALRY|CAVALRY]] • [[topic KING|KING]] • [[topic SOLOMON|SOLOMON]] • [[topic TAX|TAX]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.4.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.25|<< 1 Kings 4:25]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.27|1 Kings 4:27 >>]]</td></tr></table>
 

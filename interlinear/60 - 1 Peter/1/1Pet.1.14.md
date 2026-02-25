@@ -1,10 +1,57 @@
+---
+title: 1 Peter 1:14
+type: Verse
+kjv: "As obedient children, not fashioning yourselves according to the former lusts in your ignorance:"
+bsb: "As obedient children, do not conform to the passions of your former ignorance."
+greek: "ὡς τέκνα ὑπακοῆς μὴ συσχηματιζόμενοι ταῖς πρότερον ἐν τῇ ἀγνοίᾳ ὑμῶν ἐπιθυμίαις,"
+pericope: "[[1Pet.1.13 A Call to Holiness|A Call to Holiness]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 1
+book/chapter: "[[1Pet.1|1 Peter 1]]"
+chronological_order: 1135
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G5613]]"
+- "[[G5043]]"
+- "[[G5218]]"
+- "[[G3361]]"
+- "[[G4964]]"
+- "[[G3588]]"
+- "[[G4386]]"
+- "[[G1722]]"
+- "[[G0052]]"
+- "[[G4771]]"
+- "[[G1939]]"
+texts:
+- NKO
+---
+
 **1 Peter 1:14**<big><big>[[1Pet.1.13 A Call to Holiness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As obedient children, not fashioning yourselves according to the former lusts in your ignorance:
 <small><sub>**BSB:**</sub></small>
 As obedient children, do not conform to the passions of your former ignorance.
-<small><sub>**Literal:**</sub></small>
-as children of obedience not fashioning yourselves to the former in the ignorance of you desires,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.13|<< 1 Peter 1:13]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.15|1 Peter 1:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G5043\|τέκνα]]  [[G5218\|ὑπακοῆς]]  [[G3361\|μὴ]]  [[G4964\|συσχηματιζόμενοι]]  [[G3588\|ταῖς]]  [[G4386\|πρότερον]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0052\|ἀγνοίᾳ]]  [[G4771\|ὑμῶν]]  [[G1939\|ἐπιθυμίαις,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic CHARACTER|CHARACTER]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic HOLINESS|HOLINESS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.13|<< 1 Peter 1:13]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.15|1 Peter 1:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

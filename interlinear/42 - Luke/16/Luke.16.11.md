@@ -1,10 +1,60 @@
+---
+title: Luke 16:11
+type: Verse
+kjv: "If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true riches?"
+bsb: "So if you have not been faithful with worldly wealth, who will entrust you with true riches?"
+jesus_said: "If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true riches?"
+greek: "εἰ οὖν ἐν τῷ ἀδίκῳ μαμωνᾷ πιστοὶ οὐκ ἐγένεσθε, τὸ ἀληθινὸν τίς ὑμῖν πιστεύσει;"
+pericope: "[[Luke.16.1 The Parable of the Shrewd Manager|The Parable of the Shrewd Manager]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 16
+book/chapter: "[[Luke.16|Luke 16]]"
+chronological_order: 978
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MAMMON|MAMMON]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G1487G]]"
+- "[[G3767]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0094]]"
+- "[[G3126]]"
+- "[[G4103]]"
+- "[[G3756]]"
+- "[[G1096]]"
+- "[[G0228]]"
+- "[[G5101]]"
+- "[[G4771]]"
+- "[[G4100]]"
+texts:
+- NKO
+---
+
 **Luke 16:11**<big><big>[[Luke.16.1 The Parable of the Shrewd Manager|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true [riches]?
 <small><sub>**BSB:**</sub></small>
 So if you have not been faithful with worldly wealth, who will entrust you with true riches?
-<small><sub>**Literal:**</sub></small>
-If therefore in the unrighteous wealth faithful not you have been, the true [riches] who to you will entrust?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.10|<< Luke 16:10]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.12|Luke 16:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G3767\|οὖν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0094\|ἀδίκῳ]]  [[G3126\|μαμωνᾷ]]  [[G4103\|πιστοὶ]]  [[G3756\|οὐκ]]  [[G1096\|ἐγένεσθε,]]  [[G3588\|τὸ]]  [[G0228\|ἀληθινὸν]]  [[G5101\|τίς]]  [[G4771\|ὑμῖν]]  [[G4100\|πιστεύσει;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITHFULNESS|FAITHFULNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MAMMON|MAMMON]] • [[topic PROBATION|PROBATION]] • [[topic SERVANT|SERVANT]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.10|<< Luke 16:10]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.12|Luke 16:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

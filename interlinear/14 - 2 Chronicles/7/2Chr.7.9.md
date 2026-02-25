@@ -1,8 +1,56 @@
+---
+title: 2 Chronicles 7:9
+type: Verse
+kjv: "And in the eighth day they made a solemn assembly: for they kept the dedication of the altar seven days, and the feast seven days."
+bsb: "On the eighth day they held a solemn assembly, for the dedication of the altar had lasted seven days, and the feast seven days more."
+hebrew: "וַֽיַּעֲשׂ֛וּ בַּיּ֥וֹם הַשְּׁמִינִ֖י עֲצָ֑רֶת כִּ֣י׀ חֲנֻכַּ֣ת הַמִּזְבֵּ֗חַ עָשׂוּ֙ שִׁבְעַ֣ת יָמִ֔ים וְהֶחָ֖ג שִׁבְעַ֥ת יָמִֽים׃"
+pericope: "[[2Chr.7.4 Sacrifices of Dedication|Sacrifices of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 7
+book/chapter: "[[2Chr.7|2 Chronicles 7]]"
+chronological_order: 496
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic DEDICATION|DEDICATION]]"
+- "[[topic PROTRACTED MEETINGS|PROTRACTED MEETINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H8066]]"
+- "[[H6116]]"
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H2598]]"
+- "[[H4196]]"
+- "[[H7651]]"
+- "[[H9002]]"
+- "[[H2282]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 7:9**<big><big>[[2Chr.7.4 Sacrifices of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the eighth day they made a solemn assembly: for they kept the dedication of the altar seven days, and the feast seven days.
 <small><sub>**BSB:**</sub></small>
 On the eighth day they held a solemn assembly, for the dedication of the altar had lasted seven days, and the feast seven days more.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H6213A\|יַּעֲשׂ֛וּ]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H8066\|שְּׁמִינִ֖י]] [[H6116\|עֲצָ֑רֶת]] [[H3588A\|כִּ֣י]][[H9015\|׀]] [[H2598\|חֲנֻכַּ֣ת]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֗חַ]] [[H6213A\|עָשׂוּ֙]] [[H7651\|שִׁבְעַ֣ת]] [[H3117G\|יָמִ֔ים]] [[H9002\|וְ]][[H9009\|הֶ]][[H2282\|חָ֖ג]] [[H7651\|שִׁבְעַ֥ת]] [[H3117G\|יָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEDICATION|DEDICATION]] • [[topic PROTRACTED MEETINGS|PROTRACTED MEETINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.7.8|<< 2 Chronicles 7:8]]</td><td align="center" style="border:none;">[[2Chr.7|2 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.7.10|2 Chronicles 7:10 >>]]</td></tr></table>
 

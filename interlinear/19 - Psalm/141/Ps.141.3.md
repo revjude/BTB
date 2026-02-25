@@ -1,8 +1,58 @@
+---
+title: Psalm 141:3
+type: Verse
+kjv: "Set a watch, O LORD, before my mouth; keep the door of my lips."
+bsb: "Set a guard, O LORD, over my mouth; keep watch at the door of my lips."
+hebrew: "שִׁיתָ֣ה יְ֭הוָה שָׁמְרָ֣ה לְפִ֑י נִ֝צְּרָ֗ה עַל־ דַּ֥ל שְׂפָתָֽי׃"
+pericope: "[[Ps.141.1 Come Quickly to Me|Come Quickly to Me]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 141
+book/chapter: "[[Ps.141|Psalm 141]]"
+chronological_order: 388
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[H7896G]]"
+- "[[H9012]]"
+- "[[H3068G]]"
+- "[[H8108]]"
+- "[[H9005]]"
+- "[[H6310G]]"
+- "[[H9020]]"
+- "[[H5341]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1817A]]"
+- "[[H8193G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 141:3**<big><big>[[Ps.141.1 Come Quickly to Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Set a watch, O LORD, before my mouth; keep the door of my lips.
 <small><sub>**BSB:**</sub></small>
 Set a guard, O LORD, over my mouth; keep watch at the door of my lips.
+<small><sub>**Hebrew:**</sub></small>
+[[H7896G\|שִׁיתָ֣]][[H9012\|ה]] [[H3068G\|יְ֭הוָה]] [[H8108\|שָׁמְרָ֣ה]] [[H9005\|לְ]][[H6310G\|פִ֑]][[H9020\|י]] [[H5341\|נִ֝צְּרָ֗]][[H9012\|ה]] [[H5921A\|עַל]][[H9014\|־]] [[H1817A\|דַּ֥ל]] [[H8193G\|שְׂפָתָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic SPEAKING|SPEAKING]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.141.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.141.2|<< Psalms 141:2]]</td><td align="center" style="border:none;">[[Ps.141|Psalms 141]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.141.4|Psalms 141:4 >>]]</td></tr></table>
 

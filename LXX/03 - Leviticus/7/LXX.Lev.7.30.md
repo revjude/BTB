@@ -1,6 +1,68 @@
+---
+title: LXX Leviticus 7:30
+type: Verse
+lxx: "His own hands shall bring the yield offerings to the lord; the fat  upon the breast, and the lobe, the one upon the liver, he shall bring them so as to place a gift before the lord."
+greek: "αι χείρες αυτού προσοίσουσι τα καρπώματα τω κυρίω το στέαρ το επί του στηθυνίου και τον λοβόν τον επί του ήπατος προσοίσει αυτά ώστε επιθηναι δομα έναντι κυρίου"
+original_language: Greek
+testament: Old
+book: Leviticus
+chapter: 7
+book/chapter: "[[Lev.7|Leviticus 7]]"
+chronological_order: 139
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G1473]]"
+- "[[G4374]]"
+- "[[G3588]]"
+- "[[G7806]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G9155]]"
+- "[[G3588]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G9170]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G8207]]"
+- "[[G3588]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G7634]]"
+- "[[G4374]]"
+- "[[G1473]]"
+- "[[G5620]]"
+- "[[G2007]]"
+- "[[G1390]]"
+- "[[G1725]]"
+- "[[G2962]]"
+---
+
 **LXX Leviticus 7:30** 
 <small><sub>**LXX:**</sub></small>
  His own hands shall bring the yield \[offerings\] to the <span class="smallcaps">lord</span>; the fat  upon the breast, and the lobe, the one upon the liver, he shall bring them so as to place a gift before \[the\] <span class="smallcaps">lord</span>. 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|αι]] [[G5495\|χείρες]] [[G1473\|αυτού]] [[G4374\|προσοίσουσι]] [[G3588\|τα]] [[G7806\|καρπώματα]] [[G3588\|τω]] [[G2962\|κυρίω]] [[G3588\|το]] [[G9155\|στέαρ]] [[G3588\|το]] [[G1909\|επί]] [[G3588\|του]] [[G9170\|στηθυνίου]] [[G2532\|και]] [[G3588\|τον]] [[G8207\|λοβόν]] [[G3588\|τον]] [[G1909\|επί]] [[G3588\|του]] [[G7634\|ήπατος]] [[G4374\|προσοίσει]] [[G1473\|αυτά]] [[G5620\|ώστε]] [[G2007\|επιθηναι]] [[G1390\|δομα]] [[G1725\|έναντι]] [[G2962\|κυρίου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Lev.7.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.29|<< Leviticus 7:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.31|Leviticus 7:31 >>]]</td></tr></table>
 
@@ -33,6 +95,6 @@
 | a gift | **<big>[[G1390\|δομα]]</big>** |
 | before | **<big>[[G1725\|έναντι]]</big>** |
 | \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
-[[Lev.7.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.29|<< Leviticus 7:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.31|Leviticus 7:31 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.29|<< Leviticus 7:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.31|Leviticus 7:31 >>]]</td></tr></table>
 
 

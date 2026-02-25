@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Resurrection
+type: Pericope
 pericope: "[[Matt.28.1 The Resurrection|The Resurrection]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 28
 book/chapter: "[[Matt.28|Matthew 28]]"
-genre:
+chronological_order: 1014
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 10
 verses:
 - "[[Matt.28.1]]"
 - "[[Matt.28.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Matt.28.10]]"
 ---
 
-[[Matt.28|Matthew 28:1 - Matthew 28:10]]
+<small>[[Matt.28|Matthew 28:1-10]]</small>
 *The Resurrection*
 
 [[Matt.28.1|1]] In the end of the sabbath, as it began to dawn toward the first \[day\] of the week, came Mary Magdalene and the other Mary to see the sepulchre.

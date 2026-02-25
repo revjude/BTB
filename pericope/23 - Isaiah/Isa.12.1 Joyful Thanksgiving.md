@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joyful Thanksgiving
+type: Pericope
 pericope: "[[Isa.12.1 Joyful Thanksgiving|Joyful Thanksgiving]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 12
 book/chapter: "[[Isa.12|Isaiah 12]]"
-genre:
+chronological_order: 622
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 6
 verses:
 - "[[Isa.12.1]]"
 - "[[Isa.12.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Isa.12.6]]"
 ---
 
-[[Isa.12|Isaiah 12:1 - Isaiah 12:6]]
+<small>[[Isa.12|Isaiah 12:1-6]]</small>
 *Joyful Thanksgiving*
 
 [[Isa.12.1|1]] And in that day thou shalt say, O LORD, I will praise thee: though thou wast angry with me, thine anger is turned away, and thou comfortedst me.

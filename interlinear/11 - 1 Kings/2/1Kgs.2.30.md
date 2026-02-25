@@ -1,8 +1,72 @@
+---
+title: 1 Kings 2:30
+type: Verse
+kjv: "And Benaiah came to the tabernacle of the LORD, and said unto him, Thus saith the king, Come forth. And he said, Nay; but I will die here. And Benaiah brought the king word again, saying, Thus said Joab, and thus he answered me."
+bsb: "And Benaiah entered the tent of the LORD and said to Joab, “The king says, ‘Come out!’” But Joab replied, “No, I will die here.” So Benaiah relayed the message to the king, saying, “This is how Joab answered me.”"
+hebrew: "וַיָּבֹ֨א בְנָיָ֜הוּ אֶל־ אֹ֣הֶל יְהוָ֗ה וַיֹּ֨אמֶר אֵלָ֜יו כֹּֽה־ אָמַ֤ר הַמֶּ֙לֶךְ֙ צֵ֔א וַיֹּ֥אמֶר׀ לֹ֖א כִּ֣י פֹ֣ה אָמ֑וּת וַיָּ֨שֶׁב בְּנָיָ֤הוּ אֶת־ הַמֶּ֙לֶךְ֙ דָּבָ֣ר לֵאמֹ֔ר כֹּֽה־ דִבֶּ֥ר יוֹאָ֖ב וְכֹ֥ה עָנָֽנִי׃"
+pericope: "[[1Kgs.2.28 The Execution of Joab|The Execution of Joab]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 2
+book/chapter: "[[1Kgs.2|1 Kings 2]]"
+chronological_order: 442
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JOAB|JOAB]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H1141G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0168G]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H3541]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3318G]]"
+- "[[H9015]]"
+- "[[H3808]]"
+- "[[H3588A]]"
+- "[[H6311]]"
+- "[[H4191]]"
+- "[[H7725G]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H9005]]"
+- "[[H1696G]]"
+- "[[H3097G]]"
+- "[[H9002]]"
+- "[[H6030B]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 2:30**<big><big>[[1Kgs.2.28 The Execution of Joab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Benaiah came to the tabernacle of the LORD, and said unto him, Thus saith the king, Come forth. And he said, Nay; but I will die here. And Benaiah brought the king word again, saying, Thus said Joab, and thus he answered me.
 <small><sub>**BSB:**</sub></small>
 And Benaiah entered the tent of the LORD and said to Joab, “The king says, ‘Come out!’” But Joab replied, “No, I will die here.” So Benaiah relayed the message to the king, saying, “This is how Joab answered me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֨א]] [[H1141G\|בְנָיָ֜הוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H0168G\|אֹ֣הֶל]] [[H3068G\|יְהוָ֗ה]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0413\|אֵלָ֜י]][[H9033\|ו]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֤ר]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H3318G\|צֵ֔א]] [[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]][[H9015\|׀]] [[H3808\|לֹ֖א]] [[H3588A\|כִּ֣י]] [[H6311\|פֹ֣ה]] [[H4191\|אָמ֑וּת]] [[H9001\|וַ]][[H7725G\|יָּ֨שֶׁב]] [[H1141G\|בְּנָיָ֤הוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H1697G\|דָּבָ֣ר]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H1696G\|דִבֶּ֥ר]] [[H3097G\|יוֹאָ֖ב]] [[H9002\|וְ]][[H3541\|כֹ֥ה]] [[H6030B\|עָנָֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JOAB|JOAB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.29|<< 1 Kings 2:29]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.31|1 Kings 2:31 >>]]</td></tr></table>
 

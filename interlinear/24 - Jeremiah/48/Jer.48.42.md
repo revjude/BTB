@@ -1,8 +1,53 @@
+---
+title: Jeremiah 48:42
+type: Verse
+kjv: "And Moab shall be destroyed from being a people, because he hath magnified himself against the LORD."
+bsb: "Moab will be destroyed as a nation because he vaunted himself against the LORD."
+hebrew: "וְנִשְׁמַ֥ד מוֹאָ֖ב מֵעָ֑ם כִּ֥י עַל־ יְהוָ֖ה הִגְדִּֽיל׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic INFIDELITY|INFIDELITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H8045]]"
+- "[[H4124G]]"
+- "[[H9006]]"
+- "[[H5971A]]"
+- "[[H3588A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H1431]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 48:42**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moab shall be destroyed from [being] a people, because he hath magnified [himself] against the LORD.
 <small><sub>**BSB:**</sub></small>
 Moab will be destroyed as a nation because he vaunted himself against the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8045\|נִשְׁמַ֥ד]] [[H4124G\|מוֹאָ֖ב]] [[H9006\|מֵ]][[H5971A\|עָ֑ם]] [[H3588A\|כִּ֥י]] [[H5921A\|עַל]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H1431\|הִגְדִּֽיל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFIDELITY|INFIDELITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.41|<< Jeremiah 48:41]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.43|Jeremiah 48:43 >>]]</td></tr></table>
 

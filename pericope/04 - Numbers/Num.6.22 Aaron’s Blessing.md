@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Aaron’s Blessing
+type: Pericope
 pericope: "[[Num.6.22 Aaron’s Blessing|Aaron’s Blessing]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 6
 book/chapter: "[[Num.6|Numbers 6]]"
-genre:
+chronological_order: 165
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 6
 verses:
 - "[[Num.6.22]]"
 - "[[Num.6.23]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Num.6.27]]"
 ---
 
-[[Num.6|Numbers 6:22 - Numbers 6:27]]
+<small>[[Num.6|Numbers 6:22-27]]</small>
 *Aaron’s Blessing*
 
 [[Num.6.22|22]] And the LORD spake unto Moses, saying,

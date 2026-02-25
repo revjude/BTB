@@ -1,8 +1,61 @@
+---
+title: Genesis 45:15
+type: Verse
+kjv: "Moreover he kissed all his brethren, and wept upon them: and after that his brethren talked with him."
+bsb: "Joseph kissed each of his brothers as he wept over them. And afterward his brothers talked with him."
+hebrew: "וַיְנַשֵּׁ֥ק לְכָל־ אֶחָ֖יו וַיֵּ֣בְךְּ עֲלֵיהֶ֑ם וְאַ֣חֲרֵי כֵ֔ן דִּבְּר֥וּ אֶחָ֖יו אִתּֽוֹ׃"
+pericope: "[[Gen.45.9 Joseph Sends for His Father|Joseph Sends for His Father]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 45
+book/chapter: "[[Gen.45|Genesis 45]]"
+chronological_order: 87
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H5401A]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H1058]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H3651C]]"
+- "[[H1696G]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 45:15**<big><big>[[Gen.45.9 Joseph Sends for His Father|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover he kissed all his brethren, and wept upon them: and after that his brethren talked with him.
 <small><sub>**BSB:**</sub></small>
 Joseph kissed each of his brothers as he wept over them. And afterward his brothers talked with him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5401A\|יְנַשֵּׁ֥ק]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H0251G\|אֶחָ֖י]][[H9023\|ו]] [[H9001\|וַ]][[H1058\|יֵּ֣בְךְּ]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֑ם]] [[H9002\|וְ]][[H0310A\|אַ֣חֲרֵי]] [[H3651C\|כֵ֔ן]] [[H1696G\|דִּבְּר֥וּ]] [[H0251G\|אֶחָ֖י]][[H9023\|ו]] [[H0854\|אִתּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORGIVENESS|FORGIVENESS]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.45.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.14|<< Genesis 45:14]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.16|Genesis 45:16 >>]]</td></tr></table>
 

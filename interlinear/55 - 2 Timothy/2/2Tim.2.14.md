@@ -1,10 +1,59 @@
+---
+title: 2 Timothy 2:14
+type: Verse
+kjv: "Of these things put them in remembrance, charging them before the Lord that they strive not about words to no profit, but to the subverting of the hearers."
+bsb: "Remind the believers of these things, charging them before God to avoid quarreling over words, which succeeds only in leading the listeners to ruin."
+greek: "Ταῦτα ὑπομίμνῃσκε διαμαρτυρόμενος ἐνώπιον τοῦ θεοῦ μὴ λογομαχεῖν ἐπ᾽ οὐδὲν χρήσιμον ἐπὶ καταστροφῇ τῶν ἀκουόντων."
+pericope: "[[2Tim.2.14 The Lord’s Approved Workman|The Lord’s Approved Workman]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 2
+book/chapter: "[[2Tim.2|2 Timothy 2]]"
+chronological_order: 1154
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WORDS|WORDS]]"
+strongs:
+- "[[G3778]]"
+- "[[G5279]]"
+- "[[G1263]]"
+- "[[G1799]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3361]]"
+- "[[G3054]]"
+- "[[G1909]]"
+- "[[G3762]]"
+- "[[G5539]]"
+- "[[G2692]]"
+- "[[G0191]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **2 Timothy 2:14**<big><big>[[2Tim.2.14 The Lord’s Approved Workman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Of these things put [them] in remembrance, charging [them] before the Lord that they strive not about words to no profit, [but] to the subverting of the hearers.
 <small><sub>**BSB:**</sub></small>
 Remind the believers of these things, charging them before God to avoid quarreling over words, which succeeds only in leading the listeners to ruin.
-<small><sub>**Literal:**</sub></small>
-These things do remind [them] solemnly charging [them] before <the> God not to quarrel about words upon no [thing] profitable [but] to [the] subversion of those hearing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.13|<< 2 Timothy 2:13]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.15|2 Timothy 2:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Ταῦτα]]  [[G5279\|ὑπομίμνῃσκε]]  [[G1263\|διαμαρτυρόμενος]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3361\|μὴ]]  [[G3054\|λογομαχεῖν]]  [[G1909\|ἐπ᾽]]  [[G3762\|οὐδὲν]]  [[G5539\|χρήσιμον]]  [[G1909\|ἐπὶ]]  [[G2692\|καταστροφῇ]]  [[G3588\|τῶν]]  [[G0191\|ἀκουόντων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOCTRINES|DOCTRINES]] • [[topic INFLUENCE|INFLUENCE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic STRIFE|STRIFE]] • [[topic VANITY|VANITY]] • [[topic WORDS|WORDS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.13|<< 2 Timothy 2:13]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.15|2 Timothy 2:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

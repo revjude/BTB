@@ -1,8 +1,54 @@
+---
+title: Job 12:18
+type: Verse
+kjv: "He looseth the bond of kings, and girdeth their loins with a girdle."
+bsb: "He loosens the bonds placed by kings and fastens a belt around their waists."
+hebrew: "מוּסַ֣ר מְלָכִ֣ים פִּתֵּ֑חַ וַיֶּאְסֹ֥ר אֵ֝ז֗וֹר בְּמָתְנֵיהֶֽם׃"
+pericope: "[[Job.12.1 Job Presents His Case|Job Presents His Case]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 12
+book/chapter: "[[Job.12|Job 12]]"
+chronological_order: 23
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ATHEISM|ATHEISM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+strongs:
+- "[[H4148I]]"
+- "[[H4428G]]"
+- "[[H6605A]]"
+- "[[H9001]]"
+- "[[H0631]]"
+- "[[H0232]]"
+- "[[H9003]]"
+- "[[H4975]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 12:18**<big><big>[[Job.12.1 Job Presents His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He looseth the bond of kings, and girdeth their loins with a girdle.
 <small><sub>**BSB:**</sub></small>
 He loosens the bonds placed by kings and fastens a belt around their waists.
+<small><sub>**Hebrew:**</sub></small>
+[[H4148I\|מוּסַ֣ר]] [[H4428G\|מְלָכִ֣ים]] [[H6605A\|פִּתֵּ֑חַ]] [[H9001\|וַ]][[H0631\|יֶּאְסֹ֥ר]] [[H0232\|אֵ֝ז֗וֹר]] [[H9003\|בְּ]][[H4975\|מָתְנֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ATHEISM|ATHEISM]] • [[topic GOD|GOD]] • [[topic PHILOSOPHY|PHILOSOPHY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.12.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.12.17|<< Job 12:17]]</td><td align="center" style="border:none;">[[Job.12|Job 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.12.19|Job 12:19 >>]]</td></tr></table>
 

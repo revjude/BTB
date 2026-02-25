@@ -1,8 +1,75 @@
+---
+title: Daniel 3:26
+type: Verse
+kjv: "Then Nebuchadnezzar came near to the mouth of the burning fiery furnace, and spake, and said, Shadrach, Meshach, and Abednego, ye servants of the most high God, come forth, and come hither. Then Shadrach, Meshach, and Abednego, came forth of the midst of the fire."
+bsb: "Then Nebuchadnezzar approached the door of the blazing fiery furnace and called out, “Shadrach, Meshach, and Abednego, servants of the Most High God, come out!” So Shadrach, Meshach, and Abednego came out of the fire,"
+aramaic: "בֵּאדַ֜יִן קְרֵ֣ב נְבוּכַדְנֶצַּ֗ר לִתְרַע֮ אַתּ֣וּן נוּרָ֣א יָקִֽדְתָּא֒ עָנֵ֣ה וְאָמַ֗ר שַׁדְרַ֨ךְ מֵישַׁ֧ךְ וַעֲבֵד־ נְג֛וֹ עַבְד֛וֹהִי דִּֽי־ אֱלָהָ֥א עִלָּאָ֖ה פֻּ֣קוּ וֶאֱת֑וֹ בֵּאדַ֣יִן נָֽפְקִ֗ין שַׁדְרַ֥ךְ מֵישַׁ֛ךְ וַעֲבֵ֥ד נְג֖וֹ מִן־ גּ֥וֹא נוּרָֽא׃"
+pericope: "[[Dan.3.19 The Fiery Furnace|The Fiery Furnace]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 3
+book/chapter: "[[Dan.3|Daniel 3]]"
+chronological_order: 788
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ABED-NEGO|ABED-NEGO]]"
+- "[[topic COERCION|COERCION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FURNACE|FURNACE]]"
+- "[[topic MESHACH|MESHACH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MISHAEL|MISHAEL]]"
+strongs:
+- "[[H9003]]"
+- "[[H0116]]"
+- "[[H7127]]"
+- "[[H5020]]"
+- "[[H9005]]"
+- "[[H8651]]"
+- "[[H0861]]"
+- "[[H5135]]"
+- "[[H9010]]"
+- "[[H3345]]"
+- "[[H6032]]"
+- "[[H9002]]"
+- "[[H0560]]"
+- "[[H7715]]"
+- "[[H4336]]"
+- "[[H5665]]"
+- "[[H9014]]"
+- "[[H5649]]"
+- "[[H9023]]"
+- "[[H1768]]"
+- "[[H0426]]"
+- "[[H5943]]"
+- "[[H5312]]"
+- "[[H0858]]"
+- "[[H4481]]"
+- "[[H1459]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Daniel 3:26**<big><big>[[Dan.3.19 The Fiery Furnace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Nebuchadnezzar came near to the mouth of the burning fiery furnace, [and] spake, and said, Shadrach, Meshach, and Abednego, ye servants of the most high God, come forth, and come [hither]. Then Shadrach, Meshach, and Abednego, came forth of the midst of the fire.
 <small><sub>**BSB:**</sub></small>
 Then Nebuchadnezzar approached the door of the blazing fiery furnace and called out, “Shadrach, Meshach, and Abednego, servants of the Most High God, come out!” So Shadrach, Meshach, and Abednego came out of the fire,
+<small><sub>**Aramaic:**</sub></small>
+[[H9003\|בֵּ]][[H0116\|אדַ֜יִן]] [[H7127\|קְרֵ֣ב]] [[H5020\|נְבוּכַדְנֶצַּ֗ר]] [[H9005\|לִ]][[H8651\|תְרַע֮]] [[H0861\|אַתּ֣וּן]] [[H5135\|נוּרָ֣]][[H9010\|א]] [[H3345\|יָקִֽדְתָּ]][[H9010\|א֒]] [[H6032\|עָנֵ֣ה]] [[H9002\|וְ]][[H0560\|אָמַ֗ר]] [[H7715\|שַׁדְרַ֨ךְ]] [[H4336\|מֵישַׁ֧ךְ]] [[H9002\|וַ]][[H5665\|עֲבֵד]][[H9014\|־]] [[H5665\|נְג֛וֹ]] [[H5649\|עַבְד֛וֹ]][[H9023\|הִי]] [[H1768\|דִּֽי]][[H9014\|־]] [[H0426\|אֱלָהָ֥]][[H9010\|א]] [[H5943\|עִלָּאָ֖]][[H9010\|ה]] [[H5312\|פֻּ֣קוּ]] [[H9002\|וֶ]][[H0858\|אֱת֑וֹ]] [[H9003\|בֵּ]][[H0116\|אדַ֣יִן]] [[H5312\|נָֽפְקִ֗ין]] [[H7715\|שַׁדְרַ֥ךְ]] [[H4336\|מֵישַׁ֛ךְ]] [[H9002\|וַ]][[H5665\|עֲבֵ֥ד]] [[H5665\|נְג֖וֹ]] [[H4481\|מִן]][[H9014\|־]] [[H1459\|גּ֥וֹא]] [[H5135\|נוּרָֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABED-NEGO|ABED-NEGO]] • [[topic COERCION|COERCION]] • [[topic FAITH|FAITH]] • [[topic FURNACE|FURNACE]] • [[topic MESHACH|MESHACH]] • [[topic MIRACLES|MIRACLES]] • [[topic MISHAEL|MISHAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.25|<< Daniel 3:25]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.27|Daniel 3:27 >>]]</td></tr></table>
 

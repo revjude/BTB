@@ -1,10 +1,62 @@
+---
+title: Mark 4:4
+type: Verse
+kjv: "And it came to pass, as he sowed, some fell by the way side, and the fowls of the air came and devoured it up."
+bsb: "And as he was sowing, some seed fell along the path, and the birds came and devoured it."
+jesus_said: "And it came to pass, as he sowed, some fell by the way side, and the fowls of the air came and devoured it up."
+greek: "καὶ ἐγένετο ἐν τῷ σπείρειν, ὃ μὲν ἔπεσεν παρὰ τὴν ὁδόν, καὶ ἦλθεν τὰ πετεινὰ τοῦ οὐρανοῦ καὶ κατέφαγεν αὐτό."
+pericope: "[[Mark.4.1 The Parable of the Sower|The Parable of the Sower]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 4
+book/chapter: "[[Mark.4|Mark 4]]"
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic SOWER|SOWER]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4687]]"
+- "[[G3739]]"
+- "[[G3303]]"
+- "[[G4098]]"
+- "[[G3844]]"
+- "[[G3598]]"
+- "[[G2064]]"
+- "[[G4071]]"
+- "[[G3772]]"
+- "[[G2719]]"
+- "[[G0846]]"
+texts:
+- NKO
+- K
+---
+
 **Mark 4:4**<big><big>[[Mark.4.1 The Parable of the Sower|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as he sowed, some fell by the way side, and the fowls of the air came and devoured it up.
 <small><sub>**BSB:**</sub></small>
 And as he was sowing, some seed fell along the path, and the birds came and devoured it.
-<small><sub>**Literal:**</sub></small>
-And it came to pass while <the> sowing, <the> some fell along the road, and came the birds <the> heaven and devoured it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.3|<< Mark 4:3]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.5|Mark 4:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1096\|ἐγένετο]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4687\|σπείρειν,]]  [[G3739\|ὃ]]  [[G3303\|μὲν]]  [[G4098\|ἔπεσεν]]  [[G3844\|παρὰ]]  [[G3588\|τὴν]]  [[G3598\|ὁδόν,]]  [[G2532\|καὶ]]  [[G2064\|ἦλθεν]]  [[G3588\|τὰ]]  [[G4071\|πετεινὰ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G2532\|καὶ]]  [[G2719\|κατέφαγεν]]  [[G0846\|αὐτό.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic SERMON|SERMON]] • [[topic SOWER|SOWER]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.3|<< Mark 4:3]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.5|Mark 4:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

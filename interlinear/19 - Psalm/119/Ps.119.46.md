@@ -1,8 +1,56 @@
+---
+title: Psalm 119:46
+type: Verse
+kjv: "I will speak of thy testimonies also before kings, and will not be ashamed."
+bsb: "I will speak of Your testimonies before kings, and I will not be ashamed."
+hebrew: "וַאֲדַבְּרָ֣ה בְ֭עֵדֹתֶיךָ נֶ֥גֶד מְלָכִ֗ים וְלֹ֣א אֵבֽוֹשׁ׃"
+pericope: "[[Ps.119.41 Your Word Is a Lamp to My Feet - VAU|Your Word Is a Lamp to My Feet - VAU]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9002]]"
+- "[[H1696G]]"
+- "[[H9003]]"
+- "[[H5713B]]"
+- "[[H9021]]"
+- "[[H5048]]"
+- "[[H4428G]]"
+- "[[H3808]]"
+- "[[H0954]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:46**<big><big>[[Ps.119.41 Your Word Is a Lamp to My Feet - VAU|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will speak of thy testimonies also before kings, and will not be ashamed.
 <small><sub>**BSB:**</sub></small>
 I will speak of Your testimonies before kings, and I will not be ashamed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H1696G\|אֲדַבְּרָ֣ה]] [[H9003\|בְ֭]][[H5713B\|עֵדֹתֶי]][[H9021\|ךָ]] [[H5048\|נֶ֥גֶד]] [[H4428G\|מְלָכִ֗ים]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H0954\|אֵבֽוֹשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.45|<< Psalms 119:45]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.47|Psalms 119:47 >>]]</td></tr></table>
 

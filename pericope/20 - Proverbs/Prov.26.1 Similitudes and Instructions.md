@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Similitudes and Instructions
+type: Pericope
 pericope: "[[Prov.26.1 Similitudes and Instructions|Similitudes and Instructions]]"
-verse_count: 28
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 26
 book/chapter: "[[Prov.26|Proverbs 26]]"
-genre:
+chronological_order: 481
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 28
 verses:
 - "[[Prov.26.1]]"
 - "[[Prov.26.2]]"
@@ -46,7 +53,7 @@ verses:
 - "[[Prov.26.28]]"
 ---
 
-[[Prov.26|Proverbs 26:1 - Proverbs 26:28]]
+<small>[[Prov.26|Proverbs 26:1-28]]</small>
 *Similitudes and Instructions*
 
 [[Prov.26.1|1]] As snow in summer, and as rain in harvest, so honour is not seemly for a fool.

@@ -1,10 +1,58 @@
+---
+title: Matthew 1:5
+type: Verse
+kjv: "And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;"
+bsb: "Salmon was the father of Boaz by Rahab, Boaz the father of Obed by Ruth, Obed the father of Jesse,"
+greek: "Σαλμὼν δὲ ἐγέννησεν τὸν Βόες ἐκ τῆς Ῥαχάβ· Βόες δὲ ἐγέννησεν τὸν Ἰωβὴδ ἐκ τῆς Ῥούθ· Ἰωβὴδ δὲ ἐγέννησεν τὸν Ἰεσσαί·"
+pericope: "[[Matt.1.1 The Genealogy of Jesus|The Genealogy of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 1
+book/chapter: "[[Matt.1|Matthew 1]]"
+chronological_order: 931
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BOAZ|BOAZ]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic JESSE|JESSE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic OBED|OBED]]"
+- "[[topic RAHAB|RAHAB]]"
+- "[[topic SALMA|SALMA]]"
+strongs:
+- "[[G4533]]"
+- "[[G1161]]"
+- "[[G1080]]"
+- "[[G3588]]"
+- "[[G1003]]"
+- "[[G1537]]"
+- "[[G4477]]"
+- "[[G5601]]"
+- "[[G4503]]"
+- "[[G2421]]"
+texts:
+- NKO
+---
+
 **Matthew 1:5**<big><big>[[Matt.1.1 The Genealogy of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;
 <small><sub>**BSB:**</sub></small>
 Salmon was the father of Boaz by Rahab, Boaz the father of Obed by Ruth, Obed the father of Jesse,
-<small><sub>**Literal:**</sub></small>
-Salmon then begat <the> Boaz out of <the> Rahab; Boaz then begat <the> Obed out of <the> Ruth; Obed then begat <the> Jesse;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.4|<< Matthew 1:4]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.6|Matthew 1:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4533\|Σαλμὼν]]  [[G1161\|δὲ]]  [[G1080\|ἐγέννησεν]]  [[G3588\|τὸν]]  [[G1003\|Βόες]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G4477\|Ῥαχάβ·]]  [[G1003\|Βόες]]  [[G1161\|δὲ]]  [[G1080\|ἐγέννησεν]]  [[G3588\|τὸν]]  [[G5601\|Ἰωβὴδ]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G4503\|Ῥούθ·]]  [[G5601\|Ἰωβὴδ]]  [[G1161\|δὲ]]  [[G1080\|ἐγέννησεν]]  [[G3588\|τὸν]]  [[G2421\|Ἰεσσαί·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOAZ|BOAZ]] • [[topic DAVID|DAVID]] • [[topic GENEALOGY|GENEALOGY]] • [[topic JESSE|JESSE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic OBED|OBED]] • [[topic RAHAB|RAHAB]] • [[topic SALMA|SALMA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.4|<< Matthew 1:4]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.6|Matthew 1:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 1:5** is...
 > $\quad$ referencing: [[LXX.Ruth.4.18|Ruth 4:18-22]]

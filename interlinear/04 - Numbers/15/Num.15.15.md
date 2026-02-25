@@ -1,8 +1,65 @@
+---
+title: Numbers 15:15
+type: Verse
+kjv: "One ordinance shall be both for you of the congregation, and also for the stranger that sojourneth with you, an ordinance for ever in your generations: as ye are, so shall the stranger be before the LORD."
+bsb: "The assembly is to have the same statute both for you and for the foreign resident; it is a permanent statute for the generations to come. You and the foreigner shall be the same before the LORD."
+hebrew: "הַקָּהָ֕ל חֻקָּ֥ה אַחַ֛ת לָכֶ֖ם וְלַגֵּ֣ר הַגָּ֑ר חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם כָּכֶ֛ם כַּגֵּ֥ר יִהְיֶ֖ה לִפְנֵ֥י יְהוָֽה׃"
+pericope: "[[Num.15.1 Laws about Offerings|Laws about Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 15
+book/chapter: "[[Num.15|Numbers 15]]"
+chronological_order: 175
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ALIENS|ALIENS]]"
+- "[[topic LEGISLATION|LEGISLATION]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic ORDINANCE|ORDINANCE]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9009]]"
+- "[[H6951]]"
+- "[[H2708]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9002]]"
+- "[[H1616]]"
+- "[[H1481A]]"
+- "[[H5769G]]"
+- "[[H1755]]"
+- "[[H9026]]"
+- "[[H9004]]"
+- "[[H1961]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 15:15**<big><big>[[Num.15.1 Laws about Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 One ordinance [shall be both] for you of the congregation, and also for the stranger that sojourneth [with you], an ordinance for ever in your generations: as ye [are], so shall the stranger be before the LORD.
 <small><sub>**BSB:**</sub></small>
 The assembly is to have the same statute both for you and for the foreign resident; it is a permanent statute for the generations to come. You and the foreigner shall be the same before the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H6951\|קָּהָ֕ל]] [[H2708\|חֻקָּ֥ה]] [[H0259\|אַחַ֛ת]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H9002\|וְ]][[H9005\|לַ]][[H1616\|גֵּ֣ר]] [[H9009\|הַ]][[H1481A\|גָּ֑ר]] [[H2708\|חֻקַּ֤ת]] [[H5769G\|עוֹלָם֙]] [[H9005\|לְ]][[H1755\|דֹרֹ֣תֵי]][[H9026\|כֶ֔ם]] [[H9004\|כָּ]][[H9036\|כֶ֛ם]] [[H9004\|כַּ]][[H1616\|גֵּ֥ר]] [[H1961\|יִהְיֶ֖ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALIENS|ALIENS]] • [[topic LEGISLATION|LEGISLATION]] • [[topic OFFERINGS|OFFERINGS]] • [[topic ORDINANCE|ORDINANCE]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.14|<< Numbers 15:14]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.16|Numbers 15:16 >>]]</td></tr></table>
 

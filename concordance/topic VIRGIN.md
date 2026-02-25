@@ -1,11 +1,11 @@
 
 **VIRGIN**
 
-→ Proofs of [[Deut.22.13|De 22:13]]-[[Deut.22.21|21]]
+→ Proofs of [[Deut.22.13|De 22:13-21]]
 
 → Dowry of [[Exod.22.17|Ex 22:17]]
 
-→ Character of, to be protected [[Deut.22.17|De 22:17]]-[[Deut.22.21|21]],[[Deut.22.23|23]],[[Deut.22.24|24]]
+→ Character of, to be protected [[Deut.22.17|De 22:17-21]],[[Deut.22.23|23]],[[Deut.22.24|24]]
 
 → Betrothal of, a quasi-marriage [[Deut.22.23|De 22:23]],[[Deut.22.24|24]]
 
@@ -15,9 +15,9 @@
 
 → Mourn in the temple [[Lam.1.4|La 1:4]]; [[Lam.2.10|2:10]]
 
-→ Virginity of, bewailed [[Judg.11.37|Jud 11:37]]-[[Judg.11.39|39]]
+→ Virginity of, bewailed [[Judg.11.37|Jud 11:37-39]]
 
-→ Parable of the wise and foolish [[Matt.25.1|Mt 25:1]]-[[Matt.25.13|13]]
+→ Parable of the wise and foolish [[Matt.25.1|Mt 25:1-13]]
 
 → Mother of Jesus was a [[Isa.7.14|Isa 7:14]]; [[Matt.1.23|Mt 1:23]]; [[Luke.1.27|Lu 1:27]]
 

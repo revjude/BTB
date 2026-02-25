@@ -1,8 +1,68 @@
+---
+title: 2 Kings 8:18
+type: Verse
+kjv: "And he walked in the way of the kings of Israel, as did the house of Ahab: for the daughter of Ahab was his wife: and he did evil in the sight of the LORD."
+bsb: "And Jehoram walked in the ways of the kings of Israel, just as the house of Ahab had done. For he married a daughter of Ahab and did evil in the sight of the LORD."
+hebrew: "וַיֵּ֜לֶךְ בְּדֶ֣רֶךְ׀ מַלְכֵ֣י יִשְׂרָאֵ֗ל כַּאֲשֶׁ֤ר עָשׂוּ֙ בֵּ֣ית אַחְאָ֔ב כִּ֚י בַּת־ אַחְאָ֔ב הָֽיְתָה־ לּ֖וֹ לְאִשָּׁ֑ה וַיַּ֥עַשׂ הָרַ֖ע בְּעֵינֵ֥י יְהוָֽה׃"
+pericope: "[[2Kgs.8.16 Jehoram Reigns in Judah|Jehoram Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 8
+book/chapter: "[[2Kgs.8|2 Kings 8]]"
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ATHALIAH|ATHALIAH]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHORAM|JEHORAM]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H1870G]]"
+- "[[H9015]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6213A]]"
+- "[[H1004M]]"
+- "[[H0256G]]"
+- "[[H3588A]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0802H]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 8:18**<big><big>[[2Kgs.8.16 Jehoram Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he walked in the way of the kings of Israel, as did the house of Ahab: for the daughter of Ahab was his wife: and he did evil in the sight of the LORD.
 <small><sub>**BSB:**</sub></small>
 And Jehoram walked in the ways of the kings of Israel, just as the house of Ahab had done. For he married a daughter of Ahab and did evil in the sight of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980I\|יֵּ֜לֶךְ]] [[H9003\|בְּ]][[H1870G\|דֶ֣רֶךְ]][[H9015\|׀]] [[H4428G\|מַלְכֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H6213A\|עָשׂוּ֙]] [[H1004M\|בֵּ֣ית]] [[H0256G\|אַחְאָ֔ב]] [[H3588A\|כִּ֚י]] [[H1323G\|בַּת]][[H9014\|־]] [[H0256G\|אַחְאָ֔ב]] [[H1961\|הָֽיְתָה]][[H9014\|־]] [[H9005\|לּ֖]][[H9033\|וֹ]] [[H9005\|לְ]][[H0802H\|אִשָּׁ֑ה]] [[H9001\|וַ]][[H6213A\|יַּ֥עַשׂ]] [[H9009\|הָ]][[H7451H\|רַ֖ע]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATHALIAH|ATHALIAH]] • [[topic INFLUENCE|INFLUENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHORAM|JEHORAM]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.17|<< 2 Kings 8:17]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.19|2 Kings 8:19 >>]]</td></tr></table>
 

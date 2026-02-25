@@ -1,8 +1,55 @@
+---
+title: Psalm 50:1
+type: Verse
+kjv: "The mighty God, even the LORD, hath spoken, and called the earth from the rising of the sun unto the going down thereof."
+bsb: "A Psalm of Asaph. The Mighty One, God the LORD, speaks and summons the earth from where the sun rises to where it sets."
+hebrew: "אֵ֤ל׀ אֱֽלֹהִ֡ים יְֽהוָ֗ה דִּבֶּ֥ר וַיִּקְרָא־ אָ֑רֶץ מִמִּזְרַח־ שֶׁ֝֗מֶשׁ עַד־ מְבֹאֽוֹ׃"
+pericope: "[[Ps.50.1 The Mighty One Calls|The Mighty One Calls]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 50
+book/chapter: "[[Ps.50|Psalm 50]]"
+chronological_order: 505
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H0410G]]"
+- "[[H9015]]"
+- "[[H0430G]]"
+- "[[H3068G]]"
+- "[[H1696G]]"
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9006]]"
+- "[[H4217H]]"
+- "[[H8121]]"
+- "[[H5704]]"
+- "[[H3996]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 50:1**<big><big>[[Ps.50.1 The Mighty One Calls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The mighty God, [even] the LORD, hath spoken, and called the earth from the rising of the sun unto the going down thereof.
 <small><sub>**BSB:**</sub></small>
 A Psalm of Asaph. The Mighty One, God the LORD, speaks and summons the earth from where the sun rises to where it sets.
+<small><sub>**Hebrew:**</sub></small>
+[[H0410G\|אֵ֤ל]][[H9015\|׀]] [[H0430G\|אֱֽלֹהִ֡ים]] [[H3068G\|יְֽהוָ֗ה]] [[H1696G\|דִּבֶּ֥ר]] [[H9001\|וַ]][[H7121G\|יִּקְרָא]][[H9014\|־]] [[H0776G\|אָ֑רֶץ]] [[H9006\|מִ]][[H4217H\|מִּזְרַח]][[H9014\|־]] [[H8121\|שֶׁ֝֗מֶשׁ]] [[H5704\|עַד]][[H9014\|־]] [[H3996\|מְבֹאֽ]][[H9023\|וֹ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.50.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50.0|<< Psalms 50:0]]</td><td align="center" style="border:none;">[[Ps.50|Psalms 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50.2|Psalms 50:2 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Esther 9:15
+type: Verse
+kjv: "For the Jews that were in Shushan gathered themselves together on the fourteenth day also of the month Adar, and slew three hundred men at Shushan; but on the prey they laid not their hand."
+bsb: "On the fourteenth day of the month of Adar, the Jews in Susa came together again and put to death three hundred men there, but they did not lay a hand on the plunder."
+hebrew: "וַיִּֽקָּהֲל֞וּ הַיְּהוּדִ֣ים אֲשֶׁר־ בְּשׁוּשָׁ֗ן גַּ֠ם בְּי֣וֹם אַרְבָּעָ֤ה עָשָׂר֙ לְחֹ֣דֶשׁ אֲדָ֔ר וַיַּֽהַרְג֣וּ בְשׁוּשָׁ֔ן שְׁלֹ֥שׁ מֵא֖וֹת אִ֑ישׁ וּבַ֨בִּזָּ֔ה לֹ֥א שָׁלְח֖וּ אֶת־ יָדָֽם׃"
+pericope: "[[Esth.9.11 Haman’s Sons Hanged|Haman’s Sons Hanged]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 9
+book/chapter: "[[Esth.9|Esther 9]]"
+chronological_order: 907
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic MONTH|MONTH]]"
+- "[[topic SHUSHAN (SUSA)|SHUSHAN (SUSA)]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6950]]"
+- "[[H9009]]"
+- "[[H3064]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H7800]]"
+- "[[H1571]]"
+- "[[H3117G]]"
+- "[[H0702]]"
+- "[[H6240]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H0143]]"
+- "[[H2026]]"
+- "[[H7969]]"
+- "[[H3967]]"
+- "[[H0376G]]"
+- "[[H9002]]"
+- "[[H0961]]"
+- "[[H3808]]"
+- "[[H7971K]]"
+- "[[H0853]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Esther 9:15**<big><big>[[Esth.9.11 Haman’s Sons Hanged|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the Jews that [were] in Shushan gathered themselves together on the fourteenth day also of the month Adar, and slew three hundred men at Shushan; but on the prey they laid not their hand.
 <small><sub>**BSB:**</sub></small>
 On the fourteenth day of the month of Adar, the Jews in Susa came together again and put to death three hundred men there, but they did not lay a hand on the plunder.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6950\|יִּֽקָּהֲל֞וּ]] [[H9009\|הַ]][[H3064\|יְּהוּדִ֣ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בְּ]][[H7800\|שׁוּשָׁ֗ן]] [[H1571\|גַּ֠ם]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H0702\|אַרְבָּעָ֤ה]] [[H6240\|עָשָׂר֙]] [[H9005\|לְ]][[H2320G\|חֹ֣דֶשׁ]] [[H0143\|אֲדָ֔ר]] [[H9001\|וַ]][[H2026\|יַּֽהַרְג֣וּ]] [[H9003\|בְ]][[H7800\|שׁוּשָׁ֔ן]] [[H7969\|שְׁלֹ֥שׁ]] [[H3967\|מֵא֖וֹת]] [[H0376G\|אִ֑ישׁ]] [[H9002\|וּ]][[H9003\|בַ֨]][[H0961\|בִּזָּ֔ה]] [[H3808\|לֹ֥א]] [[H7971K\|שָׁלְח֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יָדָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MONTH|MONTH]] • [[topic SHUSHAN (SUSA)|SHUSHAN (SUSA)]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.14|<< Esther 9:14]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.16|Esther 9:16 >>]]</td></tr></table>
 

@@ -1,10 +1,58 @@
+---
+title: Hebrews 8:1
+type: Verse
+kjv: "Now of the things which we have spoken this is the sum: We have such an high priest, who is set on the right hand of the throne of the Majesty in the heavens;"
+bsb: "The point of what we are saying is this: We do have such a high priest, who sat down at the right hand of the throne of the Majesty in heaven,"
+greek: "Κεφάλαιον δὲ ἐπὶ τοῖς λεγομένοις, τοιοῦτον ἔχομεν ἀρχιερέα ὃς ἐκάθισεν ἐν δεξιᾷ τοῦ θρόνου τῆς μεγαλωσύνης ἐν τοῖς οὐρανοῖς,"
+pericope: "[[Heb.8.1 Christ’s Eternal Priesthood|Christ’s Eternal Priesthood]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 8
+book/chapter: "[[Heb.8|Hebrews 8]]"
+chronological_order: 1147
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MAJESTY|MAJESTY]]"
+- "[[topic THRONE|THRONE]]"
+strongs:
+- "[[G2774]]"
+- "[[G1161]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3004G]]"
+- "[[G5108]]"
+- "[[G2192]]"
+- "[[G0749]]"
+- "[[G3739]]"
+- "[[G2523]]"
+- "[[G1722]]"
+- "[[G1188]]"
+- "[[G2362]]"
+- "[[G3172]]"
+- "[[G3772]]"
+texts:
+- NKO
+---
+
 **Hebrews 8:1**<big><big>[[Heb.8.1 Christ’s Eternal Priesthood|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now of the things which we have spoken [this is] the sum: We have such an high priest, who is set on the right hand of the throne of the Majesty in the heavens;
 <small><sub>**BSB:**</sub></small>
 The point of what we are saying is this: We do have such a high priest, who sat down at the right hand of the throne of the Majesty in heaven,
-<small><sub>**Literal:**</sub></small>
-[The] sum now of the [things] being spoken of [is that] such we have a high priest who sat down at [the] right hand of the throne of the Majesty in the heavens,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.28|<< Hebrews 7:28]]</td><td align="center" style="border:none;">[[Heb.8|Hebrews 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8.2|Hebrews 8:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2774\|Κεφάλαιον]]  [[G1161\|δὲ]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῖς]]  [[G3004G\|λεγομένοις,]]  [[G5108\|τοιοῦτον]]  [[G2192\|ἔχομεν]]  [[G0749\|ἀρχιερέα]]  [[G3739\|ὃς]]  [[G2523\|ἐκάθισεν]]  [[G1722\|ἐν]]  [[G1188\|δεξιᾷ]]  [[G3588\|τοῦ]]  [[G2362\|θρόνου]]  [[G3588\|τῆς]]  [[G3172\|μεγαλωσύνης]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3772\|οὐρανοῖς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MAJESTY|MAJESTY]] • [[topic THRONE|THRONE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.28|<< Hebrews 7:28]]</td><td align="center" style="border:none;">[[Heb.8|Hebrews 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8.2|Hebrews 8:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 8:1** is...
 > $\quad$ alluding to: [[LXX.Ps.110.1|Ps 110:1]]

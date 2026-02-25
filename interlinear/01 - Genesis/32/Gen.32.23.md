@@ -1,8 +1,55 @@
+---
+title: Genesis 32:23
+type: Verse
+kjv: "And he took them, and sent them over the brook, and sent over that he had."
+bsb: "He took them and sent them across the stream, along with all his possessions."
+hebrew: "וַיִּקָּחֵ֔ם וַיַּֽעֲבִרֵ֖ם אֶת־ הַנָּ֑חַל וַֽיַּעֲבֵ֖ר אֶת־ אֲשֶׁר־ לוֹ׃"
+pericope: "[[Gen.32.22 Jacob Wrestles with God|Jacob Wrestles with God]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 32
+book/chapter: "[[Gen.32|Genesis 32]]"
+chronological_order: 74
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9038]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5158A]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 32:23**<big><big>[[Gen.32.22 Jacob Wrestles with God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took them, and sent them over the brook, and sent over that he had.
 <small><sub>**BSB:**</sub></small>
 He took them and sent them across the stream, along with all his possessions.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקָּחֵ֔]][[H9038\|ם]] [[H9001\|וַ]][[H5674A\|יַּֽעֲבִרֵ֖]][[H9038\|ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5158A\|נָּ֑חַל]] [[H9001\|וַֽ]][[H5674A\|יַּעֲבֵ֖ר]] [[H0853\|אֶת]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.22|<< Genesis 32:22]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.24|Genesis 32:24 >>]]</td></tr></table>
 

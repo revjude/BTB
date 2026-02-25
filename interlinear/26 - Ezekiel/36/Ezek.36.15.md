@@ -1,8 +1,64 @@
+---
+title: Ezekiel 36:15
+type: Verse
+kjv: "Neither will I cause men to hear in thee the shame of the heathen any more, neither shalt thou bear the reproach of the people any more, neither shalt thou cause thy nations to fall any more, saith the Lord GOD."
+bsb: "I will no longer allow the taunts of the nations to be heard against you, and you will no longer endure the reproach of the peoples or cause your nation to stumble, declares the Lord GOD.”"
+hebrew: "וְלֹא־ אַשְׁמִ֨יעַ אֵלַ֤יִךְ עוֹד֙ כְּלִמַּ֣ת הַגּוֹיִ֔ם וְחֶרְפַּ֥ת עַמִּ֖ים לֹ֣א תִשְׂאִי־ ע֑וֹד וְגוֹיַ֙יִךְ֙ לֹא־ תַכְשִׁ֣לִי ע֔וֹד נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃ ס"
+pericope: "[[Ezek.36.1 A Prophecy to the Mountains of Israel|A Prophecy to the Mountains of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 36
+book/chapter: "[[Ezek.36|Ezekiel 36]]"
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H9032]]"
+- "[[H5750]]"
+- "[[H3639]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H2781]]"
+- "[[H5971A]]"
+- "[[H5375H]]"
+- "[[H9022]]"
+- "[[H3782]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 36:15**<big><big>[[Ezek.36.1 A Prophecy to the Mountains of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither will I cause [men] to hear in thee the shame of the heathen any more, neither shalt thou bear the reproach of the people any more, neither shalt thou cause thy nations to fall any more, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
 I will no longer allow the taunts of the nations to be heard against you, and you will no longer endure the reproach of the peoples or cause your nation to stumble, declares the Lord GOD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H8085G\|אַשְׁמִ֨יעַ]] [[H0413\|אֵלַ֤יִ]][[H9032\|ךְ]] [[H5750\|עוֹד֙]] [[H3639\|כְּלִמַּ֣ת]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֔ם]] [[H9002\|וְ]][[H2781\|חֶרְפַּ֥ת]] [[H5971A\|עַמִּ֖ים]] [[H3808\|לֹ֣א]] [[H5375H\|תִשְׂאִי]][[H9014\|־]] [[H5750\|ע֑וֹד]] [[H9002\|וְ]][[H1471A\|גוֹיַ֙יִ]][[H9022\|ךְ֙]] [[H3808\|לֹא]][[H9014\|־]] [[H3782\|תַכְשִׁ֣לִי]] [[H5750\|ע֔וֹד]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.14|<< Ezekiel 36:14]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.16|Ezekiel 36:16 >>]]</td></tr></table>
 
@@ -25,11 +81,11 @@ I will no longer allow the taunts of the nations to be heard against you, and yo
 | again  |**<big>&#8207;[[H5750\|ע֔וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻ֖ם]]&#8207; </big>**| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֥י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.14|<< Ezekiel 36:14]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.16|Ezekiel 36:16 >>]]</td></tr></table>
 
-[^1]: and nation your  | **<big>[[H9022|ךְ]]</big><big>[[H1471A|גוֹיֵ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> go.ye<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
-[^2]: and nation your  | **<big>[[H9022|ךְ]]</big><big>[[H1471A|גוֹיֵ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> go.ye<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
-[^3]: and nation your  | **<big>[[H9022|ךְ]]</big><big>[[H1471A|גוֹיֵ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> go.ye<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
+[^1]: and nation your  | **<big>[[H9002|וְ]]</big><big>[[H1471A|גוֹיֵ]]</big><big>[[H9022|ךְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> go.ye<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
+[^2]: and nation your  | **<big>[[H9002|וְ]]</big><big>[[H1471A|גוֹיֵ]]</big><big>[[H9022|ךְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> go.ye<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
+[^3]: and nation your  | **<big>[[H9002|וְ]]</big><big>[[H1471A|גוֹיֵ]]</big><big>[[H9022|ךְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> go.ye<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>וְגוֹיִַ֙/ךְ֙</big></span>**
 

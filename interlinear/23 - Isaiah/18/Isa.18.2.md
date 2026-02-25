@@ -1,8 +1,77 @@
+---
+title: Isaiah 18:2
+type: Verse
+kjv: "That sendeth ambassadors by the sea, even in vessels of bulrushes upon the waters, saying, Go, ye swift messengers, to a nation scattered and peeled, to a people terrible from their beginning hitherto; a nation meted out and trodden down, whose land the rivers have spoiled!"
+bsb: "which sends couriers by sea, in papyrus vessels on the waters. Go, swift messengers, to a people tall and smooth-skinned, to a people widely feared, to a powerful nation of strange speech, whose land is divided by rivers."
+hebrew: "הַשֹּׁלֵ֨חַ בַּיָּ֜ם צִירִ֗ים וּבִכְלֵי־ גֹמֶא֮ עַל־ פְּנֵי־ מַיִם֒ לְכ֣וּ׀ מַלְאָכִ֣ים קַלִּ֗ים אֶל־ גּוֹי֙ מְמֻשָּׁ֣ךְ וּמוֹרָ֔ט אֶל־ עַ֥ם נוֹרָ֖א מִן־ ה֣וּא וָהָ֑לְאָה גּ֚וֹי קַו־ קָ֣ו וּמְבוּסָ֔ה אֲשֶׁר־ בָּזְא֥וּ נְהָרִ֖ים אַרְצֽוֹ׃"
+pericope: "[[Isa.18.1 A Message to Cush|A Message to Cush]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 18
+book/chapter: "[[Isa.18|Isaiah 18]]"
+chronological_order: 635
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+- "[[topic BULRUSH|BULRUSH]]"
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+- "[[topic SHIP|SHIP]]"
+strongs:
+- "[[H9009]]"
+- "[[H7971G]]"
+- "[[H9003]]"
+- "[[H3220G]]"
+- "[[H6735A]]"
+- "[[H9002]]"
+- "[[H3627]]"
+- "[[H9014]]"
+- "[[H1573]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H4325G]]"
+- "[[H1980G]]"
+- "[[H9015]]"
+- "[[H4397G]]"
+- "[[H7031]]"
+- "[[H0413]]"
+- "[[H1471A]]"
+- "[[H4900]]"
+- "[[H4803]]"
+- "[[H5971A]]"
+- "[[H3372G]]"
+- "[[H4480A]]"
+- "[[H1931]]"
+- "[[H1973]]"
+- "[[H6978]]"
+- "[[H4001]]"
+- "[[H0834A]]"
+- "[[H0958]]"
+- "[[H5104H]]"
+- "[[H0776G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 18:2**<big><big>[[Isa.18.1 A Message to Cush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That sendeth ambassadors by the sea, even in vessels of bulrushes upon the waters, [saying], Go, ye swift messengers, to a nation scattered and peeled, to a people terrible from their beginning hitherto; a nation meted out and trodden down, whose land the rivers have spoiled!
 <small><sub>**BSB:**</sub></small>
 which sends couriers by sea, in papyrus vessels on the waters. Go, swift messengers, to a people tall and smooth-skinned, to a people widely feared, to a powerful nation of strange speech, whose land is divided by rivers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H7971G\|שֹּׁלֵ֨חַ]] [[H9003\|בַּ]][[H3220G\|יָּ֜ם]] [[H6735A\|צִירִ֗ים]] [[H9002\|וּ]][[H9003\|בִ]][[H3627\|כְלֵי]][[H9014\|־]] [[H1573\|גֹמֶא֮]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵי]][[H9014\|־]] [[H4325G\|מַיִם֒]] [[H1980G\|לְכ֣וּ]][[H9015\|׀]] [[H4397G\|מַלְאָכִ֣ים]] [[H7031\|קַלִּ֗ים]] [[H0413\|אֶל]][[H9014\|־]] [[H1471A\|גּוֹי֙]] [[H4900\|מְמֻשָּׁ֣ךְ]] [[H9002\|וּ]][[H4803\|מוֹרָ֔ט]] [[H0413\|אֶל]][[H9014\|־]] [[H5971A\|עַ֥ם]] [[H3372G\|נוֹרָ֖א]] [[H4480A\|מִן]][[H9014\|־]] [[H1931\|ה֣וּא]] [[H9002\|וָ]][[H1973\|הָ֑לְאָה]] [[H1471A\|גּ֚וֹי]] [[H6978\|קַו]][[H9014\|־]] [[H6978\|קָ֣ו]] [[H9002\|וּ]][[H4001\|מְבוּסָ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0958\|בָּזְא֥וּ]] [[H5104H\|נְהָרִ֖ים]] [[H0776G\|אַרְצֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBASSADORS|AMBASSADORS]] • [[topic BULRUSH|BULRUSH]] • [[topic ETHIOPIA|ETHIOPIA]] • [[topic SHIP|SHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.18.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.18.1|<< Isaiah 18:1]]</td><td align="center" style="border:none;">[[Isa.18|Isaiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.18.3|Isaiah 18:3 >>]]</td></tr></table>
 

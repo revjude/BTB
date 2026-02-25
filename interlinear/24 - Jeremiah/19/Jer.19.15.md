@@ -1,8 +1,77 @@
+---
+title: Jeremiah 19:15
+type: Verse
+kjv: "Thus saith the LORD of hosts, the God of Israel; Behold, I will bring upon this city and upon all her towns all the evil that I have pronounced against it, because they have hardened their necks, that they might not hear my words."
+bsb: "“This is what the LORD of Hosts, the God of Israel, says: ‘Behold, I am about to bring on this city and on all the villages around it every disaster I have pronounced against them, because they have stiffened their necks so as not to heed My words.’”"
+hebrew: "כֹּֽה־ אָמַ֞ר יְהוָ֤ה צְבָאוֹת֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל הִנְנִ֨י מֵבִ֜יא אֶל־ הָעִ֤יר הַזֹּאת֙ וְעַל־ כָּל־ עָרֶ֔יהָ אֵ֚ת כָּל־ הָ֣רָעָ֔ה אֲשֶׁ֥ר דִּבַּ֖רְתִּי עָלֶ֑יהָ כִּ֤י הִקְשׁוּ֙ אֶת־ עָרְפָּ֔ם לְבִלְתִּ֖י שְׁמ֥וֹעַ אֶת־ דְּבָרָֽי׃"
+pericope: "[[Jer.19.1 The Broken Jar|The Broken Jar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 19
+book/chapter: "[[Jer.19|Jeremiah 19]]"
+chronological_order: 736
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H9024]]"
+- "[[H0853]]"
+- "[[H7451C]]"
+- "[[H0834A]]"
+- "[[H1696I]]"
+- "[[H9034]]"
+- "[[H3588A]]"
+- "[[H7185]]"
+- "[[H6203]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H1115]]"
+- "[[H8085G]]"
+- "[[H1697G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Jeremiah 19:15**<big><big>[[Jer.19.1 The Broken Jar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD of hosts, the God of Israel; Behold, I will bring upon this city and upon all her towns all the evil that I have pronounced against it, because they have hardened their necks, that they might not hear my words.
 <small><sub>**BSB:**</sub></small>
 “This is what the LORD of Hosts, the God of Israel, says: ‘Behold, I am about to bring on this city and on all the villages around it every disaster I have pronounced against them, because they have stiffened their necks so as not to heed My words.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֞ר]] [[H3068G\|יְהוָ֤ה]] [[H6635B\|צְבָאוֹת֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H0935P\|מֵבִ֜יא]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֤יר]] [[H9009\|הַ]][[H2063\|זֹּאת֙]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5892B\|עָרֶ֔י]][[H9024\|הָ]] [[H0853\|אֵ֚ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ֣]][[H7451C\|רָעָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H1696I\|דִּבַּ֖רְתִּי]] [[H5921A\|עָלֶ֑י]][[H9034\|הָ]] [[H3588A\|כִּ֤י]] [[H7185\|הִקְשׁוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6203\|עָרְפָּ֔]][[H9028\|ם]] [[H9005\|לְ]][[H1115\|בִלְתִּ֖י]] [[H8085G\|שְׁמ֥וֹעַ]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דְּבָרָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMPENITENCE|IMPENITENCE]] • [[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.19.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.19.14|<< Jeremiah 19:14]]</td><td align="center" style="border:none;">[[Jer.19|Jeremiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.20.1|Jeremiah 20:1 >>]]</td></tr></table>
 

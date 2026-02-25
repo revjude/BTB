@@ -1,8 +1,62 @@
+---
+title: 2 Kings 4:32
+type: Verse
+kjv: "And when Elisha was come into the house, behold, the child was dead, and laid upon his bed."
+bsb: "When Elisha reached the house, there was the boy lying dead on his bed."
+hebrew: "וַיָּבֹ֥א אֱלִישָׁ֖ע הַבָּ֑יְתָה וְהִנֵּ֤ה הַנַּ֙עַר֙ מֵ֔ת מֻשְׁכָּ֖ב עַל־ מִטָּתֽוֹ׃"
+pericope: "[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|Elisha Raises the Shunammite’s Son]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SHUNAMMITE|SHUNAMMITE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0477]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H5288]]"
+- "[[H4191]]"
+- "[[H7901G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4296]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 4:32**<big><big>[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Elisha was come into the house, behold, the child was dead, [and] laid upon his bed.
 <small><sub>**BSB:**</sub></small>
 When Elisha reached the house, there was the boy lying dead on his bed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֥א]] [[H0477\|אֱלִישָׁ֖ע]] [[H9009\|הַ]][[H1004B\|בָּ֑יְתָ]][[H9011\|ה]] [[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H9009\|הַ]][[H5288\|נַּ֙עַר֙]] [[H4191\|מֵ֔ת]] [[H7901G\|מֻשְׁכָּ֖ב]] [[H5921A\|עַל]][[H9014\|־]] [[H4296\|מִטָּתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHILDREN|CHILDREN]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic ELISHA|ELISHA]] • [[topic MIRACLES|MIRACLES]] • [[topic SHUNAMMITE|SHUNAMMITE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.31|<< 2 Kings 4:31]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.33|2 Kings 4:33 >>]]</td></tr></table>
 

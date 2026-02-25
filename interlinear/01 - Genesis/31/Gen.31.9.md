@@ -1,8 +1,56 @@
+---
+title: Genesis 31:9
+type: Verse
+kjv: "Thus God hath taken away the cattle of your father, and given them to me."
+bsb: "Thus God has taken away your father’s livestock and given them to me."
+hebrew: "וַיַּצֵּ֧ל אֱלֹהִ֛ים אֶת־ מִקְנֵ֥ה אֲבִיכֶ֖ם וַיִּתֶּן־ לִֽי׃"
+pericope: "[[Gen.31.1 Jacob Flees from Laban|Jacob Flees from Laban]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic LABAN|LABAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5337]]"
+- "[[H0430G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4735]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 31:9**<big><big>[[Gen.31.1 Jacob Flees from Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus God hath taken away the cattle of your father, and given [them] to me.
 <small><sub>**BSB:**</sub></small>
 Thus God has taken away your father’s livestock and given them to me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5337\|יַּצֵּ֧ל]] [[H0430G\|אֱלֹהִ֛ים]] [[H0853\|אֶת]][[H9014\|־]] [[H4735\|מִקְנֵ֥ה]] [[H0001G\|אֲבִי]][[H9026\|כֶ֖ם]] [[H9001\|וַ]][[H5414G\|יִּתֶּן]][[H9014\|־]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic LABAN|LABAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.8|<< Genesis 31:8]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.10|Genesis 31:10 >>]]</td></tr></table>
 

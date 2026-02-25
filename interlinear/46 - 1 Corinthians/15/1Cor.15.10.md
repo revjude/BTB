@@ -1,10 +1,63 @@
+---
+title: 1 Corinthians 15:10
+type: Verse
+kjv: "But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me."
+bsb: "But by the grace of God I am what I am, and His grace to me was not in vain. No, I worked harder than all of them—yet not I, but the grace of God that was with me."
+greek: "χάριτι δὲ θεοῦ εἰμι ὅ εἰμι, καὶ ἡ χάρις αὐτοῦ ἡ εἰς ἐμὲ οὐ κενὴ ἐγενήθη, ἀλλὰ περισσότερον αὐτῶν πάντων ἐκοπίασα, οὐκ ἐγὼ δέ, ἀλλ᾽ ἡ χάρις τοῦ θεοῦ ἡ σὺν ἐμοί."
+pericope: "[[1Cor.15.1 The Resurrection of Christ|The Resurrection of Christ]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 15
+book/chapter: "[[1Cor.15|1 Corinthians 15]]"
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5485]]"
+- "[[G1161]]"
+- "[[G2316]]"
+- "[[G1510]]"
+- "[[G3739]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G2756]]"
+- "[[G1096]]"
+- "[[G0235]]"
+- "[[G4054]]"
+- "[[G3956]]"
+- "[[G2872]]"
+- "[[G4862]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 15:10**<big><big>[[1Cor.15.1 The Resurrection of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But by the grace of God I am what I am: and his grace which [was bestowed] upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me.
 <small><sub>**BSB:**</sub></small>
 But by the grace of God I am what I am, and His grace to me was not in vain. No, I worked harder than all of them—yet not I, but the grace of God that was with me.
-<small><sub>**Literal:**</sub></small>
-By [the] grace however of God I am what I am, and the grace of Him <the> toward me myself not void has been, Rather more excessive than them all I toiled, not I myself however, but the grace <the> of God that [was] with me myself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.9|<< 1 Corinthians 15:9]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.11|1 Corinthians 15:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5485\|χάριτι]]  [[G1161\|δὲ]]  [[G2316\|θεοῦ]]  [[G1510\|εἰμι]]  [[G3739\|ὅ]]  [[G1510\|εἰμι,]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G5485\|χάρις]]  [[G0846\|αὐτοῦ]]  [[G3588\|ἡ]]  [[G1519\|εἰς]]  [[G1473\|ἐμὲ]]  [[G3756\|οὐ]]  [[G2756\|κενὴ]]  [[G1096\|ἐγενήθη,]]  [[G0235\|ἀλλὰ]]  [[G4054\|περισσότερον]]  [[G0846\|αὐτῶν]]  [[G3956\|πάντων]]  [[G2872\|ἐκοπίασα,]]  [[G3756\|οὐκ]]  [[G1473\|ἐγὼ]]  [[G1161\|δέ,]]  [[G0235\|ἀλλ᾽]]  [[G3588\|ἡ]]  [[G5485\|χάρις]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|ἡ]]  [[G4862\|σὺν]]  [[G1473\|ἐμοί.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic HUMILITY|HUMILITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic REGENERATION|REGENERATION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.9|<< 1 Corinthians 15:9]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.11|1 Corinthians 15:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,54 @@
+---
+title: Job 23:11
+type: Verse
+kjv: "My foot hath held his steps, his way have I kept, and not declined."
+bsb: "My feet have followed in His tracks; I have kept His way without turning aside."
+hebrew: "בַּ֭אֲשֻׁרוֹ אָחֲזָ֣ה רַגְלִ֑י דַּרְכּ֖וֹ שָׁמַ֣רְתִּי וְלֹא־ אָֽט׃"
+pericope: "[[Job.23.1 Job Longs for God|Job Longs for God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 23
+book/chapter: "[[Job.23|Job 23]]"
+chronological_order: 34
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DECISION|DECISION]]"
+strongs:
+- "[[H9003]]"
+- "[[H0838A]]"
+- "[[H9023]]"
+- "[[H0270]]"
+- "[[H7272]]"
+- "[[H9020]]"
+- "[[H1870G]]"
+- "[[H8104G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5186]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 23:11**<big><big>[[Job.23.1 Job Longs for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My foot hath held his steps, his way have I kept, and not declined.
 <small><sub>**BSB:**</sub></small>
 My feet have followed in His tracks; I have kept His way without turning aside.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ֭]][[H0838A\|אֲשֻׁר]][[H9023\|וֹ]] [[H0270\|אָחֲזָ֣ה]] [[H7272\|רַגְלִ֑]][[H9020\|י]] [[H1870G\|דַּרְכּ֖]][[H9023\|וֹ]] [[H8104G\|שָׁמַ֣רְתִּי]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H5186\|אָֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.23.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.23.10|<< Job 23:10]]</td><td align="center" style="border:none;">[[Job.23|Job 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.23.12|Job 23:12 >>]]</td></tr></table>
 

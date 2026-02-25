@@ -1,10 +1,64 @@
+---
+title: 1 John 5:10
+type: Verse
+kjv: "He that believeth on the Son of God hath the witness in himself: he that believeth not God hath made him a liar; because he believeth not the record that God gave of his Son."
+bsb: "Whoever believes in the Son of God has this testimony within him; whoever does not believe God has made Him out to be a liar, because he has not believed in the testimony that God has given about His Son."
+greek: "ὁ πιστεύων εἰς τὸν υἱὸν τοῦ θεοῦ ἔχει τὴν μαρτυρίαν ἐν ἑαυτῷ· ὁ μὴ πιστεύων τῷ θεῷ ψεύστην πεποίηκεν αὐτόν, ὅτι οὐ πεπίστευκεν εἰς τὴν μαρτυρίαν ἣν μεμαρτύρηκεν ὁ θεὸς περὶ τοῦ υἱοῦ αὐτοῦ."
+pericope: "[[1John.5.9 God’s Testimony about His Son|God’s Testimony about His Son]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 5
+book/chapter: "[[1John.5|1 John 5]]"
+chronological_order: 1165
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic TRUTH|TRUTH]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G3588]]"
+- "[[G4100]]"
+- "[[G1519]]"
+- "[[G5207]]"
+- "[[G2316]]"
+- "[[G2192]]"
+- "[[G3141]]"
+- "[[G1722]]"
+- "[[G1438]]"
+- "[[G3361]]"
+- "[[G5583]]"
+- "[[G4160G]]"
+- "[[G0846]]"
+- "[[G3754H]]"
+- "[[G3756]]"
+- "[[G3739]]"
+- "[[G3140]]"
+- "[[G4012]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **1 John 5:10**<big><big>[[1John.5.9 God’s Testimony about His Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He that believeth on the Son of God hath the witness in himself: he that believeth not God hath made him a liar; because he believeth not the record that God gave of his Son.
 <small><sub>**BSB:**</sub></small>
 Whoever believes in the Son of God has this testimony within him; whoever does not believe God has made Him out to be a liar, because he has not believed in the testimony that God has given about His Son.
-<small><sub>**Literal:**</sub></small>
-The [one] believing in the Son <the> of God has the testimony in himself; The [one] not believing <the> in God a liar has made Him, because not he has believed in the testimony that has testified <the> God concerning the Son Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.9|<< 1 John 5:9]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.11|1 John 5:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G4100\|πιστεύων]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2192\|ἔχει]]  [[G3588\|τὴν]]  [[G3141\|μαρτυρίαν]]  [[G1722\|ἐν]]  [[G1438\|ἑαυτῷ·]]  [[G3588\|ὁ]]  [[G3361\|μὴ]]  [[G4100\|πιστεύων]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G5583\|ψεύστην]]  [[G4160G\|πεποίηκεν]]  [[G0846\|αὐτόν,]]  [[G3754H\|ὅτι]]  [[G3756\|οὐ]]  [[G4100\|πεπίστευκεν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3141\|μαρτυρίαν]]  [[G3739\|ἣν]]  [[G3140\|μεμαρτύρηκεν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G5207\|υἱοῦ]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic TRUTH|TRUTH]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.9|<< 1 John 5:9]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.11|1 John 5:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,52 @@
+---
+title: Proverbs 16:30
+type: Verse
+kjv: "He shutteth his eyes to devise froward things: moving his lips he bringeth evil to pass."
+bsb: "He who winks his eye devises perversity; he who purses his lips is bent on evil."
+hebrew: "עֹצֶ֣ה עֵ֭ינָיו לַחְשֹׁ֣ב תַּהְפֻּכ֑וֹת קֹרֵ֥ץ שְׂ֝פָתָ֗יו כִּלָּ֥ה רָעָֽה׃"
+pericope: "[[Prov.16.1 The Reply of the Tongue Is from the LORD|The Reply of the Tongue Is from the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 16
+book/chapter: "[[Prov.16|Proverbs 16]]"
+chronological_order: 471
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic MALICE|MALICE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H6095]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H2803I]]"
+- "[[H8419]]"
+- "[[H7169]]"
+- "[[H8193G]]"
+- "[[H3615I]]"
+- "[[H7451I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 16:30**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shutteth his eyes to devise froward things: moving his lips he bringeth evil to pass.
 <small><sub>**BSB:**</sub></small>
 He who winks his eye devises perversity; he who purses his lips is bent on evil.
+<small><sub>**Hebrew:**</sub></small>
+[[H6095\|עֹצֶ֣ה]] [[H5869A\|עֵ֭ינָי]][[H9023\|ו]] [[H9005\|לַ]][[H2803I\|חְשֹׁ֣ב]] [[H8419\|תַּהְפֻּכ֑וֹת]] [[H7169\|קֹרֵ֥ץ]] [[H8193G\|שְׂ֝פָתָ֗י]][[H9023\|ו]] [[H3615I\|כִּלָּ֥ה]] [[H7451I\|רָעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MALICE|MALICE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.16.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.29|<< Proverbs 16:29]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.31|Proverbs 16:31 >>]]</td></tr></table>
 

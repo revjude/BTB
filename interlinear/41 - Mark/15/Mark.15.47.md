@@ -1,10 +1,55 @@
+---
+title: Mark 15:47
+type: Verse
+kjv: "And Mary Magdalene and Mary the mother of Joses beheld where he was laid."
+bsb: "Mary Magdalene and Mary the mother of Joseph saw where His body was placed."
+greek: "ἡ δὲ Μαρία ἡ Μαγδαληνὴ καὶ Μαρία ἡ Ἰωσῆτος ἐθεώρουν ποῦ τέθειται.¶"
+pericope: "[[Mark.15.42 The Burial of Jesus|The Burial of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 15
+book/chapter: "[[Mark.15|Mark 15]]"
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic JOSES|JOSES]]"
+- "[[topic MARY|MARY]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3137I]]"
+- "[[G3094]]"
+- "[[G2532]]"
+- "[[G3137G]]"
+- "[[G2500G]]"
+- "[[G2334]]"
+- "[[G4226]]"
+- "[[G5087]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 15:47**<big><big>[[Mark.15.42 The Burial of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Mary Magdalene and Mary [the mother] of Joses beheld where he was laid.
 <small><sub>**BSB:**</sub></small>
 Mary Magdalene and Mary the mother of Joseph saw where His body was placed.
-<small><sub>**Literal:**</sub></small>
-<the> And Mary <the> Magdalene and Mary the [mother] of Joses were watching where He has been laid.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.46|<< Mark 15:46]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.1|Mark 16:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G1161\|δὲ]]  [[G3137I\|Μαρία]]  [[G3588\|ἡ]]  [[G3094\|Μαγδαληνὴ]]  [[G2532\|καὶ]]  [[G3137G\|Μαρία]]  [[G3588\|ἡ]]  [[G2500G\|Ἰωσῆτος]]  [[G2334\|ἐθεώρουν]]  [[G4226\|ποῦ]]  [[G5087\|τέθειται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic JOSES|JOSES]] • [[topic MARY|MARY]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.46|<< Mark 15:46]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.1|Mark 16:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,66 @@
+---
+title: 1 Kings 16:33
+type: Verse
+kjv: "And Ahab made a grove; and Ahab did more to provoke the LORD God of Israel to anger than all the kings of Israel that were before him."
+bsb: "Then he set up an Asherah pole. Thus Ahab did more to provoke the LORD, the God of Israel, to anger than all the kings of Israel before him."
+hebrew: "וַיַּ֥עַשׂ אַחְאָ֖ב אֶת־ הָאֲשֵׁרָ֑ה וַיּ֨וֹסֶף אַחְאָ֜ב לַעֲשׂ֗וֹת לְהַכְעִיס֙ אֶת־ יְהֹוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל מִכֹּ֨ל מַלְכֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁ֥ר הָי֖וּ לְפָנָֽיו׃"
+pericope: "[[1Kgs.16.29 Ahab Reigns in Israel, Marries Jezebel|Ahab Reigns in Israel, Marries Jezebel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 16
+book/chapter: "[[1Kgs.16|1 Kings 16]]"
+chronological_order: 555
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic BAAL|BAAL]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0256G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0842]]"
+- "[[H3254H]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H3707]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H4428G]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 16:33**<big><big>[[1Kgs.16.29 Ahab Reigns in Israel, Marries Jezebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ahab made a grove; and Ahab did more to provoke the LORD God of Israel to anger than all the kings of Israel that were before him.
 <small><sub>**BSB:**</sub></small>
 Then he set up an Asherah pole. Thus Ahab did more to provoke the LORD, the God of Israel, to anger than all the kings of Israel before him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֥עַשׂ]] [[H0256G\|אַחְאָ֖ב]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0842\|אֲשֵׁרָ֑ה]] [[H9001\|וַ]][[H3254H\|יּ֨וֹסֶף]] [[H0256G\|אַחְאָ֜ב]] [[H9005\|לַ]][[H6213A\|עֲשׂ֗וֹת]] [[H9005\|לְ]][[H3707\|הַכְעִיס֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהֹוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9006\|מִ]][[H3605\|כֹּ֨ל]] [[H4428G\|מַלְכֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0834A\|אֲשֶׁ֥ר]] [[H1961\|הָי֖וּ]] [[H9005\|לְ]][[H6440G\|פָנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic BAAL|BAAL]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.16.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.32|<< 1 Kings 16:32]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.34|1 Kings 16:34 >>]]</td></tr></table>
 

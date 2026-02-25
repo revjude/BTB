@@ -1,8 +1,59 @@
+---
+title: 1 Samuel 17:11
+type: Verse
+kjv: "When Saul and all Israel heard those words of the Philistine, they were dismayed, and greatly afraid."
+bsb: "On hearing the words of the Philistine, Saul and all the Israelites were dismayed and greatly afraid."
+hebrew: "וַיִּשְׁמַ֤ע שָׁאוּל֙ וְכָל־ יִשְׂרָאֵ֔ל אֶת־ דִּבְרֵ֥י הַפְּלִשְׁתִּ֖י הָאֵ֑לֶּה וַיֵּחַ֥תּוּ וַיִּֽרְא֖וּ מְאֹֽד׃ פ"
+pericope: "[[1Sam.17.1 Goliath’s Challenge|Goliath’s Challenge]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHAMPIONSHIP|CHAMPIONSHIP]]"
+- "[[topic DOUBTING|DOUBTING]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H7586G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H9009]]"
+- "[[H6430G]]"
+- "[[H0428]]"
+- "[[H2865]]"
+- "[[H3372G]]"
+- "[[H3966]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Samuel 17:11**<big><big>[[1Sam.17.1 Goliath’s Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When Saul and all Israel heard those words of the Philistine, they were dismayed, and greatly afraid.
 <small><sub>**BSB:**</sub></small>
 On hearing the words of the Philistine, Saul and all the Israelites were dismayed and greatly afraid.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֤ע]] [[H7586G\|שָׁאוּל֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דִּבְרֵ֥י]] [[H9009\|הַ]][[H6430G\|פְּלִשְׁתִּ֖י]] [[H9009\|הָ]][[H0428\|אֵ֑לֶּה]] [[H9001\|וַ]][[H2865\|יֵּחַ֥תּוּ]] [[H9001\|וַ]][[H3372G\|יִּֽרְא֖וּ]] [[H3966\|מְאֹֽד]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CHAMPIONSHIP|CHAMPIONSHIP]] • [[topic DOUBTING|DOUBTING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.10|<< 1 Samuel 17:10]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.12|1 Samuel 17:12 >>]]</td></tr></table>
 
@@ -18,7 +69,7 @@ On hearing the words of the Philistine, Saul and all the Israelites were dismaye
 | \<the> these  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0428\|אֵ֑לֶּה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they were dismayed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2865\|יֵּחַ֥תּוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Cha.tu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they were afraid  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3372G\|יִּֽרְא֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| exceedingly  |**<big>&#8207;[[H3966\|מְאֹֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| exceedingly  |**<big>&#8207;[[H3966\|מְאֹֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.10|<< 1 Samuel 17:10]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.12|1 Samuel 17:12 >>]]</td></tr></table>
 
 

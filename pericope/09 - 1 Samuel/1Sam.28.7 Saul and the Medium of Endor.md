@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saul and the Medium of Endor
+type: Pericope
 pericope: "[[1Sam.28.7 Saul and the Medium of Endor|Saul and the Medium of Endor]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 28
 book/chapter: "[[1Sam.28|1 Samuel 28]]"
-genre:
+chronological_order: 307
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 19
 verses:
 - "[[1Sam.28.7]]"
 - "[[1Sam.28.8]]"
@@ -37,7 +44,7 @@ verses:
 - "[[1Sam.28.25]]"
 ---
 
-[[1Sam.28|1 Samuel 28:7 - 1 Samuel 28:25]]
+<small>[[1Sam.28|1 Samuel 28:7-25]]</small>
 *Saul and the Medium of Endor*
 
 [[1Sam.28.7|7]] Then said Saul unto his servants, Seek me a woman that hath a familiar spirit, that I may go to her, and inquire of her. And his servants said to him, Behold, \[there is\] a woman that hath a familiar spirit at Endor.

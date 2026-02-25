@@ -1,7 +1,7 @@
 
 **PHYSIOLOGY**
 
-→ General scriptures concerning [[Job.10.11|Job 10:11]]; [[Ps.139.14|Ps 139:14]]-[[Ps.139.16|16]]; [[Prov.14.30|Pr 14:30]]
+→ General scriptures concerning [[Job.10.11|Job 10:11]]; [[Ps.139.14|Ps 139:14-16]]; [[Prov.14.30|Pr 14:30]]
 
 → See [[topic ANATOMY|ANATOMY]]
 

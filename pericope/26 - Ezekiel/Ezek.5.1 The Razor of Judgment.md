@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Razor of Judgment
+type: Pericope
 pericope: "[[Ezek.5.1 The Razor of Judgment|The Razor of Judgment]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 5
 book/chapter: "[[Ezek.5|Ezekiel 5]]"
-genre:
+chronological_order: 796
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 10
 verses:
 - "[[Ezek.5.1]]"
 - "[[Ezek.5.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Ezek.5.10]]"
 ---
 
-[[Ezek.5|Ezekiel 5:1 - Ezekiel 5:10]]
+<small>[[Ezek.5|Ezekiel 5:1-10]]</small>
 *The Razor of Judgment*
 
 [[Ezek.5.1|1]] And thou, son of man, take thee a sharp knife, take thee a barber’s rasor, and cause \[it\] to pass upon thine head and upon thy beard: then take thee balances to weigh, and divide the \[hair\].

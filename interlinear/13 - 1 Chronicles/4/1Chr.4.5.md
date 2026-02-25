@@ -1,8 +1,55 @@
+---
+title: 1 Chronicles 4:5
+type: Verse
+kjv: "And Ashur the father of Tekoa had two wives, Helah and Naarah."
+bsb: "Ashhur the father of Tekoa had two wives, Helah and Naarah."
+hebrew: "וּלְאַשְׁחוּר֙ אֲבִ֣י תְק֔וֹעַ הָי֖וּ שְׁתֵּ֣י נָשִׁ֑ים חֶלְאָ֖ה וְנַעֲרָֽה׃"
+pericope: "[[1Chr.4.1 The Descendants of Judah|The Descendants of Judah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 4
+book/chapter: "[[1Chr.4|1 Chronicles 4]]"
+chronological_order: 323
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ASHUR|ASHUR]]"
+- "[[topic HELAH|HELAH]]"
+- "[[topic NAARAH|NAARAH]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic TEKOA|TEKOA]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H0806]]"
+- "[[H0001G]]"
+- "[[H8620]]"
+- "[[H1961]]"
+- "[[H8147]]"
+- "[[H0802H]]"
+- "[[H2458]]"
+- "[[H5292B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 4:5**<big><big>[[1Chr.4.1 The Descendants of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ashur the father of Tekoa had two wives, Helah and Naarah.
 <small><sub>**BSB:**</sub></small>
 Ashhur the father of Tekoa had two wives, Helah and Naarah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H0806\|אַשְׁחוּר֙]] [[H0001G\|אֲבִ֣י]] [[H8620\|תְק֔וֹעַ]] [[H1961\|הָי֖וּ]] [[H8147\|שְׁתֵּ֣י]] [[H0802H\|נָשִׁ֑ים]] [[H2458\|חֶלְאָ֖ה]] [[H9002\|וְ]][[H5292B\|נַעֲרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHUR|ASHUR]] • [[topic HELAH|HELAH]] • [[topic NAARAH|NAARAH]] • [[topic POLYGAMY|POLYGAMY]] • [[topic TEKOA|TEKOA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.4|<< 1 Chronicles 4:4]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.6|1 Chronicles 4:6 >>]]</td></tr></table>
 

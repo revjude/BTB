@@ -1,8 +1,58 @@
+---
+title: Daniel 11:37
+type: Verse
+kjv: "Neither shall he regard the God of his fathers, nor the desire of women, nor regard any god: for he shall magnify himself above all."
+bsb: "He will show no regard for the gods of his fathers, nor for the one desired by women, nor for any other god, because he will magnify himself above them all."
+hebrew: "וְעַל־ אֱלֹהֵ֤י אֲבֹתָיו֙ לֹ֣א יָבִ֔ין וְעַל־ חֶמְדַּ֥ת נָשִׁ֛ים וְעַֽל־ כָּל־ אֱל֖וֹהַּ לֹ֣א יָבִ֑ין כִּ֥י עַל־ כֹּ֖ל יִתְגַּדָּֽל׃"
+pericope: "[[Dan.11.36 The King Who Exalts Himself|The King Who Exalts Himself]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0430]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H0995]]"
+- "[[H2532A]]"
+- "[[H0802G]]"
+- "[[H3605]]"
+- "[[H0433]]"
+- "[[H3588A]]"
+- "[[H1431]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 11:37**<big><big>[[Dan.11.36 The King Who Exalts Himself|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shall he regard the God of his fathers, nor the desire of women, nor regard any god: for he shall magnify himself above all.
 <small><sub>**BSB:**</sub></small>
 He will show no regard for the gods of his fathers, nor for the one desired by women, nor for any other god, because he will magnify himself above them all.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H0430\|אֱלֹהֵ֤י]] [[H0001G\|אֲבֹתָי]][[H9023\|ו֙]] [[H3808\|לֹ֣א]] [[H0995\|יָבִ֔ין]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H2532A\|חֶמְדַּ֥ת]] [[H0802G\|נָשִׁ֛ים]] [[H9002\|וְ]][[H5921A\|עַֽל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0433\|אֱל֖וֹהַּ]] [[H3808\|לֹ֣א]] [[H0995\|יָבִ֑ין]] [[H3588A\|כִּ֥י]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כֹּ֖ל]] [[H1431\|יִתְגַּדָּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic INFIDELITY|INFIDELITY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.36|<< Daniel 11:36]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.38|Daniel 11:38 >>]]</td></tr></table>
 

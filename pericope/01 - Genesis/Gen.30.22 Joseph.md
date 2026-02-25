@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joseph
+type: Pericope
 pericope: "[[Gen.30.22 Joseph|Joseph]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 30
 book/chapter: "[[Gen.30|Genesis 30]]"
-genre:
+chronological_order: 72
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,13 +24,14 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 3
 verses:
 - "[[Gen.30.22]]"
 - "[[Gen.30.23]]"
 - "[[Gen.30.24]]"
 ---
 
-[[Gen.30|Genesis 30:22 - Genesis 30:24]]
+<small>[[Gen.30|Genesis 30:22-24]]</small>
 *Joseph*
 
 [[Gen.30.22|22]] And God remembered Rachel, and God hearkened to her, and opened her womb.

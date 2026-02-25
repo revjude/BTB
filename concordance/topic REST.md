@@ -13,7 +13,7 @@
 
 → HEAVENLY [[2Thess.1.7|2Th 1:7]]
 
-→ SPIRITUAL [[Matt.11.29|Mt 11:29]]; [[Heb.4.1|Heb  4:1]]-[[Heb.4.11|11]]
+→ SPIRITUAL [[Matt.11.29|Mt 11:29]]; [[Heb.4.1|Heb  4:1-11]]
 
 - See [[topic PEACE|PEACE, SPIRITUAL]]
 

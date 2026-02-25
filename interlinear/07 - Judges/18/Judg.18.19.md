@@ -1,8 +1,74 @@
+---
+title: Judges 18:19
+type: Verse
+kjv: "And they said unto him, Hold thy peace, lay thine hand upon thy mouth, and go with us, and be to us a father and a priest: is it better for thee to be a priest unto the house of one man, or that thou be a priest unto a tribe and a family in Israel?"
+bsb: "“Be quiet,” they told him. “Put your hand over your mouth and come with us and be a father and a priest to us. Is it better for you to be a priest for the house of one person or a priest for a tribe and family in Israel?”"
+hebrew: "וַיֹּאמְרוּ֩ ל֨וֹ הַחֲרֵ֜שׁ שִֽׂים־ יָדְךָ֤ עַל־ פִּ֙יךָ֙ וְלֵ֣ךְ עִמָּ֔נוּ וֶֽהְיֵה־ לָ֖נוּ לְאָ֣ב וּלְכֹהֵ֑ן הֲט֣וֹב׀ הֱיוֹתְךָ֣ כֹהֵ֗ן לְבֵית֙ אִ֣ישׁ אֶחָ֔ד א֚וֹ הֱיוֹתְךָ֣ כֹהֵ֔ן לְשֵׁ֥בֶט וּלְמִשְׁפָּחָ֖ה בְּיִשְׂרָאֵֽל׃"
+pericope: "[[Judg.18.14 The Danites Take Micah’s Idols|The Danites Take Micah’s Idols]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 18
+book/chapter: "[[Judg.18|Judges 18]]"
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic TERAPHIM|TERAPHIM]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H2790B]]"
+- "[[H7760H]]"
+- "[[H9014]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H6310G]]"
+- "[[H9002]]"
+- "[[H1980H]]"
+- "[[H5973A]]"
+- "[[H9035]]"
+- "[[H1961]]"
+- "[[H0001G]]"
+- "[[H3548]]"
+- "[[H9008]]"
+- "[[H2896A]]"
+- "[[H9015]]"
+- "[[H9041]]"
+- "[[H1004B]]"
+- "[[H0376G]]"
+- "[[H0259]]"
+- "[[H0176A]]"
+- "[[H7626H]]"
+- "[[H4940]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 18:19**<big><big>[[Judg.18.14 The Danites Take Micah’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said unto him, Hold thy peace, lay thine hand upon thy mouth, and go with us, and be to us a father and a priest: [is it] better for thee to be a priest unto the house of one man, or that thou be a priest unto a tribe and a family in Israel?
 <small><sub>**BSB:**</sub></small>
 “Be quiet,” they told him. “Put your hand over your mouth and come with us and be a father and a priest to us. Is it better for you to be a priest for the house of one person or a priest for a tribe and family in Israel?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְרוּ֩]] [[H9005\|ל֨]][[H9033\|וֹ]] [[H2790B\|הַחֲרֵ֜שׁ]] [[H7760H\|שִֽׂים]][[H9014\|־]] [[H3027G\|יָדְ]][[H9021\|ךָ֤]] [[H5921A\|עַל]][[H9014\|־]] [[H6310G\|פִּ֙י]][[H9021\|ךָ֙]] [[H9002\|וְ]][[H1980H\|לֵ֣ךְ]] [[H5973A\|עִמָּ֔]][[H9035\|נוּ]] [[H9002\|וֶֽ]][[H1961\|הְיֵה]][[H9014\|־]] [[H9005\|לָ֖]][[H9035\|נוּ]] [[H9005\|לְ]][[H0001G\|אָ֣ב]] [[H9002\|וּ]][[H9005\|לְ]][[H3548\|כֹהֵ֑ן]] [[H9008\|הֲ]][[H2896A\|ט֣וֹב]][[H9015\|׀]] [[H1961\|הֱיוֹתְ]][[H9041\|ךָ֣]] [[H3548\|כֹהֵ֗ן]] [[H9005\|לְ]][[H1004B\|בֵית֙]] [[H0376G\|אִ֣ישׁ]] [[H0259\|אֶחָ֔ד]] [[H0176A\|א֚וֹ]] [[H1961\|הֱיוֹתְ]][[H9041\|ךָ֣]] [[H3548\|כֹהֵ֔ן]] [[H9005\|לְ]][[H7626H\|שֵׁ֥בֶט]] [[H9002\|וּ]][[H9005\|לְ]][[H4940\|מִשְׁפָּחָ֖ה]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISHONESTY|DISHONESTY]] • [[topic JONATHAN|JONATHAN]] • [[topic TERAPHIM|TERAPHIM]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.18|<< Judges 18:18]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.20|Judges 18:20 >>]]</td></tr></table>
 

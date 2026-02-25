@@ -1,8 +1,54 @@
+---
+title: 2 Kings 4:11
+type: Verse
+kjv: "And it fell on a day, that he came thither, and he turned into the chamber, and lay there."
+bsb: "One day Elisha came to visit and went to his upper room to lie down."
+hebrew: "וַיְהִ֥י הַיּ֖וֹם וַיָּ֣בֹא שָׁ֑מָּה וַיָּ֥סַר אֶל־ הָעֲלִיָּ֖ה וַיִּשְׁכַּב־ שָֽׁמָּה׃"
+pericope: "[[2Kgs.4.8 The Shunammite Woman|The Shunammite Woman]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic SHUNAMMITE|SHUNAMMITE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0935G]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H5493I]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5944]]"
+- "[[H7901G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 4:11**<big><big>[[2Kgs.4.8 The Shunammite Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it fell on a day, that he came thither, and he turned into the chamber, and lay there.
 <small><sub>**BSB:**</sub></small>
 One day Elisha came to visit and went to his upper room to lie down.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֥י]] [[H9009\|הַ]][[H3117G\|יּ֖וֹם]] [[H9001\|וַ]][[H0935G\|יָּ֣בֹא]] [[H8033G\|שָׁ֑מָּ]][[H9011\|ה]] [[H9001\|וַ]][[H5493I\|יָּ֥סַר]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5944\|עֲלִיָּ֖ה]] [[H9001\|וַ]][[H7901G\|יִּשְׁכַּב]][[H9014\|־]] [[H8033G\|שָֽׁמָּ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHUNAMMITE|SHUNAMMITE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.10|<< 2 Kings 4:10]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.12|2 Kings 4:12 >>]]</td></tr></table>
 

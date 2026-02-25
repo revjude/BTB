@@ -1,8 +1,65 @@
+---
+title: Jeremiah 13:23
+type: Verse
+kjv: "Can the Ethiopian change his skin, or the leopard his spots? then may ye also do good, that are accustomed to do evil."
+bsb: "Can the Ethiopian change his skin, or the leopard his spots? Neither are you able to do good—you who are accustomed to doing evil."
+hebrew: "הֲיַהֲפֹ֤ךְ כּוּשִׁי֙ עוֹר֔וֹ וְנָמֵ֖ר חֲבַרְבֻּרֹתָ֑יו גַּם־ אַתֶּם֙ תּוּכְל֣וּ לְהֵיטִ֔יב לִמֻּדֵ֖י הָרֵֽעַ׃"
+pericope: "[[Jer.13.15 Captivity Threatened|Captivity Threatened]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 13
+book/chapter: "[[Jer.13|Jeremiah 13]]"
+chronological_order: 730
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LEOPARD|LEOPARD]]"
+- "[[topic REGENERATION|REGENERATION]]"
+strongs:
+- "[[H9008]]"
+- "[[H2015]]"
+- "[[H3569G]]"
+- "[[H5785]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H5246]]"
+- "[[H2272]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0859D]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H3190]]"
+- "[[H3928]]"
+- "[[H7489A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 13:23**<big><big>[[Jer.13.15 Captivity Threatened|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Can the Ethiopian change his skin, or the leopard his spots? [then] may ye also do good, that are accustomed to do evil.
 <small><sub>**BSB:**</sub></small>
 Can the Ethiopian change his skin, or the leopard his spots? Neither are you able to do good—you who are accustomed to doing evil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H2015\|יַהֲפֹ֤ךְ]] [[H3569G\|כּוּשִׁי֙]] [[H5785\|עוֹר֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H5246\|נָמֵ֖ר]] [[H2272\|חֲבַרְבֻּרֹתָ֑י]][[H9023\|ו]] [[H1571\|גַּם]][[H9014\|־]] [[H0859D\|אַתֶּם֙]] [[H3201\|תּוּכְל֣וּ]] [[H9005\|לְ]][[H3190\|הֵיטִ֔יב]] [[H3928\|לִמֻּדֵ֖י]] [[H7489A\|הָרֵֽעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic ETHIOPIA|ETHIOPIA]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LEOPARD|LEOPARD]] • [[topic REGENERATION|REGENERATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.13.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.22|<< Jeremiah 13:22]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.13.24|Jeremiah 13:24 >>]]</td></tr></table>
 

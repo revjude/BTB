@@ -1,8 +1,58 @@
+---
+title: Psalm 119:75
+type: Verse
+kjv: "I know, O LORD, that thy judgments are right, and that thou in faithfulness hast afflicted me."
+bsb: "I know, O LORD, that Your judgments are righteous, and that in faithfulness You have afflicted me."
+hebrew: "יָדַ֣עְתִּי יְ֭הוָה כִּי־ צֶ֣דֶק מִשְׁפָּטֶ֑יךָ וֶ֝אֱמוּנָ֗ה עִנִּיתָֽנִי׃"
+pericope: "[[Ps.119.73 Your Word Is a Lamp to My Feet - JOD|Your Word Is a Lamp to My Feet - JOD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+strongs:
+- "[[H3045]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6664G]]"
+- "[[H4941G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H0530]]"
+- "[[H6031B]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:75**<big><big>[[Ps.119.73 Your Word Is a Lamp to My Feet - JOD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I know, O LORD, that thy judgments [are] right, and [that] thou in faithfulness hast afflicted me.
 <small><sub>**BSB:**</sub></small>
 I know, O LORD, that Your judgments are righteous, and that in faithfulness You have afflicted me.
+<small><sub>**Hebrew:**</sub></small>
+[[H3045\|יָדַ֣עְתִּי]] [[H3068G\|יְ֭הוָה]] [[H3588A\|כִּי]][[H9014\|־]] [[H6664G\|צֶ֣דֶק]] [[H4941G\|מִשְׁפָּטֶ֑י]][[H9021\|ךָ]] [[H9002\|וֶ֝]][[H0530\|אֱמוּנָ֗ה]] [[H6031B\|עִנִּיתָֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic RESIGNATION|RESIGNATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.75|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.74|<< Psalms 119:74]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.76|Psalms 119:76 >>]]</td></tr></table>
 

@@ -1,8 +1,78 @@
+---
+title: Leviticus 22:18
+type: Verse
+kjv: "Speak unto Aaron, and to his sons, and unto all the children of Israel, and say unto them, Whatsoever he be of the house of Israel, or of the strangers in Israel, that will offer his oblation for all his vows, and for all his freewill offerings, which they will offer unto the LORD for a burnt offering;"
+bsb: "“Speak to Aaron and his sons and all the Israelites and tell them, ‘Any man of the house of Israel or any foreign resident who presents a gift for a burnt offering to the LORD, whether to fulfill a vow or as a freewill offering,"
+hebrew: "דַּבֵּ֨ר אֶֽל־ אַהֲרֹ֜ן וְאֶל־ בָּנָ֗יו וְאֶל֙ כָּל־ בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם אִ֣ישׁ אִישׁ֩ מִבֵּ֨ית יִשְׂרָאֵ֜ל וּמִן־ הַגֵּ֣ר בְּיִשְׂרָאֵ֗ל אֲשֶׁ֨ר יַקְרִ֤יב קָרְבָּנוֹ֙ לְכָל־ נִדְרֵיהֶם֙ וּלְכָל־ נִדְבוֹתָ֔ם אֲשֶׁר־ יַקְרִ֥יבוּ לַיהוָ֖ה לְעֹלָֽה׃"
+pericope: "[[Lev.22.17 Worthy Offerings|Worthy Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 22
+book/chapter: "[[Lev.22|Leviticus 22]]"
+chronological_order: 154
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEDICATION|DEDICATION]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic STRANGERS|STRANGERS]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H3605]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9038]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H1004M]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H1616]]"
+- "[[H9003]]"
+- "[[H0834A]]"
+- "[[H7126H]]"
+- "[[H7133A]]"
+- "[[H9005]]"
+- "[[H5088]]"
+- "[[H9028]]"
+- "[[H5071]]"
+- "[[H3068G]]"
+- "[[H5930A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 22:18**<big><big>[[Lev.22.17 Worthy Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto Aaron, and to his sons, and unto all the children of Israel, and say unto them, Whatsoever [he be] of the house of Israel, or of the strangers in Israel, that will offer his oblation for all his vows, and for all his freewill offerings, which they will offer unto the LORD for a burnt offering;
 <small><sub>**BSB:**</sub></small>
 “Speak to Aaron and his sons and all the Israelites and tell them, ‘Any man of the house of Israel or any foreign resident who presents a gift for a burnt offering to the LORD, whether to fulfill a vow or as a freewill offering,
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבֵּ֨ר]] [[H0413\|אֶֽל]][[H9014\|־]] [[H0175\|אַהֲרֹ֜ן]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H1121A\|בָּנָ֗י]][[H9023\|ו]] [[H9002\|וְ]][[H0413\|אֶל֙]] [[H3605\|כָּל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֖]] [[H0413\|אֲלֵ]][[H9038\|הֶ֑ם]] [[H0376G\|אִ֣ישׁ]] [[H0376G\|אִישׁ֩]] [[H9006\|מִ]][[H1004M\|בֵּ֨ית]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1616\|גֵּ֣ר]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֗ל]] [[H0834A\|אֲשֶׁ֨ר]] [[H7126H\|יַקְרִ֤יב]] [[H7133A\|קָרְבָּנ]][[H9023\|וֹ֙]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H5088\|נִדְרֵי]][[H9028\|הֶם֙]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H5071\|נִדְבוֹתָ֔]][[H9028\|ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7126H\|יַקְרִ֥יבוּ]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H9005\|לְ]][[H5930A\|עֹלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEDICATION|DEDICATION]] • [[topic OFFERINGS|OFFERINGS]] • [[topic STRANGERS|STRANGERS]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.17|<< Leviticus 22:17]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.19|Leviticus 22:19 >>]]</td></tr></table>
 

@@ -1,10 +1,71 @@
+---
+title: Revelation 2:22
+type: Verse
+kjv: "Behold, I will cast her into a bed, and them that commit adultery with her into great tribulation, except they repent of their deeds."
+bsb: "Behold, I will cast her onto a bed of sickness, and those who commit adultery with her will suffer great tribulation unless they repent of her deeds."
+jesus_said: "Behold, I will cast her into a bed, and them that commit adultery with her into great tribulation, except they repent of their deeds."
+greek: "ἰδοὺ ἐγὼ βάλλω αὐτὴν εἰς κλίνην καὶ τοὺς μοιχεύοντας μετ᾽ αὐτῆς εἰς θλῖψιν μεγάλην, ἐὰν μὴ μετανοήσωσιν ἐκ τῶν ἔργων αὐτῆς."
+pericope: "[[Rev.2.18 To the Church in Thyatira|To the Church in Thyatira]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 2
+book/chapter: "[[Rev.2|Revelation 2]]"
+chronological_order: 1169
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic LUKEWARMNESS|LUKEWARMNESS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2400]]"
+- "[[G1473]]"
+- "[[G0906G]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G2825]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3431]]"
+- "[[G3326]]"
+- "[[G2347]]"
+- "[[G3173]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G3340]]"
+- "[[G1537]]"
+- "[[G2041]]"
+texts:
+- NKO
+- k
+- NK(o)
+- N(K)O
+---
+
 **Revelation 2:22**<big><big>[[Rev.2.18 To the Church in Thyatira|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Behold, I will cast her into a bed, and them that commit adultery with her into great tribulation, except they repent of their deeds.
 <small><sub>**BSB:**</sub></small>
 Behold, I will cast her onto a bed of sickness, and those who commit adultery with her will suffer great tribulation unless they repent of her deeds.
-<small><sub>**Literal:**</sub></small>
-Behold I myself I cast her into a sickbed and those committing adultery with her into tribulation great, only unless they shall repent of the deeds of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.21|<< Revelation 2:21]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.23|Revelation 2:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2400\|ἰδοὺ]]  [[G1473\|ἐγὼ]]  [[G0906G\|βάλλω]]  [[G0846\|αὐτὴν]]  [[G1519\|εἰς]]  [[G2825\|κλίνην]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G3431\|μοιχεύοντας]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτῆς]]  [[G1519\|εἰς]]  [[G2347\|θλῖψιν]]  [[G3173\|μεγάλην,]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G3340\|μετανοήσωσιν]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G2041\|ἔργων]]  [[G0846\|αὐτῆς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHURCH|CHURCH]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic LUKEWARMNESS|LUKEWARMNESS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.21|<< Revelation 2:21]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.23|Revelation 2:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

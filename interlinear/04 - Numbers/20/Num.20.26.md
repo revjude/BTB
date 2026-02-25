@@ -1,8 +1,62 @@
+---
+title: Numbers 20:26
+type: Verse
+kjv: "And strip Aaron of his garments, and put them upon Eleazar his son: and Aaron shall be gathered unto his people, and shall die there."
+bsb: "Remove Aaron’s priestly garments and put them on his son Eleazar. Aaron will be gathered to his people and will die there.”"
+hebrew: "וְהַפְשֵׁ֤ט אֶֽת־ אַהֲרֹן֙ אֶת־ בְּגָדָ֔יו וְהִלְבַּשְׁתָּ֖ם אֶת־ אֶלְעָזָ֣ר בְּנ֑וֹ וְאַהֲרֹ֥ן יֵאָסֵ֖ף וּמֵ֥ת שָֽׁם׃"
+pericope: "[[Num.20.22 The Death of Aaron|The Death of Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 20
+book/chapter: "[[Num.20|Numbers 20]]"
+chronological_order: 180
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]]"
+- "[[topic HOR|HOR]]"
+strongs:
+- "[[H9002]]"
+- "[[H6584]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H3847]]"
+- "[[H9038]]"
+- "[[H0499G]]"
+- "[[H1121A]]"
+- "[[H0622]]"
+- "[[H4191]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 20:26**<big><big>[[Num.20.22 The Death of Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And strip Aaron of his garments, and put them upon Eleazar his son: and Aaron shall be gathered [unto his people], and shall die there.
 <small><sub>**BSB:**</sub></small>
 Remove Aaron’s priestly garments and put them on his son Eleazar. Aaron will be gathered to his people and will die there.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6584\|הַפְשֵׁ֤ט]] [[H0853\|אֶֽת]][[H9014\|־]] [[H0175\|אַהֲרֹן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0899B\|בְּגָדָ֔י]][[H9023\|ו]] [[H9001\|וְ]][[H3847\|הִלְבַּשְׁתָּ֖]][[H9038\|ם]] [[H0853\|אֶת]][[H9014\|־]] [[H0499G\|אֶלְעָזָ֣ר]] [[H1121A\|בְּנ֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H0175\|אַהֲרֹ֥ן]] [[H0622\|יֵאָסֵ֖ף]] [[H9001\|וּ]][[H4191\|מֵ֥ת]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]] • [[topic HOR|HOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.20.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20.25|<< Numbers 20:25]]</td><td align="center" style="border:none;">[[Num.20|Numbers 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20.27|Numbers 20:27 >>]]</td></tr></table>
 

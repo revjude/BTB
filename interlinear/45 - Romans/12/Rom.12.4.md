@@ -1,10 +1,56 @@
+---
+title: Romans 12:4
+type: Verse
+kjv: "For as we have many members in one body, and all members have not the same office:"
+bsb: "Just as each of us has one body with many members, and not all members have the same function,"
+greek: "καθάπερ γὰρ ἐν ἑνὶ σώματι πολλὰ μέλη ἔχομεν, τὰ δὲ μέλη πάντα οὐ τὴν αὐτὴν ἔχει πρᾶξιν,"
+pericope: "[[Rom.12.1 Living Sacrifices|Living Sacrifices]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 12
+book/chapter: "[[Rom.12|Romans 12]]"
+chronological_order: 1098
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CURSING|CURSING]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[G2509]]"
+- "[[G1063]]"
+- "[[G1722]]"
+- "[[G1520]]"
+- "[[G4983]]"
+- "[[G4183]]"
+- "[[G3196]]"
+- "[[G2192]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3956]]"
+- "[[G3756]]"
+- "[[G0846]]"
+- "[[G4234]]"
+texts:
+- NKO
+---
+
 **Romans 12:4**<big><big>[[Rom.12.1 Living Sacrifices|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For as we have many members in one body, and all members have not the same office:
 <small><sub>**BSB:**</sub></small>
 Just as each of us has one body with many members, and not all members have the same function,
-<small><sub>**Literal:**</sub></small>
-Just as for in one body many members we have, <the> now the members all not the same have function,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.3|<< Romans 12:3]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.5|Romans 12:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2509\|καθάπερ]]  [[G1063\|γὰρ]]  [[G1722\|ἐν]]  [[G1520\|ἑνὶ]]  [[G4983\|σώματι]]  [[G4183\|πολλὰ]]  [[G3196\|μέλη]]  [[G2192\|ἔχομεν,]]  [[G3588\|τὰ]]  [[G1161\|δὲ]]  [[G3196\|μέλη]]  [[G3956\|πάντα]]  [[G3756\|οὐ]]  [[G3588\|τὴν]]  [[G0846\|αὐτὴν]]  [[G2192\|ἔχει]]  [[G4234\|πρᾶξιν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CURSING|CURSING]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RELIGION|RELIGION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.3|<< Romans 12:3]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.5|Romans 12:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

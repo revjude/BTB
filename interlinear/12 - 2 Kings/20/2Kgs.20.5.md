@@ -1,8 +1,79 @@
+---
+title: 2 Kings 20:5
+type: Verse
+kjv: "Turn again, and tell Hezekiah the captain of my people, Thus saith the LORD, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will heal thee: on the third day thou shalt go up unto the house of the LORD."
+bsb: "“Go back and tell Hezekiah the leader of My people that this is what the LORD, the God of your father David, says: ‘I have heard your prayer; I have seen your tears. I will surely heal you. On the third day from now you will go up to the house of the LORD."
+hebrew: "שׁ֣וּב וְאָמַרְתָּ֞ אֶל־ חִזְקִיָּ֣הוּ נְגִיד־ עַמִּ֗י כֹּֽה־ אָמַ֤ר יְהוָה֙ אֱלֹהֵי֙ דָּוִ֣ד אָבִ֔יךָ שָׁמַ֙עְתִּי֙ אֶת־ תְּפִלָּתֶ֔ךָ רָאִ֖יתִי אֶת־ דִּמְעָתֶ֑ךָ הִנְנִי֙ רֹ֣פֶא לָ֔ךְ בַּיּוֹם֙ הַשְּׁלִישִׁ֔י תַּעֲלֶ֖ה בֵּ֥ית יְהוָֽה׃"
+pericope: "[[2Kgs.20.1 Hezekiah’s Illness and Recovery|Hezekiah’s Illness and Recovery]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 20
+book/chapter: "[[2Kgs.20|2 Kings 20]]"
+chronological_order: 658
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CAPTAIN|CAPTAIN]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H7725G]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2396G]]"
+- "[[H5057]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H8605]]"
+- "[[H7200G]]"
+- "[[H1832]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H7495]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7992]]"
+- "[[H5927G]]"
+- "[[H1004Q]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 20:5**<big><big>[[2Kgs.20.1 Hezekiah’s Illness and Recovery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn again, and tell Hezekiah the captain of my people, Thus saith the LORD, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will heal thee: on the third day thou shalt go up unto the house of the LORD.
 <small><sub>**BSB:**</sub></small>
 “Go back and tell Hezekiah the leader of My people that this is what the LORD, the God of your father David, says: ‘I have heard your prayer; I have seen your tears. I will surely heal you. On the third day from now you will go up to the house of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H7725G\|שׁ֣וּב]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֞]] [[H0413\|אֶל]][[H9014\|־]] [[H2396G\|חִזְקִיָּ֣הוּ]] [[H5057\|נְגִיד]][[H9014\|־]] [[H5971A\|עַמִּ֗]][[H9020\|י]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֤ר]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵי֙]] [[H1732\|דָּוִ֣ד]] [[H0001G\|אָבִ֔י]][[H9021\|ךָ]] [[H8085G\|שָׁמַ֙עְתִּי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H8605\|תְּפִלָּתֶ֔]][[H9021\|ךָ]] [[H7200G\|רָאִ֖יתִי]] [[H0853\|אֶת]][[H9014\|־]] [[H1832\|דִּמְעָתֶ֑]][[H9021\|ךָ]] [[H2005\|הִנְ]][[H9040\|נִי֙]] [[H7495\|רֹ֣פֶא]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H9003\|בַּ]][[H3117G\|יּוֹם֙]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁ֔י]] [[H5927G\|תַּעֲלֶ֖ה]] [[H1004Q\|בֵּ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CAPTAIN|CAPTAIN]] • [[topic DISEASE|DISEASE]] • [[topic FAITH|FAITH]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic ISAIAH|ISAIAH]] • [[topic PRAYER|PRAYER]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.20.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.20.4|<< 2 Kings 20:4]]</td><td align="center" style="border:none;">[[2Kgs.20|2 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.20.6|2 Kings 20:6 >>]]</td></tr></table>
 

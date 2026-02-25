@@ -1,8 +1,66 @@
+---
+title: 2 Kings 2:19
+type: Verse
+kjv: "And the men of the city said unto Elisha, Behold, I pray thee, the situation of this city is pleasant, as my lord seeth: but the water is naught, and the ground barren."
+bsb: "Then the men of the city said to Elisha, “Please note, our lord, that the city’s location is good, as you can see. But the water is bad and the land is unfruitful.”"
+hebrew: "וַיֹּ֨אמְר֜וּ אַנְשֵׁ֤י הָעִיר֙ אֶל־ אֱלִישָׁ֔ע הִנֵּה־ נָ֞א מוֹשַׁ֤ב הָעִיר֙ ט֔וֹב כַּאֲשֶׁ֥ר אֲדֹנִ֖י רֹאֶ֑ה וְהַמַּ֥יִם רָעִ֖ים וְהָאָ֥רֶץ מְשַׁכָּֽלֶת׃"
+pericope: "[[2Kgs.2.19 Elisha Heals the Waters of Jericho|Elisha Heals the Waters of Jericho]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 2
+book/chapter: "[[2Kgs.2|2 Kings 2]]"
+chronological_order: 574
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0582]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0477]]"
+- "[[H2009]]"
+- "[[H4994]]"
+- "[[H4186]]"
+- "[[H2896A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H7200G]]"
+- "[[H9002]]"
+- "[[H4325G]]"
+- "[[H7451A]]"
+- "[[H0776G]]"
+- "[[H7921C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 2:19**<big><big>[[2Kgs.2.19 Elisha Heals the Waters of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men of the city said unto Elisha, Behold, I pray thee, the situation of this city [is] pleasant, as my lord seeth: but the water [is] naught, and the ground barren.
 <small><sub>**BSB:**</sub></small>
 Then the men of the city said to Elisha, “Please note, our lord, that the city’s location is good, as you can see. But the water is bad and the land is unfruitful.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמְר֜וּ]] [[H0582\|אַנְשֵׁ֤י]] [[H9009\|הָ]][[H5892B\|עִיר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0477\|אֱלִישָׁ֔ע]] [[H2009\|הִנֵּה]][[H9014\|־]] [[H4994\|נָ֞א]] [[H4186\|מוֹשַׁ֤ב]] [[H9009\|הָ]][[H5892B\|עִיר֙]] [[H2896A\|ט֔וֹב]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H0113\|אֲדֹנִ֖]][[H9020\|י]] [[H7200G\|רֹאֶ֑ה]] [[H9002\|וְ]][[H9009\|הַ]][[H4325G\|מַּ֥יִם]] [[H7451A\|רָעִ֖ים]] [[H9002\|וְ]][[H9009\|הָ]][[H0776G\|אָ֥רֶץ]] [[H7921C\|מְשַׁכָּֽלֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELISHA|ELISHA]] • [[topic JERICHO|JERICHO]] • [[topic MIRACLES|MIRACLES]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.2.18|<< 2 Kings 2:18]]</td><td align="center" style="border:none;">[[2Kgs.2|2 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.2.20|2 Kings 2:20 >>]]</td></tr></table>
 

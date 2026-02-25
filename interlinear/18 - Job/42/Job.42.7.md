@@ -1,8 +1,74 @@
+---
+title: Job 42:7
+type: Verse
+kjv: "And it was so, that after the LORD had spoken these words unto Job, the LORD said to Eliphaz the Temanite, My wrath is kindled against thee, and against thy two friends: for ye have not spoken of me the thing that is right, as my servant Job hath."
+bsb: "After the LORD had spoken these words to Job, He said to Eliphaz the Temanite, “My wrath is kindled against you and your two friends. For you have not spoken about Me accurately, as My servant Job has."
+hebrew: "וַיְהִ֗י אַחַ֨ר דִּבֶּ֧ר יְהוָ֛ה אֶת־ הַדְּבָרִ֥ים הָאֵ֖לֶּה אֶל־ אִיּ֑וֹב וַיֹּ֨אמֶר יְהוָ֜ה אֶל־ אֱלִיפַ֣ז הַתֵּֽימָנִ֗י חָרָ֨ה אַפִּ֤י בְךָ֙ וּבִשְׁנֵ֣י רֵעֶ֔יךָ כִּ֠י לֹ֣א דִבַּרְתֶּ֥ם אֵלַ֛י נְכוֹנָ֖ה כְּעַבְדִּ֥י אִיּֽוֹב׃"
+pericope: "[[Job.42.7 The LORD Rebukes Job’s Friends|The LORD Rebukes Job’s Friends]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 42
+book/chapter: "[[Job.42|Job 42]]"
+chronological_order: 53
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ELIPHAZ|ELIPHAZ]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+- "[[topic ZOPHAR|ZOPHAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0310A]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H0413]]"
+- "[[H0347]]"
+- "[[H0559]]"
+- "[[H0464H]]"
+- "[[H8489]]"
+- "[[H2734]]"
+- "[[H0639G]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H7453]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H9030]]"
+- "[[H3559K]]"
+- "[[H9004]]"
+- "[[H5650]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 42:7**<big><big>[[Job.42.7 The LORD Rebukes Job’s Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was [so], that after the LORD had spoken these words unto Job, the LORD said to Eliphaz the Temanite, My wrath is kindled against thee, and against thy two friends: for ye have not spoken of me [the thing that is] right, as my servant Job [hath].
 <small><sub>**BSB:**</sub></small>
 After the LORD had spoken these words to Job, He said to Eliphaz the Temanite, “My wrath is kindled against you and your two friends. For you have not spoken about Me accurately, as My servant Job has.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H0310A\|אַחַ֨ר]] [[H1696G\|דִּבֶּ֧ר]] [[H3068G\|יְהוָ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֥ים]] [[H9009\|הָ]][[H0428\|אֵ֖לֶּה]] [[H0413\|אֶל]][[H9014\|־]] [[H0347\|אִיּ֑וֹב]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H0464H\|אֱלִיפַ֣ז]] [[H9009\|הַ]][[H8489\|תֵּֽימָנִ֗י]] [[H2734\|חָרָ֨ה]] [[H0639G\|אַפִּ֤]][[H9020\|י]] [[H9003\|בְ]][[H9031\|ךָ֙]] [[H9002\|וּ]][[H9003\|בִ]][[H8147\|שְׁנֵ֣י]] [[H7453\|רֵעֶ֔י]][[H9021\|ךָ]] [[H3588A\|כִּ֠י]] [[H3808\|לֹ֣א]] [[H1696G\|דִבַּרְתֶּ֥ם]] [[H0413\|אֵלַ֛]][[H9030\|י]] [[H3559K\|נְכוֹנָ֖ה]] [[H9004\|כְּ]][[H5650\|עַבְדִּ֥]][[H9020\|י]] [[H0347\|אִיּֽוֹב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIPHAZ|ELIPHAZ]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]] • [[topic ZOPHAR|ZOPHAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.42.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.42.6|<< Job 42:6]]</td><td align="center" style="border:none;">[[Job.42|Job 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.8|Job 42:8 >>]]</td></tr></table>
 

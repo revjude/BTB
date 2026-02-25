@@ -1,8 +1,76 @@
+---
+title: 2 Kings 3:13
+type: Verse
+kjv: "And Elisha said unto the king of Israel, What have I to do with thee? get thee to the prophets of thy father, and to the prophets of thy mother. And the king of Israel said unto him, Nay: for the LORD hath called these three kings together, to deliver them into the hand of Moab."
+bsb: "Elisha, however, said to the king of Israel, “What have we to do with each other? Go to the prophets of your father and of your mother!” “No,” replied the king of Israel, “for it is the LORD who has summoned these three kings to deliver them into the hand of Moab.”"
+hebrew: "וַיֹּ֨אמֶר אֱלִישָׁ֜ע אֶל־ מֶ֤לֶךְ יִשְׂרָאֵל֙ מַה־ לִּ֣י וָלָ֔ךְ לֵ֚ךְ אֶל־ נְבִיאֵ֣י אָבִ֔יךָ וְאֶל־ נְבִיאֵ֖י אִמֶּ֑ךָ וַיֹּ֤אמֶר לוֹ֙ מֶ֣לֶךְ יִשְׂרָאֵ֔ל אַ֗ל כִּֽי־ קָרָ֤א יְהוָה֙ לִשְׁלֹ֙שֶׁת֙ הַמְּלָכִ֣ים הָאֵ֔לֶּה לָתֵ֥ת אוֹתָ֖ם בְּיַד־ מוֹאָֽב׃"
+pericope: "[[2Kgs.3.1 Moab’s Rebellion|Moab’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 3
+book/chapter: "[[2Kgs.3|2 Kings 3]]"
+chronological_order: 575
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JEZEBEL|JEZEBEL]]"
+- "[[topic MOABITES|MOABITES]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0477]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H4100]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H9032]]"
+- "[[H1980G]]"
+- "[[H5030]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H0517]]"
+- "[[H9033]]"
+- "[[H0408]]"
+- "[[H3588A]]"
+- "[[H7121G]]"
+- "[[H3068G]]"
+- "[[H7969]]"
+- "[[H9009]]"
+- "[[H0428]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H4124G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 3:13**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elisha said unto the king of Israel, What have I to do with thee? get thee to the prophets of thy father, and to the prophets of thy mother. And the king of Israel said unto him, Nay: for the LORD hath called these three kings together, to deliver them into the hand of Moab.
 <small><sub>**BSB:**</sub></small>
 Elisha, however, said to the king of Israel, “What have we to do with each other? Go to the prophets of your father and of your mother!” “No,” replied the king of Israel, “for it is the LORD who has summoned these three kings to deliver them into the hand of Moab.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0477\|אֱלִישָׁ֜ע]] [[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֤לֶךְ]] [[H3478\|יִשְׂרָאֵל֙]] [[H4100\|מַה]][[H9014\|־]] [[H9005\|לִּ֣]][[H9030\|י]] [[H9002\|וָ]][[H9005\|לָ֔]][[H9032\|ךְ]] [[H1980G\|לֵ֚ךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H5030\|נְבִיאֵ֣י]] [[H0001G\|אָבִ֔י]][[H9021\|ךָ]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H5030\|נְבִיאֵ֖י]] [[H0517\|אִמֶּ֑]][[H9021\|ךָ]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0408\|אַ֗ל]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7121G\|קָרָ֤א]] [[H3068G\|יְהוָה֙]] [[H9005\|לִ]][[H7969\|שְׁלֹ֙שֶׁת֙]] [[H9009\|הַ]][[H4428G\|מְּלָכִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H9005\|לָ]][[H5414G\|תֵ֥ת]] [[H0853\|אוֹתָ֖]][[H9038\|ם]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H4124G\|מוֹאָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JEZEBEL|JEZEBEL]] • [[topic MOABITES|MOABITES]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.12|<< 2 Kings 3:12]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.14|2 Kings 3:14 >>]]</td></tr></table>
 

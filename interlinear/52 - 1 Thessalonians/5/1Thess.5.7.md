@@ -1,10 +1,50 @@
+---
+title: 1 Thessalonians 5:7
+type: Verse
+kjv: "For they that sleep sleep in the night; and they that be drunken are drunken in the night."
+bsb: "For those who sleep, sleep at night, and those who get drunk, get drunk at night."
+greek: "οἱ γὰρ καθεύδοντες νυκτὸς καθεύδουσιν καὶ οἱ μεθυσκόμενοι νυκτὸς μεθύουσιν·"
+pericope: "[[1Thess.5.1 The Day of the Lord|The Day of the Lord]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 5
+book/chapter: "[[1Thess.5|1 Thessalonians 5]]"
+chronological_order: 1052
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic TEMPERANCE|TEMPERANCE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G2518]]"
+- "[[G3571]]"
+- "[[G2532]]"
+- "[[G3182]]"
+- "[[G3184]]"
+texts:
+- NKO
+---
+
 **1 Thessalonians 5:7**<big><big>[[1Thess.5.1 The Day of the Lord|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For they that sleep sleep in the night; and they that be drunken are drunken in the night.
 <small><sub>**BSB:**</sub></small>
 For those who sleep, sleep at night, and those who get drunk, get drunk at night.
-<small><sub>**Literal:**</sub></small>
-Those for sleeping by night sleep and those becoming drunk by night get drunk;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.6|<< 1 Thessalonians 5:6]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.8|1 Thessalonians 5:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1063\|γὰρ]]  [[G2518\|καθεύδοντες]]  [[G3571\|νυκτὸς]]  [[G2518\|καθεύδουσιν]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3182\|μεθυσκόμενοι]]  [[G3571\|νυκτὸς]]  [[G3184\|μεθύουσιν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic TEMPERANCE|TEMPERANCE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.6|<< 1 Thessalonians 5:6]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.8|1 Thessalonians 5:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

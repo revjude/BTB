@@ -1,8 +1,56 @@
+---
+title: Numbers 4:36
+type: Verse
+kjv: "And those that were numbered of them by their families were two thousand seven hundred and fifty."
+bsb: "And those numbered by their clans totaled 2,750."
+hebrew: "וַיִּהְי֥וּ פְקֻדֵיהֶ֖ם לְמִשְׁפְּחֹתָ֑ם אַלְפַּ֕יִם שְׁבַ֥ע מֵא֖וֹת וַחֲמִשִּֽׁים׃"
+pericope: "[[Num.4.34 The Numbering of the Levite Clans|The Numbering of the Levite Clans]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 4
+book/chapter: "[[Num.4|Numbers 4]]"
+chronological_order: 163
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H6485A]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H0505G]]"
+- "[[H7651]]"
+- "[[H3967]]"
+- "[[H9002]]"
+- "[[H2572]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 4:36**<big><big>[[Num.4.34 The Numbering of the Levite Clans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And those that were numbered of them by their families were two thousand seven hundred and fifty.
 <small><sub>**BSB:**</sub></small>
 And those numbered by their clans totaled 2,750.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יִּהְי֥וּ]] [[H6485A\|פְקֻדֵי]][[H9028\|הֶ֖ם]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָ֑]][[H9028\|ם]] [[H0505G\|אַלְפַּ֕יִם]] [[H7651\|שְׁבַ֥ע]] [[H3967\|מֵא֖וֹת]] [[H9002\|וַ]][[H2572\|חֲמִשִּֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.35|<< Numbers 4:35]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.37|Numbers 4:37 >>]]</td></tr></table>
 

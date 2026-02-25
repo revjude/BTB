@@ -1,8 +1,72 @@
+---
+title: 1 Kings 17:21
+type: Verse
+kjv: "And he stretched himself upon the child three times, and cried unto the LORD, and said, O LORD my God, I pray thee, let this child’s soul come into him again."
+bsb: "Then he stretched himself out over the child three times and cried out to the LORD, “O LORD my God, please let this boy’s life return to him!”"
+hebrew: "וַיִּתְמֹדֵ֤ד עַל־ הַיֶּ֙לֶד֙ שָׁלֹ֣שׁ פְּעָמִ֔ים וַיִּקְרָ֥א אֶל־ יְהוָ֖ה וַיֹּאמַ֑ר יְהוָ֣ה אֱלֹהָ֔י תָּ֥שָׁב נָ֛א נֶֽפֶשׁ־ הַיֶּ֥לֶד הַזֶּ֖ה עַל־ קִרְבּֽוֹ׃"
+pericope: "[[1Kgs.17.17 Elijah Raises the Widow’s Son|Elijah Raises the Widow’s Son]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 17
+book/chapter: "[[1Kgs.17|1 Kings 17]]"
+chronological_order: 563
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic POOR|POOR]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZAREPHATH|ZAREPHATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H4058]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3206]]"
+- "[[H7969]]"
+- "[[H6471]]"
+- "[[H7121G]]"
+- "[[H0413]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H7725G]]"
+- "[[H4994]]"
+- "[[H5315H]]"
+- "[[H2088]]"
+- "[[H7130G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 17:21**<big><big>[[1Kgs.17.17 Elijah Raises the Widow’s Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he stretched himself upon the child three times, and cried unto the LORD, and said, O LORD my God, I pray thee, let this child’s soul come into him again.
 <small><sub>**BSB:**</sub></small>
 Then he stretched himself out over the child three times and cried out to the LORD, “O LORD my God, please let this boy’s life return to him!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4058\|יִּתְמֹדֵ֤ד]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3206\|יֶּ֙לֶד֙]] [[H7969\|שָׁלֹ֣שׁ]] [[H6471\|פְּעָמִ֔ים]] [[H9001\|וַ]][[H7121G\|יִּקְרָ֥א]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9001\|וַ]][[H0559\|יֹּאמַ֑ר]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהָ֔]][[H9020\|י]] [[H7725G\|תָּ֥שָׁב]] [[H4994\|נָ֛א]] [[H5315H\|נֶֽפֶשׁ]][[H9014\|־]] [[H9009\|הַ]][[H3206\|יֶּ֥לֶד]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H7130G\|קִרְבּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHILDREN|CHILDREN]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic ELIJAH|ELIJAH]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic MIRACLES|MIRACLES]] • [[topic POOR|POOR]] • [[topic WOMEN|WOMEN]] • [[topic ZAREPHATH|ZAREPHATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.17.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.17.20|<< 1 Kings 17:20]]</td><td align="center" style="border:none;">[[1Kgs.17|1 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.17.22|1 Kings 17:22 >>]]</td></tr></table>
 

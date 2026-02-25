@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Moving the Ark to Jerusalem
+type: Pericope
 pericope: "[[1Chr.15.25 Moving the Ark to Jerusalem|Moving the Ark to Jerusalem]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 15
 book/chapter: "[[1Chr.15|1 Chronicles 15]]"
-genre:
+chronological_order: 396
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 4
 verses:
 - "[[1Chr.15.25]]"
 - "[[1Chr.15.26]]"
@@ -22,7 +29,7 @@ verses:
 - "[[1Chr.15.28]]"
 ---
 
-[[1Chr.15|1 Chronicles 15:25 - 1 Chronicles 15:28]]
+<small>[[1Chr.15|1 Chronicles 15:25-28]]</small>
 *Moving the Ark to Jerusalem*
 
 [[1Chr.15.25|25]] So David, and the elders of Israel, and the captains over thousands, went to bring up the ark of the covenant of the LORD out of the house of Obededom with joy.

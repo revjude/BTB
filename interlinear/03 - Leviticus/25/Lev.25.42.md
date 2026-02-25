@@ -1,8 +1,65 @@
+---
+title: Leviticus 25:42
+type: Verse
+kjv: "For they are my servants, which I brought forth out of the land of Egypt: they shall not be sold as bondmen."
+bsb: "Because the Israelites are My servants, whom I brought out of the land of Egypt, they are not to be sold as slaves."
+hebrew: "כִּֽי־ עֲבָדַ֣י הֵ֔ם אֲשֶׁר־ הוֹצֵ֥אתִי אֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם לֹ֥א יִמָּכְר֖וּ מִמְכֶּ֥רֶת עָֽבֶד׃"
+pericope: "[[Lev.25.39 Redemption of Bondmen|Redemption of Bondmen]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H1992]]"
+- "[[H0834A]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H3808]]"
+- "[[H4376]]"
+- "[[H4466]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:42**<big><big>[[Lev.25.39 Redemption of Bondmen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they [are] my servants, which I brought forth out of the land of Egypt: they shall not be sold as bondmen.
 <small><sub>**BSB:**</sub></small>
 Because the Israelites are My servants, whom I brought out of the land of Egypt, they are not to be sold as slaves.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H5650\|עֲבָדַ֣]][[H9020\|י]] [[H1992\|הֵ֔ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3318H\|הוֹצֵ֥אתִי]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H3808\|לֹ֥א]] [[H4376\|יִמָּכְר֖וּ]] [[H4466\|מִמְכֶּ֥רֶת]] [[H5650\|עָֽבֶד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic GOD|GOD]] • [[topic JUBILEE|JUBILEE]] • [[topic POOR|POOR]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.41|<< Leviticus 25:41]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.43|Leviticus 25:43 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: 2 Samuel 3:18
+type: Verse
+kjv: "Now then do it: for the LORD hath spoken of David, saying, By the hand of my servant David I will save my people Israel out of the hand of the Philistines, and out of the hand of all their enemies."
+bsb: "Now take action, because the LORD has said to David, ‘Through My servant David I will save My people Israel from the hands of the Philistines and of all their enemies.’”"
+hebrew: "וְעַתָּ֖ה עֲשׂ֑וּ כִּ֣י יְהוָ֗ה אָמַ֤ר אֶל־ דָּוִד֙ לֵאמֹ֔ר בְּיַ֣ד׀ דָּוִ֣ד עַבְדִּ֗י הוֹשִׁ֜יעַ אֶת־ עַמִּ֤י יִשְׂרָאֵל֙ מִיַּ֣ד פְּלִשְׁתִּ֔ים וּמִיַּ֖ד כָּל־ אֹיְבֵיהֶֽם׃"
+pericope: "[[2Sam.3.6 Abner Joins David|Abner Joins David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 3
+book/chapter: "[[2Sam.3|2 Samuel 3]]"
+chronological_order: 331
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABNER|ABNER]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H6213A]]"
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H9005]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9015]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H3467]]"
+- "[[H0853]]"
+- "[[H5971A]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H6430G]]"
+- "[[H3605]]"
+- "[[H0341]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 3:18**<big><big>[[2Sam.3.6 Abner Joins David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now then do [it]: for the LORD hath spoken of David, saying, By the hand of my servant David I will save my people Israel out of the hand of the Philistines, and out of the hand of all their enemies.
 <small><sub>**BSB:**</sub></small>
 Now take action, because the LORD has said to David, ‘Through My servant David I will save My people Israel from the hands of the Philistines and of all their enemies.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֖ה]] [[H6213A\|עֲשׂ֑וּ]] [[H3588A\|כִּ֣י]] [[H3068G\|יְהוָ֗ה]] [[H0559\|אָמַ֤ר]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִד֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H9003\|בְּ]][[H3027H\|יַ֣ד]][[H9015\|׀]] [[H1732\|דָּוִ֣ד]] [[H5650\|עַבְדִּ֗]][[H9020\|י]] [[H3467\|הוֹשִׁ֜יעַ]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ֤]][[H9020\|י]] [[H3478\|יִשְׂרָאֵל֙]] [[H9006\|מִ]][[H3027H\|יַּ֣ד]] [[H6430G\|פְּלִשְׁתִּ֔ים]] [[H9002\|וּ]][[H9006\|מִ]][[H3027H\|יַּ֖ד]] [[H3605\|כָּל]][[H9014\|־]] [[H0341\|אֹיְבֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.17|<< 2 Samuel 3:17]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.19|2 Samuel 3:19 >>]]</td></tr></table>
 

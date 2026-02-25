@@ -1,10 +1,54 @@
+---
+title: John 19:18
+type: Verse
+kjv: "Where they crucified him, and two other with him, on either side one, and Jesus in the midst."
+bsb: "There they crucified Him, and with Him two others, one on each side, with Jesus in the middle."
+greek: "ὅπου αὐτὸν ἐσταύρωσαν καὶ μετ᾽ αὐτοῦ ἄλλους δύο ἐντεῦθεν καὶ ἐντεῦθεν, μέσον δὲ τὸν Ἰησοῦν.¶"
+pericope: "[[John.19.16 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[G3699]]"
+- "[[G0846]]"
+- "[[G4717]]"
+- "[[G2532]]"
+- "[[G3326]]"
+- "[[G0243]]"
+- "[[G1417]]"
+- "[[G1782]]"
+- "[[G3319]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+texts:
+- NKO
+---
+
 **John 19:18**<big><big>[[John.19.16 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Where they crucified him, and two other with him, on either side one, and Jesus in the midst.
 <small><sub>**BSB:**</sub></small>
 There they crucified Him, and with Him two others, one on each side, with Jesus in the middle.
-<small><sub>**Literal:**</sub></small>
-where Him they crucified and with Him others two on this side and on that side, in between now <the> Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.17|<< John 19:17]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.19|John 19:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3699\|ὅπου]]  [[G0846\|αὐτὸν]]  [[G4717\|ἐσταύρωσαν]]  [[G2532\|καὶ]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ]]  [[G0243\|ἄλλους]]  [[G1417\|δύο]]  [[G1782\|ἐντεῦθεν]]  [[G2532\|καὶ]]  [[G1782\|ἐντεῦθεν,]]  [[G3319\|μέσον]]  [[G1161\|δὲ]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRIEST|PRIEST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.17|<< John 19:17]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.19|John 19:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

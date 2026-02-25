@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Solomon’s Prayer for Wisdom
+type: Pericope
 pericope: "[[1Kgs.3.1 Solomon’s Prayer for Wisdom|Solomon’s Prayer for Wisdom]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 3
 book/chapter: "[[1Kgs.3|1 Kings 3]]"
-genre:
+chronological_order: 443
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 15
 verses:
 - "[[1Kgs.3.1]]"
 - "[[1Kgs.3.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[1Kgs.3.15]]"
 ---
 
-[[1Kgs.3|1 Kings 3:1 - 1 Kings 3:15]]
+<small>[[1Kgs.3|1 Kings 3:1-15]]</small>
 *Solomon’s Prayer for Wisdom*
 
 [[1Kgs.3.1|1]] And Solomon made affinity with Pharaoh king of Egypt, and took Pharaoh’s daughter, and brought her into the city of David, until he had made an end of building his own house, and the house of the LORD, and the wall of Jerusalem round about.

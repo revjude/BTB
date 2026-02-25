@@ -1,10 +1,52 @@
+---
+title: John 8:13
+type: Verse
+kjv: "The Pharisees therefore said unto him, Thou bearest record of thyself; thy record is not true."
+bsb: "So the Pharisees said to Him, “You are testifying about Yourself; Your testimony is not valid.”"
+greek: "Εἶπον οὖν αὐτῷ οἱ Φαρισαῖοι· σὺ περὶ σεαυτοῦ μαρτυρεῖς· ἡ μαρτυρία σου οὐκ ἔστιν ἀληθής.¶"
+pericope: "[[John.8.12 Jesus the Light of the World|Jesus the Light of the World]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G5330]]"
+- "[[G4771]]"
+- "[[G4012]]"
+- "[[G3140]]"
+- "[[G3141]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G0227]]"
+texts:
+- NKO
+---
+
 **John 8:13**<big><big>[[John.8.12 Jesus the Light of the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The Pharisees therefore said unto him, Thou bearest record of thyself; thy record is not true.
 <small><sub>**BSB:**</sub></small>
 So the Pharisees said to Him, “You are testifying about Yourself; Your testimony is not valid.”
-<small><sub>**Literal:**</sub></small>
-Said therefore to Him the Pharisees; You yourself concerning Yourself are bearing witness; the testimony of You not is true.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.12|<< John 8:12]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.14|John 8:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπον]]  [[G3767\|οὖν]]  [[G0846\|αὐτῷ]]  [[G3588\|οἱ]]  [[G5330\|Φαρισαῖοι·]]  [[G4771\|σὺ]]  [[G4012\|περὶ]]  [[G4771\|σεαυτοῦ]]  [[G3140\|μαρτυρεῖς·]]  [[G3588\|ἡ]]  [[G3141\|μαρτυρία]]  [[G4771\|σου]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G0227\|ἀληθής.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.12|<< John 8:12]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.14|John 8:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

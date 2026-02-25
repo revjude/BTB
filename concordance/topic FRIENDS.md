@@ -9,7 +9,7 @@
 
 Pharaoh's butler was false to Joseph [[Gen.40.23|Ge 40:23]]
 
-- Delilah was false to Samson [[Judg.16.1|Jud 16:1]]-[[Judg.16.20|20]]
+- Delilah was false to Samson [[Judg.16.1|Jud 16:1-20]]
 
 - The Ephraimite's wife [[Judg.19.1|Jud 19:1]],[[Judg.19.2|2]]
 
@@ -19,7 +19,7 @@ Pharaoh's butler was false to Joseph [[Gen.40.23|Ge 40:23]]
 
 - Ahithophel was false to David [[2Sam.15.12|2Sa 15:12]]
 
-- David's friends were false to David [[Ps.35.11|Ps 35:11]]-[[Ps.35.16|16]]; [[Ps.41.9|41:9]];  [[Ps.55.12|55:12]]-[[Ps.55.14|14]],[[Ps.55.20|20]],[[Ps.55.21|21]]; [[Ps.88.8|88:8]],[[Ps.88.18|18]]
+- David's friends were false to David [[Ps.35.11|Ps 35:11-16]]; [[Ps.41.9|41:9]];  [[Ps.55.12|55:12-14]],[[Ps.55.20|20]],[[Ps.55.21|21]]; [[Ps.88.8|88:8]],[[Ps.88.18|18]]
 
 - Judas Iscariot [[Matt.26.48|Mt 26:48]],[[Matt.26.49|49]]
 

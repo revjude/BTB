@@ -1,10 +1,60 @@
+---
+title: Revelation 22:3
+type: Verse
+kjv: "And there shall be no more curse: but the throne of God and of the Lamb shall be in it; and his servants shall serve him:"
+bsb: "No longer will there be any curse. The throne of God and of the Lamb will be within the city, and His servants will worship Him."
+greek: "καὶ πᾶν κατάθεμα οὐκ ἔσται ἔτι, καὶ ὁ θρόνος τοῦ θεοῦ καὶ τοῦ ἀρνίου ἐν αὐτῇ ἔσται, καὶ οἱ δοῦλοι αὐτοῦ λατρεύσουσιν αὐτῷ"
+pericope: "[[Rev.22.1 The River of Life|The River of Life]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 22
+book/chapter: "[[Rev.22|Revelation 22]]"
+chronological_order: 1189
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic LAMB OF GOD|LAMB OF GOD]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SIN|SIN]]"
+- "[[topic THRONE|THRONE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G2652]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G2089]]"
+- "[[G3588]]"
+- "[[G2362]]"
+- "[[G2316]]"
+- "[[G0721]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G1401]]"
+- "[[G3000]]"
+texts:
+- NKO
+---
+
 **Revelation 22:3**<big><big>[[Rev.22.1 The River of Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there shall be no more curse: but the throne of God and of the Lamb shall be in it; and his servants shall serve him:
 <small><sub>**BSB:**</sub></small>
 No longer will there be any curse. The throne of God and of the Lamb will be within the city, and His servants will worship Him.
-<small><sub>**Literal:**</sub></small>
-And any curse not there will be any longer, And the throne <the> of God and of the Lamb in it will be, and the servants of Him will serve Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.2|<< Revelation 22:2]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.4|Revelation 22:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3956\|πᾶν]]  [[G2652\|κατάθεμα]]  [[G3756\|οὐκ]]  [[G1510\|ἔσται]]  [[G2089\|ἔτι,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2362\|θρόνος]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G0721\|ἀρνίου]]  [[G1722\|ἐν]]  [[G0846\|αὐτῇ]]  [[G1510\|ἔσται,]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G1401\|δοῦλοι]]  [[G0846\|αὐτοῦ]]  [[G3000\|λατρεύσουσιν]]  [[G0846\|αὐτῷ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic HEAVEN|HEAVEN]] • [[topic LAMB OF GOD|LAMB OF GOD]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SIN|SIN]] • [[topic THRONE|THRONE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.2|<< Revelation 22:2]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.4|Revelation 22:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 22:3** is...
 > $\quad$ possibly alluding to: [[LXX.Zech.14.11|Zech 14:11]]

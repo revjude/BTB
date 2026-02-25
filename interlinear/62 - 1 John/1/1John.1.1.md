@@ -1,10 +1,61 @@
+---
+title: 1 John 1:1
+type: Verse
+kjv: "That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life;"
+bsb: "That which was from the beginning, which we have heard, which we have seen with our own eyes, which we have gazed upon and touched with our own hands—this is the Word of life."
+greek: "Ὃ ἦν ἀπ᾽ ἀρχῆς, ὃ ἀκηκόαμεν, ὃ ἑωράκαμεν τοῖς ὀφθαλμοῖς ἡμῶν, ὃ ἐθεασάμεθα καὶ αἱ χεῖρες ἡμῶν ἐψηλάφησαν περὶ τοῦ λόγου τῆς ζωῆς·"
+pericope: "[[1John.1.1 The Word of Life|The Word of Life]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 1
+book/chapter: "[[1John.1|1 John 1]]"
+chronological_order: 1161
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G0575]]"
+- "[[G0746]]"
+- "[[G0191]]"
+- "[[G3708]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G3165]]"
+- "[[G2300]]"
+- "[[G2532]]"
+- "[[G5495]]"
+- "[[G5584]]"
+- "[[G4012]]"
+- "[[G3056]]"
+- "[[G2222]]"
+texts:
+- NKO
+---
+
 **1 John 1:1**<big><big>[[1John.1.1 The Word of Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life;
 <small><sub>**BSB:**</sub></small>
 That which was from the beginning, which we have heard, which we have seen with our own eyes, which we have gazed upon and touched with our own hands—this is the Word of life.
-<small><sub>**Literal:**</sub></small>
-That which was from [the] beginning, that which we have heard, that which we have seen with the eyes of us, that which we have gazed upon and the hands of us handled concerning the Word <the> of life —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.18|<< 2 Peter 3:18]]</td><td align="center" style="border:none;">[[1John.1|1 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.1.2|1 John 1:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|Ὃ]]  [[G1510\|ἦν]]  [[G0575\|ἀπ᾽]]  [[G0746\|ἀρχῆς,]]  [[G3739\|ὃ]]  [[G0191\|ἀκηκόαμεν,]]  [[G3739\|ὃ]]  [[G3708\|ἑωράκαμεν]]  [[G3588\|τοῖς]]  [[G3788\|ὀφθαλμοῖς]]  [[G3165\|ἡμῶν,]]  [[G3739\|ὃ]]  [[G2300\|ἐθεασάμεθα]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G5495\|χεῖρες]]  [[G3165\|ἡμῶν]]  [[G5584\|ἐψηλάφησαν]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G3056\|λόγου]]  [[G3588\|τῆς]]  [[G2222\|ζωῆς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.18|<< 2 Peter 3:18]]</td><td align="center" style="border:none;">[[1John.1|1 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.1.2|1 John 1:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

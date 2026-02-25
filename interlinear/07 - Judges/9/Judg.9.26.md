@@ -1,8 +1,59 @@
+---
+title: Judges 9:26
+type: Verse
+kjv: "And Gaal the son of Ebed came with his brethren, and went over to Shechem: and the men of Shechem put their confidence in him."
+bsb: "Meanwhile, Gaal son of Ebed came with his brothers and crossed into Shechem, and the leaders of Shechem put their confidence in him."
+hebrew: "וַיָּבֹ֞א גַּ֤עַל בֶּן־ עֶ֙בֶד֙ וְאֶחָ֔יו וַיַּעַבְר֖וּ בִּשְׁכֶ֑ם וַיִּבְטְחוּ־ ב֖וֹ בַּעֲלֵ֥י שְׁכֶֽם׃"
+pericope: "[[Judg.9.22 Gaal Conspires with the Shechemites|Gaal Conspires with the Shechemites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic EBED|EBED]]"
+- "[[topic GAAL|GAAL]]"
+- "[[topic JUDGE|JUDGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H1603]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5651G]]"
+- "[[H9002]]"
+- "[[H0251H]]"
+- "[[H9023]]"
+- "[[H5674A]]"
+- "[[H9003]]"
+- "[[H7927G]]"
+- "[[H0982]]"
+- "[[H9033]]"
+- "[[H1167G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 9:26**<big><big>[[Judg.9.22 Gaal Conspires with the Shechemites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Gaal the son of Ebed came with his brethren, and went over to Shechem: and the men of Shechem put their confidence in him.
 <small><sub>**BSB:**</sub></small>
 Meanwhile, Gaal son of Ebed came with his brothers and crossed into Shechem, and the leaders of Shechem put their confidence in him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֞א]] [[H1603\|גַּ֤עַל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5651G\|עֶ֙בֶד֙]] [[H9002\|וְ]][[H0251H\|אֶחָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H5674A\|יַּעַבְר֖וּ]] [[H9003\|בִּ]][[H7927G\|שְׁכֶ֑ם]] [[H9001\|וַ]][[H0982\|יִּבְטְחוּ]][[H9014\|־]] [[H9003\|ב֖]][[H9033\|וֹ]] [[H1167G\|בַּעֲלֵ֥י]] [[H7927G\|שְׁכֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSPIRACY|CONSPIRACY]] • [[topic EBED|EBED]] • [[topic GAAL|GAAL]] • [[topic JUDGE|JUDGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.25|<< Judges 9:25]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.27|Judges 9:27 >>]]</td></tr></table>
 

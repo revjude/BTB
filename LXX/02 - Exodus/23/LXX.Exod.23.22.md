@@ -1,6 +1,65 @@
+---
+title: LXX Exodus 23:22
+type: Verse
+lxx: "If in hearing you shall hearken  to my voice, and do all as much as I give charge to you, I will be an enemy to your enemies, and I will be an adversary to the ones being an adversary of you."
+greek: "εάν ακοή ακούσης της εμής φωνής και ποιήσης πάντα όσα αν εντέλλομαί σοι εχθρεύσω τοις εχθροίς σου και αντικείσομαι τοις αντικειμένοις σου"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 23
+book/chapter: "[[Exod.23|Exodus 23]]"
+chronological_order: 115
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G1437]]"
+- "[[G0189]]"
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[G1699]]"
+- "[[G5456]]"
+- "[[G2532]]"
+- "[[G4160]]"
+- "[[G3956]]"
+- "[[G3745]]"
+- "[[G0302]]"
+- "[[G1781]]"
+- "[[G1473]]"
+- "[[G7589]]"
+- "[[G3588]]"
+- "[[G2190]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0480]]"
+- "[[G3588]]"
+- "[[G0480]]"
+- "[[G1473]]"
+---
+
 **LXX Exodus 23:22** 
 <small><sub>**LXX:**</sub></small>
 If in hearing you shall hearken  to my voice, and do all as much as I give charge to you, I will be an enemy \[to\] your enemies, and I will be an adversary to the ones being an adversary of you. 
+<small><sub>**Greek:**</sub></small>
+[[G1437\|εάν]] [[G0189\|ακοή]] [[G0191\|ακούσης]] [[G3588\|της]] [[G1699\|εμής]] [[G5456\|φωνής]] [[G2532\|και]] [[G4160\|ποιήσης]] [[G3956\|πάντα]] [[G3745\|όσα]] [[G0302\|αν]] [[G1781\|εντέλλομαί]] [[G1473\|σοι]] [[G7589\|εχθρεύσω]] [[G3588\|τοις]] [[G2190\|εχθροίς]] [[G1473\|σου]] [[G2532\|και]] [[G0480\|αντικείσομαι]] [[G3588\|τοις]] [[G0480\|αντικειμένοις]] [[G1473\|σου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.23.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.21|<< Exodus 23:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.23|Exodus 23:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -31,6 +90,6 @@ If in hearing you shall hearken  to my voice, and do all as much as I give charg
 | to the | **<big>[[G3588\|τοις]]</big>** |
 | ones being an adversary | **<big>[[G0480\|αντικειμένοις]]</big>** |
 | of you. | **<big>[[G1473\|σου]]</big>** |
-[[Exod.23.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.21|<< Exodus 23:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.23|Exodus 23:23 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.21|<< Exodus 23:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.23|Exodus 23:23 >>]]</td></tr></table>
 
 

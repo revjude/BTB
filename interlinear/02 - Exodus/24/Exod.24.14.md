@@ -1,8 +1,74 @@
+---
+title: Exodus 24:14
+type: Verse
+kjv: "And he said unto the elders, Tarry ye here for us, until we come again unto you: and, behold, Aaron and Hur are with you: if any man have any matters to do, let him come unto them."
+bsb: "And he said to the elders, “Wait here for us until we return to you. Aaron and Hur are here with you. Whoever has a dispute can go to them.”"
+hebrew: "וְאֶל־ הַזְּקֵנִ֤ים אָמַר֙ שְׁבוּ־ לָ֣נוּ בָזֶ֔ה עַ֥ד אֲשֶׁר־ נָשׁ֖וּב אֲלֵיכֶ֑ם וְהִנֵּ֨ה אַהֲרֹ֤ן וְחוּר֙ עִמָּכֶ֔ם מִי־ בַ֥עַל דְּבָרִ֖ים יִגַּ֥שׁ אֲלֵהֶֽם׃"
+pericope: "[[Exod.24.12 Moses on the Mountain|Moses on the Mountain]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 24
+book/chapter: "[[Exod.24|Exodus 24]]"
+chronological_order: 116
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HUR|HUR]]"
+- "[[topic LAW|LAW]]"
+- "[[topic SINAI|SINAI]]"
+strongs:
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2205G]]"
+- "[[H0559]]"
+- "[[H3427]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H9003]]"
+- "[[H2088]]"
+- "[[H5704]]"
+- "[[H0834A]]"
+- "[[H7725G]]"
+- "[[H9036]]"
+- "[[H2009]]"
+- "[[H0175]]"
+- "[[H2354G]]"
+- "[[H5973A]]"
+- "[[H4310]]"
+- "[[H1167I]]"
+- "[[H1697L]]"
+- "[[H5066G]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 24:14**<big><big>[[Exod.24.12 Moses on the Mountain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto the elders, Tarry ye here for us, until we come again unto you: and, behold, Aaron and Hur [are] with you: if any man have any matters to do, let him come unto them.
 <small><sub>**BSB:**</sub></small>
 And he said to the elders, “Wait here for us until we return to you. Aaron and Hur are here with you. Whoever has a dispute can go to them.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H2205G\|זְּקֵנִ֤ים]] [[H0559\|אָמַר֙]] [[H3427\|שְׁבוּ]][[H9014\|־]] [[H9005\|לָ֣]][[H9035\|נוּ]] [[H9003\|בָ]][[H2088\|זֶ֔ה]] [[H5704\|עַ֥ד]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7725G\|נָשׁ֖וּב]] [[H0413\|אֲלֵי]][[H9036\|כֶ֑ם]] [[H9002\|וְ]][[H2009\|הִנֵּ֨ה]] [[H0175\|אַהֲרֹ֤ן]] [[H9002\|וְ]][[H2354G\|חוּר֙]] [[H5973A\|עִמָּ]][[H9036\|כֶ֔ם]] [[H4310\|מִי]][[H9014\|־]] [[H1167I\|בַ֥עַל]] [[H1697L\|דְּבָרִ֖ים]] [[H5066G\|יִגַּ֥שׁ]] [[H0413\|אֲלֵ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HUR|HUR]] • [[topic LAW|LAW]] • [[topic SINAI|SINAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.24.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.24.13|<< Exodus 24:13]]</td><td align="center" style="border:none;">[[Exod.24|Exodus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.24.15|Exodus 24:15 >>]]</td></tr></table>
 

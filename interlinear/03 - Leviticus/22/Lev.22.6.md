@@ -1,8 +1,70 @@
+---
+title: Leviticus 22:6
+type: Verse
+kjv: "The soul which hath touched any such shall be unclean until even, and shall not eat of the holy things, unless he wash his flesh with water."
+bsb: "the man who touches any of these will remain unclean until evening. He must not eat from the sacred offerings unless he has bathed himself with water."
+hebrew: "נֶ֚פֶשׁ אֲשֶׁ֣ר תִּגַּע־ בּ֔וֹ וְטָמְאָ֖ה עַד־ הָעָ֑רֶב וְלֹ֤א יֹאכַל֙ מִן־ הַקֳּדָשִׁ֔ים כִּ֛י אִם־ רָחַ֥ץ בְּשָׂר֖וֹ בַּמָּֽיִם׃"
+pericope: "[[Lev.22.1 Restrictions against the Unclean|Restrictions against the Unclean]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 22
+book/chapter: "[[Lev.22|Leviticus 22]]"
+chronological_order: 154
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic UNCLEANNESS|UNCLEANNESS]]"
+strongs:
+- "[[H5315J]]"
+- "[[H0834A]]"
+- "[[H5060]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H2930A]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H6153]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H4480A]]"
+- "[[H6944G]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H7364]]"
+- "[[H1320]]"
+- "[[H9023]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 22:6**<big><big>[[Lev.22.1 Restrictions against the Unclean|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The soul which hath touched any such shall be unclean until even, and shall not eat of the holy things, unless he wash his flesh with water.
 <small><sub>**BSB:**</sub></small>
 the man who touches any of these will remain unclean until evening. He must not eat from the sacred offerings unless he has bathed himself with water.
+<small><sub>**Hebrew:**</sub></small>
+[[H5315J\|נֶ֚פֶשׁ]] [[H0834A\|אֲשֶׁ֣ר]] [[H5060\|תִּגַּע]][[H9014\|־]] [[H9003\|בּ֔]][[H9033\|וֹ]] [[H9001\|וְ]][[H2930A\|טָמְאָ֖ה]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הָ]][[H6153\|עָ֑רֶב]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H0398\|יֹאכַל֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H6944G\|קֳּדָשִׁ֔ים]] [[H3588B\|כִּ֛י]] [[H0518B\|אִם]][[H9014\|־]] [[H7364\|רָחַ֥ץ]] [[H1320\|בְּשָׂר֖]][[H9023\|וֹ]] [[H9003\|בַּ]][[H4325G\|מָּֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic SANITATION|SANITATION]] • [[topic UNCLEANNESS|UNCLEANNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.5|<< Leviticus 22:5]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.7|Leviticus 22:7 >>]]</td></tr></table>
 

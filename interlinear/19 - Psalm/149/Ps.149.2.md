@@ -1,8 +1,60 @@
+---
+title: Psalm 149:2
+type: Verse
+kjv: "Let Israel rejoice in him that made him: let the children of Zion be joyful in their King."
+bsb: "Let Israel rejoice in their Maker; let the children of Zion rejoice in their King."
+hebrew: "יִשְׂמַ֣ח יִשְׂרָאֵ֣ל בְּעֹשָׂ֑יו בְּנֵֽי־ צִ֝יּ֗וֹן יָגִ֥ילוּ בְמַלְכָּֽם׃"
+pericope: "[[Ps.149.1 Sing to the LORD a New Song|Sing to the LORD a New Song]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 149
+book/chapter: "[[Ps.149|Psalm 149]]"
+chronological_order: 897
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H8055]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H6213H]]"
+- "[[H9033]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H6726]]"
+- "[[H1523]]"
+- "[[H4428G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 149:2**<big><big>[[Ps.149.1 Sing to the LORD a New Song|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let Israel rejoice in him that made him: let the children of Zion be joyful in their King.
 <small><sub>**BSB:**</sub></small>
 Let Israel rejoice in their Maker; let the children of Zion rejoice in their King.
+<small><sub>**Hebrew:**</sub></small>
+[[H8055\|יִשְׂמַ֣ח]] [[H3478\|יִשְׂרָאֵ֣ל]] [[H9003\|בְּ]][[H6213H\|עֹשָׂ֑י]][[H9033\|ו]] [[H1121A\|בְּנֵֽי]][[H9014\|־]] [[H6726\|צִ֝יּ֗וֹן]] [[H1523\|יָגִ֥ילוּ]] [[H9003\|בְ]][[H4428G\|מַלְכָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JOY|JOY]] • [[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.149.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.149.1|<< Psalms 149:1]]</td><td align="center" style="border:none;">[[Ps.149|Psalms 149]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.149.3|Psalms 149:3 >>]]</td></tr></table>
 

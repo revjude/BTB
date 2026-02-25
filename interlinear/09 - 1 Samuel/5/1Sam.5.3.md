@@ -1,8 +1,65 @@
+---
+title: 1 Samuel 5:3
+type: Verse
+kjv: "And when they of Ashdod arose early on the morrow, behold, Dagon was fallen upon his face to the earth before the ark of the LORD. And they took Dagon, and set him in his place again."
+bsb: "When the people of Ashdod got up early the next morning, there was Dagon, fallen on his face before the ark of the LORD. So they took Dagon and returned him to his place."
+hebrew: "וַיַּשְׁכִּ֤מוּ אַשְׁדּוֹדִים֙ מִֽמָּחֳרָ֔ת וְהִנֵּ֣ה דָג֗וֹן נֹפֵ֤ל לְפָנָיו֙ אַ֔רְצָה לִפְנֵ֖י אֲר֣וֹן יְהוָ֑ה וַיִּקְחוּ֙ אֶת־ דָּג֔וֹן וַיָּשִׁ֥בוּ אֹת֖וֹ לִמְקוֹמֽוֹ׃"
+pericope: "[[1Sam.5.1 The Ark Afflicts the Philistines|The Ark Afflicts the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 5
+book/chapter: "[[1Sam.5|1 Samuel 5]]"
+chronological_order: 284
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7925]]"
+- "[[H0796]]"
+- "[[H9006]]"
+- "[[H4283]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H1712]]"
+- "[[H5307G]]"
+- "[[H9005]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H6440G]]"
+- "[[H0727]]"
+- "[[H3068G]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7725G]]"
+- "[[H9033]]"
+- "[[H4725]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 5:3**<big><big>[[1Sam.5.1 The Ark Afflicts the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they of Ashdod arose early on the morrow, behold, Dagon [was] fallen upon his face to the earth before the ark of the LORD. And they took Dagon, and set him in his place again.
 <small><sub>**BSB:**</sub></small>
 When the people of Ashdod got up early the next morning, there was Dagon, fallen on his face before the ark of the LORD. So they took Dagon and returned him to his place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7925\|יַּשְׁכִּ֤מוּ]] [[H0796\|אַשְׁדּוֹדִים֙]] [[H9006\|מִֽ]][[H4283\|מָּחֳרָ֔ת]] [[H9002\|וְ]][[H2009\|הִנֵּ֣ה]] [[H1712\|דָג֗וֹן]] [[H5307G\|נֹפֵ֤ל]] [[H9005\|לְ]][[H6440H\|פָנָי]][[H9023\|ו֙]] [[H0776H\|אַ֔רְצָ]][[H9011\|ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H0727\|אֲר֣וֹן]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H3947G\|יִּקְחוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1712\|דָּג֔וֹן]] [[H9001\|וַ]][[H7725G\|יָּשִׁ֥בוּ]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9005\|לִ]][[H4725\|מְקוֹמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.5.2|<< 1 Samuel 5:2]]</td><td align="center" style="border:none;">[[1Sam.5|1 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.5.4|1 Samuel 5:4 >>]]</td></tr></table>
 

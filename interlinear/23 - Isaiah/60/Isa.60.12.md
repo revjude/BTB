@@ -1,8 +1,58 @@
+---
+title: Isaiah 60:12
+type: Verse
+kjv: "For the nation and kingdom that will not serve thee shall perish; yea, those nations shall be utterly wasted."
+bsb: "For the nation or kingdom that will not serve you will perish; it will be utterly destroyed."
+hebrew: "כִּֽי־ הַגּ֧וֹי וְהַמַּמְלָכָ֛ה אֲשֶׁ֥ר לֹא־ יַעַבְד֖וּךְ יֹאבֵ֑דוּ וְהַגּוֹיִ֖ם חָרֹ֥ב יֶחֱרָֽבוּ׃"
+pericope: "[[Isa.60.1 Future Glory for Zion|Future Glory for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 60
+book/chapter: "[[Isa.60|Isaiah 60]]"
+chronological_order: 699
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GLORY|GLORY]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H9002]]"
+- "[[H4467]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H5647G]]"
+- "[[H9032]]"
+- "[[H0006]]"
+- "[[H2717B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 60:12**<big><big>[[Isa.60.1 Future Glory for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the nation and kingdom that will not serve thee shall perish; yea, [those] nations shall be utterly wasted.
 <small><sub>**BSB:**</sub></small>
 For the nation or kingdom that will not serve you will perish; it will be utterly destroyed.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּ֧וֹי]] [[H9002\|וְ]][[H9009\|הַ]][[H4467\|מַּמְלָכָ֛ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹא]][[H9014\|־]] [[H5647G\|יַעַבְד֖וּ]][[H9032\|ךְ]] [[H0006\|יֹאבֵ֑דוּ]] [[H9002\|וְ]][[H9009\|הַ]][[H1471A\|גּוֹיִ֖ם]] [[H2717B\|חָרֹ֥ב]] [[H2717B\|יֶחֱרָֽבוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic GLORY|GLORY]] • [[topic GOSPEL|GOSPEL]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.60.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.11|<< Isaiah 60:11]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.13|Isaiah 60:13 >>]]</td></tr></table>
 

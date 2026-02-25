@@ -1,10 +1,70 @@
+---
+title: John 11:31
+type: Verse
+kjv: "The Jews then which were with her in the house, and comforted her, when they saw Mary, that she rose up hastily and went out, followed her, saying, She goeth unto the grave to weep there."
+bsb: "When the Jews who were in the house consoling Mary saw how quickly she got up and went out, they followed her, supposing she was going to the tomb to mourn there."
+greek: "Οἱ οὖν Ἰουδαῖοι οἱ ὄντες μετ᾽ αὐτῆς ἐν τῇ οἰκίᾳ καὶ παραμυθούμενοι αὐτήν, ἰδόντες τὴν Μαριὰμ ὅτι ταχέως ἀνέστη καὶ ἐξῆλθεν, ἠκολούθησαν αὐτῇ, δόξαντες ὅτι ὑπάγει εἰς τὸ μνημεῖον ἵνα κλαύσῃ ἐκεῖ."
+pericope: "[[John.11.17 Jesus Comforts Martha and Mary|Jesus Comforts Martha and Mary]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONDOLENCE|CONDOLENCE]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SORROW|SORROW]]"
+strongs:
+- "[[G3588]]"
+- "[[G3767]]"
+- "[[G2453]]"
+- "[[G1510]]"
+- "[[G3326]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3614G]]"
+- "[[G2532]]"
+- "[[G3888]]"
+- "[[G1492H]]"
+- "[[G3137J]]"
+- "[[G3754G]]"
+- "[[G5030]]"
+- "[[G0450]]"
+- "[[G1831]]"
+- "[[G0190]]"
+- "[[G1380]]"
+- "[[G5217]]"
+- "[[G1519]]"
+- "[[G3419]]"
+- "[[G2443]]"
+- "[[G2799]]"
+- "[[G1563]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **John 11:31**<big><big>[[John.11.17 Jesus Comforts Martha and Mary|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The Jews then which were with her in the house, and comforted her, when they saw Mary, that she rose up hastily and went out, followed her, saying, She goeth unto the grave to weep there.
 <small><sub>**BSB:**</sub></small>
 When the Jews who were in the house consoling Mary saw how quickly she got up and went out, they followed her, supposing she was going to the tomb to mourn there.
-<small><sub>**Literal:**</sub></small>
-The then Jews who are being with her in the house and consoling her, having seen <the> Mary that soon she rose up and went out, followed after her, having supposed that she is going to the tomb that she may weep there.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.30|<< John 11:30]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.32|John 11:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Οἱ]]  [[G3767\|οὖν]]  [[G2453\|Ἰουδαῖοι]]  [[G3588\|οἱ]]  [[G1510\|ὄντες]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτῆς]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3614G\|οἰκίᾳ]]  [[G2532\|καὶ]]  [[G3888\|παραμυθούμενοι]]  [[G0846\|αὐτήν,]]  [[G1492H\|ἰδόντες]]  [[G3588\|τὴν]]  [[G3137J\|Μαριὰμ]]  [[G3754G\|ὅτι]]  [[G5030\|ταχέως]]  [[G0450\|ἀνέστη]]  [[G2532\|καὶ]]  [[G1831\|ἐξῆλθεν,]]  [[G0190\|ἠκολούθησαν]]  [[G0846\|αὐτῇ,]]  [[G1380\|δόξαντες]]  [[G3754G\|ὅτι]]  [[G5217\|ὑπάγει]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3419\|μνημεῖον]]  [[G2443\|ἵνα]]  [[G2799\|κλαύσῃ]]  [[G1563\|ἐκεῖ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDOLENCE|CONDOLENCE]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SORROW|SORROW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.30|<< John 11:30]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.32|John 11:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

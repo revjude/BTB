@@ -1,8 +1,58 @@
+---
+title: Isaiah 42:19
+type: Verse
+kjv: "Who is blind, but my servant? or deaf, as my messenger that I sent? who is blind as he that is perfect, and blind as the LORD’S servant?"
+bsb: "Who is blind but My servant, or deaf like the messenger I am sending? Who is blind like My covenant partner, or blind like the servant of the LORD?"
+hebrew: "מִ֤י עִוֵּר֙ כִּ֣י אִם־ עַבְדִּ֔י וְחֵרֵ֖שׁ כְּמַלְאָכִ֣י אֶשְׁלָ֑ח מִ֤י עִוֵּר֙ כִּמְשֻׁלָּ֔ם וְעִוֵּ֖ר כְּעֶ֥בֶד יְהוָֽה׃"
+pericope: "[[Isa.42.18 Israel Is Deaf and Blind|Israel Is Deaf and Blind]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 42
+book/chapter: "[[Isa.42|Isaiah 42]]"
+chronological_order: 681
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H4310]]"
+- "[[H5787]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H2795]]"
+- "[[H9004]]"
+- "[[H4397G]]"
+- "[[H7971G]]"
+- "[[H7999B]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 42:19**<big><big>[[Isa.42.18 Israel Is Deaf and Blind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [is] blind, but my servant? or deaf, as my messenger [that] I sent? who [is] blind as [he that is] perfect, and blind as the LORD’S servant?
 <small><sub>**BSB:**</sub></small>
 Who is blind but My servant, or deaf like the messenger I am sending? Who is blind like My covenant partner, or blind like the servant of the LORD?
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִ֤י]] [[H5787\|עִוֵּר֙]] [[H3588B\|כִּ֣י]] [[H0518B\|אִם]][[H9014\|־]] [[H5650\|עַבְדִּ֔]][[H9020\|י]] [[H9002\|וְ]][[H2795\|חֵרֵ֖שׁ]] [[H9004\|כְּ]][[H4397G\|מַלְאָכִ֣]][[H9020\|י]] [[H7971G\|אֶשְׁלָ֑ח]] [[H4310\|מִ֤י]] [[H5787\|עִוֵּר֙]] [[H9004\|כִּ]][[H7999B\|מְשֻׁלָּ֔ם]] [[H9002\|וְ]][[H5787\|עִוֵּ֖ר]] [[H9004\|כְּ]][[H5650\|עֶ֥בֶד]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic ISAIAH|ISAIAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.18|<< Isaiah 42:18]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.20|Isaiah 42:20 >>]]</td></tr></table>
 

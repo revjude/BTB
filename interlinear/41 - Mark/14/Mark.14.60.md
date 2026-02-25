@@ -1,10 +1,62 @@
+---
+title: Mark 14:60
+type: Verse
+kjv: "And the high priest stood up in the midst, and asked Jesus, saying, Answerest thou nothing? what is it which these witness against thee?"
+bsb: "So the high priest stood up before them and questioned Jesus, “Have You no answer? What are these men testifying against You?”"
+greek: "καὶ ἀναστὰς ὁ ἀρχιερεὺς εἰς τὸ μέσον ἐπηρώτησεν τὸν Ἰησοῦν λέγων· οὐκ ἀποκρίνῃ οὐδὲν τί οὗτοί σου καταμαρτυροῦσιν;"
+pericope: "[[Mark.14.53 Jesus before the Sanhedrin|Jesus before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G0450]]"
+- "[[G3588]]"
+- "[[G0749]]"
+- "[[G1519]]"
+- "[[G3319]]"
+- "[[G1905]]"
+- "[[G2424G]]"
+- "[[G3004G]]"
+- "[[G3756]]"
+- "[[G0611]]"
+- "[[G3762]]"
+- "[[G5101]]"
+- "[[G3778]]"
+- "[[G4771]]"
+- "[[G2649]]"
+texts:
+- NKO
+- k
+---
+
 **Mark 14:60**<big><big>[[Mark.14.53 Jesus before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the high priest stood up in the midst, and asked Jesus, saying, Answerest thou nothing? what [is it which] these witness against thee?
 <small><sub>**BSB:**</sub></small>
 So the high priest stood up before them and questioned Jesus, “Have You no answer? What are these men testifying against You?”
-<small><sub>**Literal:**</sub></small>
-And having stood up the high priest in the midst he questioned <the> Jesus saying; Not answer You no [thing] What [about] these You testify against?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.59|<< Mark 14:59]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.61|Mark 14:61 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0450\|ἀναστὰς]]  [[G3588\|ὁ]]  [[G0749\|ἀρχιερεὺς]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3319\|μέσον]]  [[G1905\|ἐπηρώτησεν]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G3004G\|λέγων·]]  [[G3756\|οὐκ]]  [[G0611\|ἀποκρίνῃ]]  [[G3762\|οὐδὲν]]  [[G5101\|τί]]  [[G3778\|οὗτοί]]  [[G4771\|σου]]  [[G2649\|καταμαρτυροῦσιν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.59|<< Mark 14:59]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.61|Mark 14:61 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

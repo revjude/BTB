@@ -1,8 +1,73 @@
+---
+title: Genesis 2:17
+type: Verse
+kjv: "But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die."
+bsb: "but you must not eat from the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die.”"
+hebrew: "וּמֵעֵ֗ץ הַדַּ֙עַת֙ ט֣וֹב וָרָ֔ע לֹ֥א תֹאכַ֖ל מִמֶּ֑נּוּ כִּ֗י בְּי֛וֹם אֲכָלְךָ֥ מִמֶּ֖נּוּ מ֥וֹת תָּמֽוּת׃"
+pericope: "[[Gen.2.4 Man and Woman in the Garden|Man and Woman in the Garden]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 2
+book/chapter: "[[Gen.2|Genesis 2]]"
+chronological_order: 2
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic EDEN|EDEN]]"
+- "[[topic FALL OF MAN|FALL OF MAN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic KNOWLEDGE|KNOWLEDGE]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TREE|TREE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H6086H]]"
+- "[[H9009]]"
+- "[[H1847]]"
+- "[[H2896B]]"
+- "[[H7451B]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9041]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 2:17**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die.
 <small><sub>**BSB:**</sub></small>
 but you must not eat from the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מֵ]][[H6086H\|עֵ֗ץ]] [[H9009\|הַ]][[H1847\|דַּ֙עַת֙]] [[H2896B\|ט֣וֹב]] [[H9002\|וָ]][[H7451B\|רָ֔ע]] [[H3808\|לֹ֥א]] [[H0398\|תֹאכַ֖ל]] [[H4480A\|מִמֶּ֑]][[H9033\|נּוּ]] [[H3588A\|כִּ֗י]] [[H9003\|בְּ]][[H3117G\|י֛וֹם]] [[H0398\|אֲכָלְ]][[H9041\|ךָ֥]] [[H4480A\|מִמֶּ֖]][[H9033\|נּוּ]] [[H4191\|מ֥וֹת]] [[H4191\|תָּמֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic COVENANT|COVENANT]] • [[topic DEATH|DEATH]] • [[topic EDEN|EDEN]] • [[topic FALL OF MAN|FALL OF MAN]] • [[topic GOD|GOD]] • [[topic KNOWLEDGE|KNOWLEDGE]] • [[topic PROBATION|PROBATION]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SIN|SIN]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TREE|TREE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.16|<< Genesis 2:16]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.18|Genesis 2:18 >>]]</td></tr></table>
 

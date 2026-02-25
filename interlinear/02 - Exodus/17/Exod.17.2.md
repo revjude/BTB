@@ -1,8 +1,77 @@
+---
+title: Exodus 17:2
+type: Verse
+kjv: "Wherefore the people did chide with Moses, and said, Give us water that we may drink. And Moses said unto them, Why chide ye with me? wherefore do ye tempt the LORD?"
+bsb: "So the people contended with Moses, “Give us water to drink.” “Why do you contend with me?” Moses replied. “Why do you test the LORD?”"
+hebrew: "וַיָּ֤רֶב הָעָם֙ עִם־ מֹשֶׁ֔ה וַיֹּ֣אמְר֔וּ תְּנוּ־ לָ֥נוּ מַ֖יִם וְנִשְׁתֶּ֑ה וַיֹּ֤אמֶר לָהֶם֙ מֹשֶׁ֔ה מַה־ תְּרִיבוּן֙ עִמָּדִ֔י מַה־ תְּנַסּ֖וּן אֶת־ יְהוָֽה׃"
+pericope: "[[Exod.17.1 Water from the Rock|Water from the Rock]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 17
+book/chapter: "[[Exod.17|Exodus 17]]"
+chronological_order: 109
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic MERIBAH|MERIBAH]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7378]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H0559]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H4325G]]"
+- "[[H9002]]"
+- "[[H8354]]"
+- "[[H9038]]"
+- "[[H4100]]"
+- "[[H9013]]"
+- "[[H5978]]"
+- "[[H9030]]"
+- "[[H5254G]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 17:2**<big><big>[[Exod.17.1 Water from the Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore the people did chide with Moses, and said, Give us water that we may drink. And Moses said unto them, Why chide ye with me? wherefore do ye tempt the LORD?
 <small><sub>**BSB:**</sub></small>
 So the people contended with Moses, “Give us water to drink.” “Why do you contend with me?” Moses replied. “Why do you test the LORD?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7378\|יָּ֤רֶב]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H5973A\|עִם]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H9001\|וַ]][[H0559\|יֹּ֣אמְר֔וּ]] [[H5414G\|תְּנוּ]][[H9014\|־]] [[H9005\|לָ֥]][[H9035\|נוּ]] [[H4325G\|מַ֖יִם]] [[H9002\|וְ]][[H8354\|נִשְׁתֶּ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H4872\|מֹשֶׁ֔ה]] [[H4100\|מַה]][[H9014\|־]] [[H7378\|תְּרִיבוּ]][[H9013\|ן֙]] [[H5978\|עִמָּדִ֔]][[H9030\|י]] [[H4100\|מַה]][[H9014\|־]] [[H5254G\|תְּנַסּ֖וּ]][[H9013\|ן]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic ISRAEL|ISRAEL]] • [[topic MEEKNESS|MEEKNESS]] • [[topic MERIBAH|MERIBAH]] • [[topic MOSES|MOSES]] • [[topic MURMURING|MURMURING]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.17.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.17.1|<< Exodus 17:1]]</td><td align="center" style="border:none;">[[Exod.17|Exodus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.17.3|Exodus 17:3 >>]]</td></tr></table>
 

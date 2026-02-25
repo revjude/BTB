@@ -1,10 +1,60 @@
+---
+title: Mark 3:28
+type: Verse
+kjv: "Verily I say unto you, All sins shall be forgiven unto the sons of men, and blasphemies wherewith soever they shall blaspheme:"
+bsb: "Truly I tell you, the sons of men will be forgiven all sins and blasphemies, as many as they utter."
+jesus_said: "Verily I say unto you, All sins shall be forgiven unto the sons of men, and blasphemies wherewith soever they shall blaspheme:"
+greek: "Ἀμὴν λέγω ὑμῖν ὅτι πάντα ἀφεθήσεται τοῖς υἱοῖς τῶν ἀνθρώπων τὰ ἁμαρτήματα καὶ αἱ βλασφημίαι ὅσα ἐὰν βλασφημήσωσιν·"
+pericope: "[[Mark.3.28 The Unpardonable Sin|The Unpardonable Sin]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 3
+book/chapter: "[[Mark.3|Mark 3]]"
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G3956]]"
+- "[[G0863H]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G0265]]"
+- "[[G2532]]"
+- "[[G0988]]"
+- "[[G3745]]"
+- "[[G1437]]"
+- "[[G0987]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Mark 3:28**<big><big>[[Mark.3.28 The Unpardonable Sin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Verily I say unto you, All sins shall be forgiven unto the sons of men, and blasphemies wherewith soever they shall blaspheme:
 <small><sub>**BSB:**</sub></small>
 Truly I tell you, the sons of men will be forgiven all sins and blasphemies, as many as they utter.
-<small><sub>**Literal:**</sub></small>
-Amen I say to you that all will be forgiven to the sons <the> of men the sins and the blasphemies as much as if they shall have blasphemed;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.27|<< Mark 3:27]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.29|Mark 3:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0281\|Ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G3956\|πάντα]]  [[G0863H\|ἀφεθήσεται]]  [[G3588\|τοῖς]]  [[G5207\|υἱοῖς]]  [[G3588\|τῶν]]  [[G0444\|ἀνθρώπων]]  [[G3588\|τὰ]]  [[G0265\|ἁμαρτήματα]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G0988\|βλασφημίαι]]  [[G3745\|ὅσα]]  [[G1437\|ἐὰν]]  [[G0987\|βλασφημήσωσιν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SIN|SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.27|<< Mark 3:27]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.29|Mark 3:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

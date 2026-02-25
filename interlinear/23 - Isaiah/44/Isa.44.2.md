@@ -1,8 +1,66 @@
+---
+title: Isaiah 44:2
+type: Verse
+kjv: "Thus saith the LORD that made thee, and formed thee from the womb, which will help thee; Fear not, O Jacob, my servant; and thou, Jesurun, whom I have chosen."
+bsb: "This is the word of the LORD, your Maker, who formed you from the womb and who will help you: “Do not be afraid, O Jacob My servant, Jeshurun, whom I have chosen."
+hebrew: "כֹּה־ אָמַ֨ר יְהוָ֥ה עֹשֶׂ֛ךָ וְיֹצֶרְךָ֥ מִבֶּ֖טֶן יַעְזְרֶ֑ךָּ אַל־ תִּירָא֙ עַבְדִּ֣י יַֽעֲקֹ֔ב וִישֻׁר֖וּן בָּחַ֥רְתִּי בֽוֹ׃"
+pericope: "[[Isa.44.1 The LORD Has Chosen Israel|The LORD Has Chosen Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 44
+book/chapter: "[[Isa.44|Isaiah 44]]"
+chronological_order: 683
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESHURUN|JESHURUN]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6213H]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H3335G]]"
+- "[[H9006]]"
+- "[[H0990H]]"
+- "[[H5826]]"
+- "[[H0408]]"
+- "[[H3372G]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H3290]]"
+- "[[H3484]]"
+- "[[H0977]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 44:2**<big><big>[[Isa.44.1 The LORD Has Chosen Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD that made thee, and formed thee from the womb, [which] will help thee; Fear not, O Jacob, my servant; and thou, Jesurun, whom I have chosen.
 <small><sub>**BSB:**</sub></small>
 This is the word of the LORD, your Maker, who formed you from the womb and who will help you: “Do not be afraid, O Jacob My servant, Jeshurun, whom I have chosen.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּה]][[H9014\|־]] [[H0559\|אָמַ֨ר]] [[H3068G\|יְהוָ֥ה]] [[H6213H\|עֹשֶׂ֛]][[H9031\|ךָ]] [[H9002\|וְ]][[H3335G\|יֹצֶרְ]][[H9031\|ךָ֥]] [[H9006\|מִ]][[H0990H\|בֶּ֖טֶן]] [[H5826\|יַעְזְרֶ֑]][[H9031\|ךָּ]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָא֙]] [[H5650\|עַבְדִּ֣]][[H9020\|י]] [[H3290\|יַֽעֲקֹ֔ב]] [[H9002\|וִ]][[H3484\|ישֻׁר֖וּן]] [[H0977\|בָּחַ֥רְתִּי]] [[H9003\|בֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic JESHURUN|JESHURUN]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.1|<< Isaiah 44:1]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.3|Isaiah 44:3 >>]]</td></tr></table>
 

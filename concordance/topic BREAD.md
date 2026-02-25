@@ -43,7 +43,7 @@
 
 - Baked in ovens [[Exod.8.3|Ex 8:3]]; [[Lev.2.4|Le 2:4]]; [[Lev.7.9|7:9]]; [[Lev.11.35|11:35]]; [[Lev.26.26|26:26]]; [[Hos.7.4|Ho  7:4]]
 
-- in pans [[Lev.2.5|Le 2:5]],[[Lev.2.7|7]]; [[2Sam.13.6|2Sa 13:6]]-[[2Sam.13.9|9]]
+- in pans [[Lev.2.5|Le 2:5]],[[Lev.2.7|7]]; [[2Sam.13.6|2Sa 13:6-9]]
 
 - on hearths [[Gen.18.6|Ge 18:6]]
 
@@ -67,7 +67,7 @@
 
 → FIGURATIVE [[Isa.55.2|Isa 55:2]]; [[1Cor.10.17|1Co 10:17]]; [[2Cor.9.10|2Co 9:10]]
 
-- Christ [[John.6.32|Joh 6:32]]-[[John.6.35|35]]
+- Christ [[John.6.32|Joh 6:32-35]]
 
 → SYMBOLICAL
 

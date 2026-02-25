@@ -1,8 +1,67 @@
+---
+title: Exodus 9:1
+type: Verse
+kjv: "Then the LORD said unto Moses, Go in unto Pharaoh, and tell him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me."
+bsb: "Then the LORD said to Moses, “Go to Pharaoh and tell him that this is what the LORD, the God of the Hebrews, says: ‘Let My people go, so that they may worship Me."
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֶל־ מֹשֶׁ֔ה בֹּ֖א אֶל־ פַּרְעֹ֑ה וְדִבַּרְתָּ֣ אֵלָ֗יו כֹּֽה־ אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י הָֽעִבְרִ֔ים שַׁלַּ֥ח אֶת־ עַמִּ֖י וְיַֽעַבְדֻֽנִי׃"
+pericope: "[[Exod.9.1 The Fifth Plague：Livestock|The Fifth Plague：Livestock]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 9
+book/chapter: "[[Exod.9|Exodus 9]]"
+chronological_order: 101
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H0935G]]"
+- "[[H6547J]]"
+- "[[H1696G]]"
+- "[[H9033]]"
+- "[[H3541]]"
+- "[[H0430G]]"
+- "[[H9009]]"
+- "[[H5680]]"
+- "[[H7971H]]"
+- "[[H0853]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H5647H]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 9:1**<big><big>[[Exod.9.1 The Fifth Plague：Livestock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the LORD said unto Moses, Go in unto Pharaoh, and tell him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Moses, “Go to Pharaoh and tell him that this is what the LORD, the God of the Hebrews, says: ‘Let My people go, so that they may worship Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H0935G\|בֹּ֖א]] [[H0413\|אֶל]][[H9014\|־]] [[H6547J\|פַּרְעֹ֑ה]] [[H9001\|וְ]][[H1696G\|דִבַּרְתָּ֣]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֤ר]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H9009\|הָֽ]][[H5680\|עִבְרִ֔ים]] [[H7971H\|שַׁלַּ֥ח]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ֖]][[H9020\|י]] [[H9002\|וְ]][[H5647H\|יַֽעַבְדֻֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.32|<< Exodus 8:32]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.2|Exodus 9:2 >>]]</td></tr></table>
 

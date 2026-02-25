@@ -1,8 +1,65 @@
+---
+title: 1 Samuel 26:3
+type: Verse
+kjv: "And Saul pitched in the hill of Hachilah, which is before Jeshimon, by the way. But David abode in the wilderness, and he saw that Saul came after him into the wilderness."
+bsb: "Saul camped beside the road at the hill of Hachilah opposite Jeshimon, but David was living in the wilderness. When he realized that Saul had followed him there,"
+hebrew: "וַיִּ֨חַן שָׁא֜וּל בְּגִבְעַ֣ת הַחֲכִילָ֗ה אֲשֶׁ֛ר עַל־ פְּנֵ֥י הַיְשִׁימֹ֖ן עַל־ הַדָּ֑רֶךְ וְדָוִד֙ יֹשֵׁ֣ב בַּמִּדְבָּ֔ר וַיַּ֕רְא כִּ֣י בָ֥א שָׁא֛וּל אַחֲרָ֖יו הַמִּדְבָּֽרָה׃"
+pericope: "[[1Sam.26.1 David Again Spares Saul|David Again Spares Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 26
+book/chapter: "[[1Sam.26|1 Samuel 26]]"
+chronological_order: 305
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HACHILAH|HACHILAH]]"
+- "[[topic SELF-CONTROL|SELF-CONTROL]]"
+strongs:
+- "[[H9001]]"
+- "[[H2583]]"
+- "[[H7586G]]"
+- "[[H9003]]"
+- "[[H1389I]]"
+- "[[H9009]]"
+- "[[H2444]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440K]]"
+- "[[H3452G]]"
+- "[[H1870K]]"
+- "[[H9002]]"
+- "[[H1732]]"
+- "[[H3427]]"
+- "[[H4057B]]"
+- "[[H7200G]]"
+- "[[H3588A]]"
+- "[[H0935G]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 26:3**<big><big>[[1Sam.26.1 David Again Spares Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul pitched in the hill of Hachilah, which [is] before Jeshimon, by the way. But David abode in the wilderness, and he saw that Saul came after him into the wilderness.
 <small><sub>**BSB:**</sub></small>
 Saul camped beside the road at the hill of Hachilah opposite Jeshimon, but David was living in the wilderness. When he realized that Saul had followed him there,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2583\|יִּ֨חַן]] [[H7586G\|שָׁא֜וּל]] [[H9003\|בְּ]][[H1389I\|גִבְעַ֣ת]] [[H9009\|הַ]][[H2444\|חֲכִילָ֗ה]] [[H0834A\|אֲשֶׁ֛ר]] [[H5921A\|עַל]][[H9014\|־]] [[H6440K\|פְּנֵ֥י]] [[H9009\|הַ]][[H3452G\|יְשִׁימֹ֖ן]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1870K\|דָּ֑רֶךְ]] [[H9002\|וְ]][[H1732\|דָוִד֙]] [[H3427\|יֹשֵׁ֣ב]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֔ר]] [[H9001\|וַ]][[H7200G\|יַּ֕רְא]] [[H3588A\|כִּ֣י]] [[H0935G\|בָ֥א]] [[H7586G\|שָׁא֛וּל]] [[H0310A\|אַחֲרָ֖י]][[H9033\|ו]] [[H9009\|הַ]][[H4057B\|מִּדְבָּֽרָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HACHILAH|HACHILAH]] • [[topic SELF-CONTROL|SELF-CONTROL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.26.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.2|<< 1 Samuel 26:2]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.4|1 Samuel 26:4 >>]]</td></tr></table>
 

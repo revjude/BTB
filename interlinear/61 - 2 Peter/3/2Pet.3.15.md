@@ -1,10 +1,60 @@
+---
+title: 2 Peter 3:15
+type: Verse
+kjv: "And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you;"
+bsb: "Consider also that our Lord’s patience brings salvation, just as our beloved brother Paul also wrote you with the wisdom God gave him."
+greek: "καὶ τὴν τοῦ κυρίου ἡμῶν μακροθυμίαν σωτηρίαν ἡγεῖσθε, καθὼς καὶ ὁ ἀγαπητὸς ἡμῶν ἀδελφὸς Παῦλος κατὰ τὴν δοθεῖσαν αὐτῷ σοφίαν ἔγραψεν ὑμῖν,"
+pericope: "[[2Pet.3.14 Final Exhortations|Final Exhortations]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 3
+book/chapter: "[[2Pet.3|2 Peter 3]]"
+chronological_order: 1159
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G3115]]"
+- "[[G4991]]"
+- "[[G2233]]"
+- "[[G2531]]"
+- "[[G0027]]"
+- "[[G0080]]"
+- "[[G3972G]]"
+- "[[G2596]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G4678]]"
+- "[[G1125]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **2 Peter 3:15**<big><big>[[2Pet.3.14 Final Exhortations|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And account [that] the longsuffering of our Lord [is] salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you;
 <small><sub>**BSB:**</sub></small>
 Consider also that our Lord’s patience brings salvation, just as our beloved brother Paul also wrote you with the wisdom God gave him.
-<small><sub>**Literal:**</sub></small>
-And the of the Lord of us patience [as] salvation do esteem, even as also the beloved of us brother Paul according to the having been given to him wisdom wrote to you,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.14|<< 2 Peter 3:14]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.16|2 Peter 3:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G3115\|μακροθυμίαν]]  [[G4991\|σωτηρίαν]]  [[G2233\|ἡγεῖσθε,]]  [[G2531\|καθὼς]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G0027\|ἀγαπητὸς]]  [[G3165\|ἡμῶν]]  [[G0080\|ἀδελφὸς]]  [[G3972G\|Παῦλος]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G1325\|δοθεῖσαν]]  [[G0846\|αὐτῷ]]  [[G4678\|σοφίαν]]  [[G1125\|ἔγραψεν]]  [[G4771\|ὑμῖν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic SALVATION|SALVATION]] • [[topic WISDOM|WISDOM]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.14|<< 2 Peter 3:14]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.16|2 Peter 3:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

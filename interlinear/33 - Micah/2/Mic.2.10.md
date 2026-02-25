@@ -1,8 +1,59 @@
+---
+title: Micah 2:10
+type: Verse
+kjv: "Arise ye, and depart; for this is not your rest: because it is polluted, it shall destroy you, even with a sore destruction."
+bsb: "Arise and depart, for this is not your place of rest, because its defilement brings destruction—a grievous destruction!"
+hebrew: "ק֣וּמוּ וּלְכ֔וּ כִּ֥י לֹא־ זֹ֖את הַמְּנוּחָ֑ה בַּעֲב֥וּר טָמְאָ֛ה תְּחַבֵּ֖ל וְחֶ֥בֶל נִמְרָֽץ׃"
+pericope: "[[Mic.2.6 Reproof of False Prophets|Reproof of False Prophets]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 2
+book/chapter: "[[Mic.2|Micah 2]]"
+chronological_order: 624
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MICAH|MICAH]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H6965B]]"
+- "[[H9002]]"
+- "[[H1980G]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H9009]]"
+- "[[H4496H]]"
+- "[[H9003]]"
+- "[[H5668]]"
+- "[[H2930A]]"
+- "[[H2254B]]"
+- "[[H2256D]]"
+- "[[H4834]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 2:10**<big><big>[[Mic.2.6 Reproof of False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise ye, and depart; for this [is] not [your] rest: because it is polluted, it shall destroy [you], even with a sore destruction.
 <small><sub>**BSB:**</sub></small>
 Arise and depart, for this is not your place of rest, because its defilement brings destruction—a grievous destruction!
+<small><sub>**Hebrew:**</sub></small>
+[[H6965B\|ק֣וּמוּ]] [[H9002\|וּ]][[H1980G\|לְכ֔וּ]] [[H3588A\|כִּ֥י]] [[H3808\|לֹא]][[H9014\|־]] [[H2063\|זֹ֖את]] [[H9009\|הַ]][[H4496H\|מְּנוּחָ֑ה]] [[H9003\|בַּ]][[H5668\|עֲב֥וּר]] [[H2930A\|טָמְאָ֛ה]] [[H2254B\|תְּחַבֵּ֖ל]] [[H9002\|וְ]][[H2256D\|חֶ֥בֶל]] [[H4834\|נִמְרָֽץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MICAH|MICAH]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.2.9|<< Micah 2:9]]</td><td align="center" style="border:none;">[[Mic.2|Micah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2.11|Micah 2:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

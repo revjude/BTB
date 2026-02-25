@@ -1,8 +1,67 @@
+---
+title: Leviticus 26:12
+type: Verse
+kjv: "And I will walk among you, and will be your God, and ye shall be my people."
+bsb: "I will walk among you and be your God, and you will be My people."
+hebrew: "וְהִתְהַלַּכְתִּי֙ בְּת֣וֹכְכֶ֔ם וְהָיִ֥יתִי לָכֶ֖ם לֵֽאלֹהִ֑ים וְאַתֶּ֖ם תִּהְיוּ־ לִ֥י לְעָֽם׃"
+pericope: "[[Lev.26.1 Additional Blessings of Obedience|Additional Blessings of Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REWARD|REWARD]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9026]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H0859D]]"
+- "[[H9014]]"
+- "[[H9030]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 26:12**<big><big>[[Lev.26.1 Additional Blessings of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will walk among you, and will be your God, and ye shall be my people.
 <small><sub>**BSB:**</sub></small>
 I will walk among you and be your God, and you will be My people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1980I\|הִתְהַלַּכְתִּי֙]] [[H9003\|בְּ]][[H8432\|ת֣וֹכְ]][[H9026\|כֶ֔ם]] [[H9001\|וְ]][[H1961\|הָיִ֥יתִי]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H9005\|לֵֽ]][[H0430G\|אלֹהִ֑ים]] [[H9002\|וְ]][[H0859D\|אַתֶּ֖ם]] [[H1961\|תִּהְיוּ]][[H9014\|־]] [[H9005\|לִ֥]][[H9030\|י]] [[H9005\|לְ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic BLESSING|BLESSING]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REWARD|REWARD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.11|<< Leviticus 26:11]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.13|Leviticus 26:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

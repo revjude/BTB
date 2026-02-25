@@ -1,8 +1,58 @@
+---
+title: Judges 5:18
+type: Verse
+kjv: "Zebulun and Naphtali were a people that jeoparded their lives unto the death in the high places of the field."
+bsb: "Zebulun was a people who risked their lives; Naphtali, too, on the heights of the battlefield."
+hebrew: "זְבֻל֗וּן עַ֣ם חֵרֵ֥ף נַפְשׁ֛וֹ לָמ֖וּת וְנַפְתָּלִ֑י עַ֖ל מְרוֹמֵ֥י שָׂדֶֽה׃"
+pericope: "[[Judg.5.1 The Song of Deborah and Barak|The Song of Deborah and Barak]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 5
+book/chapter: "[[Judg.5|Judges 5]]"
+chronological_order: 259
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic NAPHTALI|NAPHTALI]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic ZEBULUN|ZEBULUN]]"
+strongs:
+- "[[H2074]]"
+- "[[H5971A]]"
+- "[[H2778A]]"
+- "[[H5315H]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H4191]]"
+- "[[H9002]]"
+- "[[H5321G]]"
+- "[[H5921A]]"
+- "[[H4791]]"
+- "[[H7704G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 5:18**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Zebulun and Naphtali [were] a people [that] jeoparded their lives unto the death in the high places of the field.
 <small><sub>**BSB:**</sub></small>
 Zebulun was a people who risked their lives; Naphtali, too, on the heights of the battlefield.
+<small><sub>**Hebrew:**</sub></small>
+[[H2074\|זְבֻל֗וּן]] [[H5971A\|עַ֣ם]] [[H2778A\|חֵרֵ֥ף]] [[H5315H\|נַפְשׁ֛]][[H9023\|וֹ]] [[H9005\|לָ]][[H4191\|מ֖וּת]] [[H9002\|וְ]][[H5321G\|נַפְתָּלִ֑י]] [[H5921A\|עַ֖ל]] [[H4791\|מְרוֹמֵ֥י]] [[H7704G\|שָׂדֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHIDING|CHIDING]] • [[topic COUNTRY|COUNTRY]] • [[topic NAPHTALI|NAPHTALI]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic SERVANT|SERVANT]] • [[topic ZEBULUN|ZEBULUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.17|<< Judges 5:17]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.19|Judges 5:19 >>]]</td></tr></table>
 

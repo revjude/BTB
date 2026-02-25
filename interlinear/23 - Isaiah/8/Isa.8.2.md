@@ -1,8 +1,62 @@
+---
+title: Isaiah 8:2
+type: Verse
+kjv: "And I took unto me faithful witnesses to record, Uriah the priest, and Zechariah the son of Jeberechiah."
+bsb: "And I will appoint for Myself trustworthy witnesses—Uriah the priest and Zechariah son of Jeberekiah.”"
+hebrew: "וְאָעִ֣ידָה לִּ֔י עֵדִ֖ים נֶאֱמָנִ֑ים אֵ֚ת אוּרִיָּ֣ה הַכֹּהֵ֔ן וְאֶת־ זְכַרְיָ֖הוּ בֶּ֥ן יְבֶרֶכְיָֽהוּ׃"
+pericope: "[[Isa.8.1 Assyrian Invasion Prophesied|Assyrian Invasion Prophesied]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 8
+book/chapter: "[[Isa.8|Isaiah 8]]"
+chronological_order: 618
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic JEBERECHIAH|JEBERECHIAH]]"
+- "[[topic MAHER-SHALAL-HASH-BAZ|MAHER-SHALAL-HASH-BAZ]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic URIAH|URIAH]]"
+- "[[topic URIJAH|URIJAH]]"
+- "[[topic WITNESS|WITNESS]]"
+- "[[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]"
+strongs:
+- "[[H9002]]"
+- "[[H5749B]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H5707]]"
+- "[[H0539]]"
+- "[[H0853]]"
+- "[[H0223G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9014]]"
+- "[[H2148z]]"
+- "[[H1121A]]"
+- "[[H3000]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 8:2**<big><big>[[Isa.8.1 Assyrian Invasion Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I took unto me faithful witnesses to record, Uriah the priest, and Zechariah the son of Jeberechiah.
 <small><sub>**BSB:**</sub></small>
 And I will appoint for Myself trustworthy witnesses—Uriah the priest and Zechariah son of Jeberekiah.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5749B\|אָעִ֣ידָה]] [[H9005\|לִּ֔]][[H9030\|י]] [[H5707\|עֵדִ֖ים]] [[H0539\|נֶאֱמָנִ֑ים]] [[H0853\|אֵ֚ת]] [[H0223G\|אוּרִיָּ֣ה]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2148z\|זְכַרְיָ֖הוּ]] [[H1121A\|בֶּ֥ן]] [[H3000\|יְבֶרֶכְיָֽהוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEBERECHIAH|JEBERECHIAH]] • [[topic MAHER-SHALAL-HASH-BAZ|MAHER-SHALAL-HASH-BAZ]] • [[topic MARRIAGE|MARRIAGE]] • [[topic URIAH|URIAH]] • [[topic URIJAH|URIJAH]] • [[topic WITNESS|WITNESS]] • [[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.8.1|<< Isaiah 8:1]]</td><td align="center" style="border:none;">[[Isa.8|Isaiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.8.3|Isaiah 8:3 >>]]</td></tr></table>
 

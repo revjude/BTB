@@ -1,10 +1,63 @@
+---
+title: Mark 2:22
+type: Verse
+kjv: "And no man putteth new wine into old bottles: else the new wine doth burst the bottles, and the wine is spilled, and the bottles will be marred: but new wine must be put into new bottles."
+bsb: "And no one pours new wine into old wineskins. If he does, the wine will burst the skins, and both the wine and the wineskins will be ruined. Instead, new wine is poured into new wineskins.”"
+jesus_said: "And no man putteth new wine into old bottles: else the new wine doth burst the bottles, and the wine is spilled, and the bottles will be marred: but new wine must be put into new bottles."
+greek: "Καὶ οὐδεὶς βάλλει οἶνον νέον εἰς ἀσκοὺς παλαιούς· εἰ δὲ μή, ῥήξει ὁ οἶνος ὁ νέος τοὺς ἀσκούς, καὶ ὁ οἶνος ἀπόλλυται καὶ οἱ ἀσκοί ἀπολοῦνται· ἀλλ᾽ οἶνον νέον εἰς ἀσκοὺς καινούς βλητέον.¶"
+pericope: "[[Mark.2.21 The Patches and the Wineskins|The Patches and the Wineskins]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 2
+book/chapter: "[[Mark.2|Mark 2]]"
+chronological_order: 947
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BOTTLE|BOTTLE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3762]]"
+- "[[G0906H]]"
+- "[[G3631]]"
+- "[[G3501]]"
+- "[[G1519]]"
+- "[[G0779]]"
+- "[[G3820]]"
+- "[[G1487L]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G4486]]"
+- "[[G3588]]"
+- "[[G0622]]"
+- "[[G0235]]"
+- "[[G2537]]"
+- "[[G0992]]"
+texts:
+- NKO
+- N(k)O
+- k
+- ko
+---
+
 **Mark 2:22**<big><big>[[Mark.2.21 The Patches and the Wineskins|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And no man putteth new wine into old bottles: else the new wine doth burst the bottles, and the wine is spilled, and the bottles will be marred: but new wine must be put into new bottles.
 <small><sub>**BSB:**</sub></small>
 And no one pours new wine into old wineskins. If he does, the wine will burst the skins, and both the wine and the wineskins will be ruined. Instead, new wine is poured into new wineskins.”
-<small><sub>**Literal:**</sub></small>
-And no [one] puts wine new into wineskins old; lest then except, will burst the wine <the> new the wineskins and the wine is destroyed and the wineskins will perish; Instead wine new into wineskins new must be put.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.21|<< Mark 2:21]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.23|Mark 2:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3762\|οὐδεὶς]]  [[G0906H\|βάλλει]]  [[G3631\|οἶνον]]  [[G3501\|νέον]]  [[G1519\|εἰς]]  [[G0779\|ἀσκοὺς]]  [[G3820\|παλαιούς·]]  [[G1487L\|εἰ]]  [[G1161\|δὲ]]  [[G3361\|μή,]]  [[G4486\|ῥήξει]]  [[G3588\|ὁ]]  [[G3631\|οἶνος]]  [[G3588\|ὁ]]  [[G3501\|νέος]]  [[G3588\|τοὺς]]  [[G0779\|ἀσκούς,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3631\|οἶνος]]  [[G0622\|ἀπόλλυται]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0779\|ἀσκοί]]  [[G0622\|ἀπολοῦνται·]]  [[G0235\|ἀλλ᾽]]  [[G3631\|οἶνον]]  [[G3501\|νέον]]  [[G1519\|εἰς]]  [[G0779\|ἀσκοὺς]]  [[G2537\|καινούς]]  [[G0992\|βλητέον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOTTLE|BOTTLE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WINE|WINE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.21|<< Mark 2:21]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.23|Mark 2:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,57 @@
+---
+title: Isaiah 26:12
+type: Verse
+kjv: "LORD, thou wilt ordain peace for us: for thou also hast wrought all our works in us."
+bsb: "O LORD, You will establish peace for us. For all that we have accomplished, You have done for us."
+hebrew: "יְהוָ֕ה תִּשְׁפֹּ֥ת שָׁל֖וֹם לָ֑נוּ כִּ֛י גַּ֥ם כָּֽל־ מַעֲשֵׂ֖ינוּ פָּעַ֥לְתָּ לָּֽנוּ׃"
+pericope: "[[Isa.26.1 A Song of Salvation|A Song of Salvation]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 26
+book/chapter: "[[Isa.26|Isaiah 26]]"
+chronological_order: 669
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic REGENERATION|REGENERATION]]"
+strongs:
+- "[[H3068G]]"
+- "[[H8239]]"
+- "[[H7965G]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H3588A]]"
+- "[[H1571]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4639K]]"
+- "[[H9025]]"
+- "[[H6466]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 26:12**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 LORD, thou wilt ordain peace for us: for thou also hast wrought all our works in us.
 <small><sub>**BSB:**</sub></small>
 O LORD, You will establish peace for us. For all that we have accomplished, You have done for us.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֕ה]] [[H8239\|תִּשְׁפֹּ֥ת]] [[H7965G\|שָׁל֖וֹם]] [[H9005\|לָ֑]][[H9035\|נוּ]] [[H3588A\|כִּ֛י]] [[H1571\|גַּ֥ם]] [[H3605\|כָּֽל]][[H9014\|־]] [[H4639K\|מַעֲשֵׂ֖י]][[H9025\|נוּ]] [[H6466\|פָּעַ֥לְתָּ]] [[H9005\|לָּֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PEACE|PEACE]] • [[topic REGENERATION|REGENERATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.11|<< Isaiah 26:11]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.13|Isaiah 26:13 >>]]</td></tr></table>
 

@@ -1,8 +1,54 @@
+---
+title: Psalm 97:1
+type: Verse
+kjv: "The LORD reigneth; let the earth rejoice; let the multitude of isles be glad thereof."
+bsb: "The LORD reigns, let the earth rejoice; let the distant shores be glad."
+hebrew: "יְהוָ֣ה מָ֭לָךְ תָּגֵ֣ל הָאָ֑רֶץ יִ֝שְׂמְח֗וּ אִיִּ֥ים רַבִּֽים׃"
+pericope: "[[Ps.97.1 Let the Earth Rejoice|Let the Earth Rejoice]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 97
+book/chapter: "[[Ps.97|Psalm 97]]"
+chronological_order: 524
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISLAND|ISLAND]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H3068G]]"
+- "[[H4427A]]"
+- "[[H1523]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H8055]]"
+- "[[H0339]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 97:1**<big><big>[[Ps.97.1 Let the Earth Rejoice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD reigneth; let the earth rejoice; let the multitude of isles be glad [thereof].
 <small><sub>**BSB:**</sub></small>
 The LORD reigns, let the earth rejoice; let the distant shores be glad.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֣ה]] [[H4427A\|מָ֭לָךְ]] [[H1523\|תָּגֵ֣ל]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H8055\|יִ֝שְׂמְח֗וּ]] [[H0339\|אִיִּ֥ים]] [[H7227A\|רַבִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISLAND|ISLAND]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.97.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.96.13|<< Psalms 96:13]]</td><td align="center" style="border:none;">[[Ps.97|Psalms 97]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.97.2|Psalms 97:2 >>]]</td></tr></table>
 

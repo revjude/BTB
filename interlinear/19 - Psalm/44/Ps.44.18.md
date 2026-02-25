@@ -1,8 +1,58 @@
+---
+title: Psalm 44:18
+type: Verse
+kjv: "Our heart is not turned back, neither have our steps declined from thy way;"
+bsb: "Our hearts have not turned back; our steps have not strayed from Your path."
+hebrew: "לֹא־ נָס֣וֹג אָח֣וֹר לִבֵּ֑נוּ וַתֵּ֥ט אֲשֻׁרֵ֗ינוּ מִנִּ֥י אָרְחֶֽךָ׃"
+pericope: "[[Ps.44.1 Redeem Us, O God|Redeem Us, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 44
+book/chapter: "[[Ps.44|Psalm 44]]"
+chronological_order: 499
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FORGETTING GOD|FORGETTING GOD]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5472]]"
+- "[[H0268]]"
+- "[[H3820A]]"
+- "[[H9025]]"
+- "[[H9001]]"
+- "[[H5186]]"
+- "[[H0838A]]"
+- "[[H4480A]]"
+- "[[H0734]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 44:18**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Our heart is not turned back, neither have our steps declined from thy way;
 <small><sub>**BSB:**</sub></small>
 Our hearts have not turned back; our steps have not strayed from Your path.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H5472\|נָס֣וֹג]] [[H0268\|אָח֣וֹר]] [[H3820A\|לִבֵּ֑]][[H9025\|נוּ]] [[H9001\|וַ]][[H5186\|תֵּ֥ט]] [[H0838A\|אֲשֻׁרֵ֗י]][[H9025\|נוּ]] [[H4480A\|מִנִּ֥י]] [[H0734\|אָרְחֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORGETTING GOD|FORGETTING GOD]] • [[topic MURMURING|MURMURING]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.17|<< Psalms 44:17]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.19|Psalms 44:19 >>]]</td></tr></table>
 

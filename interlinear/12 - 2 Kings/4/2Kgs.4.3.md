@@ -1,8 +1,68 @@
+---
+title: 2 Kings 4:3
+type: Verse
+kjv: "Then he said, Go, borrow thee vessels abroad of all thy neighbours, even empty vessels; borrow not a few."
+bsb: "“Go,” said Elisha, “borrow empty jars from all your neighbors. Do not gather just a few."
+hebrew: "וַיֹּ֗אמֶר לְכִ֨י שַׁאֲלִי־ לָ֤ךְ כֵּלִים֙ מִן־ הַח֔וּץ מֵאֵ֖ת כָּל־ שְׁכֵנָ֑יִךְ כֵּלִ֥ים רֵקִ֖ים אַל־ תַּמְעִֽיטִי׃"
+pericope: "[[2Kgs.4.1 The Widow’s Oil|The Widow’s Oil]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic OIL|OIL]]"
+- "[[topic POOR|POOR]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1980G]]"
+- "[[H7592]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H3627]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H2351]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H3605]]"
+- "[[H7934]]"
+- "[[H9022]]"
+- "[[H7386]]"
+- "[[H0408]]"
+- "[[H4591]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **2 Kings 4:3**<big><big>[[2Kgs.4.1 The Widow’s Oil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he said, Go, borrow thee vessels abroad of all thy neighbours, [even] empty vessels; borrow not a few.
 <small><sub>**BSB:**</sub></small>
 “Go,” said Elisha, “borrow empty jars from all your neighbors. Do not gather just a few.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H1980G\|לְכִ֨י]] [[H7592\|שַׁאֲלִי]][[H9014\|־]] [[H9005\|לָ֤]][[H9032\|ךְ]] [[H3627\|כֵּלִים֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H2351\|ח֔וּץ]] [[H9006\|מֵ]][[H0854\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H7934\|שְׁכֵנָ֑יִ]][[H9022\|ךְ]] [[H3627\|כֵּלִ֥ים]] [[H7386\|רֵקִ֖ים]] [[H0408\|אַל]][[H9014\|־]] [[H4591\|תַּמְעִֽיטִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEBTOR|DEBTOR]] • [[topic ELISHA|ELISHA]] • [[topic MIRACLES|MIRACLES]] • [[topic OIL|OIL]] • [[topic POOR|POOR]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SERVANT|SERVANT]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.2|<< 2 Kings 4:2]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.4|2 Kings 4:4 >>]]</td></tr></table>
 

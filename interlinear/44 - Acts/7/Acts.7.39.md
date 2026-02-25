@@ -1,10 +1,62 @@
+---
+title: Acts 7:39
+type: Verse
+kjv: "To whom our fathers would not obey, but thrust him from them, and in their hearts turned back again into Egypt,"
+bsb: "But our fathers refused to obey him. Instead, they rejected him and in their hearts turned back to Egypt."
+greek: "ᾧ οὐκ ἠθέλησαν ὑπήκοοι γενέσθαι οἱ πατέρες ἡμῶν, ἀλλ᾽ ἀπώσαντο καὶ ἐστράφησαν ἐν ταῖς καρδίαις αὐτῶν εἰς Αἴγυπτον,"
+pericope: "[[Acts.7.39 The Rebellion of Israel|The Rebellion of Israel]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G2309]]"
+- "[[G5255]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G0235]]"
+- "[[G0683]]"
+- "[[G2532]]"
+- "[[G4762]]"
+- "[[G1722]]"
+- "[[G2588]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G0125]]"
+texts:
+- NKO
+- no
+- NK(o)
+---
+
 **Acts 7:39**<big><big>[[Acts.7.39 The Rebellion of Israel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 To whom our fathers would not obey, but thrust [him] from them, and in their hearts turned back again into Egypt,
 <small><sub>**BSB:**</sub></small>
 But our fathers refused to obey him. Instead, they rejected him and in their hearts turned back to Egypt.
-<small><sub>**Literal:**</sub></small>
-to whom not wanted obedient to be the fathers of us, but they thrust away and they turned back in the hearts of them to Egypt,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.38|<< Acts 7:38]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.40|Acts 7:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ᾧ]]  [[G3756\|οὐκ]]  [[G2309\|ἠθέλησαν]]  [[G5255\|ὑπήκοοι]]  [[G1096\|γενέσθαι]]  [[G3588\|οἱ]]  [[G3962\|πατέρες]]  [[G3165\|ἡμῶν,]]  [[G0235\|ἀλλ᾽]]  [[G0683\|ἀπώσαντο]]  [[G2532\|καὶ]]  [[G4762\|ἐστράφησαν]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2588\|καρδίαις]]  [[G0846\|αὐτῶν]]  [[G1519\|εἰς]]  [[G0125\|Αἴγυπτον,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.38|<< Acts 7:38]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.40|Acts 7:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

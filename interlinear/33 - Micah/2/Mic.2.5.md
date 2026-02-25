@@ -1,8 +1,57 @@
+---
+title: Micah 2:5
+type: Verse
+kjv: "Therefore thou shalt have none that shall cast a cord by lot in the congregation of the LORD."
+bsb: "Therefore, you will have no one in the assembly of the LORD to divide the land by lot."
+hebrew: "לָכֵן֙ לֹֽא־ יִֽהְיֶ֣ה לְךָ֔ מַשְׁלִ֥יךְ חֶ֖בֶל בְּגוֹרָ֑ל בִּקְהַ֖ל יְהוָֽה׃"
+pericope: "[[Mic.2.1 Woe to Oppressors|Woe to Oppressors]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 2
+book/chapter: "[[Mic.2|Micah 2]]"
+chronological_order: 624
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic CORD|CORD]]"
+- "[[topic LOT, THE|LOT, THE]]"
+- "[[topic MICAH|MICAH]]"
+- "[[topic ROPE|ROPE]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9031]]"
+- "[[H7993]]"
+- "[[H2256M]]"
+- "[[H9003]]"
+- "[[H1486]]"
+- "[[H6951]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 2:5**<big><big>[[Mic.2.1 Woe to Oppressors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thou shalt have none that shall cast a cord by lot in the congregation of the LORD.
 <small><sub>**BSB:**</sub></small>
 Therefore, you will have no one in the assembly of the LORD to divide the land by lot.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵן֙]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|יִֽהְיֶ֣ה]] [[H9005\|לְ]][[H9031\|ךָ֔]] [[H7993\|מַשְׁלִ֥יךְ]] [[H2256M\|חֶ֖בֶל]] [[H9003\|בְּ]][[H1486\|גוֹרָ֑ל]] [[H9003\|בִּ]][[H6951\|קְהַ֖ל]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CORD|CORD]] • [[topic LOT, THE|LOT, THE]] • [[topic MICAH|MICAH]] • [[topic ROPE|ROPE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.2.4|<< Micah 2:4]]</td><td align="center" style="border:none;">[[Mic.2|Micah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2.6|Micah 2:6 >>]]</td></tr></table>
 

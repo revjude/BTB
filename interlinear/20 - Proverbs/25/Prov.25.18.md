@@ -1,8 +1,56 @@
+---
+title: Proverbs 25:18
+type: Verse
+kjv: "A man that beareth false witness against his neighbour is a maul, and a sword, and a sharp arrow."
+bsb: "Like a club or sword or sharp arrow is a man who bears false witness against his neighbor."
+hebrew: "מֵפִ֣יץ וְ֭חֶרֶב וְחֵ֣ץ שָׁנ֑וּן אִ֥ישׁ עֹנֶ֥ה בְ֝רֵעֵ֗הוּ עֵ֣ד שָֽׁקֶר׃"
+pericope: "[[Prov.25.1 More Proverbs of Solomon|More Proverbs of Solomon]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 25
+book/chapter: "[[Prov.25|Proverbs 25]]"
+chronological_order: 480
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ARROW|ARROW]]"
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic MAUL|MAUL]]"
+- "[[topic SWORD|SWORD]]"
+strongs:
+- "[[H4650]]"
+- "[[H9002]]"
+- "[[H2719]]"
+- "[[H2671]]"
+- "[[H8150]]"
+- "[[H0376G]]"
+- "[[H6030B]]"
+- "[[H9003]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H5707]]"
+- "[[H8267]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 25:18**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A man that beareth false witness against his neighbour [is] a maul, and a sword, and a sharp arrow.
 <small><sub>**BSB:**</sub></small>
 Like a club or sword or sharp arrow is a man who bears false witness against his neighbor.
+<small><sub>**Hebrew:**</sub></small>
+[[H4650\|מֵפִ֣יץ]] [[H9002\|וְ֭]][[H2719\|חֶרֶב]] [[H9002\|וְ]][[H2671\|חֵ֣ץ]] [[H8150\|שָׁנ֑וּן]] [[H0376G\|אִ֥ישׁ]] [[H6030B\|עֹנֶ֥ה]] [[H9003\|בְ֝]][[H7453\|רֵעֵ֗]][[H9023\|הוּ]] [[H5707\|עֵ֣ד]] [[H8267\|שָֽׁקֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARROW|ARROW]] • [[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic MAUL|MAUL]] • [[topic SWORD|SWORD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.17|<< Proverbs 25:17]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.19|Proverbs 25:19 >>]]</td></tr></table>
 

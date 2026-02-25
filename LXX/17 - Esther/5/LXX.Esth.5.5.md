@@ -1,6 +1,55 @@
+---
+title: LXX Esther 5:5
+type: Verse
+lxx: "And the king said, Hasten Haman, so that we should do the word of Esther! And they came both to the banquet which Esther made."
+greek: "και είπεν ο βασιλεύς κατασπεύσατε Αμάν όπως ποιήσωμεν τον λόγον Εσθήρ και παραγίνονται αμφότεροι εις την δοχήν ην εποίησεν Εσθήρ"
+original_language: Greek
+testament: Old
+book: Esther
+chapter: 5
+book/chapter: "[[Esth.5|Esther 5]]"
+chronological_order: 903
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- septuagint
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic KING|KING]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G7926]]"
+- "[[H2001]]"
+- "[[G3704]]"
+- "[[G4160]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[H0635]]"
+- "[[G2532]]"
+- "[[G3854]]"
+- "[[G0297]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1403]]"
+- "[[G3739]]"
+- "[[G4160]]"
+- "[[H0635]]"
+---
+
 **LXX Esther 5:5** 
 <small><sub>**LXX:**</sub></small>
 And the king said, Hasten Haman, so that we should do the word of Esther! And they came both to the banquet which Esther made. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπεν]] [[G3588\|ο]] [[G0935\|βασιλεύς]] [[G7926\|κατασπεύσατε]] [[H2001\|Αμάν]] [[G3704\|όπως]] [[G4160\|ποιήσωμεν]] [[G3588\|τον]] [[G3056\|λόγον]] [[H0635\|Εσθήρ]] [[G2532\|και]] [[G3854\|παραγίνονται]] [[G0297\|αμφότεροι]] [[G1519\|εις]] [[G3588\|την]] [[G1403\|δοχήν]] [[G3739\|ην]] [[G4160\|εποίησεν]] [[H0635\|Εσθήρ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]]</small>
 <small><sub>**MT:**</sub></small>
 [[Esth.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.5.4|<< Esther 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.5.6|Esther 5:6 >>]]</td></tr></table>
 
@@ -25,6 +74,6 @@ And the king said, Hasten Haman, so that we should do the word of Esther! And th
 | banquet | **<big>[[G1403\|δοχήν]]</big>** |
 | which | **<big>[[G3739\|ην]]</big>** |
 | Esther made. | **<big>[[G4160\|εποίησεν]]</big>** **<big>[[H0635\|Εσθήρ]]</big>** |
-[[Esth.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.5.4|<< Esther 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.5.6|Esther 5:6 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.5.4|<< Esther 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.5.6|Esther 5:6 >>]]</td></tr></table>
 
 

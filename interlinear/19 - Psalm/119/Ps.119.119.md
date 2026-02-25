@@ -1,8 +1,58 @@
+---
+title: Psalm 119:119
+type: Verse
+kjv: "Thou puttest away all the wicked of the earth like dross: therefore I love thy testimonies."
+bsb: "All the wicked on earth You discard like dross; therefore I love Your testimonies."
+hebrew: "סִגִ֗ים הִשְׁבַּ֥תָּ כָל־ רִשְׁעֵי־ אָ֑רֶץ לָ֝כֵ֗ן אָהַ֥בְתִּי עֵדֹתֶֽיךָ׃"
+pericope: "[[Ps.119.113 Your Word Is a Lamp to My Feet - SAMECH|Your Word Is a Lamp to My Feet - SAMECH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DROSS|DROSS]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H5509]]"
+- "[[H7673A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7563]]"
+- "[[H0776G]]"
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H0157G]]"
+- "[[H5713B]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:119**<big><big>[[Ps.119.113 Your Word Is a Lamp to My Feet - SAMECH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou puttest away all the wicked of the earth [like] dross: therefore I love thy testimonies.
 <small><sub>**BSB:**</sub></small>
 All the wicked on earth You discard like dross; therefore I love Your testimonies.
+<small><sub>**Hebrew:**</sub></small>
+[[H5509\|סִגִ֗ים]] [[H7673A\|הִשְׁבַּ֥תָּ]] [[H3605\|כָל]][[H9014\|־]] [[H7563\|רִשְׁעֵי]][[H9014\|־]] [[H0776G\|אָ֑רֶץ]] [[H9005\|לָ֝]][[H3651C\|כֵ֗ן]] [[H0157G\|אָהַ֥בְתִּי]] [[H5713B\|עֵדֹתֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DROSS|DROSS]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.119|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.118|<< Psalms 119:118]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.120|Psalms 119:120 >>]]</td></tr></table>
 

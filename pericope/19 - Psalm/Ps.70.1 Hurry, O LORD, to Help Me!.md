@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hurry, O LORD, to Help Me!
+type: Pericope
 pericope: "[[Ps.70.1 Hurry, O LORD, to Help Me!|Hurry, O LORD, to Help Me!]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 70
 book/chapter: "[[Ps.70|Psalm 70]]"
-genre:
+chronological_order: 378
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 6
 verses:
 - "[[Ps.70.0]]"
 - "[[Ps.70.1]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Ps.70.5]]"
 ---
 
-[[Ps.70|Psalm 70:1 - Psalm 70:5]]
+<small>[[Ps.70|Psalm 70:1-5]]</small>
 *Hurry, O LORD, to Help Me!*
 
 [[Ps.70.0|0]] To the chief Musician, \[A Psalm\] of David, to bring to remembrance.

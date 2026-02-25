@@ -1,8 +1,63 @@
+---
+title: Ecclesiastes 9:4
+type: Verse
+kjv: "For to him that is joined to all the living there is hope: for a living dog is better than a dead lion."
+bsb: "There is hope, however, for anyone who is among the living; for even a live dog is better than a dead lion."
+hebrew: "כִּי־ מִי֙ אֲשֶׁ֣ר יְחֻבַּ֔ר אֶ֥ל כָּל־ הַחַיִּ֖ים יֵ֣שׁ בִּטָּח֑וֹן כִּֽי־ לְכֶ֤לֶב חַי֙ ה֣וּא ט֔וֹב מִן־ הָאַרְיֵ֖ה הַמֵּֽת׃"
+pericope: "[[Eccl.9.1 Death Comes to Good and Bad|Death Comes to Good and Bad]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 9
+book/chapter: "[[Eccl.9|Ecclesiastes 9]]"
+chronological_order: 547
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic HADES|HADES]]"
+- "[[topic LION|LION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4310]]"
+- "[[H0834A]]"
+- "[[H0977]]"
+- "[[H2266]]"
+- "[[H0413]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H2416A]]"
+- "[[H3426]]"
+- "[[H0986]]"
+- "[[H9005]]"
+- "[[H3611]]"
+- "[[H1931]]"
+- "[[H2896A]]"
+- "[[H4480A]]"
+- "[[H0738B]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ecclesiastes 9:4**<big><big>[[Eccl.9.1 Death Comes to Good and Bad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For to him that is joined to all the living there is hope: for a living dog is better than a dead lion.
 <small><sub>**BSB:**</sub></small>
 There is hope, however, for anyone who is among the living; for even a live dog is better than a dead lion.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H4310\|מִי֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H2266\|יְחֻבַּ֔ר]] [[H0413\|אֶ֥ל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H2416A\|חַיִּ֖ים]] [[H3426\|יֵ֣שׁ]] [[H0986\|בִּטָּח֑וֹן]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9005\|לְ]][[H3611\|כֶ֤לֶב]] [[H2416A\|חַי֙]] [[H1931\|ה֣וּא]] [[H2896A\|ט֔וֹב]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0738B\|אַרְיֵ֖ה]] [[H9009\|הַ]][[H4191\|מֵּֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic HADES|HADES]] • [[topic LION|LION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.9.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.3|<< Ecclesiastes 9:3]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.5|Ecclesiastes 9:5 >>]]</td></tr></table>
 

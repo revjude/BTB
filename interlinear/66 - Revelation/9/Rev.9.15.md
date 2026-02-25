@@ -1,10 +1,60 @@
+---
+title: Revelation 9:15
+type: Verse
+kjv: "And the four angels were loosed, which were prepared for an hour, and a day, and a month, and a year, for to slay the third part of men."
+bsb: "So the four angels who had been prepared for this hour and day and month and year were released to kill a third of mankind."
+greek: "καὶ ἐλύθησαν οἱ τέσσαρες ἄγγελοι οἱ ἡτοιμασμένοι εἰς τὴν ὥραν καὶ εἰς τὴν ἡμέραν καὶ μῆνα καὶ ἐνιαυτὸν ἵνα ἀποκτείνωσιν τὸ τρίτον τῶν ἀνθρώπων."
+pericope: "[[Rev.9.13 The Sixth Trumpet|The Sixth Trumpet]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 9
+book/chapter: "[[Rev.9|Revelation 9]]"
+chronological_order: 1176
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic DAY|DAY]]"
+- "[[topic HOURS|HOURS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G3089]]"
+- "[[G3588]]"
+- "[[G5064]]"
+- "[[G0032G]]"
+- "[[G2090]]"
+- "[[G1519]]"
+- "[[G5610]]"
+- "[[G2250]]"
+- "[[G3376]]"
+- "[[G1763]]"
+- "[[G2443]]"
+- "[[G0615]]"
+- "[[G5154]]"
+- "[[G0444]]"
+texts:
+- NKO
+- o
+---
+
 **Revelation 9:15**<big><big>[[Rev.9.13 The Sixth Trumpet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the four angels were loosed, which were prepared for an hour, and a day, and a month, and a year, for to slay the third part of men.
 <small><sub>**BSB:**</sub></small>
 So the four angels who had been prepared for this hour and day and month and year were released to kill a third of mankind.
-<small><sub>**Literal:**</sub></small>
-And were released the four angels who prepared for the hour and for the day and month and year so that they may kill <the> a third <the> of mankind.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.14|<< Revelation 9:14]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.16|Revelation 9:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3089\|ἐλύθησαν]]  [[G3588\|οἱ]]  [[G5064\|τέσσαρες]]  [[G0032G\|ἄγγελοι]]  [[G3588\|οἱ]]  [[G2090\|ἡτοιμασμένοι]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G5610\|ὥραν]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2250\|ἡμέραν]]  [[G2532\|καὶ]]  [[G3376\|μῆνα]]  [[G2532\|καὶ]]  [[G1763\|ἐνιαυτὸν]]  [[G2443\|ἵνα]]  [[G0615\|ἀποκτείνωσιν]]  [[G3588\|τὸ]]  [[G5154\|τρίτον]]  [[G3588\|τῶν]]  [[G0444\|ἀνθρώπων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic DAY|DAY]] • [[topic HOURS|HOURS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.14|<< Revelation 9:14]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.16|Revelation 9:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

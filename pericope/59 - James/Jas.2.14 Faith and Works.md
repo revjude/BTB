@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Faith and Works
+type: Pericope
 pericope: "[[Jas.2.14 Faith and Works|Faith and Works]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: James
 chapter: 2
 book/chapter: "[[Jas.2|James 2]]"
-genre:
+chronological_order: 1034
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
 - epistle
 - general epistle
 - wisdom literature
 - ethical instruction
+verse_count: 13
 verses:
 - "[[Jas.2.14]]"
 - "[[Jas.2.15]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Jas.2.26]]"
 ---
 
-[[Jas.2|James 2:14 - James 2:26]]
+<small>[[Jas.2|James 2:14-26]]</small>
 *Faith and Works*
 
 [[Jas.2.14|14]] What \[doth it\] profit, my brethren, though a man say he hath faith, and have not works? can faith save him?

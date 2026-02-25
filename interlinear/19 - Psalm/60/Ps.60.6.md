@@ -1,8 +1,58 @@
+---
+title: Psalm 60:6
+type: Verse
+kjv: "God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth."
+bsb: "God has spoken from His sanctuary: “I will triumph! I will parcel out Shechem and apportion the Valley of Succoth."
+hebrew: "אֱלֹהִ֤ים׀ דִּבֶּ֥ר בְּקָדְשׁ֗וֹ אֶ֫עְלֹ֥זָה אֲחַלְּקָ֥ה שְׁכֶ֑ם וְעֵ֖מֶק סֻכּ֣וֹת אֲמַדֵּֽד׃"
+pericope: "[[Ps.60.1 Victory with God|Victory with God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 60
+book/chapter: "[[Ps.60|Psalm 60]]"
+chronological_order: 409
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic SUCCOTH|SUCCOTH]]"
+strongs:
+- "[[H0430G]]"
+- "[[H9015]]"
+- "[[H1696G]]"
+- "[[H9003]]"
+- "[[H6944G]]"
+- "[[H9023]]"
+- "[[H5937]]"
+- "[[H2505A]]"
+- "[[H7927G]]"
+- "[[H9002]]"
+- "[[H6010R]]"
+- "[[H5523G]]"
+- "[[H4058]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 60:6**<big><big>[[Ps.60.1 Victory with God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth.
 <small><sub>**BSB:**</sub></small>
 God has spoken from His sanctuary: “I will triumph! I will parcel out Shechem and apportion the Valley of Succoth.
+<small><sub>**Hebrew:**</sub></small>
+[[H0430G\|אֱלֹהִ֤ים]][[H9015\|׀]] [[H1696G\|דִּבֶּ֥ר]] [[H9003\|בְּ]][[H6944G\|קָדְשׁ֗]][[H9023\|וֹ]] [[H5937\|אֶ֫עְלֹ֥זָה]] [[H2505A\|אֲחַלְּקָ֥ה]] [[H7927G\|שְׁכֶ֑ם]] [[H9002\|וְ]][[H6010R\|עֵ֖מֶק]] [[H5523G\|סֻכּ֣וֹת]] [[H4058\|אֲמַדֵּֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic SUCCOTH|SUCCOTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.60.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.60.5|<< Psalms 60:5]]</td><td align="center" style="border:none;">[[Ps.60|Psalms 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.60.7|Psalms 60:7 >>]]</td></tr></table>
 

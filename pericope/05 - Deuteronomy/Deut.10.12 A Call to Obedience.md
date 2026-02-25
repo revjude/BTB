@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Call to Obedience
+type: Pericope
 pericope: "[[Deut.10.12 A Call to Obedience|A Call to Obedience]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 10
 book/chapter: "[[Deut.10|Deuteronomy 10]]"
-genre:
+chronological_order: 206
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 11
 verses:
 - "[[Deut.10.12]]"
 - "[[Deut.10.13]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Deut.10.22]]"
 ---
 
-[[Deut.10|Deuteronomy 10:12 - Deuteronomy 10:22]]
+<small>[[Deut.10|Deuteronomy 10:12-22]]</small>
 *A Call to Obedience*
 
 [[Deut.10.12|12]] And now, Israel, what doth the LORD thy God require of thee, but to fear the LORD thy God, to walk in all his ways, and to love him, and to serve the LORD thy God with all thy heart and with all thy soul,

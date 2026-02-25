@@ -1,8 +1,58 @@
+---
+title: Psalm 69:7
+type: Verse
+kjv: "Because for thy sake I have borne reproach; shame hath covered my face."
+bsb: "For I have endured scorn for Your sake, and shame has covered my face."
+hebrew: "כִּֽי־ עָ֭לֶיךָ נָשָׂ֣אתִי חֶרְפָּ֑ה כִּסְּתָ֖ה כְלִמָּ֣ה פָנָֽי׃"
+pericope: "[[Ps.69.1 The Waters Are up to My Neck|The Waters Are up to My Neck]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 69
+book/chapter: "[[Ps.69|Psalm 69]]"
+chronological_order: 377
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H5375H]]"
+- "[[H2781]]"
+- "[[H3680]]"
+- "[[H3639]]"
+- "[[H6440H]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 69:7**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because for thy sake I have borne reproach; shame hath covered my face.
 <small><sub>**BSB:**</sub></small>
 For I have endured scorn for Your sake, and shame has covered my face.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H5921A\|עָ֭לֶי]][[H9031\|ךָ]] [[H5375H\|נָשָׂ֣אתִי]] [[H2781\|חֶרְפָּ֑ה]] [[H3680\|כִּסְּתָ֖ה]] [[H3639\|כְלִמָּ֣ה]] [[H6440H\|פָנָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DAVID|DAVID]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.6|<< Psalms 69:6]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.8|Psalms 69:8 >>]]</td></tr></table>
 

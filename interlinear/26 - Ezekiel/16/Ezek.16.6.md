@@ -1,8 +1,58 @@
+---
+title: Ezekiel 16:6
+type: Verse
+kjv: "And when I passed by thee, and saw thee polluted in thine own blood, I said unto thee when thou wast in thy blood, Live; yea, I said unto thee when thou wast in thy blood, Live."
+bsb: "Then I passed by and saw you wallowing in your blood, and as you lay there in your blood I said to you, ‘Live!’ There I said to you, ‘Live!’"
+hebrew: "וָאֶעֱבֹ֤ר עָלַ֙יִךְ֙ וָֽאֶרְאֵ֔ךְ מִתְבּוֹסֶ֖סֶת בְּדָמָ֑יִךְ וָאֹ֤מַר לָךְ֙ בְּדָמַ֣יִךְ חֲיִ֔י וָאֹ֥מַר לָ֖ךְ בְּדָמַ֥יִךְ חֲיִֽי׃"
+pericope: "[[Ezek.16.1 Jerusalem’s Unfaithfulness|Jerusalem’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H5921A]]"
+- "[[H9032]]"
+- "[[H7200G]]"
+- "[[H0947]]"
+- "[[H9003]]"
+- "[[H1818]]"
+- "[[H9022]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H2421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 16:6**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when I passed by thee, and saw thee polluted in thine own blood, I said unto thee [when thou wast] in thy blood, Live; yea, I said unto thee [when thou wast] in thy blood, Live.
 <small><sub>**BSB:**</sub></small>
 Then I passed by and saw you wallowing in your blood, and as you lay there in your blood I said to you, ‘Live!’ There I said to you, ‘Live!’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H5674A\|אֶעֱבֹ֤ר]] [[H5921A\|עָלַ֙יִ]][[H9032\|ךְ֙]] [[H9001\|וָֽ]][[H7200G\|אֶרְאֵ֔]][[H9032\|ךְ]] [[H0947\|מִתְבּוֹסֶ֖סֶת]] [[H9003\|בְּ]][[H1818\|דָמָ֑יִ]][[H9022\|ךְ]] [[H9001\|וָ]][[H0559\|אֹ֤מַר]] [[H9005\|לָ]][[H9032\|ךְ֙]] [[H9003\|בְּ]][[H1818\|דָמַ֣יִ]][[H9022\|ךְ]] [[H2421\|חֲיִ֔י]] [[H9001\|וָ]][[H0559\|אֹ֥מַר]] [[H9005\|לָ֖]][[H9032\|ךְ]] [[H9003\|בְּ]][[H1818\|דָמַ֥יִ]][[H9022\|ךְ]] [[H2421\|חֲיִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.5|<< Ezekiel 16:5]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.7|Ezekiel 16:7 >>]]</td></tr></table>
 

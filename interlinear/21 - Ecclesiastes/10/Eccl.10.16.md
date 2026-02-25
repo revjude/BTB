@@ -1,8 +1,55 @@
+---
+title: Ecclesiastes 10:16
+type: Verse
+kjv: "Woe to thee, O land, when thy king is a child, and thy princes eat in the morning!"
+bsb: "Woe to you, O land whose king is a youth, and whose princes feast in the morning."
+hebrew: "אִֽי־ לָ֣ךְ אֶ֔רֶץ שֶׁמַּלְכֵּ֖ךְ נָ֑עַר וְשָׂרַ֖יִךְ בַּבֹּ֥קֶר יֹאכֵֽלוּ׃"
+pericope: "[[Eccl.10.1 Wisdom and Folly|Wisdom and Folly]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 10
+book/chapter: "[[Eccl.10|Ecclesiastes 10]]"
+chronological_order: 548
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H0337]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H0776G]]"
+- "[[H9007]]"
+- "[[H4428G]]"
+- "[[H9022]]"
+- "[[H5288]]"
+- "[[H9002]]"
+- "[[H8269]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 10:16**<big><big>[[Eccl.10.1 Wisdom and Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe to thee, O land, when thy king [is] a child, and thy princes eat in the morning!
 <small><sub>**BSB:**</sub></small>
 Woe to you, O land whose king is a youth, and whose princes feast in the morning.
+<small><sub>**Hebrew:**</sub></small>
+[[H0337\|אִֽי]][[H9014\|־]] [[H9005\|לָ֣]][[H9032\|ךְ]] [[H0776G\|אֶ֔רֶץ]] [[H9007\|שֶׁ]][[H4428G\|מַּלְכֵּ֖]][[H9022\|ךְ]] [[H5288\|נָ֑עַר]] [[H9002\|וְ]][[H8269\|שָׂרַ֖יִ]][[H9022\|ךְ]] [[H9003\|בַּ]][[H1242\|בֹּ֥קֶר]] [[H0398\|יֹאכֵֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.10.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.15|<< Ecclesiastes 10:15]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.17|Ecclesiastes 10:17 >>]]</td></tr></table>
 

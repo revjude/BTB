@@ -1,8 +1,80 @@
+---
+title: Nehemiah 5:9
+type: Verse
+kjv: "Also I said, It is not good that ye do: ought ye not to walk in the fear of our God because of the reproach of the heathen our enemies?"
+bsb: "So I continued, “What you are doing is not right. Shouldn’t you walk in the fear of our God to avoid the reproach of our foreign enemies?"
+hebrew: "וָאוֹמַ֕ר לֹא־ ט֥וֹב הַדָּבָ֖ר אֲשֶׁר־ אַתֶּ֣ם עֹשִׂ֑ים הֲל֞וֹא בְּיִרְאַ֤ת אֱלֹהֵ֙ינוּ֙ תֵּלֵ֔כוּ מֵחֶרְפַּ֖ת הַגּוֹיִ֥ם אוֹיְבֵֽינוּ׃"
+pericope: "[[Neh.5.1 Nehemiah Defends the Oppressed|Nehemiah Defends the Oppressed]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 5
+book/chapter: "[[Neh.5|Nehemiah 5]]"
+chronological_order: 917
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic BORROWING|BORROWING]]"
+- "[[topic CONSISTENCY|CONSISTENCY]]"
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic INCONSISTENCY|INCONSISTENCY]]"
+- "[[topic INTEREST|INTEREST]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic POOR|POOR]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic USURY|USURY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2896A]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H0834A]]"
+- "[[H0859D]]"
+- "[[H6213A]]"
+- "[[H9008]]"
+- "[[H9003]]"
+- "[[H3374]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H1980I]]"
+- "[[H9006]]"
+- "[[H2781]]"
+- "[[H1471A]]"
+- "[[H0341]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Nehemiah 5:9**<big><big>[[Neh.5.1 Nehemiah Defends the Oppressed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also I said, It [is] not good that ye do: ought ye not to walk in the fear of our God because of the reproach of the heathen our enemies?
 <small><sub>**BSB:**</sub></small>
 So I continued, “What you are doing is not right. Shouldn’t you walk in the fear of our God to avoid the reproach of our foreign enemies?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אוֹמַ֕ר]] [[H3808\|לֹא]][[H9014\|־]] [[H2896A\|ט֥וֹב]] [[H9009\|הַ]][[H1697I\|דָּבָ֖ר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0859D\|אַתֶּ֣ם]] [[H6213A\|עֹשִׂ֑ים]] [[H9008\|הֲ]][[H3808\|ל֞וֹא]] [[H9003\|בְּ]][[H3374\|יִרְאַ֤ת]] [[H0430G\|אֱלֹהֵ֙י]][[H9025\|נוּ֙]] [[H1980I\|תֵּלֵ֔כוּ]] [[H9006\|מֵ]][[H2781\|חֶרְפַּ֖ת]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֥ם]] [[H0341\|אוֹיְבֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic BORROWING|BORROWING]] • [[topic CONSISTENCY|CONSISTENCY]] • [[topic COUNTRY|COUNTRY]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CREDITOR|CREDITOR]] • [[topic EXAMPLE|EXAMPLE]] • [[topic INCONSISTENCY|INCONSISTENCY]] • [[topic INTEREST|INTEREST]] • [[topic KINDNESS|KINDNESS]] • [[topic LENDING|LENDING]] • [[topic POOR|POOR]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REPROOF|REPROOF]] • [[topic REVERENCE|REVERENCE]] • [[topic RICH, THE|RICH, THE]] • [[topic RULERS|RULERS]] • [[topic USURY|USURY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.5.8|<< Nehemiah 5:8]]</td><td align="center" style="border:none;">[[Neh.5|Nehemiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.10|Nehemiah 5:10 >>]]</td></tr></table>
 
@@ -24,7 +96,7 @@ So I continued, “What you are doing is not right. Shouldn’t you walk in the 
 | enemies our  |**<big>&#8207;[[H0341\|אוֹיְבֵֽי]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'oy.Vei.<small><sup>[[HVqrmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.5.8|<< Nehemiah 5:8]]</td><td align="center" style="border:none;">[[Neh.5|Nehemiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.10|Nehemiah 5:10 >>]]</td></tr></table>
 
-[^1]: and he said  | **<big>[[H0559|יֹּאמֶר]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw3ms]]</sup></small> | K
-[^2]: and he said  | **<big>[[H0559|יֹּאמֶר]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw3ms]]</sup></small> | K
+[^1]: and he said  | **<big>[[H9001|וַ]]</big><big>[[H0559|יֹּאמֶר]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw3ms]]</sup></small> | K
+[^2]: and he said  | **<big>[[H9001|וַ]]</big><big>[[H0559|יֹּאמֶר]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וָיֹאמַ֕ר</big></span>**
 

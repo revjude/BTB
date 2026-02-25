@@ -1,8 +1,74 @@
+---
+title: Daniel 8:7
+type: Verse
+kjv: "And I saw him come close unto the ram, and he was moved with choler against him, and smote the ram, and brake his two horns: and there was no power in the ram to stand before him, but he cast him down to the ground, and stamped upon him: and there was none that could deliver the ram out of his hand."
+bsb: "I saw him approach the ram in a rage against him, and he struck the ram and shattered his two horns. The ram was powerless to stand against him, and the goat threw him to the ground and trampled him, and no one could deliver the ram from his power."
+hebrew: "וּרְאִיתִ֞יו מַגִּ֣יעַ׀ אֵ֣צֶל הָאַ֗יִל וַיִּתְמַרְמַ֤ר אֵלָיו֙ וַיַּ֣ךְ אֶת־ הָאַ֔יִל וַיְשַׁבֵּר֙ אֶת־ שְׁתֵּ֣י קְרָנָ֔יו וְלֹא־ הָ֥יָה כֹ֛חַ בָּאַ֖יִל לַעֲמֹ֣ד לְפָנָ֑יו וַיַּשְׁלִיכֵ֤הוּ אַ֙רְצָה֙ וַֽיִּרְמְסֵ֔הוּ וְלֹא־ הָיָ֥ה מַצִּ֛יל לָאַ֖יִל מִיָּדֽוֹ׃"
+pericope: "[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|Daniel’s Vision of the Ram and the Goat]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 8
+book/chapter: "[[Dan.8|Daniel 8]]"
+chronological_order: 844
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic HORN|HORN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9033]]"
+- "[[H5060]]"
+- "[[H9015]]"
+- "[[H0681]]"
+- "[[H9009]]"
+- "[[H0352A]]"
+- "[[H4843]]"
+- "[[H0413]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7665]]"
+- "[[H8147]]"
+- "[[H7161A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H3581B]]"
+- "[[H9003]]"
+- "[[H9005]]"
+- "[[H5975G]]"
+- "[[H6440G]]"
+- "[[H7993]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H7429]]"
+- "[[H5337]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 8:7**<big><big>[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I saw him come close unto the ram, and he was moved with choler against him, and smote the ram, and brake his two horns: and there was no power in the ram to stand before him, but he cast him down to the ground, and stamped upon him: and there was none that could deliver the ram out of his hand.
 <small><sub>**BSB:**</sub></small>
 I saw him approach the ram in a rage against him, and he struck the ram and shattered his two horns. The ram was powerless to stand against him, and the goat threw him to the ground and trampled him, and no one could deliver the ram from his power.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H7200G\|רְאִיתִ֞י]][[H9033\|ו]] [[H5060\|מַגִּ֣יעַ]][[H9015\|׀]] [[H0681\|אֵ֣צֶל]] [[H9009\|הָ]][[H0352A\|אַ֗יִל]] [[H9001\|וַ]][[H4843\|יִּתְמַרְמַ֤ר]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H9001\|וַ]][[H5221\|יַּ֣ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0352A\|אַ֔יִל]] [[H9001\|וַ]][[H7665\|יְשַׁבֵּר֙]] [[H0853\|אֶת]][[H9014\|־]] [[H8147\|שְׁתֵּ֣י]] [[H7161A\|קְרָנָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָ֥יָה]] [[H3581B\|כֹ֛חַ]] [[H9003\|בָּ]][[H0352A\|אַ֖יִל]] [[H9005\|לַ]][[H5975G\|עֲמֹ֣ד]] [[H9005\|לְ]][[H6440G\|פָנָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H7993\|יַּשְׁלִיכֵ֤]][[H9033\|הוּ]] [[H0776H\|אַ֙רְצָ]][[H9011\|ה֙]] [[H9001\|וַֽ]][[H7429\|יִּרְמְסֵ֔]][[H9033\|הוּ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָיָ֥ה]] [[H5337\|מַצִּ֛יל]] [[H9005\|לָ]][[H0352A\|אַ֖יִל]] [[H9006\|מִ]][[H3027H\|יָּדֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HORN|HORN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.6|<< Daniel 8:6]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.8|Daniel 8:8 >>]]</td></tr></table>
 

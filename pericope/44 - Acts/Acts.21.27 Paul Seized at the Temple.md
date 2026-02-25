@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul Seized at the Temple
+type: Pericope
 pericope: "[[Acts.21.27 Paul Seized at the Temple|Paul Seized at the Temple]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Acts
 chapter: 21
 book/chapter: "[[Acts.21|Acts 21]]"
-genre:
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 10
 verses:
 - "[[Acts.21.27]]"
 - "[[Acts.21.28]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Acts.21.36]]"
 ---
 
-[[Acts.21|Acts 21:27 - Acts 21:36]]
+<small>[[Acts.21|Acts 21:27-36]]</small>
 *Paul Seized at the Temple*
 
 [[Acts.21.27|27]] And when the seven days were almost ended, the Jews which were of Asia, when they saw him in the temple, stirred up all the people, and laid hands on him,

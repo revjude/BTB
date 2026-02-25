@@ -1,8 +1,72 @@
+---
+title: Exodus 7:16
+type: Verse
+kjv: "And thou shalt say unto him, The LORD God of the Hebrews hath sent me unto thee, saying, Let my people go, that they may serve me in the wilderness: and, behold, hitherto thou wouldest not hear."
+bsb: "Then say to him, ‘The LORD, the God of the Hebrews, has sent me to tell you: Let My people go, so that they may worship Me in the wilderness. But until now you have not listened."
+hebrew: "וְאָמַרְתָּ֣ אֵלָ֗יו יְהוָ֞ה אֱלֹהֵ֤י הָעִבְרִים֙ שְׁלָחַ֤נִי אֵלֶ֙יךָ֙ לֵאמֹ֔ר שַׁלַּח֙ אֶת־ עַמִּ֔י וְיַֽעַבְדֻ֖נִי בַּמִּדְבָּ֑ר וְהִנֵּ֥ה לֹא־ שָׁמַ֖עְתָּ עַד־ כֹּֽה׃"
+pericope: "[[Exod.7.14 The First Plague：Blood|The First Plague：Blood]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 7
+book/chapter: "[[Exod.7|Exodus 7]]"
+chronological_order: 99
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9009]]"
+- "[[H5680]]"
+- "[[H7971G]]"
+- "[[H9030]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H7971H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H5647H]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H2009]]"
+- "[[H3808]]"
+- "[[H8085H]]"
+- "[[H5704]]"
+- "[[H3541]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 7:16**<big><big>[[Exod.7.14 The First Plague：Blood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt say unto him, The LORD God of the Hebrews hath sent me unto thee, saying, Let my people go, that they may serve me in the wilderness: and, behold, hitherto thou wouldest not hear.
 <small><sub>**BSB:**</sub></small>
 Then say to him, ‘The LORD, the God of the Hebrews, has sent me to tell you: Let My people go, so that they may worship Me in the wilderness. But until now you have not listened.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H3068G\|יְהוָ֞ה]] [[H0430G\|אֱלֹהֵ֤י]] [[H9009\|הָ]][[H5680\|עִבְרִים֙]] [[H7971G\|שְׁלָחַ֤]][[H9030\|נִי]] [[H0413\|אֵלֶ֙י]][[H9031\|ךָ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H7971H\|שַׁלַּח֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ֔]][[H9020\|י]] [[H9002\|וְ]][[H5647H\|יַֽעַבְדֻ֖]][[H9030\|נִי]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֑ר]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H3808\|לֹא]][[H9014\|־]] [[H8085H\|שָׁמַ֖עְתָּ]] [[H5704\|עַד]][[H9014\|־]] [[H3541\|כֹּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.15|<< Exodus 7:15]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.17|Exodus 7:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,10 +1,63 @@
+---
+title: James 1:21
+type: Verse
+kjv: "Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls."
+bsb: "Therefore, get rid of all moral filth and every expression of evil, and humbly accept the word planted in you, which can save your souls."
+greek: "διὸ ἀποθέμενοι πᾶσαν ῥυπαρίαν καὶ περισσείαν κακίας ἐν πραΰτητι δέξασθε τὸν ἔμφυτον λόγον τὸν δυνάμενον σῶσαι τὰς ψυχὰς ὑμῶν.¶"
+pericope: "[[Jas.1.19 Hearing and Doing|Hearing and Doing]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 1
+book/chapter: "[[Jas.1|James 1]]"
+chronological_order: 1033
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G1352]]"
+- "[[G0659]]"
+- "[[G3956]]"
+- "[[G4507]]"
+- "[[G2532]]"
+- "[[G4050]]"
+- "[[G2549]]"
+- "[[G1722]]"
+- "[[G4236]]"
+- "[[G1209]]"
+- "[[G3588]]"
+- "[[G1721]]"
+- "[[G3056]]"
+- "[[G1410]]"
+- "[[G4982]]"
+- "[[G5590G]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **James 1:21**<big><big>[[Jas.1.19 Hearing and Doing|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls.
 <small><sub>**BSB:**</sub></small>
 Therefore, get rid of all moral filth and every expression of evil, and humbly accept the word planted in you, which can save your souls.
-<small><sub>**Literal:**</sub></small>
-Therefore having put aside all filthiness and excess of wickedness in humility do receive the implanted word which is being able to save the souls of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.20|<< James 1:20]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.22|James 1:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1352\|διὸ]]  [[G0659\|ἀποθέμενοι]]  [[G3956\|πᾶσαν]]  [[G4507\|ῥυπαρίαν]]  [[G2532\|καὶ]]  [[G4050\|περισσείαν]]  [[G2549\|κακίας]]  [[G1722\|ἐν]]  [[G4236\|πραΰτητι]]  [[G1209\|δέξασθε]]  [[G3588\|τὸν]]  [[G1721\|ἔμφυτον]]  [[G3056\|λόγον]]  [[G3588\|τὸν]]  [[G1410\|δυνάμενον]]  [[G4982\|σῶσαι]]  [[G3588\|τὰς]]  [[G5590G\|ψυχὰς]]  [[G4771\|ὑμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GOSPEL|GOSPEL]] • [[topic HOLINESS|HOLINESS]] • [[topic MALICE|MALICE]] • [[topic MEEKNESS|MEEKNESS]] • [[topic SALVATION|SALVATION]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.20|<< James 1:20]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.22|James 1:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

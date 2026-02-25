@@ -1,8 +1,67 @@
+---
+title: 2 Chronicles 25:15
+type: Verse
+kjv: "Wherefore the anger of the LORD was kindled against Amaziah, and he sent unto him a prophet, which said unto him, Why hast thou sought after the gods of the people, which could not deliver their own people out of thine hand?"
+bsb: "Therefore the anger of the LORD burned against Amaziah, and He sent him a prophet, who said, “Why have you sought this people’s gods, which could not deliver them from your hand?”"
+hebrew: "וַיִּֽחַר־ אַ֥ף יְהוָ֖ה בַּאֲמַצְיָ֑הוּ וַיִּשְׁלַ֤ח אֵלָיו֙ נָבִ֔יא וַיֹּ֣אמֶר ל֗וֹ לָ֤מָּה דָרַ֙שְׁתָּ֙ אֶת־ אֱלֹהֵ֣י הָעָ֔ם אֲשֶׁ֛ר לֹא־ הִצִּ֥ילוּ אֶת־ עַמָּ֖ם מִיָּדֶֽךָ׃"
+pericope: "[[2Chr.25.14 Amaziah Rebuked for Idolatry|Amaziah Rebuked for Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 25
+book/chapter: "[[2Chr.25|2 Chronicles 25]]"
+chronological_order: 592
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9001]]"
+- "[[H2734]]"
+- "[[H9014]]"
+- "[[H0639G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H0558G]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H5030]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H1875]]"
+- "[[H0853]]"
+- "[[H0430]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H5337]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 25:15**<big><big>[[2Chr.25.14 Amaziah Rebuked for Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore the anger of the LORD was kindled against Amaziah, and he sent unto him a prophet, which said unto him, Why hast thou sought after the gods of the people, which could not deliver their own people out of thine hand?
 <small><sub>**BSB:**</sub></small>
 Therefore the anger of the LORD burned against Amaziah, and He sent him a prophet, who said, “Why have you sought this people’s gods, which could not deliver them from your hand?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2734\|יִּֽחַר]][[H9014\|־]] [[H0639G\|אַ֥ף]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בַּ]][[H0558G\|אֲמַצְיָ֑הוּ]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֤ח]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H5030\|נָבִ֔יא]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H9005\|לָ֤]][[H4100\|מָּה]] [[H1875\|דָרַ֙שְׁתָּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0430\|אֱלֹהֵ֣י]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H0834A\|אֲשֶׁ֛ר]] [[H3808\|לֹא]][[H9014\|־]] [[H5337\|הִצִּ֥ילוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמָּ֖]][[H9028\|ם]] [[H9006\|מִ]][[H3027H\|יָּדֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.14|<< 2 Chronicles 25:14]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.16|2 Chronicles 25:16 >>]]</td></tr></table>
 

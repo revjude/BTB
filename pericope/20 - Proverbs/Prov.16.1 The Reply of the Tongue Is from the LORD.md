@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Reply of the Tongue Is from the LORD
+type: Pericope
 pericope: "[[Prov.16.1 The Reply of the Tongue Is from the LORD|The Reply of the Tongue Is from the LORD]]"
-verse_count: 33
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 16
 book/chapter: "[[Prov.16|Proverbs 16]]"
-genre:
+chronological_order: 471
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 33
 verses:
 - "[[Prov.16.1]]"
 - "[[Prov.16.2]]"
@@ -51,7 +58,7 @@ verses:
 - "[[Prov.16.33]]"
 ---
 
-[[Prov.16|Proverbs 16:1 - Proverbs 16:33]]
+<small>[[Prov.16|Proverbs 16:1-33]]</small>
 *The Reply of the Tongue Is from the LORD*
 
 [[Prov.16.1|1]] The preparations of the heart in man, and the answer of the tongue, \[is\] from the LORD.

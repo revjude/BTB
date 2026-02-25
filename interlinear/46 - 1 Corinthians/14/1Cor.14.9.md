@@ -1,10 +1,61 @@
+---
+title: 1 Corinthians 14:9
+type: Verse
+kjv: "So likewise ye, except ye utter by the tongue words easy to be understood, how shall it be known what is spoken? for ye shall speak into the air."
+bsb: "So it is with you. Unless you speak intelligible words with your tongue, how will anyone know what you are saying? You will just be speaking into the air."
+greek: "οὕτως καὶ ὑμεῖς διὰ τῆς γλώσσης ἐὰν μὴ εὔσημον λόγον δῶτε, πῶς γνωσθήσεται τὸ λαλούμενον; ἔσεσθε γὰρ εἰς ἀέρα λαλοῦντες."
+pericope: "[[1Cor.14.1 Prophecy and Tongues|Prophecy and Tongues]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 14
+book/chapter: "[[1Cor.14|1 Corinthians 14]]"
+chronological_order: 1071
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic INTERPRETATION|INTERPRETATION]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]"
+- "[[topic WORDS|WORDS]]"
+strongs:
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G1100]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G2154]]"
+- "[[G3056]]"
+- "[[G1325]]"
+- "[[G4459]]"
+- "[[G1097]]"
+- "[[G2980]]"
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G1519]]"
+- "[[G0109]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 14:9**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So likewise ye, except ye utter by the tongue words easy to be understood, how shall it be known what is spoken? for ye shall speak into the air.
 <small><sub>**BSB:**</sub></small>
 So it is with you. Unless you speak intelligible words with your tongue, how will anyone know what you are saying? You will just be speaking into the air.
-<small><sub>**Literal:**</sub></small>
-So also you yourselves with the tongue only unless intelligible speech you shall give, how will it be known what [is] being spoken? You will be for into [the] air speaking.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.8|<< 1 Corinthians 14:8]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.10|1 Corinthians 14:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G1100\|γλώσσης]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G2154\|εὔσημον]]  [[G3056\|λόγον]]  [[G1325\|δῶτε,]]  [[G4459\|πῶς]]  [[G1097\|γνωσθήσεται]]  [[G3588\|τὸ]]  [[G2980\|λαλούμενον;]]  [[G1510\|ἔσεσθε]]  [[G1063\|γὰρ]]  [[G1519\|εἰς]]  [[G0109\|ἀέρα]]  [[G2980\|λαλοῦντες.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERPRETATION|INTERPRETATION]] • [[topic LANGUAGE|LANGUAGE]] • [[topic PREACHING|PREACHING]] • [[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]] • [[topic WORDS|WORDS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.8|<< 1 Corinthians 14:8]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.10|1 Corinthians 14:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

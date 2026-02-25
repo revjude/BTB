@@ -1,6 +1,72 @@
+---
+title: LXX Jeremiah 37:7
+type: Verse
+lxx: "Thus said the lord, the God of Israel; Thus shall you say to the king of Judah, the one sending to you  to inquire of me; Behold, the force of Pharaoh  coming forth to you for help, they shall return into the land of Egypt."
+greek: "ούτως είπε κύριος ο θεός Ισραήλ ούτως ερείς προς τον βασιλέα Ιούδα τον αποστείλαντα προς σε του εκζητήσαί με ιδού δύναμις Φαραώ η εξελθούσα υμίν εις βοήθειαν αποστρέψουσιν εις γην Αιγύπτου"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 37
+book/chapter: "[[Jer.37|Jeremiah 37]]"
+chronological_order: 760
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic PHARAOH|PHARAOH]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[G3779]]"
+- "[[G2036]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2474]]"
+- "[[G3779]]"
+- "[[G2046]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2448]]"
+- "[[G3588]]"
+- "[[G0649]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G1567]]"
+- "[[G1473]]"
+- "[[G2400]]"
+- "[[G1411]]"
+- "[[G5328]]"
+- "[[G3588]]"
+- "[[G1831]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G0996]]"
+- "[[G0654]]"
+- "[[G1519]]"
+- "[[G1093]]"
+- "[[G0125]]"
+---
+
 **LXX Jeremiah 37:7** 
 <small><sub>**LXX:**</sub></small>
 Thus said \[the\] <span class="smallcaps">lord</span>, the God of Israel; Thus shall you say to the king of Judah, the one sending to you  to inquire of me; Behold, \[the\] force of Pharaoh  coming forth to you for help, they shall return into \[the\] land of Egypt. 
+<small><sub>**Greek:**</sub></small>
+[[G3779\|ούτως]] [[G2036\|είπε]] [[G2962\|κύριος]] [[G3588\|ο]] [[G2316\|θεός]] [[G2474\|Ισραήλ]] [[G3779\|ούτως]] [[G2046\|ερείς]] [[G4314\|προς]] [[G3588\|τον]] [[G0935\|βασιλέα]] [[G2448\|Ιούδα]] [[G3588\|τον]] [[G0649\|αποστείλαντα]] [[G4314\|προς]] [[G1473\|σε]] [[G3588\|του]] [[G1567\|εκζητήσαί]] [[G1473\|με]] [[G2400\|ιδού]] [[G1411\|δύναμις]] [[G5328\|Φαραώ]] [[G3588\|η]] [[G1831\|εξελθούσα]] [[G1473\|υμίν]] [[G1519\|εις]] [[G0996\|βοήθειαν]] [[G0654\|αποστρέψουσιν]] [[G1519\|εις]] [[G1093\|γην]] [[G0125\|Αιγύπτου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic ARMIES|ARMIES]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic PHARAOH|PHARAOH]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.37.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.6|<< Jeremiah 37:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.8|Jeremiah 37:8 >>]]</td></tr></table>
 
@@ -37,6 +103,6 @@ Thus said \[the\] <span class="smallcaps">lord</span>, the God of Israel; Thus s
 | into | **<big>[[G1519\|εις]]</big>** |
 | \[the\] land | **<big>[[G1093\|γην]]</big>** |
 | of Egypt. | **<big>[[G0125\|Αιγύπτου]]</big>** |
-[[Jer.37.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.6|<< Jeremiah 37:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.8|Jeremiah 37:8 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.6|<< Jeremiah 37:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.8|Jeremiah 37:8 >>]]</td></tr></table>
 
 

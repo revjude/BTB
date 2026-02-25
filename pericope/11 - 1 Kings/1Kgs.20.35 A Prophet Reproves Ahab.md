@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Prophet Reproves Ahab
+type: Pericope
 pericope: "[[1Kgs.20.35 A Prophet Reproves Ahab|A Prophet Reproves Ahab]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 20
 book/chapter: "[[1Kgs.20|1 Kings 20]]"
-genre:
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 9
 verses:
 - "[[1Kgs.20.35]]"
 - "[[1Kgs.20.36]]"
@@ -29,7 +36,7 @@ verses:
 - "[[1Kgs.20.43]]"
 ---
 
-[[1Kgs.20|1 Kings 20:35 - 1 Kings 20:43]]
+<small>[[1Kgs.20|1 Kings 20:35-43]]</small>
 *A Prophet Reproves Ahab*
 
 [[1Kgs.20.35|35]] And a certain man of the sons of the prophets said unto his neighbour in the word of the LORD, Smite me, I pray thee. And the man refused to smite him.

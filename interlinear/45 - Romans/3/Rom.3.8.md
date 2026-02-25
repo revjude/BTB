@@ -1,10 +1,61 @@
+---
+title: Romans 3:8
+type: Verse
+kjv: "And not rather, (as we be slanderously reported, and as some affirm that we say,) Let us do evil, that good may come? whose damnation is just."
+bsb: "Why not say, as some slanderously claim that we say, “Let us do evil that good may result”? Their condemnation is deserved!"
+greek: "καὶ μὴ καθὼς βλασφημούμεθα καὶ καθώς φασίν τινες ἡμᾶς λέγειν ὅτι ποιήσωμεν τὰ κακὰ ἵνα ἔλθῃ τὰ ἀγαθά; ὧν τὸ κρίμα ἔνδικόν ἐστιν.¶"
+pericope: "[[Rom.3.1 God Remains Faithful|God Remains Faithful]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 3
+book/chapter: "[[Rom.3|Romans 3]]"
+chronological_order: 1089
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic SLANDER|SLANDER]]"
+strongs:
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G2531]]"
+- "[[G0987]]"
+- "[[G5346]]"
+- "[[G5100]]"
+- "[[G3165]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G4160G]]"
+- "[[G3588]]"
+- "[[G2556G]]"
+- "[[G2443]]"
+- "[[G2064]]"
+- "[[G0018]]"
+- "[[G3739]]"
+- "[[G2917]]"
+- "[[G1738]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **Romans 3:8**<big><big>[[Rom.3.1 God Remains Faithful|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And not [rather], (as we be slanderously reported, and as some affirm that we say,) Let us do evil, that good may come? whose damnation is just.
 <small><sub>**BSB:**</sub></small>
 Why not say, as some slanderously claim that we say, “Let us do evil that good may result”? Their condemnation is deserved!
-<small><sub>**Literal:**</sub></small>
-And surely even as we are denigrated and even as affirm some [that] we to say that Let us do the [things] evil that may come the good things? Their <the> condemnation just is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.7|<< Romans 3:7]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.9|Romans 3:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G2531\|καθὼς]]  [[G0987\|βλασφημούμεθα]]  [[G2532\|καὶ]]  [[G2531\|καθώς]]  [[G5346\|φασίν]]  [[G5100\|τινες]]  [[G3165\|ἡμᾶς]]  [[G3004G\|λέγειν]]  [[G3754G\|ὅτι]]  [[G4160G\|ποιήσωμεν]]  [[G3588\|τὰ]]  [[G2556G\|κακὰ]]  [[G2443\|ἵνα]]  [[G2064\|ἔλθῃ]]  [[G3588\|τὰ]]  [[G0018\|ἀγαθά;]]  [[G3739\|ὧν]]  [[G3588\|τὸ]]  [[G2917\|κρίμα]]  [[G1738\|ἔνδικόν]]  [[G1510\|ἐστιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic BIGOTRY|BIGOTRY]] • [[topic BOASTING|BOASTING]] • [[topic SLANDER|SLANDER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.7|<< Romans 3:7]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.9|Romans 3:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 3:8** is...
 > $\quad$ alluding to: [[LXX.Jer.17.6|Jer 17:6]]

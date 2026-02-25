@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Healing Touch of Jesus
+type: Pericope
 pericope: "[[Mark.5.21 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
-verse_count: 23
+original_language: Greek
 testament: New
 book: Mark
 chapter: 5
 book/chapter: "[[Mark.5|Mark 5]]"
-genre:
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 23
 verses:
 - "[[Mark.5.21]]"
 - "[[Mark.5.22]]"
@@ -41,7 +48,7 @@ verses:
 - "[[Mark.5.43]]"
 ---
 
-[[Mark.5|Mark 5:21 - Mark 5:43]]
+<small>[[Mark.5|Mark 5:21-43]]</small>
 *The Healing Touch of Jesus*
 
 [[Mark.5.21|21]] And when Jesus was passed over again by ship unto the other side, much people gathered unto him: and he was nigh unto the sea.

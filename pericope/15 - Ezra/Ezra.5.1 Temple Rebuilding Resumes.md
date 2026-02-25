@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Temple Rebuilding Resumes
+type: Pericope
 pericope: "[[Ezra.5.1 Temple Rebuilding Resumes|Temple Rebuilding Resumes]]"
-verse_count: 5
+original_language: Aramaic
 testament: Old
 book: Ezra
 chapter: 5
 book/chapter: "[[Ezra.5|Ezra 5]]"
-genre:
+chronological_order: 853
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
+verse_count: 5
 verses:
 - "[[Ezra.5.1]]"
 - "[[Ezra.5.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Ezra.5.5]]"
 ---
 
-[[Ezra.5|Ezra 5:1 - Ezra 5:5]]
+<small>[[Ezra.5|Ezra 5:1-5]]</small>
 *Temple Rebuilding Resumes*
 
 [[Ezra.5.1|1]] Then the prophets, Haggai the prophet, and Zechariah the son of Iddo, prophesied unto the Jews that \[were\] in Judah and Jerusalem in the name of the God of Israel, \[even\] unto them.

@@ -1,8 +1,74 @@
+---
+title: Genesis 17:19
+type: Verse
+kjv: "And God said, Sarah thy wife shall bear thee a son indeed; and thou shalt call his name Isaac: and I will establish my covenant with him for an everlasting covenant, and with his seed after him."
+bsb: "But God replied, “Your wife Sarah will indeed bear you a son, and you are to name him Isaac. I will establish My covenant with him as an everlasting covenant for his descendants after him."
+hebrew: "וַיֹּ֣אמֶר אֱלֹהִ֗ים אֲבָל֙ שָׂרָ֣ה אִשְׁתְּךָ֗ יֹלֶ֤דֶת לְךָ֙ בֵּ֔ן וְקָרָ֥אתָ אֶת־ שְׁמ֖וֹ יִצְחָ֑ק וַהֲקִמֹתִ֨י אֶת־ בְּרִיתִ֥י אִתּ֛וֹ לִבְרִ֥ית עוֹלָ֖ם לְזַרְע֥וֹ אַחֲרָֽיו׃"
+pericope: "[[Gen.17.9 The Covenant of Circumcision|The Covenant of Circumcision]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 17
+book/chapter: "[[Gen.17|Genesis 17]]"
+chronological_order: 59
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SARAH|SARAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0430G]]"
+- "[[H0061]]"
+- "[[H8283]]"
+- "[[H0802H]]"
+- "[[H9021]]"
+- "[[H3205]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H1121A]]"
+- "[[H7121H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H3327]]"
+- "[[H6965I]]"
+- "[[H1285]]"
+- "[[H9020]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H5769G]]"
+- "[[H2233H]]"
+- "[[H0310A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 17:19**<big><big>[[Gen.17.9 The Covenant of Circumcision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God said, Sarah thy wife shall bear thee a son indeed; and thou shalt call his name Isaac: and I will establish my covenant with him for an everlasting covenant, [and] with his seed after him.
 <small><sub>**BSB:**</sub></small>
 But God replied, “Your wife Sarah will indeed bear you a son, and you are to name him Isaac. I will establish My covenant with him as an everlasting covenant for his descendants after him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0430G\|אֱלֹהִ֗ים]] [[H0061\|אֲבָל֙]] [[H8283\|שָׂרָ֣ה]] [[H0802H\|אִשְׁתְּ]][[H9021\|ךָ֗]] [[H3205\|יֹלֶ֤דֶת]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H1121A\|בֵּ֔ן]] [[H9001\|וְ]][[H7121H\|קָרָ֥אתָ]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H3327\|יִצְחָ֑ק]] [[H9001\|וַ]][[H6965I\|הֲקִמֹתִ֨י]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִיתִ֥]][[H9020\|י]] [[H0854\|אִתּ֛]][[H9033\|וֹ]] [[H9005\|לִ]][[H1285\|בְרִ֥ית]] [[H5769G\|עוֹלָ֖ם]] [[H9005\|לְ]][[H2233H\|זַרְע֥]][[H9023\|וֹ]] [[H0310A\|אַחֲרָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BARRENNESS|BARRENNESS]] • [[topic COVENANT|COVENANT]] • [[topic ISAAC|ISAAC]] • [[topic PROPHECY|PROPHECY]] • [[topic SARAH|SARAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.17.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.17.18|<< Genesis 17:18]]</td><td align="center" style="border:none;">[[Gen.17|Genesis 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.17.20|Genesis 17:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

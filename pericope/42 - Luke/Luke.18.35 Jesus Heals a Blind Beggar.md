@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Heals a Blind Beggar
+type: Pericope
 pericope: "[[Luke.18.35 Jesus Heals a Blind Beggar|Jesus Heals a Blind Beggar]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Luke
 chapter: 18
 book/chapter: "[[Luke.18|Luke 18]]"
-genre:
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 9
 verses:
 - "[[Luke.18.35]]"
 - "[[Luke.18.36]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Luke.18.43]]"
 ---
 
-[[Luke.18|Luke 18:35 - Luke 18:43]]
+<small>[[Luke.18|Luke 18:35-43]]</small>
 *Jesus Heals a Blind Beggar*
 
 [[Luke.18.35|35]] And it came to pass, that as he was come nigh unto Jericho, a certain blind man sat by the way side begging:

@@ -1,10 +1,61 @@
+---
+title: Revelation 18:17
+type: Verse
+kjv: "For in one hour so great riches is come to nought. And every shipmaster, and all the company in ships, and sailors, and as many as trade by sea, stood afar off,"
+bsb: "For in a single hour such fabulous wealth has been destroyed!” Every shipmaster, passenger, and sailor, and all who make their living from the sea, will stand at a distance"
+greek: "ὅτι μιᾷ ὥρᾳ ἠρημώθη ὁ τοσοῦτος πλοῦτος.¶ Καὶ πᾶς κυβερνήτης καὶ πᾶς ὁ ἐπὶ τόπον τῶν πλέων ὁ ὅμιλος καὶ ναῦται καὶ ὅσοι τὴν θάλασσαν ἐργάζονται ἀπὸ μακρόθεν ἔστησαν"
+pericope: "[[Rev.18.9 Lament over Babylon|Lament over Babylon]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 18
+book/chapter: "[[Rev.18|Revelation 18]]"
+chronological_order: 1185
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+strongs:
+- "[[G3754H]]"
+- "[[G1520]]"
+- "[[G5610]]"
+- "[[G2049]]"
+- "[[G3588]]"
+- "[[G5118]]"
+- "[[G4149]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G2942]]"
+- "[[G1909]]"
+- "[[G5117]]"
+- "[[G4126]]"
+- "[[G3658]]"
+- "[[G3492]]"
+- "[[G3745]]"
+- "[[G2281]]"
+- "[[G2038]]"
+- "[[G0575]]"
+- "[[G3113]]"
+- "[[G2476]]"
+texts:
+- NKO
+- NO
+- k
+- N(k)O
+---
+
 **Revelation 18:17**<big><big>[[Rev.18.9 Lament over Babylon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For in one hour so great riches is come to nought. And every shipmaster, and all the company in ships, and sailors, and as many as trade by sea, stood afar off,
 <small><sub>**BSB:**</sub></small>
 For in a single hour such fabulous wealth has been destroyed!” Every shipmaster, passenger, and sailor, and all who make their living from the sea, will stand at a distance
-<small><sub>**Literal:**</sub></small>
-Since in one hour has been brought to desolation <the> so great wealth. And every shipmaster and every [one] who on a place of the sailing the multitudes and sailors and as many as the sea trade by at a distance stood<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.16|<< Revelation 18:16]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.18|Revelation 18:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G1520\|μιᾷ]]  [[G5610\|ὥρᾳ]]  [[G2049\|ἠρημώθη]]  [[G3588\|ὁ]]  [[G5118\|τοσοῦτος]]  [[G4149\|πλοῦτος.¶]]  [[G2532\|Καὶ]]  [[G3956\|πᾶς]]  [[G2942\|κυβερνήτης]]  [[G2532\|καὶ]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G1909\|ἐπὶ]]  [[G5117\|τόπον]]  [[G3588\|τῶν]]  [[G4126\|πλέων]]  [[G3588\|ὁ]]  [[G3658\|ὅμιλος]]  [[G2532\|καὶ]]  [[G3492\|ναῦται]]  [[G2532\|καὶ]]  [[G3745\|ὅσοι]]  [[G3588\|τὴν]]  [[G2281\|θάλασσαν]]  [[G2038\|ἐργάζονται]]  [[G0575\|ἀπὸ]]  [[G3113\|μακρόθεν]]  [[G2476\|ἔστησαν]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.16|<< Revelation 18:16]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.18|Revelation 18:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,60 @@
+---
+title: Acts 1:25
+type: Verse
+kjv: "That he may take part of this ministry and apostleship, from which Judas by transgression fell, that he might go to his own place."
+bsb: "to take up this ministry and apostleship, which Judas abandoned to go to his rightful place.”"
+greek: "λαβεῖν τὸν τόπον τῆς διακονίας ταύτης καὶ ἀποστολῆς ἀφ᾽ ἧς παρέβη Ἰούδας πορευθῆναι εἰς τὸν τόπον τὸν ἴδιον."
+pericope: "[[Acts.1.12 Matthias Replaces Judas|Matthias Replaces Judas]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 1
+book/chapter: "[[Acts.1|Acts 1]]"
+chronological_order: 1019
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HELL|HELL]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic MATTHIAS|MATTHIAS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2983]]"
+- "[[G3588]]"
+- "[[G5117]]"
+- "[[G1248]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G0651]]"
+- "[[G0575]]"
+- "[[G3739]]"
+- "[[G3845]]"
+- "[[G2455H]]"
+- "[[G4198]]"
+- "[[G1519]]"
+- "[[G2398]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 1:25**<big><big>[[Acts.1.12 Matthias Replaces Judas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That he may take part of this ministry and apostleship, from which Judas by transgression fell, that he might go to his own place.
 <small><sub>**BSB:**</sub></small>
 to take up this ministry and apostleship, which Judas abandoned to go to his rightful place.”
-<small><sub>**Literal:**</sub></small>
-to take the place of the ministry this and apostleship from which turned aside Judas to go to the place <the> [his] own.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.24|<< Acts 1:24]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.26|Acts 1:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2983\|λαβεῖν]]  [[G3588\|τὸν]]  [[G5117\|τόπον]]  [[G3588\|τῆς]]  [[G1248\|διακονίας]]  [[G3778\|ταύτης]]  [[G2532\|καὶ]]  [[G0651\|ἀποστολῆς]]  [[G0575\|ἀφ᾽]]  [[G3739\|ἧς]]  [[G3845\|παρέβη]]  [[G2455H\|Ἰούδας]]  [[G4198\|πορευθῆναι]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G5117\|τόπον]]  [[G3588\|τὸν]]  [[G2398\|ἴδιον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic HELL|HELL]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic MATTHIAS|MATTHIAS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRAYER|PRAYER]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.24|<< Acts 1:24]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.26|Acts 1:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

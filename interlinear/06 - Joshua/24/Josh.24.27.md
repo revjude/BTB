@@ -1,8 +1,74 @@
+---
+title: Joshua 24:27
+type: Verse
+kjv: "And Joshua said unto all the people, Behold, this stone shall be a witness unto us; for it hath heard all the words of the LORD which he spake unto us: it shall be therefore a witness unto you, lest ye deny your God."
+bsb: "And Joshua said to all the people, “You see this stone. It will be a witness against us, for it has heard all the words the LORD has spoken to us, and it will be a witness against you if you ever deny your God.”"
+hebrew: "וַיֹּ֨אמֶר יְהוֹשֻׁ֜עַ אֶל־ כָּל־ הָעָ֗ם הִנֵּ֨ה הָאֶ֤בֶן הַזֹּאת֙ תִּֽהְיֶה־ בָּ֣נוּ לְעֵדָ֔ה כִּֽי־ הִ֣יא שָׁמְעָ֗ה אֵ֚ת כָּל־ אִמְרֵ֣י יְהוָ֔ה אֲשֶׁ֥ר דִּבֶּ֖ר עִמָּ֑נוּ וְהָיְתָ֤ה בָכֶם֙ לְעֵדָ֔ה פֶּֽן־ תְּכַחֲשׁ֖וּן בֵּאלֹהֵיכֶֽם׃"
+pericope: "[[Josh.24.14 Choose Whom You Will Serve|Choose Whom You Will Serve]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic PILLAR|PILLAR]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3091G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2009]]"
+- "[[H0068G]]"
+- "[[H2063]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H9035]]"
+- "[[H9005]]"
+- "[[H5713A]]"
+- "[[H3588A]]"
+- "[[H1931]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H0561]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H5973A]]"
+- "[[H9036]]"
+- "[[H6435]]"
+- "[[H3584]]"
+- "[[H9013]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 24:27**<big><big>[[Josh.24.14 Choose Whom You Will Serve|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua said unto all the people, Behold, this stone shall be a witness unto us; for it hath heard all the words of the LORD which he spake unto us: it shall be therefore a witness unto you, lest ye deny your God.
 <small><sub>**BSB:**</sub></small>
 And Joshua said to all the people, “You see this stone. It will be a witness against us, for it has heard all the words the LORD has spoken to us, and it will be a witness against you if you ever deny your God.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3091G\|יְהוֹשֻׁ֜עַ]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֗ם]] [[H2009\|הִנֵּ֨ה]] [[H9009\|הָ]][[H0068G\|אֶ֤בֶן]] [[H9009\|הַ]][[H2063\|זֹּאת֙]] [[H1961\|תִּֽהְיֶה]][[H9014\|־]] [[H9003\|בָּ֣]][[H9035\|נוּ]] [[H9005\|לְ]][[H5713A\|עֵדָ֔ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1931\|הִ֣יא]] [[H8085G\|שָׁמְעָ֗ה]] [[H0853\|אֵ֚ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0561\|אִמְרֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H1696G\|דִּבֶּ֖ר]] [[H5973A\|עִמָּ֑]][[H9035\|נוּ]] [[H9001\|וְ]][[H1961\|הָיְתָ֤ה]] [[H9003\|בָ]][[H9036\|כֶם֙]] [[H9005\|לְ]][[H5713A\|עֵדָ֔ה]] [[H6435\|פֶּֽן]][[H9014\|־]] [[H3584\|תְּכַחֲשׁ֖וּ]][[H9013\|ן]] [[H9003\|בֵּ]][[H0430G\|אלֹהֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic PILLAR|PILLAR]] • [[topic SHECHEM|SHECHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.26|<< Joshua 24:26]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.28|Joshua 24:28 >>]]</td></tr></table>
 

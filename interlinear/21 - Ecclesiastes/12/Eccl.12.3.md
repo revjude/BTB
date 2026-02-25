@@ -1,8 +1,60 @@
+---
+title: Ecclesiastes 12:3
+type: Verse
+kjv: "In the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened,"
+bsb: "on the day the keepers of the house tremble and the strong men stoop, when those grinding cease because they are few and those watching through windows see dimly,"
+hebrew: "בַּיּ֗וֹם שֶׁיָּזֻ֙עוּ֙ שֹׁמְרֵ֣י הַבַּ֔יִת וְהִֽתְעַוְּת֖וּ אַנְשֵׁ֣י הֶחָ֑יִל וּבָטְל֤וּ הַטֹּֽחֲנוֹת֙ כִּ֣י מִעֵ֔טוּ וְחָשְׁכ֥וּ הָרֹא֖וֹת בָּאֲרֻבּֽוֹת׃"
+pericope: "[[Eccl.12.1 Remember Your Creator|Remember Your Creator]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 12
+book/chapter: "[[Eccl.12|Ecclesiastes 12]]"
+chronological_order: 550
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic OLD AGE|OLD AGE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9007]]"
+- "[[H2111]]"
+- "[[H8104H]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H9001]]"
+- "[[H5791]]"
+- "[[H0582]]"
+- "[[H2428G]]"
+- "[[H0988]]"
+- "[[H2912]]"
+- "[[H3588A]]"
+- "[[H4591]]"
+- "[[H2821]]"
+- "[[H7200G]]"
+- "[[H0699]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 12:3**<big><big>[[Eccl.12.1 Remember Your Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened,
 <small><sub>**BSB:**</sub></small>
 on the day the keepers of the house tremble and the strong men stoop, when those grinding cease because they are few and those watching through windows see dimly,
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּ֗וֹם]] [[H9007\|שֶׁ]][[H2111\|יָּזֻ֙עוּ֙]] [[H8104H\|שֹׁמְרֵ֣י]] [[H9009\|הַ]][[H1004B\|בַּ֔יִת]] [[H9001\|וְ]][[H5791\|הִֽתְעַוְּת֖וּ]] [[H0582\|אַנְשֵׁ֣י]] [[H9009\|הֶ]][[H2428G\|חָ֑יִל]] [[H9001\|וּ]][[H0988\|בָטְל֤וּ]] [[H9009\|הַ]][[H2912\|טֹּֽחֲנוֹת֙]] [[H3588A\|כִּ֣י]] [[H4591\|מִעֵ֔טוּ]] [[H9001\|וְ]][[H2821\|חָשְׁכ֥וּ]] [[H9009\|הָ]][[H7200G\|רֹא֖וֹת]] [[H9003\|בָּ]][[H0699\|אֲרֻבּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OLD AGE|OLD AGE]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.12.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.12.2|<< Ecclesiastes 12:2]]</td><td align="center" style="border:none;">[[Eccl.12|Ecclesiastes 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.12.4|Ecclesiastes 12:4 >>]]</td></tr></table>
 

@@ -1,8 +1,47 @@
+---
+title: Hosea 8:3
+type: Verse
+kjv: "Israel hath cast off the thing that is good: the enemy shall pursue him."
+bsb: "But Israel has rejected good; an enemy will pursue him."
+hebrew: "זָנַ֥ח יִשְׂרָאֵ֖ל ט֑וֹב אוֹיֵ֖ב יִרְדְּֽפוֹ׃"
+pericope: "[[Hos.8.1 Israel Will Reap the Whirlwind|Israel Will Reap the Whirlwind]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 8
+book/chapter: "[[Hos.8|Hosea 8]]"
+chronological_order: 649
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+strongs:
+- "[[H2186A]]"
+- "[[H3478]]"
+- "[[H2896B]]"
+- "[[H0341]]"
+- "[[H7291]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 8:3**<big><big>[[Hos.8.1 Israel Will Reap the Whirlwind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Israel hath cast off [the thing that is] good: the enemy shall pursue him.
 <small><sub>**BSB:**</sub></small>
 But Israel has rejected good; an enemy will pursue him.
+<small><sub>**Hebrew:**</sub></small>
+[[H2186A\|זָנַ֥ח]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H2896B\|ט֑וֹב]] [[H0341\|אוֹיֵ֖ב]] [[H7291\|יִרְדְּֽפ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.8.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.8.2|<< Hosea 8:2]]</td><td align="center" style="border:none;">[[Hos.8|Hosea 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.8.4|Hosea 8:4 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Deuteronomy 32:31
+type: Verse
+kjv: "For their rock is not as our Rock, even our enemies themselves being judges."
+bsb: "For their rock is not like our Rock, even our enemies concede."
+hebrew: "כִּ֛י לֹ֥א כְצוּרֵ֖נוּ צוּרָ֑ם וְאֹיְבֵ֖ינוּ פְּלִילִֽים׃"
+pericope: "[[Deut.32.1 The Song of Moses|The Song of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 32
+book/chapter: "[[Deut.32|Deuteronomy 32]]"
+chronological_order: 228
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H9004]]"
+- "[[H6697H]]"
+- "[[H9025]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H0341]]"
+- "[[H6414]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 32:31**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For their rock [is] not as our Rock, even our enemies themselves [being] judges.
 <small><sub>**BSB:**</sub></small>
 For their rock is not like our Rock, even our enemies concede.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֛י]] [[H3808\|לֹ֥א]] [[H9004\|כְ]][[H6697H\|צוּרֵ֖]][[H9025\|נוּ]] [[H6697H\|צוּרָ֑]][[H9028\|ם]] [[H9002\|וְ]][[H0341\|אֹיְבֵ֖י]][[H9025\|נוּ]] [[H6414\|פְּלִילִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PSALMS|PSALMS]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.30|<< Deuteronomy 32:30]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.32|Deuteronomy 32:32 >>]]</td></tr></table>
 

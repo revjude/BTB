@@ -1,10 +1,61 @@
+---
+title: Luke 8:54
+type: Verse
+kjv: "And he put them all out, and took her by the hand, and called, saying, Maid, arise."
+bsb: "But Jesus took her by the hand and called out, “Child, get up!”"
+jesus_said: "Maid, arise."
+greek: "αὐτὸς δὲ ἐκβαλὼν ἔξω πάντας καὶ κρατήσας τῆς χειρὸς αὐτῆς ἐφώνησεν λέγων· ἡ παῖς, ἔγειρε."
+pericope: "[[Luke.8.40 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic JAIRUS|JAIRUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G0846]]"
+- "[[G1161]]"
+- "[[G1544]]"
+- "[[G1854]]"
+- "[[G3956]]"
+- "[[G2532]]"
+- "[[G2902]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G5455]]"
+- "[[G3004G]]"
+- "[[G3816]]"
+- "[[G1453]]"
+texts:
+- NKO
+- K
+- N(k)O
+---
+
 **Luke 8:54**<big><big>[[Luke.8.40 The Healing Touch of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he put them all out, and took her by the hand, and called, saying, Maid, arise.
 <small><sub>**BSB:**</sub></small>
 But Jesus took her by the hand and called out, “Child, get up!”
-<small><sub>**Literal:**</sub></small>
-He himself now having taken out outside all and having taken hold of the hand of her called out saying: O Child, do arise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.53|<< Luke 8:53]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.55|Luke 8:55 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0846\|αὐτὸς]]  [[G1161\|δὲ]]  [[G1544\|ἐκβαλὼν]]  [[G1854\|ἔξω]]  [[G3956\|πάντας]]  [[G2532\|καὶ]]  [[G2902\|κρατήσας]]  [[G3588\|τῆς]]  [[G5495\|χειρὸς]]  [[G0846\|αὐτῆς]]  [[G5455\|ἐφώνησεν]]  [[G3004G\|λέγων·]]  [[G3588\|ἡ]]  [[G3816\|παῖς,]]  [[G1453\|ἔγειρε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic JAIRUS|JAIRUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.53|<< Luke 8:53]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.55|Luke 8:55 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

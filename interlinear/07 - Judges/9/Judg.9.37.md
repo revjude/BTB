@@ -1,8 +1,68 @@
+---
+title: Judges 9:37
+type: Verse
+kjv: "And Gaal spake again and said, See there come people down by the middle of the land, and another company come along by the plain of Meonenim."
+bsb: "Then Gaal spoke up again, “Look, people are coming down from the center of the land, and one company is coming by way of the Diviners’ Oak.”"
+hebrew: "וַיֹּ֨סֶף ע֣וֹד גַּעַל֮ לְדַבֵּר֒ וַיֹּ֕אמֶר הִנֵּה־ עָם֙ יֽוֹרְדִ֔ים מֵעִ֖ם טַבּ֣וּר הָאָ֑רֶץ וְרֹאשׁ־ אֶחָ֣ד בָּ֔א מִדֶּ֖רֶךְ אֵל֥וֹן מְעוֹנְנִֽים׃"
+pericope: "[[Judg.9.30 The Fall of Shechem|The Fall of Shechem]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic GAAL|GAAL]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic MEONENIM|MEONENIM]]"
+- "[[topic ZEBUL|ZEBUL]]"
+strongs:
+- "[[H9001]]"
+- "[[H3254G]]"
+- "[[H5750]]"
+- "[[H1603]]"
+- "[[H9005]]"
+- "[[H1696G]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H5971K]]"
+- "[[H3381]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H2872]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H7218K]]"
+- "[[H0259]]"
+- "[[H0935G]]"
+- "[[H1870J]]"
+- "[[H0436G]]"
+- "[[H6049G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 9:37**<big><big>[[Judg.9.30 The Fall of Shechem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Gaal spake again and said, See there come people down by the middle of the land, and another company come along by the plain of Meonenim.
 <small><sub>**BSB:**</sub></small>
 Then Gaal spoke up again, “Look, people are coming down from the center of the land, and one company is coming by way of the Diviners’ Oak.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3254G\|יֹּ֨סֶף]] [[H5750\|ע֣וֹד]] [[H1603\|גַּעַל֮]] [[H9005\|לְ]][[H1696G\|דַבֵּר֒]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H2009\|הִנֵּה]][[H9014\|־]] [[H5971K\|עָם֙]] [[H3381\|יֽוֹרְדִ֔ים]] [[H9006\|מֵ]][[H5973B\|עִ֖ם]] [[H2872\|טַבּ֣וּר]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H7218K\|רֹאשׁ]][[H9014\|־]] [[H0259\|אֶחָ֣ד]] [[H0935G\|בָּ֔א]] [[H9006\|מִ]][[H1870J\|דֶּ֖רֶךְ]] [[H0436G\|אֵל֥וֹן]] [[H6049G\|מְעוֹנְנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSPIRACY|CONSPIRACY]] • [[topic GAAL|GAAL]] • [[topic JUDGE|JUDGE]] • [[topic MEONENIM|MEONENIM]] • [[topic ZEBUL|ZEBUL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.36|<< Judges 9:36]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.38|Judges 9:38 >>]]</td></tr></table>
 

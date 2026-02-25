@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Temple’s Interior
+type: Pericope
 pericope: "[[2Chr.3.5 The Temple’s Interior|The Temple’s Interior]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 3
 book/chapter: "[[2Chr.3|2 Chronicles 3]]"
-genre:
+chronological_order: 492
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 5
 verses:
 - "[[2Chr.3.5]]"
 - "[[2Chr.3.6]]"
@@ -23,7 +30,7 @@ verses:
 - "[[2Chr.3.9]]"
 ---
 
-[[2Chr.3|2 Chronicles 3:5 - 2 Chronicles 3:9]]
+<small>[[2Chr.3|2 Chronicles 3:5-9]]</small>
 *The Temple’s Interior*
 
 [[2Chr.3.5|5]] And the greater house he cieled with fir tree, which he overlaid with fine gold, and set thereon palm trees and chains.

@@ -1,6 +1,52 @@
+---
+title: LXX Judges 2:5
+type: Verse
+lxx: "Therefore he called the name  of that place, Weeping. And they sacrificed there to the lord."
+greek: "δια τούτο εκλήθη το όνομα του τόπου εκείνου Κλαυθμών και έθυσαν εκεί τω κυρίω"
+original_language: Greek
+testament: Old
+book: Judges
+chapter: 2
+book/chapter: "[[Judg.2|Judges 2]]"
+chronological_order: 256
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic WEEPING|WEEPING]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G2564]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G3588]]"
+- "[[G5117]]"
+- "[[G1565]]"
+- "[[G8016]]"
+- "[[G2532]]"
+- "[[G2380]]"
+- "[[G1563]]"
+- "[[G3588]]"
+- "[[G2962]]"
+---
+
 **LXX Judges 2:5** 
 <small><sub>**LXX:**</sub></small>
 Therefore he called the name  of that place, Weeping. And they sacrificed there to the <span class="smallcaps">lord</span>. 
+<small><sub>**Greek:**</sub></small>
+[[G1223\|δια]] [[G3778\|τούτο]] [[G2564\|εκλήθη]] [[G3588\|το]] [[G3686\|όνομα]] [[G3588\|του]] [[G5117\|τόπου]] [[G1565\|εκείνου]] [[G8016\|Κλαυθμών]] [[G2532\|και]] [[G2380\|έθυσαν]] [[G1563\|εκεί]] [[G3588\|τω]] [[G2962\|κυρίω]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic REPENTANCE|REPENTANCE]] • [[topic WEEPING|WEEPING]]</small>
 <small><sub>**MT:**</sub></small>
 [[Judg.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.2.4|<< Judges 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.2.6|Judges 2:6 >>]]</td></tr></table>
 
@@ -18,6 +64,6 @@ Therefore he called the name  of that place, Weeping. And they sacrificed there 
 | there | **<big>[[G1563\|εκεί]]</big>** |
 | to the | **<big>[[G3588\|τω]]</big>** |
 | <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίω]]</big>** |
-[[Judg.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.2.4|<< Judges 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.2.6|Judges 2:6 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.2.4|<< Judges 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.2.6|Judges 2:6 >>]]</td></tr></table>
 
 

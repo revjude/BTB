@@ -1,8 +1,61 @@
+---
+title: 1 Samuel 22:16
+type: Verse
+kjv: "And the king said, Thou shalt surely die, Ahimelech, thou, and all thy father’s house."
+bsb: "But the king replied, “You will surely die, Ahimelech, you and all your father’s house!”"
+hebrew: "וַיֹּ֣אמֶר הַמֶּ֔לֶךְ מ֥וֹת תָּמ֖וּת אֲחִימֶ֑לֶךְ אַתָּ֖ה וְכָל־ בֵּ֥ית אָבִֽיךָ׃"
+pericope: "[[1Sam.22.6 Saul Slays the Priests of Nob|Saul Slays the Priests of Nob]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 22
+book/chapter: "[[1Sam.22|1 Samuel 22]]"
+chronological_order: 301
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic AHIJAH|AHIJAH]]"
+- "[[topic AHIMELECH|AHIMELECH]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H4191]]"
+- "[[H0288G]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 22:16**<big><big>[[1Sam.22.6 Saul Slays the Priests of Nob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king said, Thou shalt surely die, Ahimelech, thou, and all thy father’s house.
 <small><sub>**BSB:**</sub></small>
 But the king replied, “You will surely die, Ahimelech, you and all your father’s house!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H4191\|מ֥וֹת]] [[H4191\|תָּמ֖וּת]] [[H0288G\|אֲחִימֶ֑לֶךְ]] [[H0859A\|אַתָּ֖ה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1004M\|בֵּ֥ית]] [[H0001G\|אָבִֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic AHIJAH|AHIJAH]] • [[topic AHIMELECH|AHIMELECH]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic MALICE|MALICE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.22.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.22.15|<< 1 Samuel 22:15]]</td><td align="center" style="border:none;">[[1Sam.22|1 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.22.17|1 Samuel 22:17 >>]]</td></tr></table>
 

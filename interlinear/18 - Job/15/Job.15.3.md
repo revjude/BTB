@@ -1,8 +1,52 @@
+---
+title: Job 15:3
+type: Verse
+kjv: "Should he reason with unprofitable talk? or with speeches wherewith he can do no good?"
+bsb: "Should he argue with useless words or speeches that serve no purpose?"
+hebrew: "הוֹכֵ֣חַ בְּ֭דָבָר לֹ֣א יִסְכּ֑וֹן וּ֝מִלִּ֗ים לֹא־ יוֹעִ֥יל בָּֽם׃"
+pericope: "[[Job.15.1 Eliphaz：Job Does Not Fear God|Eliphaz：Job Does Not Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 15
+book/chapter: "[[Job.15|Job 15]]"
+chronological_order: 26
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H3198]]"
+- "[[H9003]]"
+- "[[H1697H]]"
+- "[[H3808]]"
+- "[[H5532]]"
+- "[[H9002]]"
+- "[[H4405]]"
+- "[[H9014]]"
+- "[[H3276]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 15:3**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Should he reason with unprofitable talk? or with speeches wherewith he can do no good?
 <small><sub>**BSB:**</sub></small>
 Should he argue with useless words or speeches that serve no purpose?
+<small><sub>**Hebrew:**</sub></small>
+[[H3198\|הוֹכֵ֣חַ]] [[H9003\|בְּ֭]][[H1697H\|דָבָר]] [[H3808\|לֹ֣א]] [[H5532\|יִסְכּ֑וֹן]] [[H9002\|וּ֝]][[H4405\|מִלִּ֗ים]] [[H3808\|לֹא]][[H9014\|־]] [[H3276\|יוֹעִ֥יל]] [[H9003\|בָּֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.2|<< Job 15:2]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.4|Job 15:4 >>]]</td></tr></table>
 

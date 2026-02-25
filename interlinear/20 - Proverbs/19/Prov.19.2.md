@@ -1,8 +1,55 @@
+---
+title: Proverbs 19:2
+type: Verse
+kjv: "Also, that the soul be without knowledge, it is not good; and he that hasteth with his feet sinneth."
+bsb: "Even zeal is no good without knowledge, and he who hurries his footsteps misses the mark."
+hebrew: "גַּ֤ם בְּלֹא־ דַ֣עַת נֶ֣פֶשׁ לֹא־ ט֑וֹב וְאָ֖ץ בְּרַגְלַ֣יִם חוֹטֵֽא׃"
+pericope: "[[Prov.19.1 The Man of Integrity|The Man of Integrity]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 19
+book/chapter: "[[Prov.19|Proverbs 19]]"
+chronological_order: 474
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic RASHNESS|RASHNESS]]"
+strongs:
+- "[[H1571]]"
+- "[[H9003]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1847]]"
+- "[[H5315J]]"
+- "[[H2896A]]"
+- "[[H9002]]"
+- "[[H0213]]"
+- "[[H7272]]"
+- "[[H2398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 19:2**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also, [that] the soul [be] without knowledge, [it is] not good; and he that hasteth with [his] feet sinneth.
 <small><sub>**BSB:**</sub></small>
 Even zeal is no good without knowledge, and he who hurries his footsteps misses the mark.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּ֤ם]] [[H9003\|בְּ]][[H3808\|לֹא]][[H9014\|־]] [[H1847\|דַ֣עַת]] [[H5315J\|נֶ֣פֶשׁ]] [[H3808\|לֹא]][[H9014\|־]] [[H2896A\|ט֑וֹב]] [[H9002\|וְ]][[H0213\|אָ֖ץ]] [[H9003\|בְּ]][[H7272\|רַגְלַ֣יִם]] [[H2398\|חוֹטֵֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic IGNORANCE|IGNORANCE]] • [[topic PRUDENCE|PRUDENCE]] • [[topic RASHNESS|RASHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.1|<< Proverbs 19:1]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.3|Proverbs 19:3 >>]]</td></tr></table>
 

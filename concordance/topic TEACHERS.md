@@ -11,7 +11,7 @@
 
 → FALSE
 
-- Admonition against [[Deut.13.1|De 13:1]]-[[Deut.13.3|3]]; [[Matt.5.19|Mt 5:19]]; [[Matt.7.15|7:15]]; [[Matt.15.2|15:2]]-[[Matt.15.20|20]];  [[Matt.23.2|23:2]]-[[Matt.23.33|33]]; [[Luke.11.38|Lu 11:38]]-[[Luke.11.52|52]]
+- Admonition against [[Deut.13.1|De 13:1-3]]; [[Matt.5.19|Mt 5:19]]; [[Matt.7.15|7:15]]; [[Matt.15.2|15:2-20]];  [[Matt.23.2|23:2-33]]; [[Luke.11.38|Lu 11:38-52]]
 
 - See [[topic MINISTER, CHRISTIAN|MINISTERS, FALSE]]
 

@@ -1,8 +1,58 @@
+---
+title: Psalm 74:11
+type: Verse
+kjv: "Why withdrawest thou thy hand, even thy right hand? pluck it out of thy bosom."
+bsb: "Why do You withdraw Your strong right hand? Stretch it out to destroy them!"
+hebrew: "לָ֤מָּה תָשִׁ֣יב יָ֭דְךָ וִֽימִינֶ֑ךָ מִקֶּ֖רֶב חֵֽיקְךָ֣ כַלֵּֽה׃"
+pericope: "[[Ps.74.1 Why Have You Rejected Us Forever？|Why Have You Rejected Us Forever？]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 74
+book/chapter: "[[Ps.74|Psalm 74]]"
+chronological_order: 781
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H7725G]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3225G]]"
+- "[[H9006]]"
+- "[[H7130G]]"
+- "[[H2706G]]"
+- "[[H2436H]]"
+- "[[H3615H]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Psalms 74:11**<big><big>[[Ps.74.1 Why Have You Rejected Us Forever？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why withdrawest thou thy hand, even thy right hand? pluck [it] out of thy bosom.
 <small><sub>**BSB:**</sub></small>
 Why do You withdraw Your strong right hand? Stretch it out to destroy them!
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ֤]][[H4100\|מָּה]] [[H7725G\|תָשִׁ֣יב]] [[H3027G\|יָ֭דְ]][[H9021\|ךָ]] [[H9002\|וִֽ]][[H3225G\|ימִינֶ֑]][[H9021\|ךָ]] [[H9006\|מִ]][[H7130G\|קֶּ֖רֶב]] [[H2436H\|חֵֽיקְ]][[H9021\|ךָ֣]] [[H3615H\|כַלֵּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.74.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.10|<< Psalms 74:10]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.12|Psalms 74:12 >>]]</td></tr></table>
 
@@ -17,7 +67,7 @@ Why do You withdraw Your strong right hand? Stretch it out to destroy them!
 | destroy  |**<big>&#8207;[[H3615H\|כַלֵּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| kha.Leh<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.10|<< Psalms 74:10]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.12|Psalms 74:12 >>]]</td></tr></table>
 
-[^1]: decree your  | **<big>[[H9021|ךָ]]</big><big>[[H2706G|חוֹקְ]]</big> ** | chei.ke.<small><sup>[[HNcbsc]]</sup></small> Cha<small><sup>[[HSp2ms]]</sup></small> | K
-[^2]: decree your  | **<big>[[H9021|ךָ]]</big><big>[[H2706G|חוֹקְ]]</big> ** | chei.ke.<small><sup>[[HNcbsc]]</sup></small> Cha<small><sup>[[HSp2ms]]</sup></small> | K
+[^1]: decree your  | **<big>[[H2706G|חוֹקְ]]</big><big>[[H9021|ךָ]]</big> ** | chei.ke.<small><sup>[[HNcbsc]]</sup></small> Cha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: decree your  | **<big>[[H2706G|חוֹקְ]]</big><big>[[H9021|ךָ]]</big> ** | chei.ke.<small><sup>[[HNcbsc]]</sup></small> Cha<small><sup>[[HSp2ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>חֵֽוקְךָ֣</big></span>**
 

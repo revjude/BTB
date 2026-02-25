@@ -1,10 +1,63 @@
+---
+title: 2 Thessalonians 2:14
+type: Verse
+kjv: "Whereunto he called you by our gospel, to the obtaining of the glory of our Lord Jesus Christ."
+bsb: "To this He called you through our gospel, so that you may share in the glory of our Lord Jesus Christ."
+greek: "εἰς ὃ καὶ ἐκάλεσεν ὑμᾶς διὰ τοῦ εὐαγγελίου ἡμῶν εἰς περιποίησιν δόξης τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ.¶"
+pericope: "[[2Thess.2.13 Stand Firm|Stand Firm]]"
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 2
+book/chapter: "[[2Thess.2|2 Thessalonians 2]]"
+chronological_order: 1054
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic GLORY|GLORY]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic TRINITY|TRINITY]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G1519]]"
+- "[[G3739]]"
+- "[[G2532]]"
+- "[[G2564G]]"
+- "[[G4771]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G2098]]"
+- "[[G3165]]"
+- "[[G4047]]"
+- "[[G1391]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+texts:
+- NKO
+- n
+---
+
 **2 Thessalonians 2:14**<big><big>[[2Thess.2.13 Stand Firm|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whereunto he called you by our gospel, to the obtaining of the glory of our Lord Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 To this He called you through our gospel, so that you may share in the glory of our Lord Jesus Christ.
-<small><sub>**Literal:**</sub></small>
-to this also He called you through the gospel of us to [the] obtaining of [the] glory of the Lord of us Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.13|<< 2 Thessalonians 2:13]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.15|2 Thessalonians 2:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1519\|εἰς]]  [[G3739\|ὃ]]  [[G2532\|καὶ]]  [[G2564G\|ἐκάλεσεν]]  [[G4771\|ὑμᾶς]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G2098\|εὐαγγελίου]]  [[G3165\|ἡμῶν]]  [[G1519\|εἰς]]  [[G4047\|περιποίησιν]]  [[G1391\|δόξης]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic GLORY|GLORY]] • [[topic GOSPEL|GOSPEL]] • [[topic HEAVEN|HEAVEN]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic TRINITY|TRINITY]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.13|<< 2 Thessalonians 2:13]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.15|2 Thessalonians 2:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

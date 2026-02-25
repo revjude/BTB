@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Crime of the Benjamites
+type: Pericope
 pericope: "[[Judg.19.1 The Crime of the Benjamites|The Crime of the Benjamites]]"
-verse_count: 30
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 19
 book/chapter: "[[Judg.19|Judges 19]]"
-genre:
+chronological_order: 273
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 30
 verses:
 - "[[Judg.19.1]]"
 - "[[Judg.19.2]]"
@@ -48,7 +55,7 @@ verses:
 - "[[Judg.19.30]]"
 ---
 
-[[Judg.19|Judges 19:1 - Judges 19:30]]
+<small>[[Judg.19|Judges 19:1-30]]</small>
 *The Crime of the Benjamites*
 
 [[Judg.19.1|1]] And it came to pass in those days, when \[there was\] no king in Israel, that there was a certain Levite sojourning on the side of mount Ephraim, who took to him a concubine out of Bethlehemjudah.

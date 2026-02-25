@@ -1,8 +1,53 @@
+---
+title: Psalm 115:4
+type: Verse
+kjv: "Their idols are silver and gold, the work of men’s hands."
+bsb: "Their idols are silver and gold, made by the hands of men."
+hebrew: "עֲֽ֭צַבֵּיהֶם כֶּ֣סֶף וְזָהָ֑ב מַ֝עֲשֵׂ֗ה יְדֵ֣י אָדָֽם׃"
+pericope: "[[Ps.115.1 To Your Name Be the Glory|To Your Name Be the Glory]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 115
+book/chapter: "[[Ps.115|Psalm 115]]"
+chronological_order: 877
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic IDOL|IDOL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H6091]]"
+- "[[H9028]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H2091]]"
+- "[[H4639G]]"
+- "[[H3027G]]"
+- "[[H0120G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 115:4**<big><big>[[Ps.115.1 To Your Name Be the Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their idols [are] silver and gold, the work of men’s hands.
 <small><sub>**BSB:**</sub></small>
 Their idols are silver and gold, made by the hands of men.
+<small><sub>**Hebrew:**</sub></small>
+[[H6091\|עֲֽ֭צַבֵּי]][[H9028\|הֶם]] [[H3701G\|כֶּ֣סֶף]] [[H9002\|וְ]][[H2091\|זָהָ֑ב]] [[H4639G\|מַ֝עֲשֵׂ֗ה]] [[H3027G\|יְדֵ֣י]] [[H0120G\|אָדָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOL|IDOL]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.115.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.115.3|<< Psalms 115:3]]</td><td align="center" style="border:none;">[[Ps.115|Psalms 115]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.115.5|Psalms 115:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,10 +1,78 @@
+---
+title: Revelation 19:20
+type: Verse
+kjv: "And the beast was taken, and with him the false prophet that wrought miracles before him, with which he deceived them that had received the mark of the beast, and them that worshipped his image. These both were cast alive into a lake of fire burning with brimstone."
+bsb: "But the beast was captured along with the false prophet, who on its behalf had performed signs deceiving those who had the mark of the beast and worshiped its image. Both the beast and the false prophet were thrown alive into the fiery lake of burning sulfur."
+greek: "καὶ ἐπιάσθη τὸ θηρίον, καὶ μετ᾽ αὐτοῦ ὁ ψευδοπροφήτης ὁ ποιήσας τὰ σημεῖα ἐνώπιον αὐτοῦ, ἐν οἷς ἐπλάνησεν τοὺς λαβόντας τὸ χάραγμα τοῦ θηρίου καὶ τοὺς προσκυνοῦντας τῇ εἰκόνι αὐτοῦ. ζῶντες ἐβλήθησαν οἱ δύο εἰς τὴν λίμνην τοῦ πυρὸς τῆς καιομένης ἐν τῷ θείῳ."
+pericope: "[[Rev.19.17 Defeat of the Beast and False Prophet|Defeat of the Beast and False Prophet]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 19
+book/chapter: "[[Rev.19|Revelation 19]]"
+chronological_order: 1186
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ANTICHRIST|ANTICHRIST]]"
+- "[[topic BRIMSTONE|BRIMSTONE]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HELL|HELL]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAKE|LAKE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G4084]]"
+- "[[G3588]]"
+- "[[G2342]]"
+- "[[G3326]]"
+- "[[G0846]]"
+- "[[G5578]]"
+- "[[G4160G]]"
+- "[[G4592]]"
+- "[[G1799]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G4105]]"
+- "[[G2983]]"
+- "[[G5480]]"
+- "[[G4352]]"
+- "[[G1504]]"
+- "[[G2198]]"
+- "[[G0906G]]"
+- "[[G1417]]"
+- "[[G1519]]"
+- "[[G3041]]"
+- "[[G4442]]"
+- "[[G2545]]"
+- "[[G2303]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Revelation 19:20**<big><big>[[Rev.19.17 Defeat of the Beast and False Prophet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the beast was taken, and with him the false prophet that wrought miracles before him, with which he deceived them that had received the mark of the beast, and them that worshipped his image. These both were cast alive into a lake of fire burning with brimstone.
 <small><sub>**BSB:**</sub></small>
 But the beast was captured along with the false prophet, who on its behalf had performed signs deceiving those who had the mark of the beast and worshiped its image. Both the beast and the false prophet were thrown alive into the fiery lake of burning sulfur.
-<small><sub>**Literal:**</sub></small>
-And was captured the beast, and with him <the> false prophet the [one] having done the signs before him, by which he deceived those having received the mark of the beast and those worshiping the image of it. living were cast the two into the lake <the> of fire which is burning with <the> brimstone.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.19|<< Revelation 19:19]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.21|Revelation 19:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4084\|ἐπιάσθη]]  [[G3588\|τὸ]]  [[G2342\|θηρίον,]]  [[G2532\|καὶ]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ]]  [[G3588\|ὁ]]  [[G5578\|ψευδοπροφήτης]]  [[G3588\|ὁ]]  [[G4160G\|ποιήσας]]  [[G3588\|τὰ]]  [[G4592\|σημεῖα]]  [[G1799\|ἐνώπιον]]  [[G0846\|αὐτοῦ,]]  [[G1722\|ἐν]]  [[G3739\|οἷς]]  [[G4105\|ἐπλάνησεν]]  [[G3588\|τοὺς]]  [[G2983\|λαβόντας]]  [[G3588\|τὸ]]  [[G5480\|χάραγμα]]  [[G3588\|τοῦ]]  [[G2342\|θηρίου]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G4352\|προσκυνοῦντας]]  [[G3588\|τῇ]]  [[G1504\|εἰκόνι]]  [[G0846\|αὐτοῦ.]]  [[G2198\|ζῶντες]]  [[G0906G\|ἐβλήθησαν]]  [[G3588\|οἱ]]  [[G1417\|δύο]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3041\|λίμνην]]  [[G3588\|τοῦ]]  [[G4442\|πυρὸς]]  [[G3588\|τῆς]]  [[G2545\|καιομένης]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2303\|θείῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic ANTICHRIST|ANTICHRIST]] • [[topic BRIMSTONE|BRIMSTONE]] • [[topic DEATH|DEATH]] • [[topic HELL|HELL]] • [[topic HORSE|HORSE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAKE|LAKE]] • [[topic MIRACLES|MIRACLES]] • [[topic VISION|VISION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.19|<< Revelation 19:19]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.21|Revelation 19:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 19:20** is...
 > $\quad$ possibly alluding to: [[LXX.Isa.30.33|Isa 30:33]] ☩ [[LXX.Dan.7.11|Dan 7:11]] ☩ [[LXX.Dan.7.26|Dan 7:26]]

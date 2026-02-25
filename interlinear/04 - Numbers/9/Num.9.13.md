@@ -1,8 +1,76 @@
+---
+title: Numbers 9:13
+type: Verse
+kjv: "But the man that is clean, and is not in a journey, and forbeareth to keep the passover, even the same soul shall be cut off from among his people: because he brought not the offering of the LORD in his appointed season, that man shall bear his sin."
+bsb: "But if a man who is ceremonially clean and is not on a journey still fails to observe the Passover, he must be cut off from his people, because he did not present the LORD’s offering at its appointed time. That man will bear the consequences of his sin."
+hebrew: "וְהָאִישׁ֩ אֲשֶׁר־ ה֨וּא טָה֜וֹר וּבְדֶ֣רֶךְ לֹא־ הָיָ֗ה וְחָדַל֙ לַעֲשׂ֣וֹת הַפֶּ֔סַח וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵֽעַמֶּ֑יהָ כִּ֣י׀ קָרְבַּ֣ן יְהוָ֗ה לֹ֤א הִקְרִיב֙ בְּמֹ֣עֲד֔וֹ חֶטְא֥וֹ יִשָּׂ֖א הָאִ֥ישׁ הַהֽוּא׃"
+pericope: "[[Num.9.1 The Second Passover|The Second Passover]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 9
+book/chapter: "[[Num.9|Numbers 9]]"
+chronological_order: 168
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H2889]]"
+- "[[H9003]]"
+- "[[H1870L]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H2308]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H6453]]"
+- "[[H9001]]"
+- "[[H3772I]]"
+- "[[H5315J]]"
+- "[[H9006]]"
+- "[[H5971B]]"
+- "[[H9024]]"
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H7133A]]"
+- "[[H3068G]]"
+- "[[H7126H]]"
+- "[[H4150G]]"
+- "[[H9023]]"
+- "[[H2399]]"
+- "[[H5375J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 9:13**<big><big>[[Num.9.1 The Second Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the man that [is] clean, and is not in a journey, and forbeareth to keep the passover, even the same soul shall be cut off from among his people: because he brought not the offering of the LORD in his appointed season, that man shall bear his sin.
 <small><sub>**BSB:**</sub></small>
 But if a man who is ceremonially clean and is not on a journey still fails to observe the Passover, he must be cut off from his people, because he did not present the LORD’s offering at its appointed time. That man will bear the consequences of his sin.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H0376G\|אִישׁ֩]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1931\|ה֨וּא]] [[H2889\|טָה֜וֹר]] [[H9002\|וּ]][[H9003\|בְ]][[H1870L\|דֶ֣רֶךְ]] [[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָיָ֗ה]] [[H9002\|וְ]][[H2308\|חָדַל֙]] [[H9005\|לַ]][[H6213A\|עֲשׂ֣וֹת]] [[H9009\|הַ]][[H6453\|פֶּ֔סַח]] [[H9001\|וְ]][[H3772I\|נִכְרְתָ֛ה]] [[H9009\|הַ]][[H5315J\|נֶּ֥פֶשׁ]] [[H9009\|הַ]][[H1931\|הִ֖וא]] [[H9006\|מֵֽ]][[H5971B\|עַמֶּ֑י]][[H9024\|הָ]] [[H3588A\|כִּ֣י]][[H9015\|׀]] [[H7133A\|קָרְבַּ֣ן]] [[H3068G\|יְהוָ֗ה]] [[H3808\|לֹ֤א]] [[H7126H\|הִקְרִיב֙]] [[H9003\|בְּ]][[H4150G\|מֹ֣עֲד֔]][[H9023\|וֹ]] [[H2399\|חֶטְא֥]][[H9023\|וֹ]] [[H5375J\|יִשָּׂ֖א]] [[H9009\|הָ]][[H0376G\|אִ֥ישׁ]] [[H9009\|הַ]][[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9.12|<< Numbers 9:12]]</td><td align="center" style="border:none;">[[Num.9|Numbers 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.14|Numbers 9:14 >>]]</td></tr></table>
 

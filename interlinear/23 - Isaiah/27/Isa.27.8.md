@@ -1,8 +1,51 @@
+---
+title: Isaiah 27:8
+type: Verse
+kjv: "In measure, when it shooteth forth, thou wilt debate with it: he stayeth his rough wind in the day of the east wind."
+bsb: "By warfare and exile You contended with her and removed her with a fierce wind, as on the day the east wind blows."
+hebrew: "בְּסַּאסְּאָ֖ה בְּשַׁלְחָ֣הּ תְּרִיבֶ֑נָּה הָגָ֛ה בְּרוּח֥וֹ הַקָּשָׁ֖ה בְּי֥וֹם קָדִֽים׃"
+pericope: "[[Isa.27.1 The LORD’s Vineyard|The LORD’s Vineyard]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 27
+book/chapter: "[[Isa.27|Isaiah 27]]"
+chronological_order: 670
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+strongs:
+- "[[H9003]]"
+- "[[H5432]]"
+- "[[H7971M]]"
+- "[[H9034]]"
+- "[[H7378]]"
+- "[[H1898]]"
+- "[[H7307H]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H7186]]"
+- "[[H3117G]]"
+- "[[H6921]]"
+- "[[H9016]]"
+texts:
+- L(abh)
+- L
+---
+
 **Isaiah 27:8**<big><big>[[Isa.27.1 The LORD’s Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In measure, when it shooteth forth, thou wilt debate with it: he stayeth his rough wind in the day of the east wind.
 <small><sub>**BSB:**</sub></small>
 By warfare and exile You contended with her and removed her with a fierce wind, as on the day the east wind blows.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H5432\|סַּאסְּאָ֖ה]] [[H9003\|בְּ]][[H7971M\|שַׁלְחָ֣]][[H9034\|הּ]] [[H7378\|תְּרִיבֶ֑]][[H9034\|נָּה]] [[H1898\|הָגָ֛ה]] [[H9003\|בְּ]][[H7307H\|רוּח֥]][[H9023\|וֹ]] [[H9009\|הַ]][[H7186\|קָּשָׁ֖ה]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H6921\|קָדִֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.27.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.27.7|<< Isaiah 27:7]]</td><td align="center" style="border:none;">[[Isa.27|Isaiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.27.9|Isaiah 27:9 >>]]</td></tr></table>
 

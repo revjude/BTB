@@ -1,8 +1,55 @@
+---
+title: Psalm 122:8
+type: Verse
+kjv: "For my brethren and companions’ sakes, I will now say, Peace be within thee."
+bsb: "For the sake of my brothers and friends, I will say, “Peace be within you.”"
+hebrew: "לְ֭מַעַן אַחַ֣י וְרֵעָ֑י אֲדַבְּרָה־ נָּ֖א שָׁל֣וֹם בָּֽךְ׃"
+pericope: "[[Ps.122.1 Pray for the Peace of Jerusalem|Pray for the Peace of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 122
+book/chapter: "[[Ps.122|Psalm 122]]"
+chronological_order: 884
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+strongs:
+- "[[H4616]]"
+- "[[H0251G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H7453]]"
+- "[[H1696G]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H7965G]]"
+- "[[H9003]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 122:8**<big><big>[[Ps.122.1 Pray for the Peace of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For my brethren and companions’ sakes, I will now say, Peace [be] within thee.
 <small><sub>**BSB:**</sub></small>
 For the sake of my brothers and friends, I will say, “Peace be within you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H4616\|לְ֭מַעַן]] [[H0251G\|אַחַ֣]][[H9020\|י]] [[H9002\|וְ]][[H7453\|רֵעָ֑]][[H9020\|י]] [[H1696G\|אֲדַבְּרָה]][[H9014\|־]] [[H4994\|נָּ֖א]] [[H7965G\|שָׁל֣וֹם]] [[H9003\|בָּֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.122.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.122.7|<< Psalms 122:7]]</td><td align="center" style="border:none;">[[Ps.122|Psalms 122]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.122.9|Psalms 122:9 >>]]</td></tr></table>
 

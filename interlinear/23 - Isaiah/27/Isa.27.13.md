@@ -1,8 +1,67 @@
+---
+title: Isaiah 27:13
+type: Verse
+kjv: "And it shall come to pass in that day, that the great trumpet shall be blown, and they shall come which were ready to perish in the land of Assyria, and the outcasts in the land of Egypt, and shall worship the LORD in the holy mount at Jerusalem."
+bsb: "And in that day a great ram’s horn will sound, and those who were perishing in Assyria will come forth with those who were exiles in Egypt. And they will worship the LORD on the holy mountain in Jerusalem."
+hebrew: "וְהָיָ֣ה׀ בַּיּ֣וֹם הַה֗וּא יִתָּקַע֮ בְּשׁוֹפָ֣ר גָּדוֹל֒ וּבָ֗אוּ הָאֹֽבְדִים֙ בְּאֶ֣רֶץ אַשּׁ֔וּר וְהַנִּדָּחִ֖ים בְּאֶ֣רֶץ מִצְרָ֑יִם וְהִשְׁתַּחֲו֧וּ לַיהוָ֛ה בְּהַ֥ר הַקֹּ֖דֶשׁ בִּירוּשָׁלִָֽם׃"
+pericope: "[[Isa.27.1 The LORD’s Vineyard|The LORD’s Vineyard]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 27
+book/chapter: "[[Isa.27|Isaiah 27]]"
+chronological_order: 670
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H8628]]"
+- "[[H7782]]"
+- "[[H1419A]]"
+- "[[H0935G]]"
+- "[[H0006]]"
+- "[[H0776G]]"
+- "[[H0804G]]"
+- "[[H9002]]"
+- "[[H5080]]"
+- "[[H4714G]]"
+- "[[H7812]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H2022G]]"
+- "[[H6944G]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 27:13**<big><big>[[Isa.27.1 The LORD’s Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass in that day, [that] the great trumpet shall be blown, and they shall come which were ready to perish in the land of Assyria, and the outcasts in the land of Egypt, and shall worship the LORD in the holy mount at Jerusalem.
 <small><sub>**BSB:**</sub></small>
 And in that day a great ram’s horn will sound, and those who were perishing in Assyria will come forth with those who were exiles in Egypt. And they will worship the LORD on the holy mountain in Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֣ה]][[H9015\|׀]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֗וּא]] [[H8628\|יִתָּקַע֮]] [[H9003\|בְּ]][[H7782\|שׁוֹפָ֣ר]] [[H1419A\|גָּדוֹל֒]] [[H9001\|וּ]][[H0935G\|בָ֗אוּ]] [[H9009\|הָ]][[H0006\|אֹֽבְדִים֙]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H0804G\|אַשּׁ֔וּר]] [[H9002\|וְ]][[H9009\|הַ]][[H5080\|נִּדָּחִ֖ים]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H9001\|וְ]][[H7812\|הִשְׁתַּחֲו֧וּ]] [[H9005\|לַ]][[H3068G\|יהוָ֛ה]] [[H9003\|בְּ]][[H2022G\|הַ֥ר]] [[H9009\|הַ]][[H6944G\|קֹּ֖דֶשׁ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic TEMPLE|TEMPLE]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.27.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.27.12|<< Isaiah 27:12]]</td><td align="center" style="border:none;">[[Isa.27|Isaiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.1|Isaiah 28:1 >>]]</td></tr></table>
 

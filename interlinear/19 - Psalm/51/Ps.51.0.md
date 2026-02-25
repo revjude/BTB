@@ -1,6 +1,52 @@
+---
+title: Psalm 51:0
+type: Verse
+kjv: "To the chief Musician, A Psalm of David, when Nathan the prophet came unto him, after he had gone in to Bathsheba."
+hebrew: "לַמְנַצֵּ֗חַ מִזְמ֥וֹר לְדָוִֽד׃ בְּֽבוֹא־ אֵ֭לָיו נָתָ֣ן הַנָּבִ֑יא כַּֽאֲשֶׁר־ בָּ֝֗א אֶל־ בַּת־ שָֽׁבַע׃"
+pericope: "[[Ps.51.1 Create in Me a Clean Heart, O God|Create in Me a Clean Heart, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 51
+book/chapter: "[[Ps.51|Psalm 51]]"
+chronological_order: 425
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9005]]"
+- "[[H5329]]"
+- "[[H4210]]"
+- "[[H1732]]"
+- "[[H9016]]"
+- "[[H9003]]"
+- "[[H0935G]]"
+- "[[H9014]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H5416H]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1339]]"
+texts:
+- L
+---
+
 **Psalms 51:0**<big><big>[[Ps.51.1 Create in Me a Clean Heart, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To the chief Musician, A Psalm of David, when Nathan the prophet came unto him, after he had gone in to Bathsheba.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H5329\|מְנַצֵּ֗חַ]] [[H4210\|מִזְמ֥וֹר]] [[H9005\|לְ]][[H1732\|דָוִֽד]][[H9016\|׃]] [[H9003\|בְּֽ]][[H0935G\|בוֹא]][[H9014\|־]] [[H0413\|אֵ֭לָי]][[H9033\|ו]] [[H5416H\|נָתָ֣ן]] [[H9009\|הַ]][[H5030\|נָּבִ֑יא]] [[H9004\|כַּֽ]][[H0834D\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֝֗א]] [[H0413\|אֶל]][[H9014\|־]] [[H1339\|בַּת]][[H9014\|־]] [[H1339\|שָֽׁבַע]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.51.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50.23|<< Psalms 50:23]]</td><td align="center" style="border:none;">[[Ps.51|Psalms 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.51.1|Psalms 51:1 >>]]</td></tr></table>
 

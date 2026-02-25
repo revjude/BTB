@@ -1,8 +1,57 @@
+---
+title: Psalm 7:4
+type: Verse
+kjv: "If I have rewarded evil unto him that was at peace with me; (yea, I have delivered him that without cause is mine enemy:)"
+bsb: "if I have rewarded my ally with evil, if I have plundered my foe without cause,"
+hebrew: "אִם־ גָּ֭מַלְתִּי שֽׁוֹלְמִ֥י רָ֑ע וָאֲחַלְּצָ֖ה צוֹרְרִ֣י רֵיקָֽם׃"
+pericope: "[[Ps.7.1 I Take Refuge in You|I Take Refuge in You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 7
+book/chapter: "[[Ps.7|Psalm 7]]"
+chronological_order: 311
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic EVIL FOR GOOD|EVIL FOR GOOD]]"
+- "[[topic HONESTY|HONESTY]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H1580]]"
+- "[[H7999B]]"
+- "[[H9030]]"
+- "[[H7451B]]"
+- "[[H9001]]"
+- "[[H2502A]]"
+- "[[H9012]]"
+- "[[H6887D]]"
+- "[[H7387]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 7:4**<big><big>[[Ps.7.1 I Take Refuge in You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If I have rewarded evil unto him that was at peace with me; (yea, I have delivered him that without cause is mine enemy:)
 <small><sub>**BSB:**</sub></small>
 if I have rewarded my ally with evil, if I have plundered my foe without cause,
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H1580\|גָּ֭מַלְתִּי]] [[H7999B\|שֽׁוֹלְמִ֥]][[H9030\|י]] [[H7451B\|רָ֑ע]] [[H9001\|וָ]][[H2502A\|אֲחַלְּצָ֖]][[H9012\|ה]] [[H6887D\|צוֹרְרִ֣]][[H9030\|י]] [[H7387\|רֵיקָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EVIL FOR GOOD|EVIL FOR GOOD]] • [[topic HONESTY|HONESTY]] • [[topic INTEGRITY|INTEGRITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.7.3|<< Psalms 7:3]]</td><td align="center" style="border:none;">[[Ps.7|Psalms 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.7.5|Psalms 7:5 >>]]</td></tr></table>
 

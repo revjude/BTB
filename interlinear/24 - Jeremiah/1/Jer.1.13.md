@@ -1,8 +1,69 @@
+---
+title: Jeremiah 1:13
+type: Verse
+kjv: "And the word of the LORD came unto me the second time, saying, What seest thou? And I said, I see a seething pot; and the face thereof is toward the north."
+bsb: "Again the word of the LORD came to me, asking, “What do you see?” “I see a boiling pot,” I replied, “and it is tilting toward us from the north.”"
+hebrew: "וַיְהִ֨י דְבַר־ יְהוָ֤ה׀ אֵלַי֙ שֵׁנִ֣ית לֵאמֹ֔ר מָ֥ה אַתָּ֖ה רֹאֶ֑ה וָאֹמַ֗ר סִ֤יר נָפ֙וּחַ֙ אֲנִ֣י רֹאֶ֔ה וּפָנָ֖יו מִפְּנֵ֥י צָפֽוֹנָה׃"
+pericope: "[[Jer.1.1 The Call of Jeremiah|The Call of Jeremiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 1
+book/chapter: "[[Jer.1|Jeremiah 1]]"
+chronological_order: 718
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H8145]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H0859A]]"
+- "[[H7200G]]"
+- "[[H5518A]]"
+- "[[H5301]]"
+- "[[H0589]]"
+- "[[H9002]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H6828G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 1:13**<big><big>[[Jer.1.1 The Call of Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the word of the LORD came unto me the second time, saying, What seest thou? And I said, I see a seething pot; and the face thereof [is] toward the north.
 <small><sub>**BSB:**</sub></small>
 Again the word of the LORD came to me, asking, “What do you see?” “I see a boiling pot,” I replied, “and it is tilting toward us from the north.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֨י]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֤ה]][[H9015\|׀]] [[H0413\|אֵלַ]][[H9030\|י֙]] [[H8145\|שֵׁנִ֣ית]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H4100\|מָ֥ה]] [[H0859A\|אַתָּ֖ה]] [[H7200G\|רֹאֶ֑ה]] [[H9001\|וָ]][[H0559\|אֹמַ֗ר]] [[H5518A\|סִ֤יר]] [[H5301\|נָפ֙וּחַ֙]] [[H0589\|אֲנִ֣י]] [[H7200G\|רֹאֶ֔ה]] [[H9002\|וּ]][[H6440G\|פָנָ֖י]][[H9023\|ו]] [[H9006\|מִ]][[H6440G\|פְּנֵ֥י]] [[H6828G\|צָפֽוֹנָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEREMIAH|JEREMIAH]] • [[topic SYMBOLS|SYMBOLS]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.1.12|<< Jeremiah 1:12]]</td><td align="center" style="border:none;">[[Jer.1|Jeremiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.1.14|Jeremiah 1:14 >>]]</td></tr></table>
 

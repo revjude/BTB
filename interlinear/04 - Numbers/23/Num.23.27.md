@@ -1,8 +1,70 @@
+---
+title: Numbers 23:27
+type: Verse
+kjv: "And Balak said unto Balaam, Come, I pray thee, I will bring thee unto another place; peradventure it will please God that thou mayest curse me them from thence."
+bsb: "“Please come,” said Balak, “I will take you to another place. Perhaps it will please God that you curse them for me from there.”"
+hebrew: "וַיֹּ֤אמֶר בָּלָק֙ אֶל־ בִּלְעָ֔ם לְכָה־ נָּא֙ אֶקָּ֣חֲךָ֔ אֶל־ מָק֖וֹם אַחֵ֑ר אוּלַ֤י יִישַׁר֙ בְּעֵינֵ֣י הָאֱלֹהִ֔ים וְקַבֹּ֥תוֹ לִ֖י מִשָּֽׁם׃"
+pericope: "[[Num.23.13 Balaam’s Second Oracle|Balaam’s Second Oracle]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 23
+book/chapter: "[[Num.23|Numbers 23]]"
+chronological_order: 183
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1111]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1109A]]"
+- "[[H1980K]]"
+- "[[H9012]]"
+- "[[H4994]]"
+- "[[H3947G]]"
+- "[[H9031]]"
+- "[[H4725]]"
+- "[[H0312]]"
+- "[[H0194]]"
+- "[[H3474]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H6895]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 23:27**<big><big>[[Num.23.13 Balaam’s Second Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Balak said unto Balaam, Come, I pray thee, I will bring thee unto another place; peradventure it will please God that thou mayest curse me them from thence.
 <small><sub>**BSB:**</sub></small>
 “Please come,” said Balak, “I will take you to another place. Perhaps it will please God that you curse them for me from there.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H1111\|בָּלָק֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1109A\|בִּלְעָ֔ם]] [[H1980K\|לְכָ]][[H9012\|ה]][[H9014\|־]] [[H4994\|נָּא֙]] [[H3947G\|אֶקָּ֣חֲ]][[H9031\|ךָ֔]] [[H0413\|אֶל]][[H9014\|־]] [[H4725\|מָק֖וֹם]] [[H0312\|אַחֵ֑ר]] [[H0194\|אוּלַ֤י]] [[H3474\|יִישַׁר֙]] [[H9003\|בְּ]][[H5869I\|עֵינֵ֣י]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H9001\|וְ]][[H6895\|קַבֹּ֥ת]][[H9033\|וֹ]] [[H9005\|לִ֖]][[H9030\|י]] [[H9006\|מִ]][[H8033G\|שָּֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.26|<< Numbers 23:26]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.28|Numbers 23:28 >>]]</td></tr></table>
 

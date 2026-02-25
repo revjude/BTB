@@ -1,10 +1,70 @@
+---
+title: Revelation 3:5
+type: Verse
+kjv: "He that overcometh, the same shall be clothed in white raiment; and I will not blot out his name out of the book of life, but I will confess his name before my Father, and before his angels."
+bsb: "Like them, he who overcomes will be dressed in white. And I will never blot out his name from the Book of Life, but I will confess his name before My Father and His angels."
+jesus_said: "He that overcometh, the same shall be clothed in white raiment; and I will not blot out his name out of the book of life, but I will confess his name before my Father, and before his angels."
+greek: "ὁ νικῶν οὕτως περιβαλεῖται ἐν ἱματίοις λευκοῖς, καὶ οὐ μὴ ἐξαλείψω τὸ ὄνομα αὐτοῦ ἐκ τῆς βίβλου τῆς ζωῆς καὶ ὁμολογήσω τὸ ὄνομα αὐτοῦ ἐνώπιον τοῦ πατρός μου καὶ ἐνώπιον τῶν ἀγγέλων αὐτοῦ."
+pericope: "[[Rev.3.1 To the Church in Sardis|To the Church in Sardis]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 3
+book/chapter: "[[Rev.3|Revelation 3]]"
+chronological_order: 1170
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic BOOK|BOOK]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G3588]]"
+- "[[G3528]]"
+- "[[G3779]]"
+- "[[G4016]]"
+- "[[G1722]]"
+- "[[G2440]]"
+- "[[G3022]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G1813]]"
+- "[[G3686]]"
+- "[[G0846]]"
+- "[[G1537]]"
+- "[[G0976]]"
+- "[[G2222]]"
+- "[[G3670]]"
+- "[[G1799]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G0032G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 3:5**<big><big>[[Rev.3.1 To the Church in Sardis|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He that overcometh, the same shall be clothed in white raiment; and I will not blot out his name out of the book of life, but I will confess his name before my Father, and before his angels.
 <small><sub>**BSB:**</sub></small>
 Like them, he who overcomes will be dressed in white. And I will never blot out his name from the Book of Life, but I will confess his name before My Father and His angels.
-<small><sub>**Literal:**</sub></small>
-The [one] overcoming thus will be clothed in garments white, And certainly not will I blot out the name of him from the book <the> of life and I will acknowledge the name of him before the Father of Mine and before the angels of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.4|<< Revelation 3:4]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.6|Revelation 3:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G3528\|νικῶν]]  [[G3779\|οὕτως]]  [[G4016\|περιβαλεῖται]]  [[G1722\|ἐν]]  [[G2440\|ἱματίοις]]  [[G3022\|λευκοῖς,]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G1813\|ἐξαλείψω]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G0846\|αὐτοῦ]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G0976\|βίβλου]]  [[G3588\|τῆς]]  [[G2222\|ζωῆς]]  [[G2532\|καὶ]]  [[G3670\|ὁμολογήσω]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G0846\|αὐτοῦ]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G3962\|πατρός]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G1799\|ἐνώπιον]]  [[G3588\|τῶν]]  [[G0032G\|ἀγγέλων]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOOK|BOOK]] • [[topic COLORS|COLORS]] • [[topic DECISION|DECISION]] • [[topic GOD|GOD]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.4|<< Revelation 3:4]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.6|Revelation 3:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

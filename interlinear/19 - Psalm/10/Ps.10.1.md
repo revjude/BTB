@@ -1,8 +1,53 @@
+---
+title: Psalm 10:1
+type: Verse
+kjv: "Why standest thou afar off, O LORD? why hidest thou thyself in times of trouble?"
+bsb: "Why, O LORD, do You stand far off? Why do You hide in times of trouble?"
+hebrew: "לָמָ֣ה יְ֭הוָה תַּעֲמֹ֣ד בְּרָח֑וֹק תַּ֝עְלִ֗ים לְעִתּ֥וֹת בַּצָּרָֽה׃"
+pericope: "[[Ps.10.1 The Perils of the Pilgrim|The Perils of the Pilgrim]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 10
+book/chapter: "[[Ps.10|Psalm 10]]"
+chronological_order: 344
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H3068G]]"
+- "[[H5975G]]"
+- "[[H9003]]"
+- "[[H7350]]"
+- "[[H5956]]"
+- "[[H6256]]"
+- "[[H6869A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 10:1**<big><big>[[Ps.10.1 The Perils of the Pilgrim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why standest thou afar off, O LORD? [why] hidest thou [thyself] in times of trouble?
 <small><sub>**BSB:**</sub></small>
 Why, O LORD, do You stand far off? Why do You hide in times of trouble?
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H4100\|מָ֣ה]] [[H3068G\|יְ֭הוָה]] [[H5975G\|תַּעֲמֹ֣ד]] [[H9003\|בְּ]][[H7350\|רָח֑וֹק]] [[H5956\|תַּ֝עְלִ֗ים]] [[H9005\|לְ]][[H6256\|עִתּ֥וֹת]] [[H6869A\|בַּצָּרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.20|<< Psalms 9:20]]</td><td align="center" style="border:none;">[[Ps.10|Psalms 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.10.2|Psalms 10:2 >>]]</td></tr></table>
 

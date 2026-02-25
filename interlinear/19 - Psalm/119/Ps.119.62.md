@@ -1,8 +1,56 @@
+---
+title: Psalm 119:62
+type: Verse
+kjv: "At midnight I will rise to give thanks unto thee because of thy righteous judgments."
+bsb: "At midnight I rise to give You thanks for Your righteous judgments."
+hebrew: "חֲצֽוֹת־ לַ֗יְלָה אָ֭קוּם לְהוֹד֣וֹת לָ֑ךְ עַ֝֗ל מִשְׁפְּטֵ֥י צִדְקֶֽךָ׃"
+pericope: "[[Ps.119.57 Your Word Is a Lamp to My Feet - CHETH|Your Word Is a Lamp to My Feet - CHETH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H2676]]"
+- "[[H9014]]"
+- "[[H3915]]"
+- "[[H6965B]]"
+- "[[H9005]]"
+- "[[H3034]]"
+- "[[H9032]]"
+- "[[H5921A]]"
+- "[[H4941G]]"
+- "[[H6664G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:62**<big><big>[[Ps.119.57 Your Word Is a Lamp to My Feet - CHETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At midnight I will rise to give thanks unto thee because of thy righteous judgments.
 <small><sub>**BSB:**</sub></small>
 At midnight I rise to give You thanks for Your righteous judgments.
+<small><sub>**Hebrew:**</sub></small>
+[[H2676\|חֲצֽוֹת]][[H9014\|־]] [[H3915\|לַ֗יְלָה]] [[H6965B\|אָ֭קוּם]] [[H9005\|לְ]][[H3034\|הוֹד֣וֹת]] [[H9005\|לָ֑]][[H9032\|ךְ]] [[H5921A\|עַ֝֗ל]] [[H4941G\|מִשְׁפְּטֵ֥י]] [[H6664G\|צִדְקֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.62|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.61|<< Psalms 119:61]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.63|Psalms 119:63 >>]]</td></tr></table>
 

@@ -1,8 +1,76 @@
+---
+title: 2 Chronicles 10:15
+type: Verse
+kjv: "So the king hearkened not unto the people: for the cause was of God, that the LORD might perform his word, which he spake by the hand of Ahijah the Shilonite to Jeroboam the son of Nebat."
+bsb: "So the king did not listen to the people, and indeed this turn of events was from God, in order that the LORD might fulfill the word that He had spoken through Ahijah the Shilonite to Jeroboam son of Nebat."
+hebrew: "וְלֹֽא־ שָׁמַ֥ע הַמֶּ֖לֶךְ אֶל־ הָעָ֑ם כִּֽי־ הָיְתָ֤ה נְסִבָּה֙ מֵעִ֣ם הָֽאֱלֹהִ֔ים לְמַעַן֩ הָקִ֨ים יְהוָ֜ה אֶת־ דְּבָר֗וֹ אֲשֶׁ֤ר דִּבֶּר֙ בְּיַד֙ אֲחִיָּ֣הוּ הַשִּֽׁלוֹנִ֔י אֶל־ יָרָבְעָ֖ם בֶּן־ נְבָֽט׃"
+pericope: "[[2Chr.10.1 Rebellion against Rehoboam|Rebellion against Rehoboam]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 10
+book/chapter: "[[2Chr.10|2 Chronicles 10]]"
+chronological_order: 556
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CANDIDATE|CANDIDATE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SHILONITE|SHILONITE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0413]]"
+- "[[H5971A]]"
+- "[[H3588A]]"
+- "[[H1961]]"
+- "[[H5252]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H0430G]]"
+- "[[H4616]]"
+- "[[H6965B]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H9003]]"
+- "[[H3027J]]"
+- "[[H0281H]]"
+- "[[H7888]]"
+- "[[H3379G]]"
+- "[[H1121A]]"
+- "[[H5028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 10:15**<big><big>[[2Chr.10.1 Rebellion against Rehoboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the king hearkened not unto the people: for the cause was of God, that the LORD might perform his word, which he spake by the hand of Ahijah the Shilonite to Jeroboam the son of Nebat.
 <small><sub>**BSB:**</sub></small>
 So the king did not listen to the people, and indeed this turn of events was from God, in order that the LORD might fulfill the word that He had spoken through Ahijah the Shilonite to Jeroboam son of Nebat.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H8085G\|שָׁמַ֥ע]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|הָיְתָ֤ה]] [[H5252\|נְסִבָּה֙]] [[H9006\|מֵ]][[H5973B\|עִ֣ם]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֔ים]] [[H4616\|לְמַעַן֩]] [[H6965B\|הָקִ֨ים]] [[H3068G\|יְהוָ֜ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דְּבָר֗]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֤ר]] [[H1696G\|דִּבֶּר֙]] [[H9003\|בְּ]][[H3027J\|יַד֙]] [[H0281H\|אֲחִיָּ֣הוּ]] [[H9009\|הַ]][[H7888\|שִּֽׁלוֹנִ֔י]] [[H0413\|אֶל]][[H9014\|־]] [[H3379G\|יָרָבְעָ֖ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5028\|נְבָֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANDIDATE|CANDIDATE]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JEROBOAM|JEROBOAM]] • [[topic REHOBOAM|REHOBOAM]] • [[topic RULERS|RULERS]] • [[topic SHILONITE|SHILONITE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.10.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.10.14|<< 2 Chronicles 10:14]]</td><td align="center" style="border:none;">[[2Chr.10|2 Chronicles 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.10.16|2 Chronicles 10:16 >>]]</td></tr></table>
 

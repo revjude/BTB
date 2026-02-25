@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hagar and Sarah
+type: Pericope
 pericope: "[[Gal.4.21 Hagar and Sarah|Hagar and Sarah]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Galatians
 chapter: 4
 book/chapter: "[[Gal.4|Galatians 4]]"
-genre:
+chronological_order: 1042
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
 - epistle
 - pauline epistle
 - polemical
+verse_count: 11
 verses:
 - "[[Gal.4.21]]"
 - "[[Gal.4.22]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Gal.4.31]]"
 ---
 
-[[Gal.4|Galatians 4:21 - Galatians 4:31]]
+<small>[[Gal.4|Galatians 4:21-31]]</small>
 *Hagar and Sarah*
 
 [[Gal.4.21|21]] Tell me, ye that desire to be under the law, do ye not hear the law?

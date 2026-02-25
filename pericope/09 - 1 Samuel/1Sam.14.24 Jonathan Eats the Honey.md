@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jonathan Eats the Honey
+type: Pericope
 pericope: "[[1Sam.14.24 Jonathan Eats the Honey|Jonathan Eats the Honey]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 14
 book/chapter: "[[1Sam.14|1 Samuel 14]]"
-genre:
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 13
 verses:
 - "[[1Sam.14.24]]"
 - "[[1Sam.14.25]]"
@@ -31,7 +38,7 @@ verses:
 - "[[1Sam.14.36]]"
 ---
 
-[[1Sam.14|1 Samuel 14:24 - 1 Samuel 14:36]]
+<small>[[1Sam.14|1 Samuel 14:24-36]]</small>
 *Jonathan Eats the Honey*
 
 [[1Sam.14.24|24]] And the men of Israel were distressed that day: for Saul had adjured the people, saying, Cursed \[be\] the man that eateth \[any\] food until evening, that I may be avenged on mine enemies. So none of the people tasted \[any\] food.

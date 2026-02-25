@@ -1,8 +1,59 @@
+---
+title: Genesis 1:15
+type: Verse
+kjv: "And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so."
+bsb: "And let them serve as lights in the expanse of the sky to shine upon the earth.” And it was so."
+hebrew: "וְהָי֤וּ לִמְאוֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהָאִ֖יר עַל־ הָאָ֑רֶץ וַֽיְהִי־ כֵֽן׃"
+pericope: "[[Gen.1.14 The Fourth Day|The Fourth Day]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 1
+book/chapter: "[[Gen.1|Genesis 1]]"
+chronological_order: 1
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic FIRMAMENT|FIRMAMENT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SUN|SUN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H3974]]"
+- "[[H9003]]"
+- "[[H7549]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H0215]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H3651C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 1:15**<big><big>[[Gen.1.14 The Fourth Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.
 <small><sub>**BSB:**</sub></small>
 And let them serve as lights in the expanse of the sky to shine upon the earth.” And it was so.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָי֤וּ]] [[H9005\|לִ]][[H3974\|מְאוֹרֹת֙]] [[H9003\|בִּ]][[H7549\|רְקִ֣יעַ]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H9005\|לְ]][[H0215\|הָאִ֖יר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9001\|וַֽ]][[H1961\|יְהִי]][[H9014\|־]] [[H3651C\|כֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRMAMENT|FIRMAMENT]] • [[topic GOD|GOD]] • [[topic SUN|SUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.1.14|<< Genesis 1:14]]</td><td align="center" style="border:none;">[[Gen.1|Genesis 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.1.16|Genesis 1:16 >>]]</td></tr></table>
 

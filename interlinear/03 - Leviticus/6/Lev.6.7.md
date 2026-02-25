@@ -1,8 +1,73 @@
+---
+title: Leviticus 6:7
+type: Verse
+kjv: "And the priest shall make an atonement for him before the LORD: and it shall be forgiven him for any thing of all that he hath done in trespassing therein."
+bsb: "In this way the priest will make atonement for him before the LORD, and he will be forgiven for anything he may have done to incur guilt.”"
+hebrew: "וְכִפֶּ֨ר עָלָ֧יו הַכֹּהֵ֛ן לִפְנֵ֥י יְהוָ֖ה וְנִסְלַ֣ח ל֑וֹ עַל־ אַחַ֛ת מִכֹּ֥ל אֲשֶֽׁר־ יַעֲשֶׂ֖ה לְאַשְׁמָ֥ה בָֽהּ׃ פ"
+pericope: "[[Lev.6.1 Sins Requiring a Guilt Offering|Sins Requiring a Guilt Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 6
+book/chapter: "[[Lev.6|Leviticus 6]]"
+chronological_order: 138
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PERJURY|PERJURY]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+- "[[topic TRUSTEE|TRUSTEE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3722A]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H5545]]"
+- "[[H9014]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H0819]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Leviticus 6:7**<big><big>[[Lev.6.1 Sins Requiring a Guilt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall make an atonement for him before the LORD: and it shall be forgiven him for any thing of all that he hath done in trespassing therein.
 <small><sub>**BSB:**</sub></small>
 In this way the priest will make atonement for him before the LORD, and he will be forgiven for anything he may have done to incur guilt.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3722A\|כִפֶּ֨ר]] [[H5921A\|עָלָ֧י]][[H9033\|ו]] [[H9009\|הַ]][[H3548\|כֹּהֵ֛ן]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָ֖ה]] [[H9001\|וְ]][[H5545\|נִסְלַ֣ח]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H0259\|אַחַ֛ת]] [[H9006\|מִ]][[H3605\|כֹּ֥ל]] [[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H6213A\|יַעֲשֶׂ֖ה]] [[H9005\|לְ]][[H0819\|אַשְׁמָ֥ה]] [[H9003\|בָֽ]][[H9034\|הּ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CONTRACTS|CONTRACTS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PERJURY|PERJURY]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]] • [[topic TRUSTEE|TRUSTEE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.6|<< Leviticus 6:6]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.8|Leviticus 6:8 >>]]</td></tr></table>
 
@@ -21,7 +86,7 @@ In this way the priest will make atonement for him before the LORD, and he will 
 | that  |**<big>&#8207;[[H0834A\|אֲשֶֽׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | someone will do  |**<big>&#8207;[[H6213A\|יַעֲשֶׂ֖ה]]&#8207; </big>**| ya.'a.Seh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to guilt  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0819\|אַשְׁמָ֥ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'ash.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by \<the> it  |**<big>&#8207;[[H9003\|בָֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Va<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by \<the> it  |**<big>&#8207;[[H9003\|בָֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Va<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.6|<< Leviticus 6:6]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.8|Leviticus 6:8 >>]]</td></tr></table>
 
 

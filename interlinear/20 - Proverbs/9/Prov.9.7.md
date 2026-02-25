@@ -1,8 +1,54 @@
+---
+title: Proverbs 9:7
+type: Verse
+kjv: "He that reproveth a scorner getteth to himself shame: and he that rebuketh a wicked man getteth himself a blot."
+bsb: "He who corrects a mocker brings shame on himself; he who rebukes a wicked man taints himself."
+hebrew: "יֹ֤סֵ֨ר׀ לֵ֗ץ לֹקֵ֣חַֽ ל֣וֹ קָל֑וֹן וּמוֹכִ֖יחַ לְרָשָׁ֣ע מוּמֽוֹ׃"
+pericope: "[[Prov.9.1 The Way of Wisdom|The Way of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 9
+book/chapter: "[[Prov.9|Proverbs 9]]"
+chronological_order: 464
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FOOL|FOOL]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H3256]]"
+- "[[H9015]]"
+- "[[H3887]]"
+- "[[H3947H]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H7036]]"
+- "[[H9002]]"
+- "[[H3198]]"
+- "[[H7563]]"
+- "[[H3971B]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 9:7**<big><big>[[Prov.9.1 The Way of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that reproveth a scorner getteth to himself shame: and he that rebuketh a wicked [man getteth] himself a blot.
 <small><sub>**BSB:**</sub></small>
 He who corrects a mocker brings shame on himself; he who rebukes a wicked man taints himself.
+<small><sub>**Hebrew:**</sub></small>
+[[H3256\|יֹ֤סֵ֨ר]][[H9015\|׀]] [[H3887\|לֵ֗ץ]] [[H3947H\|לֹקֵ֣חַֽ]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H7036\|קָל֑וֹן]] [[H9002\|וּ]][[H3198\|מוֹכִ֖יחַ]] [[H9005\|לְ]][[H7563\|רָשָׁ֣ע]] [[H3971B\|מוּמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FOOL|FOOL]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.9.6|<< Proverbs 9:6]]</td><td align="center" style="border:none;">[[Prov.9|Proverbs 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.9.8|Proverbs 9:8 >>]]</td></tr></table>
 

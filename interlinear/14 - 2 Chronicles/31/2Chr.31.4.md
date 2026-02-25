@@ -1,8 +1,61 @@
+---
+title: 2 Chronicles 31:4
+type: Verse
+kjv: "Moreover he commanded the people that dwelt in Jerusalem to give the portion of the priests and the Levites, that they might be encouraged in the law of the LORD."
+bsb: "Moreover, he commanded the people living in Jerusalem to make a contribution for the priests and Levites so that they could devote themselves to the Law of the LORD."
+hebrew: "וַיֹּ֤אמֶר לָעָם֙ לְיוֹשְׁבֵ֣י יְרוּשָׁלִַ֔ם לָתֵ֕ת מְנָ֥ת הַכֹּהֲנִ֖ים וְהַלְוִיִּ֑ם לְמַ֥עַן יֶחֶזְק֖וּ בְּתוֹרַ֥ת יְהוָֽה׃"
+pericope: "[[2Chr.31.3 Contributions for Worship|Contributions for Worship]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 31
+book/chapter: "[[2Chr.31|2 Chronicles 31]]"
+chronological_order: 661
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H5414G]]"
+- "[[H4521]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H3881]]"
+- "[[H4616]]"
+- "[[H2388G]]"
+- "[[H9003]]"
+- "[[H8451]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 31:4**<big><big>[[2Chr.31.3 Contributions for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover he commanded the people that dwelt in Jerusalem to give the portion of the priests and the Levites, that they might be encouraged in the law of the LORD.
 <small><sub>**BSB:**</sub></small>
 Moreover, he commanded the people living in Jerusalem to make a contribution for the priests and Levites so that they could devote themselves to the Law of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|לָ]][[H5971A\|עָם֙]] [[H9005\|לְ]][[H3427\|יוֹשְׁבֵ֣י]] [[H3389\|יְרוּשָׁלִַ֔ם]] [[H9005\|לָ]][[H5414G\|תֵ֕ת]] [[H4521\|מְנָ֥ת]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֖ים]] [[H9002\|וְ]][[H9009\|הַ]][[H3881\|לְוִיִּ֑ם]] [[H4616\|לְמַ֥עַן]] [[H2388G\|יֶחֶזְק֖וּ]] [[H9003\|בְּ]][[H8451\|תוֹרַ֥ת]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.31.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.3|<< 2 Chronicles 31:3]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.5|2 Chronicles 31:5 >>]]</td></tr></table>
 

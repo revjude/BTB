@@ -1,8 +1,56 @@
+---
+title: 1 Samuel 13:9
+type: Verse
+kjv: "And Saul said, Bring hither a burnt offering to me, and peace offerings. And he offered the burnt offering."
+bsb: "So he said, “Bring me the burnt offering and the peace offerings.” And he offered up the burnt offering."
+hebrew: "וַיֹּ֣אמֶר שָׁא֔וּל הַגִּ֣שׁוּ אֵלַ֔י הָעֹלָ֖ה וְהַשְּׁלָמִ֑ים וַיַּ֖עַל הָעֹלָֽה׃"
+pericope: "[[1Sam.13.8 Saul’s Unlawful Sacrifice|Saul’s Unlawful Sacrifice]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 13
+book/chapter: "[[1Sam.13|1 Samuel 13]]"
+chronological_order: 292
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7586G]]"
+- "[[H5066H]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H5930A]]"
+- "[[H9002]]"
+- "[[H8002]]"
+- "[[H5927I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 13:9**<big><big>[[1Sam.13.8 Saul’s Unlawful Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul said, Bring hither a burnt offering to me, and peace offerings. And he offered the burnt offering.
 <small><sub>**BSB:**</sub></small>
 So he said, “Bring me the burnt offering and the peace offerings.” And he offered up the burnt offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H7586G\|שָׁא֔וּל]] [[H5066H\|הַגִּ֣שׁוּ]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H9009\|הָ]][[H5930A\|עֹלָ֖ה]] [[H9002\|וְ]][[H9009\|הַ]][[H8002\|שְּׁלָמִ֑ים]] [[H9001\|וַ]][[H5927I\|יַּ֖עַל]] [[H9009\|הָ]][[H5930A\|עֹלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic GILGAL|GILGAL]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.13.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.8|<< 1 Samuel 13:8]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.10|1 Samuel 13:10 >>]]</td></tr></table>
 

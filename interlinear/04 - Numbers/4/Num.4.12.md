@@ -1,8 +1,75 @@
+---
+title: Numbers 4:12
+type: Verse
+kjv: "And they shall take all the instruments of ministry, wherewith they minister in the sanctuary, and put them in a cloth of blue, and cover them with a covering of badgers’ skins, and shall put them on a bar:"
+bsb: "They are to take all the utensils for serving in the sanctuary, place them in a blue cloth, cover them with fine leather, and put them on the carrying frame."
+hebrew: "וְלָקְחוּ֩ אֶת־ כָּל־ כְּלֵ֨י הַשָּׁרֵ֜ת אֲשֶׁ֧ר יְשָֽׁרְתוּ־ בָ֣ם בַּקֹּ֗דֶשׁ וְנָֽתְנוּ֙ אֶל־ בֶּ֣גֶד תְּכֵ֔לֶת וְכִסּ֣וּ אוֹתָ֔ם בְּמִכְסֵ֖ה ע֣וֹר תָּ֑חַשׁ וְנָתְנ֖וּ עַל־ הַמּֽוֹט׃"
+pericope: "[[Num.4.1 The Duties of the Kohathites|The Duties of the Kohathites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 4
+book/chapter: "[[Num.4|Numbers 4]]"
+chronological_order: 163
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic BADGER|BADGER]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SKIN|SKIN]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H9009]]"
+- "[[H8335]]"
+- "[[H0834A]]"
+- "[[H8334]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H6944G]]"
+- "[[H5414H]]"
+- "[[H0413]]"
+- "[[H0899B]]"
+- "[[H8504]]"
+- "[[H3680]]"
+- "[[H4372]]"
+- "[[H5785]]"
+- "[[H8476]]"
+- "[[H5921A]]"
+- "[[H4132]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 4:12**<big><big>[[Num.4.1 The Duties of the Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall take all the instruments of ministry, wherewith they minister in the sanctuary, and put [them] in a cloth of blue, and cover them with a covering of badgers’ skins, and shall put [them] on a bar:
 <small><sub>**BSB:**</sub></small>
 They are to take all the utensils for serving in the sanctuary, place them in a blue cloth, cover them with fine leather, and put them on the carrying frame.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקְחוּ֩]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כְּלֵ֨י]] [[H9009\|הַ]][[H8335\|שָּׁרֵ֜ת]] [[H0834A\|אֲשֶׁ֧ר]] [[H8334\|יְשָֽׁרְתוּ]][[H9014\|־]] [[H9003\|בָ֣]][[H9038\|ם]] [[H9003\|בַּ]][[H6944G\|קֹּ֗דֶשׁ]] [[H9001\|וְ]][[H5414H\|נָֽתְנוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0899B\|בֶּ֣גֶד]] [[H8504\|תְּכֵ֔לֶת]] [[H9001\|וְ]][[H3680\|כִסּ֣וּ]] [[H0853\|אוֹתָ֔]][[H9038\|ם]] [[H9003\|בְּ]][[H4372\|מִכְסֵ֖ה]] [[H5785\|ע֣וֹר]] [[H8476\|תָּ֑חַשׁ]] [[H9001\|וְ]][[H5414H\|נָתְנ֖וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4132\|מּֽוֹט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic BADGER|BADGER]] • [[topic CHURCH|CHURCH]] • [[topic COLORS|COLORS]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]] • [[topic SKIN|SKIN]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.11|<< Numbers 4:11]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.13|Numbers 4:13 >>]]</td></tr></table>
 

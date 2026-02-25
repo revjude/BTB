@@ -1,8 +1,60 @@
+---
+title: 2 Samuel 11:7
+type: Verse
+kjv: "And when Uriah was come unto him, David demanded of him how Joab did, and how the people did, and how the war prospered."
+bsb: "When Uriah came to him, David asked how Joab and the troops were doing and how the war was going."
+hebrew: "וַיָּבֹ֥א אוּרִיָּ֖ה אֵלָ֑יו וַיִּשְׁאַ֣ל דָּוִ֗ד לִשְׁל֤וֹם יוֹאָב֙ וְלִשְׁל֣וֹם הָעָ֔ם וְלִשְׁל֖וֹם הַמִּלְחָמָֽה׃"
+pericope: "[[2Sam.11.1 David and Bathsheba|David and Bathsheba]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 11
+book/chapter: "[[2Sam.11|2 Samuel 11]]"
+chronological_order: 410
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic URIAH|URIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0223A]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H7592]]"
+- "[[H1732]]"
+- "[[H9005]]"
+- "[[H7965K]]"
+- "[[H3097G]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 11:7**<big><big>[[2Sam.11.1 David and Bathsheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Uriah was come unto him, David demanded [of him] how Joab did, and how the people did, and how the war prospered.
 <small><sub>**BSB:**</sub></small>
 When Uriah came to him, David asked how Joab and the troops were doing and how the war was going.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֥א]] [[H0223A\|אוּרִיָּ֖ה]] [[H0413\|אֵלָ֑י]][[H9033\|ו]] [[H9001\|וַ]][[H7592\|יִּשְׁאַ֣ל]] [[H1732\|דָּוִ֗ד]] [[H9005\|לִ]][[H7965K\|שְׁל֤וֹם]] [[H3097G\|יוֹאָב֙]] [[H9002\|וְ]][[H9005\|לִ]][[H7965K\|שְׁל֣וֹם]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9002\|וְ]][[H9005\|לִ]][[H7965K\|שְׁל֖וֹם]] [[H9009\|הַ]][[H4421\|מִּלְחָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic INSTABILITY|INSTABILITY]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic URIAH|URIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.11.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.11.6|<< 2 Samuel 11:6]]</td><td align="center" style="border:none;">[[2Sam.11|2 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.11.8|2 Samuel 11:8 >>]]</td></tr></table>
 

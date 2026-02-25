@@ -1,10 +1,71 @@
+---
+title: Matthew 26:65
+type: Verse
+kjv: "Then the high priest rent his clothes, saying, He hath spoken blasphemy; what further need have we of witnesses? behold, now ye have heard his blasphemy."
+bsb: "At this, the high priest tore his clothes and declared, “He has blasphemed! Why do we need any more witnesses? Look, now you have heard the blasphemy."
+greek: "Τότε ὁ ἀρχιερεὺς διέρρηξεν τὰ ἱμάτια αὐτοῦ λέγων ὅτι· ἐβλασφήμησεν· τί ἔτι χρείαν ἔχομεν μαρτύρων; ἴδε νῦν ἠκούσατε τὴν βλασφημίαν αὐτοῦ."
+pericope: "[[Matt.26.57 Jesus before the Sanhedrin|Jesus before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic CAIAPHAS|CAIAPHAS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COURT|COURT]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic RENDING|RENDING]]"
+strongs:
+- "[[G5119]]"
+- "[[G3588]]"
+- "[[G0749]]"
+- "[[G1284]]"
+- "[[G2440]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G0987]]"
+- "[[G5101]]"
+- "[[G2089]]"
+- "[[G5532]]"
+- "[[G2192]]"
+- "[[G3144]]"
+- "[[G2396]]"
+- "[[G3568]]"
+- "[[G0191]]"
+- "[[G0988]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 26:65**<big><big>[[Matt.26.57 Jesus before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then the high priest rent his clothes, saying, He hath spoken blasphemy; what further need have we of witnesses? behold, now ye have heard his blasphemy.
 <small><sub>**BSB:**</sub></small>
 At this, the high priest tore his clothes and declared, “He has blasphemed! Why do we need any more witnesses? Look, now you have heard the blasphemy.
-<small><sub>**Literal:**</sub></small>
-Then the high priest tears the garments of him saying that: He has blasphemed; why any more need have we of witnesses? Behold now you have heard the blasphemy of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.64|<< Matthew 26:64]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.66|Matthew 26:66 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G3588\|ὁ]]  [[G0749\|ἀρχιερεὺς]]  [[G1284\|διέρρηξεν]]  [[G3588\|τὰ]]  [[G2440\|ἱμάτια]]  [[G0846\|αὐτοῦ]]  [[G3004G\|λέγων]]  [[G3754G\|ὅτι·]]  [[G0987\|ἐβλασφήμησεν·]]  [[G5101\|τί]]  [[G2089\|ἔτι]]  [[G5532\|χρείαν]]  [[G2192\|ἔχομεν]]  [[G3144\|μαρτύρων;]]  [[G2396\|ἴδε]]  [[G3568\|νῦν]]  [[G0191\|ἠκούσατε]]  [[G3588\|τὴν]]  [[G0988\|βλασφημίαν]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic CAIAPHAS|CAIAPHAS]] • [[topic CHURCH|CHURCH]] • [[topic COURT|COURT]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MOURNING|MOURNING]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic RENDING|RENDING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.64|<< Matthew 26:64]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.66|Matthew 26:66 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,70 @@
+---
+title: Exodus 34:27
+type: Verse
+kjv: "And the LORD said unto Moses, Write thou these words: for after the tenor of these words I have made a covenant with thee and with Israel."
+bsb: "The LORD also said to Moses, “Write down these words, for in accordance with these words I have made a covenant with you and with Israel.”"
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֶל־ מֹשֶׁ֔ה כְּתָב־ לְךָ֖ אֶת־ הַדְּבָרִ֣ים הָאֵ֑לֶּה כִּ֞י עַל־ פִּ֣י׀ הַדְּבָרִ֣ים הָאֵ֗לֶּה כָּרַ֧תִּי אִתְּךָ֛ בְּרִ֖ית וְאֶת־ יִשְׂרָאֵֽל׃"
+pericope: "[[Exod.34.10 The LORD Renews the Covenant|The LORD Renews the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 34
+book/chapter: "[[Exod.34|Exodus 34]]"
+chronological_order: 126
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic LAW|LAW]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H3789]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H3588A]]"
+- "[[H5921A]]"
+- "[[H6310K]]"
+- "[[H9015]]"
+- "[[H3772H]]"
+- "[[H0854]]"
+- "[[H1285]]"
+- "[[H9002]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 34:27**<big><big>[[Exod.34.10 The LORD Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, Write thou these words: for after the tenor of these words I have made a covenant with thee and with Israel.
 <small><sub>**BSB:**</sub></small>
 The LORD also said to Moses, “Write down these words, for in accordance with these words I have made a covenant with you and with Israel.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H3789\|כְּתָב]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֑לֶּה]] [[H3588A\|כִּ֞י]] [[H5921A\|עַל]][[H9014\|־]] [[H6310K\|פִּ֣י]][[H9015\|׀]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֗לֶּה]] [[H3772H\|כָּרַ֧תִּי]] [[H0854\|אִתְּ]][[H9031\|ךָ֛]] [[H1285\|בְּרִ֖ית]] [[H9002\|וְ]][[H0854\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECALOGUE|DECALOGUE]] • [[topic LAW|LAW]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.26|<< Exodus 34:26]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.28|Exodus 34:28 >>]]</td></tr></table>
 

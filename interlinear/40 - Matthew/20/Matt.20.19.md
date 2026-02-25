@@ -1,10 +1,55 @@
+---
+title: Matthew 20:19
+type: Verse
+kjv: "And shall deliver him to the Gentiles to mock, and to scourge, and to crucify him: and the third day he shall rise again."
+bsb: "and will deliver Him over to the Gentiles to be mocked and flogged and crucified. And on the third day He will be raised to life.”"
+jesus_said: "And shall deliver him to the Gentiles to mock, and to scourge, and to crucify him: and the third day he shall rise again."
+greek: "καὶ παραδώσουσιν αὐτὸν τοῖς ἔθνεσιν εἰς τὸ ἐμπαῖξαι καὶ μαστιγῶσαι καὶ σταυρῶσαι· καὶ τῇ τρίτῃ ἡμέρᾳ ἐγερθήσεται.¶"
+pericope: "[[Matt.20.17 The Third Prediction of the Passion|The Third Prediction of the Passion]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 20
+book/chapter: "[[Matt.20|Matthew 20]]"
+chronological_order: 987
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SCOURGING|SCOURGING]]"
+strongs:
+- "[[G2532]]"
+- "[[G3860]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G1484]]"
+- "[[G1519]]"
+- "[[G1702]]"
+- "[[G3146]]"
+- "[[G4717]]"
+- "[[G5154]]"
+- "[[G2250]]"
+- "[[G1453]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 20:19**<big><big>[[Matt.20.17 The Third Prediction of the Passion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And shall deliver him to the Gentiles to mock, and to scourge, and to crucify [him]: and the third day he shall rise again.
 <small><sub>**BSB:**</sub></small>
 and will deliver Him over to the Gentiles to be mocked and flogged and crucified. And on the third day He will be raised to life.”
-<small><sub>**Literal:**</sub></small>
-and they will betray Him to the Gentiles unto <the> to mock and to flog and to crucify; and on the third day He will rise again.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.18|<< Matthew 20:18]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.20|Matthew 20:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3860\|παραδώσουσιν]]  [[G0846\|αὐτὸν]]  [[G3588\|τοῖς]]  [[G1484\|ἔθνεσιν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G1702\|ἐμπαῖξαι]]  [[G2532\|καὶ]]  [[G3146\|μαστιγῶσαι]]  [[G2532\|καὶ]]  [[G4717\|σταυρῶσαι·]]  [[G2532\|καὶ]]  [[G3588\|τῇ]]  [[G5154\|τρίτῃ]]  [[G2250\|ἡμέρᾳ]]  [[G1453\|ἐγερθήσεται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SCOURGING|SCOURGING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.18|<< Matthew 20:18]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.20|Matthew 20:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

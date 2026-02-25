@@ -1,10 +1,72 @@
+---
+title: Acts 5:3
+type: Verse
+kjv: "But Peter said, Ananias, why hath Satan filled thine heart to lie to the Holy Ghost, and to keep back part of the price of the land?"
+bsb: "Then Peter said, “Ananias, how is it that Satan has filled your heart to lie to the Holy Spirit and withhold some of the proceeds from the land?"
+greek: "Εἶπεν δὲ ὁ Πέτρος· Ἁνανία, διὰ τί ἐπλήρωσεν ὁ σατανᾶς τὴν καρδίαν σου ψεύσασθαί σε τὸ πνεῦμα τὸ ἅγιον καὶ νοσφίσασθαι σε ἀπὸ τῆς τιμῆς τοῦ χωρίου;"
+pericope: "[[Acts.5.1 Ananias and Sapphira|Ananias and Sapphira]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 5
+book/chapter: "[[Acts.5|Acts 5]]"
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANANIAS|ANANIAS]]"
+- "[[topic COMMUNISM|COMMUNISM]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic LAND|LAND]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SAPPHIRA|SAPPHIRA]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic VOWS|VOWS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G0367G]]"
+- "[[G1223]]"
+- "[[G5101]]"
+- "[[G4137]]"
+- "[[G4567]]"
+- "[[G2588]]"
+- "[[G4771]]"
+- "[[G5574]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G2532]]"
+- "[[G3557]]"
+- "[[G0575]]"
+- "[[G5092]]"
+- "[[G5564G]]"
+texts:
+- NKO
+- no
+- o
+---
+
 **Acts 5:3**<big><big>[[Acts.5.1 Ananias and Sapphira|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Peter said, Ananias, why hath Satan filled thine heart to lie to the Holy Ghost, and to keep back [part] of the price of the land?
 <small><sub>**BSB:**</sub></small>
 Then Peter said, “Ananias, how is it that Satan has filled your heart to lie to the Holy Spirit and withhold some of the proceeds from the land?
-<small><sub>**Literal:**</sub></small>
-Said however <the> Peter; Ananias, because of why has filled <the> Satan the heart of you to lie to [for] you the Spirit <the> Holy and to keep back yourself from the proceeds of the land?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.2|<< Acts 5:2]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.4|Acts 5:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος·]]  [[G0367G\|Ἁνανία,]]  [[G1223\|διὰ]]  [[G5101\|τί]]  [[G4137\|ἐπλήρωσεν]]  [[G3588\|ὁ]]  [[G4567\|σατανᾶς]]  [[G3588\|τὴν]]  [[G2588\|καρδίαν]]  [[G4771\|σου]]  [[G5574\|ψεύσασθαί]]  [[G4771\|σε]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τὸ]]  [[G0040G\|ἅγιον]]  [[G2532\|καὶ]]  [[G3557\|νοσφίσασθαι]]  [[G4771\|σε]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G5092\|τιμῆς]]  [[G3588\|τοῦ]]  [[G5564G\|χωρίου;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANANIAS|ANANIAS]] • [[topic COMMUNISM|COMMUNISM]] • [[topic DEATH|DEATH]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HEART|HEART]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic LAND|LAND]] • [[topic PETER|PETER]] • [[topic SAPPHIRA|SAPPHIRA]] • [[topic SATAN|SATAN]] • [[topic VOWS|VOWS]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.2|<< Acts 5:2]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.4|Acts 5:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

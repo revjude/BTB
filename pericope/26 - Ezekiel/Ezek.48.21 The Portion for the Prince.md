@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Portion for the Prince
+type: Pericope
 pericope: "[[Ezek.48.21 The Portion for the Prince|The Portion for the Prince]]"
-verse_count: 2
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 48
 book/chapter: "[[Ezek.48|Ezekiel 48]]"
-genre:
+chronological_order: 839
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,12 +24,13 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 2
 verses:
 - "[[Ezek.48.21]]"
 - "[[Ezek.48.22]]"
 ---
 
-[[Ezek.48|Ezekiel 48:21 - Ezekiel 48:22]]
+<small>[[Ezek.48|Ezekiel 48:21-22]]</small>
 *The Portion for the Prince*
 
 [[Ezek.48.21|21]] And the residue \[shall be\] for the prince, on the one side and on the other of the holy oblation, and of the possession of the city, over against the five and twenty thousand of the oblation toward the east border, and westward over against the five and twenty thousand toward the west border, over against the portions for the prince: and it shall be the holy oblation; and the sanctuary of the house \[shall be\] in the midst thereof.

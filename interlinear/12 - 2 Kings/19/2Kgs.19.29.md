@@ -1,8 +1,64 @@
+---
+title: 2 Kings 19:29
+type: Verse
+kjv: "And this shall be a sign unto thee, Ye shall eat this year such things as grow of themselves, and in the second year that which springeth of the same; and in the third year sow ye, and reap, and plant vineyards, and eat the fruits thereof."
+bsb: "And this will be a sign to you, O Hezekiah: This year you will eat what grows on its own, and in the second year what springs from the same. But in the third year you will sow and reap; you will plant vineyards and eat their fruit."
+hebrew: "וְזֶה־ לְּךָ֣ הָא֔וֹת אָכ֤וֹל הַשָּׁנָה֙ סָפִ֔יחַ וּבַשָּׁנָ֥ה הַשֵּׁנִ֖ית סָחִ֑ישׁ וּבַשָּׁנָ֣ה הַשְּׁלִישִׁ֗ית זִרְע֧וּ וְקִצְר֛וּ וְנִטְע֥וּ כְרָמִ֖ים וְאִכְל֥וּ פִרְיָֽם׃"
+pericope: "[[2Kgs.19.20 Sennacherib’s Fall Prophesied|Sennacherib’s Fall Prophesied]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 19
+book/chapter: "[[2Kgs.19|2 Kings 19]]"
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9002]]"
+- "[[H2088]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9009]]"
+- "[[H0226H]]"
+- "[[H0398]]"
+- "[[H8141]]"
+- "[[H5599B]]"
+- "[[H9003]]"
+- "[[H8145]]"
+- "[[H7823]]"
+- "[[H7992]]"
+- "[[H2232]]"
+- "[[H7114B]]"
+- "[[H5193]]"
+- "[[H3754]]"
+- "[[H6529]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 19:29**<big><big>[[2Kgs.19.20 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this [shall be] a sign unto thee, Ye shall eat this year such things as grow of themselves, and in the second year that which springeth of the same; and in the third year sow ye, and reap, and plant vineyards, and eat the fruits thereof.
 <small><sub>**BSB:**</sub></small>
 And this will be a sign to you, O Hezekiah: This year you will eat what grows on its own, and in the second year what springs from the same. But in the third year you will sow and reap; you will plant vineyards and eat their fruit.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2088\|זֶה]][[H9014\|־]] [[H9005\|לְּ]][[H9031\|ךָ֣]] [[H9009\|הָ]][[H0226H\|א֔וֹת]] [[H0398\|אָכ֤וֹל]] [[H9009\|הַ]][[H8141\|שָּׁנָה֙]] [[H5599B\|סָפִ֔יחַ]] [[H9002\|וּ]][[H9003\|בַ]][[H8141\|שָּׁנָ֥ה]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֖ית]] [[H7823\|סָחִ֑ישׁ]] [[H9002\|וּ]][[H9003\|בַ]][[H8141\|שָּׁנָ֣ה]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁ֗ית]] [[H2232\|זִרְע֧וּ]] [[H9002\|וְ]][[H7114B\|קִצְר֛וּ]] [[H9002\|וְ]][[H5193\|נִטְע֥וּ]] [[H3754\|כְרָמִ֖ים]] [[H9002\|וְ]][[H0398\|אִכְל֥וּ]] [[H6529\|פִרְיָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEZEKIAH|HEZEKIAH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PROPHECY|PROPHECY]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.28|<< 2 Kings 19:28]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.30|2 Kings 19:30 >>]]</td></tr></table>
 

@@ -1,8 +1,76 @@
+---
+title: 2 Samuel 24:3
+type: Verse
+kjv: "And Joab said unto the king, Now the LORD thy God add unto the people, how many soever they be, an hundredfold, and that the eyes of my lord the king may see it: but why doth my lord the king delight in this thing?"
+bsb: "But Joab replied to the king, “May the LORD your God multiply the troops a hundred times over, and may the eyes of my lord the king see it. But why does my lord the king want to do such a thing?”"
+hebrew: "וַיֹּ֨אמֶר יוֹאָ֜ב אֶל־ הַמֶּ֗לֶךְ וְיוֹסֵ֣ף יְהוָה֩ אֱלֹהֶ֨יךָ אֶל־ הָעָ֜ם כָּהֵ֤ם׀ וְכָהֵם֙ מֵאָ֣ה פְעָמִ֔ים וְעֵינֵ֥י אֲדֹנִֽי־ הַמֶּ֖לֶךְ רֹא֑וֹת וַאדֹנִ֣י הַמֶּ֔לֶךְ לָ֥מָּה חָפֵ֖ץ בַּדָּבָ֥ר הַזֶּֽה׃"
+pericope: "[[2Sam.24.1 David’s Military Census|David’s Military Census]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 24
+book/chapter: "[[2Sam.24|2 Samuel 24]]"
+chronological_order: 432
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3097G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H3254H]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H5971A]]"
+- "[[H9004]]"
+- "[[H9038]]"
+- "[[H9015]]"
+- "[[H3967]]"
+- "[[H6471]]"
+- "[[H5869A]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H7200G]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H2654A]]"
+- "[[H9003]]"
+- "[[H1697I]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 24:3**<big><big>[[2Sam.24.1 David’s Military Census|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joab said unto the king, Now the LORD thy God add unto the people, how many soever they be, an hundredfold, and that the eyes of my lord the king may see [it]: but why doth my lord the king delight in this thing?
 <small><sub>**BSB:**</sub></small>
 But Joab replied to the king, “May the LORD your God multiply the troops a hundred times over, and may the eyes of my lord the king see it. But why does my lord the king want to do such a thing?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3097G\|יוֹאָ֜ב]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H9002\|וְ]][[H3254H\|יוֹסֵ֣ף]] [[H3068G\|יְהוָה֩]] [[H0430G\|אֱלֹהֶ֨י]][[H9021\|ךָ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֜ם]] [[H9004\|כָּ]][[H9038\|הֵ֤ם]][[H9015\|׀]] [[H9002\|וְ]][[H9004\|כָ]][[H9038\|הֵם֙]] [[H3967\|מֵאָ֣ה]] [[H6471\|פְעָמִ֔ים]] [[H9002\|וְ]][[H5869A\|עֵינֵ֥י]] [[H0113\|אֲדֹנִֽ]][[H9020\|י]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H7200G\|רֹא֑וֹת]] [[H9002\|וַ]][[H0113\|אדֹנִ֣]][[H9020\|י]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9005\|לָ֥]][[H4100\|מָּה]] [[H2654A\|חָפֵ֖ץ]] [[H9003\|בַּ]][[H1697I\|דָּבָ֥ר]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CENSUS|CENSUS]] • [[topic ISRAEL|ISRAEL]] • [[topic JOAB|JOAB]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic REPROOF|REPROOF]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.24.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.24.2|<< 2 Samuel 24:2]]</td><td align="center" style="border:none;">[[2Sam.24|2 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.24.4|2 Samuel 24:4 >>]]</td></tr></table>
 

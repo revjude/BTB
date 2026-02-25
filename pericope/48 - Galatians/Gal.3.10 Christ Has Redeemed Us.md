@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Christ Has Redeemed Us
+type: Pericope
 pericope: "[[Gal.3.10 Christ Has Redeemed Us|Christ Has Redeemed Us]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Galatians
 chapter: 3
 book/chapter: "[[Gal.3|Galatians 3]]"
-genre:
+chronological_order: 1041
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
 - epistle
 - pauline epistle
 - polemical
+verse_count: 5
 verses:
 - "[[Gal.3.10]]"
 - "[[Gal.3.11]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Gal.3.14]]"
 ---
 
-[[Gal.3|Galatians 3:10 - Galatians 3:14]]
+<small>[[Gal.3|Galatians 3:10-14]]</small>
 *Christ Has Redeemed Us*
 
 [[Gal.3.10|10]] For as many as are of the works of the law are under the curse: for it is written, Cursed \[is\] every one that continueth not in all things which are written in the book of the law to do them.

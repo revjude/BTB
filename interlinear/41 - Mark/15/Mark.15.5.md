@@ -1,10 +1,52 @@
+---
+title: Mark 15:5
+type: Verse
+kjv: "But Jesus yet answered nothing; so that Pilate marvelled."
+bsb: "But to Pilate’s amazement, Jesus made no further reply."
+greek: "Ὁ δὲ Ἰησοῦς οὐκέτι οὐκέτι οὐδὲν ἀπεκρίθη ὥστε θαυμάζειν τὸν Πιλᾶτον."
+pericope: "[[Mark.15.1 Jesus Delivered to Pilate|Jesus Delivered to Pilate]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 15
+book/chapter: "[[Mark.15|Mark 15]]"
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SELF-DEFENSE|SELF-DEFENSE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G3756]]"
+- "[[G2089]]"
+- "[[G3762]]"
+- "[[G0611]]"
+- "[[G5620]]"
+- "[[G2296]]"
+- "[[G4091]]"
+texts:
+- NKO
+---
+
 **Mark 15:5**<big><big>[[Mark.15.1 Jesus Delivered to Pilate|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Jesus yet answered nothing; so that Pilate marvelled.
 <small><sub>**BSB:**</sub></small>
 But to Pilate’s amazement, Jesus made no further reply.
-<small><sub>**Literal:**</sub></small>
-<the> But Jesus no longer no [thing] answered so as to amaze <the> Pilate.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.4|<< Mark 15:4]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.6|Mark 15:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G3762\|οὐδὲν]]  [[G0611\|ἀπεκρίθη]]  [[G5620\|ὥστε]]  [[G2296\|θαυμάζειν]]  [[G3588\|τὸν]]  [[G4091\|Πιλᾶτον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SELF-DEFENSE|SELF-DEFENSE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.4|<< Mark 15:4]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.6|Mark 15:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

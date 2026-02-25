@@ -1,8 +1,54 @@
+---
+title: 1 Chronicles 2:52
+type: Verse
+kjv: "And Shobal the father of Kirjathjearim had sons; Haroeh, and half of the Manahethites."
+bsb: "These were the descendants of Shobal the father of Kiriath-jearim: Haroeh, half the Manahathites,"
+hebrew: "וַיִּהְי֤וּ בָנִים֙ לְשׁוֹבָ֔ל אֲבִ֖י קִרְיַ֣ת יְעָרִ֑ים הָרֹאֶ֖ה חֲצִ֥י הַמְּנֻחֽוֹת׃"
+pericope: "[[1Chr.2.1 The Sons of Israel|The Sons of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 2
+book/chapter: "[[1Chr.2|1 Chronicles 2]]"
+chronological_order: 321
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic HAROEH|HAROEH]]"
+- "[[topic REAIAH|REAIAH]]"
+- "[[topic SHOBAL|SHOBAL]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1121G]]"
+- "[[H9005]]"
+- "[[H7732H]]"
+- "[[H0001G]]"
+- "[[H7157]]"
+- "[[H7204]]"
+- "[[H2677]]"
+- "[[H9009]]"
+- "[[H4506H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 2:52**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Shobal the father of Kirjathjearim had sons; Haroeh, [and] half of the Manahethites.
 <small><sub>**BSB:**</sub></small>
 These were the descendants of Shobal the father of Kiriath-jearim: Haroeh, half the Manahathites,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יִּהְי֤וּ]] [[H1121G\|בָנִים֙]] [[H9005\|לְ]][[H7732H\|שׁוֹבָ֔ל]] [[H0001G\|אֲבִ֖י]] [[H7157\|קִרְיַ֣ת]] [[H7157\|יְעָרִ֑ים]] [[H7204\|הָרֹאֶ֖ה]] [[H2677\|חֲצִ֥י]] [[H9009\|הַ]][[H4506H\|מְּנֻחֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAROEH|HAROEH]] • [[topic REAIAH|REAIAH]] • [[topic SHOBAL|SHOBAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.52|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.51|<< 1 Chronicles 2:51]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.53|1 Chronicles 2:53 >>]]</td></tr></table>
 

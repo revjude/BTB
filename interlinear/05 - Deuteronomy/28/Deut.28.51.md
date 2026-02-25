@@ -1,8 +1,83 @@
+---
+title: Deuteronomy 28:51
+type: Verse
+kjv: "And he shall eat the fruit of thy cattle, and the fruit of thy land, until thou be destroyed: which also shall not leave thee either corn, wine, or oil, or the increase of thy kine, or flocks of thy sheep, until he have destroyed thee."
+bsb: "They will eat the offspring of your livestock and the produce of your land until you are destroyed. They will leave you no grain or new wine or oil, no calves of your herds or lambs of your flocks, until they have caused you to perish."
+hebrew: "וְ֠אָכַל פְּרִ֨י בְהֶמְתְּךָ֥ וּפְרִֽי־ אַדְמָתְךָ֮ עַ֣ד הִשָּֽׁמְדָךְ֒ אֲשֶׁ֨ר לֹֽא־ יַשְׁאִ֜יר לְךָ֗ דָּגָן֙ תִּיר֣וֹשׁ וְיִצְהָ֔ר שְׁגַ֥ר אֲלָפֶ֖יךָ וְעַשְׁתְּרֹ֣ת צֹאנֶ֑ךָ עַ֥ד הַאֲבִיד֖וֹ אֹתָֽךְ׃"
+pericope: "[[Deut.28.15 The Curses of Disobedience|The Curses of Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H6529]]"
+- "[[H0929]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H0127G]]"
+- "[[H5704]]"
+- "[[H8045]]"
+- "[[H9041]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H7604]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H1715]]"
+- "[[H8492]]"
+- "[[H3323]]"
+- "[[H7698]]"
+- "[[H0504]]"
+- "[[H6251]]"
+- "[[H6629G]]"
+- "[[H0006]]"
+- "[[H9043]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:51**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall eat the fruit of thy cattle, and the fruit of thy land, until thou be destroyed: which [also] shall not leave thee [either] corn, wine, or oil, [or] the increase of thy kine, or flocks of thy sheep, until he have destroyed thee.
 <small><sub>**BSB:**</sub></small>
 They will eat the offspring of your livestock and the produce of your land until you are destroyed. They will leave you no grain or new wine or oil, no calves of your herds or lambs of your flocks, until they have caused you to perish.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ֠]][[H0398\|אָכַל]] [[H6529\|פְּרִ֨י]] [[H0929\|בְהֶמְתְּ]][[H9021\|ךָ֥]] [[H9002\|וּ]][[H6529\|פְרִֽי]][[H9014\|־]] [[H0127G\|אַדְמָתְ]][[H9021\|ךָ֮]] [[H5704\|עַ֣ד]] [[H8045\|הִשָּֽׁמְדָ]][[H9041\|ךְ֒]] [[H0834A\|אֲשֶׁ֨ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7604\|יַשְׁאִ֜יר]] [[H9005\|לְ]][[H9031\|ךָ֗]] [[H1715\|דָּגָן֙]] [[H8492\|תִּיר֣וֹשׁ]] [[H9002\|וְ]][[H3323\|יִצְהָ֔ר]] [[H7698\|שְׁגַ֥ר]] [[H0504\|אֲלָפֶ֖י]][[H9021\|ךָ]] [[H9002\|וְ]][[H6251\|עַשְׁתְּרֹ֣ת]] [[H6629G\|צֹאנֶ֑]][[H9021\|ךָ]] [[H5704\|עַ֥ד]] [[H0006\|הַאֲבִיד֖]][[H9043\|וֹ]] [[H0853\|אֹתָֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.50|<< Deuteronomy 28:50]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.52|Deuteronomy 28:52 >>]]</td></tr></table>
 

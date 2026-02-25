@@ -1,8 +1,50 @@
+---
+title: 1 Chronicles 9:41
+type: Verse
+kjv: "And the sons of Micah were, Pithon, and Melech, and Tahrea, and Ahaz."
+bsb: "The sons of Micah: Pithon, Melech, Tahrea, and Ahaz."
+hebrew: "וּבְנֵ֖י מִיכָ֑ה פִּית֥וֹן וָמֶ֖לֶךְ וְתַחְרֵֽעַ׃ וְאָחָֽז׃"
+pericope: "[[1Chr.9.35 The Descendants of Saul|The Descendants of Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 9
+book/chapter: "[[1Chr.9|1 Chronicles 9]]"
+chronological_order: 328
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic MICAH|MICAH]]"
+- "[[topic TAREA|TAREA]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H4318H]]"
+- "[[H6377]]"
+- "[[H4429]]"
+- "[[H8475]]"
+- "[[H9016]]"
+- "[[H0271H]]"
+texts:
+- L
+- X
+---
+
 **1 Chronicles 9:41**<big><big>[[1Chr.9.35 The Descendants of Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Micah [were], Pithon, and Melech, and Tahrea, [and Ahaz].
 <small><sub>**BSB:**</sub></small>
 The sons of Micah: Pithon, Melech, Tahrea, and Ahaz.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בְנֵ֖י]] [[H4318H\|מִיכָ֑ה]] [[H6377\|פִּית֥וֹן]] [[H9002\|וָ]][[H4429\|מֶ֖לֶךְ]] [[H9002\|וְ]][[H8475\|תַחְרֵֽעַ]][[H9016\|׃]] [[H9002\|וְ]][[H0271H\|אָחָֽז]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MICAH|MICAH]] • [[topic TAREA|TAREA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.40|<< 1 Chronicles 9:40]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.42|1 Chronicles 9:42 >>]]</td></tr></table>
 

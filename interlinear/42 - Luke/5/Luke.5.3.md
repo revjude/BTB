@@ -1,10 +1,68 @@
+---
+title: Luke 5:3
+type: Verse
+kjv: "And he entered into one of the ships, which was Simon’s, and prayed him that he would thrust out a little from the land. And he sat down, and taught the people out of the ship."
+bsb: "Jesus got into the boat belonging to Simon and asked him to put out a little from shore. And sitting down, He taught the people from the boat."
+greek: "ἐμβὰς δὲ εἰς ἓν τῶν πλοίων ὃ ἦν τοῦ Σίμωνος, ἠρώτησεν αὐτὸν ἀπὸ τῆς γῆς ἐπαναγαγεῖν ὀλίγον. καὶ καθίσας δὲ ἐκ τοῦ πλοίου ἐδίδασκεν τοὺς ὄχλους.¶"
+pericope: "[[Luke.5.1 The First Disciples|The First Disciples]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 5
+book/chapter: "[[Luke.5|Luke 5]]"
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PREACHING|PREACHING]]"
+strongs:
+- "[[G1684]]"
+- "[[G1161]]"
+- "[[G1519]]"
+- "[[G1520]]"
+- "[[G3588]]"
+- "[[G4143]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G4613O]]"
+- "[[G2065]]"
+- "[[G0846]]"
+- "[[G0575]]"
+- "[[G1093H]]"
+- "[[G1877]]"
+- "[[G3641]]"
+- "[[G2532]]"
+- "[[G2523]]"
+- "[[G1537]]"
+- "[[G1321]]"
+- "[[G3793]]"
+texts:
+- NKO
+- k
+- ko
+- no
+---
+
 **Luke 5:3**<big><big>[[Luke.5.1 The First Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he entered into one of the ships, which was Simon’s, and prayed him that he would thrust out a little from the land. And he sat down, and taught the people out of the ship.
 <small><sub>**BSB:**</sub></small>
 Jesus got into the boat belonging to Simon and asked him to put out a little from shore. And sitting down, He taught the people from the boat.
-<small><sub>**Literal:**</sub></small>
-Having climbed then into one of the boats which was of the Simon’s, He asked him from the land to put off a little. and Having sat down then from the boat He was teaching the crowds.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.2|<< Luke 5:2]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.4|Luke 5:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1684\|ἐμβὰς]]  [[G1161\|δὲ]]  [[G1519\|εἰς]]  [[G1520\|ἓν]]  [[G3588\|τῶν]]  [[G4143\|πλοίων]]  [[G3739\|ὃ]]  [[G1510\|ἦν]]  [[G3588\|τοῦ]]  [[G4613O\|Σίμωνος,]]  [[G2065\|ἠρώτησεν]]  [[G0846\|αὐτὸν]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G1093H\|γῆς]]  [[G1877\|ἐπαναγαγεῖν]]  [[G3641\|ὀλίγον.]]  [[G2532\|καὶ]]  [[G2523\|καθίσας]]  [[G1161\|δὲ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4143\|πλοίου]]  [[G1321\|ἐδίδασκεν]]  [[G3588\|τοὺς]]  [[G3793\|ὄχλους.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PETER|PETER]] • [[topic PREACHING|PREACHING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.2|<< Luke 5:2]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.4|Luke 5:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,66 @@
+---
+title: Judges 6:5
+type: Verse
+kjv: "For they came up with their cattle and their tents, and they came as grasshoppers for multitude; for both they and their camels were without number: and they entered into the land to destroy it."
+bsb: "For the Midianites came with their livestock and their tents like a great swarm of locusts. They and their camels were innumerable, and they entered the land to ravage it."
+hebrew: "כִּ֡י הֵם֩ וּמִקְנֵיהֶ֨ם יַעֲל֜וּ וְאָהֳלֵיהֶ֗ם וּבָ֤אוּ כְדֵֽי־ אַרְבֶּה֙ לָרֹ֔ב וְלָהֶ֥ם וְלִגְמַלֵּיהֶ֖ם אֵ֣ין מִסְפָּ֑ר וַיָּבֹ֥אוּ בָאָ֖רֶץ לְשַׁחֲתָֽהּ׃"
+pericope: "[[Judg.6.1 Midian Oppresses Israel|Midian Oppresses Israel]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 6
+book/chapter: "[[Judg.6|Judges 6]]"
+chronological_order: 260
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic TENT|TENT]]"
+strongs:
+- "[[H3588A]]"
+- "[[H1992]]"
+- "[[H9002]]"
+- "[[H4735]]"
+- "[[H9028]]"
+- "[[H5927G]]"
+- "[[H0168G]]"
+- "[[H0935G]]"
+- "[[H9001]]"
+- "[[H9004]]"
+- "[[H1767]]"
+- "[[H9014]]"
+- "[[H0697]]"
+- "[[H9005]]"
+- "[[H7230]]"
+- "[[H9038]]"
+- "[[H1581]]"
+- "[[H0369]]"
+- "[[H4557]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H7843]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Judges 6:5**<big><big>[[Judg.6.1 Midian Oppresses Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they came up with their cattle and their tents, and they came as grasshoppers for multitude; [for] both they and their camels were without number: and they entered into the land to destroy it.
 <small><sub>**BSB:**</sub></small>
 For the Midianites came with their livestock and their tents like a great swarm of locusts. They and their camels were innumerable, and they entered the land to ravage it.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֡י]] [[H1992\|הֵם֩]] [[H9002\|וּ]][[H4735\|מִקְנֵי]][[H9028\|הֶ֨ם]] [[H5927G\|יַעֲל֜וּ]] [[H9002\|וְ]][[H0168G\|אָהֳלֵי]][[H9028\|הֶ֗ם]] [[H9001\|וּ]][[H0935G\|בָ֤אוּ]] [[H9004\|כְ]][[H1767\|דֵֽי]][[H9014\|־]] [[H0697\|אַרְבֶּה֙]] [[H9005\|לָ]][[H7230\|רֹ֔ב]] [[H9002\|וְ]][[H9005\|לָ]][[H9038\|הֶ֥ם]] [[H9002\|וְ]][[H9005\|לִ]][[H1581\|גְמַלֵּי]][[H9028\|הֶ֖ם]] [[H0369\|אֵ֣ין]] [[H4557\|מִסְפָּ֑ר]] [[H9001\|וַ]][[H0935G\|יָּבֹ֥אוּ]] [[H9003\|בָ]][[H0776G\|אָ֖רֶץ]] [[H9005\|לְ]][[H7843\|שַׁחֲתָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOCUST|LOCUST]] • [[topic TENT|TENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.4|<< Judges 6:4]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.6|Judges 6:6 >>]]</td></tr></table>
 

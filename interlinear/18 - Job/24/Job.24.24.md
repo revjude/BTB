@@ -1,8 +1,60 @@
+---
+title: Job 24:24
+type: Verse
+kjv: "They are exalted for a little while, but are gone and brought low; they are taken out of the way as all other, and cut off as the tops of the ears of corn."
+bsb: "They are exalted for a moment, then they are gone; they are brought low and gathered up like all others; they are cut off like heads of grain."
+hebrew: "ר֤וֹמּוּ מְּעַ֨ט׀ וְֽאֵינֶ֗נּוּ וְֽהֻמְּכ֗וּ כַּכֹּ֥ל יִקָּפְצ֑וּן וּכְרֹ֖אשׁ שִׁבֹּ֣לֶת יִמָּֽלוּ׃"
+pericope: "[[Job.24.1 Job：Judgment for the Wicked|Job：Judgment for the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 24
+book/chapter: "[[Job.24|Job 24]]"
+chronological_order: 35
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7426]]"
+- "[[H4592]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H9001]]"
+- "[[H4355]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H7092]]"
+- "[[H9013]]"
+- "[[H7218A]]"
+- "[[H7641B]]"
+- "[[H5243A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 24:24**<big><big>[[Job.24.1 Job：Judgment for the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They are exalted for a little while, but are gone and brought low; they are taken out of the way as all [other], and cut off as the tops of the ears of corn.
 <small><sub>**BSB:**</sub></small>
 They are exalted for a moment, then they are gone; they are brought low and gathered up like all others; they are cut off like heads of grain.
+<small><sub>**Hebrew:**</sub></small>
+[[H7426\|ר֤וֹמּוּ]] [[H4592\|מְּעַ֨ט]][[H9015\|׀]] [[H9002\|וְֽ]][[H0369\|אֵינֶ֗]][[H9043\|נּוּ]] [[H9001\|וְֽ]][[H4355\|הֻמְּכ֗וּ]] [[H9004\|כַּ]][[H3605\|כֹּ֥ל]] [[H7092\|יִקָּפְצ֑וּ]][[H9013\|ן]] [[H9002\|וּ]][[H9004\|כְ]][[H7218A\|רֹ֖אשׁ]] [[H7641B\|שִׁבֹּ֣לֶת]] [[H5243A\|יִמָּֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic HOMICIDE|HOMICIDE]] • [[topic RULERS|RULERS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.24.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.23|<< Job 24:23]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.25|Job 24:25 >>]]</td></tr></table>
 

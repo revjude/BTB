@@ -1,8 +1,55 @@
+---
+title: 2 Chronicles 34:1
+type: Verse
+kjv: "Josiah was eight years old when he began to reign, and he reigned in Jerusalem one and thirty years."
+bsb: "Josiah was eight years old when he became king, and he reigned in Jerusalem thirty-one years."
+hebrew: "בֶּן־ שְׁמוֹנֶ֥ה שָׁנִ֖ים יֹאשִׁיָּ֣הוּ בְמָלְכ֑וֹ וּשְׁלֹשִׁ֤ים וְאַחַת֙ שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלִָֽם׃"
+pericope: "[[2Chr.34.1 Josiah Reigns in Judah|Josiah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 34
+book/chapter: "[[2Chr.34|2 Chronicles 34]]"
+chronological_order: 713
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic JOSIAH|JOSIAH]]"
+strongs:
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H8083]]"
+- "[[H8141]]"
+- "[[H2977G]]"
+- "[[H9003]]"
+- "[[H4427A]]"
+- "[[H9043]]"
+- "[[H9002]]"
+- "[[H7970]]"
+- "[[H0259]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 34:1**<big><big>[[2Chr.34.1 Josiah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Josiah [was] eight years old when he began to reign, and he reigned in Jerusalem one and thirty years.
 <small><sub>**BSB:**</sub></small>
 Josiah was eight years old when he became king, and he reigned in Jerusalem thirty-one years.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121L\|בֶּן]][[H9014\|־]] [[H8083\|שְׁמוֹנֶ֥ה]] [[H8141\|שָׁנִ֖ים]] [[H2977G\|יֹאשִׁיָּ֣הוּ]] [[H9003\|בְ]][[H4427A\|מָלְכ֑]][[H9043\|וֹ]] [[H9002\|וּ]][[H7970\|שְׁלֹשִׁ֤ים]] [[H9002\|וְ]][[H0259\|אַחַת֙]] [[H8141\|שָׁנָ֔ה]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic EPHRAIM|EPHRAIM]] • [[topic JOSIAH|JOSIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.33.25|<< 2 Chronicles 33:25]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.2|2 Chronicles 34:2 >>]]</td></tr></table>
 

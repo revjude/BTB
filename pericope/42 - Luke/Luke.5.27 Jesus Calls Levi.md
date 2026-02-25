@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Calls Levi
+type: Pericope
 pericope: "[[Luke.5.27 Jesus Calls Levi|Jesus Calls Levi]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Luke
 chapter: 5
 book/chapter: "[[Luke.5|Luke 5]]"
-genre:
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 6
 verses:
 - "[[Luke.5.27]]"
 - "[[Luke.5.28]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Luke.5.32]]"
 ---
 
-[[Luke.5|Luke 5:27 - Luke 5:32]]
+<small>[[Luke.5|Luke 5:27-32]]</small>
 *Jesus Calls Levi*
 
 [[Luke.5.27|27]] And after these things he went forth, and saw a publican, named Levi, sitting at the receipt of custom: and he said unto him, Follow me.

@@ -1,10 +1,64 @@
+---
+title: Luke 19:4
+type: Verse
+kjv: "And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that way."
+bsb: "So he ran on ahead and climbed a sycamore tree to see Him, since Jesus was about to pass that way."
+greek: "καὶ προδραμὼν εἰς τὸ ἔμπροσθεν ἀνέβη ἐπὶ συκομορέαν ἵνα ἴδῃ αὐτόν, ὅτι δι᾽ ἐκείνης ἤμελλεν διέρχεσθαι."
+pericope: "[[Luke.19.1 Jesus and Zacchaeus|Jesus and Zacchaeus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PUBLICANS|PUBLICANS]]"
+- "[[topic SYCAMORE|SYCAMORE]]"
+- "[[topic ZACCHAEUS (ZACCHEUS)|ZACCHAEUS (ZACCHEUS)]]"
+strongs:
+- "[[G2532]]"
+- "[[G4390]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1715]]"
+- "[[G0305]]"
+- "[[G1909]]"
+- "[[G4809]]"
+- "[[G2443]]"
+- "[[G1492H]]"
+- "[[G0846]]"
+- "[[G3754H]]"
+- "[[G1223]]"
+- "[[G1565]]"
+- "[[G3195]]"
+- "[[G1330]]"
+texts:
+- NKO
+- no
+- k
+---
+
 **Luke 19:4**<big><big>[[Luke.19.1 Jesus and Zacchaeus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that [way].
 <small><sub>**BSB:**</sub></small>
 So he ran on ahead and climbed a sycamore tree to see Him, since Jesus was about to pass that way.
-<small><sub>**Literal:**</sub></small>
-And having run to the front he went up into a sycamore-fig tree so that he may see Him, for through that [way] He was soon to pass.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.3|<< Luke 19:3]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.5|Luke 19:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4390\|προδραμὼν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G1715\|ἔμπροσθεν]]  [[G0305\|ἀνέβη]]  [[G1909\|ἐπὶ]]  [[G4809\|συκομορέαν]]  [[G2443\|ἵνα]]  [[G1492H\|ἴδῃ]]  [[G0846\|αὐτόν,]]  [[G3754H\|ὅτι]]  [[G1223\|δι᾽]]  [[G1565\|ἐκείνης]]  [[G3195\|ἤμελλεν]]  [[G1330\|διέρχεσθαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOSPITALITY|HOSPITALITY]] • [[topic JERICHO|JERICHO]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PUBLICANS|PUBLICANS]] • [[topic SYCAMORE|SYCAMORE]] • [[topic ZACCHAEUS (ZACCHEUS)|ZACCHAEUS (ZACCHEUS)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.3|<< Luke 19:3]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.5|Luke 19:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,60 @@
+---
+title: John 5:6
+type: Verse
+kjv: "When Jesus saw him lie, and knew that he had been now a long time in that case, he saith unto him, Wilt thou be made whole?"
+bsb: "When Jesus saw him lying there and realized that he had spent a long time in this condition, He asked him, “Do you want to get well?”"
+jesus_said: "Wilt thou be made whole?"
+greek: "τοῦτον ἰδὼν ὁ Ἰησοῦς κατακείμενον, καὶ γνοὺς ὅτι πολὺν ἤδη χρόνον ἔχει, λέγει αὐτῷ· θέλεις ὑγιὴς γενέσθαι;"
+pericope: "[[John.5.1 The Pool of Bethesda|The Pool of Bethesda]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 5
+book/chapter: "[[John.5|John 5]]"
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[G3778]]"
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2621]]"
+- "[[G2532]]"
+- "[[G1097]]"
+- "[[G3754G]]"
+- "[[G4183]]"
+- "[[G2235]]"
+- "[[G5550]]"
+- "[[G2192]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G2309]]"
+- "[[G5199]]"
+- "[[G1096]]"
+texts:
+- NKO
+---
+
 **John 5:6**<big><big>[[John.5.1 The Pool of Bethesda|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When Jesus saw him lie, and knew that he had been now a long time [in that case], he saith unto him, Wilt thou be made whole?
 <small><sub>**BSB:**</sub></small>
 When Jesus saw him lying there and realized that he had spent a long time in this condition, He asked him, “Do you want to get well?”
-<small><sub>**Literal:**</sub></small>
-Him having seen <the> Jesus lying, and having known that a long already time he has been, He says to him; Desire you well to become?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.5|<< John 5:5]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.7|John 5:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτον]]  [[G1492H\|ἰδὼν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2621\|κατακείμενον,]]  [[G2532\|καὶ]]  [[G1097\|γνοὺς]]  [[G3754G\|ὅτι]]  [[G4183\|πολὺν]]  [[G2235\|ἤδη]]  [[G5550\|χρόνον]]  [[G2192\|ἔχει,]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ·]]  [[G2309\|θέλεις]]  [[G5199\|ὑγιὴς]]  [[G1096\|γενέσθαι;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.5|<< John 5:5]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.7|John 5:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

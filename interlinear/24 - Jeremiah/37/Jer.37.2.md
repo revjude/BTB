@@ -1,8 +1,64 @@
+---
+title: Jeremiah 37:2
+type: Verse
+kjv: "But neither he, nor his servants, nor the people of the land, did hearken unto the words of the LORD, which he spake by the prophet Jeremiah."
+bsb: "But he and his officers and the people of the land refused to obey the words that the LORD had spoken through Jeremiah the prophet."
+hebrew: "וְלֹ֥א שָׁמַ֛ע ה֥וּא וַעֲבָדָ֖יו וְעַ֣ם הָאָ֑רֶץ אֶל־ דִּבְרֵ֣י יְהוָ֔ה אֲשֶׁ֣ר דִּבֶּ֔ר בְּיַ֖ד יִרְמְיָ֥הוּ הַנָּבִֽיא׃"
+pericope: "[[Jer.37.1 Jeremiah Warns Zedekiah|Jeremiah Warns Zedekiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 37
+book/chapter: "[[Jer.37|Jeremiah 37]]"
+chronological_order: 760
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H1931]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H5971A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H9003]]"
+- "[[H3027J]]"
+- "[[H3414L]]"
+- "[[H5030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 37:2**<big><big>[[Jer.37.1 Jeremiah Warns Zedekiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But neither he, nor his servants, nor the people of the land, did hearken unto the words of the LORD, which he spake by the prophet Jeremiah.
 <small><sub>**BSB:**</sub></small>
 But he and his officers and the people of the land refused to obey the words that the LORD had spoken through Jeremiah the prophet.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8085G\|שָׁמַ֛ע]] [[H1931\|ה֥וּא]] [[H9002\|וַ]][[H5650\|עֲבָדָ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H5971A\|עַ֣ם]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H0413\|אֶל]][[H9014\|־]] [[H1697G\|דִּבְרֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H1696G\|דִּבֶּ֔ר]] [[H9003\|בְּ]][[H3027J\|יַ֖ד]] [[H3414L\|יִרְמְיָ֥הוּ]] [[H9009\|הַ]][[H5030\|נָּבִֽיא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.37.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.37.1|<< Jeremiah 37:1]]</td><td align="center" style="border:none;">[[Jer.37|Jeremiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.37.3|Jeremiah 37:3 >>]]</td></tr></table>
 

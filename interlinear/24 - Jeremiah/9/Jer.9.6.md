@@ -1,8 +1,60 @@
+---
+title: Jeremiah 9:6
+type: Verse
+kjv: "Thine habitation is in the midst of deceit; through deceit they refuse to know me, saith the LORD."
+bsb: "You dwell in the midst of deception; in their deceit they refuse to know Me,” declares the LORD."
+hebrew: "שִׁבְתְּךָ֖ בְּת֣וֹךְ מִרְמָ֑ה בְּמִרְמָ֛ה מֵאֲנ֥וּ דַֽעַת־ אוֹתִ֖י נְאֻם־ יְהוָֽה׃ ס"
+pericope: "[[Jer.9.1 A Lament over Zion|A Lament over Zion]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 9
+book/chapter: "[[Jer.9|Jeremiah 9]]"
+chronological_order: 726
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DECEIT|DECEIT]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3427]]"
+- "[[H9041]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H4820]]"
+- "[[H3985]]"
+- "[[H3045]]"
+- "[[H9014]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 9:6**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thine habitation [is] in the midst of deceit; through deceit they refuse to know me, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 You dwell in the midst of deception; in their deceit they refuse to know Me,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3427\|שִׁבְתְּ]][[H9041\|ךָ֖]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H4820\|מִרְמָ֑ה]] [[H9003\|בְּ]][[H4820\|מִרְמָ֛ה]] [[H3985\|מֵאֲנ֥וּ]] [[H3045\|דַֽעַת]][[H9014\|־]] [[H0853\|אוֹתִ֖]][[H9030\|י]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic DECEIT|DECEIT]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.5|<< Jeremiah 9:5]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.7|Jeremiah 9:7 >>]]</td></tr></table>
 
@@ -16,7 +68,7 @@ You dwell in the midst of deception; in their deceit they refuse to know Me,” 
 | to know  |**<big>&#8207;[[H3045\|דַֽעַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| da.'at-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> me  |**<big>&#8207;[[H0853\|אוֹתִ֖]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.5|<< Jeremiah 9:5]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.7|Jeremiah 9:7 >>]]</td></tr></table>
 
 

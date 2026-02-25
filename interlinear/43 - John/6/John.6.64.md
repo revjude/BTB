@@ -1,10 +1,61 @@
+---
+title: John 6:64
+type: Verse
+kjv: "But there are some of you that believe not. For Jesus knew from the beginning who they were that believed not, and who should betray him."
+bsb: "However, there are some of you who do not believe.” (For Jesus had known from the beginning which of them did not believe and who would betray Him.)"
+jesus_said: "But there are some of you that believe not."
+greek: "ἀλλ᾽ εἰσὶν ἐξ ὑμῶν τινες οἳ οὐ πιστεύουσιν. ᾔδει γὰρ ἐξ ἀρχῆς ὁ Ἰησοῦς τίνες εἰσὶν οἱ μὴ πιστεύοντες καὶ τίς ἐστιν ὁ παραδώσων αὐτόν."
+pericope: "[[John.6.59 Many Disciples Turn Back|Many Disciples Turn Back]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SIN|SIN]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G0235]]"
+- "[[G1510]]"
+- "[[G1537]]"
+- "[[G4771]]"
+- "[[G5100]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G4100]]"
+- "[[G1492I]]"
+- "[[G1063]]"
+- "[[G0746]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G5101]]"
+- "[[G3361]]"
+- "[[G2532]]"
+- "[[G3860]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **John 6:64**<big><big>[[John.6.59 Many Disciples Turn Back|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But there are some of you that believe not. For Jesus knew from the beginning who they were that believed not, and who should betray him.
 <small><sub>**BSB:**</sub></small>
 However, there are some of you who do not believe.” (For Jesus had known from the beginning which of them did not believe and who would betray Him.)
-<small><sub>**Literal:**</sub></small>
-But they are of you some who not believe. Knew for from [the] beginning <the> Jesus who are those not believing and who it is who will betray Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.63|<< John 6:63]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.65|John 6:65 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G1510\|εἰσὶν]]  [[G1537\|ἐξ]]  [[G4771\|ὑμῶν]]  [[G5100\|τινες]]  [[G3739\|οἳ]]  [[G3756\|οὐ]]  [[G4100\|πιστεύουσιν.]]  [[G1492I\|ᾔδει]]  [[G1063\|γὰρ]]  [[G1537\|ἐξ]]  [[G0746\|ἀρχῆς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G5101\|τίνες]]  [[G1510\|εἰσὶν]]  [[G3588\|οἱ]]  [[G3361\|μὴ]]  [[G4100\|πιστεύοντες]]  [[G2532\|καὶ]]  [[G5101\|τίς]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G3860\|παραδώσων]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SIN|SIN]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.63|<< John 6:63]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.65|John 6:65 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

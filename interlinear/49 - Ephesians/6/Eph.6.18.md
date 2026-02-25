@@ -1,10 +1,68 @@
+---
+title: Ephesians 6:18
+type: Verse
+kjv: "Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;"
+bsb: "Pray in the Spirit at all times, with every kind of prayer and petition. To this end, stay alert with all perseverance in your prayers for all the saints."
+greek: "διὰ πάσης προσευχῆς καὶ δεήσεως προσευχόμενοι ἐν παντὶ καιρῷ ἐν πνεύματι καὶ εἰς αὐτὸ τοῦτο ἀγρυπνοῦντες ἐν πάσῃ προσκαρτερήσει καὶ δεήσει περὶ πάντων τῶν ἁγίων"
+pericope: "[[Eph.6.10 The Full Armor of God|The Full Armor of God]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 6
+book/chapter: "[[Eph.6|Ephesians 6]]"
+chronological_order: 1116
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSTANCY|CONSTANCY]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1223]]"
+- "[[G3956]]"
+- "[[G4335]]"
+- "[[G2532]]"
+- "[[G1162]]"
+- "[[G4336]]"
+- "[[G1722]]"
+- "[[G2540]]"
+- "[[G4151G]]"
+- "[[G1519]]"
+- "[[G0846]]"
+- "[[G3778]]"
+- "[[G0069]]"
+- "[[G4343]]"
+- "[[G4012]]"
+- "[[G3588]]"
+- "[[G0040H]]"
+texts:
+- NKO
+- k
+---
+
 **Ephesians 6:18**<big><big>[[Eph.6.10 The Full Armor of God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;
 <small><sub>**BSB:**</sub></small>
 Pray in the Spirit at all times, with every kind of prayer and petition. To this end, stay alert with all perseverance in your prayers for all the saints.
-<small><sub>**Literal:**</sub></small>
-through all [times] prayer and supplication praying in every season in [the] Spirit and unto <the> this watching with all perseverance and with supplication for all <the> saints<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.17|<< Ephesians 6:17]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.19|Ephesians 6:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G3956\|πάσης]]  [[G4335\|προσευχῆς]]  [[G2532\|καὶ]]  [[G1162\|δεήσεως]]  [[G4336\|προσευχόμενοι]]  [[G1722\|ἐν]]  [[G3956\|παντὶ]]  [[G2540\|καιρῷ]]  [[G1722\|ἐν]]  [[G4151G\|πνεύματι]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G0846\|αὐτὸ]]  [[G3778\|τοῦτο]]  [[G0069\|ἀγρυπνοῦντες]]  [[G1722\|ἐν]]  [[G3956\|πάσῃ]]  [[G4343\|προσκαρτερήσει]]  [[G2532\|καὶ]]  [[G1162\|δεήσει]]  [[G4012\|περὶ]]  [[G3956\|πάντων]]  [[G3588\|τῶν]]  [[G0040H\|ἁγίων]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSTANCY|CONSTANCY]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic INTERCESSION|INTERCESSION]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic PRAYER|PRAYER]] • [[topic WAR|WAR]] • [[topic WATCHFULNESS|WATCHFULNESS]] • [[topic WISDOM|WISDOM]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.17|<< Ephesians 6:17]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.19|Ephesians 6:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

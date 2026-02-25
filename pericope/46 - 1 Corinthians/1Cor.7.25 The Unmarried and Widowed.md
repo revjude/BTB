@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Unmarried and Widowed
+type: Pericope
 pericope: "[[1Cor.7.25 The Unmarried and Widowed|The Unmarried and Widowed]]"
-verse_count: 16
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 7
 book/chapter: "[[1Cor.7|1 Corinthians 7]]"
-genre:
+chronological_order: 1064
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 16
 verses:
 - "[[1Cor.7.25]]"
 - "[[1Cor.7.26]]"
@@ -33,7 +40,7 @@ verses:
 - "[[1Cor.7.40]]"
 ---
 
-[[1Cor.7|1 Corinthians 7:25 - 1 Corinthians 7:40]]
+<small>[[1Cor.7|1 Corinthians 7:25-40]]</small>
 *The Unmarried and Widowed*
 
 [[1Cor.7.25|25]] Now concerning virgins I have no commandment of the Lord: yet I give my judgment, as one that hath obtained mercy of the Lord to be faithful.

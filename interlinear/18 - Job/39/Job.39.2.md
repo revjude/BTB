@@ -1,8 +1,50 @@
+---
+title: Job 39:2
+type: Verse
+kjv: "Canst thou number the months that they fulfil? or knowest thou the time when they bring forth?"
+bsb: "Can you count the months they are pregnant? Do you know the time they give birth?"
+hebrew: "תִּסְפֹּ֣ר יְרָחִ֣ים תְּמַלֶּ֑אנָה וְ֝יָדַ֗עְתָּ עֵ֣ת לִדְתָּֽנָה׃"
+pericope: "[[Job.39.1 The LORD Speaks of His Creation|The LORD Speaks of His Creation]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 39
+book/chapter: "[[Job.39|Job 39]]"
+chronological_order: 50
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H5608A]]"
+- "[[H3391]]"
+- "[[H4390]]"
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H6256]]"
+- "[[H3205]]"
+- "[[H9049]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 39:2**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Canst thou number the months [that] they fulfil? or knowest thou the time when they bring forth?
 <small><sub>**BSB:**</sub></small>
 Can you count the months they are pregnant? Do you know the time they give birth?
+<small><sub>**Hebrew:**</sub></small>
+[[H5608A\|תִּסְפֹּ֣ר]] [[H3391\|יְרָחִ֣ים]] [[H4390\|תְּמַלֶּ֑אנָה]] [[H9001\|וְ֝]][[H3045\|יָדַ֗עְתָּ]] [[H6256\|עֵ֣ת]] [[H3205\|לִדְתָּֽ]][[H9049\|נָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.1|<< Job 39:1]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.3|Job 39:3 >>]]</td></tr></table>
 

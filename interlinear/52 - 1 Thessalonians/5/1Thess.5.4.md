@@ -1,10 +1,58 @@
+---
+title: 1 Thessalonians 5:4
+type: Verse
+kjv: "But ye, brethren, are not in darkness, that that day should overtake you as a thief."
+bsb: "But you, brothers, are not in the darkness so that this day should overtake you like a thief."
+greek: "ὑμεῖς δέ, ἀδελφοί, οὐκ ἐστὲ ἐν σκότει, ἵνα ἡ ἡμέρα ὑμᾶς ὡς κλέπτης καταλάβῃ·"
+pericope: "[[1Thess.5.1 The Day of the Lord|The Day of the Lord]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 5
+book/chapter: "[[1Thess.5|1 Thessalonians 5]]"
+chronological_order: 1052
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G0080]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G4655]]"
+- "[[G2443]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G5613]]"
+- "[[G2812]]"
+- "[[G2638]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **1 Thessalonians 5:4**<big><big>[[1Thess.5.1 The Day of the Lord|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But ye, brethren, are not in darkness, that that day should overtake you as a thief.
 <small><sub>**BSB:**</sub></small>
 But you, brothers, are not in the darkness so that this day should overtake you like a thief.
-<small><sub>**Literal:**</sub></small>
-You yourselves however, brothers, not are in darkness, that the day you like a thief may grasp;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.3|<< 1 Thessalonians 5:3]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.5|1 Thessalonians 5:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|ὑμεῖς]]  [[G1161\|δέ,]]  [[G0080\|ἀδελφοί,]]  [[G3756\|οὐκ]]  [[G1510\|ἐστὲ]]  [[G1722\|ἐν]]  [[G4655\|σκότει,]]  [[G2443\|ἵνα]]  [[G3588\|ἡ]]  [[G2250\|ἡμέρα]]  [[G4771\|ὑμᾶς]]  [[G5613\|ὡς]]  [[G2812\|κλέπτης]]  [[G2638\|καταλάβῃ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic DARKNESS|DARKNESS]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WATCHFULNESS|WATCHFULNESS]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.3|<< 1 Thessalonians 5:3]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.5|1 Thessalonians 5:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

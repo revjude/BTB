@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hezekiah Organizes the Priests
+type: Pericope
 pericope: "[[2Chr.31.11 Hezekiah Organizes the Priests|Hezekiah Organizes the Priests]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 31
 book/chapter: "[[2Chr.31|2 Chronicles 31]]"
-genre:
+chronological_order: 661
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 11
 verses:
 - "[[2Chr.31.11]]"
 - "[[2Chr.31.12]]"
@@ -29,7 +36,7 @@ verses:
 - "[[2Chr.31.21]]"
 ---
 
-[[2Chr.31|2 Chronicles 31:11 - 2 Chronicles 31:21]]
+<small>[[2Chr.31|2 Chronicles 31:11-21]]</small>
 *Hezekiah Organizes the Priests*
 
 [[2Chr.31.11|11]] Then Hezekiah commanded to prepare chambers in the house of the LORD; and they prepared \[them\],

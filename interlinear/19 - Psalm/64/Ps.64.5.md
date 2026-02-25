@@ -1,8 +1,60 @@
+---
+title: Psalm 64:5
+type: Verse
+kjv: "They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?"
+bsb: "They hold fast to their evil purpose; they speak of hiding their snares. “Who will see them?” they say."
+hebrew: "יְחַזְּקוּ־ לָ֨מוֹ׀ דָּ֘בָ֤ר רָ֗ע יְֽ֭סַפְּרוּ לִטְמ֣וֹן מוֹקְשִׁ֑ים אָ֝מְר֗וּ מִ֣י יִרְאֶה־ לָּֽמוֹ׃"
+pericope: "[[Ps.64.1 The Hurtful Tongue|The Hurtful Tongue]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 64
+book/chapter: "[[Ps.64|Psalm 64]]"
+chronological_order: 374
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2388H]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9015]]"
+- "[[H1697K]]"
+- "[[H7451H]]"
+- "[[H5608A]]"
+- "[[H2934]]"
+- "[[H4170]]"
+- "[[H0559]]"
+- "[[H4310]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 64:5**<big><big>[[Ps.64.1 The Hurtful Tongue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They encourage themselves [in] an evil matter: they commune of laying snares privily; they say, Who shall see them?
 <small><sub>**BSB:**</sub></small>
 They hold fast to their evil purpose; they speak of hiding their snares. “Who will see them?” they say.
+<small><sub>**Hebrew:**</sub></small>
+[[H2388H\|יְחַזְּקוּ]][[H9014\|־]] [[H9005\|לָ֨]][[H9038\|מוֹ]][[H9015\|׀]] [[H1697K\|דָּ֘בָ֤ר]] [[H7451H\|רָ֗ע]] [[H5608A\|יְֽ֭סַפְּרוּ]] [[H9005\|לִ]][[H2934\|טְמ֣וֹן]] [[H4170\|מוֹקְשִׁ֑ים]] [[H0559\|אָ֝מְר֗וּ]] [[H4310\|מִ֣י]] [[H7200G\|יִרְאֶה]][[H9014\|־]] [[H9005\|לָּֽ]][[H9038\|מוֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFIDELITY|INFIDELITY]] • [[topic MALICE|MALICE]] • [[topic SPEAKING|SPEAKING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.64.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.64.4|<< Psalms 64:4]]</td><td align="center" style="border:none;">[[Ps.64|Psalms 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.64.6|Psalms 64:6 >>]]</td></tr></table>
 

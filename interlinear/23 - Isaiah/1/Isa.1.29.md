@@ -1,8 +1,54 @@
+---
+title: Isaiah 1:29
+type: Verse
+kjv: "For they shall be ashamed of the oaks which ye have desired, and ye shall be confounded for the gardens that ye have chosen."
+bsb: "Surely you will be ashamed of the sacred oaks in which you have delighted; you will be embarrassed by the gardens that you have chosen."
+hebrew: "כִּ֣י יֵבֹ֔שׁוּ מֵאֵילִ֖ים אֲשֶׁ֣ר חֲמַדְתֶּ֑ם וְתַ֨חְפְּר֔וּ מֵהַגַּנּ֖וֹת אֲשֶׁ֥ר בְּחַרְתֶּֽם׃"
+pericope: "[[Isa.1.21 The Corruption of Zion|The Corruption of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 1
+book/chapter: "[[Isa.1|Isaiah 1]]"
+chronological_order: 609
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GROVES|GROVES]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0954]]"
+- "[[H9006]]"
+- "[[H0352D]]"
+- "[[H0834A]]"
+- "[[H2530A]]"
+- "[[H9002]]"
+- "[[H2659]]"
+- "[[H9009]]"
+- "[[H1593]]"
+- "[[H0977]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 1:29**<big><big>[[Isa.1.21 The Corruption of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they shall be ashamed of the oaks which ye have desired, and ye shall be confounded for the gardens that ye have chosen.
 <small><sub>**BSB:**</sub></small>
 Surely you will be ashamed of the sacred oaks in which you have delighted; you will be embarrassed by the gardens that you have chosen.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H0954\|יֵבֹ֔שׁוּ]] [[H9006\|מֵ]][[H0352D\|אֵילִ֖ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H2530A\|חֲמַדְתֶּ֑ם]] [[H9002\|וְ]][[H2659\|תַ֨חְפְּר֔וּ]] [[H9006\|מֵ]][[H9009\|הַ]][[H1593\|גַּנּ֖וֹת]] [[H0834A\|אֲשֶׁ֥ר]] [[H0977\|בְּחַרְתֶּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GROVES|GROVES]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.28|<< Isaiah 1:28]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.30|Isaiah 1:30 >>]]</td></tr></table>
 

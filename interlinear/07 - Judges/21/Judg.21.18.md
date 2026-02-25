@@ -1,8 +1,62 @@
+---
+title: Judges 21:18
+type: Verse
+kjv: "Howbeit we may not give them wives of our daughters: for the children of Israel have sworn, saying, Cursed be he that giveth a wife to Benjamin."
+bsb: "But we cannot give them our daughters as wives.” For the Israelites had sworn, “Cursed is he who gives a wife to a Benjamite.”"
+hebrew: "וַאֲנַ֗חְנוּ לֹ֥א נוּכַ֛ל לָתֵת־ לָהֶ֥ם נָשִׁ֖ים מִבְּנוֹתֵ֑ינוּ כִּֽי־ נִשְׁבְּע֤וּ בְנֵֽי־ יִשְׂרָאֵל֙ לֵאמֹ֔ר אָר֕וּר נֹתֵ֥ן אִשָּׁ֖ה לְבִנְיָמִֽן׃ ס"
+pericope: "[[Judg.21.1 Wives for the Benjamites|Wives for the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 21
+book/chapter: "[[Judg.21|Judges 21]]"
+chronological_order: 275
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic RASHNESS|RASHNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0587]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H5414O]]"
+- "[[H9014]]"
+- "[[H9038]]"
+- "[[H0802H]]"
+- "[[H9006]]"
+- "[[H1323G]]"
+- "[[H9025]]"
+- "[[H3588A]]"
+- "[[H7650]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0559]]"
+- "[[H0779]]"
+- "[[H1144G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Judges 21:18**<big><big>[[Judg.21.1 Wives for the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit we may not give them wives of our daughters: for the children of Israel have sworn, saying, Cursed [be] he that giveth a wife to Benjamin.
 <small><sub>**BSB:**</sub></small>
 But we cannot give them our daughters as wives.” For the Israelites had sworn, “Cursed is he who gives a wife to a Benjamite.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0587\|אֲנַ֗חְנוּ]] [[H3808\|לֹ֥א]] [[H3201\|נוּכַ֛ל]] [[H9005\|לָ]][[H5414O\|תֵת]][[H9014\|־]] [[H9005\|לָ]][[H9038\|הֶ֥ם]] [[H0802H\|נָשִׁ֖ים]] [[H9006\|מִ]][[H1323G\|בְּנוֹתֵ֑י]][[H9025\|נוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7650\|נִשְׁבְּע֤וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H0779\|אָר֕וּר]] [[H5414O\|נֹתֵ֥ן]] [[H0802H\|אִשָּׁ֖ה]] [[H9005\|לְ]][[H1144G\|בִנְיָמִֽן]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic RASHNESS|RASHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.21.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.17|<< Judges 21:17]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.19|Judges 21:19 >>]]</td></tr></table>
 
@@ -23,7 +77,7 @@ But we cannot give them our daughters as wives.” For the Israelites had sworn,
 | [be] cursed  |**<big>&#8207;[[H0779\|אָר֕וּר]]&#8207; </big>**| 'a.Rur<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] gives  |**<big>&#8207;[[H5414O\|נֹתֵ֥ן]]&#8207; </big>**| no.Ten<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a wife  |**<big>&#8207;[[H0802H\|אִשָּׁ֖ה]]&#8207; </big>**| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Benjamin  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1144G\|בִנְיָמִֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> vin.ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Benjamin  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1144G\|בִנְיָמִֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> vin.ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.17|<< Judges 21:17]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.19|Judges 21:19 >>]]</td></tr></table>
 
 

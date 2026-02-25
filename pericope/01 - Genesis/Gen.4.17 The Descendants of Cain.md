@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Descendants of Cain
+type: Pericope
 pericope: "[[Gen.4.17 The Descendants of Cain|The Descendants of Cain]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 4
 book/chapter: "[[Gen.4|Genesis 4]]"
-genre:
+chronological_order: 4
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 8
 verses:
 - "[[Gen.4.17]]"
 - "[[Gen.4.18]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Gen.4.24]]"
 ---
 
-[[Gen.4|Genesis 4:17 - Genesis 4:24]]
+<small>[[Gen.4|Genesis 4:17-24]]</small>
 *The Descendants of Cain*
 
 [[Gen.4.17|17]] And Cain knew his wife; and she conceived, and bare Enoch: and he builded a city, and called the name of the city, after the name of his son, Enoch.

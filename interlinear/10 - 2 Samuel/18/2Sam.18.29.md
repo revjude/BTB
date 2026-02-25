@@ -1,8 +1,66 @@
+---
+title: 2 Samuel 18:29
+type: Verse
+kjv: "And the king said, Is the young man Absalom safe? And Ahimaaz answered, When Joab sent the king’s servant, and me thy servant, I saw a great tumult, but I knew not what it was."
+bsb: "The king asked, “Is the young man Absalom all right?” And Ahimaaz replied, “When Joab sent the king’s servant and your servant, I saw a great tumult, but I do not know what it was.”"
+hebrew: "וַיֹּ֣אמֶר הַמֶּ֔לֶךְ שָׁל֥וֹם לַנַּ֖עַר לְאַבְשָׁל֑וֹם וַיֹּ֣אמֶר אֲחִימַ֡עַץ רָאִיתִי֩ הֶהָמ֨וֹן הַגָּד֜וֹל לִ֠שְׁלֹחַ אֶת־ עֶ֨בֶד הַמֶּ֤לֶךְ יוֹאָב֙ וְאֶת־ עַבְדֶּ֔ךָ וְלֹ֥א יָדַ֖עְתִּי מָֽה׃"
+pericope: "[[2Sam.18.19 David Mourns for Absalom|David Mourns for Absalom]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 18
+book/chapter: "[[2Sam.18|2 Samuel 18]]"
+chronological_order: 417
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AHIMAAZ|AHIMAAZ]]"
+- "[[topic CUSHI|CUSHI]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H7965I]]"
+- "[[H9005]]"
+- "[[H5288]]"
+- "[[H0053]]"
+- "[[H0290H]]"
+- "[[H7200G]]"
+- "[[H1995A]]"
+- "[[H1419A]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H3097G]]"
+- "[[H9002]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H4100]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 18:29**<big><big>[[2Sam.18.19 David Mourns for Absalom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king said, [Is] the young man Absalom safe? And Ahimaaz answered, When Joab sent the king’s servant, and [me] thy servant, I saw a great tumult, but I knew not what [it was].
 <small><sub>**BSB:**</sub></small>
 The king asked, “Is the young man Absalom all right?” And Ahimaaz replied, “When Joab sent the king’s servant and your servant, I saw a great tumult, but I do not know what it was.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H7965I\|שָׁל֥וֹם]] [[H9005\|לַ]][[H5288\|נַּ֖עַר]] [[H9005\|לְ]][[H0053\|אַבְשָׁל֑וֹם]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0290H\|אֲחִימַ֡עַץ]] [[H7200G\|רָאִיתִי֩]] [[H9009\|הֶ]][[H1995A\|הָמ֨וֹן]] [[H9009\|הַ]][[H1419A\|גָּד֜וֹל]] [[H9005\|לִ֠]][[H7971G\|שְׁלֹחַ]] [[H0853\|אֶת]][[H9014\|־]] [[H5650\|עֶ֨בֶד]] [[H9009\|הַ]][[H4428G\|מֶּ֤לֶךְ]] [[H3097G\|יוֹאָב֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5650\|עַבְדֶּ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3045\|יָדַ֖עְתִּי]] [[H4100\|מָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIMAAZ|AHIMAAZ]] • [[topic CUSHI|CUSHI]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.18.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.28|<< 2 Samuel 18:28]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.30|2 Samuel 18:30 >>]]</td></tr></table>
 

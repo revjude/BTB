@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Living for God’s Glory
+type: Pericope
 pericope: "[[1Pet.4.1 Living for God’s Glory|Living for God’s Glory]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: 1 Peter
 chapter: 4
 book/chapter: "[[1Pet.4|1 Peter 4]]"
-genre:
+chronological_order: 1138
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
 - epistle
 - general epistle
 - circular letter
 - persecution literature
+verse_count: 11
 verses:
 - "[[1Pet.4.1]]"
 - "[[1Pet.4.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[1Pet.4.11]]"
 ---
 
-[[1Pet.4|1 Peter 4:1 - 1 Peter 4:11]]
+<small>[[1Pet.4|1 Peter 4:1-11]]</small>
 *Living for God’s Glory*
 
 [[1Pet.4.1|1]] Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;

@@ -1,8 +1,73 @@
+---
+title: 2 Kings 20:9
+type: Verse
+kjv: "And Isaiah said, This sign shalt thou have of the LORD, that the LORD will do the thing that he hath spoken: shall the shadow go forward ten degrees, or go back ten degrees?"
+bsb: "And Isaiah had replied, “This will be a sign to you from the LORD that He will do what He has promised: Would you like the shadow to go forward ten steps, or back ten steps?”"
+hebrew: "וַיֹּ֣אמֶר יְשַׁעְיָ֗הוּ זֶה־ לְּךָ֤ הָאוֹת֙ מֵאֵ֣ת יְהוָ֔ה כִּ֚י יַעֲשֶׂ֣ה יְהוָ֔ה אֶת־ הַדָּבָ֖ר אֲשֶׁ֣ר דִּבֵּ֑ר הָלַ֤ךְ הַצֵּל֙ עֶ֣שֶׂר מַֽעֲל֔וֹת אִם־ יָשׁ֖וּב עֶ֥שֶׂר מַעֲלֽוֹת׃"
+pericope: "[[2Kgs.20.1 Hezekiah’s Illness and Recovery|Hezekiah’s Illness and Recovery]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 20
+book/chapter: "[[2Kgs.20|2 Kings 20]]"
+chronological_order: 658
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DEGREES|DEGREES]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TIME|TIME]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3470A]]"
+- "[[H2088]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9009]]"
+- "[[H0226G]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H1697I]]"
+- "[[H0834A]]"
+- "[[H1696I]]"
+- "[[H1980G]]"
+- "[[H6738]]"
+- "[[H6235]]"
+- "[[H4609B]]"
+- "[[H0518A]]"
+- "[[H7725G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 20:9**<big><big>[[2Kgs.20.1 Hezekiah’s Illness and Recovery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Isaiah said, This sign shalt thou have of the LORD, that the LORD will do the thing that he hath spoken: shall the shadow go forward ten degrees, or go back ten degrees?
 <small><sub>**BSB:**</sub></small>
 And Isaiah had replied, “This will be a sign to you from the LORD that He will do what He has promised: Would you like the shadow to go forward ten steps, or back ten steps?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3470A\|יְשַׁעְיָ֗הוּ]] [[H2088\|זֶה]][[H9014\|־]] [[H9005\|לְּ]][[H9031\|ךָ֤]] [[H9009\|הָ]][[H0226G\|אוֹת֙]] [[H9006\|מֵ]][[H0854\|אֵ֣ת]] [[H3068G\|יְהוָ֔ה]] [[H3588A\|כִּ֚י]] [[H6213A\|יַעֲשֶׂ֣ה]] [[H3068G\|יְהוָ֔ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דָּבָ֖ר]] [[H0834A\|אֲשֶׁ֣ר]] [[H1696I\|דִּבֵּ֑ר]] [[H1980G\|הָלַ֤ךְ]] [[H9009\|הַ]][[H6738\|צֵּל֙]] [[H6235\|עֶ֣שֶׂר]] [[H4609B\|מַֽעֲל֔וֹת]] [[H0518A\|אִם]][[H9014\|־]] [[H7725G\|יָשׁ֖וּב]] [[H6235\|עֶ֥שֶׂר]] [[H4609B\|מַעֲלֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEGREES|DEGREES]] • [[topic DISEASE|DISEASE]] • [[topic FAITH|FAITH]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic ISAIAH|ISAIAH]] • [[topic MIRACLES|MIRACLES]] • [[topic RULERS|RULERS]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TIME|TIME]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.20.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.20.8|<< 2 Kings 20:8]]</td><td align="center" style="border:none;">[[2Kgs.20|2 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.20.10|2 Kings 20:10 >>]]</td></tr></table>
 

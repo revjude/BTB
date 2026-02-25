@@ -1,10 +1,59 @@
+---
+title: Acts 2:15
+type: Verse
+kjv: "For these are not drunken, as ye suppose, seeing it is but the third hour of the day."
+bsb: "These men are not drunk, as you suppose. It is only the third hour of the day!"
+greek: "οὐ γὰρ ὡς ὑμεῖς ὑπολαμβάνετε οὗτοι μεθύουσιν, ἔστιν γὰρ ὥρα τρίτη τῆς ἡμέρας,"
+pericope: "[[Acts.2.14 Peter Addresses the Crowd|Peter Addresses the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic TONGUE|TONGUE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G5613]]"
+- "[[G4771]]"
+- "[[G5274]]"
+- "[[G3778]]"
+- "[[G3184]]"
+- "[[G1510]]"
+- "[[G5610]]"
+- "[[G5154]]"
+- "[[G3588]]"
+- "[[G2250]]"
+texts:
+- NKO
+---
+
 **Acts 2:15**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For these are not drunken, as ye suppose, seeing it is [but] the third hour of the day.
 <small><sub>**BSB:**</sub></small>
 These men are not drunk, as you suppose. It is only the third hour of the day!
-<small><sub>**Literal:**</sub></small>
-Not for as you yourselves suppose these are drunkards, it is for [the] hour third of the day,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.14|<< Acts 2:14]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.16|Acts 2:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G5613\|ὡς]]  [[G4771\|ὑμεῖς]]  [[G5274\|ὑπολαμβάνετε]]  [[G3778\|οὗτοι]]  [[G3184\|μεθύουσιν,]]  [[G1510\|ἔστιν]]  [[G1063\|γὰρ]]  [[G5610\|ὥρα]]  [[G5154\|τρίτη]]  [[G3588\|τῆς]]  [[G2250\|ἡμέρας,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRUNKENNESS|DRUNKENNESS]] • [[topic ORATOR|ORATOR]] • [[topic PETER|PETER]] • [[topic PREACHING|PREACHING]] • [[topic PROPHECY|PROPHECY]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REVIVALS|REVIVALS]] • [[topic TONGUE|TONGUE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.14|<< Acts 2:14]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.16|Acts 2:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

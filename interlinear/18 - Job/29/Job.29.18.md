@@ -1,8 +1,55 @@
+---
+title: Job 29:18
+type: Verse
+kjv: "Then I said, I shall die in my nest, and I shall multiply my days as the sand."
+bsb: "So I thought: ‘I will die in my nest and multiply my days as the sand."
+hebrew: "וָ֭אֹמַר עִם־ קִנִּ֣י אֶגְוָ֑ע וְ֝כַח֗וֹל אַרְבֶּ֥ה יָמִֽים׃"
+pericope: "[[Job.29.1 Job’s Former Blessings|Job’s Former Blessings]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 29
+book/chapter: "[[Job.29|Job 29]]"
+chronological_order: 40
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic SECURITY|SECURITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H7064]]"
+- "[[H9020]]"
+- "[[H1478]]"
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H2344]]"
+- "[[H7235A]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 29:18**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I said, I shall die in my nest, and I shall multiply [my] days as the sand.
 <small><sub>**BSB:**</sub></small>
 So I thought: ‘I will die in my nest and multiply my days as the sand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ֭]][[H0559\|אֹמַר]] [[H5973A\|עִם]][[H9014\|־]] [[H7064\|קִנִּ֣]][[H9020\|י]] [[H1478\|אֶגְוָ֑ע]] [[H9002\|וְ֝]][[H9004\|כַ]][[H2344\|ח֗וֹל]] [[H7235A\|אַרְבֶּ֥ה]] [[H3117G\|יָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic SECURITY|SECURITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.17|<< Job 29:17]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.19|Job 29:19 >>]]</td></tr></table>
 

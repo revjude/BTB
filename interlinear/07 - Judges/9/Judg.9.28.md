@@ -1,8 +1,73 @@
+---
+title: Judges 9:28
+type: Verse
+kjv: "And Gaal the son of Ebed said, Who is Abimelech, and who is Shechem, that we should serve him? is not he the son of Jerubbaal? and Zebul his officer? serve the men of Hamor the father of Shechem: for why should we serve him?"
+bsb: "Then Gaal son of Ebed said, “Who is Abimelech, and who is Shechem, that we should serve him? Is he not the son of Jerubbaal, and is not Zebul his officer? You are to serve the men of Hamor, the father of Shechem. Why should we serve Abimelech?"
+hebrew: "וַיֹּ֣אמֶר׀ גַּ֣עַל בֶּן־ עֶ֗בֶד מִֽי־ אֲבִימֶ֤לֶךְ וּמִֽי־ שְׁכֶם֙ כִּ֣י נַעַבְדֶ֔נּוּ הֲלֹ֥א בֶן־ יְרֻבַּ֖עַל וּזְבֻ֣ל פְּקִיד֑וֹ עִבְד֗וּ אֶת־ אַנְשֵׁ֤י חֲמוֹר֙ אֲבִ֣י שְׁכֶ֔ם וּמַדּ֖וּעַ נַעַבְדֶ֥נּוּ אֲנָֽחְנוּ׃"
+pericope: "[[Judg.9.22 Gaal Conspires with the Shechemites|Gaal Conspires with the Shechemites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic EBED|EBED]]"
+- "[[topic GAAL|GAAL]]"
+- "[[topic HAMOR|HAMOR]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic SHECHEM|SHECHEM]]"
+- "[[topic ZEBUL|ZEBUL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9015]]"
+- "[[H1603]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5651G]]"
+- "[[H4310]]"
+- "[[H0040H]]"
+- "[[H9002]]"
+- "[[H7927G]]"
+- "[[H3588A]]"
+- "[[H5647G]]"
+- "[[H9033]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H3378]]"
+- "[[H2083]]"
+- "[[H6496]]"
+- "[[H9023]]"
+- "[[H0853]]"
+- "[[H0582]]"
+- "[[H2544]]"
+- "[[H0001G]]"
+- "[[H4069]]"
+- "[[H0587]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 9:28**<big><big>[[Judg.9.22 Gaal Conspires with the Shechemites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Gaal the son of Ebed said, Who [is] Abimelech, and who [is] Shechem, that we should serve him? [is] not [he] the son of Jerubbaal? and Zebul his officer? serve the men of Hamor the father of Shechem: for why should we serve him?
 <small><sub>**BSB:**</sub></small>
 Then Gaal son of Ebed said, “Who is Abimelech, and who is Shechem, that we should serve him? Is he not the son of Jerubbaal, and is not Zebul his officer? You are to serve the men of Hamor, the father of Shechem. Why should we serve Abimelech?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]][[H9015\|׀]] [[H1603\|גַּ֣עַל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5651G\|עֶ֗בֶד]] [[H4310\|מִֽי]][[H9014\|־]] [[H0040H\|אֲבִימֶ֤לֶךְ]] [[H9002\|וּ]][[H4310\|מִֽי]][[H9014\|־]] [[H7927G\|שְׁכֶם֙]] [[H3588A\|כִּ֣י]] [[H5647G\|נַעַבְדֶ֔]][[H9033\|נּוּ]] [[H9008\|הֲ]][[H3808\|לֹ֥א]] [[H1121A\|בֶן]][[H9014\|־]] [[H3378\|יְרֻבַּ֖עַל]] [[H9002\|וּ]][[H2083\|זְבֻ֣ל]] [[H6496\|פְּקִיד֑]][[H9023\|וֹ]] [[H5647G\|עִבְד֗וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0582\|אַנְשֵׁ֤י]] [[H2544\|חֲמוֹר֙]] [[H0001G\|אֲבִ֣י]] [[H7927G\|שְׁכֶ֔ם]] [[H9002\|וּ]][[H4069\|מַדּ֖וּעַ]] [[H5647G\|נַעַבְדֶ֥]][[H9033\|נּוּ]] [[H0587\|אֲנָֽחְנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSPIRACY|CONSPIRACY]] • [[topic EBED|EBED]] • [[topic GAAL|GAAL]] • [[topic HAMOR|HAMOR]] • [[topic JUDGE|JUDGE]] • [[topic SHECHEM|SHECHEM]] • [[topic ZEBUL|ZEBUL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.27|<< Judges 9:27]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.29|Judges 9:29 >>]]</td></tr></table>
 

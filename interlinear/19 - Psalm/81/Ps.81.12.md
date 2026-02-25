@@ -1,8 +1,56 @@
+---
+title: Psalm 81:12
+type: Verse
+kjv: "So I gave them up unto their own hearts’ lust: and they walked in their own counsels."
+bsb: "So I gave them up to their stubborn hearts to follow their own devices."
+hebrew: "וָֽ֭אֲשַׁלְּחֵהוּ בִּשְׁרִיר֣וּת לִבָּ֑ם יֵ֝לְכ֗וּ בְּֽמוֹעֲצוֹתֵיהֶֽם׃"
+pericope: "[[Ps.81.1 Sing for Joy to God Our Strength|Sing for Joy to God Our Strength]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 81
+book/chapter: "[[Ps.81|Psalm 81]]"
+chronological_order: 511
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic LUST|LUST]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971H]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H8307]]"
+- "[[H3820A]]"
+- "[[H9028]]"
+- "[[H1980N]]"
+- "[[H4156]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 81:12**<big><big>[[Ps.81.1 Sing for Joy to God Our Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So I gave them up unto their own hearts’ lust: [and] they walked in their own counsels.
 <small><sub>**BSB:**</sub></small>
 So I gave them up to their stubborn hearts to follow their own devices.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָֽ֭]][[H7971H\|אֲשַׁלְּחֵ]][[H9033\|הוּ]] [[H9003\|בִּ]][[H8307\|שְׁרִיר֣וּת]] [[H3820A\|לִבָּ֑]][[H9028\|ם]] [[H1980N\|יֵ֝לְכ֗וּ]] [[H9003\|בְּֽ]][[H4156\|מוֹעֲצוֹתֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMPENITENCE|IMPENITENCE]] • [[topic LUST|LUST]] • [[topic REPROBACY|REPROBACY]] • [[topic SELF-DELUSION|SELF-DELUSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.81.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.81.11|<< Psalms 81:11]]</td><td align="center" style="border:none;">[[Ps.81|Psalms 81]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.81.13|Psalms 81:13 >>]]</td></tr></table>
 

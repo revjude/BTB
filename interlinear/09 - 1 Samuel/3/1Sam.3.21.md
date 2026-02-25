@@ -1,8 +1,56 @@
+---
+title: 1 Samuel 3:21
+type: Verse
+kjv: "And the LORD appeared again in Shiloh: for the LORD revealed himself to Samuel in Shiloh by the word of the LORD."
+bsb: "And the LORD continued to appear at Shiloh, because there He revealed Himself to Samuel by His word."
+hebrew: "וַיֹּ֥סֶף יְהוָ֖ה לְהֵרָאֹ֣ה בְשִׁלֹ֑ה כִּֽי־ נִגְלָ֨ה יְהוָ֧ה אֶל־ שְׁמוּאֵ֛ל בְּשִׁל֖וֹ בִּדְבַ֥ר יְהוָֽה׃ פ"
+pericope: "[[1Sam.3.15 Samuel Shares the Vision|Samuel Shares the Vision]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 3
+book/chapter: "[[1Sam.3|1 Samuel 3]]"
+chronological_order: 282
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H3254G]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H7887]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1540H]]"
+- "[[H0413]]"
+- "[[H8050G]]"
+- "[[H1697G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Samuel 3:21**<big><big>[[1Sam.3.15 Samuel Shares the Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD appeared again in Shiloh: for the LORD revealed himself to Samuel in Shiloh by the word of the LORD.
 <small><sub>**BSB:**</sub></small>
 And the LORD continued to appear at Shiloh, because there He revealed Himself to Samuel by His word.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3254G\|יֹּ֥סֶף]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לְ]][[H7200G\|הֵרָאֹ֣ה]] [[H9003\|בְ]][[H7887\|שִׁלֹ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1540H\|נִגְלָ֨ה]] [[H3068G\|יְהוָ֧ה]] [[H0413\|אֶל]][[H9014\|־]] [[H8050G\|שְׁמוּאֵ֛ל]] [[H9003\|בְּ]][[H7887\|שִׁל֖וֹ]] [[H9003\|בִּ]][[H1697G\|דְבַ֥ר]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHETS|PROPHETS]] • [[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.3.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.3.20|<< 1 Samuel 3:20]]</td><td align="center" style="border:none;">[[1Sam.3|1 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.4.1|1 Samuel 4:1 >>]]</td></tr></table>
 
@@ -19,7 +67,7 @@ And the LORD continued to appear at Shiloh, because there He revealed Himself to
 | Samuel  |**<big>&#8207;[[H8050G\|שְׁמוּאֵ֛ל]]&#8207; </big>**| she.mu.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at Shiloh  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7887\|שִׁל֖וֹ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> shi.Lo<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by [the] word of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H1697G\|דְבַ֥ר]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> d.Var<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.3.20|<< 1 Samuel 3:20]]</td><td align="center" style="border:none;">[[1Sam.3|1 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.4.1|1 Samuel 4:1 >>]]</td></tr></table>
 
 

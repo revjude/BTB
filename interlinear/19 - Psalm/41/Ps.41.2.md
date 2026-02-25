@@ -1,8 +1,64 @@
+---
+title: Psalm 41:2
+type: Verse
+kjv: "The LORD will preserve him, and keep him alive; and he shall be blessed upon the earth: and thou wilt not deliver him unto the will of his enemies."
+bsb: "The LORD will protect and preserve him; He will bless him in the land and refuse to give him over to the will of his foes."
+hebrew: "יְהוָ֤ה׀ יִשְׁמְרֵ֣הוּ וִֽ֭יחַיֵּהוּ וְאֻשַּׁ֣ר בָּאָ֑רֶץ וְאַֽל־ תִּ֝תְּנֵ֗הוּ בְּנֶ֣פֶשׁ אֹיְבָֽיו׃"
+pericope: "[[Ps.41.1 Victory over Betrayal|Victory over Betrayal]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 41
+book/chapter: "[[Ps.41|Psalm 41]]"
+chronological_order: 368
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H8104H]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H2421]]"
+- "[[H0833]]"
+- "[[H9001]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H5315L]]"
+- "[[H0341]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Psalms 41:2**<big><big>[[Ps.41.1 Victory over Betrayal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD will preserve him, and keep him alive; [and] he shall be blessed upon the earth: and thou wilt not deliver him unto the will of his enemies.
 <small><sub>**BSB:**</sub></small>
 The LORD will protect and preserve him; He will bless him in the land and refuse to give him over to the will of his foes.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֤ה]][[H9015\|׀]] [[H8104H\|יִשְׁמְרֵ֣]][[H9033\|הוּ]] [[H9002\|וִֽ֭]][[H2421\|יחַיֵּ]][[H9033\|הוּ]] [[H9001\|וְ]][[H0833\|אֻשַּׁ֣ר]] [[H9003\|בָּ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H0408\|אַֽל]][[H9014\|־]] [[H5414G\|תִּ֝תְּנֵ֗]][[H9033\|הוּ]] [[H9003\|בְּ]][[H5315L\|נֶ֣פֶשׁ]] [[H0341\|אֹיְבָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic LIBERALITY|LIBERALITY]] • [[topic POOR|POOR]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.41.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.41.1|<< Psalms 41:1]]</td><td align="center" style="border:none;">[[Ps.41|Psalms 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.41.3|Psalms 41:3 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Psalm 66:6
+type: Verse
+kjv: "He turned the sea into dry land: they went through the flood on foot: there did we rejoice in him."
+bsb: "He turned the sea into dry land; they passed through the waters on foot; there we rejoiced in Him."
+hebrew: "הָ֤פַךְ יָ֨ם׀ לְֽיַבָּשָׁ֗ה בַּ֭נָּהָר יַֽעַבְר֣וּ בְרָ֑גֶל שָׁ֝֗ם נִשְׂמְחָה־ בּֽוֹ׃"
+pericope: "[[Ps.66.1 Make a Joyful Noise|Make a Joyful Noise]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 66
+book/chapter: "[[Ps.66|Psalm 66]]"
+chronological_order: 426
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic RED SEA|RED SEA]]"
+strongs:
+- "[[H2015]]"
+- "[[H3220G]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H3004]]"
+- "[[H9003]]"
+- "[[H5104H]]"
+- "[[H5674A]]"
+- "[[H7272]]"
+- "[[H8033G]]"
+- "[[H8055]]"
+- "[[H9014]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 66:6**<big><big>[[Ps.66.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He turned the sea into dry [land]: they went through the flood on foot: there did we rejoice in him.
 <small><sub>**BSB:**</sub></small>
 He turned the sea into dry land; they passed through the waters on foot; there we rejoiced in Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H2015\|הָ֤פַךְ]] [[H3220G\|יָ֨ם]][[H9015\|׀]] [[H9005\|לְֽ]][[H3004\|יַבָּשָׁ֗ה]] [[H9003\|בַּ֭]][[H5104H\|נָּהָר]] [[H5674A\|יַֽעַבְר֣וּ]] [[H9003\|בְ]][[H7272\|רָ֑גֶל]] [[H8033G\|שָׁ֝֗ם]] [[H8055\|נִשְׂמְחָה]][[H9014\|־]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RED SEA|RED SEA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.5|<< Psalms 66:5]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.7|Psalms 66:7 >>]]</td></tr></table>
 

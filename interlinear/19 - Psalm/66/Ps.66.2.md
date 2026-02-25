@@ -1,8 +1,51 @@
+---
+title: Psalm 66:2
+type: Verse
+kjv: "Sing forth the honour of his name: make his praise glorious."
+bsb: "Sing the glory of His name; make His praise glorious."
+hebrew: "זַמְּר֥וּ כְבֽוֹד־ שְׁמ֑וֹ שִׂ֥ימוּ כָ֝ב֗וֹד תְּהִלָּתֽוֹ׃"
+pericope: "[[Ps.66.1 Make a Joyful Noise|Make a Joyful Noise]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 66
+book/chapter: "[[Ps.66|Psalm 66]]"
+chronological_order: 426
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H2167]]"
+- "[[H3519]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H7760H]]"
+- "[[H8416]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 66:2**<big><big>[[Ps.66.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sing forth the honour of his name: make his praise glorious.
 <small><sub>**BSB:**</sub></small>
 Sing the glory of His name; make His praise glorious.
+<small><sub>**Hebrew:**</sub></small>
+[[H2167\|זַמְּר֥וּ]] [[H3519\|כְבֽוֹד]][[H9014\|־]] [[H8034\|שְׁמ֑]][[H9023\|וֹ]] [[H7760H\|שִׂ֥ימוּ]] [[H3519\|כָ֝ב֗וֹד]] [[H8416\|תְּהִלָּתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.1|<< Psalms 66:1]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.3|Psalms 66:3 >>]]</td></tr></table>
 

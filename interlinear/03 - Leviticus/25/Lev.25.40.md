@@ -1,8 +1,62 @@
+---
+title: Leviticus 25:40
+type: Verse
+kjv: "But as an hired servant, and as a sojourner, he shall be with thee, and shall serve thee unto the year of jubile:"
+bsb: "Let him stay with you as a hired worker or temporary resident; he is to work for you until the Year of Jubilee."
+hebrew: "כְּשָׂכִ֥יר כְּתוֹשָׁ֖ב יִהְיֶ֣ה עִמָּ֑ךְ עַד־ שְׁנַ֥ת הַיֹּבֵ֖ל יַעֲבֹ֥ד עִמָּֽךְ׃"
+pericope: "[[Lev.25.39 Redemption of Bondmen|Redemption of Bondmen]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9004]]"
+- "[[H7916]]"
+- "[[H8453A]]"
+- "[[H1961]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H3104]]"
+- "[[H5647G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:40**<big><big>[[Lev.25.39 Redemption of Bondmen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [But] as an hired servant, [and] as a sojourner, he shall be with thee, [and] shall serve thee unto the year of jubile:
 <small><sub>**BSB:**</sub></small>
 Let him stay with you as a hired worker or temporary resident; he is to work for you until the Year of Jubilee.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּ]][[H7916\|שָׂכִ֥יר]] [[H9004\|כְּ]][[H8453A\|תוֹשָׁ֖ב]] [[H1961\|יִהְיֶ֣ה]] [[H5973A\|עִמָּ֑]][[H9032\|ךְ]] [[H5704\|עַד]][[H9014\|־]] [[H8141\|שְׁנַ֥ת]] [[H9009\|הַ]][[H3104\|יֹּבֵ֖ל]] [[H5647G\|יַעֲבֹ֥ד]] [[H5973A\|עִמָּֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic DEBTOR|DEBTOR]] • [[topic JUBILEE|JUBILEE]] • [[topic POOR|POOR]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.39|<< Leviticus 25:39]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.41|Leviticus 25:41 >>]]</td></tr></table>
 

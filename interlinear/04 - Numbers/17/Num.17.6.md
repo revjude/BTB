@@ -1,8 +1,70 @@
+---
+title: Numbers 17:6
+type: Verse
+kjv: "And Moses spake unto the children of Israel, and every one of their princes gave him a rod apiece, for each prince one, according to their fathers’ houses, even twelve rods: and the rod of Aaron was among their rods."
+bsb: "So Moses spoke to the Israelites, and each of their leaders gave him a staff—one for each of the leaders of their tribes, twelve staffs in all. And Aaron’s staff was among them."
+hebrew: "וַיְדַבֵּ֨ר מֹשֶׁ֜ה אֶל־ בְּנֵ֣י יִשְׂרָאֵ֗ל וַיִּתְּנ֣וּ אֵלָ֣יו׀ כָּֽל־ נְשִֽׂיאֵיהֶ֡ם מַטֶּה֩ לְנָשִׂ֨יא אֶחָ֜ד מַטֶּ֨ה לְנָשִׂ֤יא אֶחָד֙ לְבֵ֣ית אֲבֹתָ֔ם שְׁנֵ֥ים עָשָׂ֖ר מַטּ֑וֹת וּמַטֵּ֥ה אַהֲרֹ֖ן בְּת֥וֹךְ מַטּוֹתָֽם׃"
+pericope: "[[Num.17.1 Aaron’s Staff Buds|Aaron’s Staff Buds]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 17
+book/chapter: "[[Num.17|Numbers 17]]"
+chronological_order: 177
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H4872]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H5414G]]"
+- "[[H9033]]"
+- "[[H9015]]"
+- "[[H3605]]"
+- "[[H5387A]]"
+- "[[H9028]]"
+- "[[H4294G]]"
+- "[[H9005]]"
+- "[[H0259]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 17:6**<big><big>[[Num.17.1 Aaron’s Staff Buds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses spake unto the children of Israel, and every one of their princes gave him a rod apiece, for each prince one, according to their fathers’ houses, [even] twelve rods: and the rod of Aaron [was] among their rods.
 <small><sub>**BSB:**</sub></small>
 So Moses spoke to the Israelites, and each of their leaders gave him a staff—one for each of the leaders of their tribes, twelve staffs in all. And Aaron’s staff was among them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֨ר]] [[H4872\|מֹשֶׁ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9001\|וַ]][[H5414G\|יִּתְּנ֣וּ]] [[H0413\|אֵלָ֣י]][[H9033\|ו]][[H9015\|׀]] [[H3605\|כָּֽל]][[H9014\|־]] [[H5387A\|נְשִֽׂיאֵי]][[H9028\|הֶ֡ם]] [[H4294G\|מַטֶּה֩]] [[H9005\|לְ]][[H5387A\|נָשִׂ֨יא]] [[H0259\|אֶחָ֜ד]] [[H4294G\|מַטֶּ֨ה]] [[H9005\|לְ]][[H5387A\|נָשִׂ֤יא]] [[H0259\|אֶחָד֙]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H0001G\|אֲבֹתָ֔]][[H9028\|ם]] [[H8147\|שְׁנֵ֥ים]] [[H6240\|עָשָׂ֖ר]] [[H4294G\|מַטּ֑וֹת]] [[H9002\|וּ]][[H4294G\|מַטֵּ֥ה]] [[H0175\|אַהֲרֹ֖ן]] [[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H4294G\|מַטּוֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.17.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.17.5|<< Numbers 17:5]]</td><td align="center" style="border:none;">[[Num.17|Numbers 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.17.7|Numbers 17:7 >>]]</td></tr></table>
 

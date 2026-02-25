@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 1:36
+type: Verse
+kjv: "Save Caleb the son of Jephunneh; he shall see it, and to him will I give the land that he hath trodden upon, and to his children, because he hath wholly followed the LORD."
+bsb: "except Caleb son of Jephunneh. He will see it, and I will give him and his descendants the land on which he has set foot, because he followed the LORD wholeheartedly.”"
+hebrew: "זֽוּלָתִ֞י כָּלֵ֤ב בֶּן־ יְפֻנֶּה֙ ה֣וּא יִרְאֶ֔נָּה וְלֽוֹ־ אֶתֵּ֧ן אֶת־ הָאָ֛רֶץ אֲשֶׁ֥ר דָּֽרַךְ־ בָּ֖הּ וּלְבָנָ֑יו יַ֕עַן אֲשֶׁ֥ר מִלֵּ֖א אַחֲרֵ֥י יְהוָֽה׃"
+pericope: "[[Deut.1.34 Israel’s Penalty|Israel’s Penalty]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CALEB|CALEB]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H2108]]"
+- "[[H3612G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3312G]]"
+- "[[H1931]]"
+- "[[H7200G]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H1869]]"
+- "[[H9003]]"
+- "[[H1121G]]"
+- "[[H9023]]"
+- "[[H3282]]"
+- "[[H4390]]"
+- "[[H0310A]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:36**<big><big>[[Deut.1.34 Israel’s Penalty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Save Caleb the son of Jephunneh; he shall see it, and to him will I give the land that he hath trodden upon, and to his children, because he hath wholly followed the LORD.
 <small><sub>**BSB:**</sub></small>
 except Caleb son of Jephunneh. He will see it, and I will give him and his descendants the land on which he has set foot, because he followed the LORD wholeheartedly.”
+<small><sub>**Hebrew:**</sub></small>
+[[H2108\|זֽוּלָתִ֞י]] [[H3612G\|כָּלֵ֤ב]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3312G\|יְפֻנֶּה֙]] [[H1931\|ה֣וּא]] [[H7200G\|יִרְאֶ֔]][[H9034\|נָּה]] [[H9002\|וְ]][[H9005\|לֽ]][[H9033\|וֹ]][[H9014\|־]] [[H5414G\|אֶתֵּ֧ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֛רֶץ]] [[H0834A\|אֲשֶׁ֥ר]] [[H1869\|דָּֽרַךְ]][[H9014\|־]] [[H9003\|בָּ֖]][[H9034\|הּ]] [[H9002\|וּ]][[H9005\|לְ]][[H1121G\|בָנָ֑י]][[H9023\|ו]] [[H3282\|יַ֕עַן]] [[H0834A\|אֲשֶׁ֥ר]] [[H4390\|מִלֵּ֖א]] [[H0310A\|אַחֲרֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALEB|CALEB]] • [[topic DECISION|DECISION]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.35|<< Deuteronomy 1:35]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.37|Deuteronomy 1:37 >>]]</td></tr></table>
 

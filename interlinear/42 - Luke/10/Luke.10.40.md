@@ -1,10 +1,72 @@
+---
+title: Luke 10:40
+type: Verse
+kjv: "But Martha was cumbered about much serving, and came to him, and said, Lord, dost thou not care that my sister hath left me to serve alone? bid her therefore that she help me."
+bsb: "But Martha was distracted by all the preparations to be made. She came to Jesus and said, “Lord, do You not care that my sister has left me to serve alone? Tell her to help me!”"
+greek: "ἡ δὲ Μάρθα περιεσπᾶτο περὶ πολλὴν διακονίαν. ἐπιστᾶσα δὲ εἶπεν· κύριε, οὐ μέλει σοι ὅτι ἡ ἀδελφή μου μόνην με κατέλιπεν διακονεῖν; εἰπὲ οὖν αὐτῇ ἵνα μοι συναντιλάβηται.¶"
+pericope: "[[Luke.10.38 Martha and Mary|Martha and Mary]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 10
+book/chapter: "[[Luke.10|Luke 10]]"
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BETHANY|BETHANY]]"
+- "[[topic CARE|CARE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARTHA|MARTHA]]"
+- "[[topic MARY|MARY]]"
+- "[[topic MURMURING|MURMURING]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3136]]"
+- "[[G4049]]"
+- "[[G4012]]"
+- "[[G4183]]"
+- "[[G1248]]"
+- "[[G2186]]"
+- "[[G2036]]"
+- "[[G2962G]]"
+- "[[G3756]]"
+- "[[G3199]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G0079]]"
+- "[[G3165]]"
+- "[[G3441]]"
+- "[[G2641]]"
+- "[[G1247]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G4878]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Luke 10:40**<big><big>[[Luke.10.38 Martha and Mary|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Martha was cumbered about much serving, and came to him, and said, Lord, dost thou not care that my sister hath left me to serve alone? bid her therefore that she help me.
 <small><sub>**BSB:**</sub></small>
 But Martha was distracted by all the preparations to be made. She came to Jesus and said, “Lord, do You not care that my sister has left me to serve alone? Tell her to help me!”
-<small><sub>**Literal:**</sub></small>
-<the> But Martha was distracted about much service. having come up now she said; Lord, not is it concerning to You that the sister of mine alone me has left to serve? do speak therefore to her that me she may help!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.39|<< Luke 10:39]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.41|Luke 10:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G1161\|δὲ]]  [[G3136\|Μάρθα]]  [[G4049\|περιεσπᾶτο]]  [[G4012\|περὶ]]  [[G4183\|πολλὴν]]  [[G1248\|διακονίαν.]]  [[G2186\|ἐπιστᾶσα]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν·]]  [[G2962G\|κύριε,]]  [[G3756\|οὐ]]  [[G3199\|μέλει]]  [[G4771\|σοι]]  [[G3754G\|ὅτι]]  [[G3588\|ἡ]]  [[G0079\|ἀδελφή]]  [[G3165\|μου]]  [[G3441\|μόνην]]  [[G3165\|με]]  [[G2641\|κατέλιπεν]]  [[G1247\|διακονεῖν;]]  [[G2036\|εἰπὲ]]  [[G3767\|οὖν]]  [[G0846\|αὐτῇ]]  [[G2443\|ἵνα]]  [[G3165\|μοι]]  [[G4878\|συναντιλάβηται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHANY|BETHANY]] • [[topic CARE|CARE]] • [[topic FAITH|FAITH]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARTHA|MARTHA]] • [[topic MARY|MARY]] • [[topic MURMURING|MURMURING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.39|<< Luke 10:39]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.41|Luke 10:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

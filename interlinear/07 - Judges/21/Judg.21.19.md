@@ -1,8 +1,74 @@
+---
+title: Judges 21:19
+type: Verse
+kjv: "Then they said, Behold, there is a feast of the LORD in Shiloh yearly in a place which is on the north side of Bethel, on the east side of the highway that goeth up from Bethel to Shechem, and on the south of Lebonah."
+bsb: "“But look,” they said, “there is a yearly feast to the LORD in Shiloh, which is north of Bethel east of the road that goes up from Bethel to Shechem, and south of Lebonah.”"
+hebrew: "וַיֹּאמְר֡וּ הִנֵּה֩ חַג־ יְהוָ֨ה בְּשִׁל֜וֹ מִיָּמִ֣ים׀ יָמִ֗ימָה אֲשֶׁ֞ר מִצְּפ֤וֹנָה לְבֵֽית־ אֵל֙ מִזְרְחָ֣ה הַשֶּׁ֔מֶשׁ לִמְסִלָּ֔ה הָעֹלָ֥ה מִבֵּֽית־ אֵ֖ל שְׁכֶ֑מָה וּמִנֶּ֖גֶב לִלְבוֹנָֽה׃"
+pericope: "[[Judg.21.1 Wives for the Benjamites|Wives for the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 21
+book/chapter: "[[Judg.21|Judges 21]]"
+chronological_order: 275
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic DANCING|DANCING]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic LEBONAH|LEBONAH]]"
+- "[[topic RASHNESS|RASHNESS]]"
+- "[[topic ROADS|ROADS]]"
+- "[[topic SHECHEM|SHECHEM]]"
+- "[[topic SHILOH|SHILOH]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H2282]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H7887]]"
+- "[[H9006]]"
+- "[[H3117I]]"
+- "[[H9015]]"
+- "[[H9011]]"
+- "[[H0834A]]"
+- "[[H6828G]]"
+- "[[H9005]]"
+- "[[H1008G]]"
+- "[[H4217H]]"
+- "[[H9009]]"
+- "[[H8121]]"
+- "[[H4546]]"
+- "[[H5927G]]"
+- "[[H7927G]]"
+- "[[H9002]]"
+- "[[H5045H]]"
+- "[[H3829]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 21:19**<big><big>[[Judg.21.1 Wives for the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they said, Behold, [there is] a feast of the LORD in Shiloh yearly [in a place] which [is] on the north side of Bethel, on the east side of the highway that goeth up from Bethel to Shechem, and on the south of Lebonah.
 <small><sub>**BSB:**</sub></small>
 “But look,” they said, “there is a yearly feast to the LORD in Shiloh, which is north of Bethel east of the road that goes up from Bethel to Shechem, and south of Lebonah.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֡וּ]] [[H2009\|הִנֵּה֩]] [[H2282\|חַג]][[H9014\|־]] [[H3068G\|יְהוָ֨ה]] [[H9003\|בְּ]][[H7887\|שִׁל֜וֹ]] [[H9006\|מִ]][[H3117I\|יָּמִ֣ים]][[H9015\|׀]] [[H3117I\|יָמִ֗ימָ]][[H9011\|ה]] [[H0834A\|אֲשֶׁ֞ר]] [[H9006\|מִ]][[H6828G\|צְּפ֤וֹנָ]][[H9011\|ה]] [[H9005\|לְ]][[H1008G\|בֵֽית]][[H9014\|־]] [[H1008G\|אֵל֙]] [[H4217H\|מִזְרְחָ֣]][[H9011\|ה]] [[H9009\|הַ]][[H8121\|שֶּׁ֔מֶשׁ]] [[H9005\|לִ]][[H4546\|מְסִלָּ֔ה]] [[H9009\|הָ]][[H5927G\|עֹלָ֥ה]] [[H9006\|מִ]][[H1008G\|בֵּֽית]][[H9014\|־]] [[H1008G\|אֵ֖ל]] [[H7927G\|שְׁכֶ֑מָ]][[H9011\|ה]] [[H9002\|וּ]][[H9006\|מִ]][[H5045H\|נֶּ֖גֶב]] [[H9005\|לִ]][[H3829\|לְבוֹנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DANCING|DANCING]] • [[topic GALILEE|GALILEE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic LEBONAH|LEBONAH]] • [[topic RASHNESS|RASHNESS]] • [[topic ROADS|ROADS]] • [[topic SHECHEM|SHECHEM]] • [[topic SHILOH|SHILOH]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.21.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.18|<< Judges 21:18]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.20|Judges 21:20 >>]]</td></tr></table>
 

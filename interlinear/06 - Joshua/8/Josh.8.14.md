@@ -1,8 +1,75 @@
+---
+title: Joshua 8:14
+type: Verse
+kjv: "And it came to pass, when the king of Ai saw it, that they hasted and rose up early, and the men of the city went out against Israel to battle, he and all his people, at a time appointed, before the plain; but he wist not that there were liers in ambush against him behind the city."
+bsb: "When the king of Ai saw the Israelites, he hurried out early in the morning with the men of the city to engage them in battle at an appointed place overlooking the Arabah. But he did not know that an ambush had been set up against him behind the city."
+hebrew: "וַיְהִ֞י כִּרְא֣וֹת מֶֽלֶךְ־ הָעַ֗י וַֽיְמַהֲר֡וּ וַיַּשְׁכִּ֡ימוּ וַיֵּצְא֣וּ אַנְשֵֽׁי־ הָעִ֣יר לִקְרַֽאת־ יִ֠שְׂרָאֵל לַֽמִּלְחָמָ֞ה ה֧וּא וְכָל־ עַמּ֛וֹ לַמּוֹעֵ֖ד לִפְנֵ֣י הָֽעֲרָבָ֑ה וְהוּא֙ לֹ֣א יָדַ֔ע כִּֽי־ אֹרֵ֥ב ל֖וֹ מֵאַחֲרֵ֥י הָעִֽיר׃"
+pericope: "[[Josh.8.1 The Conquest of Ai|The Conquest of Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 8
+book/chapter: "[[Josh.8|Joshua 8]]"
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMBUSH|AMBUSH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H7200G]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5857G]]"
+- "[[H4116A]]"
+- "[[H7925]]"
+- "[[H3318G]]"
+- "[[H0582]]"
+- "[[H5892B]]"
+- "[[H9005]]"
+- "[[H7122H]]"
+- "[[H3478]]"
+- "[[H4421]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H4150G]]"
+- "[[H6440G]]"
+- "[[H6160G]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0693]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H0310A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 8:14**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when the king of Ai saw [it], that they hasted and rose up early, and the men of the city went out against Israel to battle, he and all his people, at a time appointed, before the plain; but he wist not that [there were] liers in ambush against him behind the city.
 <small><sub>**BSB:**</sub></small>
 When the king of Ai saw the Israelites, he hurried out early in the morning with the men of the city to engage them in battle at an appointed place overlooking the Arabah. But he did not know that an ambush had been set up against him behind the city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֞י]] [[H9004\|כִּ]][[H7200G\|רְא֣וֹת]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H9009\|הָ]][[H5857G\|עַ֗י]] [[H9001\|וַֽ]][[H4116A\|יְמַהֲר֡וּ]] [[H9001\|וַ]][[H7925\|יַּשְׁכִּ֡ימוּ]] [[H9001\|וַ]][[H3318G\|יֵּצְא֣וּ]] [[H0582\|אַנְשֵֽׁי]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H9005\|לִ]][[H7122H\|קְרַֽאת]][[H9014\|־]] [[H3478\|יִ֠שְׂרָאֵל]] [[H9005\|לַֽ]][[H4421\|מִּלְחָמָ֞ה]] [[H1931\|ה֧וּא]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5971A\|עַמּ֛]][[H9023\|וֹ]] [[H9005\|לַ]][[H4150G\|מּוֹעֵ֖ד]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H9009\|הָֽ]][[H6160G\|עֲרָבָ֑ה]] [[H9002\|וְ]][[H1931\|הוּא֙]] [[H3808\|לֹ֣א]] [[H3045\|יָדַ֔ע]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0693\|אֹרֵ֥ב]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9006\|מֵ]][[H0310A\|אַחֲרֵ֥י]] [[H9009\|הָ]][[H5892B\|עִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBUSH|AMBUSH]] • [[topic ARMIES|ARMIES]] • [[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.13|<< Joshua 8:13]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.15|Joshua 8:15 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Futility of Wealth
+type: Pericope
 pericope: "[[Eccl.5.8 The Futility of Wealth|The Futility of Wealth]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Ecclesiastes
 chapter: 5
 book/chapter: "[[Eccl.5|Ecclesiastes 5]]"
-genre:
+chronological_order: 543
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - philosophical
 - megillot
+verse_count: 13
 verses:
 - "[[Eccl.5.8]]"
 - "[[Eccl.5.9]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Eccl.5.20]]"
 ---
 
-[[Eccl.5|Ecclesiastes 5:8 - Ecclesiastes 5:20]]
+<small>[[Eccl.5|Ecclesiastes 5:8-20]]</small>
 *The Futility of Wealth*
 
 [[Eccl.5.8|8]] If thou seest the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for \[he that is\] higher than the highest regardeth; and \[there be\] higher than they.

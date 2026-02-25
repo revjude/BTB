@@ -1,8 +1,69 @@
+---
+title: Leviticus 25:37
+type: Verse
+kjv: "Thou shalt not give him thy money upon usury, nor lend him thy victuals for increase."
+bsb: "You must not lend him your silver at interest or sell him your food for profit."
+hebrew: "אֶ֨ת־ כַּסְפְּךָ֔ לֹֽא־ תִתֵּ֥ן ל֖וֹ בְּנֶ֑שֶׁךְ וּבְמַרְבִּ֖ית לֹא־ תִתֵּ֥ן אָכְלֶֽךָ׃"
+pericope: "[[Lev.25.35 Redemption of the Poor|Redemption of the Poor]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic INTEREST|INTEREST]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STRANGERS|STRANGERS]]"
+- "[[topic USURY|USURY]]"
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3701G]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H5392]]"
+- "[[H9002]]"
+- "[[H4768]]"
+- "[[H0400]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:37**<big><big>[[Lev.25.35 Redemption of the Poor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not give him thy money upon usury, nor lend him thy victuals for increase.
 <small><sub>**BSB:**</sub></small>
 You must not lend him your silver at interest or sell him your food for profit.
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶ֨ת]][[H9014\|־]] [[H3701G\|כַּסְפְּ]][[H9021\|ךָ֔]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5414G\|תִתֵּ֥ן]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9003\|בְּ]][[H5392\|נֶ֑שֶׁךְ]] [[H9002\|וּ]][[H9003\|בְ]][[H4768\|מַרְבִּ֖ית]] [[H3808\|לֹא]][[H9014\|־]] [[H5414G\|תִתֵּ֥ן]] [[H0400\|אָכְלֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic CREDITOR|CREDITOR]] • [[topic DEBTOR|DEBTOR]] • [[topic INTEREST|INTEREST]] • [[topic JUBILEE|JUBILEE]] • [[topic LENDING|LENDING]] • [[topic MONEY|MONEY]] • [[topic POOR|POOR]] • [[topic SERVANT|SERVANT]] • [[topic STRANGERS|STRANGERS]] • [[topic USURY|USURY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.36|<< Leviticus 25:36]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.38|Leviticus 25:38 >>]]</td></tr></table>
 

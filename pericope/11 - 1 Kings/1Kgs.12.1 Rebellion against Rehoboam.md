@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Rebellion against Rehoboam
+type: Pericope
 pericope: "[[1Kgs.12.1 Rebellion against Rehoboam|Rebellion against Rehoboam]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 12
 book/chapter: "[[1Kgs.12|1 Kings 12]]"
-genre:
+chronological_order: 551
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 15
 verses:
 - "[[1Kgs.12.1]]"
 - "[[1Kgs.12.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[1Kgs.12.15]]"
 ---
 
-[[1Kgs.12|1 Kings 12:1 - 1 Kings 12:15]]
+<small>[[1Kgs.12|1 Kings 12:1-15]]</small>
 *Rebellion against Rehoboam*
 
 [[1Kgs.12.1|1]] And Rehoboam went to Shechem: for all Israel were come to Shechem to make him king.

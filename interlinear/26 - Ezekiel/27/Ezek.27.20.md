@@ -1,8 +1,56 @@
+---
+title: Ezekiel 27:20
+type: Verse
+kjv: "Dedan was thy merchant in precious clothes for chariots."
+bsb: "Dedan was your merchant in saddlecloths for riding."
+hebrew: "דְּדָן֙ רֹֽכַלְתֵּ֔ךְ בְבִגְדֵי־ חֹ֖פֶשׁ לְרִכְבָּֽה׃"
+pericope: "[[Ezek.27.1 A Lament for Tyre|A Lament for Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 27
+book/chapter: "[[Ezek.27|Ezekiel 27]]"
+chronological_order: 818
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic DEDAN|DEDAN]]"
+- "[[topic IMPORTS|IMPORTS]]"
+- "[[topic MARKET|MARKET]]"
+strongs:
+- "[[H1719A]]"
+- "[[H7402]]"
+- "[[H9022]]"
+- "[[H9003]]"
+- "[[H0899B]]"
+- "[[H9014]]"
+- "[[H2667]]"
+- "[[H9005]]"
+- "[[H7396]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 27:20**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Dedan [was] thy merchant in precious clothes for chariots.
 <small><sub>**BSB:**</sub></small>
 Dedan was your merchant in saddlecloths for riding.
+<small><sub>**Hebrew:**</sub></small>
+[[H1719A\|דְּדָן֙]] [[H7402\|רֹֽכַלְתֵּ֔]][[H9022\|ךְ]] [[H9003\|בְ]][[H0899B\|בִגְדֵי]][[H9014\|־]] [[H2667\|חֹ֖פֶשׁ]] [[H9005\|לְ]][[H7396\|רִכְבָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic DEDAN|DEDAN]] • [[topic IMPORTS|IMPORTS]] • [[topic MARKET|MARKET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.19|<< Ezekiel 27:19]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.21|Ezekiel 27:21 >>]]</td></tr></table>
 

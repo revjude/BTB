@@ -1,10 +1,67 @@
+---
+title: 1 Thessalonians 5:23
+type: Verse
+kjv: "And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ."
+bsb: "Now may the God of peace Himself sanctify you completely, and may your entire spirit, soul, and body be kept blameless at the coming of our Lord Jesus Christ."
+greek: "αὐτὸς δὲ ὁ θεὸς τῆς εἰρήνης ἁγιάσαι ὑμᾶς ὁλοτελεῖς, καὶ ὁλόκληρον ὑμῶν τὸ πνεῦμα καὶ ἡ ψυχὴ καὶ τὸ σῶμα ἀμέμπτως ἐν τῇ παρουσίᾳ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ τηρηθείη."
+pericope: "[[1Thess.5.23 Final Blessings and Instructions|Final Blessings and Instructions]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 5
+book/chapter: "[[1Thess.5|1 Thessalonians 5]]"
+chronological_order: 1052
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MAN|MAN]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic SINLESSNESS|SINLESSNESS]]"
+strongs:
+- "[[G0846]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1515]]"
+- "[[G0037]]"
+- "[[G4771]]"
+- "[[G3651]]"
+- "[[G2532]]"
+- "[[G3648]]"
+- "[[G4151G]]"
+- "[[G5590G]]"
+- "[[G4983]]"
+- "[[G0274]]"
+- "[[G1722]]"
+- "[[G3952]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G5083I]]"
+texts:
+- NKO
+---
+
 **1 Thessalonians 5:23**<big><big>[[1Thess.5.23 Final Blessings and Instructions|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the very God of peace sanctify you wholly; and [I pray God] your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 Now may the God of peace Himself sanctify you completely, and may your entire spirit, soul, and body be kept blameless at the coming of our Lord Jesus Christ.
-<small><sub>**Literal:**</sub></small>
-Himself now the God <the> of peace would sanctify you completely, and entirely your <the> spirit and <the> soul and <the> body blameless at the coming of the Lord of us Jesus Christ would be preserved.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.22|<< 1 Thessalonians 5:22]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.24|1 Thessalonians 5:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0846\|αὐτὸς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τῆς]]  [[G1515\|εἰρήνης]]  [[G0037\|ἁγιάσαι]]  [[G4771\|ὑμᾶς]]  [[G3651\|ὁλοτελεῖς,]]  [[G2532\|καὶ]]  [[G3648\|ὁλόκληρον]]  [[G4771\|ὑμῶν]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G5590G\|ψυχὴ]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G0274\|ἀμέμπτως]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3952\|παρουσίᾳ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G5083I\|τηρηθείη.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLINESS|HOLINESS]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MAN|MAN]] • [[topic RELIGION|RELIGION]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic SINLESSNESS|SINLESSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.22|<< 1 Thessalonians 5:22]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.24|1 Thessalonians 5:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

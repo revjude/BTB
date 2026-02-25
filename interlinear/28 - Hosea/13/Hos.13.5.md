@@ -1,8 +1,44 @@
+---
+title: Hosea 13:5
+type: Verse
+kjv: "I did know thee in the wilderness, in the land of great drought."
+bsb: "I knew you in the wilderness, in the land of drought."
+hebrew: "אֲנִ֥י יְדַעְתִּ֖יךָ בַּמִּדְבָּ֑ר בְּאֶ֖רֶץ תַּלְאֻבֽוֹת׃"
+pericope: "[[Hos.13.1 God’s Anger against Israel|God’s Anger against Israel]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 13
+book/chapter: "[[Hos.13|Hosea 13]]"
+chronological_order: 654
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H0589]]"
+- "[[H3045]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H0776G]]"
+- "[[H8514]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 13:5**<big><big>[[Hos.13.1 God’s Anger against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I did know thee in the wilderness, in the land of great drought.
 <small><sub>**BSB:**</sub></small>
 I knew you in the wilderness, in the land of drought.
+<small><sub>**Hebrew:**</sub></small>
+[[H0589\|אֲנִ֥י]] [[H3045\|יְדַעְתִּ֖י]][[H9031\|ךָ]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֑ר]] [[H9003\|בְּ]][[H0776G\|אֶ֖רֶץ]] [[H8514\|תַּלְאֻבֽוֹת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.13.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.4|<< Hosea 13:4]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.6|Hosea 13:6 >>]]</td></tr></table>
 

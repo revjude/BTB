@@ -1,8 +1,51 @@
+---
+title: Psalm 88:16
+type: Verse
+kjv: "Thy fierce wrath goeth over me; thy terrors have cut me off."
+bsb: "Your wrath has swept over me; Your terrors have destroyed me."
+hebrew: "עָ֭לַי עָבְר֣וּ חֲרוֹנֶ֑יךָ בִּ֝עוּתֶ֗יךָ צִמְּתוּתֻֽנִי׃"
+pericope: "[[Ps.88.1 I Cry Out before You|I Cry Out before You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 88
+book/chapter: "[[Ps.88|Psalm 88]]"
+chronological_order: 516
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H5674A]]"
+- "[[H2740]]"
+- "[[H9021]]"
+- "[[H1161]]"
+- "[[H6789]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 88:16**<big><big>[[Ps.88.1 I Cry Out before You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy fierce wrath goeth over me; thy terrors have cut me off.
 <small><sub>**BSB:**</sub></small>
 Your wrath has swept over me; Your terrors have destroyed me.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עָ֭לַ]][[H9030\|י]] [[H5674A\|עָבְר֣וּ]] [[H2740\|חֲרוֹנֶ֑י]][[H9021\|ךָ]] [[H1161\|בִּ֝עוּתֶ֗י]][[H9021\|ךָ]] [[H6789\|צִמְּתוּתֻֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.88.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.88.15|<< Psalms 88:15]]</td><td align="center" style="border:none;">[[Ps.88|Psalms 88]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.88.17|Psalms 88:17 >>]]</td></tr></table>
 

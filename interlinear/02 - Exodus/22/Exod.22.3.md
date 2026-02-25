@@ -1,8 +1,66 @@
+---
+title: Exodus 22:3
+type: Verse
+kjv: "If the sun be risen upon him, there shall be blood shed for him; for he should make full restitution; if he have nothing, then he shall be sold for his theft."
+bsb: "But if it happens after sunrise, there is guilt for his bloodshed. A thief must make full restitution; if he has nothing, he himself shall be sold for his theft."
+hebrew: "אִם־ זָרְחָ֥ה הַשֶּׁ֛מֶשׁ עָלָ֖יו דָּמִ֣ים ל֑וֹ שַׁלֵּ֣ם יְשַׁלֵּ֔ם אִם־ אֵ֣ין ל֔וֹ וְנִמְכַּ֖ר בִּגְנֵבָתֽוֹ׃"
+pericope: "[[Exod.22.1 Property Laws|Property Laws]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 22
+book/chapter: "[[Exod.22|Exodus 22]]"
+chronological_order: 114
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic RESTITUTION|RESTITUTION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H2224]]"
+- "[[H9009]]"
+- "[[H8121]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H1818]]"
+- "[[H9005]]"
+- "[[H7999A]]"
+- "[[H0369]]"
+- "[[H9001]]"
+- "[[H4376]]"
+- "[[H9003]]"
+- "[[H1591]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 22:3**<big><big>[[Exod.22.1 Property Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If the sun be risen upon him, [there shall be] blood [shed] for him; [for] he should make full restitution; if he have nothing, then he shall be sold for his theft.
 <small><sub>**BSB:**</sub></small>
 But if it happens after sunrise, there is guilt for his bloodshed. A thief must make full restitution; if he has nothing, he himself shall be sold for his theft.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H2224\|זָרְחָ֥ה]] [[H9009\|הַ]][[H8121\|שֶּׁ֛מֶשׁ]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H1818\|דָּמִ֣ים]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H7999A\|שַׁלֵּ֣ם]] [[H7999A\|יְשַׁלֵּ֔ם]] [[H0518A\|אִם]][[H9014\|־]] [[H0369\|אֵ֣ין]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9001\|וְ]][[H4376\|נִמְכַּ֖ר]] [[H9003\|בִּ]][[H1591\|גְנֵבָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BULLOCK|BULLOCK]] • [[topic RESTITUTION|RESTITUTION]] • [[topic SERVANT|SERVANT]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.2|<< Exodus 22:2]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.4|Exodus 22:4 >>]]</td></tr></table>
 

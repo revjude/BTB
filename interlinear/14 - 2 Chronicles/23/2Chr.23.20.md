@@ -1,8 +1,70 @@
+---
+title: 2 Chronicles 23:20
+type: Verse
+kjv: "And he took the captains of hundreds, and the nobles, and the governors of the people, and all the people of the land, and brought down the king from the house of the LORD: and they came through the high gate into the king’s house, and set the king upon the throne of the kingdom."
+bsb: "And he took with him the commanders of hundreds, the nobles, the rulers of the people, and all the people of the land, and they brought the king down from the house of the LORD and entered the royal palace through the Upper Gate. They seated King Joash on the royal throne,"
+hebrew: "וַיִּקַּ֣ח אֶת־ שָׂרֵ֣י הַמֵּא֡וֹת וְאֶת־ הָֽאַדִּירִים֩ וְאֶת־ הַמּֽוֹשְׁלִ֨ים בָּעָ֜ם וְאֵ֣ת׀ כָּל־ עַ֣ם הָאָ֗רֶץ וַיּ֤וֹרֶד אֶת־ הַמֶּ֙לֶךְ֙ מִבֵּ֣ית יְהוָ֔ה וַיָּבֹ֛אוּ בְּתֽוֹךְ־ שַׁ֥עַר הָֽעֶלְי֖וֹן בֵּ֣ית הַמֶּ֑לֶךְ וַיּוֹשִׁ֙יבוּ֙ אֶת־ הַמֶּ֔לֶךְ עַ֖ל כִּסֵּ֥א הַמַּמְלָכָֽה׃"
+pericope: "[[2Chr.23.16 Jehoiada Restores the Worship of the LORD|Jehoiada Restores the Worship of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 23
+book/chapter: "[[2Chr.23|2 Chronicles 23]]"
+chronological_order: 588
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H3967]]"
+- "[[H9002]]"
+- "[[H0117]]"
+- "[[H4910]]"
+- "[[H9003]]"
+- "[[H5971A]]"
+- "[[H9015]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H3381]]"
+- "[[H4428G]]"
+- "[[H9006]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H0935G]]"
+- "[[H8432]]"
+- "[[H8179G]]"
+- "[[H5945A]]"
+- "[[H1004B]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H3678G]]"
+- "[[H4467]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 23:20**<big><big>[[2Chr.23.16 Jehoiada Restores the Worship of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took the captains of hundreds, and the nobles, and the governors of the people, and all the people of the land, and brought down the king from the house of the LORD: and they came through the high gate into the king’s house, and set the king upon the throne of the kingdom.
 <small><sub>**BSB:**</sub></small>
 And he took with him the commanders of hundreds, the nobles, the rulers of the people, and all the people of the land, and they brought the king down from the house of the LORD and entered the royal palace through the Upper Gate. They seated King Joash on the royal throne,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֣ח]] [[H0853\|אֶת]][[H9014\|־]] [[H8269\|שָׂרֵ֣י]] [[H9009\|הַ]][[H3967\|מֵּא֡וֹת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H0117\|אַדִּירִים֩]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4910\|מּֽוֹשְׁלִ֨ים]] [[H9003\|בָּ]][[H5971A\|עָ֜ם]] [[H9002\|וְ]][[H0853\|אֵ֣ת]][[H9015\|׀]] [[H3605\|כָּל]][[H9014\|־]] [[H5971A\|עַ֣ם]] [[H9009\|הָ]][[H0776G\|אָ֗רֶץ]] [[H9001\|וַ]][[H3381\|יּ֤וֹרֶד]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H9006\|מִ]][[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H0935G\|יָּבֹ֛אוּ]] [[H9003\|בְּ]][[H8432\|תֽוֹךְ]][[H9014\|־]] [[H8179G\|שַׁ֥עַר]] [[H9009\|הָֽ]][[H5945A\|עֶלְי֖וֹן]] [[H1004B\|בֵּ֣ית]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9001\|וַ]][[H3427\|יּוֹשִׁ֙יבוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H5921A\|עַ֖ל]] [[H3678G\|כִּסֵּ֥א]] [[H9009\|הַ]][[H4467\|מַּמְלָכָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.23.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.23.19|<< 2 Chronicles 23:19]]</td><td align="center" style="border:none;">[[2Chr.23|2 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.23.21|2 Chronicles 23:21 >>]]</td></tr></table>
 

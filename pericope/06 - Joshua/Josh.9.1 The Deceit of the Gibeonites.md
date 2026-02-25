@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Deceit of the Gibeonites
+type: Pericope
 pericope: "[[Josh.9.1 The Deceit of the Gibeonites|The Deceit of the Gibeonites]]"
-verse_count: 27
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 9
 book/chapter: "[[Josh.9|Joshua 9]]"
-genre:
+chronological_order: 239
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 27
 verses:
 - "[[Josh.9.1]]"
 - "[[Josh.9.2]]"
@@ -45,7 +52,7 @@ verses:
 - "[[Josh.9.27]]"
 ---
 
-[[Josh.9|Joshua 9:1 - Joshua 9:27]]
+<small>[[Josh.9|Joshua 9:1-27]]</small>
 *The Deceit of the Gibeonites*
 
 [[Josh.9.1|1]] And it came to pass, when all the kings which \[were\] on this side Jordan, in the hills, and in the valleys, and in all the coasts of the great sea over against Lebanon, the Hittite, and the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard \[thereof\];

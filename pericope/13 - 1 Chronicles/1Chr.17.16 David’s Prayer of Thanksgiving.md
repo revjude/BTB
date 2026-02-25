@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David’s Prayer of Thanksgiving
+type: Pericope
 pericope: "[[1Chr.17.16 David’s Prayer of Thanksgiving|David’s Prayer of Thanksgiving]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 17
 book/chapter: "[[1Chr.17|1 Chronicles 17]]"
-genre:
+chronological_order: 398
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 12
 verses:
 - "[[1Chr.17.16]]"
 - "[[1Chr.17.17]]"
@@ -30,7 +37,7 @@ verses:
 - "[[1Chr.17.27]]"
 ---
 
-[[1Chr.17|1 Chronicles 17:16 - 1 Chronicles 17:27]]
+<small>[[1Chr.17|1 Chronicles 17:16-27]]</small>
 *David’s Prayer of Thanksgiving*
 
 [[1Chr.17.16|16]] And David the king came and sat before the LORD, and said, Who \[am\] I, O LORD God, and what \[is\] mine house, that thou hast brought me hitherto?

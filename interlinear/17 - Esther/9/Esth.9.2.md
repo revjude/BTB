@@ -1,8 +1,67 @@
+---
+title: Esther 9:2
+type: Verse
+kjv: "The Jews gathered themselves together in their cities throughout all the provinces of the king Ahasuerus, to lay hand on such as sought their hurt: and no man could withstand them; for the fear of them fell upon all people."
+bsb: "In each of the provinces of King Xerxes, the Jews assembled in their cities to attack those who sought to harm them. No man could withstand them, because the fear of them had fallen upon all peoples."
+hebrew: "נִקְהֲל֨וּ הַיְּהוּדִ֜ים בְּעָרֵיהֶ֗ם בְּכָל־ מְדִינוֹת֙ הַמֶּ֣לֶךְ אֳחַשְׁוֵר֔וֹשׁ לִשְׁלֹ֣חַ יָ֔ד בִּמְבַקְשֵׁ֖י רָֽעָתָ֑ם וְאִישׁ֙ לֹא־ עָמַ֣ד לִפְנֵיהֶ֔ם כִּֽי־ נָפַ֥ל פַּחְדָּ֖ם עַל־ כָּל־ הָעַמִּֽים׃"
+pericope: "[[Esth.9.1 The Jews Destroy Their Enemies|The Jews Destroy Their Enemies]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 9
+book/chapter: "[[Esth.9|Esther 9]]"
+chronological_order: 907
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic MONTH|MONTH]]"
+strongs:
+- "[[H6950]]"
+- "[[H9009]]"
+- "[[H3064]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H9028]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4082]]"
+- "[[H4428G]]"
+- "[[H0325]]"
+- "[[H9005]]"
+- "[[H7971K]]"
+- "[[H3027G]]"
+- "[[H1245]]"
+- "[[H7451C]]"
+- "[[H9002]]"
+- "[[H0376I]]"
+- "[[H3808]]"
+- "[[H5975G]]"
+- "[[H6440G]]"
+- "[[H3588A]]"
+- "[[H5307G]]"
+- "[[H6343]]"
+- "[[H5921A]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 9:2**<big><big>[[Esth.9.1 The Jews Destroy Their Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Jews gathered themselves together in their cities throughout all the provinces of the king Ahasuerus, to lay hand on such as sought their hurt: and no man could withstand them; for the fear of them fell upon all people.
 <small><sub>**BSB:**</sub></small>
 In each of the provinces of King Xerxes, the Jews assembled in their cities to attack those who sought to harm them. No man could withstand them, because the fear of them had fallen upon all peoples.
+<small><sub>**Hebrew:**</sub></small>
+[[H6950\|נִקְהֲל֨וּ]] [[H9009\|הַ]][[H3064\|יְּהוּדִ֜ים]] [[H9003\|בְּ]][[H5892B\|עָרֵי]][[H9028\|הֶ֗ם]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H4082\|מְדִינוֹת֙]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H0325\|אֳחַשְׁוֵר֔וֹשׁ]] [[H9005\|לִ]][[H7971K\|שְׁלֹ֣חַ]] [[H3027G\|יָ֔ד]] [[H9003\|בִּ]][[H1245\|מְבַקְשֵׁ֖י]] [[H7451C\|רָֽעָתָ֑]][[H9028\|ם]] [[H9002\|וְ]][[H0376I\|אִישׁ֙]] [[H3808\|לֹא]][[H9014\|־]] [[H5975G\|עָמַ֣ד]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶ֔ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5307G\|נָפַ֥ל]] [[H6343\|פַּחְדָּ֖]][[H9028\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עַמִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MONTH|MONTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.1|<< Esther 9:1]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.3|Esther 9:3 >>]]</td></tr></table>
 

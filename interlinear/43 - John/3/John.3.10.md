@@ -1,10 +1,62 @@
+---
+title: John 3:10
+type: Verse
+kjv: "Jesus answered and said unto him, Art thou a master of Israel, and knowest not these things?"
+bsb: "“You are Israel’s teacher,” said Jesus, “and you do not understand these things?"
+jesus_said: "Art thou a master of Israel, and knowest not these things?"
+greek: "Ἀπεκρίθη ὁ Ἰησοῦς καὶ εἶπεν αὐτῷ· σὺ εἶ ὁ διδάσκαλος τοῦ Ἰσραὴλ καὶ ταῦτα οὐ γινώσκεις;"
+pericope: "[[John.3.1 Jesus and Nicodemus|Jesus and Nicodemus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 3
+book/chapter: "[[John.3|John 3]]"
+chronological_order: 941
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic NICODEMUS|NICODEMUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SCRIPTURES|SCRIPTURES]]"
+strongs:
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G1320]]"
+- "[[G2474]]"
+- "[[G3778]]"
+- "[[G3756]]"
+- "[[G1097]]"
+texts:
+- NKO
+- k
+---
+
 **John 3:10**<big><big>[[John.3.1 Jesus and Nicodemus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus answered and said unto him, Art thou a master of Israel, and knowest not these things?
 <small><sub>**BSB:**</sub></small>
 “You are Israel’s teacher,” said Jesus, “and you do not understand these things?
-<small><sub>**Literal:**</sub></small>
-Answered <the> Jesus and said to him; You yourself are the teacher <the> of Israel and these things not know?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.9|<< John 3:9]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.11|John 3:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀπεκρίθη]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G4771\|σὺ]]  [[G1510\|εἶ]]  [[G3588\|ὁ]]  [[G1320\|διδάσκαλος]]  [[G3588\|τοῦ]]  [[G2474\|Ἰσραὴλ]]  [[G2532\|καὶ]]  [[G3778\|ταῦτα]]  [[G3756\|οὐ]]  [[G1097\|γινώσκεις;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MYSTERIES|MYSTERIES]] • [[topic NICODEMUS|NICODEMUS]] • [[topic SALVATION|SALVATION]] • [[topic SCRIPTURES|SCRIPTURES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.9|<< John 3:9]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.11|John 3:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

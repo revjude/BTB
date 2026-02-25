@@ -1,8 +1,68 @@
+---
+title: Judges 10:4
+type: Verse
+kjv: "And he had thirty sons that rode on thirty ass colts, and they had thirty cities, which are called Havothjair unto this day, which are in the land of Gilead."
+bsb: "He had thirty sons who rode on thirty donkeys. And they had thirty towns in the land of Gilead, which to this day are called Havvoth-jair."
+hebrew: "וַֽיְהִי־ ל֞וֹ שְׁלֹשִׁ֣ים בָּנִ֗ים רֹֽכְבִים֙ עַל־ שְׁלֹשִׁ֣ים עֲיָרִ֔ים וּשְׁלֹשִׁ֥ים עֲיָרִ֖ים לָהֶ֑ם לָהֶ֞ם יִקְרְא֣וּ׀ חַוֹּ֣ת יָאִ֗יר עַ֚ד הַיּ֣וֹם הַזֶּ֔ה אֲשֶׁ֖ר בְּאֶ֥רֶץ הַגִּלְעָֽד׃"
+pericope: "[[Judg.10.3 Jair|Jair]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 10
+book/chapter: "[[Judg.10|Judges 10]]"
+chronological_order: 264
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic HAVOTH-JAIR|HAVOTH-JAIR]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JAIR|JAIR]]"
+- "[[topic JUDGE|JUDGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H7970]]"
+- "[[H1121A]]"
+- "[[H7392]]"
+- "[[H5921A]]"
+- "[[H5895]]"
+- "[[H9002]]"
+- "[[H5892B]]"
+- "[[H9038]]"
+- "[[H7121H]]"
+- "[[H9015]]"
+- "[[H2334]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H1568G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 10:4**<big><big>[[Judg.10.3 Jair|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he had thirty sons that rode on thirty ass colts, and they had thirty cities, which are called Havothjair unto this day, which [are] in the land of Gilead.
 <small><sub>**BSB:**</sub></small>
 He had thirty sons who rode on thirty donkeys. And they had thirty towns in the land of Gilead, which to this day are called Havvoth-jair.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי]][[H9014\|־]] [[H9005\|ל֞]][[H9033\|וֹ]] [[H7970\|שְׁלֹשִׁ֣ים]] [[H1121A\|בָּנִ֗ים]] [[H7392\|רֹֽכְבִים֙]] [[H5921A\|עַל]][[H9014\|־]] [[H7970\|שְׁלֹשִׁ֣ים]] [[H5895\|עֲיָרִ֔ים]] [[H9002\|וּ]][[H7970\|שְׁלֹשִׁ֥ים]] [[H5892B\|עֲיָרִ֖ים]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H9005\|לָ]][[H9038\|הֶ֞ם]] [[H7121H\|יִקְרְא֣וּ]][[H9015\|׀]] [[H2334\|חַוֹּ֣ת]] [[H2334\|יָאִ֗יר]] [[H5704\|עַ֚ד]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H9009\|הַ]][[H1568G\|גִּלְעָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAVOTH-JAIR|HAVOTH-JAIR]] • [[topic ISRAEL|ISRAEL]] • [[topic JAIR|JAIR]] • [[topic JUDGE|JUDGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.10.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.10.3|<< Judges 10:3]]</td><td align="center" style="border:none;">[[Judg.10|Judges 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.10.5|Judges 10:5 >>]]</td></tr></table>
 

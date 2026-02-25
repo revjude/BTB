@@ -1,8 +1,68 @@
+---
+title: Exodus 28:15
+type: Verse
+kjv: "And thou shalt make the breastplate of judgment with cunning work; after the work of the ephod thou shalt make it; of gold, of blue, and of purple, and of scarlet, and of fine twined linen, shalt thou make it."
+bsb: "You are also to make a breastpiece of judgment with the same workmanship as the ephod. Construct it with gold, with blue, purple, and scarlet yarn, and with finely spun linen."
+hebrew: "וְעָשִׂ֜יתָ חֹ֤שֶׁן מִשְׁפָּט֙ מַעֲשֵׂ֣ה חֹשֵׁ֔ב כְּמַעֲשֵׂ֥ה אֵפֹ֖ד תַּעֲשֶׂ֑נּוּ זָ֠הָב תְּכֵ֨לֶת וְאַרְגָּמָ֜ן וְתוֹלַ֧עַת שָׁנִ֛י וְשֵׁ֥שׁ מָשְׁזָ֖ר תַּעֲשֶׂ֥ה אֹתֽוֹ׃"
+pericope: "[[Exod.28.15 The Breastpiece|The Breastpiece]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 28
+book/chapter: "[[Exod.28|Exodus 28]]"
+chronological_order: 120
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BREASTPLATE|BREASTPLATE]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic LINEN|LINEN]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H2833]]"
+- "[[H4941G]]"
+- "[[H4639G]]"
+- "[[H2803G]]"
+- "[[H9004]]"
+- "[[H0646]]"
+- "[[H9033]]"
+- "[[H2091]]"
+- "[[H8504]]"
+- "[[H9002]]"
+- "[[H0713]]"
+- "[[H8438B]]"
+- "[[H8144]]"
+- "[[H8336B]]"
+- "[[H7806]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 28:15**<big><big>[[Exod.28.15 The Breastpiece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make the breastplate of judgment with cunning work; after the work of the ephod thou shalt make it; [of] gold, [of] blue, and [of] purple, and [of] scarlet, and [of] fine twined linen, shalt thou make it.
 <small><sub>**BSB:**</sub></small>
 You are also to make a breastpiece of judgment with the same workmanship as the ephod. Construct it with gold, with blue, purple, and scarlet yarn, and with finely spun linen.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213H\|עָשִׂ֜יתָ]] [[H2833\|חֹ֤שֶׁן]] [[H4941G\|מִשְׁפָּט֙]] [[H4639G\|מַעֲשֵׂ֣ה]] [[H2803G\|חֹשֵׁ֔ב]] [[H9004\|כְּ]][[H4639G\|מַעֲשֵׂ֥ה]] [[H0646\|אֵפֹ֖ד]] [[H6213H\|תַּעֲשֶׂ֑]][[H9033\|נּוּ]] [[H2091\|זָ֠הָב]] [[H8504\|תְּכֵ֨לֶת]] [[H9002\|וְ]][[H0713\|אַרְגָּמָ֜ן]] [[H9002\|וְ]][[H8438B\|תוֹלַ֧עַת]] [[H8144\|שָׁנִ֛י]] [[H9002\|וְ]][[H8336B\|שֵׁ֥שׁ]] [[H7806\|מָשְׁזָ֖ר]] [[H6213H\|תַּעֲשֶׂ֥ה]] [[H0853\|אֹתֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREASTPLATE|BREASTPLATE]] • [[topic COLORS|COLORS]] • [[topic LINEN|LINEN]] • [[topic PRIEST|PRIEST]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.14|<< Exodus 28:14]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.16|Exodus 28:16 >>]]</td></tr></table>
 

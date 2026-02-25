@@ -1,10 +1,53 @@
+---
+title: Romans 8:22
+type: Verse
+kjv: "For we know that the whole creation groaneth and travaileth in pain together until now."
+bsb: "We know that the whole creation has been groaning together in the pains of childbirth until the present time."
+greek: "οἴδαμεν γὰρ ὅτι πᾶσα ἡ κτίσις συστενάζει καὶ συνωδίνει ἄχρι τοῦ νῦν·"
+pericope: "[[Rom.8.18 Future Glory|Future Glory]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 8
+book/chapter: "[[Rom.8|Romans 8]]"
+chronological_order: 1094
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SUFFERING|SUFFERING]]"
+strongs:
+- "[[G6063]]"
+- "[[G1063]]"
+- "[[G3754G]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2937]]"
+- "[[G4959]]"
+- "[[G2532]]"
+- "[[G4944]]"
+- "[[G0891]]"
+- "[[G3568]]"
+texts:
+- NKO
+---
+
 **Romans 8:22**<big><big>[[Rom.8.18 Future Glory|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For we know that the whole creation groaneth and travaileth in pain together until now.
 <small><sub>**BSB:**</sub></small>
 We know that the whole creation has been groaning together in the pains of childbirth until the present time.
-<small><sub>**Literal:**</sub></small>
-We know for that all the creation groans together and it travails together until <the> now;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.21|<< Romans 8:21]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.23|Romans 8:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|οἴδαμεν]]  [[G1063\|γὰρ]]  [[G3754G\|ὅτι]]  [[G3956\|πᾶσα]]  [[G3588\|ἡ]]  [[G2937\|κτίσις]]  [[G4959\|συστενάζει]]  [[G2532\|καὶ]]  [[G4944\|συνωδίνει]]  [[G0891\|ἄχρι]]  [[G3588\|τοῦ]]  [[G3568\|νῦν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SUFFERING|SUFFERING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.21|<< Romans 8:21]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.23|Romans 8:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 8:22** is...
 > $\quad$ alluding to: [[LXX.Isa.28.17|Isa 28:17-18]]

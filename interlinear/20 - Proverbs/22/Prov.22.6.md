@@ -1,8 +1,58 @@
+---
+title: Proverbs 22:6
+type: Verse
+kjv: "Train up a child in the way he should go: and when he is old, he will not depart from it."
+bsb: "Train up a child in the way he should go, and when he is old he will not depart from it."
+hebrew: "חֲנֹ֣ךְ לַ֭נַּעַר עַל־ פִּ֣י דַרְכּ֑וֹ גַּ֥ם כִּֽי־ יַ֝זְקִ֗ין לֹֽא־ יָס֥וּר מִמֶּֽנָּה׃"
+pericope: "[[Prov.22.1 A Good Name|A Good Name]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 22
+book/chapter: "[[Prov.22|Proverbs 22]]"
+chronological_order: 477
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H2596]]"
+- "[[H9005]]"
+- "[[H5288]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6310I]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H1571]]"
+- "[[H3588A]]"
+- "[[H2204]]"
+- "[[H3808]]"
+- "[[H5493H]]"
+- "[[H4480A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 22:6**<big><big>[[Prov.22.1 A Good Name|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Train up a child in the way he should go: and when he is old, he will not depart from it.
 <small><sub>**BSB:**</sub></small>
 Train up a child in the way he should go, and when he is old he will not depart from it.
+<small><sub>**Hebrew:**</sub></small>
+[[H2596\|חֲנֹ֣ךְ]] [[H9005\|לַ֭]][[H5288\|נַּעַר]] [[H5921A\|עַל]][[H9014\|־]] [[H6310I\|פִּ֣י]] [[H1870G\|דַרְכּ֑]][[H9023\|וֹ]] [[H1571\|גַּ֥ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2204\|יַ֝זְקִ֗ין]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5493H\|יָס֥וּר]] [[H4480A\|מִמֶּֽ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.22.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.5|<< Proverbs 22:5]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.7|Proverbs 22:7 >>]]</td></tr></table>
 

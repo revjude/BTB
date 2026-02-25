@@ -1,8 +1,60 @@
+---
+title: Psalm 112:7
+type: Verse
+kjv: "He shall not be afraid of evil tidings: his heart is fixed, trusting in the LORD."
+bsb: "He does not fear bad news; his heart is steadfast, trusting in the LORD."
+hebrew: "מִשְּׁמוּעָ֣ה רָ֭עָה לֹ֣א יִירָ֑א נָכ֥וֹן לִ֝בּ֗וֹ בָּטֻ֥חַ בַּיהוָֽה׃"
+pericope: "[[Ps.112.1 The Blessed Fear of the LORD|The Blessed Fear of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 112
+book/chapter: "[[Ps.112|Psalm 112]]"
+chronological_order: 874
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEART|HEART]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic STABILITY|STABILITY]]"
+strongs:
+- "[[H9006]]"
+- "[[H8052]]"
+- "[[H7451A]]"
+- "[[H3808]]"
+- "[[H3372G]]"
+- "[[H3559H]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H0982]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 112:7**<big><big>[[Ps.112.1 The Blessed Fear of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall not be afraid of evil tidings: his heart is fixed, trusting in the LORD.
 <small><sub>**BSB:**</sub></small>
 He does not fear bad news; his heart is steadfast, trusting in the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H8052\|שְּׁמוּעָ֣ה]] [[H7451A\|רָ֭עָה]] [[H3808\|לֹ֣א]] [[H3372G\|יִירָ֑א]] [[H3559H\|נָכ֥וֹן]] [[H3820A\|לִ֝בּ֗]][[H9023\|וֹ]] [[H0982\|בָּטֻ֥חַ]] [[H9003\|בַּ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic FAITH|FAITH]] • [[topic HEART|HEART]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic STABILITY|STABILITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.112.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.112.6|<< Psalms 112:6]]</td><td align="center" style="border:none;">[[Ps.112|Psalms 112]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.112.8|Psalms 112:8 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Four Dire Judgments
+type: Pericope
 pericope: "[[Ezek.14.12 Four Dire Judgments|Four Dire Judgments]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 14
 book/chapter: "[[Ezek.14|Ezekiel 14]]"
-genre:
+chronological_order: 805
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 12
 verses:
 - "[[Ezek.14.12]]"
 - "[[Ezek.14.13]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Ezek.14.23]]"
 ---
 
-[[Ezek.14|Ezekiel 14:12 - Ezekiel 14:23]]
+<small>[[Ezek.14|Ezekiel 14:12-23]]</small>
 *Four Dire Judgments*
 
 [[Ezek.14.12|12]] The word of the LORD came again to me, saying,

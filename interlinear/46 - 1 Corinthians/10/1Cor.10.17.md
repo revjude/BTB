@@ -1,10 +1,55 @@
+---
+title: 1 Corinthians 10:17
+type: Verse
+kjv: "For we being many are one bread, and one body: for we are all partakers of that one bread."
+bsb: "Because there is one loaf, we who are many are one body; for we all partake of the one loaf."
+greek: "ὅτι εἷς ἄρτος ἓν σῶμα οἱ πολλοί ἐσμεν· οἱ γὰρ πάντες ἐκ τοῦ ἑνὸς ἄρτου μετέχομεν.¶"
+pericope: "[[1Cor.10.14 Flee from Idolatry|Flee from Idolatry]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 10
+book/chapter: "[[1Cor.10|1 Corinthians 10]]"
+chronological_order: 1067
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BREAD|BREAD]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G3754H]]"
+- "[[G1520]]"
+- "[[G0740]]"
+- "[[G4983]]"
+- "[[G3588]]"
+- "[[G4183]]"
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G3956]]"
+- "[[G1537]]"
+- "[[G3348]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 10:17**<big><big>[[1Cor.10.14 Flee from Idolatry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For we [being] many are one bread, [and] one body: for we are all partakers of that one bread.
 <small><sub>**BSB:**</sub></small>
 Because there is one loaf, we who are many are one body; for we all partake of the one loaf.
-<small><sub>**Literal:**</sub></small>
-Because [there is] one loaf one body the many we are; <the> for all of the one loaf we partake.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.16|<< 1 Corinthians 10:16]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.18|1 Corinthians 10:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G1520\|εἷς]]  [[G0740\|ἄρτος]]  [[G1520\|ἓν]]  [[G4983\|σῶμα]]  [[G3588\|οἱ]]  [[G4183\|πολλοί]]  [[G1510\|ἐσμεν·]]  [[G3588\|οἱ]]  [[G1063\|γὰρ]]  [[G3956\|πάντες]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G1520\|ἑνὸς]]  [[G0740\|ἄρτου]]  [[G3348\|μετέχομεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREAD|BREAD]] • [[topic CHURCH|CHURCH]] • [[topic COMMUNION|COMMUNION]] • [[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.16|<< 1 Corinthians 10:16]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.18|1 Corinthians 10:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

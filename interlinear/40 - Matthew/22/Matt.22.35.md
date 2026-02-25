@@ -1,10 +1,52 @@
+---
+title: Matthew 22:35
+type: Verse
+kjv: "Then one of them, which was a lawyer, asked him a question, tempting him, and saying,"
+bsb: "One of them, an expert in the law, tested Him with a question:"
+greek: "καὶ ἐπηρώτησεν εἷς ἐξ αὐτῶν νομικὸς πειράζων αὐτόν καὶ λέγων·"
+pericope: "[[Matt.22.34 The Greatest Commandment|The Greatest Commandment]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 22
+book/chapter: "[[Matt.22|Matthew 22]]"
+chronological_order: 993
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAWYER|LAWYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G1905]]"
+- "[[G1520]]"
+- "[[G1537]]"
+- "[[G0846]]"
+- "[[G3544]]"
+- "[[G3985H]]"
+- "[[G3004G]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 22:35**<big><big>[[Matt.22.34 The Greatest Commandment|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then one of them, [which was] a lawyer, asked [him a question], tempting him, and saying,
 <small><sub>**BSB:**</sub></small>
 One of them, an expert in the law, tested Him with a question:
-<small><sub>**Literal:**</sub></small>
-And questioned [Him] one of them a lawyer testing Him and saying:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.34|<< Matthew 22:34]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.36|Matthew 22:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1905\|ἐπηρώτησεν]]  [[G1520\|εἷς]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G3544\|νομικὸς]]  [[G3985H\|πειράζων]]  [[G0846\|αὐτόν]]  [[G2532\|καὶ]]  [[G3004G\|λέγων·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECALOGUE|DECALOGUE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAWYER|LAWYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.34|<< Matthew 22:34]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.36|Matthew 22:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

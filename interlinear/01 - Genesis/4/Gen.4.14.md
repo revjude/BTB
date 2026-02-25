@@ -1,8 +1,79 @@
+---
+title: Genesis 4:14
+type: Verse
+kjv: "Behold, thou hast driven me out this day from the face of the earth; and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, that every one that findeth me shall slay me."
+bsb: "Behold, this day You have driven me from the face of the earth, and from Your face I will be hidden; I will be a fugitive and a wanderer on the earth, and whoever finds me will kill me.”"
+hebrew: "הֵן֩ גֵּרַ֨שְׁתָּ אֹתִ֜י הַיּ֗וֹם מֵעַל֙ פְּנֵ֣י הָֽאֲדָמָ֔ה וּמִפָּנֶ֖יךָ אֶסָּתֵ֑ר וְהָיִ֜יתִי נָ֤ע וָנָד֙ בָּאָ֔רֶץ וְהָיָ֥ה כָל־ מֹצְאִ֖י יַֽהַרְגֵֽנִי׃"
+pericope: "[[Gen.4.1 Cain and Abel|Cain and Abel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 4
+book/chapter: "[[Gen.4|Genesis 4]]"
+chronological_order: 4
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABEL|ABEL]]"
+- "[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]]"
+- "[[topic BANISHMENT|BANISHMENT]]"
+- "[[topic CAIN|CAIN]]"
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic CURSE|CURSE]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H2005]]"
+- "[[H1644G]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H0127G]]"
+- "[[H9002]]"
+- "[[H6440H]]"
+- "[[H9021]]"
+- "[[H5641]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H5128]]"
+- "[[H5110]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4672]]"
+- "[[H2026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 4:14**<big><big>[[Gen.4.1 Cain and Abel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, thou hast driven me out this day from the face of the earth; and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, [that] every one that findeth me shall slay me.
 <small><sub>**BSB:**</sub></small>
 Behold, this day You have driven me from the face of the earth, and from Your face I will be hidden; I will be a fugitive and a wanderer on the earth, and whoever finds me will kill me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵן֩]] [[H1644G\|גֵּרַ֨שְׁתָּ]] [[H0853\|אֹתִ֜]][[H9030\|י]] [[H9009\|הַ]][[H3117G\|יּ֗וֹם]] [[H9006\|מֵ]][[H5921A\|עַל֙]] [[H6440J\|פְּנֵ֣י]] [[H9009\|הָֽ]][[H0127G\|אֲדָמָ֔ה]] [[H9002\|וּ]][[H9006\|מִ]][[H6440H\|פָּנֶ֖י]][[H9021\|ךָ]] [[H5641\|אֶסָּתֵ֑ר]] [[H9001\|וְ]][[H1961\|הָיִ֜יתִי]] [[H5128\|נָ֤ע]] [[H9002\|וָ]][[H5110\|נָד֙]] [[H9003\|בָּ]][[H0776G\|אָ֔רֶץ]] [[H9001\|וְ]][[H1961\|הָיָ֥ה]] [[H3605\|כָל]][[H9014\|־]] [[H4672\|מֹצְאִ֖]][[H9030\|י]] [[H2026\|יַֽהַרְגֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABEL|ABEL]] • [[topic AVENGER OF BLOOD|AVENGER OF BLOOD]] • [[topic BANISHMENT|BANISHMENT]] • [[topic CAIN|CAIN]] • [[topic CHIDING|CHIDING]] • [[topic CURSE|CURSE]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MURMURING|MURMURING]] • [[topic PRAYER|PRAYER]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.13|<< Genesis 4:13]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.15|Genesis 4:15 >>]]</td></tr></table>
 

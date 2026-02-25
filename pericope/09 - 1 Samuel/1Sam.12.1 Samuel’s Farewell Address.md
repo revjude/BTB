@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Samuel’s Farewell Address
+type: Pericope
 pericope: "[[1Sam.12.1 Samuel’s Farewell Address|Samuel’s Farewell Address]]"
-verse_count: 25
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 12
 book/chapter: "[[1Sam.12|1 Samuel 12]]"
-genre:
+chronological_order: 291
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 25
 verses:
 - "[[1Sam.12.1]]"
 - "[[1Sam.12.2]]"
@@ -43,7 +50,7 @@ verses:
 - "[[1Sam.12.25]]"
 ---
 
-[[1Sam.12|1 Samuel 12:1 - 1 Samuel 12:25]]
+<small>[[1Sam.12|1 Samuel 12:1-25]]</small>
 *Samuel’s Farewell Address*
 
 [[1Sam.12.1|1]] And Samuel said unto all Israel, Behold, I have hearkened unto your voice in all that ye said unto me, and have made a king over you.

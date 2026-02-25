@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Land Division East of the Jordan
+type: Pericope
 pericope: "[[Deut.3.12 Land Division East of the Jordan|Land Division East of the Jordan]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 3
 book/chapter: "[[Deut.3|Deuteronomy 3]]"
-genre:
+chronological_order: 199
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 11
 verses:
 - "[[Deut.3.12]]"
 - "[[Deut.3.13]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Deut.3.22]]"
 ---
 
-[[Deut.3|Deuteronomy 3:12 - Deuteronomy 3:22]]
+<small>[[Deut.3|Deuteronomy 3:12-22]]</small>
 *Land Division East of the Jordan*
 
 [[Deut.3.12|12]] And this land, \[which\] we possessed at that time, from Aroer, which \[is\] by the river Arnon, and half mount Gilead, and the cities thereof, gave I unto the Reubenites and to the Gadites.

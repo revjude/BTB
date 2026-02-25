@@ -1,8 +1,60 @@
+---
+title: Psalm 89:26
+type: Verse
+kjv: "He shall cry unto me, Thou art my father, my God, and the rock of my salvation."
+bsb: "He will call to Me, ‘You are my Father, my God, the Rock of my salvation.’"
+hebrew: "ה֣וּא יִ֭קְרָאֵנִי אָ֣בִי אָ֑תָּה אֵ֝לִ֗י וְצ֣וּר יְשׁוּעָתִֽי׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H1931]]"
+- "[[H7121G]]"
+- "[[H9030]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H0859A]]"
+- "[[H0410G]]"
+- "[[H9002]]"
+- "[[H6697H]]"
+- "[[H3444]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 89:26**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall cry unto me, Thou [art] my father, my God, and the rock of my salvation.
 <small><sub>**BSB:**</sub></small>
 He will call to Me, ‘You are my Father, my God, the Rock of my salvation.’
+<small><sub>**Hebrew:**</sub></small>
+[[H1931\|ה֣וּא]] [[H7121G\|יִ֭קְרָאֵ]][[H9030\|נִי]] [[H0001G\|אָ֣בִ]][[H9020\|י]] [[H0859A\|אָ֑תָּה]] [[H0410G\|אֵ֝לִ֗]][[H9020\|י]] [[H9002\|וְ]][[H6697H\|צ֣וּר]] [[H3444\|יְשׁוּעָתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COVENANT|COVENANT]] • [[topic DAVID|DAVID]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.25|<< Psalms 89:25]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.27|Psalms 89:27 >>]]</td></tr></table>
 

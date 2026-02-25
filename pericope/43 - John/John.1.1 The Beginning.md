@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Beginning
+type: Pericope
 pericope: "[[John.1.1 The Beginning|The Beginning]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: John
 chapter: 1
 book/chapter: "[[John.1|John 1]]"
-genre:
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 5
 verses:
 - "[[John.1.1]]"
 - "[[John.1.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[John.1.5]]"
 ---
 
-[[John.1|John 1:1 - John 1:5]]
+<small>[[John.1|John 1:1-5]]</small>
 *The Beginning*
 
 [[John.1.1|1]] In the beginning was the Word, and the Word was with God, and the Word was God.

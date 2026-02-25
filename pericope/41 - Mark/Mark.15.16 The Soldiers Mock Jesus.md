@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Soldiers Mock Jesus
+type: Pericope
 pericope: "[[Mark.15.16 The Soldiers Mock Jesus|The Soldiers Mock Jesus]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Mark
 chapter: 15
 book/chapter: "[[Mark.15|Mark 15]]"
-genre:
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Mark.15.16]]"
 - "[[Mark.15.17]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Mark.15.20]]"
 ---
 
-[[Mark.15|Mark 15:16 - Mark 15:20]]
+<small>[[Mark.15|Mark 15:16-20]]</small>
 *The Soldiers Mock Jesus*
 
 [[Mark.15.16|16]] And the soldiers led him away into the hall, called Praetorium; and they call together the whole band.

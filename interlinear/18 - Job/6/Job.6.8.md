@@ -1,8 +1,53 @@
+---
+title: Job 6:8
+type: Verse
+kjv: "Oh that I might have my request; and that God would grant me the thing that I long for!"
+bsb: "If only my request were granted and God would fulfill my hope:"
+hebrew: "מִֽי־ יִ֭תֵּן תָּב֣וֹא שֶֽׁאֱלָתִ֑י וְ֝תִקְוָתִ֗י יִתֵּ֥ן אֱלֽוֹהַּ׃"
+pericope: "[[Job.6.1 Job Replies：My Complaint Is Just|Job Replies：My Complaint Is Just]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 6
+book/chapter: "[[Job.6|Job 6]]"
+chronological_order: 17
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEATH|DEATH]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H5414Q]]"
+- "[[H0935M]]"
+- "[[H7596]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H8615B]]"
+- "[[H5414G]]"
+- "[[H0433]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 6:8**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Oh that I might have my request; and that God would grant [me] the thing that I long for!
 <small><sub>**BSB:**</sub></small>
 If only my request were granted and God would fulfill my hope:
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִֽי]][[H9014\|־]] [[H5414Q\|יִ֭תֵּן]] [[H0935M\|תָּב֣וֹא]] [[H7596\|שֶֽׁאֱלָתִ֑]][[H9020\|י]] [[H9002\|וְ֝]][[H8615B\|תִקְוָתִ֗]][[H9020\|י]] [[H5414G\|יִתֵּ֥ן]] [[H0433\|אֱלֽוֹהַּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEATH|DEATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.7|<< Job 6:7]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.9|Job 6:9 >>]]</td></tr></table>
 

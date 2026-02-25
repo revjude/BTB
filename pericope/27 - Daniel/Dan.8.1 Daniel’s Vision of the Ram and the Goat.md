@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Daniel’s Vision of the Ram and the Goat
+type: Pericope
 pericope: "[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|Daniel’s Vision of the Ram and the Goat]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Daniel
 chapter: 8
 book/chapter: "[[Dan.8|Daniel 8]]"
-genre:
+chronological_order: 844
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 14
 verses:
 - "[[Dan.8.1]]"
 - "[[Dan.8.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Dan.8.14]]"
 ---
 
-[[Dan.8|Daniel 8:1 - Daniel 8:14]]
+<small>[[Dan.8|Daniel 8:1-14]]</small>
 *Daniel’s Vision of the Ram and the Goat*
 
 [[Dan.8.1|1]] In the third year of the reign of king Belshazzar a vision appeared unto me, \[even unto\] me Daniel, after that which appeared unto me at the first.

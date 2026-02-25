@@ -1,8 +1,60 @@
+---
+title: Psalm 81:16
+type: Verse
+kjv: "He should have fed them also with the finest of the wheat: and with honey out of the rock should I have satisfied thee."
+bsb: "But I would feed you the finest wheat; with honey from the rock I would satisfy you.”"
+hebrew: "וַֽ֭יַּאֲכִילֵהוּ מֵחֵ֣לֶב חִטָּ֑ה וּ֝מִצּ֗וּר דְּבַ֣שׁ אַשְׂבִּיעֶֽךָ׃"
+pericope: "[[Ps.81.1 Sing for Joy to God Our Strength|Sing for Joy to God Our Strength]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 81
+book/chapter: "[[Ps.81|Psalm 81]]"
+chronological_order: 511
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic BREAD|BREAD]]"
+- "[[topic FAT|FAT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HONEY|HONEY]]"
+- "[[topic WHEAT|WHEAT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H2459]]"
+- "[[H2406]]"
+- "[[H9002]]"
+- "[[H6697H]]"
+- "[[H1706]]"
+- "[[H7646]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 81:16**<big><big>[[Ps.81.1 Sing for Joy to God Our Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He should have fed them also with the finest of the wheat: and with honey out of the rock should I have satisfied thee.
 <small><sub>**BSB:**</sub></small>
 But I would feed you the finest wheat; with honey from the rock I would satisfy you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ֭]][[H0398\|יַּאֲכִילֵ]][[H9033\|הוּ]] [[H9006\|מֵ]][[H2459\|חֵ֣לֶב]] [[H2406\|חִטָּ֑ה]] [[H9002\|וּ֝]][[H9006\|מִ]][[H6697H\|צּ֗וּר]] [[H1706\|דְּבַ֣שׁ]] [[H7646\|אַשְׂבִּיעֶֽ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic BREAD|BREAD]] • [[topic FAT|FAT]] • [[topic GOD|GOD]] • [[topic HONEY|HONEY]] • [[topic WHEAT|WHEAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.81.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.81.15|<< Psalms 81:15]]</td><td align="center" style="border:none;">[[Ps.81|Psalms 81]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.82.0|Psalms 82:0 >>]]</td></tr></table>
 

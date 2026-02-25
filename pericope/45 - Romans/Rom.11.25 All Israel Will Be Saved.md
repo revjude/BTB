@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: All Israel Will Be Saved
+type: Pericope
 pericope: "[[Rom.11.25 All Israel Will Be Saved|All Israel Will Be Saved]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Romans
 chapter: 11
 book/chapter: "[[Rom.11|Romans 11]]"
-genre:
+chronological_order: 1097
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 8
 verses:
 - "[[Rom.11.25]]"
 - "[[Rom.11.26]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Rom.11.32]]"
 ---
 
-[[Rom.11|Romans 11:25 - Romans 11:32]]
+<small>[[Rom.11|Romans 11:25-32]]</small>
 *All Israel Will Be Saved*
 
 [[Rom.11.25|25]] For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in.

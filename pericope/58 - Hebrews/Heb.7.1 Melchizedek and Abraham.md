@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Melchizedek and Abraham
+type: Pericope
 pericope: "[[Heb.7.1 Melchizedek and Abraham|Melchizedek and Abraham]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 7
 book/chapter: "[[Heb.7|Hebrews 7]]"
-genre:
+chronological_order: 1146
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 10
 verses:
 - "[[Heb.7.1]]"
 - "[[Heb.7.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Heb.7.10]]"
 ---
 
-[[Heb.7|Hebrews 7:1 - Hebrews 7:10]]
+<small>[[Heb.7|Hebrews 7:1-10]]</small>
 *Melchizedek and Abraham*
 
 [[Heb.7.1|1]] For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him;

@@ -1,8 +1,61 @@
+---
+title: 2 Chronicles 4:5
+type: Verse
+kjv: "And the thickness of it was an handbreadth, and the brim of it like the work of the brim of a cup, with flowers of lilies; and it received and held three thousand baths."
+bsb: "It was a handbreadth thick, and its rim was fashioned like the brim of a cup, like a lily blossom. It could hold three thousand baths."
+hebrew: "וְעָבְי֣וֹ טֶ֔פַח וּשְׂפָתוֹ֙ כְּמַעֲשֵׂ֣ה שְׂפַת־ כּ֔וֹס פֶּ֖רַח שֽׁוֹשַׁנָּ֑ה מַחֲזִ֣יק בַּתִּ֔ים שְׁלֹ֥שֶׁת אֲלָפִ֖ים יָכִֽיל׃ ס"
+pericope: "[[2Chr.4.1 The Bronze Altar and Molten Sea|The Bronze Altar and Molten Sea]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 4
+book/chapter: "[[2Chr.4|2 Chronicles 4]]"
+chronological_order: 493
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic HANDBREADTH|HANDBREADTH]]"
+- "[[topic LILY|LILY]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H5672]]"
+- "[[H9023]]"
+- "[[H2947]]"
+- "[[H8193I]]"
+- "[[H9004]]"
+- "[[H4639G]]"
+- "[[H9014]]"
+- "[[H3563A]]"
+- "[[H6525]]"
+- "[[H7799]]"
+- "[[H2388H]]"
+- "[[H1324]]"
+- "[[H7969]]"
+- "[[H0505G]]"
+- "[[H3557]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Chronicles 4:5**<big><big>[[2Chr.4.1 The Bronze Altar and Molten Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the thickness of it [was] an handbreadth, and the brim of it like the work of the brim of a cup, with flowers of lilies; [and] it received and held three thousand baths.
 <small><sub>**BSB:**</sub></small>
 It was a handbreadth thick, and its rim was fashioned like the brim of a cup, like a lily blossom. It could hold three thousand baths.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5672\|עָבְי֣]][[H9023\|וֹ]] [[H2947\|טֶ֔פַח]] [[H9002\|וּ]][[H8193I\|שְׂפָת]][[H9023\|וֹ֙]] [[H9004\|כְּ]][[H4639G\|מַעֲשֵׂ֣ה]] [[H8193I\|שְׂפַת]][[H9014\|־]] [[H3563A\|כּ֔וֹס]] [[H6525\|פֶּ֖רַח]] [[H7799\|שֽׁוֹשַׁנָּ֑ה]] [[H2388H\|מַחֲזִ֣יק]] [[H1324\|בַּתִּ֔ים]] [[H7969\|שְׁלֹ֥שֶׁת]] [[H0505G\|אֲלָפִ֖ים]] [[H3557\|יָכִֽיל]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HANDBREADTH|HANDBREADTH]] • [[topic LILY|LILY]] • [[topic MEASURE|MEASURE]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.4.4|<< 2 Chronicles 4:4]]</td><td align="center" style="border:none;">[[2Chr.4|2 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.4.6|2 Chronicles 4:6 >>]]</td></tr></table>
 
@@ -20,7 +73,7 @@ It was a handbreadth thick, and its rim was fashioned like the brim of a cup, li
 | baths  |**<big>&#8207;[[H1324\|בַּתִּ֔ים]]&#8207; </big>**| ba.Tim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | three  |**<big>&#8207;[[H7969\|שְׁלֹ֥שֶׁת]]&#8207; </big>**| she.Lo.shet<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thousand\<s>  |**<big>&#8207;[[H0505G\|אֲלָפִ֖ים]]&#8207; </big>**| 'a.la.Fim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it contained  |**<big>&#8207;[[H3557\|יָכִֽיל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ya.Khil<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it contained  |**<big>&#8207;[[H3557\|יָכִֽיל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ya.Khil<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.4.4|<< 2 Chronicles 4:4]]</td><td align="center" style="border:none;">[[2Chr.4|2 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.4.6|2 Chronicles 4:6 >>]]</td></tr></table>
 
 

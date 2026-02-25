@@ -1,10 +1,66 @@
+---
+title: Luke 17:27
+type: Verse
+kjv: "They did eat, they drank, they married wives, they were given in marriage, until the day that Noe entered into the ark, and the flood came, and destroyed them all."
+bsb: "People were eating and drinking, marrying and being given in marriage, up to the day Noah entered the ark. Then the flood came and destroyed them all."
+jesus_said: "They did eat, they drank, they married wives, they were given in marriage, until the day that Noe entered into the ark, and the flood came, and destroyed them all."
+greek: "ἤσθιον, ἔπινον, ἐγάμουν, ἐγαμίζοντο, ἄχρι ἧς ἡμέρας εἰσῆλθεν Νῶε εἰς τὴν κιβωτόν, καὶ ἦλθεν ὁ κατακλυσμὸς καὶ ἀπώλεσεν πάντας."
+pericope: "[[Luke.17.20 The Coming of the Kingdom|The Coming of the Kingdom]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 17
+book/chapter: "[[Luke.17|Luke 17]]"
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANTEDILUVIANS|ANTEDILUVIANS]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FLOOD|FLOOD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic NOAH|NOAH]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G2068]]"
+- "[[G4095]]"
+- "[[G1060]]"
+- "[[G1061]]"
+- "[[G0891]]"
+- "[[G3739]]"
+- "[[G2250]]"
+- "[[G1525]]"
+- "[[G3575]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2787H]]"
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G2627]]"
+- "[[G0622]]"
+- "[[G3956]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 17:27**<big><big>[[Luke.17.20 The Coming of the Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 They did eat, they drank, they married wives, they were given in marriage, until the day that Noe entered into the ark, and the flood came, and destroyed them all.
 <small><sub>**BSB:**</sub></small>
 People were eating and drinking, marrying and being given in marriage, up to the day Noah entered the ark. Then the flood came and destroyed them all.
-<small><sub>**Literal:**</sub></small>
-They were eating, were drinking, were marrying, were being given in marriage, until that day entered Noah into the ark, and came the flood and destroyed all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.26|<< Luke 17:26]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.28|Luke 17:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2068\|ἤσθιον,]]  [[G4095\|ἔπινον,]]  [[G1060\|ἐγάμουν,]]  [[G1061\|ἐγαμίζοντο,]]  [[G0891\|ἄχρι]]  [[G3739\|ἧς]]  [[G2250\|ἡμέρας]]  [[G1525\|εἰσῆλθεν]]  [[G3575\|Νῶε]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2787H\|κιβωτόν,]]  [[G2532\|καὶ]]  [[G2064\|ἦλθεν]]  [[G3588\|ὁ]]  [[G2627\|κατακλυσμὸς]]  [[G2532\|καὶ]]  [[G0622\|ἀπώλεσεν]]  [[G3956\|πάντας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTEDILUVIANS|ANTEDILUVIANS]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic FLOOD|FLOOD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic NOAH|NOAH]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.26|<< Luke 17:26]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.28|Luke 17:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 17:27** is...
 > $\quad$ alluding to: [[LXX.Gen.7.7|Gen 7:7]]

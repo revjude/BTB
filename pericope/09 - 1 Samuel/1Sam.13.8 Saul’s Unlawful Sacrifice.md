@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saul’s Unlawful Sacrifice
+type: Pericope
 pericope: "[[1Sam.13.8 Saul’s Unlawful Sacrifice|Saul’s Unlawful Sacrifice]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 13
 book/chapter: "[[1Sam.13|1 Samuel 13]]"
-genre:
+chronological_order: 292
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 8
 verses:
 - "[[1Sam.13.8]]"
 - "[[1Sam.13.9]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Sam.13.15]]"
 ---
 
-[[1Sam.13|1 Samuel 13:8 - 1 Samuel 13:15]]
+<small>[[1Sam.13|1 Samuel 13:8-15]]</small>
 *Saul’s Unlawful Sacrifice*
 
 [[1Sam.13.8|8]] And he tarried seven days, according to the set time that Samuel \[had appointed\]: but Samuel came not to Gilgal; and the people were scattered from him.

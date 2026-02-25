@@ -1,8 +1,66 @@
+---
+title: 1 Samuel 20:25
+type: Verse
+kjv: "And the king sat upon his seat, as at other times, even upon a seat by the wall: and Jonathan arose, and Abner sat by Saul’s side, and David’s place was empty."
+bsb: "He sat in his usual place by the wall, opposite Jonathan and beside Abner, but David’s place was empty."
+hebrew: "וַיֵּ֣שֶׁב הַ֠מֶּלֶךְ עַל־ מ֨וֹשָׁב֜וֹ כְּפַ֣עַם׀ בְּפַ֗עַם אֶל־ מוֹשַׁב֙ הַקִּ֔יר וַיָּ֙קָם֙ יְה֣וֹנָתָ֔ן וַיֵּ֥שֶׁב אַבְנֵ֖ר מִצַּ֣ד שָׁא֑וּל וַיִּפָּקֵ֖ד מְק֥וֹם דָּוִֽד׃"
+pericope: "[[1Sam.20.10 Jonathan and David Renew Their Covenant|Jonathan and David Renew Their Covenant]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 20
+book/chapter: "[[1Sam.20|1 Samuel 20]]"
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARROW|ARROW]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4186]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H6471]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H0413]]"
+- "[[H7023]]"
+- "[[H6965I]]"
+- "[[H3083H]]"
+- "[[H0074]]"
+- "[[H9006]]"
+- "[[H6654]]"
+- "[[H7586G]]"
+- "[[H6485K]]"
+- "[[H4725]]"
+- "[[H1732]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 20:25**<big><big>[[1Sam.20.10 Jonathan and David Renew Their Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king sat upon his seat, as at other times, [even] upon a seat by the wall: and Jonathan arose, and Abner sat by Saul’s side, and David’s place was empty.
 <small><sub>**BSB:**</sub></small>
 He sat in his usual place by the wall, opposite Jonathan and beside Abner, but David’s place was empty.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3427\|יֵּ֣שֶׁב]] [[H9009\|הַ֠]][[H4428G\|מֶּלֶךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H4186\|מ֨וֹשָׁב֜]][[H9023\|וֹ]] [[H9004\|כְּ]][[H6471\|פַ֣עַם]][[H9015\|׀]] [[H9003\|בְּ]][[H6471\|פַ֗עַם]] [[H0413\|אֶל]][[H9014\|־]] [[H4186\|מוֹשַׁב֙]] [[H9009\|הַ]][[H7023\|קִּ֔יר]] [[H9001\|וַ]][[H6965I\|יָּ֙קָם֙]] [[H3083H\|יְה֣וֹנָתָ֔ן]] [[H9001\|וַ]][[H3427\|יֵּ֥שֶׁב]] [[H0074\|אַבְנֵ֖ר]] [[H9006\|מִ]][[H6654\|צַּ֣ד]] [[H7586G\|שָׁא֑וּל]] [[H9001\|וַ]][[H6485K\|יִּפָּקֵ֖ד]] [[H4725\|מְק֥וֹם]] [[H1732\|דָּוִֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARROW|ARROW]] • [[topic JEALOUSY|JEALOUSY]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.24|<< 1 Samuel 20:24]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.26|1 Samuel 20:26 >>]]</td></tr></table>
 

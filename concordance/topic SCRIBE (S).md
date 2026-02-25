@@ -3,7 +3,7 @@
 
 → A writer and transcriber of the law  [[2Sam.8.17|2Sa 8:17]]; [[2Sam.20.25|20:25]];  [[1Kgs.4.3|1Ki 4:3]]; [[2Kgs.12.10|2Ki 12:10]]; [[2Kgs.18.37|18:37]]; [[2Kgs.19.2|19:2]]; [[1Chr.24.6|1Ch 24:6]]; [[1Chr.27.32|27:32]]; [[Neh.13.13|Ne 13:13]]; [[Jer.36.12|Jer 36:12]]
 
-→ The king' s secretary (official recordist) [[2Kgs.12.10|2Ki 12:10]]-[[2Kgs.12.12|12]];  [[2Kgs.22.1|22:1]]-[[2Kgs.22.14|14]]; [[Esth.3.12|Es 3:12]]; [[Esth.8.9|8:9]]
+→ The king' s secretary (official recordist) [[2Kgs.12.10|2Ki 12:10-12]];  [[2Kgs.22.1|22:1-14]]; [[Esth.3.12|Es 3:12]]; [[Esth.8.9|8:9]]
 
 → The mustering officer of the army [[2Kgs.25.19|2Ki 25:19]]; [[2Chr.26.11|2Ch 26:11]]
 

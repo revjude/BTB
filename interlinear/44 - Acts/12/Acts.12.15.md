@@ -1,10 +1,60 @@
+---
+title: Acts 12:15
+type: Verse
+kjv: "And they said unto her, Thou art mad. But she constantly affirmed that it was even so. Then said they, It is his angel."
+bsb: "“You are out of your mind,” they told her. But when she kept insisting it was so, they said, “It must be his angel.”"
+greek: "οἱ δὲ πρὸς αὐτὴν εἶπαν· μαίνῃ. ἡ δὲ διϊσχυρίζετο οὕτως ἔχειν. οἱ δὲ ἔλεγον· ὁ ἄγγελός ἐστιν αὐτοῦ."
+pericope: "[[Acts.12.5 The Rescue of Peter|The Rescue of Peter]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 12
+book/chapter: "[[Acts.12|Acts 12]]"
+chronological_order: 1030
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G3105]]"
+- "[[G1340]]"
+- "[[G3779]]"
+- "[[G2192]]"
+- "[[G3004G]]"
+- "[[G0032G]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **Acts 12:15**<big><big>[[Acts.12.5 The Rescue of Peter|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they said unto her, Thou art mad. But she constantly affirmed that it was even so. Then said they, It is his angel.
 <small><sub>**BSB:**</sub></small>
 “You are out of your mind,” they told her. But when she kept insisting it was so, they said, “It must be his angel.”
-<small><sub>**Literal:**</sub></small>
-<the> And to her they said; You rave. <the> But she was insisting [it] so to be. <the> And they were saying; The angel it is of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.14|<< Acts 12:14]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.16|Acts 12:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὴν]]  [[G2036\|εἶπαν·]]  [[G3105\|μαίνῃ.]]  [[G3588\|ἡ]]  [[G1161\|δὲ]]  [[G1340\|διϊσχυρίζετο]]  [[G3779\|οὕτως]]  [[G2192\|ἔχειν.]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G3004G\|ἔλεγον·]]  [[G3588\|ὁ]]  [[G0032G\|ἄγγελός]]  [[G1510\|ἐστιν]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEROD|HEROD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRAYER|PRAYER]] • [[topic PRISONERS|PRISONERS]] • [[topic RULERS|RULERS]] • [[topic SUPERSTITION|SUPERSTITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.14|<< Acts 12:14]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.16|Acts 12:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

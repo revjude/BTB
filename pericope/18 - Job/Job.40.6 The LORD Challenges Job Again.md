@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Challenges Job Again
+type: Pericope
 pericope: "[[Job.40.6 The LORD Challenges Job Again|The LORD Challenges Job Again]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 40
 book/chapter: "[[Job.40|Job 40]]"
-genre:
+chronological_order: 51
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 19
 verses:
 - "[[Job.40.6]]"
 - "[[Job.40.7]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Job.40.24]]"
 ---
 
-[[Job.40|Job 40:6 - Job 40:24]]
+<small>[[Job.40|Job 40:6-24]]</small>
 *The LORD Challenges Job Again*
 
 [[Job.40.6|6]] Then answered the LORD unto Job out of the whirlwind, and said,

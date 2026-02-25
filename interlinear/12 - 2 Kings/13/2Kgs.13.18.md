@@ -1,8 +1,61 @@
+---
+title: 2 Kings 13:18
+type: Verse
+kjv: "And he said, Take the arrows. And he took them. And he said unto the king of Israel, Smite upon the ground. And he smote thrice, and stayed."
+bsb: "Then Elisha said, “Take the arrows!” So he took them, and Elisha said to the king of Israel, “Strike the ground!” So he struck the ground three times and stopped."
+hebrew: "וַיֹּ֛אמֶר קַ֥ח הַחִצִּ֖ים וַיִּקָּ֑ח וַיֹּ֤אמֶר לְמֶֽלֶךְ־ יִשְׂרָאֵל֙ הַךְ־ אַ֔רְצָה וַיַּ֥ךְ שָֽׁלֹשׁ־ פְּעָמִ֖ים וַֽיַּעֲמֹֽד׃"
+pericope: "[[2Kgs.13.14 Elisha’s Final Prophecy|Elisha’s Final Prophecy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 13
+book/chapter: "[[2Kgs.13|2 Kings 13]]"
+chronological_order: 590
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~798–782 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARROW|ARROW]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic JEHOASH|JEHOASH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3947G]]"
+- "[[H9009]]"
+- "[[H2671]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H5221]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H7969]]"
+- "[[H6471]]"
+- "[[H5975G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 13:18**<big><big>[[2Kgs.13.14 Elisha’s Final Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Take the arrows. And he took [them]. And he said unto the king of Israel, Smite upon the ground. And he smote thrice, and stayed.
 <small><sub>**BSB:**</sub></small>
 Then Elisha said, “Take the arrows!” So he took them, and Elisha said to the king of Israel, “Strike the ground!” So he struck the ground three times and stopped.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֛אמֶר]] [[H3947G\|קַ֥ח]] [[H9009\|הַ]][[H2671\|חִצִּ֖ים]] [[H9001\|וַ]][[H3947G\|יִּקָּ֑ח]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|לְ]][[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H5221\|הַךְ]][[H9014\|־]] [[H0776H\|אַ֔רְצָ]][[H9011\|ה]] [[H9001\|וַ]][[H5221\|יַּ֥ךְ]] [[H7969\|שָֽׁלֹשׁ]][[H9014\|־]] [[H6471\|פְּעָמִ֖ים]] [[H9001\|וַֽ]][[H5975G\|יַּעֲמֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARROW|ARROW]] • [[topic DOUBTING|DOUBTING]] • [[topic ELISHA|ELISHA]] • [[topic JEHOASH|JEHOASH]] • [[topic PROPHECY|PROPHECY]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.13.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.13.17|<< 2 Kings 13:17]]</td><td align="center" style="border:none;">[[2Kgs.13|2 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.13.19|2 Kings 13:19 >>]]</td></tr></table>
 

@@ -1,10 +1,48 @@
+---
+title: John 20:10
+type: Verse
+kjv: "Then the disciples went away again unto their own home."
+bsb: "Then the disciples returned to their homes."
+greek: "ἀπῆλθον οὖν πάλιν πρὸς αὐτοὺς οἱ μαθηταί.¶"
+pericope: "[[John.20.10 Jesus Appears to Mary Magdalene|Jesus Appears to Mary Magdalene]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 20
+book/chapter: "[[John.20|John 20]]"
+chronological_order: 1017
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G0565]]"
+- "[[G3767]]"
+- "[[G3825]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3101]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 20:10**<big><big>[[John.20.10 Jesus Appears to Mary Magdalene|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then the disciples went away again unto their own home.
 <small><sub>**BSB:**</sub></small>
 Then the disciples returned to their homes.
-<small><sub>**Literal:**</sub></small>
-Went away therefore again to their [homes] the disciples.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.9|<< John 20:9]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.11|John 20:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0565\|ἀπῆλθον]]  [[G3767\|οὖν]]  [[G3825\|πάλιν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτοὺς]]  [[G3588\|οἱ]]  [[G3101\|μαθηταί.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.9|<< John 20:9]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.11|John 20:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

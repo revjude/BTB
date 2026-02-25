@@ -1,8 +1,65 @@
+---
+title: 2 Kings 19:14
+type: Verse
+kjv: "And Hezekiah received the letter of the hand of the messengers, and read it: and Hezekiah went up into the house of the LORD, and spread it before the LORD."
+bsb: "So Hezekiah received the letter from the messengers, read it, and went up to the house of the LORD and spread it out before the LORD."
+hebrew: "וַיִּקַּ֨ח חִזְקִיָּ֧הוּ אֶת־ הַסְּפָרִ֛ים מִיַּ֥ד הַמַּלְאָכִ֖ים וַיִּקְרָאֵ֑ם וַיַּ֙עַל֙ בֵּ֣ית יְהוָ֔ה וַיִּפְרְשֵׂ֥הוּ חִזְקִיָּ֖הוּ לִפְנֵ֥י יְהוָֽה׃ פ"
+pericope: "[[2Kgs.19.14 Hezekiah’s Prayer|Hezekiah’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 19
+book/chapter: "[[2Kgs.19|2 Kings 19]]"
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic LETTERS|LETTERS]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SHEKINAH|SHEKINAH]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947H]]"
+- "[[H2396G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5612A]]"
+- "[[H9006]]"
+- "[[H3027G]]"
+- "[[H4397G]]"
+- "[[H7121J]]"
+- "[[H9038]]"
+- "[[H5927G]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H6566]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Kings 19:14**<big><big>[[2Kgs.19.14 Hezekiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hezekiah received the letter of the hand of the messengers, and read it: and Hezekiah went up into the house of the LORD, and spread it before the LORD.
 <small><sub>**BSB:**</sub></small>
 So Hezekiah received the letter from the messengers, read it, and went up to the house of the LORD and spread it out before the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947H\|יִּקַּ֨ח]] [[H2396G\|חִזְקִיָּ֧הוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5612A\|סְּפָרִ֛ים]] [[H9006\|מִ]][[H3027G\|יַּ֥ד]] [[H9009\|הַ]][[H4397G\|מַּלְאָכִ֖ים]] [[H9001\|וַ]][[H7121J\|יִּקְרָאֵ֑]][[H9038\|ם]] [[H9001\|וַ]][[H5927G\|יַּ֙עַל֙]] [[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H6566\|יִּפְרְשֵׂ֥]][[H9033\|הוּ]] [[H2396G\|חִזְקִיָּ֖הוּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LETTERS|LETTERS]] • [[topic PRAYER|PRAYER]] • [[topic RELIGION|RELIGION]] • [[topic SHEKINAH|SHEKINAH]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.13|<< 2 Kings 19:13]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.15|2 Kings 19:15 >>]]</td></tr></table>
 
@@ -21,7 +78,7 @@ So Hezekiah received the letter from the messengers, read it, and went up to the
 | and he spread out it  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6566\|יִּפְרְשֵׂ֥]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yif.re.Se.<small><sup>[[HVqw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hezekiah  |**<big>&#8207;[[H2396G\|חִזְקִיָּ֖הוּ]]&#8207; </big>**| chiz.ki.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵ֥י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.13|<< 2 Kings 19:13]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.15|2 Kings 19:15 >>]]</td></tr></table>
 
 

@@ -1,8 +1,52 @@
+---
+title: Isaiah 38:22
+type: Verse
+kjv: "Hezekiah also had said, What is the sign that I shall go up to the house of the LORD?"
+bsb: "And Hezekiah had asked, “What will be the sign that I will go up to the house of the LORD?”"
+hebrew: "וַיֹּ֥אמֶר חִזְקִיָּ֖הוּ מָ֣ה א֑וֹת כִּ֥י אֶעֱלֶ֖ה בֵּ֥ית יְהוָֽה׃ ס"
+pericope: "[[Isa.38.9 Hezekiah’s Song of Thanksgiving|Hezekiah’s Song of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 38
+book/chapter: "[[Isa.38|Isaiah 38]]"
+chronological_order: 665
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2396G]]"
+- "[[H4100]]"
+- "[[H0226G]]"
+- "[[H3588A]]"
+- "[[H5927G]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 38:22**<big><big>[[Isa.38.9 Hezekiah’s Song of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hezekiah also had said, What [is] the sign that I shall go up to the house of the LORD?
 <small><sub>**BSB:**</sub></small>
 And Hezekiah had asked, “What will be the sign that I will go up to the house of the LORD?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H2396G\|חִזְקִיָּ֖הוּ]] [[H4100\|מָ֣ה]] [[H0226G\|א֑וֹת]] [[H3588A\|כִּ֥י]] [[H5927G\|אֶעֱלֶ֖ה]] [[H1004Q\|בֵּ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEZEKIAH|HEZEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.21|<< Isaiah 38:21]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.39.1|Isaiah 39:1 >>]]</td></tr></table>
 
@@ -15,7 +59,7 @@ And Hezekiah had asked, “What will be the sign that I will go up to the house 
 | that  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will go up  |**<big>&#8207;[[H5927G\|אֶעֱלֶ֖ה]]&#8207; </big>**| 'e.'e.Leh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] house of  |**<big>&#8207;[[H1004Q\|בֵּ֥ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.21|<< Isaiah 38:21]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.39.1|Isaiah 39:1 >>]]</td></tr></table>
 
 

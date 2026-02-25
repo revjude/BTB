@@ -1,6 +1,82 @@
+---
+title: LXX 2 Kings 21:7
+type: Verse
+lxx: "And he put the carving of the sacred grove in the house, in which the lord said to David, and to Solomon  his son, In  this house, and in Jerusalem, in which I chose from out of all the tribes  of Israel, that I will put  my name there into the eon."
+greek: "και έθηκε το γλυπτόν του άλσους εν τω οίκω ω είπε κύριος προς Δαυίδ και προς Σολομώντα τον υιόν αυτού εν τω οίκω τούτω και εν Ιερουσαλήμ η εξελεξάμην εκ πασών φυλών του Ισραήλ και θήσω το όνομά μου εκεί εις τον αιώνα"
+original_language: Greek
+testament: Old
+book: 2 Kings
+chapter: 21
+book/chapter: "[[2Kgs.21|2 Kings 21]]"
+chronological_order: 706
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GROVES|GROVES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G5087]]"
+- "[[G3588]]"
+- "[[G6745]]"
+- "[[G3588]]"
+- "[[G6242]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G3739]]"
+- "[[G2036]]"
+- "[[G2962]]"
+- "[[G4314]]"
+- "[[G4622]]"
+- "[[G2532]]"
+- "[[G4314]]"
+- "[[G4672]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G2419]]"
+- "[[G3739]]"
+- "[[G1586]]"
+- "[[G1537]]"
+- "[[G3956]]"
+- "[[G5443]]"
+- "[[G3588]]"
+- "[[G2474]]"
+- "[[G2532]]"
+- "[[G5087]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G1473]]"
+- "[[G1563]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0165]]"
+---
+
 **LXX 2 Kings 21:7** 
 <small><sub>**LXX:**</sub></small>
 And he put the carving of the sacred grove in the house, in which \[the\] <span class="smallcaps">lord</span> said to David, and to Solomon  his son, In  this house, and in Jerusalem, in which I chose from out of all \[the\] tribes  of Israel, that I will put  my name there into the eon. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G5087\|έθηκε]] [[G3588\|το]] [[G6745\|γλυπτόν]] [[G3588\|του]] [[G6242\|άλσους]] [[G1722\|εν]] [[G3588\|τω]] [[G3624\|οίκω]] [[G3739\|ω]] [[G2036\|είπε]] [[G2962\|κύριος]] [[G4314\|προς]] [[G4622\|Δαυίδ]] [[G2532\|και]] [[G4314\|προς]] [[G4672\|Σολομώντα]] [[G3588\|τον]] [[G5207\|υιόν]] [[G1473\|αυτού]] [[G1722\|εν]] [[G3588\|τω]] [[G3624\|οίκω]] [[G3778\|τούτω]] [[G2532\|και]] [[G1722\|εν]] [[G2419\|Ιερουσαλήμ]] [[G3739\|η]] [[G1586\|εξελεξάμην]] [[G1537\|εκ]] [[G3956\|πασών]] [[G5443\|φυλών]] [[G3588\|του]] [[G2474\|Ισραήλ]] [[G2532\|και]] [[G5087\|θήσω]] [[G3588\|το]] [[G3686\|όνομά]] [[G1473\|μου]] [[G1563\|εκεί]] [[G1519\|εις]] [[G3588\|τον]] [[G0165\|αιώνα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GROVES|GROVES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MANASSEH|MANASSEH]] • [[topic RULERS|RULERS]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Kgs.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.21.6|<< 2 Kings 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.21.8|2 Kings 21:8 >>]]</td></tr></table>
 
@@ -45,6 +121,6 @@ And he put the carving of the sacred grove in the house, in which \[the\] <span 
 | into | **<big>[[G1519\|εις]]</big>** |
 | the | **<big>[[G3588\|τον]]</big>** |
 | eon. | **<big>[[G0165\|αιώνα]]</big>** |
-[[2Kgs.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.21.6|<< 2 Kings 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.21.8|2 Kings 21:8 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.21.6|<< 2 Kings 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.21.8|2 Kings 21:8 >>]]</td></tr></table>
 
 

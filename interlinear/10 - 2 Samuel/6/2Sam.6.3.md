@@ -1,8 +1,73 @@
+---
+title: 2 Samuel 6:3
+type: Verse
+kjv: "And they set the ark of God upon a new cart, and brought it out of the house of Abinadab that was in Gibeah: and Uzzah and Ahio, the sons of Abinadab, drave the new cart."
+bsb: "They set the ark of God on a new cart and brought it from the house of Abinadab, which was on the hill. Uzzah and Ahio, the sons of Abinadab, were guiding the new cart,"
+hebrew: "וַיַּרְכִּ֜בוּ אֶת־ אֲר֤וֹן הָֽאֱלֹהִים֙ אֶל־ עֲגָלָ֣ה חֲדָשָׁ֔ה וַיִּשָּׂאֻ֔הוּ מִבֵּ֥ית אֲבִינָדָ֖ב אֲשֶׁ֣ר בַּגִּבְעָ֑ה וְעֻזָּ֣א וְאַחְי֗וֹ בְּנֵי֙ אֲבִ֣ינָדָ֔ב נֹהֲגִ֖ים אֶת־ הָעֲגָלָ֥ה חֲדָשָֽׁה׃"
+pericope: "[[2Sam.6.1 David Fetches the Ark|David Fetches the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 6
+book/chapter: "[[2Sam.6|2 Samuel 6]]"
+chronological_order: 392
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABINADAB|ABINADAB]]"
+- "[[topic AHIO|AHIO]]"
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic CART|CART]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GIBEAH|GIBEAH]]"
+- "[[topic KIRJATH-JEARIM|KIRJATH-JEARIM]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic UZZAH|UZZAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7392]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0727]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H0413]]"
+- "[[H5699]]"
+- "[[H2319H]]"
+- "[[H5375H]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H1004M]]"
+- "[[H0041G]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H1389I]]"
+- "[[H9002]]"
+- "[[H5798A]]"
+- "[[H0283G]]"
+- "[[H1121A]]"
+- "[[H5090A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 6:3**<big><big>[[2Sam.6.1 David Fetches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they set the ark of God upon a new cart, and brought it out of the house of Abinadab that [was] in Gibeah: and Uzzah and Ahio, the sons of Abinadab, drave the new cart.
 <small><sub>**BSB:**</sub></small>
 They set the ark of God on a new cart and brought it from the house of Abinadab, which was on the hill. Uzzah and Ahio, the sons of Abinadab, were guiding the new cart,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7392\|יַּרְכִּ֜בוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲר֤וֹן]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִים֙]] [[H0413\|אֶל]][[H9014\|־]] [[H5699\|עֲגָלָ֣ה]] [[H2319H\|חֲדָשָׁ֔ה]] [[H9001\|וַ]][[H5375H\|יִּשָּׂאֻ֔]][[H9033\|הוּ]] [[H9006\|מִ]][[H1004M\|בֵּ֥ית]] [[H0041G\|אֲבִינָדָ֖ב]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בַּ]][[H1389I\|גִּבְעָ֑ה]] [[H9002\|וְ]][[H5798A\|עֻזָּ֣א]] [[H9002\|וְ]][[H0283G\|אַחְי֗וֹ]] [[H1121A\|בְּנֵי֙]] [[H0041G\|אֲבִ֣ינָדָ֔ב]] [[H5090A\|נֹהֲגִ֖ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5699\|עֲגָלָ֥ה]] [[H2319H\|חֲדָשָֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABINADAB|ABINADAB]] • [[topic AHIO|AHIO]] • [[topic BULLOCK|BULLOCK]] • [[topic CART|CART]] • [[topic DAVID|DAVID]] • [[topic GIBEAH|GIBEAH]] • [[topic KIRJATH-JEARIM|KIRJATH-JEARIM]] • [[topic MIRACLES|MIRACLES]] • [[topic UZZAH|UZZAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.2|<< 2 Samuel 6:2]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.4|2 Samuel 6:4 >>]]</td></tr></table>
 

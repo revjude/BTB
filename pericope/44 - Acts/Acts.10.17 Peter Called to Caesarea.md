@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Peter Called to Caesarea
+type: Pericope
 pericope: "[[Acts.10.17 Peter Called to Caesarea|Peter Called to Caesarea]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Acts
 chapter: 10
 book/chapter: "[[Acts.10|Acts 10]]"
-genre:
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 7
 verses:
 - "[[Acts.10.17]]"
 - "[[Acts.10.18]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Acts.10.23]]"
 ---
 
-[[Acts.10|Acts 10:17 - Acts 10:23]]
+<small>[[Acts.10|Acts 10:17-23]]</small>
 *Peter Called to Caesarea*
 
 [[Acts.10.17|17]] Now while Peter doubted in himself what this vision which he had seen should mean, behold, the men which were sent from Cornelius had made inquiry for Simon’s house, and stood before the gate,

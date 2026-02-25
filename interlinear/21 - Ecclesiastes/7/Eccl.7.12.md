@@ -1,8 +1,55 @@
+---
+title: Ecclesiastes 7:12
+type: Verse
+kjv: "For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom giveth life to them that have it."
+bsb: "For wisdom, like money, is a shelter, and the advantage of knowledge is that wisdom preserves the life of its owner."
+hebrew: "כִּ֛י בְּצֵ֥ל הַֽחָכְמָ֖ה בְּצֵ֣ל הַכָּ֑סֶף וְיִתְר֣וֹן דַּ֔עַת הַֽחָכְמָ֖ה תְּחַיֶּ֥ה בְעָלֶֽיהָ׃"
+pericope: "[[Eccl.7.1 The Value of Wisdom|The Value of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 7
+book/chapter: "[[Eccl.7|Ecclesiastes 7]]"
+chronological_order: 545
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic MONEY|MONEY]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H6738]]"
+- "[[H9009]]"
+- "[[H2451]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H3504]]"
+- "[[H1847]]"
+- "[[H2421]]"
+- "[[H1167J]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 7:12**<big><big>[[Eccl.7.1 The Value of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For wisdom [is] a defence, [and] money [is] a defence: but the excellency of knowledge [is, that] wisdom giveth life to them that have it.
 <small><sub>**BSB:**</sub></small>
 For wisdom, like money, is a shelter, and the advantage of knowledge is that wisdom preserves the life of its owner.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֛י]] [[H9003\|בְּ]][[H6738\|צֵ֥ל]] [[H9009\|הַֽ]][[H2451\|חָכְמָ֖ה]] [[H9003\|בְּ]][[H6738\|צֵ֣ל]] [[H9009\|הַ]][[H3701G\|כָּ֑סֶף]] [[H9002\|וְ]][[H3504\|יִתְר֣וֹן]] [[H1847\|דַּ֔עַת]] [[H9009\|הַֽ]][[H2451\|חָכְמָ֖ה]] [[H2421\|תְּחַיֶּ֥ה]] [[H1167J\|בְעָלֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MONEY|MONEY]] • [[topic RICHES|RICHES]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.11|<< Ecclesiastes 7:11]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.13|Ecclesiastes 7:13 >>]]</td></tr></table>
 

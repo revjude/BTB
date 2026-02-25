@@ -1,10 +1,63 @@
+---
+title: Mark 11:24
+type: Verse
+kjv: "Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive them, and ye shall have them."
+bsb: "Therefore I tell you, whatever you ask for in prayer, believe that you have received it, and it will be yours."
+jesus_said: "Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive them, and ye shall have them."
+greek: "διὰ τοῦτο λέγω ὑμῖν· πάντα ὅσα ἄν προσεύχεσθε καὶ αἰτεῖσθε, πιστεύετε ὅτι ἐλάβετε, καὶ ἔσται ὑμῖν."
+pericope: "[[Mark.11.20 The Withered Fig Tree|The Withered Fig Tree]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 11
+book/chapter: "[[Mark.11|Mark 11]]"
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3956]]"
+- "[[G3745]]"
+- "[[G0302]]"
+- "[[G4336]]"
+- "[[G2532]]"
+- "[[G0154]]"
+- "[[G4100]]"
+- "[[G3754G]]"
+- "[[G2983]]"
+- "[[G1510]]"
+texts:
+- NKO
+- k
+- N(k)O
+- no
+- NK(o)
+---
+
 **Mark 11:24**<big><big>[[Mark.11.20 The Withered Fig Tree|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive [them], and ye shall have [them].
 <small><sub>**BSB:**</sub></small>
 Therefore I tell you, whatever you ask for in prayer, believe that you have received it, and it will be yours.
-<small><sub>**Literal:**</sub></small>
-Because of this I say to you; all things as much as when praying and you ask, do believe that you receive, and it will be to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.23|<< Mark 11:23]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.25|Mark 11:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G3956\|πάντα]]  [[G3745\|ὅσα]]  [[G0302\|ἄν]]  [[G4336\|προσεύχεσθε]]  [[G2532\|καὶ]]  [[G0154\|αἰτεῖσθε,]]  [[G4100\|πιστεύετε]]  [[G3754G\|ὅτι]]  [[G2983\|ἐλάβετε,]]  [[G2532\|καὶ]]  [[G1510\|ἔσται]]  [[G4771\|ὑμῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.23|<< Mark 11:23]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.25|Mark 11:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

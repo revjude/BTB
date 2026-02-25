@@ -17,5 +17,5 @@
 
 → Struck by David [[1Sam.27.8|1Sa 27:8]]
 
-→ Fortified by Solomon [[1Kgs.9.15|1Ki 9:15]]-[[1Kgs.9.17|17]]; [[1Kgs.12.23|12:23]]
+→ Fortified by Solomon [[1Kgs.9.15|1Ki 9:15-17]]; [[1Kgs.12.23|12:23]]
 

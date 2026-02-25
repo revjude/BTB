@@ -1,8 +1,67 @@
+---
+title: Leviticus 8:35
+type: Verse
+kjv: "Therefore shall ye abide at the door of the tabernacle of the congregation day and night seven days, and keep the charge of the LORD, that ye die not: for so I am commanded."
+bsb: "You must remain at the entrance to the Tent of Meeting day and night for seven days and keep the LORD’s charge so that you will not die, for this is what I have been commanded.”"
+hebrew: "וּפֶתַח֩ אֹ֨הֶל מוֹעֵ֜ד תֵּשְׁב֨וּ יוֹמָ֤ם וָלַ֙יְלָה֙ שִׁבְעַ֣ת יָמִ֔ים וּשְׁמַרְתֶּ֛ם אֶת־ מִשְׁמֶ֥רֶת יְהוָ֖ה וְלֹ֣א תָמ֑וּתוּ כִּי־ כֵ֖ן צֻוֵּֽיתִי׃"
+pericope: "[[Lev.8.22 The Ram of Ordination|The Ram of Ordination]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 8
+book/chapter: "[[Lev.8|Leviticus 8]]"
+chronological_order: 140
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H6607]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H3427]]"
+- "[[H3119]]"
+- "[[H3915]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H9001]]"
+- "[[H8104G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4931]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H4191]]"
+- "[[H3588A]]"
+- "[[H3651C]]"
+- "[[H6680]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 8:35**<big><big>[[Lev.8.22 The Ram of Ordination|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore shall ye abide [at] the door of the tabernacle of the congregation day and night seven days, and keep the charge of the LORD, that ye die not: for so I am commanded.
 <small><sub>**BSB:**</sub></small>
 You must remain at the entrance to the Tent of Meeting day and night for seven days and keep the LORD’s charge so that you will not die, for this is what I have been commanded.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H6607\|פֶתַח֩]] [[H0168G\|אֹ֨הֶל]] [[H4150I\|מוֹעֵ֜ד]] [[H3427\|תֵּשְׁב֨וּ]] [[H3119\|יוֹמָ֤ם]] [[H9002\|וָ]][[H3915\|לַ֙יְלָה֙]] [[H7651\|שִׁבְעַ֣ת]] [[H3117G\|יָמִ֔ים]] [[H9001\|וּ]][[H8104G\|שְׁמַרְתֶּ֛ם]] [[H0853\|אֶת]][[H9014\|־]] [[H4931\|מִשְׁמֶ֥רֶת]] [[H3068G\|יְהוָ֖ה]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H4191\|תָמ֑וּתוּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H3651C\|כֵ֖ן]] [[H6680\|צֻוֵּֽיתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.34|<< Leviticus 8:34]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.36|Leviticus 8:36 >>]]</td></tr></table>
 

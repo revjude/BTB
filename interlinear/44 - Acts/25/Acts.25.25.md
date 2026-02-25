@@ -1,10 +1,57 @@
+---
+title: Acts 25:25
+type: Verse
+kjv: "But when I found that he had committed nothing worthy of death, and that he himself hath appealed to Augustus, I have determined to send him."
+bsb: "But I found he had done nothing worthy of death, and since he has now appealed to the Emperor, I decided to send him."
+greek: "ἐγὼ δὲ κατελαβόμην μηδὲν ἄξιον αὐτὸν θανάτου πεπραχέναι, καὶ αὐτοῦ δὲ τούτου ἐπικαλεσαμένου τὸν Σεβαστὸν ἔκρινα πέμπειν αὐτόν."
+pericope: "[[Acts.25.23 Paul before Agrippa and Bernice|Paul before Agrippa and Bernice]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 25
+book/chapter: "[[Acts.25|Acts 25]]"
+chronological_order: 1107
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic APPEAL|APPEAL]]"
+- "[[topic AUGUSTUS|AUGUSTUS]]"
+strongs:
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G2638]]"
+- "[[G3367]]"
+- "[[G0514]]"
+- "[[G0846]]"
+- "[[G2288]]"
+- "[[G4238]]"
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G1941]]"
+- "[[G3588]]"
+- "[[G4575]]"
+- "[[G2919]]"
+- "[[G3992]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Acts 25:25**<big><big>[[Acts.25.23 Paul before Agrippa and Bernice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when I found that he had committed nothing worthy of death, and that he himself hath appealed to Augustus, I have determined to send him.
 <small><sub>**BSB:**</sub></small>
 But I found he had done nothing worthy of death, and since he has now appealed to the Emperor, I decided to send him.
-<small><sub>**Literal:**</sub></small>
-I myself however having grasped nothing worthy him of death to have done, and himself and of this one having appealed to the Emperor I determined to send him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.24|<< Acts 25:24]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.26|Acts 25:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|ἐγὼ]]  [[G1161\|δὲ]]  [[G2638\|κατελαβόμην]]  [[G3367\|μηδὲν]]  [[G0514\|ἄξιον]]  [[G0846\|αὐτὸν]]  [[G2288\|θανάτου]]  [[G4238\|πεπραχέναι,]]  [[G2532\|καὶ]]  [[G0846\|αὐτοῦ]]  [[G1161\|δὲ]]  [[G3778\|τούτου]]  [[G1941\|ἐπικαλεσαμένου]]  [[G3588\|τὸν]]  [[G4575\|Σεβαστὸν]]  [[G2919\|ἔκρινα]]  [[G3992\|πέμπειν]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APPEAL|APPEAL]] • [[topic AUGUSTUS|AUGUSTUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.24|<< Acts 25:24]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.26|Acts 25:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

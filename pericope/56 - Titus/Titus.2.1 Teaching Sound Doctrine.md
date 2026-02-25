@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Teaching Sound Doctrine
+type: Pericope
 pericope: "[[Titus.2.1 Teaching Sound Doctrine|Teaching Sound Doctrine]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Titus
 chapter: 2
 book/chapter: "[[Titus.2|Titus 2]]"
-genre:
+chronological_order: 1133
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - church order
+verse_count: 10
 verses:
 - "[[Titus.2.1]]"
 - "[[Titus.2.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Titus.2.10]]"
 ---
 
-[[Titus.2|Titus 2:1 - Titus 2:10]]
+<small>[[Titus.2|Titus 2:1-10]]</small>
 *Teaching Sound Doctrine*
 
 [[Titus.2.1|1]] But speak thou the things which become sound doctrine:

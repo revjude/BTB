@@ -1,8 +1,73 @@
+---
+title: Jeremiah 34:5
+type: Verse
+kjv: "But thou shalt die in peace: and with the burnings of thy fathers, the former kings which were before thee, so shall they burn odours for thee; and they will lament thee, saying, Ah lord! for I have pronounced the word, saith the LORD."
+bsb: "you will die in peace. As spices were burned for your fathers, the former kings who preceded you, so people will burn spices for you and lament, ‘Alas, O master!’ For I Myself have spoken this word, declares the LORD.”"
+hebrew: "בְּשָׁל֣וֹם תָּמ֗וּת וּֽכְמִשְׂרְפ֣וֹת אֲ֠בוֹתֶיךָ הַמְּלָכִ֨ים הָרִֽאשֹׁנִ֜ים אֲשֶׁר־ הָי֣וּ לְפָנֶ֗יךָ כֵּ֚ן יִשְׂרְפוּ־ לָ֔ךְ וְה֥וֹי אָד֖וֹן יִסְפְּדוּ־ לָ֑ךְ כִּֽי־ דָבָ֥ר אֲנִֽי־ דִבַּ֖רְתִּי נְאֻם־ יְהוָֽה׃ ס"
+pericope: "[[Jer.34.1 A Prophecy against Zedekiah|A Prophecy against Zedekiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 34
+book/chapter: "[[Jer.34|Jeremiah 34]]"
+chronological_order: 757
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+strongs:
+- "[[H9003]]"
+- "[[H7965G]]"
+- "[[H4191]]"
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H4955]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H7223H]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3651C]]"
+- "[[H8313]]"
+- "[[H9032]]"
+- "[[H1945]]"
+- "[[H0113]]"
+- "[[H5594]]"
+- "[[H3588A]]"
+- "[[H1697G]]"
+- "[[H0589]]"
+- "[[H1696G]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 34:5**<big><big>[[Jer.34.1 A Prophecy against Zedekiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [But] thou shalt die in peace: and with the burnings of thy fathers, the former kings which were before thee, so shall they burn [odours] for thee; and they will lament thee, [saying], Ah lord! for I have pronounced the word, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 you will die in peace. As spices were burned for your fathers, the former kings who preceded you, so people will burn spices for you and lament, ‘Alas, O master!’ For I Myself have spoken this word, declares the LORD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H7965G\|שָׁל֣וֹם]] [[H4191\|תָּמ֗וּת]] [[H9002\|וּֽ]][[H9004\|כְ]][[H4955\|מִשְׂרְפ֣וֹת]] [[H0001G\|אֲ֠בוֹתֶי]][[H9021\|ךָ]] [[H9009\|הַ]][[H4428G\|מְּלָכִ֨ים]] [[H9009\|הָ]][[H7223H\|רִֽאשֹׁנִ֜ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1961\|הָי֣וּ]] [[H9005\|לְ]][[H6440G\|פָנֶ֗י]][[H9021\|ךָ]] [[H3651C\|כֵּ֚ן]] [[H8313\|יִשְׂרְפוּ]][[H9014\|־]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H9002\|וְ]][[H1945\|ה֥וֹי]] [[H0113\|אָד֖וֹן]] [[H5594\|יִסְפְּדוּ]][[H9014\|־]] [[H9005\|לָ֑]][[H9032\|ךְ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1697G\|דָבָ֥ר]] [[H0589\|אֲנִֽי]][[H9014\|־]] [[H1696G\|דִבַּ֖רְתִּי]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURIAL|BURIAL]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.34.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.4|<< Jeremiah 34:4]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.6|Jeremiah 34:6 >>]]</td></tr></table>
 
@@ -29,7 +94,7 @@ you will die in peace. As spices were burned for your fathers, the former kings 
 | I  |**<big>&#8207;[[H0589\|אֲנִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.ni-<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have spoken  |**<big>&#8207;[[H1696G\|דִבַּ֖רְתִּי]]&#8207; </big>**| di.Bar.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.4|<< Jeremiah 34:4]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.6|Jeremiah 34:6 >>]]</td></tr></table>
 
 

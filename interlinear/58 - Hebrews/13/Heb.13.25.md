@@ -1,10 +1,55 @@
+---
+title: Hebrews 13:25
+type: Verse
+kjv: "Grace be with you all. Amen."
+bsb: "Grace be with all of you."
+greek: "ἡ χάρις μετὰ πάντων ὑμῶν. ἀμήν. πρός Ἑβραίους ἐγράφη ἀπό τῆς Ἰταλίας διά Τιμοθέου.¶"
+pericope: "[[Heb.13.20 Benediction and Farewell|Benediction and Farewell]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 13
+book/chapter: "[[Heb.13|Hebrews 13]]"
+chronological_order: 1152
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+strongs:
+- "[[G3588]]"
+- "[[G5485]]"
+- "[[G3326]]"
+- "[[G3956]]"
+- "[[G4771]]"
+- "[[G0281]]"
+- "[[G4314]]"
+- "[[G1445]]"
+- "[[G1125]]"
+- "[[G0575]]"
+- "[[G2482]]"
+- "[[G1223]]"
+- "[[G5095]]"
+texts:
+- NKO
+- KO
+- K
+---
+
 **Hebrews 13:25**<big><big>[[Heb.13.20 Benediction and Farewell|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Grace [be] with you all. Amen.
 <small><sub>**BSB:**</sub></small>
 Grace be with all of you.
-<small><sub>**Literal:**</sub></small>
-<the> Grace [be] with all of you. Amen. to Hebrews it was written from <the> Italy through Timothy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.24|<< Hebrews 13:24]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.1|James 1:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G5485\|χάρις]]  [[G3326\|μετὰ]]  [[G3956\|πάντων]]  [[G4771\|ὑμῶν.]]  [[G0281\|ἀμήν.]]  [[G4314\|πρός]]  [[G1445\|Ἑβραίους]]  [[G1125\|ἐγράφη]]  [[G0575\|ἀπό]]  [[G3588\|τῆς]]  [[G2482\|Ἰταλίας]]  [[G1223\|διά]]  [[G5095\|Τιμοθέου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.24|<< Hebrews 13:24]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.1|James 1:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

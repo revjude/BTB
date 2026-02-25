@@ -1,10 +1,59 @@
+---
+title: Mark 12:44
+type: Verse
+kjv: "For all they did cast in of their abundance; but she of her want did cast in all that she had, even all her living."
+bsb: "For they all contributed out of their surplus, but she out of her poverty has put in all she had to live on.”"
+jesus_said: "For all they did cast in of their abundance; but she of her want did cast in all that she had, even all her living."
+greek: "πάντες γὰρ ἐκ τοῦ περισσεύοντος αὐτοῖς ἔβαλον, αὕτη δὲ ἐκ τῆς ὑστερήσεως αὐτῆς πάντα ὅσα εἶχεν ἔβαλεν, ὅλον τὸν βίον αὐτῆς.¶"
+pericope: "[[Mark.12.41 The Widow’s Offering|The Widow’s Offering]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 12
+book/chapter: "[[Mark.12|Mark 12]]"
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic POOR|POOR]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WIDOW|WIDOW]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3956]]"
+- "[[G1063]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G4052]]"
+- "[[G0846]]"
+- "[[G0906H]]"
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G5304]]"
+- "[[G3745]]"
+- "[[G2192]]"
+- "[[G3650]]"
+- "[[G0979]]"
+texts:
+- NKO
+---
+
 **Mark 12:44**<big><big>[[Mark.12.41 The Widow’s Offering|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For all [they] did cast in of their abundance; but she of her want did cast in all that she had, [even] all her living.
 <small><sub>**BSB:**</sub></small>
 For they all contributed out of their surplus, but she out of her poverty has put in all she had to live on.”
-<small><sub>**Literal:**</sub></small>
-All for out of that which is abounding to them cast [in], she however out of the poverty of her all as much as she had cast [in], all the livelihood of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.43|<< Mark 12:43]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.1|Mark 13:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πάντες]]  [[G1063\|γὰρ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4052\|περισσεύοντος]]  [[G0846\|αὐτοῖς]]  [[G0906H\|ἔβαλον,]]  [[G3778\|αὕτη]]  [[G1161\|δὲ]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G5304\|ὑστερήσεως]]  [[G0846\|αὐτῆς]]  [[G3956\|πάντα]]  [[G3745\|ὅσα]]  [[G2192\|εἶχεν]]  [[G0906H\|ἔβαλεν,]]  [[G3650\|ὅλον]]  [[G3588\|τὸν]]  [[G0979\|βίον]]  [[G0846\|αὐτῆς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic POOR|POOR]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic TEMPLE|TEMPLE]] • [[topic WIDOW|WIDOW]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.43|<< Mark 12:43]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.1|Mark 13:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

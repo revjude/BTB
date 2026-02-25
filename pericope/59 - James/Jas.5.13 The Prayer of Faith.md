@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Prayer of Faith
+type: Pericope
 pericope: "[[Jas.5.13 The Prayer of Faith|The Prayer of Faith]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: James
 chapter: 5
 book/chapter: "[[Jas.5|James 5]]"
-genre:
+chronological_order: 1037
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
 - epistle
 - general epistle
 - wisdom literature
 - ethical instruction
+verse_count: 6
 verses:
 - "[[Jas.5.13]]"
 - "[[Jas.5.14]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Jas.5.18]]"
 ---
 
-[[Jas.5|James 5:13 - James 5:18]]
+<small>[[Jas.5|James 5:13-18]]</small>
 *The Prayer of Faith*
 
 [[Jas.5.13|13]] Is any among you afflicted? let him pray. Is any merry? let him sing psalms.

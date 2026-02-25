@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Forty-Eight Cities for the Levites
+type: Pericope
 pericope: "[[Num.35.1 Forty-Eight Cities for the Levites|Forty-Eight Cities for the Levites]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 35
 book/chapter: "[[Num.35|Numbers 35]]"
-genre:
+chronological_order: 195
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 8
 verses:
 - "[[Num.35.1]]"
 - "[[Num.35.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Num.35.8]]"
 ---
 
-[[Num.35|Numbers 35:1 - Numbers 35:8]]
+<small>[[Num.35|Numbers 35:1-8]]</small>
 *Forty-Eight Cities for the Levites*
 
 [[Num.35.1|1]] And the LORD spake unto Moses in the plains of Moab by Jordan \[near\] Jericho, saying,

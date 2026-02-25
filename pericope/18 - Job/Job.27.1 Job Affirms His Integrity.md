@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Job Affirms His Integrity
+type: Pericope
 pericope: "[[Job.27.1 Job Affirms His Integrity|Job Affirms His Integrity]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 27
 book/chapter: "[[Job.27|Job 27]]"
-genre:
+chronological_order: 38
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 6
 verses:
 - "[[Job.27.1]]"
 - "[[Job.27.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Job.27.6]]"
 ---
 
-[[Job.27|Job 27:1 - Job 27:6]]
+<small>[[Job.27|Job 27:1-6]]</small>
 *Job Affirms His Integrity*
 
 [[Job.27.1|1]] Moreover Job continued his parable, and said,

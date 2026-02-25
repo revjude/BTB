@@ -1,15 +1,15 @@
 
 **AARON**
 
-→ Lineage of [[Exod.6.16|Ex 6:16]]-[[Exod.6.20|20]]; [[Josh.21.4|Jos 21:4]],[[Josh.21.10|10]]; [[1Chr.6.2|1Ch 6:2]],[[1Chr.6.3|3]]; [[1Chr.23.13|23:13]]
+→ Lineage of [[Exod.6.16|Ex 6:16-20]]; [[Josh.21.4|Jos 21:4]],[[Josh.21.10|10]]; [[1Chr.6.2|1Ch 6:2]],[[1Chr.6.3|3]]; [[1Chr.23.13|23:13]]
 
 → Marriage of [[Exod.6.23|Ex 6:23]]
 
 → Children of [[Exod.6.23|Ex 6:23]],[[Exod.6.25|25]]; [[1Chr.6.3|1Ch 6:3]]; [[1Chr.24.1|24:1]],[[1Chr.24.2|2]]
 
-→ Descendants of [[Exod.6.23|Ex 6:23]],[[Exod.6.25|25]]; [[1Chr.6.3|1Ch 6:3]]-[[1Chr.6.15|15]],[[1Chr.6.50|50]]-[[1Chr.6.53|53]]; [[1Chr.24|24]]
+→ Descendants of [[Exod.6.23|Ex 6:23]],[[Exod.6.25|25]]; [[1Chr.6.3|1Ch 6:3-15]],[[1Chr.6.50|50-53]]; [[1Chr.24|24]]
 
-→ Meets, Moses in the wilderness and is made spokesman for Moses  [[Exod.4.14|Ex 4:14]]-[[Exod.4.16|16]],[[Exod.4.27|27]]-[[Exod.4.31|31]]; [[Exod.7.1|7:1]],[[Exod.7.2|2]]
+→ Meets, Moses in the wilderness and is made spokesman for Moses  [[Exod.4.14|Ex 4:14-16]],[[Exod.4.27|27-31]]; [[Exod.7.1|7:1]],[[Exod.7.2|2]]
 
 → Inspiration of [[Exod.12.1|Ex 12:1]]; [[Lev.10.8|Le 10:8]]; [[Lev.11.1|11:1]]; [[Lev.13.1|13:1]]; [[Lev.15.1|15:1]];  [[Num.2.1|Nu 2:1]]; [[Num.4.1|4:1]],[[Num.4.17|17]]; [[Num.18.1|18:1]]; [[Num.19.1|19:1]]; [[Num.20.12|20:12]]
 
@@ -23,7 +23,7 @@
 
 → Enters upon the priestly office [[Lev.9|Le 9]]
 
-→ Descendants of, ordained priests forever [[Exod.28.40|Ex 28:40]]-[[Exod.28.43|43]];  [[Exod.29.9|29:9]]; [[Num.3.3|Nu 3:3]]; [[Num.18.1|18:1]]; [[1Chr.23.13|1Ch 23:13]]; [[2Chr.26.18|2Ch 26:18]]
+→ Descendants of, ordained priests forever [[Exod.28.40|Ex 28:40-43]];  [[Exod.29.9|29:9]]; [[Num.3.3|Nu 3:3]]; [[Num.18.1|18:1]]; [[1Chr.23.13|1Ch 23:13]]; [[2Chr.26.18|2Ch 26:18]]
 
 → Judges Israel in the absence of Moses [[Exod.24.14|Ex 24:14]]
 
@@ -33,7 +33,7 @@
 
 → Preserved [[Num.17|Nu 17]]; [[Heb.9.4|Heb 9:4]]
 
-→ Murmured against, by the people [[Exod.5.20|Ex 5:20]],[[Exod.5.21|21]]; [[Exod.16.2|16:2]]-[[Exod.16.10|10]];  [[Num.14.2|Nu 14:2]]-[[Num.14.5|5]],[[Num.14.10|10]]; [[Num.16.3|16:3]]-[[Num.16.11|11]],[[Num.16.41|41]]; [[Num.20.2|20:2]]; [[Ps.106.16|Ps 106:16]]
+→ Murmured against, by the people [[Exod.5.20|Ex 5:20]],[[Exod.5.21|21]]; [[Exod.16.2|16:2-10]];  [[Num.14.2|Nu 14:2-5]],[[Num.14.10|10]]; [[Num.16.3|16:3-11]],[[Num.16.41|41]]; [[Num.20.2|20:2]]; [[Ps.106.16|Ps 106:16]]
 
 → Places pot of manna in the ark [[Exod.16.34|Ex 16:34]]
 
@@ -45,13 +45,13 @@
 
 → Intercedes for Miriam [[Num.12.11|Nu 12:11]],[[Num.12.12|12]]
 
-→ Stays the plague by priestly intercession [[Num.16.46|Nu 16:46]]-[[Num.16.48|48]]
+→ Stays the plague by priestly intercession [[Num.16.46|Nu 16:46-48]]
 
 → Jealous of Moses [[Num.12.1|Nu 12:1]]
 
-→ His presumption, when the rock is smitten [[Num.20.10|Nu 20:10]]-[[Num.20.12|12]]
+→ His presumption, when the rock is smitten [[Num.20.10|Nu 20:10-12]]
 
-→ Not permitted to enter Canaan [[Num.20.12|Nu 20:12]],[[Num.20.23|23]]-[[Num.20.29|29]]
+→ Not permitted to enter Canaan [[Num.20.12|Nu 20:12]],[[Num.20.23|23-29]]
 
 → Age of, at death [[Exod.7.7|Ex 7:7]]; [[Num.33.38|Nu 33:38]],[[Num.33.39|39]]
 

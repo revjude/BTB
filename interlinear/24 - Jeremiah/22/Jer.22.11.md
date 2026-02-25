@@ -1,8 +1,68 @@
+---
+title: Jeremiah 22:11
+type: Verse
+kjv: "For thus saith the LORD touching Shallum the son of Josiah king of Judah, which reigned instead of Josiah his father, which went forth out of this place; He shall not return thither any more:"
+bsb: "For this is what the LORD says concerning Shallum son of Josiah, king of Judah, who succeeded his father Josiah but has gone forth from this place: “He will never return,"
+hebrew: "כִּ֣י כֹ֣ה אָֽמַר־ יְ֠הוָה אֶל־ שַׁלֻּ֨ם בֶּן־ יֹאשִׁיָּ֜הוּ מֶ֣לֶךְ יְהוּדָ֗ה הַמֹּלֵךְ֙ תַּ֚חַת יֹאשִׁיָּ֣הוּ אָבִ֔יו אֲשֶׁ֥ר יָצָ֖א מִן־ הַמָּק֣וֹם הַזֶּ֑ה לֹֽא־ יָשׁ֥וּב שָׁ֖ם עֽוֹד׃"
+pericope: "[[Jer.22.10 A Warning about Shallum|A Warning about Shallum]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 22
+book/chapter: "[[Jer.22|Jeremiah 22]]"
+chronological_order: 745
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JEHOAHAZ|JEHOAHAZ]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H7967U]]"
+- "[[H1121A]]"
+- "[[H2977G]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H9009]]"
+- "[[H4427A]]"
+- "[[H8478H]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H3318G]]"
+- "[[H4480A]]"
+- "[[H4725]]"
+- "[[H2088]]"
+- "[[H3808]]"
+- "[[H7725G]]"
+- "[[H8033G]]"
+- "[[H5750]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 22:11**<big><big>[[Jer.22.10 A Warning about Shallum|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD touching Shallum the son of Josiah king of Judah, which reigned instead of Josiah his father, which went forth out of this place; He shall not return thither any more:
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD says concerning Shallum son of Josiah, king of Judah, who succeeded his father Josiah but has gone forth from this place: “He will never return,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3541\|כֹ֣ה]] [[H0559\|אָֽמַר]][[H9014\|־]] [[H3068G\|יְ֠הוָה]] [[H0413\|אֶל]][[H9014\|־]] [[H7967U\|שַׁלֻּ֨ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2977G\|יֹאשִׁיָּ֜הוּ]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֗ה]] [[H9009\|הַ]][[H4427A\|מֹּלֵךְ֙]] [[H8478H\|תַּ֚חַת]] [[H2977G\|יֹאשִׁיָּ֣הוּ]] [[H0001G\|אָבִ֔י]][[H9023\|ו]] [[H0834A\|אֲשֶׁ֥ר]] [[H3318G\|יָצָ֖א]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7725G\|יָשׁ֥וּב]] [[H8033G\|שָׁ֖ם]] [[H5750\|עֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHOAHAZ|JEHOAHAZ]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.22.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.10|<< Jeremiah 22:10]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.12|Jeremiah 22:12 >>]]</td></tr></table>
 

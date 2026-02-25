@@ -1,8 +1,71 @@
+---
+title: Jeremiah 2:13
+type: Verse
+kjv: "For my people have committed two evils; they have forsaken me the fountain of living waters, and hewed them out cisterns, broken cisterns, that can hold no water."
+bsb: "“For My people have committed two evils: They have forsaken Me, the fountain of living water, and they have dug their own cisterns—broken cisterns that cannot hold water."
+hebrew: "כִּֽי־ שְׁתַּ֥יִם רָע֖וֹת עָשָׂ֣ה עַמִּ֑י אֹתִ֨י עָזְב֜וּ מְק֣וֹר׀ מַ֣יִם חַיִּ֗ים לַחְצֹ֤ב לָהֶם֙ בֹּאר֔וֹת בֹּארֹת֙ נִשְׁבָּרִ֔ים אֲשֶׁ֥ר לֹא־ יָכִ֖לוּ הַמָּֽיִם׃"
+pericope: "[[Jer.2.1 Israel Has Forsaken God|Israel Has Forsaken God]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 2
+book/chapter: "[[Jer.2|Jeremiah 2]]"
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CISTERN|CISTERN]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FOUNTAIN|FOUNTAIN]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H8147]]"
+- "[[H7451I]]"
+- "[[H6213H]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H5800A]]"
+- "[[H4726]]"
+- "[[H9015]]"
+- "[[H4325G]]"
+- "[[H2416A]]"
+- "[[H9005]]"
+- "[[H2672]]"
+- "[[H9038]]"
+- "[[H0877]]"
+- "[[H7665]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H3557]]"
+- "[[H9009]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 2:13**<big><big>[[Jer.2.1 Israel Has Forsaken God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For my people have committed two evils; they have forsaken me the fountain of living waters, [and] hewed them out cisterns, broken cisterns, that can hold no water.
 <small><sub>**BSB:**</sub></small>
 “For My people have committed two evils: They have forsaken Me, the fountain of living water, and they have dug their own cisterns—broken cisterns that cannot hold water.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H8147\|שְׁתַּ֥יִם]] [[H7451I\|רָע֖וֹת]] [[H6213H\|עָשָׂ֣ה]] [[H5971A\|עַמִּ֑]][[H9020\|י]] [[H0853\|אֹתִ֨]][[H9030\|י]] [[H5800A\|עָזְב֜וּ]] [[H4726\|מְק֣וֹר]][[H9015\|׀]] [[H4325G\|מַ֣יִם]] [[H2416A\|חַיִּ֗ים]] [[H9005\|לַ]][[H2672\|חְצֹ֤ב]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H0877\|בֹּאר֔וֹת]] [[H0877\|בֹּארֹת֙]] [[H7665\|נִשְׁבָּרִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹא]][[H9014\|־]] [[H3557\|יָכִ֖לוּ]] [[H9009\|הַ]][[H4325G\|מָּֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic CISTERN|CISTERN]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic FOUNTAIN|FOUNTAIN]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.12|<< Jeremiah 2:12]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.14|Jeremiah 2:14 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Jeremiah 32:30
+type: Verse
+kjv: "For the children of Israel and the children of Judah have only done evil before me from their youth: for the children of Israel have only provoked me to anger with the work of their hands, saith the LORD."
+bsb: "For the children of Israel and of Judah have done nothing but evil in My sight from their youth; indeed, they have done nothing but provoke Me to anger by the work of their hands, declares the LORD."
+hebrew: "כִּֽי־ הָי֨וּ בְנֵֽי־ יִשְׂרָאֵ֜ל וּבְנֵ֣י יְהוּדָ֗ה אַ֣ךְ עֹשִׂ֥ים הָרַ֛ע בְּעֵינַ֖י מִנְּעֻרֹֽתֵיהֶ֑ם כִּ֣י בְנֵֽי־ יִשְׂרָאֵ֗ל אַ֣ךְ מַכְעִסִ֥ים אֹתִ֛י בְּמַעֲשֵׂ֥ה יְדֵיהֶ֖ם נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.32.26 The LORD Answers Jeremiah|The LORD Answers Jeremiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 32
+book/chapter: "[[Jer.32|Jeremiah 32]]"
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHILDREN|CHILDREN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H1121A]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H3063G]]"
+- "[[H0389]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H5271B]]"
+- "[[H9028]]"
+- "[[H3707]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H4639G]]"
+- "[[H3027G]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 32:30**<big><big>[[Jer.32.26 The LORD Answers Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the children of Israel and the children of Judah have only done evil before me from their youth: for the children of Israel have only provoked me to anger with the work of their hands, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 For the children of Israel and of Judah have done nothing but evil in My sight from their youth; indeed, they have done nothing but provoke Me to anger by the work of their hands, declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|הָי֨וּ]] [[H1121A\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H9002\|וּ]][[H1121A\|בְנֵ֣י]] [[H3063G\|יְהוּדָ֗ה]] [[H0389\|אַ֣ךְ]] [[H6213A\|עֹשִׂ֥ים]] [[H9009\|הָ]][[H7451H\|רַ֛ע]] [[H9003\|בְּ]][[H5869H\|עֵינַ֖]][[H9020\|י]] [[H9006\|מִ]][[H5271B\|נְּעֻרֹֽתֵי]][[H9028\|הֶ֑ם]] [[H3588A\|כִּ֣י]] [[H1121A\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H0389\|אַ֣ךְ]] [[H3707\|מַכְעִסִ֥ים]] [[H0853\|אֹתִ֛]][[H9030\|י]] [[H9003\|בְּ]][[H4639G\|מַעֲשֵׂ֥ה]] [[H3027G\|יְדֵי]][[H9028\|הֶ֖ם]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHILDREN|CHILDREN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.29|<< Jeremiah 32:29]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.31|Jeremiah 32:31 >>]]</td></tr></table>
 

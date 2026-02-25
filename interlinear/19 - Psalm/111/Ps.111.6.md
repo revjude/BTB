@@ -1,8 +1,54 @@
+---
+title: Psalm 111:6
+type: Verse
+kjv: "He hath shewed his people the power of his works, that he may give them the heritage of the heathen."
+bsb: "He has shown His people the power of His works by giving them the inheritance of the nations."
+hebrew: "כֹּ֣חַ מַ֭עֲשָׂיו הִגִּ֣יד לְעַמּ֑וֹ לָתֵ֥ת לָ֝הֶ֗ם נַחֲלַ֥ת גּוֹיִֽם׃"
+pericope: "[[Ps.111.1 Majestic Is His Work|Majestic Is His Work]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 111
+book/chapter: "[[Ps.111|Psalm 111]]"
+chronological_order: 873
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3581B]]"
+- "[[H4639G]]"
+- "[[H9023]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H5159]]"
+- "[[H1471A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 111:6**<big><big>[[Ps.111.1 Majestic Is His Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath shewed his people the power of his works, that he may give them the heritage of the heathen.
 <small><sub>**BSB:**</sub></small>
 He has shown His people the power of His works by giving them the inheritance of the nations.
+<small><sub>**Hebrew:**</sub></small>
+[[H3581B\|כֹּ֣חַ]] [[H4639G\|מַ֭עֲשָׂי]][[H9023\|ו]] [[H5046\|הִגִּ֣יד]] [[H9005\|לְ]][[H5971A\|עַמּ֑]][[H9023\|וֹ]] [[H9005\|לָ]][[H5414G\|תֵ֥ת]] [[H9005\|לָ֝]][[H9038\|הֶ֗ם]] [[H5159\|נַחֲלַ֥ת]] [[H1471A\|גּוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.111.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.111.5|<< Psalms 111:5]]</td><td align="center" style="border:none;">[[Ps.111|Psalms 111]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.111.7|Psalms 111:7 >>]]</td></tr></table>
 

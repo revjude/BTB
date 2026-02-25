@@ -1,10 +1,66 @@
+---
+title: 2 Corinthians 5:1
+type: Verse
+kjv: "For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens."
+bsb: "For we know that if the earthly tent we live in is dismantled, we have a building from God, an eternal house in heaven, not built by human hands."
+greek: "Οἴδαμεν γὰρ ὅτι ἐὰν ἡ ἐπίγειος ἡμῶν οἰκία τοῦ σκήνους καταλυθῇ, οἰκοδομὴν ἐκ θεοῦ ἔχομεν, οἰκίαν ἀχειροποίητον αἰώνιον ἐν τοῖς οὐρανοῖς."
+pericope: "[[2Cor.5.1 Our Eternal Dwelling|Our Eternal Dwelling]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 5
+book/chapter: "[[2Cor.5|2 Corinthians 5]]"
+chronological_order: 1078
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic BODY|BODY]]"
+- "[[topic BUILDING|BUILDING]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MAN|MAN]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[G6063]]"
+- "[[G1063]]"
+- "[[G3754G]]"
+- "[[G1437]]"
+- "[[G3588]]"
+- "[[G1919]]"
+- "[[G3165]]"
+- "[[G3614G]]"
+- "[[G4636]]"
+- "[[G2647]]"
+- "[[G3619]]"
+- "[[G1537]]"
+- "[[G2316]]"
+- "[[G2192]]"
+- "[[G0886]]"
+- "[[G0166]]"
+- "[[G1722]]"
+- "[[G3772]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 5:1**<big><big>[[2Cor.5.1 Our Eternal Dwelling|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For we know that if our earthly house of [this] tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.
 <small><sub>**BSB:**</sub></small>
 For we know that if the earthly tent we live in is dismantled, we have a building from God, an eternal house in heaven, not built by human hands.
-<small><sub>**Literal:**</sub></small>
-We know for that if the earthly of us house the tent shall be destroyed, a building from God we have, a house not made with hands eternal in the heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.4.18|<< 2 Corinthians 4:18]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.2|2 Corinthians 5:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|Οἴδαμεν]]  [[G1063\|γὰρ]]  [[G3754G\|ὅτι]]  [[G1437\|ἐὰν]]  [[G3588\|ἡ]]  [[G1919\|ἐπίγειος]]  [[G3165\|ἡμῶν]]  [[G3614G\|οἰκία]]  [[G3588\|τοῦ]]  [[G4636\|σκήνους]]  [[G2647\|καταλυθῇ,]]  [[G3619\|οἰκοδομὴν]]  [[G1537\|ἐκ]]  [[G2316\|θεοῦ]]  [[G2192\|ἔχομεν,]]  [[G3614G\|οἰκίαν]]  [[G0886\|ἀχειροποίητον]]  [[G0166\|αἰώνιον]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3772\|οὐρανοῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BODY|BODY]] • [[topic BUILDING|BUILDING]] • [[topic DEATH|DEATH]] • [[topic HEAVEN|HEAVEN]] • [[topic HOUSE|HOUSE]] • [[topic LIFE|LIFE]] • [[topic MAN|MAN]] • [[topic RESURRECTION|RESURRECTION]] • [[topic TESTIMONY|TESTIMONY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.4.18|<< 2 Corinthians 4:18]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.2|2 Corinthians 5:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

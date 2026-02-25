@@ -1,10 +1,60 @@
+---
+title: John 13:5
+type: Verse
+kjv: "After that he poureth water into a bason, and began to wash the disciples’ feet, and to wipe them with the towel wherewith he was girded."
+bsb: "After that, He poured water into a basin and began to wash the disciples’ feet and dry them with the towel that was around Him."
+greek: "εἶτα βάλλει ὕδωρ εἰς τὸν νιπτῆρα καὶ ἤρξατο νίπτειν τοὺς πόδας τῶν μαθητῶν καὶ ἐκμάσσειν τῷ λεντίῳ ᾧ ἦν διεζωσμένος.¶"
+pericope: "[[John.13.1 Jesus Washes His Disciples’ Feet|Jesus Washes His Disciples’ Feet]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic FEET|FEET]]"
+- "[[topic FOOT|FOOT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TOWEL|TOWEL]]"
+strongs:
+- "[[G1534]]"
+- "[[G0906J]]"
+- "[[G5204]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3537]]"
+- "[[G2532]]"
+- "[[G0757]]"
+- "[[G3538]]"
+- "[[G4228]]"
+- "[[G3101]]"
+- "[[G1591]]"
+- "[[G3012]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G1241]]"
+texts:
+- NKO
+---
+
 **John 13:5**<big><big>[[John.13.1 Jesus Washes His Disciples’ Feet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 After that he poureth water into a bason, and began to wash the disciples’ feet, and to wipe [them] with the towel wherewith he was girded.
 <small><sub>**BSB:**</sub></small>
 After that, He poured water into a basin and began to wash the disciples’ feet and dry them with the towel that was around Him.
-<small><sub>**Literal:**</sub></small>
-After that He pours water into the basin and He began to wash the feet of the disciples and to wipe [them] with the towel with which He was having girded himself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.4|<< John 13:4]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.6|John 13:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1534\|εἶτα]]  [[G0906J\|βάλλει]]  [[G5204\|ὕδωρ]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3537\|νιπτῆρα]]  [[G2532\|καὶ]]  [[G0757\|ἤρξατο]]  [[G3538\|νίπτειν]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G2532\|καὶ]]  [[G1591\|ἐκμάσσειν]]  [[G3588\|τῷ]]  [[G3012\|λεντίῳ]]  [[G3739\|ᾧ]]  [[G1510\|ἦν]]  [[G1241\|διεζωσμένος.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic FEET|FEET]] • [[topic FOOT|FOOT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TOWEL|TOWEL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.4|<< John 13:4]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.6|John 13:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

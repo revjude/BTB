@@ -1,8 +1,58 @@
+---
+title: Micah 6:1
+type: Verse
+kjv: "Hear ye now what the LORD saith; Arise, contend thou before the mountains, and let the hills hear thy voice."
+bsb: "Hear now what the LORD says: “Arise, plead your case before the mountains, and let the hills hear your voice."
+hebrew: "שִׁמְעוּ־ נָ֕א אֵ֥ת אֲשֶׁר־ יְהוָ֖ה אֹמֵ֑ר ק֚וּם רִ֣יב אֶת־ הֶהָרִ֔ים וְתִשְׁמַ֥עְנָה הַגְּבָע֖וֹת קוֹלֶֽךָ׃"
+pericope: "[[Mic.6.1 The Case against Israel|The Case against Israel]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 6
+book/chapter: "[[Mic.6|Micah 6]]"
+chronological_order: 628
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+strongs:
+- "[[H8085G]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H6965B]]"
+- "[[H7378]]"
+- "[[H0854]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H9002]]"
+- "[[H1389I]]"
+- "[[H6963A]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 6:1**<big><big>[[Mic.6.1 The Case against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear ye now what the LORD saith; Arise, contend thou before the mountains, and let the hills hear thy voice.
 <small><sub>**BSB:**</sub></small>
 Hear now what the LORD says: “Arise, plead your case before the mountains, and let the hills hear your voice.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שִׁמְעוּ]][[H9014\|־]] [[H4994\|נָ֕א]] [[H0853\|אֵ֥ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0559\|אֹמֵ֑ר]] [[H6965B\|ק֚וּם]] [[H7378\|רִ֣יב]] [[H0854\|אֶת]][[H9014\|־]] [[H9009\|הֶ]][[H2022G\|הָרִ֔ים]] [[H9002\|וְ]][[H8085G\|תִשְׁמַ֥עְנָה]] [[H9009\|הַ]][[H1389I\|גְּבָע֖וֹת]] [[H6963A\|קוֹלֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.5.15|<< Micah 5:15]]</td><td align="center" style="border:none;">[[Mic.6|Micah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.6.2|Micah 6:2 >>]]</td></tr></table>
 

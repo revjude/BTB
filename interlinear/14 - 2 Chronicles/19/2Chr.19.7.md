@@ -1,8 +1,68 @@
+---
+title: 2 Chronicles 19:7
+type: Verse
+kjv: "Wherefore now let the fear of the LORD be upon you; take heed and do it: for there is no iniquity with the LORD our God, nor respect of persons, nor taking of gifts."
+bsb: "And now, may the fear of the LORD be upon you. Be careful what you do, for with the LORD our God there is no injustice or partiality or bribery.”"
+hebrew: "וְעַתָּ֕ה יְהִ֥י פַֽחַד־ יְהוָ֖ה עֲלֵיכֶ֑ם שִׁמְר֣וּ וַעֲשׂ֔וּ כִּֽי־ אֵ֞ין עִם־ יְהוָ֣ה אֱלֹהֵ֗ינוּ עַוְלָ֛ה וּמַשֹּׂ֥א פָנִ֖ים וּמִקַּח־ שֹֽׁחַד׃"
+pericope: "[[2Chr.19.4 Jehoshaphat’s Reforms|Jehoshaphat’s Reforms]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 19
+book/chapter: "[[2Chr.19|2 Chronicles 19]]"
+chronological_order: 572
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic RESPECT OF PERSONS|RESPECT OF PERSONS]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H1961]]"
+- "[[H6343]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H8104J]]"
+- "[[H6213A]]"
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H5973A]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H5766B]]"
+- "[[H4856]]"
+- "[[H6440N]]"
+- "[[H4727]]"
+- "[[H7810]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 19:7**<big><big>[[2Chr.19.4 Jehoshaphat’s Reforms|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore now let the fear of the LORD be upon you; take heed and do [it]: for [there is] no iniquity with the LORD our God, nor respect of persons, nor taking of gifts.
 <small><sub>**BSB:**</sub></small>
 And now, may the fear of the LORD be upon you. Be careful what you do, for with the LORD our God there is no injustice or partiality or bribery.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֕ה]] [[H1961\|יְהִ֥י]] [[H6343\|פַֽחַד]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֑ם]] [[H8104J\|שִׁמְר֣וּ]] [[H9002\|וַ]][[H6213A\|עֲשׂ֔וּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0369\|אֵ֞ין]] [[H5973A\|עִם]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵ֗י]][[H9025\|נוּ]] [[H5766B\|עַוְלָ֛ה]] [[H9002\|וּ]][[H4856\|מַשֹּׂ֥א]] [[H6440N\|פָנִ֖ים]] [[H9002\|וּ]][[H4727\|מִקַּח]][[H9014\|־]] [[H7810\|שֹֽׁחַד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOD|GOD]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic JUDGE|JUDGE]] • [[topic RESPECT OF PERSONS|RESPECT OF PERSONS]] • [[topic REVERENCE|REVERENCE]] • [[topic RULERS|RULERS]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.19.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.19.6|<< 2 Chronicles 19:6]]</td><td align="center" style="border:none;">[[2Chr.19|2 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.19.8|2 Chronicles 19:8 >>]]</td></tr></table>
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Three Angels and Babylon’s Fall
+type: Pericope
 pericope: "[[Rev.14.6 The Three Angels and Babylon’s Fall|The Three Angels and Babylon’s Fall]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 14
 book/chapter: "[[Rev.14|Revelation 14]]"
-genre:
+chronological_order: 1181
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 8
 verses:
 - "[[Rev.14.6]]"
 - "[[Rev.14.7]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Rev.14.13]]"
 ---
 
-[[Rev.14|Revelation 14:6 - Revelation 14:13]]
+<small>[[Rev.14|Revelation 14:6-13]]</small>
 *The Three Angels and Babylon’s Fall*
 
 [[Rev.14.6|6]] And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people,

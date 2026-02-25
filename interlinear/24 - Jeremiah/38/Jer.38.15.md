@@ -1,8 +1,61 @@
+---
+title: Jeremiah 38:15
+type: Verse
+kjv: "Then Jeremiah said unto Zedekiah, If I declare it unto thee, wilt thou not surely put me to death? and if I give thee counsel, wilt thou not hearken unto me?"
+bsb: "“If I tell you,” Jeremiah replied, “you will surely put me to death. And even if I give you advice, you will not listen to me.”"
+hebrew: "וַיֹּ֤אמֶר יִרְמְיָ֙הוּ֙ אֶל־ צִדְקִיָּ֔הוּ כִּ֚י אַגִּ֣יד לְךָ֔ הֲל֖וֹא הָמֵ֣ת תְּמִיתֵ֑נִי וְכִי֙ אִיעָ֣צְךָ֔ לֹ֥א תִשְׁמַ֖ע אֵלָֽי׃"
+pericope: "[[Jer.38.1 Jeremiah Cast into the Cistern|Jeremiah Cast into the Cistern]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 38
+book/chapter: "[[Jer.38|Jeremiah 38]]"
+chronological_order: 761
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3414L]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6667H]]"
+- "[[H3588A]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H4191]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H3289]]"
+- "[[H8085G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 38:15**<big><big>[[Jer.38.1 Jeremiah Cast into the Cistern|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Jeremiah said unto Zedekiah, If I declare [it] unto thee, wilt thou not surely put me to death? and if I give thee counsel, wilt thou not hearken unto me?
 <small><sub>**BSB:**</sub></small>
 “If I tell you,” Jeremiah replied, “you will surely put me to death. And even if I give you advice, you will not listen to me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3414L\|יִרְמְיָ֙הוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H6667H\|צִדְקִיָּ֔הוּ]] [[H3588A\|כִּ֚י]] [[H5046\|אַגִּ֣יד]] [[H9005\|לְ]][[H9031\|ךָ֔]] [[H9008\|הֲ]][[H3808\|ל֖וֹא]] [[H4191\|הָמֵ֣ת]] [[H4191\|תְּמִיתֵ֑]][[H9030\|נִי]] [[H9002\|וְ]][[H3588A\|כִי֙]] [[H3289\|אִיעָ֣צְ]][[H9031\|ךָ֔]] [[H3808\|לֹ֥א]] [[H8085G\|תִשְׁמַ֖ע]] [[H0413\|אֵלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRISONERS|PRISONERS]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.38.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.14|<< Jeremiah 38:14]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.16|Jeremiah 38:16 >>]]</td></tr></table>
 

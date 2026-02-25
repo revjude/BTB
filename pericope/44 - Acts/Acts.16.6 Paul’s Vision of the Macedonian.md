@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Vision of the Macedonian
+type: Pericope
 pericope: "[[Acts.16.6 Paul’s Vision of the Macedonian|Paul’s Vision of the Macedonian]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Acts
 chapter: 16
 book/chapter: "[[Acts.16|Acts 16]]"
-genre:
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 5
 verses:
 - "[[Acts.16.6]]"
 - "[[Acts.16.7]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Acts.16.10]]"
 ---
 
-[[Acts.16|Acts 16:6 - Acts 16:10]]
+<small>[[Acts.16|Acts 16:6-10]]</small>
 *Paul’s Vision of the Macedonian*
 
 [[Acts.16.6|6]] Now when they had gone throughout Phrygia and the region of Galatia, and were forbidden of the Holy Ghost to preach the word in Asia,

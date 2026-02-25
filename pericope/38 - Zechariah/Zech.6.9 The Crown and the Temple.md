@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Crown and the Temple
+type: Pericope
 pericope: "[[Zech.6.9 The Crown and the Temple|The Crown and the Temple]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Zechariah
 chapter: 6
 book/chapter: "[[Zech.6|Zechariah 6]]"
-genre:
+chronological_order: 862
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - visionary
 - apocalyptic
 - post exilic
+verse_count: 7
 verses:
 - "[[Zech.6.9]]"
 - "[[Zech.6.10]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Zech.6.15]]"
 ---
 
-[[Zech.6|Zechariah 6:9 - Zechariah 6:15]]
+<small>[[Zech.6|Zechariah 6:9-15]]</small>
 *The Crown and the Temple*
 
 [[Zech.6.9|9]] And the word of the LORD came unto me, saying,

@@ -1,8 +1,77 @@
+---
+title: Joshua 22:28
+type: Verse
+kjv: "Therefore said we, that it shall be, when they should so say to us or to our generations in time to come, that we may say again, Behold the pattern of the altar of the LORD, which our fathers made, not for burnt offerings, nor for sacrifices; but it is a witness between us and you."
+bsb: "Therefore we said, ‘If they ever say this to us or to our descendants, we will answer: Look at the replica of the altar of the LORD that our fathers made, not for burnt offerings or sacrifices, but as a witness between us and you.’"
+hebrew: "וַנֹּ֕אמֶר וְהָיָ֗ה כִּֽי־ יֹאמְר֥וּ אֵלֵ֛ינוּ וְאֶל־ דֹּרֹתֵ֖ינוּ מָחָ֑ר וְאָמַ֡רְנוּ רְא֣וּ אֶת־ תַּבְנִית֩ מִזְבַּ֨ח יְהוָ֜ה אֲשֶׁר־ עָשׂ֣וּ אֲבוֹתֵ֗ינוּ לֹ֤א לְעוֹלָה֙ וְלֹ֣א לְזֶ֔בַח כִּי־ עֵ֣ד ה֔וּא בֵּינֵ֖ינוּ וּבֵינֵיכֶֽם׃"
+pericope: "[[Josh.22.9 The Altar of Witness|The Altar of Witness]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 22
+book/chapter: "[[Josh.22|Joshua 22]]"
+chronological_order: 252
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HASTE|HASTE]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PHINEHAS|PHINEHAS]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0413]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H1755]]"
+- "[[H9025]]"
+- "[[H4279]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H8403]]"
+- "[[H4196]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H0001G]]"
+- "[[H3808]]"
+- "[[H9005]]"
+- "[[H5930A]]"
+- "[[H2077]]"
+- "[[H5707]]"
+- "[[H1931]]"
+- "[[H0996G]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 22:28**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore said we, that it shall be, when they should [so] say to us or to our generations in time to come, that we may say [again], Behold the pattern of the altar of the LORD, which our fathers made, not for burnt offerings, nor for sacrifices; but it [is] a witness between us and you.
 <small><sub>**BSB:**</sub></small>
 Therefore we said, ‘If they ever say this to us or to our descendants, we will answer: Look at the replica of the altar of the LORD that our fathers made, not for burnt offerings or sacrifices, but as a witness between us and you.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|נֹּ֕אמֶר]] [[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0559\|יֹאמְר֥וּ]] [[H0413\|אֵלֵ֛י]][[H9035\|נוּ]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H1755\|דֹּרֹתֵ֖י]][[H9025\|נוּ]] [[H4279\|מָחָ֑ר]] [[H9001\|וְ]][[H0559\|אָמַ֡רְנוּ]] [[H7200G\|רְא֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H8403\|תַּבְנִית֩]] [[H4196\|מִזְבַּ֨ח]] [[H3068G\|יְהוָ֜ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213H\|עָשׂ֣וּ]] [[H0001G\|אֲבוֹתֵ֗י]][[H9025\|נוּ]] [[H3808\|לֹ֤א]] [[H9005\|לְ]][[H5930A\|עוֹלָה֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H9005\|לְ]][[H2077\|זֶ֔בַח]] [[H3588A\|כִּי]][[H9014\|־]] [[H5707\|עֵ֣ד]] [[H1931\|ה֔וּא]] [[H0996G\|בֵּינֵ֖י]][[H9035\|נוּ]] [[H9002\|וּ]][[H0996G\|בֵינֵי]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic HASTE|HASTE]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic PHINEHAS|PHINEHAS]] • [[topic PRUDENCE|PRUDENCE]] • [[topic REUBENITES|REUBENITES]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.27|<< Joshua 22:27]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.29|Joshua 22:29 >>]]</td></tr></table>
 

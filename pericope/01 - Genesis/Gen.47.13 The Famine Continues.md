@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Famine Continues
+type: Pericope
 pericope: "[[Gen.47.13 The Famine Continues|The Famine Continues]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 47
 book/chapter: "[[Gen.47|Genesis 47]]"
-genre:
+chronological_order: 89
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 14
 verses:
 - "[[Gen.47.13]]"
 - "[[Gen.47.14]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Gen.47.26]]"
 ---
 
-[[Gen.47|Genesis 47:13 - Genesis 47:26]]
+<small>[[Gen.47|Genesis 47:13-26]]</small>
 *The Famine Continues*
 
 [[Gen.47.13|13]] And \[there was\] no bread in all the land; for the famine \[was\] very sore, so that the land of Egypt and \[all\] the land of Canaan fainted by reason of the famine.

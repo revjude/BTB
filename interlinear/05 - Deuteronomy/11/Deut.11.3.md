@@ -1,8 +1,63 @@
+---
+title: Deuteronomy 11:3
+type: Verse
+kjv: "And his miracles, and his acts, which he did in the midst of Egypt unto Pharaoh the king of Egypt, and unto all his land;"
+bsb: "the signs and works He did in Egypt to Pharaoh king of Egypt and all his land;"
+hebrew: "וְאֶת־ אֹֽתֹתָיו֙ וְאֶֽת־ מַעֲשָׂ֔יו אֲשֶׁ֥ר עָשָׂ֖ה בְּת֣וֹךְ מִצְרָ֑יִם לְפַרְעֹ֥ה מֶֽלֶךְ־ מִצְרַ֖יִם וּלְכָל־ אַרְצֽוֹ׃"
+pericope: "[[Deut.11.1 Obedience and Discipline|Obedience and Discipline]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 11
+book/chapter: "[[Deut.11|Deuteronomy 11]]"
+chronological_order: 207
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0226G]]"
+- "[[H9023]]"
+- "[[H4639K]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H4714G]]"
+- "[[H9005]]"
+- "[[H6547J]]"
+- "[[H4428G]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 11:3**<big><big>[[Deut.11.1 Obedience and Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his miracles, and his acts, which he did in the midst of Egypt unto Pharaoh the king of Egypt, and unto all his land;
 <small><sub>**BSB:**</sub></small>
 the signs and works He did in Egypt to Pharaoh king of Egypt and all his land;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0226G\|אֹֽתֹתָי]][[H9023\|ו֙]] [[H9002\|וְ]][[H0853\|אֶֽת]][[H9014\|־]] [[H4639K\|מַעֲשָׂ֔י]][[H9023\|ו]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|עָשָׂ֖ה]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H4714G\|מִצְרָ֑יִם]] [[H9005\|לְ]][[H6547J\|פַרְעֹ֥ה]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H4714G\|מִצְרַ֖יִם]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H0776G\|אַרְצֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MIRACLES|MIRACLES]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.2|<< Deuteronomy 11:2]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.4|Deuteronomy 11:4 >>]]</td></tr></table>
 

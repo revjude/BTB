@@ -1,8 +1,64 @@
+---
+title: Exodus 13:2
+type: Verse
+kjv: "Sanctify unto me all the firstborn, whatsoever openeth the womb among the children of Israel, both of man and of beast: it is mine."
+bsb: "“Consecrate to Me every firstborn male. The firstborn from every womb among the Israelites belongs to Me, both of man and beast.”"
+hebrew: "קַדֶּשׁ־ לִ֨י כָל־ בְּכ֜וֹר פֶּ֤טֶר כָּל־ רֶ֙חֶם֙ בִּבְנֵ֣י יִשְׂרָאֵ֔ל בָּאָדָ֖ם וּבַבְּהֵמָ֑ה לִ֖י הֽוּא׃"
+pericope: "[[Exod.13.1 The Dedication of the Firstborn|The Dedication of the Firstborn]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 13
+book/chapter: "[[Exod.13|Exodus 13]]"
+chronological_order: 105
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+strongs:
+- "[[H6942H]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3605]]"
+- "[[H1060]]"
+- "[[H6363A]]"
+- "[[H7358]]"
+- "[[H9003]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0120G]]"
+- "[[H9002]]"
+- "[[H0929]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 13:2**<big><big>[[Exod.13.1 The Dedication of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sanctify unto me all the firstborn, whatsoever openeth the womb among the children of Israel, [both] of man and of beast: it [is] mine.
 <small><sub>**BSB:**</sub></small>
 “Consecrate to Me every firstborn male. The firstborn from every womb among the Israelites belongs to Me, both of man and beast.”
+<small><sub>**Hebrew:**</sub></small>
+[[H6942H\|קַדֶּשׁ]][[H9014\|־]] [[H9005\|לִ֨]][[H9030\|י]] [[H3605\|כָל]][[H9014\|־]] [[H1060\|בְּכ֜וֹר]] [[H6363A\|פֶּ֤טֶר]] [[H3605\|כָּל]][[H9014\|־]] [[H7358\|רֶ֙חֶם֙]] [[H9003\|בִּ]][[H1121G\|בְנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9003\|בָּ]][[H0120G\|אָדָ֖ם]] [[H9002\|וּ]][[H9003\|בַ]][[H0929\|בְּהֵמָ֑ה]] [[H9005\|לִ֖]][[H9030\|י]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRSTBORN|FIRSTBORN]] • [[topic LIBERALITY|LIBERALITY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SANCTIFICATION|SANCTIFICATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.13.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13.1|<< Exodus 13:1]]</td><td align="center" style="border:none;">[[Exod.13|Exodus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.13.3|Exodus 13:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

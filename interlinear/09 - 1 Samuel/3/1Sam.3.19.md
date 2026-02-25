@@ -1,8 +1,59 @@
+---
+title: 1 Samuel 3:19
+type: Verse
+kjv: "And Samuel grew, and the LORD was with him, and did let none of his words fall to the ground."
+bsb: "And Samuel grew, and the LORD was with him, and He let none of Samuel’s words fall to the ground."
+hebrew: "וַיִּגְדַּ֖ל שְׁמוּאֵ֑ל וַֽיהוָה֙ הָיָ֣ה עִמּ֔וֹ וְלֹֽא־ הִפִּ֥יל מִכָּל־ דְּבָרָ֖יו אָֽרְצָה׃"
+pericope: "[[1Sam.3.15 Samuel Shares the Vision|Samuel Shares the Vision]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 3
+book/chapter: "[[1Sam.3|1 Samuel 3]]"
+chronological_order: 282
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H1431]]"
+- "[[H8050G]]"
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H1961]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5307G]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H1697G]]"
+- "[[H9023]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 3:19**<big><big>[[1Sam.3.15 Samuel Shares the Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samuel grew, and the LORD was with him, and did let none of his words fall to the ground.
 <small><sub>**BSB:**</sub></small>
 And Samuel grew, and the LORD was with him, and He let none of Samuel’s words fall to the ground.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1431\|יִּגְדַּ֖ל]] [[H8050G\|שְׁמוּאֵ֑ל]] [[H9002\|וַֽ]][[H3068G\|יהוָה֙]] [[H1961\|הָיָ֣ה]] [[H5973A\|עִמּ֔]][[H9033\|וֹ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5307G\|הִפִּ֥יל]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H1697G\|דְּבָרָ֖י]][[H9023\|ו]] [[H0776H\|אָֽרְצָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.3.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.3.18|<< 1 Samuel 3:18]]</td><td align="center" style="border:none;">[[1Sam.3|1 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.3.20|1 Samuel 3:20 >>]]</td></tr></table>
 

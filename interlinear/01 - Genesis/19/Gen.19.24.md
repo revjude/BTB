@@ -1,8 +1,66 @@
+---
+title: Genesis 19:24
+type: Verse
+kjv: "Then the LORD rained upon Sodom and upon Gomorrah brimstone and fire from the LORD out of heaven;"
+bsb: "Then the LORD rained down sulfur and fire on Sodom and Gomorrah—from the LORD out of the heavens."
+hebrew: "וַֽיהוָ֗ה הִמְטִ֧יר עַל־ סְדֹ֛ם וְעַל־ עֲמֹרָ֖ה גָּפְרִ֣ית וָאֵ֑שׁ מֵאֵ֥ת יְהוָ֖ה מִן־ הַשָּׁמָֽיִם׃"
+pericope: "[[Gen.19.24 The Destruction of Sodom and Gomorrah|The Destruction of Sodom and Gomorrah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 19
+book/chapter: "[[Gen.19|Genesis 19]]"
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic BRIMSTONE|BRIMSTONE]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOMORRAH|GOMORRAH]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic SODOMITES|SODOMITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H4305]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5467]]"
+- "[[H6017]]"
+- "[[H1614]]"
+- "[[H0784]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 19:24**<big><big>[[Gen.19.24 The Destruction of Sodom and Gomorrah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the LORD rained upon Sodom and upon Gomorrah brimstone and fire from the LORD out of heaven;
 <small><sub>**BSB:**</sub></small>
 Then the LORD rained down sulfur and fire on Sodom and Gomorrah—from the LORD out of the heavens.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַֽ]][[H3068G\|יהוָ֗ה]] [[H4305\|הִמְטִ֧יר]] [[H5921A\|עַל]][[H9014\|־]] [[H5467\|סְדֹ֛ם]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H6017\|עֲמֹרָ֖ה]] [[H1614\|גָּפְרִ֣ית]] [[H9002\|וָ]][[H0784\|אֵ֑שׁ]] [[H9006\|מֵ]][[H0854\|אֵ֥ת]] [[H3068G\|יְהוָ֖ה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic BRIMSTONE|BRIMSTONE]] • [[topic DEATH|DEATH]] • [[topic GOMORRAH|GOMORRAH]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic SODOM|SODOM]] • [[topic SODOMITES|SODOMITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.23|<< Genesis 19:23]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.25|Genesis 19:25 >>]]</td></tr></table>
 

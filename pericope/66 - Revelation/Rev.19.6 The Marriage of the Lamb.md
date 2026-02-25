@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Marriage of the Lamb
+type: Pericope
 pericope: "[[Rev.19.6 The Marriage of the Lamb|The Marriage of the Lamb]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 19
 book/chapter: "[[Rev.19|Revelation 19]]"
-genre:
+chronological_order: 1186
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 5
 verses:
 - "[[Rev.19.6]]"
 - "[[Rev.19.7]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Rev.19.10]]"
 ---
 
-[[Rev.19|Revelation 19:6 - Revelation 19:10]]
+<small>[[Rev.19|Revelation 19:6-10]]</small>
 *The Marriage of the Lamb*
 
 [[Rev.19.6|6]] And I heard as it were the voice of a great multitude, and as the voice of many waters, and as the voice of mighty thunderings, saying, Alleluia: for the Lord God omnipotent reigneth.

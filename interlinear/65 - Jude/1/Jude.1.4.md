@@ -1,10 +1,59 @@
+---
+title: Jude 1:4
+type: Verse
+kjv: "For there are certain men crept in unawares, who were before of old ordained to this condemnation, ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ."
+bsb: "For certain men have crept in among you unnoticed—ungodly ones who were designated long ago for condemnation. They turn the grace of our God into a license for immorality, and they deny our only Master and Lord, Jesus Christ."
+greek: "παρεισέδυσαν γάρ τινες ἄνθρωποι, οἱ πάλαι προγεγραμμένοι εἰς τοῦτο τὸ κρίμα, ἀσεβεῖς, τὴν τοῦ θεοῦ ἡμῶν χάριτα μετατιθέντες εἰς ἀσέλγειαν καὶ τὸν μόνον δεσπότην θεόν καὶ κύριον ἡμῶν Ἰησοῦν Χριστὸν ἀρνούμενοι.¶"
+pericope: "[[Jude.1.3 God’s Judgment on the Ungodly|God’s Judgment on the Ungodly]]"
+original_language: Greek
+testament: New
+book: Jude
+chapter: 1
+book/chapter: "[[Jude.1|Jude 1]]"
+chronological_order: 1160
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- polemical
+strongs:
+- "[[G3921]]"
+- "[[G1063]]"
+- "[[G5100]]"
+- "[[G0444]]"
+- "[[G3588]]"
+- "[[G3819]]"
+- "[[G4270]]"
+- "[[G1519]]"
+- "[[G3778]]"
+- "[[G2917]]"
+- "[[G0765]]"
+- "[[G2316]]"
+- "[[G3165]]"
+- "[[G5485]]"
+- "[[G3346]]"
+- "[[G0766]]"
+- "[[G2532]]"
+- "[[G3441]]"
+- "[[G1203]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G0720]]"
+texts:
+- NKO
+- K
+---
+
 **Jude 1:4**<big><big>[[Jude.1.3 God’s Judgment on the Ungodly|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For there are certain men crept in unawares, who were before of old ordained to this condemnation, ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 For certain men have crept in among you unnoticed—ungodly ones who were designated long ago for condemnation. They turn the grace of our God into a license for immorality, and they deny our only Master and Lord, Jesus Christ.
-<small><sub>**Literal:**</sub></small>
-Came in stealthily for certain men, those long ago designated unto this <the> condemnation, ungodly [ones], the of the God of us grace changing into sensuality and the only master God and Lord of us Jesus Christ denying.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.3|<< Jude 1:3]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.5|Jude 1:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3921\|παρεισέδυσαν]]  [[G1063\|γάρ]]  [[G5100\|τινες]]  [[G0444\|ἄνθρωποι,]]  [[G3588\|οἱ]]  [[G3819\|πάλαι]]  [[G4270\|προγεγραμμένοι]]  [[G1519\|εἰς]]  [[G3778\|τοῦτο]]  [[G3588\|τὸ]]  [[G2917\|κρίμα,]]  [[G0765\|ἀσεβεῖς,]]  [[G3588\|τὴν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3165\|ἡμῶν]]  [[G5485\|χάριτα]]  [[G3346\|μετατιθέντες]]  [[G1519\|εἰς]]  [[G0766\|ἀσέλγειαν]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G3441\|μόνον]]  [[G1203\|δεσπότην]]  [[G2316\|θεόν]]  [[G2532\|καὶ]]  [[G2962G\|κύριον]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦν]]  [[G5547\|Χριστὸν]]  [[G0720\|ἀρνούμενοι.¶]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.3|<< Jude 1:3]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.5|Jude 1:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

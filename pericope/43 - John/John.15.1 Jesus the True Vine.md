@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus the True Vine
+type: Pericope
 pericope: "[[John.15.1 Jesus the True Vine|Jesus the True Vine]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: John
 chapter: 15
 book/chapter: "[[John.15|John 15]]"
-genre:
+chronological_order: 1003
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 8
 verses:
 - "[[John.15.1]]"
 - "[[John.15.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[John.15.8]]"
 ---
 
-[[John.15|John 15:1 - John 15:8]]
+<small>[[John.15|John 15:1-8]]</small>
 *Jesus the True Vine*
 
 [[John.15.1|1]] I am the true vine, and my Father is the husbandman.

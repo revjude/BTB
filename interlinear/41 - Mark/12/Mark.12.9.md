@@ -1,10 +1,65 @@
+---
+title: Mark 12:9
+type: Verse
+kjv: "What shall therefore the lord of the vineyard do? he will come and destroy the husbandmen, and will give the vineyard unto others."
+bsb: "What then will the owner of the vineyard do? He will come and kill those tenants and give the vineyard to others."
+jesus_said: "What shall therefore the lord of the vineyard do? he will come and destroy the husbandmen, and will give the vineyard unto others."
+greek: "τί οὖν ποιήσει ὁ κύριος τοῦ ἀμπελῶνος; ἐλεύσεται καὶ ἀπολέσει τοὺς γεωργοὺς καὶ δώσει τὸν ἀμπελῶνα ἄλλοις."
+pericope: "[[Mark.12.1 The Parable of the Wicked Tenants|The Parable of the Wicked Tenants]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 12
+book/chapter: "[[Mark.12|Mark 12]]"
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPITAL AND LABOR|CAPITAL AND LABOR]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic EVICTION|EVICTION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HUSBANDMAN|HUSBANDMAN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEASE|LEASE]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SELF-CONDEMNATION|SELF-CONDEMNATION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic TENANTS|TENANTS]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G5101]]"
+- "[[G3767]]"
+- "[[G4160G]]"
+- "[[G3588]]"
+- "[[G2962H]]"
+- "[[G0290]]"
+- "[[G2064]]"
+- "[[G2532]]"
+- "[[G0622]]"
+- "[[G1092]]"
+- "[[G1325]]"
+- "[[G0243]]"
+texts:
+- NKO
+---
+
 **Mark 12:9**<big><big>[[Mark.12.1 The Parable of the Wicked Tenants|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 What shall therefore the lord of the vineyard do? he will come and destroy the husbandmen, and will give the vineyard unto others.
 <small><sub>**BSB:**</sub></small>
 What then will the owner of the vineyard do? He will come and kill those tenants and give the vineyard to others.
-<small><sub>**Literal:**</sub></small>
-What therefore will do the master of the vineyard? he will come and he will destroy the farmers and will give the vineyard to others.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.8|<< Mark 12:8]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.10|Mark 12:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τί]]  [[G3767\|οὖν]]  [[G4160G\|ποιήσει]]  [[G3588\|ὁ]]  [[G2962H\|κύριος]]  [[G3588\|τοῦ]]  [[G0290\|ἀμπελῶνος;]]  [[G2064\|ἐλεύσεται]]  [[G2532\|καὶ]]  [[G0622\|ἀπολέσει]]  [[G3588\|τοὺς]]  [[G1092\|γεωργοὺς]]  [[G2532\|καὶ]]  [[G1325\|δώσει]]  [[G3588\|τὸν]]  [[G0290\|ἀμπελῶνα]]  [[G0243\|ἄλλοις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPITAL AND LABOR|CAPITAL AND LABOR]] • [[topic CHURCH|CHURCH]] • [[topic EVICTION|EVICTION]] • [[topic GOD|GOD]] • [[topic HUSBANDMAN|HUSBANDMAN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEASE|LEASE]] • [[topic REPROOF|REPROOF]] • [[topic SELF-CONDEMNATION|SELF-CONDEMNATION]] • [[topic SERVANT|SERVANT]] • [[topic TENANTS|TENANTS]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.8|<< Mark 12:8]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.10|Mark 12:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

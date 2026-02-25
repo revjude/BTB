@@ -13,7 +13,7 @@
 
 - Jephthah [[Judg.11.1|Jud 11:1]]
 
-- David's child by Bath-sheba [[2Sam.11.2|2Sa 11:2]]-[[2Sam.11.5|5]]
+- David's child by Bath-sheba [[2Sam.11.2|2Sa 11:2-5]]
 
 → FIGURATIVE [[Zech.9.6|Zec 9:6]]; [[Heb.12.8|Heb 12:8]]
 

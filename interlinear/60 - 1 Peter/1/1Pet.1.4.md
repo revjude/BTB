@@ -1,10 +1,54 @@
+---
+title: 1 Peter 1:4
+type: Verse
+kjv: "To an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you,"
+bsb: "and into an inheritance that is imperishable, undefiled, and unfading, reserved in heaven for you,"
+greek: "εἰς κληρονομίαν ἄφθαρτον καὶ ἀμίαντον καὶ ἀμάραντον τετηρημένην ἐν οὐρανοῖς εἰς ὑμᾶς"
+pericope: "[[1Pet.1.3 A Living Hope|A Living Hope]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 1
+book/chapter: "[[1Pet.1|1 Peter 1]]"
+chronological_order: 1135
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G1519]]"
+- "[[G2817]]"
+- "[[G0862]]"
+- "[[G2532]]"
+- "[[G0283]]"
+- "[[G0263]]"
+- "[[G5083I]]"
+- "[[G1722]]"
+- "[[G3772]]"
+- "[[G4771]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **1 Peter 1:4**<big><big>[[1Pet.1.3 A Living Hope|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 To an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you,
 <small><sub>**BSB:**</sub></small>
 and into an inheritance that is imperishable, undefiled, and unfading, reserved in heaven for you,
-<small><sub>**Literal:**</sub></small>
-to an inheritance imperishable and undefiled and unfading reserved in [the] heavens for you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.3|<< 1 Peter 1:3]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.5|1 Peter 1:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1519\|εἰς]]  [[G2817\|κληρονομίαν]]  [[G0862\|ἄφθαρτον]]  [[G2532\|καὶ]]  [[G0283\|ἀμίαντον]]  [[G2532\|καὶ]]  [[G0263\|ἀμάραντον]]  [[G5083I\|τετηρημένην]]  [[G1722\|ἐν]]  [[G3772\|οὐρανοῖς]]  [[G1519\|εἰς]]  [[G4771\|ὑμᾶς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEAVEN|HEAVEN]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.3|<< 1 Peter 1:3]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.5|1 Peter 1:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

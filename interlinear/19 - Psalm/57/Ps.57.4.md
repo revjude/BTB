@@ -1,8 +1,66 @@
+---
+title: Psalm 57:4
+type: Verse
+kjv: "My soul is among lions: and I lie even among them that are set on fire, even the sons of men, whose teeth are spears and arrows, and their tongue a sharp sword."
+bsb: "My soul is among the lions; I lie down with ravenous beasts—with men whose teeth are spears and arrows, whose tongues are sharp swords."
+hebrew: "נַפְשִׁ֤י׀ בְּת֥וֹךְ לְבָאִם֮ אֶשְׁכְּבָ֪ה לֹ֫הֲטִ֥ים בְּֽנֵי־ אָדָ֗ם שִׁ֭נֵּיהֶם חֲנִ֣ית וְחִצִּ֑ים וּ֝לְשׁוֹנָ֗ם חֶ֣רֶב חַדָּֽה׃"
+pericope: "[[Ps.57.1 In You My Soul Takes Refuge|In You My Soul Takes Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 57
+book/chapter: "[[Ps.57|Psalm 57]]"
+chronological_order: 316
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ARROW|ARROW]]"
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic SWORD|SWORD]]"
+strongs:
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H3833A]]"
+- "[[H7901G]]"
+- "[[H3857]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H8127G]]"
+- "[[H9028]]"
+- "[[H2595]]"
+- "[[H9002]]"
+- "[[H2671]]"
+- "[[H3956G]]"
+- "[[H2719]]"
+- "[[H2299]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 57:4**<big><big>[[Ps.57.1 In You My Soul Takes Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My soul [is] among lions: [and] I lie [even among] them that are set on fire, [even] the sons of men, whose teeth [are] spears and arrows, and their tongue a sharp sword.
 <small><sub>**BSB:**</sub></small>
 My soul is among the lions; I lie down with ravenous beasts—with men whose teeth are spears and arrows, whose tongues are sharp swords.
+<small><sub>**Hebrew:**</sub></small>
+[[H5315G\|נַפְשִׁ֤]][[H9020\|י]][[H9015\|׀]] [[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H3833A\|לְבָאִם֮]] [[H7901G\|אֶשְׁכְּבָ֪ה]] [[H3857\|לֹ֫הֲטִ֥ים]] [[H1121A\|בְּֽנֵי]][[H9014\|־]] [[H0120G\|אָדָ֗ם]] [[H8127G\|שִׁ֭נֵּי]][[H9028\|הֶם]] [[H2595\|חֲנִ֣ית]] [[H9002\|וְ]][[H2671\|חִצִּ֑ים]] [[H9002\|וּ֝]][[H3956G\|לְשׁוֹנָ֗]][[H9028\|ם]] [[H2719\|חֶ֣רֶב]] [[H2299\|חַדָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARROW|ARROW]] • [[topic ENEMY|ENEMY]] • [[topic MALICE|MALICE]] • [[topic SWORD|SWORD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.57.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.57.3|<< Psalms 57:3]]</td><td align="center" style="border:none;">[[Ps.57|Psalms 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.57.5|Psalms 57:5 >>]]</td></tr></table>
 

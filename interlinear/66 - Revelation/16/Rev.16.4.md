@@ -1,10 +1,57 @@
+---
+title: Revelation 16:4
+type: Verse
+kjv: "And the third angel poured out his vial upon the rivers and fountains of waters; and they became blood."
+bsb: "And the third angel poured out his bowl into the rivers and springs of water, and they turned to blood."
+greek: "Καὶ ὁ τρίτος ἄγγελος ἐξέχεεν τὴν φιάλην αὐτοῦ εἰς τοὺς ποταμοὺς καὶ εἰς τὰς πηγὰς τῶν ὑδάτων, καὶ ἐγένετο αἷμα."
+pericope: "[[Rev.16.1 The First Six Bowls of Wrath|The First Six Bowls of Wrath]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 16
+book/chapter: "[[Rev.16|Revelation 16]]"
+chronological_order: 1183
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WATER|WATER]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5154]]"
+- "[[G0032G]]"
+- "[[G1632]]"
+- "[[G5357]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G4215]]"
+- "[[G4077]]"
+- "[[G5204]]"
+- "[[G1096]]"
+- "[[G0129G]]"
+texts:
+- NKO
+- K
+---
+
 **Revelation 16:4**<big><big>[[Rev.16.1 The First Six Bowls of Wrath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the third angel poured out his vial upon the rivers and fountains of waters; and they became blood.
 <small><sub>**BSB:**</sub></small>
 And the third angel poured out his bowl into the rivers and springs of water, and they turned to blood.
-<small><sub>**Literal:**</sub></small>
-And the third angel poured out the bowl of him into the rivers and into the springs of the waters, and they became blood.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.3|<< Revelation 16:3]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.5|Revelation 16:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3588\|ὁ]]  [[G5154\|τρίτος]]  [[G0032G\|ἄγγελος]]  [[G1632\|ἐξέχεεν]]  [[G3588\|τὴν]]  [[G5357\|φιάλην]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G4215\|ποταμοὺς]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G3588\|τὰς]]  [[G4077\|πηγὰς]]  [[G3588\|τῶν]]  [[G5204\|ὑδάτων,]]  [[G2532\|καὶ]]  [[G1096\|ἐγένετο]]  [[G0129G\|αἷμα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]] • [[topic WATER|WATER]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.3|<< Revelation 16:3]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.5|Revelation 16:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 16:4** is...
 > $\quad$ possibly alluding to: [[LXX.Exod.7.19|Exod 7:19-20]]

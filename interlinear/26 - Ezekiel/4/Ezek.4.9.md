@@ -1,8 +1,85 @@
+---
+title: Ezekiel 4:9
+type: Verse
+kjv: "Take thou also unto thee wheat, and barley, and beans, and lentiles, and millet, and fitches, and put them in one vessel, and make thee bread thereof, according to the number of the days that thou shalt lie upon thy side, three hundred and ninety days shalt thou eat thereof."
+bsb: "But take wheat, barley, beans, lentils, millet, and spelt; put them in a single container and make them into bread for yourself. This is what you are to eat during the 390 days you lie on your side."
+hebrew: "וְאַתָּ֣ה קַח־ לְךָ֡ חִטִּ֡ין וּ֠שְׂעֹרִים וּפ֨וֹל וַעֲדָשִׁ֜ים וְדֹ֣חַן וְכֻסְּמִ֗ים וְנָתַתָּ֤ה אוֹתָם֙ בִּכְלִ֣י אֶחָ֔ד וְעָשִׂ֧יתָ אוֹתָ֛ם לְךָ֖ לְלָ֑חֶם מִסְפַּ֨ר הַיָּמִ֜ים אֲשֶׁר־ אַתָּ֣ה׀ שׁוֹכֵ֣ב עַֽל־ צִדְּךָ֗ שְׁלֹשׁ־ מֵא֧וֹת וְתִשְׁעִ֛ים י֖וֹם תֹּאכֲלֶֽנּוּ׃"
+pericope: "[[Ezek.4.9 The Defiled Bread|The Defiled Bread]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 4
+book/chapter: "[[Ezek.4|Ezekiel 4]]"
+chronological_order: 795
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BEAN|BEAN]]"
+- "[[topic FITCH|FITCH]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic LENTILES|LENTILES]]"
+- "[[topic MILLET|MILLET]]"
+- "[[topic RYE (SPELT, R. V.)|RYE (SPELT, R. V.)]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H3947G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H2406]]"
+- "[[H8184]]"
+- "[[H6321]]"
+- "[[H5742]]"
+- "[[H1764]]"
+- "[[H3698]]"
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H3627]]"
+- "[[H0259]]"
+- "[[H6213H]]"
+- "[[H3899H]]"
+- "[[H4557]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0834A]]"
+- "[[H9015]]"
+- "[[H7901G]]"
+- "[[H5921A]]"
+- "[[H6654]]"
+- "[[H9021]]"
+- "[[H7969]]"
+- "[[H3967]]"
+- "[[H8673]]"
+- "[[H0398]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 4:9**<big><big>[[Ezek.4.9 The Defiled Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take thou also unto thee wheat, and barley, and beans, and lentiles, and millet, and fitches, and put them in one vessel, and make thee bread thereof, [according] to the number of the days that thou shalt lie upon thy side, three hundred and ninety days shalt thou eat thereof.
 <small><sub>**BSB:**</sub></small>
 But take wheat, barley, beans, lentils, millet, and spelt; put them in a single container and make them into bread for yourself. This is what you are to eat during the 390 days you lie on your side.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֣ה]] [[H3947G\|קַח]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֡]] [[H2406\|חִטִּ֡ין]] [[H9002\|וּ֠]][[H8184\|שְׂעֹרִים]] [[H9002\|וּ]][[H6321\|פ֨וֹל]] [[H9002\|וַ]][[H5742\|עֲדָשִׁ֜ים]] [[H9002\|וְ]][[H1764\|דֹ֣חַן]] [[H9002\|וְ]][[H3698\|כֻסְּמִ֗ים]] [[H9001\|וְ]][[H5414H\|נָתַתָּ֤ה]] [[H0853\|אוֹתָ]][[H9038\|ם֙]] [[H9003\|בִּ]][[H3627\|כְלִ֣י]] [[H0259\|אֶחָ֔ד]] [[H9001\|וְ]][[H6213H\|עָשִׂ֧יתָ]] [[H0853\|אוֹתָ֛]][[H9038\|ם]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H9005\|לְ]][[H3899H\|לָ֑חֶם]] [[H4557\|מִסְפַּ֨ר]] [[H9009\|הַ]][[H3117G\|יָּמִ֜ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0859A\|אַתָּ֣ה]][[H9015\|׀]] [[H7901G\|שׁוֹכֵ֣ב]] [[H5921A\|עַֽל]][[H9014\|־]] [[H6654\|צִדְּ]][[H9021\|ךָ֗]] [[H7969\|שְׁלֹשׁ]][[H9014\|־]] [[H3967\|מֵא֧וֹת]] [[H9002\|וְ]][[H8673\|תִשְׁעִ֛ים]] [[H3117G\|י֖וֹם]] [[H0398\|תֹּאכֲלֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEAN|BEAN]] • [[topic FITCH|FITCH]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic LENTILES|LENTILES]] • [[topic MILLET|MILLET]] • [[topic RYE (SPELT, R. V.)|RYE (SPELT, R. V.)]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4.8|<< Ezekiel 4:8]]</td><td align="center" style="border:none;">[[Ezek.4|Ezekiel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.4.10|Ezekiel 4:10 >>]]</td></tr></table>
 

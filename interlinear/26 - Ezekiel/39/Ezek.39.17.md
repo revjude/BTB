@@ -1,8 +1,82 @@
+---
+title: Ezekiel 39:17
+type: Verse
+kjv: "And, thou son of man, thus saith the Lord GOD; Speak unto every feathered fowl, and to every beast of the field, Assemble yourselves, and come; gather yourselves on every side to my sacrifice that I do sacrifice for you, even a great sacrifice upon the mountains of Israel, that ye may eat flesh, and drink blood."
+bsb: "And as for you, son of man, this is what the Lord GOD says: Call out to every kind of bird and to every beast of the field: ‘Assemble and come together from all around to the sacrificial feast that I am preparing for you, a great feast on the mountains of Israel. There you will eat flesh and drink blood."
+hebrew: "וְאַתָּ֨ה בֶן־ אָדָ֜ם כֹּֽה־ אָמַ֣ר׀ אֲדֹנָ֣י יְהֹוִ֗ה אֱמֹר֩ לְצִפּ֨וֹר כָּל־ כָּנָ֜ף וּלְכֹ֣ל׀ חַיַּ֣ת הַשָּׂדֶ֗ה הִקָּבְצ֤וּ וָבֹ֙אוּ֙ הֵאָסְפ֣וּ מִסָּבִ֔יב עַל־ זִבְחִ֗י אֲשֶׁ֨ר אֲנִ֜י זֹבֵ֤חַ לָכֶם֙ זֶ֣בַח גָּד֔וֹל עַ֖ל הָרֵ֣י יִשְׂרָאֵ֑ל וַאֲכַלְתֶּ֥ם בָּשָׂ֖ר וּשְׁתִ֥יתֶם דָּֽם׃"
+pericope: "[[Ezek.39.1 The Slaughter of Gog’s Armies|The Slaughter of Gog’s Armies]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 39
+book/chapter: "[[Ezek.39|Ezekiel 39]]"
+chronological_order: 830
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic SACRIFICES|SACRIFICES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H9015]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9005]]"
+- "[[H6833]]"
+- "[[H3605]]"
+- "[[H3671]]"
+- "[[H2416C]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H6908]]"
+- "[[H0935G]]"
+- "[[H0622]]"
+- "[[H9006]]"
+- "[[H5439G]]"
+- "[[H5921A]]"
+- "[[H2077]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H0589]]"
+- "[[H2076]]"
+- "[[H9036]]"
+- "[[H1419A]]"
+- "[[H2022G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H1320]]"
+- "[[H8354]]"
+- "[[H1818]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 39:17**<big><big>[[Ezek.39.1 The Slaughter of Gog’s Armies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, thou son of man, thus saith the Lord GOD; Speak unto every feathered fowl, and to every beast of the field, Assemble yourselves, and come; gather yourselves on every side to my sacrifice that I do sacrifice for you, [even] a great sacrifice upon the mountains of Israel, that ye may eat flesh, and drink blood.
 <small><sub>**BSB:**</sub></small>
 And as for you, son of man, this is what the Lord GOD says: Call out to every kind of bird and to every beast of the field: ‘Assemble and come together from all around to the sacrificial feast that I am preparing for you, a great feast on the mountains of Israel. There you will eat flesh and drink blood.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֨ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H0120G\|אָדָ֜ם]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֣ר]][[H9015\|׀]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהֹוִ֗ה]] [[H0559\|אֱמֹר֩]] [[H9005\|לְ]][[H6833\|צִפּ֨וֹר]] [[H3605\|כָּל]][[H9014\|־]] [[H3671\|כָּנָ֜ף]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כֹ֣ל]][[H9015\|׀]] [[H2416C\|חַיַּ֣ת]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֗ה]] [[H6908\|הִקָּבְצ֤וּ]] [[H9002\|וָ]][[H0935G\|בֹ֙אוּ֙]] [[H0622\|הֵאָסְפ֣וּ]] [[H9006\|מִ]][[H5439G\|סָּבִ֔יב]] [[H5921A\|עַל]][[H9014\|־]] [[H2077\|זִבְחִ֗]][[H9020\|י]] [[H0834A\|אֲשֶׁ֨ר]] [[H0589\|אֲנִ֜י]] [[H2076\|זֹבֵ֤חַ]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H2077\|זֶ֣בַח]] [[H1419A\|גָּד֔וֹל]] [[H5921A\|עַ֖ל]] [[H2022G\|הָרֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H0398\|אֲכַלְתֶּ֥ם]] [[H1320\|בָּשָׂ֖ר]] [[H9001\|וּ]][[H8354\|שְׁתִ֥יתֶם]] [[H1818\|דָּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SACRIFICES|SACRIFICES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.16|<< Ezekiel 39:16]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.18|Ezekiel 39:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

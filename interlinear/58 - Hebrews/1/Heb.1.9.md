@@ -1,10 +1,59 @@
+---
+title: Hebrews 1:9
+type: Verse
+kjv: "Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee with the oil of gladness above thy fellows."
+bsb: "You have loved righteousness and hated wickedness; therefore God, Your God, has anointed You above Your companions with the oil of joy.”"
+greek: "ἠγάπησας δικαιοσύνην καὶ ἐμίσησας ἀνομίαν. διὰ τοῦτο ἔχρισέν σε ὁ θεός, ὁ θεός σου, ἔλαιον ἀγαλλιάσεως παρὰ τοὺς μετόχους σου."
+pericope: "[[Heb.1.1 The Supremacy of the Son|The Supremacy of the Son]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 1
+book/chapter: "[[Heb.1|Hebrews 1]]"
+chronological_order: 1140
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[G0025]]"
+- "[[G1343]]"
+- "[[G2532]]"
+- "[[G3404]]"
+- "[[G0458]]"
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G5548]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1637]]"
+- "[[G0020]]"
+- "[[G3844]]"
+- "[[G3353]]"
+texts:
+- NKO
+---
+
 **Hebrews 1:9**<big><big>[[Heb.1.1 The Supremacy of the Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Thou hast loved righteousness, and hated iniquity; therefore God, [even] thy God, hath anointed thee with the oil of gladness above thy fellows.
 <small><sub>**BSB:**</sub></small>
 You have loved righteousness and hated wickedness; therefore God, Your God, has anointed You above Your companions with the oil of joy.”
-<small><sub>**Literal:**</sub></small>
-You have loved righteousness and hated wickedness. because of this has anointed You <the> God, the God of You, with [the] oil of exultation above the companions of You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.1.8|<< Hebrews 1:8]]</td><td align="center" style="border:none;">[[Heb.1|Hebrews 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.1.10|Hebrews 1:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0025\|ἠγάπησας]]  [[G1343\|δικαιοσύνην]]  [[G2532\|καὶ]]  [[G3404\|ἐμίσησας]]  [[G0458\|ἀνομίαν.]]  [[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G5548\|ἔχρισέν]]  [[G4771\|σε]]  [[G3588\|ὁ]]  [[G2316\|θεός,]]  [[G3588\|ὁ]]  [[G2316\|θεός]]  [[G4771\|σου,]]  [[G1637\|ἔλαιον]]  [[G0020\|ἀγαλλιάσεως]]  [[G3844\|παρὰ]]  [[G3588\|τοὺς]]  [[G3353\|μετόχους]]  [[G4771\|σου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SYMBOLS|SYMBOLS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.1.8|<< Hebrews 1:8]]</td><td align="center" style="border:none;">[[Heb.1|Hebrews 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.1.10|Hebrews 1:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 1:9** is...
 > $\quad$ referencing: [[LXX.Ps.45.6|Ps 45:6-7]]

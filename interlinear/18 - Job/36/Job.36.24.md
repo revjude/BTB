@@ -1,8 +1,52 @@
+---
+title: Job 36:24
+type: Verse
+kjv: "Remember that thou magnify his work, which men behold."
+bsb: "Remember to magnify His work, which men have praised in song."
+hebrew: "זְ֭כֹר כִּֽי־ תַשְׂגִּ֣יא פָעֳל֑וֹ אֲשֶׁ֖ר שֹׁרְר֣וּ אֲנָשִֽׁים׃"
+pericope: "[[Job.36.1 Elihu Describes God’s Power|Elihu Describes God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 36
+book/chapter: "[[Job.36|Job 36]]"
+chronological_order: 47
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H2142]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7679]]"
+- "[[H6467]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H7891]]"
+- "[[H0582]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 36:24**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember that thou magnify his work, which men behold.
 <small><sub>**BSB:**</sub></small>
 Remember to magnify His work, which men have praised in song.
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|זְ֭כֹר]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7679\|תַשְׂגִּ֣יא]] [[H6467\|פָעֳל֑]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֖ר]] [[H7891\|שֹׁרְר֣וּ]] [[H0582\|אֲנָשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.23|<< Job 36:23]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.25|Job 36:25 >>]]</td></tr></table>
 

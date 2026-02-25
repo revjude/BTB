@@ -1,10 +1,64 @@
+---
+title: Romans 1:25
+type: Verse
+kjv: "Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen."
+bsb: "They exchanged the truth of God for a lie, and worshiped and served the creature rather than the Creator, who is forever worthy of praise! Amen."
+greek: "οἵτινες μετήλλαξαν τὴν ἀλήθειαν τοῦ θεοῦ ἐν τῷ ψεύδει, καὶ ἐσεβάσθησαν καὶ ἐλάτρευσαν τῇ κτίσει παρὰ τὸν κτίσαντα, ὅς ἐστιν εὐλογητὸς εἰς τοὺς αἰῶνας, ἀμήν.¶"
+pericope: "[[Rom.1.18 God’s Wrath against Sin|God’s Wrath against Sin]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 1
+book/chapter: "[[Rom.1|Romans 1]]"
+chronological_order: 1087
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic ROME|ROME]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3748]]"
+- "[[G3337]]"
+- "[[G3588]]"
+- "[[G0225]]"
+- "[[G2316]]"
+- "[[G1722]]"
+- "[[G5579]]"
+- "[[G2532]]"
+- "[[G4573]]"
+- "[[G3000]]"
+- "[[G2937]]"
+- "[[G3844]]"
+- "[[G2936]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G2128]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+- "[[G0281]]"
+texts:
+- NKO
+---
+
 **Romans 1:25**<big><big>[[Rom.1.18 God’s Wrath against Sin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen.
 <small><sub>**BSB:**</sub></small>
 They exchanged the truth of God for a lie, and worshiped and served the creature rather than the Creator, who is forever worthy of praise! Amen.
-<small><sub>**Literal:**</sub></small>
-who changed the truth <the> of God into the falsehood, and they reverenced and they served the created thing beyond the [One] having created [it], who is blessed to the ages! Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.24|<< Romans 1:24]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.26|Romans 1:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3748\|οἵτινες]]  [[G3337\|μετήλλαξαν]]  [[G3588\|τὴν]]  [[G0225\|ἀλήθειαν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G5579\|ψεύδει,]]  [[G2532\|καὶ]]  [[G4573\|ἐσεβάσθησαν]]  [[G2532\|καὶ]]  [[G3000\|ἐλάτρευσαν]]  [[G3588\|τῇ]]  [[G2937\|κτίσει]]  [[G3844\|παρὰ]]  [[G3588\|τὸν]]  [[G2936\|κτίσαντα,]]  [[G3739\|ὅς]]  [[G1510\|ἐστιν]]  [[G2128\|εὐλογητὸς]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G0165H\|αἰῶνας,]]  [[G0281\|ἀμήν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic ROME|ROME]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.24|<< Romans 1:24]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.26|Romans 1:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

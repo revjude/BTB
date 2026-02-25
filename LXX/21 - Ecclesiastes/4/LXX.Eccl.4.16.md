@@ -1,6 +1,59 @@
+---
+title: LXX Ecclesiastes 4:16
+type: Verse
+lxx: "There is no limit  to all the people,  to all as many as was before them; and indeed, the last shall not be glad in himself. For even indeed this is folly and resolve of spirit."
+greek: "ουκ έστι περασμός τω παντί λαώ τοις πάσιν όσοι εγένοντο έμπροσθεν αυτών και γε οι έσχατοι ουκ ευφρανθήσονται εν αυτώ ότι και γε τούτο ματαιότης και προαίρεσις πνεύματος"
+original_language: Greek
+testament: Old
+book: Ecclesiastes
+chapter: 4
+book/chapter: "[[Eccl.4|Ecclesiastes 4]]"
+chronological_order: 542
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+strongs:
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G8713]]"
+- "[[G3588]]"
+- "[[G3956]]"
+- "[[G2992]]"
+- "[[G3588]]"
+- "[[G3956]]"
+- "[[G3745]]"
+- "[[G1096]]"
+- "[[G1715]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1065]]"
+- "[[G3588]]"
+- "[[G2078]]"
+- "[[G3756]]"
+- "[[G2165]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G3754]]"
+- "[[G2532]]"
+- "[[G1065]]"
+- "[[G3778]]"
+- "[[G3153]]"
+- "[[G2532]]"
+- "[[G8886]]"
+- "[[G4151]]"
+---
+
 **LXX Ecclesiastes 4:16** 
 <small><sub>**LXX:**</sub></small>
 There is no limit  to all \[the\] people,  to all as many as was before them; and indeed, the last shall not be glad in himself. For even indeed this \[is\] folly and resolve of spirit. 
+<small><sub>**Greek:**</sub></small>
+[[G3756\|ουκ]] [[G1510\|έστι]] [[G8713\|περασμός]] [[G3588\|τω]] [[G3956\|παντί]] [[G2992\|λαώ]] [[G3588\|τοις]] [[G3956\|πάσιν]] [[G3745\|όσοι]] [[G1096\|εγένοντο]] [[G1715\|έμπροσθεν]] [[G1473\|αυτών]] [[G2532\|και]] [[G1065\|γε]] [[G3588\|οι]] [[G2078\|έσχατοι]] [[G3756\|ουκ]] [[G2165\|ευφρανθήσονται]] [[G1722\|εν]] [[G1473\|αυτώ]] [[G3754\|ότι]] [[G2532\|και]] [[G1065\|γε]] [[G3778\|τούτο]] [[G3153\|ματαιότης]] [[G2532\|και]] [[G8886\|προαίρεσις]] [[G4151\|πνεύματος]]
 <small><sub>**MT:**</sub></small>
 [[Eccl.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.15|<< Ecclesiastes 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.5.1|Ecclesiastes 5:1 >>]]</td></tr></table>
 
@@ -33,6 +86,6 @@ There is no limit  to all \[the\] people,  to all as many as was before them; an
 | and | **<big>[[G2532\|και]]</big>** |
 | resolve | **<big>[[G8886\|προαίρεσις]]</big>** |
 | of spirit. | **<big>[[G4151\|πνεύματος]]</big>** |
-[[Eccl.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.15|<< Ecclesiastes 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.5.1|Ecclesiastes 5:1 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.15|<< Ecclesiastes 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.5.1|Ecclesiastes 5:1 >>]]</td></tr></table>
 
 

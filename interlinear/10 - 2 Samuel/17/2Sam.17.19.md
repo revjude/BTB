@@ -1,8 +1,67 @@
+---
+title: 2 Samuel 17:19
+type: Verse
+kjv: "And the woman took and spread a covering over the well’s mouth, and spread ground corn thereon; and the thing was not known."
+bsb: "Then the man’s wife took a covering, spread it over the mouth of the well, and scattered grain over it so nobody would know a thing."
+hebrew: "וַתִּקַּ֣ח הָאִשָּׁ֗ה וַתִּפְרֹ֤שׂ אֶת־ הַמָּסָךְ֙ עַל־ פְּנֵ֣י הַבְּאֵ֔ר וַתִּשְׁטַ֥ח עָלָ֖יו הָֽרִפ֑וֹת וְלֹ֥א נוֹדַ֖ע דָּבָֽר׃"
+pericope: "[[2Sam.17.15 Hushai’s Warning Saves David|Hushai’s Warning Saves David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 17
+book/chapter: "[[2Sam.17|2 Samuel 17]]"
+chronological_order: 416
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABIATHAR|ABIATHAR]]"
+- "[[topic AHIMAAZ|AHIMAAZ]]"
+- "[[topic AHITHOPHEL|AHITHOPHEL]]"
+- "[[topic CORN|CORN]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H6566]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4539]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H0875]]"
+- "[[H7849]]"
+- "[[H9033]]"
+- "[[H7383]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H1697I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 17:19**<big><big>[[2Sam.17.15 Hushai’s Warning Saves David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the woman took and spread a covering over the well’s mouth, and spread ground corn thereon; and the thing was not known.
 <small><sub>**BSB:**</sub></small>
 Then the man’s wife took a covering, spread it over the mouth of the well, and scattered grain over it so nobody would know a thing.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|תִּקַּ֣ח]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֗ה]] [[H9001\|וַ]][[H6566\|תִּפְרֹ֤שׂ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4539\|מָּסָךְ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֣י]] [[H9009\|הַ]][[H0875\|בְּאֵ֔ר]] [[H9001\|וַ]][[H7849\|תִּשְׁטַ֥ח]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H9009\|הָֽ]][[H7383\|רִפ֑וֹת]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3045\|נוֹדַ֖ע]] [[H1697I\|דָּבָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIATHAR|ABIATHAR]] • [[topic AHIMAAZ|AHIMAAZ]] • [[topic AHITHOPHEL|AHITHOPHEL]] • [[topic CORN|CORN]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JONATHAN|JONATHAN]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.17.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.18|<< 2 Samuel 17:18]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.20|2 Samuel 17:20 >>]]</td></tr></table>
 

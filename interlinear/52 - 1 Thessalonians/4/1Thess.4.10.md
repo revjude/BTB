@@ -1,10 +1,56 @@
+---
+title: 1 Thessalonians 4:10
+type: Verse
+kjv: "And indeed ye do it toward all the brethren which are in all Macedonia: but we beseech you, brethren, that ye increase more and more;"
+bsb: "And you are indeed showing this love to all the brothers throughout Macedonia. But we urge you, brothers, to excel more and more"
+greek: "καὶ γὰρ ποιεῖτε αὐτὸ εἰς πάντας τοὺς ἀδελφοὺς τοὺς ἐν ὅλῃ τῇ Μακεδονίᾳ.¶ Παρακαλοῦμεν δὲ ὑμᾶς, ἀδελφοί, περισσεύειν μᾶλλον"
+pericope: "[[1Thess.4.1 Living to Please God|Living to Please God]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 4
+book/chapter: "[[1Thess.4|1 Thessalonians 4]]"
+chronological_order: 1051
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1063]]"
+- "[[G4160G]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G1722]]"
+- "[[G3650]]"
+- "[[G3109]]"
+- "[[G3870]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G4052]]"
+- "[[G3123G]]"
+texts:
+- NKO
+---
+
 **1 Thessalonians 4:10**<big><big>[[1Thess.4.1 Living to Please God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And indeed ye do it toward all the brethren which are in all Macedonia: but we beseech you, brethren, that ye increase more and more;
 <small><sub>**BSB:**</sub></small>
 And you are indeed showing this love to all the brothers throughout Macedonia. But we urge you, brothers, to excel more and more
-<small><sub>**Literal:**</sub></small>
-And for you are doing this toward all the brothers the [ones] in all <the> Macedonia. We exhort however you, brothers, to abound more and more<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.9|<< 1 Thessalonians 4:9]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.11|1 Thessalonians 4:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1063\|γὰρ]]  [[G4160G\|ποιεῖτε]]  [[G0846\|αὐτὸ]]  [[G1519\|εἰς]]  [[G3956\|πάντας]]  [[G3588\|τοὺς]]  [[G0080\|ἀδελφοὺς]]  [[G3588\|τοὺς]]  [[G1722\|ἐν]]  [[G3650\|ὅλῃ]]  [[G3588\|τῇ]]  [[G3109\|Μακεδονίᾳ.¶]]  [[G3870\|Παρακαλοῦμεν]]  [[G1161\|δὲ]]  [[G4771\|ὑμᾶς,]]  [[G0080\|ἀδελφοί,]]  [[G4052\|περισσεύειν]]  [[G3123G\|μᾶλλον]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.9|<< 1 Thessalonians 4:9]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.11|1 Thessalonians 4:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

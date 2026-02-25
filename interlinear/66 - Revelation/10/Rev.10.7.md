@@ -1,10 +1,66 @@
+---
+title: Revelation 10:7
+type: Verse
+kjv: "But in the days of the voice of the seventh angel, when he shall begin to sound, the mystery of God should be finished, as he hath declared to his servants the prophets."
+bsb: "But in the days of the voice of the seventh angel, when he begins to sound his trumpet, the mystery of God will be fulfilled, just as He proclaimed to His servants the prophets.”"
+greek: "ἀλλ᾽ ἐν ταῖς ἡμέραις τῆς φωνῆς τοῦ ἑβδόμου ἀγγέλου, ὅταν μέλλῃ σαλπίζειν, καὶ ἐτελέσθη τὸ μυστήριον τοῦ θεοῦ, ὡς εὐηγγέλισεν τοὺς ἑαυτοῦ δούλους τοὺς προφήτας.¶"
+pericope: "[[Rev.10.1 The Angel and the Small Scroll|The Angel and the Small Scroll]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 10
+book/chapter: "[[Rev.10|Revelation 10]]"
+chronological_order: 1177
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic TRUMPET|TRUMPET]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G0235]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G5456H]]"
+- "[[G1442]]"
+- "[[G0032G]]"
+- "[[G3752]]"
+- "[[G3195]]"
+- "[[G4537]]"
+- "[[G2532]]"
+- "[[G5055]]"
+- "[[G3466]]"
+- "[[G2316]]"
+- "[[G5613]]"
+- "[[G2097]]"
+- "[[G1438]]"
+- "[[G1401]]"
+- "[[G4396]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+---
+
 **Revelation 10:7**<big><big>[[Rev.10.1 The Angel and the Small Scroll|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But in the days of the voice of the seventh angel, when he shall begin to sound, the mystery of God should be finished, as he hath declared to his servants the prophets.
 <small><sub>**BSB:**</sub></small>
 But in the days of the voice of the seventh angel, when he begins to sound his trumpet, the mystery of God will be fulfilled, just as He proclaimed to His servants the prophets.”
-<small><sub>**Literal:**</sub></small>
-But in the days of the voice of the seventh angel, when he may soon to sound [the] trumpet, then would be completed the mystery <the> of God, as evangelised [to] those His own servants [to] the prophets.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.10.6|<< Revelation 10:6]]</td><td align="center" style="border:none;">[[Rev.10|Revelation 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.10.8|Revelation 10:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις]]  [[G3588\|τῆς]]  [[G5456H\|φωνῆς]]  [[G3588\|τοῦ]]  [[G1442\|ἑβδόμου]]  [[G0032G\|ἀγγέλου,]]  [[G3752\|ὅταν]]  [[G3195\|μέλλῃ]]  [[G4537\|σαλπίζειν,]]  [[G2532\|καὶ]]  [[G5055\|ἐτελέσθη]]  [[G3588\|τὸ]]  [[G3466\|μυστήριον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G5613\|ὡς]]  [[G2097\|εὐηγγέλισεν]]  [[G3588\|τοὺς]]  [[G1438\|ἑαυτοῦ]]  [[G1401\|δούλους]]  [[G3588\|τοὺς]]  [[G4396\|προφήτας.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MYSTERIES|MYSTERIES]] • [[topic PROPHETS|PROPHETS]] • [[topic SALVATION|SALVATION]] • [[topic TRUMPET|TRUMPET]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.10.6|<< Revelation 10:6]]</td><td align="center" style="border:none;">[[Rev.10|Revelation 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.10.8|Revelation 10:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

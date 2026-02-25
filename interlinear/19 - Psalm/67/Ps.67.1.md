@@ -1,8 +1,55 @@
+---
+title: Psalm 67:1
+type: Verse
+kjv: "God be merciful unto us, and bless us; and cause his face to shine upon us; Selah."
+bsb: "For the choirmaster. With stringed instruments. A Psalm. A song. May God be gracious to us and bless us, and cause His face to shine upon us, Selah"
+hebrew: "אֱלֹהִ֗ים יְחָנֵּ֥נוּ וִֽיבָרְכֵ֑נוּ יָ֤אֵ֥ר פָּנָ֖יו אִתָּ֣נוּ סֶֽלָה׃"
+pericope: "[[Ps.67.1 May God Cause His Face to Shine upon Us|May God Cause His Face to Shine upon Us]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 67
+book/chapter: "[[Ps.67|Psalm 67]]"
+chronological_order: 427
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[H0430G]]"
+- "[[H2603A]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H1288]]"
+- "[[H0215]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H0854]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 67:1**<big><big>[[Ps.67.1 May God Cause His Face to Shine upon Us|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God be merciful unto us, and bless us; [and] cause his face to shine upon us; Selah.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. With stringed instruments. A Psalm. A song. May God be gracious to us and bless us, and cause His face to shine upon us, Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H0430G\|אֱלֹהִ֗ים]] [[H2603A\|יְחָנֵּ֥]][[H9035\|נוּ]] [[H9002\|וִֽ]][[H1288\|יבָרְכֵ֑]][[H9035\|נוּ]] [[H0215\|יָ֤אֵ֥ר]] [[H6440H\|פָּנָ֖י]][[H9023\|ו]] [[H0854\|אִתָּ֣]][[H9035\|נוּ]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MUSIC|MUSIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.67.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.67.0|<< Psalms 67:0]]</td><td align="center" style="border:none;">[[Ps.67|Psalms 67]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.67.2|Psalms 67:2 >>]]</td></tr></table>
 

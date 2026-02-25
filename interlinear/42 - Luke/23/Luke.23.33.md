@@ -1,10 +1,64 @@
+---
+title: Luke 23:33
+type: Verse
+kjv: "And when they were come to the place, which is called Calvary, there they crucified him, and the malefactors, one on the right hand, and the other on the left."
+bsb: "When they came to the place called The Skull, they crucified Him there, along with the criminals, one on His right and the other on His left."
+greek: "καὶ ὅτε ἦλθον ἐπὶ τὸν τόπον τὸν καλούμενον Κρανίον, ἐκεῖ ἐσταύρωσαν αὐτὸν καὶ τοὺς κακούργους, ὃν μὲν ἐκ δεξιῶν, ὃν δὲ ἐξ ἀριστερῶν."
+pericope: "[[Luke.23.26 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CALVARY|CALVARY]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MALEFACTORS (CRIMINALS)|MALEFACTORS (CRIMINALS)]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+strongs:
+- "[[G2532]]"
+- "[[G3753]]"
+- "[[G2064]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G5117]]"
+- "[[G2564G]]"
+- "[[G2898]]"
+- "[[G1563]]"
+- "[[G4717]]"
+- "[[G0846]]"
+- "[[G2557]]"
+- "[[G3739]]"
+- "[[G3303]]"
+- "[[G1537]]"
+- "[[G1188]]"
+- "[[G1161]]"
+- "[[G0710]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 23:33**<big><big>[[Luke.23.26 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they were come to the place, which is called Calvary, there they crucified him, and the malefactors, one on the right hand, and the other on the left.
 <small><sub>**BSB:**</sub></small>
 When they came to the place called The Skull, they crucified Him there, along with the criminals, one on His right and the other on His left.
-<small><sub>**Literal:**</sub></small>
-And when they came to the place which is being called [The] Skull, there they crucified Him and the criminals, the one on [the] right, another and on [the] left.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.32|<< Luke 23:32]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.34|Luke 23:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3753\|ὅτε]]  [[G2064\|ἦλθον]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G5117\|τόπον]]  [[G3588\|τὸν]]  [[G2564G\|καλούμενον]]  [[G2898\|Κρανίον,]]  [[G1563\|ἐκεῖ]]  [[G4717\|ἐσταύρωσαν]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G2557\|κακούργους,]]  [[G3739\|ὃν]]  [[G3303\|μὲν]]  [[G1537\|ἐκ]]  [[G1188\|δεξιῶν,]]  [[G3739\|ὃν]]  [[G1161\|δὲ]]  [[G1537\|ἐξ]]  [[G0710\|ἀριστερῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALVARY|CALVARY]] • [[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MALEFACTORS (CRIMINALS)|MALEFACTORS (CRIMINALS)]] • [[topic PUNISHMENT|PUNISHMENT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.32|<< Luke 23:32]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.34|Luke 23:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

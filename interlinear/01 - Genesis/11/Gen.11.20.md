@@ -1,8 +1,61 @@
+---
+title: Genesis 11:20
+type: Verse
+kjv: "And Reu lived two and thirty years, and begat Serug:"
+bsb: "When Reu was 32 years old, he became the father of Serug."
+hebrew: "וַיְחִ֣י רְע֔וּ שְׁתַּ֥יִם וּשְׁלֹשִׁ֖ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־ שְׂרֽוּג׃"
+pericope: "[[Gen.11.10 Genealogy from Shem to Abram|Genealogy from Shem to Abram]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 11
+book/chapter: "[[Gen.11|Genesis 11]]"
+chronological_order: 11
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic HEBREW|HEBREW]]"
+- "[[topic LONGEVITY|LONGEVITY]]"
+- "[[topic RAGAU|RAGAU]]"
+- "[[topic REU|REU]]"
+- "[[topic SERUG|SERUG]]"
+- "[[topic SHEM|SHEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H2421]]"
+- "[[H7466]]"
+- "[[H8147]]"
+- "[[H9002]]"
+- "[[H7970]]"
+- "[[H8141]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8286]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 11:20**<big><big>[[Gen.11.10 Genealogy from Shem to Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Reu lived two and thirty years, and begat Serug:
 <small><sub>**BSB:**</sub></small>
 When Reu was 32 years old, he became the father of Serug.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2421\|יְחִ֣י]] [[H7466\|רְע֔וּ]] [[H8147\|שְׁתַּ֥יִם]] [[H9002\|וּ]][[H7970\|שְׁלֹשִׁ֖ים]] [[H8141\|שָׁנָ֑ה]] [[H9001\|וַ]][[H3205\|יּ֖וֹלֶד]] [[H0853\|אֶת]][[H9014\|־]] [[H8286\|שְׂרֽוּג]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENEALOGY|GENEALOGY]] • [[topic HEBREW|HEBREW]] • [[topic LONGEVITY|LONGEVITY]] • [[topic RAGAU|RAGAU]] • [[topic REU|REU]] • [[topic SERUG|SERUG]] • [[topic SHEM|SHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.11.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.19|<< Genesis 11:19]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.21|Genesis 11:21 >>]]</td></tr></table>
 

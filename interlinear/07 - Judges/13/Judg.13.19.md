@@ -1,8 +1,66 @@
+---
+title: Judges 13:19
+type: Verse
+kjv: "So Manoah took a kid with a meat offering, and offered it upon a rock unto the LORD: and the angel did wondrously; and Manoah and his wife looked on."
+bsb: "Then Manoah took a young goat and a grain offering and offered them on a rock to the LORD. And as Manoah and his wife looked on, the LORD did a marvelous thing."
+hebrew: "וַיִּקַּ֨ח מָנ֜וֹחַ אֶת־ גְּדִ֤י הָעִזִּים֙ וְאֶת־ הַמִּנְחָ֔ה וַיַּ֥עַל עַל־ הַצּ֖וּר לַֽיהוָ֑ה וּמַפְלִ֣א לַעֲשׂ֔וֹת וּמָנ֥וֹחַ וְאִשְׁתּ֖וֹ רֹאִֽים׃"
+pericope: "[[Judg.13.1 The Birth of Samson|The Birth of Samson]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 13
+book/chapter: "[[Judg.13|Judges 13]]"
+chronological_order: 267
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]]"
+- "[[topic CONCEPTION|CONCEPTION]]"
+- "[[topic GOAT|GOAT]]"
+- "[[topic MANOAH|MANOAH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H4495]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1423]]"
+- "[[H9009]]"
+- "[[H5795]]"
+- "[[H9002]]"
+- "[[H4503G]]"
+- "[[H5927I]]"
+- "[[H5921A]]"
+- "[[H6697H]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H6381]]"
+- "[[H6213A]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 13:19**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Manoah took a kid with a meat offering, and offered [it] upon a rock unto the LORD: and [the angel] did wondrously; and Manoah and his wife looked on.
 <small><sub>**BSB:**</sub></small>
 Then Manoah took a young goat and a grain offering and offered them on a rock to the LORD. And as Manoah and his wife looked on, the LORD did a marvelous thing.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֨ח]] [[H4495\|מָנ֜וֹחַ]] [[H0853\|אֶת]][[H9014\|־]] [[H1423\|גְּדִ֤י]] [[H9009\|הָ]][[H5795\|עִזִּים֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4503G\|מִּנְחָ֔ה]] [[H9001\|וַ]][[H5927I\|יַּ֥עַל]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H6697H\|צּ֖וּר]] [[H9005\|לַֽ]][[H3068G\|יהוָ֑ה]] [[H9002\|וּ]][[H6381\|מַפְלִ֣א]] [[H9005\|לַ]][[H6213A\|עֲשׂ֔וֹת]] [[H9002\|וּ]][[H4495\|מָנ֥וֹחַ]] [[H9002\|וְ]][[H0802H\|אִשְׁתּ֖]][[H9023\|וֹ]] [[H7200G\|רֹאִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]] • [[topic CONCEPTION|CONCEPTION]] • [[topic GOAT|GOAT]] • [[topic MANOAH|MANOAH]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.18|<< Judges 13:18]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.20|Judges 13:20 >>]]</td></tr></table>
 

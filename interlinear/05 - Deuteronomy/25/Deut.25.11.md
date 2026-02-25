@@ -1,8 +1,74 @@
+---
+title: Deuteronomy 25:11
+type: Verse
+kjv: "When men strive together one with another, and the wife of the one draweth near for to deliver her husband out of the hand of him that smiteth him, and putteth forth her hand, and taketh him by the secrets:"
+bsb: "If two men are fighting, and the wife of one comes to rescue her husband from the one striking him, and she reaches out her hand and grabs his genitals,"
+hebrew: "כִּֽי־ יִנָּצ֨וּ אֲנָשִׁ֤ים יַחְדָּו֙ אִ֣ישׁ וְאָחִ֔יו וְקָֽרְבָה֙ אֵ֣שֶׁת הָֽאֶחָ֔ד לְהַצִּ֥יל אֶת־ אִישָׁ֖הּ מִיַּ֣ד מַכֵּ֑הוּ וְשָׁלְחָ֣ה יָדָ֔הּ וְהֶחֱזִ֖יקָה בִּמְבֻשָֽׁיו׃"
+pericope: "[[Deut.25.5 Widowhood and Marriage|Widowhood and Marriage]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 25
+book/chapter: "[[Deut.25|Deuteronomy 25]]"
+chronological_order: 221
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic PITY|PITY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5327A]]"
+- "[[H0582]]"
+- "[[H3162B]]"
+- "[[H0376I]]"
+- "[[H9002]]"
+- "[[H0251I]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H7126G]]"
+- "[[H0802H]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H5337]]"
+- "[[H0853]]"
+- "[[H0376H]]"
+- "[[H9024]]"
+- "[[H9006]]"
+- "[[H3027G]]"
+- "[[H5221]]"
+- "[[H9033]]"
+- "[[H7971K]]"
+- "[[H2388H]]"
+- "[[H9003]]"
+- "[[H4016]]"
+- "[[H9016]]"
+texts:
+- L
+- LAB(h)
+---
+
 **Deuteronomy 25:11**<big><big>[[Deut.25.5 Widowhood and Marriage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When men strive together one with another, and the wife of the one draweth near for to deliver her husband out of the hand of him that smiteth him, and putteth forth her hand, and taketh him by the secrets:
 <small><sub>**BSB:**</sub></small>
 If two men are fighting, and the wife of one comes to rescue her husband from the one striking him, and she reaches out her hand and grabs his genitals,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H5327A\|יִנָּצ֨וּ]] [[H0582\|אֲנָשִׁ֤ים]] [[H3162B\|יַחְדָּו֙]] [[H0376I\|אִ֣ישׁ]] [[H9002\|וְ]][[H0251I\|אָחִ֔י]][[H9023\|ו]] [[H9001\|וְ]][[H7126G\|קָֽרְבָה֙]] [[H0802H\|אֵ֣שֶׁת]] [[H9009\|הָֽ]][[H0259\|אֶחָ֔ד]] [[H9005\|לְ]][[H5337\|הַצִּ֥יל]] [[H0853\|אֶת]][[H9014\|־]] [[H0376H\|אִישָׁ֖]][[H9024\|הּ]] [[H9006\|מִ]][[H3027G\|יַּ֣ד]] [[H5221\|מַכֵּ֑ה]][[H9033\|וּ]] [[H9001\|וְ]][[H7971K\|שָׁלְחָ֣ה]] [[H3027G\|יָדָ֔]][[H9024\|הּ]] [[H9001\|וְ]][[H2388H\|הֶחֱזִ֖יקָה]] [[H9003\|בִּ]][[H4016\|מְבֻשָֽׁי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PITY|PITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.25.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.25.10|<< Deuteronomy 25:10]]</td><td align="center" style="border:none;">[[Deut.25|Deuteronomy 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.25.12|Deuteronomy 25:12 >>]]</td></tr></table>
 

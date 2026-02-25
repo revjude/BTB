@@ -1,8 +1,62 @@
+---
+title: 2 Chronicles 35:6
+type: Verse
+kjv: "So kill the passover, and sanctify yourselves, and prepare your brethren, that they may do according to the word of the LORD by the hand of Moses."
+bsb: "Slaughter the Passover lambs, consecrate yourselves, and make preparations for your fellow countrymen to carry out the word of the LORD given by Moses.”"
+hebrew: "וְשַׁחֲט֖וּ הַפָּ֑סַח וְהִתְקַדְּשׁוּ֙ וְהָכִ֣ינוּ לַאֲחֵיכֶ֔ם לַעֲשׂ֥וֹת כִּדְבַר־ יְהוָ֖ה בְּיַד־ מֹשֶֽׁה׃ פ"
+pericope: "[[2Chr.35.1 Josiah Restores the Passover|Josiah Restores the Passover]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 35
+book/chapter: "[[2Chr.35|2 Chronicles 35]]"
+chronological_order: 714
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[H9002]]"
+- "[[H7819A]]"
+- "[[H9009]]"
+- "[[H6453]]"
+- "[[H6942G]]"
+- "[[H3559A]]"
+- "[[H9005]]"
+- "[[H0251I]]"
+- "[[H9026]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3027J]]"
+- "[[H4872]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Chronicles 35:6**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So kill the passover, and sanctify yourselves, and prepare your brethren, that [they] may do according to the word of the LORD by the hand of Moses.
 <small><sub>**BSB:**</sub></small>
 Slaughter the Passover lambs, consecrate yourselves, and make preparations for your fellow countrymen to carry out the word of the LORD given by Moses.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7819A\|שַׁחֲט֖וּ]] [[H9009\|הַ]][[H6453\|פָּ֑סַח]] [[H9002\|וְ]][[H6942G\|הִתְקַדְּשׁוּ֙]] [[H9002\|וְ]][[H3559A\|הָכִ֣ינוּ]] [[H9005\|לַ]][[H0251I\|אֲחֵי]][[H9026\|כֶ֔ם]] [[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H9004\|כִּ]][[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בְּ]][[H3027J\|יַד]][[H9014\|־]] [[H4872\|מֹשֶֽׁה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOSIAH|JOSIAH]] • [[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.5|<< 2 Chronicles 35:5]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.7|2 Chronicles 35:7 >>]]</td></tr></table>
 
@@ -17,7 +71,7 @@ Slaughter the Passover lambs, consecrate yourselves, and make preparations for y
 | according to [the] word of  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H1697G\|דְבַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> d.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by [the] hand of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027J\|יַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> yad-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moses  |**<big>&#8207;[[H4872\|מֹשֶֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  |**<big>&#8207;[[H4872\|מֹשֶֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.5|<< 2 Chronicles 35:5]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.7|2 Chronicles 35:7 >>]]</td></tr></table>
 
 

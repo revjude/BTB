@@ -1,8 +1,73 @@
+---
+title: 2 Chronicles 25:18
+type: Verse
+kjv: "And Joash king of Israel sent to Amaziah king of Judah, saying, The thistle that was in Lebanon sent to the cedar that was in Lebanon, saying, Give thy daughter to my son to wife: and there passed by a wild beast that was in Lebanon, and trode down the thistle."
+bsb: "But Jehoash king of Israel replied to Amaziah king of Judah: “A thistle in Lebanon sent a message to a cedar in Lebanon, saying, ‘Give your daughter to my son in marriage.’ Then a wild beast in Lebanon came along and trampled the thistle."
+hebrew: "וַיִּשְׁלַ֞ח יוֹאָ֣שׁ מֶֽלֶךְ־ יִשְׂרָאֵ֗ל אֶל־ אֲמַצְיָ֣הוּ מֶֽלֶךְ־ יְהוּדָה֮ לֵאמֹר֒ הַח֜וֹחַ אֲשֶׁ֣ר בַּלְּבָנ֗וֹן שָׁ֠לַח אֶל־ הָאֶ֜רֶז אֲשֶׁ֤ר בַּלְּבָנוֹן֙ לֵאמֹ֔ר תְּנָֽה־ אֶת־ בִּתְּךָ֥ לִבְנִ֖י לְאִשָּׁ֑ה וַֽתַּעֲבֹ֞ר חַיַּ֤ת הַשָּׂדֶה֙ אֲשֶׁ֣ר בַּלְּבָנ֔וֹן וַתִּרְמֹ֖ס אֶת־ הַחֽוֹחַ׃"
+pericope: "[[2Chr.25.17 Jehoash Defeats Amaziah|Jehoash Defeats Amaziah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 25
+book/chapter: "[[2Chr.25|2 Chronicles 25]]"
+chronological_order: 592
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JEHOASH|JEHOASH]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SARCASM|SARCASM]]"
+- "[[topic THISTLE|THISTLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H3101J]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0413]]"
+- "[[H0558G]]"
+- "[[H3063G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H2336]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H3844G]]"
+- "[[H0730]]"
+- "[[H5414O]]"
+- "[[H9012]]"
+- "[[H0853]]"
+- "[[H1323G]]"
+- "[[H9021]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H0802H]]"
+- "[[H5674A]]"
+- "[[H2416C]]"
+- "[[H7704I]]"
+- "[[H7429]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 25:18**<big><big>[[2Chr.25.17 Jehoash Defeats Amaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joash king of Israel sent to Amaziah king of Judah, saying, The thistle that [was] in Lebanon sent to the cedar that [was] in Lebanon, saying, Give thy daughter to my son to wife: and there passed by a wild beast that [was] in Lebanon, and trode down the thistle.
 <small><sub>**BSB:**</sub></small>
 But Jehoash king of Israel replied to Amaziah king of Judah: “A thistle in Lebanon sent a message to a cedar in Lebanon, saying, ‘Give your daughter to my son in marriage.’ Then a wild beast in Lebanon came along and trampled the thistle.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֞ח]] [[H3101J\|יוֹאָ֣שׁ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H0413\|אֶל]][[H9014\|־]] [[H0558G\|אֲמַצְיָ֣הוּ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָה֮]] [[H9005\|לֵ]][[H0559\|אמֹר֒]] [[H9009\|הַ]][[H2336\|ח֜וֹחַ]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בַּ]][[H3844G\|לְּבָנ֗וֹן]] [[H7971G\|שָׁ֠לַח]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0730\|אֶ֜רֶז]] [[H0834A\|אֲשֶׁ֤ר]] [[H9003\|בַּ]][[H3844G\|לְּבָנוֹן֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H5414O\|תְּנָֽ]][[H9012\|ה]][[H9014\|־]] [[H0853\|אֶת]][[H9014\|־]] [[H1323G\|בִּתְּ]][[H9021\|ךָ֥]] [[H9005\|לִ]][[H1121A\|בְנִ֖]][[H9020\|י]] [[H9005\|לְ]][[H0802H\|אִשָּׁ֑ה]] [[H9001\|וַֽ]][[H5674A\|תַּעֲבֹ֞ר]] [[H2416C\|חַיַּ֤ת]] [[H9009\|הַ]][[H7704I\|שָּׂדֶה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בַּ]][[H3844G\|לְּבָנ֔וֹן]] [[H9001\|וַ]][[H7429\|תִּרְמֹ֖ס]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2336\|חֽוֹחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHOASH|JEHOASH]] • [[topic PRIDE|PRIDE]] • [[topic SARCASM|SARCASM]] • [[topic THISTLE|THISTLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.17|<< 2 Chronicles 25:17]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.19|2 Chronicles 25:19 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Genesis 32:6
+type: Verse
+kjv: "And the messengers returned to Jacob, saying, We came to thy brother Esau, and also he cometh to meet thee, and four hundred men with him."
+bsb: "When the messengers returned to Jacob, they said, “We went to your brother Esau, and now he is coming to meet you—he and four hundred men with him.”"
+hebrew: "וַיָּשֻׁ֙בוּ֙ הַמַּלְאָכִ֔ים אֶֽל־ יַעֲקֹ֖ב לֵאמֹ֑ר בָּ֤אנוּ אֶל־ אָחִ֙יךָ֙ אֶל־ עֵשָׂ֔ו וְגַם֙ הֹלֵ֣ךְ לִקְרָֽאתְךָ֔ וְאַרְבַּע־ מֵא֥וֹת אִ֖ישׁ עִמּֽוֹ׃"
+pericope: "[[Gen.32.1 Jacob Prepares to Meet Esau|Jacob Prepares to Meet Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 32
+book/chapter: "[[Gen.32|Genesis 32]]"
+chronological_order: 74
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H9009]]"
+- "[[H4397G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3290]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0935G]]"
+- "[[H0251G]]"
+- "[[H9021]]"
+- "[[H6215G]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H1980H]]"
+- "[[H7122G]]"
+- "[[H9031]]"
+- "[[H0702]]"
+- "[[H3967]]"
+- "[[H0376G]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 32:6**<big><big>[[Gen.32.1 Jacob Prepares to Meet Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the messengers returned to Jacob, saying, We came to thy brother Esau, and also he cometh to meet thee, and four hundred men with him.
 <small><sub>**BSB:**</sub></small>
 When the messengers returned to Jacob, they said, “We went to your brother Esau, and now he is coming to meet you—he and four hundred men with him.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּשֻׁ֙בוּ֙]] [[H9009\|הַ]][[H4397G\|מַּלְאָכִ֔ים]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3290\|יַעֲקֹ֖ב]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H0935G\|בָּ֤אנוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H0251G\|אָחִ֙י]][[H9021\|ךָ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H6215G\|עֵשָׂ֔ו]] [[H9002\|וְ]][[H1571\|גַם֙]] [[H1980H\|הֹלֵ֣ךְ]] [[H9005\|לִ]][[H7122G\|קְרָֽאתְ]][[H9031\|ךָ֔]] [[H9002\|וְ]][[H0702\|אַרְבַּע]][[H9014\|־]] [[H3967\|מֵא֥וֹת]] [[H0376G\|אִ֖ישׁ]] [[H5973A\|עִמּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.5|<< Genesis 32:5]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.7|Genesis 32:7 >>]]</td></tr></table>
 

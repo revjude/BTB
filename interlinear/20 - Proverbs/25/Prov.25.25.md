@@ -1,8 +1,53 @@
+---
+title: Proverbs 25:25
+type: Verse
+kjv: "As cold waters to a thirsty soul, so is good news from a far country."
+bsb: "Like cold water to a weary soul is good news from a distant land."
+hebrew: "מַ֣יִם קָ֭רִים עַל־ נֶ֣פֶשׁ עֲיֵפָ֑ה וּשְׁמוּעָ֥ה ט֝וֹבָ֗ה מֵאֶ֥רֶץ מֶרְחָֽק׃"
+pericope: "[[Prov.25.1 More Proverbs of Solomon|More Proverbs of Solomon]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 25
+book/chapter: "[[Prov.25|Proverbs 25]]"
+chronological_order: 480
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOOD NEWS|GOOD NEWS]]"
+strongs:
+- "[[H4325G]]"
+- "[[H7119]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5315G]]"
+- "[[H5889]]"
+- "[[H9002]]"
+- "[[H8052]]"
+- "[[H2896A]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4801]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 25:25**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] cold waters to a thirsty soul, so [is] good news from a far country.
 <small><sub>**BSB:**</sub></small>
 Like cold water to a weary soul is good news from a distant land.
+<small><sub>**Hebrew:**</sub></small>
+[[H4325G\|מַ֣יִם]] [[H7119\|קָ֭רִים]] [[H5921A\|עַל]][[H9014\|־]] [[H5315G\|נֶ֣פֶשׁ]] [[H5889\|עֲיֵפָ֑ה]] [[H9002\|וּ]][[H8052\|שְׁמוּעָ֥ה]] [[H2896A\|ט֝וֹבָ֗ה]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H4801\|מֶרְחָֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOOD NEWS|GOOD NEWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.24|<< Proverbs 25:24]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.26|Proverbs 25:26 >>]]</td></tr></table>
 

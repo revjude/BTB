@@ -1,13 +1,13 @@
 
 **BIRDS**
 
-→ Creation of, on the fifth creative day [[Gen.1.20|Ge 1:20]]-[[Gen.1.30|30]]
+→ Creation of, on the fifth creative day [[Gen.1.20|Ge 1:20-30]]
 
-→ Man's dominion over [[Gen.1.26|Ge 1:26]],[[Gen.1.28|28]]; [[Gen.9.2|9:2]],[[Gen.9.3|3]]; [[Ps.8.5|Ps 8:5]]-[[Ps.8.8|8]]; [[Jer.27.6|Jer  27:6]]; [[Dan.2.38|Da 2:38]]; [[Jas.3.7|Jas 3:7]]
+→ Man's dominion over [[Gen.1.26|Ge 1:26]],[[Gen.1.28|28]]; [[Gen.9.2|9:2]],[[Gen.9.3|3]]; [[Ps.8.5|Ps 8:5-8]]; [[Jer.27.6|Jer  27:6]]; [[Dan.2.38|Da 2:38]]; [[Jas.3.7|Jas 3:7]]
 
-→ Appointed for food [[Gen.9.2|Ge 9:2]],[[Gen.9.3|3]]; [[Deut.14.11|De 14:11]]-[[Deut.14.20|20]]
+→ Appointed for food [[Gen.9.2|Ge 9:2]],[[Gen.9.3|3]]; [[Deut.14.11|De 14:11-20]]
 
-→ What species were unclean [[Lev.11.13|Le 11:13]]-[[Lev.11.20|20]]; [[Deut.14.12|De 14:12]]-[[Deut.14.19|19]]
+→ What species were unclean [[Lev.11.13|Le 11:13-20]]; [[Deut.14.12|De 14:12-19]]
 
 → Used for sacifice
 
@@ -27,7 +27,7 @@
 
 → Instincts of [[Prov.1.17|Pr 1:17]]
 
-→ Habits of [[Job.39.13|Job 39:13]]-[[Job.39.18|18]],[[Job.39.26|26]]-[[Job.39.30|30]]
+→ Habits of [[Job.39.13|Job 39:13-18]],[[Job.39.26|26-30]]
 
 → Migrate [[Jer.8.7|Jer 8:7]]
 

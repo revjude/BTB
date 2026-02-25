@@ -1,10 +1,54 @@
+---
+title: James 4:16
+type: Verse
+kjv: "But now ye rejoice in your boastings: all such rejoicing is evil."
+bsb: "As it is, you boast in your proud intentions. All such boasting is evil."
+greek: "νῦν δὲ καυχᾶσθε ἐν ταῖς ἀλαζονείαις ὑμῶν· πᾶσα καύχησις τοιαύτη πονηρά ἐστιν."
+pericope: "[[Jas.4.13 Do Not Boast about Tomorrow|Do Not Boast about Tomorrow]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 4
+book/chapter: "[[Jas.4|James 4]]"
+chronological_order: 1036
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+strongs:
+- "[[G3568]]"
+- "[[G1161]]"
+- "[[G2744]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0212]]"
+- "[[G4771]]"
+- "[[G3956]]"
+- "[[G2746]]"
+- "[[G5108]]"
+- "[[G4190]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **James 4:16**<big><big>[[Jas.4.13 Do Not Boast about Tomorrow|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But now ye rejoice in your boastings: all such rejoicing is evil.
 <small><sub>**BSB:**</sub></small>
 As it is, you boast in your proud intentions. All such boasting is evil.
-<small><sub>**Literal:**</sub></small>
-Now however you boast in the arrogance of you; All boasting such evil is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.15|<< James 4:15]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.17|James 4:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3568\|νῦν]]  [[G1161\|δὲ]]  [[G2744\|καυχᾶσθε]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G0212\|ἀλαζονείαις]]  [[G4771\|ὑμῶν·]]  [[G3956\|πᾶσα]]  [[G2746\|καύχησις]]  [[G5108\|τοιαύτη]]  [[G4190\|πονηρά]]  [[G1510\|ἐστιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOASTING|BOASTING]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic PRESUMPTION|PRESUMPTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.15|<< James 4:15]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.17|James 4:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,49 @@
+---
+title: Mark 6:13
+type: Verse
+kjv: "And they cast out many devils, and anointed with oil many that were sick, and healed them."
+bsb: "They also drove out many demons and healed many of the sick, anointing them with oil."
+greek: "καὶ δαιμόνια πολλὰ ἐξέβαλλον καὶ ἤλειφον ἐλαίῳ πολλοὺς ἀρρώστους καὶ ἐθεράπευον.¶"
+pericope: "[[Mark.6.7 The Ministry of the Twelve|The Ministry of the Twelve]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1140]]"
+- "[[G4183]]"
+- "[[G1544]]"
+- "[[G0218]]"
+- "[[G1637]]"
+- "[[G0732]]"
+- "[[G2323]]"
+texts:
+- NKO
+---
+
 **Mark 6:13**<big><big>[[Mark.6.7 The Ministry of the Twelve|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they cast out many devils, and anointed with oil many that were sick, and healed [them].
 <small><sub>**BSB:**</sub></small>
 They also drove out many demons and healed many of the sick, anointing them with oil.
-<small><sub>**Literal:**</sub></small>
-And demons many they were casting out and were anointing with oil many sick and were healing [them].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.12|<< Mark 6:12]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.14|Mark 6:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1140\|δαιμόνια]]  [[G4183\|πολλὰ]]  [[G1544\|ἐξέβαλλον]]  [[G2532\|καὶ]]  [[G0218\|ἤλειφον]]  [[G1637\|ἐλαίῳ]]  [[G4183\|πολλοὺς]]  [[G0732\|ἀρρώστους]]  [[G2532\|καὶ]]  [[G2323\|ἐθεράπευον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.12|<< Mark 6:12]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.14|Mark 6:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

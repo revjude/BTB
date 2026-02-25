@@ -1,8 +1,67 @@
+---
+title: Jonah 1:9
+type: Verse
+kjv: "And he said unto them, I am an Hebrew; and I fear the LORD, the God of heaven, which hath made the sea and the dry land."
+bsb: "“I am a Hebrew,” replied Jonah. “I worship the LORD, the God of the heavens, who made the sea and the dry land.”"
+hebrew: "וַיֹּ֥אמֶר אֲלֵיהֶ֖ם עִבְרִ֣י אָנֹ֑כִי וְאֶת־ יְהוָ֞ה אֱלֹהֵ֤י הַשָּׁמַ֙יִם֙ אֲנִ֣י יָרֵ֔א אֲשֶׁר־ עָשָׂ֥ה אֶת־ הַיָּ֖ם וְאֶת־ הַיַּבָּשָֽׁה׃"
+pericope: "[[Jonah.1.4 The Great Storm|The Great Storm]]"
+original_language: Hebrew
+testament: Old
+book: Jonah
+chapter: 1
+book/chapter: "[[Jonah.1|Jonah 1]]"
+chronological_order: 594
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEBREW|HEBREW]]"
+- "[[topic JONAH|JONAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H5680]]"
+- "[[H0595]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H0589]]"
+- "[[H3373]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H3220G]]"
+- "[[H3004]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jonah 1:9**<big><big>[[Jonah.1.4 The Great Storm|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto them, I [am] an Hebrew; and I fear the LORD, the God of heaven, which hath made the sea and the dry [land].
 <small><sub>**BSB:**</sub></small>
 “I am a Hebrew,” replied Jonah. “I worship the LORD, the God of the heavens, who made the sea and the dry land.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H0413\|אֲלֵי]][[H9038\|הֶ֖ם]] [[H5680\|עִבְרִ֣י]] [[H0595\|אָנֹ֑כִי]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֞ה]] [[H0430G\|אֱלֹהֵ֤י]] [[H9009\|הַ]][[H8064\|שָּׁמַ֙יִם֙]] [[H0589\|אֲנִ֣י]] [[H3373\|יָרֵ֔א]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213H\|עָשָׂ֥ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּ֖ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3004\|יַּבָּשָֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic GOD|GOD]] • [[topic HEBREW|HEBREW]] • [[topic JONAH|JONAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic REVERENCE|REVERENCE]] • [[topic SUPERSTITION|SUPERSTITION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.1.8|<< Jonah 1:8]]</td><td align="center" style="border:none;">[[Jonah.1|Jonah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.1.10|Jonah 1:10 >>]]</td></tr></table>
 

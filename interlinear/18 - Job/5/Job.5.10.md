@@ -1,8 +1,57 @@
+---
+title: Job 5:10
+type: Verse
+kjv: "Who giveth rain upon the earth, and sendeth waters upon the fields:"
+bsb: "He gives rain to the earth and sends water upon the fields."
+hebrew: "הַנֹּתֵ֣ן מָ֭טָר עַל־ פְּנֵי־ אָ֑רֶץ וְשֹׁ֥לֵֽחַ מַ֝יִם עַל־ פְּנֵ֥י חוּצֽוֹת׃"
+pericope: "[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|Eliphaz Continues：God Blesses those Who Seek Him]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 5
+book/chapter: "[[Job.5|Job 5]]"
+chronological_order: 16
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+strongs:
+- "[[H9009]]"
+- "[[H5414G]]"
+- "[[H4306]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440J]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H7971G]]"
+- "[[H4325G]]"
+- "[[H2351]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 5:10**<big><big>[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who giveth rain upon the earth, and sendeth waters upon the fields:
 <small><sub>**BSB:**</sub></small>
 He gives rain to the earth and sends water upon the fields.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H5414G\|נֹּתֵ֣ן]] [[H4306\|מָ֭טָר]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵי]][[H9014\|־]] [[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H7971G\|שֹׁ֥לֵֽחַ]] [[H4325G\|מַ֝יִם]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֥י]] [[H2351\|חוּצֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLESSING|BLESSING]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic PHILOSOPHY|PHILOSOPHY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.9|<< Job 5:9]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.11|Job 5:11 >>]]</td></tr></table>
 

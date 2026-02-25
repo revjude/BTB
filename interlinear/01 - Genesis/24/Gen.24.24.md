@@ -1,8 +1,62 @@
+---
+title: Genesis 24:24
+type: Verse
+kjv: "And she said unto him, I am the daughter of Bethuel the son of Milcah, which she bare unto Nahor."
+bsb: "She replied, “I am the daughter of Bethuel, the son that Milcah bore to Nahor.”"
+hebrew: "וַתֹּ֣אמֶר אֵלָ֔יו בַּת־ בְּתוּאֵ֖ל אָנֹ֑כִי בֶּן־ מִלְכָּ֕ה אֲשֶׁ֥ר יָלְדָ֖ה לְנָחֽוֹר׃"
+pericope: "[[Gen.24.15 Rebekah Is Chosen|Rebekah Is Chosen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BETHUEL|BETHUEL]]"
+- "[[topic MILCAH|MILCAH]]"
+- "[[topic NAHOR|NAHOR]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H1328A]]"
+- "[[H0595]]"
+- "[[H1121A]]"
+- "[[H4435G]]"
+- "[[H0834A]]"
+- "[[H3205]]"
+- "[[H9005]]"
+- "[[H5152H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:24**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she said unto him, I [am] the daughter of Bethuel the son of Milcah, which she bare unto Nahor.
 <small><sub>**BSB:**</sub></small>
 She replied, “I am the daughter of Bethuel, the son that Milcah bore to Nahor.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H1323G\|בַּת]][[H9014\|־]] [[H1328A\|בְּתוּאֵ֖ל]] [[H0595\|אָנֹ֑כִי]] [[H1121A\|בֶּן]][[H9014\|־]] [[H4435G\|מִלְכָּ֕ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H3205\|יָלְדָ֖ה]] [[H9005\|לְ]][[H5152H\|נָחֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHUEL|BETHUEL]] • [[topic MILCAH|MILCAH]] • [[topic NAHOR|NAHOR]] • [[topic PRAYER|PRAYER]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.23|<< Genesis 24:23]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.25|Genesis 24:25 >>]]</td></tr></table>
 

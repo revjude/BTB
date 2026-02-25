@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Second Prediction of the Passion
+type: Pericope
 pericope: "[[Mark.9.30 The Second Prediction of the Passion|The Second Prediction of the Passion]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: Mark
 chapter: 9
 book/chapter: "[[Mark.9|Mark 9]]"
-genre:
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 3
 verses:
 - "[[Mark.9.30]]"
 - "[[Mark.9.31]]"
 - "[[Mark.9.32]]"
 ---
 
-[[Mark.9|Mark 9:30 - Mark 9:32]]
+<small>[[Mark.9|Mark 9:30-32]]</small>
 *The Second Prediction of the Passion*
 
 [[Mark.9.30|30]] And they departed thence, and passed through Galilee; and he would not that any man should know \[it\].

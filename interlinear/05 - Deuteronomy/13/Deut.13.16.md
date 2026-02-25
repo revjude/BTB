@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 13:16
+type: Verse
+kjv: "And thou shalt gather all the spoil of it into the midst of the street thereof, and shalt burn with fire the city, and all the spoil thereof every whit, for the LORD thy God: and it shall be an heap for ever; it shall not be built again."
+bsb: "And you are to gather all its plunder in the middle of the public square, and completely burn the city and all its plunder as a whole burnt offering to the LORD your God. The city must remain a mound of ruins forever, never to be rebuilt."
+hebrew: "וְאֶת־ כָּל־ שְׁלָלָ֗הּ תִּקְבֹּץ֮ אֶל־ תּ֣וֹךְ רְחֹבָהּ֒ וְשָׂרַפְתָּ֨ בָאֵ֜שׁ אֶת־ הָעִ֤יר וְאֶת־ כָּל־ שְׁלָלָהּ֙ כָּלִ֔יל לַיהוָ֖ה אֱלֹהֶ֑יךָ וְהָיְתָה֙ תֵּ֣ל עוֹלָ֔ם לֹ֥א תִבָּנֶ֖ה עֽוֹד׃"
+pericope: "[[Deut.13.12 Idolatrous Cities to Be Destroyed|Idolatrous Cities to Be Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 13
+book/chapter: "[[Deut.13|Deuteronomy 13]]"
+chronological_order: 209
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H7998]]"
+- "[[H9024]]"
+- "[[H6908]]"
+- "[[H0413]]"
+- "[[H8432]]"
+- "[[H7339]]"
+- "[[H9001]]"
+- "[[H8313]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H3632]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H1961]]"
+- "[[H8510]]"
+- "[[H5769G]]"
+- "[[H3808]]"
+- "[[H1129]]"
+- "[[H5750]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 13:16**<big><big>[[Deut.13.12 Idolatrous Cities to Be Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt gather all the spoil of it into the midst of the street thereof, and shalt burn with fire the city, and all the spoil thereof every whit, for the LORD thy God: and it shall be an heap for ever; it shall not be built again.
 <small><sub>**BSB:**</sub></small>
 And you are to gather all its plunder in the middle of the public square, and completely burn the city and all its plunder as a whole burnt offering to the LORD your God. The city must remain a mound of ruins forever, never to be rebuilt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H7998\|שְׁלָלָ֗]][[H9024\|הּ]] [[H6908\|תִּקְבֹּץ֮]] [[H0413\|אֶל]][[H9014\|־]] [[H8432\|תּ֣וֹךְ]] [[H7339\|רְחֹבָ]][[H9024\|הּ֒]] [[H9001\|וְ]][[H8313\|שָׂרַפְתָּ֨]] [[H9003\|בָ]][[H0784\|אֵ֜שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֤יר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H7998\|שְׁלָלָ]][[H9024\|הּ֙]] [[H3632\|כָּלִ֔יל]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H0430G\|אֱלֹהֶ֑י]][[H9021\|ךָ]] [[H9001\|וְ]][[H1961\|הָיְתָה֙]] [[H8510\|תֵּ֣ל]] [[H5769G\|עוֹלָ֔ם]] [[H3808\|לֹ֥א]] [[H1129\|תִבָּנֶ֖ה]] [[H5750\|עֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.13.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13.15|<< Deuteronomy 13:15]]</td><td align="center" style="border:none;">[[Deut.13|Deuteronomy 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.13.17|Deuteronomy 13:17 >>]]</td></tr></table>
 

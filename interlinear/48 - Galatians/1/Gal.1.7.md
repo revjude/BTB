@@ -1,10 +1,58 @@
+---
+title: Galatians 1:7
+type: Verse
+kjv: "Which is not another; but there be some that trouble you, and would pervert the gospel of Christ."
+bsb: "which is not even a gospel. Evidently some people are troubling you and trying to distort the gospel of Christ."
+greek: "ὃ οὐκ ἔστιν ἄλλο, εἰ μή τινές εἰσιν οἱ ταράσσοντες ὑμᾶς καὶ θέλοντες μεταστρέψαι τὸ εὐαγγέλιον τοῦ Χριστοῦ."
+pericope: "[[Gal.1.6 No Other Gospel|No Other Gospel]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 1
+book/chapter: "[[Gal.1|Galatians 1]]"
+chronological_order: 1039
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HERESY|HERESY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G0243]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G5100]]"
+- "[[G3588]]"
+- "[[G5015]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G2309]]"
+- "[[G3344]]"
+- "[[G2098]]"
+- "[[G5547]]"
+texts:
+- NKO
+---
+
 **Galatians 1:7**<big><big>[[Gal.1.6 No Other Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.
 <small><sub>**BSB:**</sub></small>
 which is not even a gospel. Evidently some people are troubling you and trying to distort the gospel of Christ.
-<small><sub>**Literal:**</sub></small>
-which not is another, only except some there are who are troubling you and are desiring to pervert the gospel <the> of Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.6|<< Galatians 1:6]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.8|Galatians 1:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃ]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G0243\|ἄλλο,]]  [[G1487H\|εἰ]]  [[G3361\|μή]]  [[G5100\|τινές]]  [[G1510\|εἰσιν]]  [[G3588\|οἱ]]  [[G5015\|ταράσσοντες]]  [[G4771\|ὑμᾶς]]  [[G2532\|καὶ]]  [[G2309\|θέλοντες]]  [[G3344\|μεταστρέψαι]]  [[G3588\|τὸ]]  [[G2098\|εὐαγγέλιον]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DOCTRINES|DOCTRINES]] • [[topic GOSPEL|GOSPEL]] • [[topic HERESY|HERESY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.6|<< Galatians 1:6]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.8|Galatians 1:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

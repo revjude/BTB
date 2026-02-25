@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Shimei Curses David
+type: Pericope
 pericope: "[[2Sam.16.5 Shimei Curses David|Shimei Curses David]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 16
 book/chapter: "[[2Sam.16|2 Samuel 16]]"
-genre:
+chronological_order: 415
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 10
 verses:
 - "[[2Sam.16.5]]"
 - "[[2Sam.16.6]]"
@@ -29,7 +36,7 @@ verses:
 - "[[2Sam.16.14]]"
 ---
 
-[[2Sam.16|2 Samuel 16:5 - 2 Samuel 16:14]]
+<small>[[2Sam.16|2 Samuel 16:5-14]]</small>
 *Shimei Curses David*
 
 [[2Sam.16.5|5]] And when king David came to Bahurim, behold, thence came out a man of the family of the house of Saul, whose name \[was\] Shimei, the son of Gera: he came forth, and cursed still as he came.

@@ -1,8 +1,58 @@
+---
+title: Psalm 41:13
+type: Verse
+kjv: "Blessed be the LORD God of Israel from everlasting, and to everlasting. Amen, and Amen."
+bsb: "Blessed be the LORD, the God of Israel, from everlasting to everlasting. Amen and Amen."
+hebrew: "בָּ֘ר֤וּךְ יְהוָ֨ה׀ אֱלֹ֘הֵ֤י יִשְׂרָאֵ֗ל מֵֽ֭הָעוֹלָם וְעַ֥ד הָעוֹלָ֗ם אָ֘מֵ֥ן׀ וְאָמֵֽן׃"
+pericope: "[[Ps.41.1 Victory over Betrayal|Victory over Betrayal]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 41
+book/chapter: "[[Ps.41|Psalm 41]]"
+chronological_order: 368
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AMEN|AMEN]]"
+- "[[topic ETERNITY|ETERNITY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H1288]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H5769G]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H0543]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 41:13**<big><big>[[Ps.41.1 Victory over Betrayal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [be] the LORD God of Israel from everlasting, and to everlasting. Amen, and Amen.
 <small><sub>**BSB:**</sub></small>
 Blessed be the LORD, the God of Israel, from everlasting to everlasting. Amen and Amen.
+<small><sub>**Hebrew:**</sub></small>
+[[H1288\|בָּ֘ר֤וּךְ]] [[H3068G\|יְהוָ֨ה]][[H9015\|׀]] [[H0430G\|אֱלֹ֘הֵ֤י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9006\|מֵֽ֭]][[H9009\|הָ]][[H5769G\|עוֹלָם]] [[H9002\|וְ]][[H5704\|עַ֥ד]] [[H9009\|הָ]][[H5769G\|עוֹלָ֗ם]] [[H0543\|אָ֘מֵ֥ן]][[H9015\|׀]] [[H9002\|וְ]][[H0543\|אָמֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMEN|AMEN]] • [[topic ETERNITY|ETERNITY]] • [[topic GOD|GOD]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.41.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.41.12|<< Psalms 41:12]]</td><td align="center" style="border:none;">[[Ps.41|Psalms 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.42.0|Psalms 42:0 >>]]</td></tr></table>
 

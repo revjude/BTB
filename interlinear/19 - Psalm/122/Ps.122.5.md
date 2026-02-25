@@ -1,8 +1,55 @@
+---
+title: Psalm 122:5
+type: Verse
+kjv: "For there are set thrones of judgment, the thrones of the house of David."
+bsb: "For there the thrones of judgment stand, the thrones of the house of David."
+hebrew: "כִּ֤י שָׁ֨מָּה׀ יָשְׁב֣וּ כִסְא֣וֹת לְמִשְׁפָּ֑ט כִּ֝סְא֗וֹת לְבֵ֣ית דָּוִֽיד׃"
+pericope: "[[Ps.122.1 Pray for the Peace of Jerusalem|Pray for the Peace of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 122
+book/chapter: "[[Ps.122|Psalm 122]]"
+chronological_order: 884
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic KING|KING]]"
+strongs:
+- "[[H3588A]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9015]]"
+- "[[H3427]]"
+- "[[H3678G]]"
+- "[[H9005]]"
+- "[[H4941G]]"
+- "[[H1004M]]"
+- "[[H1732]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 122:5**<big><big>[[Ps.122.1 Pray for the Peace of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For there are set thrones of judgment, the thrones of the house of David.
 <small><sub>**BSB:**</sub></small>
 For there the thrones of judgment stand, the thrones of the house of David.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H8033G\|שָׁ֨מָּ]][[H9011\|ה]][[H9015\|׀]] [[H3427\|יָשְׁב֣וּ]] [[H3678G\|כִסְא֣וֹת]] [[H9005\|לְ]][[H4941G\|מִשְׁפָּ֑ט]] [[H3678G\|כִּ֝סְא֗וֹת]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H1732\|דָּוִֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic KING|KING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.122.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.122.4|<< Psalms 122:4]]</td><td align="center" style="border:none;">[[Ps.122|Psalms 122]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.122.6|Psalms 122:6 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Justice
+type: Pericope
 pericope: "[[Lam.3.37 God’s Justice|God’s Justice]]"
-verse_count: 30
+original_language: Hebrew
 testament: Old
 book: Lamentations
 chapter: 3
 book/chapter: "[[Lam.3|Lamentations 3]]"
-genre:
+chronological_order: 778
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
 - poetry
 - lament
 - acrostic
 - megillot
+verse_count: 30
 verses:
 - "[[Lam.3.37]]"
 - "[[Lam.3.38]]"
@@ -48,7 +55,7 @@ verses:
 - "[[Lam.3.66]]"
 ---
 
-[[Lam.3|Lamentations 3:37 - Lamentations 3:66]]
+<small>[[Lam.3|Lamentations 3:37-66]]</small>
 *God’s Justice*
 
 [[Lam.3.37|37]] Who \[is\] he \[that\] saith, and it cometh to pass, \[when\] the Lord commandeth \[it\] not?

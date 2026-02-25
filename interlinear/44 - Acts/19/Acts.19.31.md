@@ -1,10 +1,59 @@
+---
+title: Acts 19:31
+type: Verse
+kjv: "And certain of the chief of Asia, which were his friends, sent unto him, desiring him that he would not adventure himself into the theatre."
+bsb: "Even some of Paul’s friends who were officials of the province of Asia sent word to him, begging him not to venture into the theatre."
+greek: "τινὲς δὲ καὶ τῶν Ἀσιαρχῶν ὄντες αὐτῷ φίλοι, πέμψαντες πρὸς αὐτὸν παρεκάλουν μὴ δοῦναι ἑαυτὸν εἰς τὸ θέατρον."
+pericope: "[[Acts.19.21 The Riot in Ephesus|The Riot in Ephesus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DEMETRIUS|DEMETRIUS]]"
+- "[[topic MOB|MOB]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic THEATER|THEATER]]"
+strongs:
+- "[[G5100]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0775]]"
+- "[[G1510]]"
+- "[[G0846]]"
+- "[[G5384]]"
+- "[[G3992]]"
+- "[[G4314]]"
+- "[[G3870]]"
+- "[[G3361]]"
+- "[[G1325]]"
+- "[[G1438]]"
+- "[[G1519]]"
+- "[[G2302]]"
+texts:
+- NKO
+---
+
 **Acts 19:31**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And certain of the chief of Asia, which were his friends, sent unto him, desiring [him] that he would not adventure himself into the theatre.
 <small><sub>**BSB:**</sub></small>
 Even some of Paul’s friends who were officials of the province of Asia sent word to him, begging him not to venture into the theatre.
-<small><sub>**Literal:**</sub></small>
-Some then also of the Asiarchs being to him friends, having sent to him they were urging [him] not to venture himself into the theatre.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.30|<< Acts 19:30]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.32|Acts 19:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5100\|τινὲς]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G0775\|Ἀσιαρχῶν]]  [[G1510\|ὄντες]]  [[G0846\|αὐτῷ]]  [[G5384\|φίλοι,]]  [[G3992\|πέμψαντες]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G3870\|παρεκάλουν]]  [[G3361\|μὴ]]  [[G1325\|δοῦναι]]  [[G1438\|ἑαυτὸν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2302\|θέατρον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMETRIUS|DEMETRIUS]] • [[topic MOB|MOB]] • [[topic PAUL|PAUL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic THEATER|THEATER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.30|<< Acts 19:30]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.32|Acts 19:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

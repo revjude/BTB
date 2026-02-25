@@ -1,10 +1,62 @@
+---
+title: Hebrews 10:7
+type: Verse
+kjv: "Then said I, Lo, I come (in the volume of the book it is written of me,) to do thy will, O God."
+bsb: "Then I said, ‘Here I am, it is written about Me in the scroll: I have come to do Your will, O God.’”"
+greek: "τότε εἶπον· ἰδοὺ ἥκω, ἐν κεφαλίδι βιβλίου γέγραπται περὶ ἐμοῦ, τοῦ ποιῆσαι, ὁ θεός, τὸ θέλημά σου."
+pericope: "[[Heb.10.1 Christ’s Perfect Sacrifice|Christ’s Perfect Sacrifice]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 10
+book/chapter: "[[Heb.10|Hebrews 10]]"
+chronological_order: 1149
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic TYPES|TYPES]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G5119]]"
+- "[[G2036]]"
+- "[[G2400]]"
+- "[[G2240]]"
+- "[[G1722]]"
+- "[[G2777]]"
+- "[[G0975]]"
+- "[[G1125]]"
+- "[[G4012]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G4160G]]"
+- "[[G2316]]"
+- "[[G2307]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **Hebrews 10:7**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said I, Lo, I come (in the volume of the book it is written of me,) to do thy will, O God.
 <small><sub>**BSB:**</sub></small>
 Then I said, ‘Here I am, it is written about Me in the scroll: I have come to do Your will, O God.’”
-<small><sub>**Literal:**</sub></small>
-Then I said; Behold I have come — in [the] scroll of [the] book it has been written of Me — <the> to do, O God, the will of You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.6|<< Hebrews 10:6]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.8|Hebrews 10:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|τότε]]  [[G2036\|εἶπον·]]  [[G2400\|ἰδοὺ]]  [[G2240\|ἥκω,]]  [[G1722\|ἐν]]  [[G2777\|κεφαλίδι]]  [[G0975\|βιβλίου]]  [[G1125\|γέγραπται]]  [[G4012\|περὶ]]  [[G1473\|ἐμοῦ,]]  [[G3588\|τοῦ]]  [[G4160G\|ποιῆσαι,]]  [[G3588\|ὁ]]  [[G2316\|θεός,]]  [[G3588\|τὸ]]  [[G2307\|θέλημά]]  [[G4771\|σου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic TYPES|TYPES]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.6|<< Hebrews 10:6]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.8|Hebrews 10:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 10:7** is...
 > $\quad$ referencing: [[LXX.Ps.40.6|Ps 40:6-8]]

@@ -1,10 +1,62 @@
+---
+title: John 19:27
+type: Verse
+kjv: "Then saith he to the disciple, Behold thy mother! And from that hour that disciple took her unto his own home."
+bsb: "Then He said to the disciple, “Here is your mother.” So from that hour, this disciple took her into his home."
+jesus_said: "Behold thy mother!"
+greek: "εἶτα λέγει τῷ μαθητῇ· ἴδε ἡ μήτηρ σου. καὶ ἀπ᾽ ἐκείνης τῆς ὥρας ἔλαβεν ὁ μαθητὴς αὐτὴν εἰς τὰ ἴδια.¶"
+pericope: "[[John.19.16 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic MARY|MARY]]"
+strongs:
+- "[[G1534]]"
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G2396]]"
+- "[[G3384]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G1565]]"
+- "[[G5610]]"
+- "[[G2983]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G2398]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 19:27**<big><big>[[John.19.16 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then saith he to the disciple, Behold thy mother! And from that hour that disciple took her unto his own [home].
 <small><sub>**BSB:**</sub></small>
 Then He said to the disciple, “Here is your mother.” So from that hour, this disciple took her into his home.
-<small><sub>**Literal:**</sub></small>
-Then He says to the disciple; behold the mother of you. And from that [very] <the> hour took the disciple her to <the> [his] own.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.26|<< John 19:26]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.28|John 19:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1534\|εἶτα]]  [[G3004G\|λέγει]]  [[G3588\|τῷ]]  [[G3101\|μαθητῇ·]]  [[G2396\|ἴδε]]  [[G3588\|ἡ]]  [[G3384\|μήτηρ]]  [[G4771\|σου.]]  [[G2532\|καὶ]]  [[G0575\|ἀπ᾽]]  [[G1565\|ἐκείνης]]  [[G3588\|τῆς]]  [[G5610\|ὥρας]]  [[G2983\|ἔλαβεν]]  [[G3588\|ὁ]]  [[G3101\|μαθητὴς]]  [[G0846\|αὐτὴν]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G2398\|ἴδια.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic KINDNESS|KINDNESS]] • [[topic MARY|MARY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.26|<< John 19:26]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.28|John 19:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

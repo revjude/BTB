@@ -1,10 +1,70 @@
+---
+title: Matthew 10:28
+type: Verse
+kjv: "And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell."
+bsb: "Do not be afraid of those who kill the body but cannot kill the soul. Instead, fear the One who can destroy both soul and body in hell."
+jesus_said: "And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell."
+greek: "καὶ μὴ φοβεῖσθε ἀπὸ τῶν ἀποκτεννόντων τὸ σῶμα, τὴν δὲ ψυχὴν μὴ δυναμένων ἀποκτεῖναι· φοβεῖσθε δὲ μᾶλλον τὸν δυνάμενον καὶ τὴν ψυχὴν καὶ τὸ σῶμα ἀπολέσαι ἐν γεέννῃ."
+pericope: "[[Matt.10.26 Fear God Alone|Fear God Alone]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 10
+book/chapter: "[[Matt.10|Matthew 10]]"
+chronological_order: 954
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HADES|HADES]]"
+- "[[topic HELL|HELL]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic MAN|MAN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic POWER|POWER]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G5399]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G0615]]"
+- "[[G4983]]"
+- "[[G1161]]"
+- "[[G5590G]]"
+- "[[G1410]]"
+- "[[G3123H]]"
+- "[[G0622]]"
+- "[[G1722]]"
+- "[[G1067]]"
+texts:
+- NKO
+- N(k)O
+- o
+---
+
 **Matthew 10:28**<big><big>[[Matt.10.26 Fear God Alone|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell.
 <small><sub>**BSB:**</sub></small>
 Do not be afraid of those who kill the body but cannot kill the soul. Instead, fear the One who can destroy both soul and body in hell.
-<small><sub>**Literal:**</sub></small>
-And not do be afraid of those killing the body, the however soul not being able to kill; do be afraid however rather the [One] being able both <the> soul and <the> body to destroy in hell.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.27|<< Matthew 10:27]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.29|Matthew 10:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G5399\|φοβεῖσθε]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G0615\|ἀποκτεννόντων]]  [[G3588\|τὸ]]  [[G4983\|σῶμα,]]  [[G3588\|τὴν]]  [[G1161\|δὲ]]  [[G5590G\|ψυχὴν]]  [[G3361\|μὴ]]  [[G1410\|δυναμένων]]  [[G0615\|ἀποκτεῖναι·]]  [[G5399\|φοβεῖσθε]]  [[G1161\|δὲ]]  [[G3123H\|μᾶλλον]]  [[G3588\|τὸν]]  [[G1410\|δυνάμενον]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G5590G\|ψυχὴν]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G0622\|ἀπολέσαι]]  [[G1722\|ἐν]]  [[G1067\|γεέννῃ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic HADES|HADES]] • [[topic HELL|HELL]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic MAN|MAN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic POWER|POWER]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REVERENCE|REVERENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.27|<< Matthew 10:27]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.29|Matthew 10:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

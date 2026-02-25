@@ -1,8 +1,67 @@
+---
+title: Jeremiah 48:34
+type: Verse
+kjv: "From the cry of Heshbon even unto Elealeh, and even unto Jahaz, have they uttered their voice, from Zoar even unto Horonaim, as an heifer of three years old: for the waters also of Nimrim shall be desolate."
+bsb: "There is a cry from Heshbon to Elealeh; they raise their voices to Jahaz, from Zoar to Horonaim and Eglath-shelishiyah; for even the waters of Nimrim have dried up."
+hebrew: "מִזַּעֲקַ֨ת חֶשְׁבּ֜וֹן עַד־ אֶלְעָלֵ֗ה עַד־ יַ֙הַץ֙ נָתְנ֣וּ קוֹלָ֔ם מִצֹּ֙עַר֙ עַד־ חֹ֣רֹנַ֔יִם עֶגְלַ֖ת שְׁלִֽשִׁיָּ֑ה כִּ֚י גַּם־ מֵ֣י נִמְרִ֔ים לִמְשַׁמּ֖וֹת יִהְיֽוּ׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic HESHBON|HESHBON]]"
+- "[[topic HORONAIM|HORONAIM]]"
+- "[[topic NIMRIM|NIMRIM]]"
+- "[[topic ZOAR|ZOAR]]"
+strongs:
+- "[[H9006]]"
+- "[[H2201]]"
+- "[[H2809]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H0500]]"
+- "[[H3096]]"
+- "[[H5414M]]"
+- "[[H6963A]]"
+- "[[H9028]]"
+- "[[H6820]]"
+- "[[H2773]]"
+- "[[H5697B]]"
+- "[[H7992]]"
+- "[[H3588A]]"
+- "[[H1571]]"
+- "[[H4325G]]"
+- "[[H5249]]"
+- "[[H9005]]"
+- "[[H4923]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 48:34**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From the cry of Heshbon [even] unto Elealeh, [and even] unto Jahaz, have they uttered their voice, from Zoar [even] unto Horonaim, [as] an heifer of three years old: for the waters also of Nimrim shall be desolate.
 <small><sub>**BSB:**</sub></small>
 There is a cry from Heshbon to Elealeh; they raise their voices to Jahaz, from Zoar to Horonaim and Eglath-shelishiyah; for even the waters of Nimrim have dried up.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H2201\|זַּעֲקַ֨ת]] [[H2809\|חֶשְׁבּ֜וֹן]] [[H5704\|עַד]][[H9014\|־]] [[H0500\|אֶלְעָלֵ֗ה]] [[H5704\|עַד]][[H9014\|־]] [[H3096\|יַ֙הַץ֙]] [[H5414M\|נָתְנ֣וּ]] [[H6963A\|קוֹלָ֔]][[H9028\|ם]] [[H9006\|מִ]][[H6820\|צֹּ֙עַר֙]] [[H5704\|עַד]][[H9014\|־]] [[H2773\|חֹ֣רֹנַ֔יִם]] [[H5697B\|עֶגְלַ֖ת]] [[H7992\|שְׁלִֽשִׁיָּ֑ה]] [[H3588A\|כִּ֚י]] [[H1571\|גַּם]][[H9014\|־]] [[H4325G\|מֵ֣י]] [[H5249\|נִמְרִ֔ים]] [[H9005\|לִ]][[H4923\|מְשַׁמּ֖וֹת]] [[H1961\|יִהְיֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HESHBON|HESHBON]] • [[topic HORONAIM|HORONAIM]] • [[topic NIMRIM|NIMRIM]] • [[topic ZOAR|ZOAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.33|<< Jeremiah 48:33]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.35|Jeremiah 48:35 >>]]</td></tr></table>
 

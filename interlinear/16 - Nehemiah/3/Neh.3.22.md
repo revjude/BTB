@@ -1,8 +1,46 @@
+---
+title: Nehemiah 3:22
+type: Verse
+kjv: "And after him repaired the priests, the men of the plain."
+bsb: "And next to him, the priests from the surrounding area made repairs."
+hebrew: "וְאַחֲרָ֛יו הֶחֱזִ֥יקוּ הַכֹּהֲנִ֖ים אַנְשֵׁ֥י הַכִּכָּֽר׃"
+pericope: "[[Neh.3.1 The Builders of the Walls|The Builders of the Walls]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 3
+book/chapter: "[[Neh.3|Nehemiah 3]]"
+chronological_order: 915
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+strongs:
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H2388G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0582]]"
+- "[[H3603H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 3:22**<big><big>[[Neh.3.1 The Builders of the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after him repaired the priests, the men of the plain.
 <small><sub>**BSB:**</sub></small>
 And next to him, the priests from the surrounding area made repairs.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0310A\|אַחֲרָ֛י]][[H9033\|ו]] [[H2388G\|הֶחֱזִ֥יקוּ]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֖ים]] [[H0582\|אַנְשֵׁ֥י]] [[H9009\|הַ]][[H3603H\|כִּכָּֽר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.3.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.21|<< Nehemiah 3:21]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.23|Nehemiah 3:23 >>]]</td></tr></table>
 

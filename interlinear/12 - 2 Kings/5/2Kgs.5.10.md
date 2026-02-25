@@ -1,8 +1,70 @@
+---
+title: 2 Kings 5:10
+type: Verse
+kjv: "And Elisha sent a messenger unto him, saying, Go and wash in Jordan seven times, and thy flesh shall come again to thee, and thou shalt be clean."
+bsb: "Then Elisha sent him a messenger, who said, “Go and wash yourself seven times in the Jordan, and your flesh will be restored, and you will be clean.”"
+hebrew: "וַיִּשְׁלַ֥ח אֵלָ֛יו אֱלִישָׁ֖ע מַלְאָ֣ךְ לֵאמֹ֑ר הָל֗וֹךְ וְרָחַצְתָּ֤ שֶֽׁבַע־ פְּעָמִים֙ בַּיַּרְדֵּ֔ן וְיָשֹׁ֧ב בְּשָׂרְךָ֛ לְךָ֖ וּטְהָֽר׃"
+pericope: "[[2Kgs.5.1 Naaman Cured of Leprosy|Naaman Cured of Leprosy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 5
+book/chapter: "[[2Kgs.5|2 Kings 5]]"
+chronological_order: 577
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic EXCUSES|EXCUSES]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic JORDAN|JORDAN]]"
+- "[[topic LEPROSY|LEPROSY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NAAMAN|NAAMAN]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0477]]"
+- "[[H4397G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H1980G]]"
+- "[[H7364]]"
+- "[[H7651]]"
+- "[[H9014]]"
+- "[[H6471]]"
+- "[[H9003]]"
+- "[[H3383]]"
+- "[[H9002]]"
+- "[[H7725H]]"
+- "[[H1320]]"
+- "[[H9021]]"
+- "[[H9031]]"
+- "[[H2891]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 5:10**<big><big>[[2Kgs.5.1 Naaman Cured of Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elisha sent a messenger unto him, saying, Go and wash in Jordan seven times, and thy flesh shall come again to thee, and thou shalt be clean.
 <small><sub>**BSB:**</sub></small>
 Then Elisha sent him a messenger, who said, “Go and wash yourself seven times in the Jordan, and your flesh will be restored, and you will be clean.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֥ח]] [[H0413\|אֵלָ֛י]][[H9033\|ו]] [[H0477\|אֱלִישָׁ֖ע]] [[H4397G\|מַלְאָ֣ךְ]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H1980G\|הָל֗וֹךְ]] [[H9001\|וְ]][[H7364\|רָחַצְתָּ֤]] [[H7651\|שֶֽׁבַע]][[H9014\|־]] [[H6471\|פְּעָמִים֙]] [[H9003\|בַּ]][[H3383\|יַּרְדֵּ֔ן]] [[H9002\|וְ]][[H7725H\|יָשֹׁ֧ב]] [[H1320\|בְּשָׂרְ]][[H9021\|ךָ֛]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H9002\|וּ]][[H2891\|טְהָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELISHA|ELISHA]] • [[topic EXCUSES|EXCUSES]] • [[topic JORAM|JORAM]] • [[topic JORDAN|JORDAN]] • [[topic LEPROSY|LEPROSY]] • [[topic MIRACLES|MIRACLES]] • [[topic NAAMAN|NAAMAN]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.9|<< 2 Kings 5:9]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.11|2 Kings 5:11 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Zechariah 9:12
+type: Verse
+kjv: "Turn you to the strong hold, ye prisoners of hope: even to day do I declare that I will render double unto thee;"
+bsb: "Return to your stronghold, O prisoners of hope; even today I declare that I will restore to you double."
+hebrew: "שׁ֚וּבוּ לְבִצָּר֔וֹן אֲסִירֵ֖י הַתִּקְוָ֑ה גַּם־ הַיּ֕וֹם מַגִּ֥יד מִשְׁנֶ֖ה אָשִׁ֥יב לָֽךְ׃"
+pericope: "[[Zech.9.9 Zion’s Coming King|Zion’s Coming King]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 9
+book/chapter: "[[Zech.9|Zechariah 9]]"
+chronological_order: 865
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOPE|HOPE]]"
+strongs:
+- "[[H7725G]]"
+- "[[H9005]]"
+- "[[H1225]]"
+- "[[H0615]]"
+- "[[H9009]]"
+- "[[H8615B]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H5046]]"
+- "[[H4932H]]"
+- "[[H7725H]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 9:12**<big><big>[[Zech.9.9 Zion’s Coming King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn you to the strong hold, ye prisoners of hope: even to day do I declare [that] I will render double unto thee;
 <small><sub>**BSB:**</sub></small>
 Return to your stronghold, O prisoners of hope; even today I declare that I will restore to you double.
+<small><sub>**Hebrew:**</sub></small>
+[[H7725G\|שׁ֚וּבוּ]] [[H9005\|לְ]][[H1225\|בִצָּר֔וֹן]] [[H0615\|אֲסִירֵ֖י]] [[H9009\|הַ]][[H8615B\|תִּקְוָ֑ה]] [[H1571\|גַּם]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּ֕וֹם]] [[H5046\|מַגִּ֥יד]] [[H4932H\|מִשְׁנֶ֖ה]] [[H7725H\|אָשִׁ֥יב]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic FAITH|FAITH]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic HOPE|HOPE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.9.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.9.11|<< Zechariah 9:11]]</td><td align="center" style="border:none;">[[Zech.9|Zechariah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.9.13|Zechariah 9:13 >>]]</td></tr></table>
 

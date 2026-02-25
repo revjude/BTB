@@ -1,8 +1,60 @@
+---
+title: 1 Kings 8:26
+type: Verse
+kjv: "And now, O God of Israel, let thy word, I pray thee, be verified, which thou spakest unto thy servant David my father."
+bsb: "And now, O God of Israel, please confirm what You promised to Your servant, my father David."
+hebrew: "וְעַתָּ֖ה אֱלֹהֵ֣י יִשְׂרָאֵ֑ל יֵאָ֤מֶן נָא֙ דְּבָ֣רְךָ֔ אֲשֶׁ֣ר דִּבַּ֔רְתָּ לְעַבְדְּךָ֖ דָּוִ֥ד אָבִֽי׃"
+pericope: "[[1Kgs.8.22 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H0539]]"
+- "[[H4994]]"
+- "[[H1697G]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H9005]]"
+- "[[H5650]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Kings 8:26**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now, O God of Israel, let thy word, I pray thee, be verified, which thou spakest unto thy servant David my father.
 <small><sub>**BSB:**</sub></small>
 And now, O God of Israel, please confirm what You promised to Your servant, my father David.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֖ה]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H0539\|יֵאָ֤מֶן]] [[H4994\|נָא֙]] [[H1697G\|דְּבָ֣רְ]][[H9021\|ךָ֔]] [[H0834A\|אֲשֶׁ֣ר]] [[H1696G\|דִּבַּ֔רְתָּ]] [[H9005\|לְ]][[H5650\|עַבְדְּ]][[H9021\|ךָ֖]] [[H1732\|דָּוִ֥ד]] [[H0001G\|אָבִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.25|<< 1 Kings 8:25]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.27|1 Kings 8:27 >>]]</td></tr></table>
 
@@ -21,7 +73,7 @@ And now, O God of Israel, please confirm what You promised to Your servant, my f
 | father my  |**<big>&#8207;[[H0001G\|אָבִֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.V<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.25|<< 1 Kings 8:25]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.27|1 Kings 8:27 >>]]</td></tr></table>
 
-[^1]: words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דְּבָרֶי]]</big> ** | de.va.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
-[^2]: words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דְּבָרֶי]]</big> ** | de.va.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^1]: words your  | **<big>[[H1697G|דְּבָרֶי]]</big><big>[[H9021|ךָ]]</big> ** | de.va.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: words your  | **<big>[[H1697G|דְּבָרֶי]]</big><big>[[H9021|ךָ]]</big> ** | de.va.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>דְּבָ֣רְיךָ֔</big></span>**
 

@@ -1,8 +1,57 @@
+---
+title: Psalm 50:20
+type: Verse
+kjv: "Thou sittest and speakest against thy brother; thou slanderest thine own mother’s son."
+bsb: "You sit and malign your brother; you slander your own mother’s son."
+hebrew: "תֵּ֭שֵׁב בְּאָחִ֣יךָ תְדַבֵּ֑ר בְּבֶֽן־ אִ֝מְּךָ֗ תִּתֶּן־ דֹּֽפִי׃"
+pericope: "[[Ps.50.1 The Mighty One Calls|The Mighty One Calls]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 50
+book/chapter: "[[Ps.50|Psalm 50]]"
+chronological_order: 505
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GOSSIP|GOSSIP]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H0251G]]"
+- "[[H9021]]"
+- "[[H1696G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0517]]"
+- "[[H5414P]]"
+- "[[H1848]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 50:20**<big><big>[[Ps.50.1 The Mighty One Calls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou sittest [and] speakest against thy brother; thou slanderest thine own mother’s son.
 <small><sub>**BSB:**</sub></small>
 You sit and malign your brother; you slander your own mother’s son.
+<small><sub>**Hebrew:**</sub></small>
+[[H3427\|תֵּ֭שֵׁב]] [[H9003\|בְּ]][[H0251G\|אָחִ֣י]][[H9021\|ךָ]] [[H1696G\|תְדַבֵּ֑ר]] [[H9003\|בְּ]][[H1121A\|בֶֽן]][[H9014\|־]] [[H0517\|אִ֝מְּ]][[H9021\|ךָ֗]] [[H5414P\|תִּתֶּן]][[H9014\|־]] [[H1848\|דֹּֽפִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic GOSSIP|GOSSIP]] • [[topic SLANDER|SLANDER]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.50.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50.19|<< Psalms 50:19]]</td><td align="center" style="border:none;">[[Ps.50|Psalms 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50.21|Psalms 50:21 >>]]</td></tr></table>
 

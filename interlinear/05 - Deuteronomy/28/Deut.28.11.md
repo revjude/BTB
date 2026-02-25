@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 28:11
+type: Verse
+kjv: "And the LORD shall make thee plenteous in goods, in the fruit of thy body, and in the fruit of thy cattle, and in the fruit of thy ground, in the land which the LORD sware unto thy fathers to give thee."
+bsb: "The LORD will make you prosper abundantly—in the fruit of your womb, the offspring of your livestock, and the produce of your land—in the land that the LORD swore to your fathers to give you."
+hebrew: "וְהוֹתִֽרְךָ֤ יְהוָה֙ לְטוֹבָ֔ה בִּפְרִ֧י בִטְנְךָ֛ וּבִפְרִ֥י בְהַמְתְּךָ֖ וּבִפְרִ֣י אַדְמָתֶ֑ךָ עַ֚ל הָאֲדָמָ֔ה אֲשֶׁ֨ר נִשְׁבַּ֧ע יְהוָ֛ה לַאֲבֹתֶ֖יךָ לָ֥תֶת לָֽךְ׃"
+pericope: "[[Deut.28.1 The Blessings of Obedience|The Blessings of Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3498]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H2896C]]"
+- "[[H9003]]"
+- "[[H6529]]"
+- "[[H0990H]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H0929]]"
+- "[[H0127G]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H0001G]]"
+- "[[H5414G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:11**<big><big>[[Deut.28.1 The Blessings of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall make thee plenteous in goods, in the fruit of thy body, and in the fruit of thy cattle, and in the fruit of thy ground, in the land which the LORD sware unto thy fathers to give thee.
 <small><sub>**BSB:**</sub></small>
 The LORD will make you prosper abundantly—in the fruit of your womb, the offspring of your livestock, and the produce of your land—in the land that the LORD swore to your fathers to give you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3498\|הוֹתִֽרְ]][[H9031\|ךָ֤]] [[H3068G\|יְהוָה֙]] [[H9005\|לְ]][[H2896C\|טוֹבָ֔ה]] [[H9003\|בִּ]][[H6529\|פְרִ֧י]] [[H0990H\|בִטְנְ]][[H9021\|ךָ֛]] [[H9002\|וּ]][[H9003\|בִ]][[H6529\|פְרִ֥י]] [[H0929\|בְהַמְתְּ]][[H9021\|ךָ֖]] [[H9002\|וּ]][[H9003\|בִ]][[H6529\|פְרִ֣י]] [[H0127G\|אַדְמָתֶ֑]][[H9021\|ךָ]] [[H5921A\|עַ֚ל]] [[H9009\|הָ]][[H0127G\|אֲדָמָ֔ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H7650\|נִשְׁבַּ֧ע]] [[H3068G\|יְהוָ֛ה]] [[H9005\|לַ]][[H0001G\|אֲבֹתֶ֖י]][[H9021\|ךָ]] [[H9005\|לָ֥]][[H5414G\|תֶת]] [[H9005\|לָֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.10|<< Deuteronomy 28:10]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.12|Deuteronomy 28:12 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Psalm 21:2
+type: Verse
+kjv: "Thou hast given him his heart’s desire, and hast not withholden the request of his lips. Selah."
+bsb: "You have granted his heart’s desire and have not withheld the request of his lips. Selah"
+hebrew: "תַּאֲוַ֣ת לִ֭בּוֹ נָתַ֣תָּה לּ֑וֹ וַאֲרֶ֥שֶׁת שְׂ֝פָתָ֗יו בַּל־ מָנַ֥עְתָּ סֶּֽלָה׃"
+pericope: "[[Ps.21.1 After the Battle|After the Battle]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 21
+book/chapter: "[[Ps.21|Psalm 21]]"
+chronological_order: 354
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H8378]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H0782]]"
+- "[[H8193G]]"
+- "[[H1077]]"
+- "[[H9014]]"
+- "[[H4513]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 21:2**<big><big>[[Ps.21.1 After the Battle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast given him his heart’s desire, and hast not withholden the request of his lips. Selah.
 <small><sub>**BSB:**</sub></small>
 You have granted his heart’s desire and have not withheld the request of his lips. Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H8378\|תַּאֲוַ֣ת]] [[H3820A\|לִ֭בּ]][[H9023\|וֹ]] [[H5414G\|נָתַ֣תָּה]] [[H9005\|לּ֑]][[H9033\|וֹ]] [[H9002\|וַ]][[H0782\|אֲרֶ֥שֶׁת]] [[H8193G\|שְׂ֝פָתָ֗י]][[H9023\|ו]] [[H1077\|בַּל]][[H9014\|־]] [[H4513\|מָנַ֥עְתָּ]] [[H5542\|סֶּֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.21.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.21.1|<< Psalms 21:1]]</td><td align="center" style="border:none;">[[Ps.21|Psalms 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.21.3|Psalms 21:3 >>]]</td></tr></table>
 

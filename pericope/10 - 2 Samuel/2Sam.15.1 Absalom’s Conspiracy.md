@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Absalom’s Conspiracy
+type: Pericope
 pericope: "[[2Sam.15.1 Absalom’s Conspiracy|Absalom’s Conspiracy]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 15
 book/chapter: "[[2Sam.15|2 Samuel 15]]"
-genre:
+chronological_order: 414
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 12
 verses:
 - "[[2Sam.15.1]]"
 - "[[2Sam.15.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[2Sam.15.12]]"
 ---
 
-[[2Sam.15|2 Samuel 15:1 - 2 Samuel 15:12]]
+<small>[[2Sam.15|2 Samuel 15:1-12]]</small>
 *Absalom’s Conspiracy*
 
 [[2Sam.15.1|1]] And it came to pass after this, that Absalom prepared him chariots and horses, and fifty men to run before him.

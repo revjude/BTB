@@ -1,8 +1,67 @@
+---
+title: Ezra 7:10
+type: Verse
+kjv: "For Ezra had prepared his heart to seek the law of the LORD, and to do it, and to teach in Israel statutes and judgments."
+bsb: "For Ezra had set his heart to study the Law of the LORD, to practice it, and to teach its statutes and ordinances in Israel."
+hebrew: "כִּ֤י עֶזְרָא֙ הֵכִ֣ין לְבָב֔וֹ לִדְר֛וֹשׁ אֶת־ תּוֹרַ֥ת יְהוָ֖ה וְלַעֲשֹׂ֑ת וּלְלַמֵּ֥ד בְּיִשְׂרָאֵ֖ל חֹ֥ק וּמִשְׁפָּֽט׃ ס"
+pericope: "[[Ezra.7.1 Ezra Arrives in Jerusalem|Ezra Arrives in Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 7
+book/chapter: "[[Ezra.7|Ezra 7]]"
+chronological_order: 909
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic EZRA|EZRA]]"
+- "[[topic HEART|HEART]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H5830G]]"
+- "[[H3559H]]"
+- "[[H3824]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H1875]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8451]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H6213A]]"
+- "[[H3925G]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H2706G]]"
+- "[[H4941G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezra 7:10**<big><big>[[Ezra.7.1 Ezra Arrives in Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Ezra had prepared his heart to seek the law of the LORD, and to do [it], and to teach in Israel statutes and judgments.
 <small><sub>**BSB:**</sub></small>
 For Ezra had set his heart to study the Law of the LORD, to practice it, and to teach its statutes and ordinances in Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H5830G\|עֶזְרָא֙]] [[H3559H\|הֵכִ֣ין]] [[H3824\|לְבָב֔]][[H9023\|וֹ]] [[H9005\|לִ]][[H1875\|דְר֛וֹשׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H8451\|תּוֹרַ֥ת]] [[H3068G\|יְהוָ֖ה]] [[H9002\|וְ]][[H9005\|לַ]][[H6213A\|עֲשֹׂ֑ת]] [[H9002\|וּ]][[H9005\|לְ]][[H3925G\|לַמֵּ֥ד]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֖ל]] [[H2706G\|חֹ֥ק]] [[H9002\|וּ]][[H4941G\|מִשְׁפָּֽט]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZRA|EZRA]] • [[topic HEART|HEART]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic LAW|LAW]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic SEEKERS|SEEKERS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.9|<< Ezra 7:9]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.11|Ezra 7:11 >>]]</td></tr></table>
 
@@ -20,7 +79,7 @@ For Ezra had set his heart to study the Law of the LORD, to practice it, and to 
 | and to teach  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3925G\|לַמֵּ֥ד]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> la.Med<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in Israel  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | decree  |**<big>&#8207;[[H2706G\|חֹ֥ק]]&#8207; </big>**| chok<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and judgment  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4941G\|מִשְׁפָּֽט]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and judgment  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4941G\|מִשְׁפָּֽט]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.9|<< Ezra 7:9]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.11|Ezra 7:11 >>]]</td></tr></table>
 
 

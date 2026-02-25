@@ -1,10 +1,56 @@
+---
+title: Philemon 1:25
+type: Verse
+kjv: "The grace of our Lord Jesus Christ be with your spirit. Amen."
+bsb: "The grace of the Lord Jesus Christ be with your spirit."
+greek: "ἡ χάρις τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ μετὰ τοῦ πνεύματος ὑμῶν. ἀμήν. Πρός Φιλήμονα ἐγράφη ἀπό Ῥώμης διά Ὀνησίμου οἰκέτου.¶"
+pericope: "[[Phlm.1.23 Additional Greetings|Additional Greetings]]"
+original_language: Greek
+testament: New
+book: Philemon
+chapter: 1
+book/chapter: "[[Phlm.1|Philemon 1]]"
+chronological_order: 1125
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- personal letter
+strongs:
+- "[[G3588]]"
+- "[[G5485]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G3326]]"
+- "[[G4151G]]"
+- "[[G4771]]"
+- "[[G0281]]"
+- "[[G4314]]"
+- "[[G5371]]"
+- "[[G1125]]"
+- "[[G0575]]"
+- "[[G4516]]"
+- "[[G1223]]"
+- "[[G3682]]"
+- "[[G3610]]"
+texts:
+- NKO
+- KO
+- K
+---
+
 **Philemon 1:25**<big><big>[[Phlm.1.23 Additional Greetings|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The grace of our Lord Jesus Christ [be] with your spirit. Amen.
 <small><sub>**BSB:**</sub></small>
 The grace of the Lord Jesus Christ be with your spirit.
-<small><sub>**Literal:**</sub></small>
-The grace of the Lord of us Jesus Christ [be] with the spirit of you. Amen. to To Philemon it was written from Rome through Onesimus servant.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.24|<< Philemon 1:24]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.1.1|Hebrews 1:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G5485\|χάρις]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G3326\|μετὰ]]  [[G3588\|τοῦ]]  [[G4151G\|πνεύματος]]  [[G4771\|ὑμῶν.]]  [[G0281\|ἀμήν.]]  [[G4314\|Πρός]]  [[G5371\|Φιλήμονα]]  [[G1125\|ἐγράφη]]  [[G0575\|ἀπό]]  [[G4516\|Ῥώμης]]  [[G1223\|διά]]  [[G3682\|Ὀνησίμου]]  [[G3610\|οἰκέτου.¶]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.24|<< Philemon 1:24]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.1.1|Hebrews 1:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

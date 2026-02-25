@@ -1,8 +1,62 @@
+---
+title: Leviticus 14:35
+type: Verse
+kjv: "And he that owneth the house shall come and tell the priest, saying, It seemeth to me there is as it were a plague in the house:"
+bsb: "the owner of the house shall come and tell the priest, ‘Something like mildew has appeared in my house.’"
+hebrew: "וּבָא֙ אֲשֶׁר־ ל֣וֹ הַבַּ֔יִת וְהִגִּ֥יד לַכֹּהֵ֖ן לֵאמֹ֑ר כְּנֶ֕גַע נִרְאָ֥ה לִ֖י בַּבָּֽיִת׃"
+pericope: "[[Lev.14.33 Signs of Home Contamination|Signs of Home Contamination]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 14
+book/chapter: "[[Lev.14|Leviticus 14]]"
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H5046]]"
+- "[[H3548]]"
+- "[[H0559]]"
+- "[[H9004]]"
+- "[[H5061]]"
+- "[[H7200G]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 14:35**<big><big>[[Lev.14.33 Signs of Home Contamination|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he that owneth the house shall come and tell the priest, saying, It seemeth to me [there is] as it were a plague in the house:
 <small><sub>**BSB:**</sub></small>
 the owner of the house shall come and tell the priest, ‘Something like mildew has appeared in my house.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H0935G\|בָא֙]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H9009\|הַ]][[H1004B\|בַּ֔יִת]] [[H9001\|וְ]][[H5046\|הִגִּ֥יד]] [[H9005\|לַ]][[H3548\|כֹּהֵ֖ן]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H9004\|כְּ]][[H5061\|נֶ֕גַע]] [[H7200G\|נִרְאָ֥ה]] [[H9005\|לִ֖]][[H9030\|י]] [[H9003\|בַּ]][[H1004B\|בָּֽיִת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.34|<< Leviticus 14:34]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.36|Leviticus 14:36 >>]]</td></tr></table>
 

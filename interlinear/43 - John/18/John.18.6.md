@@ -1,10 +1,58 @@
+---
+title: John 18:6
+type: Verse
+kjv: "As soon then as he had said unto them, I am he, they went backward, and fell to the ground."
+bsb: "When Jesus said, “I am He,” they drew back and fell to the ground."
+greek: "ὡς οὖν εἶπεν αὐτοῖς ὅτι· ἐγώ εἰμι, ἀπῆλθον εἰς τὰ ὀπίσω καὶ ἔπεσαν χαμαί.¶"
+pericope: "[[John.18.1 The Betrayal of Jesus|The Betrayal of Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic TRAITOR|TRAITOR]]"
+strongs:
+- "[[G5613]]"
+- "[[G3767]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G0565]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3694]]"
+- "[[G2532]]"
+- "[[G4098]]"
+- "[[G5476]]"
+texts:
+- NKO
+- k
+---
+
 **John 18:6**<big><big>[[John.18.1 The Betrayal of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As soon then as he had said unto them, I am [he], they went backward, and fell to the ground.
 <small><sub>**BSB:**</sub></small>
 When Jesus said, “I am He,” they drew back and fell to the ground.
-<small><sub>**Literal:**</sub></small>
-When therefore He said to them that: I myself am [He], they drew toward the back and fell to [the] ground.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.5|<< John 18:5]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.7|John 18:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G3767\|οὖν]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς]]  [[G3754G\|ὅτι·]]  [[G1473\|ἐγώ]]  [[G1510\|εἰμι,]]  [[G0565\|ἀπῆλθον]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G3694\|ὀπίσω]]  [[G2532\|καὶ]]  [[G4098\|ἔπεσαν]]  [[G5476\|χαμαί.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRISONERS|PRISONERS]] • [[topic PROPHECY|PROPHECY]] • [[topic TRAITOR|TRAITOR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.5|<< John 18:5]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.7|John 18:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

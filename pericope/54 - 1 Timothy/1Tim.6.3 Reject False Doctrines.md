@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Reject False Doctrines
+type: Pericope
 pericope: "[[1Tim.6.3 Reject False Doctrines|Reject False Doctrines]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: 1 Timothy
 chapter: 6
 book/chapter: "[[1Tim.6|1 Timothy 6]]"
-genre:
+chronological_order: 1131
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - church order
+verse_count: 3
 verses:
 - "[[1Tim.6.3]]"
 - "[[1Tim.6.4]]"
 - "[[1Tim.6.5]]"
 ---
 
-[[1Tim.6|1 Timothy 6:3 - 1 Timothy 6:5]]
+<small>[[1Tim.6|1 Timothy 6:3-5]]</small>
 *Reject False Doctrines*
 
 [[1Tim.6.3|3]] If any man teach otherwise, and consent not to wholesome words, \[even\] the words of our Lord Jesus Christ, and to the doctrine which is according to godliness;

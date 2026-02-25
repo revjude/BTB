@@ -1,10 +1,68 @@
+---
+title: Acts 8:27
+type: Verse
+kjv: "And he arose and went: and, behold, a man of Ethiopia, an eunuch of great authority under Candace queen of the Ethiopians, who had the charge of all her treasure, and had come to Jerusalem for to worship,"
+bsb: "So he started out, and on his way he met an Ethiopian eunuch, a court official in charge of the entire treasury of Candace, queen of the Ethiopians. He had gone to Jerusalem to worship,"
+greek: "καὶ ἀναστὰς ἐπορεύθη· καὶ ἰδοὺ ἀνὴρ Αἰθίοψ εὐνοῦχος δυνάστης Κανδάκης τῆς βασιλίσσης Αἰθιόπων, ὃς ἦν ἐπὶ πάσης τῆς γάζης αὐτῆς, ὃς ἐληλύθει προσκυνήσων εἰς Ἰερουσαλήμ,"
+pericope: "[[Acts.8.26 Philip and the Ethiopian|Philip and the Ethiopian]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 8
+book/chapter: "[[Acts.8|Acts 8]]"
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CANDACE|CANDACE]]"
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+- "[[topic EUNUCH|EUNUCH]]"
+- "[[topic GAZA|GAZA]]"
+- "[[topic PHILIP|PHILIP]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic QUEEN|QUEEN]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G0450]]"
+- "[[G4198]]"
+- "[[G2400]]"
+- "[[G0435G]]"
+- "[[G0128]]"
+- "[[G2135]]"
+- "[[G1413]]"
+- "[[G2582]]"
+- "[[G3588]]"
+- "[[G0938H]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G1909]]"
+- "[[G3956]]"
+- "[[G1047]]"
+- "[[G0846]]"
+- "[[G2064]]"
+- "[[G4352]]"
+- "[[G1519]]"
+- "[[G2419]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 8:27**<big><big>[[Acts.8.26 Philip and the Ethiopian|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he arose and went: and, behold, a man of Ethiopia, an eunuch of great authority under Candace queen of the Ethiopians, who had the charge of all her treasure, and had come to Jerusalem for to worship,
 <small><sub>**BSB:**</sub></small>
 So he started out, and on his way he met an Ethiopian eunuch, a court official in charge of the entire treasury of Candace, queen of the Ethiopians. He had gone to Jerusalem to worship,
-<small><sub>**Literal:**</sub></small>
-And having risen up he went; And behold a man an Ethiopian a eunuch a potentate of Candace the queen of Ethiopians, who was over all the treasure of her, who had come to then worship to Jerusalem,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.26|<< Acts 8:26]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.28|Acts 8:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0450\|ἀναστὰς]]  [[G4198\|ἐπορεύθη·]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G0435G\|ἀνὴρ]]  [[G0128\|Αἰθίοψ]]  [[G2135\|εὐνοῦχος]]  [[G1413\|δυνάστης]]  [[G2582\|Κανδάκης]]  [[G3588\|τῆς]]  [[G0938H\|βασιλίσσης]]  [[G0128\|Αἰθιόπων,]]  [[G3739\|ὃς]]  [[G1510\|ἦν]]  [[G1909\|ἐπὶ]]  [[G3956\|πάσης]]  [[G3588\|τῆς]]  [[G1047\|γάζης]]  [[G0846\|αὐτῆς,]]  [[G3739\|ὃς]]  [[G2064\|ἐληλύθει]]  [[G4352\|προσκυνήσων]]  [[G1519\|εἰς]]  [[G2419\|Ἰερουσαλήμ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANDACE|CANDACE]] • [[topic ETHIOPIA|ETHIOPIA]] • [[topic EUNUCH|EUNUCH]] • [[topic GAZA|GAZA]] • [[topic PHILIP|PHILIP]] • [[topic PREACHING|PREACHING]] • [[topic QUEEN|QUEEN]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.26|<< Acts 8:26]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.28|Acts 8:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,59 @@
+---
+title: Psalm 73:8
+type: Verse
+kjv: "They are corrupt, and speak wickedly concerning oppression: they speak loftily."
+bsb: "They mock and speak with malice; with arrogance they threaten oppression."
+hebrew: "יָמִ֤יקוּ׀ וִידַבְּר֣וּ בְרָ֣ע עֹ֑שֶׁק מִמָּר֥וֹם יְדַבֵּֽרוּ׃"
+pericope: "[[Ps.73.1 Surely God Is Good to Israel|Surely God Is Good to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 73
+book/chapter: "[[Ps.73|Psalm 73]]"
+chronological_order: 506
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H4167]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H1696G]]"
+- "[[H9003]]"
+- "[[H7451B]]"
+- "[[H6233]]"
+- "[[H9006]]"
+- "[[H4791]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 73:8**<big><big>[[Ps.73.1 Surely God Is Good to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They are corrupt, and speak wickedly [concerning] oppression: they speak loftily.
 <small><sub>**BSB:**</sub></small>
 They mock and speak with malice; with arrogance they threaten oppression.
+<small><sub>**Hebrew:**</sub></small>
+[[H4167\|יָמִ֤יקוּ]][[H9015\|׀]] [[H9002\|וִ]][[H1696G\|ידַבְּר֣וּ]] [[H9003\|בְ]][[H7451B\|רָ֣ע]] [[H6233\|עֹ֑שֶׁק]] [[H9006\|מִ]][[H4791\|מָּר֥וֹם]] [[H1696G\|יְדַבֵּֽרוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic INTEGRITY|INTEGRITY]] • [[topic PRIDE|PRIDE]] • [[topic RICH, THE|RICH, THE]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.73.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.7|<< Psalms 73:7]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.9|Psalms 73:9 >>]]</td></tr></table>
 

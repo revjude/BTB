@@ -1,8 +1,60 @@
+---
+title: 1 Kings 18:35
+type: Verse
+kjv: "And the water ran round about the altar; and he filled the trench also with water."
+bsb: "So the water ran down around the altar and even filled the trench."
+hebrew: "וַיֵּלְכ֣וּ הַמַּ֔יִם סָבִ֖יב לַמִּזְבֵּ֑חַ וְגַ֥ם אֶת־ הַתְּעָלָ֖ה מִלֵּא־ מָֽיִם׃"
+pericope: "[[1Kgs.18.16 Elijah on Mount Carmel|Elijah on Mount Carmel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 18
+book/chapter: "[[1Kgs.18|1 Kings 18]]"
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic CARMEL|CARMEL]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980I]]"
+- "[[H9009]]"
+- "[[H4325G]]"
+- "[[H5439G]]"
+- "[[H9005]]"
+- "[[H4196]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8585A]]"
+- "[[H4390]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 18:35**<big><big>[[1Kgs.18.16 Elijah on Mount Carmel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the water ran round about the altar; and he filled the trench also with water.
 <small><sub>**BSB:**</sub></small>
 So the water ran down around the altar and even filled the trench.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980I\|יֵּלְכ֣וּ]] [[H9009\|הַ]][[H4325G\|מַּ֔יִם]] [[H5439G\|סָבִ֖יב]] [[H9005\|לַ]][[H4196\|מִּזְבֵּ֑חַ]] [[H9002\|וְ]][[H1571\|גַ֥ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8585A\|תְּעָלָ֖ה]] [[H4390\|מִלֵּא]][[H9014\|־]] [[H4325G\|מָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic CARMEL|CARMEL]] • [[topic FAITH|FAITH]] • [[topic PRAYER|PRAYER]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.34|<< 1 Kings 18:34]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.36|1 Kings 18:36 >>]]</td></tr></table>
 

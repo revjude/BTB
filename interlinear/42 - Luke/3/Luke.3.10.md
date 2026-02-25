@@ -1,10 +1,52 @@
+---
+title: Luke 3:10
+type: Verse
+kjv: "And the people asked him, saying, What shall we do then?"
+bsb: "The crowds asked him, “What then should we do?”"
+greek: "καὶ ἐπηρώτων αὐτὸν οἱ ὄχλοι λέγοντες· τί οὖν ποιήσωμεν;"
+pericope: "[[Luke.3.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 3
+book/chapter: "[[Luke.3|Luke 3]]"
+chronological_order: 937
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1905]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G3004G]]"
+- "[[G5101]]"
+- "[[G3767]]"
+- "[[G4160G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 3:10**<big><big>[[Luke.3.1 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the people asked him, saying, What shall we do then?
 <small><sub>**BSB:**</sub></small>
 The crowds asked him, “What then should we do?”
-<small><sub>**Literal:**</sub></small>
-And were asking him the crowds saying; What then shall we do?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.9|<< Luke 3:9]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.11|Luke 3:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1905\|ἐπηρώτων]]  [[G0846\|αὐτὸν]]  [[G3588\|οἱ]]  [[G3793\|ὄχλοι]]  [[G3004G\|λέγοντες·]]  [[G5101\|τί]]  [[G3767\|οὖν]]  [[G4160G\|ποιήσωμεν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LIBERALITY|LIBERALITY]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.9|<< Luke 3:9]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.11|Luke 3:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 3:10** is...
 > $\quad$ referencing: [[LXX.Mal.3.7|Mal 3:7]]

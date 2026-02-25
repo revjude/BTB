@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Concern for the Corinthians
+type: Pericope
 pericope: "[[2Cor.12.11 Paul’s Concern for the Corinthians|Paul’s Concern for the Corinthians]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: 2 Corinthians
 chapter: 12
 book/chapter: "[[2Cor.12|2 Corinthians 12]]"
-genre:
+chronological_order: 1085
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - apologetic
+verse_count: 11
 verses:
 - "[[2Cor.12.11]]"
 - "[[2Cor.12.12]]"
@@ -29,7 +36,7 @@ verses:
 - "[[2Cor.12.21]]"
 ---
 
-[[2Cor.12|2 Corinthians 12:11 - 2 Corinthians 12:21]]
+<small>[[2Cor.12|2 Corinthians 12:11-21]]</small>
 *Paul’s Concern for the Corinthians*
 
 [[2Cor.12.11|11]] I am become a fool in glorying; ye have compelled me: for I ought to have been commended of you: for in nothing am I behind the very chiefest apostles, though I be nothing.

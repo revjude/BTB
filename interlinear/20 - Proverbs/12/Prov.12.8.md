@@ -1,8 +1,55 @@
+---
+title: Proverbs 12:8
+type: Verse
+kjv: "A man shall be commended according to his wisdom: but he that is of a perverse heart shall be despised."
+bsb: "A man is praised according to his wisdom, but a twisted mind is despised."
+hebrew: "לְֽפִי־ שִׂ֭כְלוֹ יְהֻלַּל־ אִ֑ישׁ וְנַעֲוֵה־ לֵ֝֗ב יִהְיֶ֥ה לָבֽוּז׃"
+pericope: "[[Prov.12.1 Loving Discipline and Knowledge|Loving Discipline and Knowledge]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 12
+book/chapter: "[[Prov.12|Proverbs 12]]"
+chronological_order: 467
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HEART|HEART]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9005]]"
+- "[[H6310K]]"
+- "[[H9014]]"
+- "[[H7922]]"
+- "[[H9023]]"
+- "[[H1984B]]"
+- "[[H0376G]]"
+- "[[H9002]]"
+- "[[H5753A]]"
+- "[[H3820A]]"
+- "[[H1961]]"
+- "[[H0937]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 12:8**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A man shall be commended according to his wisdom: but he that is of a perverse heart shall be despised.
 <small><sub>**BSB:**</sub></small>
 A man is praised according to his wisdom, but a twisted mind is despised.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְֽ]][[H6310K\|פִי]][[H9014\|־]] [[H7922\|שִׂ֭כְל]][[H9023\|וֹ]] [[H1984B\|יְהֻלַּל]][[H9014\|־]] [[H0376G\|אִ֑ישׁ]] [[H9002\|וְ]][[H5753A\|נַעֲוֵה]][[H9014\|־]] [[H3820A\|לֵ֝֗ב]] [[H1961\|יִהְיֶ֥ה]] [[H9005\|לָ]][[H0937\|בֽוּז]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEART|HEART]] • [[topic PRUDENCE|PRUDENCE]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.7|<< Proverbs 12:7]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.9|Proverbs 12:9 >>]]</td></tr></table>
 

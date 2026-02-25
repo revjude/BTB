@@ -1,8 +1,68 @@
+---
+title: Jeremiah 23:16
+type: Verse
+kjv: "Thus saith the LORD of hosts, Hearken not unto the words of the prophets that prophesy unto you: they make you vain: they speak a vision of their own heart, and not out of the mouth of the LORD."
+bsb: "This is what the LORD of Hosts says: “Do not listen to the words of the prophets who prophesy to you. They are filling you with false hopes. They speak visions from their own minds, not from the mouth of the LORD."
+hebrew: "כֹּֽה־ אָמַ֞ר יְהוָ֣ה צְבָא֗וֹת אַֽל־ תִּשְׁמְע֞וּ עַל־ דִּבְרֵ֤י הַנְּבִאִים֙ הַנִּבְּאִ֣ים לָכֶ֔ם מַהְבִּלִ֥ים הֵ֖מָּה אֶתְכֶ֑ם חֲז֤וֹן לִבָּם֙ יְדַבֵּ֔רוּ לֹ֖א מִפִּ֥י יְהוָֽה׃"
+pericope: "[[Jer.23.9 Lying Prophets|Lying Prophets]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 23
+book/chapter: "[[Jer.23|Jeremiah 23]]"
+chronological_order: 746
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0408]]"
+- "[[H8085G]]"
+- "[[H5921A]]"
+- "[[H1697G]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H5012]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H1891]]"
+- "[[H1992]]"
+- "[[H0853]]"
+- "[[H2377]]"
+- "[[H3820A]]"
+- "[[H9028]]"
+- "[[H1696G]]"
+- "[[H3808]]"
+- "[[H9006]]"
+- "[[H6310G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 23:16**<big><big>[[Jer.23.9 Lying Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD of hosts, Hearken not unto the words of the prophets that prophesy unto you: they make you vain: they speak a vision of their own heart, [and] not out of the mouth of the LORD.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD of Hosts says: “Do not listen to the words of the prophets who prophesy to you. They are filling you with false hopes. They speak visions from their own minds, not from the mouth of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֞ר]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֗וֹת]] [[H0408\|אַֽל]][[H9014\|־]] [[H8085G\|תִּשְׁמְע֞וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H1697G\|דִּבְרֵ֤י]] [[H9009\|הַ]][[H5030\|נְּבִאִים֙]] [[H9009\|הַ]][[H5012\|נִּבְּאִ֣ים]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H1891\|מַהְבִּלִ֥ים]] [[H1992\|הֵ֖מָּה]] [[H0853\|אֶתְ]][[H9036\|כֶ֑ם]] [[H2377\|חֲז֤וֹן]] [[H3820A\|לִבָּ]][[H9028\|ם֙]] [[H1696G\|יְדַבֵּ֔רוּ]] [[H3808\|לֹ֖א]] [[H9006\|מִ]][[H6310G\|פִּ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.15|<< Jeremiah 23:15]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.17|Jeremiah 23:17 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Isaiah 66:17
+type: Verse
+kjv: "They that sanctify themselves, and purify themselves in the gardens behind one tree in the midst, eating swine’s flesh, and the abomination, and the mouse, shall be consumed together, saith the LORD."
+bsb: "“Those who consecrate and purify themselves to enter the groves—to follow one in the center of those who eat the flesh of swine and vermin and rats—will perish together,” declares the LORD."
+hebrew: "הַמִּתְקַדְּשִׁ֨ים וְהַמִּֽטַּהֲרִ֜ים אֶל־ הַגַּנּ֗וֹת אַחַ֤ר אַחַת֙ בַּתָּ֔וֶךְ אֹֽכְלֵי֙ בְּשַׂ֣ר הַחֲזִ֔יר וְהַשֶּׁ֖קֶץ וְהָעַכְבָּ֑ר יַחְדָּ֥ו יָסֻ֖פוּ נְאֻם־ יְהוָֽה׃"
+pericope: "[[Isa.66.15 Final Judgments against the Wicked|Final Judgments against the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 66
+book/chapter: "[[Isa.66|Isaiah 66]]"
+chronological_order: 705
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOUSE|MOUSE]]"
+- "[[topic SWINE|SWINE]]"
+strongs:
+- "[[H9009]]"
+- "[[H6942G]]"
+- "[[H9002]]"
+- "[[H2891]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1593]]"
+- "[[H0310A]]"
+- "[[H0259]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H0398]]"
+- "[[H1320]]"
+- "[[H2386]]"
+- "[[H8263]]"
+- "[[H5909]]"
+- "[[H3162B]]"
+- "[[H5486]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Isaiah 66:17**<big><big>[[Isa.66.15 Final Judgments against the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that sanctify themselves, and purify themselves in the gardens behind one [tree] in the midst, eating swine’s flesh, and the abomination, and the mouse, shall be consumed together, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 “Those who consecrate and purify themselves to enter the groves—to follow one in the center of those who eat the flesh of swine and vermin and rats—will perish together,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H6942G\|מִּתְקַדְּשִׁ֨ים]] [[H9002\|וְ]][[H9009\|הַ]][[H2891\|מִּֽטַּהֲרִ֜ים]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H1593\|גַּנּ֗וֹת]] [[H0310A\|אַחַ֤ר]] [[H0259\|אַחַת֙]] [[H9003\|בַּ]][[H8432\|תָּ֔וֶךְ]] [[H0398\|אֹֽכְלֵי֙]] [[H1320\|בְּשַׂ֣ר]] [[H9009\|הַ]][[H2386\|חֲזִ֔יר]] [[H9002\|וְ]][[H9009\|הַ]][[H8263\|שֶּׁ֖קֶץ]] [[H9002\|וְ]][[H9009\|הָ]][[H5909\|עַכְבָּ֑ר]] [[H3162B\|יַחְדָּ֥ו]] [[H5486\|יָסֻ֖פוּ]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOUSE|MOUSE]] • [[topic SWINE|SWINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.66.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.66.16|<< Isaiah 66:16]]</td><td align="center" style="border:none;">[[Isa.66|Isaiah 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.18|Isaiah 66:18 >>]]</td></tr></table>
 

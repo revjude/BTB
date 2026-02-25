@@ -1,10 +1,72 @@
+---
+title: Acts 12:20
+type: Verse
+kjv: "And Herod was highly displeased with them of Tyre and Sidon: but they came with one accord to him, and, having made Blastus the king’s chamberlain their friend, desired peace; because their country was nourished by the king’s country."
+bsb: "Now Herod was in a furious dispute with the people of Tyre and Sidon, and they convened before him. Having secured the support of Blastus, the king’s chamberlain, they asked for peace, because their region depended on the king’s country for food."
+greek: "ἦν δὲ ὁ Ἡρῴδης θυμομαχῶν Τυρίοις καὶ Σιδωνίοις· ὁμοθυμαδὸν δὲ παρῆσαν πρὸς αὐτὸν καὶ πείσαντες Βλάστον τὸν ἐπὶ τοῦ κοιτῶνος τοῦ βασιλέως ᾐτοῦντο εἰρήνην, διὰ τὸ τρέφεσθαι αὐτῶν τὴν χώραν ἀπὸ τῆς βασιλικῆς.¶"
+pericope: "[[Acts.12.20 The Death of Herod|The Death of Herod]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 12
+book/chapter: "[[Acts.12|Acts 12]]"
+chronological_order: 1030
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BLASTUS|BLASTUS]]"
+- "[[topic CAESAREA|CAESAREA]]"
+- "[[topic CHAMBERLAIN|CHAMBERLAIN]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2264I]]"
+- "[[G2371]]"
+- "[[G5183]]"
+- "[[G2532]]"
+- "[[G4606]]"
+- "[[G3661]]"
+- "[[G3918]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3982]]"
+- "[[G0986]]"
+- "[[G1909]]"
+- "[[G2846]]"
+- "[[G0935]]"
+- "[[G0154]]"
+- "[[G1515]]"
+- "[[G1223]]"
+- "[[G5142]]"
+- "[[G5561]]"
+- "[[G0575]]"
+- "[[G0937]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 12:20**<big><big>[[Acts.12.20 The Death of Herod|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Herod was highly displeased with them of Tyre and Sidon: but they came with one accord to him, and, having made Blastus the king’s chamberlain their friend, desired peace; because their country was nourished by the king’s [country].
 <small><sub>**BSB:**</sub></small>
 Now Herod was in a furious dispute with the people of Tyre and Sidon, and they convened before him. Having secured the support of Blastus, the king’s chamberlain, they asked for peace, because their region depended on the king’s country for food.
-<small><sub>**Literal:**</sub></small>
-He was now <the> Herod furiously angry with [the] Tyrians and Sidonians; with one accord then they were coming to him And having gained Blastus who [was] over the bedchamber of the king they were seeking peace, because of <the> being nourished their <the> region by the king’s.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.19|<< Acts 12:19]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.21|Acts 12:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2264I\|Ἡρῴδης]]  [[G2371\|θυμομαχῶν]]  [[G5183\|Τυρίοις]]  [[G2532\|καὶ]]  [[G4606\|Σιδωνίοις·]]  [[G3661\|ὁμοθυμαδὸν]]  [[G1161\|δὲ]]  [[G3918\|παρῆσαν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G3982\|πείσαντες]]  [[G0986\|Βλάστον]]  [[G3588\|τὸν]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῦ]]  [[G2846\|κοιτῶνος]]  [[G3588\|τοῦ]]  [[G0935\|βασιλέως]]  [[G0154\|ᾐτοῦντο]]  [[G1515\|εἰρήνην,]]  [[G1223\|διὰ]]  [[G3588\|τὸ]]  [[G5142\|τρέφεσθαι]]  [[G0846\|αὐτῶν]]  [[G3588\|τὴν]]  [[G5561\|χώραν]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G0937\|βασιλικῆς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASTUS|BLASTUS]] • [[topic CAESAREA|CAESAREA]] • [[topic CHAMBERLAIN|CHAMBERLAIN]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic HEROD|HEROD]] • [[topic INFLUENCE|INFLUENCE]] • [[topic JERUSALEM|JERUSALEM]] • [[topic SELF-EXALTATION|SELF-EXALTATION]] • [[topic TYRE|TYRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.19|<< Acts 12:19]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.21|Acts 12:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

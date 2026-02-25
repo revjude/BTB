@@ -1,8 +1,63 @@
+---
+title: 1 Kings 1:28
+type: Verse
+kjv: "Then king David answered and said, Call me Bathsheba. And she came into the king’s presence, and stood before the king."
+bsb: "Then King David said, “Call in Bathsheba for me.” So she came into the king’s presence and stood before him."
+hebrew: "וַיַּ֨עַן הַמֶּ֤לֶךְ דָּוִד֙ וַיֹּ֔אמֶר קִרְאוּ־ לִ֖י לְבַת־ שָׁ֑בַע וַתָּבֹא֙ לִפְנֵ֣י הַמֶּ֔לֶךְ וַֽתַּעֲמֹ֖ד לִפְנֵ֥י הַמֶּֽלֶךְ׃"
+pericope: "[[1Kgs.1.28 David Renews His Oath to Bathsheba|David Renews His Oath to Bathsheba]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BATH-SHEBA (BATHSHEBA)|BATH-SHEBA (BATHSHEBA)]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic KING|KING]]"
+- "[[topic OATH|OATH]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H1732]]"
+- "[[H0559]]"
+- "[[H7121G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H1339]]"
+- "[[H0935G]]"
+- "[[H6440G]]"
+- "[[H5975G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:28**<big><big>[[1Kgs.1.28 David Renews His Oath to Bathsheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then king David answered and said, Call me Bathsheba. And she came into the king’s presence, and stood before the king.
 <small><sub>**BSB:**</sub></small>
 Then King David said, “Call in Bathsheba for me.” So she came into the king’s presence and stood before him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֨עַן]] [[H9009\|הַ]][[H4428G\|מֶּ֤לֶךְ]] [[H1732\|דָּוִד֙]] [[H9001\|וַ]][[H0559\|יֹּ֔אמֶר]] [[H7121G\|קִרְאוּ]][[H9014\|־]] [[H9005\|לִ֖]][[H9030\|י]] [[H9005\|לְ]][[H1339\|בַת]][[H9014\|־]] [[H1339\|שָׁ֑בַע]] [[H9001\|וַ]][[H0935G\|תָּבֹא֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9001\|וַֽ]][[H5975G\|תַּעֲמֹ֖ד]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BATH-SHEBA (BATHSHEBA)|BATH-SHEBA (BATHSHEBA)]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic KING|KING]] • [[topic OATH|OATH]] • [[topic POLITICS|POLITICS]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.27|<< 1 Kings 1:27]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.29|1 Kings 1:29 >>]]</td></tr></table>
 

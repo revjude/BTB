@@ -1,10 +1,50 @@
+---
+title: 1 Peter 3:13
+type: Verse
+kjv: "And who is he that will harm you, if ye be followers of that which is good?"
+bsb: "Who can harm you if you are zealous for what is good?"
+greek: "Καὶ τίς ὁ κακώσων ὑμᾶς, ἐὰν τοῦ ἀγαθοῦ ζηλωταὶ γένησθε;"
+pericope: "[[1Pet.3.8 Turning from Evil|Turning from Evil]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 3
+book/chapter: "[[1Pet.3|1 Peter 3]]"
+chronological_order: 1137
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G5101]]"
+- "[[G3588]]"
+- "[[G2559]]"
+- "[[G4771]]"
+- "[[G1437]]"
+- "[[G0018]]"
+- "[[G2207]]"
+- "[[G1096]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **1 Peter 3:13**<big><big>[[1Pet.3.8 Turning from Evil|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And who [is] he that will harm you, if ye be followers of that which is good?
 <small><sub>**BSB:**</sub></small>
 Who can harm you if you are zealous for what is good?
-<small><sub>**Literal:**</sub></small>
-And who [is] he who will harm you, if for that which [is] good zealous you shall be?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.12|<< 1 Peter 3:12]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.14|1 Peter 3:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G5101\|τίς]]  [[G3588\|ὁ]]  [[G2559\|κακώσων]]  [[G4771\|ὑμᾶς,]]  [[G1437\|ἐὰν]]  [[G3588\|τοῦ]]  [[G0018\|ἀγαθοῦ]]  [[G2207\|ζηλωταὶ]]  [[G1096\|γένησθε;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.12|<< 1 Peter 3:12]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.14|1 Peter 3:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

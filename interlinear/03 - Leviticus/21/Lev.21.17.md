@@ -1,8 +1,72 @@
+---
+title: Leviticus 21:17
+type: Verse
+kjv: "Speak unto Aaron, saying, Whosoever he be of thy seed in their generations that hath any blemish, let him not approach to offer the bread of his God."
+bsb: "“Say to Aaron, ‘For the generations to come, none of your descendants who has a physical defect may approach to offer the food of his God."
+hebrew: "דַּבֵּ֥ר אֶֽל־ אַהֲרֹ֖ן לֵאמֹ֑ר אִ֣ישׁ מִֽזַּרְעֲךָ֞ לְדֹרֹתָ֗ם אֲשֶׁ֨ר יִהְיֶ֥ה בוֹ֙ מ֔וּם לֹ֣א יִקְרַ֔ב לְהַקְרִ֖יב לֶ֥חֶם אֱלֹהָֽיו׃"
+pericope: "[[Lev.21.16 Restrictions against Those with Blemishes|Restrictions against Those with Blemishes]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 21
+book/chapter: "[[Lev.21|Leviticus 21]]"
+chronological_order: 153
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLEMISH|BLEMISH]]"
+- "[[topic BREAD|BREAD]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+strongs:
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H2233H]]"
+- "[[H9021]]"
+- "[[H1755]]"
+- "[[H9028]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H3971B]]"
+- "[[H3808]]"
+- "[[H7126G]]"
+- "[[H7126H]]"
+- "[[H3899H]]"
+- "[[H0430G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 21:17**<big><big>[[Lev.21.16 Restrictions against Those with Blemishes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto Aaron, saying, Whosoever [he be] of thy seed in their generations that hath [any] blemish, let him not approach to offer the bread of his God.
 <small><sub>**BSB:**</sub></small>
 “Say to Aaron, ‘For the generations to come, none of your descendants who has a physical defect may approach to offer the food of his God.
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבֵּ֥ר]] [[H0413\|אֶֽל]][[H9014\|־]] [[H0175\|אַהֲרֹ֖ן]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H0376G\|אִ֣ישׁ]] [[H9006\|מִֽ]][[H2233H\|זַּרְעֲ]][[H9021\|ךָ֞]] [[H9005\|לְ]][[H1755\|דֹרֹתָ֗]][[H9028\|ם]] [[H0834A\|אֲשֶׁ֨ר]] [[H1961\|יִהְיֶ֥ה]] [[H9003\|ב]][[H9033\|וֹ֙]] [[H3971B\|מ֔וּם]] [[H3808\|לֹ֣א]] [[H7126G\|יִקְרַ֔ב]] [[H9005\|לְ]][[H7126H\|הַקְרִ֖יב]] [[H3899H\|לֶ֥חֶם]] [[H0430G\|אֱלֹהָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLEMISH|BLEMISH]] • [[topic BREAD|BREAD]] • [[topic PRIEST|PRIEST]] • [[topic SANCTIFICATION|SANCTIFICATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.21.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.21.16|<< Leviticus 21:16]]</td><td align="center" style="border:none;">[[Lev.21|Leviticus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.21.18|Leviticus 21:18 >>]]</td></tr></table>
 

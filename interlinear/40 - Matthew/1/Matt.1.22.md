@@ -1,10 +1,57 @@
+---
+title: Matthew 1:22
+type: Verse
+kjv: "Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying,"
+bsb: "All this took place to fulfill what the Lord had said through the prophet:"
+greek: "Τοῦτο δὲ ὅλον γέγονεν ἵνα πληρωθῇ τὸ ῥηθὲν ὑπὸ τοῦ κυρίου διὰ τοῦ προφήτου λέγοντος·"
+pericope: "[[Matt.1.18 The Birth of Jesus|The Birth of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 1
+book/chapter: "[[Matt.1|Matthew 1]]"
+chronological_order: 931
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G3650]]"
+- "[[G1096]]"
+- "[[G2443]]"
+- "[[G4137]]"
+- "[[G3588]]"
+- "[[G2046]]"
+- "[[G5259G]]"
+- "[[G2962G]]"
+- "[[G1223]]"
+- "[[G4396]]"
+- "[[G3004G]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 1:22**<big><big>[[Matt.1.18 The Birth of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying,
 <small><sub>**BSB:**</sub></small>
 All this took place to fulfill what the Lord had said through the prophet:
-<small><sub>**Literal:**</sub></small>
-This then all has come to pass that may be fulfilled that [which] having been spoken by the Lord through the prophet saying;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.21|<< Matthew 1:21]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.23|Matthew 1:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Τοῦτο]]  [[G1161\|δὲ]]  [[G3650\|ὅλον]]  [[G1096\|γέγονεν]]  [[G2443\|ἵνα]]  [[G4137\|πληρωθῇ]]  [[G3588\|τὸ]]  [[G2046\|ῥηθὲν]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G4396\|προφήτου]]  [[G3004G\|λέγοντος·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.21|<< Matthew 1:21]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.23|Matthew 1:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

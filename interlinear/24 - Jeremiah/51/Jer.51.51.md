@@ -1,8 +1,61 @@
+---
+title: Jeremiah 51:51
+type: Verse
+kjv: "We are confounded, because we have heard reproach: shame hath covered our faces: for strangers are come into the sanctuaries of the LORD’S house."
+bsb: "“We are ashamed because we have heard reproach; disgrace has covered our faces, because foreigners have entered the holy places of the LORD’s house.”"
+hebrew: "בֹּ֚שְׁנוּ כִּֽי־ שָׁמַ֣עְנוּ חֶרְפָּ֔ה כִּסְּתָ֥ה כְלִמָּ֖ה פָּנֵ֑ינוּ כִּ֚י בָּ֣אוּ זָרִ֔ים עַֽל־ מִקְדְּשֵׁ֖י בֵּ֥ית יְהוָֽה׃ ס"
+pericope: "[[Jer.51.20 Babylon’s Punishment|Babylon’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H0954]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H2781]]"
+- "[[H3680]]"
+- "[[H3639]]"
+- "[[H6440H]]"
+- "[[H9025]]"
+- "[[H0935G]]"
+- "[[H2114A]]"
+- "[[H5921A]]"
+- "[[H4720]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 51:51**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We are confounded, because we have heard reproach: shame hath covered our faces: for strangers are come into the sanctuaries of the LORD’S house.
 <small><sub>**BSB:**</sub></small>
 “We are ashamed because we have heard reproach; disgrace has covered our faces, because foreigners have entered the holy places of the LORD’s house.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0954\|בֹּ֚שְׁנוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H8085G\|שָׁמַ֣עְנוּ]] [[H2781\|חֶרְפָּ֔ה]] [[H3680\|כִּסְּתָ֥ה]] [[H3639\|כְלִמָּ֖ה]] [[H6440H\|פָּנֵ֑י]][[H9025\|נוּ]] [[H3588A\|כִּ֚י]] [[H0935G\|בָּ֣אוּ]] [[H2114A\|זָרִ֔ים]] [[H5921A\|עַֽל]][[H9014\|־]] [[H4720\|מִקְדְּשֵׁ֖י]] [[H1004Q\|בֵּ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic PERSIA|PERSIA]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.50|<< Jeremiah 51:50]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.52|Jeremiah 51:52 >>]]</td></tr></table>
 
@@ -21,7 +74,7 @@ We are confounded, because we have heard reproach: shame hath covered our faces:
 | to  |**<big>&#8207;[[H5921A\|עַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] holy places of  |**<big>&#8207;[[H4720\|מִקְדְּשֵׁ֖י]]&#8207; </big>**| mik.de.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] house of  |**<big>&#8207;[[H1004Q\|בֵּ֥ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.50|<< Jeremiah 51:50]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.52|Jeremiah 51:52 >>]]</td></tr></table>
 
 

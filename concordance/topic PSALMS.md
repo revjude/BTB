@@ -1,31 +1,31 @@
 
 **PSALMS**
 
-→ Of Moses, celebrating the deliverance at the Red Sea [[Exod.15.1|Ex 15:1]]-[[Exod.15.19|19]]
+→ Of Moses, celebrating the deliverance at the Red Sea [[Exod.15.1|Ex 15:1-19]]
 
-→ Didactic songs composed by Moses, celebrating the providence,  righteousness, and judgments of God [[Deut.32.1|De 32:1]]-[[Deut.32.43|43]]; [[Ps.90|Ps 90]]
+→ Didactic songs composed by Moses, celebrating the providence,  righteousness, and judgments of God [[Deut.32.1|De 32:1-43]]; [[Ps.90|Ps 90]]
 
 → Song of Deborah, celebrating Israel' s victory over Sisera [[Judg.5|Jud 5]]
 
-→ Of Hannah, in thankfulness for a son [[1Sam.2.1|1Sa 2:1]]-[[1Sam.2.10|10]]
+→ Of Hannah, in thankfulness for a son [[1Sam.2.1|1Sa 2:1-10]]
 
 → Of David
 
 - In celebrating his deliverance [[2Sam.22|2Sa 22]]
 
-- Upon the occasion of moving the ark of the covenant [[1Chr.16.7|1Ch 16:7]]-[[1Chr.16.36|36]]
+- Upon the occasion of moving the ark of the covenant [[1Chr.16.7|1Ch 16:7-36]]
 
-- At the close of his reign [[2Sam.23.2|2Sa 23:2]]-[[2Sam.23.7|7]]; [[1Chr.29.10|1Ch 29:10]]-[[1Chr.29.19|19]]
+- At the close of his reign [[2Sam.23.2|2Sa 23:2-7]]; [[1Chr.29.10|1Ch 29:10-19]]
 
 → Of Isaiah [[Isa.12|Isa 12]]; [[Isa.25|25]]; [[Isa.26|26]]
 
-→ Of Hezekiah, celebrating deliverance from death [[Isa.38.9|Isa  38:9]]-[[Isa.38.20|20]]
+→ Of Hezekiah, celebrating deliverance from death [[Isa.38.9|Isa  38:9-20]]
 
-→ Of Mary [[Luke.1.46|Lu 1:46]]-[[Luke.1.55|55]]
+→ Of Mary [[Luke.1.46|Lu 1:46-55]]
 
-→ Elisabeth [[Luke.1.42|Lu 1:42]]-[[Luke.1.45|45]]
+→ Elisabeth [[Luke.1.42|Lu 1:42-45]]
 
-→ Zacharias [[Luke.1.68|Lu 1:68]]-[[Luke.1.79|79]]
+→ Zacharias [[Luke.1.68|Lu 1:68-79]]
 
 → AFFLICTIONS [[Ps.3|Ps 3]]; [[Ps.4|4]]; [[Ps.5|5]]; [[Ps.7|7]]; [[Ps.11|11]]; [[Ps.13|13]]; [[Ps.16|16]]; [[Ps.17|17]]; [[Ps.22|22]]; [[Ps.26|26]];  [[Ps.27|27]]; [[Ps.28|28]]; [[Ps.31|31]]; [[Ps.35|35]]; [[Ps.41|41]]; [[Ps.42|42]]; [[Ps.43|43]]; [[Ps.44|44]]; [[Ps.54|54]]; [[Ps.55|55]]; [[Ps.56|56]]; [[Ps.57|57]]; [[Ps.59|59]]; [[Ps.60|60]]; [[Ps.61|61]]; [[Ps.62|62]]; [[Ps.63|63]]; [[Ps.64|64]]; [[Ps.69|69]]; [[Ps.70|70]];  [[Ps.71|71]]; [[Ps.74|74]]; [[Ps.77|77]]; [[Ps.79|79]]; [[Ps.80|80]]; [[Ps.83|83]]; [[Ps.84|84]]; [[Ps.86|86]]; [[Ps.88|88]]; [[Ps.89|89]]; [[Ps.94|94]]; [[Ps.102|102]]; [[Ps.109|109]]; [[Ps.120|120]]; [[Ps.123|123]]; [[Ps.129|129]]; [[Ps.137|137]]; [[Ps.140|140]]; [[Ps.141|141]];  [[Ps.142|142]]; [[Ps.143|143]]
 

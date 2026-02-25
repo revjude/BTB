@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sacrifice, Obedience, and Prayer
+type: Pericope
 pericope: "[[Heb.13.15 Sacrifice, Obedience, and Prayer|Sacrifice, Obedience, and Prayer]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 13
 book/chapter: "[[Heb.13|Hebrews 13]]"
-genre:
+chronological_order: 1152
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 5
 verses:
 - "[[Heb.13.15]]"
 - "[[Heb.13.16]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Heb.13.19]]"
 ---
 
-[[Heb.13|Hebrews 13:15 - Hebrews 13:19]]
+<small>[[Heb.13|Hebrews 13:15-19]]</small>
 *Sacrifice, Obedience, and Prayer*
 
 [[Heb.13.15|15]] By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of \[our\] lips giving thanks to his name.

@@ -1,8 +1,59 @@
+---
+title: 2 Kings 25:6
+type: Verse
+kjv: "So they took the king, and brought him up to the king of Babylon to Riblah; and they gave judgment upon him."
+bsb: "The Chaldeans seized the king and brought him up to the king of Babylon at Riblah, where they pronounced judgment on him."
+hebrew: "וַֽיִּתְפְּשׂוּ֙ אֶת־ הַמֶּ֔לֶךְ וַיַּעֲל֥וּ אֹת֛וֹ אֶל־ מֶ֥לֶךְ בָּבֶ֖ל רִבְלָ֑תָה וַיְדַבְּר֥וּ אִתּ֖וֹ מִשְׁפָּֽט׃"
+pericope: "[[2Kgs.25.1 Nebuchadnezzar Besieges Jerusalem|Nebuchadnezzar Besieges Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 25
+book/chapter: "[[2Kgs.25|2 Kings 25]]"
+chronological_order: 742
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic RIBLAH|RIBLAH]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H8610]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H5927H]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H0894]]"
+- "[[H7247H]]"
+- "[[H9011]]"
+- "[[H1696I]]"
+- "[[H0854]]"
+- "[[H4941G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 25:6**<big><big>[[2Kgs.25.1 Nebuchadnezzar Besieges Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they took the king, and brought him up to the king of Babylon to Riblah; and they gave judgment upon him.
 <small><sub>**BSB:**</sub></small>
 The Chaldeans seized the king and brought him up to the king of Babylon at Riblah, where they pronounced judgment on him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H8610\|יִּתְפְּשׂוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9001\|וַ]][[H5927H\|יַּעֲל֥וּ]] [[H0853\|אֹת֛]][[H9033\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֥לֶךְ]] [[H0894\|בָּבֶ֖ל]] [[H7247H\|רִבְלָ֑תָ]][[H9011\|ה]] [[H9001\|וַ]][[H1696I\|יְדַבְּר֥וּ]] [[H0854\|אִתּ֖]][[H9033\|וֹ]] [[H4941G\|מִשְׁפָּֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic PROPHECY|PROPHECY]] • [[topic RIBLAH|RIBLAH]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.5|<< 2 Kings 25:5]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.7|2 Kings 25:7 >>]]</td></tr></table>
 

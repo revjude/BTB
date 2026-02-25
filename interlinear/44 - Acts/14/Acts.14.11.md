@@ -1,10 +1,66 @@
+---
+title: Acts 14:11
+type: Verse
+kjv: "And when the people saw what Paul had done, they lifted up their voices, saying in the speech of Lycaonia, The gods are come down to us in the likeness of men."
+bsb: "When the crowds saw what Paul had done, they lifted up their voices in the Lycaonian language: “The gods have come down to us in human form!”"
+greek: "οἵ τε ὄχλοι ἰδόντες ὃ ἐποίησεν ὁ Παῦλος ἐπῆραν τὴν φωνὴν αὐτῶν Λυκαονιστὶ λέγοντες· οἱ θεοὶ ὁμοιωθέντες ἀνθρώποις κατέβησαν πρὸς ἡμᾶς·"
+pericope: "[[Acts.14.8 The Visit to Lystra and Derbe|The Visit to Lystra and Derbe]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 14
+book/chapter: "[[Acts.14|Acts 14]]"
+chronological_order: 1032
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic HOMAGE|HOMAGE]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic LYCAONIA|LYCAONIA]]"
+- "[[topic LYSTRA|LYSTRA]]"
+- "[[topic MERCURIUS|MERCURIUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G5037]]"
+- "[[G3793]]"
+- "[[G1492H]]"
+- "[[G3739]]"
+- "[[G4160G]]"
+- "[[G3972G]]"
+- "[[G1869]]"
+- "[[G5456G]]"
+- "[[G0846]]"
+- "[[G3072]]"
+- "[[G3004G]]"
+- "[[G2316]]"
+- "[[G3666]]"
+- "[[G0444]]"
+- "[[G2597]]"
+- "[[G4314]]"
+- "[[G3165]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Acts 14:11**<big><big>[[Acts.14.8 The Visit to Lystra and Derbe|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the people saw what Paul had done, they lifted up their voices, saying in the speech of Lycaonia, The gods are come down to us in the likeness of men.
 <small><sub>**BSB:**</sub></small>
 When the crowds saw what Paul had done, they lifted up their voices in the Lycaonian language: “The gods have come down to us in human form!”
-<small><sub>**Literal:**</sub></small>
-<the> And the crowds having seen what did <the> Paul lifted up the voice of them in Lycaonian saying; The gods having become like as men have come down to us;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.10|<< Acts 14:10]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.12|Acts 14:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἵ]]  [[G5037\|τε]]  [[G3793\|ὄχλοι]]  [[G1492H\|ἰδόντες]]  [[G3739\|ὃ]]  [[G4160G\|ἐποίησεν]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος]]  [[G1869\|ἐπῆραν]]  [[G3588\|τὴν]]  [[G5456G\|φωνὴν]]  [[G0846\|αὐτῶν]]  [[G3072\|Λυκαονιστὶ]]  [[G3004G\|λέγοντες·]]  [[G3588\|οἱ]]  [[G2316\|θεοὶ]]  [[G3666\|ὁμοιωθέντες]]  [[G0444\|ἀνθρώποις]]  [[G2597\|κατέβησαν]]  [[G4314\|πρὸς]]  [[G3165\|ἡμᾶς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOMAGE|HOMAGE]] • [[topic LANGUAGE|LANGUAGE]] • [[topic LYCAONIA|LYCAONIA]] • [[topic LYSTRA|LYSTRA]] • [[topic MERCURIUS|MERCURIUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.10|<< Acts 14:10]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.12|Acts 14:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

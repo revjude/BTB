@@ -1,8 +1,67 @@
+---
+title: Job 2:7
+type: Verse
+kjv: "So went Satan forth from the presence of the LORD, and smote Job with sore boils from the sole of his foot unto his crown."
+bsb: "So Satan went out from the presence of the LORD and infected Job with terrible boils from the soles of his feet to the crown of his head."
+hebrew: "וַיֵּצֵא֙ הַשָּׂטָ֔ן מֵאֵ֖ת פְּנֵ֣י יְהוָ֑ה וַיַּ֤ךְ אֶת־ אִיּוֹב֙ בִּשְׁחִ֣ין רָ֔ע מִכַּ֥ף רַגְל֖וֹ וְעַ֥ד קָדְקֳדֽוֹ׃"
+pericope: "[[Job.2.1 Job Loses His Health|Job Loses His Health]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 2
+book/chapter: "[[Job.2|Job 2]]"
+chronological_order: 13
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BOIL|BOIL]]"
+- "[[topic JOB|JOB]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H9009]]"
+- "[[H7854]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H6440H]]"
+- "[[H3068G]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0347]]"
+- "[[H9003]]"
+- "[[H7822]]"
+- "[[H7451A]]"
+- "[[H3709H]]"
+- "[[H7272]]"
+- "[[H9023]]"
+- "[[H5704]]"
+- "[[H9002]]"
+- "[[H6936]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Job 2:7**<big><big>[[Job.2.1 Job Loses His Health|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So went Satan forth from the presence of the LORD, and smote Job with sore boils from the sole of his foot unto his crown.
 <small><sub>**BSB:**</sub></small>
 So Satan went out from the presence of the LORD and infected Job with terrible boils from the soles of his feet to the crown of his head.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵא֙]] [[H9009\|הַ]][[H7854\|שָּׂטָ֔ן]] [[H9006\|מֵ]][[H0854\|אֵ֖ת]] [[H6440H\|פְּנֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H5221\|יַּ֤ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H0347\|אִיּוֹב֙]] [[H9003\|בִּ]][[H7822\|שְׁחִ֣ין]] [[H7451A\|רָ֔ע]] [[H9006\|מִ]][[H3709H\|כַּ֥ף]] [[H7272\|רַגְל֖]][[H9023\|וֹ]] [[H9002\|וְ]][[H5704\|עַ֥ד]] [[H6936\|קָדְקֳדֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOIL|BOIL]] • [[topic JOB|JOB]] • [[topic SATAN|SATAN]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.2.6|<< Job 2:6]]</td><td align="center" style="border:none;">[[Job.2|Job 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.2.8|Job 2:8 >>]]</td></tr></table>
 

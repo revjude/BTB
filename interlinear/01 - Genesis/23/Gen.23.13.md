@@ -1,8 +1,80 @@
+---
+title: Genesis 23:13
+type: Verse
+kjv: "And he spake unto Ephron in the audience of the people of the land, saying, But if thou wilt give it, I pray thee, hear me: I will give thee money for the field; take it of me, and I will bury my dead there."
+bsb: "and said to Ephron in their presence, “If you will please listen to me, I will pay you the price of the field. Accept it from me, so that I may bury my dead there.”"
+hebrew: "וַיְדַבֵּ֨ר אֶל־ עֶפְר֜וֹן בְּאָזְנֵ֤י עַם־ הָאָ֙רֶץ֙ לֵאמֹ֔ר אַ֛ךְ אִם־ אַתָּ֥ה ל֖וּ שְׁמָעֵ֑נִי נָתַ֜תִּי כֶּ֤סֶף הַשָּׂדֶה֙ קַ֣ח מִמֶּ֔נִּי וְאֶקְבְּרָ֥ה אֶת־ מֵתִ֖י שָֽׁמָּה׃"
+pericope: "[[Gen.23.1 The Death and Burial of Sarah|The Death and Burial of Sarah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 23
+book/chapter: "[[Gen.23|Genesis 23]]"
+chronological_order: 65
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CAVE|CAVE]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic EPHRON|EPHRON]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic SILVER|SILVER]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6085G]]"
+- "[[H9003]]"
+- "[[H0241H]]"
+- "[[H5971A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0389]]"
+- "[[H0518A]]"
+- "[[H0859A]]"
+- "[[H3863]]"
+- "[[H8085G]]"
+- "[[H9030]]"
+- "[[H5414N]]"
+- "[[H3701H]]"
+- "[[H7704G]]"
+- "[[H3947H]]"
+- "[[H4480A]]"
+- "[[H9002]]"
+- "[[H6912]]"
+- "[[H0853]]"
+- "[[H4191]]"
+- "[[H9020]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 23:13**<big><big>[[Gen.23.1 The Death and Burial of Sarah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he spake unto Ephron in the audience of the people of the land, saying, But if thou [wilt give it], I pray thee, hear me: I will give thee money for the field; take [it] of me, and I will bury my dead there.
 <small><sub>**BSB:**</sub></small>
 and said to Ephron in their presence, “If you will please listen to me, I will pay you the price of the field. Accept it from me, so that I may bury my dead there.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֨ר]] [[H0413\|אֶל]][[H9014\|־]] [[H6085G\|עֶפְר֜וֹן]] [[H9003\|בְּ]][[H0241H\|אָזְנֵ֤י]] [[H5971A\|עַם]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H0389\|אַ֛ךְ]] [[H0518A\|אִם]][[H9014\|־]] [[H0859A\|אַתָּ֥ה]] [[H3863\|ל֖וּ]] [[H8085G\|שְׁמָעֵ֑]][[H9030\|נִי]] [[H5414N\|נָתַ֜תִּי]] [[H3701H\|כֶּ֤סֶף]] [[H9009\|הַ]][[H7704G\|שָּׂדֶה֙]] [[H3947H\|קַ֣ח]] [[H4480A\|מִמֶּ֔]][[H9030\|נִּי]] [[H9002\|וְ]][[H6912\|אֶקְבְּרָ֥ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4191\|מֵתִ֖]][[H9020\|י]] [[H8033G\|שָֽׁמָּ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CAVE|CAVE]] • [[topic COMMERCE|COMMERCE]] • [[topic EPHRON|EPHRON]] • [[topic LAND|LAND]] • [[topic MONEY|MONEY]] • [[topic SILVER|SILVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.23.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.23.12|<< Genesis 23:12]]</td><td align="center" style="border:none;">[[Gen.23|Genesis 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.23.14|Genesis 23:14 >>]]</td></tr></table>
 

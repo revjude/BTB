@@ -1,10 +1,58 @@
+---
+title: John 2:20
+type: Verse
+kjv: "Then said the Jews, Forty and six years was this temple in building, and wilt thou rear it up in three days?"
+bsb: "“This temple took forty-six years to build,” the Jews replied, “and You are going to raise it up in three days?”"
+greek: "εἶπαν οὖν οἱ Ἰουδαῖοι· τεσσεράκοντα καὶ ἓξ ἔτεσιν οἰκοδομήθη ὁ ναὸς οὗτος, καὶ σὺ ἐν τρισὶν ἡμέραις ἐγερεῖς αὐτόν;"
+pericope: "[[John.2.12 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 2
+book/chapter: "[[John.2|John 2]]"
+chronological_order: 940
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G2453]]"
+- "[[G5062]]"
+- "[[G2532]]"
+- "[[G1803]]"
+- "[[G2094]]"
+- "[[G3618]]"
+- "[[G3485]]"
+- "[[G3778]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G5140]]"
+- "[[G2250]]"
+- "[[G1453]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **John 2:20**<big><big>[[John.2.12 Jesus Cleanses the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said the Jews, Forty and six years was this temple in building, and wilt thou rear it up in three days?
 <small><sub>**BSB:**</sub></small>
 “This temple took forty-six years to build,” the Jews replied, “and You are going to raise it up in three days?”
-<small><sub>**Literal:**</sub></small>
-Said therefore the Jews; For forty and six years was built <the> temple this, and You yourself in three days will raise up it?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.19|<< John 2:19]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.21|John 2:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπαν]]  [[G3767\|οὖν]]  [[G3588\|οἱ]]  [[G2453\|Ἰουδαῖοι·]]  [[G5062\|τεσσεράκοντα]]  [[G2532\|καὶ]]  [[G1803\|ἓξ]]  [[G2094\|ἔτεσιν]]  [[G3618\|οἰκοδομήθη]]  [[G3588\|ὁ]]  [[G3485\|ναὸς]]  [[G3778\|οὗτος,]]  [[G2532\|καὶ]]  [[G4771\|σὺ]]  [[G1722\|ἐν]]  [[G5140\|τρισὶν]]  [[G2250\|ἡμέραις]]  [[G1453\|ἐγερεῖς]]  [[G0846\|αὐτόν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.19|<< John 2:19]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.21|John 2:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

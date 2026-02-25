@@ -1,8 +1,68 @@
+---
+title: Ezekiel 20:6
+type: Verse
+kjv: "In the day that I lifted up mine hand unto them, to bring them forth of the land of Egypt into a land that I had espied for them, flowing with milk and honey, which is the glory of all lands:"
+bsb: "On that day I swore to bring them out of the land of Egypt into a land that I had searched out for them, a land flowing with milk and honey, the glory of all lands."
+hebrew: "בַּיּ֣וֹם הַה֗וּא נָשָׂ֤אתִי יָדִי֙ לָהֶ֔ם לְהֽוֹצִיאָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם אֶל־ אֶ֜רֶץ אֲשֶׁר־ תַּ֣רְתִּי לָהֶ֗ם זָבַ֤ת חָלָב֙ וּדְבַ֔שׁ צְבִ֥י הִ֖יא לְכָל־ הָאֲרָצֽוֹת׃"
+pericope: "[[Ezek.20.1 Israel’s Rebellion in Egypt|Israel’s Rebellion in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HONEY|HONEY]]"
+- "[[topic MILK|MILK]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H5375P]]"
+- "[[H3027S]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3318H]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H8446]]"
+- "[[H2100G]]"
+- "[[H2461]]"
+- "[[H9002]]"
+- "[[H1706]]"
+- "[[H6643A]]"
+- "[[H3605]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:6**<big><big>[[Ezek.20.1 Israel’s Rebellion in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the day [that] I lifted up mine hand unto them, to bring them forth of the land of Egypt into a land that I had espied for them, flowing with milk and honey, which [is] the glory of all lands:
 <small><sub>**BSB:**</sub></small>
 On that day I swore to bring them out of the land of Egypt into a land that I had searched out for them, a land flowing with milk and honey, the glory of all lands.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֗וּא]] [[H5375P\|נָשָׂ֤אתִי]] [[H3027S\|יָדִ]][[H9020\|י֙]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H9005\|לְ]][[H3318H\|הֽוֹצִיאָ֖]][[H9038\|ם]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֜רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H8446\|תַּ֣רְתִּי]] [[H9005\|לָ]][[H9038\|הֶ֗ם]] [[H2100G\|זָבַ֤ת]] [[H2461\|חָלָב֙]] [[H9002\|וּ]][[H1706\|דְבַ֔שׁ]] [[H6643A\|צְבִ֥י]] [[H1931\|הִ֖יא]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אֲרָצֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HONEY|HONEY]] • [[topic MILK|MILK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.5|<< Ezekiel 20:5]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.7|Ezekiel 20:7 >>]]</td></tr></table>
 

@@ -1,8 +1,76 @@
+---
+title: 2 Samuel 6:21
+type: Verse
+kjv: "And David said unto Michal, It was before the LORD, which chose me before thy father, and before all his house, to appoint me ruler over the people of the LORD, over Israel: therefore will I play before the LORD."
+bsb: "But David said to Michal, “I was dancing before the LORD, who chose me over your father and all his house when He appointed me ruler over the LORD’s people Israel. I will celebrate before the LORD,"
+hebrew: "וַיֹּ֣אמֶר דָּוִד֮ אֶל־ מִיכַל֒ לִפְנֵ֣י יְהוָ֗ה אֲשֶׁ֨ר בָּֽחַר־ בִּ֤י מֵֽאָבִיךְ֙ וּמִכָּל־ בֵּית֔וֹ לְצַוֹּ֨ת אֹתִ֥י נָגִ֛יד עַל־ עַ֥ם יְהוָ֖ה עַל־ יִשְׂרָאֵ֑ל וְשִׂחַקְתִּ֖י לִפְנֵ֥י יְהוָֽה׃"
+pericope: "[[2Sam.6.16 Michal’s Contempt for David|Michal’s Contempt for David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 6
+book/chapter: "[[2Sam.6|2 Samuel 6]]"
+chronological_order: 392
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MICHAL|MICHAL]]"
+- "[[topic RETALIATION|RETALIATION]]"
+- "[[topic SARCASM|SARCASM]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4324G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H0977]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H0001G]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H1004M]]"
+- "[[H9023]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H5057]]"
+- "[[H5921A]]"
+- "[[H5971A]]"
+- "[[H3478]]"
+- "[[H7832]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 6:21**<big><big>[[2Sam.6.16 Michal’s Contempt for David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said unto Michal, [It was] before the LORD, which chose me before thy father, and before all his house, to appoint me ruler over the people of the LORD, over Israel: therefore will I play before the LORD.
 <small><sub>**BSB:**</sub></small>
 But David said to Michal, “I was dancing before the LORD, who chose me over your father and all his house when He appointed me ruler over the LORD’s people Israel. I will celebrate before the LORD,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H1732\|דָּוִד֮]] [[H0413\|אֶל]][[H9014\|־]] [[H4324G\|מִיכַל֒]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֗ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H0977\|בָּֽחַר]][[H9014\|־]] [[H9003\|בִּ֤]][[H9030\|י]] [[H9006\|מֵֽ]][[H0001G\|אָבִי]][[H9022\|ךְ֙]] [[H9002\|וּ]][[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H1004M\|בֵּית֔]][[H9023\|וֹ]] [[H9005\|לְ]][[H6680\|צַוֹּ֨ת]] [[H0853\|אֹתִ֥]][[H9030\|י]] [[H5057\|נָגִ֛יד]] [[H5921A\|עַל]][[H9014\|־]] [[H5971A\|עַ֥ם]] [[H3068G\|יְהוָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וְ]][[H7832\|שִׂחַקְתִּ֖י]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic FAMILY|FAMILY]] • [[topic MALICE|MALICE]] • [[topic MICHAL|MICHAL]] • [[topic RETALIATION|RETALIATION]] • [[topic SARCASM|SARCASM]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.20|<< 2 Samuel 6:20]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.22|2 Samuel 6:22 >>]]</td></tr></table>
 

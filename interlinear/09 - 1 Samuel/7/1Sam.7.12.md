@@ -1,8 +1,70 @@
+---
+title: 1 Samuel 7:12
+type: Verse
+kjv: "Then Samuel took a stone, and set it between Mizpeh and Shen, and called the name of it Ebenezer, saying, Hitherto hath the LORD helped us."
+bsb: "Afterward, Samuel took a stone and set it up between Mizpah and Shen. He named it Ebenezer, saying, “Thus far the LORD has helped us.”"
+hebrew: "וַיִּקַּ֨ח שְׁמוּאֵ֜ל אֶ֣בֶן אַחַ֗ת וַיָּ֤שֶׂם בֵּֽין־ הַמִּצְפָּה֙ וּבֵ֣ין הַשֵּׁ֔ן וַיִּקְרָ֥א אֶת־ שְׁמָ֖הּ אֶ֣בֶן הָעָ֑זֶר וַיֹּאמַ֕ר עַד־ הֵ֖נָּה עֲזָרָ֥נוּ יְהוָֽה׃"
+pericope: "[[1Sam.7.1 Samuel Subdues the Philistines|Samuel Subdues the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 7
+book/chapter: "[[1Sam.7|1 Samuel 7]]"
+chronological_order: 286
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic EBENEZER|EBENEZER]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PILLAR|PILLAR]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic SHEN|SHEN]]"
+- "[[topic STONES|STONES]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H8050G]]"
+- "[[H0068G]]"
+- "[[H0259]]"
+- "[[H7760A]]"
+- "[[H0996G]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4709G]]"
+- "[[H9002]]"
+- "[[H8129]]"
+- "[[H7121H]]"
+- "[[H0853]]"
+- "[[H8034]]"
+- "[[H9024]]"
+- "[[H0072]]"
+- "[[H0559]]"
+- "[[H5704]]"
+- "[[H2008]]"
+- "[[H5826]]"
+- "[[H9035]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 7:12**<big><big>[[1Sam.7.1 Samuel Subdues the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Samuel took a stone, and set [it] between Mizpeh and Shen, and called the name of it Ebenezer, saying, Hitherto hath the LORD helped us.
 <small><sub>**BSB:**</sub></small>
 Afterward, Samuel took a stone and set it up between Mizpah and Shen. He named it Ebenezer, saying, “Thus far the LORD has helped us.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֨ח]] [[H8050G\|שְׁמוּאֵ֜ל]] [[H0068G\|אֶ֣בֶן]] [[H0259\|אַחַ֗ת]] [[H9001\|וַ]][[H7760A\|יָּ֤שֶׂם]] [[H0996G\|בֵּֽין]][[H9014\|־]] [[H9009\|הַ]][[H4709G\|מִּצְפָּה֙]] [[H9002\|וּ]][[H0996G\|בֵ֣ין]] [[H9009\|הַ]][[H8129\|שֵּׁ֔ן]] [[H9001\|וַ]][[H7121H\|יִּקְרָ֥א]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמָ֖]][[H9024\|הּ]] [[H0072\|אֶ֣בֶן]] [[H0072\|הָעָ֑זֶר]] [[H9001\|וַ]][[H0559\|יֹּאמַ֕ר]] [[H5704\|עַד]][[H9014\|־]] [[H2008\|הֵ֖נָּה]] [[H5826\|עֲזָרָ֥]][[H9035\|נוּ]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EBENEZER|EBENEZER]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PILLAR|PILLAR]] • [[topic SAMUEL|SAMUEL]] • [[topic SHEN|SHEN]] • [[topic STONES|STONES]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.7.11|<< 1 Samuel 7:11]]</td><td align="center" style="border:none;">[[1Sam.7|1 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.7.13|1 Samuel 7:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

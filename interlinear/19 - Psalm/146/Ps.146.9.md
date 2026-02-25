@@ -1,8 +1,63 @@
+---
+title: Psalm 146:9
+type: Verse
+kjv: "The LORD preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down."
+bsb: "The LORD protects foreigners; He sustains the fatherless and the widow, but the ways of the wicked He frustrates."
+hebrew: "יְהוָ֤ה׀ שֹׁ֘מֵ֤ר אֶת־ גֵּרִ֗ים יָת֣וֹם וְאַלְמָנָ֣ה יְעוֹדֵ֑ד וְדֶ֖רֶךְ רְשָׁעִ֣ים יְעַוֵּֽת׃"
+pericope: "[[Ps.146.1 Praise the LORD, O My Soul|Praise the LORD, O My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 146
+book/chapter: "[[Ps.146|Psalm 146]]"
+chronological_order: 894
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H8104H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1616]]"
+- "[[H3490]]"
+- "[[H9002]]"
+- "[[H0490]]"
+- "[[H5749A]]"
+- "[[H1870G]]"
+- "[[H7563]]"
+- "[[H5791]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 146:9**<big><big>[[Ps.146.1 Praise the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down.
 <small><sub>**BSB:**</sub></small>
 The LORD protects foreigners; He sustains the fatherless and the widow, but the ways of the wicked He frustrates.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֤ה]][[H9015\|׀]] [[H8104H\|שֹׁ֘מֵ֤ר]] [[H0853\|אֶת]][[H9014\|־]] [[H1616\|גֵּרִ֗ים]] [[H3490\|יָת֣וֹם]] [[H9002\|וְ]][[H0490\|אַלְמָנָ֣ה]] [[H5749A\|יְעוֹדֵ֑ד]] [[H9002\|וְ]][[H1870G\|דֶ֖רֶךְ]] [[H7563\|רְשָׁעִ֣ים]] [[H5791\|יְעַוֵּֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHILDREN|CHILDREN]] • [[topic GOD|GOD]] • [[topic ORPHAN|ORPHAN]] • [[topic PRAISE|PRAISE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.146.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.146.8|<< Psalms 146:8]]</td><td align="center" style="border:none;">[[Ps.146|Psalms 146]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.146.10|Psalms 146:10 >>]]</td></tr></table>
 

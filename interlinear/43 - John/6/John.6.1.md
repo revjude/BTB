@@ -1,10 +1,50 @@
+---
+title: John 6:1
+type: Verse
+kjv: "After these things Jesus went over the sea of Galilee, which is the sea of Tiberias."
+bsb: "After this, Jesus crossed to the other side of the Sea of Galilee (that is, the Sea of Tiberias)."
+greek: "Μετὰ ταῦτα ἀπῆλθεν ὁ Ἰησοῦς πέραν τῆς θαλάσσης τῆς Γαλιλαίας τῆς Τιβεριάδος."
+pericope: "[[John.6.1 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TIBERIAS|TIBERIAS]]"
+strongs:
+- "[[G3326]]"
+- "[[G3778]]"
+- "[[G0565]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G4008]]"
+- "[[G2281]]"
+- "[[G1056H]]"
+- "[[G5085]]"
+texts:
+- NKO
+---
+
 **John 6:1**<big><big>[[John.6.1 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 After these things Jesus went over the sea of Galilee, which is [the sea] of Tiberias.
 <small><sub>**BSB:**</sub></small>
 After this, Jesus crossed to the other side of the Sea of Galilee (that is, the Sea of Tiberias).
-<small><sub>**Literal:**</sub></small>
-After these things went away <the> Jesus over the Sea <the> of Galilee — <the> of Tiberias.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.47|<< John 5:47]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.2|John 6:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3326\|Μετὰ]]  [[G3778\|ταῦτα]]  [[G0565\|ἀπῆλθεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G4008\|πέραν]]  [[G3588\|τῆς]]  [[G2281\|θαλάσσης]]  [[G3588\|τῆς]]  [[G1056H\|Γαλιλαίας]]  [[G3588\|τῆς]]  [[G5085\|Τιβεριάδος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TIBERIAS|TIBERIAS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.47|<< John 5:47]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.2|John 6:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

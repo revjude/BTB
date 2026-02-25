@@ -1,10 +1,60 @@
+---
+title: Matthew 26:52
+type: Verse
+kjv: "Then said Jesus unto him, Put up again thy sword into his place: for all they that take the sword shall perish with the sword."
+bsb: "“Put your sword back in its place,” Jesus said to him. “For all who draw the sword will die by the sword."
+jesus_said: "Put up again thy sword into his place: for all they that take the sword shall perish with the sword."
+greek: "Τότε λέγει αὐτῷ ὁ Ἰησοῦς· ἀπόστρεψον τὴν μάχαιράν σου εἰς τὸν τόπον αὐτῆς· πάντες γὰρ οἱ λαβόντες μάχαιραν ἐν μαχαίρῃ ἀπολοῦνται."
+pericope: "[[Matt.26.47 The Betrayal of Jesus|The Betrayal of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G5119]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G0654]]"
+- "[[G3162]]"
+- "[[G4771]]"
+- "[[G1519]]"
+- "[[G5117]]"
+- "[[G3956]]"
+- "[[G1063]]"
+- "[[G2983]]"
+- "[[G1722]]"
+- "[[G0622]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Matthew 26:52**<big><big>[[Matt.26.47 The Betrayal of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said Jesus unto him, Put up again thy sword into his place: for all they that take the sword shall perish with the sword.
 <small><sub>**BSB:**</sub></small>
 “Put your sword back in its place,” Jesus said to him. “For all who draw the sword will die by the sword.
-<small><sub>**Literal:**</sub></small>
-Then says to him <the> Jesus; do return the sword of you into the place of it; all for those having taken [the] sword by [the] sword will perish.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.51|<< Matthew 26:51]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.53|Matthew 26:53 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G0654\|ἀπόστρεψον]]  [[G3588\|τὴν]]  [[G3162\|μάχαιράν]]  [[G4771\|σου]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G5117\|τόπον]]  [[G0846\|αὐτῆς·]]  [[G3956\|πάντες]]  [[G1063\|γὰρ]]  [[G3588\|οἱ]]  [[G2983\|λαβόντες]]  [[G3162\|μάχαιραν]]  [[G1722\|ἐν]]  [[G3162\|μαχαίρῃ]]  [[G0622\|ἀπολοῦνται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MALICE|MALICE]] • [[topic MEEKNESS|MEEKNESS]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.51|<< Matthew 26:51]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.53|Matthew 26:53 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

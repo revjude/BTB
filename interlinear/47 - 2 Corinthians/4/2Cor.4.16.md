@@ -1,10 +1,61 @@
+---
+title: 2 Corinthians 4:16
+type: Verse
+kjv: "For which cause we faint not; but though our outward man perish, yet the inward man is renewed day by day."
+bsb: "Therefore we do not lose heart. Though our outer self is wasting away, yet our inner self is being renewed day by day."
+greek: "διὸ οὐκ ἐγκακοῦμεν· ἀλλ᾽ εἰ καὶ ὁ ἔξω ἡμῶν ἄνθρωπος διαφθείρεται, ἀλλ᾽ ὁ ἔσω ἡμῶν ἀνακαινοῦται ἡμέρᾳ καὶ ἡμέρᾳ."
+pericope: "[[2Cor.4.7 Treasure in Jars of Clay|Treasure in Jars of Clay]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 4
+book/chapter: "[[2Cor.4|2 Corinthians 4]]"
+chronological_order: 1077
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic MAN|MAN]]"
+- "[[topic SUFFERING|SUFFERING]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1352]]"
+- "[[G3756]]"
+- "[[G1573]]"
+- "[[G0235]]"
+- "[[G1487G]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1854]]"
+- "[[G3165]]"
+- "[[G0444]]"
+- "[[G1311]]"
+- "[[G2080]]"
+- "[[G0341]]"
+- "[[G2250]]"
+texts:
+- NKO
+- N(k)O
+- no
+---
+
 **2 Corinthians 4:16**<big><big>[[2Cor.4.7 Treasure in Jars of Clay|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For which cause we faint not; but though our outward man perish, yet the inward [man] is renewed day by day.
 <small><sub>**BSB:**</sub></small>
 Therefore we do not lose heart. Though our outer self is wasting away, yet our inner self is being renewed day by day.
-<small><sub>**Literal:**</sub></small>
-Therefore not we lose heart; but if even the outward of us man is being brought to decay, yet the inner of us is being renewed by day and by day.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.4.15|<< 2 Corinthians 4:15]]</td><td align="center" style="border:none;">[[2Cor.4|2 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.4.17|2 Corinthians 4:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1352\|διὸ]]  [[G3756\|οὐκ]]  [[G1573\|ἐγκακοῦμεν·]]  [[G0235\|ἀλλ᾽]]  [[G1487G\|εἰ]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G1854\|ἔξω]]  [[G3165\|ἡμῶν]]  [[G0444\|ἄνθρωπος]]  [[G1311\|διαφθείρεται,]]  [[G0235\|ἀλλ᾽]]  [[G3588\|ὁ]]  [[G2080\|ἔσω]]  [[G3165\|ἡμῶν]]  [[G0341\|ἀνακαινοῦται]]  [[G2250\|ἡμέρᾳ]]  [[G2532\|καὶ]]  [[G2250\|ἡμέρᾳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ASSURANCE|ASSURANCE]] • [[topic FAITH|FAITH]] • [[topic MAN|MAN]] • [[topic SUFFERING|SUFFERING]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.4.15|<< 2 Corinthians 4:15]]</td><td align="center" style="border:none;">[[2Cor.4|2 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.4.17|2 Corinthians 4:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

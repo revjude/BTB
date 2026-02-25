@@ -1,8 +1,53 @@
+---
+title: Job 22:16
+type: Verse
+kjv: "Which were cut down out of time, whose foundation was overflown with a flood:"
+bsb: "They were snatched away before their time, and their foundations were swept away by a flood."
+hebrew: "אֲשֶֽׁר־ קֻמְּט֥וּ וְלֹא־ עֵ֑ת נָ֝הָ֗ר יוּצַ֥ק יְסוֹדָֽם׃"
+pericope: "[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|Eliphaz：Can a Man Be of Use to God？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 22
+book/chapter: "[[Job.22|Job 22]]"
+chronological_order: 33
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ANTEDILUVIANS|ANTEDILUVIANS]]"
+- "[[topic FLOOD|FLOOD]]"
+strongs:
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H7059]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H6256]]"
+- "[[H5104H]]"
+- "[[H3332G]]"
+- "[[H3247H]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 22:16**<big><big>[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which were cut down out of time, whose foundation was overflown with a flood:
 <small><sub>**BSB:**</sub></small>
 They were snatched away before their time, and their foundations were swept away by a flood.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H7059\|קֻמְּט֥וּ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H6256\|עֵ֑ת]] [[H5104H\|נָ֝הָ֗ר]] [[H3332G\|יוּצַ֥ק]] [[H3247H\|יְסוֹדָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTEDILUVIANS|ANTEDILUVIANS]] • [[topic FLOOD|FLOOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.22.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.22.15|<< Job 22:15]]</td><td align="center" style="border:none;">[[Job.22|Job 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.22.17|Job 22:17 >>]]</td></tr></table>
 

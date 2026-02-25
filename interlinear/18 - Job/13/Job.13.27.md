@@ -1,8 +1,59 @@
+---
+title: Job 13:27
+type: Verse
+kjv: "Thou puttest my feet also in the stocks, and lookest narrowly unto all my paths; thou settest a print upon the heels of my feet."
+bsb: "You put my feet in the stocks and stand watch over all my paths; You set a limit for the soles of my feet."
+hebrew: "וְתָ֘שֵׂ֤ם בַּסַּ֨ד׀ רַגְלַ֗י וְתִשְׁמ֥וֹר כָּל־ אָרְחוֹתָ֑י עַל־ שָׁרְשֵׁ֥י רַ֝גְלַ֗י תִּתְחַקֶּֽה׃"
+pericope: "[[Job.13.1 Job Prepares His Case|Job Prepares His Case]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 13
+book/chapter: "[[Job.13|Job 13]]"
+chronological_order: 24
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic REASONING|REASONING]]"
+- "[[topic SIN|SIN]]"
+- "[[topic STOCKS|STOCKS]]"
+strongs:
+- "[[H9002]]"
+- "[[H7760H]]"
+- "[[H9003]]"
+- "[[H5465]]"
+- "[[H9015]]"
+- "[[H7272]]"
+- "[[H9020]]"
+- "[[H8104I]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0734]]"
+- "[[H5921A]]"
+- "[[H8328]]"
+- "[[H2707]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 13:27**<big><big>[[Job.13.1 Job Prepares His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou puttest my feet also in the stocks, and lookest narrowly unto all my paths; thou settest a print upon the heels of my feet.
 <small><sub>**BSB:**</sub></small>
 You put my feet in the stocks and stand watch over all my paths; You set a limit for the soles of my feet.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7760H\|תָ֘שֵׂ֤ם]] [[H9003\|בַּ]][[H5465\|סַּ֨ד]][[H9015\|׀]] [[H7272\|רַגְלַ֗]][[H9020\|י]] [[H9002\|וְ]][[H8104I\|תִשְׁמ֥וֹר]] [[H3605\|כָּל]][[H9014\|־]] [[H0734\|אָרְחוֹתָ֑]][[H9020\|י]] [[H5921A\|עַל]][[H9014\|־]] [[H8328\|שָׁרְשֵׁ֥י]] [[H7272\|רַ֝גְלַ֗]][[H9020\|י]] [[H2707\|תִּתְחַקֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic REASONING|REASONING]] • [[topic SIN|SIN]] • [[topic STOCKS|STOCKS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.13.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.13.26|<< Job 13:26]]</td><td align="center" style="border:none;">[[Job.13|Job 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13.28|Job 13:28 >>]]</td></tr></table>
 

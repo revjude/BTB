@@ -1,8 +1,55 @@
+---
+title: Psalm 35:18
+type: Verse
+kjv: "I will give thee thanks in the great congregation: I will praise thee among much people."
+bsb: "Then I will give You thanks in the great assembly; I will praise You among many people."
+hebrew: "א֭וֹדְךָ בְּקָהָ֣ל רָ֑ב בְּעַ֖ם עָצ֣וּם אֲהַֽלְלֶֽךָּ׃"
+pericope: "[[Ps.35.1 Contend with My Opponents, O LORD|Contend with My Opponents, O LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 35
+book/chapter: "[[Ps.35|Psalm 35]]"
+chronological_order: 363
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H3034]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H6951]]"
+- "[[H7227A]]"
+- "[[H5971A]]"
+- "[[H6099]]"
+- "[[H1984B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 35:18**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will give thee thanks in the great congregation: I will praise thee among much people.
 <small><sub>**BSB:**</sub></small>
 Then I will give You thanks in the great assembly; I will praise You among many people.
+<small><sub>**Hebrew:**</sub></small>
+[[H3034\|א֭וֹדְ]][[H9031\|ךָ]] [[H9003\|בְּ]][[H6951\|קָהָ֣ל]] [[H7227A\|רָ֑ב]] [[H9003\|בְּ]][[H5971A\|עַ֖ם]] [[H6099\|עָצ֣וּם]] [[H1984B\|אֲהַֽלְלֶֽ]][[H9031\|ךָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENEMY|ENEMY]] • [[topic PRAISE|PRAISE]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.17|<< Psalms 35:17]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.19|Psalms 35:19 >>]]</td></tr></table>
 

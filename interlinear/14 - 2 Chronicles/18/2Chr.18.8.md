@@ -1,8 +1,58 @@
+---
+title: 2 Chronicles 18:8
+type: Verse
+kjv: "And the king of Israel called for one of his officers, and said, Fetch quickly Micaiah the son of Imla."
+bsb: "So the king of Israel called one of his officials and said, “Bring Micaiah son of Imlah at once.”"
+hebrew: "וַיִּקְרָא֙ מֶ֣לֶךְ יִשְׂרָאֵ֔ל אֶל־ סָרִ֖יס אֶחָ֑ד וַיֹּ֕אמֶר מַהֵ֖ר מִיכָ֥יְהוּ בֶן־ יִמְלָֽא׃"
+pericope: "[[2Chr.18.1 Jehoshaphat Allies with Ahab|Jehoshaphat Allies with Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 18
+book/chapter: "[[2Chr.18|2 Chronicles 18]]"
+chronological_order: 570
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic IMLA|IMLA]]"
+- "[[topic MICAIAH|MICAIAH]]"
+- "[[topic PREACHING|PREACHING]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5631]]"
+- "[[H0259]]"
+- "[[H0559]]"
+- "[[H4116A]]"
+- "[[H4319]]"
+- "[[H4321G]]"
+- "[[H1121A]]"
+- "[[H3229]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Chronicles 18:8**<big><big>[[2Chr.18.1 Jehoshaphat Allies with Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Israel called for one [of his] officers, and said, Fetch quickly Micaiah the son of Imla.
 <small><sub>**BSB:**</sub></small>
 So the king of Israel called one of his officials and said, “Bring Micaiah son of Imlah at once.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָא֙]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0413\|אֶל]][[H9014\|־]] [[H5631\|סָרִ֖יס]] [[H0259\|אֶחָ֑ד]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H4116A\|מַהֵ֖ר]] [[H4321G\|מִיכָ֥יְהוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H3229\|יִמְלָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMLA|IMLA]] • [[topic MICAIAH|MICAIAH]] • [[topic PREACHING|PREACHING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.7|<< 2 Chronicles 18:7]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.9|2 Chronicles 18:9 >>]]</td></tr></table>
 

@@ -1,10 +1,58 @@
+---
+title: Acts 4:7
+type: Verse
+kjv: "And when they had set them in the midst, they asked, By what power, or by what name, have ye done this?"
+bsb: "They had Peter and John brought in and began to question them: “By what power or what name did you do this?”"
+greek: "καὶ στήσαντες αὐτοὺς ἐν τῷ μέσῳ ἐπυνθάνοντο· ἐν ποίᾳ δυνάμει ἢ ἐν ποίῳ ὀνόματι ἐποιήσατε τοῦτο ὑμεῖς;¶"
+pericope: "[[Acts.4.1 Peter and John before the Sanhedrin|Peter and John before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CAIAPHAS|CAIAPHAS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[G2532]]"
+- "[[G2476]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3319]]"
+- "[[G4441]]"
+- "[[G4169]]"
+- "[[G1411]]"
+- "[[G2228]]"
+- "[[G3686]]"
+- "[[G4160G]]"
+- "[[G3778]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **Acts 4:7**<big><big>[[Acts.4.1 Peter and John before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they had set them in the midst, they asked, By what power, or by what name, have ye done this?
 <small><sub>**BSB:**</sub></small>
 They had Peter and John brought in and began to question them: “By what power or what name did you do this?”
-<small><sub>**Literal:**</sub></small>
-And having placed them in the midst they were inquiring; In what power or in what name did this you yourselves?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.6|<< Acts 4:6]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.8|Acts 4:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2476\|στήσαντες]]  [[G0846\|αὐτοὺς]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3319\|μέσῳ]]  [[G4441\|ἐπυνθάνοντο·]]  [[G1722\|ἐν]]  [[G4169\|ποίᾳ]]  [[G1411\|δυνάμει]]  [[G2228\|ἢ]]  [[G1722\|ἐν]]  [[G4169\|ποίῳ]]  [[G3686\|ὀνόματι]]  [[G4160G\|ἐποιήσατε]]  [[G3778\|τοῦτο]]  [[G4771\|ὑμεῖς;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAIAPHAS|CAIAPHAS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOHN|JOHN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.6|<< Acts 4:6]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.8|Acts 4:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,68 @@
+---
+title: Colossians 1:9
+type: Verse
+kjv: "For this cause we also, since the day we heard it, do not cease to pray for you, and to desire that ye might be filled with the knowledge of his will in all wisdom and spiritual understanding;"
+bsb: "For this reason, since the day we heard about you, we have not stopped praying for you and asking God to fill you with the knowledge of His will in all spiritual wisdom and understanding,"
+greek: "Διὰ τοῦτο καὶ ἡμεῖς, ἀφ᾽ ἧς ἡμέρας ἠκούσαμεν, οὐ παυόμεθα ὑπὲρ ὑμῶν προσευχόμενοι καὶ αἰτούμενοι ἵνα πληρωθῆτε τὴν ἐπίγνωσιν τοῦ θελήματος αὐτοῦ ἐν πάσῃ σοφίᾳ καὶ συνέσει πνευματικῇ"
+pericope: "[[Col.1.3 Thanksgiving and Prayer|Thanksgiving and Prayer]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 1
+book/chapter: "[[Col.1|Colossians 1]]"
+chronological_order: 1121
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PRAYERFULNESS|PRAYERFULNESS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G3165]]"
+- "[[G0575]]"
+- "[[G3739]]"
+- "[[G2250]]"
+- "[[G0191]]"
+- "[[G3756]]"
+- "[[G3973]]"
+- "[[G5228]]"
+- "[[G4771]]"
+- "[[G4336]]"
+- "[[G0154]]"
+- "[[G2443]]"
+- "[[G4137]]"
+- "[[G3588]]"
+- "[[G1922]]"
+- "[[G2307]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G4678]]"
+- "[[G4907]]"
+- "[[G4152]]"
+texts:
+- NKO
+---
+
 **Colossians 1:9**<big><big>[[Col.1.3 Thanksgiving and Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For this cause we also, since the day we heard [it], do not cease to pray for you, and to desire that ye might be filled with the knowledge of his will in all wisdom and spiritual understanding;
 <small><sub>**BSB:**</sub></small>
 For this reason, since the day we heard about you, we have not stopped praying for you and asking God to fill you with the knowledge of His will in all spiritual wisdom and understanding,
-<small><sub>**Literal:**</sub></small>
-Because of this also we ourselves from the day we heard, not cease for you praying and asking that you may be filled with the knowledge of the will of Him in all wisdom and in understanding spiritual<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.8|<< Colossians 1:8]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.10|Colossians 1:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|Διὰ]]  [[G3778\|τοῦτο]]  [[G2532\|καὶ]]  [[G3165\|ἡμεῖς,]]  [[G0575\|ἀφ᾽]]  [[G3739\|ἧς]]  [[G2250\|ἡμέρας]]  [[G0191\|ἠκούσαμεν,]]  [[G3756\|οὐ]]  [[G3973\|παυόμεθα]]  [[G5228\|ὑπὲρ]]  [[G4771\|ὑμῶν]]  [[G4336\|προσευχόμενοι]]  [[G2532\|καὶ]]  [[G0154\|αἰτούμενοι]]  [[G2443\|ἵνα]]  [[G4137\|πληρωθῆτε]]  [[G3588\|τὴν]]  [[G1922\|ἐπίγνωσιν]]  [[G3588\|τοῦ]]  [[G2307\|θελήματος]]  [[G0846\|αὐτοῦ]]  [[G1722\|ἐν]]  [[G3956\|πάσῃ]]  [[G4678\|σοφίᾳ]]  [[G2532\|καὶ]]  [[G4907\|συνέσει]]  [[G4152\|πνευματικῇ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic PRAYERFULNESS|PRAYERFULNESS]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.8|<< Colossians 1:8]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.10|Colossians 1:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

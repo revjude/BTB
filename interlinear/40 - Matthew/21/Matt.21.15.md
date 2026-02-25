@@ -1,10 +1,63 @@
+---
+title: Matthew 21:15
+type: Verse
+kjv: "And when the chief priests and scribes saw the wonderful things that he did, and the children crying in the temple, and saying, Hosanna to the Son of David; they were sore displeased,"
+bsb: "But the chief priests and scribes were indignant when they saw the wonders He performed and the children shouting in the temple courts, “Hosanna to the Son of David!”"
+greek: "ἰδόντες δὲ οἱ ἀρχιερεῖς καὶ οἱ γραμματεῖς τὰ θαυμάσια ἃ ἐποίησεν καὶ τοὺς παῖδας τοὺς κράζοντας ἐν τῷ ἱερῷ καὶ λέγοντας· ὡσαννὰ τῷ υἱῷ Δαυίδ, ἠγανάκτησαν"
+pericope: "[[Matt.21.12 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 21
+book/chapter: "[[Matt.21|Matthew 21]]"
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic HOSANNA|HOSANNA]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G1492H]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G0749]]"
+- "[[G2532]]"
+- "[[G1122]]"
+- "[[G2297]]"
+- "[[G3739]]"
+- "[[G4160G]]"
+- "[[G3816]]"
+- "[[G2896]]"
+- "[[G1722]]"
+- "[[G2411]]"
+- "[[G3004G]]"
+- "[[G5614]]"
+- "[[G5207]]"
+- "[[G1138]]"
+- "[[G0023]]"
+texts:
+- NKO
+- no
+---
+
 **Matthew 21:15**<big><big>[[Matt.21.12 Jesus Cleanses the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the chief priests and scribes saw the wonderful things that he did, and the children crying in the temple, and saying, Hosanna to the Son of David; they were sore displeased,
 <small><sub>**BSB:**</sub></small>
 But the chief priests and scribes were indignant when they saw the wonders He performed and the children shouting in the temple courts, “Hosanna to the Son of David!”
-<small><sub>**Literal:**</sub></small>
-Having seen now the chief priests and the scribes the wonders that He did and the children who are crying out in the temple and saying; Hosanna to the Son of David, they were indignant<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.14|<< Matthew 21:14]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.16|Matthew 21:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1492H\|ἰδόντες]]  [[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G0749\|ἀρχιερεῖς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G1122\|γραμματεῖς]]  [[G3588\|τὰ]]  [[G2297\|θαυμάσια]]  [[G3739\|ἃ]]  [[G4160G\|ἐποίησεν]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G3816\|παῖδας]]  [[G3588\|τοὺς]]  [[G2896\|κράζοντας]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2411\|ἱερῷ]]  [[G2532\|καὶ]]  [[G3004G\|λέγοντας·]]  [[G5614\|ὡσαννὰ]]  [[G3588\|τῷ]]  [[G5207\|υἱῷ]]  [[G1138\|Δαυίδ,]]  [[G0023\|ἠγανάκτησαν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic HOSANNA|HOSANNA]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SCRIBE (S)|SCRIBE (S)]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.14|<< Matthew 21:14]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.16|Matthew 21:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

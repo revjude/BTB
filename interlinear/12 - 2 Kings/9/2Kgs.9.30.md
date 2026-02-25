@@ -1,8 +1,73 @@
+---
+title: 2 Kings 9:30
+type: Verse
+kjv: "And when Jehu was come to Jezreel, Jezebel heard of it; and she painted her face, and tired her head, and looked out at a window."
+bsb: "Now when Jehu arrived in Jezreel, Jezebel heard of it. So she painted her eyes, adorned her head, and looked down from a window."
+hebrew: "וַיָּב֥וֹא יֵה֖וּא יִזְרְעֶ֑אלָה וְאִיזֶ֣בֶל שָׁמְעָ֗ה וַתָּ֨שֶׂם בַּפּ֤וּךְ עֵינֶ֙יהָ֙ וַתֵּ֣יטֶב אֶת־ רֹאשָׁ֔הּ וַתַּשְׁקֵ֖ף בְּעַ֥ד הַחַלּֽוֹן׃"
+pericope: "[[2Kgs.9.30 Jezebel’s Violent Death|Jezebel’s Violent Death]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 9
+book/chapter: "[[2Kgs.9|2 Kings 9]]"
+chronological_order: 582
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic COSMETICS|COSMETICS]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic JEZEBEL|JEZEBEL]]"
+- "[[topic JEZREEL|JEZREEL]]"
+- "[[topic NABOTH|NABOTH]]"
+- "[[topic PAINTING|PAINTING]]"
+- "[[topic USURPATION|USURPATION]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H3058H]]"
+- "[[H3157H]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H0348]]"
+- "[[H8085G]]"
+- "[[H7760H]]"
+- "[[H9003]]"
+- "[[H6320]]"
+- "[[H5869A]]"
+- "[[H9024]]"
+- "[[H3190]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7218A]]"
+- "[[H8259]]"
+- "[[H1157]]"
+- "[[H9009]]"
+- "[[H2474]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 9:30**<big><big>[[2Kgs.9.30 Jezebel’s Violent Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Jehu was come to Jezreel, Jezebel heard [of it]; and she painted her face, and tired her head, and looked out at a window.
 <small><sub>**BSB:**</sub></small>
 Now when Jehu arrived in Jezreel, Jezebel heard of it. So she painted her eyes, adorned her head, and looked down from a window.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּב֥וֹא]] [[H3058H\|יֵה֖וּא]] [[H3157H\|יִזְרְעֶ֑אלָ]][[H9011\|ה]] [[H9002\|וְ]][[H0348\|אִיזֶ֣בֶל]] [[H8085G\|שָׁמְעָ֗ה]] [[H9001\|וַ]][[H7760H\|תָּ֨שֶׂם]] [[H9003\|בַּ]][[H6320\|פּ֤וּךְ]] [[H5869A\|עֵינֶ֙י]][[H9024\|הָ֙]] [[H9001\|וַ]][[H3190\|תֵּ֣יטֶב]] [[H0853\|אֶת]][[H9014\|־]] [[H7218A\|רֹאשָׁ֔]][[H9024\|הּ]] [[H9001\|וַ]][[H8259\|תַּשְׁקֵ֖ף]] [[H1157\|בְּעַ֥ד]] [[H9009\|הַ]][[H2474\|חַלּֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COSMETICS|COSMETICS]] • [[topic DECISION|DECISION]] • [[topic ELIJAH|ELIJAH]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JEHU|JEHU]] • [[topic JEZEBEL|JEZEBEL]] • [[topic JEZREEL|JEZREEL]] • [[topic NABOTH|NABOTH]] • [[topic PAINTING|PAINTING]] • [[topic USURPATION|USURPATION]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.29|<< 2 Kings 9:29]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.31|2 Kings 9:31 >>]]</td></tr></table>
 

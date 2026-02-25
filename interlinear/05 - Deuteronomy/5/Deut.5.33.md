@@ -1,8 +1,72 @@
+---
+title: Deuteronomy 5:33
+type: Verse
+kjv: "Ye shall walk in all the ways which the LORD your God hath commanded you, that ye may live, and that it may be well with you, and that ye may prolong your days in the land which ye shall possess."
+bsb: "You must walk in all the ways that the LORD your God has commanded you, so that you may live and prosper and prolong your days in the land that you will possess."
+hebrew: "בְּכָל־ הַדֶּ֗רֶךְ אֲשֶׁ֨ר צִוָּ֜ה יְהוָ֧ה אֱלֹהֵיכֶ֛ם אֶתְכֶ֖ם תֵּלֵ֑כוּ לְמַ֤עַן תִּֽחְיוּן֙ וְט֣וֹב לָכֶ֔ם וְהַאֲרַכְתֶּ֣ם יָמִ֔ים בָּאָ֖רֶץ אֲשֶׁ֥ר תִּֽירָשֽׁוּן׃"
+pericope: "[[Deut.5.22 Moses Intercedes for the People|Moses Intercedes for the People]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 5
+book/chapter: "[[Deut.5|Deuteronomy 5]]"
+chronological_order: 201
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic WALKING|WALKING]]"
+strongs:
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1870G]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H1980I]]"
+- "[[H4616]]"
+- "[[H2421]]"
+- "[[H9013]]"
+- "[[H9001]]"
+- "[[H2895]]"
+- "[[H9005]]"
+- "[[H0748]]"
+- "[[H3117K]]"
+- "[[H0776G]]"
+- "[[H3423H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 5:33**<big><big>[[Deut.5.22 Moses Intercedes for the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall walk in all the ways which the LORD your God hath commanded you, that ye may live, and [that it may be] well with you, and [that] ye may prolong [your] days in the land which ye shall possess.
 <small><sub>**BSB:**</sub></small>
 You must walk in all the ways that the LORD your God has commanded you, so that you may live and prosper and prolong your days in the land that you will possess.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1870G\|דֶּ֗רֶךְ]] [[H0834A\|אֲשֶׁ֨ר]] [[H6680\|צִוָּ֜ה]] [[H3068G\|יְהוָ֧ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֛ם]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H1980I\|תֵּלֵ֑כוּ]] [[H4616\|לְמַ֤עַן]] [[H2421\|תִּֽחְיוּ]][[H9013\|ן֙]] [[H9001\|וְ]][[H2895\|ט֣וֹב]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H9001\|וְ]][[H0748\|הַאֲרַכְתֶּ֣ם]] [[H3117K\|יָמִ֔ים]] [[H9003\|בָּ]][[H0776G\|אָ֖רֶץ]] [[H0834A\|אֲשֶׁ֥ר]] [[H3423H\|תִּֽירָשֽׁוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic WALKING|WALKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.32|<< Deuteronomy 5:32]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.1|Deuteronomy 6:1 >>]]</td></tr></table>
 

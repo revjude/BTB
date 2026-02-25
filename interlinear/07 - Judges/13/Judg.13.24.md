@@ -1,8 +1,61 @@
+---
+title: Judges 13:24
+type: Verse
+kjv: "And the woman bare a son, and called his name Samson: and the child grew, and the LORD blessed him."
+bsb: "So the woman gave birth to a son and named him Samson. The boy grew, and the LORD blessed him."
+hebrew: "וַתֵּ֤לֶד הָֽאִשָּׁה֙ בֵּ֔ן וַתִּקְרָ֥א אֶת־ שְׁמ֖וֹ שִׁמְשׁ֑וֹן וַיִּגְדַּ֣ל הַנַּ֔עַר וַֽיְבָרְכֵ֖הוּ יְהוָֽה׃"
+pericope: "[[Judg.13.1 The Birth of Samson|The Birth of Samson]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 13
+book/chapter: "[[Judg.13|Judges 13]]"
+chronological_order: 267
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONCEPTION|CONCEPTION]]"
+- "[[topic MANOAH|MANOAH]]"
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic ZORAH|ZORAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3205]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H1121A]]"
+- "[[H7121H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H8123]]"
+- "[[H1431]]"
+- "[[H5288]]"
+- "[[H1288]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 13:24**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the woman bare a son, and called his name Samson: and the child grew, and the LORD blessed him.
 <small><sub>**BSB:**</sub></small>
 So the woman gave birth to a son and named him Samson. The boy grew, and the LORD blessed him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3205\|תֵּ֤לֶד]] [[H9009\|הָֽ]][[H0802G\|אִשָּׁה֙]] [[H1121A\|בֵּ֔ן]] [[H9001\|וַ]][[H7121H\|תִּקְרָ֥א]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H8123\|שִׁמְשׁ֑וֹן]] [[H9001\|וַ]][[H1431\|יִּגְדַּ֣ל]] [[H9009\|הַ]][[H5288\|נַּ֔עַר]] [[H9001\|וַֽ]][[H1288\|יְבָרְכֵ֖]][[H9033\|הוּ]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic CONCEPTION|CONCEPTION]] • [[topic MANOAH|MANOAH]] • [[topic SAMSON|SAMSON]] • [[topic ZORAH|ZORAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.23|<< Judges 13:23]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.25|Judges 13:25 >>]]</td></tr></table>
 

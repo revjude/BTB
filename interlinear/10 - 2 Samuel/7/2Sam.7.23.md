@@ -1,8 +1,75 @@
+---
+title: 2 Samuel 7:23
+type: Verse
+kjv: "And what one nation in the earth is like thy people, even like Israel, whom God went to redeem for a people to himself, and to make him a name, and to do for you great things and terrible, for thy land, before thy people, which thou redeemedst to thee from Egypt, from the nations and their gods?"
+bsb: "And who is like Your people Israel—the one nation on earth whom God went out to redeem as a people for Himself and to make a name for Himself? You performed great and awesome wonders by driving out nations and their gods from before Your people, whom You redeemed for Yourself from Egypt."
+hebrew: "וּמִ֤י כְעַמְּךָ֙ כְּיִשְׂרָאֵ֔ל גּ֥וֹי אֶחָ֖ד בָּאָ֑רֶץ אֲשֶׁ֣ר הָלְכֽוּ־ אֱ֠לֹהִים לִפְדּֽוֹת־ ל֨וֹ לְעָ֜ם וְלָשׂ֧וּם ל֣וֹ שֵׁ֗ם וְלַעֲשׂ֨וֹת לָכֶ֜ם הַגְּדוּלָּ֤ה וְנֹֽרָאוֹת֙ לְאַרְצֶ֔ךָ מִפְּנֵ֣י עַמְּךָ֗ אֲשֶׁ֨ר פָּדִ֤יתָ לְּךָ֙ מִמִּצְרַ֔יִם גּוֹיִ֖ם וֵאלֹהָֽיו׃"
+pericope: "[[2Sam.7.18 David’s Prayer of Thanksgiving|David’s Prayer of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 7
+book/chapter: "[[2Sam.7|2 Samuel 7]]"
+chronological_order: 393
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9002]]"
+- "[[H4310]]"
+- "[[H9004]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H3478]]"
+- "[[H1471A]]"
+- "[[H0259]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H1980G]]"
+- "[[H9014]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H6299]]"
+- "[[H9033]]"
+- "[[H7760A]]"
+- "[[H8034]]"
+- "[[H6213A]]"
+- "[[H9036]]"
+- "[[H9009]]"
+- "[[H1420]]"
+- "[[H3372H]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9031]]"
+- "[[H4714G]]"
+- "[[H0430]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 7:23**<big><big>[[2Sam.7.18 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And what one nation in the earth [is] like thy people, [even] like Israel, whom God went to redeem for a people to himself, and to make him a name, and to do for you great things and terrible, for thy land, before thy people, which thou redeemedst to thee from Egypt, [from] the nations and their gods?
 <small><sub>**BSB:**</sub></small>
 And who is like Your people Israel—the one nation on earth whom God went out to redeem as a people for Himself and to make a name for Himself? You performed great and awesome wonders by driving out nations and their gods from before Your people, whom You redeemed for Yourself from Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4310\|מִ֤י]] [[H9004\|כְ]][[H5971A\|עַמְּ]][[H9021\|ךָ֙]] [[H9004\|כְּ]][[H3478\|יִשְׂרָאֵ֔ל]] [[H1471A\|גּ֥וֹי]] [[H0259\|אֶחָ֖ד]] [[H9003\|בָּ]][[H0776G\|אָ֑רֶץ]] [[H0834A\|אֲשֶׁ֣ר]] [[H1980G\|הָלְכֽוּ]][[H9014\|־]] [[H0430G\|אֱ֠לֹהִים]] [[H9005\|לִ]][[H6299\|פְדּֽוֹת]][[H9014\|־]] [[H9005\|ל֨]][[H9033\|וֹ]] [[H9005\|לְ]][[H5971A\|עָ֜ם]] [[H9002\|וְ]][[H9005\|לָ]][[H7760A\|שׂ֧וּם]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H8034\|שֵׁ֗ם]] [[H9002\|וְ]][[H9005\|לַ]][[H6213A\|עֲשׂ֨וֹת]] [[H9005\|לָ]][[H9036\|כֶ֜ם]] [[H9009\|הַ]][[H1420\|גְּדוּלָּ֤ה]] [[H9002\|וְ]][[H3372H\|נֹֽרָאוֹת֙]] [[H9005\|לְ]][[H0776G\|אַרְצֶ֔]][[H9021\|ךָ]] [[H9006\|מִ]][[H6440G\|פְּנֵ֣י]] [[H5971A\|עַמְּ]][[H9021\|ךָ֗]] [[H0834A\|אֲשֶׁ֨ר]] [[H6299\|פָּדִ֤יתָ]] [[H9005\|לְּ]][[H9031\|ךָ֙]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֔יִם]] [[H1471A\|גּוֹיִ֖ם]] [[H9002\|וֵ]][[H0430\|אלֹהָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GOD|GOD]] • [[topic HUMILITY|HUMILITY]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.22|<< 2 Samuel 7:22]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.24|2 Samuel 7:24 >>]]</td></tr></table>
 

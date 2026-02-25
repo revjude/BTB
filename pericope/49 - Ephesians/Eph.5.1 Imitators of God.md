@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Imitators of God
+type: Pericope
 pericope: "[[Eph.5.1 Imitators of God|Imitators of God]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Ephesians
 chapter: 5
 book/chapter: "[[Eph.5|Ephesians 5]]"
-genre:
+chronological_order: 1115
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - theological treatise
+verse_count: 7
 verses:
 - "[[Eph.5.1]]"
 - "[[Eph.5.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Eph.5.7]]"
 ---
 
-[[Eph.5|Ephesians 5:1 - Ephesians 5:7]]
+<small>[[Eph.5|Ephesians 5:1-7]]</small>
 *Imitators of God*
 
 [[Eph.5.1|1]] Be ye therefore followers of God, as dear children;

@@ -1,8 +1,71 @@
+---
+title: Joshua 11:21
+type: Verse
+kjv: "And at that time came Joshua, and cut off the Anakims from the mountains, from Hebron, from Debir, from Anab, and from all the mountains of Judah, and from all the mountains of Israel: Joshua destroyed them utterly with their cities."
+bsb: "At that time Joshua proceeded to eliminate the Anakim from the hill country of Hebron, Debir, and Anab, and from all the hill country of Judah and of Israel. Joshua devoted them to destruction, along with their cities."
+hebrew: "וַיָּבֹ֨א יְהוֹשֻׁ֜עַ בָּעֵ֣ת הַהִ֗יא וַיַּכְרֵ֤ת אֶת־ הָֽעֲנָקִים֙ מִן־ הָהָ֤ר מִן־ חֶבְרוֹן֙ מִן־ דְּבִ֣ר מִן־ עֲנָ֔ב וּמִכֹּל֙ הַ֣ר יְהוּדָ֔ה וּמִכֹּ֖ל הַ֣ר יִשְׂרָאֵ֑ל עִם־ עָרֵיהֶ֖ם הֶחֱרִימָ֥ם יְהוֹשֻֽׁעַ׃"
+pericope: "[[Josh.11.16 Joshua Takes the Whole Land|Joshua Takes the Whole Land]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 11
+book/chapter: "[[Josh.11|Joshua 11]]"
+chronological_order: 241
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ANAB|ANAB]]"
+- "[[topic ANAKIM|ANAKIM]]"
+- "[[topic DEBIR|DEBIR]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H3091G]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H3772I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6062]]"
+- "[[H4480A]]"
+- "[[H2022H]]"
+- "[[H2275A]]"
+- "[[H1688A]]"
+- "[[H6024]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H3063G]]"
+- "[[H3478]]"
+- "[[H5973A]]"
+- "[[H5892B]]"
+- "[[H9028]]"
+- "[[H2763A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 11:21**<big><big>[[Josh.11.16 Joshua Takes the Whole Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And at that time came Joshua, and cut off the Anakims from the mountains, from Hebron, from Debir, from Anab, and from all the mountains of Judah, and from all the mountains of Israel: Joshua destroyed them utterly with their cities.
 <small><sub>**BSB:**</sub></small>
 At that time Joshua proceeded to eliminate the Anakim from the hill country of Hebron, Debir, and Anab, and from all the hill country of Judah and of Israel. Joshua devoted them to destruction, along with their cities.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֨א]] [[H3091G\|יְהוֹשֻׁ֜עַ]] [[H9003\|בָּ]][[H6256\|עֵ֣ת]] [[H9009\|הַ]][[H1931\|הִ֗יא]] [[H9001\|וַ]][[H3772I\|יַּכְרֵ֤ת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H6062\|עֲנָקִים֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H2022H\|הָ֤ר]] [[H4480A\|מִן]][[H9014\|־]] [[H2275A\|חֶבְרוֹן֙]] [[H4480A\|מִן]][[H9014\|־]] [[H1688A\|דְּבִ֣ר]] [[H4480A\|מִן]][[H9014\|־]] [[H6024\|עֲנָ֔ב]] [[H9002\|וּ]][[H9006\|מִ]][[H3605\|כֹּל֙]] [[H2022H\|הַ֣ר]] [[H3063G\|יְהוּדָ֔ה]] [[H9002\|וּ]][[H9006\|מִ]][[H3605\|כֹּ֖ל]] [[H2022H\|הַ֣ר]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H5973A\|עִם]][[H9014\|־]] [[H5892B\|עָרֵי]][[H9028\|הֶ֖ם]] [[H2763A\|הֶחֱרִימָ֥]][[H9038\|ם]] [[H3091G\|יְהוֹשֻֽׁעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANAB|ANAB]] • [[topic ANAKIM|ANAKIM]] • [[topic DEBIR|DEBIR]] • [[topic HEBRON|HEBRON]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.11.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.11.20|<< Joshua 11:20]]</td><td align="center" style="border:none;">[[Josh.11|Joshua 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11.22|Joshua 11:22 >>]]</td></tr></table>
 

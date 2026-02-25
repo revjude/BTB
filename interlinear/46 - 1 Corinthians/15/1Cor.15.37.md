@@ -1,10 +1,59 @@
+---
+title: 1 Corinthians 15:37
+type: Verse
+kjv: "And that which thou sowest, thou sowest not that body that shall be, but bare grain, it may chance of wheat, or of some other grain:"
+bsb: "And what you sow is not the body that will be, but just a seed, perhaps of wheat or something else."
+greek: "καὶ ὃ σπείρεις, οὐ τὸ σῶμα τὸ γενησόμενον σπείρεις ἀλλὰ γυμνὸν κόκκον, εἰ τύχοι, σίτου ἤ τινος τῶν λοιπῶν·"
+pericope: "[[1Cor.15.35 The Resurrection Body|The Resurrection Body]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 15
+book/chapter: "[[1Cor.15|1 Corinthians 15]]"
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BODY|BODY]]"
+- "[[topic BOTANY|BOTANY]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SEED|SEED]]"
+strongs:
+- "[[G2532]]"
+- "[[G3739]]"
+- "[[G4687]]"
+- "[[G3756]]"
+- "[[G3588]]"
+- "[[G4983]]"
+- "[[G1096]]"
+- "[[G0235]]"
+- "[[G1131]]"
+- "[[G2848]]"
+- "[[G1487G]]"
+- "[[G5177]]"
+- "[[G4621]]"
+- "[[G2228]]"
+- "[[G5100]]"
+- "[[G3062]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 15:37**<big><big>[[1Cor.15.35 The Resurrection Body|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And that which thou sowest, thou sowest not that body that shall be, but bare grain, it may chance of wheat, or of some other [grain]:
 <small><sub>**BSB:**</sub></small>
 And what you sow is not the body that will be, but just a seed, perhaps of wheat or something else.
-<small><sub>**Literal:**</sub></small>
-And what you sow, not the body that will be you sow but a bare grain, if it would be of wheat or of some of the rest;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.36|<< 1 Corinthians 15:36]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.38|1 Corinthians 15:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3739\|ὃ]]  [[G4687\|σπείρεις,]]  [[G3756\|οὐ]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G3588\|τὸ]]  [[G1096\|γενησόμενον]]  [[G4687\|σπείρεις]]  [[G0235\|ἀλλὰ]]  [[G1131\|γυμνὸν]]  [[G2848\|κόκκον,]]  [[G1487G\|εἰ]]  [[G5177\|τύχοι,]]  [[G4621\|σίτου]]  [[G2228\|ἤ]]  [[G5100\|τινος]]  [[G3588\|τῶν]]  [[G3062\|λοιπῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BODY|BODY]] • [[topic BOTANY|BOTANY]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SEED|SEED]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.36|<< 1 Corinthians 15:36]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.38|1 Corinthians 15:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

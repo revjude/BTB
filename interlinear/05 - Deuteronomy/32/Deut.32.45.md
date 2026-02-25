@@ -1,8 +1,60 @@
+---
+title: Deuteronomy 32:45
+type: Verse
+kjv: "And Moses made an end of speaking all these words to all Israel:"
+bsb: "When Moses had finished reciting all these words to all Israel,"
+hebrew: "וַיְכַ֣ל מֹשֶׁ֗ה לְדַבֵּ֛ר אֶת־ כָּל־ הַדְּבָרִ֥ים הָאֵ֖לֶּה אֶל־ כָּל־ יִשְׂרָאֵֽל׃"
+pericope: "[[Deut.32.1 The Song of Moses|The Song of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 32
+book/chapter: "[[Deut.32|Deuteronomy 32]]"
+chronological_order: 228
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+strongs:
+- "[[H9001]]"
+- "[[H3615G]]"
+- "[[H4872]]"
+- "[[H9005]]"
+- "[[H1696G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H0413]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 32:45**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses made an end of speaking all these words to all Israel:
 <small><sub>**BSB:**</sub></small>
 When Moses had finished reciting all these words to all Israel,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3615G\|יְכַ֣ל]] [[H4872\|מֹשֶׁ֗ה]] [[H9005\|לְ]][[H1696G\|דַבֵּ֛ר]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֥ים]] [[H9009\|הָ]][[H0428\|אֵ֖לֶּה]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic INSTRUCTION|INSTRUCTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.44|<< Deuteronomy 32:44]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.46|Deuteronomy 32:46 >>]]</td></tr></table>
 

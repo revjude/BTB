@@ -1,8 +1,64 @@
+---
+title: Ezra 6:2
+type: Verse
+kjv: "And there was found at Achmetha, in the palace that is in the province of the Medes, a roll, and therein was a record thus written:"
+bsb: "And a scroll was found in the fortress of Ecbatana, in the province of Media, with the following written on it: Memorandum:"
+aramaic: "וְהִשְׁתְּכַ֣ח בְּאַחְמְתָ֗א בְּבִֽירְתָ֛א דִּ֛י בְּמָדַ֥י מְדִינְתָּ֖ה מְגִלָּ֣ה חֲדָ֑ה וְכֵן־ כְּתִ֥יב בְּגַוַּ֖הּ דִּכְרוֹנָֽה׃ פ"
+pericope: "[[Ezra.6.1 The Decree of Darius|The Decree of Darius]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 6
+book/chapter: "[[Ezra.6|Ezra 6]]"
+chronological_order: 854
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic ACHMETHA|ACHMETHA]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MEDES|MEDES]]"
+- "[[topic PALACE|PALACE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H7912]]"
+- "[[H9003]]"
+- "[[H0307]]"
+- "[[H1001]]"
+- "[[H9010]]"
+- "[[H1768]]"
+- "[[H4076H]]"
+- "[[H4083]]"
+- "[[H4040]]"
+- "[[H2298]]"
+- "[[H3652]]"
+- "[[H9014]]"
+- "[[H3790]]"
+- "[[H1459]]"
+- "[[H9024]]"
+- "[[H1799A]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezra 6:2**<big><big>[[Ezra.6.1 The Decree of Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there was found at Achmetha, in the palace that [is] in the province of the Medes, a roll, and therein [was] a record thus written:
 <small><sub>**BSB:**</sub></small>
 And a scroll was found in the fortress of Ecbatana, in the province of Media, with the following written on it: Memorandum:
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וְ]][[H7912\|הִשְׁתְּכַ֣ח]] [[H9003\|בְּ]][[H0307\|אַחְמְתָ֗א]] [[H9003\|בְּ]][[H1001\|בִֽירְתָ֛]][[H9010\|א]] [[H1768\|דִּ֛י]] [[H9003\|בְּ]][[H4076H\|מָדַ֥י]] [[H4083\|מְדִינְתָּ֖]][[H9010\|ה]] [[H4040\|מְגִלָּ֣ה]] [[H2298\|חֲדָ֑ה]] [[H9002\|וְ]][[H3652\|כֵן]][[H9014\|־]] [[H3790\|כְּתִ֥יב]] [[H9003\|בְּ]][[H1459\|גַוַּ֖]][[H9024\|הּ]] [[H1799A\|דִּכְרוֹנָֽ]][[H9010\|ה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACHMETHA|ACHMETHA]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MEDES|MEDES]] • [[topic PALACE|PALACE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.1|<< Ezra 6:1]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.3|Ezra 6:3 >>]]</td></tr></table>
 
@@ -19,7 +75,7 @@ And a scroll was found in the fortress of Ecbatana, in the province of Media, wi
 | and as follows  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3652\|כֵן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> khen-<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it was written  |**<big>&#8207;[[H3790\|כְּתִ֥יב]]&#8207; </big>**| ke.Tiv<small><sup>[[AVQrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in midst its  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1459\|גַוַּ֖]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| be.<small><sup>[[AR]]</sup></small> ga.Va<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> memorandum  |**<big>&#8207;[[H1799A\|דִּכְרוֹנָֽ]]&#8207;&#8207;[[H9010\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| dikh.ro.Nah<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> memorandum  |**<big>&#8207;[[H1799A\|דִּכְרוֹנָֽ]]&#8207;&#8207;[[H9010\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| dikh.ro.Nah<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.1|<< Ezra 6:1]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.3|Ezra 6:3 >>]]</td></tr></table>
 
 

@@ -1,8 +1,66 @@
+---
+title: Genesis 40:17
+type: Verse
+kjv: "And in the uppermost basket there was of all manner of bakemeats for Pharaoh; and the birds did eat them out of the basket upon my head."
+bsb: "In the top basket were all sorts of baked goods for Pharaoh, but the birds were eating them out of the basket on my head.”"
+hebrew: "וּבַסַּ֣ל הָֽעֶלְי֔וֹן מִכֹּ֛ל מַאֲכַ֥ל פַּרְעֹ֖ה מַעֲשֵׂ֣ה אֹפֶ֑ה וְהָע֗וֹף אֹכֵ֥ל אֹתָ֛ם מִן־ הַסַּ֖ל מֵעַ֥ל רֹאשִֽׁי׃"
+pericope: "[[Gen.40.1 The Cupbearer and the Baker|The Cupbearer and the Baker]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 40
+book/chapter: "[[Gen.40|Genesis 40]]"
+chronological_order: 82
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BASKET|BASKET]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H5536]]"
+- "[[H9009]]"
+- "[[H5945A]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H3978]]"
+- "[[H6547H]]"
+- "[[H4639G]]"
+- "[[H0644]]"
+- "[[H5775]]"
+- "[[H0398]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H5921A]]"
+- "[[H7218A]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 40:17**<big><big>[[Gen.40.1 The Cupbearer and the Baker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the uppermost basket [there was] of all manner of bakemeats for Pharaoh; and the birds did eat them out of the basket upon my head.
 <small><sub>**BSB:**</sub></small>
 In the top basket were all sorts of baked goods for Pharaoh, but the birds were eating them out of the basket on my head.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H5536\|סַּ֣ל]] [[H9009\|הָֽ]][[H5945A\|עֶלְי֔וֹן]] [[H9006\|מִ]][[H3605\|כֹּ֛ל]] [[H3978\|מַאֲכַ֥ל]] [[H6547H\|פַּרְעֹ֖ה]] [[H4639G\|מַעֲשֵׂ֣ה]] [[H0644\|אֹפֶ֑ה]] [[H9002\|וְ]][[H9009\|הָ]][[H5775\|ע֗וֹף]] [[H0398\|אֹכֵ֥ל]] [[H0853\|אֹתָ֛]][[H9038\|ם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H5536\|סַּ֖ל]] [[H9006\|מֵ]][[H5921A\|עַ֥ל]] [[H7218A\|רֹאשִֽׁ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BASKET|BASKET]] • [[topic DREAM|DREAM]] • [[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.40.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.16|<< Genesis 40:16]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.18|Genesis 40:18 >>]]</td></tr></table>
 

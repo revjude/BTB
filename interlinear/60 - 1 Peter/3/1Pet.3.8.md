@@ -1,10 +1,58 @@
+---
+title: 1 Peter 3:8
+type: Verse
+kjv: "Finally, be ye all of one mind, having compassion one of another, love as brethren, be pitiful, be courteous:"
+bsb: "Finally, all of you, be like-minded and sympathetic, love as brothers, be tenderhearted and humble."
+greek: "Τὸ δὲ τέλος πάντες ὁμόφρονες, συμπαθεῖς, φιλάδελφοι, εὔσπλαγχνοι, ταπεινόφρονες,"
+pericope: "[[1Pet.3.8 Turning from Evil|Turning from Evil]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 3
+book/chapter: "[[1Pet.3|1 Peter 3]]"
+chronological_order: 1137
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MANNERS|MANNERS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SYMPATHY|SYMPATHY]]"
+- "[[topic UNITY|UNITY]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G5056]]"
+- "[[G3956]]"
+- "[[G3675]]"
+- "[[G4835]]"
+- "[[G5361]]"
+- "[[G2155]]"
+- "[[G9402]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **1 Peter 3:8**<big><big>[[1Pet.3.8 Turning from Evil|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Finally, [be ye] all of one mind, having compassion one of another, love as brethren, [be] pitiful, [be] courteous:
 <small><sub>**BSB:**</sub></small>
 Finally, all of you, be like-minded and sympathetic, love as brothers, be tenderhearted and humble.
-<small><sub>**Literal:**</sub></small>
-<the> Now the end All [be] single-minded, sympathetic, loving as brothers, tender-hearted, humble,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.7|<< 1 Peter 3:7]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.9|1 Peter 3:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τὸ]]  [[G1161\|δὲ]]  [[G5056\|τέλος]]  [[G3956\|πάντες]]  [[G3675\|ὁμόφρονες,]]  [[G4835\|συμπαθεῖς,]]  [[G5361\|φιλάδελφοι,]]  [[G2155\|εὔσπλαγχνοι,]]  [[G9402\|ταπεινόφρονες,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic FRATERNITY|FRATERNITY]] • [[topic KINDNESS|KINDNESS]] • [[topic LOVE|LOVE]] • [[topic MANNERS|MANNERS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SYMPATHY|SYMPATHY]] • [[topic UNITY|UNITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.7|<< 1 Peter 3:7]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.9|1 Peter 3:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

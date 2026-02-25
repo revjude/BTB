@@ -1,8 +1,52 @@
+---
+title: Job 39:5
+type: Verse
+kjv: "Who hath sent out the wild ass free? or who hath loosed the bands of the wild ass?"
+bsb: "Who set the wild donkey free? Who released the swift donkey from the harness?"
+hebrew: "מִֽי־ שִׁלַּ֣ח פֶּ֣רֶא חָפְשִׁ֑י וּמֹסְר֥וֹת עָ֝ר֗וֹד מִ֣י פִתֵּֽחַ׃"
+pericope: "[[Job.39.1 The LORD Speaks of His Creation|The LORD Speaks of His Creation]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 39
+book/chapter: "[[Job.39|Job 39]]"
+chronological_order: 50
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ASS (DONKEY)|ASS (DONKEY)]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H7971H]]"
+- "[[H6501]]"
+- "[[H2670]]"
+- "[[H9002]]"
+- "[[H4147]]"
+- "[[H6171]]"
+- "[[H6605A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 39:5**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who hath sent out the wild ass free? or who hath loosed the bands of the wild ass?
 <small><sub>**BSB:**</sub></small>
 Who set the wild donkey free? Who released the swift donkey from the harness?
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִֽי]][[H9014\|־]] [[H7971H\|שִׁלַּ֣ח]] [[H6501\|פֶּ֣רֶא]] [[H2670\|חָפְשִׁ֑י]] [[H9002\|וּ]][[H4147\|מֹסְר֥וֹת]] [[H6171\|עָ֝ר֗וֹד]] [[H4310\|מִ֣י]] [[H6605A\|פִתֵּֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASS (DONKEY)|ASS (DONKEY)]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.4|<< Job 39:4]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.6|Job 39:6 >>]]</td></tr></table>
 

@@ -1,10 +1,64 @@
+---
+title: Revelation 9:5
+type: Verse
+kjv: "And to them it was given that they should not kill them, but that they should be tormented five months: and their torment was as the torment of a scorpion, when he striketh a man."
+bsb: "The locusts were not given power to kill them, but only to torment them for five months, and their torment was like the stinging of a scorpion."
+greek: "καὶ ἐδόθη αὐτοῖς ἵνα μὴ ἀποκτείνωσιν αὐτούς, ἀλλ᾽ ἵνα βασανισθήσονται μῆνας πέντε, καὶ ὁ βασανισμὸς αὐτῶν ὡς βασανισμὸς σκορπίου ὅταν παίσῃ ἄνθρωπον.¶"
+pericope: "[[Rev.9.1 The Fifth Trumpet|The Fifth Trumpet]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 9
+book/chapter: "[[Rev.9|Revelation 9]]"
+chronological_order: 1176
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic SCORPION|SCORPION]]"
+- "[[topic TRUMPET|TRUMPET]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G0615]]"
+- "[[G0235]]"
+- "[[G0928G]]"
+- "[[G3376]]"
+- "[[G4002]]"
+- "[[G3588]]"
+- "[[G0929]]"
+- "[[G5613]]"
+- "[[G4651]]"
+- "[[G3752]]"
+- "[[G3817]]"
+- "[[G0444]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 9:5**<big><big>[[Rev.9.1 The Fifth Trumpet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And to them it was given that they should not kill them, but that they should be tormented five months: and their torment [was] as the torment of a scorpion, when he striketh a man.
 <small><sub>**BSB:**</sub></small>
 The locusts were not given power to kill them, but only to torment them for five months, and their torment was like the stinging of a scorpion.
-<small><sub>**Literal:**</sub></small>
-And it was granted to them that not they may kill them, but that they will torment [them] months five, And the torment of them [was] like torment of a scorpion when it may strike a man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.4|<< Revelation 9:4]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.6|Revelation 9:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1325\|ἐδόθη]]  [[G0846\|αὐτοῖς]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G0615\|ἀποκτείνωσιν]]  [[G0846\|αὐτούς,]]  [[G0235\|ἀλλ᾽]]  [[G2443\|ἵνα]]  [[G0928G\|βασανισθήσονται]]  [[G3376\|μῆνας]]  [[G4002\|πέντε,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G0929\|βασανισμὸς]]  [[G0846\|αὐτῶν]]  [[G5613\|ὡς]]  [[G0929\|βασανισμὸς]]  [[G4651\|σκορπίου]]  [[G3752\|ὅταν]]  [[G3817\|παίσῃ]]  [[G0444\|ἄνθρωπον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESPONDENCY|DESPONDENCY]] • [[topic LOCUST|LOCUST]] • [[topic SCORPION|SCORPION]] • [[topic TRUMPET|TRUMPET]] • [[topic VISION|VISION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.4|<< Revelation 9:4]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.6|Revelation 9:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

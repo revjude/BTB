@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Temple Musicians
+type: Pericope
 pericope: "[[1Chr.6.31 The Temple Musicians|The Temple Musicians]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 6
 book/chapter: "[[1Chr.6|1 Chronicles 6]]"
-genre:
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 17
 verses:
 - "[[1Chr.6.31]]"
 - "[[1Chr.6.32]]"
@@ -35,7 +42,7 @@ verses:
 - "[[1Chr.6.47]]"
 ---
 
-[[1Chr.6|1 Chronicles 6:31 - 1 Chronicles 6:47]]
+<small>[[1Chr.6|1 Chronicles 6:31-47]]</small>
 *The Temple Musicians*
 
 [[1Chr.6.31|31]] And these \[are they\] whom David set over the service of song in the house of the LORD, after that the ark had rest.

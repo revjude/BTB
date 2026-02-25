@@ -1,8 +1,72 @@
+---
+title: 1 Samuel 24:6
+type: Verse
+kjv: "And he said unto his men, The LORD forbid that I should do this thing unto my master, the LORD’S anointed, to stretch forth mine hand against him, seeing he is the anointed of the LORD."
+bsb: "So he said to his men, “The LORD forbid that I should do such a thing to my master, the LORD’s anointed. May I never lift my hand against him, since he is the LORD’s anointed.”"
+hebrew: "וַיֹּ֨אמֶר לַאֲנָשָׁ֜יו חָלִ֧ילָה לִּ֣י מֵֽיהוָ֗ה אִם־ אֶעֱשֶׂה֩ אֶת־ הַדָּבָ֨ר הַזֶּ֤ה לַֽאדֹנִי֙ לִמְשִׁ֣יחַ יְהוָ֔ה לִשְׁלֹ֥חַ יָדִ֖י בּ֑וֹ כִּֽי־ מְשִׁ֥יחַ יְהוָ֖ה הֽוּא׃"
+pericope: "[[1Sam.24.1 David Spares Saul|David Spares Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 24
+book/chapter: "[[1Sam.24|1 Samuel 24]]"
+chronological_order: 303
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CAVE|CAVE]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic LOYALTY|LOYALTY]]"
+- "[[topic MAGNANIMITY|MAGNANIMITY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic SELF-CONTROL|SELF-CONTROL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H0582]]"
+- "[[H9023]]"
+- "[[H2486]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H3068G]]"
+- "[[H0518H]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H2088]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H4899]]"
+- "[[H7971K]]"
+- "[[H3027G]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 24:6**<big><big>[[1Sam.24.1 David Spares Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto his men, The LORD forbid that I should do this thing unto my master, the LORD’S anointed, to stretch forth mine hand against him, seeing he [is] the anointed of the LORD.
 <small><sub>**BSB:**</sub></small>
 So he said to his men, “The LORD forbid that I should do such a thing to my master, the LORD’s anointed. May I never lift my hand against him, since he is the LORD’s anointed.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H9005\|לַ]][[H0582\|אֲנָשָׁ֜י]][[H9023\|ו]] [[H2486\|חָלִ֧ילָה]] [[H9005\|לִּ֣]][[H9030\|י]] [[H9006\|מֵֽ]][[H3068G\|יהוָ֗ה]] [[H0518H\|אִם]][[H9014\|־]] [[H6213A\|אֶעֱשֶׂה֩]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דָּבָ֨ר]] [[H9009\|הַ]][[H2088\|זֶּ֤ה]] [[H9005\|לַֽ]][[H0113\|אדֹנִ]][[H9020\|י֙]] [[H9005\|לִ]][[H4899\|מְשִׁ֣יחַ]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לִ]][[H7971K\|שְׁלֹ֥חַ]] [[H3027G\|יָדִ֖]][[H9020\|י]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4899\|מְשִׁ֥יחַ]] [[H3068G\|יְהוָ֖ה]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAVE|CAVE]] • [[topic CITIZENS|CITIZENS]] • [[topic LOYALTY|LOYALTY]] • [[topic MAGNANIMITY|MAGNANIMITY]] • [[topic REVERENCE|REVERENCE]] • [[topic SAUL|SAUL]] • [[topic SELF-CONTROL|SELF-CONTROL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.24.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.24.5|<< 1 Samuel 24:5]]</td><td align="center" style="border:none;">[[1Sam.24|1 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.24.7|1 Samuel 24:7 >>]]</td></tr></table>
 

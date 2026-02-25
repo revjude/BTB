@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Good Samaritan
+type: Pericope
 pericope: "[[Luke.10.25 The Parable of the Good Samaritan|The Parable of the Good Samaritan]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: Luke
 chapter: 10
 book/chapter: "[[Luke.10|Luke 10]]"
-genre:
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 13
 verses:
 - "[[Luke.10.25]]"
 - "[[Luke.10.26]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Luke.10.37]]"
 ---
 
-[[Luke.10|Luke 10:25 - Luke 10:37]]
+<small>[[Luke.10|Luke 10:25-37]]</small>
 *The Parable of the Good Samaritan*
 
 [[Luke.10.25|25]] And, behold, a certain lawyer stood up, and tempted him, saying, Master, what shall I do to inherit eternal life?

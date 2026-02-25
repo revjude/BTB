@@ -1,8 +1,50 @@
+---
+title: Song of Solomon 2:10
+type: Verse
+kjv: "My beloved spake, and said unto me, Rise up, my love, my fair one, and come away."
+bsb: "My beloved calls to me, “Arise, my darling. Come away with me, my beautiful one."
+hebrew: "עָנָ֥ה דוֹדִ֖י וְאָ֣מַר לִ֑י ק֥וּמִי לָ֛ךְ רַעְיָתִ֥י יָפָתִ֖י וּלְכִי־ לָֽךְ׃"
+pericope: "[[Song.2.3 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 2
+book/chapter: "[[Song.2|Song of Solomon 2]]"
+chronological_order: 449
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+strongs:
+- "[[H6030B]]"
+- "[[H1730G]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H6965B]]"
+- "[[H9032]]"
+- "[[H7474]]"
+- "[[H3303]]"
+- "[[H9002]]"
+- "[[H1980G]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 2:10**<big><big>[[Song.2.3 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My beloved spake, and said unto me, Rise up, my love, my fair one, and come away.
 <small><sub>**BSB:**</sub></small>
 My beloved calls to me, “Arise, my darling. Come away with me, my beautiful one.
+<small><sub>**Hebrew:**</sub></small>
+[[H6030B\|עָנָ֥ה]] [[H1730G\|דוֹדִ֖]][[H9020\|י]] [[H9001\|וְ]][[H0559\|אָ֣מַר]] [[H9005\|לִ֑]][[H9030\|י]] [[H6965B\|ק֥וּמִי]] [[H9005\|לָ֛]][[H9032\|ךְ]] [[H7474\|רַעְיָתִ֥]][[H9020\|י]] [[H3303\|יָפָתִ֖]][[H9020\|י]] [[H9002\|וּ]][[H1980G\|לְכִי]][[H9014\|־]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2.9|<< Song of Solomon 2:9]]</td><td align="center" style="border:none;">[[Song.2|Song of Solomon 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.2.11|Song of Solomon 2:11 >>]]</td></tr></table>
 

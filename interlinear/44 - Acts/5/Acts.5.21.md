@@ -1,10 +1,75 @@
+---
+title: Acts 5:21
+type: Verse
+kjv: "And when they heard that, they entered into the temple early in the morning, and taught. But the high priest came, and they that were with him, and called the council together, and all the senate of the children of Israel, and sent to the prison to have them brought."
+bsb: "At daybreak the apostles entered the temple courts as they had been told and began to teach the people. When the high priest and his associates arrived, they convened the Sanhedrin—the full assembly of the elders of Israel—and sent to the jail for the apostles."
+greek: "ἀκούσαντες δὲ εἰσῆλθον ὑπὸ τὸν ὄρθρον εἰς τὸ ἱερὸν καὶ ἐδίδασκον.¶ Παραγενόμενος δὲ ὁ ἀρχιερεὺς καὶ οἱ σὺν αὐτῷ συνεκάλεσαν τὸ συνέδριον καὶ πᾶσαν τὴν γερουσίαν τῶν υἱῶν Ἰσραὴλ καὶ ἀπέστειλαν εἰς τὸ δεσμωτήριον ἀχθῆναι αὐτούς."
+pericope: "[[Acts.5.17 The Apostles Arrested and Freed|The Apostles Arrested and Freed]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 5
+book/chapter: "[[Acts.5|Acts 5]]"
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic RISING|RISING]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+- "[[topic SENATE|SENATE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0191]]"
+- "[[G1161]]"
+- "[[G1525]]"
+- "[[G5259G]]"
+- "[[G3588]]"
+- "[[G3722]]"
+- "[[G1519]]"
+- "[[G2411]]"
+- "[[G2532]]"
+- "[[G1321]]"
+- "[[G3854]]"
+- "[[G0749]]"
+- "[[G4862]]"
+- "[[G0846]]"
+- "[[G4779]]"
+- "[[G4892]]"
+- "[[G3956]]"
+- "[[G1087]]"
+- "[[G5207]]"
+- "[[G2474]]"
+- "[[G0649]]"
+- "[[G1201]]"
+- "[[G0071]]"
+texts:
+- NKO
+---
+
 **Acts 5:21**<big><big>[[Acts.5.17 The Apostles Arrested and Freed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they heard [that], they entered into the temple early in the morning, and taught. But the high priest came, and they that were with him, and called the council together, and all the senate of the children of Israel, and sent to the prison to have them brought.
 <small><sub>**BSB:**</sub></small>
 At daybreak the apostles entered the temple courts as they had been told and began to teach the people. When the high priest and his associates arrived, they convened the Sanhedrin—the full assembly of the elders of Israel—and sent to the jail for the apostles.
-<small><sub>**Literal:**</sub></small>
-Having heard now they entered at the dawn into the temple and were teaching. Having come now the high priest and those with him they called together the Council even all the Senate of the sons of Israel and sent to the prison house to bring them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.20|<< Acts 5:20]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.22|Acts 5:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|ἀκούσαντες]]  [[G1161\|δὲ]]  [[G1525\|εἰσῆλθον]]  [[G5259G\|ὑπὸ]]  [[G3588\|τὸν]]  [[G3722\|ὄρθρον]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2411\|ἱερὸν]]  [[G2532\|καὶ]]  [[G1321\|ἐδίδασκον.¶]]  [[G3854\|Παραγενόμενος]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G0749\|ἀρχιερεὺς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4862\|σὺν]]  [[G0846\|αὐτῷ]]  [[G4779\|συνεκάλεσαν]]  [[G3588\|τὸ]]  [[G4892\|συνέδριον]]  [[G2532\|καὶ]]  [[G3956\|πᾶσαν]]  [[G3588\|τὴν]]  [[G1087\|γερουσίαν]]  [[G3588\|τῶν]]  [[G5207\|υἱῶν]]  [[G2474\|Ἰσραὴλ]]  [[G2532\|καὶ]]  [[G0649\|ἀπέστειλαν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G1201\|δεσμωτήριον]]  [[G0071\|ἀχθῆναι]]  [[G0846\|αὐτούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURAGE|COURAGE]] • [[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic RISING|RISING]] • [[topic SADDUCEES|SADDUCEES]] • [[topic SENATE|SENATE]] • [[topic TEMPLE|TEMPLE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.20|<< Acts 5:20]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.22|Acts 5:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

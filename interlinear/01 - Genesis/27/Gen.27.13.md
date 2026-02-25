@@ -1,8 +1,76 @@
+---
+title: Genesis 27:13
+type: Verse
+kjv: "And his mother said unto him, Upon me be thy curse, my son: only obey my voice, and go fetch me them."
+bsb: "His mother replied, “Your curse be on me, my son. Just obey my voice and go get them for me.”"
+hebrew: "וַתֹּ֤אמֶר לוֹ֙ אִמּ֔וֹ עָלַ֥י קִלְלָתְךָ֖ בְּנִ֑י אַ֛ךְ שְׁמַ֥ע בְּקֹלִ֖י וְלֵ֥ךְ קַֽח־ לִֽי׃"
+pericope: "[[Gen.27.1 Isaac Blesses Jacob|Isaac Blesses Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic FAVORITISM|FAVORITISM]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H7045]]"
+- "[[H9021]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H0389]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H9002]]"
+- "[[H1980G]]"
+- "[[H3947J]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:13**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his mother said unto him, Upon me [be] thy curse, my son: only obey my voice, and go fetch me [them].
 <small><sub>**BSB:**</sub></small>
 His mother replied, “Your curse be on me, my son. Just obey my voice and go get them for me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֤אמֶר]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H5921A\|עָלַ֥]][[H9030\|י]] [[H7045\|קִלְלָתְ]][[H9021\|ךָ֖]] [[H1121A\|בְּנִ֑]][[H9020\|י]] [[H0389\|אַ֛ךְ]] [[H8085H\|שְׁמַ֥ע]] [[H9003\|בְּ]][[H6963A\|קֹלִ֖]][[H9020\|י]] [[H9002\|וְ]][[H1980G\|לֵ֥ךְ]] [[H3947J\|קַֽח]][[H9014\|־]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DECEPTION|DECEPTION]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FAMILY|FAMILY]] • [[topic FAVORITISM|FAVORITISM]] • [[topic JACOB|JACOB]] • [[topic PARENTS|PARENTS]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.12|<< Genesis 27:12]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.14|Genesis 27:14 >>]]</td></tr></table>
 

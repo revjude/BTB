@@ -1,8 +1,70 @@
+---
+title: Exodus 18:16
+type: Verse
+kjv: "When they have a matter, they come unto me; and I judge between one and another, and I do make them know the statutes of God, and his laws."
+bsb: "“Whenever they have a dispute, it is brought to me to judge between one man and another, and I make known to them the statutes and laws of God.”"
+hebrew: "כִּֽי־ יִהְיֶ֨ה לָהֶ֤ם דָּבָר֙ בָּ֣א אֵלַ֔י וְשָׁ֣פַטְתִּ֔י בֵּ֥ין אִ֖ישׁ וּבֵ֣ין רֵעֵ֑הוּ וְהוֹדַעְתִּ֛י אֶת־ חֻקֵּ֥י הָאֱלֹהִ֖ים וְאֶת־ תּוֹרֹתָֽיו׃"
+pericope: "[[Exod.18.13 Jethro Advises Moses|Jethro Advises Moses]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 18
+book/chapter: "[[Exod.18|Exodus 18]]"
+chronological_order: 110
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H1697L]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H8199]]"
+- "[[H0996G]]"
+- "[[H0376I]]"
+- "[[H9002]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H2706G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H8451]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 18:16**<big><big>[[Exod.18.13 Jethro Advises Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When they have a matter, they come unto me; and I judge between one and another, and I do make [them] know the statutes of God, and his laws.
 <small><sub>**BSB:**</sub></small>
 “Whenever they have a dispute, it is brought to me to judge between one man and another, and I make known to them the statutes and laws of God.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|יִהְיֶ֨ה]] [[H9005\|לָ]][[H9038\|הֶ֤ם]] [[H1697L\|דָּבָר֙]] [[H0935G\|בָּ֣א]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H9001\|וְ]][[H8199\|שָׁ֣פַטְתִּ֔י]] [[H0996G\|בֵּ֥ין]] [[H0376I\|אִ֖ישׁ]] [[H9002\|וּ]][[H0996G\|בֵ֣ין]] [[H7453\|רֵעֵ֑]][[H9023\|הוּ]] [[H9001\|וְ]][[H3045\|הוֹדַעְתִּ֛י]] [[H0853\|אֶת]][[H9014\|־]] [[H2706G\|חֻקֵּ֥י]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8451\|תּוֹרֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic MOSES|MOSES]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.15|<< Exodus 18:15]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.17|Exodus 18:17 >>]]</td></tr></table>
 

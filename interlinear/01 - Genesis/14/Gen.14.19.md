@@ -1,8 +1,62 @@
+---
+title: Genesis 14:19
+type: Verse
+kjv: "And he blessed him, and said, Blessed be Abram of the most high God, possessor of heaven and earth:"
+bsb: "and he blessed Abram and said: “Blessed be Abram by God Most High, Creator of heaven and earth,"
+hebrew: "וַֽיְבָרְכֵ֖הוּ וַיֹּאמַ֑ר בָּר֤וּךְ אַבְרָם֙ לְאֵ֣ל עֶלְי֔וֹן קֹנֵ֖ה שָׁמַ֥יִם וָאָֽרֶץ׃"
+pericope: "[[Gen.14.17 Melchizedek Blesses Abram|Melchizedek Blesses Abram]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 14
+book/chapter: "[[Gen.14|Genesis 14]]"
+chronological_order: 56
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MELCHIZEDEK|MELCHIZEDEK]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1288]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H0087]]"
+- "[[H9005]]"
+- "[[H0410J]]"
+- "[[H5945H]]"
+- "[[H7069]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 14:19**<big><big>[[Gen.14.17 Melchizedek Blesses Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he blessed him, and said, Blessed [be] Abram of the most high God, possessor of heaven and earth:
 <small><sub>**BSB:**</sub></small>
 and he blessed Abram and said: “Blessed be Abram by God Most High, Creator of heaven and earth,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1288\|יְבָרְכֵ֖]][[H9033\|הוּ]] [[H9001\|וַ]][[H0559\|יֹּאמַ֑ר]] [[H1288\|בָּר֤וּךְ]] [[H0087\|אַבְרָם֙]] [[H9005\|לְ]][[H0410J\|אֵ֣ל]] [[H5945H\|עֶלְי֔וֹן]] [[H7069\|קֹנֵ֖ה]] [[H8064\|שָׁמַ֥יִם]] [[H9002\|וָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BENEDICTIONS|BENEDICTIONS]] • [[topic GOD|GOD]] • [[topic HEATHEN|HEATHEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MELCHIZEDEK|MELCHIZEDEK]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.14.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.14.18|<< Genesis 14:18]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.14.20|Genesis 14:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

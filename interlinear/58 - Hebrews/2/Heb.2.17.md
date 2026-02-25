@@ -1,10 +1,63 @@
+---
+title: Hebrews 2:17
+type: Verse
+kjv: "Wherefore in all things it behoved him to be made like unto his brethren, that he might be a merciful and faithful high priest in things pertaining to God, to make reconciliation for the sins of the people."
+bsb: "For this reason He had to be made like His brothers in every way, so that He might become a merciful and faithful high priest in service to God, in order to make atonement for the sins of the people."
+greek: "ὅθεν ὤφειλεν κατὰ πάντα τοῖς ἀδελφοῖς ὁμοιωθῆναι, ἵνα ἐλεήμων γένηται καὶ πιστὸς ἀρχιερεὺς τὰ πρὸς τὸν θεὸν εἰς τὸ ἱλάσκεσθαι τὰς ἁμαρτίας τοῦ λαοῦ."
+pericope: "[[Heb.2.5 Jesus like His Brothers|Jesus like His Brothers]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 2
+book/chapter: "[[Heb.2|Hebrews 2]]"
+chronological_order: 1141
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RECONCILIATION|RECONCILIATION]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G3606]]"
+- "[[G3784]]"
+- "[[G2596]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G3666]]"
+- "[[G2443]]"
+- "[[G1655]]"
+- "[[G1096]]"
+- "[[G2532]]"
+- "[[G4103]]"
+- "[[G0749]]"
+- "[[G4314]]"
+- "[[G2316]]"
+- "[[G1519]]"
+- "[[G2433]]"
+- "[[G0266]]"
+- "[[G2992]]"
+texts:
+- NKO
+---
+
 **Hebrews 2:17**<big><big>[[Heb.2.5 Jesus like His Brothers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore in all things it behoved him to be made like unto [his] brethren, that he might be a merciful and faithful high priest in things [pertaining] to God, to make reconciliation for the sins of the people.
 <small><sub>**BSB:**</sub></small>
 For this reason He had to be made like His brothers in every way, so that He might become a merciful and faithful high priest in service to God, in order to make atonement for the sins of the people.
-<small><sub>**Literal:**</sub></small>
-Therefore it was necessary in all things <the> [His] brothers to be made like, so that a merciful He may become and faithful high priest [in] <the> [things] relating to <the> God in order <the> to make propitiation for the sins of the people.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.16|<< Hebrews 2:16]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.18|Hebrews 2:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3606\|ὅθεν]]  [[G3784\|ὤφειλεν]]  [[G2596\|κατὰ]]  [[G3956\|πάντα]]  [[G3588\|τοῖς]]  [[G0080\|ἀδελφοῖς]]  [[G3666\|ὁμοιωθῆναι,]]  [[G2443\|ἵνα]]  [[G1655\|ἐλεήμων]]  [[G1096\|γένηται]]  [[G2532\|καὶ]]  [[G4103\|πιστὸς]]  [[G0749\|ἀρχιερεὺς]]  [[G3588\|τὰ]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2433\|ἱλάσκεσθαι]]  [[G3588\|τὰς]]  [[G0266\|ἁμαρτίας]]  [[G3588\|τοῦ]]  [[G2992\|λαοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ATONEMENT|ATONEMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RECONCILIATION|RECONCILIATION]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.16|<< Hebrews 2:16]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.18|Hebrews 2:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

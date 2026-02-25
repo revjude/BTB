@@ -1,10 +1,65 @@
+---
+title: Acts 13:48
+type: Verse
+kjv: "And when the Gentiles heard this, they were glad, and glorified the word of the Lord: and as many as were ordained to eternal life believed."
+bsb: "When the Gentiles heard this, they rejoiced and glorified the word of the Lord, and all who were appointed for eternal life believed."
+greek: "Ἀκούοντα δὲ τὰ ἔθνη ἔχαιρον καὶ ἐδόξαζον τὸν λόγον τοῦ κυρίου καὶ ἐπίστευσαν ὅσοι ἦσαν τεταγμένοι εἰς ζωὴν αἰώνιον."
+pericope: "[[Acts.13.42 A Light for the Gentiles|A Light for the Gentiles]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GLORIFYING GOD|GLORIFYING GOD]]"
+- "[[topic LAW|LAW]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0191]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1484]]"
+- "[[G5463]]"
+- "[[G2532]]"
+- "[[G1392]]"
+- "[[G3056]]"
+- "[[G2962G]]"
+- "[[G4100]]"
+- "[[G3745]]"
+- "[[G1510]]"
+- "[[G5021]]"
+- "[[G1519]]"
+- "[[G2222]]"
+- "[[G0166]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Acts 13:48**<big><big>[[Acts.13.42 A Light for the Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the Gentiles heard this, they were glad, and glorified the word of the Lord: and as many as were ordained to eternal life believed.
 <small><sub>**BSB:**</sub></small>
 When the Gentiles heard this, they rejoiced and glorified the word of the Lord, and all who were appointed for eternal life believed.
-<small><sub>**Literal:**</sub></small>
-Hearing [it] then the Gentiles were rejoicing and they were glorifying the word of the Lord and they believed as many as were appointed to life eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.47|<< Acts 13:47]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.49|Acts 13:49 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|Ἀκούοντα]]  [[G1161\|δὲ]]  [[G3588\|τὰ]]  [[G1484\|ἔθνη]]  [[G5463\|ἔχαιρον]]  [[G2532\|καὶ]]  [[G1392\|ἐδόξαζον]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G2532\|καὶ]]  [[G4100\|ἐπίστευσαν]]  [[G3745\|ὅσοι]]  [[G1510\|ἦσαν]]  [[G5021\|τεταγμένοι]]  [[G1519\|εἰς]]  [[G2222\|ζωὴν]]  [[G0166\|αἰώνιον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic FAITH|FAITH]] • [[topic GENTILES|GENTILES]] • [[topic GLORIFYING GOD|GLORIFYING GOD]] • [[topic LAW|LAW]] • [[topic LIFE|LIFE]] • [[topic PAUL|PAUL]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic PROPHECY|PROPHECY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.47|<< Acts 13:47]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.49|Acts 13:49 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,67 @@
+---
+title: Zephaniah 2:11
+type: Verse
+kjv: "The LORD will be terrible unto them: for he will famish all the gods of the earth; and men shall worship him, every one from his place, even all the isles of the heathen."
+bsb: "The LORD will be terrifying to them when He starves all the gods of the earth. Then the nations of every shore will bow in worship to Him, each in its own place."
+hebrew: "נוֹרָ֤א יְהוָה֙ עֲלֵיהֶ֔ם כִּ֣י רָזָ֔ה אֵ֖ת כָּל־ אֱלֹהֵ֣י הָאָ֑רֶץ וְיִשְׁתַּֽחֲווּ־ לוֹ֙ אִ֣ישׁ מִמְּקוֹמ֔וֹ כֹּ֖ל אִיֵּ֥י הַגּוֹיִֽם׃"
+pericope: "[[Zeph.2.8 Judgment on Moab and Ammon|Judgment on Moab and Ammon]]"
+original_language: Hebrew
+testament: Old
+book: Zephaniah
+chapter: 2
+book/chapter: "[[Zeph.2|Zephaniah 2]]"
+chronological_order: 716
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISLAND|ISLAND]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H3372H]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H3588A]]"
+- "[[H7329]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0430]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H7812]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0376I]]"
+- "[[H9006]]"
+- "[[H4725]]"
+- "[[H9023]]"
+- "[[H0339]]"
+- "[[H1471A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zephaniah 2:11**<big><big>[[Zeph.2.8 Judgment on Moab and Ammon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD [will be] terrible unto them: for he will famish all the gods of the earth; and [men] shall worship him, every one from his place, [even] all the isles of the heathen.
 <small><sub>**BSB:**</sub></small>
 The LORD will be terrifying to them when He starves all the gods of the earth. Then the nations of every shore will bow in worship to Him, each in its own place.
+<small><sub>**Hebrew:**</sub></small>
+[[H3372H\|נוֹרָ֤א]] [[H3068G\|יְהוָה֙]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֔ם]] [[H3588A\|כִּ֣י]] [[H7329\|רָזָ֔ה]] [[H0853\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0430\|אֱלֹהֵ֣י]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H7812\|יִשְׁתַּֽחֲווּ]][[H9014\|־]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H0376I\|אִ֣ישׁ]] [[H9006\|מִ]][[H4725\|מְּקוֹמ֔]][[H9023\|וֹ]] [[H3605\|כֹּ֖ל]] [[H0339\|אִיֵּ֥י]] [[H9009\|הַ]][[H1471A\|גּוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic CHURCH|CHURCH]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISLAND|ISLAND]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.2.10|<< Zephaniah 2:10]]</td><td align="center" style="border:none;">[[Zeph.2|Zephaniah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.2.12|Zephaniah 2:12 >>]]</td></tr></table>
 

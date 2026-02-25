@@ -1,8 +1,55 @@
+---
+title: 1 Chronicles 5:7
+type: Verse
+kjv: "And his brethren by their families, when the genealogy of their generations was reckoned, were the chief, Jeiel, and Zechariah,"
+bsb: "His relatives by their clans are recorded in their genealogy: Jeiel the chief, Zechariah,"
+hebrew: "וְאֶחָיו֙ לְמִשְׁפְּחֹתָ֔יו בְּהִתְיַחֵ֖שׂ לְתֹלְדוֹתָ֑ם הָרֹ֥אשׁ יְעִיאֵ֖ל וּזְכַרְיָֽהוּ׃"
+pericope: "[[1Chr.5.1 The Descendants of Reuben|The Descendants of Reuben]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 5
+book/chapter: "[[1Chr.5|1 Chronicles 5]]"
+chronological_order: 324
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic JEIEL|JEIEL]]"
+- "[[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]"
+strongs:
+- "[[H9002]]"
+- "[[H0251H]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H9003]]"
+- "[[H3187]]"
+- "[[H8435]]"
+- "[[H9028]]"
+- "[[H9009]]"
+- "[[H7218H]]"
+- "[[H3273G]]"
+- "[[H2148D]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 5:7**<big><big>[[1Chr.5.1 The Descendants of Reuben|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his brethren by their families, when the genealogy of their generations was reckoned, [were] the chief, Jeiel, and Zechariah,
 <small><sub>**BSB:**</sub></small>
 His relatives by their clans are recorded in their genealogy: Jeiel the chief, Zechariah,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0251H\|אֶחָי]][[H9023\|ו֙]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָ֔י]][[H9023\|ו]] [[H9003\|בְּ]][[H3187\|הִתְיַחֵ֖שׂ]] [[H9005\|לְ]][[H8435\|תֹלְדוֹתָ֑]][[H9028\|ם]] [[H9009\|הָ]][[H7218H\|רֹ֥אשׁ]] [[H3273G\|יְעִיאֵ֖ל]] [[H9002\|וּ]][[H2148D\|זְכַרְיָֽהוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEIEL|JEIEL]] • [[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.6|<< 1 Chronicles 5:6]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.8|1 Chronicles 5:8 >>]]</td></tr></table>
 

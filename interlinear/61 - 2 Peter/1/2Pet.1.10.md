@@ -1,10 +1,66 @@
+---
+title: 2 Peter 1:10
+type: Verse
+kjv: "Wherefore the rather, brethren, give diligence to make your calling and election sure: for if ye do these things, ye shall never fall:"
+bsb: "Therefore, brothers, strive to make your calling and election sure. For if you practice these things you will never stumble,"
+greek: "διὸ μᾶλλον, ἀδελφοί, σπουδάσατε βεβαίαν ὑμῶν τὴν κλῆσιν καὶ ἐκλογὴν ποιεῖσθαι· ταῦτα γὰρ ποιοῦντες οὐ μὴ πταίσητέ ποτε."
+pericope: "[[2Pet.1.3 Partakers of the Divine Nature|Partakers of the Divine Nature]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 1
+book/chapter: "[[2Pet.1|2 Peter 1]]"
+chronological_order: 1157
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic CALL|CALL]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic DILIGENCE|DILIGENCE]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1352]]"
+- "[[G3123H]]"
+- "[[G0080]]"
+- "[[G4704]]"
+- "[[G0949]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G2821]]"
+- "[[G2532]]"
+- "[[G1589]]"
+- "[[G4160G]]"
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G4417]]"
+- "[[G4218]]"
+texts:
+- NKO
+---
+
 **2 Peter 1:10**<big><big>[[2Pet.1.3 Partakers of the Divine Nature|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore the rather, brethren, give diligence to make your calling and election sure: for if ye do these things, ye shall never fall:
 <small><sub>**BSB:**</sub></small>
 Therefore, brothers, strive to make your calling and election sure. For if you practice these things you will never stumble,
-<small><sub>**Literal:**</sub></small>
-Therefore rather, brothers, do be diligent sure your <the> calling and election to make; these things for practicing certainly not shall you stumble at any time.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.9|<< 2 Peter 1:9]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.11|2 Peter 1:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1352\|διὸ]]  [[G3123H\|μᾶλλον,]]  [[G0080\|ἀδελφοί,]]  [[G4704\|σπουδάσατε]]  [[G0949\|βεβαίαν]]  [[G4771\|ὑμῶν]]  [[G3588\|τὴν]]  [[G2821\|κλῆσιν]]  [[G2532\|καὶ]]  [[G1589\|ἐκλογὴν]]  [[G4160G\|ποιεῖσθαι·]]  [[G3778\|ταῦτα]]  [[G1063\|γὰρ]]  [[G4160G\|ποιοῦντες]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G4417\|πταίσητέ]]  [[G4218\|ποτε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSURANCE|ASSURANCE]] • [[topic CALL|CALL]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECISION|DECISION]] • [[topic DILIGENCE|DILIGENCE]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic REWARD|REWARD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.9|<< 2 Peter 1:9]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.11|2 Peter 1:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

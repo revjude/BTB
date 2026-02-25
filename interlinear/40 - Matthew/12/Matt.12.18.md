@@ -1,10 +1,63 @@
+---
+title: Matthew 12:18
+type: Verse
+kjv: "Behold my servant, whom I have chosen; my beloved, in whom my soul is well pleased: I will put my spirit upon him, and he shall shew judgment to the Gentiles."
+bsb: "“Here is My Servant, whom I have chosen, My beloved, in whom My soul delights. I will put My Spirit on Him, and He will proclaim justice to the nations."
+greek: "ἰδοὺ ὁ παῖς μου ὃν ᾑρέτισα, ὁ ἀγαπητός μου εἰς ὃν εὐδόκησεν ἡ ψυχή μου. θήσω τὸ πνεῦμά μου ἐπ᾽ αὐτόν, καὶ κρίσιν τοῖς ἔθνεσιν ἀπαγγελεῖ."
+pericope: "[[Matt.12.15 God’s Chosen Servant|God’s Chosen Servant]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[G2400]]"
+- "[[G3588]]"
+- "[[G3816]]"
+- "[[G3165]]"
+- "[[G3739]]"
+- "[[G0140]]"
+- "[[G0027]]"
+- "[[G1519]]"
+- "[[G2106]]"
+- "[[G5590G]]"
+- "[[G5087]]"
+- "[[G4151G]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G2920]]"
+- "[[G1484]]"
+- "[[G0518]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Matthew 12:18**<big><big>[[Matt.12.15 God’s Chosen Servant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Behold my servant, whom I have chosen; my beloved, in whom my soul is well pleased: I will put my spirit upon him, and he shall shew judgment to the Gentiles.
 <small><sub>**BSB:**</sub></small>
 “Here is My Servant, whom I have chosen, My beloved, in whom My soul delights. I will put My Spirit on Him, and He will proclaim justice to the nations.
-<small><sub>**Literal:**</sub></small>
-Behold the servant of Mine whom I have chosen, the beloved of Mine in whom has found delight the soul of Mine. I will put the Spirit of Mine upon Him, and justice to the Gentiles He will proclaim.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.17|<< Matthew 12:17]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.19|Matthew 12:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2400\|ἰδοὺ]]  [[G3588\|ὁ]]  [[G3816\|παῖς]]  [[G3165\|μου]]  [[G3739\|ὃν]]  [[G0140\|ᾑρέτισα,]]  [[G3588\|ὁ]]  [[G0027\|ἀγαπητός]]  [[G3165\|μου]]  [[G1519\|εἰς]]  [[G3739\|ὃν]]  [[G2106\|εὐδόκησεν]]  [[G3588\|ἡ]]  [[G5590G\|ψυχή]]  [[G3165\|μου.]]  [[G5087\|θήσω]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμά]]  [[G3165\|μου]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτόν,]]  [[G2532\|καὶ]]  [[G2920\|κρίσιν]]  [[G3588\|τοῖς]]  [[G1484\|ἔθνεσιν]]  [[G0518\|ἀπαγγελεῖ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic TRINITY|TRINITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.17|<< Matthew 12:17]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.19|Matthew 12:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 12:18** is...
 > $\quad$ referencing: [[LXX.Isa.42.1|Isa 42:1-4]]

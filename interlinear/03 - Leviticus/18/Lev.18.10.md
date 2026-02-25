@@ -1,8 +1,61 @@
+---
+title: Leviticus 18:10
+type: Verse
+kjv: "The nakedness of thy son’s daughter, or of thy daughter’s daughter, even their nakedness thou shalt not uncover: for theirs is thine own nakedness."
+bsb: "You must not have sexual relations with your son’s daughter or your daughter’s daughter, for that would shame your family."
+hebrew: "עֶרְוַ֤ת בַּת־ בִּנְךָ֙ א֣וֹ בַֽת־ בִּתְּךָ֔ לֹ֥א תְגַלֶּ֖ה עֶרְוָתָ֑ן כִּ֥י עֶרְוָתְךָ֖ הֵֽנָּה׃ ס"
+pericope: "[[Lev.18.1 Unlawful Sexual Relations|Unlawful Sexual Relations]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 18
+book/chapter: "[[Lev.18|Leviticus 18]]"
+chronological_order: 150
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ABOMINATION|ABOMINATION]]"
+- "[[topic COPULATION|COPULATION]]"
+- "[[topic INCEST|INCEST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+strongs:
+- "[[H6172]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H0176A]]"
+- "[[H3808]]"
+- "[[H1540I]]"
+- "[[H9029]]"
+- "[[H3588A]]"
+- "[[H2007]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Leviticus 18:10**<big><big>[[Lev.18.1 Unlawful Sexual Relations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The nakedness of thy son’s daughter, or of thy daughter’s daughter, [even] their nakedness thou shalt not uncover: for theirs [is] thine own nakedness.
 <small><sub>**BSB:**</sub></small>
 You must not have sexual relations with your son’s daughter or your daughter’s daughter, for that would shame your family.
+<small><sub>**Hebrew:**</sub></small>
+[[H6172\|עֶרְוַ֤ת]] [[H1323G\|בַּת]][[H9014\|־]] [[H1121A\|בִּנְ]][[H9021\|ךָ֙]] [[H0176A\|א֣וֹ]] [[H1323G\|בַֽת]][[H9014\|־]] [[H1323G\|בִּתְּ]][[H9021\|ךָ֔]] [[H3808\|לֹ֥א]] [[H1540I\|תְגַלֶּ֖ה]] [[H6172\|עֶרְוָתָ֑]][[H9029\|ן]] [[H3588A\|כִּ֥י]] [[H6172\|עֶרְוָתְ]][[H9021\|ךָ֖]] [[H2007\|הֵֽנָּה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABOMINATION|ABOMINATION]] • [[topic COPULATION|COPULATION]] • [[topic INCEST|INCEST]] • [[topic MARRIAGE|MARRIAGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18.9|<< Leviticus 18:9]]</td><td align="center" style="border:none;">[[Lev.18|Leviticus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.18.11|Leviticus 18:11 >>]]</td></tr></table>
 
@@ -19,7 +72,7 @@ You must not have sexual relations with your son’s daughter or your daughter�
 | nakedness their  |**<big>&#8207;[[H6172\|עֶרְוָתָ֑]]&#8207;&#8207;[[H9029\|ן]]&#8207; </big>**| 'er.va.Ta<small><sup>[[HNcfsc]]</sup></small> n<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] own nakedness your  |**<big>&#8207;[[H6172\|עֶרְוָתְ]]&#8207;&#8207;[[H9021\|ךָ֖]]&#8207; </big>**| 'er.va.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they  |**<big>&#8207;[[H2007\|הֵֽנָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| He.nah<small><sup>[[HPp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  |**<big>&#8207;[[H2007\|הֵֽנָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| He.nah<small><sup>[[HPp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18.9|<< Leviticus 18:9]]</td><td align="center" style="border:none;">[[Lev.18|Leviticus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.18.11|Leviticus 18:11 >>]]</td></tr></table>
 
 

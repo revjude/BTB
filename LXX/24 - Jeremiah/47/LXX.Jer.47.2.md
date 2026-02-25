@@ -1,6 +1,70 @@
+---
+title: LXX Jeremiah 47:2
+type: Verse
+lxx: "Thus says the lord, Behold, waters ascend from the north, and will be for a rushing stream, flooding. And it shall flood the land, and the fullness of it; the city and the ones dwelling in it. And the men shall cry out, and the ones dwelling in the land shall shout all together"
+greek: "τάδε λέγει κύριος ιδού ύδατα αναβαίνει από βορρά και έσται εις χειμάρρουν κατακλύζοντα και κατακλύσει γην και το πλήρωμα αυτής πόλιν και τους κατοικούντας εν αυτή και κεκράξονται οι άνθρωποι και αλαλάξουσιν άπαντες οι κατοικούντες την γην"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 47
+book/chapter: "[[Jer.47|Jeremiah 47]]"
+chronological_order: 770
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[G3592]]"
+- "[[G3004]]"
+- "[[G2962]]"
+- "[[G2400]]"
+- "[[G5204]]"
+- "[[G0305]]"
+- "[[G0575]]"
+- "[[G1005]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G1519]]"
+- "[[G5493]]"
+- "[[G2626]]"
+- "[[G2532]]"
+- "[[G2626]]"
+- "[[G1093]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4138]]"
+- "[[G1473]]"
+- "[[G4172]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2730]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2896]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G2532]]"
+- "[[G0214]]"
+- "[[G0537]]"
+- "[[G3588]]"
+- "[[G2730]]"
+- "[[G3588]]"
+- "[[G1093]]"
+---
+
 **LXX Jeremiah 47:2** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, Behold, waters ascend from \[the\] north, and will be for a rushing stream, flooding. And it shall flood \[the\] land, and the fullness of it; \[the\] city and \[the\] ones dwelling in it. And the men shall cry out, and \[the\] ones dwelling in the land shall shout all together 
+<small><sub>**Greek:**</sub></small>
+[[G3592\|τάδε]] [[G3004\|λέγει]] [[G2962\|κύριος]] [[G2400\|ιδού]] [[G5204\|ύδατα]] [[G0305\|αναβαίνει]] [[G0575\|από]] [[G1005\|βορρά]] [[G2532\|και]] [[G1510\|έσται]] [[G1519\|εις]] [[G5493\|χειμάρρουν]] [[G2626\|κατακλύζοντα]] [[G2532\|και]] [[G2626\|κατακλύσει]] [[G1093\|γην]] [[G2532\|και]] [[G3588\|το]] [[G4138\|πλήρωμα]] [[G1473\|αυτής]] [[G4172\|πόλιν]] [[G2532\|και]] [[G3588\|τους]] [[G2730\|κατοικούντας]] [[G1722\|εν]] [[G1473\|αυτή]] [[G2532\|και]] [[G2896\|κεκράξονται]] [[G3588\|οι]] [[G0444\|άνθρωποι]] [[G2532\|και]] [[G0214\|αλαλάξουσιν]] [[G0537\|άπαντες]] [[G3588\|οι]] [[G2730\|κατοικούντες]] [[G3588\|την]] [[G1093\|γην]]
 <small><sub>**MT:**</sub></small>
 [[Jer.47.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.47.1|<< Jeremiah 47:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.47.3|Jeremiah 47:3 >>]]</td></tr></table>
 
@@ -43,6 +107,6 @@ Thus says \[the\] <span class="smallcaps">lord</span>, Behold, waters ascend fro
 | dwelling | **<big>[[G2730\|κατοικούντες]]</big>** |
 | in the | **<big>[[G3588\|την]]</big>** |
 | land | **<big>[[G1093\|γην]]</big>** |
-[[Jer.47.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.47.1|<< Jeremiah 47:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.47.3|Jeremiah 47:3 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.47.1|<< Jeremiah 47:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.47.3|Jeremiah 47:3 >>]]</td></tr></table>
 
 

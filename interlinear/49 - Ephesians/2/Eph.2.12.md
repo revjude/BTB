@@ -1,10 +1,65 @@
+---
+title: Ephesians 2:12
+type: Verse
+kjv: "That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:"
+bsb: "remember that at that time you were separate from Christ, alienated from the commonwealth of Israel, and strangers to the covenants of the promise, without hope and without God in the world."
+greek: "ὅτι ἦτε ἐν τῷ καιρῷ ἐκείνῳ χωρὶς Χριστοῦ ἀπηλλοτριωμένοι τῆς πολιτείας τοῦ Ἰσραὴλ καὶ ξένοι τῶν διαθηκῶν τῆς ἐπαγγελίας, ἐλπίδα μὴ ἔχοντες καὶ ἄθεοι ἐν τῷ κόσμῳ·"
+pericope: "[[Eph.2.11 One in Christ|One in Christ]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 2
+book/chapter: "[[Eph.2|Ephesians 2]]"
+chronological_order: 1112
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic NATURALIZATION|NATURALIZATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3754H]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2540]]"
+- "[[G1565]]"
+- "[[G5565]]"
+- "[[G5547]]"
+- "[[G0526]]"
+- "[[G4174]]"
+- "[[G2474]]"
+- "[[G2532]]"
+- "[[G3581]]"
+- "[[G1242]]"
+- "[[G1860]]"
+- "[[G1680]]"
+- "[[G3361]]"
+- "[[G2192]]"
+- "[[G0112]]"
+- "[[G2889]]"
+texts:
+- NKO
+- k
+---
+
 **Ephesians 2:12**<big><big>[[Eph.2.11 One in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:
 <small><sub>**BSB:**</sub></small>
 remember that at that time you were separate from Christ, alienated from the commonwealth of Israel, and strangers to the covenants of the promise, without hope and without God in the world.
-<small><sub>**Literal:**</sub></small>
-for you were in <the> time that [very] separate from Christ alienated from the commonwealth <the> of Israel and strangers to the covenants of the promise, hope not having and without God in the world;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.11|<< Ephesians 2:11]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.13|Ephesians 2:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G1510\|ἦτε]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2540\|καιρῷ]]  [[G1565\|ἐκείνῳ]]  [[G5565\|χωρὶς]]  [[G5547\|Χριστοῦ]]  [[G0526\|ἀπηλλοτριωμένοι]]  [[G3588\|τῆς]]  [[G4174\|πολιτείας]]  [[G3588\|τοῦ]]  [[G2474\|Ἰσραὴλ]]  [[G2532\|καὶ]]  [[G3581\|ξένοι]]  [[G3588\|τῶν]]  [[G1242\|διαθηκῶν]]  [[G3588\|τῆς]]  [[G1860\|ἐπαγγελίας,]]  [[G1680\|ἐλπίδα]]  [[G3361\|μὴ]]  [[G2192\|ἔχοντες]]  [[G2532\|καὶ]]  [[G0112\|ἄθεοι]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2889\|κόσμῳ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GENTILES|GENTILES]] • [[topic HOPE|HOPE]] • [[topic NATURALIZATION|NATURALIZATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.11|<< Ephesians 2:11]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.13|Ephesians 2:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

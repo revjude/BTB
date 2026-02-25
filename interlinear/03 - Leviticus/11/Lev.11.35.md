@@ -1,8 +1,71 @@
+---
+title: Leviticus 11:35
+type: Verse
+kjv: "And every thing whereupon any part of their carcase falleth shall be unclean; whether it be oven, or ranges for pots, they shall be broken down: for they are unclean, and shall be unclean unto you."
+bsb: "Anything upon which one of their carcasses falls will be unclean. If it is an oven or cooking pot, it must be smashed; it is unclean and will remain unclean for you."
+hebrew: "וְ֠כֹל אֲשֶׁר־ יִפֹּ֨ל מִנִּבְלָתָ֥ם׀ עָלָיו֮ יִטְמָא֒ תַּנּ֧וּר וְכִירַ֛יִם יֻתָּ֖ץ טְמֵאִ֣ים הֵ֑ם וּטְמֵאִ֖ים יִהְי֥וּ לָכֶֽם׃"
+pericope: "[[Lev.11.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 11
+book/chapter: "[[Lev.11|Leviticus 11]]"
+chronological_order: 143
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BREAD|BREAD]]"
+- "[[topic CREEPING THINGS|CREEPING THINGS]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic OVEN|OVEN]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5307G]]"
+- "[[H9006]]"
+- "[[H5038]]"
+- "[[H9028]]"
+- "[[H9015]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H2930A]]"
+- "[[H8574H]]"
+- "[[H3600]]"
+- "[[H5422]]"
+- "[[H2931]]"
+- "[[H1992]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 11:35**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And every [thing] whereupon [any part] of their carcase falleth shall be unclean; [whether it be] oven, or ranges for pots, they shall be broken down: [for] they [are] unclean, and shall be unclean unto you.
 <small><sub>**BSB:**</sub></small>
 Anything upon which one of their carcasses falls will be unclean. If it is an oven or cooking pot, it must be smashed; it is unclean and will remain unclean for you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֠]][[H3605\|כֹל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5307G\|יִפֹּ֨ל]] [[H9006\|מִ]][[H5038\|נִּבְלָתָ֥]][[H9028\|ם]][[H9015\|׀]] [[H5921A\|עָלָי]][[H9033\|ו֮]] [[H2930A\|יִטְמָא֒]] [[H8574H\|תַּנּ֧וּר]] [[H9002\|וְ]][[H3600\|כִירַ֛יִם]] [[H5422\|יֻתָּ֖ץ]] [[H2931\|טְמֵאִ֣ים]] [[H1992\|הֵ֑ם]] [[H9002\|וּ]][[H2931\|טְמֵאִ֖ים]] [[H1961\|יִהְי֥וּ]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREAD|BREAD]] • [[topic CREEPING THINGS|CREEPING THINGS]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic FOOD|FOOD]] • [[topic OVEN|OVEN]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.34|<< Leviticus 11:34]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.36|Leviticus 11:36 >>]]</td></tr></table>
 

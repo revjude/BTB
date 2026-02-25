@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Seed Growing Secretly
+type: Pericope
 pericope: "[[Mark.4.26 The Seed Growing Secretly|The Seed Growing Secretly]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Mark
 chapter: 4
 book/chapter: "[[Mark.4|Mark 4]]"
-genre:
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 4
 verses:
 - "[[Mark.4.26]]"
 - "[[Mark.4.27]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Mark.4.29]]"
 ---
 
-[[Mark.4|Mark 4:26 - Mark 4:29]]
+<small>[[Mark.4|Mark 4:26-29]]</small>
 *The Seed Growing Secretly*
 
 [[Mark.4.26|26]] And he said, So is the kingdom of God, as if a man should cast seed into the ground;

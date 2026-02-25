@@ -1,8 +1,77 @@
+---
+title: Jeremiah 27:6
+type: Verse
+kjv: "And now have I given all these lands into the hand of Nebuchadnezzar the king of Babylon, my servant; and the beasts of the field have I given him also to serve him."
+bsb: "So now I have placed all these lands under the authority of My servant Nebuchadnezzar king of Babylon. I have even made the beasts of the field subject to him."
+hebrew: "וְעַתָּ֗ה אָֽנֹכִי֙ נָתַ֙תִּי֙ אֶת־ כָּל־ הָאֲרָצ֣וֹת הָאֵ֔לֶּה בְּיַ֛ד נְבוּכַדְנֶאצַּ֥ר מֶֽלֶךְ־ בָּבֶ֖ל עַבְדִּ֑י וְגַם֙ אֶת־ חַיַּ֣ת הַשָּׂדֶ֔ה נָתַ֥תִּי ל֖וֹ לְעָבְדֽוֹ׃"
+pericope: "[[Jer.27.1 The Yoke of Nebuchadnezzar|The Yoke of Nebuchadnezzar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 27
+book/chapter: "[[Jer.27|Jeremiah 27]]"
+chronological_order: 750
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic EDOM|EDOM]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic MAN|MAN]]"
+- "[[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]"
+- "[[topic SIDON|SIDON]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H0595]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0428]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H5019]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H1571]]"
+- "[[H2416C]]"
+- "[[H7704G]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5647G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 27:6**<big><big>[[Jer.27.1 The Yoke of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now have I given all these lands into the hand of Nebuchadnezzar the king of Babylon, my servant; and the beasts of the field have I given him also to serve him.
 <small><sub>**BSB:**</sub></small>
 So now I have placed all these lands under the authority of My servant Nebuchadnezzar king of Babylon. I have even made the beasts of the field subject to him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H0595\|אָֽנֹכִי֙]] [[H5414G\|נָתַ֙תִּי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אֲרָצ֣וֹת]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H9003\|בְּ]][[H3027H\|יַ֛ד]] [[H5019\|נְבוּכַדְנֶאצַּ֥ר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֖ל]] [[H5650\|עַבְדִּ֑]][[H9020\|י]] [[H9002\|וְ]][[H1571\|גַם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H2416C\|חַיַּ֣ת]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֔ה]] [[H5414G\|נָתַ֥תִּי]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9005\|לְ]][[H5647G\|עָבְדֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic BABYLON|BABYLON]] • [[topic BIRDS|BIRDS]] • [[topic BLESSING|BLESSING]] • [[topic EDOM|EDOM]] • [[topic EDOMITES|EDOMITES]] • [[topic GOD|GOD]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic MAN|MAN]] • [[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]] • [[topic SIDON|SIDON]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.27.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.27.5|<< Jeremiah 27:5]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.7|Jeremiah 27:7 >>]]</td></tr></table>
 

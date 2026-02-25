@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: You Have Searched Me and Known Me
+type: Pericope
 pericope: "[[Ps.139.1 You Have Searched Me and Known Me|You Have Searched Me and Known Me]]"
-verse_count: 25
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 139
 book/chapter: "[[Ps.139|Psalm 139]]"
-genre:
+chronological_order: 386
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 25
 verses:
 - "[[Ps.139.0]]"
 - "[[Ps.139.1]]"
@@ -46,7 +53,7 @@ verses:
 - "[[Ps.139.24]]"
 ---
 
-[[Ps.139|Psalm 139:1 - Psalm 139:24]]
+<small>[[Ps.139|Psalm 139:1-24]]</small>
 *You Have Searched Me and Known Me*
 
 [[Ps.139.0|0]] To the chief Musician, A Psalm of David.

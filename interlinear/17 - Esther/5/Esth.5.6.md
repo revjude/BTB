@@ -1,8 +1,64 @@
+---
+title: Esther 5:6
+type: Verse
+kjv: "And the king said unto Esther at the banquet of wine, What is thy petition? and it shall be granted thee: and what is thy request? even to the half of the kingdom it shall be performed."
+bsb: "And as they drank their wine, the king said to Esther, “What is your petition? It will be given to you. What is your request? Even up to half the kingdom, it will be fulfilled.”"
+hebrew: "וַיֹּ֨אמֶר הַמֶּ֤לֶךְ לְאֶסְתֵּר֙ בְּמִשְׁתֵּ֣ה הַיַּ֔יִן מַה־ שְּׁאֵלָתֵ֖ךְ וְיִנָּ֣תֵֽן לָ֑ךְ וּמַה־ בַּקָּשָׁתֵ֛ךְ עַד־ חֲצִ֥י הַמַּלְכ֖וּת וְתֵעָֽשׂ׃"
+pericope: "[[Esth.5.1 Esther Approaches the King|Esther Approaches the King]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 5
+book/chapter: "[[Esth.5|Esther 5]]"
+chronological_order: 903
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic KING|KING]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H0635]]"
+- "[[H9003]]"
+- "[[H4960]]"
+- "[[H3196]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H7596]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H5414G]]"
+- "[[H9032]]"
+- "[[H1246]]"
+- "[[H5704]]"
+- "[[H2677]]"
+- "[[H4438]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 5:6**<big><big>[[Esth.5.1 Esther Approaches the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king said unto Esther at the banquet of wine, What [is] thy petition? and it shall be granted thee: and what [is] thy request? even to the half of the kingdom it shall be performed.
 <small><sub>**BSB:**</sub></small>
 And as they drank their wine, the king said to Esther, “What is your petition? It will be given to you. What is your request? Even up to half the kingdom, it will be fulfilled.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֤לֶךְ]] [[H9005\|לְ]][[H0635\|אֶסְתֵּר֙]] [[H9003\|בְּ]][[H4960\|מִשְׁתֵּ֣ה]] [[H9009\|הַ]][[H3196\|יַּ֔יִן]] [[H4100\|מַה]][[H9014\|־]] [[H7596\|שְּׁאֵלָתֵ֖]][[H9022\|ךְ]] [[H9002\|וְ]][[H5414G\|יִנָּ֣תֵֽן]] [[H9005\|לָ֑]][[H9032\|ךְ]] [[H9002\|וּ]][[H4100\|מַה]][[H9014\|־]] [[H1246\|בַּקָּשָׁתֵ֛]][[H9022\|ךְ]] [[H5704\|עַד]][[H9014\|־]] [[H2677\|חֲצִ֥י]] [[H9009\|הַ]][[H4438\|מַּלְכ֖וּת]] [[H9002\|וְ]][[H6213A\|תֵעָֽשׂ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic KING|KING]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.5.5|<< Esther 5:5]]</td><td align="center" style="border:none;">[[Esth.5|Esther 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.5.7|Esther 5:7 >>]]</td></tr></table>
 

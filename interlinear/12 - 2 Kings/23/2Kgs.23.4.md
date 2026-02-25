@@ -1,8 +1,84 @@
+---
+title: 2 Kings 23:4
+type: Verse
+kjv: "And the king commanded Hilkiah the high priest, and the priests of the second order, and the keepers of the door, to bring forth out of the temple of the LORD all the vessels that were made for Baal, and for the grove, and for all the host of heaven: and he burned them without Jerusalem in the fields of Kidron, and carried the ashes of them unto Bethel."
+bsb: "Then the king commanded Hilkiah the high priest, the priests second in rank, and the doorkeepers to remove from the temple of the LORD all the articles made for Baal, Asherah, and all the host of heaven. And he burned them outside Jerusalem in the fields of Kidron and carried their ashes to Bethel."
+hebrew: "וַיְצַ֣ו הַמֶּ֡לֶךְ אֶת־ חִלְקִיָּהוּ֩ הַכֹּהֵ֨ן הַגָּד֜וֹל וְאֶת־ כֹּהֲנֵ֣י הַמִּשְׁנֶה֮ וְאֶת־ שֹׁמְרֵ֣י הַסַּף֒ לְהוֹצִיא֙ מֵהֵיכַ֣ל יְהוָ֔ה אֵ֣ת כָּל־ הַכֵּלִ֗ים הָֽעֲשׂוּיִם֙ לַבַּ֣עַל וְלָֽאֲשֵׁרָ֔ה וּלְכֹ֖ל צְבָ֣א הַשָּׁמָ֑יִם וַֽיִּשְׂרְפֵ֞ם מִח֤וּץ לִירוּשָׁלִַ֙ם֙ בְּשַׁדְמ֣וֹת קִדְר֔וֹן וְנָשָׂ֥א אֶת־ עֲפָרָ֖ם בֵּֽית־ אֵֽל׃"
+pericope: "[[2Kgs.23.4 Josiah Destroys Idolatry|Josiah Destroys Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 23
+book/chapter: "[[2Kgs.23|2 Kings 23]]"
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BAAL|BAAL]]"
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic CALF|CALF]]"
+- "[[topic HILKIAH|HILKIAH]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2518H]]"
+- "[[H3548]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H4932H]]"
+- "[[H8104H]]"
+- "[[H5592B]]"
+- "[[H9005]]"
+- "[[H3318H]]"
+- "[[H9006]]"
+- "[[H1964G]]"
+- "[[H3068G]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H6213H]]"
+- "[[H1168A]]"
+- "[[H0842]]"
+- "[[H6635A]]"
+- "[[H8064]]"
+- "[[H8313]]"
+- "[[H9038]]"
+- "[[H2351]]"
+- "[[H3389]]"
+- "[[H9003]]"
+- "[[H7709]]"
+- "[[H6939]]"
+- "[[H5375H]]"
+- "[[H6083]]"
+- "[[H9028]]"
+- "[[H1008G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 23:4**<big><big>[[2Kgs.23.4 Josiah Destroys Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king commanded Hilkiah the high priest, and the priests of the second order, and the keepers of the door, to bring forth out of the temple of the LORD all the vessels that were made for Baal, and for the grove, and for all the host of heaven: and he burned them without Jerusalem in the fields of Kidron, and carried the ashes of them unto Bethel.
 <small><sub>**BSB:**</sub></small>
 Then the king commanded Hilkiah the high priest, the priests second in rank, and the doorkeepers to remove from the temple of the LORD all the articles made for Baal, Asherah, and all the host of heaven. And he burned them outside Jerusalem in the fields of Kidron and carried their ashes to Bethel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַ֣ו]] [[H9009\|הַ]][[H4428G\|מֶּ֡לֶךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H2518H\|חִלְקִיָּהוּ֩]] [[H9009\|הַ]][[H3548\|כֹּהֵ֨ן]] [[H9009\|הַ]][[H1419A\|גָּד֜וֹל]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3548\|כֹּהֲנֵ֣י]] [[H9009\|הַ]][[H4932H\|מִּשְׁנֶה֮]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8104H\|שֹׁמְרֵ֣י]] [[H9009\|הַ]][[H5592B\|סַּף֒]] [[H9005\|לְ]][[H3318H\|הוֹצִיא֙]] [[H9006\|מֵ]][[H1964G\|הֵיכַ֣ל]] [[H3068G\|יְהוָ֔ה]] [[H0853\|אֵ֣ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3627\|כֵּלִ֗ים]] [[H9009\|הָֽ]][[H6213H\|עֲשׂוּיִם֙]] [[H9005\|לַ]][[H1168A\|בַּ֣עַל]] [[H9002\|וְ]][[H9005\|לָֽ]][[H0842\|אֲשֵׁרָ֔ה]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כֹ֖ל]] [[H6635A\|צְבָ֣א]] [[H9009\|הַ]][[H8064\|שָּׁמָ֑יִם]] [[H9001\|וַֽ]][[H8313\|יִּשְׂרְפֵ֞]][[H9038\|ם]] [[H9006\|מִ]][[H2351\|ח֤וּץ]] [[H9005\|לִ]][[H3389\|ירוּשָׁלִַ֙ם֙]] [[H9003\|בְּ]][[H7709\|שַׁדְמ֣וֹת]] [[H6939\|קִדְר֔וֹן]] [[H9001\|וְ]][[H5375H\|נָשָׂ֥א]] [[H0853\|אֶת]][[H9014\|־]] [[H6083\|עֲפָרָ֖]][[H9028\|ם]] [[H1008G\|בֵּֽית]][[H9014\|־]] [[H1008G\|אֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL|BAAL]] • [[topic BETH-EL|BETH-EL]] • [[topic CALF|CALF]] • [[topic HILKIAH|HILKIAH]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOSIAH|JOSIAH]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.3|<< 2 Kings 23:3]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.5|2 Kings 23:5 >>]]</td></tr></table>
 

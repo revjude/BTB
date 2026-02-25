@@ -1,8 +1,56 @@
+---
+title: Psalm 74:6
+type: Verse
+kjv: "But now they break down the carved work thereof at once with axes and hammers."
+bsb: "and smashing all the carvings with hatchets and picks."
+hebrew: "וְ֭עַתָּה פִּתּוּחֶ֣יהָ יָּ֑חַד בְּכַשִּׁ֥יל וְ֝כֵֽילַפֹּ֗ת יַהֲלֹמֽוּן׃"
+pericope: "[[Ps.74.1 Why Have You Rejected Us Forever？|Why Have You Rejected Us Forever？]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 74
+book/chapter: "[[Ps.74|Psalm 74]]"
+chronological_order: 781
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AX|AX]]"
+- "[[topic CARVING|CARVING]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H6603]]"
+- "[[H9024]]"
+- "[[H3162A]]"
+- "[[H9003]]"
+- "[[H3781]]"
+- "[[H3597]]"
+- "[[H1986]]"
+- "[[H9013]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Psalms 74:6**<big><big>[[Ps.74.1 Why Have You Rejected Us Forever？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But now they break down the carved work thereof at once with axes and hammers.
 <small><sub>**BSB:**</sub></small>
 and smashing all the carvings with hatchets and picks.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֭]][[H6258\|עַתָּה]] [[H6603\|פִּתּוּחֶ֣י]][[H9024\|הָ]] [[H3162A\|יָּ֑חַד]] [[H9003\|בְּ]][[H3781\|כַשִּׁ֥יל]] [[H9002\|וְ֝]][[H3597\|כֵֽילַפֹּ֗ת]] [[H1986\|יַהֲלֹמֽוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AX|AX]] • [[topic CARVING|CARVING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.74.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.5|<< Psalms 74:5]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.7|Psalms 74:7 >>]]</td></tr></table>
 
@@ -16,7 +64,7 @@ and smashing all the carvings with hatchets and picks.
 | they struck !  |**<big>&#8207;[[H1986\|יַהֲלֹמֽוּ]]&#8207;&#8207;[[H9013\|ן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.ha.lo.Mu<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.5|<< Psalms 74:5]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.7|Psalms 74:7 >>]]</td></tr></table>
 
-[^1]: and a time  | **<big>[[H6258|עֵת]]</big><big>[[H9002|וְ]]</big> ** | Ve.<small><sup>[[HC]]</sup></small> 'a.tah<small><sup>[[HD]]</sup></small> | K
-[^2]: and a time  | **<big>[[H6258|עֵת]]</big><big>[[H9002|וְ]]</big> ** | Ve.<small><sup>[[HC]]</sup></small> 'a.tah<small><sup>[[HD]]</sup></small> | K
+[^1]: and a time  | **<big>[[H9002|וְ]]</big><big>[[H6258|עֵת]]</big> ** | Ve.<small><sup>[[HC]]</sup></small> 'a.tah<small><sup>[[HD]]</sup></small> | K
+[^2]: and a time  | **<big>[[H9002|וְ]]</big><big>[[H6258|עֵת]]</big> ** | Ve.<small><sup>[[HC]]</sup></small> 'a.tah<small><sup>[[HD]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וְ֭עַתָּ</big></span>**
 

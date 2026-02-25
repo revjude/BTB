@@ -1,8 +1,77 @@
+---
+title: 1 Kings 8:23
+type: Verse
+kjv: "And he said, LORD God of Israel, there is no God like thee, in heaven above, or on earth beneath, who keepest covenant and mercy with thy servants that walk before thee with all their heart:"
+bsb: "and said: “O LORD, God of Israel, there is no God like You in heaven above or on earth below, keeping Your covenant of loving devotion with Your servants who walk before You with all their hearts."
+hebrew: "וַיֹּאמַ֗ר יְהוָ֞ה אֱלֹהֵ֤י יִשְׂרָאֵל֙ אֵין־ כָּמ֣וֹךָ אֱלֹהִ֔ים בַּשָּׁמַ֣יִם מִמַּ֔עַל וְעַל־ הָאָ֖רֶץ מִתָּ֑חַת שֹׁמֵ֤ר הַבְּרִית֙ וְֽהַחֶ֔סֶד לַעֲבָדֶ֕יךָ הַהֹלְכִ֥ים לְפָנֶ֖יךָ בְּכָל־ לִבָּֽם׃"
+pericope: "[[1Kgs.8.22 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SPIRITUALITY|SPIRITUALITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H3644G]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H8064]]"
+- "[[H9006]]"
+- "[[H4605]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H8478G]]"
+- "[[H8104G]]"
+- "[[H1285]]"
+- "[[H2617A]]"
+- "[[H9005]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H1980I]]"
+- "[[H6440G]]"
+- "[[H3605]]"
+- "[[H3820A]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:23**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, LORD God of Israel, [there is] no God like thee, in heaven above, or on earth beneath, who keepest covenant and mercy with thy servants that walk before thee with all their heart:
 <small><sub>**BSB:**</sub></small>
 and said: “O LORD, God of Israel, there is no God like You in heaven above or on earth below, keeping Your covenant of loving devotion with Your servants who walk before You with all their hearts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמַ֗ר]] [[H3068G\|יְהוָ֞ה]] [[H0430G\|אֱלֹהֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H0369\|אֵין]][[H9014\|־]] [[H3644G\|כָּמ֣וֹ]][[H9031\|ךָ]] [[H0430G\|אֱלֹהִ֔ים]] [[H9003\|בַּ]][[H8064\|שָּׁמַ֣יִם]] [[H9006\|מִ]][[H4605\|מַּ֔עַל]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9006\|מִ]][[H8478G\|תָּ֑חַת]] [[H8104G\|שֹׁמֵ֤ר]] [[H9009\|הַ]][[H1285\|בְּרִית֙]] [[H9002\|וְֽ]][[H9009\|הַ]][[H2617A\|חֶ֔סֶד]] [[H9005\|לַ]][[H5650\|עֲבָדֶ֕י]][[H9021\|ךָ]] [[H9009\|הַ]][[H1980I\|הֹלְכִ֥ים]] [[H9005\|לְ]][[H6440G\|פָנֶ֖י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3820A\|לִבָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic COVENANT|COVENANT]] • [[topic GOD|GOD]] • [[topic PRAYER|PRAYER]] • [[topic SIN|SIN]] • [[topic SPIRITUALITY|SPIRITUALITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.22|<< 1 Kings 8:22]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.24|1 Kings 8:24 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David’s Various Overseers
+type: Pericope
 pericope: "[[1Chr.27.25 David’s Various Overseers|David’s Various Overseers]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 27
 book/chapter: "[[1Chr.27|1 Chronicles 27]]"
-genre:
+chronological_order: 438
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 7
 verses:
 - "[[1Chr.27.25]]"
 - "[[1Chr.27.26]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1Chr.27.31]]"
 ---
 
-[[1Chr.27|1 Chronicles 27:25 - 1 Chronicles 27:31]]
+<small>[[1Chr.27|1 Chronicles 27:25-31]]</small>
 *David’s Various Overseers*
 
 [[1Chr.27.25|25]] And over the king’s treasures \[was\] Azmaveth the son of Adiel: and over the storehouses in the fields, in the cities, and in the villages, and in the castles, \[was\] Jehonathan the son of Uzziah:

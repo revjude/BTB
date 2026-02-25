@@ -1,8 +1,67 @@
+---
+title: Ezekiel 18:18
+type: Verse
+kjv: "As for his father, because he cruelly oppressed, spoiled his brother by violence, and did that which is not good among his people, lo, even he shall die in his iniquity."
+bsb: "As for his father, he will die for his own iniquity, because he practiced extortion, robbed his brother, and did what was wrong among his people."
+hebrew: "אָבִ֞יו כִּֽי־ עָ֣שַׁק עֹ֗שֶׁק גָּזַל֙ גֵּ֣זֶל אָ֔ח וַאֲשֶׁ֥ר לֹא־ ט֛וֹב עָשָׂ֖ה בְּת֣וֹךְ עַמָּ֑יו וְהִנֵּה־ מֵ֖ת בַּעֲוֹנֽוֹ׃"
+pericope: "[[Ezek.18.1 The Soul Who Sins Will Die|The Soul Who Sins Will Die]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 18
+book/chapter: "[[Ezek.18|Ezekiel 18]]"
+chronological_order: 809
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6231]]"
+- "[[H6233]]"
+- "[[H1497]]"
+- "[[H1498]]"
+- "[[H0251G]]"
+- "[[H9002]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H2896A]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H5971B]]"
+- "[[H2009]]"
+- "[[H4191]]"
+- "[[H5771G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 18:18**<big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As for] his father, because he cruelly oppressed, spoiled his brother by violence, and did [that] which [is] not good among his people, lo, even he shall die in his iniquity.
 <small><sub>**BSB:**</sub></small>
 As for his father, he will die for his own iniquity, because he practiced extortion, robbed his brother, and did what was wrong among his people.
+<small><sub>**Hebrew:**</sub></small>
+[[H0001G\|אָבִ֞י]][[H9023\|ו]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6231\|עָ֣שַׁק]] [[H6233\|עֹ֗שֶׁק]] [[H1497\|גָּזַל֙]] [[H1498\|גֵּ֣זֶל]] [[H0251G\|אָ֔ח]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹא]][[H9014\|־]] [[H2896A\|ט֛וֹב]] [[H6213A\|עָשָׂ֖ה]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H5971B\|עַמָּ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H2009\|הִנֵּה]][[H9014\|־]] [[H4191\|מֵ֖ת]] [[H9003\|בַּ]][[H5771G\|עֲוֹנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic MALICE|MALICE]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.17|<< Ezekiel 18:17]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.19|Ezekiel 18:19 >>]]</td></tr></table>
 

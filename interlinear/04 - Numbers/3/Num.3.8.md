@@ -1,8 +1,63 @@
+---
+title: Numbers 3:8
+type: Verse
+kjv: "And they shall keep all the instruments of the tabernacle of the congregation, and the charge of the children of Israel, to do the service of the tabernacle."
+bsb: "They shall take care of all the furnishings of the Tent of Meeting and fulfill obligations for the Israelites by attending to the service of the tabernacle."
+hebrew: "וְשָׁמְר֗וּ אֶֽת־ כָּל־ כְּלֵי֙ אֹ֣הֶל מוֹעֵ֔ד וְאֶת־ מִשְׁמֶ֖רֶת בְּנֵ֣י יִשְׂרָאֵ֑ל לַעֲבֹ֖ד אֶת־ עֲבֹדַ֥ת הַמִּשְׁכָּֽן׃"
+pericope: "[[Num.3.5 The Duties of the Levites|The Duties of the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H8104H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9002]]"
+- "[[H4931]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H5647H]]"
+- "[[H5656H]]"
+- "[[H9009]]"
+- "[[H4908]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 3:8**<big><big>[[Num.3.5 The Duties of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall keep all the instruments of the tabernacle of the congregation, and the charge of the children of Israel, to do the service of the tabernacle.
 <small><sub>**BSB:**</sub></small>
 They shall take care of all the furnishings of the Tent of Meeting and fulfill obligations for the Israelites by attending to the service of the tabernacle.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8104H\|שָׁמְר֗וּ]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כְּלֵי֙]] [[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֔ד]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4931\|מִשְׁמֶ֖רֶת]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9005\|לַ]][[H5647H\|עֲבֹ֖ד]] [[H0853\|אֶת]][[H9014\|־]] [[H5656H\|עֲבֹדַ֥ת]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.7|<< Numbers 3:7]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.9|Numbers 3:9 >>]]</td></tr></table>
 

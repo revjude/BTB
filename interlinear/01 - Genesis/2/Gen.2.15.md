@@ -1,8 +1,66 @@
+---
+title: Genesis 2:15
+type: Verse
+kjv: "And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it."
+bsb: "Then the LORD God took the man and placed him in the Garden of Eden to cultivate and keep it."
+hebrew: "וַיִּקַּ֛ח יְהוָ֥ה אֱלֹהִ֖ים אֶת־ הָֽאָדָ֑ם וַיַּנִּחֵ֣הוּ בְגַן־ עֵ֔דֶן לְעָבְדָ֖הּ וּלְשָׁמְרָֽהּ׃"
+pericope: "[[Gen.2.4 Man and Woman in the Garden|Man and Woman in the Garden]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 2
+book/chapter: "[[Gen.2|Genesis 2]]"
+chronological_order: 2
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic EDEN|EDEN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic PROBATION|PROBATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0120H]]"
+- "[[H5117]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H1588M]]"
+- "[[H5731B]]"
+- "[[H9005]]"
+- "[[H5647I]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H8104H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 2:15**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.
 <small><sub>**BSB:**</sub></small>
 Then the LORD God took the man and placed him in the Garden of Eden to cultivate and keep it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֛ח]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהִ֖ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H0120H\|אָדָ֑ם]] [[H9001\|וַ]][[H5117\|יַּנִּחֵ֣]][[H9033\|הוּ]] [[H9003\|בְ]][[H1588M\|גַן]][[H9014\|־]] [[H5731B\|עֵ֔דֶן]] [[H9005\|לְ]][[H5647I\|עָבְדָ֖]][[H9034\|הּ]] [[H9002\|וּ]][[H9005\|לְ]][[H8104H\|שָׁמְרָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic EDEN|EDEN]] • [[topic GOD|GOD]] • [[topic INDUSTRY|INDUSTRY]] • [[topic PROBATION|PROBATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.14|<< Genesis 2:14]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.16|Genesis 2:16 >>]]</td></tr></table>
 

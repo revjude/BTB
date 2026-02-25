@@ -1,8 +1,64 @@
+---
+title: Haggai 2:19
+type: Verse
+kjv: "Is the seed yet in the barn? yea, as yet the vine, and the fig tree, and the pomegranate, and the olive tree, hath not brought forth: from this day will I bless you."
+bsb: "Is there still seed in the barn? The vine, the fig, the pomegranate, and the olive tree have not yet yielded fruit. But from this day on, I will bless you.”"
+hebrew: "הַע֤וֹד הַזֶּ֙רַע֙ בַּמְּגוּרָ֔ה וְעַד־ הַגֶּ֨פֶן וְהַתְּאֵנָ֧ה וְהָרִמּ֛וֹן וְעֵ֥ץ הַזַּ֖יִת לֹ֣א נָשָׂ֑א מִן־ הַיּ֥וֹם הַזֶּ֖ה אֲבָרֵֽךְ׃ ס"
+pericope: "[[Hag.2.10 Blessings for a Defiled People|Blessings for a Defiled People]]"
+original_language: Hebrew
+testament: Old
+book: Haggai
+chapter: 2
+book/chapter: "[[Hag.2|Haggai 2]]"
+chronological_order: 856
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+topics:
+- "[[topic BARN|BARN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+strongs:
+- "[[H9008]]"
+- "[[H5750]]"
+- "[[H9009]]"
+- "[[H2233G]]"
+- "[[H9003]]"
+- "[[H4035]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H1612]]"
+- "[[H8384]]"
+- "[[H7416]]"
+- "[[H6086H]]"
+- "[[H2132H]]"
+- "[[H3808]]"
+- "[[H5375H]]"
+- "[[H4480A]]"
+- "[[H3117G]]"
+- "[[H2088]]"
+- "[[H1288]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Haggai 2:19**<big><big>[[Hag.2.10 Blessings for a Defiled People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Is the seed yet in the barn? yea, as yet the vine, and the fig tree, and the pomegranate, and the olive tree, hath not brought forth: from this day will I bless [you].
 <small><sub>**BSB:**</sub></small>
 Is there still seed in the barn? The vine, the fig, the pomegranate, and the olive tree have not yet yielded fruit. But from this day on, I will bless you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H5750\|ע֤וֹד]] [[H9009\|הַ]][[H2233G\|זֶּ֙רַע֙]] [[H9003\|בַּ]][[H4035\|מְּגוּרָ֔ה]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H1612\|גֶּ֨פֶן]] [[H9002\|וְ]][[H9009\|הַ]][[H8384\|תְּאֵנָ֧ה]] [[H9002\|וְ]][[H9009\|הָ]][[H7416\|רִמּ֛וֹן]] [[H9002\|וְ]][[H6086H\|עֵ֥ץ]] [[H9009\|הַ]][[H2132H\|זַּ֖יִת]] [[H3808\|לֹ֣א]] [[H5375H\|נָשָׂ֑א]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H1288\|אֲבָרֵֽךְ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARN|BARN]] • [[topic GOD|GOD]] • [[topic LIBERALITY|LIBERALITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.18|<< Haggai 2:18]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.20|Haggai 2:20 >>]]</td></tr></table>
 
@@ -22,7 +78,7 @@ Is there still seed in the barn? The vine, the fig, the pomegranate, and the oli
 | from  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the day  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117G\|יּ֥וֹם]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I will bless  |**<big>&#8207;[[H1288\|אֲבָרֵֽךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.va.Rekh<small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will bless  |**<big>&#8207;[[H1288\|אֲבָרֵֽךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.va.Rekh<small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.18|<< Haggai 2:18]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.20|Haggai 2:20 >>]]</td></tr></table>
 
 

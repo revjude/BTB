@@ -1,8 +1,69 @@
+---
+title: Jeremiah 36:30
+type: Verse
+kjv: "Therefore thus saith the LORD of Jehoiakim king of Judah; He shall have none to sit upon the throne of David: and his dead body shall be cast out in the day to the heat, and in the night to the frost."
+bsb: "Therefore this is what the LORD says about Jehoiakim king of Judah: He will have no one to sit on David’s throne, and his body will be thrown out and exposed to heat by day and frost by night."
+hebrew: "לָכֵ֞ן כֹּֽה־ אָמַ֣ר יְהוָ֗ה עַל־ יְהֽוֹיָקִים֙ מֶ֣לֶךְ יְהוּדָ֔ה לֹא־ יִֽהְיֶה־ לּ֥וֹ יוֹשֵׁ֖ב עַל־ כִּסֵּ֣א דָוִ֑ד וְנִבְלָתוֹ֙ תִּֽהְיֶ֣ה מֻשְׁלֶ֔כֶת לַחֹ֥רֶב בַּיּ֖וֹם וְלַקֶּ֥רַח בַּלָּֽיְלָה׃"
+pericope: "[[Jer.36.27 Jeremiah Rewrites the Scroll|Jeremiah Rewrites the Scroll]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 36
+book/chapter: "[[Jer.36|Jeremiah 36]]"
+chronological_order: 759
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BARUCH|BARUCH]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H3079]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H9033]]"
+- "[[H3427]]"
+- "[[H3678G]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H5038]]"
+- "[[H9023]]"
+- "[[H7993]]"
+- "[[H2721A]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H7140]]"
+- "[[H3915]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 36:30**<big><big>[[Jer.36.27 Jeremiah Rewrites the Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the LORD of Jehoiakim king of Judah; He shall have none to sit upon the throne of David: and his dead body shall be cast out in the day to the heat, and in the night to the frost.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the LORD says about Jehoiakim king of Judah: He will have no one to sit on David’s throne, and his body will be thrown out and exposed to heat by day and frost by night.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֞ן]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3079\|יְהֽוֹיָקִים֙]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֔ה]] [[H3808\|לֹא]][[H9014\|־]] [[H1961\|יִֽהְיֶה]][[H9014\|־]] [[H9005\|לּ֥]][[H9033\|וֹ]] [[H3427\|יוֹשֵׁ֖ב]] [[H5921A\|עַל]][[H9014\|־]] [[H3678G\|כִּסֵּ֣א]] [[H1732\|דָוִ֑ד]] [[H9002\|וְ]][[H5038\|נִבְלָת]][[H9023\|וֹ֙]] [[H1961\|תִּֽהְיֶ֣ה]] [[H7993\|מֻשְׁלֶ֔כֶת]] [[H9005\|לַ]][[H2721A\|חֹ֥רֶב]] [[H9003\|בַּ]][[H3117G\|יּ֖וֹם]] [[H9002\|וְ]][[H9005\|לַ]][[H7140\|קֶּ֥רַח]] [[H9003\|בַּ]][[H3915\|לָּֽיְלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARUCH|BARUCH]] • [[topic JEREMIAH|JEREMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.29|<< Jeremiah 36:29]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.31|Jeremiah 36:31 >>]]</td></tr></table>
 

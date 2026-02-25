@@ -1,8 +1,45 @@
+---
+title: Ecclesiastes 10:9
+type: Verse
+kjv: "Whoso removeth stones shall be hurt therewith; and he that cleaveth wood shall be endangered thereby."
+bsb: "The one who quarries stones may be injured by them, and he who splits logs endangers himself."
+hebrew: "מַסִּ֣יעַ אֲבָנִ֔ים יֵעָצֵ֖ב בָּהֶ֑ם בּוֹקֵ֥עַ עֵצִ֖ים יִסָּ֥כֶן בָּֽם׃"
+pericope: "[[Eccl.10.1 Wisdom and Folly|Wisdom and Folly]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 10
+book/chapter: "[[Eccl.10|Ecclesiastes 10]]"
+chronological_order: 548
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+strongs:
+- "[[H5265]]"
+- "[[H0068G]]"
+- "[[H6087A]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H1234]]"
+- "[[H6086I]]"
+- "[[H5533A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 10:9**<big><big>[[Eccl.10.1 Wisdom and Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso removeth stones shall be hurt therewith; [and] he that cleaveth wood shall be endangered thereby.
 <small><sub>**BSB:**</sub></small>
 The one who quarries stones may be injured by them, and he who splits logs endangers himself.
+<small><sub>**Hebrew:**</sub></small>
+[[H5265\|מַסִּ֣יעַ]] [[H0068G\|אֲבָנִ֔ים]] [[H6087A\|יֵעָצֵ֖ב]] [[H9003\|בָּ]][[H9038\|הֶ֑ם]] [[H1234\|בּוֹקֵ֥עַ]] [[H6086I\|עֵצִ֖ים]] [[H5533A\|יִסָּ֥כֶן]] [[H9003\|בָּֽ]][[H9038\|ם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.8|<< Ecclesiastes 10:8]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.10|Ecclesiastes 10:10 >>]]</td></tr></table>
 

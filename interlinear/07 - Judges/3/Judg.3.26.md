@@ -1,8 +1,63 @@
+---
+title: Judges 3:26
+type: Verse
+kjv: "And Ehud escaped while they tarried, and passed beyond the quarries, and escaped unto Seirath."
+bsb: "Ehud, however, had escaped while the servants waited. He passed by the idols and escaped to Seirah."
+hebrew: "וְאֵה֥וּד נִמְלַ֖ט עַ֣ד הִֽתְמַהְמְהָ֑ם וְהוּא֙ עָבַ֣ר אֶת־ הַפְּסִילִ֔ים וַיִּמָּלֵ֖ט הַשְּׂעִירָֽתָה׃"
+pericope: "[[Judg.3.12 Ehud|Ehud]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 3
+book/chapter: "[[Judg.3|Judges 3]]"
+chronological_order: 257
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic EGLON|EGLON]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic QUARRIES|QUARRIES]]"
+- "[[topic SEIRATH|SEIRATH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0164G]]"
+- "[[H4422]]"
+- "[[H5704]]"
+- "[[H4102]]"
+- "[[H9048]]"
+- "[[H1931]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6456]]"
+- "[[H9001]]"
+- "[[H8167]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 3:26**<big><big>[[Judg.3.12 Ehud|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ehud escaped while they tarried, and passed beyond the quarries, and escaped unto Seirath.
 <small><sub>**BSB:**</sub></small>
 Ehud, however, had escaped while the servants waited. He passed by the idols and escaped to Seirah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0164G\|אֵה֥וּד]] [[H4422\|נִמְלַ֖ט]] [[H5704\|עַ֣ד]] [[H4102\|הִֽתְמַהְמְהָ֑]][[H9048\|ם]] [[H9002\|וְ]][[H1931\|הוּא֙]] [[H5674A\|עָבַ֣ר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6456\|פְּסִילִ֔ים]] [[H9001\|וַ]][[H4422\|יִּמָּלֵ֖ט]] [[H9009\|הַ]][[H8167\|שְּׂעִירָֽתָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEPTION|DECEPTION]] • [[topic EGLON|EGLON]] • [[topic GILGAL|GILGAL]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGE|JUDGE]] • [[topic QUARRIES|QUARRIES]] • [[topic SEIRATH|SEIRATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.3.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.25|<< Judges 3:25]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.27|Judges 3:27 >>]]</td></tr></table>
 

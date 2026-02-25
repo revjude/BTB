@@ -1,10 +1,56 @@
+---
+title: Acts 23:24
+type: Verse
+kjv: "And provide them beasts, that they may set Paul on, and bring him safe unto Felix the governor."
+bsb: "Provide mounts for Paul to take him safely to Governor Felix.”"
+greek: "κτήνη τε παραστῆσαι, ἵνα ἐπιβιβάσαντες τὸν Παῦλον διασώσωσιν πρὸς Φήλικα τὸν ἡγεμόνα·"
+pericope: "[[Acts.23.23 Paul Sent to Felix|Paul Sent to Felix]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 23
+book/chapter: "[[Acts.23|Acts 23]]"
+chronological_order: 1105
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CAESAREA|CAESAREA]]"
+- "[[topic CHANGE OF VENUE|CHANGE OF VENUE]]"
+- "[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]]"
+- "[[topic FELIX|FELIX]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G2934]]"
+- "[[G5037]]"
+- "[[G3936]]"
+- "[[G2443]]"
+- "[[G1913]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G1295]]"
+- "[[G4314]]"
+- "[[G5344]]"
+- "[[G2232]]"
+texts:
+- NKO
+---
+
 **Acts 23:24**<big><big>[[Acts.23.23 Paul Sent to Felix|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And provide [them] beasts, that they may set Paul on, and bring [him] safe unto Felix the governor.
 <small><sub>**BSB:**</sub></small>
 Provide mounts for Paul to take him safely to Governor Felix.”
-<small><sub>**Literal:**</sub></small>
-Mounts then providing so that having set upon [them] <the> Paul they may bring [him] safely to Felix the governor;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.23|<< Acts 23:23]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.25|Acts 23:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2934\|κτήνη]]  [[G5037\|τε]]  [[G3936\|παραστῆσαι,]]  [[G2443\|ἵνα]]  [[G1913\|ἐπιβιβάσαντες]]  [[G3588\|τὸν]]  [[G3972G\|Παῦλον]]  [[G1295\|διασώσωσιν]]  [[G4314\|πρὸς]]  [[G5344\|Φήλικα]]  [[G3588\|τὸν]]  [[G2232\|ἡγεμόνα·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CAESAREA|CAESAREA]] • [[topic CHANGE OF VENUE|CHANGE OF VENUE]] • [[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]] • [[topic FELIX|FELIX]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.23|<< Acts 23:23]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.25|Acts 23:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

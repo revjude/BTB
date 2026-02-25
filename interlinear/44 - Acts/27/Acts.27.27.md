@@ -1,10 +1,60 @@
+---
+title: Acts 27:27
+type: Verse
+kjv: "But when the fourteenth night was come, as we were driven up and down in Adria, about midnight the shipmen deemed that they drew near to some country;"
+bsb: "On the fourteenth night we were still being driven across the Adriatic Sea. About midnight the sailors sensed they were approaching land."
+greek: "Ὡς δὲ τεσσαρεσκαιδεκάτη νὺξ ἐγένετο διαφερομένων ἡμῶν ἐν τῷ Ἀδρίᾳ, κατὰ μέσον τῆς νυκτὸς ὑπενόουν οἱ ναῦται προσάγειν τινὰ αὐτοῖς χώραν·"
+pericope: "[[Acts.27.27 The Shipwreck|The Shipwreck]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 27
+book/chapter: "[[Acts.27|Acts 27]]"
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ADRIA|ADRIA]]"
+- "[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[G5613]]"
+- "[[G1161]]"
+- "[[G5065]]"
+- "[[G3571]]"
+- "[[G1096]]"
+- "[[G1308]]"
+- "[[G3165]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0099]]"
+- "[[G2596]]"
+- "[[G3319]]"
+- "[[G5282]]"
+- "[[G3492]]"
+- "[[G4317]]"
+- "[[G5100]]"
+- "[[G0846]]"
+- "[[G5561]]"
+texts:
+- NKO
+---
+
 **Acts 27:27**<big><big>[[Acts.27.27 The Shipwreck|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when the fourteenth night was come, as we were driven up and down in Adria, about midnight the shipmen deemed that they drew near to some country;
 <small><sub>**BSB:**</sub></small>
 On the fourteenth night we were still being driven across the Adriatic Sea. About midnight the sailors sensed they were approaching land.
-<small><sub>**Literal:**</sub></small>
-When then [the] fourteenth night had come being driven about of us in the Adriatic, toward [the] middle of the night were sensing the sailors to be drawing near some to them land;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.26|<< Acts 27:26]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.28|Acts 27:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|Ὡς]]  [[G1161\|δὲ]]  [[G5065\|τεσσαρεσκαιδεκάτη]]  [[G3571\|νὺξ]]  [[G1096\|ἐγένετο]]  [[G1308\|διαφερομένων]]  [[G3165\|ἡμῶν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0099\|Ἀδρίᾳ,]]  [[G2596\|κατὰ]]  [[G3319\|μέσον]]  [[G3588\|τῆς]]  [[G3571\|νυκτὸς]]  [[G5282\|ὑπενόουν]]  [[G3588\|οἱ]]  [[G3492\|ναῦται]]  [[G4317\|προσάγειν]]  [[G5100\|τινὰ]]  [[G0846\|αὐτοῖς]]  [[G5561\|χώραν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADRIA|ADRIA]] • [[topic MARINERS (SAILORS)|MARINERS (SAILORS)]] • [[topic PAUL|PAUL]] • [[topic PROPHECY|PROPHECY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.26|<< Acts 27:26]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.28|Acts 27:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

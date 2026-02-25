@@ -1,10 +1,54 @@
+---
+title: 2 Corinthians 12:3
+type: Verse
+kjv: "And I knew such a man, (whether in the body, or out of the body, I cannot tell: God knoweth;)"
+bsb: "And I know that this man—whether in the body or out of it I do not know, but God knows—"
+greek: "καὶ οἶδα τὸν τοιοῦτον ἄνθρωπον, εἴτε ἐν σώματι εἴτε χωρὶς τοῦ σώματος, οὐκ οἶδα, ὁ θεὸς οἶδεν,"
+pericope: "[[2Cor.12.1 Paul’s Revelation|Paul’s Revelation]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 12
+book/chapter: "[[2Cor.12|2 Corinthians 12]]"
+chronological_order: 1085
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G6063]]"
+- "[[G3588]]"
+- "[[G5108]]"
+- "[[G0444]]"
+- "[[G1535]]"
+- "[[G1722]]"
+- "[[G4983]]"
+- "[[G5565]]"
+- "[[G3756]]"
+- "[[G2316]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Corinthians 12:3**<big><big>[[2Cor.12.1 Paul’s Revelation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I knew such a man, (whether in the body, or out of the body, I cannot tell: God knoweth;)
 <small><sub>**BSB:**</sub></small>
 And I know that this man—whether in the body or out of it I do not know, but God knows—
-<small><sub>**Literal:**</sub></small>
-And I know <the> such a man — whether in [the] body or out of the body, not I know, <the> God knows —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.2|<< 2 Corinthians 12:2]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.4|2 Corinthians 12:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G6063\|οἶδα]]  [[G3588\|τὸν]]  [[G5108\|τοιοῦτον]]  [[G0444\|ἄνθρωπον,]]  [[G1535\|εἴτε]]  [[G1722\|ἐν]]  [[G4983\|σώματι]]  [[G1535\|εἴτε]]  [[G5565\|χωρὶς]]  [[G3588\|τοῦ]]  [[G4983\|σώματος,]]  [[G3756\|οὐκ]]  [[G6063\|οἶδα,]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G6063\|οἶδεν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEAVEN|HEAVEN]] • [[topic PAUL|PAUL]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.2|<< 2 Corinthians 12:2]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.4|2 Corinthians 12:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

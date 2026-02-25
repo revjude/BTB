@@ -1,10 +1,53 @@
+---
+title: Philippians 3:16
+type: Verse
+kjv: "Nevertheless, whereto we have already attained, let us walk by the same rule, let us mind the same thing."
+bsb: "Nevertheless, we must live up to what we have already attained."
+greek: "πλὴν εἰς ὃ ἐφθάσαμεν, τῷ αὐτῷ στοιχεῖν κανόνι, τὸ αὐτὸ φρονεῖν.¶"
+pericope: "[[Phil.3.12 Pressing on toward the Goal|Pressing on toward the Goal]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 3
+book/chapter: "[[Phil.3|Philippians 3]]"
+chronological_order: 1119
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic UNITY|UNITY]]"
+- "[[topic WALKING|WALKING]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G4133]]"
+- "[[G1519]]"
+- "[[G3739]]"
+- "[[G5348]]"
+- "[[G3588]]"
+- "[[G0846]]"
+- "[[G4748]]"
+- "[[G2583]]"
+- "[[G5426]]"
+texts:
+- NKO
+- K
+---
+
 **Philippians 3:16**<big><big>[[Phil.3.12 Pressing on toward the Goal|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Nevertheless, whereto we have already attained, let us walk by the same rule, let us mind the same thing.
 <small><sub>**BSB:**</sub></small>
 Nevertheless, we must live up to what we have already attained.
-<small><sub>**Literal:**</sub></small>
-Nevertheless to that which we have attained, by the same [we are] to walk rule [and] by the same reasoning.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.15|<< Philippians 3:15]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.17|Philippians 3:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4133\|πλὴν]]  [[G1519\|εἰς]]  [[G3739\|ὃ]]  [[G5348\|ἐφθάσαμεν,]]  [[G3588\|τῷ]]  [[G0846\|αὐτῷ]]  [[G4748\|στοιχεῖν]]  [[G2583\|κανόνι,]]  [[G3588\|τὸ]]  [[G0846\|αὐτὸ]]  [[G5426\|φρονεῖν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSEVERANCE|PERSEVERANCE]] • [[topic UNITY|UNITY]] • [[topic WALKING|WALKING]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.15|<< Philippians 3:15]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.17|Philippians 3:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

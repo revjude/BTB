@@ -1,8 +1,52 @@
+---
+title: 1 Samuel 17:21
+type: Verse
+kjv: "For Israel and the Philistines had put the battle in array, army against army."
+bsb: "And Israel and the Philistines arrayed in formation against each other."
+hebrew: "וַתַּעֲרֹ֤ךְ יִשְׂרָאֵל֙ וּפְלִשְׁתִּ֔ים מַעֲרָכָ֖ה לִקְרַ֥את מַעֲרָכָֽה׃"
+pericope: "[[1Sam.17.12 David Accepts the Challenge|David Accepts the Challenge]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHAMPIONSHIP|CHAMPIONSHIP]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic JESSE|JESSE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6186A]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H6430G]]"
+- "[[H4634]]"
+- "[[H9005]]"
+- "[[H7122H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 17:21**<big><big>[[1Sam.17.12 David Accepts the Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Israel and the Philistines had put the battle in array, army against army.
 <small><sub>**BSB:**</sub></small>
 And Israel and the Philistines arrayed in formation against each other.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6186A\|תַּעֲרֹ֤ךְ]] [[H3478\|יִשְׂרָאֵל֙]] [[H9002\|וּ]][[H6430G\|פְלִשְׁתִּ֔ים]] [[H4634\|מַעֲרָכָ֖ה]] [[H9005\|לִ]][[H7122H\|קְרַ֥את]] [[H4634\|מַעֲרָכָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CHAMPIONSHIP|CHAMPIONSHIP]] • [[topic DECISION|DECISION]] • [[topic JESSE|JESSE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.20|<< 1 Samuel 17:20]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.22|1 Samuel 17:22 >>]]</td></tr></table>
 

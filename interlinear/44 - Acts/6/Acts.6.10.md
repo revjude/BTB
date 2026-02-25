@@ -1,10 +1,56 @@
+---
+title: Acts 6:10
+type: Verse
+kjv: "And they were not able to resist the wisdom and the spirit by which he spake."
+bsb: "but they could not stand up to his wisdom or the Spirit by whom he spoke."
+greek: "καὶ οὐκ ἴσχυον ἀντιστῆναι τῇ σοφίᾳ καὶ τῷ πνεύματι ᾧ ἐλάλει.¶"
+pericope: "[[Acts.6.8 The Arrest of Stephen|The Arrest of Stephen]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 6
+book/chapter: "[[Acts.6|Acts 6]]"
+chronological_order: 1024
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic GREECE|GREECE]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic POWER|POWER]]"
+- "[[topic STEPHEN|STEPHEN]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2480]]"
+- "[[G0436]]"
+- "[[G3588]]"
+- "[[G4678]]"
+- "[[G4151G]]"
+- "[[G3739]]"
+- "[[G2980]]"
+texts:
+- NKO
+---
+
 **Acts 6:10**<big><big>[[Acts.6.8 The Arrest of Stephen|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they were not able to resist the wisdom and the spirit by which he spake.
 <small><sub>**BSB:**</sub></small>
 but they could not stand up to his wisdom or the Spirit by whom he spoke.
-<small><sub>**Literal:**</sub></small>
-And not they were able to withstand against the wisdom and against the Spirit by whom he was speaking.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.6.9|<< Acts 6:9]]</td><td align="center" style="border:none;">[[Acts.6|Acts 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6.11|Acts 6:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G2480\|ἴσχυον]]  [[G0436\|ἀντιστῆναι]]  [[G3588\|τῇ]]  [[G4678\|σοφίᾳ]]  [[G2532\|καὶ]]  [[G3588\|τῷ]]  [[G4151G\|πνεύματι]]  [[G3739\|ᾧ]]  [[G2980\|ἐλάλει.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic GREECE|GREECE]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PERSECUTION|PERSECUTION]] • [[topic POWER|POWER]] • [[topic STEPHEN|STEPHEN]] • [[topic WISDOM|WISDOM]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.6.9|<< Acts 6:9]]</td><td align="center" style="border:none;">[[Acts.6|Acts 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6.11|Acts 6:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

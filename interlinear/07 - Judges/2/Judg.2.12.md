@@ -1,8 +1,70 @@
+---
+title: Judges 2:12
+type: Verse
+kjv: "And they forsook the LORD God of their fathers, which brought them out of the land of Egypt, and followed other gods, of the gods of the people that were round about them, and bowed themselves unto them, and provoked the LORD to anger."
+bsb: "Thus they forsook the LORD, the God of their fathers, who had brought them out of the land of Egypt, and they followed after various gods of the peoples around them. They bowed down to them and provoked the LORD to anger,"
+hebrew: "וַיַּעַזְב֞וּ אֶת־ יְהוָ֣ה׀ אֱלֹהֵ֣י אֲבוֹתָ֗ם הַמּוֹצִ֣יא אוֹתָם֮ מֵאֶ֣רֶץ מִצְרַיִם֒ וַיֵּלְכ֞וּ אַחֲרֵ֣י׀ אֱלֹהִ֣ים אֲחֵרִ֗ים מֵאֱלֹהֵ֤י הָֽעַמִּים֙ אֲשֶׁר֙ סְבִיב֣וֹתֵיהֶ֔ם וַיִּֽשְׁתַּחֲו֖וּ לָהֶ֑ם וַיַּכְעִ֖סוּ אֶת־ יְהוָֽה׃"
+pericope: "[[Judg.2.10 Israel’s Unfaithfulness|Israel’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 2
+book/chapter: "[[Judg.2|Judges 2]]"
+chronological_order: 256
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic BAAL|BAAL]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H5800A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H0430G]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H9009]]"
+- "[[H3318H]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H1980N]]"
+- "[[H0310A]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H5439G]]"
+- "[[H7812]]"
+- "[[H9005]]"
+- "[[H3707]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 2:12**<big><big>[[Judg.2.10 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they forsook the LORD God of their fathers, which brought them out of the land of Egypt, and followed other gods, of the gods of the people that [were] round about them, and bowed themselves unto them, and provoked the LORD to anger.
 <small><sub>**BSB:**</sub></small>
 Thus they forsook the LORD, the God of their fathers, who had brought them out of the land of Egypt, and they followed after various gods of the peoples around them. They bowed down to them and provoked the LORD to anger,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5800A\|יַּעַזְב֞וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]][[H9015\|׀]] [[H0430G\|אֱלֹהֵ֣י]] [[H0001G\|אֲבוֹתָ֗]][[H9028\|ם]] [[H9009\|הַ]][[H3318H\|מּוֹצִ֣יא]] [[H0853\|אוֹתָ]][[H9038\|ם֮]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַיִם֒]] [[H9001\|וַ]][[H1980N\|יֵּלְכ֞וּ]] [[H0310A\|אַחֲרֵ֣י]][[H9015\|׀]] [[H0430\|אֱלֹהִ֣ים]] [[H0312\|אֲחֵרִ֗ים]] [[H9006\|מֵ]][[H0430\|אֱלֹהֵ֤י]] [[H9009\|הָֽ]][[H5971A\|עַמִּים֙]] [[H0834A\|אֲשֶׁר֙]] [[H5439G\|סְבִיב֣וֹתֵי]][[H9038\|הֶ֔ם]] [[H9001\|וַ]][[H7812\|יִּֽשְׁתַּחֲו֖וּ]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H9001\|וַ]][[H3707\|יַּכְעִ֖סוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic BAAL|BAAL]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.2.11|<< Judges 2:11]]</td><td align="center" style="border:none;">[[Judg.2|Judges 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.2.13|Judges 2:13 >>]]</td></tr></table>
 

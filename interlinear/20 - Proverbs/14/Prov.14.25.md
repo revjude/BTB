@@ -1,8 +1,52 @@
+---
+title: Proverbs 14:25
+type: Verse
+kjv: "A true witness delivereth souls: but a deceitful witness speaketh lies."
+bsb: "A truthful witness saves lives, but one who utters lies is deceitful."
+hebrew: "מַצִּ֣יל נְ֭פָשׁוֹת עֵ֣ד אֱמֶ֑ת וְיָפִ֖חַ כְּזָבִ֣ים מִרְמָֽה׃"
+pericope: "[[Prov.14.1 The Wise Woman|The Wise Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 14
+book/chapter: "[[Prov.14|Proverbs 14]]"
+chronological_order: 469
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic DECEIT|DECEIT]]"
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H5337]]"
+- "[[H5315H]]"
+- "[[H5707]]"
+- "[[H0571H]]"
+- "[[H9002]]"
+- "[[H6315]]"
+- "[[H3577]]"
+- "[[H4820]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 14:25**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A true witness delivereth souls: but a deceitful [witness] speaketh lies.
 <small><sub>**BSB:**</sub></small>
 A truthful witness saves lives, but one who utters lies is deceitful.
+<small><sub>**Hebrew:**</sub></small>
+[[H5337\|מַצִּ֣יל]] [[H5315H\|נְ֭פָשׁוֹת]] [[H5707\|עֵ֣ד]] [[H0571H\|אֱמֶ֑ת]] [[H9002\|וְ]][[H6315\|יָפִ֖חַ]] [[H3577\|כְּזָבִ֣ים]] [[H4820\|מִרְמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEIT|DECEIT]] • [[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.24|<< Proverbs 14:24]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.26|Proverbs 14:26 >>]]</td></tr></table>
 

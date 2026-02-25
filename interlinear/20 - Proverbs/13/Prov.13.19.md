@@ -1,8 +1,53 @@
+---
+title: Proverbs 13:19
+type: Verse
+kjv: "The desire accomplished is sweet to the soul: but it is abomination to fools to depart from evil."
+bsb: "Desire fulfilled is sweet to the soul, but turning from evil is detestable to fools."
+hebrew: "תַּאֲוָ֣ה נִ֭הְיָה תֶּעֱרַ֣ב לְנָ֑פֶשׁ וְתוֹעֲבַ֥ת כְּ֝סִילִ֗ים ס֣וּר מֵרָֽע׃"
+pericope: "[[Prov.13.1 A Father’s Discipline|A Father’s Discipline]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 13
+book/chapter: "[[Prov.13|Proverbs 13]]"
+chronological_order: 468
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H8378]]"
+- "[[H1961]]"
+- "[[H6149]]"
+- "[[H9005]]"
+- "[[H5315G]]"
+- "[[H9002]]"
+- "[[H8441]]"
+- "[[H3684]]"
+- "[[H5493H]]"
+- "[[H9006]]"
+- "[[H7451H]]"
+- "[[H9016]]"
+texts:
+- L
+- LAH(b)
+---
+
 **Proverbs 13:19**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The desire accomplished is sweet to the soul: but [it is] abomination to fools to depart from evil.
 <small><sub>**BSB:**</sub></small>
 Desire fulfilled is sweet to the soul, but turning from evil is detestable to fools.
+<small><sub>**Hebrew:**</sub></small>
+[[H8378\|תַּאֲוָ֣ה]] [[H1961\|נִ֭הְיָה]] [[H6149\|תֶּעֱרַ֣ב]] [[H9005\|לְ]][[H5315G\|נָ֑פֶשׁ]] [[H9002\|וְ]][[H8441\|תוֹעֲבַ֥ת]] [[H3684\|כְּ֝סִילִ֗ים]] [[H5493H\|ס֣וּר]] [[H9006\|מֵ]][[H7451H\|רָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.18|<< Proverbs 13:18]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.20|Proverbs 13:20 >>]]</td></tr></table>
 

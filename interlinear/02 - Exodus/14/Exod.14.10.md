@@ -1,8 +1,74 @@
+---
+title: Exodus 14:10
+type: Verse
+kjv: "And when Pharaoh drew nigh, the children of Israel lifted up their eyes, and, behold, the Egyptians marched after them; and they were sore afraid: and the children of Israel cried out unto the LORD."
+bsb: "As Pharaoh approached, the Israelites looked up and saw the Egyptians marching after them, and they were terrified and cried out to the LORD."
+hebrew: "וּפַרְעֹ֖ה הִקְרִ֑יב וַיִּשְׂאוּ֩ בְנֵֽי־ יִשְׂרָאֵ֨ל אֶת־ עֵינֵיהֶ֜ם וְהִנֵּ֥ה מִצְרַ֣יִם׀ נֹסֵ֣עַ אַחֲרֵיהֶ֗ם וַיִּֽירְאוּ֙ מְאֹ֔ד וַיִּצְעֲק֥וּ בְנֵֽי־ יִשְׂרָאֵ֖ל אֶל־ יְהוָֽה׃"
+pericope: "[[Exod.14.1 Pharaoh Pursues the Israelites|Pharaoh Pursues the Israelites]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 14
+book/chapter: "[[Exod.14|Exodus 14]]"
+chronological_order: 106
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H6547J]]"
+- "[[H7126G]]"
+- "[[H9001]]"
+- "[[H5375M]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H5869A]]"
+- "[[H9028]]"
+- "[[H2009]]"
+- "[[H4713]]"
+- "[[H9015]]"
+- "[[H5265]]"
+- "[[H0310A]]"
+- "[[H9038]]"
+- "[[H3372G]]"
+- "[[H3966]]"
+- "[[H6817]]"
+- "[[H0413]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 14:10**<big><big>[[Exod.14.1 Pharaoh Pursues the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Pharaoh drew nigh, the children of Israel lifted up their eyes, and, behold, the Egyptians marched after them; and they were sore afraid: and the children of Israel cried out unto the LORD.
 <small><sub>**BSB:**</sub></small>
 As Pharaoh approached, the Israelites looked up and saw the Egyptians marching after them, and they were terrified and cried out to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H6547J\|פַרְעֹ֖ה]] [[H7126G\|הִקְרִ֑יב]] [[H9001\|וַ]][[H5375M\|יִּשְׂאוּ֩]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֨ל]] [[H0853\|אֶת]][[H9014\|־]] [[H5869A\|עֵינֵי]][[H9028\|הֶ֜ם]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H4713\|מִצְרַ֣יִם]][[H9015\|׀]] [[H5265\|נֹסֵ֣עַ]] [[H0310A\|אַחֲרֵי]][[H9038\|הֶ֗ם]] [[H9001\|וַ]][[H3372G\|יִּֽירְאוּ֙]] [[H3966\|מְאֹ֔ד]] [[H9001\|וַ]][[H6817\|יִּצְעֲק֥וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOUBTING|DOUBTING]] • [[topic EGYPT|EGYPT]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic ISRAEL|ISRAEL]] • [[topic PRAYER|PRAYER]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.14.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.9|<< Exodus 14:9]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.11|Exodus 14:11 >>]]</td></tr></table>
 

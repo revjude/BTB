@@ -1,10 +1,56 @@
+---
+title: 1 Corinthians 14:15
+type: Verse
+kjv: "What is it then? I will pray with the spirit, and I will pray with the understanding also: I will sing with the spirit, and I will sing with the understanding also."
+bsb: "What then shall I do? I will pray with my spirit, but I will also pray with my mind. I will sing with my spirit, but I will also sing with my mind."
+greek: "τί οὖν ἐστιν; προσεύξομαι τῷ πνεύματι, προσεύξομαι δὲ καὶ τῷ νοΐ· ψαλῶ τῷ πνεύματι, ψαλῶ δὲ καὶ τῷ νοΐ."
+pericope: "[[1Cor.14.1 Prophecy and Tongues|Prophecy and Tongues]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 14
+book/chapter: "[[1Cor.14|1 Corinthians 14]]"
+chronological_order: 1071
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic INTERPRETATION|INTERPRETATION]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G5101]]"
+- "[[G3767]]"
+- "[[G1510]]"
+- "[[G4336]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G3563]]"
+- "[[G5567]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 14:15**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 What is it then? I will pray with the spirit, and I will pray with the understanding also: I will sing with the spirit, and I will sing with the understanding also.
 <small><sub>**BSB:**</sub></small>
 What then shall I do? I will pray with my spirit, but I will also pray with my mind. I will sing with my spirit, but I will also sing with my mind.
-<small><sub>**Literal:**</sub></small>
-What then is it? I will pray with the spirit, I will pray however also with the mind; I will sing praise with the spirit, I will sing praise however also with the mind.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.14|<< 1 Corinthians 14:14]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.16|1 Corinthians 14:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τί]]  [[G3767\|οὖν]]  [[G1510\|ἐστιν;]]  [[G4336\|προσεύξομαι]]  [[G3588\|τῷ]]  [[G4151G\|πνεύματι,]]  [[G4336\|προσεύξομαι]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3588\|τῷ]]  [[G3563\|νοΐ·]]  [[G5567\|ψαλῶ]]  [[G3588\|τῷ]]  [[G4151G\|πνεύματι,]]  [[G5567\|ψαλῶ]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3588\|τῷ]]  [[G3563\|νοΐ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERPRETATION|INTERPRETATION]] • [[topic LANGUAGE|LANGUAGE]] • [[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]] • [[topic PRAYER|PRAYER]] • [[topic PREACHING|PREACHING]] • [[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.14|<< 1 Corinthians 14:14]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.16|1 Corinthians 14:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

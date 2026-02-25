@@ -1,10 +1,57 @@
+---
+title: 1 John 5:3
+type: Verse
+kjv: "For this is the love of God, that we keep his commandments: and his commandments are not grievous."
+bsb: "For this is the love of God, that we keep His commandments. And His commandments are not burdensome,"
+greek: "αὕτη γάρ ἐστιν ἡ ἀγάπη τοῦ θεοῦ, ἵνα τὰς ἐντολὰς αὐτοῦ τηρῶμεν· καὶ αἱ ἐντολαὶ αὐτοῦ βαρεῖαι οὐκ εἰσίν."
+pericope: "[[1John.5.1 Overcoming the World|Overcoming the World]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 5
+book/chapter: "[[1John.5|1 John 5]]"
+chronological_order: 1165
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic LAW|LAW]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G0026]]"
+- "[[G2316]]"
+- "[[G2443]]"
+- "[[G1785]]"
+- "[[G0846]]"
+- "[[G5083G]]"
+- "[[G2532]]"
+- "[[G0926]]"
+- "[[G3756]]"
+texts:
+- NKO
+---
+
 **1 John 5:3**<big><big>[[1John.5.1 Overcoming the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For this is the love of God, that we keep his commandments: and his commandments are not grievous.
 <small><sub>**BSB:**</sub></small>
 For this is the love of God, that we keep His commandments. And His commandments are not burdensome,
-<small><sub>**Literal:**</sub></small>
-This for is the love <the> of God, that the commandments of Him we may keep; and the commandments of Him burdensome not are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.2|<< 1 John 5:2]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.4|1 John 5:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|αὕτη]]  [[G1063\|γάρ]]  [[G1510\|ἐστιν]]  [[G3588\|ἡ]]  [[G0026\|ἀγάπη]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G2443\|ἵνα]]  [[G3588\|τὰς]]  [[G1785\|ἐντολὰς]]  [[G0846\|αὐτοῦ]]  [[G5083G\|τηρῶμεν·]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G1785\|ἐντολαὶ]]  [[G0846\|αὐτοῦ]]  [[G0926\|βαρεῖαι]]  [[G3756\|οὐκ]]  [[G1510\|εἰσίν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LAW|LAW]] • [[topic LOVE|LOVE]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.2|<< 1 John 5:2]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.4|1 John 5:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Faith and Belief
+type: Pericope
 pericope: "[[Gal.3.1 Faith and Belief|Faith and Belief]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Galatians
 chapter: 3
 book/chapter: "[[Gal.3|Galatians 3]]"
-genre:
+chronological_order: 1041
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
 - epistle
 - pauline epistle
 - polemical
+verse_count: 9
 verses:
 - "[[Gal.3.1]]"
 - "[[Gal.3.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Gal.3.9]]"
 ---
 
-[[Gal.3|Galatians 3:1 - Galatians 3:9]]
+<small>[[Gal.3|Galatians 3:1-9]]</small>
 *Faith and Belief*
 
 [[Gal.3.1|1]] O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?

@@ -1,10 +1,75 @@
+---
+title: Luke 3:16
+type: Verse
+kjv: "John answered, saying unto them all, I indeed baptize you with water; but one mightier than I cometh, the latchet of whose shoes I am not worthy to unloose: he shall baptize you with the Holy Ghost and with fire:"
+bsb: "John answered all of them: “I baptize you with water, but One more powerful than I will come, the straps of whose sandals I am not worthy to untie. He will baptize you with the Holy Spirit and with fire."
+greek: "ἀπεκρίνατο λέγων πᾶσιν ὁ Ἰωάννης· ἐγὼ μὲν ὕδατι βαπτίζω ὑμᾶς· ἔρχεται δὲ ὁ ἰσχυρότερός μου, οὗ οὐκ εἰμὶ ἱκανὸς λῦσαι τὸν ἱμάντα τῶν ὑποδημάτων αὐτοῦ. αὐτὸς ὑμᾶς βαπτίσει ἐν πνεύματι ἁγίῳ καὶ πυρί,"
+pericope: "[[Luke.3.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 3
+book/chapter: "[[Luke.3|Luke 3]]"
+chronological_order: 937
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic FIRE|FIRE]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic SHOE|SHOE]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[G0611]]"
+- "[[G3004G]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2491G]]"
+- "[[G1473]]"
+- "[[G3303]]"
+- "[[G5204]]"
+- "[[G0907]]"
+- "[[G4771]]"
+- "[[G2064]]"
+- "[[G1161]]"
+- "[[G2478]]"
+- "[[G3165]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G2425]]"
+- "[[G3089]]"
+- "[[G2438]]"
+- "[[G5266]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G2532]]"
+- "[[G4442]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 3:16**<big><big>[[Luke.3.1 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 John answered, saying unto [them] all, I indeed baptize you with water; but one mightier than I cometh, the latchet of whose shoes I am not worthy to unloose: he shall baptize you with the Holy Ghost and with fire:
 <small><sub>**BSB:**</sub></small>
 John answered all of them: “I baptize you with water, but One more powerful than I will come, the straps of whose sandals I am not worthy to untie. He will baptize you with the Holy Spirit and with fire.
-<small><sub>**Literal:**</sub></small>
-Answered saying [to] all <the> John: I myself indeed with water baptize you; comes however the [One] mightier than I, of whom not I am worthy to untie the strap of the sandals of Him. He himself you will baptize with [the] Spirit Holy and with fire,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.15|<< Luke 3:15]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.17|Luke 3:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίνατο]]  [[G3004G\|λέγων]]  [[G3956\|πᾶσιν]]  [[G3588\|ὁ]]  [[G2491G\|Ἰωάννης·]]  [[G1473\|ἐγὼ]]  [[G3303\|μὲν]]  [[G5204\|ὕδατι]]  [[G0907\|βαπτίζω]]  [[G4771\|ὑμᾶς·]]  [[G2064\|ἔρχεται]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2478\|ἰσχυρότερός]]  [[G3165\|μου,]]  [[G3739\|οὗ]]  [[G3756\|οὐκ]]  [[G1510\|εἰμὶ]]  [[G2425\|ἱκανὸς]]  [[G3089\|λῦσαι]]  [[G3588\|τὸν]]  [[G2438\|ἱμάντα]]  [[G3588\|τῶν]]  [[G5266\|ὑποδημάτων]]  [[G0846\|αὐτοῦ.]]  [[G0846\|αὐτὸς]]  [[G4771\|ὑμᾶς]]  [[G0907\|βαπτίσει]]  [[G1722\|ἐν]]  [[G4151G\|πνεύματι]]  [[G0040G\|ἁγίῳ]]  [[G2532\|καὶ]]  [[G4442\|πυρί,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic FIRE|FIRE]] • [[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic SHOE|SHOE]] • [[topic TRINITY|TRINITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.15|<< Luke 3:15]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.17|Luke 3:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

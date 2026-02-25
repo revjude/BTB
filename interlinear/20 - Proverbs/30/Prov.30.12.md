@@ -1,8 +1,55 @@
+---
+title: Proverbs 30:12
+type: Verse
+kjv: "There is a generation that are pure in their own eyes, and yet is not washed from their filthiness."
+bsb: "There is a generation of those who are pure in their own eyes and yet unwashed of their filth."
+hebrew: "דּ֭וֹר טָה֣וֹר בְּעֵינָ֑יו וּ֝מִצֹּאָת֗וֹ לֹ֣א רֻחָֽץ׃"
+pericope: "[[Prov.30.1 The Words of Agur|The Words of Agur]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 30
+book/chapter: "[[Prov.30|Proverbs 30]]"
+chronological_order: 485
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic PURITY|PURITY]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic WASHING|WASHING]]"
+strongs:
+- "[[H1755]]"
+- "[[H2889]]"
+- "[[H9003]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H6675]]"
+- "[[H3808]]"
+- "[[H7364]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 30:12**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] a generation [that are] pure in their own eyes, and [yet] is not washed from their filthiness.
 <small><sub>**BSB:**</sub></small>
 There is a generation of those who are pure in their own eyes and yet unwashed of their filth.
+<small><sub>**Hebrew:**</sub></small>
+[[H1755\|דּ֭וֹר]] [[H2889\|טָה֣וֹר]] [[H9003\|בְּ]][[H5869A\|עֵינָ֑י]][[H9023\|ו]] [[H9002\|וּ֝]][[H9006\|מִ]][[H6675\|צֹּאָת֗]][[H9023\|וֹ]] [[H3808\|לֹ֣א]] [[H7364\|רֻחָֽץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]] • [[topic PURITY|PURITY]] • [[topic SELF-DELUSION|SELF-DELUSION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic WASHING|WASHING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.11|<< Proverbs 30:11]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.13|Proverbs 30:13 >>]]</td></tr></table>
 

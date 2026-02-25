@@ -1,8 +1,57 @@
+---
+title: Isaiah 9:15
+type: Verse
+kjv: "The ancient and honourable, he is the head; and the prophet that teacheth lies, he is the tail."
+bsb: "The head is the elder and honorable man, and the tail is the prophet who teaches lies."
+hebrew: "זָקֵ֥ן וּנְשׂוּא־ פָנִ֖ים ה֣וּא הָרֹ֑אשׁ וְנָבִ֥יא מֽוֹרֶה־ שֶּׁ֖קֶר ה֥וּא הַזָּנָֽב׃"
+pericope: "[[Isa.9.13 Judgment against Israel’s Hypocrisy|Judgment against Israel’s Hypocrisy]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 9
+book/chapter: "[[Isa.9|Isaiah 9]]"
+chronological_order: 619
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H2205G]]"
+- "[[H9002]]"
+- "[[H5375Q]]"
+- "[[H9014]]"
+- "[[H6440N]]"
+- "[[H1931]]"
+- "[[H9009]]"
+- "[[H7218H]]"
+- "[[H5030]]"
+- "[[H3384B]]"
+- "[[H8267]]"
+- "[[H2180]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 9:15**<big><big>[[Isa.9.13 Judgment against Israel’s Hypocrisy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The ancient and honourable, he [is] the head; and the prophet that teacheth lies, he [is] the tail.
 <small><sub>**BSB:**</sub></small>
 The head is the elder and honorable man, and the tail is the prophet who teaches lies.
+<small><sub>**Hebrew:**</sub></small>
+[[H2205G\|זָקֵ֥ן]] [[H9002\|וּ]][[H5375Q\|נְשׂוּא]][[H9014\|־]] [[H6440N\|פָנִ֖ים]] [[H1931\|ה֣וּא]] [[H9009\|הָ]][[H7218H\|רֹ֑אשׁ]] [[H9002\|וְ]][[H5030\|נָבִ֥יא]] [[H3384B\|מֽוֹרֶה]][[H9014\|־]] [[H8267\|שֶּׁ֖קֶר]] [[H1931\|ה֥וּא]] [[H9009\|הַ]][[H2180\|זָּנָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.14|<< Isaiah 9:14]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.16|Isaiah 9:16 >>]]</td></tr></table>
 

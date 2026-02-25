@@ -1,8 +1,65 @@
+---
+title: Genesis 20:4
+type: Verse
+kjv: "But Abimelech had not come near her: and he said, Lord, wilt thou slay also a righteous nation?"
+bsb: "Now Abimelech had not gone near her, so he replied, “Lord, would You destroy a nation even though it is innocent?"
+hebrew: "וַאֲבִימֶ֕לֶךְ לֹ֥א קָרַ֖ב אֵלֶ֑יהָ וַיֹּאמַ֕ר אֲדֹנָ֕י הֲג֥וֹי גַּם־ צַדִּ֖יק תַּהֲרֹֽג׃"
+pericope: "[[Gen.20.1 Abraham, Sarah, and Abimelech|Abraham, Sarah, and Abimelech]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 20
+book/chapter: "[[Gen.20|Genesis 20]]"
+chronological_order: 62
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic NATION|NATION]]"
+- "[[topic SARAH|SARAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0040G]]"
+- "[[H3808]]"
+- "[[H7126G]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H9008]]"
+- "[[H1471A]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H6662]]"
+- "[[H2026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 20:4**<big><big>[[Gen.20.1 Abraham, Sarah, and Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Abimelech had not come near her: and he said, Lord, wilt thou slay also a righteous nation?
 <small><sub>**BSB:**</sub></small>
 Now Abimelech had not gone near her, so he replied, “Lord, would You destroy a nation even though it is innocent?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0040G\|אֲבִימֶ֕לֶךְ]] [[H3808\|לֹ֥א]] [[H7126G\|קָרַ֖ב]] [[H0413\|אֵלֶ֑י]][[H9034\|הָ]] [[H9001\|וַ]][[H0559\|יֹּאמַ֕ר]] [[H0136\|אֲדֹנָ֕י]] [[H9008\|הֲ]][[H1471A\|ג֥וֹי]] [[H1571\|גַּם]][[H9014\|־]] [[H6662\|צַדִּ֖יק]] [[H2026\|תַּהֲרֹֽג]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic COWARDICE|COWARDICE]] • [[topic GOD|GOD]] • [[topic HEATHEN|HEATHEN]] • [[topic IGNORANCE|IGNORANCE]] • [[topic NATION|NATION]] • [[topic SARAH|SARAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.20.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.20.3|<< Genesis 20:3]]</td><td align="center" style="border:none;">[[Gen.20|Genesis 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.20.5|Genesis 20:5 >>]]</td></tr></table>
 

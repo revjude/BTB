@@ -1,8 +1,61 @@
+---
+title: Psalm 2:2
+type: Verse
+kjv: "The kings of the earth set themselves, and the rulers take counsel together, against the LORD, and against his anointed, saying,"
+bsb: "The kings of the earth take their stand and the rulers gather together, against the LORD and against His Anointed One:"
+hebrew: "יִ֥תְיַצְּב֨וּ׀ מַלְכֵי־ אֶ֗רֶץ וְרוֹזְנִ֥ים נֽוֹסְדוּ־ יָ֑חַד עַל־ יְ֝הוָה וְעַל־ מְשִׁיחֽוֹ׃"
+pericope: "[[Ps.2.1 The Triumphant Messiah|The Triumphant Messiah]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 2
+book/chapter: "[[Ps.2|Psalm 2]]"
+chronological_order: 338
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H3320]]"
+- "[[H9015]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H7336]]"
+- "[[H3245]]"
+- "[[H3162A]]"
+- "[[H5921A]]"
+- "[[H3068G]]"
+- "[[H4899]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 2:2**<big><big>[[Ps.2.1 The Triumphant Messiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The kings of the earth set themselves, and the rulers take counsel together, against the LORD, and against his anointed, [saying],
 <small><sub>**BSB:**</sub></small>
 The kings of the earth take their stand and the rulers gather together, against the LORD and against His Anointed One:
+<small><sub>**Hebrew:**</sub></small>
+[[H3320\|יִ֥תְיַצְּב֨וּ]][[H9015\|׀]] [[H4428G\|מַלְכֵי]][[H9014\|־]] [[H0776G\|אֶ֗רֶץ]] [[H9002\|וְ]][[H7336\|רוֹזְנִ֥ים]] [[H3245\|נֽוֹסְדוּ]][[H9014\|־]] [[H3162A\|יָ֑חַד]] [[H5921A\|עַל]][[H9014\|־]] [[H3068G\|יְ֝הוָה]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H4899\|מְשִׁיחֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GODLESSNESS|GODLESSNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.2.1|<< Psalms 2:1]]</td><td align="center" style="border:none;">[[Ps.2|Psalms 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.2.3|Psalms 2:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

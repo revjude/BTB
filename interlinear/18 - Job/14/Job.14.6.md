@@ -1,8 +1,58 @@
+---
+title: Job 14:6
+type: Verse
+kjv: "Turn from him, that he may rest, till he shall accomplish, as an hireling, his day."
+bsb: "look away from him and let him rest, so he can enjoy his day as a hired hand."
+hebrew: "שְׁעֵ֣ה מֵעָלָ֣יו וְיֶחְדָּ֑ל עַד־ יִ֝רְצֶ֗ה כְּשָׂכִ֥יר יוֹמֽוֹ׃"
+pericope: "[[Job.14.1 Job Laments the Finality of Death|Job Laments the Finality of Death]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 14
+book/chapter: "[[Job.14|Job 14]]"
+chronological_order: 25
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic EMPLOYEE|EMPLOYEE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H8159]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H2308]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H7521]]"
+- "[[H9004]]"
+- "[[H7916]]"
+- "[[H3117G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 14:6**<big><big>[[Job.14.1 Job Laments the Finality of Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn from him, that he may rest, till he shall accomplish, as an hireling, his day.
 <small><sub>**BSB:**</sub></small>
 look away from him and let him rest, so he can enjoy his day as a hired hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H8159\|שְׁעֵ֣ה]] [[H9006\|מֵ]][[H5921A\|עָלָ֣י]][[H9033\|ו]] [[H9002\|וְ]][[H2308\|יֶחְדָּ֑ל]] [[H5704\|עַד]][[H9014\|־]] [[H7521\|יִ֝רְצֶ֗ה]] [[H9004\|כְּ]][[H7916\|שָׂכִ֥יר]] [[H3117G\|יוֹמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic EMPLOYEE|EMPLOYEE]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.14.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.14.5|<< Job 14:5]]</td><td align="center" style="border:none;">[[Job.14|Job 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.14.7|Job 14:7 >>]]</td></tr></table>
 

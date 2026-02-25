@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Calls Levi
+type: Pericope
 pericope: "[[Mark.2.13 Jesus Calls Levi|Jesus Calls Levi]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Mark
 chapter: 2
 book/chapter: "[[Mark.2|Mark 2]]"
-genre:
+chronological_order: 947
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Mark.2.13]]"
 - "[[Mark.2.14]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Mark.2.17]]"
 ---
 
-[[Mark.2|Mark 2:13 - Mark 2:17]]
+<small>[[Mark.2|Mark 2:13-17]]</small>
 *Jesus Calls Levi*
 
 [[Mark.2.13|13]] And he went forth again by the sea side; and all the multitude resorted unto him, and he taught them.

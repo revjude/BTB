@@ -1,8 +1,70 @@
+---
+title: Ezekiel 44:19
+type: Verse
+kjv: "And when they go forth into the utter court, even into the utter court to the people, they shall put off their garments wherein they ministered, and lay them in the holy chambers, and they shall put on other garments; and they shall not sanctify the people with their garments."
+bsb: "When they go out to the outer court, to the people, they are to take off the garments in which they have ministered, leave them in the holy chambers, and dress in other clothes so that they do not transmit holiness to the people with their garments."
+hebrew: "וּ֠בְצֵאתָם אֶל־ הֶחָצֵ֨ר הַחִיצוֹנָ֜ה אֶל־ הֶחָצֵ֣ר הַחִיצוֹנָה֮ אֶל־ הָעָם֒ יִפְשְׁט֣וּ אֶת־ בִּגְדֵיהֶ֗ם אֲשֶׁר־ הֵ֙מָּה֙ מְשָׁרְתִ֣ם בָּ֔ם וְהִנִּ֥יחוּ אוֹתָ֖ם בְּלִֽשְׁכֹ֣ת הַקֹּ֑דֶשׁ וְלָֽבְשׁוּ֙ בְּגָדִ֣ים אֲחֵרִ֔ים וְלֹֽא־ יְקַדְּשׁ֥וּ אֶת־ הָעָ֖ם בְּבִגְדֵיהֶֽם׃"
+pericope: "[[Ezek.44.15 The Duties of the Priests|The Duties of the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 44
+book/chapter: "[[Ezek.44|Ezekiel 44]]"
+chronological_order: 835
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3318G]]"
+- "[[H9048]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2691A]]"
+- "[[H2435]]"
+- "[[H5971A]]"
+- "[[H6584]]"
+- "[[H0853]]"
+- "[[H0899B]]"
+- "[[H9028]]"
+- "[[H0834A]]"
+- "[[H1992]]"
+- "[[H8334]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H5117]]"
+- "[[H3957]]"
+- "[[H6944G]]"
+- "[[H3847]]"
+- "[[H0312]]"
+- "[[H3808]]"
+- "[[H6942K]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 44:19**<big><big>[[Ezek.44.15 The Duties of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they go forth into the utter court, [even] into the utter court to the people, they shall put off their garments wherein they ministered, and lay them in the holy chambers, and they shall put on other garments; and they shall not sanctify the people with their garments.
 <small><sub>**BSB:**</sub></small>
 When they go out to the outer court, to the people, they are to take off the garments in which they have ministered, leave them in the holy chambers, and dress in other clothes so that they do not transmit holiness to the people with their garments.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ֠]][[H9003\|בְ]][[H3318G\|צֵאתָ]][[H9048\|ם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הֶ]][[H2691A\|חָצֵ֨ר]] [[H9009\|הַ]][[H2435\|חִיצוֹנָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הֶ]][[H2691A\|חָצֵ֣ר]] [[H9009\|הַ]][[H2435\|חִיצוֹנָה֮]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֒]] [[H6584\|יִפְשְׁט֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0899B\|בִּגְדֵי]][[H9028\|הֶ֗ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1992\|הֵ֙מָּה֙]] [[H8334\|מְשָׁרְתִ֣ם]] [[H9003\|בָּ֔]][[H9038\|ם]] [[H9001\|וְ]][[H5117\|הִנִּ֥יחוּ]] [[H0853\|אוֹתָ֖]][[H9038\|ם]] [[H9003\|בְּ]][[H3957\|לִֽשְׁכֹ֣ת]] [[H9009\|הַ]][[H6944G\|קֹּ֑דֶשׁ]] [[H9001\|וְ]][[H3847\|לָֽבְשׁוּ֙]] [[H0899B\|בְּגָדִ֣ים]] [[H0312\|אֲחֵרִ֔ים]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H6942K\|יְקַדְּשׁ֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9003\|בְּ]][[H0899B\|בִגְדֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.18|<< Ezekiel 44:18]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.20|Ezekiel 44:20 >>]]</td></tr></table>
 

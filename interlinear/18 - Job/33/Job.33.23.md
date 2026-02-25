@@ -1,8 +1,66 @@
+---
+title: Job 33:23
+type: Verse
+kjv: "If there be a messenger with him, an interpreter, one among a thousand, to shew unto man his uprightness:"
+bsb: "Yet if there is a messenger on his side, one mediator in a thousand, to tell a man what is right for him,"
+hebrew: "אִם־ יֵ֤שׁ עָלָ֨יו׀ מַלְאָ֗ךְ מֵלִ֗יץ אֶחָ֥ד מִנִּי־ אָ֑לֶף לְהַגִּ֖יד לְאָדָ֣ם יָשְׁרֽוֹ׃"
+pericope: "[[Job.33.1 Elihu Rebukes Job|Elihu Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 33
+book/chapter: "[[Job.33|Job 33]]"
+chronological_order: 44
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERPRETER|INTERPRETER]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3426]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9015]]"
+- "[[H4397H]]"
+- "[[H3887]]"
+- "[[H0259]]"
+- "[[H4480A]]"
+- "[[H0505G]]"
+- "[[H9005]]"
+- "[[H5046]]"
+- "[[H0120G]]"
+- "[[H3476]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 33:23**<big><big>[[Job.33.1 Elihu Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If there be a messenger with him, an interpreter, one among a thousand, to shew unto man his uprightness:
 <small><sub>**BSB:**</sub></small>
 Yet if there is a messenger on his side, one mediator in a thousand, to tell a man what is right for him,
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H3426\|יֵ֤שׁ]] [[H5921A\|עָלָ֨י]][[H9033\|ו]][[H9015\|׀]] [[H4397H\|מַלְאָ֗ךְ]] [[H3887\|מֵלִ֗יץ]] [[H0259\|אֶחָ֥ד]] [[H4480A\|מִנִּי]][[H9014\|־]] [[H0505G\|אָ֑לֶף]] [[H9005\|לְ]][[H5046\|הַגִּ֖יד]] [[H9005\|לְ]][[H0120G\|אָדָ֣ם]] [[H3476\|יָשְׁרֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AGENCY|AGENCY]] • [[topic AMBASSADORS|AMBASSADORS]] • [[topic CONVICTION|CONVICTION]] • [[topic GOD|GOD]] • [[topic INTERPRETER|INTERPRETER]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.33.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.22|<< Job 33:22]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.24|Job 33:24 >>]]</td></tr></table>
 

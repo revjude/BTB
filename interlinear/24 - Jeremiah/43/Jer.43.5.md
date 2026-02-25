@@ -1,8 +1,70 @@
+---
+title: Jeremiah 43:5
+type: Verse
+kjv: "But Johanan the son of Kareah, and all the captains of the forces, took all the remnant of Judah, that were returned from all nations, whither they had been driven, to dwell in the land of Judah;"
+bsb: "Instead, Johanan son of Kareah and all the commanders of the forces took the whole remnant of Judah, those who had returned to the land of Judah from all the nations to which they had been scattered,"
+hebrew: "וַיִּקַּ֞ח יוֹחָנָ֤ן בֶּן־ קָרֵ֙חַ֙ וְכָל־ שָׂרֵ֣י הַחֲיָלִ֔ים אֵ֖ת כָּל־ שְׁאֵרִ֣ית יְהוּדָ֑ה אֲשֶׁר־ שָׁ֗בוּ מִכָּל־ הַגּוֹיִם֙ אֲשֶׁ֣ר נִדְּחוּ־ שָׁ֔ם לָג֖וּר בְּאֶ֥רֶץ יְהוּדָֽה׃"
+pericope: "[[Jer.43.1 Jeremiah Taken to Egypt|Jeremiah Taken to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 43
+book/chapter: "[[Jer.43|Jeremiah 43]]"
+chronological_order: 766
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AZARIAH|AZARIAH]]"
+- "[[topic BARUCH|BARUCH]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic JOHANAN|JOHANAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H3110G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H7143]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H2428A]]"
+- "[[H0853]]"
+- "[[H7611]]"
+- "[[H3063G]]"
+- "[[H0834A]]"
+- "[[H7725G]]"
+- "[[H9006]]"
+- "[[H1471A]]"
+- "[[H5080]]"
+- "[[H8033G]]"
+- "[[H9005]]"
+- "[[H1481A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 43:5**<big><big>[[Jer.43.1 Jeremiah Taken to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Johanan the son of Kareah, and all the captains of the forces, took all the remnant of Judah, that were returned from all nations, whither they had been driven, to dwell in the land of Judah;
 <small><sub>**BSB:**</sub></small>
 Instead, Johanan son of Kareah and all the commanders of the forces took the whole remnant of Judah, those who had returned to the land of Judah from all the nations to which they had been scattered,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֞ח]] [[H3110G\|יוֹחָנָ֤ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7143\|קָרֵ֙חַ֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H8269\|שָׂרֵ֣י]] [[H9009\|הַ]][[H2428A\|חֲיָלִ֔ים]] [[H0853\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H7611\|שְׁאֵרִ֣ית]] [[H3063G\|יְהוּדָ֑ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7725G\|שָׁ֗בוּ]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5080\|נִדְּחוּ]][[H9014\|־]] [[H8033G\|שָׁ֔ם]] [[H9005\|לָ]][[H1481A\|ג֖וּר]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AZARIAH|AZARIAH]] • [[topic BARUCH|BARUCH]] • [[topic JEREMIAH|JEREMIAH]] • [[topic JOHANAN|JOHANAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.43.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.43.4|<< Jeremiah 43:4]]</td><td align="center" style="border:none;">[[Jer.43|Jeremiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.43.6|Jeremiah 43:6 >>]]</td></tr></table>
 

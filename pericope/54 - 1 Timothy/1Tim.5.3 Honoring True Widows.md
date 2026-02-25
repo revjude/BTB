@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Honoring True Widows
+type: Pericope
 pericope: "[[1Tim.5.3 Honoring True Widows|Honoring True Widows]]"
-verse_count: 14
+original_language: Greek
 testament: New
 book: 1 Timothy
 chapter: 5
 book/chapter: "[[1Tim.5|1 Timothy 5]]"
-genre:
+chronological_order: 1130
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - church order
+verse_count: 14
 verses:
 - "[[1Tim.5.3]]"
 - "[[1Tim.5.4]]"
@@ -32,7 +39,7 @@ verses:
 - "[[1Tim.5.16]]"
 ---
 
-[[1Tim.5|1 Timothy 5:3 - 1 Timothy 5:16]]
+<small>[[1Tim.5|1 Timothy 5:3-16]]</small>
 *Honoring True Widows*
 
 [[1Tim.5.3|3]] Honour widows that are widows indeed.

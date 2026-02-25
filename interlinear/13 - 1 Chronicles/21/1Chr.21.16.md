@@ -1,8 +1,76 @@
+---
+title: 1 Chronicles 21:16
+type: Verse
+kjv: "And David lifted up his eyes, and saw the angel of the LORD stand between the earth and the heaven, having a drawn sword in his hand stretched out over Jerusalem. Then David and the elders of Israel, who were clothed in sackcloth, fell upon their faces."
+bsb: "When David lifted up his eyes and saw the angel of the LORD standing between heaven and earth, with a drawn sword in his hand stretched out over Jerusalem, David and the elders, clothed in sackcloth, fell facedown."
+hebrew: "וַיִּשָּׂ֨א דָוִ֜יד אֶת־ עֵינָ֗יו וַיַּ֞רְא אֶת־ מַלְאַ֤ךְ יְהוָה֙ עֹמֵ֗ד בֵּ֤ין הָאָ֙רֶץ֙ וּבֵ֣ין הַשָּׁמַ֔יִם וְחַרְבּ֤וֹ שְׁלוּפָה֙ בְּיָד֔וֹ נְטוּיָ֖ה עַל־ יְרוּשָׁלִָ֑ם וַיִּפֹּ֨ל דָּוִ֧יד וְהַזְּקֵנִ֛ים מְכֻסִּ֥ים בַּשַּׂקִּ֖ים עַל־ פְּנֵיהֶֽם׃"
+pericope: "[[1Chr.21.14 A Plague on Israel|A Plague on Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 21
+book/chapter: "[[1Chr.21|1 Chronicles 21]]"
+chronological_order: 420
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ARAUNAH|ARAUNAH]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NATION|NATION]]"
+- "[[topic ORNAN|ORNAN]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H5375M]]"
+- "[[H1732]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H7200G]]"
+- "[[H4397H]]"
+- "[[H3068G]]"
+- "[[H5975G]]"
+- "[[H0996G]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H8064]]"
+- "[[H2719]]"
+- "[[H8025]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H5186]]"
+- "[[H5921A]]"
+- "[[H3389]]"
+- "[[H5307G]]"
+- "[[H2205G]]"
+- "[[H3680]]"
+- "[[H8242]]"
+- "[[H6440H]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 21:16**<big><big>[[1Chr.21.14 A Plague on Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David lifted up his eyes, and saw the angel of the LORD stand between the earth and the heaven, having a drawn sword in his hand stretched out over Jerusalem. Then David and the elders [of Israel, who were] clothed in sackcloth, fell upon their faces.
 <small><sub>**BSB:**</sub></small>
 When David lifted up his eyes and saw the angel of the LORD standing between heaven and earth, with a drawn sword in his hand stretched out over Jerusalem, David and the elders, clothed in sackcloth, fell facedown.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5375M\|יִּשָּׂ֨א]] [[H1732\|דָוִ֜יד]] [[H0853\|אֶת]][[H9014\|־]] [[H5869A\|עֵינָ֗י]][[H9023\|ו]] [[H9001\|וַ]][[H7200G\|יַּ֞רְא]] [[H0853\|אֶת]][[H9014\|־]] [[H4397H\|מַלְאַ֤ךְ]] [[H3068G\|יְהוָה֙]] [[H5975G\|עֹמֵ֗ד]] [[H0996G\|בֵּ֤ין]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H9002\|וּ]][[H0996G\|בֵ֣ין]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H9002\|וְ]][[H2719\|חַרְבּ֤]][[H9023\|וֹ]] [[H8025\|שְׁלוּפָה֙]] [[H9003\|בְּ]][[H3027G\|יָד֔]][[H9023\|וֹ]] [[H5186\|נְטוּיָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3389\|יְרוּשָׁלִָ֑ם]] [[H9001\|וַ]][[H5307G\|יִּפֹּ֨ל]] [[H1732\|דָּוִ֧יד]] [[H9002\|וְ]][[H9009\|הַ]][[H2205G\|זְּקֵנִ֛ים]] [[H3680\|מְכֻסִּ֥ים]] [[H9003\|בַּ]][[H8242\|שַּׂקִּ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פְּנֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ARAUNAH|ARAUNAH]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic MIRACLES|MIRACLES]] • [[topic NATION|NATION]] • [[topic ORNAN|ORNAN]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.15|<< 1 Chronicles 21:15]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.17|1 Chronicles 21:17 >>]]</td></tr></table>
 

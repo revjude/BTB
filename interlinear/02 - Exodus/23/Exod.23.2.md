@@ -1,8 +1,63 @@
+---
+title: Exodus 23:2
+type: Verse
+kjv: "Thou shalt not follow a multitude to do evil; neither shalt thou speak in a cause to decline after many to wrest judgment:"
+bsb: "You shall not follow the crowd in wrongdoing. When you testify in a lawsuit, do not pervert justice by siding with the crowd."
+hebrew: "לֹֽא־ תִהְיֶ֥ה אַחֲרֵֽי־ רַבִּ֖ים לְרָעֹ֑ת וְלֹא־ תַעֲנֶ֣ה עַל־ רִ֗ב לִנְטֹ֛ת אַחֲרֵ֥י רַבִּ֖ים לְהַטֹּֽת׃"
+pericope: "[[Exod.23.1 Justice and Mercy|Justice and Mercy]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 23
+book/chapter: "[[Exod.23|Exodus 23]]"
+chronological_order: 115
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic COURT|COURT]]"
+- "[[topic INJUSTICE|INJUSTICE]]"
+- "[[topic JUSTICE|JUSTICE]]"
+- "[[topic POPULAR SINS|POPULAR SINS]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H0310A]]"
+- "[[H7227A]]"
+- "[[H9005]]"
+- "[[H7451I]]"
+- "[[H9002]]"
+- "[[H6030B]]"
+- "[[H5921A]]"
+- "[[H7379]]"
+- "[[H5186]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 23:2**<big><big>[[Exod.23.1 Justice and Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not follow a multitude to [do] evil; neither shalt thou speak in a cause to decline after many to wrest [judgment]:
 <small><sub>**BSB:**</sub></small>
 You shall not follow the crowd in wrongdoing. When you testify in a lawsuit, do not pervert justice by siding with the crowd.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|תִהְיֶ֥ה]] [[H0310A\|אַחֲרֵֽי]][[H9014\|־]] [[H7227A\|רַבִּ֖ים]] [[H9005\|לְ]][[H7451I\|רָעֹ֑ת]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H6030B\|תַעֲנֶ֣ה]] [[H5921A\|עַל]][[H9014\|־]] [[H7379\|רִ֗ב]] [[H9005\|לִ]][[H5186\|נְטֹ֛ת]] [[H0310A\|אַחֲרֵ֥י]] [[H7227A\|רַבִּ֖ים]] [[H9005\|לְ]][[H5186\|הַטֹּֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic COURT|COURT]] • [[topic INJUSTICE|INJUSTICE]] • [[topic JUSTICE|JUSTICE]] • [[topic POPULAR SINS|POPULAR SINS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.1|<< Exodus 23:1]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.3|Exodus 23:3 >>]]</td></tr></table>
 

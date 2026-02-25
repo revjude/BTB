@@ -1,8 +1,58 @@
+---
+title: Joshua 12:4
+type: Verse
+kjv: "And the coast of Og king of Bashan, which was of the remnant of the giants, that dwelt at Ashtaroth and at Edrei,"
+bsb: "And Og king of Bashan, one of the remnant of the Rephaim, who lived in Ashtaroth and Edrei."
+hebrew: "וּגְב֗וּל ע֚וֹג מֶ֣לֶךְ הַבָּשָׁ֔ן מִיֶּ֖תֶר הָרְפָאִ֑ים הַיּוֹשֵׁ֥ב בְּעַשְׁתָּר֖וֹת וּבְאֶדְרֶֽעִי׃"
+pericope: "[[Josh.12.1 The Kings Defeated East of the Jordan|The Kings Defeated East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 12
+book/chapter: "[[Josh.12|Joshua 12]]"
+chronological_order: 242
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ASHTAROTH|ASHTAROTH]]"
+- "[[topic BASHAN|BASHAN]]"
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic OG|OG]]"
+- "[[topic REPHAIM|REPHAIM]]"
+strongs:
+- "[[H9002]]"
+- "[[H1366G]]"
+- "[[H5747]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H1316]]"
+- "[[H9006]]"
+- "[[H3499A]]"
+- "[[H7497B]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H6252H]]"
+- "[[H0154]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 12:4**<big><big>[[Josh.12.1 The Kings Defeated East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the coast of Og king of Bashan, [which was] of the remnant of the giants, that dwelt at Ashtaroth and at Edrei,
 <small><sub>**BSB:**</sub></small>
 And Og king of Bashan, one of the remnant of the Rephaim, who lived in Ashtaroth and Edrei.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1366G\|גְב֗וּל]] [[H5747\|ע֚וֹג]] [[H4428G\|מֶ֣לֶךְ]] [[H9009\|הַ]][[H1316\|בָּשָׁ֔ן]] [[H9006\|מִ]][[H3499A\|יֶּ֖תֶר]] [[H9009\|הָ]][[H7497B\|רְפָאִ֑ים]] [[H9009\|הַ]][[H3427\|יּוֹשֵׁ֥ב]] [[H9003\|בְּ]][[H6252H\|עַשְׁתָּר֖וֹת]] [[H9002\|וּ]][[H9003\|בְ]][[H0154\|אֶדְרֶֽעִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHTAROTH|ASHTAROTH]] • [[topic BASHAN|BASHAN]] • [[topic CANAAN|CANAAN]] • [[topic OG|OG]] • [[topic REPHAIM|REPHAIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.12.3|<< Joshua 12:3]]</td><td align="center" style="border:none;">[[Josh.12|Joshua 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.12.5|Joshua 12:5 >>]]</td></tr></table>
 

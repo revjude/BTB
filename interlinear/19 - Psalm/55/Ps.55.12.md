@@ -1,8 +1,62 @@
+---
+title: Psalm 55:12
+type: Verse
+kjv: "For it was not an enemy that reproached me; then I could have borne it: neither was it he that hated me that did magnify himself against me; then I would have hid myself from him:"
+bsb: "For it is not an enemy who insults me; that I could endure. It is not a foe who rises against me; from him I could hide."
+hebrew: "כִּ֤י לֹֽא־ אוֹיֵ֥ב יְחָֽרְפֵ֗נִי וְאֶ֫שָּׂ֥א לֹֽא־ מְ֭שַׂנְאִי עָלַ֣י הִגְדִּ֑יל וְאֶסָּתֵ֥ר מִמֶּֽנּוּ׃"
+pericope: "[[Ps.55.1 Cast Your Burden upon the LORD|Cast Your Burden upon the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 55
+book/chapter: "[[Ps.55|Psalm 55]]"
+chronological_order: 370
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AHITHOPHEL|AHITHOPHEL]]"
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0341]]"
+- "[[H2778A]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H5375H]]"
+- "[[H8130]]"
+- "[[H5921A]]"
+- "[[H1431]]"
+- "[[H5641]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 55:12**<big><big>[[Ps.55.1 Cast Your Burden upon the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [it was] not an enemy [that] reproached me; then I could have borne [it]: neither [was it] he that hated me [that] did magnify [himself] against me; then I would have hid myself from him:
 <small><sub>**BSB:**</sub></small>
 For it is not an enemy who insults me; that I could endure. It is not a foe who rises against me; from him I could hide.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0341\|אוֹיֵ֥ב]] [[H2778A\|יְחָֽרְפֵ֗]][[H9030\|נִי]] [[H9002\|וְ]][[H5375H\|אֶ֫שָּׂ֥א]] [[H3808\|לֹֽא]][[H9014\|־]] [[H8130\|מְ֭שַׂנְאִ]][[H9030\|י]] [[H5921A\|עָלַ֣]][[H9030\|י]] [[H1431\|הִגְדִּ֑יל]] [[H9002\|וְ]][[H5641\|אֶסָּתֵ֥ר]] [[H4480A\|מִמֶּֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AHITHOPHEL|AHITHOPHEL]] • [[topic FRIENDS|FRIENDS]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic HYPOCRISY|HYPOCRISY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.55.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55.11|<< Psalms 55:11]]</td><td align="center" style="border:none;">[[Ps.55|Psalms 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.55.13|Psalms 55:13 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: Jonah 2:3
+type: Verse
+kjv: "For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me."
+bsb: "For You cast me into the deep, into the heart of the seas, and the current swirled about me; all Your breakers and waves swept over me."
+hebrew: "וַתַּשְׁלִיכֵ֤נִי מְצוּלָה֙ בִּלְבַ֣ב יַמִּ֔ים וְנָהָ֖ר יְסֹבְבֵ֑נִי כָּל־ מִשְׁבָּרֶ֥יךָ וְגַלֶּ֖יךָ עָלַ֥י עָבָֽרוּ׃"
+pericope: "[[Jonah.2.1 Jonah’s Prayer|Jonah’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: Jonah
+chapter: 2
+book/chapter: "[[Jonah.2|Jonah 2]]"
+chronological_order: 595
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7993]]"
+- "[[H9030]]"
+- "[[H4688]]"
+- "[[H9003]]"
+- "[[H3824]]"
+- "[[H3220G]]"
+- "[[H9002]]"
+- "[[H5104H]]"
+- "[[H5437H]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4867]]"
+- "[[H9021]]"
+- "[[H1530H]]"
+- "[[H5921A]]"
+- "[[H5674A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jonah 2:3**<big><big>[[Jonah.2.1 Jonah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me.
 <small><sub>**BSB:**</sub></small>
 For You cast me into the deep, into the heart of the seas, and the current swirled about me; all Your breakers and waves swept over me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7993\|תַּשְׁלִיכֵ֤]][[H9030\|נִי]] [[H4688\|מְצוּלָה֙]] [[H9003\|בִּ]][[H3824\|לְבַ֣ב]] [[H3220G\|יַמִּ֔ים]] [[H9002\|וְ]][[H5104H\|נָהָ֖ר]] [[H5437H\|יְסֹבְבֵ֑]][[H9030\|נִי]] [[H3605\|כָּל]][[H9014\|־]] [[H4867\|מִשְׁבָּרֶ֥י]][[H9021\|ךָ]] [[H9002\|וְ]][[H1530H\|גַלֶּ֖י]][[H9021\|ךָ]] [[H5921A\|עָלַ֥]][[H9030\|י]] [[H5674A\|עָבָֽרוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic FAITH|FAITH]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.2.2|<< Jonah 2:2]]</td><td align="center" style="border:none;">[[Jonah.2|Jonah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.2.4|Jonah 2:4 >>]]</td></tr></table>
 

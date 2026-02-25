@@ -1,10 +1,49 @@
+---
+title: Philemon 1:12
+type: Verse
+kjv: "Whom I have sent again: thou therefore receive him, that is, mine own bowels:"
+bsb: "I am sending back to you him who is my very heart."
+greek: "ὃν ἀνέπεμψά σοι δὲ αὐτόν, τοῦτ᾽ ἔστιν τὰ ἐμὰ σπλάγχνα προσλαβοῦ."
+pericope: "[[Phlm.1.8 Paul’s Appeal for Onesimus|Paul’s Appeal for Onesimus]]"
+original_language: Greek
+testament: New
+book: Philemon
+chapter: 1
+book/chapter: "[[Phlm.1|Philemon 1]]"
+chronological_order: 1125
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- personal letter
+strongs:
+- "[[G3739]]"
+- "[[G0375]]"
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G1473]]"
+- "[[G4698]]"
+- "[[G4355]]"
+texts:
+- NKO
+- N(K)O
+- k
+---
+
 **Philemon 1:12**<big><big>[[Phlm.1.8 Paul’s Appeal for Onesimus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whom I have sent again: thou therefore receive him, that is, mine own bowels:
 <small><sub>**BSB:**</sub></small>
 I am sending back to you him who is my very heart.
-<small><sub>**Literal:**</sub></small>
-whom I have sent back to you now in person — who is <the> my very heart — do yourself receive.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.11|<< Philemon 1:11]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.13|Philemon 1:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃν]]  [[G0375\|ἀνέπεμψά]]  [[G4771\|σοι]]  [[G1161\|δὲ]]  [[G0846\|αὐτόν,]]  [[G3778\|τοῦτ᾽]]  [[G1510\|ἔστιν]]  [[G3588\|τὰ]]  [[G1473\|ἐμὰ]]  [[G4698\|σπλάγχνα]]  [[G4355\|προσλαβοῦ.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.11|<< Philemon 1:11]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.13|Philemon 1:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

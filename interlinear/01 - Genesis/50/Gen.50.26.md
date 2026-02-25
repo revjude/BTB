@@ -1,8 +1,64 @@
+---
+title: Genesis 50:26
+type: Verse
+kjv: "So Joseph died, being an hundred and ten years old: and they embalmed him, and he was put in a coffin in Egypt."
+bsb: "So Joseph died at the age of 110. And they embalmed his body and placed it in a coffin in Egypt."
+hebrew: "וַיָּ֣מָת יוֹסֵ֔ף בֶּן־ מֵאָ֥ה וָעֶ֖שֶׂר שָׁנִ֑ים וַיַּחַנְט֣וּ אֹת֔וֹ וַיִּ֥ישֶׂם בָּאָר֖וֹן בְּמִצְרָֽיִם׃"
+pericope: "[[Gen.50.22 The Death of Joseph|The Death of Joseph]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 50
+book/chapter: "[[Gen.50|Genesis 50]]"
+chronological_order: 92
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COFFIN|COFFIN]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic EMBALMING|EMBALMING]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic LONGEVITY|LONGEVITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H3130G]]"
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H3967]]"
+- "[[H9002]]"
+- "[[H6235]]"
+- "[[H8141]]"
+- "[[H2590A]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H3455]]"
+- "[[H9003]]"
+- "[[H0727]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 50:26**<big><big>[[Gen.50.22 The Death of Joseph|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Joseph died, [being] an hundred and ten years old: and they embalmed him, and he was put in a coffin in Egypt.
 <small><sub>**BSB:**</sub></small>
 So Joseph died at the age of 110. And they embalmed his body and placed it in a coffin in Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4191\|יָּ֣מָת]] [[H3130G\|יוֹסֵ֔ף]] [[H1121L\|בֶּן]][[H9014\|־]] [[H3967\|מֵאָ֥ה]] [[H9002\|וָ]][[H6235\|עֶ֖שֶׂר]] [[H8141\|שָׁנִ֑ים]] [[H9001\|וַ]][[H2590A\|יַּחַנְט֣וּ]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H3455\|יִּ֥ישֶׂם]] [[H9003\|בָּ]][[H0727\|אָר֖וֹן]] [[H9003\|בְּ]][[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COFFIN|COFFIN]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic EMBALMING|EMBALMING]] • [[topic JOSEPH|JOSEPH]] • [[topic LONGEVITY|LONGEVITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.50.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.25|<< Genesis 50:25]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.1.1|Exodus 1:1 >>]]</td></tr></table>
 

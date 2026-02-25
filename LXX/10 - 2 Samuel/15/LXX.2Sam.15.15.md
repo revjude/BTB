@@ -1,6 +1,60 @@
+---
+title: LXX 2 Samuel 15:15
+type: Verse
+lxx: "And the servants of the king said to the king, According to all as much as seems good  to our master the king, behold,  we are your servants."
+greek: "και είπον οι παίδες του βασιλέως προς τον βασιλέα κατά πάντα όσα αιρείται ο κυριός ημών ο βασιλεύς ιδού οι παίδές σου"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 15
+book/chapter: "[[2Sam.15|2 Samuel 15]]"
+chronological_order: 414
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G3816]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2596]]"
+- "[[G3956]]"
+- "[[G3745]]"
+- "[[G0138]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2400]]"
+- "[[G3588]]"
+- "[[G3816]]"
+- "[[G1473]]"
+---
+
 **LXX 2 Samuel 15:15** 
 <small><sub>**LXX:**</sub></small>
 And the servants of the king said to the king, According to all as much as seems good  to our master the king, behold,  \[we are\] your servants. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπον]] [[G3588\|οι]] [[G3816\|παίδες]] [[G3588\|του]] [[G0935\|βασιλέως]] [[G4314\|προς]] [[G3588\|τον]] [[G0935\|βασιλέα]] [[G2596\|κατά]] [[G3956\|πάντα]] [[G3745\|όσα]] [[G0138\|αιρείται]] [[G3588\|ο]] [[G2962\|κυριός]] [[G1473\|ημών]] [[G3588\|ο]] [[G0935\|βασιλεύς]] [[G2400\|ιδού]] [[G3588\|οι]] [[G3816\|παίδές]] [[G1473\|σου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COWARDICE|COWARDICE]] • [[topic DAVID|DAVID]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.14|<< 2 Samuel 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.16|2 Samuel 15:16 >>]]</td></tr></table>
 
@@ -26,6 +80,6 @@ And the servants of the king said to the king, According to all as much as seems
 | behold, | **<big>[[G2400\|ιδού]]</big>** |
 | \<obj.> | **<big>[[G3588\|οι]]</big>** |
 | \[we are\] your servants. | **<big>[[G3816\|παίδές]]</big>** **<big>[[G1473\|σου]]</big>** |
-[[2Sam.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.14|<< 2 Samuel 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.16|2 Samuel 15:16 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.14|<< 2 Samuel 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.16|2 Samuel 15:16 >>]]</td></tr></table>
 
 

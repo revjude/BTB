@@ -1,10 +1,66 @@
+---
+title: John 11:25
+type: Verse
+kjv: "Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:"
+bsb: "Jesus said to her, “I am the resurrection and the life. Whoever believes in Me will live, even though he dies."
+jesus_said: "I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:"
+greek: "Εἶπεν αὐτῇ ὁ Ἰησοῦς· ἐγώ εἰμι ἡ ἀνάστασις καὶ ἡ ζωή· ὁ πιστεύων εἰς ἐμὲ κἂν κἂν ἀποθάνῃ ζήσεται,"
+pericope: "[[John.11.17 Jesus Comforts Martha and Mary|Jesus Comforts Martha and Mary]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONDOLENCE|CONDOLENCE]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SORROW|SORROW]]"
+strongs:
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G0386]]"
+- "[[G2532]]"
+- "[[G2222]]"
+- "[[G4100]]"
+- "[[G1519]]"
+- "[[G1437]]"
+- "[[G0599]]"
+- "[[G2198]]"
+texts:
+- NKO
+---
+
 **John 11:25**<big><big>[[John.11.17 Jesus Comforts Martha and Mary|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:
 <small><sub>**BSB:**</sub></small>
 Jesus said to her, “I am the resurrection and the life. Whoever believes in Me will live, even though he dies.
-<small><sub>**Literal:**</sub></small>
-Said to her <the> Jesus; I myself am the resurrection and the life; the [one] believing in Me myself even if he shall die he will live,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.24|<< John 11:24]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.26|John 11:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G0846\|αὐτῇ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G1473\|ἐγώ]]  [[G1510\|εἰμι]]  [[G3588\|ἡ]]  [[G0386\|ἀνάστασις]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G2222\|ζωή·]]  [[G3588\|ὁ]]  [[G4100\|πιστεύων]]  [[G1519\|εἰς]]  [[G1473\|ἐμὲ]]  [[G2532\|κἂν]]  <sup><small>[[G1437\| [ • ] ]]</small></sup>  [[G0599\|ἀποθάνῃ]]  [[G2198\|ζήσεται,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDOLENCE|CONDOLENCE]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic FAITH|FAITH]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic MIRACLES|MIRACLES]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SALVATION|SALVATION]] • [[topic SORROW|SORROW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.24|<< John 11:24]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.26|John 11:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

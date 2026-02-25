@@ -1,10 +1,65 @@
+---
+title: Luke 4:22
+type: Verse
+kjv: "And all bare him witness, and wondered at the gracious words which proceeded out of his mouth. And they said, Is not this Joseph’s son?"
+bsb: "All spoke well of Him and marveled at the gracious words that came from His lips. “Isn’t this the son of Joseph?” they asked."
+greek: "καὶ πάντες ἐμαρτύρουν αὐτῷ καὶ ἐθαύμαζον ἐπὶ τοῖς λόγοις τῆς χάριτος τοῖς ἐκπορευομένοις ἐκ τοῦ στόματος αὐτοῦ καὶ ἔλεγον· οὐχὶ υἱός ἐστιν ὁ Ἰωσὴφ οὗτος;"
+pericope: "[[Luke.4.16 The Rejection at Nazareth|The Rejection at Nazareth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 4
+book/chapter: "[[Luke.4|Luke 4]]"
+chronological_order: 938
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic NAZARETH|NAZARETH]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic WORDS|WORDS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3140]]"
+- "[[G0846]]"
+- "[[G2296]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G5485]]"
+- "[[G1607]]"
+- "[[G1537]]"
+- "[[G4750]]"
+- "[[G3004G]]"
+- "[[G3780]]"
+- "[[G5207]]"
+- "[[G1510]]"
+- "[[G2501G]]"
+- "[[G3778]]"
+texts:
+- NKO
+- N(k)O
+- ko
+---
+
 **Luke 4:22**<big><big>[[Luke.4.16 The Rejection at Nazareth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And all bare him witness, and wondered at the gracious words which proceeded out of his mouth. And they said, Is not this Joseph’s son?
 <small><sub>**BSB:**</sub></small>
 All spoke well of Him and marveled at the gracious words that came from His lips. “Isn’t this the son of Joseph?” they asked.
-<small><sub>**Literal:**</sub></small>
-And all were bearing witness to Him and they were marveling at the words of the grace which are proceeding out of the mouth of Him and they were saying; surely [the] son is <the> of Joseph this?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.21|<< Luke 4:21]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.23|Luke 4:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3956\|πάντες]]  [[G3140\|ἐμαρτύρουν]]  [[G0846\|αὐτῷ]]  [[G2532\|καὶ]]  [[G2296\|ἐθαύμαζον]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῖς]]  [[G3056\|λόγοις]]  [[G3588\|τῆς]]  [[G5485\|χάριτος]]  [[G3588\|τοῖς]]  [[G1607\|ἐκπορευομένοις]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4750\|στόματος]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3004G\|ἔλεγον·]]  [[G3780\|οὐχὶ]]  [[G5207\|υἱός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G2501G\|Ἰωσὴφ]]  [[G3778\|οὗτος;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic NAZARETH|NAZARETH]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic WORDS|WORDS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.21|<< Luke 4:21]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.23|Luke 4:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,57 @@
+---
+title: Leviticus 14:54
+type: Verse
+kjv: "This is the law for all manner of plague of leprosy, and scall,"
+bsb: "This is the law for any infectious skin disease, for a scaly outbreak,"
+hebrew: "זֹ֖את הַתּוֹרָ֑ה לְכָל־ נֶ֥גַע הַצָּרַ֖עַת וְלַנָּֽתֶק׃"
+pericope: "[[Lev.14.48 Cleansing a Home|Cleansing a Home]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 14
+book/chapter: "[[Lev.14|Leviticus 14]]"
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H2063]]"
+- "[[H9009]]"
+- "[[H8451]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5061]]"
+- "[[H6883]]"
+- "[[H9002]]"
+- "[[H5424]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 14:54**<big><big>[[Lev.14.48 Cleansing a Home|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the law for all manner of plague of leprosy, and scall,
 <small><sub>**BSB:**</sub></small>
 This is the law for any infectious skin disease, for a scaly outbreak,
+<small><sub>**Hebrew:**</sub></small>
+[[H2063\|זֹ֖את]] [[H9009\|הַ]][[H8451\|תּוֹרָ֑ה]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H5061\|נֶ֥גַע]] [[H9009\|הַ]][[H6883\|צָּרַ֖עַת]] [[H9002\|וְ]][[H9005\|לַ]][[H5424\|נָּֽתֶק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.53|<< Leviticus 14:53]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.55|Leviticus 14:55 >>]]</td></tr></table>
 

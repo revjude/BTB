@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Bride
+type: Pericope
 pericope: "[[Song.5.2 The Bride|The Bride]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Song of Solomon
 chapter: 5
 book/chapter: "[[Song.5|Song of Solomon 5]]"
-genre:
+chronological_order: 452
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
 - poetry
 - love poetry
 - megillot
+verse_count: 7
 verses:
 - "[[Song.5.2]]"
 - "[[Song.5.3]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Song.5.8]]"
 ---
 
-[[Song.5|Song of Solomon 5:2 - Song of Solomon 5:8]]
+<small>[[Song.5|Song of Solomon 5:2-8]]</small>
 *The Bride*
 
 [[Song.5.2|2]] I sleep, but my heart waketh: \[it is\] the voice of my beloved that knocketh, \[saying\], Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, \[and\] my locks with the drops of the night.

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel’s Adultery Rebuked
+type: Pericope
 pericope: "[[Hos.2.1 Israel’s Adultery Rebuked|Israel’s Adultery Rebuked]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Hosea
 chapter: 2
 book/chapter: "[[Hos.2|Hosea 2]]"
-genre:
+chronological_order: 643
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 13
 verses:
 - "[[Hos.2.1]]"
 - "[[Hos.2.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Hos.2.13]]"
 ---
 
-[[Hos.2|Hosea 2:1 - Hosea 2:13]]
+<small>[[Hos.2|Hosea 2:1-13]]</small>
 *Israel’s Adultery Rebuked*
 
 [[Hos.2.1|1]] Say ye unto your brethren, Ammi; and to your sisters, Ruhamah.

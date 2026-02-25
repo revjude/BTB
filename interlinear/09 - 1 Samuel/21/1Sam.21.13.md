@@ -1,8 +1,72 @@
+---
+title: 1 Samuel 21:13
+type: Verse
+kjv: "And he changed his behaviour before them, and feigned himself mad in their hands, and scrabbled on the doors of the gate, and let his spittle fall down upon his beard."
+bsb: "So he changed his behavior before them and feigned madness in their hands; he scratched on the doors of the gate and let his saliva run down his beard."
+hebrew: "וַיְשַׁנּ֤וֹ אֶת־ טַעְמוֹ֙ בְּעֵ֣ינֵיהֶ֔ם וַיִּתְהֹלֵ֖ל בְּיָדָ֑ם וַיְתָיו֙ עַל־ דַּלְת֣וֹת הַשַּׁ֔עַר וַיּ֥וֹרֶד רִיר֖וֹ אֶל־ זְקָנֽוֹ׃"
+pericope: "[[1Sam.21.8 David Flees to Gath|David Flees to Gath]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 21
+book/chapter: "[[1Sam.21|1 Samuel 21]]"
+chronological_order: 300
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ACHISH|ACHISH]]"
+- "[[topic BEARD|BEARD]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DISSEMBLING|DISSEMBLING]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GATH|GATH]]"
+- "[[topic INSANITY|INSANITY]]"
+- "[[topic MALINGERING|MALINGERING]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9001]]"
+- "[[H8138A]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2940]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H5869J]]"
+- "[[H9028]]"
+- "[[H1984C]]"
+- "[[H3027H]]"
+- "[[H8427]]"
+- "[[H5921A]]"
+- "[[H1817C]]"
+- "[[H9009]]"
+- "[[H8179G]]"
+- "[[H3381]]"
+- "[[H7388]]"
+- "[[H0413]]"
+- "[[H2206]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **1 Samuel 21:13**<big><big>[[1Sam.21.8 David Flees to Gath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he changed his behaviour before them, and feigned himself mad in their hands, and scrabbled on the doors of the gate, and let his spittle fall down upon his beard.
 <small><sub>**BSB:**</sub></small>
 So he changed his behavior before them and feigned madness in their hands; he scratched on the doors of the gate and let his saliva run down his beard.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8138A\|יְשַׁנּ֤]][[H9033\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H2940\|טַעְמ]][[H9023\|וֹ֙]] [[H9003\|בְּ]][[H5869J\|עֵ֣ינֵי]][[H9028\|הֶ֔ם]] [[H9001\|וַ]][[H1984C\|יִּתְהֹלֵ֖ל]] [[H9003\|בְּ]][[H3027H\|יָדָ֑]][[H9028\|ם]] [[H9001\|וַ]][[H8427\|יְתָיו֙]] [[H5921A\|עַל]][[H9014\|־]] [[H1817C\|דַּלְת֣וֹת]] [[H9009\|הַ]][[H8179G\|שַּׁ֔עַר]] [[H9001\|וַ]][[H3381\|יּ֥וֹרֶד]] [[H7388\|רִיר֖]][[H9023\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H2206\|זְקָנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACHISH|ACHISH]] • [[topic BEARD|BEARD]] • [[topic DAVID|DAVID]] • [[topic DECEPTION|DECEPTION]] • [[topic DISSEMBLING|DISSEMBLING]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GATH|GATH]] • [[topic INSANITY|INSANITY]] • [[topic MALINGERING|MALINGERING]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.21.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.21.12|<< 1 Samuel 21:12]]</td><td align="center" style="border:none;">[[1Sam.21|1 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.21.14|1 Samuel 21:14 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Jeremiah 22:2
+type: Verse
+kjv: "And say, Hear the word of the LORD, O king of Judah, that sittest upon the throne of David, thou, and thy servants, and thy people that enter in by these gates:"
+bsb: "saying, ‘Hear the word of the LORD, O king of Judah, who sits on the throne of David—you and your officials and your people who enter these gates."
+hebrew: "וְאָֽמַרְתָּ֙ שְׁמַ֣ע דְּבַר־ יְהוָ֔ה מֶ֣לֶךְ יְהוּדָ֔ה הַיֹּשֵׁ֖ב עַל־ כִּסֵּ֣א דָוִ֑ד אַתָּ֤ה וַעֲבָדֶ֙יךָ֙ וְעַמְּךָ֔ הַבָּאִ֖ים בַּשְּׁעָרִ֥ים הָאֵֽלֶּה׃ ס"
+pericope: "[[Jer.22.1 A Warning to Judah’s Kings|A Warning to Judah’s Kings]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 22
+book/chapter: "[[Jer.22|Jeremiah 22]]"
+chronological_order: 745
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GATES|GATES]]"
+- "[[topic JUSTICE|JUSTICE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8085G]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H9009]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H3678G]]"
+- "[[H1732]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H5971A]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H0428]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 22:2**<big><big>[[Jer.22.1 A Warning to Judah’s Kings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say, Hear the word of the LORD, O king of Judah, that sittest upon the throne of David, thou, and thy servants, and thy people that enter in by these gates:
 <small><sub>**BSB:**</sub></small>
 saying, ‘Hear the word of the LORD, O king of Judah, who sits on the throne of David—you and your officials and your people who enter these gates.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָֽמַרְתָּ֙]] [[H8085G\|שְׁמַ֣ע]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֔ה]] [[H9009\|הַ]][[H3427\|יֹּשֵׁ֖ב]] [[H5921A\|עַל]][[H9014\|־]] [[H3678G\|כִּסֵּ֣א]] [[H1732\|דָוִ֑ד]] [[H0859A\|אַתָּ֤ה]] [[H9002\|וַ]][[H5650\|עֲבָדֶ֙י]][[H9021\|ךָ֙]] [[H9002\|וְ]][[H5971A\|עַמְּ]][[H9021\|ךָ֔]] [[H9009\|הַ]][[H0935G\|בָּאִ֖ים]] [[H9003\|בַּ]][[H8179G\|שְּׁעָרִ֥ים]] [[H9009\|הָ]][[H0428\|אֵֽלֶּה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GATES|GATES]] • [[topic JUSTICE|JUSTICE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.22.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.1|<< Jeremiah 22:1]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.3|Jeremiah 22:3 >>]]</td></tr></table>
 
@@ -23,7 +83,7 @@ saying, ‘Hear the word of the LORD, O king of Judah, who sits on the throne of
 | and people your  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5971A\|עַמְּ]]&#8207;&#8207;[[H9021\|ךָ֔]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.me.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who come  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H0935G\|בָּאִ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ba.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the gates  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H8179G\|שְּׁעָרִ֥ים]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> she.'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> these  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0428\|אֵֽלֶּה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> these  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0428\|אֵֽלֶּה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.1|<< Jeremiah 22:1]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.3|Jeremiah 22:3 >>]]</td></tr></table>
 
 

@@ -1,8 +1,87 @@
+---
+title: 2 Samuel 15:2
+type: Verse
+kjv: "And Absalom rose up early, and stood beside the way of the gate: and it was so, that when any man that had a controversy came to the king for judgment, then Absalom called unto him, and said, Of what city art thou? And he said, Thy servant is of one of the tribes of Israel."
+bsb: "He would get up early and stand beside the road leading to the city gate. Whenever anyone had a grievance to bring before the king for a decision, Absalom would call out and ask, “What city are you from?” And if he replied, “Your servant is from one of the tribes of Israel,”"
+hebrew: "וְהִשְׁכִּים֙ אַבְשָׁל֔וֹם וְעָמַ֕ד עַל־ יַ֖ד דֶּ֣רֶךְ הַשָּׁ֑עַר וַיְהִ֡י כָּל־ הָאִ֣ישׁ אֲשֶֽׁר־ יִהְיֶה־ לּוֹ־ רִיב֩ לָב֨וֹא אֶל־ הַמֶּ֜לֶךְ לַמִּשְׁפָּ֗ט וַיִּקְרָ֨א אַבְשָׁל֤וֹם אֵלָיו֙ וַיֹּ֗אמֶר אֵֽי־ מִזֶּ֥ה עִיר֙ אַ֔תָּה וַיֹּ֕אמֶר מֵאַחַ֥ד שִׁבְטֵֽי־ יִשְׂרָאֵ֖ל עַבְדֶּֽךָ׃"
+pericope: "[[2Sam.15.1 Absalom’s Conspiracy|Absalom’s Conspiracy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 15
+book/chapter: "[[2Sam.15|2 Samuel 15]]"
+chronological_order: 414
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CANDIDATE|CANDIDATE]]"
+- "[[topic DEMAGOGISM|DEMAGOGISM]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic ELECTIONEERING|ELECTIONEERING]]"
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic GATES|GATES]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic KING|KING]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic POPULARITY|POPULARITY]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7925]]"
+- "[[H0053]]"
+- "[[H5975G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3027K]]"
+- "[[H1870K]]"
+- "[[H9009]]"
+- "[[H8179G]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H7379]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H4428G]]"
+- "[[H4941G]]"
+- "[[H7121G]]"
+- "[[H0559]]"
+- "[[H0335]]"
+- "[[H9006]]"
+- "[[H2088]]"
+- "[[H5892B]]"
+- "[[H0859A]]"
+- "[[H0259]]"
+- "[[H7626H]]"
+- "[[H3478]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 15:2**<big><big>[[2Sam.15.1 Absalom’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Absalom rose up early, and stood beside the way of the gate: and it was [so], that when any man that had a controversy came to the king for judgment, then Absalom called unto him, and said, Of what city [art] thou? And he said, Thy servant [is] of one of the tribes of Israel.
 <small><sub>**BSB:**</sub></small>
 He would get up early and stand beside the road leading to the city gate. Whenever anyone had a grievance to bring before the king for a decision, Absalom would call out and ask, “What city are you from?” And if he replied, “Your servant is from one of the tribes of Israel,”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7925\|הִשְׁכִּים֙]] [[H0053\|אַבְשָׁל֔וֹם]] [[H9001\|וְ]][[H5975G\|עָמַ֕ד]] [[H5921A\|עַל]][[H9014\|־]] [[H3027K\|יַ֖ד]] [[H1870K\|דֶּ֣רֶךְ]] [[H9009\|הַ]][[H8179G\|שָּׁ֑עַר]] [[H9001\|וַ]][[H1961\|יְהִ֡י]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֣ישׁ]] [[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H1961\|יִהְיֶה]][[H9014\|־]] [[H9005\|לּ]][[H9033\|וֹ]][[H9014\|־]] [[H7379\|רִיב֩]] [[H9005\|לָ]][[H0935G\|ב֨וֹא]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H9005\|לַ]][[H4941G\|מִּשְׁפָּ֗ט]] [[H9001\|וַ]][[H7121G\|יִּקְרָ֨א]] [[H0053\|אַבְשָׁל֤וֹם]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H0335\|אֵֽי]][[H9014\|־]] [[H9006\|מִ]][[H2088\|זֶּ֥ה]] [[H5892B\|עִיר֙]] [[H0859A\|אַ֔תָּה]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H9006\|מֵ]][[H0259\|אַחַ֥ד]] [[H7626H\|שִׁבְטֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H5650\|עַבְדֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic AMBITION|AMBITION]] • [[topic CANDIDATE|CANDIDATE]] • [[topic DEMAGOGISM|DEMAGOGISM]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic ELECTIONEERING|ELECTIONEERING]] • [[topic FLATTERY|FLATTERY]] • [[topic GATES|GATES]] • [[topic JUDGE|JUDGE]] • [[topic KING|KING]] • [[topic POLITICS|POLITICS]] • [[topic POPULARITY|POPULARITY]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.1|<< 2 Samuel 15:1]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.3|2 Samuel 15:3 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: 2 Chronicles 32:19
+type: Verse
+kjv: "And they spake against the God of Jerusalem, as against the gods of the people of the earth, which were the work of the hands of man."
+bsb: "They spoke against the God of Jerusalem as they had spoken against the gods of the peoples of the earth—the work of human hands."
+hebrew: "וַֽיְדַבְּר֔וּ אֶל־ אֱלֹהֵ֖י יְרוּשָׁלִָ֑ם כְּעַ֗ל אֱלֹהֵי֙ עַמֵּ֣י הָאָ֔רֶץ מַעֲשֵׂ֖ה יְדֵ֥י הָאָדָֽם׃ ס"
+pericope: "[[2Chr.32.9 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 32
+book/chapter: "[[2Chr.32|2 Chronicles 32]]"
+chronological_order: 662
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic SIEGE|SIEGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0430G]]"
+- "[[H3389]]"
+- "[[H9004]]"
+- "[[H5921A]]"
+- "[[H0430]]"
+- "[[H5971A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H4639G]]"
+- "[[H3027G]]"
+- "[[H0120G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Chronicles 32:19**<big><big>[[2Chr.32.9 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they spake against the God of Jerusalem, as against the gods of the people of the earth, [which were] the work of the hands of man.
 <small><sub>**BSB:**</sub></small>
 They spoke against the God of Jerusalem as they had spoken against the gods of the peoples of the earth—the work of human hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1696G\|יְדַבְּר֔וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H0430G\|אֱלֹהֵ֖י]] [[H3389\|יְרוּשָׁלִָ֑ם]] [[H9004\|כְּ]][[H5921A\|עַ֗ל]] [[H0430\|אֱלֹהֵי֙]] [[H5971A\|עַמֵּ֣י]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H4639G\|מַעֲשֵׂ֖ה]] [[H3027G\|יְדֵ֥י]] [[H9009\|הָ]][[H0120G\|אָדָֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic INFIDELITY|INFIDELITY]] • [[topic SELF-EXALTATION|SELF-EXALTATION]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic SIEGE|SIEGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.18|<< 2 Chronicles 32:18]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.20|2 Chronicles 32:20 >>]]</td></tr></table>
 
@@ -18,7 +71,7 @@ They spoke against the God of Jerusalem as they had spoken against the gods of t
 | the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֔רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] work of  |**<big>&#8207;[[H4639G\|מַעֲשֵׂ֖ה]]&#8207; </big>**| ma.'a.Seh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] hands of  |**<big>&#8207;[[H3027G\|יְדֵ֥י]]&#8207; </big>**| ye.Dei<small><sup>[[HNcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> humankind  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0120G\|אָדָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> humankind  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0120G\|אָדָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.18|<< 2 Chronicles 32:18]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.20|2 Chronicles 32:20 >>]]</td></tr></table>
 
 

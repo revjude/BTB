@@ -1,10 +1,60 @@
+---
+title: Mark 15:29
+type: Verse
+kjv: "And they that passed by railed on him, wagging their heads, and saying, Ah, thou that destroyest the temple, and buildest it in three days,"
+bsb: "And those who passed by heaped abuse on Him, shaking their heads and saying, “Aha! You who are going to destroy the temple and rebuild it in three days,"
+greek: "καὶ οἱ παραπορευόμενοι ἐβλασφήμουν αὐτὸν κινοῦντες τὰς κεφαλὰς αὐτῶν καὶ λέγοντες· Οὐά, ὁ καταλύων τὸν ναὸν καὶ οἰκοδομῶν ἐν τρισὶν ἡμέραις,"
+pericope: "[[Mark.15.21 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 15
+book/chapter: "[[Mark.15|Mark 15]]"
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOCKING|MOCKING]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic RAILING|RAILING]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3899]]"
+- "[[G0987]]"
+- "[[G0846]]"
+- "[[G2795]]"
+- "[[G2776]]"
+- "[[G3004G]]"
+- "[[G3758]]"
+- "[[G2647]]"
+- "[[G3485]]"
+- "[[G3618]]"
+- "[[G1722]]"
+- "[[G5140]]"
+- "[[G2250]]"
+texts:
+- NKO
+---
+
 **Mark 15:29**<big><big>[[Mark.15.21 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they that passed by railed on him, wagging their heads, and saying, Ah, thou that destroyest the temple, and buildest [it] in three days,
 <small><sub>**BSB:**</sub></small>
 And those who passed by heaped abuse on Him, shaking their heads and saying, “Aha! You who are going to destroy the temple and rebuild it in three days,
-<small><sub>**Literal:**</sub></small>
-And those passing by were denigrating Him shaking the heads of them and saying; Aha! You who [are] destroying the temple and building [it] in three days<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.28|<< Mark 15:28]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.30|Mark 15:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3899\|παραπορευόμενοι]]  [[G0987\|ἐβλασφήμουν]]  [[G0846\|αὐτὸν]]  [[G2795\|κινοῦντες]]  [[G3588\|τὰς]]  [[G2776\|κεφαλὰς]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G3004G\|λέγοντες·]]  [[G3758\|Οὐά,]]  [[G3588\|ὁ]]  [[G2647\|καταλύων]]  [[G3588\|τὸν]]  [[G3485\|ναὸν]]  [[G2532\|καὶ]]  [[G3618\|οἰκοδομῶν]]  [[G1722\|ἐν]]  [[G5140\|τρισὶν]]  [[G2250\|ἡμέραις,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOCKING|MOCKING]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic RAILING|RAILING]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.28|<< Mark 15:28]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.30|Mark 15:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

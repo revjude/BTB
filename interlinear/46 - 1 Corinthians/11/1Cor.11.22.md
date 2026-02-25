@@ -1,10 +1,63 @@
+---
+title: 1 Corinthians 11:22
+type: Verse
+kjv: "What? have ye not houses to eat and to drink in? or despise ye the church of God, and shame them that have not? What shall I say to you? shall I praise you in this? I praise you not."
+bsb: "Don’t you have your own homes in which to eat and drink? Or do you despise the church of God and humiliate those who have nothing? What can I say to you? Shall I praise you for this? No, I will not!"
+greek: "μὴ γὰρ οἰκίας οὐκ ἔχετε εἰς τὸ ἐσθίειν καὶ πίνειν; ἢ τῆς ἐκκλησίας τοῦ θεοῦ καταφρονεῖτε καὶ καταισχύνετε τοὺς μὴ ἔχοντας; τί εἴπω ὑμῖν; ἐπαινέσω ὑμᾶς ἐν τούτῳ; οὐκ ἐπαινῶ."
+pericope: "[[1Cor.11.17 Sharing in the Lord’s Supper|Sharing in the Lord’s Supper]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 11
+book/chapter: "[[1Cor.11|1 Corinthians 11]]"
+chronological_order: 1068
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CORINTH|CORINTH]]"
+- "[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G3361]]"
+- "[[G1063]]"
+- "[[G3614G]]"
+- "[[G3756]]"
+- "[[G2192]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2068]]"
+- "[[G2532]]"
+- "[[G4095]]"
+- "[[G2228]]"
+- "[[G1577]]"
+- "[[G2316]]"
+- "[[G2706]]"
+- "[[G2617]]"
+- "[[G5101]]"
+- "[[G2036]]"
+- "[[G4771]]"
+- "[[G1867]]"
+- "[[G1722]]"
+- "[[G3778]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 11:22**<big><big>[[1Cor.11.17 Sharing in the Lord’s Supper|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 What? have ye not houses to eat and to drink in? or despise ye the church of God, and shame them that have not? What shall I say to you? shall I praise you in this? I praise [you] not.
 <small><sub>**BSB:**</sub></small>
 Don’t you have your own homes in which to eat and drink? Or do you despise the church of God and humiliate those who have nothing? What can I say to you? Shall I praise you for this? No, I will not!
-<small><sub>**Literal:**</sub></small>
-Surely not indeed houses surely you have in which to eat and to drink? Or the church <the> of God do you despise and put to shame those nothing having? What shall I say to you shall I praise you in this? Not I praise [you]!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.21|<< 1 Corinthians 11:21]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.23|1 Corinthians 11:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μὴ]]  [[G1063\|γὰρ]]  [[G3614G\|οἰκίας]]  [[G3756\|οὐκ]]  [[G2192\|ἔχετε]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2068\|ἐσθίειν]]  [[G2532\|καὶ]]  [[G4095\|πίνειν;]]  [[G2228\|ἢ]]  [[G3588\|τῆς]]  [[G1577\|ἐκκλησίας]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2706\|καταφρονεῖτε]]  [[G2532\|καὶ]]  [[G2617\|καταισχύνετε]]  [[G3588\|τοὺς]]  [[G3361\|μὴ]]  [[G2192\|ἔχοντας;]]  [[G5101\|τί]]  [[G2036\|εἴπω]]  [[G4771\|ὑμῖν;]]  [[G1867\|ἐπαινέσω]]  [[G4771\|ὑμᾶς]]  [[G1722\|ἐν]]  [[G3778\|τούτῳ;]]  [[G3756\|οὐκ]]  [[G1867\|ἐπαινῶ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CORINTH|CORINTH]] • [[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.21|<< 1 Corinthians 11:21]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.23|1 Corinthians 11:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

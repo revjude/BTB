@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Job：Judgment for the Wicked
+type: Pericope
 pericope: "[[Job.24.1 Job：Judgment for the Wicked|Job：Judgment for the Wicked]]"
-verse_count: 25
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 24
 book/chapter: "[[Job.24|Job 24]]"
-genre:
+chronological_order: 35
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 25
 verses:
 - "[[Job.24.1]]"
 - "[[Job.24.2]]"
@@ -44,7 +51,7 @@ verses:
 - "[[Job.24.25]]"
 ---
 
-[[Job.24|Job 24:1 - Job 24:25]]
+<small>[[Job.24|Job 24:1-25]]</small>
 *Job：Judgment for the Wicked*
 
 [[Job.24.1|1]] Why, seeing times are not hidden from the Almighty, do they that know him not see his days?

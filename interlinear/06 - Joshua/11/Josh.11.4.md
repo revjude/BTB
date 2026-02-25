@@ -1,8 +1,69 @@
+---
+title: Joshua 11:4
+type: Verse
+kjv: "And they went out, they and all their hosts with them, much people, even as the sand that is upon the sea shore in multitude, with horses and chariots very many."
+bsb: "So these kings came out with all their armies, a multitude as numerous as the sand on the seashore, along with a great number of horses and chariots."
+hebrew: "וַיֵּצְא֣וּ הֵ֗ם וְכָל־ מַֽחֲנֵיהֶם֙ עִמָּ֔ם עַם־ רָ֕ב כַּח֛וֹל אֲשֶׁ֥ר עַל־ שְׂפַת־ הַיָּ֖ם לָרֹ֑ב וְס֥וּס וָרֶ֖כֶב רַב־ מְאֹֽד׃"
+pericope: "[[Josh.11.1 Conquest of the Northern Cities|Conquest of the Northern Cities]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 11
+book/chapter: "[[Josh.11|Joshua 11]]"
+chronological_order: 241
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic CONFEDERACIES|CONFEDERACIES]]"
+- "[[topic JABIN|JABIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H1992]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4264]]"
+- "[[H9028]]"
+- "[[H5973A]]"
+- "[[H9038]]"
+- "[[H5971K]]"
+- "[[H7227A]]"
+- "[[H9004]]"
+- "[[H2344]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H8193J]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H9005]]"
+- "[[H7230]]"
+- "[[H5483M]]"
+- "[[H7393G]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 11:4**<big><big>[[Josh.11.1 Conquest of the Northern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they went out, they and all their hosts with them, much people, even as the sand that [is] upon the sea shore in multitude, with horses and chariots very many.
 <small><sub>**BSB:**</sub></small>
 So these kings came out with all their armies, a multitude as numerous as the sand on the seashore, along with a great number of horses and chariots.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצְא֣וּ]] [[H1992\|הֵ֗ם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H4264\|מַֽחֲנֵי]][[H9028\|הֶם֙]] [[H5973A\|עִמָּ֔]][[H9038\|ם]] [[H5971K\|עַם]][[H9014\|־]] [[H7227A\|רָ֕ב]] [[H9004\|כַּ]][[H2344\|ח֛וֹל]] [[H0834A\|אֲשֶׁ֥ר]] [[H5921A\|עַל]][[H9014\|־]] [[H8193J\|שְׂפַת]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּ֖ם]] [[H9005\|לָ]][[H7230\|רֹ֑ב]] [[H9002\|וְ]][[H5483M\|ס֥וּס]] [[H9002\|וָ]][[H7393G\|רֶ֖כֶב]] [[H7227A\|רַב]][[H9014\|־]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CANAANITES|CANAANITES]] • [[topic CHARIOT|CHARIOT]] • [[topic CONFEDERACIES|CONFEDERACIES]] • [[topic JABIN|JABIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.11.3|<< Joshua 11:3]]</td><td align="center" style="border:none;">[[Josh.11|Joshua 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11.5|Joshua 11:5 >>]]</td></tr></table>
 

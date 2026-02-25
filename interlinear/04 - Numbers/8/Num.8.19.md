@@ -1,8 +1,77 @@
+---
+title: Numbers 8:19
+type: Verse
+kjv: "And I have given the Levites as a gift to Aaron and to his sons from among the children of Israel, to do the service of the children of Israel in the tabernacle of the congregation, and to make an atonement for the children of Israel: that there be no plague among the children of Israel, when the children of Israel come nigh unto the sanctuary."
+bsb: "And I have given the Levites as a gift to Aaron and his sons from among the Israelites, to perform the service for the Israelites at the Tent of Meeting and to make atonement on their behalf, so that no plague will come against the Israelites when they approach the sanctuary.”"
+hebrew: "וָאֶתְּנָ֨ה אֶת־ הַלְוִיִּ֜ם נְתֻנִ֣ים׀ לְאַהֲרֹ֣ן וּלְבָנָ֗יו מִתּוֹךְ֮ בְּנֵ֣י יִשְׂרָאֵל֒ לַעֲבֹ֞ד אֶת־ עֲבֹדַ֤ת בְּנֵֽי־ יִשְׂרָאֵל֙ בְּאֹ֣הֶל מוֹעֵ֔ד וּלְכַפֵּ֖ר עַל־ בְּנֵ֣י יִשְׂרָאֵ֑ל וְלֹ֨א יִהְיֶ֜ה בִּבְנֵ֤י יִשְׂרָאֵל֙ נֶ֔גֶף בְּגֶ֥שֶׁת בְּנֵֽי־ יִשְׂרָאֵ֖ל אֶל־ הַקֹּֽדֶשׁ׃"
+pericope: "[[Num.8.5 Cleansing the Levites|Cleansing the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 8
+book/chapter: "[[Num.8|Numbers 8]]"
+chronological_order: 167
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9012]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H0175]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H5647H]]"
+- "[[H5656H]]"
+- "[[H9003]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H3722A]]"
+- "[[H5921A]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H5063]]"
+- "[[H5066G]]"
+- "[[H0413]]"
+- "[[H6944G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 8:19**<big><big>[[Num.8.5 Cleansing the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I have given the Levites [as] a gift to Aaron and to his sons from among the children of Israel, to do the service of the children of Israel in the tabernacle of the congregation, and to make an atonement for the children of Israel: that there be no plague among the children of Israel, when the children of Israel come nigh unto the sanctuary.
 <small><sub>**BSB:**</sub></small>
 And I have given the Levites as a gift to Aaron and his sons from among the Israelites, to perform the service for the Israelites at the Tent of Meeting and to make atonement on their behalf, so that no plague will come against the Israelites when they approach the sanctuary.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H5414G\|אֶתְּנָ֨]][[H9012\|ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּ֜ם]] [[H5414G\|נְתֻנִ֣ים]][[H9015\|׀]] [[H9005\|לְ]][[H0175\|אַהֲרֹ֣ן]] [[H9002\|וּ]][[H9005\|לְ]][[H1121A\|בָנָ֗י]][[H9023\|ו]] [[H9006\|מִ]][[H8432\|תּוֹךְ֮]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵל֒]] [[H9005\|לַ]][[H5647H\|עֲבֹ֞ד]] [[H0853\|אֶת]][[H9014\|־]] [[H5656H\|עֲבֹדַ֤ת]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9003\|בְּ]][[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֔ד]] [[H9002\|וּ]][[H9005\|לְ]][[H3722A\|כַפֵּ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וְ]][[H3808\|לֹ֨א]] [[H1961\|יִהְיֶ֜ה]] [[H9003\|בִּ]][[H1121G\|בְנֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H5063\|נֶ֔גֶף]] [[H9003\|בְּ]][[H5066G\|גֶ֥שֶׁת]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H6944G\|קֹּֽדֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.8.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.18|<< Numbers 8:18]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.20|Numbers 8:20 >>]]</td></tr></table>
 

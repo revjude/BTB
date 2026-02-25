@@ -1,8 +1,65 @@
+---
+title: Ezekiel 28:17
+type: Verse
+kjv: "Thine heart was lifted up because of thy beauty, thou hast corrupted thy wisdom by reason of thy brightness: I will cast thee to the ground, I will lay thee before kings, that they may behold thee."
+bsb: "Your heart grew proud of your beauty; you corrupted your wisdom because of your splendor; so I cast you to the earth; I made you a spectacle before kings."
+hebrew: "גָּבַ֤הּ לִבְּךָ֙ בְּיָפְיֶ֔ךָ שִׁחַ֥תָּ חָכְמָתְךָ֖ עַל־ יִפְעָתֶ֑ךָ עַל־ אֶ֣רֶץ הִשְׁלַכְתִּ֗יךָ לִפְנֵ֧י מְלָכִ֛ים נְתַתִּ֖יךָ לְרַ֥אֲוָה בָֽךְ׃"
+pericope: "[[Ezek.28.11 A Lament for the King of Tyre|A Lament for the King of Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 28
+book/chapter: "[[Ezek.28|Ezekiel 28]]"
+chronological_order: 819
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BEAUTY|BEAUTY]]"
+- "[[topic LAMENTATIONS|LAMENTATIONS]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H1361]]"
+- "[[H3820A]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H3308]]"
+- "[[H7843]]"
+- "[[H2451]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3314]]"
+- "[[H0776H]]"
+- "[[H7993]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H4428G]]"
+- "[[H5414L]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 28:17**<big><big>[[Ezek.28.11 A Lament for the King of Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thine heart was lifted up because of thy beauty, thou hast corrupted thy wisdom by reason of thy brightness: I will cast thee to the ground, I will lay thee before kings, that they may behold thee.
 <small><sub>**BSB:**</sub></small>
 Your heart grew proud of your beauty; you corrupted your wisdom because of your splendor; so I cast you to the earth; I made you a spectacle before kings.
+<small><sub>**Hebrew:**</sub></small>
+[[H1361\|גָּבַ֤הּ]] [[H3820A\|לִבְּ]][[H9021\|ךָ֙]] [[H9003\|בְּ]][[H3308\|יָפְיֶ֔]][[H9021\|ךָ]] [[H7843\|שִׁחַ֥תָּ]] [[H2451\|חָכְמָתְ]][[H9021\|ךָ֖]] [[H5921A\|עַל]][[H9014\|־]] [[H3314\|יִפְעָתֶ֑]][[H9021\|ךָ]] [[H5921A\|עַל]][[H9014\|־]] [[H0776H\|אֶ֣רֶץ]] [[H7993\|הִשְׁלַכְתִּ֗י]][[H9031\|ךָ]] [[H9005\|לִ]][[H6440G\|פְנֵ֧י]] [[H4428G\|מְלָכִ֛ים]] [[H5414L\|נְתַתִּ֖י]][[H9031\|ךָ]] [[H9005\|לְ]][[H7200G\|רַ֥אֲוָה]] [[H9003\|בָֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEAUTY|BEAUTY]] • [[topic LAMENTATIONS|LAMENTATIONS]] • [[topic PRIDE|PRIDE]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.16|<< Ezekiel 28:16]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.18|Ezekiel 28:18 >>]]</td></tr></table>
 

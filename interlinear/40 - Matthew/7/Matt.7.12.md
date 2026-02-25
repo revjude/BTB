@@ -1,10 +1,67 @@
+---
+title: Matthew 7:12
+type: Verse
+kjv: "Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets."
+bsb: "In everything, then, do to others as you would have them do to you. For this is the essence of the Law and the Prophets."
+jesus_said: "Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets."
+greek: "Πάντα οὖν ὅσα ἐὰν θέλητε ἵνα ποιῶσιν ὑμῖν οἱ ἄνθρωποι, οὕτως καὶ ὑμεῖς ποιεῖτε αὐτοῖς· οὗτος γάρ ἐστιν ὁ νόμος καὶ οἱ προφῆται.¶"
+pericope: "[[Matt.7.7 Ask, Seek, Knock|Ask, Seek, Knock]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 7
+book/chapter: "[[Matt.7|Matthew 7]]"
+chronological_order: 945
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DUTY|DUTY]]"
+- "[[topic GOLDEN RULE|GOLDEN RULE]]"
+- "[[topic HONESTY|HONESTY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[G3956]]"
+- "[[G3767]]"
+- "[[G3745]]"
+- "[[G1437]]"
+- "[[G2309]]"
+- "[[G2443]]"
+- "[[G4160G]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G3551]]"
+- "[[G4396]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 7:12**<big><big>[[Matt.7.7 Ask, Seek, Knock|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.
 <small><sub>**BSB:**</sub></small>
 In everything, then, do to others as you would have them do to you. For this is the essence of the Law and the Prophets.
-<small><sub>**Literal:**</sub></small>
-All things therefore as much as maybe you shall desire that they shall enact for you the men, so also you yourselves do enact for them; This for is the law and the prophets.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.11|<< Matthew 7:11]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.13|Matthew 7:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|Πάντα]]  [[G3767\|οὖν]]  [[G3745\|ὅσα]]  [[G1437\|ἐὰν]]  [[G2309\|θέλητε]]  [[G2443\|ἵνα]]  [[G4160G\|ποιῶσιν]]  [[G4771\|ὑμῖν]]  [[G3588\|οἱ]]  [[G0444\|ἄνθρωποι,]]  [[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G4160G\|ποιεῖτε]]  [[G0846\|αὐτοῖς·]]  [[G3778\|οὗτος]]  [[G1063\|γάρ]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G3551\|νόμος]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4396\|προφῆται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DUTY|DUTY]] • [[topic GOLDEN RULE|GOLDEN RULE]] • [[topic HONESTY|HONESTY]] • [[topic LOVE|LOVE]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic RELIGION|RELIGION]] • [[topic SEEKERS|SEEKERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.11|<< Matthew 7:11]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.13|Matthew 7:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

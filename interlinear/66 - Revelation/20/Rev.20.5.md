@@ -1,10 +1,60 @@
+---
+title: Revelation 20:5
+type: Verse
+kjv: "But the rest of the dead lived not again until the thousand years were finished. This is the first resurrection."
+bsb: "The rest of the dead did not come back to life until the thousand years were complete. This is the first resurrection."
+greek: "δὲ οἱ λοιποὶ τῶν νεκρῶν οὐκ ἔζησαν ἄχρι τελεσθῇ τὰ χίλια ἔτη.¶ Αὕτη ἡ ἀνάστασις ἡ πρώτη."
+pericope: "[[Rev.20.1 Satan Bound|Satan Bound]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 20
+book/chapter: "[[Rev.20|Revelation 20]]"
+chronological_order: 1187
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3062]]"
+- "[[G3498]]"
+- "[[G3756]]"
+- "[[G2198]]"
+- "[[G0891]]"
+- "[[G5055]]"
+- "[[G5507]]"
+- "[[G2094]]"
+- "[[G3778]]"
+- "[[G0386]]"
+- "[[G4413G]]"
+texts:
+- k(o)
+- NKO
+- N(K)O
+---
+
 **Revelation 20:5**<big><big>[[Rev.20.1 Satan Bound|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the rest of the dead lived not again until the thousand years were finished. This [is] the first resurrection.
 <small><sub>**BSB:**</sub></small>
 The rest of the dead did not come back to life until the thousand years were complete. This is the first resurrection.
-<small><sub>**Literal:**</sub></small>
-now The rest of the dead not lived until may have been completed the thousand years. This [is] the resurrection <the> first.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.4|<< Revelation 20:4]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.6|Revelation 20:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G3062\|λοιποὶ]]  [[G3588\|τῶν]]  [[G3498\|νεκρῶν]]  [[G3756\|οὐκ]]  [[G2198\|ἔζησαν]]  [[G0891\|ἄχρι]]  [[G5055\|τελεσθῇ]]  [[G3588\|τὰ]]  [[G5507\|χίλια]]  [[G2094\|ἔτη.¶]]  [[G3778\|Αὕτη]]  [[G3588\|ἡ]]  [[G0386\|ἀνάστασις]]  [[G3588\|ἡ]]  [[G4413G\|πρώτη.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic RESURRECTION|RESURRECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.4|<< Revelation 20:4]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.6|Revelation 20:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

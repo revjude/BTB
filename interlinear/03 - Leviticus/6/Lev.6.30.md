@@ -1,8 +1,68 @@
+---
+title: Leviticus 6:30
+type: Verse
+kjv: "And no sin offering, whereof any of the blood is brought into the tabernacle of the congregation to reconcile withal in the holy place, shall be eaten: it shall be burnt in the fire."
+bsb: "But no sin offering may be eaten if its blood has been brought into the Tent of Meeting to make atonement in the Holy Place; it must be burned."
+hebrew: "וְכָל־ חַטָּ֡את אֲשֶׁר֩ יוּבָ֨א מִדָּמָ֜הּ אֶל־ אֹ֧הֶל מוֹעֵ֛ד לְכַפֵּ֥ר בַּקֹּ֖דֶשׁ לֹ֣א תֵאָכֵ֑ל בָּאֵ֖שׁ תִּשָּׂרֵֽף׃ פ"
+pericope: "[[Lev.6.24 The Sin Offering|The Sin Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 6
+book/chapter: "[[Lev.6|Leviticus 6]]"
+chronological_order: 138
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2403H]]"
+- "[[H0834A]]"
+- "[[H0935P]]"
+- "[[H9006]]"
+- "[[H1818]]"
+- "[[H9024]]"
+- "[[H0413]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9005]]"
+- "[[H3722A]]"
+- "[[H9003]]"
+- "[[H6944J]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H0784]]"
+- "[[H8313]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Leviticus 6:30**<big><big>[[Lev.6.24 The Sin Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And no sin offering, whereof [any] of the blood is brought into the tabernacle of the congregation to reconcile [withal] in the holy [place], shall be eaten: it shall be burnt in the fire.
 <small><sub>**BSB:**</sub></small>
 But no sin offering may be eaten if its blood has been brought into the Tent of Meeting to make atonement in the Holy Place; it must be burned.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H2403H\|חַטָּ֡את]] [[H0834A\|אֲשֶׁר֩]] [[H0935P\|יוּבָ֨א]] [[H9006\|מִ]][[H1818\|דָּמָ֜]][[H9024\|הּ]] [[H0413\|אֶל]][[H9014\|־]] [[H0168G\|אֹ֧הֶל]] [[H4150I\|מוֹעֵ֛ד]] [[H9005\|לְ]][[H3722A\|כַפֵּ֥ר]] [[H9003\|בַּ]][[H6944J\|קֹּ֖דֶשׁ]] [[H3808\|לֹ֣א]] [[H0398\|תֵאָכֵ֑ל]] [[H9003\|בָּ]][[H0784\|אֵ֖שׁ]] [[H8313\|תִּשָּׂרֵֽף]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.29|<< Leviticus 6:29]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.1|Leviticus 7:1 >>]]</td></tr></table>
 
@@ -21,7 +81,7 @@ But no sin offering may be eaten if its blood has been brought into the Tent of 
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be eaten  |**<big>&#8207;[[H0398\|תֵאָכֵ֑ל]]&#8207; </big>**| te.'a.Khel<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with \<the> fire  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0784\|אֵ֖שׁ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be burned  |**<big>&#8207;[[H8313\|תִּשָּׂרֵֽף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ti.sa.Ref<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be burned  |**<big>&#8207;[[H8313\|תִּשָּׂרֵֽף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ti.sa.Ref<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.29|<< Leviticus 6:29]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.1|Leviticus 7:1 >>]]</td></tr></table>
 
 

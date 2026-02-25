@@ -1,10 +1,65 @@
+---
+title: Acts 12:3
+type: Verse
+kjv: "And because he saw it pleased the Jews, he proceeded further to take Peter also. (Then were the days of unleavened bread.)"
+bsb: "And seeing that this pleased the Jews, Herod proceeded to seize Peter during the Feast of Unleavened Bread."
+greek: "Καὶ ἰδὼν δὲ ὅτι ἀρεστόν ἐστιν τοῖς Ἰουδαίοις, προσέθετο συλλαβεῖν καὶ Πέτρον, ἦσαν δὲ αἱ ἡμέραι τῶν ἀζύμων,"
+pericope: "[[Acts.12.1 James Killed, Peter Imprisoned|James Killed, Peter Imprisoned]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 12
+book/chapter: "[[Acts.12|Acts 12]]"
+chronological_order: 1030
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DEMAGOGISM|DEMAGOGISM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic KING|KING]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G1161]]"
+- "[[G3754G]]"
+- "[[G0701]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2453]]"
+- "[[G4369]]"
+- "[[G4815]]"
+- "[[G4074G]]"
+- "[[G2250]]"
+- "[[G0106]]"
+texts:
+- k
+- NKO
+- no
+---
+
 **Acts 12:3**<big><big>[[Acts.12.1 James Killed, Peter Imprisoned|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And because he saw it pleased the Jews, he proceeded further to take Peter also. (Then were the days of unleavened bread.)
 <small><sub>**BSB:**</sub></small>
 And seeing that this pleased the Jews, Herod proceeded to seize Peter during the Feast of Unleavened Bread.
-<small><sub>**Literal:**</sub></small>
-and Having seen now that pleasing it is to the Jews, he proceeded to take also Peter — these were now the days of the Unleavened [Bread] —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.2|<< Acts 12:2]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.4|Acts 12:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1492H\|ἰδὼν]]  [[G1161\|δὲ]]  [[G3754G\|ὅτι]]  [[G0701\|ἀρεστόν]]  [[G1510\|ἐστιν]]  [[G3588\|τοῖς]]  [[G2453\|Ἰουδαίοις,]]  [[G4369\|προσέθετο]]  [[G4815\|συλλαβεῖν]]  [[G2532\|καὶ]]  [[G4074G\|Πέτρον,]]  [[G1510\|ἦσαν]]  [[G1161\|δὲ]]  [[G3588\|αἱ]]  [[G2250\|ἡμέραι]]  [[G3588\|τῶν]]  [[G0106\|ἀζύμων,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMAGOGISM|DEMAGOGISM]] • [[topic GOD|GOD]] • [[topic HEROD|HEROD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic KING|KING]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic PASSOVER|PASSOVER]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRISONERS|PRISONERS]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.2|<< Acts 12:2]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.4|Acts 12:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

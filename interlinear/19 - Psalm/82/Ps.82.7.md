@@ -1,8 +1,54 @@
+---
+title: Psalm 82:7
+type: Verse
+kjv: "But ye shall die like men, and fall like one of the princes."
+bsb: "But like mortals you will die, and like rulers you will fall.”"
+hebrew: "אָ֭כֵן כְּאָדָ֣ם תְּמוּת֑וּן וּכְאַחַ֖ד הַשָּׂרִ֣ים תִּפֹּֽלוּ׃"
+pericope: "[[Ps.82.1 God Presides in the Divine Assembly|God Presides in the Divine Assembly]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 82
+book/chapter: "[[Ps.82|Psalm 82]]"
+chronological_order: 512
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DEATH|DEATH]]"
+strongs:
+- "[[H0403]]"
+- "[[H9004]]"
+- "[[H0120G]]"
+- "[[H4191]]"
+- "[[H9013]]"
+- "[[H9002]]"
+- "[[H0259]]"
+- "[[H9009]]"
+- "[[H8269]]"
+- "[[H5307G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 82:7**<big><big>[[Ps.82.1 God Presides in the Divine Assembly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But ye shall die like men, and fall like one of the princes.
 <small><sub>**BSB:**</sub></small>
 But like mortals you will die, and like rulers you will fall.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0403\|אָ֭כֵן]] [[H9004\|כְּ]][[H0120G\|אָדָ֣ם]] [[H4191\|תְּמוּת֑וּ]][[H9013\|ן]] [[H9002\|וּ]][[H9004\|כְ]][[H0259\|אַחַ֖ד]] [[H9009\|הַ]][[H8269\|שָּׂרִ֣ים]] [[H5307G\|תִּפֹּֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.82.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.82.6|<< Psalms 82:6]]</td><td align="center" style="border:none;">[[Ps.82|Psalms 82]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.82.8|Psalms 82:8 >>]]</td></tr></table>
 

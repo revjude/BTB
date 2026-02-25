@@ -1,10 +1,59 @@
+---
+title: Revelation 6:7
+type: Verse
+kjv: "And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see."
+bsb: "And when the Lamb opened the fourth seal, I heard the voice of the fourth living creature say, “Come!”"
+greek: "Καὶ ὅτε ἤνοιξεν τὴν σφραγῖδα τὴν τετάρτην, ἤκουσα φωνὴν τοῦ τετάρτου ζῴου λέγοντος· ἔρχου καὶ βλέπε."
+pericope: "[[Rev.6.7 The Fourth Seal：Death|The Fourth Seal：Death]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 6
+book/chapter: "[[Rev.6|Revelation 6]]"
+chronological_order: 1173
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3753]]"
+- "[[G0455]]"
+- "[[G3588]]"
+- "[[G4973]]"
+- "[[G5067]]"
+- "[[G0191]]"
+- "[[G5456G]]"
+- "[[G2226]]"
+- "[[G3004G]]"
+- "[[G2064]]"
+- "[[G0991]]"
+texts:
+- NKO
+- N(k)O
+- K
+- K(o)
+---
+
 **Revelation 6:7**<big><big>[[Rev.6.7 The Fourth Seal：Death|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see.
 <small><sub>**BSB:**</sub></small>
 And when the Lamb opened the fourth seal, I heard the voice of the fourth living creature say, “Come!”
-<small><sub>**Literal:**</sub></small>
-And when He opened the seal <the> fourth, I heard [the] voice of the fourth living creature saying; Come and do heed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.6|<< Revelation 6:6]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.8|Revelation 6:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3753\|ὅτε]]  [[G0455\|ἤνοιξεν]]  [[G3588\|τὴν]]  [[G4973\|σφραγῖδα]]  [[G3588\|τὴν]]  [[G5067\|τετάρτην,]]  [[G0191\|ἤκουσα]]  [[G5456G\|φωνὴν]]  [[G3588\|τοῦ]]  [[G5067\|τετάρτου]]  [[G2226\|ζῴου]]  [[G3004G\|λέγοντος·]]  [[G2064\|ἔρχου]]  [[G2532\|καὶ]]  [[G0991\|βλέπε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic FAMINE|FAMINE]] • [[topic HORSE|HORSE]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.6|<< Revelation 6:6]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.8|Revelation 6:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,53 @@
+---
+title: Proverbs 27:21
+type: Verse
+kjv: "As the fining pot for silver, and the furnace for gold; so is a man to his praise."
+bsb: "A crucible for silver and a furnace for gold, but a man is tested by the praise accorded him."
+hebrew: "מַצְרֵ֣ף לַ֭כֶּסֶף וְכ֣וּר לַזָּהָ֑ב וְ֝אִ֗ישׁ לְפִ֣י מַהֲלָלֽוֹ׃"
+pericope: "[[Prov.27.1 Do Not Boast about Tomorrow|Do Not Boast about Tomorrow]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 27
+book/chapter: "[[Prov.27|Proverbs 27]]"
+chronological_order: 482
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H4715]]"
+- "[[H9005]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H3564]]"
+- "[[H2091]]"
+- "[[H0376G]]"
+- "[[H6310G]]"
+- "[[H4110]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 27:21**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] the fining pot for silver, and the furnace for gold; so [is] a man to his praise.
 <small><sub>**BSB:**</sub></small>
 A crucible for silver and a furnace for gold, but a man is tested by the praise accorded him.
+<small><sub>**Hebrew:**</sub></small>
+[[H4715\|מַצְרֵ֣ף]] [[H9005\|לַ֭]][[H3701G\|כֶּסֶף]] [[H9002\|וְ]][[H3564\|כ֣וּר]] [[H9005\|לַ]][[H2091\|זָּהָ֑ב]] [[H9002\|וְ֝]][[H0376G\|אִ֗ישׁ]] [[H9005\|לְ]][[H6310G\|פִ֣י]] [[H4110\|מַהֲלָלֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FLATTERY|FLATTERY]] • [[topic GOLD|GOLD]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.20|<< Proverbs 27:20]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.22|Proverbs 27:22 >>]]</td></tr></table>
 

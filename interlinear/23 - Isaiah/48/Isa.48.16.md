@@ -1,8 +1,69 @@
+---
+title: Isaiah 48:16
+type: Verse
+kjv: "Come ye near unto me, hear ye this; I have not spoken in secret from the beginning; from the time that it was, there am I: and now the Lord GOD, and his Spirit, hath sent me."
+bsb: "Come near to Me and listen to this: From the beginning I have not spoken in secret; from the time it happened, I was there.” And now the Lord GOD has sent me, accompanied by His Spirit."
+hebrew: "קִרְב֧וּ אֵלַ֣י שִׁמְעוּ־ זֹ֗את לֹ֤א מֵרֹאשׁ֙ בַּסֵּ֣תֶר דִּבַּ֔רְתִּי מֵעֵ֥ת הֱיוֹתָ֖הּ שָׁ֣ם אָ֑נִי וְעַתָּ֗ה אֲדֹנָ֧י יְהוִ֛ה שְׁלָחַ֖נִי וְרוּחֽוֹ׃ פ"
+pericope: "[[Isa.48.12 Deliverance Promised to Israel|Deliverance Promised to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 48
+book/chapter: "[[Isa.48|Isaiah 48]]"
+chronological_order: 687
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[H7126G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H8085G]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H3808]]"
+- "[[H9006]]"
+- "[[H7218J]]"
+- "[[H9003]]"
+- "[[H5643A]]"
+- "[[H1696G]]"
+- "[[H6256]]"
+- "[[H1961]]"
+- "[[H9044]]"
+- "[[H8033G]]"
+- "[[H0589]]"
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H7971G]]"
+- "[[H7307G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Isaiah 48:16**<big><big>[[Isa.48.12 Deliverance Promised to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come ye near unto me, hear ye this; I have not spoken in secret from the beginning; from the time that it was, there [am] I: and now the Lord GOD, and his Spirit, hath sent me.
 <small><sub>**BSB:**</sub></small>
 Come near to Me and listen to this: From the beginning I have not spoken in secret; from the time it happened, I was there.” And now the Lord GOD has sent me, accompanied by His Spirit.
+<small><sub>**Hebrew:**</sub></small>
+[[H7126G\|קִרְב֧וּ]] [[H0413\|אֵלַ֣]][[H9030\|י]] [[H8085G\|שִׁמְעוּ]][[H9014\|־]] [[H2063\|זֹ֗את]] [[H3808\|לֹ֤א]] [[H9006\|מֵ]][[H7218J\|רֹאשׁ֙]] [[H9003\|בַּ]][[H5643A\|סֵּ֣תֶר]] [[H1696G\|דִּבַּ֔רְתִּי]] [[H9006\|מֵ]][[H6256\|עֵ֥ת]] [[H1961\|הֱיוֹתָ֖]][[H9044\|הּ]] [[H8033G\|שָׁ֣ם]] [[H0589\|אָ֑נִי]] [[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H0136\|אֲדֹנָ֧י]] [[H3069\|יְהוִ֛ה]] [[H7971G\|שְׁלָחַ֖]][[H9030\|נִי]] [[H9002\|וְ]][[H7307G\|רוּחֽ]][[H9023\|וֹ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TRINITY|TRINITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.15|<< Isaiah 48:15]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.17|Isaiah 48:17 >>]]</td></tr></table>
 
@@ -24,7 +85,7 @@ Come near to Me and listen to this: From the beginning I have not spoken in secr
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֧י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3069\|יְהוִ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has sent me  |**<big>&#8207;[[H7971G\|שְׁלָחַ֖]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| she.la.Cha.<small><sup>[[HVqp3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and spirit his  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7307G\|רוּחֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ru.Ch<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and spirit his  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7307G\|רוּחֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ru.Ch<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.15|<< Isaiah 48:15]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.17|Isaiah 48:17 >>]]</td></tr></table>
 
 

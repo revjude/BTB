@@ -1,10 +1,57 @@
+---
+title: Matthew 6:22
+type: Verse
+kjv: "The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light."
+bsb: "The eye is the lamp of the body. If your eyes are good, your whole body will be full of light."
+jesus_said: "The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light."
+greek: "Ὁ λύχνος τοῦ σώματός ἐστιν ὁ ὀφθαλμός. ἐὰν οὖν ᾖ ὁ ὀφθαλμός σου ἁπλοῦς, ὅλον τὸ σῶμά σου φωτεινὸν ἔσται·"
+pericope: "[[Matt.6.22 The Lamp of the Body|The Lamp of the Body]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 6
+book/chapter: "[[Matt.6|Matthew 6]]"
+chronological_order: 944
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic LAMP|LAMP]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3588]]"
+- "[[G3088]]"
+- "[[G4983]]"
+- "[[G1510]]"
+- "[[G3788]]"
+- "[[G1437]]"
+- "[[G3767]]"
+- "[[G4771]]"
+- "[[G0573]]"
+- "[[G3650]]"
+- "[[G5460]]"
+texts:
+- NKO
+---
+
 **Matthew 6:22**<big><big>[[Matt.6.22 The Lamp of the Body|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light.
 <small><sub>**BSB:**</sub></small>
 The eye is the lamp of the body. If your eyes are good, your whole body will be full of light.
-<small><sub>**Literal:**</sub></small>
-The lamp of the body is the eye. If therefore shall be the eye of you clear [the] whole <the> body of you full of light will be;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.21|<< Matthew 6:21]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.23|Matthew 6:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G3088\|λύχνος]]  [[G3588\|τοῦ]]  [[G4983\|σώματός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G3788\|ὀφθαλμός.]]  [[G1437\|ἐὰν]]  [[G3767\|οὖν]]  [[G1510\|ᾖ]]  [[G3588\|ὁ]]  [[G3788\|ὀφθαλμός]]  [[G4771\|σου]]  [[G0573\|ἁπλοῦς,]]  [[G3650\|ὅλον]]  [[G3588\|τὸ]]  [[G4983\|σῶμά]]  [[G4771\|σου]]  [[G5460\|φωτεινὸν]]  [[G1510\|ἔσται·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic DARKNESS|DARKNESS]] • [[topic LAMP|LAMP]] • [[topic RELIGION|RELIGION]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.21|<< Matthew 6:21]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.23|Matthew 6:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

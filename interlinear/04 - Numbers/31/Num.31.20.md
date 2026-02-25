@@ -1,8 +1,62 @@
+---
+title: Numbers 31:20
+type: Verse
+kjv: "And purify all your raiment, and all that is made of skins, and all work of goats’ hair, and all things made of wood."
+bsb: "And purify every garment and leather good, everything made of goat’s hair, and every article of wood.”"
+hebrew: "וְכָל־ בֶּ֧גֶד וְכָל־ כְּלִי־ ע֛וֹר וְכָל־ מַעֲשֵׂ֥ה עִזִּ֖ים וְכָל־ כְּלִי־ עֵ֑ץ תִּתְחַטָּֽאוּ׃ ס"
+pericope: "[[Num.31.1 Vengeance on Midian|Vengeance on Midian]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 31
+book/chapter: "[[Num.31|Numbers 31]]"
+chronological_order: 191
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic DRESS|DRESS]]"
+- "[[topic GOAT|GOAT]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0899B]]"
+- "[[H3627]]"
+- "[[H5785]]"
+- "[[H4639G]]"
+- "[[H5795]]"
+- "[[H6086G]]"
+- "[[H2398]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Numbers 31:20**<big><big>[[Num.31.1 Vengeance on Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And purify all [your] raiment, and all that is made of skins, and all work of goats’ [hair], and all things made of wood.
 <small><sub>**BSB:**</sub></small>
 And purify every garment and leather good, everything made of goat’s hair, and every article of wood.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0899B\|בֶּ֧גֶד]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3627\|כְּלִי]][[H9014\|־]] [[H5785\|ע֛וֹר]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H4639G\|מַעֲשֵׂ֥ה]] [[H5795\|עִזִּ֖ים]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3627\|כְּלִי]][[H9014\|־]] [[H6086G\|עֵ֑ץ]] [[H2398\|תִּתְחַטָּֽאוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CAPTIVE|CAPTIVE]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic DRESS|DRESS]] • [[topic GOAT|GOAT]] • [[topic PURIFICATION|PURIFICATION]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.19|<< Numbers 31:19]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.21|Numbers 31:21 >>]]</td></tr></table>
 
@@ -19,7 +73,7 @@ And purify every garment and leather good, everything made of goat’s hair, and
 | and every  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | article of  |**<big>&#8207;[[H3627\|כְּלִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.li-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wood  |**<big>&#8207;[[H6086G\|עֵ֑ץ]]&#8207; </big>**| 'Etz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will purify yourselves  |**<big>&#8207;[[H2398\|תִּתְחַטָּֽאוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tit.cha.Ta.'u<small><sup>[[HVti2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will purify yourselves  |**<big>&#8207;[[H2398\|תִּתְחַטָּֽאוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tit.cha.Ta.'u<small><sup>[[HVti2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.19|<< Numbers 31:19]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.21|Numbers 31:21 >>]]</td></tr></table>
 
 

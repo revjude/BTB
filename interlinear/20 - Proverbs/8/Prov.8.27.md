@@ -1,8 +1,56 @@
+---
+title: Proverbs 8:27
+type: Verse
+kjv: "When he prepared the heavens, I was there: when he set a compass upon the face of the depth:"
+bsb: "I was there when He established the heavens, when He inscribed a circle on the face of the deep,"
+hebrew: "בַּהֲכִינ֣וֹ שָׁ֭מַיִם שָׁ֣ם אָ֑נִי בְּח֥וּקוֹ ח֝֗וּג עַל־ פְּנֵ֥י תְהֽוֹם׃"
+pericope: "[[Prov.8.1 The Excellence of Wisdom|The Excellence of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 8
+book/chapter: "[[Prov.8|Proverbs 8]]"
+chronological_order: 463
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9003]]"
+- "[[H3559H]]"
+- "[[H9043]]"
+- "[[H8064]]"
+- "[[H8033G]]"
+- "[[H0589]]"
+- "[[H2710]]"
+- "[[H2329]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440J]]"
+- "[[H8415]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 8:27**<big><big>[[Prov.8.1 The Excellence of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When he prepared the heavens, I [was] there: when he set a compass upon the face of the depth:
 <small><sub>**BSB:**</sub></small>
 I was there when He established the heavens, when He inscribed a circle on the face of the deep,
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3559H\|הֲכִינ֣]][[H9043\|וֹ]] [[H8064\|שָׁ֭מַיִם]] [[H8033G\|שָׁ֣ם]] [[H0589\|אָ֑נִי]] [[H9003\|בְּ]][[H2710\|ח֥וּק]][[H9043\|וֹ]] [[H2329\|ח֝֗וּג]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֥י]] [[H8415\|תְהֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.26|<< Proverbs 8:26]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.28|Proverbs 8:28 >>]]</td></tr></table>
 

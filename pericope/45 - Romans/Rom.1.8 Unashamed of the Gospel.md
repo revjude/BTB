@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Unashamed of the Gospel
+type: Pericope
 pericope: "[[Rom.1.8 Unashamed of the Gospel|Unashamed of the Gospel]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Romans
 chapter: 1
 book/chapter: "[[Rom.1|Romans 1]]"
-genre:
+chronological_order: 1087
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 10
 verses:
 - "[[Rom.1.8]]"
 - "[[Rom.1.9]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Rom.1.17]]"
 ---
 
-[[Rom.1|Romans 1:8 - Romans 1:17]]
+<small>[[Rom.1|Romans 1:8-17]]</small>
 *Unashamed of the Gospel*
 
 [[Rom.1.8|8]] First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world.

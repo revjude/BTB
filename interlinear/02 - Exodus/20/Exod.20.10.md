@@ -1,8 +1,82 @@
+---
+title: Exodus 20:10
+type: Verse
+kjv: "But the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates:"
+bsb: "but the seventh day is a Sabbath to the LORD your God, on which you must not do any work—neither you, nor your son or daughter, nor your manservant or maidservant or livestock, nor the foreigner within your gates."
+hebrew: "וְי֙וֹם֙ הַשְּׁבִיעִ֔֜י שַׁבָּ֖֣ת׀ לַיהוָ֣ה אֱלֹהֶ֑֗יךָ לֹֽ֣א־ תַעֲשֶׂ֣֨ה כָל־ מְלָאכָ֡֜ה אַתָּ֣ה׀ וּבִנְךָֽ֣־ וּ֠בִתֶּ֗ךָ עַבְדְּךָ֤֨ וַאֲמָֽתְךָ֜֙ וּבְהֶמְתֶּ֔֗ךָ וְגֵרְךָ֖֙ אֲשֶׁ֥֣ר בִּשְׁעָרֶֽ֔יךָ׃"
+pericope: "[[Exod.20.1 The Ten Commandments|The Ten Commandments]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 20
+book/chapter: "[[Exod.20|Exodus 20]]"
+chronological_order: 112
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic LABOR|LABOR]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STRANGERS|STRANGERS]]"
+- "[[topic TABLE|TABLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7637]]"
+- "[[H7676]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H3605]]"
+- "[[H4399]]"
+- "[[H0859A]]"
+- "[[H1121A]]"
+- "[[H1323G]]"
+- "[[H5650]]"
+- "[[H0519]]"
+- "[[H0929]]"
+- "[[H1616]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H9016]]"
+texts:
+- L
+- L(p)
+---
+
 **Exodus 20:10**<big><big>[[Exod.20.1 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the seventh day [is] the sabbath of the LORD thy God: [in it] thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that [is] within thy gates:
 <small><sub>**BSB:**</sub></small>
 but the seventh day is a Sabbath to the LORD your God, on which you must not do any work—neither you, nor your son or daughter, nor your manservant or maidservant or livestock, nor the foreigner within your gates.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3117G\|י֙וֹם֙]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֔֜י]] [[H7676\|שַׁבָּ֖֣ת]][[H9015\|׀]] [[H9005\|לַ]][[H3068G\|יהוָ֣ה]] [[H0430G\|אֱלֹהֶ֑֗י]][[H9021\|ךָ]] [[H3808\|לֹֽ֣א]][[H9014\|־]] [[H6213A\|תַעֲשֶׂ֣֨ה]] [[H3605\|כָל]][[H9014\|־]] [[H4399\|מְלָאכָ֡֜ה]] [[H0859A\|אַתָּ֣ה]][[H9015\|׀]] [[H9002\|וּ]][[H1121A\|בִנְ]][[H9021\|ךָֽ֣]][[H9014\|־]] [[H9002\|וּ֠]][[H1323G\|בִתֶּ֗]][[H9021\|ךָ]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֤֨]] [[H9002\|וַ]][[H0519\|אֲמָֽתְ]][[H9021\|ךָ֜֙]] [[H9002\|וּ]][[H0929\|בְהֶמְתֶּ֔֗]][[H9021\|ךָ]] [[H9002\|וְ]][[H1616\|גֵרְ]][[H9021\|ךָ֖֙]] [[H0834A\|אֲשֶׁ֥֣ר]] [[H9003\|בִּ]][[H8179G\|שְׁעָרֶֽ֔י]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECALOGUE|DECALOGUE]] • [[topic LABOR|LABOR]] • [[topic LAW|LAW]] • [[topic PARENTS|PARENTS]] • [[topic SABBATH|SABBATH]] • [[topic SANITATION|SANITATION]] • [[topic SERVANT|SERVANT]] • [[topic STRANGERS|STRANGERS]] • [[topic TABLE|TABLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.20.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.9|<< Exodus 20:9]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.11|Exodus 20:11 >>]]</td></tr></table>
 

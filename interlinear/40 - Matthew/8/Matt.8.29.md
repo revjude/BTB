@@ -1,10 +1,63 @@
+---
+title: Matthew 8:29
+type: Verse
+kjv: "And, behold, they cried out, saying, What have we to do with thee, Jesus, thou Son of God? art thou come hither to torment us before the time?"
+bsb: "“What do You want with us, Son of God?” they shouted. “Have You come here to torture us before the appointed time?”"
+greek: "καὶ ἰδοὺ ἔκραξαν λέγοντες· τί ἡμῖν καὶ σοί Ἰησοῦ, υἱὲ τοῦ θεοῦ; ἦλθες ὧδε πρὸ καιροῦ βασανίσαι ἡμᾶς;"
+pericope: "[[Matt.8.28 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 8
+book/chapter: "[[Matt.8|Matthew 8]]"
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic GADARENES|GADARENES]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SWINE|SWINE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G2896]]"
+- "[[G3004G]]"
+- "[[G5101]]"
+- "[[G3165]]"
+- "[[G4771]]"
+- "[[G2424G]]"
+- "[[G5207]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2064]]"
+- "[[G5602]]"
+- "[[G4253]]"
+- "[[G2540]]"
+- "[[G0928G]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 8:29**<big><big>[[Matt.8.28 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, behold, they cried out, saying, What have we to do with thee, Jesus, thou Son of God? art thou come hither to torment us before the time?
 <small><sub>**BSB:**</sub></small>
 “What do You want with us, Son of God?” they shouted. “Have You come here to torture us before the appointed time?”
-<small><sub>**Literal:**</sub></small>
-And behold they cried out saying; What to us and to you Jesus Son <the> of God? Are You come here before [the] time to torment us?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.28|<< Matthew 8:28]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.30|Matthew 8:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G2896\|ἔκραξαν]]  [[G3004G\|λέγοντες·]]  [[G5101\|τί]]  [[G3165\|ἡμῖν]]  [[G2532\|καὶ]]  [[G4771\|σοί]]  [[G2424G\|Ἰησοῦ,]]  [[G5207\|υἱὲ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ;]]  [[G2064\|ἦλθες]]  [[G5602\|ὧδε]]  [[G4253\|πρὸ]]  [[G2540\|καιροῦ]]  [[G0928G\|βασανίσαι]]  [[G3165\|ἡμᾶς;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic GADARENES|GADARENES]] • [[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic MIRACLES|MIRACLES]] • [[topic SWINE|SWINE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.28|<< Matthew 8:28]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.30|Matthew 8:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Descendants of Esau
+type: Pericope
 pericope: "[[Gen.36.1 The Descendants of Esau|The Descendants of Esau]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 36
 book/chapter: "[[Gen.36|Genesis 36]]"
-genre:
+chronological_order: 78
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 19
 verses:
 - "[[Gen.36.1]]"
 - "[[Gen.36.2]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Gen.36.19]]"
 ---
 
-[[Gen.36|Genesis 36:1 - Genesis 36:19]]
+<small>[[Gen.36|Genesis 36:1-19]]</small>
 *The Descendants of Esau*
 
 [[Gen.36.1|1]] Now these \[are\] the generations of Esau, who \[is\] Edom.

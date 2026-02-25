@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jacob Mourns Joseph
+type: Pericope
 pericope: "[[Gen.37.31 Jacob Mourns Joseph|Jacob Mourns Joseph]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 37
 book/chapter: "[[Gen.37|Genesis 37]]"
-genre:
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 6
 verses:
 - "[[Gen.37.31]]"
 - "[[Gen.37.32]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Gen.37.36]]"
 ---
 
-[[Gen.37|Genesis 37:31 - Genesis 37:36]]
+<small>[[Gen.37|Genesis 37:31-36]]</small>
 *Jacob Mourns Joseph*
 
 [[Gen.37.31|31]] And they took Joseph’s coat, and killed a kid of the goats, and dipped the coat in the blood;

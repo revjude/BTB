@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Heals the Official’s Son
+type: Pericope
 pericope: "[[John.4.43 Jesus Heals the Official’s Son|Jesus Heals the Official’s Son]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: John
 chapter: 4
 book/chapter: "[[John.4|John 4]]"
-genre:
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 12
 verses:
 - "[[John.4.43]]"
 - "[[John.4.44]]"
@@ -30,7 +37,7 @@ verses:
 - "[[John.4.54]]"
 ---
 
-[[John.4|John 4:43 - John 4:54]]
+<small>[[John.4|John 4:43-54]]</small>
 *Jesus Heals the Official’s Son*
 
 [[John.4.43|43]] Now after two days he departed thence, and went into Galilee.

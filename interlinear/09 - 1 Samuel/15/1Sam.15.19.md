@@ -1,8 +1,70 @@
+---
+title: 1 Samuel 15:19
+type: Verse
+kjv: "Wherefore then didst thou not obey the voice of the LORD, but didst fly upon the spoil, and didst evil in the sight of the LORD?"
+bsb: "So why did you not obey the LORD? Why did you rush upon the plunder and do evil in the sight of the LORD?”"
+hebrew: "וְלָ֥מָּה לֹא־ שָׁמַ֖עְתָּ בְּק֣וֹל יְהוָ֑ה וַתַּ֙עַט֙ אֶל־ הַשָּׁלָ֔ל וַתַּ֥עַשׂ הָרַ֖ע בְּעֵינֵ֥י יְהוָֽה׃ ס"
+pericope: "[[1Sam.15.10 Samuel Denounces Saul|Samuel Denounces Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 15
+book/chapter: "[[1Sam.15|1 Samuel 15]]"
+chronological_order: 294
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic SELF-WILL|SELF-WILL]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H5860B]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H7998]]"
+- "[[H6213A]]"
+- "[[H7451H]]"
+- "[[H5869H]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Samuel 15:19**<big><big>[[1Sam.15.10 Samuel Denounces Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore then didst thou not obey the voice of the LORD, but didst fly upon the spoil, and didst evil in the sight of the LORD?
 <small><sub>**BSB:**</sub></small>
 So why did you not obey the LORD? Why did you rush upon the plunder and do evil in the sight of the LORD?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לָ֥]][[H4100\|מָּה]] [[H3808\|לֹא]][[H9014\|־]] [[H8085H\|שָׁמַ֖עְתָּ]] [[H9003\|בְּ]][[H6963A\|ק֣וֹל]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H5860B\|תַּ֙עַט֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H7998\|שָּׁלָ֔ל]] [[H9001\|וַ]][[H6213A\|תַּ֥עַשׂ]] [[H9009\|הָ]][[H7451H\|רַ֖ע]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGENCY|AGENCY]] • [[topic AMALEKITES|AMALEKITES]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GILGAL|GILGAL]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic REPROOF|REPROOF]] • [[topic RULERS|RULERS]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic SELF-WILL|SELF-WILL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.18|<< 1 Samuel 15:18]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.20|1 Samuel 15:20 >>]]</td></tr></table>
 
@@ -19,7 +81,7 @@ So why did you not obey the LORD? Why did you rush upon the plunder and do evil 
 | and did you do?  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|תַּ֥עַשׂ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.'as<small><sup>[[HVqw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the evil  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7451H\|רַ֖ע]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] eyes of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5869H\|עֵינֵ֥י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.18|<< 1 Samuel 15:18]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.20|1 Samuel 15:20 >>]]</td></tr></table>
 
 

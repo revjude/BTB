@@ -1,8 +1,51 @@
+---
+title: Isaiah 10:21
+type: Verse
+kjv: "The remnant shall return, even the remnant of Jacob, unto the mighty God."
+bsb: "A remnant will return—a remnant of Jacob—to the Mighty God."
+hebrew: "שְׁאָ֥ר יָשׁ֖וּב שְׁאָ֣ר יַעֲקֹ֑ב אֶל־ אֵ֖ל גִּבּֽוֹר׃"
+pericope: "[[Isa.10.20 A Remnant Shall Return|A Remnant Shall Return]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 10
+book/chapter: "[[Isa.10|Isaiah 10]]"
+chronological_order: 620
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H7605]]"
+- "[[H7725G]]"
+- "[[H3290]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0410G]]"
+- "[[H1368]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 10:21**<big><big>[[Isa.10.20 A Remnant Shall Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The remnant shall return, [even] the remnant of Jacob, unto the mighty God.
 <small><sub>**BSB:**</sub></small>
 A remnant will return—a remnant of Jacob—to the Mighty God.
+<small><sub>**Hebrew:**</sub></small>
+[[H7605\|שְׁאָ֥ר]] [[H7725G\|יָשׁ֖וּב]] [[H7605\|שְׁאָ֣ר]] [[H3290\|יַעֲקֹ֑ב]] [[H0413\|אֶל]][[H9014\|־]] [[H0410G\|אֵ֖ל]] [[H1368\|גִּבּֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic ISAIAH|ISAIAH]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.20|<< Isaiah 10:20]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.22|Isaiah 10:22 >>]]</td></tr></table>
 

@@ -1,8 +1,52 @@
+---
+title: Psalm 18:25
+type: Verse
+kjv: "With the merciful thou wilt shew thyself merciful; with an upright man thou wilt shew thyself upright;"
+bsb: "To the faithful You show Yourself faithful, to the blameless You show Yourself blameless;"
+hebrew: "עִם־ חָסִ֥יד תִּתְחַסָּ֑ד עִם־ גְּבַ֥ר תָּ֝מִ֗ים תִּתַּמָּֽם׃"
+pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MERCY|MERCY]]"
+strongs:
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H2623]]"
+- "[[H2616A]]"
+- "[[H1399]]"
+- "[[H8549H]]"
+- "[[H8552]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 18:25**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With the merciful thou wilt shew thyself merciful; with an upright man thou wilt shew thyself upright;
 <small><sub>**BSB:**</sub></small>
 To the faithful You show Yourself faithful, to the blameless You show Yourself blameless;
+<small><sub>**Hebrew:**</sub></small>
+[[H5973A\|עִם]][[H9014\|־]] [[H2623\|חָסִ֥יד]] [[H2616A\|תִּתְחַסָּ֑ד]] [[H5973A\|עִם]][[H9014\|־]] [[H1399\|גְּבַ֥ר]] [[H8549H\|תָּ֝מִ֗ים]] [[H8552\|תִּתַּמָּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MERCY|MERCY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.24|<< Psalms 18:24]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.26|Psalms 18:26 >>]]</td></tr></table>
 

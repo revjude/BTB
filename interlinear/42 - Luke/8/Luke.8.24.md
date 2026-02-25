@@ -1,10 +1,64 @@
+---
+title: Luke 8:24
+type: Verse
+kjv: "And they came to him, and awoke him, saying, Master, master, we perish. Then he arose, and rebuked the wind and the raging of the water: and they ceased, and there was a calm."
+bsb: "The disciples went and woke Him, saying, “Master, Master, we are perishing!” Then Jesus got up and rebuked the wind and the raging waters, and they subsided, and all was calm."
+greek: "προσελθόντες δὲ διήγειραν αὐτὸν λέγοντες· ἐπιστάτα ἐπιστάτα, ἀπολλύμεθα. ὁ δὲ διεγερθεὶς ἐπετίμησεν τῷ ἀνέμῳ καὶ τῷ κλύδωνι τοῦ ὕδατος. καὶ ἐπαύσαντο, καὶ ἐγένετο γαλήνη.¶"
+pericope: "[[Luke.8.22 Jesus Calms the Storm|Jesus Calms the Storm]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[G4334]]"
+- "[[G1161]]"
+- "[[G1326]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G1988]]"
+- "[[G0622]]"
+- "[[G3588]]"
+- "[[G2008]]"
+- "[[G0417]]"
+- "[[G2532]]"
+- "[[G2830]]"
+- "[[G5204]]"
+- "[[G3973]]"
+- "[[G1096]]"
+- "[[G1055]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 8:24**<big><big>[[Luke.8.22 Jesus Calms the Storm|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they came to him, and awoke him, saying, Master, master, we perish. Then he arose, and rebuked the wind and the raging of the water: and they ceased, and there was a calm.
 <small><sub>**BSB:**</sub></small>
 The disciples went and woke Him, saying, “Master, Master, we are perishing!” Then Jesus got up and rebuked the wind and the raging waters, and they subsided, and all was calm.
-<small><sub>**Literal:**</sub></small>
-Having come to [Him] then they awoke Him saying; Master Master, we are perishing! <the> And having arisen up He rebuked the wind and the raging of the water. and they ceased, and there was a calm.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.23|<< Luke 8:23]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.25|Luke 8:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4334\|προσελθόντες]]  [[G1161\|δὲ]]  [[G1326\|διήγειραν]]  [[G0846\|αὐτὸν]]  [[G3004G\|λέγοντες·]]  [[G1988\|ἐπιστάτα]]  [[G1988\|ἐπιστάτα,]]  [[G0622\|ἀπολλύμεθα.]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G1326\|διεγερθεὶς]]  [[G2008\|ἐπετίμησεν]]  [[G3588\|τῷ]]  [[G0417\|ἀνέμῳ]]  [[G2532\|καὶ]]  [[G3588\|τῷ]]  [[G2830\|κλύδωνι]]  [[G3588\|τοῦ]]  [[G5204\|ὕδατος.]]  [[G2532\|καὶ]]  [[G3973\|ἐπαύσαντο,]]  [[G2532\|καὶ]]  [[G1096\|ἐγένετο]]  [[G1055\|γαλήνη.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MASTER|MASTER]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic MIRACLES|MIRACLES]] • [[topic TROUBLE|TROUBLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.23|<< Luke 8:23]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.25|Luke 8:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

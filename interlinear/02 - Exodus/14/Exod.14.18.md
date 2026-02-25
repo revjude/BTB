@@ -1,8 +1,67 @@
+---
+title: Exodus 14:18
+type: Verse
+kjv: "And the Egyptians shall know that I am the LORD, when I have gotten me honour upon Pharaoh, upon his chariots, and upon his horsemen."
+bsb: "The Egyptians will know that I am the LORD when I am honored through Pharaoh, his chariots, and his horsemen.”"
+hebrew: "וְיָדְע֥וּ מִצְרַ֖יִם כִּי־ אֲנִ֣י יְהוָ֑ה בְּהִכָּבְדִ֣י בְּפַרְעֹ֔ה בְּרִכְבּ֖וֹ וּבְפָרָשָֽׁיו׃"
+pericope: "[[Exod.14.15 Parting the Red Sea|Parting the Red Sea]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 14
+book/chapter: "[[Exod.14|Exodus 14]]"
+chronological_order: 106
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H4713]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3513G]]"
+- "[[H9040]]"
+- "[[H6547J]]"
+- "[[H7393G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H6571B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 14:18**<big><big>[[Exod.14.15 Parting the Red Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Egyptians shall know that I [am] the LORD, when I have gotten me honour upon Pharaoh, upon his chariots, and upon his horsemen.
 <small><sub>**BSB:**</sub></small>
 The Egyptians will know that I am the LORD when I am honored through Pharaoh, his chariots, and his horsemen.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3045\|יָדְע֥וּ]] [[H4713\|מִצְרַ֖יִם]] [[H3588A\|כִּי]][[H9014\|־]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9003\|בְּ]][[H3513G\|הִכָּבְדִ֣]][[H9040\|י]] [[H9003\|בְּ]][[H6547J\|פַרְעֹ֔ה]] [[H9003\|בְּ]][[H7393G\|רִכְבּ֖]][[H9023\|וֹ]] [[H9002\|וּ]][[H9003\|בְ]][[H6571B\|פָרָשָֽׁי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPT|EGYPT]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.14.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.17|<< Exodus 14:17]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.19|Exodus 14:19 >>]]</td></tr></table>
 

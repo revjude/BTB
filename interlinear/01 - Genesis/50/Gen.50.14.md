@@ -1,8 +1,65 @@
+---
+title: Genesis 50:14
+type: Verse
+kjv: "And Joseph returned into Egypt, he, and his brethren, and all that went up with him to bury his father, after he had buried his father."
+bsb: "After Joseph had buried his father, he returned to Egypt with his brothers and all who had gone with him to bury his father."
+hebrew: "וַיָּ֨שָׁב יוֹסֵ֤ף מִצְרַ֙יְמָה֙ ה֣וּא וְאֶחָ֔יו וְכָל־ הָעֹלִ֥ים אִתּ֖וֹ לִקְבֹּ֣ר אֶת־ אָבִ֑יו אַחֲרֵ֖י קָבְר֥וֹ אֶת־ אָבִֽיו׃"
+pericope: "[[Gen.50.1 Mourning and Burial for Jacob|Mourning and Burial for Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 50
+book/chapter: "[[Gen.50|Genesis 50]]"
+chronological_order: 92
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H3130G]]"
+- "[[H4714G]]"
+- "[[H9011]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5927G]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H6912]]"
+- "[[H0853]]"
+- "[[H0001G]]"
+- "[[H0310A]]"
+- "[[H9043]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 50:14**<big><big>[[Gen.50.1 Mourning and Burial for Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph returned into Egypt, he, and his brethren, and all that went up with him to bury his father, after he had buried his father.
 <small><sub>**BSB:**</sub></small>
 After Joseph had buried his father, he returned to Egypt with his brothers and all who had gone with him to bury his father.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּ֨שָׁב]] [[H3130G\|יוֹסֵ֤ף]] [[H4714G\|מִצְרַ֙יְמָ]][[H9011\|ה֙]] [[H1931\|ה֣וּא]] [[H9002\|וְ]][[H0251G\|אֶחָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5927G\|עֹלִ֥ים]] [[H0854\|אִתּ֖]][[H9033\|וֹ]] [[H9005\|לִ]][[H6912\|קְבֹּ֣ר]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אָבִ֑י]][[H9023\|ו]] [[H0310A\|אַחֲרֵ֖י]] [[H6912\|קָבְר֥]][[H9043\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אָבִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.50.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.13|<< Genesis 50:13]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.15|Genesis 50:15 >>]]</td></tr></table>
 

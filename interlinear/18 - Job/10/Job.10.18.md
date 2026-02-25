@@ -1,8 +1,56 @@
+---
+title: Job 10:18
+type: Verse
+kjv: "Wherefore then hast thou brought me forth out of the womb? Oh that I had given up the ghost, and no eye had seen me!"
+bsb: "Why then did You bring me from the womb? Oh, that I had died, and no eye had seen me!"
+hebrew: "וְלָ֣מָּה מֵ֭רֶחֶם הֹצֵאתָ֑נִי אֶ֝גְוַ֗ע וְעַ֣יִן לֹא־ תִרְאֵֽנִי׃"
+pericope: "[[Job.10.1 Job’s Plea to God|Job’s Plea to God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 10
+book/chapter: "[[Job.10|Job 10]]"
+chronological_order: 21
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H9006]]"
+- "[[H7358]]"
+- "[[H3318M]]"
+- "[[H9030]]"
+- "[[H1478]]"
+- "[[H5869A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 10:18**<big><big>[[Job.10.1 Job’s Plea to God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore then hast thou brought me forth out of the womb? Oh that I had given up the ghost, and no eye had seen me!
 <small><sub>**BSB:**</sub></small>
 Why then did You bring me from the womb? Oh, that I had died, and no eye had seen me!
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לָ֣]][[H4100\|מָּה]] [[H9006\|מֵ֭]][[H7358\|רֶחֶם]] [[H3318M\|הֹצֵאתָ֑]][[H9030\|נִי]] [[H1478\|אֶ֝גְוַ֗ע]] [[H9002\|וְ]][[H5869A\|עַ֣יִן]] [[H3808\|לֹא]][[H9014\|־]] [[H7200G\|תִרְאֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic LIFE|LIFE]] • [[topic PHILOSOPHY|PHILOSOPHY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.10.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.10.17|<< Job 10:17]]</td><td align="center" style="border:none;">[[Job.10|Job 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.10.19|Job 10:19 >>]]</td></tr></table>
 

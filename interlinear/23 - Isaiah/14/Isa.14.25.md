@@ -1,8 +1,65 @@
+---
+title: Isaiah 14:25
+type: Verse
+kjv: "That I will break the Assyrian in my land, and upon my mountains tread him under foot: then shall his yoke depart from off them, and his burden depart from off their shoulders."
+bsb: "I will break Assyria in My land; I will trample him on My mountain. His yoke will be taken off My people, and his burden removed from their shoulders.”"
+hebrew: "לִשְׁבֹּ֤ר אַשּׁוּר֙ בְּאַרְצִ֔י וְעַל־ הָרַ֖י אֲבוּסֶ֑נּוּ וְסָ֤ר מֵֽעֲלֵיהֶם֙ עֻלּ֔וֹ וְסֻ֨בֳּל֔וֹ מֵעַ֥ל שִׁכְמ֖וֹ יָסֽוּר׃"
+pericope: "[[Isa.14.24 God’s Purpose against Assyria|God’s Purpose against Assyria]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 14
+book/chapter: "[[Isa.14|Isaiah 14]]"
+chronological_order: 631
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic ISAIAH|ISAIAH]]"
+strongs:
+- "[[H9005]]"
+- "[[H7665]]"
+- "[[H0804G]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2022G]]"
+- "[[H0947]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H5493H]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H5923]]"
+- "[[H9023]]"
+- "[[H5448]]"
+- "[[H7926]]"
+- "[[H5493G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 14:25**<big><big>[[Isa.14.24 God’s Purpose against Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That I will break the Assyrian in my land, and upon my mountains tread him under foot: then shall his yoke depart from off them, and his burden depart from off their shoulders.
 <small><sub>**BSB:**</sub></small>
 I will break Assyria in My land; I will trample him on My mountain. His yoke will be taken off My people, and his burden removed from their shoulders.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H7665\|שְׁבֹּ֤ר]] [[H0804G\|אַשּׁוּר֙]] [[H9003\|בְּ]][[H0776G\|אַרְצִ֔]][[H9020\|י]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H2022G\|הָרַ֖]][[H9020\|י]] [[H0947\|אֲבוּסֶ֑]][[H9033\|נּוּ]] [[H9001\|וְ]][[H5493H\|סָ֤ר]] [[H9006\|מֵֽ]][[H5921A\|עֲלֵי]][[H9038\|הֶם֙]] [[H5923\|עֻלּ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H5448\|סֻ֨בֳּל֔]][[H9023\|וֹ]] [[H9006\|מֵ]][[H5921A\|עַ֥ל]] [[H7926\|שִׁכְמ֖]][[H9023\|וֹ]] [[H5493G\|יָסֽוּר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BABYLON|BABYLON]] • [[topic ISAIAH|ISAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.24|<< Isaiah 14:24]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.26|Isaiah 14:26 >>]]</td></tr></table>
 

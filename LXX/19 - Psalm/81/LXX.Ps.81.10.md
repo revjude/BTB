@@ -1,6 +1,62 @@
+---
+title: LXX Psalm 81:10
+type: Verse
+lxx: "For I am the lord  your God; the one leading you from out of the land of Egypt. Widen  your mouth! and I shall fill it."
+greek: "εγώ γαρ ειμι κύριος ο θεός σου ο αναγαγών σε εκ γης Αιγύπτου πλάτυνον το στόμα σου και πληρώσω αυτό"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 81
+book/chapter: "[[Ps.81|Psalm 81]]"
+chronological_order: 511
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[G1473]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0321]]"
+- "[[G1473]]"
+- "[[G1537]]"
+- "[[G1093]]"
+- "[[G0125]]"
+- "[[G4115]]"
+- "[[G3588]]"
+- "[[G4750]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4137]]"
+- "[[G1473]]"
+---
+
 **LXX Psalm 81:10** 
 <small><sub>**LXX:**</sub></small>
 For I am \[the\] <span class="smallcaps">lord</span>  your God; the one leading you from out of \[the\] land of Egypt. Widen  your mouth! and I shall fill it. 
+<small><sub>**Greek:**</sub></small>
+[[G1473\|εγώ]] [[G1063\|γαρ]] [[G1510\|ειμι]] [[G2962\|κύριος]] [[G3588\|ο]] [[G2316\|θεός]] [[G1473\|σου]] [[G3588\|ο]] [[G0321\|αναγαγών]] [[G1473\|σε]] [[G1537\|εκ]] [[G1093\|γης]] [[G0125\|Αιγύπτου]] [[G4115\|πλάτυνον]] [[G3588\|το]] [[G4750\|στόμα]] [[G1473\|σου]] [[G2532\|και]] [[G4137\|πληρώσω]] [[G1473\|αυτό]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic DESIRE|DESIRE]] • [[topic PRAYER|PRAYER]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.81.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.81.9|<< Psalm 81:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.81.11|Psalm 81:11 >>]]</td></tr></table>
 
@@ -23,6 +79,6 @@ For I am \[the\] <span class="smallcaps">lord</span>  your God; the one leading 
 | and | **<big>[[G2532\|και]]</big>** |
 | I shall fill | **<big>[[G4137\|πληρώσω]]</big>** |
 | it. | **<big>[[G1473\|αυτό]]</big>** |
-[[Ps.81.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.81.9|<< Psalm 81:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.81.11|Psalm 81:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.81.9|<< Psalm 81:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.81.11|Psalm 81:11 >>]]</td></tr></table>
 
 

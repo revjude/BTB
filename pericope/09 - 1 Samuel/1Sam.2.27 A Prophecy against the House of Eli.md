@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Prophecy against the House of Eli
+type: Pericope
 pericope: "[[1Sam.2.27 A Prophecy against the House of Eli|A Prophecy against the House of Eli]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 2
 book/chapter: "[[1Sam.2|1 Samuel 2]]"
-genre:
+chronological_order: 281
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 10
 verses:
 - "[[1Sam.2.27]]"
 - "[[1Sam.2.28]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Sam.2.36]]"
 ---
 
-[[1Sam.2|1 Samuel 2:27 - 1 Samuel 2:36]]
+<small>[[1Sam.2|1 Samuel 2:27-36]]</small>
 *A Prophecy against the House of Eli*
 
 [[1Sam.2.27|27]] And there came a man of God unto Eli, and said unto him, Thus saith the LORD, Did I plainly appear unto the house of thy father, when they were in Egypt in Pharaoh’s house?

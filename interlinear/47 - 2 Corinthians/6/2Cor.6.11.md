@@ -1,10 +1,51 @@
+---
+title: 2 Corinthians 6:11
+type: Verse
+kjv: "O ye Corinthians, our mouth is open unto you, our heart is enlarged."
+bsb: "We have spoken freely to you, Corinthians. Our hearts are open wide."
+greek: "Τὸ στόμα ἡμῶν ἀνέῳγεν πρὸς ὑμᾶς, Κορίνθιοι, ἡ καρδία ἡμῶν πεπλάτυνται·"
+pericope: "[[2Cor.6.1 Paul’s Hardships and God’s Grace|Paul’s Hardships and God’s Grace]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 6
+book/chapter: "[[2Cor.6|2 Corinthians 6]]"
+chronological_order: 1079
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic LOVE|LOVE]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G4750]]"
+- "[[G3165]]"
+- "[[G0455]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G2881]]"
+- "[[G2588]]"
+- "[[G4115]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 6:11**<big><big>[[2Cor.6.1 Paul’s Hardships and God’s Grace|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 O [ye] Corinthians, our mouth is open unto you, our heart is enlarged.
 <small><sub>**BSB:**</sub></small>
 We have spoken freely to you, Corinthians. Our hearts are open wide.
-<small><sub>**Literal:**</sub></small>
-The mouth of us has been opened to you, Corinthians, the heart of us has been expanded;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.6.10|<< 2 Corinthians 6:10]]</td><td align="center" style="border:none;">[[2Cor.6|2 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.6.12|2 Corinthians 6:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τὸ]]  [[G4750\|στόμα]]  [[G3165\|ἡμῶν]]  [[G0455\|ἀνέῳγεν]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς,]]  [[G2881\|Κορίνθιοι,]]  [[G3588\|ἡ]]  [[G2588\|καρδία]]  [[G3165\|ἡμῶν]]  [[G4115\|πεπλάτυνται·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOVE|LOVE]] • [[topic RESIGNATION|RESIGNATION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.6.10|<< 2 Corinthians 6:10]]</td><td align="center" style="border:none;">[[2Cor.6|2 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.6.12|2 Corinthians 6:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Corinthians 6:11** is...
 > $\quad$ referencing: [[LXX.Ps.119.32|Ps 119:32]]

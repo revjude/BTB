@@ -1,8 +1,59 @@
+---
+title: Genesis 19:23
+type: Verse
+kjv: "The sun was risen upon the earth when Lot entered into Zoar."
+bsb: "And by the time the sun had risen over the land, Lot had reached Zoar."
+hebrew: "הַשֶּׁ֖מֶשׁ יָצָ֣א עַל־ הָאָ֑רֶץ וְל֖וֹט בָּ֥א צֹֽעֲרָה׃"
+pericope: "[[Gen.19.12 Lot Flees to Zoar|Lot Flees to Zoar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 19
+book/chapter: "[[Gen.19|Genesis 19]]"
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic RISING|RISING]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic ZOAR|ZOAR]]"
+strongs:
+- "[[H9009]]"
+- "[[H8121]]"
+- "[[H3318K]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H3876]]"
+- "[[H0935G]]"
+- "[[H6820]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 19:23**<big><big>[[Gen.19.12 Lot Flees to Zoar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sun was risen upon the earth when Lot entered into Zoar.
 <small><sub>**BSB:**</sub></small>
 And by the time the sun had risen over the land, Lot had reached Zoar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H8121\|שֶּׁ֖מֶשׁ]] [[H3318K\|יָצָ֣א]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H3876\|ל֖וֹט]] [[H0935G\|בָּ֥א]] [[H6820\|צֹֽעֲרָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic RISING|RISING]] • [[topic SODOM|SODOM]] • [[topic ZOAR|ZOAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.22|<< Genesis 19:22]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.24|Genesis 19:24 >>]]</td></tr></table>
 

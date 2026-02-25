@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ahab’s Repentance
+type: Pericope
 pericope: "[[1Kgs.21.25 Ahab’s Repentance|Ahab’s Repentance]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 21
 book/chapter: "[[1Kgs.21|1 Kings 21]]"
-genre:
+chronological_order: 567
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 5
 verses:
 - "[[1Kgs.21.25]]"
 - "[[1Kgs.21.26]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1Kgs.21.29]]"
 ---
 
-[[1Kgs.21|1 Kings 21:25 - 1 Kings 21:29]]
+<small>[[1Kgs.21|1 Kings 21:25-29]]</small>
 *Ahab’s Repentance*
 
 [[1Kgs.21.25|25]] But there was none like unto Ahab, which did sell himself to work wickedness in the sight of the LORD, whom Jezebel his wife stirred up.

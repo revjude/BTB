@@ -1,8 +1,59 @@
+---
+title: Ezekiel 44:29
+type: Verse
+kjv: "They shall eat the meat offering, and the sin offering, and the trespass offering; and every dedicated thing in Israel shall be theirs."
+bsb: "They shall eat the grain offerings, the sin offerings, and the guilt offerings. Everything in Israel devoted to the LORD will belong to them."
+hebrew: "הַמִּנְחָה֙ וְהַחַטָּ֣את וְהָאָשָׁ֔ם הֵ֖מָּה יֹֽאכְל֑וּם וְכָל־ חֵ֥רֶם בְּיִשְׂרָאֵ֖ל לָהֶ֥ם יִהְיֶֽה׃"
+pericope: "[[Ezek.44.15 The Duties of the Priests|The Duties of the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 44
+book/chapter: "[[Ezek.44|Ezekiel 44]]"
+chronological_order: 835
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9009]]"
+- "[[H4503G]]"
+- "[[H9002]]"
+- "[[H2403H]]"
+- "[[H0817]]"
+- "[[H1992]]"
+- "[[H0398]]"
+- "[[H9038]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2764A]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 44:29**<big><big>[[Ezek.44.15 The Duties of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall eat the meat offering, and the sin offering, and the trespass offering; and every dedicated thing in Israel shall be theirs.
 <small><sub>**BSB:**</sub></small>
 They shall eat the grain offerings, the sin offerings, and the guilt offerings. Everything in Israel devoted to the LORD will belong to them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H4503G\|מִּנְחָה֙]] [[H9002\|וְ]][[H9009\|הַ]][[H2403H\|חַטָּ֣את]] [[H9002\|וְ]][[H9009\|הָ]][[H0817\|אָשָׁ֔ם]] [[H1992\|הֵ֖מָּה]] [[H0398\|יֹֽאכְל֑וּ]][[H9038\|ם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H2764A\|חֵ֥רֶם]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לָ]][[H9038\|הֶ֥ם]] [[H1961\|יִהְיֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.28|<< Ezekiel 44:28]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.30|Ezekiel 44:30 >>]]</td></tr></table>
 

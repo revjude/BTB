@@ -1,8 +1,71 @@
+---
+title: Jeremiah 51:44
+type: Verse
+kjv: "And I will punish Bel in Babylon, and I will bring forth out of his mouth that which he hath swallowed up: and the nations shall not flow together any more unto him: yea, the wall of Babylon shall fall."
+bsb: "I will punish Bel in Babylon. I will make him spew out what he swallowed. The nations will no longer stream to him; even the wall of Babylon will fall."
+hebrew: "וּפָקַדְתִּ֨י עַל־ בֵּ֜ל בְּבָבֶ֗ל וְהֹצֵאתִ֤י אֶת־ בִּלְעוֹ֙ מִפִּ֔יו וְלֹֽא־ יִנְהֲר֥וּ אֵלָ֛יו ע֖וֹד גּוֹיִ֑ם גַּם־ חוֹמַ֥ת בָּבֶ֖ל נָפָֽלָה׃"
+pericope: "[[Jer.51.20 Babylon’s Punishment|Babylon’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic BEL|BEL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic WALLS, OF THE CITIES|WALLS, OF THE CITIES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H6485H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1078]]"
+- "[[H9003]]"
+- "[[H0894]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H1105]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H6310G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5102A]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H5750]]"
+- "[[H1471A]]"
+- "[[H1571]]"
+- "[[H2346G]]"
+- "[[H5307G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 51:44**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will punish Bel in Babylon, and I will bring forth out of his mouth that which he hath swallowed up: and the nations shall not flow together any more unto him: yea, the wall of Babylon shall fall.
 <small><sub>**BSB:**</sub></small>
 I will punish Bel in Babylon. I will make him spew out what he swallowed. The nations will no longer stream to him; even the wall of Babylon will fall.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H6485H\|פָקַדְתִּ֨י]] [[H5921A\|עַל]][[H9014\|־]] [[H1078\|בֵּ֜ל]] [[H9003\|בְּ]][[H0894\|בָבֶ֗ל]] [[H9001\|וְ]][[H3318H\|הֹצֵאתִ֤י]] [[H0853\|אֶת]][[H9014\|־]] [[H1105\|בִּלְע]][[H9023\|וֹ֙]] [[H9006\|מִ]][[H6310G\|פִּ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5102A\|יִנְהֲר֥וּ]] [[H0413\|אֵלָ֛י]][[H9033\|ו]] [[H5750\|ע֖וֹד]] [[H1471A\|גּוֹיִ֑ם]] [[H1571\|גַּם]][[H9014\|־]] [[H2346G\|חוֹמַ֥ת]] [[H0894\|בָּבֶ֖ל]] [[H5307G\|נָפָֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic BEL|BEL]] • [[topic IDOLATRY|IDOLATRY]] • [[topic PERSIA|PERSIA]] • [[topic WALLS, OF THE CITIES|WALLS, OF THE CITIES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.43|<< Jeremiah 51:43]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.45|Jeremiah 51:45 >>]]</td></tr></table>
 

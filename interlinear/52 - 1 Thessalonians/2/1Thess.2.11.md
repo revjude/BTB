@@ -1,10 +1,54 @@
+---
+title: 1 Thessalonians 2:11
+type: Verse
+kjv: "As ye know how we exhorted and comforted and charged every one of you, as a father doth his children,"
+bsb: "For you know that we treated each of you as a father treats his own children—"
+greek: "καθάπερ οἴδατε, ὡς ἕνα ἕκαστον ὑμῶν ὡς πατὴρ τέκνα ἑαυτοῦ"
+pericope: "[[1Thess.2.1 Paul’s Ministry|Paul’s Ministry]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 2
+book/chapter: "[[1Thess.2|1 Thessalonians 2]]"
+chronological_order: 1049
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2509]]"
+- "[[G6063]]"
+- "[[G5613]]"
+- "[[G1520]]"
+- "[[G1538]]"
+- "[[G4771]]"
+- "[[G3962]]"
+- "[[G5043]]"
+- "[[G1438]]"
+texts:
+- NKO
+---
+
 **1 Thessalonians 2:11**<big><big>[[1Thess.2.1 Paul’s Ministry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As ye know how we exhorted and comforted and charged every one of you, as a father [doth] his children,
 <small><sub>**BSB:**</sub></small>
 For you know that we treated each of you as a father treats his own children—
-<small><sub>**Literal:**</sub></small>
-just as you know how one each of you as a father children of himself<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.10|<< 1 Thessalonians 2:10]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.12|1 Thessalonians 2:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2509\|καθάπερ]]  [[G6063\|οἴδατε,]]  [[G5613\|ὡς]]  [[G1520\|ἕνα]]  [[G1538\|ἕκαστον]]  [[G4771\|ὑμῶν]]  [[G5613\|ὡς]]  [[G3962\|πατὴρ]]  [[G5043\|τέκνα]]  [[G1438\|ἑαυτοῦ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PARENTS|PARENTS]] • [[topic PREACHING|PREACHING]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.10|<< 1 Thessalonians 2:10]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.12|1 Thessalonians 2:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

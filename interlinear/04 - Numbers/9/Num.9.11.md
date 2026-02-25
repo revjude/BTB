@@ -1,8 +1,66 @@
+---
+title: Numbers 9:11
+type: Verse
+kjv: "The fourteenth day of the second month at even they shall keep it, and eat it with unleavened bread and bitter herbs."
+bsb: "Such people are to observe it at twilight on the fourteenth day of the second month. They are to eat the lamb, together with unleavened bread and bitter herbs;"
+hebrew: "בַּחֹ֨דֶשׁ הַשֵּׁנִ֜י בְּאַרְבָּעָ֨ה עָשָׂ֥ר י֛וֹם בֵּ֥ין הָעַרְבַּ֖יִם יַעֲשׂ֣וּ אֹת֑וֹ עַל־ מַצּ֥וֹת וּמְרֹרִ֖ים יֹאכְלֻֽהוּ׃"
+pericope: "[[Num.9.1 The Second Passover|The Second Passover]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 9
+book/chapter: "[[Num.9|Numbers 9]]"
+chronological_order: 168
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BITTER HERBS|BITTER HERBS]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic STRANGERS|STRANGERS]]"
+strongs:
+- "[[H9003]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H8145]]"
+- "[[H0702]]"
+- "[[H6240]]"
+- "[[H3117G]]"
+- "[[H0996G]]"
+- "[[H6153]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4682]]"
+- "[[H9002]]"
+- "[[H4844]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 9:11**<big><big>[[Num.9.1 The Second Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fourteenth day of the second month at even they shall keep it, [and] eat it with unleavened bread and bitter [herbs].
 <small><sub>**BSB:**</sub></small>
 Such people are to observe it at twilight on the fourteenth day of the second month. They are to eat the lamb, together with unleavened bread and bitter herbs;
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H2320G\|חֹ֨דֶשׁ]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֜י]] [[H9003\|בְּ]][[H0702\|אַרְבָּעָ֨ה]] [[H6240\|עָשָׂ֥ר]] [[H3117G\|י֛וֹם]] [[H0996G\|בֵּ֥ין]] [[H9009\|הָ]][[H6153\|עַרְבַּ֖יִם]] [[H6213A\|יַעֲשׂ֣וּ]] [[H0853\|אֹת֑]][[H9033\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H4682\|מַצּ֥וֹת]] [[H9002\|וּ]][[H4844\|מְרֹרִ֖ים]] [[H0398\|יֹאכְלֻֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BITTER HERBS|BITTER HERBS]] • [[topic MONTH|MONTH]] • [[topic PASSOVER|PASSOVER]] • [[topic STRANGERS|STRANGERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9.10|<< Numbers 9:10]]</td><td align="center" style="border:none;">[[Num.9|Numbers 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.12|Numbers 9:12 >>]]</td></tr></table>
 

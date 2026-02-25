@@ -1,8 +1,62 @@
+---
+title: Jeremiah 44:9
+type: Verse
+kjv: "Have ye forgotten the wickedness of your fathers, and the wickedness of the kings of Judah, and the wickedness of their wives, and your own wickedness, and the wickedness of your wives, which they have committed in the land of Judah, and in the streets of Jerusalem?"
+bsb: "Have you forgotten the wickedness of your fathers and of the kings of Judah and their wives, as well as the wickedness that you and your wives committed in the land of Judah and in the streets of Jerusalem?"
+hebrew: "הַֽשְׁכַחְתֶּם֩ אֶת־ רָע֨וֹת אֲבוֹתֵיכֶ֜ם וְאֶת־ רָע֣וֹת׀ מַלְכֵ֣י יְהוּדָ֗ה וְאֵת֙ רָע֣וֹת נָשָׁ֔יו וְאֵת֙ רָעֹ֣תֵכֶ֔ם וְאֵ֖ת רָעֹ֣ת נְשֵׁיכֶ֑ם אֲשֶׁ֤ר עָשׂוּ֙ בְּאֶ֣רֶץ יְהוּדָ֔ה וּבְחֻצ֖וֹת יְרוּשָׁלִָֽם׃"
+pericope: "[[Jer.44.1 Judgment on the Jews in Egypt|Judgment on the Jews in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 44
+book/chapter: "[[Jer.44|Jeremiah 44]]"
+chronological_order: 767
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic QUEEN|QUEEN]]"
+strongs:
+- "[[H9008]]"
+- "[[H7911]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7451I]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H9015]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H2351]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 44:9**<big><big>[[Jer.44.1 Judgment on the Jews in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have ye forgotten the wickedness of your fathers, and the wickedness of the kings of Judah, and the wickedness of their wives, and your own wickedness, and the wickedness of your wives, which they have committed in the land of Judah, and in the streets of Jerusalem?
 <small><sub>**BSB:**</sub></small>
 Have you forgotten the wickedness of your fathers and of the kings of Judah and their wives, as well as the wickedness that you and your wives committed in the land of Judah and in the streets of Jerusalem?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַֽ]][[H7911\|שְׁכַחְתֶּם֩]] [[H0853\|אֶת]][[H9014\|־]] [[H7451I\|רָע֨וֹת]] [[H0001G\|אֲבוֹתֵי]][[H9026\|כֶ֜ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7451I\|רָע֣וֹת]][[H9015\|׀]] [[H4428G\|מַלְכֵ֣י]] [[H3063G\|יְהוּדָ֗ה]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H7451I\|רָע֣וֹת]] [[H0802H\|נָשָׁ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H7451I\|רָעֹ֣תֵ]][[H9026\|כֶ֔ם]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H7451I\|רָעֹ֣ת]] [[H0802H\|נְשֵׁי]][[H9026\|כֶ֑ם]] [[H0834A\|אֲשֶׁ֤ר]] [[H6213H\|עָשׂוּ֙]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H3063G\|יְהוּדָ֔ה]] [[H9002\|וּ]][[H9003\|בְ]][[H2351\|חֻצ֖וֹת]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic QUEEN|QUEEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.8|<< Jeremiah 44:8]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.10|Jeremiah 44:10 >>]]</td></tr></table>
 

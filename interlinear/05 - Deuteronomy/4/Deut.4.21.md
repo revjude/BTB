@@ -1,8 +1,76 @@
+---
+title: Deuteronomy 4:21
+type: Verse
+kjv: "Furthermore the LORD was angry with me for your sakes, and sware that I should not go over Jordan, and that I should not go in unto that good land, which the LORD thy God giveth thee for an inheritance:"
+bsb: "The LORD, however, was angry with me on account of you, and He swore that I would not cross the Jordan to enter the good land that the LORD your God is giving you as an inheritance."
+hebrew: "וַֽיהוָ֥ה הִתְאַנֶּף־ בִּ֖י עַל־ דִּבְרֵיכֶ֑ם וַיִּשָּׁבַ֗ע לְבִלְתִּ֤י עָבְרִי֙ אֶת־ הַיַּרְדֵּ֔ן וּלְבִלְתִּי־ בֹא֙ אֶל־ הָאָ֣רֶץ הַטּוֹבָ֔ה אֲשֶׁר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ נֹתֵ֥ן לְךָ֖ נַחֲלָֽה׃"
+pericope: "[[Deut.4.15 A Warning against Idolatry|A Warning against Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H0599]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H5921A]]"
+- "[[H1697M]]"
+- "[[H9026]]"
+- "[[H9001]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H1115]]"
+- "[[H5674A]]"
+- "[[H9040]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H0776G]]"
+- "[[H2896A]]"
+- "[[H0834A]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H5414G]]"
+- "[[H9031]]"
+- "[[H5159]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:21**<big><big>[[Deut.4.15 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Furthermore the LORD was angry with me for your sakes, and sware that I should not go over Jordan, and that I should not go in unto that good land, which the LORD thy God giveth thee [for] an inheritance:
 <small><sub>**BSB:**</sub></small>
 The LORD, however, was angry with me on account of you, and He swore that I would not cross the Jordan to enter the good land that the LORD your God is giving you as an inheritance.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַֽ]][[H3068G\|יהוָ֥ה]] [[H0599\|הִתְאַנֶּף]][[H9014\|־]] [[H9003\|בִּ֖]][[H9030\|י]] [[H5921A\|עַל]][[H9014\|־]] [[H1697M\|דִּבְרֵי]][[H9026\|כֶ֑ם]] [[H9001\|וַ]][[H7650\|יִּשָּׁבַ֗ע]] [[H9005\|לְ]][[H1115\|בִלְתִּ֤י]] [[H5674A\|עָבְרִ]][[H9040\|י֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֔ן]] [[H9002\|וּ]][[H9005\|לְ]][[H1115\|בִלְתִּי]][[H9014\|־]] [[H0935G\|בֹא֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H2896A\|טּוֹבָ֔ה]] [[H0834A\|אֲשֶׁר֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H5414G\|נֹתֵ֥ן]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H5159\|נַחֲלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic IDOLATRY|IDOLATRY]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.20|<< Deuteronomy 4:20]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.22|Deuteronomy 4:22 >>]]</td></tr></table>
 

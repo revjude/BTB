@@ -1,8 +1,62 @@
+---
+title: Genesis 9:6
+type: Verse
+kjv: "Whoso sheddeth man’s blood, by man shall his blood be shed: for in the image of God made he man."
+bsb: "Whoever sheds the blood of man, by man his blood will be shed; for in His own image God has made mankind."
+hebrew: "שֹׁפֵךְ֙ דַּ֣ם הָֽאָדָ֔ם בָּֽאָדָ֖ם דָּמ֣וֹ יִשָּׁפֵ֑ךְ כִּ֚י בְּצֶ֣לֶם אֱלֹהִ֔ים עָשָׂ֖ה אֶת־ הָאָדָֽם׃"
+pericope: "[[Gen.9.1 The Covenant of the Rainbow|The Covenant of the Rainbow]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 9
+book/chapter: "[[Gen.9|Genesis 9]]"
+chronological_order: 9
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic IMAGE|IMAGE]]"
+- "[[topic MAN|MAN]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+strongs:
+- "[[H8210H]]"
+- "[[H1818]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H9003]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H6754]]"
+- "[[H0430G]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 9:6**<big><big>[[Gen.9.1 The Covenant of the Rainbow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso sheddeth man’s blood, by man shall his blood be shed: for in the image of God made he man.
 <small><sub>**BSB:**</sub></small>
 Whoever sheds the blood of man, by man his blood will be shed; for in His own image God has made mankind.
+<small><sub>**Hebrew:**</sub></small>
+[[H8210H\|שֹׁפֵךְ֙]] [[H1818\|דַּ֣ם]] [[H9009\|הָֽ]][[H0120G\|אָדָ֔ם]] [[H9003\|בָּֽ]][[H0120G\|אָדָ֖ם]] [[H1818\|דָּמ֣]][[H9023\|וֹ]] [[H8210H\|יִשָּׁפֵ֑ךְ]] [[H3588A\|כִּ֚י]] [[H9003\|בְּ]][[H6754\|צֶ֣לֶם]] [[H0430G\|אֱלֹהִ֔ים]] [[H6213H\|עָשָׂ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0120G\|אָדָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]] • [[topic COVENANT|COVENANT]] • [[topic GOD|GOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic IMAGE|IMAGE]] • [[topic MAN|MAN]] • [[topic PUNISHMENT|PUNISHMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.5|<< Genesis 9:5]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.7|Genesis 9:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

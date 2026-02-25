@@ -1,8 +1,83 @@
+---
+title: 2 Kings 8:9
+type: Verse
+kjv: "So Hazael went to meet him, and took a present with him, even of every good thing of Damascus, forty camels’ burden, and came and stood before him, and said, Thy son Benhadad king of Syria hath sent me to thee, saying, Shall I recover of this disease?"
+bsb: "So Hazael went to meet Elisha, taking with him a gift of forty camel loads of every good thing from Damascus. And he went in and stood before him and said, “Your son Ben-hadad king of Aram has sent me to ask, ‘Will I recover from this illness?’”"
+hebrew: "וַיֵּ֣לֶךְ חֲזָאֵל֮ לִקְרָאתוֹ֒ וַיִּקַּ֨ח מִנְחָ֤ה בְיָדוֹ֙ וְכָל־ ט֣וּב דַּמֶּ֔שֶׂק מַשָּׂ֖א אַרְבָּעִ֣ים גָּמָ֑ל וַיָּבֹא֙ וַיַּעֲמֹ֣ד לְפָנָ֔יו וַיֹּ֗אמֶר בִּנְךָ֨ בֶן־ הֲדַ֤ד מֶֽלֶךְ־ אֲרָם֙ שְׁלָחַ֤נִי אֵלֶ֙יךָ֙ לֵאמֹ֔ר הַאֶחְיֶ֖ה מֵחֳלִ֥י זֶֽה׃"
+pericope: "[[2Kgs.8.7 Hazael Murders Ben-hadad|Hazael Murders Ben-hadad]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 8
+book/chapter: "[[2Kgs.8|2 Kings 8]]"
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BEN-HADAD|BEN-HADAD]]"
+- "[[topic CAMEL|CAMEL]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HAZAEL|HAZAEL]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H2371]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H9033]]"
+- "[[H3947G]]"
+- "[[H4503H]]"
+- "[[H9003]]"
+- "[[H3027K]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2898]]"
+- "[[H1834]]"
+- "[[H4853A]]"
+- "[[H0705]]"
+- "[[H1581]]"
+- "[[H0935G]]"
+- "[[H5975G]]"
+- "[[H6440G]]"
+- "[[H0559]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H1130H]]"
+- "[[H4428G]]"
+- "[[H0758I]]"
+- "[[H7971G]]"
+- "[[H9030]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H9008]]"
+- "[[H2421]]"
+- "[[H9006]]"
+- "[[H2483]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 8:9**<big><big>[[2Kgs.8.7 Hazael Murders Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Hazael went to meet him, and took a present with him, even of every good thing of Damascus, forty camels’ burden, and came and stood before him, and said, Thy son Benhadad king of Syria hath sent me to thee, saying, Shall I recover of this disease?
 <small><sub>**BSB:**</sub></small>
 So Hazael went to meet Elisha, taking with him a gift of forty camel loads of every good thing from Damascus. And he went in and stood before him and said, “Your son Ben-hadad king of Aram has sent me to ask, ‘Will I recover from this illness?’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּ֣לֶךְ]] [[H2371\|חֲזָאֵל֮]] [[H9005\|לִ]][[H7122G\|קְרָאת]][[H9033\|וֹ֒]] [[H9001\|וַ]][[H3947G\|יִּקַּ֨ח]] [[H4503H\|מִנְחָ֤ה]] [[H9003\|בְ]][[H3027K\|יָד]][[H9023\|וֹ֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H2898\|ט֣וּב]] [[H1834\|דַּמֶּ֔שֶׂק]] [[H4853A\|מַשָּׂ֖א]] [[H0705\|אַרְבָּעִ֣ים]] [[H1581\|גָּמָ֑ל]] [[H9001\|וַ]][[H0935G\|יָּבֹא֙]] [[H9001\|וַ]][[H5975G\|יַּעֲמֹ֣ד]] [[H9005\|לְ]][[H6440G\|פָנָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H1121A\|בִּנְ]][[H9021\|ךָ֨]] [[H1130H\|בֶן]][[H9014\|־]] [[H1130H\|הֲדַ֤ד]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0758I\|אֲרָם֙]] [[H7971G\|שְׁלָחַ֤]][[H9030\|נִי]] [[H0413\|אֵלֶ֙י]][[H9031\|ךָ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H9008\|הַ]][[H2421\|אֶחְיֶ֖ה]] [[H9006\|מֵ]][[H2483\|חֳלִ֥י]] [[H2088\|זֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEN-HADAD|BEN-HADAD]] • [[topic CAMEL|CAMEL]] • [[topic ELISHA|ELISHA]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HAZAEL|HAZAEL]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.8|<< 2 Kings 8:8]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.10|2 Kings 8:10 >>]]</td></tr></table>
 

@@ -1,10 +1,56 @@
+---
+title: Ephesians 1:16
+type: Verse
+kjv: "Cease not to give thanks for you, making mention of you in my prayers;"
+bsb: "I have not stopped giving thanks for you, remembering you in my prayers,"
+greek: "οὐ παύομαι εὐχαριστῶν ὑπὲρ ὑμῶν μνείαν ὑμῶν ποιούμενος ἐπὶ τῶν προσευχῶν μου"
+pericope: "[[Eph.1.15 Spiritual Wisdom|Spiritual Wisdom]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 1
+book/chapter: "[[Eph.1|Ephesians 1]]"
+chronological_order: 1111
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PRAYERFULNESS|PRAYERFULNESS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3756]]"
+- "[[G3973]]"
+- "[[G2168]]"
+- "[[G5228]]"
+- "[[G4771]]"
+- "[[G3417]]"
+- "[[G4160G]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G4335]]"
+- "[[G3165]]"
+texts:
+- NKO
+- k
+---
+
 **Ephesians 1:16**<big><big>[[Eph.1.15 Spiritual Wisdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Cease not to give thanks for you, making mention of you in my prayers;
 <small><sub>**BSB:**</sub></small>
 I have not stopped giving thanks for you, remembering you in my prayers,
-<small><sub>**Literal:**</sub></small>
-not do cease giving thanks for you mention of you making in the prayers of mine<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.15|<< Ephesians 1:15]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.17|Ephesians 1:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G3973\|παύομαι]]  [[G2168\|εὐχαριστῶν]]  [[G5228\|ὑπὲρ]]  [[G4771\|ὑμῶν]]  [[G3417\|μνείαν]]  [[G4771\|ὑμῶν]]  [[G4160G\|ποιούμενος]]  [[G1909\|ἐπὶ]]  [[G3588\|τῶν]]  [[G4335\|προσευχῶν]]  [[G3165\|μου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic PRAYERFULNESS|PRAYERFULNESS]] • [[topic SALVATION|SALVATION]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.15|<< Ephesians 1:15]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.17|Ephesians 1:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,57 @@
+---
+title: Psalm 119:31
+type: Verse
+kjv: "I have stuck unto thy testimonies: O LORD, put me not to shame."
+bsb: "I cling to Your testimonies, O LORD; let me not be put to shame."
+hebrew: "דָּבַ֥קְתִּי בְעֵֽדְוֹתֶ֑יךָ יְ֝הוָ֗ה אַל־ תְּבִישֵֽׁנִי׃"
+pericope: "[[Ps.119.25 Your Word Is a Lamp to My Feet - DALETH|Your Word Is a Lamp to My Feet - DALETH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CONSTANCY|CONSTANCY]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H1692]]"
+- "[[H9003]]"
+- "[[H5715]]"
+- "[[H9021]]"
+- "[[H3068G]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0954]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:31**<big><big>[[Ps.119.25 Your Word Is a Lamp to My Feet - DALETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have stuck unto thy testimonies: O LORD, put me not to shame.
 <small><sub>**BSB:**</sub></small>
 I cling to Your testimonies, O LORD; let me not be put to shame.
+<small><sub>**Hebrew:**</sub></small>
+[[H1692\|דָּבַ֥קְתִּי]] [[H9003\|בְ]][[H5715\|עֵֽדְוֹתֶ֑י]][[H9021\|ךָ]] [[H3068G\|יְ֝הוָ֗ה]] [[H0408\|אַל]][[H9014\|־]] [[H0954\|תְּבִישֵֽׁ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSTANCY|CONSTANCY]] • [[topic DECISION|DECISION]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.30|<< Psalms 119:30]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.32|Psalms 119:32 >>]]</td></tr></table>
 

@@ -1,10 +1,67 @@
+---
+title: 2 Thessalonians 3:8
+type: Verse
+kjv: "Neither did we eat any man’s bread for nought; but wrought with labour and travail night and day, that we might not be chargeable to any of you:"
+bsb: "nor did we eat anyone’s food without paying for it. Instead, in labor and toil, we worked night and day so that we would not be a burden to any of you."
+greek: "οὐδὲ δωρεὰν ἄρτον ἐφάγομεν παρά τινος, ἀλλ᾽ ἐν κόπῳ καὶ μόχθῳ νυκτὸς καὶ ἡμέρας ἐργαζόμενοι πρὸς τὸ μὴ ἐπιβαρῆσαί τινα ὑμῶν·"
+pericope: "[[2Thess.3.6 A Warning against Idleness|A Warning against Idleness]]"
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 3
+book/chapter: "[[2Thess.3|2 Thessalonians 3]]"
+chronological_order: 1055
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic LABOR|LABOR]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3761]]"
+- "[[G1432]]"
+- "[[G0740]]"
+- "[[G5315]]"
+- "[[G3844]]"
+- "[[G5100]]"
+- "[[G0235]]"
+- "[[G1722]]"
+- "[[G2873]]"
+- "[[G2532]]"
+- "[[G3449]]"
+- "[[G3571]]"
+- "[[G2250]]"
+- "[[G2038]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G3361]]"
+- "[[G1912]]"
+- "[[G4771]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Thessalonians 3:8**<big><big>[[2Thess.3.6 A Warning against Idleness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Neither did we eat any man’s bread for nought; but wrought with labour and travail night and day, that we might not be chargeable to any of you:
 <small><sub>**BSB:**</sub></small>
 nor did we eat anyone’s food without paying for it. Instead, in labor and toil, we worked night and day so that we would not be a burden to any of you.
-<small><sub>**Literal:**</sub></small>
-nor without payment bread did we eat from anyone, but in labor and hardship night and day working in order <the> not to be burdensome to any of you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.7|<< 2 Thessalonians 3:7]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.9|2 Thessalonians 3:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3761\|οὐδὲ]]  [[G1432\|δωρεὰν]]  [[G0740\|ἄρτον]]  [[G5315\|ἐφάγομεν]]  [[G3844\|παρά]]  [[G5100\|τινος,]]  [[G0235\|ἀλλ᾽]]  [[G1722\|ἐν]]  [[G2873\|κόπῳ]]  [[G2532\|καὶ]]  [[G3449\|μόχθῳ]]  [[G3571\|νυκτὸς]]  [[G2532\|καὶ]]  [[G2250\|ἡμέρας]]  [[G2038\|ἐργαζόμενοι]]  [[G4314\|πρὸς]]  [[G3588\|τὸ]]  [[G3361\|μὴ]]  [[G1912\|ἐπιβαρῆσαί]]  [[G5100\|τινα]]  [[G4771\|ὑμῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic EXAMPLE|EXAMPLE]] • [[topic INDUSTRY|INDUSTRY]] • [[topic LABOR|LABOR]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic UNSELFISHNESS|UNSELFISHNESS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.7|<< 2 Thessalonians 3:7]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.9|2 Thessalonians 3:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

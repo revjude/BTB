@@ -1,8 +1,50 @@
+---
+title: Proverbs 28:18
+type: Verse
+kjv: "Whoso walketh uprightly shall be saved: but he that is perverse in his ways shall fall at once."
+bsb: "He who walks with integrity will be kept safe, but whoever is perverse in his ways will suddenly fall."
+hebrew: "הוֹלֵ֣ךְ תָּ֭מִים יִוָּשֵׁ֑עַ וְנֶעְקַ֥שׁ דְּ֝רָכַ֗יִם יִפּ֥וֹל בְּאֶחָֽת׃"
+pericope: "[[Prov.28.1 The Boldness of the Righteous|The Boldness of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 28
+book/chapter: "[[Prov.28|Proverbs 28]]"
+chronological_order: 483
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1980I]]"
+- "[[H8549H]]"
+- "[[H3467]]"
+- "[[H9002]]"
+- "[[H6140]]"
+- "[[H1870G]]"
+- "[[H5307G]]"
+- "[[H9003]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 28:18**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso walketh uprightly shall be saved: but [he that is] perverse [in his] ways shall fall at once.
 <small><sub>**BSB:**</sub></small>
 He who walks with integrity will be kept safe, but whoever is perverse in his ways will suddenly fall.
+<small><sub>**Hebrew:**</sub></small>
+[[H1980I\|הוֹלֵ֣ךְ]] [[H8549H\|תָּ֭מִים]] [[H3467\|יִוָּשֵׁ֑עַ]] [[H9002\|וְ]][[H6140\|נֶעְקַ֥שׁ]] [[H1870G\|דְּ֝רָכַ֗יִם]] [[H5307G\|יִפּ֥וֹל]] [[H9003\|בְּ]][[H0259\|אֶחָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.17|<< Proverbs 28:17]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.19|Proverbs 28:19 >>]]</td></tr></table>
 

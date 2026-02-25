@@ -1,10 +1,60 @@
+---
+title: 1 Corinthians 4:19
+type: Verse
+kjv: "But I will come to you shortly, if the Lord will, and will know, not the speech of them which are puffed up, but the power."
+bsb: "But I will come to you shortly, if the Lord is willing, and then I will find out not only what these arrogant people are saying, but what power they have."
+greek: "ἐλεύσομαι δὲ ταχέως πρὸς ὑμᾶς, ἐὰν ὁ κύριος θελήσῃ, καὶ γνώσομαι οὐ τὸν λόγον τῶν πεφυσιωμένων ἀλλὰ τὴν δύναμιν."
+pericope: "[[1Cor.4.14 Paul’s Fatherly Warning|Paul’s Fatherly Warning]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 4
+book/chapter: "[[1Cor.4|1 Corinthians 4]]"
+chronological_order: 1061
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic POWER|POWER]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic WILL|WILL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2064]]"
+- "[[G1161]]"
+- "[[G5030]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G1437]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G2309]]"
+- "[[G2532]]"
+- "[[G1097]]"
+- "[[G3756]]"
+- "[[G3056]]"
+- "[[G5448]]"
+- "[[G0235]]"
+- "[[G1411]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 4:19**<big><big>[[1Cor.4.14 Paul’s Fatherly Warning|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But I will come to you shortly, if the Lord will, and will know, not the speech of them which are puffed up, but the power.
 <small><sub>**BSB:**</sub></small>
 But I will come to you shortly, if the Lord is willing, and then I will find out not only what these arrogant people are saying, but what power they have.
-<small><sub>**Literal:**</sub></small>
-I will come however soon to you, if the Lord wishes, and I will find out not the talk of those puffed up but the power.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.18|<< 1 Corinthians 4:18]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.20|1 Corinthians 4:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|ἐλεύσομαι]]  [[G1161\|δὲ]]  [[G5030\|ταχέως]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς,]]  [[G1437\|ἐὰν]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G2309\|θελήσῃ,]]  [[G2532\|καὶ]]  [[G1097\|γνώσομαι]]  [[G3756\|οὐ]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τῶν]]  [[G5448\|πεφυσιωμένων]]  [[G0235\|ἀλλὰ]]  [[G3588\|τὴν]]  [[G1411\|δύναμιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic POWER|POWER]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic WILL|WILL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.18|<< 1 Corinthians 4:18]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.20|1 Corinthians 4:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

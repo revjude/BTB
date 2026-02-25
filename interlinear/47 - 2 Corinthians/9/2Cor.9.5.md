@@ -1,10 +1,68 @@
+---
+title: 2 Corinthians 9:5
+type: Verse
+kjv: "Therefore I thought it necessary to exhort the brethren, that they would go before unto you, and make up beforehand your bounty, whereof ye had notice before, that the same might be ready, as a matter of bounty, and not as of covetousness."
+bsb: "So I thought it necessary to urge the brothers to visit you beforehand and make arrangements for the generous gift you had promised. This way, your gift will be prepared generously and not begrudgingly."
+greek: "ἀναγκαῖον οὖν ἡγησάμην παρακαλέσαι τοὺς ἀδελφούς, ἵνα προέλθωσιν εἰς ὑμᾶς καὶ προκαταρτίσωσιν τὴν προεπηγγελμένην εὐλογίαν ὑμῶν ταύτην ἑτοίμην εἶναι, οὕτως ὡς εὐλογίαν καὶ μὴ ὡς πλεονεξίαν."
+pericope: "[[2Cor.9.1 God Loves a Cheerful Giver|God Loves a Cheerful Giver]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 9
+book/chapter: "[[2Cor.9|2 Corinthians 9]]"
+chronological_order: 1082
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic EMULATION|EMULATION]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[G0316]]"
+- "[[G3767]]"
+- "[[G2233]]"
+- "[[G3870]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G2443]]"
+- "[[G4281]]"
+- "[[G1519]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G4294]]"
+- "[[G4279]]"
+- "[[G2129]]"
+- "[[G3778]]"
+- "[[G2092]]"
+- "[[G1511]]"
+- "[[G3779]]"
+- "[[G5613]]"
+- "[[G3361]]"
+- "[[G4124]]"
+texts:
+- NKO
+- NK(o)
+- N(K)O
+---
+
 **2 Corinthians 9:5**<big><big>[[2Cor.9.1 God Loves a Cheerful Giver|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore I thought it necessary to exhort the brethren, that they would go before unto you, and make up beforehand your bounty, whereof ye had notice before, that the same might be ready, as [a matter of] bounty, and not as [of] covetousness.
 <small><sub>**BSB:**</sub></small>
 So I thought it necessary to urge the brothers to visit you beforehand and make arrangements for the generous gift you had promised. This way, your gift will be prepared generously and not begrudgingly.
-<small><sub>**Literal:**</sub></small>
-Necessary therefore I esteemed [it] to exhort the brothers that they may go before into you and may complete beforehand the having pre-promised blessing of you this ready to be thus as a blessing and not as covetousness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.4|<< 2 Corinthians 9:4]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.6|2 Corinthians 9:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0316\|ἀναγκαῖον]]  [[G3767\|οὖν]]  [[G2233\|ἡγησάμην]]  [[G3870\|παρακαλέσαι]]  [[G3588\|τοὺς]]  [[G0080\|ἀδελφούς,]]  [[G2443\|ἵνα]]  [[G4281\|προέλθωσιν]]  [[G1519\|εἰς]]  [[G4771\|ὑμᾶς]]  [[G2532\|καὶ]]  [[G4294\|προκαταρτίσωσιν]]  [[G3588\|τὴν]]  [[G4279\|προεπηγγελμένην]]  [[G2129\|εὐλογίαν]]  [[G4771\|ὑμῶν]]  [[G3778\|ταύτην]]  [[G2092\|ἑτοίμην]]  [[G1511\|εἶναι,]]  [[G3779\|οὕτως]]  [[G5613\|ὡς]]  [[G2129\|εὐλογίαν]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G5613\|ὡς]]  [[G4124\|πλεονεξίαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic EMULATION|EMULATION]] • [[topic LIBERALITY|LIBERALITY]] • [[topic POOR|POOR]] • [[topic TACT|TACT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.4|<< 2 Corinthians 9:4]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.6|2 Corinthians 9:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

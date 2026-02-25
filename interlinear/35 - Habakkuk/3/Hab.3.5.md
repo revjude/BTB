@@ -1,8 +1,54 @@
+---
+title: Habakkuk 3:5
+type: Verse
+kjv: "Before him went the pestilence, and burning coals went forth at his feet."
+bsb: "Plague went before Him, and fever followed in His steps."
+hebrew: "לְפָנָ֖יו יֵ֣לֶךְ דָּ֑בֶר וְיֵצֵ֥א רֶ֖שֶׁף לְרַגְלָֽיו׃"
+pericope: "[[Hab.3.1 Habakkuk’s Prayer|Habakkuk’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 3
+book/chapter: "[[Hab.3|Habakkuk 3]]"
+chronological_order: 740
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic BOLT|BOLT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H1980G]]"
+- "[[H1698]]"
+- "[[H9002]]"
+- "[[H3318G]]"
+- "[[H7565]]"
+- "[[H7272]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 3:5**<big><big>[[Hab.3.1 Habakkuk’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Before him went the pestilence, and burning coals went forth at his feet.
 <small><sub>**BSB:**</sub></small>
 Plague went before Him, and fever followed in His steps.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H6440G\|פָנָ֖י]][[H9023\|ו]] [[H1980G\|יֵ֣לֶךְ]] [[H1698\|דָּ֑בֶר]] [[H9002\|וְ]][[H3318G\|יֵצֵ֥א]] [[H7565\|רֶ֖שֶׁף]] [[H9005\|לְ]][[H7272\|רַגְלָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOLT|BOLT]] • [[topic GOD|GOD]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.4|<< Habakkuk 3:4]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.6|Habakkuk 3:6 >>]]</td></tr></table>
 

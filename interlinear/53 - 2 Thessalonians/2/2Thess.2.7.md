@@ -1,10 +1,55 @@
+---
+title: 2 Thessalonians 2:7
+type: Verse
+kjv: "For the mystery of iniquity doth already work: only he who now letteth will let, until he be taken out of the way."
+bsb: "For the mystery of lawlessness is already at work, but the one who now restrains it will continue until he is taken out of the way."
+greek: "τὸ γὰρ μυστήριον ἤδη ἐνεργεῖται τῆς ἀνομίας, μόνον ὁ κατέχων ἄρτι ἕως ἐκ μέσου γένηται·"
+pericope: "[[2Thess.2.1 The Man of Lawlessness|The Man of Lawlessness]]"
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 2
+book/chapter: "[[2Thess.2|2 Thessalonians 2]]"
+chronological_order: 1054
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic ANTICHRIST|ANTICHRIST]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic REPROBACY|REPROBACY]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G3466]]"
+- "[[G2235]]"
+- "[[G1754]]"
+- "[[G0458]]"
+- "[[G3441]]"
+- "[[G2722]]"
+- "[[G0737]]"
+- "[[G2193]]"
+- "[[G1537]]"
+- "[[G3319]]"
+- "[[G1096]]"
+texts:
+- NKO
+---
+
 **2 Thessalonians 2:7**<big><big>[[2Thess.2.1 The Man of Lawlessness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the mystery of iniquity doth already work: only he who now letteth [will let], until he be taken out of the way.
 <small><sub>**BSB:**</sub></small>
 For the mystery of lawlessness is already at work, but the one who now restrains it will continue until he is taken out of the way.
-<small><sub>**Literal:**</sub></small>
-The for mystery already is working <the> of lawlessness, only [there is] the [one] restraining [it] at present until out of [the] midst he may be [gone];<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.6|<< 2 Thessalonians 2:6]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.8|2 Thessalonians 2:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὸ]]  [[G1063\|γὰρ]]  [[G3466\|μυστήριον]]  [[G2235\|ἤδη]]  [[G1754\|ἐνεργεῖται]]  [[G3588\|τῆς]]  [[G0458\|ἀνομίας,]]  [[G3441\|μόνον]]  [[G3588\|ὁ]]  [[G2722\|κατέχων]]  [[G0737\|ἄρτι]]  [[G2193\|ἕως]]  [[G1537\|ἐκ]]  [[G3319\|μέσου]]  [[G1096\|γένηται·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTICHRIST|ANTICHRIST]] • [[topic MYSTERIES|MYSTERIES]] • [[topic REPROBACY|REPROBACY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.6|<< 2 Thessalonians 2:6]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.8|2 Thessalonians 2:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

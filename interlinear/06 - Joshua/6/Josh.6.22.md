@@ -1,8 +1,67 @@
+---
+title: Joshua 6:22
+type: Verse
+kjv: "But Joshua had said unto the two men that had spied out the country, Go into the harlot’s house, and bring out thence the woman, and all that she hath, as ye sware unto her."
+bsb: "Meanwhile, Joshua told the two men who had spied out the land, “Go into the house of the prostitute and bring out the woman and all who are with her, just as you promised her.”"
+hebrew: "וְלִשְׁנַ֨יִם הָאֲנָשִׁ֜ים הַֽמְרַגְּלִ֤ים אֶת־ הָאָ֙רֶץ֙ אָמַ֣ר יְהוֹשֻׁ֔עַ בֹּ֖אוּ בֵּית־ הָאִשָּׁ֣ה הַזּוֹנָ֑ה וְהוֹצִ֨יאוּ מִשָּׁ֤ם אֶת־ הָֽאִשָּׁה֙ וְאֶת־ כָּל־ אֲשֶׁר־ לָ֔הּ כַּאֲשֶׁ֥ר נִשְׁבַּעְתֶּ֖ם לָֽהּ׃"
+pericope: "[[Josh.6.1 The Walls of Jericho|The Walls of Jericho]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 6
+book/chapter: "[[Josh.6|Joshua 6]]"
+chronological_order: 236
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic OATH|OATH]]"
+- "[[topic RAHAB|RAHAB]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H8147]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H7270]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H0559]]"
+- "[[H3091G]]"
+- "[[H0935G]]"
+- "[[H1004B]]"
+- "[[H0802G]]"
+- "[[H2181]]"
+- "[[H3318H]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H3605]]"
+- "[[H0834D]]"
+- "[[H9034]]"
+- "[[H9004]]"
+- "[[H7650]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 6:22**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Joshua had said unto the two men that had spied out the country, Go into the harlot’s house, and bring out thence the woman, and all that she hath, as ye sware unto her.
 <small><sub>**BSB:**</sub></small>
 Meanwhile, Joshua told the two men who had spied out the land, “Go into the house of the prostitute and bring out the woman and all who are with her, just as you promised her.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לִ]][[H8147\|שְׁנַ֨יִם]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֜ים]] [[H9009\|הַֽ]][[H7270\|מְרַגְּלִ֤ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H0559\|אָמַ֣ר]] [[H3091G\|יְהוֹשֻׁ֔עַ]] [[H0935G\|בֹּ֖אוּ]] [[H1004B\|בֵּית]][[H9014\|־]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֣ה]] [[H9009\|הַ]][[H2181\|זּוֹנָ֑ה]] [[H9002\|וְ]][[H3318H\|הוֹצִ֨יאוּ]] [[H9006\|מִ]][[H8033G\|שָּׁ֤ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H0802G\|אִשָּׁה֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0834D\|אֲשֶׁר]][[H9014\|־]] [[H9005\|לָ֔]][[H9034\|הּ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H7650\|נִשְׁבַּעְתֶּ֖ם]] [[H9005\|לָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOSPITALITY|HOSPITALITY]] • [[topic OATH|OATH]] • [[topic RAHAB|RAHAB]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.21|<< Joshua 6:21]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.23|Joshua 6:23 >>]]</td></tr></table>
 

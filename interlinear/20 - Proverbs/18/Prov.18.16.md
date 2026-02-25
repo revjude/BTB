@@ -1,8 +1,51 @@
+---
+title: Proverbs 18:16
+type: Verse
+kjv: "A man’s gift maketh room for him, and bringeth him before great men."
+bsb: "A man’s gift opens doors for him, and brings him before great men."
+hebrew: "מַתָּ֣ן אָ֭דָם יַרְחִ֣יב ל֑וֹ וְלִפְנֵ֖י גְדֹלִ֣ים יַנְחֶֽנּוּ׃"
+pericope: "[[Prov.18.1 The Selfishness of the Unfriendly|The Selfishness of the Unfriendly]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 18
+book/chapter: "[[Prov.18|Proverbs 18]]"
+chronological_order: 473
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BRIBERY|BRIBERY]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H4976]]"
+- "[[H0120G]]"
+- "[[H7337]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H6440G]]"
+- "[[H1419A]]"
+- "[[H5148]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 18:16**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A man’s gift maketh room for him, and bringeth him before great men.
 <small><sub>**BSB:**</sub></small>
 A man’s gift opens doors for him, and brings him before great men.
+<small><sub>**Hebrew:**</sub></small>
+[[H4976\|מַתָּ֣ן]] [[H0120G\|אָ֭דָם]] [[H7337\|יַרְחִ֣יב]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H9002\|וְ]][[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H1419A\|גְדֹלִ֣ים]] [[H5148\|יַנְחֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIBERY|BRIBERY]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.15|<< Proverbs 18:15]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.17|Proverbs 18:17 >>]]</td></tr></table>
 

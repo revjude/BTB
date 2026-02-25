@@ -1,8 +1,77 @@
+---
+title: Joshua 7:24
+type: Verse
+kjv: "And Joshua, and all Israel with him, took Achan the son of Zerah, and the silver, and the garment, and the wedge of gold, and his sons, and his daughters, and his oxen, and his asses, and his sheep, and his tent, and all that he had: and they brought them unto the valley of Achor."
+bsb: "Then Joshua, together with all Israel, took Achan son of Zerah, the silver, the cloak, the bar of gold, his sons and daughters, his oxen and donkeys and sheep, his tent, and everything else he owned, and brought them to the Valley of Achor."
+hebrew: "וַיִּקַּ֣ח יְהוֹשֻׁ֣עַ אֶת־ עָכָ֣ן בֶּן־ זֶ֡רַח וְאֶת־ הַכֶּ֣סֶף וְאֶת־ הָאַדֶּ֣רֶת וְֽאֶת־ לְשׁ֣וֹן הַזָּהָ֡ב וְֽאֶת־ בָּנָ֡יו וְֽאֶת־ בְּנֹתָ֡יו וְאֶת־ שׁוֹרוֹ֩ וְאֶת־ חֲמֹר֨וֹ וְאֶת־ צֹאנ֤וֹ וְאֶֽת־ אָהֳלוֹ֙ וְאֶת־ כָּל־ אֲשֶׁר־ ל֔וֹ וְכָל־ יִשְׂרָאֵ֖ל עִמּ֑וֹ וַיַּעֲל֥וּ אֹתָ֖ם עֵ֥מֶק עָכֽוֹר׃"
+pericope: "[[Josh.7.16 The Sin of Achan|The Sin of Achan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 7
+book/chapter: "[[Josh.7|Joshua 7]]"
+chronological_order: 237
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic DISCIPLINE|DISCIPLINE]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NATION|NATION]]"
+- "[[topic SELF-CONDEMNATION|SELF-CONDEMNATION]]"
+- "[[topic SELF-INCRIMINATION|SELF-INCRIMINATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H3091G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5912]]"
+- "[[H1121A]]"
+- "[[H2226I]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3701G]]"
+- "[[H0155]]"
+- "[[H3956I]]"
+- "[[H2091]]"
+- "[[H9023]]"
+- "[[H1323G]]"
+- "[[H7794]]"
+- "[[H2543]]"
+- "[[H6629G]]"
+- "[[H0168G]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3478]]"
+- "[[H5973A]]"
+- "[[H5927H]]"
+- "[[H9038]]"
+- "[[H6010G]]"
+- "[[H5911]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 7:24**<big><big>[[Josh.7.16 The Sin of Achan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua, and all Israel with him, took Achan the son of Zerah, and the silver, and the garment, and the wedge of gold, and his sons, and his daughters, and his oxen, and his asses, and his sheep, and his tent, and all that he had: and they brought them unto the valley of Achor.
 <small><sub>**BSB:**</sub></small>
 Then Joshua, together with all Israel, took Achan son of Zerah, the silver, the cloak, the bar of gold, his sons and daughters, his oxen and donkeys and sheep, his tent, and everything else he owned, and brought them to the Valley of Achor.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֣ח]] [[H3091G\|יְהוֹשֻׁ֣עַ]] [[H0853\|אֶת]][[H9014\|־]] [[H5912\|עָכָ֣ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2226I\|זֶ֡רַח]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3701G\|כֶּ֣סֶף]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0155\|אַדֶּ֣רֶת]] [[H9002\|וְֽ]][[H0853\|אֶת]][[H9014\|־]] [[H3956I\|לְשׁ֣וֹן]] [[H9009\|הַ]][[H2091\|זָּהָ֡ב]] [[H9002\|וְֽ]][[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בָּנָ֡י]][[H9023\|ו]] [[H9002\|וְֽ]][[H0853\|אֶת]][[H9014\|־]] [[H1323G\|בְּנֹתָ֡י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7794\|שׁוֹר]][[H9023\|וֹ֩]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2543\|חֲמֹר֨]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6629G\|צֹאנ֤]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶֽת]][[H9014\|־]] [[H0168G\|אָהֳל]][[H9023\|וֹ֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H5973A\|עִמּ֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H5927H\|יַּעֲל֥וּ]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H6010G\|עֵ֥מֶק]] [[H5911\|עָכֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISCIPLINE|DISCIPLINE]] • [[topic DISHONESTY|DISHONESTY]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NATION|NATION]] • [[topic SELF-CONDEMNATION|SELF-CONDEMNATION]] • [[topic SELF-INCRIMINATION|SELF-INCRIMINATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.23|<< Joshua 7:23]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.25|Joshua 7:25 >>]]</td></tr></table>
 

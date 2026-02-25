@@ -1,10 +1,53 @@
+---
+title: 1 Corinthians 12:31
+type: Verse
+kjv: "But covet earnestly the best gifts: and yet shew I unto you a more excellent way."
+bsb: "But eagerly desire the greater gifts. And now I will show you the most excellent way."
+greek: "ζηλοῦτε δὲ τὰ χαρίσματα τὰ μείζονα.¶ Καὶ ἔτι καθ᾽ ὑπερβολὴν ὁδὸν ὑμῖν δείκνυμι.¶"
+pericope: "[[1Cor.12.27 The Greater Gifts|The Greater Gifts]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 12
+book/chapter: "[[1Cor.12|1 Corinthians 12]]"
+chronological_order: 1069
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2206]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G5486]]"
+- "[[G3173]]"
+- "[[G2532]]"
+- "[[G2089]]"
+- "[[G2596]]"
+- "[[G5236]]"
+- "[[G3598]]"
+- "[[G4771]]"
+- "[[G1166]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **1 Corinthians 12:31**<big><big>[[1Cor.12.27 The Greater Gifts|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But covet earnestly the best gifts: and yet shew I unto you a more excellent way.
 <small><sub>**BSB:**</sub></small>
 But eagerly desire the greater gifts. And now I will show you the most excellent way.
-<small><sub>**Literal:**</sub></small>
-do be desirous of however the gifts <the> greater. And now according to a more surpassing way to you I show.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.30|<< 1 Corinthians 12:30]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.13.1|1 Corinthians 13:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2206\|ζηλοῦτε]]  [[G1161\|δὲ]]  [[G3588\|τὰ]]  [[G5486\|χαρίσματα]]  [[G3588\|τὰ]]  [[G3173\|μείζονα.¶]]  [[G2532\|Καὶ]]  [[G2089\|ἔτι]]  [[G2596\|καθ᾽]]  [[G5236\|ὑπερβολὴν]]  [[G3598\|ὁδὸν]]  [[G4771\|ὑμῖν]]  [[G1166\|δείκνυμι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLINESS|HOLINESS]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.30|<< 1 Corinthians 12:30]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.13.1|1 Corinthians 13:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

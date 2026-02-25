@@ -1,8 +1,73 @@
+---
+title: Jeremiah 32:40
+type: Verse
+kjv: "And I will make an everlasting covenant with them, that I will not turn away from them, to do them good; but I will put my fear in their hearts, that they shall not depart from me."
+bsb: "I will make an everlasting covenant with them: I will never turn away from doing good to them, and I will put My fear in their hearts, so that they will never turn away from Me."
+hebrew: "וְכָרַתִּ֤י לָהֶם֙ בְּרִ֣ית עוֹלָ֔ם אֲשֶׁ֤ר לֹֽא־ אָשׁוּב֙ מֵאַ֣חֲרֵיהֶ֔ם לְהֵיטִיבִ֖י אוֹתָ֑ם וְאֶת־ יִרְאָתִי֙ אֶתֵּ֣ן בִּלְבָבָ֔ם לְבִלְתִּ֖י ס֥וּר מֵעָלָֽי׃"
+pericope: "[[Jer.32.36 A Promise of Restoration|A Promise of Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 32
+book/chapter: "[[Jer.32|Jeremiah 32]]"
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3772H]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H1285]]"
+- "[[H5769G]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7725G]]"
+- "[[H9006]]"
+- "[[H0310A]]"
+- "[[H3190]]"
+- "[[H9030]]"
+- "[[H0853]]"
+- "[[H9002]]"
+- "[[H3374]]"
+- "[[H9020]]"
+- "[[H5414H]]"
+- "[[H9003]]"
+- "[[H3824]]"
+- "[[H9028]]"
+- "[[H1115]]"
+- "[[H5493I]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 32:40**<big><big>[[Jer.32.36 A Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make an everlasting covenant with them, that I will not turn away from them, to do them good; but I will put my fear in their hearts, that they shall not depart from me.
 <small><sub>**BSB:**</sub></small>
 I will make an everlasting covenant with them: I will never turn away from doing good to them, and I will put My fear in their hearts, so that they will never turn away from Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3772H\|כָרַתִּ֤י]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H1285\|בְּרִ֣ית]] [[H5769G\|עוֹלָ֔ם]] [[H0834A\|אֲשֶׁ֤ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7725G\|אָשׁוּב֙]] [[H9006\|מֵ]][[H0310A\|אַ֣חֲרֵי]][[H9038\|הֶ֔ם]] [[H9005\|לְ]][[H3190\|הֵיטִיבִ֖]][[H9030\|י]] [[H0853\|אוֹתָ֑]][[H9038\|ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3374\|יִרְאָתִ]][[H9020\|י֙]] [[H5414H\|אֶתֵּ֣ן]] [[H9003\|בִּ]][[H3824\|לְבָבָ֔]][[H9028\|ם]] [[H9005\|לְ]][[H1115\|בִלְתִּ֖י]] [[H5493I\|ס֥וּר]] [[H9006\|מֵ]][[H5921A\|עָלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic REGENERATION|REGENERATION]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.39|<< Jeremiah 32:39]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.41|Jeremiah 32:41 >>]]</td></tr></table>
 

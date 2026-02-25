@@ -1,10 +1,62 @@
+---
+title: Matthew 16:25
+type: Verse
+kjv: "For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it."
+bsb: "For whoever wants to save his life will lose it, but whoever loses his life for My sake will find it."
+jesus_said: "For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it."
+greek: "ὃς γὰρ ἐὰν θέλῃ τὴν ψυχὴν αὐτοῦ σῶσαι, ἀπολέσει αὐτήν· ὃς δ᾽ ἂν ἀπολέσῃ τὴν ψυχὴν αὐτοῦ ἕνεκεν ἐμοῦ, εὑρήσει αὐτήν.¶"
+pericope: "[[Matt.16.24 Take Up Your Cross|Take Up Your Cross]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 16
+book/chapter: "[[Matt.16|Matthew 16]]"
+chronological_order: 966
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic PARADOX|PARADOX]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G3739]]"
+- "[[G1063]]"
+- "[[G1437]]"
+- "[[G2309]]"
+- "[[G3588]]"
+- "[[G5590H]]"
+- "[[G0846]]"
+- "[[G4982]]"
+- "[[G0622]]"
+- "[[G1161]]"
+- "[[G0302]]"
+- "[[G1752]]"
+- "[[G1473]]"
+- "[[G2147]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 16:25**<big><big>[[Matt.16.24 Take Up Your Cross|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it.
 <small><sub>**BSB:**</sub></small>
 For whoever wants to save his life will lose it, but whoever loses his life for My sake will find it.
-<small><sub>**Literal:**</sub></small>
-Who[ever] for maybe shall desire the life of him to save, will lose it; who[ever] however maybe shall lose the life of him on account of Me, will find it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.24|<< Matthew 16:24]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.26|Matthew 16:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G1063\|γὰρ]]  [[G1437\|ἐὰν]]  [[G2309\|θέλῃ]]  [[G3588\|τὴν]]  [[G5590H\|ψυχὴν]]  [[G0846\|αὐτοῦ]]  [[G4982\|σῶσαι,]]  [[G0622\|ἀπολέσει]]  [[G0846\|αὐτήν·]]  [[G3739\|ὃς]]  [[G1161\|δ᾽]]  [[G0302\|ἂν]]  [[G0622\|ἀπολέσῃ]]  [[G3588\|τὴν]]  [[G5590H\|ψυχὴν]]  [[G0846\|αὐτοῦ]]  [[G1752\|ἕνεκεν]]  [[G1473\|ἐμοῦ,]]  [[G2147\|εὑρήσει]]  [[G0846\|αὐτήν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic PARADOX|PARADOX]] • [[topic REWARD|REWARD]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.24|<< Matthew 16:24]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.26|Matthew 16:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

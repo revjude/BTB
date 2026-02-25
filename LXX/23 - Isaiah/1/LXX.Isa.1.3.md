@@ -1,6 +1,63 @@
+---
+title: LXX Isaiah 1:3
+type: Verse
+lxx: "The ox knows the one acquiring it, and the donkey knows the stable  of its master; but Israel does not know me, and  my people perceived not."
+greek: "έγνω βους τον κτησάμενον και όνος την φάτνην του κυρίου αυτού Ισραήλ δε με ουκ έγνω και ο λαός με ου συνήκεν"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 1
+book/chapter: "[[Isa.1|Isaiah 1]]"
+chronological_order: 609
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CRIB|CRIB]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic INSTINCT|INSTINCT]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[G1097]]"
+- "[[G1016]]"
+- "[[G3588]]"
+- "[[G2932]]"
+- "[[G2532]]"
+- "[[G3688]]"
+- "[[G3588]]"
+- "[[G5336]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G1473]]"
+- "[[G2474]]"
+- "[[G1161]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G1097]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G4920]]"
+---
+
 **LXX Isaiah 1:3** 
 <small><sub>**LXX:**</sub></small>
 \[The\] ox knows the one acquiring \[it\], and \[the\] donkey \[knows\] the stable  of its master; but Israel does not know me, and  my people perceived not. 
+<small><sub>**Greek:**</sub></small>
+[[G1097\|έγνω]] [[G1016\|βους]] [[G3588\|τον]] [[G2932\|κτησάμενον]] [[G2532\|και]] [[G3688\|όνος]] [[G3588\|την]] [[G5336\|φάτνην]] [[G3588\|του]] [[G2962\|κυρίου]] [[G1473\|αυτού]] [[G2474\|Ισραήλ]] [[G1161\|δε]] [[G1473\|με]] [[G3756\|ουκ]] [[G1097\|έγνω]] [[G2532\|και]] [[G3588\|ο]] [[G2992\|λαός]] [[G1473\|με]] [[G3756\|ου]] [[G4920\|συνήκεν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic CHURCH|CHURCH]] • [[topic CRIB|CRIB]] • [[topic GODLESSNESS|GODLESSNESS]] • [[topic INSTINCT|INSTINCT]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.2|<< Isaiah 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.4|Isaiah 1:4 >>]]</td></tr></table>
 
@@ -24,6 +81,6 @@
 | \<obj.> | **<big>[[G3588\|ο]]</big>** |
 | my people | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|με]]</big>** |
 | perceived not. | **<big>[[G3756\|ου]]</big>** **<big>[[G4920\|συνήκεν]]</big>** |
-[[Isa.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.2|<< Isaiah 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.4|Isaiah 1:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.2|<< Isaiah 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.4|Isaiah 1:4 >>]]</td></tr></table>
 
 

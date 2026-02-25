@@ -1,8 +1,68 @@
+---
+title: Ezekiel 19:12
+type: Verse
+kjv: "But she was plucked up in fury, she was cast down to the ground, and the east wind dried up her fruit: her strong rods were broken and withered; the fire consumed them."
+bsb: "But it was uprooted in fury, cast down to the ground, and the east wind dried up its fruit. Its strong branches were stripped off and they withered; the fire consumed them."
+hebrew: "וַתֻּתַּ֤שׁ בְּחֵמָה֙ לָאָ֣רֶץ הֻשְׁלָ֔כָה וְר֥וּחַ הַקָּדִ֖ים הוֹבִ֣ישׁ פִּרְיָ֑הּ הִתְפָּרְק֧וּ וְיָבֵ֛שׁוּ מַטֵּ֥ה עֻזָּ֖הּ אֵ֥שׁ אֲכָלָֽתְהוּ׃"
+pericope: "[[Ezek.19.1 A Lament for the Princes of Israel|A Lament for the Princes of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 19
+book/chapter: "[[Ezek.19|Ezekiel 19]]"
+chronological_order: 810
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic VINE|VINE]]"
+- "[[topic WIND|WIND]]"
+strongs:
+- "[[H9001]]"
+- "[[H5428]]"
+- "[[H9003]]"
+- "[[H2534]]"
+- "[[H9005]]"
+- "[[H0776H]]"
+- "[[H7993]]"
+- "[[H9002]]"
+- "[[H7307H]]"
+- "[[H9009]]"
+- "[[H6921]]"
+- "[[H3001]]"
+- "[[H6529]]"
+- "[[H9024]]"
+- "[[H6561]]"
+- "[[H4294J]]"
+- "[[H5797]]"
+- "[[H0784]]"
+- "[[H0398]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 19:12**<big><big>[[Ezek.19.1 A Lament for the Princes of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But she was plucked up in fury, she was cast down to the ground, and the east wind dried up her fruit: her strong rods were broken and withered; the fire consumed them.
 <small><sub>**BSB:**</sub></small>
 But it was uprooted in fury, cast down to the ground, and the east wind dried up its fruit. Its strong branches were stripped off and they withered; the fire consumed them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5428\|תֻּתַּ֤שׁ]] [[H9003\|בְּ]][[H2534\|חֵמָה֙]] [[H9005\|לָ]][[H0776H\|אָ֣רֶץ]] [[H7993\|הֻשְׁלָ֔כָה]] [[H9002\|וְ]][[H7307H\|ר֥וּחַ]] [[H9009\|הַ]][[H6921\|קָּדִ֖ים]] [[H3001\|הוֹבִ֣ישׁ]] [[H6529\|פִּרְיָ֑]][[H9024\|הּ]] [[H6561\|הִתְפָּרְק֧וּ]] [[H9002\|וְ]][[H3001\|יָבֵ֛שׁוּ]] [[H4294J\|מַטֵּ֥ה]] [[H5797\|עֻזָּ֖]][[H9024\|הּ]] [[H0784\|אֵ֥שׁ]] [[H0398\|אֲכָלָֽתְ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GRAPE|GRAPE]] • [[topic PARABLES|PARABLES]] • [[topic SYMBOLS|SYMBOLS]] • [[topic VINE|VINE]] • [[topic WIND|WIND]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.19.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.19.11|<< Ezekiel 19:11]]</td><td align="center" style="border:none;">[[Ezek.19|Ezekiel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.19.13|Ezekiel 19:13 >>]]</td></tr></table>
 

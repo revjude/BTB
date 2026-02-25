@@ -1,10 +1,60 @@
+---
+title: Acts 8:10
+type: Verse
+kjv: "To whom they all gave heed, from the least to the greatest, saying, This man is the great power of God."
+bsb: "and all the people, from the least to the greatest, heeded his words and said, “This man is the divine power called the Great Power.”"
+greek: "ᾧ προσεῖχον πάντες ἀπὸ μικροῦ ἕως μεγάλου λέγοντες· οὗτός ἐστιν ἡ δύναμις τοῦ θεοῦ ἡ καλουμένη μεγάλη."
+pericope: "[[Acts.8.9 Simon the Sorcerer|Simon the Sorcerer]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 8
+book/chapter: "[[Acts.8|Acts 8]]"
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PHILIP|PHILIP]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SIMON|SIMON]]"
+strongs:
+- "[[G3739]]"
+- "[[G4337]]"
+- "[[G3956]]"
+- "[[G0575]]"
+- "[[G3398]]"
+- "[[G2193]]"
+- "[[G3173]]"
+- "[[G3004G]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G1411]]"
+- "[[G2316]]"
+- "[[G2564G]]"
+texts:
+- NKO
+- NO
+---
+
 **Acts 8:10**<big><big>[[Acts.8.9 Simon the Sorcerer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 To whom they all gave heed, from the least to the greatest, saying, This man is the great power of God.
 <small><sub>**BSB:**</sub></small>
 and all the people, from the least to the greatest, heeded his words and said, “This man is the divine power called the Great Power.”
-<small><sub>**Literal:**</sub></small>
-to whom were giving heed all from small until great saying; This [one] is the power <the> of God which is called Great.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.9|<< Acts 8:9]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.11|Acts 8:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ᾧ]]  [[G4337\|προσεῖχον]]  [[G3956\|πάντες]]  [[G0575\|ἀπὸ]]  [[G3398\|μικροῦ]]  [[G2193\|ἕως]]  [[G3173\|μεγάλου]]  [[G3004G\|λέγοντες·]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ἡ]]  [[G1411\|δύναμις]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|ἡ]]  [[G2564G\|καλουμένη]]  [[G3173\|μεγάλη.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic PHILIP|PHILIP]] • [[topic PREACHING|PREACHING]] • [[topic SAMARIA|SAMARIA]] • [[topic SIMON|SIMON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.9|<< Acts 8:9]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.11|Acts 8:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

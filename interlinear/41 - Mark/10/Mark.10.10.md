@@ -1,10 +1,53 @@
+---
+title: Mark 10:10
+type: Verse
+kjv: "And in the house his disciples asked him again of the same matter."
+bsb: "When they were back inside the house, the disciples asked Jesus about this matter."
+greek: "Καὶ εἰς τὴν οἰκίαν πάλιν οἱ μαθηταὶ αὐτοῦ περὶ τοῦ τούτου ἐπηρώτων αὐτόν."
+pericope: "[[Mark.10.1 Teachings about Divorce|Teachings about Divorce]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3614G]]"
+- "[[G3825]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G4012]]"
+- "[[G3778]]"
+- "[[G1905]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Mark 10:10**<big><big>[[Mark.10.1 Teachings about Divorce|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And in the house his disciples asked him again of the same [matter].
 <small><sub>**BSB:**</sub></small>
 When they were back inside the house, the disciples asked Jesus about this matter.
-<small><sub>**Literal:**</sub></small>
-And in the house again the disciples of it concerning the [meaning] of this were questioning Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.9|<< Mark 10:9]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.11|Mark 10:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3614G\|οἰκίαν]]  [[G3825\|πάλιν]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G3778\|τούτου]]  [[G1905\|ἐπηρώτων]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARRIAGE|MARRIAGE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.9|<< Mark 10:9]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.11|Mark 10:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

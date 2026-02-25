@@ -1,8 +1,57 @@
+---
+title: Haggai 2:20
+type: Verse
+kjv: "And again the word of the LORD came unto Haggai in the four and twentieth day of the month, saying,"
+bsb: "For the second time that day, the twenty-fourth day of the month, the word of the LORD came to Haggai, saying,"
+hebrew: "וַיְהִ֨י דְבַר־ יְהוָ֤ה׀ שֵׁנִית֙ אֶל־ חַגַּ֔י בְּעֶשְׂרִ֧ים וְאַרְבָּעָ֛ה לַחֹ֖דֶשׁ לֵאמֹֽר׃"
+pericope: "[[Hag.2.20 Zerubbabel the LORD’s Signet Ring|Zerubbabel the LORD’s Signet Ring]]"
+original_language: Hebrew
+testament: Old
+book: Haggai
+chapter: 2
+book/chapter: "[[Hag.2|Haggai 2]]"
+chronological_order: 856
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+topics:
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H8145]]"
+- "[[H0413]]"
+- "[[H2292A]]"
+- "[[H9003]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H0702]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Haggai 2:20**<big><big>[[Hag.2.20 Zerubbabel the LORD’s Signet Ring|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And again the word of the LORD came unto Haggai in the four and twentieth [day] of the month, saying,
 <small><sub>**BSB:**</sub></small>
 For the second time that day, the twenty-fourth day of the month, the word of the LORD came to Haggai, saying,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֨י]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֤ה]][[H9015\|׀]] [[H8145\|שֵׁנִית֙]] [[H0413\|אֶל]][[H9014\|־]] [[H2292A\|חַגַּ֔י]] [[H9003\|בְּ]][[H6242\|עֶשְׂרִ֧ים]] [[H9002\|וְ]][[H0702\|אַרְבָּעָ֛ה]] [[H9005\|לַ]][[H2320G\|חֹ֖דֶשׁ]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.2.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.19|<< Haggai 2:19]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.21|Haggai 2:21 >>]]</td></tr></table>
 

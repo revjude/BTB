@@ -1,10 +1,63 @@
+---
+title: Acts 20:21
+type: Verse
+kjv: "Testifying both to the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Jesus Christ."
+bsb: "testifying to Jews and Greeks alike about repentance to God and faith in our Lord Jesus Christ."
+greek: "διαμαρτυρόμενος Ἰουδαίοις τε καὶ Ἕλλησιν τὴν εἰς τὸν θεὸν μετάνοιαν καὶ πίστιν τὴν εἰς τὸν κύριον ἡμῶν Ἰησοῦν Χριστόν.¶"
+pericope: "[[Acts.20.17 Paul’s Farewell to the Ephesians|Paul’s Farewell to the Ephesians]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 20
+book/chapter: "[[Acts.20|Acts 20]]"
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MILETUS|MILETUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1263]]"
+- "[[G2453]]"
+- "[[G5037]]"
+- "[[G2532]]"
+- "[[G1672]]"
+- "[[G3588]]"
+- "[[G1519]]"
+- "[[G2316]]"
+- "[[G3341]]"
+- "[[G4102G]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+texts:
+- NKO
+- k
+- KO
+---
+
 **Acts 20:21**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Testifying both to the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 testifying to Jews and Greeks alike about repentance to God and faith in our Lord Jesus Christ.
-<small><sub>**Literal:**</sub></small>
-earnestly testifying to Jews both and to Greeks <the> in <the> God repentance and faith <the> in the Lord of us Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.20|<< Acts 20:20]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.22|Acts 20:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1263\|διαμαρτυρόμενος]]  [[G2453\|Ἰουδαίοις]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G1672\|Ἕλλησιν]]  [[G3588\|τὴν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G3341\|μετάνοιαν]]  [[G2532\|καὶ]]  [[G4102G\|πίστιν]]  [[G3588\|τὴν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2962G\|κύριον]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦν]]  [[G5547\|Χριστόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHESUS|EPHESUS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MILETUS|MILETUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SALVATION|SALVATION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.20|<< Acts 20:20]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.22|Acts 20:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

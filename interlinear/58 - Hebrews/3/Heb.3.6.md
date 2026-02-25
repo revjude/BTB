@@ -1,10 +1,69 @@
+---
+title: Hebrews 3:6
+type: Verse
+kjv: "But Christ as a son over his own house; whose house are we, if we hold fast the confidence and the rejoicing of the hope firm unto the end."
+bsb: "But Christ is faithful as the Son over God’s house. And we are His house, if we hold firmly to our confidence and the hope of which we boast."
+greek: "Χριστὸς δὲ ὡς υἱὸς ἐπὶ τὸν οἶκον αὐτοῦ, οὗ οἶκός ἐσμεν ἡμεῖς ἐάνπερ ἐάνπερ τὴν παρρησίαν καὶ τὸ καύχημα τῆς ἐλπίδος μέχρι τέλους βεβαίαν κατάσχωμεν.¶"
+pericope: "[[Heb.3.1 Jesus Our Apostle and High Priest|Jesus Our Apostle and High Priest]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 3
+book/chapter: "[[Heb.3|Hebrews 3]]"
+chronological_order: 1142
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G5547]]"
+- "[[G1161]]"
+- "[[G5613]]"
+- "[[G5207]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3624H]]"
+- "[[G0846]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G3165]]"
+- "[[G1437]]"
+- "[[G4007]]"
+- "[[G3954]]"
+- "[[G2532]]"
+- "[[G2745]]"
+- "[[G1680]]"
+- "[[G3360]]"
+- "[[G5056]]"
+- "[[G0949]]"
+- "[[G2722]]"
+texts:
+- NKO
+- NK(o)
+- KO
+---
+
 **Hebrews 3:6**<big><big>[[Heb.3.1 Jesus Our Apostle and High Priest|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Christ as a son over his own house; whose house are we, if we hold fast the confidence and the rejoicing of the hope firm unto the end.
 <small><sub>**BSB:**</sub></small>
 But Christ is faithful as the Son over God’s house. And we are His house, if we hold firmly to our confidence and the hope of which we boast.
-<small><sub>**Literal:**</sub></small>
-Christ however as [the] Son over the house of Him, whose house are we ourselves if indeed <the> [our] confidence and the boast <the> of [our] hope until end unshakable we may hold.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.5|<< Hebrews 3:5]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.7|Hebrews 3:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5547\|Χριστὸς]]  [[G1161\|δὲ]]  [[G5613\|ὡς]]  [[G5207\|υἱὸς]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G3624H\|οἶκον]]  [[G0846\|αὐτοῦ,]]  [[G3739\|οὗ]]  [[G3624H\|οἶκός]]  [[G1510\|ἐσμεν]]  [[G3165\|ἡμεῖς]]  [[G1437\|ἐάνπερ]]  <sup><small>[[G4007\| [ • ] ]]</small></sup>  [[G3588\|τὴν]]  [[G3954\|παρρησίαν]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G2745\|καύχημα]]  [[G3588\|τῆς]]  [[G1680\|ἐλπίδος]]  [[G3360\|μέχρι]]  [[G5056\|τέλους]]  [[G0949\|βεβαίαν]]  [[G2722\|κατάσχωμεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHURCH|CHURCH]] • [[topic DECISION|DECISION]] • [[topic HOPE|HOPE]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.5|<< Hebrews 3:5]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.7|Hebrews 3:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

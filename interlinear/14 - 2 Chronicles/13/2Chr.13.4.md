@@ -1,8 +1,64 @@
+---
+title: 2 Chronicles 13:4
+type: Verse
+kjv: "And Abijah stood up upon mount Zemaraim, which is in mount Ephraim, and said, Hear me, thou Jeroboam, and all Israel;"
+bsb: "Then Abijah stood on Mount Zemaraim in the hill country of Ephraim and said, “Hear me, O Jeroboam and all Israel!"
+hebrew: "וַיָּ֣קָם אֲבִיָּ֗ה מֵעַל֙ לְהַ֣ר צְמָרַ֔יִם אֲשֶׁ֖ר בְּהַ֣ר אֶפְרָ֑יִם וַיֹּ֕אמֶר שְׁמָע֖וּנִי יָרָבְעָ֥ם וְכָל־ יִשְׂרָאֵֽל׃"
+pericope: "[[2Chr.13.4 Civil War against Jeroboam|Civil War against Jeroboam]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 13
+book/chapter: "[[2Chr.13|2 Chronicles 13]]"
+chronological_order: 559
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WAR|WAR]]"
+- "[[topic ZEMARAIM|ZEMARAIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H0029I]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9005]]"
+- "[[H2022G]]"
+- "[[H6787]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H2022H]]"
+- "[[H0669G]]"
+- "[[H0559]]"
+- "[[H8085G]]"
+- "[[H9030]]"
+- "[[H3379G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 13:4**<big><big>[[2Chr.13.4 Civil War against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abijah stood up upon mount Zemaraim, which [is] in mount Ephraim, and said, Hear me, thou Jeroboam, and all Israel;
 <small><sub>**BSB:**</sub></small>
 Then Abijah stood on Mount Zemaraim in the hill country of Ephraim and said, “Hear me, O Jeroboam and all Israel!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּ֣קָם]] [[H0029I\|אֲבִיָּ֗ה]] [[H9006\|מֵ]][[H5921A\|עַל֙]] [[H9005\|לְ]][[H2022G\|הַ֣ר]] [[H6787\|צְמָרַ֔יִם]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בְּ]][[H2022H\|הַ֣ר]] [[H0669G\|אֶפְרָ֑יִם]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H8085G\|שְׁמָע֖וּ]][[H9030\|נִי]] [[H3379G\|יָרָבְעָ֥ם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITHFULNESS|FAITHFULNESS]] • [[topic GOD|GOD]] • [[topic WAR|WAR]] • [[topic ZEMARAIM|ZEMARAIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.13.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13.3|<< 2 Chronicles 13:3]]</td><td align="center" style="border:none;">[[2Chr.13|2 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.13.5|2 Chronicles 13:5 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Psalm 103:19
+type: Verse
+kjv: "The LORD hath prepared his throne in the heavens; and his kingdom ruleth over all."
+bsb: "The LORD has established His throne in heaven, and His kingdom rules over all."
+hebrew: "יְֽהוָ֗ה בַּ֭שָּׁמַיִם הֵכִ֣ין כִּסְא֑וֹ וּ֝מַלְכוּת֗וֹ בַּכֹּ֥ל מָשָֽׁלָה׃"
+pericope: "[[Ps.103.1 Bless the LORD, O My Soul|Bless the LORD, O My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 103
+book/chapter: "[[Ps.103|Psalm 103]]"
+chronological_order: 381
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic THRONE|THRONE]]"
+strongs:
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H8064]]"
+- "[[H3559H]]"
+- "[[H3678G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H4438]]"
+- "[[H3605]]"
+- "[[H4910]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 103:19**<big><big>[[Ps.103.1 Bless the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD hath prepared his throne in the heavens; and his kingdom ruleth over all.
 <small><sub>**BSB:**</sub></small>
 The LORD has established His throne in heaven, and His kingdom rules over all.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְֽהוָ֗ה]] [[H9003\|בַּ֭]][[H8064\|שָּׁמַיִם]] [[H3559H\|הֵכִ֣ין]] [[H3678G\|כִּסְא֑]][[H9023\|וֹ]] [[H9002\|וּ֝]][[H4438\|מַלְכוּת֗]][[H9023\|וֹ]] [[H9003\|בַּ]][[H3605\|כֹּ֥ל]] [[H4910\|מָשָֽׁלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic THRONE|THRONE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.103.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.103.18|<< Psalms 103:18]]</td><td align="center" style="border:none;">[[Ps.103|Psalms 103]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.103.20|Psalms 103:20 >>]]</td></tr></table>
 

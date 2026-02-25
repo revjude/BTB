@@ -1,8 +1,66 @@
+---
+title: Judges 16:23
+type: Verse
+kjv: "Then the lords of the Philistines gathered them together for to offer a great sacrifice unto Dagon their god, and to rejoice: for they said, Our god hath delivered Samson our enemy into our hand."
+bsb: "Now the lords of the Philistines gathered together to offer a great sacrifice to their god Dagon. They rejoiced and said, “Our god has delivered Samson our enemy into our hands.”"
+hebrew: "וְסַרְנֵ֣י פְלִשְׁתִּ֗ים נֶֽאֱסְפוּ֙ לִזְבֹּ֧חַ זֶֽבַח־ גָּד֛וֹל לְדָג֥וֹן אֱלֹהֵיהֶ֖ם וּלְשִׂמְחָ֑ה וַיֹּ֣אמְר֔וּ נָתַ֤ן אֱלֹהֵ֙ינוּ֙ בְּיָדֵ֔נוּ אֵ֖ת שִׁמְשׁ֥וֹן אוֹיְבֵֽינוּ׃"
+pericope: "[[Judg.16.23 Samson’s Vengeance and Death|Samson’s Vengeance and Death]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 16
+book/chapter: "[[Judg.16|Judges 16]]"
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic DAGON|DAGON]]"
+- "[[topic GAZA|GAZA]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9002]]"
+- "[[H5633A]]"
+- "[[H6430G]]"
+- "[[H0622]]"
+- "[[H9005]]"
+- "[[H2076]]"
+- "[[H2077]]"
+- "[[H9014]]"
+- "[[H1419A]]"
+- "[[H1712]]"
+- "[[H0430G]]"
+- "[[H9028]]"
+- "[[H8057]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5414G]]"
+- "[[H9025]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H0853]]"
+- "[[H8123]]"
+- "[[H0341]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 16:23**<big><big>[[Judg.16.23 Samson’s Vengeance and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the lords of the Philistines gathered them together for to offer a great sacrifice unto Dagon their god, and to rejoice: for they said, Our god hath delivered Samson our enemy into our hand.
 <small><sub>**BSB:**</sub></small>
 Now the lords of the Philistines gathered together to offer a great sacrifice to their god Dagon. They rejoiced and said, “Our god has delivered Samson our enemy into our hands.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5633A\|סַרְנֵ֣י]] [[H6430G\|פְלִשְׁתִּ֗ים]] [[H0622\|נֶֽאֱסְפוּ֙]] [[H9005\|לִ]][[H2076\|זְבֹּ֧חַ]] [[H2077\|זֶֽבַח]][[H9014\|־]] [[H1419A\|גָּד֛וֹל]] [[H9005\|לְ]][[H1712\|דָג֥וֹן]] [[H0430G\|אֱלֹהֵי]][[H9028\|הֶ֖ם]] [[H9002\|וּ]][[H9005\|לְ]][[H8057\|שִׂמְחָ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֣אמְר֔וּ]] [[H5414G\|נָתַ֤ן]] [[H0430G\|אֱלֹהֵ֙י]][[H9025\|נוּ֙]] [[H9003\|בְּ]][[H3027H\|יָדֵ֔]][[H9025\|נוּ]] [[H0853\|אֵ֖ת]] [[H8123\|שִׁמְשׁ֥וֹן]] [[H0341\|אוֹיְבֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic DAGON|DAGON]] • [[topic GAZA|GAZA]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.22|<< Judges 16:22]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.24|Judges 16:24 >>]]</td></tr></table>
 

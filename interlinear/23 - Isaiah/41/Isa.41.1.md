@@ -1,8 +1,57 @@
+---
+title: Isaiah 41:1
+type: Verse
+kjv: "Keep silence before me, O islands; and let the people renew their strength: let them come near; then let them speak: let us come near together to judgment."
+bsb: "“Be silent before Me, O islands, and let the peoples renew their strength. Let them come forward and testify; let us together draw near for judgment."
+hebrew: "הַחֲרִ֤ישׁוּ אֵלַי֙ אִיִּ֔ים וּלְאֻמִּ֖ים יַחֲלִ֣יפוּ כֹ֑חַ יִגְּשׁוּ֙ אָ֣ז יְדַבֵּ֔רוּ יַחְדָּ֖ו לַמִּשְׁפָּ֥ט נִקְרָֽבָה׃"
+pericope: "[[Isa.41.1 God’s Help to Israel|God’s Help to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 41
+book/chapter: "[[Isa.41|Isaiah 41]]"
+chronological_order: 680
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISLAND|ISLAND]]"
+strongs:
+- "[[H2790B]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0339]]"
+- "[[H9002]]"
+- "[[H3816]]"
+- "[[H2498]]"
+- "[[H3581B]]"
+- "[[H5066G]]"
+- "[[H0227A]]"
+- "[[H1696G]]"
+- "[[H3162B]]"
+- "[[H9005]]"
+- "[[H4941G]]"
+- "[[H7126G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 41:1**<big><big>[[Isa.41.1 God’s Help to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Keep silence before me, O islands; and let the people renew [their] strength: let them come near; then let them speak: let us come near together to judgment.
 <small><sub>**BSB:**</sub></small>
 “Be silent before Me, O islands, and let the peoples renew their strength. Let them come forward and testify; let us together draw near for judgment.
+<small><sub>**Hebrew:**</sub></small>
+[[H2790B\|הַחֲרִ֤ישׁוּ]] [[H0413\|אֵלַ]][[H9030\|י֙]] [[H0339\|אִיִּ֔ים]] [[H9002\|וּ]][[H3816\|לְאֻמִּ֖ים]] [[H2498\|יַחֲלִ֣יפוּ]] [[H3581B\|כֹ֑חַ]] [[H5066G\|יִגְּשׁוּ֙]] [[H0227A\|אָ֣ז]] [[H1696G\|יְדַבֵּ֔רוּ]] [[H3162B\|יַחְדָּ֖ו]] [[H9005\|לַ]][[H4941G\|מִּשְׁפָּ֥ט]] [[H7126G\|נִקְרָֽבָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISLAND|ISLAND]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.31|<< Isaiah 40:31]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.2|Isaiah 41:2 >>]]</td></tr></table>
 

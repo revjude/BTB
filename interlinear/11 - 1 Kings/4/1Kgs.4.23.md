@@ -1,8 +1,62 @@
+---
+title: 1 Kings 4:23
+type: Verse
+kjv: "Ten fat oxen, and twenty oxen out of the pastures, and an hundred sheep, beside harts, and roebucks, and fallowdeer, and fatted fowl."
+bsb: "ten fat oxen, twenty range oxen, and a hundred sheep, as well as deer, gazelles, roebucks, and fattened poultry."
+hebrew: "עֲשָׂרָ֨ה בָקָ֜ר בְּרִאִ֗ים וְעֶשְׂרִ֥ים בָּקָ֛ר רְעִ֖י וּמֵ֣אָה צֹ֑אן לְ֠בַד מֵֽאַיָּ֤ל וּצְבִי֙ וְיַחְמ֔וּר וּבַרְבֻּרִ֖ים אֲבוּסִֽים׃"
+pericope: "[[1Kgs.4.20 Solomon’s Prosperity|Solomon’s Prosperity]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 4
+book/chapter: "[[1Kgs.4|1 Kings 4]]"
+chronological_order: 444
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic DEER|DEER]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TAX|TAX]]"
+strongs:
+- "[[H6235]]"
+- "[[H1241]]"
+- "[[H1277]]"
+- "[[H9002]]"
+- "[[H6242]]"
+- "[[H7471]]"
+- "[[H3967]]"
+- "[[H6629G]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9006]]"
+- "[[H0354]]"
+- "[[H6643B]]"
+- "[[H3180]]"
+- "[[H1257]]"
+- "[[H0075]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 4:23**<big><big>[[1Kgs.4.20 Solomon’s Prosperity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ten fat oxen, and twenty oxen out of the pastures, and an hundred sheep, beside harts, and roebucks, and fallowdeer, and fatted fowl.
 <small><sub>**BSB:**</sub></small>
 ten fat oxen, twenty range oxen, and a hundred sheep, as well as deer, gazelles, roebucks, and fattened poultry.
+<small><sub>**Hebrew:**</sub></small>
+[[H6235\|עֲשָׂרָ֨ה]] [[H1241\|בָקָ֜ר]] [[H1277\|בְּרִאִ֗ים]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֥ים]] [[H1241\|בָּקָ֛ר]] [[H7471\|רְעִ֖י]] [[H9002\|וּ]][[H3967\|מֵ֣אָה]] [[H6629G\|צֹ֑אן]] [[H9005\|לְ֠]][[H0905H\|בַד]] [[H9006\|מֵֽ]][[H0354\|אַיָּ֤ל]] [[H9002\|וּ]][[H6643B\|צְבִי֙]] [[H9002\|וְ]][[H3180\|יַחְמ֔וּר]] [[H9002\|וּ]][[H1257\|בַרְבֻּרִ֖ים]] [[H0075\|אֲבוּסִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEER|DEER]] • [[topic RULERS|RULERS]] • [[topic SOLOMON|SOLOMON]] • [[topic TAX|TAX]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.4.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.22|<< 1 Kings 4:22]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.24|1 Kings 4:24 >>]]</td></tr></table>
 

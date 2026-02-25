@@ -1,10 +1,60 @@
+---
+title: Mark 5:3
+type: Verse
+kjv: "Who had his dwelling among the tombs; and no man could bind him, no, not with chains:"
+bsb: "This man had been living in the tombs and could no longer be restrained, even with chains."
+greek: "ὃς τὴν κατοίκησιν εἶχεν ἐν τοῖς μνήμασιν. καὶ οὐδὲ ἁλύσει οὐκέτι οὐκέτι οὐδεὶς ἐδύνατο αὐτὸν δῆσαι"
+pericope: "[[Mark.5.1 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic GADARENES|GADARENES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G3739]]"
+- "[[G3588]]"
+- "[[G2731]]"
+- "[[G2192]]"
+- "[[G1722]]"
+- "[[G3418]]"
+- "[[G2532]]"
+- "[[G3761]]"
+- "[[G0254]]"
+- "[[G3756]]"
+- "[[G2089]]"
+- "[[G3762]]"
+- "[[G1410]]"
+- "[[G0846]]"
+- "[[G1210]]"
+texts:
+- NKO
+- N(k)O
+- NO
+---
+
 **Mark 5:3**<big><big>[[Mark.5.1 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who had [his] dwelling among the tombs; and no man could bind him, no, not with chains:
 <small><sub>**BSB:**</sub></small>
 This man had been living in the tombs and could no longer be restrained, even with chains.
-<small><sub>**Literal:**</sub></small>
-who the dwelling had in the tombs. And not even with a chain no longer no [one] was able him to bind<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.2|<< Mark 5:2]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.4|Mark 5:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G3588\|τὴν]]  [[G2731\|κατοίκησιν]]  [[G2192\|εἶχεν]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3418\|μνήμασιν.]]  [[G2532\|καὶ]]  [[G3761\|οὐδὲ]]  [[G0254\|ἁλύσει]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G3762\|οὐδεὶς]]  [[G1410\|ἐδύνατο]]  [[G0846\|αὐτὸν]]  [[G1210\|δῆσαι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic GADARENES|GADARENES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.2|<< Mark 5:2]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.4|Mark 5:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

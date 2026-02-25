@@ -1,8 +1,63 @@
+---
+title: 1 Chronicles 16:41
+type: Verse
+kjv: "And with them Heman and Jeduthun, and the rest that were chosen, who were expressed by name, to give thanks to the LORD, because his mercy endureth for ever;"
+bsb: "With them were Heman, Jeduthun, and the rest of those chosen and designated by name to give thanks to the LORD, for “His loving devotion endures forever.”"
+hebrew: "וְעִמָּהֶם֙ הֵימָ֣ן וִֽידוּת֔וּן וּשְׁאָר֙ הַבְּרוּרִ֔ים אֲשֶׁ֥ר נִקְּב֖וּ בְּשֵׁמ֑וֹת לְהֹדוֹת֙ לַֽיהוָ֔ה כִּ֥י לְעוֹלָ֖ם חַסְדּֽוֹ׃"
+pericope: "[[1Chr.16.37 Worship before the Ark|Worship before the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 16
+book/chapter: "[[1Chr.16|1 Chronicles 16]]"
+chronological_order: 397
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic HEMAN|HEMAN]]"
+- "[[topic JEDUTHUN|JEDUTHUN]]"
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[H9002]]"
+- "[[H5973A]]"
+- "[[H9038]]"
+- "[[H1968I]]"
+- "[[H3038G]]"
+- "[[H7605]]"
+- "[[H9009]]"
+- "[[H1305]]"
+- "[[H0834A]]"
+- "[[H5344A]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H9005]]"
+- "[[H3034]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H5769G]]"
+- "[[H2617A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 16:41**<big><big>[[1Chr.16.37 Worship before the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And with them Heman and Jeduthun, and the rest that were chosen, who were expressed by name, to give thanks to the LORD, because his mercy [endureth] for ever;
 <small><sub>**BSB:**</sub></small>
 With them were Heman, Jeduthun, and the rest of those chosen and designated by name to give thanks to the LORD, for “His loving devotion endures forever.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5973A\|עִמָּ]][[H9038\|הֶם֙]] [[H1968I\|הֵימָ֣ן]] [[H9002\|וִֽ]][[H3038G\|ידוּת֔וּן]] [[H9002\|וּ]][[H7605\|שְׁאָר֙]] [[H9009\|הַ]][[H1305\|בְּרוּרִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H5344A\|נִקְּב֖וּ]] [[H9003\|בְּ]][[H8034\|שֵׁמ֑וֹת]] [[H9005\|לְ]][[H3034\|הֹדוֹת֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H3588A\|כִּ֥י]] [[H9005\|לְ]][[H5769G\|עוֹלָ֖ם]] [[H2617A\|חַסְדּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic HEMAN|HEMAN]] • [[topic JEDUTHUN|JEDUTHUN]] • [[topic MUSIC|MUSIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.40|<< 1 Chronicles 16:40]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.42|1 Chronicles 16:42 >>]]</td></tr></table>
 

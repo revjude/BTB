@@ -1,10 +1,56 @@
+---
+title: Romans 14:1
+type: Verse
+kjv: "Him that is weak in the faith receive ye, but not to doubtful disputations."
+bsb: "Accept him whose faith is weak, without passing judgment on his opinions."
+greek: "Τὸν δὲ ἀσθενοῦντα τῇ πίστει προσλαμβάνεσθε μὴ εἰς διακρίσεις διαλογισμῶν."
+pericope: "[[Rom.14.1 The Law of Liberty|The Law of Liberty]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 14
+book/chapter: "[[Rom.14|Romans 14]]"
+chronological_order: 1100
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic EVIL|EVIL]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0770G]]"
+- "[[G4102G]]"
+- "[[G4355]]"
+- "[[G3361]]"
+- "[[G1519]]"
+- "[[G1253]]"
+- "[[G1261]]"
+texts:
+- NKO
+---
+
 **Romans 14:1**<big><big>[[Rom.14.1 The Law of Liberty|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Him that is weak in the faith receive ye, [but] not to doubtful disputations.
 <small><sub>**BSB:**</sub></small>
 Accept him whose faith is weak, without passing judgment on his opinions.
-<small><sub>**Literal:**</sub></small>
-The [one] now being weak in the faith do receive not for passing judgment on reasonings.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.14|<< Romans 13:14]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.2|Romans 14:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τὸν]]  [[G1161\|δὲ]]  [[G0770G\|ἀσθενοῦντα]]  [[G3588\|τῇ]]  [[G4102G\|πίστει]]  [[G4355\|προσλαμβάνεσθε]]  [[G3361\|μὴ]]  [[G1519\|εἰς]]  [[G1253\|διακρίσεις]]  [[G1261\|διαλογισμῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic EVIL|EVIL]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic STRIFE|STRIFE]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.14|<< Romans 13:14]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.2|Romans 14:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

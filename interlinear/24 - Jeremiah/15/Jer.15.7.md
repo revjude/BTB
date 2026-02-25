@@ -1,8 +1,65 @@
+---
+title: Jeremiah 15:7
+type: Verse
+kjv: "And I will fan them with a fan in the gates of the land; I will bereave them of children, I will destroy my people, since they return not from their ways."
+bsb: "I will scatter them with a winnowing fork at the gates of the land. I will bereave and destroy My people who have not turned from their ways."
+hebrew: "וָאֶזְרֵ֥ם בְּמִזְרֶ֖ה בְּשַׁעֲרֵ֣י הָאָ֑רֶץ שִׁכַּ֤לְתִּי אִבַּ֙דְתִּי֙ אֶת־ עַמִּ֔י מִדַּרְכֵיהֶ֖ם לוֹא־ שָֽׁבוּ׃"
+pericope: "[[Jer.15.1 Judgment to Continue|Judgment to Continue]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 15
+book/chapter: "[[Jer.15|Jeremiah 15]]"
+chronological_order: 732
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic FAN|FAN]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H2219]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H4214]]"
+- "[[H8179G]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H7921A]]"
+- "[[H0006]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H1870G]]"
+- "[[H9028]]"
+- "[[H3808]]"
+- "[[H7725I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 15:7**<big><big>[[Jer.15.1 Judgment to Continue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will fan them with a fan in the gates of the land; I will bereave [them] of children, I will destroy my people, [since] they return not from their ways.
 <small><sub>**BSB:**</sub></small>
 I will scatter them with a winnowing fork at the gates of the land. I will bereave and destroy My people who have not turned from their ways.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H2219\|אֶזְרֵ֥]][[H9038\|ם]] [[H9003\|בְּ]][[H4214\|מִזְרֶ֖ה]] [[H9003\|בְּ]][[H8179G\|שַׁעֲרֵ֣י]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H7921A\|שִׁכַּ֤לְתִּי]] [[H0006\|אִבַּ֙דְתִּי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ֔]][[H9020\|י]] [[H9006\|מִ]][[H1870G\|דַּרְכֵי]][[H9028\|הֶ֖ם]] [[H3808\|לוֹא]][[H9014\|־]] [[H7725I\|שָֽׁבוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic FAN|FAN]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.15.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.6|<< Jeremiah 15:6]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.8|Jeremiah 15:8 >>]]</td></tr></table>
 

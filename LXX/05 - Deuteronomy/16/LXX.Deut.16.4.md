@@ -1,6 +1,68 @@
+---
+title: LXX Deuteronomy 16:4
+type: Verse
+lxx: "There shall not be seen by you any yeast in all  your boundaries for seven days, and you shall not go to bed with any of the meats, which ever you should have sacrificed in the evening, left over the first day in the morning."
+greek: "ουκ οφθήσεταί σοι ζύμη εν πάσι τοις ορίοις σου επτά ημέρας και ου κοιμηθήσεται από των κρεών ων αν θυσήτε το εσπέρας τη ημέρα τη πρώτη εις τοπρωϊ"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 16
+book/chapter: "[[Deut.16|Deuteronomy 16]]"
+chronological_order: 212
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[G3756]]"
+- "[[G3708]]"
+- "[[G1473]]"
+- "[[G2219]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3725]]"
+- "[[G1473]]"
+- "[[G2033]]"
+- "[[G2250]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2837]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G2907]]"
+- "[[G3739]]"
+- "[[G0302]]"
+- "[[G2380]]"
+- "[[G3588]]"
+- "[[G2073]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3588]]"
+- "[[G4413]]"
+- "[[G1519]]"
+- "[[G4404]]"
+---
+
 **LXX Deuteronomy 16:4** 
 <small><sub>**LXX:**</sub></small>
 There shall not be seen by you \[any\] yeast in all  your boundaries for seven days, and you shall not go to bed with any of the meats, which ever you should have sacrificed in the evening, \[left over\] the first day in the morning. 
+<small><sub>**Greek:**</sub></small>
+[[G3756\|ουκ]] [[G3708\|οφθήσεταί]] [[G1473\|σοι]] [[G2219\|ζύμη]] [[G1722\|εν]] [[G3956\|πάσι]] [[G3588\|τοις]] [[G3725\|ορίοις]] [[G1473\|σου]] [[G2033\|επτά]] [[G2250\|ημέρας]] [[G2532\|και]] [[G3756\|ου]] [[G2837\|κοιμηθήσεται]] [[G0575\|από]] [[G3588\|των]] [[G2907\|κρεών]] [[G3739\|ων]] [[G0302\|αν]] [[G2380\|θυσήτε]] [[G3588\|το]] [[G2073\|εσπέρας]] [[G3588\|τη]] [[G2250\|ημέρα]] [[G3588\|τη]] [[G4413\|πρώτη]] [[G1519\|εις]] [[G4404\|τοπρωϊ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.16.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.3|<< Deuteronomy 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.5|Deuteronomy 16:5 >>]]</td></tr></table>
 
@@ -33,6 +95,6 @@ There shall not be seen by you \[any\] yeast in all  your boundaries for seven d
 | first | **<big>[[G4413\|πρώτη]]</big>** |
 | in | **<big>[[G1519\|εις]]</big>** |
 | the morning. | **<big>[[G4404\|τοπρωϊ]]</big>** |
-[[Deut.16.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.3|<< Deuteronomy 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.5|Deuteronomy 16:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.3|<< Deuteronomy 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.5|Deuteronomy 16:5 >>]]</td></tr></table>
 
 

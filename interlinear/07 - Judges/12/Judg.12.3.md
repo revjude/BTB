@@ -1,8 +1,78 @@
+---
+title: Judges 12:3
+type: Verse
+kjv: "And when I saw that ye delivered me not, I put my life in my hands, and passed over against the children of Ammon, and the LORD delivered them into my hand: wherefore then are ye come up unto me this day, to fight against me?"
+bsb: "When I saw that you would not save me, I risked my life and crossed over to the Ammonites, and the LORD delivered them into my hand. Why then have you come today to fight against me?”"
+hebrew: "וָֽאֶרְאֶ֞ה כִּֽי־ אֵינְךָ֣ מוֹשִׁ֗יע וָאָשִׂ֨ימָה נַפְשִׁ֤י בְכַפִּי֙ וָֽאֶעְבְּרָה֙ אֶל־ בְּנֵ֣י עַמּ֔וֹן וַיִּתְּנֵ֥ם יְהוָ֖ה בְּיָדִ֑י וְלָמָ֞ה עֲלִיתֶ֥ם אֵלַ֛י הַיּ֥וֹם הַזֶּ֖ה לְהִלָּ֥חֶם בִּֽי׃"
+pericope: "[[Judg.12.1 Jephthah Defeats Ephraim|Jephthah Defeats Ephraim]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 12
+book/chapter: "[[Judg.12|Judges 12]]"
+chronological_order: 266
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic TREASON|TREASON]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0369]]"
+- "[[H9041]]"
+- "[[H3467]]"
+- "[[H7760I]]"
+- "[[H9012]]"
+- "[[H5315H]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H3709G]]"
+- "[[H5674A]]"
+- "[[H0413]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H3068G]]"
+- "[[H3027H]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H5927G]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H3898A]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Judges 12:3**<big><big>[[Judg.12.1 Jephthah Defeats Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when I saw that ye delivered [me] not, I put my life in my hands, and passed over against the children of Ammon, and the LORD delivered them into my hand: wherefore then are ye come up unto me this day, to fight against me?
 <small><sub>**BSB:**</sub></small>
 When I saw that you would not save me, I risked my life and crossed over to the Ammonites, and the LORD delivered them into my hand. Why then have you come today to fight against me?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָֽ]][[H7200G\|אֶרְאֶ֞ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0369\|אֵינְ]][[H9041\|ךָ֣]] [[H3467\|מוֹשִׁ֗יע]] [[H9001\|וָ]][[H7760I\|אָשִׂ֨ימָ]][[H9012\|ה]] [[H5315H\|נַפְשִׁ֤]][[H9020\|י]] [[H9003\|בְ]][[H3709G\|כַפִּ]][[H9020\|י֙]] [[H9001\|וָֽ]][[H5674A\|אֶעְבְּרָ]][[H9012\|ה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H5983\|עַמּ֔וֹן]] [[H9001\|וַ]][[H5414G\|יִּתְּנֵ֥]][[H9038\|ם]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בְּ]][[H3027H\|יָדִ֑]][[H9020\|י]] [[H9002\|וְ]][[H9005\|לָ]][[H4100\|מָ֞ה]] [[H5927G\|עֲלִיתֶ֥ם]] [[H0413\|אֵלַ֛]][[H9030\|י]] [[H9009\|הַ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H9005\|לְ]][[H3898A\|הִלָּ֥חֶם]] [[H9003\|בִּֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic CITIZENS|CITIZENS]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGE|JUDGE]] • [[topic STRIFE|STRIFE]] • [[topic TREASON|TREASON]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.12.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.12.2|<< Judges 12:2]]</td><td align="center" style="border:none;">[[Judg.12|Judges 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.12.4|Judges 12:4 >>]]</td></tr></table>
 

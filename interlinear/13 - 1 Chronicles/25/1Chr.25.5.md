@@ -1,8 +1,68 @@
+---
+title: 1 Chronicles 25:5
+type: Verse
+kjv: "All these were the sons of Heman the king’s seer in the words of God, to lift up the horn. And God gave to Heman fourteen sons and three daughters."
+bsb: "All these sons of Heman the king’s seer were given him through the promises of God to exalt him, for God had given Heman fourteen sons and three daughters."
+hebrew: "כָּל־ אֵ֨לֶּה בָנִ֜ים לְהֵימָ֗ן חֹזֵ֥ה הַמֶּ֛לֶךְ בְּדִבְרֵ֥י הָאֱלֹהִ֖ים לְהָרִ֣ים קָ֑רֶן וַיִּתֵּ֨ן הָאֱלֹהִ֜ים לְהֵימָ֗ן בָּנִ֛ים אַרְבָּעָ֥ה עָשָׂ֖ר וּבָנ֥וֹת שָׁלֽוֹשׁ׃"
+pericope: "[[1Chr.25.1 Twenty-Four Divisions of Musicians|Twenty-Four Divisions of Musicians]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 25
+book/chapter: "[[1Chr.25|1 Chronicles 25]]"
+chronological_order: 436
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ASAPH|ASAPH]]"
+- "[[topic HARP|HARP]]"
+- "[[topic HEMAN|HEMAN]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PSALTERY|PSALTERY]]"
+- "[[topic TRUMPET|TRUMPET]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0428]]"
+- "[[H1121A]]"
+- "[[H9005]]"
+- "[[H1968I]]"
+- "[[H2374]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9003]]"
+- "[[H1697J]]"
+- "[[H0430G]]"
+- "[[H7311A]]"
+- "[[H7161A]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H0702]]"
+- "[[H6240]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H7969]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 25:5**<big><big>[[1Chr.25.1 Twenty-Four Divisions of Musicians|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All these [were] the sons of Heman the king’s seer in the words of God, to lift up the horn. And God gave to Heman fourteen sons and three daughters.
 <small><sub>**BSB:**</sub></small>
 All these sons of Heman the king’s seer were given him through the promises of God to exalt him, for God had given Heman fourteen sons and three daughters.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H0428\|אֵ֨לֶּה]] [[H1121A\|בָנִ֜ים]] [[H9005\|לְ]][[H1968I\|הֵימָ֗ן]] [[H2374\|חֹזֵ֥ה]] [[H9009\|הַ]][[H4428G\|מֶּ֛לֶךְ]] [[H9003\|בְּ]][[H1697J\|דִבְרֵ֥י]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H9005\|לְ]][[H7311A\|הָרִ֣ים]] [[H7161A\|קָ֑רֶן]] [[H9001\|וַ]][[H5414G\|יִּתֵּ֨ן]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֜ים]] [[H9005\|לְ]][[H1968I\|הֵימָ֗ן]] [[H1121A\|בָּנִ֛ים]] [[H0702\|אַרְבָּעָ֥ה]] [[H6240\|עָשָׂ֖ר]] [[H9002\|וּ]][[H1323G\|בָנ֥וֹת]] [[H7969\|שָׁלֽוֹשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAPH|ASAPH]] • [[topic HARP|HARP]] • [[topic HEMAN|HEMAN]] • [[topic MUSIC|MUSIC]] • [[topic PSALTERY|PSALTERY]] • [[topic TRUMPET|TRUMPET]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.25.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.25.4|<< 1 Chronicles 25:4]]</td><td align="center" style="border:none;">[[1Chr.25|1 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.25.6|1 Chronicles 25:6 >>]]</td></tr></table>
 

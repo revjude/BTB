@@ -1,10 +1,63 @@
+---
+title: Luke 20:35
+type: Verse
+kjv: "But they which shall be accounted worthy to obtain that world, and the resurrection from the dead, neither marry, nor are given in marriage:"
+bsb: "But those who are considered worthy to share in the age to come and in the resurrection from the dead will neither marry nor be given in marriage."
+jesus_said: "But they which shall be accounted worthy to obtain that world, and the resurrection from the dead, neither marry, nor are given in marriage:"
+greek: "οἱ δὲ καταξιωθέντες τοῦ αἰῶνος ἐκείνου τυχεῖν καὶ τῆς ἀναστάσεως τῆς ἐκ νεκρῶν οὔτε γαμοῦσιν οὔτε γαμίζονται·"
+pericope: "[[Luke.20.27 The Sadducees and the Resurrection|The Sadducees and the Resurrection]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 20
+book/chapter: "[[Luke.20|Luke 20]]"
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2661]]"
+- "[[G0165G]]"
+- "[[G1565]]"
+- "[[G5177]]"
+- "[[G2532]]"
+- "[[G0386]]"
+- "[[G1537]]"
+- "[[G3498]]"
+- "[[G3777]]"
+- "[[G1060]]"
+- "[[G1061]]"
+texts:
+- NKO
+- N(k)(o)
+---
+
 **Luke 20:35**<big><big>[[Luke.20.27 The Sadducees and the Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But they which shall be accounted worthy to obtain that world, and the resurrection from the dead, neither marry, nor are given in marriage:
 <small><sub>**BSB:**</sub></small>
 But those who are considered worthy to share in the age to come and in the resurrection from the dead will neither marry nor be given in marriage.
-<small><sub>**Literal:**</sub></small>
-those however having been considered worthy of the age that [one] to obtain and of the resurrection <the> from [the] dead neither marry nor are given in marriage;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.34|<< Luke 20:34]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.36|Luke 20:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2661\|καταξιωθέντες]]  [[G3588\|τοῦ]]  [[G0165G\|αἰῶνος]]  [[G1565\|ἐκείνου]]  [[G5177\|τυχεῖν]]  [[G2532\|καὶ]]  [[G3588\|τῆς]]  [[G0386\|ἀναστάσεως]]  [[G3588\|τῆς]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν]]  [[G3777\|οὔτε]]  [[G1060\|γαμοῦσιν]]  [[G3777\|οὔτε]]  [[G1061\|γαμίζονται·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DEATH|DEATH]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RESURRECTION|RESURRECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SADDUCEES|SADDUCEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.34|<< Luke 20:34]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.36|Luke 20:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

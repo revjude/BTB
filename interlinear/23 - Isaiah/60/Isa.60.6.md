@@ -1,8 +1,70 @@
+---
+title: Isaiah 60:6
+type: Verse
+kjv: "The multitude of camels shall cover thee, the dromedaries of Midian and Ephah; all they from Sheba shall come: they shall bring gold and incense; and they shall shew forth the praises of the LORD."
+bsb: "Caravans of camels will cover your land, young camels of Midian and Ephah, and all from Sheba will come, bearing gold and frankincense and proclaiming the praises of the LORD."
+hebrew: "שִֽׁפְעַ֨ת גְּמַלִּ֜ים תְּכַסֵּ֗ךְ בִּכְרֵ֤י מִדְיָן֙ וְעֵיפָ֔ה כֻּלָּ֖ם מִשְּׁבָ֣א יָבֹ֑אוּ זָהָ֤ב וּלְבוֹנָה֙ יִשָּׂ֔אוּ וּתְהִלֹּ֥ת יְהוָ֖ה יְבַשֵּֽׂרוּ׃"
+pericope: "[[Isa.60.1 Future Glory for Zion|Future Glory for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 60
+book/chapter: "[[Isa.60|Isaiah 60]]"
+chronological_order: 699
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CAMEL|CAMEL]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic DROMEDARY|DROMEDARY]]"
+- "[[topic EPHAH|EPHAH]]"
+- "[[topic FRANKINCENSE|FRANKINCENSE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic MIDIANITES|MIDIANITES]]"
+- "[[topic SHEBA|SHEBA]]"
+strongs:
+- "[[H8229]]"
+- "[[H1581]]"
+- "[[H3680]]"
+- "[[H9032]]"
+- "[[H1070]]"
+- "[[H4080H]]"
+- "[[H9002]]"
+- "[[H5891J]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H7614J]]"
+- "[[H0935G]]"
+- "[[H2091]]"
+- "[[H3828]]"
+- "[[H5375H]]"
+- "[[H8416]]"
+- "[[H3068G]]"
+- "[[H1319]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 60:6**<big><big>[[Isa.60.1 Future Glory for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The multitude of camels shall cover thee, the dromedaries of Midian and Ephah; all they from Sheba shall come: they shall bring gold and incense; and they shall shew forth the praises of the LORD.
 <small><sub>**BSB:**</sub></small>
 Caravans of camels will cover your land, young camels of Midian and Ephah, and all from Sheba will come, bearing gold and frankincense and proclaiming the praises of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H8229\|שִֽׁפְעַ֨ת]] [[H1581\|גְּמַלִּ֜ים]] [[H3680\|תְּכַסֵּ֗]][[H9032\|ךְ]] [[H1070\|בִּכְרֵ֤י]] [[H4080H\|מִדְיָן֙]] [[H9002\|וְ]][[H5891J\|עֵיפָ֔ה]] [[H3605\|כֻּלָּ֖]][[H9028\|ם]] [[H9006\|מִ]][[H7614J\|שְּׁבָ֣א]] [[H0935G\|יָבֹ֑אוּ]] [[H2091\|זָהָ֤ב]] [[H9002\|וּ]][[H3828\|לְבוֹנָה֙]] [[H5375H\|יִשָּׂ֔אוּ]] [[H9002\|וּ]][[H8416\|תְהִלֹּ֥ת]] [[H3068G\|יְהוָ֖ה]] [[H1319\|יְבַשֵּֽׂרוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAMEL|CAMEL]] • [[topic CHURCH|CHURCH]] • [[topic COMMERCE|COMMERCE]] • [[topic DROMEDARY|DROMEDARY]] • [[topic EPHAH|EPHAH]] • [[topic FRANKINCENSE|FRANKINCENSE]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic MIDIANITES|MIDIANITES]] • [[topic SHEBA|SHEBA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.60.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.5|<< Isaiah 60:5]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.7|Isaiah 60:7 >>]]</td></tr></table>
 

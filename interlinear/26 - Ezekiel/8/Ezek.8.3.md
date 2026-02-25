@@ -1,8 +1,83 @@
+---
+title: Ezekiel 8:3
+type: Verse
+kjv: "And he put forth the form of an hand, and took me by a lock of mine head; and the spirit lifted me up between the earth and the heaven, and brought me in the visions of God to Jerusalem, to the door of the inner gate that looketh toward the north; where was the seat of the image of jealousy, which provoketh to jealousy."
+bsb: "He stretched out what looked like a hand and took me by the hair of my head. Then the Spirit lifted me up between earth and heaven and carried me in visions of God to Jerusalem, to the entrance of the north gate of the inner court, where the idol that provokes jealousy was seated."
+hebrew: "וַיִּשְׁלַח֙ תַּבְנִ֣ית יָ֔ד וַיִּקָּחֵ֖נִי בְּצִיצִ֣ת רֹאשִׁ֑י וַתִּשָּׂ֣א אֹתִ֣י ר֣וּחַ׀ בֵּֽין־ הָאָ֣רֶץ וּבֵ֣ין הַשָּׁמַ֡יִם וַתָּבֵא֩ אֹתִ֨י יְרוּשָׁלְַ֜מָה בְּמַרְא֣וֹת אֱלֹהִ֗ים אֶל־ פֶּ֜תַח שַׁ֤עַר הַפְּנִימִית֙ הַפּוֹנֶ֣ה צָפ֔וֹנָה אֲשֶׁר־ שָׁ֣ם מוֹשַׁ֔ב סֵ֖מֶל הַקִּנְאָ֥ה הַמַּקְנֶֽה׃"
+pericope: "[[Ezek.8.1 The Vision of Idolatry in the Temple|The Vision of Idolatry in the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 8
+book/chapter: "[[Ezek.8|Ezekiel 8]]"
+chronological_order: 799
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IMAGE|IMAGE]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971H]]"
+- "[[H8403]]"
+- "[[H3027H]]"
+- "[[H3947G]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H6734]]"
+- "[[H7218A]]"
+- "[[H9020]]"
+- "[[H5375G]]"
+- "[[H0853]]"
+- "[[H7307G]]"
+- "[[H9015]]"
+- "[[H0996G]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H8064]]"
+- "[[H0935P]]"
+- "[[H3389]]"
+- "[[H9011]]"
+- "[[H4759A]]"
+- "[[H0430G]]"
+- "[[H0413]]"
+- "[[H6607]]"
+- "[[H8179G]]"
+- "[[H6442]]"
+- "[[H6437G]]"
+- "[[H6828G]]"
+- "[[H0834A]]"
+- "[[H8033G]]"
+- "[[H4186]]"
+- "[[H5566]]"
+- "[[H7068]]"
+- "[[H7065]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 8:3**<big><big>[[Ezek.8.1 The Vision of Idolatry in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he put forth the form of an hand, and took me by a lock of mine head; and the spirit lifted me up between the earth and the heaven, and brought me in the visions of God to Jerusalem, to the door of the inner gate that looketh toward the north; where [was] the seat of the image of jealousy, which provoketh to jealousy.
 <small><sub>**BSB:**</sub></small>
 He stretched out what looked like a hand and took me by the hair of my head. Then the Spirit lifted me up between earth and heaven and carried me in visions of God to Jerusalem, to the entrance of the north gate of the inner court, where the idol that provokes jealousy was seated.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971H\|יִּשְׁלַח֙]] [[H8403\|תַּבְנִ֣ית]] [[H3027H\|יָ֔ד]] [[H9001\|וַ]][[H3947G\|יִּקָּחֵ֖]][[H9030\|נִי]] [[H9003\|בְּ]][[H6734\|צִיצִ֣ת]] [[H7218A\|רֹאשִׁ֑]][[H9020\|י]] [[H9001\|וַ]][[H5375G\|תִּשָּׂ֣א]] [[H0853\|אֹתִ֣]][[H9030\|י]] [[H7307G\|ר֣וּחַ]][[H9015\|׀]] [[H0996G\|בֵּֽין]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H9002\|וּ]][[H0996G\|בֵ֣ין]] [[H9009\|הַ]][[H8064\|שָּׁמַ֡יִם]] [[H9001\|וַ]][[H0935P\|תָּבֵא֩]] [[H0853\|אֹתִ֨]][[H9030\|י]] [[H3389\|יְרוּשָׁלְַ֜מָ]][[H9011\|ה]] [[H9003\|בְּ]][[H4759A\|מַרְא֣וֹת]] [[H0430G\|אֱלֹהִ֗ים]] [[H0413\|אֶל]][[H9014\|־]] [[H6607\|פֶּ֜תַח]] [[H8179G\|שַׁ֤עַר]] [[H9009\|הַ]][[H6442\|פְּנִימִית֙]] [[H9009\|הַ]][[H6437G\|פּוֹנֶ֣ה]] [[H6828G\|צָפ֔וֹנָ]][[H9011\|ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H8033G\|שָׁ֣ם]] [[H4186\|מוֹשַׁ֔ב]] [[H5566\|סֵ֖מֶל]] [[H9009\|הַ]][[H7068\|קִּנְאָ֥ה]] [[H9009\|הַ]][[H7065\|מַּקְנֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IMAGE|IMAGE]] • [[topic JEALOUSY|JEALOUSY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.8.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.8.2|<< Ezekiel 8:2]]</td><td align="center" style="border:none;">[[Ezek.8|Ezekiel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.8.4|Ezekiel 8:4 >>]]</td></tr></table>
 

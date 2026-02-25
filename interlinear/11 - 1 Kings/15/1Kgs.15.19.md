@@ -1,8 +1,76 @@
+---
+title: 1 Kings 15:19
+type: Verse
+kjv: "There is a league between me and thee, and between my father and thy father: behold, I have sent unto thee a present of silver and gold; come and break thy league with Baasha king of Israel, that he may depart from me."
+bsb: "“Let there be a treaty between me and you as there was between my father and your father. See, I have sent you a gift of silver and gold. Now go and break your treaty with Baasha king of Israel, so that he will withdraw from me.”"
+hebrew: "בְּרִית֙ בֵּינִ֣י וּבֵינֶ֔ךָ בֵּ֥ין אָבִ֖י וּבֵ֣ין אָבִ֑יךָ הִנֵּה֩ שָׁלַ֨חְתִּֽי לְךָ֥ שֹׁ֙חַד֙ כֶּ֣סֶף וְזָהָ֔ב לֵ֣ךְ הָפֵ֗רָה אֶת־ בְּרִֽיתְךָ֙ אֶת־ בַּעְשָׁ֣א מֶֽלֶךְ־ יִשְׂרָאֵ֔ל וְיַעֲלֶ֖ה מֵעָלָֽי׃"
+pericope: "[[1Kgs.15.16 War between Asa and Baasha|War between Asa and Baasha]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 15
+book/chapter: "[[1Kgs.15|1 Kings 15]]"
+chronological_order: 554
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic ASA|ASA]]"
+- "[[topic BAASHA|BAASHA]]"
+- "[[topic BEN-HADAD|BEN-HADAD]]"
+- "[[topic BRIBERY|BRIBERY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic RAMAH|RAMAH]]"
+- "[[topic TREATY|TREATY]]"
+strongs:
+- "[[H1285]]"
+- "[[H0996G]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H9031]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H9021]]"
+- "[[H2009]]"
+- "[[H7971G]]"
+- "[[H9005]]"
+- "[[H7810]]"
+- "[[H3701G]]"
+- "[[H2091]]"
+- "[[H1980G]]"
+- "[[H6565A]]"
+- "[[H9012]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0854]]"
+- "[[H1201]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H5927G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 15:19**<big><big>[[1Kgs.15.16 War between Asa and Baasha|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] a league between me and thee, [and] between my father and thy father: behold, I have sent unto thee a present of silver and gold; come and break thy league with Baasha king of Israel, that he may depart from me.
 <small><sub>**BSB:**</sub></small>
 “Let there be a treaty between me and you as there was between my father and your father. See, I have sent you a gift of silver and gold. Now go and break your treaty with Baasha king of Israel, so that he will withdraw from me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H1285\|בְּרִית֙]] [[H0996G\|בֵּינִ֣]][[H9030\|י]] [[H9002\|וּ]][[H0996G\|בֵינֶ֔]][[H9031\|ךָ]] [[H0996G\|בֵּ֥ין]] [[H0001G\|אָבִ֖]][[H9020\|י]] [[H9002\|וּ]][[H0996G\|בֵ֣ין]] [[H0001G\|אָבִ֑י]][[H9021\|ךָ]] [[H2009\|הִנֵּה֩]] [[H7971G\|שָׁלַ֨חְתִּֽי]] [[H9005\|לְ]][[H9031\|ךָ֥]] [[H7810\|שֹׁ֙חַד֙]] [[H3701G\|כֶּ֣סֶף]] [[H9002\|וְ]][[H2091\|זָהָ֔ב]] [[H1980G\|לֵ֣ךְ]] [[H6565A\|הָפֵ֗רָ]][[H9012\|ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִֽיתְ]][[H9021\|ךָ֙]] [[H0854\|אֶת]][[H9014\|־]] [[H1201\|בַּעְשָׁ֣א]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וְ]][[H5927G\|יַעֲלֶ֖ה]] [[H9006\|מֵ]][[H5921A\|עָלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic ASA|ASA]] • [[topic BAASHA|BAASHA]] • [[topic BEN-HADAD|BEN-HADAD]] • [[topic BRIBERY|BRIBERY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic RAMAH|RAMAH]] • [[topic TREATY|TREATY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.18|<< 1 Kings 15:18]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.20|1 Kings 15:20 >>]]</td></tr></table>
 

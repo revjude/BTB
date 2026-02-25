@@ -1,10 +1,56 @@
+---
+title: John 12:17
+type: Verse
+kjv: "The people therefore that was with him when he called Lazarus out of his grave, and raised him from the dead, bare record."
+bsb: "Meanwhile, many people who had been with Jesus when He called Lazarus from the tomb and raised him from the dead continued to testify."
+greek: "Ἐμαρτύρει οὖν ὁ ὄχλος ὁ ὢν μετ᾽ αὐτοῦ, ὅτε τὸν Λάζαρον ἐφώνησεν ἐκ τοῦ μνημείου καὶ ἤγειρεν αὐτὸν ἐκ νεκρῶν."
+pericope: "[[John.12.12 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAZARUS|LAZARUS]]"
+strongs:
+- "[[G3140]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G1510]]"
+- "[[G3326]]"
+- "[[G0846]]"
+- "[[G3753]]"
+- "[[G2976H]]"
+- "[[G5455]]"
+- "[[G1537]]"
+- "[[G3419]]"
+- "[[G2532]]"
+- "[[G1453]]"
+- "[[G3498]]"
+texts:
+- NKO
+---
+
 **John 12:17**<big><big>[[John.12.12 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The people therefore that was with him when he called Lazarus out of his grave, and raised him from the dead, bare record.
 <small><sub>**BSB:**</sub></small>
 Meanwhile, many people who had been with Jesus when He called Lazarus from the tomb and raised him from the dead continued to testify.
-<small><sub>**Literal:**</sub></small>
-was bearing witness therefore the crowd which is being with Him when <the> Lazarus He called out of the tomb and raised him out from [the] dead.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.16|<< John 12:16]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.18|John 12:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3140\|Ἐμαρτύρει]]  [[G3767\|οὖν]]  [[G3588\|ὁ]]  [[G3793\|ὄχλος]]  [[G3588\|ὁ]]  [[G1510\|ὢν]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ,]]  [[G3753\|ὅτε]]  [[G3588\|τὸν]]  [[G2976H\|Λάζαρον]]  [[G5455\|ἐφώνησεν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3419\|μνημείου]]  [[G2532\|καὶ]]  [[G1453\|ἤγειρεν]]  [[G0846\|αὐτὸν]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAZARUS|LAZARUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.16|<< John 12:16]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.18|John 12:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

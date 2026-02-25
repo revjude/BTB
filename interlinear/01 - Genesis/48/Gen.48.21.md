@@ -1,8 +1,64 @@
+---
+title: Genesis 48:21
+type: Verse
+kjv: "And Israel said unto Joseph, Behold, I die: but God shall be with you, and bring you again unto the land of your fathers."
+bsb: "Then Israel said to Joseph, “Look, I am about to die, but God will be with you and bring you back to the land of your fathers."
+hebrew: "וַיֹּ֤אמֶר יִשְׂרָאֵל֙ אֶל־ יוֹסֵ֔ף הִנֵּ֥ה אָנֹכִ֖י מֵ֑ת וְהָיָ֤ה אֱלֹהִים֙ עִמָּכֶ֔ם וְהֵשִׁ֣יב אֶתְכֶ֔ם אֶל־ אֶ֖רֶץ אֲבֹתֵיכֶֽם׃"
+pericope: "[[Gen.48.1 Jacob Blesses Ephraim and Manasseh|Jacob Blesses Ephraim and Manasseh]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 48
+book/chapter: "[[Gen.48|Genesis 48]]"
+chronological_order: 90
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic JACOB|JACOB]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3478]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3130G]]"
+- "[[H2009]]"
+- "[[H0595]]"
+- "[[H4191]]"
+- "[[H1961]]"
+- "[[H0430G]]"
+- "[[H5973A]]"
+- "[[H9036]]"
+- "[[H7725J]]"
+- "[[H0853]]"
+- "[[H0776G]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 48:21**<big><big>[[Gen.48.1 Jacob Blesses Ephraim and Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Israel said unto Joseph, Behold, I die: but God shall be with you, and bring you again unto the land of your fathers.
 <small><sub>**BSB:**</sub></small>
 Then Israel said to Joseph, “Look, I am about to die, but God will be with you and bring you back to the land of your fathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3478\|יִשְׂרָאֵל֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3130G\|יוֹסֵ֔ף]] [[H2009\|הִנֵּ֥ה]] [[H0595\|אָנֹכִ֖י]] [[H4191\|מֵ֑ת]] [[H9001\|וְ]][[H1961\|הָיָ֤ה]] [[H0430G\|אֱלֹהִים֙]] [[H5973A\|עִמָּ]][[H9036\|כֶ֔ם]] [[H9001\|וְ]][[H7725J\|הֵשִׁ֣יב]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֖רֶץ]] [[H0001G\|אֲבֹתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic INHERITANCE|INHERITANCE]] • [[topic JACOB|JACOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.48.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.48.20|<< Genesis 48:20]]</td><td align="center" style="border:none;">[[Gen.48|Genesis 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.48.22|Genesis 48:22 >>]]</td></tr></table>
 

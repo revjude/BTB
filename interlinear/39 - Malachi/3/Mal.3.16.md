@@ -1,8 +1,68 @@
+---
+title: Malachi 3:16
+type: Verse
+kjv: "Then they that feared the LORD spake often one to another: and the LORD hearkened, and heard it, and a book of remembrance was written before him for them that feared the LORD, and that thought upon his name."
+bsb: "At that time those who feared the LORD spoke with one another, and the LORD listened and heard them. So a scroll of remembrance was written before Him regarding those who feared the LORD and honored His name."
+hebrew: "אָ֧ז נִדְבְּר֛וּ יִרְאֵ֥י יְהוָ֖ה אִ֣ישׁ אֶת־ רֵעֵ֑הוּ וַיַּקְשֵׁ֤ב יְהוָה֙ וַיִּשְׁמָ֔ע וַ֠יִּכָּתֵב סֵ֣פֶר זִכָּר֤וֹן לְפָנָיו֙ לְיִרְאֵ֣י יְהוָ֔ה וּלְחֹשְׁבֵ֖י שְׁמֽוֹ׃"
+pericope: "[[Mal.3.13 The Book of Remembrance|The Book of Remembrance]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 3
+book/chapter: "[[Mal.3|Malachi 3]]"
+chronological_order: 928
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic BOOK|BOOK]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H0227A]]"
+- "[[H1696G]]"
+- "[[H3373]]"
+- "[[H3068G]]"
+- "[[H0376I]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H7181]]"
+- "[[H8085G]]"
+- "[[H3789]]"
+- "[[H5612H]]"
+- "[[H2146]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9002]]"
+- "[[H2803H]]"
+- "[[H8034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 3:16**<big><big>[[Mal.3.13 The Book of Remembrance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they that feared the LORD spake often one to another: and the LORD hearkened, and heard [it], and a book of remembrance was written before him for them that feared the LORD, and that thought upon his name.
 <small><sub>**BSB:**</sub></small>
 At that time those who feared the LORD spoke with one another, and the LORD listened and heard them. So a scroll of remembrance was written before Him regarding those who feared the LORD and honored His name.
+<small><sub>**Hebrew:**</sub></small>
+[[H0227A\|אָ֧ז]] [[H1696G\|נִדְבְּר֛וּ]] [[H3373\|יִרְאֵ֥י]] [[H3068G\|יְהוָ֖ה]] [[H0376I\|אִ֣ישׁ]] [[H0854\|אֶת]][[H9014\|־]] [[H7453\|רֵעֵ֑]][[H9023\|הוּ]] [[H9001\|וַ]][[H7181\|יַּקְשֵׁ֤ב]] [[H3068G\|יְהוָה֙]] [[H9001\|וַ]][[H8085G\|יִּשְׁמָ֔ע]] [[H9001\|וַ֠]][[H3789\|יִּכָּתֵב]] [[H5612H\|סֵ֣פֶר]] [[H2146\|זִכָּר֤וֹן]] [[H9005\|לְ]][[H6440G\|פָנָי]][[H9023\|ו֙]] [[H9005\|לְ]][[H3373\|יִרְאֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וּ]][[H9005\|לְ]][[H2803H\|חֹשְׁבֵ֖י]] [[H8034\|שְׁמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOOK|BOOK]] • [[topic CHARACTER|CHARACTER]] • [[topic COMMUNION|COMMUNION]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOD|GOD]] • [[topic REVERENCE|REVERENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.15|<< Malachi 3:15]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.17|Malachi 3:17 >>]]</td></tr></table>
 

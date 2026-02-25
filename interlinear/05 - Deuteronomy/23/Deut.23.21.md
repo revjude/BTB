@@ -1,8 +1,67 @@
+---
+title: Deuteronomy 23:21
+type: Verse
+kjv: "When thou shalt vow a vow unto the LORD thy God, thou shalt not slack to pay it: for the LORD thy God will surely require it of thee; and it would be sin in thee."
+bsb: "If you make a vow to the LORD your God, do not be slow to keep it, because He will surely require it of you, and you will be guilty of sin."
+hebrew: "כִּֽי־ תִדֹּ֥ר נֶ֙דֶר֙ לַיהוָ֣ה אֱלֹהֶ֔יךָ לֹ֥א תְאַחֵ֖ר לְשַׁלְּמ֑וֹ כִּֽי־ דָּרֹ֨שׁ יִדְרְשֶׁ֜נּוּ יְהוָ֤ה אֱלֹהֶ֙יךָ֙ מֵֽעִמָּ֔ךְ וְהָיָ֥ה בְךָ֖ חֵֽטְא׃"
+pericope: "[[Deut.23.15 Miscellaneous Laws|Miscellaneous Laws]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 23
+book/chapter: "[[Deut.23|Deuteronomy 23]]"
+chronological_order: 219
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5087]]"
+- "[[H5088]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H0309]]"
+- "[[H7999A]]"
+- "[[H9033]]"
+- "[[H1875]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H9031]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H2399]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 23:21**<big><big>[[Deut.23.15 Miscellaneous Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou shalt vow a vow unto the LORD thy God, thou shalt not slack to pay it: for the LORD thy God will surely require it of thee; and it would be sin in thee.
 <small><sub>**BSB:**</sub></small>
 If you make a vow to the LORD your God, do not be slow to keep it, because He will surely require it of you, and you will be guilty of sin.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H5087\|תִדֹּ֥ר]] [[H5088\|נֶ֙דֶר֙]] [[H9005\|לַ]][[H3068G\|יהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H3808\|לֹ֥א]] [[H0309\|תְאַחֵ֖ר]] [[H9005\|לְ]][[H7999A\|שַׁלְּמ֑]][[H9033\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1875\|דָּרֹ֨שׁ]] [[H1875\|יִדְרְשֶׁ֜]][[H9033\|נּוּ]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֶ֙י]][[H9021\|ךָ֙]] [[H9006\|מֵֽ]][[H5973B\|עִמָּ֔]][[H9031\|ךְ]] [[H9001\|וְ]][[H1961\|הָיָ֥ה]] [[H9003\|בְ]][[H9031\|ךָ֖]] [[H2399\|חֵֽטְא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.20|<< Deuteronomy 23:20]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.22|Deuteronomy 23:22 >>]]</td></tr></table>
 

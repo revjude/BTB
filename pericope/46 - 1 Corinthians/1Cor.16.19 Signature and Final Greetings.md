@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Signature and Final Greetings
+type: Pericope
 pericope: "[[1Cor.16.19 Signature and Final Greetings|Signature and Final Greetings]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 16
 book/chapter: "[[1Cor.16|1 Corinthians 16]]"
-genre:
+chronological_order: 1073
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 6
 verses:
 - "[[1Cor.16.19]]"
 - "[[1Cor.16.20]]"
@@ -23,7 +30,7 @@ verses:
 - "[[1Cor.16.24]]"
 ---
 
-[[1Cor.16|1 Corinthians 16:19 - 1 Corinthians 16:24]]
+<small>[[1Cor.16|1 Corinthians 16:19-24]]</small>
 *Signature and Final Greetings*
 
 [[1Cor.16.19|19]] The churches of Asia salute you. Aquila and Priscilla salute you much in the Lord, with the church that is in their house.

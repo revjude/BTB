@@ -1,8 +1,54 @@
+---
+title: Jeremiah 24:4
+type: Verse
+kjv: "Again the word of the LORD came unto me, saying,"
+bsb: "Then the word of the LORD came to me, saying,"
+hebrew: "וַיְהִ֥י דְבַר־ יְהוָ֖ה אֵלַ֥י לֵאמֹֽר׃"
+pericope: "[[Jer.24.1 The Good and Bad Figs|The Good and Bad Figs]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 24
+book/chapter: "[[Jer.24|Jeremiah 24]]"
+chronological_order: 747
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 24:4**<big><big>[[Jer.24.1 The Good and Bad Figs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Again the word of the LORD came unto me, saying,
 <small><sub>**BSB:**</sub></small>
 Then the word of the LORD came to me, saying,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֥י]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֵלַ֥]][[H9030\|י]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PROPHETS|PROPHETS]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.24.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.24.3|<< Jeremiah 24:3]]</td><td align="center" style="border:none;">[[Jer.24|Jeremiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.24.5|Jeremiah 24:5 >>]]</td></tr></table>
 

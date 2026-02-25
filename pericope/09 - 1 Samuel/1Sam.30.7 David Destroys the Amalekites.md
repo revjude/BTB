@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Destroys the Amalekites
+type: Pericope
 pericope: "[[1Sam.30.7 David Destroys the Amalekites|David Destroys the Amalekites]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 30
 book/chapter: "[[1Sam.30|1 Samuel 30]]"
-genre:
+chronological_order: 309
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 14
 verses:
 - "[[1Sam.30.7]]"
 - "[[1Sam.30.8]]"
@@ -32,7 +39,7 @@ verses:
 - "[[1Sam.30.20]]"
 ---
 
-[[1Sam.30|1 Samuel 30:7 - 1 Samuel 30:20]]
+<small>[[1Sam.30|1 Samuel 30:7-20]]</small>
 *David Destroys the Amalekites*
 
 [[1Sam.30.7|7]] And David said to Abiathar the priest, Ahimelech’s son, I pray thee, bring me hither the ephod. And Abiathar brought thither the ephod to David.

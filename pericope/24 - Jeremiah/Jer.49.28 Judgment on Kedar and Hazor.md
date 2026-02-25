@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment on Kedar and Hazor
+type: Pericope
 pericope: "[[Jer.49.28 Judgment on Kedar and Hazor|Judgment on Kedar and Hazor]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 49
 book/chapter: "[[Jer.49|Jeremiah 49]]"
-genre:
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 6
 verses:
 - "[[Jer.49.28]]"
 - "[[Jer.49.29]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Jer.49.33]]"
 ---
 
-[[Jer.49|Jeremiah 49:28 - Jeremiah 49:33]]
+<small>[[Jer.49|Jeremiah 49:28-33]]</small>
 *Judgment on Kedar and Hazor*
 
 [[Jer.49.28|28]] Concerning Kedar, and concerning the kingdoms of Hazor, which Nebuchadrezzar king of Babylon shall smite, thus saith the LORD; Arise ye, go up to Kedar, and spoil the men of the east.

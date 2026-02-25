@@ -1,8 +1,71 @@
+---
+title: Jeremiah 11:14
+type: Verse
+kjv: "Therefore pray not thou for this people, neither lift up a cry or prayer for them: for I will not hear them in the time that they cry unto me for their trouble."
+bsb: "As for you, do not pray for these people. Do not raise up a cry or a prayer on their behalf, for I will not be listening when they call out to Me in their time of disaster."
+hebrew: "וְאַתָּ֗ה אַל־ תִּתְפַּלֵּל֙ בְּעַד־ הָעָ֣ם הַזֶּ֔ה וְאַל־ תִּשָּׂ֥א בַעֲדָ֖ם רִנָּ֣ה וּתְפִלָּ֑ה כִּ֣י אֵינֶ֣נִּי שֹׁמֵ֗עַ בְּעֵ֛ת קָרְאָ֥ם אֵלַ֖י בְּעַ֥ד רָעָתָֽם׃ ס"
+pericope: "[[Jer.11.1 The Broken Covenant|The Broken Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 11
+book/chapter: "[[Jer.11|Jeremiah 11]]"
+chronological_order: 728
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H6419]]"
+- "[[H1157]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H5375N]]"
+- "[[H9038]]"
+- "[[H7440]]"
+- "[[H8605]]"
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H9040]]"
+- "[[H8085G]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H7121G]]"
+- "[[H9048]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H7451C]]"
+- "[[H9028]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 11:14**<big><big>[[Jer.11.1 The Broken Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore pray not thou for this people, neither lift up a cry or prayer for them: for I will not hear [them] in the time that they cry unto me for their trouble.
 <small><sub>**BSB:**</sub></small>
 As for you, do not pray for these people. Do not raise up a cry or a prayer on their behalf, for I will not be listening when they call out to Me in their time of disaster.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֗ה]] [[H0408\|אַל]][[H9014\|־]] [[H6419\|תִּתְפַּלֵּל֙]] [[H1157\|בְּעַד]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H5375N\|תִּשָּׂ֥א]] [[H1157\|בַעֲדָ֖]][[H9038\|ם]] [[H7440\|רִנָּ֣ה]] [[H9002\|וּ]][[H8605\|תְפִלָּ֑ה]] [[H3588A\|כִּ֣י]] [[H0369\|אֵינֶ֣]][[H9040\|נִּי]] [[H8085G\|שֹׁמֵ֗עַ]] [[H9003\|בְּ]][[H6256\|עֵ֛ת]] [[H7121G\|קָרְאָ֥]][[H9048\|ם]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H1157\|בְּעַ֥ד]] [[H7451C\|רָעָתָֽ]][[H9028\|ם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.11.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.13|<< Jeremiah 11:13]]</td><td align="center" style="border:none;">[[Jer.11|Jeremiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.11.15|Jeremiah 11:15 >>]]</td></tr></table>
 
@@ -26,7 +89,7 @@ As for you, do not pray for these people. Do not raise up a cry or a prayer on t
 | call out they  |**<big>&#8207;[[H7121G\|קָרְאָ֥]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| ka.re.'A<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H0413\|אֵלַ֖]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H1157\|בְּעַ֥ד]]&#8207; </big>**| be.'Ad<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| calamity their  |**<big>&#8207;[[H7451C\|רָעָתָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ra.'a.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| calamity their  |**<big>&#8207;[[H7451C\|רָעָתָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ra.'a.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.13|<< Jeremiah 11:13]]</td><td align="center" style="border:none;">[[Jer.11|Jeremiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.11.15|Jeremiah 11:15 >>]]</td></tr></table>
 
 

@@ -1,10 +1,58 @@
+---
+title: Mark 14:32
+type: Verse
+kjv: "And they came to a place which was named Gethsemane: and he saith to his disciples, Sit ye here, while I shall pray."
+bsb: "Then they came to a place called Gethsemane, and Jesus told His disciples, “Sit here while I pray.”"
+jesus_said: "Sit ye here, while I shall pray."
+greek: "Καὶ ἔρχονται εἰς χωρίον οὗ τὸ ὄνομα Γεθσημανί, καὶ λέγει τοῖς μαθηταῖς αὐτοῦ· καθίσατε ὧδε ἕως προσεύξωμαι."
+pericope: "[[Mark.14.32 Jesus Prays at Gethsemane|Jesus Prays at Gethsemane]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GETHSEMANE|GETHSEMANE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G5564G]]"
+- "[[G3739]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G1068]]"
+- "[[G3004G]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G2523]]"
+- "[[G5602]]"
+- "[[G2193]]"
+- "[[G4336]]"
+texts:
+- NKO
+---
+
 **Mark 14:32**<big><big>[[Mark.14.32 Jesus Prays at Gethsemane|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they came to a place which was named Gethsemane: and he saith to his disciples, Sit ye here, while I shall pray.
 <small><sub>**BSB:**</sub></small>
 Then they came to a place called Gethsemane, and Jesus told His disciples, “Sit here while I pray.”
-<small><sub>**Literal:**</sub></small>
-And they come to a place of which the name [is] Gethsemane, and He says to the disciples of Him; do sit here while I may pray.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.31|<< Mark 14:31]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.33|Mark 14:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2064\|ἔρχονται]]  [[G1519\|εἰς]]  [[G5564G\|χωρίον]]  [[G3739\|οὗ]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G1068\|Γεθσημανί,]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς]]  [[G0846\|αὐτοῦ·]]  [[G2523\|καθίσατε]]  [[G5602\|ὧδε]]  [[G2193\|ἕως]]  [[G4336\|προσεύξωμαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GETHSEMANE|GETHSEMANE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.31|<< Mark 14:31]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.33|Mark 14:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

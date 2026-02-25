@@ -1,8 +1,56 @@
+---
+title: Proverbs 14:13
+type: Verse
+kjv: "Even in laughter the heart is sorrowful; and the end of that mirth is heaviness."
+bsb: "Even in laughter the heart may ache, and joy may end in sorrow."
+hebrew: "גַּם־ בִּשְׂח֥וֹק יִכְאַב־ לֵ֑ב וְאַחֲרִיתָ֖הּ שִׂמְחָ֣ה תוּגָֽה׃"
+pericope: "[[Prov.14.1 The Wise Woman|The Wise Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 14
+book/chapter: "[[Prov.14|Proverbs 14]]"
+chronological_order: 469
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic JOY|JOY]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H7814]]"
+- "[[H3510]]"
+- "[[H3820A]]"
+- "[[H9002]]"
+- "[[H0319]]"
+- "[[H9024]]"
+- "[[H8057]]"
+- "[[H8424]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 14:13**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even in laughter the heart is sorrowful; and the end of that mirth [is] heaviness.
 <small><sub>**BSB:**</sub></small>
 Even in laughter the heart may ache, and joy may end in sorrow.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּם]][[H9014\|־]] [[H9003\|בִּ]][[H7814\|שְׂח֥וֹק]] [[H3510\|יִכְאַב]][[H9014\|־]] [[H3820A\|לֵ֑ב]] [[H9002\|וְ]][[H0319\|אַחֲרִיתָ֖]][[H9024\|הּ]] [[H8057\|שִׂמְחָ֣ה]] [[H8424\|תוּגָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic HAPPINESS|HAPPINESS]] • [[topic JOY|JOY]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.12|<< Proverbs 14:12]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.14|Proverbs 14:14 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: Genesis 5:22
+type: Verse
+kjv: "And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:"
+bsb: "And after he had become the father of Methuselah, Enoch walked with God 300 years and had other sons and daughters."
+hebrew: "וַיִּתְהַלֵּ֨ךְ חֲנ֜וֹךְ אֶת־ הָֽאֱלֹהִ֗ים אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־ מְתוּשֶׁ֔לַח שְׁלֹ֥שׁ מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃"
+pericope: "[[Gen.5.18 God Takes Up Enoch|God Takes Up Enoch]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 5
+book/chapter: "[[Gen.5|Genesis 5]]"
+chronological_order: 5
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic ENOCH|ENOCH]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic METHUSELAH|METHUSELAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980I]]"
+- "[[H2585H]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H0310A]]"
+- "[[H3205]]"
+- "[[H9043]]"
+- "[[H0853]]"
+- "[[H4968]]"
+- "[[H7969]]"
+- "[[H3967]]"
+- "[[H8141]]"
+- "[[H1121A]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 5:22**<big><big>[[Gen.5.18 God Takes Up Enoch|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:
 <small><sub>**BSB:**</sub></small>
 And after he had become the father of Methuselah, Enoch walked with God 300 years and had other sons and daughters.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980I\|יִּתְהַלֵּ֨ךְ]] [[H2585H\|חֲנ֜וֹךְ]] [[H0854\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֗ים]] [[H0310A\|אַֽחֲרֵי֙]] [[H3205\|הוֹלִיד֣]][[H9043\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H4968\|מְתוּשֶׁ֔לַח]] [[H7969\|שְׁלֹ֥שׁ]] [[H3967\|מֵא֖וֹת]] [[H8141\|שָׁנָ֑ה]] [[H9001\|וַ]][[H3205\|יּ֥וֹלֶד]] [[H1121A\|בָּנִ֖ים]] [[H9002\|וּ]][[H1323G\|בָנֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMUNION|COMMUNION]] • [[topic ENOCH|ENOCH]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic METHUSELAH|METHUSELAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.5.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.21|<< Genesis 5:21]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.23|Genesis 5:23 >>]]</td></tr></table>
 

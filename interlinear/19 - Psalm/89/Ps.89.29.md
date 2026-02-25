@@ -1,8 +1,60 @@
+---
+title: Psalm 89:29
+type: Verse
+kjv: "His seed also will I make to endure for ever, and his throne as the days of heaven."
+bsb: "I will establish his line forever, his throne as long as the heavens endure."
+hebrew: "וְשַׂמְתִּ֣י לָעַ֣ד זַרְע֑וֹ וְ֝כִסְא֗וֹ כִּימֵ֥י שָׁמָֽיִם׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H9005]]"
+- "[[H5703]]"
+- "[[H2233H]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3678G]]"
+- "[[H9004]]"
+- "[[H3117G]]"
+- "[[H8064]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 89:29**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His seed also will I make [to endure] for ever, and his throne as the days of heaven.
 <small><sub>**BSB:**</sub></small>
 I will establish his line forever, his throne as long as the heavens endure.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7760A\|שַׂמְתִּ֣י]] [[H9005\|לָ]][[H5703\|עַ֣ד]] [[H2233H\|זַרְע֑]][[H9023\|וֹ]] [[H9002\|וְ֝]][[H3678G\|כִסְא֗]][[H9023\|וֹ]] [[H9004\|כִּ]][[H3117G\|ימֵ֥י]] [[H8064\|שָׁמָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COVENANT|COVENANT]] • [[topic DAVID|DAVID]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.28|<< Psalms 89:28]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.30|Psalms 89:30 >>]]</td></tr></table>
 

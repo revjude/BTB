@@ -1,8 +1,57 @@
+---
+title: Job 2:2
+type: Verse
+kjv: "And the LORD said unto Satan, From whence comest thou? And Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it."
+bsb: "“Where have you come from?” said the LORD to Satan. “From roaming through the earth,” he replied, “and walking back and forth in it.”"
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֶל־ הַשָּׂטָ֔ן אֵ֥י מִזֶּ֖ה תָּבֹ֑א וַיַּ֨עַן הַשָּׂטָ֤ן אֶת־ יְהוָה֙ וַיֹּאמַ֔ר מִשֻּׁ֣ט בָּאָ֔רֶץ וּמֵהִתְהַלֵּ֖ךְ בָּֽהּ׃"
+pericope: "[[Job.2.1 Job Loses His Health|Job Loses His Health]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 2
+book/chapter: "[[Job.2|Job 2]]"
+chronological_order: 13
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7854]]"
+- "[[H0335]]"
+- "[[H9006]]"
+- "[[H2088]]"
+- "[[H0935G]]"
+- "[[H6030B]]"
+- "[[H0853]]"
+- "[[H7751A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H1980I]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 2:2**<big><big>[[Job.2.1 Job Loses His Health|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Satan, From whence comest thou? And Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it.
 <small><sub>**BSB:**</sub></small>
 “Where have you come from?” said the LORD to Satan. “From roaming through the earth,” he replied, “and walking back and forth in it.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H7854\|שָּׂטָ֔ן]] [[H0335\|אֵ֥י]] [[H9006\|מִ]][[H2088\|זֶּ֖ה]] [[H0935G\|תָּבֹ֑א]] [[H9001\|וַ]][[H6030B\|יַּ֨עַן]] [[H9009\|הַ]][[H7854\|שָּׂטָ֤ן]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H9001\|וַ]][[H0559\|יֹּאמַ֔ר]] [[H9006\|מִ]][[H7751A\|שֻּׁ֣ט]] [[H9003\|בָּ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וּ]][[H9006\|מֵ]][[H1980I\|הִתְהַלֵּ֖ךְ]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.2.1|<< Job 2:1]]</td><td align="center" style="border:none;">[[Job.2|Job 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.2.3|Job 2:3 >>]]</td></tr></table>
 

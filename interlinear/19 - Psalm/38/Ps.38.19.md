@@ -1,8 +1,56 @@
+---
+title: Psalm 38:19
+type: Verse
+kjv: "But mine enemies are lively, and they are strong: and they that hate me wrongfully are multiplied."
+bsb: "Many are my enemies without cause, and many hate me without reason."
+hebrew: "וְֽ֭אֹיְבַי חַיִּ֣ים עָצֵ֑מוּ וְרַבּ֖וּ שֹׂנְאַ֣י שָֽׁקֶר׃"
+pericope: "[[Ps.38.1 Do Not Rebuke Me in Your Anger|Do Not Rebuke Me in Your Anger]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 38
+book/chapter: "[[Ps.38|Psalm 38]]"
+chronological_order: 424
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H0341]]"
+- "[[H9020]]"
+- "[[H2416A]]"
+- "[[H6105A]]"
+- "[[H7231]]"
+- "[[H8130]]"
+- "[[H9030]]"
+- "[[H8267]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 38:19**<big><big>[[Ps.38.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But mine enemies [are] lively, [and] they are strong: and they that hate me wrongfully are multiplied.
 <small><sub>**BSB:**</sub></small>
 Many are my enemies without cause, and many hate me without reason.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְֽ֭]][[H0341\|אֹיְבַ]][[H9020\|י]] [[H2416A\|חַיִּ֣ים]] [[H6105A\|עָצֵ֑מוּ]] [[H9002\|וְ]][[H7231\|רַבּ֖וּ]] [[H8130\|שֹׂנְאַ֣]][[H9030\|י]] [[H8267\|שָֽׁקֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CONVICTION|CONVICTION]] • [[topic MALICE|MALICE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.38.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.38.18|<< Psalms 38:18]]</td><td align="center" style="border:none;">[[Ps.38|Psalms 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.38.20|Psalms 38:20 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Hosea 8:6
+type: Verse
+kjv: "For from Israel was it also: the workman made it; therefore it is not God: but the calf of Samaria shall be broken in pieces."
+bsb: "For this thing is from Israel—a craftsman made it, and it is not God. It will be broken to pieces, that calf of Samaria."
+hebrew: "כִּ֤י מִיִּשְׂרָאֵל֙ וְה֔וּא חָרָ֣שׁ עָשָׂ֔הוּ וְלֹ֥א אֱלֹהִ֖ים ה֑וּא כִּֽי־ שְׁבָבִ֣ים יִֽהְיֶ֔ה עֵ֖גֶל שֹׁמְרֽוֹן׃"
+pericope: "[[Hos.8.1 Israel Will Reap the Whirlwind|Israel Will Reap the Whirlwind]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 8
+book/chapter: "[[Hos.8|Hosea 8]]"
+chronological_order: 649
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic CALF|CALF]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9006]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H2796]]"
+- "[[H6213H]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H0430G]]"
+- "[[H9014]]"
+- "[[H7616]]"
+- "[[H1961]]"
+- "[[H5695]]"
+- "[[H8111]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 8:6**<big><big>[[Hos.8.1 Israel Will Reap the Whirlwind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For from Israel [was] it also: the workman made it; therefore it [is] not God: but the calf of Samaria shall be broken in pieces.
 <small><sub>**BSB:**</sub></small>
 For this thing is from Israel—a craftsman made it, and it is not God. It will be broken to pieces, that calf of Samaria.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H9006\|מִ]][[H3478\|יִּשְׂרָאֵל֙]] [[H9002\|וְ]][[H1931\|ה֔וּא]] [[H2796\|חָרָ֣שׁ]] [[H6213H\|עָשָׂ֔]][[H9033\|הוּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0430G\|אֱלֹהִ֖ים]] [[H1931\|ה֑וּא]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7616\|שְׁבָבִ֣ים]] [[H1961\|יִֽהְיֶ֔ה]] [[H5695\|עֵ֖גֶל]] [[H8111\|שֹׁמְרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALF|CALF]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.8.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.8.5|<< Hosea 8:5]]</td><td align="center" style="border:none;">[[Hos.8|Hosea 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.8.7|Hosea 8:7 >>]]</td></tr></table>
 

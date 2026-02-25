@@ -1,8 +1,58 @@
+---
+title: 2 Kings 14:3
+type: Verse
+kjv: "And he did that which was right in the sight of the LORD, yet not like David his father: he did according to all things as Joash his father did."
+bsb: "And he did what was right in the eyes of the LORD, but not as his father David had done. He did everything as his father Joash had done."
+hebrew: "וַיַּ֤עַשׂ הַיָּשָׁר֙ בְּעֵינֵ֣י יְהוָ֔ה רַ֕ק לֹ֖א כְּדָוִ֣ד אָבִ֑יו כְּכֹ֧ל אֲשֶׁר־ עָשָׂ֛ה יוֹאָ֥שׁ אָבִ֖יו עָשָֽׂה׃"
+pericope: "[[2Kgs.14.1 Amaziah Reigns in Judah|Amaziah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 14
+book/chapter: "[[2Kgs.14|2 Kings 14]]"
+chronological_order: 591
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H3477G]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H3068G]]"
+- "[[H7535]]"
+- "[[H3808]]"
+- "[[H9004]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3101I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 14:3**<big><big>[[2Kgs.14.1 Amaziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he did [that which was] right in the sight of the LORD, yet not like David his father: he did according to all things as Joash his father did.
 <small><sub>**BSB:**</sub></small>
 And he did what was right in the eyes of the LORD, but not as his father David had done. He did everything as his father Joash had done.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֤עַשׂ]] [[H9009\|הַ]][[H3477G\|יָּשָׁר֙]] [[H9003\|בְּ]][[H5869I\|עֵינֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H7535\|רַ֕ק]] [[H3808\|לֹ֖א]] [[H9004\|כְּ]][[H1732\|דָוִ֣ד]] [[H0001G\|אָבִ֑י]][[H9023\|ו]] [[H9004\|כְּ]][[H3605\|כֹ֧ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|עָשָׂ֛ה]] [[H3101I\|יוֹאָ֥שׁ]] [[H0001G\|אָבִ֖י]][[H9023\|ו]] [[H6213A\|עָשָֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.14.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.2|<< 2 Kings 14:2]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.4|2 Kings 14:4 >>]]</td></tr></table>
 

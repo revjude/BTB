@@ -1,8 +1,72 @@
+---
+title: 2 Samuel 15:7
+type: Verse
+kjv: "And it came to pass after forty years, that Absalom said unto the king, I pray thee, let me go and pay my vow, which I have vowed unto the LORD, in Hebron."
+bsb: "After four years had passed, Absalom said to the king, “Please let me go to Hebron to fulfill a vow I have made to the LORD."
+hebrew: "וַיְהִ֕י מִקֵּ֖ץ אַרְבָּעִ֣ים שָׁנָ֑ה וַיֹּ֤אמֶר אַבְשָׁלוֹם֙ אֶל־ הַמֶּ֔לֶךְ אֵ֣לֲכָה נָּ֗א וַאֲשַׁלֵּ֛ם אֶת־ נִדְרִ֛י אֲשֶׁר־ נָדַ֥רְתִּי לַֽיהוָ֖ה בְּחֶבְרֽוֹן׃"
+pericope: "[[2Sam.15.1 Absalom’s Conspiracy|Absalom’s Conspiracy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 15
+book/chapter: "[[2Sam.15|2 Samuel 15]]"
+chronological_order: 414
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CONSECRATION|CONSECRATION]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic USURPATION|USURPATION]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H7093]]"
+- "[[H0705]]"
+- "[[H8141]]"
+- "[[H0559]]"
+- "[[H0053]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H1980G]]"
+- "[[H4994]]"
+- "[[H9002]]"
+- "[[H7999A]]"
+- "[[H0853]]"
+- "[[H5088]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H5087]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H2275A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 15:7**<big><big>[[2Sam.15.1 Absalom’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass after forty years, that Absalom said unto the king, I pray thee, let me go and pay my vow, which I have vowed unto the LORD, in Hebron.
 <small><sub>**BSB:**</sub></small>
 After four years had passed, Absalom said to the king, “Please let me go to Hebron to fulfill a vow I have made to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֕י]] [[H9006\|מִ]][[H7093\|קֵּ֖ץ]] [[H0705\|אַרְבָּעִ֣ים]] [[H8141\|שָׁנָ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0053\|אַבְשָׁלוֹם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H1980G\|אֵ֣לֲכָה]] [[H4994\|נָּ֗א]] [[H9002\|וַ]][[H7999A\|אֲשַׁלֵּ֛ם]] [[H0853\|אֶת]][[H9014\|־]] [[H5088\|נִדְרִ֛]][[H9020\|י]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5087\|נָדַ֥רְתִּי]] [[H9005\|לַֽ]][[H3068G\|יהוָ֖ה]] [[H9003\|בְּ]][[H2275A\|חֶבְרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CONSECRATION|CONSECRATION]] • [[topic COVENANT|COVENANT]] • [[topic DECEPTION|DECEPTION]] • [[topic USURPATION|USURPATION]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.6|<< 2 Samuel 15:6]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.8|2 Samuel 15:8 >>]]</td></tr></table>
 

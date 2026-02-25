@@ -1,10 +1,62 @@
+---
+title: Luke 2:43
+type: Verse
+kjv: "And when they had fulfilled the days, as they returned, the child Jesus tarried behind in Jerusalem; and Joseph and his mother knew not of it."
+bsb: "When those days were over and they were returning home, the boy Jesus remained behind in Jerusalem, but His parents were unaware He had stayed."
+greek: "καὶ τελειωσάντων τὰς ἡμέρας ἐν τῷ ὑποστρέφειν αὐτοὺς ὑπέμεινεν Ἰησοῦς ὁ παῖς ἐν Ἰερουσαλήμ, καὶ οὐκ ἔγνωσαν οἱ γονεῖς Ἰωσὴφ καὶ ἡ μήτηρ αὐτοῦ."
+pericope: "[[Luke.2.41 The Boy Jesus at the Temple|The Boy Jesus at the Temple]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[G2532]]"
+- "[[G5048]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1722]]"
+- "[[G5290]]"
+- "[[G0846]]"
+- "[[G5278]]"
+- "[[G2424G]]"
+- "[[G3816]]"
+- "[[G2419]]"
+- "[[G3756]]"
+- "[[G1097]]"
+- "[[G1118]]"
+- "[[G2501G]]"
+- "[[G3384]]"
+texts:
+- NKO
+- N(k)O
+- NO
+- K
+---
+
 **Luke 2:43**<big><big>[[Luke.2.41 The Boy Jesus at the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they had fulfilled the days, as they returned, the child Jesus tarried behind in Jerusalem; and Joseph and his mother knew not [of it].
 <small><sub>**BSB:**</sub></small>
 When those days were over and they were returning home, the boy Jesus remained behind in Jerusalem, but His parents were unaware He had stayed.
-<small><sub>**Literal:**</sub></small>
-and when having completed the days in the returning of them remained behind Jesus the boy in Jerusalem, But not knew the parents Joseph and the mother of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.42|<< Luke 2:42]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.44|Luke 2:44 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5048\|τελειωσάντων]]  [[G3588\|τὰς]]  [[G2250\|ἡμέρας]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G5290\|ὑποστρέφειν]]  [[G0846\|αὐτοὺς]]  [[G5278\|ὑπέμεινεν]]  [[G2424G\|Ἰησοῦς]]  [[G3588\|ὁ]]  [[G3816\|παῖς]]  [[G1722\|ἐν]]  [[G2419\|Ἰερουσαλήμ,]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1097\|ἔγνωσαν]]  [[G3588\|οἱ]]  [[G1118\|γονεῖς]]  [[G2501G\|Ἰωσὴφ]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G3384\|μήτηρ]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic PASSOVER|PASSOVER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.42|<< Luke 2:42]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.44|Luke 2:44 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

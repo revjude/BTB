@@ -1,8 +1,56 @@
+---
+title: Proverbs 16:7
+type: Verse
+kjv: "When a man’s ways please the LORD, he maketh even his enemies to be at peace with him."
+bsb: "When a man’s ways please the LORD, He makes even the man’s enemies live at peace with him."
+hebrew: "בִּרְצ֣וֹת יְ֭הוָה דַּרְכֵי־ אִ֑ישׁ גַּם־ א֝וֹיְבָ֗יו יַשְׁלִ֥ם אִתּֽוֹ׃"
+pericope: "[[Prov.16.1 The Reply of the Tongue Is from the LORD|The Reply of the Tongue Is from the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 16
+book/chapter: "[[Prov.16|Proverbs 16]]"
+chronological_order: 471
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9003]]"
+- "[[H7521]]"
+- "[[H3068G]]"
+- "[[H1870G]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H1571]]"
+- "[[H0341]]"
+- "[[H9023]]"
+- "[[H7999B]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 16:7**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When a man’s ways please the LORD, he maketh even his enemies to be at peace with him.
 <small><sub>**BSB:**</sub></small>
-When a man’s ways please the LORD, He makes even the man’s enemies live at peace with him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.6|<< Proverbs 16:6]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.8|Proverbs 16:8 >>]]</td></tr></table>
+When a man’s ways please the LORD, He makes even the man’s enemies live at peace with him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H7521\|רְצ֣וֹת]] [[H3068G\|יְ֭הוָה]] [[H1870G\|דַּרְכֵי]][[H9014\|־]] [[H0376G\|אִ֑ישׁ]] [[H1571\|גַּם]][[H9014\|־]] [[H0341\|א֝וֹיְבָ֗י]][[H9023\|ו]] [[H7999B\|יַשְׁלִ֥ם]] [[H0854\|אִתּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic PEACE|PEACE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.6|<< Proverbs 16:6]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.8|Proverbs 16:8 >>]]</td></tr></table>
 
 | Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

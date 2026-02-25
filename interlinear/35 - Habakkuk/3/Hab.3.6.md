@@ -1,8 +1,64 @@
+---
+title: Habakkuk 3:6
+type: Verse
+kjv: "He stood, and measured the earth: he beheld, and drove asunder the nations; and the everlasting mountains were scattered, the perpetual hills did bow: his ways are everlasting."
+bsb: "He stood and measured the earth; He looked and startled the nations; the ancient mountains crumbled; the perpetual hills collapsed. His ways are everlasting."
+hebrew: "עָמַ֣ד׀ וַיְמֹ֣דֶד אֶ֗רֶץ רָאָה֙ וַיַּתֵּ֣ר גּוֹיִ֔ם וַיִּתְפֹּֽצְצוּ֙ הַרְרֵי־ עַ֔ד שַׁח֖וּ גִּבְע֣וֹת עוֹלָ֑ם הֲלִיכ֥וֹת עוֹלָ֖ם לֽוֹ׃"
+pericope: "[[Hab.3.1 Habakkuk’s Prayer|Habakkuk’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 3
+book/chapter: "[[Hab.3|Habakkuk 3]]"
+chronological_order: 740
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HILLS|HILLS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H5975G]]"
+- "[[H9015]]"
+- "[[H9001]]"
+- "[[H4128]]"
+- "[[H0776G]]"
+- "[[H7200G]]"
+- "[[H5425A]]"
+- "[[H1471A]]"
+- "[[H6327A]]"
+- "[[H2042]]"
+- "[[H9014]]"
+- "[[H5703]]"
+- "[[H7817]]"
+- "[[H1389I]]"
+- "[[H5769G]]"
+- "[[H1979]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 3:6**<big><big>[[Hab.3.1 Habakkuk’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He stood, and measured the earth: he beheld, and drove asunder the nations; and the everlasting mountains were scattered, the perpetual hills did bow: his ways [are] everlasting.
 <small><sub>**BSB:**</sub></small>
 He stood and measured the earth; He looked and startled the nations; the ancient mountains crumbled; the perpetual hills collapsed. His ways are everlasting.
+<small><sub>**Hebrew:**</sub></small>
+[[H5975G\|עָמַ֣ד]][[H9015\|׀]] [[H9001\|וַ]][[H4128\|יְמֹ֣דֶד]] [[H0776G\|אֶ֗רֶץ]] [[H7200G\|רָאָה֙]] [[H9001\|וַ]][[H5425A\|יַּתֵּ֣ר]] [[H1471A\|גּוֹיִ֔ם]] [[H9001\|וַ]][[H6327A\|יִּתְפֹּֽצְצוּ֙]] [[H2042\|הַרְרֵי]][[H9014\|־]] [[H5703\|עַ֔ד]] [[H7817\|שַׁח֖וּ]] [[H1389I\|גִּבְע֣וֹת]] [[H5769G\|עוֹלָ֑ם]] [[H1979\|הֲלִיכ֥וֹת]] [[H5769G\|עוֹלָ֖ם]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic GOD|GOD]] • [[topic HILLS|HILLS]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.5|<< Habakkuk 3:5]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.7|Habakkuk 3:7 >>]]</td></tr></table>
 

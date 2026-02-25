@@ -1,8 +1,62 @@
+---
+title: Genesis 42:20
+type: Verse
+kjv: "But bring your youngest brother unto me; so shall your words be verified, and ye shall not die. And they did so."
+bsb: "Then bring your youngest brother to me so that your words can be verified, that you may not die.” And to this they consented."
+hebrew: "וְאֶת־ אֲחִיכֶ֤ם הַקָּטֹן֙ תָּבִ֣יאוּ אֵלַ֔י וְיֵאָמְנ֥וּ דִבְרֵיכֶ֖ם וְלֹ֣א תָמ֑וּתוּ וַיַּעֲשׂוּ־ כֵֽן׃"
+pericope: "[[Gen.42.1 Joseph’s Brothers Sent to Egypt|Joseph’s Brothers Sent to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 42
+book/chapter: "[[Gen.42|Genesis 42]]"
+chronological_order: 84
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic DISSEMBLING|DISSEMBLING]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0251G]]"
+- "[[H9026]]"
+- "[[H9009]]"
+- "[[H6996H]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0539]]"
+- "[[H1697G]]"
+- "[[H3808]]"
+- "[[H4191]]"
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H3651C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 42:20**<big><big>[[Gen.42.1 Joseph’s Brothers Sent to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But bring your youngest brother unto me; so shall your words be verified, and ye shall not die. And they did so.
 <small><sub>**BSB:**</sub></small>
 Then bring your youngest brother to me so that your words can be verified, that you may not die.” And to this they consented.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0251G\|אֲחִי]][[H9026\|כֶ֤ם]] [[H9009\|הַ]][[H6996H\|קָּטֹן֙]] [[H0935P\|תָּבִ֣יאוּ]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H9002\|וְ]][[H0539\|יֵאָמְנ֥וּ]] [[H1697G\|דִבְרֵי]][[H9026\|כֶ֖ם]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H4191\|תָמ֑וּתוּ]] [[H9001\|וַ]][[H6213A\|יַּעֲשׂוּ]][[H9014\|־]] [[H3651C\|כֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic DISSEMBLING|DISSEMBLING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.19|<< Genesis 42:19]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.21|Genesis 42:21 >>]]</td></tr></table>
 

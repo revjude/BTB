@@ -1,6 +1,64 @@
+---
+title: LXX Deuteronomy 16:19
+type: Verse
+lxx: "They shall not turn aside a judgment, they shall not discriminate a person, nor shall they take bribes; for the bribes make blind the eyes of the wise, and lift away the words of the just."
+greek: "ουκ εκκλινούσι κρίσιν ουκ επιγνώσονται πρόσωπον ουδέ λήψονται δώρα τα γαρ δώρα εκτυφλοί οφθαλμούς σοφών και εξαίρει λόγους δικαίων"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 16
+book/chapter: "[[Deut.16|Deuteronomy 16]]"
+chronological_order: 212
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BRIBERY|BRIBERY]]"
+- "[[topic INJUSTICE|INJUSTICE]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic JUSTICE|JUSTICE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G3756]]"
+- "[[G1578]]"
+- "[[G2920]]"
+- "[[G3756]]"
+- "[[G1921]]"
+- "[[G4383]]"
+- "[[G3761]]"
+- "[[G2983]]"
+- "[[G1435]]"
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G1435]]"
+- "[[G7167]]"
+- "[[G3788]]"
+- "[[G4680]]"
+- "[[G2532]]"
+- "[[G1808]]"
+- "[[G3056]]"
+- "[[G1342]]"
+---
+
 **LXX Deuteronomy 16:19** 
 <small><sub>**LXX:**</sub></small>
 They shall not turn aside a judgment, they shall not discriminate a person, nor shall they take bribes; for the bribes make blind \[the\] eyes of \[the\] wise, and lift away \[the\] words of \[the\] just. 
+<small><sub>**Greek:**</sub></small>
+[[G3756\|ουκ]] [[G1578\|εκκλινούσι]] [[G2920\|κρίσιν]] [[G3756\|ουκ]] [[G1921\|επιγνώσονται]] [[G4383\|πρόσωπον]] [[G3761\|ουδέ]] [[G2983\|λήψονται]] [[G1435\|δώρα]] [[G3588\|τα]] [[G1063\|γαρ]] [[G1435\|δώρα]] [[G7167\|εκτυφλοί]] [[G3788\|οφθαλμούς]] [[G4680\|σοφών]] [[G2532\|και]] [[G1808\|εξαίρει]] [[G3056\|λόγους]] [[G1342\|δικαίων]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIBERY|BRIBERY]] • [[topic INJUSTICE|INJUSTICE]] • [[topic INTEGRITY|INTEGRITY]] • [[topic JUDGE|JUDGE]] • [[topic JUSTICE|JUSTICE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.16.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.18|<< Deuteronomy 16:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.20|Deuteronomy 16:20 >>]]</td></tr></table>
 
@@ -23,6 +81,6 @@ They shall not turn aside a judgment, they shall not discriminate a person, nor 
 | lift away | **<big>[[G1808\|εξαίρει]]</big>** |
 | \[the\] words | **<big>[[G3056\|λόγους]]</big>** |
 | of \[the\] just. | **<big>[[G1342\|δικαίων]]</big>** |
-[[Deut.16.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.18|<< Deuteronomy 16:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.20|Deuteronomy 16:20 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.18|<< Deuteronomy 16:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.20|Deuteronomy 16:20 >>]]</td></tr></table>
 
 

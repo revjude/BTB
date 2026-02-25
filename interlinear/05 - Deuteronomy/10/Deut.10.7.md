@@ -1,8 +1,61 @@
+---
+title: Deuteronomy 10:7
+type: Verse
+kjv: "From thence they journeyed unto Gudgodah; and from Gudgodah to Jotbath, a land of rivers of waters."
+bsb: "From there they traveled to Gudgodah, and from Gudgodah to Jotbathah, a land with streams of water."
+hebrew: "מִשָּׁ֥ם נָסְע֖וּ הַגֻּדְגֹּ֑דָה וּמִן־ הַגֻּדְגֹּ֣דָה יָטְבָ֔תָה אֶ֖רֶץ נַ֥חֲלֵי מָֽיִם׃"
+pericope: "[[Deut.10.1 New Stone Tablets|New Stone Tablets]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 10
+book/chapter: "[[Deut.10|Deuteronomy 10]]"
+chronological_order: 206
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic GUDGODAH|GUDGODAH]]"
+- "[[topic ITINERARY|ITINERARY]]"
+- "[[topic JOTBAH|JOTBAH]]"
+strongs:
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H5265]]"
+- "[[H9009]]"
+- "[[H1412]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H3193]]"
+- "[[H0776G]]"
+- "[[H5158A]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 10:7**<big><big>[[Deut.10.1 New Stone Tablets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From thence they journeyed unto Gudgodah; and from Gudgodah to Jotbath, a land of rivers of waters.
 <small><sub>**BSB:**</sub></small>
 From there they traveled to Gudgodah, and from Gudgodah to Jotbathah, a land with streams of water.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H8033G\|שָּׁ֥ם]] [[H5265\|נָסְע֖וּ]] [[H9009\|הַ]][[H1412\|גֻּדְגֹּ֑דָ]][[H9011\|ה]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1412\|גֻּדְגֹּ֣דָ]][[H9011\|ה]] [[H3193\|יָטְבָ֔תָה]] [[H0776G\|אֶ֖רֶץ]] [[H5158A\|נַ֥חֲלֵי]] [[H4325G\|מָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GUDGODAH|GUDGODAH]] • [[topic ITINERARY|ITINERARY]] • [[topic JOTBAH|JOTBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.10.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.6|<< Deuteronomy 10:6]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.8|Deuteronomy 10:8 >>]]</td></tr></table>
 

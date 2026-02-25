@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Manasseh’s Repentance and Restoration
+type: Pericope
 pericope: "[[2Chr.33.10 Manasseh’s Repentance and Restoration|Manasseh’s Repentance and Restoration]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 33
 book/chapter: "[[2Chr.33|2 Chronicles 33]]"
-genre:
+chronological_order: 707
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 11
 verses:
 - "[[2Chr.33.10]]"
 - "[[2Chr.33.11]]"
@@ -29,7 +36,7 @@ verses:
 - "[[2Chr.33.20]]"
 ---
 
-[[2Chr.33|2 Chronicles 33:10 - 2 Chronicles 33:20]]
+<small>[[2Chr.33|2 Chronicles 33:10-20]]</small>
 *Manasseh’s Repentance and Restoration*
 
 [[2Chr.33.10|10]] And the LORD spake to Manasseh, and to his people: but they would not hearken.

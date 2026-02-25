@@ -1,8 +1,73 @@
+---
+title: Numbers 13:22
+type: Verse
+kjv: "And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, were. (Now Hebron was built seven years before Zoan in Egypt.)"
+bsb: "They went up through the Negev and came to Hebron, where Ahiman, Sheshai, and Talmai, the descendants of Anak, dwelled. It had been built seven years before Zoan in Egypt."
+hebrew: "וַיַּעֲל֣וּ בַנֶּגֶב֮ וַיָּבֹ֣א עַד־ חֶבְרוֹן֒ וְשָׁ֤ם אֲחִימַן֙ שֵׁשַׁ֣י וְתַלְמַ֔י יְלִידֵ֖י הָעֲנָ֑ק וְחֶבְר֗וֹן שֶׁ֤בַע שָׁנִים֙ נִבְנְתָ֔ה לִפְנֵ֖י צֹ֥עַן מִצְרָֽיִם׃"
+pericope: "[[Num.13.1 The Spies Explore Canaan|The Spies Explore Canaan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 13
+book/chapter: "[[Num.13|Numbers 13]]"
+chronological_order: 173
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AHIMAN|AHIMAN]]"
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic SHESHAI|SHESHAI]]"
+- "[[topic TALMAI|TALMAI]]"
+- "[[topic ZOAN|ZOAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H9003]]"
+- "[[H5045G]]"
+- "[[H0935G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H2275A]]"
+- "[[H9002]]"
+- "[[H8033G]]"
+- "[[H0289G]]"
+- "[[H8344]]"
+- "[[H8526G]]"
+- "[[H3211]]"
+- "[[H9009]]"
+- "[[H6061]]"
+- "[[H7651]]"
+- "[[H8141]]"
+- "[[H1129]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H6814]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 13:22**<big><big>[[Num.13.1 The Spies Explore Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, [were]. (Now Hebron was built seven years before Zoan in Egypt.)
 <small><sub>**BSB:**</sub></small>
 They went up through the Negev and came to Hebron, where Ahiman, Sheshai, and Talmai, the descendants of Anak, dwelled. It had been built seven years before Zoan in Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|יַּעֲל֣וּ]] [[H9003\|בַ]][[H5045G\|נֶּגֶב֮]] [[H9001\|וַ]][[H0935G\|יָּבֹ֣א]] [[H5704\|עַד]][[H9014\|־]] [[H2275A\|חֶבְרוֹן֒]] [[H9002\|וְ]][[H8033G\|שָׁ֤ם]] [[H0289G\|אֲחִימַן֙]] [[H8344\|שֵׁשַׁ֣י]] [[H9002\|וְ]][[H8526G\|תַלְמַ֔י]] [[H3211\|יְלִידֵ֖י]] [[H9009\|הָ]][[H6061\|עֲנָ֑ק]] [[H9002\|וְ]][[H2275A\|חֶבְר֗וֹן]] [[H7651\|שֶׁ֤בַע]] [[H8141\|שָׁנִים֙]] [[H1129\|נִבְנְתָ֔ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H6814\|צֹ֥עַן]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIMAN|AHIMAN]] • [[topic CANAAN|CANAAN]] • [[topic HEBRON|HEBRON]] • [[topic SHESHAI|SHESHAI]] • [[topic TALMAI|TALMAI]] • [[topic ZOAN|ZOAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.21|<< Numbers 13:21]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.23|Numbers 13:23 >>]]</td></tr></table>
 

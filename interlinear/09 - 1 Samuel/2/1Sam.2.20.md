@@ -1,8 +1,70 @@
+---
+title: 1 Samuel 2:20
+type: Verse
+kjv: "And Eli blessed Elkanah and his wife, and said, The LORD give thee seed of this woman for the loan which is lent to the LORD. And they went unto their own home."
+bsb: "And Eli would bless Elkanah and his wife, saying, “May the LORD give you children by this woman in place of the one she dedicated to the LORD.” Then they would go home."
+hebrew: "וּבֵרַ֨ךְ עֵלִ֜י אֶת־ אֶלְקָנָ֣ה וְאֶת־ אִשְׁתּ֗וֹ וְאָמַר֙ יָשֵׂם֩ יְהוָ֨ה לְךָ֥ זֶ֙רַע֙ מִן־ הָאִשָּׁ֣ה הַזֹּ֔את תַּ֚חַת הַשְּׁאֵלָ֔ה אֲשֶׁ֥ר שָׁאַ֖ל לַֽיהוָ֑ה וְהָלְכ֖וּ לִמְקֹמֽוֹ׃"
+pericope: "[[1Sam.2.12 Eli’s Wicked Sons|Eli’s Wicked Sons]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 2
+book/chapter: "[[1Sam.2|1 Samuel 2]]"
+chronological_order: 281
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic ELI|ELI]]"
+- "[[topic ELKANAH|ELKANAH]]"
+- "[[topic HANNAH|HANNAH]]"
+- "[[topic HOPHNI|HOPHNI]]"
+strongs:
+- "[[H9001]]"
+- "[[H1288]]"
+- "[[H5941]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0511H]]"
+- "[[H9002]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H7760H]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H2233H]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H2063]]"
+- "[[H8478H]]"
+- "[[H7596]]"
+- "[[H0834A]]"
+- "[[H7592]]"
+- "[[H1980G]]"
+- "[[H4725]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 2:20**<big><big>[[1Sam.2.12 Eli’s Wicked Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Eli blessed Elkanah and his wife, and said, The LORD give thee seed of this woman for the loan which is lent to the LORD. And they went unto their own home.
 <small><sub>**BSB:**</sub></small>
 And Eli would bless Elkanah and his wife, saying, “May the LORD give you children by this woman in place of the one she dedicated to the LORD.” Then they would go home.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H1288\|בֵרַ֨ךְ]] [[H5941\|עֵלִ֜י]] [[H0853\|אֶת]][[H9014\|־]] [[H0511H\|אֶלְקָנָ֣ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0802H\|אִשְׁתּ֗]][[H9023\|וֹ]] [[H9001\|וְ]][[H0559\|אָמַר֙]] [[H7760H\|יָשֵׂם֩]] [[H3068G\|יְהוָ֨ה]] [[H9005\|לְ]][[H9031\|ךָ֥]] [[H2233H\|זֶ֙רַע֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֣ה]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H8478H\|תַּ֚חַת]] [[H9009\|הַ]][[H7596\|שְּׁאֵלָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H7592\|שָׁאַ֖ל]] [[H9005\|לַֽ]][[H3068G\|יהוָ֑ה]] [[H9001\|וְ]][[H1980G\|הָלְכ֖וּ]] [[H9005\|לִ]][[H4725\|מְקֹמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic ELI|ELI]] • [[topic ELKANAH|ELKANAH]] • [[topic HANNAH|HANNAH]] • [[topic HOPHNI|HOPHNI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.19|<< 1 Samuel 2:19]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.21|1 Samuel 2:21 >>]]</td></tr></table>
 

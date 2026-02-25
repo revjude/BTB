@@ -1,8 +1,53 @@
+---
+title: Proverbs 26:17
+type: Verse
+kjv: "He that passeth by, and meddleth with strife belonging not to him, is like one that taketh a dog by the ears."
+bsb: "Like one who grabs a dog by the ears is a passerby who meddles in a quarrel not his own."
+hebrew: "מַחֲזִ֥יק בְּאָזְנֵי־ כָ֑לֶב עֹבֵ֥ר מִ֝תְעַבֵּ֗ר עַל־ רִ֥יב לֹּֽא־ לֽוֹ׃"
+pericope: "[[Prov.26.1 Similitudes and Instructions|Similitudes and Instructions]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 26
+book/chapter: "[[Prov.26|Proverbs 26]]"
+chronological_order: 481
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[H2388H]]"
+- "[[H9003]]"
+- "[[H0241G]]"
+- "[[H9014]]"
+- "[[H3611]]"
+- "[[H5674C]]"
+- "[[H5674B]]"
+- "[[H5921A]]"
+- "[[H7379]]"
+- "[[H3808]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 26:17**<big><big>[[Prov.26.1 Similitudes and Instructions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that passeth by, [and] meddleth with strife [belonging] not to him, [is like] one that taketh a dog by the ears.
 <small><sub>**BSB:**</sub></small>
 Like one who grabs a dog by the ears is a passerby who meddles in a quarrel not his own.
+<small><sub>**Hebrew:**</sub></small>
+[[H2388H\|מַחֲזִ֥יק]] [[H9003\|בְּ]][[H0241G\|אָזְנֵי]][[H9014\|־]] [[H3611\|כָ֑לֶב]] [[H5674C\|עֹבֵ֥ר]] [[H5674B\|מִ֝תְעַבֵּ֗ר]] [[H5921A\|עַל]][[H9014\|־]] [[H7379\|רִ֥יב]] [[H3808\|לֹּֽא]][[H9014\|־]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic STRIFE|STRIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.16|<< Proverbs 26:16]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.18|Proverbs 26:18 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Isaiah 37:23
+type: Verse
+kjv: "Whom hast thou reproached and blasphemed? and against whom hast thou exalted thy voice, and lifted up thine eyes on high? even against the Holy One of Israel."
+bsb: "Whom have you taunted and blasphemed? Against whom have you raised your voice and lifted your eyes in pride? Against the Holy One of Israel!"
+hebrew: "אֶת־ מִ֤י חֵרַ֙פְתָּ֙ וְגִדַּ֔פְתָּ וְעַל־ מִ֖י הֲרִימ֣וֹתָה קּ֑וֹל וַתִּשָּׂ֥א מָר֛וֹם עֵינֶ֖יךָ אֶל־ קְד֥וֹשׁ יִשְׂרָאֵֽל׃"
+pericope: "[[Isa.37.21 Sennacherib’s Fall Prophesied|Sennacherib’s Fall Prophesied]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 37
+book/chapter: "[[Isa.37|Isaiah 37]]"
+chronological_order: 664
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic LIBNAH|LIBNAH]]"
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4310]]"
+- "[[H2778A]]"
+- "[[H9002]]"
+- "[[H1442]]"
+- "[[H5921A]]"
+- "[[H7311A]]"
+- "[[H6963A]]"
+- "[[H9001]]"
+- "[[H5375M]]"
+- "[[H4791]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H0413]]"
+- "[[H6918G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 37:23**<big><big>[[Isa.37.21 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whom hast thou reproached and blasphemed? and against whom hast thou exalted [thy] voice, and lifted up thine eyes on high? [even] against the Holy One of Israel.
 <small><sub>**BSB:**</sub></small>
 Whom have you taunted and blasphemed? Against whom have you raised your voice and lifted your eyes in pride? Against the Holy One of Israel!
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶת]][[H9014\|־]] [[H4310\|מִ֤י]] [[H2778A\|חֵרַ֙פְתָּ֙]] [[H9002\|וְ]][[H1442\|גִדַּ֔פְתָּ]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H4310\|מִ֖י]] [[H7311A\|הֲרִימ֣וֹתָה]] [[H6963A\|קּ֑וֹל]] [[H9001\|וַ]][[H5375M\|תִּשָּׂ֥א]] [[H4791\|מָר֛וֹם]] [[H5869A\|עֵינֶ֖י]][[H9021\|ךָ]] [[H0413\|אֶל]][[H9014\|־]] [[H6918G\|קְד֥וֹשׁ]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic LIBNAH|LIBNAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.22|<< Isaiah 37:22]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.24|Isaiah 37:24 >>]]</td></tr></table>
 

@@ -1,10 +1,47 @@
+---
+title: Galatians 4:3
+type: Verse
+kjv: "Even so we, when we were children, were in bondage under the elements of the world:"
+bsb: "So also, when we were children, we were enslaved under the basic principles of the world."
+greek: "οὕτως καὶ ἡμεῖς ὅτε ἦμεν νήπιοι, ὑπὸ τὰ στοιχεῖα τοῦ κόσμου ἤμεθα δεδουλωμένοι·"
+pericope: "[[Gal.4.1 Sons and Heirs|Sons and Heirs]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 4
+book/chapter: "[[Gal.4|Galatians 4]]"
+chronological_order: 1042
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+strongs:
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G3165]]"
+- "[[G3753]]"
+- "[[G1510]]"
+- "[[G3516]]"
+- "[[G5259H]]"
+- "[[G3588]]"
+- "[[G4747]]"
+- "[[G2889]]"
+- "[[G1402]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Galatians 4:3**<big><big>[[Gal.4.1 Sons and Heirs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Even so we, when we were children, were in bondage under the elements of the world:
 <small><sub>**BSB:**</sub></small>
 So also, when we were children, we were enslaved under the basic principles of the world.
-<small><sub>**Literal:**</sub></small>
-So also we ourselves when we were children, under the basic principles of the world we ourselves were held in bondage;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.2|<< Galatians 4:2]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.4|Galatians 4:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G3165\|ἡμεῖς]]  [[G3753\|ὅτε]]  [[G1510\|ἦμεν]]  [[G3516\|νήπιοι,]]  [[G5259H\|ὑπὸ]]  [[G3588\|τὰ]]  [[G4747\|στοιχεῖα]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου]]  [[G1510\|ἤμεθα]]  [[G1402\|δεδουλωμένοι·]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.2|<< Galatians 4:2]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.4|Galatians 4:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

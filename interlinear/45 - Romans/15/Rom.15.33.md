@@ -1,10 +1,48 @@
+---
+title: Romans 15:33
+type: Verse
+kjv: "Now the God of peace be with you all. Amen."
+bsb: "The God of peace be with all of you. Amen."
+greek: "ὁ δὲ θεὸς τῆς εἰρήνης μετὰ πάντων ὑμῶν, ἀμήν.¶"
+pericope: "[[Rom.15.23 Paul’s Travel Plans|Paul’s Travel Plans]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 15
+book/chapter: "[[Rom.15|Romans 15]]"
+chronological_order: 1101
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic PEACE|PEACE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2316]]"
+- "[[G1515]]"
+- "[[G3326]]"
+- "[[G3956]]"
+- "[[G4771]]"
+- "[[G0281]]"
+texts:
+- NKO
+---
+
 **Romans 15:33**<big><big>[[Rom.15.23 Paul’s Travel Plans|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now the God of peace [be] with you all. Amen.
 <small><sub>**BSB:**</sub></small>
 The God of peace be with all of you. Amen.
-<small><sub>**Literal:**</sub></small>
-<the> And the God <the> of peace [be] with all of you, Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.32|<< Romans 15:32]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.1|Romans 16:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2316\|θεὸς]]  [[G3588\|τῆς]]  [[G1515\|εἰρήνης]]  [[G3326\|μετὰ]]  [[G3956\|πάντων]]  [[G4771\|ὑμῶν,]]  [[G0281\|ἀμήν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic PEACE|PEACE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.32|<< Romans 15:32]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.1|Romans 16:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

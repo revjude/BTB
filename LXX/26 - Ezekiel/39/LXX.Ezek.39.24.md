@@ -1,6 +1,60 @@
+---
+title: LXX Ezekiel 39:24
+type: Verse
+lxx: "Because of  their uncleannesses, and because of  their violations of the law I did it to them, and I turned  my face from them."
+greek: "κατά τας ακαθαρσίας αυτών και κατά τα ανομήματα αυτών εποίησα αυτοίς και απέστρεψα το πρόσωπόν μου απ΄ αυτών"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 39
+book/chapter: "[[Ezek.39|Ezekiel 39]]"
+chronological_order: 830
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CAPTIVITY|CAPTIVITY]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G0167]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G6350]]"
+- "[[G1473]]"
+- "[[G4160]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0654]]"
+- "[[G3588]]"
+- "[[G4383]]"
+- "[[G1473]]"
+- "[[G0575]]"
+- "[[G1473]]"
+---
+
 **LXX Ezekiel 39:24** 
 <small><sub>**LXX:**</sub></small>
 Because of  their uncleannesses, and because of  their violations of the law I did \[it\] to them, and I turned  my face from them. 
+<small><sub>**Greek:**</sub></small>
+[[G2596\|κατά]] [[G3588\|τας]] [[G0167\|ακαθαρσίας]] [[G1473\|αυτών]] [[G2532\|και]] [[G2596\|κατά]] [[G3588\|τα]] [[G6350\|ανομήματα]] [[G1473\|αυτών]] [[G4160\|εποίησα]] [[G1473\|αυτοίς]] [[G2532\|και]] [[G0654\|απέστρεψα]] [[G3588\|το]] [[G4383\|πρόσωπόν]] [[G1473\|μου]] [[G0575\|απ΄]] [[G1473\|αυτών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTIVITY|CAPTIVITY]] • [[topic JUDGMENT|JUDGMENT]] • [[topic NATION|NATION]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SIN|SIN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.39.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.23|<< Ezekiel 39:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.25|Ezekiel 39:25 >>]]</td></tr></table>
 
@@ -21,6 +75,6 @@ Because of  their uncleannesses, and because of  their violations of the law I d
 | my face | **<big>[[G4383\|πρόσωπόν]]</big>** **<big>[[G1473\|μου]]</big>** |
 | from | **<big>[[G0575\|απ΄]]</big>** |
 | them. | **<big>[[G1473\|αυτών]]</big>** |
-[[Ezek.39.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.23|<< Ezekiel 39:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.25|Ezekiel 39:25 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.23|<< Ezekiel 39:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.25|Ezekiel 39:25 >>]]</td></tr></table>
 
 

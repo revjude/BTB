@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Fulfillment of the Law
+type: Pericope
 pericope: "[[Matt.5.17 The Fulfillment of the Law|The Fulfillment of the Law]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 5
 book/chapter: "[[Matt.5|Matthew 5]]"
-genre:
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 4
 verses:
 - "[[Matt.5.17]]"
 - "[[Matt.5.18]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Matt.5.20]]"
 ---
 
-[[Matt.5|Matthew 5:17 - Matthew 5:20]]
+<small>[[Matt.5|Matthew 5:17-20]]</small>
 *The Fulfillment of the Law*
 
 [[Matt.5.17|17]] Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.

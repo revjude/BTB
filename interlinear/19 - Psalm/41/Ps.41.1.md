@@ -1,8 +1,59 @@
+---
+title: Psalm 41:1
+type: Verse
+kjv: "Blessed is he that considereth the poor: the LORD will deliver him in time of trouble."
+bsb: "For the choirmaster. A Psalm of David. Blessed is the one who cares for the poor; the LORD will deliver him in the day of trouble."
+hebrew: "אַ֭שְׁרֵי מַשְׂכִּ֣יל אֶל־ דָּ֑ל בְּי֥וֹם רָ֝עָ֗ה יְֽמַלְּטֵ֥הוּ יְהוָֽה׃"
+pericope: "[[Ps.41.1 Victory over Betrayal|Victory over Betrayal]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 41
+book/chapter: "[[Ps.41|Psalm 41]]"
+chronological_order: 368
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H0835]]"
+- "[[H7919A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1800]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H7451C]]"
+- "[[H4422]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 41:1**<big><big>[[Ps.41.1 Victory over Betrayal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [is] he that considereth the poor: the LORD will deliver him in time of trouble.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. A Psalm of David. Blessed is the one who cares for the poor; the LORD will deliver him in the day of trouble.
+<small><sub>**Hebrew:**</sub></small>
+[[H0835\|אַ֭שְׁרֵי]] [[H7919A\|מַשְׂכִּ֣יל]] [[H0413\|אֶל]][[H9014\|־]] [[H1800\|דָּ֑ל]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H7451C\|רָ֝עָ֗ה]] [[H4422\|יְֽמַלְּטֵ֥]][[H9033\|הוּ]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic GOD|GOD]] • [[topic LIBERALITY|LIBERALITY]] • [[topic POOR|POOR]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.41.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.41.0|<< Psalms 41:0]]</td><td align="center" style="border:none;">[[Ps.41|Psalms 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.41.2|Psalms 41:2 >>]]</td></tr></table>
 

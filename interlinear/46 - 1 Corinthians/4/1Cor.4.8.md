@@ -1,10 +1,53 @@
+---
+title: 1 Corinthians 4:8
+type: Verse
+kjv: "Now ye are full, now ye are rich, ye have reigned as kings without us: and I would to God ye did reign, that we also might reign with you."
+bsb: "Already you have all you want. Already you have become rich. Without us, you have become kings. How I wish you really were kings, so that we might be kings with you!"
+greek: "ἤδη κεκορεσμένοι ἐστέ, ἤδη ἐπλουτήσατε, χωρὶς ἡμῶν ἐβασιλεύσατε· καὶ ὄφελόν γε ἐβασιλεύσατε, ἵνα καὶ ἡμεῖς ὑμῖν συμβασιλεύσωμεν."
+pericope: "[[1Cor.4.1 Servants of Christ|Servants of Christ]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 4
+book/chapter: "[[1Cor.4|1 Corinthians 4]]"
+chronological_order: 1061
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2235]]"
+- "[[G2880]]"
+- "[[G1510]]"
+- "[[G4147]]"
+- "[[G5565]]"
+- "[[G3165]]"
+- "[[G0936]]"
+- "[[G2532]]"
+- "[[G3785]]"
+- "[[G1065]]"
+- "[[G2443]]"
+- "[[G4771]]"
+- "[[G4821]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 4:8**<big><big>[[1Cor.4.1 Servants of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now ye are full, now ye are rich, ye have reigned as kings without us: and I would to God ye did reign, that we also might reign with you.
 <small><sub>**BSB:**</sub></small>
 Already you have all you want. Already you have become rich. Without us, you have become kings. How I wish you really were kings, so that we might be kings with you!
-<small><sub>**Literal:**</sub></small>
-Already satiated you are, already you have been enriched, apart from us you reigned; and I wish that really you did reign, so that also we ourselves you may reign with.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.7|<< 1 Corinthians 4:7]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.9|1 Corinthians 4:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2235\|ἤδη]]  [[G2880\|κεκορεσμένοι]]  [[G1510\|ἐστέ,]]  [[G2235\|ἤδη]]  [[G4147\|ἐπλουτήσατε,]]  [[G5565\|χωρὶς]]  [[G3165\|ἡμῶν]]  [[G0936\|ἐβασιλεύσατε·]]  [[G2532\|καὶ]]  [[G3785\|ὄφελόν]]  [[G1065\|γε]]  [[G0936\|ἐβασιλεύσατε,]]  [[G2443\|ἵνα]]  [[G2532\|καὶ]]  [[G3165\|ἡμεῖς]]  [[G4771\|ὑμῖν]]  [[G4821\|συμβασιλεύσωμεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.7|<< 1 Corinthians 4:7]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.9|1 Corinthians 4:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

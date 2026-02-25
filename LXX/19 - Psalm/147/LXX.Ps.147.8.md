@@ -1,6 +1,63 @@
+---
+title: LXX Psalm 147:8
+type: Verse
+lxx: "to the one covering the heaven with clouds; to the one preparing rain for the earth; to the grass to rise up on mountains, and tender shoots for the service  of men;"
+greek: "τω περιβάλλοντι τον ουρανόν εν νεφέλαις τω ετοιμάζοντι τη γη υετόν τω εξανατέλλοντι εν όρεσι χόρτον και χλόην τη δουλεία των ανθρώπων"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 147
+book/chapter: "[[Ps.147|Psalm 147]]"
+chronological_order: 895
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[G3588]]"
+- "[[G4016]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G1722]]"
+- "[[G3507]]"
+- "[[G3588]]"
+- "[[G2090]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G5205]]"
+- "[[G3588]]"
+- "[[G1816]]"
+- "[[G1722]]"
+- "[[G3735]]"
+- "[[G5528]]"
+- "[[G2532]]"
+- "[[G5514]]"
+- "[[G3588]]"
+- "[[G1397]]"
+- "[[G3588]]"
+- "[[G0444]]"
+---
+
 **LXX Psalm 147:8** 
 <small><sub>**LXX:**</sub></small>
 to the one covering the heaven with clouds; to the one preparing rain for the earth; to the grass to rise up on mountains, and tender shoots for the service  of men; 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τω]] [[G4016\|περιβάλλοντι]] [[G3588\|τον]] [[G3772\|ουρανόν]] [[G1722\|εν]] [[G3507\|νεφέλαις]] [[G3588\|τω]] [[G2090\|ετοιμάζοντι]] [[G3588\|τη]] [[G1093\|γη]] [[G5205\|υετόν]] [[G3588\|τω]] [[G1816\|εξανατέλλοντι]] [[G1722\|εν]] [[G3735\|όρεσι]] [[G5528\|χόρτον]] [[G2532\|και]] [[G5514\|χλόην]] [[G3588\|τη]] [[G1397\|δουλεία]] [[G3588\|των]] [[G0444\|ανθρώπων]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.147.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.147.7|<< Psalm 147:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.147.9|Psalm 147:9 >>]]</td></tr></table>
 
@@ -28,6 +85,6 @@ to the one covering the heaven with clouds; to the one preparing rain for the ea
 | service | **<big>[[G1397\|δουλεία]]</big>** |
 | \<obj.> | **<big>[[G3588\|των]]</big>** |
 | of men; | **<big>[[G0444\|ανθρώπων]]</big>** |
-[[Ps.147.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.147.7|<< Psalm 147:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.147.9|Psalm 147:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.147.7|<< Psalm 147:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.147.9|Psalm 147:9 >>]]</td></tr></table>
 
 

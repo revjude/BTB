@@ -1,6 +1,59 @@
+---
+title: LXX Psalm 88:9
+type: Verse
+lxx: "My eyes are weakened from poorness. I cried out to you, O lord, the entire  day. I opened and spread out to you  my hands."
+greek: "οι οφθαλμοί μου ησθένησαν από πτωχείας εκέκραξα προς σε κύριε όλην την ημέραν διεπέτασα προς σε τας χείράς μου"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 88
+book/chapter: "[[Ps.88|Psalm 88]]"
+chronological_order: 516
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G1473]]"
+- "[[G0770]]"
+- "[[G0575]]"
+- "[[G4432]]"
+- "[[G2896]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G2962]]"
+- "[[G3650]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G6861]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G1473]]"
+---
+
 **LXX Psalm 88:9** 
 <small><sub>**LXX:**</sub></small>
  My eyes are weakened from poorness. I cried out to you, O <span class="smallcaps">lord</span>, \[the\] entire  day. I opened and spread out to you  my hands. 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οι]] [[G3788\|οφθαλμοί]] [[G1473\|μου]] [[G0770\|ησθένησαν]] [[G0575\|από]] [[G4432\|πτωχείας]] [[G2896\|εκέκραξα]] [[G4314\|προς]] [[G1473\|σε]] [[G2962\|κύριε]] [[G3650\|όλην]] [[G3588\|την]] [[G2250\|ημέραν]] [[G6861\|διεπέτασα]] [[G4314\|προς]] [[G1473\|σε]] [[G3588\|τας]] [[G5495\|χείράς]] [[G1473\|μου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEATH|DEATH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.88.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.8|<< Psalm 88:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.10|Psalm 88:10 >>]]</td></tr></table>
 
@@ -23,6 +76,6 @@
 | you | **<big>[[G1473\|σε]]</big>** |
 | \<obj.> | **<big>[[G3588\|τας]]</big>** |
 | my hands. | **<big>[[G5495\|χείράς]]</big>** **<big>[[G1473\|μου]]</big>** |
-[[Ps.88.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.8|<< Psalm 88:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.10|Psalm 88:10 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.8|<< Psalm 88:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.10|Psalm 88:10 >>]]</td></tr></table>
 
 

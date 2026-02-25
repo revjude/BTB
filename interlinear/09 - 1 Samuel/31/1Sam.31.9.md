@@ -1,8 +1,62 @@
+---
+title: 1 Samuel 31:9
+type: Verse
+kjv: "And they cut off his head, and stripped off his armour, and sent into the land of the Philistines round about, to publish it in the house of their idols, and among the people."
+bsb: "They cut off Saul’s head, stripped off his armor, and sent messengers throughout the land of the Philistines to proclaim the news in the temples of their idols and among their people."
+hebrew: "וַֽיִּכְרְתוּ֙ אֶת־ רֹאשׁ֔וֹ וַיַּפְשִׁ֖יטוּ אֶת־ כֵּלָ֑יו וַיְשַׁלְּח֨וּ בְאֶֽרֶץ־ פְּלִשְׁתִּ֜ים סָבִ֗יב לְבַשֵּׂ֛ר בֵּ֥ית עֲצַבֵּיהֶ֖ם וְאֶת־ הָעָֽם׃"
+pericope: "[[1Sam.31.7 The Philistines Possess the Towns|The Philistines Possess the Towns]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 31
+book/chapter: "[[1Sam.31|1 Samuel 31]]"
+chronological_order: 310
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic TROPHIES|TROPHIES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3772I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H6584]]"
+- "[[H3627]]"
+- "[[H7971G]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H6430G]]"
+- "[[H5439I]]"
+- "[[H9005]]"
+- "[[H1319]]"
+- "[[H1004B]]"
+- "[[H6091]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 31:9**<big><big>[[1Sam.31.7 The Philistines Possess the Towns|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they cut off his head, and stripped off his armour, and sent into the land of the Philistines round about, to publish [it in] the house of their idols, and among the people.
 <small><sub>**BSB:**</sub></small>
 They cut off Saul’s head, stripped off his armor, and sent messengers throughout the land of the Philistines to proclaim the news in the temples of their idols and among their people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H3772I\|יִּכְרְתוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H7218A\|רֹאשׁ֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H6584\|יַּפְשִׁ֖יטוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3627\|כֵּלָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H7971G\|יְשַׁלְּח֨וּ]] [[H9003\|בְ]][[H0776G\|אֶֽרֶץ]][[H9014\|־]] [[H6430G\|פְּלִשְׁתִּ֜ים]] [[H5439I\|סָבִ֗יב]] [[H9005\|לְ]][[H1319\|בַשֵּׂ֛ר]] [[H1004B\|בֵּ֥ית]] [[H6091\|עֲצַבֵּי]][[H9028\|הֶ֖ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TROPHIES|TROPHIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.31.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.31.8|<< 1 Samuel 31:8]]</td><td align="center" style="border:none;">[[1Sam.31|1 Samuel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.31.10|1 Samuel 31:10 >>]]</td></tr></table>
 

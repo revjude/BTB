@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 8:22
+type: Verse
+kjv: "And the LORD said to Samuel, Hearken unto their voice, and make them a king. And Samuel said unto the men of Israel, Go ye every man unto his city."
+bsb: "“Listen to their voice,” the LORD said to Samuel. “Appoint a king for them.” Then Samuel told the men of Israel, “Everyone must go back to his city.”"
+hebrew: "וַיֹּ֨אמֶר יְהוָ֤ה אֶל־ שְׁמוּאֵל֙ שְׁמַ֣ע בְּקוֹלָ֔ם וְהִמְלַכְתָּ֥ לָהֶ֖ם מֶ֑לֶךְ וַיֹּ֤אמֶר שְׁמוּאֵל֙ אֶל־ אַנְשֵׁ֣י יִשְׂרָאֵ֔ל לְכ֖וּ אִ֥ישׁ לְעִירֽוֹ׃ פ"
+pericope: "[[1Sam.8.19 God Grants the Request|God Grants the Request]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 8
+book/chapter: "[[1Sam.8|1 Samuel 8]]"
+chronological_order: 287
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8050G]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H9028]]"
+- "[[H4427A]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H4428G]]"
+- "[[H0582]]"
+- "[[H3478]]"
+- "[[H1980G]]"
+- "[[H0376I]]"
+- "[[H5892B]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Samuel 8:22**<big><big>[[1Sam.8.19 God Grants the Request|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said to Samuel, Hearken unto their voice, and make them a king. And Samuel said unto the men of Israel, Go ye every man unto his city.
 <small><sub>**BSB:**</sub></small>
 “Listen to their voice,” the LORD said to Samuel. “Appoint a king for them.” Then Samuel told the men of Israel, “Everyone must go back to his city.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֤ה]] [[H0413\|אֶל]][[H9014\|־]] [[H8050G\|שְׁמוּאֵל֙]] [[H8085H\|שְׁמַ֣ע]] [[H9003\|בְּ]][[H6963A\|קוֹלָ֔]][[H9028\|ם]] [[H9001\|וְ]][[H4427A\|הִמְלַכְתָּ֥]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H4428G\|מֶ֑לֶךְ]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H8050G\|שְׁמוּאֵל֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0582\|אַנְשֵׁ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H1980G\|לְכ֖וּ]] [[H0376I\|אִ֥ישׁ]] [[H9005\|לְ]][[H5892B\|עִירֽ]][[H9023\|וֹ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.8.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.21|<< 1 Samuel 8:21]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.1|1 Samuel 9:1 >>]]</td></tr></table>
 
@@ -24,7 +79,7 @@ And the LORD said to Samuel, Hearken unto their voice, and make them a king. And
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | go  |**<big>&#8207;[[H1980G\|לְכ֖וּ]]&#8207; </big>**| le.Khu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | each man  |**<big>&#8207;[[H0376I\|אִ֥ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to own city his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5892B\|עִירֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'i.R<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to own city his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5892B\|עִירֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'i.R<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.21|<< 1 Samuel 8:21]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.1|1 Samuel 9:1 >>]]</td></tr></table>
 
 

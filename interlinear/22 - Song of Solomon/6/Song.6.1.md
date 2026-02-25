@@ -1,8 +1,50 @@
+---
+title: Song of Solomon 6:1
+type: Verse
+kjv: "Whither is thy beloved gone, O thou fairest among women? whither is thy beloved turned aside? that we may seek him with thee."
+bsb: "Where has your beloved gone, O most beautiful among women? Which way has he turned? We will seek him with you."
+hebrew: "אָ֚נָה הָלַ֣ךְ דּוֹדֵ֔ךְ הַיָּפָ֖ה בַּנָּשִׁ֑ים אָ֚נָה פָּנָ֣ה דוֹדֵ֔ךְ וּנְבַקְשֶׁ֖נּוּ עִמָּֽךְ׃"
+pericope: "[[Song.6.1 The Friends|The Friends]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 6
+book/chapter: "[[Song.6|Song of Solomon 6]]"
+chronological_order: 453
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+strongs:
+- "[[H0575]]"
+- "[[H1980G]]"
+- "[[H1730G]]"
+- "[[H9022]]"
+- "[[H9009]]"
+- "[[H3303]]"
+- "[[H9003]]"
+- "[[H0802G]]"
+- "[[H6437G]]"
+- "[[H9002]]"
+- "[[H1245]]"
+- "[[H9033]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 6:1**<big><big>[[Song.6.1 The Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whither is thy beloved gone, O thou fairest among women? whither is thy beloved turned aside? that we may seek him with thee.
 <small><sub>**BSB:**</sub></small>
 Where has your beloved gone, O most beautiful among women? Which way has he turned? We will seek him with you.
+<small><sub>**Hebrew:**</sub></small>
+[[H0575\|אָ֚נָה]] [[H1980G\|הָלַ֣ךְ]] [[H1730G\|דּוֹדֵ֔]][[H9022\|ךְ]] [[H9009\|הַ]][[H3303\|יָּפָ֖ה]] [[H9003\|בַּ]][[H0802G\|נָּשִׁ֑ים]] [[H0575\|אָ֚נָה]] [[H6437G\|פָּנָ֣ה]] [[H1730G\|דוֹדֵ֔]][[H9022\|ךְ]] [[H9002\|וּ]][[H1245\|נְבַקְשֶׁ֖]][[H9033\|נּוּ]] [[H5973A\|עִמָּֽ]][[H9032\|ךְ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.16|<< Song of Solomon 5:16]]</td><td align="center" style="border:none;">[[Song.6|Song of Solomon 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6.2|Song of Solomon 6:2 >>]]</td></tr></table>
 

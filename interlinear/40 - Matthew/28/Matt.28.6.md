@@ -1,10 +1,58 @@
+---
+title: Matthew 28:6
+type: Verse
+kjv: "He is not here: for he is risen, as he said. Come, see the place where the Lord lay."
+bsb: "He is not here; He has risen, just as He said! Come, see the place where He lay."
+greek: "οὐκ ἔστιν ὧδε· ἠγέρθη γὰρ καθὼς εἶπεν. δεῦτε ἴδετε τὸν τόπον ὅπου ἔκειτο ὁ κύριος."
+pericope: "[[Matt.28.1 The Resurrection|The Resurrection]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 28
+book/chapter: "[[Matt.28|Matthew 28]]"
+chronological_order: 1014
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G5602]]"
+- "[[G1453]]"
+- "[[G1063]]"
+- "[[G2531]]"
+- "[[G2036]]"
+- "[[G1205]]"
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G5117]]"
+- "[[G3699]]"
+- "[[G2749]]"
+- "[[G2962G]]"
+texts:
+- NKO
+- KO
+---
+
 **Matthew 28:6**<big><big>[[Matt.28.1 The Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He is not here: for he is risen, as he said. Come, see the place where the Lord lay.
 <small><sub>**BSB:**</sub></small>
 He is not here; He has risen, just as He said! Come, see the place where He lay.
-<small><sub>**Literal:**</sub></small>
-Not He is here; He is risen for even as He said. Come do see the place where He was lying the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.5|<< Matthew 28:5]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.7|Matthew 28:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G5602\|ὧδε·]]  [[G1453\|ἠγέρθη]]  [[G1063\|γὰρ]]  [[G2531\|καθὼς]]  [[G2036\|εἶπεν.]]  [[G1205\|δεῦτε]]  [[G1492H\|ἴδετε]]  [[G3588\|τὸν]]  [[G5117\|τόπον]]  [[G3699\|ὅπου]]  [[G2749\|ἔκειτο]]  [[G3588\|ὁ]]  [[G2962G\|κύριος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.5|<< Matthew 28:5]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.7|Matthew 28:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

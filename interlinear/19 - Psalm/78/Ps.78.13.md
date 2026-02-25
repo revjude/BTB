@@ -1,8 +1,57 @@
+---
+title: Psalm 78:13
+type: Verse
+kjv: "He divided the sea, and caused them to pass through; and he made the waters to stand as an heap."
+bsb: "He split the sea and brought them through; He set the waters upright like a wall."
+hebrew: "בָּ֣קַע יָ֭ם וַיַּֽעֲבִירֵ֑ם וַֽיַּצֶּב־ מַ֥יִם כְּמוֹ־ נֵֽד׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic RED SEA|RED SEA]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1234]]"
+- "[[H3220G]]"
+- "[[H9001]]"
+- "[[H5674C]]"
+- "[[H9038]]"
+- "[[H5324]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H3644G]]"
+- "[[H5067]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:13**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He divided the sea, and caused them to pass through; and he made the waters to stand as an heap.
 <small><sub>**BSB:**</sub></small>
 He split the sea and brought them through; He set the waters upright like a wall.
+<small><sub>**Hebrew:**</sub></small>
+[[H1234\|בָּ֣קַע]] [[H3220G\|יָ֭ם]] [[H9001\|וַ]][[H5674C\|יַּֽעֲבִירֵ֑]][[H9038\|ם]] [[H9001\|וַֽ]][[H5324\|יַּצֶּב]][[H9014\|־]] [[H4325G\|מַ֥יִם]] [[H3644G\|כְּמוֹ]][[H9014\|־]] [[H5067\|נֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MIRACLES|MIRACLES]] • [[topic RED SEA|RED SEA]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.12|<< Psalms 78:12]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.14|Psalms 78:14 >>]]</td></tr></table>
 

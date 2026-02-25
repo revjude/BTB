@@ -17,7 +17,7 @@
 
 - Of Paul [[1Thess.2.7|1Th 2:7]]
 
-→ EXHORTATIONS TO [[Gal.5.22|Ga 5:22]]; [[2Tim.2.24|2Ti 2:24]]-[[2Tim.2.26|26]]; [[Titus.3.1|Tit 3:1]],[[Titus.3.2|2]]; [[Jas.3.17|Jas 3:17]]
+→ EXHORTATIONS TO [[Gal.5.22|Ga 5:22]]; [[2Tim.2.24|2Ti 2:24-26]]; [[Titus.3.1|Tit 3:1]],[[Titus.3.2|2]]; [[Jas.3.17|Jas 3:17]]
 
 - See [[topic HUMILITY|HUMILITY]]
 

@@ -1,10 +1,57 @@
+---
+title: John 10:40
+type: Verse
+kjv: "And went away again beyond Jordan into the place where John at first baptized; and there he abode."
+bsb: "Then Jesus went back across the Jordan to the place where John had first been baptizing, and He stayed there."
+greek: "καὶ ἀπῆλθεν πάλιν πέραν τοῦ Ἰορδάνου εἰς τὸν τόπον ὅπου ἦν Ἰωάννης τὸ πρῶτον βαπτίζων, καὶ ἔμεινεν ἐκεῖ."
+pericope: "[[John.10.40 John’s Testimony Confirmed|John’s Testimony Confirmed]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 10
+book/chapter: "[[John.10|John 10]]"
+chronological_order: 984
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic BETHABARA|BETHABARA]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G0565]]"
+- "[[G3825]]"
+- "[[G4008]]"
+- "[[G3588]]"
+- "[[G2446]]"
+- "[[G1519]]"
+- "[[G5117]]"
+- "[[G3699]]"
+- "[[G1510]]"
+- "[[G2491G]]"
+- "[[G4413G]]"
+- "[[G0907]]"
+- "[[G3306]]"
+- "[[G1563]]"
+texts:
+- NKO
+---
+
 **John 10:40**<big><big>[[John.10.40 John’s Testimony Confirmed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And went away again beyond Jordan into the place where John at first baptized; and there he abode.
 <small><sub>**BSB:**</sub></small>
 Then Jesus went back across the Jordan to the place where John had first been baptizing, and He stayed there.
-<small><sub>**Literal:**</sub></small>
-And He departed again beyond the Jordan to the place where was John <the> at first baptizing, And He stayed there.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.39|<< John 10:39]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.41|John 10:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0565\|ἀπῆλθεν]]  [[G3825\|πάλιν]]  [[G4008\|πέραν]]  [[G3588\|τοῦ]]  [[G2446\|Ἰορδάνου]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G5117\|τόπον]]  [[G3699\|ὅπου]]  [[G1510\|ἦν]]  [[G2491G\|Ἰωάννης]]  [[G3588\|τὸ]]  [[G4413G\|πρῶτον]]  [[G0907\|βαπτίζων,]]  [[G2532\|καὶ]]  [[G3306\|ἔμεινεν]]  [[G1563\|ἐκεῖ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic BETHABARA|BETHABARA]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.39|<< John 10:39]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.41|John 10:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,58 @@
+---
+title: Matthew 27:7
+type: Verse
+kjv: "And they took counsel, and bought with them the potter’s field, to bury strangers in."
+bsb: "After conferring together, they used the money to buy the potter’s field as a burial place for foreigners."
+greek: "Συμβούλιον δὲ λαβόντες ἠγόρασαν ἐξ αὐτῶν τὸν ἀγρὸν τοῦ κεραμέως εἰς ταφὴν τοῖς ξένοις."
+pericope: "[[Matt.27.3 Judas Hangs Himself|Judas Hangs Himself]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BRIBERY|BRIBERY]]"
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic POTTERY|POTTERY]]"
+- "[[topic STRANGERS|STRANGERS]]"
+strongs:
+- "[[G4824]]"
+- "[[G1161]]"
+- "[[G2983]]"
+- "[[G0059]]"
+- "[[G1537]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G0068H]]"
+- "[[G2763H]]"
+- "[[G1519]]"
+- "[[G5027]]"
+- "[[G3581]]"
+texts:
+- NKO
+---
+
 **Matthew 27:7**<big><big>[[Matt.27.3 Judas Hangs Himself|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they took counsel, and bought with them the potter’s field, to bury strangers in.
 <small><sub>**BSB:**</sub></small>
 After conferring together, they used the money to buy the potter’s field as a burial place for foreigners.
-<small><sub>**Literal:**</sub></small>
-Counsel then having taken they bought with them the field of the potter for a burial place for the strangers.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.6|<< Matthew 27:6]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.8|Matthew 27:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4824\|Συμβούλιον]]  [[G1161\|δὲ]]  [[G2983\|λαβόντες]]  [[G0059\|ἠγόρασαν]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G3588\|τὸν]]  [[G0068H\|ἀγρὸν]]  [[G3588\|τοῦ]]  [[G2763H\|κεραμέως]]  [[G1519\|εἰς]]  [[G5027\|ταφὴν]]  [[G3588\|τοῖς]]  [[G3581\|ξένοις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIBERY|BRIBERY]] • [[topic BURIAL|BURIAL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic POTTERY|POTTERY]] • [[topic STRANGERS|STRANGERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.6|<< Matthew 27:6]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.8|Matthew 27:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

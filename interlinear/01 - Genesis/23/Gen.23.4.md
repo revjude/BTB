@@ -1,8 +1,62 @@
+---
+title: Genesis 23:4
+type: Verse
+kjv: "I am a stranger and a sojourner with you: give me a possession of a buryingplace with you, that I may bury my dead out of my sight."
+bsb: "“I am a foreigner and an outsider among you. Give me a burial site among you so that I can bury my dead.”"
+hebrew: "גֵּר־ וְתוֹשָׁ֥ב אָנֹכִ֖י עִמָּכֶ֑ם תְּנ֨וּ לִ֤י אֲחֻזַּת־ קֶ֙בֶר֙ עִמָּכֶ֔ם וְאֶקְבְּרָ֥ה מֵתִ֖י מִלְּפָנָֽי׃"
+pericope: "[[Gen.23.1 The Death and Burial of Sarah|The Death and Burial of Sarah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 23
+book/chapter: "[[Gen.23|Genesis 23]]"
+chronological_order: 65
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic LAND|LAND]]"
+strongs:
+- "[[H1616]]"
+- "[[H9014]]"
+- "[[H9002]]"
+- "[[H8453A]]"
+- "[[H0595]]"
+- "[[H5973A]]"
+- "[[H9036]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0272]]"
+- "[[H6913]]"
+- "[[H6912]]"
+- "[[H4191]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H6440H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 23:4**<big><big>[[Gen.23.1 The Death and Burial of Sarah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I [am] a stranger and a sojourner with you: give me a possession of a buryingplace with you, that I may bury my dead out of my sight.
 <small><sub>**BSB:**</sub></small>
 “I am a foreigner and an outsider among you. Give me a burial site among you so that I can bury my dead.”
+<small><sub>**Hebrew:**</sub></small>
+[[H1616\|גֵּר]][[H9014\|־]] [[H9002\|וְ]][[H8453A\|תוֹשָׁ֥ב]] [[H0595\|אָנֹכִ֖י]] [[H5973A\|עִמָּ]][[H9036\|כֶ֑ם]] [[H5414G\|תְּנ֨וּ]] [[H9005\|לִ֤]][[H9030\|י]] [[H0272\|אֲחֻזַּת]][[H9014\|־]] [[H6913\|קֶ֙בֶר֙]] [[H5973A\|עִמָּ]][[H9036\|כֶ֔ם]] [[H9002\|וְ]][[H6912\|אֶקְבְּרָ֥ה]] [[H4191\|מֵתִ֖]][[H9020\|י]] [[H9006\|מִ]][[H9005\|לְּ]][[H6440H\|פָנָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic LAND|LAND]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.23.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.23.3|<< Genesis 23:3]]</td><td align="center" style="border:none;">[[Gen.23|Genesis 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.23.5|Genesis 23:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

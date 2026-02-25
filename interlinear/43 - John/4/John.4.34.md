@@ -1,10 +1,64 @@
+---
+title: John 4:34
+type: Verse
+kjv: "Jesus saith unto them, My meat is to do the will of him that sent me, and to finish his work."
+bsb: "Jesus explained, “My food is to do the will of Him who sent Me and to finish His work."
+jesus_said: "My meat is to do the will of him that sent me, and to finish his work."
+greek: "λέγει αὐτοῖς ὁ Ἰησοῦς· ἐμὸν βρῶμά ἐστιν ἵνα ποιήσω τὸ θέλημα τοῦ πέμψαντός με καὶ τελειώσω αὐτοῦ τὸ ἔργον."
+pericope: "[[John.4.27 The Disciples Return and Marvel|The Disciples Return and Marvel]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic DUTY|DUTY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+- "[[topic WILL|WILL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1473]]"
+- "[[G1033]]"
+- "[[G1510]]"
+- "[[G2443]]"
+- "[[G4160G]]"
+- "[[G2307]]"
+- "[[G3992]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G5048]]"
+- "[[G2041]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 4:34**<big><big>[[John.4.27 The Disciples Return and Marvel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus saith unto them, My meat is to do the will of him that sent me, and to finish his work.
 <small><sub>**BSB:**</sub></small>
 Jesus explained, “My food is to do the will of Him who sent Me and to finish His work.
-<small><sub>**Literal:**</sub></small>
-Says to them <the> Jesus; My own food is that I may do the will of the [One who] having sent Me and may finish of Him the work.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.33|<< John 4:33]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.35|John 4:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγει]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G1473\|ἐμὸν]]  [[G1033\|βρῶμά]]  [[G1510\|ἐστιν]]  [[G2443\|ἵνα]]  [[G4160G\|ποιήσω]]  [[G3588\|τὸ]]  [[G2307\|θέλημα]]  [[G3588\|τοῦ]]  [[G3992\|πέμψαντός]]  [[G3165\|με]]  [[G2532\|καὶ]]  [[G5048\|τελειώσω]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὸ]]  [[G2041\|ἔργον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic DUTY|DUTY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic SAMARIA|SAMARIA]] • [[topic SHECHEM|SHECHEM]] • [[topic WILL|WILL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.33|<< John 4:33]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.35|John 4:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

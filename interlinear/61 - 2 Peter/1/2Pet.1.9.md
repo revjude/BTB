@@ -1,10 +1,62 @@
+---
+title: 2 Peter 1:9
+type: Verse
+kjv: "But he that lacketh these things is blind, and cannot see afar off, and hath forgotten that he was purged from his old sins."
+bsb: "But whoever lacks these traits is nearsighted to the point of blindness, having forgotten that he has been cleansed from his past sins."
+greek: "ᾯ γὰρ μὴ πάρεστιν ταῦτα, τυφλός ἐστιν μυωπάζων, λήθην λαβὼν τοῦ καθαρισμοῦ τῶν πάλαι αὐτοῦ ἁμαρτιῶν."
+pericope: "[[2Pet.1.3 Partakers of the Divine Nature|Partakers of the Divine Nature]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 1
+book/chapter: "[[2Pet.1|2 Peter 1]]"
+chronological_order: 1157
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic GRACES|GRACES]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+strongs:
+- "[[G3739]]"
+- "[[G1063]]"
+- "[[G3361]]"
+- "[[G3918]]"
+- "[[G3778]]"
+- "[[G5185]]"
+- "[[G1510]]"
+- "[[G3467]]"
+- "[[G3024]]"
+- "[[G2983]]"
+- "[[G3588]]"
+- "[[G2512]]"
+- "[[G3819]]"
+- "[[G0846]]"
+- "[[G0266]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **2 Peter 1:9**<big><big>[[2Pet.1.3 Partakers of the Divine Nature|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he that lacketh these things is blind, and cannot see afar off, and hath forgotten that he was purged from his old sins.
 <small><sub>**BSB:**</sub></small>
 But whoever lacks these traits is nearsighted to the point of blindness, having forgotten that he has been cleansed from his past sins.
-<small><sub>**Literal:**</sub></small>
-In whomever for not are present these things, blind he is being short sighted, forgetfulness having received of the purification the former of him sins.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.8|<< 2 Peter 1:8]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.10|2 Peter 1:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ᾯ]]  [[G1063\|γὰρ]]  [[G3361\|μὴ]]  [[G3918\|πάρεστιν]]  [[G3778\|ταῦτα,]]  [[G5185\|τυφλός]]  [[G1510\|ἐστιν]]  [[G3467\|μυωπάζων,]]  [[G3024\|λήθην]]  [[G2983\|λαβὼν]]  [[G3588\|τοῦ]]  [[G2512\|καθαρισμοῦ]]  [[G3588\|τῶν]]  [[G3819\|πάλαι]]  [[G0846\|αὐτοῦ]]  [[G0266\|ἁμαρτιῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLINDNESS|BLINDNESS]] • [[topic GRACES|GRACES]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.8|<< 2 Peter 1:8]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.10|2 Peter 1:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

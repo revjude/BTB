@@ -1,8 +1,56 @@
+---
+title: Psalm 2:11
+type: Verse
+kjv: "Serve the LORD with fear, and rejoice with trembling."
+bsb: "Serve the LORD with fear, and rejoice with trembling."
+hebrew: "עִבְד֣וּ אֶת־ יְהוָ֣ה בְּיִרְאָ֑ה וְ֝גִ֗ילוּ בִּרְעָדָֽה׃"
+pericope: "[[Ps.2.1 The Triumphant Messiah|The Triumphant Messiah]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 2
+book/chapter: "[[Ps.2|Psalm 2]]"
+chronological_order: 338
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H5647H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3374]]"
+- "[[H9002]]"
+- "[[H1523]]"
+- "[[H7461B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 2:11**<big><big>[[Ps.2.1 The Triumphant Messiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Serve the LORD with fear, and rejoice with trembling.
 <small><sub>**BSB:**</sub></small>
 Serve the LORD with fear, and rejoice with trembling.
+<small><sub>**Hebrew:**</sub></small>
+[[H5647H\|עִבְד֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H9003\|בְּ]][[H3374\|יִרְאָ֑ה]] [[H9002\|וְ֝]][[H1523\|גִ֗ילוּ]] [[H9003\|בִּ]][[H7461B\|רְעָדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic REVERENCE|REVERENCE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.2.10|<< Psalms 2:10]]</td><td align="center" style="border:none;">[[Ps.2|Psalms 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.2.12|Psalms 2:12 >>]]</td></tr></table>
 

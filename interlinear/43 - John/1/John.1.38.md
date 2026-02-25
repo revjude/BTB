@@ -1,10 +1,62 @@
+---
+title: John 1:38
+type: Verse
+kjv: "Then Jesus turned, and saw them following, and saith unto them, What seek ye? They said unto him, Rabbi, (which is to say, being interpreted, Master,) where dwellest thou?"
+bsb: "Jesus turned and saw them following. “What do you want?” He asked. They said to Him, “Rabbi” (which means Teacher), “where are You staying?”"
+jesus_said: "What seek ye?"
+greek: "Στραφεὶς δὲ ὁ Ἰησοῦς καὶ θεασάμενος αὐτοὺς ἀκολουθοῦντας λέγει αὐτοῖς· τί ζητεῖτε; οἱ δὲ εἶπαν αὐτῷ· ῥαββί, ὃ λέγεται μεθερμηνευόμενον διδάσκαλε, ποῦ μένεις;"
+pericope: "[[John.1.35 The First Disciples|The First Disciples]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic RABBI|RABBI]]"
+strongs:
+- "[[G4762]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G2300]]"
+- "[[G0846]]"
+- "[[G0190]]"
+- "[[G3004G]]"
+- "[[G5101]]"
+- "[[G2212]]"
+- "[[G2036]]"
+- "[[G4461]]"
+- "[[G3739]]"
+- "[[G3177]]"
+- "[[G1320]]"
+- "[[G4226]]"
+- "[[G3306]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 1:38**<big><big>[[John.1.35 The First Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Jesus turned, and saw them following, and saith unto them, What seek ye? They said unto him, Rabbi, (which is to say, being interpreted, Master,) where dwellest thou?
 <small><sub>**BSB:**</sub></small>
 Jesus turned and saw them following. “What do you want?” He asked. They said to Him, “Rabbi” (which means Teacher), “where are You staying?”
-<small><sub>**Literal:**</sub></small>
-Having turned then <the> Jesus and having beheld them following He says to them; What seek you? <the> And they said to Him; Rabbi which is to say meaning Teacher — where are You staying?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.37|<< John 1:37]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.39|John 1:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4762\|Στραφεὶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2532\|καὶ]]  [[G2300\|θεασάμενος]]  [[G0846\|αὐτοὺς]]  [[G0190\|ἀκολουθοῦντας]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G5101\|τί]]  [[G2212\|ζητεῖτε;]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2036\|εἶπαν]]  [[G0846\|αὐτῷ·]]  [[G4461\|ῥαββί,]]  [[G3739\|ὃ]]  [[G3004G\|λέγεται]]  [[G3177\|μεθερμηνευόμενον]]  [[G1320\|διδάσκαλε,]]  [[G4226\|ποῦ]]  [[G3306\|μένεις;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic RABBI|RABBI]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.37|<< John 1:37]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.39|John 1:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

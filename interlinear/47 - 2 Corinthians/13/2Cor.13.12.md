@@ -1,10 +1,49 @@
+---
+title: 2 Corinthians 13:12
+type: Verse
+kjv: "Greet one another with an holy kiss."
+bsb: "Greet one another with a holy kiss."
+greek: "Ἀσπάσασθε ἀλλήλους ἐν ἁγίῳ φιλήματι. Ἀσπάζονται ὑμᾶς οἱ ἅγιοι πάντες.¶"
+pericope: "[[2Cor.13.11 Benediction and Farewell|Benediction and Farewell]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 13
+book/chapter: "[[2Cor.13|2 Corinthians 13]]"
+chronological_order: 1086
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic KISS|KISS]]"
+strongs:
+- "[[G0782]]"
+- "[[G0240]]"
+- "[[G1722]]"
+- "[[G0040G]]"
+- "[[G5370]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G0040H]]"
+- "[[G3956]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 13:12**<big><big>[[2Cor.13.11 Benediction and Farewell|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Greet one another with an holy kiss.
 <small><sub>**BSB:**</sub></small>
 Greet one another with a holy kiss.
-<small><sub>**Literal:**</sub></small>
-do greet one another with a holy kiss. [13] Greet you the saints all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.11|<< 2 Corinthians 13:11]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.13|2 Corinthians 13:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0782\|Ἀσπάσασθε]]  [[G0240\|ἀλλήλους]]  [[G1722\|ἐν]]  [[G0040G\|ἁγίῳ]]  [[G5370\|φιλήματι.]]  [[G0782\|Ἀσπάζονται]]  [[G4771\|ὑμᾶς]]  [[G3588\|οἱ]]  [[G0040H\|ἅγιοι]]  [[G3956\|πάντες.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KISS|KISS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.11|<< 2 Corinthians 13:11]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.13|2 Corinthians 13:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

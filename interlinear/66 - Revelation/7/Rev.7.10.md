@@ -1,10 +1,62 @@
+---
+title: Revelation 7:10
+type: Verse
+kjv: "And cried with a loud voice, saying, Salvation to our God which sitteth upon the throne, and unto the Lamb."
+bsb: "And they cried out in a loud voice: “Salvation to our God, who sits on the throne, and to the Lamb!”"
+greek: "καὶ κράζουσιν φωνῇ μεγάλῃ λέγοντες· ἡ σωτηρία τῷ θεῷ ἡμῶν τῷ καθημένῳ ἐπὶ τῷ θρόνῳ καὶ τῷ ἀρνίῳ."
+pericope: "[[Rev.7.9 Praise from the Great Multitude|Praise from the Great Multitude]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 7
+book/chapter: "[[Rev.7|Revelation 7]]"
+chronological_order: 1174
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAMB OF GOD|LAMB OF GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic THRONE|THRONE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2896]]"
+- "[[G5456G]]"
+- "[[G3173]]"
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G4991]]"
+- "[[G2316]]"
+- "[[G3165]]"
+- "[[G2521]]"
+- "[[G1909]]"
+- "[[G2362]]"
+- "[[G0721]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 7:10**<big><big>[[Rev.7.9 Praise from the Great Multitude|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And cried with a loud voice, saying, Salvation to our God which sitteth upon the throne, and unto the Lamb.
 <small><sub>**BSB:**</sub></small>
 And they cried out in a loud voice: “Salvation to our God, who sits on the throne, and to the Lamb!”
-<small><sub>**Literal:**</sub></small>
-And they were crying out in a voice loud saying: <the> Salvation to the God of us to the [One] sitting on the throne and to the Lamb!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.9|<< Revelation 7:9]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.11|Revelation 7:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2896\|κράζουσιν]]  [[G5456G\|φωνῇ]]  [[G3173\|μεγάλῃ]]  [[G3004G\|λέγοντες·]]  [[G3588\|ἡ]]  [[G4991\|σωτηρία]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G3165\|ἡμῶν]]  [[G3588\|τῷ]]  [[G2521\|καθημένῳ]]  [[G1909\|ἐπὶ]]  [[G3588\|τῷ]]  [[G2362\|θρόνῳ]]  [[G2532\|καὶ]]  [[G3588\|τῷ]]  [[G0721\|ἀρνίῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAMB OF GOD|LAMB OF GOD]] • [[topic PRAISE|PRAISE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic THRONE|THRONE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.9|<< Revelation 7:9]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.11|Revelation 7:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

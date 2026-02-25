@@ -1,10 +1,64 @@
+---
+title: Mark 6:50
+type: Verse
+kjv: "For they all saw him, and were troubled. And immediately he talked with them, and saith unto them, Be of good cheer: it is I; be not afraid."
+bsb: "for they all saw Him and were terrified. But Jesus spoke up at once: “Take courage! It is I. Do not be afraid.”"
+jesus_said: "Be of good cheer: it is I; be not afraid."
+greek: "πάντες γὰρ αὐτὸν εἶδον καὶ ἐταράχθησαν. ὁ δὲ εὐθὺς ἐλάλησεν μετ᾽ αὐτῶν καὶ λέγει αὐτοῖς· θαρσεῖτε, ἐγώ εἰμι, μὴ φοβεῖσθε."
+pericope: "[[Mark.6.45 Jesus Walks on Water|Jesus Walks on Water]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+strongs:
+- "[[G3956]]"
+- "[[G1063]]"
+- "[[G0846]]"
+- "[[G1492H]]"
+- "[[G2532]]"
+- "[[G5015]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2112]]"
+- "[[G2980]]"
+- "[[G3326]]"
+- "[[G3004G]]"
+- "[[G2293]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G3361]]"
+- "[[G5399]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Mark 6:50**<big><big>[[Mark.6.45 Jesus Walks on Water|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For they all saw him, and were troubled. And immediately he talked with them, and saith unto them, Be of good cheer: it is I; be not afraid.
 <small><sub>**BSB:**</sub></small>
 for they all saw Him and were terrified. But Jesus spoke up at once: “Take courage! It is I. Do not be afraid.”
-<small><sub>**Literal:**</sub></small>
-All for Him saw and were troubled. <the> now immediately He spoke with them and says to them; Take courage! I myself am [He], not do fear.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.49|<< Mark 6:49]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.51|Mark 6:51 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πάντες]]  [[G1063\|γὰρ]]  [[G0846\|αὐτὸν]]  [[G1492H\|εἶδον]]  [[G2532\|καὶ]]  [[G5015\|ἐταράχθησαν.]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2112\|εὐθὺς]]  [[G2980\|ἐλάλησεν]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G2293\|θαρσεῖτε,]]  [[G1473\|ἐγώ]]  [[G1510\|εἰμι,]]  [[G3361\|μὴ]]  [[G5399\|φοβεῖσθε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic COWARDICE|COWARDICE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SUPERSTITION|SUPERSTITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.49|<< Mark 6:49]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.51|Mark 6:51 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

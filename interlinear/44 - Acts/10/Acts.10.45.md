@@ -1,10 +1,64 @@
+---
+title: Acts 10:45
+type: Verse
+kjv: "And they of the circumcision which believed were astonished, as many as came with Peter, because that on the Gentiles also was poured out the gift of the Holy Ghost."
+bsb: "All the circumcised believers who had accompanied Peter were astounded that the gift of the Holy Spirit had been poured out even on the Gentiles."
+greek: "καὶ ἐξέστησαν οἱ ἐκ περιτομῆς πιστοὶ ὅσοι συνῆλθαν τῷ Πέτρῳ, ὅτι καὶ ἐπὶ τὰ ἔθνη ἡ δωρεὰ τοῦ ἁγίου τοῦ πνεύματος ἐκκέχυται·"
+pericope: "[[Acts.10.44 The Gentiles Receive the Holy Spirit|The Gentiles Receive the Holy Spirit]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHARISM|CHARISM]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G1839]]"
+- "[[G3588]]"
+- "[[G1537]]"
+- "[[G4061]]"
+- "[[G4103]]"
+- "[[G3745]]"
+- "[[G4905]]"
+- "[[G4074G]]"
+- "[[G3754G]]"
+- "[[G1909]]"
+- "[[G1484]]"
+- "[[G1431]]"
+- "[[G0040G]]"
+- "[[G4151G]]"
+- "[[G1632]]"
+texts:
+- NKO
+- NK(O)
+- o
+---
+
 **Acts 10:45**<big><big>[[Acts.10.44 The Gentiles Receive the Holy Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they of the circumcision which believed were astonished, as many as came with Peter, because that on the Gentiles also was poured out the gift of the Holy Ghost.
 <small><sub>**BSB:**</sub></small>
 All the circumcised believers who had accompanied Peter were astounded that the gift of the Holy Spirit had been poured out even on the Gentiles.
-<small><sub>**Literal:**</sub></small>
-And were amazed the from [the] circumcision believers as many as had come with <the> Peter, that even upon the Gentiles the gift of the Holy <the> Spirit has been poured out;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.44|<< Acts 10:44]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.46|Acts 10:46 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1839\|ἐξέστησαν]]  [[G3588\|οἱ]]  [[G1537\|ἐκ]]  [[G4061\|περιτομῆς]]  [[G4103\|πιστοὶ]]  [[G3745\|ὅσοι]]  [[G4905\|συνῆλθαν]]  [[G3588\|τῷ]]  [[G4074G\|Πέτρῳ,]]  [[G3754G\|ὅτι]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὰ]]  [[G1484\|ἔθνη]]  [[G3588\|ἡ]]  [[G1431\|δωρεὰ]]  [[G3588\|τοῦ]]  [[G0040G\|ἁγίου]]  [[G3588\|τοῦ]]  [[G4151G\|πνεύματος]]  [[G1632\|ἐκκέχυται·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic BIGOTRY|BIGOTRY]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic CHARISM|CHARISM]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic GENTILES|GENTILES]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.44|<< Acts 10:44]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.46|Acts 10:46 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

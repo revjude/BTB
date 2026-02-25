@@ -1,10 +1,65 @@
+---
+title: Luke 24:13
+type: Verse
+kjv: "And, behold, two of them went that same day to a village called Emmaus, which was from Jerusalem about threescore furlongs."
+bsb: "That same day two of them were going to a village called Emmaus, about seven miles from Jerusalem."
+greek: "Καὶ ἰδοὺ δύο ἐξ αὐτῶν ἐν αὐτῇ τῇ ἡμέρᾳ ἦσαν πορευόμενοι εἰς κώμην ἀπέχουσαν σταδίους ἑξήκοντα ἀπὸ Ἰερουσαλὴμ ᾗ ὄνομα Ἐμμαοῦς."
+pericope: "[[Luke.24.13 The Road to Emmaus|The Road to Emmaus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic EMMAUS|EMMAUS]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic FURLONG|FURLONG]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MEASURE|MEASURE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G1417]]"
+- "[[G1537]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1510]]"
+- "[[G4198]]"
+- "[[G1519]]"
+- "[[G2968]]"
+- "[[G0568]]"
+- "[[G4712]]"
+- "[[G1835]]"
+- "[[G0575]]"
+- "[[G2419]]"
+- "[[G3739]]"
+- "[[G3686]]"
+- "[[G1695]]"
+texts:
+- NKO
+---
+
 **Luke 24:13**<big><big>[[Luke.24.13 The Road to Emmaus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, behold, two of them went that same day to a village called Emmaus, which was from Jerusalem [about] threescore furlongs.
 <small><sub>**BSB:**</sub></small>
 That same day two of them were going to a village called Emmaus, about seven miles from Jerusalem.
-<small><sub>**Literal:**</sub></small>
-And behold two of them on same the day were going to a village being distant stadia sixty from Jerusalem whose name [is] Emmaus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.12|<< Luke 24:12]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.14|Luke 24:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2400\|ἰδοὺ]]  [[G1417\|δύο]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G1722\|ἐν]]  [[G0846\|αὐτῇ]]  [[G3588\|τῇ]]  [[G2250\|ἡμέρᾳ]]  [[G1510\|ἦσαν]]  [[G4198\|πορευόμενοι]]  [[G1519\|εἰς]]  [[G2968\|κώμην]]  [[G0568\|ἀπέχουσαν]]  [[G4712\|σταδίους]]  [[G1835\|ἑξήκοντα]]  [[G0575\|ἀπὸ]]  [[G2419\|Ἰερουσαλὴμ]]  [[G3739\|ᾗ]]  [[G3686\|ὄνομα]]  [[G1695\|Ἐμμαοῦς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EMMAUS|EMMAUS]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic FURLONG|FURLONG]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MEASURE|MEASURE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.12|<< Luke 24:12]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.14|Luke 24:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

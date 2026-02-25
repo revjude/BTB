@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Seeking Vashti’s Successor
+type: Pericope
 pericope: "[[Esth.2.1 Seeking Vashti’s Successor|Seeking Vashti’s Successor]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Esther
 chapter: 2
 book/chapter: "[[Esth.2|Esther 2]]"
-genre:
+chronological_order: 900
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
 - narrative
 - court tale
 - diaspora narrative
 - megillot
+verse_count: 4
 verses:
 - "[[Esth.2.1]]"
 - "[[Esth.2.2]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Esth.2.4]]"
 ---
 
-[[Esth.2|Esther 2:1 - Esther 2:4]]
+<small>[[Esth.2|Esther 2:1-4]]</small>
 *Seeking Vashti’s Successor*
 
 [[Esth.2.1|1]] After these things, when the wrath of king Ahasuerus was appeased, he remembered Vashti, and what she had done, and what was decreed against her.

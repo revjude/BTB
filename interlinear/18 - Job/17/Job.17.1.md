@@ -1,8 +1,50 @@
+---
+title: Job 17:1
+type: Verse
+kjv: "My breath is corrupt, my days are extinct, the graves are ready for me."
+bsb: "“My spirit is broken; my days are extinguished; the grave awaits me."
+hebrew: "רוּחִ֣י חֻ֭בָּלָה יָמַ֥י נִזְעָ֗כוּ קְבָרִ֥ים לִֽי׃"
+pericope: "[[Job.17.1 Job Prepares for Death|Job Prepares for Death]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 17
+book/chapter: "[[Job.17|Job 17]]"
+chronological_order: 28
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic LIFE|LIFE]]"
+strongs:
+- "[[H7307G]]"
+- "[[H9020]]"
+- "[[H2254B]]"
+- "[[H3117G]]"
+- "[[H2193]]"
+- "[[H6913]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 17:1**<big><big>[[Job.17.1 Job Prepares for Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My breath is corrupt, my days are extinct, the graves [are ready] for me.
 <small><sub>**BSB:**</sub></small>
 “My spirit is broken; my days are extinguished; the grave awaits me.
+<small><sub>**Hebrew:**</sub></small>
+[[H7307G\|רוּחִ֣]][[H9020\|י]] [[H2254B\|חֻ֭בָּלָה]] [[H3117G\|יָמַ֥]][[H9020\|י]] [[H2193\|נִזְעָ֗כוּ]] [[H6913\|קְבָרִ֥ים]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LIFE|LIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.17.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.22|<< Job 16:22]]</td><td align="center" style="border:none;">[[Job.17|Job 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.17.2|Job 17:2 >>]]</td></tr></table>
 

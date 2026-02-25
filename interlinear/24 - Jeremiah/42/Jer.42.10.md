@@ -1,8 +1,68 @@
+---
+title: Jeremiah 42:10
+type: Verse
+kjv: "If ye will still abide in this land, then will I build you, and not pull you down, and I will plant you, and not pluck you up: for I repent me of the evil that I have done unto you."
+bsb: "‘If you will indeed stay in this land, then I will build you up and not tear you down; I will plant you and not uproot you, for I will relent of the disaster I have brought upon you."
+hebrew: "אִם־ שׁ֤וֹב תֵּֽשְׁבוּ֙ בָּאָ֣רֶץ הַזֹּ֔את וּבָנִ֤יתִי אֶתְכֶם֙ וְלֹ֣א אֶהֱרֹ֔ס וְנָטַעְתִּ֥י אֶתְכֶ֖ם וְלֹ֣א אֶתּ֑וֹשׁ כִּ֤י נִחַ֙מְתִּי֙ אֶל־ הָ֣רָעָ֔ה אֲשֶׁ֥ר עָשִׂ֖יתִי לָכֶֽם׃"
+pericope: "[[Jer.42.1 A Warning against Going to Egypt|A Warning against Going to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 42
+book/chapter: "[[Jer.42|Jeremiah 42]]"
+chronological_order: 765
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H7725J]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9009]]"
+- "[[H2063]]"
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2040]]"
+- "[[H5193]]"
+- "[[H5428]]"
+- "[[H3588A]]"
+- "[[H5162H]]"
+- "[[H0413]]"
+- "[[H7451C]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 42:10**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If ye will still abide in this land, then will I build you, and not pull [you] down, and I will plant you, and not pluck [you] up: for I repent me of the evil that I have done unto you.
 <small><sub>**BSB:**</sub></small>
 ‘If you will indeed stay in this land, then I will build you up and not tear you down; I will plant you and not uproot you, for I will relent of the disaster I have brought upon you.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H7725J\|שׁ֤וֹב]] [[H3427\|תֵּֽשְׁבוּ֙]] [[H9003\|בָּ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H9001\|וּ]][[H1129\|בָנִ֤יתִי]] [[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H2040\|אֶהֱרֹ֔ס]] [[H9001\|וְ]][[H5193\|נָטַעְתִּ֥י]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H5428\|אֶתּ֑וֹשׁ]] [[H3588A\|כִּ֤י]] [[H5162H\|נִחַ֙מְתִּי֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ֣]][[H7451C\|רָעָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|עָשִׂ֖יתִי]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.9|<< Jeremiah 42:9]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.11|Jeremiah 42:11 >>]]</td></tr></table>
 

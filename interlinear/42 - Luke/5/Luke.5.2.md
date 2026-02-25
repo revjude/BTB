@@ -1,10 +1,60 @@
+---
+title: Luke 5:2
+type: Verse
+kjv: "And saw two ships standing by the lake: but the fishermen were gone out of them, and were washing their nets."
+bsb: "He saw two boats at the edge of the lake. The fishermen had left them and were washing their nets."
+greek: "καὶ εἶδεν δύο πλοῖα ἑστῶτα παρὰ τὴν λίμνην. οἱ δὲ ἁλιεῖς ἀπ᾽ αὐτῶν ἀποβάντες ἔπλυνον τὰ δίκτυα."
+pericope: "[[Luke.5.1 The First Disciples|The First Disciples]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 5
+book/chapter: "[[Luke.5|Luke 5]]"
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G1417]]"
+- "[[G4143]]"
+- "[[G2476]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G3041]]"
+- "[[G1161]]"
+- "[[G0231]]"
+- "[[G0575]]"
+- "[[G0846]]"
+- "[[G0576]]"
+- "[[G4150]]"
+- "[[G1350]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 5:2**<big><big>[[Luke.5.1 The First Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And saw two ships standing by the lake: but the fishermen were gone out of them, and were washing [their] nets.
 <small><sub>**BSB:**</sub></small>
 He saw two boats at the edge of the lake. The fishermen had left them and were washing their nets.
-<small><sub>**Literal:**</sub></small>
-and He saw two boats already lying by the lake. <the> but the fishermen from them having gone out were washing the nets.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.1|<< Luke 5:1]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.3|Luke 5:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1492H\|εἶδεν]]  [[G1417\|δύο]]  [[G4143\|πλοῖα]]  [[G2476\|ἑστῶτα]]  [[G3844\|παρὰ]]  [[G3588\|τὴν]]  [[G3041\|λίμνην.]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G0231\|ἁλιεῖς]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτῶν]]  [[G0576\|ἀποβάντες]]  [[G4150\|ἔπλυνον]]  [[G3588\|τὰ]]  [[G1350\|δίκτυα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.1|<< Luke 5:1]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.3|Luke 5:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

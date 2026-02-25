@@ -1,10 +1,65 @@
+---
+title: 2 Thessalonians 2:3
+type: Verse
+kjv: "Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;"
+bsb: "Let no one deceive you in any way, for it will not come until the rebellion occurs and the man of lawlessness—the son of destruction—is revealed."
+greek: "μή τις ὑμᾶς ἐξαπατήσῃ κατὰ μηδένα τρόπον· ὅτι ἐὰν μὴ ἔλθῃ ἡ ἀποστασία πρῶτον καὶ ἀποκαλυφθῇ ὁ ἄνθρωπος τῆς ἀνομίας, ὁ υἱὸς τῆς ἀπωλείας,"
+pericope: "[[2Thess.2.1 The Man of Lawlessness|The Man of Lawlessness]]"
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 2
+book/chapter: "[[2Thess.2|2 Thessalonians 2]]"
+chronological_order: 1054
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic ANTICHRIST|ANTICHRIST]]"
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+strongs:
+- "[[G3361]]"
+- "[[G5100]]"
+- "[[G4771]]"
+- "[[G1818]]"
+- "[[G2596]]"
+- "[[G3367]]"
+- "[[G5158]]"
+- "[[G3754H]]"
+- "[[G1437]]"
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G0646]]"
+- "[[G4413G]]"
+- "[[G2532]]"
+- "[[G0601]]"
+- "[[G0444]]"
+- "[[G0458]]"
+- "[[G5207]]"
+- "[[G0684]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **2 Thessalonians 2:3**<big><big>[[2Thess.2.1 The Man of Lawlessness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Let no man deceive you by any means: for [that day shall not come], except there come a falling away first, and that man of sin be revealed, the son of perdition;
 <small><sub>**BSB:**</sub></small>
 Let no one deceive you in any way, for it will not come until the rebellion occurs and the man of lawlessness—the son of destruction—is revealed.
-<small><sub>**Literal:**</sub></small>
-No one you may deceive in not one way; that only unless shall have come the apostasy first and shall have been revealed the man <the> of lawlessness, the son <the> of destruction,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.2|<< 2 Thessalonians 2:2]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.4|2 Thessalonians 2:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μή]]  [[G5100\|τις]]  [[G4771\|ὑμᾶς]]  [[G1818\|ἐξαπατήσῃ]]  [[G2596\|κατὰ]]  [[G3367\|μηδένα]]  [[G5158\|τρόπον·]]  [[G3754H\|ὅτι]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G2064\|ἔλθῃ]]  [[G3588\|ἡ]]  [[G0646\|ἀποστασία]]  [[G4413G\|πρῶτον]]  [[G2532\|καὶ]]  [[G0601\|ἀποκαλυφθῇ]]  [[G3588\|ὁ]]  [[G0444\|ἄνθρωπος]]  [[G3588\|τῆς]]  [[G0458\|ἀνομίας,]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τῆς]]  [[G0684\|ἀπωλείας,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTICHRIST|ANTICHRIST]] • [[topic APOSTASY|APOSTASY]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRESUMPTION|PRESUMPTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.2|<< 2 Thessalonians 2:2]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.4|2 Thessalonians 2:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

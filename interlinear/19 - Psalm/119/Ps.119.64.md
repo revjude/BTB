@@ -1,8 +1,54 @@
+---
+title: Psalm 119:64
+type: Verse
+kjv: "The earth, O LORD, is full of thy mercy: teach me thy statutes."
+bsb: "The earth is filled with Your loving devotion, O LORD; teach me Your statutes."
+hebrew: "חַסְדְּךָ֣ יְ֭הוָה מָלְאָ֥ה הָאָ֗רֶץ חֻקֶּ֥יךָ לַמְּדֵֽנִי׃"
+pericope: "[[Ps.119.57 Your Word Is a Lamp to My Feet - CHETH|Your Word Is a Lamp to My Feet - CHETH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+strongs:
+- "[[H2617A]]"
+- "[[H9021]]"
+- "[[H3068G]]"
+- "[[H4390]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2706G]]"
+- "[[H3925G]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:64**<big><big>[[Ps.119.57 Your Word Is a Lamp to My Feet - CHETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The earth, O LORD, is full of thy mercy: teach me thy statutes.
 <small><sub>**BSB:**</sub></small>
 The earth is filled with Your loving devotion, O LORD; teach me Your statutes.
+<small><sub>**Hebrew:**</sub></small>
+[[H2617A\|חַסְדְּ]][[H9021\|ךָ֣]] [[H3068G\|יְ֭הוָה]] [[H4390\|מָלְאָ֥ה]] [[H9009\|הָ]][[H0776G\|אָ֗רֶץ]] [[H2706G\|חֻקֶּ֥י]][[H9021\|ךָ]] [[H3925G\|לַמְּדֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INSTRUCTION|INSTRUCTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.64|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.63|<< Psalms 119:63]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.65|Psalms 119:65 >>]]</td></tr></table>
 

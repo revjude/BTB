@@ -1,10 +1,72 @@
+---
+title: 1 Corinthians 13:3
+type: Verse
+kjv: "And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not charity, it profiteth me nothing."
+bsb: "If I give all I possess to the poor and exult in the surrender of my body, but have not love, I gain nothing."
+greek: "κἂν κἂν ψωμίσω πάντα τὰ ὑπάρχοντά μου, καὶ ἐὰν παραδῶ τὸ σῶμά μου ἵνα καυχήσωμαι, ἀγάπην δὲ μὴ ἔχω, οὐδὲν ὠφελοῦμαι.¶"
+pericope: "[[1Cor.13.1 Love|Love]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 13
+book/chapter: "[[1Cor.13|1 Corinthians 13]]"
+chronological_order: 1070
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic GRACES|GRACES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic POOR|POOR]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WORKS|WORKS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G5595]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G5225]]"
+- "[[G3165]]"
+- "[[G3860]]"
+- "[[G4983]]"
+- "[[G2443]]"
+- "[[G2744]]"
+- "[[G0026]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G2192]]"
+- "[[G3762]]"
+- "[[G5623]]"
+texts:
+- NKO
+- N(K)(o)
+---
+
 **1 Corinthians 13:3**<big><big>[[1Cor.13.1 Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And though I bestow all my goods to feed [the poor], and though I give my body to be burned, and have not charity, it profiteth me nothing.
 <small><sub>**BSB:**</sub></small>
 If I give all I possess to the poor and exult in the surrender of my body, but have not love, I gain nothing.
-<small><sub>**Literal:**</sub></small>
-Even if I shall give away all the possessions of mine, And if I shall deliver up the body of mine that I may boast, love however not may have, no [thing] I am profited.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.13.2|<< 1 Corinthians 13:2]]</td><td align="center" style="border:none;">[[1Cor.13|1 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.13.4|1 Corinthians 13:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|κἂν]]  <sup><small>[[G1437\| [ • ] ]]</small></sup>  [[G5595\|ψωμίσω]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G5225\|ὑπάρχοντά]]  [[G3165\|μου,]]  [[G2532\|καὶ]]  [[G1437\|ἐὰν]]  [[G3860\|παραδῶ]]  [[G3588\|τὸ]]  [[G4983\|σῶμά]]  [[G3165\|μου]]  [[G2443\|ἵνα]]  [[G2744\|καυχήσωμαι,]]  [[G0026\|ἀγάπην]]  [[G1161\|δὲ]]  [[G3361\|μὴ]]  [[G2192\|ἔχω,]]  [[G3762\|οὐδὲν]]  [[G5623\|ὠφελοῦμαι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic CHARITABLENESS|CHARITABLENESS]] • [[topic GRACES|GRACES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic LOVE|LOVE]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic PERSECUTION|PERSECUTION]] • [[topic POOR|POOR]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]] • [[topic VANITY|VANITY]] • [[topic WORKS|WORKS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.13.2|<< 1 Corinthians 13:2]]</td><td align="center" style="border:none;">[[1Cor.13|1 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.13.4|1 Corinthians 13:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

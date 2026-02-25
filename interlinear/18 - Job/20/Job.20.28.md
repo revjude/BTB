@@ -1,8 +1,51 @@
+---
+title: Job 20:28
+type: Verse
+kjv: "The increase of his house shall depart, and his goods shall flow away in the day of his wrath."
+bsb: "The possessions of his house will be removed, flowing away on the day of God’s wrath."
+hebrew: "יִ֭גֶל יְב֣וּל בֵּית֑וֹ נִ֝גָּר֗וֹת בְּי֣וֹם אַפּֽוֹ׃"
+pericope: "[[Job.20.1 Zophar：Destruction Awaits the Wicked|Zophar：Destruction Awaits the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 20
+book/chapter: "[[Job.20|Job 20]]"
+chronological_order: 31
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H1540K]]"
+- "[[H2981]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H5064]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H0639G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 20:28**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The increase of his house shall depart, [and his goods] shall flow away in the day of his wrath.
 <small><sub>**BSB:**</sub></small>
 The possessions of his house will be removed, flowing away on the day of God’s wrath.
+<small><sub>**Hebrew:**</sub></small>
+[[H1540K\|יִ֭גֶל]] [[H2981\|יְב֣וּל]] [[H1004B\|בֵּית֑]][[H9023\|וֹ]] [[H5064\|נִ֝גָּר֗וֹת]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H0639G\|אַפּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.27|<< Job 20:27]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.29|Job 20:29 >>]]</td></tr></table>
 

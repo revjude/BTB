@@ -1,8 +1,65 @@
+---
+title: 2 Chronicles 34:16
+type: Verse
+kjv: "And Shaphan carried the book to the king, and brought the king word back again, saying, All that was committed to thy servants, they do it."
+bsb: "Then Shaphan brought the book to the king and reported, “Your servants are doing all that has been placed in their hands."
+hebrew: "וַיָּבֵ֨א שָׁפָ֤ן אֶת־ הַסֵּ֙פֶר֙ אֶל־ הַמֶּ֔לֶךְ וַיָּ֨שֶׁב ע֧וֹד אֶת־ הַמֶּ֛לֶךְ דָּבָ֖ר לֵאמֹ֑ר כֹּ֛ל אֲשֶׁר־ נִתַּ֥ן בְּיַד־ עֲבָדֶ֖יךָ הֵ֥ם עֹשִֽׂים׃"
+pericope: "[[2Chr.34.14 Hilkiah Finds the Book of the Law|Hilkiah Finds the Book of the Law]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 34
+book/chapter: "[[2Chr.34|2 Chronicles 34]]"
+chronological_order: 713
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic SHAPHAN|SHAPHAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H8227B]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5612H]]"
+- "[[H0413]]"
+- "[[H4428G]]"
+- "[[H7725M]]"
+- "[[H5750]]"
+- "[[H1697G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9003]]"
+- "[[H3027K]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H1992]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 34:16**<big><big>[[2Chr.34.14 Hilkiah Finds the Book of the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Shaphan carried the book to the king, and brought the king word back again, saying, All that was committed to thy servants, they do [it].
 <small><sub>**BSB:**</sub></small>
 Then Shaphan brought the book to the king and reported, “Your servants are doing all that has been placed in their hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935P\|יָּבֵ֨א]] [[H8227B\|שָׁפָ֤ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5612H\|סֵּ֙פֶר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9001\|וַ]][[H7725M\|יָּ֨שֶׁב]] [[H5750\|ע֧וֹד]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֛לֶךְ]] [[H1697G\|דָּבָ֖ר]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3605\|כֹּ֛ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414G\|נִתַּ֥ן]] [[H9003\|בְּ]][[H3027K\|יַד]][[H9014\|־]] [[H5650\|עֲבָדֶ֖י]][[H9021\|ךָ]] [[H1992\|הֵ֥ם]] [[H6213A\|עֹשִֽׂים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOSIAH|JOSIAH]] • [[topic SHAPHAN|SHAPHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.15|<< 2 Chronicles 34:15]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.17|2 Chronicles 34:17 >>]]</td></tr></table>
 

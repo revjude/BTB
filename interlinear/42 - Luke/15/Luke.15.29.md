@@ -1,10 +1,74 @@
+---
+title: Luke 15:29
+type: Verse
+kjv: "And he answering said to his father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends:"
+bsb: "But he answered his father, ‘Look, all these years I have served you and never disobeyed a commandment of yours. Yet you never gave me even a young goat so I could celebrate with my friends."
+jesus_said: "And he answering said to his father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends:"
+greek: "Ὁ δὲ ἀποκριθεὶς εἶπεν τῷ πατρὶ αὐτοῦ· ἰδοὺ τοσαῦτα ἔτη δουλεύω σοι καὶ οὐδέποτε ἐντολήν σου παρῆλθον, καὶ ἐμοὶ οὐδέποτε ἔδωκας ἔριφον ἵνα μετὰ τῶν φίλων μου εὐφρανθῶ."
+pericope: "[[Luke.15.11 The Parable of the Prodigal Son|The Parable of the Prodigal Son]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 15
+book/chapter: "[[Luke.15|Luke 15]]"
+chronological_order: 977
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRODIGAL SON|PRODIGAL SON]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0611]]"
+- "[[G2036]]"
+- "[[G3962]]"
+- "[[G0846]]"
+- "[[G2400]]"
+- "[[G5118]]"
+- "[[G2094]]"
+- "[[G1398]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G3763]]"
+- "[[G1785]]"
+- "[[G3928]]"
+- "[[G1473]]"
+- "[[G1325]]"
+- "[[G2056]]"
+- "[[G2443]]"
+- "[[G3326]]"
+- "[[G5384]]"
+- "[[G3165]]"
+- "[[G2165]]"
+texts:
+- NKO
+---
+
 **Luke 15:29**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he answering said to [his] father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends:
 <small><sub>**BSB:**</sub></small>
 But he answered his father, ‘Look, all these years I have served you and never disobeyed a commandment of yours. Yet you never gave me even a young goat so I could celebrate with my friends.
-<small><sub>**Literal:**</sub></small>
-<the> And answering he said to the [the] father of him; Behold so many years I serve you and never a commandment of you I disobeyed, and to me myself never did you give a young goat that with the friends of mine I may make merry.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.28|<< Luke 15:28]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.30|Luke 15:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G0611\|ἀποκριθεὶς]]  [[G2036\|εἶπεν]]  [[G3588\|τῷ]]  [[G3962\|πατρὶ]]  [[G0846\|αὐτοῦ·]]  [[G2400\|ἰδοὺ]]  [[G5118\|τοσαῦτα]]  [[G2094\|ἔτη]]  [[G1398\|δουλεύω]]  [[G4771\|σοι]]  [[G2532\|καὶ]]  [[G3763\|οὐδέποτε]]  [[G1785\|ἐντολήν]]  [[G4771\|σου]]  [[G3928\|παρῆλθον,]]  [[G2532\|καὶ]]  [[G1473\|ἐμοὶ]]  [[G3763\|οὐδέποτε]]  [[G1325\|ἔδωκας]]  [[G2056\|ἔριφον]]  [[G2443\|ἵνα]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G5384\|φίλων]]  [[G3165\|μου]]  [[G2165\|εὐφρανθῶ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INHERITANCE|INHERITANCE]] • [[topic JEALOUSY|JEALOUSY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic PENITENT|PENITENT]] • [[topic PRODIGAL SON|PRODIGAL SON]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SALVATION|SALVATION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.28|<< Luke 15:28]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.30|Luke 15:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

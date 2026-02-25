@@ -1,8 +1,71 @@
+---
+title: Ezekiel 45:9
+type: Verse
+kjv: "Thus saith the Lord GOD; Let it suffice you, O princes of Israel: remove violence and spoil, and execute judgment and justice, take away your exactions from my people, saith the Lord GOD."
+bsb: "For this is what the Lord GOD says: ‘Enough, O princes of Israel! Cease your violence and oppression, and do what is just and right. Stop dispossessing My people, declares the Lord GOD.’"
+hebrew: "כֹּֽה־ אָמַ֞ר אֲדֹנָ֣י יְהוִ֗ה רַב־ לָכֶם֙ נְשִׂיאֵ֣י יִשְׂרָאֵ֔ל חָמָ֤ס וָשֹׁד֙ הָסִ֔ירוּ וּמִשְׁפָּ֥ט וּצְדָקָ֖ה עֲשׂ֑וּ הָרִ֤ימוּ גְרֻשֹֽׁתֵיכֶם֙ מֵעַ֣ל עַמִּ֔י נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃"
+pericope: "[[Ezek.45.7 The Prince’s Portion|The Prince’s Portion]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 45
+book/chapter: "[[Ezek.45|Ezekiel 45]]"
+chronological_order: 836
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic KING|KING]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H7227A]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H5387A]]"
+- "[[H3478]]"
+- "[[H2555]]"
+- "[[H9002]]"
+- "[[H7701]]"
+- "[[H5493G]]"
+- "[[H4941H]]"
+- "[[H6666]]"
+- "[[H6213A]]"
+- "[[H7311A]]"
+- "[[H1646]]"
+- "[[H9026]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H5002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 45:9**<big><big>[[Ezek.45.7 The Prince’s Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the Lord GOD; Let it suffice you, O princes of Israel: remove violence and spoil, and execute judgment and justice, take away your exactions from my people, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
 For this is what the Lord GOD says: ‘Enough, O princes of Israel! Cease your violence and oppression, and do what is just and right. Stop dispossessing My people, declares the Lord GOD.’
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֞ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֗ה]] [[H7227A\|רַב]][[H9014\|־]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H5387A\|נְשִׂיאֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H2555\|חָמָ֤ס]] [[H9002\|וָ]][[H7701\|שֹׁד֙]] [[H5493G\|הָסִ֔ירוּ]] [[H9002\|וּ]][[H4941H\|מִשְׁפָּ֥ט]] [[H9002\|וּ]][[H6666\|צְדָקָ֖ה]] [[H6213A\|עֲשׂ֑וּ]] [[H7311A\|הָרִ֤ימוּ]] [[H1646\|גְרֻשֹֽׁתֵי]][[H9026\|כֶם֙]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H5971A\|עַמִּ֔]][[H9020\|י]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]] • [[topic OPPRESSION|OPPRESSION]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.8|<< Ezekiel 45:8]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.10|Ezekiel 45:10 >>]]</td></tr></table>
 

@@ -1,10 +1,67 @@
+---
+title: Luke 22:59
+type: Verse
+kjv: "And about the space of one hour after another confidently affirmed, saying, Of a truth this fellow also was with him: for he is a Galilaean."
+bsb: "About an hour later, another man insisted, “Certainly this man was with Him, for he too is a Galilean.”"
+greek: "καὶ διαστάσης ὡσεὶ ὥρας μιᾶς ἄλλος τις διϊσχυρίζετο λέγων· ἐπ᾽ ἀληθείας καὶ οὗτος μετ᾽ αὐτοῦ ἦν· καὶ γὰρ Γαλιλαῖός ἐστιν."
+pericope: "[[Luke.22.54 Peter Denies Jesus|Peter Denies Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1339]]"
+- "[[G5616]]"
+- "[[G5610]]"
+- "[[G1520]]"
+- "[[G0243]]"
+- "[[G5100]]"
+- "[[G1340]]"
+- "[[G3004G]]"
+- "[[G1909]]"
+- "[[G0225]]"
+- "[[G3778]]"
+- "[[G3326]]"
+- "[[G0846]]"
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G1057]]"
+texts:
+- NKO
+---
+
 **Luke 22:59**<big><big>[[Luke.22.54 Peter Denies Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And about the space of one hour after another confidently affirmed, saying, Of a truth this [fellow] also was with him: for he is a Galilaean.
 <small><sub>**BSB:**</sub></small>
 About an hour later, another man insisted, “Certainly this man was with Him, for he too is a Galilean.”
-<small><sub>**Literal:**</sub></small>
-And when was elapsing about hour one other a certain was strongly affirming [it] saying; Of a truth also this one with Him was; also for a Galilean he is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.58|<< Luke 22:58]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.60|Luke 22:60 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1339\|διαστάσης]]  [[G5616\|ὡσεὶ]]  [[G5610\|ὥρας]]  [[G1520\|μιᾶς]]  [[G0243\|ἄλλος]]  [[G5100\|τις]]  [[G1340\|διϊσχυρίζετο]]  [[G3004G\|λέγων·]]  [[G1909\|ἐπ᾽]]  [[G0225\|ἀληθείας]]  [[G2532\|καὶ]]  [[G3778\|οὗτος]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ]]  [[G1510\|ἦν·]]  [[G2532\|καὶ]]  [[G1063\|γὰρ]]  [[G1057\|Γαλιλαῖός]]  [[G1510\|ἐστιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic COWARDICE|COWARDICE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.58|<< Luke 22:58]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.60|Luke 22:60 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

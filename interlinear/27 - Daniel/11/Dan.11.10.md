@@ -1,8 +1,55 @@
+---
+title: Daniel 11:10
+type: Verse
+kjv: "But his sons shall be stirred up, and shall assemble a multitude of great forces: and one shall certainly come, and overflow, and pass through: then shall he return, and be stirred up, even to his fortress."
+bsb: "But his sons will stir up strife and assemble a great army, which will advance forcefully, sweeping through like a flood, and will again carry the battle as far as his fortress."
+hebrew: "וּבָנָ֣יו יִתְגָּר֗וּ וְאָסְפוּ֙ הֲמוֹן֙ חֲיָלִ֣ים רַבִּ֔ים וּבָ֥א ב֖וֹא וְשָׁטַ֣ף וְעָבָ֑ר וְיָשֹׁ֥ב וְיִתְגָּרֶ֖ה עַד־ מָעֻזּֽוֹ׃"
+pericope: "[[Dan.11.1 Kings of the South and North|Kings of the South and North]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H1624]]"
+- "[[H9001]]"
+- "[[H0622]]"
+- "[[H1995A]]"
+- "[[H2428A]]"
+- "[[H7227A]]"
+- "[[H0935G]]"
+- "[[H7857]]"
+- "[[H5674A]]"
+- "[[H7725J]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H4581]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Daniel 11:10**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But his sons shall be stirred up, and shall assemble a multitude of great forces: and [one] shall certainly come, and overflow, and pass through: then shall he return, and be stirred up, [even] to his fortress.
 <small><sub>**BSB:**</sub></small>
 But his sons will stir up strife and assemble a great army, which will advance forcefully, sweeping through like a flood, and will again carry the battle as far as his fortress.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בָנָ֣י]][[H9023\|ו]] [[H1624\|יִתְגָּר֗וּ]] [[H9001\|וְ]][[H0622\|אָסְפוּ֙]] [[H1995A\|הֲמוֹן֙]] [[H2428A\|חֲיָלִ֣ים]] [[H7227A\|רַבִּ֔ים]] [[H9001\|וּ]][[H0935G\|בָ֥א]] [[H0935G\|ב֖וֹא]] [[H9001\|וְ]][[H7857\|שָׁטַ֣ף]] [[H9001\|וְ]][[H5674A\|עָבָ֑ר]] [[H9002\|וְ]][[H7725J\|יָשֹׁ֥ב]] [[H9002\|וְ]][[H1624\|יִתְגָּרֶ֖ה]] [[H5704\|עַד]][[H9014\|־]] [[H4581\|מָעֻזּֽ]][[H9023\|וֹ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.9|<< Daniel 11:9]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.11|Daniel 11:11 >>]]</td></tr></table>
 
@@ -24,14 +71,14 @@ But his sons will stir up strife and assemble a great army, which will advance f
 | stronghold his  [^9]|**<big>&#8207;[[H4581\|מָעֻזּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^10] | ma.'u.z<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.9|<< Daniel 11:9]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.11|Daniel 11:11 >>]]</td></tr></table>
 
-[^1]: and son his  | **<big>[[H9023|וֹ]]</big><big>[[H1121A|בְנ]]</big><big>[[H9002|וּ]]</big> ** | u<small><sup>[[HC]]</sup></small> v.no<small><sup>[[HNcmsc]]</sup></small> vo<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: and son his  | **<big>[[H9023|וֹ]]</big><big>[[H1121A|בְנ]]</big><big>[[H9002|וּ]]</big> ** | u<small><sup>[[HC]]</sup></small> v.no<small><sup>[[HNcmsc]]</sup></small> vo<small><sup>[[HSp3ms]]</sup></small> | K
-[^3]: and son his  | **<big>[[H9023|וֹ]]</big><big>[[H1121A|בְנ]]</big><big>[[H9002|וּ]]</big> ** | u<small><sup>[[HC]]</sup></small> v.no<small><sup>[[HNcmsc]]</sup></small> vo<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: and son his  | **<big>[[H9002|וּ]]</big><big>[[H1121A|בְנ]]</big><big>[[H9023|וֹ]]</big> ** | u<small><sup>[[HC]]</sup></small> v.no<small><sup>[[HNcmsc]]</sup></small> vo<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: and son his  | **<big>[[H9002|וּ]]</big><big>[[H1121A|בְנ]]</big><big>[[H9023|וֹ]]</big> ** | u<small><sup>[[HC]]</sup></small> v.no<small><sup>[[HNcmsc]]</sup></small> vo<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: and son his  | **<big>[[H9002|וּ]]</big><big>[[H1121A|בְנ]]</big><big>[[H9023|וֹ]]</big> ** | u<small><sup>[[HC]]</sup></small> v.no<small><sup>[[HNcmsc]]</sup></small> vo<small><sup>[[HSp3ms]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>וּבָנָ֣/ו</big></span>**
-[^5]: so they may wage war  | **<big>[[H1624|יִתְגָּרוּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yit.ga.ru<small><sup>[[HVtu3mp]]</sup></small> | K
-[^6]: so they may wage war  | **<big>[[H1624|יִתְגָּרוּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yit.ga.ru<small><sup>[[HVtu3mp]]</sup></small> | K
+[^5]: so they may wage war  | **<big>[[H9002|וְ]]</big><big>[[H1624|יִתְגָּרוּ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yit.ga.ru<small><sup>[[HVtu3mp]]</sup></small> | K
+[^6]: so they may wage war  | **<big>[[H9002|וְ]]</big><big>[[H1624|יִתְגָּרוּ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yit.ga.ru<small><sup>[[HVtu3mp]]</sup></small> | K
 [^7]: L spelled: **<span class="ashebrew"><big>וְיִתְגָּרֶ֖ו</big></span>**
-[^8]: stronghold his  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H4581|מָעֻזָּ]]</big> ** | ma.'u.za<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
-[^9]: stronghold his  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H4581|מָעֻזָּ]]</big> ** | ma.'u.za<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^8]: stronghold his  | **<big>[[H4581|מָעֻזָּ]]</big><big>[[H9023|ה]]</big><big>[[H9016|׃]]</big> ** | ma.'u.za<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^9]: stronghold his  | **<big>[[H4581|מָעֻזָּ]]</big><big>[[H9023|ה]]</big><big>[[H9016|׃]]</big> ** | ma.'u.za<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
 [^10]: L spelled: **<span class="ashebrew"><big>מָעֻזֹּֽה\׃</big></span>**
 

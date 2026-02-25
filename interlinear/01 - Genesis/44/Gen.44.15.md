@@ -1,8 +1,65 @@
+---
+title: Genesis 44:15
+type: Verse
+kjv: "And Joseph said unto them, What deed is this that ye have done? wot ye not that such a man as I can certainly divine?"
+bsb: "“What is this deed you have done?” Joseph declared. “Do you not know that a man like me can surely divine the truth?”"
+hebrew: "וַיֹּ֤אמֶר לָהֶם֙ יוֹסֵ֔ף מָֽה־ הַמַּעֲשֶׂ֥ה הַזֶּ֖ה אֲשֶׁ֣ר עֲשִׂיתֶ֑ם הֲל֣וֹא יְדַעְתֶּ֔ם כִּֽי־ נַחֵ֧שׁ יְנַחֵ֛שׁ אִ֖ישׁ אֲשֶׁ֥ר כָּמֹֽנִי׃"
+pericope: "[[Gen.44.1 Benjamin and the Silver Cup|Benjamin and the Silver Cup]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 44
+book/chapter: "[[Gen.44|Genesis 44]]"
+chronological_order: 86
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic JUDAH|JUDAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3130G]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4639K]]"
+- "[[H2088]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H5172]]"
+- "[[H0376G]]"
+- "[[H3644G]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 44:15**<big><big>[[Gen.44.1 Benjamin and the Silver Cup|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph said unto them, What deed [is] this that ye have done? wot ye not that such a man as I can certainly divine?
 <small><sub>**BSB:**</sub></small>
 “What is this deed you have done?” Joseph declared. “Do you not know that a man like me can surely divine the truth?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H3130G\|יוֹסֵ֔ף]] [[H4100\|מָֽה]][[H9014\|־]] [[H9009\|הַ]][[H4639K\|מַּעֲשֶׂ֥ה]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213A\|עֲשִׂיתֶ֑ם]] [[H9008\|הֲ]][[H3808\|ל֣וֹא]] [[H3045\|יְדַעְתֶּ֔ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5172\|נַחֵ֧שׁ]] [[H5172\|יְנַחֵ֛שׁ]] [[H0376G\|אִ֖ישׁ]] [[H0834A\|אֲשֶׁ֥ר]] [[H3644G\|כָּמֹֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTEGRITY|INTEGRITY]] • [[topic JUDAH|JUDAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.44.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.14|<< Genesis 44:14]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.16|Genesis 44:16 >>]]</td></tr></table>
 

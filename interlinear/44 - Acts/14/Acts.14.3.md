@@ -1,10 +1,66 @@
+---
+title: Acts 14:3
+type: Verse
+kjv: "Long time therefore abode they speaking boldly in the Lord, which gave testimony unto the word of his grace, and granted signs and wonders to be done by their hands."
+bsb: "So Paul and Barnabas spent considerable time there, speaking boldly for the Lord, who affirmed the message of His grace by enabling them to perform signs and wonders."
+greek: "Ἱκανὸν μὲν οὖν χρόνον διέτριψαν παρρησιαζόμενοι ἐπὶ τῷ κυρίῳ τῷ μαρτυροῦντι ἐπὶ τῷ λόγῳ τῆς χάριτος αὐτοῦ, καὶ διδόντι σημεῖα καὶ τέρατα γίνεσθαι διὰ τῶν χειρῶν αὐτῶν."
+pericope: "[[Acts.14.1 Paul and Barnabas at Iconium|Paul and Barnabas at Iconium]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 14
+book/chapter: "[[Acts.14|Acts 14]]"
+chronological_order: 1032
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BARNABAS|BARNABAS]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic ICONIUM|ICONIUM]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2425]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G5550]]"
+- "[[G1304]]"
+- "[[G3955]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G3140]]"
+- "[[G3056]]"
+- "[[G5485]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G4592]]"
+- "[[G5059]]"
+- "[[G1096]]"
+- "[[G1223]]"
+- "[[G5495]]"
+texts:
+- NKO
+- n
+- k
+---
+
 **Acts 14:3**<big><big>[[Acts.14.1 Paul and Barnabas at Iconium|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Long time therefore abode they speaking boldly in the Lord, which gave testimony unto the word of his grace, and granted signs and wonders to be done by their hands.
 <small><sub>**BSB:**</sub></small>
 So Paul and Barnabas spent considerable time there, speaking boldly for the Lord, who affirmed the message of His grace by enabling them to perform signs and wonders.
-<small><sub>**Literal:**</sub></small>
-A long indeed therefore time they stayed speaking boldly about the Lord who is bearing witness to the word of the grace of Him, and granting signs and wonders to be done through the hands of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.2|<< Acts 14:2]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.4|Acts 14:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2425\|Ἱκανὸν]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G5550\|χρόνον]]  [[G1304\|διέτριψαν]]  [[G3955\|παρρησιαζόμενοι]]  [[G1909\|ἐπὶ]]  [[G3588\|τῷ]]  [[G2962G\|κυρίῳ]]  [[G3588\|τῷ]]  [[G3140\|μαρτυροῦντι]]  [[G1909\|ἐπὶ]]  [[G3588\|τῷ]]  [[G3056\|λόγῳ]]  [[G3588\|τῆς]]  [[G5485\|χάριτος]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G1325\|διδόντι]]  [[G4592\|σημεῖα]]  [[G2532\|καὶ]]  [[G5059\|τέρατα]]  [[G1096\|γίνεσθαι]]  [[G1223\|διὰ]]  [[G3588\|τῶν]]  [[G5495\|χειρῶν]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARNABAS|BARNABAS]] • [[topic GOSPEL|GOSPEL]] • [[topic ICONIUM|ICONIUM]] • [[topic MIRACLES|MIRACLES]] • [[topic PAUL|PAUL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.2|<< Acts 14:2]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.4|Acts 14:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

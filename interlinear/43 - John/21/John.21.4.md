@@ -1,10 +1,59 @@
+---
+title: John 21:4
+type: Verse
+kjv: "But when the morning was now come, Jesus stood on the shore: but the disciples knew not that it was Jesus."
+bsb: "Early in the morning, Jesus stood on the shore, but the disciples did not recognize that it was Jesus."
+greek: "πρωΐας δὲ ἤδη γενομένης ἔστη ὁ Ἰησοῦς εἰς τὸν αἰγιαλόν· οὐ μέντοι ᾔδεισαν οἱ μαθηταὶ ὅτι Ἰησοῦς ἐστιν.¶"
+pericope: "[[John.21.1 Jesus Appears by the Sea of Tiberias|Jesus Appears by the Sea of Tiberias]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 21
+book/chapter: "[[John.21|John 21]]"
+chronological_order: 1018
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G4405]]"
+- "[[G1161]]"
+- "[[G2235]]"
+- "[[G1096]]"
+- "[[G2476]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1519]]"
+- "[[G0123]]"
+- "[[G3756]]"
+- "[[G3305]]"
+- "[[G1492I]]"
+- "[[G3101]]"
+- "[[G3754G]]"
+- "[[G1510]]"
+texts:
+- NKO
+- NK(o)
+- k
+---
+
 **John 21:4**<big><big>[[John.21.1 Jesus Appears by the Sea of Tiberias|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when the morning was now come, Jesus stood on the shore: but the disciples knew not that it was Jesus.
 <small><sub>**BSB:**</sub></small>
 Early in the morning, Jesus stood on the shore, but the disciples did not recognize that it was Jesus.
-<small><sub>**Literal:**</sub></small>
-When morning now already having become stood <the> Jesus on the shore; not however knew the disciples that Jesus it is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.3|<< John 21:3]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.5|John 21:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4405\|πρωΐας]]  [[G1161\|δὲ]]  [[G2235\|ἤδη]]  [[G1096\|γενομένης]]  [[G2476\|ἔστη]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G0123\|αἰγιαλόν·]]  [[G3756\|οὐ]]  [[G3305\|μέντοι]]  [[G1492I\|ᾔδεισαν]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G3754G\|ὅτι]]  [[G2424G\|Ἰησοῦς]]  [[G1510\|ἐστιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GALILEE|GALILEE]] • [[topic JOHN|JOHN]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.3|<< John 21:3]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.5|John 21:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

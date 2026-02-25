@@ -1,10 +1,55 @@
+---
+title: Mark 10:12
+type: Verse
+kjv: "And if a woman shall put away her husband, and be married to another, she committeth adultery."
+bsb: "And if a woman divorces her husband and marries another man, she commits adultery.”"
+jesus_said: "And if a woman shall put away her husband, and be married to another, she committeth adultery."
+greek: "καὶ ἐὰν αὐτὴ ἀπολύσασα τὸν ἄνδρα αὐτῆς καὶ γαμήσῃ ἄλλον, μοιχᾶται.¶"
+pericope: "[[Mark.10.1 Teachings about Divorce|Teachings about Divorce]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G0846]]"
+- "[[G0630H]]"
+- "[[G3588]]"
+- "[[G0435H]]"
+- "[[G1060]]"
+- "[[G0243]]"
+- "[[G3429]]"
+texts:
+- NKO
+- N(K)O
+- k
+---
+
 **Mark 10:12**<big><big>[[Mark.10.1 Teachings about Divorce|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if a woman shall put away her husband, and be married to another, she committeth adultery.
 <small><sub>**BSB:**</sub></small>
 And if a woman divorces her husband and marries another man, she commits adultery.”
-<small><sub>**Literal:**</sub></small>
-And if she having divorced the husband of her and shall marry another, she commits adultery.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.11|<< Mark 10:11]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.13|Mark 10:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1437\|ἐὰν]]  [[G0846\|αὐτὴ]]  [[G0630H\|ἀπολύσασα]]  [[G3588\|τὸν]]  [[G0435H\|ἄνδρα]]  [[G0846\|αὐτῆς]]  [[G2532\|καὶ]]  [[G1060\|γαμήσῃ]]  [[G0243\|ἄλλον,]]  [[G3429\|μοιχᾶται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARRIAGE|MARRIAGE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.11|<< Mark 10:11]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.13|Mark 10:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

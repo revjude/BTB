@@ -1,10 +1,57 @@
+---
+title: Luke 17:18
+type: Verse
+kjv: "There are not found that returned to give glory to God, save this stranger."
+bsb: "Was no one found except this foreigner to return and give glory to God?”"
+jesus_said: "There are not found that returned to give glory to God, save this stranger."
+greek: "οὐχ εὑρέθησαν ὑποστρέψαντες δοῦναι δόξαν τῷ θεῷ εἰ μὴ ὁ ἀλλογενὴς οὗτος;"
+pericope: "[[Luke.17.11 The Ten Lepers|The Ten Lepers]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 17
+book/chapter: "[[Luke.17|Luke 17]]"
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SAMARIA|SAMARIA]]"
+strongs:
+- "[[G3756]]"
+- "[[G2147]]"
+- "[[G5290]]"
+- "[[G1325]]"
+- "[[G1391]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G0241]]"
+- "[[G3778]]"
+texts:
+- NKO
+---
+
 **Luke 17:18**<big><big>[[Luke.17.11 The Ten Lepers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 There are not found that returned to give glory to God, save this stranger.
 <small><sub>**BSB:**</sub></small>
 Was no one found except this foreigner to return and give glory to God?”
-<small><sub>**Literal:**</sub></small>
-None was there found having returned to give glory <the> to God only except <the> foreigner this?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.17|<< Luke 17:17]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.19|Luke 17:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐχ]]  [[G2147\|εὑρέθησαν]]  [[G5290\|ὑποστρέψαντες]]  [[G1325\|δοῦναι]]  [[G1391\|δόξαν]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G3588\|ὁ]]  [[G0241\|ἀλλογενὴς]]  [[G3778\|οὗτος;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SAMARIA|SAMARIA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.17|<< Luke 17:17]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.19|Luke 17:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

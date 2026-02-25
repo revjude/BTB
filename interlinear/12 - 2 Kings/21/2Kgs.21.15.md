@@ -1,8 +1,67 @@
+---
+title: 2 Kings 21:15
+type: Verse
+kjv: "Because they have done that which was evil in my sight, and have provoked me to anger, since the day their fathers came forth out of Egypt, even unto this day."
+bsb: "because they have done evil in My sight and have provoked Me to anger from the day their fathers came out of Egypt until this day.’”"
+hebrew: "יַ֗עַן אֲשֶׁ֨ר עָשׂ֤וּ אֶת־ הָרַע֙ בְּעֵינַ֔י וַיִּהְי֥וּ מַכְעִסִ֖ים אֹתִ֑י מִן־ הַיּ֗וֹם אֲשֶׁ֨ר יָצְא֤וּ אֲבוֹתָם֙ מִמִּצְרַ֔יִם וְעַ֖ד הַיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[2Kgs.21.10 Manasseh’s Idolatries Rebuked|Manasseh’s Idolatries Rebuked]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 21
+book/chapter: "[[2Kgs.21|2 Kings 21]]"
+chronological_order: 706
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H3282]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3707]]"
+- "[[H9030]]"
+- "[[H4480A]]"
+- "[[H3117L]]"
+- "[[H3318G]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 21:15**<big><big>[[2Kgs.21.10 Manasseh’s Idolatries Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because they have done [that which was] evil in my sight, and have provoked me to anger, since the day their fathers came forth out of Egypt, even unto this day.
 <small><sub>**BSB:**</sub></small>
 because they have done evil in My sight and have provoked Me to anger from the day their fathers came out of Egypt until this day.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H3282\|יַ֗עַן]] [[H0834A\|אֲשֶׁ֨ר]] [[H6213A\|עָשׂ֤וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H7451H\|רַע֙]] [[H9003\|בְּ]][[H5869H\|עֵינַ֔]][[H9020\|י]] [[H9001\|וַ]][[H1961\|יִּהְי֥וּ]] [[H3707\|מַכְעִסִ֖ים]] [[H0853\|אֹתִ֑]][[H9030\|י]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3117L\|יּ֗וֹם]] [[H0834A\|אֲשֶׁ֨ר]] [[H3318G\|יָצְא֤וּ]] [[H0001G\|אֲבוֹתָ]][[H9028\|ם֙]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֔יִם]] [[H9002\|וְ]][[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MANASSEH|MANASSEH]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.21.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.21.14|<< 2 Kings 21:14]]</td><td align="center" style="border:none;">[[2Kgs.21|2 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.21.16|2 Kings 21:16 >>]]</td></tr></table>
 

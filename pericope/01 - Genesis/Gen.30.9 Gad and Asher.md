@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Gad and Asher
+type: Pericope
 pericope: "[[Gen.30.9 Gad and Asher|Gad and Asher]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 30
 book/chapter: "[[Gen.30|Genesis 30]]"
-genre:
+chronological_order: 72
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 8
 verses:
 - "[[Gen.30.9]]"
 - "[[Gen.30.10]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Gen.30.16]]"
 ---
 
-[[Gen.30|Genesis 30:9 - Genesis 30:16]]
+<small>[[Gen.30|Genesis 30:9-16]]</small>
 *Gad and Asher*
 
 [[Gen.30.9|9]] When Leah saw that she had left bearing, she took Zilpah her maid, and gave her Jacob to wife.

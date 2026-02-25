@@ -1,10 +1,63 @@
+---
+title: Ephesians 3:9
+type: Verse
+kjv: "And to make all men see what is the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ:"
+bsb: "and to illuminate for everyone the stewardship of this mystery, which for ages past was kept hidden in God, who created all things."
+greek: "καὶ φωτίσαι πάντας τίς ἡ οἰκονομία τοῦ μυστηρίου τοῦ ἀποκεκρυμμένου ἀπὸ τῶν αἰώνων ἐν τῷ θεῷ τῷ τὰ πάντα κτίσαντι διὰ Ἰησοῦ Χριστοῦ,"
+pericope: "[[Eph.3.1 The Mystery of the Gospel|The Mystery of the Gospel]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 3
+book/chapter: "[[Eph.3|Ephesians 3]]"
+chronological_order: 1113
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G5461]]"
+- "[[G3956]]"
+- "[[G5101]]"
+- "[[G3588]]"
+- "[[G3622]]"
+- "[[G3466]]"
+- "[[G0613]]"
+- "[[G0575]]"
+- "[[G0165G]]"
+- "[[G1722]]"
+- "[[G2316]]"
+- "[[G2936]]"
+- "[[G1223]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+texts:
+- NKO
+- N(K)O
+- K
+---
+
 **Ephesians 3:9**<big><big>[[Eph.3.1 The Mystery of the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And to make all [men] see what [is] the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ:
 <small><sub>**BSB:**</sub></small>
 and to illuminate for everyone the stewardship of this mystery, which for ages past was kept hidden in God, who created all things.
-<small><sub>**Literal:**</sub></small>
-and to enlighten all what [is] the administration of the mystery which hidden from the ages in <the> God the [One] who all things having created through Jesus Christ<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.8|<< Ephesians 3:8]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.10|Ephesians 3:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5461\|φωτίσαι]]  [[G3956\|πάντας]]  [[G5101\|τίς]]  [[G3588\|ἡ]]  [[G3622\|οἰκονομία]]  [[G3588\|τοῦ]]  [[G3466\|μυστηρίου]]  [[G3588\|τοῦ]]  [[G0613\|ἀποκεκρυμμένου]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G0165G\|αἰώνων]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G3588\|τῷ]]  [[G3588\|τὰ]]  [[G3956\|πάντα]]  [[G2936\|κτίσαντι]]  [[G1223\|διὰ]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MYSTERIES|MYSTERIES]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.8|<< Ephesians 3:8]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.10|Ephesians 3:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

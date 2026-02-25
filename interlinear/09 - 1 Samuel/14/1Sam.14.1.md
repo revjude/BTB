@@ -1,8 +1,70 @@
+---
+title: 1 Samuel 14:1
+type: Verse
+kjv: "Now it came to pass upon a day, that Jonathan the son of Saul said unto the young man that bare his armour, Come, and let us go over to the Philistines’ garrison, that is on the other side. But he told not his father."
+bsb: "One day Jonathan son of Saul said to the young man bearing his armor, “Come, let us cross over to the Philistine outpost on the other side.” But Jonathan did not tell his father."
+hebrew: "וַיְהִ֣י הַיּ֗וֹם וַיֹּ֨אמֶר יוֹנָתָ֤ן בֶּן־ שָׁאוּל֙ אֶל־ הַנַּ֙עַר֙ נֹשֵׂ֣א כֵלָ֔יו לְכָ֗ה וְנַעְבְּרָה֙ אֶל־ מַצַּ֣ב פְּלִשְׁתִּ֔ים אֲשֶׁ֖ר מֵעֵ֣בֶר הַלָּ֑ז וּלְאָבִ֖יו לֹ֥א הִגִּֽיד׃"
+pericope: "[[1Sam.14.1 Jonathan’s Victory over the Philistines|Jonathan’s Victory over the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GARRISON|GARRISON]]"
+- "[[topic JONATHAN|JONATHAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0559]]"
+- "[[H3129N]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H7586G]]"
+- "[[H0413]]"
+- "[[H5288]]"
+- "[[H5375H]]"
+- "[[H3627]]"
+- "[[H9023]]"
+- "[[H1980K]]"
+- "[[H9012]]"
+- "[[H9002]]"
+- "[[H5674A]]"
+- "[[H4673]]"
+- "[[H6430G]]"
+- "[[H0834A]]"
+- "[[H9006]]"
+- "[[H5676G]]"
+- "[[H1975]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H3808]]"
+- "[[H5046]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 14:1**<big><big>[[1Sam.14.1 Jonathan’s Victory over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now it came to pass upon a day, that Jonathan the son of Saul said unto the young man that bare his armour, Come, and let us go over to the Philistines’ garrison, that [is] on the other side. But he told not his father.
 <small><sub>**BSB:**</sub></small>
 One day Jonathan son of Saul said to the young man bearing his armor, “Come, let us cross over to the Philistine outpost on the other side.” But Jonathan did not tell his father.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H9009\|הַ]][[H3117G\|יּ֗וֹם]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3129N\|יוֹנָתָ֤ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7586G\|שָׁאוּל֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H5288\|נַּ֙עַר֙]] [[H5375H\|נֹשֵׂ֣א]] [[H3627\|כֵלָ֔י]][[H9023\|ו]] [[H1980K\|לְכָ֗]][[H9012\|ה]] [[H9002\|וְ]][[H5674A\|נַעְבְּרָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4673\|מַצַּ֣ב]] [[H6430G\|פְּלִשְׁתִּ֔ים]] [[H0834A\|אֲשֶׁ֖ר]] [[H9006\|מֵ]][[H5676G\|עֵ֣בֶר]] [[H1975\|הַלָּ֑ז]] [[H9002\|וּ]][[H9005\|לְ]][[H0001G\|אָבִ֖י]][[H9023\|ו]] [[H3808\|לֹ֥א]] [[H5046\|הִגִּֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GARRISON|GARRISON]] • [[topic JONATHAN|JONATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.23|<< 1 Samuel 13:23]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.2|1 Samuel 14:2 >>]]</td></tr></table>
 

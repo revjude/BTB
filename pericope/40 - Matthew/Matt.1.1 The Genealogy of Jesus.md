@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Genealogy of Jesus
+type: Pericope
 pericope: "[[Matt.1.1 The Genealogy of Jesus|The Genealogy of Jesus]]"
-verse_count: 17
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 1
 book/chapter: "[[Matt.1|Matthew 1]]"
-genre:
+chronological_order: 931
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 17
 verses:
 - "[[Matt.1.1]]"
 - "[[Matt.1.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Matt.1.17]]"
 ---
 
-[[Matt.1|Matthew 1:1 - Matthew 1:17]]
+<small>[[Matt.1|Matthew 1:1-17]]</small>
 *The Genealogy of Jesus*
 
 [[Matt.1.1|1]] The book of the generation of Jesus Christ, the son of David, the son of Abraham.

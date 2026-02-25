@@ -1,8 +1,55 @@
+---
+title: Psalm 119:96
+type: Verse
+kjv: "I have seen an end of all perfection: but thy commandment is exceeding broad."
+bsb: "I have seen a limit to all perfection, but Your commandment is without limit."
+hebrew: "לְֽכָל תִּ֭כְלָה רָאִ֣יתִי קֵ֑ץ רְחָבָ֖ה מִצְוָתְךָ֣ מְאֹֽד׃"
+pericope: "[[Ps.119.89 Your Word Is a Lamp to My Feet - LAMED|Your Word Is a Lamp to My Feet - LAMED]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H8502]]"
+- "[[H7200G]]"
+- "[[H7093]]"
+- "[[H7342H]]"
+- "[[H4687]]"
+- "[[H9021]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:96**<big><big>[[Ps.119.89 Your Word Is a Lamp to My Feet - LAMED|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have seen an end of all perfection: [but] thy commandment [is] exceeding broad.
 <small><sub>**BSB:**</sub></small>
 I have seen a limit to all perfection, but Your commandment is without limit.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְֽ]][[H3605\|כָל]] [[H8502\|תִּ֭כְלָה]] [[H7200G\|רָאִ֣יתִי]] [[H7093\|קֵ֑ץ]] [[H7342H\|רְחָבָ֖ה]] [[H4687\|מִצְוָתְ]][[H9021\|ךָ֣]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic PERFECTION|PERFECTION]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.96|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.95|<< Psalms 119:95]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.97|Psalms 119:97 >>]]</td></tr></table>
 

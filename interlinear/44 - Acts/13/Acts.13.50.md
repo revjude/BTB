@@ -1,10 +1,63 @@
+---
+title: Acts 13:50
+type: Verse
+kjv: "But the Jews stirred up the devout and honourable women, and the chief men of the city, and raised persecution against Paul and Barnabas, and expelled them out of their coasts."
+bsb: "The Jews, however, incited the religious women of prominence and the leading men of the city. They stirred up persecution against Paul and Barnabas and drove them out of their district."
+greek: "οἱ δὲ Ἰουδαῖοι παρώτρυναν τὰς σεβομένας γυναῖκας καὶ τὰς εὐσχήμονας καὶ τοὺς πρώτους τῆς πόλεως καὶ ἐπήγειραν διωγμὸν ἐπὶ τὸν Παῦλον καὶ τὸν Βαρναβᾶν καὶ ἐξέβαλον αὐτοὺς ἀπὸ τῶν ὁρίων αὐτῶν."
+pericope: "[[Acts.13.42 A Light for the Gentiles|A Light for the Gentiles]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2453]]"
+- "[[G3951]]"
+- "[[G4576]]"
+- "[[G1135G]]"
+- "[[G2532]]"
+- "[[G2158]]"
+- "[[G4413I]]"
+- "[[G4172]]"
+- "[[G1892]]"
+- "[[G1375]]"
+- "[[G1909]]"
+- "[[G3972G]]"
+- "[[G0921G]]"
+- "[[G1544]]"
+- "[[G0846]]"
+- "[[G0575]]"
+- "[[G3725]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 13:50**<big><big>[[Acts.13.42 A Light for the Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the Jews stirred up the devout and honourable women, and the chief men of the city, and raised persecution against Paul and Barnabas, and expelled them out of their coasts.
 <small><sub>**BSB:**</sub></small>
 The Jews, however, incited the religious women of prominence and the leading men of the city. They stirred up persecution against Paul and Barnabas and drove them out of their district.
-<small><sub>**Literal:**</sub></small>
-The but Jews incited the worshipping women and <the>[those] prominent and the principals of the city and they stirred up a persecution against <the> Paul and <the> Barnabas and expelled them from the district of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.49|<< Acts 13:49]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.51|Acts 13:51 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2453\|Ἰουδαῖοι]]  [[G3951\|παρώτρυναν]]  [[G3588\|τὰς]]  [[G4576\|σεβομένας]]  [[G1135G\|γυναῖκας]]  [[G2532\|καὶ]]  [[G3588\|τὰς]]  [[G2158\|εὐσχήμονας]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G4413I\|πρώτους]]  [[G3588\|τῆς]]  [[G4172\|πόλεως]]  [[G2532\|καὶ]]  [[G1892\|ἐπήγειραν]]  [[G1375\|διωγμὸν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G3972G\|Παῦλον]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G0921G\|Βαρναβᾶν]]  [[G2532\|καὶ]]  [[G1544\|ἐξέβαλον]]  [[G0846\|αὐτοὺς]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G3725\|ὁρίων]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic LAW|LAW]] • [[topic PAUL|PAUL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.49|<< Acts 13:49]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.51|Acts 13:51 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

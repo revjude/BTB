@@ -1,6 +1,71 @@
+---
+title: LXX Ezekiel 31:15
+type: Verse
+lxx: "Thus says Adonai the lord; In which day he went down into Hades, the abyss mourned him. And I attended to  her rivers, and restrained the abundance of water. And Lebanon was darkened over him; all the trees of the plains were enfeebled by him."
+greek: "τάδε λέγει Αδωναϊ κύριος εν η ημέρα κατέβη εις άδου επένθησεν αυτόν η άβυσσος και επέστησα τους ποταμούς αυτής και εκώλυσα πλήθος ύδατος και εσκότασεν επ΄ αυτώ ο Λίβανος πάντα τα ξύλα του πεδίου επ΄ αυτώ εξελύθησαν"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 31
+book/chapter: "[[Ezek.31|Ezekiel 31]]"
+chronological_order: 822
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[G3592]]"
+- "[[G3004]]"
+- "[[H0113]]"
+- "[[G2962]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G2250]]"
+- "[[G2597]]"
+- "[[G1519]]"
+- "[[G0086]]"
+- "[[G3996]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0012]]"
+- "[[G2532]]"
+- "[[G2186]]"
+- "[[G3588]]"
+- "[[G4215]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2967]]"
+- "[[G4128]]"
+- "[[G5204]]"
+- "[[G2532]]"
+- "[[G9117]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[H3844]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3586]]"
+- "[[G3588]]"
+- "[[G8676]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G1590]]"
+---
+
 **LXX Ezekiel 31:15** 
 <small><sub>**LXX:**</sub></small>
 Thus says Adonai \[the\] <span class="smallcaps">lord</span>; In which day he went down into Hades, the abyss mourned him. And I attended to  her rivers, and restrained \[the\] abundance of water. And Lebanon was darkened over him; all the trees of the plains were enfeebled by him. 
+<small><sub>**Greek:**</sub></small>
+[[G3592\|τάδε]] [[G3004\|λέγει]] [[H0113\|Αδωναϊ]] [[G2962\|κύριος]] [[G1722\|εν]] [[G3739\|η]] [[G2250\|ημέρα]] [[G2597\|κατέβη]] [[G1519\|εις]] [[G0086\|άδου]] [[G3996\|επένθησεν]] [[G1473\|αυτόν]] [[G3588\|η]] [[G0012\|άβυσσος]] [[G2532\|και]] [[G2186\|επέστησα]] [[G3588\|τους]] [[G4215\|ποταμούς]] [[G1473\|αυτής]] [[G2532\|και]] [[G2967\|εκώλυσα]] [[G4128\|πλήθος]] [[G5204\|ύδατος]] [[G2532\|και]] [[G9117\|εσκότασεν]] [[G1909\|επ΄]] [[G1473\|αυτώ]] [[G3588\|ο]] [[H3844\|Λίβανος]] [[G3956\|πάντα]] [[G3588\|τα]] [[G3586\|ξύλα]] [[G3588\|του]] [[G8676\|πεδίου]] [[G1909\|επ΄]] [[G1473\|αυτώ]] [[G1590\|εξελύθησαν]]
 <small><sub>**MT:**</sub></small>
 [[Ezek.31.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.14|<< Ezekiel 31:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.16|Ezekiel 31:16 >>]]</td></tr></table>
 
@@ -42,6 +107,6 @@ Thus says Adonai \[the\] <span class="smallcaps">lord</span>; In which day he we
 | by | **<big>[[G1909\|επ΄]]</big>** |
 | him | **<big>[[G1473\|αυτώ]]</big>** |
 | were enfeebled | **<big>[[G1590\|εξελύθησαν]]</big>** |
-[[Ezek.31.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.14|<< Ezekiel 31:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.16|Ezekiel 31:16 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.14|<< Ezekiel 31:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.16|Ezekiel 31:16 >>]]</td></tr></table>
 
 

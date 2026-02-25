@@ -1,10 +1,66 @@
+---
+title: John 6:5
+type: Verse
+kjv: "When Jesus then lifted up his eyes, and saw a great company come unto him, he saith unto Philip, Whence shall we buy bread, that these may eat?"
+bsb: "When Jesus looked up and saw a large crowd coming toward Him, He said to Philip, “Where can we buy bread for these people to eat?”"
+jesus_said: "Whence shall we buy bread, that these may eat?"
+greek: "Ἐπάρας οὖν τοὺς ὀφθαλμοὺς ὁ Ἰησοῦς καὶ θεασάμενος ὅτι πολὺς ὄχλος ἔρχεται πρὸς αὐτὸν λέγει πρὸς τὸν Φίλιππον· πόθεν ἀγοράσωμεν ἄρτους, ἵνα φάγωσιν οὗτοι;"
+pericope: "[[John.6.1 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHILIP|PHILIP]]"
+strongs:
+- "[[G1869]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G2300]]"
+- "[[G3754G]]"
+- "[[G4183]]"
+- "[[G3793]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G5376G]]"
+- "[[G4159]]"
+- "[[G0059]]"
+- "[[G0740]]"
+- "[[G2443]]"
+- "[[G5315]]"
+- "[[G3778]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **John 6:5**<big><big>[[John.6.1 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When Jesus then lifted up [his] eyes, and saw a great company come unto him, he saith unto Philip, Whence shall we buy bread, that these may eat?
 <small><sub>**BSB:**</sub></small>
 When Jesus looked up and saw a large crowd coming toward Him, He said to Philip, “Where can we buy bread for these people to eat?”
-<small><sub>**Literal:**</sub></small>
-Having lifted up then the eyes <the> Jesus and having seen that a great crowd is coming to Him He says to <the> Philip; From where we may buy bread that may eat these?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.4|<< John 6:4]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.6|John 6:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1869\|Ἐπάρας]]  [[G3767\|οὖν]]  [[G3588\|τοὺς]]  [[G3788\|ὀφθαλμοὺς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2532\|καὶ]]  [[G2300\|θεασάμενος]]  [[G3754G\|ὅτι]]  [[G4183\|πολὺς]]  [[G3793\|ὄχλος]]  [[G2064\|ἔρχεται]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G3004G\|λέγει]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G5376G\|Φίλιππον·]]  [[G4159\|πόθεν]]  [[G0059\|ἀγοράσωμεν]]  [[G0740\|ἄρτους,]]  [[G2443\|ἵνα]]  [[G5315\|φάγωσιν]]  [[G3778\|οὗτοι;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHILIP|PHILIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.4|<< John 6:4]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.6|John 6:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

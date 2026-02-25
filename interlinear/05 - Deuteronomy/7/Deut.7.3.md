@@ -1,8 +1,63 @@
+---
+title: Deuteronomy 7:3
+type: Verse
+kjv: "Neither shalt thou make marriages with them; thy daughter thou shalt not give unto his son, nor his daughter shalt thou take unto thy son."
+bsb: "Do not intermarry with them. Do not give your daughters to their sons or take their daughters for your sons,"
+hebrew: "וְלֹ֥א תִתְחַתֵּ֖ן בָּ֑ם בִּתְּךָ֙ לֹא־ תִתֵּ֣ן לִבְנ֔וֹ וּבִתּ֖וֹ לֹא־ תִקַּ֥ח לִבְנֶֽךָ׃"
+pericope: "[[Deut.7.1 Drive Out the Nations|Drive Out the Nations]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 7
+book/chapter: "[[Deut.7|Deuteronomy 7]]"
+chronological_order: 203
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic MISCEGENATION|MISCEGENATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2859B]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H1323G]]"
+- "[[H9021]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H3947G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 7:3**<big><big>[[Deut.7.1 Drive Out the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shalt thou make marriages with them; thy daughter thou shalt not give unto his son, nor his daughter shalt thou take unto thy son.
 <small><sub>**BSB:**</sub></small>
 Do not intermarry with them. Do not give your daughters to their sons or take their daughters for your sons,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֥א]] [[H2859B\|תִתְחַתֵּ֖ן]] [[H9003\|בָּ֑]][[H9038\|ם]] [[H1323G\|בִּתְּ]][[H9021\|ךָ֙]] [[H3808\|לֹא]][[H9014\|־]] [[H5414G\|תִתֵּ֣ן]] [[H9005\|לִ]][[H1121A\|בְנ֔]][[H9023\|וֹ]] [[H9002\|וּ]][[H1323G\|בִתּ֖]][[H9023\|וֹ]] [[H3808\|לֹא]][[H9014\|־]] [[H3947G\|תִקַּ֥ח]] [[H9005\|לִ]][[H1121A\|בְנֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic COMPANY|COMPANY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic MARRIAGE|MARRIAGE]] • [[topic MISCEGENATION|MISCEGENATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.2|<< Deuteronomy 7:2]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.4|Deuteronomy 7:4 >>]]</td></tr></table>
 

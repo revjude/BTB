@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Not Peace but Division
+type: Pericope
 pericope: "[[Luke.12.49 Not Peace but Division|Not Peace but Division]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Luke
 chapter: 12
 book/chapter: "[[Luke.12|Luke 12]]"
-genre:
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 5
 verses:
 - "[[Luke.12.49]]"
 - "[[Luke.12.50]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Luke.12.53]]"
 ---
 
-[[Luke.12|Luke 12:49 - Luke 12:53]]
+<small>[[Luke.12|Luke 12:49-53]]</small>
 *Not Peace but Division*
 
 [[Luke.12.49|49]] I am come to send fire on the earth; and what will I, if it be already kindled?

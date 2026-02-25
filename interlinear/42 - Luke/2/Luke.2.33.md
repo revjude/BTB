@@ -1,10 +1,58 @@
+---
+title: Luke 2:33
+type: Verse
+kjv: "And Joseph and his mother marvelled at those things which were spoken of him."
+bsb: "The Child’s father and mother were amazed at what was spoken about Him."
+greek: "Καὶ ἦν ὁ πατὴρ αὐτοῦ καὶ ἡ μήτηρ θαυμάζοντες ἐπὶ τοῖς λαλουμένοις περὶ αὐτοῦ."
+pericope: "[[Luke.2.25 The Prophecy of Simeon|The Prophecy of Simeon]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SIMEON|SIMEON]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G0846]]"
+- "[[G3384]]"
+- "[[G2296]]"
+- "[[G1909]]"
+- "[[G2980]]"
+- "[[G4012]]"
+texts:
+- NKO
+- no
+- N(K)O
+---
+
 **Luke 2:33**<big><big>[[Luke.2.25 The Prophecy of Simeon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Joseph and his mother marvelled at those things which were spoken of him.
 <small><sub>**BSB:**</sub></small>
 The Child’s father and mother were amazed at what was spoken about Him.
-<small><sub>**Literal:**</sub></small>
-And were the father of Him and the mother marveling at the [things] being spoken concerning Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.32|<< Luke 2:32]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.34|Luke 2:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1510\|ἦν]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G3384\|μήτηρ]]  [[G2296\|θαυμάζοντες]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῖς]]  [[G2980\|λαλουμένοις]]  [[G4012\|περὶ]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic RELIGION|RELIGION]] • [[topic SIMEON|SIMEON]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.32|<< Luke 2:32]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.34|Luke 2:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

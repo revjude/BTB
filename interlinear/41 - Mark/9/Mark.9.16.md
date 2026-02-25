@@ -1,10 +1,54 @@
+---
+title: Mark 9:16
+type: Verse
+kjv: "And he asked the scribes, What question ye with them?"
+bsb: "“What are you disputing with them?” He asked."
+jesus_said: "What question ye with them?"
+greek: "καὶ ἐπηρώτησεν αὐτούς γραμματεῖς· τί συζητεῖτε πρὸς αὐτούς;¶"
+pericope: "[[Mark.9.14 The Boy with an Evil Spirit|The Boy with an Evil Spirit]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G1905]]"
+- "[[G0846]]"
+- "[[G1122]]"
+- "[[G5101]]"
+- "[[G4802]]"
+- "[[G4314]]"
+texts:
+- NKO
+- N(k)O
+- K
+- NK(O)
+---
+
 **Mark 9:16**<big><big>[[Mark.9.14 The Boy with an Evil Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he asked the scribes, What question ye with them?
 <small><sub>**BSB:**</sub></small>
 “What are you disputing with them?” He asked.
-<small><sub>**Literal:**</sub></small>
-And He asked those scribes: What are you disputing with them?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.15|<< Mark 9:15]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.17|Mark 9:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1905\|ἐπηρώτησεν]]  [[G0846\|αὐτούς]]  [[G1122\|γραμματεῖς·]]  [[G5101\|τί]]  [[G4802\|συζητεῖτε]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOUBTING|DOUBTING]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.15|<< Mark 9:15]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.17|Mark 9:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

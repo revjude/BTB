@@ -1,8 +1,55 @@
+---
+title: Ezekiel 7:15
+type: Verse
+kjv: "The sword is without, and the pestilence and the famine within: he that is in the field shall die with the sword; and he that is in the city, famine and pestilence shall devour him."
+bsb: "The sword is outside; plague and famine are within. Those in the country will die by the sword, and those in the city will be devoured by famine and plague."
+hebrew: "הַחֶ֣רֶב בַּח֔וּץ וְהַדֶּ֥בֶר וְהָרָעָ֖ב מִבָּ֑יִת אֲשֶׁ֤ר בַּשָּׂדֶה֙ בַּחֶ֣רֶב יָמ֔וּת וַאֲשֶׁ֣ר בָּעִ֔יר רָעָ֥ב וָדֶ֖בֶר יֹאכֲלֶֽנּוּ׃"
+pericope: "[[Ezek.7.14 The Desolation of Israel|The Desolation of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 7
+book/chapter: "[[Ezek.7|Ezekiel 7]]"
+chronological_order: 798
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9009]]"
+- "[[H2719]]"
+- "[[H9003]]"
+- "[[H2351]]"
+- "[[H9002]]"
+- "[[H1698]]"
+- "[[H7458]]"
+- "[[H9006]]"
+- "[[H1004O]]"
+- "[[H0834A]]"
+- "[[H7704G]]"
+- "[[H4191]]"
+- "[[H5892B]]"
+- "[[H0398]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 7:15**<big><big>[[Ezek.7.14 The Desolation of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sword [is] without, and the pestilence and the famine within: he that [is] in the field shall die with the sword; and he that [is] in the city, famine and pestilence shall devour him.
 <small><sub>**BSB:**</sub></small>
 The sword is outside; plague and famine are within. Those in the country will die by the sword, and those in the city will be devoured by famine and plague.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H2719\|חֶ֣רֶב]] [[H9003\|בַּ]][[H2351\|ח֔וּץ]] [[H9002\|וְ]][[H9009\|הַ]][[H1698\|דֶּ֥בֶר]] [[H9002\|וְ]][[H9009\|הָ]][[H7458\|רָעָ֖ב]] [[H9006\|מִ]][[H1004O\|בָּ֑יִת]] [[H0834A\|אֲשֶׁ֤ר]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶה֙]] [[H9003\|בַּ]][[H2719\|חֶ֣רֶב]] [[H4191\|יָמ֔וּת]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בָּ]][[H5892B\|עִ֔יר]] [[H7458\|רָעָ֥ב]] [[H9002\|וָ]][[H1698\|דֶ֖בֶר]] [[H0398\|יֹאכֲלֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.14|<< Ezekiel 7:14]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.16|Ezekiel 7:16 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: Habakkuk 1:10
+type: Verse
+kjv: "And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it."
+bsb: "They scoff at kings and make rulers an object of scorn. They laugh at every fortress and build up siege ramps to seize it."
+hebrew: "וְהוּא֙ בַּמְּלָכִ֣ים יִתְקַלָּ֔ס וְרֹזְנִ֖ים מִשְׂחָ֣ק ל֑וֹ ה֚וּא לְכָל־ מִבְצָ֣ר יִשְׂחָ֔ק וַיִּצְבֹּ֥ר עָפָ֖ר וַֽיִּלְכְּדָֽהּ׃"
+pericope: "[[Hab.1.5 The LORD’s Answer|The LORD’s Answer]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 1
+book/chapter: "[[Hab.1|Habakkuk 1]]"
+chronological_order: 738
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H9003]]"
+- "[[H4428G]]"
+- "[[H7046]]"
+- "[[H7336]]"
+- "[[H4890]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4013]]"
+- "[[H7832]]"
+- "[[H9001]]"
+- "[[H6651]]"
+- "[[H6083]]"
+- "[[H3920]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 1:10**<big><big>[[Hab.1.5 The LORD’s Answer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it.
 <small><sub>**BSB:**</sub></small>
 They scoff at kings and make rulers an object of scorn. They laugh at every fortress and build up siege ramps to seize it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1931\|הוּא֙]] [[H9003\|בַּ]][[H4428G\|מְּלָכִ֣ים]] [[H7046\|יִתְקַלָּ֔ס]] [[H9002\|וְ]][[H7336\|רֹזְנִ֖ים]] [[H4890\|מִשְׂחָ֣ק]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H1931\|ה֚וּא]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H4013\|מִבְצָ֣ר]] [[H7832\|יִשְׂחָ֔ק]] [[H9001\|וַ]][[H6651\|יִּצְבֹּ֥ר]] [[H6083\|עָפָ֖ר]] [[H9001\|וַֽ]][[H3920\|יִּלְכְּדָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.9|<< Habakkuk 1:9]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.11|Habakkuk 1:11 >>]]</td></tr></table>
 

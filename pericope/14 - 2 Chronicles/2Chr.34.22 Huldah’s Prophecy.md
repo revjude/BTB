@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Huldah’s Prophecy
+type: Pericope
 pericope: "[[2Chr.34.22 Huldah’s Prophecy|Huldah’s Prophecy]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 34
 book/chapter: "[[2Chr.34|2 Chronicles 34]]"
-genre:
+chronological_order: 713
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 7
 verses:
 - "[[2Chr.34.22]]"
 - "[[2Chr.34.23]]"
@@ -25,7 +32,7 @@ verses:
 - "[[2Chr.34.28]]"
 ---
 
-[[2Chr.34|2 Chronicles 34:22 - 2 Chronicles 34:28]]
+<small>[[2Chr.34|2 Chronicles 34:22-28]]</small>
 *Huldah’s Prophecy*
 
 [[2Chr.34.22|22]] And Hilkiah, and \[they\] that the king \[had appointed\], went to Huldah the prophetess, the wife of Shallum the son of Tikvath, the son of Hasrah, keeper of the wardrobe; (now she dwelt in Jerusalem in the college:) and they spake to her to that \[effect\].

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Widow’s Offering
+type: Pericope
 pericope: "[[Mark.12.41 The Widow’s Offering|The Widow’s Offering]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Mark
 chapter: 12
 book/chapter: "[[Mark.12|Mark 12]]"
-genre:
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 4
 verses:
 - "[[Mark.12.41]]"
 - "[[Mark.12.42]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Mark.12.44]]"
 ---
 
-[[Mark.12|Mark 12:41 - Mark 12:44]]
+<small>[[Mark.12|Mark 12:41-44]]</small>
 *The Widow’s Offering*
 
 [[Mark.12.41|41]] And Jesus sat over against the treasury, and beheld how the people cast money into the treasury: and many that were rich cast in much.

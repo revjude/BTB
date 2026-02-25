@@ -1,8 +1,58 @@
+---
+title: Psalm 26:9
+type: Verse
+kjv: "Gather not my soul with sinners, nor my life with bloody men:"
+bsb: "Do not take my soul away with sinners, or my life with men of bloodshed,"
+hebrew: "אַל־ תֶּאֱסֹ֣ף עִם־ חַטָּאִ֣ים נַפְשִׁ֑י וְעִם־ אַנְשֵׁ֖י דָמִ֣ים חַיָּֽי׃"
+pericope: "[[Ps.26.1 Vindicate Me, O LORD|Vindicate Me, O LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 26
+book/chapter: "[[Ps.26|Psalm 26]]"
+chronological_order: 358
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BRIBERY|BRIBERY]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0622]]"
+- "[[H5973A]]"
+- "[[H2400]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H0582]]"
+- "[[H1818]]"
+- "[[H2416E]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 26:9**<big><big>[[Ps.26.1 Vindicate Me, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Gather not my soul with sinners, nor my life with bloody men:
 <small><sub>**BSB:**</sub></small>
 Do not take my soul away with sinners, or my life with men of bloodshed,
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H0622\|תֶּאֱסֹ֣ף]] [[H5973A\|עִם]][[H9014\|־]] [[H2400\|חַטָּאִ֣ים]] [[H5315G\|נַפְשִׁ֑]][[H9020\|י]] [[H9002\|וְ]][[H5973A\|עִם]][[H9014\|־]] [[H0582\|אַנְשֵׁ֖י]] [[H1818\|דָמִ֣ים]] [[H2416E\|חַיָּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIBERY|BRIBERY]] • [[topic COMPANY|COMPANY]] • [[topic HOMICIDE|HOMICIDE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.26.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.26.8|<< Psalms 26:8]]</td><td align="center" style="border:none;">[[Ps.26|Psalms 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.26.10|Psalms 26:10 >>]]</td></tr></table>
 

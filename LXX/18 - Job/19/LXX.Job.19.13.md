@@ -1,6 +1,51 @@
+---
+title: LXX Job 19:13
+type: Verse
+lxx: "My brothers left me; they know strangers rather than me; and my friends have become unmerciful."
+greek: "απ΄ εμού αδελφοί μου απέστησαν έγνωσαν αλλοτρίους η εμέ φίλοι δε μου ανελεήμονες γεγόνασιν"
+original_language: Greek
+testament: Old
+book: Job
+chapter: 19
+book/chapter: "[[Job.19|Job 19]]"
+chronological_order: 30
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+strongs:
+- "[[G0575]]"
+- "[[G1473]]"
+- "[[G0080]]"
+- "[[G1473]]"
+- "[[G0868]]"
+- "[[G1097]]"
+- "[[G0245]]"
+- "[[G2228]]"
+- "[[G1473]]"
+- "[[G5384]]"
+- "[[G1161]]"
+- "[[G1473]]"
+- "[[G0415]]"
+- "[[G1096]]"
+---
+
 **LXX Job 19:13** 
 <small><sub>**LXX:**</sub></small>
 My brothers left me; they know strangers rather than me; and my friends have become unmerciful. 
+<small><sub>**Greek:**</sub></small>
+[[G0575\|απ΄]] [[G1473\|εμού]] [[G0080\|αδελφοί]] [[G1473\|μου]] [[G0868\|απέστησαν]] [[G1097\|έγνωσαν]] [[G0245\|αλλοτρίους]] [[G2228\|η]] [[G1473\|εμέ]] [[G5384\|φίλοι]] [[G1161\|δε]] [[G1473\|μου]] [[G0415\|ανελεήμονες]] [[G1096\|γεγόνασιν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FRIENDSHIP|FRIENDSHIP]]</small>
 <small><sub>**MT:**</sub></small>
 [[Job.19.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.12|<< Job 19:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.14|Job 19:14 >>]]</td></tr></table>
 
@@ -19,6 +64,6 @@ My brothers left me; they know strangers rather than me; and my friends have bec
 | my | **<big>[[G1473\|μου]]</big>** |
 | unmerciful | **<big>[[G0415\|ανελεήμονες]]</big>** |
 | have become | **<big>[[G1096\|γεγόνασιν]]</big>** |
-[[Job.19.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.12|<< Job 19:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.14|Job 19:14 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.12|<< Job 19:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.14|Job 19:14 >>]]</td></tr></table>
 
 

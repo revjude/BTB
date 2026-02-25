@@ -1,6 +1,73 @@
+---
+title: LXX Exodus 10:7
+type: Verse
+lxx: "And the attendants of Pharaoh say to him, For how long will this be to us an impediment? Send out the men! so that they may serve to the lord  their God. Or do you prefer to see that they destroy Egypt?"
+greek: "και λέγουσι οι θεράποντες Φαραώ προς αυτόν έως τίνος έσται τούτο ημίν σκώλον εξαπόστειλον τους ανθρώπους όπως λατρεύσωσι κυρίω τω θεώ αυτών η ειδέναι βούλει ότι απόλωλεν Αίγυπτος"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 10
+book/chapter: "[[Exod.10|Exodus 10]]"
+chronological_order: 102
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004]]"
+- "[[G3588]]"
+- "[[G2324]]"
+- "[[G5328]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G2193]]"
+- "[[G5100]]"
+- "[[G1510]]"
+- "[[G3778]]"
+- "[[G1473]]"
+- "[[G9123]]"
+- "[[G1821]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G3704]]"
+- "[[G3000]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G2228]]"
+- "[[G1492]]"
+- "[[G1014]]"
+- "[[G3754]]"
+- "[[G0622]]"
+- "[[G0125]]"
+---
+
 **LXX Exodus 10:7** 
 <small><sub>**LXX:**</sub></small>
 And the attendants of Pharaoh say to him, For how long will this be to us an impediment? Send out the men! so that they may serve \[to the\] <span class="smallcaps">lord</span>  their God. Or do you prefer to see that they destroy Egypt? 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3004\|λέγουσι]] [[G3588\|οι]] [[G2324\|θεράποντες]] [[G5328\|Φαραώ]] [[G4314\|προς]] [[G1473\|αυτόν]] [[G2193\|έως]] [[G5100\|τίνος]] [[G1510\|έσται]] [[G3778\|τούτο]] [[G1473\|ημίν]] [[G9123\|σκώλον]] [[G1821\|εξαπόστειλον]] [[G3588\|τους]] [[G0444\|ανθρώπους]] [[G3704\|όπως]] [[G3000\|λατρεύσωσι]] [[G2962\|κυρίω]] [[G3588\|τω]] [[G2316\|θεώ]] [[G1473\|αυτών]] [[G2228\|η]] [[G1492\|ειδέναι]] [[G1014\|βούλει]] [[G3754\|ότι]] [[G0622\|απόλωλεν]] [[G0125\|Αίγυπτος]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANIMALS|ANIMALS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic LOCUST|LOCUST]] • [[topic MIRACLES|MIRACLES]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.10.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.6|<< Exodus 10:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.8|Exodus 10:8 >>]]</td></tr></table>
 
@@ -32,6 +99,6 @@ And the attendants of Pharaoh say to him, For how long will this be to us an imp
 | that | **<big>[[G3754\|ότι]]</big>** |
 | they destroy | **<big>[[G0622\|απόλωλεν]]</big>** |
 | Egypt? | **<big>[[G0125\|Αίγυπτος]]</big>** |
-[[Exod.10.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.6|<< Exodus 10:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.8|Exodus 10:8 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.6|<< Exodus 10:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.8|Exodus 10:8 >>]]</td></tr></table>
 
 

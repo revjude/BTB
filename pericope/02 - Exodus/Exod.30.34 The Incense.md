@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Incense
+type: Pericope
 pericope: "[[Exod.30.34 The Incense|The Incense]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 30
 book/chapter: "[[Exod.30|Exodus 30]]"
-genre:
+chronological_order: 122
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 5
 verses:
 - "[[Exod.30.34]]"
 - "[[Exod.30.35]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Exod.30.38]]"
 ---
 
-[[Exod.30|Exodus 30:34 - Exodus 30:38]]
+<small>[[Exod.30|Exodus 30:34-38]]</small>
 *The Incense*
 
 [[Exod.30.34|34]] And the LORD said unto Moses, Take unto thee sweet spices, stacte, and onycha, and galbanum; \[these\] sweet spices with pure frankincense: of each shall there be a like \[weight\]:

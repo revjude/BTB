@@ -1,8 +1,74 @@
+---
+title: Jeremiah 7:25
+type: Verse
+kjv: "Since the day that your fathers came forth out of the land of Egypt unto this day I have even sent unto you all my servants the prophets, daily rising up early and sending them:"
+bsb: "From the day your fathers came out of the land of Egypt until this day, I have sent you all My servants the prophets again and again."
+hebrew: "לְמִן־ הַיּ֗וֹם אֲשֶׁ֨ר יָצְא֤וּ אֲבֽוֹתֵיכֶם֙ מֵאֶ֣רֶץ מִצְרַ֔יִם עַ֖ד הַיּ֣וֹם הַזֶּ֑ה וָאֶשְׁלַ֤ח אֲלֵיכֶם֙ אֶת־ כָּל־ עֲבָדַ֣י הַנְּבִיאִ֔ים י֖וֹם הַשְׁכֵּ֥ם וְשָׁלֹֽחַ׃"
+pericope: "[[Jer.7.16 Judah’s Idolatry Persists|Judah’s Idolatry Persists]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 7
+book/chapter: "[[Jer.7|Jeremiah 7]]"
+chronological_order: 724
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9005]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H0834A]]"
+- "[[H3318G]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H5704]]"
+- "[[H2088]]"
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H9036]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H5030]]"
+- "[[H7925]]"
+- "[[H9002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 7:25**<big><big>[[Jer.7.16 Judah’s Idolatry Persists|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Since the day that your fathers came forth out of the land of Egypt unto this day I have even sent unto you all my servants the prophets, daily rising up early and sending [them]:
 <small><sub>**BSB:**</sub></small>
 From the day your fathers came out of the land of Egypt until this day, I have sent you all My servants the prophets again and again.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3117L\|יּ֗וֹם]] [[H0834A\|אֲשֶׁ֨ר]] [[H3318G\|יָצְא֤וּ]] [[H0001G\|אֲבֽוֹתֵי]][[H9026\|כֶם֙]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֔יִם]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9001\|וָ]][[H7971G\|אֶשְׁלַ֤ח]] [[H0413\|אֲלֵי]][[H9036\|כֶם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5650\|עֲבָדַ֣]][[H9020\|י]] [[H9009\|הַ]][[H5030\|נְּבִיאִ֔ים]] [[H3117L\|י֖וֹם]] [[H7925\|הַשְׁכֵּ֥ם]] [[H9002\|וְ]][[H7971G\|שָׁלֹֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PROPHETS|PROPHETS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.24|<< Jeremiah 7:24]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.26|Jeremiah 7:26 >>]]</td></tr></table>
 

@@ -1,10 +1,52 @@
+---
+title: Hebrews 3:4
+type: Verse
+kjv: "For every house is builded by some man; but he that built all things is God."
+bsb: "And every house is built by someone, but God is the builder of everything."
+greek: "πᾶς γὰρ οἶκος κατασκευάζεται ὑπό τινος, ὁ δὲ τὰ πάντα κατασκευάσας θεός."
+pericope: "[[Heb.3.1 Jesus Our Apostle and High Priest|Jesus Our Apostle and High Priest]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 3
+book/chapter: "[[Heb.3|Hebrews 3]]"
+chronological_order: 1142
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ARCHITECTURE|ARCHITECTURE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G3956]]"
+- "[[G1063]]"
+- "[[G3624G]]"
+- "[[G2680]]"
+- "[[G5259G]]"
+- "[[G5100]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2316]]"
+texts:
+- NKO
+- k
+---
+
 **Hebrews 3:4**<big><big>[[Heb.3.1 Jesus Our Apostle and High Priest|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For every house is builded by some [man]; but he that built all things [is] God.
 <small><sub>**BSB:**</sub></small>
 And every house is built by someone, but God is the builder of everything.
-<small><sub>**Literal:**</sub></small>
-Every for house is built by someone, the [One] however <the> everything having built [is] God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.3|<< Hebrews 3:3]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.5|Hebrews 3:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πᾶς]]  [[G1063\|γὰρ]]  [[G3624G\|οἶκος]]  [[G2680\|κατασκευάζεται]]  [[G5259G\|ὑπό]]  [[G5100\|τινος,]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G3588\|τὰ]]  [[G3956\|πάντα]]  [[G2680\|κατασκευάσας]]  [[G2316\|θεός.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARCHITECTURE|ARCHITECTURE]] • [[topic GOD|GOD]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.3|<< Hebrews 3:3]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.5|Hebrews 3:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,74 @@
+---
+title: 1 Samuel 26:20
+type: Verse
+kjv: "Now therefore, let not my blood fall to the earth before the face of the LORD: for the king of Israel is come out to seek a flea, as when one doth hunt a partridge in the mountains."
+bsb: "So do not let my blood fall to the ground far from the presence of the LORD. For the king of Israel has come out to look for a flea, like one who hunts a partridge in the mountains.”"
+hebrew: "וְעַתָּ֗ה אַל־ יִפֹּ֤ל דָּֽמִי֙ אַ֔רְצָה מִנֶּ֖גֶד פְּנֵ֣י יְהוָ֑ה כִּֽי־ יָצָ֞א מֶ֣לֶךְ יִשְׂרָאֵ֗ל לְבַקֵּשׁ֙ אֶת־ פַּרְעֹ֣שׁ אֶחָ֔ד כַּאֲשֶׁ֛ר יִרְדֹּ֥ף הַקֹּרֵ֖א בֶּהָרִֽים׃"
+pericope: "[[1Sam.26.13 David Reproves Abner|David Reproves Abner]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 26
+book/chapter: "[[1Sam.26|1 Samuel 26]]"
+chronological_order: 305
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic FLEA|FLEA]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic HUNTING|HUNTING]]"
+- "[[topic PARTRIDGE|PARTRIDGE]]"
+- "[[topic SELF-CONTROL|SELF-CONTROL]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5307G]]"
+- "[[H1818]]"
+- "[[H9020]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H9006]]"
+- "[[H5048]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H3318G]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H1245]]"
+- "[[H0853]]"
+- "[[H6550]]"
+- "[[H0259]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H7291]]"
+- "[[H9009]]"
+- "[[H7124]]"
+- "[[H9003]]"
+- "[[H2022G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 26:20**<big><big>[[1Sam.26.13 David Reproves Abner|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore, let not my blood fall to the earth before the face of the LORD: for the king of Israel is come out to seek a flea, as when one doth hunt a partridge in the mountains.
 <small><sub>**BSB:**</sub></small>
 So do not let my blood fall to the ground far from the presence of the LORD. For the king of Israel has come out to look for a flea, like one who hunts a partridge in the mountains.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H0408\|אַל]][[H9014\|־]] [[H5307G\|יִפֹּ֤ל]] [[H1818\|דָּֽמִ]][[H9020\|י֙]] [[H0776H\|אַ֔רְצָ]][[H9011\|ה]] [[H9006\|מִ]][[H5048\|נֶּ֖גֶד]] [[H6440G\|פְּנֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3318G\|יָצָ֞א]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9005\|לְ]][[H1245\|בַקֵּשׁ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6550\|פַּרְעֹ֣שׁ]] [[H0259\|אֶחָ֔ד]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H7291\|יִרְדֹּ֥ף]] [[H9009\|הַ]][[H7124\|קֹּרֵ֖א]] [[H9003\|בֶּ]][[H2022G\|הָרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FLEA|FLEA]] • [[topic HUMILITY|HUMILITY]] • [[topic HUNTING|HUNTING]] • [[topic PARTRIDGE|PARTRIDGE]] • [[topic SELF-CONTROL|SELF-CONTROL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.26.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.19|<< 1 Samuel 26:19]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.21|1 Samuel 26:21 >>]]</td></tr></table>
 

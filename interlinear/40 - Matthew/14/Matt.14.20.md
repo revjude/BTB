@@ -1,10 +1,54 @@
+---
+title: Matthew 14:20
+type: Verse
+kjv: "And they did all eat, and were filled: and they took up of the fragments that remained twelve baskets full."
+bsb: "They all ate and were satisfied, and the disciples picked up twelve basketfuls of broken pieces that were left over."
+greek: "καὶ ἔφαγον πάντες καὶ ἐχορτάσθησαν· καὶ ἦραν τὸ περισσεῦον τῶν κλασμάτων, δώδεκα κοφίνους πλήρεις."
+pericope: "[[Matt.14.13 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 14
+book/chapter: "[[Matt.14|Matthew 14]]"
+chronological_order: 964
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BASKET|BASKET]]"
+- "[[topic FRUGALITY|FRUGALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOAVES|LOAVES]]"
+strongs:
+- "[[G2532]]"
+- "[[G5315]]"
+- "[[G3956]]"
+- "[[G5526]]"
+- "[[G0142]]"
+- "[[G3588]]"
+- "[[G4052]]"
+- "[[G2801]]"
+- "[[G1427]]"
+- "[[G2894]]"
+- "[[G4134]]"
+texts:
+- NKO
+---
+
 **Matthew 14:20**<big><big>[[Matt.14.13 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they did all eat, and were filled: and they took up of the fragments that remained twelve baskets full.
 <small><sub>**BSB:**</sub></small>
 They all ate and were satisfied, and the disciples picked up twelve basketfuls of broken pieces that were left over.
-<small><sub>**Literal:**</sub></small>
-And ate all and were satisfied; and they took up that which is remaindering of the fragments, twelve hand-baskets full.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.19|<< Matthew 14:19]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.21|Matthew 14:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5315\|ἔφαγον]]  [[G3956\|πάντες]]  [[G2532\|καὶ]]  [[G5526\|ἐχορτάσθησαν·]]  [[G2532\|καὶ]]  [[G0142\|ἦραν]]  [[G3588\|τὸ]]  [[G4052\|περισσεῦον]]  [[G3588\|τῶν]]  [[G2801\|κλασμάτων,]]  [[G1427\|δώδεκα]]  [[G2894\|κοφίνους]]  [[G4134\|πλήρεις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BASKET|BASKET]] • [[topic FRUGALITY|FRUGALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOAVES|LOAVES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.19|<< Matthew 14:19]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.21|Matthew 14:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

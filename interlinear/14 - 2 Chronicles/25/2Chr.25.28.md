@@ -1,8 +1,56 @@
+---
+title: 2 Chronicles 25:28
+type: Verse
+kjv: "And they brought him upon horses, and buried him with his fathers in the city of Judah."
+bsb: "They carried him back on horses and buried him with his fathers in the City of Judah."
+hebrew: "וַיִּשָּׂאֻ֖הוּ עַל־ הַסּוּסִ֑ים וַֽיִּקְבְּר֥וּ אֹת֛וֹ עִם־ אֲבֹתָ֖יו בְּעִ֥יר יְהוּדָֽה׃"
+pericope: "[[2Chr.25.25 The Death of Amaziah|The Death of Amaziah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 25
+book/chapter: "[[2Chr.25|2 Chronicles 25]]"
+chronological_order: 592
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H5375H]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5483M]]"
+- "[[H6912]]"
+- "[[H0853]]"
+- "[[H5973A]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 25:28**<big><big>[[2Chr.25.25 The Death of Amaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they brought him upon horses, and buried him with his fathers in the city of Judah.
 <small><sub>**BSB:**</sub></small>
 They carried him back on horses and buried him with his fathers in the City of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5375H\|יִּשָּׂאֻ֖]][[H9033\|הוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H5483M\|סּוּסִ֑ים]] [[H9001\|וַֽ]][[H6912\|יִּקְבְּר֥וּ]] [[H0853\|אֹת֛]][[H9033\|וֹ]] [[H5973A\|עִם]][[H9014\|־]] [[H0001G\|אֲבֹתָ֖י]][[H9023\|ו]] [[H9003\|בְּ]][[H5892B\|עִ֥יר]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.27|<< 2 Chronicles 25:27]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.1|2 Chronicles 26:1 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Ezekiel 20:16
+type: Verse
+kjv: "Because they despised my judgments, and walked not in my statutes, but polluted my sabbaths: for their heart went after their idols."
+bsb: "because they kept rejecting My ordinances, refusing to walk in My statutes, and profaning My Sabbaths; for their hearts continually went after their idols."
+hebrew: "יַ֜עַן בְּמִשְׁפָּטַ֣י מָאָ֗סוּ וְאֶת־ חֻקּוֹתַי֙ לֹא־ הָלְכ֣וּ בָהֶ֔ם וְאֶת־ שַׁבְּתוֹתַ֖י חִלֵּ֑לוּ כִּ֛י אַחֲרֵ֥י גִלּוּלֵיהֶ֖ם לִבָּ֥ם הֹלֵֽךְ׃"
+pericope: "[[Ezek.20.10 Israel’s Rebellion in the Wilderness|Israel’s Rebellion in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3282]]"
+- "[[H9003]]"
+- "[[H4941G]]"
+- "[[H9020]]"
+- "[[H3988A]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2708]]"
+- "[[H3808]]"
+- "[[H1980I]]"
+- "[[H9038]]"
+- "[[H7676]]"
+- "[[H2490H]]"
+- "[[H3588A]]"
+- "[[H0310A]]"
+- "[[H1544]]"
+- "[[H9028]]"
+- "[[H3820A]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:16**<big><big>[[Ezek.20.10 Israel’s Rebellion in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because they despised my judgments, and walked not in my statutes, but polluted my sabbaths: for their heart went after their idols.
 <small><sub>**BSB:**</sub></small>
 because they kept rejecting My ordinances, refusing to walk in My statutes, and profaning My Sabbaths; for their hearts continually went after their idols.
+<small><sub>**Hebrew:**</sub></small>
+[[H3282\|יַ֜עַן]] [[H9003\|בְּ]][[H4941G\|מִשְׁפָּטַ֣]][[H9020\|י]] [[H3988A\|מָאָ֗סוּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2708\|חֻקּוֹתַ]][[H9020\|י֙]] [[H3808\|לֹא]][[H9014\|־]] [[H1980I\|הָלְכ֣וּ]] [[H9003\|בָ]][[H9038\|הֶ֔ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7676\|שַׁבְּתוֹתַ֖]][[H9020\|י]] [[H2490H\|חִלֵּ֑לוּ]] [[H3588A\|כִּ֛י]] [[H0310A\|אַחֲרֵ֥י]] [[H1544\|גִלּוּלֵי]][[H9028\|הֶ֖ם]] [[H3820A\|לִבָּ֥]][[H9028\|ם]] [[H1980G\|הֹלֵֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SABBATH|SABBATH]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.15|<< Ezekiel 20:15]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.17|Ezekiel 20:17 >>]]</td></tr></table>
 

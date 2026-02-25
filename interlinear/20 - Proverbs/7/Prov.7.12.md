@@ -1,8 +1,60 @@
+---
+title: Proverbs 7:12
+type: Verse
+kjv: "Now is she without, now in the streets, and lieth in wait at every corner.)"
+bsb: "Now in the street, now in the squares, she lurks at every corner."
+hebrew: "פַּ֤עַם׀ בַּח֗וּץ פַּ֥עַם בָּרְחֹב֑וֹת וְאֵ֖צֶל כָּל־ פִּנָּ֣ה תֶאֱרֹֽב׃"
+pericope: "[[Prov.7.1 Warnings about the Adulteress|Warnings about the Adulteress]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 7
+book/chapter: "[[Prov.7|Proverbs 7]]"
+chronological_order: 462
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H6471]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H2351]]"
+- "[[H7339]]"
+- "[[H9002]]"
+- "[[H0681]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6438H]]"
+- "[[H0693]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 7:12**<big><big>[[Prov.7.1 Warnings about the Adulteress|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now [is she] without, now in the streets, and lieth in wait at every corner.)
 <small><sub>**BSB:**</sub></small>
 Now in the street, now in the squares, she lurks at every corner.
+<small><sub>**Hebrew:**</sub></small>
+[[H6471\|פַּ֤עַם]][[H9015\|׀]] [[H9003\|בַּ]][[H2351\|ח֗וּץ]] [[H6471\|פַּ֥עַם]] [[H9003\|בָּ]][[H7339\|רְחֹב֑וֹת]] [[H9002\|וְ]][[H0681\|אֵ֖צֶל]] [[H3605\|כָּל]][[H9014\|־]] [[H6438H\|פִּנָּ֣ה]] [[H0693\|תֶאֱרֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BLINDNESS|BLINDNESS]] • [[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic IGNORANCE|IGNORANCE]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WOMEN|WOMEN]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.7.11|<< Proverbs 7:11]]</td><td align="center" style="border:none;">[[Prov.7|Proverbs 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.7.13|Proverbs 7:13 >>]]</td></tr></table>
 

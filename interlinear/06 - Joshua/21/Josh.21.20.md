@@ -1,8 +1,58 @@
+---
+title: Joshua 21:20
+type: Verse
+kjv: "And the families of the children of Kohath, the Levites which remained of the children of Kohath, even they had the cities of their lot out of the tribe of Ephraim."
+bsb: "The remaining Kohathite clans of the Levites were allotted these cities: From the tribe of Ephraim"
+hebrew: "וּלְמִשְׁפְּח֤וֹת בְּנֵֽי־ קְהָת֙ הַלְוִיִּ֔ם הַנּוֹתָרִ֖ים מִבְּנֵ֣י קְהָ֑ת וַֽיְהִי֙ עָרֵ֣י גֽוֹרָלָ֔ם מִמַּטֵּ֖ה אֶפְרָֽיִם׃"
+pericope: "[[Josh.21.1 Forty-Eight Cities for the Levites|Forty-Eight Cities for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 21
+book/chapter: "[[Josh.21|Joshua 21]]"
+chronological_order: 251
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H6955]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H3498]]"
+- "[[H9006]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H5892B]]"
+- "[[H1486]]"
+- "[[H9028]]"
+- "[[H4294H]]"
+- "[[H0669G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 21:20**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the families of the children of Kohath, the Levites which remained of the children of Kohath, even they had the cities of their lot out of the tribe of Ephraim.
 <small><sub>**BSB:**</sub></small>
 The remaining Kohathite clans of the Levites were allotted these cities: From the tribe of Ephraim
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H4940\|מִשְׁפְּח֤וֹת]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H6955\|קְהָת֙]] [[H9009\|הַ]][[H3881\|לְוִיִּ֔ם]] [[H9009\|הַ]][[H3498\|נּוֹתָרִ֖ים]] [[H9006\|מִ]][[H1121G\|בְּנֵ֣י]] [[H6955\|קְהָ֑ת]] [[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H5892B\|עָרֵ֣י]] [[H1486\|גֽוֹרָלָ֔]][[H9028\|ם]] [[H9006\|מִ]][[H4294H\|מַּטֵּ֖ה]] [[H0669G\|אֶפְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.19|<< Joshua 21:19]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.21|Joshua 21:21 >>]]</td></tr></table>
 

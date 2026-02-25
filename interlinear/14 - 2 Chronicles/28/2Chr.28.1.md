@@ -1,8 +1,63 @@
+---
+title: 2 Chronicles 28:1
+type: Verse
+kjv: "Ahaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem: but he did not that which was right in the sight of the LORD, like David his father:"
+bsb: "Ahaz was twenty years old when he became king, and he reigned in Jerusalem sixteen years. And unlike David his father, he did not do what was right in the eyes of the LORD."
+hebrew: "בֶּן־ עֶשְׂרִ֤ים שָׁנָה֙ אָחָ֣ז בְּמָלְכ֔וֹ וְשֵׁשׁ־ עֶשְׂרֵ֣ה שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלִָ֑ם וְלֹא־ עָשָׂ֧ה הַיָּשָׁ֛ר בְּעֵינֵ֥י יְהוָ֖ה כְּדָוִ֥יד אָבִֽיו׃"
+pericope: "[[2Chr.28.1 Ahaz Reigns in Judah|Ahaz Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 28
+book/chapter: "[[2Chr.28|2 Chronicles 28]]"
+chronological_order: 616
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AHAZ|AHAZ]]"
+strongs:
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H6242]]"
+- "[[H8141]]"
+- "[[H0271G]]"
+- "[[H9003]]"
+- "[[H4427A]]"
+- "[[H9043]]"
+- "[[H9002]]"
+- "[[H8337]]"
+- "[[H6240]]"
+- "[[H3389]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H3477G]]"
+- "[[H5869I]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 28:1**<big><big>[[2Chr.28.1 Ahaz Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ahaz [was] twenty years old when he began to reign, and he reigned sixteen years in Jerusalem: but he did not [that which was] right in the sight of the LORD, like David his father:
 <small><sub>**BSB:**</sub></small>
 Ahaz was twenty years old when he became king, and he reigned in Jerusalem sixteen years. And unlike David his father, he did not do what was right in the eyes of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121L\|בֶּן]][[H9014\|־]] [[H6242\|עֶשְׂרִ֤ים]] [[H8141\|שָׁנָה֙]] [[H0271G\|אָחָ֣ז]] [[H9003\|בְּ]][[H4427A\|מָלְכ֔]][[H9043\|וֹ]] [[H9002\|וְ]][[H8337\|שֵׁשׁ]][[H9014\|־]] [[H6240\|עֶשְׂרֵ֣ה]] [[H8141\|שָׁנָ֔ה]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H6213A\|עָשָׂ֧ה]] [[H9009\|הַ]][[H3477G\|יָּשָׁ֛ר]] [[H9003\|בְּ]][[H5869I\|עֵינֵ֥י]] [[H3068G\|יְהוָ֖ה]] [[H9004\|כְּ]][[H1732\|דָוִ֥יד]] [[H0001G\|אָבִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZ|AHAZ]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.27.9|<< 2 Chronicles 27:9]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.2|2 Chronicles 28:2 >>]]</td></tr></table>
 

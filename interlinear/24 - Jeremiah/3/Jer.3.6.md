@@ -1,8 +1,77 @@
+---
+title: Jeremiah 3:6
+type: Verse
+kjv: "The LORD said also unto me in the days of Josiah the king, Hast thou seen that which backsliding Israel hath done? she is gone up upon every high mountain and under every green tree, and there hath played the harlot."
+bsb: "Now in the days of King Josiah, the LORD said to me, “Have you seen what faithless Israel has done? She has gone up on every high hill and under every green tree to prostitute herself there."
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה אֵלַ֗י בִּימֵי֙ יֹאשִׁיָּ֣הוּ הַמֶּ֔לֶךְ הֲֽרָאִ֔יתָ אֲשֶׁ֥ר עָשְׂתָ֖ה מְשֻׁבָ֣ה יִשְׂרָאֵ֑ל הֹלְכָ֨ה הִ֜יא עַל־ כָּל־ הַ֣ר גָּבֹ֗הַּ וְאֶל־ תַּ֛חַת כָּל־ עֵ֥ץ רַעֲנָ֖ן וַתִּזְנִי־ שָֽׁם׃"
+pericope: "[[Jer.3.6 Judah Follows Israel’s Example|Judah Follows Israel’s Example]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 3
+book/chapter: "[[Jer.3|Jeremiah 3]]"
+chronological_order: 720
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H2977G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9008]]"
+- "[[H7200G]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H4878]]"
+- "[[H3478]]"
+- "[[H1980G]]"
+- "[[H1931]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H2022G]]"
+- "[[H1364]]"
+- "[[H9002]]"
+- "[[H8478G]]"
+- "[[H6086H]]"
+- "[[H7488B]]"
+- "[[H2181]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 3:6**<big><big>[[Jer.3.6 Judah Follows Israel’s Example|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD said also unto me in the days of Josiah the king, Hast thou seen [that] which backsliding Israel hath done? she is gone up upon every high mountain and under every green tree, and there hath played the harlot.
 <small><sub>**BSB:**</sub></small>
 Now in the days of King Josiah, the LORD said to me, “Have you seen what faithless Israel has done? She has gone up on every high hill and under every green tree to prostitute herself there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֵלַ֗]][[H9030\|י]] [[H9003\|בִּ]][[H3117G\|ימֵי֙]] [[H2977G\|יֹאשִׁיָּ֣הוּ]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9008\|הֲֽ]][[H7200G\|רָאִ֔יתָ]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|עָשְׂתָ֖ה]] [[H4878\|מְשֻׁבָ֣ה]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H1980G\|הֹלְכָ֨ה]] [[H1931\|הִ֜יא]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H2022G\|הַ֣ר]] [[H1364\|גָּבֹ֗הַּ]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H8478G\|תַּ֛חַת]] [[H3605\|כָּל]][[H9014\|־]] [[H6086H\|עֵ֥ץ]] [[H7488B\|רַעֲנָ֖ן]] [[H9001\|וַ]][[H2181\|תִּזְנִי]][[H9014\|־]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JEREMIAH|JEREMIAH]] • [[topic MOUNTAIN|MOUNTAIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.5|<< Jeremiah 3:5]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.7|Jeremiah 3:7 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 22:5
+type: Verse
+kjv: "And the prophet Gad said unto David, Abide not in the hold; depart, and get thee into the land of Judah. Then David departed, and came into the forest of Hareth."
+bsb: "Then the prophet Gad said to David, “Do not stay in the stronghold. Depart and go into the land of Judah.” So David left and went to the forest of Hereth."
+hebrew: "וַיֹּאמֶר֩ גָּ֨ד הַנָּבִ֜יא אֶל־ דָּוִ֗ד לֹ֤א תֵשֵׁב֙ בַּמְּצוּדָ֔ה לֵ֥ךְ וּבָֽאתָ־ לְּךָ֖ אֶ֣רֶץ יְהוּדָ֑ה וַיֵּ֣לֶךְ דָּוִ֔ד וַיָּבֹ֖א יַ֥עַר חָֽרֶת׃ ס"
+pericope: "[[1Sam.22.1 David Flees to Adullam and Mizpeh|David Flees to Adullam and Mizpeh]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 22
+book/chapter: "[[1Sam.22|1 Samuel 22]]"
+chronological_order: 301
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GAD|GAD]]"
+- "[[topic HARETH|HARETH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1410H]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H3808]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H4686B]]"
+- "[[H1980G]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0776G]]"
+- "[[H3063G]]"
+- "[[H3293A]]"
+- "[[H2802]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Samuel 22:5**<big><big>[[1Sam.22.1 David Flees to Adullam and Mizpeh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the prophet Gad said unto David, Abide not in the hold; depart, and get thee into the land of Judah. Then David departed, and came into the forest of Hareth.
 <small><sub>**BSB:**</sub></small>
 Then the prophet Gad said to David, “Do not stay in the stronghold. Depart and go into the land of Judah.” So David left and went to the forest of Hereth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמֶר֩]] [[H1410H\|גָּ֨ד]] [[H9009\|הַ]][[H5030\|נָּבִ֜יא]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֗ד]] [[H3808\|לֹ֤א]] [[H3427\|תֵשֵׁב֙]] [[H9003\|בַּ]][[H4686B\|מְּצוּדָ֔ה]] [[H1980G\|לֵ֥ךְ]] [[H9001\|וּ]][[H0935G\|בָֽאתָ]][[H9014\|־]] [[H9005\|לְּ]][[H9031\|ךָ֖]] [[H0776G\|אֶ֣רֶץ]] [[H3063G\|יְהוּדָ֑ה]] [[H9001\|וַ]][[H1980G\|יֵּ֣לֶךְ]] [[H1732\|דָּוִ֔ד]] [[H9001\|וַ]][[H0935G\|יָּבֹ֖א]] [[H3293A\|יַ֥עַר]] [[H2802\|חָֽרֶת]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAD|GAD]] • [[topic HARETH|HARETH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.22.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.22.4|<< 1 Samuel 22:4]]</td><td align="center" style="border:none;">[[1Sam.22|1 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.22.6|1 Samuel 22:6 >>]]</td></tr></table>
 
@@ -25,7 +80,7 @@ Then the prophet Gad said to David, “Do not stay in the stronghold. Depart and
 | David  |**<big>&#8207;[[H1732\|דָּוִ֔ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֖א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] forest of  |**<big>&#8207;[[H3293A\|יַ֥עַר]]&#8207; </big>**| Ya.'ar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Hereth  |**<big>&#8207;[[H2802\|חָֽרֶת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Cha.ret<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Hereth  |**<big>&#8207;[[H2802\|חָֽרֶת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Cha.ret<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.22.4|<< 1 Samuel 22:4]]</td><td align="center" style="border:none;">[[1Sam.22|1 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.22.6|1 Samuel 22:6 >>]]</td></tr></table>
 
 

@@ -1,8 +1,76 @@
+---
+title: Genesis 20:3
+type: Verse
+kjv: "But God came to Abimelech in a dream by night, and said to him, Behold, thou art but a dead man, for the woman which thou hast taken; for she is a man’s wife."
+bsb: "One night, however, God came to Abimelech in a dream and told him, “You are as good as dead because of the woman you have taken, for she is a married woman.”"
+hebrew: "וַיָּבֹ֧א אֱלֹהִ֛ים אֶל־ אֲבִימֶ֖לֶךְ בַּחֲל֣וֹם הַלָּ֑יְלָה וַיֹּ֣אמֶר ל֗וֹ הִנְּךָ֥ מֵת֙ עַל־ הָאִשָּׁ֣ה אֲשֶׁר־ לָקַ֔חְתָּ וְהִ֖וא בְּעֻ֥לַת בָּֽעַל׃"
+pericope: "[[Gen.20.1 Abraham, Sarah, and Abimelech|Abraham, Sarah, and Abimelech]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 20
+book/chapter: "[[Gen.20|Genesis 20]]"
+chronological_order: 62
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic SARAH|SARAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0430G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0040G]]"
+- "[[H9003]]"
+- "[[H2472]]"
+- "[[H9009]]"
+- "[[H3915]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H2009]]"
+- "[[H9041]]"
+- "[[H4191]]"
+- "[[H5921A]]"
+- "[[H0802G]]"
+- "[[H0834A]]"
+- "[[H3947G]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H1166I]]"
+- "[[H1167I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 20:3**<big><big>[[Gen.20.1 Abraham, Sarah, and Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But God came to Abimelech in a dream by night, and said to him, Behold, thou [art but] a dead man, for the woman which thou hast taken; for she [is] a man’s wife.
 <small><sub>**BSB:**</sub></small>
 One night, however, God came to Abimelech in a dream and told him, “You are as good as dead because of the woman you have taken, for she is a married woman.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֧א]] [[H0430G\|אֱלֹהִ֛ים]] [[H0413\|אֶל]][[H9014\|־]] [[H0040G\|אֲבִימֶ֖לֶךְ]] [[H9003\|בַּ]][[H2472\|חֲל֣וֹם]] [[H9009\|הַ]][[H3915\|לָּ֑יְלָה]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H2009\|הִנְּ]][[H9041\|ךָ֥]] [[H4191\|מֵת֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֣ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3947G\|לָקַ֔חְתָּ]] [[H9002\|וְ]][[H1931\|הִ֖וא]] [[H1166I\|בְּעֻ֥לַת]] [[H1167I\|בָּֽעַל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic COWARDICE|COWARDICE]] • [[topic DREAM|DREAM]] • [[topic GOD|GOD]] • [[topic HEATHEN|HEATHEN]] • [[topic IGNORANCE|IGNORANCE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic SARAH|SARAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.20.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.20.2|<< Genesis 20:2]]</td><td align="center" style="border:none;">[[Gen.20|Genesis 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.20.4|Genesis 20:4 >>]]</td></tr></table>
 

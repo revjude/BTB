@@ -1,8 +1,62 @@
+---
+title: Ezekiel 26:15
+type: Verse
+kjv: "Thus saith the Lord GOD to Tyrus; Shall not the isles shake at the sound of thy fall, when the wounded cry, when the slaughter is made in the midst of thee?"
+bsb: "This is what the Lord GOD says to Tyre: ‘Will not the coastlands quake at the sound of your downfall, when the wounded groan at the slaughter in your midst?"
+hebrew: "כֹּ֥ה אָמַ֛ר אֲדֹנָ֥י יְהוִ֖ה לְצ֑וֹר הֲלֹ֣א׀ מִקּ֣וֹל מַפַּלְתֵּ֗ךְ בֶּאֱנֹ֨ק חָלָ֜ל בֵּהָ֤רֵֽג הֶ֙רֶג֙ בְּתוֹכֵ֔ךְ יִרְעֲשׁ֖וּ הָאִיִּֽים׃"
+pericope: "[[Ezek.26.1 A Prophecy against Tyre|A Prophecy against Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 26
+book/chapter: "[[Ezek.26|Ezekiel 26]]"
+chronological_order: 817
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9005]]"
+- "[[H6865]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H6963H]]"
+- "[[H4658]]"
+- "[[H9022]]"
+- "[[H9003]]"
+- "[[H0602]]"
+- "[[H2491H]]"
+- "[[H2026]]"
+- "[[H2027]]"
+- "[[H8432]]"
+- "[[H7493]]"
+- "[[H9009]]"
+- "[[H0339]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 26:15**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the Lord GOD to Tyrus; Shall not the isles shake at the sound of thy fall, when the wounded cry, when the slaughter is made in the midst of thee?
 <small><sub>**BSB:**</sub></small>
 This is what the Lord GOD says to Tyre: ‘Will not the coastlands quake at the sound of your downfall, when the wounded groan at the slaughter in your midst?
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֛ר]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִ֖ה]] [[H9005\|לְ]][[H6865\|צ֑וֹר]] [[H9008\|הֲ]][[H3808\|לֹ֣א]][[H9015\|׀]] [[H9006\|מִ]][[H6963H\|קּ֣וֹל]] [[H4658\|מַפַּלְתֵּ֗]][[H9022\|ךְ]] [[H9003\|בֶּ]][[H0602\|אֱנֹ֨ק]] [[H2491H\|חָלָ֜ל]] [[H9003\|בֵּ]][[H2026\|הָ֤רֵֽג]] [[H2027\|הֶ֙רֶג֙]] [[H9003\|בְּ]][[H8432\|תוֹכֵ֔]][[H9022\|ךְ]] [[H7493\|יִרְעֲשׁ֖וּ]] [[H9009\|הָ]][[H0339\|אִיִּֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.14|<< Ezekiel 26:14]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.16|Ezekiel 26:16 >>]]</td></tr></table>
 

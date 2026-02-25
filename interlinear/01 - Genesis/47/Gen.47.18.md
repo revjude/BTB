@@ -1,8 +1,80 @@
+---
+title: Genesis 47:18
+type: Verse
+kjv: "When that year was ended, they came unto him the second year, and said unto him, We will not hide it from my lord, how that our money is spent; my lord also hath our herds of cattle; there is not ought left in the sight of my lord, but our bodies, and our lands:"
+bsb: "When that year was over, they came to him the second year and said, “We cannot hide from our lord that our money is gone and all our livestock belongs to you. There is nothing left for our lord except our bodies and our land."
+hebrew: "וַתִּתֹּם֮ הַשָּׁנָ֣ה הַהִוא֒ וַיָּבֹ֨אוּ אֵלָ֜יו בַּשָּׁנָ֣ה הַשֵּׁנִ֗ית וַיֹּ֤אמְרוּ לוֹ֙ לֹֽא־ נְכַחֵ֣ד מֵֽאֲדֹנִ֔י כִּ֚י אִם־ תַּ֣ם הַכֶּ֔סֶף וּמִקְנֵ֥ה הַבְּהֵמָ֖ה אֶל־ אֲדֹנִ֑י לֹ֤א נִשְׁאַר֙ לִפְנֵ֣י אֲדֹנִ֔י בִּלְתִּ֥י אִם־ גְּוִיָּתֵ֖נוּ וְאַדְמָתֵֽנוּ׃"
+pericope: "[[Gen.47.13 The Famine Continues|The Famine Continues]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 47
+book/chapter: "[[Gen.47|Genesis 47]]"
+chronological_order: 89
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EXTORTION|EXTORTION]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic STATECRAFT|STATECRAFT]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H8552]]"
+- "[[H9009]]"
+- "[[H8141]]"
+- "[[H1931]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H8145]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3582]]"
+- "[[H9006]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H4735]]"
+- "[[H0929]]"
+- "[[H7604]]"
+- "[[H6440G]]"
+- "[[H1115]]"
+- "[[H0518J]]"
+- "[[H1472]]"
+- "[[H9025]]"
+- "[[H0127G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 47:18**<big><big>[[Gen.47.13 The Famine Continues|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When that year was ended, they came unto him the second year, and said unto him, We will not hide [it] from my lord, how that our money is spent; my lord also hath our herds of cattle; there is not ought left in the sight of my lord, but our bodies, and our lands:
 <small><sub>**BSB:**</sub></small>
 When that year was over, they came to him the second year and said, “We cannot hide from our lord that our money is gone and all our livestock belongs to you. There is nothing left for our lord except our bodies and our land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8552\|תִּתֹּם֮]] [[H9009\|הַ]][[H8141\|שָּׁנָ֣ה]] [[H9009\|הַ]][[H1931\|הִוא֒]] [[H9001\|וַ]][[H0935G\|יָּבֹ֨אוּ]] [[H0413\|אֵלָ֜י]][[H9033\|ו]] [[H9003\|בַּ]][[H8141\|שָּׁנָ֣ה]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֗ית]] [[H9001\|וַ]][[H0559\|יֹּ֤אמְרוּ]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3582\|נְכַחֵ֣ד]] [[H9006\|מֵֽ]][[H0113\|אֲדֹנִ֔]][[H9020\|י]] [[H3588B\|כִּ֚י]] [[H0518B\|אִם]][[H9014\|־]] [[H8552\|תַּ֣ם]] [[H9009\|הַ]][[H3701G\|כֶּ֔סֶף]] [[H9002\|וּ]][[H4735\|מִקְנֵ֥ה]] [[H9009\|הַ]][[H0929\|בְּהֵמָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H0113\|אֲדֹנִ֑]][[H9020\|י]] [[H3808\|לֹ֤א]] [[H7604\|נִשְׁאַר֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H0113\|אֲדֹנִ֔]][[H9020\|י]] [[H1115\|בִּלְתִּ֥י]] [[H0518J\|אִם]][[H9014\|־]] [[H1472\|גְּוִיָּתֵ֖]][[H9025\|נוּ]] [[H9002\|וְ]][[H0127G\|אַדְמָתֵֽ]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPT|EGYPT]] • [[topic EXTORTION|EXTORTION]] • [[topic JOSEPH|JOSEPH]] • [[topic MONEY|MONEY]] • [[topic STATECRAFT|STATECRAFT]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.17|<< Genesis 47:17]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.19|Genesis 47:19 >>]]</td></tr></table>
 

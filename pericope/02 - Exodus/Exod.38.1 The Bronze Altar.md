@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Bronze Altar
+type: Pericope
 pericope: "[[Exod.38.1 The Bronze Altar|The Bronze Altar]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 38
 book/chapter: "[[Exod.38|Exodus 38]]"
-genre:
+chronological_order: 130
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 7
 verses:
 - "[[Exod.38.1]]"
 - "[[Exod.38.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Exod.38.7]]"
 ---
 
-[[Exod.38|Exodus 38:1 - Exodus 38:7]]
+<small>[[Exod.38|Exodus 38:1-7]]</small>
 *The Bronze Altar*
 
 [[Exod.38.1|1]] And he made the altar of burnt offering \[of\] shittim wood: five cubits \[was\] the length thereof, and five cubits the breadth thereof; \[it was\] foursquare; and three cubits the height thereof.

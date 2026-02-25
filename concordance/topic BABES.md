@@ -5,7 +5,7 @@
 
 → A symbol of the guileless [[Ps.8.2|Ps 8:2]]; [[Matt.11.25|Mt 11:25]]; [[Luke.10.21|Lu 10:21]]
 
-→ A symbol of the children of the kingdom of heaven [[Matt.18.2|Mt 18:2]]-[[Matt.18.6|6]]; [[Mark.10.15|Mr 10:15]]; [[Luke.18.17|Lu 18:17]]
+→ A symbol of the children of the kingdom of heaven [[Matt.18.2|Mt 18:2-6]]; [[Mark.10.15|Mr 10:15]]; [[Luke.18.17|Lu 18:17]]
 
 → FIGURATIVE
 

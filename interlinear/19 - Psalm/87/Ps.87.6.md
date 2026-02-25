@@ -1,8 +1,57 @@
+---
+title: Psalm 87:6
+type: Verse
+kjv: "The LORD shall count, when he writeth up the people, that this man was born there. Selah."
+bsb: "The LORD will record in the register of the peoples: “This one was born in Zion.” Selah"
+hebrew: "יְֽהוָ֗ה יִ֭סְפֹּר בִּכְת֣וֹב עַמִּ֑ים זֶ֖ה יֻלַּד־ שָׁ֣ם סֶֽלָה׃"
+pericope: "[[Ps.87.1 The LORD Loves the Gates of Zion|The LORD Loves the Gates of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 87
+book/chapter: "[[Ps.87|Psalm 87]]"
+chronological_order: 515
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BOOK|BOOK]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H3068G]]"
+- "[[H5608A]]"
+- "[[H9003]]"
+- "[[H3789]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H3205]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 87:6**<big><big>[[Ps.87.1 The LORD Loves the Gates of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD shall count, when he writeth up the people, [that] this [man] was born there. Selah.
 <small><sub>**BSB:**</sub></small>
 The LORD will record in the register of the peoples: “This one was born in Zion.” Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְֽהוָ֗ה]] [[H5608A\|יִ֭סְפֹּר]] [[H9003\|בִּ]][[H3789\|כְת֣וֹב]] [[H5971A\|עַמִּ֑ים]] [[H2088\|זֶ֖ה]] [[H3205\|יֻלַּד]][[H9014\|־]] [[H8033G\|שָׁ֣ם]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOOK|BOOK]] • [[topic CHURCH|CHURCH]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.87.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.87.5|<< Psalms 87:5]]</td><td align="center" style="border:none;">[[Ps.87|Psalms 87]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.87.7|Psalms 87:7 >>]]</td></tr></table>
 

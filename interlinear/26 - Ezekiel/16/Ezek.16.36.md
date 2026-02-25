@@ -1,8 +1,73 @@
+---
+title: Ezekiel 16:36
+type: Verse
+kjv: "Thus saith the Lord GOD; Because thy filthiness was poured out, and thy nakedness discovered through thy whoredoms with thy lovers, and with all the idols of thy abominations, and by the blood of thy children, which thou didst give unto them;"
+bsb: "This is what the Lord GOD says: Because you poured out your wealth and exposed your nakedness in your promiscuity with your lovers and with all your detestable idols, and because of the blood of your children which you gave to them,"
+hebrew: "כֹּֽה־ אָמַ֞ר אֲדֹנָ֣י יְהֹוִ֗ה יַ֣עַן הִשָּׁפֵ֤ךְ נְחֻשְׁתֵּךְ֙ וַתִּגָּלֶ֣ה עֶרְוָתֵ֔ךְ בְּתַזְנוּתַ֖יִךְ עַל־ מְאַהֲבָ֑יִךְ וְעַל֙ כָּל־ גִּלּוּלֵ֣י תוֹעֲבוֹתַ֔יִךְ וְכִדְמֵ֣י בָנַ֔יִךְ אֲשֶׁ֥ר נָתַ֖תְּ לָהֶֽם׃"
+pericope: "[[Ezek.16.35 Judgment on Jerusalem|Judgment on Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H3282]]"
+- "[[H8210G]]"
+- "[[H5178B]]"
+- "[[H9022]]"
+- "[[H9001]]"
+- "[[H1540I]]"
+- "[[H6172]]"
+- "[[H9003]]"
+- "[[H8457]]"
+- "[[H5921A]]"
+- "[[H0157G]]"
+- "[[H9032]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H1544]]"
+- "[[H8441]]"
+- "[[H9004]]"
+- "[[H1818]]"
+- "[[H1121A]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 16:36**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the Lord GOD; Because thy filthiness was poured out, and thy nakedness discovered through thy whoredoms with thy lovers, and with all the idols of thy abominations, and by the blood of thy children, which thou didst give unto them;
 <small><sub>**BSB:**</sub></small>
 This is what the Lord GOD says: Because you poured out your wealth and exposed your nakedness in your promiscuity with your lovers and with all your detestable idols, and because of the blood of your children which you gave to them,
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֞ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהֹוִ֗ה]] [[H3282\|יַ֣עַן]] [[H8210G\|הִשָּׁפֵ֤ךְ]] [[H5178B\|נְחֻשְׁתֵּ]][[H9022\|ךְ֙]] [[H9001\|וַ]][[H1540I\|תִּגָּלֶ֣ה]] [[H6172\|עֶרְוָתֵ֔]][[H9022\|ךְ]] [[H9003\|בְּ]][[H8457\|תַזְנוּתַ֖יִ]][[H9022\|ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H0157G\|מְאַהֲבָ֑יִ]][[H9032\|ךְ]] [[H9002\|וְ]][[H5921A\|עַל֙]] [[H3605\|כָּל]][[H9014\|־]] [[H1544\|גִּלּוּלֵ֣י]] [[H8441\|תוֹעֲבוֹתַ֔יִ]][[H9022\|ךְ]] [[H9002\|וְ]][[H9004\|כִ]][[H1818\|דְמֵ֣י]] [[H1121A\|בָנַ֔יִ]][[H9022\|ךְ]] [[H0834A\|אֲשֶׁ֥ר]] [[H5414G\|נָתַ֖תְּ]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HIGH PLACES|HIGH PLACES]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.35|<< Ezekiel 16:35]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.37|Ezekiel 16:37 >>]]</td></tr></table>
 

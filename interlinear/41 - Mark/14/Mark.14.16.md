@@ -1,10 +1,56 @@
+---
+title: Mark 14:16
+type: Verse
+kjv: "And his disciples went forth, and came into the city, and found as he had said unto them: and they made ready the passover."
+bsb: "So the disciples left and went into the city, where they found everything as Jesus had described. And they prepared the Passover."
+greek: "καὶ ἐξῆλθον οἱ μαθηταὶ αὐτοῦ καὶ ἦλθον εἰς τὴν πόλιν καὶ εὗρον καθὼς εἶπεν αὐτοῖς καὶ ἡτοίμασαν τὸ πάσχα.¶"
+pericope: "[[Mark.14.12 Preparing the Passover|Preparing the Passover]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[G2532]]"
+- "[[G1831]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G4172]]"
+- "[[G2147]]"
+- "[[G2531]]"
+- "[[G2036]]"
+- "[[G2090]]"
+- "[[G3957]]"
+texts:
+- NKO
+- ko
+---
+
 **Mark 14:16**<big><big>[[Mark.14.12 Preparing the Passover|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And his disciples went forth, and came into the city, and found as he had said unto them: and they made ready the passover.
 <small><sub>**BSB:**</sub></small>
 So the disciples left and went into the city, where they found everything as Jesus had described. And they prepared the Passover.
-<small><sub>**Literal:**</sub></small>
-And went away the disciples of him and came into the city and found even as He had said to them and they prepared the Passover.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.15|<< Mark 14:15]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.17|Mark 14:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1831\|ἐξῆλθον]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G2064\|ἦλθον]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4172\|πόλιν]]  [[G2532\|καὶ]]  [[G2147\|εὗρον]]  [[G2531\|καθὼς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς]]  [[G2532\|καὶ]]  [[G2090\|ἡτοίμασαν]]  [[G3588\|τὸ]]  [[G3957\|πάσχα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic PASSOVER|PASSOVER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.15|<< Mark 14:15]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.17|Mark 14:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

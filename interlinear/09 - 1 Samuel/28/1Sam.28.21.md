@@ -1,8 +1,74 @@
+---
+title: 1 Samuel 28:21
+type: Verse
+kjv: "And the woman came unto Saul, and saw that he was sore troubled, and said unto him, Behold, thine handmaid hath obeyed thy voice, and I have put my life in my hand, and have hearkened unto thy words which thou spakest unto me."
+bsb: "When the woman came to Saul and saw how distraught he was, she said to him, “Look, your maidservant has obeyed your voice. I took my life in my hands and did as you told me."
+hebrew: "וַתָּב֤וֹא הָֽאִשָּׁה֙ אֶל־ שָׁא֔וּל וַתֵּ֖רֶא כִּי־ נִבְהַ֣ל מְאֹ֑ד וַתֹּ֣אמֶר אֵלָ֗יו הִנֵּ֨ה שָׁמְעָ֤ה שִׁפְחָֽתְךָ֙ בְּקוֹלֶ֔ךָ וָאָשִׂ֤ים נַפְשִׁי֙ בְּכַפִּ֔י וָֽאֶשְׁמַע֙ אֶת־ דְּבָרֶ֔יךָ אֲשֶׁ֥ר דִּבַּ֖רְתָּ אֵלָֽי׃"
+pericope: "[[1Sam.28.7 Saul and the Medium of Endor|Saul and the Medium of Endor]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 28
+book/chapter: "[[1Sam.28|1 Samuel 28]]"
+chronological_order: 307
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic EN-DOR|EN-DOR]]"
+- "[[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic SORCERY|SORCERY]]"
+- "[[topic WITCHCRAFT|WITCHCRAFT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7586G]]"
+- "[[H7200G]]"
+- "[[H3588A]]"
+- "[[H0926]]"
+- "[[H3966]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H2009]]"
+- "[[H8085H]]"
+- "[[H8198]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H6963J]]"
+- "[[H7760H]]"
+- "[[H5315H]]"
+- "[[H9020]]"
+- "[[H3709G]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H1697I]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 28:21**<big><big>[[1Sam.28.7 Saul and the Medium of Endor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the woman came unto Saul, and saw that he was sore troubled, and said unto him, Behold, thine handmaid hath obeyed thy voice, and I have put my life in my hand, and have hearkened unto thy words which thou spakest unto me.
 <small><sub>**BSB:**</sub></small>
 When the woman came to Saul and saw how distraught he was, she said to him, “Look, your maidservant has obeyed your voice. I took my life in my hands and did as you told me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|תָּב֤וֹא]] [[H9009\|הָֽ]][[H0802G\|אִשָּׁה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H7586G\|שָׁא֔וּל]] [[H9001\|וַ]][[H7200G\|תֵּ֖רֶא]] [[H3588A\|כִּי]][[H9014\|־]] [[H0926\|נִבְהַ֣ל]] [[H3966\|מְאֹ֑ד]] [[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H2009\|הִנֵּ֨ה]] [[H8085H\|שָׁמְעָ֤ה]] [[H8198\|שִׁפְחָֽתְ]][[H9021\|ךָ֙]] [[H9003\|בְּ]][[H6963J\|קוֹלֶ֔]][[H9021\|ךָ]] [[H9001\|וָ]][[H7760H\|אָשִׂ֤ים]] [[H5315H\|נַפְשִׁ]][[H9020\|י֙]] [[H9003\|בְּ]][[H3709G\|כַפִּ֔]][[H9020\|י]] [[H9001\|וָֽ]][[H8085G\|אֶשְׁמַע֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1697I\|דְּבָרֶ֔י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֥ר]] [[H1696G\|דִּבַּ֖רְתָּ]] [[H0413\|אֵלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EN-DOR|EN-DOR]] • [[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]] • [[topic SAUL|SAUL]] • [[topic SORCERY|SORCERY]] • [[topic WITCHCRAFT|WITCHCRAFT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.28.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.28.20|<< 1 Samuel 28:20]]</td><td align="center" style="border:none;">[[1Sam.28|1 Samuel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.28.22|1 Samuel 28:22 >>]]</td></tr></table>
 

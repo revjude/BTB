@@ -1,8 +1,60 @@
+---
+title: Psalm 69:33
+type: Verse
+kjv: "For the LORD heareth the poor, and despiseth not his prisoners."
+bsb: "For the LORD listens to the needy and does not despise His captive people."
+hebrew: "כִּֽי־ שֹׁמֵ֣עַ אֶל־ אֶבְיוֹנִ֣ים יְהוָ֑ה וְאֶת־ אֲ֝סִירָ֗יו לֹ֣א בָזָֽה׃"
+pericope: "[[Ps.69.1 The Waters Are up to My Neck|The Waters Are up to My Neck]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 69
+book/chapter: "[[Ps.69|Psalm 69]]"
+chronological_order: 377
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POOR|POOR]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H0034]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H0615]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H0959]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 69:33**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD heareth the poor, and despiseth not his prisoners.
 <small><sub>**BSB:**</sub></small>
 For the LORD listens to the needy and does not despise His captive people.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H8085G\|שֹׁמֵ֣עַ]] [[H0413\|אֶל]][[H9014\|־]] [[H0034\|אֶבְיוֹנִ֣ים]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0615\|אֲ֝סִירָ֗י]][[H9023\|ו]] [[H3808\|לֹ֣א]] [[H0959\|בָזָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POOR|POOR]] • [[topic PRAYER|PRAYER]] • [[topic PRISONERS|PRISONERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.32|<< Psalms 69:32]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.34|Psalms 69:34 >>]]</td></tr></table>
 

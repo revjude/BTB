@@ -1,8 +1,54 @@
+---
+title: Proverbs 19:17
+type: Verse
+kjv: "He that hath pity upon the poor lendeth unto the LORD; and that which he hath given will he pay him again."
+bsb: "Kindness to the poor is a loan to the LORD, and He will repay the lender."
+hebrew: "מַלְוֵ֣ה יְ֭הוָה ח֣וֹנֵֽן דָּ֑ל וּ֝גְמֻל֗וֹ יְשַׁלֶּם־ לֽוֹ׃"
+pericope: "[[Prov.19.1 The Man of Integrity|The Man of Integrity]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 19
+book/chapter: "[[Prov.19|Proverbs 19]]"
+chronological_order: 474
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic LENDING|LENDING]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H3867B]]"
+- "[[H3068G]]"
+- "[[H2603A]]"
+- "[[H1800]]"
+- "[[H9002]]"
+- "[[H1576]]"
+- "[[H9023]]"
+- "[[H7999A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 19:17**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that hath pity upon the poor lendeth unto the LORD; and that which he hath given will he pay him again.
 <small><sub>**BSB:**</sub></small>
 Kindness to the poor is a loan to the LORD, and He will repay the lender.
+<small><sub>**Hebrew:**</sub></small>
+[[H3867B\|מַלְוֵ֣ה]] [[H3068G\|יְ֭הוָה]] [[H2603A\|ח֣וֹנֵֽן]] [[H1800\|דָּ֑ל]] [[H9002\|וּ֝]][[H1576\|גְמֻל֗]][[H9023\|וֹ]] [[H7999A\|יְשַׁלֶּם]][[H9014\|־]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LENDING|LENDING]] • [[topic LIBERALITY|LIBERALITY]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.16|<< Proverbs 19:16]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.18|Proverbs 19:18 >>]]</td></tr></table>
 

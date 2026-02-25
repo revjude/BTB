@@ -1,10 +1,59 @@
+---
+title: Acts 27:31
+type: Verse
+kjv: "Paul said to the centurion and to the soldiers, Except these abide in the ship, ye cannot be saved."
+bsb: "But Paul said to the centurion and the soldiers, “Unless these men remain with the ship, you cannot be saved.”"
+greek: "εἶπεν ὁ Παῦλος τῷ ἑκατοντάρχῃ καὶ τοῖς στρατιώταις· ἐὰν μὴ οὗτοι μείνωσιν ἐν τῷ πλοίῳ, ὑμεῖς σωθῆναι οὐ δύνασθε."
+pericope: "[[Acts.27.27 The Shipwreck|The Shipwreck]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 27
+book/chapter: "[[Acts.27|Acts 27]]"
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G1543]]"
+- "[[G2532]]"
+- "[[G4757]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G3778]]"
+- "[[G3306]]"
+- "[[G1722]]"
+- "[[G4143]]"
+- "[[G4771]]"
+- "[[G4982]]"
+- "[[G3756]]"
+- "[[G1410]]"
+texts:
+- NKO
+---
+
 **Acts 27:31**<big><big>[[Acts.27.27 The Shipwreck|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Paul said to the centurion and to the soldiers, Except these abide in the ship, ye cannot be saved.
 <small><sub>**BSB:**</sub></small>
 But Paul said to the centurion and the soldiers, “Unless these men remain with the ship, you cannot be saved.”
-<small><sub>**Literal:**</sub></small>
-said <the> Paul to the centurion and to the soldiers; Only unless these shall remain in the ship, [then] you yourselves to be saved not you are able.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.30|<< Acts 27:30]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.32|Acts 27:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος]]  [[G3588\|τῷ]]  [[G1543\|ἑκατοντάρχῃ]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G4757\|στρατιώταις·]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G3778\|οὗτοι]]  [[G3306\|μείνωσιν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4143\|πλοίῳ,]]  [[G4771\|ὑμεῖς]]  [[G4982\|σωθῆναι]]  [[G3756\|οὐ]]  [[G1410\|δύνασθε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]] • [[topic PAUL|PAUL]] • [[topic PROPHECY|PROPHECY]] • [[topic SOLDIERS|SOLDIERS]] • [[topic TROUBLE|TROUBLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.30|<< Acts 27:30]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.32|Acts 27:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,60 @@
+---
+title: Ecclesiastes 4:16
+type: Verse
+kjv: "There is no end of all the people, even of all that have been before them: they also that come after shall not rejoice in him. Surely this also is vanity and vexation of spirit."
+bsb: "There is no limit to all the people who were before them. Yet the successor will not be celebrated by those who come even later. This too is futile and a pursuit of the wind."
+hebrew: "אֵֽין־ קֵ֣ץ לְכָל־ הָעָ֗ם לְכֹ֤ל אֲשֶׁר־ הָיָה֙ לִפְנֵיהֶ֔ם גַּ֥ם הָאַחֲרוֹנִ֖ים לֹ֣א יִשְׂמְחוּ־ ב֑וֹ כִּֽי־ גַם־ זֶ֥ה הֶ֖בֶל וְרַעְי֥וֹן רֽוּחַ׃"
+pericope: "[[Eccl.4.13 The Futility of Power|The Futility of Power]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 4
+book/chapter: "[[Eccl.4|Ecclesiastes 4]]"
+chronological_order: 542
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+strongs:
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H7093]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H1571]]"
+- "[[H0314]]"
+- "[[H3808]]"
+- "[[H8055]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H2088]]"
+- "[[H1892]]"
+- "[[H9002]]"
+- "[[H7475]]"
+- "[[H7307H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 4:16**<big><big>[[Eccl.4.13 The Futility of Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] no end of all the people, [even] of all that have been before them: they also that come after shall not rejoice in him. Surely this also [is] vanity and vexation of spirit.
 <small><sub>**BSB:**</sub></small>
 There is no limit to all the people who were before them. Yet the successor will not be celebrated by those who come even later. This too is futile and a pursuit of the wind.
+<small><sub>**Hebrew:**</sub></small>
+[[H0369\|אֵֽין]][[H9014\|־]] [[H7093\|קֵ֣ץ]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֗ם]] [[H9005\|לְ]][[H3605\|כֹ֤ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1961\|הָיָה֙]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶ֔ם]] [[H1571\|גַּ֥ם]] [[H9009\|הָ]][[H0314\|אַחֲרוֹנִ֖ים]] [[H3808\|לֹ֣א]] [[H8055\|יִשְׂמְחוּ]][[H9014\|־]] [[H9003\|ב֑]][[H9033\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1571\|גַם]][[H9014\|־]] [[H2088\|זֶ֥ה]] [[H1892\|הֶ֖בֶל]] [[H9002\|וְ]][[H7475\|רַעְי֥וֹן]] [[H7307H\|רֽוּחַ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.4.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.4.15|<< Ecclesiastes 4:15]]</td><td align="center" style="border:none;">[[Eccl.4|Ecclesiastes 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.1|Ecclesiastes 5:1 >>]]</td></tr></table>
 

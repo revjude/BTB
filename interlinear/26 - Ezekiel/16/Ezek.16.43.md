@@ -1,8 +1,79 @@
+---
+title: Ezekiel 16:43
+type: Verse
+kjv: "Because thou hast not remembered the days of thy youth, but hast fretted me in all these things; behold, therefore I also will recompense thy way upon thine head, saith the Lord GOD: and thou shalt not commit this lewdness above all thine abominations."
+bsb: "Because you did not remember the days of your youth, but enraged Me with all these things, I will surely bring your deeds down upon your own head, declares the Lord GOD. Have you not committed this lewdness on top of all your other abominations?"
+hebrew: "יַ֗עַן אֲשֶׁ֤ר לֹֽא־ זָכַרְתְּ֙ אֶת־ יְמֵ֣י נְעוּרַ֔יִךְ וַתִּרְגְּזִי־ לִ֖י בְּכָל־ אֵ֑לֶּה וְגַם־ אֲנִ֨י הֵ֜א דַּרְכֵּ֣ךְ׀ בְּרֹ֣אשׁ נָתַ֗תִּי נְאֻם֙ אֲדֹנָ֣י יְהוִ֔ה וְלֹ֤א עָשִׂית֙ אֶת־ הַזִּמָּ֔ה עַ֖ל כָּל־ תּוֹעֲבֹתָֽיִךְ׃"
+pericope: "[[Ezek.16.35 Judgment on Jerusalem|Judgment on Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+strongs:
+- "[[H3282]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2142]]"
+- "[[H0853]]"
+- "[[H3117G]]"
+- "[[H5271A]]"
+- "[[H9022]]"
+- "[[H9001]]"
+- "[[H7264]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H0428]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H0589]]"
+- "[[H1887]]"
+- "[[H1870G]]"
+- "[[H9015]]"
+- "[[H7218A]]"
+- "[[H5414N]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H6213H]]"
+- "[[H9009]]"
+- "[[H2154]]"
+- "[[H5921A]]"
+- "[[H8441]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Ezekiel 16:43**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because thou hast not remembered the days of thy youth, but hast fretted me in all these [things]; behold, therefore I also will recompense thy way upon [thine] head, saith the Lord GOD: and thou shalt not commit this lewdness above all thine abominations.
 <small><sub>**BSB:**</sub></small>
 Because you did not remember the days of your youth, but enraged Me with all these things, I will surely bring your deeds down upon your own head, declares the Lord GOD. Have you not committed this lewdness on top of all your other abominations?
+<small><sub>**Hebrew:**</sub></small>
+[[H3282\|יַ֗עַן]] [[H0834A\|אֲשֶׁ֤ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H2142\|זָכַרְתְּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3117G\|יְמֵ֣י]] [[H5271A\|נְעוּרַ֔יִ]][[H9022\|ךְ]] [[H9001\|וַ]][[H7264\|תִּרְגְּזִי]][[H9014\|־]] [[H9005\|לִ֖]][[H9030\|י]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H0428\|אֵ֑לֶּה]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H0589\|אֲנִ֨י]] [[H1887\|הֵ֜א]] [[H1870G\|דַּרְכֵּ֣]][[H9022\|ךְ]][[H9015\|׀]] [[H9003\|בְּ]][[H7218A\|רֹ֣אשׁ]] [[H5414N\|נָתַ֗תִּי]] [[H5002\|נְאֻם֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H6213H\|עָשִׂית֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2154\|זִּמָּ֔ה]] [[H5921A\|עַ֖ל]] [[H3605\|כָּל]][[H9014\|־]] [[H8441\|תּוֹעֲבֹתָֽיִ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic HIGH PLACES|HIGH PLACES]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.42|<< Ezekiel 16:42]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.44|Ezekiel 16:44 >>]]</td></tr></table>
 

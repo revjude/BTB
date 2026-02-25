@@ -1,6 +1,59 @@
+---
+title: LXX Exodus 9:5
+type: Verse
+lxx: "And God gave confirmation, saying, In the next morning the lord will do  this thing upon the land."
+greek: "και έδωκεν ο θεός όρον λέγων εν τη αύριον ποιήσει κύριος το ρήμα τούτο επί της γης"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 9
+book/chapter: "[[Exod.9|Exodus 9]]"
+chronological_order: 101
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G8554]]"
+- "[[G3004]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0839]]"
+- "[[G4160]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G4487]]"
+- "[[G3778]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1093]]"
+---
+
 **LXX Exodus 9:5** 
 <small><sub>**LXX:**</sub></small>
 And God gave confirmation, saying, In the next morning \[the\] <span class="smallcaps">lord</span> will do  this thing upon the land. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1325\|έδωκεν]] [[G3588\|ο]] [[G2316\|θεός]] [[G8554\|όρον]] [[G3004\|λέγων]] [[G1722\|εν]] [[G3588\|τη]] [[G0839\|αύριον]] [[G4160\|ποιήσει]] [[G2962\|κύριος]] [[G3588\|το]] [[G4487\|ρήμα]] [[G3778\|τούτο]] [[G1909\|επί]] [[G3588\|της]] [[G1093\|γης]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.4|<< Exodus 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.6|Exodus 9:6 >>]]</td></tr></table>
 
@@ -19,6 +72,6 @@ And God gave confirmation, saying, In the next morning \[the\] <span class="smal
 | upon | **<big>[[G1909\|επί]]</big>** |
 | the | **<big>[[G3588\|της]]</big>** |
 | land. | **<big>[[G1093\|γης]]</big>** |
-[[Exod.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.4|<< Exodus 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.6|Exodus 9:6 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.4|<< Exodus 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.6|Exodus 9:6 >>]]</td></tr></table>
 
 

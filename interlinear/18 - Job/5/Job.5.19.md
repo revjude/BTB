@@ -1,8 +1,59 @@
+---
+title: Job 5:19
+type: Verse
+kjv: "He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee."
+bsb: "He will rescue you from six calamities; no harm will touch you in seven."
+hebrew: "בְּשֵׁ֣שׁ צָ֭רוֹת יַצִּילֶ֑ךָּ וּבְשֶׁ֓בַע׀ לֹא־ יִגַּ֖ע בְּךָ֣ רָֽע׃"
+pericope: "[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|Eliphaz Continues：God Blesses those Who Seek Him]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 5
+book/chapter: "[[Job.5|Job 5]]"
+chronological_order: 16
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9003]]"
+- "[[H8337]]"
+- "[[H6869B]]"
+- "[[H5337]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H7651]]"
+- "[[H9015]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5060]]"
+- "[[H7451B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 5:19**<big><big>[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee.
 <small><sub>**BSB:**</sub></small>
 He will rescue you from six calamities; no harm will touch you in seven.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H8337\|שֵׁ֣שׁ]] [[H6869B\|צָ֭רוֹת]] [[H5337\|יַצִּילֶ֑]][[H9031\|ךָּ]] [[H9002\|וּ]][[H9003\|בְ]][[H7651\|שֶׁ֓בַע]][[H9015\|׀]] [[H3808\|לֹא]][[H9014\|־]] [[H5060\|יִגַּ֖ע]] [[H9003\|בְּ]][[H9031\|ךָ֣]] [[H7451B\|רָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic HAPPINESS|HAPPINESS]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.5.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.18|<< Job 5:18]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.20|Job 5:20 >>]]</td></tr></table>
 

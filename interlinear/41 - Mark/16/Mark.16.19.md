@@ -1,10 +1,60 @@
+---
+title: Mark 16:19
+type: Verse
+kjv: "So then after the Lord had spoken unto them, he was received up into heaven, and sat on the right hand of God."
+bsb: "After the Lord Jesus had spoken to them, He was taken up into heaven and sat down at the right hand of God."
+greek: "Ὁ μὲν οὖν κύριος Ἰησοῦς μετὰ τὸ λαλῆσαι αὐτοῖς ἀνελήφθη εἰς τὸν οὐρανὸν καὶ ἐκάθισεν ἐκ δεξιῶν τοῦ θεοῦ."
+pericope: "[[Mark.16.19 The Ascension|The Ascension]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 16
+book/chapter: "[[Mark.16|Mark 16]]"
+chronological_order: 1015
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ASCENSION|ASCENSION]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TRANSLATION|TRANSLATION]]"
+strongs:
+- "[[G3588]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G3326]]"
+- "[[G2980]]"
+- "[[G0846]]"
+- "[[G0353]]"
+- "[[G1519]]"
+- "[[G3772]]"
+- "[[G2532]]"
+- "[[G2523]]"
+- "[[G1537]]"
+- "[[G1188]]"
+- "[[G2316]]"
+texts:
+- KO
+- O
+---
+
 **Mark 16:19**<big><big>[[Mark.16.19 The Ascension|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So then after the Lord had spoken unto them, he was received up into heaven, and sat on the right hand of God.
 <small><sub>**BSB:**</sub></small>
 After the Lord Jesus had spoken to them, He was taken up into heaven and sat down at the right hand of God.
-<small><sub>**Literal:**</sub></small>
-<the> Indeed therefore [the] Lord Jesus after <the> speaking to them was taken up into the heaven and sat at [the] right hand <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.18|<< Mark 16:18]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.20|Mark 16:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G2962G\|κύριος]]  [[G2424G\|Ἰησοῦς]]  [[G3326\|μετὰ]]  [[G3588\|τὸ]]  [[G2980\|λαλῆσαι]]  [[G0846\|αὐτοῖς]]  [[G0353\|ἀνελήφθη]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3772\|οὐρανὸν]]  [[G2532\|καὶ]]  [[G2523\|ἐκάθισεν]]  [[G1537\|ἐκ]]  [[G1188\|δεξιῶν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASCENSION|ASCENSION]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TRANSLATION|TRANSLATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.18|<< Mark 16:18]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.20|Mark 16:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 16:19** is...
 > $\quad$ alluding to: [[LXX.Ps.110.1|Ps 110:1]]

@@ -1,10 +1,62 @@
+---
+title: 1 Corinthians 6:9
+type: Verse
+kjv: "Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,"
+bsb: "Do you not know that the wicked will not inherit the kingdom of God? Do not be deceived: Neither the sexually immoral, nor idolaters, nor adulterers, nor men who submit to or perform homosexual acts,"
+greek: "ἢ οὐκ οἴδατε ὅτι ἄδικοι θεοῦ βασιλείαν οὐ κληρονομήσουσιν;¶ Μὴ πλανᾶσθε· οὔτε πόρνοι οὔτε εἰδωλολάτραι οὔτε μοιχοὶ οὔτε μαλακοὶ οὔτε ἀρσενοκοῖται"
+pericope: "[[1Cor.6.9 Members of Christ|Members of Christ]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 6
+book/chapter: "[[1Cor.6|1 Corinthians 6]]"
+chronological_order: 1063
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic DRUNKARD|DRUNKARD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SODOMY|SODOMY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2228]]"
+- "[[G3756]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G0094]]"
+- "[[G2316]]"
+- "[[G0932]]"
+- "[[G2816]]"
+- "[[G3361]]"
+- "[[G4105]]"
+- "[[G3777]]"
+- "[[G4205]]"
+- "[[G1496]]"
+- "[[G3432]]"
+- "[[G3120]]"
+- "[[G0733]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 6:9**<big><big>[[1Cor.6.9 Members of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,
 <small><sub>**BSB:**</sub></small>
 Do you not know that the wicked will not inherit the kingdom of God? Do not be deceived: Neither the sexually immoral, nor idolaters, nor adulterers, nor men who submit to or perform homosexual acts,
-<small><sub>**Literal:**</sub></small>
-Or surely you know that [the] unrighteous ones of God [the] kingdom not will inherit? Not do be deceived: neither [the] sexually immoral nor idolaters nor adulterers nor effeminate nor homosexuals<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.8|<< 1 Corinthians 6:8]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.10|1 Corinthians 6:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2228\|ἢ]]  [[G3756\|οὐκ]]  [[G6063\|οἴδατε]]  [[G3754G\|ὅτι]]  [[G0094\|ἄδικοι]]  [[G2316\|θεοῦ]]  [[G0932\|βασιλείαν]]  [[G3756\|οὐ]]  [[G2816\|κληρονομήσουσιν;¶]]  [[G3361\|Μὴ]]  [[G4105\|πλανᾶσθε·]]  [[G3777\|οὔτε]]  [[G4205\|πόρνοι]]  [[G3777\|οὔτε]]  [[G1496\|εἰδωλολάτραι]]  [[G3777\|οὔτε]]  [[G3432\|μοιχοὶ]]  [[G3777\|οὔτε]]  [[G3120\|μαλακοὶ]]  [[G3777\|οὔτε]]  [[G0733\|ἀρσενοκοῖται]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic DRUNKARD|DRUNKARD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SIN|SIN]] • [[topic SODOMY|SODOMY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.8|<< 1 Corinthians 6:8]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.10|1 Corinthians 6:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

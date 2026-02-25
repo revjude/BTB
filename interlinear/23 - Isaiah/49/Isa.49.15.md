@@ -1,8 +1,64 @@
+---
+title: Isaiah 49:15
+type: Verse
+kjv: "Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee."
+bsb: "“Can a woman forget her nursing child, or lack compassion for the son of her womb? Even if she could forget, I will not forget you!"
+hebrew: "הֲתִשְׁכַּ֤ח אִשָּׁה֙ עוּלָ֔הּ מֵרַחֵ֖ם בֶּן־ בִּטְנָ֑הּ גַּם־ אֵ֣לֶּה תִשְׁכַּ֔חְנָה וְאָנֹכִ֖י לֹ֥א אֶשְׁכָּחֵֽךְ׃"
+pericope: "[[Isa.49.1 The Servant and Light to the Gentiles|The Servant and Light to the Gentiles]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 49
+book/chapter: "[[Isa.49|Isaiah 49]]"
+chronological_order: 688
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9008]]"
+- "[[H7911]]"
+- "[[H0802G]]"
+- "[[H5764]]"
+- "[[H9024]]"
+- "[[H9006]]"
+- "[[H7355]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0990H]]"
+- "[[H1571]]"
+- "[[H0428]]"
+- "[[H9002]]"
+- "[[H0595]]"
+- "[[H3808]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 49:15**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee.
 <small><sub>**BSB:**</sub></small>
 “Can a woman forget her nursing child, or lack compassion for the son of her womb? Even if she could forget, I will not forget you!
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H7911\|תִשְׁכַּ֤ח]] [[H0802G\|אִשָּׁה֙]] [[H5764\|עוּלָ֔]][[H9024\|הּ]] [[H9006\|מֵ]][[H7355\|רַחֵ֖ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0990H\|בִּטְנָ֑]][[H9024\|הּ]] [[H1571\|גַּם]][[H9014\|־]] [[H0428\|אֵ֣לֶּה]] [[H7911\|תִשְׁכַּ֔חְנָה]] [[H9002\|וְ]][[H0595\|אָנֹכִ֖י]] [[H3808\|לֹ֥א]] [[H7911\|אֶשְׁכָּחֵֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DOUBTING|DOUBTING]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PARENTS|PARENTS]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.14|<< Isaiah 49:14]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.16|Isaiah 49:16 >>]]</td></tr></table>
 

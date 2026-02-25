@@ -1,10 +1,65 @@
+---
+title: Mark 16:1
+type: Verse
+kjv: "And when the sabbath was past, Mary Magdalene, and Mary the mother of James, and Salome, had bought sweet spices, that they might come and anoint him."
+bsb: "When the Sabbath was over, Mary Magdalene, Mary the mother of James, and Salome bought spices so they could go and anoint the body of Jesus."
+greek: "Καὶ διαγενομένου τοῦ σαββάτου ἡ Μαρία ἡ Μαγδαληνὴ καὶ Μαρία ἡ τοῦ Ἰακώβου καὶ Σαλώμη ἠγόρασαν ἀρώματα ἵνα ἐλθοῦσαι ἀλείψωσιν αὐτόν."
+pericope: "[[Mark.16.1 The Resurrection|The Resurrection]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 16
+book/chapter: "[[Mark.16|Mark 16]]"
+chronological_order: 1015
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic EMBALMING|EMBALMING]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARY|MARY]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SALOME|SALOME]]"
+- "[[topic SPICES|SPICES]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1230]]"
+- "[[G3588]]"
+- "[[G4521]]"
+- "[[G3137I]]"
+- "[[G3094]]"
+- "[[G3137G]]"
+- "[[G2385I]]"
+- "[[G4539]]"
+- "[[G0059]]"
+- "[[G0759]]"
+- "[[G2443]]"
+- "[[G2064]]"
+- "[[G0218]]"
+- "[[G0846]]"
+texts:
+- NKO
+- o
+---
+
 **Mark 16:1**<big><big>[[Mark.16.1 The Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the sabbath was past, Mary Magdalene, and Mary the [mother] of James, and Salome, had bought sweet spices, that they might come and anoint him.
 <small><sub>**BSB:**</sub></small>
 When the Sabbath was over, Mary Magdalene, Mary the mother of James, and Salome bought spices so they could go and anoint the body of Jesus.
-<small><sub>**Literal:**</sub></small>
-And when was passing the Sabbath <the> Mary <the> Magdalene and Mary the [mother] <the> of James and Salome bought spices that having come they may anoint Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.47|<< Mark 15:47]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.2|Mark 16:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1230\|διαγενομένου]]  [[G3588\|τοῦ]]  [[G4521\|σαββάτου]]  [[G3588\|ἡ]]  [[G3137I\|Μαρία]]  [[G3588\|ἡ]]  [[G3094\|Μαγδαληνὴ]]  [[G2532\|καὶ]]  [[G3137G\|Μαρία]]  [[G3588\|ἡ]]  [[G3588\|τοῦ]]  [[G2385I\|Ἰακώβου]]  [[G2532\|καὶ]]  [[G4539\|Σαλώμη]]  [[G0059\|ἠγόρασαν]]  [[G0759\|ἀρώματα]]  [[G2443\|ἵνα]]  [[G2064\|ἐλθοῦσαι]]  [[G0218\|ἀλείψωσιν]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic BURIAL|BURIAL]] • [[topic EMBALMING|EMBALMING]] • [[topic JAMES|JAMES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARY|MARY]] • [[topic SABBATH|SABBATH]] • [[topic SALOME|SALOME]] • [[topic SPICES|SPICES]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.47|<< Mark 15:47]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.2|Mark 16:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

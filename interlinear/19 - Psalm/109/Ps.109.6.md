@@ -1,8 +1,56 @@
+---
+title: Psalm 109:6
+type: Verse
+kjv: "Set thou a wicked man over him: and let Satan stand at his right hand."
+bsb: "Set over him a wicked man; let an accuser stand at his right hand."
+hebrew: "הַפְקֵ֣ד עָלָ֣יו רָשָׁ֑ע וְ֝שָׂטָ֗ן יַעֲמֹ֥ד עַל־ יְמִינֽוֹ׃"
+pericope: "[[Ps.109.1 The Song of the Slandered|The Song of the Slandered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 109
+book/chapter: "[[Ps.109|Psalm 109]]"
+chronological_order: 383
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H6485J]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H7563]]"
+- "[[H9002]]"
+- "[[H7854]]"
+- "[[H5975G]]"
+- "[[H9014]]"
+- "[[H3225G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 109:6**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Set thou a wicked man over him: and let Satan stand at his right hand.
 <small><sub>**BSB:**</sub></small>
 Set over him a wicked man; let an accuser stand at his right hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H6485J\|הַפְקֵ֣ד]] [[H5921A\|עָלָ֣י]][[H9033\|ו]] [[H7563\|רָשָׁ֑ע]] [[H9002\|וְ֝]][[H7854\|שָׂטָ֗ן]] [[H5975G\|יַעֲמֹ֥ד]] [[H5921A\|עַל]][[H9014\|־]] [[H3225G\|יְמִינֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic SATAN|SATAN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.5|<< Psalms 109:5]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.7|Psalms 109:7 >>]]</td></tr></table>
 

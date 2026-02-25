@@ -1,8 +1,79 @@
+---
+title: Nehemiah 5:11
+type: Verse
+kjv: "Restore, I pray you, to them, even this day, their lands, their vineyards, their oliveyards, and their houses, also the hundredth part of the money, and of the corn, the wine, and the oil, that ye exact of them."
+bsb: "Please restore to them immediately their fields, vineyards, olive groves, and houses, along with the percentage of the money, grain, new wine, and oil that you have been assessing them.”"
+hebrew: "הָשִׁיבוּ֩ נָ֨א לָהֶ֜ם כְּהַיּ֗וֹם שְׂדֹתֵיהֶ֛ם כַּרְמֵיהֶ֥ם זֵיתֵיהֶ֖ם וּבָתֵּיהֶ֑ם וּמְאַ֨ת הַכֶּ֤סֶף וְהַדָּגָן֙ הַתִּיר֣וֹשׁ וְהַיִּצְהָ֔ר אֲשֶׁ֥ר אַתֶּ֖ם נֹשִׁ֥ים בָּהֶֽם׃"
+pericope: "[[Neh.5.1 Nehemiah Defends the Oppressed|Nehemiah Defends the Oppressed]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 5
+book/chapter: "[[Neh.5|Nehemiah 5]]"
+chronological_order: 917
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic BORROWING|BORROWING]]"
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic INTEREST|INTEREST]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic USURY|USURY]]"
+strongs:
+- "[[H7725G]]"
+- "[[H4994]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H7704G]]"
+- "[[H9028]]"
+- "[[H3754]]"
+- "[[H2132H]]"
+- "[[H9002]]"
+- "[[H1004B]]"
+- "[[H3967]]"
+- "[[H3701G]]"
+- "[[H1715]]"
+- "[[H8492]]"
+- "[[H3323]]"
+- "[[H0834A]]"
+- "[[H0859D]]"
+- "[[H5383]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 5:11**<big><big>[[Neh.5.1 Nehemiah Defends the Oppressed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Restore, I pray you, to them, even this day, their lands, their vineyards, their oliveyards, and their houses, also the hundredth [part] of the money, and of the corn, the wine, and the oil, that ye exact of them.
 <small><sub>**BSB:**</sub></small>
 Please restore to them immediately their fields, vineyards, olive groves, and houses, along with the percentage of the money, grain, new wine, and oil that you have been assessing them.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7725G\|הָשִׁיבוּ֩]] [[H4994\|נָ֨א]] [[H9005\|לָ]][[H9038\|הֶ֜ם]] [[H9004\|כְּ]][[H9009\|הַ]][[H3117G\|יּ֗וֹם]] [[H7704G\|שְׂדֹתֵי]][[H9028\|הֶ֛ם]] [[H3754\|כַּרְמֵי]][[H9028\|הֶ֥ם]] [[H2132H\|זֵיתֵי]][[H9028\|הֶ֖ם]] [[H9002\|וּ]][[H1004B\|בָתֵּי]][[H9028\|הֶ֑ם]] [[H9002\|וּ]][[H3967\|מְאַ֨ת]] [[H9009\|הַ]][[H3701G\|כֶּ֤סֶף]] [[H9002\|וְ]][[H9009\|הַ]][[H1715\|דָּגָן֙]] [[H9009\|הַ]][[H8492\|תִּיר֣וֹשׁ]] [[H9002\|וְ]][[H9009\|הַ]][[H3323\|יִּצְהָ֔ר]] [[H0834A\|אֲשֶׁ֥ר]] [[H0859D\|אַתֶּ֖ם]] [[H5383\|נֹשִׁ֥ים]] [[H9003\|בָּ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic BORROWING|BORROWING]] • [[topic COUNTRY|COUNTRY]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CREDITOR|CREDITOR]] • [[topic EXAMPLE|EXAMPLE]] • [[topic INTEREST|INTEREST]] • [[topic KINDNESS|KINDNESS]] • [[topic LENDING|LENDING]] • [[topic LOVE|LOVE]] • [[topic MONEY|MONEY]] • [[topic POOR|POOR]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REPROOF|REPROOF]] • [[topic RICH, THE|RICH, THE]] • [[topic USURY|USURY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.5.10|<< Nehemiah 5:10]]</td><td align="center" style="border:none;">[[Neh.5|Nehemiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.12|Nehemiah 5:12 >>]]</td></tr></table>
 

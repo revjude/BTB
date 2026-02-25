@@ -1,10 +1,66 @@
+---
+title: Mark 7:25
+type: Verse
+kjv: "For a certain woman, whose young daughter had an unclean spirit, heard of him, and came and fell at his feet:"
+bsb: "Instead, a woman whose little daughter had an unclean spirit soon heard about Jesus, and she came and fell at His feet."
+greek: "ἀλλ᾽ εὐθὺς ἀκούσασα γὰρ γυνὴ περὶ αὐτοῦ ἧς εἶχεν τὸ θυγάτριον αὐτῆς πνεῦμα ἀκάθαρτον, ἐλθοῦσα προσέπεσεν πρὸς τοὺς πόδας αὐτοῦ·"
+pericope: "[[Mark.7.24 The Faith of the Gentile Woman|The Faith of the Gentile Woman]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 7
+book/chapter: "[[Mark.7|Mark 7]]"
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SIDON|SIDON]]"
+- "[[topic SYRO-PHOENICIAN|SYRO-PHOENICIAN]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[G0235]]"
+- "[[G2112]]"
+- "[[G0191]]"
+- "[[G1063]]"
+- "[[G1135G]]"
+- "[[G4012]]"
+- "[[G0846]]"
+- "[[G3739]]"
+- "[[G2192]]"
+- "[[G3588]]"
+- "[[G2365]]"
+- "[[G4151G]]"
+- "[[G0169]]"
+- "[[G2064]]"
+- "[[G4363]]"
+- "[[G4314]]"
+- "[[G4228]]"
+texts:
+- NO
+- NKO
+- k
+---
+
 **Mark 7:25**<big><big>[[Mark.7.24 The Faith of the Gentile Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For a [certain] woman, whose young daughter had an unclean spirit, heard of him, and came and fell at his feet:
 <small><sub>**BSB:**</sub></small>
 Instead, a woman whose little daughter had an unclean spirit soon heard about Jesus, and she came and fell at His feet.
-<small><sub>**Literal:**</sub></small>
-But immediately having heard for a woman about Him of whom had the little daughter of her spirit unclean, having come she fell at the feet of Him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.24|<< Mark 7:24]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.26|Mark 7:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G2112\|εὐθὺς]]  [[G0191\|ἀκούσασα]]  [[G1063\|γὰρ]]  [[G1135G\|γυνὴ]]  [[G4012\|περὶ]]  [[G0846\|αὐτοῦ]]  [[G3739\|ἧς]]  [[G2192\|εἶχεν]]  [[G3588\|τὸ]]  [[G2365\|θυγάτριον]]  [[G0846\|αὐτῆς]]  [[G4151G\|πνεῦμα]]  [[G0169\|ἀκάθαρτον,]]  [[G2064\|ἐλθοῦσα]]  [[G4363\|προσέπεσεν]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G0846\|αὐτοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic SIDON|SIDON]] • [[topic SYRO-PHOENICIAN|SYRO-PHOENICIAN]] • [[topic TYRE|TYRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.24|<< Mark 7:24]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.26|Mark 7:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

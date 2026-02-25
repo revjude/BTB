@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus before Pilate
+type: Pericope
 pericope: "[[John.18.28 Jesus before Pilate|Jesus before Pilate]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: John
 chapter: 18
 book/chapter: "[[John.18|John 18]]"
-genre:
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 13
 verses:
 - "[[John.18.28]]"
 - "[[John.18.29]]"
@@ -31,7 +38,7 @@ verses:
 - "[[John.18.40]]"
 ---
 
-[[John.18|John 18:28 - John 18:40]]
+<small>[[John.18|John 18:28-40]]</small>
 *Jesus before Pilate*
 
 [[John.18.28|28]] Then led they Jesus from Caiaphas unto the hall of judgment: and it was early; and they themselves went not into the judgment hall, lest they should be defiled; but that they might eat the passover.

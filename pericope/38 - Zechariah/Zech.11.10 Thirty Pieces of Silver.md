@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Thirty Pieces of Silver
+type: Pericope
 pericope: "[[Zech.11.10 Thirty Pieces of Silver|Thirty Pieces of Silver]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Zechariah
 chapter: 11
 book/chapter: "[[Zech.11|Zechariah 11]]"
-genre:
+chronological_order: 867
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - visionary
 - apocalyptic
 - post exilic
+verse_count: 8
 verses:
 - "[[Zech.11.10]]"
 - "[[Zech.11.11]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Zech.11.17]]"
 ---
 
-[[Zech.11|Zechariah 11:10 - Zechariah 11:17]]
+<small>[[Zech.11|Zechariah 11:10-17]]</small>
 *Thirty Pieces of Silver*
 
 [[Zech.11.10|10]] And I took my staff, \[even\] Beauty, and cut it asunder, that I might break my covenant which I had made with all the people.

@@ -1,8 +1,61 @@
+---
+title: Micah 3:9
+type: Verse
+kjv: "Hear this, I pray you, ye heads of the house of Jacob, and princes of the house of Israel, that abhor judgment, and pervert all equity."
+bsb: "Now hear this, O leaders of the house of Jacob and rulers of the house of Israel, who despise justice and pervert all that is right,"
+hebrew: "שִׁמְעוּ־ נָ֣א זֹ֗את רָאשֵׁי֙ בֵּ֣ית יַעֲקֹ֔ב וּקְצִינֵ֖י בֵּ֣ית יִשְׂרָאֵ֑ל הַֽמֲתַעֲבִ֣ים מִשְׁפָּ֔ט וְאֵ֥ת כָּל־ הַיְשָׁרָ֖ה יְעַקֵּֽשׁוּ׃"
+pericope: "[[Mic.3.1 Rulers and Prophets Condemned|Rulers and Prophets Condemned]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 3
+book/chapter: "[[Mic.3|Micah 3]]"
+chronological_order: 625
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H8085G]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H2063]]"
+- "[[H7218H]]"
+- "[[H1004M]]"
+- "[[H3290]]"
+- "[[H9002]]"
+- "[[H7101]]"
+- "[[H3478]]"
+- "[[H9009]]"
+- "[[H8581]]"
+- "[[H4941H]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H3477I]]"
+- "[[H6140]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 3:9**<big><big>[[Mic.3.1 Rulers and Prophets Condemned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear this, I pray you, ye heads of the house of Jacob, and princes of the house of Israel, that abhor judgment, and pervert all equity.
 <small><sub>**BSB:**</sub></small>
 Now hear this, O leaders of the house of Jacob and rulers of the house of Israel, who despise justice and pervert all that is right,
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שִׁמְעוּ]][[H9014\|־]] [[H4994\|נָ֣א]] [[H2063\|זֹ֗את]] [[H7218H\|רָאשֵׁי֙]] [[H1004M\|בֵּ֣ית]] [[H3290\|יַעֲקֹ֔ב]] [[H9002\|וּ]][[H7101\|קְצִינֵ֖י]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9009\|הַֽ]][[H8581\|מֲתַעֲבִ֣ים]] [[H4941H\|מִשְׁפָּ֔ט]] [[H9002\|וְ]][[H0853\|אֵ֥ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3477I\|יְשָׁרָ֖ה]] [[H6140\|יְעַקֵּֽשׁוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.3.8|<< Micah 3:8]]</td><td align="center" style="border:none;">[[Mic.3|Micah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.3.10|Micah 3:10 >>]]</td></tr></table>
 

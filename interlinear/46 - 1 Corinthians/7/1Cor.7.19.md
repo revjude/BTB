@@ -1,10 +1,51 @@
+---
+title: 1 Corinthians 7:19
+type: Verse
+kjv: "Circumcision is nothing, and uncircumcision is nothing, but the keeping of the commandments of God."
+bsb: "Circumcision is nothing and uncircumcision is nothing. Keeping God’s commandments is what counts."
+greek: "ἡ περιτομὴ οὐδέν ἐστιν καὶ ἡ ἀκροβυστία οὐδέν ἐστιν ἀλλὰ τήρησις ἐντολῶν θεοῦ."
+pericope: "[[1Cor.7.17 Live Your Calling|Live Your Calling]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 7
+book/chapter: "[[1Cor.7|1 Corinthians 7]]"
+chronological_order: 1064
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+strongs:
+- "[[G3588]]"
+- "[[G4061]]"
+- "[[G3762]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G0203]]"
+- "[[G0235]]"
+- "[[G5084]]"
+- "[[G1785]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 7:19**<big><big>[[1Cor.7.17 Live Your Calling|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Circumcision is nothing, and uncircumcision is nothing, but the keeping of the commandments of God.
 <small><sub>**BSB:**</sub></small>
 Circumcision is nothing and uncircumcision is nothing. Keeping God’s commandments is what counts.
-<small><sub>**Literal:**</sub></small>
-<the> Circumcision no [thing] is and <the> uncircumcision no [thing] is but keeping [the] commandments of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.18|<< 1 Corinthians 7:18]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.20|1 Corinthians 7:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G4061\|περιτομὴ]]  [[G3762\|οὐδέν]]  [[G1510\|ἐστιν]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G0203\|ἀκροβυστία]]  [[G3762\|οὐδέν]]  [[G1510\|ἐστιν]]  [[G0235\|ἀλλὰ]]  [[G5084\|τήρησις]]  [[G1785\|ἐντολῶν]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIRCUMCISION|CIRCUMCISION]] • [[topic FORMALISM|FORMALISM]] • [[topic MARRIAGE|MARRIAGE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.18|<< 1 Corinthians 7:18]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.20|1 Corinthians 7:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

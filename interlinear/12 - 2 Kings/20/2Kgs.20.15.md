@@ -1,8 +1,62 @@
+---
+title: 2 Kings 20:15
+type: Verse
+kjv: "And he said, What have they seen in thine house? And Hezekiah answered, All the things that are in mine house have they seen: there is nothing among my treasures that I have not shewed them."
+bsb: "“What have they seen in your palace?” Isaiah asked. “They have seen everything in my palace,” answered Hezekiah. “There is nothing among my treasures that I did not show them.”"
+hebrew: "וַיֹּ֕אמֶר מָ֥ה רָא֖וּ בְּבֵיתֶ֑ךָ וַיֹּ֣אמֶר חִזְקִיָּ֗הוּ אֵ֣ת כָּל־ אֲשֶׁ֤ר בְּבֵיתִי֙ רָא֔וּ לֹא־ הָיָ֥ה דָבָ֛ר אֲשֶׁ֥ר לֹֽא־ הִרְאִיתִ֖ם בְּאֹצְרֹתָֽי׃"
+pericope: "[[2Kgs.20.12 Hezekiah Shows His Treasures|Hezekiah Shows His Treasures]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 20
+book/chapter: "[[2Kgs.20|2 Kings 20]]"
+chronological_order: 658
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H9021]]"
+- "[[H2396G]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H1697I]]"
+- "[[H9038]]"
+- "[[H0214]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 20:15**<big><big>[[2Kgs.20.12 Hezekiah Shows His Treasures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, What have they seen in thine house? And Hezekiah answered, All [the things] that [are] in mine house have they seen: there is nothing among my treasures that I have not shewed them.
 <small><sub>**BSB:**</sub></small>
 “What have they seen in your palace?” Isaiah asked. “They have seen everything in my palace,” answered Hezekiah. “There is nothing among my treasures that I did not show them.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H4100\|מָ֥ה]] [[H7200G\|רָא֖וּ]] [[H9003\|בְּ]][[H1004B\|בֵיתֶ֑]][[H9021\|ךָ]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H2396G\|חִזְקִיָּ֗הוּ]] [[H0853\|אֵ֣ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֤ר]] [[H9003\|בְּ]][[H1004B\|בֵיתִ]][[H9020\|י֙]] [[H7200G\|רָא֔וּ]] [[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָיָ֥ה]] [[H1697I\|דָבָ֛ר]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7200G\|הִרְאִיתִ֖]][[H9038\|ם]] [[H9003\|בְּ]][[H0214\|אֹצְרֹתָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEZEKIAH|HEZEKIAH]] • [[topic ISAIAH|ISAIAH]] • [[topic RICH, THE|RICH, THE]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.20.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.20.14|<< 2 Kings 20:14]]</td><td align="center" style="border:none;">[[2Kgs.20|2 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.20.16|2 Kings 20:16 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Esther 9:27
+type: Verse
+kjv: "The Jews ordained, and took upon them, and upon their seed, and upon all such as joined themselves unto them, so as it should not fail, that they would keep these two days according to their writing, and according to their appointed time every year;"
+bsb: "the Jews bound themselves to establish the custom that they and their descendants and all who join them should not fail to celebrate these two days at the appointed time each and every year, according to their regulation."
+hebrew: "קִיְּמ֣וּ וְקִבְּל֣וּ הַיְּהוּדִים֩׀ עֲלֵיהֶ֨ם׀ וְעַל־ זַרְעָ֜ם וְעַ֨ל כָּל־ הַנִּלְוִ֤ים עֲלֵיהֶם֙ וְלֹ֣א יַעֲב֔וֹר לִהְי֣וֹת עֹשִׂ֗ים אֵ֣ת שְׁנֵ֤י הַיָּמִים֙ הָאֵ֔לֶּה כִּכְתָבָ֖ם וְכִזְמַנָּ֑ם בְּכָל־ שָׁנָ֖ה וְשָׁנָֽה׃"
+pericope: "[[Esth.9.18 The Feast of Purim Instituted|The Feast of Purim Instituted]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 9
+book/chapter: "[[Esth.9|Esther 9]]"
+chronological_order: 907
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic PURIM|PURIM]]"
+strongs:
+- "[[H6965I]]"
+- "[[H9001]]"
+- "[[H6901]]"
+- "[[H9009]]"
+- "[[H3064]]"
+- "[[H9015]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H2233H]]"
+- "[[H9028]]"
+- "[[H3605]]"
+- "[[H3867A]]"
+- "[[H3808]]"
+- "[[H5674A]]"
+- "[[H9005]]"
+- "[[H1961]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H8147]]"
+- "[[H3117G]]"
+- "[[H0428]]"
+- "[[H9004]]"
+- "[[H3791]]"
+- "[[H2165]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Esther 9:27**<big><big>[[Esth.9.18 The Feast of Purim Instituted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Jews ordained, and took upon them, and upon their seed, and upon all such as joined themselves unto them, so as it should not fail, that they would keep these two days according to their writing, and according to their [appointed] time every year;
 <small><sub>**BSB:**</sub></small>
 the Jews bound themselves to establish the custom that they and their descendants and all who join them should not fail to celebrate these two days at the appointed time each and every year, according to their regulation.
+<small><sub>**Hebrew:**</sub></small>
+[[H6965I\|קִיְּמ֣וּ]] [[H9001\|וְ]][[H6901\|קִבְּל֣וּ]] [[H9009\|הַ]][[H3064\|יְּהוּדִים֩]][[H9015\|׀]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֨ם]][[H9015\|׀]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H2233H\|זַרְעָ֜]][[H9028\|ם]] [[H9002\|וְ]][[H5921A\|עַ֨ל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3867A\|נִּלְוִ֤ים]] [[H5921A\|עֲלֵי]][[H9038\|הֶם֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H5674A\|יַעֲב֔וֹר]] [[H9005\|לִ]][[H1961\|הְי֣וֹת]] [[H6213A\|עֹשִׂ֗ים]] [[H0853\|אֵ֣ת]] [[H8147\|שְׁנֵ֤י]] [[H9009\|הַ]][[H3117G\|יָּמִים֙]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H9004\|כִּ]][[H3791\|כְתָבָ֖]][[H9028\|ם]] [[H9002\|וְ]][[H9004\|כִ]][[H2165\|זְמַנָּ֑]][[H9028\|ם]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H8141\|שָׁנָ֖ה]] [[H9002\|וְ]][[H8141\|שָׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PURIM|PURIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.26|<< Esther 9:26]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.28|Esther 9:28 >>]]</td></tr></table>
 
@@ -33,7 +95,7 @@ the Jews bound themselves to establish the custom that they and their descendant
 | and year  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8141\|שָׁנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.26|<< Esther 9:26]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.28|Esther 9:28 >>]]</td></tr></table>
 
-[^1]: and he accepted  | **<big>[[H6901|קִבֵּל]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ki.bel<small><sup>[[HVpq3ms]]</sup></small> | K
-[^2]: and he accepted  | **<big>[[H6901|קִבֵּל]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ki.bel<small><sup>[[HVpq3ms]]</sup></small> | K
+[^1]: and he accepted  | **<big>[[H9001|וְ]]</big><big>[[H6901|קִבֵּל]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ki.bel<small><sup>[[HVpq3ms]]</sup></small> | K
+[^2]: and he accepted  | **<big>[[H9001|וְ]]</big><big>[[H6901|קִבֵּל]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ki.bel<small><sup>[[HVpq3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וְקִבְּלֻ֣</big></span>**
 

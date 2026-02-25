@@ -1,10 +1,59 @@
+---
+title: Mark 11:8
+type: Verse
+kjv: "And many spread their garments in the way: and others cut down branches off the trees, and strawed them in the way."
+bsb: "Many in the crowd spread their cloaks on the road, while others spread branches they had cut from the fields."
+greek: "καὶ πολλοὶ δὲ τὰ ἱμάτια αὐτῶν ἔστρωσαν εἰς τὴν ὁδόν, ἄλλοι δὲ στιβάδας κόψαντες ἐκ τῶν ἀγρῶν καὶ ἐστρώννυον εἰς τὴν ὁδόν."
+pericope: "[[Mark.11.1 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 11
+book/chapter: "[[Mark.11|Mark 11]]"
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BETHANY|BETHANY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+strongs:
+- "[[G2532]]"
+- "[[G4183]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2440]]"
+- "[[G0846]]"
+- "[[G4766]]"
+- "[[G1519]]"
+- "[[G3598]]"
+- "[[G0243]]"
+- "[[G4746]]"
+- "[[G2875]]"
+- "[[G1537]]"
+- "[[G0068G]]"
+texts:
+- no
+- NKO
+- k
+- N(k)O
+---
+
 **Mark 11:8**<big><big>[[Mark.11.1 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And many spread their garments in the way: and others cut down branches off the trees, and strawed [them] in the way.
 <small><sub>**BSB:**</sub></small>
 Many in the crowd spread their cloaks on the road, while others spread branches they had cut from the fields.
-<small><sub>**Literal:**</sub></small>
-And many now the cloaks of them spread on the road, others then branches cutting down from the fields and were spreading into <the> way.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.7|<< Mark 11:7]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.9|Mark 11:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4183\|πολλοὶ]]  [[G1161\|δὲ]]  [[G3588\|τὰ]]  [[G2440\|ἱμάτια]]  [[G0846\|αὐτῶν]]  [[G4766\|ἔστρωσαν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3598\|ὁδόν,]]  [[G0243\|ἄλλοι]]  [[G1161\|δὲ]]  [[G4746\|στιβάδας]]  [[G2875\|κόψαντες]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G0068G\|ἀγρῶν]]  [[G2532\|καὶ]]  [[G4766\|ἐστρώννυον]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3598\|ὁδόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHANY|BETHANY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.7|<< Mark 11:7]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.9|Mark 11:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

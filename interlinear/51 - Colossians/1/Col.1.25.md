@@ -1,10 +1,56 @@
+---
+title: Colossians 1:25
+type: Verse
+kjv: "Whereof I am made a minister, according to the dispensation of God which is given to me for you, to fulfil the word of God;"
+bsb: "I became its servant by the commission God gave me to fully proclaim to you the word of God,"
+greek: "ἧς ἐγενόμην ἐγὼ διάκονος κατὰ τὴν οἰκονομίαν τοῦ θεοῦ τὴν δοθεῖσάν μοι εἰς ὑμᾶς πληρῶσαι τὸν λόγον τοῦ θεοῦ,"
+pericope: "[[Col.1.24 Paul’s Suffering for the Church|Paul’s Suffering for the Church]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 1
+book/chapter: "[[Col.1|Colossians 1]]"
+chronological_order: 1121
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic PREACHING|PREACHING]]"
+strongs:
+- "[[G3739]]"
+- "[[G1096]]"
+- "[[G1473]]"
+- "[[G1249]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G3622]]"
+- "[[G2316]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G1519]]"
+- "[[G4771]]"
+- "[[G4137]]"
+- "[[G3056]]"
+texts:
+- NKO
+---
+
 **Colossians 1:25**<big><big>[[Col.1.24 Paul’s Suffering for the Church|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whereof I am made a minister, according to the dispensation of God which is given to me for you, to fulfil the word of God;
 <small><sub>**BSB:**</sub></small>
 I became its servant by the commission God gave me to fully proclaim to you the word of God,
-<small><sub>**Literal:**</sub></small>
-of which became I myself a minister according to the administration <the> of God which having been given me toward you to complete the word <the> of God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.24|<< Colossians 1:24]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.26|Colossians 1:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ἧς]]  [[G1096\|ἐγενόμην]]  [[G1473\|ἐγὼ]]  [[G1249\|διάκονος]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G3622\|οἰκονομίαν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|τὴν]]  [[G1325\|δοθεῖσάν]]  [[G3165\|μοι]]  [[G1519\|εἰς]]  [[G4771\|ὑμᾶς]]  [[G4137\|πληρῶσαι]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MYSTERIES|MYSTERIES]] • [[topic PREACHING|PREACHING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.24|<< Colossians 1:24]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.26|Colossians 1:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

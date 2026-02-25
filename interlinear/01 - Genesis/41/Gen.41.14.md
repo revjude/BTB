@@ -1,8 +1,70 @@
+---
+title: Genesis 41:14
+type: Verse
+kjv: "Then Pharaoh sent and called Joseph, and they brought him hastily out of the dungeon: and he shaved himself, and changed his raiment, and came in unto Pharaoh."
+bsb: "So Pharaoh sent for Joseph, who was quickly brought out of the dungeon. After he had shaved and changed his clothes, he went in before Pharaoh."
+hebrew: "וַיִּשְׁלַ֤ח פַּרְעֹה֙ וַיִּקְרָ֣א אֶת־ יוֹסֵ֔ף וַיְרִיצֻ֖הוּ מִן־ הַבּ֑וֹר וַיְגַלַּח֙ וַיְחַלֵּ֣ף שִׂמְלֹתָ֔יו וַיָּבֹ֖א אֶל־ פַּרְעֹֽה׃"
+pericope: "[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|Joseph Interprets Pharaoh’s Dreams]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BEARD|BEARD]]"
+- "[[topic CRIMINALS|CRIMINALS]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROMOTION|PROMOTION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H6547H]]"
+- "[[H7121G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3130G]]"
+- "[[H7323G]]"
+- "[[H9033]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H0953A]]"
+- "[[H1548]]"
+- "[[H2498]]"
+- "[[H8071]]"
+- "[[H9023]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:14**<big><big>[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Pharaoh sent and called Joseph, and they brought him hastily out of the dungeon: and he shaved [himself], and changed his raiment, and came in unto Pharaoh.
 <small><sub>**BSB:**</sub></small>
 So Pharaoh sent for Joseph, who was quickly brought out of the dungeon. After he had shaved and changed his clothes, he went in before Pharaoh.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֤ח]] [[H6547H\|פַּרְעֹה֙]] [[H9001\|וַ]][[H7121G\|יִּקְרָ֣א]] [[H0853\|אֶת]][[H9014\|־]] [[H3130G\|יוֹסֵ֔ף]] [[H9001\|וַ]][[H7323G\|יְרִיצֻ֖]][[H9033\|הוּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H0953A\|בּ֑וֹר]] [[H9001\|וַ]][[H1548\|יְגַלַּח֙]] [[H9001\|וַ]][[H2498\|יְחַלֵּ֣ף]] [[H8071\|שִׂמְלֹתָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H0935G\|יָּבֹ֖א]] [[H0413\|אֶל]][[H9014\|־]] [[H6547H\|פַּרְעֹֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEARD|BEARD]] • [[topic CRIMINALS|CRIMINALS]] • [[topic DREAM|DREAM]] • [[topic HEATHEN|HEATHEN]] • [[topic JOSEPH|JOSEPH]] • [[topic PRISONERS|PRISONERS]] • [[topic PROMOTION|PROMOTION]] • [[topic SERVANT|SERVANT]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.13|<< Genesis 41:13]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.15|Genesis 41:15 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Numbers 6:15
+type: Verse
+kjv: "And a basket of unleavened bread, cakes of fine flour mingled with oil, and wafers of unleavened bread anointed with oil, and their meat offering, and their drink offerings."
+bsb: "together with their grain offerings and drink offerings—and a basket of unleavened cakes made from fine flour mixed with oil and unleavened wafers coated with oil."
+hebrew: "וְסַ֣ל מַצּ֗וֹת סֹ֤לֶת חַלֹּת֙ בְּלוּלֹ֣ת בַּשֶּׁ֔מֶן וּרְקִיקֵ֥י מַצּ֖וֹת מְשֻׁחִ֣ים בַּשָּׁ֑מֶן וּמִנְחָתָ֖ם וְנִסְכֵּיהֶֽם׃"
+pericope: "[[Num.6.1 The Nazirite Vow|The Nazirite Vow]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 6
+book/chapter: "[[Num.6|Numbers 6]]"
+chronological_order: 165
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BASKET|BASKET]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic NAZARITE|NAZARITE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9002]]"
+- "[[H5536]]"
+- "[[H4682]]"
+- "[[H5560]]"
+- "[[H2471]]"
+- "[[H1101A]]"
+- "[[H9003]]"
+- "[[H8081]]"
+- "[[H7550]]"
+- "[[H4886]]"
+- "[[H4503G]]"
+- "[[H9028]]"
+- "[[H5262]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 6:15**<big><big>[[Num.6.1 The Nazirite Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a basket of unleavened bread, cakes of fine flour mingled with oil, and wafers of unleavened bread anointed with oil, and their meat offering, and their drink offerings.
 <small><sub>**BSB:**</sub></small>
 together with their grain offerings and drink offerings—and a basket of unleavened cakes made from fine flour mixed with oil and unleavened wafers coated with oil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5536\|סַ֣ל]] [[H4682\|מַצּ֗וֹת]] [[H5560\|סֹ֤לֶת]] [[H2471\|חַלֹּת֙]] [[H1101A\|בְּלוּלֹ֣ת]] [[H9003\|בַּ]][[H8081\|שֶּׁ֔מֶן]] [[H9002\|וּ]][[H7550\|רְקִיקֵ֥י]] [[H4682\|מַצּ֖וֹת]] [[H4886\|מְשֻׁחִ֣ים]] [[H9003\|בַּ]][[H8081\|שָּׁ֑מֶן]] [[H9002\|וּ]][[H4503G\|מִנְחָתָ֖]][[H9028\|ם]] [[H9002\|וְ]][[H5262\|נִסְכֵּי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BASKET|BASKET]] • [[topic FRATERNITY|FRATERNITY]] • [[topic NAZARITE|NAZARITE]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.6.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.14|<< Numbers 6:14]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.16|Numbers 6:16 >>]]</td></tr></table>
 

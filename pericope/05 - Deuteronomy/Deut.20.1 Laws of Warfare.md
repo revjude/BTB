@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Laws of Warfare
+type: Pericope
 pericope: "[[Deut.20.1 Laws of Warfare|Laws of Warfare]]"
-verse_count: 20
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 20
 book/chapter: "[[Deut.20|Deuteronomy 20]]"
-genre:
+chronological_order: 216
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 20
 verses:
 - "[[Deut.20.1]]"
 - "[[Deut.20.2]]"
@@ -43,7 +50,7 @@ verses:
 - "[[Deut.20.20]]"
 ---
 
-[[Deut.20|Deuteronomy 20:1 - Deuteronomy 20:20]]
+<small>[[Deut.20|Deuteronomy 20:1-20]]</small>
 *Laws of Warfare*
 
 [[Deut.20.1|1]] When thou goest out to battle against thine enemies, and seest horses, and chariots, \[and\] a people more than thou, be not afraid of them: for the LORD thy God \[is\] with thee, which brought thee up out of the land of Egypt.

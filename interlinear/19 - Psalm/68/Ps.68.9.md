@@ -1,8 +1,57 @@
+---
+title: Psalm 68:9
+type: Verse
+kjv: "Thou, O God, didst send a plentiful rain, whereby thou didst confirm thine inheritance, when it was weary."
+bsb: "You sent abundant rain, O God; You refreshed Your weary inheritance."
+hebrew: "גֶּ֣שֶׁם נְ֭דָבוֹת תָּנִ֣יף אֱלֹהִ֑ים נַחֲלָתְךָ֥ וְ֝נִלְאָ֗ה אַתָּ֥ה כֽוֹנַנְתָּֽהּ׃"
+pericope: "[[Ps.68.1 God’s Enemies Are Scattered|God’s Enemies Are Scattered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 68
+book/chapter: "[[Ps.68|Psalm 68]]"
+chronological_order: 376
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H1653]]"
+- "[[H5071]]"
+- "[[H5130A]]"
+- "[[H0430G]]"
+- "[[H5159]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3811]]"
+- "[[H0859A]]"
+- "[[H3559I]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 68:9**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou, O God, didst send a plentiful rain, whereby thou didst confirm thine inheritance, when it was weary.
 <small><sub>**BSB:**</sub></small>
 You sent abundant rain, O God; You refreshed Your weary inheritance.
+<small><sub>**Hebrew:**</sub></small>
+[[H1653\|גֶּ֣שֶׁם]] [[H5071\|נְ֭דָבוֹת]] [[H5130A\|תָּנִ֣יף]] [[H0430G\|אֱלֹהִ֑ים]] [[H5159\|נַחֲלָתְ]][[H9021\|ךָ֥]] [[H9002\|וְ֝]][[H3811\|נִלְאָ֗ה]] [[H0859A\|אַתָּ֥ה]] [[H3559I\|כֽוֹנַנְתָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.8|<< Psalms 68:8]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.10|Psalms 68:10 >>]]</td></tr></table>
 

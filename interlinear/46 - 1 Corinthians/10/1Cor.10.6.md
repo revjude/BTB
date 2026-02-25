@@ -1,10 +1,59 @@
+---
+title: 1 Corinthians 10:6
+type: Verse
+kjv: "Now these things were our examples, to the intent we should not lust after evil things, as they also lusted."
+bsb: "These things took place as examples to keep us from craving evil things as they did."
+greek: "ταῦτα δὲ τύποι ἡμῶν ἐγενήθησαν εἰς τὸ μὴ εἶναι ἡμᾶς ἐπιθυμητὰς κακῶν καθὼς κἀκεῖνοι κἀκεῖνοι ἐπεθύμησαν."
+pericope: "[[1Cor.10.1 Warnings from Israel’s Past|Warnings from Israel’s Past]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 10
+book/chapter: "[[1Cor.10|1 Corinthians 10]]"
+chronological_order: 1067
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic LUST|LUST]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G5179]]"
+- "[[G3165]]"
+- "[[G1096]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3361]]"
+- "[[G1511]]"
+- "[[G1938]]"
+- "[[G2556G]]"
+- "[[G2531]]"
+- "[[G2532]]"
+- "[[G1565]]"
+- "[[G1937]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 10:6**<big><big>[[1Cor.10.1 Warnings from Israel’s Past|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now these things were our examples, to the intent we should not lust after evil things, as they also lusted.
 <small><sub>**BSB:**</sub></small>
 These things took place as examples to keep us from craving evil things as they did.
-<small><sub>**Literal:**</sub></small>
-These things now types to us have become for <the> not to be us desirers of evil things even as they also desired.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.5|<< 1 Corinthians 10:5]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.7|1 Corinthians 10:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|ταῦτα]]  [[G1161\|δὲ]]  [[G5179\|τύποι]]  [[G3165\|ἡμῶν]]  [[G1096\|ἐγενήθησαν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3361\|μὴ]]  [[G1511\|εἶναι]]  [[G3165\|ἡμᾶς]]  [[G1938\|ἐπιθυμητὰς]]  [[G2556G\|κακῶν]]  [[G2531\|καθὼς]]  [[G2532\|κἀκεῖνοι]]  <sup><small>[[G1565\| [ • ] ]]</small></sup>  [[G1937\|ἐπεθύμησαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic EXAMPLE|EXAMPLE]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic LUST|LUST]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.5|<< 1 Corinthians 10:5]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.7|1 Corinthians 10:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

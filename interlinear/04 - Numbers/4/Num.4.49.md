@@ -1,8 +1,63 @@
+---
+title: Numbers 4:49
+type: Verse
+kjv: "According to the commandment of the LORD they were numbered by the hand of Moses, every one according to his service, and according to his burden: thus were they numbered of him, as the LORD commanded Moses."
+bsb: "At the LORD’s command through Moses they were numbered, and each one was assigned his work and burden, as the LORD had commanded Moses."
+hebrew: "עַל־ פִּ֨י יְהוָ֜ה פָּקַ֤ד אוֹתָם֙ בְּיַד־ מֹשֶׁ֔ה אִ֥ישׁ אִ֛ישׁ עַל־ עֲבֹדָת֖וֹ וְעַל־ מַשָּׂא֑וֹ וּפְקֻדָ֕יו אֲשֶׁר־ צִוָּ֥ה יְהוָ֖ה אֶת־ מֹשֶֽׁה׃ פ"
+pericope: "[[Num.4.34 The Numbering of the Levite Clans|The Numbering of the Levite Clans]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 4
+book/chapter: "[[Num.4|Numbers 4]]"
+chronological_order: 163
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6310I]]"
+- "[[H3068G]]"
+- "[[H6485A]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H3027J]]"
+- "[[H4872]]"
+- "[[H0376G]]"
+- "[[H5656H]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H4853A]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Numbers 4:49**<big><big>[[Num.4.34 The Numbering of the Levite Clans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 According to the commandment of the LORD they were numbered by the hand of Moses, every one according to his service, and according to his burden: thus were they numbered of him, as the LORD commanded Moses.
 <small><sub>**BSB:**</sub></small>
 At the LORD’s command through Moses they were numbered, and each one was assigned his work and burden, as the LORD had commanded Moses.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H6310I\|פִּ֨י]] [[H3068G\|יְהוָ֜ה]] [[H6485A\|פָּקַ֤ד]] [[H0853\|אוֹתָ]][[H9038\|ם֙]] [[H9003\|בְּ]][[H3027J\|יַד]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H0376G\|אִ֥ישׁ]] [[H0376G\|אִ֛ישׁ]] [[H5921A\|עַל]][[H9014\|־]] [[H5656H\|עֲבֹדָת֖]][[H9023\|וֹ]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H4853A\|מַשָּׂא֑]][[H9023\|וֹ]] [[H9002\|וּ]][[H6485A\|פְקֻדָ֕י]][[H9023\|ו]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶֽׁה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.48|<< Numbers 4:48]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.1|Numbers 5:1 >>]]</td></tr></table>
 
@@ -26,7 +81,7 @@ At the LORD’s command through Moses they were numbered, and each one was assig
 | he had commanded  |**<big>&#8207;[[H6680\|צִוָּ֥ה]]&#8207; </big>**| tzi.Vah<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moses  |**<big>&#8207;[[H4872\|מֹשֶֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  |**<big>&#8207;[[H4872\|מֹשֶֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.48|<< Numbers 4:48]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.1|Numbers 5:1 >>]]</td></tr></table>
 
 

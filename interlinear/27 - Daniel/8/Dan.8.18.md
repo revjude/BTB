@@ -1,8 +1,55 @@
+---
+title: Daniel 8:18
+type: Verse
+kjv: "Now as he was speaking with me, I was in a deep sleep on my face toward the ground: but he touched me, and set me upright."
+bsb: "While he was speaking with me, I fell into a deep sleep, with my face to the ground. Then he touched me, helped me to my feet,"
+hebrew: "וּבְדַבְּר֣וֹ עִמִּ֔י נִרְדַּ֥מְתִּי עַל־ פָּנַ֖י אָ֑רְצָה וַיִּ֨גַּע־ בִּ֔י וַיַּֽעֲמִידֵ֖נִי עַל־ עָמְדִֽי׃"
+pericope: "[[Dan.8.15 Gabriel Interprets Daniel’s Vision|Gabriel Interprets Daniel’s Vision]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 8
+book/chapter: "[[Dan.8|Daniel 8]]"
+chronological_order: 844
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H1696G]]"
+- "[[H9043]]"
+- "[[H5973A]]"
+- "[[H9030]]"
+- "[[H7290]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440H]]"
+- "[[H9020]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H9001]]"
+- "[[H5060]]"
+- "[[H5975G]]"
+- "[[H5977]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 8:18**<big><big>[[Dan.8.15 Gabriel Interprets Daniel’s Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now as he was speaking with me, I was in a deep sleep on my face toward the ground: but he touched me, and set me upright.
 <small><sub>**BSB:**</sub></small>
 While he was speaking with me, I fell into a deep sleep, with my face to the ground. Then he touched me, helped me to my feet,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H1696G\|דַבְּר֣]][[H9043\|וֹ]] [[H5973A\|עִמִּ֔]][[H9030\|י]] [[H7290\|נִרְדַּ֥מְתִּי]] [[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פָּנַ֖]][[H9020\|י]] [[H0776H\|אָ֑רְצָ]][[H9011\|ה]] [[H9001\|וַ]][[H5060\|יִּ֨גַּע]][[H9014\|־]] [[H9003\|בִּ֔]][[H9030\|י]] [[H9001\|וַ]][[H5975G\|יַּֽעֲמִידֵ֖]][[H9030\|נִי]] [[H5921A\|עַל]][[H9014\|־]] [[H5977\|עָמְדִֽ]][[H9020\|י]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.17|<< Daniel 8:17]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.19|Daniel 8:19 >>]]</td></tr></table>
 

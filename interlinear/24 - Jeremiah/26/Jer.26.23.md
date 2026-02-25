@@ -1,8 +1,72 @@
+---
+title: Jeremiah 26:23
+type: Verse
+kjv: "And they fetched forth Urijah out of Egypt, and brought him unto Jehoiakim the king; who slew him with the sword, and cast his dead body into the graves of the common people."
+bsb: "They brought Uriah out of Egypt and took him to King Jehoiakim, who had him put to the sword and his body thrown into the burial place of the common people."
+hebrew: "וַיּוֹצִ֨יאוּ אֶת־ אוּרִיָּ֜הוּ מִמִּצְרַ֗יִם וַיְבִאֻ֙הוּ֙ אֶל־ הַמֶּ֣לֶךְ יְהוֹיָקִ֔ים וַיַּכֵּ֖הוּ בֶּחָ֑רֶב וַיַּשְׁלֵךְ֙ אֶת־ נִבְלָת֔וֹ אֶל־ קִבְרֵ֖י בְּנֵ֥י הָעָֽם׃"
+pericope: "[[Jer.26.20 The Prophet Uriah|The Prophet Uriah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 26
+book/chapter: "[[Jer.26|Jeremiah 26]]"
+chronological_order: 749
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic EXTRADITION|EXTRADITION]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic JEHOIAKIM|JEHOIAKIM]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic URIJAH|URIJAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0223B]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H0935P]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3079]]"
+- "[[H5221]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H7993]]"
+- "[[H5038]]"
+- "[[H9023]]"
+- "[[H6913]]"
+- "[[H1121G]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 26:23**<big><big>[[Jer.26.20 The Prophet Uriah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they fetched forth Urijah out of Egypt, and brought him unto Jehoiakim the king; who slew him with the sword, and cast his dead body into the graves of the common people.
 <small><sub>**BSB:**</sub></small>
 They brought Uriah out of Egypt and took him to King Jehoiakim, who had him put to the sword and his body thrown into the burial place of the common people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318H\|יּוֹצִ֨יאוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0223B\|אוּרִיָּ֜הוּ]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֗יִם]] [[H9001\|וַ]][[H0935P\|יְבִאֻ֙]][[H9033\|הוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H3079\|יְהוֹיָקִ֔ים]] [[H9001\|וַ]][[H5221\|יַּכֵּ֖]][[H9033\|הוּ]] [[H9003\|בֶּ]][[H2719\|חָ֑רֶב]] [[H9001\|וַ]][[H7993\|יַּשְׁלֵךְ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5038\|נִבְלָת֔]][[H9023\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H6913\|קִבְרֵ֖י]] [[H1121G\|בְּנֵ֥י]] [[H9009\|הָ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURIAL|BURIAL]] • [[topic EXTRADITION|EXTRADITION]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic JEHOIAKIM|JEHOIAKIM]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PRUDENCE|PRUDENCE]] • [[topic URIJAH|URIJAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.26.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.22|<< Jeremiah 26:22]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.24|Jeremiah 26:24 >>]]</td></tr></table>
 

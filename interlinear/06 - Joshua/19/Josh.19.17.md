@@ -1,8 +1,50 @@
+---
+title: Joshua 19:17
+type: Verse
+kjv: "And the fourth lot came out to Issachar, for the children of Issachar according to their families."
+bsb: "The fourth lot came out for the clans of the tribe of Issachar:"
+hebrew: "לְיִ֨שָּׂשכָ֔ר יָצָ֖א הַגּוֹרָ֣ל הָֽרְבִיעִ֑י לִבְנֵ֥י יִשָּׂשכָ֖ר לְמִשְׁפְּחוֹתָֽם׃"
+pericope: "[[Josh.19.17 Issachar’s Inheritance|Issachar’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 19
+book/chapter: "[[Josh.19|Joshua 19]]"
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ISSACHAR|ISSACHAR]]"
+strongs:
+- "[[H9005]]"
+- "[[H3485G]]"
+- "[[H3318J]]"
+- "[[H9009]]"
+- "[[H1486]]"
+- "[[H7243]]"
+- "[[H1121G]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 19:17**<big><big>[[Josh.19.17 Issachar’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] the fourth lot came out to Issachar, for the children of Issachar according to their families.
 <small><sub>**BSB:**</sub></small>
 The fourth lot came out for the clans of the tribe of Issachar:
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H3485G\|יִ֨שָּׂשכָ֔ר]] [[H3318J\|יָצָ֖א]] [[H9009\|הַ]][[H1486\|גּוֹרָ֣ל]] [[H9009\|הָֽ]][[H7243\|רְבִיעִ֑י]] [[H9005\|לִ]][[H1121G\|בְנֵ֥י]] [[H3485G\|יִשָּׂשכָ֖ר]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחוֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISSACHAR|ISSACHAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.16|<< Joshua 19:16]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.18|Joshua 19:18 >>]]</td></tr></table>
 

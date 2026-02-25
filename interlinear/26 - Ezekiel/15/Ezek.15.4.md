@@ -1,8 +1,57 @@
+---
+title: Ezekiel 15:4
+type: Verse
+kjv: "Behold, it is cast into the fire for fuel; the fire devoureth both the ends of it, and the midst of it is burned. Is it meet for any work?"
+bsb: "No, it is cast into the fire for fuel. The fire devours both ends, and the middle is charred. Can it be useful for anything?"
+hebrew: "הִנֵּ֥ה לָאֵ֖שׁ נִתַּ֣ן לְאָכְלָ֑ה אֵת֩ שְׁנֵ֨י קְצוֹתָ֜יו אָכְלָ֤ה הָאֵשׁ֙ וְתוֹכ֣וֹ נָחָ֔ר הֲיִצְלַ֖ח לִמְלָאכָֽה׃"
+pericope: "[[Ezek.15.1 Jerusalem the Useless Vine|Jerusalem the Useless Vine]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 15
+book/chapter: "[[Ezek.15|Ezekiel 15]]"
+chronological_order: 806
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H2009]]"
+- "[[H9005]]"
+- "[[H0784]]"
+- "[[H5414G]]"
+- "[[H0402]]"
+- "[[H0853]]"
+- "[[H8147]]"
+- "[[H7098]]"
+- "[[H9023]]"
+- "[[H0398]]"
+- "[[H9009]]"
+- "[[H9002]]"
+- "[[H8432]]"
+- "[[H2787]]"
+- "[[H9008]]"
+- "[[H6743B]]"
+- "[[H4399]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 15:4**<big><big>[[Ezek.15.1 Jerusalem the Useless Vine|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, it is cast into the fire for fuel; the fire devoureth both the ends of it, and the midst of it is burned. Is it meet for [any] work?
 <small><sub>**BSB:**</sub></small>
 No, it is cast into the fire for fuel. The fire devours both ends, and the middle is charred. Can it be useful for anything?
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֥ה]] [[H9005\|לָ]][[H0784\|אֵ֖שׁ]] [[H5414G\|נִתַּ֣ן]] [[H9005\|לְ]][[H0402\|אָכְלָ֑ה]] [[H0853\|אֵת֩]] [[H8147\|שְׁנֵ֨י]] [[H7098\|קְצוֹתָ֜י]][[H9023\|ו]] [[H0398\|אָכְלָ֤ה]] [[H9009\|הָ]][[H0784\|אֵשׁ֙]] [[H9002\|וְ]][[H8432\|תוֹכ֣]][[H9023\|וֹ]] [[H2787\|נָחָ֔ר]] [[H9008\|הֲ]][[H6743B\|יִצְלַ֖ח]] [[H9005\|לִ]][[H4399\|מְלָאכָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.15.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.15.3|<< Ezekiel 15:3]]</td><td align="center" style="border:none;">[[Ezek.15|Ezekiel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.15.5|Ezekiel 15:5 >>]]</td></tr></table>
 

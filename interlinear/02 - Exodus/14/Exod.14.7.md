@@ -1,8 +1,65 @@
+---
+title: Exodus 14:7
+type: Verse
+kjv: "And he took six hundred chosen chariots, and all the chariots of Egypt, and captains over every one of them."
+bsb: "He took 600 of the best chariots, and all the other chariots of Egypt, with officers over all of them."
+hebrew: "וַיִּקַּ֗ח שֵׁשׁ־ מֵא֥וֹת רֶ֙כֶב֙ בָּח֔וּר וְכֹ֖ל רֶ֣כֶב מִצְרָ֑יִם וְשָׁלִשִׁ֖ם עַל־ כֻּלּֽוֹ׃"
+pericope: "[[Exod.14.1 Pharaoh Pursues the Israelites|Pharaoh Pursues the Israelites]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 14
+book/chapter: "[[Exod.14|Exodus 14]]"
+chronological_order: 106
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H8337]]"
+- "[[H9014]]"
+- "[[H3967]]"
+- "[[H7393G]]"
+- "[[H0977]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H4714G]]"
+- "[[H7991C]]"
+- "[[H5921A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 14:7**<big><big>[[Exod.14.1 Pharaoh Pursues the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took six hundred chosen chariots, and all the chariots of Egypt, and captains over every one of them.
 <small><sub>**BSB:**</sub></small>
 He took 600 of the best chariots, and all the other chariots of Egypt, with officers over all of them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֗ח]] [[H8337\|שֵׁשׁ]][[H9014\|־]] [[H3967\|מֵא֥וֹת]] [[H7393G\|רֶ֙כֶב֙]] [[H0977\|בָּח֔וּר]] [[H9002\|וְ]][[H3605\|כֹ֖ל]] [[H7393G\|רֶ֣כֶב]] [[H4714G\|מִצְרָ֑יִם]] [[H9002\|וְ]][[H7991C\|שָׁלִשִׁ֖ם]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כֻּלּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHARIOT|CHARIOT]] • [[topic EGYPT|EGYPT]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic ISRAEL|ISRAEL]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.14.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.6|<< Exodus 14:6]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.8|Exodus 14:8 >>]]</td></tr></table>
 

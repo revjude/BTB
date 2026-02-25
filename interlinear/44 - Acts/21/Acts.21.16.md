@@ -1,10 +1,58 @@
+---
+title: Acts 21:16
+type: Verse
+kjv: "There went with us also certain of the disciples of Caesarea, and brought with them one Mnason of Cyprus, an old disciple, with whom we should lodge."
+bsb: "Some of the disciples from Caesarea accompanied us, and they took us to stay at the home of Mnason the Cypriot, an early disciple."
+greek: "συνῆλθον δὲ καὶ τῶν μαθητῶν ἀπὸ Καισαρείας σὺν ἡμῖν, ἄγοντες παρ᾽ ᾧ ξενισθῶμεν, Μνάσωνί τινι Κυπρίῳ, ἀρχαίῳ μαθητῇ.¶"
+pericope: "[[Acts.21.8 Paul Visits Philip the Evangelist|Paul Visits Philip the Evangelist]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 21
+book/chapter: "[[Acts.21|Acts 21]]"
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CYPRUS|CYPRUS]]"
+- "[[topic LUKE|LUKE]]"
+- "[[topic MNASON|MNASON]]"
+strongs:
+- "[[G4905]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0575]]"
+- "[[G2542H]]"
+- "[[G4862]]"
+- "[[G3165]]"
+- "[[G0071]]"
+- "[[G3844]]"
+- "[[G3739]]"
+- "[[G3579]]"
+- "[[G3416]]"
+- "[[G5100]]"
+- "[[G2953]]"
+- "[[G0744]]"
+texts:
+- NKO
+---
+
 **Acts 21:16**<big><big>[[Acts.21.8 Paul Visits Philip the Evangelist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 There went with us also [certain] of the disciples of Caesarea, and brought with them one Mnason of Cyprus, an old disciple, with whom we should lodge.
 <small><sub>**BSB:**</sub></small>
 Some of the disciples from Caesarea accompanied us, and they took us to stay at the home of Mnason the Cypriot, an early disciple.
-<small><sub>**Literal:**</sub></small>
-Went then also [some] of the disciples from Caesarea with us, bringing [one] with whom we may lodge, Mnason a certain Cypriot, an early disciple.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.15|<< Acts 21:15]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.17|Acts 21:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4905\|συνῆλθον]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G0575\|ἀπὸ]]  [[G2542H\|Καισαρείας]]  [[G4862\|σὺν]]  [[G3165\|ἡμῖν,]]  [[G0071\|ἄγοντες]]  [[G3844\|παρ᾽]]  [[G3739\|ᾧ]]  [[G3579\|ξενισθῶμεν,]]  [[G3416\|Μνάσωνί]]  [[G5100\|τινι]]  [[G2953\|Κυπρίῳ,]]  [[G0744\|ἀρχαίῳ]]  [[G3101\|μαθητῇ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CYPRUS|CYPRUS]] • [[topic LUKE|LUKE]] • [[topic MNASON|MNASON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.15|<< Acts 21:15]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.17|Acts 21:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

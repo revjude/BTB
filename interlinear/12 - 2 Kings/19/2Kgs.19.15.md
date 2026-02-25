@@ -1,8 +1,71 @@
+---
+title: 2 Kings 19:15
+type: Verse
+kjv: "And Hezekiah prayed before the LORD, and said, O LORD God of Israel, which dwellest between the cherubims, thou art the God, even thou alone, of all the kingdoms of the earth; thou hast made heaven and earth."
+bsb: "And Hezekiah prayed before the LORD: “O LORD, God of Israel, enthroned between the cherubim, You alone are God over all the kingdoms of the earth. You made the heavens and the earth."
+hebrew: "וַיִּתְפַּלֵּ֨ל חִזְקִיָּ֜הוּ לִפְנֵ֣י יְהוָה֮ וַיֹּאמַר֒ יְהוָ֞ה אֱלֹהֵ֤י יִשְׂרָאֵל֙ יֹשֵׁ֣ב הַכְּרֻבִ֔ים אַתָּה־ ה֤וּא הָֽאֱלֹהִים֙ לְבַדְּךָ֔ לְכֹ֖ל מַמְלְכ֣וֹת הָאָ֑רֶץ אַתָּ֣ה עָשִׂ֔יתָ אֶת־ הַשָּׁמַ֖יִם וְאֶת־ הָאָֽרֶץ׃"
+pericope: "[[2Kgs.19.14 Hezekiah’s Prayer|Hezekiah’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 19
+book/chapter: "[[2Kgs.19|2 Kings 19]]"
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MERCY-SEAT|MERCY-SEAT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SHEKINAH|SHEKINAH]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6419]]"
+- "[[H2396G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H3427]]"
+- "[[H9009]]"
+- "[[H3742]]"
+- "[[H0859A]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H0905H]]"
+- "[[H9031]]"
+- "[[H3605]]"
+- "[[H4467]]"
+- "[[H0776G]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 19:15**<big><big>[[2Kgs.19.14 Hezekiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hezekiah prayed before the LORD, and said, O LORD God of Israel, which dwellest [between] the cherubims, thou art the God, [even] thou alone, of all the kingdoms of the earth; thou hast made heaven and earth.
 <small><sub>**BSB:**</sub></small>
 And Hezekiah prayed before the LORD: “O LORD, God of Israel, enthroned between the cherubim, You alone are God over all the kingdoms of the earth. You made the heavens and the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6419\|יִּתְפַּלֵּ֨ל]] [[H2396G\|חִזְקִיָּ֜הוּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָה֮]] [[H9001\|וַ]][[H0559\|יֹּאמַר֒]] [[H3068G\|יְהוָ֞ה]] [[H0430G\|אֱלֹהֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H3427\|יֹשֵׁ֣ב]] [[H9009\|הַ]][[H3742\|כְּרֻבִ֔ים]] [[H0859A\|אַתָּה]][[H9014\|־]] [[H1931\|ה֤וּא]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִים֙]] [[H9005\|לְ]][[H0905H\|בַדְּ]][[H9031\|ךָ֔]] [[H9005\|לְ]][[H3605\|כֹ֖ל]] [[H4467\|מַמְלְכ֣וֹת]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H0859A\|אַתָּ֣ה]] [[H6213H\|עָשִׂ֔יתָ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמַ֖יִם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic GOD|GOD]] • [[topic MERCY-SEAT|MERCY-SEAT]] • [[topic PRAYER|PRAYER]] • [[topic RELIGION|RELIGION]] • [[topic SHEKINAH|SHEKINAH]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.14|<< 2 Kings 19:14]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.16|2 Kings 19:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

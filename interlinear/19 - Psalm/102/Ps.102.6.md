@@ -1,8 +1,54 @@
+---
+title: Psalm 102:6
+type: Verse
+kjv: "I am like a pelican of the wilderness: I am like an owl of the desert."
+bsb: "I am like a desert owl, like an owl among the ruins."
+hebrew: "דָּ֭מִיתִי לִקְאַ֣ת מִדְבָּ֑ר הָ֝יִ֗יתִי כְּכ֣וֹס חֳרָבֽוֹת׃"
+pericope: "[[Ps.102.1 The Prayer of the Afflicted|The Prayer of the Afflicted]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 102
+book/chapter: "[[Ps.102|Psalm 102]]"
+chronological_order: 784
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic PELICAN|PELICAN]]"
+strongs:
+- "[[H1819]]"
+- "[[H9005]]"
+- "[[H6893]]"
+- "[[H4057B]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H3563B]]"
+- "[[H2723]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 102:6**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I am like a pelican of the wilderness: I am like an owl of the desert.
 <small><sub>**BSB:**</sub></small>
 I am like a desert owl, like an owl among the ruins.
+<small><sub>**Hebrew:**</sub></small>
+[[H1819\|דָּ֭מִיתִי]] [[H9005\|לִ]][[H6893\|קְאַ֣ת]] [[H4057B\|מִדְבָּ֑ר]] [[H1961\|הָ֝יִ֗יתִי]] [[H9004\|כְּ]][[H3563B\|כ֣וֹס]] [[H2723\|חֳרָבֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic PELICAN|PELICAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.5|<< Psalms 102:5]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.7|Psalms 102:7 >>]]</td></tr></table>
 

@@ -1,10 +1,57 @@
+---
+title: Matthew 11:2
+type: Verse
+kjv: "Now when John had heard in the prison the works of Christ, he sent two of his disciples,"
+bsb: "Meanwhile John heard in prison about the works of Christ, and he sent his disciples"
+greek: "Ὁ δὲ Ἰωάννης ἀκούσας ἐν τῷ δεσμωτηρίῳ τὰ ἔργα τοῦ Χριστοῦ, πέμψας διὰ τῶν μαθητῶν αὐτοῦ"
+pericope: "[[Matt.11.1 John’s Inquiry|John’s Inquiry]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 11
+book/chapter: "[[Matt.11|Matthew 11]]"
+chronological_order: 955
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic IMPRISONMENT|IMPRISONMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2491G]]"
+- "[[G0191]]"
+- "[[G1722]]"
+- "[[G1201]]"
+- "[[G2041]]"
+- "[[G5547]]"
+- "[[G3992]]"
+- "[[G1223]]"
+- "[[G3101]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Matthew 11:2**<big><big>[[Matt.11.1 John’s Inquiry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now when John had heard in the prison the works of Christ, he sent two of his disciples,
 <small><sub>**BSB:**</sub></small>
 Meanwhile John heard in prison about the works of Christ, and he sent his disciples
-<small><sub>**Literal:**</sub></small>
-<the> And John having heard in the prison the works of the Christ, having sent on account of of the disciples of him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.1|<< Matthew 11:1]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.3|Matthew 11:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2491G\|Ἰωάννης]]  [[G0191\|ἀκούσας]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G1201\|δεσμωτηρίῳ]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ,]]  [[G3992\|πέμψας]]  [[G1223\|διὰ]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G0846\|αὐτοῦ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOUBTING|DOUBTING]] • [[topic IMPRISONMENT|IMPRISONMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.1|<< Matthew 11:1]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.3|Matthew 11:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus before the Sanhedrin
+type: Pericope
 pericope: "[[Luke.22.66 Jesus before the Sanhedrin|Jesus before the Sanhedrin]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Luke
 chapter: 22
 book/chapter: "[[Luke.22|Luke 22]]"
-genre:
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 6
 verses:
 - "[[Luke.22.66]]"
 - "[[Luke.22.67]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Luke.22.71]]"
 ---
 
-[[Luke.22|Luke 22:66 - Luke 22:71]]
+<small>[[Luke.22|Luke 22:66-71]]</small>
 *Jesus before the Sanhedrin*
 
 [[Luke.22.66|66]] And as soon as it was day, the elders of the people and the chief priests and the scribes came together, and led him into their council, saying,

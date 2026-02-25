@@ -1,8 +1,56 @@
+---
+title: Psalm 45:3
+type: Verse
+kjv: "Gird thy sword upon thy thigh, O most mighty, with thy glory and thy majesty."
+bsb: "Strap your sword at your side, O mighty warrior; appear in your majesty and splendor."
+hebrew: "חֲגֽוֹר־ חַרְבְּךָ֣ עַל־ יָרֵ֣ךְ גִּבּ֑וֹר ה֝וֹדְךָ֗ וַהֲדָרֶֽךָ׃"
+pericope: "[[Ps.45.1 My Heart Is Stirred by a Noble Theme|My Heart Is Stirred by a Noble Theme]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 45
+book/chapter: "[[Ps.45|Psalm 45]]"
+chronological_order: 500
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H2296]]"
+- "[[H9014]]"
+- "[[H2719]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H3409]]"
+- "[[H1368]]"
+- "[[H1935]]"
+- "[[H9002]]"
+- "[[H1926]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 45:3**<big><big>[[Ps.45.1 My Heart Is Stirred by a Noble Theme|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Gird thy sword upon [thy] thigh, O [most] mighty, with thy glory and thy majesty.
 <small><sub>**BSB:**</sub></small>
 Strap your sword at your side, O mighty warrior; appear in your majesty and splendor.
+<small><sub>**Hebrew:**</sub></small>
+[[H2296\|חֲגֽוֹר]][[H9014\|־]] [[H2719\|חַרְבְּ]][[H9021\|ךָ֣]] [[H5921A\|עַל]][[H9014\|־]] [[H3409\|יָרֵ֣ךְ]] [[H1368\|גִּבּ֑וֹר]] [[H1935\|ה֝וֹדְ]][[H9021\|ךָ֗]] [[H9002\|וַ]][[H1926\|הֲדָרֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SOLOMON|SOLOMON]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.45.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.45.2|<< Psalms 45:2]]</td><td align="center" style="border:none;">[[Ps.45|Psalms 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.45.4|Psalms 45:4 >>]]</td></tr></table>
 

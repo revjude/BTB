@@ -1,8 +1,53 @@
+---
+title: 1 Samuel 17:58
+type: Verse
+kjv: "And Saul said to him, Whose son art thou, thou young man? And David answered, I am the son of thy servant Jesse the Bethlehemite."
+bsb: "“Whose son are you, young man?” asked Saul. “I am the son of your servant Jesse of Bethlehem,” David replied."
+hebrew: "וַיֹּ֤אמֶר אֵלָיו֙ שָׁא֔וּל בֶּן־ מִ֥י אַתָּ֖ה הַנָּ֑עַר וַיֹּ֣אמֶר דָּוִ֔ד בֶּֽן־ עַבְדְּךָ֥ יִשַׁ֖י בֵּ֥ית הַלַּחְמִֽי׃"
+pericope: "[[1Sam.17.38 David Slays Goliath|David Slays Goliath]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H7586G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H4310]]"
+- "[[H0859A]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H1732]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H3448]]"
+- "[[H1022]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 17:58**<big><big>[[1Sam.17.38 David Slays Goliath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul said to him, Whose son [art] thou, [thou] young man? And David answered, [I am] the son of thy servant Jesse the Bethlehemite.
 <small><sub>**BSB:**</sub></small>
 “Whose son are you, young man?” asked Saul. “I am the son of your servant Jesse of Bethlehem,” David replied.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H7586G\|שָׁא֔וּל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H4310\|מִ֥י]] [[H0859A\|אַתָּ֖ה]] [[H9009\|הַ]][[H5288\|נָּ֑עַר]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H1732\|דָּוִ֔ד]] [[H1121A\|בֶּֽן]][[H9014\|־]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֥]] [[H3448\|יִשַׁ֖י]] [[H1022\|בֵּ֥ית]] [[H9009\|הַ]][[H1022\|לַּחְמִֽי]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.58|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.57|<< 1 Samuel 17:57]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.1|1 Samuel 18:1 >>]]</td></tr></table>
 

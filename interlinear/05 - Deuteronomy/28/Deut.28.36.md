@@ -1,8 +1,82 @@
+---
+title: Deuteronomy 28:36
+type: Verse
+kjv: "The LORD shall bring thee, and thy king which thou shalt set over thee, unto a nation which neither thou nor thy fathers have known; and there shalt thou serve other gods, wood and stone."
+bsb: "The LORD will bring you and the king you appoint to a nation neither you nor your fathers have known, and there you will worship other gods—gods of wood and stone."
+hebrew: "יוֹלֵ֨ךְ יְהוָ֜ה אֹֽתְךָ֗ וְאֶֽת־ מַלְכְּךָ֙ אֲשֶׁ֣ר תָּקִ֣ים עָלֶ֔יךָ אֶל־ גּ֕וֹי אֲשֶׁ֥ר לֹא־ יָדַ֖עְתָּ אַתָּ֣ה וַאֲבֹתֶ֑יךָ וְעָבַ֥דְתָּ שָּׁ֛ם אֱלֹהִ֥ים אֲחֵרִ֖ים עֵ֥ץ וָאָֽבֶן׃"
+pericope: "[[Deut.28.15 The Curses of Disobedience|The Curses of Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CAPTIVITY|CAPTIVITY]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic STONES|STONES]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1980J]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H6965I]]"
+- "[[H5921A]]"
+- "[[H0413]]"
+- "[[H1471A]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H0859A]]"
+- "[[H0001G]]"
+- "[[H9001]]"
+- "[[H5647H]]"
+- "[[H8033G]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H6086G]]"
+- "[[H0068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:36**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD shall bring thee, and thy king which thou shalt set over thee, unto a nation which neither thou nor thy fathers have known; and there shalt thou serve other gods, wood and stone.
 <small><sub>**BSB:**</sub></small>
 The LORD will bring you and the king you appoint to a nation neither you nor your fathers have known, and there you will worship other gods—gods of wood and stone.
+<small><sub>**Hebrew:**</sub></small>
+[[H1980J\|יוֹלֵ֨ךְ]] [[H3068G\|יְהוָ֜ה]] [[H0853\|אֹֽתְ]][[H9031\|ךָ֗]] [[H9002\|וְ]][[H0853\|אֶֽת]][[H9014\|־]] [[H4428G\|מַלְכְּ]][[H9021\|ךָ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6965I\|תָּקִ֣ים]] [[H5921A\|עָלֶ֔י]][[H9031\|ךָ]] [[H0413\|אֶל]][[H9014\|־]] [[H1471A\|גּ֕וֹי]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹא]][[H9014\|־]] [[H3045\|יָדַ֖עְתָּ]] [[H0859A\|אַתָּ֣ה]] [[H9002\|וַ]][[H0001G\|אֲבֹתֶ֑י]][[H9021\|ךָ]] [[H9001\|וְ]][[H5647H\|עָבַ֥דְתָּ]] [[H8033G\|שָּׁ֛ם]] [[H0430\|אֱלֹהִ֥ים]] [[H0312\|אֲחֵרִ֖ים]] [[H6086G\|עֵ֥ץ]] [[H9002\|וָ]][[H0068G\|אָֽבֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CAPTIVITY|CAPTIVITY]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic STONES|STONES]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.35|<< Deuteronomy 28:35]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.37|Deuteronomy 28:37 >>]]</td></tr></table>
 

@@ -1,10 +1,63 @@
+---
+title: John 13:2
+type: Verse
+kjv: "And supper being ended, the devil having now put into the heart of Judas Iscariot, Simon’s son, to betray him;"
+bsb: "The evening meal was underway, and the devil had already put into the heart of Judas, the son of Simon Iscariot, to betray Jesus."
+greek: "καὶ δείπνου γινομένου, τοῦ διαβόλου ἤδη βεβληκότος εἰς τὴν καρδίαν ἵνα παραδοῖ αὐτὸν Ἰούδας Σίμωνος Ἰσκαριώτου,"
+pericope: "[[John.13.1 Jesus Washes His Disciples’ Feet|Jesus Washes His Disciples’ Feet]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic SIMON|SIMON]]"
+- "[[topic TRAITOR|TRAITOR]]"
+strongs:
+- "[[G2532]]"
+- "[[G1173]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G1228]]"
+- "[[G2235]]"
+- "[[G0906H]]"
+- "[[G1519]]"
+- "[[G2588]]"
+- "[[G2443]]"
+- "[[G3860]]"
+- "[[G0846]]"
+- "[[G2455H]]"
+- "[[G4613L]]"
+- "[[G2469]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+---
+
 **John 13:2**<big><big>[[John.13.1 Jesus Washes His Disciples’ Feet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And supper being ended, the devil having now put into the heart of Judas Iscariot, Simon’s [son], to betray him;
 <small><sub>**BSB:**</sub></small>
 The evening meal was underway, and the devil had already put into the heart of Judas, the son of Simon Iscariot, to betray Jesus.
-<small><sub>**Literal:**</sub></small>
-And supper taking place, the devil already having put into the heart that he may betray Him Judas [son] of Simon Iscariot<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.1|<< John 13:1]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.3|John 13:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1173\|δείπνου]]  [[G1096\|γινομένου,]]  [[G3588\|τοῦ]]  [[G1228\|διαβόλου]]  [[G2235\|ἤδη]]  [[G0906H\|βεβληκότος]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2588\|καρδίαν]]  [[G2443\|ἵνα]]  [[G3860\|παραδοῖ]]  [[G0846\|αὐτὸν]]  [[G2455H\|Ἰούδας]]  [[G4613L\|Σίμωνος]]  [[G2469\|Ἰσκαριώτου,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]] • [[topic HEART|HEART]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic SATAN|SATAN]] • [[topic SIMON|SIMON]] • [[topic TRAITOR|TRAITOR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.1|<< John 13:1]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.3|John 13:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

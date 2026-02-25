@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Benjamin and the Silver Cup
+type: Pericope
 pericope: "[[Gen.44.1 Benjamin and the Silver Cup|Benjamin and the Silver Cup]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 44
 book/chapter: "[[Gen.44|Genesis 44]]"
-genre:
+chronological_order: 86
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 17
 verses:
 - "[[Gen.44.1]]"
 - "[[Gen.44.2]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Gen.44.17]]"
 ---
 
-[[Gen.44|Genesis 44:1 - Genesis 44:17]]
+<small>[[Gen.44|Genesis 44:1-17]]</small>
 *Benjamin and the Silver Cup*
 
 [[Gen.44.1|1]] And he commanded the steward of his house, saying, Fill the men’s sacks \[with\] food, as much as they can carry, and put every man’s money in his sack’s mouth.

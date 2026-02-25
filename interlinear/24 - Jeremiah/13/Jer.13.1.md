@@ -1,8 +1,70 @@
+---
+title: Jeremiah 13:1
+type: Verse
+kjv: "Thus saith the LORD unto me, Go and get thee a linen girdle, and put it upon thy loins, and put it not in water."
+bsb: "This is what the LORD said to me: “Go and buy yourself a linen loincloth and put it around your waist, but do not let it touch water.”"
+hebrew: "כֹּֽה־ אָמַ֨ר יְהוָ֜ה אֵלַ֗י הָל֞וֹךְ וְקָנִ֤יתָ לְּךָ֙ אֵז֣וֹר פִּשְׁתִּ֔ים וְשַׂמְתּ֖וֹ עַל־ מָתְנֶ֑יךָ וּבַמַּ֖יִם לֹ֥א תְבִאֵֽהוּ׃"
+pericope: "[[Jer.13.1 The Linen Loincloth|The Linen Loincloth]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 13
+book/chapter: "[[Jer.13|Jeremiah 13]]"
+chronological_order: 730
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EUPHRATES|EUPHRATES]]"
+- "[[topic GIRDLE|GIRDLE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H1980G]]"
+- "[[H9001]]"
+- "[[H7069]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0232]]"
+- "[[H6593]]"
+- "[[H7760H]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H4975]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H4325G]]"
+- "[[H3808]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 13:1**<big><big>[[Jer.13.1 The Linen Loincloth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD unto me, Go and get thee a linen girdle, and put it upon thy loins, and put it not in water.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD said to me: “Go and buy yourself a linen loincloth and put it around your waist, but do not let it touch water.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֨ר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֵלַ֗]][[H9030\|י]] [[H1980G\|הָל֞וֹךְ]] [[H9001\|וְ]][[H7069\|קָנִ֤יתָ]] [[H9005\|לְּ]][[H9031\|ךָ֙]] [[H0232\|אֵז֣וֹר]] [[H6593\|פִּשְׁתִּ֔ים]] [[H9001\|וְ]][[H7760H\|שַׂמְתּ֖]][[H9033\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H4975\|מָתְנֶ֑י]][[H9021\|ךָ]] [[H9002\|וּ]][[H9003\|בַ]][[H4325G\|מַּ֖יִם]] [[H3808\|לֹ֥א]] [[H0935G\|תְבִאֵֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EUPHRATES|EUPHRATES]] • [[topic GIRDLE|GIRDLE]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic PROPHETS|PROPHETS]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.13.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.12.17|<< Jeremiah 12:17]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.13.2|Jeremiah 13:2 >>]]</td></tr></table>
 

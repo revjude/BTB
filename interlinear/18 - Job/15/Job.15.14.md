@@ -1,8 +1,52 @@
+---
+title: Job 15:14
+type: Verse
+kjv: "What is man, that he should be clean? and he which is born of a woman, that he should be righteous?"
+bsb: "What is man, that he should be pure, or one born of woman, that he should be righteous?"
+hebrew: "מָֽה־ אֱנ֥וֹשׁ כִּֽי־ יִזְכֶּ֑ה וְכִֽי־ יִ֝צְדַּ֗ק יְל֣וּד אִשָּֽׁה׃"
+pericope: "[[Job.15.1 Eliphaz：Job Does Not Fear God|Eliphaz：Job Does Not Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 15
+book/chapter: "[[Job.15|Job 15]]"
+chronological_order: 26
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic MAN|MAN]]"
+strongs:
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H0582]]"
+- "[[H3588A]]"
+- "[[H2135]]"
+- "[[H9002]]"
+- "[[H6663]]"
+- "[[H3205]]"
+- "[[H0802G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 15:14**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What [is] man, that he should be clean? and [he which is] born of a woman, that he should be righteous?
 <small><sub>**BSB:**</sub></small>
 What is man, that he should be pure, or one born of woman, that he should be righteous?
+<small><sub>**Hebrew:**</sub></small>
+[[H4100\|מָֽה]][[H9014\|־]] [[H0582\|אֱנ֥וֹשׁ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2135\|יִזְכֶּ֑ה]] [[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H6663\|יִ֝צְדַּ֗ק]] [[H3205\|יְל֣וּד]] [[H0802G\|אִשָּֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic MAN|MAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.13|<< Job 15:13]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.15|Job 15:15 >>]]</td></tr></table>
 

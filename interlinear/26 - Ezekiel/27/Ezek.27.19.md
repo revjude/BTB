@@ -1,8 +1,67 @@
+---
+title: Ezekiel 27:19
+type: Verse
+kjv: "Dan also and Javan going to and fro occupied in thy fairs: bright iron, cassia, and calamus, were in thy market."
+bsb: "and casks of wine from Izal for your wares. Wrought iron, cassia, and sweet cane were exchanged for your merchandise."
+hebrew: "וְדָ֤ן וְיָוָן֙ מְאוּזָּ֔ל בְּעִזְבוֹנַ֖יִךְ נָתָ֑נּוּ בַּרְזֶ֤ל עָשׁוֹת֙ קִדָּ֣ה וְקָנֶ֔ה בְּמַעֲרָבֵ֖ךְ הָיָֽה׃"
+pericope: "[[Ezek.27.1 A Lament for Tyre|A Lament for Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 27
+book/chapter: "[[Ezek.27|Ezekiel 27]]"
+chronological_order: 818
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CALAMUS|CALAMUS]]"
+- "[[topic CASSIA|CASSIA]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic DAN|DAN]]"
+- "[[topic IMPORTS|IMPORTS]]"
+- "[[topic IRON|IRON]]"
+- "[[topic JAVAN|JAVAN]]"
+- "[[topic MARKET|MARKET]]"
+- "[[topic VEDAN|VEDAN]]"
+strongs:
+- "[[H2051]]"
+- "[[H9002]]"
+- "[[H3120H]]"
+- "[[H9006]]"
+- "[[H0187H]]"
+- "[[H9003]]"
+- "[[H5801]]"
+- "[[H9022]]"
+- "[[H5414G]]"
+- "[[H1270]]"
+- "[[H6219]]"
+- "[[H6916]]"
+- "[[H7070L]]"
+- "[[H4627]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 27:19**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Dan also and Javan going to and fro occupied in thy fairs: bright iron, cassia, and calamus, were in thy market.
 <small><sub>**BSB:**</sub></small>
 and casks of wine from Izal for your wares. Wrought iron, cassia, and sweet cane were exchanged for your merchandise.
+<small><sub>**Hebrew:**</sub></small>
+[[H2051\|וְדָ֤ן]] [[H9002\|וְ]][[H3120H\|יָוָן֙]] [[H9006\|מְ]][[H0187H\|אוּזָּ֔ל]] [[H9003\|בְּ]][[H5801\|עִזְבוֹנַ֖יִ]][[H9022\|ךְ]] [[H5414G\|נָתָ֑נּוּ]] [[H1270\|בַּרְזֶ֤ל]] [[H6219\|עָשׁוֹת֙]] [[H6916\|קִדָּ֣ה]] [[H9002\|וְ]][[H7070L\|קָנֶ֔ה]] [[H9003\|בְּ]][[H4627\|מַעֲרָבֵ֖]][[H9022\|ךְ]] [[H1961\|הָיָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALAMUS|CALAMUS]] • [[topic CASSIA|CASSIA]] • [[topic COMMERCE|COMMERCE]] • [[topic DAN|DAN]] • [[topic IMPORTS|IMPORTS]] • [[topic IRON|IRON]] • [[topic JAVAN|JAVAN]] • [[topic MARKET|MARKET]] • [[topic VEDAN|VEDAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.18|<< Ezekiel 27:18]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.20|Ezekiel 27:20 >>]]</td></tr></table>
 

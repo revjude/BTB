@@ -1,8 +1,63 @@
+---
+title: 1 Chronicles 16:1
+type: Verse
+kjv: "So they brought the ark of God, and set it in the midst of the tent that David had pitched for it: and they offered burnt sacrifices and peace offerings before God."
+bsb: "So they brought the ark of God and placed it inside the tent that David had pitched for it. And they presented burnt offerings and peace offerings before God."
+hebrew: "וַיָּבִ֙יאוּ֙ אֶת־ אֲר֣וֹן הָֽאֱלֹהִ֔ים וַיַּצִּ֣יגוּ אֹת֔וֹ בְּת֣וֹךְ הָאֹ֔הֶל אֲשֶׁ֥ר נָֽטָה־ ל֖וֹ דָּוִ֑יד וַיַּקְרִ֛יבוּ עֹל֥וֹת וּשְׁלָמִ֖ים לִפְנֵ֥י הָאֱלֹהִֽים׃"
+pericope: "[[1Chr.16.1 A Tent for the Ark|A Tent for the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 16
+book/chapter: "[[1Chr.16|1 Chronicles 16]]"
+chronological_order: 397
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0727]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H3322]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H0168G]]"
+- "[[H0834A]]"
+- "[[H5186]]"
+- "[[H9005]]"
+- "[[H1732]]"
+- "[[H7126H]]"
+- "[[H5930A]]"
+- "[[H9002]]"
+- "[[H8002]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 16:1**<big><big>[[1Chr.16.1 A Tent for the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they brought the ark of God, and set it in the midst of the tent that David had pitched for it: and they offered burnt sacrifices and peace offerings before God.
 <small><sub>**BSB:**</sub></small>
 So they brought the ark of God and placed it inside the tent that David had pitched for it. And they presented burnt offerings and peace offerings before God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935P\|יָּבִ֙יאוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲר֣וֹן]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֔ים]] [[H9001\|וַ]][[H3322\|יַּצִּ֣יגוּ]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H9009\|הָ]][[H0168G\|אֹ֔הֶל]] [[H0834A\|אֲשֶׁ֥ר]] [[H5186\|נָֽטָה]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H1732\|דָּוִ֑יד]] [[H9001\|וַ]][[H7126H\|יַּקְרִ֛יבוּ]] [[H5930A\|עֹל֥וֹת]] [[H9002\|וּ]][[H8002\|שְׁלָמִ֖ים]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הָ]][[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.29|<< 1 Chronicles 15:29]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.2|1 Chronicles 16:2 >>]]</td></tr></table>
 

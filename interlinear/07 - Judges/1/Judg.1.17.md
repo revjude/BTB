@@ -1,8 +1,65 @@
+---
+title: Judges 1:17
+type: Verse
+kjv: "And Judah went with Simeon his brother, and they slew the Canaanites that inhabited Zephath, and utterly destroyed it. And the name of the city was called Hormah."
+bsb: "Then the men of Judah went with their brothers the Simeonites, attacked the Canaanites living in Zephath, and devoted the city to destruction. So it was called Hormah."
+hebrew: "וַיֵּ֤לֶךְ יְהוּדָה֙ אֶת־ שִׁמְע֣וֹן אָחִ֔יו וַיַּכּ֕וּ אֶת־ הַֽכְּנַעֲנִ֖י יוֹשֵׁ֣ב צְפַ֑ת וַיַּחֲרִ֣ימוּ אוֹתָ֔הּ וַיִּקְרָ֥א אֶת־ שֵׁם־ הָעִ֖יר חָרְמָֽה׃"
+pericope: "[[Judg.1.8 The Capture of Jerusalem and Hebron|The Capture of Jerusalem and Hebron]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 1
+book/chapter: "[[Judg.1|Judges 1]]"
+chronological_order: 255
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic HORMAH|HORMAH]]"
+- "[[topic KENITES|KENITES]]"
+- "[[topic SIMEON|SIMEON]]"
+- "[[topic ZEPHATH|ZEPHATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H3063G]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H8095G]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H3669A]]"
+- "[[H3427]]"
+- "[[H6857]]"
+- "[[H2763A]]"
+- "[[H9034]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H5892B]]"
+- "[[H2767]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 1:17**<big><big>[[Judg.1.8 The Capture of Jerusalem and Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Judah went with Simeon his brother, and they slew the Canaanites that inhabited Zephath, and utterly destroyed it. And the name of the city was called Hormah.
 <small><sub>**BSB:**</sub></small>
 Then the men of Judah went with their brothers the Simeonites, attacked the Canaanites living in Zephath, and devoted the city to destruction. So it was called Hormah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּ֤לֶךְ]] [[H3063G\|יְהוּדָה֙]] [[H0854\|אֶת]][[H9014\|־]] [[H8095G\|שִׁמְע֣וֹן]] [[H0251G\|אָחִ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H5221\|יַּכּ֕וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H3669A\|כְּנַעֲנִ֖י]] [[H3427\|יוֹשֵׁ֣ב]] [[H6857\|צְפַ֑ת]] [[H9001\|וַ]][[H2763A\|יַּחֲרִ֣ימוּ]] [[H0853\|אוֹתָ֔]][[H9034\|הּ]] [[H9001\|וַ]][[H7121H\|יִּקְרָ֥א]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שֵׁם]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H2767\|חָרְמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic HORMAH|HORMAH]] • [[topic KENITES|KENITES]] • [[topic SIMEON|SIMEON]] • [[topic ZEPHATH|ZEPHATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.16|<< Judges 1:16]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.18|Judges 1:18 >>]]</td></tr></table>
 

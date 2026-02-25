@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Birth of Samson
+type: Pericope
 pericope: "[[Judg.13.1 The Birth of Samson|The Birth of Samson]]"
-verse_count: 25
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 13
 book/chapter: "[[Judg.13|Judges 13]]"
-genre:
+chronological_order: 267
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 25
 verses:
 - "[[Judg.13.1]]"
 - "[[Judg.13.2]]"
@@ -43,7 +50,7 @@ verses:
 - "[[Judg.13.25]]"
 ---
 
-[[Judg.13|Judges 13:1 - Judges 13:25]]
+<small>[[Judg.13|Judges 13:1-25]]</small>
 *The Birth of Samson*
 
 [[Judg.13.1|1]] And the children of Israel did evil again in the sight of the LORD; and the LORD delivered them into the hand of the Philistines forty years.

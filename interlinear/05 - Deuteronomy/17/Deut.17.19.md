@@ -1,8 +1,78 @@
+---
+title: Deuteronomy 17:19
+type: Verse
+kjv: "And it shall be with him, and he shall read therein all the days of his life: that he may learn to fear the LORD his God, to keep all the words of this law and these statutes, to do them:"
+bsb: "It is to remain with him, and he is to read from it all the days of his life, so that he may learn to fear the LORD his God by carefully observing all the words of this instruction and these statutes."
+hebrew: "וְהָיְתָ֣ה עִמּ֔וֹ וְקָ֥רָא ב֖וֹ כָּל־ יְמֵ֣י חַיָּ֑יו לְמַ֣עַן יִלְמַ֗ד לְיִרְאָה֙ אֶת־ יְהוָ֣ה אֱלֹהָ֔יו לִ֠שְׁמֹר אֶֽת־ כָּל־ דִּבְרֵ֞י הַתּוֹרָ֥ה הַזֹּ֛את וְאֶת־ הַחֻקִּ֥ים הָאֵ֖לֶּה לַעֲשֹׂתָֽם׃"
+pericope: "[[Deut.17.14 Guidelines for a King|Guidelines for a King]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 17
+book/chapter: "[[Deut.17|Deuteronomy 17]]"
+chronological_order: 213
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CONSTITUTION|CONSTITUTION]]"
+- "[[topic KING|KING]]"
+- "[[topic LAW|LAW]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H7121J]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H2416E]]"
+- "[[H9023]]"
+- "[[H4616]]"
+- "[[H3925H]]"
+- "[[H9005]]"
+- "[[H3372H]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H8104G]]"
+- "[[H1697G]]"
+- "[[H9009]]"
+- "[[H8451]]"
+- "[[H2063]]"
+- "[[H9002]]"
+- "[[H2706G]]"
+- "[[H0428]]"
+- "[[H6213A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 17:19**<big><big>[[Deut.17.14 Guidelines for a King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be with him, and he shall read therein all the days of his life: that he may learn to fear the LORD his God, to keep all the words of this law and these statutes, to do them:
 <small><sub>**BSB:**</sub></small>
 It is to remain with him, and he is to read from it all the days of his life, so that he may learn to fear the LORD his God by carefully observing all the words of this instruction and these statutes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיְתָ֣ה]] [[H5973A\|עִמּ֔]][[H9033\|וֹ]] [[H9001\|וְ]][[H7121J\|קָ֥רָא]] [[H9003\|ב֖]][[H9033\|וֹ]] [[H3605\|כָּל]][[H9014\|־]] [[H3117G\|יְמֵ֣י]] [[H2416E\|חַיָּ֑י]][[H9023\|ו]] [[H4616\|לְמַ֣עַן]] [[H3925H\|יִלְמַ֗ד]] [[H9005\|לְ]][[H3372H\|יִרְאָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהָ֔י]][[H9023\|ו]] [[H9005\|לִ֠]][[H8104G\|שְׁמֹר]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1697G\|דִּבְרֵ֞י]] [[H9009\|הַ]][[H8451\|תּוֹרָ֥ה]] [[H9009\|הַ]][[H2063\|זֹּ֛את]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2706G\|חֻקִּ֥ים]] [[H9009\|הָ]][[H0428\|אֵ֖לֶּה]] [[H9005\|לַ]][[H6213A\|עֲשֹׂתָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSTITUTION|CONSTITUTION]] • [[topic KING|KING]] • [[topic LAW|LAW]] • [[topic RULERS|RULERS]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.17.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.17.18|<< Deuteronomy 17:18]]</td><td align="center" style="border:none;">[[Deut.17|Deuteronomy 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.17.20|Deuteronomy 17:20 >>]]</td></tr></table>
 

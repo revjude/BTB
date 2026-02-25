@@ -1,10 +1,57 @@
+---
+title: 2 Corinthians 11:21
+type: Verse
+kjv: "I speak as concerning reproach, as though we had been weak. Howbeit whereinsoever any is bold, (I speak foolishly,) I am bold also."
+bsb: "To my shame I concede that we were too weak for that! Speaking as a fool, however, I can match what anyone else dares to boast about."
+greek: "κατὰ ἀτιμίαν λέγω, ὡς ὅτι ἡμεῖς ἠσθενήκαμεν· ἐν ᾧ δ᾽ ἄν τις τολμᾷ, ἐν ἀφροσύνῃ λέγω, τολμῶ κἀγώ. κἀγώ."
+pericope: "[[2Cor.11.16 Paul’s Suffering and Service|Paul’s Suffering and Service]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 11
+book/chapter: "[[2Cor.11|2 Corinthians 11]]"
+chronological_order: 1084
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G2596]]"
+- "[[G0819]]"
+- "[[G3004G]]"
+- "[[G5613]]"
+- "[[G3754G]]"
+- "[[G3165]]"
+- "[[G0770G]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G1161]]"
+- "[[G0302]]"
+- "[[G5100]]"
+- "[[G5111]]"
+- "[[G0877]]"
+- "[[G1473]]"
+- "[[G2532]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Corinthians 11:21**<big><big>[[2Cor.11.16 Paul’s Suffering and Service|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I speak as concerning reproach, as though we had been weak. Howbeit whereinsoever any is bold, (I speak foolishly,) I am bold also.
 <small><sub>**BSB:**</sub></small>
 To my shame I concede that we were too weak for that! Speaking as a fool, however, I can match what anyone else dares to boast about.
-<small><sub>**Literal:**</sub></small>
-As to dishonor I speak, as that we ourselves have been weak! In whatever however maybe anyone may be daring — in foolishness I speak — am daring I myself also.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.20|<< 2 Corinthians 11:20]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.22|2 Corinthians 11:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2596\|κατὰ]]  [[G0819\|ἀτιμίαν]]  [[G3004G\|λέγω,]]  [[G5613\|ὡς]]  [[G3754G\|ὅτι]]  [[G3165\|ἡμεῖς]]  [[G0770G\|ἠσθενήκαμεν·]]  [[G1722\|ἐν]]  [[G3739\|ᾧ]]  [[G1161\|δ᾽]]  [[G0302\|ἄν]]  [[G5100\|τις]]  [[G5111\|τολμᾷ,]]  [[G1722\|ἐν]]  [[G0877\|ἀφροσύνῃ]]  [[G3004G\|λέγω,]]  [[G5111\|τολμῶ]]  [[G1473\|κἀγώ.]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.20|<< 2 Corinthians 11:20]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.22|2 Corinthians 11:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,57 @@
+---
+title: Revelation 16:11
+type: Verse
+kjv: "And blasphemed the God of heaven because of their pains and their sores, and repented not of their deeds."
+bsb: "and curse the God of heaven for their pains and sores. Yet they did not repent of their deeds."
+greek: "καὶ ἐβλασφήμησαν τὸν θεὸν τοῦ οὐρανοῦ ἐκ τῶν πόνων αὐτῶν καὶ ἐκ τῶν ἑλκῶν αὐτῶν καὶ οὐ μετενόησαν ἐκ τῶν ἔργων αὐτῶν.¶"
+pericope: "[[Rev.16.1 The First Six Bowls of Wrath|The First Six Bowls of Wrath]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 16
+book/chapter: "[[Rev.16|Revelation 16]]"
+chronological_order: 1183
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G0987]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3772]]"
+- "[[G1537]]"
+- "[[G4192]]"
+- "[[G0846]]"
+- "[[G1668]]"
+- "[[G3756]]"
+- "[[G3340]]"
+- "[[G2041]]"
+texts:
+- NKO
+---
+
 **Revelation 16:11**<big><big>[[Rev.16.1 The First Six Bowls of Wrath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And blasphemed the God of heaven because of their pains and their sores, and repented not of their deeds.
 <small><sub>**BSB:**</sub></small>
 and curse the God of heaven for their pains and sores. Yet they did not repent of their deeds.
-<small><sub>**Literal:**</sub></small>
-and they blasphemed the God <the> of heaven on account of the distresses of them and on account of the sores of them and not they did repent of the works of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.10|<< Revelation 16:10]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.12|Revelation 16:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0987\|ἐβλασφήμησαν]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G4192\|πόνων]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G1668\|ἑλκῶν]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G3340\|μετενόησαν]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G2041\|ἔργων]]  [[G0846\|αὐτῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANIMALS|ANIMALS]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic TEMPLE|TEMPLE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.10|<< Revelation 16:10]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.12|Revelation 16:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,69 @@
+---
+title: Hebrews 5:12
+type: Verse
+kjv: "For when for the time ye ought to be teachers, ye have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat."
+bsb: "Although by this time you ought to be teachers, you need someone to reteach you the basic principles of God’s word. You need milk, not solid food!"
+greek: "καὶ γὰρ ὀφείλοντες εἶναι διδάσκαλοι διὰ τὸν χρόνον, πάλιν χρείαν ἔχετε τοῦ διδάσκειν ὑμᾶς τινὰ τὰ στοιχεῖα τῆς ἀρχῆς τῶν λογίων τοῦ θεοῦ καὶ γεγόνατε χρείαν ἔχοντες γάλακτος καὶ οὐ στερεᾶς τροφῆς."
+pericope: "[[Heb.5.11 Milk and Solid Food|Milk and Solid Food]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 5
+book/chapter: "[[Heb.5|Hebrews 5]]"
+chronological_order: 1144
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic MILK|MILK]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ORACLE|ORACLE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G1063]]"
+- "[[G3784]]"
+- "[[G1511]]"
+- "[[G1320]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G5550]]"
+- "[[G3825]]"
+- "[[G5532]]"
+- "[[G2192]]"
+- "[[G1321]]"
+- "[[G4771]]"
+- "[[G5100]]"
+- "[[G4747]]"
+- "[[G0746]]"
+- "[[G3051]]"
+- "[[G2316]]"
+- "[[G1096]]"
+- "[[G1051]]"
+- "[[G3756]]"
+- "[[G4731]]"
+- "[[G5160]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Hebrews 5:12**<big><big>[[Heb.5.11 Milk and Solid Food|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For when for the time ye ought to be teachers, ye have need that one teach you again which [be] the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat.
 <small><sub>**BSB:**</sub></small>
 Although by this time you ought to be teachers, you need someone to reteach you the basic principles of God’s word. You need milk, not solid food!
-<small><sub>**Literal:**</sub></small>
-Even for you ought to be teachers by the time, again need of you have [one] to teach you what [is] the principles of the beginning of the oracles <the> of God and you have become need [those] having of milk and not of solid food.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.5.11|<< Hebrews 5:11]]</td><td align="center" style="border:none;">[[Heb.5|Hebrews 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.5.13|Hebrews 5:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1063\|γὰρ]]  [[G3784\|ὀφείλοντες]]  [[G1511\|εἶναι]]  [[G1320\|διδάσκαλοι]]  [[G1223\|διὰ]]  [[G3588\|τὸν]]  [[G5550\|χρόνον,]]  [[G3825\|πάλιν]]  [[G5532\|χρείαν]]  [[G2192\|ἔχετε]]  [[G3588\|τοῦ]]  [[G1321\|διδάσκειν]]  [[G4771\|ὑμᾶς]]  [[G5100\|τινὰ]]  [[G3588\|τὰ]]  [[G4747\|στοιχεῖα]]  [[G3588\|τῆς]]  [[G0746\|ἀρχῆς]]  [[G3588\|τῶν]]  [[G3051\|λογίων]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G1096\|γεγόνατε]]  [[G5532\|χρείαν]]  [[G2192\|ἔχοντες]]  [[G1051\|γάλακτος]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G4731\|στερεᾶς]]  [[G5160\|τροφῆς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLINDNESS|BLINDNESS]] • [[topic MILK|MILK]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ORACLE|ORACLE]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.5.11|<< Hebrews 5:11]]</td><td align="center" style="border:none;">[[Heb.5|Hebrews 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.5.13|Hebrews 5:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

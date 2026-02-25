@@ -1,8 +1,51 @@
+---
+title: Isaiah 33:11
+type: Verse
+kjv: "Ye shall conceive chaff, ye shall bring forth stubble: your breath, as fire, shall devour you."
+bsb: "You conceive chaff; you give birth to stubble. Your breath is a fire that will consume you."
+hebrew: "תַּהֲר֥וּ חֲשַׁ֖שׁ תֵּ֣לְדוּ קַ֑שׁ רוּחֲכֶ֕ם אֵ֖שׁ תֹּאכַלְכֶֽם׃"
+pericope: "[[Isa.33.1 The LORD Is Exalted|The LORD Is Exalted]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 33
+book/chapter: "[[Isa.33|Isaiah 33]]"
+chronological_order: 676
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2029]]"
+- "[[H2842]]"
+- "[[H3205]]"
+- "[[H7179]]"
+- "[[H7307H]]"
+- "[[H9026]]"
+- "[[H0784]]"
+- "[[H0398]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 33:11**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall conceive chaff, ye shall bring forth stubble: your breath, [as] fire, shall devour you.
 <small><sub>**BSB:**</sub></small>
 You conceive chaff; you give birth to stubble. Your breath is a fire that will consume you.
+<small><sub>**Hebrew:**</sub></small>
+[[H2029\|תַּהֲר֥וּ]] [[H2842\|חֲשַׁ֖שׁ]] [[H3205\|תֵּ֣לְדוּ]] [[H7179\|קַ֑שׁ]] [[H7307H\|רוּחֲ]][[H9026\|כֶ֕ם]] [[H0784\|אֵ֖שׁ]] [[H0398\|תֹּאכַלְ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.10|<< Isaiah 33:10]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.12|Isaiah 33:12 >>]]</td></tr></table>
 

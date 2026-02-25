@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Plea to Return
+type: Pericope
 pericope: "[[Jer.4.1 A Plea to Return|A Plea to Return]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 4
 book/chapter: "[[Jer.4|Jeremiah 4]]"
-genre:
+chronological_order: 721
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 4
 verses:
 - "[[Jer.4.1]]"
 - "[[Jer.4.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Jer.4.4]]"
 ---
 
-[[Jer.4|Jeremiah 4:1 - Jeremiah 4:4]]
+<small>[[Jer.4|Jeremiah 4:1-4]]</small>
 *A Plea to Return*
 
 [[Jer.4.1|1]] If thou wilt return, O Israel, saith the LORD, return unto me: and if thou wilt put away thine abominations out of my sight, then shalt thou not remove.

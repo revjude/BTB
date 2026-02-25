@@ -1,8 +1,67 @@
+---
+title: Numbers 14:37
+type: Verse
+kjv: "Even those men that did bring up the evil report upon the land, died by the plague before the LORD."
+bsb: "those men who had brought out the bad report about the land—were struck down by a plague before the LORD."
+hebrew: "וַיָּמֻ֙תוּ֙ הָֽאֲנָשִׁ֔ים מוֹצִאֵ֥י דִבַּת־ הָאָ֖רֶץ רָעָ֑ה בַּמַּגֵּפָ֖ה לִפְנֵ֥י יְהוָֽה׃"
+pericope: "[[Num.14.36 The Plague on the Ten Spies|The Plague on the Ten Spies]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 14
+book/chapter: "[[Num.14|Numbers 14]]"
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H3318O]]"
+- "[[H1681]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H7451A]]"
+- "[[H9003]]"
+- "[[H4046]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 14:37**<big><big>[[Num.14.36 The Plague on the Ten Spies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even those men that did bring up the evil report upon the land, died by the plague before the LORD.
 <small><sub>**BSB:**</sub></small>
 those men who had brought out the bad report about the land—were struck down by a plague before the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4191\|יָּמֻ֙תוּ֙]] [[H9009\|הָֽ]][[H0582\|אֲנָשִׁ֔ים]] [[H3318O\|מוֹצִאֵ֥י]] [[H1681\|דִבַּת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H7451A\|רָעָ֑ה]] [[H9003\|בַּ]][[H4046\|מַּגֵּפָ֖ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MURMURING|MURMURING]] • [[topic PLAGUE|PLAGUE]] • [[topic REPROBACY|REPROBACY]] • [[topic SIN|SIN]] • [[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.36|<< Numbers 14:36]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.38|Numbers 14:38 >>]]</td></tr></table>
 

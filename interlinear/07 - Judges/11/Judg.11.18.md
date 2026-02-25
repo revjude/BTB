@@ -1,8 +1,69 @@
+---
+title: Judges 11:18
+type: Verse
+kjv: "Then they went along through the wilderness, and compassed the land of Edom, and the land of Moab, and came by the east side of the land of Moab, and pitched on the other side of Arnon, but came not within the border of Moab: for Arnon was the border of Moab."
+bsb: "Then Israel traveled through the wilderness and bypassed the lands of Edom and Moab. They came to the east side of the land of Moab and camped on the other side of the Arnon. But they did not enter the territory of Moab, since the Arnon was its border."
+hebrew: "וַיֵּ֣לֶךְ בַּמִּדְבָּ֗ר וַיָּ֜סָב אֶת־ אֶ֤רֶץ אֱדוֹם֙ וְאֶת־ אֶ֣רֶץ מוֹאָ֔ב וַיָּבֹ֤א מִמִּזְרַח־ שֶׁ֙מֶשׁ֙ לְאֶ֣רֶץ מוֹאָ֔ב וַֽיַּחֲנ֖וּן בְּעֵ֣בֶר אַרְנ֑וֹן וְלֹא־ בָ֙אוּ֙ בִּגְב֣וּל מוֹאָ֔ב כִּ֥י אַרְנ֖וֹן גְּב֥וּל מוֹאָֽב׃"
+pericope: "[[Judg.11.1 Jephthah Delivers Israel|Jephthah Delivers Israel]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 11
+book/chapter: "[[Judg.11|Judges 11]]"
+chronological_order: 265
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic JEPHTHAH|JEPHTHAH]]"
+- "[[topic MOABITES|MOABITES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H5437H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H0123G]]"
+- "[[H9002]]"
+- "[[H4124G]]"
+- "[[H0935G]]"
+- "[[H9006]]"
+- "[[H4217H]]"
+- "[[H8121]]"
+- "[[H9005]]"
+- "[[H2583]]"
+- "[[H9013]]"
+- "[[H5676G]]"
+- "[[H0769]]"
+- "[[H3808]]"
+- "[[H1366H]]"
+- "[[H3588A]]"
+- "[[H1366G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 11:18**<big><big>[[Judg.11.1 Jephthah Delivers Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they went along through the wilderness, and compassed the land of Edom, and the land of Moab, and came by the east side of the land of Moab, and pitched on the other side of Arnon, but came not within the border of Moab: for Arnon [was] the border of Moab.
 <small><sub>**BSB:**</sub></small>
 Then Israel traveled through the wilderness and bypassed the lands of Edom and Moab. They came to the east side of the land of Moab and camped on the other side of the Arnon. But they did not enter the territory of Moab, since the Arnon was its border.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980I\|יֵּ֣לֶךְ]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֗ר]] [[H9001\|וַ]][[H5437H\|יָּ֜סָב]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אֶ֤רֶץ]] [[H0123G\|אֱדוֹם֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H4124G\|מוֹאָ֔ב]] [[H9001\|וַ]][[H0935G\|יָּבֹ֤א]] [[H9006\|מִ]][[H4217H\|מִּזְרַח]][[H9014\|־]] [[H8121\|שֶׁ֙מֶשׁ֙]] [[H9005\|לְ]][[H0776G\|אֶ֣רֶץ]] [[H4124G\|מוֹאָ֔ב]] [[H9001\|וַֽ]][[H2583\|יַּחֲנ֖וּ]][[H9013\|ן]] [[H9003\|בְּ]][[H5676G\|עֵ֣בֶר]] [[H0769\|אַרְנ֑וֹן]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H0935G\|בָ֙אוּ֙]] [[H9003\|בִּ]][[H1366H\|גְב֣וּל]] [[H4124G\|מוֹאָ֔ב]] [[H3588A\|כִּ֥י]] [[H0769\|אַרְנ֖וֹן]] [[H1366G\|גְּב֥וּל]] [[H4124G\|מוֹאָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBASSADORS|AMBASSADORS]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic JEPHTHAH|JEPHTHAH]] • [[topic MOABITES|MOABITES]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.17|<< Judges 11:17]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.19|Judges 11:19 >>]]</td></tr></table>
 

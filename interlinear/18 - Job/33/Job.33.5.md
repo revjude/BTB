@@ -1,8 +1,49 @@
+---
+title: Job 33:5
+type: Verse
+kjv: "If thou canst answer me, set thy words in order before me, stand up."
+bsb: "Refute me if you can; prepare your case and confront me."
+hebrew: "אִם־ תּוּכַ֥ל הֲשִׁיבֵ֑נִי עֶרְכָ֥ה לְ֝פָנַ֗י הִתְיַצָּֽבָה׃"
+pericope: "[[Job.33.1 Elihu Rebukes Job|Elihu Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 33
+book/chapter: "[[Job.33|Job 33]]"
+chronological_order: 44
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3201]]"
+- "[[H7725M]]"
+- "[[H9030]]"
+- "[[H6186A]]"
+- "[[H9012]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H3320]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 33:5**<big><big>[[Job.33.1 Elihu Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou canst answer me, set [thy words] in order before me, stand up.
 <small><sub>**BSB:**</sub></small>
 Refute me if you can; prepare your case and confront me.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H3201\|תּוּכַ֥ל]] [[H7725M\|הֲשִׁיבֵ֑]][[H9030\|נִי]] [[H6186A\|עֶרְכָ֥]][[H9012\|ה]] [[H9005\|לְ֝]][[H6440G\|פָנַ֗]][[H9020\|י]] [[H3320\|הִתְיַצָּֽבָ]][[H9012\|ה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.33.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.4|<< Job 33:4]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.6|Job 33:6 >>]]</td></tr></table>
 

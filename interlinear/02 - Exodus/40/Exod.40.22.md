@@ -1,8 +1,65 @@
+---
+title: Exodus 40:22
+type: Verse
+kjv: "And he put the table in the tent of the congregation, upon the side of the tabernacle northward, without the vail."
+bsb: "Moses placed the table in the Tent of Meeting on the north side of the tabernacle, outside the veil."
+hebrew: "וַיִּתֵּ֤ן אֶת־ הַשֻּׁלְחָן֙ בְּאֹ֣הֶל מוֹעֵ֔ד עַ֛ל יֶ֥רֶךְ הַמִּשְׁכָּ֖ן צָפֹ֑נָה מִח֖וּץ לַפָּרֹֽכֶת׃"
+pericope: "[[Exod.40.1 Setting Up the Tabernacle|Setting Up the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 40
+book/chapter: "[[Exod.40|Exodus 40]]"
+chronological_order: 132
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7979]]"
+- "[[H9003]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H5921A]]"
+- "[[H3409]]"
+- "[[H4908]]"
+- "[[H6828G]]"
+- "[[H9011]]"
+- "[[H9006]]"
+- "[[H2351]]"
+- "[[H9005]]"
+- "[[H6532]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 40:22**<big><big>[[Exod.40.1 Setting Up the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he put the table in the tent of the congregation, upon the side of the tabernacle northward, without the vail.
 <small><sub>**BSB:**</sub></small>
 Moses placed the table in the Tent of Meeting on the north side of the tabernacle, outside the veil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414H\|יִּתֵּ֤ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7979\|שֻּׁלְחָן֙]] [[H9003\|בְּ]][[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֔ד]] [[H5921A\|עַ֛ל]] [[H3409\|יֶ֥רֶךְ]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּ֖ן]] [[H6828G\|צָפֹ֑נָ]][[H9011\|ה]] [[H9006\|מִ]][[H2351\|ח֖וּץ]] [[H9005\|לַ]][[H6532\|פָּרֹֽכֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.21|<< Exodus 40:21]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.23|Exodus 40:23 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: Lamentations 4:15
+type: Verse
+kjv: "They cried unto them, Depart ye; it is unclean; depart, depart, touch not: when they fled away and wandered, they said among the heathen, They shall no more sojourn there."
+bsb: "“Go away! Unclean!” men shouted at them. “Away, away! Do not touch us!” So they fled and wandered. Among the nations it was said, “They can stay here no longer.”"
+hebrew: "ס֣וּרוּ טָמֵ֞א קָ֣רְאוּ לָ֗מוֹ ס֤וּרוּ ס֙וּרוּ֙ אַל־ תִּגָּ֔עוּ כִּ֥י נָצ֖וּ גַּם־ נָ֑עוּ אָֽמְרוּ֙ בַּגּוֹיִ֔ם לֹ֥א יוֹסִ֖יפוּ לָגֽוּר׃ ס"
+pericope: "[[Lam.4.1 The Distress of Zion|The Distress of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 4
+book/chapter: "[[Lam.4|Lamentations 4]]"
+chronological_order: 779
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+strongs:
+- "[[H5493G]]"
+- "[[H2931]]"
+- "[[H7121I]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5060]]"
+- "[[H3588A]]"
+- "[[H5132A]]"
+- "[[H1571]]"
+- "[[H5128]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H3808]]"
+- "[[H3254G]]"
+- "[[H1481A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Lamentations 4:15**<big><big>[[Lam.4.1 The Distress of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They cried unto them, Depart ye; [it is] unclean; depart, depart, touch not: when they fled away and wandered, they said among the heathen, They shall no more sojourn [there].
 <small><sub>**BSB:**</sub></small>
 “Go away! Unclean!” men shouted at them. “Away, away! Do not touch us!” So they fled and wandered. Among the nations it was said, “They can stay here no longer.”
+<small><sub>**Hebrew:**</sub></small>
+[[H5493G\|ס֣וּרוּ]] [[H2931\|טָמֵ֞א]] [[H7121I\|קָ֣רְאוּ]] [[H9005\|לָ֗]][[H9038\|מוֹ]] [[H5493G\|ס֤וּרוּ]] [[H5493G\|ס֙וּרוּ֙]] [[H0408\|אַל]][[H9014\|־]] [[H5060\|תִּגָּ֔עוּ]] [[H3588A\|כִּ֥י]] [[H5132A\|נָצ֖וּ]] [[H1571\|גַּם]][[H9014\|־]] [[H5128\|נָ֑עוּ]] [[H0559\|אָֽמְרוּ֙]] [[H9003\|בַּ]][[H1471A\|גּוֹיִ֔ם]] [[H3808\|לֹ֥א]] [[H3254G\|יוֹסִ֖יפוּ]] [[H9005\|לָ]][[H1481A\|גֽוּר]][[H9016\|׃]] [[H9018\|ס]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.14|<< Lamentations 4:14]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.16|Lamentations 4:16 >>]]</td></tr></table>
 
@@ -24,7 +72,7 @@ They cried unto them, Depart ye; [it is] unclean; depart, depart, touch not: whe
 | among the nations  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1471A\|גּוֹיִ֔ם]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will increase  |**<big>&#8207;[[H3254G\|יוֹסִ֖יפוּ]]&#8207; </big>**| yo.Si.fu<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to sojourn  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H1481A\|גֽוּר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Gur<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to sojourn  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H1481A\|גֽוּר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Gur<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.14|<< Lamentations 4:14]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.16|Lamentations 4:16 >>]]</td></tr></table>
 
 

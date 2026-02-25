@@ -1,8 +1,64 @@
+---
+title: Genesis 31:40
+type: Verse
+kjv: "Thus I was; in the day the drought consumed me, and the frost by night; and my sleep departed from mine eyes."
+bsb: "As it was, the heat consumed me by day and the frost by night, and sleep fled from my eyes."
+hebrew: "הָיִ֧יתִי בַיּ֛וֹם אֲכָלַ֥נִי חֹ֖רֶב וְקֶ֣רַח בַּלָּ֑יְלָה וַתִּדַּ֥ד שְׁנָתִ֖י מֵֽעֵינָֽי׃"
+pericope: "[[Gen.31.22 Laban Pursues Jacob|Laban Pursues Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic DROUGHT|DROUGHT]]"
+- "[[topic FATHER-IN-LAW|FATHER-IN-LAW]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+strongs:
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H0398]]"
+- "[[H9030]]"
+- "[[H2721A]]"
+- "[[H9002]]"
+- "[[H7140]]"
+- "[[H3915]]"
+- "[[H9001]]"
+- "[[H5074]]"
+- "[[H8142]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H5869A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 31:40**<big><big>[[Gen.31.22 Laban Pursues Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Thus] I was; in the day the drought consumed me, and the frost by night; and my sleep departed from mine eyes.
 <small><sub>**BSB:**</sub></small>
 As it was, the heat consumed me by day and the frost by night, and sleep fled from my eyes.
+<small><sub>**Hebrew:**</sub></small>
+[[H1961\|הָיִ֧יתִי]] [[H9003\|בַ]][[H3117G\|יּ֛וֹם]] [[H0398\|אֲכָלַ֥]][[H9030\|נִי]] [[H2721A\|חֹ֖רֶב]] [[H9002\|וְ]][[H7140\|קֶ֣רַח]] [[H9003\|בַּ]][[H3915\|לָּ֑יְלָה]] [[H9001\|וַ]][[H5074\|תִּדַּ֥ד]] [[H8142\|שְׁנָתִ֖]][[H9020\|י]] [[H9006\|מֵֽ]][[H5869A\|עֵינָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHIDING|CHIDING]] • [[topic DISHONESTY|DISHONESTY]] • [[topic DROUGHT|DROUGHT]] • [[topic FATHER-IN-LAW|FATHER-IN-LAW]] • [[topic LABAN|LABAN]] • [[topic SHEPHERD|SHEPHERD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.39|<< Genesis 31:39]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.41|Genesis 31:41 >>]]</td></tr></table>
 

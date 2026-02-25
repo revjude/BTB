@@ -1,8 +1,75 @@
+---
+title: Exodus 4:18
+type: Verse
+kjv: "And Moses went and returned to Jethro his father in law, and said unto him, Let me go, I pray thee, and return unto my brethren which are in Egypt, and see whether they be yet alive. And Jethro said to Moses, Go in peace."
+bsb: "Then Moses went back to his father-in-law Jethro and said to him, “Please let me return to my brothers in Egypt to see if they are still alive.” “Go in peace,” Jethro replied."
+hebrew: "וַיֵּ֨לֶךְ מֹשֶׁ֜ה וַיָּ֣שָׁב׀ אֶל־ יֶ֣תֶר חֹֽתְנ֗וֹ וַיֹּ֤אמֶר לוֹ֙ אֵ֣לְכָה נָּ֗א וְאָשׁ֙וּבָה֙ אֶל־ אַחַ֣י אֲשֶׁר־ בְּמִצְרַ֔יִם וְאֶרְאֶ֖ה הַעוֹדָ֣ם חַיִּ֑ים וַיֹּ֧אמֶר יִתְר֛וֹ לְמֹשֶׁ֖ה לֵ֥ךְ לְשָׁלֽוֹם׃"
+pericope: "[[Exod.4.18 Moses Leaves for Egypt|Moses Leaves for Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 4
+book/chapter: "[[Exod.4|Exodus 4]]"
+chronological_order: 96
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic JETHRO|JETHRO]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H4872]]"
+- "[[H7725G]]"
+- "[[H9015]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3500L]]"
+- "[[H2859A]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H4994]]"
+- "[[H9002]]"
+- "[[H0251G]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H4714G]]"
+- "[[H7200G]]"
+- "[[H9008]]"
+- "[[H5750]]"
+- "[[H9048]]"
+- "[[H2416A]]"
+- "[[H3503]]"
+- "[[H7965G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 4:18**<big><big>[[Exod.4.18 Moses Leaves for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses went and returned to Jethro his father in law, and said unto him, Let me go, I pray thee, and return unto my brethren which [are] in Egypt, and see whether they be yet alive. And Jethro said to Moses, Go in peace.
 <small><sub>**BSB:**</sub></small>
 Then Moses went back to his father-in-law Jethro and said to him, “Please let me return to my brothers in Egypt to see if they are still alive.” “Go in peace,” Jethro replied.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּ֨לֶךְ]] [[H4872\|מֹשֶׁ֜ה]] [[H9001\|וַ]][[H7725G\|יָּ֣שָׁב]][[H9015\|׀]] [[H0413\|אֶל]][[H9014\|־]] [[H3500L\|יֶ֣תֶר]] [[H2859A\|חֹֽתְנ֗]][[H9023\|וֹ]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H1980G\|אֵ֣לְכָה]] [[H4994\|נָּ֗א]] [[H9002\|וְ]][[H7725G\|אָשׁ֙וּבָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0251G\|אַחַ֣]][[H9020\|י]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בְּ]][[H4714G\|מִצְרַ֔יִם]] [[H9002\|וְ]][[H7200G\|אֶרְאֶ֖ה]] [[H9008\|הַ]][[H5750\|עוֹדָ֣]][[H9048\|ם]] [[H2416A\|חַיִּ֑ים]] [[H9001\|וַ]][[H0559\|יֹּ֧אמֶר]] [[H3503\|יִתְר֛וֹ]] [[H9005\|לְ]][[H4872\|מֹשֶׁ֖ה]] [[H1980G\|לֵ֥ךְ]] [[H9005\|לְ]][[H7965G\|שָׁלֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic JETHRO|JETHRO]] • [[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.4.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.17|<< Exodus 4:17]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.19|Exodus 4:19 >>]]</td></tr></table>
 

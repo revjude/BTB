@@ -1,8 +1,55 @@
+---
+title: Isaiah 26:5
+type: Verse
+kjv: "For he bringeth down them that dwell on high; the lofty city, he layeth it low; he layeth it low, even to the ground; he bringeth it even to the dust."
+bsb: "For He has humbled those who dwell on high; He lays the lofty city low. He brings it down to the ground; He casts it into the dust."
+hebrew: "כִּ֤י הֵשַׁח֙ יֹשְׁבֵ֣י מָר֔וֹם קִרְיָ֖ה נִשְׂגָּבָ֑ה יַשְׁפִּילֶ֤נָּה יַשְׁפִּילָהּ֙ עַד־ אֶ֔רֶץ יַגִּיעֶ֖נָּה עַד־ עָפָֽר׃"
+pericope: "[[Isa.26.1 A Song of Salvation|A Song of Salvation]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 26
+book/chapter: "[[Isa.26|Isaiah 26]]"
+chronological_order: 669
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H7817]]"
+- "[[H3427]]"
+- "[[H4791]]"
+- "[[H7151]]"
+- "[[H7682]]"
+- "[[H8213]]"
+- "[[H9034]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H0776H]]"
+- "[[H5060]]"
+- "[[H6083]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 26:5**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he bringeth down them that dwell on high; the lofty city, he layeth it low; he layeth it low, [even] to the ground; he bringeth it [even] to the dust.
 <small><sub>**BSB:**</sub></small>
 For He has humbled those who dwell on high; He lays the lofty city low. He brings it down to the ground; He casts it into the dust.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H7817\|הֵשַׁח֙]] [[H3427\|יֹשְׁבֵ֣י]] [[H4791\|מָר֔וֹם]] [[H7151\|קִרְיָ֖ה]] [[H7682\|נִשְׂגָּבָ֑ה]] [[H8213\|יַשְׁפִּילֶ֤]][[H9034\|נָּה]] [[H8213\|יַשְׁפִּילָ]][[H9034\|הּ֙]] [[H5704\|עַד]][[H9014\|־]] [[H0776H\|אֶ֔רֶץ]] [[H5060\|יַגִּיעֶ֖]][[H9034\|נָּה]] [[H5704\|עַד]][[H9014\|־]] [[H6083\|עָפָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.4|<< Isaiah 26:4]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.6|Isaiah 26:6 >>]]</td></tr></table>
 

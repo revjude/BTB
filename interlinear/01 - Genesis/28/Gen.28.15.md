@@ -1,8 +1,76 @@
+---
+title: Genesis 28:15
+type: Verse
+kjv: "And, behold, I am with thee, and will keep thee in all places whither thou goest, and will bring thee again into this land; for I will not leave thee, until I have done that which I have spoken to thee of."
+bsb: "Look, I am with you, and I will watch over you wherever you go, and I will bring you back to this land. For I will not leave you until I have done what I have promised you.”"
+hebrew: "וְהִנֵּ֨ה אָנֹכִ֜י עִמָּ֗ךְ וּשְׁמַרְתִּ֙יךָ֙ בְּכֹ֣ל אֲשֶׁר־ תֵּלֵ֔ךְ וַהֲשִׁ֣בֹתִ֔יךָ אֶל־ הָאֲדָמָ֖ה הַזֹּ֑את כִּ֚י לֹ֣א אֶֽעֱזָבְךָ֔ עַ֚ד אֲשֶׁ֣ר אִם־ עָשִׂ֔יתִי אֵ֥ת אֲשֶׁר־ דִּבַּ֖רְתִּי לָֽךְ׃"
+pericope: "[[Gen.28.10 Jacob’s Ladder|Jacob’s Ladder]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 28
+book/chapter: "[[Gen.28|Genesis 28]]"
+chronological_order: 70
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0595]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H9001]]"
+- "[[H8104H]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1980G]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H0127G]]"
+- "[[H2063]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H5800A]]"
+- "[[H5704]]"
+- "[[H0518J]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H1696I]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 28:15**<big><big>[[Gen.28.10 Jacob’s Ladder|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, I [am] with thee, and will keep thee in all [places] whither thou goest, and will bring thee again into this land; for I will not leave thee, until I have done [that] which I have spoken to thee of.
 <small><sub>**BSB:**</sub></small>
 Look, I am with you, and I will watch over you wherever you go, and I will bring you back to this land. For I will not leave you until I have done what I have promised you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֨ה]] [[H0595\|אָנֹכִ֜י]] [[H5973A\|עִמָּ֗]][[H9032\|ךְ]] [[H9001\|וּ]][[H8104H\|שְׁמַרְתִּ֙י]][[H9031\|ךָ֙]] [[H9003\|בְּ]][[H3605\|כֹ֣ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1980G\|תֵּלֵ֔ךְ]] [[H9001\|וַ]][[H7725G\|הֲשִׁ֣בֹתִ֔י]][[H9031\|ךָ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0127G\|אֲדָמָ֖ה]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H3588A\|כִּ֚י]] [[H3808\|לֹ֣א]] [[H5800A\|אֶֽעֱזָבְ]][[H9031\|ךָ֔]] [[H5704\|עַ֚ד]] [[H0834A\|אֲשֶׁ֣ר]] [[H0518J\|אִם]][[H9014\|־]] [[H6213A\|עָשִׂ֔יתִי]] [[H0853\|אֵ֥ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1696I\|דִּבַּ֖רְתִּי]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-EL|BETH-EL]] • [[topic COMMUNION|COMMUNION]] • [[topic COVENANT|COVENANT]] • [[topic GOD|GOD]] • [[topic JACOB|JACOB]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.28.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.14|<< Genesis 28:14]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.16|Genesis 28:16 >>]]</td></tr></table>
 

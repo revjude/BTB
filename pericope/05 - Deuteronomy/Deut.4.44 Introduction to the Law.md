@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Introduction to the Law
+type: Pericope
 pericope: "[[Deut.4.44 Introduction to the Law|Introduction to the Law]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 4
 book/chapter: "[[Deut.4|Deuteronomy 4]]"
-genre:
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 6
 verses:
 - "[[Deut.4.44]]"
 - "[[Deut.4.45]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Deut.4.49]]"
 ---
 
-[[Deut.4|Deuteronomy 4:44 - Deuteronomy 4:49]]
+<small>[[Deut.4|Deuteronomy 4:44-49]]</small>
 *Introduction to the Law*
 
 [[Deut.4.44|44]] And this \[is\] the law which Moses set before the children of Israel:

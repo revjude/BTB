@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Assyrian Invasion Prophesied
+type: Pericope
 pericope: "[[Isa.8.1 Assyrian Invasion Prophesied|Assyrian Invasion Prophesied]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 8
 book/chapter: "[[Isa.8|Isaiah 8]]"
-genre:
+chronological_order: 618
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 10
 verses:
 - "[[Isa.8.1]]"
 - "[[Isa.8.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Isa.8.10]]"
 ---
 
-[[Isa.8|Isaiah 8:1 - Isaiah 8:10]]
+<small>[[Isa.8|Isaiah 8:1-10]]</small>
 *Assyrian Invasion Prophesied*
 
 [[Isa.8.1|1]] Moreover the LORD said unto me, Take thee a great roll, and write in it with a man’s pen concerning Mahershalalhashbaz.

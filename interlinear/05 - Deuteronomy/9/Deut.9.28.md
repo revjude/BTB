@@ -1,8 +1,75 @@
+---
+title: Deuteronomy 9:28
+type: Verse
+kjv: "Lest the land whence thou broughtest us out say, Because the LORD was not able to bring them into the land which he promised them, and because he hated them, he hath brought them out to slay them in the wilderness."
+bsb: "Otherwise, those in the land from which You brought us out will say, ‘Because the LORD was not able to bring them into the land He had promised them, and because He hated them, He has brought them out to kill them in the wilderness.’"
+hebrew: "פֶּן־ יֹאמְר֗וּ הָאָרֶץ֮ אֲשֶׁ֣ר הוֹצֵאתָ֣נוּ מִשָּׁם֒ מִבְּלִי֙ יְכֹ֣לֶת יְהוָ֔ה לַהֲבִיאָ֕ם אֶל־ הָאָ֖רֶץ אֲשֶׁר־ דִּבֶּ֣ר לָהֶ֑ם וּמִשִּׂנְאָת֣וֹ אוֹתָ֔ם הוֹצִיאָ֖ם לַהֲמִתָ֥ם בַּמִּדְבָּֽר׃"
+pericope: "[[Deut.9.7 The Golden Calf|The Golden Calf]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 9
+book/chapter: "[[Deut.9|Deuteronomy 9]]"
+chronological_order: 205
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H3318H]]"
+- "[[H9035]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H1097]]"
+- "[[H3201]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H0935P]]"
+- "[[H9038]]"
+- "[[H0413]]"
+- "[[H1696I]]"
+- "[[H9002]]"
+- "[[H8135]]"
+- "[[H9023]]"
+- "[[H0853]]"
+- "[[H4191]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 9:28**<big><big>[[Deut.9.7 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lest the land whence thou broughtest us out say, Because the LORD was not able to bring them into the land which he promised them, and because he hated them, he hath brought them out to slay them in the wilderness.
 <small><sub>**BSB:**</sub></small>
 Otherwise, those in the land from which You brought us out will say, ‘Because the LORD was not able to bring them into the land He had promised them, and because He hated them, He has brought them out to kill them in the wilderness.’
+<small><sub>**Hebrew:**</sub></small>
+[[H6435\|פֶּן]][[H9014\|־]] [[H0559\|יֹאמְר֗וּ]] [[H9009\|הָ]][[H0776G\|אָרֶץ֮]] [[H0834A\|אֲשֶׁ֣ר]] [[H3318H\|הוֹצֵאתָ֣]][[H9035\|נוּ]] [[H9006\|מִ]][[H8033G\|שָּׁם֒]] [[H9006\|מִ]][[H1097\|בְּלִי֙]] [[H3201\|יְכֹ֣לֶת]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לַ]][[H0935P\|הֲבִיאָ֕]][[H9038\|ם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1696I\|דִּבֶּ֣ר]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H9002\|וּ]][[H9006\|מִ]][[H8135\|שִּׂנְאָת֣]][[H9023\|וֹ]] [[H0853\|אוֹתָ֔]][[H9038\|ם]] [[H3318H\|הוֹצִיאָ֖]][[H9038\|ם]] [[H9005\|לַ]][[H4191\|הֲמִתָ֥]][[H9038\|ם]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HUMILITY|HUMILITY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.27|<< Deuteronomy 9:27]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.29|Deuteronomy 9:29 >>]]</td></tr></table>
 

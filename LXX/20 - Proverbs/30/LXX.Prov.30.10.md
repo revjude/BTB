@@ -1,6 +1,47 @@
+---
+title: LXX Proverbs 30:10
+type: Verse
+lxx: "You should not deliver a bondservant into the hands of a master, lest at any time he should curse you, and you should be obliterated."
+greek: "μη παραδώς δούλον εις χείρας δεσπότου μή ποτε καταράσηταί σε και αφανισθής"
+original_language: Greek
+testament: Old
+book: Proverbs
+chapter: 30
+book/chapter: "[[Prov.30|Proverbs 30]]"
+chronological_order: 485
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[G3361]]"
+- "[[G3860]]"
+- "[[G1401]]"
+- "[[G1519]]"
+- "[[G5495]]"
+- "[[G1203]]"
+- "[[G3379]]"
+- "[[G2672]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0853]]"
+---
+
 **LXX Proverbs 30:10** 
 <small><sub>**LXX:**</sub></small>
 You should not deliver a bondservant into \[the\] hands of a master, lest at any time he should curse you, and you should be obliterated. 
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μη]] [[G3860\|παραδώς]] [[G1401\|δούλον]] [[G1519\|εις]] [[G5495\|χείρας]] [[G1203\|δεσπότου]] [[G3379\|μή ποτε]] [[G2672\|καταράσηταί]] [[G1473\|σε]] [[G2532\|και]] [[G0853\|αφανισθής]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SERVANT|SERVANT]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**MT:**</sub></small>
 [[Prov.30.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.9|<< Proverbs 30:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.11|Proverbs 30:11 >>]]</td></tr></table>
 
@@ -17,6 +58,6 @@ You should not deliver a bondservant into \[the\] hands of a master, lest at any
 | you, | **<big>[[G1473\|σε]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | you should be obliterated. | **<big>[[G0853\|αφανισθής]]</big>** |
-[[Prov.30.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.9|<< Proverbs 30:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.11|Proverbs 30:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.9|<< Proverbs 30:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.11|Proverbs 30:11 >>]]</td></tr></table>
 
 

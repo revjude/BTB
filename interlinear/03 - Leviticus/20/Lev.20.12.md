@@ -1,8 +1,65 @@
+---
+title: Leviticus 20:12
+type: Verse
+kjv: "And if a man lie with his daughter in law, both of them shall surely be put to death: they have wrought confusion; their blood shall be upon them."
+bsb: "If a man lies with his daughter-in-law, both must surely be put to death. They have acted perversely; their blood is upon them."
+hebrew: "וְאִ֗ישׁ אֲשֶׁ֤ר יִשְׁכַּב֙ אֶת־ כַּלָּת֔וֹ מ֥וֹת יוּמְת֖וּ שְׁנֵיהֶ֑ם תֶּ֥בֶל עָשׂ֖וּ דְּמֵיהֶ֥ם בָּֽם׃"
+pericope: "[[Lev.20.10 Punishments for Sexual Immorality|Punishments for Sexual Immorality]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 20
+book/chapter: "[[Lev.20|Leviticus 20]]"
+chronological_order: 152
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic INCEST|INCEST]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H7901I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3618H]]"
+- "[[H9023]]"
+- "[[H4191]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H8397]]"
+- "[[H6213H]]"
+- "[[H1818]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 20:12**<big><big>[[Lev.20.10 Punishments for Sexual Immorality|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if a man lie with his daughter in law, both of them shall surely be put to death: they have wrought confusion; their blood [shall be] upon them.
 <small><sub>**BSB:**</sub></small>
 If a man lies with his daughter-in-law, both must surely be put to death. They have acted perversely; their blood is upon them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376G\|אִ֗ישׁ]] [[H0834A\|אֲשֶׁ֤ר]] [[H7901I\|יִשְׁכַּב֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3618H\|כַּלָּת֔]][[H9023\|וֹ]] [[H4191\|מ֥וֹת]] [[H4191\|יוּמְת֖וּ]] [[H8147\|שְׁנֵי]][[H9028\|הֶ֑ם]] [[H8397\|תֶּ֥בֶל]] [[H6213H\|עָשׂ֖וּ]] [[H1818\|דְּמֵי]][[H9028\|הֶ֥ם]] [[H9003\|בָּֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic INCEST|INCEST]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.20.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.20.11|<< Leviticus 20:11]]</td><td align="center" style="border:none;">[[Lev.20|Leviticus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.20.13|Leviticus 20:13 >>]]</td></tr></table>
 

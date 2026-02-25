@@ -1,8 +1,63 @@
+---
+title: Daniel 7:2
+type: Verse
+kjv: "Daniel spake and said, I saw in my vision by night, and, behold, the four winds of the heaven strove upon the great sea."
+bsb: "Daniel declared: “In my vision in the night I looked, and suddenly the four winds of heaven were churning up the great sea."
+aramaic: "עָנֵ֤ה דָנִיֵּאל֙ וְאָמַ֔ר חָזֵ֥ה הֲוֵ֛ית בְּחֶזְוִ֖י עִם־ לֵֽילְיָ֑א וַאֲר֗וּ אַרְבַּע֙ רוּחֵ֣י שְׁמַיָּ֔א מְגִיחָ֖ן לְיַמָּ֥א רַבָּֽא׃"
+pericope: "[[Dan.7.1 Daniel’s Vision of the Four Beasts|Daniel’s Vision of the Four Beasts]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 7
+book/chapter: "[[Dan.7|Daniel 7]]"
+chronological_order: 843
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic SEA|SEA]]"
+strongs:
+- "[[H6032]]"
+- "[[H1841H]]"
+- "[[H9002]]"
+- "[[H0560]]"
+- "[[H2370]]"
+- "[[H1934]]"
+- "[[H9003]]"
+- "[[H2376]]"
+- "[[H9020]]"
+- "[[H5974]]"
+- "[[H9014]]"
+- "[[H3916]]"
+- "[[H9010]]"
+- "[[H0718]]"
+- "[[H0703]]"
+- "[[H7308]]"
+- "[[H8065]]"
+- "[[H1519]]"
+- "[[H9005]]"
+- "[[H3221]]"
+- "[[H7229]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 7:2**<big><big>[[Dan.7.1 Daniel’s Vision of the Four Beasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Daniel spake and said, I saw in my vision by night, and, behold, the four winds of the heaven strove upon the great sea.
 <small><sub>**BSB:**</sub></small>
 Daniel declared: “In my vision in the night I looked, and suddenly the four winds of heaven were churning up the great sea.
+<small><sub>**Aramaic:**</sub></small>
+[[H6032\|עָנֵ֤ה]] [[H1841H\|דָנִיֵּאל֙]] [[H9002\|וְ]][[H0560\|אָמַ֔ר]] [[H2370\|חָזֵ֥ה]] [[H1934\|הֲוֵ֛ית]] [[H9003\|בְּ]][[H2376\|חֶזְוִ֖]][[H9020\|י]] [[H5974\|עִם]][[H9014\|־]] [[H3916\|לֵֽילְיָ֑]][[H9010\|א]] [[H9002\|וַ]][[H0718\|אֲר֗וּ]] [[H0703\|אַרְבַּע֙]] [[H7308\|רוּחֵ֣י]] [[H8065\|שְׁמַיָּ֔]][[H9010\|א]] [[H1519\|מְגִיחָ֖ן]] [[H9005\|לְ]][[H3221\|יַמָּ֥]][[H9010\|א]] [[H7229\|רַבָּֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SEA|SEA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.1|<< Daniel 7:1]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.3|Daniel 7:3 >>]]</td></tr></table>
 

@@ -1,8 +1,74 @@
+---
+title: Jeremiah 3:16
+type: Verse
+kjv: "And it shall come to pass, when ye be multiplied and increased in the land, in those days, saith the LORD, they shall say no more, The ark of the covenant of the LORD: neither shall it come to mind: neither shall they remember it; neither shall they visit it; neither shall that be done any more."
+bsb: "“In those days, when you multiply and increase in the land,” declares the LORD, “they will no longer discuss the ark of the covenant of the LORD. It will never come to mind, and no one will remember it or miss it, nor will another one be made."
+hebrew: "וְהָיָ֡ה כִּ֣י תִרְבּוּ֩ וּפְרִיתֶ֨ם בָּאָ֜רֶץ בַּיָּמִ֤ים הָהֵ֙מָּה֙ נְאֻם־ יְהוָ֔ה לֹא־ יֹ֣אמְרוּ ע֗וֹד אֲרוֹן֙ בְּרִית־ יְהוָ֔ה וְלֹ֥א יַעֲלֶ֖ה עַל־ לֵ֑ב וְלֹ֤א יִזְכְּרוּ־ בוֹ֙ וְלֹ֣א יִפְקֹ֔דוּ וְלֹ֥א יֵעָשֶׂ֖ה עֽוֹד׃"
+pericope: "[[Jer.3.11 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 3
+book/chapter: "[[Jer.3|Jeremiah 3]]"
+chronological_order: 720
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H7235A]]"
+- "[[H6509]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1992]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H0559]]"
+- "[[H5750]]"
+- "[[H0727]]"
+- "[[H1285]]"
+- "[[H9002]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H3820A]]"
+- "[[H2142]]"
+- "[[H9033]]"
+- "[[H6485K]]"
+- "[[H6213H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 3:16**<big><big>[[Jer.3.11 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, when ye be multiplied and increased in the land, in those days, saith the LORD, they shall say no more, The ark of the covenant of the LORD: neither shall it come to mind: neither shall they remember it; neither shall they visit [it]; neither shall [that] be done any more.
 <small><sub>**BSB:**</sub></small>
 “In those days, when you multiply and increase in the land,” declares the LORD, “they will no longer discuss the ark of the covenant of the LORD. It will never come to mind, and no one will remember it or miss it, nor will another one be made.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֡ה]] [[H3588A\|כִּ֣י]] [[H7235A\|תִרְבּוּ֩]] [[H9001\|וּ]][[H6509\|פְרִיתֶ֨ם]] [[H9003\|בָּ]][[H0776G\|אָ֜רֶץ]] [[H9003\|בַּ]][[H3117G\|יָּמִ֤ים]] [[H9009\|הָ]][[H1992\|הֵ֙מָּה֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H3808\|לֹא]][[H9014\|־]] [[H0559\|יֹ֣אמְרוּ]] [[H5750\|ע֗וֹד]] [[H0727\|אֲרוֹן֙]] [[H1285\|בְּרִית]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5927G\|יַעֲלֶ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3820A\|לֵ֑ב]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H2142\|יִזְכְּרוּ]][[H9014\|־]] [[H9003\|ב]][[H9033\|וֹ֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6485K\|יִפְקֹ֔דוּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H6213H\|יֵעָשֶׂ֖ה]] [[H5750\|עֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.15|<< Jeremiah 3:15]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.17|Jeremiah 3:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

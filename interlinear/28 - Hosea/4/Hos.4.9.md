@@ -1,8 +1,61 @@
+---
+title: Hosea 4:9
+type: Verse
+kjv: "And there shall be, like people, like priest: and I will punish them for their ways, and reward them their doings."
+bsb: "And it shall be like people, like priest. I will punish both of them for their ways and repay them for their deeds."
+hebrew: "וְהָיָ֥ה כָעָ֖ם כַּכֹּהֵ֑ן וּפָקַדְתִּ֤י עָלָיו֙ דְּרָכָ֔יו וּמַעֲלָלָ֖יו אָשִׁ֥יב לֽוֹ׃"
+pericope: "[[Hos.4.1 God’s Case against His People|God’s Case against His People]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 4
+book/chapter: "[[Hos.4|Hosea 4]]"
+chronological_order: 645
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROVERBS|PROVERBS]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H5971A]]"
+- "[[H3548]]"
+- "[[H6485H]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H4611]]"
+- "[[H7725K]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 4:9**<big><big>[[Hos.4.1 God’s Case against His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there shall be, like people, like priest: and I will punish them for their ways, and reward them their doings.
 <small><sub>**BSB:**</sub></small>
 And it shall be like people, like priest. I will punish both of them for their ways and repay them for their deeds.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֥ה]] [[H9004\|כָ]][[H5971A\|עָ֖ם]] [[H9004\|כַּ]][[H3548\|כֹּהֵ֑ן]] [[H9001\|וּ]][[H6485H\|פָקַדְתִּ֤י]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H1870G\|דְּרָכָ֔י]][[H9023\|ו]] [[H9002\|וּ]][[H4611\|מַעֲלָלָ֖י]][[H9023\|ו]] [[H7725K\|אָשִׁ֥יב]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic EXAMPLE|EXAMPLE]] • [[topic INFLUENCE|INFLUENCE]] • [[topic JUDGMENT|JUDGMENT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROVERBS|PROVERBS]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.4.8|<< Hosea 4:8]]</td><td align="center" style="border:none;">[[Hos.4|Hosea 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.4.10|Hosea 4:10 >>]]</td></tr></table>
 

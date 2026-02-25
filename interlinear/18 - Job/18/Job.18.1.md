@@ -1,8 +1,48 @@
+---
+title: Job 18:1
+type: Verse
+kjv: "Then answered Bildad the Shuhite, and said,"
+bsb: "Then Bildad the Shuhite replied:"
+hebrew: "וַ֭יַּעַן בִּלְדַּ֥ד הַשֻּׁחִ֗י וַיֹּאמַֽר׃"
+pericope: "[[Job.18.1 Bildad：God Punishes the Wicked|Bildad：God Punishes the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 18
+book/chapter: "[[Job.18|Job 18]]"
+chronological_order: 29
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BILDAD|BILDAD]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H1085]]"
+- "[[H9009]]"
+- "[[H7747]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 18:1**<big><big>[[Job.18.1 Bildad：God Punishes the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then answered Bildad the Shuhite, and said,
 <small><sub>**BSB:**</sub></small>
 Then Bildad the Shuhite replied:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֭]][[H6030B\|יַּעַן]] [[H1085\|בִּלְדַּ֥ד]] [[H9009\|הַ]][[H7747\|שֻּׁחִ֗י]] [[H9001\|וַ]][[H0559\|יֹּאמַֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BILDAD|BILDAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.18.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.17.16|<< Job 17:16]]</td><td align="center" style="border:none;">[[Job.18|Job 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.18.2|Job 18:2 >>]]</td></tr></table>
 

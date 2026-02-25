@@ -1,8 +1,65 @@
+---
+title: Judges 16:27
+type: Verse
+kjv: "Now the house was full of men and women; and all the lords of the Philistines were there; and there were upon the roof about three thousand men and women, that beheld while Samson made sport."
+bsb: "Now the temple was full of men and women; all the lords of the Philistines were there, and about three thousand men and women were on the roof watching Samson entertain them."
+hebrew: "וְהַבַּ֗יִת מָלֵ֤א הָֽאֲנָשִׁים֙ וְהַנָּשִׁ֔ים וְשָׁ֕מָּה כֹּ֖ל סַרְנֵ֣י פְלִשְׁתִּ֑ים וְעַל־ הַגָּ֗ג כִּשְׁלֹ֤שֶׁת אֲלָפִים֙ אִ֣ישׁ וְאִשָּׁ֔ה הָרֹאִ֖ים בִּשְׂח֥וֹק שִׁמְשֽׁוֹן׃"
+pericope: "[[Judg.16.23 Samson’s Vengeance and Death|Samson’s Vengeance and Death]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 16
+book/chapter: "[[Judg.16|Judges 16]]"
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GAZA|GAZA]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H4390]]"
+- "[[H0582]]"
+- "[[H0802G]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H3605]]"
+- "[[H5633A]]"
+- "[[H6430G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1406]]"
+- "[[H9004]]"
+- "[[H7969]]"
+- "[[H0505G]]"
+- "[[H0376G]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H7832]]"
+- "[[H8123]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 16:27**<big><big>[[Judg.16.23 Samson’s Vengeance and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the house was full of men and women; and all the lords of the Philistines [were] there; and [there were] upon the roof about three thousand men and women, that beheld while Samson made sport.
 <small><sub>**BSB:**</sub></small>
 Now the temple was full of men and women; all the lords of the Philistines were there, and about three thousand men and women were on the roof watching Samson entertain them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H1004B\|בַּ֗יִת]] [[H4390\|מָלֵ֤א]] [[H9009\|הָֽ]][[H0582\|אֲנָשִׁים֙]] [[H9002\|וְ]][[H9009\|הַ]][[H0802G\|נָּשִׁ֔ים]] [[H9002\|וְ]][[H8033G\|שָׁ֕מָּ]][[H9011\|ה]] [[H3605\|כֹּ֖ל]] [[H5633A\|סַרְנֵ֣י]] [[H6430G\|פְלִשְׁתִּ֑ים]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1406\|גָּ֗ג]] [[H9004\|כִּ]][[H7969\|שְׁלֹ֤שֶׁת]] [[H0505G\|אֲלָפִים֙]] [[H0376G\|אִ֣ישׁ]] [[H9002\|וְ]][[H0802G\|אִשָּׁ֔ה]] [[H9009\|הָ]][[H7200G\|רֹאִ֖ים]] [[H9003\|בִּ]][[H7832\|שְׂח֥וֹק]] [[H8123\|שִׁמְשֽׁוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAZA|GAZA]] • [[topic HOUSE|HOUSE]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.26|<< Judges 16:26]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.28|Judges 16:28 >>]]</td></tr></table>
 

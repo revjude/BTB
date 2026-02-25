@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Uzzah Touches the Ark
+type: Pericope
 pericope: "[[2Sam.6.5 Uzzah Touches the Ark|Uzzah Touches the Ark]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 6
 book/chapter: "[[2Sam.6|2 Samuel 6]]"
-genre:
+chronological_order: 392
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 7
 verses:
 - "[[2Sam.6.5]]"
 - "[[2Sam.6.6]]"
@@ -26,7 +33,7 @@ verses:
 - "[[2Sam.6.11]]"
 ---
 
-[[2Sam.6|2 Samuel 6:5 - 2 Samuel 6:11]]
+<small>[[2Sam.6|2 Samuel 6:5-11]]</small>
 *Uzzah Touches the Ark*
 
 [[2Sam.6.5|5]] And David and all the house of Israel played before the LORD on all manner of \[instruments made of\] fir wood, even on harps, and on psalteries, and on timbrels, and on cornets, and on cymbals.

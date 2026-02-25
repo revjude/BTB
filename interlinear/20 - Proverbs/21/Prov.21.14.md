@@ -1,8 +1,52 @@
+---
+title: Proverbs 21:14
+type: Verse
+kjv: "A gift in secret pacifieth anger: and a reward in the bosom strong wrath."
+bsb: "A gift in secret soothes anger, and a covert bribe pacifies great wrath."
+hebrew: "מַתָּ֣ן בַּ֭סֵּתֶר יִכְפֶּה־ אָ֑ף וְשֹׁ֥חַד בַּ֝חֵ֗ק חֵמָ֥ה עַזָּֽה׃"
+pericope: "[[Prov.21.1 The King’s Heart|The King’s Heart]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 21
+book/chapter: "[[Prov.21|Proverbs 21]]"
+chronological_order: 476
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BRIBERY|BRIBERY]]"
+strongs:
+- "[[H4976]]"
+- "[[H9003]]"
+- "[[H5643A]]"
+- "[[H3711]]"
+- "[[H9014]]"
+- "[[H0639G]]"
+- "[[H9002]]"
+- "[[H7810]]"
+- "[[H2436J]]"
+- "[[H2534]]"
+- "[[H5794]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 21:14**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A gift in secret pacifieth anger: and a reward in the bosom strong wrath.
 <small><sub>**BSB:**</sub></small>
 A gift in secret soothes anger, and a covert bribe pacifies great wrath.
+<small><sub>**Hebrew:**</sub></small>
+[[H4976\|מַתָּ֣ן]] [[H9003\|בַּ֭]][[H5643A\|סֵּתֶר]] [[H3711\|יִכְפֶּה]][[H9014\|־]] [[H0639G\|אָ֑ף]] [[H9002\|וְ]][[H7810\|שֹׁ֥חַד]] [[H9003\|בַּ֝]][[H2436J\|חֵ֗ק]] [[H2534\|חֵמָ֥ה]] [[H5794\|עַזָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIBERY|BRIBERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.13|<< Proverbs 21:13]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.15|Proverbs 21:15 >>]]</td></tr></table>
 

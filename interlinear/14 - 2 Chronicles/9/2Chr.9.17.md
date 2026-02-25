@@ -1,8 +1,55 @@
+---
+title: 2 Chronicles 9:17
+type: Verse
+kjv: "Moreover the king made a great throne of ivory, and overlaid it with pure gold."
+bsb: "Additionally, the king made a great throne of ivory and overlaid it with pure gold."
+hebrew: "וַיַּ֧עַשׂ הַמֶּ֛לֶךְ כִּסֵּא־ שֵׁ֖ן גָּד֑וֹל וַיְצַפֵּ֖הוּ זָהָ֥ב טָהֽוֹר׃"
+pericope: "[[2Chr.9.13 Solomon’s Wealth and Splendor|Solomon’s Wealth and Splendor]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 9
+book/chapter: "[[2Chr.9|2 Chronicles 9]]"
+chronological_order: 538
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic IVORY|IVORY]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic THRONE|THRONE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3678G]]"
+- "[[H9014]]"
+- "[[H8127H]]"
+- "[[H1419A]]"
+- "[[H6823]]"
+- "[[H9033]]"
+- "[[H2091]]"
+- "[[H2889]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 9:17**<big><big>[[2Chr.9.13 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the king made a great throne of ivory, and overlaid it with pure gold.
 <small><sub>**BSB:**</sub></small>
 Additionally, the king made a great throne of ivory and overlaid it with pure gold.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֧עַשׂ]] [[H9009\|הַ]][[H4428G\|מֶּ֛לֶךְ]] [[H3678G\|כִּסֵּא]][[H9014\|־]] [[H8127H\|שֵׁ֖ן]] [[H1419A\|גָּד֑וֹל]] [[H9001\|וַ]][[H6823\|יְצַפֵּ֖]][[H9033\|הוּ]] [[H2091\|זָהָ֥ב]] [[H2889\|טָהֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IVORY|IVORY]] • [[topic SOLOMON|SOLOMON]] • [[topic THRONE|THRONE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.9.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.16|<< 2 Chronicles 9:16]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.18|2 Chronicles 9:18 >>]]</td></tr></table>
 

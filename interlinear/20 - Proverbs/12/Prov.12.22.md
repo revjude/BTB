@@ -1,8 +1,55 @@
+---
+title: Proverbs 12:22
+type: Verse
+kjv: "Lying lips are abomination to the LORD: but they that deal truly are his delight."
+bsb: "Lying lips are detestable to the LORD, but those who deal faithfully are His delight."
+hebrew: "תּוֹעֲבַ֣ת יְ֭הוָה שִׂפְתֵי־ שָׁ֑קֶר וְעֹשֵׂ֖י אֱמוּנָ֣ה רְצוֹנֽוֹ׃"
+pericope: "[[Prov.12.1 Loving Discipline and Knowledge|Loving Discipline and Knowledge]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 12
+book/chapter: "[[Prov.12|Proverbs 12]]"
+chronological_order: 467
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ABOMINATION|ABOMINATION]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HONESTY|HONESTY]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[H8441]]"
+- "[[H3068G]]"
+- "[[H8193G]]"
+- "[[H9014]]"
+- "[[H8267]]"
+- "[[H9002]]"
+- "[[H6213A]]"
+- "[[H0530]]"
+- "[[H7522]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 12:22**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lying lips [are] abomination to the LORD: but they that deal truly [are] his delight.
 <small><sub>**BSB:**</sub></small>
 Lying lips are detestable to the LORD, but those who deal faithfully are His delight.
+<small><sub>**Hebrew:**</sub></small>
+[[H8441\|תּוֹעֲבַ֣ת]] [[H3068G\|יְ֭הוָה]] [[H8193G\|שִׂפְתֵי]][[H9014\|־]] [[H8267\|שָׁ֑קֶר]] [[H9002\|וְ]][[H6213A\|עֹשֵׂ֖י]] [[H0530\|אֱמוּנָ֣ה]] [[H7522\|רְצוֹנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABOMINATION|ABOMINATION]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HONESTY|HONESTY]] • [[topic INTEGRITY|INTEGRITY]] • [[topic TRUTH|TRUTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.21|<< Proverbs 12:21]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.23|Proverbs 12:23 >>]]</td></tr></table>
 

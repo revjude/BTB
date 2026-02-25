@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Completion of the Bronze Works
+type: Pericope
 pericope: "[[2Chr.4.11 Completion of the Bronze Works|Completion of the Bronze Works]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 4
 book/chapter: "[[2Chr.4|2 Chronicles 4]]"
-genre:
+chronological_order: 493
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 8
 verses:
 - "[[2Chr.4.11]]"
 - "[[2Chr.4.12]]"
@@ -26,7 +33,7 @@ verses:
 - "[[2Chr.4.18]]"
 ---
 
-[[2Chr.4|2 Chronicles 4:11 - 2 Chronicles 4:18]]
+<small>[[2Chr.4|2 Chronicles 4:11-18]]</small>
 *Completion of the Bronze Works*
 
 [[2Chr.4.11|11]] And Huram made the pots, and the shovels, and the basons. And Huram finished the work that he was to make for king Solomon for the house of God;

@@ -1,8 +1,64 @@
+---
+title: Isaiah 41:22
+type: Verse
+kjv: "Let them bring them forth, and shew us what shall happen: let them shew the former things, what they be, that we may consider them, and know the latter end of them; or declare us things for to come."
+bsb: "“Let them come and tell us what will happen. Tell the former things, so that we may reflect on them and know the outcome. Or announce to us what is coming."
+hebrew: "יַגִּ֙ישׁוּ֙ וְיַגִּ֣ידוּ לָ֔נוּ אֵ֖ת אֲשֶׁ֣ר תִּקְרֶ֑ינָה הָרִאשֹׁנ֣וֹת׀ מָ֣ה הֵ֗נָּה הַגִּ֜ידוּ וְנָשִׂ֤ימָה לִבֵּ֙נוּ֙ וְנֵדְעָ֣ה אַחֲרִיתָ֔ן א֥וֹ הַבָּא֖וֹת הַשְׁמִיעֻֽנוּ׃"
+pericope: "[[Isa.41.21 Meaningless Idols|Meaningless Idols]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 41
+book/chapter: "[[Isa.41|Isaiah 41]]"
+chronological_order: 680
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+strongs:
+- "[[H5066H]]"
+- "[[H9002]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H7136A]]"
+- "[[H9009]]"
+- "[[H7223H]]"
+- "[[H9015]]"
+- "[[H4100]]"
+- "[[H2007]]"
+- "[[H7760K]]"
+- "[[H3820A]]"
+- "[[H9025]]"
+- "[[H3045]]"
+- "[[H0319]]"
+- "[[H9029]]"
+- "[[H0176A]]"
+- "[[H0935G]]"
+- "[[H8085I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 41:22**<big><big>[[Isa.41.21 Meaningless Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them bring [them] forth, and shew us what shall happen: let them shew the former things, what they [be], that we may consider them, and know the latter end of them; or declare us things for to come.
 <small><sub>**BSB:**</sub></small>
 “Let them come and tell us what will happen. Tell the former things, so that we may reflect on them and know the outcome. Or announce to us what is coming.
+<small><sub>**Hebrew:**</sub></small>
+[[H5066H\|יַגִּ֙ישׁוּ֙]] [[H9002\|וְ]][[H5046\|יַגִּ֣ידוּ]] [[H9005\|לָ֔]][[H9035\|נוּ]] [[H0853\|אֵ֖ת]] [[H0834A\|אֲשֶׁ֣ר]] [[H7136A\|תִּקְרֶ֑ינָה]] [[H9009\|הָ]][[H7223H\|רִאשֹׁנ֣וֹת]][[H9015\|׀]] [[H4100\|מָ֣ה]] [[H2007\|הֵ֗נָּה]] [[H5046\|הַגִּ֜ידוּ]] [[H9002\|וְ]][[H7760K\|נָשִׂ֤ימָה]] [[H3820A\|לִבֵּ֙]][[H9025\|נוּ֙]] [[H9002\|וְ]][[H3045\|נֵדְעָ֣ה]] [[H0319\|אַחֲרִיתָ֔]][[H9029\|ן]] [[H0176A\|א֥וֹ]] [[H9009\|הַ]][[H0935G\|בָּא֖וֹת]] [[H8085I\|הַשְׁמִיעֻֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.21|<< Isaiah 41:21]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.23|Isaiah 41:23 >>]]</td></tr></table>
 

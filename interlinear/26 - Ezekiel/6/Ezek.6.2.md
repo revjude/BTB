@@ -1,8 +1,52 @@
+---
+title: Ezekiel 6:2
+type: Verse
+kjv: "Son of man, set thy face toward the mountains of Israel, and prophesy against them,"
+bsb: "“Son of man, set your face against the mountains of Israel and prophesy against them."
+hebrew: "בֶּן־ אָדָ֕ם שִׂ֥ים פָּנֶ֖יךָ אֶל־ הָרֵ֣י יִשְׂרָאֵ֑ל וְהִנָּבֵ֖א אֲלֵיהֶֽם׃"
+pericope: "[[Ezek.6.1 Judgment against Idolatry|Judgment against Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 6
+book/chapter: "[[Ezek.6|Ezekiel 6]]"
+chronological_order: 797
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H7760A]]"
+- "[[H6440H]]"
+- "[[H9021]]"
+- "[[H0413]]"
+- "[[H2022G]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H5012]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 6:2**<big><big>[[Ezek.6.1 Judgment against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, set thy face toward the mountains of Israel, and prophesy against them,
 <small><sub>**BSB:**</sub></small>
 “Son of man, set your face against the mountains of Israel and prophesy against them.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֕ם]] [[H7760A\|שִׂ֥ים]] [[H6440H\|פָּנֶ֖י]][[H9021\|ךָ]] [[H0413\|אֶל]][[H9014\|־]] [[H2022G\|הָרֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וְ]][[H5012\|הִנָּבֵ֖א]] [[H0413\|אֲלֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.6.1|<< Ezekiel 6:1]]</td><td align="center" style="border:none;">[[Ezek.6|Ezekiel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.6.3|Ezekiel 6:3 >>]]</td></tr></table>
 

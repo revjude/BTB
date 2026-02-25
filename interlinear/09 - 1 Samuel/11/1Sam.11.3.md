@@ -1,8 +1,69 @@
+---
+title: 1 Samuel 11:3
+type: Verse
+kjv: "And the elders of Jabesh said unto him, Give us seven days’ respite, that we may send messengers unto all the coasts of Israel: and then, if there be no man to save us, we will come out to thee."
+bsb: "“Hold off for seven days,” replied the elders of Jabesh, “and let us send messengers throughout Israel. If there is no one to save us, we will surrender to you.”"
+hebrew: "וַיֹּאמְר֨וּ אֵלָ֜יו זִקְנֵ֣י יָבֵ֗ישׁ הֶ֤רֶף לָ֙נוּ֙ שִׁבְעַ֣ת יָמִ֔ים וְנִשְׁלְחָה֙ מַלְאָכִ֔ים בְּכֹ֖ל גְּב֣וּל יִשְׂרָאֵ֑ל וְאִם־ אֵ֥ין מוֹשִׁ֛יעַ אֹתָ֖נוּ וְיָצָ֥אנוּ אֵלֶֽיךָ׃"
+pericope: "[[1Sam.11.1 Saul Defeats the Ammonites|Saul Defeats the Ammonites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 11
+book/chapter: "[[1Sam.11|1 Samuel 11]]"
+chronological_order: 290
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JABESH-GILEAD|JABESH-GILEAD]]"
+- "[[topic NAHASH|NAHASH]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H2205G]]"
+- "[[H3003G]]"
+- "[[H7503]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H9002]]"
+- "[[H7971G]]"
+- "[[H4397G]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H1366H]]"
+- "[[H3478]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H0369]]"
+- "[[H3467]]"
+- "[[H0853]]"
+- "[[H3318G]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 11:3**<big><big>[[1Sam.11.1 Saul Defeats the Ammonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the elders of Jabesh said unto him, Give us seven days’ respite, that we may send messengers unto all the coasts of Israel: and then, if [there be] no man to save us, we will come out to thee.
 <small><sub>**BSB:**</sub></small>
 “Hold off for seven days,” replied the elders of Jabesh, “and let us send messengers throughout Israel. If there is no one to save us, we will surrender to you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֨וּ]] [[H0413\|אֵלָ֜י]][[H9033\|ו]] [[H2205G\|זִקְנֵ֣י]] [[H3003G\|יָבֵ֗ישׁ]] [[H7503\|הֶ֤רֶף]] [[H9005\|לָ֙]][[H9035\|נוּ֙]] [[H7651\|שִׁבְעַ֣ת]] [[H3117G\|יָמִ֔ים]] [[H9002\|וְ]][[H7971G\|נִשְׁלְחָה֙]] [[H4397G\|מַלְאָכִ֔ים]] [[H9003\|בְּ]][[H3605\|כֹ֖ל]] [[H1366H\|גְּב֣וּל]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H0369\|אֵ֥ין]] [[H3467\|מוֹשִׁ֛יעַ]] [[H0853\|אֹתָ֖]][[H9035\|נוּ]] [[H9001\|וְ]][[H3318G\|יָצָ֥אנוּ]] [[H0413\|אֵלֶֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic JABESH-GILEAD|JABESH-GILEAD]] • [[topic NAHASH|NAHASH]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.11.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.11.2|<< 1 Samuel 11:2]]</td><td align="center" style="border:none;">[[1Sam.11|1 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.11.4|1 Samuel 11:4 >>]]</td></tr></table>
 

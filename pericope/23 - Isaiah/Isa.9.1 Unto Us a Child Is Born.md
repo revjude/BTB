@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Unto Us a Child Is Born
+type: Pericope
 pericope: "[[Isa.9.1 Unto Us a Child Is Born|Unto Us a Child Is Born]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 9
 book/chapter: "[[Isa.9|Isaiah 9]]"
-genre:
+chronological_order: 619
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 7
 verses:
 - "[[Isa.9.1]]"
 - "[[Isa.9.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Isa.9.7]]"
 ---
 
-[[Isa.9|Isaiah 9:1 - Isaiah 9:7]]
+<small>[[Isa.9|Isaiah 9:1-7]]</small>
 *Unto Us a Child Is Born*
 
 [[Isa.9.1|1]] Nevertheless the dimness \[shall\] not \[be\] such as \[was\] in her vexation, when at the first he lightly afflicted the land of Zebulun and the land of Naphtali, and afterward did more grievously afflict \[her by\] the way of the sea, beyond Jordan, in Galilee of the nations.

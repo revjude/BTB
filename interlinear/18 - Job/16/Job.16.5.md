@@ -1,8 +1,53 @@
+---
+title: Job 16:5
+type: Verse
+kjv: "But I would strengthen you with my mouth, and the moving of my lips should asswage your grief."
+bsb: "But I would encourage you with my mouth, and the consolation of my lips would bring relief."
+hebrew: "אֲאַמִּצְכֶ֥ם בְּמוֹ־ פִ֑י וְנִ֖יד שְׂפָתַ֣י יַחְשֹֽׂךְ׃"
+pericope: "[[Job.16.1 Job Decries His Comforters|Job Decries His Comforters]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 16
+book/chapter: "[[Job.16|Job 16]]"
+chronological_order: 27
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H0553]]"
+- "[[H9036]]"
+- "[[H1119]]"
+- "[[H9014]]"
+- "[[H6310G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H5205]]"
+- "[[H8193G]]"
+- "[[H2820]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 16:5**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [But] I would strengthen you with my mouth, and the moving of my lips should asswage [your grief].
 <small><sub>**BSB:**</sub></small>
 But I would encourage you with my mouth, and the consolation of my lips would bring relief.
+<small><sub>**Hebrew:**</sub></small>
+[[H0553\|אֲאַמִּצְ]][[H9036\|כֶ֥ם]] [[H1119\|בְּמוֹ]][[H9014\|־]] [[H6310G\|פִ֑]][[H9020\|י]] [[H9002\|וְ]][[H5205\|נִ֖יד]] [[H8193G\|שְׂפָתַ֣]][[H9020\|י]] [[H2820\|יַחְשֹֽׂךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.4|<< Job 16:4]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.6|Job 16:6 >>]]</td></tr></table>
 

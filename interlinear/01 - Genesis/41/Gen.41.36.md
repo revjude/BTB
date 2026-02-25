@@ -1,8 +1,69 @@
+---
+title: Genesis 41:36
+type: Verse
+kjv: "And that food shall be for store to the land against the seven years of famine, which shall be in the land of Egypt; that the land perish not through the famine."
+bsb: "This food will be a reserve for the land during the seven years of famine to come upon the land of Egypt. Then the country will not perish in the famine.”"
+hebrew: "וְהָיָ֨ה הָאֹ֤כֶל לְפִקָּדוֹן֙ לָאָ֔רֶץ לְשֶׁ֙בַע֙ שְׁנֵ֣י הָרָעָ֔ב אֲשֶׁ֥ר תִּהְיֶ֖יןָ בְּאֶ֣רֶץ מִצְרָ֑יִם וְלֹֽא־ תִכָּרֵ֥ת הָאָ֖רֶץ בָּרָעָֽב׃"
+pericope: "[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|Joseph Interprets Pharaoh’s Dreams]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROMOTION|PROMOTION]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H0400]]"
+- "[[H9005]]"
+- "[[H6487]]"
+- "[[H0776G]]"
+- "[[H7651]]"
+- "[[H8141]]"
+- "[[H7458]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3772I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:36**<big><big>[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And that food shall be for store to the land against the seven years of famine, which shall be in the land of Egypt; that the land perish not through the famine.
 <small><sub>**BSB:**</sub></small>
 This food will be a reserve for the land during the seven years of famine to come upon the land of Egypt. Then the country will not perish in the famine.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֨ה]] [[H9009\|הָ]][[H0400\|אֹ֤כֶל]] [[H9005\|לְ]][[H6487\|פִקָּדוֹן֙]] [[H9005\|לָ]][[H0776G\|אָ֔רֶץ]] [[H9005\|לְ]][[H7651\|שֶׁ֙בַע֙]] [[H8141\|שְׁנֵ֣י]] [[H9009\|הָ]][[H7458\|רָעָ֔ב]] [[H0834A\|אֲשֶׁ֥ר]] [[H1961\|תִּהְיֶ֖יןָ]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3772I\|תִכָּרֵ֥ת]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9003\|בָּ]][[H7458\|רָעָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic ECONOMICS|ECONOMICS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOSEPH|JOSEPH]] • [[topic PRISONERS|PRISONERS]] • [[topic PROMOTION|PROMOTION]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SERVANT|SERVANT]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.35|<< Genesis 41:35]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.37|Genesis 41:37 >>]]</td></tr></table>
 

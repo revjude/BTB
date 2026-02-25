@@ -1,8 +1,61 @@
+---
+title: Psalm 131:1
+type: Verse
+kjv: "LORD, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me."
+bsb: "A song of ascents. Of David. My heart is not proud, O LORD, my eyes are not haughty. I do not aspire to great things or matters too lofty for me."
+hebrew: "יְהוָ֤ה׀ לֹא־ גָבַ֣הּ לִ֭בִּי וְלֹא־ רָמ֣וּ עֵינַ֑י וְלֹֽא־ הִלַּ֓כְתִּי׀ בִּגְדֹל֖וֹת וּבְנִפְלָא֣וֹת מִמֶּֽנִּי׃"
+pericope: "[[Ps.131.1 I Have Stilled My Soul|I Have Stilled My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 131
+book/chapter: "[[Ps.131|Psalm 131]]"
+chronological_order: 892
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+strongs:
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1361]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H7311A]]"
+- "[[H5869A]]"
+- "[[H1980L]]"
+- "[[H9003]]"
+- "[[H1419A]]"
+- "[[H6381]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 131:1**<big><big>[[Ps.131.1 I Have Stilled My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 LORD, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.
 <small><sub>**BSB:**</sub></small>
 A song of ascents. Of David. My heart is not proud, O LORD, my eyes are not haughty. I do not aspire to great things or matters too lofty for me.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֤ה]][[H9015\|׀]] [[H3808\|לֹא]][[H9014\|־]] [[H1361\|גָבַ֣הּ]] [[H3820A\|לִ֭בִּ]][[H9020\|י]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H7311A\|רָמ֣וּ]] [[H5869A\|עֵינַ֑]][[H9020\|י]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1980L\|הִלַּ֓כְתִּי]][[H9015\|׀]] [[H9003\|בִּ]][[H1419A\|גְדֹל֖וֹת]] [[H9002\|וּ]][[H9003\|בְ]][[H6381\|נִפְלָא֣וֹת]] [[H4480A\|מִמֶּֽ]][[H9030\|נִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HUMILITY|HUMILITY]] • [[topic PRESUMPTION|PRESUMPTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.131.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.131.0|<< Psalms 131:0]]</td><td align="center" style="border:none;">[[Ps.131|Psalms 131]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.131.2|Psalms 131:2 >>]]</td></tr></table>
 

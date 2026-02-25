@@ -1,10 +1,68 @@
+---
+title: Revelation 14:2
+type: Verse
+kjv: "And I heard a voice from heaven, as the voice of many waters, and as the voice of a great thunder: and I heard the voice of harpers harping with their harps:"
+bsb: "And I heard a sound from heaven like the roar of many waters and the loud rumbling of thunder. And the sound I heard was like harpists strumming their harps."
+greek: "Καὶ ἤκουσα φωνὴν ἐκ τοῦ οὐρανοῦ ὡς φωνὴν ὑδάτων πολλῶν καὶ ὡς φωνὴν βροντῆς μεγάλης, καὶ ἡ φωνὴ ἣν ἤκουσα ὡς κιθαρῳδῶν κιθαριζόντων ἐν ταῖς κιθάραις αὐτῶν."
+pericope: "[[Rev.14.1 The Lamb and the 144,000|The Lamb and the 144,000]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 14
+book/chapter: "[[Rev.14|Revelation 14]]"
+chronological_order: 1181
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CELIBACY|CELIBACY]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic HARP|HARP]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SONG|SONG]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G5456G]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G5613]]"
+- "[[G5204]]"
+- "[[G4183]]"
+- "[[G1027]]"
+- "[[G3173]]"
+- "[[G3739]]"
+- "[[G2790]]"
+- "[[G2789]]"
+- "[[G1722]]"
+- "[[G2788]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+- NO
+---
+
 **Revelation 14:2**<big><big>[[Rev.14.1 The Lamb and the 144,000|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I heard a voice from heaven, as the voice of many waters, and as the voice of a great thunder: and I heard the voice of harpers harping with their harps:
 <small><sub>**BSB:**</sub></small>
 And I heard a sound from heaven like the roar of many waters and the loud rumbling of thunder. And the sound I heard was like harpists strumming their harps.
-<small><sub>**Literal:**</sub></small>
-And I heard a voice out of <the> heaven as [the] sound of waters many and as [the] sound of thunder loud, And the voice that I heard [was] like that of harpists harping with the harps of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.1|<< Revelation 14:1]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.3|Revelation 14:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0191\|ἤκουσα]]  [[G5456G\|φωνὴν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G5613\|ὡς]]  [[G5456G\|φωνὴν]]  [[G5204\|ὑδάτων]]  [[G4183\|πολλῶν]]  [[G2532\|καὶ]]  [[G5613\|ὡς]]  [[G5456G\|φωνὴν]]  [[G1027\|βροντῆς]]  [[G3173\|μεγάλης,]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G5456G\|φωνὴ]]  [[G3739\|ἣν]]  [[G0191\|ἤκουσα]]  [[G5613\|ὡς]]  [[G2790\|κιθαρῳδῶν]]  [[G2789\|κιθαριζόντων]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2788\|κιθάραις]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CELIBACY|CELIBACY]] • [[topic CHASTITY|CHASTITY]] • [[topic HARP|HARP]] • [[topic HEAVEN|HEAVEN]] • [[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SONG|SONG]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.1|<< Revelation 14:1]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.3|Revelation 14:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

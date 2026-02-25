@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Calls Philip and Nathanael
+type: Pericope
 pericope: "[[John.1.43 Jesus Calls Philip and Nathanael|Jesus Calls Philip and Nathanael]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: John
 chapter: 1
 book/chapter: "[[John.1|John 1]]"
-genre:
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 9
 verses:
 - "[[John.1.43]]"
 - "[[John.1.44]]"
@@ -27,7 +34,7 @@ verses:
 - "[[John.1.51]]"
 ---
 
-[[John.1|John 1:43 - John 1:51]]
+<small>[[John.1|John 1:43-51]]</small>
 *Jesus Calls Philip and Nathanael*
 
 [[John.1.43|43]] The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me.

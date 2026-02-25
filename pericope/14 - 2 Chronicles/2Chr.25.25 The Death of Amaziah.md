@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Death of Amaziah
+type: Pericope
 pericope: "[[2Chr.25.25 The Death of Amaziah|The Death of Amaziah]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 25
 book/chapter: "[[2Chr.25|2 Chronicles 25]]"
-genre:
+chronological_order: 592
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 4
 verses:
 - "[[2Chr.25.25]]"
 - "[[2Chr.25.26]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Chr.25.28]]"
 ---
 
-[[2Chr.25|2 Chronicles 25:25 - 2 Chronicles 25:28]]
+<small>[[2Chr.25|2 Chronicles 25:25-28]]</small>
 *The Death of Amaziah*
 
 [[2Chr.25.25|25]] And Amaziah the son of Joash king of Judah lived after the death of Joash son of Jehoahaz king of Israel fifteen years.

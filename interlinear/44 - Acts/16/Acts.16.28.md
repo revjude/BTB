@@ -1,10 +1,64 @@
+---
+title: Acts 16:28
+type: Verse
+kjv: "But Paul cried with a loud voice, saying, Do thyself no harm: for we are all here."
+bsb: "But Paul called out in a loud voice, “Do not harm yourself! We are all here!”"
+greek: "Ἐφώνησεν δὲ μεγάλῃ φωνῇ ὁ Παῦλος λέγων· μηδὲν πράξῃς σεαυτῷ κακόν· ἅπαντες γάρ ἐσμεν ἐνθάδε."
+pericope: "[[Acts.16.25 The Conversion of the Jailer|The Conversion of the Jailer]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic CRIMINALS|CRIMINALS]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JAILER (JAILOR)|JAILER (JAILOR)]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SILAS|SILAS]]"
+strongs:
+- "[[G5455]]"
+- "[[G1161]]"
+- "[[G3173]]"
+- "[[G5456G]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G3004G]]"
+- "[[G3367]]"
+- "[[G4238]]"
+- "[[G4771]]"
+- "[[G2556H]]"
+- "[[G0537]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G1759]]"
+texts:
+- NKO
+---
+
 **Acts 16:28**<big><big>[[Acts.16.25 The Conversion of the Jailer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Paul cried with a loud voice, saying, Do thyself no harm: for we are all here.
 <small><sub>**BSB:**</sub></small>
 But Paul called out in a loud voice, “Do not harm yourself! We are all here!”
-<small><sub>**Literal:**</sub></small>
-Called out however in a loud voice <the> Paul saying; Not may do to yourself harm; all for we are here.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.27|<< Acts 16:27]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.29|Acts 16:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5455\|Ἐφώνησεν]]  [[G1161\|δὲ]]  [[G3173\|μεγάλῃ]]  [[G5456G\|φωνῇ]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος]]  [[G3004G\|λέγων·]]  [[G3367\|μηδὲν]]  [[G4238\|πράξῃς]]  [[G4771\|σεαυτῷ]]  [[G2556H\|κακόν·]]  [[G0537\|ἅπαντες]]  [[G1063\|γάρ]]  [[G1510\|ἐσμεν]]  [[G1759\|ἐνθάδε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic CRIMINALS|CRIMINALS]] • [[topic FAMILY|FAMILY]] • [[topic GOD|GOD]] • [[topic JAILER (JAILOR)|JAILER (JAILOR)]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PHILIPPI|PHILIPPI]] • [[topic PRISONERS|PRISONERS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SILAS|SILAS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.27|<< Acts 16:27]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.29|Acts 16:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

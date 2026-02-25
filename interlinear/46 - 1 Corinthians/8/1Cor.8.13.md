@@ -1,10 +1,63 @@
+---
+title: 1 Corinthians 8:13
+type: Verse
+kjv: "Wherefore, if meat make my brother to offend, I will eat no flesh while the world standeth, lest I make my brother to offend."
+bsb: "Therefore, if what I eat causes my brother to stumble, I will never eat meat again, so that I will not cause him to stumble."
+greek: "διόπερ εἰ βρῶμα σκανδαλίζει τὸν ἀδελφόν μου, οὐ μὴ φάγω κρέα εἰς τὸν αἰῶνα ἵνα μὴ τὸν ἀδελφόν μου σκανδαλίσω.¶"
+pericope: "[[1Cor.8.1 Food Sacrificed to Idols|Food Sacrificed to Idols]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 8
+book/chapter: "[[1Cor.8|1 Corinthians 8]]"
+chronological_order: 1065
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic EVIL|EVIL]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic EXPEDIENCY|EXPEDIENCY]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic STUMBLING|STUMBLING]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G1355]]"
+- "[[G1487G]]"
+- "[[G1033]]"
+- "[[G4624]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G3165]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G5315]]"
+- "[[G2907]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+- "[[G2443]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 8:13**<big><big>[[1Cor.8.1 Food Sacrificed to Idols|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore, if meat make my brother to offend, I will eat no flesh while the world standeth, lest I make my brother to offend.
 <small><sub>**BSB:**</sub></small>
 Therefore, if what I eat causes my brother to stumble, I will never eat meat again, so that I will not cause him to stumble.
-<small><sub>**Literal:**</sub></small>
-Therefore if food snares the brother of mine, certainly not shall I eat meat to the age so that not the brother of mine I may snare.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.12|<< 1 Corinthians 8:12]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.1|1 Corinthians 9:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1355\|διόπερ]]  [[G1487G\|εἰ]]  [[G1033\|βρῶμα]]  [[G4624\|σκανδαλίζει]]  [[G3588\|τὸν]]  [[G0080\|ἀδελφόν]]  [[G3165\|μου,]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G5315\|φάγω]]  [[G2907\|κρέα]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G0165H\|αἰῶνα]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G3588\|τὸν]]  [[G0080\|ἀδελφόν]]  [[G3165\|μου]]  [[G4624\|σκανδαλίσω.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic EVIL|EVIL]] • [[topic EXAMPLE|EXAMPLE]] • [[topic EXPEDIENCY|EXPEDIENCY]] • [[topic FRATERNITY|FRATERNITY]] • [[topic IDOLATRY|IDOLATRY]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic STUMBLING|STUMBLING]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.12|<< 1 Corinthians 8:12]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.1|1 Corinthians 9:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

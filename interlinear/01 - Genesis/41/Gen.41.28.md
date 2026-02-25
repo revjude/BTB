@@ -1,8 +1,65 @@
+---
+title: Genesis 41:28
+type: Verse
+kjv: "This is the thing which I have spoken unto Pharaoh: What God is about to do he sheweth unto Pharaoh."
+bsb: "It is just as I said to Pharaoh: God has shown Pharaoh what He is about to do."
+hebrew: "ה֣וּא הַדָּבָ֔ר אֲשֶׁ֥ר דִּבַּ֖רְתִּי אֶל־ פַּרְעֹ֑ה אֲשֶׁ֧ר הָאֱלֹהִ֛ים עֹשֶׂ֖ה הֶרְאָ֥ה אֶת־ פַּרְעֹֽה׃"
+pericope: "[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|Joseph Interprets Pharaoh’s Dreams]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic KINE (BOVINE)|KINE (BOVINE)]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROMOTION|PROMOTION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H1931]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6547H]]"
+- "[[H0430G]]"
+- "[[H6213A]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:28**<big><big>[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the thing which I have spoken unto Pharaoh: What God [is] about to do he sheweth unto Pharaoh.
 <small><sub>**BSB:**</sub></small>
 It is just as I said to Pharaoh: God has shown Pharaoh what He is about to do.
+<small><sub>**Hebrew:**</sub></small>
+[[H1931\|ה֣וּא]] [[H9009\|הַ]][[H1697I\|דָּבָ֔ר]] [[H0834A\|אֲשֶׁ֥ר]] [[H1696G\|דִּבַּ֖רְתִּי]] [[H0413\|אֶל]][[H9014\|־]] [[H6547H\|פַּרְעֹ֑ה]] [[H0834A\|אֲשֶׁ֧ר]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֛ים]] [[H6213A\|עֹשֶׂ֖ה]] [[H7200G\|הֶרְאָ֥ה]] [[H0853\|אֶת]][[H9014\|־]] [[H6547H\|פַּרְעֹֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HEATHEN|HEATHEN]] • [[topic JOSEPH|JOSEPH]] • [[topic KINE (BOVINE)|KINE (BOVINE)]] • [[topic PRISONERS|PRISONERS]] • [[topic PROMOTION|PROMOTION]] • [[topic SERVANT|SERVANT]] • [[topic SEVEN|SEVEN]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.27|<< Genesis 41:27]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.29|Genesis 41:29 >>]]</td></tr></table>
 

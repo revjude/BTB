@@ -1,10 +1,51 @@
+---
+title: Mark 10:9
+type: Verse
+kjv: "What therefore God hath joined together, let not man put asunder."
+bsb: "Therefore what God has joined together, let man not separate.”"
+jesus_said: "What therefore God hath joined together, let not man put asunder."
+greek: "ὃ οὖν ὁ θεὸς συνέζευξεν, ἄνθρωπος μὴ χωριζέτω.¶"
+pericope: "[[Mark.10.1 Teachings about Divorce|Teachings about Divorce]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+strongs:
+- "[[G3739]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G4801]]"
+- "[[G0444]]"
+- "[[G3361]]"
+- "[[G5563]]"
+texts:
+- NKO
+---
+
 **Mark 10:9**<big><big>[[Mark.10.1 Teachings about Divorce|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 What therefore God hath joined together, let not man put asunder.
 <small><sub>**BSB:**</sub></small>
 Therefore what God has joined together, let man not separate.”
-<small><sub>**Literal:**</sub></small>
-What therefore <the> God has joined together, man not should separate.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.8|<< Mark 10:8]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.10|Mark 10:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃ]]  [[G3767\|οὖν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G4801\|συνέζευξεν,]]  [[G0444\|ἄνθρωπος]]  [[G3361\|μὴ]]  [[G5563\|χωριζέτω.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARRIAGE|MARRIAGE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.8|<< Mark 10:8]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.10|Mark 10:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,78 @@
+---
+title: Daniel 9:7
+type: Verse
+kjv: "O Lord, righteousness belongeth unto thee, but unto us confusion of faces, as at this day; to the men of Judah, and to the inhabitants of Jerusalem, and unto all Israel, that are near, and that are far off, through all the countries whither thou hast driven them, because of their trespass that they have trespassed against thee."
+bsb: "To You, O Lord, belongs righteousness, but this day we are covered with shame—the men of Judah, the people of Jerusalem, and all Israel near and far, in all the countries to which You have driven us because of our unfaithfulness to You."
+hebrew: "לְךָ֤ אֲדֹנָי֙ הַצְּדָקָ֔ה וְלָ֛נוּ בֹּ֥שֶׁת הַפָּנִ֖ים כַּיּ֣וֹם הַזֶּ֑ה לְאִ֤ישׁ יְהוּדָה֙ וּלְיוֹשְׁבֵ֣י יְרֽוּשָׁלִַ֔ם וּֽלְכָל־ יִשְׂרָאֵ֞ל הַקְּרֹבִ֣ים וְהָרְחֹקִ֗ים בְּכָל־ הָֽאֲרָצוֹת֙ אֲשֶׁ֣ר הִדַּחְתָּ֣ם שָׁ֔ם בְּמַעֲלָ֖ם אֲשֶׁ֥ר מָֽעֲלוּ־ בָֽךְ׃"
+pericope: "[[Dan.9.1 Daniel’s Prayer for His People|Daniel’s Prayer for His People]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 9
+book/chapter: "[[Dan.9|Daniel 9]]"
+chronological_order: 845
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0136]]"
+- "[[H9009]]"
+- "[[H6666]]"
+- "[[H9002]]"
+- "[[H9035]]"
+- "[[H1322]]"
+- "[[H6440L]]"
+- "[[H9004]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H0376I]]"
+- "[[H3063G]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H7138]]"
+- "[[H7350]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H5080]]"
+- "[[H9038]]"
+- "[[H8033G]]"
+- "[[H4604]]"
+- "[[H9028]]"
+- "[[H4603]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 9:7**<big><big>[[Dan.9.1 Daniel’s Prayer for His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O Lord, righteousness [belongeth] unto thee, but unto us confusion of faces, as at this day; to the men of Judah, and to the inhabitants of Jerusalem, and unto all Israel, [that are] near, and [that are] far off, through all the countries whither thou hast driven them, because of their trespass that they have trespassed against thee.
 <small><sub>**BSB:**</sub></small>
 To You, O Lord, belongs righteousness, but this day we are covered with shame—the men of Judah, the people of Jerusalem, and all Israel near and far, in all the countries to which You have driven us because of our unfaithfulness to You.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H9031\|ךָ֤]] [[H0136\|אֲדֹנָי֙]] [[H9009\|הַ]][[H6666\|צְּדָקָ֔ה]] [[H9002\|וְ]][[H9005\|לָ֛]][[H9035\|נוּ]] [[H1322\|בֹּ֥שֶׁת]] [[H9009\|הַ]][[H6440L\|פָּנִ֖ים]] [[H9004\|כַּ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9005\|לְ]][[H0376I\|אִ֤ישׁ]] [[H3063G\|יְהוּדָה֙]] [[H9002\|וּ]][[H9005\|לְ]][[H3427\|יוֹשְׁבֵ֣י]] [[H3389\|יְרֽוּשָׁלִַ֔ם]] [[H9002\|וּֽ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֞ל]] [[H9009\|הַ]][[H7138\|קְּרֹבִ֣ים]] [[H9002\|וְ]][[H9009\|הָ]][[H7350\|רְחֹקִ֗ים]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָֽ]][[H0776G\|אֲרָצוֹת֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5080\|הִדַּחְתָּ֣]][[H9038\|ם]] [[H8033G\|שָׁ֔ם]] [[H9003\|בְּ]][[H4604\|מַעֲלָ֖]][[H9028\|ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H4603\|מָֽעֲלוּ]][[H9014\|־]] [[H9003\|בָֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic NATION|NATION]] • [[topic PRAYER|PRAYER]] • [[topic PROPHETS|PROPHETS]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.6|<< Daniel 9:6]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.8|Daniel 9:8 >>]]</td></tr></table>
 

@@ -1,6 +1,58 @@
+---
+title: LXX Deuteronomy 16:12
+type: Verse
+lxx: "And you shall remember that you were a servant in the land of Egypt. And you shall guard and observe  these commandments."
+greek: "και μνησθήση ότι οικέτης ησθα εν γη Αιγύπτω και φυλάξη και ποιήσεις τας εντολάς ταύτας"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 16
+book/chapter: "[[Deut.16|Deuteronomy 16]]"
+chronological_order: 212
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic PENTECOST|PENTECOST]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[G2532]]"
+- "[[G3403]]"
+- "[[G3754]]"
+- "[[G3610]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G1093]]"
+- "[[G0125]]"
+- "[[G2532]]"
+- "[[G5442]]"
+- "[[G2532]]"
+- "[[G4160]]"
+- "[[G3588]]"
+- "[[G1785]]"
+- "[[G3778]]"
+---
+
 **LXX Deuteronomy 16:12** 
 <small><sub>**LXX:**</sub></small>
 And you shall remember that you were a servant in \[the\] land of Egypt. And you shall guard and observe  these commandments. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3403\|μνησθήση]] [[G3754\|ότι]] [[G3610\|οικέτης]] [[G1510\|ησθα]] [[G1722\|εν]] [[G1093\|γη]] [[G0125\|Αιγύπτω]] [[G2532\|και]] [[G5442\|φυλάξη]] [[G2532\|και]] [[G4160\|ποιήσεις]] [[G3588\|τας]] [[G1785\|εντολάς]] [[G3778\|ταύτας]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic PENTECOST|PENTECOST]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.16.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.11|<< Deuteronomy 16:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.13|Deuteronomy 16:13 >>]]</td></tr></table>
 
@@ -20,6 +72,6 @@ And you shall remember that you were a servant in \[the\] land of Egypt. And you
 | observe | **<big>[[G4160\|ποιήσεις]]</big>** |
 | \<obj.> | **<big>[[G3588\|τας]]</big>** |
 | these commandments. | **<big>[[G1785\|εντολάς]]</big>** **<big>[[G3778\|ταύτας]]</big>** |
-[[Deut.16.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.11|<< Deuteronomy 16:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.13|Deuteronomy 16:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.11|<< Deuteronomy 16:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.13|Deuteronomy 16:13 >>]]</td></tr></table>
 
 

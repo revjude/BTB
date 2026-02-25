@@ -1,8 +1,81 @@
+---
+title: Exodus 4:9
+type: Verse
+kjv: "And it shall come to pass, if they will not believe also these two signs, neither hearken unto thy voice, that thou shalt take of the water of the river, and pour it upon the dry land: and the water which thou takest out of the river shall become blood upon the dry land."
+bsb: "But if they do not believe even these two signs or listen to your voice, take some water from the Nile and pour it on the dry ground. Then the water you take from the Nile will become blood on the ground.”"
+hebrew: "וְהָיָ֡ה אִם־ לֹ֣א יַאֲמִ֡ינוּ גַּם֩ לִשְׁנֵ֨י הָאֹת֜וֹת הָאֵ֗לֶּה וְלֹ֤א יִשְׁמְעוּן֙ לְקֹלֶ֔ךָ וְלָקַחְתָּ֙ מִמֵּימֵ֣י הַיְאֹ֔ר וְשָׁפַכְתָּ֖ הַיַּבָּשָׁ֑ה וְהָי֤וּ הַמַּ֙יִם֙ אֲשֶׁ֣ר תִּקַּ֣ח מִן־ הַיְאֹ֔ר וְהָי֥וּ לְדָ֖ם בַּיַּבָּֽשֶׁת׃"
+pericope: "[[Exod.4.6 Moses’ Hand|Moses’ Hand]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 4
+book/chapter: "[[Exod.4|Exodus 4]]"
+chronological_order: 96
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic SIGN|SIGN]]"
+- "[[topic TOKEN|TOKEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H0539]]"
+- "[[H1571]]"
+- "[[H9005]]"
+- "[[H8147]]"
+- "[[H9009]]"
+- "[[H0226G]]"
+- "[[H0428]]"
+- "[[H9002]]"
+- "[[H8085G]]"
+- "[[H9013]]"
+- "[[H6963A]]"
+- "[[H9021]]"
+- "[[H3947G]]"
+- "[[H9006]]"
+- "[[H4325G]]"
+- "[[H2975G]]"
+- "[[H8210G]]"
+- "[[H3004]]"
+- "[[H0834A]]"
+- "[[H4480A]]"
+- "[[H1818]]"
+- "[[H9003]]"
+- "[[H3006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 4:9**<big><big>[[Exod.4.6 Moses’ Hand|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, if they will not believe also these two signs, neither hearken unto thy voice, that thou shalt take of the water of the river, and pour [it] upon the dry [land]: and the water which thou takest out of the river shall become blood upon the dry [land].
 <small><sub>**BSB:**</sub></small>
 But if they do not believe even these two signs or listen to your voice, take some water from the Nile and pour it on the dry ground. Then the water you take from the Nile will become blood on the ground.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֡ה]] [[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֣א]] [[H0539\|יַאֲמִ֡ינוּ]] [[H1571\|גַּם֩]] [[H9005\|לִ]][[H8147\|שְׁנֵ֨י]] [[H9009\|הָ]][[H0226G\|אֹת֜וֹת]] [[H9009\|הָ]][[H0428\|אֵ֗לֶּה]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H8085G\|יִשְׁמְעוּ]][[H9013\|ן֙]] [[H9005\|לְ]][[H6963A\|קֹלֶ֔]][[H9021\|ךָ]] [[H9001\|וְ]][[H3947G\|לָקַחְתָּ֙]] [[H9006\|מִ]][[H4325G\|מֵּימֵ֣י]] [[H9009\|הַ]][[H2975G\|יְאֹ֔ר]] [[H9001\|וְ]][[H8210G\|שָׁפַכְתָּ֖]] [[H9009\|הַ]][[H3004\|יַּבָּשָׁ֑ה]] [[H9001\|וְ]][[H1961\|הָי֤וּ]] [[H9009\|הַ]][[H4325G\|מַּ֙יִם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3947G\|תִּקַּ֣ח]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H2975G\|יְאֹ֔ר]] [[H9001\|וְ]][[H1961\|הָי֥וּ]] [[H9005\|לְ]][[H1818\|דָ֖ם]] [[H9003\|בַּ]][[H3006\|יַּבָּֽשֶׁת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic COMMUNION|COMMUNION]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic MIRACLES|MIRACLES]] • [[topic MOSES|MOSES]] • [[topic SIGN|SIGN]] • [[topic TOKEN|TOKEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.8|<< Exodus 4:8]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.10|Exodus 4:10 >>]]</td></tr></table>
 

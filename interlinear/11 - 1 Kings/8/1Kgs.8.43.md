@@ -1,8 +1,86 @@
+---
+title: 1 Kings 8:43
+type: Verse
+kjv: "Hear thou in heaven thy dwelling place, and do according to all that the stranger calleth to thee for: that all people of the earth may know thy name, to fear thee, as do thy people Israel; and that they may know that this house, which I have builded, is called by thy name."
+bsb: "then may You hear from heaven, Your dwelling place, and do according to all for which the foreigner calls to You. Then all the peoples of the earth will know Your name and fear You, as do Your people Israel, and they will know that this house I have built is called by Your Name."
+hebrew: "אַתָּ֞ה תִּשְׁמַ֤ע הַשָּׁמַ֙יִם֙ מְכ֣וֹן שִׁבְתֶּ֔ךָ וְעָשִׂ֕יתָ כְּכֹ֛ל אֲשֶׁר־ יִקְרָ֥א אֵלֶ֖יךָ הַנָּכְרִ֑י לְמַ֣עַן יֵדְעוּן֩ כָּל־ עַמֵּ֨י הָאָ֜רֶץ אֶת־ שְׁמֶ֗ךָ לְיִרְאָ֤ה אֹֽתְךָ֙ כְּעַמְּךָ֣ יִשְׂרָאֵ֔ל וְלָדַ֕עַת כִּי־ שִׁמְךָ֣ נִקְרָ֔א עַל־ הַבַּ֥יִת הַזֶּ֖ה אֲשֶׁ֥ר בָּנִֽיתִי׃"
+pericope: "[[1Kgs.8.22 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H0859A]]"
+- "[[H8085G]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H4349]]"
+- "[[H3427]]"
+- "[[H9041]]"
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H7121G]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H5237]]"
+- "[[H4616]]"
+- "[[H3045]]"
+- "[[H9013]]"
+- "[[H5971A]]"
+- "[[H0776G]]"
+- "[[H0853]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H3372G]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H7121H]]"
+- "[[H5921A]]"
+- "[[H1004B]]"
+- "[[H2088]]"
+- "[[H1129]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:43**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear thou in heaven thy dwelling place, and do according to all that the stranger calleth to thee for: that all people of the earth may know thy name, to fear thee, as [do] thy people Israel; and that they may know that this house, which I have builded, is called by thy name.
 <small><sub>**BSB:**</sub></small>
 then may You hear from heaven, Your dwelling place, and do according to all for which the foreigner calls to You. Then all the peoples of the earth will know Your name and fear You, as do Your people Israel, and they will know that this house I have built is called by Your Name.
+<small><sub>**Hebrew:**</sub></small>
+[[H0859A\|אַתָּ֞ה]] [[H8085G\|תִּשְׁמַ֤ע]] [[H9009\|הַ]][[H8064\|שָּׁמַ֙יִם֙]] [[H4349\|מְכ֣וֹן]] [[H3427\|שִׁבְתֶּ֔]][[H9041\|ךָ]] [[H9001\|וְ]][[H6213A\|עָשִׂ֕יתָ]] [[H9004\|כְּ]][[H3605\|כֹ֛ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7121G\|יִקְרָ֥א]] [[H0413\|אֵלֶ֖י]][[H9031\|ךָ]] [[H9009\|הַ]][[H5237\|נָּכְרִ֑י]] [[H4616\|לְמַ֣עַן]] [[H3045\|יֵדְעוּ]][[H9013\|ן֩]] [[H3605\|כָּל]][[H9014\|־]] [[H5971A\|עַמֵּ֨י]] [[H9009\|הָ]][[H0776G\|אָ֜רֶץ]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמֶ֗]][[H9021\|ךָ]] [[H9005\|לְ]][[H3372G\|יִרְאָ֤ה]] [[H0853\|אֹֽתְ]][[H9031\|ךָ֙]] [[H9004\|כְּ]][[H5971A\|עַמְּ]][[H9021\|ךָ֣]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וְ]][[H9005\|לָ]][[H3045\|דַ֕עַת]] [[H3588A\|כִּי]][[H9014\|־]] [[H8034\|שִׁמְ]][[H9021\|ךָ֣]] [[H7121H\|נִקְרָ֔א]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּ֥יִת]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H1129\|בָּנִֽיתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic HEAVEN|HEAVEN]] • [[topic INTERCESSION|INTERCESSION]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SALVATION|SALVATION]] • [[topic SIN|SIN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.42|<< 1 Kings 8:42]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.44|1 Kings 8:44 >>]]</td></tr></table>
 

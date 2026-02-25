@@ -1,8 +1,56 @@
+---
+title: Psalm 7:3
+type: Verse
+kjv: "O LORD my God, if I have done this; if there be iniquity in my hands;"
+bsb: "O LORD my God, if I have done this, if injustice is on my hands,"
+hebrew: "יְהוָ֣ה אֱ֭לֹהַי אִם־ עָשִׂ֣יתִי זֹ֑את אִֽם־ יֶשׁ־ עָ֥וֶל בְּכַפָּֽי׃"
+pericope: "[[Ps.7.1 I Take Refuge in You|I Take Refuge in You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 7
+book/chapter: "[[Ps.7|Psalm 7]]"
+chronological_order: 311
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic HONESTY|HONESTY]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+strongs:
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H2063]]"
+- "[[H3426]]"
+- "[[H5766A]]"
+- "[[H9003]]"
+- "[[H3709G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 7:3**<big><big>[[Ps.7.1 I Take Refuge in You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD my God, if I have done this; if there be iniquity in my hands;
 <small><sub>**BSB:**</sub></small>
 O LORD my God, if I have done this, if injustice is on my hands,
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱ֭לֹהַ]][[H9020\|י]] [[H0518A\|אִם]][[H9014\|־]] [[H6213A\|עָשִׂ֣יתִי]] [[H2063\|זֹ֑את]] [[H0518A\|אִֽם]][[H9014\|־]] [[H3426\|יֶשׁ]][[H9014\|־]] [[H5766A\|עָ֥וֶל]] [[H9003\|בְּ]][[H3709G\|כַפָּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HONESTY|HONESTY]] • [[topic INTEGRITY|INTEGRITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.7.2|<< Psalms 7:2]]</td><td align="center" style="border:none;">[[Ps.7|Psalms 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.7.4|Psalms 7:4 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Forty Years of Peace
+type: Pericope
 pericope: "[[Judg.8.28 Forty Years of Peace|Forty Years of Peace]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 8
 book/chapter: "[[Judg.8|Judges 8]]"
-genre:
+chronological_order: 262
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 4
 verses:
 - "[[Judg.8.28]]"
 - "[[Judg.8.29]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Judg.8.31]]"
 ---
 
-[[Judg.8|Judges 8:28 - Judges 8:31]]
+<small>[[Judg.8|Judges 8:28-31]]</small>
 *Forty Years of Peace*
 
 [[Judg.8.28|28]] Thus was Midian subdued before the children of Israel, so that they lifted up their heads no more. And the country was in quietness forty years in the days of Gideon.

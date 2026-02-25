@@ -1,10 +1,54 @@
+---
+title: Luke 8:26
+type: Verse
+kjv: "And they arrived at the country of the Gadarenes, which is over against Galilee."
+bsb: "Then they sailed to the region of the Gerasenes, across the lake from Galilee."
+greek: "καὶ κατέπλευσαν εἰς τὴν χώραν τῶν Γερασηνῶν ἥτις ἐστὶν ἀντιπέρα τῆς Γαλιλαίας.¶"
+pericope: "[[Luke.8.26 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2668]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G5561]]"
+- "[[G1086G]]"
+- "[[G3748]]"
+- "[[G1510]]"
+- "[[G0495]]"
+- "[[G1056G]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Luke 8:26**<big><big>[[Luke.8.26 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they arrived at the country of the Gadarenes, which is over against Galilee.
 <small><sub>**BSB:**</sub></small>
 Then they sailed to the region of the Gerasenes, across the lake from Galilee.
-<small><sub>**Literal:**</sub></small>
-And they sailed down to the region of the Gerasenes which is opposite <the> Galilee.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.25|<< Luke 8:25]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.27|Luke 8:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2668\|κατέπλευσαν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G5561\|χώραν]]  [[G3588\|τῶν]]  [[G1086G\|Γερασηνῶν]]  [[G3748\|ἥτις]]  [[G1510\|ἐστὶν]]  [[G0495\|ἀντιπέρα]]  [[G3588\|τῆς]]  [[G1056G\|Γαλιλαίας.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.25|<< Luke 8:25]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.27|Luke 8:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

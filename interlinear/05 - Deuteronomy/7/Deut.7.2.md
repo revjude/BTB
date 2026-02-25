@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 7:2
+type: Verse
+kjv: "And when the LORD thy God shall deliver them before thee; thou shalt smite them, and utterly destroy them; thou shalt make no covenant with them, nor shew mercy unto them:"
+bsb: "and when the LORD your God has delivered them over to you to defeat them, then you must devote them to complete destruction. Make no treaty with them and show them no mercy."
+hebrew: "וּנְתָנָ֞ם יְהוָ֧ה אֱלֹהֶ֛יךָ לְפָנֶ֖יךָ וְהִכִּיתָ֑ם הַחֲרֵ֤ם תַּחֲרִים֙ אֹתָ֔ם לֹא־ תִכְרֹ֥ת לָהֶ֛ם בְּרִ֖ית וְלֹ֥א תְחָנֵּֽם׃"
+pericope: "[[Deut.7.1 Drive Out the Nations|Drive Out the Nations]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 7
+book/chapter: "[[Deut.7|Deuteronomy 7]]"
+chronological_order: 203
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H5221]]"
+- "[[H2763A]]"
+- "[[H0853]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3772H]]"
+- "[[H1285]]"
+- "[[H9002]]"
+- "[[H2603A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 7:2**<big><big>[[Deut.7.1 Drive Out the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the LORD thy God shall deliver them before thee; thou shalt smite them, [and] utterly destroy them; thou shalt make no covenant with them, nor shew mercy unto them:
 <small><sub>**BSB:**</sub></small>
 and when the LORD your God has delivered them over to you to defeat them, then you must devote them to complete destruction. Make no treaty with them and show them no mercy.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H5414G\|נְתָנָ֞]][[H9038\|ם]] [[H3068G\|יְהוָ֧ה]] [[H0430G\|אֱלֹהֶ֛י]][[H9021\|ךָ]] [[H9005\|לְ]][[H6440G\|פָנֶ֖י]][[H9021\|ךָ]] [[H9001\|וְ]][[H5221\|הִכִּיתָ֑]][[H9038\|ם]] [[H2763A\|הַחֲרֵ֤ם]] [[H2763A\|תַּחֲרִים֙]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H3808\|לֹא]][[H9014\|־]] [[H3772H\|תִכְרֹ֥ת]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H1285\|בְּרִ֖ית]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H2603A\|תְחָנֵּֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic CANAANITES|CANAANITES]] • [[topic COMPANY|COMPANY]] • [[topic FELLOWSHIP|FELLOWSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.1|<< Deuteronomy 7:1]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.3|Deuteronomy 7:3 >>]]</td></tr></table>
 

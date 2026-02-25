@@ -1,8 +1,84 @@
+---
+title: Genesis 22:2
+type: Verse
+kjv: "And he said, Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of."
+bsb: "“Take your son,” God said, “your only son Isaac, whom you love, and go to the land of Moriah. Offer him there as a burnt offering on one of the mountains, which I will show you.”"
+hebrew: "וַיֹּ֡אמֶר קַח־ נָ֠א אֶת־ בִּנְךָ֨ אֶת־ יְחִֽידְךָ֤ אֲשֶׁר־ אָהַ֙בְתָּ֙ אֶת־ יִצְחָ֔ק וְלֶךְ־ לְךָ֔ אֶל־ אֶ֖רֶץ הַמֹּרִיָּ֑ה וְהַעֲלֵ֤הוּ שָׁם֙ לְעֹלָ֔ה עַ֚ל אַחַ֣ד הֶֽהָרִ֔ים אֲשֶׁ֖ר אֹמַ֥ר אֵלֶֽיךָ׃"
+pericope: "[[Gen.22.1 The Offering of Isaac|The Offering of Isaac]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 22
+book/chapter: "[[Gen.22|Genesis 22]]"
+chronological_order: 64
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic MORIAH|MORIAH]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3947G]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H0853]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H3173]]"
+- "[[H0834A]]"
+- "[[H0157G]]"
+- "[[H3327]]"
+- "[[H9002]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0413]]"
+- "[[H0776G]]"
+- "[[H9009]]"
+- "[[H4179]]"
+- "[[H5927I]]"
+- "[[H9033]]"
+- "[[H8033G]]"
+- "[[H5930A]]"
+- "[[H5921A]]"
+- "[[H0259]]"
+- "[[H2022G]]"
+- "[[H9016]]"
+texts:
+- L
+- LA(bh)
+---
+
 **Genesis 22:2**<big><big>[[Gen.22.1 The Offering of Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Take now thy son, thine only [son] Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of.
 <small><sub>**BSB:**</sub></small>
 “Take your son,” God said, “your only son Isaac, whom you love, and go to the land of Moriah. Offer him there as a burnt offering on one of the mountains, which I will show you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֡אמֶר]] [[H3947G\|קַח]][[H9014\|־]] [[H4994\|נָ֠א]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בִּנְ]][[H9021\|ךָ֨]] [[H0853\|אֶת]][[H9014\|־]] [[H3173\|יְחִֽידְ]][[H9021\|ךָ֤]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0157G\|אָהַ֙בְתָּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3327\|יִצְחָ֔ק]] [[H9002\|וְ]][[H1980G\|לֶךְ]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֔]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֖רֶץ]] [[H9009\|הַ]][[H4179\|מֹּרִיָּ֑ה]] [[H9002\|וְ]][[H5927I\|הַעֲלֵ֤]][[H9033\|הוּ]] [[H8033G\|שָׁם֙]] [[H9005\|לְ]][[H5930A\|עֹלָ֔ה]] [[H5921A\|עַ֚ל]] [[H0259\|אַחַ֣ד]] [[H9009\|הֶֽ]][[H2022G\|הָרִ֔ים]] [[H0834A\|אֲשֶׁ֖ר]] [[H0559\|אֹמַ֥ר]] [[H0413\|אֵלֶֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic ATONEMENT|ATONEMENT]] • [[topic COMMUNION|COMMUNION]] • [[topic COURAGE|COURAGE]] • [[topic FAITH|FAITH]] • [[topic HIGH PLACES|HIGH PLACES]] • [[topic ISAAC|ISAAC]] • [[topic MORIAH|MORIAH]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic TEMPLE|TEMPLE]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.22.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.22.1|<< Genesis 22:1]]</td><td align="center" style="border:none;">[[Gen.22|Genesis 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.22.3|Genesis 22:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

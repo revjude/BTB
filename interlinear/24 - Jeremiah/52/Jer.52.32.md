@@ -1,8 +1,63 @@
+---
+title: Jeremiah 52:32
+type: Verse
+kjv: "And spake kindly unto him, and set his throne above the throne of the kings that were with him in Babylon,"
+bsb: "And he spoke kindly to Jehoiachin and set his throne above the thrones of the other kings who were with him in Babylon."
+hebrew: "וַיְדַבֵּ֥ר אִתּ֖וֹ טֹב֑וֹת וַיִּתֵּן֙ אֶת־ כִּסְא֔וֹ מִמַּ֗עַל לְכִסֵּ֧א הַמְּלָכִ֛ים אֲשֶׁ֥ר אִתּ֖וֹ בְּבָבֶֽל׃"
+pericope: "[[Jer.52.31 Jehoiachin Released from Prison|Jehoiachin Released from Prison]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 52
+book/chapter: "[[Jer.52|Jeremiah 52]]"
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EVIL-MERODACH|EVIL-MERODACH]]"
+- "[[topic JEHOIACHIN|JEHOIACHIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H2896C]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3678I]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H4605]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H0894]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 52:32**<big><big>[[Jer.52.31 Jehoiachin Released from Prison|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And spake kindly unto him, and set his throne above the throne of the kings that [were] with him in Babylon,
 <small><sub>**BSB:**</sub></small>
 And he spoke kindly to Jehoiachin and set his throne above the thrones of the other kings who were with him in Babylon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֥ר]] [[H0854\|אִתּ֖]][[H9033\|וֹ]] [[H2896C\|טֹב֑וֹת]] [[H9001\|וַ]][[H5414G\|יִּתֵּן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3678I\|כִּסְא֔]][[H9023\|וֹ]] [[H9006\|מִ]][[H4605\|מַּ֗עַל]] [[H9005\|לְ]][[H3678I\|כִסֵּ֧א]] [[H9009\|הַ]][[H4428G\|מְּלָכִ֛ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H0854\|אִתּ֖]][[H9033\|וֹ]] [[H9003\|בְּ]][[H0894\|בָבֶֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EVIL-MERODACH|EVIL-MERODACH]] • [[topic JEHOIACHIN|JEHOIACHIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.31|<< Jeremiah 52:31]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.33|Jeremiah 52:33 >>]]</td></tr></table>
 

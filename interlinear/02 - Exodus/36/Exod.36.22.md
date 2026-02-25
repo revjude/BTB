@@ -1,8 +1,60 @@
+---
+title: Exodus 36:22
+type: Verse
+kjv: "One board had two tenons, equally distant one from another: thus did he make for all the boards of the tabernacle."
+bsb: "Two tenons were connected to each other for each frame. He made all the frames of the tabernacle in this way."
+hebrew: "שְׁתֵּ֣י יָדֹ֗ת לַקֶּ֙רֶשׁ֙ הָֽאֶחָ֔ד מְשֻׁלָּבֹ֔ת אַחַ֖ת אֶל־ אֶחָ֑ת כֵּ֣ן עָשָׂ֔ה לְכֹ֖ל קַרְשֵׁ֥י הַמִּשְׁכָּֽן׃"
+pericope: "[[Exod.36.20 The Frames and Bases|The Frames and Bases]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 36
+book/chapter: "[[Exod.36|Exodus 36]]"
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H8147]]"
+- "[[H3027G]]"
+- "[[H9005]]"
+- "[[H7175]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H7947]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H6213A]]"
+- "[[H3605]]"
+- "[[H4908]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 36:22**<big><big>[[Exod.36.20 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 One board had two tenons, equally distant one from another: thus did he make for all the boards of the tabernacle.
 <small><sub>**BSB:**</sub></small>
 Two tenons were connected to each other for each frame. He made all the frames of the tabernacle in this way.
+<small><sub>**Hebrew:**</sub></small>
+[[H8147\|שְׁתֵּ֣י]] [[H3027G\|יָדֹ֗ת]] [[H9005\|לַ]][[H7175\|קֶּ֙רֶשׁ֙]] [[H9009\|הָֽ]][[H0259\|אֶחָ֔ד]] [[H7947\|מְשֻׁלָּבֹ֔ת]] [[H0259\|אַחַ֖ת]] [[H0413\|אֶל]][[H9014\|־]] [[H0259\|אֶחָ֑ת]] [[H3651C\|כֵּ֣ן]] [[H6213A\|עָשָׂ֔ה]] [[H9005\|לְ]][[H3605\|כֹ֖ל]] [[H7175\|קַרְשֵׁ֥י]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.21|<< Exodus 36:21]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.23|Exodus 36:23 >>]]</td></tr></table>
 

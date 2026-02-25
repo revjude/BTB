@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Nothing May Be Added or Removed
+type: Pericope
 pericope: "[[Rev.22.18 Nothing May Be Added or Removed|Nothing May Be Added or Removed]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 22
 book/chapter: "[[Rev.22|Revelation 22]]"
-genre:
+chronological_order: 1189
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 4
 verses:
 - "[[Rev.22.18]]"
 - "[[Rev.22.19]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Rev.22.21]]"
 ---
 
-[[Rev.22|Revelation 22:18 - Revelation 22:21]]
+<small>[[Rev.22|Revelation 22:18-21]]</small>
 *Nothing May Be Added or Removed*
 
 [[Rev.22.18|18]] For I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto these things, God shall add unto him the plagues that are written in this book:

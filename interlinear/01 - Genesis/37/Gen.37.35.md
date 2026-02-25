@@ -1,8 +1,76 @@
+---
+title: Genesis 37:35
+type: Verse
+kjv: "And all his sons and all his daughters rose up to comfort him; but he refused to be comforted; and he said, For I will go down into the grave unto my son mourning. Thus his father wept for him."
+bsb: "All his sons and daughters tried to comfort him, but he refused to be comforted. “No,” he said. “I will go down to Sheol mourning for my son.” So his father wept for him."
+hebrew: "וַיָּקֻמוּ֩ כָל־ בָּנָ֨יו וְכָל־ בְּנֹתָ֜יו לְנַחֲמ֗וֹ וַיְמָאֵן֙ לְהִתְנַחֵ֔ם וַיֹּ֕אמֶר כִּֽי־ אֵרֵ֧ד אֶל־ בְּנִ֛י אָבֵ֖ל שְׁאֹ֑לָה וַיֵּ֥בְךְּ אֹת֖וֹ אָבִֽיו׃"
+pericope: "[[Gen.37.31 Jacob Mourns Joseph|Jacob Mourns Joseph]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 37
+book/chapter: "[[Gen.37|Genesis 37]]"
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BEREAVEMENT|BEREAVEMENT]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HELL|HELL]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISHMAELITES|ISHMAELITES]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic SORROW|SORROW]]"
+- "[[topic WEEPING|WEEPING]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H9005]]"
+- "[[H5162G]]"
+- "[[H9033]]"
+- "[[H3985]]"
+- "[[H0559]]"
+- "[[H3588A]]"
+- "[[H3381]]"
+- "[[H0413]]"
+- "[[H9020]]"
+- "[[H0057]]"
+- "[[H7585]]"
+- "[[H9011]]"
+- "[[H1058]]"
+- "[[H0853]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 37:35**<big><big>[[Gen.37.31 Jacob Mourns Joseph|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all his sons and all his daughters rose up to comfort him; but he refused to be comforted; and he said, For I will go down into the grave unto my son mourning. Thus his father wept for him.
 <small><sub>**BSB:**</sub></small>
 All his sons and daughters tried to comfort him, but he refused to be comforted. “No,” he said. “I will go down to Sheol mourning for my son.” So his father wept for him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּקֻמוּ֩]] [[H3605\|כָל]][[H9014\|־]] [[H1121A\|בָּנָ֨י]][[H9023\|ו]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1323G\|בְּנֹתָ֜י]][[H9023\|ו]] [[H9005\|לְ]][[H5162G\|נַחֲמ֗]][[H9033\|וֹ]] [[H9001\|וַ]][[H3985\|יְמָאֵן֙]] [[H9005\|לְ]][[H5162G\|הִתְנַחֵ֔ם]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3381\|אֵרֵ֧ד]] [[H0413\|אֶל]][[H9014\|־]] [[H1121A\|בְּנִ֛]][[H9020\|י]] [[H0057\|אָבֵ֖ל]] [[H7585\|שְׁאֹ֑לָ]][[H9011\|ה]] [[H9001\|וַ]][[H1058\|יֵּ֥בְךְּ]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H0001G\|אָבִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEREAVEMENT|BEREAVEMENT]] • [[topic DECEPTION|DECEPTION]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HELL|HELL]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISHMAELITES|ISHMAELITES]] • [[topic JACOB|JACOB]] • [[topic JOSEPH|JOSEPH]] • [[topic SORROW|SORROW]] • [[topic WEEPING|WEEPING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.34|<< Genesis 37:34]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.36|Genesis 37:36 >>]]</td></tr></table>
 

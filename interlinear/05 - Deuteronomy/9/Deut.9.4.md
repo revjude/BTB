@@ -1,8 +1,75 @@
+---
+title: Deuteronomy 9:4
+type: Verse
+kjv: "Speak not thou in thine heart, after that the LORD thy God hath cast them out from before thee, saying, For my righteousness the LORD hath brought me in to possess this land: but for the wickedness of these nations the LORD doth drive them out from before thee."
+bsb: "When the LORD your God has driven them out before you, do not say in your heart, “Because of my righteousness the LORD has brought me in to possess this land.” Rather, the LORD is driving out these nations before you because of their wickedness."
+hebrew: "אַל־ תֹּאמַ֣ר בִּלְבָבְךָ֗ בַּהֲדֹ֣ף יְהוָה֩ אֱלֹהֶ֨יךָ אֹתָ֥ם׀ מִלְּפָנֶיךָ֮ לֵאמֹר֒ בְּצִדְקָתִי֙ הֱבִיאַ֣נִי יְהוָ֔ה לָרֶ֖שֶׁת אֶת־ הָאָ֣רֶץ הַזֹּ֑את וּבְרִשְׁעַת֙ הַגּוֹיִ֣ם הָאֵ֔לֶּה יְהוָ֖ה מוֹרִישָׁ֥ם מִפָּנֶֽיךָ׃"
+pericope: "[[Deut.9.1 Assurance of Victory|Assurance of Victory]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 9
+book/chapter: "[[Deut.9|Deuteronomy 9]]"
+chronological_order: 205
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H3824]]"
+- "[[H9021]]"
+- "[[H1920]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H6666]]"
+- "[[H9020]]"
+- "[[H0935P]]"
+- "[[H9030]]"
+- "[[H3423H]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H9002]]"
+- "[[H7564]]"
+- "[[H1471A]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 9:4**<big><big>[[Deut.9.1 Assurance of Victory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak not thou in thine heart, after that the LORD thy God hath cast them out from before thee, saying, For my righteousness the LORD hath brought me in to possess this land: but for the wickedness of these nations the LORD doth drive them out from before thee.
 <small><sub>**BSB:**</sub></small>
 When the LORD your God has driven them out before you, do not say in your heart, “Because of my righteousness the LORD has brought me in to possess this land.” Rather, the LORD is driving out these nations before you because of their wickedness.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H0559\|תֹּאמַ֣ר]] [[H9003\|בִּ]][[H3824\|לְבָבְ]][[H9021\|ךָ֗]] [[H9003\|בַּ]][[H1920\|הֲדֹ֣ף]] [[H3068G\|יְהוָה֩]] [[H0430G\|אֱלֹהֶ֨י]][[H9021\|ךָ]] [[H0853\|אֹתָ֥]][[H9038\|ם]][[H9015\|׀]] [[H9006\|מִ]][[H9005\|לְּ]][[H6440G\|פָנֶי]][[H9021\|ךָ֮]] [[H9005\|לֵ]][[H0559\|אמֹר֒]] [[H9003\|בְּ]][[H6666\|צִדְקָתִ]][[H9020\|י֙]] [[H0935P\|הֱבִיאַ֣]][[H9030\|נִי]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לָ]][[H3423H\|רֶ֖שֶׁת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H9002\|וּ]][[H9003\|בְ]][[H7564\|רִשְׁעַת֙]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֣ם]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H3068G\|יְהוָ֖ה]] [[H3423H\|מוֹרִישָׁ֥]][[H9038\|ם]] [[H9006\|מִ]][[H6440G\|פָּנֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GRACE OF GOD|GRACE OF GOD]] • [[topic HUMILITY|HUMILITY]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.3|<< Deuteronomy 9:3]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.5|Deuteronomy 9:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,10 +1,57 @@
+---
+title: Revelation 2:4
+type: Verse
+kjv: "Nevertheless I have somewhat against thee, because thou hast left thy first love."
+bsb: "But I have this against you: You have abandoned your first love."
+jesus_said: "Nevertheless I have somewhat against thee, because thou hast left thy first love."
+greek: "ἀλλ᾽ ἔχω κατὰ σοῦ ὅτι τὴν ἀγάπην σου τὴν πρώτην ἀφῆκες."
+pericope: "[[Rev.2.1 To the Church in Ephesus|To the Church in Ephesus]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 2
+book/chapter: "[[Rev.2|Revelation 2]]"
+chronological_order: 1169
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic AFFECTIONS|AFFECTIONS]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic LUKEWARMNESS|LUKEWARMNESS]]"
+strongs:
+- "[[G0235]]"
+- "[[G2192]]"
+- "[[G2596]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G0026]]"
+- "[[G4413G]]"
+- "[[G0863G]]"
+texts:
+- NKO
+---
+
 **Revelation 2:4**<big><big>[[Rev.2.1 To the Church in Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Nevertheless I have [somewhat] against thee, because thou hast left thy first love.
 <small><sub>**BSB:**</sub></small>
 But I have this against you: You have abandoned your first love.
-<small><sub>**Literal:**</sub></small>
-But I have against you that the love of you <the> first you have abandoned.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.3|<< Revelation 2:3]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.5|Revelation 2:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G2192\|ἔχω]]  [[G2596\|κατὰ]]  [[G4771\|σοῦ]]  [[G3754G\|ὅτι]]  [[G3588\|τὴν]]  [[G0026\|ἀγάπην]]  [[G4771\|σου]]  [[G3588\|τὴν]]  [[G4413G\|πρώτην]]  [[G0863G\|ἀφῆκες.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFECTIONS|AFFECTIONS]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic EPHESUS|EPHESUS]] • [[topic INSTABILITY|INSTABILITY]] • [[topic LOVE|LOVE]] • [[topic LUKEWARMNESS|LUKEWARMNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.3|<< Revelation 2:3]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.5|Revelation 2:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

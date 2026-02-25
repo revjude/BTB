@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Solomon’s Benediction
+type: Pericope
 pericope: "[[1Kgs.8.54 Solomon’s Benediction|Solomon’s Benediction]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 8
 book/chapter: "[[1Kgs.8|1 Kings 8]]"
-genre:
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 8
 verses:
 - "[[1Kgs.8.54]]"
 - "[[1Kgs.8.55]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Kgs.8.61]]"
 ---
 
-[[1Kgs.8|1 Kings 8:54 - 1 Kings 8:61]]
+<small>[[1Kgs.8|1 Kings 8:54-61]]</small>
 *Solomon’s Benediction*
 
 [[1Kgs.8.54|54]] And it was \[so\], that when Solomon had made an end of praying all this prayer and supplication unto the LORD, he arose from before the altar of the LORD, from kneeling on his knees with his hands spread up to heaven.

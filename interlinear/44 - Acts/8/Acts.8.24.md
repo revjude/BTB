@@ -1,10 +1,60 @@
+---
+title: Acts 8:24
+type: Verse
+kjv: "Then answered Simon, and said, Pray ye to the Lord for me, that none of these things which ye have spoken come upon me."
+bsb: "Then Simon answered, “Pray to the Lord for me, so that nothing you have said may happen to me.”"
+greek: "ἀποκριθεὶς δὲ ὁ Σίμων εἶπεν· δεήθητε ὑμεῖς ὑπὲρ ἐμοῦ πρὸς τὸν κύριον, ὅπως μηδὲν ἐπέλθῃ ἐπ᾽ ἐμὲ ὧν εἰρήκατε."
+pericope: "[[Acts.8.9 Simon the Sorcerer|Simon the Sorcerer]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 8
+book/chapter: "[[Acts.8|Acts 8]]"
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SIMON|SIMON]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4613M]]"
+- "[[G2036]]"
+- "[[G1189]]"
+- "[[G4771]]"
+- "[[G5228]]"
+- "[[G1473]]"
+- "[[G4314]]"
+- "[[G2962G]]"
+- "[[G3704]]"
+- "[[G3367]]"
+- "[[G1904]]"
+- "[[G1909]]"
+- "[[G3739]]"
+- "[[G2046]]"
+texts:
+- NKO
+---
+
 **Acts 8:24**<big><big>[[Acts.8.9 Simon the Sorcerer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then answered Simon, and said, Pray ye to the Lord for me, that none of these things which ye have spoken come upon me.
 <small><sub>**BSB:**</sub></small>
 Then Simon answered, “Pray to the Lord for me, so that nothing you have said may happen to me.”
-<small><sub>**Literal:**</sub></small>
-Answering now <the> Simon said; do pray earnestly you yourselves on behalf of me to the Lord, so that nothing may come upon me myself of which you have spoken.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.23|<< Acts 8:23]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.25|Acts 8:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀποκριθεὶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G4613M\|Σίμων]]  [[G2036\|εἶπεν·]]  [[G1189\|δεήθητε]]  [[G4771\|ὑμεῖς]]  [[G5228\|ὑπὲρ]]  [[G1473\|ἐμοῦ]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2962G\|κύριον,]]  [[G3704\|ὅπως]]  [[G3367\|μηδὲν]]  [[G1904\|ἐπέλθῃ]]  [[G1909\|ἐπ᾽]]  [[G1473\|ἐμὲ]]  [[G3739\|ὧν]]  [[G2046\|εἰρήκατε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PETER|PETER]] • [[topic SAMARIA|SAMARIA]] • [[topic SIMON|SIMON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.23|<< Acts 8:23]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.25|Acts 8:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

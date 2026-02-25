@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Interior Structures
+type: Pericope
 pericope: "[[Ezek.41.15 The Interior Structures|The Interior Structures]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 41
 book/chapter: "[[Ezek.41|Ezekiel 41]]"
-genre:
+chronological_order: 832
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 12
 verses:
 - "[[Ezek.41.15]]"
 - "[[Ezek.41.16]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Ezek.41.26]]"
 ---
 
-[[Ezek.41|Ezekiel 41:15 - Ezekiel 41:26]]
+<small>[[Ezek.41|Ezekiel 41:15-26]]</small>
 *The Interior Structures*
 
 [[Ezek.41.15|15]] And he measured the length of the building over against the separate place which \[was\] behind it, and the galleries thereof on the one side and on the other side, an hundred cubits, with the inner temple, and the porches of the court;

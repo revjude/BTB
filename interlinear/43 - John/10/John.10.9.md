@@ -1,10 +1,59 @@
+---
+title: John 10:9
+type: Verse
+kjv: "I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture."
+bsb: "I am the gate. If anyone enters through Me, he will be saved. He will come in and go out and find pasture."
+jesus_said: "I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture."
+greek: "ἐγώ εἰμι ἡ θύρα· δι᾽ ἐμοῦ ἐάν τις εἰσέλθῃ, σωθήσεται καὶ εἰσελεύσεται καὶ ἐξελεύσεται καὶ νομὴν εὑρήσει."
+pericope: "[[John.10.1 Jesus the Good Shepherd|Jesus the Good Shepherd]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 10
+book/chapter: "[[John.10|John 10]]"
+chronological_order: 984
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+strongs:
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2374]]"
+- "[[G1223]]"
+- "[[G1437]]"
+- "[[G5100]]"
+- "[[G1525]]"
+- "[[G4982]]"
+- "[[G2532]]"
+- "[[G1831]]"
+- "[[G3542]]"
+- "[[G2147]]"
+texts:
+- NKO
+---
+
 **John 10:9**<big><big>[[John.10.1 Jesus the Good Shepherd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.
 <small><sub>**BSB:**</sub></small>
 I am the gate. If anyone enters through Me, he will be saved. He will come in and go out and find pasture.
-<small><sub>**Literal:**</sub></small>
-I myself am the door; through Me if anyone shall enter in, he will be saved and he will go in and will go out and pasture will find.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.8|<< John 10:8]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.10|John 10:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|ἐγώ]]  [[G1510\|εἰμι]]  [[G3588\|ἡ]]  [[G2374\|θύρα·]]  [[G1223\|δι᾽]]  [[G1473\|ἐμοῦ]]  [[G1437\|ἐάν]]  [[G5100\|τις]]  [[G1525\|εἰσέλθῃ,]]  [[G4982\|σωθήσεται]]  [[G2532\|καὶ]]  [[G1525\|εἰσελεύσεται]]  [[G2532\|καὶ]]  [[G1831\|ἐξελεύσεται]]  [[G2532\|καὶ]]  [[G3542\|νομὴν]]  [[G2147\|εὑρήσει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PENITENT|PENITENT]] • [[topic REGENERATION|REGENERATION]] • [[topic SHEEP|SHEEP]] • [[topic SHEPHERD|SHEPHERD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.8|<< John 10:8]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.10|John 10:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

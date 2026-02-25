@@ -1,8 +1,60 @@
+---
+title: 2 Kings 19:22
+type: Verse
+kjv: "Whom hast thou reproached and blasphemed? and against whom hast thou exalted thy voice, and lifted up thine eyes on high? even against the Holy One of Israel."
+bsb: "Whom have you taunted and blasphemed? Against whom have you raised your voice and lifted your eyes in pride? Against the Holy One of Israel!"
+hebrew: "אֶת־ מִ֤י חֵרַ֙פְתָּ֙ וְגִדַּ֔פְתָּ וְעַל־ מִ֖י הֲרִימ֣וֹתָ קּ֑וֹל וַתִּשָּׂ֥א מָר֛וֹם עֵינֶ֖יךָ עַל־ קְד֥וֹשׁ יִשְׂרָאֵֽל׃"
+pericope: "[[2Kgs.19.20 Sennacherib’s Fall Prophesied|Sennacherib’s Fall Prophesied]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 19
+book/chapter: "[[2Kgs.19|2 Kings 19]]"
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4310]]"
+- "[[H2778A]]"
+- "[[H9002]]"
+- "[[H1442]]"
+- "[[H5921A]]"
+- "[[H7311A]]"
+- "[[H6963A]]"
+- "[[H9001]]"
+- "[[H5375M]]"
+- "[[H4791]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H6918G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 19:22**<big><big>[[2Kgs.19.20 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whom hast thou reproached and blasphemed? and against whom hast thou exalted [thy] voice, and lifted up thine eyes on high? [even] against the Holy [One] of Israel.
 <small><sub>**BSB:**</sub></small>
 Whom have you taunted and blasphemed? Against whom have you raised your voice and lifted your eyes in pride? Against the Holy One of Israel!
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶת]][[H9014\|־]] [[H4310\|מִ֤י]] [[H2778A\|חֵרַ֙פְתָּ֙]] [[H9002\|וְ]][[H1442\|גִדַּ֔פְתָּ]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H4310\|מִ֖י]] [[H7311A\|הֲרִימ֣וֹתָ]] [[H6963A\|קּ֑וֹל]] [[H9001\|וַ]][[H5375M\|תִּשָּׂ֥א]] [[H4791\|מָר֛וֹם]] [[H5869A\|עֵינֶ֖י]][[H9021\|ךָ]] [[H5921A\|עַל]][[H9014\|־]] [[H6918G\|קְד֥וֹשׁ]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.21|<< 2 Kings 19:21]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.23|2 Kings 19:23 >>]]</td></tr></table>
 

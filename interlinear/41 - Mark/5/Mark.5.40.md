@@ -1,10 +1,61 @@
+---
+title: Mark 5:40
+type: Verse
+kjv: "And they laughed him to scorn. But when he had put them all out, he taketh the father and the mother of the damsel, and them that were with him, and entereth in where the damsel was lying."
+bsb: "And they laughed at Him. After He had put them all outside, He took the child’s father and mother and His own companions, and went in to see the child."
+greek: "καὶ κατεγέλων αὐτοῦ.¶ Αὐτὸς δὲ ἐκβαλὼν πάντας παραλαμβάνει τὸν πατέρα τοῦ παιδίου καὶ τὴν μητέρα καὶ τοὺς μετ᾽ αὐτοῦ καὶ εἰσπορεύεται ὅπου ἦν τὸ παιδίον ἀνακείμενον."
+pericope: "[[Mark.5.21 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JAIRUS|JAIRUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2606]]"
+- "[[G0846]]"
+- "[[G1161]]"
+- "[[G1544]]"
+- "[[G3956]]"
+- "[[G3880]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G3813]]"
+- "[[G3384]]"
+- "[[G3326]]"
+- "[[G1531]]"
+- "[[G3699]]"
+- "[[G1510]]"
+- "[[G0345]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **Mark 5:40**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they laughed him to scorn. But when he had put them all out, he taketh the father and the mother of the damsel, and them that were with him, and entereth in where the damsel was lying.
 <small><sub>**BSB:**</sub></small>
 And they laughed at Him. After He had put them all outside, He took the child’s father and mother and His own companions, and went in to see the child.
-<small><sub>**Literal:**</sub></small>
-And they were laughing at Him. He himself then having put out all takes with [Him] the father of the child and the mother and those with Him and enters in where was the child reclining.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.39|<< Mark 5:39]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.41|Mark 5:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2606\|κατεγέλων]]  [[G0846\|αὐτοῦ.¶]]  [[G0846\|Αὐτὸς]]  [[G1161\|δὲ]]  [[G1544\|ἐκβαλὼν]]  [[G3956\|πάντας]]  [[G3880\|παραλαμβάνει]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G3588\|τοῦ]]  [[G3813\|παιδίου]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G3384\|μητέρα]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G1531\|εἰσπορεύεται]]  [[G3699\|ὅπου]]  [[G1510\|ἦν]]  [[G3588\|τὸ]]  [[G3813\|παιδίον]]  [[G0345\|ἀνακείμενον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic JAIRUS|JAIRUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.39|<< Mark 5:39]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.41|Mark 5:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

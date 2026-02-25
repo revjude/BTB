@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Daniel’s Wisdom
+type: Pericope
 pericope: "[[Dan.1.17 Daniel’s Wisdom|Daniel’s Wisdom]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Daniel
 chapter: 1
 book/chapter: "[[Dan.1|Daniel 1]]"
-genre:
+chronological_order: 786
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 5
 verses:
 - "[[Dan.1.17]]"
 - "[[Dan.1.18]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Dan.1.21]]"
 ---
 
-[[Dan.1|Daniel 1:17 - Daniel 1:21]]
+<small>[[Dan.1|Daniel 1:17-21]]</small>
 *Daniel’s Wisdom*
 
 [[Dan.1.17|17]] As for these four children, God gave them knowledge and skill in all learning and wisdom: and Daniel had understanding in all visions and dreams.

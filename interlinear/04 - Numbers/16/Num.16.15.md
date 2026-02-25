@@ -1,8 +1,76 @@
+---
+title: Numbers 16:15
+type: Verse
+kjv: "And Moses was very wroth, and said unto the LORD, Respect not thou their offering: I have not taken one ass from them, neither have I hurt one of them."
+bsb: "Then Moses became very angry and said to the LORD, “Do not regard their offering. I have not taken one donkey from them or mistreated a single one of them.”"
+hebrew: "וַיִּ֤חַר לְמֹשֶׁה֙ מְאֹ֔ד וַיֹּ֙אמֶר֙ אֶל־ יְהוָ֔ה אַל־ תֵּ֖פֶן אֶל־ מִנְחָתָ֑ם לֹ֠א חֲמ֨וֹר אֶחָ֤ד מֵהֶם֙ נָשָׂ֔אתִי וְלֹ֥א הֲרֵעֹ֖תִי אֶת־ אַחַ֥ד מֵהֶֽם׃"
+pericope: "[[Num.16.1 Korah’s Rebellion|Korah’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DATHAN|DATHAN]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9001]]"
+- "[[H2734]]"
+- "[[H9005]]"
+- "[[H4872]]"
+- "[[H3966]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0408]]"
+- "[[H6437G]]"
+- "[[H4503G]]"
+- "[[H9028]]"
+- "[[H3808]]"
+- "[[H2543]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H5375H]]"
+- "[[H9002]]"
+- "[[H7489A]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 16:15**<big><big>[[Num.16.1 Korah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses was very wroth, and said unto the LORD, Respect not thou their offering: I have not taken one ass from them, neither have I hurt one of them.
 <small><sub>**BSB:**</sub></small>
 Then Moses became very angry and said to the LORD, “Do not regard their offering. I have not taken one donkey from them or mistreated a single one of them.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2734\|יִּ֤חַר]] [[H9005\|לְ]][[H4872\|מֹשֶׁה֙]] [[H3966\|מְאֹ֔ד]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H0408\|אַל]][[H9014\|־]] [[H6437G\|תֵּ֖פֶן]] [[H0413\|אֶל]][[H9014\|־]] [[H4503G\|מִנְחָתָ֑]][[H9028\|ם]] [[H3808\|לֹ֠א]] [[H2543\|חֲמ֨וֹר]] [[H0259\|אֶחָ֤ד]] [[H9006\|מֵ]][[H9038\|הֶם֙]] [[H5375H\|נָשָׂ֔אתִי]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H7489A\|הֲרֵעֹ֖תִי]] [[H0853\|אֶת]][[H9014\|־]] [[H0259\|אַחַ֥ד]] [[H9006\|מֵ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DATHAN|DATHAN]] • [[topic INTEGRITY|INTEGRITY]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic PRAYER|PRAYER]] • [[topic RULERS|RULERS]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.14|<< Numbers 16:14]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.16|Numbers 16:16 >>]]</td></tr></table>
 

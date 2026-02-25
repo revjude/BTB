@@ -1,8 +1,67 @@
+---
+title: 1 Samuel 11:9
+type: Verse
+kjv: "And they said unto the messengers that came, Thus shall ye say unto the men of Jabeshgilead, To morrow, by that time the sun be hot, ye shall have help. And the messengers came and shewed it to the men of Jabesh; and they were glad."
+bsb: "So they said to the messengers who had come, “Tell the men of Jabesh-gilead: ‘Deliverance will be yours tomorrow by the time the sun is hot.’” And when the messengers relayed this to the men of Jabesh, they rejoiced."
+hebrew: "וַיֹּאמְר֞וּ לַמַּלְאָכִ֣ים הַבָּאִ֗ים כֹּ֤ה תֹֽאמְרוּן֙ לְאִישׁ֙ יָבֵ֣ישׁ גִּלְעָ֔ד מָחָ֛ר תִּהְיֶֽה־ לָכֶ֥ם תְּשׁוּעָ֖ה כְּחֹ֣ם הַשָּׁ֑מֶשׁ וַיָּבֹ֣אוּ הַמַּלְאָכִ֗ים וַיַּגִּ֛ידוּ לְאַנְשֵׁ֥י יָבֵ֖ישׁ וַיִּשְׂמָֽחוּ׃"
+pericope: "[[1Sam.11.1 Saul Defeats the Ammonites|Saul Defeats the Ammonites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 11
+book/chapter: "[[1Sam.11|1 Samuel 11]]"
+chronological_order: 290
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic JABESH-GILEAD|JABESH-GILEAD]]"
+- "[[topic NAHASH|NAHASH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H4397G]]"
+- "[[H9009]]"
+- "[[H0935G]]"
+- "[[H3541]]"
+- "[[H9013]]"
+- "[[H0376G]]"
+- "[[H3003I]]"
+- "[[H1568L]]"
+- "[[H4279]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9036]]"
+- "[[H8668G]]"
+- "[[H9003]]"
+- "[[H2527]]"
+- "[[H9004]]"
+- "[[H8121]]"
+- "[[H5046]]"
+- "[[H0582]]"
+- "[[H3003G]]"
+- "[[H8055]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Samuel 11:9**<big><big>[[1Sam.11.1 Saul Defeats the Ammonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said unto the messengers that came, Thus shall ye say unto the men of Jabeshgilead, To morrow, by [that time] the sun be hot, ye shall have help. And the messengers came and shewed [it] to the men of Jabesh; and they were glad.
 <small><sub>**BSB:**</sub></small>
 So they said to the messengers who had come, “Tell the men of Jabesh-gilead: ‘Deliverance will be yours tomorrow by the time the sun is hot.’” And when the messengers relayed this to the men of Jabesh, they rejoiced.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֞וּ]] [[H9005\|לַ]][[H4397G\|מַּלְאָכִ֣ים]] [[H9009\|הַ]][[H0935G\|בָּאִ֗ים]] [[H3541\|כֹּ֤ה]] [[H0559\|תֹֽאמְרוּ]][[H9013\|ן֙]] [[H9005\|לְ]][[H0376G\|אִישׁ֙]] [[H3003I\|יָבֵ֣ישׁ]] [[H1568L\|גִּלְעָ֔ד]] [[H4279\|מָחָ֛ר]] [[H1961\|תִּהְיֶֽה]][[H9014\|־]] [[H9005\|לָ]][[H9036\|כֶ֥ם]] [[H8668G\|תְּשׁוּעָ֖ה]] [[H9004\|כְּ]][[H2527\|חֹ֣ם]] [[H9009\|הַ]][[H8121\|שָּׁ֑מֶשׁ]] [[H9001\|וַ]][[H0935G\|יָּבֹ֣אוּ]] [[H9009\|הַ]][[H4397G\|מַּלְאָכִ֗ים]] [[H9001\|וַ]][[H5046\|יַּגִּ֛ידוּ]] [[H9005\|לְ]][[H0582\|אַנְשֵׁ֥י]] [[H3003G\|יָבֵ֖ישׁ]] [[H9001\|וַ]][[H8055\|יִּשְׂמָֽחוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JABESH-GILEAD|JABESH-GILEAD]] • [[topic NAHASH|NAHASH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.11.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.11.8|<< 1 Samuel 11:8]]</td><td align="center" style="border:none;">[[1Sam.11|1 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.11.10|1 Samuel 11:10 >>]]</td></tr></table>
 
@@ -30,7 +89,7 @@ So they said to the messengers who had come, “Tell the men of Jabesh-gilead: �
 | and they were glad  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8055\|יִּשְׂמָֽחוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.Ma.chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.11.8|<< 1 Samuel 11:8]]</td><td align="center" style="border:none;">[[1Sam.11|1 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.11.10|1 Samuel 11:10 >>]]</td></tr></table>
 
-[^1]: at [the] heat of  | **<big>[[H2527|חֹם]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> chom<small><sup>[[HVqcc]]</sup></small> | K
-[^2]: at [the] heat of  | **<big>[[H2527|חֹם]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> chom<small><sup>[[HVqcc]]</sup></small> | K
+[^1]: at [the] heat of  | **<big>[[H9003|בְּ]]</big><big>[[H2527|חֹם]]</big> ** | be.<small><sup>[[HR]]</sup></small> chom<small><sup>[[HVqcc]]</sup></small> | K
+[^2]: at [the] heat of  | **<big>[[H9003|בְּ]]</big><big>[[H2527|חֹם]]</big> ** | be.<small><sup>[[HR]]</sup></small> chom<small><sup>[[HVqcc]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>בְּחֹ֣ם</big></span>**
 

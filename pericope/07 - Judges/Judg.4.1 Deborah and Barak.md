@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Deborah and Barak
+type: Pericope
 pericope: "[[Judg.4.1 Deborah and Barak|Deborah and Barak]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 4
 book/chapter: "[[Judg.4|Judges 4]]"
-genre:
+chronological_order: 258
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 16
 verses:
 - "[[Judg.4.1]]"
 - "[[Judg.4.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Judg.4.16]]"
 ---
 
-[[Judg.4|Judges 4:1 - Judges 4:16]]
+<small>[[Judg.4|Judges 4:1-16]]</small>
 *Deborah and Barak*
 
 [[Judg.4.1|1]] And the children of Israel again did evil in the sight of the LORD, when Ehud was dead.

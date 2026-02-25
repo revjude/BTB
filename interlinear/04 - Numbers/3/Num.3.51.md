@@ -1,8 +1,69 @@
+---
+title: Numbers 3:51
+type: Verse
+kjv: "And Moses gave the money of them that were redeemed unto Aaron and to his sons, according to the word of the LORD, as the LORD commanded Moses."
+bsb: "And Moses gave the redemption money to Aaron and his sons in obedience to the word of the LORD, just as the LORD had commanded him."
+hebrew: "וַיִּתֵּ֨ן מֹשֶׁ֜ה אֶת־ כֶּ֧סֶף הַפְּדוּיִ֛ם לְאַהֲרֹ֥ן וּלְבָנָ֖יו עַל־ פִּ֣י יְהוָ֑ה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת־ מֹשֶֽׁה׃ פ"
+pericope: "[[Num.3.40 The Redemption of the Firstborn|The Redemption of the Firstborn]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H4872]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3701G]]"
+- "[[H9009]]"
+- "[[H6302]]"
+- "[[H9005]]"
+- "[[H0175]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H6310I]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+- Q(k)
+---
+
 **Numbers 3:51**<big><big>[[Num.3.40 The Redemption of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses gave the money of them that were redeemed unto Aaron and to his sons, according to the word of the LORD, as the LORD commanded Moses.
 <small><sub>**BSB:**</sub></small>
 And Moses gave the redemption money to Aaron and his sons in obedience to the word of the LORD, just as the LORD had commanded him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|יִּתֵּ֨ן]] [[H4872\|מֹשֶׁ֜ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3701G\|כֶּ֧סֶף]] [[H9009\|הַ]][[H6302\|פְּדוּיִ֛ם]] [[H9005\|לְ]][[H0175\|אַהֲרֹ֥ן]] [[H9002\|וּ]][[H9005\|לְ]][[H1121A\|בָנָ֖י]][[H9023\|ו]] [[H5921A\|עַל]][[H9014\|־]] [[H6310I\|פִּ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H6680\|צִוָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶֽׁה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRSTBORN|FIRSTBORN]] • [[topic MONEY|MONEY]] • [[topic PRIEST|PRIEST]] • [[topic REDEMPTION|REDEMPTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.50|<< Numbers 3:50]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.1|Numbers 4:1 >>]]</td></tr></table>
 
@@ -22,7 +83,7 @@ And Moses gave the redemption money to Aaron and his sons in obedience to the wo
 | he had commanded  |**<big>&#8207;[[H6680\|צִוָּ֥ה]]&#8207; </big>**| tzi.Vah<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moses  |**<big>&#8207;[[H4872\|מֹשֶֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  |**<big>&#8207;[[H4872\|מֹשֶֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.50|<< Numbers 3:50]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.1|Numbers 4:1 >>]]</td></tr></table>
 
 [^1]: L spelled: **<span class="ashebrew"><big>הַפְּדֻיִ֛ם</big></span>**

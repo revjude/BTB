@@ -1,8 +1,64 @@
+---
+title: Ezekiel 16:25
+type: Verse
+kjv: "Thou hast built thy high place at every head of the way, and hast made thy beauty to be abhorred, and hast opened thy feet to every one that passed by, and multiplied thy whoredoms."
+bsb: "At the head of every street you built your lofty shrines and degraded your beauty. With increasing promiscuity, you spread your legs to all who passed by."
+hebrew: "אֶל־ כָּל־ רֹ֣אשׁ דֶּ֗רֶךְ בָּנִית֙ רָֽמָתֵ֔ךְ וַתְּתַֽעֲבִי֙ אֶת־ יָפְיֵ֔ךְ וַתְּפַשְּׂקִ֥י אֶת־ רַגְלַ֖יִךְ לְכָל־ עוֹבֵ֑ר וַתַּרְבִּ֖י אֶת־ תַּזְנוּתָֽיִךְ׃"
+pericope: "[[Ezek.16.1 Jerusalem’s Unfaithfulness|Jerusalem’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+strongs:
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H7218I]]"
+- "[[H1870K]]"
+- "[[H1129]]"
+- "[[H7413]]"
+- "[[H9022]]"
+- "[[H9001]]"
+- "[[H8581]]"
+- "[[H0853]]"
+- "[[H3308]]"
+- "[[H6589]]"
+- "[[H7272]]"
+- "[[H9005]]"
+- "[[H5674A]]"
+- "[[H7235A]]"
+- "[[H8457]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 16:25**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast built thy high place at every head of the way, and hast made thy beauty to be abhorred, and hast opened thy feet to every one that passed by, and multiplied thy whoredoms.
 <small><sub>**BSB:**</sub></small>
 At the head of every street you built your lofty shrines and degraded your beauty. With increasing promiscuity, you spread your legs to all who passed by.
+<small><sub>**Hebrew:**</sub></small>
+[[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H7218I\|רֹ֣אשׁ]] [[H1870K\|דֶּ֗רֶךְ]] [[H1129\|בָּנִית֙]] [[H7413\|רָֽמָתֵ֔]][[H9022\|ךְ]] [[H9001\|וַ]][[H8581\|תְּתַֽעֲבִי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3308\|יָפְיֵ֔]][[H9022\|ךְ]] [[H9001\|וַ]][[H6589\|תְּפַשְּׂקִ֥י]] [[H0853\|אֶת]][[H9014\|־]] [[H7272\|רַגְלַ֖יִ]][[H9022\|ךְ]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H5674A\|עוֹבֵ֑ר]] [[H9001\|וַ]][[H7235A\|תַּרְבִּ֖י]] [[H0853\|אֶת]][[H9014\|־]] [[H8457\|תַּזְנוּתָֽיִ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HIGH PLACES|HIGH PLACES]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.24|<< Ezekiel 16:24]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.26|Ezekiel 16:26 >>]]</td></tr></table>
 
@@ -27,7 +83,7 @@ At the head of every street you built your lofty shrines and degraded your beaut
 | prostitution\<s> your  [^2]|**<big>&#8207;[[H8457\|תַּזְנוּתָֽיִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | taz.nu.te<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.24|<< Ezekiel 16:24]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.26|Ezekiel 16:26 >>]]</td></tr></table>
 
-[^1]: prostitution your  | **<big>[[H9016|׃]]</big><big>[[H9022|ךְ]]</big><big>[[H8457|תַּזְנֻתֵ]]</big> ** | taz.nu.te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
-[^2]: prostitution your  | **<big>[[H9016|׃]]</big><big>[[H9022|ךְ]]</big><big>[[H8457|תַּזְנֻתֵ]]</big> ** | taz.nu.te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
+[^1]: prostitution your  | **<big>[[H8457|תַּזְנֻתֵ]]</big><big>[[H9022|ךְ]]</big><big>[[H9016|׃]]</big> ** | taz.nu.te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
+[^2]: prostitution your  | **<big>[[H8457|תַּזְנֻתֵ]]</big><big>[[H9022|ךְ]]</big><big>[[H9016|׃]]</big> ** | taz.nu.te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>תַּזְנּתִָֽךְ\׃</big></span>**
 

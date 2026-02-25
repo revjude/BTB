@@ -1,8 +1,53 @@
+---
+title: Proverbs 14:6
+type: Verse
+kjv: "A scorner seeketh wisdom, and findeth it not: but knowledge is easy unto him that understandeth."
+bsb: "A mocker seeks wisdom and finds none, but knowledge comes easily to the discerning."
+hebrew: "בִּקֶּשׁ־ לֵ֣ץ חָכְמָ֣ה וָאָ֑יִן וְדַ֖עַת לְנָב֣וֹן נָקָֽל׃"
+pericope: "[[Prov.14.1 The Wise Woman|The Wise Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 14
+book/chapter: "[[Prov.14|Proverbs 14]]"
+chronological_order: 469
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic SCOFFING|SCOFFING]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H1245]]"
+- "[[H9014]]"
+- "[[H3887]]"
+- "[[H2451]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H1847]]"
+- "[[H9005]]"
+- "[[H0995]]"
+- "[[H7043]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 14:6**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A scorner seeketh wisdom, and [findeth it] not: but knowledge [is] easy unto him that understandeth.
 <small><sub>**BSB:**</sub></small>
 A mocker seeks wisdom and finds none, but knowledge comes easily to the discerning.
+<small><sub>**Hebrew:**</sub></small>
+[[H1245\|בִּקֶּשׁ]][[H9014\|־]] [[H3887\|לֵ֣ץ]] [[H2451\|חָכְמָ֣ה]] [[H9002\|וָ]][[H0369\|אָ֑יִן]] [[H9002\|וְ]][[H1847\|דַ֖עַת]] [[H9005\|לְ]][[H0995\|נָב֣וֹן]] [[H7043\|נָקָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFIDELITY|INFIDELITY]] • [[topic SCOFFING|SCOFFING]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.5|<< Proverbs 14:5]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.7|Proverbs 14:7 >>]]</td></tr></table>
 

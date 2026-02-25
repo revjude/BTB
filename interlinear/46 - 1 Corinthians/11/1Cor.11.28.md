@@ -1,10 +1,53 @@
+---
+title: 1 Corinthians 11:28
+type: Verse
+kjv: "But let a man examine himself, and so let him eat of that bread, and drink of that cup."
+bsb: "Each one must examine himself before he eats of the bread and drinks of the cup."
+greek: "δοκιμαζέτω δὲ ἄνθρωπος ἑαυτόν, καὶ οὕτως ἐκ τοῦ ἄρτου ἐσθιέτω καὶ ἐκ τοῦ ποτηρίου πινέτω·"
+pericope: "[[1Cor.11.17 Sharing in the Lord’s Supper|Sharing in the Lord’s Supper]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 11
+book/chapter: "[[1Cor.11|1 Corinthians 11]]"
+chronological_order: 1068
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]"
+- "[[topic SELF-EXAMINATION|SELF-EXAMINATION]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G1381]]"
+- "[[G1161]]"
+- "[[G0444]]"
+- "[[G1438]]"
+- "[[G2532]]"
+- "[[G3779]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G0740]]"
+- "[[G2068]]"
+- "[[G4221]]"
+- "[[G4095]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 11:28**<big><big>[[1Cor.11.17 Sharing in the Lord’s Supper|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But let a man examine himself, and so let him eat of [that] bread, and drink of [that] cup.
 <small><sub>**BSB:**</sub></small>
 Each one must examine himself before he eats of the bread and drinks of the cup.
-<small><sub>**Literal:**</sub></small>
-should examine however a man himself, and in this manner of the bread he should eat and of the cup he should drink;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.27|<< 1 Corinthians 11:27]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.29|1 Corinthians 11:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1381\|δοκιμαζέτω]]  [[G1161\|δὲ]]  [[G0444\|ἄνθρωπος]]  [[G1438\|ἑαυτόν,]]  [[G2532\|καὶ]]  [[G3779\|οὕτως]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G0740\|ἄρτου]]  [[G2068\|ἐσθιέτω]]  [[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4221\|ποτηρίου]]  [[G4095\|πινέτω·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]] • [[topic SELF-EXAMINATION|SELF-EXAMINATION]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.27|<< 1 Corinthians 11:27]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.29|1 Corinthians 11:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

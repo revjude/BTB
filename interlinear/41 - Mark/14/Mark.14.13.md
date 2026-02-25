@@ -1,10 +1,60 @@
+---
+title: Mark 14:13
+type: Verse
+kjv: "And he sendeth forth two of his disciples, and saith unto them, Go ye into the city, and there shall meet you a man bearing a pitcher of water: follow him."
+bsb: "So He sent two of His disciples and told them, “Go into the city, and a man carrying a jug of water will meet you. Follow him,"
+jesus_said: "Go ye into the city, and there shall meet you a man bearing a pitcher of water: follow him."
+greek: "καὶ ἀποστέλλει δύο τῶν μαθητῶν αὐτοῦ καὶ λέγει αὐτοῖς· ὑπάγετε εἰς τὴν πόλιν, καὶ ἀπαντήσει ὑμῖν ἄνθρωπος κεράμιον ὕδατος βαστάζων· ἀκολουθήσατε αὐτῷ."
+pericope: "[[Mark.14.12 Preparing the Passover|Preparing the Passover]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[G2532]]"
+- "[[G0649]]"
+- "[[G1417]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G5217]]"
+- "[[G1519]]"
+- "[[G4172]]"
+- "[[G0528]]"
+- "[[G4771]]"
+- "[[G0444]]"
+- "[[G2765]]"
+- "[[G5204]]"
+- "[[G0941]]"
+- "[[G0190]]"
+texts:
+- NKO
+---
+
 **Mark 14:13**<big><big>[[Mark.14.12 Preparing the Passover|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he sendeth forth two of his disciples, and saith unto them, Go ye into the city, and there shall meet you a man bearing a pitcher of water: follow him.
 <small><sub>**BSB:**</sub></small>
 So He sent two of His disciples and told them, “Go into the city, and a man carrying a jug of water will meet you. Follow him,
-<small><sub>**Literal:**</sub></small>
-And He sends forth two of the disciples of Him and says to them; do go into the city, and will meet you a man a pitcher of water carrying; do follow him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.12|<< Mark 14:12]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.14|Mark 14:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0649\|ἀποστέλλει]]  [[G1417\|δύο]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G5217\|ὑπάγετε]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4172\|πόλιν,]]  [[G2532\|καὶ]]  [[G0528\|ἀπαντήσει]]  [[G4771\|ὑμῖν]]  [[G0444\|ἄνθρωπος]]  [[G2765\|κεράμιον]]  [[G5204\|ὕδατος]]  [[G0941\|βαστάζων·]]  [[G0190\|ἀκολουθήσατε]]  [[G0846\|αὐτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic PASSOVER|PASSOVER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.12|<< Mark 14:12]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.14|Mark 14:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

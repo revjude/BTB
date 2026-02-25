@@ -1,10 +1,57 @@
+---
+title: 1 John 3:13
+type: Verse
+kjv: "Marvel not, my brethren, if the world hate you."
+bsb: "So do not be surprised, brothers, if the world hates you."
+greek: "Καὶ μὴ θαυμάζετε, ἀδελφοί μου, εἰ μισεῖ ὑμᾶς ὁ κόσμος."
+pericope: "[[1John.3.11 Love One Another|Love One Another]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 3
+book/chapter: "[[1John.3|1 John 3]]"
+chronological_order: 1163
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic HATRED|HATRED]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G2296]]"
+- "[[G0080]]"
+- "[[G3165]]"
+- "[[G1487G]]"
+- "[[G3404]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G2889]]"
+texts:
+- n
+- NKO
+- K
+---
+
 **1 John 3:13**<big><big>[[1John.3.11 Love One Another|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Marvel not, my brethren, if the world hate you.
 <small><sub>**BSB:**</sub></small>
 So do not be surprised, brothers, if the world hates you.
-<small><sub>**Literal:**</sub></small>
-And not do be surprised, brothers of mine if hates you the world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.12|<< 1 John 3:12]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.14|1 John 3:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3361\|μὴ]]  [[G2296\|θαυμάζετε,]]  [[G0080\|ἀδελφοί]]  [[G3165\|μου,]]  [[G1487G\|εἰ]]  [[G3404\|μισεῖ]]  [[G4771\|ὑμᾶς]]  [[G3588\|ὁ]]  [[G2889\|κόσμος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic HATRED|HATRED]] • [[topic MALICE|MALICE]] • [[topic PERSECUTION|PERSECUTION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.12|<< 1 John 3:12]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.14|1 John 3:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

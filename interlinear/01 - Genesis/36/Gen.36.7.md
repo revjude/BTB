@@ -1,8 +1,64 @@
+---
+title: Genesis 36:7
+type: Verse
+kjv: "For their riches were more than that they might dwell together; and the land wherein they were strangers could not bear them because of their cattle."
+bsb: "For their possessions were too great for them to dwell together; the land where they stayed could not support them because of their livestock."
+hebrew: "כִּֽי־ הָיָ֧ה רְכוּשָׁ֛ם רָ֖ב מִשֶּׁ֣בֶת יַחְדָּ֑ו וְלֹ֨א יָֽכְלָ֜ה אֶ֤רֶץ מְגֽוּרֵיהֶם֙ לָשֵׂ֣את אֹתָ֔ם מִפְּנֵ֖י מִקְנֵיהֶֽם׃"
+pericope: "[[Gen.36.1 The Descendants of Esau|The Descendants of Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 36
+book/chapter: "[[Gen.36|Genesis 36]]"
+chronological_order: 78
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic JACOB|JACOB]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H7399]]"
+- "[[H9028]]"
+- "[[H7227A]]"
+- "[[H9006]]"
+- "[[H3427]]"
+- "[[H3162B]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H0776G]]"
+- "[[H4033]]"
+- "[[H9005]]"
+- "[[H5375K]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H6440I]]"
+- "[[H4735]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 36:7**<big><big>[[Gen.36.1 The Descendants of Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For their riches were more than that they might dwell together; and the land wherein they were strangers could not bear them because of their cattle.
 <small><sub>**BSB:**</sub></small>
 For their possessions were too great for them to dwell together; the land where they stayed could not support them because of their livestock.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|הָיָ֧ה]] [[H7399\|רְכוּשָׁ֛]][[H9028\|ם]] [[H7227A\|רָ֖ב]] [[H9006\|מִ]][[H3427\|שֶּׁ֣בֶת]] [[H3162B\|יַחְדָּ֑ו]] [[H9002\|וְ]][[H3808\|לֹ֨א]] [[H3201\|יָֽכְלָ֜ה]] [[H0776G\|אֶ֤רֶץ]] [[H4033\|מְגֽוּרֵי]][[H9028\|הֶם֙]] [[H9005\|לָ]][[H5375K\|שֵׂ֣את]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H9006\|מִ]][[H6440I\|פְּנֵ֖י]] [[H4735\|מִקְנֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACOB|JACOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.6|<< Genesis 36:6]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.8|Genesis 36:8 >>]]</td></tr></table>
 

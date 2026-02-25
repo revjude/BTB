@@ -1,8 +1,59 @@
+---
+title: Ezekiel 21:30
+type: Verse
+kjv: "Shall I cause it to return into his sheath? I will judge thee in the place where thou wast created, in the land of thy nativity."
+bsb: "Return the sword to its sheath! In the place where you were created, in the land of your origin, I will judge you."
+hebrew: "הָשַׁ֖ב אֶל־ תַּעְרָ֑הּ בִּמְק֧וֹם אֲשֶׁר־ נִבְרֵ֛את בְּאֶ֥רֶץ מְכֻרוֹתַ֖יִךְ אֶשְׁפֹּ֥ט אֹתָֽךְ׃"
+pericope: "[[Ezek.21.1 God’s Sword of Judgment|God’s Sword of Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 21
+book/chapter: "[[Ezek.21|Ezekiel 21]]"
+chronological_order: 812
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+strongs:
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8593]]"
+- "[[H9024]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H1254A]]"
+- "[[H0776G]]"
+- "[[H4351]]"
+- "[[H9022]]"
+- "[[H8199]]"
+- "[[H0853]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 21:30**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall I cause [it] to return into his sheath? I will judge thee in the place where thou wast created, in the land of thy nativity.
 <small><sub>**BSB:**</sub></small>
 Return the sword to its sheath! In the place where you were created, in the land of your origin, I will judge you.
+<small><sub>**Hebrew:**</sub></small>
+[[H7725G\|הָשַׁ֖ב]] [[H0413\|אֶל]][[H9014\|־]] [[H8593\|תַּעְרָ֑]][[H9024\|הּ]] [[H9003\|בִּ]][[H4725\|מְק֧וֹם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1254A\|נִבְרֵ֛את]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H4351\|מְכֻרוֹתַ֖יִ]][[H9022\|ךְ]] [[H8199\|אֶשְׁפֹּ֥ט]] [[H0853\|אֹתָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.29|<< Ezekiel 21:29]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.31|Ezekiel 21:31 >>]]</td></tr></table>
 

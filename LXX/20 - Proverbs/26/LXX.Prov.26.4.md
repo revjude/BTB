@@ -1,6 +1,49 @@
+---
+title: LXX Proverbs 26:4
+type: Verse
+lxx: "Do not give an answer to a fool according to  that one's folly, lest you should become likened to him!"
+greek: "μη αποκρίνου άφρονι κατά την εκείνου αφροσύνην ίνα μη όμοιος γένη αυτώ"
+original_language: Greek
+testament: Old
+book: Proverbs
+chapter: 26
+book/chapter: "[[Prov.26|Proverbs 26]]"
+chronological_order: 481
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FOOL|FOOL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[G3361]]"
+- "[[G0611]]"
+- "[[G0878]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G1565]]"
+- "[[G0877]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G3664]]"
+- "[[G1096]]"
+- "[[G1473]]"
+---
+
 **LXX Proverbs 26:4** 
 <small><sub>**LXX:**</sub></small>
 Do not give an answer to a fool according to  that one's folly, lest you should become likened to him! 
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μη]] [[G0611\|αποκρίνου]] [[G0878\|άφρονι]] [[G2596\|κατά]] [[G3588\|την]] [[G1565\|εκείνου]] [[G0877\|αφροσύνην]] [[G2443\|ίνα]] [[G3361\|μη]] [[G3664\|όμοιος]] [[G1096\|γένη]] [[G1473\|αυτώ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FOOL|FOOL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**MT:**</sub></small>
 [[Prov.26.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.3|<< Proverbs 26:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.5|Proverbs 26:5 >>]]</td></tr></table>
 
@@ -17,6 +60,6 @@ Do not give an answer to a fool according to  that one's folly, lest you should 
 | likened | **<big>[[G3664\|όμοιος]]</big>** |
 | you should become | **<big>[[G1096\|γένη]]</big>** |
 | to him! | **<big>[[G1473\|αυτώ]]</big>** |
-[[Prov.26.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.3|<< Proverbs 26:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.5|Proverbs 26:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.3|<< Proverbs 26:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.5|Proverbs 26:5 >>]]</td></tr></table>
 
 

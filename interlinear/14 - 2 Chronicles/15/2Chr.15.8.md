@@ -1,8 +1,81 @@
+---
+title: 2 Chronicles 15:8
+type: Verse
+kjv: "And when Asa heard these words, and the prophecy of Oded the prophet, he took courage, and put away the abominable idols out of all the land of Judah and Benjamin, and out of the cities which he had taken from mount Ephraim, and renewed the altar of the LORD, that was before the porch of the LORD."
+bsb: "When Asa heard these words and the prophecy of Azariah son of Oded the prophet, he took courage and removed the detestable idols from the whole land of Judah and Benjamin and from the cities he had captured in the hill country of Ephraim. He then restored the altar of the LORD that was in front of the portico of the LORD’s temple."
+hebrew: "וְכִשְׁמֹ֨עַ אָסָ֜א הַדְּבָרִ֣ים הָאֵ֗לֶּה וְהַנְּבוּאָה֮ עֲזַרְיָהוּ בֶּן־ עֹדֵ֣ד הַנָּבִיא֒ הִתְחַזַּ֗ק וַיַּעֲבֵ֤ר הַשִּׁקּוּצִים֙ מִכָּל־ אֶ֤רֶץ יְהוּדָה֙ וּבִנְיָמִ֔ן וּמִן־ הֶ֣עָרִ֔ים אֲשֶׁ֥ר לָכַ֖ד מֵהַ֣ר אֶפְרָ֑יִם וַיְחַדֵּשׁ֙ אֶת־ מִזְבַּ֣ח יְהוָ֔ה אֲשֶׁ֕ר לִפְנֵ֖י אוּלָ֥ם יְהוָֽה׃"
+pericope: "[[2Chr.15.8 Asa’s Reforms|Asa’s Reforms]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 15
+book/chapter: "[[2Chr.15|2 Chronicles 15]]"
+chronological_order: 561
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic AZARIAH|AZARIAH]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H0609G]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H5016]]"
+- "[[H5838M]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5752G]]"
+- "[[H5030]]"
+- "[[H2388G]]"
+- "[[H9001]]"
+- "[[H5674C]]"
+- "[[H8251]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H3063G]]"
+- "[[H1144G]]"
+- "[[H4480A]]"
+- "[[H5892B]]"
+- "[[H0834A]]"
+- "[[H3920]]"
+- "[[H2022H]]"
+- "[[H0669G]]"
+- "[[H2318]]"
+- "[[H0853]]"
+- "[[H4196]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0197J]]"
+- "[[H9016]]"
+texts:
+- L
+- X
+---
+
 **2 Chronicles 15:8**<big><big>[[2Chr.15.8 Asa’s Reforms|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Asa heard these words, and the prophecy of Oded the prophet, he took courage, and put away the abominable idols out of all the land of Judah and Benjamin, and out of the cities which he had taken from mount Ephraim, and renewed the altar of the LORD, that [was] before the porch of the LORD.
 <small><sub>**BSB:**</sub></small>
 When Asa heard these words and the prophecy of Azariah son of Oded the prophet, he took courage and removed the detestable idols from the whole land of Judah and Benjamin and from the cities he had captured in the hill country of Ephraim. He then restored the altar of the LORD that was in front of the portico of the LORD’s temple.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9004\|כִ]][[H8085G\|שְׁמֹ֨עַ]] [[H0609G\|אָסָ֜א]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֗לֶּה]] [[H9002\|וְ]][[H9009\|הַ]][[H5016\|נְּבוּאָה֮]] [[H5838M\|עֲזַרְיָהוּ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5752G\|עֹדֵ֣ד]] [[H9009\|הַ]][[H5030\|נָּבִיא֒]] [[H2388G\|הִתְחַזַּ֗ק]] [[H9001\|וַ]][[H5674C\|יַּעֲבֵ֤ר]] [[H9009\|הַ]][[H8251\|שִּׁקּוּצִים֙]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H0776G\|אֶ֤רֶץ]] [[H3063G\|יְהוּדָה֙]] [[H9002\|וּ]][[H1144G\|בִנְיָמִ֔ן]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הֶ֣]][[H5892B\|עָרִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H3920\|לָכַ֖ד]] [[H9006\|מֵ]][[H2022H\|הַ֣ר]] [[H0669G\|אֶפְרָ֑יִם]] [[H9001\|וַ]][[H2318\|יְחַדֵּשׁ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4196\|מִזְבַּ֣ח]] [[H3068G\|יְהוָ֔ה]] [[H0834A\|אֲשֶׁ֕ר]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H0197J\|אוּלָ֥ם]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic AZARIAH|AZARIAH]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic REVIVALS|REVIVALS]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.15.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.15.7|<< 2 Chronicles 15:7]]</td><td align="center" style="border:none;">[[2Chr.15|2 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.15.9|2 Chronicles 15:9 >>]]</td></tr></table>
 

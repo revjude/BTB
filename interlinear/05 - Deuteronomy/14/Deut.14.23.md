@@ -1,8 +1,79 @@
+---
+title: Deuteronomy 14:23
+type: Verse
+kjv: "And thou shalt eat before the LORD thy God, in the place which he shall choose to place his name there, the tithe of thy corn, of thy wine, and of thine oil, and the firstlings of thy herds and of thy flocks; that thou mayest learn to fear the LORD thy God always."
+bsb: "And you are to eat a tenth of your grain, new wine, and oil, and the firstborn of your herds and flocks, in the presence of the LORD your God at the place He will choose as a dwelling for His Name, so that you may learn to fear the LORD your God always."
+hebrew: "וְאָכַלְתָּ֞ לִפְנֵ֣י׀ יְהוָ֣ה אֱלֹהֶ֗יךָ בַּמָּק֣וֹם אֲשֶׁר־ יִבְחַר֮ לְשַׁכֵּ֣ן שְׁמ֣וֹ שָׁם֒ מַעְשַׂ֤ר דְּגָֽנְךָ֙ תִּֽירֹשְׁךָ֣ וְיִצְהָרֶ֔ךָ וּבְכֹרֹ֥ת בְּקָרְךָ֖ וְצֹאנֶ֑ךָ לְמַ֣עַן תִּלְמַ֗ד לְיִרְאָ֛ה אֶת־ יְהוָ֥ה אֱלֹהֶ֖יךָ כָּל־ הַיָּמִֽים׃"
+pericope: "[[Deut.14.22 Giving Tithes|Giving Tithes]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 14
+book/chapter: "[[Deut.14|Deuteronomy 14]]"
+chronological_order: 210
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic TITHES|TITHES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0977]]"
+- "[[H7931]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H8033G]]"
+- "[[H4643]]"
+- "[[H1715]]"
+- "[[H8492]]"
+- "[[H9002]]"
+- "[[H3323]]"
+- "[[H1060]]"
+- "[[H1241]]"
+- "[[H6629G]]"
+- "[[H4616]]"
+- "[[H3925H]]"
+- "[[H3372H]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3117K]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 14:23**<big><big>[[Deut.14.22 Giving Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt eat before the LORD thy God, in the place which he shall choose to place his name there, the tithe of thy corn, of thy wine, and of thine oil, and the firstlings of thy herds and of thy flocks; that thou mayest learn to fear the LORD thy God always.
 <small><sub>**BSB:**</sub></small>
 And you are to eat a tenth of your grain, new wine, and oil, and the firstborn of your herds and flocks, in the presence of the LORD your God at the place He will choose as a dwelling for His Name, so that you may learn to fear the LORD your God always.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0398\|אָכַלְתָּ֞]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]][[H9015\|׀]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֗י]][[H9021\|ךָ]] [[H9003\|בַּ]][[H4725\|מָּק֣וֹם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0977\|יִבְחַר֮]] [[H9005\|לְ]][[H7931\|שַׁכֵּ֣ן]] [[H8034\|שְׁמ֣]][[H9023\|וֹ]] [[H8033G\|שָׁם֒]] [[H4643\|מַעְשַׂ֤ר]] [[H1715\|דְּגָֽנְ]][[H9021\|ךָ֙]] [[H8492\|תִּֽירֹשְׁ]][[H9021\|ךָ֣]] [[H9002\|וְ]][[H3323\|יִצְהָרֶ֔]][[H9021\|ךָ]] [[H9002\|וּ]][[H1060\|בְכֹרֹ֥ת]] [[H1241\|בְּקָרְ]][[H9021\|ךָ֖]] [[H9002\|וְ]][[H6629G\|צֹאנֶ֑]][[H9021\|ךָ]] [[H4616\|לְמַ֣עַן]] [[H3925H\|תִּלְמַ֗ד]] [[H9005\|לְ]][[H3372H\|יִרְאָ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117K\|יָּמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REVERENCE|REVERENCE]] • [[topic TITHES|TITHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.14.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.14.22|<< Deuteronomy 14:22]]</td><td align="center" style="border:none;">[[Deut.14|Deuteronomy 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.14.24|Deuteronomy 14:24 >>]]</td></tr></table>
 

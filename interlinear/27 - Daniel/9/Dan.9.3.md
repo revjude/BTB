@@ -1,8 +1,69 @@
+---
+title: Daniel 9:3
+type: Verse
+kjv: "And I set my face unto the Lord God, to seek by prayer and supplications, with fasting, and sackcloth, and ashes:"
+bsb: "So I turned my attention to the Lord God to seek Him by prayer and petition, with fasting, sackcloth, and ashes."
+hebrew: "וָאֶתְּנָ֣ה אֶת־ פָּנַ֗י אֶל־ אֲדֹנָי֙ הָֽאֱלֹהִ֔ים לְבַקֵּ֥שׁ תְּפִלָּ֖ה וְתַחֲנוּנִ֑ים בְּצ֖וֹם וְשַׂ֥ק וָאֵֽפֶר׃"
+pericope: "[[Dan.9.1 Daniel’s Prayer for His People|Daniel’s Prayer for His People]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 9
+book/chapter: "[[Dan.9|Daniel 9]]"
+chronological_order: 845
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ASHES|ASHES]]"
+- "[[topic FASTING|FASTING]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SACKCLOTH|SACKCLOTH]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H9012]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6440H]]"
+- "[[H9020]]"
+- "[[H0413]]"
+- "[[H0136]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H1245]]"
+- "[[H8605]]"
+- "[[H9002]]"
+- "[[H8469]]"
+- "[[H9003]]"
+- "[[H6685]]"
+- "[[H8242]]"
+- "[[H0665]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 9:3**<big><big>[[Dan.9.1 Daniel’s Prayer for His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I set my face unto the Lord God, to seek by prayer and supplications, with fasting, and sackcloth, and ashes:
 <small><sub>**BSB:**</sub></small>
 So I turned my attention to the Lord God to seek Him by prayer and petition, with fasting, sackcloth, and ashes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H5414H\|אֶתְּנָ֣]][[H9012\|ה]] [[H0853\|אֶת]][[H9014\|־]] [[H6440H\|פָּנַ֗]][[H9020\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H0136\|אֲדֹנָי֙]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֔ים]] [[H9005\|לְ]][[H1245\|בַקֵּ֥שׁ]] [[H8605\|תְּפִלָּ֖ה]] [[H9002\|וְ]][[H8469\|תַחֲנוּנִ֑ים]] [[H9003\|בְּ]][[H6685\|צ֖וֹם]] [[H9002\|וְ]][[H8242\|שַׂ֥ק]] [[H9002\|וָ]][[H0665\|אֵֽפֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHES|ASHES]] • [[topic FASTING|FASTING]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NATION|NATION]] • [[topic PRAYER|PRAYER]] • [[topic PROPHETS|PROPHETS]] • [[topic SACKCLOTH|SACKCLOTH]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.2|<< Daniel 9:2]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.4|Daniel 9:4 >>]]</td></tr></table>
 

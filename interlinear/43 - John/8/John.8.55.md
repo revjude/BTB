@@ -1,10 +1,63 @@
+---
+title: John 8:55
+type: Verse
+kjv: "Yet ye have not known him; but I know him: and if I should say, I know him not, I shall be a liar like unto you: but I know him, and keep his saying."
+bsb: "You do not know Him, but I know Him. If I said I did not know Him, I would be a liar like you. But I do know Him, and I keep His word."
+jesus_said: "Yet ye have not known him; but I know him: and if I should say, I know him not, I shall be a liar like unto you: but I know him, and keep his saying."
+greek: "καὶ οὐκ ἐγνώκατε αὐτόν, ἐγὼ δὲ οἶδα αὐτόν. κἂν κἂν εἴπω ὅτι οὐκ οἶδα αὐτόν, ἔσομαι ὅμοιος ὑμῖν ψεύστης· ἀλλ᾽ οἶδα αὐτὸν καὶ τὸν λόγον αὐτοῦ τηρῶ.¶"
+pericope: "[[John.8.48 Before Abraham Was Born, I Am|Before Abraham Was Born, I Am]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIARS|LIARS]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1097]]"
+- "[[G0846]]"
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G6063]]"
+- "[[G1437]]"
+- "[[G2036]]"
+- "[[G3754G]]"
+- "[[G1510]]"
+- "[[G3664]]"
+- "[[G4771]]"
+- "[[G5583]]"
+- "[[G0235]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G5083G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 8:55**<big><big>[[John.8.48 Before Abraham Was Born, I Am|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Yet ye have not known him; but I know him: and if I should say, I know him not, I shall be a liar like unto you: but I know him, and keep his saying.
 <small><sub>**BSB:**</sub></small>
 You do not know Him, but I know Him. If I said I did not know Him, I would be a liar like you. But I do know Him, and I keep His word.
-<small><sub>**Literal:**</sub></small>
-And not you have known Him, I myself however know Him. And if I shall say that not I know Him, I will be like you a liar; But I know Him and the word of Him I keep.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.54|<< John 8:54]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.56|John 8:56 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1097\|ἐγνώκατε]]  [[G0846\|αὐτόν,]]  [[G1473\|ἐγὼ]]  [[G1161\|δὲ]]  [[G6063\|οἶδα]]  [[G0846\|αὐτόν.]]  [[G2532\|κἂν]]  <sup><small>[[G1437\| [ • ] ]]</small></sup>  [[G2036\|εἴπω]]  [[G3754G\|ὅτι]]  [[G3756\|οὐκ]]  [[G6063\|οἶδα]]  [[G0846\|αὐτόν,]]  [[G1510\|ἔσομαι]]  [[G3664\|ὅμοιος]]  [[G4771\|ὑμῖν]]  [[G5583\|ψεύστης·]]  [[G0235\|ἀλλ᾽]]  [[G6063\|οἶδα]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G0846\|αὐτοῦ]]  [[G5083G\|τηρῶ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIARS|LIARS]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.54|<< John 8:54]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.56|John 8:56 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

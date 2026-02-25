@@ -1,8 +1,71 @@
+---
+title: 2 Samuel 15:35
+type: Verse
+kjv: "And hast thou not there with thee Zadok and Abiathar the priests? therefore it shall be, that what thing soever thou shalt hear out of the king’s house, thou shalt tell it to Zadok and Abiathar the priests."
+bsb: "Will not Zadok and Abiathar the priests be there with you? Report to them everything you hear from the king’s palace."
+hebrew: "וַהֲל֤וֹא עִמְּךָ֙ שָׁ֔ם צָד֥וֹק וְאֶבְיָתָ֖ר הַכֹּהֲנִ֑ים וְהָיָ֗ה כָּל־ הַדָּבָר֙ אֲשֶׁ֤ר תִּשְׁמַע֙ מִבֵּ֣ית הַמֶּ֔לֶךְ תַּגִּ֕יד לְצָד֥וֹק וּלְאֶבְיָתָ֖ר הַכֹּהֲנִֽים׃"
+pericope: "[[2Sam.15.30 David Weeps at the Mount of Olives|David Weeps at the Mount of Olives]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 15
+book/chapter: "[[2Sam.15|2 Samuel 15]]"
+chronological_order: 414
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABIATHAR|ABIATHAR]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic HUSHAI|HUSHAI]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H9002]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H5973A]]"
+- "[[H9031]]"
+- "[[H8033G]]"
+- "[[H6659G]]"
+- "[[H0054]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H8085G]]"
+- "[[H9006]]"
+- "[[H1004B]]"
+- "[[H4428G]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 15:35**<big><big>[[2Sam.15.30 David Weeps at the Mount of Olives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [hast thou] not there with thee Zadok and Abiathar the priests? therefore it shall be, [that] what thing soever thou shalt hear out of the king’s house, thou shalt tell [it] to Zadok and Abiathar the priests.
 <small><sub>**BSB:**</sub></small>
 Will not Zadok and Abiathar the priests be there with you? Report to them everything you hear from the king’s palace.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H9008\|הֲ]][[H3808\|ל֤וֹא]] [[H5973A\|עִמְּ]][[H9031\|ךָ֙]] [[H8033G\|שָׁ֔ם]] [[H6659G\|צָד֥וֹק]] [[H9002\|וְ]][[H0054\|אֶבְיָתָ֖ר]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֑ים]] [[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דָּבָר֙]] [[H0834A\|אֲשֶׁ֤ר]] [[H8085G\|תִּשְׁמַע֙]] [[H9006\|מִ]][[H1004B\|בֵּ֣ית]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H5046\|תַּגִּ֕יד]] [[H9005\|לְ]][[H6659G\|צָד֥וֹק]] [[H9002\|וּ]][[H9005\|לְ]][[H0054\|אֶבְיָתָ֖ר]] [[H9009\|הַ]][[H3548\|כֹּהֲנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIATHAR|ABIATHAR]] • [[topic DAVID|DAVID]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic HUSHAI|HUSHAI]] • [[topic PRUDENCE|PRUDENCE]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.34|<< 2 Samuel 15:34]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.36|2 Samuel 15:36 >>]]</td></tr></table>
 

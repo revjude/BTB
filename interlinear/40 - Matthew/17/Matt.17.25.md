@@ -1,10 +1,72 @@
+---
+title: Matthew 17:25
+type: Verse
+kjv: "He saith, Yes. And when he was come into the house, Jesus prevented him, saying, What thinkest thou, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?"
+bsb: "“Yes,” he answered. When Peter entered the house, Jesus preempted him. “What do you think, Simon?” He asked. “From whom do the kings of the earth collect customs and taxes: from their own sons, or from others?”"
+jesus_said: "What thinkest thou, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?"
+greek: "λέγει· ναί. καὶ ὅτε ἐλθόντα εἰς τὴν οἰκίαν προέφθασεν αὐτὸν ὁ Ἰησοῦς λέγων· τί σοι δοκεῖ, Σίμων; οἱ βασιλεῖς τῆς γῆς ἀπὸ τίνων λαμβάνουσιν τέλη ἢ κῆνσον; ἀπὸ τῶν υἱῶν αὐτῶν ἢ ἀπὸ τῶν ἀλλοτρίων;"
+pericope: "[[Matt.17.24 The Temple Tax|The Temple Tax]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 17
+book/chapter: "[[Matt.17|Matthew 17]]"
+chronological_order: 967
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KING|KING]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TAX|TAX]]"
+- "[[topic TRIBUTE (TAXES)|TRIBUTE (TAXES)]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3483]]"
+- "[[G2532]]"
+- "[[G3753]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3614G]]"
+- "[[G4399]]"
+- "[[G0846]]"
+- "[[G2424G]]"
+- "[[G5101]]"
+- "[[G4771]]"
+- "[[G1380]]"
+- "[[G4613O]]"
+- "[[G0935]]"
+- "[[G1093G]]"
+- "[[G0575]]"
+- "[[G2983]]"
+- "[[G5056]]"
+- "[[G2228]]"
+- "[[G2778]]"
+- "[[G5207]]"
+- "[[G0245]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Matthew 17:25**<big><big>[[Matt.17.24 The Temple Tax|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He saith, Yes. And when he was come into the house, Jesus prevented him, saying, What thinkest thou, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?
 <small><sub>**BSB:**</sub></small>
 “Yes,” he answered. When Peter entered the house, Jesus preempted him. “What do you think, Simon?” He asked. “From whom do the kings of the earth collect customs and taxes: from their own sons, or from others?”
-<small><sub>**Literal:**</sub></small>
-He says; Yes. And when he having entered into the house anticipated him <the> Jesus saying; What you do think, Simon? The kings of the earth from whom do they receive custom or tribute? From the sons of them or from <the> strangers?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.24|<< Matthew 17:24]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.26|Matthew 17:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγει·]]  [[G3483\|ναί.]]  [[G2532\|καὶ]]  [[G3753\|ὅτε]]  [[G2064\|ἐλθόντα]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3614G\|οἰκίαν]]  [[G4399\|προέφθασεν]]  [[G0846\|αὐτὸν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3004G\|λέγων·]]  [[G5101\|τί]]  [[G4771\|σοι]]  [[G1380\|δοκεῖ,]]  [[G4613O\|Σίμων;]]  [[G3588\|οἱ]]  [[G0935\|βασιλεῖς]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G0575\|ἀπὸ]]  [[G5101\|τίνων]]  [[G2983\|λαμβάνουσιν]]  [[G5056\|τέλη]]  [[G2228\|ἢ]]  [[G2778\|κῆνσον;]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G5207\|υἱῶν]]  [[G0846\|αὐτῶν]]  [[G2228\|ἢ]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G0245\|ἀλλοτρίων;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KING|KING]] • [[topic MIRACLES|MIRACLES]] • [[topic TAX|TAX]] • [[topic TRIBUTE (TAXES)|TRIBUTE (TAXES)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.24|<< Matthew 17:24]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.26|Matthew 17:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

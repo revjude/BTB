@@ -1,8 +1,73 @@
+---
+title: Genesis 19:9
+type: Verse
+kjv: "And they said, Stand back. And they said again, This one fellow came in to sojourn, and he will needs be a judge: now will we deal worse with thee, than with them. And they pressed sore upon the man, even Lot, and came near to break the door."
+bsb: "“Get out of the way!” they replied. And they declared, “This one came here as a foreigner, and he is already acting like a judge! Now we will treat you worse than them.” And they pressed in on Lot and moved in to break down the door."
+hebrew: "וַיֹּאמְר֣וּ׀ גֶּשׁ־ הָ֗לְאָה וַיֹּֽאמְרוּ֙ הָאֶחָ֤ד בָּֽא־ לָגוּר֙ וַיִּשְׁפֹּ֣ט שָׁפ֔וֹט עַתָּ֕ה נָרַ֥ע לְךָ֖ מֵהֶ֑ם וַיִּפְצְר֨וּ בָאִ֤ישׁ בְּלוֹט֙ מְאֹ֔ד וַֽיִּגְּשׁ֖וּ לִשְׁבֹּ֥ר הַדָּֽלֶת׃"
+pericope: "[[Gen.19.1 Lot Welcomes the Angels|Lot Welcomes the Angels]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 19
+book/chapter: "[[Gen.19|Genesis 19]]"
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic SODOMITES|SODOMITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9015]]"
+- "[[H5066G]]"
+- "[[H9014]]"
+- "[[H1973]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H1481A]]"
+- "[[H8199]]"
+- "[[H6258]]"
+- "[[H7489A]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H6484]]"
+- "[[H9003]]"
+- "[[H0376G]]"
+- "[[H3876]]"
+- "[[H3966]]"
+- "[[H7665]]"
+- "[[H1817C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 19:9**<big><big>[[Gen.19.1 Lot Welcomes the Angels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said, Stand back. And they said [again], This one [fellow] came in to sojourn, and he will needs be a judge: now will we deal worse with thee, than with them. And they pressed sore upon the man, [even] Lot, and came near to break the door.
 <small><sub>**BSB:**</sub></small>
 “Get out of the way!” they replied. And they declared, “This one came here as a foreigner, and he is already acting like a judge! Now we will treat you worse than them.” And they pressed in on Lot and moved in to break down the door.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]][[H9015\|׀]] [[H5066G\|גֶּשׁ]][[H9014\|־]] [[H1973\|הָ֗לְאָה]] [[H9001\|וַ]][[H0559\|יֹּֽאמְרוּ֙]] [[H9009\|הָ]][[H0259\|אֶחָ֤ד]] [[H0935G\|בָּֽא]][[H9014\|־]] [[H9005\|לָ]][[H1481A\|גוּר֙]] [[H9001\|וַ]][[H8199\|יִּשְׁפֹּ֣ט]] [[H8199\|שָׁפ֔וֹט]] [[H6258\|עַתָּ֕ה]] [[H7489A\|נָרַ֥ע]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H9006\|מֵ]][[H9038\|הֶ֑ם]] [[H9001\|וַ]][[H6484\|יִּפְצְר֨וּ]] [[H9003\|בָ]][[H0376G\|אִ֤ישׁ]] [[H9003\|בְּ]][[H3876\|לוֹט֙]] [[H3966\|מְאֹ֔ד]] [[H9001\|וַֽ]][[H5066G\|יִּגְּשׁ֖וּ]] [[H9005\|לִ]][[H7665\|שְׁבֹּ֥ר]] [[H9009\|הַ]][[H1817C\|דָּֽלֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SODOM|SODOM]] • [[topic SODOMITES|SODOMITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.8|<< Genesis 19:8]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.10|Genesis 19:10 >>]]</td></tr></table>
 

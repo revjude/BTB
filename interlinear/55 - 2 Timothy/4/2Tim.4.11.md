@@ -1,10 +1,55 @@
+---
+title: 2 Timothy 4:11
+type: Verse
+kjv: "Only Luke is with me. Take Mark, and bring him with thee: for he is profitable to me for the ministry."
+bsb: "Only Luke is with me. Get Mark and bring him with you, because he is useful to me in the ministry."
+greek: "Λουκᾶς ἐστιν μόνος μετ᾽ ἐμοῦ. Μᾶρκον ἀναλαβὼν ἄγε μετὰ σεαυτοῦ· ἔστιν γάρ μοι εὔχρηστος εἰς διακονίαν."
+pericope: "[[2Tim.4.9 Personal Concerns|Personal Concerns]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 4
+book/chapter: "[[2Tim.4|2 Timothy 4]]"
+chronological_order: 1156
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic LUKE|LUKE]]"
+- "[[topic MARK|MARK]]"
+strongs:
+- "[[G3065]]"
+- "[[G1510]]"
+- "[[G3441]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G3138]]"
+- "[[G0353]]"
+- "[[G0071]]"
+- "[[G4771]]"
+- "[[G1063]]"
+- "[[G3165]]"
+- "[[G2173]]"
+- "[[G1519]]"
+- "[[G1248]]"
+texts:
+- NKO
+---
+
 **2 Timothy 4:11**<big><big>[[2Tim.4.9 Personal Concerns|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Only Luke is with me. Take Mark, and bring him with thee: for he is profitable to me for the ministry.
 <small><sub>**BSB:**</sub></small>
 Only Luke is with me. Get Mark and bring him with you, because he is useful to me in the ministry.
-<small><sub>**Literal:**</sub></small>
-Luke is alone with me. Mark having taken do bring [him] with yourself; he is for to me useful for [the] ministry.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.10|<< 2 Timothy 4:10]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.12|2 Timothy 4:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3065\|Λουκᾶς]]  [[G1510\|ἐστιν]]  [[G3441\|μόνος]]  [[G3326\|μετ᾽]]  [[G1473\|ἐμοῦ.]]  [[G3138\|Μᾶρκον]]  [[G0353\|ἀναλαβὼν]]  [[G0071\|ἄγε]]  [[G3326\|μετὰ]]  [[G4771\|σεαυτοῦ·]]  [[G1510\|ἔστιν]]  [[G1063\|γάρ]]  [[G3165\|μοι]]  [[G2173\|εὔχρηστος]]  [[G1519\|εἰς]]  [[G1248\|διακονίαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LUKE|LUKE]] • [[topic MARK|MARK]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.10|<< 2 Timothy 4:10]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.12|2 Timothy 4:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

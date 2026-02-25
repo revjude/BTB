@@ -1,10 +1,67 @@
+---
+title: Acts 9:13
+type: Verse
+kjv: "Then Ananias answered, Lord, I have heard by many of this man, how much evil he hath done to thy saints at Jerusalem:"
+bsb: "But Ananias answered, “Lord, many people have told me about this man and all the harm he has done to Your saints in Jerusalem."
+greek: "Ἀπεκρίθη δὲ ὁ Ἁνανίας· κύριε, ἤκουσα ἀπὸ πολλῶν περὶ τοῦ ἀνδρὸς τούτου, ὅσα κακὰ τοῖς ἁγίοις σου ἐποίησεν ἐν Ἰερουσαλήμ·"
+pericope: "[[Acts.9.10 Ananias Baptizes Saul|Ananias Baptizes Saul]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 9
+book/chapter: "[[Acts.9|Acts 9]]"
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANANIAS|ANANIAS]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SYRIA|SYRIA]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G0367H]]"
+- "[[G2962G]]"
+- "[[G0191]]"
+- "[[G0575]]"
+- "[[G4183]]"
+- "[[G4012]]"
+- "[[G0435G]]"
+- "[[G3778]]"
+- "[[G3745]]"
+- "[[G2556G]]"
+- "[[G0040H]]"
+- "[[G4771]]"
+- "[[G4160G]]"
+- "[[G1722]]"
+- "[[G2419]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Acts 9:13**<big><big>[[Acts.9.10 Ananias Baptizes Saul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Ananias answered, Lord, I have heard by many of this man, how much evil he hath done to thy saints at Jerusalem:
 <small><sub>**BSB:**</sub></small>
 But Ananias answered, “Lord, many people have told me about this man and all the harm he has done to Your saints in Jerusalem.
-<small><sub>**Literal:**</sub></small>
-Answered but <the> Ananias; Lord, I have heard from many concerning <the> man this, how many evils to the saints of You he did in Jerusalem;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.12|<< Acts 9:12]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.14|Acts 9:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀπεκρίθη]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G0367H\|Ἁνανίας·]]  [[G2962G\|κύριε,]]  [[G0191\|ἤκουσα]]  [[G0575\|ἀπὸ]]  [[G4183\|πολλῶν]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G0435G\|ἀνδρὸς]]  [[G3778\|τούτου,]]  [[G3745\|ὅσα]]  [[G2556G\|κακὰ]]  [[G3588\|τοῖς]]  [[G0040H\|ἁγίοις]]  [[G4771\|σου]]  [[G4160G\|ἐποίησεν]]  [[G1722\|ἐν]]  [[G2419\|Ἰερουσαλήμ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANANIAS|ANANIAS]] • [[topic CONVERTS|CONVERTS]] • [[topic DOUBTING|DOUBTING]] • [[topic HEART|HEART]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PAUL|PAUL]] • [[topic PERSECUTION|PERSECUTION]] • [[topic REGENERATION|REGENERATION]] • [[topic SYRIA|SYRIA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.12|<< Acts 9:12]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.14|Acts 9:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

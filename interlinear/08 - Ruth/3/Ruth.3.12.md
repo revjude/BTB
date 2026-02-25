@@ -1,8 +1,57 @@
+---
+title: Ruth 3:12
+type: Verse
+kjv: "And now it is true that I am thy near kinsman: howbeit there is a kinsman nearer than I."
+bsb: "Yes, it is true that I am a kinsman-redeemer, but there is a redeemer nearer than I."
+hebrew: "וְעַתָּה֙ כִּ֣י אָמְנָ֔ם כִּ֥י   גֹאֵ֖ל אָנֹ֑כִי וְגַ֛ם יֵ֥שׁ גֹּאֵ֖ל קָר֥וֹב מִמֶּֽנִּי׃"
+pericope: "[[Ruth.3.1 Ruth’s Redemption Assured|Ruth’s Redemption Assured]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 3
+book/chapter: "[[Ruth.3|Ruth 3]]"
+chronological_order: 278
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic COURTSHIP|COURTSHIP]]"
+- "[[topic THRESHING|THRESHING]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H3588A]]"
+- "[[H0551]]"
+- "[[H0518B]]"
+- "[[H1350A]]"
+- "[[H0595]]"
+- "[[H1571]]"
+- "[[H3426]]"
+- "[[H7138]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ruth 3:12**<big><big>[[Ruth.3.1 Ruth’s Redemption Assured|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now it is true that I [am thy] near kinsman: howbeit there is a kinsman nearer than I.
 <small><sub>**BSB:**</sub></small>
 Yes, it is true that I am a kinsman-redeemer, but there is a redeemer nearer than I.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּה֙]] [[H3588A\|כִּ֣י]] [[H0551\|אָמְנָ֔ם]] [[H3588A\|כִּ֥י]]   [[H1350A\|גֹאֵ֖ל]] [[H0595\|אָנֹ֑כִי]] [[H9002\|וְ]][[H1571\|גַ֛ם]] [[H3426\|יֵ֥שׁ]] [[H1350A\|גֹּאֵ֖ל]] [[H7138\|קָר֥וֹב]] [[H4480A\|מִמֶּֽ]][[H9030\|נִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHASTITY|CHASTITY]] • [[topic CONTINENCE|CONTINENCE]] • [[topic COURTSHIP|COURTSHIP]] • [[topic THRESHING|THRESHING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.3.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.3.11|<< Ruth 3:11]]</td><td align="center" style="border:none;">[[Ruth.3|Ruth 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.3.13|Ruth 3:13 >>]]</td></tr></table>
 
@@ -12,7 +61,7 @@ Yes, it is true that I am a kinsman-redeemer, but there is a redeemer nearer tha
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | truly  |**<big>&#8207;[[H0551\|אָמְנָ֔ם]]&#8207; </big>**| 'a.me.Nam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [ ]  [^1]|**<big>&#8207;[[\|]]&#8207; </big>**[^2] | [ ] | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| [ ]  [^1]|**<big> </big>**[^2] | [ ] | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | [am] a kinsman-redeemer  |**<big>&#8207;[[H1350A\|גֹאֵ֖ל]]&#8207; </big>**| go.'El<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0595\|אָנֹ֑כִי]]&#8207; </big>**| 'a.No.khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַ֛ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -5,11 +5,11 @@
 
 → See [[topic PRUDENCE|PRUDENCE]]
 
-→ REJECTED [[Prov.1.24|Pr 1:24]]-[[Prov.1.33|33]]
+→ REJECTED [[Prov.1.24|Pr 1:24-33]]
 
 → INSTANCES OF
 
-- By Rehoboam [[1Kgs.12.8|1Ki 12:8]]-[[1Kgs.12.16|16]]
+- By Rehoboam [[1Kgs.12.8|1Ki 12:8-16]]
 
 - By the rich young ruler [[Matt.19.22|Mt 19:22]]
 

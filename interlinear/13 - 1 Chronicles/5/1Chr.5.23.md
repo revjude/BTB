@@ -1,8 +1,62 @@
+---
+title: 1 Chronicles 5:23
+type: Verse
+kjv: "And the children of the half tribe of Manasseh dwelt in the land: they increased from Bashan unto Baalhermon and Senir, and unto mount Hermon."
+bsb: "Now the people of the half-tribe of Manasseh were numerous. They settled in the land from Bashan to Baal-hermon (that is, Senir, also known as Mount Hermon)."
+hebrew: "וּבְנֵ֗י חֲצִי֙ שֵׁ֣בֶט מְנַשֶּׁ֔ה יָשְׁב֖וּ בָּאָ֑רֶץ מִבָּשָׁ֞ן עַד־ בַּ֧עַל חֶרְמ֛וֹן וּשְׂנִ֥יר וְהַר־ חֶרְמ֖וֹן הֵ֥מָּה רָבֽוּ׃"
+pericope: "[[1Chr.5.23 The Half-Tribe of Manasseh|The Half-Tribe of Manasseh]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 5
+book/chapter: "[[1Chr.5|1 Chronicles 5]]"
+chronological_order: 324
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BAAL-GAD|BAAL-GAD]]"
+- "[[topic BAAL-HERMON|BAAL-HERMON]]"
+- "[[topic HERMON|HERMON]]"
+- "[[topic SHENIR|SHENIR]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121G]]"
+- "[[H2677]]"
+- "[[H7626G]]"
+- "[[H4519G]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9006]]"
+- "[[H1316]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H1179]]"
+- "[[H8149]]"
+- "[[H2022G]]"
+- "[[H2768]]"
+- "[[H1992]]"
+- "[[H7235A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 5:23**<big><big>[[1Chr.5.23 The Half-Tribe of Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of the half tribe of Manasseh dwelt in the land: they increased from Bashan unto Baalhermon and Senir, and unto mount Hermon.
 <small><sub>**BSB:**</sub></small>
 Now the people of the half-tribe of Manasseh were numerous. They settled in the land from Bashan to Baal-hermon (that is, Senir, also known as Mount Hermon).
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121G\|בְנֵ֗י]] [[H2677\|חֲצִי֙]] [[H7626G\|שֵׁ֣בֶט]] [[H4519G\|מְנַשֶּׁ֔ה]] [[H3427\|יָשְׁב֖וּ]] [[H9003\|בָּ]][[H0776G\|אָ֑רֶץ]] [[H9006\|מִ]][[H1316\|בָּשָׁ֞ן]] [[H5704\|עַד]][[H9014\|־]] [[H1179\|בַּ֧עַל]] [[H1179\|חֶרְמ֛וֹן]] [[H9002\|וּ]][[H8149\|שְׂנִ֥יר]] [[H9002\|וְ]][[H2022G\|הַר]][[H9014\|־]] [[H2768\|חֶרְמ֖וֹן]] [[H1992\|הֵ֥מָּה]] [[H7235A\|רָבֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL-GAD|BAAL-GAD]] • [[topic BAAL-HERMON|BAAL-HERMON]] • [[topic HERMON|HERMON]] • [[topic SHENIR|SHENIR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.5.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.22|<< 1 Chronicles 5:22]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.24|1 Chronicles 5:24 >>]]</td></tr></table>
 

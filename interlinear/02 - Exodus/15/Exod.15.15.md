@@ -1,8 +1,71 @@
+---
+title: Exodus 15:15
+type: Verse
+kjv: "Then the dukes of Edom shall be amazed; the mighty men of Moab, trembling shall take hold upon them; all the inhabitants of Canaan shall melt away."
+bsb: "Then the chiefs of Edom will be dismayed; trembling will seize the leaders of Moab; those who dwell in Canaan will melt away,"
+hebrew: "אָ֤ז נִבְהֲלוּ֙ אַלּוּפֵ֣י אֱד֔וֹם אֵילֵ֣י מוֹאָ֔ב יֹֽאחֲזֵ֖מוֹ רָ֑עַד נָמֹ֕גוּ כֹּ֖ל יֹשְׁבֵ֥י כְנָֽעַן׃"
+pericope: "[[Exod.15.1 The Song at the Sea|The Song at the Sea]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 15
+book/chapter: "[[Exod.15|Exodus 15]]"
+chronological_order: 107
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic DUKE|DUKE]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic EPIC|EPIC]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PANIC|PANIC]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SONG|SONG]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H0227A]]"
+- "[[H0926]]"
+- "[[H0441B]]"
+- "[[H0123G]]"
+- "[[H0352C]]"
+- "[[H4124G]]"
+- "[[H0270]]"
+- "[[H9038]]"
+- "[[H7461A]]"
+- "[[H4127]]"
+- "[[H3605]]"
+- "[[H3427]]"
+- "[[H3667A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 15:15**<big><big>[[Exod.15.1 The Song at the Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the dukes of Edom shall be amazed; the mighty men of Moab, trembling shall take hold upon them; all the inhabitants of Canaan shall melt away.
 <small><sub>**BSB:**</sub></small>
 Then the chiefs of Edom will be dismayed; trembling will seize the leaders of Moab; those who dwell in Canaan will melt away,
+<small><sub>**Hebrew:**</sub></small>
+[[H0227A\|אָ֤ז]] [[H0926\|נִבְהֲלוּ֙]] [[H0441B\|אַלּוּפֵ֣י]] [[H0123G\|אֱד֔וֹם]] [[H0352C\|אֵילֵ֣י]] [[H4124G\|מוֹאָ֔ב]] [[H0270\|יֹֽאחֲזֵ֖]][[H9038\|מוֹ]] [[H7461A\|רָ֑עַד]] [[H4127\|נָמֹ֕גוּ]] [[H3605\|כֹּ֖ל]] [[H3427\|יֹשְׁבֵ֥י]] [[H3667A\|כְנָֽעַן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DUKE|DUKE]] • [[topic EDOMITES|EDOMITES]] • [[topic EPIC|EPIC]] • [[topic FAITH|FAITH]] • [[topic JOY|JOY]] • [[topic PANIC|PANIC]] • [[topic POETRY|POETRY]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SONG|SONG]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.15.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.14|<< Exodus 15:14]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.16|Exodus 15:16 >>]]</td></tr></table>
 

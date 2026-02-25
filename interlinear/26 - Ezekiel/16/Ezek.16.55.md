@@ -1,8 +1,58 @@
+---
+title: Ezekiel 16:55
+type: Verse
+kjv: "When thy sisters, Sodom and her daughters, shall return to their former estate, and Samaria and her daughters shall return to their former estate, then thou and thy daughters shall return to your former estate."
+bsb: "And your sisters, Sodom with her daughters and Samaria with her daughters, will return to their former state. You and your daughters will also return to your former state."
+hebrew: "וַאֲחוֹתַ֗יִךְ סְדֹ֤ם וּבְנוֹתֶ֙יהָ֙ תָּשֹׁ֣בְןָ לְקַדְמָתָ֔ן וְשֹֽׁמְרוֹן֙ וּבְנוֹתֶ֔יהָ תָּשֹׁ֖בְןָ לְקַדְמָתָ֑ן וְאַתְּ֙ וּבְנוֹתַ֔יִךְ תְּשֻׁבֶ֖ינָה לְקַדְמַתְכֶֽן׃"
+pericope: "[[Ezek.16.35 Judgment on Jerusalem|Judgment on Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic SODOM|SODOM]]"
+strongs:
+- "[[H9002]]"
+- "[[H0269]]"
+- "[[H9022]]"
+- "[[H5467]]"
+- "[[H1323G]]"
+- "[[H9024]]"
+- "[[H7725G]]"
+- "[[H9005]]"
+- "[[H6927]]"
+- "[[H9029]]"
+- "[[H8111]]"
+- "[[H0859C]]"
+- "[[H9027]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 16:55**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thy sisters, Sodom and her daughters, shall return to their former estate, and Samaria and her daughters shall return to their former estate, then thou and thy daughters shall return to your former estate.
 <small><sub>**BSB:**</sub></small>
 And your sisters, Sodom with her daughters and Samaria with her daughters, will return to their former state. You and your daughters will also return to your former state.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0269\|אֲחוֹתַ֗יִ]][[H9022\|ךְ]] [[H5467\|סְדֹ֤ם]] [[H9002\|וּ]][[H1323G\|בְנוֹתֶ֙י]][[H9024\|הָ֙]] [[H7725G\|תָּשֹׁ֣בְןָ]] [[H9005\|לְ]][[H6927\|קַדְמָתָ֔]][[H9029\|ן]] [[H9002\|וְ]][[H8111\|שֹֽׁמְרוֹן֙]] [[H9002\|וּ]][[H1323G\|בְנוֹתֶ֔י]][[H9024\|הָ]] [[H7725G\|תָּשֹׁ֖בְןָ]] [[H9005\|לְ]][[H6927\|קַדְמָתָ֑]][[H9029\|ן]] [[H9002\|וְ]][[H0859C\|אַתְּ֙]] [[H9002\|וּ]][[H1323G\|בְנוֹתַ֔יִ]][[H9022\|ךְ]] [[H7725G\|תְּשֻׁבֶ֖ינָה]] [[H9005\|לְ]][[H6927\|קַדְמַתְ]][[H9027\|כֶֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic SODOM|SODOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.55|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.54|<< Ezekiel 16:54]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.56|Ezekiel 16:56 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: 1 Chronicles 9:19
+type: Verse
+kjv: "And Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brethren, of the house of his father, the Korahites, were over the work of the service, keepers of the gates of the tabernacle: and their fathers, being over the host of the LORD, were keepers of the entry."
+bsb: "Shallum son of Kore, the son of Ebiasaph, the son of Korah, and his relatives from the Korahites were assigned to guard the thresholds of the Tent, just as their fathers had been assigned to guard the entrance to the dwelling of the LORD."
+hebrew: "וְשַׁלּ֣וּם בֶּן־ ק֠וֹרֵא בֶּן־ אֶבְיָסָ֨ף בֶּן־ קֹ֜רַח וְֽאֶחָ֧יו לְבֵית־ אָבִ֣יו הַקָּרְחִ֗ים עַ֚ל מְלֶ֣אכֶת הָעֲבוֹדָ֔ה שֹׁמְרֵ֥י הַסִּפִּ֖ים לָאֹ֑הֶל וַאֲבֹֽתֵיהֶם֙ עַל־ מַחֲנֵ֣ה יְהוָ֔ה שֹׁמְרֵ֖י הַמָּבֽוֹא׃"
+pericope: "[[1Chr.9.1 The People of Jerusalem|The People of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 9
+book/chapter: "[[1Chr.9|1 Chronicles 9]]"
+chronological_order: 328
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic EBIASAPH|EBIASAPH]]"
+- "[[topic KORE|KORE]]"
+- "[[topic PHINEHAS|PHINEHAS]]"
+- "[[topic PORTERS|PORTERS]]"
+- "[[topic SHALLUM|SHALLUM]]"
+strongs:
+- "[[H9002]]"
+- "[[H7967M]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H6981G]]"
+- "[[H0043]]"
+- "[[H7141I]]"
+- "[[H0251H]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9009]]"
+- "[[H7145]]"
+- "[[H5921A]]"
+- "[[H4399]]"
+- "[[H5656H]]"
+- "[[H8104H]]"
+- "[[H5592B]]"
+- "[[H0168G]]"
+- "[[H9028]]"
+- "[[H4264]]"
+- "[[H3068G]]"
+- "[[H3996]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 9:19**<big><big>[[1Chr.9.1 The People of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brethren, of the house of his father, the Korahites, [were] over the work of the service, keepers of the gates of the tabernacle: and their fathers, [being] over the host of the LORD, [were] keepers of the entry.
 <small><sub>**BSB:**</sub></small>
 Shallum son of Kore, the son of Ebiasaph, the son of Korah, and his relatives from the Korahites were assigned to guard the thresholds of the Tent, just as their fathers had been assigned to guard the entrance to the dwelling of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7967M\|שַׁלּ֣וּם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6981G\|ק֠וֹרֵא]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0043\|אֶבְיָסָ֨ף]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7141I\|קֹ֜רַח]] [[H9002\|וְֽ]][[H0251H\|אֶחָ֧י]][[H9023\|ו]] [[H9005\|לְ]][[H1004M\|בֵית]][[H9014\|־]] [[H0001G\|אָבִ֣י]][[H9023\|ו]] [[H9009\|הַ]][[H7145\|קָּרְחִ֗ים]] [[H5921A\|עַ֚ל]] [[H4399\|מְלֶ֣אכֶת]] [[H9009\|הָ]][[H5656H\|עֲבוֹדָ֔ה]] [[H8104H\|שֹׁמְרֵ֥י]] [[H9009\|הַ]][[H5592B\|סִּפִּ֖ים]] [[H9005\|לָ]][[H0168G\|אֹ֑הֶל]] [[H9002\|וַ]][[H0001G\|אֲבֹֽתֵי]][[H9028\|הֶם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H4264\|מַחֲנֵ֣ה]] [[H3068G\|יְהוָ֔ה]] [[H8104H\|שֹׁמְרֵ֖י]] [[H9009\|הַ]][[H3996\|מָּבֽוֹא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EBIASAPH|EBIASAPH]] • [[topic KORE|KORE]] • [[topic PHINEHAS|PHINEHAS]] • [[topic PORTERS|PORTERS]] • [[topic SHALLUM|SHALLUM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.18|<< 1 Chronicles 9:18]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.20|1 Chronicles 9:20 >>]]</td></tr></table>
 

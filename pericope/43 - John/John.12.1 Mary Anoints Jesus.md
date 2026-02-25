@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Mary Anoints Jesus
+type: Pericope
 pericope: "[[John.12.1 Mary Anoints Jesus|Mary Anoints Jesus]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: John
 chapter: 12
 book/chapter: "[[John.12|John 12]]"
-genre:
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 8
 verses:
 - "[[John.12.1]]"
 - "[[John.12.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[John.12.8]]"
 ---
 
-[[John.12|John 12:1 - John 12:8]]
+<small>[[John.12|John 12:1-8]]</small>
 *Mary Anoints Jesus*
 
 [[John.12.1|1]] Then Jesus six days before the passover came to Bethany, where Lazarus was which had been dead, whom he raised from the dead.

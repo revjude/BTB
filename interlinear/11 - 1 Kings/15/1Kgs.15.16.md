@@ -1,8 +1,58 @@
+---
+title: 1 Kings 15:16
+type: Verse
+kjv: "And there was war between Asa and Baasha king of Israel all their days."
+bsb: "Now there was war between Asa and Baasha king of Israel throughout their days."
+hebrew: "וּמִלְחָמָ֨ה הָיְתָ֜ה בֵּ֣ין אָסָ֗א וּבֵ֛ין בַּעְשָׁ֥א מֶֽלֶךְ־ יִשְׂרָאֵ֖ל כָּל־ יְמֵיהֶֽם׃"
+pericope: "[[1Kgs.15.16 War between Asa and Baasha|War between Asa and Baasha]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 15
+book/chapter: "[[1Kgs.15|1 Kings 15]]"
+chronological_order: 554
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ASA|ASA]]"
+- "[[topic BAASHA|BAASHA]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9002]]"
+- "[[H4421]]"
+- "[[H1961]]"
+- "[[H0996G]]"
+- "[[H0609G]]"
+- "[[H1201]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H3605]]"
+- "[[H3117G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 15:16**<big><big>[[1Kgs.15.16 War between Asa and Baasha|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there was war between Asa and Baasha king of Israel all their days.
 <small><sub>**BSB:**</sub></small>
 Now there was war between Asa and Baasha king of Israel throughout their days.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4421\|מִלְחָמָ֨ה]] [[H1961\|הָיְתָ֜ה]] [[H0996G\|בֵּ֣ין]] [[H0609G\|אָסָ֗א]] [[H9002\|וּ]][[H0996G\|בֵ֛ין]] [[H1201\|בַּעְשָׁ֥א]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H3605\|כָּל]][[H9014\|־]] [[H3117G\|יְמֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASA|ASA]] • [[topic BAASHA|BAASHA]] • [[topic ISRAEL|ISRAEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.15|<< 1 Kings 15:15]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.17|1 Kings 15:17 >>]]</td></tr></table>
 

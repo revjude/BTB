@@ -1,10 +1,46 @@
+---
+title: John 5:41
+type: Verse
+kjv: "I receive not honour from men."
+bsb: "I do not accept glory from men,"
+jesus_said: "I receive not honour from men."
+greek: "δόξαν παρὰ ἀνθρώπων οὐ λαμβάνω·"
+pericope: "[[John.5.39 The Witness of Scripture|The Witness of Scripture]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 5
+book/chapter: "[[John.5|John 5]]"
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G1391]]"
+- "[[G3844]]"
+- "[[G0444]]"
+- "[[G3756]]"
+- "[[G2983]]"
+texts:
+- NKO
+---
+
 **John 5:41**<big><big>[[John.5.39 The Witness of Scripture|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I receive not honour from men.
 <small><sub>**BSB:**</sub></small>
 I do not accept glory from men,
-<small><sub>**Literal:**</sub></small>
-Glory from men not I take;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.40|<< John 5:40]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.42|John 5:42 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1391\|δόξαν]]  [[G3844\|παρὰ]]  [[G0444\|ἀνθρώπων]]  [[G3756\|οὐ]]  [[G2983\|λαμβάνω·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.40|<< John 5:40]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.42|John 5:42 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,63 @@
+---
+title: Deuteronomy 1:26
+type: Verse
+kjv: "Notwithstanding ye would not go up, but rebelled against the commandment of the LORD your God:"
+bsb: "But you were unwilling to go up; you rebelled against the command of the LORD your God."
+hebrew: "וְלֹ֥א אֲבִיתֶ֖ם לַעֲלֹ֑ת וַתַּמְר֕וּ אֶת־ פִּ֥י יְהוָ֖ה אֱלֹהֵיכֶֽם׃"
+pericope: "[[Deut.1.26 Israel’s Rebellion|Israel’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0014]]"
+- "[[H9005]]"
+- "[[H5927G]]"
+- "[[H9001]]"
+- "[[H4784]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6310I]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:26**<big><big>[[Deut.1.26 Israel’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Notwithstanding ye would not go up, but rebelled against the commandment of the LORD your God:
 <small><sub>**BSB:**</sub></small>
 But you were unwilling to go up; you rebelled against the command of the LORD your God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0014\|אֲבִיתֶ֖ם]] [[H9005\|לַ]][[H5927G\|עֲלֹ֑ת]] [[H9001\|וַ]][[H4784\|תַּמְר֕וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H6310I\|פִּ֥י]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COWARDICE|COWARDICE]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic FAITH|FAITH]] • [[topic MOSES|MOSES]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.25|<< Deuteronomy 1:25]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.27|Deuteronomy 1:27 >>]]</td></tr></table>
 

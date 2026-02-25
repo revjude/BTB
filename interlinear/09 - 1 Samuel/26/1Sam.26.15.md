@@ -1,8 +1,72 @@
+---
+title: 1 Samuel 26:15
+type: Verse
+kjv: "And David said to Abner, Art not thou a valiant man? and who is like to thee in Israel? wherefore then hast thou not kept thy lord the king? for there came one of the people in to destroy the king thy lord."
+bsb: "So David said to Abner, “You are a man, aren’t you? And who in Israel is your equal? Why then did you not protect your lord the king when one of the people came to destroy him?"
+hebrew: "וַיֹּאמֶר֩ דָּוִ֨ד אֶל־ אַבְנֵ֜ר הֲלוֹא־ אִ֣ישׁ אַתָּ֗ה וּמִ֤י כָמ֙וֹךָ֙ בְּיִשְׂרָאֵ֔ל וְלָ֙מָּה֙ לֹ֣א שָׁמַ֔רְתָּ אֶל־ אֲדֹנֶ֖יךָ הַמֶּ֑לֶךְ כִּי־ בָא֙ אַחַ֣ד הָעָ֔ם לְהַשְׁחִ֖ית אֶת־ הַמֶּ֥לֶךְ אֲדֹנֶֽיךָ׃"
+pericope: "[[1Sam.26.13 David Reproves Abner|David Reproves Abner]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 26
+book/chapter: "[[1Sam.26|1 Samuel 26]]"
+chronological_order: 305
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic LOYALTY|LOYALTY]]"
+- "[[topic SELF-CONTROL|SELF-CONTROL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0074]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H0376G]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H4310]]"
+- "[[H3644G]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H8104H]]"
+- "[[H0113]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3588A]]"
+- "[[H0935G]]"
+- "[[H0259]]"
+- "[[H5971A]]"
+- "[[H7843]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 26:15**<big><big>[[1Sam.26.13 David Reproves Abner|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said to Abner, [Art] not thou a [valiant] man? and who [is] like to thee in Israel? wherefore then hast thou not kept thy lord the king? for there came one of the people in to destroy the king thy lord.
 <small><sub>**BSB:**</sub></small>
 So David said to Abner, “You are a man, aren’t you? And who in Israel is your equal? Why then did you not protect your lord the king when one of the people came to destroy him?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמֶר֩]] [[H1732\|דָּוִ֨ד]] [[H0413\|אֶל]][[H9014\|־]] [[H0074\|אַבְנֵ֜ר]] [[H9008\|הֲ]][[H3808\|לוֹא]][[H9014\|־]] [[H0376G\|אִ֣ישׁ]] [[H0859A\|אַתָּ֗ה]] [[H9002\|וּ]][[H4310\|מִ֤י]] [[H3644G\|כָמ֙וֹ]][[H9031\|ךָ֙]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וְ]][[H9005\|לָ֙]][[H4100\|מָּה֙]] [[H3808\|לֹ֣א]] [[H8104H\|שָׁמַ֔רְתָּ]] [[H0413\|אֶל]][[H9014\|־]] [[H0113\|אֲדֹנֶ֖י]][[H9021\|ךָ]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H3588A\|כִּי]][[H9014\|־]] [[H0935G\|בָא֙]] [[H0259\|אַחַ֣ד]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9005\|לְ]][[H7843\|הַשְׁחִ֖ית]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֥לֶךְ]] [[H0113\|אֲדֹנֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic LOYALTY|LOYALTY]] • [[topic SELF-CONTROL|SELF-CONTROL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.26.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.14|<< 1 Samuel 26:14]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.16|1 Samuel 26:16 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Exodus 34:33
+type: Verse
+kjv: "And till Moses had done speaking with them, he put a vail on his face."
+bsb: "When Moses had finished speaking with them, he put a veil over his face."
+hebrew: "וַיְכַ֣ל מֹשֶׁ֔ה מִדַּבֵּ֖ר אִתָּ֑ם וַיִּתֵּ֥ן עַל־ פָּנָ֖יו מַסְוֶֽה׃"
+pericope: "[[Exod.34.10 The LORD Renews the Covenant|The LORD Renews the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 34
+book/chapter: "[[Exod.34|Exodus 34]]"
+chronological_order: 126
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COUNTENANCE|COUNTENANCE]]"
+- "[[topic FACE|FACE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic TRANSFIGURATION|TRANSFIGURATION]]"
+- "[[topic VEIL|VEIL]]"
+strongs:
+- "[[H9001]]"
+- "[[H3615G]]"
+- "[[H4872]]"
+- "[[H9006]]"
+- "[[H1696G]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H5414H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H4533]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 34:33**<big><big>[[Exod.34.10 The LORD Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [till] Moses had done speaking with them, he put a vail on his face.
 <small><sub>**BSB:**</sub></small>
 When Moses had finished speaking with them, he put a veil over his face.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3615G\|יְכַ֣ל]] [[H4872\|מֹשֶׁ֔ה]] [[H9006\|מִ]][[H1696G\|דַּבֵּ֖ר]] [[H0854\|אִתָּ֑]][[H9038\|ם]] [[H9001\|וַ]][[H5414H\|יִּתֵּ֥ן]] [[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פָּנָ֖י]][[H9023\|ו]] [[H4533\|מַסְוֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTENANCE|COUNTENANCE]] • [[topic FACE|FACE]] • [[topic GOD|GOD]] • [[topic MIRACLES|MIRACLES]] • [[topic MOSES|MOSES]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REVERENCE|REVERENCE]] • [[topic TRANSFIGURATION|TRANSFIGURATION]] • [[topic VEIL|VEIL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.32|<< Exodus 34:32]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.34|Exodus 34:34 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

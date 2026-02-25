@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel’s Confession and Comfort
+type: Pericope
 pericope: "[[Mic.7.7 Israel’s Confession and Comfort|Israel’s Confession and Comfort]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Micah
 chapter: 7
 book/chapter: "[[Mic.7|Micah 7]]"
-genre:
+chronological_order: 629
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 7
 verses:
 - "[[Mic.7.7]]"
 - "[[Mic.7.8]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Mic.7.13]]"
 ---
 
-[[Mic.7|Micah 7:7 - Micah 7:13]]
+<small>[[Mic.7|Micah 7:7-13]]</small>
 *Israel’s Confession and Comfort*
 
 [[Mic.7.7|7]] Therefore I will look unto the LORD; I will wait for the God of my salvation: my God will hear me.

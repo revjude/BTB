@@ -1,8 +1,61 @@
+---
+title: Ecclesiastes 4:12
+type: Verse
+kjv: "And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken."
+bsb: "And though one may be overpowered, two can resist. Moreover, a cord of three strands is not quickly broken."
+hebrew: "וְאִֽם־ יִתְקְפוֹ֙ הָאֶחָ֔ד הַשְּׁנַ֖יִם יַעַמְד֣וּ נֶגְדּ֑וֹ וְהַחוּט֙ הַֽמְשֻׁלָּ֔שׁ לֹ֥א בִמְהֵרָ֖ה יִנָּתֵֽק׃"
+pericope: "[[Eccl.4.1 The Evil of Oppression|The Evil of Oppression]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 4
+book/chapter: "[[Eccl.4|Ecclesiastes 4]]"
+chronological_order: 542
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic CORD|CORD]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic ROPE|ROPE]]"
+- "[[topic UNION|UNION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H8630]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H8147]]"
+- "[[H5975G]]"
+- "[[H5048]]"
+- "[[H2339]]"
+- "[[H8027]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H4120]]"
+- "[[H5423]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 4:12**<big><big>[[Eccl.4.1 The Evil of Oppression|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken.
 <small><sub>**BSB:**</sub></small>
 And though one may be overpowered, two can resist. Moreover, a cord of three strands is not quickly broken.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִֽם]][[H9014\|־]] [[H8630\|יִתְקְפ]][[H9033\|וֹ֙]] [[H9009\|הָ]][[H0259\|אֶחָ֔ד]] [[H9009\|הַ]][[H8147\|שְּׁנַ֖יִם]] [[H5975G\|יַעַמְד֣וּ]] [[H5048\|נֶגְדּ֑]][[H9033\|וֹ]] [[H9002\|וְ]][[H9009\|הַ]][[H2339\|חוּט֙]] [[H9009\|הַֽ]][[H8027\|מְשֻׁלָּ֔שׁ]] [[H3808\|לֹ֥א]] [[H9003\|בִ]][[H4120\|מְהֵרָ֖ה]] [[H5423\|יִנָּתֵֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CORD|CORD]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic ROPE|ROPE]] • [[topic UNION|UNION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.4.11|<< Ecclesiastes 4:11]]</td><td align="center" style="border:none;">[[Eccl.4|Ecclesiastes 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.4.13|Ecclesiastes 4:13 >>]]</td></tr></table>
 

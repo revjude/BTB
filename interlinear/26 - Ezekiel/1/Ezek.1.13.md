@@ -1,8 +1,66 @@
+---
+title: Ezekiel 1:13
+type: Verse
+kjv: "As for the likeness of the living creatures, their appearance was like burning coals of fire, and like the appearance of lamps: it went up and down among the living creatures; and the fire was bright, and out of the fire went forth lightning."
+bsb: "In the midst of the living creatures was the appearance of glowing coals of fire, or of torches. Fire moved back and forth between the living creatures; it was bright, and lightning flashed out of it."
+hebrew: "וּדְמ֨וּת הַחַיּ֜וֹת מַרְאֵיהֶ֣ם כְּגַחֲלֵי־ אֵ֗שׁ בֹּֽעֲרוֹת֙ כְּמַרְאֵ֣ה הַלַּפִּדִ֔ים הִ֕יא מִתְהַלֶּ֖כֶת בֵּ֣ין הַחַיּ֑וֹת וְנֹ֣גַהּ לָאֵ֔שׁ וּמִן־ הָאֵ֖שׁ יוֹצֵ֥א בָרָֽק׃"
+pericope: "[[Ezek.1.4 The Four Living Creatures|The Four Living Creatures]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 1
+book/chapter: "[[Ezek.1|Ezekiel 1]]"
+chronological_order: 792
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic LIGHTNING|LIGHTNING]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9002]]"
+- "[[H1823]]"
+- "[[H9009]]"
+- "[[H2416C]]"
+- "[[H4758]]"
+- "[[H9028]]"
+- "[[H9004]]"
+- "[[H1513]]"
+- "[[H9014]]"
+- "[[H0784]]"
+- "[[H1197A]]"
+- "[[H3940]]"
+- "[[H1931]]"
+- "[[H1980I]]"
+- "[[H0996H]]"
+- "[[H5051]]"
+- "[[H9005]]"
+- "[[H4480A]]"
+- "[[H3318G]]"
+- "[[H1300B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 1:13**<big><big>[[Ezek.1.4 The Four Living Creatures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As for the likeness of the living creatures, their appearance [was] like burning coals of fire, [and] like the appearance of lamps: it went up and down among the living creatures; and the fire was bright, and out of the fire went forth lightning.
 <small><sub>**BSB:**</sub></small>
 In the midst of the living creatures was the appearance of glowing coals of fire, or of torches. Fire moved back and forth between the living creatures; it was bright, and lightning flashed out of it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1823\|דְמ֨וּת]] [[H9009\|הַ]][[H2416C\|חַיּ֜וֹת]] [[H4758\|מַרְאֵי]][[H9028\|הֶ֣ם]] [[H9004\|כְּ]][[H1513\|גַחֲלֵי]][[H9014\|־]] [[H0784\|אֵ֗שׁ]] [[H1197A\|בֹּֽעֲרוֹת֙]] [[H9004\|כְּ]][[H4758\|מַרְאֵ֣ה]] [[H9009\|הַ]][[H3940\|לַּפִּדִ֔ים]] [[H1931\|הִ֕יא]] [[H1980I\|מִתְהַלֶּ֖כֶת]] [[H0996H\|בֵּ֣ין]] [[H9009\|הַ]][[H2416C\|חַיּ֑וֹת]] [[H9002\|וְ]][[H5051\|נֹ֣גַהּ]] [[H9005\|לָ]][[H0784\|אֵ֔שׁ]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0784\|אֵ֖שׁ]] [[H3318G\|יוֹצֵ֥א]] [[H1300B\|בָרָֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic LIGHTNING|LIGHTNING]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.12|<< Ezekiel 1:12]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.14|Ezekiel 1:14 >>]]</td></tr></table>
 

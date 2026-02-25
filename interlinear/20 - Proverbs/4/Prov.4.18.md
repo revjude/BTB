@@ -1,8 +1,59 @@
+---
+title: Proverbs 4:18
+type: Verse
+kjv: "But the path of the just is as the shining light, that shineth more and more unto the perfect day."
+bsb: "The path of the righteous is like the first gleam of dawn, shining brighter and brighter until midday."
+hebrew: "וְאֹ֣רַח צַ֭דִּיקִים כְּא֣וֹר נֹ֑גַהּ הוֹלֵ֥ךְ וָ֝א֗וֹר עַד־ נְכ֥וֹן הַיּֽוֹם׃"
+pericope: "[[Prov.4.1 A Father’s Instruction|A Father’s Instruction]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 4
+book/chapter: "[[Prov.4|Proverbs 4]]"
+chronological_order: 459
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic DAY|DAY]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0734]]"
+- "[[H6662]]"
+- "[[H9004]]"
+- "[[H0216]]"
+- "[[H5051]]"
+- "[[H1980L]]"
+- "[[H0215]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H3559A]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 4:18**<big><big>[[Prov.4.1 A Father’s Instruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the path of the just [is] as the shining light, that shineth more and more unto the perfect day.
 <small><sub>**BSB:**</sub></small>
 The path of the righteous is like the first gleam of dawn, shining brighter and brighter until midday.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0734\|אֹ֣רַח]] [[H6662\|צַ֭דִּיקִים]] [[H9004\|כְּ]][[H0216\|א֣וֹר]] [[H5051\|נֹ֑גַהּ]] [[H1980L\|הוֹלֵ֥ךְ]] [[H9002\|וָ֝]][[H0215\|א֗וֹר]] [[H5704\|עַד]][[H9014\|־]] [[H3559A\|נְכ֥וֹן]] [[H9009\|הַ]][[H3117G\|יּֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAY|DAY]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.17|<< Proverbs 4:17]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.19|Proverbs 4:19 >>]]</td></tr></table>
 

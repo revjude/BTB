@@ -1,6 +1,62 @@
+---
+title: LXX Joshua 13:25
+type: Verse
+lxx: "And their borders were Jazer, and all the cities of Gilead, and half of the land of the sons of Ammon, unto Aroer which is against the face of Rabbah."
+greek: "και εγένετο αυτών τα όρια Ιαζίρ πάσα πόλεις Γαλαάδ και ήμισυ γης υιών Αμμών έως Αροήρ η εστι κατά πρόσωπον Ραββά"
+original_language: Greek
+testament: Old
+book: Joshua
+chapter: 13
+book/chapter: "[[Josh.13|Joshua 13]]"
+chronological_order: 243
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic AROER|AROER]]"
+- "[[topic GAD|GAD]]"
+- "[[topic JAAZER|JAAZER]]"
+- "[[topic JAZER|JAZER]]"
+- "[[topic RABBAH|RABBAH]]"
+- "[[topic TOPOGRAPHY|TOPOGRAPHY]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G3725]]"
+- "[[H3270]]"
+- "[[G3956]]"
+- "[[G4172]]"
+- "[[H1568]]"
+- "[[G2532]]"
+- "[[G2255]]"
+- "[[G1093]]"
+- "[[G5207]]"
+- "[[H5983]]"
+- "[[G2193]]"
+- "[[H6177]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G2596]]"
+- "[[G4383]]"
+- "[[H7237]]"
+---
+
 **LXX Joshua 13:25** 
 <small><sub>**LXX:**</sub></small>
 And their borders were Jazer, \[and\] all \[the\] cities of Gilead, and half of \[the\] land of \[the\] sons of Ammon, unto Aroer which is against \[the\] face of Rabbah. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1096\|εγένετο]] [[G1473\|αυτών]] [[G3588\|τα]] [[G3725\|όρια]] [[H3270\|Ιαζίρ]] [[G3956\|πάσα]] [[G4172\|πόλεις]] [[H1568\|Γαλαάδ]] [[G2532\|και]] [[G2255\|ήμισυ]] [[G1093\|γης]] [[G5207\|υιών]] [[H5983\|Αμμών]] [[G2193\|έως]] [[H6177\|Αροήρ]] [[G3739\|η]] [[G1510\|εστι]] [[G2596\|κατά]] [[G4383\|πρόσωπον]] [[H7237\|Ραββά]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic AROER|AROER]] • [[topic GAD|GAD]] • [[topic JAAZER|JAAZER]] • [[topic JAZER|JAZER]] • [[topic RABBAH|RABBAH]] • [[topic TOPOGRAPHY|TOPOGRAPHY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Josh.13.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.24|<< Joshua 13:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.26|Joshua 13:26 >>]]</td></tr></table>
 
@@ -27,6 +83,6 @@ And their borders were Jazer, \[and\] all \[the\] cities of Gilead, and half of 
 | against | **<big>[[G2596\|κατά]]</big>** |
 | \[the\] face | **<big>[[G4383\|πρόσωπον]]</big>** |
 | of Rabbah. | **<big>[[H7237\|Ραββά]]</big>** |
-[[Josh.13.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.24|<< Joshua 13:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.26|Joshua 13:26 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.24|<< Joshua 13:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.26|Joshua 13:26 >>]]</td></tr></table>
 
 

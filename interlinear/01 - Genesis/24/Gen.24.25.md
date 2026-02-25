@@ -1,8 +1,59 @@
+---
+title: Genesis 24:25
+type: Verse
+kjv: "She said moreover unto him, We have both straw and provender enough, and room to lodge in."
+bsb: "Then she added, “We have plenty of straw and feed, as well as a place for you to spend the night.”"
+hebrew: "וַתֹּ֣אמֶר אֵלָ֔יו גַּם־ תֶּ֥בֶן גַּם־ מִסְפּ֖וֹא רַ֣ב עִמָּ֑נוּ גַּם־ מָק֖וֹם לָלֽוּן׃"
+pericope: "[[Gen.24.15 Rebekah Is Chosen|Rebekah Is Chosen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H8401]]"
+- "[[H4554]]"
+- "[[H7227A]]"
+- "[[H5973A]]"
+- "[[H9035]]"
+- "[[H4725]]"
+- "[[H9005]]"
+- "[[H3885A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:25**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She said moreover unto him, We have both straw and provender enough, and room to lodge in.
 <small><sub>**BSB:**</sub></small>
 Then she added, “We have plenty of straw and feed, as well as a place for you to spend the night.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H1571\|גַּם]][[H9014\|־]] [[H8401\|תֶּ֥בֶן]] [[H1571\|גַּם]][[H9014\|־]] [[H4554\|מִסְפּ֖וֹא]] [[H7227A\|רַ֣ב]] [[H5973A\|עִמָּ֑]][[H9035\|נוּ]] [[H1571\|גַּם]][[H9014\|־]] [[H4725\|מָק֖וֹם]] [[H9005\|לָ]][[H3885A\|לֽוּן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.24|<< Genesis 24:24]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.26|Genesis 24:26 >>]]</td></tr></table>
 

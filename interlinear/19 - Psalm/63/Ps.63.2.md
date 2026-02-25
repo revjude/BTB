@@ -1,8 +1,59 @@
+---
+title: Psalm 63:2
+type: Verse
+kjv: "To see thy power and thy glory, so as I have seen thee in the sanctuary."
+bsb: "So I have seen You in the sanctuary and beheld Your power and glory."
+hebrew: "כֵּ֭ן בַּקֹּ֣דֶשׁ חֲזִיתִ֑יךָ לִרְא֥וֹת עֻ֝זְּךָ֗ וּכְבוֹדֶֽךָ׃"
+pericope: "[[Ps.63.1 Thirsting for God|Thirsting for God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 63
+book/chapter: "[[Ps.63|Psalm 63]]"
+chronological_order: 318
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GLORY|GLORY]]"
+- "[[topic POWER|POWER]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H3651C]]"
+- "[[H9003]]"
+- "[[H6944G]]"
+- "[[H2372]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H7200G]]"
+- "[[H5797]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3519]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 63:2**<big><big>[[Ps.63.1 Thirsting for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To see thy power and thy glory, so [as] I have seen thee in the sanctuary.
 <small><sub>**BSB:**</sub></small>
 So I have seen You in the sanctuary and beheld Your power and glory.
+<small><sub>**Hebrew:**</sub></small>
+[[H3651C\|כֵּ֭ן]] [[H9003\|בַּ]][[H6944G\|קֹּ֣דֶשׁ]] [[H2372\|חֲזִיתִ֑י]][[H9031\|ךָ]] [[H9005\|לִ]][[H7200G\|רְא֥וֹת]] [[H5797\|עֻ֝זְּ]][[H9021\|ךָ֗]] [[H9002\|וּ]][[H3519\|כְבוֹדֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GLORY|GLORY]] • [[topic POWER|POWER]] • [[topic SEEKERS|SEEKERS]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.63.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.63.1|<< Psalms 63:1]]</td><td align="center" style="border:none;">[[Ps.63|Psalms 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.63.3|Psalms 63:3 >>]]</td></tr></table>
 

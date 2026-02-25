@@ -1,6 +1,76 @@
+---
+title: LXX Joshua 8:11
+type: Verse
+lxx: "And all the people, the warrior, the one with him, ascended. And going, they came right opposite the city from the east. And the ambushes of the city were from the west. And they encamped from north  of Ai. And the valley was between it and  Ai"
+greek: "και πας ο λαός ο πολεμιστής ο μετ΄ αυτού ανέβησαν και πορευόμενοι ήλθον εξεναντίας της πόλεως από ανατολών και τα ένεδρα της πόλεως από θαλάσσης και παρενέβαλον από βορρά της Γαί και η κοιλάς αναμέσον αυτού και της Γαί"
+original_language: Greek
+testament: Old
+book: Joshua
+chapter: 8
+book/chapter: "[[Josh.8|Joshua 8]]"
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMBUSH|AMBUSH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G3588]]"
+- "[[G8841]]"
+- "[[G3588]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G0305]]"
+- "[[G2532]]"
+- "[[G4198]]"
+- "[[G2064]]"
+- "[[G7295]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G0575]]"
+- "[[G0395]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1749]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G0575]]"
+- "[[G2281]]"
+- "[[G2532]]"
+- "[[G6070]]"
+- "[[G0575]]"
+- "[[G1005]]"
+- "[[G3588]]"
+- "[[H5857]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G8038]]"
+- "[[G6271]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[H5857]]"
+---
+
 **LXX Joshua 8:11** 
 <small><sub>**LXX:**</sub></small>
 And all the people, the warrior, the one with him, ascended. And going, they came right opposite the city from \[the\] east. And the ambushes of the city \[were\] from \[the\] west. And they encamped from north  of Ai. And the valley \[was\] between it and  Ai 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3956\|πας]] [[G3588\|ο]] [[G2992\|λαός]] [[G3588\|ο]] [[G8841\|πολεμιστής]] [[G3588\|ο]] [[G3326\|μετ΄]] [[G1473\|αυτού]] [[G0305\|ανέβησαν]] [[G2532\|και]] [[G4198\|πορευόμενοι]] [[G2064\|ήλθον]] [[G7295\|εξεναντίας]] [[G3588\|της]] [[G4172\|πόλεως]] [[G0575\|από]] [[G0395\|ανατολών]] [[G2532\|και]] [[G3588\|τα]] [[G1749\|ένεδρα]] [[G3588\|της]] [[G4172\|πόλεως]] [[G0575\|από]] [[G2281\|θαλάσσης]] [[G2532\|και]] [[G6070\|παρενέβαλον]] [[G0575\|από]] [[G1005\|βορρά]] [[G3588\|της]] [[H5857\|Γαί]] [[G2532\|και]] [[G3588\|η]] [[G8038\|κοιλάς]] [[G6271\|αναμέσον]] [[G1473\|αυτού]] [[G2532\|και]] [[G3588\|της]] [[H5857\|Γαί]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBUSH|AMBUSH]] • [[topic ARMIES|ARMIES]] • [[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Josh.8.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.10|<< Joshua 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.12|Joshua 8:12 >>]]</td></tr></table>
 
@@ -45,6 +115,6 @@ And all the people, the warrior, the one with him, ascended. And going, they cam
 | and | **<big>[[G2532\|και]]</big>** |
 | \<obj.> | **<big>[[G3588\|της]]</big>** |
 | Ai | **<big>[[H5857\|Γαί]]</big>** |
-[[Josh.8.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.10|<< Joshua 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.12|Joshua 8:12 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.10|<< Joshua 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.12|Joshua 8:12 >>]]</td></tr></table>
 
 

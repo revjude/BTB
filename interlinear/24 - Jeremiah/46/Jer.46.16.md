@@ -1,8 +1,70 @@
+---
+title: Jeremiah 46:16
+type: Verse
+kjv: "He made many to fall, yea, one fell upon another: and they said, Arise, and let us go again to our own people, and to the land of our nativity, from the oppressing sword."
+bsb: "They continue to stumble; indeed, they have fallen over one another. They say, ‘Get up! Let us return to our people and to the land of our birth, away from the sword of the oppressor.’"
+hebrew: "הִרְבָּ֖ה כּוֹשֵׁ֑ל גַּם־ נָפַ֞ל אִ֣ישׁ אֶל־ רֵעֵ֗הוּ וַיֹּֽאמְרוּ֙ ק֣וּמָה׀ וְנָשֻׁ֣בָה אֶל־ עַמֵּ֗נוּ וְאֶל־ אֶ֙רֶץ֙ מֽוֹלַדְתֵּ֔נוּ מִפְּנֵ֖י חֶ֥רֶב הַיּוֹנָֽה׃"
+pericope: "[[Jer.46.1 Judgment on Egypt|Judgment on Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 46
+book/chapter: "[[Jer.46|Jeremiah 46]]"
+chronological_order: 769
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic NOPH|NOPH]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H7235A]]"
+- "[[H3782]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H5307G]]"
+- "[[H0376I]]"
+- "[[H0413]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H6965B]]"
+- "[[H9012]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H7725G]]"
+- "[[H5971A]]"
+- "[[H9025]]"
+- "[[H0776G]]"
+- "[[H4138]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H2719]]"
+- "[[H9009]]"
+- "[[H3238]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 46:16**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He made many to fall, yea, one fell upon another: and they said, Arise, and let us go again to our own people, and to the land of our nativity, from the oppressing sword.
 <small><sub>**BSB:**</sub></small>
 They continue to stumble; indeed, they have fallen over one another. They say, ‘Get up! Let us return to our people and to the land of our birth, away from the sword of the oppressor.’
+<small><sub>**Hebrew:**</sub></small>
+[[H7235A\|הִרְבָּ֖ה]] [[H3782\|כּוֹשֵׁ֑ל]] [[H1571\|גַּם]][[H9014\|־]] [[H5307G\|נָפַ֞ל]] [[H0376I\|אִ֣ישׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H7453\|רֵעֵ֗]][[H9023\|הוּ]] [[H9001\|וַ]][[H0559\|יֹּֽאמְרוּ֙]] [[H6965B\|ק֣וּמָ]][[H9012\|ה]][[H9015\|׀]] [[H9002\|וְ]][[H7725G\|נָשֻׁ֣בָה]] [[H0413\|אֶל]][[H9014\|־]] [[H5971A\|עַמֵּ֗]][[H9025\|נוּ]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֙רֶץ֙]] [[H4138\|מֽוֹלַדְתֵּ֔]][[H9025\|נוּ]] [[H9006\|מִ]][[H6440I\|פְּנֵ֖י]] [[H2719\|חֶ֥רֶב]] [[H9009\|הַ]][[H3238\|יּוֹנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic NOPH|NOPH]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.15|<< Jeremiah 46:15]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.17|Jeremiah 46:17 >>]]</td></tr></table>
 

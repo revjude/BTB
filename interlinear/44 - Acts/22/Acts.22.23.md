@@ -1,10 +1,54 @@
+---
+title: Acts 22:23
+type: Verse
+kjv: "And as they cried out, and cast off their clothes, and threw dust into the air,"
+bsb: "As they were shouting and throwing off their cloaks and tossing dust into the air,"
+greek: "κραυγαζόντων τε αὐτῶν καὶ ῥιπτούντων τὰ ἱμάτια καὶ κονιορτὸν βαλλόντων εἰς τὸν ἀέρα"
+pericope: "[[Acts.22.22 Paul the Roman Citizen|Paul the Roman Citizen]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 22
+book/chapter: "[[Acts.22|Acts 22]]"
+chronological_order: 1104
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G2905]]"
+- "[[G5037]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G4496]]"
+- "[[G3588]]"
+- "[[G2440]]"
+- "[[G2868]]"
+- "[[G0906G]]"
+- "[[G1519]]"
+- "[[G0109]]"
+texts:
+- NK(o)
+- N(k)O
+- NKO
+---
+
 **Acts 22:23**<big><big>[[Acts.22.22 Paul the Roman Citizen|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as they cried out, and cast off [their] clothes, and threw dust into the air,
 <small><sub>**BSB:**</sub></small>
 As they were shouting and throwing off their cloaks and tossing dust into the air,
-<small><sub>**Literal:**</sub></small>
-While shouting out then they and casting off the garments and dust throwing into the air<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.22|<< Acts 22:22]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.24|Acts 22:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2905\|κραυγαζόντων]]  [[G5037\|τε]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G4496\|ῥιπτούντων]]  [[G3588\|τὰ]]  [[G2440\|ἱμάτια]]  [[G2532\|καὶ]]  [[G2868\|κονιορτὸν]]  [[G0906G\|βαλλόντων]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G0109\|ἀέρα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.22|<< Acts 22:22]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.24|Acts 22:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

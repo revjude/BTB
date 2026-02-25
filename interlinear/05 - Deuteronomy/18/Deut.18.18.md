@@ -1,8 +1,75 @@
+---
+title: Deuteronomy 18:18
+type: Verse
+kjv: "I will raise them up a Prophet from among their brethren, like unto thee, and will put my words in his mouth; and he shall speak unto them all that I shall command him."
+bsb: "I will raise up for them a prophet like you from among their brothers. I will put My words in his mouth, and he will tell them everything I command him."
+hebrew: "נָבִ֨יא אָקִ֥ים לָהֶ֛ם מִקֶּ֥רֶב אֲחֵיהֶ֖ם כָּמ֑וֹךָ וְנָתַתִּ֤י דְבָרַי֙ בְּפִ֔יו וְדִבֶּ֣ר אֲלֵיהֶ֔ם אֵ֖ת כָּל־ אֲשֶׁ֥ר אֲצַוֶּֽנּוּ׃"
+pericope: "[[Deut.18.15 A Prophet Like Moses|A Prophet Like Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 18
+book/chapter: "[[Deut.18|Deuteronomy 18]]"
+chronological_order: 214
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[H5030]]"
+- "[[H6965I]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H7130G]]"
+- "[[H0251I]]"
+- "[[H9028]]"
+- "[[H3644G]]"
+- "[[H9031]]"
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H1697G]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H9023]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 18:18**<big><big>[[Deut.18.15 A Prophet Like Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will raise them up a Prophet from among their brethren, like unto thee, and will put my words in his mouth; and he shall speak unto them all that I shall command him.
 <small><sub>**BSB:**</sub></small>
 I will raise up for them a prophet like you from among their brothers. I will put My words in his mouth, and he will tell them everything I command him.
+<small><sub>**Hebrew:**</sub></small>
+[[H5030\|נָבִ֨יא]] [[H6965I\|אָקִ֥ים]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H9006\|מִ]][[H7130G\|קֶּ֥רֶב]] [[H0251I\|אֲחֵי]][[H9028\|הֶ֖ם]] [[H3644G\|כָּמ֑וֹ]][[H9031\|ךָ]] [[H9001\|וְ]][[H5414H\|נָתַתִּ֤י]] [[H1697G\|דְבָרַ]][[H9020\|י֙]] [[H9003\|בְּ]][[H6310G\|פִ֔י]][[H9023\|ו]] [[H9001\|וְ]][[H1696G\|דִבֶּ֣ר]] [[H0413\|אֲלֵי]][[H9038\|הֶ֔ם]] [[H0853\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H6680\|אֲצַוֶּֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOSES|MOSES]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic TYPES|TYPES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.18.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.18.17|<< Deuteronomy 18:17]]</td><td align="center" style="border:none;">[[Deut.18|Deuteronomy 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.18.19|Deuteronomy 18:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

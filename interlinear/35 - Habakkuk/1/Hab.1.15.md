@@ -1,8 +1,61 @@
+---
+title: Habakkuk 1:15
+type: Verse
+kjv: "They take up all of them with the angle, they catch them in their net, and gather them in their drag: therefore they rejoice and are glad."
+bsb: "The foe pulls all of them up with a hook; he catches them in his dragnet, and gathers them in his fishing net; so he rejoices gladly."
+hebrew: "כֻּלֹּה֙ בְּחַכָּ֣ה הֵֽעֲלָ֔ה יְגֹרֵ֣הוּ בְחֶרְמ֔וֹ וְיַאַסְפֵ֖הוּ בְּמִכְמַרְתּ֑וֹ עַל־ כֵּ֖ן יִשְׂמַ֥ח וְיָגִֽיל׃"
+pericope: "[[Hab.1.12 Habakkuk’s Second Complaint|Habakkuk’s Second Complaint]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 1
+book/chapter: "[[Hab.1|Habakkuk 1]]"
+chronological_order: 738
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3605]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H2443]]"
+- "[[H5927H]]"
+- "[[H1641]]"
+- "[[H9033]]"
+- "[[H2764B]]"
+- "[[H9002]]"
+- "[[H0622]]"
+- "[[H4365A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H8055]]"
+- "[[H1523]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 1:15**<big><big>[[Hab.1.12 Habakkuk’s Second Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They take up all of them with the angle, they catch them in their net, and gather them in their drag: therefore they rejoice and are glad.
 <small><sub>**BSB:**</sub></small>
 The foe pulls all of them up with a hook; he catches them in his dragnet, and gathers them in his fishing net; so he rejoices gladly.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כֻּלֹּ]][[H9023\|ה֙]] [[H9003\|בְּ]][[H2443\|חַכָּ֣ה]] [[H5927H\|הֵֽעֲלָ֔ה]] [[H1641\|יְגֹרֵ֣]][[H9033\|הוּ]] [[H9003\|בְ]][[H2764B\|חֶרְמ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H0622\|יַאַסְפֵ֖]][[H9033\|הוּ]] [[H9003\|בְּ]][[H4365A\|מִכְמַרְתּ֑]][[H9023\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֖ן]] [[H8055\|יִשְׂמַ֥ח]] [[H9002\|וְ]][[H1523\|יָגִֽיל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic HAPPINESS|HAPPINESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.14|<< Habakkuk 1:14]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.16|Habakkuk 1:16 >>]]</td></tr></table>
 

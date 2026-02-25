@@ -1,6 +1,58 @@
+---
+title: LXX Proverbs 28:10
+type: Verse
+lxx: "The one who wanders upright men in an evil way, fall himself into corruption; and the lawless ones shall go through good things, and they shall not enter to them."
+greek: "ος πλανά ευθείς εν οδώ κακή εις διαφθοράν αυτός εμπεσείται οι δε άνομοι διελεύσονται αγαθά και ουκ εισελεύσονται εις αυτά"
+original_language: Greek
+testament: Old
+book: Proverbs
+chapter: 28
+book/chapter: "[[Prov.28|Proverbs 28]]"
+chronological_order: 483
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PIT|PIT]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G3739]]"
+- "[[G4105]]"
+- "[[G2117]]"
+- "[[G1722]]"
+- "[[G3598]]"
+- "[[G2556]]"
+- "[[G1519]]"
+- "[[G1312]]"
+- "[[G1473]]"
+- "[[G1706]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0459]]"
+- "[[G1330]]"
+- "[[G0018]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G1473]]"
+---
+
 **LXX Proverbs 28:10** 
 <small><sub>**LXX:**</sub></small>
 The one who wanders upright men in an evil way, fall himself into corruption; and the lawless ones shall go through good \[things\], and they shall not enter to them. 
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ος]] [[G4105\|πλανά]] [[G2117\|ευθείς]] [[G1722\|εν]] [[G3598\|οδώ]] [[G2556\|κακή]] [[G1519\|εις]] [[G1312\|διαφθοράν]] [[G1473\|αυτός]] [[G1706\|εμπεσείται]] [[G3588\|οι]] [[G1161\|δε]] [[G0459\|άνομοι]] [[G1330\|διελεύσονται]] [[G0018\|αγαθά]] [[G2532\|και]] [[G3756\|ουκ]] [[G1525\|εισελεύσονται]] [[G1519\|εις]] [[G1473\|αυτά]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MALICE|MALICE]] • [[topic PIT|PIT]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**MT:**</sub></small>
 [[Prov.28.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.9|<< Proverbs 28:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.11|Proverbs 28:11 >>]]</td></tr></table>
 
@@ -25,6 +77,6 @@ The one who wanders upright men in an evil way, fall himself into corruption; an
 | enter | **<big>[[G1525\|εισελεύσονται]]</big>** |
 | to | **<big>[[G1519\|εις]]</big>** |
 | them. | **<big>[[G1473\|αυτά]]</big>** |
-[[Prov.28.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.9|<< Proverbs 28:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.11|Proverbs 28:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.9|<< Proverbs 28:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.11|Proverbs 28:11 >>]]</td></tr></table>
 
 

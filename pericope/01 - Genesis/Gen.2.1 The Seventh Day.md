@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Seventh Day
+type: Pericope
 pericope: "[[Gen.2.1 The Seventh Day|The Seventh Day]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 2
 book/chapter: "[[Gen.2|Genesis 2]]"
-genre:
+chronological_order: 2
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,13 +24,14 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 3
 verses:
 - "[[Gen.2.1]]"
 - "[[Gen.2.2]]"
 - "[[Gen.2.3]]"
 ---
 
-[[Gen.2|Genesis 2:1 - Genesis 2:3]]
+<small>[[Gen.2|Genesis 2:1-3]]</small>
 *The Seventh Day*
 
 [[Gen.2.1|1]] Thus the heavens and the earth were finished, and all the host of them.

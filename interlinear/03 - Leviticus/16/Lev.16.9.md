@@ -1,8 +1,66 @@
+---
+title: Leviticus 16:9
+type: Verse
+kjv: "And Aaron shall bring the goat upon which the LORD’S lot fell, and offer him for a sin offering."
+bsb: "he shall present the goat chosen by lot for the LORD and sacrifice it as a sin offering."
+hebrew: "וְהִקְרִ֤יב אַהֲרֹן֙ אֶת־ הַשָּׂעִ֔יר אֲשֶׁ֨ר עָלָ֥ה עָלָ֛יו הַגּוֹרָ֖ל לַיהוָ֑ה וְעָשָׂ֖הוּ חַטָּֽאת׃"
+pericope: "[[Lev.16.1 The Day of Atonement|The Day of Atonement]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 16
+book/chapter: "[[Lev.16|Leviticus 16]]"
+chronological_order: 148
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic LOT, THE|LOT, THE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SCAPEGOAT|SCAPEGOAT]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H0175]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8163B]]"
+- "[[H0834A]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H1486]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H6213A]]"
+- "[[H2403H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 16:9**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Aaron shall bring the goat upon which the LORD’S lot fell, and offer him [for] a sin offering.
 <small><sub>**BSB:**</sub></small>
 he shall present the goat chosen by lot for the LORD and sacrifice it as a sin offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7126H\|הִקְרִ֤יב]] [[H0175\|אַהֲרֹן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8163B\|שָּׂעִ֔יר]] [[H0834A\|אֲשֶׁ֨ר]] [[H5927G\|עָלָ֥ה]] [[H5921A\|עָלָ֛י]][[H9033\|ו]] [[H9009\|הַ]][[H1486\|גּוֹרָ֖ל]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H9001\|וְ]][[H6213A\|עָשָׂ֖]][[H9033\|הוּ]] [[H2403H\|חַטָּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CHURCH|CHURCH]] • [[topic LOT, THE|LOT, THE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SCAPEGOAT|SCAPEGOAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.8|<< Leviticus 16:8]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.10|Leviticus 16:10 >>]]</td></tr></table>
 

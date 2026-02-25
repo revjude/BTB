@@ -1,8 +1,60 @@
+---
+title: Exodus 12:38
+type: Verse
+kjv: "And a mixed multitude went up also with them; and flocks, and herds, even very much cattle."
+bsb: "And a mixed multitude also went up with them, along with great droves of livestock, both flocks and herds."
+hebrew: "וְגַם־ עֵ֥רֶב רַ֖ב עָלָ֣ה אִתָּ֑ם וְצֹ֣אן וּבָקָ֔ר מִקְנֶ֖ה כָּבֵ֥ד מְאֹֽד׃"
+pericope: "[[Exod.12.31 The Exodus Begins|The Exodus Begins]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 12
+book/chapter: "[[Exod.12|Exodus 12]]"
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H6154M]]"
+- "[[H7227A]]"
+- "[[H5927G]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H6629G]]"
+- "[[H1241]]"
+- "[[H4735]]"
+- "[[H3515]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 12:38**<big><big>[[Exod.12.31 The Exodus Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a mixed multitude went up also with them; and flocks, and herds, [even] very much cattle.
 <small><sub>**BSB:**</sub></small>
 And a mixed multitude also went up with them, along with great droves of livestock, both flocks and herds.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H6154M\|עֵ֥רֶב]] [[H7227A\|רַ֖ב]] [[H5927G\|עָלָ֣ה]] [[H0854\|אִתָּ֑]][[H9038\|ם]] [[H9002\|וְ]][[H6629G\|צֹ֣אן]] [[H9002\|וּ]][[H1241\|בָקָ֔ר]] [[H4735\|מִקְנֶ֖ה]] [[H3515\|כָּבֵ֥ד]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.37|<< Exodus 12:37]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.39|Exodus 12:39 >>]]</td></tr></table>
 

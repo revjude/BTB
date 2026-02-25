@@ -1,8 +1,71 @@
+---
+title: Ezekiel 17:3
+type: Verse
+kjv: "And say, Thus saith the Lord GOD; A great eagle with great wings, longwinged, full of feathers, which had divers colours, came unto Lebanon, and took the highest branch of the cedar:"
+bsb: "and tell them that this is what the Lord GOD says: ‘A great eagle with great wings and long pinions, full of feathers of many colors, came to Lebanon and took away the top of the cedar."
+hebrew: "וְאָמַרְתָּ֞ כֹּה־ אָמַ֣ר׀ אֲדֹנָ֣י יְהוִ֗ה הַנֶּ֤שֶׁר הַגָּדוֹל֙ גְּד֤וֹל הַכְּנָפַ֙יִם֙ אֶ֣רֶךְ הָאֵ֔בֶר מָלֵא֙ הַנּוֹצָ֔ה אֲשֶׁר־ ל֖וֹ הָֽרִקְמָ֑ה בָּ֚א אֶל־ הַלְּבָנ֔וֹן וַיִּקַּ֖ח אֶת־ צַמֶּ֥רֶת הָאָֽרֶז׃"
+pericope: "[[Ezek.17.1 The Parable of Two Eagles and a Vine|The Parable of Two Eagles and a Vine]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 17
+book/chapter: "[[Ezek.17|Ezekiel 17]]"
+chronological_order: 808
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EAGLE|EAGLE]]"
+- "[[topic EZEKIEL|EZEKIEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H9015]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9009]]"
+- "[[H5404]]"
+- "[[H1419A]]"
+- "[[H3671]]"
+- "[[H0750]]"
+- "[[H0083]]"
+- "[[H4392]]"
+- "[[H5133]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H7553]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H3844G]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H6788]]"
+- "[[H0730]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 17:3**<big><big>[[Ezek.17.1 The Parable of Two Eagles and a Vine|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say, Thus saith the Lord GOD; A great eagle with great wings, longwinged, full of feathers, which had divers colours, came unto Lebanon, and took the highest branch of the cedar:
 <small><sub>**BSB:**</sub></small>
 and tell them that this is what the Lord GOD says: ‘A great eagle with great wings and long pinions, full of feathers of many colors, came to Lebanon and took away the top of the cedar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַרְתָּ֞]] [[H3541\|כֹּה]][[H9014\|־]] [[H0559\|אָמַ֣ר]][[H9015\|׀]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֗ה]] [[H9009\|הַ]][[H5404\|נֶּ֤שֶׁר]] [[H9009\|הַ]][[H1419A\|גָּדוֹל֙]] [[H1419A\|גְּד֤וֹל]] [[H9009\|הַ]][[H3671\|כְּנָפַ֙יִם֙]] [[H0750\|אֶ֣רֶךְ]] [[H9009\|הָ]][[H0083\|אֵ֔בֶר]] [[H4392\|מָלֵא֙]] [[H9009\|הַ]][[H5133\|נּוֹצָ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9009\|הָֽ]][[H7553\|רִקְמָ֑ה]] [[H0935G\|בָּ֚א]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3844G\|לְּבָנ֔וֹן]] [[H9001\|וַ]][[H3947G\|יִּקַּ֖ח]] [[H0853\|אֶת]][[H9014\|־]] [[H6788\|צַמֶּ֥רֶת]] [[H9009\|הָ]][[H0730\|אָֽרֶז]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EAGLE|EAGLE]] • [[topic EZEKIEL|EZEKIEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.17.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.2|<< Ezekiel 17:2]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.4|Ezekiel 17:4 >>]]</td></tr></table>
 

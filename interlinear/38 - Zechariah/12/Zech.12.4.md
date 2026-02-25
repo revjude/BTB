@@ -1,8 +1,68 @@
+---
+title: Zechariah 12:4
+type: Verse
+kjv: "In that day, saith the LORD, I will smite every horse with astonishment, and his rider with madness: and I will open mine eyes upon the house of Judah, and will smite every horse of the people with blindness."
+bsb: "On that day, declares the LORD, I will strike every horse with panic, and every rider with madness. I will keep a watchful eye on the house of Judah, but I will strike with blindness all the horses of the nations."
+hebrew: "בַּיּ֨וֹם הַה֜וּא נְאֻם־ יְהוָ֗ה אַכֶּ֤ה כָל־ סוּס֙ בַּתִּמָּה֔וֹן וְרֹכְב֖וֹ בַּשִּׁגָּע֑וֹן וְעַל־ בֵּ֤ית יְהוּדָה֙ אֶפְקַ֣ח אֶת־ עֵינַ֔י וְכֹל֙ ס֣וּס הָֽעַמִּ֔ים אַכֶּ֖ה בַּֽעִוָּרֽוֹן׃"
+pericope: "[[Zech.12.1 The Coming Deliverance of Jerusalem|The Coming Deliverance of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 12
+book/chapter: "[[Zech.12|Zechariah 12]]"
+chronological_order: 868
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic INSANITY|INSANITY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H5221]]"
+- "[[H3605]]"
+- "[[H5483M]]"
+- "[[H8541]]"
+- "[[H9002]]"
+- "[[H7392]]"
+- "[[H9023]]"
+- "[[H7697]]"
+- "[[H5921A]]"
+- "[[H1004M]]"
+- "[[H3063G]]"
+- "[[H6491]]"
+- "[[H0853]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H5971A]]"
+- "[[H5788A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 12:4**<big><big>[[Zech.12.1 The Coming Deliverance of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that day, saith the LORD, I will smite every horse with astonishment, and his rider with madness: and I will open mine eyes upon the house of Judah, and will smite every horse of the people with blindness.
 <small><sub>**BSB:**</sub></small>
 On that day, declares the LORD, I will strike every horse with panic, and every rider with madness. I will keep a watchful eye on the house of Judah, but I will strike with blindness all the horses of the nations.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּ֨וֹם]] [[H9009\|הַ]][[H1931\|ה֜וּא]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H5221\|אַכֶּ֤ה]] [[H3605\|כָל]][[H9014\|־]] [[H5483M\|סוּס֙]] [[H9003\|בַּ]][[H8541\|תִּמָּה֔וֹן]] [[H9002\|וְ]][[H7392\|רֹכְב֖]][[H9023\|וֹ]] [[H9003\|בַּ]][[H7697\|שִּׁגָּע֑וֹן]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H1004M\|בֵּ֤ית]] [[H3063G\|יְהוּדָה֙]] [[H6491\|אֶפְקַ֣ח]] [[H0853\|אֶת]][[H9014\|־]] [[H5869A\|עֵינַ֔]][[H9020\|י]] [[H9002\|וְ]][[H3605\|כֹל֙]] [[H5483M\|ס֣וּס]] [[H9009\|הָֽ]][[H5971A\|עַמִּ֔ים]] [[H5221\|אַכֶּ֖ה]] [[H9003\|בַּֽ]][[H5788A\|עִוָּרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSANITY|INSANITY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.12.3|<< Zechariah 12:3]]</td><td align="center" style="border:none;">[[Zech.12|Zechariah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.12.5|Zechariah 12:5 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: 2 Kings 23:22
+type: Verse
+kjv: "Surely there was not holden such a passover from the days of the judges that judged Israel, nor in all the days of the kings of Israel, nor of the kings of Judah;"
+bsb: "No such Passover had been observed from the days of the judges who had governed Israel through all the days of the kings of Israel and Judah."
+hebrew: "כִּ֣י לֹ֤א נַֽעֲשָׂה֙ כַּפֶּ֣סַח הַזֶּ֔ה מִימֵי֙ הַשֹּׁ֣פְטִ֔ים אֲשֶׁ֥ר שָׁפְט֖וּ אֶת־ יִשְׂרָאֵ֑ל וְכֹ֗ל יְמֵ֛י מַלְכֵ֥י יִשְׂרָאֵ֖ל וּמַלְכֵ֥י יְהוּדָֽה׃"
+pericope: "[[2Kgs.23.21 Josiah Restores the Passover|Josiah Restores the Passover]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 23
+book/chapter: "[[2Kgs.23|2 Kings 23]]"
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H6453]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H9006]]"
+- "[[H3117G]]"
+- "[[H8199]]"
+- "[[H0834A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 23:22**<big><big>[[2Kgs.23.21 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely there was not holden such a passover from the days of the judges that judged Israel, nor in all the days of the kings of Israel, nor of the kings of Judah;
 <small><sub>**BSB:**</sub></small>
 No such Passover had been observed from the days of the judges who had governed Israel through all the days of the kings of Israel and Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3808\|לֹ֤א]] [[H6213A\|נַֽעֲשָׂה֙]] [[H9004\|כַּ]][[H6453\|פֶּ֣סַח]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9006\|מִ]][[H3117G\|ימֵי֙]] [[H9009\|הַ]][[H8199\|שֹּׁ֣פְטִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H8199\|שָׁפְט֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וְ]][[H3605\|כֹ֗ל]] [[H3117G\|יְמֵ֛י]] [[H4428G\|מַלְכֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9002\|וּ]][[H4428G\|מַלְכֵ֥י]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOSIAH|JOSIAH]] • [[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.21|<< 2 Kings 23:21]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.23|2 Kings 23:23 >>]]</td></tr></table>
 

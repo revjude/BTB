@@ -1,10 +1,57 @@
+---
+title: Luke 13:12
+type: Verse
+kjv: "And when Jesus saw her, he called her to him, and said unto her, Woman, thou art loosed from thine infirmity."
+bsb: "When Jesus saw her, He called her over and said, “Woman, you are set free from your disability.”"
+jesus_said: "Woman, thou art loosed from thine infirmity."
+greek: "ἰδὼν δὲ αὐτὴν ὁ Ἰησοῦς προσεφώνησεν καὶ εἶπεν αὐτῇ· γύναι, ἀπολέλυσαι τῆς ἀσθενείας σου."
+pericope: "[[Luke.13.10 Jesus Heals a Disabled Woman|Jesus Heals a Disabled Woman]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 13
+book/chapter: "[[Luke.13|Luke 13]]"
+chronological_order: 975
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+strongs:
+- "[[G1492H]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G4377]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1135G]]"
+- "[[G0630G]]"
+- "[[G0769H]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **Luke 13:12**<big><big>[[Luke.13.10 Jesus Heals a Disabled Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when Jesus saw her, he called [her to him], and said unto her, Woman, thou art loosed from thine infirmity.
 <small><sub>**BSB:**</sub></small>
 When Jesus saw her, He called her over and said, “Woman, you are set free from your disability.”
-<small><sub>**Literal:**</sub></small>
-Having seen then her <the> Jesus called [her] near and He said to her; Woman, you have been freed from the sickness of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.11|<< Luke 13:11]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.13|Luke 13:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1492H\|ἰδὼν]]  [[G1161\|δὲ]]  [[G0846\|αὐτὴν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G4377\|προσεφώνησεν]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῇ·]]  [[G1135G\|γύναι,]]  [[G0630G\|ἀπολέλυσαι]]  [[G3588\|τῆς]]  [[G0769H\|ἀσθενείας]]  [[G4771\|σου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]] • [[topic SYNAGOGUE|SYNAGOGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.11|<< Luke 13:11]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.13|Luke 13:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

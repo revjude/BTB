@@ -1,10 +1,62 @@
+---
+title: Acts 5:19
+type: Verse
+kjv: "But the angel of the Lord by night opened the prison doors, and brought them forth, and said,"
+bsb: "But during the night an angel of the Lord opened the doors of the jail and brought them out, saying,"
+greek: "Ἄγγελος δὲ κυρίου διὰ τῆς νυκτὸς ἀνοίξας τὰς θύρας τῆς φυλακῆς, ἐξαγαγών τε αὐτοὺς εἶπεν·"
+pericope: "[[Acts.5.17 The Apostles Arrested and Freed|The Apostles Arrested and Freed]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 5
+book/chapter: "[[Acts.5|Acts 5]]"
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic COURT|COURT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+strongs:
+- "[[G0032G]]"
+- "[[G1161]]"
+- "[[G2962G]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G3571]]"
+- "[[G0455]]"
+- "[[G2374]]"
+- "[[G5438G]]"
+- "[[G1806]]"
+- "[[G5037]]"
+- "[[G0846]]"
+- "[[G2036]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Acts 5:19**<big><big>[[Acts.5.17 The Apostles Arrested and Freed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the angel of the Lord by night opened the prison doors, and brought them forth, and said,
 <small><sub>**BSB:**</sub></small>
 But during the night an angel of the Lord opened the doors of the jail and brought them out, saying,
-<small><sub>**Literal:**</sub></small>
-An angel however of [the] Lord during the night having opened the doors of the prison, having brought out then them said;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.18|<< Acts 5:18]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.20|Acts 5:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0032G\|Ἄγγελος]]  [[G1161\|δὲ]]  [[G2962G\|κυρίου]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G3571\|νυκτὸς]]  [[G0455\|ἀνοίξας]]  [[G3588\|τὰς]]  [[G2374\|θύρας]]  [[G3588\|τῆς]]  [[G5438G\|φυλακῆς,]]  [[G1806\|ἐξαγαγών]]  [[G5037\|τε]]  [[G0846\|αὐτοὺς]]  [[G2036\|εἶπεν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic COURT|COURT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic SADDUCEES|SADDUCEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.18|<< Acts 5:18]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.20|Acts 5:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

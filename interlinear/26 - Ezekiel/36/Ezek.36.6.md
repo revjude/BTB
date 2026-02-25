@@ -1,8 +1,74 @@
+---
+title: Ezekiel 36:6
+type: Verse
+kjv: "Prophesy therefore concerning the land of Israel, and say unto the mountains, and to the hills, to the rivers, and to the valleys, Thus saith the Lord GOD; Behold, I have spoken in my jealousy and in my fury, because ye have borne the shame of the heathen:"
+bsb: "Therefore, prophesy concerning the land of Israel and tell the mountains and hills, the ravines and valleys, that this is what the Lord GOD says: Behold, I have spoken in My burning zeal because you have endured the reproach of the nations."
+hebrew: "לָכֵ֕ן הִנָּבֵ֖א עַל־ אַדְמַ֣ת יִשְׂרָאֵ֑ל וְאָמַרְתָּ֡ לֶהָרִ֣ים וְ֠לַגְּבָעוֹת לָאֲפִיקִ֨ים וְלַגֵּאָי֜וֹת כֹּֽה־ אָמַ֣ר׀ אֲדֹנָ֣י יְהוִ֗ה הִנְנִ֨י בְקִנְאָתִ֤י וּבַחֲמָתִי֙ דִּבַּ֔רְתִּי יַ֛עַן כְּלִמַּ֥ת גּוֹיִ֖ם נְשָׂאתֶֽם׃"
+pericope: "[[Ezek.36.1 A Prophecy to the Mountains of Israel|A Prophecy to the Mountains of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 36
+book/chapter: "[[Ezek.36|Ezekiel 36]]"
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H5012]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0127G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2022G]]"
+- "[[H9002]]"
+- "[[H1389I]]"
+- "[[H0650]]"
+- "[[H1516R]]"
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H9003]]"
+- "[[H7068]]"
+- "[[H9020]]"
+- "[[H2534]]"
+- "[[H1696G]]"
+- "[[H3282]]"
+- "[[H3639]]"
+- "[[H1471A]]"
+- "[[H5375H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 36:6**<big><big>[[Ezek.36.1 A Prophecy to the Mountains of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Prophesy therefore concerning the land of Israel, and say unto the mountains, and to the hills, to the rivers, and to the valleys, Thus saith the Lord GOD; Behold, I have spoken in my jealousy and in my fury, because ye have borne the shame of the heathen:
 <small><sub>**BSB:**</sub></small>
 Therefore, prophesy concerning the land of Israel and tell the mountains and hills, the ravines and valleys, that this is what the Lord GOD says: Behold, I have spoken in My burning zeal because you have endured the reproach of the nations.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֕ן]] [[H5012\|הִנָּבֵ֖א]] [[H5921A\|עַל]][[H9014\|־]] [[H0127G\|אַדְמַ֣ת]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֡]] [[H9005\|לֶ]][[H2022G\|הָרִ֣ים]] [[H9002\|וְ֠]][[H9005\|לַ]][[H1389I\|גְּבָעוֹת]] [[H9005\|לָ]][[H0650\|אֲפִיקִ֨ים]] [[H9002\|וְ]][[H9005\|לַ]][[H1516R\|גֵּאָי֜וֹת]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֣ר]][[H9015\|׀]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֗ה]] [[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H9003\|בְ]][[H7068\|קִנְאָתִ֤]][[H9020\|י]] [[H9002\|וּ]][[H9003\|בַ]][[H2534\|חֲמָתִ]][[H9020\|י֙]] [[H1696G\|דִּבַּ֔רְתִּי]] [[H3282\|יַ֛עַן]] [[H3639\|כְּלִמַּ֥ת]] [[H1471A\|גּוֹיִ֖ם]] [[H5375H\|נְשָׂאתֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEALOUSY|JEALOUSY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.5|<< Ezekiel 36:5]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.7|Ezekiel 36:7 >>]]</td></tr></table>
 

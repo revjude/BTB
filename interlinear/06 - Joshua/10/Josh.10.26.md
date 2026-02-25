@@ -1,8 +1,67 @@
+---
+title: Joshua 10:26
+type: Verse
+kjv: "And afterward Joshua smote them, and slew them, and hanged them on five trees: and they were hanging upon the trees until the evening."
+bsb: "After this, Joshua struck down and killed the kings, and he hung their bodies on five trees and left them there until evening."
+hebrew: "וַיַּכֵּ֨ם יְהוֹשֻׁ֤עַ אַֽחֲרֵי־ כֵן֙ וַיְמִיתֵ֔ם וַיִּתְלֵ֕ם עַ֖ל חֲמִשָּׁ֣ה עֵצִ֑ים וַיִּֽהְי֛וּ תְּלוּיִ֥ם עַל־ הָעֵצִ֖ים עַד־ הָעָֽרֶב׃"
+pericope: "[[Josh.10.16 The Victory at Makkedah|The Victory at Makkedah]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 10
+book/chapter: "[[Josh.10|Joshua 10]]"
+chronological_order: 240
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ADONI-ZEDEK|ADONI-ZEDEK]]"
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic CAVE|CAVE]]"
+- "[[topic DEBIR|DEBIR]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MAKKEDAH|MAKKEDAH]]"
+- "[[topic PIRAM|PIRAM]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H9038]]"
+- "[[H3091G]]"
+- "[[H0310A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H4191]]"
+- "[[H8518]]"
+- "[[H5921A]]"
+- "[[H2568]]"
+- "[[H6086H]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H5704]]"
+- "[[H6153]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 10:26**<big><big>[[Josh.10.16 The Victory at Makkedah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And afterward Joshua smote them, and slew them, and hanged them on five trees: and they were hanging upon the trees until the evening.
 <small><sub>**BSB:**</sub></small>
 After this, Joshua struck down and killed the kings, and he hung their bodies on five trees and left them there until evening.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5221\|יַּכֵּ֨]][[H9038\|ם]] [[H3091G\|יְהוֹשֻׁ֤עַ]] [[H0310A\|אַֽחֲרֵי]][[H9014\|־]] [[H3651C\|כֵן֙]] [[H9001\|וַ]][[H4191\|יְמִיתֵ֔]][[H9038\|ם]] [[H9001\|וַ]][[H8518\|יִּתְלֵ֕]][[H9038\|ם]] [[H5921A\|עַ֖ל]] [[H2568\|חֲמִשָּׁ֣ה]] [[H6086H\|עֵצִ֑ים]] [[H9001\|וַ]][[H1961\|יִּֽהְי֛וּ]] [[H8518\|תְּלוּיִ֥ם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H6086H\|עֵצִ֖ים]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הָ]][[H6153\|עָֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADONI-ZEDEK|ADONI-ZEDEK]] • [[topic AMORITES|AMORITES]] • [[topic CAPTIVE|CAPTIVE]] • [[topic CAVE|CAVE]] • [[topic DEBIR|DEBIR]] • [[topic HEBRON|HEBRON]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MAKKEDAH|MAKKEDAH]] • [[topic PIRAM|PIRAM]] • [[topic PRISONERS|PRISONERS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.25|<< Joshua 10:25]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.27|Joshua 10:27 >>]]</td></tr></table>
 

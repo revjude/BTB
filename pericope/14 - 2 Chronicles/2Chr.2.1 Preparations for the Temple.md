@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Preparations for the Temple
+type: Pericope
 pericope: "[[2Chr.2.1 Preparations for the Temple|Preparations for the Temple]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 2
 book/chapter: "[[2Chr.2|2 Chronicles 2]]"
-genre:
+chronological_order: 491
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 10
 verses:
 - "[[2Chr.2.1]]"
 - "[[2Chr.2.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[2Chr.2.10]]"
 ---
 
-[[2Chr.2|2 Chronicles 2:1 - 2 Chronicles 2:10]]
+<small>[[2Chr.2|2 Chronicles 2:1-10]]</small>
 *Preparations for the Temple*
 
 [[2Chr.2.1|1]] And Solomon determined to build an house for the name of the LORD, and an house for his kingdom.

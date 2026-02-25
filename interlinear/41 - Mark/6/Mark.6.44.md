@@ -1,10 +1,49 @@
+---
+title: Mark 6:44
+type: Verse
+kjv: "And they that did eat of the loaves were about five thousand men."
+bsb: "And there were five thousand men who had eaten the loaves."
+greek: "καὶ ἦσαν οἱ φαγόντες τοὺς ἄρτους ὡσεὶ πεντακισχίλιοι ἄνδρες.¶"
+pericope: "[[Mark.6.30 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G5315]]"
+- "[[G0740]]"
+- "[[G5616]]"
+- "[[G4000]]"
+- "[[G0435G]]"
+texts:
+- NKO
+- K
+---
+
 **Mark 6:44**<big><big>[[Mark.6.30 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they that did eat of the loaves were about five thousand men.
 <small><sub>**BSB:**</sub></small>
 And there were five thousand men who had eaten the loaves.
-<small><sub>**Literal:**</sub></small>
-And were those having eaten of the loaves about five thousand men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.43|<< Mark 6:43]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.45|Mark 6:45 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1510\|ἦσαν]]  [[G3588\|οἱ]]  [[G5315\|φαγόντες]]  [[G3588\|τοὺς]]  [[G0740\|ἄρτους]]  [[G5616\|ὡσεὶ]]  [[G4000\|πεντακισχίλιοι]]  [[G0435G\|ἄνδρες.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.43|<< Mark 6:43]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.45|Mark 6:45 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

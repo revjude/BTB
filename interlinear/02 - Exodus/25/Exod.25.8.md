@@ -1,8 +1,59 @@
+---
+title: Exodus 25:8
+type: Verse
+kjv: "And let them make me a sanctuary; that I may dwell among them."
+bsb: "And they are to make a sanctuary for Me, so that I may dwell among them."
+hebrew: "וְעָ֥שׂוּ לִ֖י מִקְדָּ֑שׁ וְשָׁכַנְתִּ֖י בְּתוֹכָֽם׃"
+pericope: "[[Exod.25.1 Offerings for the Tabernacle|Offerings for the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 25
+book/chapter: "[[Exod.25|Exodus 25]]"
+chronological_order: 117
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SANCTUARY|SANCTUARY]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H4720]]"
+- "[[H7931]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 25:8**<big><big>[[Exod.25.1 Offerings for the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let them make me a sanctuary; that I may dwell among them.
 <small><sub>**BSB:**</sub></small>
 And they are to make a sanctuary for Me, so that I may dwell among them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213H\|עָ֥שׂוּ]] [[H9005\|לִ֖]][[H9030\|י]] [[H4720\|מִקְדָּ֑שׁ]] [[H9001\|וְ]][[H7931\|שָׁכַנְתִּ֖י]] [[H9003\|בְּ]][[H8432\|תוֹכָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic LIBERALITY|LIBERALITY]] • [[topic SANCTUARY|SANCTUARY]] • [[topic TABERNACLE|TABERNACLE]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.7|<< Exodus 25:7]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.9|Exodus 25:9 >>]]</td></tr></table>
 

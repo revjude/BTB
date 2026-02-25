@@ -1,8 +1,75 @@
+---
+title: Genesis 17:20
+type: Verse
+kjv: "And as for Ishmael, I have heard thee: Behold, I have blessed him, and will make him fruitful, and will multiply him exceedingly; twelve princes shall he beget, and I will make him a great nation."
+bsb: "As for Ishmael, I have heard you, and I will surely bless him; I will make him fruitful and multiply him greatly. He will become the father of twelve rulers, and I will make him into a great nation."
+hebrew: "וּֽלְיִשְׁמָעֵ֘אל שְׁמַעְתִּיךָ֒ הִנֵּ֣ה׀ בֵּרַ֣כְתִּי אֹת֗וֹ וְהִפְרֵיתִ֥י אֹת֛וֹ וְהִרְבֵּיתִ֥י אֹת֖וֹ בִּמְאֹ֣ד מְאֹ֑ד שְׁנֵים־ עָשָׂ֤ר נְשִׂיאִם֙ יוֹלִ֔יד וּנְתַתִּ֖יו לְג֥וֹי גָּדֽוֹל׃"
+pericope: "[[Gen.17.9 The Covenant of Circumcision|The Covenant of Circumcision]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 17
+book/chapter: "[[Gen.17|Genesis 17]]"
+chronological_order: 59
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SARAH|SARAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H3458G]]"
+- "[[H8085G]]"
+- "[[H9031]]"
+- "[[H2009]]"
+- "[[H9015]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H6509]]"
+- "[[H7235A]]"
+- "[[H9003]]"
+- "[[H3966]]"
+- "[[H8147]]"
+- "[[H9014]]"
+- "[[H6240]]"
+- "[[H5387A]]"
+- "[[H3205]]"
+- "[[H5414I]]"
+- "[[H1471A]]"
+- "[[H1419A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 17:20**<big><big>[[Gen.17.9 The Covenant of Circumcision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as for Ishmael, I have heard thee: Behold, I have blessed him, and will make him fruitful, and will multiply him exceedingly; twelve princes shall he beget, and I will make him a great nation.
 <small><sub>**BSB:**</sub></small>
 As for Ishmael, I have heard you, and I will surely bless him; I will make him fruitful and multiply him greatly. He will become the father of twelve rulers, and I will make him into a great nation.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּֽ]][[H9005\|לְ]][[H3458G\|יִשְׁמָעֵ֘אל]] [[H8085G\|שְׁמַעְתִּי]][[H9031\|ךָ֒]] [[H2009\|הִנֵּ֣ה]][[H9015\|׀]] [[H1288\|בֵּרַ֣כְתִּי]] [[H0853\|אֹת֗]][[H9033\|וֹ]] [[H9001\|וְ]][[H6509\|הִפְרֵיתִ֥י]] [[H0853\|אֹת֛]][[H9033\|וֹ]] [[H9001\|וְ]][[H7235A\|הִרְבֵּיתִ֥י]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9003\|בִּ]][[H3966\|מְאֹ֣ד]] [[H3966\|מְאֹ֑ד]] [[H8147\|שְׁנֵים]][[H9014\|־]] [[H6240\|עָשָׂ֤ר]] [[H5387A\|נְשִׂיאִם֙]] [[H3205\|יוֹלִ֔יד]] [[H9001\|וּ]][[H5414I\|נְתַתִּ֖י]][[H9033\|ו]] [[H9005\|לְ]][[H1471A\|ג֥וֹי]] [[H1419A\|גָּדֽוֹל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BARRENNESS|BARRENNESS]] • [[topic CHILDREN|CHILDREN]] • [[topic COVENANT|COVENANT]] • [[topic ISAAC|ISAAC]] • [[topic ISHMAEL|ISHMAEL]] • [[topic PRAYER|PRAYER]] • [[topic RULERS|RULERS]] • [[topic SARAH|SARAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.17.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.17.19|<< Genesis 17:19]]</td><td align="center" style="border:none;">[[Gen.17|Genesis 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.17.21|Genesis 17:21 >>]]</td></tr></table>
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Absalom Killed
+type: Pericope
 pericope: "[[2Sam.18.1 Absalom Killed|Absalom Killed]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 18
 book/chapter: "[[2Sam.18|2 Samuel 18]]"
-genre:
+chronological_order: 417
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 18
 verses:
 - "[[2Sam.18.1]]"
 - "[[2Sam.18.2]]"
@@ -37,7 +44,7 @@ verses:
 - "[[2Sam.18.18]]"
 ---
 
-[[2Sam.18|2 Samuel 18:1 - 2 Samuel 18:18]]
+<small>[[2Sam.18|2 Samuel 18:1-18]]</small>
 *Absalom Killed*
 
 [[2Sam.18.1|1]] And David numbered the people that \[were\] with him, and set captains of thousands and captains of hundreds over them.

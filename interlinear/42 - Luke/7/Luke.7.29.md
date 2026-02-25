@@ -1,10 +1,55 @@
+---
+title: Luke 7:29
+type: Verse
+kjv: "And all the people that heard him, and the publicans, justified God, being baptized with the baptism of John."
+bsb: "All the people who heard this, even the tax collectors, acknowledged God’s justice. For they had received the baptism of John."
+greek: "καὶ πᾶς ὁ λαὸς ἀκούσας καὶ οἱ τελῶναι ἐδικαίωσαν τὸν θεὸν βαπτισθέντες τὸ βάπτισμα Ἰωάννου."
+pericope: "[[Luke.7.24 Jesus Testifies about John|Jesus Testifies about John]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PUBLICANS|PUBLICANS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G0191]]"
+- "[[G5057]]"
+- "[[G1344]]"
+- "[[G2316]]"
+- "[[G0907]]"
+- "[[G0908]]"
+- "[[G2491G]]"
+texts:
+- NKO
+---
+
 **Luke 7:29**<big><big>[[Luke.7.24 Jesus Testifies about John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And all the people that heard [him], and the publicans, justified God, being baptized with the baptism of John.
 <small><sub>**BSB:**</sub></small>
 All the people who heard this, even the tax collectors, acknowledged God’s justice. For they had received the baptism of John.
-<small><sub>**Literal:**</sub></small>
-And all the people having heard even the tax collectors declared as righteous <the> God having been baptized [with] the baptism of John.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.28|<< Luke 7:28]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.30|Luke 7:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G2992\|λαὸς]]  [[G0191\|ἀκούσας]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G5057\|τελῶναι]]  [[G1344\|ἐδικαίωσαν]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G0907\|βαπτισθέντες]]  [[G3588\|τὸ]]  [[G0908\|βάπτισμα]]  [[G2491G\|Ἰωάννου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic PUBLICANS|PUBLICANS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.28|<< Luke 7:28]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.30|Luke 7:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

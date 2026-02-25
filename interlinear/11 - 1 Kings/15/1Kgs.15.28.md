@@ -1,8 +1,61 @@
+---
+title: 1 Kings 15:28
+type: Verse
+kjv: "Even in the third year of Asa king of Judah did Baasha slay him, and reigned in his stead."
+bsb: "In the third year of Asa’s reign over Judah, Baasha killed Nadab and reigned in his place."
+hebrew: "וַיְמִתֵ֣הוּ בַעְשָׁ֔א בִּשְׁנַ֣ת שָׁלֹ֔שׁ לְאָסָ֖א מֶ֣לֶךְ יְהוּדָ֑ה וַיִּמְלֹ֖ךְ תַּחְתָּֽיו׃"
+pericope: "[[1Kgs.15.25 Nadab Reigns in Israel|Nadab Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 15
+book/chapter: "[[1Kgs.15|1 Kings 15]]"
+chronological_order: 554
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BAASHA|BAASHA]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic NADAB|NADAB]]"
+- "[[topic REGICIDE|REGICIDE]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H9033]]"
+- "[[H1201]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H7969]]"
+- "[[H9005]]"
+- "[[H0609G]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H4427A]]"
+- "[[H8478H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 15:28**<big><big>[[1Kgs.15.25 Nadab Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even in the third year of Asa king of Judah did Baasha slay him, and reigned in his stead.
 <small><sub>**BSB:**</sub></small>
 In the third year of Asa’s reign over Judah, Baasha killed Nadab and reigned in his place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4191\|יְמִתֵ֣]][[H9033\|הוּ]] [[H1201\|בַעְשָׁ֔א]] [[H9003\|בִּ]][[H8141\|שְׁנַ֣ת]] [[H7969\|שָׁלֹ֔שׁ]] [[H9005\|לְ]][[H0609G\|אָסָ֖א]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֑ה]] [[H9001\|וַ]][[H4427A\|יִּמְלֹ֖ךְ]] [[H8478H\|תַּחְתָּֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAASHA|BAASHA]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOMICIDE|HOMICIDE]] • [[topic NADAB|NADAB]] • [[topic REGICIDE|REGICIDE]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.27|<< 1 Kings 15:27]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.29|1 Kings 15:29 >>]]</td></tr></table>
 

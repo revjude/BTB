@@ -1,8 +1,69 @@
+---
+title: Exodus 7:2
+type: Verse
+kjv: "Thou shalt speak all that I command thee: and Aaron thy brother shall speak unto Pharaoh, that he send the children of Israel out of his land."
+bsb: "You are to speak all that I command you, and your brother Aaron is to tell Pharaoh to let the Israelites go out of his land."
+hebrew: "אַתָּ֣ה תְדַבֵּ֔ר אֵ֖ת כָּל־ אֲשֶׁ֣ר אֲצַוֶּ֑ךָּ וְאַהֲרֹ֤ן אָחִ֙יךָ֙ יְדַבֵּ֣ר אֶל־ פַּרְעֹ֔ה וְשִׁלַּ֥ח אֶת־ בְּנֵֽי־ יִשְׂרָאֵ֖ל מֵאַרְצֽוֹ׃"
+pericope: "[[Exod.7.1 God Commands Moses and Aaron|God Commands Moses and Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 7
+book/chapter: "[[Exod.7|Exodus 7]]"
+chronological_order: 99
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H0859A]]"
+- "[[H1696G]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H0251G]]"
+- "[[H9021]]"
+- "[[H0413]]"
+- "[[H6547J]]"
+- "[[H9001]]"
+- "[[H7971H]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 7:2**<big><big>[[Exod.7.1 God Commands Moses and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt speak all that I command thee: and Aaron thy brother shall speak unto Pharaoh, that he send the children of Israel out of his land.
 <small><sub>**BSB:**</sub></small>
 You are to speak all that I command you, and your brother Aaron is to tell Pharaoh to let the Israelites go out of his land.
+<small><sub>**Hebrew:**</sub></small>
+[[H0859A\|אַתָּ֣ה]] [[H1696G\|תְדַבֵּ֔ר]] [[H0853\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H6680\|אֲצַוֶּ֑]][[H9031\|ךָּ]] [[H9002\|וְ]][[H0175\|אַהֲרֹ֤ן]] [[H0251G\|אָחִ֙י]][[H9021\|ךָ֙]] [[H1696G\|יְדַבֵּ֣ר]] [[H0413\|אֶל]][[H9014\|־]] [[H6547J\|פַּרְעֹ֔ה]] [[H9001\|וְ]][[H7971H\|שִׁלַּ֥ח]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9006\|מֵ]][[H0776G\|אַרְצֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic MOSES|MOSES]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.1|<< Exodus 7:1]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.3|Exodus 7:3 >>]]</td></tr></table>
 

@@ -1,10 +1,60 @@
+---
+title: Matthew 26:17
+type: Verse
+kjv: "Now the first day of the feast of unleavened bread the disciples came to Jesus, saying unto him, Where wilt thou that we prepare for thee to eat the passover?"
+bsb: "On the first day of the Feast of Unleavened Bread, the disciples came to Jesus and asked, “Where do You want us to prepare for You to eat the Passover?”"
+greek: "Τῇ δὲ πρώτῃ τῶν ἀζύμων προσῆλθον οἱ μαθηταὶ τῷ Ἰησοῦ λέγοντες αὐτῷ· ποῦ θέλεις ἑτοιμάσωμέν σοι φαγεῖν τὸ πάσχα;¶"
+pericope: "[[Matt.26.17 Preparing the Passover|Preparing the Passover]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4413G]]"
+- "[[G0106]]"
+- "[[G4334]]"
+- "[[G3101]]"
+- "[[G2424G]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G4226]]"
+- "[[G2309]]"
+- "[[G2090]]"
+- "[[G4771]]"
+- "[[G5315]]"
+- "[[G3957]]"
+texts:
+- NKO
+- k
+- NK(o)
+---
+
 **Matthew 26:17**<big><big>[[Matt.26.17 Preparing the Passover|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now the first [day] of the [feast of] unleavened bread the disciples came to Jesus, saying unto him, Where wilt thou that we prepare for thee to eat the passover?
 <small><sub>**BSB:**</sub></small>
 On the first day of the Feast of Unleavened Bread, the disciples came to Jesus and asked, “Where do You want us to prepare for You to eat the Passover?”
-<small><sub>**Literal:**</sub></small>
-On the now first [day] of the unleavened [bread] came the disciples <the> to Jesus saying to him: Where wish you [that] we may prepare for You to eat the Passover?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.16|<< Matthew 26:16]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.18|Matthew 26:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τῇ]]  [[G1161\|δὲ]]  [[G4413G\|πρώτῃ]]  [[G3588\|τῶν]]  [[G0106\|ἀζύμων]]  [[G4334\|προσῆλθον]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G3588\|τῷ]]  [[G2424G\|Ἰησοῦ]]  [[G3004G\|λέγοντες]]  [[G0846\|αὐτῷ·]]  [[G4226\|ποῦ]]  [[G2309\|θέλεις]]  [[G2090\|ἑτοιμάσωμέν]]  [[G4771\|σοι]]  [[G5315\|φαγεῖν]]  [[G3588\|τὸ]]  [[G3957\|πάσχα;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]] • [[topic FEASTS|FEASTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PASSOVER|PASSOVER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.16|<< Matthew 26:16]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.18|Matthew 26:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

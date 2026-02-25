@@ -1,10 +1,60 @@
+---
+title: Acts 17:14
+type: Verse
+kjv: "And then immediately the brethren sent away Paul to go as it were to the sea: but Silas and Timotheus abode there still."
+bsb: "The brothers immediately sent Paul to the coast, but Silas and Timothy remained in Berea."
+greek: "εὐθέως δὲ τότε τὸν Παῦλον ἐξαπέστειλαν οἱ ἀδελφοὶ πορεύεσθαι ἕως ἐπὶ τὴν θάλασσαν· ὑπέμεινάν τε ὅ τε Σιλᾶς καὶ ὁ Τιμόθεος ἐκεῖ."
+pericope: "[[Acts.17.10 The Character of the Bereans|The Character of the Bereans]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 17
+book/chapter: "[[Acts.17|Acts 17]]"
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SILAS|SILAS]]"
+- "[[topic TIMOTHY|TIMOTHY]]"
+strongs:
+- "[[G2112]]"
+- "[[G1161]]"
+- "[[G5119]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G1821]]"
+- "[[G0080]]"
+- "[[G4198]]"
+- "[[G2193]]"
+- "[[G1909]]"
+- "[[G2281]]"
+- "[[G5278]]"
+- "[[G5037]]"
+- "[[G4609]]"
+- "[[G2532]]"
+- "[[G5095]]"
+- "[[G1563]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 17:14**<big><big>[[Acts.17.10 The Character of the Bereans|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And then immediately the brethren sent away Paul to go as it were to the sea: but Silas and Timotheus abode there still.
 <small><sub>**BSB:**</sub></small>
 The brothers immediately sent Paul to the coast, but Silas and Timothy remained in Berea.
-<small><sub>**Literal:**</sub></small>
-Immediately also then <the> Paul sent away the brothers to go until to the sea; remained but <the> both Silas and <the> Timothy there.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.13|<< Acts 17:13]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.15|Acts 17:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2112\|εὐθέως]]  [[G1161\|δὲ]]  [[G5119\|τότε]]  [[G3588\|τὸν]]  [[G3972G\|Παῦλον]]  [[G1821\|ἐξαπέστειλαν]]  [[G3588\|οἱ]]  [[G0080\|ἀδελφοὶ]]  [[G4198\|πορεύεσθαι]]  [[G2193\|ἕως]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G2281\|θάλασσαν·]]  [[G5278\|ὑπέμεινάν]]  [[G5037\|τε]]  [[G3588\|ὅ]]  [[G5037\|τε]]  [[G4609\|Σιλᾶς]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G5095\|Τιμόθεος]]  [[G1563\|ἐκεῖ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PAUL|PAUL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SILAS|SILAS]] • [[topic TIMOTHY|TIMOTHY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.13|<< Acts 17:13]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.15|Acts 17:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

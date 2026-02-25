@@ -1,10 +1,60 @@
+---
+title: 2 Corinthians 8:4
+type: Verse
+kjv: "Praying us with much intreaty that we would receive the gift, and take upon us the fellowship of the ministering to the saints."
+bsb: "they earnestly pleaded with us for the privilege of sharing in this service to the saints."
+greek: "μετὰ πολλῆς παρακλήσεως δεόμενοι ἡμῶν τὴν χάριν καὶ τὴν κοινωνίαν τῆς διακονίας τῆς εἰς τοὺς ἁγίους δέξασθαι ἡμᾶς,"
+pericope: "[[2Cor.8.1 Generosity Commended|Generosity Commended]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 8
+book/chapter: "[[2Cor.8|2 Corinthians 8]]"
+chronological_order: 1081
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic EMULATION|EMULATION]]"
+- "[[topic MACEDONIA|MACEDONIA]]"
+- "[[topic POOR|POOR]]"
+- "[[topic TACT|TACT]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3326]]"
+- "[[G4183]]"
+- "[[G3874]]"
+- "[[G1189]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G5485]]"
+- "[[G2532]]"
+- "[[G2842]]"
+- "[[G1248]]"
+- "[[G1519]]"
+- "[[G0040H]]"
+- "[[G1209]]"
+texts:
+- NKO
+- K
+---
+
 **2 Corinthians 8:4**<big><big>[[2Cor.8.1 Generosity Commended|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Praying us with much intreaty that we would receive the gift, and [take upon us] the fellowship of the ministering to the saints.
 <small><sub>**BSB:**</sub></small>
 they earnestly pleaded with us for the privilege of sharing in this service to the saints.
-<small><sub>**Literal:**</sub></small>
-with much entreaty imploring of us for the grace and the fellowship of the service <the> among the saints to receive us,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.3|<< 2 Corinthians 8:3]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.5|2 Corinthians 8:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3326\|μετὰ]]  [[G4183\|πολλῆς]]  [[G3874\|παρακλήσεως]]  [[G1189\|δεόμενοι]]  [[G3165\|ἡμῶν]]  [[G3588\|τὴν]]  [[G5485\|χάριν]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G2842\|κοινωνίαν]]  [[G3588\|τῆς]]  [[G1248\|διακονίας]]  [[G3588\|τῆς]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G0040H\|ἁγίους]]  [[G1209\|δέξασθαι]]  [[G3165\|ἡμᾶς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic EMULATION|EMULATION]] • [[topic MACEDONIA|MACEDONIA]] • [[topic POOR|POOR]] • [[topic TACT|TACT]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.3|<< 2 Corinthians 8:3]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.5|2 Corinthians 8:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

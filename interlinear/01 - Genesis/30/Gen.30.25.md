@@ -1,8 +1,66 @@
+---
+title: Genesis 30:25
+type: Verse
+kjv: "And it came to pass, when Rachel had born Joseph, that Jacob said unto Laban, Send me away, that I may go unto mine own place, and to my country."
+bsb: "Now after Rachel had given birth to Joseph, Jacob said to Laban, “Send me on my way so I can return to my homeland."
+hebrew: "וַיְהִ֕י כַּאֲשֶׁ֛ר יָלְדָ֥ה רָחֵ֖ל אֶת־ יוֹסֵ֑ף וַיֹּ֤אמֶר יַעֲקֹב֙ אֶל־ לָבָ֔ן שַׁלְּחֵ֙נִי֙ וְאֵ֣לְכָ֔ה אֶל־ מְקוֹמִ֖י וּלְאַרְצִֽי׃"
+pericope: "[[Gen.30.25 Jacob Prospers|Jacob Prospers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 30
+book/chapter: "[[Gen.30|Genesis 30]]"
+chronological_order: 72
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic RACHEL|RACHEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H3205]]"
+- "[[H7354]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3130G]]"
+- "[[H0559]]"
+- "[[H3290]]"
+- "[[H0413]]"
+- "[[H3837A]]"
+- "[[H7971G]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H1980G]]"
+- "[[H4725]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 30:25**<big><big>[[Gen.30.25 Jacob Prospers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Rachel had born Joseph, that Jacob said unto Laban, Send me away, that I may go unto mine own place, and to my country.
 <small><sub>**BSB:**</sub></small>
 Now after Rachel had given birth to Joseph, Jacob said to Laban, “Send me on my way so I can return to my homeland.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֕י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H3205\|יָלְדָ֥ה]] [[H7354\|רָחֵ֖ל]] [[H0853\|אֶת]][[H9014\|־]] [[H3130G\|יוֹסֵ֑ף]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3290\|יַעֲקֹב֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3837A\|לָבָ֔ן]] [[H7971G\|שַׁלְּחֵ֙]][[H9030\|נִי֙]] [[H9002\|וְ]][[H1980G\|אֵ֣לְכָ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4725\|מְקוֹמִ֖]][[H9020\|י]] [[H9002\|וּ]][[H9005\|לְ]][[H0776G\|אַרְצִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMILY|FAMILY]] • [[topic RACHEL|RACHEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.24|<< Genesis 30:24]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.26|Genesis 30:26 >>]]</td></tr></table>
 

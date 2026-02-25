@@ -1,8 +1,60 @@
+---
+title: Judges 19:12
+type: Verse
+kjv: "And his master said unto him, We will not turn aside hither into the city of a stranger, that is not of the children of Israel; we will pass over to Gibeah."
+bsb: "But his master replied, “We will not turn aside to the city of foreigners, where there are no Israelites. We will go on to Gibeah.”"
+hebrew: "וַיֹּ֤אמֶר אֵלָיו֙ אֲדֹנָ֔יו לֹ֤א נָסוּר֙ אֶל־ עִ֣יר נָכְרִ֔י אֲשֶׁ֛ר לֹֽא־ מִבְּנֵ֥י יִשְׂרָאֵ֖ל הֵ֑נָּה וְעָבַ֖רְנוּ עַד־ גִּבְעָֽה׃"
+pericope: "[[Judg.19.1 The Crime of the Benjamites|The Crime of the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 19
+book/chapter: "[[Judg.19|Judges 19]]"
+chronological_order: 273
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GIBEAH|GIBEAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0113]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H5493I]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H5237]]"
+- "[[H0834A]]"
+- "[[H9006]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H2007]]"
+- "[[H5674A]]"
+- "[[H5704]]"
+- "[[H1390H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 19:12**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his master said unto him, We will not turn aside hither into the city of a stranger, that [is] not of the children of Israel; we will pass over to Gibeah.
 <small><sub>**BSB:**</sub></small>
 But his master replied, “We will not turn aside to the city of foreigners, where there are no Israelites. We will go on to Gibeah.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H0113\|אֲדֹנָ֔י]][[H9023\|ו]] [[H3808\|לֹ֤א]] [[H5493I\|נָסוּר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H5892B\|עִ֣יר]] [[H5237\|נָכְרִ֔י]] [[H0834A\|אֲשֶׁ֛ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H9006\|מִ]][[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H2007\|הֵ֑נָּה]] [[H9001\|וְ]][[H5674A\|עָבַ֖רְנוּ]] [[H5704\|עַד]][[H9014\|־]] [[H1390H\|גִּבְעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIBEAH|GIBEAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.11|<< Judges 19:11]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.13|Judges 19:13 >>]]</td></tr></table>
 

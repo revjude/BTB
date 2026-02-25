@@ -1,8 +1,64 @@
+---
+title: Genesis 26:5
+type: Verse
+kjv: "Because that Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my laws."
+bsb: "because Abraham listened to My voice and kept My charge, My commandments, My statutes, and My laws.”"
+hebrew: "עֵ֕קֶב אֲשֶׁר־ שָׁמַ֥ע אַבְרָהָ֖ם בְּקֹלִ֑י וַיִּשְׁמֹר֙ מִשְׁמַרְתִּ֔י מִצְוֹתַ֖י חֻקּוֹתַ֥י וְתוֹרֹתָֽי׃"
+pericope: "[[Gen.26.1 God’s Promise to Isaac|God’s Promise to Isaac]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 26
+book/chapter: "[[Gen.26|Genesis 26]]"
+chronological_order: 68
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISAAC|ISAAC]]"
+strongs:
+- "[[H6118]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H8085H]]"
+- "[[H0085]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H8104G]]"
+- "[[H4931]]"
+- "[[H4687]]"
+- "[[H2708]]"
+- "[[H9002]]"
+- "[[H8451]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 26:5**<big><big>[[Gen.26.1 God’s Promise to Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because that Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my laws.
 <small><sub>**BSB:**</sub></small>
 because Abraham listened to My voice and kept My charge, My commandments, My statutes, and My laws.”
+<small><sub>**Hebrew:**</sub></small>
+[[H6118\|עֵ֕קֶב]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H8085H\|שָׁמַ֥ע]] [[H0085\|אַבְרָהָ֖ם]] [[H9003\|בְּ]][[H6963A\|קֹלִ֑]][[H9020\|י]] [[H9001\|וַ]][[H8104G\|יִּשְׁמֹר֙]] [[H4931\|מִשְׁמַרְתִּ֔]][[H9020\|י]] [[H4687\|מִצְוֹתַ֖]][[H9020\|י]] [[H2708\|חֻקּוֹתַ֥]][[H9020\|י]] [[H9002\|וְ]][[H8451\|תוֹרֹתָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BLESSING|BLESSING]] • [[topic CHILDREN|CHILDREN]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISAAC|ISAAC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.4|<< Genesis 26:4]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.6|Genesis 26:6 >>]]</td></tr></table>
 

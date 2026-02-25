@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Punishment for Blasphemy
+type: Pericope
 pericope: "[[Lev.24.10 Punishment for Blasphemy|Punishment for Blasphemy]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 24
 book/chapter: "[[Lev.24|Leviticus 24]]"
-genre:
+chronological_order: 156
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 7
 verses:
 - "[[Lev.24.10]]"
 - "[[Lev.24.11]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Lev.24.16]]"
 ---
 
-[[Lev.24|Leviticus 24:10 - Leviticus 24:16]]
+<small>[[Lev.24|Leviticus 24:10-16]]</small>
 *Punishment for Blasphemy*
 
 [[Lev.24.10|10]] And the son of an Israelitish woman, whose father \[was\] an Egyptian, went out among the children of Israel: and this son of the Israelitish \[woman\] and a man of Israel strove together in the camp;

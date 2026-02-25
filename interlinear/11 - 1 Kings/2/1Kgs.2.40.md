@@ -1,8 +1,66 @@
+---
+title: 1 Kings 2:40
+type: Verse
+kjv: "And Shimei arose, and saddled his ass, and went to Gath to Achish to seek his servants: and Shimei went, and brought his servants from Gath."
+bsb: "So Shimei saddled his donkey and set out to Achish at Gath in search of his slaves, and he brought them back from Gath."
+hebrew: "וַיָּ֣קָם שִׁמְעִ֗י וַֽיַּחֲבֹשׁ֙ אֶת־ חֲמֹר֔וֹ וַיֵּ֤לֶךְ גַּ֙תָה֙ אֶל־ אָכִ֔ישׁ לְבַקֵּ֖שׁ אֶת־ עֲבָדָ֑יו וַיֵּ֣לֶךְ שִׁמְעִ֔י וַיָּבֵ֥א אֶת־ עֲבָדָ֖יו מִגַּֽת׃"
+pericope: "[[1Kgs.2.36 The Execution of Shimei|The Execution of Shimei]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 2
+book/chapter: "[[1Kgs.2|1 Kings 2]]"
+chronological_order: 442
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ACHISH|ACHISH]]"
+- "[[topic GATH|GATH]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SHIMEI|SHIMEI]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H8096H]]"
+- "[[H2280]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2543]]"
+- "[[H9023]]"
+- "[[H1980G]]"
+- "[[H1661]]"
+- "[[H9011]]"
+- "[[H0413]]"
+- "[[H0397]]"
+- "[[H9005]]"
+- "[[H1245]]"
+- "[[H5650]]"
+- "[[H0935P]]"
+- "[[H9006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 2:40**<big><big>[[1Kgs.2.36 The Execution of Shimei|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Shimei arose, and saddled his ass, and went to Gath to Achish to seek his servants: and Shimei went, and brought his servants from Gath.
 <small><sub>**BSB:**</sub></small>
 So Shimei saddled his donkey and set out to Achish at Gath in search of his slaves, and he brought them back from Gath.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּ֣קָם]] [[H8096H\|שִׁמְעִ֗י]] [[H9001\|וַֽ]][[H2280\|יַּחֲבֹשׁ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H2543\|חֲמֹר֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H1980G\|יֵּ֤לֶךְ]] [[H1661\|גַּ֙תָ]][[H9011\|ה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0397\|אָכִ֔ישׁ]] [[H9005\|לְ]][[H1245\|בַקֵּ֖שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H5650\|עֲבָדָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H1980G\|יֵּ֣לֶךְ]] [[H8096H\|שִׁמְעִ֔י]] [[H9001\|וַ]][[H0935P\|יָּבֵ֥א]] [[H0853\|אֶת]][[H9014\|־]] [[H5650\|עֲבָדָ֖י]][[H9023\|ו]] [[H9006\|מִ]][[H1661\|גַּֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACHISH|ACHISH]] • [[topic GATH|GATH]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOMICIDE|HOMICIDE]] • [[topic SERVANT|SERVANT]] • [[topic SHIMEI|SHIMEI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.39|<< 1 Kings 2:39]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.41|1 Kings 2:41 >>]]</td></tr></table>
 

@@ -3,7 +3,7 @@
 
 → Refused by Peter [[Acts.10.26|Ac 10:26]]
 
-→ Paul and Barnabas [[Acts.14.11|Ac 14:11]]-[[Acts.14.18|18]]
+→ Paul and Barnabas [[Acts.14.11|Ac 14:11-18]]
 
 → By the angel seen by John in his vision [[Rev.19.10|Re 19:10]]; [[Rev.22.8|22:8]],[[Rev.22.9|9]]
 

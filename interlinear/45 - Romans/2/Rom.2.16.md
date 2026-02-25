@@ -1,10 +1,61 @@
+---
+title: Romans 2:16
+type: Verse
+kjv: "In the day when God shall judge the secrets of men by Jesus Christ according to my gospel."
+bsb: "on the day when God will judge men’s secrets through Christ Jesus, as proclaimed by my gospel."
+greek: "ἐν ἡμέρᾳ ὅτε κρίνει ὁ θεὸς τὰ κρυπτὰ τῶν ἀνθρώπων κατὰ τὸ εὐαγγέλιόν μου διὰ Χριστοῦ Ἰησοῦ.¶"
+pericope: "[[Rom.2.1 God’s Righteous Judgment|God’s Righteous Judgment]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 2
+book/chapter: "[[Rom.2|Romans 2]]"
+chronological_order: 1088
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic SECRET|SECRET]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G1722]]"
+- "[[G2250]]"
+- "[[G3753]]"
+- "[[G2919]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2927]]"
+- "[[G0444]]"
+- "[[G2596]]"
+- "[[G2098]]"
+- "[[G3165]]"
+- "[[G1223]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Romans 2:16**<big><big>[[Rom.2.1 God’s Righteous Judgment|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 In the day when God shall judge the secrets of men by Jesus Christ according to my gospel.
 <small><sub>**BSB:**</sub></small>
 on the day when God will judge men’s secrets through Christ Jesus, as proclaimed by my gospel.
-<small><sub>**Literal:**</sub></small>
-on day when judges <the> God the secrets <the> of men according to the gospel of mine through Christ Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.15|<< Romans 2:15]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.17|Romans 2:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G2250\|ἡμέρᾳ]]  [[G3753\|ὅτε]]  [[G2919\|κρίνει]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τὰ]]  [[G2927\|κρυπτὰ]]  [[G3588\|τῶν]]  [[G0444\|ἀνθρώπων]]  [[G2596\|κατὰ]]  [[G3588\|τὸ]]  [[G2098\|εὐαγγέλιόν]]  [[G3165\|μου]]  [[G1223\|διὰ]]  [[G5547\|Χριστοῦ]]  [[G2424G\|Ἰησοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic SECRET|SECRET]] • [[topic SIN|SIN]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.15|<< Romans 2:15]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.17|Romans 2:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,76 @@
+---
+title: Deuteronomy 22:17
+type: Verse
+kjv: "And, lo, he hath given occasions of speech against her, saying, I found not thy daughter a maid; and yet these are the tokens of my daughter’s virginity. And they shall spread the cloth before the elders of the city."
+bsb: "And now he has accused her of shameful conduct, saying, ‘I discovered that your daughter was not a virgin.’ But here is the proof of her virginity.” And they shall spread out the cloth before the city elders."
+hebrew: "וְהִנֵּה־ ה֡וּא שָׂם֩ עֲלִילֹ֨ת דְּבָרִ֜ים לֵאמֹ֗ר לֹֽא־ מָצָ֤אתִי לְבִתְּךָ֙ בְּתוּלִ֔ים וְאֵ֖לֶּה בְּתוּלֵ֣י בִתִּ֑י וּפָֽרְשׂוּ֙ הַשִּׂמְלָ֔ה לִפְנֵ֖י זִקְנֵ֥י הָעִֽיר׃"
+pericope: "[[Deut.22.13 Marriage Violations|Marriage Violations]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 22
+book/chapter: "[[Deut.22|Deuteronomy 22]]"
+chronological_order: 218
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DAMAGES AND COMPENSATION|DAMAGES AND COMPENSATION]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic VIRGIN|VIRGIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H7760J]]"
+- "[[H5949]]"
+- "[[H1697L]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H1323G]]"
+- "[[H9021]]"
+- "[[H1331]]"
+- "[[H0428]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H6566]]"
+- "[[H9009]]"
+- "[[H8071]]"
+- "[[H6440G]]"
+- "[[H2205G]]"
+- "[[H5892B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 22:17**<big><big>[[Deut.22.13 Marriage Violations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, lo, he hath given occasions of speech [against her], saying, I found not thy daughter a maid; and yet these [are the tokens of] my daughter’s virginity. And they shall spread the cloth before the elders of the city.
 <small><sub>**BSB:**</sub></small>
 And now he has accused her of shameful conduct, saying, ‘I discovered that your daughter was not a virgin.’ But here is the proof of her virginity.” And they shall spread out the cloth before the city elders.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּה]][[H9014\|־]] [[H1931\|ה֡וּא]] [[H7760J\|שָׂם֩]] [[H5949\|עֲלִילֹ֨ת]] [[H1697L\|דְּבָרִ֜ים]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H4672\|מָצָ֤אתִי]] [[H9005\|לְ]][[H1323G\|בִתְּ]][[H9021\|ךָ֙]] [[H1331\|בְּתוּלִ֔ים]] [[H9002\|וְ]][[H0428\|אֵ֖לֶּה]] [[H1331\|בְּתוּלֵ֣י]] [[H1323G\|בִתִּ֑]][[H9020\|י]] [[H9001\|וּ]][[H6566\|פָֽרְשׂוּ֙]] [[H9009\|הַ]][[H8071\|שִּׂמְלָ֔ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H2205G\|זִקְנֵ֥י]] [[H9009\|הָ]][[H5892B\|עִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHARACTER|CHARACTER]] • [[topic CHURCH|CHURCH]] • [[topic DAMAGES AND COMPENSATION|DAMAGES AND COMPENSATION]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HUSBAND|HUSBAND]] • [[topic SLANDER|SLANDER]] • [[topic VIRGIN|VIRGIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.16|<< Deuteronomy 22:16]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.18|Deuteronomy 22:18 >>]]</td></tr></table>
 

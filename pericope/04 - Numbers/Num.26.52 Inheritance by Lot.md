@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Inheritance by Lot
+type: Pericope
 pericope: "[[Num.26.52 Inheritance by Lot|Inheritance by Lot]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 26
 book/chapter: "[[Num.26|Numbers 26]]"
-genre:
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 5
 verses:
 - "[[Num.26.52]]"
 - "[[Num.26.53]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Num.26.56]]"
 ---
 
-[[Num.26|Numbers 26:52 - Numbers 26:56]]
+<small>[[Num.26|Numbers 26:52-56]]</small>
 *Inheritance by Lot*
 
 [[Num.26.52|52]] And the LORD spake unto Moses, saying,

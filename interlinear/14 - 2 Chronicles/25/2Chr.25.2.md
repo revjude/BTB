@@ -1,8 +1,48 @@
+---
+title: 2 Chronicles 25:2
+type: Verse
+kjv: "And he did that which was right in the sight of the LORD, but not with a perfect heart."
+bsb: "And he did what was right in the eyes of the LORD, but not wholeheartedly."
+hebrew: "וַיַּ֥עַשׂ הַיָּשָׁ֖ר בְּעֵינֵ֣י יְהוָ֑ה רַ֕ק לֹ֖א בְּלֵבָ֥ב שָׁלֵֽם׃"
+pericope: "[[2Chr.25.1 Amaziah Reigns in Judah|Amaziah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 25
+book/chapter: "[[2Chr.25|2 Chronicles 25]]"
+chronological_order: 592
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H3477G]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H3068G]]"
+- "[[H7535]]"
+- "[[H3808]]"
+- "[[H3824]]"
+- "[[H8003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 25:2**<big><big>[[2Chr.25.1 Amaziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he did [that which was] right in the sight of the LORD, but not with a perfect heart.
 <small><sub>**BSB:**</sub></small>
 And he did what was right in the eyes of the LORD, but not wholeheartedly.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֥עַשׂ]] [[H9009\|הַ]][[H3477G\|יָּשָׁ֖ר]] [[H9003\|בְּ]][[H5869I\|עֵינֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H7535\|רַ֕ק]] [[H3808\|לֹ֖א]] [[H9003\|בְּ]][[H3824\|לֵבָ֥ב]] [[H8003\|שָׁלֵֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.1|<< 2 Chronicles 25:1]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.3|2 Chronicles 25:3 >>]]</td></tr></table>
 

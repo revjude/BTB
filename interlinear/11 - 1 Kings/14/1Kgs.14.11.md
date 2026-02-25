@@ -1,8 +1,62 @@
+---
+title: 1 Kings 14:11
+type: Verse
+kjv: "Him that dieth of Jeroboam in the city shall the dogs eat; and him that dieth in the field shall the fowls of the air eat: for the LORD hath spoken it."
+bsb: "Anyone belonging to Jeroboam who dies in the city will be eaten by dogs, and anyone who dies in the field will be eaten by the birds of the air.’ For the LORD has spoken."
+hebrew: "הַמֵּ֨ת לְיָֽרָבְעָ֤ם בָּעִיר֙ יֹאכְל֣וּ הַכְּלָבִ֔ים וְהַמֵּת֙ בַּשָּׂדֶ֔ה יֹאכְל֖וּ ע֣וֹף הַשָּׁמָ֑יִם כִּ֥י יְהוָ֖ה דִּבֵּֽר׃"
+pericope: "[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|Ahijah’s Prophecy against Jeroboam]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 14
+book/chapter: "[[1Kgs.14|1 Kings 14]]"
+chronological_order: 553
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ABIJAH|ABIJAH]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9009]]"
+- "[[H4191]]"
+- "[[H9005]]"
+- "[[H3379G]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H0398]]"
+- "[[H3611]]"
+- "[[H9002]]"
+- "[[H7704G]]"
+- "[[H5775]]"
+- "[[H8064]]"
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 14:11**<big><big>[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Him that dieth of Jeroboam in the city shall the dogs eat; and him that dieth in the field shall the fowls of the air eat: for the LORD hath spoken [it].
 <small><sub>**BSB:**</sub></small>
 Anyone belonging to Jeroboam who dies in the city will be eaten by dogs, and anyone who dies in the field will be eaten by the birds of the air.’ For the LORD has spoken.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H4191\|מֵּ֨ת]] [[H9005\|לְ]][[H3379G\|יָֽרָבְעָ֤ם]] [[H9003\|בָּ]][[H5892B\|עִיר֙]] [[H0398\|יֹאכְל֣וּ]] [[H9009\|הַ]][[H3611\|כְּלָבִ֔ים]] [[H9002\|וְ]][[H9009\|הַ]][[H4191\|מֵּת֙]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶ֔ה]] [[H0398\|יֹאכְל֖וּ]] [[H5775\|ע֣וֹף]] [[H9009\|הַ]][[H8064\|שָּׁמָ֑יִם]] [[H3588A\|כִּ֥י]] [[H3068G\|יְהוָ֖ה]] [[H1696G\|דִּבֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIJAH|ABIJAH]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JEROBOAM|JEROBOAM]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.10|<< 1 Kings 14:10]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.12|1 Kings 14:12 >>]]</td></tr></table>
 

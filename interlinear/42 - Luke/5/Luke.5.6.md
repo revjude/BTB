@@ -1,10 +1,58 @@
+---
+title: Luke 5:6
+type: Verse
+kjv: "And when they had this done, they inclosed a great multitude of fishes: and their net brake."
+bsb: "When they had done so, they caught such a large number of fish that their nets began to tear."
+greek: "καὶ τοῦτο ποιήσαντες συνέκλεισαν πλῆθος ἰχθύων πολύ· διερρήσσετο δὲ τὰ δίκτυα αὐτῶν."
+pericope: "[[Luke.5.1 The First Disciples|The First Disciples]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 5
+book/chapter: "[[Luke.5|Luke 5]]"
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FISH|FISH]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G4160G]]"
+- "[[G4788]]"
+- "[[G4128]]"
+- "[[G2486]]"
+- "[[G4183]]"
+- "[[G1284]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1350]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 5:6**<big><big>[[Luke.5.1 The First Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they had this done, they inclosed a great multitude of fishes: and their net brake.
 <small><sub>**BSB:**</sub></small>
 When they had done so, they caught such a large number of fish that their nets began to tear.
-<small><sub>**Literal:**</sub></small>
-And this having done they enclosed a multitude of fishes great; were breaking now the nets of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.5|<< Luke 5:5]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.7|Luke 5:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3778\|τοῦτο]]  [[G4160G\|ποιήσαντες]]  [[G4788\|συνέκλεισαν]]  [[G4128\|πλῆθος]]  [[G2486\|ἰχθύων]]  [[G4183\|πολύ·]]  [[G1284\|διερρήσσετο]]  [[G1161\|δὲ]]  [[G3588\|τὰ]]  [[G1350\|δίκτυα]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FISH|FISH]] • [[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.5|<< Luke 5:5]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.7|Luke 5:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,87 @@
+---
+title: Deuteronomy 30:16
+type: Verse
+kjv: "In that I command thee this day to love the LORD thy God, to walk in his ways, and to keep his commandments and his statutes and his judgments, that thou mayest live and multiply: and the LORD thy God shall bless thee in the land whither thou goest to possess it."
+bsb: "For I am commanding you today to love the LORD your God, to walk in His ways, and to keep His commandments, statutes, and ordinances, so that you may live and increase, and the LORD your God may bless you in the land that you are entering to possess."
+hebrew: "אִם־ תִּשְׁמַע אֶל מִצְוֹת יְהוָה אֱלֹהֶיךָ אֲשֶׁ֨ר אָנֹכִ֣י מְצַוְּךָ֮ הַיּוֹם֒ לְאַהֲבָ֞ה אֶת־ יְהוָ֤ה אֱלֹהֶ֙יךָ֙ לָלֶ֣כֶת בִּדְרָכָ֔יו וְלִשְׁמֹ֛ר מִצְוֹתָ֥יו וְחֻקֹּתָ֖יו וּמִשְׁפָּטָ֑יו וְחָיִ֣יתָ וְרָבִ֔יתָ וּבֵֽרַכְךָ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ בָּאָ֕רֶץ אֲשֶׁר־ אַתָּ֥ה בָא־ שָׁ֖מָּה לְרִשְׁתָּֽהּ׃"
+pericope: "[[Deut.30.11 The Choice of Life or Death|The Choice of Life or Death]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 30
+book/chapter: "[[Deut.30|Deuteronomy 30]]"
+chronological_order: 226
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic DUTY|DUTY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H8085H]]"
+- "[[H0413]]"
+- "[[H4687]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H6680]]"
+- "[[H9031]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H0157G]]"
+- "[[H0853]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H8104G]]"
+- "[[H2708]]"
+- "[[H4941G]]"
+- "[[H9001]]"
+- "[[H2421]]"
+- "[[H7235A]]"
+- "[[H1288]]"
+- "[[H0776G]]"
+- "[[H0859A]]"
+- "[[H0935G]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H3423H]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- X
+- L
+---
+
 **Deuteronomy 30:16**<big><big>[[Deut.30.11 The Choice of Life or Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that I command thee this day to love the LORD thy God, to walk in his ways, and to keep his commandments and his statutes and his judgments, that thou mayest live and multiply: and the LORD thy God shall bless thee in the land whither thou goest to possess it.
 <small><sub>**BSB:**</sub></small>
 For I am commanding you today to love the LORD your God, to walk in His ways, and to keep His commandments, statutes, and ordinances, so that you may live and increase, and the LORD your God may bless you in the land that you are entering to possess.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H8085H\|תִּשְׁמַע]] [[H0413\|אֶל]] [[H4687\|מִצְוֹת]] [[H3068G\|יְהוָה]] [[H0430G\|אֱלֹהֶי]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֨ר]] [[H0595\|אָנֹכִ֣י]] [[H6680\|מְצַוְּ]][[H9031\|ךָ֮]] [[H9009\|הַ]][[H3117G\|יּוֹם֒]] [[H9005\|לְ]][[H0157G\|אַהֲבָ֞ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֶ֙י]][[H9021\|ךָ֙]] [[H9005\|לָ]][[H1980I\|לֶ֣כֶת]] [[H9003\|בִּ]][[H1870G\|דְרָכָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H9005\|לִ]][[H8104G\|שְׁמֹ֛ר]] [[H4687\|מִצְוֹתָ֥י]][[H9023\|ו]] [[H9002\|וְ]][[H2708\|חֻקֹּתָ֖י]][[H9023\|ו]] [[H9002\|וּ]][[H4941G\|מִשְׁפָּטָ֑י]][[H9023\|ו]] [[H9001\|וְ]][[H2421\|חָיִ֣יתָ]] [[H9001\|וְ]][[H7235A\|רָבִ֔יתָ]] [[H9001\|וּ]][[H1288\|בֵֽרַכְ]][[H9031\|ךָ֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H9003\|בָּ]][[H0776G\|אָ֕רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0859A\|אַתָּ֥ה]] [[H0935G\|בָא]][[H9014\|־]] [[H8033G\|שָׁ֖מָּ]][[H9011\|ה]] [[H9005\|לְ]][[H3423H\|רִשְׁתָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic DUTY|DUTY]] • [[topic GOD|GOD]] • [[topic LOVE|LOVE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.15|<< Deuteronomy 30:15]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.17|Deuteronomy 30:17 >>]]</td></tr></table>
 

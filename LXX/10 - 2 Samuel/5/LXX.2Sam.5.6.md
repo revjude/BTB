@@ -1,6 +1,77 @@
+---
+title: LXX 2 Samuel 5:6
+type: Verse
+lxx: "And the king went forth, and all  his men unto Jerusalem, to the Jebusite  dwelling in the land. And it was said  to David, You shall not enter here. For the blind and the lame opposed, saying, David shall not enter here."
+greek: "και απήλθε ο βασιλεύς και πάντας οι άνδρες αυτού εις Ιερουσαλήμ προς τον Ιεβουσαίον τον κατοικούντα την γην και ερρέθη τω Δαυίδ ουκ εισελεύση ώδε ότι αντέστησαν οι τυφλοί και οι χωλοί λέγοντες ουκ εισελεύσεται Δαυίδ ώδε"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 5
+book/chapter: "[[2Sam.5|2 Samuel 5]]"
+chronological_order: 333
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic JEBUSITES|JEBUSITES]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic SIEGE|SIEGE]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[G2532]]"
+- "[[G0565]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0435]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G2419]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[H2983]]"
+- "[[G3588]]"
+- "[[G2730]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G2532]]"
+- "[[G2046]]"
+- "[[G3588]]"
+- "[[G4622]]"
+- "[[G3756]]"
+- "[[G1525]]"
+- "[[G5602]]"
+- "[[G3754]]"
+- "[[G0436]]"
+- "[[G3588]]"
+- "[[G5185]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5560]]"
+- "[[G3004]]"
+- "[[G3756]]"
+- "[[G1525]]"
+- "[[G4622]]"
+- "[[G5602]]"
+---
+
 **LXX 2 Samuel 5:6** 
 <small><sub>**LXX:**</sub></small>
 And the king went forth, and all  his men unto Jerusalem, to the Jebusite  dwelling in the land. And it was said  to David, You shall not enter here. For the blind and the lame opposed, saying, David shall not enter here. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0565\|απήλθε]] [[G3588\|ο]] [[G0935\|βασιλεύς]] [[G2532\|και]] [[G3956\|πάντας]] [[G3588\|οι]] [[G0435\|άνδρες]] [[G1473\|αυτού]] [[G1519\|εις]] [[G2419\|Ιερουσαλήμ]] [[G4314\|προς]] [[G3588\|τον]] [[H2983\|Ιεβουσαίον]] [[G3588\|τον]] [[G2730\|κατοικούντα]] [[G3588\|την]] [[G1093\|γην]] [[G2532\|και]] [[G2046\|ερρέθη]] [[G3588\|τω]] [[G4622\|Δαυίδ]] [[G3756\|ουκ]] [[G1525\|εισελεύση]] [[G5602\|ώδε]] [[G3754\|ότι]] [[G0436\|αντέστησαν]] [[G3588\|οι]] [[G5185\|τυφλοί]] [[G2532\|και]] [[G3588\|οι]] [[G5560\|χωλοί]] [[G3004\|λέγοντες]] [[G3756\|ουκ]] [[G1525\|εισελεύσεται]] [[G4622\|Δαυίδ]] [[G5602\|ώδε]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic JEBUSITES|JEBUSITES]] • [[topic JERUSALEM|JERUSALEM]] • [[topic SIEGE|SIEGE]] • [[topic ZION|ZION]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.5.5|<< 2 Samuel 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.5.7|2 Samuel 5:7 >>]]</td></tr></table>
 
@@ -42,6 +113,6 @@ And the king went forth, and all  his men unto Jerusalem, to the Jebusite  dwell
 | enter | **<big>[[G1525\|εισελεύσεται]]</big>** |
 | David | **<big>[[G4622\|Δαυίδ]]</big>** |
 | here. | **<big>[[G5602\|ώδε]]</big>** |
-[[2Sam.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.5.5|<< 2 Samuel 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.5.7|2 Samuel 5:7 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.5.5|<< 2 Samuel 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.5.7|2 Samuel 5:7 >>]]</td></tr></table>
 
 

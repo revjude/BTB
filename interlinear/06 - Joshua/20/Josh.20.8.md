@@ -1,8 +1,70 @@
+---
+title: Joshua 20:8
+type: Verse
+kjv: "And on the other side Jordan by Jericho eastward, they assigned Bezer in the wilderness upon the plain out of the tribe of Reuben, and Ramoth in Gilead out of the tribe of Gad, and Golan in Bashan out of the tribe of Manasseh."
+bsb: "And beyond the Jordan, east of Jericho, they designated Bezer on the wilderness plateau from the tribe of Reuben, Ramoth in Gilead from the tribe of Gad, and Golan in Bashan from the tribe of Manasseh."
+hebrew: "וּמֵעֵ֜בֶר לְיַרְדֵּ֤ן יְרִיחוֹ֙ מִזְרָ֔חָה נָתְנ֞וּ אֶת־ בֶּ֧צֶר בַּמִּדְבָּ֛ר בַּמִּישֹׁ֖ר מִמַּטֵּ֣ה רְאוּבֵ֑ן וְאֶת־ רָאמֹ֤ת בַּגִּלְעָד֙ מִמַּטֵּה־ גָ֔ד וְאֶת־ גּוֹלָ֥ן בַּבָּשָׁ֖ן מִמַּטֵּ֥ה מְנַשֶּֽׁה׃"
+pericope: "[[Josh.20.1 Six Cities of Refuge|Six Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 20
+book/chapter: "[[Josh.20|Joshua 20]]"
+chronological_order: 250
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]]"
+- "[[topic BEZER|BEZER]]"
+- "[[topic GOLAN|GOLAN]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]"
+- "[[topic REFUGE|REFUGE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H5676H]]"
+- "[[H9005]]"
+- "[[H3383]]"
+- "[[H3405G]]"
+- "[[H4217H]]"
+- "[[H9011]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1221G]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H4334]]"
+- "[[H4294H]]"
+- "[[H7205]]"
+- "[[H7216H]]"
+- "[[H1568G]]"
+- "[[H1410G]]"
+- "[[H1474]]"
+- "[[H1316]]"
+- "[[H4519G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Joshua 20:8**<big><big>[[Josh.20.1 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And on the other side Jordan by Jericho eastward, they assigned Bezer in the wilderness upon the plain out of the tribe of Reuben, and Ramoth in Gilead out of the tribe of Gad, and Golan in Bashan out of the tribe of Manasseh.
 <small><sub>**BSB:**</sub></small>
 And beyond the Jordan, east of Jericho, they designated Bezer on the wilderness plateau from the tribe of Reuben, Ramoth in Gilead from the tribe of Gad, and Golan in Bashan from the tribe of Manasseh.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מֵ]][[H5676H\|עֵ֜בֶר]] [[H9005\|לְ]][[H3383\|יַרְדֵּ֤ן]] [[H3405G\|יְרִיחוֹ֙]] [[H4217H\|מִזְרָ֔חָ]][[H9011\|ה]] [[H5414H\|נָתְנ֞וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1221G\|בֶּ֧צֶר]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֛ר]] [[H9003\|בַּ]][[H4334\|מִּישֹׁ֖ר]] [[H9006\|מִ]][[H4294H\|מַּטֵּ֣ה]] [[H7205\|רְאוּבֵ֑ן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7216H\|רָאמֹ֤ת]] [[H9003\|בַּ]][[H1568G\|גִּלְעָד֙]] [[H9006\|מִ]][[H4294H\|מַּטֵּה]][[H9014\|־]] [[H1410G\|גָ֔ד]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1474\|גּוֹלָ֥ן]] [[H9003\|בַּ]][[H1316\|בָּשָׁ֖ן]] [[H9006\|מִ]][[H4294H\|מַּטֵּ֥ה]] [[H4519G\|מְנַשֶּֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]] • [[topic BEZER|BEZER]] • [[topic GOLAN|GOLAN]] • [[topic HOMICIDE|HOMICIDE]] • [[topic RAMOTH-GILEAD|RAMOTH-GILEAD]] • [[topic REFUGE|REFUGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.20.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.20.7|<< Joshua 20:7]]</td><td align="center" style="border:none;">[[Josh.20|Joshua 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.20.9|Joshua 20:9 >>]]</td></tr></table>
 

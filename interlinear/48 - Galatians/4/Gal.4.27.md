@@ -1,10 +1,61 @@
+---
+title: Galatians 4:27
+type: Verse
+kjv: "For it is written, Rejoice, thou barren that bearest not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband."
+bsb: "For it is written: “Rejoice, O barren woman, who bears no children; break forth and cry aloud, you who have never travailed; because more are the children of the desolate woman than of her who has a husband.”"
+greek: "γέγραπται γάρ· εὐφράνθητι στεῖρα ἡ οὐ τίκτουσα, ῥῆξον καὶ βόησον ἡ οὐκ ὠδίνουσα, ὅτι πολλὰ τὰ τέκνα τῆς ἐρήμου μᾶλλον ἢ τῆς ἐχούσης τὸν ἄνδρα."
+pericope: "[[Gal.4.21 Hagar and Sarah|Hagar and Sarah]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 4
+book/chapter: "[[Gal.4|Galatians 4]]"
+chronological_order: 1042
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G1125]]"
+- "[[G1063]]"
+- "[[G2165]]"
+- "[[G4723]]"
+- "[[G3588]]"
+- "[[G3756]]"
+- "[[G5088]]"
+- "[[G4486]]"
+- "[[G2532]]"
+- "[[G0994]]"
+- "[[G5605]]"
+- "[[G3754H]]"
+- "[[G4183]]"
+- "[[G5043]]"
+- "[[G2048]]"
+- "[[G3123G]]"
+- "[[G2228]]"
+- "[[G2192]]"
+- "[[G0435H]]"
+texts:
+- NKO
+---
+
 **Galatians 4:27**<big><big>[[Gal.4.21 Hagar and Sarah|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For it is written, Rejoice, [thou] barren that bearest not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband.
 <small><sub>**BSB:**</sub></small>
 For it is written: “Rejoice, O barren woman, who bears no children; break forth and cry aloud, you who have never travailed; because more are the children of the desolate woman than of her who has a husband.”
-<small><sub>**Literal:**</sub></small>
-It has been written for: do rejoice O barren woman you who [are] not bearing, do break forth and do call aloud you who [are] not travailing, because many [are] the children of the desolate woman more than of [her] who having the husband.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.26|<< Galatians 4:26]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.28|Galatians 4:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1125\|γέγραπται]]  [[G1063\|γάρ·]]  [[G2165\|εὐφράνθητι]]  [[G4723\|στεῖρα]]  [[G3588\|ἡ]]  [[G3756\|οὐ]]  [[G5088\|τίκτουσα,]]  [[G4486\|ῥῆξον]]  [[G2532\|καὶ]]  [[G0994\|βόησον]]  [[G3588\|ἡ]]  [[G3756\|οὐκ]]  [[G5605\|ὠδίνουσα,]]  [[G3754H\|ὅτι]]  [[G4183\|πολλὰ]]  [[G3588\|τὰ]]  [[G5043\|τέκνα]]  [[G3588\|τῆς]]  [[G2048\|ἐρήμου]]  [[G3123G\|μᾶλλον]]  [[G2228\|ἢ]]  [[G3588\|τῆς]]  [[G2192\|ἐχούσης]]  [[G3588\|τὸν]]  [[G0435H\|ἄνδρα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic PARABLES|PARABLES]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.26|<< Galatians 4:26]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.28|Galatians 4:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Galatians 4:27** is...
 > $\quad$ referencing: [[LXX.Isa.54.1|Isa 54:1]]

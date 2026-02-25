@@ -1,10 +1,63 @@
+---
+title: Acts 9:18
+type: Verse
+kjv: "And immediately there fell from his eyes as it had been scales: and he received sight forthwith, and arose, and was baptized."
+bsb: "At that instant, something like scales fell from Saul’s eyes, and his sight was restored. He got up and was baptized,"
+greek: "καὶ εὐθέως ἀπέπεσαν αὐτοῦ ἀπὸ τῶν ὀφθαλμῶν ὡς λεπίδες, ἀνέβλεψέν τε παραχρῆμα καὶ ἀναστὰς ἐβαπτίσθη,"
+pericope: "[[Acts.9.10 Ananias Baptizes Saul|Ananias Baptizes Saul]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 9
+book/chapter: "[[Acts.9|Acts 9]]"
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANANIAS|ANANIAS]]"
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic HEART|HEART]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SCALES|SCALES]]"
+- "[[topic SYRIA|SYRIA]]"
+strongs:
+- "[[G2532]]"
+- "[[G2112]]"
+- "[[G0634]]"
+- "[[G0846]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G5613]]"
+- "[[G3013]]"
+- "[[G0308]]"
+- "[[G5037]]"
+- "[[G3916]]"
+- "[[G0450]]"
+- "[[G0907]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **Acts 9:18**<big><big>[[Acts.9.10 Ananias Baptizes Saul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And immediately there fell from his eyes as it had been scales: and he received sight forthwith, and arose, and was baptized.
 <small><sub>**BSB:**</sub></small>
 At that instant, something like scales fell from Saul’s eyes, and his sight was restored. He got up and was baptized,
-<small><sub>**Literal:**</sub></small>
-And immediately fell of him from the eyes as scales, he regained his sight also immediately And having risen up he was baptized,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.17|<< Acts 9:17]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.19|Acts 9:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2112\|εὐθέως]]  [[G0634\|ἀπέπεσαν]]  [[G0846\|αὐτοῦ]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G3788\|ὀφθαλμῶν]]  [[G5613\|ὡς]]  [[G3013\|λεπίδες,]]  [[G0308\|ἀνέβλεψέν]]  [[G5037\|τε]]  [[G3916\|παραχρῆμα]]  [[G2532\|καὶ]]  [[G0450\|ἀναστὰς]]  [[G0907\|ἐβαπτίσθη,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANANIAS|ANANIAS]] • [[topic BAPTISM|BAPTISM]] • [[topic CONVERTS|CONVERTS]] • [[topic HEART|HEART]] • [[topic MIRACLES|MIRACLES]] • [[topic PAUL|PAUL]] • [[topic REGENERATION|REGENERATION]] • [[topic SCALES|SCALES]] • [[topic SYRIA|SYRIA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.17|<< Acts 9:17]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.19|Acts 9:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

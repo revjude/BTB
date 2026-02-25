@@ -1,8 +1,54 @@
+---
+title: Jeremiah 31:2
+type: Verse
+kjv: "Thus saith the LORD, The people which were left of the sword found grace in the wilderness; even Israel, when I went to cause him to rest."
+bsb: "This is what the LORD says: “The people who survived the sword found favor in the wilderness when Israel went to find rest.”"
+hebrew: "כֹּ֚ה אָמַ֣ר יְהוָ֔ה מָצָ֥א חֵן֙ בַּמִּדְבָּ֔ר עַ֖ם שְׂרִ֣ידֵי חָ֑רֶב הָל֥וֹךְ לְהַרְגִּיע֖וֹ יִשְׂרָאֵֽל׃"
+pericope: "[[Jer.31.1 Mourning Turned to Joy|Mourning Turned to Joy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H4672]]"
+- "[[H2580]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H5971A]]"
+- "[[H8300]]"
+- "[[H2719]]"
+- "[[H1980H]]"
+- "[[H9005]]"
+- "[[H7280B]]"
+- "[[H9033]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 31:2**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD, The people [which were] left of the sword found grace in the wilderness; [even] Israel, when I went to cause him to rest.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: “The people who survived the sword found favor in the wilderness when Israel went to find rest.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H4672\|מָצָ֥א]] [[H2580\|חֵן֙]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֔ר]] [[H5971A\|עַ֖ם]] [[H8300\|שְׂרִ֣ידֵי]] [[H2719\|חָ֑רֶב]] [[H1980H\|הָל֥וֹךְ]] [[H9005\|לְ]][[H7280B\|הַרְגִּיע֖]][[H9033\|וֹ]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.1|<< Jeremiah 31:1]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.3|Jeremiah 31:3 >>]]</td></tr></table>
 

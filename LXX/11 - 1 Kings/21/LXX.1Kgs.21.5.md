@@ -1,6 +1,66 @@
+---
+title: LXX 1 Kings 21:5
+type: Verse
+lxx: "And Jezebel his wife entered to him, and she said to him, Why  is your spirit disturbed, and you are not eating bread?"
+greek: "και εισήλθεν Ιεζάβελ η γυνή αυτού προς αυτόν και ελάλησε προς αυτόν τι το πνεύμα σου τεταράκται και ουκ ει συ εσθίων άρτον"
+original_language: Greek
+testament: Old
+book: 1 Kings
+chapter: 21
+book/chapter: "[[1Kgs.21|1 Kings 21]]"
+chronological_order: 567
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JEZEBEL|JEZEBEL]]"
+- "[[topic KING|KING]]"
+- "[[topic NABOTH|NABOTH]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1525]]"
+- "[[G2403]]"
+- "[[G3588]]"
+- "[[G1135]]"
+- "[[G1473]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2980]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G5100]]"
+- "[[G3588]]"
+- "[[G4151]]"
+- "[[G1473]]"
+- "[[G5015]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G1473]]"
+- "[[G2068]]"
+- "[[G0740]]"
+---
+
 **LXX 1 Kings 21:5** 
 <small><sub>**LXX:**</sub></small>
 And Jezebel his wife entered to him, and she said to him, Why  \[is\] your spirit disturbed, and you are not eating bread? 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1525\|εισήλθεν]] [[G2403\|Ιεζάβελ]] [[G3588\|η]] [[G1135\|γυνή]] [[G1473\|αυτού]] [[G4314\|προς]] [[G1473\|αυτόν]] [[G2532\|και]] [[G2980\|ελάλησε]] [[G4314\|προς]] [[G1473\|αυτόν]] [[G5100\|τι]] [[G3588\|το]] [[G4151\|πνεύμα]] [[G1473\|σου]] [[G5015\|τεταράκται]] [[G2532\|και]] [[G3756\|ουκ]] [[G1510\|ει]] [[G1473\|συ]] [[G2068\|εσθίων]] [[G0740\|άρτον]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JEZEBEL|JEZEBEL]] • [[topic KING|KING]] • [[topic NABOTH|NABOTH]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Kgs.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.4|<< 1 Kings 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.6|1 Kings 21:6 >>]]</td></tr></table>
 
@@ -26,6 +86,6 @@ And Jezebel his wife entered to him, and she said to him, Why  \[is\] your spiri
 | you | **<big>[[G1473\|συ]]</big>** |
 | eating | **<big>[[G2068\|εσθίων]]</big>** |
 | bread? | **<big>[[G0740\|άρτον]]</big>** |
-[[1Kgs.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.4|<< 1 Kings 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.6|1 Kings 21:6 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.4|<< 1 Kings 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.6|1 Kings 21:6 >>]]</td></tr></table>
 
 

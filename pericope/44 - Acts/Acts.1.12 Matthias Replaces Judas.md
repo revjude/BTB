@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Matthias Replaces Judas
+type: Pericope
 pericope: "[[Acts.1.12 Matthias Replaces Judas|Matthias Replaces Judas]]"
-verse_count: 15
+original_language: Greek
 testament: New
 book: Acts
 chapter: 1
 book/chapter: "[[Acts.1|Acts 1]]"
-genre:
+chronological_order: 1019
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 15
 verses:
 - "[[Acts.1.12]]"
 - "[[Acts.1.13]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Acts.1.26]]"
 ---
 
-[[Acts.1|Acts 1:12 - Acts 1:26]]
+<small>[[Acts.1|Acts 1:12-26]]</small>
 *Matthias Replaces Judas*
 
 [[Acts.1.12|12]] Then returned they unto Jerusalem from the mount called Olivet, which is from Jerusalem a sabbath day’s journey.

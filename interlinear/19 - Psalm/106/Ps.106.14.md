@@ -1,8 +1,54 @@
+---
+title: Psalm 106:14
+type: Verse
+kjv: "But lusted exceedingly in the wilderness, and tempted God in the desert."
+bsb: "They craved intensely in the wilderness and tested God in the desert."
+hebrew: "וַיִּתְאַוּ֣וּ תַ֭אֲוָה בַּמִּדְבָּ֑ר וַיְנַסּוּ־ אֵ֝֗ל בִּֽישִׁימֽוֹן׃"
+pericope: "[[Ps.106.1 Give Thanks to the LORD, for He Is Good|Give Thanks to the LORD, for He Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 106
+book/chapter: "[[Ps.106|Psalm 106]]"
+chronological_order: 530
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0183]]"
+- "[[H8378]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H5254G]]"
+- "[[H9014]]"
+- "[[H0410G]]"
+- "[[H3452H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 106:14**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But lusted exceedingly in the wilderness, and tempted God in the desert.
 <small><sub>**BSB:**</sub></small>
 They craved intensely in the wilderness and tested God in the desert.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0183\|יִּתְאַוּ֣וּ]] [[H8378\|תַ֭אֲוָה]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֑ר]] [[H9001\|וַ]][[H5254G\|יְנַסּוּ]][[H9014\|־]] [[H0410G\|אֵ֝֗ל]] [[H9003\|בִּֽ]][[H3452H\|ישִׁימֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.13|<< Psalms 106:13]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.15|Psalms 106:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

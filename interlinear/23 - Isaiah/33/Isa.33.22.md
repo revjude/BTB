@@ -1,8 +1,57 @@
+---
+title: Isaiah 33:22
+type: Verse
+kjv: "For the LORD is our judge, the LORD is our lawgiver, the LORD is our king; he will save us."
+bsb: "For the LORD is our Judge, the LORD is our lawgiver, the LORD is our King. It is He who will save us."
+hebrew: "כִּ֤י יְהוָה֙ שֹׁפְטֵ֔נוּ יְהוָ֖ה מְחֹקְקֵ֑נוּ יְהוָ֥ה מַלְכֵּ֖נוּ ה֥וּא יוֹשִׁיעֵֽנוּ׃"
+pericope: "[[Isa.33.1 The LORD Is Exalted|The LORD Is Exalted]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 33
+book/chapter: "[[Isa.33|Isaiah 33]]"
+chronological_order: 676
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H8199]]"
+- "[[H9035]]"
+- "[[H2710]]"
+- "[[H4428G]]"
+- "[[H9025]]"
+- "[[H1931]]"
+- "[[H3467]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 33:22**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD [is] our judge, the LORD [is] our lawgiver, the LORD [is] our king; he will save us.
 <small><sub>**BSB:**</sub></small>
 For the LORD is our Judge, the LORD is our lawgiver, the LORD is our King. It is He who will save us.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H3068G\|יְהוָה֙]] [[H8199\|שֹׁפְטֵ֔]][[H9035\|נוּ]] [[H3068G\|יְהוָ֖ה]] [[H2710\|מְחֹקְקֵ֑]][[H9035\|נוּ]] [[H3068G\|יְהוָ֥ה]] [[H4428G\|מַלְכֵּ֖]][[H9025\|נוּ]] [[H1931\|ה֥וּא]] [[H3467\|יוֹשִׁיעֵֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.21|<< Isaiah 33:21]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.23|Isaiah 33:23 >>]]</td></tr></table>
 

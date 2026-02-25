@@ -1,8 +1,68 @@
+---
+title: Exodus 5:3
+type: Verse
+kjv: "And they said, The God of the Hebrews hath met with us: let us go, we pray thee, three days’ journey into the desert, and sacrifice unto the LORD our God; lest he fall upon us with pestilence, or with the sword."
+bsb: "“The God of the Hebrews has met with us,” they answered. “Please let us go on a three-day journey into the wilderness to sacrifice to the LORD our God, or He may strike us with plagues or with the sword.”"
+hebrew: "וַיֹּ֣אמְר֔וּ אֱלֹהֵ֥י הָעִבְרִ֖ים נִקְרָ֣א עָלֵ֑ינוּ נֵ֣לֲכָה נָּ֡א דֶּרֶךְ֩ שְׁלֹ֨שֶׁת יָמִ֜ים בַּמִּדְבָּ֗ר וְנִזְבְּחָה֙ לַֽיהוָ֣ה אֱלֹהֵ֔ינוּ פֶּ֨ן־ יִפְגָּעֵ֔נוּ בַּדֶּ֖בֶר א֥וֹ בֶחָֽרֶב׃"
+pericope: "[[Exod.5.1 Pharaoh’s First Refusal|Pharaoh’s First Refusal]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 5
+book/chapter: "[[Exod.5|Exodus 5]]"
+chronological_order: 97
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0430G]]"
+- "[[H9009]]"
+- "[[H5680]]"
+- "[[H7122G]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H1980G]]"
+- "[[H4994]]"
+- "[[H1870L]]"
+- "[[H7969]]"
+- "[[H3117G]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H9002]]"
+- "[[H2076]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9025]]"
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H6293]]"
+- "[[H1698]]"
+- "[[H0176A]]"
+- "[[H2719]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 5:3**<big><big>[[Exod.5.1 Pharaoh’s First Refusal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said, The God of the Hebrews hath met with us: let us go, we pray thee, three days’ journey into the desert, and sacrifice unto the LORD our God; lest he fall upon us with pestilence, or with the sword.
 <small><sub>**BSB:**</sub></small>
 “The God of the Hebrews has met with us,” they answered. “Please let us go on a three-day journey into the wilderness to sacrifice to the LORD our God, or He may strike us with plagues or with the sword.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמְר֔וּ]] [[H0430G\|אֱלֹהֵ֥י]] [[H9009\|הָ]][[H5680\|עִבְרִ֖ים]] [[H7122G\|נִקְרָ֣א]] [[H5921A\|עָלֵ֑י]][[H9035\|נוּ]] [[H1980G\|נֵ֣לֲכָה]] [[H4994\|נָּ֡א]] [[H1870L\|דֶּרֶךְ֩]] [[H7969\|שְׁלֹ֨שֶׁת]] [[H3117G\|יָמִ֜ים]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֗ר]] [[H9002\|וְ]][[H2076\|נִזְבְּחָה֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֣ה]] [[H0430G\|אֱלֹהֵ֔י]][[H9025\|נוּ]] [[H6435\|פֶּ֨ן]][[H9014\|־]] [[H6293\|יִפְגָּעֵ֔]][[H9035\|נוּ]] [[H9003\|בַּ]][[H1698\|דֶּ֖בֶר]] [[H0176A\|א֥וֹ]] [[H9003\|בֶ]][[H2719\|חָֽרֶב]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5.2|<< Exodus 5:2]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.4|Exodus 5:4 >>]]</td></tr></table>
 

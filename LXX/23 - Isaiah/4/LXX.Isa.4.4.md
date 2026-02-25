@@ -1,6 +1,71 @@
+---
+title: LXX Isaiah 4:4
+type: Verse
+lxx: "For the lord shall thoroughly wash the filth of the sons and the daughters of Zion; and he shall clear out the blood of Jerusalem from its midst by a spirit of judgment, and a spirit of burning."
+greek: "ότι εκπλυνεί κύριος τον ρύπον των υιών και των θυγατέρων Σιών και το αίμα Ιερουσαλήμ εκκαθαριεί εκ μέσου αυτής εν πνεύματι κρίσεως και πνεύματι καύσεως"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 4
+book/chapter: "[[Isa.4|Isaiah 4]]"
+chronological_order: 612
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WASHING|WASHING]]"
+strongs:
+- "[[G3754]]"
+- "[[G7132]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G4509]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2364]]"
+- "[[G4622]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0129]]"
+- "[[G2419]]"
+- "[[G7096]]"
+- "[[G1537]]"
+- "[[G3319]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G4151]]"
+- "[[G2920]]"
+- "[[G2532]]"
+- "[[G4151]]"
+- "[[G2740]]"
+---
+
 **LXX Isaiah 4:4** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] <span class="smallcaps">lord</span> shall thoroughly wash the filth of the sons and the daughters of Zion; and he shall clear out the blood of Jerusalem from its midst by a spirit of judgment, and a spirit of burning. 
+<small><sub>**Greek:**</sub></small>
+[[G3754\|ότι]] [[G7132\|εκπλυνεί]] [[G2962\|κύριος]] [[G3588\|τον]] [[G4509\|ρύπον]] [[G3588\|των]] [[G5207\|υιών]] [[G2532\|και]] [[G3588\|των]] [[G2364\|θυγατέρων]] [[G4622\|Σιών]] [[G2532\|και]] [[G3588\|το]] [[G0129\|αίμα]] [[G2419\|Ιερουσαλήμ]] [[G7096\|εκκαθαριεί]] [[G1537\|εκ]] [[G3319\|μέσου]] [[G1473\|αυτής]] [[G1722\|εν]] [[G4151\|πνεύματι]] [[G2920\|κρίσεως]] [[G2532\|και]] [[G4151\|πνεύματι]] [[G2740\|καύσεως]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLESSING|BLESSING]] • [[topic CHURCH|CHURCH]] • [[topic GOSPEL|GOSPEL]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic REGENERATION|REGENERATION]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WASHING|WASHING]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.4.3|<< Isaiah 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.4.5|Isaiah 4:5 >>]]</td></tr></table>
 
@@ -30,6 +95,6 @@ For \[the\] <span class="smallcaps">lord</span> shall thoroughly wash the filth 
 | and | **<big>[[G2532\|και]]</big>** |
 | a spirit | **<big>[[G4151\|πνεύματι]]</big>** |
 | of burning. | **<big>[[G2740\|καύσεως]]</big>** |
-[[Isa.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.4.3|<< Isaiah 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.4.5|Isaiah 4:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.4.3|<< Isaiah 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.4.5|Isaiah 4:5 >>]]</td></tr></table>
 
 

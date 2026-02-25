@@ -1,8 +1,55 @@
+---
+title: Psalm 130:6
+type: Verse
+kjv: "My soul waiteth for the Lord more than they that watch for the morning: I say, more than they that watch for the morning."
+bsb: "My soul waits for the Lord more than watchmen wait for the morning—more than watchmen wait for the morning."
+hebrew: "נַפְשִׁ֥י לַֽאדֹנָ֑י מִשֹּׁמְרִ֥ים לַ֝בֹּ֗קֶר שֹׁמְרִ֥ים לַבֹּֽקֶר׃"
+pericope: "[[Ps.130.1 Out of the Depths|Out of the Depths]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 130
+book/chapter: "[[Ps.130|Psalm 130]]"
+chronological_order: 891
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic WAITING|WAITING]]"
+strongs:
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H0136]]"
+- "[[H9006]]"
+- "[[H8104H]]"
+- "[[H1242]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 130:6**<big><big>[[Ps.130.1 Out of the Depths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My soul [waiteth] for the Lord more than they that watch for the morning: [I say, more than] they that watch for the morning.
 <small><sub>**BSB:**</sub></small>
 My soul waits for the Lord more than watchmen wait for the morning—more than watchmen wait for the morning.
+<small><sub>**Hebrew:**</sub></small>
+[[H5315G\|נַפְשִׁ֥]][[H9020\|י]] [[H9005\|לַֽ]][[H0136\|אדֹנָ֑י]] [[H9006\|מִ]][[H8104H\|שֹּׁמְרִ֥ים]] [[H9005\|לַ֝]][[H1242\|בֹּ֗קֶר]] [[H8104H\|שֹׁמְרִ֥ים]] [[H9005\|לַ]][[H1242\|בֹּֽקֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESIRE|DESIRE]] • [[topic FAITH|FAITH]] • [[topic SEEKERS|SEEKERS]] • [[topic WAITING|WAITING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.130.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.130.5|<< Psalms 130:5]]</td><td align="center" style="border:none;">[[Ps.130|Psalms 130]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.130.7|Psalms 130:7 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: Psalm 107:28
+type: Verse
+kjv: "Then they cry unto the LORD in their trouble, and he bringeth them out of their distresses."
+bsb: "Then they cried out to the LORD in their trouble, and He brought them out of their distress."
+hebrew: "וַיִּצְעֲק֣וּ אֶל־ יְ֭הוָה בַּצַּ֣ר לָהֶ֑ם וּֽ֝מִמְּצֽוּקֹתֵיהֶ֗ם יוֹצִיאֵֽם׃"
+pericope: "[[Ps.107.1 Thanksgiving for Deliverance|Thanksgiving for Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 107
+book/chapter: "[[Ps.107|Psalm 107]]"
+chronological_order: 872
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]"
+strongs:
+- "[[H9001]]"
+- "[[H6817]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H6862B]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H4691]]"
+- "[[H9028]]"
+- "[[H3318H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 107:28**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they cry unto the LORD in their trouble, and he bringeth them out of their distresses.
 <small><sub>**BSB:**</sub></small>
 Then they cried out to the LORD in their trouble, and He brought them out of their distress.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6817\|יִּצְעֲק֣וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְ֭הוָה]] [[H9003\|בַּ]][[H6862B\|צַּ֣ר]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H9002\|וּֽ֝]][[H9006\|מִ]][[H4691\|מְּצֽוּקֹתֵי]][[H9028\|הֶ֗ם]] [[H3318H\|יוֹצִיאֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic COMMERCE|COMMERCE]] • [[topic GOD|GOD]] • [[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.27|<< Psalms 107:27]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.29|Psalms 107:29 >>]]</td></tr></table>
 

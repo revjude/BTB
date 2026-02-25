@@ -1,10 +1,56 @@
+---
+title: Jude 1:15
+type: Verse
+kjv: "To execute judgment upon all, and to convince all that are ungodly among them of all their ungodly deeds which they have ungodly committed, and of all their hard speeches which ungodly sinners have spoken against him."
+bsb: "to execute judgment on everyone, and to convict all the ungodly of every ungodly act of wickedness and every harsh word spoken against Him by ungodly sinners.”"
+greek: "ποιῆσαι κρίσιν κατὰ πάντων καὶ ἐλέγξαι πᾶσαν τοὺς ψυχὴν αὐτῶν περὶ πάντων τῶν ἔργων ἀσεβείας αὐτῶν ὧν ἠσέβησαν, καὶ περὶ πάντων τῶν σκληρῶν ὧν ἐλάλησαν κατ᾽ αὐτοῦ ἁμαρτωλοὶ ἀσεβεῖς."
+pericope: "[[Jude.1.3 God’s Judgment on the Ungodly|God’s Judgment on the Ungodly]]"
+original_language: Greek
+testament: New
+book: Jude
+chapter: 1
+book/chapter: "[[Jude.1|Jude 1]]"
+chronological_order: 1160
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- polemical
+strongs:
+- "[[G4160G]]"
+- "[[G2920]]"
+- "[[G2596]]"
+- "[[G3956]]"
+- "[[G2532]]"
+- "[[G1651]]"
+- "[[G3588]]"
+- "[[G5590G]]"
+- "[[G0846]]"
+- "[[G4012]]"
+- "[[G2041]]"
+- "[[G0763]]"
+- "[[G3739]]"
+- "[[G0764]]"
+- "[[G4642]]"
+- "[[G2980]]"
+- "[[G0268]]"
+- "[[G0765]]"
+texts:
+- NKO
+- N(K)O
+- ko
+- K
+---
+
 **Jude 1:15**<big><big>[[Jude.1.3 God’s Judgment on the Ungodly|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 To execute judgment upon all, and to convince all that are ungodly among them of all their ungodly deeds which they have ungodly committed, and of all their hard [speeches] which ungodly sinners have spoken against him.
 <small><sub>**BSB:**</sub></small>
 to execute judgment on everyone, and to convict all the ungodly of every ungodly act of wickedness and every harsh word spoken against Him by ungodly sinners.”
-<small><sub>**Literal:**</sub></small>
-to carry out judgment against all and to convict every <the> soul of them concerning all the works of ungodliness of them in which they have been ungodly, and concerning all the harsh [things] that spoke against Him sinners ungodly.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.14|<< Jude 1:14]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.16|Jude 1:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4160G\|ποιῆσαι]]  [[G2920\|κρίσιν]]  [[G2596\|κατὰ]]  [[G3956\|πάντων]]  [[G2532\|καὶ]]  [[G1651\|ἐλέγξαι]]  [[G3956\|πᾶσαν]]  [[G3588\|τοὺς]]  [[G5590G\|ψυχὴν]]  [[G0846\|αὐτῶν]]  [[G4012\|περὶ]]  [[G3956\|πάντων]]  [[G3588\|τῶν]]  [[G2041\|ἔργων]]  [[G0763\|ἀσεβείας]]  [[G0846\|αὐτῶν]]  [[G3739\|ὧν]]  [[G0764\|ἠσέβησαν,]]  [[G2532\|καὶ]]  [[G4012\|περὶ]]  [[G3956\|πάντων]]  [[G3588\|τῶν]]  [[G4642\|σκληρῶν]]  [[G3739\|ὧν]]  [[G2980\|ἐλάλησαν]]  [[G2596\|κατ᾽]]  [[G0846\|αὐτοῦ]]  [[G0268\|ἁμαρτωλοὶ]]  [[G0765\|ἀσεβεῖς.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.14|<< Jude 1:14]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.16|Jude 1:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

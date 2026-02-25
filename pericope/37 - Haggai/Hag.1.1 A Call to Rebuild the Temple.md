@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Call to Rebuild the Temple
+type: Pericope
 pericope: "[[Hag.1.1 A Call to Rebuild the Temple|A Call to Rebuild the Temple]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Haggai
 chapter: 1
 book/chapter: "[[Hag.1|Haggai 1]]"
-genre:
+chronological_order: 855
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - post exilic
+verse_count: 11
 verses:
 - "[[Hag.1.1]]"
 - "[[Hag.1.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Hag.1.11]]"
 ---
 
-[[Hag.1|Haggai 1:1 - Haggai 1:11]]
+<small>[[Hag.1|Haggai 1:1-11]]</small>
 *A Call to Rebuild the Temple*
 
 [[Hag.1.1|1]] In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the LORD by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying,

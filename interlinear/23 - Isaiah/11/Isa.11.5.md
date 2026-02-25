@@ -1,8 +1,56 @@
+---
+title: Isaiah 11:5
+type: Verse
+kjv: "And righteousness shall be the girdle of his loins, and faithfulness the girdle of his reins."
+bsb: "Righteousness will be the belt around His hips, and faithfulness the sash around His waist."
+hebrew: "וְהָ֥יָה צֶ֖דֶק אֵז֣וֹר מָתְנָ֑יו וְהָאֱמוּנָ֖ה אֵז֥וֹר חֲלָצָֽיו׃"
+pericope: "[[Isa.11.1 The Root of Jesse|The Root of Jesse]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 11
+book/chapter: "[[Isa.11|Isaiah 11]]"
+chronological_order: 621
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GIRDLE|GIRDLE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H6664G]]"
+- "[[H0232]]"
+- "[[H4975]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0530]]"
+- "[[H2504]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 11:5**<big><big>[[Isa.11.1 The Root of Jesse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And righteousness shall be the girdle of his loins, and faithfulness the girdle of his reins.
 <small><sub>**BSB:**</sub></small>
 Righteousness will be the belt around His hips, and faithfulness the sash around His waist.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָ֥יָה]] [[H6664G\|צֶ֖דֶק]] [[H0232\|אֵז֣וֹר]] [[H4975\|מָתְנָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H9009\|הָ]][[H0530\|אֱמוּנָ֖ה]] [[H0232\|אֵז֥וֹר]] [[H2504\|חֲלָצָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic GIRDLE|GIRDLE]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.11.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.4|<< Isaiah 11:4]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.11.6|Isaiah 11:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

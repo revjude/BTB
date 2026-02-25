@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Readiness at Any Hour
+type: Pericope
 pericope: "[[Mark.13.32 Readiness at Any Hour|Readiness at Any Hour]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Mark
 chapter: 13
 book/chapter: "[[Mark.13|Mark 13]]"
-genre:
+chronological_order: 998
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 6
 verses:
 - "[[Mark.13.32]]"
 - "[[Mark.13.33]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Mark.13.37]]"
 ---
 
-[[Mark.13|Mark 13:32 - Mark 13:37]]
+<small>[[Mark.13|Mark 13:32-37]]</small>
 *Readiness at Any Hour*
 
 [[Mark.13.32|32]] But of that day and \[that\] hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.

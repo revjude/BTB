@@ -1,8 +1,76 @@
+---
+title: Nehemiah 6:1
+type: Verse
+kjv: "Now it came to pass, when Sanballat, and Tobiah, and Geshem the Arabian, and the rest of our enemies, heard that I had builded the wall, and that there was no breach left therein; (though at that time I had not set up the doors upon the gates;)"
+bsb: "When Sanballat, Tobiah, Geshem the Arab, and the rest of our enemies heard that I had rebuilt the wall and not a gap was left—though to that time I had not yet installed the doors in the gates—"
+hebrew: "וַיְהִ֣י כַאֲשֶׁ֣ר נִשְׁמַ֣ע לְסַנְבַלַּ֣ט וְ֠טוֹבִיָּה וּלְגֶ֨שֶׁם הָֽעַרְבִ֜י וּלְיֶ֣תֶר אֹֽיְבֵ֗ינוּ כִּ֤י בָנִ֙יתִי֙ אֶת־ הַ֣חוֹמָ֔ה וְלֹא־ נ֥וֹתַר בָּ֖הּ פָּ֑רֶץ גַּ֚ם עַד־ הָעֵ֣ת הַהִ֔יא דְּלָת֖וֹת לֹא־ הֶעֱמַ֥דְתִּי בַשְּׁעָרִֽים׃"
+pericope: "[[Neh.6.1 Sanballat’s Conspiracy|Sanballat’s Conspiracy]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 6
+book/chapter: "[[Neh.6|Nehemiah 6]]"
+chronological_order: 918
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic GASHMU|GASHMU]]"
+- "[[topic GESHEM|GESHEM]]"
+- "[[topic TOBIAH|TOBIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H8085G]]"
+- "[[H9005]]"
+- "[[H5571]]"
+- "[[H9002]]"
+- "[[H2900I]]"
+- "[[H1654]]"
+- "[[H9009]]"
+- "[[H6163B]]"
+- "[[H3499A]]"
+- "[[H0341]]"
+- "[[H9025]]"
+- "[[H3588A]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2346G]]"
+- "[[H3808]]"
+- "[[H3498]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H6556]]"
+- "[[H1571]]"
+- "[[H5704]]"
+- "[[H6256]]"
+- "[[H1931]]"
+- "[[H1817C]]"
+- "[[H5975G]]"
+- "[[H8179G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 6:1**<big><big>[[Neh.6.1 Sanballat’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now it came to pass, when Sanballat, and Tobiah, and Geshem the Arabian, and the rest of our enemies, heard that I had builded the wall, and [that] there was no breach left therein; (though at that time I had not set up the doors upon the gates;)
 <small><sub>**BSB:**</sub></small>
 When Sanballat, Tobiah, Geshem the Arab, and the rest of our enemies heard that I had rebuilt the wall and not a gap was left—though to that time I had not yet installed the doors in the gates—
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H9004\|כַ]][[H0834D\|אֲשֶׁ֣ר]] [[H8085G\|נִשְׁמַ֣ע]] [[H9005\|לְ]][[H5571\|סַנְבַלַּ֣ט]] [[H9002\|וְ֠]][[H2900I\|טוֹבִיָּה]] [[H9002\|וּ]][[H9005\|לְ]][[H1654\|גֶ֨שֶׁם]] [[H9009\|הָֽ]][[H6163B\|עַרְבִ֜י]] [[H9002\|וּ]][[H9005\|לְ]][[H3499A\|יֶ֣תֶר]] [[H0341\|אֹֽיְבֵ֗י]][[H9025\|נוּ]] [[H3588A\|כִּ֤י]] [[H1129\|בָנִ֙יתִי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ֣]][[H2346G\|חוֹמָ֔ה]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3498\|נ֥וֹתַר]] [[H9003\|בָּ֖]][[H9034\|הּ]] [[H6556\|פָּ֑רֶץ]] [[H1571\|גַּ֚ם]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הָ]][[H6256\|עֵ֣ת]] [[H9009\|הַ]][[H1931\|הִ֔יא]] [[H1817C\|דְּלָת֖וֹת]] [[H3808\|לֹא]][[H9014\|־]] [[H5975G\|הֶעֱמַ֥דְתִּי]] [[H9003\|בַ]][[H8179G\|שְּׁעָרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GASHMU|GASHMU]] • [[topic GESHEM|GESHEM]] • [[topic TOBIAH|TOBIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.5.19|<< Nehemiah 5:19]]</td><td align="center" style="border:none;">[[Neh.6|Nehemiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.6.2|Nehemiah 6:2 >>]]</td></tr></table>
 

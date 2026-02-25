@@ -1,10 +1,60 @@
+---
+title: Acts 14:9
+type: Verse
+kjv: "The same heard Paul speak: who stedfastly beholding him, and perceiving that he had faith to be healed,"
+bsb: "This man was listening to the words of Paul, who looked intently at him and saw that he had faith to be healed."
+greek: "οὗτος ἤκουσεν τοῦ Παύλου λαλοῦντος, ὃς ἀτενίσας αὐτῷ καὶ ἰδὼν ὅτι ἔχει πίστιν τοῦ σωθῆναι,"
+pericope: "[[Acts.14.8 The Visit to Lystra and Derbe|The Visit to Lystra and Derbe]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 14
+book/chapter: "[[Acts.14|Acts 14]]"
+chronological_order: 1032
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic LYCAONIA|LYCAONIA]]"
+- "[[topic LYSTRA|LYSTRA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3778]]"
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G2980]]"
+- "[[G3739]]"
+- "[[G0816]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G3754G]]"
+- "[[G2192]]"
+- "[[G4102G]]"
+- "[[G4982]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 14:9**<big><big>[[Acts.14.8 The Visit to Lystra and Derbe|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The same heard Paul speak: who stedfastly beholding him, and perceiving that he had faith to be healed,
 <small><sub>**BSB:**</sub></small>
 This man was listening to the words of Paul, who looked intently at him and saw that he had faith to be healed.
-<small><sub>**Literal:**</sub></small>
-This [man] heard <the> Paul speaking, who having looked intently at him and having seen that he has faith <the> to be healed,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.8|<< Acts 14:8]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.10|Acts 14:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτος]]  [[G0191\|ἤκουσεν]]  [[G3588\|τοῦ]]  [[G3972G\|Παύλου]]  [[G2980\|λαλοῦντος,]]  [[G3739\|ὃς]]  [[G0816\|ἀτενίσας]]  [[G0846\|αὐτῷ]]  [[G2532\|καὶ]]  [[G1492H\|ἰδὼν]]  [[G3754G\|ὅτι]]  [[G2192\|ἔχει]]  [[G4102G\|πίστιν]]  [[G3588\|τοῦ]]  [[G4982\|σωθῆναι,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic LYCAONIA|LYCAONIA]] • [[topic LYSTRA|LYSTRA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic PAUL|PAUL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.8|<< Acts 14:8]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.10|Acts 14:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

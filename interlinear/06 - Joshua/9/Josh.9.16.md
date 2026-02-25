@@ -1,8 +1,73 @@
+---
+title: Joshua 9:16
+type: Verse
+kjv: "And it came to pass at the end of three days after they had made a league with them, that they heard that they were their neighbours, and that they dwelt among them."
+bsb: "Three days after they had made the treaty with the Gibeonites, the Israelites learned that they were neighbors, living among them."
+hebrew: "וַיְהִ֗י מִקְצֵה֙ שְׁלֹ֣שֶׁת יָמִ֔ים אַחֲרֵ֕י אֲשֶׁר־ כָּרְת֥וּ לָהֶ֖ם בְּרִ֑ית וַֽיִּשְׁמְע֗וּ כִּי־ קְרֹבִ֥ים הֵם֙ אֵלָ֔יו וּבְקִרְבּ֖וֹ הֵ֥ם יֹשְׁבִֽים׃"
+pericope: "[[Josh.9.1 The Deceit of the Gibeonites|The Deceit of the Gibeonites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 9
+book/chapter: "[[Josh.9|Joshua 9]]"
+chronological_order: 239
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MAGNANIMITY|MAGNANIMITY]]"
+- "[[topic OATH|OATH]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic TREATY|TREATY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H7097A]]"
+- "[[H7969]]"
+- "[[H3117G]]"
+- "[[H0310A]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3772H]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H1285]]"
+- "[[H8085G]]"
+- "[[H3588A]]"
+- "[[H7138]]"
+- "[[H1992]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9023]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 9:16**<big><big>[[Josh.9.1 The Deceit of the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass at the end of three days after they had made a league with them, that they heard that they [were] their neighbours, and [that] they dwelt among them.
 <small><sub>**BSB:**</sub></small>
 Three days after they had made the treaty with the Gibeonites, the Israelites learned that they were neighbors, living among them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9006\|מִ]][[H7097A\|קְצֵה֙]] [[H7969\|שְׁלֹ֣שֶׁת]] [[H3117G\|יָמִ֔ים]] [[H0310A\|אַחֲרֵ֕י]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3772H\|כָּרְת֥וּ]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H1285\|בְּרִ֑ית]] [[H9001\|וַֽ]][[H8085G\|יִּשְׁמְע֗וּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H7138\|קְרֹבִ֥ים]] [[H1992\|הֵם֙]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H9002\|וּ]][[H9003\|בְ]][[H7130G\|קִרְבּ֖]][[H9023\|וֹ]] [[H1992\|הֵ֥ם]] [[H3427\|יֹשְׁבִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic CONTRACTS|CONTRACTS]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOSHUA|JOSHUA]] • [[topic MAGNANIMITY|MAGNANIMITY]] • [[topic OATH|OATH]] • [[topic SERVANT|SERVANT]] • [[topic TREATY|TREATY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.9.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.15|<< Joshua 9:15]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.17|Joshua 9:17 >>]]</td></tr></table>
 

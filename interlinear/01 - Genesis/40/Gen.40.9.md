@@ -1,8 +1,64 @@
+---
+title: Genesis 40:9
+type: Verse
+kjv: "And the chief butler told his dream to Joseph, and said to him, In my dream, behold, a vine was before me;"
+bsb: "So the chief cupbearer told Joseph his dream: “In my dream there was a vine before me,"
+hebrew: "וַיְסַפֵּ֧ר שַֽׂר־ הַמַּשְׁקִ֛ים אֶת־ חֲלֹמ֖וֹ לְיוֹסֵ֑ף וַיֹּ֣אמֶר ל֔וֹ בַּחֲלוֹמִ֕י וְהִנֵּה־ גֶ֖פֶן לְפָנָֽי׃"
+pericope: "[[Gen.40.1 The Cupbearer and the Baker|The Cupbearer and the Baker]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 40
+book/chapter: "[[Gen.40|Genesis 40]]"
+chronological_order: 82
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5608A]]"
+- "[[H8269]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4945A]]"
+- "[[H0853]]"
+- "[[H2472]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H3130G]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H1612]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 40:9**<big><big>[[Gen.40.1 The Cupbearer and the Baker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the chief butler told his dream to Joseph, and said to him, In my dream, behold, a vine [was] before me;
 <small><sub>**BSB:**</sub></small>
 So the chief cupbearer told Joseph his dream: “In my dream there was a vine before me,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5608A\|יְסַפֵּ֧ר]] [[H8269\|שַֽׂר]][[H9014\|־]] [[H9009\|הַ]][[H4945A\|מַּשְׁקִ֛ים]] [[H0853\|אֶת]][[H9014\|־]] [[H2472\|חֲלֹמ֖]][[H9023\|וֹ]] [[H9005\|לְ]][[H3130G\|יוֹסֵ֑ף]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9003\|בַּ]][[H2472\|חֲלוֹמִ֕]][[H9020\|י]] [[H9002\|וְ]][[H2009\|הִנֵּה]][[H9014\|־]] [[H1612\|גֶ֖פֶן]] [[H9005\|לְ]][[H6440G\|פָנָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.40.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.8|<< Genesis 40:8]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.10|Genesis 40:10 >>]]</td></tr></table>
 

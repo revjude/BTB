@@ -1,10 +1,49 @@
+---
+title: Matthew 5:2
+type: Verse
+kjv: "And he opened his mouth, and taught them, saying,"
+bsb: "and He began to teach them, saying:"
+greek: "καὶ ἀνοίξας τὸ στόμα αὐτοῦ ἐδίδασκεν αὐτοὺς λέγων·¶"
+pericope: "[[Matt.5.1 The Sermon on the Mount|The Sermon on the Mount]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 5
+book/chapter: "[[Matt.5|Matthew 5]]"
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[G2532]]"
+- "[[G0455]]"
+- "[[G3588]]"
+- "[[G4750]]"
+- "[[G0846]]"
+- "[[G1321]]"
+- "[[G3004G]]"
+texts:
+- NKO
+---
+
 **Matthew 5:2**<big><big>[[Matt.5.1 The Sermon on the Mount|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he opened his mouth, and taught them, saying,
 <small><sub>**BSB:**</sub></small>
 and He began to teach them, saying:
-<small><sub>**Literal:**</sub></small>
-And opening the mouth of Him He was teaching them saying:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.1|<< Matthew 5:1]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.3|Matthew 5:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0455\|ἀνοίξας]]  [[G3588\|τὸ]]  [[G4750\|στόμα]]  [[G0846\|αὐτοῦ]]  [[G1321\|ἐδίδασκεν]]  [[G0846\|αὐτοὺς]]  [[G3004G\|λέγων·¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RELIGION|RELIGION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.1|<< Matthew 5:1]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.3|Matthew 5:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

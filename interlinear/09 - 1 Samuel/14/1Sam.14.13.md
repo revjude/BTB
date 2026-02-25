@@ -1,8 +1,58 @@
+---
+title: 1 Samuel 14:13
+type: Verse
+kjv: "And Jonathan climbed up upon his hands and upon his feet, and his armourbearer after him: and they fell before Jonathan; and his armourbearer slew after him."
+bsb: "So Jonathan climbed up on his hands and feet, with his armor-bearer behind him. And the Philistines fell before Jonathan, and his armor-bearer followed and finished them off."
+hebrew: "וַיַּ֣עַל יוֹנָתָ֗ן עַל־ יָדָיו֙ וְעַל־ רַגְלָ֔יו וְנֹשֵׂ֥א כֵלָ֖יו אַחֲרָ֑יו וַֽיִּפְּלוּ֙ לִפְנֵ֣י יוֹנָתָ֔ן וְנֹשֵׂ֥א כֵלָ֖יו מְמוֹתֵ֥ת אַחֲרָֽיו׃"
+pericope: "[[1Sam.14.1 Jonathan’s Victory over the Philistines|Jonathan’s Victory over the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic JONATHAN|JONATHAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H3129N]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H7272]]"
+- "[[H5375W]]"
+- "[[H3627]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H5307J]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 14:13**<big><big>[[1Sam.14.1 Jonathan’s Victory over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jonathan climbed up upon his hands and upon his feet, and his armourbearer after him: and they fell before Jonathan; and his armourbearer slew after him.
 <small><sub>**BSB:**</sub></small>
 So Jonathan climbed up on his hands and feet, with his armor-bearer behind him. And the Philistines fell before Jonathan, and his armor-bearer followed and finished them off.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|יַּ֣עַל]] [[H3129N\|יוֹנָתָ֗ן]] [[H5921A\|עַל]][[H9014\|־]] [[H3027G\|יָדָי]][[H9023\|ו֙]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H7272\|רַגְלָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H5375W\|נֹשֵׂ֥א]] [[H3627\|כֵלָ֖י]][[H9023\|ו]] [[H0310A\|אַחֲרָ֑י]][[H9033\|ו]] [[H9001\|וַֽ]][[H5307J\|יִּפְּלוּ֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3129N\|יוֹנָתָ֔ן]] [[H9002\|וְ]][[H5375W\|נֹשֵׂ֥א]] [[H3627\|כֵלָ֖י]][[H9023\|ו]] [[H4191\|מְמוֹתֵ֥ת]] [[H0310A\|אַחֲרָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONATHAN|JONATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.12|<< 1 Samuel 14:12]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.14|1 Samuel 14:14 >>]]</td></tr></table>
 

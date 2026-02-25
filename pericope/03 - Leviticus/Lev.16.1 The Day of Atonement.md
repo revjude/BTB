@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Day of Atonement
+type: Pericope
 pericope: "[[Lev.16.1 The Day of Atonement|The Day of Atonement]]"
-verse_count: 34
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 16
 book/chapter: "[[Lev.16|Leviticus 16]]"
-genre:
+chronological_order: 148
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 34
 verses:
 - "[[Lev.16.1]]"
 - "[[Lev.16.2]]"
@@ -57,7 +64,7 @@ verses:
 - "[[Lev.16.34]]"
 ---
 
-[[Lev.16|Leviticus 16:1 - Leviticus 16:34]]
+<small>[[Lev.16|Leviticus 16:1-34]]</small>
 *The Day of Atonement*
 
 [[Lev.16.1|1]] And the LORD spake unto Moses after the death of the two sons of Aaron, when they offered before the LORD, and died;

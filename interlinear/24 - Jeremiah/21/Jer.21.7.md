@@ -1,8 +1,86 @@
+---
+title: Jeremiah 21:7
+type: Verse
+kjv: "And afterward, saith the LORD, I will deliver Zedekiah king of Judah, and his servants, and the people, and such as are left in this city from the pestilence, from the sword, and from the famine, into the hand of Nebuchadrezzar king of Babylon, and into the hand of their enemies, and into the hand of those that seek their life: and he shall smite them with the edge of the sword; he shall not spare them, neither have pity, nor have mercy."
+bsb: "‘After that,’ declares the LORD, ‘I will hand over Zedekiah king of Judah, his officers, and the people in this city who survive the plague and sword and famine, to Nebuchadnezzar king of Babylon and to their enemies who seek their lives. He will put them to the sword; he will not spare them or show pity or compassion.’"
+hebrew: "וְאַחֲרֵי־ כֵ֣ן נְאֻם־ יְהוָ֡ה אֶתֵּ֣ן אֶת־ צִדְקִיָּ֣הוּ מֶֽלֶךְ־ יְהוּדָ֣ה וְאֶת־ עֲבָדָ֣יו׀ וְאֶת־ הָעָ֡ם וְאֶת־ הַנִּשְׁאָרִים֩ בָּעִ֨יר הַזֹּ֜את מִן־ הַדֶּ֣בֶר׀ מִן־ הַחֶ֣רֶב וּמִן־ הָרָעָ֗ב בְּיַד֙ נְבוּכַדְרֶאצַּ֣ר מֶֽלֶךְ־ בָּבֶ֔ל וּבְיַד֙ אֹֽיְבֵיהֶ֔ם וּבְיַ֖ד מְבַקְשֵׁ֣י נַפְשָׁ֑ם וְהִכָּ֣ם לְפִי־ חֶ֔רֶב לֹֽא־ יָח֣וּס עֲלֵיהֶ֔ם וְלֹ֥א יַחְמֹ֖ל וְלֹ֥א יְרַחֵֽם׃"
+pericope: "[[Jer.21.1 Jerusalem Will Fall to Babylon|Jerusalem Will Fall to Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 21
+book/chapter: "[[Jer.21|Jeremiah 21]]"
+chronological_order: 744
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H6667H]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H9015]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H7604]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H4480A]]"
+- "[[H1698]]"
+- "[[H2719]]"
+- "[[H7458]]"
+- "[[H3027H]]"
+- "[[H5019]]"
+- "[[H0894]]"
+- "[[H0341]]"
+- "[[H9028]]"
+- "[[H1245]]"
+- "[[H5315H]]"
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H6310H]]"
+- "[[H3808]]"
+- "[[H2347]]"
+- "[[H5921A]]"
+- "[[H2550]]"
+- "[[H7355]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 21:7**<big><big>[[Jer.21.1 Jerusalem Will Fall to Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And afterward, saith the LORD, I will deliver Zedekiah king of Judah, and his servants, and the people, and such as are left in this city from the pestilence, from the sword, and from the famine, into the hand of Nebuchadrezzar king of Babylon, and into the hand of their enemies, and into the hand of those that seek their life: and he shall smite them with the edge of the sword; he shall not spare them, neither have pity, nor have mercy.
 <small><sub>**BSB:**</sub></small>
 ‘After that,’ declares the LORD, ‘I will hand over Zedekiah king of Judah, his officers, and the people in this city who survive the plague and sword and famine, to Nebuchadnezzar king of Babylon and to their enemies who seek their lives. He will put them to the sword; he will not spare them or show pity or compassion.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0310A\|אַחֲרֵי]][[H9014\|־]] [[H3651C\|כֵ֣ן]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֡ה]] [[H5414G\|אֶתֵּ֣ן]] [[H0853\|אֶת]][[H9014\|־]] [[H6667H\|צִדְקִיָּ֣הוּ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָ֣ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5650\|עֲבָדָ֣י]][[H9023\|ו]][[H9015\|׀]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֡ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7604\|נִּשְׁאָרִים֩]] [[H9003\|בָּ]][[H5892B\|עִ֨יר]] [[H9009\|הַ]][[H2063\|זֹּ֜את]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1698\|דֶּ֣בֶר]][[H9015\|׀]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H2719\|חֶ֣רֶב]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H7458\|רָעָ֗ב]] [[H9003\|בְּ]][[H3027H\|יַד֙]] [[H5019\|נְבוּכַדְרֶאצַּ֣ר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֔ל]] [[H9002\|וּ]][[H9003\|בְ]][[H3027H\|יַד֙]] [[H0341\|אֹֽיְבֵי]][[H9028\|הֶ֔ם]] [[H9002\|וּ]][[H9003\|בְ]][[H3027H\|יַ֖ד]] [[H1245\|מְבַקְשֵׁ֣י]] [[H5315H\|נַפְשָׁ֑]][[H9028\|ם]] [[H9001\|וְ]][[H5221\|הִכָּ֣]][[H9038\|ם]] [[H9005\|לְ]][[H6310H\|פִי]][[H9014\|־]] [[H2719\|חֶ֔רֶב]] [[H3808\|לֹֽא]][[H9014\|־]] [[H2347\|יָח֣וּס]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֔ם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H2550\|יַחְמֹ֖ל]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H7355\|יְרַחֵֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.21.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.21.6|<< Jeremiah 21:6]]</td><td align="center" style="border:none;">[[Jer.21|Jeremiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.21.8|Jeremiah 21:8 >>]]</td></tr></table>
 

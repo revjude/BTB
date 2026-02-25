@@ -1,8 +1,63 @@
+---
+title: Proverbs 7:20
+type: Verse
+kjv: "He hath taken a bag of money with him, and will come home at the day appointed."
+bsb: "He took with him a bag of money and will not return till the moon is full.”"
+hebrew: "צְֽרוֹר־ הַ֭כֶּסֶף לָקַ֣ח בְּיָד֑וֹ לְי֥וֹם הַ֝כֵּ֗סֶא יָבֹ֥א בֵיתֽוֹ׃"
+pericope: "[[Prov.7.1 Warnings about the Adulteress|Warnings about the Adulteress]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 7
+book/chapter: "[[Prov.7|Proverbs 7]]"
+chronological_order: 462
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H6872A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3701G]]"
+- "[[H3947G]]"
+- "[[H9003]]"
+- "[[H3027K]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H3117G]]"
+- "[[H3677]]"
+- "[[H0935G]]"
+- "[[H1004B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 7:20**<big><big>[[Prov.7.1 Warnings about the Adulteress|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath taken a bag of money with him, [and] will come home at the day appointed.
 <small><sub>**BSB:**</sub></small>
 He took with him a bag of money and will not return till the moon is full.”
+<small><sub>**Hebrew:**</sub></small>
+[[H6872A\|צְֽרוֹר]][[H9014\|־]] [[H9009\|הַ֭]][[H3701G\|כֶּסֶף]] [[H3947G\|לָקַ֣ח]] [[H9003\|בְּ]][[H3027K\|יָד֑]][[H9023\|וֹ]] [[H9005\|לְ]][[H3117G\|י֥וֹם]] [[H9009\|הַ֝]][[H3677\|כֵּ֗סֶא]] [[H0935G\|יָבֹ֥א]] [[H1004B\|בֵיתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BLINDNESS|BLINDNESS]] • [[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic IGNORANCE|IGNORANCE]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic MONEY|MONEY]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WOMEN|WOMEN]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.7.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.7.19|<< Proverbs 7:19]]</td><td align="center" style="border:none;">[[Prov.7|Proverbs 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.7.21|Proverbs 7:21 >>]]</td></tr></table>
 

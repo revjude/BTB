@@ -1,8 +1,53 @@
+---
+title: Psalm 119:95
+type: Verse
+kjv: "The wicked have waited for me to destroy me: but I will consider thy testimonies."
+bsb: "The wicked wait to destroy me, but I will ponder Your testimonies."
+hebrew: "לִ֤י קִוּ֣וּ רְשָׁעִ֣ים לְאַבְּדֵ֑נִי עֵ֝דֹתֶ֗יךָ אֶתְבּוֹנָֽן׃"
+pericope: "[[Ps.119.89 Your Word Is a Lamp to My Feet - LAMED|Your Word Is a Lamp to My Feet - LAMED]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H6960A]]"
+- "[[H7563]]"
+- "[[H0006]]"
+- "[[H5713B]]"
+- "[[H9021]]"
+- "[[H0995]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:95**<big><big>[[Ps.119.89 Your Word Is a Lamp to My Feet - LAMED|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wicked have waited for me to destroy me: [but] I will consider thy testimonies.
 <small><sub>**BSB:**</sub></small>
 The wicked wait to destroy me, but I will ponder Your testimonies.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ֤]][[H9030\|י]] [[H6960A\|קִוּ֣וּ]] [[H7563\|רְשָׁעִ֣ים]] [[H9005\|לְ]][[H0006\|אַבְּדֵ֑]][[H9030\|נִי]] [[H5713B\|עֵ֝דֹתֶ֗י]][[H9021\|ךָ]] [[H0995\|אֶתְבּוֹנָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.95|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.94|<< Psalms 119:94]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.96|Psalms 119:96 >>]]</td></tr></table>
 

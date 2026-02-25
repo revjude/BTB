@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jeremiah Buys Hanamel’s Field
+type: Pericope
 pericope: "[[Jer.32.1 Jeremiah Buys Hanamel’s Field|Jeremiah Buys Hanamel’s Field]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 32
 book/chapter: "[[Jer.32|Jeremiah 32]]"
-genre:
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 15
 verses:
 - "[[Jer.32.1]]"
 - "[[Jer.32.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Jer.32.15]]"
 ---
 
-[[Jer.32|Jeremiah 32:1 - Jeremiah 32:15]]
+<small>[[Jer.32|Jeremiah 32:1-15]]</small>
 *Jeremiah Buys Hanamel’s Field*
 
 [[Jer.32.1|1]] The word that came to Jeremiah from the LORD in the tenth year of Zedekiah king of Judah, which \[was\] the eighteenth year of Nebuchadrezzar.

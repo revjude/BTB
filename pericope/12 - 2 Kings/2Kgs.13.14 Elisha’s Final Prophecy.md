@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Elisha’s Final Prophecy
+type: Pericope
 pericope: "[[2Kgs.13.14 Elisha’s Final Prophecy|Elisha’s Final Prophecy]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 13
 book/chapter: "[[2Kgs.13|2 Kings 13]]"
-genre:
+chronological_order: 590
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~798–782 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 12
 verses:
 - "[[2Kgs.13.14]]"
 - "[[2Kgs.13.15]]"
@@ -30,7 +37,7 @@ verses:
 - "[[2Kgs.13.25]]"
 ---
 
-[[2Kgs.13|2 Kings 13:14 - 2 Kings 13:25]]
+<small>[[2Kgs.13|2 Kings 13:14-25]]</small>
 *Elisha’s Final Prophecy*
 
 [[2Kgs.13.14|14]] Now Elisha was fallen sick of his sickness whereof he died. And Joash the king of Israel came down unto him, and wept over his face, and said, O my father, my father, the chariot of Israel, and the horsemen thereof.

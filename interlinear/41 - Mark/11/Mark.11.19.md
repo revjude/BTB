@@ -1,10 +1,49 @@
+---
+title: Mark 11:19
+type: Verse
+kjv: "And when even was come, he went out of the city."
+bsb: "And when evening came, Jesus and His disciples went out of the city."
+greek: "Καὶ ὅταν ὀψὲ ἐγένετο, ἐξεπορεύοντο ἔξω τῆς πόλεως."
+pericope: "[[Mark.11.15 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 11
+book/chapter: "[[Mark.11|Mark 11]]"
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BETHANY|BETHANY]]"
+strongs:
+- "[[G2532]]"
+- "[[G3752]]"
+- "[[G3796]]"
+- "[[G1096]]"
+- "[[G1607]]"
+- "[[G1854]]"
+- "[[G3588]]"
+- "[[G4172]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 11:19**<big><big>[[Mark.11.15 Jesus Cleanses the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when even was come, he went out of the city.
 <small><sub>**BSB:**</sub></small>
 And when evening came, Jesus and His disciples went out of the city.
-<small><sub>**Literal:**</sub></small>
-And when evening came, they were going out of the city.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.18|<< Mark 11:18]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.20|Mark 11:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3752\|ὅταν]]  [[G3796\|ὀψὲ]]  [[G1096\|ἐγένετο,]]  [[G1607\|ἐξεπορεύοντο]]  [[G1854\|ἔξω]]  [[G3588\|τῆς]]  [[G4172\|πόλεως.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHANY|BETHANY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.18|<< Mark 11:18]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.20|Mark 11:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

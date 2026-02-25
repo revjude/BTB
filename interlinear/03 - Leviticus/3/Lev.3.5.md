@@ -1,8 +1,69 @@
+---
+title: Leviticus 3:5
+type: Verse
+kjv: "And Aaron’s sons shall burn it on the altar upon the burnt sacrifice, which is upon the wood that is on the fire: it is an offering made by fire, of a sweet savour unto the LORD."
+bsb: "Then Aaron’s sons are to burn it on the altar atop the burnt offering that is on the burning wood, as a food offering, a pleasing aroma to the LORD."
+hebrew: "וְהִקְטִ֨ירוּ אֹת֤וֹ בְנֵֽי־ אַהֲרֹן֙ הַמִּזְבֵּ֔חָה עַל־ הָ֣עֹלָ֔ה אֲשֶׁ֥ר עַל־ הָעֵצִ֖ים אֲשֶׁ֣ר עַל־ הָאֵ֑שׁ אִשֵּׁ֛ה רֵ֥יחַ נִיחֹ֖חַ לַֽיהוָֽה׃ פ"
+pericope: "[[Lev.3.1 Laws for Peace Offerings|Laws for Peace Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 3
+book/chapter: "[[Lev.3|Leviticus 3]]"
+chronological_order: 135
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic FAT|FAT]]"
+- "[[topic LIVER|LIVER]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H6999A]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H9011]]"
+- "[[H5921A]]"
+- "[[H5930A]]"
+- "[[H0834A]]"
+- "[[H6086G]]"
+- "[[H0784]]"
+- "[[H0801]]"
+- "[[H7381]]"
+- "[[H5207]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Leviticus 3:5**<big><big>[[Lev.3.1 Laws for Peace Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Aaron’s sons shall burn it on the altar upon the burnt sacrifice, which [is] upon the wood that [is] on the fire: [it is] an offering made by fire, of a sweet savour unto the LORD.
 <small><sub>**BSB:**</sub></small>
 Then Aaron’s sons are to burn it on the altar atop the burnt offering that is on the burning wood, as a food offering, a pleasing aroma to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6999A\|הִקְטִ֨ירוּ]] [[H0853\|אֹת֤]][[H9033\|וֹ]] [[H1121A\|בְנֵֽי]][[H9014\|־]] [[H0175\|אַהֲרֹן֙]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֔חָ]][[H9011\|ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ֣]][[H5930A\|עֹלָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H6086G\|עֵצִ֖ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0784\|אֵ֑שׁ]] [[H0801\|אִשֵּׁ֛ה]] [[H7381\|רֵ֥יחַ]] [[H5207\|נִיחֹ֖חַ]] [[H9005\|לַֽ]][[H3068G\|יהוָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAT|FAT]] • [[topic LIVER|LIVER]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.3.4|<< Leviticus 3:4]]</td><td align="center" style="border:none;">[[Lev.3|Leviticus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.3.6|Leviticus 3:6 >>]]</td></tr></table>
 
@@ -24,7 +85,7 @@ Then Aaron’s sons are to burn it on the altar atop the burnt offering that is 
 | a fire offering of  |**<big>&#8207;[[H0801\|אִשֵּׁ֛ה]]&#8207; </big>**| 'i.Sheh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | an odor of  |**<big>&#8207;[[H7381\|רֵ֥יחַ]]&#8207; </big>**| Rei.ach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | soothing  |**<big>&#8207;[[H5207\|נִיחֹ֖חַ]]&#8207; </big>**| ni.Cho.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Yahweh  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H3068G\|יהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H3068G\|יהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.3.4|<< Leviticus 3:4]]</td><td align="center" style="border:none;">[[Lev.3|Leviticus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.3.6|Leviticus 3:6 >>]]</td></tr></table>
 
 

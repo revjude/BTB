@@ -1,8 +1,58 @@
+---
+title: Habakkuk 3:9
+type: Verse
+kjv: "Thy bow was made quite naked, according to the oaths of the tribes, even thy word. Selah. Thou didst cleave the earth with rivers."
+bsb: "You brandished Your bow; You called for many arrows. Selah You split the earth with rivers."
+hebrew: "עֶרְיָ֤ה תֵעוֹר֙ קַשְׁתֶּ֔ךָ שְׁבֻע֥וֹת מַטּ֖וֹת אֹ֣מֶר סֶ֑לָה נְהָר֖וֹת תְּבַקַּע־ אָֽרֶץ׃"
+pericope: "[[Hab.3.1 Habakkuk’s Prayer|Habakkuk’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 3
+book/chapter: "[[Hab.3|Habakkuk 3]]"
+chronological_order: 740
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic BOW|BOW]]"
+- "[[topic GEOLOGY|GEOLOGY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H6181]]"
+- "[[H5783]]"
+- "[[H7198]]"
+- "[[H9021]]"
+- "[[H7621]]"
+- "[[H4294I]]"
+- "[[H0562]]"
+- "[[H5542]]"
+- "[[H5104H]]"
+- "[[H1234]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 3:9**<big><big>[[Hab.3.1 Habakkuk’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy bow was made quite naked, [according] to the oaths of the tribes, [even thy] word. Selah. Thou didst cleave the earth with rivers.
 <small><sub>**BSB:**</sub></small>
 You brandished Your bow; You called for many arrows. Selah You split the earth with rivers.
+<small><sub>**Hebrew:**</sub></small>
+[[H6181\|עֶרְיָ֤ה]] [[H5783\|תֵעוֹר֙]] [[H7198\|קַשְׁתֶּ֔]][[H9021\|ךָ]] [[H7621\|שְׁבֻע֥וֹת]] [[H4294I\|מַטּ֖וֹת]] [[H0562\|אֹ֣מֶר]] [[H5542\|סֶ֑לָה]] [[H5104H\|נְהָר֖וֹת]] [[H1234\|תְּבַקַּע]][[H9014\|־]] [[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOW|BOW]] • [[topic GEOLOGY|GEOLOGY]] • [[topic GOD|GOD]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.8|<< Habakkuk 3:8]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.10|Habakkuk 3:10 >>]]</td></tr></table>
 

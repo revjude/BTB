@@ -1,8 +1,63 @@
+---
+title: Deuteronomy 24:12
+type: Verse
+kjv: "And if the man be poor, thou shalt not sleep with his pledge:"
+bsb: "If he is a poor man, you must not go to sleep with the security in your possession;"
+hebrew: "וְאִם־ אִ֥ישׁ עָנִ֖י ה֑וּא לֹ֥א תִשְׁכַּ֖ב בַּעֲבֹטֽוֹ׃"
+pericope: "[[Deut.24.6 Additional Laws|Additional Laws]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 24
+book/chapter: "[[Deut.24|Deuteronomy 24]]"
+chronological_order: 220
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic DEBT|DEBT]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic PAWN|PAWN]]"
+- "[[topic PLEDGE|PLEDGE]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SURETY (GUARANTEE)|SURETY (GUARANTEE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H6041]]"
+- "[[H1931]]"
+- "[[H3808]]"
+- "[[H7901H]]"
+- "[[H9003]]"
+- "[[H5667]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 24:12**<big><big>[[Deut.24.6 Additional Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if the man [be] poor, thou shalt not sleep with his pledge:
 <small><sub>**BSB:**</sub></small>
 If he is a poor man, you must not go to sleep with the security in your possession;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H0376G\|אִ֥ישׁ]] [[H6041\|עָנִ֖י]] [[H1931\|ה֑וּא]] [[H3808\|לֹ֥א]] [[H7901H\|תִשְׁכַּ֖ב]] [[H9003\|בַּ]][[H5667\|עֲבֹטֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CREDITOR|CREDITOR]] • [[topic DEBT|DEBT]] • [[topic LENDING|LENDING]] • [[topic PAWN|PAWN]] • [[topic PLEDGE|PLEDGE]] • [[topic POOR|POOR]] • [[topic SURETY (GUARANTEE)|SURETY (GUARANTEE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.24.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24.11|<< Deuteronomy 24:11]]</td><td align="center" style="border:none;">[[Deut.24|Deuteronomy 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24.13|Deuteronomy 24:13 >>]]</td></tr></table>
 

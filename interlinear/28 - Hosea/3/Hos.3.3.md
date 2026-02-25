@@ -1,8 +1,60 @@
+---
+title: Hosea 3:3
+type: Verse
+kjv: "And I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be for another man: so will I also be for thee."
+bsb: "Then I said to her, “You must live with me for many days; you must not be promiscuous or belong to another, and I will do the same for you.”"
+hebrew: "וָאֹמַ֣ר אֵלֶ֗יהָ יָמִ֤ים רַבִּים֙ תֵּ֣שְׁבִי לִ֔י לֹ֣א תִזְנִ֔י וְלֹ֥א תִֽהְיִ֖י לְאִ֑ישׁ וְגַם־ אֲנִ֖י אֵלָֽיִךְ׃"
+pericope: "[[Hos.3.1 Hosea Redeems His Wife|Hosea Redeems His Wife]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 3
+book/chapter: "[[Hos.3|Hosea 3]]"
+chronological_order: 644
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BEAR|BEAR]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H3117G]]"
+- "[[H7227A]]"
+- "[[H3427]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3808]]"
+- "[[H2181]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H0376G]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 3:3**<big><big>[[Hos.3.1 Hosea Redeems His Wife|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be for [another] man: so [will] I also [be] for thee.
 <small><sub>**BSB:**</sub></small>
 Then I said to her, “You must live with me for many days; you must not be promiscuous or belong to another, and I will do the same for you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמַ֣ר]] [[H0413\|אֵלֶ֗י]][[H9034\|הָ]] [[H3117G\|יָמִ֤ים]] [[H7227A\|רַבִּים֙]] [[H3427\|תֵּ֣שְׁבִי]] [[H9005\|לִ֔]][[H9030\|י]] [[H3808\|לֹ֣א]] [[H2181\|תִזְנִ֔י]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H1961\|תִֽהְיִ֖י]] [[H9005\|לְ]][[H0376G\|אִ֑ישׁ]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H0589\|אֲנִ֖י]] [[H0413\|אֵלָֽיִ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEAR|BEAR]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.3.2|<< Hosea 3:2]]</td><td align="center" style="border:none;">[[Hos.3|Hosea 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.3.4|Hosea 3:4 >>]]</td></tr></table>
 

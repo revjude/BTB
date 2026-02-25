@@ -1,8 +1,56 @@
+---
+title: Psalm 119:102
+type: Verse
+kjv: "I have not departed from thy judgments: for thou hast taught me."
+bsb: "I have not departed from Your ordinances, for You Yourself have taught me."
+hebrew: "מִמִּשְׁפָּטֶ֥יךָ לֹא־ סָ֑רְתִּי כִּֽי־ אַ֝תָּ֗ה הוֹרֵתָֽנִי׃"
+pericope: "[[Ps.119.97 Your Word Is a Lamp to My Feet - MEM|Your Word Is a Lamp to My Feet - MEM]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9006]]"
+- "[[H4941G]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5493I]]"
+- "[[H3588A]]"
+- "[[H0859A]]"
+- "[[H3384B]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:102**<big><big>[[Ps.119.97 Your Word Is a Lamp to My Feet - MEM|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have not departed from thy judgments: for thou hast taught me.
 <small><sub>**BSB:**</sub></small>
 I have not departed from Your ordinances, for You Yourself have taught me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H4941G\|מִּשְׁפָּטֶ֥י]][[H9021\|ךָ]] [[H3808\|לֹא]][[H9014\|־]] [[H5493I\|סָ֑רְתִּי]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0859A\|אַ֝תָּ֗ה]] [[H3384B\|הוֹרֵתָֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.102|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.101|<< Psalms 119:101]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.103|Psalms 119:103 >>]]</td></tr></table>
 

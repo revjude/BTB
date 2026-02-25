@@ -1,8 +1,55 @@
+---
+title: 2 Chronicles 18:4
+type: Verse
+kjv: "And Jehoshaphat said unto the king of Israel, Inquire, I pray thee, at the word of the LORD to day."
+bsb: "But Jehoshaphat also said to the king of Israel, “Please inquire first for the word of the LORD.”"
+hebrew: "וַיֹּ֥אמֶר יְהוֹשָׁפָ֖ט אֶל־ מֶ֣לֶךְ יִשְׂרָאֵ֑ל דְּרָשׁ־ נָ֥א כַיּ֖וֹם אֶת־ דְּבַ֥ר יְהוָֽה׃"
+pericope: "[[2Chr.18.1 Jehoshaphat Allies with Ahab|Jehoshaphat Allies with Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 18
+book/chapter: "[[2Chr.18|2 Chronicles 18]]"
+chronological_order: 570
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic MICAIAH|MICAIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3092I]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H1875]]"
+- "[[H4994]]"
+- "[[H9004]]"
+- "[[H3117L]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 18:4**<big><big>[[2Chr.18.1 Jehoshaphat Allies with Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehoshaphat said unto the king of Israel, Inquire, I pray thee, at the word of the LORD to day.
 <small><sub>**BSB:**</sub></small>
 But Jehoshaphat also said to the king of Israel, “Please inquire first for the word of the LORD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H3092I\|יְהוֹשָׁפָ֖ט]] [[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H1875\|דְּרָשׁ]][[H9014\|־]] [[H4994\|נָ֥א]] [[H9004\|כַ]][[H3117L\|יּ֖וֹם]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דְּבַ֥ר]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MICAIAH|MICAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.3|<< 2 Chronicles 18:3]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.5|2 Chronicles 18:5 >>]]</td></tr></table>
 

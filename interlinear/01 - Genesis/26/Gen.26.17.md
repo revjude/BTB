@@ -1,8 +1,61 @@
+---
+title: Genesis 26:17
+type: Verse
+kjv: "And Isaac departed thence, and pitched his tent in the valley of Gerar, and dwelt there."
+bsb: "So Isaac left that place and encamped in the Valley of Gerar and settled there."
+hebrew: "וַיֵּ֥לֶךְ מִשָּׁ֖ם יִצְחָ֑ק וַיִּ֥חַן בְּנַֽחַל־ גְּרָ֖ר וַיֵּ֥שֶׁב שָֽׁם׃"
+pericope: "[[Gen.26.12 Isaac’s Prosperity|Isaac’s Prosperity]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 26
+book/chapter: "[[Gen.26|Genesis 26]]"
+chronological_order: 68
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic GERAR|GERAR]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic WELLS|WELLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H3327]]"
+- "[[H2583]]"
+- "[[H9003]]"
+- "[[H5158N]]"
+- "[[H9014]]"
+- "[[H1642]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 26:17**<big><big>[[Gen.26.12 Isaac’s Prosperity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Isaac departed thence, and pitched his tent in the valley of Gerar, and dwelt there.
 <small><sub>**BSB:**</sub></small>
 So Isaac left that place and encamped in the Valley of Gerar and settled there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּ֥לֶךְ]] [[H9006\|מִ]][[H8033G\|שָּׁ֖ם]] [[H3327\|יִצְחָ֑ק]] [[H9001\|וַ]][[H2583\|יִּ֥חַן]] [[H9003\|בְּ]][[H5158N\|נַֽחַל]][[H9014\|־]] [[H1642\|גְּרָ֖ר]] [[H9001\|וַ]][[H3427\|יֵּ֥שֶׁב]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLESSING|BLESSING]] • [[topic DISHONESTY|DISHONESTY]] • [[topic GERAR|GERAR]] • [[topic ISAAC|ISAAC]] • [[topic PATIENCE|PATIENCE]] • [[topic WELLS|WELLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.16|<< Genesis 26:16]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.18|Genesis 26:18 >>]]</td></tr></table>
 

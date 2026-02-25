@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Abraham and Keturah
+type: Pericope
 pericope: "[[Gen.25.1 Abraham and Keturah|Abraham and Keturah]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 25
 book/chapter: "[[Gen.25|Genesis 25]]"
-genre:
+chronological_order: 67
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 6
 verses:
 - "[[Gen.25.1]]"
 - "[[Gen.25.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Gen.25.6]]"
 ---
 
-[[Gen.25|Genesis 25:1 - Genesis 25:6]]
+<small>[[Gen.25|Genesis 25:1-6]]</small>
 *Abraham and Keturah*
 
 [[Gen.25.1|1]] Then again Abraham took a wife, and her name \[was\] Keturah.

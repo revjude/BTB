@@ -1,8 +1,74 @@
+---
+title: Numbers 6:19
+type: Verse
+kjv: "And the priest shall take the sodden shoulder of the ram, and one unleavened cake out of the basket, and one unleavened wafer, and shall put them upon the hands of the Nazarite, after the hair of his separation is shaven:"
+bsb: "And the priest is to take the boiled shoulder from the ram, one unleavened cake from the basket, and one unleavened wafer, and put them into the hands of the Nazirite who has just shaved the hair of his consecration."
+hebrew: "וְלָקַ֨ח הַכֹּהֵ֜ן אֶת־ הַזְּרֹ֣עַ בְּשֵׁלָה֮ מִן־ הָאַיִל֒ וְֽחַלַּ֨ת מַצָּ֤ה אַחַת֙ מִן־ הַסַּ֔ל וּרְקִ֥יק מַצָּ֖ה אֶחָ֑ד וְנָתַן֙ עַל־ כַּפֵּ֣י הַנָּזִ֔יר אַחַ֖ר הִֽתְגַּלְּח֥וֹ אֶת־ נִזְרֽוֹ׃"
+pericope: "[[Num.6.1 The Nazirite Vow|The Nazirite Vow]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 6
+book/chapter: "[[Num.6|Numbers 6]]"
+chronological_order: 165
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic NAZARITE|NAZARITE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic WAFER|WAFER]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2220]]"
+- "[[H1311]]"
+- "[[H4480A]]"
+- "[[H0352A]]"
+- "[[H9002]]"
+- "[[H2471]]"
+- "[[H4682]]"
+- "[[H0259]]"
+- "[[H5536]]"
+- "[[H7550]]"
+- "[[H5414H]]"
+- "[[H5921A]]"
+- "[[H3709G]]"
+- "[[H5139]]"
+- "[[H0310A]]"
+- "[[H1548]]"
+- "[[H9043]]"
+- "[[H5145G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 6:19**<big><big>[[Num.6.1 The Nazirite Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall take the sodden shoulder of the ram, and one unleavened cake out of the basket, and one unleavened wafer, and shall put [them] upon the hands of the Nazarite, after [the hair of] his separation is shaven:
 <small><sub>**BSB:**</sub></small>
 And the priest is to take the boiled shoulder from the ram, one unleavened cake from the basket, and one unleavened wafer, and put them into the hands of the Nazirite who has just shaved the hair of his consecration.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקַ֨ח]] [[H9009\|הַ]][[H3548\|כֹּהֵ֜ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2220\|זְּרֹ֣עַ]] [[H1311\|בְּשֵׁלָה֮]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0352A\|אַיִל֒]] [[H9002\|וְֽ]][[H2471\|חַלַּ֨ת]] [[H4682\|מַצָּ֤ה]] [[H0259\|אַחַת֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H5536\|סַּ֔ל]] [[H9002\|וּ]][[H7550\|רְקִ֥יק]] [[H4682\|מַצָּ֖ה]] [[H0259\|אֶחָ֑ד]] [[H9001\|וְ]][[H5414H\|נָתַן֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3709G\|כַּפֵּ֣י]] [[H9009\|הַ]][[H5139\|נָּזִ֔יר]] [[H0310A\|אַחַ֖ר]] [[H1548\|הִֽתְגַּלְּח֥]][[H9043\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H5145G\|נִזְרֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRATERNITY|FRATERNITY]] • [[topic NAZARITE|NAZARITE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]] • [[topic WAFER|WAFER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.6.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.18|<< Numbers 6:18]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.20|Numbers 6:20 >>]]</td></tr></table>
 

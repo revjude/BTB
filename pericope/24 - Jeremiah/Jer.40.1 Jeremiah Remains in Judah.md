@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jeremiah Remains in Judah
+type: Pericope
 pericope: "[[Jer.40.1 Jeremiah Remains in Judah|Jeremiah Remains in Judah]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 40
 book/chapter: "[[Jer.40|Jeremiah 40]]"
-genre:
+chronological_order: 763
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 6
 verses:
 - "[[Jer.40.1]]"
 - "[[Jer.40.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Jer.40.6]]"
 ---
 
-[[Jer.40|Jeremiah 40:1 - Jeremiah 40:6]]
+<small>[[Jer.40|Jeremiah 40:1-6]]</small>
 *Jeremiah Remains in Judah*
 
 [[Jer.40.1|1]] The word that came to Jeremiah from the LORD, after that Nebuzaradan the captain of the guard had let him go from Ramah, when he had taken him being bound in chains among all that were carried away captive of Jerusalem and Judah, which were carried away captive unto Babylon.

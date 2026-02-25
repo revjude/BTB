@@ -1,10 +1,57 @@
+---
+title: Acts 7:31
+type: Verse
+kjv: "When Moses saw it, he wondered at the sight: and as he drew near to behold it, the voice of the Lord came unto him,"
+bsb: "When Moses saw it, he marveled at the sight. As he approached to look more closely, the voice of the Lord came to him:"
+greek: "ὁ δὲ Μωϋσῆς ἰδὼν ἐθαύμαζεν τὸ ὅραμα· προσερχομένου δὲ αὐτοῦ κατανοῆσαι, ἐγένετο φωνὴ κυρίου πρὸς αὐτόν·"
+pericope: "[[Acts.7.30 The Call of Moses|The Call of Moses]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic VOICE|VOICE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3475]]"
+- "[[G1492H]]"
+- "[[G2296]]"
+- "[[G3705]]"
+- "[[G4334]]"
+- "[[G0846]]"
+- "[[G2657]]"
+- "[[G1096]]"
+- "[[G5456G]]"
+- "[[G2962G]]"
+- "[[G4314]]"
+texts:
+- NKO
+- K
+---
+
 **Acts 7:31**<big><big>[[Acts.7.30 The Call of Moses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When Moses saw [it], he wondered at the sight: and as he drew near to behold [it], the voice of the Lord came unto him,
 <small><sub>**BSB:**</sub></small>
 When Moses saw it, he marveled at the sight. As he approached to look more closely, the voice of the Lord came to him:
-<small><sub>**Literal:**</sub></small>
-<the> And Moses having seen [it] was marvelling at the vision; When is approaching then he to behold [it], there was [the] voice of [the] Lord to him:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.30|<< Acts 7:30]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.32|Acts 7:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G3475\|Μωϋσῆς]]  [[G1492H\|ἰδὼν]]  [[G2296\|ἐθαύμαζεν]]  [[G3588\|τὸ]]  [[G3705\|ὅραμα·]]  [[G4334\|προσερχομένου]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῦ]]  [[G2657\|κατανοῆσαι,]]  [[G1096\|ἐγένετο]]  [[G5456G\|φωνὴ]]  [[G2962G\|κυρίου]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic VOICE|VOICE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.30|<< Acts 7:30]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.32|Acts 7:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,55 @@
+---
+title: Mark 8:28
+type: Verse
+kjv: "And they answered, John the Baptist: but some say, Elias; and others, One of the prophets."
+bsb: "They replied, “Some say John the Baptist; others say Elijah; and still others, one of the prophets.”"
+greek: "οἱ δὲ εἶπαν αὐτῷ λέγοντες· ὅτι Ἰωάννην τὸν βαπτιστήν, καὶ ἄλλοι· Ἠλίαν, ἄλλοι δὲ ὅτι εἷς τῶν προφητῶν."
+pericope: "[[Mark.8.27 Peter’s Confession of Christ|Peter’s Confession of Christ]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G2491G]]"
+- "[[G0910]]"
+- "[[G2532]]"
+- "[[G0243]]"
+- "[[G2243]]"
+- "[[G1520]]"
+- "[[G4396]]"
+texts:
+- NKO
+- N(k)O
+- no
+---
+
 **Mark 8:28**<big><big>[[Mark.8.27 Peter’s Confession of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they answered, John the Baptist: but some [say], Elias; and others, One of the prophets.
 <small><sub>**BSB:**</sub></small>
 They replied, “Some say John the Baptist; others say Elijah; and still others, one of the prophets.”
-<small><sub>**Literal:**</sub></small>
-<the> And they said to Him saying: that John the Baptist, and others; Elijah, others now that one of the prophets.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.27|<< Mark 8:27]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.29|Mark 8:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2036\|εἶπαν]]  [[G0846\|αὐτῷ]]  [[G3004G\|λέγοντες·]]  [[G3754G\|ὅτι]]  [[G2491G\|Ἰωάννην]]  [[G3588\|τὸν]]  [[G0910\|βαπτιστήν,]]  [[G2532\|καὶ]]  [[G0243\|ἄλλοι·]]  [[G2243\|Ἠλίαν,]]  [[G0243\|ἄλλοι]]  [[G1161\|δὲ]]  [[G3754G\|ὅτι]]  [[G1520\|εἷς]]  [[G3588\|τῶν]]  [[G4396\|προφητῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.27|<< Mark 8:27]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.29|Mark 8:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

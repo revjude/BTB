@@ -1,8 +1,59 @@
+---
+title: Psalm 119:165
+type: Verse
+kjv: "Great peace have they which love thy law: and nothing shall offend them."
+bsb: "Abundant peace belongs to those who love Your law; nothing can make them stumble."
+hebrew: "שָׁל֣וֹם רָ֭ב לְאֹהֲבֵ֣י תוֹרָתֶ֑ךָ וְאֵֽין־ לָ֥מוֹ מִכְשֽׁוֹל׃"
+pericope: "[[Ps.119.161 Your Word Is a Lamp to My Feet - SCHIN|Your Word Is a Lamp to My Feet - SCHIN]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic JOY|JOY]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic STUMBLING|STUMBLING]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H7965G]]"
+- "[[H7227A]]"
+- "[[H9005]]"
+- "[[H0157G]]"
+- "[[H8451]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H9038]]"
+- "[[H4383]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:165**<big><big>[[Ps.119.161 Your Word Is a Lamp to My Feet - SCHIN|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Great peace have they which love thy law: and nothing shall offend them.
 <small><sub>**BSB:**</sub></small>
 Abundant peace belongs to those who love Your law; nothing can make them stumble.
+<small><sub>**Hebrew:**</sub></small>
+[[H7965G\|שָׁל֣וֹם]] [[H7227A\|רָ֭ב]] [[H9005\|לְ]][[H0157G\|אֹהֲבֵ֣י]] [[H8451\|תוֹרָתֶ֑]][[H9021\|ךָ]] [[H9002\|וְ]][[H0369\|אֵֽין]][[H9014\|־]] [[H9005\|לָ֥]][[H9038\|מוֹ]] [[H4383\|מִכְשֽׁוֹל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOY|JOY]] • [[topic PEACE|PEACE]] • [[topic STUMBLING|STUMBLING]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.165|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.164|<< Psalms 119:164]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.166|Psalms 119:166 >>]]</td></tr></table>
 

@@ -1,10 +1,79 @@
+---
+title: Revelation 9:20
+type: Verse
+kjv: "And the rest of the men which were not killed by these plagues yet repented not of the works of their hands, that they should not worship devils, and idols of gold, and silver, and brass, and stone, and of wood: which neither can see, nor hear, nor walk:"
+bsb: "Now the rest of mankind who were not killed by these plagues still did not repent of the works of their hands. They did not stop worshiping demons and idols of gold, silver, bronze, stone, and wood, which cannot see or hear or walk."
+greek: "καὶ οἱ λοιποὶ τῶν ἀνθρώπων, οἳ οὐκ ἀπεκτάνθησαν ἐν ταῖς πληγαῖς ταύταις, οὐδὲ μετενόησαν ἐκ τῶν ἔργων τῶν χειρῶν αὐτῶν, ἵνα μὴ προσκυνήσουσιν τὰ δαιμόνια καὶ τὰ εἴδωλα τὰ χρυσᾶ καὶ τὰ ἀργυρᾶ καὶ τὰ χαλκᾶ καὶ τὰ λίθινα καὶ τὰ ξύλινα, ἃ οὔτε βλέπειν δύνανται οὔτε ἀκούειν οὔτε περιπατεῖν,"
+pericope: "[[Rev.9.13 The Sixth Trumpet|The Sixth Trumpet]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 9
+book/chapter: "[[Rev.9|Revelation 9]]"
+chronological_order: 1176
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BRASS|BRASS]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3062]]"
+- "[[G0444]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G0615]]"
+- "[[G1722]]"
+- "[[G4127]]"
+- "[[G3778]]"
+- "[[G3761]]"
+- "[[G3340]]"
+- "[[G1537]]"
+- "[[G2041]]"
+- "[[G5495]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G4352]]"
+- "[[G1140]]"
+- "[[G1497]]"
+- "[[G5552]]"
+- "[[G0693]]"
+- "[[G5470]]"
+- "[[G3035]]"
+- "[[G3585]]"
+- "[[G3777]]"
+- "[[G0991]]"
+- "[[G1410]]"
+- "[[G0191]]"
+- "[[G4043]]"
+texts:
+- NKO
+- N(k)(o)
+- N(k)O
+---
+
 **Revelation 9:20**<big><big>[[Rev.9.13 The Sixth Trumpet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the rest of the men which were not killed by these plagues yet repented not of the works of their hands, that they should not worship devils, and idols of gold, and silver, and brass, and stone, and of wood: which neither can see, nor hear, nor walk:
 <small><sub>**BSB:**</sub></small>
 Now the rest of mankind who were not killed by these plagues still did not repent of the works of their hands. They did not stop worshiping demons and idols of gold, silver, bronze, stone, and wood, which cannot see or hear or walk.
-<small><sub>**Literal:**</sub></small>
-And the rest of the men who not were killed by <the> plagues these not even repented of the works of the hands of them, so that not they will worship the demons and the idols <the> golden and <the> silver and <the> bronze and <the> stone and <the> wooden, which neither to see are able nor to hear nor to walk,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.19|<< Revelation 9:19]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.21|Revelation 9:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3062\|λοιποὶ]]  [[G3588\|τῶν]]  [[G0444\|ἀνθρώπων,]]  [[G3739\|οἳ]]  [[G3756\|οὐκ]]  [[G0615\|ἀπεκτάνθησαν]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G4127\|πληγαῖς]]  [[G3778\|ταύταις,]]  [[G3761\|οὐδὲ]]  [[G3340\|μετενόησαν]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G2041\|ἔργων]]  [[G3588\|τῶν]]  [[G5495\|χειρῶν]]  [[G0846\|αὐτῶν,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G4352\|προσκυνήσουσιν]]  [[G3588\|τὰ]]  [[G1140\|δαιμόνια]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G1497\|εἴδωλα]]  [[G3588\|τὰ]]  [[G5552\|χρυσᾶ]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G0693\|ἀργυρᾶ]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G5470\|χαλκᾶ]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G3035\|λίθινα]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G3585\|ξύλινα,]]  [[G3739\|ἃ]]  [[G3777\|οὔτε]]  [[G0991\|βλέπειν]]  [[G1410\|δύνανται]]  [[G3777\|οὔτε]]  [[G0191\|ἀκούειν]]  [[G3777\|οὔτε]]  [[G4043\|περιπατεῖν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BRASS|BRASS]] • [[topic DEMONS|DEMONS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.19|<< Revelation 9:19]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.21|Revelation 9:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 9:20** is...
 > $\quad$ alluding to: [[LXX.Ps.115.4|Ps 115:4]] ☩ [[LXX.Ps.135.15|Ps 135:15]] ☩ [[LXX.Dan.5.23|Dan 5:23]]

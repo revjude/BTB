@@ -1,10 +1,58 @@
+---
+title: Mark 14:19
+type: Verse
+kjv: "And they began to be sorrowful, and to say unto him one by one, Is it I? and another said, Is it I?"
+bsb: "They began to be grieved and to ask Him one after another, “Surely not I?”"
+greek: "οἱ δὲ ἤρξαντο λυπεῖσθαι καὶ λέγειν αὐτῷ εἷς κατὰ εἷς· μήτι ἐγώ καὶ ἄλλος, μήτι ἐγώ;"
+pericope: "[[Mark.14.17 The Last Supper|The Last Supper]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SELF-EXAMINATION|SELF-EXAMINATION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0757]]"
+- "[[G3076]]"
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G1520]]"
+- "[[G2596]]"
+- "[[G3385]]"
+- "[[G1473]]"
+- "[[G0243]]"
+texts:
+- ko
+- NKO
+- K
+---
+
 **Mark 14:19**<big><big>[[Mark.14.17 The Last Supper|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they began to be sorrowful, and to say unto him one by one, [Is] it I? and another [said, Is] it I?
 <small><sub>**BSB:**</sub></small>
 They began to be grieved and to ask Him one after another, “Surely not I?”
-<small><sub>**Literal:**</sub></small>
-<the> now They began to be grieved and to say to Him one by one; surely not ever I myself and other surely not ever I myself?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.18|<< Mark 14:18]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.20|Mark 14:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G0757\|ἤρξαντο]]  [[G3076\|λυπεῖσθαι]]  [[G2532\|καὶ]]  [[G3004G\|λέγειν]]  [[G0846\|αὐτῷ]]  [[G1520\|εἷς]]  [[G2596\|κατὰ]]  [[G1520\|εἷς·]]  [[G3385\|μήτι]]  [[G1473\|ἐγώ]]  [[G2532\|καὶ]]  [[G0243\|ἄλλος,]]  [[G3385\|μήτι]]  [[G1473\|ἐγώ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRAFTINESS|CRAFTINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic PASSOVER|PASSOVER]] • [[topic SELF-EXAMINATION|SELF-EXAMINATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.18|<< Mark 14:18]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.20|Mark 14:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

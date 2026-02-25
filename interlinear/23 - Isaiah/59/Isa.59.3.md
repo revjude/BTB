@@ -1,8 +1,61 @@
+---
+title: Isaiah 59:3
+type: Verse
+kjv: "For your hands are defiled with blood, and your fingers with iniquity; your lips have spoken lies, your tongue hath muttered perverseness."
+bsb: "For your hands are stained with blood, and your fingers with iniquity; your lips have spoken lies, and your tongue mutters injustice."
+hebrew: "כִּ֤י כַפֵּיכֶם֙ נְגֹאֲל֣וּ בַדָּ֔ם וְאֶצְבְּעוֹתֵיכֶ֖ם בֶּֽעָוֹ֑ן שִׂפְתֽוֹתֵיכֶם֙ דִּבְּרוּ־ שֶׁ֔קֶר לְשׁוֹנְכֶ֖ם עַוְלָ֥ה תֶהְגֶּֽה׃"
+pericope: "[[Isa.59.1 Sin Separates Us from God|Sin Separates Us from God]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 59
+book/chapter: "[[Isa.59|Isaiah 59]]"
+chronological_order: 698
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3709G]]"
+- "[[H9026]]"
+- "[[H1351]]"
+- "[[H9003]]"
+- "[[H1818]]"
+- "[[H9002]]"
+- "[[H0676]]"
+- "[[H5771G]]"
+- "[[H8193G]]"
+- "[[H1696G]]"
+- "[[H9014]]"
+- "[[H8267]]"
+- "[[H3956G]]"
+- "[[H5766B]]"
+- "[[H1897]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 59:3**<big><big>[[Isa.59.1 Sin Separates Us from God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For your hands are defiled with blood, and your fingers with iniquity; your lips have spoken lies, your tongue hath muttered perverseness.
 <small><sub>**BSB:**</sub></small>
 For your hands are stained with blood, and your fingers with iniquity; your lips have spoken lies, and your tongue mutters injustice.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H3709G\|כַפֵּי]][[H9026\|כֶם֙]] [[H1351\|נְגֹאֲל֣וּ]] [[H9003\|בַ]][[H1818\|דָּ֔ם]] [[H9002\|וְ]][[H0676\|אֶצְבְּעוֹתֵי]][[H9026\|כֶ֖ם]] [[H9003\|בֶּֽ]][[H5771G\|עָוֹ֑ן]] [[H8193G\|שִׂפְתֽוֹתֵי]][[H9026\|כֶם֙]] [[H1696G\|דִּבְּרוּ]][[H9014\|־]] [[H8267\|שֶׁ֔קֶר]] [[H3956G\|לְשׁוֹנְ]][[H9026\|כֶ֖ם]] [[H5766B\|עַוְלָ֥ה]] [[H1897\|תֶהְגֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.2|<< Isaiah 59:2]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.4|Isaiah 59:4 >>]]</td></tr></table>
 

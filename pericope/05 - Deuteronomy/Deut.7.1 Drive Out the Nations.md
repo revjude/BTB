@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Drive Out the Nations
+type: Pericope
 pericope: "[[Deut.7.1 Drive Out the Nations|Drive Out the Nations]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 7
 book/chapter: "[[Deut.7|Deuteronomy 7]]"
-genre:
+chronological_order: 203
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 11
 verses:
 - "[[Deut.7.1]]"
 - "[[Deut.7.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Deut.7.11]]"
 ---
 
-[[Deut.7|Deuteronomy 7:1 - Deuteronomy 7:11]]
+<small>[[Deut.7|Deuteronomy 7:1-11]]</small>
 *Drive Out the Nations*
 
 [[Deut.7.1|1]] When the LORD thy God shall bring thee into the land whither thou goest to possess it, and hath cast out many nations before thee, the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites, seven nations greater and mightier than thou;

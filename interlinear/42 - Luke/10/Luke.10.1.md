@@ -1,10 +1,69 @@
+---
+title: Luke 10:1
+type: Verse
+kjv: "After these things the Lord appointed other seventy also, and sent them two and two before his face into every city and place, whither he himself would come."
+bsb: "After this, the Lord appointed seventy-two others and sent them two by two ahead of Him to every town and place He was about to visit."
+greek: "Μετὰ δὲ ταῦτα ἀνέδειξεν ὁ κύριος καὶ ἑτέρους ἑβδομήκοντα δύο καὶ ἀπέστειλεν αὐτοὺς ἀνὰ δύο δύο πρὸ προσώπου αὐτοῦ εἰς πᾶσαν πόλιν καὶ τόπον οὗ ἤμελλεν αὐτὸς ἔρχεσθαι."
+pericope: "[[Luke.10.1 Jesus Sends the Seventy-Two|Jesus Sends the Seventy-Two]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 10
+book/chapter: "[[Luke.10|Luke 10]]"
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHARISM|CHARISM]]"
+- "[[topic DISCIPLE|DISCIPLE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SEVENTY|SEVENTY]]"
+strongs:
+- "[[G3326]]"
+- "[[G1161]]"
+- "[[G3778]]"
+- "[[G0322]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G2532]]"
+- "[[G2087]]"
+- "[[G1440]]"
+- "[[G1417]]"
+- "[[G0649]]"
+- "[[G0846]]"
+- "[[G0303]]"
+- "[[G4253]]"
+- "[[G4383]]"
+- "[[G1519]]"
+- "[[G3956]]"
+- "[[G4172]]"
+- "[[G5117]]"
+- "[[G3757]]"
+- "[[G3195]]"
+- "[[G2064]]"
+texts:
+- NKO
+- ko
+- NO
+---
+
 **Luke 10:1**<big><big>[[Luke.10.1 Jesus Sends the Seventy-Two|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 After these things the Lord appointed other seventy also, and sent them two and two before his face into every city and place, whither he himself would come.
 <small><sub>**BSB:**</sub></small>
 After this, the Lord appointed seventy-two others and sent them two by two ahead of Him to every town and place He was about to visit.
-<small><sub>**Literal:**</sub></small>
-After now these things appointed the Lord also others seventy two and sent them in two [by] two before [the] face of Himself into every city and place where was soon He Himself to go.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.62|<< Luke 9:62]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.2|Luke 10:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3326\|Μετὰ]]  [[G1161\|δὲ]]  [[G3778\|ταῦτα]]  [[G0322\|ἀνέδειξεν]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G2532\|καὶ]]  [[G2087\|ἑτέρους]]  [[G1440\|ἑβδομήκοντα]]  [[G1417\|δύο]]  [[G2532\|καὶ]]  [[G0649\|ἀπέστειλεν]]  [[G0846\|αὐτοὺς]]  [[G0303\|ἀνὰ]]  [[G1417\|δύο]]  [[G1417\|δύο]]  [[G4253\|πρὸ]]  [[G4383\|προσώπου]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G3956\|πᾶσαν]]  [[G4172\|πόλιν]]  [[G2532\|καὶ]]  [[G5117\|τόπον]]  [[G3757\|οὗ]]  [[G3195\|ἤμελλεν]]  [[G0846\|αὐτὸς]]  [[G2064\|ἔρχεσθαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARISM|CHARISM]] • [[topic DISCIPLE|DISCIPLE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SEVENTY|SEVENTY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.62|<< Luke 9:62]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.2|Luke 10:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

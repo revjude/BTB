@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Edom Refuses Passage
+type: Pericope
 pericope: "[[Num.20.14 Edom Refuses Passage|Edom Refuses Passage]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 20
 book/chapter: "[[Num.20|Numbers 20]]"
-genre:
+chronological_order: 180
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 8
 verses:
 - "[[Num.20.14]]"
 - "[[Num.20.15]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Num.20.21]]"
 ---
 
-[[Num.20|Numbers 20:14 - Numbers 20:21]]
+<small>[[Num.20|Numbers 20:14-21]]</small>
 *Edom Refuses Passage*
 
 [[Num.20.14|14]] And Moses sent messengers from Kadesh unto the king of Edom, Thus saith thy brother Israel, Thou knowest all the travail that hath befallen us:

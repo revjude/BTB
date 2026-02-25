@@ -1,8 +1,56 @@
+---
+title: Psalm 106:37
+type: Verse
+kjv: "Yea, they sacrificed their sons and their daughters unto devils,"
+bsb: "They sacrificed their sons and their daughters to demons."
+hebrew: "וַיִּזְבְּח֣וּ אֶת־ בְּ֭נֵיהֶם וְאֶת־ בְּנֽוֹתֵיהֶ֗ם לַשֵּֽׁדִים׃"
+pericope: "[[Ps.106.1 Give Thanks to the LORD, for He Is Good|Give Thanks to the LORD, for He Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 106
+book/chapter: "[[Ps.106|Psalm 106]]"
+chronological_order: 530
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H2076]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H9005]]"
+- "[[H7700]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 106:37**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, they sacrificed their sons and their daughters unto devils,
 <small><sub>**BSB:**</sub></small>
 They sacrificed their sons and their daughters to demons.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2076\|יִּזְבְּח֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּ֭נֵי]][[H9028\|הֶם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1323G\|בְּנֽוֹתֵי]][[H9028\|הֶ֗ם]] [[H9005\|לַ]][[H7700\|שֵּֽׁדִים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.36|<< Psalms 106:36]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.38|Psalms 106:38 >>]]</td></tr></table>
 

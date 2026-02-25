@@ -1,10 +1,50 @@
+---
+title: John 12:37
+type: Verse
+kjv: "But though he had done so many miracles before them, yet they believed not on him:"
+bsb: "Although Jesus had performed so many signs in their presence, they still did not believe in Him."
+greek: "Τοσαῦτα δὲ αὐτοῦ σημεῖα πεποιηκότος ἔμπροσθεν αὐτῶν οὐκ ἐπίστευον εἰς αὐτόν,"
+pericope: "[[John.12.37 Belief and Unbelief|Belief and Unbelief]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G5118]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G4592]]"
+- "[[G4160G]]"
+- "[[G1715]]"
+- "[[G3756]]"
+- "[[G4100]]"
+- "[[G1519]]"
+texts:
+- NKO
+---
+
 **John 12:37**<big><big>[[John.12.37 Belief and Unbelief|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But though he had done so many miracles before them, yet they believed not on him:
 <small><sub>**BSB:**</sub></small>
 Although Jesus had performed so many signs in their presence, they still did not believe in Him.
-<small><sub>**Literal:**</sub></small>
-So many however of Him signs having been done before them not they were believing in Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.36|<< John 12:36]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.38|John 12:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5118\|Τοσαῦτα]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῦ]]  [[G4592\|σημεῖα]]  [[G4160G\|πεποιηκότος]]  [[G1715\|ἔμπροσθεν]]  [[G0846\|αὐτῶν]]  [[G3756\|οὐκ]]  [[G4100\|ἐπίστευον]]  [[G1519\|εἰς]]  [[G0846\|αὐτόν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.36|<< John 12:36]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.38|John 12:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

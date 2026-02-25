@@ -1,8 +1,64 @@
+---
+title: Micah 2:7
+type: Verse
+kjv: "O thou that art named the house of Jacob, is the spirit of the LORD straitened? are these his doings? do not my words do good to him that walketh uprightly?"
+bsb: "Should it be said, O house of Jacob, “Is the Spirit of the LORD impatient? Are these the things He does?” Do not My words bring good to him who walks uprightly?"
+hebrew: "הֶאָמ֣וּר בֵּֽית־ יַעֲקֹ֗ב הֲקָצַר֙ ר֣וּחַ יְהוָ֔ה אִם־ אֵ֖לֶּה מַעֲלָלָ֑יו הֲל֤וֹא דְבָרַ֨י יֵיטִ֔יבוּ עִ֖ם הַיָּשָׁ֥ר הוֹלֵֽךְ׃"
+pericope: "[[Mic.2.6 Reproof of False Prophets|Reproof of False Prophets]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 2
+book/chapter: "[[Mic.2|Micah 2]]"
+chronological_order: 624
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic MICAH|MICAH]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9008]]"
+- "[[H0559]]"
+- "[[H1004M]]"
+- "[[H9014]]"
+- "[[H3290]]"
+- "[[H7114A]]"
+- "[[H7307J]]"
+- "[[H3068G]]"
+- "[[H0518I]]"
+- "[[H0428]]"
+- "[[H4611]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H1697G]]"
+- "[[H9020]]"
+- "[[H3190]]"
+- "[[H5973A]]"
+- "[[H9009]]"
+- "[[H3477G]]"
+- "[[H1980I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 2:7**<big><big>[[Mic.2.6 Reproof of False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O [thou that art] named the house of Jacob, is the spirit of the LORD straitened? [are] these his doings? do not my words do good to him that walketh uprightly?
 <small><sub>**BSB:**</sub></small>
 Should it be said, O house of Jacob, “Is the Spirit of the LORD impatient? Are these the things He does?” Do not My words bring good to him who walks uprightly?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֶ]][[H0559\|אָמ֣וּר]] [[H1004M\|בֵּֽית]][[H9014\|־]] [[H3290\|יַעֲקֹ֗ב]] [[H9008\|הֲ]][[H7114A\|קָצַר֙]] [[H7307J\|ר֣וּחַ]] [[H3068G\|יְהוָ֔ה]] [[H0518I\|אִם]][[H9014\|־]] [[H0428\|אֵ֖לֶּה]] [[H4611\|מַעֲלָלָ֑י]][[H9023\|ו]] [[H9008\|הֲ]][[H3808\|ל֤וֹא]] [[H1697G\|דְבָרַ֨]][[H9020\|י]] [[H3190\|יֵיטִ֔יבוּ]] [[H5973A\|עִ֖ם]] [[H9009\|הַ]][[H3477G\|יָּשָׁ֥ר]] [[H1980I\|הוֹלֵֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic MICAH|MICAH]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.2.6|<< Micah 2:6]]</td><td align="center" style="border:none;">[[Mic.2|Micah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2.8|Micah 2:8 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Genesis 2:25
+type: Verse
+kjv: "And they were both naked, the man and his wife, and were not ashamed."
+bsb: "And the man and his wife were both naked, and they were not ashamed."
+hebrew: "וַיִּֽהְי֤וּ שְׁנֵיהֶם֙ עֲרוּמִּ֔ים הָֽאָדָ֖ם וְאִשְׁתּ֑וֹ וְלֹ֖א יִתְבֹּשָֽׁשׁוּ׃"
+pericope: "[[Gen.2.4 Man and Woman in the Garden|Man and Woman in the Garden]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 2
+book/chapter: "[[Gen.2|Genesis 2]]"
+chronological_order: 2
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INNOCENCY|INNOCENCY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H6174]]"
+- "[[H9009]]"
+- "[[H0120H]]"
+- "[[H9002]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H0954]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 2:25**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they were both naked, the man and his wife, and were not ashamed.
 <small><sub>**BSB:**</sub></small>
 And the man and his wife were both naked, and they were not ashamed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יִּֽהְי֤וּ]] [[H8147\|שְׁנֵי]][[H9028\|הֶם֙]] [[H6174\|עֲרוּמִּ֔ים]] [[H9009\|הָֽ]][[H0120H\|אָדָ֖ם]] [[H9002\|וְ]][[H0802H\|אִשְׁתּ֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H3808\|לֹ֖א]] [[H0954\|יִתְבֹּשָֽׁשׁוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic GOD|GOD]] • [[topic INNOCENCY|INNOCENCY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.24|<< Genesis 2:24]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.1|Genesis 3:1 >>]]</td></tr></table>
 

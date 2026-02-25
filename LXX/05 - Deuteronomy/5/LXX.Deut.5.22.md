@@ -1,6 +1,79 @@
+---
+title: LXX Deuteronomy 5:22
+type: Verse
+lxx: "These are the discourses the lord spoke to all your congregation in the mountain from the midst of the fire, darkness, dimness, storm -- a great voice; and he did not add any more. And he wrote them upon two tablets of stone, and he gave them to me."
+greek: "ταύτα τα ρήματα ελάλησε κύριος προς πάσαν συναγωγήν υμών εν τω όρει εκ μέσου του πυρός σκότος γνόφος θύελλα φωνή μεγάλη και ου προσέθηκε και έγραψεν αυτά επί δύο πλάκας λιθίνας και έδωκε εμοί"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 5
+book/chapter: "[[Deut.5|Deuteronomy 5]]"
+chronological_order: 201
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic STONES|STONES]]"
+- "[[topic TABLE|TABLE]]"
+strongs:
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G4487]]"
+- "[[G2980]]"
+- "[[G2962]]"
+- "[[G4314]]"
+- "[[G3956]]"
+- "[[G4864]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G1537]]"
+- "[[G3319]]"
+- "[[G3588]]"
+- "[[G4442]]"
+- "[[G4655]]"
+- "[[G1105]]"
+- "[[G2366]]"
+- "[[G5456]]"
+- "[[G3173]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G4369]]"
+- "[[G2532]]"
+- "[[G1125]]"
+- "[[G1473]]"
+- "[[G1909]]"
+- "[[G1417]]"
+- "[[G4109]]"
+- "[[G3035]]"
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G1473]]"
+---
+
 **LXX Deuteronomy 5:22** 
 <small><sub>**LXX:**</sub></small>
 These are the discourses \[the\] <span class="smallcaps">lord</span> spoke to all your congregation in the mountain from \[the\] midst of the fire, darkness, dimness, storm -- a great voice; and he did not add \[any more\]. And he wrote them upon two tablets of stone, and he gave \[them\] to me. 
+<small><sub>**Greek:**</sub></small>
+[[G3778\|ταύτα]] [[G3588\|τα]] [[G4487\|ρήματα]] [[G2980\|ελάλησε]] [[G2962\|κύριος]] [[G4314\|προς]] [[G3956\|πάσαν]] [[G4864\|συναγωγήν]] [[G1473\|υμών]] [[G1722\|εν]] [[G3588\|τω]] [[G3735\|όρει]] [[G1537\|εκ]] [[G3319\|μέσου]] [[G3588\|του]] [[G4442\|πυρός]] [[G4655\|σκότος]] [[G1105\|γνόφος]] [[G2366\|θύελλα]] [[G5456\|φωνή]] [[G3173\|μεγάλη]] [[G2532\|και]] [[G3756\|ου]] [[G4369\|προσέθηκε]] [[G2532\|και]] [[G1125\|έγραψεν]] [[G1473\|αυτά]] [[G1909\|επί]] [[G1417\|δύο]] [[G4109\|πλάκας]] [[G3035\|λιθίνας]] [[G2532\|και]] [[G1325\|έδωκε]] [[G1473\|εμοί]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECALOGUE|DECALOGUE]] • [[topic GOD|GOD]] • [[topic LAW|LAW]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic STONES|STONES]] • [[topic TABLE|TABLE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.5.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.5.21|<< Deuteronomy 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.5.23|Deuteronomy 5:23 >>]]</td></tr></table>
 
@@ -38,6 +111,6 @@ These are the discourses \[the\] <span class="smallcaps">lord</span> spoke to al
 | and | **<big>[[G2532\|και]]</big>** |
 | he gave \[them\] | **<big>[[G1325\|έδωκε]]</big>** |
 | to me. | **<big>[[G1473\|εμοί]]</big>** |
-[[Deut.5.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.5.21|<< Deuteronomy 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.5.23|Deuteronomy 5:23 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.5.21|<< Deuteronomy 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.5.23|Deuteronomy 5:23 >>]]</td></tr></table>
 
 

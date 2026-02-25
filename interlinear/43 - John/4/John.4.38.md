@@ -1,10 +1,59 @@
+---
+title: John 4:38
+type: Verse
+kjv: "I sent you to reap that whereon ye bestowed no labour: other men laboured, and ye are entered into their labours."
+bsb: "I sent you to reap what you have not worked for; others have done the hard work, and now you have taken up their labor.”"
+jesus_said: "I sent you to reap that whereon ye bestowed no labour: other men laboured, and ye are entered into their labours."
+greek: "ἐγὼ ἀπέστειλα ὑμᾶς θερίζειν ὃ οὐχ ὑμεῖς κεκοπιάκατε· ἄλλοι κεκοπιάκασιν, καὶ ὑμεῖς εἰς τὸν κόπον αὐτῶν εἰσεληλύθατε."
+pericope: "[[John.4.27 The Disciples Return and Marvel|The Disciples Return and Marvel]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[G1473]]"
+- "[[G0649]]"
+- "[[G4771]]"
+- "[[G2325]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G2872]]"
+- "[[G0243]]"
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2873]]"
+- "[[G0846]]"
+- "[[G1525]]"
+texts:
+- NKO
+---
+
 **John 4:38**<big><big>[[John.4.27 The Disciples Return and Marvel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I sent you to reap that whereon ye bestowed no labour: other men laboured, and ye are entered into their labours.
 <small><sub>**BSB:**</sub></small>
 I sent you to reap what you have not worked for; others have done the hard work, and now you have taken up their labor.”
-<small><sub>**Literal:**</sub></small>
-I myself sent you to reap what not you yourselves have toiled for; others have toiled, and you yourselves into the labor of them have entered.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.37|<< John 4:37]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.39|John 4:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|ἐγὼ]]  [[G0649\|ἀπέστειλα]]  [[G4771\|ὑμᾶς]]  [[G2325\|θερίζειν]]  [[G3739\|ὃ]]  [[G3756\|οὐχ]]  [[G4771\|ὑμεῖς]]  [[G2872\|κεκοπιάκατε·]]  [[G0243\|ἄλλοι]]  [[G2872\|κεκοπιάκασιν,]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2873\|κόπον]]  [[G0846\|αὐτῶν]]  [[G1525\|εἰσεληλύθατε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SAMARIA|SAMARIA]] • [[topic SHECHEM|SHECHEM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.37|<< John 4:37]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.39|John 4:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

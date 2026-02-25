@@ -1,8 +1,59 @@
+---
+title: Ezra 7:15
+type: Verse
+kjv: "And to carry the silver and gold, which the king and his counsellers have freely offered unto the God of Israel, whose habitation is in Jerusalem,"
+bsb: "Moreover, you are to take with you the silver and gold that the king and his counselors have freely offered to the God of Israel, whose dwelling is in Jerusalem,"
+aramaic: "וּלְהֵיבָלָ֖ה כְּסַ֣ף וּדְהַ֑ב דִּֽי־ מַלְכָּ֣א וְיָעֲט֗וֹהִי הִתְנַדַּ֙בוּ֙ לֶאֱלָ֣הּ יִשְׂרָאֵ֔ל דִּ֥י בִֽירוּשְׁלֶ֖ם מִשְׁכְּנֵֽהּ׃"
+pericope: "[[Ezra.7.11 Artaxerxes’ Letter for Ezra|Artaxerxes’ Letter for Ezra]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 7
+book/chapter: "[[Ezra.7|Ezra 7]]"
+chronological_order: 909
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H2987]]"
+- "[[H3702]]"
+- "[[H1722]]"
+- "[[H1768]]"
+- "[[H9014]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H3272B]]"
+- "[[H9023]]"
+- "[[H5069]]"
+- "[[H0426]]"
+- "[[H3479]]"
+- "[[H9003]]"
+- "[[H3390]]"
+- "[[H4907]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 7:15**<big><big>[[Ezra.7.11 Artaxerxes’ Letter for Ezra|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And to carry the silver and gold, which the king and his counsellers have freely offered unto the God of Israel, whose habitation [is] in Jerusalem,
 <small><sub>**BSB:**</sub></small>
 Moreover, you are to take with you the silver and gold that the king and his counselors have freely offered to the God of Israel, whose dwelling is in Jerusalem,
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H2987\|הֵיבָלָ֖ה]] [[H3702\|כְּסַ֣ף]] [[H9002\|וּ]][[H1722\|דְהַ֑ב]] [[H1768\|דִּֽי]][[H9014\|־]] [[H4430\|מַלְכָּ֣]][[H9010\|א]] [[H9002\|וְ]][[H3272B\|יָעֲט֗וֹ]][[H9023\|הִי]] [[H5069\|הִתְנַדַּ֙בוּ֙]] [[H9005\|לֶ]][[H0426\|אֱלָ֣הּ]] [[H3479\|יִשְׂרָאֵ֔ל]] [[H1768\|דִּ֥י]] [[H9003\|בִֽ]][[H3390\|ירוּשְׁלֶ֖ם]] [[H4907\|מִשְׁכְּנֵֽ]][[H9023\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LIBERALITY|LIBERALITY]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.14|<< Ezra 7:14]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.16|Ezra 7:16 >>]]</td></tr></table>
 

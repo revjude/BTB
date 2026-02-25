@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Enjoy Your Portion in This Life
+type: Pericope
 pericope: "[[Eccl.9.7 Enjoy Your Portion in This Life|Enjoy Your Portion in This Life]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Ecclesiastes
 chapter: 9
 book/chapter: "[[Eccl.9|Ecclesiastes 9]]"
-genre:
+chronological_order: 547
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - philosophical
 - megillot
+verse_count: 6
 verses:
 - "[[Eccl.9.7]]"
 - "[[Eccl.9.8]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Eccl.9.12]]"
 ---
 
-[[Eccl.9|Ecclesiastes 9:7 - Ecclesiastes 9:12]]
+<small>[[Eccl.9|Ecclesiastes 9:7-12]]</small>
 *Enjoy Your Portion in This Life*
 
 [[Eccl.9.7|7]] Go thy way, eat thy bread with joy, and drink thy wine with a merry heart; for God now accepteth thy works.

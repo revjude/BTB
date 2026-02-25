@@ -1,8 +1,48 @@
+---
+title: Psalm 81:6
+type: Verse
+kjv: "I removed his shoulder from the burden: his hands were delivered from the pots."
+bsb: "“I relieved his shoulder of the burden; his hands were freed from the basket."
+hebrew: "הֲסִיר֣וֹתִי מִסֵּ֣בֶל שִׁכְמ֑וֹ כַּ֝פָּ֗יו מִדּ֥וּד תַּעֲבֹֽרְנָה׃"
+pericope: "[[Ps.81.1 Sing for Joy to God Our Strength|Sing for Joy to God Our Strength]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 81
+book/chapter: "[[Ps.81|Psalm 81]]"
+chronological_order: 511
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H5493G]]"
+- "[[H9006]]"
+- "[[H5447]]"
+- "[[H7926]]"
+- "[[H9023]]"
+- "[[H3709G]]"
+- "[[H1731]]"
+- "[[H5674A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 81:6**<big><big>[[Ps.81.1 Sing for Joy to God Our Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I removed his shoulder from the burden: his hands were delivered from the pots.
 <small><sub>**BSB:**</sub></small>
 “I relieved his shoulder of the burden; his hands were freed from the basket.
+<small><sub>**Hebrew:**</sub></small>
+[[H5493G\|הֲסִיר֣וֹתִי]] [[H9006\|מִ]][[H5447\|סֵּ֣בֶל]] [[H7926\|שִׁכְמ֑]][[H9023\|וֹ]] [[H3709G\|כַּ֝פָּ֗י]][[H9023\|ו]] [[H9006\|מִ]][[H1731\|דּ֥וּד]] [[H5674A\|תַּעֲבֹֽרְנָה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.81.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.81.5|<< Psalms 81:5]]</td><td align="center" style="border:none;">[[Ps.81|Psalms 81]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.81.7|Psalms 81:7 >>]]</td></tr></table>
 

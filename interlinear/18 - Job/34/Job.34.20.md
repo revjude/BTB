@@ -1,8 +1,57 @@
+---
+title: Job 34:20
+type: Verse
+kjv: "In a moment shall they die, and the people shall be troubled at midnight, and pass away: and the mighty shall be taken away without hand."
+bsb: "They die in an instant, in the middle of the night. The people convulse and pass away; the mighty are removed without human hand."
+hebrew: "רֶ֤גַע׀ יָמֻתוּ֮ וַחֲצ֪וֹת לָ֥יְלָה יְגֹעֲשׁ֣וּ עָ֣ם וְיַעֲבֹ֑רוּ וְיָסִ֥ירוּ אַ֝בִּ֗יר לֹ֣א בְיָֽד׃"
+pericope: "[[Job.34.1 Elihu Confirms God’s Justice|Elihu Confirms God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 34
+book/chapter: "[[Job.34|Job 34]]"
+chronological_order: 45
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H7281]]"
+- "[[H9015]]"
+- "[[H4191]]"
+- "[[H9002]]"
+- "[[H2676]]"
+- "[[H3915]]"
+- "[[H1607]]"
+- "[[H5971A]]"
+- "[[H5674A]]"
+- "[[H5493G]]"
+- "[[H0047I]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 34:20**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In a moment shall they die, and the people shall be troubled at midnight, and pass away: and the mighty shall be taken away without hand.
 <small><sub>**BSB:**</sub></small>
 They die in an instant, in the middle of the night. The people convulse and pass away; the mighty are removed without human hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H7281\|רֶ֤גַע]][[H9015\|׀]] [[H4191\|יָמֻתוּ֮]] [[H9002\|וַ]][[H2676\|חֲצ֪וֹת]] [[H3915\|לָ֥יְלָה]] [[H1607\|יְגֹעֲשׁ֣וּ]] [[H5971A\|עָ֣ם]] [[H9002\|וְ]][[H5674A\|יַעֲבֹ֑רוּ]] [[H9002\|וְ]][[H5493G\|יָסִ֥ירוּ]] [[H0047I\|אַ֝בִּ֗יר]] [[H3808\|לֹ֣א]] [[H9003\|בְ]][[H3027G\|יָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.19|<< Job 34:19]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.21|Job 34:21 >>]]</td></tr></table>
 

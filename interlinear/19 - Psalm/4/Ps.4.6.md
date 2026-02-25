@@ -1,8 +1,59 @@
+---
+title: Psalm 4:6
+type: Verse
+kjv: "There be many that say, Who will shew us any good? LORD, lift thou up the light of thy countenance upon us."
+bsb: "Many ask, “Who can show us the good?” Shine the light of Your face upon us, O LORD."
+hebrew: "רַבִּ֥ים אֹמְרִים֮ מִֽי־ יַרְאֵ֪נ֫וּ ט֥וֹב נְֽסָה־ עָ֭לֵינוּ א֨וֹר פָּנֶ֬יךָ יְהוָֽה׃"
+pericope: "[[Ps.4.1 Answer Me When I Call!|Answer Me When I Call!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 4
+book/chapter: "[[Ps.4|Psalm 4]]"
+chronological_order: 339
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic COUNTENANCE|COUNTENANCE]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+strongs:
+- "[[H7227A]]"
+- "[[H0559]]"
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H9035]]"
+- "[[H2896B]]"
+- "[[H5375Q]]"
+- "[[H9012]]"
+- "[[H5921A]]"
+- "[[H0216]]"
+- "[[H6440H]]"
+- "[[H9021]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 4:6**<big><big>[[Ps.4.1 Answer Me When I Call!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There be] many that say, Who will shew us [any] good? LORD, lift thou up the light of thy countenance upon us.
 <small><sub>**BSB:**</sub></small>
 Many ask, “Who can show us the good?” Shine the light of Your face upon us, O LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H7227A\|רַבִּ֥ים]] [[H0559\|אֹמְרִים֮]] [[H4310\|מִֽי]][[H9014\|־]] [[H7200G\|יַרְאֵ֪]][[H9035\|נ֫וּ]] [[H2896B\|ט֥וֹב]] [[H5375Q\|נְֽסָ]][[H9012\|ה]][[H9014\|־]] [[H5921A\|עָ֭לֵי]][[H9035\|נוּ]] [[H0216\|א֨וֹר]] [[H6440H\|פָּנֶ֬י]][[H9021\|ךָ]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTENANCE|COUNTENANCE]] • [[topic INFIDELITY|INFIDELITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.4.5|<< Psalms 4:5]]</td><td align="center" style="border:none;">[[Ps.4|Psalms 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.4.7|Psalms 4:7 >>]]</td></tr></table>
 

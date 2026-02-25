@@ -1,8 +1,62 @@
+---
+title: Exodus 23:4
+type: Verse
+kjv: "If thou meet thine enemy’s ox or his ass going astray, thou shalt surely bring it back to him again."
+bsb: "If you encounter your enemy’s stray ox or donkey, you must return it to him."
+hebrew: "כִּ֣י תִפְגַּ֞ע שׁ֧וֹר אֹֽיִבְךָ֛ א֥וֹ חֲמֹר֖וֹ תֹּעֶ֑ה הָשֵׁ֥ב תְּשִׁיבֶ֖נּוּ לֽוֹ׃ ס"
+pericope: "[[Exod.23.1 Justice and Mercy|Justice and Mercy]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 23
+book/chapter: "[[Exod.23|Exodus 23]]"
+chronological_order: 115
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic STRAY|STRAY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H6293]]"
+- "[[H7794]]"
+- "[[H0341]]"
+- "[[H9021]]"
+- "[[H0176A]]"
+- "[[H2543]]"
+- "[[H9023]]"
+- "[[H8582]]"
+- "[[H7725H]]"
+- "[[H7725G]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 23:4**<big><big>[[Exod.23.1 Justice and Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou meet thine enemy’s ox or his ass going astray, thou shalt surely bring it back to him again.
 <small><sub>**BSB:**</sub></small>
 If you encounter your enemy’s stray ox or donkey, you must return it to him.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H6293\|תִפְגַּ֞ע]] [[H7794\|שׁ֧וֹר]] [[H0341\|אֹֽיִבְ]][[H9021\|ךָ֛]] [[H0176A\|א֥וֹ]] [[H2543\|חֲמֹר֖]][[H9023\|וֹ]] [[H8582\|תֹּעֶ֑ה]] [[H7725H\|הָשֵׁ֥ב]] [[H7725G\|תְּשִׁיבֶ֖]][[H9033\|נּוּ]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORGIVENESS|FORGIVENESS]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic STRAY|STRAY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.3|<< Exodus 23:3]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.5|Exodus 23:5 >>]]</td></tr></table>
 
@@ -17,7 +71,7 @@ If you encounter your enemy’s stray ox or donkey, you must return it to him.
 | wandering off  |**<big>&#8207;[[H8582\|תֹּעֶ֑ה]]&#8207; </big>**| to.'Eh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly \<to return>  |**<big>&#8207;[[H7725H\|הָשֵׁ֥ב]]&#8207; </big>**| ha.Shev<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will return it  |**<big>&#8207;[[H7725G\|תְּשִׁיבֶ֖]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| te.shi.Ve.<small><sup>[[HVhi2ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> him  |**<big>&#8207;[[H9005\|לֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> him  |**<big>&#8207;[[H9005\|לֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.3|<< Exodus 23:3]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.5|Exodus 23:5 >>]]</td></tr></table>
 
 

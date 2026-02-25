@@ -1,8 +1,59 @@
+---
+title: Isaiah 41:26
+type: Verse
+kjv: "Who hath declared from the beginning, that we may know? and beforetime, that we may say, He is righteous? yea, there is none that sheweth, yea, there is none that declareth, yea, there is none that heareth your words."
+bsb: "Who has declared this from the beginning, so that we may know, and from times past, so that we may say: ‘He was right’? No one announced it, no one foretold it, no one heard your words."
+hebrew: "מִֽי־ הִגִּ֤יד מֵרֹאשׁ֙ וְנֵדָ֔עָה וּמִלְּפָנִ֖ים וְנֹאמַ֣ר צַדִּ֑יק אַ֣ף אֵין־ מַגִּ֗יד אַ֚ף אֵ֣ין מַשְׁמִ֔יעַ אַ֥ף אֵין־ שֹׁמֵ֖עַ אִמְרֵיכֶֽם׃"
+pericope: "[[Isa.41.21 Meaningless Idols|Meaningless Idols]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 41
+book/chapter: "[[Isa.41|Isaiah 41]]"
+chronological_order: 680
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H5046]]"
+- "[[H9006]]"
+- "[[H7218J]]"
+- "[[H9002]]"
+- "[[H3045]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0559]]"
+- "[[H6662]]"
+- "[[H0637]]"
+- "[[H0369]]"
+- "[[H8085I]]"
+- "[[H8085G]]"
+- "[[H0561]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 41:26**<big><big>[[Isa.41.21 Meaningless Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who hath declared from the beginning, that we may know? and beforetime, that we may say, [He is] righteous? yea, [there is] none that sheweth, yea, [there is] none that declareth, yea, [there is] none that heareth your words.
 <small><sub>**BSB:**</sub></small>
 Who has declared this from the beginning, so that we may know, and from times past, so that we may say: ‘He was right’? No one announced it, no one foretold it, no one heard your words.
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִֽי]][[H9014\|־]] [[H5046\|הִגִּ֤יד]] [[H9006\|מֵ]][[H7218J\|רֹאשׁ֙]] [[H9002\|וְ]][[H3045\|נֵדָ֔עָה]] [[H9002\|וּ]][[H9006\|מִ]][[H9005\|לְּ]][[H6440G\|פָנִ֖ים]] [[H9002\|וְ]][[H0559\|נֹאמַ֣ר]] [[H6662\|צַדִּ֑יק]] [[H0637\|אַ֣ף]] [[H0369\|אֵין]][[H9014\|־]] [[H5046\|מַגִּ֗יד]] [[H0637\|אַ֚ף]] [[H0369\|אֵ֣ין]] [[H8085I\|מַשְׁמִ֔יעַ]] [[H0637\|אַ֥ף]] [[H0369\|אֵין]][[H9014\|־]] [[H8085G\|שֹׁמֵ֖עַ]] [[H0561\|אִמְרֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.25|<< Isaiah 41:25]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.27|Isaiah 41:27 >>]]</td></tr></table>
 

@@ -1,8 +1,54 @@
+---
+title: Psalm 26:8
+type: Verse
+kjv: "LORD, I have loved the habitation of thy house, and the place where thine honour dwelleth."
+bsb: "O LORD, I love the house where You dwell, the place where Your glory resides."
+hebrew: "יְֽהוָ֗ה אָ֭הַבְתִּי מְע֣וֹן בֵּיתֶ֑ךָ וּ֝מְק֗וֹם מִשְׁכַּ֥ן כְּבוֹדֶֽךָ׃"
+pericope: "[[Ps.26.1 Vindicate Me, O LORD|Vindicate Me, O LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 26
+book/chapter: "[[Ps.26|Psalm 26]]"
+chronological_order: 358
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFECTIONS|AFFECTIONS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H3068G]]"
+- "[[H0157G]]"
+- "[[H4583]]"
+- "[[H1004B]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H4725]]"
+- "[[H4908]]"
+- "[[H3519]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 26:8**<big><big>[[Ps.26.1 Vindicate Me, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 LORD, I have loved the habitation of thy house, and the place where thine honour dwelleth.
 <small><sub>**BSB:**</sub></small>
 O LORD, I love the house where You dwell, the place where Your glory resides.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְֽהוָ֗ה]] [[H0157G\|אָ֭הַבְתִּי]] [[H4583\|מְע֣וֹן]] [[H1004B\|בֵּיתֶ֑]][[H9021\|ךָ]] [[H9002\|וּ֝]][[H4725\|מְק֗וֹם]] [[H4908\|מִשְׁכַּ֥ן]] [[H3519\|כְּבוֹדֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFECTIONS|AFFECTIONS]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.26.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.26.7|<< Psalms 26:7]]</td><td align="center" style="border:none;">[[Ps.26|Psalms 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.26.9|Psalms 26:9 >>]]</td></tr></table>
 

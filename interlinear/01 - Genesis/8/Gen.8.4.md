@@ -1,8 +1,60 @@
+---
+title: Genesis 8:4
+type: Verse
+kjv: "And the ark rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat."
+bsb: "On the seventeenth day of the seventh month, the ark came to rest on the mountains of Ararat."
+hebrew: "וַתָּ֤נַח הַתֵּבָה֙ בַּחֹ֣דֶשׁ הַשְּׁבִיעִ֔י בְּשִׁבְעָה־ עָשָׂ֥ר י֖וֹם לַחֹ֑דֶשׁ עַ֖ל הָרֵ֥י אֲרָרָֽט׃"
+pericope: "[[Gen.8.1 The Ark Rests on Ararat|The Ark Rests on Ararat]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 8
+book/chapter: "[[Gen.8|Genesis 8]]"
+chronological_order: 8
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ARARAT|ARARAT]]"
+- "[[topic MONTH|MONTH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5117]]"
+- "[[H9009]]"
+- "[[H8392]]"
+- "[[H9003]]"
+- "[[H2320G]]"
+- "[[H7637]]"
+- "[[H7651]]"
+- "[[H9014]]"
+- "[[H6240]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H5921A]]"
+- "[[H2022G]]"
+- "[[H0780]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 8:4**<big><big>[[Gen.8.1 The Ark Rests on Ararat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the ark rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat.
 <small><sub>**BSB:**</sub></small>
 On the seventeenth day of the seventh month, the ark came to rest on the mountains of Ararat.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5117\|תָּ֤נַח]] [[H9009\|הַ]][[H8392\|תֵּבָה֙]] [[H9003\|בַּ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֔י]] [[H9003\|בְּ]][[H7651\|שִׁבְעָה]][[H9014\|־]] [[H6240\|עָשָׂ֥ר]] [[H3117G\|י֖וֹם]] [[H9005\|לַ]][[H2320G\|חֹ֑דֶשׁ]] [[H5921A\|עַ֖ל]] [[H2022G\|הָרֵ֥י]] [[H0780\|אֲרָרָֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARARAT|ARARAT]] • [[topic MONTH|MONTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.3|<< Genesis 8:3]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.8.5|Genesis 8:5 >>]]</td></tr></table>
 

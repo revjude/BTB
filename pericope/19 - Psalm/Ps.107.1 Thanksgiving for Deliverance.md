@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Thanksgiving for Deliverance
+type: Pericope
 pericope: "[[Ps.107.1 Thanksgiving for Deliverance|Thanksgiving for Deliverance]]"
-verse_count: 43
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 107
 book/chapter: "[[Ps.107|Psalm 107]]"
-genre:
+chronological_order: 872
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 43
 verses:
 - "[[Ps.107.1]]"
 - "[[Ps.107.2]]"
@@ -64,7 +71,7 @@ verses:
 - "[[Ps.107.43]]"
 ---
 
-[[Ps.107|Psalm 107:1 - Psalm 107:43]]
+<small>[[Ps.107|Psalm 107:1-43]]</small>
 *Thanksgiving for Deliverance*
 
 [[Ps.107.1|1]] O give thanks unto the LORD, for \[he is\] good: for his mercy \[endureth\] for ever.

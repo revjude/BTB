@@ -1,10 +1,52 @@
+---
+title: Mark 3:16
+type: Verse
+kjv: "And Simon he surnamed Peter;"
+bsb: "These are the twelve He appointed: Simon (whom He named Peter),"
+greek: "καὶ ἐποίησεν τοὺς δώδεκα καὶ ἐπέθηκεν ὄνομα τῷ Σίμωνι Πέτρον,"
+pericope: "[[Mark.3.13 The Twelve Apostles|The Twelve Apostles]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 3
+book/chapter: "[[Mark.3|Mark 3]]"
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CALL|CALL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G2532]]"
+- "[[G4160I]]"
+- "[[G3588]]"
+- "[[G1427]]"
+- "[[G2007]]"
+- "[[G3686]]"
+- "[[G4613O]]"
+- "[[G4074G]]"
+texts:
+- NO
+- NKO
+---
+
 **Mark 3:16**<big><big>[[Mark.3.13 The Twelve Apostles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Simon he surnamed Peter;
 <small><sub>**BSB:**</sub></small>
 These are the twelve He appointed: Simon (whom He named Peter),
-<small><sub>**Literal:**</sub></small>
-And He appointed the Twelve And He added [the] name <the> to Simon Peter,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.15|<< Mark 3:15]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.17|Mark 3:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4160I\|ἐποίησεν]]  [[G3588\|τοὺς]]  [[G1427\|δώδεκα]]  [[G2532\|καὶ]]  [[G2007\|ἐπέθηκεν]]  [[G3686\|ὄνομα]]  [[G3588\|τῷ]]  [[G4613O\|Σίμωνι]]  [[G4074G\|Πέτρον,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CALL|CALL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.15|<< Mark 3:15]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.17|Mark 3:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

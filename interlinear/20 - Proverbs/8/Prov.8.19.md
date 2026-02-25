@@ -1,8 +1,52 @@
+---
+title: Proverbs 8:19
+type: Verse
+kjv: "My fruit is better than gold, yea, than fine gold; and my revenue than choice silver."
+bsb: "My fruit is better than gold, pure gold, and my harvest surpasses choice silver."
+hebrew: "ט֣וֹב פִּ֭רְיִי מֵחָר֣וּץ וּמִפָּ֑ז וּ֝תְבוּאָתִ֗י מִכֶּ֥סֶף נִבְחָֽר׃"
+pericope: "[[Prov.8.1 The Excellence of Wisdom|The Excellence of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 8
+book/chapter: "[[Prov.8|Proverbs 8]]"
+chronological_order: 463
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOLD|GOLD]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H2896A]]"
+- "[[H6529]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H2742D]]"
+- "[[H9002]]"
+- "[[H6337]]"
+- "[[H8393]]"
+- "[[H3701G]]"
+- "[[H0977]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 8:19**<big><big>[[Prov.8.1 The Excellence of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My fruit [is] better than gold, yea, than fine gold; and my revenue than choice silver.
 <small><sub>**BSB:**</sub></small>
 My fruit is better than gold, pure gold, and my harvest surpasses choice silver.
+<small><sub>**Hebrew:**</sub></small>
+[[H2896A\|ט֣וֹב]] [[H6529\|פִּ֭רְיִ]][[H9020\|י]] [[H9006\|מֵ]][[H2742D\|חָר֣וּץ]] [[H9002\|וּ]][[H9006\|מִ]][[H6337\|פָּ֑ז]] [[H9002\|וּ֝]][[H8393\|תְבוּאָתִ֗]][[H9020\|י]] [[H9006\|מִ]][[H3701G\|כֶּ֥סֶף]] [[H0977\|נִבְחָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOLD|GOLD]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.18|<< Proverbs 8:18]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.20|Proverbs 8:20 >>]]</td></tr></table>
 

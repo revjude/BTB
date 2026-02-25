@@ -1,10 +1,65 @@
+---
+title: Acts 25:10
+type: Verse
+kjv: "Then said Paul, I stand at Caesar’s judgment seat, where I ought to be judged: to the Jews have I done no wrong, as thou very well knowest."
+bsb: "Paul replied, “I am standing before the judgment seat of Caesar, where I ought to be tried. I have done nothing wrong to the Jews, as you yourself know very well."
+greek: "εἶπεν δὲ ὁ Παῦλος· ἐπὶ τοῦ βήματος Καίσαρος ἑστώς εἰμι, οὗ με δεῖ κρίνεσθαι. Ἰουδαίους οὐδὲν ἠδίκησα, ὡς καὶ σὺ κάλλιον ἐπιγινώσκεις·"
+pericope: "[[Acts.25.10 Paul Appeals to Caesar|Paul Appeals to Caesar]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 25
+book/chapter: "[[Acts.25|Acts 25]]"
+chronological_order: 1107
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic APPEAL|APPEAL]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic JUDGMENT-SEAT|JUDGMENT-SEAT]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ROMAN EMPIRE|ROMAN EMPIRE]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G1909]]"
+- "[[G0968]]"
+- "[[G2541]]"
+- "[[G2476]]"
+- "[[G1510]]"
+- "[[G3757]]"
+- "[[G3165]]"
+- "[[G1163]]"
+- "[[G2919]]"
+- "[[G2453]]"
+- "[[G3762]]"
+- "[[G0091]]"
+- "[[G5613]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G2566]]"
+- "[[G1921]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Acts 25:10**<big><big>[[Acts.25.10 Paul Appeals to Caesar|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said Paul, I stand at Caesar’s judgment seat, where I ought to be judged: to the Jews have I done no wrong, as thou very well knowest.
 <small><sub>**BSB:**</sub></small>
 Paul replied, “I am standing before the judgment seat of Caesar, where I ought to be tried. I have done nothing wrong to the Jews, as you yourself know very well.
-<small><sub>**Literal:**</sub></small>
-Said then <the> Paul; Before the judgment seat of Caesar standing I am, where me it behooves to be judged. To [the] Jews no [thing] I have done wrong, as also you yourself very well know;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.9|<< Acts 25:9]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.11|Acts 25:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος·]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῦ]]  [[G0968\|βήματος]]  [[G2541\|Καίσαρος]]  [[G2476\|ἑστώς]]  [[G1510\|εἰμι,]]  [[G3757\|οὗ]]  [[G3165\|με]]  [[G1163\|δεῖ]]  [[G2919\|κρίνεσθαι.]]  [[G2453\|Ἰουδαίους]]  [[G3762\|οὐδὲν]]  [[G0091\|ἠδίκησα,]]  [[G5613\|ὡς]]  [[G2532\|καὶ]]  [[G4771\|σὺ]]  [[G2566\|κάλλιον]]  [[G1921\|ἐπιγινώσκεις·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APPEAL|APPEAL]] • [[topic CITIZENS|CITIZENS]] • [[topic JUDGMENT-SEAT|JUDGMENT-SEAT]] • [[topic PAUL|PAUL]] • [[topic ROMAN EMPIRE|ROMAN EMPIRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.9|<< Acts 25:9]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.11|Acts 25:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

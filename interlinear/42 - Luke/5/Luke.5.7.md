@@ -1,10 +1,60 @@
+---
+title: Luke 5:7
+type: Verse
+kjv: "And they beckoned unto their partners, which were in the other ship, that they should come and help them. And they came, and filled both the ships, so that they began to sink."
+bsb: "So they signaled to their partners in the other boat to come and help them, and they came and filled both boats so full that they began to sink."
+greek: "καὶ κατένευσαν τοῖς μετόχοις τοῖς ἐν τῷ ἑτέρῳ πλοίῳ τοῦ ἐλθόντας συλλαβέσθαι αὐτοῖς. καὶ ἦλθον καὶ ἔπλησαν ἀμφότερα τὰ πλοῖα ὥστε βυθίζεσθαι αὐτά.¶"
+pericope: "[[Luke.5.1 The First Disciples|The First Disciples]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 5
+book/chapter: "[[Luke.5|Luke 5]]"
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FISH|FISH]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G2532]]"
+- "[[G2656]]"
+- "[[G3588]]"
+- "[[G3353]]"
+- "[[G1722]]"
+- "[[G2087]]"
+- "[[G4143]]"
+- "[[G2064]]"
+- "[[G4815]]"
+- "[[G0846]]"
+- "[[G4130]]"
+- "[[G0297]]"
+- "[[G5620]]"
+- "[[G1036]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 5:7**<big><big>[[Luke.5.1 The First Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they beckoned unto [their] partners, which were in the other ship, that they should come and help them. And they came, and filled both the ships, so that they began to sink.
 <small><sub>**BSB:**</sub></small>
 So they signaled to their partners in the other boat to come and help them, and they came and filled both boats so full that they began to sink.
-<small><sub>**Literal:**</sub></small>
-And they beckoned to the partners to the in the other boat <the> having come to help them. and they came and filled both the boats so that [were] sinking they.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.6|<< Luke 5:6]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.8|Luke 5:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2656\|κατένευσαν]]  [[G3588\|τοῖς]]  [[G3353\|μετόχοις]]  [[G3588\|τοῖς]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2087\|ἑτέρῳ]]  [[G4143\|πλοίῳ]]  [[G3588\|τοῦ]]  [[G2064\|ἐλθόντας]]  [[G4815\|συλλαβέσθαι]]  [[G0846\|αὐτοῖς.]]  [[G2532\|καὶ]]  [[G2064\|ἦλθον]]  [[G2532\|καὶ]]  [[G4130\|ἔπλησαν]]  [[G0297\|ἀμφότερα]]  [[G3588\|τὰ]]  [[G4143\|πλοῖα]]  [[G5620\|ὥστε]]  [[G1036\|βυθίζεσθαι]]  [[G0846\|αὐτά.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FISH|FISH]] • [[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.6|<< Luke 5:6]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.8|Luke 5:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

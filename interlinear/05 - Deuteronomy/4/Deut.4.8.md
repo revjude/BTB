@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 4:8
+type: Verse
+kjv: "And what nation is there so great, that hath statutes and judgments so righteous as all this law, which I set before you this day?"
+bsb: "And what nation is great enough to have righteous statutes and ordinances like this entire law I set before you today?"
+hebrew: "וּמִי֙ גּ֣וֹי גָּד֔וֹל אֲשֶׁר־ ל֛וֹ חֻקִּ֥ים וּמִשְׁפָּטִ֖ים צַדִּיקִ֑ם כְּכֹל֙ הַתּוֹרָ֣ה הַזֹּ֔את אֲשֶׁ֧ר אָנֹכִ֛י נֹתֵ֥ן לִפְנֵיכֶ֖ם הַיּֽוֹם׃"
+pericope: "[[Deut.4.1 An Exhortation to Obedience|An Exhortation to Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9002]]"
+- "[[H4310]]"
+- "[[H1471A]]"
+- "[[H1419A]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H2706G]]"
+- "[[H4941G]]"
+- "[[H6662]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H8451]]"
+- "[[H2063]]"
+- "[[H0595]]"
+- "[[H5414H]]"
+- "[[H6440G]]"
+- "[[H9026]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:8**<big><big>[[Deut.4.1 An Exhortation to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And what nation [is there so] great, that hath statutes and judgments [so] righteous as all this law, which I set before you this day?
 <small><sub>**BSB:**</sub></small>
 And what nation is great enough to have righteous statutes and ordinances like this entire law I set before you today?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4310\|מִי֙]] [[H1471A\|גּ֣וֹי]] [[H1419A\|גָּד֔וֹל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H2706G\|חֻקִּ֥ים]] [[H9002\|וּ]][[H4941G\|מִשְׁפָּטִ֖ים]] [[H6662\|צַדִּיקִ֑ם]] [[H9004\|כְּ]][[H3605\|כֹל֙]] [[H9009\|הַ]][[H8451\|תּוֹרָ֣ה]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H0834A\|אֲשֶׁ֧ר]] [[H0595\|אָנֹכִ֛י]] [[H5414H\|נֹתֵ֥ן]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9026\|כֶ֖ם]] [[H9009\|הַ]][[H3117G\|יּֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.7|<< Deuteronomy 4:7]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.9|Deuteronomy 4:9 >>]]</td></tr></table>
 

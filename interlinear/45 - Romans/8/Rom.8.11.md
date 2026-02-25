@@ -1,10 +1,69 @@
+---
+title: Romans 8:11
+type: Verse
+kjv: "But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you."
+bsb: "And if the Spirit of Him who raised Jesus from the dead is living in you, He who raised Christ Jesus from the dead will also give life to your mortal bodies through His Spirit, who lives in you."
+greek: "εἰ δὲ τὸ πνεῦμα τοῦ ἐγείραντος τὸν Ἰησοῦν ἐκ νεκρῶν οἰκεῖ ἐν ὑμῖν, ὁ ἐγείρας τὸν Χριστὸν ἐκ νεκρῶν Ἰησοῦν ζῳοποιήσει καὶ τὰ θνητὰ σώματα ὑμῶν διὰ τοῦ ἐνοικοῦντος αὐτοῦ πνεύματος ἐν ὑμῖν.¶"
+pericope: "[[Rom.8.1 Walking by the Spirit|Walking by the Spirit]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 8
+book/chapter: "[[Rom.8|Romans 8]]"
+chronological_order: 1094
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POWER|POWER]]"
+- "[[topic QUICKENING|QUICKENING]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G1453]]"
+- "[[G2424G]]"
+- "[[G1537]]"
+- "[[G3498]]"
+- "[[G3611]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G5547]]"
+- "[[G2227]]"
+- "[[G2532]]"
+- "[[G2349]]"
+- "[[G4983]]"
+- "[[G1223]]"
+- "[[G1774]]"
+- "[[G0846]]"
+texts:
+- NKO
+- no
+- k
+- O
+- N(k)O
+---
+
 **Romans 8:11**<big><big>[[Rom.8.1 Walking by the Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you.
 <small><sub>**BSB:**</sub></small>
 And if the Spirit of Him who raised Jesus from the dead is living in you, He who raised Christ Jesus from the dead will also give life to your mortal bodies through His Spirit, who lives in you.
-<small><sub>**Literal:**</sub></small>
-If now the Spirit of the [One] having raised up <the> Jesus out from [the] dead dwells in you, the [One] having raised up <the> Christ out from [the] dead Jesus will give life also to the mortal bodies of you on account of the dwelling of His Spirit in you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.10|<< Romans 8:10]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.12|Romans 8:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τοῦ]]  [[G1453\|ἐγείραντος]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν]]  [[G3611\|οἰκεῖ]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν,]]  [[G3588\|ὁ]]  [[G1453\|ἐγείρας]]  [[G3588\|τὸν]]  [[G5547\|Χριστὸν]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν]]  [[G2424G\|Ἰησοῦν]]  [[G2227\|ζῳοποιήσει]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G2349\|θνητὰ]]  [[G4983\|σώματα]]  [[G4771\|ὑμῶν]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G1774\|ἐνοικοῦντος]]  [[G0846\|αὐτοῦ]]  [[G4151G\|πνεύματος]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POWER|POWER]] • [[topic QUICKENING|QUICKENING]] • [[topic RELIGION|RELIGION]] • [[topic RESURRECTION|RESURRECTION]] • [[topic TRINITY|TRINITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.10|<< Romans 8:10]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.12|Romans 8:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

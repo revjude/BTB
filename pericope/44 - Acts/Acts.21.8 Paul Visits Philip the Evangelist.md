@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul Visits Philip the Evangelist
+type: Pericope
 pericope: "[[Acts.21.8 Paul Visits Philip the Evangelist|Paul Visits Philip the Evangelist]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Acts
 chapter: 21
 book/chapter: "[[Acts.21|Acts 21]]"
-genre:
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 9
 verses:
 - "[[Acts.21.8]]"
 - "[[Acts.21.9]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Acts.21.16]]"
 ---
 
-[[Acts.21|Acts 21:8 - Acts 21:16]]
+<small>[[Acts.21|Acts 21:8-16]]</small>
 *Paul Visits Philip the Evangelist*
 
 [[Acts.21.8|8]] And the next \[day\] we that were of Paul’s company departed, and came unto Caesarea: and we entered into the house of Philip the evangelist, which was \[one\] of the seven; and abode with him.

@@ -1,8 +1,60 @@
+---
+title: Psalm 119:59
+type: Verse
+kjv: "I thought on my ways, and turned my feet unto thy testimonies."
+bsb: "I considered my ways and turned my steps to Your testimonies."
+hebrew: "חִשַּׁ֥בְתִּי דְרָכָ֑י וָאָשִׁ֥יבָה רַ֝גְלַ֗י אֶל־ עֵדֹתֶֽיךָ׃"
+pericope: "[[Ps.119.57 Your Word Is a Lamp to My Feet - CHETH|Your Word Is a Lamp to My Feet - CHETH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic MEDITATION|MEDITATION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SELF-EXAMINATION|SELF-EXAMINATION]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H2803J]]"
+- "[[H1870G]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H9012]]"
+- "[[H7272]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5713B]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:59**<big><big>[[Ps.119.57 Your Word Is a Lamp to My Feet - CHETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I thought on my ways, and turned my feet unto thy testimonies.
 <small><sub>**BSB:**</sub></small>
 I considered my ways and turned my steps to Your testimonies.
+<small><sub>**Hebrew:**</sub></small>
+[[H2803J\|חִשַּׁ֥בְתִּי]] [[H1870G\|דְרָכָ֑]][[H9020\|י]] [[H9001\|וָ]][[H7725G\|אָשִׁ֥יבָ]][[H9012\|ה]] [[H7272\|רַ֝גְלַ֗]][[H9020\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H5713B\|עֵדֹתֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic MEDITATION|MEDITATION]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SELF-EXAMINATION|SELF-EXAMINATION]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.59|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.58|<< Psalms 119:58]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.60|Psalms 119:60 >>]]</td></tr></table>
 

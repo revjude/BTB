@@ -1,10 +1,48 @@
+---
+title: Mark 5:32
+type: Verse
+kjv: "And he looked round about to see her that had done this thing."
+bsb: "But He kept looking around to see who had done this."
+greek: "καὶ περιεβλέπετο ἰδεῖν τὴν τοῦτο ποιήσασαν.¶"
+pericope: "[[Mark.5.21 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JAIRUS|JAIRUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G4017]]"
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G3778]]"
+- "[[G4160G]]"
+texts:
+- NKO
+---
+
 **Mark 5:32**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he looked round about to see her that had done this thing.
 <small><sub>**BSB:**</sub></small>
 But He kept looking around to see who had done this.
-<small><sub>**Literal:**</sub></small>
-And He was looking around to see the [one who] this having done.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.31|<< Mark 5:31]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.33|Mark 5:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4017\|περιεβλέπετο]]  [[G1492H\|ἰδεῖν]]  [[G3588\|τὴν]]  [[G3778\|τοῦτο]]  [[G4160G\|ποιήσασαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JAIRUS|JAIRUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.31|<< Mark 5:31]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.33|Mark 5:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

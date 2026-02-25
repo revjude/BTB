@@ -1,8 +1,69 @@
+---
+title: Judges 7:1
+type: Verse
+kjv: "Then Jerubbaal, who is Gideon, and all the people that were with him, rose up early, and pitched beside the well of Harod: so that the host of the Midianites were on the north side of them, by the hill of Moreh, in the valley."
+bsb: "Early in the morning Jerubbaal (that is, Gideon) and all the men with him camped beside the spring of Harod. And the camp of Midian was north of them in the valley near the hill of Moreh."
+hebrew: "וַיַּשְׁכֵּ֨ם יְרֻבַּ֜עַל ה֣וּא גִדְע֗וֹן וְכָל־ הָעָם֙ אֲשֶׁ֣ר אִתּ֔וֹ וַֽיַּחֲנ֖וּ עַל־ עֵ֣ין חֲרֹ֑ד וּמַחֲנֵ֤ה מִדְיָן֙ הָיָה־ ל֣וֹ מִצָּפ֔וֹן מִגִּבְעַ֥ת הַמּוֹרֶ֖ה בָּעֵֽמֶק׃"
+pericope: "[[Judg.7.1 Gideon’s Army of Three Hundred|Gideon’s Army of Three Hundred]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 7
+book/chapter: "[[Judg.7|Judges 7]]"
+chronological_order: 261
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic HAROD|HAROD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOREH|MOREH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7925]]"
+- "[[H3378]]"
+- "[[H1931]]"
+- "[[H1439]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971K]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H2583]]"
+- "[[H5921A]]"
+- "[[H5878]]"
+- "[[H4264]]"
+- "[[H4080H]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9006]]"
+- "[[H6828G]]"
+- "[[H1389I]]"
+- "[[H4176H]]"
+- "[[H9003]]"
+- "[[H6010R]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 7:1**<big><big>[[Judg.7.1 Gideon’s Army of Three Hundred|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Jerubbaal, who [is] Gideon, and all the people that [were] with him, rose up early, and pitched beside the well of Harod: so that the host of the Midianites were on the north side of them, by the hill of Moreh, in the valley.
 <small><sub>**BSB:**</sub></small>
 Early in the morning Jerubbaal (that is, Gideon) and all the men with him camped beside the spring of Harod. And the camp of Midian was north of them in the valley near the hill of Moreh.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7925\|יַּשְׁכֵּ֨ם]] [[H3378\|יְרֻבַּ֜עַל]] [[H1931\|ה֣וּא]] [[H1439\|גִדְע֗וֹן]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971K\|עָם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0854\|אִתּ֔]][[H9033\|וֹ]] [[H9001\|וַֽ]][[H2583\|יַּחֲנ֖וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H5878\|עֵ֣ין]] [[H5878\|חֲרֹ֑ד]] [[H9002\|וּ]][[H4264\|מַחֲנֵ֤ה]] [[H4080H\|מִדְיָן֙]] [[H1961\|הָיָה]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H9006\|מִ]][[H6828G\|צָּפ֔וֹן]] [[H9006\|מִ]][[H1389I\|גִּבְעַ֥ת]] [[H9009\|הַ]][[H4176H\|מּוֹרֶ֖ה]] [[H9003\|בָּ]][[H6010R\|עֵֽמֶק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAROD|HAROD]] • [[topic MIRACLES|MIRACLES]] • [[topic MOREH|MOREH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.40|<< Judges 6:40]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.2|Judges 7:2 >>]]</td></tr></table>
 

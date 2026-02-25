@@ -1,8 +1,60 @@
+---
+title: Isaiah 8:17
+type: Verse
+kjv: "And I will wait upon the LORD, that hideth his face from the house of Jacob, and I will look for him."
+bsb: "I will wait for the LORD, who is hiding His face from the house of Jacob. I will put my trust in Him."
+hebrew: "וְחִכִּ֙יתִי֙ לַיהוָ֔ה הַמַּסְתִּ֥יר פָּנָ֖יו מִבֵּ֣ית יַעֲקֹ֑ב וְקִוֵּ֖יתִֽי־ לֽוֹ׃"
+pericope: "[[Isa.8.11 A Call to Fear God|A Call to Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 8
+book/chapter: "[[Isa.8|Isaiah 8]]"
+chronological_order: 618
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic WAITING|WAITING]]"
+strongs:
+- "[[H9001]]"
+- "[[H2442]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9009]]"
+- "[[H5641]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H1004M]]"
+- "[[H3290]]"
+- "[[H6960A]]"
+- "[[H9014]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 8:17**<big><big>[[Isa.8.11 A Call to Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will wait upon the LORD, that hideth his face from the house of Jacob, and I will look for him.
 <small><sub>**BSB:**</sub></small>
 I will wait for the LORD, who is hiding His face from the house of Jacob. I will put my trust in Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2442\|חִכִּ֙יתִי֙]] [[H9005\|לַ]][[H3068G\|יהוָ֔ה]] [[H9009\|הַ]][[H5641\|מַּסְתִּ֥יר]] [[H6440H\|פָּנָ֖י]][[H9023\|ו]] [[H9006\|מִ]][[H1004M\|בֵּ֣ית]] [[H3290\|יַעֲקֹ֑ב]] [[H9001\|וְ]][[H6960A\|קִוֵּ֖יתִֽי]][[H9014\|־]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic FAITH|FAITH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic WAITING|WAITING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.8.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.8.16|<< Isaiah 8:16]]</td><td align="center" style="border:none;">[[Isa.8|Isaiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.8.18|Isaiah 8:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

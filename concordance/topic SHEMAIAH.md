@@ -3,7 +3,7 @@
 
 1. A prophet in the time of Rehoboam
 
-- Prevents Rehoboam from war with Jeroboam [[1Kgs.12.22|1Ki 12:22]]-[[1Kgs.12.24|24]];  [[2Chr.11.2|2Ch 11:2]]-[[2Chr.11.4|4]]
+- Prevents Rehoboam from war with Jeroboam [[1Kgs.12.22|1Ki 12:22-24]];  [[2Chr.11.2|2Ch 11:2-4]]
 
 - Prophesies the punishment of Rehoboam by Shishak, king of Egypt [[2Chr.12.5|2Ch 12:5]],[[2Chr.12.7|7]]
 
@@ -61,7 +61,7 @@
 
 → 24. Father of the prophet Urijah [[Jer.26.20|Jer 26:20]]
 
-→ 25. A false prophet  [[Jer.29.24|Jer 29:24]]-[[Jer.29.32|32]]
+→ 25. A false prophet  [[Jer.29.24|Jer 29:24-32]]
 
 → 26. Father of Delaiah [[Jer.36.12|Jer 36:12]]
 

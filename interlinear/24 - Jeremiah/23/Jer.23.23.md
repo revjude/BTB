@@ -1,8 +1,54 @@
+---
+title: Jeremiah 23:23
+type: Verse
+kjv: "Am I a God at hand, saith the LORD, and not a God afar off?"
+bsb: "“Am I only a God nearby,” declares the LORD, “and not a God far away?”"
+hebrew: "הַאֱלֹהֵ֧י מִקָּרֹ֛ב אָ֖נִי נְאֻם־ יְהוָ֑ה וְלֹ֥א אֱלֹהֵ֖י מֵרָחֹֽק׃"
+pericope: "[[Jer.23.9 Lying Prophets|Lying Prophets]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 23
+book/chapter: "[[Jer.23|Jeremiah 23]]"
+chronological_order: 746
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9008]]"
+- "[[H0430G]]"
+- "[[H9006]]"
+- "[[H7138]]"
+- "[[H0589]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7350]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 23:23**<big><big>[[Jer.23.9 Lying Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Am] I a God at hand, saith the LORD, and not a God afar off?
 <small><sub>**BSB:**</sub></small>
 “Am I only a God nearby,” declares the LORD, “and not a God far away?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H0430G\|אֱלֹהֵ֧י]] [[H9006\|מִ]][[H7138\|קָּרֹ֛ב]] [[H0589\|אָ֖נִי]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0430G\|אֱלֹהֵ֖י]] [[H9006\|מֵ]][[H7350\|רָחֹֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.22|<< Jeremiah 23:22]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.24|Jeremiah 23:24 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Micaiah Prophesies against Ahab
+type: Pericope
 pericope: "[[2Chr.18.12 Micaiah Prophesies against Ahab|Micaiah Prophesies against Ahab]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 18
 book/chapter: "[[2Chr.18|2 Chronicles 18]]"
-genre:
+chronological_order: 570
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 16
 verses:
 - "[[2Chr.18.12]]"
 - "[[2Chr.18.13]]"
@@ -34,7 +41,7 @@ verses:
 - "[[2Chr.18.27]]"
 ---
 
-[[2Chr.18|2 Chronicles 18:12 - 2 Chronicles 18:27]]
+<small>[[2Chr.18|2 Chronicles 18:12-27]]</small>
 *Micaiah Prophesies against Ahab*
 
 [[2Chr.18.12|12]] And the messenger that went to call Micaiah spake to him, saying, Behold, the words of the prophets \[declare\] good to the king with one assent; let thy word therefore, I pray thee, be like one of theirs, and speak thou good.

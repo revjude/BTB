@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Promise to Isaac
+type: Pericope
 pericope: "[[Gen.26.1 God’s Promise to Isaac|God’s Promise to Isaac]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 26
 book/chapter: "[[Gen.26|Genesis 26]]"
-genre:
+chronological_order: 68
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 5
 verses:
 - "[[Gen.26.1]]"
 - "[[Gen.26.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Gen.26.5]]"
 ---
 
-[[Gen.26|Genesis 26:1 - Genesis 26:5]]
+<small>[[Gen.26|Genesis 26:1-5]]</small>
 *God’s Promise to Isaac*
 
 [[Gen.26.1|1]] And there was a famine in the land, beside the first famine that was in the days of Abraham. And Isaac went unto Abimelech king of the Philistines unto Gerar.

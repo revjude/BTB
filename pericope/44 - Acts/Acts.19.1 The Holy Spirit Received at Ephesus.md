@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Holy Spirit Received at Ephesus
+type: Pericope
 pericope: "[[Acts.19.1 The Holy Spirit Received at Ephesus|The Holy Spirit Received at Ephesus]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Acts
 chapter: 19
 book/chapter: "[[Acts.19|Acts 19]]"
-genre:
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 7
 verses:
 - "[[Acts.19.1]]"
 - "[[Acts.19.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Acts.19.7]]"
 ---
 
-[[Acts.19|Acts 19:1 - Acts 19:7]]
+<small>[[Acts.19|Acts 19:1-7]]</small>
 *The Holy Spirit Received at Ephesus*
 
 [[Acts.19.1|1]] And it came to pass, that, while Apollos was at Corinth, Paul having passed through the upper coasts came to Ephesus: and finding certain disciples,

@@ -1,8 +1,69 @@
+---
+title: Genesis 30:3
+type: Verse
+kjv: "And she said, Behold my maid Bilhah, go in unto her; and she shall bear upon my knees, that I may also have children by her."
+bsb: "Then she said, “Here is my maidservant Bilhah. Sleep with her, that she may bear children for me, so that through her I too can build a family.”"
+hebrew: "וַתֹּ֕אמֶר הִנֵּ֛ה אֲמָתִ֥י בִלְהָ֖ה בֹּ֣א אֵלֶ֑יהָ וְתֵלֵד֙ עַל־ בִּרְכַּ֔י וְאִבָּנֶ֥ה גַם־ אָנֹכִ֖י מִמֶּֽנָּה׃"
+pericope: "[[Gen.30.1 Dan and Naphtali|Dan and Naphtali]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 30
+book/chapter: "[[Gen.30|Genesis 30]]"
+chronological_order: 72
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BILHAH|BILHAH]]"
+- "[[topic CHILDLESSNESS|CHILDLESSNESS]]"
+- "[[topic EMULATION|EMULATION]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic RACHEL|RACHEL]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H0519]]"
+- "[[H9020]]"
+- "[[H1090A]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H3205]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1290]]"
+- "[[H1129]]"
+- "[[H1571]]"
+- "[[H0595]]"
+- "[[H4480A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 30:3**<big><big>[[Gen.30.1 Dan and Naphtali|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she said, Behold my maid Bilhah, go in unto her; and she shall bear upon my knees, that I may also have children by her.
 <small><sub>**BSB:**</sub></small>
 Then she said, “Here is my maidservant Bilhah. Sleep with her, that she may bear children for me, so that through her I too can build a family.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֕אמֶר]] [[H2009\|הִנֵּ֛ה]] [[H0519\|אֲמָתִ֥]][[H9020\|י]] [[H1090A\|בִלְהָ֖ה]] [[H0935G\|בֹּ֣א]] [[H0413\|אֵלֶ֑י]][[H9034\|הָ]] [[H9002\|וְ]][[H3205\|תֵלֵד֙]] [[H5921A\|עַל]][[H9014\|־]] [[H1290\|בִּרְכַּ֔]][[H9020\|י]] [[H9002\|וְ]][[H1129\|אִבָּנֶ֥ה]] [[H1571\|גַם]][[H9014\|־]] [[H0595\|אָנֹכִ֖י]] [[H4480A\|מִמֶּֽ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BILHAH|BILHAH]] • [[topic CHILDLESSNESS|CHILDLESSNESS]] • [[topic EMULATION|EMULATION]] • [[topic FAMILY|FAMILY]] • [[topic JACOB|JACOB]] • [[topic POLYGAMY|POLYGAMY]] • [[topic RACHEL|RACHEL]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.2|<< Genesis 30:2]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.4|Genesis 30:4 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Ezekiel 23:20
+type: Verse
+kjv: "For she doted upon their paramours, whose flesh is as the flesh of asses, and whose issue is like the issue of horses."
+bsb: "and lusted after their lovers, whose genitals were like those of donkeys and whose emission was like that of stallions."
+hebrew: "וַֽתַּעְגְּבָ֔ה עַ֖ל פִּֽלַגְשֵׁיהֶ֑ם אֲשֶׁ֤ר בְּשַׂר־ חֲמוֹרִים֙ בְּשָׂרָ֔ם וְזִרְמַ֥ת סוּסִ֖ים זִרְמָתָֽם׃"
+pericope: "[[Ezek.23.1 The Two Adulterous Sisters|The Two Adulterous Sisters]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 23
+book/chapter: "[[Ezek.23|Ezekiel 23]]"
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9001]]"
+- "[[H5689]]"
+- "[[H9012]]"
+- "[[H5921A]]"
+- "[[H6370]]"
+- "[[H9028]]"
+- "[[H0834A]]"
+- "[[H1320]]"
+- "[[H9014]]"
+- "[[H2543]]"
+- "[[H9002]]"
+- "[[H2231]]"
+- "[[H5483M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 23:20**<big><big>[[Ezek.23.1 The Two Adulterous Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For she doted upon their paramours, whose flesh [is as] the flesh of asses, and whose issue [is like] the issue of horses.
 <small><sub>**BSB:**</sub></small>
 and lusted after their lovers, whose genitals were like those of donkeys and whose emission was like that of stallions.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H5689\|תַּעְגְּבָ֔]][[H9012\|ה]] [[H5921A\|עַ֖ל]] [[H6370\|פִּֽלַגְשֵׁי]][[H9028\|הֶ֑ם]] [[H0834A\|אֲשֶׁ֤ר]] [[H1320\|בְּשַׂר]][[H9014\|־]] [[H2543\|חֲמוֹרִים֙]] [[H1320\|בְּשָׂרָ֔]][[H9028\|ם]] [[H9002\|וְ]][[H2231\|זִרְמַ֥ת]] [[H5483M\|סוּסִ֖ים]] [[H2231\|זִרְמָתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.19|<< Ezekiel 23:19]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.21|Ezekiel 23:21 >>]]</td></tr></table>
 

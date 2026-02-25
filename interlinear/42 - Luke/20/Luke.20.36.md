@@ -1,10 +1,65 @@
+---
+title: Luke 20:36
+type: Verse
+kjv: "Neither can they die any more: for they are equal unto the angels; and are the children of God, being the children of the resurrection."
+bsb: "In fact, they can no longer die, because they are like the angels. And since they are sons of the resurrection, they are sons of God."
+jesus_said: "Neither can they die any more: for they are equal unto the angels; and are the children of God, being the children of the resurrection."
+greek: "οὐδὲ γὰρ ἀποθανεῖν ἔτι δύνανται, ἰσάγγελοι γάρ εἰσιν, καὶ υἱοί εἰσιν τοῦ θεοῦ τῆς ἀναστάσεως υἱοὶ ὄντες."
+pericope: "[[Luke.20.27 The Sadducees and the Resurrection|The Sadducees and the Resurrection]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 20
+book/chapter: "[[Luke.20|Luke 20]]"
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+strongs:
+- "[[G3761]]"
+- "[[G1063]]"
+- "[[G0599]]"
+- "[[G2089]]"
+- "[[G1410]]"
+- "[[G2465]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G5207]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G0386]]"
+texts:
+- N(k)O
+- NKO
+- k
+---
+
 **Luke 20:36**<big><big>[[Luke.20.27 The Sadducees and the Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Neither can they die any more: for they are equal unto the angels; and are the children of God, being the children of the resurrection.
 <small><sub>**BSB:**</sub></small>
 In fact, they can no longer die, because they are like the angels. And since they are sons of the resurrection, they are sons of God.
-<small><sub>**Literal:**</sub></small>
-neither for to die any more are they able, like [the] angels for they are, and sons they are <the> of God of the resurrection sons being.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.35|<< Luke 20:35]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.37|Luke 20:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3761\|οὐδὲ]]  [[G1063\|γὰρ]]  [[G0599\|ἀποθανεῖν]]  [[G2089\|ἔτι]]  [[G1410\|δύνανται,]]  [[G2465\|ἰσάγγελοι]]  [[G1063\|γάρ]]  [[G1510\|εἰσιν,]]  [[G2532\|καὶ]]  [[G5207\|υἱοί]]  [[G1510\|εἰσιν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|τῆς]]  [[G0386\|ἀναστάσεως]]  [[G5207\|υἱοὶ]]  [[G1510\|ὄντες.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DEATH|DEATH]] • [[topic HEAVEN|HEAVEN]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic RESURRECTION|RESURRECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SADDUCEES|SADDUCEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.35|<< Luke 20:35]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.37|Luke 20:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

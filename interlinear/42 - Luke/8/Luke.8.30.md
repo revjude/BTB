@@ -1,10 +1,62 @@
+---
+title: Luke 8:30
+type: Verse
+kjv: "And Jesus asked him, saying, What is thy name? And he said, Legion: because many devils were entered into him."
+bsb: "“What is your name?” Jesus asked. “Legion,” he replied, because many demons had gone into him."
+jesus_said: "What is thy name?"
+greek: "ἐπηρώτησεν δὲ αὐτὸν ὁ Ἰησοῦς λέγων· τί σοι ὄνομά ἐστιν; ὁ δὲ εἶπεν· λεγιών· ὅτι εἰσῆλθεν δαιμόνια πολλὰ εἰς αὐτόν."
+pericope: "[[Luke.8.26 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G1905]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3004G]]"
+- "[[G5101]]"
+- "[[G4771]]"
+- "[[G3686]]"
+- "[[G1510]]"
+- "[[G2036]]"
+- "[[G3003]]"
+- "[[G3754H]]"
+- "[[G1525]]"
+- "[[G1140]]"
+- "[[G4183]]"
+- "[[G1519]]"
+texts:
+- NKO
+- ko
+- N(k)O
+---
+
 **Luke 8:30**<big><big>[[Luke.8.26 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus asked him, saying, What is thy name? And he said, Legion: because many devils were entered into him.
 <small><sub>**BSB:**</sub></small>
 “What is your name?” Jesus asked. “Legion,” he replied, because many demons had gone into him.
-<small><sub>**Literal:**</sub></small>
-Asked now him <the> Jesus saying: What your name is <the> And he said; Legion; because were entered demons many into him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.29|<< Luke 8:29]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.31|Luke 8:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1905\|ἐπηρώτησεν]]  [[G1161\|δὲ]]  [[G0846\|αὐτὸν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3004G\|λέγων·]]  [[G5101\|τί]]  [[G4771\|σοι]]  [[G3686\|ὄνομά]]  [[G1510\|ἐστιν;]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν·]]  [[G3003\|λεγιών·]]  [[G3754H\|ὅτι]]  [[G1525\|εἰσῆλθεν]]  [[G1140\|δαιμόνια]]  [[G4183\|πολλὰ]]  [[G1519\|εἰς]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.29|<< Luke 8:29]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.31|Luke 8:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

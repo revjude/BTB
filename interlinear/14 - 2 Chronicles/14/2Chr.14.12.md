@@ -1,8 +1,57 @@
+---
+title: 2 Chronicles 14:12
+type: Verse
+kjv: "So the LORD smote the Ethiopians before Asa, and before Judah; and the Ethiopians fled."
+bsb: "So the LORD struck down the Cushites before Asa and Judah, and the Cushites fled."
+hebrew: "וַיִּגֹּ֤ף יְהוָה֙ אֶת־ הַכּוּשִׁ֔ים לִפְנֵ֥י אָסָ֖א וְלִפְנֵ֣י יְהוּדָ֑ה וַיָּנֻ֖סוּ הַכּוּשִֽׁים׃"
+pericope: "[[2Chr.14.1 Asa Reigns in Judah|Asa Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 14
+book/chapter: "[[2Chr.14|2 Chronicles 14]]"
+chronological_order: 560
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic ZERAH|ZERAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5062]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3569G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0609G]]"
+- "[[H9002]]"
+- "[[H3063G]]"
+- "[[H5127]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 14:12**<big><big>[[2Chr.14.1 Asa Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the LORD smote the Ethiopians before Asa, and before Judah; and the Ethiopians fled.
 <small><sub>**BSB:**</sub></small>
 So the LORD struck down the Cushites before Asa and Judah, and the Cushites fled.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5062\|יִּגֹּ֤ף]] [[H3068G\|יְהוָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3569G\|כּוּשִׁ֔ים]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H0609G\|אָסָ֖א]] [[H9002\|וְ]][[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3063G\|יְהוּדָ֑ה]] [[H9001\|וַ]][[H5127\|יָּנֻ֖סוּ]] [[H9009\|הַ]][[H3569G\|כּוּשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ETHIOPIA|ETHIOPIA]] • [[topic GOD|GOD]] • [[topic PRAYER|PRAYER]] • [[topic ZERAH|ZERAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.14.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.14.11|<< 2 Chronicles 14:11]]</td><td align="center" style="border:none;">[[2Chr.14|2 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.14.13|2 Chronicles 14:13 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hezekiah’s Illness and Recovery
+type: Pericope
 pericope: "[[2Chr.32.24 Hezekiah’s Illness and Recovery|Hezekiah’s Illness and Recovery]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 32
 book/chapter: "[[2Chr.32|2 Chronicles 32]]"
-genre:
+chronological_order: 662
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 8
 verses:
 - "[[2Chr.32.24]]"
 - "[[2Chr.32.25]]"
@@ -26,7 +33,7 @@ verses:
 - "[[2Chr.32.31]]"
 ---
 
-[[2Chr.32|2 Chronicles 32:24 - 2 Chronicles 32:31]]
+<small>[[2Chr.32|2 Chronicles 32:24-31]]</small>
 *Hezekiah’s Illness and Recovery*
 
 [[2Chr.32.24|24]] In those days Hezekiah was sick to the death, and prayed unto the LORD: and he spake unto him, and he gave him a sign.

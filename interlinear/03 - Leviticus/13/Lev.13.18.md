@@ -1,8 +1,59 @@
+---
+title: Leviticus 13:18
+type: Verse
+kjv: "The flesh also, in which, even in the skin thereof, was a boil, and is healed,"
+bsb: "When a boil appears on someone’s skin and it heals,"
+hebrew: "וּבָשָׂ֕ר כִּֽי־ יִהְיֶ֥ה בֽוֹ־ בְעֹר֖וֹ שְׁחִ֑ין וְנִרְפָּֽא׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BOIL|BOIL]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H1320]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H5785]]"
+- "[[H9023]]"
+- "[[H7822]]"
+- "[[H9001]]"
+- "[[H7495]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:18**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The flesh also, in which, [even] in the skin thereof, was a boil, and is healed,
 <small><sub>**BSB:**</sub></small>
 When a boil appears on someone’s skin and it heals,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1320\|בָשָׂ֕ר]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|יִהְיֶ֥ה]] [[H9003\|בֽ]][[H9033\|וֹ]][[H9014\|־]] [[H9003\|בְ]][[H5785\|עֹר֖]][[H9023\|וֹ]] [[H7822\|שְׁחִ֑ין]] [[H9001\|וְ]][[H7495\|נִרְפָּֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOIL|BOIL]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.17|<< Leviticus 13:17]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.19|Leviticus 13:19 >>]]</td></tr></table>
 

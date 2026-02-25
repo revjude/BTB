@@ -1,8 +1,67 @@
+---
+title: Lamentations 2:17
+type: Verse
+kjv: "The LORD hath done that which he had devised; he hath fulfilled his word that he had commanded in the days of old: he hath thrown down, and hath not pitied: and he hath caused thine enemy to rejoice over thee, he hath set up the horn of thine adversaries."
+bsb: "The LORD has done what He planned; He has accomplished His decree, which He ordained in days of old; He has overthrown you without pity. He has let the enemy gloat over you and exalted the horn of your foes."
+hebrew: "עָשָׂ֨ה יְהוָ֜ה אֲשֶׁ֣ר זָמָ֗ם בִּצַּ֤ע אֶמְרָתוֹ֙ אֲשֶׁ֣ר צִוָּ֣ה מִֽימֵי־ קֶ֔דֶם הָרַ֖ס וְלֹ֣א חָמָ֑ל וַיְשַׂמַּ֤ח עָלַ֙יִךְ֙ אוֹיֵ֔ב הֵרִ֖ים קֶ֥רֶן צָרָֽיִךְ׃ ס"
+pericope: "[[Lam.2.1 God’s Anger over Jerusalem|God’s Anger over Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 2
+book/chapter: "[[Lam.2|Lamentations 2]]"
+chronological_order: 777
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic FAMINE|FAMINE]]"
+strongs:
+- "[[H6213A]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H2161]]"
+- "[[H1214I]]"
+- "[[H0565B]]"
+- "[[H9023]]"
+- "[[H6680]]"
+- "[[H9006]]"
+- "[[H3117G]]"
+- "[[H9014]]"
+- "[[H6924H]]"
+- "[[H2040]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2550]]"
+- "[[H9001]]"
+- "[[H8055]]"
+- "[[H5921A]]"
+- "[[H9032]]"
+- "[[H0341]]"
+- "[[H7311A]]"
+- "[[H7161A]]"
+- "[[H6862C]]"
+- "[[H9022]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Lamentations 2:17**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD hath done [that] which he had devised; he hath fulfilled his word that he had commanded in the days of old: he hath thrown down, and hath not pitied: and he hath caused [thine] enemy to rejoice over thee, he hath set up the horn of thine adversaries.
 <small><sub>**BSB:**</sub></small>
 The LORD has done what He planned; He has accomplished His decree, which He ordained in days of old; He has overthrown you without pity. He has let the enemy gloat over you and exalted the horn of your foes.
+<small><sub>**Hebrew:**</sub></small>
+[[H6213A\|עָשָׂ֨ה]] [[H3068G\|יְהוָ֜ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H2161\|זָמָ֗ם]] [[H1214I\|בִּצַּ֤ע]] [[H0565B\|אֶמְרָת]][[H9023\|וֹ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6680\|צִוָּ֣ה]] [[H9006\|מִֽ]][[H3117G\|ימֵי]][[H9014\|־]] [[H6924H\|קֶ֔דֶם]] [[H2040\|הָרַ֖ס]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H2550\|חָמָ֑ל]] [[H9001\|וַ]][[H8055\|יְשַׂמַּ֤ח]] [[H5921A\|עָלַ֙יִ]][[H9032\|ךְ֙]] [[H0341\|אוֹיֵ֔ב]] [[H7311A\|הֵרִ֖ים]] [[H7161A\|קֶ֥רֶן]] [[H6862C\|צָרָֽיִ]][[H9022\|ךְ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMINE|FAMINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.16|<< Lamentations 2:16]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.18|Lamentations 2:18 >>]]</td></tr></table>
 
@@ -26,7 +85,7 @@ The LORD has done what He planned; He has accomplished His decree, which He orda
 | an enemy  |**<big>&#8207;[[H0341\|אוֹיֵ֔ב]]&#8207; </big>**| 'o.Yev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has lifted up  |**<big>&#8207;[[H7311A\|הֵרִ֖ים]]&#8207; </big>**| he.Rim<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] horn of  |**<big>&#8207;[[H7161A\|קֶ֥רֶן]]&#8207; </big>**| Ke.ren<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| opponents your  |**<big>&#8207;[[H6862C\|צָרָֽיִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tza.Ra.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| opponents your  |**<big>&#8207;[[H6862C\|צָרָֽיִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tza.Ra.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.16|<< Lamentations 2:16]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.18|Lamentations 2:18 >>]]</td></tr></table>
 
 

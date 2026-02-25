@@ -1,8 +1,72 @@
+---
+title: Zechariah 8:10
+type: Verse
+kjv: "For before these days there was no hire for man, nor any hire for beast; neither was there any peace to him that went out or came in because of the affliction: for I set all men every one against his neighbour."
+bsb: "For before those days neither man nor beast received wages, nor was there safety from the enemy for anyone who came or went, for I had turned every man against his neighbor."
+hebrew: "כִּ֗י לִפְנֵי֙ הַיָּמִ֣ים הָהֵ֔ם שְׂכַ֤ר הָֽאָדָם֙ לֹ֣א נִֽהְיָ֔ה וּשְׂכַ֥ר הַבְּהֵמָ֖ה אֵינֶ֑נָּה וְלַיּוֹצֵ֨א וְלַבָּ֤א אֵין־ שָׁלוֹם֙ מִן־ הַצָּ֔ר וַאֲשַׁלַּ֥ח אֶת־ כָּל־ הָאָדָ֖ם אִ֥ישׁ בְּרֵעֵֽהוּ׃"
+pericope: "[[Zech.8.1 The Restoration of Jerusalem|The Restoration of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 8
+book/chapter: "[[Zech.8|Zechariah 8]]"
+chronological_order: 864
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H1992]]"
+- "[[H7939]]"
+- "[[H0120G]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H9002]]"
+- "[[H0929]]"
+- "[[H0369]]"
+- "[[H9044]]"
+- "[[H3318G]]"
+- "[[H0935G]]"
+- "[[H9014]]"
+- "[[H7965I]]"
+- "[[H4480A]]"
+- "[[H6862C]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H0376I]]"
+- "[[H9003]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 8:10**<big><big>[[Zech.8.1 The Restoration of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For before these days there was no hire for man, nor any hire for beast; neither [was there any] peace to him that went out or came in because of the affliction: for I set all men every one against his neighbour.
 <small><sub>**BSB:**</sub></small>
 For before those days neither man nor beast received wages, nor was there safety from the enemy for anyone who came or went, for I had turned every man against his neighbor.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֗י]] [[H9005\|לִ]][[H6440G\|פְנֵי֙]] [[H9009\|הַ]][[H3117G\|יָּמִ֣ים]] [[H9009\|הָ]][[H1992\|הֵ֔ם]] [[H7939\|שְׂכַ֤ר]] [[H9009\|הָֽ]][[H0120G\|אָדָם֙]] [[H3808\|לֹ֣א]] [[H1961\|נִֽהְיָ֔ה]] [[H9002\|וּ]][[H7939\|שְׂכַ֥ר]] [[H9009\|הַ]][[H0929\|בְּהֵמָ֖ה]] [[H0369\|אֵינֶ֑]][[H9044\|נָּה]] [[H9002\|וְ]][[H9005\|לַ]][[H3318G\|יּוֹצֵ֨א]] [[H9002\|וְ]][[H9005\|לַ]][[H0935G\|בָּ֤א]] [[H0369\|אֵין]][[H9014\|־]] [[H7965I\|שָׁלוֹם֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H6862C\|צָּ֔ר]] [[H9002\|וַ]][[H7971G\|אֲשַׁלַּ֥ח]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0120G\|אָדָ֖ם]] [[H0376I\|אִ֥ישׁ]] [[H9003\|בְּ]][[H7453\|רֵעֵֽ]][[H9023\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic TEMPLE|TEMPLE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.8.9|<< Zechariah 8:9]]</td><td align="center" style="border:none;">[[Zech.8|Zechariah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.8.11|Zechariah 8:11 >>]]</td></tr></table>
 

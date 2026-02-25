@@ -1,10 +1,58 @@
+---
+title: Jude 1:25
+type: Verse
+kjv: "To the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen."
+bsb: "to the only God our Savior be glory, majesty, dominion, and authority through Jesus Christ our Lord before all time, and now, and for all eternity. Amen."
+greek: "μόνῳ σοφῷ θεῷ σωτῆρι ἡμῶν, διὰ Ἰησοῦ Χριστοῦ τοῦ κυρίου ἡμῶν, δόξα καὶ μεγαλωσύνη κράτος καὶ ἐξουσία πρὸ παντὸς τοῦ αἰῶνος καὶ νῦν καὶ εἰς πάντας τοὺς αἰῶνας, ἀμήν.¶"
+pericope: "[[Jude.1.24 Doxology|Doxology]]"
+original_language: Greek
+testament: New
+book: Jude
+chapter: 1
+book/chapter: "[[Jude.1|Jude 1]]"
+chronological_order: 1160
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- polemical
+strongs:
+- "[[G3441]]"
+- "[[G4680]]"
+- "[[G2316]]"
+- "[[G4990]]"
+- "[[G3165]]"
+- "[[G1223]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G1391]]"
+- "[[G2532]]"
+- "[[G3172]]"
+- "[[G2904]]"
+- "[[G1849]]"
+- "[[G4253]]"
+- "[[G3956]]"
+- "[[G0165H]]"
+- "[[G3568]]"
+- "[[G1519]]"
+- "[[G0281]]"
+texts:
+- NKO
+- K
+- NO
+---
+
 **Jude 1:25**<big><big>[[Jude.1.24 Doxology|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 To the only wise God our Saviour, [be] glory and majesty, dominion and power, both now and ever. Amen.
 <small><sub>**BSB:**</sub></small>
 to the only God our Savior be glory, majesty, dominion, and authority through Jesus Christ our Lord before all time, and now, and for all eternity. Amen.
-<small><sub>**Literal:**</sub></small>
-to [the] only wise God Savior of us, through Jesus Christ the Lord of us, [be] glory and majesty dominion and authority before all the age and now and to all the ages, Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.24|<< Jude 1:24]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.1|Revelation 1:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3441\|μόνῳ]]  [[G4680\|σοφῷ]]  [[G2316\|θεῷ]]  [[G4990\|σωτῆρι]]  [[G3165\|ἡμῶν,]]  [[G1223\|διὰ]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν,]]  [[G1391\|δόξα]]  [[G2532\|καὶ]]  [[G3172\|μεγαλωσύνη]]  [[G2904\|κράτος]]  [[G2532\|καὶ]]  [[G1849\|ἐξουσία]]  [[G4253\|πρὸ]]  [[G3956\|παντὸς]]  [[G3588\|τοῦ]]  [[G0165H\|αἰῶνος]]  [[G2532\|καὶ]]  [[G3568\|νῦν]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G3956\|πάντας]]  [[G3588\|τοὺς]]  [[G0165H\|αἰῶνας,]]  [[G0281\|ἀμήν.¶]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.24|<< Jude 1:24]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.1|Revelation 1:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

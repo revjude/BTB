@@ -1,8 +1,55 @@
+---
+title: Nehemiah 11:21
+type: Verse
+kjv: "But the Nethinims dwelt in Ophel: and Ziha and Gispa were over the Nethinims."
+bsb: "The temple servants lived on the hill of Ophel, with Ziha and Gishpa over them."
+hebrew: "וְהַנְּתִינִ֖ים יֹשְׁבִ֣ים בָּעֹ֑פֶל וְצִיחָ֥א וְגִשְׁפָּ֖א עַל־ הַנְּתִינִֽים׃ פ"
+pericope: "[[Neh.11.20 Residents Outside Jerusalem|Residents Outside Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 11
+book/chapter: "[[Neh.11|Nehemiah 11]]"
+chronological_order: 923
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic GISPA|GISPA]]"
+- "[[topic NETHINIMS|NETHINIMS]]"
+- "[[topic ZIHA|ZIHA]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5411]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H6077]]"
+- "[[H6727H]]"
+- "[[H1658]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Nehemiah 11:21**<big><big>[[Neh.11.20 Residents Outside Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the Nethinims dwelt in Ophel: and Ziha and Gispa [were] over the Nethinims.
 <small><sub>**BSB:**</sub></small>
 The temple servants lived on the hill of Ophel, with Ziha and Gishpa over them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H5411\|נְּתִינִ֖ים]] [[H3427\|יֹשְׁבִ֣ים]] [[H9003\|בָּ]][[H6077\|עֹ֑פֶל]] [[H9002\|וְ]][[H6727H\|צִיחָ֥א]] [[H9002\|וְ]][[H1658\|גִשְׁפָּ֖א]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H5411\|נְּתִינִֽים]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GISPA|GISPA]] • [[topic NETHINIMS|NETHINIMS]] • [[topic ZIHA|ZIHA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.20|<< Nehemiah 11:20]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.22|Nehemiah 11:22 >>]]</td></tr></table>
 
@@ -14,7 +61,7 @@ The temple servants lived on the hill of Ophel, with Ziha and Gishpa over them.
 | and Ziha  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6727H\|צִיחָ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tzi.Cha'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Gishpa  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1658\|גִשְׁפָּ֖א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> gish.Pa'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the temple servants  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5411\|נְּתִינִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.ti.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the temple servants  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5411\|נְּתִינִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.ti.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.20|<< Nehemiah 11:20]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.22|Nehemiah 11:22 >>]]</td></tr></table>
 
 

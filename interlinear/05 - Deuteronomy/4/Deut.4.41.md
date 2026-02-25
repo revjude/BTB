@@ -1,8 +1,59 @@
+---
+title: Deuteronomy 4:41
+type: Verse
+kjv: "Then Moses severed three cities on this side Jordan toward the sunrising;"
+bsb: "Then Moses set aside three cities across the Jordan to the east"
+hebrew: "אָ֣ז יַבְדִּ֤יל מֹשֶׁה֙ שָׁלֹ֣שׁ עָרִ֔ים בְּעֵ֖בֶר הַיַּרְדֵּ֑ן מִזְרְחָ֖ה שָֽׁמֶשׁ׃"
+pericope: "[[Deut.4.41 Cities of Refuge|Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic REFUGE|REFUGE]]"
+strongs:
+- "[[H0227A]]"
+- "[[H0914]]"
+- "[[H4872]]"
+- "[[H7969]]"
+- "[[H5892B]]"
+- "[[H9003]]"
+- "[[H5676H]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H4217H]]"
+- "[[H9011]]"
+- "[[H8121]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:41**<big><big>[[Deut.4.41 Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Moses severed three cities on this side Jordan toward the sunrising;
 <small><sub>**BSB:**</sub></small>
 Then Moses set aside three cities across the Jordan to the east
+<small><sub>**Hebrew:**</sub></small>
+[[H0227A\|אָ֣ז]] [[H0914\|יַבְדִּ֤יל]] [[H4872\|מֹשֶׁה֙]] [[H7969\|שָׁלֹ֣שׁ]] [[H5892B\|עָרִ֔ים]] [[H9003\|בְּ]][[H5676H\|עֵ֖בֶר]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֑ן]] [[H4217H\|מִזְרְחָ֖]][[H9011\|ה]] [[H8121\|שָֽׁמֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOMICIDE|HOMICIDE]] • [[topic REFUGE|REFUGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.40|<< Deuteronomy 4:40]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.42|Deuteronomy 4:42 >>]]</td></tr></table>
 

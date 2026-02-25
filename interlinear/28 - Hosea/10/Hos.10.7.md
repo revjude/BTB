@@ -1,8 +1,52 @@
+---
+title: Hosea 10:7
+type: Verse
+kjv: "As for Samaria, her king is cut off as the foam upon the water."
+bsb: "Samaria will be carried off with her king like a twig on the surface of the water."
+hebrew: "נִדְמֶ֥ה שֹׁמְר֖וֹן מַלְכָּ֑הּ כְּקֶ֖צֶף עַל־ פְּנֵי־ מָֽיִם׃"
+pericope: "[[Hos.10.1 Retribution for Israel’s Sin|Retribution for Israel’s Sin]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 10
+book/chapter: "[[Hos.10|Hosea 10]]"
+chronological_order: 651
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic HOSHEA|HOSHEA]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H1820]]"
+- "[[H8111]]"
+- "[[H4428G]]"
+- "[[H9024]]"
+- "[[H9004]]"
+- "[[H7110B]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440J]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 10:7**<big><big>[[Hos.10.1 Retribution for Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As for] Samaria, her king is cut off as the foam upon the water.
 <small><sub>**BSB:**</sub></small>
 Samaria will be carried off with her king like a twig on the surface of the water.
+<small><sub>**Hebrew:**</sub></small>
+[[H1820\|נִדְמֶ֥ה]] [[H8111\|שֹׁמְר֖וֹן]] [[H4428G\|מַלְכָּ֑]][[H9024\|הּ]] [[H9004\|כְּ]][[H7110B\|קֶ֖צֶף]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵי]][[H9014\|־]] [[H4325G\|מָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOSHEA|HOSHEA]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.10.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.6|<< Hosea 10:6]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.8|Hosea 10:8 >>]]</td></tr></table>
 

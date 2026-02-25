@@ -1,8 +1,69 @@
+---
+title: 1 Kings 6:6
+type: Verse
+kjv: "The nethermost chamber was five cubits broad, and the middle was six cubits broad, and the third was seven cubits broad: for without in the wall of the house he made narrowed rests round about, that the beams should not be fastened in the walls of the house."
+bsb: "The bottom floor was five cubits wide, the middle floor six cubits, and the third floor seven cubits. He also placed offset ledges around the outside of the temple, so that nothing would be inserted into its walls."
+hebrew: "הַיָּצִ֨יעַ הַתַּחְתֹּנָ֜ה חָמֵ֧שׁ בָּאַמָּ֣ה רָחְבָּ֗הּ וְהַתִּֽיכֹנָה֙ שֵׁ֤שׁ בָּֽאַמָּה֙ רָחְבָּ֔הּ וְהַ֨שְּׁלִישִׁ֔ית שֶׁ֥בַע בָּאַמָּ֖ה רָחְבָּ֑הּ כִּ֡י מִגְרָעוֹת֩ נָתַ֨ן לַבַּ֤יִת סָבִיב֙ ח֔וּצָה לְבִלְתִּ֖י אֲחֹ֥ז בְּקִֽירוֹת־ הַבָּֽיִת׃"
+pericope: "[[1Kgs.6.5 The Chambers|The Chambers]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 6
+book/chapter: "[[1Kgs.6|1 Kings 6]]"
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9009]]"
+- "[[H3326B]]"
+- "[[H8481H]]"
+- "[[H2568]]"
+- "[[H9003]]"
+- "[[H0520A]]"
+- "[[H7341]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H8484]]"
+- "[[H8337]]"
+- "[[H7992]]"
+- "[[H7651]]"
+- "[[H3588A]]"
+- "[[H4052]]"
+- "[[H5414I]]"
+- "[[H9005]]"
+- "[[H1004B]]"
+- "[[H5439G]]"
+- "[[H2351]]"
+- "[[H9011]]"
+- "[[H1115]]"
+- "[[H0270]]"
+- "[[H7023]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **1 Kings 6:6**<big><big>[[1Kgs.6.5 The Chambers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The nethermost chamber [was] five cubits broad, and the middle [was] six cubits broad, and the third [was] seven cubits broad: for without [in the wall] of the house he made narrowed rests round about, that [the beams] should not be fastened in the walls of the house.
 <small><sub>**BSB:**</sub></small>
 The bottom floor was five cubits wide, the middle floor six cubits, and the third floor seven cubits. He also placed offset ledges around the outside of the temple, so that nothing would be inserted into its walls.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H3326B\|יָּצִ֨יעַ]] [[H9009\|הַ]][[H8481H\|תַּחְתֹּנָ֜ה]] [[H2568\|חָמֵ֧שׁ]] [[H9003\|בָּ]][[H0520A\|אַמָּ֣ה]] [[H7341\|רָחְבָּ֗]][[H9024\|הּ]] [[H9002\|וְ]][[H9009\|הַ]][[H8484\|תִּֽיכֹנָה֙]] [[H8337\|שֵׁ֤שׁ]] [[H9003\|בָּֽ]][[H0520A\|אַמָּה֙]] [[H7341\|רָחְבָּ֔]][[H9024\|הּ]] [[H9002\|וְ]][[H9009\|הַ֨]][[H7992\|שְּׁלִישִׁ֔ית]] [[H7651\|שֶׁ֥בַע]] [[H9003\|בָּ]][[H0520A\|אַמָּ֖ה]] [[H7341\|רָחְבָּ֑]][[H9024\|הּ]] [[H3588A\|כִּ֡י]] [[H4052\|מִגְרָעוֹת֩]] [[H5414I\|נָתַ֨ן]] [[H9005\|לַ]][[H1004B\|בַּ֤יִת]] [[H5439G\|סָבִיב֙]] [[H2351\|ח֔וּצָ]][[H9011\|ה]] [[H9005\|לְ]][[H1115\|בִלְתִּ֖י]] [[H0270\|אֲחֹ֥ז]] [[H9003\|בְּ]][[H7023\|קִֽירוֹת]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בָּֽיִת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.5|<< 1 Kings 6:5]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.7|1 Kings 6:7 >>]]</td></tr></table>
 
@@ -33,7 +94,7 @@ The bottom floor was five cubits wide, the middle floor six cubits, and the thir
 | the house  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1004B\|בָּֽיִת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.5|<< 1 Kings 6:5]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.7|1 Kings 6:7 >>]]</td></tr></table>
 
-[^1]: the bed  | **<big>[[H3326B|יָּצוֹעַ]]</big><big>[[H9009|הַ]]</big> ** | hai.<small><sup>[[HTd]]</sup></small> ya.tzo.a'<small><sup>[[HNcbsa]]</sup></small> | K
-[^2]: the bed  | **<big>[[H3326B|יָּצוֹעַ]]</big><big>[[H9009|הַ]]</big> ** | hai.<small><sup>[[HTd]]</sup></small> ya.tzo.a'<small><sup>[[HNcbsa]]</sup></small> | K
+[^1]: the bed  | **<big>[[H9009|הַ]]</big><big>[[H3326B|יָּצוֹעַ]]</big> ** | hai.<small><sup>[[HTd]]</sup></small> ya.tzo.a'<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: the bed  | **<big>[[H9009|הַ]]</big><big>[[H3326B|יָּצוֹעַ]]</big> ** | hai.<small><sup>[[HTd]]</sup></small> ya.tzo.a'<small><sup>[[HNcbsa]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>הַיָּצִ֨ועַ</big></span>**
 

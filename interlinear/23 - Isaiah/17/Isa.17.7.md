@@ -1,8 +1,63 @@
+---
+title: Isaiah 17:7
+type: Verse
+kjv: "At that day shall a man look to his Maker, and his eyes shall have respect to the Holy One of Israel."
+bsb: "In that day men will look to their Maker and turn their eyes to the Holy One of Israel."
+hebrew: "בַּיּ֣וֹם הַה֔וּא יִשְׁעֶ֥ה הָאָדָ֖ם עַל־ עֹשֵׂ֑הוּ וְעֵינָ֕יו אֶל־ קְד֥וֹשׁ יִשְׂרָאֵ֖ל תִּרְאֶֽינָה׃"
+pericope: "[[Isa.17.1 The Burden against Damascus|The Burden against Damascus]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 17
+book/chapter: "[[Isa.17|Isaiah 17]]"
+chronological_order: 634
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MAN|MAN]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H8159]]"
+- "[[H0120G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6213H]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H6918G]]"
+- "[[H3478]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 17:7**<big><big>[[Isa.17.1 The Burden against Damascus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At that day shall a man look to his Maker, and his eyes shall have respect to the Holy One of Israel.
 <small><sub>**BSB:**</sub></small>
 In that day men will look to their Maker and turn their eyes to the Holy One of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H8159\|יִשְׁעֶ֥ה]] [[H9009\|הָ]][[H0120G\|אָדָ֖ם]] [[H5921A\|עַל]][[H9014\|־]] [[H6213H\|עֹשֵׂ֑]][[H9033\|הוּ]] [[H9002\|וְ]][[H5869A\|עֵינָ֕י]][[H9023\|ו]] [[H0413\|אֶל]][[H9014\|־]] [[H6918G\|קְד֥וֹשׁ]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H7200G\|תִּרְאֶֽינָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MAN|MAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.17.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.6|<< Isaiah 17:6]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17.8|Isaiah 17:8 >>]]</td></tr></table>
 

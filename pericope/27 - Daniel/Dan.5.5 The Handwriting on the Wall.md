@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Handwriting on the Wall
+type: Pericope
 pericope: "[[Dan.5.5 The Handwriting on the Wall|The Handwriting on the Wall]]"
-verse_count: 8
+original_language: Aramaic
 testament: Old
 book: Daniel
 chapter: 5
 book/chapter: "[[Dan.5|Daniel 5]]"
-genre:
+chronological_order: 790
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 8
 verses:
 - "[[Dan.5.5]]"
 - "[[Dan.5.6]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Dan.5.12]]"
 ---
 
-[[Dan.5|Daniel 5:5 - Daniel 5:12]]
+<small>[[Dan.5|Daniel 5:5-12]]</small>
 *The Handwriting on the Wall*
 
 [[Dan.5.5|5]] In the same hour came forth fingers of a man’s hand, and wrote over against the candlestick upon the plaister of the wall of the king’s palace: and the king saw the part of the hand that wrote.

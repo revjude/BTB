@@ -1,8 +1,64 @@
+---
+title: Genesis 12:6
+type: Verse
+kjv: "And Abram passed through the land unto the place of Sichem, unto the plain of Moreh. And the Canaanite was then in the land."
+bsb: "Abram traveled through the land as far as the site of the Oak of Moreh at Shechem. And at that time the Canaanites were in the land."
+hebrew: "וַיַּעֲבֹ֤ר אַבְרָם֙ בָּאָ֔רֶץ עַ֚ד מְק֣וֹם שְׁכֶ֔ם עַ֖ד אֵל֣וֹן מוֹרֶ֑ה וְהַֽכְּנַעֲנִ֖י אָ֥ז בָּאָֽרֶץ׃"
+pericope: "[[Gen.12.1 The Call of Abram|The Call of Abram]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 12
+book/chapter: "[[Gen.12|Genesis 12]]"
+chronological_order: 54
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic MOREH|MOREH]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H0087]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H5704]]"
+- "[[H4725]]"
+- "[[H7927G]]"
+- "[[H0436H]]"
+- "[[H4176G]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3669A]]"
+- "[[H0227A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 12:6**<big><big>[[Gen.12.1 The Call of Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abram passed through the land unto the place of Sichem, unto the plain of Moreh. And the Canaanite [was] then in the land.
 <small><sub>**BSB:**</sub></small>
 Abram traveled through the land as far as the site of the Oak of Moreh at Shechem. And at that time the Canaanites were in the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5674A\|יַּעֲבֹ֤ר]] [[H0087\|אַבְרָם֙]] [[H9003\|בָּ]][[H0776G\|אָ֔רֶץ]] [[H5704\|עַ֚ד]] [[H4725\|מְק֣וֹם]] [[H7927G\|שְׁכֶ֔ם]] [[H5704\|עַ֖ד]] [[H0436H\|אֵל֣וֹן]] [[H4176G\|מוֹרֶ֑ה]] [[H9002\|וְ]][[H9009\|הַֽ]][[H3669A\|כְּנַעֲנִ֖י]] [[H0227A\|אָ֥ז]] [[H9003\|בָּ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CANAAN|CANAAN]] • [[topic CANAANITES|CANAANITES]] • [[topic COURAGE|COURAGE]] • [[topic MOREH|MOREH]] • [[topic RELIGION|RELIGION]] • [[topic SHECHEM|SHECHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.12.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.5|<< Genesis 12:5]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.7|Genesis 12:7 >>]]</td></tr></table>
 

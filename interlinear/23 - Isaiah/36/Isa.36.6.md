@@ -1,8 +1,70 @@
+---
+title: Isaiah 36:6
+type: Verse
+kjv: "Lo, thou trustest in the staff of this broken reed, on Egypt; whereon if a man lean, it will go into his hand, and pierce it: so is Pharaoh king of Egypt to all that trust in him."
+bsb: "Look now, you are trusting in Egypt, that splintered reed of a staff that will pierce the hand of anyone who leans on it. Such is Pharaoh king of Egypt to all who trust in him."
+hebrew: "הִנֵּ֣ה בָטַ֡חְתָּ עַל־ מִשְׁעֶנֶת֩ הַקָּנֶ֨ה הָרָצ֤וּץ הַזֶּה֙ עַל־ מִצְרַ֔יִם אֲשֶׁ֨ר יִסָּמֵ֥ךְ אִישׁ֙ עָלָ֔יו וּבָ֥א בְכַפּ֖וֹ וּנְקָבָ֑הּ כֵּ֚ן פַּרְעֹ֣ה מֶֽלֶךְ־ מִצְרַ֔יִם לְכָֽל־ הַבֹּטְחִ֖ים עָלָֽיו׃"
+pericope: "[[Isa.36.1 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 36
+book/chapter: "[[Isa.36|Isaiah 36]]"
+chronological_order: 663
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic REED|REED]]"
+strongs:
+- "[[H2009]]"
+- "[[H0982]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4938B]]"
+- "[[H9009]]"
+- "[[H7070H]]"
+- "[[H7533]]"
+- "[[H2088]]"
+- "[[H4714G]]"
+- "[[H0834A]]"
+- "[[H5564]]"
+- "[[H0376I]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H3709G]]"
+- "[[H9023]]"
+- "[[H5344A]]"
+- "[[H9034]]"
+- "[[H3651C]]"
+- "[[H6547L]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 36:6**<big><big>[[Isa.36.1 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lo, thou trustest in the staff of this broken reed, on Egypt; whereon if a man lean, it will go into his hand, and pierce it: so [is] Pharaoh king of Egypt to all that trust in him.
 <small><sub>**BSB:**</sub></small>
 Look now, you are trusting in Egypt, that splintered reed of a staff that will pierce the hand of anyone who leans on it. Such is Pharaoh king of Egypt to all who trust in him.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֣ה]] [[H0982\|בָטַ֡חְתָּ]] [[H5921A\|עַל]][[H9014\|־]] [[H4938B\|מִשְׁעֶנֶת֩]] [[H9009\|הַ]][[H7070H\|קָּנֶ֨ה]] [[H9009\|הָ]][[H7533\|רָצ֤וּץ]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H5921A\|עַל]][[H9014\|־]] [[H4714G\|מִצְרַ֔יִם]] [[H0834A\|אֲשֶׁ֨ר]] [[H5564\|יִסָּמֵ֥ךְ]] [[H0376I\|אִישׁ֙]] [[H5921A\|עָלָ֔י]][[H9033\|ו]] [[H9001\|וּ]][[H0935G\|בָ֥א]] [[H9003\|בְ]][[H3709G\|כַפּ֖]][[H9023\|וֹ]] [[H9001\|וּ]][[H5344A\|נְקָבָ֑]][[H9034\|הּ]] [[H3651C\|כֵּ֚ן]] [[H6547L\|פַּרְעֹ֣ה]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H4714G\|מִצְרַ֔יִם]] [[H9005\|לְ]][[H3605\|כָֽל]][[H9014\|־]] [[H9009\|הַ]][[H0982\|בֹּטְחִ֖ים]] [[H5921A\|עָלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic REED|REED]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.36.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.36.5|<< Isaiah 36:5]]</td><td align="center" style="border:none;">[[Isa.36|Isaiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.36.7|Isaiah 36:7 >>]]</td></tr></table>
 

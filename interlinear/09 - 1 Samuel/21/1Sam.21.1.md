@@ -1,8 +1,67 @@
+---
+title: 1 Samuel 21:1
+type: Verse
+kjv: "Then came David to Nob to Ahimelech the priest: and Ahimelech was afraid at the meeting of David, and said unto him, Why art thou alone, and no man with thee?"
+bsb: "Then David came to Nob, to Ahimelech the priest. And when Ahimelech met David, he trembled and asked him, “Why are you alone? Why is no one with you?”"
+hebrew: "וַיָּבֹ֤א דָוִד֙ נֹ֔בֶה אֶל־ אֲחִימֶ֖לֶךְ הַכֹּהֵ֑ן וַיֶּחֱרַ֨ד אֲחִימֶ֜לֶךְ לִקְרַ֣את דָּוִ֗ד וַיֹּ֤אמֶר לוֹ֙ מַדּ֤וּעַ אַתָּה֙ לְבַדֶּ֔ךָ וְאִ֖ישׁ אֵ֥ין אִתָּֽךְ׃"
+pericope: "[[1Sam.21.1 David Takes the Consecrated Bread|David Takes the Consecrated Bread]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 21
+book/chapter: "[[1Sam.21|1 Samuel 21]]"
+chronological_order: 300
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic NOB|NOB]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H1732]]"
+- "[[H5011]]"
+- "[[H9011]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0288G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H2729]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H4069]]"
+- "[[H0859A]]"
+- "[[H0905H]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H0376I]]"
+- "[[H0369]]"
+- "[[H0854]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 21:1**<big><big>[[1Sam.21.1 David Takes the Consecrated Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then came David to Nob to Ahimelech the priest: and Ahimelech was afraid at the meeting of David, and said unto him, Why [art] thou alone, and no man with thee?
 <small><sub>**BSB:**</sub></small>
 Then David came to Nob, to Ahimelech the priest. And when Ahimelech met David, he trembled and asked him, “Why are you alone? Why is no one with you?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֤א]] [[H1732\|דָוִד֙]] [[H5011\|נֹ֔בֶ]][[H9011\|ה]] [[H0413\|אֶל]][[H9014\|־]] [[H0288G\|אֲחִימֶ֖לֶךְ]] [[H9009\|הַ]][[H3548\|כֹּהֵ֑ן]] [[H9001\|וַ]][[H2729\|יֶּחֱרַ֨ד]] [[H0288G\|אֲחִימֶ֜לֶךְ]] [[H9005\|לִ]][[H7122G\|קְרַ֣את]] [[H1732\|דָּוִ֗ד]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H4069\|מַדּ֤וּעַ]] [[H0859A\|אַתָּה֙]] [[H9005\|לְ]][[H0905H\|בַדֶּ֔]][[H9031\|ךָ]] [[H9002\|וְ]][[H0376I\|אִ֖ישׁ]] [[H0369\|אֵ֥ין]] [[H0854\|אִתָּֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic DAVID|DAVID]] • [[topic NOB|NOB]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.21.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.42|<< 1 Samuel 20:42]]</td><td align="center" style="border:none;">[[1Sam.21|1 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.21.2|1 Samuel 21:2 >>]]</td></tr></table>
 

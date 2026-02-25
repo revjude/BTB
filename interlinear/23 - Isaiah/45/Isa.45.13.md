@@ -1,8 +1,69 @@
+---
+title: Isaiah 45:13
+type: Verse
+kjv: "I have raised him up in righteousness, and I will direct all his ways: he shall build my city, and he shall let go my captives, not for price nor reward, saith the LORD of hosts."
+bsb: "I will raise up Cyrus in righteousness, and I will make all his ways straight. He will rebuild My city and set My exiles free, but not for payment or reward, says the LORD of Hosts.”"
+hebrew: "אָנֹכִי֙ הַעִירֹתִ֣הֽוּ בְצֶ֔דֶק וְכָל־ דְּרָכָ֖יו אֲיַשֵּׁ֑ר הֽוּא־ יִבְנֶ֤ה עִירִי֙ וְגָלוּתִ֣י יְשַׁלֵּ֔חַ לֹ֤א בִמְחִיר֙ וְלֹ֣א בְשֹׁ֔חַד אָמַ֖ר יְהוָ֥ה צְבָאֽוֹת׃ פ"
+pericope: "[[Isa.45.1 God Calls Cyrus|God Calls Cyrus]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 45
+book/chapter: "[[Isa.45|Isaiah 45]]"
+chronological_order: 684
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CYRUS|CYRUS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[H0595]]"
+- "[[H5782]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H6664G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H3474]]"
+- "[[H1931]]"
+- "[[H1129]]"
+- "[[H5892B]]"
+- "[[H9020]]"
+- "[[H1546]]"
+- "[[H7971H]]"
+- "[[H3808]]"
+- "[[H4242]]"
+- "[[H7810]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Isaiah 45:13**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have raised him up in righteousness, and I will direct all his ways: he shall build my city, and he shall let go my captives, not for price nor reward, saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
 I will raise up Cyrus in righteousness, and I will make all his ways straight. He will rebuild My city and set My exiles free, but not for payment or reward, says the LORD of Hosts.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0595\|אָנֹכִי֙]] [[H5782\|הַעִירֹתִ֣]][[H9033\|הֽוּ]] [[H9003\|בְ]][[H6664G\|צֶ֔דֶק]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1870G\|דְּרָכָ֖י]][[H9023\|ו]] [[H3474\|אֲיַשֵּׁ֑ר]] [[H1931\|הֽוּא]][[H9014\|־]] [[H1129\|יִבְנֶ֤ה]] [[H5892B\|עִירִ]][[H9020\|י֙]] [[H9002\|וְ]][[H1546\|גָלוּתִ֣]][[H9020\|י]] [[H7971H\|יְשַׁלֵּ֔חַ]] [[H3808\|לֹ֤א]] [[H9003\|בִ]][[H4242\|מְחִיר֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H9003\|בְ]][[H7810\|שֹׁ֔חַד]] [[H0559\|אָמַ֖ר]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָאֽוֹת]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CYRUS|CYRUS]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]] • [[topic PERSIA|PERSIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.12|<< Isaiah 45:12]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.14|Isaiah 45:14 >>]]</td></tr></table>
 
@@ -25,7 +86,7 @@ I will raise up Cyrus in righteousness, and I will make all his ways straight. H
 | for a bribe  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H7810\|שֹׁ֔חַד]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> Sho.chad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he says  |**<big>&#8207;[[H0559\|אָמַ֖ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of hosts  |**<big>&#8207;[[H6635B\|צְבָאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of hosts  |**<big>&#8207;[[H6635B\|צְבָאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.12|<< Isaiah 45:12]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.14|Isaiah 45:14 >>]]</td></tr></table>
 
 

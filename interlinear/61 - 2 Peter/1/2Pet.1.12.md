@@ -1,10 +1,58 @@
+---
+title: 2 Peter 1:12
+type: Verse
+kjv: "Wherefore I will not be negligent to put you always in remembrance of these things, though ye know them, and be established in the present truth."
+bsb: "Therefore I will always remind you of these things, even though you know them and are established in the truth you now have."
+greek: "Διὸ μελλήσω ἀεὶ ὑμᾶς ὑπομιμνῄσκειν περὶ τούτων καίπερ εἰδότας καὶ ἐστηριγμένους ἐν τῇ παρούσῃ ἀληθείᾳ."
+pericope: "[[2Pet.1.3 Partakers of the Divine Nature|Partakers of the Divine Nature]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 1
+book/chapter: "[[2Pet.1|2 Peter 1]]"
+chronological_order: 1157
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1352]]"
+- "[[G3195]]"
+- "[[G0104]]"
+- "[[G4771]]"
+- "[[G5279]]"
+- "[[G4012]]"
+- "[[G3778]]"
+- "[[G2539]]"
+- "[[G6063]]"
+- "[[G2532]]"
+- "[[G4741]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3918]]"
+- "[[G0225]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **2 Peter 1:12**<big><big>[[2Pet.1.3 Partakers of the Divine Nature|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore I will not be negligent to put you always in remembrance of these things, though ye know [them], and be established in the present truth.
 <small><sub>**BSB:**</sub></small>
 Therefore I will always remind you of these things, even though you know them and are established in the truth you now have.
-<small><sub>**Literal:**</sub></small>
-Therefore I will be ready always you to remind concerning these things though knowing [them] and strengthened in the being present [in you] truth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.11|<< 2 Peter 1:11]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.13|2 Peter 1:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1352\|Διὸ]]  [[G3195\|μελλήσω]]  [[G0104\|ἀεὶ]]  [[G4771\|ὑμᾶς]]  [[G5279\|ὑπομιμνῄσκειν]]  [[G4012\|περὶ]]  [[G3778\|τούτων]]  [[G2539\|καίπερ]]  [[G6063\|εἰδότας]]  [[G2532\|καὶ]]  [[G4741\|ἐστηριγμένους]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3918\|παρούσῃ]]  [[G0225\|ἀληθείᾳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WISDOM|WISDOM]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.11|<< 2 Peter 1:11]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.13|2 Peter 1:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

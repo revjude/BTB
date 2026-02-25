@@ -1,8 +1,61 @@
+---
+title: 2 Kings 14:8
+type: Verse
+kjv: "Then Amaziah sent messengers to Jehoash, the son of Jehoahaz son of Jehu, king of Israel, saying, Come, let us look one another in the face."
+bsb: "Then Amaziah sent messengers to the king of Israel Jehoash son of Jehoahaz, the son of Jehu. “Come, let us meet face to face,” he said."
+hebrew: "אָ֣ז שָׁלַ֤ח אֲמַצְיָה֙ מַלְאָכִ֔ים אֶל־ יְהוֹאָ֨שׁ בֶּן־ יְהוֹאָחָ֧ז בֶּן־ יֵה֛וּא מֶ֥לֶךְ יִשְׂרָאֵ֖ל לֵאמֹ֑ר לְכָ֖ה נִתְרָאֶ֥ה פָנִֽים׃"
+pericope: "[[2Kgs.14.8 Jehoash Defeats Amaziah|Jehoash Defeats Amaziah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 14
+book/chapter: "[[2Kgs.14|2 Kings 14]]"
+chronological_order: 591
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOASH|JEHOASH]]"
+strongs:
+- "[[H0227A]]"
+- "[[H7971G]]"
+- "[[H0558G]]"
+- "[[H4397G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3060H]]"
+- "[[H1121A]]"
+- "[[H3059G]]"
+- "[[H3058H]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H1980K]]"
+- "[[H9012]]"
+- "[[H7200G]]"
+- "[[H6440H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 14:8**<big><big>[[2Kgs.14.8 Jehoash Defeats Amaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Amaziah sent messengers to Jehoash, the son of Jehoahaz son of Jehu, king of Israel, saying, Come, let us look one another in the face.
 <small><sub>**BSB:**</sub></small>
 Then Amaziah sent messengers to the king of Israel Jehoash son of Jehoahaz, the son of Jehu. “Come, let us meet face to face,” he said.
+<small><sub>**Hebrew:**</sub></small>
+[[H0227A\|אָ֣ז]] [[H7971G\|שָׁלַ֤ח]] [[H0558G\|אֲמַצְיָה֙]] [[H4397G\|מַלְאָכִ֔ים]] [[H0413\|אֶל]][[H9014\|־]] [[H3060H\|יְהוֹאָ֨שׁ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3059G\|יְהוֹאָחָ֧ז]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3058H\|יֵה֛וּא]] [[H4428G\|מֶ֥לֶךְ]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H1980K\|לְכָ֖]][[H9012\|ה]] [[H7200G\|נִתְרָאֶ֥ה]] [[H6440H\|פָנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBASSADORS|AMBASSADORS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOASH|JEHOASH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.14.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.7|<< 2 Kings 14:7]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.9|2 Kings 14:9 >>]]</td></tr></table>
 

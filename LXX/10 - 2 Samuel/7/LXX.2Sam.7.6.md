@@ -1,6 +1,63 @@
+---
+title: LXX 2 Samuel 7:6
+type: Verse
+lxx: "For I have not dwelt in a house from which day I led the sons of Israel out of Egypt, until  this day, for I was walking about in a lodging, in a tent."
+greek: "ότι ου κατώκηκα εν οίκω αφ΄ ης ημέρας ανήγαγον τους υιούς Ισραήλ εξ Αιγύπτου έως της ημέρα ταύτης και ήμην εμπεριπατών εν καταλύματι εν σκηνή"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 7
+book/chapter: "[[2Sam.7|2 Samuel 7]]"
+chronological_order: 393
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G3754]]"
+- "[[G3756]]"
+- "[[G2730]]"
+- "[[G1722]]"
+- "[[G3624]]"
+- "[[G0575]]"
+- "[[G3739]]"
+- "[[G2250]]"
+- "[[G0321]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G2474]]"
+- "[[G1537]]"
+- "[[G0125]]"
+- "[[G2193]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G1704]]"
+- "[[G1722]]"
+- "[[G2646]]"
+- "[[G1722]]"
+- "[[G4633]]"
+---
+
 **LXX 2 Samuel 7:6** 
 <small><sub>**LXX:**</sub></small>
 For I have not dwelt in a house from which day I led the sons of Israel out of Egypt, until  this day, for I was walking about in a lodging, in a tent. 
+<small><sub>**Greek:**</sub></small>
+[[G3754\|ότι]] [[G3756\|ου]] [[G2730\|κατώκηκα]] [[G1722\|εν]] [[G3624\|οίκω]] [[G0575\|αφ΄]] [[G3739\|ης]] [[G2250\|ημέρας]] [[G0321\|ανήγαγον]] [[G3588\|τους]] [[G5207\|υιούς]] [[G2474\|Ισραήλ]] [[G1537\|εξ]] [[G0125\|Αιγύπτου]] [[G2193\|έως]] [[G3588\|της]] [[G2250\|ημέρα]] [[G3778\|ταύτης]] [[G2532\|και]] [[G1510\|ήμην]] [[G1704\|εμπεριπατών]] [[G1722\|εν]] [[G2646\|καταλύματι]] [[G1722\|εν]] [[G4633\|σκηνή]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NATHAN|NATHAN]] • [[topic PROPHETS|PROPHETS]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.5|<< 2 Samuel 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.7|2 Samuel 7:7 >>]]</td></tr></table>
 
@@ -30,6 +87,6 @@ For I have not dwelt in a house from which day I led the sons of Israel out of E
 | a lodging, | **<big>[[G2646\|καταλύματι]]</big>** |
 | in | **<big>[[G1722\|εν]]</big>** |
 | a tent. | **<big>[[G4633\|σκηνή]]</big>** |
-[[2Sam.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.5|<< 2 Samuel 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.7|2 Samuel 7:7 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.5|<< 2 Samuel 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.7|2 Samuel 7:7 >>]]</td></tr></table>
 
 

@@ -1,8 +1,57 @@
+---
+title: Psalm 36:3
+type: Verse
+kjv: "The words of his mouth are iniquity and deceit: he hath left off to be wise, and to do good."
+bsb: "The words of his mouth are wicked and deceitful; he has ceased to be wise and well-doing."
+hebrew: "דִּבְרֵי־ פִ֭יו אָ֣וֶן וּמִרְמָ֑ה חָדַ֖ל לְהַשְׂכִּ֣יל לְהֵיטִֽיב׃"
+pericope: "[[Ps.36.1 The Transgression of the Wicked|The Transgression of the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 36
+book/chapter: "[[Ps.36|Psalm 36]]"
+chronological_order: 364
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DECEIT|DECEIT]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H6310G]]"
+- "[[H9023]]"
+- "[[H0205G]]"
+- "[[H9002]]"
+- "[[H4820]]"
+- "[[H2308]]"
+- "[[H9005]]"
+- "[[H7919A]]"
+- "[[H3190]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 36:3**<big><big>[[Ps.36.1 The Transgression of the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The words of his mouth [are] iniquity and deceit: he hath left off to be wise, [and] to do good.
 <small><sub>**BSB:**</sub></small>
 The words of his mouth are wicked and deceitful; he has ceased to be wise and well-doing.
+<small><sub>**Hebrew:**</sub></small>
+[[H1697G\|דִּבְרֵי]][[H9014\|־]] [[H6310G\|פִ֭י]][[H9023\|ו]] [[H0205G\|אָ֣וֶן]] [[H9002\|וּ]][[H4820\|מִרְמָ֑ה]] [[H2308\|חָדַ֖ל]] [[H9005\|לְ]][[H7919A\|הַשְׂכִּ֣יל]] [[H9005\|לְ]][[H3190\|הֵיטִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEIT|DECEIT]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.36.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.36.2|<< Psalms 36:2]]</td><td align="center" style="border:none;">[[Ps.36|Psalms 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.36.4|Psalms 36:4 >>]]</td></tr></table>
 

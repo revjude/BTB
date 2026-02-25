@@ -1,8 +1,69 @@
+---
+title: Ezekiel 21:19
+type: Verse
+kjv: "Also, thou son of man, appoint thee two ways, that the sword of the king of Babylon may come: both twain shall come forth out of one land: and choose thou a place, choose it at the head of the way to the city."
+bsb: "“Now you, son of man, mark out two roads for the sword of the king of Babylon to take, both starting from the same land. And make a signpost where the road branches off to each city."
+hebrew: "וְאַתָּ֨ה בֶן־ אָדָ֜ם שִׂים־ לְךָ֣׀ שְׁנַ֣יִם דְּרָכִ֗ים לָבוֹא֙ חֶ֣רֶב מֶֽלֶךְ־ בָּבֶ֔ל מֵאֶ֥רֶץ אֶחָ֖ד יֵצְא֣וּ שְׁנֵיהֶ֑ם וְיָ֣ד בָּרֵ֔א בְּרֹ֥אשׁ דֶּֽרֶךְ־ עִ֖יר בָּרֵֽא׃"
+pericope: "[[Ezek.21.1 God’s Sword of Judgment|God’s Sword of Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 21
+book/chapter: "[[Ezek.21|Ezekiel 21]]"
+chronological_order: 812
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BABYLON|BABYLON]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H7760A]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9015]]"
+- "[[H8147]]"
+- "[[H1870K]]"
+- "[[H0935G]]"
+- "[[H2719]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H0259]]"
+- "[[H3318G]]"
+- "[[H9028]]"
+- "[[H3027M]]"
+- "[[H1254A]]"
+- "[[H9003]]"
+- "[[H7218I]]"
+- "[[H5892B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 21:19**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also, thou son of man, appoint thee two ways, that the sword of the king of Babylon may come: both twain shall come forth out of one land: and choose thou a place, choose [it] at the head of the way to the city.
 <small><sub>**BSB:**</sub></small>
 “Now you, son of man, mark out two roads for the sword of the king of Babylon to take, both starting from the same land. And make a signpost where the road branches off to each city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֨ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H0120G\|אָדָ֜ם]] [[H7760A\|שִׂים]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֣]][[H9015\|׀]] [[H8147\|שְׁנַ֣יִם]] [[H1870K\|דְּרָכִ֗ים]] [[H9005\|לָ]][[H0935G\|בוֹא֙]] [[H2719\|חֶ֣רֶב]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֔ל]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H0259\|אֶחָ֖ד]] [[H3318G\|יֵצְא֣וּ]] [[H8147\|שְׁנֵי]][[H9028\|הֶ֑ם]] [[H9002\|וְ]][[H3027M\|יָ֣ד]] [[H1254A\|בָּרֵ֔א]] [[H9003\|בְּ]][[H7218I\|רֹ֥אשׁ]] [[H1870K\|דֶּֽרֶךְ]][[H9014\|־]] [[H5892B\|עִ֖יר]] [[H1254A\|בָּרֵֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.18|<< Ezekiel 21:18]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.20|Ezekiel 21:20 >>]]</td></tr></table>
 

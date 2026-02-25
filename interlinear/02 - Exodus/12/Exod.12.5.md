@@ -1,8 +1,66 @@
+---
+title: Exodus 12:5
+type: Verse
+kjv: "Your lamb shall be without blemish, a male of the first year: ye shall take it out from the sheep, or from the goats:"
+bsb: "Your lamb must be an unblemished year-old male, and you may take it from the sheep or the goats."
+hebrew: "שֶׂ֥ה תָמִ֛ים זָכָ֥ר בֶּן־ שָׁנָ֖ה יִהְיֶ֣ה לָכֶ֑ם מִן־ הַכְּבָשִׂ֥ים וּמִן־ הָעִזִּ֖ים תִּקָּֽחוּ׃"
+pericope: "[[Exod.12.1 The First Passover|The First Passover]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 12
+book/chapter: "[[Exod.12|Exodus 12]]"
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic GOAT|GOAT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H7716]]"
+- "[[H8549G]]"
+- "[[H2145]]"
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H8141]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H3532]]"
+- "[[H9002]]"
+- "[[H5795]]"
+- "[[H3947G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 12:5**<big><big>[[Exod.12.1 The First Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Your lamb shall be without blemish, a male of the first year: ye shall take [it] out from the sheep, or from the goats:
 <small><sub>**BSB:**</sub></small>
 Your lamb must be an unblemished year-old male, and you may take it from the sheep or the goats.
+<small><sub>**Hebrew:**</sub></small>
+[[H7716\|שֶׂ֥ה]] [[H8549G\|תָמִ֛ים]] [[H2145\|זָכָ֥ר]] [[H1121L\|בֶּן]][[H9014\|־]] [[H8141\|שָׁנָ֖ה]] [[H1961\|יִהְיֶ֣ה]] [[H9005\|לָ]][[H9036\|כֶ֑ם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3532\|כְּבָשִׂ֥ים]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5795\|עִזִּ֖ים]] [[H3947G\|תִּקָּֽחוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic GOAT|GOAT]] • [[topic ISRAEL|ISRAEL]] • [[topic MONTH|MONTH]] • [[topic PASSOVER|PASSOVER]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.4|<< Exodus 12:4]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.6|Exodus 12:6 >>]]</td></tr></table>
 

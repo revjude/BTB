@@ -1,10 +1,60 @@
+---
+title: 1 Peter 1:21
+type: Verse
+kjv: "Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God."
+bsb: "Through Him you believe in God, who raised Him from the dead and glorified Him; and so your faith and hope are in God."
+greek: "τοὺς δι᾽ αὐτοῦ πιστοὺς εἰς θεόν, τὸν ἐγείραντα αὐτὸν ἐκ νεκρῶν καὶ δόξαν αὐτῷ δόντα, ὥστε τὴν πίστιν ὑμῶν καὶ ἐλπίδα εἶναι εἰς θεόν.¶"
+pericope: "[[1Pet.1.13 A Call to Holiness|A Call to Holiness]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 1
+book/chapter: "[[1Pet.1|1 Peter 1]]"
+chronological_order: 1135
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3588]]"
+- "[[G1223]]"
+- "[[G0846]]"
+- "[[G4103]]"
+- "[[G1519]]"
+- "[[G2316]]"
+- "[[G1453]]"
+- "[[G1537]]"
+- "[[G3498]]"
+- "[[G2532]]"
+- "[[G1391]]"
+- "[[G1325]]"
+- "[[G5620]]"
+- "[[G4102G]]"
+- "[[G4771]]"
+- "[[G1680]]"
+- "[[G1511]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Peter 1:21**<big><big>[[1Pet.1.13 A Call to Holiness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God.
 <small><sub>**BSB:**</sub></small>
 Through Him you believe in God, who raised Him from the dead and glorified Him; and so your faith and hope are in God.
-<small><sub>**Literal:**</sub></small>
-who through Him believing in God, the [one] having raised up Him out from [the] dead and glory Him having given, so as for the faith of you and hope to be in God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.20|<< 1 Peter 1:20]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.22|1 Peter 1:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τοὺς]]  [[G1223\|δι᾽]]  [[G0846\|αὐτοῦ]]  [[G4103\|πιστοὺς]]  [[G1519\|εἰς]]  [[G2316\|θεόν,]]  [[G3588\|τὸν]]  [[G1453\|ἐγείραντα]]  [[G0846\|αὐτὸν]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν]]  [[G2532\|καὶ]]  [[G1391\|δόξαν]]  [[G0846\|αὐτῷ]]  [[G1325\|δόντα,]]  [[G5620\|ὥστε]]  [[G3588\|τὴν]]  [[G4102G\|πίστιν]]  [[G4771\|ὑμῶν]]  [[G2532\|καὶ]]  [[G1680\|ἐλπίδα]]  [[G1511\|εἶναι]]  [[G1519\|εἰς]]  [[G2316\|θεόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic HOPE|HOPE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.20|<< 1 Peter 1:20]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.22|1 Peter 1:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

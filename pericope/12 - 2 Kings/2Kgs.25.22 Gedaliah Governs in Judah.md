@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Gedaliah Governs in Judah
+type: Pericope
 pericope: "[[2Kgs.25.22 Gedaliah Governs in Judah|Gedaliah Governs in Judah]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 25
 book/chapter: "[[2Kgs.25|2 Kings 25]]"
-genre:
+chronological_order: 742
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 3
 verses:
 - "[[2Kgs.25.22]]"
 - "[[2Kgs.25.23]]"
 - "[[2Kgs.25.24]]"
 ---
 
-[[2Kgs.25|2 Kings 25:22 - 2 Kings 25:24]]
+<small>[[2Kgs.25|2 Kings 25:22-24]]</small>
 *Gedaliah Governs in Judah*
 
 [[2Kgs.25.22|22]] And \[as for\] the people that remained in the land of Judah, whom Nebuchadnezzar king of Babylon had left, even over them he made Gedaliah the son of Ahikam, the son of Shaphan, ruler.

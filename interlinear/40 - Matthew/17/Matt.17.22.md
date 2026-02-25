@@ -1,10 +1,57 @@
+---
+title: Matthew 17:22
+type: Verse
+kjv: "And while they abode in Galilee, Jesus said unto them, The Son of man shall be betrayed into the hands of men:"
+bsb: "When they gathered together in Galilee, Jesus told them, “The Son of Man is about to be delivered into the hands of men."
+jesus_said: "The Son of man shall be betrayed into the hands of men:"
+greek: "Συστρεφομένων δὲ αὐτῶν ἐν τῇ Γαλιλαίᾳ εἶπεν αὐτοῖς ὁ Ἰησοῦς· μέλλει ὁ υἱὸς τοῦ ἀνθρώπου παραδίδοσθαι εἰς χεῖρας ἀνθρώπων,"
+pericope: "[[Matt.17.22 The Second Prediction of the Passion|The Second Prediction of the Passion]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 17
+book/chapter: "[[Matt.17|Matthew 17]]"
+chronological_order: 967
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G4962]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1056G]]"
+- "[[G2036]]"
+- "[[G2424G]]"
+- "[[G3195]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G3860]]"
+- "[[G1519]]"
+- "[[G5495]]"
+texts:
+- N(K)O
+- NKO
+---
+
 **Matthew 17:22**<big><big>[[Matt.17.22 The Second Prediction of the Passion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And while they abode in Galilee, Jesus said unto them, The Son of man shall be betrayed into the hands of men:
 <small><sub>**BSB:**</sub></small>
 When they gathered together in Galilee, Jesus told them, “The Son of Man is about to be delivered into the hands of men.
-<small><sub>**Literal:**</sub></small>
-When are abiding now they in <the> Galilee said to them <the> Jesus; Is about the Son <the> of Man to be betrayed into [the] hands of men,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.21|<< Matthew 17:21]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.23|Matthew 17:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4962\|Συστρεφομένων]]  [[G1161\|δὲ]]  [[G0846\|αὐτῶν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1056G\|Γαλιλαίᾳ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G3195\|μέλλει]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G3860\|παραδίδοσθαι]]  [[G1519\|εἰς]]  [[G5495\|χεῖρας]]  [[G0444\|ἀνθρώπων,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.21|<< Matthew 17:21]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.23|Matthew 17:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

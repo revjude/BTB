@@ -1,8 +1,55 @@
+---
+title: Job 16:6
+type: Verse
+kjv: "Though I speak, my grief is not asswaged: and though I forbear, what am I eased?"
+bsb: "Even if I speak, my pain is not relieved, and if I hold back, how will it go away?"
+hebrew: "אִֽם־ אֲ֭דַבְּרָה לֹא־ יֵחָשֵׂ֣ךְ כְּאֵבִ֑י וְ֝אַחְדְּלָ֗ה מַה־ מִנִּ֥י יַהֲלֹֽךְ׃"
+pericope: "[[Job.16.1 Job Decries His Comforters|Job Decries His Comforters]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 16
+book/chapter: "[[Job.16|Job 16]]"
+chronological_order: 27
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H1696G]]"
+- "[[H3808]]"
+- "[[H2820]]"
+- "[[H3511]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H2308]]"
+- "[[H4100]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 16:6**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though I speak, my grief is not asswaged: and [though] I forbear, what am I eased?
 <small><sub>**BSB:**</sub></small>
 Even if I speak, my pain is not relieved, and if I hold back, how will it go away?
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִֽם]][[H9014\|־]] [[H1696G\|אֲ֭דַבְּרָה]] [[H3808\|לֹא]][[H9014\|־]] [[H2820\|יֵחָשֵׂ֣ךְ]] [[H3511\|כְּאֵבִ֑]][[H9020\|י]] [[H9002\|וְ֝]][[H2308\|אַחְדְּלָ֗ה]] [[H4100\|מַה]][[H9014\|־]] [[H4480A\|מִ]][[H9030\|נִּ֥י]] [[H1980G\|יַהֲלֹֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.5|<< Job 16:5]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.7|Job 16:7 >>]]</td></tr></table>
 

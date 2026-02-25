@@ -1,8 +1,65 @@
+---
+title: Ezekiel 37:2
+type: Verse
+kjv: "And caused me to pass by them round about: and, behold, there were very many in the open valley; and, lo, they were very dry."
+bsb: "He led me all around among them, and I saw a great many bones on the floor of the valley, and indeed, they were very dry."
+hebrew: "וְהֶעֱבִירַ֥נִי עֲלֵיהֶ֖ם סָבִ֣יב׀ סָבִ֑יב וְהִנֵּ֨ה רַבּ֤וֹת מְאֹד֙ עַל־ פְּנֵ֣י הַבִּקְעָ֔ה וְהִנֵּ֖ה יְבֵשׁ֥וֹת מְאֹֽד׃"
+pericope: "[[Ezek.37.1 The Valley of Dry Bones|The Valley of Dry Bones]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 37
+book/chapter: "[[Ezek.37|Ezekiel 37]]"
+chronological_order: 828
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BONES|BONES]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H9030]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H5439G]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H7227A]]"
+- "[[H3966]]"
+- "[[H9014]]"
+- "[[H6440J]]"
+- "[[H9009]]"
+- "[[H1237K]]"
+- "[[H3002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 37:2**<big><big>[[Ezek.37.1 The Valley of Dry Bones|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And caused me to pass by them round about: and, behold, [there were] very many in the open valley; and, lo, [they were] very dry.
 <small><sub>**BSB:**</sub></small>
 He led me all around among them, and I saw a great many bones on the floor of the valley, and indeed, they were very dry.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5674A\|הֶעֱבִירַ֥]][[H9030\|נִי]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֖ם]] [[H5439G\|סָבִ֣יב]][[H9015\|׀]] [[H5439G\|סָבִ֑יב]] [[H9002\|וְ]][[H2009\|הִנֵּ֨ה]] [[H7227A\|רַבּ֤וֹת]] [[H3966\|מְאֹד֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֣י]] [[H9009\|הַ]][[H1237K\|בִּקְעָ֔ה]] [[H9002\|וְ]][[H2009\|הִנֵּ֖ה]] [[H3002\|יְבֵשׁ֥וֹת]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BONES|BONES]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic EZEKIEL|EZEKIEL]] • [[topic REGENERATION|REGENERATION]] • [[topic RESURRECTION|RESURRECTION]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.1|<< Ezekiel 37:1]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.3|Ezekiel 37:3 >>]]</td></tr></table>
 

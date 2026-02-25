@@ -1,8 +1,68 @@
+---
+title: Leviticus 14:48
+type: Verse
+kjv: "And if the priest shall come in, and look upon it, and, behold, the plague hath not spread in the house, after the house was plaistered: then the priest shall pronounce the house clean, because the plague is healed."
+bsb: "If, however, the priest comes and inspects it, and the mildew has not spread after the house has been replastered, he shall pronounce the house clean, because the mildew is gone."
+hebrew: "וְאִם־ בֹּ֨א יָבֹ֜א הַכֹּהֵ֗ן וְרָאָה֙ וְ֠הִנֵּה לֹא־ פָשָׂ֤ה הַנֶּ֙גַע֙ בַּבַּ֔יִת אַחֲרֵ֖י הִטֹּ֣חַ אֶת־ הַבָּ֑יִת וְטִהַ֤ר הַכֹּהֵן֙ אֶת־ הַבַּ֔יִת כִּ֥י נִרְפָּ֖א הַנָּֽגַע׃"
+pericope: "[[Lev.14.48 Cleansing a Home|Cleansing a Home]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 14
+book/chapter: "[[Lev.14|Leviticus 14]]"
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic PLASTER|PLASTER]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H2009]]"
+- "[[H3808]]"
+- "[[H6581]]"
+- "[[H5061]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H0310A]]"
+- "[[H2902A]]"
+- "[[H0853]]"
+- "[[H2891]]"
+- "[[H3588A]]"
+- "[[H7495]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 14:48**<big><big>[[Lev.14.48 Cleansing a Home|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if the priest shall come in, and look [upon it], and, behold, the plague hath not spread in the house, after the house was plaistered: then the priest shall pronounce the house clean, because the plague is healed.
 <small><sub>**BSB:**</sub></small>
 If, however, the priest comes and inspects it, and the mildew has not spread after the house has been replastered, he shall pronounce the house clean, because the mildew is gone.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H0935G\|בֹּ֨א]] [[H0935G\|יָבֹ֜א]] [[H9009\|הַ]][[H3548\|כֹּהֵ֗ן]] [[H9001\|וְ]][[H7200G\|רָאָה֙]] [[H9002\|וְ֠]][[H2009\|הִנֵּה]] [[H3808\|לֹא]][[H9014\|־]] [[H6581\|פָשָׂ֤ה]] [[H9009\|הַ]][[H5061\|נֶּ֙גַע֙]] [[H9003\|בַּ]][[H1004B\|בַּ֔יִת]] [[H0310A\|אַחֲרֵ֖י]] [[H2902A\|הִטֹּ֣חַ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בָּ֑יִת]] [[H9001\|וְ]][[H2891\|טִהַ֤ר]] [[H9009\|הַ]][[H3548\|כֹּהֵן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּ֔יִת]] [[H3588A\|כִּ֥י]] [[H7495\|נִרְפָּ֖א]] [[H9009\|הַ]][[H5061\|נָּֽגַע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic PLASTER|PLASTER]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.47|<< Leviticus 14:47]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.49|Leviticus 14:49 >>]]</td></tr></table>
 

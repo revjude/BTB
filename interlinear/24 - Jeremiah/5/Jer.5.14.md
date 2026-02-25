@@ -1,8 +1,76 @@
+---
+title: Jeremiah 5:14
+type: Verse
+kjv: "Wherefore thus saith the LORD God of hosts, Because ye speak this word, behold, I will make my words in thy mouth fire, and this people wood, and it shall devour them."
+bsb: "Therefore this is what the LORD God of Hosts says: “Because you have spoken this word, I will make My words a fire in your mouth and this people the wood it consumes."
+hebrew: "לָכֵ֗ן כֹּֽה־ אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י צְבָא֔וֹת יַ֚עַן דַּבֶּרְכֶ֔ם אֶת־ הַדָּבָ֖ר הַזֶּ֑ה הִנְנִ֣י נֹתֵן֩ דְּבָרַ֨י בְּפִ֜יךָ לְאֵ֗שׁ וְהָעָ֥ם הַזֶּ֛ה עֵצִ֖ים וַאֲכָלָֽתַם׃"
+pericope: "[[Jer.5.14 Judgment Proclaimed|Judgment Proclaimed]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 5
+book/chapter: "[[Jer.5|Jeremiah 5]]"
+chronological_order: 722
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H6635B]]"
+- "[[H3282]]"
+- "[[H1696G]]"
+- "[[H9046]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H2088]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H5414I]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H9021]]"
+- "[[H0784]]"
+- "[[H9002]]"
+- "[[H5971A]]"
+- "[[H6086G]]"
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 5:14**<big><big>[[Jer.5.14 Judgment Proclaimed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore thus saith the LORD God of hosts, Because ye speak this word, behold, I will make my words in thy mouth fire, and this people wood, and it shall devour them.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the LORD God of Hosts says: “Because you have spoken this word, I will make My words a fire in your mouth and this people the wood it consumes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֤ר]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H6635B\|צְבָא֔וֹת]] [[H3282\|יַ֚עַן]] [[H1696G\|דַּבֶּרְ]][[H9046\|כֶ֔ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דָּבָ֖ר]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H2005\|הִנְ]][[H9040\|נִ֣י]] [[H5414I\|נֹתֵן֩]] [[H1697G\|דְּבָרַ֨]][[H9020\|י]] [[H9003\|בְּ]][[H6310G\|פִ֜י]][[H9021\|ךָ]] [[H9005\|לְ]][[H0784\|אֵ֗שׁ]] [[H9002\|וְ]][[H9009\|הָ]][[H5971A\|עָ֥ם]] [[H9009\|הַ]][[H2088\|זֶּ֛ה]] [[H6086G\|עֵצִ֖ים]] [[H9001\|וַ]][[H0398\|אֲכָלָֽתַ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INFIDELITY|INFIDELITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic UNBELIEF|UNBELIEF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.13|<< Jeremiah 5:13]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.15|Jeremiah 5:15 >>]]</td></tr></table>
 

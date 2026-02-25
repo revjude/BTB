@@ -1,8 +1,51 @@
+---
+title: Proverbs 21:28
+type: Verse
+kjv: "A false witness shall perish: but the man that heareth speaketh constantly."
+bsb: "A lying witness will perish, but the man who listens to truth will speak forever."
+hebrew: "עֵד־ כְּזָבִ֥ים יֹאבֵ֑ד וְאִ֥ישׁ שׁ֝וֹמֵ֗עַ לָנֶ֥צַח יְדַבֵּֽר׃"
+pericope: "[[Prov.21.1 The King’s Heart|The King’s Heart]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 21
+book/chapter: "[[Prov.21|Proverbs 21]]"
+chronological_order: 476
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+strongs:
+- "[[H5707]]"
+- "[[H9014]]"
+- "[[H3577]]"
+- "[[H0006]]"
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H8085G]]"
+- "[[H9005]]"
+- "[[H5331]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 21:28**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A false witness shall perish: but the man that heareth speaketh constantly.
 <small><sub>**BSB:**</sub></small>
 A lying witness will perish, but the man who listens to truth will speak forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H5707\|עֵד]][[H9014\|־]] [[H3577\|כְּזָבִ֥ים]] [[H0006\|יֹאבֵ֑ד]] [[H9002\|וְ]][[H0376G\|אִ֥ישׁ]] [[H8085G\|שׁ֝וֹמֵ֗עַ]] [[H9005\|לָ]][[H5331\|נֶ֥צַח]] [[H1696G\|יְדַבֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSE TEACHERS|FALSE TEACHERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.27|<< Proverbs 21:27]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.29|Proverbs 21:29 >>]]</td></tr></table>
 

@@ -1,10 +1,55 @@
+---
+title: Hebrews 13:23
+type: Verse
+kjv: "Know ye that our brother Timothy is set at liberty; with whom, if he come shortly, I will see you."
+bsb: "Be aware that our brother Timothy has been released. If he arrives soon, I will come with him to see you."
+greek: "Γινώσκετε τὸν ἀδελφὸν ἡμῶν Τιμόθεον ἀπολελυμένον μεθ᾽ οὗ, ἐὰν τάχιον ἔρχηται, ὄψομαι ὑμᾶς.¶"
+pericope: "[[Heb.13.20 Benediction and Farewell|Benediction and Farewell]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 13
+book/chapter: "[[Heb.13|Hebrews 13]]"
+chronological_order: 1152
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic TIMOTHY|TIMOTHY]]"
+strongs:
+- "[[G1097]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G3165]]"
+- "[[G5095]]"
+- "[[G0630G]]"
+- "[[G3326]]"
+- "[[G3739]]"
+- "[[G1437]]"
+- "[[G5032]]"
+- "[[G2064]]"
+- "[[G3708]]"
+- "[[G4771]]"
+texts:
+- NKO
+- no
+---
+
 **Hebrews 13:23**<big><big>[[Heb.13.20 Benediction and Farewell|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Know ye that [our] brother Timothy is set at liberty; with whom, if he come shortly, I will see you.
 <small><sub>**BSB:**</sub></small>
 Be aware that our brother Timothy has been released. If he arrives soon, I will come with him to see you.
-<small><sub>**Literal:**</sub></small>
-You know the brother of us Timothy released with whom if quicker he shall come, I will see you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.22|<< Hebrews 13:22]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.24|Hebrews 13:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1097\|Γινώσκετε]]  [[G3588\|τὸν]]  [[G0080\|ἀδελφὸν]]  [[G3165\|ἡμῶν]]  [[G5095\|Τιμόθεον]]  [[G0630G\|ἀπολελυμένον]]  [[G3326\|μεθ᾽]]  [[G3739\|οὗ,]]  [[G1437\|ἐὰν]]  [[G5032\|τάχιον]]  [[G2064\|ἔρχηται,]]  [[G3708\|ὄψομαι]]  [[G4771\|ὑμᾶς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSECUTION|PERSECUTION]] • [[topic TIMOTHY|TIMOTHY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.22|<< Hebrews 13:22]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.24|Hebrews 13:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

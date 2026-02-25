@@ -1,9 +1,68 @@
+---
+title: LXX Micah 4:1
+type: Verse
+lxx: "And at the last of the days the mountain of the lord will be apparent, readied upon the tops of the mountains, and it shall rise up high above the hills; and peoples shall hasten to it."
+greek: "και έσται επ΄ εσχατων των ημερών εμφανές το όρος κυρίου έτοιμον επί την κορυφήν των ορέων και μετεωρισθήσεται υπεράνω των βουνών και σπεύσουσι προς αυτό λαοί"
+original_language: Greek
+testament: Old
+book: Micah
+chapter: 4
+book/chapter: "[[Mic.4|Micah 4]]"
+chronological_order: 626
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G1909]]"
+- "[[G2078]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1717]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G2962]]"
+- "[[G2092]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G8073]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G2532]]"
+- "[[G3349]]"
+- "[[G5231]]"
+- "[[G3588]]"
+- "[[G1015]]"
+- "[[G2532]]"
+- "[[G4692]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G2992]]"
+---
+
 **LXX Micah 4:1** 
 
 ***The Last of the Days***
 
 <small><sub>**LXX:**</sub></small>
 And at \[the\] last of the days the mountain \[of the\] <span class="smallcaps">lord</span> will be apparent, readied upon the tops of the mountains, and it shall rise up high above the hills; and peoples shall hasten to it. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1510\|έσται]] [[G1909\|επ΄]] [[G2078\|εσχατων]] [[G3588\|των]] [[G2250\|ημερών]] [[G1717\|εμφανές]] [[G3588\|το]] [[G3735\|όρος]] [[G2962\|κυρίου]] [[G2092\|έτοιμον]] [[G1909\|επί]] [[G3588\|την]] [[G8073\|κορυφήν]] [[G3588\|των]] [[G3735\|ορέων]] [[G2532\|και]] [[G3349\|μετεωρισθήσεται]] [[G5231\|υπεράνω]] [[G3588\|των]] [[G1015\|βουνών]] [[G2532\|και]] [[G4692\|σπεύσουσι]] [[G4314\|προς]] [[G1473\|αυτό]] [[G2992\|λαοί]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Mic.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.3.12|<< Micah 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.2|Micah 4:2 >>]]</td></tr></table>
 
@@ -35,6 +94,6 @@ And at \[the\] last of the days the mountain \[of the\] <span class="smallcaps">
 | to | **<big>[[G4314\|προς]]</big>** |
 | it | **<big>[[G1473\|αυτό]]</big>** |
 | peoples | **<big>[[G2992\|λαοί]]</big>** |
-[[Mic.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.3.12|<< Micah 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.2|Micah 4:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.3.12|<< Micah 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.2|Micah 4:2 >>]]</td></tr></table>
 
 

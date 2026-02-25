@@ -1,8 +1,55 @@
+---
+title: Job 32:12
+type: Verse
+kjv: "Yea, I attended unto you, and, behold, there was none of you that convinced Job, or that answered his words:"
+bsb: "I paid you full attention. But no one proved Job wrong; not one of you rebutted his arguments."
+hebrew: "וְעָֽדֵיכֶ֗ם אֶתְבּ֫וֹנָ֥ן וְהִנֵּ֤ה אֵ֣ין לְאִיּ֣וֹב מוֹכִ֑יחַ עוֹנֶ֖ה אֲמָרָ֣יו מִכֶּֽם׃"
+pericope: "[[Job.32.1 Elihu Rebukes Job’s Friends|Elihu Rebukes Job’s Friends]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 32
+book/chapter: "[[Job.32|Job 32]]"
+chronological_order: 43
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H9036]]"
+- "[[H0995]]"
+- "[[H2009]]"
+- "[[H0369]]"
+- "[[H9005]]"
+- "[[H0347]]"
+- "[[H3198]]"
+- "[[H6030B]]"
+- "[[H0561]]"
+- "[[H9023]]"
+- "[[H4480A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 32:12**<big><big>[[Job.32.1 Elihu Rebukes Job’s Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, I attended unto you, and, behold, [there was] none of you that convinced Job, [or] that answered his words:
 <small><sub>**BSB:**</sub></small>
 I paid you full attention. But no one proved Job wrong; not one of you rebutted his arguments.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5704\|עָֽדֵי]][[H9036\|כֶ֗ם]] [[H0995\|אֶתְבּ֫וֹנָ֥ן]] [[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H0369\|אֵ֣ין]] [[H9005\|לְ]][[H0347\|אִיּ֣וֹב]] [[H3198\|מוֹכִ֑יחַ]] [[H6030B\|עוֹנֶ֖ה]] [[H0561\|אֲמָרָ֣י]][[H9023\|ו]] [[H4480A\|מִ]][[H9036\|כֶּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.32.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.32.11|<< Job 32:11]]</td><td align="center" style="border:none;">[[Job.32|Job 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.13|Job 32:13 >>]]</td></tr></table>
 

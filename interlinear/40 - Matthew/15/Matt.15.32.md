@@ -1,10 +1,72 @@
+---
+title: Matthew 15:32
+type: Verse
+kjv: "Then Jesus called his disciples unto him, and said, I have compassion on the multitude, because they continue with me now three days, and have nothing to eat: and I will not send them away fasting, lest they faint in the way."
+bsb: "Then Jesus called His disciples to Him and said, “I have compassion for this crowd, because they have already been with Me three days and have nothing to eat. I do not want to send them away hungry, or they may faint along the way.”"
+jesus_said: "I have compassion on the multitude, because they continue with me now three days, and have nothing to eat: and I will not send them away fasting, lest they faint in the way."
+greek: "Ὁ δὲ Ἰησοῦς προσκαλεσάμενος τοὺς μαθητὰς αὐτοῦ εἶπεν· σπλαγχνίζομαι ἐπὶ τὸν ὄχλον ὅτι ἤδη ἡμέραι τρεῖς προσμένουσίν μοι καὶ οὐκ ἔχουσιν τί φάγωσιν. καὶ ἀπολῦσαι αὐτοὺς νήστεις οὐ θέλω μήποτε μήποτε ἐκλυθῶσιν ἐν τῇ ὁδῷ."
+pericope: "[[Matt.15.29 The Feeding of the Four Thousand|The Feeding of the Four Thousand]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 15
+book/chapter: "[[Matt.15|Matthew 15]]"
+chronological_order: 965
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G4341]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G4697]]"
+- "[[G1909]]"
+- "[[G3793]]"
+- "[[G3754H]]"
+- "[[G2235]]"
+- "[[G2250]]"
+- "[[G5140]]"
+- "[[G4357]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2192]]"
+- "[[G5101]]"
+- "[[G5315]]"
+- "[[G0630G]]"
+- "[[G3523]]"
+- "[[G2309]]"
+- "[[G3361]]"
+- "[[G4218]]"
+- "[[G1590]]"
+- "[[G1722]]"
+- "[[G3598]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 15:32**<big><big>[[Matt.15.29 The Feeding of the Four Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Jesus called his disciples [unto him], and said, I have compassion on the multitude, because they continue with me now three days, and have nothing to eat: and I will not send them away fasting, lest they faint in the way.
 <small><sub>**BSB:**</sub></small>
 Then Jesus called His disciples to Him and said, “I have compassion for this crowd, because they have already been with Me three days and have nothing to eat. I do not want to send them away hungry, or they may faint along the way.”
-<small><sub>**Literal:**</sub></small>
-<the> And Jesus having called to [him] the disciples of Him said; I am moved with compassion toward the crowd because already days three they continue with Me and nothing they have that they may eat. and to send away them hungry not I am willing otherwise they may faint on the way.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.31|<< Matthew 15:31]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.33|Matthew 15:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G4341\|προσκαλεσάμενος]]  [[G3588\|τοὺς]]  [[G3101\|μαθητὰς]]  [[G0846\|αὐτοῦ]]  [[G2036\|εἶπεν·]]  [[G4697\|σπλαγχνίζομαι]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G3793\|ὄχλον]]  [[G3754H\|ὅτι]]  [[G2235\|ἤδη]]  [[G2250\|ἡμέραι]]  [[G5140\|τρεῖς]]  [[G4357\|προσμένουσίν]]  [[G3165\|μοι]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G2192\|ἔχουσιν]]  [[G5101\|τί]]  [[G5315\|φάγωσιν.]]  [[G2532\|καὶ]]  [[G0630G\|ἀπολῦσαι]]  [[G0846\|αὐτοὺς]]  [[G3523\|νήστεις]]  [[G3756\|οὐ]]  [[G2309\|θέλω]]  [[G3361\|μήποτε]]  <sup><small>[[G4218\| [ • ] ]]</small></sup>  [[G1590\|ἐκλυθῶσιν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3598\|ὁδῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.31|<< Matthew 15:31]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.33|Matthew 15:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

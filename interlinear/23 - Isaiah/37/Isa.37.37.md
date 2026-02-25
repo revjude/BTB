@@ -1,8 +1,56 @@
+---
+title: Isaiah 37:37
+type: Verse
+kjv: "So Sennacherib king of Assyria departed, and went and returned, and dwelt at Nineveh."
+bsb: "So Sennacherib king of Assyria broke camp and withdrew. He returned to Nineveh and stayed there."
+hebrew: "וַיִּסַּ֣ע וַיֵּ֔לֶךְ וַיָּ֖שָׁב סַנְחֵרִ֣יב מֶֽלֶךְ־ אַשּׁ֑וּר וַיֵּ֖שֶׁב בְּנִֽינְוֵֽה׃"
+pericope: "[[Isa.37.36 Jerusalem Delivered from the Assyrians|Jerusalem Delivered from the Assyrians]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 37
+book/chapter: "[[Isa.37|Isaiah 37]]"
+chronological_order: 664
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic NINEVEH|NINEVEH]]"
+- "[[topic NISROCH|NISROCH]]"
+- "[[topic REGICIDE|REGICIDE]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+strongs:
+- "[[H9001]]"
+- "[[H5265]]"
+- "[[H1980G]]"
+- "[[H7725G]]"
+- "[[H5576]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H0804G]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H5210]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 37:37**<big><big>[[Isa.37.36 Jerusalem Delivered from the Assyrians|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Sennacherib king of Assyria departed, and went and returned, and dwelt at Nineveh.
 <small><sub>**BSB:**</sub></small>
 So Sennacherib king of Assyria broke camp and withdrew. He returned to Nineveh and stayed there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5265\|יִּסַּ֣ע]] [[H9001\|וַ]][[H1980G\|יֵּ֔לֶךְ]] [[H9001\|וַ]][[H7725G\|יָּ֖שָׁב]] [[H5576\|סַנְחֵרִ֣יב]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0804G\|אַשּׁ֑וּר]] [[H9001\|וַ]][[H3427\|יֵּ֖שֶׁב]] [[H9003\|בְּ]][[H5210\|נִֽינְוֵֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NINEVEH|NINEVEH]] • [[topic NISROCH|NISROCH]] • [[topic REGICIDE|REGICIDE]] • [[topic SENNACHERIB|SENNACHERIB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.36|<< Isaiah 37:36]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.38|Isaiah 37:38 >>]]</td></tr></table>
 

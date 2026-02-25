@@ -1,8 +1,74 @@
+---
+title: 1 Samuel 25:28
+type: Verse
+kjv: "I pray thee, forgive the trespass of thine handmaid: for the LORD will certainly make my lord a sure house; because my lord fighteth the battles of the LORD, and evil hath not been found in thee all thy days."
+bsb: "Please forgive your servant’s offense, for the LORD will surely make a lasting dynasty for my lord, because he fights the LORD’s battles. May no evil be found in you as long as you live."
+hebrew: "שָׂ֥א נָ֖א לְפֶ֣שַׁע אֲמָתֶ֑ךָ כִּ֣י עָשֹֽׂה־ יַעֲשֶׂה֩ יְהוָ֨ה לַֽאדֹנִ֜י בַּ֣יִת נֶאֱמָ֗ן כִּי־ מִלְחֲמ֤וֹת יְהוָה֙ אֲדֹנִ֣י נִלְחָ֔ם וְרָעָ֛ה לֹא־ תִמָּצֵ֥א בְךָ֖ מִיָּמֶֽיךָ׃"
+pericope: "[[1Sam.25.18 Abigail Intercedes for Nabal|Abigail Intercedes for Nabal]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FIG|FIG]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NABAL|NABAL]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic OBSEQUIOUSNESS|OBSEQUIOUSNESS]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic TACT|TACT]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H5375I]]"
+- "[[H4994]]"
+- "[[H9005]]"
+- "[[H6588]]"
+- "[[H0519]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H6213H]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H1004M]]"
+- "[[H0539]]"
+- "[[H4421]]"
+- "[[H3898A]]"
+- "[[H9002]]"
+- "[[H7451I]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 25:28**<big><big>[[1Sam.25.18 Abigail Intercedes for Nabal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I pray thee, forgive the trespass of thine handmaid: for the LORD will certainly make my lord a sure house; because my lord fighteth the battles of the LORD, and evil hath not been found in thee [all] thy days.
 <small><sub>**BSB:**</sub></small>
 Please forgive your servant’s offense, for the LORD will surely make a lasting dynasty for my lord, because he fights the LORD’s battles. May no evil be found in you as long as you live.
+<small><sub>**Hebrew:**</sub></small>
+[[H5375I\|שָׂ֥א]] [[H4994\|נָ֖א]] [[H9005\|לְ]][[H6588\|פֶ֣שַׁע]] [[H0519\|אֲמָתֶ֑]][[H9021\|ךָ]] [[H3588A\|כִּ֣י]] [[H6213H\|עָשֹֽׂה]][[H9014\|־]] [[H6213H\|יַעֲשֶׂה֩]] [[H3068G\|יְהוָ֨ה]] [[H9005\|לַֽ]][[H0113\|אדֹנִ֜]][[H9020\|י]] [[H1004M\|בַּ֣יִת]] [[H0539\|נֶאֱמָ֗ן]] [[H3588A\|כִּי]][[H9014\|־]] [[H4421\|מִלְחֲמ֤וֹת]] [[H3068G\|יְהוָה֙]] [[H0113\|אֲדֹנִ֣]][[H9020\|י]] [[H3898A\|נִלְחָ֔ם]] [[H9002\|וְ]][[H7451I\|רָעָ֛ה]] [[H3808\|לֹא]][[H9014\|־]] [[H4672\|תִמָּצֵ֥א]] [[H9003\|בְ]][[H9031\|ךָ֖]] [[H9006\|מִ]][[H3117G\|יָּמֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FIG|FIG]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NABAL|NABAL]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic OBSEQUIOUSNESS|OBSEQUIOUSNESS]] • [[topic PRUDENCE|PRUDENCE]] • [[topic TACT|TACT]] • [[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.27|<< 1 Samuel 25:27]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.29|1 Samuel 25:29 >>]]</td></tr></table>
 

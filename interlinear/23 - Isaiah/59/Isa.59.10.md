@@ -1,8 +1,57 @@
+---
+title: Isaiah 59:10
+type: Verse
+kjv: "We grope for the wall like the blind, and we grope as if we had no eyes: we stumble at noonday as in the night; we are in desolate places as dead men."
+bsb: "Like the blind, we feel our way along the wall, groping like those without eyes. We stumble at midday as in the twilight; among the vigorous we are like the dead."
+hebrew: "נְגַֽשְׁשָׁ֤ה כַֽעִוְרִים֙ קִ֔יר וּכְאֵ֥ין עֵינַ֖יִם נְגַשֵּׁ֑שָׁה כָּשַׁ֤לְנוּ בַֽצָּהֳרַ֙יִם֙ כַּנֶּ֔שֶׁף בָּאַשְׁמַנִּ֖ים כַּמֵּתִֽים׃"
+pericope: "[[Isa.59.1 Sin Separates Us from God|Sin Separates Us from God]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 59
+book/chapter: "[[Isa.59|Isaiah 59]]"
+chronological_order: 698
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H1659]]"
+- "[[H9004]]"
+- "[[H5787]]"
+- "[[H7023]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H5869A]]"
+- "[[H3782]]"
+- "[[H9003]]"
+- "[[H6672A]]"
+- "[[H5399]]"
+- "[[H0820]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 59:10**<big><big>[[Isa.59.1 Sin Separates Us from God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We grope for the wall like the blind, and we grope as if [we had] no eyes: we stumble at noonday as in the night; [we are] in desolate places as dead [men].
 <small><sub>**BSB:**</sub></small>
 Like the blind, we feel our way along the wall, groping like those without eyes. We stumble at midday as in the twilight; among the vigorous we are like the dead.
+<small><sub>**Hebrew:**</sub></small>
+[[H1659\|נְגַֽשְׁשָׁ֤ה]] [[H9004\|כַֽ]][[H5787\|עִוְרִים֙]] [[H7023\|קִ֔יר]] [[H9002\|וּ]][[H9004\|כְ]][[H0369\|אֵ֥ין]] [[H5869A\|עֵינַ֖יִם]] [[H1659\|נְגַשֵּׁ֑שָׁה]] [[H3782\|כָּשַׁ֤לְנוּ]] [[H9003\|בַֽ]][[H6672A\|צָּהֳרַ֙יִם֙]] [[H9004\|כַּ]][[H5399\|נֶּ֔שֶׁף]] [[H9003\|בָּ]][[H0820\|אַשְׁמַנִּ֖ים]] [[H9004\|כַּ]][[H4191\|מֵּתִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic ISAIAH|ISAIAH]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.9|<< Isaiah 59:9]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.11|Isaiah 59:11 >>]]</td></tr></table>
 

@@ -1,8 +1,59 @@
+---
+title: Jeremiah 22:8
+type: Verse
+kjv: "And many nations shall pass by this city, and they shall say every man to his neighbour, Wherefore hath the LORD done thus unto this great city?"
+bsb: "And many nations will pass by this city and ask one another, ‘Why has the LORD done such a thing to this great city?’"
+hebrew: "וְעָֽבְרוּ֙ גּוֹיִ֣ם רַבִּ֔ים עַ֖ל הָעִ֣יר הַזֹּ֑את וְאָֽמְרוּ֙ אִ֣ישׁ אֶל־ רֵעֵ֔הוּ עַל־ מֶ֨ה עָשָׂ֤ה יְהוָה֙ כָּ֔כָה לָעִ֥יר הַגְּדוֹלָ֖ה הַזֹּֽאת׃"
+pericope: "[[Jer.22.6 A Warning about the Palace|A Warning about the Palace]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 22
+book/chapter: "[[Jer.22|Jeremiah 22]]"
+chronological_order: 745
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H1471A]]"
+- "[[H7227A]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H0559]]"
+- "[[H0376I]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H3068G]]"
+- "[[H3602]]"
+- "[[H9005]]"
+- "[[H1419A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 22:8**<big><big>[[Jer.22.6 A Warning about the Palace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And many nations shall pass by this city, and they shall say every man to his neighbour, Wherefore hath the LORD done thus unto this great city?
 <small><sub>**BSB:**</sub></small>
 And many nations will pass by this city and ask one another, ‘Why has the LORD done such a thing to this great city?’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5674A\|עָֽבְרוּ֙]] [[H1471A\|גּוֹיִ֣ם]] [[H7227A\|רַבִּ֔ים]] [[H5921A\|עַ֖ל]] [[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H9001\|וְ]][[H0559\|אָֽמְרוּ֙]] [[H0376I\|אִ֣ישׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H7453\|רֵעֵ֔]][[H9023\|הוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H4100\|מֶ֨ה]] [[H6213A\|עָשָׂ֤ה]] [[H3068G\|יְהוָה֙]] [[H3602\|כָּ֔כָה]] [[H9005\|לָ]][[H5892B\|עִ֥יר]] [[H9009\|הַ]][[H1419A\|גְּדוֹלָ֖ה]] [[H9009\|הַ]][[H2063\|זֹּֽאת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.22.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.7|<< Jeremiah 22:7]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.9|Jeremiah 22:9 >>]]</td></tr></table>
 

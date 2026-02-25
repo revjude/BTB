@@ -1,10 +1,57 @@
+---
+title: Luke 24:42
+type: Verse
+kjv: "And they gave him a piece of a broiled fish, and of an honeycomb."
+bsb: "So they gave Him a piece of broiled fish,"
+greek: "οἱ δὲ ἐπέδωκαν αὐτῷ ἰχθύος ὀπτοῦ μέρος καὶ ἀπὸ μελισσίου κηρίου."
+pericope: "[[Luke.24.36 Jesus Appears to the Disciples|Jesus Appears to the Disciples]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FISH|FISH]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic HONEY|HONEY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1929]]"
+- "[[G0846]]"
+- "[[G2486]]"
+- "[[G3702]]"
+- "[[G3313]]"
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G3193]]"
+- "[[G2781]]"
+texts:
+- NKO
+- KO
+---
+
 **Luke 24:42**<big><big>[[Luke.24.36 Jesus Appears to the Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they gave him a piece of a broiled fish, and of an honeycomb.
 <small><sub>**BSB:**</sub></small>
 So they gave Him a piece of broiled fish,
-<small><sub>**Literal:**</sub></small>
-<the> And they gave to Him of a fish broiled part and from honeycomb tablet.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.41|<< Luke 24:41]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.43|Luke 24:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G1929\|ἐπέδωκαν]]  [[G0846\|αὐτῷ]]  [[G2486\|ἰχθύος]]  [[G3702\|ὀπτοῦ]]  [[G3313\|μέρος]]  [[G2532\|καὶ]]  [[G0575\|ἀπὸ]]  [[G3193\|μελισσίου]]  [[G2781\|κηρίου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FISH|FISH]] • [[topic FOOD|FOOD]] • [[topic HONEY|HONEY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.41|<< Luke 24:41]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.43|Luke 24:43 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

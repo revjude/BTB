@@ -1,8 +1,58 @@
+---
+title: Ruth 3:18
+type: Verse
+kjv: "Then said she, Sit still, my daughter, until thou know how the matter will fall: for the man will not be in rest, until he have finished the thing this day."
+bsb: "“Wait, my daughter,” said Naomi, “until you find out how things go, for he will not rest unless he has resolved the matter today.”"
+hebrew: "וַתֹּ֙אמֶר֙ שְׁבִ֣י בִתִּ֔י עַ֚ד אֲשֶׁ֣ר תֵּֽדְעִ֔ין אֵ֖יךְ יִפֹּ֣ל דָּבָ֑ר כִּ֣י לֹ֤א יִשְׁקֹט֙ הָאִ֔ישׁ כִּֽי־ אִם־ כִּלָּ֥ה הַדָּבָ֖ר הַיּֽוֹם׃"
+pericope: "[[Ruth.3.1 Ruth’s Redemption Assured|Ruth’s Redemption Assured]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 3
+book/chapter: "[[Ruth.3|Ruth 3]]"
+chronological_order: 278
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3427]]"
+- "[[H1323G]]"
+- "[[H9020]]"
+- "[[H5704]]"
+- "[[H0834A]]"
+- "[[H3045]]"
+- "[[H9013]]"
+- "[[H0349A]]"
+- "[[H5307G]]"
+- "[[H1697I]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H8252]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H9014]]"
+- "[[H0518B]]"
+- "[[H3615G]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 3:18**<big><big>[[Ruth.3.1 Ruth’s Redemption Assured|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said she, Sit still, my daughter, until thou know how the matter will fall: for the man will not be in rest, until he have finished the thing this day.
 <small><sub>**BSB:**</sub></small>
 “Wait, my daughter,” said Naomi, “until you find out how things go, for he will not rest unless he has resolved the matter today.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֙אמֶר֙]] [[H3427\|שְׁבִ֣י]] [[H1323G\|בִתִּ֔]][[H9020\|י]] [[H5704\|עַ֚ד]] [[H0834A\|אֲשֶׁ֣ר]] [[H3045\|תֵּֽדְעִ֔י]][[H9013\|ן]] [[H0349A\|אֵ֖יךְ]] [[H5307G\|יִפֹּ֣ל]] [[H1697I\|דָּבָ֑ר]] [[H3588A\|כִּ֣י]] [[H3808\|לֹ֤א]] [[H8252\|יִשְׁקֹט֙]] [[H9009\|הָ]][[H0376G\|אִ֔ישׁ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0518B\|אִם]][[H9014\|־]] [[H3615G\|כִּלָּ֥ה]] [[H9009\|הַ]][[H1697I\|דָּבָ֖ר]] [[H9009\|הַ]][[H3117G\|יּֽוֹם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.3.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.3.17|<< Ruth 3:17]]</td><td align="center" style="border:none;">[[Ruth.3|Ruth 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.1|Ruth 4:1 >>]]</td></tr></table>
 

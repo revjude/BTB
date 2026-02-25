@@ -1,8 +1,67 @@
+---
+title: Jeremiah 14:7
+type: Verse
+kjv: "O LORD, though our iniquities testify against us, do thou it for thy name’s sake: for our backslidings are many; we have sinned against thee."
+bsb: "Although our iniquities testify against us, O LORD, act for the sake of Your name. Indeed, our rebellions are many; we have sinned against You."
+hebrew: "אִם־ עֲוֹנֵ֙ינוּ֙ עָ֣נוּ בָ֔נוּ יְהוָ֕ה עֲשֵׂ֖ה לְמַ֣עַן שְׁמֶ֑ךָ כִּֽי־ רַבּ֥וּ מְשׁוּבֹתֵ֖ינוּ לְךָ֥ חָטָֽאנוּ׃"
+pericope: "[[Jer.14.1 Drought, Famine, Sword, and Plague|Drought, Famine, Sword, and Plague]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 14
+book/chapter: "[[Jer.14|Jeremiah 14]]"
+chronological_order: 731
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H5771G]]"
+- "[[H9025]]"
+- "[[H6030B]]"
+- "[[H9003]]"
+- "[[H9035]]"
+- "[[H3068G]]"
+- "[[H6213A]]"
+- "[[H4616]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H7231]]"
+- "[[H4878]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H2398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 14:7**<big><big>[[Jer.14.1 Drought, Famine, Sword, and Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, though our iniquities testify against us, do thou [it] for thy name’s sake: for our backslidings are many; we have sinned against thee.
 <small><sub>**BSB:**</sub></small>
 Although our iniquities testify against us, O LORD, act for the sake of Your name. Indeed, our rebellions are many; we have sinned against You.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H5771G\|עֲוֹנֵ֙י]][[H9025\|נוּ֙]] [[H6030B\|עָ֣נוּ]] [[H9003\|בָ֔]][[H9035\|נוּ]] [[H3068G\|יְהוָ֕ה]] [[H6213A\|עֲשֵׂ֖ה]] [[H4616\|לְמַ֣עַן]] [[H8034\|שְׁמֶ֑]][[H9021\|ךָ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7231\|רַבּ֥וּ]] [[H4878\|מְשׁוּבֹתֵ֖י]][[H9025\|נוּ]] [[H9005\|לְ]][[H9031\|ךָ֥]] [[H2398\|חָטָֽאנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.14.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.14.6|<< Jeremiah 14:6]]</td><td align="center" style="border:none;">[[Jer.14|Jeremiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.8|Jeremiah 14:8 >>]]</td></tr></table>
 

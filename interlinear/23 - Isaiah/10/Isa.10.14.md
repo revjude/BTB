@@ -1,8 +1,71 @@
+---
+title: Isaiah 10:14
+type: Verse
+kjv: "And my hand hath found as a nest the riches of the people: and as one gathereth eggs that are left, have I gathered all the earth; and there was none that moved the wing, or opened the mouth, or peeped."
+bsb: "My hand reached as into a nest to seize the wealth of the nations. Like one gathering abandoned eggs, I gathered all the earth. No wing fluttered, no beak opened or chirped.’”"
+hebrew: "וַתִּמְצָ֨א כַקֵּ֤ן׀ יָדִי֙ לְחֵ֣יל הָֽעַמִּ֔ים וְכֶאֱסֹף֙ בֵּיצִ֣ים עֲזֻב֔וֹת כָּל־ הָאָ֖רֶץ אֲנִ֣י אָסָ֑פְתִּי וְלֹ֤א הָיָה֙ נֹדֵ֣ד כָּנָ֔ף וּפֹצֶ֥ה פֶ֖ה וּמְצַפְצֵֽף׃"
+pericope: "[[Isa.10.5 Judgment on Assyria|Judgment on Assyria]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 10
+book/chapter: "[[Isa.10|Isaiah 10]]"
+chronological_order: 620
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H9001]]"
+- "[[H4672]]"
+- "[[H9004]]"
+- "[[H7064]]"
+- "[[H9015]]"
+- "[[H3027G]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H2428H]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9002]]"
+- "[[H0622]]"
+- "[[H1000]]"
+- "[[H5800A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H0589]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H5074]]"
+- "[[H3671]]"
+- "[[H6475]]"
+- "[[H6310G]]"
+- "[[H6850]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 10:14**<big><big>[[Isa.10.5 Judgment on Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And my hand hath found as a nest the riches of the people: and as one gathereth eggs [that are] left, have I gathered all the earth; and there was none that moved the wing, or opened the mouth, or peeped.
 <small><sub>**BSB:**</sub></small>
 My hand reached as into a nest to seize the wealth of the nations. Like one gathering abandoned eggs, I gathered all the earth. No wing fluttered, no beak opened or chirped.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4672\|תִּמְצָ֨א]] [[H9004\|כַ]][[H7064\|קֵּ֤ן]][[H9015\|׀]] [[H3027G\|יָדִ]][[H9020\|י֙]] [[H9005\|לְ]][[H2428H\|חֵ֣יל]] [[H9009\|הָֽ]][[H5971A\|עַמִּ֔ים]] [[H9002\|וְ]][[H9004\|כֶ]][[H0622\|אֱסֹף֙]] [[H1000\|בֵּיצִ֣ים]] [[H5800A\|עֲזֻב֔וֹת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H0589\|אֲנִ֣י]] [[H0622\|אָסָ֑פְתִּי]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H1961\|הָיָה֙]] [[H5074\|נֹדֵ֣ד]] [[H3671\|כָּנָ֔ף]] [[H9002\|וּ]][[H6475\|פֹצֶ֥ה]] [[H6310G\|פֶ֖ה]] [[H9002\|וּ]][[H6850\|מְצַפְצֵֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BOASTING|BOASTING]] • [[topic ISAIAH|ISAIAH]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.13|<< Isaiah 10:13]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.15|Isaiah 10:15 >>]]</td></tr></table>
 

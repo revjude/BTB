@@ -1,8 +1,60 @@
+---
+title: Jeremiah 29:6
+type: Verse
+kjv: "Take ye wives, and beget sons and daughters; and take wives for your sons, and give your daughters to husbands, that they may bear sons and daughters; that ye may be increased there, and not diminished."
+bsb: "Take wives and have sons and daughters. Take wives for your sons and give your daughters in marriage, so that they too may have sons and daughters. Multiply there; do not decrease."
+hebrew: "קְח֣וּ נָשִׁ֗ים וְהוֹלִידוּ֮ בָּנִ֣ים וּבָנוֹת֒ וּקְח֨וּ לִבְנֵיכֶ֜ם נָשִׁ֗ים וְאֶת־ בְּנֽוֹתֵיכֶם֙ תְּנ֣וּ לַֽאֲנָשִׁ֔ים וְתֵלַ֖דְנָה בָּנִ֣ים וּבָנ֑וֹת וּרְבוּ־ שָׁ֖ם וְאַל־ תִּמְעָֽטוּ׃"
+pericope: "[[Jer.29.1 Jeremiah’s Letter to the Exiles|Jeremiah’s Letter to the Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 29
+book/chapter: "[[Jer.29|Jeremiah 29]]"
+chronological_order: 752
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+strongs:
+- "[[H3947G]]"
+- "[[H0802H]]"
+- "[[H9002]]"
+- "[[H3205]]"
+- "[[H1121A]]"
+- "[[H1323G]]"
+- "[[H9005]]"
+- "[[H9026]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5414O]]"
+- "[[H0582]]"
+- "[[H7235A]]"
+- "[[H8033G]]"
+- "[[H0408]]"
+- "[[H4591]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 29:6**<big><big>[[Jer.29.1 Jeremiah’s Letter to the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take ye wives, and beget sons and daughters; and take wives for your sons, and give your daughters to husbands, that they may bear sons and daughters; that ye may be increased there, and not diminished.
 <small><sub>**BSB:**</sub></small>
 Take wives and have sons and daughters. Take wives for your sons and give your daughters in marriage, so that they too may have sons and daughters. Multiply there; do not decrease.
+<small><sub>**Hebrew:**</sub></small>
+[[H3947G\|קְח֣וּ]] [[H0802H\|נָשִׁ֗ים]] [[H9002\|וְ]][[H3205\|הוֹלִידוּ֮]] [[H1121A\|בָּנִ֣ים]] [[H9002\|וּ]][[H1323G\|בָנוֹת֒]] [[H9002\|וּ]][[H3947G\|קְח֨וּ]] [[H9005\|לִ]][[H1121A\|בְנֵי]][[H9026\|כֶ֜ם]] [[H0802H\|נָשִׁ֗ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1323G\|בְּנֽוֹתֵי]][[H9026\|כֶם֙]] [[H5414O\|תְּנ֣וּ]] [[H9005\|לַֽ]][[H0582\|אֲנָשִׁ֔ים]] [[H9002\|וְ]][[H3205\|תֵלַ֖דְנָה]] [[H1121A\|בָּנִ֣ים]] [[H9002\|וּ]][[H1323G\|בָנ֑וֹת]] [[H9002\|וּ]][[H7235A\|רְבוּ]][[H9014\|־]] [[H8033G\|שָׁ֖ם]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H4591\|תִּמְעָֽטוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MARRIAGE|MARRIAGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.5|<< Jeremiah 29:5]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.7|Jeremiah 29:7 >>]]</td></tr></table>
 

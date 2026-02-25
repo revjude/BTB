@@ -11,5 +11,5 @@
 
 → FORMER SEA [[Zech.14.8|Zec 14:8]]
 
-→ Prophecy concerning [[Ezek.47.7|Eze 47:7]]-[[Ezek.47.10|10]],[[Ezek.47.18|18]]
+→ Prophecy concerning [[Ezek.47.7|Eze 47:7-10]],[[Ezek.47.18|18]]
 

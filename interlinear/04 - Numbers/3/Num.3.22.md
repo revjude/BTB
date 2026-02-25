@@ -1,8 +1,64 @@
+---
+title: Numbers 3:22
+type: Verse
+kjv: "Those that were numbered of them, according to the number of all the males, from a month old and upward, even those that were numbered of them were seven thousand and five hundred."
+bsb: "The number of all the males a month old or more was 7,500."
+hebrew: "פְּקֻדֵיהֶם֙ בְּמִסְפַּ֣ר כָּל־ זָכָ֔ר מִבֶּן־ חֹ֖דֶשׁ וָמָ֑עְלָה פְּקֻ֣דֵיהֶ֔ם שִׁבְעַ֥ת אֲלָפִ֖ים וַחֲמֵ֥שׁ מֵאֽוֹת׃"
+pericope: "[[Num.3.21 The Gershonites|The Gershonites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic GERSHON|GERSHON]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H6485A]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H4557]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2145]]"
+- "[[H9006]]"
+- "[[H1121L]]"
+- "[[H2320G]]"
+- "[[H9002]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H7651]]"
+- "[[H0505G]]"
+- "[[H2568]]"
+- "[[H3967]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 3:22**<big><big>[[Num.3.21 The Gershonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Those that were numbered of them, according to the number of all the males, from a month old and upward, [even] those that were numbered of them [were] seven thousand and five hundred.
 <small><sub>**BSB:**</sub></small>
 The number of all the males a month old or more was 7,500.
+<small><sub>**Hebrew:**</sub></small>
+[[H6485A\|פְּקֻדֵי]][[H9028\|הֶם֙]] [[H9003\|בְּ]][[H4557\|מִסְפַּ֣ר]] [[H3605\|כָּל]][[H9014\|־]] [[H2145\|זָכָ֔ר]] [[H9006\|מִ]][[H1121L\|בֶּן]][[H9014\|־]] [[H2320G\|חֹ֖דֶשׁ]] [[H9002\|וָ]][[H4605\|מָ֑עְלָ]][[H9011\|ה]] [[H6485A\|פְּקֻ֣דֵי]][[H9028\|הֶ֔ם]] [[H7651\|שִׁבְעַ֥ת]] [[H0505G\|אֲלָפִ֖ים]] [[H9002\|וַ]][[H2568\|חֲמֵ֥שׁ]] [[H3967\|מֵאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CENSUS|CENSUS]] • [[topic GERSHON|GERSHON]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.21|<< Numbers 3:21]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.23|Numbers 3:23 >>]]</td></tr></table>
 

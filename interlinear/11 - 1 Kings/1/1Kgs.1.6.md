@@ -1,8 +1,70 @@
+---
+title: 1 Kings 1:6
+type: Verse
+kjv: "And his father had not displeased him at any time in saying, Why hast thou done so? and he also was a very goodly man; and his mother bare him after Absalom."
+bsb: "(His father had never once reprimanded him by saying, “Why do you act this way?” Adonijah was also very handsome, born next after Absalom.)"
+hebrew: "וְלֹֽא־ עֲצָב֨וֹ אָבִ֤יו מִיָּמָיו֙ לֵאמֹ֔ר מַדּ֖וּעַ כָּ֣כָה עָשִׂ֑יתָ וְגַם־ ה֤וּא טֽוֹב־ תֹּ֙אַר֙ מְאֹ֔ד וְאֹת֥וֹ יָלְדָ֖ה אַחֲרֵ֥י אַבְשָׁלֽוֹם׃"
+pericope: "[[1Kgs.1.5 Adonijah Usurps the Kingdom|Adonijah Usurps the Kingdom]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ADONIJAH|ADONIJAH]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6087A]]"
+- "[[H9033]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H4069]]"
+- "[[H3602]]"
+- "[[H6213A]]"
+- "[[H1571]]"
+- "[[H1931]]"
+- "[[H2896A]]"
+- "[[H8389]]"
+- "[[H3966]]"
+- "[[H0853]]"
+- "[[H3205]]"
+- "[[H0310A]]"
+- "[[H0053]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:6**<big><big>[[1Kgs.1.5 Adonijah Usurps the Kingdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his father had not displeased him at any time in saying, Why hast thou done so? and he also [was a] very goodly [man]; and [his mother] bare him after Absalom.
 <small><sub>**BSB:**</sub></small>
 (His father had never once reprimanded him by saying, “Why do you act this way?” Adonijah was also very handsome, born next after Absalom.)
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H6087A\|עֲצָב֨]][[H9033\|וֹ]] [[H0001G\|אָבִ֤י]][[H9023\|ו]] [[H9006\|מִ]][[H3117G\|יָּמָי]][[H9023\|ו֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H4069\|מַדּ֖וּעַ]] [[H3602\|כָּ֣כָה]] [[H6213A\|עָשִׂ֑יתָ]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H1931\|ה֤וּא]] [[H2896A\|טֽוֹב]][[H9014\|־]] [[H8389\|תֹּ֙אַר֙]] [[H3966\|מְאֹ֔ד]] [[H9002\|וְ]][[H0853\|אֹת֥]][[H9033\|וֹ]] [[H3205\|יָלְדָ֖ה]] [[H0310A\|אַחֲרֵ֥י]] [[H0053\|אַבְשָׁלֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADONIJAH|ADONIJAH]] • [[topic CITIZENS|CITIZENS]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic PARENTS|PARENTS]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.5|<< 1 Kings 1:5]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.7|1 Kings 1:7 >>]]</td></tr></table>
 

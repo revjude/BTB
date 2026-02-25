@@ -1,8 +1,65 @@
+---
+title: Joshua 7:2
+type: Verse
+kjv: "And Joshua sent men from Jericho to Ai, which is beside Bethaven, on the east side of Bethel, and spake unto them, saying, Go up and view the country. And the men went up and viewed Ai."
+bsb: "Meanwhile, Joshua sent men from Jericho to Ai, which is near Beth-aven to the east of Bethel, and told them, “Go up and spy out the land.” So the men went up and spied out Ai."
+hebrew: "וַיִּשְׁלַח֩ יְהוֹשֻׁ֨עַ אֲנָשִׁ֜ים מִֽירִיח֗וֹ הָעַ֞י אֲשֶׁ֨ר עִם־ בֵּ֥ית אָ֙וֶן֙ מִקֶּ֣דֶם לְבֵֽית־ אֵ֔ל וַיֹּ֤אמֶר אֲלֵיהֶם֙ לֵאמֹ֔ר עֲל֖וּ וְרַגְּל֣וּ אֶת־ הָאָ֑רֶץ וַֽיַּעֲלוּ֙ הָאֲנָשִׁ֔ים וַֽיְרַגְּל֖וּ אֶת־ הָעָֽי׃"
+pericope: "[[Josh.7.1 The Defeat at Ai|The Defeat at Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 7
+book/chapter: "[[Josh.7|Joshua 7]]"
+chronological_order: 237
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BETH-AVEN|BETH-AVEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H3091G]]"
+- "[[H0582]]"
+- "[[H9006]]"
+- "[[H3405G]]"
+- "[[H9009]]"
+- "[[H5857G]]"
+- "[[H0834A]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H1007]]"
+- "[[H6924G]]"
+- "[[H9005]]"
+- "[[H1008G]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H5927G]]"
+- "[[H9002]]"
+- "[[H7270]]"
+- "[[H0853]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 7:2**<big><big>[[Josh.7.1 The Defeat at Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua sent men from Jericho to Ai, which [is] beside Bethaven, on the east side of Bethel, and spake unto them, saying, Go up and view the country. And the men went up and viewed Ai.
 <small><sub>**BSB:**</sub></small>
 Meanwhile, Joshua sent men from Jericho to Ai, which is near Beth-aven to the east of Bethel, and told them, “Go up and spy out the land.” So the men went up and spied out Ai.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַח֩]] [[H3091G\|יְהוֹשֻׁ֨עַ]] [[H0582\|אֲנָשִׁ֜ים]] [[H9006\|מִֽ]][[H3405G\|ירִיח֗וֹ]] [[H9009\|הָ]][[H5857G\|עַ֞י]] [[H0834A\|אֲשֶׁ֨ר]] [[H5973A\|עִם]][[H9014\|־]] [[H1007\|בֵּ֥ית]] [[H1007\|אָ֙וֶן֙]] [[H9006\|מִ]][[H6924G\|קֶּ֣דֶם]] [[H9005\|לְ]][[H1008G\|בֵֽית]][[H9014\|־]] [[H1008G\|אֵ֔ל]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֲלֵי]][[H9038\|הֶם֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H5927G\|עֲל֖וּ]] [[H9002\|וְ]][[H7270\|רַגְּל֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9001\|וַֽ]][[H5927G\|יַּעֲלוּ֙]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֔ים]] [[H9001\|וַֽ]][[H7270\|יְרַגְּל֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5857G\|עָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic BETH-AVEN|BETH-AVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.1|<< Joshua 7:1]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.3|Joshua 7:3 >>]]</td></tr></table>
 

@@ -1,8 +1,76 @@
+---
+title: Joshua 24:17
+type: Verse
+kjv: "For the LORD our God, he it is that brought us up and our fathers out of the land of Egypt, from the house of bondage, and which did those great signs in our sight, and preserved us in all the way wherein we went, and among all the people through whom we passed:"
+bsb: "For the LORD our God brought us and our fathers out of the land of Egypt, out of the house of slavery, and performed these great signs before our eyes. He also protected us throughout our journey and among all the nations through which we traveled."
+hebrew: "כִּ֚י יְהוָ֣ה אֱלֹהֵ֔ינוּ הוּא֩ הַמַּעֲלֶ֨ה אֹתָ֧נוּ וְאֶת־ אֲבוֹתֵ֛ינוּ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֣ית עֲבָדִ֑ים וַאֲשֶׁ֧ר עָשָׂ֣ה לְעֵינֵ֗ינוּ אֶת־ הָאֹת֤וֹת הַגְּדֹלוֹת֙ הָאֵ֔לֶּה וַֽיִּשְׁמְרֵ֗נוּ בְּכָל־ הַדֶּ֙רֶךְ֙ אֲשֶׁ֣ר הָלַ֣כְנוּ בָ֔הּ וּבְכֹל֙ הָֽעַמִּ֔ים אֲשֶׁ֥ר עָבַ֖רְנוּ בְּקִרְבָּֽם׃"
+pericope: "[[Josh.24.14 Choose Whom You Will Serve|Choose Whom You Will Serve]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H1931]]"
+- "[[H9009]]"
+- "[[H5927H]]"
+- "[[H0853]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H1004B]]"
+- "[[H5650]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H5869H]]"
+- "[[H0226G]]"
+- "[[H1419A]]"
+- "[[H0428]]"
+- "[[H9001]]"
+- "[[H8104H]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H1870L]]"
+- "[[H1980G]]"
+- "[[H9034]]"
+- "[[H5971A]]"
+- "[[H5674A]]"
+- "[[H7130G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 24:17**<big><big>[[Josh.24.14 Choose Whom You Will Serve|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD our God, he [it is] that brought us up and our fathers out of the land of Egypt, from the house of bondage, and which did those great signs in our sight, and preserved us in all the way wherein we went, and among all the people through whom we passed:
 <small><sub>**BSB:**</sub></small>
 For the LORD our God brought us and our fathers out of the land of Egypt, out of the house of slavery, and performed these great signs before our eyes. He also protected us throughout our journey and among all the nations through which we traveled.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֚י]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵ֔י]][[H9025\|נוּ]] [[H1931\|הוּא֩]] [[H9009\|הַ]][[H5927H\|מַּעֲלֶ֨ה]] [[H0853\|אֹתָ֧]][[H9035\|נוּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אֲבוֹתֵ֛י]][[H9025\|נוּ]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרַ֖יִם]] [[H9006\|מִ]][[H1004B\|בֵּ֣ית]] [[H5650\|עֲבָדִ֑ים]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֧ר]] [[H6213A\|עָשָׂ֣ה]] [[H9005\|לְ]][[H5869H\|עֵינֵ֗י]][[H9025\|נוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0226G\|אֹת֤וֹת]] [[H9009\|הַ]][[H1419A\|גְּדֹלוֹת֙]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H9001\|וַֽ]][[H8104H\|יִּשְׁמְרֵ֗]][[H9035\|נוּ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1870L\|דֶּ֙רֶךְ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H1980G\|הָלַ֣כְנוּ]] [[H9003\|בָ֔]][[H9034\|הּ]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כֹל֙]] [[H9009\|הָֽ]][[H5971A\|עַמִּ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H5674A\|עָבַ֖רְנוּ]] [[H9003\|בְּ]][[H7130G\|קִרְבָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHECHEM|SHECHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.16|<< Joshua 24:16]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.18|Joshua 24:18 >>]]</td></tr></table>
 

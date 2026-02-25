@@ -1,10 +1,55 @@
+---
+title: Matthew 10:8
+type: Verse
+kjv: "Heal the sick, cleanse the lepers, raise the dead, cast out devils: freely ye have received, freely give."
+bsb: "Heal the sick, raise the dead, cleanse the lepers, drive out demons. Freely you have received; freely give."
+jesus_said: "Heal the sick, cleanse the lepers, raise the dead, cast out devils: freely ye have received, freely give."
+greek: "ἀσθενοῦντας θεραπεύετε, νεκροὺς ἐγείρετε, λεπροὺς καθαρίζετε, δαιμόνια ἐκβάλλετε· δωρεὰν ἐλάβετε, δωρεὰν δότε.¶"
+pericope: "[[Matt.10.5 The Ministry of the Twelve|The Ministry of the Twelve]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 10
+book/chapter: "[[Matt.10|Matthew 10]]"
+chronological_order: 954
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHARISM|CHARISM]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic LEPROSY|LEPROSY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G0770H]]"
+- "[[G2323]]"
+- "[[G3498]]"
+- "[[G1453]]"
+- "[[G3015]]"
+- "[[G2511]]"
+- "[[G1140]]"
+- "[[G1544]]"
+- "[[G1432]]"
+- "[[G2983]]"
+- "[[G1325]]"
+texts:
+- NKO
+---
+
 **Matthew 10:8**<big><big>[[Matt.10.5 The Ministry of the Twelve|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Heal the sick, cleanse the lepers, raise the dead, cast out devils: freely ye have received, freely give.
 <small><sub>**BSB:**</sub></small>
 Heal the sick, raise the dead, cleanse the lepers, drive out demons. Freely you have received; freely give.
-<small><sub>**Literal:**</sub></small>
-[Those] ailing do heal, dead do raise, lepers do cleanse, demons do cast out; freely you received, freely do give.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.7|<< Matthew 10:7]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.9|Matthew 10:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0770H\|ἀσθενοῦντας]]  [[G2323\|θεραπεύετε,]]  [[G3498\|νεκροὺς]]  [[G1453\|ἐγείρετε,]]  [[G3015\|λεπροὺς]]  [[G2511\|καθαρίζετε,]]  [[G1140\|δαιμόνια]]  [[G1544\|ἐκβάλλετε·]]  [[G1432\|δωρεὰν]]  [[G2983\|ἐλάβετε,]]  [[G1432\|δωρεὰν]]  [[G1325\|δότε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARISM|CHARISM]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic LEPROSY|LEPROSY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.7|<< Matthew 10:7]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.9|Matthew 10:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

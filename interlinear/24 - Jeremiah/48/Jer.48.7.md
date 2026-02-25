@@ -1,8 +1,68 @@
+---
+title: Jeremiah 48:7
+type: Verse
+kjv: "For because thou hast trusted in thy works and in thy treasures, thou shalt also be taken: and Chemosh shall go forth into captivity with his priests and his princes together."
+bsb: "Because you trust in your works and treasures, you too will be captured, and Chemosh will go into exile with his priests and officials."
+hebrew: "כִּ֠י יַ֣עַן בִּטְחֵ֤ךְ בְּמַעֲשַׂ֙יִךְ֙ וּבְא֣וֹצְרוֹתַ֔יִךְ גַּם־ אַ֖תְּ תִּלָּכֵ֑דִי וְיָצָ֤א כְמוֹשׁ֙ בַּגּוֹלָ֔ה כֹּהֲנָ֥יו וְשָׂרָ֖יו יַחְדָּֽיו׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHEMOSH|CHEMOSH]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FALSE CONFIDENCE|FALSE CONFIDENCE]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3282]]"
+- "[[H0982]]"
+- "[[H9042]]"
+- "[[H9003]]"
+- "[[H4639K]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H0214]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0859C]]"
+- "[[H3920]]"
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H3645]]"
+- "[[H1473]]"
+- "[[H3548]]"
+- "[[H9023]]"
+- "[[H8269]]"
+- "[[H3162B]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Jeremiah 48:7**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For because thou hast trusted in thy works and in thy treasures, thou shalt also be taken: and Chemosh shall go forth into captivity [with] his priests and his princes together.
 <small><sub>**BSB:**</sub></small>
 Because you trust in your works and treasures, you too will be captured, and Chemosh will go into exile with his priests and officials.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֠י]] [[H3282\|יַ֣עַן]] [[H0982\|בִּטְחֵ֤]][[H9042\|ךְ]] [[H9003\|בְּ]][[H4639K\|מַעֲשַׂ֙יִ]][[H9022\|ךְ֙]] [[H9002\|וּ]][[H9003\|בְ]][[H0214\|א֣וֹצְרוֹתַ֔יִ]][[H9022\|ךְ]] [[H1571\|גַּם]][[H9014\|־]] [[H0859C\|אַ֖תְּ]] [[H3920\|תִּלָּכֵ֑דִי]] [[H9001\|וְ]][[H3318G\|יָצָ֤א]] [[H3645\|כְמוֹשׁ֙]] [[H9003\|בַּ]][[H1473\|גּוֹלָ֔ה]] [[H3548\|כֹּהֲנָ֥י]][[H9023\|ו]] [[H9002\|וְ]][[H8269\|שָׂרָ֖י]][[H9023\|ו]] [[H3162B\|יַחְדָּֽיו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHEMOSH|CHEMOSH]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic FALSE CONFIDENCE|FALSE CONFIDENCE]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.6|<< Jeremiah 48:6]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.8|Jeremiah 48:8 >>]]</td></tr></table>
 

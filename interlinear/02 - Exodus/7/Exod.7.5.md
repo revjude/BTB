@@ -1,8 +1,67 @@
+---
+title: Exodus 7:5
+type: Verse
+kjv: "And the Egyptians shall know that I am the LORD, when I stretch forth mine hand upon Egypt, and bring out the children of Israel from among them."
+bsb: "And the Egyptians will know that I am the LORD, when I stretch out My hand against Egypt and bring the Israelites out from among them.”"
+hebrew: "וְיָדְע֤וּ מִצְרַ֙יִם֙ כִּֽי־ אֲנִ֣י יְהוָ֔ה בִּנְטֹתִ֥י אֶת־ יָדִ֖י עַל־ מִצְרָ֑יִם וְהוֹצֵאתִ֥י אֶת־ בְּנֵֽי־ יִשְׂרָאֵ֖ל מִתּוֹכָֽם׃"
+pericope: "[[Exod.7.1 God Commands Moses and Aaron|God Commands Moses and Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 7
+book/chapter: "[[Exod.7|Exodus 7]]"
+chronological_order: 99
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H4713]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H5186]]"
+- "[[H9040]]"
+- "[[H0853]]"
+- "[[H3027G]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H4714G]]"
+- "[[H3318H]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 7:5**<big><big>[[Exod.7.1 God Commands Moses and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Egyptians shall know that I [am] the LORD, when I stretch forth mine hand upon Egypt, and bring out the children of Israel from among them.
 <small><sub>**BSB:**</sub></small>
 And the Egyptians will know that I am the LORD, when I stretch out My hand against Egypt and bring the Israelites out from among them.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3045\|יָדְע֤וּ]] [[H4713\|מִצְרַ֙יִם֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9003\|בִּ]][[H5186\|נְטֹתִ֥]][[H9040\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יָדִ֖]][[H9020\|י]] [[H5921A\|עַל]][[H9014\|־]] [[H4714G\|מִצְרָ֑יִם]] [[H9001\|וְ]][[H3318H\|הוֹצֵאתִ֥י]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9006\|מִ]][[H8432\|תּוֹכָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.4|<< Exodus 7:4]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.6|Exodus 7:6 >>]]</td></tr></table>
 

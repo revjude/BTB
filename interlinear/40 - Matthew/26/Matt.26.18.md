@@ -1,10 +1,67 @@
+---
+title: Matthew 26:18
+type: Verse
+kjv: "And he said, Go into the city to such a man, and say unto him, The Master saith, My time is at hand; I will keep the passover at thy house with my disciples."
+bsb: "He answered, “Go into the city to a certain man and tell him that the Teacher says, ‘My time is near. I will keep the Passover with My disciples at your house.’”"
+jesus_said: "Go into the city to such a man, and say unto him, The Master saith, My time is at hand; I will keep the passover at thy house with my disciples."
+greek: "Ὁ δὲ εἶπεν· ὑπάγετε εἰς τὴν πόλιν πρὸς τὸν δεῖνα καὶ εἴπατε αὐτῷ· ὁ διδάσκαλος λέγει· ὁ καιρός μου ἐγγύς ἐστιν, πρὸς σὲ ποιῶ τὸ πάσχα μετὰ τῶν μαθητῶν μου."
+pericope: "[[Matt.26.17 Preparing the Passover|Preparing the Passover]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G5217]]"
+- "[[G1519]]"
+- "[[G4172]]"
+- "[[G4314]]"
+- "[[G1170]]"
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G1320]]"
+- "[[G3004G]]"
+- "[[G2540]]"
+- "[[G3165]]"
+- "[[G1451]]"
+- "[[G1510]]"
+- "[[G4771]]"
+- "[[G4160G]]"
+- "[[G3957]]"
+- "[[G3326]]"
+- "[[G3101]]"
+texts:
+- NKO
+---
+
 **Matthew 26:18**<big><big>[[Matt.26.17 Preparing the Passover|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said, Go into the city to such a man, and say unto him, The Master saith, My time is at hand; I will keep the passover at thy house with my disciples.
 <small><sub>**BSB:**</sub></small>
 He answered, “Go into the city to a certain man and tell him that the Teacher says, ‘My time is near. I will keep the Passover with My disciples at your house.’”
-<small><sub>**Literal:**</sub></small>
-<the> And He said; do go into the city unto <the> a certain man and do tell him: the Teacher says; The time for Me near is, with you I keep the Passover with the disciples of Mine.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.17|<< Matthew 26:17]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.19|Matthew 26:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν·]]  [[G5217\|ὑπάγετε]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4172\|πόλιν]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G1170\|δεῖνα]]  [[G2532\|καὶ]]  [[G2036\|εἴπατε]]  [[G0846\|αὐτῷ·]]  [[G3588\|ὁ]]  [[G1320\|διδάσκαλος]]  [[G3004G\|λέγει·]]  [[G3588\|ὁ]]  [[G2540\|καιρός]]  [[G3165\|μου]]  [[G1451\|ἐγγύς]]  [[G1510\|ἐστιν,]]  [[G4314\|πρὸς]]  [[G4771\|σὲ]]  [[G4160G\|ποιῶ]]  [[G3588\|τὸ]]  [[G3957\|πάσχα]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G3165\|μου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]] • [[topic FEASTS|FEASTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MASTER|MASTER]] • [[topic PASSOVER|PASSOVER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.17|<< Matthew 26:17]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.19|Matthew 26:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

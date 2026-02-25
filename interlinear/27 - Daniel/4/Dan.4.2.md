@@ -1,8 +1,61 @@
+---
+title: Daniel 4:2
+type: Verse
+kjv: "I thought it good to shew the signs and wonders that the high God hath wrought toward me."
+bsb: "I am pleased to declare the signs and wonders that the Most High God has performed for me."
+aramaic: "אָֽתַיָּא֙ וְתִמְהַיָּ֔א דִּ֚י עֲבַ֣ד עִמִּ֔י אֱלָהָ֖א עִלָּאָ֑ה שְׁפַ֥ר קָֽדָמַ֖י לְהַחֲוָיָֽה׃"
+pericope: "[[Dan.4.1 Nebuchadnezzar Confesses God’s Kingdom|Nebuchadnezzar Confesses God’s Kingdom]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 4
+book/chapter: "[[Dan.4|Daniel 4]]"
+chronological_order: 789
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H0852]]"
+- "[[H9010]]"
+- "[[H9002]]"
+- "[[H8540]]"
+- "[[H1768]]"
+- "[[H5648]]"
+- "[[H5974]]"
+- "[[H9030]]"
+- "[[H0426]]"
+- "[[H5943]]"
+- "[[H8232]]"
+- "[[H6925]]"
+- "[[H9005]]"
+- "[[H2324]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Daniel 4:2**<big><big>[[Dan.4.1 Nebuchadnezzar Confesses God’s Kingdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I thought it good to shew the signs and wonders that the high God hath wrought toward me.
 <small><sub>**BSB:**</sub></small>
 I am pleased to declare the signs and wonders that the Most High God has performed for me.
+<small><sub>**Aramaic:**</sub></small>
+[[H0852\|אָֽתַיָּ]][[H9010\|א֙]] [[H9002\|וְ]][[H8540\|תִמְהַיָּ֔]][[H9010\|א]] [[H1768\|דִּ֚י]] [[H5648\|עֲבַ֣ד]] [[H5974\|עִמִּ֔]][[H9030\|י]] [[H0426\|אֱלָהָ֖]][[H9010\|א]] [[H5943\|עִלָּאָ֑]][[H9010\|ה]] [[H8232\|שְׁפַ֥ר]] [[H6925\|קָֽדָמַ֖]][[H9030\|י]] [[H9005\|לְ]][[H2324\|הַחֲוָיָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic HEATHEN|HEATHEN]] • [[topic MIRACLES|MIRACLES]] • [[topic TESTIMONY|TESTIMONY]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.1|<< Daniel 4:1]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.3|Daniel 4:3 >>]]</td></tr></table>
 

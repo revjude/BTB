@@ -1,8 +1,56 @@
+---
+title: Nehemiah 11:20
+type: Verse
+kjv: "And the residue of Israel, of the priests, and the Levites, were in all the cities of Judah, every one in his inheritance."
+bsb: "The rest of the Israelites, with the priests and Levites, were in all the villages of Judah, each on his own inheritance."
+hebrew: "וּשְׁאָ֨ר יִשְׂרָאֵ֜ל הַכֹּהֲנִ֤ים הַלְוִיִּם֙ בְּכָל־ עָרֵ֣י יְהוּדָ֔ה אִ֖ישׁ בְּנַחֲלָתֽוֹ׃"
+pericope: "[[Neh.11.20 Residents Outside Jerusalem|Residents Outside Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 11
+book/chapter: "[[Neh.11|Nehemiah 11]]"
+chronological_order: 923
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H7605]]"
+- "[[H3478]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H3881]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H3063G]]"
+- "[[H0376I]]"
+- "[[H5159]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 11:20**<big><big>[[Neh.11.20 Residents Outside Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the residue of Israel, of the priests, [and] the Levites, [were] in all the cities of Judah, every one in his inheritance.
 <small><sub>**BSB:**</sub></small>
 The rest of the Israelites, with the priests and Levites, were in all the villages of Judah, each on his own inheritance.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H7605\|שְׁאָ֨ר]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֤ים]] [[H9009\|הַ]][[H3881\|לְוִיִּם֙]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H5892B\|עָרֵ֣י]] [[H3063G\|יְהוּדָ֔ה]] [[H0376I\|אִ֖ישׁ]] [[H9003\|בְּ]][[H5159\|נַחֲלָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.19|<< Nehemiah 11:19]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.21|Nehemiah 11:21 >>]]</td></tr></table>
 

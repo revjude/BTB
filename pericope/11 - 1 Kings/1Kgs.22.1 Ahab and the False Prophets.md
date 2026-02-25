@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ahab and the False Prophets
+type: Pericope
 pericope: "[[1Kgs.22.1 Ahab and the False Prophets|Ahab and the False Prophets]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 22
 book/chapter: "[[1Kgs.22|1 Kings 22]]"
-genre:
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 12
 verses:
 - "[[1Kgs.22.1]]"
 - "[[1Kgs.22.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[1Kgs.22.12]]"
 ---
 
-[[1Kgs.22|1 Kings 22:1 - 1 Kings 22:12]]
+<small>[[1Kgs.22|1 Kings 22:1-12]]</small>
 *Ahab and the False Prophets*
 
 [[1Kgs.22.1|1]] And they continued three years without war between Syria and Israel.

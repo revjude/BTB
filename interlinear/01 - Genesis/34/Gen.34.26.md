@@ -1,8 +1,65 @@
+---
+title: Genesis 34:26
+type: Verse
+kjv: "And they slew Hamor and Shechem his son with the edge of the sword, and took Dinah out of Shechem’s house, and went out."
+bsb: "They killed Hamor and his son Shechem with their swords, took Dinah out of Shechem’s house, and went away."
+hebrew: "וְאֶת־ חֲמוֹר֙ וְאֶת־ שְׁכֶ֣ם בְּנ֔וֹ הָרְג֖וּ לְפִי־ חָ֑רֶב וַיִּקְח֧וּ אֶת־ דִּינָ֛ה מִבֵּ֥ית שְׁכֶ֖ם וַיֵּצֵֽאוּ׃"
+pericope: "[[Gen.34.13 The Revenge of Dinah’s Brothers|The Revenge of Dinah’s Brothers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 34
+book/chapter: "[[Gen.34|Genesis 34]]"
+chronological_order: 76
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic HAMOR|HAMOR]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic VENGEANCE|VENGEANCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2544]]"
+- "[[H7927H]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H2026]]"
+- "[[H9005]]"
+- "[[H6310G]]"
+- "[[H2719]]"
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H1783]]"
+- "[[H9006]]"
+- "[[H1004M]]"
+- "[[H3318G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 34:26**<big><big>[[Gen.34.13 The Revenge of Dinah’s Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they slew Hamor and Shechem his son with the edge of the sword, and took Dinah out of Shechem’s house, and went out.
 <small><sub>**BSB:**</sub></small>
 They killed Hamor and his son Shechem with their swords, took Dinah out of Shechem’s house, and went away.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2544\|חֲמוֹר֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7927H\|שְׁכֶ֣ם]] [[H1121A\|בְּנ֔]][[H9023\|וֹ]] [[H2026\|הָרְג֖וּ]] [[H9005\|לְ]][[H6310G\|פִי]][[H9014\|־]] [[H2719\|חָ֑רֶב]] [[H9001\|וַ]][[H3947G\|יִּקְח֧וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1783\|דִּינָ֛ה]] [[H9006\|מִ]][[H1004M\|בֵּ֥ית]] [[H7927H\|שְׁכֶ֖ם]] [[H9001\|וַ]][[H3318G\|יֵּצֵֽאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEPTION|DECEPTION]] • [[topic DISHONESTY|DISHONESTY]] • [[topic HAMOR|HAMOR]] • [[topic HOMICIDE|HOMICIDE]] • [[topic VENGEANCE|VENGEANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.25|<< Genesis 34:25]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.27|Genesis 34:27 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Good and Bad Fruit
+type: Pericope
 pericope: "[[Matt.12.33 Good and Bad Fruit|Good and Bad Fruit]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 12
 book/chapter: "[[Matt.12|Matthew 12]]"
-genre:
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Matt.12.33]]"
 - "[[Matt.12.34]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Matt.12.37]]"
 ---
 
-[[Matt.12|Matthew 12:33 - Matthew 12:37]]
+<small>[[Matt.12|Matthew 12:33-37]]</small>
 *Good and Bad Fruit*
 
 [[Matt.12.33|33]] Either make the tree good, and his fruit good; or else make the tree corrupt, and his fruit corrupt: for the tree is known by \[his\] fruit.

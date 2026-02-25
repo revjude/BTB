@@ -1,8 +1,50 @@
+---
+title: Proverbs 13:18
+type: Verse
+kjv: "Poverty and shame shall be to him that refuseth instruction: but he that regardeth reproof shall be honoured."
+bsb: "Poverty and shame come to him who ignores discipline, but whoever heeds correction is honored."
+hebrew: "רֵ֣ישׁ וְ֭קָלוֹן פּוֹרֵ֣עַ מוּסָ֑ר וְשׁוֹמֵ֖ר תּוֹכַ֣חַת יְכֻבָּֽד׃"
+pericope: "[[Prov.13.1 A Father’s Discipline|A Father’s Discipline]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 13
+book/chapter: "[[Prov.13|Proverbs 13]]"
+chronological_order: 468
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H7389A]]"
+- "[[H9002]]"
+- "[[H7036]]"
+- "[[H6544B]]"
+- "[[H4148G]]"
+- "[[H8104H]]"
+- "[[H8433B]]"
+- "[[H3513G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 13:18**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Poverty and shame [shall be to] him that refuseth instruction: but he that regardeth reproof shall be honoured.
 <small><sub>**BSB:**</sub></small>
 Poverty and shame come to him who ignores discipline, but whoever heeds correction is honored.
+<small><sub>**Hebrew:**</sub></small>
+[[H7389A\|רֵ֣ישׁ]] [[H9002\|וְ֭]][[H7036\|קָלוֹן]] [[H6544B\|פּוֹרֵ֣עַ]] [[H4148G\|מוּסָ֑ר]] [[H9002\|וְ]][[H8104H\|שׁוֹמֵ֖ר]] [[H8433B\|תּוֹכַ֣חַת]] [[H3513G\|יְכֻבָּֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.17|<< Proverbs 13:17]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.19|Proverbs 13:19 >>]]</td></tr></table>
 

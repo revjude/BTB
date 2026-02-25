@@ -1,8 +1,54 @@
+---
+title: Ezekiel 48:26
+type: Verse
+kjv: "And by the border of Issachar, from the east side unto the west side, Zebulun a portion."
+bsb: "Zebulun will have one portion bordering the territory of Issachar from east to west."
+hebrew: "וְעַ֣ל׀ גְּב֣וּל יִשָׂשכָ֗ר מִפְּאַ֥ת קָדִ֛ימָה עַד־ פְּאַת־ יָ֖מָּה זְבוּלֻ֥ן אֶחָֽד׃"
+pericope: "[[Ezek.48.23 The Portions for the Remaining Tribes|The Portions for the Remaining Tribes]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 48
+book/chapter: "[[Ezek.48|Ezekiel 48]]"
+chronological_order: 839
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9015]]"
+- "[[H1366H]]"
+- "[[H3485G]]"
+- "[[H9006]]"
+- "[[H6285]]"
+- "[[H6921]]"
+- "[[H9011]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H3220H]]"
+- "[[H2074]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 48:26**<big><big>[[Ezek.48.23 The Portions for the Remaining Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And by the border of Issachar, from the east side unto the west side, Zebulun a [portion].
 <small><sub>**BSB:**</sub></small>
 Zebulun will have one portion bordering the territory of Issachar from east to west.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5921A\|עַ֣ל]][[H9015\|׀]] [[H1366H\|גְּב֣וּל]] [[H3485G\|יִשָׂשכָ֗ר]] [[H9006\|מִ]][[H6285\|פְּאַ֥ת]] [[H6921\|קָדִ֛ימָ]][[H9011\|ה]] [[H5704\|עַד]][[H9014\|־]] [[H6285\|פְּאַת]][[H9014\|־]] [[H3220H\|יָ֖מָּ]][[H9011\|ה]] [[H2074\|זְבוּלֻ֥ן]] [[H0259\|אֶחָֽד]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.25|<< Ezekiel 48:25]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.27|Ezekiel 48:27 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: 1 Samuel 12:24
+type: Verse
+kjv: "Only fear the LORD, and serve him in truth with all your heart: for consider how great things he hath done for you."
+bsb: "Above all, fear the LORD and serve Him faithfully with all your heart; consider what great things He has done for you."
+hebrew: "אַ֣ךְ׀ יְר֣אוּ אֶת־ יְהוָ֗ה וַעֲבַדְתֶּ֥ם אֹת֛וֹ בֶּאֱמֶ֖ת בְּכָל־ לְבַבְכֶ֑ם כִּ֣י רְא֔וּ אֵ֥ת אֲשֶׁר־ הִגְדִּ֖ל עִמָּכֶֽם׃"
+pericope: "[[1Sam.12.1 Samuel’s Farewell Address|Samuel’s Farewell Address]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 12
+book/chapter: "[[1Sam.12|1 Samuel 12]]"
+chronological_order: 291
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic OBLIGATION|OBLIGATION]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[H0389]]"
+- "[[H9015]]"
+- "[[H3372H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H5647G]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H0571G]]"
+- "[[H3605]]"
+- "[[H3824]]"
+- "[[H9026]]"
+- "[[H3588A]]"
+- "[[H7200H]]"
+- "[[H0834A]]"
+- "[[H1431]]"
+- "[[H5973A]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 12:24**<big><big>[[1Sam.12.1 Samuel’s Farewell Address|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only fear the LORD, and serve him in truth with all your heart: for consider how great [things] he hath done for you.
 <small><sub>**BSB:**</sub></small>
 Above all, fear the LORD and serve Him faithfully with all your heart; consider what great things He has done for you.
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַ֣ךְ]][[H9015\|׀]] [[H3372H\|יְר֣אוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H9001\|וַ]][[H5647G\|עֲבַדְתֶּ֥ם]] [[H0853\|אֹת֛]][[H9033\|וֹ]] [[H9003\|בֶּ]][[H0571G\|אֱמֶ֖ת]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3824\|לְבַבְ]][[H9026\|כֶ֑ם]] [[H3588A\|כִּ֣י]] [[H7200H\|רְא֔וּ]] [[H0853\|אֵ֥ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1431\|הִגְדִּ֖ל]] [[H5973A\|עִמָּ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OBEDIENCE|OBEDIENCE]] • [[topic OBLIGATION|OBLIGATION]] • [[topic REVERENCE|REVERENCE]] • [[topic TRUTH|TRUTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.12.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.12.23|<< 1 Samuel 12:23]]</td><td align="center" style="border:none;">[[1Sam.12|1 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.12.25|1 Samuel 12:25 >>]]</td></tr></table>
 

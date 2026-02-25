@@ -1,8 +1,48 @@
+---
+title: Song of Solomon 8:13
+type: Verse
+kjv: "Thou that dwellest in the gardens, the companions hearken to thy voice: cause me to hear it."
+bsb: "You who dwell in the gardens, my companions are listening for your voice. Let me hear it!"
+hebrew: "הַיוֹשֶׁ֣בֶת בַּגַּנִּ֗ים חֲבֵרִ֛ים מַקְשִׁיבִ֥ים לְקוֹלֵ֖ךְ הַשְׁמִיעִֽינִי׃"
+pericope: "[[Song.8.13 The Bridegroom|The Bridegroom]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 8
+book/chapter: "[[Song.8|Song of Solomon 8]]"
+chronological_order: 455
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+strongs:
+- "[[H9009]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H1588M]]"
+- "[[H2270]]"
+- "[[H7181]]"
+- "[[H9005]]"
+- "[[H6963A]]"
+- "[[H9022]]"
+- "[[H8085G]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L(abh)
+- L
+---
+
 **Song of Solomon 8:13**<big><big>[[Song.8.13 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou that dwellest in the gardens, the companions hearken to thy voice: cause me to hear [it].
 <small><sub>**BSB:**</sub></small>
 You who dwell in the gardens, my companions are listening for your voice. Let me hear it!
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H3427\|יוֹשֶׁ֣בֶת]] [[H9003\|בַּ]][[H1588M\|גַּנִּ֗ים]] [[H2270\|חֲבֵרִ֛ים]] [[H7181\|מַקְשִׁיבִ֥ים]] [[H9005\|לְ]][[H6963A\|קוֹלֵ֖]][[H9022\|ךְ]] [[H8085G\|הַשְׁמִיעִֽי]][[H9030\|נִי]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.8.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.8.12|<< Song of Solomon 8:12]]</td><td align="center" style="border:none;">[[Song.8|Song of Solomon 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.8.14|Song of Solomon 8:14 >>]]</td></tr></table>
 

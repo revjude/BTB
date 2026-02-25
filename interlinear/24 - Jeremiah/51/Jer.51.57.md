@@ -1,8 +1,67 @@
+---
+title: Jeremiah 51:57
+type: Verse
+kjv: "And I will make drunk her princes, and her wise men, her captains, and her rulers, and her mighty men: and they shall sleep a perpetual sleep, and not wake, saith the King, whose name is the LORD of hosts."
+bsb: "I will make her princes and wise men drunk, along with her governors, officials, and warriors. Then they will fall asleep forever and not wake up,” declares the King, whose name is the LORD of Hosts."
+hebrew: "וְ֠הִשְׁכַּרְתִּי שָׂרֶ֨יהָ וַחֲכָמֶ֜יהָ פַּחוֹתֶ֤יהָ וּסְגָנֶ֙יהָ֙ וְגִבּוֹרֶ֔יהָ וְיָשְׁנ֥וּ שְׁנַת־ עוֹלָ֖ם וְלֹ֣א יָקִ֑יצוּ נְאֻ֨ם־ הַמֶּ֔לֶךְ יְהוָ֥ה צְבָא֖וֹת שְׁמֽוֹ׃ ס"
+pericope: "[[Jer.51.20 Babylon’s Punishment|Babylon’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H7937]]"
+- "[[H8269]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H2450]]"
+- "[[H6346]]"
+- "[[H5461]]"
+- "[[H1368]]"
+- "[[H3462]]"
+- "[[H8142]]"
+- "[[H9014]]"
+- "[[H5769G]]"
+- "[[H3808]]"
+- "[[H6974]]"
+- "[[H5002]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 51:57**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make drunk her princes, and her wise [men], her captains, and her rulers, and her mighty men: and they shall sleep a perpetual sleep, and not wake, saith the King, whose name [is] the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
 I will make her princes and wise men drunk, along with her governors, officials, and warriors. Then they will fall asleep forever and not wake up,” declares the King, whose name is the LORD of Hosts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ֠]][[H7937\|הִשְׁכַּרְתִּי]] [[H8269\|שָׂרֶ֨י]][[H9024\|הָ]] [[H9002\|וַ]][[H2450\|חֲכָמֶ֜י]][[H9024\|הָ]] [[H6346\|פַּחוֹתֶ֤י]][[H9024\|הָ]] [[H9002\|וּ]][[H5461\|סְגָנֶ֙י]][[H9024\|הָ֙]] [[H9002\|וְ]][[H1368\|גִבּוֹרֶ֔י]][[H9024\|הָ]] [[H9001\|וְ]][[H3462\|יָשְׁנ֥וּ]] [[H8142\|שְׁנַת]][[H9014\|־]] [[H5769G\|עוֹלָ֖ם]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6974\|יָקִ֑יצוּ]] [[H5002\|נְאֻ֨ם]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָא֖וֹת]] [[H8034\|שְׁמֽ]][[H9023\|וֹ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSIA|PERSIA]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.57|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.56|<< Jeremiah 51:56]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.58|Jeremiah 51:58 >>]]</td></tr></table>
 
@@ -23,7 +82,7 @@ I will make her princes and wise men drunk, along with her governors, officials,
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֔לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of hosts  |**<big>&#8207;[[H6635B\|צְבָא֖וֹת]]&#8207; </big>**| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| name his  |**<big>&#8207;[[H8034\|שְׁמֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| she.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name his  |**<big>&#8207;[[H8034\|שְׁמֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| she.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.56|<< Jeremiah 51:56]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.58|Jeremiah 51:58 >>]]</td></tr></table>
 
 

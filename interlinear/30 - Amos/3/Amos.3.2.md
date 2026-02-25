@@ -1,8 +1,61 @@
+---
+title: Amos 3:2
+type: Verse
+kjv: "You only have I known of all the families of the earth: therefore I will punish you for all your iniquities."
+bsb: "“Only you have I known from all the families of the earth; therefore I will punish you for all your iniquities.”"
+hebrew: "רַ֚ק אֶתְכֶ֣ם יָדַ֔עְתִּי מִכֹּ֖ל מִשְׁפְּח֣וֹת הָאֲדָמָ֑ה עַל־ כֵּן֙ אֶפְקֹ֣ד עֲלֵיכֶ֔ם אֵ֖ת כָּל־ עֲוֹנֹֽתֵיכֶֽם׃"
+pericope: "[[Amos.3.1 Witnesses against Israel|Witnesses against Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 3
+book/chapter: "[[Amos.3|Amos 3]]"
+chronological_order: 600
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7535]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H3045]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H4940]]"
+- "[[H9009]]"
+- "[[H0127I]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H6485H]]"
+- "[[H5771G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 3:2**<big><big>[[Amos.3.1 Witnesses against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 You only have I known of all the families of the earth: therefore I will punish you for all your iniquities.
 <small><sub>**BSB:**</sub></small>
 “Only you have I known from all the families of the earth; therefore I will punish you for all your iniquities.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7535\|רַ֚ק]] [[H0853\|אֶתְ]][[H9036\|כֶ֣ם]] [[H3045\|יָדַ֔עְתִּי]] [[H9006\|מִ]][[H3605\|כֹּ֖ל]] [[H4940\|מִשְׁפְּח֣וֹת]] [[H9009\|הָ]][[H0127I\|אֲדָמָ֑ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּן֙]] [[H6485H\|אֶפְקֹ֣ד]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֔ם]] [[H0853\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H5771G\|עֲוֹנֹֽתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic JUDGMENT|JUDGMENT]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.3.1|<< Amos 3:1]]</td><td align="center" style="border:none;">[[Amos.3|Amos 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.3.3|Amos 3:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

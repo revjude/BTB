@@ -1,8 +1,71 @@
+---
+title: 1 Chronicles 21:23
+type: Verse
+kjv: "And Ornan said unto David, Take it to thee, and let my lord the king do that which is good in his eyes: lo, I give thee the oxen also for burnt offerings, and the threshing instruments for wood, and the wheat for the meat offering; I give it all."
+bsb: "Ornan said to David, “Take it! May my lord the king do whatever seems good to him. Look, I will give the oxen for the burnt offerings, the threshing sledges for the wood, and the wheat for the grain offering—I will give it all.”"
+hebrew: "וַיֹּ֨אמֶר אָרְנָ֤ן אֶל־ דָּוִיד֙ קַֽח־ לָ֔ךְ וְיַ֛עַשׂ אֲדֹנִ֥י הַמֶּ֖לֶךְ הַטּ֣וֹב בְּעֵינָ֑יו רְאֵה֩ נָתַ֨תִּי הַבָּקָ֜ר לָֽעֹל֗וֹת וְהַמּוֹרִגִּ֧ים לָעֵצִ֛ים וְהַחִטִּ֥ים לַמִּנְחָ֖ה הַכֹּ֥ל נָתָֽתִּי׃"
+pericope: "[[1Chr.21.18 David Builds an Altar|David Builds an Altar]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 21
+book/chapter: "[[1Chr.21|1 Chronicles 21]]"
+chronological_order: 420
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARAUNAH|ARAUNAH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic ORNAN|ORNAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0771]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H3947G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H6213A]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H2896A]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9023]]"
+- "[[H7200I]]"
+- "[[H5414G]]"
+- "[[H1241]]"
+- "[[H5930A]]"
+- "[[H4173]]"
+- "[[H6086G]]"
+- "[[H2406]]"
+- "[[H4503G]]"
+- "[[H3605]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 21:23**<big><big>[[1Chr.21.18 David Builds an Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ornan said unto David, Take [it] to thee, and let my lord the king do [that which is] good in his eyes: lo, I give [thee] the oxen [also] for burnt offerings, and the threshing instruments for wood, and the wheat for the meat offering; I give it all.
 <small><sub>**BSB:**</sub></small>
 Ornan said to David, “Take it! May my lord the king do whatever seems good to him. Look, I will give the oxen for the burnt offerings, the threshing sledges for the wood, and the wheat for the grain offering—I will give it all.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0771\|אָרְנָ֤ן]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִיד֙]] [[H3947G\|קַֽח]][[H9014\|־]] [[H9005\|לָ֔]][[H9031\|ךְ]] [[H9002\|וְ]][[H6213A\|יַ֛עַשׂ]] [[H0113\|אֲדֹנִ֥]][[H9020\|י]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H9009\|הַ]][[H2896A\|טּ֣וֹב]] [[H9003\|בְּ]][[H5869I\|עֵינָ֑י]][[H9023\|ו]] [[H7200I\|רְאֵה֩]] [[H5414G\|נָתַ֨תִּי]] [[H9009\|הַ]][[H1241\|בָּקָ֜ר]] [[H9005\|לָֽ]][[H5930A\|עֹל֗וֹת]] [[H9002\|וְ]][[H9009\|הַ]][[H4173\|מּוֹרִגִּ֧ים]] [[H9005\|לָ]][[H6086G\|עֵצִ֛ים]] [[H9002\|וְ]][[H9009\|הַ]][[H2406\|חִטִּ֥ים]] [[H9005\|לַ]][[H4503G\|מִּנְחָ֖ה]] [[H9009\|הַ]][[H3605\|כֹּ֥ל]] [[H5414G\|נָתָֽתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARAUNAH|ARAUNAH]] • [[topic MIRACLES|MIRACLES]] • [[topic ORNAN|ORNAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.22|<< 1 Chronicles 21:22]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.24|1 Chronicles 21:24 >>]]</td></tr></table>
 

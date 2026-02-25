@@ -1,8 +1,63 @@
+---
+title: Genesis 38:2
+type: Verse
+kjv: "And Judah saw there a daughter of a certain Canaanite, whose name was Shuah; and he took her, and went in unto her."
+bsb: "There Judah saw the daughter of a Canaanite man named Shua, and he took her as a wife and slept with her."
+hebrew: "וַיַּרְא־ שָׁ֧ם יְהוּדָ֛ה בַּת־ אִ֥ישׁ כְּנַעֲנִ֖י וּשְׁמ֣וֹ שׁ֑וּעַ וַיִּקָּחֶ֖הָ וַיָּבֹ֥א אֵלֶֽיהָ׃"
+pericope: "[[Gen.38.1 Judah and Tamar|Judah and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 38
+book/chapter: "[[Gen.38|Genesis 38]]"
+chronological_order: 80
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic SHUA|SHUA]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H3063G]]"
+- "[[H1323G]]"
+- "[[H0376G]]"
+- "[[H3669A]]"
+- "[[H9002]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H7770]]"
+- "[[H3947I]]"
+- "[[H9034]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 38:2**<big><big>[[Gen.38.1 Judah and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Judah saw there a daughter of a certain Canaanite, whose name [was] Shuah; and he took her, and went in unto her.
 <small><sub>**BSB:**</sub></small>
 There Judah saw the daughter of a Canaanite man named Shua, and he took her as a wife and slept with her.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּרְא]][[H9014\|־]] [[H8033G\|שָׁ֧ם]] [[H3063G\|יְהוּדָ֛ה]] [[H1323G\|בַּת]][[H9014\|־]] [[H0376G\|אִ֥ישׁ]] [[H3669A\|כְּנַעֲנִ֖י]] [[H9002\|וּ]][[H8034\|שְׁמ֣]][[H9023\|וֹ]] [[H7770\|שׁ֑וּעַ]] [[H9001\|וַ]][[H3947I\|יִּקָּחֶ֖]][[H9034\|הָ]] [[H9001\|וַ]][[H0935G\|יָּבֹ֥א]] [[H0413\|אֵלֶֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CANAANITES|CANAANITES]] • [[topic JUDAH|JUDAH]] • [[topic SHUA|SHUA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.38.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.1|<< Genesis 38:1]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.3|Genesis 38:3 >>]]</td></tr></table>
 

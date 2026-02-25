@@ -1,8 +1,72 @@
+---
+title: 2 Samuel 11:3
+type: Verse
+kjv: "And David sent and inquired after the woman. And one said, Is not this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?"
+bsb: "So David sent and inquired about the woman, and he was told, “This is Bathsheba, the daughter of Eliam and the wife of Uriah the Hittite.”"
+hebrew: "וַיִּשְׁלַ֣ח דָּוִ֔ד וַיִּדְרֹ֖שׁ לָֽאִשָּׁ֑ה וַיֹּ֗אמֶר הֲלוֹא־ זֹאת֙ בַּת־ שֶׁ֣בַע בַּת־ אֱלִיעָ֔ם אֵ֖שֶׁת אוּרִיָּ֥ה הַחִתִּֽי׃"
+pericope: "[[2Sam.11.1 David and Bathsheba|David and Bathsheba]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 11
+book/chapter: "[[2Sam.11|2 Samuel 11]]"
+chronological_order: 410
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic AMMIEL|AMMIEL]]"
+- "[[topic BASTARD|BASTARD]]"
+- "[[topic BATH-SHEBA (BATHSHEBA)|BATH-SHEBA (BATHSHEBA)]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic ELIAM|ELIAM]]"
+- "[[topic HITTITES|HITTITES]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic URIAH|URIAH]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H1732]]"
+- "[[H1875]]"
+- "[[H9005]]"
+- "[[H0802G]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H1339]]"
+- "[[H1323G]]"
+- "[[H0463G]]"
+- "[[H0802H]]"
+- "[[H0223A]]"
+- "[[H9009]]"
+- "[[H2850]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 11:3**<big><big>[[2Sam.11.1 David and Bathsheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David sent and inquired after the woman. And [one] said, [Is] not this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?
 <small><sub>**BSB:**</sub></small>
 So David sent and inquired about the woman, and he was told, “This is Bathsheba, the daughter of Eliam and the wife of Uriah the Hittite.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֣ח]] [[H1732\|דָּוִ֔ד]] [[H9001\|וַ]][[H1875\|יִּדְרֹ֖שׁ]] [[H9005\|לָֽ]][[H0802G\|אִשָּׁ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H9008\|הֲ]][[H3808\|לוֹא]][[H9014\|־]] [[H2063\|זֹאת֙]] [[H1339\|בַּת]][[H9014\|־]] [[H1339\|שֶׁ֣בַע]] [[H1323G\|בַּת]][[H9014\|־]] [[H0463G\|אֱלִיעָ֔ם]] [[H0802H\|אֵ֖שֶׁת]] [[H0223A\|אוּרִיָּ֥ה]] [[H9009\|הַ]][[H2850\|חִתִּֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic AMMIEL|AMMIEL]] • [[topic BASTARD|BASTARD]] • [[topic BATH-SHEBA (BATHSHEBA)|BATH-SHEBA (BATHSHEBA)]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DAVID|DAVID]] • [[topic ELIAM|ELIAM]] • [[topic HITTITES|HITTITES]] • [[topic INSTABILITY|INSTABILITY]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic TEMPTATION|TEMPTATION]] • [[topic URIAH|URIAH]] • [[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.11.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.11.2|<< 2 Samuel 11:2]]</td><td align="center" style="border:none;">[[2Sam.11|2 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.11.4|2 Samuel 11:4 >>]]</td></tr></table>
 

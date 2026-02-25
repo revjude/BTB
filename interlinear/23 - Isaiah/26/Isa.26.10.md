@@ -1,8 +1,60 @@
+---
+title: Isaiah 26:10
+type: Verse
+kjv: "Let favour be shewed to the wicked, yet will he not learn righteousness: in the land of uprightness will he deal unjustly, and will not behold the majesty of the LORD."
+bsb: "Though grace is shown to the wicked man, he does not learn righteousness. In the land of righteousness he acts unjustly and fails to see the majesty of the LORD."
+hebrew: "יֻחַ֤ן רָשָׁע֙ בַּל־ לָמַ֣ד צֶ֔דֶק בְּאֶ֥רֶץ נְכֹח֖וֹת יְעַוֵּ֑ל וּבַל־ יִרְאֶ֖ה גֵּא֥וּת יְהוָֽה׃ ס"
+pericope: "[[Isa.26.1 A Song of Salvation|A Song of Salvation]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 26
+book/chapter: "[[Isa.26|Isaiah 26]]"
+chronological_order: 669
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic INJUSTICE|INJUSTICE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2603A]]"
+- "[[H7563]]"
+- "[[H1077]]"
+- "[[H9014]]"
+- "[[H3925H]]"
+- "[[H6664G]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H5229]]"
+- "[[H5765]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H1348]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 26:10**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let favour be shewed to the wicked, [yet] will he not learn righteousness: in the land of uprightness will he deal unjustly, and will not behold the majesty of the LORD.
 <small><sub>**BSB:**</sub></small>
 Though grace is shown to the wicked man, he does not learn righteousness. In the land of righteousness he acts unjustly and fails to see the majesty of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H2603A\|יֻחַ֤ן]] [[H7563\|רָשָׁע֙]] [[H1077\|בַּל]][[H9014\|־]] [[H3925H\|לָמַ֣ד]] [[H6664G\|צֶ֔דֶק]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H5229\|נְכֹח֖וֹת]] [[H5765\|יְעַוֵּ֑ל]] [[H9002\|וּ]][[H1077\|בַל]][[H9014\|־]] [[H7200G\|יִרְאֶ֖ה]] [[H1348\|גֵּא֥וּת]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic INJUSTICE|INJUSTICE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.9|<< Isaiah 26:9]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.11|Isaiah 26:11 >>]]</td></tr></table>
 
@@ -19,7 +71,7 @@ Though grace is shown to the wicked man, he does not learn righteousness. In the
 | and not  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1077\|בַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> val-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he sees  |**<big>&#8207;[[H7200G\|יִרְאֶ֖ה]]&#8207; </big>**| yir.'Eh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] majesty of  |**<big>&#8207;[[H1348\|גֵּא֥וּת]]&#8207; </big>**| ge.'Ut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.9|<< Isaiah 26:9]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.11|Isaiah 26:11 >>]]</td></tr></table>
 
 

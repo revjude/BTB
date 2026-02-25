@@ -1,8 +1,52 @@
+---
+title: Nahum 3:2
+type: Verse
+kjv: "The noise of a whip, and the noise of the rattling of the wheels, and of the pransing horses, and of the jumping chariots."
+bsb: "The crack of the whip, the rumble of the wheel, galloping horse and bounding chariot!"
+hebrew: "ק֣וֹל שׁ֔וֹט וְק֖וֹל רַ֣עַשׁ אוֹפָ֑ן וְס֣וּס דֹּהֵ֔ר וּמֶרְכָּבָ֖ה מְרַקֵּדָֽה׃"
+pericope: "[[Nah.3.1 Judgment on Nineveh|Judgment on Nineveh]]"
+original_language: Hebrew
+testament: Old
+book: Nahum
+chapter: 3
+book/chapter: "[[Nah.3|Nahum 3]]"
+chronological_order: 710
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic WHIP|WHIP]]"
+strongs:
+- "[[H6963H]]"
+- "[[H7752]]"
+- "[[H9002]]"
+- "[[H6963A]]"
+- "[[H7494]]"
+- "[[H0212]]"
+- "[[H5483M]]"
+- "[[H1725]]"
+- "[[H4818]]"
+- "[[H7540]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nahum 3:2**<big><big>[[Nah.3.1 Judgment on Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The noise of a whip, and the noise of the rattling of the wheels, and of the pransing horses, and of the jumping chariots.
 <small><sub>**BSB:**</sub></small>
 The crack of the whip, the rumble of the wheel, galloping horse and bounding chariot!
+<small><sub>**Hebrew:**</sub></small>
+[[H6963H\|ק֣וֹל]] [[H7752\|שׁ֔וֹט]] [[H9002\|וְ]][[H6963A\|ק֖וֹל]] [[H7494\|רַ֣עַשׁ]] [[H0212\|אוֹפָ֑ן]] [[H9002\|וְ]][[H5483M\|ס֣וּס]] [[H1725\|דֹּהֵ֔ר]] [[H9002\|וּ]][[H4818\|מֶרְכָּבָ֖ה]] [[H7540\|מְרַקֵּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARIOT|CHARIOT]] • [[topic WHIP|WHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.1|<< Nahum 3:1]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.3|Nahum 3:3 >>]]</td></tr></table>
 

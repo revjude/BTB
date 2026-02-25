@@ -1,10 +1,60 @@
+---
+title: Matthew 8:5
+type: Verse
+kjv: "And when Jesus was entered into Capernaum, there came unto him a centurion, beseeching him,"
+bsb: "When Jesus had entered Capernaum, a centurion came and pleaded with Him,"
+greek: "Εἰσελθόντος δὲ αὐτοῦ τῷ Ἰησοῦ εἰς Καφαρναοὺμ προσῆλθεν αὐτῷ ἑκατόνταρχος παρακαλῶν αὐτὸν"
+pericope: "[[Matt.8.5 The Faith of the Centurion|The Faith of the Centurion]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 8
+book/chapter: "[[Matt.8|Matthew 8]]"
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CENTURION|CENTURION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G1525]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1519]]"
+- "[[G2584]]"
+- "[[G4334]]"
+- "[[G1543]]"
+- "[[G3870]]"
+texts:
+- N(k)O
+- NKO
+- n(o)
+- k
+---
+
 **Matthew 8:5**<big><big>[[Matt.8.5 The Faith of the Centurion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when Jesus was entered into Capernaum, there came unto him a centurion, beseeching him,
 <small><sub>**BSB:**</sub></small>
 When Jesus had entered Capernaum, a centurion came and pleaded with Him,
-<small><sub>**Literal:**</sub></small>
-When was entering now He <the> Jesus into Capernaum came to Him a centurion imploring Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.4|<< Matthew 8:4]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.6|Matthew 8:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1525\|Εἰσελθόντος]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῦ]]  [[G3588\|τῷ]]  [[G2424G\|Ἰησοῦ]]  [[G1519\|εἰς]]  [[G2584\|Καφαρναοὺμ]]  [[G4334\|προσῆλθεν]]  [[G0846\|αὐτῷ]]  [[G1543\|ἑκατόνταρχος]]  [[G3870\|παρακαλῶν]]  [[G0846\|αὐτὸν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CENTURION|CENTURION]] • [[topic FAITH|FAITH]] • [[topic HEATHEN|HEATHEN]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.4|<< Matthew 8:4]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.6|Matthew 8:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

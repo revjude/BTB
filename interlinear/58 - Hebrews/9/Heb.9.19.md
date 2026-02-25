@@ -1,10 +1,74 @@
+---
+title: Hebrews 9:19
+type: Verse
+kjv: "For when Moses had spoken every precept to all the people according to the law, he took the blood of calves and of goats, with water, and scarlet wool, and hyssop, and sprinkled both the book, and all the people,"
+bsb: "For when Moses had proclaimed every commandment of the law to all the people, he took the blood of calves and goats, along with water, scarlet wool, and hyssop, and sprinkled the scroll and all the people,"
+greek: "λαληθείσης γὰρ πάσης ἐντολῆς κατὰ τὸν νόμον ὑπὸ Μωϋσέως παντὶ τῷ λαῷ, λαβὼν τὸ αἷμα τῶν μόσχων καὶ τῶν τράγων μετὰ ὕδατος καὶ ἐρίου κοκκίνου καὶ ὑσσώπου, αὐτό τε τὸ βιβλίον καὶ πάντα τὸν λαὸν ἐρράντισεν"
+pericope: "[[Heb.9.11 Redemption through His Blood|Redemption through His Blood]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 9
+book/chapter: "[[Heb.9|Hebrews 9]]"
+chronological_order: 1148
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic HYSSOP|HYSSOP]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic SPRINKLING|SPRINKLING]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G2980]]"
+- "[[G1063]]"
+- "[[G3956]]"
+- "[[G1785]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G5259G]]"
+- "[[G3475]]"
+- "[[G2992]]"
+- "[[G2983]]"
+- "[[G0129G]]"
+- "[[G3448]]"
+- "[[G2532]]"
+- "[[G5131]]"
+- "[[G3326]]"
+- "[[G5204]]"
+- "[[G2053]]"
+- "[[G2847]]"
+- "[[G5301]]"
+- "[[G0846]]"
+- "[[G5037]]"
+- "[[G0975]]"
+- "[[G4472]]"
+texts:
+- NKO
+- no
+---
+
 **Hebrews 9:19**<big><big>[[Heb.9.11 Redemption through His Blood|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For when Moses had spoken every precept to all the people according to the law, he took the blood of calves and of goats, with water, and scarlet wool, and hyssop, and sprinkled both the book, and all the people,
 <small><sub>**BSB:**</sub></small>
 For when Moses had proclaimed every commandment of the law to all the people, he took the blood of calves and goats, along with water, scarlet wool, and hyssop, and sprinkled the scroll and all the people,
-<small><sub>**Literal:**</sub></small>
-When was being spoken for every commandment according to the law under Moses to all the people, having taken the blood <the> of calves and <the> of goats with water and wool scarlet and hyssop, itself both the book and all the people he sprinkled<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.18|<< Hebrews 9:18]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.20|Hebrews 9:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2980\|λαληθείσης]]  [[G1063\|γὰρ]]  [[G3956\|πάσης]]  [[G1785\|ἐντολῆς]]  [[G2596\|κατὰ]]  [[G3588\|τὸν]]  [[G3551\|νόμον]]  [[G5259G\|ὑπὸ]]  [[G3475\|Μωϋσέως]]  [[G3956\|παντὶ]]  [[G3588\|τῷ]]  [[G2992\|λαῷ,]]  [[G2983\|λαβὼν]]  [[G3588\|τὸ]]  [[G0129G\|αἷμα]]  [[G3588\|τῶν]]  [[G3448\|μόσχων]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G5131\|τράγων]]  [[G3326\|μετὰ]]  [[G5204\|ὕδατος]]  [[G2532\|καὶ]]  [[G2053\|ἐρίου]]  [[G2847\|κοκκίνου]]  [[G2532\|καὶ]]  [[G5301\|ὑσσώπου,]]  [[G0846\|αὐτό]]  [[G5037\|τε]]  [[G3588\|τὸ]]  [[G0975\|βιβλίον]]  [[G2532\|καὶ]]  [[G3956\|πάντα]]  [[G3588\|τὸν]]  [[G2992\|λαὸν]]  [[G4472\|ἐρράντισεν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BLOOD|BLOOD]] • [[topic COLORS|COLORS]] • [[topic HYSSOP|HYSSOP]] • [[topic LAW|LAW]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PURIFICATION|PURIFICATION]] • [[topic SPRINKLING|SPRINKLING]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.18|<< Hebrews 9:18]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.20|Hebrews 9:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

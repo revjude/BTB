@@ -1,10 +1,73 @@
+---
+title: 1 Corinthians 7:5
+type: Verse
+kjv: "Defraud ye not one the other, except it be with consent for a time, that ye may give yourselves to fasting and prayer; and come together again, that Satan tempt you not for your incontinency."
+bsb: "Do not deprive each other, except by mutual consent and for a time, so you may devote yourselves to prayer. Then come together again, so that Satan will not tempt you through your lack of self-control."
+greek: "μὴ ἀποστερεῖτε ἀλλήλους εἰ μήτι ἂν ἐκ συμφώνου πρὸς καιρόν, ἵνα σχολάσητε τῇ νηστείᾳ καὶ τῇ προσευχῇ καὶ πάλιν ἐπὶ τὸ αὐτὸ ἦτε, ἵνα μὴ πειράζῃ ὑμᾶς ὁ σατανᾶς διὰ τὴν ἀκρασίαν ὑμῶν."
+pericope: "[[1Cor.7.1 Principles of Marriage|Principles of Marriage]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 7
+book/chapter: "[[1Cor.7|1 Corinthians 7]]"
+chronological_order: 1064
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic FASTING|FASTING]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic STOICISM|STOICISM]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[G3361]]"
+- "[[G0650]]"
+- "[[G0240]]"
+- "[[G1487H]]"
+- "[[G3385]]"
+- "[[G0302]]"
+- "[[G1537]]"
+- "[[G4859]]"
+- "[[G4314]]"
+- "[[G2540]]"
+- "[[G2443]]"
+- "[[G4980]]"
+- "[[G3588]]"
+- "[[G3521]]"
+- "[[G2532]]"
+- "[[G4335]]"
+- "[[G3825]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G1510]]"
+- "[[G3985G]]"
+- "[[G4771]]"
+- "[[G4567]]"
+- "[[G1223]]"
+- "[[G0192]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **1 Corinthians 7:5**<big><big>[[1Cor.7.1 Principles of Marriage|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Defraud ye not one the other, except [it be] with consent for a time, that ye may give yourselves to fasting and prayer; and come together again, that Satan tempt you not for your incontinency.
 <small><sub>**BSB:**</sub></small>
 Do not deprive each other, except by mutual consent and for a time, so you may devote yourselves to prayer. Then come together again, so that Satan will not tempt you through your lack of self-control.
-<small><sub>**Literal:**</sub></small>
-Not do deprive one another if surely even when by mutual agreement for a time, that you may be devoted <the> to fastings and <the> to prayer and again together the same may be, so that not may tempt you <the> Satan through the lack of self-control of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.4|<< 1 Corinthians 7:4]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.6|1 Corinthians 7:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μὴ]]  [[G0650\|ἀποστερεῖτε]]  [[G0240\|ἀλλήλους]]  [[G1487H\|εἰ]]  [[G3385\|μήτι]]  [[G0302\|ἂν]]  [[G1537\|ἐκ]]  [[G4859\|συμφώνου]]  [[G4314\|πρὸς]]  [[G2540\|καιρόν,]]  [[G2443\|ἵνα]]  [[G4980\|σχολάσητε]]  [[G3588\|τῇ]]  [[G3521\|νηστείᾳ]]  [[G2532\|καὶ]]  [[G3588\|τῇ]]  [[G4335\|προσευχῇ]]  [[G2532\|καὶ]]  [[G3825\|πάλιν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G0846\|αὐτὸ]]  [[G1510\|ἦτε,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G3985G\|πειράζῃ]]  [[G4771\|ὑμᾶς]]  [[G3588\|ὁ]]  [[G4567\|σατανᾶς]]  [[G1223\|διὰ]]  [[G3588\|τὴν]]  [[G0192\|ἀκρασίαν]]  [[G4771\|ὑμῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTINENCE|CONTINENCE]] • [[topic FASTING|FASTING]] • [[topic HUSBAND|HUSBAND]] • [[topic MARRIAGE|MARRIAGE]] • [[topic SATAN|SATAN]] • [[topic STOICISM|STOICISM]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WIFE|WIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.4|<< 1 Corinthians 7:4]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.6|1 Corinthians 7:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

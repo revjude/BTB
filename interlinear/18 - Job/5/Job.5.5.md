@@ -1,8 +1,60 @@
+---
+title: Job 5:5
+type: Verse
+kjv: "Whose harvest the hungry eateth up, and taketh it even out of the thorns, and the robber swalloweth up their substance."
+bsb: "The hungry consume his harvest, taking it even from the thorns, and the thirsty pant after his wealth."
+hebrew: "אֲשֶׁ֤ר קְצִיר֨וֹ׀ רָ֘עֵ֤ב יֹאכֵ֗ל וְאֶֽל־ מִצִּנִּ֥ים יִקָּחֵ֑הוּ וְשָׁאַ֖ף צַמִּ֣ים חֵילָֽם׃"
+pericope: "[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|Eliphaz Continues：God Blesses those Who Seek Him]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 5
+book/chapter: "[[Job.5|Job 5]]"
+chronological_order: 16
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0834A]]"
+- "[[H7105A]]"
+- "[[H9023]]"
+- "[[H9015]]"
+- "[[H7457]]"
+- "[[H0398]]"
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9006]]"
+- "[[H6791]]"
+- "[[H3947G]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H7602A]]"
+- "[[H6782]]"
+- "[[H2428H]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 5:5**<big><big>[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whose harvest the hungry eateth up, and taketh it even out of the thorns, and the robber swalloweth up their substance.
 <small><sub>**BSB:**</sub></small>
 The hungry consume his harvest, taking it even from the thorns, and the thirsty pant after his wealth.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֤ר]] [[H7105A\|קְצִיר֨]][[H9023\|וֹ]][[H9015\|׀]] [[H7457\|רָ֘עֵ֤ב]] [[H0398\|יֹאכֵ֗ל]] [[H9002\|וְ]][[H0413\|אֶֽל]][[H9014\|־]] [[H9006\|מִ]][[H6791\|צִּנִּ֥ים]] [[H3947G\|יִקָּחֵ֑]][[H9033\|הוּ]] [[H9001\|וְ]][[H7602A\|שָׁאַ֖ף]] [[H6782\|צַמִּ֣ים]] [[H2428H\|חֵילָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.4|<< Job 5:4]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.6|Job 5:6 >>]]</td></tr></table>
 

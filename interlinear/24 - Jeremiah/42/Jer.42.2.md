@@ -1,8 +1,79 @@
+---
+title: Jeremiah 42:2
+type: Verse
+kjv: "And said unto Jeremiah the prophet, Let, we beseech thee, our supplication be accepted before thee, and pray for us unto the LORD thy God, even for all this remnant; (for we are left but a few of many, as thine eyes do behold us:)"
+bsb: "Jeremiah the prophet and said, “May our petition come before you; pray to the LORD your God on behalf of this entire remnant. For few of us remain of the many, as you can see with your own eyes."
+hebrew: "וַיֹּאמְר֞וּ אֶֽל־ יִרְמְיָ֣הוּ הַנָּבִ֗יא תִּפָּל־ נָ֤א תְחִנָּתֵ֙נוּ֙ לְפָנֶ֔יךָ וְהִתְפַּלֵּ֤ל בַּעֲדֵ֙נוּ֙ אֶל־ יְהוָ֣ה אֱלֹהֶ֔יךָ בְּעַ֖ד כָּל־ הַשְּׁאֵרִ֣ית הַזֹּ֑את כִּֽי־ נִשְׁאַ֤רְנוּ מְעַט֙ מֵֽהַרְבֵּ֔ה כַּאֲשֶׁ֥ר עֵינֶ֖יךָ רֹא֥וֹת אֹתָֽנוּ׃"
+pericope: "[[Jer.42.1 A Warning against Going to Egypt|A Warning against Going to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 42
+book/chapter: "[[Jer.42|Jeremiah 42]]"
+chronological_order: 765
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic JOHANAN|JOHANAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3414L]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H5307N]]"
+- "[[H4994]]"
+- "[[H8467]]"
+- "[[H9025]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H6419]]"
+- "[[H1157]]"
+- "[[H9035]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3605]]"
+- "[[H7611]]"
+- "[[H2063]]"
+- "[[H3588A]]"
+- "[[H7604]]"
+- "[[H4592]]"
+- "[[H9006]]"
+- "[[H7235A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H5869A]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 42:2**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said unto Jeremiah the prophet, Let, we beseech thee, our supplication be accepted before thee, and pray for us unto the LORD thy God, [even] for all this remnant; (for we are left [but] a few of many, as thine eyes do behold us:)
 <small><sub>**BSB:**</sub></small>
 Jeremiah the prophet and said, “May our petition come before you; pray to the LORD your God on behalf of this entire remnant. For few of us remain of the many, as you can see with your own eyes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֞וּ]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֣הוּ]] [[H9009\|הַ]][[H5030\|נָּבִ֗יא]] [[H5307N\|תִּפָּל]][[H9014\|־]] [[H4994\|נָ֤א]] [[H8467\|תְחִנָּתֵ֙]][[H9025\|נוּ֙]] [[H9005\|לְ]][[H6440G\|פָנֶ֔י]][[H9021\|ךָ]] [[H9002\|וְ]][[H6419\|הִתְפַּלֵּ֤ל]] [[H1157\|בַּעֲדֵ֙]][[H9035\|נוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H1157\|בְּעַ֖ד]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H7611\|שְּׁאֵרִ֣ית]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7604\|נִשְׁאַ֤רְנוּ]] [[H4592\|מְעַט֙]] [[H9006\|מֵֽ]][[H7235A\|הַרְבֵּ֔ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H5869A\|עֵינֶ֖י]][[H9021\|ךָ]] [[H7200G\|רֹא֥וֹת]] [[H0853\|אֹתָֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JEREMIAH|JEREMIAH]] • [[topic JOHANAN|JOHANAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.1|<< Jeremiah 42:1]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.3|Jeremiah 42:3 >>]]</td></tr></table>
 

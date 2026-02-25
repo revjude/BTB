@@ -1,10 +1,61 @@
+---
+title: Acts 1:15
+type: Verse
+kjv: "And in those days Peter stood up in the midst of the disciples, and said, (the number of names together were about an hundred and twenty,)"
+bsb: "In those days Peter stood up among the brothers (a gathering of about a hundred and twenty) and said,"
+greek: "Καὶ ἐν ταῖς ἡμέραις ταύταις ἀναστὰς Πέτρος ἐν μέσῳ τῶν ἀδελφῶν εἶπεν· ἦν τε ὄχλος ὀνομάτων ἐπὶ τὸ αὐτὸ ὡσεὶ ἑκατὸν εἴκοσι·"
+pericope: "[[Acts.1.12 Matthias Replaces Judas|Matthias Replaces Judas]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 1
+book/chapter: "[[Acts.1|Acts 1]]"
+chronological_order: 1019
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic MATTHIAS|MATTHIAS]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3778]]"
+- "[[G0450]]"
+- "[[G4074G]]"
+- "[[G3319]]"
+- "[[G0080]]"
+- "[[G2036]]"
+- "[[G1510]]"
+- "[[G5037]]"
+- "[[G3793]]"
+- "[[G3686]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G5616]]"
+- "[[G1540]]"
+- "[[G1501]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Acts 1:15**<big><big>[[Acts.1.12 Matthias Replaces Judas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And in those days Peter stood up in the midst of the disciples, and said, (the number of names together were about an hundred and twenty,)
 <small><sub>**BSB:**</sub></small>
 In those days Peter stood up among the brothers (a gathering of about a hundred and twenty) and said,
-<small><sub>**Literal:**</sub></small>
-And in <the> days these having stood up Peter in [the] midst of the brothers he said — was then [the] number of names together the same about a hundred twenty —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.14|<< Acts 1:14]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.16|Acts 1:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις]]  [[G3778\|ταύταις]]  [[G0450\|ἀναστὰς]]  [[G4074G\|Πέτρος]]  [[G1722\|ἐν]]  [[G3319\|μέσῳ]]  [[G3588\|τῶν]]  [[G0080\|ἀδελφῶν]]  [[G2036\|εἶπεν·]]  [[G1510\|ἦν]]  [[G5037\|τε]]  [[G3793\|ὄχλος]]  [[G3686\|ὀνομάτων]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G0846\|αὐτὸ]]  [[G5616\|ὡσεὶ]]  [[G1540\|ἑκατὸν]]  [[G1501\|εἴκοσι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic MATTHIAS|MATTHIAS]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.14|<< Acts 1:14]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.16|Acts 1:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

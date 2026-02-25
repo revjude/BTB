@@ -1,8 +1,72 @@
+---
+title: 1 Samuel 7:6
+type: Verse
+kjv: "And they gathered together to Mizpeh, and drew water, and poured it out before the LORD, and fasted on that day, and said there, We have sinned against the LORD. And Samuel judged the children of Israel in Mizpeh."
+bsb: "When they had gathered at Mizpah, they drew water and poured it out before the LORD. On that day they fasted, and there they confessed, “We have sinned against the LORD.” And Samuel judged the Israelites at Mizpah."
+hebrew: "וַיִּקָּבְצ֣וּ הַ֠מִּצְפָּתָה וַיִּֽשְׁאֲבוּ־ מַ֜יִם וַֽיִּשְׁפְּכ֣וּ׀ לִפְנֵ֣י יְהוָ֗ה וַיָּצ֙וּמוּ֙ בַּיּ֣וֹם הַה֔וּא וַיֹּ֣אמְרוּ שָׁ֔ם חָטָ֖אנוּ לַיהוָ֑ה וַיִּשְׁפֹּ֧ט שְׁמוּאֵ֛ל אֶת־ בְּנֵ֥י יִשְׂרָאֵ֖ל בַּמִּצְפָּֽה׃"
+pericope: "[[1Sam.7.1 Samuel Subdues the Philistines|Samuel Subdues the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 7
+book/chapter: "[[1Sam.7|1 Samuel 7]]"
+chronological_order: 286
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic FASTING|FASTING]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H9001]]"
+- "[[H6908]]"
+- "[[H9009]]"
+- "[[H4709G]]"
+- "[[H9011]]"
+- "[[H7579]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H8210G]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H6684]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H0559]]"
+- "[[H8033G]]"
+- "[[H2398]]"
+- "[[H8199]]"
+- "[[H8050G]]"
+- "[[H0853]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 7:6**<big><big>[[1Sam.7.1 Samuel Subdues the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they gathered together to Mizpeh, and drew water, and poured [it] out before the LORD, and fasted on that day, and said there, We have sinned against the LORD. And Samuel judged the children of Israel in Mizpeh.
 <small><sub>**BSB:**</sub></small>
 When they had gathered at Mizpah, they drew water and poured it out before the LORD. On that day they fasted, and there they confessed, “We have sinned against the LORD.” And Samuel judged the Israelites at Mizpah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6908\|יִּקָּבְצ֣וּ]] [[H9009\|הַ֠]][[H4709G\|מִּצְפָּתָ]][[H9011\|ה]] [[H9001\|וַ]][[H7579\|יִּֽשְׁאֲבוּ]][[H9014\|־]] [[H4325G\|מַ֜יִם]] [[H9001\|וַֽ]][[H8210G\|יִּשְׁפְּכ֣וּ]][[H9015\|׀]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֗ה]] [[H9001\|וַ]][[H6684\|יָּצ֙וּמוּ֙]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H9001\|וַ]][[H0559\|יֹּ֣אמְרוּ]] [[H8033G\|שָׁ֔ם]] [[H2398\|חָטָ֖אנוּ]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H9001\|וַ]][[H8199\|יִּשְׁפֹּ֧ט]] [[H8050G\|שְׁמוּאֵ֛ל]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בַּ]][[H4709G\|מִּצְפָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FASTING|FASTING]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JUDGE|JUDGE]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REVIVALS|REVIVALS]] • [[topic SAMUEL|SAMUEL]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.7.5|<< 1 Samuel 7:5]]</td><td align="center" style="border:none;">[[1Sam.7|1 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.7.7|1 Samuel 7:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

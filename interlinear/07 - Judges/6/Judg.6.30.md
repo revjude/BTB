@@ -1,8 +1,70 @@
+---
+title: Judges 6:30
+type: Verse
+kjv: "Then the men of the city said unto Joash, Bring out thy son, that he may die: because he hath cast down the altar of Baal, and because he hath cut down the grove that was by it."
+bsb: "Then the men of the city said to Joash, “Bring out your son. He must die, because he has torn down Baal’s altar and cut down the Asherah pole beside it.”"
+hebrew: "וַיֹּ֨אמְר֜וּ אַנְשֵׁ֤י הָעִיר֙ אֶל־ יוֹאָ֔שׁ הוֹצֵ֥א אֶת־ בִּנְךָ֖ וְיָמֹ֑ת כִּ֤י נָתַץ֙ אֶת־ מִזְבַּ֣ח הַבַּ֔עַל וְכִ֥י כָרַ֖ת הָאֲשֵׁרָ֥ה אֲשֶׁר־ עָלָֽיו׃"
+pericope: "[[Judg.6.25 Gideon Destroys Baal’s Altar|Gideon Destroys Baal’s Altar]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 6
+book/chapter: "[[Judg.6|Judges 6]]"
+chronological_order: 260
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BAAL|BAAL]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0582]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3101G]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H4191]]"
+- "[[H3588A]]"
+- "[[H5422]]"
+- "[[H4196]]"
+- "[[H1168A]]"
+- "[[H3772G]]"
+- "[[H0842]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 6:30**<big><big>[[Judg.6.25 Gideon Destroys Baal’s Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the men of the city said unto Joash, Bring out thy son, that he may die: because he hath cast down the altar of Baal, and because he hath cut down the grove that [was] by it.
 <small><sub>**BSB:**</sub></small>
 Then the men of the city said to Joash, “Bring out your son. He must die, because he has torn down Baal’s altar and cut down the Asherah pole beside it.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמְר֜וּ]] [[H0582\|אַנְשֵׁ֤י]] [[H9009\|הָ]][[H5892B\|עִיר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3101G\|יוֹאָ֔שׁ]] [[H3318H\|הוֹצֵ֥א]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בִּנְ]][[H9021\|ךָ֖]] [[H9002\|וְ]][[H4191\|יָמֹ֑ת]] [[H3588A\|כִּ֤י]] [[H5422\|נָתַץ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4196\|מִזְבַּ֣ח]] [[H9009\|הַ]][[H1168A\|בַּ֔עַל]] [[H9002\|וְ]][[H3588A\|כִ֥י]] [[H3772G\|כָרַ֖ת]] [[H9009\|הָ]][[H0842\|אֲשֵׁרָ֥ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5921A\|עָלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL|BAAL]] • [[topic COURAGE|COURAGE]] • [[topic DECISION|DECISION]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic JUDGE|JUDGE]] • [[topic PERSECUTION|PERSECUTION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.29|<< Judges 6:29]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.31|Judges 6:31 >>]]</td></tr></table>
 

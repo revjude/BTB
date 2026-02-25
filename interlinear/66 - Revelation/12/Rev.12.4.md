@@ -1,10 +1,65 @@
+---
+title: Revelation 12:4
+type: Verse
+kjv: "And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, for to devour her child as soon as it was born."
+bsb: "His tail swept a third of the stars from the sky, hurling them to the earth. And the dragon stood before the woman who was about to give birth, ready to devour her child as soon as she gave birth."
+greek: "καὶ ἡ οὐρὰ αὐτοῦ σύρει τὸ τρίτον τῶν ἀστέρων τοῦ οὐρανοῦ καὶ ἔβαλεν αὐτοὺς εἰς τὴν γῆν. καὶ ὁ δράκων ἕστηκεν ἐνώπιον τῆς γυναικὸς τῆς μελλούσης τεκεῖν, ἵνα ὅταν τέκῃ τὸ τέκνον αὐτῆς καταφάγῃ."
+pericope: "[[Rev.12.1 The Woman and the Dragon|The Woman and the Dragon]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 12
+book/chapter: "[[Rev.12|Revelation 12]]"
+chronological_order: 1179
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic STARS|STARS]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3769]]"
+- "[[G0846]]"
+- "[[G4951]]"
+- "[[G5154]]"
+- "[[G0792]]"
+- "[[G3772]]"
+- "[[G0906G]]"
+- "[[G1519]]"
+- "[[G1093G]]"
+- "[[G1404]]"
+- "[[G2476]]"
+- "[[G1799]]"
+- "[[G1135G]]"
+- "[[G3195]]"
+- "[[G5088]]"
+- "[[G2443]]"
+- "[[G3752]]"
+- "[[G5043]]"
+- "[[G2719]]"
+texts:
+- NKO
+---
+
 **Revelation 12:4**<big><big>[[Rev.12.1 The Woman and the Dragon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, for to devour her child as soon as it was born.
 <small><sub>**BSB:**</sub></small>
 His tail swept a third of the stars from the sky, hurling them to the earth. And the dragon stood before the woman who was about to give birth, ready to devour her child as soon as she gave birth.
-<small><sub>**Literal:**</sub></small>
-And the tail of him drags <the> a third of the stars <the> of heaven and he cast them to the earth. and the dragon has stood before the woman who is being about to bring forth, so that when she may bring forth the child of her he may devour.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.3|<< Revelation 12:3]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.5|Revelation 12:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G3769\|οὐρὰ]]  [[G0846\|αὐτοῦ]]  [[G4951\|σύρει]]  [[G3588\|τὸ]]  [[G5154\|τρίτον]]  [[G3588\|τῶν]]  [[G0792\|ἀστέρων]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G2532\|καὶ]]  [[G0906G\|ἔβαλεν]]  [[G0846\|αὐτοὺς]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1093G\|γῆν.]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G1404\|δράκων]]  [[G2476\|ἕστηκεν]]  [[G1799\|ἐνώπιον]]  [[G3588\|τῆς]]  [[G1135G\|γυναικὸς]]  [[G3588\|τῆς]]  [[G3195\|μελλούσης]]  [[G5088\|τεκεῖν,]]  [[G2443\|ἵνα]]  [[G3752\|ὅταν]]  [[G5088\|τέκῃ]]  [[G3588\|τὸ]]  [[G5043\|τέκνον]]  [[G0846\|αὐτῆς]]  [[G2719\|καταφάγῃ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTRONOMY|ASTRONOMY]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic STARS|STARS]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.3|<< Revelation 12:3]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.5|Revelation 12:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 12:4** is...
 > $\quad$ possibly alluding to: [[LXX.Dan.8.10|Dan 8:10]]

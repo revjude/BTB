@@ -1,8 +1,73 @@
+---
+title: 1 Kings 18:4
+type: Verse
+kjv: "For it was so, when Jezebel cut off the prophets of the LORD, that Obadiah took an hundred prophets, and hid them by fifty in a cave, and fed them with bread and water.)"
+bsb: "for when Jezebel had slaughtered the prophets of the LORD, Obadiah had taken a hundred prophets and hidden them, fifty men per cave, providing them with food and water.)"
+hebrew: "וַיְהִי֙ בְּהַכְרִ֣ית אִיזֶ֔בֶל אֵ֖ת נְבִיאֵ֣י יְהוָ֑ה וַיִּקַּ֨ח עֹבַדְיָ֜הוּ מֵאָ֣ה נְבִאִ֗ים וַֽיַּחְבִּיאֵ֞ם חֲמִשִּׁ֥ים אִישׁ֙ בַּמְּעָרָ֔ה וְכִלְכְּלָ֖ם לֶ֥חֶם וָמָֽיִם׃"
+pericope: "[[1Kgs.18.1 Elijah’s Message to Ahab|Elijah’s Message to Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 18
+book/chapter: "[[1Kgs.18|1 Kings 18]]"
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CAVE|CAVE]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JEZEBEL|JEZEBEL]]"
+- "[[topic KING|KING]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic OBADIAH|OBADIAH]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3772I]]"
+- "[[H0348]]"
+- "[[H0853]]"
+- "[[H5030]]"
+- "[[H3068G]]"
+- "[[H3947G]]"
+- "[[H5662G]]"
+- "[[H3967]]"
+- "[[H2244]]"
+- "[[H9038]]"
+- "[[H2572]]"
+- "[[H0376G]]"
+- "[[H4631]]"
+- "[[H3557]]"
+- "[[H3899H]]"
+- "[[H9002]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 18:4**<big><big>[[1Kgs.18.1 Elijah’s Message to Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For it was [so], when Jezebel cut off the prophets of the LORD, that Obadiah took an hundred prophets, and hid them by fifty in a cave, and fed them with bread and water.)
 <small><sub>**BSB:**</sub></small>
 for when Jezebel had slaughtered the prophets of the LORD, Obadiah had taken a hundred prophets and hidden them, fifty men per cave, providing them with food and water.)
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֙]] [[H9003\|בְּ]][[H3772I\|הַכְרִ֣ית]] [[H0348\|אִיזֶ֔בֶל]] [[H0853\|אֵ֖ת]] [[H5030\|נְבִיאֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H3947G\|יִּקַּ֨ח]] [[H5662G\|עֹבַדְיָ֜הוּ]] [[H3967\|מֵאָ֣ה]] [[H5030\|נְבִאִ֗ים]] [[H9001\|וַֽ]][[H2244\|יַּחְבִּיאֵ֞]][[H9038\|ם]] [[H2572\|חֲמִשִּׁ֥ים]] [[H0376G\|אִישׁ֙]] [[H9003\|בַּ]][[H4631\|מְּעָרָ֔ה]] [[H9001\|וְ]][[H3557\|כִלְכְּלָ֖]][[H9038\|ם]] [[H3899H\|לֶ֥חֶם]] [[H9002\|וָ]][[H4325G\|מָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAVE|CAVE]] • [[topic ELIJAH|ELIJAH]] • [[topic ISRAEL|ISRAEL]] • [[topic JEZEBEL|JEZEBEL]] • [[topic KING|KING]] • [[topic LOVE|LOVE]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic OBADIAH|OBADIAH]] • [[topic PERSECUTION|PERSECUTION]] • [[topic REVERENCE|REVERENCE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.3|<< 1 Kings 18:3]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.5|1 Kings 18:5 >>]]</td></tr></table>
 

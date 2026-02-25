@@ -1,8 +1,64 @@
+---
+title: Jeremiah 50:25
+type: Verse
+kjv: "The LORD hath opened his armoury, and hath brought forth the weapons of his indignation: for this is the work of the Lord GOD of hosts in the land of the Chaldeans."
+bsb: "The LORD has opened His armory and brought out His weapons of wrath, for this is the work of the Lord GOD of Hosts in the land of the Chaldeans."
+hebrew: "פָּתַ֤ח יְהוָה֙ אֶת־ א֣וֹצָר֔וֹ וַיּוֹצֵ֖א אֶת־ כְּלֵ֣י זַעְמ֑וֹ כִּי־ מְלָאכָ֣ה הִ֗יא לַֽאדֹנָ֧י יְהוִ֛ה צְבָא֖וֹת בְּאֶ֥רֶץ כַּשְׂדִּֽים׃"
+pericope: "[[Jer.50.21 The Destruction of Babylon|The Destruction of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ARMORY|ARMORY]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H6605A]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0214]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H3627]]"
+- "[[H2195]]"
+- "[[H3588A]]"
+- "[[H4399]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H6635B]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3778]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 50:25**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD hath opened his armoury, and hath brought forth the weapons of his indignation: for this [is] the work of the Lord GOD of hosts in the land of the Chaldeans.
 <small><sub>**BSB:**</sub></small>
 The LORD has opened His armory and brought out His weapons of wrath, for this is the work of the Lord GOD of Hosts in the land of the Chaldeans.
+<small><sub>**Hebrew:**</sub></small>
+[[H6605A\|פָּתַ֤ח]] [[H3068G\|יְהוָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0214\|א֣וֹצָר֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H3318H\|יּוֹצֵ֖א]] [[H0853\|אֶת]][[H9014\|־]] [[H3627\|כְּלֵ֣י]] [[H2195\|זַעְמ֑]][[H9023\|וֹ]] [[H3588A\|כִּי]][[H9014\|־]] [[H4399\|מְלָאכָ֣ה]] [[H1931\|הִ֗יא]] [[H9005\|לַֽ]][[H0136\|אדֹנָ֧י]] [[H3069\|יְהוִ֛ה]] [[H6635B\|צְבָא֖וֹת]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H3778\|כַּשְׂדִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMORY|ARMORY]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.24|<< Jeremiah 50:24]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.26|Jeremiah 50:26 >>]]</td></tr></table>
 

@@ -1,6 +1,74 @@
+---
+title: LXX Isaiah 14:20
+type: Verse
+lxx: "In which manner a garment being befouled by blood shall not be clean, so not even shall you be clean; because  you destroyed my land, and  killed my people; in no way should you abide into the eon of time -- O evil seed."
+greek: "ον τρόπον ιμάτιον εν αίματι πεφυρμένον ουκ έσται καθαρόν ούτως ουδέ συ έση καθαρός διότι την γην μου απώλεσας και τον λαόν μου απέκτεινας ου μη μείνης εις τον αιώνα χρόνον σπέρμα πονηρόν"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 14
+book/chapter: "[[Isa.14|Isaiah 14]]"
+chronological_order: 631
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic HEREDITY|HEREDITY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G3739]]"
+- "[[G5158]]"
+- "[[G2440]]"
+- "[[G1722]]"
+- "[[G0129]]"
+- "[[G9683]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G2513]]"
+- "[[G3779]]"
+- "[[G3761]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G2513]]"
+- "[[G1360]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G1473]]"
+- "[[G0622]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G1473]]"
+- "[[G0615]]"
+- "[[G3364]]"
+- "[[G3306]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0165]]"
+- "[[G5550]]"
+- "[[G4690]]"
+- "[[G4190]]"
+---
+
 **LXX Isaiah 14:20** 
 <small><sub>**LXX:**</sub></small>
 In which manner a garment being befouled by blood shall not be clean, so not even shall you be clean; because  you destroyed my land, and  killed my people; in no way should you abide into the eon of time -- O evil seed. 
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ον]] [[G5158\|τρόπον]] [[G2440\|ιμάτιον]] [[G1722\|εν]] [[G0129\|αίματι]] [[G9683\|πεφυρμένον]] [[G3756\|ουκ]] [[G1510\|έσται]] [[G2513\|καθαρόν]] [[G3779\|ούτως]] [[G3761\|ουδέ]] [[G1473\|συ]] [[G1510\|έση]] [[G2513\|καθαρός]] [[G1360\|διότι]] [[G3588\|την]] [[G1093\|γην]] [[G1473\|μου]] [[G0622\|απώλεσας]] [[G2532\|και]] [[G3588\|τον]] [[G2992\|λαόν]] [[G1473\|μου]] [[G0615\|απέκτεινας]] [[G3364\|ου μη]] [[G3306\|μείνης]] [[G1519\|εις]] [[G3588\|τον]] [[G0165\|αιώνα]] [[G5550\|χρόνον]] [[G4690\|σπέρμα]] [[G4190\|πονηρόν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CHILDREN|CHILDREN]] • [[topic HEREDITY|HEREDITY]] • [[topic ISAIAH|ISAIAH]] • [[topic PARENTS|PARENTS]] • [[topic RULERS|RULERS]] • [[topic SIN|SIN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.14.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.19|<< Isaiah 14:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.21|Isaiah 14:21 >>]]</td></tr></table>
 
@@ -34,6 +102,6 @@ In which manner a garment being befouled by blood shall not be clean, so not eve
 | of time -- | **<big>[[G5550\|χρόνον]]</big>** |
 | seed | **<big>[[G4690\|σπέρμα]]</big>** |
 | O evil | **<big>[[G4190\|πονηρόν]]</big>** |
-[[Isa.14.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.19|<< Isaiah 14:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.21|Isaiah 14:21 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.19|<< Isaiah 14:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.21|Isaiah 14:21 >>]]</td></tr></table>
 
 

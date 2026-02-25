@@ -1,8 +1,61 @@
+---
+title: Isaiah 65:6
+type: Verse
+kjv: "Behold, it is written before me: I will not keep silence, but will recompense, even recompense into their bosom,"
+bsb: "Behold, it is written before Me: I will not keep silent, but I will repay; I will pay it back into their laps,"
+hebrew: "הִנֵּ֥ה כְתוּבָ֖ה לְפָנָ֑י לֹ֤א אֶחֱשֶׂה֙ כִּ֣י אִם־ שִׁלַּ֔מְתִּי וְשִׁלַּמְתִּ֖י עַל־ חֵיקָֽם׃"
+pericope: "[[Isa.65.1 Judgments and Promises|Judgments and Promises]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 65
+book/chapter: "[[Isa.65|Isaiah 65]]"
+chronological_order: 704
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEREDITY|HEREDITY]]"
+strongs:
+- "[[H2009]]"
+- "[[H3789]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H2814]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H9014]]"
+- "[[H7999A]]"
+- "[[H9001]]"
+- "[[H5921A]]"
+- "[[H2436I]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 65:6**<big><big>[[Isa.65.1 Judgments and Promises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, [it is] written before me: I will not keep silence, but will recompense, even recompense into their bosom,
 <small><sub>**BSB:**</sub></small>
 Behold, it is written before Me: I will not keep silent, but I will repay; I will pay it back into their laps,
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֥ה]] [[H3789\|כְתוּבָ֖ה]] [[H9005\|לְ]][[H6440G\|פָנָ֑]][[H9020\|י]] [[H3808\|לֹ֤א]] [[H2814\|אֶחֱשֶׂה֙]] [[H3588B\|כִּ֣י]] [[H0518B\|אִם]][[H9014\|־]] [[H7999A\|שִׁלַּ֔מְתִּי]] [[H9001\|וְ]][[H7999A\|שִׁלַּמְתִּ֖י]] [[H5921A\|עַל]][[H9014\|־]] [[H2436I\|חֵיקָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic HEREDITY|HEREDITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.5|<< Isaiah 65:5]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.7|Isaiah 65:7 >>]]</td></tr></table>
 

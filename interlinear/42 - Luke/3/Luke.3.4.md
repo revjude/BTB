@@ -1,10 +1,64 @@
+---
+title: Luke 3:4
+type: Verse
+kjv: "As it is written in the book of the words of Esaias the prophet, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight."
+bsb: "as it is written in the book of the words of Isaiah the prophet: “A voice of one calling in the wilderness, ‘Prepare the way for the Lord, make straight paths for Him."
+greek: "ὡς γέγραπται ἐν βίβλῳ λόγων Ἠσαΐου τοῦ προφήτου λέγοντος· φωνὴ βοῶντος ἐν τῇ ἐρήμῳ ἑτοιμάσατε τὴν ὁδὸν κυρίου, εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ."
+pericope: "[[Luke.3.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 3
+book/chapter: "[[Luke.3|Luke 3]]"
+chronological_order: 937
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G5613]]"
+- "[[G1125]]"
+- "[[G1722]]"
+- "[[G0976]]"
+- "[[G3056]]"
+- "[[G2268]]"
+- "[[G3588]]"
+- "[[G4396]]"
+- "[[G3004G]]"
+- "[[G5456G]]"
+- "[[G0994]]"
+- "[[G2048]]"
+- "[[G2090]]"
+- "[[G3598]]"
+- "[[G2962G]]"
+- "[[G2117]]"
+- "[[G4160G]]"
+- "[[G5147]]"
+- "[[G0846]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 3:4**<big><big>[[Luke.3.1 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As it is written in the book of the words of Esaias the prophet, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.
 <small><sub>**BSB:**</sub></small>
 as it is written in the book of the words of Isaiah the prophet: “A voice of one calling in the wilderness, ‘Prepare the way for the Lord, make straight paths for Him.
-<small><sub>**Literal:**</sub></small>
-as it has been written in [the] book of [the] words of Isaiah the prophet saying: [The] voice of one crying in the wilderness do prepare the way of [the] Lord, straight do make the paths of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.3|<< Luke 3:3]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.5|Luke 3:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G1125\|γέγραπται]]  [[G1722\|ἐν]]  [[G0976\|βίβλῳ]]  [[G3056\|λόγων]]  [[G2268\|Ἠσαΐου]]  [[G3588\|τοῦ]]  [[G4396\|προφήτου]]  [[G3004G\|λέγοντος·]]  [[G5456G\|φωνὴ]]  [[G0994\|βοῶντος]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2048\|ἐρήμῳ]]  [[G2090\|ἑτοιμάσατε]]  [[G3588\|τὴν]]  [[G3598\|ὁδὸν]]  [[G2962G\|κυρίου,]]  [[G2117\|εὐθείας]]  [[G4160G\|ποιεῖτε]]  [[G3588\|τὰς]]  [[G5147\|τρίβους]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.3|<< Luke 3:3]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.5|Luke 3:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 3:4** is...
 > $\quad$ referencing: [[LXX.Isa.40.3|Isa 40:3-5]]

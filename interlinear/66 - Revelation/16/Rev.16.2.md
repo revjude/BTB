@@ -1,10 +1,65 @@
+---
+title: Revelation 16:2
+type: Verse
+kjv: "And the first went, and poured out his vial upon the earth; and there fell a noisome and grievous sore upon the men which had the mark of the beast, and upon them which worshipped his image."
+bsb: "So the first angel went and poured out his bowl on the earth, and loathsome, malignant sores broke out on those who had the mark of the beast and worshiped its image."
+greek: "Καὶ ἀπῆλθεν ὁ πρῶτος καὶ ἐξέχεεν τὴν φιάλην αὐτοῦ εἰς τὴν γῆν, καὶ ἐγένετο ἕλκος κακὸν καὶ πονηρὸν ἐπὶ τοὺς ἀνθρώπους τοὺς ἔχοντας τὸ χάραγμα τοῦ θηρίου καὶ τοὺς προσκυνοῦντας τῇ εἰκόνι αὐτοῦ.¶"
+pericope: "[[Rev.16.1 The First Six Bowls of Wrath|The First Six Bowls of Wrath]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 16
+book/chapter: "[[Rev.16|Revelation 16]]"
+chronological_order: 1183
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G0565]]"
+- "[[G3588]]"
+- "[[G4413G]]"
+- "[[G1632]]"
+- "[[G5357]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G1093G]]"
+- "[[G1096]]"
+- "[[G1668]]"
+- "[[G2556H]]"
+- "[[G4190]]"
+- "[[G1909]]"
+- "[[G0444]]"
+- "[[G2192]]"
+- "[[G5480]]"
+- "[[G2342]]"
+- "[[G4352]]"
+- "[[G1504]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 16:2**<big><big>[[Rev.16.1 The First Six Bowls of Wrath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the first went, and poured out his vial upon the earth; and there fell a noisome and grievous sore upon the men which had the mark of the beast, and [upon] them which worshipped his image.
 <small><sub>**BSB:**</sub></small>
 So the first angel went and poured out his bowl on the earth, and loathsome, malignant sores broke out on those who had the mark of the beast and worshiped its image.
-<small><sub>**Literal:**</sub></small>
-And departed the first and poured out the bowl of him into the earth, and came a sore harm and grievous upon the men those having the mark of the beast and those worshiping the image of it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.1|<< Revelation 16:1]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.3|Revelation 16:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0565\|ἀπῆλθεν]]  [[G3588\|ὁ]]  [[G4413G\|πρῶτος]]  [[G2532\|καὶ]]  [[G1632\|ἐξέχεεν]]  [[G3588\|τὴν]]  [[G5357\|φιάλην]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1093G\|γῆν,]]  [[G2532\|καὶ]]  [[G1096\|ἐγένετο]]  [[G1668\|ἕλκος]]  [[G2556H\|κακὸν]]  [[G2532\|καὶ]]  [[G4190\|πονηρὸν]]  [[G1909\|ἐπὶ]]  [[G3588\|τοὺς]]  [[G0444\|ἀνθρώπους]]  [[G3588\|τοὺς]]  [[G2192\|ἔχοντας]]  [[G3588\|τὸ]]  [[G5480\|χάραγμα]]  [[G3588\|τοῦ]]  [[G2342\|θηρίου]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G4352\|προσκυνοῦντας]]  [[G3588\|τῇ]]  [[G1504\|εἰκόνι]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic TEMPLE|TEMPLE]] • [[topic VISION|VISION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.1|<< Revelation 16:1]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.3|Revelation 16:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 16:2** is...
 > $\quad$ possibly alluding to: [[LXX.Exod.9.10|Exod 9:10]] ☩ [[LXX.Ezek.10.2|Ezek 10:2]]

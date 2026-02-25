@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Ninth Plague：Darkness
+type: Pericope
 pericope: "[[Exod.10.21 The Ninth Plague：Darkness|The Ninth Plague：Darkness]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 10
 book/chapter: "[[Exod.10|Exodus 10]]"
-genre:
+chronological_order: 102
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 9
 verses:
 - "[[Exod.10.21]]"
 - "[[Exod.10.22]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Exod.10.29]]"
 ---
 
-[[Exod.10|Exodus 10:21 - Exodus 10:29]]
+<small>[[Exod.10|Exodus 10:21-29]]</small>
 *The Ninth Plague：Darkness*
 
 [[Exod.10.21|21]] And the LORD said unto Moses, Stretch out thine hand toward heaven, that there may be darkness over the land of Egypt, even darkness \[which\] may be felt.

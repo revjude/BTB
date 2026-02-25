@@ -1,8 +1,66 @@
+---
+title: Numbers 7:71
+type: Verse
+kjv: "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Ahiezer the son of Ammishaddai."
+bsb: "and a peace offering of two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Ahiezer son of Ammishaddai."
+hebrew: "וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַיִם֒ אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵֽי־ שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קָרְבַּ֥ן אֲחִיעֶ֖זֶר בֶּן־ עַמִּישַׁדָּֽי׃ פ"
+pericope: "[[Num.7.1 Offerings of Dedication|Offerings of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 7
+book/chapter: "[[Num.7|Numbers 7]]"
+chronological_order: 166
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AHIEZER|AHIEZER]]"
+- "[[topic SHEKEL|SHEKEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H2077]]"
+- "[[H9009]]"
+- "[[H8002]]"
+- "[[H1241]]"
+- "[[H8147]]"
+- "[[H0352A]]"
+- "[[H2568]]"
+- "[[H6260]]"
+- "[[H3532]]"
+- "[[H1121H]]"
+- "[[H9014]]"
+- "[[H8141]]"
+- "[[H2088]]"
+- "[[H7133A]]"
+- "[[H0295G]]"
+- "[[H1121A]]"
+- "[[H5996]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Numbers 7:71**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this [was] the offering of Ahiezer the son of Ammishaddai.
 <small><sub>**BSB:**</sub></small>
 and a peace offering of two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Ahiezer son of Ammishaddai.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H2077\|זֶ֣בַח]] [[H9009\|הַ]][[H8002\|שְּׁלָמִים֮]] [[H1241\|בָּקָ֣ר]] [[H8147\|שְׁנַיִם֒]] [[H0352A\|אֵילִ֤ם]] [[H2568\|חֲמִשָּׁה֙]] [[H6260\|עַתֻּדִ֣ים]] [[H2568\|חֲמִשָּׁ֔ה]] [[H3532\|כְּבָשִׂ֥ים]] [[H1121H\|בְּנֵֽי]][[H9014\|־]] [[H8141\|שָׁנָ֖ה]] [[H2568\|חֲמִשָּׁ֑ה]] [[H2088\|זֶ֛ה]] [[H7133A\|קָרְבַּ֥ן]] [[H0295G\|אֲחִיעֶ֖זֶר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5996\|עַמִּישַׁדָּֽי]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIEZER|AHIEZER]] • [[topic SHEKEL|SHEKEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.71|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.70|<< Numbers 7:70]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.72|Numbers 7:72 >>]]</td></tr></table>
 
@@ -24,7 +82,7 @@ and a peace offering of two oxen, five rams, five male goats, and five male lamb
 | [was] [the] offering of  |**<big>&#8207;[[H7133A\|קָרְבַּ֥ן]]&#8207; </big>**| ka.re.Ban<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ahiezer  |**<big>&#8207;[[H0295G\|אֲחִיעֶ֖זֶר]]&#8207; </big>**| 'a.chi.'E.zer<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ammishaddai  |**<big>&#8207;[[H5996\|עַמִּישַׁדָּֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'am.mi.sha.Dai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ammishaddai  |**<big>&#8207;[[H5996\|עַמִּישַׁדָּֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'am.mi.sha.Dai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.70|<< Numbers 7:70]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.72|Numbers 7:72 >>]]</td></tr></table>
 
 

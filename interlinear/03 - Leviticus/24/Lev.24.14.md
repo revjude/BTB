@@ -1,8 +1,74 @@
+---
+title: Leviticus 24:14
+type: Verse
+kjv: "Bring forth him that hath cursed without the camp; and let all that heard him lay their hands upon his head, and let all the congregation stone him."
+bsb: "“Take the blasphemer outside the camp, and have all who heard him lay their hands on his head; then have the whole assembly stone him."
+hebrew: "הוֹצֵ֣א אֶת־ הַֽמְקַלֵּ֗ל אֶל־ מִחוּץ֙ לַֽמַּחֲנֶ֔ה וְסָמְכ֧וּ כָֽל־ הַשֹּׁמְעִ֛ים אֶת־ יְדֵיהֶ֖ם עַל־ רֹאשׁ֑וֹ וְרָגְמ֥וּ אֹת֖וֹ כָּל־ הָעֵדָֽה׃"
+pericope: "[[Lev.24.10 Punishment for Blasphemy|Punishment for Blasphemy]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 24
+book/chapter: "[[Lev.24|Leviticus 24]]"
+chronological_order: 156
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic EVIDENCE|EVIDENCE]]"
+- "[[topic HAND|HAND]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic TRIAL|TRIAL]]"
+- "[[topic WITNESS|WITNESS]]"
+strongs:
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7043]]"
+- "[[H0413]]"
+- "[[H9006]]"
+- "[[H2351]]"
+- "[[H9005]]"
+- "[[H4264]]"
+- "[[H9001]]"
+- "[[H5564]]"
+- "[[H3605]]"
+- "[[H8085G]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H5921A]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H7275]]"
+- "[[H9033]]"
+- "[[H5712]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 24:14**<big><big>[[Lev.24.10 Punishment for Blasphemy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bring forth him that hath cursed without the camp; and let all that heard [him] lay their hands upon his head, and let all the congregation stone him.
 <small><sub>**BSB:**</sub></small>
 “Take the blasphemer outside the camp, and have all who heard him lay their hands on his head; then have the whole assembly stone him.
+<small><sub>**Hebrew:**</sub></small>
+[[H3318H\|הוֹצֵ֣א]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H7043\|מְקַלֵּ֗ל]] [[H0413\|אֶל]][[H9014\|־]] [[H9006\|מִ]][[H2351\|חוּץ֙]] [[H9005\|לַֽ]][[H4264\|מַּחֲנֶ֔ה]] [[H9001\|וְ]][[H5564\|סָמְכ֧וּ]] [[H3605\|כָֽל]][[H9014\|־]] [[H9009\|הַ]][[H8085G\|שֹּׁמְעִ֛ים]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יְדֵי]][[H9028\|הֶ֖ם]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹאשׁ֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H7275\|רָגְמ֥וּ]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5712\|עֵדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic CHURCH|CHURCH]] • [[topic EVIDENCE|EVIDENCE]] • [[topic HAND|HAND]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic TRIAL|TRIAL]] • [[topic WITNESS|WITNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.24.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.13|<< Leviticus 24:13]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.15|Leviticus 24:15 >>]]</td></tr></table>
 

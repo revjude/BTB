@@ -1,8 +1,62 @@
+---
+title: Ezekiel 44:18
+type: Verse
+kjv: "They shall have linen bonnets upon their heads, and shall have linen breeches upon their loins; they shall not gird themselves with any thing that causeth sweat."
+bsb: "They are to wear linen turbans on their heads and linen undergarments around their waists. They must not wear anything that makes them perspire."
+hebrew: "פַּאֲרֵ֤י פִשְׁתִּים֙ יִהְי֣וּ עַל־ רֹאשָׁ֔ם וּמִכְנְסֵ֣י פִשְׁתִּ֔ים יִהְי֖וּ עַל־ מָתְנֵיהֶ֑ם לֹ֥א יַחְגְּר֖וּ בַּיָּֽזַע׃"
+pericope: "[[Ezek.44.15 The Duties of the Priests|The Duties of the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 44
+book/chapter: "[[Ezek.44|Ezekiel 44]]"
+chronological_order: 835
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BONNET|BONNET]]"
+- "[[topic BREECHES|BREECHES]]"
+- "[[topic DRESS|DRESS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SWEAT|SWEAT]]"
+strongs:
+- "[[H6287]]"
+- "[[H6593]]"
+- "[[H1961]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7218A]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H4370]]"
+- "[[H4975]]"
+- "[[H3808]]"
+- "[[H2296]]"
+- "[[H9003]]"
+- "[[H3154]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 44:18**<big><big>[[Ezek.44.15 The Duties of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall have linen bonnets upon their heads, and shall have linen breeches upon their loins; they shall not gird [themselves] with any thing that causeth sweat.
 <small><sub>**BSB:**</sub></small>
 They are to wear linen turbans on their heads and linen undergarments around their waists. They must not wear anything that makes them perspire.
+<small><sub>**Hebrew:**</sub></small>
+[[H6287\|פַּאֲרֵ֤י]] [[H6593\|פִשְׁתִּים֙]] [[H1961\|יִהְי֣וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹאשָׁ֔]][[H9028\|ם]] [[H9002\|וּ]][[H4370\|מִכְנְסֵ֣י]] [[H6593\|פִשְׁתִּ֔ים]] [[H1961\|יִהְי֖וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H4975\|מָתְנֵי]][[H9028\|הֶ֑ם]] [[H3808\|לֹ֥א]] [[H2296\|יַחְגְּר֖וּ]] [[H9003\|בַּ]][[H3154\|יָּֽזַע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BONNET|BONNET]] • [[topic BREECHES|BREECHES]] • [[topic DRESS|DRESS]] • [[topic PRIEST|PRIEST]] • [[topic SWEAT|SWEAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.17|<< Ezekiel 44:17]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.19|Ezekiel 44:19 >>]]</td></tr></table>
 

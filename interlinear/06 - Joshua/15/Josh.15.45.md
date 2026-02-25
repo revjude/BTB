@@ -1,8 +1,46 @@
+---
+title: Joshua 15:45
+type: Verse
+kjv: "Ekron, with her towns and her villages:"
+bsb: "Ekron, with its towns and villages;"
+hebrew: "עֶקְר֥וֹן וּבְנֹתֶ֖יהָ וַחֲצֵרֶֽיהָ׃"
+pericope: "[[Josh.15.20 The Cities of Judah|The Cities of Judah]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 15
+book/chapter: "[[Josh.15|Joshua 15]]"
+chronological_order: 245
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic EKRON|EKRON]]"
+strongs:
+- "[[H6138]]"
+- "[[H9002]]"
+- "[[H1323H]]"
+- "[[H9024]]"
+- "[[H2691B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 15:45**<big><big>[[Josh.15.20 The Cities of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ekron, with her towns and her villages:
 <small><sub>**BSB:**</sub></small>
 Ekron, with its towns and villages;
+<small><sub>**Hebrew:**</sub></small>
+[[H6138\|עֶקְר֥וֹן]] [[H9002\|וּ]][[H1323H\|בְנֹתֶ֖י]][[H9024\|הָ]] [[H9002\|וַ]][[H2691B\|חֲצֵרֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EKRON|EKRON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.44|<< Joshua 15:44]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.46|Joshua 15:46 >>]]</td></tr></table>
 

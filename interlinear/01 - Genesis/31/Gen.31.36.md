@@ -1,8 +1,65 @@
+---
+title: Genesis 31:36
+type: Verse
+kjv: "And Jacob was wroth, and chode with Laban: and Jacob answered and said to Laban, What is my trespass? what is my sin, that thou hast so hotly pursued after me?"
+bsb: "Then Jacob became incensed and challenged Laban. “What is my crime?” he said. “For what sin of mine have you so hotly pursued me?"
+hebrew: "וַיִּ֥חַר לְיַעֲקֹ֖ב וַיָּ֣רֶב בְּלָבָ֑ן וַיַּ֤עַן יַעֲקֹב֙ וַיֹּ֣אמֶר לְלָבָ֔ן מַה־ פִּשְׁעִי֙ מַ֣ה חַטָּאתִ֔י כִּ֥י דָלַ֖קְתָּ אַחֲרָֽי׃"
+pericope: "[[Gen.31.22 Laban Pursues Jacob|Laban Pursues Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[H9001]]"
+- "[[H2734]]"
+- "[[H9005]]"
+- "[[H3290]]"
+- "[[H7378]]"
+- "[[H9003]]"
+- "[[H3837A]]"
+- "[[H6030B]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H6588]]"
+- "[[H9020]]"
+- "[[H2403B]]"
+- "[[H3588A]]"
+- "[[H1814]]"
+- "[[H0310A]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 31:36**<big><big>[[Gen.31.22 Laban Pursues Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob was wroth, and chode with Laban: and Jacob answered and said to Laban, What [is] my trespass? what [is] my sin, that thou hast so hotly pursued after me?
 <small><sub>**BSB:**</sub></small>
 Then Jacob became incensed and challenged Laban. “What is my crime?” he said. “For what sin of mine have you so hotly pursued me?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2734\|יִּ֥חַר]] [[H9005\|לְ]][[H3290\|יַעֲקֹ֖ב]] [[H9001\|וַ]][[H7378\|יָּ֣רֶב]] [[H9003\|בְּ]][[H3837A\|לָבָ֑ן]] [[H9001\|וַ]][[H6030B\|יַּ֤עַן]] [[H3290\|יַעֲקֹב֙]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|לְ]][[H3837A\|לָבָ֔ן]] [[H4100\|מַה]][[H9014\|־]] [[H6588\|פִּשְׁעִ]][[H9020\|י֙]] [[H4100\|מַ֣ה]] [[H2403B\|חַטָּאתִ֔]][[H9020\|י]] [[H3588A\|כִּ֥י]] [[H1814\|דָלַ֖קְתָּ]] [[H0310A\|אַחֲרָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHIDING|CHIDING]] • [[topic DISHONESTY|DISHONESTY]] • [[topic LABAN|LABAN]] • [[topic STRIFE|STRIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.35|<< Genesis 31:35]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.37|Genesis 31:37 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: Genesis 13:13
+type: Verse
+kjv: "But the men of Sodom were wicked and sinners before the LORD exceedingly."
+bsb: "But the men of Sodom were wicked, sinning greatly against the LORD."
+hebrew: "וְאַנְשֵׁ֣י סְדֹ֔ם רָעִ֖ים וְחַטָּאִ֑ים לַיהוָ֖ה מְאֹֽד׃"
+pericope: "[[Gen.13.10 Lot Proceeds toward Sodom|Lot Proceeds toward Sodom]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 13
+book/chapter: "[[Gen.13|Genesis 13]]"
+chronological_order: 55
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic LOT|LOT]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H0582]]"
+- "[[H5467]]"
+- "[[H7451H]]"
+- "[[H2400]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 13:13**<big><big>[[Gen.13.10 Lot Proceeds toward Sodom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the men of Sodom [were] wicked and sinners before the LORD exceedingly.
 <small><sub>**BSB:**</sub></small>
 But the men of Sodom were wicked, sinning greatly against the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0582\|אַנְשֵׁ֣י]] [[H5467\|סְדֹ֔ם]] [[H7451H\|רָעִ֖ים]] [[H9002\|וְ]][[H2400\|חַטָּאִ֑ים]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic LOT|LOT]] • [[topic SODOM|SODOM]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.13.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.13.12|<< Genesis 13:12]]</td><td align="center" style="border:none;">[[Gen.13|Genesis 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.13.14|Genesis 13:14 >>]]</td></tr></table>
 

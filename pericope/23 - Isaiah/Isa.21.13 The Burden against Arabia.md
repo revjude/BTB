@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Burden against Arabia
+type: Pericope
 pericope: "[[Isa.21.13 The Burden against Arabia|The Burden against Arabia]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 21
 book/chapter: "[[Isa.21|Isaiah 21]]"
-genre:
+chronological_order: 638
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 5
 verses:
 - "[[Isa.21.13]]"
 - "[[Isa.21.14]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Isa.21.17]]"
 ---
 
-[[Isa.21|Isaiah 21:13 - Isaiah 21:17]]
+<small>[[Isa.21|Isaiah 21:13-17]]</small>
 *The Burden against Arabia*
 
 [[Isa.21.13|13]] The burden upon Arabia. In the forest in Arabia shall ye lodge, O ye travelling companies of Dedanim.

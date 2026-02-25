@@ -1,10 +1,70 @@
+---
+title: Luke 10:27
+type: Verse
+kjv: "And he answering said, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself."
+bsb: "He answered, “‘Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind’ and ‘Love your neighbor as yourself.’”"
+greek: "Ὁ δὲ ἀποκριθεὶς εἶπεν· ἀγαπήσεις κύριον τὸν θεόν σου ἐξ ὅλης τῆς καρδίας σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ ἰσχύϊ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου, καὶ τὸν πλησίον σου ὡς σεαυτόν.¶"
+pericope: "[[Luke.10.25 The Parable of the Good Samaritan|The Parable of the Good Samaritan]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 10
+book/chapter: "[[Luke.10|Luke 10]]"
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic DUTY|DUTY]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic LAWYER|LAWYER]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0611]]"
+- "[[G2036]]"
+- "[[G0025]]"
+- "[[G2962G]]"
+- "[[G2316]]"
+- "[[G4771]]"
+- "[[G1537]]"
+- "[[G3650]]"
+- "[[G2588]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G5590G]]"
+- "[[G2479]]"
+- "[[G1271]]"
+- "[[G4139]]"
+- "[[G5613]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 10:27**<big><big>[[Luke.10.25 The Parable of the Good Samaritan|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he answering said, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself.
 <small><sub>**BSB:**</sub></small>
 He answered, “‘Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind’ and ‘Love your neighbor as yourself.’”
-<small><sub>**Literal:**</sub></small>
-<the> And answering he said; 'You will love [the] Lord the God of you with all the heart of you and with all the soul of you and with all the strength of you and with all the mind of you’, and The neighbour of you as yourself.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.26|<< Luke 10:26]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.28|Luke 10:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G0611\|ἀποκριθεὶς]]  [[G2036\|εἶπεν·]]  [[G0025\|ἀγαπήσεις]]  [[G2962G\|κύριον]]  [[G3588\|τὸν]]  [[G2316\|θεόν]]  [[G4771\|σου]]  [[G1537\|ἐξ]]  [[G3650\|ὅλης]]  [[G3588\|τῆς]]  [[G2588\|καρδίας]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3650\|ὅλῃ]]  [[G3588\|τῇ]]  [[G5590G\|ψυχῇ]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3650\|ὅλῃ]]  [[G3588\|τῇ]]  [[G2479\|ἰσχύϊ]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3650\|ὅλῃ]]  [[G3588\|τῇ]]  [[G1271\|διανοίᾳ]]  [[G4771\|σου,]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G4139\|πλησίον]]  [[G4771\|σου]]  [[G5613\|ὡς]]  [[G4771\|σεαυτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECALOGUE|DECALOGUE]] • [[topic DUTY|DUTY]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic LAWYER|LAWYER]] • [[topic LOVE|LOVE]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.26|<< Luke 10:26]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.28|Luke 10:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 10:27** is...
 > $\quad$ referencing: [[LXX.Lev.19.18|Lev 19:18]] ☩ [[LXX.Deut.6.5|Deut 6:5]] ☩ [[LXX.Josh.22.5|Josh 22:5]]

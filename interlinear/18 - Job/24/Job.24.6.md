@@ -1,8 +1,56 @@
+---
+title: Job 24:6
+type: Verse
+kjv: "They reap every one his corn in the field: and they gather the vintage of the wicked."
+bsb: "They gather fodder in the fields and glean the vineyards of the wicked."
+hebrew: "בַּ֭שָּׂדֶה בְּלִיל֣וֹ יִקְצ֑וֹרוּ וְכֶ֖רֶם רָשָׁ֣ע יְלַקֵּֽשׁוּ׃"
+pericope: "[[Job.24.1 Job：Judgment for the Wicked|Job：Judgment for the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 24
+book/chapter: "[[Job.24|Job 24]]"
+chronological_order: 35
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HARVEST|HARVEST]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H1098]]"
+- "[[H9023]]"
+- "[[H7114B]]"
+- "[[H9002]]"
+- "[[H3754]]"
+- "[[H7563]]"
+- "[[H3953]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Job 24:6**<big><big>[[Job.24.1 Job：Judgment for the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They reap [every one] his corn in the field: and they gather the vintage of the wicked.
 <small><sub>**BSB:**</sub></small>
 They gather fodder in the fields and glean the vineyards of the wicked.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ֭]][[H7704G\|שָּׂדֶה]] [[H1098\|בְּלִיל֣]][[H9023\|וֹ]] [[H7114B\|יִקְצ֑וֹרוּ]] [[H9002\|וְ]][[H3754\|כֶ֖רֶם]] [[H7563\|רָשָׁ֣ע]] [[H3953\|יְלַקֵּֽשׁוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISHONESTY|DISHONESTY]] • [[topic GOD|GOD]] • [[topic HARVEST|HARVEST]] • [[topic HOMICIDE|HOMICIDE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.24.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.5|<< Job 24:5]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.7|Job 24:7 >>]]</td></tr></table>
 

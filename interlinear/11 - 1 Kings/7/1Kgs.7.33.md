@@ -1,8 +1,64 @@
+---
+title: 1 Kings 7:33
+type: Verse
+kjv: "And the work of the wheels was like the work of a chariot wheel: their axletrees, and their naves, and their felloes, and their spokes, were all molten."
+bsb: "The wheels were made like chariot wheels; their axles, rims, spokes, and hubs were all of cast metal."
+hebrew: "וּמַֽעֲשֵׂה֙ הָא֣וֹפַנִּ֔ים כְּמַעֲשֵׂ֖ה אוֹפַ֣ן הַמֶּרְכָּבָ֑ה יְדוֹתָ֣ם וְגַבֵּיהֶ֗ם וְחִשֻּׁקֵיהֶ֛ם וְחִשֻּׁרֵיהֶ֖ם הַכֹּ֥ל מוּצָֽק׃"
+pericope: "[[1Kgs.7.27 The Ten Bronze Stands|The Ten Bronze Stands]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ART|ART]]"
+- "[[topic AXLETREE|AXLETREE]]"
+- "[[topic BRASS|BRASS]]"
+- "[[topic CARVING|CARVING]]"
+- "[[topic CHAPITER|CHAPITER]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H4639G]]"
+- "[[H9009]]"
+- "[[H0212]]"
+- "[[H9004]]"
+- "[[H4818]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H1354]]"
+- "[[H2839]]"
+- "[[H2840]]"
+- "[[H3605]]"
+- "[[H3332H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 7:33**<big><big>[[1Kgs.7.27 The Ten Bronze Stands|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the work of the wheels [was] like the work of a chariot wheel: their axletrees, and their naves, and their felloes, and their spokes, [were] all molten.
 <small><sub>**BSB:**</sub></small>
 The wheels were made like chariot wheels; their axles, rims, spokes, and hubs were all of cast metal.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4639G\|מַֽעֲשֵׂה֙]] [[H9009\|הָ]][[H0212\|א֣וֹפַנִּ֔ים]] [[H9004\|כְּ]][[H4639G\|מַעֲשֵׂ֖ה]] [[H0212\|אוֹפַ֣ן]] [[H9009\|הַ]][[H4818\|מֶּרְכָּבָ֑ה]] [[H3027G\|יְדוֹתָ֣]][[H9028\|ם]] [[H9002\|וְ]][[H1354\|גַבֵּי]][[H9028\|הֶ֗ם]] [[H9002\|וְ]][[H2839\|חִשֻּׁקֵי]][[H9028\|הֶ֛ם]] [[H9002\|וְ]][[H2840\|חִשֻּׁרֵי]][[H9028\|הֶ֖ם]] [[H9009\|הַ]][[H3605\|כֹּ֥ל]] [[H3332H\|מוּצָֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic AXLETREE|AXLETREE]] • [[topic BRASS|BRASS]] • [[topic CARVING|CARVING]] • [[topic CHAPITER|CHAPITER]] • [[topic HIRAM|HIRAM]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.32|<< 1 Kings 7:32]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.34|1 Kings 7:34 >>]]</td></tr></table>
 

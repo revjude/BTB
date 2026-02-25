@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Prologue
+type: Pericope
 pericope: "[[Acts.1.1 Prologue|Prologue]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Acts
 chapter: 1
 book/chapter: "[[Acts.1|Acts 1]]"
-genre:
+chronological_order: 1019
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 5
 verses:
 - "[[Acts.1.1]]"
 - "[[Acts.1.2]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Acts.1.5]]"
 ---
 
-[[Acts.1|Acts 1:1 - Acts 1:5]]
+<small>[[Acts.1|Acts 1:1-5]]</small>
 *Prologue*
 
 [[Acts.1.1|1]] The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach,

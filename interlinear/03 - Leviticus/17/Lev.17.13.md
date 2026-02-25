@@ -1,8 +1,77 @@
+---
+title: Leviticus 17:13
+type: Verse
+kjv: "And whatsoever man there be of the children of Israel, or of the strangers that sojourn among you, which hunteth and catcheth any beast or fowl that may be eaten; he shall even pour out the blood thereof, and cover it with dust."
+bsb: "And if any Israelite or foreigner living among them hunts down a wild animal or bird that may be eaten, he must drain its blood and cover it with dirt."
+hebrew: "וְאִ֨ישׁ אִ֜ישׁ מִבְּנֵ֣י יִשְׂרָאֵ֗ל וּמִן־ הַגֵּר֙ הַגָּ֣ר בְּתוֹכָ֔ם אֲשֶׁ֨ר יָצ֜וּד צֵ֥יד חַיָּ֛ה אוֹ־ ע֖וֹף אֲשֶׁ֣ר יֵאָכֵ֑ל וְשָׁפַךְ֙ אֶת־ דָּמ֔וֹ וְכִסָּ֖הוּ בֶּעָפָֽר׃"
+pericope: "[[Lev.17.10 Laws against Eating Blood|Laws against Eating Blood]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 17
+book/chapter: "[[Lev.17|Leviticus 17]]"
+chronological_order: 149
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic HUNTING|HUNTING]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1616]]"
+- "[[H1481A]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9028]]"
+- "[[H0834A]]"
+- "[[H6679A]]"
+- "[[H6718A]]"
+- "[[H2416C]]"
+- "[[H0176A]]"
+- "[[H5775]]"
+- "[[H0398]]"
+- "[[H9001]]"
+- "[[H8210G]]"
+- "[[H0853]]"
+- "[[H1818]]"
+- "[[H9023]]"
+- "[[H3680]]"
+- "[[H9033]]"
+- "[[H6083]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 17:13**<big><big>[[Lev.17.10 Laws against Eating Blood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And whatsoever man [there be] of the children of Israel, or of the strangers that sojourn among you, which hunteth and catcheth any beast or fowl that may be eaten; he shall even pour out the blood thereof, and cover it with dust.
 <small><sub>**BSB:**</sub></small>
 And if any Israelite or foreigner living among them hunts down a wild animal or bird that may be eaten, he must drain its blood and cover it with dirt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376G\|אִ֨ישׁ]] [[H0376G\|אִ֜ישׁ]] [[H9006\|מִ]][[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1616\|גֵּר֙]] [[H9009\|הַ]][[H1481A\|גָּ֣ר]] [[H9003\|בְּ]][[H8432\|תוֹכָ֔]][[H9028\|ם]] [[H0834A\|אֲשֶׁ֨ר]] [[H6679A\|יָצ֜וּד]] [[H6718A\|צֵ֥יד]] [[H2416C\|חַיָּ֛ה]] [[H0176A\|אוֹ]][[H9014\|־]] [[H5775\|ע֖וֹף]] [[H0834A\|אֲשֶׁ֣ר]] [[H0398\|יֵאָכֵ֑ל]] [[H9001\|וְ]][[H8210G\|שָׁפַךְ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1818\|דָּמ֔]][[H9023\|וֹ]] [[H9001\|וְ]][[H3680\|כִסָּ֖]][[H9033\|הוּ]] [[H9003\|בֶּ]][[H6083\|עָפָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic FOOD|FOOD]] • [[topic HUNTING|HUNTING]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.17.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.17.12|<< Leviticus 17:12]]</td><td align="center" style="border:none;">[[Lev.17|Leviticus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.17.14|Leviticus 17:14 >>]]</td></tr></table>
 

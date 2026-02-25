@@ -1,10 +1,58 @@
+---
+title: Luke 21:16
+type: Verse
+kjv: "And ye shall be betrayed both by parents, and brethren, and kinsfolks, and friends; and some of you shall they cause to be put to death."
+bsb: "You will be betrayed even by parents and brothers and relatives and friends, and some of you will be put to death."
+jesus_said: "And ye shall be betrayed both by parents, and brethren, and kinsfolks, and friends; and some of you shall they cause to be put to death."
+greek: "παραδοθήσεσθε δὲ καὶ ὑπὸ γονέων καὶ ἀδελφῶν καὶ συγγενῶν καὶ φίλων, καὶ θανατώσουσιν ἐξ ὑμῶν."
+pericope: "[[Luke.21.10 Witnessing to All Nations|Witnessing to All Nations]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 21
+book/chapter: "[[Luke.21|Luke 21]]"
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G3860]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G5259G]]"
+- "[[G1118]]"
+- "[[G0080]]"
+- "[[G4773]]"
+- "[[G5384]]"
+- "[[G2289]]"
+- "[[G1537]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **Luke 21:16**<big><big>[[Luke.21.10 Witnessing to All Nations|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And ye shall be betrayed both by parents, and brethren, and kinsfolks, and friends; and [some] of you shall they cause to be put to death.
 <small><sub>**BSB:**</sub></small>
 You will be betrayed even by parents and brothers and relatives and friends, and some of you will be put to death.
-<small><sub>**Literal:**</sub></small>
-You will be betrayed then even by parents and brothers and relatives and friends and they will put to death [some] from among you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.15|<< Luke 21:15]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.17|Luke 21:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3860\|παραδοθήσεσθε]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G5259G\|ὑπὸ]]  [[G1118\|γονέων]]  [[G2532\|καὶ]]  [[G0080\|ἀδελφῶν]]  [[G2532\|καὶ]]  [[G4773\|συγγενῶν]]  [[G2532\|καὶ]]  [[G5384\|φίλων,]]  [[G2532\|καὶ]]  [[G2289\|θανατώσουσιν]]  [[G1537\|ἐξ]]  [[G4771\|ὑμῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic PERSECUTION|PERSECUTION]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.15|<< Luke 21:15]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.17|Luke 21:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

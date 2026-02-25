@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Rejoicing in Heaven
+type: Pericope
 pericope: "[[Rev.19.1 Rejoicing in Heaven|Rejoicing in Heaven]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 19
 book/chapter: "[[Rev.19|Revelation 19]]"
-genre:
+chronological_order: 1186
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 5
 verses:
 - "[[Rev.19.1]]"
 - "[[Rev.19.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Rev.19.5]]"
 ---
 
-[[Rev.19|Revelation 19:1 - Revelation 19:5]]
+<small>[[Rev.19|Revelation 19:1-5]]</small>
 *Rejoicing in Heaven*
 
 [[Rev.19.1|1]] And after these things I heard a great voice of much people in heaven, saying, Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God:

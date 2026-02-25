@@ -1,10 +1,55 @@
+---
+title: Acts 8:8
+type: Verse
+kjv: "And there was great joy in that city."
+bsb: "So there was great joy in that city."
+greek: "Καὶ ἐγένετο δὲ πολλὴ χαρὰ ἐν τῇ πόλει ἐκείνῃ.¶"
+pericope: "[[Acts.8.4 Philip in Samaria|Philip in Samaria]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 8
+book/chapter: "[[Acts.8|Acts 8]]"
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic JOY|JOY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PHILIP|PHILIP]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic SAMARIA|SAMARIA]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G4183]]"
+- "[[G5479]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G1565]]"
+texts:
+- k
+- NKO
+- no
+- N(k)O
+---
+
 **Acts 8:8**<big><big>[[Acts.8.4 Philip in Samaria|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there was great joy in that city.
 <small><sub>**BSB:**</sub></small>
 So there was great joy in that city.
-<small><sub>**Literal:**</sub></small>
-and There was then much joy in the city that.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.7|<< Acts 8:7]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.9|Acts 8:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1096\|ἐγένετο]]  [[G1161\|δὲ]]  [[G4183\|πολλὴ]]  [[G5479\|χαρὰ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4172\|πόλει]]  [[G1565\|ἐκείνῃ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOY|JOY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PHILIP|PHILIP]] • [[topic PREACHING|PREACHING]] • [[topic SAMARIA|SAMARIA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.7|<< Acts 8:7]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.9|Acts 8:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

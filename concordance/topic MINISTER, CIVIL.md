@@ -3,7 +3,7 @@
 
 → (An officer in civil government)
 
-→ Joseph [[Gen.41.40|Ge 41:40]]-[[Gen.41.44|44]]
+→ Joseph [[Gen.41.40|Ge 41:40-44]]
 
 → Ira [[2Sam.20.26|2Sa 20:26]]
 
@@ -19,7 +19,7 @@
 
 → Mordecai [[Esth.10.3|Es 10:3]]; with 8; 9
 
-→ Daniel [[Dan.2.48|Da 2:48]]; [[Dan.6.1|6:1]]-[[Dan.6.3|3]]
+→ Daniel [[Dan.2.48|Da 2:48]]; [[Dan.6.1|6:1-3]]
 
 → See [[topic CABINET|CABINET]]
 

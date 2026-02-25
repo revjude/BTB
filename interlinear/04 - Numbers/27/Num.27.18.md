@@ -1,8 +1,75 @@
+---
+title: Numbers 27:18
+type: Verse
+kjv: "And the LORD said unto Moses, Take thee Joshua the son of Nun, a man in whom is the spirit, and lay thine hand upon him;"
+bsb: "And the LORD replied to Moses, “Take Joshua son of Nun, a man with the Spirit in him, and lay your hands on him."
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה אֶל־ מֹשֶׁ֗ה קַח־ לְךָ֙ אֶת־ יְהוֹשֻׁ֣עַ בִּן־ נ֔וּן אִ֖ישׁ אֲשֶׁר־ ר֣וּחַ בּ֑וֹ וְסָמַכְתָּ֥ אֶת־ יָדְךָ֖ עָלָֽיו׃"
+pericope: "[[Num.27.18 Joshua to Succeed Moses|Joshua to Succeed Moses]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 27
+book/chapter: "[[Num.27|Numbers 27]]"
+chronological_order: 187
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HAND|HAND]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H3947G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0853]]"
+- "[[H3091G]]"
+- "[[H1121A]]"
+- "[[H5126]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H7307G]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H5564]]"
+- "[[H3027H]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 27:18**<big><big>[[Num.27.18 Joshua to Succeed Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, Take thee Joshua the son of Nun, a man in whom [is] the spirit, and lay thine hand upon him;
 <small><sub>**BSB:**</sub></small>
 And the LORD replied to Moses, “Take Joshua son of Nun, a man with the Spirit in him, and lay your hands on him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֗ה]] [[H3947G\|קַח]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֣עַ]] [[H1121A\|בִּן]][[H9014\|־]] [[H5126\|נ֔וּן]] [[H0376G\|אִ֖ישׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7307G\|ר֣וּחַ]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H9001\|וְ]][[H5564\|סָמַכְתָּ֥]] [[H0853\|אֶת]][[H9014\|־]] [[H3027H\|יָדְ]][[H9021\|ךָ֖]] [[H5921A\|עָלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HAND|HAND]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic ISRAEL|ISRAEL]] • [[topic JOSHUA|JOSHUA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.27.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.27.17|<< Numbers 27:17]]</td><td align="center" style="border:none;">[[Num.27|Numbers 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.27.19|Numbers 27:19 >>]]</td></tr></table>
 

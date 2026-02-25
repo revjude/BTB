@@ -1,8 +1,60 @@
+---
+title: Exodus 26:26
+type: Verse
+kjv: "And thou shalt make bars of shittim wood; five for the boards of the one side of the tabernacle,"
+bsb: "You are also to make five crossbars of acacia wood for the frames on one side of the tabernacle,"
+hebrew: "וְעָשִׂ֥יתָ בְרִיחִ֖ם עֲצֵ֣י שִׁטִּ֑ים חֲמִשָּׁ֕ה לְקַרְשֵׁ֥י צֶֽלַע־ הַמִּשְׁכָּ֖ן הָאֶחָֽד׃"
+pericope: "[[Exod.26.15 The Frames and Bases|The Frames and Bases]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 26
+book/chapter: "[[Exod.26|Exodus 26]]"
+chronological_order: 118
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic SHITTIM|SHITTIM]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H1280]]"
+- "[[H6086G]]"
+- "[[H7848]]"
+- "[[H2568]]"
+- "[[H9005]]"
+- "[[H7175]]"
+- "[[H6763]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4908]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 26:26**<big><big>[[Exod.26.15 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make bars [of] shittim wood; five for the boards of the one side of the tabernacle,
 <small><sub>**BSB:**</sub></small>
 You are also to make five crossbars of acacia wood for the frames on one side of the tabernacle,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213H\|עָשִׂ֥יתָ]] [[H1280\|בְרִיחִ֖ם]] [[H6086G\|עֲצֵ֣י]] [[H7848\|שִׁטִּ֑ים]] [[H2568\|חֲמִשָּׁ֕ה]] [[H9005\|לְ]][[H7175\|קַרְשֵׁ֥י]] [[H6763\|צֶֽלַע]][[H9014\|־]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּ֖ן]] [[H9009\|הָ]][[H0259\|אֶחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHITTIM|SHITTIM]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.25|<< Exodus 26:25]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.27|Exodus 26:27 >>]]</td></tr></table>
 

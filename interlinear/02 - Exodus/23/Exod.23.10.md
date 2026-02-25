@@ -1,8 +1,59 @@
+---
+title: Exodus 23:10
+type: Verse
+kjv: "And six years thou shalt sow thy land, and shalt gather in the fruits thereof:"
+bsb: "For six years you are to sow your land and gather its produce,"
+hebrew: "וְשֵׁ֥שׁ שָׁנִ֖ים תִּזְרַ֣ע אֶת־ אַרְצֶ֑ךָ וְאָסַפְתָּ֖ אֶת־ תְּבוּאָתָֽהּ׃"
+pericope: "[[Exod.23.10 Sabbath Laws|Sabbath Laws]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 23
+book/chapter: "[[Exod.23|Exodus 23]]"
+chronological_order: 115
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H8337]]"
+- "[[H8141]]"
+- "[[H2232]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H0622]]"
+- "[[H8393]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 23:10**<big><big>[[Exod.23.10 Sabbath Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And six years thou shalt sow thy land, and shalt gather in the fruits thereof:
 <small><sub>**BSB:**</sub></small>
 For six years you are to sow your land and gather its produce,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8337\|שֵׁ֥שׁ]] [[H8141\|שָׁנִ֖ים]] [[H2232\|תִּזְרַ֣ע]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אַרְצֶ֑]][[H9021\|ךָ]] [[H9001\|וְ]][[H0622\|אָסַפְתָּ֖]] [[H0853\|אֶת]][[H9014\|־]] [[H8393\|תְּבוּאָתָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic SABBATIC YEAR|SABBATIC YEAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.9|<< Exodus 23:9]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.11|Exodus 23:11 >>]]</td></tr></table>
 

@@ -1,10 +1,62 @@
+---
+title: 1 Peter 1:8
+type: Verse
+kjv: "Whom having not seen, ye love; in whom, though now ye see him not, yet believing, ye rejoice with joy unspeakable and full of glory:"
+bsb: "Though you have not seen Him, you love Him; and though you do not see Him now, you believe in Him and rejoice with an inexpressible and glorious joy,"
+greek: "ὃν οὐκ ἰδόντες ἀγαπᾶτε, εἰς ὃν ἄρτι μὴ ὁρῶντες πιστεύοντες δὲ ἀγαλλιᾶσθε χαρᾷ ἀνεκλαλήτῳ καὶ δεδοξασμένῃ,"
+pericope: "[[1Pet.1.3 A Living Hope|A Living Hope]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 1
+book/chapter: "[[1Pet.1|1 Peter 1]]"
+chronological_order: 1135
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GLORY|GLORY]]"
+- "[[topic JOY|JOY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic STUMBLING|STUMBLING]]"
+strongs:
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1492H]]"
+- "[[G0025]]"
+- "[[G1519]]"
+- "[[G0737]]"
+- "[[G3361]]"
+- "[[G3708]]"
+- "[[G4100]]"
+- "[[G1161]]"
+- "[[G0021]]"
+- "[[G5479]]"
+- "[[G0412]]"
+- "[[G2532]]"
+- "[[G1392]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+---
+
 **1 Peter 1:8**<big><big>[[1Pet.1.3 A Living Hope|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whom having not seen, ye love; in whom, though now ye see [him] not, yet believing, ye rejoice with joy unspeakable and full of glory:
 <small><sub>**BSB:**</sub></small>
 Though you have not seen Him, you love Him; and though you do not see Him now, you believe in Him and rejoice with an inexpressible and glorious joy,
-<small><sub>**Literal:**</sub></small>
-whom not having seen you love, on whom now [though] not seeing believing now you yourself rejoice with joy inexpressible and glory-filled,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.7|<< 1 Peter 1:7]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.9|1 Peter 1:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃν]]  [[G3756\|οὐκ]]  [[G1492H\|ἰδόντες]]  [[G0025\|ἀγαπᾶτε,]]  [[G1519\|εἰς]]  [[G3739\|ὃν]]  [[G0737\|ἄρτι]]  [[G3361\|μὴ]]  [[G3708\|ὁρῶντες]]  [[G4100\|πιστεύοντες]]  [[G1161\|δὲ]]  [[G0021\|ἀγαλλιᾶσθε]]  [[G5479\|χαρᾷ]]  [[G0412\|ἀνεκλαλήτῳ]]  [[G2532\|καὶ]]  [[G1392\|δεδοξασμένῃ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic FAITH|FAITH]] • [[topic GLORY|GLORY]] • [[topic JOY|JOY]] • [[topic LOVE|LOVE]] • [[topic STUMBLING|STUMBLING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.7|<< 1 Peter 1:7]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.9|1 Peter 1:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

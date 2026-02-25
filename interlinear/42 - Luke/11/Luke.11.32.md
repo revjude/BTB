@@ -1,10 +1,67 @@
+---
+title: Luke 11:32
+type: Verse
+kjv: "The men of Nineve shall rise up in the judgment with this generation, and shall condemn it: for they repented at the preaching of Jonas; and, behold, a greater than Jonas is here."
+bsb: "The men of Nineveh will stand at the judgment with this generation and condemn it; for they repented at the preaching of Jonah, and now One greater than Jonah is here."
+jesus_said: "The men of Nineve shall rise up in the judgment with this generation, and shall condemn it: for they repented at the preaching of Jonas; and, behold, a greater than Jonas is here."
+greek: "Ἄνδρες Νινευῖται ἀναστήσονται ἐν τῇ κρίσει μετὰ τῆς γενεᾶς ταύτης καὶ κατακρινοῦσιν αὐτήν· ὅτι μετενόησαν εἰς τὸ κήρυγμα Ἰωνᾶ, καὶ ἰδοὺ πλεῖον Ἰωνᾶ ὧδε.¶"
+pericope: "[[Luke.11.29 The Sign of Jonah|The Sign of Jonah]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+strongs:
+- "[[G0435G]]"
+- "[[G3536]]"
+- "[[G0450]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2920]]"
+- "[[G3326]]"
+- "[[G1074]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G2632]]"
+- "[[G0846]]"
+- "[[G3754H]]"
+- "[[G3340]]"
+- "[[G1519]]"
+- "[[G2782]]"
+- "[[G2495H]]"
+- "[[G2400]]"
+- "[[G4119]]"
+- "[[G5602]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 11:32**<big><big>[[Luke.11.29 The Sign of Jonah|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The men of Nineve shall rise up in the judgment with this generation, and shall condemn it: for they repented at the preaching of Jonas; and, behold, a greater than Jonas [is] here.
 <small><sub>**BSB:**</sub></small>
 The men of Nineveh will stand at the judgment with this generation and condemn it; for they repented at the preaching of Jonah, and now One greater than Jonah is here.
-<small><sub>**Literal:**</sub></small>
-[The] men Ninevites will stand up in the judgment with <the> generation this and will condemn it; For they repented at the preaching of Jonah, and behold greater than Jonah [is] here.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.31|<< Luke 11:31]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.33|Luke 11:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0435G\|Ἄνδρες]]  [[G3536\|Νινευῖται]]  [[G0450\|ἀναστήσονται]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2920\|κρίσει]]  [[G3326\|μετὰ]]  [[G3588\|τῆς]]  [[G1074\|γενεᾶς]]  [[G3778\|ταύτης]]  [[G2532\|καὶ]]  [[G2632\|κατακρινοῦσιν]]  [[G0846\|αὐτήν·]]  [[G3754H\|ὅτι]]  [[G3340\|μετενόησαν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2782\|κήρυγμα]]  [[G2495H\|Ἰωνᾶ,]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G4119\|πλεῖον]]  [[G2495H\|Ἰωνᾶ]]  [[G5602\|ὧδε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVICTION|CONVICTION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic PHARISEES|PHARISEES]] • [[topic RESPONSIBILITY|RESPONSIBILITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.31|<< Luke 11:31]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.33|Luke 11:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

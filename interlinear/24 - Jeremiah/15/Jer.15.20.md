@@ -1,8 +1,69 @@
+---
+title: Jeremiah 15:20
+type: Verse
+kjv: "And I will make thee unto this people a fenced brasen wall: and they shall fight against thee, but they shall not prevail against thee: for I am with thee to save thee and to deliver thee, saith the LORD."
+bsb: "Then I will make you a wall to this people, a fortified wall of bronze; they will fight against you but will not overcome you, for I am with you to save and deliver you, declares the LORD."
+hebrew: "וּנְתַתִּ֜יךָ לָעָ֣ם הַזֶּ֗ה לְחוֹמַ֤ת נְחֹ֙שֶׁת֙ בְּצוּרָ֔ה וְנִלְחֲמ֥וּ אֵלֶ֖יךָ וְלֹא־ י֣וּכְלוּ לָ֑ךְ כִּֽי־ אִתְּךָ֥ אֲנִ֛י לְהוֹשִֽׁיעֲךָ֥ וּלְהַצִּילֶ֖ךָ נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.15.19 The LORD’s Promise|The LORD’s Promise]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 15
+book/chapter: "[[Jer.15|Jeremiah 15]]"
+chronological_order: 732
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414I]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H2346G]]"
+- "[[H5178A]]"
+- "[[H1219]]"
+- "[[H3898A]]"
+- "[[H0413]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3201]]"
+- "[[H9032]]"
+- "[[H3588A]]"
+- "[[H0854]]"
+- "[[H0589]]"
+- "[[H3467]]"
+- "[[H5337]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 15:20**<big><big>[[Jer.15.19 The LORD’s Promise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make thee unto this people a fenced brasen wall: and they shall fight against thee, but they shall not prevail against thee: for I [am] with thee to save thee and to deliver thee, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 Then I will make you a wall to this people, a fortified wall of bronze; they will fight against you but will not overcome you, for I am with you to save and deliver you, declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H5414I\|נְתַתִּ֜י]][[H9031\|ךָ]] [[H9005\|לָ]][[H5971A\|עָ֣ם]] [[H9009\|הַ]][[H2088\|זֶּ֗ה]] [[H9005\|לְ]][[H2346G\|חוֹמַ֤ת]] [[H5178A\|נְחֹ֙שֶׁת֙]] [[H1219\|בְּצוּרָ֔ה]] [[H9001\|וְ]][[H3898A\|נִלְחֲמ֥וּ]] [[H0413\|אֵלֶ֖י]][[H9031\|ךָ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3201\|י֣וּכְלוּ]] [[H9005\|לָ֑]][[H9032\|ךְ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0854\|אִתְּ]][[H9031\|ךָ֥]] [[H0589\|אֲנִ֛י]] [[H9005\|לְ]][[H3467\|הוֹשִֽׁיעֲ]][[H9031\|ךָ֥]] [[H9002\|וּ]][[H9005\|לְ]][[H5337\|הַצִּילֶ֖]][[H9031\|ךָ]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.15.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.19|<< Jeremiah 15:19]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.21|Jeremiah 15:21 >>]]</td></tr></table>
 

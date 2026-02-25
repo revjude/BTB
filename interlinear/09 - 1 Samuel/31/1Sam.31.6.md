@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 31:6
+type: Verse
+kjv: "So Saul died, and his three sons, and his armourbearer, and all his men, that same day together."
+bsb: "So Saul, his three sons, his armor-bearer, and all his men died together that same day."
+hebrew: "וַיָּ֣מָת שָׁא֡וּל וּשְׁלֹ֣שֶׁת בָּנָיו֩ וְנֹשֵׂ֨א כֵלָ֜יו גַּ֧ם כָּל־ אֲנָשָׁ֛יו בַּיּ֥וֹם הַה֖וּא יַחְדָּֽו׃"
+pericope: "[[1Sam.31.1 Saul’s Overthrow and Death|Saul’s Overthrow and Death]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 31
+book/chapter: "[[1Sam.31|1 Samuel 31]]"
+chronological_order: 310
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ARMOR-BEARER|ARMOR-BEARER]]"
+- "[[topic GILBOA|GILBOA]]"
+- "[[topic JEZREEL|JEZREEL]]"
+- "[[topic JONATHAN|JONATHAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H7586G]]"
+- "[[H9002]]"
+- "[[H7969]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H5375W]]"
+- "[[H3627]]"
+- "[[H1571]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0582]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H3162B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 31:6**<big><big>[[1Sam.31.1 Saul’s Overthrow and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Saul died, and his three sons, and his armourbearer, and all his men, that same day together.
 <small><sub>**BSB:**</sub></small>
 So Saul, his three sons, his armor-bearer, and all his men died together that same day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4191\|יָּ֣מָת]] [[H7586G\|שָׁא֡וּל]] [[H9002\|וּ]][[H7969\|שְׁלֹ֣שֶׁת]] [[H1121A\|בָּנָי]][[H9023\|ו֩]] [[H9002\|וְ]][[H5375W\|נֹשֵׂ֨א]] [[H3627\|כֵלָ֜י]][[H9023\|ו]] [[H1571\|גַּ֧ם]] [[H3605\|כָּל]][[H9014\|־]] [[H0582\|אֲנָשָׁ֛י]][[H9023\|ו]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H1931\|ה֖וּא]] [[H3162B\|יַחְדָּֽו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic ARMOR-BEARER|ARMOR-BEARER]] • [[topic GILBOA|GILBOA]] • [[topic JEZREEL|JEZREEL]] • [[topic JONATHAN|JONATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.31.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.31.5|<< 1 Samuel 31:5]]</td><td align="center" style="border:none;">[[1Sam.31|1 Samuel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.31.7|1 Samuel 31:7 >>]]</td></tr></table>
 

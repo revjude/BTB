@@ -1,8 +1,72 @@
+---
+title: 1 Samuel 18:23
+type: Verse
+kjv: "And Saul’s servants spake those words in the ears of David. And David said, Seemeth it to you a light thing to be a king’s son in law, seeing that I am a poor man, and lightly esteemed?"
+bsb: "But when Saul’s servants relayed these words to David, he replied, “Does it seem trivial in your sight to be the son-in-law of the king? I am a poor man and lightly esteemed.”"
+hebrew: "וַֽיְדַבְּר֞וּ עַבְדֵ֤י שָׁאוּל֙ בְּאָזְנֵ֣י דָוִ֔ד אֶת־ הַדְּבָרִ֖ים הָאֵ֑לֶּה וַיֹּ֣אמֶר דָּוִ֗ד הַֽנְקַלָּ֤ה בְעֵֽינֵיכֶם֙ הִתְחַתֵּ֣ן בַּמֶּ֔לֶךְ וְאָנֹכִ֖י אִֽישׁ־ רָ֥שׁ וְנִקְלֶֽה׃"
+pericope: "[[1Sam.18.17 David Marries Michal|David Marries Michal]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 18
+book/chapter: "[[1Sam.18|1 Samuel 18]]"
+chronological_order: 297
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MICHAL|MICHAL]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H5650]]"
+- "[[H7586G]]"
+- "[[H9003]]"
+- "[[H0241I]]"
+- "[[H1732]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H7043]]"
+- "[[H5869I]]"
+- "[[H9026]]"
+- "[[H2859B]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H0595]]"
+- "[[H0376G]]"
+- "[[H7326]]"
+- "[[H7034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 18:23**<big><big>[[1Sam.18.17 David Marries Michal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul’s servants spake those words in the ears of David. And David said, Seemeth it to you [a] light [thing] to be a king’s son in law, seeing that I [am] a poor man, and lightly esteemed?
 <small><sub>**BSB:**</sub></small>
 But when Saul’s servants relayed these words to David, he replied, “Does it seem trivial in your sight to be the son-in-law of the king? I am a poor man and lightly esteemed.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1696G\|יְדַבְּר֞וּ]] [[H5650\|עַבְדֵ֤י]] [[H7586G\|שָׁאוּל֙]] [[H9003\|בְּ]][[H0241I\|אָזְנֵ֣י]] [[H1732\|דָוִ֔ד]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֖ים]] [[H9009\|הָ]][[H0428\|אֵ֑לֶּה]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H1732\|דָּוִ֗ד]] [[H9008\|הַֽ]][[H7043\|נְקַלָּ֤ה]] [[H9003\|בְ]][[H5869I\|עֵֽינֵי]][[H9026\|כֶם֙]] [[H2859B\|הִתְחַתֵּ֣ן]] [[H9003\|בַּ]][[H4428G\|מֶּ֔לֶךְ]] [[H9002\|וְ]][[H0595\|אָנֹכִ֖י]] [[H0376G\|אִֽישׁ]][[H9014\|־]] [[H7326\|רָ֥שׁ]] [[H9002\|וְ]][[H7034\|נִקְלֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic DAVID|DAVID]] • [[topic HUMILITY|HUMILITY]] • [[topic JEALOUSY|JEALOUSY]] • [[topic MALICE|MALICE]] • [[topic MICHAL|MICHAL]] • [[topic PHILISTINES|PHILISTINES]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.18.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.22|<< 1 Samuel 18:22]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.24|1 Samuel 18:24 >>]]</td></tr></table>
 

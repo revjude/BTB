@@ -1,10 +1,52 @@
+---
+title: Acts 10:25
+type: Verse
+kjv: "And as Peter was coming in, Cornelius met him, and fell down at his feet, and worshipped him."
+bsb: "As Peter was about to enter, Cornelius met him and fell at his feet to worship him."
+greek: "ὡς δὲ ἐγένετο τοῦ εἰσελθεῖν τὸν Πέτρον, συναντήσας αὐτῷ ὁ Κορνήλιος πεσὼν ἐπὶ τοὺς πόδας προσεκύνησεν."
+pericope: "[[Acts.10.24 Peter Visits Cornelius|Peter Visits Cornelius]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+strongs:
+- "[[G5613]]"
+- "[[G1161]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G1525]]"
+- "[[G4074G]]"
+- "[[G4876]]"
+- "[[G0846]]"
+- "[[G2883]]"
+- "[[G4098]]"
+- "[[G1909]]"
+- "[[G4228]]"
+- "[[G4352]]"
+texts:
+- NKO
+---
+
 **Acts 10:25**<big><big>[[Acts.10.24 Peter Visits Cornelius|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as Peter was coming in, Cornelius met him, and fell down at his feet, and worshipped [him].
 <small><sub>**BSB:**</sub></small>
 As Peter was about to enter, Cornelius met him and fell at his feet to worship him.
-<small><sub>**Literal:**</sub></small>
-as then was <the> entering <the> Peter, having met with him <the> Cornelius having fallen at the feet worshiped [him].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.24|<< Acts 10:24]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.26|Acts 10:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G1161\|δὲ]]  [[G1096\|ἐγένετο]]  [[G3588\|τοῦ]]  [[G1525\|εἰσελθεῖν]]  [[G3588\|τὸν]]  [[G4074G\|Πέτρον,]]  [[G4876\|συναντήσας]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2883\|Κορνήλιος]]  [[G4098\|πεσὼν]]  [[G1909\|ἐπὶ]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G4352\|προσεκύνησεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.24|<< Acts 10:24]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.26|Acts 10:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

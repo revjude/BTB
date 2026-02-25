@@ -1,10 +1,60 @@
+---
+title: Luke 16:16
+type: Verse
+kjv: "The law and the prophets were until John: since that time the kingdom of God is preached, and every man presseth into it."
+bsb: "The Law and the Prophets were proclaimed until John. Since that time, the gospel of the kingdom of God is being preached, and everyone is forcing his way into it."
+jesus_said: "The law and the prophets were until John: since that time the kingdom of God is preached, and every man presseth into it."
+greek: "Ὁ νόμος καὶ οἱ προφῆται μέχρι Ἰωάννου· ἀπὸ τότε ἡ βασιλεία τοῦ θεοῦ εὐαγγελίζεται, καὶ πᾶς εἰς αὐτὴν βιάζεται."
+pericope: "[[Luke.16.14 The Law and the Prophets|The Law and the Prophets]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 16
+book/chapter: "[[Luke.16|Luke 16]]"
+chronological_order: 978
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic LAW|LAW]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G2532]]"
+- "[[G4396]]"
+- "[[G3360]]"
+- "[[G2491G]]"
+- "[[G0575]]"
+- "[[G5119]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G2097]]"
+- "[[G3956]]"
+- "[[G1519]]"
+- "[[G0846]]"
+- "[[G0971]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 16:16**<big><big>[[Luke.16.14 The Law and the Prophets|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The law and the prophets [were] until John: since that time the kingdom of God is preached, and every man presseth into it.
 <small><sub>**BSB:**</sub></small>
 The Law and the Prophets were proclaimed until John. Since that time, the gospel of the kingdom of God is being preached, and everyone is forcing his way into it.
-<small><sub>**Literal:**</sub></small>
-The law and the prophets [were] until John; from that time the kingdom <the> of God is evangelised [about], and everyone into it forces his way.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.15|<< Luke 16:15]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.17|Luke 16:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G3551\|νόμος]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4396\|προφῆται]]  [[G3360\|μέχρι]]  [[G2491G\|Ἰωάννου·]]  [[G0575\|ἀπὸ]]  [[G5119\|τότε]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2097\|εὐαγγελίζεται,]]  [[G2532\|καὶ]]  [[G3956\|πᾶς]]  [[G1519\|εἰς]]  [[G0846\|αὐτὴν]]  [[G0971\|βιάζεται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic LAW|LAW]] • [[topic SEEKERS|SEEKERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.15|<< Luke 16:15]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.17|Luke 16:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

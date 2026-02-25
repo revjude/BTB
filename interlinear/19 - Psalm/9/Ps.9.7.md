@@ -1,8 +1,55 @@
+---
+title: Psalm 9:7
+type: Verse
+kjv: "But the LORD shall endure for ever: he hath prepared his throne for judgment."
+bsb: "But the LORD abides forever; He has established His throne for judgment."
+hebrew: "וַֽ֭יהוָה לְעוֹלָ֣ם יֵשֵׁ֑ב כּוֹנֵ֖ן לַמִּשְׁפָּ֣ט כִּסְאֽוֹ׃"
+pericope: "[[Ps.9.1 I Will Give Thanks to the LORD|I Will Give Thanks to the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 9
+book/chapter: "[[Ps.9|Psalm 9]]"
+chronological_order: 343
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic THRONE|THRONE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H3427]]"
+- "[[H3559H]]"
+- "[[H4941H]]"
+- "[[H3678G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 9:7**<big><big>[[Ps.9.1 I Will Give Thanks to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the LORD shall endure for ever: he hath prepared his throne for judgment.
 <small><sub>**BSB:**</sub></small>
 But the LORD abides forever; He has established His throne for judgment.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַֽ֭]][[H3068G\|יהוָה]] [[H9005\|לְ]][[H5769G\|עוֹלָ֣ם]] [[H3427\|יֵשֵׁ֑ב]] [[H3559H\|כּוֹנֵ֖ן]] [[H9005\|לַ]][[H4941H\|מִּשְׁפָּ֣ט]] [[H3678G\|כִּסְאֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JUDGMENT|JUDGMENT]] • [[topic THRONE|THRONE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.6|<< Psalms 9:6]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.8|Psalms 9:8 >>]]</td></tr></table>
 

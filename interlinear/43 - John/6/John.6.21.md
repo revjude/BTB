@@ -1,10 +1,56 @@
+---
+title: John 6:21
+type: Verse
+kjv: "Then they willingly received him into the ship: and immediately the ship was at the land whither they went."
+bsb: "Then they were willing to take Him into the boat, and at once the boat reached the shore where they were heading."
+greek: "ἤθελον οὖν λαβεῖν αὐτὸν εἰς τὸ πλοῖον, καὶ εὐθέως ἐγένετο τὸ πλοῖον ἐπὶ τῆς γῆς εἰς ἣν ὑπῆγον.¶"
+pericope: "[[John.6.16 Jesus Walks on Water|Jesus Walks on Water]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2309]]"
+- "[[G3767]]"
+- "[[G2983]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4143]]"
+- "[[G2532]]"
+- "[[G2112]]"
+- "[[G1096]]"
+- "[[G1909]]"
+- "[[G1093H]]"
+- "[[G3739]]"
+- "[[G5217]]"
+texts:
+- NKO
+---
+
 **John 6:21**<big><big>[[John.6.16 Jesus Walks on Water|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then they willingly received him into the ship: and immediately the ship was at the land whither they went.
 <small><sub>**BSB:**</sub></small>
 Then they were willing to take Him into the boat, and at once the boat reached the shore where they were heading.
-<small><sub>**Literal:**</sub></small>
-They were willing then to receive Him into the boat, and immediately was the boat at the land to which they were going.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.20|<< John 6:20]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.22|John 6:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2309\|ἤθελον]]  [[G3767\|οὖν]]  [[G2983\|λαβεῖν]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4143\|πλοῖον,]]  [[G2532\|καὶ]]  [[G2112\|εὐθέως]]  [[G1096\|ἐγένετο]]  [[G3588\|τὸ]]  [[G4143\|πλοῖον]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093H\|γῆς]]  [[G1519\|εἰς]]  [[G3739\|ἣν]]  [[G5217\|ὑπῆγον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.20|<< John 6:20]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.22|John 6:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

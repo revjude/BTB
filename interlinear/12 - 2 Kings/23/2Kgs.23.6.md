@@ -1,8 +1,72 @@
+---
+title: 2 Kings 23:6
+type: Verse
+kjv: "And he brought out the grove from the house of the LORD, without Jerusalem, unto the brook Kidron, and burned it at the brook Kidron, and stamped it small to powder, and cast the powder thereof upon the graves of the children of the people."
+bsb: "He brought the Asherah pole from the house of the LORD to the Kidron Valley outside Jerusalem, and there he burned it, ground it to powder, and threw its dust on the graves of the common people."
+hebrew: "וַיֹּצֵ֣א אֶת־ הָאֲשֵׁרָה֩ מִבֵּ֨ית יְהוָ֜ה מִח֤וּץ לִירוּשָׁלִַ֙ם֙ אֶל־ נַ֣חַל קִדְר֔וֹן וַיִּשְׂרֹ֥ף אֹתָ֛הּ בְּנַ֥חַל קִדְר֖וֹן וַיָּ֣דֶק לְעָפָ֑ר וַיַּשְׁלֵךְ֙ אֶת־ עֲפָרָ֔הּ עַל־ קֶ֖בֶר בְּנֵ֥י הָעָֽם׃"
+pericope: "[[2Kgs.23.4 Josiah Destroys Idolatry|Josiah Destroys Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 23
+book/chapter: "[[2Kgs.23|2 Kings 23]]"
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CEDRON|CEDRON]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic KIDRON|KIDRON]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0842]]"
+- "[[H9006]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H2351]]"
+- "[[H9005]]"
+- "[[H3389]]"
+- "[[H0413]]"
+- "[[H5158A]]"
+- "[[H6939]]"
+- "[[H8313]]"
+- "[[H9034]]"
+- "[[H9003]]"
+- "[[H1854]]"
+- "[[H6083]]"
+- "[[H7993]]"
+- "[[H9024]]"
+- "[[H5921A]]"
+- "[[H6913]]"
+- "[[H1121A]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 23:6**<big><big>[[2Kgs.23.4 Josiah Destroys Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought out the grove from the house of the LORD, without Jerusalem, unto the brook Kidron, and burned it at the brook Kidron, and stamped [it] small to powder, and cast the powder thereof upon the graves of the children of the people.
 <small><sub>**BSB:**</sub></small>
 He brought the Asherah pole from the house of the LORD to the Kidron Valley outside Jerusalem, and there he burned it, ground it to powder, and threw its dust on the graves of the common people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318H\|יֹּצֵ֣א]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0842\|אֲשֵׁרָה֩]] [[H9006\|מִ]][[H1004Q\|בֵּ֨ית]] [[H3068G\|יְהוָ֜ה]] [[H9006\|מִ]][[H2351\|ח֤וּץ]] [[H9005\|לִ]][[H3389\|ירוּשָׁלִַ֙ם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H5158A\|נַ֣חַל]] [[H6939\|קִדְר֔וֹן]] [[H9001\|וַ]][[H8313\|יִּשְׂרֹ֥ף]] [[H0853\|אֹתָ֛]][[H9034\|הּ]] [[H9003\|בְּ]][[H5158A\|נַ֥חַל]] [[H6939\|קִדְר֖וֹן]] [[H9001\|וַ]][[H1854\|יָּ֣דֶק]] [[H9005\|לְ]][[H6083\|עָפָ֑ר]] [[H9001\|וַ]][[H7993\|יַּשְׁלֵךְ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6083\|עֲפָרָ֔]][[H9024\|הּ]] [[H5921A\|עַל]][[H9014\|־]] [[H6913\|קֶ֖בֶר]] [[H1121A\|בְּנֵ֥י]] [[H9009\|הָ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CEDRON|CEDRON]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOSIAH|JOSIAH]] • [[topic KIDRON|KIDRON]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.5|<< 2 Kings 23:5]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.7|2 Kings 23:7 >>]]</td></tr></table>
 

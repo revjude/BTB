@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: His Loving Devotion Endures Forever
+type: Pericope
 pericope: "[[Ps.136.1 His Loving Devotion Endures Forever|His Loving Devotion Endures Forever]]"
-verse_count: 26
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 136
 book/chapter: "[[Ps.136|Psalm 136]]"
-genre:
+chronological_order: 533
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 26
 verses:
 - "[[Ps.136.1]]"
 - "[[Ps.136.2]]"
@@ -47,7 +54,7 @@ verses:
 - "[[Ps.136.26]]"
 ---
 
-[[Ps.136|Psalm 136:1 - Psalm 136:26]]
+<small>[[Ps.136|Psalm 136:1-26]]</small>
 *His Loving Devotion Endures Forever*
 
 [[Ps.136.1|1]] O give thanks unto the LORD; for \[he is\] good: for his mercy \[endureth\] for ever.

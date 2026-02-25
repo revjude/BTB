@@ -1,10 +1,58 @@
+---
+title: Matthew 13:13
+type: Verse
+kjv: "Therefore speak I to them in parables: because they seeing see not; and hearing they hear not, neither do they understand."
+bsb: "This is why I speak to them in parables: ‘Though seeing, they do not see; though hearing, they do not hear or understand.’"
+jesus_said: "Therefore speak I to them in parables: because they seeing see not; and hearing they hear not, neither do they understand."
+greek: "διὰ τοῦτο ἐν παραβολαῖς αὐτοῖς λαλῶ ὅτι βλέποντες οὐ βλέπουσιν καὶ ἀκούοντες οὐκ ἀκούουσιν οὐδὲ συνίουσιν."
+pericope: "[[Matt.13.10 The Purpose of Jesus’ Parables|The Purpose of Jesus’ Parables]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 13
+book/chapter: "[[Matt.13|Matthew 13]]"
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G1722]]"
+- "[[G3850]]"
+- "[[G0846]]"
+- "[[G2980]]"
+- "[[G3754H]]"
+- "[[G0991]]"
+- "[[G3756]]"
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G3761]]"
+- "[[G4920]]"
+texts:
+- NKO
+---
+
 **Matthew 13:13**<big><big>[[Matt.13.10 The Purpose of Jesus’ Parables|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore speak I to them in parables: because they seeing see not; and hearing they hear not, neither do they understand.
 <small><sub>**BSB:**</sub></small>
 This is why I speak to them in parables: ‘Though seeing, they do not see; though hearing, they do not hear or understand.’
-<small><sub>**Literal:**</sub></small>
-Because of this in parables to them I speak Because seeing not do they see and hearing not do they hear nor do they understand.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.12|<< Matthew 13:12]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.14|Matthew 13:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G1722\|ἐν]]  [[G3850\|παραβολαῖς]]  [[G0846\|αὐτοῖς]]  [[G2980\|λαλῶ]]  [[G3754H\|ὅτι]]  [[G0991\|βλέποντες]]  [[G3756\|οὐ]]  [[G0991\|βλέπουσιν]]  [[G2532\|καὶ]]  [[G0191\|ἀκούοντες]]  [[G3756\|οὐκ]]  [[G0191\|ἀκούουσιν]]  [[G3761\|οὐδὲ]]  [[G4920\|συνίουσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SERMON|SERMON]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.12|<< Matthew 13:12]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.14|Matthew 13:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

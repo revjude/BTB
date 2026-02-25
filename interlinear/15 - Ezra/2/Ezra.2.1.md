@@ -1,8 +1,63 @@
+---
+title: Ezra 2:1
+type: Verse
+kjv: "Now these are the children of the province that went up out of the captivity, of those which had been carried away, whom Nebuchadnezzar the king of Babylon had carried away unto Babylon, and came again unto Jerusalem and Judah, every one unto his city;"
+bsb: "Now these are the people of the province who came up from the captivity of the exiles carried away to Babylon by Nebuchadnezzar its king. They returned to Jerusalem and Judah, each to his own town,"
+hebrew: "וְאֵ֣לֶּה׀ בְּנֵ֣י הַמְּדִינָ֗ה הָֽעֹלִים֙ מִשְּׁבִ֣י הַגּוֹלָ֔ה אֲשֶׁ֥ר הֶגְלָ֛ה נְבוּכַדְנֶצַּ֥ר מֶֽלֶךְ־ בָּבֶ֖ל לְבָבֶ֑ל וַיָּשׁ֛וּבוּ לִירוּשָׁלִַ֥ם וִֽיהוּדָ֖ה אִ֥ישׁ לְעִירֽוֹ׃"
+pericope: "[[Ezra.2.1 The List of Returning Exiles|The List of Returning Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 2
+book/chapter: "[[Ezra.2|Ezra 2]]"
+chronological_order: 850
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H9015]]"
+- "[[H1121G]]"
+- "[[H9009]]"
+- "[[H4082]]"
+- "[[H5927G]]"
+- "[[H9006]]"
+- "[[H7628A]]"
+- "[[H1473]]"
+- "[[H0834A]]"
+- "[[H1540K]]"
+- "[[H5020]]"
+- "[[H5019]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H0894]]"
+- "[[H9005]]"
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H3389]]"
+- "[[H3063G]]"
+- "[[H0376I]]"
+- "[[H5892B]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezra 2:1**<big><big>[[Ezra.2.1 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [are] the children of the province that went up out of the captivity, of those which had been carried away, whom Nebuchadnezzar the king of Babylon had carried away unto Babylon, and came again unto Jerusalem and Judah, every one unto his city;
 <small><sub>**BSB:**</sub></small>
 Now these are the people of the province who came up from the captivity of the exiles carried away to Babylon by Nebuchadnezzar its king. They returned to Jerusalem and Judah, each to his own town,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֣לֶּה]][[H9015\|׀]] [[H1121G\|בְּנֵ֣י]] [[H9009\|הַ]][[H4082\|מְּדִינָ֗ה]] [[H9009\|הָֽ]][[H5927G\|עֹלִים֙]] [[H9006\|מִ]][[H7628A\|שְּׁבִ֣י]] [[H9009\|הַ]][[H1473\|גּוֹלָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H1540K\|הֶגְלָ֛ה]] [[H5019\|נְבוּכַדְנֶצַּ֥ר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֖ל]] [[H9005\|לְ]][[H0894\|בָבֶ֑ל]] [[H9001\|וַ]][[H7725G\|יָּשׁ֛וּבוּ]] [[H9005\|לִ]][[H3389\|ירוּשָׁלִַ֥ם]] [[H9002\|וִֽ]][[H3063G\|יהוּדָ֖ה]] [[H0376I\|אִ֥ישׁ]] [[H9005\|לְ]][[H5892B\|עִירֽ]][[H9023\|וֹ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.1.11|<< Ezra 1:11]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.2|Ezra 2:2 >>]]</td></tr></table>
 

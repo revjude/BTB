@@ -1,10 +1,55 @@
+---
+title: 1 Thessalonians 4:11
+type: Verse
+kjv: "And that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you;"
+bsb: "and to aspire to live quietly, to attend to your own matters, and to work with your own hands, as we instructed you."
+greek: "καὶ φιλοτιμεῖσθαι ἡσυχάζειν καὶ πράσσειν τὰ ἴδια καὶ ἐργάζεσθαι ταῖς ἰδίαις χερσὶν ὑμῶν καθὼς ὑμῖν παρηγγείλαμεν·"
+pericope: "[[1Thess.4.1 Living to Please God|Living to Please God]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 4
+book/chapter: "[[1Thess.4|1 Thessalonians 4]]"
+chronological_order: 1051
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic EVIL|EVIL]]"
+- "[[topic HONESTY|HONESTY]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic LABOR|LABOR]]"
+strongs:
+- "[[G2532]]"
+- "[[G5389]]"
+- "[[G2270]]"
+- "[[G4238]]"
+- "[[G3588]]"
+- "[[G2398]]"
+- "[[G2038]]"
+- "[[G5495]]"
+- "[[G4771]]"
+- "[[G2531]]"
+- "[[G3853]]"
+texts:
+- NKO
+---
+
 **1 Thessalonians 4:11**<big><big>[[1Thess.4.1 Living to Please God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you;
 <small><sub>**BSB:**</sub></small>
 and to aspire to live quietly, to attend to your own matters, and to work with your own hands, as we instructed you.
-<small><sub>**Literal:**</sub></small>
-and to strive earnestly to live quietly and to attend to <the> [your] own and to work with the own hands of you even as you we commanded;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.10|<< 1 Thessalonians 4:10]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.12|1 Thessalonians 4:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5389\|φιλοτιμεῖσθαι]]  [[G2270\|ἡσυχάζειν]]  [[G2532\|καὶ]]  [[G4238\|πράσσειν]]  [[G3588\|τὰ]]  [[G2398\|ἴδια]]  [[G2532\|καὶ]]  [[G2038\|ἐργάζεσθαι]]  [[G3588\|ταῖς]]  [[G2398\|ἰδίαις]]  [[G5495\|χερσὶν]]  [[G4771\|ὑμῶν]]  [[G2531\|καθὼς]]  [[G4771\|ὑμῖν]]  [[G3853\|παρηγγείλαμεν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic EVIL|EVIL]] • [[topic HONESTY|HONESTY]] • [[topic INDUSTRY|INDUSTRY]] • [[topic LABOR|LABOR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.10|<< 1 Thessalonians 4:10]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.12|1 Thessalonians 4:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

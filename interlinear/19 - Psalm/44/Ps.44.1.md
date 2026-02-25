@@ -1,8 +1,62 @@
+---
+title: Psalm 44:1
+type: Verse
+kjv: "We have heard with our ears, O God, our fathers have told us, what work thou didst in their days, in the times of old."
+bsb: "For the choirmaster. A Maskil of the sons of Korah. We have heard with our ears, O God; our fathers have told us the work You did in their days, in the days of old."
+hebrew: "אֱלֹהִ֤ים׀ בְּאָזְנֵ֬ינוּ שָׁמַ֗עְנוּ אֲבוֹתֵ֥ינוּ סִפְּרוּ־ לָ֑נוּ פֹּ֥עַל פָּעַ֥לְתָּ בִֽ֝ימֵיהֶ֗ם בִּ֣ימֵי קֶֽדֶם׃"
+pericope: "[[Ps.44.1 Redeem Us, O God|Redeem Us, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 44
+book/chapter: "[[Ps.44|Psalm 44]]"
+chronological_order: 499
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[H0430G]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H0241G]]"
+- "[[H9025]]"
+- "[[H8085G]]"
+- "[[H0001G]]"
+- "[[H5608A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H6467]]"
+- "[[H6466]]"
+- "[[H3117G]]"
+- "[[H9028]]"
+- "[[H6924H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 44:1**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We have heard with our ears, O God, our fathers have told us, [what] work thou didst in their days, in the times of old.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. A Maskil of the sons of Korah. We have heard with our ears, O God; our fathers have told us the work You did in their days, in the days of old.
+<small><sub>**Hebrew:**</sub></small>
+[[H0430G\|אֱלֹהִ֤ים]][[H9015\|׀]] [[H9003\|בְּ]][[H0241G\|אָזְנֵ֬י]][[H9025\|נוּ]] [[H8085G\|שָׁמַ֗עְנוּ]] [[H0001G\|אֲבוֹתֵ֥י]][[H9025\|נוּ]] [[H5608A\|סִפְּרוּ]][[H9014\|־]] [[H9005\|לָ֑]][[H9035\|נוּ]] [[H6467\|פֹּ֥עַל]] [[H6466\|פָּעַ֥לְתָּ]] [[H9003\|בִֽ֝]][[H3117G\|ימֵי]][[H9028\|הֶ֗ם]] [[H9003\|בִּ֣]][[H3117G\|ימֵי]] [[H6924H\|קֶֽדֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic GOD|GOD]] • [[topic MUSIC|MUSIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.0|<< Psalms 44:0]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.2|Psalms 44:2 >>]]</td></tr></table>
 

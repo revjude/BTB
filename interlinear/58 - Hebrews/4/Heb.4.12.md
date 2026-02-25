@@ -1,10 +1,70 @@
+---
+title: Hebrews 4:12
+type: Verse
+kjv: "For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart."
+bsb: "For the word of God is living and active. Sharper than any double-edged sword, it pierces even to dividing soul and spirit, joints and marrow. It judges the thoughts and intentions of the heart."
+greek: "ζῶν γὰρ ὁ λόγος τοῦ θεοῦ καὶ ἐνεργὴς καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς τε καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας·"
+pericope: "[[Heb.4.12 The Living Word|The Living Word]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 4
+book/chapter: "[[Heb.4|Hebrews 4]]"
+chronological_order: 1143
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic HEART|HEART]]"
+- "[[topic MAN|MAN]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SECRET|SECRET]]"
+- "[[topic SWORD|SWORD]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2198]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G1756]]"
+- "[[G5114]]"
+- "[[G5228]]"
+- "[[G3956]]"
+- "[[G3162]]"
+- "[[G1366]]"
+- "[[G1338]]"
+- "[[G0891]]"
+- "[[G3311]]"
+- "[[G5590G]]"
+- "[[G5037]]"
+- "[[G4151G]]"
+- "[[G0719]]"
+- "[[G3452]]"
+- "[[G2924]]"
+- "[[G1761]]"
+- "[[G1771]]"
+- "[[G2588]]"
+texts:
+- NKO
+- k
+---
+
 **Hebrews 4:12**<big><big>[[Heb.4.12 The Living Word|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the word of God [is] quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and [is] a discerner of the thoughts and intents of the heart.
 <small><sub>**BSB:**</sub></small>
 For the word of God is living and active. Sharper than any double-edged sword, it pierces even to dividing soul and spirit, joints and marrow. It judges the thoughts and intentions of the heart.
-<small><sub>**Literal:**</sub></small>
-Living [is] for the word <the> of God and active and sharper than any sword two-edged even penetrating as far as [the] division of soul then and spirit, of joints and also marrows, and able to judge [the] thoughts and intentions of [the] heart;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.11|<< Hebrews 4:11]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.13|Hebrews 4:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2198\|ζῶν]]  [[G1063\|γὰρ]]  [[G3588\|ὁ]]  [[G3056\|λόγος]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G1756\|ἐνεργὴς]]  [[G2532\|καὶ]]  [[G5114\|τομώτερος]]  [[G5228\|ὑπὲρ]]  [[G3956\|πᾶσαν]]  [[G3162\|μάχαιραν]]  [[G1366\|δίστομον]]  [[G2532\|καὶ]]  [[G1338\|διϊκνούμενος]]  [[G0891\|ἄχρι]]  [[G3311\|μερισμοῦ]]  [[G5590G\|ψυχῆς]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G4151G\|πνεύματος,]]  [[G0719\|ἁρμῶν]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G3452\|μυελῶν,]]  [[G2532\|καὶ]]  [[G2924\|κριτικὸς]]  [[G1761\|ἐνθυμήσεων]]  [[G2532\|καὶ]]  [[G1771\|ἐννοιῶν]]  [[G2588\|καρδίας·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEART|HEART]] • [[topic MAN|MAN]] • [[topic REGENERATION|REGENERATION]] • [[topic SECRET|SECRET]] • [[topic SWORD|SWORD]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.11|<< Hebrews 4:11]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.13|Hebrews 4:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

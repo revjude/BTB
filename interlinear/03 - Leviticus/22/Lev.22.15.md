@@ -1,8 +1,54 @@
+---
+title: Leviticus 22:15
+type: Verse
+kjv: "And they shall not profane the holy things of the children of Israel, which they offer unto the LORD;"
+bsb: "The priests must not profane the sacred offerings that the Israelites present to the LORD"
+hebrew: "וְלֹ֣א יְחַלְּל֔וּ אֶת־ קָדְשֵׁ֖י בְּנֵ֣י יִשְׂרָאֵ֑ל אֵ֥ת אֲשֶׁר־ יָרִ֖ימוּ לַיהוָֽה׃"
+pericope: "[[Lev.22.1 Restrictions against the Unclean|Restrictions against the Unclean]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 22
+book/chapter: "[[Lev.22|Leviticus 22]]"
+chronological_order: 154
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2490H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H7311A]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 22:15**<big><big>[[Lev.22.1 Restrictions against the Unclean|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall not profane the holy things of the children of Israel, which they offer unto the LORD;
 <small><sub>**BSB:**</sub></small>
 The priests must not profane the sacred offerings that the Israelites present to the LORD
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֣א]] [[H2490H\|יְחַלְּל֔וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H6944G\|קָדְשֵׁ֖י]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H0853\|אֵ֥ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7311A\|יָרִ֖ימוּ]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.14|<< Leviticus 22:14]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.16|Leviticus 22:16 >>]]</td></tr></table>
 

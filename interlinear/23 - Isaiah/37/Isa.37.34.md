@@ -1,8 +1,58 @@
+---
+title: Isaiah 37:34
+type: Verse
+kjv: "By the way that he came, by the same shall he return, and shall not come into this city, saith the LORD."
+bsb: "He will go back the way he came, and he will not enter this city,’ declares the LORD."
+hebrew: "בַּדֶּ֥רֶךְ אֲשֶׁר־ בָּ֖א בָּ֣הּ יָשׁ֑וּב וְאֶל־ הָעִ֥יר הַזֹּ֛את לֹ֥א יָב֖וֹא נְאֻם־ יְהוָֽה׃"
+pericope: "[[Isa.37.21 Sennacherib’s Fall Prophesied|Sennacherib’s Fall Prophesied]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 37
+book/chapter: "[[Isa.37|Isaiah 37]]"
+chronological_order: 664
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic LIBNAH|LIBNAH]]"
+strongs:
+- "[[H9003]]"
+- "[[H1870K]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9034]]"
+- "[[H7725G]]"
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H3808]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 37:34**<big><big>[[Isa.37.21 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By the way that he came, by the same shall he return, and shall not come into this city, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 He will go back the way he came, and he will not enter this city,’ declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H1870K\|דֶּ֥רֶךְ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֖א]] [[H9003\|בָּ֣]][[H9034\|הּ]] [[H7725G\|יָשׁ֑וּב]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֥יר]] [[H9009\|הַ]][[H2063\|זֹּ֛את]] [[H3808\|לֹ֥א]] [[H0935G\|יָב֖וֹא]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic LIBNAH|LIBNAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.33|<< Isaiah 37:33]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.35|Isaiah 37:35 >>]]</td></tr></table>
 

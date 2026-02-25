@@ -1,8 +1,53 @@
+---
+title: Proverbs 13:25
+type: Verse
+kjv: "The righteous eateth to the satisfying of his soul: but the belly of the wicked shall want."
+bsb: "A righteous man eats to his heart’s content, but the stomach of the wicked is empty."
+hebrew: "צַדִּ֗יק אֹ֭כֵל לְשֹׂ֣בַע נַפְשׁ֑וֹ וּבֶ֖טֶן רְשָׁעִ֣ים תֶּחְסָֽר׃ פ"
+pericope: "[[Prov.13.1 A Father’s Discipline|A Father’s Discipline]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 13
+book/chapter: "[[Prov.13|Proverbs 13]]"
+chronological_order: 468
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H6662]]"
+- "[[H0398]]"
+- "[[H9005]]"
+- "[[H7648]]"
+- "[[H5315L]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0990G]]"
+- "[[H7563]]"
+- "[[H2637]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Proverbs 13:25**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The righteous eateth to the satisfying of his soul: but the belly of the wicked shall want.
 <small><sub>**BSB:**</sub></small>
 A righteous man eats to his heart’s content, but the stomach of the wicked is empty.
+<small><sub>**Hebrew:**</sub></small>
+[[H6662\|צַדִּ֗יק]] [[H0398\|אֹ֭כֵל]] [[H9005\|לְ]][[H7648\|שֹׂ֣בַע]] [[H5315L\|נַפְשׁ֑]][[H9023\|וֹ]] [[H9002\|וּ]][[H0990G\|בֶ֖טֶן]] [[H7563\|רְשָׁעִ֣ים]] [[H2637\|תֶּחְסָֽר]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.24|<< Proverbs 13:24]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.1|Proverbs 14:1 >>]]</td></tr></table>
 
@@ -14,7 +59,7 @@ A righteous man eats to his heart’s content, but the stomach of the wicked is 
 | appetite his  |**<big>&#8207;[[H5315L\|נַפְשׁ֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [the] belly of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H0990G\|בֶ֖טֶן]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Ve.ten<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wicked [people]  |**<big>&#8207;[[H7563\|רְשָׁעִ֣ים]]&#8207; </big>**| re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it is lacking  |**<big>&#8207;[[H2637\|תֶּחְסָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tech.Sar<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is lacking  |**<big>&#8207;[[H2637\|תֶּחְסָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tech.Sar<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.24|<< Proverbs 13:24]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.1|Proverbs 14:1 >>]]</td></tr></table>
 
 

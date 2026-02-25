@@ -1,10 +1,57 @@
+---
+title: Mark 13:4
+type: Verse
+kjv: "Tell us, when shall these things be? and what shall be the sign when all these things shall be fulfilled?"
+bsb: "“Tell us, when will these things happen? And what will be the sign that they are about to be fulfilled?”"
+greek: "εἰπὸν ἡμῖν· πότε ταῦτα ἔσται καὶ τί τὸ σημεῖον ὅταν μέλλῃ ταῦτα συντελεῖσθαι πάντα;¶"
+pericope: "[[Mark.13.1 Temple Destruction and Other Signs|Temple Destruction and Other Signs]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 13
+book/chapter: "[[Mark.13|Mark 13]]"
+chronological_order: 998
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANDREW|ANDREW]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SIGN|SIGN]]"
+strongs:
+- "[[G2036]]"
+- "[[G3165]]"
+- "[[G4219]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G5101]]"
+- "[[G3588]]"
+- "[[G4592]]"
+- "[[G3752]]"
+- "[[G3195]]"
+- "[[G4931]]"
+- "[[G3956]]"
+texts:
+- NKO
+---
+
 **Mark 13:4**<big><big>[[Mark.13.1 Temple Destruction and Other Signs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Tell us, when shall these things be? and what [shall be] the sign when all these things shall be fulfilled?
 <small><sub>**BSB:**</sub></small>
 “Tell us, when will these things happen? And what will be the sign that they are about to be fulfilled?”
-<small><sub>**Literal:**</sub></small>
-do tell us: when these things will be And what [will be] the sign when may soon these things to be accomplished all<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.3|<< Mark 13:3]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.5|Mark 13:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἰπὸν]]  [[G3165\|ἡμῖν·]]  [[G4219\|πότε]]  [[G3778\|ταῦτα]]  [[G1510\|ἔσται]]  [[G2532\|καὶ]]  [[G5101\|τί]]  [[G3588\|τὸ]]  [[G4592\|σημεῖον]]  [[G3752\|ὅταν]]  [[G3195\|μέλλῃ]]  [[G3778\|ταῦτα]]  [[G4931\|συντελεῖσθαι]]  [[G3956\|πάντα;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANDREW|ANDREW]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic SIGN|SIGN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.3|<< Mark 13:3]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.5|Mark 13:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

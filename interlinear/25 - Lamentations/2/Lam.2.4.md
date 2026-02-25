@@ -1,8 +1,63 @@
+---
+title: Lamentations 2:4
+type: Verse
+kjv: "He hath bent his bow like an enemy: he stood with his right hand as an adversary, and slew all that were pleasant to the eye in the tabernacle of the daughter of Zion: he poured out his fury like fire."
+bsb: "He has bent His bow like an enemy; His right hand is positioned. Like a foe He has killed all who were pleasing to the eye; He has poured out His wrath like fire on the tent of the Daughter of Zion."
+hebrew: "דָּרַ֨ךְ קַשְׁתּ֜וֹ כְּאוֹיֵ֗ב נִצָּ֤ב יְמִינוֹ֙ כְּצָ֔ר וַֽיַּהֲרֹ֔ג כֹּ֖ל מַחֲמַדֵּי־ עָ֑יִן בְּאֹ֙הֶל֙ בַּת־ צִיּ֔וֹן שָׁפַ֥ךְ כָּאֵ֖שׁ חֲמָתֽוֹ׃ ס"
+pericope: "[[Lam.2.1 God’s Anger over Jerusalem|God’s Anger over Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 2
+book/chapter: "[[Lam.2|Lamentations 2]]"
+chronological_order: 777
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic BOW|BOW]]"
+strongs:
+- "[[H1869]]"
+- "[[H7198]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H0341]]"
+- "[[H5324]]"
+- "[[H3225G]]"
+- "[[H6862C]]"
+- "[[H9001]]"
+- "[[H2026]]"
+- "[[H3605]]"
+- "[[H4261]]"
+- "[[H9014]]"
+- "[[H5869A]]"
+- "[[H9003]]"
+- "[[H0168G]]"
+- "[[H1323G]]"
+- "[[H6726]]"
+- "[[H8210G]]"
+- "[[H0784]]"
+- "[[H2534]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Lamentations 2:4**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath bent his bow like an enemy: he stood with his right hand as an adversary, and slew all [that were] pleasant to the eye in the tabernacle of the daughter of Zion: he poured out his fury like fire.
 <small><sub>**BSB:**</sub></small>
 He has bent His bow like an enemy; His right hand is positioned. Like a foe He has killed all who were pleasing to the eye; He has poured out His wrath like fire on the tent of the Daughter of Zion.
+<small><sub>**Hebrew:**</sub></small>
+[[H1869\|דָּרַ֨ךְ]] [[H7198\|קַשְׁתּ֜]][[H9023\|וֹ]] [[H9004\|כְּ]][[H0341\|אוֹיֵ֗ב]] [[H5324\|נִצָּ֤ב]] [[H3225G\|יְמִינ]][[H9023\|וֹ֙]] [[H9004\|כְּ]][[H6862C\|צָ֔ר]] [[H9001\|וַֽ]][[H2026\|יַּהֲרֹ֔ג]] [[H3605\|כֹּ֖ל]] [[H4261\|מַחֲמַדֵּי]][[H9014\|־]] [[H5869A\|עָ֑יִן]] [[H9003\|בְּ]][[H0168G\|אֹ֙הֶל֙]] [[H1323G\|בַּת]][[H9014\|־]] [[H6726\|צִיּ֔וֹן]] [[H8210G\|שָׁפַ֥ךְ]] [[H9004\|כָּ]][[H0784\|אֵ֖שׁ]] [[H2534\|חֲמָתֽ]][[H9023\|וֹ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOW|BOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.3|<< Lamentations 2:3]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.5|Lamentations 2:5 >>]]</td></tr></table>
 
@@ -23,7 +78,7 @@ He has bent His bow like an enemy; His right hand is positioned. Like a foe He h
 | Zion  |**<big>&#8207;[[H6726\|צִיּ֔וֹן]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has poured out  |**<big>&#8207;[[H8210G\|שָׁפַ֥ךְ]]&#8207; </big>**| sha.Fakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like \<the> fire  |**<big>&#8207;[[H9004\|כָּ]]&#8207;&#8207;[[H0784\|אֵ֖שׁ]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| rage his  |**<big>&#8207;[[H2534\|חֲמָתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| cha.ma.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rage his  |**<big>&#8207;[[H2534\|חֲמָתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| cha.ma.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.3|<< Lamentations 2:3]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.5|Lamentations 2:5 >>]]</td></tr></table>
 
 

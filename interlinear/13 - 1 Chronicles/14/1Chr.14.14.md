@@ -1,8 +1,62 @@
+---
+title: 1 Chronicles 14:14
+type: Verse
+kjv: "Therefore David inquired again of God; and God said unto him, Go not up after them; turn away from them, and come upon them over against the mulberry trees."
+bsb: "So David again inquired of God, who answered him, “Do not march up after them, but circle around them and attack them in front of the balsam trees."
+hebrew: "וַיִּשְׁאַ֨ל ע֤וֹד דָּוִיד֙ בֵּֽאלֹהִ֔ים וַיֹּ֤אמֶר לוֹ֙ הָֽאֱלֹהִ֔ים לֹ֥א תַֽעֲלֶ֖ה אַֽחֲרֵיהֶ֑ם הָסֵב֙ מֵֽעֲלֵיהֶ֔ם וּבָ֥אתָ לָהֶ֖ם מִמּ֥וּל הַבְּכָאִֽים׃"
+pericope: "[[1Chr.14.8 Two Victories over the Philistines|Two Victories over the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 14
+book/chapter: "[[1Chr.14|1 Chronicles 14]]"
+chronological_order: 395
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7592]]"
+- "[[H5750]]"
+- "[[H1732]]"
+- "[[H9003]]"
+- "[[H0430G]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H3808]]"
+- "[[H5927G]]"
+- "[[H0310A]]"
+- "[[H9038]]"
+- "[[H5437H]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H0935G]]"
+- "[[H4136]]"
+- "[[H1057]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 14:14**<big><big>[[1Chr.14.8 Two Victories over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore David inquired again of God; and God said unto him, Go not up after them; turn away from them, and come upon them over against the mulberry trees.
 <small><sub>**BSB:**</sub></small>
 So David again inquired of God, who answered him, “Do not march up after them, but circle around them and attack them in front of the balsam trees.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7592\|יִּשְׁאַ֨ל]] [[H5750\|ע֤וֹד]] [[H1732\|דָּוִיד֙]] [[H9003\|בֵּֽ]][[H0430G\|אלֹהִ֔ים]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֔ים]] [[H3808\|לֹ֥א]] [[H5927G\|תַֽעֲלֶ֖ה]] [[H0310A\|אַֽחֲרֵי]][[H9038\|הֶ֑ם]] [[H5437H\|הָסֵב֙]] [[H9006\|מֵֽ]][[H5921A\|עֲלֵי]][[H9038\|הֶ֔ם]] [[H9001\|וּ]][[H0935G\|בָ֥אתָ]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9006\|מִ]][[H4136\|מּ֥וּל]] [[H9009\|הַ]][[H1057\|בְּכָאִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.14.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.14.13|<< 1 Chronicles 14:13]]</td><td align="center" style="border:none;">[[1Chr.14|1 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.14.15|1 Chronicles 14:15 >>]]</td></tr></table>
 

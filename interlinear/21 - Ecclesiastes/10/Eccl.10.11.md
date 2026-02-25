@@ -1,8 +1,58 @@
+---
+title: Ecclesiastes 10:11
+type: Verse
+kjv: "Surely the serpent will bite without enchantment; and a babbler is no better."
+bsb: "If the snake bites before it is charmed, there is no profit for the charmer."
+hebrew: "אִם־ יִשֹּׁ֥ךְ הַנָּחָ֖שׁ בְּלוֹא־ לָ֑חַשׁ וְאֵ֣ין יִתְר֔וֹן לְבַ֖עַל הַלָּשֽׁוֹן׃"
+pericope: "[[Eccl.10.1 Wisdom and Folly|Wisdom and Folly]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 10
+book/chapter: "[[Eccl.10|Ecclesiastes 10]]"
+chronological_order: 548
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic FOOL|FOOL]]"
+- "[[topic SERPENT|SERPENT]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H5391A]]"
+- "[[H9009]]"
+- "[[H5175]]"
+- "[[H9003]]"
+- "[[H3808]]"
+- "[[H3908]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H3504]]"
+- "[[H9005]]"
+- "[[H1167K]]"
+- "[[H3956G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 10:11**<big><big>[[Eccl.10.1 Wisdom and Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely the serpent will bite without enchantment; and a babbler is no better.
 <small><sub>**BSB:**</sub></small>
 If the snake bites before it is charmed, there is no profit for the charmer.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H5391A\|יִשֹּׁ֥ךְ]] [[H9009\|הַ]][[H5175\|נָּחָ֖שׁ]] [[H9003\|בְּ]][[H3808\|לוֹא]][[H9014\|־]] [[H3908\|לָ֑חַשׁ]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H3504\|יִתְר֔וֹן]] [[H9005\|לְ]][[H1167K\|בַ֖עַל]] [[H9009\|הַ]][[H3956G\|לָּשֽׁוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FOOL|FOOL]] • [[topic SERPENT|SERPENT]] • [[topic SLANDER|SLANDER]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.10.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.10|<< Ecclesiastes 10:10]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.12|Ecclesiastes 10:12 >>]]</td></tr></table>
 

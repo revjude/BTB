@@ -1,8 +1,68 @@
+---
+title: Jeremiah 29:31
+type: Verse
+kjv: "Send to all them of the captivity, saying, Thus saith the LORD concerning Shemaiah the Nehelamite; Because that Shemaiah hath prophesied unto you, and I sent him not, and he caused you to trust in a lie:"
+bsb: "“Send a message telling all the exiles what the LORD says concerning Shemaiah the Nehelamite. Because Shemaiah has prophesied to you—though I did not send him—and has made you trust in a lie,"
+hebrew: "שְׁלַ֤ח עַל־ כָּל־ הַגּוֹלָה֙ לֵאמֹ֔ר כֹּ֚ה אָמַ֣ר יְהוָ֔ה אֶל־ שְׁמַעְיָ֖ה הַנֶּחֱלָמִ֑י יַ֡עַן אֲשֶׁר֩ נִבָּ֨א לָכֶ֜ם שְׁמַעְיָ֗ה וַֽאֲנִי֙ לֹ֣א שְׁלַחְתִּ֔יו וַיַּבְטַ֥ח אֶתְכֶ֖ם עַל־ שָֽׁקֶר׃"
+pericope: "[[Jer.29.24 The Message to Shemaiah|The Message to Shemaiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 29
+book/chapter: "[[Jer.29|Jeremiah 29]]"
+chronological_order: 752
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic SHEMAIAH|SHEMAIAH]]"
+strongs:
+- "[[H7971G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1473]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H8098Y]]"
+- "[[H5161]]"
+- "[[H3282]]"
+- "[[H0834A]]"
+- "[[H5012]]"
+- "[[H9036]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H3808]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H0982]]"
+- "[[H0853]]"
+- "[[H8267]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 29:31**<big><big>[[Jer.29.24 The Message to Shemaiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Send to all them of the captivity, saying, Thus saith the LORD concerning Shemaiah the Nehelamite; Because that Shemaiah hath prophesied unto you, and I sent him not, and he caused you to trust in a lie:
 <small><sub>**BSB:**</sub></small>
 “Send a message telling all the exiles what the LORD says concerning Shemaiah the Nehelamite. Because Shemaiah has prophesied to you—though I did not send him—and has made you trust in a lie,
+<small><sub>**Hebrew:**</sub></small>
+[[H7971G\|שְׁלַ֤ח]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1473\|גּוֹלָה֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H8098Y\|שְׁמַעְיָ֖ה]] [[H9009\|הַ]][[H5161\|נֶּחֱלָמִ֑י]] [[H3282\|יַ֡עַן]] [[H0834A\|אֲשֶׁר֩]] [[H5012\|נִבָּ֨א]] [[H9005\|לָ]][[H9036\|כֶ֜ם]] [[H8098Y\|שְׁמַעְיָ֗ה]] [[H9002\|וַֽ]][[H0589\|אֲנִי֙]] [[H3808\|לֹ֣א]] [[H7971G\|שְׁלַחְתִּ֔י]][[H9033\|ו]] [[H9001\|וַ]][[H0982\|יַּבְטַ֥ח]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H5921A\|עַל]][[H9014\|־]] [[H8267\|שָֽׁקֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHEMAIAH|SHEMAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.30|<< Jeremiah 29:30]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.32|Jeremiah 29:32 >>]]</td></tr></table>
 

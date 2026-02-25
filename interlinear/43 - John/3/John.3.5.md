@@ -1,10 +1,70 @@
+---
+title: John 3:5
+type: Verse
+kjv: "Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God."
+bsb: "Jesus answered, “Truly, truly, I tell you, no one can enter the kingdom of God unless he is born of water and the Spirit."
+jesus_said: "Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God."
+greek: "Ἀπεκρίθη ὁ Ἰησοῦς· ἀμὴν ἀμὴν λέγω σοι, ἐὰν μή τις γεννηθῇ ἐξ ὕδατος καὶ πνεύματος, οὐ δύναται εἰσελθεῖν εἰς τὴν βασιλείαν τοῦ θεοῦ.¶"
+pericope: "[[John.3.1 Jesus and Nicodemus|Jesus and Nicodemus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 3
+book/chapter: "[[John.3|John 3]]"
+chronological_order: 941
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MAN|MAN]]"
+- "[[topic NICODEMUS|NICODEMUS]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G5100]]"
+- "[[G1080]]"
+- "[[G1537]]"
+- "[[G5204]]"
+- "[[G2532]]"
+- "[[G4151G]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G0932]]"
+- "[[G2316]]"
+texts:
+- NKO
+- ko
+---
+
 **John 3:5**<big><big>[[John.3.1 Jesus and Nicodemus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and [of] the Spirit, he cannot enter into the kingdom of God.
 <small><sub>**BSB:**</sub></small>
 Jesus answered, “Truly, truly, I tell you, no one can enter the kingdom of God unless he is born of water and the Spirit.
-<small><sub>**Literal:**</sub></small>
-Answered <the> Jesus; Amen Amen I say to you, only unless someone shall be born of water and of [the] Spirit, not he is able to enter into the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.4|<< John 3:4]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.6|John 3:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀπεκρίθη]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G0281\|ἀμὴν]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|σοι,]]  [[G1437\|ἐὰν]]  [[G3361\|μή]]  [[G5100\|τις]]  [[G1080\|γεννηθῇ]]  [[G1537\|ἐξ]]  [[G5204\|ὕδατος]]  [[G2532\|καὶ]]  [[G4151G\|πνεύματος,]]  [[G3756\|οὐ]]  [[G1410\|δύναται]]  [[G1525\|εἰσελθεῖν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic MAN|MAN]] • [[topic NICODEMUS|NICODEMUS]] • [[topic REGENERATION|REGENERATION]] • [[topic SALVATION|SALVATION]] • [[topic SYMBOLS|SYMBOLS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.4|<< John 3:4]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.6|John 3:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **John 3:5** is...
 > $\quad$ alluding to: [[LXX.Ezek.36.25|Ezek 36:25-27]]

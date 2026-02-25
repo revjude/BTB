@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Issachar’s Inheritance
+type: Pericope
 pericope: "[[Josh.19.17 Issachar’s Inheritance|Issachar’s Inheritance]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 19
 book/chapter: "[[Josh.19|Joshua 19]]"
-genre:
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 7
 verses:
 - "[[Josh.19.17]]"
 - "[[Josh.19.18]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Josh.19.23]]"
 ---
 
-[[Josh.19|Joshua 19:17 - Joshua 19:23]]
+<small>[[Josh.19|Joshua 19:17-23]]</small>
 *Issachar’s Inheritance*
 
 [[Josh.19.17|17]] \[And\] the fourth lot came out to Issachar, for the children of Issachar according to their families.

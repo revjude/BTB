@@ -1,8 +1,66 @@
+---
+title: Leviticus 14:22
+type: Verse
+kjv: "And two turtledoves, or two young pigeons, such as he is able to get; and the one shall be a sin offering, and the other a burnt offering."
+bsb: "and two turtledoves or two young pigeons, whichever he can afford, one to be a sin offering and the other a burnt offering."
+hebrew: "וּשְׁתֵּ֣י תֹרִ֗ים א֤וֹ שְׁנֵי֙ בְּנֵ֣י יוֹנָ֔ה אֲשֶׁ֥ר תַּשִּׂ֖יג יָד֑וֹ וְהָיָ֤ה אֶחָד֙ חַטָּ֔את וְהָאֶחָ֖ד עֹלָֽה׃"
+pericope: "[[Lev.14.1 Cleansing from Skin Diseases|Cleansing from Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 14
+book/chapter: "[[Lev.14|Leviticus 14]]"
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic DOVE, TURTLE|DOVE, TURTLE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PIGEON|PIGEON]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H8449]]"
+- "[[H0176A]]"
+- "[[H1121H]]"
+- "[[H3123]]"
+- "[[H0834A]]"
+- "[[H5381]]"
+- "[[H3027T]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0259]]"
+- "[[H2403H]]"
+- "[[H9009]]"
+- "[[H5930A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 14:22**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And two turtledoves, or two young pigeons, such as he is able to get; and the one shall be a sin offering, and the other a burnt offering.
 <small><sub>**BSB:**</sub></small>
 and two turtledoves or two young pigeons, whichever he can afford, one to be a sin offering and the other a burnt offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H8147\|שְׁתֵּ֣י]] [[H8449\|תֹרִ֗ים]] [[H0176A\|א֤וֹ]] [[H8147\|שְׁנֵי֙]] [[H1121H\|בְּנֵ֣י]] [[H3123\|יוֹנָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H5381\|תַּשִּׂ֖יג]] [[H3027T\|יָד֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H1961\|הָיָ֤ה]] [[H0259\|אֶחָד֙]] [[H2403H\|חַטָּ֔את]] [[H9002\|וְ]][[H9009\|הָ]][[H0259\|אֶחָ֖ד]] [[H5930A\|עֹלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic DOVE, TURTLE|DOVE, TURTLE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PIGEON|PIGEON]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.21|<< Leviticus 14:21]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.23|Leviticus 14:23 >>]]</td></tr></table>
 

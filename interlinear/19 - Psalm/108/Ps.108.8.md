@@ -1,8 +1,52 @@
+---
+title: Psalm 108:8
+type: Verse
+kjv: "Gilead is mine; Manasseh is mine; Ephraim also is the strength of mine head; Judah is my lawgiver;"
+bsb: "Gilead is Mine, and Manasseh is Mine; Ephraim is My helmet, Judah is My scepter."
+hebrew: "לִ֤י גִלְעָ֨ד׀ לִ֤י מְנַשֶּׁ֗ה וְ֭אֶפְרַיִם מָע֣וֹז רֹאשִׁ֑י יְ֝הוּדָ֗ה מְחֹקְקִֽי׃"
+pericope: "[[Ps.108.1 Israel’s Kingdom Blessing|Israel’s Kingdom Blessing]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 108
+book/chapter: "[[Ps.108|Psalm 108]]"
+chronological_order: 382
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H1568G]]"
+- "[[H9015]]"
+- "[[H4519G]]"
+- "[[H9002]]"
+- "[[H0669G]]"
+- "[[H4581]]"
+- "[[H7218H]]"
+- "[[H9020]]"
+- "[[H3063G]]"
+- "[[H2710]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 108:8**<big><big>[[Ps.108.1 Israel’s Kingdom Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Gilead [is] mine; Manasseh [is] mine; Ephraim also [is] the strength of mine head; Judah [is] my lawgiver;
 <small><sub>**BSB:**</sub></small>
 Gilead is Mine, and Manasseh is Mine; Ephraim is My helmet, Judah is My scepter.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ֤]][[H9030\|י]] [[H1568G\|גִלְעָ֨ד]][[H9015\|׀]] [[H9005\|לִ֤]][[H9030\|י]] [[H4519G\|מְנַשֶּׁ֗ה]] [[H9002\|וְ֭]][[H0669G\|אֶפְרַיִם]] [[H4581\|מָע֣וֹז]] [[H7218H\|רֹאשִׁ֑]][[H9020\|י]] [[H3063G\|יְ֝הוּדָ֗ה]] [[H2710\|מְחֹקְקִֽ]][[H9030\|י]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.108.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.108.7|<< Psalms 108:7]]</td><td align="center" style="border:none;">[[Ps.108|Psalms 108]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.108.9|Psalms 108:9 >>]]</td></tr></table>
 

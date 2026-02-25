@@ -1,8 +1,63 @@
+---
+title: Psalm 9:10
+type: Verse
+kjv: "And they that know thy name will put their trust in thee: for thou, LORD, hast not forsaken them that seek thee."
+bsb: "Those who know Your name trust in You, for You, O LORD, have not forsaken those who seek You."
+hebrew: "וְיִבְטְח֣וּ בְ֭ךָ יוֹדְעֵ֣י שְׁמֶ֑ךָ כִּ֤י לֹֽא־ עָזַ֖בְתָּ דֹרְשֶׁ֣יךָ יְהוָֽה׃"
+pericope: "[[Ps.9.1 I Will Give Thanks to the LORD|I Will Give Thanks to the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 9
+book/chapter: "[[Ps.9|Psalm 9]]"
+chronological_order: 343
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9002]]"
+- "[[H0982]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H3045]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5800A]]"
+- "[[H1875]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 9:10**<big><big>[[Ps.9.1 I Will Give Thanks to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they that know thy name will put their trust in thee: for thou, LORD, hast not forsaken them that seek thee.
 <small><sub>**BSB:**</sub></small>
 Those who know Your name trust in You, for You, O LORD, have not forsaken those who seek You.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0982\|יִבְטְח֣וּ]] [[H9003\|בְ֭]][[H9031\|ךָ]] [[H3045\|יוֹדְעֵ֣י]] [[H8034\|שְׁמֶ֑]][[H9021\|ךָ]] [[H3588A\|כִּ֤י]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5800A\|עָזַ֖בְתָּ]] [[H1875\|דֹרְשֶׁ֣י]][[H9031\|ךָ]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic PENITENT|PENITENT]] • [[topic PRAYER|PRAYER]] • [[topic SEEKERS|SEEKERS]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.9.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.9|<< Psalms 9:9]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.11|Psalms 9:11 >>]]</td></tr></table>
 

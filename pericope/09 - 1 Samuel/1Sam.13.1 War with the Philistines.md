@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: War with the Philistines
+type: Pericope
 pericope: "[[1Sam.13.1 War with the Philistines|War with the Philistines]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 13
 book/chapter: "[[1Sam.13|1 Samuel 13]]"
-genre:
+chronological_order: 292
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 7
 verses:
 - "[[1Sam.13.1]]"
 - "[[1Sam.13.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1Sam.13.7]]"
 ---
 
-[[1Sam.13|1 Samuel 13:1 - 1 Samuel 13:7]]
+<small>[[1Sam.13|1 Samuel 13:1-7]]</small>
 *War with the Philistines*
 
 [[1Sam.13.1|1]] Saul reigned one year; and when he had reigned two years over Israel,

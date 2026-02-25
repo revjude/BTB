@@ -1,8 +1,74 @@
+---
+title: Ezra 6:12
+type: Verse
+kjv: "And the God that hath caused his name to dwell there destroy all kings and people, that shall put to their hand to alter and to destroy this house of God which is at Jerusalem. I Darius have made a decree; let it be done with speed."
+bsb: "May God, who has caused His Name to dwell there, overthrow any king or people who lifts a hand to alter this decree or to destroy this house of God in Jerusalem. I, Darius, have issued the decree. Let it be carried out with diligence."
+aramaic: "וֵֽאלָהָ֞א דִּ֣י שַׁכִּ֧ן שְׁמֵ֣הּ תַּמָּ֗ה יְמַגַּ֞ר כָּל־ מֶ֤לֶךְ וְעַם֙ דִּ֣י׀ יִשְׁלַ֣ח יְדֵ֗הּ לְהַשְׁנָיָ֛ה לְחַבָּלָ֛ה בֵּית־ אֱלָהָ֥א דֵ֖ךְ דִּ֣י בִירוּשְׁלֶ֑ם אֲנָ֤ה דָרְיָ֙וֶשׁ֙ שָׂ֣מֶת טְעֵ֔ם אָסְפַּ֖רְנָא יִתְעֲבִֽד׃ פ"
+pericope: "[[Ezra.6.1 The Decree of Darius|The Decree of Darius]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 6
+book/chapter: "[[Ezra.6|Ezra 6]]"
+chronological_order: 854
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0426]]"
+- "[[H9010]]"
+- "[[H1768]]"
+- "[[H7932]]"
+- "[[H8036]]"
+- "[[H9024]]"
+- "[[H8536]]"
+- "[[H4049]]"
+- "[[H3606]]"
+- "[[H9014]]"
+- "[[H4430]]"
+- "[[H5972]]"
+- "[[H9015]]"
+- "[[H7972]]"
+- "[[H3028]]"
+- "[[H9005]]"
+- "[[H8133]]"
+- "[[H2255]]"
+- "[[H1005]]"
+- "[[H1791]]"
+- "[[H9003]]"
+- "[[H3390]]"
+- "[[H0576B]]"
+- "[[H1868G]]"
+- "[[H7761G]]"
+- "[[H2942]]"
+- "[[H0629]]"
+- "[[H5648]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezra 6:12**<big><big>[[Ezra.6.1 The Decree of Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the God that hath caused his name to dwell there destroy all kings and people, that shall put to their hand to alter [and] to destroy this house of God which [is] at Jerusalem. I Darius have made a decree; let it be done with speed.
 <small><sub>**BSB:**</sub></small>
 May God, who has caused His Name to dwell there, overthrow any king or people who lifts a hand to alter this decree or to destroy this house of God in Jerusalem. I, Darius, have issued the decree. Let it be carried out with diligence.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וֵֽ]][[H0426\|אלָהָ֞]][[H9010\|א]] [[H1768\|דִּ֣י]] [[H7932\|שַׁכִּ֧ן]] [[H8036\|שְׁמֵ֣]][[H9024\|הּ]] [[H8536\|תַּמָּ֗ה]] [[H4049\|יְמַגַּ֞ר]] [[H3606\|כָּל]][[H9014\|־]] [[H4430\|מֶ֤לֶךְ]] [[H9002\|וְ]][[H5972\|עַם֙]] [[H1768\|דִּ֣י]][[H9015\|׀]] [[H7972\|יִשְׁלַ֣ח]] [[H3028\|יְדֵ֗]][[H9024\|הּ]] [[H9005\|לְ]][[H8133\|הַשְׁנָיָ֛ה]] [[H9005\|לְ]][[H2255\|חַבָּלָ֛ה]] [[H1005\|בֵּית]][[H9014\|־]] [[H0426\|אֱלָהָ֥]][[H9010\|א]] [[H1791\|דֵ֖ךְ]] [[H1768\|דִּ֣י]] [[H9003\|בִ]][[H3390\|ירוּשְׁלֶ֑ם]] [[H0576B\|אֲנָ֤ה]] [[H1868G\|דָרְיָ֙וֶשׁ֙]] [[H7761G\|שָׂ֣מֶת]] [[H2942\|טְעֵ֔ם]] [[H0629\|אָסְפַּ֖רְנָא]] [[H5648\|יִתְעֲבִֽד]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LIBERALITY|LIBERALITY]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.11|<< Ezra 6:11]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.13|Ezra 6:13 >>]]</td></tr></table>
 
@@ -32,7 +98,7 @@ May God, who has caused His Name to dwell there, overthrow any king or people wh
 | I make  |**<big>&#8207;[[H7761G\|שָׂ֣מֶת]]&#8207; </big>**| Sa.met<small><sup>[[AVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a decree  |**<big>&#8207;[[H2942\|טְעֵ֔ם]]&#8207; </big>**| te.'Em<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | diligently  |**<big>&#8207;[[H0629\|אָסְפַּ֖רְנָא]]&#8207; </big>**| 'a.se.Par.na'<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| let it be done  |**<big>&#8207;[[H5648\|יִתְעֲבִֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| yit.'a.Vid<small><sup>[[AVui3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let it be done  |**<big>&#8207;[[H5648\|יִתְעֲבִֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| yit.'a.Vid<small><sup>[[AVui3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.11|<< Ezra 6:11]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.13|Ezra 6:13 >>]]</td></tr></table>
 
 

@@ -1,9 +1,97 @@
+---
+title: LXX Daniel 12:1
+type: Verse
+lxx: "And in  that time shall rise up Michael the great ruler, the one standing for the sons  of your people. And it will be a time of affliction such as has not taken place from of which time there became a nation on the earth, until  that time. And in  that time your people shall be delivered, every one  found being written in the book."
+greek: "και εν τω καιρώ εκείνω αναστήσεται Μιχαήλ ο άρχων ο μέγας ο εστηκώς επί τους υιούς του λαού σου και έσται καιρός θλίψεως οία ου γέγονεν αφ΄ ου γεγένηται έθνος επί της γης έως του καιρού εκείνου και εν τω καιρώ εκείνω σωθήσεται ο λαός σου πας ο ευρεθείς γεγραμμένος εν τη βίβλω"
+original_language: Greek
+testament: Old
+book: Daniel
+chapter: 12
+book/chapter: "[[Dan.12|Daniel 12]]"
+chronological_order: 848
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- septuagint
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BOOK|BOOK]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MICHAEL|MICHAEL]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2540]]"
+- "[[G1565]]"
+- "[[G0450]]"
+- "[[G3413]]"
+- "[[G3588]]"
+- "[[G0758]]"
+- "[[G3588]]"
+- "[[G3173]]"
+- "[[G3588]]"
+- "[[G2476]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G2540]]"
+- "[[G2347]]"
+- "[[G3634]]"
+- "[[G3756]]"
+- "[[G1096]]"
+- "[[G0575]]"
+- "[[G3739]]"
+- "[[G1096]]"
+- "[[G1484]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G2193]]"
+- "[[G3588]]"
+- "[[G2540]]"
+- "[[G1565]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2540]]"
+- "[[G1565]]"
+- "[[G4982]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G1473]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2147]]"
+- "[[G1125]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0976]]"
+---
+
 **LXX Daniel 12:1** 
 
 ***The Time of the End***
 
 <small><sub>**LXX:**</sub></small>
 And in  that time shall rise up Michael the great ruler, the one standing for the sons  of your people. And it will be a time of affliction such as has not taken place from of which \[time\] there became a nation on the earth, until  that time. And in  that time your people shall be delivered, every one  found being written in the book. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1722\|εν]] [[G3588\|τω]] [[G2540\|καιρώ]] [[G1565\|εκείνω]] [[G0450\|αναστήσεται]] [[G3413\|Μιχαήλ]] [[G3588\|ο]] [[G0758\|άρχων]] [[G3588\|ο]] [[G3173\|μέγας]] [[G3588\|ο]] [[G2476\|εστηκώς]] [[G1909\|επί]] [[G3588\|τους]] [[G5207\|υιούς]] [[G3588\|του]] [[G2992\|λαού]] [[G1473\|σου]] [[G2532\|και]] [[G1510\|έσται]] [[G2540\|καιρός]] [[G2347\|θλίψεως]] [[G3634\|οία]] [[G3756\|ου]] [[G1096\|γέγονεν]] [[G0575\|αφ΄]] [[G3739\|ου]] [[G1096\|γεγένηται]] [[G1484\|έθνος]] [[G1909\|επί]] [[G3588\|της]] [[G1093\|γης]] [[G2193\|έως]] [[G3588\|του]] [[G2540\|καιρού]] [[G1565\|εκείνου]] [[G2532\|και]] [[G1722\|εν]] [[G3588\|τω]] [[G2540\|καιρώ]] [[G1565\|εκείνω]] [[G4982\|σωθήσεται]] [[G3588\|ο]] [[G2992\|λαός]] [[G1473\|σου]] [[G3956\|πας]] [[G3588\|ο]] [[G2147\|ευρεθείς]] [[G1125\|γεγραμμένος]] [[G1722\|εν]] [[G3588\|τη]] [[G0976\|βίβλω]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOOK|BOOK]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MICHAEL|MICHAEL]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Dan.12.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.45|<< Daniel 11:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.12.2|Daniel 12:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -61,6 +149,6 @@ And in  that time shall rise up Michael the great ruler, the one standing for th
 | in | **<big>[[G1722\|εν]]</big>** |
 | the | **<big>[[G3588\|τη]]</big>** |
 | book. | **<big>[[G0976\|βίβλω]]</big>** |
-[[Dan.12.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.45|<< Daniel 11:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.12.2|Daniel 12:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.45|<< Daniel 11:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.12.2|Daniel 12:2 >>]]</td></tr></table>
 
 

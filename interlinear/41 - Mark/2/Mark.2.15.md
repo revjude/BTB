@@ -1,10 +1,60 @@
+---
+title: Mark 2:15
+type: Verse
+kjv: "And it came to pass, that, as Jesus sat at meat in his house, many publicans and sinners sat also together with Jesus and his disciples: for there were many, and they followed him."
+bsb: "While Jesus was dining at Levi’s house, many tax collectors and sinners were eating with Him and His disciples—for there were many who followed Him."
+greek: "Καὶ γίνεται ἐν τῷ κατακεῖσθαι αὐτὸν ἐν τῇ οἰκίᾳ αὐτοῦ, καὶ πολλοὶ τελῶναι καὶ ἁμαρτωλοὶ συνανέκειντο τῷ Ἰησοῦ καὶ τοῖς μαθηταῖς αὐτοῦ· ἦσαν γὰρ πολλοί, καὶ ἠκολούθουν αὐτῷ."
+pericope: "[[Mark.2.13 Jesus Calls Levi|Jesus Calls Levi]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 2
+book/chapter: "[[Mark.2|Mark 2]]"
+chronological_order: 947
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MATTHEW|MATTHEW]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2621]]"
+- "[[G0846]]"
+- "[[G3614G]]"
+- "[[G4183]]"
+- "[[G5057]]"
+- "[[G0268]]"
+- "[[G4873]]"
+- "[[G2424G]]"
+- "[[G3101]]"
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G0190]]"
+texts:
+- NKO
+- N(k)(o)
+- ko
+- N(k)O
+---
+
 **Mark 2:15**<big><big>[[Mark.2.13 Jesus Calls Levi|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that, as Jesus sat at meat in his house, many publicans and sinners sat also together with Jesus and his disciples: for there were many, and they followed him.
 <small><sub>**BSB:**</sub></small>
 While Jesus was dining at Levi’s house, many tax collectors and sinners were eating with Him and His disciples—for there were many who followed Him.
-<small><sub>**Literal:**</sub></small>
-And it came to pass in the reclining of Him in the house of him, that many tax collectors and sinners were reclining with <the> Jesus and with the disciples of Him; there were for many, and they were following Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.14|<< Mark 2:14]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.16|Mark 2:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1096\|γίνεται]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2621\|κατακεῖσθαι]]  [[G0846\|αὐτὸν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3614G\|οἰκίᾳ]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G4183\|πολλοὶ]]  [[G5057\|τελῶναι]]  [[G2532\|καὶ]]  [[G0268\|ἁμαρτωλοὶ]]  [[G4873\|συνανέκειντο]]  [[G3588\|τῷ]]  [[G2424G\|Ἰησοῦ]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς]]  [[G0846\|αὐτοῦ·]]  [[G1510\|ἦσαν]]  [[G1063\|γὰρ]]  [[G4183\|πολλοί,]]  [[G2532\|καὶ]]  [[G0190\|ἠκολούθουν]]  [[G0846\|αὐτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MATTHEW|MATTHEW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.14|<< Mark 2:14]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.16|Mark 2:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

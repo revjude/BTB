@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Love
+type: Pericope
 pericope: "[[1Cor.13.1 Love|Love]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 13
 book/chapter: "[[1Cor.13|1 Corinthians 13]]"
-genre:
+chronological_order: 1070
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 13
 verses:
 - "[[1Cor.13.1]]"
 - "[[1Cor.13.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[1Cor.13.13]]"
 ---
 
-[[1Cor.13|1 Corinthians 13:1 - 1 Corinthians 13:13]]
+<small>[[1Cor.13|1 Corinthians 13:1-13]]</small>
 *Love*
 
 [[1Cor.13.1|1]] Though I speak with the tongues of men and of angels, and have not charity, I am become \[as\] sounding brass, or a tinkling cymbal.

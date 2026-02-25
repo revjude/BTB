@@ -1,10 +1,56 @@
+---
+title: 1 Thessalonians 4:3
+type: Verse
+kjv: "For this is the will of God, even your sanctification, that ye should abstain from fornication:"
+bsb: "For it is God’s will that you should be holy: You must abstain from sexual immorality;"
+greek: "τοῦτο γάρ ἐστιν θέλημα τοῦ θεοῦ, ὁ ἁγιασμὸς ὑμῶν, ἀπέχεσθαι ὑμᾶς ἀπὸ τῆς πορνείας·"
+pericope: "[[1Thess.4.1 Living to Please God|Living to Please God]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 4
+book/chapter: "[[1Thess.4|1 Thessalonians 4]]"
+chronological_order: 1051
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G2307]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G0038]]"
+- "[[G4771]]"
+- "[[G0568]]"
+- "[[G0575]]"
+- "[[G4202]]"
+texts:
+- NKO
+---
+
 **1 Thessalonians 4:3**<big><big>[[1Thess.4.1 Living to Please God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For this is the will of God, [even] your sanctification, that ye should abstain from fornication:
 <small><sub>**BSB:**</sub></small>
 For it is God’s will that you should be holy: You must abstain from sexual immorality;
-<small><sub>**Literal:**</sub></small>
-This for is [the] will <the> of God, the sanctification of you: To abstain you [are] from <the> sexual immorality;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.2|<< 1 Thessalonians 4:2]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.4|1 Thessalonians 4:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτο]]  [[G1063\|γάρ]]  [[G1510\|ἐστιν]]  [[G2307\|θέλημα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G3588\|ὁ]]  [[G0038\|ἁγιασμὸς]]  [[G4771\|ὑμῶν,]]  [[G0568\|ἀπέχεσθαι]]  [[G4771\|ὑμᾶς]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G4202\|πορνείας·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHASTITY|CHASTITY]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic HOLINESS|HOLINESS]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.2|<< 1 Thessalonians 4:2]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.4|1 Thessalonians 4:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

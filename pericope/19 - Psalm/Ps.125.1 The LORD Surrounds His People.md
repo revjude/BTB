@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Surrounds His People
+type: Pericope
 pericope: "[[Ps.125.1 The LORD Surrounds His People|The LORD Surrounds His People]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 125
 book/chapter: "[[Ps.125|Psalm 125]]"
-genre:
+chronological_order: 887
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 6
 verses:
 - "[[Ps.125.0]]"
 - "[[Ps.125.1]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Ps.125.5]]"
 ---
 
-[[Ps.125|Psalm 125:1 - Psalm 125:5]]
+<small>[[Ps.125|Psalm 125:1-5]]</small>
 *The LORD Surrounds His People*
 
 [[Ps.125.0|0]] A Song of degrees.

@@ -1,10 +1,66 @@
+---
+title: Galatians 2:2
+type: Verse
+kjv: "And I went up by revelation, and communicated unto them that gospel which I preach among the Gentiles, but privately to them which were of reputation, lest by any means I should run, or had run, in vain."
+bsb: "I went in response to a revelation and set before them the gospel that I preach among the Gentiles. But I spoke privately to those recognized as leaders, for fear that I was running or had already run in vain."
+greek: "ἀνέβην δὲ κατὰ ἀποκάλυψιν καὶ ἀνεθέμην αὐτοῖς τὸ εὐαγγέλιον ὃ κηρύσσω ἐν τοῖς ἔθνεσιν, κατ᾽ ἰδίαν δὲ τοῖς δοκοῦσιν, μή πως εἰς κενὸν τρέχω ἢ ἔδραμον."
+pericope: "[[Gal.2.1 The Council at Jerusalem|The Council at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 2
+book/chapter: "[[Gal.2|Galatians 2]]"
+chronological_order: 1040
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic BARNABAS|BARNABAS]]"
+- "[[topic GAMES|GAMES]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TITUS|TITUS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0305]]"
+- "[[G1161]]"
+- "[[G2596]]"
+- "[[G0602]]"
+- "[[G2532]]"
+- "[[G0394]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2098]]"
+- "[[G3739]]"
+- "[[G2784]]"
+- "[[G1722]]"
+- "[[G1484]]"
+- "[[G2398]]"
+- "[[G1380]]"
+- "[[G3361]]"
+- "[[G4458]]"
+- "[[G1519]]"
+- "[[G2756]]"
+- "[[G5143]]"
+- "[[G2228]]"
+texts:
+- NKO
+---
+
 **Galatians 2:2**<big><big>[[Gal.2.1 The Council at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I went up by revelation, and communicated unto them that gospel which I preach among the Gentiles, but privately to them which were of reputation, lest by any means I should run, or had run, in vain.
 <small><sub>**BSB:**</sub></small>
 I went in response to a revelation and set before them the gospel that I preach among the Gentiles. But I spoke privately to those recognized as leaders, for fear that I was running or had already run in vain.
-<small><sub>**Literal:**</sub></small>
-I went up now according to a revelation and set before them the gospel that I proclaim among the Gentiles — apart privately however to those esteemed — lest perhaps in vain I may be running or have run.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.1|<< Galatians 2:1]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.3|Galatians 2:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0305\|ἀνέβην]]  [[G1161\|δὲ]]  [[G2596\|κατὰ]]  [[G0602\|ἀποκάλυψιν]]  [[G2532\|καὶ]]  [[G0394\|ἀνεθέμην]]  [[G0846\|αὐτοῖς]]  [[G3588\|τὸ]]  [[G2098\|εὐαγγέλιον]]  [[G3739\|ὃ]]  [[G2784\|κηρύσσω]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G1484\|ἔθνεσιν,]]  [[G2596\|κατ᾽]]  [[G2398\|ἰδίαν]]  [[G1161\|δὲ]]  [[G3588\|τοῖς]]  [[G1380\|δοκοῦσιν,]]  [[G3361\|μή]]  [[G4458\|πως]]  [[G1519\|εἰς]]  [[G2756\|κενὸν]]  [[G5143\|τρέχω]]  [[G2228\|ἢ]]  [[G5143\|ἔδραμον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARNABAS|BARNABAS]] • [[topic GAMES|GAMES]] • [[topic GENTILES|GENTILES]] • [[topic GOSPEL|GOSPEL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TITUS|TITUS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.1|<< Galatians 2:1]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.3|Galatians 2:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

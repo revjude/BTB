@@ -1,8 +1,61 @@
+---
+title: Jeremiah 47:1
+type: Verse
+kjv: "The word of the LORD that came to Jeremiah the prophet against the Philistines, before that Pharaoh smote Gaza."
+bsb: "This is the word of the LORD that came to Jeremiah the prophet about the Philistines before Pharaoh struck down Gaza."
+hebrew: "אֲשֶׁ֨ר הָיָ֧ה דְבַר־ יְהוָ֛ה אֶל־ יִרְמְיָ֥הוּ הַנָּבִ֖יא אֶל־ פְּלִשְׁתִּ֑ים בְּטֶ֛רֶם יַכֶּ֥ה פַרְעֹ֖ה אֶת־ עַזָּֽה׃ ס"
+pericope: "[[Jer.47.1 Judgment on the Philistines|Judgment on the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 47
+book/chapter: "[[Jer.47|Jeremiah 47]]"
+chronological_order: 770
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GAZA|GAZA]]"
+- "[[topic PHARAOH|PHARAOH]]"
+strongs:
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H3414L]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H6430G]]"
+- "[[H9003]]"
+- "[[H2962]]"
+- "[[H5221]]"
+- "[[H6547R]]"
+- "[[H0853]]"
+- "[[H5804]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 47:1**<big><big>[[Jer.47.1 Judgment on the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The word of the LORD that came to Jeremiah the prophet against the Philistines, before that Pharaoh smote Gaza.
 <small><sub>**BSB:**</sub></small>
 This is the word of the LORD that came to Jeremiah the prophet about the Philistines before Pharaoh struck down Gaza.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֨ר]] [[H1961\|הָיָ֧ה]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֛ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֥הוּ]] [[H9009\|הַ]][[H5030\|נָּבִ֖יא]] [[H0413\|אֶל]][[H9014\|־]] [[H6430G\|פְּלִשְׁתִּ֑ים]] [[H9003\|בְּ]][[H2962\|טֶ֛רֶם]] [[H5221\|יַכֶּ֥ה]] [[H6547R\|פַרְעֹ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H5804\|עַזָּֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAZA|GAZA]] • [[topic PHARAOH|PHARAOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.47.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.28|<< Jeremiah 46:28]]</td><td align="center" style="border:none;">[[Jer.47|Jeremiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.47.2|Jeremiah 47:2 >>]]</td></tr></table>
 
@@ -21,7 +74,7 @@ This is the word of the LORD that came to Jeremiah the prophet about the Philist
 | he struck  |**<big>&#8207;[[H5221\|יַכֶּ֥ה]]&#8207; </big>**| ya.Keh<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Pharaoh  |**<big>&#8207;[[H6547R\|פַרְעֹ֖ה]]&#8207; </big>**| far.'Oh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Gaza  |**<big>&#8207;[[H5804\|עַזָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Zah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gaza  |**<big>&#8207;[[H5804\|עַזָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Zah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.28|<< Jeremiah 46:28]]</td><td align="center" style="border:none;">[[Jer.47|Jeremiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.47.2|Jeremiah 47:2 >>]]</td></tr></table>
 
 

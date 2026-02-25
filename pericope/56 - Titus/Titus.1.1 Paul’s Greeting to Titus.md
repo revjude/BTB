@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Greeting to Titus
+type: Pericope
 pericope: "[[Titus.1.1 Paul’s Greeting to Titus|Paul’s Greeting to Titus]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Titus
 chapter: 1
 book/chapter: "[[Titus.1|Titus 1]]"
-genre:
+chronological_order: 1132
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - church order
+verse_count: 4
 verses:
 - "[[Titus.1.1]]"
 - "[[Titus.1.2]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Titus.1.4]]"
 ---
 
-[[Titus.1|Titus 1:1 - Titus 1:4]]
+<small>[[Titus.1|Titus 1:1-4]]</small>
 *Paul’s Greeting to Titus*
 
 [[Titus.1.1|1]] Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God’s elect, and the acknowledging of the truth which is after godliness;

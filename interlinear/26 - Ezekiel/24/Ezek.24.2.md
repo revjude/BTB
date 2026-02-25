@@ -1,8 +1,65 @@
+---
+title: Ezekiel 24:2
+type: Verse
+kjv: "Son of man, write thee the name of the day, even of this same day: the king of Babylon set himself against Jerusalem this same day."
+bsb: "“Son of man, write down today’s date, for on this very day the king of Babylon has laid siege to Jerusalem."
+hebrew: "בֶּן־ אָדָ֗ם כְּתָב לְךָ֙ אֶת־ שֵׁ֣ם הַיּ֔וֹם אֶת־ עֶ֖צֶם הַיּ֣וֹם הַזֶּ֑ה סָמַ֤ךְ מֶֽלֶךְ־ בָּבֶל֙ אֶל־ יְר֣וּשָׁלִַ֔ם בְּעֶ֖צֶם הַיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[Ezek.24.1 The Parable of the Cooking Pot|The Parable of the Cooking Pot]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 24
+book/chapter: "[[Ezek.24|Ezekiel 24]]"
+chronological_order: 815
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H3789]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0853]]"
+- "[[H8034]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H6106H]]"
+- "[[H2088]]"
+- "[[H5564]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H0413]]"
+- "[[H3389]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Ezekiel 24:2**<big><big>[[Ezek.24.1 The Parable of the Cooking Pot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, write thee the name of the day, [even] of this same day: the king of Babylon set himself against Jerusalem this same day.
 <small><sub>**BSB:**</sub></small>
 “Son of man, write down today’s date, for on this very day the king of Babylon has laid siege to Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֗ם]] [[H3789\|כְּתָב]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שֵׁ֣ם]] [[H9009\|הַ]][[H3117G\|יּ֔וֹם]] [[H0853\|אֶת]][[H9014\|־]] [[H6106H\|עֶ֖צֶם]] [[H9009\|הַ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H5564\|סָמַ֤ךְ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶל֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3389\|יְר֣וּשָׁלִַ֔ם]] [[H9003\|בְּ]][[H6106H\|עֶ֖צֶם]] [[H9009\|הַ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZEKIEL|EZEKIEL]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.1|<< Ezekiel 24:1]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.3|Ezekiel 24:3 >>]]</td></tr></table>
 

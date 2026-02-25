@@ -1,10 +1,57 @@
+---
+title: Mark 10:2
+type: Verse
+kjv: "And the Pharisees came to him, and asked him, Is it lawful for a man to put away his wife? tempting him."
+bsb: "Some Pharisees came to test Him. “Is it lawful for a man to divorce his wife?” they inquired."
+greek: "καὶ προσελθόντες οἱ Φαρισαῖοι ἐπηρώτων αὐτὸν εἰ ἔξεστιν ἀνδρὶ γυναῖκα ἀπολῦσαι πειράζοντες αὐτόν."
+pericope: "[[Mark.10.1 Teachings about Divorce|Teachings about Divorce]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+strongs:
+- "[[G2532]]"
+- "[[G4334]]"
+- "[[G3588]]"
+- "[[G5330]]"
+- "[[G1905]]"
+- "[[G0846]]"
+- "[[G1487I]]"
+- "[[G1832]]"
+- "[[G0435G]]"
+- "[[G1135H]]"
+- "[[G0630H]]"
+- "[[G3985H]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Mark 10:2**<big><big>[[Mark.10.1 Teachings about Divorce|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the Pharisees came to him, and asked him, Is it lawful for a man to put away [his] wife? tempting him.
 <small><sub>**BSB:**</sub></small>
 Some Pharisees came to test Him. “Is it lawful for a man to divorce his wife?” they inquired.
-<small><sub>**Literal:**</sub></small>
-And having come to [him] the Pharisees were questioning Him if it is lawful for a husband a wife to divorce testing Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.1|<< Mark 10:1]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.3|Mark 10:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4334\|προσελθόντες]]  [[G3588\|οἱ]]  [[G5330\|Φαρισαῖοι]]  [[G1905\|ἐπηρώτων]]  [[G0846\|αὐτὸν]]  [[G1487I\|εἰ]]  [[G1832\|ἔξεστιν]]  [[G0435G\|ἀνδρὶ]]  [[G1135H\|γυναῖκα]]  [[G0630H\|ἀπολῦσαι]]  [[G3985H\|πειράζοντες]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIVORCE|DIVORCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARRIAGE|MARRIAGE]] • [[topic POLYGAMY|POLYGAMY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.1|<< Mark 10:1]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.3|Mark 10:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

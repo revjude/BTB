@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saul Chosen as King
+type: Pericope
 pericope: "[[1Sam.9.1 Saul Chosen as King|Saul Chosen as King]]"
-verse_count: 27
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 9
 book/chapter: "[[1Sam.9|1 Samuel 9]]"
-genre:
+chronological_order: 288
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 27
 verses:
 - "[[1Sam.9.1]]"
 - "[[1Sam.9.2]]"
@@ -45,7 +52,7 @@ verses:
 - "[[1Sam.9.27]]"
 ---
 
-[[1Sam.9|1 Samuel 9:1 - 1 Samuel 9:27]]
+<small>[[1Sam.9|1 Samuel 9:1-27]]</small>
 *Saul Chosen as King*
 
 [[1Sam.9.1|1]] Now there was a man of Benjamin, whose name \[was\] Kish, the son of Abiel, the son of Zeror, the son of Bechorath, the son of Aphiah, a Benjamite, a mighty man of power.

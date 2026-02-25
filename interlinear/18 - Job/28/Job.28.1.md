@@ -1,8 +1,51 @@
+---
+title: Job 28:1
+type: Verse
+kjv: "Surely there is a vein for the silver, and a place for gold where they fine it."
+bsb: "“Surely there is a mine for silver and a place where gold is refined."
+hebrew: "כִּ֤י יֵ֣שׁ לַכֶּ֣סֶף מוֹצָ֑א וּ֝מָק֗וֹם לַזָּהָ֥ב יָזֹֽקּוּ׃"
+pericope: "[[Job.28.1 Where Can Wisdom Be Found？|Where Can Wisdom Be Found？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 28
+book/chapter: "[[Job.28|Job 28]]"
+chronological_order: 39
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3426]]"
+- "[[H9005]]"
+- "[[H3701G]]"
+- "[[H4161]]"
+- "[[H9002]]"
+- "[[H4725]]"
+- "[[H2091]]"
+- "[[H2212]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 28:1**<big><big>[[Job.28.1 Where Can Wisdom Be Found？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely there is a vein for the silver, and a place for gold [where] they fine [it].
 <small><sub>**BSB:**</sub></small>
 “Surely there is a mine for silver and a place where gold is refined.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H3426\|יֵ֣שׁ]] [[H9005\|לַ]][[H3701G\|כֶּ֣סֶף]] [[H4161\|מוֹצָ֑א]] [[H9002\|וּ֝]][[H4725\|מָק֗וֹם]] [[H9005\|לַ]][[H2091\|זָּהָ֥ב]] [[H2212\|יָזֹֽקּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.23|<< Job 27:23]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.2|Job 28:2 >>]]</td></tr></table>
 

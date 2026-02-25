@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Praise to the God of Jacob
+type: Pericope
 pericope: "[[Jer.51.15 Praise to the God of Jacob|Praise to the God of Jacob]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 51
 book/chapter: "[[Jer.51|Jeremiah 51]]"
-genre:
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 5
 verses:
 - "[[Jer.51.15]]"
 - "[[Jer.51.16]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Jer.51.19]]"
 ---
 
-[[Jer.51|Jeremiah 51:15 - Jeremiah 51:19]]
+<small>[[Jer.51|Jeremiah 51:15-19]]</small>
 *Praise to the God of Jacob*
 
 [[Jer.51.15|15]] He hath made the earth by his power, he hath established the world by his wisdom, and hath stretched out the heaven by his understanding.

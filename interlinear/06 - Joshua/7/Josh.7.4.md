@@ -1,8 +1,54 @@
+---
+title: Joshua 7:4
+type: Verse
+kjv: "So there went up thither of the people about three thousand men: and they fled before the men of Ai."
+bsb: "So about three thousand men went up, but they fled before the men of Ai."
+hebrew: "וַיַּעֲל֤וּ מִן־ הָעָם֙ שָׁ֔מָּה כִּשְׁלֹ֥שֶׁת אֲלָפִ֖ים אִ֑ישׁ וַיָּנֻ֕סוּ לִפְנֵ֖י אַנְשֵׁ֥י הָעָֽי׃"
+pericope: "[[Josh.7.1 The Defeat at Ai|The Defeat at Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 7
+book/chapter: "[[Josh.7|Joshua 7]]"
+chronological_order: 237
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9004]]"
+- "[[H7969]]"
+- "[[H0505G]]"
+- "[[H0376G]]"
+- "[[H5127]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0582]]"
+- "[[H5857G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 7:4**<big><big>[[Josh.7.1 The Defeat at Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So there went up thither of the people about three thousand men: and they fled before the men of Ai.
 <small><sub>**BSB:**</sub></small>
 So about three thousand men went up, but they fled before the men of Ai.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|יַּעֲל֤וּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H8033G\|שָׁ֔מָּ]][[H9011\|ה]] [[H9004\|כִּ]][[H7969\|שְׁלֹ֥שֶׁת]] [[H0505G\|אֲלָפִ֖ים]] [[H0376G\|אִ֑ישׁ]] [[H9001\|וַ]][[H5127\|יָּנֻ֕סוּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H0582\|אַנְשֵׁ֥י]] [[H9009\|הָ]][[H5857G\|עָֽי]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.3|<< Joshua 7:3]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.5|Joshua 7:5 >>]]</td></tr></table>
 

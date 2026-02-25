@@ -1,8 +1,55 @@
+---
+title: Psalm 44:26
+type: Verse
+kjv: "Arise for our help, and redeem us for thy mercies’ sake."
+bsb: "Rise up; be our help! Redeem us on account of Your loving devotion."
+hebrew: "ק֭וּמָֽה עֶזְרָ֣תָה לָּ֑נוּ וּ֝פְדֵ֗נוּ לְמַ֣עַן חַסְדֶּֽךָ׃"
+pericope: "[[Ps.44.1 Redeem Us, O God|Redeem Us, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 44
+book/chapter: "[[Ps.44|Psalm 44]]"
+chronological_order: 499
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic MURMURING|MURMURING]]"
+strongs:
+- "[[H6965B]]"
+- "[[H9012]]"
+- "[[H5833]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H6299]]"
+- "[[H4616]]"
+- "[[H2617A]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 44:26**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise for our help, and redeem us for thy mercies’ sake.
 <small><sub>**BSB:**</sub></small>
 Rise up; be our help! Redeem us on account of Your loving devotion.
+<small><sub>**Hebrew:**</sub></small>
+[[H6965B\|ק֭וּמָֽ]][[H9012\|ה]] [[H5833\|עֶזְרָ֣תָה]] [[H9005\|לָּ֑]][[H9035\|נוּ]] [[H9002\|וּ֝]][[H6299\|פְדֵ֗]][[H9035\|נוּ]] [[H4616\|לְמַ֣עַן]] [[H2617A\|חַסְדֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic MURMURING|MURMURING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.25|<< Psalms 44:25]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.45.0|Psalms 45:0 >>]]</td></tr></table>
 

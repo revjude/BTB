@@ -1,10 +1,58 @@
+---
+title: John 7:36
+type: Verse
+kjv: "What manner of saying is this that he said, Ye shall seek me, and shall not find me: and where I am, thither ye cannot come?"
+bsb: "What does He mean by saying, ‘You will look for Me, but you will not find Me,’ and, ‘Where I am, you cannot come’?”"
+greek: "τίς ἐστιν ὁ λόγος οὗτος ὃν εἶπεν· ζητήσετέ με καὶ οὐχ εὑρήσετέ με, καὶ ὅπου εἰμὶ ἐγὼ ὑμεῖς οὐ δύνασθε ἐλθεῖν;¶"
+pericope: "[[John.7.25 Is Jesus the Christ？|Is Jesus the Christ？]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G3778]]"
+- "[[G3739]]"
+- "[[G2036]]"
+- "[[G2212]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2147]]"
+- "[[G3699]]"
+- "[[G1473]]"
+- "[[G4771]]"
+- "[[G1410]]"
+- "[[G2064]]"
+texts:
+- NKO
+- NK
+---
+
 **John 7:36**<big><big>[[John.7.25 Is Jesus the Christ？|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 What [manner of] saying is this that he said, Ye shall seek me, and shall not find [me]: and where I am, [thither] ye cannot come?
 <small><sub>**BSB:**</sub></small>
 What does He mean by saying, ‘You will look for Me, but you will not find Me,’ and, ‘Where I am, you cannot come’?”
-<small><sub>**Literal:**</sub></small>
-What is <the> word this that He said; You will seek Me and not will find Me, and Where am I myself you yourselves not are able to come?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.35|<< John 7:35]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.37|John 7:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τίς]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G3056\|λόγος]]  [[G3778\|οὗτος]]  [[G3739\|ὃν]]  [[G2036\|εἶπεν·]]  [[G2212\|ζητήσετέ]]  [[G3165\|με]]  [[G2532\|καὶ]]  [[G3756\|οὐχ]]  [[G2147\|εὑρήσετέ]]  [[G3165\|με,]]  [[G2532\|καὶ]]  [[G3699\|ὅπου]]  [[G1510\|εἰμὶ]]  [[G1473\|ἐγὼ]]  [[G4771\|ὑμεῖς]]  [[G3756\|οὐ]]  [[G1410\|δύνασθε]]  [[G2064\|ἐλθεῖν;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.35|<< John 7:35]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.37|John 7:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

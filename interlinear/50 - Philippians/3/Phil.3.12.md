@@ -1,10 +1,66 @@
+---
+title: Philippians 3:12
+type: Verse
+kjv: "Not as though I had already attained, either were already perfect: but I follow after, if that I may apprehend that for which also I am apprehended of Christ Jesus."
+bsb: "Not that I have already obtained all this, or have already been made perfect, but I press on to take hold of that for which Christ Jesus took hold of me."
+greek: "οὐχ ὅτι ἤδη ἔλαβον ἢ ἤδη τετελείωμαι, διώκω δὲ εἰ καὶ καταλάβω ἐφ᾽ ᾧ καὶ κατελήμφθην ὑπὸ τοῦ Χριστοῦ Ἰησοῦ.¶"
+pericope: "[[Phil.3.12 Pressing on toward the Goal|Pressing on toward the Goal]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 3
+book/chapter: "[[Phil.3|Philippians 3]]"
+chronological_order: 1119
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3756]]"
+- "[[G3754H]]"
+- "[[G2235]]"
+- "[[G2983]]"
+- "[[G2228]]"
+- "[[G5048]]"
+- "[[G1377]]"
+- "[[G1161]]"
+- "[[G1487M]]"
+- "[[G2532]]"
+- "[[G2638]]"
+- "[[G1909]]"
+- "[[G3739]]"
+- "[[G5259G]]"
+- "[[G3588]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- NK(O)
+- k
+---
+
 **Philippians 3:12**<big><big>[[Phil.3.12 Pressing on toward the Goal|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Not as though I had already attained, either were already perfect: but I follow after, if that I may apprehend that for which also I am apprehended of Christ Jesus.
 <small><sub>**BSB:**</sub></small>
 Not that I have already obtained all this, or have already been made perfect, but I press on to take hold of that for which Christ Jesus took hold of me.
-<small><sub>**Literal:**</sub></small>
-Not for already I have obtained [it] or already have been perfected, I am pursuing however if even I shall grasp of that for which also I was grasped by <the> Christ Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.11|<< Philippians 3:11]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.13|Philippians 3:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐχ]]  [[G3754H\|ὅτι]]  [[G2235\|ἤδη]]  [[G2983\|ἔλαβον]]  [[G2228\|ἢ]]  [[G2235\|ἤδη]]  [[G5048\|τετελείωμαι,]]  [[G1377\|διώκω]]  [[G1161\|δὲ]]  [[G1487M\|εἰ]]  [[G2532\|καὶ]]  [[G2638\|καταλάβω]]  [[G1909\|ἐφ᾽]]  [[G3739\|ᾧ]]  [[G2532\|καὶ]]  [[G2638\|κατελήμφθην]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ]]  [[G2424G\|Ἰησοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic HUMILITY|HUMILITY]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PERFECTION|PERFECTION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic TESTIMONY|TESTIMONY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.11|<< Philippians 3:11]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.13|Philippians 3:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

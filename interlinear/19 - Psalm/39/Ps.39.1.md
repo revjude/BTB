@@ -1,8 +1,63 @@
+---
+title: Psalm 39:1
+type: Verse
+kjv: "I said, I will take heed to my ways, that I sin not with my tongue: I will keep my mouth with a bridle, while the wicked is before me."
+bsb: "For the choirmaster. For Jeduthun. A Psalm of David. I said, “I will watch my ways so that I will not sin with my tongue; I will guard my mouth with a muzzle as long as the wicked are present.”"
+hebrew: "אָמַ֗רְתִּי אֶֽשְׁמְרָ֣ה דְרָכַי֮ מֵחֲט֪וֹא בִלְשׁ֫וֹנִ֥י אֶשְׁמְרָ֥ה לְפִ֥י מַחְס֑וֹם בְּעֹ֖ד רָשָׁ֣ע לְנֶגְדִּֽי׃"
+pericope: "[[Ps.39.1 I Will Watch My Ways|I Will Watch My Ways]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 39
+book/chapter: "[[Ps.39|Psalm 39]]"
+chronological_order: 366
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BRIDLE|BRIDLE]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[H0559]]"
+- "[[H8104H]]"
+- "[[H1870G]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H2398]]"
+- "[[H9003]]"
+- "[[H3956G]]"
+- "[[H9005]]"
+- "[[H6310G]]"
+- "[[H4269]]"
+- "[[H5750]]"
+- "[[H7563]]"
+- "[[H5048]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 39:1**<big><big>[[Ps.39.1 I Will Watch My Ways|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I said, I will take heed to my ways, that I sin not with my tongue: I will keep my mouth with a bridle, while the wicked is before me.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. For Jeduthun. A Psalm of David. I said, “I will watch my ways so that I will not sin with my tongue; I will guard my mouth with a muzzle as long as the wicked are present.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אָמַ֗רְתִּי]] [[H8104H\|אֶֽשְׁמְרָ֣ה]] [[H1870G\|דְרָכַ]][[H9020\|י֮]] [[H9006\|מֵ]][[H2398\|חֲט֪וֹא]] [[H9003\|בִ]][[H3956G\|לְשׁ֫וֹנִ֥]][[H9020\|י]] [[H8104H\|אֶשְׁמְרָ֥ה]] [[H9005\|לְ]][[H6310G\|פִ֥]][[H9020\|י]] [[H4269\|מַחְס֑וֹם]] [[H9003\|בְּ]][[H5750\|עֹ֖ד]] [[H7563\|רָשָׁ֣ע]] [[H9005\|לְ]][[H5048\|נֶגְדִּֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BRIDLE|BRIDLE]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SPEAKING|SPEAKING]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.39.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.39.0|<< Psalms 39:0]]</td><td align="center" style="border:none;">[[Ps.39|Psalms 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.39.2|Psalms 39:2 >>]]</td></tr></table>
 

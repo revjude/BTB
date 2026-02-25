@@ -1,8 +1,55 @@
+---
+title: Psalm 140:6
+type: Verse
+kjv: "I said unto the LORD, Thou art my God: hear the voice of my supplications, O LORD."
+bsb: "I say to the LORD, “You are my God.” Hear, O LORD, my cry for help."
+hebrew: "אָמַ֣רְתִּי לַ֭יהוָה אֵ֣לִי אָ֑תָּה הַאֲזִ֥ינָה יְ֝הוָ֗ה ק֣וֹל תַּחֲנוּנָֽי׃"
+pericope: "[[Ps.140.1 Rescue Me from Evil Men|Rescue Me from Evil Men]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 140
+book/chapter: "[[Ps.140|Psalm 140]]"
+chronological_order: 387
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0410G]]"
+- "[[H9020]]"
+- "[[H0859A]]"
+- "[[H0238]]"
+- "[[H9012]]"
+- "[[H6963A]]"
+- "[[H8469]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 140:6**<big><big>[[Ps.140.1 Rescue Me from Evil Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I said unto the LORD, Thou [art] my God: hear the voice of my supplications, O LORD.
 <small><sub>**BSB:**</sub></small>
 I say to the LORD, “You are my God.” Hear, O LORD, my cry for help.
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אָמַ֣רְתִּי]] [[H9005\|לַ֭]][[H3068G\|יהוָה]] [[H0410G\|אֵ֣לִ]][[H9020\|י]] [[H0859A\|אָ֑תָּה]] [[H0238\|הַאֲזִ֥ינָ]][[H9012\|ה]] [[H3068G\|יְ֝הוָ֗ה]] [[H6963A\|ק֣וֹל]] [[H8469\|תַּחֲנוּנָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.140.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.140.5|<< Psalms 140:5]]</td><td align="center" style="border:none;">[[Ps.140|Psalms 140]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.140.7|Psalms 140:7 >>]]</td></tr></table>
 

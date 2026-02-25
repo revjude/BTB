@@ -1,8 +1,57 @@
+---
+title: Numbers 35:13
+type: Verse
+kjv: "And of these cities which ye shall give six cities shall ye have for refuge."
+bsb: "The cities you select will be your six cities of refuge."
+hebrew: "וְהֶעָרִ֖ים אֲשֶׁ֣ר תִּתֵּ֑נוּ שֵׁשׁ־ עָרֵ֥י מִקְלָ֖ט תִּהְיֶ֥ינָה לָכֶֽם׃"
+pericope: "[[Num.35.9 Six Cities of Refuge|Six Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 35
+book/chapter: "[[Num.35|Numbers 35]]"
+chronological_order: 195
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic REFUGE|REFUGE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H8337]]"
+- "[[H9014]]"
+- "[[H4733]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 35:13**<big><big>[[Num.35.9 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of these cities which ye shall give six cities shall ye have for refuge.
 <small><sub>**BSB:**</sub></small>
 The cities you select will be your six cities of refuge.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הֶ]][[H5892B\|עָרִ֖ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H5414G\|תִּתֵּ֑נוּ]] [[H8337\|שֵׁשׁ]][[H9014\|־]] [[H5892B\|עָרֵ֥י]] [[H4733\|מִקְלָ֖ט]] [[H1961\|תִּהְיֶ֥ינָה]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOMICIDE|HOMICIDE]] • [[topic REFUGE|REFUGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.12|<< Numbers 35:12]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.14|Numbers 35:14 >>]]</td></tr></table>
 

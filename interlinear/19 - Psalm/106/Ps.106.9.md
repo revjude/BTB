@@ -1,8 +1,57 @@
+---
+title: Psalm 106:9
+type: Verse
+kjv: "He rebuked the Red sea also, and it was dried up: so he led them through the depths, as through the wilderness."
+bsb: "He rebuked the Red Sea, and it dried up; He led them through the depths as through a desert."
+hebrew: "וַיִּגְעַ֣ר בְּיַם־ ס֭וּף וַֽיֶּחֱרָ֑ב וַיּוֹלִיכֵ֥ם בַּ֝תְּהֹמ֗וֹת כַּמִּדְבָּֽר׃"
+pericope: "[[Ps.106.1 Give Thanks to the LORD, for He Is Good|Give Thanks to the LORD, for He Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 106
+book/chapter: "[[Ps.106|Psalm 106]]"
+chronological_order: 530
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic RED SEA|RED SEA]]"
+strongs:
+- "[[H9001]]"
+- "[[H1605]]"
+- "[[H9003]]"
+- "[[H3220G]]"
+- "[[H9014]]"
+- "[[H5488G]]"
+- "[[H2717A]]"
+- "[[H1980J]]"
+- "[[H9038]]"
+- "[[H8415]]"
+- "[[H9004]]"
+- "[[H4057B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 106:9**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He rebuked the Red sea also, and it was dried up: so he led them through the depths, as through the wilderness.
 <small><sub>**BSB:**</sub></small>
 He rebuked the Red Sea, and it dried up; He led them through the depths as through a desert.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1605\|יִּגְעַ֣ר]] [[H9003\|בְּ]][[H3220G\|יַם]][[H9014\|־]] [[H5488G\|ס֭וּף]] [[H9001\|וַֽ]][[H2717A\|יֶּחֱרָ֑ב]] [[H9001\|וַ]][[H1980J\|יּוֹלִיכֵ֥]][[H9038\|ם]] [[H9003\|בַּ֝]][[H8415\|תְּהֹמ֗וֹת]] [[H9004\|כַּ]][[H4057B\|מִּדְבָּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MIRACLES|MIRACLES]] • [[topic RED SEA|RED SEA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.8|<< Psalms 106:8]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.10|Psalms 106:10 >>]]</td></tr></table>
 

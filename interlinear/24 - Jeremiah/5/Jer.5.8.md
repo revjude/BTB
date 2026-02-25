@@ -1,8 +1,57 @@
+---
+title: Jeremiah 5:8
+type: Verse
+kjv: "They were as fed horses in the morning: every one neighed after his neighbour’s wife."
+bsb: "They are well-fed, lusty stallions, each neighing after his neighbor’s wife."
+hebrew: "סוּסִ֥ים מְיֻזָּנִ֖ים מַשְׁכִּ֣ים הָי֑וּ אִ֛ישׁ אֶל־ אֵ֥שֶׁת רֵעֵ֖הוּ יִצְהָֽלוּ׃"
+pericope: "[[Jer.5.1 No One Is Just|No One Is Just]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 5
+book/chapter: "[[Jer.5|Jeremiah 5]]"
+chronological_order: 722
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic RICH, THE|RICH, THE]]"
+strongs:
+- "[[H5483M]]"
+- "[[H2109A]]"
+- "[[H7904]]"
+- "[[H1961]]"
+- "[[H0376I]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0802H]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H6670A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 5:8**<big><big>[[Jer.5.1 No One Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They were [as] fed horses in the morning: every one neighed after his neighbour’s wife.
 <small><sub>**BSB:**</sub></small>
 They are well-fed, lusty stallions, each neighing after his neighbor’s wife.
+<small><sub>**Hebrew:**</sub></small>
+[[H5483M\|סוּסִ֥ים]] [[H2109A\|מְיֻזָּנִ֖ים]] [[H7904\|מַשְׁכִּ֣ים]] [[H1961\|הָי֑וּ]] [[H0376I\|אִ֛ישׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H0802H\|אֵ֥שֶׁת]] [[H7453\|רֵעֵ֖]][[H9023\|הוּ]] [[H6670A\|יִצְהָֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic RICH, THE|RICH, THE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.7|<< Jeremiah 5:7]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.9|Jeremiah 5:9 >>]]</td></tr></table>
 

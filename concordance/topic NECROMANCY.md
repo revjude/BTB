@@ -5,7 +5,7 @@
 
 → INSTANCE OF
 
-- The witch of En-dor [[1Sam.28.7|1Sa 28:7]]-[[1Sam.28.19|19]]
+- The witch of En-dor [[1Sam.28.7|1Sa 28:7-19]]
 
 - See [[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]]
 

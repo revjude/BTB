@@ -1,10 +1,66 @@
+---
+title: Matthew 25:11
+type: Verse
+kjv: "Afterward came also the other virgins, saying, Lord, Lord, open to us."
+bsb: "Later the other virgins arrived and said, ‘Lord, lord, open the door for us!’"
+jesus_said: "Afterward came also the other virgins, saying, Lord, Lord, open to us."
+greek: "ὕστερον δὲ ἔρχονται καὶ αἱ λοιπαὶ παρθένοι λέγουσαι· κύριε κύριε, ἄνοιξον ἡμῖν."
+pericope: "[[Matt.25.1 The Parable of the Ten Virgins|The Parable of the Ten Virgins]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BRIDEGROOM|BRIDEGROOM]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic VIRGIN|VIRGIN]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G5306]]"
+- "[[G1161]]"
+- "[[G2064]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3062]]"
+- "[[G3933]]"
+- "[[G3004G]]"
+- "[[G2962H]]"
+- "[[G0455]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **Matthew 25:11**<big><big>[[Matt.25.1 The Parable of the Ten Virgins|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Afterward came also the other virgins, saying, Lord, Lord, open to us.
 <small><sub>**BSB:**</sub></small>
 Later the other virgins arrived and said, ‘Lord, lord, open the door for us!’
-<small><sub>**Literal:**</sub></small>
-Afterward then come also the other virgins saying; lord lord, do open to us!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.10|<< Matthew 25:10]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.12|Matthew 25:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5306\|ὕστερον]]  [[G1161\|δὲ]]  [[G2064\|ἔρχονται]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G3062\|λοιπαὶ]]  [[G3933\|παρθένοι]]  [[G3004G\|λέγουσαι·]]  [[G2962H\|κύριε]]  [[G2962H\|κύριε,]]  [[G0455\|ἄνοιξον]]  [[G3165\|ἡμῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDEGROOM|BRIDEGROOM]] • [[topic FOOL|FOOL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PROBATION|PROBATION]] • [[topic PROCRASTINATION|PROCRASTINATION]] • [[topic REPROBACY|REPROBACY]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SELF-DELUSION|SELF-DELUSION]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic VIRGIN|VIRGIN]] • [[topic WISDOM|WISDOM]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.10|<< Matthew 25:10]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.12|Matthew 25:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

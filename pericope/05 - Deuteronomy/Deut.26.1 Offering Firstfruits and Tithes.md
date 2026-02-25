@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Offering Firstfruits and Tithes
+type: Pericope
 pericope: "[[Deut.26.1 Offering Firstfruits and Tithes|Offering Firstfruits and Tithes]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 26
 book/chapter: "[[Deut.26|Deuteronomy 26]]"
-genre:
+chronological_order: 222
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 15
 verses:
 - "[[Deut.26.1]]"
 - "[[Deut.26.2]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Deut.26.15]]"
 ---
 
-[[Deut.26|Deuteronomy 26:1 - Deuteronomy 26:15]]
+<small>[[Deut.26|Deuteronomy 26:1-15]]</small>
 *Offering Firstfruits and Tithes*
 
 [[Deut.26.1|1]] And it shall be, when thou \[art\] come in unto the land which the LORD thy God giveth thee \[for\] an inheritance, and possessest it, and dwellest therein;

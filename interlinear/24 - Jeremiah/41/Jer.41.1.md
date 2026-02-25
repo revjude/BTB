@@ -1,8 +1,82 @@
+---
+title: Jeremiah 41:1
+type: Verse
+kjv: "Now it came to pass in the seventh month, that Ishmael the son of Nethaniah the son of Elishama, of the seed royal, and the princes of the king, even ten men with him, came unto Gedaliah the son of Ahikam to Mizpah; and there they did eat bread together in Mizpah."
+bsb: "In the seventh month, Ishmael son of Nethaniah, the son of Elishama, who was a member of the royal family and one of the king’s chief officers, came with ten men to Gedaliah son of Ahikam at Mizpah, and they ate a meal together there."
+hebrew: "וַיְהִ֣י׀ בַּחֹ֣דֶשׁ הַשְּׁבִיעִ֗י בָּ֣א יִשְׁמָעֵ֣אל בֶּן־ נְתַנְיָ֣ה בֶן־ אֱלִישָׁמָ֣ע מִזֶּ֣רַע הַ֠מְּלוּכָה וְרַבֵּ֨י הַמֶּ֜לֶךְ וַעֲשָׂרָ֨ה אֲנָשִׁ֥ים אִתּ֛וֹ אֶל־ גְּדַלְיָ֥הוּ בֶן־ אֲחִיקָ֖ם הַמִּצְפָּ֑תָה וַיֹּ֨אכְלוּ שָׁ֥ם לֶ֛חֶם יַחְדָּ֖ו בַּמִּצְפָּֽה׃"
+pericope: "[[Jer.41.1 The Murder of Gedaliah|The Murder of Gedaliah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 41
+book/chapter: "[[Jer.41|Jeremiah 41]]"
+chronological_order: 764
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AHIKAM|AHIKAM]]"
+- "[[topic ELISHAMA|ELISHAMA]]"
+- "[[topic GEDALIAH|GEDALIAH]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MIZPAH|MIZPAH]]"
+- "[[topic NETHANIAH|NETHANIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H7637]]"
+- "[[H0935G]]"
+- "[[H3458H]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5418G]]"
+- "[[H0476I]]"
+- "[[H9006]]"
+- "[[H2233H]]"
+- "[[H4410]]"
+- "[[H9002]]"
+- "[[H7227B]]"
+- "[[H4428G]]"
+- "[[H6235]]"
+- "[[H0582]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H1436B]]"
+- "[[H0296]]"
+- "[[H4709G]]"
+- "[[H9011]]"
+- "[[H0398]]"
+- "[[H8033G]]"
+- "[[H3899H]]"
+- "[[H3162B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 41:1**<big><big>[[Jer.41.1 The Murder of Gedaliah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now it came to pass in the seventh month, [that] Ishmael the son of Nethaniah the son of Elishama, of the seed royal, and the princes of the king, even ten men with him, came unto Gedaliah the son of Ahikam to Mizpah; and there they did eat bread together in Mizpah.
 <small><sub>**BSB:**</sub></small>
 In the seventh month, Ishmael son of Nethaniah, the son of Elishama, who was a member of the royal family and one of the king’s chief officers, came with ten men to Gedaliah son of Ahikam at Mizpah, and they ate a meal together there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]][[H9015\|׀]] [[H9003\|בַּ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֗י]] [[H0935G\|בָּ֣א]] [[H3458H\|יִשְׁמָעֵ֣אל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5418G\|נְתַנְיָ֣ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H0476I\|אֱלִישָׁמָ֣ע]] [[H9006\|מִ]][[H2233H\|זֶּ֣רַע]] [[H9009\|הַ֠]][[H4410\|מְּלוּכָה]] [[H9002\|וְ]][[H7227B\|רַבֵּ֨י]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H9002\|וַ]][[H6235\|עֲשָׂרָ֨ה]] [[H0582\|אֲנָשִׁ֥ים]] [[H0854\|אִתּ֛]][[H9033\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H1436B\|גְּדַלְיָ֥הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H0296\|אֲחִיקָ֖ם]] [[H9009\|הַ]][[H4709G\|מִּצְפָּ֑תָ]][[H9011\|ה]] [[H9001\|וַ]][[H0398\|יֹּ֨אכְלוּ]] [[H8033G\|שָׁ֥ם]] [[H3899H\|לֶ֛חֶם]] [[H3162B\|יַחְדָּ֖ו]] [[H9003\|בַּ]][[H4709G\|מִּצְפָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIKAM|AHIKAM]] • [[topic ELISHAMA|ELISHAMA]] • [[topic GEDALIAH|GEDALIAH]] • [[topic HOMICIDE|HOMICIDE]] • [[topic ISHMAEL|ISHMAEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MIZPAH|MIZPAH]] • [[topic NETHANIAH|NETHANIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.41.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.40.16|<< Jeremiah 40:16]]</td><td align="center" style="border:none;">[[Jer.41|Jeremiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.2|Jeremiah 41:2 >>]]</td></tr></table>
 

@@ -1,8 +1,74 @@
+---
+title: 2 Kings 10:30
+type: Verse
+kjv: "And the LORD said unto Jehu, Because thou hast done well in executing that which is right in mine eyes, and hast done unto the house of Ahab according to all that was in mine heart, thy children of the fourth generation shall sit on the throne of Israel."
+bsb: "Nevertheless, the LORD said to Jehu, “Because you have done well in carrying out what is right in My sight and have done to the house of Ahab all that was in My heart, four generations of your sons will sit on the throne of Israel.”"
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה אֶל־ יֵה֗וּא יַ֤עַן אֲשֶׁר־ הֱטִיבֹ֙תָ֙ לַעֲשׂ֤וֹת הַיָּשָׁר֙ בְּעֵינַ֔י כְּכֹל֙ אֲשֶׁ֣ר בִּלְבָבִ֔י עָשִׂ֖יתָ לְבֵ֣ית אַחְאָ֑ב בְּנֵ֣י רְבִעִ֔ים יֵשְׁב֥וּ לְךָ֖ עַל־ כִּסֵּ֥א יִשְׂרָאֵֽל׃"
+pericope: "[[2Kgs.10.28 Jehu Repeats Jeroboam’s Sins|Jehu Repeats Jeroboam’s Sins]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 10
+book/chapter: "[[2Kgs.10|2 Kings 10]]"
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic INCONSISTENCY|INCONSISTENCY]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic ZACHARIAH|ZACHARIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3058H]]"
+- "[[H3282]]"
+- "[[H0834A]]"
+- "[[H2895]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H3477G]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9020]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H3824]]"
+- "[[H1004M]]"
+- "[[H0256G]]"
+- "[[H1121G]]"
+- "[[H7243]]"
+- "[[H3427]]"
+- "[[H9031]]"
+- "[[H5921A]]"
+- "[[H3678G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 10:30**<big><big>[[2Kgs.10.28 Jehu Repeats Jeroboam’s Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Jehu, Because thou hast done well in executing [that which is] right in mine eyes, [and] hast done unto the house of Ahab according to all that [was] in mine heart, thy children of the fourth [generation] shall sit on the throne of Israel.
 <small><sub>**BSB:**</sub></small>
 Nevertheless, the LORD said to Jehu, “Because you have done well in carrying out what is right in My sight and have done to the house of Ahab all that was in My heart, four generations of your sons will sit on the throne of Israel.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3058H\|יֵה֗וּא]] [[H3282\|יַ֤עַן]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2895\|הֱטִיבֹ֙תָ֙]] [[H9005\|לַ]][[H6213A\|עֲשׂ֤וֹת]] [[H9009\|הַ]][[H3477G\|יָּשָׁר֙]] [[H9003\|בְּ]][[H5869I\|עֵינַ֔]][[H9020\|י]] [[H9004\|כְּ]][[H3605\|כֹל֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בִּ]][[H3824\|לְבָבִ֔]][[H9020\|י]] [[H6213A\|עָשִׂ֖יתָ]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H0256G\|אַחְאָ֑ב]] [[H1121G\|בְּנֵ֣י]] [[H7243\|רְבִעִ֔ים]] [[H3427\|יֵשְׁב֥וּ]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H5921A\|עַל]][[H9014\|־]] [[H3678G\|כִּסֵּ֥א]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INCONSISTENCY|INCONSISTENCY]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic JEHU|JEHU]] • [[topic PROPHECY|PROPHECY]] • [[topic RELIGION|RELIGION]] • [[topic ZACHARIAH|ZACHARIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.29|<< 2 Kings 10:29]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.31|2 Kings 10:31 >>]]</td></tr></table>
 

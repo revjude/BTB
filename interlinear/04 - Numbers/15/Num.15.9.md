@@ -1,8 +1,63 @@
+---
+title: Numbers 15:9
+type: Verse
+kjv: "Then shall he bring with a bullock a meat offering of three tenth deals of flour mingled with half an hin of oil."
+bsb: "present with the bull a grain offering of three-tenths of an ephah of fine flour mixed with half a hin of olive oil."
+hebrew: "וְהִקְרִ֤יב עַל־ בֶּן־ הַבָּקָר֙ מִנְחָ֔ה סֹ֖לֶת שְׁלֹשָׁ֣ה עֶשְׂרֹנִ֑ים בָּל֥וּל בַּשֶּׁ֖מֶן חֲצִ֥י הַהִֽין׃"
+pericope: "[[Num.15.1 Laws about Offerings|Laws about Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 15
+book/chapter: "[[Num.15|Numbers 15]]"
+chronological_order: 175
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1121H]]"
+- "[[H9009]]"
+- "[[H1241]]"
+- "[[H4503G]]"
+- "[[H5560]]"
+- "[[H7969]]"
+- "[[H6241]]"
+- "[[H1101A]]"
+- "[[H9003]]"
+- "[[H8081]]"
+- "[[H2677]]"
+- "[[H1969]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 15:9**<big><big>[[Num.15.1 Laws about Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall he bring with a bullock a meat offering of three tenth deals of flour mingled with half an hin of oil.
 <small><sub>**BSB:**</sub></small>
 present with the bull a grain offering of three-tenths of an ephah of fine flour mixed with half a hin of olive oil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7126H\|הִקְרִ֤יב]] [[H5921A\|עַל]][[H9014\|־]] [[H1121H\|בֶּן]][[H9014\|־]] [[H9009\|הַ]][[H1241\|בָּקָר֙]] [[H4503G\|מִנְחָ֔ה]] [[H5560\|סֹ֖לֶת]] [[H7969\|שְׁלֹשָׁ֣ה]] [[H6241\|עֶשְׂרֹנִ֑ים]] [[H1101A\|בָּל֥וּל]] [[H9003\|בַּ]][[H8081\|שֶּׁ֖מֶן]] [[H2677\|חֲצִ֥י]] [[H9009\|הַ]][[H1969\|הִֽין]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MEASURE|MEASURE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.8|<< Numbers 15:8]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.10|Numbers 15:10 >>]]</td></tr></table>
 

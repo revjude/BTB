@@ -1,8 +1,54 @@
+---
+title: Proverbs 26:2
+type: Verse
+kjv: "As the bird by wandering, as the swallow by flying, so the curse causeless shall not come."
+bsb: "Like a fluttering sparrow or darting swallow, an undeserved curse does not come to rest."
+hebrew: "כַּצִּפּ֣וֹר לָ֭נוּד כַּדְּר֣וֹר לָע֑וּף כֵּ֥ן קִֽלְלַ֥ת חִ֝נָּ֗ם ל֣וֹ תָבֹֽא׃"
+pericope: "[[Prov.26.1 Similitudes and Instructions|Similitudes and Instructions]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 26
+book/chapter: "[[Prov.26|Proverbs 26]]"
+chronological_order: 481
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic MALICE|MALICE]]"
+strongs:
+- "[[H9004]]"
+- "[[H6833]]"
+- "[[H9005]]"
+- "[[H5110]]"
+- "[[H1866]]"
+- "[[H5774A]]"
+- "[[H3651C]]"
+- "[[H7045]]"
+- "[[H2600]]"
+- "[[H3808]]"
+- "[[H9033]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Proverbs 26:2**<big><big>[[Prov.26.1 Similitudes and Instructions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As the bird by wandering, as the swallow by flying, so the curse causeless shall not come.
 <small><sub>**BSB:**</sub></small>
 Like a fluttering sparrow or darting swallow, an undeserved curse does not come to rest.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּ]][[H6833\|צִּפּ֣וֹר]] [[H9005\|לָ֭]][[H5110\|נוּד]] [[H9004\|כַּ]][[H1866\|דְּר֣וֹר]] [[H9005\|לָ]][[H5774A\|ע֑וּף]] [[H3651C\|כֵּ֥ן]] [[H7045\|קִֽלְלַ֥ת]] [[H2600\|חִ֝נָּ֗ם]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H0935G\|תָבֹֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MALICE|MALICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.1|<< Proverbs 26:1]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.3|Proverbs 26:3 >>]]</td></tr></table>
 

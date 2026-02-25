@@ -1,8 +1,71 @@
+---
+title: Jeremiah 9:24
+type: Verse
+kjv: "But let him that glorieth glory in this, that he understandeth and knoweth me, that I am the LORD which exercise lovingkindness, judgment, and righteousness, in the earth: for in these things I delight, saith the LORD."
+bsb: "But let him who boasts boast in this, that he understands and knows Me, that I am the LORD, who exercises loving devotion, justice and righteousness on the earth—for I delight in these things,” declares the LORD."
+hebrew: "כִּ֣י אִם־ בְּזֹ֞את יִתְהַלֵּ֣ל הַמִּתְהַלֵּ֗ל הַשְׂכֵּל֮ וְיָדֹ֣עַ אוֹתִי֒ כִּ֚י אֲנִ֣י יְהוָ֔ה עֹ֥שֶׂה חֶ֛סֶד מִשְׁפָּ֥ט וּצְדָקָ֖ה בָּאָ֑רֶץ כִּֽי־ בְאֵ֥לֶּה חָפַ֖צְתִּי נְאֻם־ יְהוָֽה׃ ס"
+pericope: "[[Jer.9.1 A Lament over Zion|A Lament over Zion]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 9
+book/chapter: "[[Jer.9|Jeremiah 9]]"
+chronological_order: 726
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H2063]]"
+- "[[H1984H]]"
+- "[[H9009]]"
+- "[[H7919A]]"
+- "[[H9002]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H6213A]]"
+- "[[H2617A]]"
+- "[[H4941H]]"
+- "[[H6666]]"
+- "[[H0776G]]"
+- "[[H0428]]"
+- "[[H2654A]]"
+- "[[H5002]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 9:24**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But let him that glorieth glory in this, that he understandeth and knoweth me, that I [am] the LORD which exercise lovingkindness, judgment, and righteousness, in the earth: for in these [things] I delight, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 But let him who boasts boast in this, that he understands and knows Me, that I am the LORD, who exercises loving devotion, justice and righteousness on the earth—for I delight in these things,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588B\|כִּ֣י]] [[H0518B\|אִם]][[H9014\|־]] [[H9003\|בְּ]][[H2063\|זֹ֞את]] [[H1984H\|יִתְהַלֵּ֣ל]] [[H9009\|הַ]][[H1984H\|מִּתְהַלֵּ֗ל]] [[H7919A\|הַשְׂכֵּל֮]] [[H9002\|וְ]][[H3045\|יָדֹ֣עַ]] [[H0853\|אוֹתִ]][[H9030\|י֒]] [[H3588A\|כִּ֚י]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָ֔ה]] [[H6213A\|עֹ֥שֶׂה]] [[H2617A\|חֶ֛סֶד]] [[H4941H\|מִשְׁפָּ֥ט]] [[H9002\|וּ]][[H6666\|צְדָקָ֖ה]] [[H9003\|בָּ]][[H0776G\|אָ֑רֶץ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9003\|בְ]][[H0428\|אֵ֥לֶּה]] [[H2654A\|חָפַ֖צְתִּי]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PRIDE|PRIDE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.9.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.23|<< Jeremiah 9:23]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.25|Jeremiah 9:25 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -32,7 +95,7 @@ But let him who boasts boast in this, that he understands and knows Me, that I a
 | in these things  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0428\|אֵ֥לֶּה]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I delight  |**<big>&#8207;[[H2654A\|חָפַ֖צְתִּי]]&#8207; </big>**| cha.Fatz.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.23|<< Jeremiah 9:23]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.25|Jeremiah 9:25 >>]]</td></tr></table>
 
 

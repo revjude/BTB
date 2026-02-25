@@ -1,8 +1,62 @@
+---
+title: Esther 9:18
+type: Verse
+kjv: "But the Jews that were at Shushan assembled together on the thirteenth day thereof, and on the fourteenth thereof; and on the fifteenth day of the same they rested, and made it a day of feasting and gladness."
+bsb: "The Jews in Susa, however, had assembled on the thirteenth and the fourteenth days of the month. So they rested on the fifteenth day, making it a day of feasting and joy."
+hebrew: "וְהַיְּהוּדִ֣ים אֲשֶׁר־ בְּשׁוּשָׁ֗ן נִקְהֲלוּ֙ בִּשְׁלֹשָׁ֤ה עָשָׂר֙ בּ֔וֹ וּבְאַרְבָּעָ֥ה עָשָׂ֖ר בּ֑וֹ וְנ֗וֹחַ בַּחֲמִשָּׁ֤ה עָשָׂר֙ בּ֔וֹ וְעָשֹׂ֣ה אֹת֔וֹ י֖וֹם מִשְׁתֶּ֥ה וְשִׂמְחָֽה׃"
+pericope: "[[Esth.9.18 The Feast of Purim Instituted|The Feast of Purim Instituted]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 9
+book/chapter: "[[Esth.9|Esther 9]]"
+chronological_order: 907
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic MONTH|MONTH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3064]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H7800]]"
+- "[[H6950]]"
+- "[[H7969]]"
+- "[[H6240]]"
+- "[[H9033]]"
+- "[[H0702]]"
+- "[[H5117]]"
+- "[[H2568]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H3117G]]"
+- "[[H4960]]"
+- "[[H8057]]"
+- "[[H9016]]"
+texts:
+- Q(k)
+- L
+---
+
 **Esther 9:18**<big><big>[[Esth.9.18 The Feast of Purim Instituted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the Jews that [were] at Shushan assembled together on the thirteenth [day] thereof, and on the fourteenth thereof; and on the fifteenth [day] of the same they rested, and made it a day of feasting and gladness.
 <small><sub>**BSB:**</sub></small>
 The Jews in Susa, however, had assembled on the thirteenth and the fourteenth days of the month. So they rested on the fifteenth day, making it a day of feasting and joy.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H3064\|יְּהוּדִ֣ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בְּ]][[H7800\|שׁוּשָׁ֗ן]] [[H6950\|נִקְהֲלוּ֙]] [[H9003\|בִּ]][[H7969\|שְׁלֹשָׁ֤ה]] [[H6240\|עָשָׂר֙]] [[H9003\|בּ֔]][[H9033\|וֹ]] [[H9002\|וּ]][[H9003\|בְ]][[H0702\|אַרְבָּעָ֥ה]] [[H6240\|עָשָׂ֖ר]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H9002\|וְ]][[H5117\|נ֗וֹחַ]] [[H9003\|בַּ]][[H2568\|חֲמִשָּׁ֤ה]] [[H6240\|עָשָׂר֙]] [[H9003\|בּ֔]][[H9033\|וֹ]] [[H9002\|וְ]][[H6213H\|עָשֹׂ֣ה]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H3117G\|י֖וֹם]] [[H4960\|מִשְׁתֶּ֥ה]] [[H9002\|וְ]][[H8057\|שִׂמְחָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic MONTH|MONTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.17|<< Esther 9:17]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.19|Esther 9:19 >>]]</td></tr></table>
 

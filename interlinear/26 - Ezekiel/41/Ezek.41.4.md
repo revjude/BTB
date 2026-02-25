@@ -1,8 +1,62 @@
+---
+title: Ezekiel 41:4
+type: Verse
+kjv: "So he measured the length thereof, twenty cubits; and the breadth, twenty cubits, before the temple: and he said unto me, This is the most holy place."
+bsb: "Then he measured the room adjacent to the inner sanctuary to be twenty cubits long and twenty cubits wide. And he said to me, “This is the Most Holy Place.”"
+hebrew: "וַיָּ֨מָד אֶת־ אָרְכּ֜וֹ עֶשְׂרִ֣ים אַמָּ֗ה וְרֹ֛חַב עֶשְׂרִ֥ים אַמָּ֖ה אֶל־ פְּנֵ֣י הַֽהֵיכָ֑ל וַיֹּ֣אמֶר אֵלַ֔י זֶ֖ה קֹ֥דֶשׁ הַקֳּדָשִֽׁים׃"
+pericope: "[[Ezek.41.1 Inside the Temple|Inside the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 41
+book/chapter: "[[Ezek.41|Ezekiel 41]]"
+chronological_order: 832
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H9001]]"
+- "[[H4058]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0753]]"
+- "[[H9023]]"
+- "[[H6242]]"
+- "[[H0520A]]"
+- "[[H9002]]"
+- "[[H7341]]"
+- "[[H0413]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H1964I]]"
+- "[[H0559]]"
+- "[[H9030]]"
+- "[[H2088]]"
+- "[[H6944H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 41:4**<big><big>[[Ezek.41.1 Inside the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So he measured the length thereof, twenty cubits; and the breadth, twenty cubits, before the temple: and he said unto me, This [is] the most holy [place].
 <small><sub>**BSB:**</sub></small>
 Then he measured the room adjacent to the inner sanctuary to be twenty cubits long and twenty cubits wide. And he said to me, “This is the Most Holy Place.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4058\|יָּ֨מָד]] [[H0853\|אֶת]][[H9014\|־]] [[H0753\|אָרְכּ֜]][[H9023\|וֹ]] [[H6242\|עֶשְׂרִ֣ים]] [[H0520A\|אַמָּ֗ה]] [[H9002\|וְ]][[H7341\|רֹ֛חַב]] [[H6242\|עֶשְׂרִ֥ים]] [[H0520A\|אַמָּ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H6440G\|פְּנֵ֣י]] [[H9009\|הַֽ]][[H1964I\|הֵיכָ֑ל]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H2088\|זֶ֖ה]] [[H6944H\|קֹ֥דֶשׁ]] [[H9009\|הַ]][[H6944H\|קֳּדָשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.3|<< Ezekiel 41:3]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.5|Ezekiel 41:5 >>]]</td></tr></table>
 

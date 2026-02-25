@@ -1,8 +1,70 @@
+---
+title: 2 Kings 25:27
+type: Verse
+kjv: "And it came to pass in the seven and thirtieth year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the seven and twentieth day of the month, that Evilmerodach king of Babylon in the year that he began to reign did lift up the head of Jehoiachin king of Judah out of prison;"
+bsb: "On the twenty-seventh day of the twelfth month of the thirty-seventh year of the exile of Judah’s King Jehoiachin, in the year Evil-merodach became king of Babylon, he released King Jehoiachin of Judah from prison."
+hebrew: "וַיְהִי֩ בִשְׁלֹשִׁ֨ים וָשֶׁ֜בַע שָׁנָ֗ה לְגָלוּת֙ יְהוֹיָכִ֣ין מֶֽלֶךְ־ יְהוּדָ֔ה בִּשְׁנֵ֤ים עָשָׂר֙ חֹ֔דֶשׁ בְּעֶשְׂרִ֥ים וְשִׁבְעָ֖ה לַחֹ֑דֶשׁ נָשָׂ֡א אֱוִ֣יל מְרֹדַךְ֩ מֶ֨לֶךְ בָּבֶ֜ל בִּשְׁנַ֣ת מָלְכ֗וֹ אֶת־ רֹ֛אשׁ יְהוֹיָכִ֥ין מֶֽלֶךְ־ יְהוּדָ֖ה מִבֵּ֥ית כֶּֽלֶא׃"
+pericope: "[[2Kgs.25.27 Jehoiachin Released from Prison|Jehoiachin Released from Prison]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 25
+book/chapter: "[[2Kgs.25|2 Kings 25]]"
+chronological_order: 742
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic EVIL-MERODACH|EVIL-MERODACH]]"
+- "[[topic JEHOIACHIN|JEHOIACHIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H7970]]"
+- "[[H9002]]"
+- "[[H7651]]"
+- "[[H8141]]"
+- "[[H9005]]"
+- "[[H1546]]"
+- "[[H3078]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H2320G]]"
+- "[[H6242]]"
+- "[[H5375Q]]"
+- "[[H0192]]"
+- "[[H0894]]"
+- "[[H4427A]]"
+- "[[H9043]]"
+- "[[H0853]]"
+- "[[H7218H]]"
+- "[[H9006]]"
+- "[[H1004B]]"
+- "[[H3608]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 25:27**<big><big>[[2Kgs.25.27 Jehoiachin Released from Prison|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the seven and thirtieth year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the seven and twentieth [day] of the month, [that] Evilmerodach king of Babylon in the year that he began to reign did lift up the head of Jehoiachin king of Judah out of prison;
 <small><sub>**BSB:**</sub></small>
 On the twenty-seventh day of the twelfth month of the thirty-seventh year of the exile of Judah’s King Jehoiachin, in the year Evil-merodach became king of Babylon, he released King Jehoiachin of Judah from prison.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֩]] [[H9003\|בִ]][[H7970\|שְׁלֹשִׁ֨ים]] [[H9002\|וָ]][[H7651\|שֶׁ֜בַע]] [[H8141\|שָׁנָ֗ה]] [[H9005\|לְ]][[H1546\|גָלוּת֙]] [[H3078\|יְהוֹיָכִ֣ין]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָ֔ה]] [[H9003\|בִּ]][[H8147\|שְׁנֵ֤ים]] [[H6240\|עָשָׂר֙]] [[H2320G\|חֹ֔דֶשׁ]] [[H9003\|בְּ]][[H6242\|עֶשְׂרִ֥ים]] [[H9002\|וְ]][[H7651\|שִׁבְעָ֖ה]] [[H9005\|לַ]][[H2320G\|חֹ֑דֶשׁ]] [[H5375Q\|נָשָׂ֡א]] [[H0192\|אֱוִ֣יל]] [[H0192\|מְרֹדַךְ֩]] [[H4428G\|מֶ֨לֶךְ]] [[H0894\|בָּבֶ֜ל]] [[H9003\|בִּ]][[H8141\|שְׁנַ֣ת]] [[H4427A\|מָלְכ֗]][[H9043\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H7218H\|רֹ֛אשׁ]] [[H3078\|יְהוֹיָכִ֥ין]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָ֖ה]] [[H9006\|מִ]][[H1004B\|בֵּ֥ית]] [[H3608\|כֶּֽלֶא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTIVE|CAPTIVE]] • [[topic EVIL-MERODACH|EVIL-MERODACH]] • [[topic JEHOIACHIN|JEHOIACHIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.26|<< 2 Kings 25:26]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.28|2 Kings 25:28 >>]]</td></tr></table>
 

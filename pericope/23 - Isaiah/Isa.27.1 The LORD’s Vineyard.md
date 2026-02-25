@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD’s Vineyard
+type: Pericope
 pericope: "[[Isa.27.1 The LORD’s Vineyard|The LORD’s Vineyard]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 27
 book/chapter: "[[Isa.27|Isaiah 27]]"
-genre:
+chronological_order: 670
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 13
 verses:
 - "[[Isa.27.1]]"
 - "[[Isa.27.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Isa.27.13]]"
 ---
 
-[[Isa.27|Isaiah 27:1 - Isaiah 27:13]]
+<small>[[Isa.27|Isaiah 27:1-13]]</small>
 *The LORD’s Vineyard*
 
 [[Isa.27.1|1]] In that day the LORD with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that \[is\] in the sea.

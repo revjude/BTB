@@ -1,10 +1,74 @@
+---
+title: Matthew 3:11
+type: Verse
+kjv: "I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and with fire:"
+bsb: "I baptize you with water for repentance, but after me will come One more powerful than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and with fire."
+greek: "ἐγὼ μὲν ὑμᾶς βαπτίζω ἐν ὕδατι εἰς μετάνοιαν, ὁ δὲ ὀπίσω μου ἐρχόμενος ἰσχυρότερός μού ἐστὶν οὗ οὐκ εἰμὶ ἱκανὸς τὰ ὑποδήματα βαστάσαι· αὐτὸς ὑμᾶς βαπτίσει ἐν πνεύματι ἁγίῳ καὶ πυρί·"
+pericope: "[[Matt.3.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 3
+book/chapter: "[[Matt.3|Matthew 3]]"
+chronological_order: 935
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic FIRE|FIRE]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[G1473]]"
+- "[[G3303]]"
+- "[[G4771]]"
+- "[[G0907]]"
+- "[[G1722]]"
+- "[[G5204]]"
+- "[[G1519]]"
+- "[[G3341]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3694]]"
+- "[[G3165]]"
+- "[[G2064]]"
+- "[[G2478]]"
+- "[[G1510]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G2425]]"
+- "[[G5266]]"
+- "[[G0941]]"
+- "[[G0846]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G2532]]"
+- "[[G4442]]"
+texts:
+- NKO
+---
+
 **Matthew 3:11**<big><big>[[Matt.3.1 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and [with] fire:
 <small><sub>**BSB:**</sub></small>
 I baptize you with water for repentance, but after me will come One more powerful than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and with fire.
-<small><sub>**Literal:**</sub></small>
-I myself indeed you baptize with water to repentance, <the> however after me is coming mightier than I He is of whom not I am fit the sandals to carry; He himself you will baptize with [the] Spirit Holy and with fire;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.3.10|<< Matthew 3:10]]</td><td align="center" style="border:none;">[[Matt.3|Matthew 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.3.12|Matthew 3:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|ἐγὼ]]  [[G3303\|μὲν]]  [[G4771\|ὑμᾶς]]  [[G0907\|βαπτίζω]]  [[G1722\|ἐν]]  [[G5204\|ὕδατι]]  [[G1519\|εἰς]]  [[G3341\|μετάνοιαν,]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G3694\|ὀπίσω]]  [[G3165\|μου]]  [[G2064\|ἐρχόμενος]]  [[G2478\|ἰσχυρότερός]]  [[G3165\|μού]]  [[G1510\|ἐστὶν]]  [[G3739\|οὗ]]  [[G3756\|οὐκ]]  [[G1510\|εἰμὶ]]  [[G2425\|ἱκανὸς]]  [[G3588\|τὰ]]  [[G5266\|ὑποδήματα]]  [[G0941\|βαστάσαι·]]  [[G0846\|αὐτὸς]]  [[G4771\|ὑμᾶς]]  [[G0907\|βαπτίσει]]  [[G1722\|ἐν]]  [[G4151G\|πνεύματι]]  [[G0040G\|ἁγίῳ]]  [[G2532\|καὶ]]  [[G4442\|πυρί·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic CONFESSION|CONFESSION]] • [[topic FIRE|FIRE]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic REPROOF|REPROOF]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TRINITY|TRINITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.3.10|<< Matthew 3:10]]</td><td align="center" style="border:none;">[[Matt.3|Matthew 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.3.12|Matthew 3:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

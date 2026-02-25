@@ -1,10 +1,60 @@
+---
+title: Revelation 16:13
+type: Verse
+kjv: "And I saw three unclean spirits like frogs come out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet."
+bsb: "And I saw three unclean spirits that looked like frogs coming out of the mouths of the dragon, the beast, and the false prophet."
+greek: "Καὶ εἶδον ἐκ τοῦ στόματος τοῦ δράκοντος καὶ ἐκ τοῦ στόματος τοῦ θηρίου καὶ ἐκ τοῦ στόματος τοῦ ψευδοπροφήτου πνεύματα τρία ἀκάθαρτα ὡς βάτραχοι."
+pericope: "[[Rev.16.1 The First Six Bowls of Wrath|The First Six Bowls of Wrath]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 16
+book/chapter: "[[Rev.16|Revelation 16]]"
+chronological_order: 1183
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic DRAGON|DRAGON]]"
+- "[[topic FROGS|FROGS]]"
+- "[[topic GOOD AND EVIL|GOOD AND EVIL]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G4750]]"
+- "[[G1404]]"
+- "[[G2342]]"
+- "[[G5578]]"
+- "[[G4151G]]"
+- "[[G5140]]"
+- "[[G0169]]"
+- "[[G5613]]"
+- "[[G0944]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 16:13**<big><big>[[Rev.16.1 The First Six Bowls of Wrath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I saw three unclean spirits like frogs [come] out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet.
 <small><sub>**BSB:**</sub></small>
 And I saw three unclean spirits that looked like frogs coming out of the mouths of the dragon, the beast, and the false prophet.
-<small><sub>**Literal:**</sub></small>
-And I saw [coming] out of the mouth of the dragon and out of the mouth of the beast and out of the mouth of the false prophet spirits three unclean as frogs.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.12|<< Revelation 16:12]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.14|Revelation 16:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1492H\|εἶδον]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4750\|στόματος]]  [[G3588\|τοῦ]]  [[G1404\|δράκοντος]]  [[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4750\|στόματος]]  [[G3588\|τοῦ]]  [[G2342\|θηρίου]]  [[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4750\|στόματος]]  [[G3588\|τοῦ]]  [[G5578\|ψευδοπροφήτου]]  [[G4151G\|πνεύματα]]  [[G5140\|τρία]]  [[G0169\|ἀκάθαρτα]]  [[G5613\|ὡς]]  [[G0944\|βάτραχοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic DRAGON|DRAGON]] • [[topic FROGS|FROGS]] • [[topic GOOD AND EVIL|GOOD AND EVIL]] • [[topic TEMPLE|TEMPLE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.12|<< Revelation 16:12]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.14|Revelation 16:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

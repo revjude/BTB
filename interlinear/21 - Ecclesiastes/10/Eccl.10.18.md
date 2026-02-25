@@ -1,8 +1,52 @@
+---
+title: Ecclesiastes 10:18
+type: Verse
+kjv: "By much slothfulness the building decayeth; and through idleness of the hands the house droppeth through."
+bsb: "Through laziness the roof caves in, and in the hands of the idle, the house leaks."
+hebrew: "בַּעֲצַלְתַּ֖יִם יִמַּ֣ךְ הַמְּקָרֶ֑ה וּבְשִׁפְל֥וּת יָדַ֖יִם יִדְלֹ֥ף הַבָּֽיִת׃"
+pericope: "[[Eccl.10.1 Wisdom and Folly|Wisdom and Folly]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 10
+book/chapter: "[[Eccl.10|Ecclesiastes 10]]"
+chronological_order: 548
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic IDLENESS|IDLENESS]]"
+- "[[topic SLOTHFULNESS|SLOTHFULNESS]]"
+strongs:
+- "[[H9003]]"
+- "[[H6103]]"
+- "[[H4355]]"
+- "[[H9009]]"
+- "[[H4746]]"
+- "[[H9002]]"
+- "[[H8220]]"
+- "[[H3027G]]"
+- "[[H1811]]"
+- "[[H1004B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 10:18**<big><big>[[Eccl.10.1 Wisdom and Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By much slothfulness the building decayeth; and through idleness of the hands the house droppeth through.
 <small><sub>**BSB:**</sub></small>
 Through laziness the roof caves in, and in the hands of the idle, the house leaks.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H6103\|עֲצַלְתַּ֖יִם]] [[H4355\|יִמַּ֣ךְ]] [[H9009\|הַ]][[H4746\|מְּקָרֶ֑ה]] [[H9002\|וּ]][[H9003\|בְ]][[H8220\|שִׁפְל֥וּת]] [[H3027G\|יָדַ֖יִם]] [[H1811\|יִדְלֹ֥ף]] [[H9009\|הַ]][[H1004B\|בָּֽיִת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDLENESS|IDLENESS]] • [[topic SLOTHFULNESS|SLOTHFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.10.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.17|<< Ecclesiastes 10:17]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.19|Ecclesiastes 10:19 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Haggai 2:22
+type: Verse
+kjv: "And I will overthrow the throne of kingdoms, and I will destroy the strength of the kingdoms of the heathen; and I will overthrow the chariots, and those that ride in them; and the horses and their riders shall come down, every one by the sword of his brother."
+bsb: "I will overturn royal thrones and destroy the power of the kingdoms of the nations. I will overturn chariots and their riders; horses and their riders will fall, each by the sword of his brother."
+hebrew: "וְהָֽפַכְתִּי֙ כִּסֵּ֣א מַמְלָכ֔וֹת וְהִ֨שְׁמַדְתִּ֔י חֹ֖זֶק מַמְלְכ֣וֹת הַגּוֹיִ֑ם וְהָפַכְתִּ֤י מֶרְכָּבָה֙ וְרֹ֣כְבֶ֔יהָ וְיָרְד֤וּ סוּסִים֙ וְרֹ֣כְבֵיהֶ֔ם אִ֖ישׁ בְּחֶ֥רֶב אָחִֽיו׃"
+pericope: "[[Hag.2.20 Zerubbabel the LORD’s Signet Ring|Zerubbabel the LORD’s Signet Ring]]"
+original_language: Hebrew
+testament: Old
+book: Haggai
+chapter: 2
+book/chapter: "[[Hag.2|Haggai 2]]"
+chronological_order: 856
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+strongs:
+- "[[H9001]]"
+- "[[H2015]]"
+- "[[H3678G]]"
+- "[[H4467]]"
+- "[[H8045]]"
+- "[[H2392]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H4818]]"
+- "[[H9002]]"
+- "[[H7392]]"
+- "[[H9024]]"
+- "[[H3381]]"
+- "[[H5483M]]"
+- "[[H9028]]"
+- "[[H0376I]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H0251I]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Haggai 2:22**<big><big>[[Hag.2.20 Zerubbabel the LORD’s Signet Ring|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will overthrow the throne of kingdoms, and I will destroy the strength of the kingdoms of the heathen; and I will overthrow the chariots, and those that ride in them; and the horses and their riders shall come down, every one by the sword of his brother.
 <small><sub>**BSB:**</sub></small>
 I will overturn royal thrones and destroy the power of the kingdoms of the nations. I will overturn chariots and their riders; horses and their riders will fall, each by the sword of his brother.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2015\|הָֽפַכְתִּי֙]] [[H3678G\|כִּסֵּ֣א]] [[H4467\|מַמְלָכ֔וֹת]] [[H9001\|וְ]][[H8045\|הִ֨שְׁמַדְתִּ֔י]] [[H2392\|חֹ֖זֶק]] [[H4467\|מַמְלְכ֣וֹת]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֑ם]] [[H9001\|וְ]][[H2015\|הָפַכְתִּ֤י]] [[H4818\|מֶרְכָּבָה֙]] [[H9002\|וְ]][[H7392\|רֹ֣כְבֶ֔י]][[H9024\|הָ]] [[H9001\|וְ]][[H3381\|יָרְד֤וּ]] [[H5483M\|סוּסִים֙]] [[H9002\|וְ]][[H7392\|רֹ֣כְבֵי]][[H9028\|הֶ֔ם]] [[H0376I\|אִ֖ישׁ]] [[H9003\|בְּ]][[H2719\|חֶ֥רֶב]] [[H0251I\|אָחִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.21|<< Haggai 2:21]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.23|Haggai 2:23 >>]]</td></tr></table>
 

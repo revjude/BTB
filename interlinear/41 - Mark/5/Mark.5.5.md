@@ -1,10 +1,58 @@
+---
+title: Mark 5:5
+type: Verse
+kjv: "And always, night and day, he was in the mountains, and in the tombs, crying, and cutting himself with stones."
+bsb: "Night and day in the tombs and in the mountains he kept crying out and cutting himself with stones."
+greek: "καὶ διὰ παντὸς νυκτὸς καὶ ἡμέρας ἐν τοῖς μνήμασιν καὶ ἐν τοῖς ὄρεσιν ἦν κράζων καὶ κατακόπτων ἑαυτὸν λίθοις.¶"
+pericope: "[[Mark.5.1 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic GADARENES|GADARENES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G1223]]"
+- "[[G3956]]"
+- "[[G3571]]"
+- "[[G2250]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3418]]"
+- "[[G3735]]"
+- "[[G1510]]"
+- "[[G2896]]"
+- "[[G2629]]"
+- "[[G1438]]"
+- "[[G3037]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Mark 5:5**<big><big>[[Mark.5.1 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And always, night and day, he was in the mountains, and in the tombs, crying, and cutting himself with stones.
 <small><sub>**BSB:**</sub></small>
 Night and day in the tombs and in the mountains he kept crying out and cutting himself with stones.
-<small><sub>**Literal:**</sub></small>
-And through all [times] night and day in the tombs and in the mountains he was crying out and cutting himself with stones.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.4|<< Mark 5:4]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.6|Mark 5:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1223\|διὰ]]  [[G3956\|παντὸς]]  [[G3571\|νυκτὸς]]  [[G2532\|καὶ]]  [[G2250\|ἡμέρας]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3418\|μνήμασιν]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3735\|ὄρεσιν]]  [[G1510\|ἦν]]  [[G2896\|κράζων]]  [[G2532\|καὶ]]  [[G2629\|κατακόπτων]]  [[G1438\|ἑαυτὸν]]  [[G3037\|λίθοις.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic GADARENES|GADARENES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.4|<< Mark 5:4]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.6|Mark 5:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

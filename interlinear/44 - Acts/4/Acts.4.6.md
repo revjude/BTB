@@ -1,10 +1,59 @@
+---
+title: Acts 4:6
+type: Verse
+kjv: "And Annas the high priest, and Caiaphas, and John, and Alexander, and as many as were of the kindred of the high priest, were gathered together at Jerusalem."
+bsb: "along with Annas the high priest, Caiaphas, John, Alexander, and many others from the high priest’s family."
+greek: "καὶ Ἅννας ὁ ἀρχιερεὺς καὶ Καϊάφας καὶ Ἰωάννης καὶ Ἀλέξανδρος καὶ ὅσοι ἦσαν ἐκ γένους ἀρχιερατικοῦ,"
+pericope: "[[Acts.4.1 Peter and John before the Sanhedrin|Peter and John before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ALEXANDER|ALEXANDER]]"
+- "[[topic ANNAS|ANNAS]]"
+- "[[topic CAIAPHAS|CAIAPHAS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[G2532]]"
+- "[[G0452]]"
+- "[[G3588]]"
+- "[[G0749]]"
+- "[[G2533G]]"
+- "[[G2491I]]"
+- "[[G0223H]]"
+- "[[G3745]]"
+- "[[G1510]]"
+- "[[G1537]]"
+- "[[G1085G]]"
+- "[[G0748]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 4:6**<big><big>[[Acts.4.1 Peter and John before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Annas the high priest, and Caiaphas, and John, and Alexander, and as many as were of the kindred of the high priest, were gathered together at Jerusalem.
 <small><sub>**BSB:**</sub></small>
 along with Annas the high priest, Caiaphas, John, Alexander, and many others from the high priest’s family.
-<small><sub>**Literal:**</sub></small>
-and Annas the high priest and Caiaphas and John and Alexander and as many as were of descent high-priestly,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.5|<< Acts 4:5]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.7|Acts 4:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0452\|Ἅννας]]  [[G3588\|ὁ]]  [[G0749\|ἀρχιερεὺς]]  [[G2532\|καὶ]]  [[G2533G\|Καϊάφας]]  [[G2532\|καὶ]]  [[G2491I\|Ἰωάννης]]  [[G2532\|καὶ]]  [[G0223H\|Ἀλέξανδρος]]  [[G2532\|καὶ]]  [[G3745\|ὅσοι]]  [[G1510\|ἦσαν]]  [[G1537\|ἐκ]]  [[G1085G\|γένους]]  [[G0748\|ἀρχιερατικοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALEXANDER|ALEXANDER]] • [[topic ANNAS|ANNAS]] • [[topic CAIAPHAS|CAIAPHAS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOHN|JOHN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.5|<< Acts 4:5]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.7|Acts 4:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

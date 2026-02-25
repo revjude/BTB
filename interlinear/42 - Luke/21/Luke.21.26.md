@@ -1,10 +1,58 @@
+---
+title: Luke 21:26
+type: Verse
+kjv: "Men’s hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken."
+bsb: "Men will faint from fear and anxiety over what is coming upon the earth, for the powers of the heavens will be shaken."
+jesus_said: "Men’s hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken."
+greek: "ἀποψυχόντων ἀνθρώπων ἀπὸ φόβου καὶ προσδοκίας τῶν ἐπερχομένων τῇ οἰκουμένῃ· αἱ γὰρ δυνάμεις τῶν οὐρανῶν σαλευθήσονται."
+pericope: "[[Luke.21.25 The Return of the Son of Man|The Return of the Son of Man]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 21
+book/chapter: "[[Luke.21|Luke 21]]"
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G0674]]"
+- "[[G0444]]"
+- "[[G0575]]"
+- "[[G5401]]"
+- "[[G2532]]"
+- "[[G4329]]"
+- "[[G3588]]"
+- "[[G1904]]"
+- "[[G3625]]"
+- "[[G1063]]"
+- "[[G1411]]"
+- "[[G3772]]"
+- "[[G4531]]"
+texts:
+- NKO
+---
+
 **Luke 21:26**<big><big>[[Luke.21.25 The Return of the Son of Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Men’s hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken.
 <small><sub>**BSB:**</sub></small>
 Men will faint from fear and anxiety over what is coming upon the earth, for the powers of the heavens will be shaken.
-<small><sub>**Literal:**</sub></small>
-when are fainting men from fear and expectation of that which is coming on the earth; <the> for the powers of the heavens will be shaken.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.25|<< Luke 21:25]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.27|Luke 21:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0674\|ἀποψυχόντων]]  [[G0444\|ἀνθρώπων]]  [[G0575\|ἀπὸ]]  [[G5401\|φόβου]]  [[G2532\|καὶ]]  [[G4329\|προσδοκίας]]  [[G3588\|τῶν]]  [[G1904\|ἐπερχομένων]]  [[G3588\|τῇ]]  [[G3625\|οἰκουμένῃ·]]  [[G3588\|αἱ]]  [[G1063\|γὰρ]]  [[G1411\|δυνάμεις]]  [[G3588\|τῶν]]  [[G3772\|οὐρανῶν]]  [[G4531\|σαλευθήσονται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WAR|WAR]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.25|<< Luke 21:25]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.27|Luke 21:27 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 21:26** is...
 > $\quad$ referencing: [[LXX.Isa.34.4|Isa 34:4]]

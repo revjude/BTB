@@ -1,8 +1,68 @@
+---
+title: 1 Samuel 19:10
+type: Verse
+kjv: "And Saul sought to smite David even to the wall with the javelin; but he slipped away out of Saul’s presence, and he smote the javelin into the wall: and David fled, and escaped that night."
+bsb: "Saul tried to pin him to the wall with his spear. But David eluded him and the spear struck the wall. And David fled and escaped that night."
+hebrew: "וַיְבַקֵּ֨שׁ שָׁא֜וּל לְהַכּ֤וֹת בַּֽחֲנִית֙ בְּדָוִ֣ד וּבַקִּ֔יר וַיִּפְטַר֙ מִפְּנֵ֣י שָׁא֔וּל וַיַּ֥ךְ אֶֽת־ הַחֲנִ֖ית בַּקִּ֑יר וְדָוִ֛ד נָ֥ס וַיִּמָּלֵ֖ט בַּלַּ֥יְלָה הֽוּא׃ פ"
+pericope: "[[1Sam.19.1 Saul Tries to Kill David|Saul Tries to Kill David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 19
+book/chapter: "[[1Sam.19|1 Samuel 19]]"
+chronological_order: 298
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic EVIL FOR GOOD|EVIL FOR GOOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JAVELIN|JAVELIN]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic MICHAL|MICHAL]]"
+strongs:
+- "[[H9001]]"
+- "[[H1245]]"
+- "[[H7586G]]"
+- "[[H9005]]"
+- "[[H5221]]"
+- "[[H9003]]"
+- "[[H2595]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H7023]]"
+- "[[H6362]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5127]]"
+- "[[H4422]]"
+- "[[H3915]]"
+- "[[H1931]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Samuel 19:10**<big><big>[[1Sam.19.1 Saul Tries to Kill David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul sought to smite David even to the wall with the javelin; but he slipped away out of Saul’s presence, and he smote the javelin into the wall: and David fled, and escaped that night.
 <small><sub>**BSB:**</sub></small>
 Saul tried to pin him to the wall with his spear. But David eluded him and the spear struck the wall. And David fled and escaped that night.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1245\|יְבַקֵּ֨שׁ]] [[H7586G\|שָׁא֜וּל]] [[H9005\|לְ]][[H5221\|הַכּ֤וֹת]] [[H9003\|בַּֽ]][[H2595\|חֲנִית֙]] [[H9003\|בְּ]][[H1732\|דָוִ֣ד]] [[H9002\|וּ]][[H9003\|בַ]][[H7023\|קִּ֔יר]] [[H9001\|וַ]][[H6362\|יִּפְטַר֙]] [[H9006\|מִ]][[H6440G\|פְּנֵ֣י]] [[H7586G\|שָׁא֔וּל]] [[H9001\|וַ]][[H5221\|יַּ֥ךְ]] [[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הַ]][[H2595\|חֲנִ֖ית]] [[H9003\|בַּ]][[H7023\|קִּ֑יר]] [[H9002\|וְ]][[H1732\|דָוִ֛ד]] [[H5127\|נָ֥ס]] [[H9001\|וַ]][[H4422\|יִּמָּלֵ֖ט]] [[H9003\|בַּ]][[H3915\|לַּ֥יְלָה]] [[H1931\|הֽוּא]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic DEMONS|DEMONS]] • [[topic EVIL FOR GOOD|EVIL FOR GOOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JAVELIN|JAVELIN]] • [[topic JEALOUSY|JEALOUSY]] • [[topic MICHAL|MICHAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.19.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.9|<< 1 Samuel 19:9]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.11|1 Samuel 19:11 >>]]</td></tr></table>
 
@@ -25,7 +85,7 @@ Saul tried to pin him to the wall with his spear. But David eluded him and the s
 | he fled  |**<big>&#8207;[[H5127\|נָ֥ס]]&#8207; </big>**| nas<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he escaped  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4422\|יִּמָּלֵ֖ט]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ma.Let<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the night  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3915\|לַּ֥יְלָה]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Lay.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| that  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.9|<< 1 Samuel 19:9]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.11|1 Samuel 19:11 >>]]</td></tr></table>
 
 

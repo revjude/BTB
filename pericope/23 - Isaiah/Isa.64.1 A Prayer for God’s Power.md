@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Prayer for God’s Power
+type: Pericope
 pericope: "[[Isa.64.1 A Prayer for God’s Power|A Prayer for God’s Power]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 64
 book/chapter: "[[Isa.64|Isaiah 64]]"
-genre:
+chronological_order: 703
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 12
 verses:
 - "[[Isa.64.1]]"
 - "[[Isa.64.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Isa.64.12]]"
 ---
 
-[[Isa.64|Isaiah 64:1 - Isaiah 64:12]]
+<small>[[Isa.64|Isaiah 64:1-12]]</small>
 *A Prayer for God’s Power*
 
 [[Isa.64.1|1]] Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might flow down at thy presence,

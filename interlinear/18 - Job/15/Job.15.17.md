@@ -1,8 +1,48 @@
+---
+title: Job 15:17
+type: Verse
+kjv: "I will shew thee, hear me; and that which I have seen I will declare;"
+bsb: "Listen to me and I will inform you. I will describe what I have seen,"
+hebrew: "אֲחַוְךָ֥ שְֽׁמַֽע־ לִ֑י וְזֶֽה־ חָ֝זִ֗יתִי וַאֲסַפֵּֽרָה׃"
+pericope: "[[Job.15.1 Eliphaz：Job Does Not Fear God|Eliphaz：Job Does Not Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 15
+book/chapter: "[[Job.15|Job 15]]"
+chronological_order: 26
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H2331]]"
+- "[[H9031]]"
+- "[[H8085G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H2088]]"
+- "[[H2372]]"
+- "[[H5608A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 15:17**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will shew thee, hear me; and that [which] I have seen I will declare;
 <small><sub>**BSB:**</sub></small>
 Listen to me and I will inform you. I will describe what I have seen,
+<small><sub>**Hebrew:**</sub></small>
+[[H2331\|אֲחַוְ]][[H9031\|ךָ֥]] [[H8085G\|שְֽׁמַֽע]][[H9014\|־]] [[H9005\|לִ֑]][[H9030\|י]] [[H9002\|וְ]][[H2088\|זֶֽה]][[H9014\|־]] [[H2372\|חָ֝זִ֗יתִי]] [[H9002\|וַ]][[H5608A\|אֲסַפֵּֽרָה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.16|<< Job 15:16]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.18|Job 15:18 >>]]</td></tr></table>
 

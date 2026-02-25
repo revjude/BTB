@@ -1,10 +1,45 @@
+---
+title: 1 Corinthians 14:29
+type: Verse
+kjv: "Let the prophets speak two or three, and let the other judge."
+bsb: "Two or three prophets should speak, and the others should weigh carefully what is said."
+greek: "προφῆται δὲ δύο ἢ τρεῖς λαλείτωσαν, καὶ οἱ ἄλλοι διακρινέτωσαν·"
+pericope: "[[1Cor.14.26 Orderly Worship|Orderly Worship]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 14
+book/chapter: "[[1Cor.14|1 Corinthians 14]]"
+chronological_order: 1071
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+strongs:
+- "[[G4396]]"
+- "[[G1161]]"
+- "[[G1417]]"
+- "[[G2228]]"
+- "[[G5140]]"
+- "[[G2980]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0243]]"
+- "[[G1252]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 14:29**<big><big>[[1Cor.14.26 Orderly Worship|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Let the prophets speak two or three, and let the other judge.
 <small><sub>**BSB:**</sub></small>
 Two or three prophets should speak, and the others should weigh carefully what is said.
-<small><sub>**Literal:**</sub></small>
-Prophets then two or three should speak, and the others should discern;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.28|<< 1 Corinthians 14:28]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.30|1 Corinthians 14:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4396\|προφῆται]]  [[G1161\|δὲ]]  [[G1417\|δύο]]  [[G2228\|ἢ]]  [[G5140\|τρεῖς]]  [[G2980\|λαλείτωσαν,]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0243\|ἄλλοι]]  [[G1252\|διακρινέτωσαν·]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.28|<< 1 Corinthians 14:28]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.30|1 Corinthians 14:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

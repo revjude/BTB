@@ -1,10 +1,57 @@
+---
+title: 2 Corinthians 8:6
+type: Verse
+kjv: "Insomuch that we desired Titus, that as he had begun, so he would also finish in you the same grace also."
+bsb: "So we urged Titus to help complete your act of grace, just as he had started it."
+greek: "εἰς τὸ παρακαλέσαι ἡμᾶς Τίτον, ἵνα καθὼς προενήρξατο οὕτως καὶ ἐπιτελέσῃ εἰς ὑμᾶς καὶ τὴν χάριν ταύτην."
+pericope: "[[2Cor.8.1 Generosity Commended|Generosity Commended]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 8
+book/chapter: "[[2Cor.8|2 Corinthians 8]]"
+chronological_order: 1081
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic EMULATION|EMULATION]]"
+- "[[topic TACT|TACT]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3870]]"
+- "[[G3165]]"
+- "[[G5103]]"
+- "[[G2443]]"
+- "[[G2531]]"
+- "[[G4278]]"
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G2005]]"
+- "[[G4771]]"
+- "[[G5485]]"
+- "[[G3778]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 8:6**<big><big>[[2Cor.8.1 Generosity Commended|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Insomuch that we desired Titus, that as he had begun, so he would also finish in you the same grace also.
 <small><sub>**BSB:**</sub></small>
 So we urged Titus to help complete your act of grace, just as he had started it.
-<small><sub>**Literal:**</sub></small>
-Accordingly <the> exhorting we Titus, that even as he had begun so also he may complete with you as well <the> grace this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.5|<< 2 Corinthians 8:5]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.7|2 Corinthians 8:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3870\|παρακαλέσαι]]  [[G3165\|ἡμᾶς]]  [[G5103\|Τίτον,]]  [[G2443\|ἵνα]]  [[G2531\|καθὼς]]  [[G4278\|προενήρξατο]]  [[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G2005\|ἐπιτελέσῃ]]  [[G1519\|εἰς]]  [[G4771\|ὑμᾶς]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G5485\|χάριν]]  [[G3778\|ταύτην.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic EMULATION|EMULATION]] • [[topic TACT|TACT]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.5|<< 2 Corinthians 8:5]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.7|2 Corinthians 8:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

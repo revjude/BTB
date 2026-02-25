@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus before Pilate
+type: Pericope
 pericope: "[[Matt.27.11 Jesus before Pilate|Jesus before Pilate]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 27
 book/chapter: "[[Matt.27|Matthew 27]]"
-genre:
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 4
 verses:
 - "[[Matt.27.11]]"
 - "[[Matt.27.12]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Matt.27.14]]"
 ---
 
-[[Matt.27|Matthew 27:11 - Matthew 27:14]]
+<small>[[Matt.27|Matthew 27:11-14]]</small>
 *Jesus before Pilate*
 
 [[Matt.27.11|11]] And Jesus stood before the governor: and the governor asked him, saying, Art thou the King of the Jews? And Jesus said unto him, Thou sayest.

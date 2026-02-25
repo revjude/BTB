@@ -1,8 +1,63 @@
+---
+title: 1 Kings 14:17
+type: Verse
+kjv: "And Jeroboam’s wife arose, and departed, and came to Tirzah: and when she came to the threshold of the door, the child died;"
+bsb: "Then Jeroboam’s wife got up and departed for Tirzah, and as soon as she stepped over the threshold of the house, the boy died."
+hebrew: "וַתָּ֙קָם֙ אֵ֣שֶׁת יָרָבְעָ֔ם וַתֵּ֖לֶךְ וַתָּבֹ֣א תִרְצָ֑תָה הִ֛יא בָּאָ֥ה בְסַף־ הַבַּ֖יִת וְהַנַּ֥עַר מֵֽת׃"
+pericope: "[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|Ahijah’s Prophecy against Jeroboam]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 14
+book/chapter: "[[1Kgs.14|1 Kings 14]]"
+chronological_order: 553
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ABIJAH|ABIJAH]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic TIRZAH|TIRZAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H0802H]]"
+- "[[H3379G]]"
+- "[[H1980G]]"
+- "[[H0935G]]"
+- "[[H8656H]]"
+- "[[H9011]]"
+- "[[H1931]]"
+- "[[H9003]]"
+- "[[H5592B]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H9002]]"
+- "[[H5288]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 14:17**<big><big>[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jeroboam’s wife arose, and departed, and came to Tirzah: [and] when she came to the threshold of the door, the child died;
 <small><sub>**BSB:**</sub></small>
 Then Jeroboam’s wife got up and departed for Tirzah, and as soon as she stepped over the threshold of the house, the boy died.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|תָּ֙קָם֙]] [[H0802H\|אֵ֣שֶׁת]] [[H3379G\|יָרָבְעָ֔ם]] [[H9001\|וַ]][[H1980G\|תֵּ֖לֶךְ]] [[H9001\|וַ]][[H0935G\|תָּבֹ֣א]] [[H8656H\|תִרְצָ֑תָ]][[H9011\|ה]] [[H1931\|הִ֛יא]] [[H0935G\|בָּאָ֥ה]] [[H9003\|בְ]][[H5592B\|סַף]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּ֖יִת]] [[H9002\|וְ]][[H9009\|הַ]][[H5288\|נַּ֥עַר]] [[H4191\|מֵֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIJAH|ABIJAH]] • [[topic JEROBOAM|JEROBOAM]] • [[topic PROPHECY|PROPHECY]] • [[topic TIRZAH|TIRZAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.16|<< 1 Kings 14:16]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.18|1 Kings 14:18 >>]]</td></tr></table>
 

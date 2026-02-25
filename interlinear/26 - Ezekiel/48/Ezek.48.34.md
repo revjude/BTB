@@ -1,8 +1,60 @@
+---
+title: Ezekiel 48:34
+type: Verse
+kjv: "At the west side four thousand and five hundred, with their three gates; one gate of Gad, one gate of Asher, one gate of Naphtali."
+bsb: "And on the west side, which will be 4,500 cubits long, there will be three gates: the gate of Gad, the gate of Asher, and the gate of Naphtali."
+hebrew: "פְּאַת־ יָ֗מָּה חֲמֵ֤שׁ מֵאוֹת֙ וְאַרְבַּ֣עַת אֲלָפִ֔ים שַֽׁעֲרֵיהֶ֖ם שְׁלֹשָׁ֑ה שַׁ֣עַר גָּ֞ד אֶחָ֗ד שַׁ֤עַר אָשֵׁר֙ אֶחָ֔ד שַׁ֥עַר נַפְתָּלִ֖י אֶחָֽד׃"
+pericope: "[[Ezek.48.30 The City Gates and Dimensions|The City Gates and Dimensions]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 48
+book/chapter: "[[Ezek.48|Ezekiel 48]]"
+chronological_order: 839
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H6285]]"
+- "[[H9014]]"
+- "[[H3220H]]"
+- "[[H9011]]"
+- "[[H2568]]"
+- "[[H3967]]"
+- "[[H9002]]"
+- "[[H0702]]"
+- "[[H0505G]]"
+- "[[H8179G]]"
+- "[[H9028]]"
+- "[[H7969]]"
+- "[[H1410G]]"
+- "[[H0259]]"
+- "[[H0836]]"
+- "[[H5321G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 48:34**<big><big>[[Ezek.48.30 The City Gates and Dimensions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At the west side four thousand and five hundred, [with] their three gates; one gate of Gad, one gate of Asher, one gate of Naphtali.
 <small><sub>**BSB:**</sub></small>
 And on the west side, which will be 4,500 cubits long, there will be three gates: the gate of Gad, the gate of Asher, and the gate of Naphtali.
+<small><sub>**Hebrew:**</sub></small>
+[[H6285\|פְּאַת]][[H9014\|־]] [[H3220H\|יָ֗מָּ]][[H9011\|ה]] [[H2568\|חֲמֵ֤שׁ]] [[H3967\|מֵאוֹת֙]] [[H9002\|וְ]][[H0702\|אַרְבַּ֣עַת]] [[H0505G\|אֲלָפִ֔ים]] [[H8179G\|שַֽׁעֲרֵי]][[H9028\|הֶ֖ם]] [[H7969\|שְׁלֹשָׁ֑ה]] [[H8179G\|שַׁ֣עַר]] [[H1410G\|גָּ֞ד]] [[H0259\|אֶחָ֗ד]] [[H8179G\|שַׁ֤עַר]] [[H0836\|אָשֵׁר֙]] [[H0259\|אֶחָ֔ד]] [[H8179G\|שַׁ֥עַר]] [[H5321G\|נַפְתָּלִ֖י]] [[H0259\|אֶחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.33|<< Ezekiel 48:33]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.35|Ezekiel 48:35 >>]]</td></tr></table>
 

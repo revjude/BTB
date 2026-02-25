@@ -1,8 +1,52 @@
+---
+title: 1 Chronicles 24:8
+type: Verse
+kjv: "The third to Harim, the fourth to Seorim,"
+bsb: "the third to Harim, the fourth to Seorim,"
+hebrew: "לְחָרִם֙ הַשְּׁלִישִׁ֔י לִשְׂעֹרִ֖ים הָרְבִעִֽי׃"
+pericope: "[[1Chr.24.1 Twenty-Four Divisions of Priests|Twenty-Four Divisions of Priests]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 24
+book/chapter: "[[1Chr.24|1 Chronicles 24]]"
+chronological_order: 435
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]]"
+- "[[topic HARIM|HARIM]]"
+- "[[topic ITHAMAR|ITHAMAR]]"
+- "[[topic LOT, THE|LOT, THE]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SEORIM|SEORIM]]"
+strongs:
+- "[[H9005]]"
+- "[[H2766G]]"
+- "[[H9009]]"
+- "[[H7992]]"
+- "[[H8188]]"
+- "[[H7243]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 24:8**<big><big>[[1Chr.24.1 Twenty-Four Divisions of Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The third to Harim, the fourth to Seorim,
 <small><sub>**BSB:**</sub></small>
 the third to Harim, the fourth to Seorim,
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H2766G\|חָרִם֙]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁ֔י]] [[H9005\|לִ]][[H8188\|שְׂעֹרִ֖ים]] [[H9009\|הָ]][[H7243\|רְבִעִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]] • [[topic HARIM|HARIM]] • [[topic ITHAMAR|ITHAMAR]] • [[topic LOT, THE|LOT, THE]] • [[topic PRIEST|PRIEST]] • [[topic SEORIM|SEORIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.24.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.24.7|<< 1 Chronicles 24:7]]</td><td align="center" style="border:none;">[[1Chr.24|1 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.9|1 Chronicles 24:9 >>]]</td></tr></table>
 

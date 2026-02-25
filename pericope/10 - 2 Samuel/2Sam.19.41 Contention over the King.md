@@ -1,28 +1,35 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Contention over the King
+type: Pericope
 pericope: "[[2Sam.19.41 Contention over the King|Contention over the King]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 19
 book/chapter: "[[2Sam.19|2 Samuel 19]]"
-genre:
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 3
 verses:
 - "[[2Sam.19.41]]"
 - "[[2Sam.19.42]]"
 - "[[2Sam.19.43]]"
 ---
 
-[[2Sam.19|2 Samuel 19:41 - 2 Samuel 19:43]]
+<small>[[2Sam.19|2 Samuel 19:41-43]]</small>
 *Contention over the King*
 
 [[2Sam.19.41|41]] And, behold, all the men of Israel came to the king, and said unto the king, Why have our brethren the men of Judah stolen thee away, and have brought the king, and his household, and all David’s men with him, over Jordan?

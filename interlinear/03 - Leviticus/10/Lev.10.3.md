@@ -1,8 +1,75 @@
+---
+title: Leviticus 10:3
+type: Verse
+kjv: "Then Moses said unto Aaron, This is it that the LORD spake, saying, I will be sanctified in them that come nigh me, and before all the people I will be glorified. And Aaron held his peace."
+bsb: "Then Moses said to Aaron, “This is what the LORD meant when He said: ‘To those who come near Me I will show My holiness, and in the sight of all the people I will reveal My glory.’” But Aaron remained silent."
+hebrew: "וַיֹּ֨אמֶר מֹשֶׁ֜ה אֶֽל־ אַהֲרֹ֗ן הוּא֩ אֲשֶׁר־ דִּבֶּ֨ר יְהוָ֤ה׀ לֵאמֹר֙ בִּקְרֹבַ֣י אֶקָּדֵ֔שׁ וְעַל־ פְּנֵ֥י כָל־ הָעָ֖ם אֶכָּבֵ֑ד וַיִּדֹּ֖ם אַהֲרֹֽן׃"
+pericope: "[[Lev.10.1 The Sin of Nadab and Abihu|The Sin of Nadab and Abihu]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 10
+book/chapter: "[[Lev.10|Leviticus 10]]"
+chronological_order: 142
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic SACRILEGE|SACRILEGE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H1931]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H9003]]"
+- "[[H7138]]"
+- "[[H9020]]"
+- "[[H6942G]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H6440G]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H3513G]]"
+- "[[H1826H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 10:3**<big><big>[[Lev.10.1 The Sin of Nadab and Abihu|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Moses said unto Aaron, This [is it] that the LORD spake, saying, I will be sanctified in them that come nigh me, and before all the people I will be glorified. And Aaron held his peace.
 <small><sub>**BSB:**</sub></small>
 Then Moses said to Aaron, “This is what the LORD meant when He said: ‘To those who come near Me I will show My holiness, and in the sight of all the people I will reveal My glory.’” But Aaron remained silent.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H4872\|מֹשֶׁ֜ה]] [[H0413\|אֶֽל]][[H9014\|־]] [[H0175\|אַהֲרֹ֗ן]] [[H1931\|הוּא֩]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1696G\|דִּבֶּ֨ר]] [[H3068G\|יְהוָ֤ה]][[H9015\|׀]] [[H9005\|לֵ]][[H0559\|אמֹר֙]] [[H9003\|בִּ]][[H7138\|קְרֹבַ֣]][[H9020\|י]] [[H6942G\|אֶקָּדֵ֔שׁ]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H6440G\|פְּנֵ֥י]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H3513G\|אֶכָּבֵ֑ד]] [[H9001\|וַ]][[H1826H\|יִּדֹּ֖ם]] [[H0175\|אַהֲרֹֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RESIGNATION|RESIGNATION]] • [[topic SACRILEGE|SACRILEGE]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.10.2|<< Leviticus 10:2]]</td><td align="center" style="border:none;">[[Lev.10|Leviticus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.10.4|Leviticus 10:4 >>]]</td></tr></table>
 

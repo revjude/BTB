@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Banquet
+type: Pericope
 pericope: "[[Matt.22.1 The Parable of the Banquet|The Parable of the Banquet]]"
-verse_count: 14
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 22
 book/chapter: "[[Matt.22|Matthew 22]]"
-genre:
+chronological_order: 993
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 14
 verses:
 - "[[Matt.22.1]]"
 - "[[Matt.22.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Matt.22.14]]"
 ---
 
-[[Matt.22|Matthew 22:1 - Matthew 22:14]]
+<small>[[Matt.22|Matthew 22:1-14]]</small>
 *The Parable of the Banquet*
 
 [[Matt.22.1|1]] And Jesus answered and spake unto them again by parables, and said,

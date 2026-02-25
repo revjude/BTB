@@ -1,10 +1,62 @@
+---
+title: Mark 13:3
+type: Verse
+kjv: "And as he sat upon the mount of Olives over against the temple, Peter and James and John and Andrew asked him privately,"
+bsb: "While Jesus was sitting on the Mount of Olives opposite the temple, Peter, James, John, and Andrew asked Him privately,"
+greek: "Καὶ καθημένου αὐτοῦ εἰς τὸ ὄρος τῶν ἐλαιῶν κατέναντι τοῦ ἱεροῦ ἐπηρώτα αὐτὸν κατ᾽ ἰδίαν Πέτρος καὶ Ἰάκωβος καὶ Ἰωάννης καὶ Ἀνδρέας·"
+pericope: "[[Mark.13.1 Temple Destruction and Other Signs|Temple Destruction and Other Signs]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 13
+book/chapter: "[[Mark.13|Mark 13]]"
+chronological_order: 998
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANDREW|ANDREW]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OLIVES, MOUNT OF|OLIVES, MOUNT OF]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G2532]]"
+- "[[G2521]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G1638]]"
+- "[[G2713]]"
+- "[[G2411]]"
+- "[[G1905]]"
+- "[[G2596]]"
+- "[[G2398]]"
+- "[[G4074G]]"
+- "[[G2385G]]"
+- "[[G2491H]]"
+- "[[G0406]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 13:3**<big><big>[[Mark.13.1 Temple Destruction and Other Signs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as he sat upon the mount of Olives over against the temple, Peter and James and John and Andrew asked him privately,
 <small><sub>**BSB:**</sub></small>
 While Jesus was sitting on the Mount of Olives opposite the temple, Peter, James, John, and Andrew asked Him privately,
-<small><sub>**Literal:**</sub></small>
-And when is sitting He upon the Mount <the> of Olives opposite the temple he was asking Him in private Peter and James and John and Andrew;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.2|<< Mark 13:2]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.4|Mark 13:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2521\|καθημένου]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3735\|ὄρος]]  [[G3588\|τῶν]]  [[G1638\|ἐλαιῶν]]  [[G2713\|κατέναντι]]  [[G3588\|τοῦ]]  [[G2411\|ἱεροῦ]]  [[G1905\|ἐπηρώτα]]  [[G0846\|αὐτὸν]]  [[G2596\|κατ᾽]]  [[G2398\|ἰδίαν]]  [[G4074G\|Πέτρος]]  [[G2532\|καὶ]]  [[G2385G\|Ἰάκωβος]]  [[G2532\|καὶ]]  [[G2491H\|Ἰωάννης]]  [[G2532\|καὶ]]  [[G0406\|Ἀνδρέας·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANDREW|ANDREW]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JAMES|JAMES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OLIVES, MOUNT OF|OLIVES, MOUNT OF]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.2|<< Mark 13:2]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.4|Mark 13:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,48 @@
+---
+title: Proverbs 30:29
+type: Verse
+kjv: "There be three things which go well, yea, four are comely in going:"
+bsb: "There are three things that are stately in their stride, and four that are impressive in their walk:"
+hebrew: "שְׁלֹשָׁ֣ה הֵ֭מָּה מֵיטִ֣יבֵי צָ֑עַד וְ֝אַרְבָּעָ֗ה מֵיטִ֥בֵי לָֽכֶת׃"
+pericope: "[[Prov.30.1 The Words of Agur|The Words of Agur]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 30
+book/chapter: "[[Prov.30|Proverbs 30]]"
+chronological_order: 485
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic RIDDLE|RIDDLE]]"
+strongs:
+- "[[H7969]]"
+- "[[H1992]]"
+- "[[H3190]]"
+- "[[H6806]]"
+- "[[H9002]]"
+- "[[H0702]]"
+- "[[H1980I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 30:29**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There be three [things] which go well, yea, four are comely in going:
 <small><sub>**BSB:**</sub></small>
 There are three things that are stately in their stride, and four that are impressive in their walk:
+<small><sub>**Hebrew:**</sub></small>
+[[H7969\|שְׁלֹשָׁ֣ה]] [[H1992\|הֵ֭מָּה]] [[H3190\|מֵיטִ֣יבֵי]] [[H6806\|צָ֑עַד]] [[H9002\|וְ֝]][[H0702\|אַרְבָּעָ֗ה]] [[H3190\|מֵיטִ֥בֵי]] [[H1980I\|לָֽכֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RIDDLE|RIDDLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.28|<< Proverbs 30:28]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.30|Proverbs 30:30 >>]]</td></tr></table>
 

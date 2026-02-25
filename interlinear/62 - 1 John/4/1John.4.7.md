@@ -1,10 +1,59 @@
+---
+title: 1 John 4:7
+type: Verse
+kjv: "Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God."
+bsb: "Beloved, let us love one another, because love comes from God. Everyone who loves has been born of God and knows God."
+greek: "Ἀγαπητοί, ἀγαπῶμεν ἀλλήλους, ὅτι ἡ ἀγάπη ἐκ τοῦ θεοῦ ἐστιν καὶ πᾶς ὁ ἀγαπῶν ἐκ τοῦ θεοῦ γεγέννηται καὶ γινώσκει τὸν θεόν·"
+pericope: "[[1John.4.7 Love Comes from God|Love Comes from God]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 4
+book/chapter: "[[1John.4|1 John 4]]"
+chronological_order: 1164
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G0027]]"
+- "[[G0025]]"
+- "[[G0240]]"
+- "[[G3754H]]"
+- "[[G3588]]"
+- "[[G0026]]"
+- "[[G1537]]"
+- "[[G2316]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G1080]]"
+- "[[G1097]]"
+texts:
+- NKO
+---
+
 **1 John 4:7**<big><big>[[1John.4.7 Love Comes from God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God.
 <small><sub>**BSB:**</sub></small>
 Beloved, let us love one another, because love comes from God. Everyone who loves has been born of God and knows God.
-<small><sub>**Literal:**</sub></small>
-Beloved, we may love one another, because <the> love from <the> God is and everyone who is loving from <the> God has been born and knows <the> God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.6|<< 1 John 4:6]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.8|1 John 4:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0027\|Ἀγαπητοί,]]  [[G0025\|ἀγαπῶμεν]]  [[G0240\|ἀλλήλους,]]  [[G3754H\|ὅτι]]  [[G3588\|ἡ]]  [[G0026\|ἀγάπη]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1510\|ἐστιν]]  [[G2532\|καὶ]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G0025\|ἀγαπῶν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1080\|γεγέννηται]]  [[G2532\|καὶ]]  [[G1097\|γινώσκει]]  [[G3588\|τὸν]]  [[G2316\|θεόν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic LOVE|LOVE]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.6|<< 1 John 4:6]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.8|1 John 4:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,60 @@
+---
+title: 1 Samuel 17:9
+type: Verse
+kjv: "If he be able to fight with me, and to kill me, then will we be your servants: but if I prevail against him, and kill him, then shall ye be our servants, and serve us."
+bsb: "If he is able to fight me and kill me, then we will be your servants. But if I prevail against him and kill him, then you shall be our servants and work for us.”"
+hebrew: "אִם־ יוּכַ֞ל לְהִלָּחֵ֤ם אִתִּי֙ וְהִכָּ֔נִי וְהָיִ֥ינוּ לָכֶ֖ם לַעֲבָדִ֑ים וְאִם־ אֲנִ֤י אֽוּכַל־ לוֹ֙ וְהִכִּיתִ֔יו וִהְיִ֤יתֶם לָ֙נוּ֙ לַעֲבָדִ֔ים וַעֲבַדְתֶּ֖ם אֹתָֽנוּ׃"
+pericope: "[[1Sam.17.1 Goliath’s Challenge|Goliath’s Challenge]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHAMPIONSHIP|CHAMPIONSHIP]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H3898A]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H1961]]"
+- "[[H9036]]"
+- "[[H5650]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H9033]]"
+- "[[H9035]]"
+- "[[H5647G]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 17:9**<big><big>[[1Sam.17.1 Goliath’s Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If he be able to fight with me, and to kill me, then will we be your servants: but if I prevail against him, and kill him, then shall ye be our servants, and serve us.
 <small><sub>**BSB:**</sub></small>
 If he is able to fight me and kill me, then we will be your servants. But if I prevail against him and kill him, then you shall be our servants and work for us.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H3201\|יוּכַ֞ל]] [[H9005\|לְ]][[H3898A\|הִלָּחֵ֤ם]] [[H0854\|אִתִּ]][[H9030\|י֙]] [[H9001\|וְ]][[H5221\|הִכָּ֔]][[H9030\|נִי]] [[H9001\|וְ]][[H1961\|הָיִ֥ינוּ]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H9005\|לַ]][[H5650\|עֲבָדִ֑ים]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H0589\|אֲנִ֤י]] [[H3201\|אֽוּכַל]][[H9014\|־]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9001\|וְ]][[H5221\|הִכִּיתִ֔י]][[H9033\|ו]] [[H9001\|וִ]][[H1961\|הְיִ֤יתֶם]] [[H9005\|לָ֙]][[H9035\|נוּ֙]] [[H9005\|לַ]][[H5650\|עֲבָדִ֔ים]] [[H9001\|וַ]][[H5647G\|עֲבַדְתֶּ֖ם]] [[H0853\|אֹתָֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CHAMPIONSHIP|CHAMPIONSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.8|<< 1 Samuel 17:8]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.10|1 Samuel 17:10 >>]]</td></tr></table>
 

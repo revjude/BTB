@@ -1,8 +1,64 @@
+---
+title: Jeremiah 4:3
+type: Verse
+kjv: "For thus saith the LORD to the men of Judah and Jerusalem, Break up your fallow ground, and sow not among thorns."
+bsb: "For this is what the LORD says to the men of Judah and Jerusalem: “Break up your unplowed ground, and do not sow among the thorns."
+hebrew: "כִּי־ כֹ֣ה׀ אָמַ֣ר יְהֹוָ֗ה לְאִ֤ישׁ יְהוּדָה֙ וְלִיר֣וּשָׁלִַ֔ם נִ֥ירוּ לָכֶ֖ם נִ֑יר וְאַֽל־ תִּזְרְע֖וּ אֶל־ קוֹצִֽים׃"
+pericope: "[[Jer.4.1 A Plea to Return|A Plea to Return]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 4
+book/chapter: "[[Jer.4|Jeremiah 4]]"
+chronological_order: 721
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H0376G]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3389]]"
+- "[[H5214]]"
+- "[[H9036]]"
+- "[[H5215]]"
+- "[[H0408]]"
+- "[[H2232]]"
+- "[[H0413]]"
+- "[[H6975]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 4:3**<big><big>[[Jer.4.1 A Plea to Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD to the men of Judah and Jerusalem, Break up your fallow ground, and sow not among thorns.
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD says to the men of Judah and Jerusalem: “Break up your unplowed ground, and do not sow among the thorns.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H3541\|כֹ֣ה]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהֹוָ֗ה]] [[H9005\|לְ]][[H0376G\|אִ֤ישׁ]] [[H3063G\|יְהוּדָה֙]] [[H9002\|וְ]][[H9005\|לִ]][[H3389\|יר֣וּשָׁלִַ֔ם]] [[H5214\|נִ֥ירוּ]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H5215\|נִ֑יר]] [[H9002\|וְ]][[H0408\|אַֽל]][[H9014\|־]] [[H2232\|תִּזְרְע֖וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H6975\|קוֹצִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.2|<< Jeremiah 4:2]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.4|Jeremiah 4:4 >>]]</td></tr></table>
 

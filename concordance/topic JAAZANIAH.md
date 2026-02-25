@@ -9,5 +9,5 @@
 
 3. An idolatrous zealot [[Ezek.8.11|Eze 8:11]]
 
-4. A wicked prince of Judah [[Ezek.11.1|Eze 11:1]]-[[Ezek.11.13|13]]
+4. A wicked prince of Judah [[Ezek.11.1|Eze 11:1-13]]
 

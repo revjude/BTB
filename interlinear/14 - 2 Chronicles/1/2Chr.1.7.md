@@ -1,8 +1,59 @@
+---
+title: 2 Chronicles 1:7
+type: Verse
+kjv: "In that night did God appear unto Solomon, and said unto him, Ask what I shall give thee."
+bsb: "That night God appeared to Solomon and said, “Ask, and I will give it to you!”"
+hebrew: "בַּלַּ֣יְלָה הַה֔וּא נִרְאָ֥ה אֱלֹהִ֖ים לִשְׁלֹמֹ֑ה וַיֹּ֣אמֶר ל֔וֹ שְׁאַ֖ל מָ֥ה אֶתֶּן־ לָֽךְ׃"
+pericope: "[[2Chr.1.1 Solomon’s Prayer for Wisdom|Solomon’s Prayer for Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 1
+book/chapter: "[[2Chr.1|2 Chronicles 1]]"
+chronological_order: 445
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9003]]"
+- "[[H3915]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H7200G]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H8010]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H7592]]"
+- "[[H4100]]"
+- "[[H5414G]]"
+- "[[H9014]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 1:7**<big><big>[[2Chr.1.1 Solomon’s Prayer for Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that night did God appear unto Solomon, and said unto him, Ask what I shall give thee.
 <small><sub>**BSB:**</sub></small>
 That night God appeared to Solomon and said, “Ask, and I will give it to you!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3915\|לַּ֣יְלָה]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H7200G\|נִרְאָ֥ה]] [[H0430G\|אֱלֹהִ֖ים]] [[H9005\|לִ]][[H8010\|שְׁלֹמֹ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H7592\|שְׁאַ֖ל]] [[H4100\|מָ֥ה]] [[H5414G\|אֶתֶּן]][[H9014\|־]] [[H9005\|לָֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMUNION|COMMUNION]] • [[topic GOD|GOD]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.1.6|<< 2 Chronicles 1:6]]</td><td align="center" style="border:none;">[[2Chr.1|2 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.1.8|2 Chronicles 1:8 >>]]</td></tr></table>
 

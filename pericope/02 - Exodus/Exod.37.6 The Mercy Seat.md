@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Mercy Seat
+type: Pericope
 pericope: "[[Exod.37.6 The Mercy Seat|The Mercy Seat]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 37
 book/chapter: "[[Exod.37|Exodus 37]]"
-genre:
+chronological_order: 129
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 4
 verses:
 - "[[Exod.37.6]]"
 - "[[Exod.37.7]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Exod.37.9]]"
 ---
 
-[[Exod.37|Exodus 37:6 - Exodus 37:9]]
+<small>[[Exod.37|Exodus 37:6-9]]</small>
 *The Mercy Seat*
 
 [[Exod.37.6|6]] And he made the mercy seat \[of\] pure gold: two cubits and a half \[was\] the length thereof, and one cubit and a half the breadth thereof.

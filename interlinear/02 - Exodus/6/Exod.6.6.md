@@ -1,8 +1,76 @@
+---
+title: Exodus 6:6
+type: Verse
+kjv: "Wherefore say unto the children of Israel, I am the LORD, and I will bring you out from under the burdens of the Egyptians, and I will rid you out of their bondage, and I will redeem you with a stretched out arm, and with great judgments:"
+bsb: "Therefore tell the Israelites: ‘I am the LORD, and I will bring you out from under the yoke of the Egyptians and deliver you from their bondage. I will redeem you with an outstretched arm and with mighty acts of judgment."
+hebrew: "לָכֵ֞ן אֱמֹ֥ר לִבְנֵֽי־ יִשְׂרָאֵ֘ל אֲנִ֣י יְהוָה֒ וְהוֹצֵאתִ֣י אֶתְכֶ֗ם מִתַּ֙חַת֙ סִבְלֹ֣ת מִצְרַ֔יִם וְהִצַּלְתִּ֥י אֶתְכֶ֖ם מֵעֲבֹדָתָ֑ם וְגָאַלְתִּ֤י אֶתְכֶם֙ בִּזְר֣וֹעַ נְטוּיָ֔ה וּבִשְׁפָטִ֖ים גְּדֹלִֽים׃"
+pericope: "[[Exod.6.1 God Promises Deliverance|God Promises Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 6
+book/chapter: "[[Exod.6|Exodus 6]]"
+chronological_order: 98
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ARM|ARM]]"
+- "[[topic BONDAGE|BONDAGE]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H0559]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9006]]"
+- "[[H8478G]]"
+- "[[H5450]]"
+- "[[H4714G]]"
+- "[[H5337]]"
+- "[[H5656G]]"
+- "[[H9028]]"
+- "[[H1350A]]"
+- "[[H9003]]"
+- "[[H2220]]"
+- "[[H5186]]"
+- "[[H9002]]"
+- "[[H8201]]"
+- "[[H1419A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 6:6**<big><big>[[Exod.6.1 God Promises Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore say unto the children of Israel, I [am] the LORD, and I will bring you out from under the burdens of the Egyptians, and I will rid you out of their bondage, and I will redeem you with a stretched out arm, and with great judgments:
 <small><sub>**BSB:**</sub></small>
 Therefore tell the Israelites: ‘I am the LORD, and I will bring you out from under the yoke of the Egyptians and deliver you from their bondage. I will redeem you with an outstretched arm and with mighty acts of judgment.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֞ן]] [[H0559\|אֱמֹ֥ר]] [[H9005\|לִ]][[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֘ל]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָה֒]] [[H9001\|וְ]][[H3318H\|הוֹצֵאתִ֣י]] [[H0853\|אֶתְ]][[H9036\|כֶ֗ם]] [[H9006\|מִ]][[H8478G\|תַּ֙חַת֙]] [[H5450\|סִבְלֹ֣ת]] [[H4714G\|מִצְרַ֔יִם]] [[H9001\|וְ]][[H5337\|הִצַּלְתִּ֥י]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H9006\|מֵ]][[H5656G\|עֲבֹדָתָ֑]][[H9028\|ם]] [[H9001\|וְ]][[H1350A\|גָאַלְתִּ֤י]] [[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H9003\|בִּ]][[H2220\|זְר֣וֹעַ]] [[H5186\|נְטוּיָ֔ה]] [[H9002\|וּ]][[H9003\|בִ]][[H8201\|שְׁפָטִ֖ים]] [[H1419A\|גְּדֹלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARM|ARM]] • [[topic BONDAGE|BONDAGE]] • [[topic COVENANT|COVENANT]] • [[topic GOD|GOD]] • [[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.5|<< Exodus 6:5]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.6.7|Exodus 6:7 >>]]</td></tr></table>
 

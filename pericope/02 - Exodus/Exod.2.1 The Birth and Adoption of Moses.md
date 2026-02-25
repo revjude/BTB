@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Birth and Adoption of Moses
+type: Pericope
 pericope: "[[Exod.2.1 The Birth and Adoption of Moses|The Birth and Adoption of Moses]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 2
 book/chapter: "[[Exod.2|Exodus 2]]"
-genre:
+chronological_order: 94
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 10
 verses:
 - "[[Exod.2.1]]"
 - "[[Exod.2.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Exod.2.10]]"
 ---
 
-[[Exod.2|Exodus 2:1 - Exodus 2:10]]
+<small>[[Exod.2|Exodus 2:1-10]]</small>
 *The Birth and Adoption of Moses*
 
 [[Exod.2.1|1]] And there went a man of the house of Levi, and took \[to wife\] a daughter of Levi.

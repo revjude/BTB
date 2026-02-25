@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jonah Cast into the Sea
+type: Pericope
 pericope: "[[Jonah.1.11 Jonah Cast into the Sea|Jonah Cast into the Sea]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Jonah
 chapter: 1
 book/chapter: "[[Jonah.1|Jonah 1]]"
-genre:
+chronological_order: 594
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
 - latter prophets
 - minor prophets
 - narrative
 - prophetic narrative
 - parable
+verse_count: 7
 verses:
 - "[[Jonah.1.11]]"
 - "[[Jonah.1.12]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Jonah.1.17]]"
 ---
 
-[[Jonah.1|Jonah 1:11 - Jonah 1:17]]
+<small>[[Jonah.1|Jonah 1:11-17]]</small>
 *Jonah Cast into the Sea*
 
 [[Jonah.1.11|11]] Then said they unto him, What shall we do unto thee, that the sea may be calm unto us? for the sea wrought, and was tempestuous.

@@ -1,8 +1,77 @@
+---
+title: Exodus 10:19
+type: Verse
+kjv: "And the LORD turned a mighty strong west wind, which took away the locusts, and cast them into the Red sea; there remained not one locust in all the coasts of Egypt."
+bsb: "And the LORD changed the wind to a very strong west wind that carried off the locusts and blew them into the Red Sea. Not a single locust remained anywhere in Egypt."
+hebrew: "וַיַּהֲפֹ֨ךְ יְהוָ֤ה רֽוּחַ־ יָם֙ חָזָ֣ק מְאֹ֔ד וַיִּשָּׂא֙ אֶת־ הָ֣אַרְבֶּ֔ה וַיִּתְקָעֵ֖הוּ יָ֣מָּה סּ֑וּף לֹ֤א נִשְׁאַר֙ אַרְבֶּ֣ה אֶחָ֔ד בְּכֹ֖ל גְּב֥וּל מִצְרָֽיִם׃"
+pericope: "[[Exod.10.1 The Eighth Plague：Locusts|The Eighth Plague：Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 10
+book/chapter: "[[Exod.10|Exodus 10]]"
+chronological_order: 102
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic RED SEA|RED SEA]]"
+- "[[topic WIND|WIND]]"
+strongs:
+- "[[H9001]]"
+- "[[H2015]]"
+- "[[H3068G]]"
+- "[[H7307H]]"
+- "[[H9014]]"
+- "[[H3220H]]"
+- "[[H2389]]"
+- "[[H3966]]"
+- "[[H5375G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0697]]"
+- "[[H8628]]"
+- "[[H9033]]"
+- "[[H3220G]]"
+- "[[H9011]]"
+- "[[H5488G]]"
+- "[[H3808]]"
+- "[[H7604]]"
+- "[[H0259]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H1366H]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 10:19**<big><big>[[Exod.10.1 The Eighth Plague：Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD turned a mighty strong west wind, which took away the locusts, and cast them into the Red sea; there remained not one locust in all the coasts of Egypt.
 <small><sub>**BSB:**</sub></small>
 And the LORD changed the wind to a very strong west wind that carried off the locusts and blew them into the Red Sea. Not a single locust remained anywhere in Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2015\|יַּהֲפֹ֨ךְ]] [[H3068G\|יְהוָ֤ה]] [[H7307H\|רֽוּחַ]][[H9014\|־]] [[H3220H\|יָם֙]] [[H2389\|חָזָ֣ק]] [[H3966\|מְאֹ֔ד]] [[H9001\|וַ]][[H5375G\|יִּשָּׂא֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ֣]][[H0697\|אַרְבֶּ֔ה]] [[H9001\|וַ]][[H8628\|יִּתְקָעֵ֖]][[H9033\|הוּ]] [[H3220G\|יָ֣מָּ]][[H9011\|ה]] [[H5488G\|סּ֑וּף]] [[H3808\|לֹ֤א]] [[H7604\|נִשְׁאַר֙]] [[H0697\|אַרְבֶּ֣ה]] [[H0259\|אֶחָ֔ד]] [[H9003\|בְּ]][[H3605\|כֹ֖ל]] [[H1366H\|גְּב֥וּל]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic INSTABILITY|INSTABILITY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic LOCUST|LOCUST]] • [[topic PLAGUE|PLAGUE]] • [[topic RED SEA|RED SEA]] • [[topic WIND|WIND]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.18|<< Exodus 10:18]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.20|Exodus 10:20 >>]]</td></tr></table>
 

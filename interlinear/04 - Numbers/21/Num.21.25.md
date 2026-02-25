@@ -1,8 +1,64 @@
+---
+title: Numbers 21:25
+type: Verse
+kjv: "And Israel took all these cities: and Israel dwelt in all the cities of the Amorites, in Heshbon, and in all the villages thereof."
+bsb: "Israel captured all the cities of the Amorites and occupied them, including Heshbon and all its villages."
+hebrew: "וַיִּקַּח֙ יִשְׂרָאֵ֔ל אֵ֥ת כָּל־ הֶעָרִ֖ים הָאֵ֑לֶּה וַיֵּ֤שֶׁב יִשְׂרָאֵל֙ בְּכָל־ עָרֵ֣י הָֽאֱמֹרִ֔י בְּחֶשְׁבּ֖וֹן וּבְכָל־ בְּנֹתֶֽיהָ׃"
+pericope: "[[Num.21.21 The Defeat of Sihon|The Defeat of Sihon]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 21
+book/chapter: "[[Num.21|Numbers 21]]"
+chronological_order: 181
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic HESHBON|HESHBON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SIHON|SIHON]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0428]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H0567]]"
+- "[[H2809]]"
+- "[[H9002]]"
+- "[[H1323H]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 21:25**<big><big>[[Num.21.21 The Defeat of Sihon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Israel took all these cities: and Israel dwelt in all the cities of the Amorites, in Heshbon, and in all the villages thereof.
 <small><sub>**BSB:**</sub></small>
 Israel captured all the cities of the Amorites and occupied them, including Heshbon and all its villages.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּח֙]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0853\|אֵ֥ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הֶ]][[H5892B\|עָרִ֖ים]] [[H9009\|הָ]][[H0428\|אֵ֑לֶּה]] [[H9001\|וַ]][[H3427\|יֵּ֤שֶׁב]] [[H3478\|יִשְׂרָאֵל֙]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H5892B\|עָרֵ֣י]] [[H9009\|הָֽ]][[H0567\|אֱמֹרִ֔י]] [[H9003\|בְּ]][[H2809\|חֶשְׁבּ֖וֹן]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H1323H\|בְּנֹתֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic HESHBON|HESHBON]] • [[topic ISRAEL|ISRAEL]] • [[topic SIHON|SIHON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.24|<< Numbers 21:24]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.26|Numbers 21:26 >>]]</td></tr></table>
 

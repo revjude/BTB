@@ -1,8 +1,69 @@
+---
+title: 2 Chronicles 28:8
+type: Verse
+kjv: "And the children of Israel carried away captive of their brethren two hundred thousand, women, sons, and daughters, and took also away much spoil from them, and brought the spoil to Samaria."
+bsb: "Then the Israelites took 200,000 captives from their kinsmen—women, sons, and daughters. They also carried off a great deal of plunder and brought it to Samaria."
+hebrew: "וַיִּשְׁבּוּ֩ בְנֵֽי־ יִשְׂרָאֵ֨ל מֵֽאֲחֵיהֶ֜ם מָאתַ֣יִם אֶ֗לֶף נָשִׁים֙ בָּנִ֣ים וּבָנ֔וֹת וְגַם־ שָׁלָ֥ל רָ֖ב בָּזְז֣וּ מֵהֶ֑ם וַיָּבִ֥יאוּ אֶת־ הַשָּׁלָ֖ל לְשֹׁמְרֽוֹן׃ ס"
+pericope: "[[2Chr.28.5 Aram Defeats Judah|Aram Defeats Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 28
+book/chapter: "[[2Chr.28|2 Chronicles 28]]"
+chronological_order: 616
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AHAZ|AHAZ]]"
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H7617]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H0251H]]"
+- "[[H9028]]"
+- "[[H3967]]"
+- "[[H0505G]]"
+- "[[H0802G]]"
+- "[[H1121A]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H1571]]"
+- "[[H7998]]"
+- "[[H7227A]]"
+- "[[H0962]]"
+- "[[H9038]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H9005]]"
+- "[[H8111]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Chronicles 28:8**<big><big>[[2Chr.28.5 Aram Defeats Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel carried away captive of their brethren two hundred thousand, women, sons, and daughters, and took also away much spoil from them, and brought the spoil to Samaria.
 <small><sub>**BSB:**</sub></small>
 Then the Israelites took 200,000 captives from their kinsmen—women, sons, and daughters. They also carried off a great deal of plunder and brought it to Samaria.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7617\|יִּשְׁבּוּ֩]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֨ל]] [[H9006\|מֵֽ]][[H0251H\|אֲחֵי]][[H9028\|הֶ֜ם]] [[H3967\|מָאתַ֣יִם]] [[H0505G\|אֶ֗לֶף]] [[H0802G\|נָשִׁים֙]] [[H1121A\|בָּנִ֣ים]] [[H9002\|וּ]][[H1323G\|בָנ֔וֹת]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H7998\|שָׁלָ֥ל]] [[H7227A\|רָ֖ב]] [[H0962\|בָּזְז֣וּ]] [[H9006\|מֵ]][[H9038\|הֶ֑ם]] [[H9001\|וַ]][[H0935P\|יָּבִ֥יאוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7998\|שָּׁלָ֖ל]] [[H9005\|לְ]][[H8111\|שֹׁמְרֽוֹן]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AHAZ|AHAZ]] • [[topic JERICHO|JERICHO]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.7|<< 2 Chronicles 28:7]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.9|2 Chronicles 28:9 >>]]</td></tr></table>
 
@@ -25,7 +86,7 @@ Then the Israelites took 200,000 captives from their kinsmen—women, sons, and 
 | and they brought  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935P\|יָּבִ֥יאוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vi.'u<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the booty  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7998\|שָּׁלָ֖ל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Lal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Samaria  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H8111\|שֹׁמְרֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> sho.me.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Samaria  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H8111\|שֹׁמְרֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> sho.me.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.7|<< 2 Chronicles 28:7]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.9|2 Chronicles 28:9 >>]]</td></tr></table>
 
 

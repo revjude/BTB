@@ -1,8 +1,78 @@
+---
+title: Numbers 20:10
+type: Verse
+kjv: "And Moses and Aaron gathered the congregation together before the rock, and he said unto them, Hear now, ye rebels; must we fetch you water out of this rock?"
+bsb: "Then Moses and Aaron gathered the assembly in front of the rock, and Moses said to them, “Listen now, you rebels, must we bring you water out of this rock?”"
+hebrew: "וַיַּקְהִ֜לוּ מֹשֶׁ֧ה וְאַהֲרֹ֛ן אֶת־ הַקָּהָ֖ל אֶל־ פְּנֵ֣י הַסָּ֑לַע וַיֹּ֣אמֶר לָהֶ֗ם שִׁמְעוּ־ נָא֙ הַמֹּרִ֔ים הֲמִן־ הַסֶּ֣לַע הַזֶּ֔ה נוֹצִ֥יא לָכֶ֖ם מָֽיִם׃"
+pericope: "[[Num.20.1 Water from the Rock|Water from the Rock]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 20
+book/chapter: "[[Num.20|Numbers 20]]"
+chronological_order: 180
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic ANGER|ANGER]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic RASHNESS|RASHNESS]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6950]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6951]]"
+- "[[H0413]]"
+- "[[H6440G]]"
+- "[[H5553H]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H8085G]]"
+- "[[H4994]]"
+- "[[H4784]]"
+- "[[H9008]]"
+- "[[H4480A]]"
+- "[[H2088]]"
+- "[[H3318L]]"
+- "[[H9036]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 20:10**<big><big>[[Num.20.1 Water from the Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses and Aaron gathered the congregation together before the rock, and he said unto them, Hear now, ye rebels; must we fetch you water out of this rock?
 <small><sub>**BSB:**</sub></small>
 Then Moses and Aaron gathered the assembly in front of the rock, and Moses said to them, “Listen now, you rebels, must we bring you water out of this rock?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6950\|יַּקְהִ֜לוּ]] [[H4872\|מֹשֶׁ֧ה]] [[H9002\|וְ]][[H0175\|אַהֲרֹ֛ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6951\|קָּהָ֖ל]] [[H0413\|אֶל]][[H9014\|־]] [[H6440G\|פְּנֵ֣י]] [[H9009\|הַ]][[H5553H\|סָּ֑לַע]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|לָ]][[H9038\|הֶ֗ם]] [[H8085G\|שִׁמְעוּ]][[H9014\|־]] [[H4994\|נָא֙]] [[H9009\|הַ]][[H4784\|מֹּרִ֔ים]] [[H9008\|הֲ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H5553H\|סֶּ֣לַע]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H3318L\|נוֹצִ֥יא]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H4325G\|מָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic ANGER|ANGER]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic MIRACLES|MIRACLES]] • [[topic MOSES|MOSES]] • [[topic RASHNESS|RASHNESS]] • [[topic REPROOF|REPROOF]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.20.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20.9|<< Numbers 20:9]]</td><td align="center" style="border:none;">[[Num.20|Numbers 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20.11|Numbers 20:11 >>]]</td></tr></table>
 

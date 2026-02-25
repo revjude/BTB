@@ -1,8 +1,75 @@
+---
+title: 2 Kings 18:37
+type: Verse
+kjv: "Then came Eliakim the son of Hilkiah, which was over the household, and Shebna the scribe, and Joah the son of Asaph the recorder, to Hezekiah with their clothes rent, and told him the words of Rabshakeh."
+bsb: "Then Hilkiah’s son Eliakim the palace administrator, Shebna the scribe, and Asaph’s son Joah the recorder came to Hezekiah with their clothes torn, and they relayed to him the words of the Rabshakeh."
+hebrew: "וַיָּבֹ֣א אֶלְיָקִ֣ים בֶּן־ חִלְקִיָּ֣ה אֲשֶׁר־ עַל־ הַ֠בַּיִת וְשֶׁבְנָ֨א הַסֹּפֵ֜ר וְיוֹאָ֨ח בֶּן־ אָסָ֧ף הַמַּזְכִּ֛יר אֶל־ חִזְקִיָּ֖הוּ קְרוּעֵ֣י בְגָדִ֑ים וַיַּגִּ֣דוּ ל֔וֹ דִּבְרֵ֖י רַב־ שָׁקֵֽה׃"
+pericope: "[[2Kgs.18.17 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 18
+book/chapter: "[[2Kgs.18|2 Kings 18]]"
+chronological_order: 656
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic HILKIAH|HILKIAH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+- "[[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic SHEBNA (SHEBNAH)|SHEBNA (SHEBNAH)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0471G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H2518G]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H1004Q]]"
+- "[[H9002]]"
+- "[[H7644]]"
+- "[[H5608B]]"
+- "[[H3098G]]"
+- "[[H0623G]]"
+- "[[H2142]]"
+- "[[H0413]]"
+- "[[H2396G]]"
+- "[[H7167]]"
+- "[[H0899B]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H1697G]]"
+- "[[H7262]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 18:37**<big><big>[[2Kgs.18.17 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then came Eliakim the son of Hilkiah, which [was] over the household, and Shebna the scribe, and Joah the son of Asaph the recorder, to Hezekiah with [their] clothes rent, and told him the words of Rabshakeh.
 <small><sub>**BSB:**</sub></small>
 Then Hilkiah’s son Eliakim the palace administrator, Shebna the scribe, and Asaph’s son Joah the recorder came to Hezekiah with their clothes torn, and they relayed to him the words of the Rabshakeh.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֣א]] [[H0471G\|אֶלְיָקִ֣ים]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2518G\|חִלְקִיָּ֣ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ֠]][[H1004Q\|בַּיִת]] [[H9002\|וְ]][[H7644\|שֶׁבְנָ֨א]] [[H9009\|הַ]][[H5608B\|סֹּפֵ֜ר]] [[H9002\|וְ]][[H3098G\|יוֹאָ֨ח]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0623G\|אָסָ֧ף]] [[H9009\|הַ]][[H2142\|מַּזְכִּ֛יר]] [[H0413\|אֶל]][[H9014\|־]] [[H2396G\|חִזְקִיָּ֖הוּ]] [[H7167\|קְרוּעֵ֣י]] [[H0899B\|בְגָדִ֑ים]] [[H9001\|וַ]][[H5046\|יַּגִּ֣דוּ]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H1697G\|דִּבְרֵ֖י]] [[H7262\|רַב]][[H9014\|־]] [[H7262\|שָׁקֵֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic HILKIAH|HILKIAH]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic SCRIBE (S)|SCRIBE (S)]] • [[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic SHEBNA (SHEBNAH)|SHEBNA (SHEBNAH)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.36|<< 2 Kings 18:36]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.1|2 Kings 19:1 >>]]</td></tr></table>
 

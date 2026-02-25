@@ -1,10 +1,63 @@
+---
+title: Acts 27:39
+type: Verse
+kjv: "And when it was day, they knew not the land: but they discovered a certain creek with a shore, into the which they were minded, if it were possible, to thrust in the ship."
+bsb: "When daylight came, they did not recognize the land, but they sighted a bay with a sandy beach, where they decided to run the ship aground if they could."
+greek: "ὅτε δὲ ἡμέρα ἐγένετο, τὴν γῆν οὐκ ἐπεγίνωσκον, κόλπον δέ τινα κατενόουν ἔχοντα αἰγιαλόν, εἰς ὃν ἐβουλεύοντο, εἰ δύναιντο, ἐξῶσαι τὸ πλοῖον."
+pericope: "[[Acts.27.27 The Shipwreck|The Shipwreck]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 27
+book/chapter: "[[Acts.27|Acts 27]]"
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[G3753]]"
+- "[[G1161]]"
+- "[[G2250]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G1093H]]"
+- "[[G3756]]"
+- "[[G1921]]"
+- "[[G2859]]"
+- "[[G5100]]"
+- "[[G2657]]"
+- "[[G2192]]"
+- "[[G0123]]"
+- "[[G1519]]"
+- "[[G3739]]"
+- "[[G1011]]"
+- "[[G1487G]]"
+- "[[G1410]]"
+- "[[G1856]]"
+- "[[G4143]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+---
+
 **Acts 27:39**<big><big>[[Acts.27.27 The Shipwreck|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when it was day, they knew not the land: but they discovered a certain creek with a shore, into the which they were minded, if it were possible, to thrust in the ship.
 <small><sub>**BSB:**</sub></small>
 When daylight came, they did not recognize the land, but they sighted a bay with a sandy beach, where they decided to run the ship aground if they could.
-<small><sub>**Literal:**</sub></small>
-When now day it was, the land not they were recognizing, a bay however certain they were noticing having a shore, on which they were determining if they would be able, to drive [aground] the ship.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.38|<< Acts 27:38]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.40|Acts 27:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3753\|ὅτε]]  [[G1161\|δὲ]]  [[G2250\|ἡμέρα]]  [[G1096\|ἐγένετο,]]  [[G3588\|τὴν]]  [[G1093H\|γῆν]]  [[G3756\|οὐκ]]  [[G1921\|ἐπεγίνωσκον,]]  [[G2859\|κόλπον]]  [[G1161\|δέ]]  [[G5100\|τινα]]  [[G2657\|κατενόουν]]  [[G2192\|ἔχοντα]]  [[G0123\|αἰγιαλόν,]]  [[G1519\|εἰς]]  [[G3739\|ὃν]]  [[G1011\|ἐβουλεύοντο,]]  [[G1487G\|εἰ]]  [[G1410\|δύναιντο,]]  [[G1856\|ἐξῶσαι]]  [[G3588\|τὸ]]  [[G4143\|πλοῖον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]] • [[topic PAUL|PAUL]] • [[topic PROPHECY|PROPHECY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.38|<< Acts 27:38]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.40|Acts 27:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

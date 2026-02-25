@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David, Nabal, and Abigail
+type: Pericope
 pericope: "[[1Sam.25.2 David, Nabal, and Abigail|David, Nabal, and Abigail]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 25
 book/chapter: "[[1Sam.25|1 Samuel 25]]"
-genre:
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 16
 verses:
 - "[[1Sam.25.2]]"
 - "[[1Sam.25.3]]"
@@ -34,7 +41,7 @@ verses:
 - "[[1Sam.25.17]]"
 ---
 
-[[1Sam.25|1 Samuel 25:2 - 1 Samuel 25:17]]
+<small>[[1Sam.25|1 Samuel 25:2-17]]</small>
 *David, Nabal, and Abigail*
 
 [[1Sam.25.2|2]] And \[there was\] a man in Maon, whose possessions \[were\] in Carmel; and the man \[was\] very great, and he had three thousand sheep, and a thousand goats: and he was shearing his sheep in Carmel.

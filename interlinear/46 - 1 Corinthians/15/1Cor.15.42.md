@@ -1,10 +1,52 @@
+---
+title: 1 Corinthians 15:42
+type: Verse
+kjv: "So also is the resurrection of the dead. It is sown in corruption; it is raised in incorruption:"
+bsb: "So will it be with the resurrection of the dead: What is sown is perishable; it is raised imperishable."
+greek: "Οὕτως καὶ ἡ ἀνάστασις τῶν νεκρῶν. σπείρεται ἐν φθορᾷ, ἐγείρεται ἐν ἀφθαρσίᾳ·"
+pericope: "[[1Cor.15.35 The Resurrection Body|The Resurrection Body]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 15
+book/chapter: "[[1Cor.15|1 Corinthians 15]]"
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BODY|BODY]]"
+- "[[topic CORRUPTION|CORRUPTION]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+strongs:
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0386]]"
+- "[[G3498]]"
+- "[[G4687]]"
+- "[[G1722]]"
+- "[[G5356]]"
+- "[[G1453]]"
+- "[[G0861]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 15:42**<big><big>[[1Cor.15.35 The Resurrection Body|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So also [is] the resurrection of the dead. It is sown in corruption; it is raised in incorruption:
 <small><sub>**BSB:**</sub></small>
 So will it be with the resurrection of the dead: What is sown is perishable; it is raised imperishable.
-<small><sub>**Literal:**</sub></small>
-So also [is] the resurrection of the dead. It is sown in decay, it is raised in immortality;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.41|<< 1 Corinthians 15:41]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.43|1 Corinthians 15:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3779\|Οὕτως]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G0386\|ἀνάστασις]]  [[G3588\|τῶν]]  [[G3498\|νεκρῶν.]]  [[G4687\|σπείρεται]]  [[G1722\|ἐν]]  [[G5356\|φθορᾷ,]]  [[G1453\|ἐγείρεται]]  [[G1722\|ἐν]]  [[G0861\|ἀφθαρσίᾳ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BODY|BODY]] • [[topic CORRUPTION|CORRUPTION]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic RESURRECTION|RESURRECTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.41|<< 1 Corinthians 15:41]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.43|1 Corinthians 15:43 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

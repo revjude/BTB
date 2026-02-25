@@ -1,8 +1,61 @@
+---
+title: Psalm 18:13
+type: Verse
+kjv: "The LORD also thundered in the heavens, and the Highest gave his voice; hail stones and coals of fire."
+bsb: "The LORD thundered from heaven; the voice of the Most High resounded—hailstones and coals of fire."
+hebrew: "וַיַּרְעֵ֬ם בַּשָּׁמַ֨יִם׀ יְֽהוָ֗ה וְ֭עֶלְיוֹן יִתֵּ֣ן קֹל֑וֹ בָּ֝רָ֗ד וְגַֽחֲלֵי־ אֵֽשׁ׃"
+pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H7481]]"
+- "[[H9003]]"
+- "[[H8064]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H5945B]]"
+- "[[H5414M]]"
+- "[[H6963A]]"
+- "[[H9023]]"
+- "[[H1259]]"
+- "[[H1513]]"
+- "[[H9014]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 18:13**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD also thundered in the heavens, and the Highest gave his voice; hail [stones] and coals of fire.
 <small><sub>**BSB:**</sub></small>
 The LORD thundered from heaven; the voice of the Most High resounded—hailstones and coals of fire.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7481\|יַּרְעֵ֬ם]] [[H9003\|בַּ]][[H8064\|שָּׁמַ֨יִם]][[H9015\|׀]] [[H3068G\|יְֽהוָ֗ה]] [[H9002\|וְ֭]][[H5945B\|עֶלְיוֹן]] [[H5414M\|יִתֵּ֣ן]] [[H6963A\|קֹל֑]][[H9023\|וֹ]] [[H1259\|בָּ֝רָ֗ד]] [[H9002\|וְ]][[H1513\|גַֽחֲלֵי]][[H9014\|־]] [[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.12|<< Psalms 18:12]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.14|Psalms 18:14 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Daily Offerings
+type: Pericope
 pericope: "[[Num.28.1 The Daily Offerings|The Daily Offerings]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 28
 book/chapter: "[[Num.28|Numbers 28]]"
-genre:
+chronological_order: 188
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 8
 verses:
 - "[[Num.28.1]]"
 - "[[Num.28.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Num.28.8]]"
 ---
 
-[[Num.28|Numbers 28:1 - Numbers 28:8]]
+<small>[[Num.28|Numbers 28:1-8]]</small>
 *The Daily Offerings*
 
 [[Num.28.1|1]] And the LORD spake unto Moses, saying,

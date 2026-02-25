@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul before the Sanhedrin
+type: Pericope
 pericope: "[[Acts.23.1 Paul before the Sanhedrin|Paul before the Sanhedrin]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Acts
 chapter: 23
 book/chapter: "[[Acts.23|Acts 23]]"
-genre:
+chronological_order: 1105
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 11
 verses:
 - "[[Acts.23.1]]"
 - "[[Acts.23.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Acts.23.11]]"
 ---
 
-[[Acts.23|Acts 23:1 - Acts 23:11]]
+<small>[[Acts.23|Acts 23:1-11]]</small>
 *Paul before the Sanhedrin*
 
 [[Acts.23.1|1]] And Paul, earnestly beholding the council, said, Men \[and\] brethren, I have lived in all good conscience before God until this day.

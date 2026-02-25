@@ -1,10 +1,58 @@
+---
+title: Mark 12:37
+type: Verse
+kjv: "David therefore himself calleth him Lord; and whence is he then his son? And the common people heard him gladly."
+bsb: "David himself calls Him ‘Lord.’ So how can He be David’s son?” And the large crowd listened to Him with delight."
+jesus_said: "David therefore himself calleth him Lord; and whence is he then his son?"
+greek: "αὐτὸς οὖν Δαυὶδ λέγει αὐτὸν κύριον, καὶ πόθεν αὐτοῦ ἐστιν υἱός; καὶ ὁ πολὺς ὄχλος ἤκουεν αὐτοῦ ἡδέως.¶"
+pericope: "[[Mark.12.35 Whose Son Is the Christ？|Whose Son Is the Christ？]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 12
+book/chapter: "[[Mark.12|Mark 12]]"
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G0846]]"
+- "[[G3767]]"
+- "[[G1138]]"
+- "[[G3004H]]"
+- "[[G2962G]]"
+- "[[G2532]]"
+- "[[G4159]]"
+- "[[G1510]]"
+- "[[G5207]]"
+- "[[G3588]]"
+- "[[G4183]]"
+- "[[G3793]]"
+- "[[G0191]]"
+- "[[G2234]]"
+texts:
+- NKO
+- K
+---
+
 **Mark 12:37**<big><big>[[Mark.12.35 Whose Son Is the Christ？|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 David therefore himself calleth him Lord; and whence is he [then] his son? And the common people heard him gladly.
 <small><sub>**BSB:**</sub></small>
 David himself calls Him ‘Lord.’ So how can He be David’s son?” And the large crowd listened to Him with delight.
-<small><sub>**Literal:**</sub></small>
-Himself therefore David names Him Lord, then how of him is He son? And the great crowd was listening to Him gladly.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.36|<< Mark 12:36]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.38|Mark 12:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0846\|αὐτὸς]]  [[G3767\|οὖν]]  [[G1138\|Δαυὶδ]]  [[G3004H\|λέγει]]  [[G0846\|αὐτὸν]]  [[G2962G\|κύριον,]]  [[G2532\|καὶ]]  [[G4159\|πόθεν]]  [[G0846\|αὐτοῦ]]  [[G1510\|ἐστιν]]  [[G5207\|υἱός;]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G4183\|πολὺς]]  [[G3793\|ὄχλος]]  [[G0191\|ἤκουεν]]  [[G0846\|αὐτοῦ]]  [[G2234\|ἡδέως.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SATIRE|SATIRE]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.36|<< Mark 12:36]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.38|Mark 12:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

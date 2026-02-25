@@ -1,8 +1,82 @@
+---
+title: 2 Kings 22:13
+type: Verse
+kjv: "Go ye, inquire of the LORD for me, and for the people, and for all Judah, concerning the words of this book that is found: for great is the wrath of the LORD that is kindled against us, because our fathers have not hearkened unto the words of this book, to do according unto all that which is written concerning us."
+bsb: "“Go and inquire of the LORD for me, for the people, and for all Judah concerning the words in this book that has been found. For great is the wrath of the LORD that burns against us because our fathers have not obeyed the words of this book by doing all that is written about us.”"
+hebrew: "לְכוּ֩ דִרְשׁ֨וּ אֶת־ יְהוָ֜ה בַּעֲדִ֣י וּבְעַד־ הָעָ֗ם וּבְעַד֙ כָּל־ יְהוּדָ֔ה עַל־ דִּבְרֵ֛י הַסֵּ֥פֶר הַנִּמְצָ֖א הַזֶּ֑ה כִּֽי־ גְדוֹלָ֞ה חֲמַ֣ת יְהוָ֗ה אֲשֶׁר־ הִיא֙ נִצְּתָ֣ה בָ֔נוּ עַל֩ אֲשֶׁ֨ר לֹֽא־ שָׁמְע֜וּ אֲבֹתֵ֗ינוּ עַל־ דִּבְרֵי֙ הַסֵּ֣פֶר הַזֶּ֔ה לַעֲשׂ֖וֹת כְּכָל־ הַכָּת֥וּב עָלֵֽינוּ׃"
+pericope: "[[2Kgs.22.8 Hilkiah Finds the Book of the Law|Hilkiah Finds the Book of the Law]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 22
+book/chapter: "[[2Kgs.22|2 Kings 22]]"
+chronological_order: 711
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHIKAM|AHIKAM]]"
+- "[[topic ANGER|ANGER]]"
+- "[[topic ASAHIAH|ASAHIAH]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+- "[[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]]"
+- "[[topic SHAPHAN|SHAPHAN]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H1980G]]"
+- "[[H1875]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H1157]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H3605]]"
+- "[[H3063G]]"
+- "[[H5921A]]"
+- "[[H1697G]]"
+- "[[H5612H]]"
+- "[[H4672]]"
+- "[[H2088]]"
+- "[[H3588A]]"
+- "[[H1419A]]"
+- "[[H2534]]"
+- "[[H0834A]]"
+- "[[H1931]]"
+- "[[H3341]]"
+- "[[H9003]]"
+- "[[H9035]]"
+- "[[H3808]]"
+- "[[H8085H]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H3789]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 22:13**<big><big>[[2Kgs.22.8 Hilkiah Finds the Book of the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go ye, inquire of the LORD for me, and for the people, and for all Judah, concerning the words of this book that is found: for great [is] the wrath of the LORD that is kindled against us, because our fathers have not hearkened unto the words of this book, to do according unto all that which is written concerning us.
 <small><sub>**BSB:**</sub></small>
 “Go and inquire of the LORD for me, for the people, and for all Judah concerning the words in this book that has been found. For great is the wrath of the LORD that burns against us because our fathers have not obeyed the words of this book by doing all that is written about us.”
+<small><sub>**Hebrew:**</sub></small>
+[[H1980G\|לְכוּ֩]] [[H1875\|דִרְשׁ֨וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֜ה]] [[H1157\|בַּעֲדִ֣]][[H9030\|י]] [[H9002\|וּ]][[H1157\|בְעַד]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֗ם]] [[H9002\|וּ]][[H1157\|בְעַד֙]] [[H3605\|כָּל]][[H9014\|־]] [[H3063G\|יְהוּדָ֔ה]] [[H5921A\|עַל]][[H9014\|־]] [[H1697G\|דִּבְרֵ֛י]] [[H9009\|הַ]][[H5612H\|סֵּ֥פֶר]] [[H9009\|הַ]][[H4672\|נִּמְצָ֖א]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1419A\|גְדוֹלָ֞ה]] [[H2534\|חֲמַ֣ת]] [[H3068G\|יְהוָ֗ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1931\|הִיא֙]] [[H3341\|נִצְּתָ֣ה]] [[H9003\|בָ֔]][[H9035\|נוּ]] [[H5921A\|עַל֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H8085H\|שָׁמְע֜וּ]] [[H0001G\|אֲבֹתֵ֗י]][[H9025\|נוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H1697G\|דִּבְרֵי֙]] [[H9009\|הַ]][[H5612H\|סֵּ֣פֶר]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9005\|לַ]][[H6213A\|עֲשׂ֖וֹת]] [[H9004\|כְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H3789\|כָּת֥וּב]] [[H5921A\|עָלֵֽי]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIKAM|AHIKAM]] • [[topic ANGER|ANGER]] • [[topic ASAHIAH|ASAHIAH]] • [[topic JOSIAH|JOSIAH]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SCRIBE (S)|SCRIBE (S)]] • [[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]] • [[topic SHAPHAN|SHAPHAN]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.22.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.22.12|<< 2 Kings 22:12]]</td><td align="center" style="border:none;">[[2Kgs.22|2 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.22.14|2 Kings 22:14 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Psalm 59:6
+type: Verse
+kjv: "They return at evening: they make a noise like a dog, and go round about the city."
+bsb: "They return in the evening, snarling like dogs and prowling around the city."
+hebrew: "יָשׁ֣וּבוּ לָ֭עֶרֶב יֶהֱמ֥וּ כַכָּ֗לֶב וִיס֥וֹבְבוּ עִֽיר׃"
+pericope: "[[Ps.59.1 Deliver Me from My Enemies|Deliver Me from My Enemies]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 59
+book/chapter: "[[Ps.59|Psalm 59]]"
+chronological_order: 317
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic WAITING|WAITING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7725G]]"
+- "[[H9005]]"
+- "[[H6153]]"
+- "[[H1993]]"
+- "[[H9004]]"
+- "[[H3611]]"
+- "[[H9002]]"
+- "[[H5437H]]"
+- "[[H5892B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 59:6**<big><big>[[Ps.59.1 Deliver Me from My Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They return at evening: they make a noise like a dog, and go round about the city.
 <small><sub>**BSB:**</sub></small>
 They return in the evening, snarling like dogs and prowling around the city.
+<small><sub>**Hebrew:**</sub></small>
+[[H7725G\|יָשׁ֣וּבוּ]] [[H9005\|לָ֭]][[H6153\|עֶרֶב]] [[H1993\|יֶהֱמ֥וּ]] [[H9004\|כַ]][[H3611\|כָּ֗לֶב]] [[H9002\|וִ]][[H5437H\|יס֥וֹבְבוּ]] [[H5892B\|עִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANIMALS|ANIMALS]] • [[topic MALICE|MALICE]] • [[topic WAITING|WAITING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.59.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59.5|<< Psalms 59:5]]</td><td align="center" style="border:none;">[[Ps.59|Psalms 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.7|Psalms 59:7 >>]]</td></tr></table>
 

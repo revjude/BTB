@@ -1,8 +1,73 @@
+---
+title: 2 Kings 6:15
+type: Verse
+kjv: "And when the servant of the man of God was risen early, and gone forth, behold, an host compassed the city both with horses and chariots. And his servant said unto him, Alas, my master! how shall we do?"
+bsb: "When the servant of the man of God got up and went out early in the morning, behold, an army with horses and chariots had surrounded the city. So he asked Elisha, “Oh, my master, what are we to do?”"
+hebrew: "וַ֠יַּשְׁכֵּם מְשָׁרֵ֨ת אִ֥ישׁ הָֽאֱלֹהִים֮ לָקוּם֒ וַיֵּצֵ֕א וְהִנֵּה־ חַ֛יִל סוֹבֵ֥ב אֶת־ הָעִ֖יר וְס֣וּס וָרָ֑כֶב וַיֹּ֨אמֶר נַעֲר֥וֹ אֵלָ֛יו אֲהָ֥הּ אֲדֹנִ֖י אֵיכָ֥ה נַֽעֲשֶֽׂה׃"
+pericope: "[[2Kgs.6.8 Elisha Captures the Blinded Arameans|Elisha Captures the Blinded Arameans]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 6
+book/chapter: "[[2Kgs.6|2 Kings 6]]"
+chronological_order: 578
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CLAIRVOYANCE|CLAIRVOYANCE]]"
+- "[[topic DOTHAN|DOTHAN]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic SAMARIA|SAMARIA]]"
+strongs:
+- "[[H9001]]"
+- "[[H7925]]"
+- "[[H8334]]"
+- "[[H0376G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H6965B]]"
+- "[[H3318G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H2428A]]"
+- "[[H5437H]]"
+- "[[H0853]]"
+- "[[H5892B]]"
+- "[[H5483M]]"
+- "[[H7393G]]"
+- "[[H0559]]"
+- "[[H5288]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0162]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H0349B]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 6:15**<big><big>[[2Kgs.6.8 Elisha Captures the Blinded Arameans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the servant of the man of God was risen early, and gone forth, behold, an host compassed the city both with horses and chariots. And his servant said unto him, Alas, my master! how shall we do?
 <small><sub>**BSB:**</sub></small>
 When the servant of the man of God got up and went out early in the morning, behold, an army with horses and chariots had surrounded the city. So he asked Elisha, “Oh, my master, what are we to do?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֠]][[H7925\|יַּשְׁכֵּם]] [[H8334\|מְשָׁרֵ֨ת]] [[H0376G\|אִ֥ישׁ]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִים֮]] [[H9005\|לָ]][[H6965B\|קוּם֒]] [[H9001\|וַ]][[H3318G\|יֵּצֵ֕א]] [[H9002\|וְ]][[H2009\|הִנֵּה]][[H9014\|־]] [[H2428A\|חַ֛יִל]] [[H5437H\|סוֹבֵ֥ב]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H9002\|וְ]][[H5483M\|ס֣וּס]] [[H9002\|וָ]][[H7393G\|רָ֑כֶב]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H5288\|נַעֲר֥]][[H9023\|וֹ]] [[H0413\|אֵלָ֛י]][[H9033\|ו]] [[H0162\|אֲהָ֥הּ]] [[H0113\|אֲדֹנִ֖]][[H9020\|י]] [[H0349B\|אֵיכָ֥ה]] [[H6213A\|נַֽעֲשֶֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLAIRVOYANCE|CLAIRVOYANCE]] • [[topic DOTHAN|DOTHAN]] • [[topic ISRAEL|ISRAEL]] • [[topic JORAM|JORAM]] • [[topic SAMARIA|SAMARIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.6.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.14|<< 2 Kings 6:14]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6.16|2 Kings 6:16 >>]]</td></tr></table>
 

@@ -1,8 +1,71 @@
+---
+title: Ezekiel 17:19
+type: Verse
+kjv: "Therefore thus saith the Lord GOD; As I live, surely mine oath that he hath despised, and my covenant that he hath broken, even it will I recompense upon his own head."
+bsb: "Therefore this is what the Lord GOD says: ‘As surely as I live, I will bring down upon his head My oath that he despised and My covenant that he broke."
+hebrew: "לָכֵ֞ן כֹּה־ אָמַ֨ר אֲדֹנָ֣י יְהוִה֮ חַי־ אָנִי֒ אִם־ לֹ֗א אָֽלָתִי֙ אֲשֶׁ֣ר בָּזָ֔ה וּבְרִיתִ֖י אֲשֶׁ֣ר הֵפִ֑יר וּנְתַתִּ֖יו בְּרֹאשֽׁוֹ׃"
+pericope: "[[Ezek.17.11 The Parable Explained|The Parable Explained]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 17
+book/chapter: "[[Ezek.17|Ezekiel 17]]"
+chronological_order: 808
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2416A]]"
+- "[[H0589]]"
+- "[[H0518I]]"
+- "[[H3808]]"
+- "[[H0423]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H0959]]"
+- "[[H9002]]"
+- "[[H1285]]"
+- "[[H6331]]"
+- "[[H9001]]"
+- "[[H5414N]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 17:19**<big><big>[[Ezek.17.11 The Parable Explained|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the Lord GOD; [As] I live, surely mine oath that he hath despised, and my covenant that he hath broken, even it will I recompense upon his own head.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the Lord GOD says: ‘As surely as I live, I will bring down upon his head My oath that he despised and My covenant that he broke.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֞ן]] [[H3541\|כֹּה]][[H9014\|־]] [[H0559\|אָמַ֨ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִה֮]] [[H2416A\|חַי]][[H9014\|־]] [[H0589\|אָנִי֒]] [[H0518I\|אִם]][[H9014\|־]] [[H3808\|לֹ֗א]] [[H0423\|אָֽלָתִ]][[H9020\|י֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0959\|בָּזָ֔ה]] [[H9002\|וּ]][[H1285\|בְרִיתִ֖]][[H9020\|י]] [[H0834A\|אֲשֶׁ֣ר]] [[H6331\|הֵפִ֑יר]] [[H9001\|וּ]][[H5414N\|נְתַתִּ֖י]][[H9033\|ו]] [[H9003\|בְּ]][[H7218A\|רֹאשֽׁ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic COVENANT|COVENANT]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.17.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.18|<< Ezekiel 17:18]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.20|Ezekiel 17:20 >>]]</td></tr></table>
 

@@ -1,8 +1,74 @@
+---
+title: Ezekiel 23:42
+type: Verse
+kjv: "And a voice of a multitude being at ease was with her: and with the men of the common sort were brought Sabeans from the wilderness, which put bracelets upon their hands, and beautiful crowns upon their heads."
+bsb: "accompanied by the sound of a carefree crowd. Drunkards were brought in from the desert along with men from the rabble, who put bracelets on your wrists and beautiful crowns on your head."
+hebrew: "וְק֣וֹל הָמוֹן֮ שָׁלֵ֣ו בָהּ֒ וְאֶל־ אֲנָשִׁים֙ מֵרֹ֣ב אָדָ֔ם מוּבָאִ֥ים סָבָאִ֖ים מִמִּדְבָּ֑ר וַֽיִּתְּנ֤וּ צְמִידִים֙ אֶל־ יְדֵיהֶ֔ן וַעֲטֶ֥רֶת תִּפְאֶ֖רֶת עַל־ רָאשֵׁיהֶֽן׃"
+pericope: "[[Ezek.23.36 Judgment on Both Sisters|Judgment on Both Sisters]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 23
+book/chapter: "[[Ezek.23|Ezekiel 23]]"
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CROWN|CROWN]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEWELS|JEWELS]]"
+- "[[topic SABEANS|SABEANS]]"
+strongs:
+- "[[H9002]]"
+- "[[H6963H]]"
+- "[[H1995A]]"
+- "[[H7961]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0582]]"
+- "[[H9006]]"
+- "[[H7230]]"
+- "[[H0120G]]"
+- "[[H0935P]]"
+- "[[H5433B]]"
+- "[[H5436]]"
+- "[[H4057B]]"
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H6781A]]"
+- "[[H3027G]]"
+- "[[H9029]]"
+- "[[H5850]]"
+- "[[H8597]]"
+- "[[H5921A]]"
+- "[[H7218A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 23:42**<big><big>[[Ezek.23.36 Judgment on Both Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a voice of a multitude being at ease [was] with her: and with the men of the common sort [were] brought Sabeans from the wilderness, which put bracelets upon their hands, and beautiful crowns upon their heads.
 <small><sub>**BSB:**</sub></small>
 accompanied by the sound of a carefree crowd. Drunkards were brought in from the desert along with men from the rabble, who put bracelets on your wrists and beautiful crowns on your head.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6963H\|ק֣וֹל]] [[H1995A\|הָמוֹן֮]] [[H7961\|שָׁלֵ֣ו]] [[H9003\|בָ]][[H9034\|הּ֒]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H0582\|אֲנָשִׁים֙]] [[H9006\|מֵ]][[H7230\|רֹ֣ב]] [[H0120G\|אָדָ֔ם]] [[H0935P\|מוּבָאִ֥ים]] [[H5436\|סָבָאִ֖ים]] [[H9006\|מִ]][[H4057B\|מִּדְבָּ֑ר]] [[H9001\|וַֽ]][[H5414H\|יִּתְּנ֤וּ]] [[H6781A\|צְמִידִים֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3027G\|יְדֵי]][[H9029\|הֶ֔ן]] [[H9002\|וַ]][[H5850\|עֲטֶ֥רֶת]] [[H8597\|תִּפְאֶ֖רֶת]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רָאשֵׁי]][[H9029\|הֶֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CROWN|CROWN]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEWELS|JEWELS]] • [[topic SABEANS|SABEANS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.41|<< Ezekiel 23:41]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.43|Ezekiel 23:43 >>]]</td></tr></table>
 

@@ -1,10 +1,63 @@
+---
+title: Revelation 4:7
+type: Verse
+kjv: "And the first beast was like a lion, and the second beast like a calf, and the third beast had a face as a man, and the fourth beast was like a flying eagle."
+bsb: "The first living creature was like a lion, the second like a calf, the third had a face like a man, and the fourth was like an eagle in flight."
+greek: "καὶ τὸ ζῷον τὸ πρῶτον ὅμοιον λέοντι, καὶ τὸ δεύτερον ζῷον ὅμοιον μόσχῳ, καὶ τὸ τρίτον ζῷον ἔχων τὸ πρόσωπον ὡς ἀνθρώπου, καὶ τὸ τέταρτον ζῷον ὅμοιον ἀετῷ πετομένῳ."
+pericope: "[[Rev.4.5 Worship of the Creator|Worship of the Creator]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 4
+book/chapter: "[[Rev.4|Revelation 4]]"
+chronological_order: 1171
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic EAGLE|EAGLE]]"
+- "[[topic LION|LION]]"
+- "[[topic THRONE|THRONE]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2226]]"
+- "[[G4413G]]"
+- "[[G3664]]"
+- "[[G3023]]"
+- "[[G1208]]"
+- "[[G3448]]"
+- "[[G5154]]"
+- "[[G2192]]"
+- "[[G4383]]"
+- "[[G5613]]"
+- "[[G0444]]"
+- "[[G5067]]"
+- "[[G0105]]"
+- "[[G4072]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 4:7**<big><big>[[Rev.4.5 Worship of the Creator|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the first beast [was] like a lion, and the second beast like a calf, and the third beast had a face as a man, and the fourth beast [was] like a flying eagle.
 <small><sub>**BSB:**</sub></small>
 The first living creature was like a lion, the second like a calf, the third had a face like a man, and the fourth was like an eagle in flight.
-<small><sub>**Literal:**</sub></small>
-And the living creature <the> first [was] like as a lion, and the second living creature like as a calf, and the third living creature he is having the face as of a man, and the fourth living creature like as an eagle flying.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.6|<< Revelation 4:6]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.8|Revelation 4:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G2226\|ζῷον]]  [[G3588\|τὸ]]  [[G4413G\|πρῶτον]]  [[G3664\|ὅμοιον]]  [[G3023\|λέοντι,]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G1208\|δεύτερον]]  [[G2226\|ζῷον]]  [[G3664\|ὅμοιον]]  [[G3448\|μόσχῳ,]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G5154\|τρίτον]]  [[G2226\|ζῷον]]  [[G2192\|ἔχων]]  [[G3588\|τὸ]]  [[G4383\|πρόσωπον]]  [[G5613\|ὡς]]  [[G0444\|ἀνθρώπου,]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G5067\|τέταρτον]]  [[G2226\|ζῷον]]  [[G3664\|ὅμοιον]]  [[G0105\|ἀετῷ]]  [[G4072\|πετομένῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BULLOCK|BULLOCK]] • [[topic EAGLE|EAGLE]] • [[topic LION|LION]] • [[topic THRONE|THRONE]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.6|<< Revelation 4:6]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.8|Revelation 4:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 4:7** is...
 > $\quad$ possibly alluding to: [[LXX.Ezek.1.10|Ezek 1:10]]

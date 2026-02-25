@@ -1,10 +1,58 @@
+---
+title: Hebrews 7:4
+type: Verse
+kjv: "Now consider how great this man was, unto whom even the patriarch Abraham gave the tenth of the spoils."
+bsb: "Consider how great Melchizedek was: Even the patriarch Abraham gave him a tenth of the plunder."
+greek: "Θεωρεῖτε δὲ πηλίκος οὗτος, ᾧ καὶ δεκάτην Ἀβραὰμ ἔδωκεν ἐκ τῶν ἀκροθινίων ὁ πατριάρχης."
+pericope: "[[Heb.7.1 Melchizedek and Abraham|Melchizedek and Abraham]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 7
+book/chapter: "[[Heb.7|Hebrews 7]]"
+chronological_order: 1146
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic MELCHIZEDEK|MELCHIZEDEK]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SUCCESSION|SUCCESSION]]"
+- "[[topic TITHES|TITHES]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G2334]]"
+- "[[G1161]]"
+- "[[G4080]]"
+- "[[G3778]]"
+- "[[G3739]]"
+- "[[G2532]]"
+- "[[G1182]]"
+- "[[G0011]]"
+- "[[G1325]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G0205]]"
+- "[[G3966]]"
+texts:
+- NKO
+---
+
 **Hebrews 7:4**<big><big>[[Heb.7.1 Melchizedek and Abraham|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now consider how great this man [was], unto whom even the patriarch Abraham gave the tenth of the spoils.
 <small><sub>**BSB:**</sub></small>
 Consider how great Melchizedek was: Even the patriarch Abraham gave him a tenth of the plunder.
-<small><sub>**Literal:**</sub></small>
-do consider now how great this one [was], to whom even a tenth Abraham gave out of the best spoils the patriarch.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.3|<< Hebrews 7:3]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.5|Hebrews 7:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2334\|Θεωρεῖτε]]  [[G1161\|δὲ]]  [[G4080\|πηλίκος]]  [[G3778\|οὗτος,]]  [[G3739\|ᾧ]]  [[G2532\|καὶ]]  [[G1182\|δεκάτην]]  [[G0011\|Ἀβραὰμ]]  [[G1325\|ἔδωκεν]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G0205\|ἀκροθινίων]]  [[G3588\|ὁ]]  [[G3966\|πατριάρχης.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic MELCHIZEDEK|MELCHIZEDEK]] • [[topic PRIEST|PRIEST]] • [[topic SUCCESSION|SUCCESSION]] • [[topic TITHES|TITHES]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.3|<< Hebrews 7:3]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.5|Hebrews 7:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

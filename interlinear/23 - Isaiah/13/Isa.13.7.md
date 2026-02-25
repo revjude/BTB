@@ -1,8 +1,48 @@
+---
+title: Isaiah 13:7
+type: Verse
+kjv: "Therefore shall all hands be faint, and every man’s heart shall melt:"
+bsb: "Therefore all hands will fall limp, and every man’s heart will melt."
+hebrew: "עַל־ כֵּ֖ן כָּל־ יָדַ֣יִם תִּרְפֶּ֑ינָה וְכָל־ לְבַ֥ב אֱנ֖וֹשׁ יִמָּס׃"
+pericope: "[[Isa.13.1 The Burden against Babylon|The Burden against Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 13
+book/chapter: "[[Isa.13|Isaiah 13]]"
+chronological_order: 630
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H3605]]"
+- "[[H3027G]]"
+- "[[H7503]]"
+- "[[H9002]]"
+- "[[H3824]]"
+- "[[H0582]]"
+- "[[H4549]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 13:7**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore shall all hands be faint, and every man’s heart shall melt:
 <small><sub>**BSB:**</sub></small>
 Therefore all hands will fall limp, and every man’s heart will melt.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֖ן]] [[H3605\|כָּל]][[H9014\|־]] [[H3027G\|יָדַ֣יִם]] [[H7503\|תִּרְפֶּ֑ינָה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3824\|לְבַ֥ב]] [[H0582\|אֱנ֖וֹשׁ]] [[H4549\|יִמָּס]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.6|<< Isaiah 13:6]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.8|Isaiah 13:8 >>]]</td></tr></table>
 

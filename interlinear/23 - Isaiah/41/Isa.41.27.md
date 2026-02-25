@@ -1,8 +1,54 @@
+---
+title: Isaiah 41:27
+type: Verse
+kjv: "The first shall say to Zion, Behold, behold them: and I will give to Jerusalem one that bringeth good tidings."
+bsb: "I was the first to tell Zion: ‘Look, here they are!’ And I gave to Jerusalem a herald of good news."
+hebrew: "רִאשׁ֥וֹן לְצִיּ֖וֹן הִנֵּ֣ה הִנָּ֑ם וְלִירוּשָׁלִַ֖ם מְבַשֵּׂ֥ר אֶתֵּֽן׃"
+pericope: "[[Isa.41.21 Meaningless Idols|Meaningless Idols]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 41
+book/chapter: "[[Isa.41|Isaiah 41]]"
+chronological_order: 680
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H7223G]]"
+- "[[H9005]]"
+- "[[H6726]]"
+- "[[H2009]]"
+- "[[H2005]]"
+- "[[H9048]]"
+- "[[H9002]]"
+- "[[H3389]]"
+- "[[H1319]]"
+- "[[H5414G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 41:27**<big><big>[[Isa.41.21 Meaningless Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The first [shall say] to Zion, Behold, behold them: and I will give to Jerusalem one that bringeth good tidings.
 <small><sub>**BSB:**</sub></small>
 I was the first to tell Zion: ‘Look, here they are!’ And I gave to Jerusalem a herald of good news.
+<small><sub>**Hebrew:**</sub></small>
+[[H7223G\|רִאשׁ֥וֹן]] [[H9005\|לְ]][[H6726\|צִיּ֖וֹן]] [[H2009\|הִנֵּ֣ה]] [[H2005\|הִנָּ֑]][[H9048\|ם]] [[H9002\|וְ]][[H9005\|לִ]][[H3389\|ירוּשָׁלִַ֖ם]] [[H1319\|מְבַשֵּׂ֥ר]] [[H5414G\|אֶתֵּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.26|<< Isaiah 41:26]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.28|Isaiah 41:28 >>]]</td></tr></table>
 

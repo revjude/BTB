@@ -1,10 +1,76 @@
+---
+title: John 19:24
+type: Verse
+kjv: "They said therefore among themselves, Let us not rend it, but cast lots for it, whose it shall be: that the scripture might be fulfilled, which saith, They parted my raiment among them, and for my vesture they did cast lots. These things therefore the soldiers did."
+bsb: "So they said to one another, “Let us not tear it. Instead, let us cast lots to see who will get it.” This was to fulfill the Scripture: “They divided My garments among them, and cast lots for My clothing.” So that is what the soldiers did."
+greek: "εἶπαν οὖν πρὸς ἀλλήλους· μὴ σχίσωμεν αὐτόν, ἀλλὰ λάχωμεν περὶ αὐτοῦ τίνος ἔσται· ἵνα ἡ γραφὴ πληρωθῇ ἡ λέγουσα· διεμερίσαντο τὰ ἱμάτιά μου ἑαυτοῖς καὶ ἐπὶ τὸν ἱματισμόν μου ἔβαλον κλῆρον.¶ Οἱ μὲν οὖν στρατιῶται ταῦτα ἐποίησαν,"
+pericope: "[[John.19.16 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOT, THE|LOT, THE]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G4314]]"
+- "[[G0240]]"
+- "[[G3361]]"
+- "[[G4977]]"
+- "[[G0846]]"
+- "[[G0235]]"
+- "[[G2975]]"
+- "[[G4012]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G2443]]"
+- "[[G3588]]"
+- "[[G1124]]"
+- "[[G4137]]"
+- "[[G3004G]]"
+- "[[G1266]]"
+- "[[G2440]]"
+- "[[G3165]]"
+- "[[G1438]]"
+- "[[G2532]]"
+- "[[G1909]]"
+- "[[G2441]]"
+- "[[G0906G]]"
+- "[[G2819]]"
+- "[[G3303]]"
+- "[[G4757]]"
+- "[[G3778]]"
+- "[[G4160G]]"
+texts:
+- NKO
+---
+
 **John 19:24**<big><big>[[John.19.16 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 They said therefore among themselves, Let us not rend it, but cast lots for it, whose it shall be: that the scripture might be fulfilled, which saith, They parted my raiment among them, and for my vesture they did cast lots. These things therefore the soldiers did.
 <small><sub>**BSB:**</sub></small>
 So they said to one another, “Let us not tear it. Instead, let us cast lots to see who will get it.” This was to fulfill the Scripture: “They divided My garments among them, and cast lots for My clothing.” So that is what the soldiers did.
-<small><sub>**Literal:**</sub></small>
-They said therefore to one another; Not let us tear up it, but let us cast lots for it whose it will be; that the Scripture may be fulfilled what is being spoken: They divided the garments of Mine among themselves and for the clothing of Mine they cast a lot. The indeed therefore soldiers these things did,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.23|<< John 19:23]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.25|John 19:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπαν]]  [[G3767\|οὖν]]  [[G4314\|πρὸς]]  [[G0240\|ἀλλήλους·]]  [[G3361\|μὴ]]  [[G4977\|σχίσωμεν]]  [[G0846\|αὐτόν,]]  [[G0235\|ἀλλὰ]]  [[G2975\|λάχωμεν]]  [[G4012\|περὶ]]  [[G0846\|αὐτοῦ]]  [[G5101\|τίνος]]  [[G1510\|ἔσται·]]  [[G2443\|ἵνα]]  [[G3588\|ἡ]]  [[G1124\|γραφὴ]]  [[G4137\|πληρωθῇ]]  [[G3588\|ἡ]]  [[G3004G\|λέγουσα·]]  [[G1266\|διεμερίσαντο]]  [[G3588\|τὰ]]  [[G2440\|ἱμάτιά]]  [[G3165\|μου]]  [[G1438\|ἑαυτοῖς]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G2441\|ἱματισμόν]]  [[G3165\|μου]]  [[G0906G\|ἔβαλον]]  [[G2819\|κλῆρον.¶]]  [[G3588\|Οἱ]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G4757\|στρατιῶται]]  [[G3778\|ταῦτα]]  [[G4160G\|ἐποίησαν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOT, THE|LOT, THE]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SOLDIERS|SOLDIERS]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.23|<< John 19:23]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.25|John 19:25 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **John 19:24** is...
 > $\quad$ referencing: [[LXX.Ps.22.18|Ps 22:18]]

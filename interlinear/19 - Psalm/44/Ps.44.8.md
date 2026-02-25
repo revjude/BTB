@@ -1,8 +1,60 @@
+---
+title: Psalm 44:8
+type: Verse
+kjv: "In God we boast all the day long, and praise thy name for ever. Selah."
+bsb: "In God we have boasted all day long, and Your name we will praise forever. Selah"
+hebrew: "בֵּֽ֭אלֹהִים הִלַּלְ֣נוּ כָל־ הַיּ֑וֹם וְשִׁמְךָ֓׀ לְעוֹלָ֖ם נוֹדֶ֣ה סֶֽלָה׃"
+pericope: "[[Ps.44.1 Redeem Us, O God|Redeem Us, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 44
+book/chapter: "[[Ps.44|Psalm 44]]"
+chronological_order: 499
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9003]]"
+- "[[H0430G]]"
+- "[[H1984H]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3117K]]"
+- "[[H9002]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H3034]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 44:8**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In God we boast all the day long, and praise thy name for ever. Selah.
 <small><sub>**BSB:**</sub></small>
 In God we have boasted all day long, and Your name we will praise forever. Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בֵּֽ֭]][[H0430G\|אלֹהִים]] [[H1984H\|הִלַּלְ֣נוּ]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H3117K\|יּ֑וֹם]] [[H9002\|וְ]][[H8034\|שִׁמְ]][[H9021\|ךָ֓]][[H9015\|׀]] [[H9005\|לְ]][[H5769G\|עוֹלָ֖ם]] [[H3034\|נוֹדֶ֣ה]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.7|<< Psalms 44:7]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.9|Psalms 44:9 >>]]</td></tr></table>
 

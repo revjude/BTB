@@ -1,8 +1,52 @@
+---
+title: Proverbs 31:7
+type: Verse
+kjv: "Let him drink, and forget his poverty, and remember his misery no more."
+bsb: "Let him drink and forget his poverty, and remember his misery no more."
+hebrew: "יִ֭שְׁתֶּה וְיִשְׁכַּ֣ח רִישׁ֑וֹ וַ֝עֲמָל֗וֹ לֹ֣א יִזְכָּר־ עֽוֹד׃"
+pericope: "[[Prov.31.1 The Sayings for King Lemuel|The Sayings for King Lemuel]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 31
+book/chapter: "[[Prov.31|Proverbs 31]]"
+chronological_order: 486
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H8354]]"
+- "[[H9002]]"
+- "[[H7911]]"
+- "[[H7389B]]"
+- "[[H9023]]"
+- "[[H5999]]"
+- "[[H3808]]"
+- "[[H2142]]"
+- "[[H9014]]"
+- "[[H5750]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 31:7**<big><big>[[Prov.31.1 The Sayings for King Lemuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let him drink, and forget his poverty, and remember his misery no more.
 <small><sub>**BSB:**</sub></small>
 Let him drink and forget his poverty, and remember his misery no more.
+<small><sub>**Hebrew:**</sub></small>
+[[H8354\|יִ֭שְׁתֶּה]] [[H9002\|וְ]][[H7911\|יִשְׁכַּ֣ח]] [[H7389B\|רִישׁ֑]][[H9023\|וֹ]] [[H9002\|וַ֝]][[H5999\|עֲמָל֗]][[H9023\|וֹ]] [[H3808\|לֹ֣א]] [[H2142\|יִזְכָּר]][[H9014\|־]] [[H5750\|עֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRUNKENNESS|DRUNKENNESS]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.6|<< Proverbs 31:6]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.8|Proverbs 31:8 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: 2 Samuel 5:14
+type: Verse
+kjv: "And these be the names of those that were born unto him in Jerusalem; Shammua, and Shobab, and Nathan, and Solomon,"
+bsb: "These are the names of the children born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon,"
+hebrew: "וְאֵ֗לֶּה שְׁמ֛וֹת הַיִּלֹּדִ֥ים ל֖וֹ בִּירוּשָׁלִָ֑ם שַׁמּ֣וּעַ וְשׁוֹבָ֔ב וְנָתָ֖ן וּשְׁלֹמֹֽה׃"
+pericope: "[[2Sam.5.12 David’s Family Grows|David’s Family Grows]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 5
+book/chapter: "[[2Sam.5|2 Samuel 5]]"
+chronological_order: 333
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic SHAMMUAH|SHAMMUAH]]"
+- "[[topic SHOBAB|SHOBAB]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H8034]]"
+- "[[H9009]]"
+- "[[H3209]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H8051H]]"
+- "[[H7727G]]"
+- "[[H5416G]]"
+- "[[H8010]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 5:14**<big><big>[[2Sam.5.12 David’s Family Grows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [be] the names of those that were born unto him in Jerusalem; Shammua, and Shobab, and Nathan, and Solomon,
 <small><sub>**BSB:**</sub></small>
 These are the names of the children born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֗לֶּה]] [[H8034\|שְׁמ֛וֹת]] [[H9009\|הַ]][[H3209\|יִּלֹּדִ֥ים]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H8051H\|שַׁמּ֣וּעַ]] [[H9002\|וְ]][[H7727G\|שׁוֹבָ֔ב]] [[H9002\|וְ]][[H5416G\|נָתָ֖ן]] [[H9002\|וּ]][[H8010\|שְׁלֹמֹֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic NATHAN|NATHAN]] • [[topic SHAMMUAH|SHAMMUAH]] • [[topic SHOBAB|SHOBAB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.5.13|<< 2 Samuel 5:13]]</td><td align="center" style="border:none;">[[2Sam.5|2 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.5.15|2 Samuel 5:15 >>]]</td></tr></table>
 

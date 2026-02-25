@@ -1,8 +1,51 @@
+---
+title: Psalm 29:4
+type: Verse
+kjv: "The voice of the LORD is powerful; the voice of the LORD is full of majesty."
+bsb: "The voice of the LORD is powerful; the voice of the LORD is majestic."
+hebrew: "קוֹל־ יְהוָ֥ה בַּכֹּ֑חַ ק֥וֹל יְ֝הוָ֗ה בֶּהָדָֽר׃"
+pericope: "[[Ps.29.1 Ascribe Glory to the LORD|Ascribe Glory to the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 29
+book/chapter: "[[Ps.29|Psalm 29]]"
+chronological_order: 361
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+strongs:
+- "[[H6963A]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3581B]]"
+- "[[H1926]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 29:4**<big><big>[[Ps.29.1 Ascribe Glory to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The voice of the LORD [is] powerful; the voice of the LORD [is] full of majesty.
 <small><sub>**BSB:**</sub></small>
 The voice of the LORD is powerful; the voice of the LORD is majestic.
+<small><sub>**Hebrew:**</sub></small>
+[[H6963A\|קוֹל]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H9003\|בַּ]][[H3581B\|כֹּ֑חַ]] [[H6963A\|ק֥וֹל]] [[H3068G\|יְ֝הוָ֗ה]] [[H9003\|בֶּ]][[H1926\|הָדָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.29.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.29.3|<< Psalms 29:3]]</td><td align="center" style="border:none;">[[Ps.29|Psalms 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.29.5|Psalms 29:5 >>]]</td></tr></table>
 

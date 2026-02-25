@@ -1,8 +1,62 @@
+---
+title: Numbers 15:33
+type: Verse
+kjv: "And they that found him gathering sticks brought him unto Moses and Aaron, and unto all the congregation."
+bsb: "Those who found the man gathering wood brought him to Moses, Aaron, and the whole congregation,"
+hebrew: "וַיַּקְרִ֣יבוּ אֹת֔וֹ הַמֹּצְאִ֥ים אֹת֖וֹ מְקֹשֵׁ֣שׁ עֵצִ֑ים אֶל־ מֹשֶׁה֙ וְאֶֽל־ אַהֲרֹ֔ן וְאֶ֖ל כָּל־ הָעֵדָֽה׃"
+pericope: "[[Num.15.32 A Sabbath-Breaker Stoned|A Sabbath-Breaker Stoned]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 15
+book/chapter: "[[Num.15|Numbers 15]]"
+chronological_order: 175
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEGISLATION|LEGISLATION]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H4672]]"
+- "[[H7197A]]"
+- "[[H6086I]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H3605]]"
+- "[[H5712]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 15:33**<big><big>[[Num.15.32 A Sabbath-Breaker Stoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they that found him gathering sticks brought him unto Moses and Aaron, and unto all the congregation.
 <small><sub>**BSB:**</sub></small>
 Those who found the man gathering wood brought him to Moses, Aaron, and the whole congregation,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7126H\|יַּקְרִ֣יבוּ]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H9009\|הַ]][[H4672\|מֹּצְאִ֥ים]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H7197A\|מְקֹשֵׁ֣שׁ]] [[H6086I\|עֵצִ֑ים]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁה֙]] [[H9002\|וְ]][[H0413\|אֶֽל]][[H9014\|־]] [[H0175\|אַהֲרֹ֔ן]] [[H9002\|וְ]][[H0413\|אֶ֖ל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5712\|עֵדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEGISLATION|LEGISLATION]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SABBATH|SABBATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.32|<< Numbers 15:32]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.34|Numbers 15:34 >>]]</td></tr></table>
 

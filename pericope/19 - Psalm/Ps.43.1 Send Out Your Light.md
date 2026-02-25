@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Send Out Your Light
+type: Pericope
 pericope: "[[Ps.43.1 Send Out Your Light|Send Out Your Light]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 43
 book/chapter: "[[Ps.43|Psalm 43]]"
-genre:
+chronological_order: 498
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 5
 verses:
 - "[[Ps.43.1]]"
 - "[[Ps.43.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Ps.43.5]]"
 ---
 
-[[Ps.43|Psalm 43:1 - Psalm 43:5]]
+<small>[[Ps.43|Psalm 43:1-5]]</small>
 *Send Out Your Light*
 
 [[Ps.43.1|1]] Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.

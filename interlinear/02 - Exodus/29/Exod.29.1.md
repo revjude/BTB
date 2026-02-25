@@ -1,8 +1,67 @@
+---
+title: Exodus 29:1
+type: Verse
+kjv: "And this is the thing that thou shalt do unto them to hallow them, to minister unto me in the priest’s office: Take one young bullock, and two rams without blemish,"
+bsb: "“Now this is what you are to do to consecrate Aaron and his sons to serve Me as priests: Take a young bull and two rams without blemish,"
+hebrew: "וְזֶ֨ה הַדָּבָ֜ר אֲשֶֽׁר־ תַּעֲשֶׂ֥ה לָהֶ֛ם לְקַדֵּ֥שׁ אֹתָ֖ם לְכַהֵ֣ן לִ֑י לְ֠קַח פַּ֣ר אֶחָ֧ד בֶּן־ בָּקָ֛ר וְאֵילִ֥ם שְׁנַ֖יִם תְּמִימִֽם׃"
+pericope: "[[Exod.29.1 Consecration of the Priests|Consecration of the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 29
+book/chapter: "[[Exod.29|Exodus 29]]"
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H2088]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H6942G]]"
+- "[[H0853]]"
+- "[[H3547]]"
+- "[[H9030]]"
+- "[[H3947G]]"
+- "[[H6499]]"
+- "[[H0259]]"
+- "[[H1121H]]"
+- "[[H1241]]"
+- "[[H0352A]]"
+- "[[H8147]]"
+- "[[H8549G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 29:1**<big><big>[[Exod.29.1 Consecration of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this [is] the thing that thou shalt do unto them to hallow them, to minister unto me in the priest’s office: Take one young bullock, and two rams without blemish,
 <small><sub>**BSB:**</sub></small>
 “Now this is what you are to do to consecrate Aaron and his sons to serve Me as priests: Take a young bull and two rams without blemish,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2088\|זֶ֨ה]] [[H9009\|הַ]][[H1697I\|דָּבָ֜ר]] [[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H6213A\|תַּעֲשֶׂ֥ה]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H9005\|לְ]][[H6942G\|קַדֵּ֥שׁ]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H9005\|לְ]][[H3547\|כַהֵ֣ן]] [[H9005\|לִ֑]][[H9030\|י]] [[H3947G\|לְ֠קַח]] [[H6499\|פַּ֣ר]] [[H0259\|אֶחָ֧ד]] [[H1121H\|בֶּן]][[H9014\|־]] [[H1241\|בָּקָ֛ר]] [[H9002\|וְ]][[H0352A\|אֵילִ֥ם]] [[H8147\|שְׁנַ֖יִם]] [[H8549G\|תְּמִימִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.43|<< Exodus 28:43]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.2|Exodus 29:2 >>]]</td></tr></table>
 

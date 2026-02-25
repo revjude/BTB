@@ -1,8 +1,73 @@
+---
+title: Jeremiah 30:3
+type: Verse
+kjv: "For, lo, the days come, saith the LORD, that I will bring again the captivity of my people Israel and Judah, saith the LORD: and I will cause them to return to the land that I gave to their fathers, and they shall possess it."
+bsb: "For behold, the days are coming, declares the LORD, when I will restore from captivity My people Israel and Judah, declares the LORD. I will restore them to the land that I gave to their fathers, and they will possess it.’”"
+hebrew: "כִּ֠י הִנֵּ֨ה יָמִ֤ים בָּאִים֙ נְאֻם־ יְהוָ֔ה וְ֠שַׁבְתִּי אֶת־ שְׁב֨וּת עַמִּ֧י יִשְׂרָאֵ֛ל וִֽיהוּדָ֖ה אָמַ֣ר יְהוָ֑ה וַהֲשִׁבֹתִ֗ים אֶל־ הָאָ֛רֶץ אֲשֶׁר־ נָתַ֥תִּי לַאֲבוֹתָ֖ם וִֽירֵשֽׁוּהָ׃ פ"
+pericope: "[[Jer.30.1 The Restoration of Israel and Judah|The Restoration of Israel and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 30
+book/chapter: "[[Jer.30|Jeremiah 30]]"
+chronological_order: 753
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H3588A]]"
+- "[[H2009]]"
+- "[[H3117G]]"
+- "[[H0935G]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H7725H]]"
+- "[[H0853]]"
+- "[[H7622]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H3063G]]"
+- "[[H0559]]"
+- "[[H7725G]]"
+- "[[H9038]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H3423H]]"
+- "[[H9034]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Jeremiah 30:3**<big><big>[[Jer.30.1 The Restoration of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, lo, the days come, saith the LORD, that I will bring again the captivity of my people Israel and Judah, saith the LORD: and I will cause them to return to the land that I gave to their fathers, and they shall possess it.
 <small><sub>**BSB:**</sub></small>
 For behold, the days are coming, declares the LORD, when I will restore from captivity My people Israel and Judah, declares the LORD. I will restore them to the land that I gave to their fathers, and they will possess it.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֠י]] [[H2009\|הִנֵּ֨ה]] [[H3117G\|יָמִ֤ים]] [[H0935G\|בָּאִים֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וְ֠]][[H7725H\|שַׁבְתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H7622\|שְׁב֨וּת]] [[H5971A\|עַמִּ֧]][[H9020\|י]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H9002\|וִֽ]][[H3063G\|יהוּדָ֖ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H7725G\|הֲשִׁבֹתִ֗י]][[H9038\|ם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֛רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414G\|נָתַ֥תִּי]] [[H9005\|לַ]][[H0001G\|אֲבוֹתָ֖]][[H9028\|ם]] [[H9001\|וִֽ]][[H3423H\|ירֵשֽׁוּ]][[H9034\|הָ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.30.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.2|<< Jeremiah 30:2]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.4|Jeremiah 30:4 >>]]</td></tr></table>
 
@@ -28,7 +93,7 @@ For behold, the days are coming, declares the LORD, when I will restore from cap
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I gave  |**<big>&#8207;[[H5414G\|נָתַ֥תִּי]]&#8207; </big>**| na.Ta.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to ancestors their  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H0001G\|אֲבוֹתָ֖]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.vo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and they will take possession of it  |**<big>&#8207;[[H9001\|וִֽ]]&#8207;&#8207;[[H3423H\|ירֵשֽׁוּ]]&#8207;&#8207;[[H9034\|הָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Vi.<small><sup>[[Hc]]</sup></small> re.Shu.<small><sup>[[HVqq3cp]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will take possession of it  |**<big>&#8207;[[H9001\|וִֽ]]&#8207;&#8207;[[H3423H\|ירֵשֽׁוּ]]&#8207;&#8207;[[H9034\|הָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Vi.<small><sup>[[Hc]]</sup></small> re.Shu.<small><sup>[[HVqq3cp]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.2|<< Jeremiah 30:2]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.4|Jeremiah 30:4 >>]]</td></tr></table>
 
 

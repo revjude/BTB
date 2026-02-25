@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Feast of Trumpets
+type: Pericope
 pericope: "[[Lev.23.23 The Feast of Trumpets|The Feast of Trumpets]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 23
 book/chapter: "[[Lev.23|Leviticus 23]]"
-genre:
+chronological_order: 155
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,13 +26,14 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 3
 verses:
 - "[[Lev.23.23]]"
 - "[[Lev.23.24]]"
 - "[[Lev.23.25]]"
 ---
 
-[[Lev.23|Leviticus 23:23 - Leviticus 23:25]]
+<small>[[Lev.23|Leviticus 23:23-25]]</small>
 *The Feast of Trumpets*
 
 [[Lev.23.23|23]] And the LORD spake unto Moses, saying,

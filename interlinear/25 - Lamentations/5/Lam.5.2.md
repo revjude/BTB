@@ -1,8 +1,48 @@
+---
+title: Lamentations 5:2
+type: Verse
+kjv: "Our inheritance is turned to strangers, our houses to aliens."
+bsb: "Our inheritance has been turned over to strangers, our houses to foreigners."
+hebrew: "נַחֲלָתֵ֙נוּ֙ נֶֽהֶפְכָ֣ה לְזָרִ֔ים בָּתֵּ֖ינוּ לְנָכְרִֽים׃"
+pericope: "[[Lam.5.1 A Prayer for Restoration|A Prayer for Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 5
+book/chapter: "[[Lam.5|Lamentations 5]]"
+chronological_order: 780
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[H5159]]"
+- "[[H9025]]"
+- "[[H2015]]"
+- "[[H9005]]"
+- "[[H2114A]]"
+- "[[H1004B]]"
+- "[[H5237]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Lamentations 5:2**<big><big>[[Lam.5.1 A Prayer for Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Our inheritance is turned to strangers, our houses to aliens.
 <small><sub>**BSB:**</sub></small>
 Our inheritance has been turned over to strangers, our houses to foreigners.
+<small><sub>**Hebrew:**</sub></small>
+[[H5159\|נַחֲלָתֵ֙]][[H9025\|נוּ֙]] [[H2015\|נֶֽהֶפְכָ֣ה]] [[H9005\|לְ]][[H2114A\|זָרִ֔ים]] [[H1004B\|בָּתֵּ֖י]][[H9025\|נוּ]] [[H9005\|לְ]][[H5237\|נָכְרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.5.1|<< Lamentations 5:1]]</td><td align="center" style="border:none;">[[Lam.5|Lamentations 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.5.3|Lamentations 5:3 >>]]</td></tr></table>
 

@@ -1,10 +1,70 @@
+---
+title: Acts 17:23
+type: Verse
+kjv: "For as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto you."
+bsb: "For as I walked around and examined your objects of worship, I even found an altar with this inscription: TO AN UNKNOWN GOD. Therefore what you worship as something unknown, I now proclaim to you."
+greek: "διερχόμενος γὰρ καὶ ἀναθεωρῶν τὰ σεβάσματα ὑμῶν εὗρον καὶ βωμὸν ἐν ᾧ ἐπεγέγραπτο· ἀγνώστῳ θεῷ. ὃ οὖν ἀγνοοῦντες εὐσεβεῖτε, τοῦτο ἐγὼ καταγγέλλω ὑμῖν."
+pericope: "[[Acts.17.22 Paul’s Address in the Areopagus|Paul’s Address in the Areopagus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 17
+book/chapter: "[[Acts.17|Acts 17]]"
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic ATHENS|ATHENS]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic MARS' HILL|MARS' HILL]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1330]]"
+- "[[G1063]]"
+- "[[G2532]]"
+- "[[G0333]]"
+- "[[G3588]]"
+- "[[G4574]]"
+- "[[G4771]]"
+- "[[G2147]]"
+- "[[G1041]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G1924]]"
+- "[[G0057]]"
+- "[[G2316]]"
+- "[[G3767]]"
+- "[[G0050]]"
+- "[[G2151]]"
+- "[[G3778]]"
+- "[[G1473]]"
+- "[[G2605]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 17:23**<big><big>[[Acts.17.22 Paul’s Address in the Areopagus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto you.
 <small><sub>**BSB:**</sub></small>
 For as I walked around and examined your objects of worship, I even found an altar with this inscription: TO AN UNKNOWN GOD. Therefore what you worship as something unknown, I now proclaim to you.
-<small><sub>**Literal:**</sub></small>
-Passing through for and beholding the objects of worship of you I found even an altar on which had been inscribed: To an unknown God. whom therefore not knowing you worship, Him I myself proclaim to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.22|<< Acts 17:22]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.24|Acts 17:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1330\|διερχόμενος]]  [[G1063\|γὰρ]]  [[G2532\|καὶ]]  [[G0333\|ἀναθεωρῶν]]  [[G3588\|τὰ]]  [[G4574\|σεβάσματα]]  [[G4771\|ὑμῶν]]  [[G2147\|εὗρον]]  [[G2532\|καὶ]]  [[G1041\|βωμὸν]]  [[G1722\|ἐν]]  [[G3739\|ᾧ]]  [[G1924\|ἐπεγέγραπτο·]]  [[G0057\|ἀγνώστῳ]]  [[G2316\|θεῷ.]]  [[G3739\|ὃ]]  [[G3767\|οὖν]]  [[G0050\|ἀγνοοῦντες]]  [[G2151\|εὐσεβεῖτε,]]  [[G3778\|τοῦτο]]  [[G1473\|ἐγὼ]]  [[G2605\|καταγγέλλω]]  [[G4771\|ὑμῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic ATHENS|ATHENS]] • [[topic BLINDNESS|BLINDNESS]] • [[topic GENTILES|GENTILES]] • [[topic IDOLATRY|IDOLATRY]] • [[topic IGNORANCE|IGNORANCE]] • [[topic MARS' HILL|MARS' HILL]] • [[topic PAUL|PAUL]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RELIGION|RELIGION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.22|<< Acts 17:22]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.24|Acts 17:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

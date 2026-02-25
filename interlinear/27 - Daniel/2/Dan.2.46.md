@@ -1,8 +1,57 @@
+---
+title: Daniel 2:46
+type: Verse
+kjv: "Then the king Nebuchadnezzar fell upon his face, and worshipped Daniel, and commanded that they should offer an oblation and sweet odours unto him."
+bsb: "At this, King Nebuchadnezzar fell on his face, paid homage to Daniel, and ordered that an offering and incense be presented to him."
+aramaic: "בֵּ֠אדַיִן מַלְכָּ֤א נְבֽוּכַדְנֶצַּר֙ נְפַ֣ל עַל־ אַנְפּ֔וֹהִי וּלְדָנִיֵּ֖אל סְגִ֑ד וּמִנְחָה֙ וְנִ֣יחֹחִ֔ין אֲמַ֖ר לְנַסָּ֥כָה לֵֽהּ׃"
+pericope: "[[Dan.2.46 Nebuchadnezzar Promotes Daniel|Nebuchadnezzar Promotes Daniel]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+strongs:
+- "[[H9003]]"
+- "[[H0116]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H5020]]"
+- "[[H5308]]"
+- "[[H5922]]"
+- "[[H9014]]"
+- "[[H0600]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H1841H]]"
+- "[[H5457]]"
+- "[[H4504]]"
+- "[[H5208]]"
+- "[[H0560]]"
+- "[[H5260]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 2:46**<big><big>[[Dan.2.46 Nebuchadnezzar Promotes Daniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king Nebuchadnezzar fell upon his face, and worshipped Daniel, and commanded that they should offer an oblation and sweet odours unto him.
 <small><sub>**BSB:**</sub></small>
 At this, King Nebuchadnezzar fell on his face, paid homage to Daniel, and ordered that an offering and incense be presented to him.
+<small><sub>**Aramaic:**</sub></small>
+[[H9003\|בֵּ֠]][[H0116\|אדַיִן]] [[H4430\|מַלְכָּ֤]][[H9010\|א]] [[H5020\|נְבֽוּכַדְנֶצַּר֙]] [[H5308\|נְפַ֣ל]] [[H5922\|עַל]][[H9014\|־]] [[H0600\|אַנְפּ֔וֹ]][[H9023\|הִי]] [[H9002\|וּ]][[H9005\|לְ]][[H1841H\|דָנִיֵּ֖אל]] [[H5457\|סְגִ֑ד]] [[H9002\|וּ]][[H4504\|מִנְחָה֙]] [[H9002\|וְ]][[H5208\|נִ֣יחֹחִ֔ין]] [[H0560\|אֲמַ֖ר]] [[H9005\|לְ]][[H5260\|נַסָּ֥כָה]] [[H9005\|לֵֽ]][[H9033\|הּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.45|<< Daniel 2:45]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.47|Daniel 2:47 >>]]</td></tr></table>
 

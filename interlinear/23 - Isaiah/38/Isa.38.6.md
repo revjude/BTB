@@ -1,8 +1,58 @@
+---
+title: Isaiah 38:6
+type: Verse
+kjv: "And I will deliver thee and this city out of the hand of the king of Assyria: and I will defend this city."
+bsb: "And I will deliver you and this city from the hand of the king of Assyria. I will defend this city."
+hebrew: "וּמִכַּ֤ף מֶֽלֶךְ־ אַשּׁוּר֙ אַצִּ֣ילְךָ֔ וְאֵ֖ת הָעִ֣יר הַזֹּ֑את וְגַנּוֹתִ֖י עַל־ הָעִ֥יר הַזֹּֽאת׃"
+pericope: "[[Isa.38.1 Hezekiah’s Illness and Recovery|Hezekiah’s Illness and Recovery]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 38
+book/chapter: "[[Isa.38|Isaiah 38]]"
+chronological_order: 665
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H3709G]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H0804G]]"
+- "[[H5337]]"
+- "[[H9031]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H9001]]"
+- "[[H1598]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 38:6**<big><big>[[Isa.38.1 Hezekiah’s Illness and Recovery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will deliver thee and this city out of the hand of the king of Assyria: and I will defend this city.
 <small><sub>**BSB:**</sub></small>
 And I will deliver you and this city from the hand of the king of Assyria. I will defend this city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H3709G\|כַּ֤ף]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0804G\|אַשּׁוּר֙]] [[H5337\|אַצִּ֣ילְ]][[H9031\|ךָ֔]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H9001\|וְ]][[H1598\|גַנּוֹתִ֖י]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֥יר]] [[H9009\|הַ]][[H2063\|זֹּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISEASE|DISEASE]] • [[topic HEZEKIAH|HEZEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.5|<< Isaiah 38:5]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38.7|Isaiah 38:7 >>]]</td></tr></table>
 

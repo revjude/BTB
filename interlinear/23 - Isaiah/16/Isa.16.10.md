@@ -1,8 +1,64 @@
+---
+title: Isaiah 16:10
+type: Verse
+kjv: "And gladness is taken away, and joy out of the plentiful field; and in the vineyards there shall be no singing, neither shall there be shouting: the treaders shall tread out no wine in their presses; I have made their vintage shouting to cease."
+bsb: "Joy and gladness are removed from the orchard; no one sings or shouts in the vineyards. No one tramples the grapes in the winepresses; I have put an end to the cheering."
+hebrew: "וְנֶאֱסַ֨ף שִׂמְחָ֤ה וָגִיל֙ מִן־ הַכַּרְמֶ֔ל וּבַכְּרָמִ֥ים לֹֽא־ יְרֻנָּ֖ן לֹ֣א יְרֹעָ֑ע יַ֗יִן בַּיְקָבִ֛ים לֹֽא־ יִדְרֹ֥ךְ הַדֹּרֵ֖ךְ הֵידָ֥ד הִשְׁבַּֽתִּי׃"
+pericope: "[[Isa.16.1 Moab’s Destruction|Moab’s Destruction]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 16
+book/chapter: "[[Isa.16|Isaiah 16]]"
+chronological_order: 633
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic HARVEST|HARVEST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0622]]"
+- "[[H8057]]"
+- "[[H9002]]"
+- "[[H1524A]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3759]]"
+- "[[H9003]]"
+- "[[H3754]]"
+- "[[H3808]]"
+- "[[H7442B]]"
+- "[[H7321]]"
+- "[[H3196]]"
+- "[[H3342]]"
+- "[[H1869]]"
+- "[[H1959]]"
+- "[[H7673A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 16:10**<big><big>[[Isa.16.1 Moab’s Destruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And gladness is taken away, and joy out of the plentiful field; and in the vineyards there shall be no singing, neither shall there be shouting: the treaders shall tread out no wine in [their] presses; I have made [their vintage] shouting to cease.
 <small><sub>**BSB:**</sub></small>
 Joy and gladness are removed from the orchard; no one sings or shouts in the vineyards. No one tramples the grapes in the winepresses; I have put an end to the cheering.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0622\|נֶאֱסַ֨ף]] [[H8057\|שִׂמְחָ֤ה]] [[H9002\|וָ]][[H1524A\|גִיל֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3759\|כַּרְמֶ֔ל]] [[H9002\|וּ]][[H9003\|בַ]][[H3754\|כְּרָמִ֥ים]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7442B\|יְרֻנָּ֖ן]] [[H3808\|לֹ֣א]] [[H7321\|יְרֹעָ֑ע]] [[H3196\|יַ֗יִן]] [[H9003\|בַּ]][[H3342\|יְקָבִ֛ים]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1869\|יִדְרֹ֥ךְ]] [[H9009\|הַ]][[H1869\|דֹּרֵ֖ךְ]] [[H1959\|הֵידָ֥ד]] [[H7673A\|הִשְׁבַּֽתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HARVEST|HARVEST]] • [[topic JOY|JOY]] • [[topic MUSIC|MUSIC]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.16.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.9|<< Isaiah 16:9]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.11|Isaiah 16:11 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Deuteronomy 14:25
+type: Verse
+kjv: "Then shalt thou turn it into money, and bind up the money in thine hand, and shalt go unto the place which the LORD thy God shall choose:"
+bsb: "then exchange it for money, take the money in your hand, and go to the place the LORD your God will choose."
+hebrew: "וְנָתַתָּ֖ה בַּכָּ֑סֶף וְצַרְתָּ֤ הַכֶּ֙סֶף֙ בְּיָ֣דְךָ֔ וְהָֽלַכְתָּ֙ אֶל־ הַמָּק֔וֹם אֲשֶׁ֥ר יִבְחַ֛ר יְהוָ֥ה אֱלֹהֶ֖יךָ בּֽוֹ׃"
+pericope: "[[Deut.14.22 Giving Tithes|Giving Tithes]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 14
+book/chapter: "[[Deut.14|Deuteronomy 14]]"
+chronological_order: 210
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic MONEY|MONEY]]"
+- "[[topic TITHES|TITHES]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9003]]"
+- "[[H3701G]]"
+- "[[H6696A]]"
+- "[[H9009]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H1980G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H0977]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 14:25**<big><big>[[Deut.14.22 Giving Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shalt thou turn [it] into money, and bind up the money in thine hand, and shalt go unto the place which the LORD thy God shall choose:
 <small><sub>**BSB:**</sub></small>
 then exchange it for money, take the money in your hand, and go to the place the LORD your God will choose.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414G\|נָתַתָּ֖ה]] [[H9003\|בַּ]][[H3701G\|כָּ֑סֶף]] [[H9001\|וְ]][[H6696A\|צַרְתָּ֤]] [[H9009\|הַ]][[H3701G\|כֶּ֙סֶף֙]] [[H9003\|בְּ]][[H3027G\|יָ֣דְ]][[H9021\|ךָ֔]] [[H9001\|וְ]][[H1980G\|הָֽלַכְתָּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֔וֹם]] [[H0834A\|אֲשֶׁ֥ר]] [[H0977\|יִבְחַ֛ר]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MONEY|MONEY]] • [[topic TITHES|TITHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.14.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.14.24|<< Deuteronomy 14:24]]</td><td align="center" style="border:none;">[[Deut.14|Deuteronomy 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.14.26|Deuteronomy 14:26 >>]]</td></tr></table>
 

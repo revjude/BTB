@@ -1,8 +1,71 @@
+---
+title: Genesis 25:26
+type: Verse
+kjv: "And after that came his brother out, and his hand took hold on Esau’s heel; and his name was called Jacob: and Isaac was threescore years old when she bare them."
+bsb: "After this, his brother came out grasping Esau’s heel; so he was named Jacob. And Isaac was sixty years old when the twins were born."
+hebrew: "וְאַֽחֲרֵי־ כֵ֞ן יָצָ֣א אָחִ֗יו וְיָד֤וֹ אֹחֶ֙זֶת֙ בַּעֲקֵ֣ב עֵשָׂ֔ו וַיִּקְרָ֥א שְׁמ֖וֹ יַעֲקֹ֑ב וְיִצְחָ֛ק בֶּן־ שִׁשִּׁ֥ים שָׁנָ֖ה בְּלֶ֥דֶת אֹתָֽם׃"
+pericope: "[[Gen.25.19 Jacob and Esau|Jacob and Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 25
+book/chapter: "[[Gen.25|Genesis 25]]"
+chronological_order: 67
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ESAU|ESAU]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+- "[[topic TWINS|TWINS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H3318M]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H3027G]]"
+- "[[H0270]]"
+- "[[H9003]]"
+- "[[H6119]]"
+- "[[H6215G]]"
+- "[[H9001]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H3290]]"
+- "[[H3327]]"
+- "[[H1121L]]"
+- "[[H8346]]"
+- "[[H8141]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 25:26**<big><big>[[Gen.25.19 Jacob and Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after that came his brother out, and his hand took hold on Esau’s heel; and his name was called Jacob: and Isaac [was] threescore years old when she bare them.
 <small><sub>**BSB:**</sub></small>
 After this, his brother came out grasping Esau’s heel; so he was named Jacob. And Isaac was sixty years old when the twins were born.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0310A\|אַֽחֲרֵי]][[H9014\|־]] [[H3651C\|כֵ֞ן]] [[H3318M\|יָצָ֣א]] [[H0251G\|אָחִ֗י]][[H9023\|ו]] [[H9002\|וְ]][[H3027G\|יָד֤]][[H9023\|וֹ]] [[H0270\|אֹחֶ֙זֶת֙]] [[H9003\|בַּ]][[H6119\|עֲקֵ֣ב]] [[H6215G\|עֵשָׂ֔ו]] [[H9001\|וַ]][[H7121H\|יִּקְרָ֥א]] [[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H3290\|יַעֲקֹ֑ב]] [[H9002\|וְ]][[H3327\|יִצְחָ֛ק]] [[H1121L\|בֶּן]][[H9014\|־]] [[H8346\|שִׁשִּׁ֥ים]] [[H8141\|שָׁנָ֖ה]] [[H9003\|בְּ]][[H3205\|לֶ֥דֶת]] [[H0853\|אֹתָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ESAU|ESAU]] • [[topic ISAAC|ISAAC]] • [[topic JACOB|JACOB]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]] • [[topic TWINS|TWINS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.25|<< Genesis 25:25]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.27|Genesis 25:27 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

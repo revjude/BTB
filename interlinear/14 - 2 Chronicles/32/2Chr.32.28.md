@@ -1,8 +1,57 @@
+---
+title: 2 Chronicles 32:28
+type: Verse
+kjv: "Storehouses also for the increase of corn, and wine, and oil; and stalls for all manner of beasts, and cotes for flocks."
+bsb: "He also made storehouses for the harvest of grain and new wine and oil, stalls for all kinds of livestock, and pens for the flocks."
+hebrew: "וּמִ֨סְכְּנ֔וֹת לִתְבוּאַ֥ת דָּגָ֖ן וְתִיר֣וֹשׁ וְיִצְהָ֑ר וְאֻֽרָוֹת֙ לְכָל־ בְּהֵמָ֣ה וּבְהֵמָ֔ה וַעֲדָרִ֖ים לָאֲוֵרֽוֹת׃"
+pericope: "[[2Chr.32.24 Hezekiah’s Illness and Recovery|Hezekiah’s Illness and Recovery]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 32
+book/chapter: "[[2Chr.32|2 Chronicles 32]]"
+chronological_order: 662
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic KING|KING]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9002]]"
+- "[[H4543]]"
+- "[[H9005]]"
+- "[[H8393]]"
+- "[[H1715]]"
+- "[[H8492]]"
+- "[[H3323]]"
+- "[[H0723]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0929]]"
+- "[[H5739]]"
+- "[[H0220]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 32:28**<big><big>[[2Chr.32.24 Hezekiah’s Illness and Recovery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Storehouses also for the increase of corn, and wine, and oil; and stalls for all manner of beasts, and cotes for flocks.
 <small><sub>**BSB:**</sub></small>
 He also made storehouses for the harvest of grain and new wine and oil, stalls for all kinds of livestock, and pens for the flocks.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4543\|מִ֨סְכְּנ֔וֹת]] [[H9005\|לִ]][[H8393\|תְבוּאַ֥ת]] [[H1715\|דָּגָ֖ן]] [[H9002\|וְ]][[H8492\|תִיר֣וֹשׁ]] [[H9002\|וְ]][[H3323\|יִצְהָ֑ר]] [[H9002\|וְ]][[H0723\|אֻֽרָוֹת֙]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H0929\|בְּהֵמָ֣ה]] [[H9002\|וּ]][[H0929\|בְהֵמָ֔ה]] [[H9002\|וַ]][[H5739\|עֲדָרִ֖ים]] [[H9005\|לָ]][[H0220\|אֲוֵרֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEZEKIAH|HEZEKIAH]] • [[topic KING|KING]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.27|<< 2 Chronicles 32:27]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.29|2 Chronicles 32:29 >>]]</td></tr></table>
 

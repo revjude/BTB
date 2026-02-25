@@ -1,8 +1,56 @@
+---
+title: Proverbs 20:30
+type: Verse
+kjv: "The blueness of a wound cleanseth away evil: so do stripes the inward parts of the belly."
+bsb: "Lashes and wounds scour evil, and beatings cleanse the inmost parts."
+hebrew: "חַבֻּר֣וֹת פֶּ֭צַע תַּמְר֣וּק בְּרָ֑ע וּ֝מַכּ֗וֹת חַדְרֵי־ בָֽטֶן׃"
+pericope: "[[Prov.20.1 Wine Is a Mocker|Wine Is a Mocker]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 20
+book/chapter: "[[Prov.20|Proverbs 20]]"
+chronological_order: 475
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BELLY|BELLY]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic WOUNDS|WOUNDS]]"
+strongs:
+- "[[H2250]]"
+- "[[H6482]]"
+- "[[H4838]]"
+- "[[H8562]]"
+- "[[H9003]]"
+- "[[H7451H]]"
+- "[[H9002]]"
+- "[[H4347]]"
+- "[[H2315]]"
+- "[[H9014]]"
+- "[[H0990G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Proverbs 20:30**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The blueness of a wound cleanseth away evil: so [do] stripes the inward parts of the belly.
 <small><sub>**BSB:**</sub></small>
 Lashes and wounds scour evil, and beatings cleanse the inmost parts.
+<small><sub>**Hebrew:**</sub></small>
+[[H2250\|חַבֻּר֣וֹת]] [[H6482\|פֶּ֭צַע]] [[H8562\|תַּמְר֣וּק]] [[H9003\|בְּ]][[H7451H\|רָ֑ע]] [[H9002\|וּ֝]][[H4347\|מַכּ֗וֹת]] [[H2315\|חַדְרֵי]][[H9014\|־]] [[H0990G\|בָֽטֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BELLY|BELLY]] • [[topic DISEASE|DISEASE]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic WOUNDS|WOUNDS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.29|<< Proverbs 20:29]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.1|Proverbs 21:1 >>]]</td></tr></table>
 

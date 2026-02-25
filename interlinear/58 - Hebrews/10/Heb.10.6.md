@@ -1,10 +1,50 @@
+---
+title: Hebrews 10:6
+type: Verse
+kjv: "In burnt offerings and sacrifices for sin thou hast had no pleasure."
+bsb: "In burnt offerings and sin offerings You took no delight."
+greek: "ὁλοκαυτώματα καὶ περὶ ἁμαρτίας οὐκ εὐδόκησας·"
+pericope: "[[Heb.10.1 Christ’s Perfect Sacrifice|Christ’s Perfect Sacrifice]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 10
+book/chapter: "[[Heb.10|Hebrews 10]]"
+chronological_order: 1149
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G3646]]"
+- "[[G2532]]"
+- "[[G4012]]"
+- "[[G0266]]"
+- "[[G3756]]"
+- "[[G2106]]"
+texts:
+- NKO
+---
+
 **Hebrews 10:6**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 In burnt offerings and [sacrifices] for sin thou hast had no pleasure.
 <small><sub>**BSB:**</sub></small>
 In burnt offerings and sin offerings You took no delight.
-<small><sub>**Literal:**</sub></small>
-Burnt offerings and [offerings] for sin not You have delighted in;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.5|<< Hebrews 10:5]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.7|Hebrews 10:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3646\|ὁλοκαυτώματα]]  [[G2532\|καὶ]]  [[G4012\|περὶ]]  [[G0266\|ἁμαρτίας]]  [[G3756\|οὐκ]]  [[G2106\|εὐδόκησας·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic LAW|LAW]] • [[topic OFFERINGS|OFFERINGS]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.5|<< Hebrews 10:5]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.7|Hebrews 10:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 10:6** is...
 > $\quad$ referencing: [[LXX.Ps.40.6|Ps 40:6-8]]

@@ -1,8 +1,56 @@
+---
+title: Psalm 7:8
+type: Verse
+kjv: "The LORD shall judge the people: judge me, O LORD, according to my righteousness, and according to mine integrity that is in me."
+bsb: "The LORD judges the peoples; vindicate me, O LORD, according to my righteousness and integrity."
+hebrew: "יְהוָה֮ יָדִ֪ין עַ֫מִּ֥ים שָׁפְטֵ֥נִי יְהוָ֑ה כְּצִדְקִ֖י וּכְתֻמִּ֣י עָלָֽי׃"
+pericope: "[[Ps.7.1 I Take Refuge in You|I Take Refuge in You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 7
+book/chapter: "[[Ps.7|Psalm 7]]"
+chronological_order: 311
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+strongs:
+- "[[H3068G]]"
+- "[[H1777]]"
+- "[[H5971A]]"
+- "[[H8199]]"
+- "[[H9030]]"
+- "[[H9004]]"
+- "[[H6664G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H8537]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 7:8**<big><big>[[Ps.7.1 I Take Refuge in You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD shall judge the people: judge me, O LORD, according to my righteousness, and according to mine integrity [that is] in me.
 <small><sub>**BSB:**</sub></small>
 The LORD judges the peoples; vindicate me, O LORD, according to my righteousness and integrity.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָה֮]] [[H1777\|יָדִ֪ין]] [[H5971A\|עַ֫מִּ֥ים]] [[H8199\|שָׁפְטֵ֥]][[H9030\|נִי]] [[H3068G\|יְהוָ֑ה]] [[H9004\|כְּ]][[H6664G\|צִדְקִ֖]][[H9020\|י]] [[H9002\|וּ]][[H9004\|כְ]][[H8537\|תֻמִּ֣]][[H9020\|י]] [[H5921A\|עָלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INTEGRITY|INTEGRITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.7.7|<< Psalms 7:7]]</td><td align="center" style="border:none;">[[Ps.7|Psalms 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.7.9|Psalms 7:9 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Genesis 34:10
+type: Verse
+kjv: "And ye shall dwell with us: and the land shall be before you; dwell and trade ye therein, and get you possessions therein."
+bsb: "You may settle among us, and the land will be open to you. Live here, move about freely, and acquire your own property.”"
+hebrew: "וְאִתָּ֖נוּ תֵּשֵׁ֑בוּ וְהָאָ֙רֶץ֙ תִּהְיֶ֣ה לִפְנֵיכֶ֔ם שְׁבוּ֙ וּסְחָר֔וּהָ וְהֵֽאָחֲז֖וּ בָּֽהּ׃"
+pericope: "[[Gen.34.1 The Defiling of Dinah|The Defiling of Dinah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 34
+book/chapter: "[[Gen.34|Genesis 34]]"
+chronological_order: 76
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0854]]"
+- "[[H9035]]"
+- "[[H3427]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9026]]"
+- "[[H5503]]"
+- "[[H9034]]"
+- "[[H0270]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 34:10**<big><big>[[Gen.34.1 The Defiling of Dinah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall dwell with us: and the land shall be before you; dwell and trade ye therein, and get you possessions therein.
 <small><sub>**BSB:**</sub></small>
 You may settle among us, and the land will be open to you. Live here, move about freely, and acquire your own property.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0854\|אִתָּ֖]][[H9035\|נוּ]] [[H3427\|תֵּשֵׁ֑בוּ]] [[H9002\|וְ]][[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H1961\|תִּהְיֶ֣ה]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9026\|כֶ֔ם]] [[H3427\|שְׁבוּ֙]] [[H9002\|וּ]][[H5503\|סְחָר֔וּ]][[H9034\|הָ]] [[H9002\|וְ]][[H0270\|הֵֽאָחֲז֖וּ]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.9|<< Genesis 34:9]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.11|Genesis 34:11 >>]]</td></tr></table>
 

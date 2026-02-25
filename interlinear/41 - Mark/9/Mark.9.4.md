@@ -1,10 +1,55 @@
+---
+title: Mark 9:4
+type: Verse
+kjv: "And there appeared unto them Elias with Moses: and they were talking with Jesus."
+bsb: "And Elijah and Moses appeared before them, talking with Jesus."
+greek: "καὶ ὤφθη αὐτοῖς Ἠλίας σὺν Μωϋσεῖ, καὶ ἦσαν συλλαλοῦντες τῷ Ἰησοῦ."
+pericope: "[[Mark.9.1 The Transfiguration|The Transfiguration]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G2532]]"
+- "[[G3700]]"
+- "[[G0846]]"
+- "[[G2243]]"
+- "[[G4862]]"
+- "[[G3475]]"
+- "[[G1510]]"
+- "[[G4814]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+texts:
+- NKO
+---
+
 **Mark 9:4**<big><big>[[Mark.9.1 The Transfiguration|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there appeared unto them Elias with Moses: and they were talking with Jesus.
 <small><sub>**BSB:**</sub></small>
 And Elijah and Moses appeared before them, talking with Jesus.
-<small><sub>**Literal:**</sub></small>
-And appeared to them Elijah with Moses, and they were talking with <the> Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.3|<< Mark 9:3]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.5|Mark 9:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3700\|ὤφθη]]  [[G0846\|αὐτοῖς]]  [[G2243\|Ἠλίας]]  [[G4862\|σὺν]]  [[G3475\|Μωϋσεῖ,]]  [[G2532\|καὶ]]  [[G1510\|ἦσαν]]  [[G4814\|συλλαλοῦντες]]  [[G3588\|τῷ]]  [[G2424G\|Ἰησοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ELIJAH|ELIJAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOSES|MOSES]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.3|<< Mark 9:3]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.5|Mark 9:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

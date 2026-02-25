@@ -1,8 +1,66 @@
+---
+title: Leviticus 1:16
+type: Verse
+kjv: "And he shall pluck away his crop with his feathers, and cast it beside the altar on the east part, by the place of the ashes:"
+bsb: "And he is to remove the crop with its contents and throw it to the east side of the altar, in the place for ashes."
+hebrew: "וְהֵסִ֥יר אֶת־ מֻרְאָת֖וֹ בְּנֹצָתָ֑הּ וְהִשְׁלִ֨יךְ אֹתָ֜הּ אֵ֤צֶל הַמִּזְבֵּ֙חַ֙ קֵ֔דְמָה אֶל־ מְק֖וֹם הַדָּֽשֶׁן׃"
+pericope: "[[Lev.1.1 Laws for Burnt Offerings|Laws for Burnt Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 1
+book/chapter: "[[Lev.1|Leviticus 1]]"
+chronological_order: 133
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DOVE, TURTLE|DOVE, TURTLE]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H5493G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4760]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H5133]]"
+- "[[H9024]]"
+- "[[H7993]]"
+- "[[H9034]]"
+- "[[H0681]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H6924B]]"
+- "[[H9011]]"
+- "[[H0413]]"
+- "[[H4725]]"
+- "[[H1880]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 1:16**<big><big>[[Lev.1.1 Laws for Burnt Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall pluck away his crop with his feathers, and cast it beside the altar on the east part, by the place of the ashes:
 <small><sub>**BSB:**</sub></small>
 And he is to remove the crop with its contents and throw it to the east side of the altar, in the place for ashes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5493G\|הֵסִ֥יר]] [[H0853\|אֶת]][[H9014\|־]] [[H4760\|מֻרְאָת֖]][[H9023\|וֹ]] [[H9003\|בְּ]][[H5133\|נֹצָתָ֑]][[H9024\|הּ]] [[H9001\|וְ]][[H7993\|הִשְׁלִ֨יךְ]] [[H0853\|אֹתָ֜]][[H9034\|הּ]] [[H0681\|אֵ֤צֶל]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֙חַ֙]] [[H6924B\|קֵ֔דְמָ]][[H9011\|ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4725\|מְק֖וֹם]] [[H9009\|הַ]][[H1880\|דָּֽשֶׁן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOVE, TURTLE|DOVE, TURTLE]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.1.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.1.15|<< Leviticus 1:15]]</td><td align="center" style="border:none;">[[Lev.1|Leviticus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.1.17|Leviticus 1:17 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Psalm 39:5
+type: Verse
+kjv: "Behold, thou hast made my days as an handbreadth; and mine age is as nothing before thee: verily every man at his best state is altogether vanity. Selah."
+bsb: "You, indeed, have made my days as handbreadths, and my lifetime as nothing before You. Truly each man at his best exists as but a breath. Selah"
+hebrew: "הִנֵּ֤ה טְפָח֨וֹת׀ נָ֘תַ֤תָּה יָמַ֗י וְחֶלְדִּ֣י כְאַ֣יִן נֶגְדֶּ֑ךָ אַ֥ךְ כָּֽל־ הֶ֥בֶל כָּל־ אָ֝דָ֗ם נִצָּ֥ב סֶֽלָה׃"
+pericope: "[[Ps.39.1 I Will Watch My Ways|I Will Watch My Ways]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 39
+book/chapter: "[[Ps.39|Psalm 39]]"
+chronological_order: 366
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic HANDBREADTH|HANDBREADTH]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic VANITY|VANITY]]"
+strongs:
+- "[[H2009]]"
+- "[[H2947]]"
+- "[[H9015]]"
+- "[[H5414I]]"
+- "[[H3117G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H2465]]"
+- "[[H9004]]"
+- "[[H0369]]"
+- "[[H5048]]"
+- "[[H9031]]"
+- "[[H0389]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1892]]"
+- "[[H0120G]]"
+- "[[H5324]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 39:5**<big><big>[[Ps.39.1 I Will Watch My Ways|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, thou hast made my days [as] an handbreadth; and mine age [is] as nothing before thee: verily every man at his best state [is] altogether vanity. Selah.
 <small><sub>**BSB:**</sub></small>
 You, indeed, have made my days as handbreadths, and my lifetime as nothing before You. Truly each man at his best exists as but a breath. Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֤ה]] [[H2947\|טְפָח֨וֹת]][[H9015\|׀]] [[H5414I\|נָ֘תַ֤תָּה]] [[H3117G\|יָמַ֗]][[H9020\|י]] [[H9002\|וְ]][[H2465\|חֶלְדִּ֣]][[H9020\|י]] [[H9004\|כְ]][[H0369\|אַ֣יִן]] [[H5048\|נֶגְדֶּ֑]][[H9031\|ךָ]] [[H0389\|אַ֥ךְ]] [[H3605\|כָּֽל]][[H9014\|־]] [[H1892\|הֶ֥בֶל]] [[H3605\|כָּל]][[H9014\|־]] [[H0120G\|אָ֝דָ֗ם]] [[H5324\|נִצָּ֥ב]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HANDBREADTH|HANDBREADTH]] • [[topic LIFE|LIFE]] • [[topic MEASURE|MEASURE]] • [[topic VANITY|VANITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.39.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.39.4|<< Psalms 39:4]]</td><td align="center" style="border:none;">[[Ps.39|Psalms 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.39.6|Psalms 39:6 >>]]</td></tr></table>
 

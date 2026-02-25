@@ -1,8 +1,64 @@
+---
+title: Lamentations 1:14
+type: Verse
+kjv: "The yoke of my transgressions is bound by his hand: they are wreathed, and come up upon my neck: he hath made my strength to fall, the Lord hath delivered me into their hands, from whom I am not able to rise up."
+bsb: "My transgressions are bound into a yoke, knit together by His hand; they are draped over my neck, and the Lord has broken my strength. He has delivered me into the hands of those I cannot withstand."
+hebrew: "נִשְׂקַד֩ עֹ֨ל פְּשָׁעַ֜י בְּיָד֗וֹ יִשְׂתָּֽרְג֛וּ עָל֥וּ עַל־ צַוָּארִ֖י הִכְשִׁ֣יל כֹּחִ֑י נְתָנַ֣נִי אֲדֹנָ֔י בִּידֵ֖י לֹא־ אוּכַ֥ל קֽוּם׃ ס"
+pericope: "[[Lam.1.1 How Lonely Lies the City!|How Lonely Lies the City!]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 1
+book/chapter: "[[Lam.1|Lamentations 1]]"
+chronological_order: 776
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic SIN|SIN]]"
+- "[[topic YOKE|YOKE]]"
+strongs:
+- "[[H8244]]"
+- "[[H5923]]"
+- "[[H6588]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H8276]]"
+- "[[H5927H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6677A]]"
+- "[[H3782]]"
+- "[[H3581B]]"
+- "[[H5414G]]"
+- "[[H9030]]"
+- "[[H0136]]"
+- "[[H3027H]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H6965I]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Lamentations 1:14**<big><big>[[Lam.1.1 How Lonely Lies the City!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The yoke of my transgressions is bound by his hand: they are wreathed, [and] come up upon my neck: he hath made my strength to fall, the Lord hath delivered me into [their] hands, [from whom] I am not able to rise up.
 <small><sub>**BSB:**</sub></small>
 My transgressions are bound into a yoke, knit together by His hand; they are draped over my neck, and the Lord has broken my strength. He has delivered me into the hands of those I cannot withstand.
+<small><sub>**Hebrew:**</sub></small>
+[[H8244\|נִשְׂקַד֩]] [[H5923\|עֹ֨ל]] [[H6588\|פְּשָׁעַ֜]][[H9020\|י]] [[H9003\|בְּ]][[H3027G\|יָד֗]][[H9023\|וֹ]] [[H8276\|יִשְׂתָּֽרְג֛וּ]] [[H5927H\|עָל֥וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H6677A\|צַוָּארִ֖]][[H9020\|י]] [[H3782\|הִכְשִׁ֣יל]] [[H3581B\|כֹּחִ֑]][[H9020\|י]] [[H5414G\|נְתָנַ֣]][[H9030\|נִי]] [[H0136\|אֲדֹנָ֔י]] [[H9003\|בִּ]][[H3027H\|ידֵ֖י]] [[H3808\|לֹא]][[H9014\|־]] [[H3201\|אוּכַ֥ל]] [[H6965I\|קֽוּם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SIN|SIN]] • [[topic YOKE|YOKE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.13|<< Lamentations 1:13]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.15|Lamentations 1:15 >>]]</td></tr></table>
 
@@ -23,7 +79,7 @@ My transgressions are bound into a yoke, knit together by His hand; they are dra
 | in [the] hands of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3027H\|ידֵ֖י]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> Dei<small><sup>[[HNcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those whom] not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I am able  |**<big>&#8207;[[H3201\|אוּכַ֥ל]]&#8207; </big>**| 'u.Khal<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to stand  |**<big>&#8207;[[H6965I\|קֽוּם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Kum<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to stand  |**<big>&#8207;[[H6965I\|קֽוּם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Kum<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.13|<< Lamentations 1:13]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.15|Lamentations 1:15 >>]]</td></tr></table>
 
 

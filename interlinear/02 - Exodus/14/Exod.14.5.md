@@ -1,8 +1,81 @@
+---
+title: Exodus 14:5
+type: Verse
+kjv: "And it was told the king of Egypt that the people fled: and the heart of Pharaoh and of his servants was turned against the people, and they said, Why have we done this, that we have let Israel go from serving us?"
+bsb: "When the king of Egypt was told that the people had fled, Pharaoh and his officials changed their minds about them and said, “What have we done? We have released Israel from serving us.”"
+hebrew: "וַיֻּגַּד֙ לְמֶ֣לֶךְ מִצְרַ֔יִם כִּ֥י בָרַ֖ח הָעָ֑ם וַ֠יֵּהָפֵךְ לְבַ֨ב פַּרְעֹ֤ה וַעֲבָדָיו֙ אֶל־ הָעָ֔ם וַיֹּֽאמרוּ֙ מַה־ זֹּ֣את עָשִׂ֔ינוּ כִּֽי־ שִׁלַּ֥חְנוּ אֶת־ יִשְׂרָאֵ֖ל מֵעָבְדֵֽנוּ׃"
+pericope: "[[Exod.14.1 Pharaoh Pursues the Israelites|Pharaoh Pursues the Israelites]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 14
+book/chapter: "[[Exod.14|Exodus 14]]"
+chronological_order: 106
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H4714G]]"
+- "[[H3588A]]"
+- "[[H1272]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2015]]"
+- "[[H3824]]"
+- "[[H6547J]]"
+- "[[H9002]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H2063]]"
+- "[[H6213A]]"
+- "[[H7971H]]"
+- "[[H0853]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H5647G]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 14:5**<big><big>[[Exod.14.1 Pharaoh Pursues the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was told the king of Egypt that the people fled: and the heart of Pharaoh and of his servants was turned against the people, and they said, Why have we done this, that we have let Israel go from serving us?
 <small><sub>**BSB:**</sub></small>
 When the king of Egypt was told that the people had fled, Pharaoh and his officials changed their minds about them and said, “What have we done? We have released Israel from serving us.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5046\|יֻּגַּד֙]] [[H9005\|לְ]][[H4428G\|מֶ֣לֶךְ]] [[H4714G\|מִצְרַ֔יִם]] [[H3588A\|כִּ֥י]] [[H1272\|בָרַ֖ח]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H9001\|וַ֠]][[H2015\|יֵּהָפֵךְ]] [[H3824\|לְבַ֨ב]] [[H6547J\|פַּרְעֹ֤ה]] [[H9002\|וַ]][[H5650\|עֲבָדָי]][[H9023\|ו֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9001\|וַ]][[H0559\|יֹּֽאמרוּ֙]] [[H4100\|מַה]][[H9014\|־]] [[H2063\|זֹּ֣את]] [[H6213A\|עָשִׂ֔ינוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7971H\|שִׁלַּ֥חְנוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9006\|מֵ]][[H5647G\|עָבְדֵֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHARACTER|CHARACTER]] • [[topic EGYPT|EGYPT]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic INSTABILITY|INSTABILITY]] • [[topic ISRAEL|ISRAEL]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.14.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.4|<< Exodus 14:4]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.6|Exodus 14:6 >>]]</td></tr></table>
 

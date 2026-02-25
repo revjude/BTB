@@ -1,8 +1,68 @@
+---
+title: 1 Chronicles 22:13
+type: Verse
+kjv: "Then shalt thou prosper, if thou takest heed to fulfil the statutes and judgments which the LORD charged Moses with concerning Israel: be strong, and of good courage; dread not, nor be dismayed."
+bsb: "Then you will succeed, if you carefully follow the statutes and ordinances that the LORD commanded Moses for Israel. Be strong and courageous. Do not be afraid or discouraged."
+hebrew: "אָ֣ז תַּצְלִ֔יחַ אִם־ תִּשְׁמ֗וֹר לַעֲשׂוֹת֙ אֶת־ הַֽחֻקִּ֣ים וְאֶת־ הַמִּשְׁפָּטִ֔ים אֲשֶׁ֨ר צִוָּ֧ה יְהוָ֛ה אֶת־ מֹשֶׁ֖ה עַל־ יִשְׂרָאֵ֑ל חֲזַ֣ק וֶאֱמָ֔ץ אַל־ תִּירָ֖א וְאַל־ תֵּחָֽת׃"
+pericope: "[[1Chr.22.6 Solomon Anointed to Build the Temple|Solomon Anointed to Build the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 22
+book/chapter: "[[1Chr.22|1 Chronicles 22]]"
+chronological_order: 433
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0227A]]"
+- "[[H6743B]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H8104J]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H2706G]]"
+- "[[H9002]]"
+- "[[H4941G]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H4872]]"
+- "[[H5921A]]"
+- "[[H3478]]"
+- "[[H2388G]]"
+- "[[H0553]]"
+- "[[H0408]]"
+- "[[H3372G]]"
+- "[[H2865]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 22:13**<big><big>[[1Chr.22.6 Solomon Anointed to Build the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shalt thou prosper, if thou takest heed to fulfil the statutes and judgments which the LORD charged Moses with concerning Israel: be strong, and of good courage; dread not, nor be dismayed.
 <small><sub>**BSB:**</sub></small>
 Then you will succeed, if you carefully follow the statutes and ordinances that the LORD commanded Moses for Israel. Be strong and courageous. Do not be afraid or discouraged.
+<small><sub>**Hebrew:**</sub></small>
+[[H0227A\|אָ֣ז]] [[H6743B\|תַּצְלִ֔יחַ]] [[H0518A\|אִם]][[H9014\|־]] [[H8104J\|תִּשְׁמ֗וֹר]] [[H9005\|לַ]][[H6213A\|עֲשׂוֹת֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H2706G\|חֻקִּ֣ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4941G\|מִּשְׁפָּטִ֔ים]] [[H0834A\|אֲשֶׁ֨ר]] [[H6680\|צִוָּ֧ה]] [[H3068G\|יְהוָ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶׁ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H2388G\|חֲזַ֣ק]] [[H9002\|וֶ]][[H0553\|אֱמָ֔ץ]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָ֖א]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H2865\|תֵּחָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHILDREN|CHILDREN]] • [[topic COURAGE|COURAGE]] • [[topic DAVID|DAVID]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.22.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.22.12|<< 1 Chronicles 22:12]]</td><td align="center" style="border:none;">[[1Chr.22|1 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.22.14|1 Chronicles 22:14 >>]]</td></tr></table>
 

@@ -1,8 +1,77 @@
+---
+title: Numbers 14:3
+type: Verse
+kjv: "And wherefore hath the LORD brought us unto this land, to fall by the sword, that our wives and our children should be a prey? were it not better for us to return into Egypt?"
+bsb: "Why is the LORD bringing us into this land to fall by the sword? Our wives and children will become plunder. Would it not be better for us to go back to Egypt?”"
+hebrew: "וְלָמָ֣ה יְ֠הוָה מֵבִ֨יא אֹתָ֜נוּ אֶל־ הָאָ֤רֶץ הַזֹּאת֙ לִנְפֹּ֣ל בַּחֶ֔רֶב נָשֵׁ֥ינוּ וְטַפֵּ֖נוּ יִהְי֣וּ לָבַ֑ז הֲל֧וֹא ט֦וֹב לָ֖נוּ שׁ֥וּב מִצְרָֽיְמָה׃"
+pericope: "[[Num.14.1 Israel’s Rebellion|Israel’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 14
+book/chapter: "[[Num.14|Numbers 14]]"
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H3068G]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9035]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H5307J]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H0802H]]"
+- "[[H9025]]"
+- "[[H2945]]"
+- "[[H1961]]"
+- "[[H0957]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H2896A]]"
+- "[[H7725G]]"
+- "[[H4714G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 14:3**<big><big>[[Num.14.1 Israel’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And wherefore hath the LORD brought us unto this land, to fall by the sword, that our wives and our children should be a prey? were it not better for us to return into Egypt?
 <small><sub>**BSB:**</sub></small>
 Why is the LORD bringing us into this land to fall by the sword? Our wives and children will become plunder. Would it not be better for us to go back to Egypt?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לָ]][[H4100\|מָ֣ה]] [[H3068G\|יְ֠הוָה]] [[H0935P\|מֵבִ֨יא]] [[H0853\|אֹתָ֜]][[H9035\|נוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֤רֶץ]] [[H9009\|הַ]][[H2063\|זֹּאת֙]] [[H9005\|לִ]][[H5307J\|נְפֹּ֣ל]] [[H9003\|בַּ]][[H2719\|חֶ֔רֶב]] [[H0802H\|נָשֵׁ֥י]][[H9025\|נוּ]] [[H9002\|וְ]][[H2945\|טַפֵּ֖]][[H9025\|נוּ]] [[H1961\|יִהְי֣וּ]] [[H9005\|לָ]][[H0957\|בַ֑ז]] [[H9008\|הֲ]][[H3808\|ל֧וֹא]] [[H2896A\|ט֦וֹב]] [[H9005\|לָ֖]][[H9035\|נוּ]] [[H7725G\|שׁ֥וּב]] [[H4714G\|מִצְרָֽיְמָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic COWARDICE|COWARDICE]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.2|<< Numbers 14:2]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.4|Numbers 14:4 >>]]</td></tr></table>
 

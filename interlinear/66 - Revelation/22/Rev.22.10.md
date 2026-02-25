@@ -1,10 +1,57 @@
+---
+title: Revelation 22:10
+type: Verse
+kjv: "And he saith unto me, Seal not the sayings of the prophecy of this book: for the time is at hand."
+bsb: "Then he told me, “Do not seal up the words of prophecy in this book, because the time is near."
+greek: "Καὶ λέγει μοι· μὴ σφραγίσῃς τοὺς λόγους τῆς προφητείας τοῦ βιβλίου τούτου ὅτι, ὁ καιρὸς γὰρ ἐγγύς ἐστιν."
+pericope: "[[Rev.22.6 Jesus Is Coming|Jesus Is Coming]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 22
+book/chapter: "[[Rev.22|Revelation 22]]"
+chronological_order: 1189
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G3165]]"
+- "[[G3361]]"
+- "[[G4972]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G4394]]"
+- "[[G0975]]"
+- "[[G3778]]"
+- "[[G3754G]]"
+- "[[G2540]]"
+- "[[G1063]]"
+- "[[G1451]]"
+- "[[G1510]]"
+texts:
+- NKO
+- k
+---
+
 **Revelation 22:10**<big><big>[[Rev.22.6 Jesus Is Coming|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he saith unto me, Seal not the sayings of the prophecy of this book: for the time is at hand.
 <small><sub>**BSB:**</sub></small>
 Then he told me, “Do not seal up the words of prophecy in this book, because the time is near.
-<small><sub>**Literal:**</sub></small>
-And he says to me; Not may seal the words of the prophecy of the book this that the time for near is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.9|<< Revelation 22:9]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.11|Revelation 22:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3004G\|λέγει]]  [[G3165\|μοι·]]  [[G3361\|μὴ]]  [[G4972\|σφραγίσῃς]]  [[G3588\|τοὺς]]  [[G3056\|λόγους]]  [[G3588\|τῆς]]  [[G4394\|προφητείας]]  [[G3588\|τοῦ]]  [[G0975\|βιβλίου]]  [[G3778\|τούτου]]  [[G3754G\|ὅτι,]]  [[G3588\|ὁ]]  [[G2540\|καιρὸς]]  [[G1063\|γὰρ]]  [[G1451\|ἐγγύς]]  [[G1510\|ἐστιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.9|<< Revelation 22:9]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.11|Revelation 22:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 22:10** is...
 > $\quad$ possibly alluding to: [[LXX.Dan.8.26|Dan 8:26]] ☩ [[LXX.Dan.12.4|Dan 12:4]]

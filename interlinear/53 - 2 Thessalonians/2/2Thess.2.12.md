@@ -1,10 +1,60 @@
+---
+title: 2 Thessalonians 2:12
+type: Verse
+kjv: "That they all might be damned who believed not the truth, but had pleasure in unrighteousness."
+bsb: "in order that judgment may come upon all who have disbelieved the truth and delighted in wickedness."
+greek: "ἵνα κριθῶσιν πάντες οἱ μὴ πιστεύσαντες τῇ ἀληθείᾳ ἀλλ᾽ εὐδοκήσαντες ἐν τῇ ἀδικίᾳ.¶"
+pericope: "[[2Thess.2.1 The Man of Lawlessness|The Man of Lawlessness]]"
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 2
+book/chapter: "[[2Thess.2|2 Thessalonians 2]]"
+chronological_order: 1054
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic ANTICHRIST|ANTICHRIST]]"
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PLEASURE|PLEASURE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic TRUTH|TRUTH]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G2443]]"
+- "[[G2919]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3361]]"
+- "[[G4100]]"
+- "[[G0225]]"
+- "[[G0235]]"
+- "[[G2106]]"
+- "[[G1722]]"
+- "[[G0093]]"
+texts:
+- NKO
+- NK(o)
+- k
+---
+
 **2 Thessalonians 2:12**<big><big>[[2Thess.2.1 The Man of Lawlessness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That they all might be damned who believed not the truth, but had pleasure in unrighteousness.
 <small><sub>**BSB:**</sub></small>
 in order that judgment may come upon all who have disbelieved the truth and delighted in wickedness.
-<small><sub>**Literal:**</sub></small>
-in order that may be judged all those not having believed the truth but having delighted in <the> in unrighteousness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.11|<< 2 Thessalonians 2:11]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.13|2 Thessalonians 2:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G2919\|κριθῶσιν]]  [[G3956\|πάντες]]  [[G3588\|οἱ]]  [[G3361\|μὴ]]  [[G4100\|πιστεύσαντες]]  [[G3588\|τῇ]]  [[G0225\|ἀληθείᾳ]]  [[G0235\|ἀλλ᾽]]  [[G2106\|εὐδοκήσαντες]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0093\|ἀδικίᾳ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTICHRIST|ANTICHRIST]] • [[topic APOSTASY|APOSTASY]] • [[topic BLINDNESS|BLINDNESS]] • [[topic MIRACLES|MIRACLES]] • [[topic PLEASURE|PLEASURE]] • [[topic REPROBACY|REPROBACY]] • [[topic TRUTH|TRUTH]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.11|<< 2 Thessalonians 2:11]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.13|2 Thessalonians 2:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

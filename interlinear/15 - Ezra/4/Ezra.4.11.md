@@ -1,8 +1,63 @@
+---
+title: Ezra 4:11
+type: Verse
+kjv: "This is the copy of the letter that they sent unto him, even unto Artaxerxes the king; Thy servants the men on this side the river, and at such a time."
+bsb: "(This is the text of the letter they sent to him.) To King Artaxerxes, From your servants, the men west of the Euphrates:"
+aramaic: "דְּנָה֙ פַּרְשֶׁ֣גֶן אִגַּרְתָּ֔א דִּ֚י שְׁלַ֣חוּ עֲל֔וֹהִי עַל־ אַרְתַּחְשַׁ֖שְׂתְּא מַלְכָּ֑א עַבְדָ֛ךְ אֱנָ֥שׁ עֲבַֽר־ נַהֲרָ֖ה וּכְעֶֽנֶת׃ פ"
+pericope: "[[Ezra.4.6 Opposition under Xerxes and Artaxerxes|Opposition under Xerxes and Artaxerxes]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 4
+book/chapter: "[[Ezra.4|Ezra 4]]"
+chronological_order: 852
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic ARTAXERXES|ARTAXERXES]]"
+- "[[topic BISHLAM|BISHLAM]]"
+strongs:
+- "[[H1836]]"
+- "[[H6573]]"
+- "[[H0104]]"
+- "[[H9010]]"
+- "[[H1768]]"
+- "[[H7972]]"
+- "[[H5922]]"
+- "[[H9033]]"
+- "[[H9014]]"
+- "[[H0783B]]"
+- "[[H4430]]"
+- "[[H5649]]"
+- "[[H9021]]"
+- "[[H0606]]"
+- "[[H5675]]"
+- "[[H5103G]]"
+- "[[H9002]]"
+- "[[H3706]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezra 4:11**<big><big>[[Ezra.4.6 Opposition under Xerxes and Artaxerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the copy of the letter that they sent unto him, [even] unto Artaxerxes the king; Thy servants the men on this side the river, and at such a time.
 <small><sub>**BSB:**</sub></small>
 (This is the text of the letter they sent to him.) To King Artaxerxes, From your servants, the men west of the Euphrates:
+<small><sub>**Aramaic:**</sub></small>
+[[H1836\|דְּנָה֙]] [[H6573\|פַּרְשֶׁ֣גֶן]] [[H0104\|אִגַּרְתָּ֔]][[H9010\|א]] [[H1768\|דִּ֚י]] [[H7972\|שְׁלַ֣חוּ]] [[H5922\|עֲל֔וֹ]][[H9033\|הִי]] [[H5922\|עַל]][[H9014\|־]] [[H0783B\|אַרְתַּחְשַׁ֖שְׂתְּא]] [[H4430\|מַלְכָּ֑]][[H9010\|א]] [[H5649\|עַבְדָ֛]][[H9021\|ךְ]] [[H0606\|אֱנָ֥שׁ]] [[H5675\|עֲבַֽר]][[H9014\|־]] [[H5103G\|נַהֲרָ֖]][[H9010\|ה]] [[H9002\|וּ]][[H3706\|כְעֶֽנֶת]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic ARTAXERXES|ARTAXERXES]] • [[topic BISHLAM|BISHLAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.10|<< Ezra 4:10]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.12|Ezra 4:12 >>]]</td></tr></table>
 
@@ -21,10 +76,10 @@ This [is] the copy of the letter that they sent unto him, [even] unto Artaxerxes
 | [the] man of  |**<big>&#8207;[[H0606\|אֱנָ֥שׁ]]&#8207; </big>**| 'e.Nash<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] region beyond  |**<big>&#8207;[[H5675\|עֲבַֽר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.var-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | river the  |**<big>&#8207;[[H5103G\|נַהֲרָ֖]]&#8207;&#8207;[[H9010\|ה]]&#8207; </big>**| na.ha.Rah<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and now  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3706\|כְעֶֽנֶת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> khe.'E.net<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and now  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3706\|כְעֶֽנֶת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> khe.'E.net<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.10|<< Ezra 4:10]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.12|Ezra 4:12 >>]]</td></tr></table>
 
-[^1]: servants your  | **<big>[[H9021|ךָ]]</big><big>[[H5649|עֲבָדֶ֣י]]</big> ** | av.da.yi<small><sup>[[ANcbsc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> | K
-[^2]: servants your  | **<big>[[H9021|ךָ]]</big><big>[[H5649|עֲבָדֶ֣י]]</big> ** | av.da.yi<small><sup>[[ANcbsc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> | K
+[^1]: servants your  | **<big>[[H5649|עֲבָדֶ֣י]]</big><big>[[H9021|ךָ]]</big> ** | av.da.yi<small><sup>[[ANcbsc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> | K
+[^2]: servants your  | **<big>[[H5649|עֲבָדֶ֣י]]</big><big>[[H9021|ךָ]]</big> ** | av.da.yi<small><sup>[[ANcbsc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> | K
 [^3]: L spelled: **<span class="asaramaic"><big>עַבְדָ֛יךְ</big></span>**
 

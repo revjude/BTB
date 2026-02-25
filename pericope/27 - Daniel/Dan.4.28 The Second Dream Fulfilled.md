@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Second Dream Fulfilled
+type: Pericope
 pericope: "[[Dan.4.28 The Second Dream Fulfilled|The Second Dream Fulfilled]]"
-verse_count: 6
+original_language: Aramaic
 testament: Old
 book: Daniel
 chapter: 4
 book/chapter: "[[Dan.4|Daniel 4]]"
-genre:
+chronological_order: 789
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 6
 verses:
 - "[[Dan.4.28]]"
 - "[[Dan.4.29]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Dan.4.33]]"
 ---
 
-[[Dan.4|Daniel 4:28 - Daniel 4:33]]
+<small>[[Dan.4|Daniel 4:28-33]]</small>
 *The Second Dream Fulfilled*
 
 [[Dan.4.28|28]] All this came upon the king Nebuchadnezzar.

@@ -1,8 +1,64 @@
+---
+title: Daniel 8:17
+type: Verse
+kjv: "So he came near where I stood: and when he came, I was afraid, and fell upon my face: but he said unto me, Understand, O son of man: for at the time of the end shall be the vision."
+bsb: "As he came near to where I stood, I was terrified and fell facedown. “Son of man,” he said to me, “understand that the vision concerns the time of the end.”"
+hebrew: "וַיָּבֹא֙ אֵ֣צֶל עָמְדִ֔י וּבְבֹא֣וֹ נִבְעַ֔תִּי וָאֶפְּלָ֖ה עַל־ פָּנָ֑י וַיֹּ֤אמֶר אֵלַי֙ הָבֵ֣ן בֶּן־ אָדָ֔ם כִּ֖י לְעֶת־ קֵ֥ץ הֶחָזֽוֹן׃"
+pericope: "[[Dan.8.15 Gabriel Interprets Daniel’s Vision|Gabriel Interprets Daniel’s Vision]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 8
+book/chapter: "[[Dan.8|Daniel 8]]"
+chronological_order: 844
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0681]]"
+- "[[H5977]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H9043]]"
+- "[[H1204]]"
+- "[[H5307G]]"
+- "[[H9012]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440H]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0995]]"
+- "[[H1121A]]"
+- "[[H0120G]]"
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H6256]]"
+- "[[H7093]]"
+- "[[H9009]]"
+- "[[H2377]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 8:17**<big><big>[[Dan.8.15 Gabriel Interprets Daniel’s Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So he came near where I stood: and when he came, I was afraid, and fell upon my face: but he said unto me, Understand, O son of man: for at the time of the end [shall be] the vision.
 <small><sub>**BSB:**</sub></small>
 As he came near to where I stood, I was terrified and fell facedown. “Son of man,” he said to me, “understand that the vision concerns the time of the end.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹא֙]] [[H0681\|אֵ֣צֶל]] [[H5977\|עָמְדִ֔]][[H9020\|י]] [[H9002\|וּ]][[H9003\|בְ]][[H0935G\|בֹא֣]][[H9043\|וֹ]] [[H1204\|נִבְעַ֔תִּי]] [[H9001\|וָ]][[H5307G\|אֶפְּלָ֖]][[H9012\|ה]] [[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פָּנָ֑]][[H9020\|י]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֵלַ]][[H9030\|י֙]] [[H0995\|הָבֵ֣ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֔ם]] [[H3588A\|כִּ֖י]] [[H9005\|לְ]][[H6256\|עֶת]][[H9014\|־]] [[H7093\|קֵ֥ץ]] [[H9009\|הֶ]][[H2377\|חָזֽוֹן]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.16|<< Daniel 8:16]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.18|Daniel 8:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

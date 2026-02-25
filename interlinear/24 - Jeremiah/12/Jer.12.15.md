@@ -1,8 +1,58 @@
+---
+title: Jeremiah 12:15
+type: Verse
+kjv: "And it shall come to pass, after that I have plucked them out I will return, and have compassion on them, and will bring them again, every man to his heritage, and every man to his land."
+bsb: "But after I have uprooted them, I will once again have compassion on them and return each one to his inheritance and to his land."
+hebrew: "וְהָיָ֗ה אַֽחֲרֵי֙ נָתְשִׁ֣י אוֹתָ֔ם אָשׁ֖וּב וְרִֽחַמְתִּ֑ים וַהֲשִׁבֹתִ֛ים אִ֥ישׁ לְנַחֲלָת֖וֹ וְאִ֥ישׁ לְאַרְצֽוֹ׃"
+pericope: "[[Jer.12.14 A Message for Israel’s Neighbors|A Message for Israel’s Neighbors]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 12
+book/chapter: "[[Jer.12|Jeremiah 12]]"
+chronological_order: 729
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0310A]]"
+- "[[H5428]]"
+- "[[H9040]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H7725J]]"
+- "[[H7355]]"
+- "[[H0376I]]"
+- "[[H9005]]"
+- "[[H5159]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 12:15**<big><big>[[Jer.12.14 A Message for Israel’s Neighbors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, after that I have plucked them out I will return, and have compassion on them, and will bring them again, every man to his heritage, and every man to his land.
 <small><sub>**BSB:**</sub></small>
 But after I have uprooted them, I will once again have compassion on them and return each one to his inheritance and to his land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H0310A\|אַֽחֲרֵי֙]] [[H5428\|נָתְשִׁ֣]][[H9040\|י]] [[H0853\|אוֹתָ֔]][[H9038\|ם]] [[H7725J\|אָשׁ֖וּב]] [[H9001\|וְ]][[H7355\|רִֽחַמְתִּ֑י]][[H9038\|ם]] [[H9001\|וַ]][[H7725J\|הֲשִׁבֹתִ֛י]][[H9038\|ם]] [[H0376I\|אִ֥ישׁ]] [[H9005\|לְ]][[H5159\|נַחֲלָת֖]][[H9023\|וֹ]] [[H9002\|וְ]][[H0376I\|אִ֥ישׁ]] [[H9005\|לְ]][[H0776G\|אַרְצֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.12.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.12.14|<< Jeremiah 12:14]]</td><td align="center" style="border:none;">[[Jer.12|Jeremiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.12.16|Jeremiah 12:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

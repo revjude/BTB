@@ -1,8 +1,65 @@
+---
+title: Daniel 12:2
+type: Verse
+kjv: "And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt."
+bsb: "And many who sleep in the dust of the earth will awake, some to everlasting life, but others to shame and everlasting contempt."
+hebrew: "וְרַבִּ֕ים מִיְּשֵׁנֵ֥י אַדְמַת־ עָפָ֖ר יָקִ֑יצוּ אֵ֚לֶּה לְחַיֵּ֣י עוֹלָ֔ם וְאֵ֥לֶּה לַחֲרָפ֖וֹת לְדִרְא֥וֹן עוֹלָֽם׃ ס"
+pericope: "[[Dan.12.1 The End Times|The End Times]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 12
+book/chapter: "[[Dan.12|Daniel 12]]"
+chronological_order: 848
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H7227A]]"
+- "[[H9006]]"
+- "[[H3463]]"
+- "[[H0127G]]"
+- "[[H9014]]"
+- "[[H6083]]"
+- "[[H6974]]"
+- "[[H0428]]"
+- "[[H9005]]"
+- "[[H2416E]]"
+- "[[H5769G]]"
+- "[[H2781]]"
+- "[[H1860]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Daniel 12:2**<big><big>[[Dan.12.1 The End Times|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame [and] everlasting contempt.
 <small><sub>**BSB:**</sub></small>
 And many who sleep in the dust of the earth will awake, some to everlasting life, but others to shame and everlasting contempt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7227A\|רַבִּ֕ים]] [[H9006\|מִ]][[H3463\|יְּשֵׁנֵ֥י]] [[H0127G\|אַדְמַת]][[H9014\|־]] [[H6083\|עָפָ֖ר]] [[H6974\|יָקִ֑יצוּ]] [[H0428\|אֵ֚לֶּה]] [[H9005\|לְ]][[H2416E\|חַיֵּ֣י]] [[H5769G\|עוֹלָ֔ם]] [[H9002\|וְ]][[H0428\|אֵ֥לֶּה]] [[H9005\|לַ]][[H2781\|חֲרָפ֖וֹת]] [[H9005\|לְ]][[H1860\|דִרְא֥וֹן]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DEATH|DEATH]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic LIFE|LIFE]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic RESURRECTION|RESURRECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.12.1|<< Daniel 12:1]]</td><td align="center" style="border:none;">[[Dan.12|Daniel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.12.3|Daniel 12:3 >>]]</td></tr></table>
 
@@ -19,7 +76,7 @@ And many who sleep in the dust of the earth will awake, some to everlasting life
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֥לֶּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to reproaches  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H2781\|חֲרָפ֖וֹת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> cha.ra.Fot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to abhorrence of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1860\|דִרְא֥וֹן]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> dir.'on<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| perpetuity  |**<big>&#8207;[[H5769G\|עוֹלָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perpetuity  |**<big>&#8207;[[H5769G\|עוֹלָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.12.1|<< Daniel 12:1]]</td><td align="center" style="border:none;">[[Dan.12|Daniel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.12.3|Daniel 12:3 >>]]</td></tr></table>
 
 

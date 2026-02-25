@@ -1,8 +1,51 @@
+---
+title: Proverbs 15:4
+type: Verse
+kjv: "A wholesome tongue is a tree of life: but perverseness therein is a breach in the spirit."
+bsb: "A soothing tongue is a tree of life, but a perverse tongue crushes the spirit."
+hebrew: "מַרְפֵּ֣א לָ֭שׁוֹן עֵ֣ץ חַיִּ֑ים וְסֶ֥לֶף בָּ֝֗הּ שֶׁ֣בֶר בְּרֽוּחַ׃"
+pericope: "[[Prov.15.1 A Gentle Answer Turns Away Wrath|A Gentle Answer Turns Away Wrath]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 15
+book/chapter: "[[Prov.15|Proverbs 15]]"
+chronological_order: 470
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H4832]]"
+- "[[H3956G]]"
+- "[[H6086H]]"
+- "[[H2416E]]"
+- "[[H9002]]"
+- "[[H5558]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H7667]]"
+- "[[H7307G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 15:4**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A wholesome tongue [is] a tree of life: but perverseness therein [is] a breach in the spirit.
 <small><sub>**BSB:**</sub></small>
 A soothing tongue is a tree of life, but a perverse tongue crushes the spirit.
+<small><sub>**Hebrew:**</sub></small>
+[[H4832\|מַרְפֵּ֣א]] [[H3956G\|לָ֭שׁוֹן]] [[H6086H\|עֵ֣ץ]] [[H2416E\|חַיִּ֑ים]] [[H9002\|וְ]][[H5558\|סֶ֥לֶף]] [[H9003\|בָּ֝֗]][[H9034\|הּ]] [[H7667\|שֶׁ֣בֶר]] [[H9003\|בְּ]][[H7307G\|רֽוּחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.3|<< Proverbs 15:3]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.5|Proverbs 15:5 >>]]</td></tr></table>
 

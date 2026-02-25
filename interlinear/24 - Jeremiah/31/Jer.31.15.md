@@ -1,8 +1,69 @@
+---
+title: Jeremiah 31:15
+type: Verse
+kjv: "Thus saith the LORD; A voice was heard in Ramah, lamentation, and bitter weeping; Rahel weeping for her children refused to be comforted for her children, because they were not."
+bsb: "This is what the LORD says: “A voice is heard in Ramah, mourning and great weeping, Rachel weeping for her children and refusing to be comforted, because they are no more.”"
+hebrew: "כֹּ֣ה׀ אָמַ֣ר יְהוָ֗ה ק֣וֹל בְּרָמָ֤ה נִשְׁמָע֙ נְהִי֙ בְּכִ֣י תַמְרוּרִ֔ים רָחֵ֖ל מְבַכָּ֣ה עַל־ בָּנֶ֑יהָ מֵאֲנָ֛ה לְהִנָּחֵ֥ם עַל־ בָּנֶ֖יהָ כִּ֥י אֵינֶֽנּוּ׃ ס"
+pericope: "[[Jer.31.1 Mourning Turned to Joy|Mourning Turned to Joy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RAMAH|RAMAH]]"
+strongs:
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6963A]]"
+- "[[H9003]]"
+- "[[H7414G]]"
+- "[[H8085G]]"
+- "[[H5092]]"
+- "[[H1065]]"
+- "[[H8563]]"
+- "[[H7354]]"
+- "[[H1058]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9024]]"
+- "[[H3985]]"
+- "[[H9005]]"
+- "[[H5162G]]"
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 31:15**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD; A voice was heard in Ramah, lamentation, [and] bitter weeping; Rahel weeping for her children refused to be comforted for her children, because they [were] not.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: “A voice is heard in Ramah, mourning and great weeping, Rachel weeping for her children and refusing to be comforted, because they are no more.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֣ה]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H6963A\|ק֣וֹל]] [[H9003\|בְּ]][[H7414G\|רָמָ֤ה]] [[H8085G\|נִשְׁמָע֙]] [[H5092\|נְהִי֙]] [[H1065\|בְּכִ֣י]] [[H8563\|תַמְרוּרִ֔ים]] [[H7354\|רָחֵ֖ל]] [[H1058\|מְבַכָּ֣ה]] [[H5921A\|עַל]][[H9014\|־]] [[H1121A\|בָּנֶ֑י]][[H9024\|הָ]] [[H3985\|מֵאֲנָ֛ה]] [[H9005\|לְ]][[H5162G\|הִנָּחֵ֥ם]] [[H5921A\|עַל]][[H9014\|־]] [[H1121A\|בָּנֶ֖י]][[H9024\|הָ]] [[H3588A\|כִּ֥י]] [[H0369\|אֵינֶֽ]][[H9043\|נּוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RAMAH|RAMAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.14|<< Jeremiah 31:14]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.16|Jeremiah 31:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -30,7 +91,7 @@ This is what the LORD says: “A voice is heard in Ramah, mourning and great wee
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | children her  |**<big>&#8207;[[H1121A\|בָּנֶ֖י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| ba.Nei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there not [is] he  |**<big>&#8207;[[H0369\|אֵינֶֽ]]&#8207;&#8207;[[H9043\|נּוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'ei.Ne.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there not [is] he  |**<big>&#8207;[[H0369\|אֵינֶֽ]]&#8207;&#8207;[[H9043\|נּוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'ei.Ne.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.14|<< Jeremiah 31:14]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.16|Jeremiah 31:16 >>]]</td></tr></table>
 
 

@@ -1,8 +1,61 @@
+---
+title: Jeremiah 35:10
+type: Verse
+kjv: "But we have dwelt in tents, and have obeyed, and done according to all that Jonadab our father commanded us."
+bsb: "But we have lived in tents and have obeyed and done exactly as our forefather Jonadab commanded us."
+hebrew: "וַנֵּ֖שֶׁב בָּֽאֳהָלִ֑ים וַנִּשְׁמַ֣ע וַנַּ֔עַשׂ כְּכֹ֥ל אֲשֶׁר־ צִוָּ֖נוּ יוֹנָדָ֥ב אָבִֽינוּ׃"
+pericope: "[[Jer.35.1 The Obedience of the Rechabites|The Obedience of the Rechabites]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 35
+book/chapter: "[[Jer.35|Jeremiah 35]]"
+chronological_order: 758
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ABSTINENCE|ABSTINENCE]]"
+- "[[topic HANAN|HANAN]]"
+- "[[topic JONADAB|JONADAB]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H0168G]]"
+- "[[H8085H]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H6680]]"
+- "[[H9035]]"
+- "[[H3122H]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 35:10**<big><big>[[Jer.35.1 The Obedience of the Rechabites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But we have dwelt in tents, and have obeyed, and done according to all that Jonadab our father commanded us.
 <small><sub>**BSB:**</sub></small>
 But we have lived in tents and have obeyed and done exactly as our forefather Jonadab commanded us.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3427\|נֵּ֖שֶׁב]] [[H9003\|בָּֽ]][[H0168G\|אֳהָלִ֑ים]] [[H9001\|וַ]][[H8085H\|נִּשְׁמַ֣ע]] [[H9001\|וַ]][[H6213A\|נַּ֔עַשׂ]] [[H9004\|כְּ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוָּ֖]][[H9035\|נוּ]] [[H3122H\|יוֹנָדָ֥ב]] [[H0001G\|אָבִֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSTINENCE|ABSTINENCE]] • [[topic HANAN|HANAN]] • [[topic JONADAB|JONADAB]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.35.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.35.9|<< Jeremiah 35:9]]</td><td align="center" style="border:none;">[[Jer.35|Jeremiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35.11|Jeremiah 35:11 >>]]</td></tr></table>
 

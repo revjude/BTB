@@ -1,10 +1,63 @@
+---
+title: Mark 10:51
+type: Verse
+kjv: "And Jesus answered and said unto him, What wilt thou that I should do unto thee? The blind man said unto him, Lord, that I might receive my sight."
+bsb: "“What do you want Me to do for you?” Jesus asked. “Rabboni,” said the blind man, “let me see again.”"
+jesus_said: "What wilt thou that I should do unto thee?"
+greek: "καὶ ἀποκριθεὶς αὐτῷ ὁ Ἰησοῦς εἶπεν· τί σοι θέλεις ποιήσω; ὁ δὲ τυφλὸς εἶπεν αὐτῷ· ραββουνι, ἵνα ἀναβλέψω."
+pericope: "[[Mark.10.46 Jesus Heals Bartimaeus|Jesus Heals Bartimaeus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic RABBI|RABBI]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G5101]]"
+- "[[G4771]]"
+- "[[G2309]]"
+- "[[G4160G]]"
+- "[[G1161]]"
+- "[[G5185]]"
+- "[[G4462]]"
+- "[[G2443]]"
+- "[[G0308]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 10:51**<big><big>[[Mark.10.46 Jesus Heals Bartimaeus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus answered and said unto him, What wilt thou that I should do unto thee? The blind man said unto him, Lord, that I might receive my sight.
 <small><sub>**BSB:**</sub></small>
 “What do you want Me to do for you?” Jesus asked. “Rabboni,” said the blind man, “let me see again.”
-<small><sub>**Literal:**</sub></small>
-And answering to him <the> Jesus said; What to you do you desire I may do <the> And the blind [man] said to Him; Rabboni, that I may receive sight.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.50|<< Mark 10:50]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.52|Mark 10:52 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0611\|ἀποκριθεὶς]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν·]]  [[G5101\|τί]]  [[G4771\|σοι]]  [[G2309\|θέλεις]]  [[G4160G\|ποιήσω;]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G5185\|τυφλὸς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G4462\|ραββουνι,]]  [[G2443\|ἵνα]]  [[G0308\|ἀναβλέψω.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]] • [[topic BLINDNESS|BLINDNESS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic RABBI|RABBI]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.50|<< Mark 10:50]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.52|Mark 10:52 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

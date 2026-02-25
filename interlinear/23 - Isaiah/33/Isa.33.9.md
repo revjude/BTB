@@ -1,8 +1,60 @@
+---
+title: Isaiah 33:9
+type: Verse
+kjv: "The earth mourneth and languisheth: Lebanon is ashamed and hewn down: Sharon is like a wilderness; and Bashan and Carmel shake off their fruits."
+bsb: "The land mourns and languishes; Lebanon is ashamed and decayed. Sharon is like a desert; Bashan and Carmel shake off their leaves."
+hebrew: "אָבַ֤ל אֻמְלְלָה֙ אָ֔רֶץ הֶחְפִּ֥יר לְבָנ֖וֹן קָמַ֑ל הָיָ֤ה הַשָּׁרוֹן֙ כָּֽעֲרָבָ֔ה וְנֹעֵ֥ר בָּשָׁ֖ן וְכַרְמֶֽל׃"
+pericope: "[[Isa.33.1 The LORD Is Exalted|The LORD Is Exalted]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 33
+book/chapter: "[[Isa.33|Isaiah 33]]"
+chronological_order: 676
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BASHAN|BASHAN]]"
+- "[[topic CARMEL|CARMEL]]"
+- "[[topic SHARON|SHARON]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H0056]]"
+- "[[H0535]]"
+- "[[H0776G]]"
+- "[[H2659]]"
+- "[[H3844G]]"
+- "[[H7060]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H8289I]]"
+- "[[H9004]]"
+- "[[H6160G]]"
+- "[[H9002]]"
+- "[[H5287]]"
+- "[[H1316]]"
+- "[[H3760G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 33:9**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The earth mourneth [and] languisheth: Lebanon is ashamed [and] hewn down: Sharon is like a wilderness; and Bashan and Carmel shake off [their fruits].
 <small><sub>**BSB:**</sub></small>
 The land mourns and languishes; Lebanon is ashamed and decayed. Sharon is like a desert; Bashan and Carmel shake off their leaves.
+<small><sub>**Hebrew:**</sub></small>
+[[H0056\|אָבַ֤ל]] [[H0535\|אֻמְלְלָה֙]] [[H0776G\|אָ֔רֶץ]] [[H2659\|הֶחְפִּ֥יר]] [[H3844G\|לְבָנ֖וֹן]] [[H7060\|קָמַ֑ל]] [[H1961\|הָיָ֤ה]] [[H9009\|הַ]][[H8289I\|שָּׁרוֹן֙]] [[H9004\|כָּֽ]][[H6160G\|עֲרָבָ֔ה]] [[H9002\|וְ]][[H5287\|נֹעֵ֥ר]] [[H1316\|בָּשָׁ֖ן]] [[H9002\|וְ]][[H3760G\|כַרְמֶֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BASHAN|BASHAN]] • [[topic CARMEL|CARMEL]] • [[topic SHARON|SHARON]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.8|<< Isaiah 33:8]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.10|Isaiah 33:10 >>]]</td></tr></table>
 

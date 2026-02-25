@@ -1,8 +1,62 @@
+---
+title: Deuteronomy 25:17
+type: Verse
+kjv: "Remember what Amalek did unto thee by the way, when ye were come forth out of Egypt;"
+bsb: "Remember what the Amalekites did to you along your way from Egypt,"
+hebrew: "זָכ֕וֹר אֵ֛ת אֲשֶׁר־ עָשָׂ֥ה לְךָ֖ עֲמָלֵ֑ק בַּדֶּ֖רֶךְ בְּצֵאתְכֶ֥ם מִמִּצְרָֽיִם׃"
+pericope: "[[Deut.25.17 Revenge on the Amalekites|Revenge on the Amalekites]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 25
+book/chapter: "[[Deut.25|Deuteronomy 25]]"
+chronological_order: 221
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic RETALIATION|RETALIATION]]"
+strongs:
+- "[[H2142]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H6002G]]"
+- "[[H9003]]"
+- "[[H1870L]]"
+- "[[H3318G]]"
+- "[[H9046]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 25:17**<big><big>[[Deut.25.17 Revenge on the Amalekites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember what Amalek did unto thee by the way, when ye were come forth out of Egypt;
 <small><sub>**BSB:**</sub></small>
 Remember what the Amalekites did to you along your way from Egypt,
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|זָכ֕וֹר]] [[H0853\|אֵ֛ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|עָשָׂ֥ה]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H6002G\|עֲמָלֵ֑ק]] [[H9003\|בַּ]][[H1870L\|דֶּ֖רֶךְ]] [[H9003\|בְּ]][[H3318G\|צֵאתְ]][[H9046\|כֶ֥ם]] [[H9006\|מִ]][[H4714G\|מִּצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMALEKITES|AMALEKITES]] • [[topic ISRAEL|ISRAEL]] • [[topic RETALIATION|RETALIATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.25.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.25.16|<< Deuteronomy 25:16]]</td><td align="center" style="border:none;">[[Deut.25|Deuteronomy 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.25.18|Deuteronomy 25:18 >>]]</td></tr></table>
 

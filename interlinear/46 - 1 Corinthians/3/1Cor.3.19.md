@@ -1,10 +1,56 @@
+---
+title: 1 Corinthians 3:19
+type: Verse
+kjv: "For the wisdom of this world is foolishness with God. For it is written, He taketh the wise in their own craftiness."
+bsb: "For the wisdom of this world is foolishness in God’s sight. As it is written: “He catches the wise in their craftiness.”"
+greek: "ἡ γὰρ σοφία τοῦ κόσμου τούτου μωρία παρὰ τῷ θεῷ ἐστιν. γέγραπται γάρ· ὁ δρασσόμενος τοὺς σοφοὺς ἐν τῇ πανουργίᾳ αὐτῶν·"
+pericope: "[[1Cor.3.16 God’s Temple and God’s Wisdom|God’s Temple and God’s Wisdom]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 3
+book/chapter: "[[1Cor.3|1 Corinthians 3]]"
+chronological_order: 1060
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G4678]]"
+- "[[G2889]]"
+- "[[G3778]]"
+- "[[G3472]]"
+- "[[G3844]]"
+- "[[G2316]]"
+- "[[G1510]]"
+- "[[G1125]]"
+- "[[G1405]]"
+- "[[G4680]]"
+- "[[G1722]]"
+- "[[G3834]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 3:19**<big><big>[[1Cor.3.16 God’s Temple and God’s Wisdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the wisdom of this world is foolishness with God. For it is written, He taketh the wise in their own craftiness.
 <small><sub>**BSB:**</sub></small>
 For the wisdom of this world is foolishness in God’s sight. As it is written: “He catches the wise in their craftiness.”
-<small><sub>**Literal:**</sub></small>
-The for wisdom of the world this foolishness with <the> God is. It has been written for: [He is] the [One] catching the wise in the craftiness of them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.18|<< 1 Corinthians 3:18]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.20|1 Corinthians 3:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G1063\|γὰρ]]  [[G4678\|σοφία]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου]]  [[G3778\|τούτου]]  [[G3472\|μωρία]]  [[G3844\|παρὰ]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G1510\|ἐστιν.]]  [[G1125\|γέγραπται]]  [[G1063\|γάρ·]]  [[G3588\|ὁ]]  [[G1405\|δρασσόμενος]]  [[G3588\|τοὺς]]  [[G4680\|σοφοὺς]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3834\|πανουργίᾳ]]  [[G0846\|αὐτῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IGNORANCE|IGNORANCE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.18|<< 1 Corinthians 3:18]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.20|1 Corinthians 3:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Corinthians 3:19** is...
 > $\quad$ referencing: [[LXX.Job.5.12|Job 5:12-13]]

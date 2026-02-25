@@ -1,10 +1,63 @@
+---
+title: 2 Corinthians 1:19
+type: Verse
+kjv: "For the Son of God, Jesus Christ, who was preached among you by us, even by me and Silvanus and Timotheus, was not yea and nay, but in him was yea."
+bsb: "For the Son of God, Jesus Christ, who was proclaimed among you by me and Silvanus and Timothy, was not “Yes” and “No,” but in Him it has always been “Yes.”"
+greek: "ὁ τοῦ θεοῦ γὰρ υἱὸς Ἰησοῦς Χριστὸς ὁ ἐν ὑμῖν δι᾽ ἡμῶν κηρυχθείς, δι᾽ ἐμοῦ καὶ Σιλουανοῦ καὶ Τιμοθέου, οὐκ ἐγένετο ναὶ καὶ οὒ, ἀλλὰ ναὶ ἐν αὐτῷ γέγονεν·"
+pericope: "[[2Cor.1.12 Paul’s Change of Plans|Paul’s Change of Plans]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 1
+book/chapter: "[[2Cor.1|2 Corinthians 1]]"
+chronological_order: 1074
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SILAS|SILAS]]"
+- "[[topic TIMOTHY|TIMOTHY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1063]]"
+- "[[G5207]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G1223]]"
+- "[[G3165]]"
+- "[[G2784]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4610]]"
+- "[[G5095]]"
+- "[[G3756]]"
+- "[[G1096]]"
+- "[[G3483]]"
+- "[[G0235]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 1:19**<big><big>[[2Cor.1.12 Paul’s Change of Plans|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the Son of God, Jesus Christ, who was preached among you by us, [even] by me and Silvanus and Timotheus, was not yea and nay, but in him was yea.
 <small><sub>**BSB:**</sub></small>
 For the Son of God, Jesus Christ, who was proclaimed among you by me and Silvanus and Timothy, was not “Yes” and “No,” but in Him it has always been “Yes.”
-<small><sub>**Literal:**</sub></small>
-The <the> of God for Son Jesus Christ the [One] among you through us having been proclaimed through me and Silvanus and Timothy, not was Yes and No, but Yes in Him it has always been;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.18|<< 2 Corinthians 1:18]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.20|2 Corinthians 1:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1063\|γὰρ]]  [[G5207\|υἱὸς]]  [[G2424G\|Ἰησοῦς]]  [[G5547\|Χριστὸς]]  [[G3588\|ὁ]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G1223\|δι᾽]]  [[G3165\|ἡμῶν]]  [[G2784\|κηρυχθείς,]]  [[G1223\|δι᾽]]  [[G1473\|ἐμοῦ]]  [[G2532\|καὶ]]  [[G4610\|Σιλουανοῦ]]  [[G2532\|καὶ]]  [[G5095\|Τιμοθέου,]]  [[G3756\|οὐκ]]  [[G1096\|ἐγένετο]]  [[G3483\|ναὶ]]  [[G2532\|καὶ]]  [[G3756\|οὒ,]]  [[G0235\|ἀλλὰ]]  [[G3483\|ναὶ]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ]]  [[G1096\|γέγονεν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SILAS|SILAS]] • [[topic TIMOTHY|TIMOTHY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.18|<< 2 Corinthians 1:18]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.20|2 Corinthians 1:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

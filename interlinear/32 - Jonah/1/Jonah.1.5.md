@@ -1,8 +1,77 @@
+---
+title: Jonah 1:5
+type: Verse
+kjv: "Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that were in the ship into the sea, to lighten it of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep."
+bsb: "The sailors were afraid, and each cried out to his own god. And they threw the ship’s cargo into the sea to lighten the load. But Jonah had gone down to the lowest part of the vessel, where he lay down and fell into a deep sleep."
+hebrew: "וַיִּֽירְא֣וּ הַמַּלָּחִ֗ים וַֽיִּזְעֲקוּ֮ אִ֣ישׁ אֶל־ אֱלֹהָיו֒ וַיָּטִ֨לוּ אֶת־ הַכֵּלִ֜ים אֲשֶׁ֤ר בָּֽאֳנִיָּה֙ אֶל־ הַיָּ֔ם לְהָקֵ֖ל מֵֽעֲלֵיהֶ֑ם וְיוֹנָ֗ה יָרַד֙ אֶל־ יַרְכְּתֵ֣י הַסְּפִינָ֔ה וַיִּשְׁכַּ֖ב וַיֵּרָדַֽם׃"
+pericope: "[[Jonah.1.4 The Great Storm|The Great Storm]]"
+original_language: Hebrew
+testament: Old
+book: Jonah
+chapter: 1
+book/chapter: "[[Jonah.1|Jonah 1]]"
+chronological_order: 594
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JONAH|JONAH]]"
+- "[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+strongs:
+- "[[H9001]]"
+- "[[H3372G]]"
+- "[[H9009]]"
+- "[[H4419]]"
+- "[[H2199]]"
+- "[[H0376I]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0430]]"
+- "[[H9023]]"
+- "[[H2904]]"
+- "[[H0853]]"
+- "[[H3627]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H0591]]"
+- "[[H3220G]]"
+- "[[H9005]]"
+- "[[H7043]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H3124]]"
+- "[[H3381]]"
+- "[[H3411]]"
+- "[[H5600]]"
+- "[[H7901G]]"
+- "[[H7290]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jonah 1:5**<big><big>[[Jonah.1.4 The Great Storm|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that [were] in the ship into the sea, to lighten [it] of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep.
 <small><sub>**BSB:**</sub></small>
 The sailors were afraid, and each cried out to his own god. And they threw the ship’s cargo into the sea to lighten the load. But Jonah had gone down to the lowest part of the vessel, where he lay down and fell into a deep sleep.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3372G\|יִּֽירְא֣וּ]] [[H9009\|הַ]][[H4419\|מַּלָּחִ֗ים]] [[H9001\|וַֽ]][[H2199\|יִּזְעֲקוּ֮]] [[H0376I\|אִ֣ישׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H0430\|אֱלֹהָי]][[H9023\|ו֒]] [[H9001\|וַ]][[H2904\|יָּטִ֨לוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3627\|כֵּלִ֜ים]] [[H0834A\|אֲשֶׁ֤ר]] [[H9003\|בָּֽ]][[H0591\|אֳנִיָּה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּ֔ם]] [[H9005\|לְ]][[H7043\|הָקֵ֖ל]] [[H9006\|מֵֽ]][[H5921A\|עֲלֵי]][[H9038\|הֶ֑ם]] [[H9002\|וְ]][[H3124\|יוֹנָ֗ה]] [[H3381\|יָרַד֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3411\|יַרְכְּתֵ֣י]] [[H9009\|הַ]][[H5600\|סְּפִינָ֔ה]] [[H9001\|וַ]][[H7901G\|יִּשְׁכַּ֖ב]] [[H9001\|וַ]][[H7290\|יֵּרָדַֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic CONVERTS|CONVERTS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JONAH|JONAH]] • [[topic MARINERS (SAILORS)|MARINERS (SAILORS)]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SUPERSTITION|SUPERSTITION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.1.4|<< Jonah 1:4]]</td><td align="center" style="border:none;">[[Jonah.1|Jonah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.1.6|Jonah 1:6 >>]]</td></tr></table>
 

@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Bridegroom
+type: Pericope
 pericope: "[[Song.4.1 The Bridegroom|The Bridegroom]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Song of Solomon
 chapter: 4
 book/chapter: "[[Song.4|Song of Solomon 4]]"
-genre:
+chronological_order: 451
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
 - poetry
 - love poetry
 - megillot
+verse_count: 15
 verses:
 - "[[Song.4.1]]"
 - "[[Song.4.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Song.4.15]]"
 ---
 
-[[Song.4|Song of Solomon 4:1 - Song of Solomon 4:15]]
+<small>[[Song.4|Song of Solomon 4:1-15]]</small>
 *The Bridegroom*
 
 [[Song.4.1|1]] Behold, thou \[art\] fair, my love; behold, thou \[art\] fair; thou \[hast\] doves’ eyes within thy locks: thy hair \[is\] as a flock of goats, that appear from mount Gilead.

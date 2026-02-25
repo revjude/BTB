@@ -1,8 +1,62 @@
+---
+title: Deuteronomy 25:14
+type: Verse
+kjv: "Thou shalt not have in thine house divers measures, a great and a small."
+bsb: "You shall not have two differing measures in your house, one large and one small."
+hebrew: "לֹא־ יִהְיֶ֥ה לְךָ֛ בְּבֵיתְךָ֖ אֵיפָ֣ה וְאֵיפָ֑ה גְּדוֹלָ֖ה וּקְטַנָּֽה׃"
+pericope: "[[Deut.25.13 Standard Weights and Measures|Standard Weights and Measures]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 25
+book/chapter: "[[Deut.25|Deuteronomy 25]]"
+chronological_order: 221
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ABOMINATION|ABOMINATION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic HONESTY|HONESTY]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic WEIGHTS|WEIGHTS]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H9021]]"
+- "[[H0374]]"
+- "[[H9002]]"
+- "[[H1419A]]"
+- "[[H6996A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 25:14**<big><big>[[Deut.25.13 Standard Weights and Measures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not have in thine house divers measures, a great and a small.
 <small><sub>**BSB:**</sub></small>
 You shall not have two differing measures in your house, one large and one small.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H1961\|יִהְיֶ֥ה]] [[H9005\|לְ]][[H9031\|ךָ֛]] [[H9003\|בְּ]][[H1004B\|בֵיתְ]][[H9021\|ךָ֖]] [[H0374\|אֵיפָ֣ה]] [[H9002\|וְ]][[H0374\|אֵיפָ֑ה]] [[H1419A\|גְּדוֹלָ֖ה]] [[H9002\|וּ]][[H6996A\|קְטַנָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABOMINATION|ABOMINATION]] • [[topic DISHONESTY|DISHONESTY]] • [[topic HONESTY|HONESTY]] • [[topic MEASURE|MEASURE]] • [[topic WEIGHTS|WEIGHTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.25.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.25.13|<< Deuteronomy 25:13]]</td><td align="center" style="border:none;">[[Deut.25|Deuteronomy 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.25.15|Deuteronomy 25:15 >>]]</td></tr></table>
 

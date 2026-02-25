@@ -1,8 +1,57 @@
+---
+title: 1 Kings 8:60
+type: Verse
+kjv: "That all the people of the earth may know that the LORD is God, and that there is none else."
+bsb: "so that all the peoples of the earth may know that the LORD is God. There is no other!"
+hebrew: "לְמַ֗עַן דַּ֚עַת כָּל־ עַמֵּ֣י הָאָ֔רֶץ כִּ֥י יְהוָ֖ה ה֣וּא הָאֱלֹהִ֑ים אֵ֖ין עֽוֹד׃"
+pericope: "[[1Kgs.8.54 Solomon’s Benediction|Solomon’s Benediction]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H4616]]"
+- "[[H3045]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H1931]]"
+- "[[H0430G]]"
+- "[[H0369]]"
+- "[[H5750]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:60**<big><big>[[1Kgs.8.54 Solomon’s Benediction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That all the people of the earth may know that the LORD [is] God, [and that there is] none else.
 <small><sub>**BSB:**</sub></small>
 so that all the peoples of the earth may know that the LORD is God. There is no other!
+<small><sub>**Hebrew:**</sub></small>
+[[H4616\|לְמַ֗עַן]] [[H3045\|דַּ֚עַת]] [[H3605\|כָּל]][[H9014\|־]] [[H5971A\|עַמֵּ֣י]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H3588A\|כִּ֥י]] [[H3068G\|יְהוָ֖ה]] [[H1931\|ה֣וּא]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H0369\|אֵ֖ין]] [[H5750\|עֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.60|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.59|<< 1 Kings 8:59]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.61|1 Kings 8:61 >>]]</td></tr></table>
 

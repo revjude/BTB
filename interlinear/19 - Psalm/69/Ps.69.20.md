@@ -1,8 +1,62 @@
+---
+title: Psalm 69:20
+type: Verse
+kjv: "Reproach hath broken my heart; and I am full of heaviness: and I looked for some to take pity, but there was none; and for comforters, but I found none."
+bsb: "Insults have broken my heart, and I am in despair. I looked for sympathy, but there was none, for comforters, but I found no one."
+hebrew: "חֶרְפָּ֤ה׀ שָֽׁבְרָ֥ה לִבִּ֗י וָֽאָ֫נ֥וּשָׁה וָאֲקַוֶּ֣ה לָנ֣וּד וָאַ֑יִן וְ֝לַמְנַחֲמִ֗ים וְלֹ֣א מָצָֽאתִי׃"
+pericope: "[[Ps.69.1 The Waters Are up to My Neck|The Waters Are up to My Neck]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 69
+book/chapter: "[[Ps.69|Psalm 69]]"
+chronological_order: 377
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H2781]]"
+- "[[H9015]]"
+- "[[H7665]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H5136]]"
+- "[[H9012]]"
+- "[[H6960A]]"
+- "[[H9005]]"
+- "[[H5110]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H5162G]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 69:20**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Reproach hath broken my heart; and I am full of heaviness: and I looked [for some] to take pity, but [there was] none; and for comforters, but I found none.
 <small><sub>**BSB:**</sub></small>
 Insults have broken my heart, and I am in despair. I looked for sympathy, but there was none, for comforters, but I found no one.
+<small><sub>**Hebrew:**</sub></small>
+[[H2781\|חֶרְפָּ֤ה]][[H9015\|׀]] [[H7665\|שָֽׁבְרָ֥ה]] [[H3820A\|לִבִּ֗]][[H9020\|י]] [[H9001\|וָֽ]][[H5136\|אָ֫נ֥וּשָׁ]][[H9012\|ה]] [[H9001\|וָ]][[H6960A\|אֲקַוֶּ֣ה]] [[H9005\|לָ]][[H5110\|נ֣וּד]] [[H9002\|וָ]][[H0369\|אַ֑יִן]] [[H9002\|וְ֝]][[H9005\|לַ]][[H5162G\|מְנַחֲמִ֗ים]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H4672\|מָצָֽאתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.19|<< Psalms 69:19]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.21|Psalms 69:21 >>]]</td></tr></table>
 

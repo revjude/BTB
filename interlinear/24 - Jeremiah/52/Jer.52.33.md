@@ -1,8 +1,59 @@
+---
+title: Jeremiah 52:33
+type: Verse
+kjv: "And changed his prison garments: and he did continually eat bread before him all the days of his life."
+bsb: "So Jehoiachin changed out of his prison clothes, and he dined regularly at the king’s table for the rest of his life."
+hebrew: "וְשִׁנָּ֕ה אֵ֖ת בִּגְדֵ֣י כִלְא֑וֹ וְאָכַ֨ל לֶ֧חֶם לְפָנָ֛יו תָּמִ֖יד כָּל־ יְמֵ֥י חַיָּֽו׃"
+pericope: "[[Jer.52.31 Jehoiachin Released from Prison|Jehoiachin Released from Prison]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 52
+book/chapter: "[[Jer.52|Jeremiah 52]]"
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EVIL-MERODACH|EVIL-MERODACH]]"
+- "[[topic JEHOIACHIN|JEHOIACHIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H8138A]]"
+- "[[H0853]]"
+- "[[H0899B]]"
+- "[[H3608]]"
+- "[[H9023]]"
+- "[[H0398]]"
+- "[[H3899I]]"
+- "[[H9005]]"
+- "[[H6440H]]"
+- "[[H8548]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H2416E]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 52:33**<big><big>[[Jer.52.31 Jehoiachin Released from Prison|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And changed his prison garments: and he did continually eat bread before him all the days of his life.
 <small><sub>**BSB:**</sub></small>
 So Jehoiachin changed out of his prison clothes, and he dined regularly at the king’s table for the rest of his life.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8138A\|שִׁנָּ֕ה]] [[H0853\|אֵ֖ת]] [[H0899B\|בִּגְדֵ֣י]] [[H3608\|כִלְא֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H0398\|אָכַ֨ל]] [[H3899I\|לֶ֧חֶם]] [[H9005\|לְ]][[H6440H\|פָנָ֛י]][[H9023\|ו]] [[H8548\|תָּמִ֖יד]] [[H3605\|כָּל]][[H9014\|־]] [[H3117G\|יְמֵ֥י]] [[H2416E\|חַיָּֽ]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EVIL-MERODACH|EVIL-MERODACH]] • [[topic JEHOIACHIN|JEHOIACHIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.32|<< Jeremiah 52:32]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.34|Jeremiah 52:34 >>]]</td></tr></table>
 

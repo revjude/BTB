@@ -1,7 +1,7 @@
 
 **DESPONDENCY**
 
-→ General scriptures concerning [[Num.17.12|Nu 17:12]],[[Num.17.13|13]]; [[Deut.28.65|De 28:65]]-[[Deut.28.67|67]];  [[Job.3.1|Job 3:1]]-[[Job.3.26|26]]; [[Job.17.13|17:13]]-[[Job.17.16|16]]; [[Ps.31.22|Ps 31:22]]; [[Ps.77.7|77:7]]-[[Ps.77.9|9]]; [[Prov.13.12|Pr 13:12]]; [[Isa.2.19|Isa 2:19]]; [[Jer.2.25|Jer 2:25]]; [[Jer.8.20|8:20]]; [[Jer.18.12|18:12]];  [[Lam.3.1|La 3:1]]-[[Lam.3.21|21]]; [[Lam.5.22|5:22]]; [[Hos.10.8|Ho 10:8]]; [[Jonah.2.2|Jon 2:2]]-[[Jonah.2.4|4]]; [[Mic.7.1|Mic 7:1]]-[[Mic.7.7|7]]; [[Matt.24.30|Mt 24:30]]; [[Luke.13.27|Lu 13:27]],[[Luke.13.28|28]]; [[Luke.23.29|23:29]],[[Luke.23.30|30]];  [[Rev.6.14|Re 6:14]]-[[Rev.6.17|17]]; [[Rev.9.5|9:5]],[[Rev.9.6|6]]
+→ General scriptures concerning [[Num.17.12|Nu 17:12]],[[Num.17.13|13]]; [[Deut.28.65|De 28:65-67]];  [[Job.3.1|Job 3:1-26]]; [[Job.17.13|17:13-16]]; [[Ps.31.22|Ps 31:22]]; [[Ps.77.7|77:7-9]]; [[Prov.13.12|Pr 13:12]]; [[Isa.2.19|Isa 2:19]]; [[Jer.2.25|Jer 2:25]]; [[Jer.8.20|8:20]]; [[Jer.18.12|18:12]];  [[Lam.3.1|La 3:1-21]]; [[Lam.5.22|5:22]]; [[Hos.10.8|Ho 10:8]]; [[Jonah.2.2|Jon 2:2-4]]; [[Mic.7.1|Mic 7:1-7]]; [[Matt.24.30|Mt 24:30]]; [[Luke.13.27|Lu 13:27]],[[Luke.13.28|28]]; [[Luke.23.29|23:29]],[[Luke.23.30|30]];  [[Rev.6.14|Re 6:14-17]]; [[Rev.9.5|9:5]],[[Rev.9.6|6]]
 
 → See [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTION]]
 
@@ -37,7 +37,7 @@ When the people craved for meat [[Num.11.15|Nu 11:15]]
 
 - Jeremiah, see the above extracts from the Lamentations of Jeremiah
 
-→ COMFORT IN [[Isa.35.3|Isa 35:3]],[[Isa.35.4|4]]; [[Luke.18.1|Lu 18:1]]-[[Luke.18.8|8]]; [[Heb.12.12|Heb 12:12]],[[Heb.12.13|13]]
+→ COMFORT IN [[Isa.35.3|Isa 35:3]],[[Isa.35.4|4]]; [[Luke.18.1|Lu 18:1-8]]; [[Heb.12.12|Heb 12:12]],[[Heb.12.13|13]]
 
 - See [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTION, CONSOLATION IN]]
 

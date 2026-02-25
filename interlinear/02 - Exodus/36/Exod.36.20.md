@@ -1,8 +1,59 @@
+---
+title: Exodus 36:20
+type: Verse
+kjv: "And he made boards for the tabernacle of shittim wood, standing up."
+bsb: "Next, he constructed upright frames of acacia wood for the tabernacle."
+hebrew: "וַיַּ֥עַשׂ אֶת־ הַקְּרָשִׁ֖ים לַמִּשְׁכָּ֑ן עֲצֵ֥י שִׁטִּ֖ים עֹמְדִֽים׃"
+pericope: "[[Exod.36.20 The Frames and Bases|The Frames and Bases]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 36
+book/chapter: "[[Exod.36|Exodus 36]]"
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7175]]"
+- "[[H9005]]"
+- "[[H4908]]"
+- "[[H6086G]]"
+- "[[H7848]]"
+- "[[H5975I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 36:20**<big><big>[[Exod.36.20 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made boards for the tabernacle [of] shittim wood, standing up.
 <small><sub>**BSB:**</sub></small>
 Next, he constructed upright frames of acacia wood for the tabernacle.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֥עַשׂ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7175\|קְּרָשִׁ֖ים]] [[H9005\|לַ]][[H4908\|מִּשְׁכָּ֑ן]] [[H6086G\|עֲצֵ֥י]] [[H7848\|שִׁטִּ֖ים]] [[H5975I\|עֹמְדִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic ISRAEL|ISRAEL]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.19|<< Exodus 36:19]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.21|Exodus 36:21 >>]]</td></tr></table>
 

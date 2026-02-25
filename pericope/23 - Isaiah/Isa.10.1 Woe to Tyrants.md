@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Woe to Tyrants
+type: Pericope
 pericope: "[[Isa.10.1 Woe to Tyrants|Woe to Tyrants]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 10
 book/chapter: "[[Isa.10|Isaiah 10]]"
-genre:
+chronological_order: 620
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 4
 verses:
 - "[[Isa.10.1]]"
 - "[[Isa.10.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Isa.10.4]]"
 ---
 
-[[Isa.10|Isaiah 10:1 - Isaiah 10:4]]
+<small>[[Isa.10|Isaiah 10:1-4]]</small>
 *Woe to Tyrants*
 
 [[Isa.10.1|1]] Woe unto them that decree unrighteous decrees, and that write grievousness \[which\] they have prescribed;

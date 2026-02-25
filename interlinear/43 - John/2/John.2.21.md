@@ -1,10 +1,48 @@
+---
+title: John 2:21
+type: Verse
+kjv: "But he spake of the temple of his body."
+bsb: "But Jesus was speaking about the temple of His body."
+greek: "ἐκεῖνος δὲ ἔλεγεν περὶ τοῦ ναοῦ τοῦ σώματος αὐτοῦ."
+pericope: "[[John.2.12 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 2
+book/chapter: "[[John.2|John 2]]"
+chronological_order: 940
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G1565]]"
+- "[[G1161]]"
+- "[[G3004G]]"
+- "[[G4012]]"
+- "[[G3588]]"
+- "[[G3485]]"
+- "[[G4983]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **John 2:21**<big><big>[[John.2.12 Jesus Cleanses the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he spake of the temple of his body.
 <small><sub>**BSB:**</sub></small>
 But Jesus was speaking about the temple of His body.
-<small><sub>**Literal:**</sub></small>
-He however was speaking concerning the temple of the body of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.20|<< John 2:20]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.22|John 2:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1565\|ἐκεῖνος]]  [[G1161\|δὲ]]  [[G3004G\|ἔλεγεν]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G3485\|ναοῦ]]  [[G3588\|τοῦ]]  [[G4983\|σώματος]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.20|<< John 2:20]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.22|John 2:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

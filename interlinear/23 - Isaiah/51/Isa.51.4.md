@@ -1,8 +1,62 @@
+---
+title: Isaiah 51:4
+type: Verse
+kjv: "Hearken unto me, my people; and give ear unto me, O my nation: for a law shall proceed from me, and I will make my judgment to rest for a light of the people."
+bsb: "Pay attention to Me, My people, and listen to Me, My nation; for a law will go out from Me, and My justice will become a light to the nations; I will bring it about quickly."
+hebrew: "הַקְשִׁ֤יבוּ אֵלַי֙ עַמִּ֔י וּלְאוּמִּ֖י אֵלַ֣י הַאֲזִ֑ינוּ כִּ֤י תוֹרָה֙ מֵאִתִּ֣י תֵצֵ֔א וּמִשְׁפָּטִ֔י לְא֥וֹר עַמִּ֖ים אַרְגִּֽיעַ׃"
+pericope: "[[Isa.51.1 Salvation for Zion|Salvation for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 51
+book/chapter: "[[Isa.51|Isaiah 51]]"
+chronological_order: 690
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[H7181]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3816]]"
+- "[[H0238]]"
+- "[[H3588A]]"
+- "[[H8451]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H3318O]]"
+- "[[H4941H]]"
+- "[[H9005]]"
+- "[[H0216]]"
+- "[[H7280B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 51:4**<big><big>[[Isa.51.1 Salvation for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hearken unto me, my people; and give ear unto me, O my nation: for a law shall proceed from me, and I will make my judgment to rest for a light of the people.
 <small><sub>**BSB:**</sub></small>
 Pay attention to Me, My people, and listen to Me, My nation; for a law will go out from Me, and My justice will become a light to the nations; I will bring it about quickly.
+<small><sub>**Hebrew:**</sub></small>
+[[H7181\|הַקְשִׁ֤יבוּ]] [[H0413\|אֵלַ]][[H9030\|י֙]] [[H5971A\|עַמִּ֔]][[H9020\|י]] [[H9002\|וּ]][[H3816\|לְאוּמִּ֖]][[H9020\|י]] [[H0413\|אֵלַ֣]][[H9030\|י]] [[H0238\|הַאֲזִ֑ינוּ]] [[H3588A\|כִּ֤י]] [[H8451\|תוֹרָה֙]] [[H9006\|מֵ]][[H0854\|אִתִּ֣]][[H9030\|י]] [[H3318O\|תֵצֵ֔א]] [[H9002\|וּ]][[H4941H\|מִשְׁפָּטִ֔]][[H9020\|י]] [[H9005\|לְ]][[H0216\|א֥וֹר]] [[H5971A\|עַמִּ֖ים]] [[H7280B\|אַרְגִּֽיעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHURCH|CHURCH]] • [[topic GOSPEL|GOSPEL]] • [[topic SALVATION|SALVATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.51.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.3|<< Isaiah 51:3]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51.5|Isaiah 51:5 >>]]</td></tr></table>
 

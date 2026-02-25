@@ -15,7 +15,7 @@
 
 Moses [[Exod.2.15|Ex 2:15]]
 
-Absalom [[2Sam.13.34|2Sa 13:34]]-[[2Sam.13.38|38]]
+Absalom [[2Sam.13.34|2Sa 13:34-38]]
 
 - From the wrath of the king
 
@@ -23,5 +23,5 @@ David [[1Sam.21.10|1Sa 21:10]]
 
 Jeroboam [[1Kgs.11.40|1Ki 11:40]]
 
-Joseph, to Egypt [[Matt.2.13|Mt 2:13]]-[[Matt.2.15|15]]
+Joseph, to Egypt [[Matt.2.13|Mt 2:13-15]]
 

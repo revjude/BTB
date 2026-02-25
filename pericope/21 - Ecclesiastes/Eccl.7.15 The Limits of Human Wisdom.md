@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Limits of Human Wisdom
+type: Pericope
 pericope: "[[Eccl.7.15 The Limits of Human Wisdom|The Limits of Human Wisdom]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Ecclesiastes
 chapter: 7
 book/chapter: "[[Eccl.7|Ecclesiastes 7]]"
-genre:
+chronological_order: 545
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - philosophical
 - megillot
+verse_count: 15
 verses:
 - "[[Eccl.7.15]]"
 - "[[Eccl.7.16]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Eccl.7.29]]"
 ---
 
-[[Eccl.7|Ecclesiastes 7:15 - Ecclesiastes 7:29]]
+<small>[[Eccl.7|Ecclesiastes 7:15-29]]</small>
 *The Limits of Human Wisdom*
 
 [[Eccl.7.15|15]] All \[things\] have I seen in the days of my vanity: there is a just \[man\] that perisheth in his righteousness, and there is a wicked \[man\] that prolongeth \[his life\] in his wickedness.

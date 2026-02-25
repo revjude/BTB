@@ -1,26 +1,33 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Greeting from Peter
+type: Pericope
 pericope: "[[1Pet.1.1 A Greeting from Peter|A Greeting from Peter]]"
-verse_count: 2
+original_language: Greek
 testament: New
 book: 1 Peter
 chapter: 1
 book/chapter: "[[1Pet.1|1 Peter 1]]"
-genre:
+chronological_order: 1135
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
 - epistle
 - general epistle
 - circular letter
 - persecution literature
+verse_count: 2
 verses:
 - "[[1Pet.1.1]]"
 - "[[1Pet.1.2]]"
 ---
 
-[[1Pet.1|1 Peter 1:1 - 1 Peter 1:2]]
+<small>[[1Pet.1|1 Peter 1:1-2]]</small>
 *A Greeting from Peter*
 
 [[1Pet.1.1|1]] Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,

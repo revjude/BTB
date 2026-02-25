@@ -1,8 +1,74 @@
+---
+title: Jeremiah 38:22
+type: Verse
+kjv: "And, behold, all the women that are left in the king of Judah’s house shall be brought forth to the king of Babylon’s princes, and those women shall say, Thy friends have set thee on, and have prevailed against thee: thy feet are sunk in the mire, and they are turned away back."
+bsb: "All the women who remain in the palace of the king of Judah will be brought out to the officials of the king of Babylon, and those women will say: ‘They misled you and overcame you—those trusted friends of yours. Your feet sank into the mire, and they deserted you.’"
+hebrew: "וְהִנֵּ֣ה כָל־ הַנָּשִׁ֗ים אֲשֶׁ֤ר נִשְׁאֲרוּ֙ בְּבֵ֣ית מֶֽלֶךְ־ יְהוּדָ֔ה מוּצָא֕וֹת אֶל־ שָׂרֵ֖י מֶ֣לֶךְ בָּבֶ֑ל וְהֵ֣נָּה אֹמְר֗וֹת הִסִּית֜וּךָ וְיָכְל֤וּ לְךָ֙ אַנְשֵׁ֣י שְׁלֹמֶ֔ךָ הָטְבְּע֥וּ בַבֹּ֛ץ רַגְלֶ֖ךָ נָסֹ֥גוּ אָחֽוֹר׃"
+pericope: "[[Jer.38.1 Jeremiah Cast into the Cistern|Jeremiah Cast into the Cistern]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 38
+book/chapter: "[[Jer.38|Jeremiah 38]]"
+chronological_order: 761
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H0834A]]"
+- "[[H7604]]"
+- "[[H9003]]"
+- "[[H1004P]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H3318H]]"
+- "[[H0413]]"
+- "[[H8269]]"
+- "[[H0894]]"
+- "[[H2007]]"
+- "[[H0559]]"
+- "[[H5496]]"
+- "[[H9031]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H0582]]"
+- "[[H7965J]]"
+- "[[H9021]]"
+- "[[H2883]]"
+- "[[H1206]]"
+- "[[H7272]]"
+- "[[H5472]]"
+- "[[H0268]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 38:22**<big><big>[[Jer.38.1 Jeremiah Cast into the Cistern|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, all the women that are left in the king of Judah’s house [shall be] brought forth to the king of Babylon’s princes, and those [women] shall say, Thy friends have set thee on, and have prevailed against thee: thy feet are sunk in the mire, [and] they are turned away back.
 <small><sub>**BSB:**</sub></small>
 All the women who remain in the palace of the king of Judah will be brought out to the officials of the king of Babylon, and those women will say: ‘They misled you and overcame you—those trusted friends of yours. Your feet sank into the mire, and they deserted you.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֣ה]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H0802G\|נָּשִׁ֗ים]] [[H0834A\|אֲשֶׁ֤ר]] [[H7604\|נִשְׁאֲרוּ֙]] [[H9003\|בְּ]][[H1004P\|בֵ֣ית]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָ֔ה]] [[H3318H\|מוּצָא֕וֹת]] [[H0413\|אֶל]][[H9014\|־]] [[H8269\|שָׂרֵ֖י]] [[H4428G\|מֶ֣לֶךְ]] [[H0894\|בָּבֶ֑ל]] [[H9002\|וְ]][[H2007\|הֵ֣נָּה]] [[H0559\|אֹמְר֗וֹת]] [[H5496\|הִסִּית֜וּ]][[H9031\|ךָ]] [[H9002\|וְ]][[H3201\|יָכְל֤וּ]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H0582\|אַנְשֵׁ֣י]] [[H7965J\|שְׁלֹמֶ֔]][[H9021\|ךָ]] [[H2883\|הָטְבְּע֥וּ]] [[H9003\|בַ]][[H1206\|בֹּ֛ץ]] [[H7272\|רַגְלֶ֖]][[H9021\|ךָ]] [[H5472\|נָסֹ֥גוּ]] [[H0268\|אָחֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRISONERS|PRISONERS]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.38.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.21|<< Jeremiah 38:21]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.23|Jeremiah 38:23 >>]]</td></tr></table>
 

@@ -1,10 +1,63 @@
+---
+title: Acts 26:10
+type: Verse
+kjv: "Which thing I also did in Jerusalem: and many of the saints did I shut up in prison, having received authority from the chief priests; and when they were put to death, I gave my voice against them."
+bsb: "And that is what I did in Jerusalem. With authority from the chief priests I put many of the saints in prison, and when they were condemned to death, I cast my vote against them."
+greek: "ὃ καὶ ἐποίησα ἐν Ἱεροσολύμοις καὶ πολλούς τε τῶν ἁγίων ἐγὼ ἐν φυλακαῖς κατέκλεισα τὴν παρὰ τῶν ἀρχιερέων ἐξουσίαν λαβών, ἀναιρουμένων τε αὐτῶν κατήνεγκα ψῆφον·"
+pericope: "[[Acts.26.1 Paul’s Testimony to Agrippa|Paul’s Testimony to Agrippa]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 26
+book/chapter: "[[Acts.26|Acts 26]]"
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3739]]"
+- "[[G2532]]"
+- "[[G4160G]]"
+- "[[G1722]]"
+- "[[G2414]]"
+- "[[G4183]]"
+- "[[G5037]]"
+- "[[G3588]]"
+- "[[G0040H]]"
+- "[[G1473]]"
+- "[[G5438G]]"
+- "[[G2623]]"
+- "[[G3844]]"
+- "[[G0749]]"
+- "[[G1849]]"
+- "[[G2983]]"
+- "[[G0337]]"
+- "[[G0846]]"
+- "[[G2702]]"
+- "[[G5586H]]"
+texts:
+- NKO
+- no
+---
+
 **Acts 26:10**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Which thing I also did in Jerusalem: and many of the saints did I shut up in prison, having received authority from the chief priests; and when they were put to death, I gave my voice against [them].
 <small><sub>**BSB:**</sub></small>
 And that is what I did in Jerusalem. With authority from the chief priests I put many of the saints in prison, and when they were condemned to death, I cast my vote against them.
-<small><sub>**Literal:**</sub></small>
-which also I did in Jerusalem and many also of the saints I myself in prisons locked up the from the chief priests authority having received, when were being executed then they I cast against [them] a vote;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.9|<< Acts 26:9]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.11|Acts 26:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃ]]  [[G2532\|καὶ]]  [[G4160G\|ἐποίησα]]  [[G1722\|ἐν]]  [[G2414\|Ἱεροσολύμοις]]  [[G2532\|καὶ]]  [[G4183\|πολλούς]]  [[G5037\|τε]]  [[G3588\|τῶν]]  [[G0040H\|ἁγίων]]  [[G1473\|ἐγὼ]]  [[G1722\|ἐν]]  [[G5438G\|φυλακαῖς]]  [[G2623\|κατέκλεισα]]  [[G3588\|τὴν]]  [[G3844\|παρὰ]]  [[G3588\|τῶν]]  [[G0749\|ἀρχιερέων]]  [[G1849\|ἐξουσίαν]]  [[G2983\|λαβών,]]  [[G0337\|ἀναιρουμένων]]  [[G5037\|τε]]  [[G0846\|αὐτῶν]]  [[G2702\|κατήνεγκα]]  [[G5586H\|ψῆφον·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic DEFENSE|DEFENSE]] • [[topic PAUL|PAUL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.9|<< Acts 26:9]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.11|Acts 26:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

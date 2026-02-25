@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Uzzah Touches the Ark
+type: Pericope
 pericope: "[[1Chr.13.8 Uzzah Touches the Ark|Uzzah Touches the Ark]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 13
 book/chapter: "[[1Chr.13|1 Chronicles 13]]"
-genre:
+chronological_order: 394
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 7
 verses:
 - "[[1Chr.13.8]]"
 - "[[1Chr.13.9]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1Chr.13.14]]"
 ---
 
-[[1Chr.13|1 Chronicles 13:8 - 1 Chronicles 13:14]]
+<small>[[1Chr.13|1 Chronicles 13:8-14]]</small>
 *Uzzah Touches the Ark*
 
 [[1Chr.13.8|8]] And David and all Israel played before God with all \[their\] might, and with singing, and with harps, and with psalteries, and with timbrels, and with cymbals, and with trumpets.

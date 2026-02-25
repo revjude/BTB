@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Testimony of Two or Three Witnesses
+type: Pericope
 pericope: "[[Deut.19.15 The Testimony of Two or Three Witnesses|The Testimony of Two or Three Witnesses]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 19
 book/chapter: "[[Deut.19|Deuteronomy 19]]"
-genre:
+chronological_order: 215
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 7
 verses:
 - "[[Deut.19.15]]"
 - "[[Deut.19.16]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Deut.19.21]]"
 ---
 
-[[Deut.19|Deuteronomy 19:15 - Deuteronomy 19:21]]
+<small>[[Deut.19|Deuteronomy 19:15-21]]</small>
 *The Testimony of Two or Three Witnesses*
 
 [[Deut.19.15|15]] One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established.

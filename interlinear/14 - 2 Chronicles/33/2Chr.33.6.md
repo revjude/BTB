@@ -1,8 +1,75 @@
+---
+title: 2 Chronicles 33:6
+type: Verse
+kjv: "And he caused his children to pass through the fire in the valley of the son of Hinnom: also he observed times, and used enchantments, and used witchcraft, and dealt with a familiar spirit, and with wizards: he wrought much evil in the sight of the LORD, to provoke him to anger."
+bsb: "He sacrificed his sons in the fire in the Valley of Ben-hinnom. He practiced sorcery, divination, and witchcraft, and consulted mediums and spiritists. He did great evil in the sight of the LORD, provoking Him to anger."
+hebrew: "וְהוּא֩ הֶעֱבִ֨יר אֶת־ בָּנָ֤יו בָּאֵשׁ֙ בְּגֵ֣י בֶן־ הִנֹּ֔ם וְעוֹנֵ֤ן וְנִחֵשׁ֙ וְֽכִשֵּׁ֔ף וְעָ֥שָׂה א֖וֹב וְיִדְּעוֹנִ֑י הִרְבָּ֗ה לַעֲשׂ֥וֹת הָרַ֛ע בְּעֵינֵ֥י יְהוָ֖ה לְהַכְעִיסֽוֹ׃"
+pericope: "[[2Chr.33.1 Manasseh Reigns in Judah|Manasseh Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 33
+book/chapter: "[[2Chr.33|2 Chronicles 33]]"
+chronological_order: 707
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic HINNOM|HINNOM]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SORCERY|SORCERY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TOPHET|TOPHET]]"
+strongs:
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H1516Q]]"
+- "[[H2011H]]"
+- "[[H9001]]"
+- "[[H6049B]]"
+- "[[H5172]]"
+- "[[H3784]]"
+- "[[H6213A]]"
+- "[[H0178]]"
+- "[[H3049]]"
+- "[[H7235A]]"
+- "[[H9005]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H3707]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 33:6**<big><big>[[2Chr.33.1 Manasseh Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he caused his children to pass through the fire in the valley of the son of Hinnom: also he observed times, and used enchantments, and used witchcraft, and dealt with a familiar spirit, and with wizards: he wrought much evil in the sight of the LORD, to provoke him to anger.
 <small><sub>**BSB:**</sub></small>
 He sacrificed his sons in the fire in the Valley of Ben-hinnom. He practiced sorcery, divination, and witchcraft, and consulted mediums and spiritists. He did great evil in the sight of the LORD, provoking Him to anger.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1931\|הוּא֩]] [[H5674A\|הֶעֱבִ֨יר]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בָּנָ֤י]][[H9023\|ו]] [[H9003\|בָּ]][[H0784\|אֵשׁ֙]] [[H9003\|בְּ]][[H1516Q\|גֵ֣י]] [[H1121A\|בֶן]][[H9014\|־]] [[H2011H\|הִנֹּ֔ם]] [[H9001\|וְ]][[H6049B\|עוֹנֵ֤ן]] [[H9001\|וְ]][[H5172\|נִחֵשׁ֙]] [[H9001\|וְֽ]][[H3784\|כִשֵּׁ֔ף]] [[H9001\|וְ]][[H6213A\|עָ֥שָׂה]] [[H0178\|א֖וֹב]] [[H9002\|וְ]][[H3049\|יִדְּעוֹנִ֑י]] [[H7235A\|הִרְבָּ֗ה]] [[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H9009\|הָ]][[H7451H\|רַ֛ע]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֥י]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לְ]][[H3707\|הַכְעִיסֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic HINNOM|HINNOM]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MANASSEH|MANASSEH]] • [[topic RULERS|RULERS]] • [[topic SORCERY|SORCERY]] • [[topic TEMPLE|TEMPLE]] • [[topic TOPHET|TOPHET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.33.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.33.5|<< 2 Chronicles 33:5]]</td><td align="center" style="border:none;">[[2Chr.33|2 Chronicles 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.33.7|2 Chronicles 33:7 >>]]</td></tr></table>
 

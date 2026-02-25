@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Tribe of Reuben
+type: Pericope
 pericope: "[[Num.26.5 The Tribe of Reuben|The Tribe of Reuben]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 26
 book/chapter: "[[Num.26|Numbers 26]]"
-genre:
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 7
 verses:
 - "[[Num.26.5]]"
 - "[[Num.26.6]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Num.26.11]]"
 ---
 
-[[Num.26|Numbers 26:5 - Numbers 26:11]]
+<small>[[Num.26|Numbers 26:5-11]]</small>
 *The Tribe of Reuben*
 
 [[Num.26.5|5]] Reuben, the eldest son of Israel: the children of Reuben; Hanoch, \[of whom cometh\] the family of the Hanochites: of Pallu, the family of the Palluites:

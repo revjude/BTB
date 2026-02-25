@@ -1,8 +1,73 @@
+---
+title: Leviticus 23:39
+type: Verse
+kjv: "Also in the fifteenth day of the seventh month, when ye have gathered in the fruit of the land, ye shall keep a feast unto the LORD seven days: on the first day shall be a sabbath, and on the eighth day shall be a sabbath."
+bsb: "On the fifteenth day of the seventh month, after you have gathered the produce of the land, you are to celebrate a feast to the LORD for seven days. There shall be complete rest on the first day and also on the eighth day."
+hebrew: "אַ֡ךְ בַּחֲמִשָּׁה֩ עָשָׂ֨ר י֜וֹם לַחֹ֣דֶשׁ הַשְּׁבִיעִ֗י בְּאָסְפְּכֶם֙ אֶת־ תְּבוּאַ֣ת הָאָ֔רֶץ תָּחֹ֥גּוּ אֶת־ חַג־ יְהוָ֖ה שִׁבְעַ֣ת יָמִ֑ים בַּיּ֤וֹם הָֽרִאשׁוֹן֙ שַׁבָּת֔וֹן וּבַיּ֥וֹם הַשְּׁמִינִ֖י שַׁבָּתֽוֹן׃"
+pericope: "[[Lev.23.33 The Feast of Tabernacles|The Feast of Tabernacles]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 23
+book/chapter: "[[Lev.23|Leviticus 23]]"
+chronological_order: 155
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ETHANIM|ETHANIM]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic TABERNACLES, FEAST OF|TABERNACLES, FEAST OF]]"
+strongs:
+- "[[H0389]]"
+- "[[H9003]]"
+- "[[H2568]]"
+- "[[H6240]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H7637]]"
+- "[[H0622]]"
+- "[[H9046]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8393]]"
+- "[[H0776G]]"
+- "[[H2287]]"
+- "[[H2282]]"
+- "[[H3068G]]"
+- "[[H7651]]"
+- "[[H7223G]]"
+- "[[H7677]]"
+- "[[H9002]]"
+- "[[H8066]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 23:39**<big><big>[[Lev.23.33 The Feast of Tabernacles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also in the fifteenth day of the seventh month, when ye have gathered in the fruit of the land, ye shall keep a feast unto the LORD seven days: on the first day [shall be] a sabbath, and on the eighth day [shall be] a sabbath.
 <small><sub>**BSB:**</sub></small>
 On the fifteenth day of the seventh month, after you have gathered the produce of the land, you are to celebrate a feast to the LORD for seven days. There shall be complete rest on the first day and also on the eighth day.
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַ֡ךְ]] [[H9003\|בַּ]][[H2568\|חֲמִשָּׁה֩]] [[H6240\|עָשָׂ֨ר]] [[H3117G\|י֜וֹם]] [[H9005\|לַ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֗י]] [[H9003\|בְּ]][[H0622\|אָסְפְּ]][[H9046\|כֶם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H8393\|תְּבוּאַ֣ת]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H2287\|תָּחֹ֥גּוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H2282\|חַג]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H7651\|שִׁבְעַ֣ת]] [[H3117G\|יָמִ֑ים]] [[H9003\|בַּ]][[H3117G\|יּ֤וֹם]] [[H9009\|הָֽ]][[H7223G\|רִאשׁוֹן֙]] [[H7677\|שַׁבָּת֔וֹן]] [[H9002\|וּ]][[H9003\|בַ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H8066\|שְּׁמִינִ֖י]] [[H7677\|שַׁבָּתֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ETHANIM|ETHANIM]] • [[topic FEASTS|FEASTS]] • [[topic SANITATION|SANITATION]] • [[topic SEVEN|SEVEN]] • [[topic TABERNACLES, FEAST OF|TABERNACLES, FEAST OF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.38|<< Leviticus 23:38]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.40|Leviticus 23:40 >>]]</td></tr></table>
 

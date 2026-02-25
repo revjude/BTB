@@ -1,8 +1,54 @@
+---
+title: Proverbs 12:21
+type: Verse
+kjv: "There shall no evil happen to the just: but the wicked shall be filled with mischief."
+bsb: "No harm befalls the righteous, but the wicked are filled with trouble."
+hebrew: "לֹא־ יְאֻנֶּ֣ה לַצַּדִּ֣יק כָּל־ אָ֑וֶן וּ֝רְשָׁעִ֗ים מָ֣לְאוּ רָֽע׃"
+pericope: "[[Prov.12.1 Loving Discipline and Knowledge|Loving Discipline and Knowledge]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 12
+book/chapter: "[[Prov.12|Proverbs 12]]"
+chronological_order: 467
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0579]]"
+- "[[H9005]]"
+- "[[H6662]]"
+- "[[H3605]]"
+- "[[H0205H]]"
+- "[[H9002]]"
+- "[[H7563]]"
+- "[[H4390]]"
+- "[[H7451B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 12:21**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There shall no evil happen to the just: but the wicked shall be filled with mischief.
 <small><sub>**BSB:**</sub></small>
 No harm befalls the righteous, but the wicked are filled with trouble.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H0579\|יְאֻנֶּ֣ה]] [[H9005\|לַ]][[H6662\|צַּדִּ֣יק]] [[H3605\|כָּל]][[H9014\|־]] [[H0205H\|אָ֑וֶן]] [[H9002\|וּ֝]][[H7563\|רְשָׁעִ֗ים]] [[H4390\|מָ֣לְאוּ]] [[H7451B\|רָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.20|<< Proverbs 12:20]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.22|Proverbs 12:22 >>]]</td></tr></table>
 

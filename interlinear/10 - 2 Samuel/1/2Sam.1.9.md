@@ -1,8 +1,61 @@
+---
+title: 2 Samuel 1:9
+type: Verse
+kjv: "He said unto me again, Stand, I pray thee, upon me, and slay me: for anguish is come upon me, because my life is yet whole in me."
+bsb: "Then he begged me, ‘Stand over me and kill me, for agony has seized me, but my life still lingers.’"
+hebrew: "וַיֹּ֣אמֶר אֵלַ֗י עֲמָד־ נָ֤א עָלַי֙ וּמֹ֣תְתֵ֔נִי כִּ֥י אֲחָזַ֖נִי הַשָּׁבָ֑ץ כִּֽי־ כָל־ ע֥וֹד נַפְשִׁ֖י בִּֽי׃"
+pericope: "[[2Sam.1.1 Saul’s Death Reported to David|Saul’s Death Reported to David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 1
+book/chapter: "[[2Sam.1|2 Samuel 1]]"
+chronological_order: 329
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H5975G]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H5921A]]"
+- "[[H9002]]"
+- "[[H4191]]"
+- "[[H3588A]]"
+- "[[H0270]]"
+- "[[H9009]]"
+- "[[H7661]]"
+- "[[H3605]]"
+- "[[H5750]]"
+- "[[H5315H]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 1:9**<big><big>[[2Sam.1.1 Saul’s Death Reported to David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He said unto me again, Stand, I pray thee, upon me, and slay me: for anguish is come upon me, because my life [is] yet whole in me.
 <small><sub>**BSB:**</sub></small>
 Then he begged me, ‘Stand over me and kill me, for agony has seized me, but my life still lingers.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלַ֗]][[H9030\|י]] [[H5975G\|עֲמָד]][[H9014\|־]] [[H4994\|נָ֤א]] [[H5921A\|עָלַ]][[H9030\|י֙]] [[H9002\|וּ]][[H4191\|מֹ֣תְתֵ֔]][[H9030\|נִי]] [[H3588A\|כִּ֥י]] [[H0270\|אֲחָזַ֖]][[H9030\|נִי]] [[H9009\|הַ]][[H7661\|שָּׁבָ֑ץ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3605\|כָל]][[H9014\|־]] [[H5750\|ע֥וֹד]] [[H5315H\|נַפְשִׁ֖]][[H9020\|י]] [[H9003\|בִּֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.1.8|<< 2 Samuel 1:8]]</td><td align="center" style="border:none;">[[2Sam.1|2 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.1.10|2 Samuel 1:10 >>]]</td></tr></table>
 

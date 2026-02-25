@@ -1,8 +1,47 @@
+---
+title: 2 Samuel 22:37
+type: Verse
+kjv: "Thou hast enlarged my steps under me; so that my feet did not slip."
+bsb: "You broaden the path beneath me so that my ankles do not give way."
+hebrew: "תַּרְחִ֥יב צַעֲדִ֖י תַּחְתֵּ֑נִי וְלֹ֥א מָעֲד֖וּ קַרְסֻלָּֽי׃"
+pericope: "[[2Sam.22.1 David’s Song of Deliverance|David’s Song of Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 22
+book/chapter: "[[2Sam.22|2 Samuel 22]]"
+chronological_order: 430
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+strongs:
+- "[[H7337]]"
+- "[[H6806]]"
+- "[[H9020]]"
+- "[[H8478G]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H4571]]"
+- "[[H7166]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 22:37**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast enlarged my steps under me; so that my feet did not slip.
 <small><sub>**BSB:**</sub></small>
 You broaden the path beneath me so that my ankles do not give way.
+<small><sub>**Hebrew:**</sub></small>
+[[H7337\|תַּרְחִ֥יב]] [[H6806\|צַעֲדִ֖]][[H9020\|י]] [[H8478G\|תַּחְתֵּ֑]][[H9030\|נִי]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H4571\|מָעֲד֖וּ]] [[H7166\|קַרְסֻלָּֽ]][[H9020\|י]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.36|<< 2 Samuel 22:36]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.38|2 Samuel 22:38 >>]]</td></tr></table>
 

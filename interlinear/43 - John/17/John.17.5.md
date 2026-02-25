@@ -1,10 +1,57 @@
+---
+title: John 17:5
+type: Verse
+kjv: "And now, O Father, glorify thou me with thine own self with the glory which I had with thee before the world was."
+bsb: "And now, Father, glorify Me in Your presence with the glory I had with You before the world existed."
+jesus_said: "And now, O Father, glorify thou me with thine own self with the glory which I had with thee before the world was."
+greek: "καὶ νῦν δόξασόν με σύ, πάτερ, παρὰ σεαυτῷ τῇ δόξῃ ᾗ εἶχον πρὸ τοῦ τὸν κόσμον εἶναι παρὰ σοί.¶"
+pericope: "[[John.17.1 Prayer for the Son|Prayer for the Son]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 17
+book/chapter: "[[John.17|John 17]]"
+chronological_order: 1005
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G3568]]"
+- "[[G1392]]"
+- "[[G3165]]"
+- "[[G4771]]"
+- "[[G3962]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G1391]]"
+- "[[G3739]]"
+- "[[G2192]]"
+- "[[G4253]]"
+- "[[G2889]]"
+- "[[G1511]]"
+texts:
+- NKO
+---
+
 **John 17:5**<big><big>[[John.17.1 Prayer for the Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And now, O Father, glorify thou me with thine own self with the glory which I had with thee before the world was.
 <small><sub>**BSB:**</sub></small>
 And now, Father, glorify Me in Your presence with the glory I had with You before the world existed.
-<small><sub>**Literal:**</sub></small>
-And now do glorify Me You yourself, Father, with Yourself with the glory that I had before <the> the world existing with You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.4|<< John 17:4]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.6|John 17:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3568\|νῦν]]  [[G1392\|δόξασόν]]  [[G3165\|με]]  [[G4771\|σύ,]]  [[G3962\|πάτερ,]]  [[G3844\|παρὰ]]  [[G4771\|σεαυτῷ]]  [[G3588\|τῇ]]  [[G1391\|δόξῃ]]  [[G3739\|ᾗ]]  [[G2192\|εἶχον]]  [[G4253\|πρὸ]]  [[G3588\|τοῦ]]  [[G3588\|τὸν]]  [[G2889\|κόσμον]]  [[G1511\|εἶναι]]  [[G3844\|παρὰ]]  [[G4771\|σοί.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.4|<< John 17:4]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.6|John 17:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

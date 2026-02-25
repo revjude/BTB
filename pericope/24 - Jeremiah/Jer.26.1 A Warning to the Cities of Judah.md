@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Warning to the Cities of Judah
+type: Pericope
 pericope: "[[Jer.26.1 A Warning to the Cities of Judah|A Warning to the Cities of Judah]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 26
 book/chapter: "[[Jer.26|Jeremiah 26]]"
-genre:
+chronological_order: 749
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 6
 verses:
 - "[[Jer.26.1]]"
 - "[[Jer.26.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Jer.26.6]]"
 ---
 
-[[Jer.26|Jeremiah 26:1 - Jeremiah 26:6]]
+<small>[[Jer.26|Jeremiah 26:1-6]]</small>
 *A Warning to the Cities of Judah*
 
 [[Jer.26.1|1]] In the beginning of the reign of Jehoiakim the son of Josiah king of Judah came this word from the LORD, saying,

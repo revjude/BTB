@@ -1,8 +1,62 @@
+---
+title: Jeremiah 18:14
+type: Verse
+kjv: "Will a man leave the snow of Lebanon which cometh from the rock of the field? or shall the cold flowing waters that come from another place be forsaken?"
+bsb: "Does the snow of Lebanon ever leave its rocky slopes? Or do its cool waters flowing from a distance ever run dry?"
+hebrew: "הֲיַעֲזֹ֥ב מִצּ֛וּר שָׂדַ֖י שֶׁ֣לֶג לְבָנ֑וֹן אִם־ יִנָּתְשׁ֗וּ מַ֛יִם זָרִ֥ים קָרִ֖ים נוֹזְלִֽים׃"
+pericope: "[[Jer.18.1 The Potter and the Clay|The Potter and the Clay]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 18
+book/chapter: "[[Jer.18|Jeremiah 18]]"
+chronological_order: 735
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic LEBANON|LEBANON]]"
+- "[[topic SNOW|SNOW]]"
+strongs:
+- "[[H9008]]"
+- "[[H5800A]]"
+- "[[H9006]]"
+- "[[H6697H]]"
+- "[[H7704A]]"
+- "[[H7950]]"
+- "[[H3844G]]"
+- "[[H0518I]]"
+- "[[H9014]]"
+- "[[H5428]]"
+- "[[H4325G]]"
+- "[[H2114A]]"
+- "[[H7119]]"
+- "[[H5140]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 18:14**<big><big>[[Jer.18.1 The Potter and the Clay|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Will [a man] leave the snow of Lebanon [which cometh] from the rock of the field? [or] shall the cold flowing waters that come from another place be forsaken?
 <small><sub>**BSB:**</sub></small>
 Does the snow of Lebanon ever leave its rocky slopes? Or do its cool waters flowing from a distance ever run dry?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H5800A\|יַעֲזֹ֥ב]] [[H9006\|מִ]][[H6697H\|צּ֛וּר]] [[H7704A\|שָׂדַ֖י]] [[H7950\|שֶׁ֣לֶג]] [[H3844G\|לְבָנ֑וֹן]] [[H0518I\|אִם]][[H9014\|־]] [[H5428\|יִנָּתְשׁ֗וּ]] [[H4325G\|מַ֛יִם]] [[H2114A\|זָרִ֥ים]] [[H7119\|קָרִ֖ים]] [[H5140\|נוֹזְלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic LEBANON|LEBANON]] • [[topic SNOW|SNOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.13|<< Jeremiah 18:13]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.15|Jeremiah 18:15 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Psalm 143:9
+type: Verse
+kjv: "Deliver me, O LORD, from mine enemies: I flee unto thee to hide me."
+bsb: "Deliver me from my enemies, O LORD; I flee to You for refuge."
+hebrew: "הַצִּילֵ֖נִי מֵאֹיְבַ֥י׀ יְהוָ֗ה אֵלֶ֥יךָ כִסִּֽתִי׃"
+pericope: "[[Ps.143.1 I Stretch Out My Hands to You|I Stretch Out My Hands to You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 143
+book/chapter: "[[Ps.143|Psalm 143]]"
+chronological_order: 389
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H5337]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H0341]]"
+- "[[H9020]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H3680]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 143:9**<big><big>[[Ps.143.1 I Stretch Out My Hands to You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Deliver me, O LORD, from mine enemies: I flee unto thee to hide me.
 <small><sub>**BSB:**</sub></small>
 Deliver me from my enemies, O LORD; I flee to You for refuge.
+<small><sub>**Hebrew:**</sub></small>
+[[H5337\|הַצִּילֵ֖]][[H9030\|נִי]] [[H9006\|מֵ]][[H0341\|אֹיְבַ֥]][[H9020\|י]][[H9015\|׀]] [[H3068G\|יְהוָ֗ה]] [[H0413\|אֵלֶ֥י]][[H9031\|ךָ]] [[H3680\|כִסִּֽתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.143.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.143.8|<< Psalms 143:8]]</td><td align="center" style="border:none;">[[Ps.143|Psalms 143]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.143.10|Psalms 143:10 >>]]</td></tr></table>
 

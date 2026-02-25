@@ -1,8 +1,68 @@
+---
+title: Exodus 9:15
+type: Verse
+kjv: "For now I will stretch out my hand, that I may smite thee and thy people with pestilence; and thou shalt be cut off from the earth."
+bsb: "For by this time I could have stretched out My hand and struck you and your people with a plague to wipe you off the earth."
+hebrew: "כִּ֤י עַתָּה֙ שָׁלַ֣חְתִּי אֶת־ יָדִ֔י וָאַ֥ךְ אוֹתְךָ֛ וְאֶֽת־ עַמְּךָ֖ בַּדָּ֑בֶר וַתִּכָּחֵ֖ד מִן־ הָאָֽרֶץ׃"
+pericope: "[[Exod.9.13 The Seventh Plague：Hail|The Seventh Plague：Hail]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 9
+book/chapter: "[[Exod.9|Exodus 9]]"
+chronological_order: 101
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic POWER|POWER]]"
+- "[[topic SUFFERING|SUFFERING]]"
+strongs:
+- "[[H3588A]]"
+- "[[H6258]]"
+- "[[H7971K]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3027H]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H1698]]"
+- "[[H3582]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 9:15**<big><big>[[Exod.9.13 The Seventh Plague：Hail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For now I will stretch out my hand, that I may smite thee and thy people with pestilence; and thou shalt be cut off from the earth.
 <small><sub>**BSB:**</sub></small>
 For by this time I could have stretched out My hand and struck you and your people with a plague to wipe you off the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H6258\|עַתָּה֙]] [[H7971K\|שָׁלַ֣חְתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H3027H\|יָדִ֔]][[H9020\|י]] [[H9001\|וָ]][[H5221\|אַ֥ךְ]] [[H0853\|אוֹתְ]][[H9031\|ךָ֛]] [[H9002\|וְ]][[H0853\|אֶֽת]][[H9014\|־]] [[H5971A\|עַמְּ]][[H9021\|ךָ֖]] [[H9003\|בַּ]][[H1698\|דָּ֑בֶר]] [[H9001\|וַ]][[H3582\|תִּכָּחֵ֖ד]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic MIRACLES|MIRACLES]] • [[topic POWER|POWER]] • [[topic SUFFERING|SUFFERING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.14|<< Exodus 9:14]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.16|Exodus 9:16 >>]]</td></tr></table>
 

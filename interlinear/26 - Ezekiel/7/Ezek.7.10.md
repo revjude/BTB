@@ -1,8 +1,50 @@
+---
+title: Ezekiel 7:10
+type: Verse
+kjv: "Behold the day, behold, it is come: the morning is gone forth; the rod hath blossomed, pride hath budded."
+bsb: "Behold, the day is here! It has come! Doom has gone out, the rod has budded, arrogance has bloomed."
+hebrew: "הִנֵּ֥ה הַיּ֖וֹם הִנֵּ֣ה בָאָ֑ה יָֽצְאָה֙ הַצְּפִרָ֔ה צָ֚ץ הַמַּטֶּ֔ה פָּרַ֖ח הַזָּדֽוֹן׃"
+pericope: "[[Ezek.7.1 The Hour of Doom|The Hour of Doom]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 7
+book/chapter: "[[Ezek.7|Ezekiel 7]]"
+chronological_order: 798
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H2009]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0935G]]"
+- "[[H3318G]]"
+- "[[H6843]]"
+- "[[H6692A]]"
+- "[[H4294G]]"
+- "[[H6524A]]"
+- "[[H2087]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 7:10**<big><big>[[Ezek.7.1 The Hour of Doom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold the day, behold, it is come: the morning is gone forth; the rod hath blossomed, pride hath budded.
 <small><sub>**BSB:**</sub></small>
 Behold, the day is here! It has come! Doom has gone out, the rod has budded, arrogance has bloomed.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֥ה]] [[H9009\|הַ]][[H3117G\|יּ֖וֹם]] [[H2009\|הִנֵּ֣ה]] [[H0935G\|בָאָ֑ה]] [[H3318G\|יָֽצְאָה֙]] [[H9009\|הַ]][[H6843\|צְּפִרָ֔ה]] [[H6692A\|צָ֚ץ]] [[H9009\|הַ]][[H4294G\|מַּטֶּ֔ה]] [[H6524A\|פָּרַ֖ח]] [[H9009\|הַ]][[H2087\|זָּדֽוֹן]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.9|<< Ezekiel 7:9]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.11|Ezekiel 7:11 >>]]</td></tr></table>
 

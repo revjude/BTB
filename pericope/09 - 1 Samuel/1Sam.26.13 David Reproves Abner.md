@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Reproves Abner
+type: Pericope
 pericope: "[[1Sam.26.13 David Reproves Abner|David Reproves Abner]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 26
 book/chapter: "[[1Sam.26|1 Samuel 26]]"
-genre:
+chronological_order: 305
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 8
 verses:
 - "[[1Sam.26.13]]"
 - "[[1Sam.26.14]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Sam.26.20]]"
 ---
 
-[[1Sam.26|1 Samuel 26:13 - 1 Samuel 26:20]]
+<small>[[1Sam.26|1 Samuel 26:13-20]]</small>
 *David Reproves Abner*
 
 [[1Sam.26.13|13]] Then David went over to the other side, and stood on the top of an hill afar off; a great space \[being\] between them:

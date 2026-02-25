@@ -1,8 +1,67 @@
+---
+title: Genesis 8:13
+type: Verse
+kjv: "And it came to pass in the six hundredth and first year, in the first month, the first day of the month, the waters were dried up from off the earth: and Noah removed the covering of the ark, and looked, and, behold, the face of the ground was dry."
+bsb: "In Noah’s six hundred and first year, on the first day of the first month, the waters had dried up from the earth. So Noah removed the covering from the ark and saw that the surface of the ground was dry."
+hebrew: "וַֽ֠יְהִי בְּאַחַ֨ת וְשֵׁשׁ־ מֵא֜וֹת שָׁנָ֗ה בָּֽרִאשׁוֹן֙ בְּאֶחָ֣ד לַחֹ֔דֶשׁ חָֽרְב֥וּ הַמַּ֖יִם מֵעַ֣ל הָאָ֑רֶץ וַיָּ֤סַר נֹ֙חַ֙ אֶת־ מִכְסֵ֣ה הַתֵּבָ֔ה וַיַּ֕רְא וְהִנֵּ֥ה חָֽרְב֖וּ פְּנֵ֥י הָֽאֲדָמָֽה׃"
+pericope: "[[Gen.8.13 Exiting the Ark|Exiting the Ark]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 8
+book/chapter: "[[Gen.8|Genesis 8]]"
+chronological_order: 8
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H0259]]"
+- "[[H9002]]"
+- "[[H8337]]"
+- "[[H9014]]"
+- "[[H3967]]"
+- "[[H8141]]"
+- "[[H7223G]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H2717A]]"
+- "[[H9009]]"
+- "[[H4325G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H0776G]]"
+- "[[H5493G]]"
+- "[[H5146]]"
+- "[[H0853]]"
+- "[[H4372]]"
+- "[[H8392]]"
+- "[[H7200G]]"
+- "[[H2009]]"
+- "[[H6440J]]"
+- "[[H0127G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 8:13**<big><big>[[Gen.8.13 Exiting the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the six hundredth and first year, in the first [month], the first [day] of the month, the waters were dried up from off the earth: and Noah removed the covering of the ark, and looked, and, behold, the face of the ground was dry.
 <small><sub>**BSB:**</sub></small>
 In Noah’s six hundred and first year, on the first day of the first month, the waters had dried up from the earth. So Noah removed the covering from the ark and saw that the surface of the ground was dry.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ֠]][[H1961\|יְהִי]] [[H9003\|בְּ]][[H0259\|אַחַ֨ת]] [[H9002\|וְ]][[H8337\|שֵׁשׁ]][[H9014\|־]] [[H3967\|מֵא֜וֹת]] [[H8141\|שָׁנָ֗ה]] [[H9003\|בָּֽ]][[H7223G\|רִאשׁוֹן֙]] [[H9003\|בְּ]][[H0259\|אֶחָ֣ד]] [[H9005\|לַ]][[H2320G\|חֹ֔דֶשׁ]] [[H2717A\|חָֽרְב֥וּ]] [[H9009\|הַ]][[H4325G\|מַּ֖יִם]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9001\|וַ]][[H5493G\|יָּ֤סַר]] [[H5146\|נֹ֙חַ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4372\|מִכְסֵ֣ה]] [[H9009\|הַ]][[H8392\|תֵּבָ֔ה]] [[H9001\|וַ]][[H7200G\|יַּ֕רְא]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H2717A\|חָֽרְב֖וּ]] [[H6440J\|פְּנֵ֥י]] [[H9009\|הָֽ]][[H0127G\|אֲדָמָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.8.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.12|<< Genesis 8:12]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.8.14|Genesis 8:14 >>]]</td></tr></table>
 

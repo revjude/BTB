@@ -1,6 +1,53 @@
+---
+title: LXX Ecclesiastes 4:3
+type: Verse
+lxx: "And better above  these two which not yet was born, which knew not all the evil action  being done under the sun."
+greek: "και αγαθός υπέρ τους δύο τούτους όστις ούπω εγένετο ος ουκ είδε σύμπαν το ποίημα το πονηρόν το πεποιημένον υπό τον ήλιον"
+original_language: Greek
+testament: Old
+book: Ecclesiastes
+chapter: 4
+book/chapter: "[[Eccl.4|Ecclesiastes 4]]"
+chronological_order: 542
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+strongs:
+- "[[G2532]]"
+- "[[G0018]]"
+- "[[G5228]]"
+- "[[G3588]]"
+- "[[G1417]]"
+- "[[G3778]]"
+- "[[G3748]]"
+- "[[G3768]]"
+- "[[G1096]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1492]]"
+- "[[G9270]]"
+- "[[G3588]]"
+- "[[G4161]]"
+- "[[G3588]]"
+- "[[G4190]]"
+- "[[G3588]]"
+- "[[G4160]]"
+- "[[G5259]]"
+- "[[G3588]]"
+- "[[G2246]]"
+---
+
 **LXX Ecclesiastes 4:3** 
 <small><sub>**LXX:**</sub></small>
 And better above  these two which not yet was born, which knew not all the evil action  being done under the sun. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0018\|αγαθός]] [[G5228\|υπέρ]] [[G3588\|τους]] [[G1417\|δύο]] [[G3778\|τούτους]] [[G3748\|όστις]] [[G3768\|ούπω]] [[G1096\|εγένετο]] [[G3739\|ος]] [[G3756\|ουκ]] [[G1492\|είδε]] [[G9270\|σύμπαν]] [[G3588\|το]] [[G4161\|ποίημα]] [[G3588\|το]] [[G4190\|πονηρόν]] [[G3588\|το]] [[G4160\|πεποιημένον]] [[G5259\|υπό]] [[G3588\|τον]] [[G2246\|ήλιον]]
 <small><sub>**MT:**</sub></small>
 [[Eccl.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.2|<< Ecclesiastes 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.4.4|Ecclesiastes 4:4 >>]]</td></tr></table>
 
@@ -26,6 +73,6 @@ And better above  these two which not yet was born, which knew not all the evil 
 | under | **<big>[[G5259\|υπό]]</big>** |
 | the | **<big>[[G3588\|τον]]</big>** |
 | sun. | **<big>[[G2246\|ήλιον]]</big>** |
-[[Eccl.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.2|<< Ecclesiastes 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.4.4|Ecclesiastes 4:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.2|<< Ecclesiastes 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.4.4|Ecclesiastes 4:4 >>]]</td></tr></table>
 
 

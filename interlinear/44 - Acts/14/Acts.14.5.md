@@ -1,10 +1,56 @@
+---
+title: Acts 14:5
+type: Verse
+kjv: "And when there was an assault made both of the Gentiles, and also of the Jews with their rulers, to use them despitefully, and to stone them,"
+bsb: "But when the Gentiles and Jews, together with their rulers, set out to mistreat and stone them,"
+greek: "ὡς δὲ ἐγένετο ὁρμὴ τῶν ἐθνῶν τε καὶ Ἰουδαίων σὺν τοῖς ἄρχουσιν αὐτῶν ὑβρίσαι καὶ λιθοβολῆσαι αὐτούς,"
+pericope: "[[Acts.14.1 Paul and Barnabas at Iconium|Paul and Barnabas at Iconium]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 14
+book/chapter: "[[Acts.14|Acts 14]]"
+chronological_order: 1032
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BARNABAS|BARNABAS]]"
+- "[[topic ICONIUM|ICONIUM]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5613]]"
+- "[[G1161]]"
+- "[[G1096]]"
+- "[[G3730]]"
+- "[[G3588]]"
+- "[[G1484]]"
+- "[[G5037]]"
+- "[[G2532]]"
+- "[[G2453]]"
+- "[[G4862]]"
+- "[[G0758]]"
+- "[[G0846]]"
+- "[[G5195]]"
+- "[[G3036]]"
+texts:
+- NKO
+---
+
 **Acts 14:5**<big><big>[[Acts.14.1 Paul and Barnabas at Iconium|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when there was an assault made both of the Gentiles, and also of the Jews with their rulers, to use [them] despitefully, and to stone them,
 <small><sub>**BSB:**</sub></small>
 But when the Gentiles and Jews, together with their rulers, set out to mistreat and stone them,
-<small><sub>**Literal:**</sub></small>
-When then there was a rush of the Gentiles both and Jews with the rulers of them to mistreat and to stone them,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.4|<< Acts 14:4]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.6|Acts 14:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G1161\|δὲ]]  [[G1096\|ἐγένετο]]  [[G3730\|ὁρμὴ]]  [[G3588\|τῶν]]  [[G1484\|ἐθνῶν]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G2453\|Ἰουδαίων]]  [[G4862\|σὺν]]  [[G3588\|τοῖς]]  [[G0758\|ἄρχουσιν]]  [[G0846\|αὐτῶν]]  [[G5195\|ὑβρίσαι]]  [[G2532\|καὶ]]  [[G3036\|λιθοβολῆσαι]]  [[G0846\|αὐτούς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARNABAS|BARNABAS]] • [[topic ICONIUM|ICONIUM]] • [[topic PAUL|PAUL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.4|<< Acts 14:4]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.6|Acts 14:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,62 @@
+---
+title: Exodus 14:6
+type: Verse
+kjv: "And he made ready his chariot, and took his people with him:"
+bsb: "So Pharaoh prepared his chariot and took his army with him."
+hebrew: "וַיֶּאְסֹ֖ר אֶת־ רִכְבּ֑וֹ וְאֶת־ עַמּ֖וֹ לָקַ֥ח עִמּֽוֹ׃"
+pericope: "[[Exod.14.1 Pharaoh Pursues the Israelites|Pharaoh Pursues the Israelites]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 14
+book/chapter: "[[Exod.14|Exodus 14]]"
+chronological_order: 106
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0631]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7393G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H5971K]]"
+- "[[H3947G]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 14:6**<big><big>[[Exod.14.1 Pharaoh Pursues the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made ready his chariot, and took his people with him:
 <small><sub>**BSB:**</sub></small>
 So Pharaoh prepared his chariot and took his army with him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0631\|יֶּאְסֹ֖ר]] [[H0853\|אֶת]][[H9014\|־]] [[H7393G\|רִכְבּ֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5971K\|עַמּ֖]][[H9023\|וֹ]] [[H3947G\|לָקַ֥ח]] [[H5973A\|עִמּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic EGYPT|EGYPT]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic ISRAEL|ISRAEL]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.14.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.5|<< Exodus 14:5]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.7|Exodus 14:7 >>]]</td></tr></table>
 

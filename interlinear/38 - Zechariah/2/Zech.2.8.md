@@ -1,8 +1,65 @@
+---
+title: Zechariah 2:8
+type: Verse
+kjv: "For thus saith the LORD of hosts; After the glory hath he sent me unto the nations which spoiled you: for he that toucheth you toucheth the apple of his eye."
+bsb: "For this is what the LORD of Hosts says: “After His Glory has sent Me against the nations that have plundered you—for whoever touches you touches the apple of His eye—"
+hebrew: "כִּ֣י כֹ֣ה אָמַר֮ יְהוָ֣ה צְבָאוֹת֒ אַחַ֣ר כָּב֔וֹד שְׁלָחַ֕נִי אֶל־ הַגּוֹיִ֖ם הַשֹּׁלְלִ֣ים אֶתְכֶ֑ם כִּ֚י הַנֹּגֵ֣עַ בָּכֶ֔ם נֹגֵ֖עַ בְּבָבַ֥ת עֵינֽוֹ׃"
+pericope: "[[Zech.2.6 The Redemption of Zion|The Redemption of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 2
+book/chapter: "[[Zech.2|Zechariah 2]]"
+chronological_order: 858
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0310A]]"
+- "[[H3519]]"
+- "[[H7971G]]"
+- "[[H9030]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H7997B]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H5060]]"
+- "[[H9003]]"
+- "[[H0892]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 2:8**<big><big>[[Zech.2.6 The Redemption of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD of hosts; After the glory hath he sent me unto the nations which spoiled you: for he that toucheth you toucheth the apple of his eye.
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD of Hosts says: “After His Glory has sent Me against the nations that have plundered you—for whoever touches you touches the apple of His eye—
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3541\|כֹ֣ה]] [[H0559\|אָמַר֮]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָאוֹת֒]] [[H0310A\|אַחַ֣ר]] [[H3519\|כָּב֔וֹד]] [[H7971G\|שְׁלָחַ֕]][[H9030\|נִי]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֖ם]] [[H9009\|הַ]][[H7997B\|שֹּׁלְלִ֣ים]] [[H0853\|אֶתְ]][[H9036\|כֶ֑ם]] [[H3588A\|כִּ֚י]] [[H9009\|הַ]][[H5060\|נֹּגֵ֣עַ]] [[H9003\|בָּ]][[H9036\|כֶ֔ם]] [[H5060\|נֹגֵ֖עַ]] [[H9003\|בְּ]][[H0892\|בָבַ֥ת]] [[H5869A\|עֵינֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.2.7|<< Zechariah 2:7]]</td><td align="center" style="border:none;">[[Zech.2|Zechariah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.2.9|Zechariah 2:9 >>]]</td></tr></table>
 

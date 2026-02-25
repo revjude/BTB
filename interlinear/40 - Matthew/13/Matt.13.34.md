@@ -1,10 +1,54 @@
+---
+title: Matthew 13:34
+type: Verse
+kjv: "All these things spake Jesus unto the multitude in parables; and without a parable spake he not unto them:"
+bsb: "Jesus spoke all these things to the crowds in parables. He did not tell them anything without using a parable."
+greek: "Ταῦτα πάντα ἐλάλησεν ὁ Ἰησοῦς ἐν παραβολαῖς τοῖς ὄχλοις καὶ χωρὶς παραβολῆς οὐδὲν ἐλάλει αὐτοῖς,"
+pericope: "[[Matt.13.34 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 13
+book/chapter: "[[Matt.13|Matthew 13]]"
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SERMON|SERMON]]"
+strongs:
+- "[[G3778]]"
+- "[[G3956]]"
+- "[[G2980]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1722]]"
+- "[[G3850]]"
+- "[[G3793]]"
+- "[[G2532]]"
+- "[[G5565]]"
+- "[[G3762]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 13:34**<big><big>[[Matt.13.34 I Will Open My Mouth in Parables|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 All these things spake Jesus unto the multitude in parables; and without a parable spake he not unto them:
 <small><sub>**BSB:**</sub></small>
 Jesus spoke all these things to the crowds in parables. He did not tell them anything without using a parable.
-<small><sub>**Literal:**</sub></small>
-These things all spoke <the> Jesus in parables to the crowds and without a parable no [thing] He was speaking to them,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.33|<< Matthew 13:33]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.35|Matthew 13:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Ταῦτα]]  [[G3956\|πάντα]]  [[G2980\|ἐλάλησεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G1722\|ἐν]]  [[G3850\|παραβολαῖς]]  [[G3588\|τοῖς]]  [[G3793\|ὄχλοις]]  [[G2532\|καὶ]]  [[G5565\|χωρὶς]]  [[G3850\|παραβολῆς]]  [[G3762\|οὐδὲν]]  [[G2980\|ἐλάλει]]  [[G0846\|αὐτοῖς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SERMON|SERMON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.33|<< Matthew 13:33]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.35|Matthew 13:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

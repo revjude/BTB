@@ -1,8 +1,66 @@
+---
+title: 1 Chronicles 17:6
+type: Verse
+kjv: "Wheresoever I have walked with all Israel, spake I a word to any of the judges of Israel, whom I commanded to feed my people, saying, Why have ye not built me an house of cedars?"
+bsb: "In all My journeys with all the Israelites, have I ever asked any of the leaders I appointed to shepherd My people, ‘Why haven’t you built Me a house of cedar?’"
+hebrew: "בְּכֹ֥ל אֲשֶֽׁר־ הִתְהַלַּכְתִּי֮ בְּכָל־ יִשְׂרָאֵל֒ הֲדָבָ֣ר דִּבַּ֗רְתִּי אֶת־ אַחַד֙ שֹׁפְטֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁ֥ר צִוִּ֛יתִי לִרְע֥וֹת אֶת־ עַמִּ֖י לֵאמֹ֑ר לָ֛מָּה לֹא־ בְנִיתֶ֥ם לִ֖י בֵּ֥ית אֲרָזִֽים׃"
+pericope: "[[1Chr.17.1 God’s Covenant with David|God’s Covenant with David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 17
+book/chapter: "[[1Chr.17|1 Chronicles 17]]"
+chronological_order: 398
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic NATHAN|NATHAN]]"
+strongs:
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1980I]]"
+- "[[H3478]]"
+- "[[H9008]]"
+- "[[H1697G]]"
+- "[[H1696G]]"
+- "[[H0854]]"
+- "[[H0259]]"
+- "[[H8199]]"
+- "[[H6680]]"
+- "[[H9005]]"
+- "[[H7462B]]"
+- "[[H0853]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H3808]]"
+- "[[H1129]]"
+- "[[H9030]]"
+- "[[H1004B]]"
+- "[[H0730]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 17:6**<big><big>[[1Chr.17.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wheresoever I have walked with all Israel, spake I a word to any of the judges of Israel, whom I commanded to feed my people, saying, Why have ye not built me an house of cedars?
 <small><sub>**BSB:**</sub></small>
 In all My journeys with all the Israelites, have I ever asked any of the leaders I appointed to shepherd My people, ‘Why haven’t you built Me a house of cedar?’
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H1980I\|הִתְהַלַּכְתִּי֮]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֒]] [[H9008\|הֲ]][[H1697G\|דָבָ֣ר]] [[H1696G\|דִּבַּ֗רְתִּי]] [[H0854\|אֶת]][[H9014\|־]] [[H0259\|אַחַד֙]] [[H8199\|שֹׁפְטֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0834A\|אֲשֶׁ֥ר]] [[H6680\|צִוִּ֛יתִי]] [[H9005\|לִ]][[H7462B\|רְע֥וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ֖]][[H9020\|י]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H9005\|לָ֛]][[H4100\|מָּה]] [[H3808\|לֹא]][[H9014\|־]] [[H1129\|בְנִיתֶ֥ם]] [[H9005\|לִ֖]][[H9030\|י]] [[H1004B\|בֵּ֥ית]] [[H0730\|אֲרָזִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NATHAN|NATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.5|<< 1 Chronicles 17:5]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.7|1 Chronicles 17:7 >>]]</td></tr></table>
 

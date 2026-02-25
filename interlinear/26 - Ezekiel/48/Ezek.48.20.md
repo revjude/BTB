@@ -1,8 +1,61 @@
+---
+title: Ezekiel 48:20
+type: Verse
+kjv: "All the oblation shall be five and twenty thousand by five and twenty thousand: ye shall offer the holy oblation foursquare, with the possession of the city."
+bsb: "The entire portion will be a square, 25,000 cubits by 25,000 cubits. You are to set apart the holy portion, along with the city property."
+hebrew: "כָּל־ הַתְּרוּמָ֗ה חֲמִשָּׁ֤ה וְעֶשְׂרִים֙ אֶ֔לֶף בַּחֲמִשָּׁ֥ה וְעֶשְׂרִ֖ים אָ֑לֶף רְבִיעִ֗ית תָּרִ֙ימוּ֙ אֶת־ תְּרוּמַ֣ת הַקֹּ֔דֶשׁ אֶל־ אֲחֻזַּ֖ת הָעִֽיר׃"
+pericope: "[[Ezek.48.15 The Common Portion|The Common Portion]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 48
+book/chapter: "[[Ezek.48|Ezekiel 48]]"
+chronological_order: 839
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8641]]"
+- "[[H2568]]"
+- "[[H9002]]"
+- "[[H6242]]"
+- "[[H0505G]]"
+- "[[H9003]]"
+- "[[H7243]]"
+- "[[H7311A]]"
+- "[[H0853]]"
+- "[[H6944G]]"
+- "[[H0413]]"
+- "[[H0272]]"
+- "[[H5892B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 48:20**<big><big>[[Ezek.48.15 The Common Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the oblation [shall be] five and twenty thousand by five and twenty thousand: ye shall offer the holy oblation foursquare, with the possession of the city.
 <small><sub>**BSB:**</sub></small>
 The entire portion will be a square, 25,000 cubits by 25,000 cubits. You are to set apart the holy portion, along with the city property.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H8641\|תְּרוּמָ֗ה]] [[H2568\|חֲמִשָּׁ֤ה]] [[H9002\|וְ]][[H6242\|עֶשְׂרִים֙]] [[H0505G\|אֶ֔לֶף]] [[H9003\|בַּ]][[H2568\|חֲמִשָּׁ֥ה]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֖ים]] [[H0505G\|אָ֑לֶף]] [[H7243\|רְבִיעִ֗ית]] [[H7311A\|תָּרִ֙ימוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H8641\|תְּרוּמַ֣ת]] [[H9009\|הַ]][[H6944G\|קֹּ֔דֶשׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H0272\|אֲחֻזַּ֖ת]] [[H9009\|הָ]][[H5892B\|עִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.19|<< Ezekiel 48:19]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.21|Ezekiel 48:21 >>]]</td></tr></table>
 

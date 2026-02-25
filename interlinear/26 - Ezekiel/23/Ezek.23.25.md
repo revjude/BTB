@@ -1,8 +1,75 @@
+---
+title: Ezekiel 23:25
+type: Verse
+kjv: "And I will set my jealousy against thee, and they shall deal furiously with thee: they shall take away thy nose and thine ears; and thy remnant shall fall by the sword: they shall take thy sons and thy daughters; and thy residue shall be devoured by the fire."
+bsb: "And I will set My jealous rage against you, and they will deal with you in fury. They will cut off your noses and ears, and your survivors will fall by the sword. They will seize your sons and daughters, and your remnant will be consumed by fire."
+hebrew: "וְנָתַתִּ֨י קִנְאָתִ֜י בָּ֗ךְ וְעָשׂ֤וּ אוֹתָךְ֙ בְּחֵמָ֔ה אַפֵּ֤ךְ וְאָזְנַ֙יִךְ֙ יָסִ֔ירוּ וְאַחֲרִיתֵ֖ךְ בַּחֶ֣רֶב תִּפּ֑וֹל הֵ֗מָּה בָּנַ֤יִךְ וּבְנוֹתַ֙יִךְ֙ יִקָּ֔חוּ וְאַחֲרִיתֵ֖ךְ תֵּאָכֵ֥ל בָּאֵֽשׁ׃"
+pericope: "[[Ezek.23.22 Oholibah to Be Plagued|Oholibah to Be Plagued]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 23
+book/chapter: "[[Ezek.23|Ezekiel 23]]"
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic FIRE|FIRE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic NOSE|NOSE]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H7068]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H9032]]"
+- "[[H6213A]]"
+- "[[H0854]]"
+- "[[H2534]]"
+- "[[H0639H]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H0241G]]"
+- "[[H5493G]]"
+- "[[H0319]]"
+- "[[H2719]]"
+- "[[H5307J]]"
+- "[[H1992]]"
+- "[[H1121A]]"
+- "[[H1323G]]"
+- "[[H3947G]]"
+- "[[H0398]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 23:25**<big><big>[[Ezek.23.22 Oholibah to Be Plagued|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will set my jealousy against thee, and they shall deal furiously with thee: they shall take away thy nose and thine ears; and thy remnant shall fall by the sword: they shall take thy sons and thy daughters; and thy residue shall be devoured by the fire.
 <small><sub>**BSB:**</sub></small>
 And I will set My jealous rage against you, and they will deal with you in fury. They will cut off your noses and ears, and your survivors will fall by the sword. They will seize your sons and daughters, and your remnant will be consumed by fire.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414G\|נָתַתִּ֨י]] [[H7068\|קִנְאָתִ֜]][[H9020\|י]] [[H9003\|בָּ֗]][[H9032\|ךְ]] [[H9001\|וְ]][[H6213A\|עָשׂ֤וּ]] [[H0854\|אוֹתָ]][[H9032\|ךְ֙]] [[H9003\|בְּ]][[H2534\|חֵמָ֔ה]] [[H0639H\|אַפֵּ֤]][[H9022\|ךְ]] [[H9002\|וְ]][[H0241G\|אָזְנַ֙יִ]][[H9022\|ךְ֙]] [[H5493G\|יָסִ֔ירוּ]] [[H9002\|וְ]][[H0319\|אַחֲרִיתֵ֖]][[H9022\|ךְ]] [[H9003\|בַּ]][[H2719\|חֶ֣רֶב]] [[H5307J\|תִּפּ֑וֹל]] [[H1992\|הֵ֗מָּה]] [[H1121A\|בָּנַ֤יִ]][[H9022\|ךְ]] [[H9002\|וּ]][[H1323G\|בְנוֹתַ֙יִ]][[H9022\|ךְ֙]] [[H3947G\|יִקָּ֔חוּ]] [[H9002\|וְ]][[H0319\|אַחֲרִיתֵ֖]][[H9022\|ךְ]] [[H0398\|תֵּאָכֵ֥ל]] [[H9003\|בָּ]][[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTIVE|CAPTIVE]] • [[topic FIRE|FIRE]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEALOUSY|JEALOUSY]] • [[topic NOSE|NOSE]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.24|<< Ezekiel 23:24]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.26|Ezekiel 23:26 >>]]</td></tr></table>
 

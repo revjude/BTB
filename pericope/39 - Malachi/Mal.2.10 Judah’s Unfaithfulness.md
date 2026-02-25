@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judah’s Unfaithfulness
+type: Pericope
 pericope: "[[Mal.2.10 Judah’s Unfaithfulness|Judah’s Unfaithfulness]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Malachi
 chapter: 2
 book/chapter: "[[Mal.2|Malachi 2]]"
-genre:
+chronological_order: 927
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - post exilic
 - dialogue
+verse_count: 8
 verses:
 - "[[Mal.2.10]]"
 - "[[Mal.2.11]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Mal.2.17]]"
 ---
 
-[[Mal.2|Malachi 2:10 - Malachi 2:17]]
+<small>[[Mal.2|Malachi 2:10-17]]</small>
 *Judah’s Unfaithfulness*
 
 [[Mal.2.10|10]] Have we not all one father? hath not one God created us? why do we deal treacherously every man against his brother, by profaning the covenant of our fathers?

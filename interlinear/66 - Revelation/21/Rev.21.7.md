@@ -1,10 +1,58 @@
+---
+title: Revelation 21:7
+type: Verse
+kjv: "He that overcometh shall inherit all things; and I will be his God, and he shall be my son."
+bsb: "The one who overcomes will inherit all things, and I will be his God, and he will be My son."
+greek: "ὁ νικῶν κληρονομήσει ταῦτα, καὶ ἔσομαι αὐτῷ θεός, καὶ αὐτὸς ἔσται μοι ὁ υἱός."
+pericope: "[[Rev.21.1 A New Heaven and a New Earth|A New Heaven and a New Earth]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 21
+book/chapter: "[[Rev.21|Revelation 21]]"
+chronological_order: 1188
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G3588]]"
+- "[[G3528]]"
+- "[[G2816]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G0846]]"
+- "[[G2316]]"
+- "[[G3165]]"
+- "[[G5207]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Revelation 21:7**<big><big>[[Rev.21.1 A New Heaven and a New Earth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He that overcometh shall inherit all things; and I will be his God, and he shall be my son.
 <small><sub>**BSB:**</sub></small>
 The one who overcomes will inherit all things, and I will be his God, and he will be My son.
-<small><sub>**Literal:**</sub></small>
-The [one] overcoming he will inherit these [things], and I will be to him God, and he himself will be My <the> son.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.6|<< Revelation 21:6]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.8|Revelation 21:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G3528\|νικῶν]]  [[G2816\|κληρονομήσει]]  [[G3778\|ταῦτα,]]  [[G2532\|καὶ]]  [[G1510\|ἔσομαι]]  [[G0846\|αὐτῷ]]  [[G2316\|θεός,]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G1510\|ἔσται]]  [[G3165\|μοι]]  [[G3588\|ὁ]]  [[G5207\|υἱός.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic DECISION|DECISION]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.6|<< Revelation 21:6]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.8|Revelation 21:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 21:7** is...
 > $\quad$ referencing: [[LXX.2Sam.7.14|2Sam 7:14]] ☩ [[LXX.1Chr.17.13|1Chr 17:13]] ☩ [[LXX.Ezek.11.20|Ezek 11:20]]

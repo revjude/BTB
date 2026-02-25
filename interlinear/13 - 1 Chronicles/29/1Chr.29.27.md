@@ -1,8 +1,57 @@
+---
+title: 1 Chronicles 29:27
+type: Verse
+kjv: "And the time that he reigned over Israel was forty years; seven years reigned he in Hebron, and thirty and three years reigned he in Jerusalem."
+bsb: "The length of David’s reign over Israel was forty years—seven years in Hebron and thirty-three years in Jerusalem."
+hebrew: "וְהַיָּמִ֗ים אֲשֶׁ֤ר מָלַךְ֙ עַל־ יִשְׂרָאֵ֔ל אַרְבָּעִ֖ים שָׁנָ֑ה בְּחֶבְר֤וֹן מָלַךְ֙ שֶׁ֣בַע שָׁנִ֔ים וּבִירוּשָׁלִַ֥ם מָלַ֖ךְ שְׁלֹשִׁ֥ים וְשָׁלֽוֹשׁ׃"
+pericope: "[[1Chr.29.26 David’s Reign and Death|David’s Reign and Death]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 29
+book/chapter: "[[1Chr.29|1 Chronicles 29]]"
+chronological_order: 440
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0834A]]"
+- "[[H4427A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0705]]"
+- "[[H8141]]"
+- "[[H9003]]"
+- "[[H2275A]]"
+- "[[H7651]]"
+- "[[H3389]]"
+- "[[H7970]]"
+- "[[H7969]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 29:27**<big><big>[[1Chr.29.26 David’s Reign and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the time that he reigned over Israel [was] forty years; seven years reigned he in Hebron, and thirty and three [years] reigned he in Jerusalem.
 <small><sub>**BSB:**</sub></small>
 The length of David’s reign over Israel was forty years—seven years in Hebron and thirty-three years in Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H3117G\|יָּמִ֗ים]] [[H0834A\|אֲשֶׁ֤ר]] [[H4427A\|מָלַךְ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0705\|אַרְבָּעִ֖ים]] [[H8141\|שָׁנָ֑ה]] [[H9003\|בְּ]][[H2275A\|חֶבְר֤וֹן]] [[H4427A\|מָלַךְ֙]] [[H7651\|שֶׁ֣בַע]] [[H8141\|שָׁנִ֔ים]] [[H9002\|וּ]][[H9003\|בִ]][[H3389\|ירוּשָׁלִַ֥ם]] [[H4427A\|מָלַ֖ךְ]] [[H7970\|שְׁלֹשִׁ֥ים]] [[H9002\|וְ]][[H7969\|שָׁלֽוֹשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.26|<< 1 Chronicles 29:26]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.28|1 Chronicles 29:28 >>]]</td></tr></table>
 

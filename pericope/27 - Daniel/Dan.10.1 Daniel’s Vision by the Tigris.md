@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Daniel’s Vision by the Tigris
+type: Pericope
 pericope: "[[Dan.10.1 Daniel’s Vision by the Tigris|Daniel’s Vision by the Tigris]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: Daniel
 chapter: 10
 book/chapter: "[[Dan.10|Daniel 10]]"
-genre:
+chronological_order: 846
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 21
 verses:
 - "[[Dan.10.1]]"
 - "[[Dan.10.2]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Dan.10.21]]"
 ---
 
-[[Dan.10|Daniel 10:1 - Daniel 10:21]]
+<small>[[Dan.10|Daniel 10:1-21]]</small>
 *Daniel’s Vision by the Tigris*
 
 [[Dan.10.1|1]] In the third year of Cyrus king of Persia a thing was revealed unto Daniel, whose name was called Belteshazzar; and the thing \[was\] true, but the time appointed \[was\] long: and he understood the thing, and had understanding of the vision.

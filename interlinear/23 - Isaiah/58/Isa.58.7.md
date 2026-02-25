@@ -1,8 +1,73 @@
+---
+title: Isaiah 58:7
+type: Verse
+kjv: "Is it not to deal thy bread to the hungry, and that thou bring the poor that are cast out to thy house? when thou seest the naked, that thou cover him; and that thou hide not thyself from thine own flesh?"
+bsb: "Isn’t it to share your bread with the hungry, to bring the poor and homeless into your home, to clothe the naked when you see him, and not to turn away from your own flesh and blood?"
+hebrew: "הֲל֨וֹא פָרֹ֤ס לָֽרָעֵב֙ לַחְמֶ֔ךָ וַעֲנִיִּ֥ים מְרוּדִ֖ים תָּ֣בִיא בָ֑יִת כִּֽי־ תִרְאֶ֤ה עָרֹם֙ וְכִסִּית֔וֹ וּמִבְּשָׂרְךָ֖ לֹ֥א תִתְעַלָּֽם׃"
+pericope: "[[Isa.58.1 True Fasts and Sabbaths|True Fasts and Sabbaths]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 58
+book/chapter: "[[Isa.58|Isaiah 58]]"
+chronological_order: 697
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTED|AFFLICTED]]"
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic DUTY|DUTY]]"
+- "[[topic FASTING|FASTING]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic PHILANTHROPY|PHILANTHROPY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H6536]]"
+- "[[H9005]]"
+- "[[H7457]]"
+- "[[H3899H]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H6041]]"
+- "[[H4788]]"
+- "[[H0935P]]"
+- "[[H1004B]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H6174]]"
+- "[[H9001]]"
+- "[[H3680]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H1320]]"
+- "[[H5956]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 58:7**<big><big>[[Isa.58.1 True Fasts and Sabbaths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is it] not to deal thy bread to the hungry, and that thou bring the poor that are cast out to thy house? when thou seest the naked, that thou cover him; and that thou hide not thyself from thine own flesh?
 <small><sub>**BSB:**</sub></small>
 Isn’t it to share your bread with the hungry, to bring the poor and homeless into your home, to clothe the naked when you see him, and not to turn away from your own flesh and blood?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|ל֨וֹא]] [[H6536\|פָרֹ֤ס]] [[H9005\|לָֽ]][[H7457\|רָעֵב֙]] [[H3899H\|לַחְמֶ֔]][[H9021\|ךָ]] [[H9002\|וַ]][[H6041\|עֲנִיִּ֥ים]] [[H4788\|מְרוּדִ֖ים]] [[H0935P\|תָּ֣בִיא]] [[H1004B\|בָ֑יִת]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7200G\|תִרְאֶ֤ה]] [[H6174\|עָרֹם֙]] [[H9001\|וְ]][[H3680\|כִסִּית֔]][[H9033\|וֹ]] [[H9002\|וּ]][[H9006\|מִ]][[H1320\|בְּשָׂרְ]][[H9021\|ךָ֖]] [[H3808\|לֹ֥א]] [[H5956\|תִתְעַלָּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTED|AFFLICTED]] • [[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic DUTY|DUTY]] • [[topic FASTING|FASTING]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic PHILANTHROPY|PHILANTHROPY]] • [[topic POOR|POOR]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.58.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.58.6|<< Isaiah 58:6]]</td><td align="center" style="border:none;">[[Isa.58|Isaiah 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58.8|Isaiah 58:8 >>]]</td></tr></table>
 

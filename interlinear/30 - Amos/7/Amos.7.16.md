@@ -1,8 +1,61 @@
+---
+title: Amos 7:16
+type: Verse
+kjv: "Now therefore hear thou the word of the LORD: Thou sayest, Prophesy not against Israel, and drop not thy word against the house of Isaac."
+bsb: "Now, therefore, hear the word of the LORD. You say: ‘Do not prophesy against Israel; do not preach against the house of Isaac.’"
+hebrew: "וְעַתָּ֖ה שְׁמַ֣ע דְּבַר־ יְהוָ֑ה אַתָּ֣ה אֹמֵ֗ר לֹ֤א תִנָּבֵא֙ עַל־ יִשְׂרָאֵ֔ל וְלֹ֥א תַטִּ֖יף עַל־ בֵּ֥ית יִשְׂחָֽק׃"
+pericope: "[[Amos.7.10 Amaziah Accuses Amos|Amaziah Accuses Amos]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 7
+book/chapter: "[[Amos.7|Amos 7]]"
+chronological_order: 604
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic AMAZIAH|AMAZIAH]]"
+- "[[topic AMOS|AMOS]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H8085G]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0859A]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H5012]]"
+- "[[H5921A]]"
+- "[[H3478]]"
+- "[[H5197]]"
+- "[[H1004M]]"
+- "[[H3446]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 7:16**<big><big>[[Amos.7.10 Amaziah Accuses Amos|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore hear thou the word of the LORD: Thou sayest, Prophesy not against Israel, and drop not [thy word] against the house of Isaac.
 <small><sub>**BSB:**</sub></small>
 Now, therefore, hear the word of the LORD. You say: ‘Do not prophesy against Israel; do not preach against the house of Isaac.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֖ה]] [[H8085G\|שְׁמַ֣ע]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H0859A\|אַתָּ֣ה]] [[H0559\|אֹמֵ֗ר]] [[H3808\|לֹ֤א]] [[H5012\|תִנָּבֵא֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5197\|תַטִּ֖יף]] [[H5921A\|עַל]][[H9014\|־]] [[H1004M\|בֵּ֥ית]] [[H3446\|יִשְׂחָֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMAZIAH|AMAZIAH]] • [[topic AMOS|AMOS]] • [[topic INFIDELITY|INFIDELITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.7.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.7.15|<< Amos 7:15]]</td><td align="center" style="border:none;">[[Amos.7|Amos 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.7.17|Amos 7:17 >>]]</td></tr></table>
 

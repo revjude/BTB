@@ -1,8 +1,58 @@
+---
+title: Psalm 80:6
+type: Verse
+kjv: "Thou makest us a strife unto our neighbours: and our enemies laugh among themselves."
+bsb: "You make us contend with our neighbors; our enemies mock us."
+hebrew: "תְּשִׂימֵ֣נוּ מָ֭דוֹן לִשְׁכֵנֵ֑ינוּ וְ֝אֹיְבֵ֗ינוּ יִלְעֲגוּ־ לָֽמוֹ׃"
+pericope: "[[Ps.80.1 Hear Us, O Shepherd of Israel|Hear Us, O Shepherd of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 80
+book/chapter: "[[Ps.80|Psalm 80]]"
+chronological_order: 783
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[H7760A]]"
+- "[[H9035]]"
+- "[[H4066]]"
+- "[[H9005]]"
+- "[[H7934]]"
+- "[[H9025]]"
+- "[[H9002]]"
+- "[[H0341]]"
+- "[[H3932]]"
+- "[[H9014]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 80:6**<big><big>[[Ps.80.1 Hear Us, O Shepherd of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou makest us a strife unto our neighbours: and our enemies laugh among themselves.
 <small><sub>**BSB:**</sub></small>
 You make us contend with our neighbors; our enemies mock us.
+<small><sub>**Hebrew:**</sub></small>
+[[H7760A\|תְּשִׂימֵ֣]][[H9035\|נוּ]] [[H4066\|מָ֭דוֹן]] [[H9005\|לִ]][[H7934\|שְׁכֵנֵ֑י]][[H9025\|נוּ]] [[H9002\|וְ֝]][[H0341\|אֹיְבֵ֗י]][[H9025\|נוּ]] [[H3932\|יִלְעֲגוּ]][[H9014\|־]] [[H9005\|לָֽ]][[H9038\|מוֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic STRIFE|STRIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.80.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.80.5|<< Psalms 80:5]]</td><td align="center" style="border:none;">[[Ps.80|Psalms 80]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.80.7|Psalms 80:7 >>]]</td></tr></table>
 

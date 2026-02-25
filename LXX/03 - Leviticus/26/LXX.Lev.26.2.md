@@ -1,6 +1,54 @@
+---
+title: LXX Leviticus 26:2
+type: Verse
+lxx: "My Sabbaths you shall keep, and of  my holy things you shall fear. I am the lord."
+greek: "τα σάββατά μου φυλάξεσθε και από των αγίων μου φοβηθήσεσθε εγώ κύριος"
+original_language: Greek
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SANCTUARY|SANCTUARY]]"
+strongs:
+- "[[G3588]]"
+- "[[G4521]]"
+- "[[G1473]]"
+- "[[G5442]]"
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G0039]]"
+- "[[G1473]]"
+- "[[G5399]]"
+- "[[G1473]]"
+- "[[G2962]]"
+---
+
 **LXX Leviticus 26:2** 
 <small><sub>**LXX:**</sub></small>
  My Sabbaths you shall keep, and of  my holy \[things\] you shall fear. I \[am\] \[the\] <span class="smallcaps">lord</span>. 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τα]] [[G4521\|σάββατά]] [[G1473\|μου]] [[G5442\|φυλάξεσθε]] [[G2532\|και]] [[G0575\|από]] [[G3588\|των]] [[G0039\|αγίων]] [[G1473\|μου]] [[G5399\|φοβηθήσεσθε]] [[G1473\|εγώ]] [[G2962\|κύριος]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REVERENCE|REVERENCE]] • [[topic SABBATH|SABBATH]] • [[topic SANCTUARY|SANCTUARY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Lev.26.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.1|<< Leviticus 26:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.3|Leviticus 26:3 >>]]</td></tr></table>
 
@@ -16,6 +64,6 @@
 | you shall fear. | **<big>[[G5399\|φοβηθήσεσθε]]</big>** |
 | I \[am\] | **<big>[[G1473\|εγώ]]</big>** |
 | \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
-[[Lev.26.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.1|<< Leviticus 26:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.3|Leviticus 26:3 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.1|<< Leviticus 26:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.3|Leviticus 26:3 >>]]</td></tr></table>
 
 

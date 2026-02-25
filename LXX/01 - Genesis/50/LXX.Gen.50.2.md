@@ -1,6 +1,62 @@
+---
+title: LXX Genesis 50:2
+type: Verse
+lxx: "And Joseph assigned to his servants, to the embalmers to embalm  his father. And the embalmers embalmed  Israel."
+greek: "και προσέταξεν Ιωσήφ τοις παισίν αυτού τοις ενταφιασταίς ενταφιάσαι τον πατέρα αυτού και ενεταφίασαν οι ενταφιασταί τον Ισραήλ"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 50
+book/chapter: "[[Gen.50|Genesis 50]]"
+chronological_order: 92
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic EMBALMING|EMBALMING]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G4367]]"
+- "[[G2501]]"
+- "[[G3588]]"
+- "[[G3816]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G7264]]"
+- "[[G1779]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1779]]"
+- "[[G3588]]"
+- "[[G7264]]"
+- "[[G3588]]"
+- "[[G2474]]"
+---
+
 **LXX Genesis 50:2** 
 <small><sub>**LXX:**</sub></small>
 And Joseph assigned \[to\] his servants, to the embalmers to embalm  his father. And the embalmers embalmed  Israel. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G4367\|προσέταξεν]] [[G2501\|Ιωσήφ]] [[G3588\|τοις]] [[G3816\|παισίν]] [[G1473\|αυτού]] [[G3588\|τοις]] [[G7264\|ενταφιασταίς]] [[G1779\|ενταφιάσαι]] [[G3588\|τον]] [[G3962\|πατέρα]] [[G1473\|αυτού]] [[G2532\|και]] [[G1779\|ενεταφίασαν]] [[G3588\|οι]] [[G7264\|ενταφιασταί]] [[G3588\|τον]] [[G2474\|Ισραήλ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic EMBALMING|EMBALMING]] • [[topic JACOB|JACOB]] • [[topic JOSEPH|JOSEPH]] • [[topic MOURNING|MOURNING]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.50.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.1|<< Genesis 50:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.3|Genesis 50:3 >>]]</td></tr></table>
 
@@ -21,6 +77,6 @@ And Joseph assigned \[to\] his servants, to the embalmers to embalm  his father.
 | embalmers | **<big>[[G7264\|ενταφιασταί]]</big>** |
 | \<obj.> | **<big>[[G3588\|τον]]</big>** |
 | Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
-[[Gen.50.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.1|<< Genesis 50:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.3|Genesis 50:3 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.1|<< Genesis 50:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.3|Genesis 50:3 >>]]</td></tr></table>
 
 

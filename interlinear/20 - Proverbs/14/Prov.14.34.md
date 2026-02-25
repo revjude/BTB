@@ -1,8 +1,51 @@
+---
+title: Proverbs 14:34
+type: Verse
+kjv: "Righteousness exalteth a nation: but sin is a reproach to any people."
+bsb: "Righteousness exalts a nation, but sin is a disgrace to any people."
+hebrew: "צְדָקָ֥ה תְרֽוֹמֵֽם־ גּ֑וֹי וְחֶ֖סֶד לְאֻמִּ֣ים חַטָּֽאת׃"
+pericope: "[[Prov.14.1 The Wise Woman|The Wise Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 14
+book/chapter: "[[Prov.14|Proverbs 14]]"
+chronological_order: 469
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic NATION|NATION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[H6666]]"
+- "[[H7311A]]"
+- "[[H9014]]"
+- "[[H1471A]]"
+- "[[H9002]]"
+- "[[H2617B]]"
+- "[[H3816]]"
+- "[[H2403B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 14:34**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Righteousness exalteth a nation: but sin [is] a reproach to any people.
 <small><sub>**BSB:**</sub></small>
 Righteousness exalts a nation, but sin is a disgrace to any people.
+<small><sub>**Hebrew:**</sub></small>
+[[H6666\|צְדָקָ֥ה]] [[H7311A\|תְרֽוֹמֵֽם]][[H9014\|־]] [[H1471A\|גּ֑וֹי]] [[H9002\|וְ]][[H2617B\|חֶ֖סֶד]] [[H3816\|לְאֻמִּ֣ים]] [[H2403B\|חַטָּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic NATION|NATION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.33|<< Proverbs 14:33]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.35|Proverbs 14:35 >>]]</td></tr></table>
 

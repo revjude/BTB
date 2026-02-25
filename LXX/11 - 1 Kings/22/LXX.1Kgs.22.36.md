@@ -1,6 +1,60 @@
+---
+title: LXX 1 Kings 22:36
+type: Verse
+lxx: "And the herald of the army stood in the camp until the going down of the sun, saying, Each to  his own city, and each to  his own land,"
+greek: "και έστη ο στρατοήρυξ εν τη παρεμβολή δύνοντος του ηλίου λέγων έκαστος εις την εαυτού πόλιν και έκαστος εις την εαυτού γην"
+original_language: Greek
+testament: Old
+book: 1 Kings
+chapter: 22
+book/chapter: "[[1Kgs.22|1 Kings 22]]"
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]"
+strongs:
+- "[[G2532]]"
+- "[[G2476]]"
+- "[[G3588]]"
+- "[[G9196]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3925]]"
+- "[[G1416]]"
+- "[[G3588]]"
+- "[[G2246]]"
+- "[[G3004]]"
+- "[[G1538]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1438]]"
+- "[[G4172]]"
+- "[[G2532]]"
+- "[[G1538]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1438]]"
+- "[[G1093]]"
+---
+
 **LXX 1 Kings 22:36** 
 <small><sub>**LXX:**</sub></small>
 And the herald of the army stood in the camp \[until the\] going down of the sun, saying, Each to  his own city, and each to  his own land, 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2476\|έστη]] [[G3588\|ο]] [[G9196\|στρατοήρυξ]] [[G1722\|εν]] [[G3588\|τη]] [[G3925\|παρεμβολή]] [[G1416\|δύνοντος]] [[G3588\|του]] [[G2246\|ηλίου]] [[G3004\|λέγων]] [[G1538\|έκαστος]] [[G1519\|εις]] [[G3588\|την]] [[G1438\|εαυτού]] [[G4172\|πόλιν]] [[G2532\|και]] [[G1538\|έκαστος]] [[G1519\|εις]] [[G3588\|την]] [[G1438\|εαυτού]] [[G1093\|γην]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHECY|PROPHECY]] • [[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Kgs.22.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.35|<< 1 Kings 22:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.37|1 Kings 22:37 >>]]</td></tr></table>
 
@@ -28,6 +82,6 @@ And the herald of the army stood in the camp \[until the\] going down of the sun
 | \<obj.> | **<big>[[G3588\|την]]</big>** |
 | his own | **<big>[[G1438\|εαυτού]]</big>** |
 | land, | **<big>[[G1093\|γην]]</big>** |
-[[1Kgs.22.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.35|<< 1 Kings 22:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.37|1 Kings 22:37 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.35|<< 1 Kings 22:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.37|1 Kings 22:37 >>]]</td></tr></table>
 
 

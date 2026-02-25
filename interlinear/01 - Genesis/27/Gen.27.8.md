@@ -1,8 +1,68 @@
+---
+title: Genesis 27:8
+type: Verse
+kjv: "Now therefore, my son, obey my voice according to that which I command thee."
+bsb: "Now, my son, listen to my voice and do exactly as I tell you."
+hebrew: "וְעַתָּ֥ה בְנִ֖י שְׁמַ֣ע בְּקֹלִ֑י לַאֲשֶׁ֥ר אֲנִ֖י מְצַוָּ֥ה אֹתָֽךְ׃"
+pericope: "[[Gen.27.1 Isaac Blesses Jacob|Isaac Blesses Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic FAVORITISM|FAVORITISM]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H9005]]"
+- "[[H0834A]]"
+- "[[H0589]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:8**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore, my son, obey my voice according to that which I command thee.
 <small><sub>**BSB:**</sub></small>
 Now, my son, listen to my voice and do exactly as I tell you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֥ה]] [[H1121A\|בְנִ֖]][[H9020\|י]] [[H8085H\|שְׁמַ֣ע]] [[H9003\|בְּ]][[H6963A\|קֹלִ֑]][[H9020\|י]] [[H9005\|לַ]][[H0834A\|אֲשֶׁ֥ר]] [[H0589\|אֲנִ֖י]] [[H6680\|מְצַוָּ֥ה]] [[H0853\|אֹתָֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DECEPTION|DECEPTION]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FAMILY|FAMILY]] • [[topic FAVORITISM|FAVORITISM]] • [[topic JACOB|JACOB]] • [[topic PARENTS|PARENTS]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.7|<< Genesis 27:7]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.9|Genesis 27:9 >>]]</td></tr></table>
 

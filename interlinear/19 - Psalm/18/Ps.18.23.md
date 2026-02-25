@@ -1,8 +1,49 @@
+---
+title: Psalm 18:23
+type: Verse
+kjv: "I was also upright before him, and I kept myself from mine iniquity."
+bsb: "And I have been blameless before Him and kept myself from iniquity."
+hebrew: "וָאֱהִ֣י תָמִ֣ים עִמּ֑וֹ וָ֝אֶשְׁתַּמֵּ֗ר מֵעֲוֹנִֽי׃"
+pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H8549H]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H8104H]]"
+- "[[H9006]]"
+- "[[H5771G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 18:23**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I was also upright before him, and I kept myself from mine iniquity.
 <small><sub>**BSB:**</sub></small>
 And I have been blameless before Him and kept myself from iniquity.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H1961\|אֱהִ֣י]] [[H8549H\|תָמִ֣ים]] [[H5973A\|עִמּ֑]][[H9033\|וֹ]] [[H9001\|וָ֝]][[H8104H\|אֶשְׁתַּמֵּ֗ר]] [[H9006\|מֵ]][[H5771G\|עֲוֹנִֽ]][[H9020\|י]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.22|<< Psalms 18:22]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.24|Psalms 18:24 >>]]</td></tr></table>
 

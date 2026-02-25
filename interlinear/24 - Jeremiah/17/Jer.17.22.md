@@ -1,8 +1,65 @@
+---
+title: Jeremiah 17:22
+type: Verse
+kjv: "Neither carry forth a burden out of your houses on the sabbath day, neither do ye any work, but hallow ye the sabbath day, as I commanded your fathers."
+bsb: "You must not carry a load out of your houses or do any work on the Sabbath day, but you must keep the Sabbath day holy, just as I commanded your forefathers."
+hebrew: "וְלֹא־ תוֹצִ֨יאוּ מַשָּׂ֤א מִבָּֽתֵּיכֶם֙ בְּי֣וֹם הַשַּׁבָּ֔ת וְכָל־ מְלָאכָ֖ה לֹ֣א תַֽעֲשׂ֑וּ וְקִדַּשְׁתֶּם֙ אֶת־ י֣וֹם הַשַּׁבָּ֔ת כַּאֲשֶׁ֥ר צִוִּ֖יתִי אֶת־ אֲבוֹתֵיכֶֽם׃"
+pericope: "[[Jer.17.19 Restoring the Sabbath|Restoring the Sabbath]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 17
+book/chapter: "[[Jer.17|Jeremiah 17]]"
+chronological_order: 734
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3318H]]"
+- "[[H4853A]]"
+- "[[H9006]]"
+- "[[H1004B]]"
+- "[[H9026]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7676]]"
+- "[[H3605]]"
+- "[[H4399]]"
+- "[[H6213A]]"
+- "[[H9001]]"
+- "[[H6942G]]"
+- "[[H0853]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 17:22**<big><big>[[Jer.17.19 Restoring the Sabbath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither carry forth a burden out of your houses on the sabbath day, neither do ye any work, but hallow ye the sabbath day, as I commanded your fathers.
 <small><sub>**BSB:**</sub></small>
 You must not carry a load out of your houses or do any work on the Sabbath day, but you must keep the Sabbath day holy, just as I commanded your forefathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3318H\|תוֹצִ֨יאוּ]] [[H4853A\|מַשָּׂ֤א]] [[H9006\|מִ]][[H1004B\|בָּֽתֵּי]][[H9026\|כֶם֙]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H9009\|הַ]][[H7676\|שַּׁבָּ֔ת]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H4399\|מְלָאכָ֖ה]] [[H3808\|לֹ֣א]] [[H6213A\|תַֽעֲשׂ֑וּ]] [[H9001\|וְ]][[H6942G\|קִדַּשְׁתֶּם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3117G\|י֣וֹם]] [[H9009\|הַ]][[H7676\|שַּׁבָּ֔ת]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H6680\|צִוִּ֖יתִי]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אֲבוֹתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SABBATH|SABBATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.21|<< Jeremiah 17:21]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.23|Jeremiah 17:23 >>]]</td></tr></table>
 

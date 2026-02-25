@@ -1,8 +1,68 @@
+---
+title: Judges 16:7
+type: Verse
+kjv: "And Samson said unto her, If they bind me with seven green withs that were never dried, then shall I be weak, and be as another man."
+bsb: "Samson told her, “If they tie me up with seven fresh bowstrings that have not been dried, I will become as weak as any other man.”"
+hebrew: "וַיֹּ֤אמֶר אֵלֶ֙יהָ֙ שִׁמְשׁ֔וֹן אִם־ יַאַסְרֻ֗נִי בְּשִׁבְעָ֛ה יְתָרִ֥ים לַחִ֖ים אֲשֶׁ֣ר לֹא־ חֹרָ֑בוּ וְחָלִ֥יתִי וְהָיִ֖יתִי כְּאַחַ֥ד הָאָדָֽם׃"
+pericope: "[[Judg.16.4 Samson and Delilah|Samson and Delilah]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 16
+book/chapter: "[[Judg.16|Judges 16]]"
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DELILAH|DELILAH]]"
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H8123]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H0631]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H7651]]"
+- "[[H3499B]]"
+- "[[H3892]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H2717A]]"
+- "[[H2470A]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0259]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 16:7**<big><big>[[Judg.16.4 Samson and Delilah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samson said unto her, If they bind me with seven green withs that were never dried, then shall I be weak, and be as another man.
 <small><sub>**BSB:**</sub></small>
 Samson told her, “If they tie me up with seven fresh bowstrings that have not been dried, I will become as weak as any other man.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֵלֶ֙י]][[H9034\|הָ֙]] [[H8123\|שִׁמְשׁ֔וֹן]] [[H0518A\|אִם]][[H9014\|־]] [[H0631\|יַאַסְרֻ֗]][[H9030\|נִי]] [[H9003\|בְּ]][[H7651\|שִׁבְעָ֛ה]] [[H3499B\|יְתָרִ֥ים]] [[H3892\|לַחִ֖ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H3808\|לֹא]][[H9014\|־]] [[H2717A\|חֹרָ֑בוּ]] [[H9001\|וְ]][[H2470A\|חָלִ֥יתִי]] [[H9001\|וְ]][[H1961\|הָיִ֖יתִי]] [[H9004\|כְּ]][[H0259\|אַחַ֥ד]] [[H9009\|הָ]][[H0120G\|אָדָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSPIRACY|CONSPIRACY]] • [[topic DECEPTION|DECEPTION]] • [[topic DELILAH|DELILAH]] • [[topic FRIENDS|FRIENDS]] • [[topic SAMSON|SAMSON]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.6|<< Judges 16:6]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.8|Judges 16:8 >>]]</td></tr></table>
 

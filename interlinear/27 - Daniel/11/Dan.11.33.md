@@ -1,8 +1,57 @@
+---
+title: Daniel 11:33
+type: Verse
+kjv: "And they that understand among the people shall instruct many: yet they shall fall by the sword, and by flame, by captivity, and by spoil, many days."
+bsb: "Those with insight will instruct many, though for a time they will fall by sword or flame, or be captured or plundered."
+hebrew: "וּמַשְׂכִּ֣ילֵי עָ֔ם יָבִ֖ינוּ לָֽרַבִּ֑ים וְנִכְשְׁל֞וּ בְּחֶ֧רֶב וּבְלֶהָבָ֛ה בִּשְׁבִ֥י וּבְבִזָּ֖ה יָמִֽים׃"
+pericope: "[[Dan.11.1 Kings of the South and North|Kings of the South and North]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9002]]"
+- "[[H7919A]]"
+- "[[H5971A]]"
+- "[[H0995]]"
+- "[[H9005]]"
+- "[[H7227A]]"
+- "[[H9001]]"
+- "[[H3782]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H3852]]"
+- "[[H7628A]]"
+- "[[H0961]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 11:33**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they that understand among the people shall instruct many: yet they shall fall by the sword, and by flame, by captivity, and by spoil, [many] days.
 <small><sub>**BSB:**</sub></small>
 Those with insight will instruct many, though for a time they will fall by sword or flame, or be captured or plundered.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H7919A\|מַשְׂכִּ֣ילֵי]] [[H5971A\|עָ֔ם]] [[H0995\|יָבִ֖ינוּ]] [[H9005\|לָֽ]][[H7227A\|רַבִּ֑ים]] [[H9001\|וְ]][[H3782\|נִכְשְׁל֞וּ]] [[H9003\|בְּ]][[H2719\|חֶ֧רֶב]] [[H9002\|וּ]][[H9003\|בְ]][[H3852\|לֶהָבָ֛ה]] [[H9003\|בִּ]][[H7628A\|שְׁבִ֥י]] [[H9002\|וּ]][[H9003\|בְ]][[H0961\|בִזָּ֖ה]] [[H3117G\|יָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.32|<< Daniel 11:32]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.34|Daniel 11:34 >>]]</td></tr></table>
 

@@ -1,8 +1,77 @@
+---
+title: Exodus 13:16
+type: Verse
+kjv: "And it shall be for a token upon thine hand, and for frontlets between thine eyes: for by strength of hand the LORD brought us forth out of Egypt."
+bsb: "So it shall serve as a sign on your hand and a symbol on your forehead, for with a mighty hand the LORD brought us out of Egypt.”"
+hebrew: "וְהָיָ֤ה לְאוֹת֙ עַל־ יָ֣דְכָ֔ה וּלְטוֹטָפֹ֖ת בֵּ֣ין עֵינֶ֑יךָ כִּ֚י בְּחֹ֣זֶק יָ֔ד הוֹצִיאָ֥נוּ יְהוָ֖ה מִמִּצְרָֽיִם׃ ס"
+pericope: "[[Exod.13.1 The Dedication of the Firstborn|The Dedication of the Firstborn]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 13
+book/chapter: "[[Exod.13|Exodus 13]]"
+chronological_order: 105
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic FRONTLETS|FRONTLETS]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MEMORIAL|MEMORIAL]]"
+- "[[topic PHYLACTERY|PHYLACTERY]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic TOKEN|TOKEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0226H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H2903]]"
+- "[[H0996G]]"
+- "[[H5869A]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H2392]]"
+- "[[H3027H]]"
+- "[[H3318H]]"
+- "[[H9035]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 13:16**<big><big>[[Exod.13.1 The Dedication of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be for a token upon thine hand, and for frontlets between thine eyes: for by strength of hand the LORD brought us forth out of Egypt.
 <small><sub>**BSB:**</sub></small>
 So it shall serve as a sign on your hand and a symbol on your forehead, for with a mighty hand the LORD brought us out of Egypt.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֤ה]] [[H9005\|לְ]][[H0226H\|אוֹת֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3027G\|יָ֣דְ]][[H9021\|כָ֔ה]] [[H9002\|וּ]][[H9005\|לְ]][[H2903\|טוֹטָפֹ֖ת]] [[H0996G\|בֵּ֣ין]] [[H5869A\|עֵינֶ֑י]][[H9021\|ךָ]] [[H3588A\|כִּ֚י]] [[H9003\|בְּ]][[H2392\|חֹ֣זֶק]] [[H3027H\|יָ֔ד]] [[H3318H\|הוֹצִיאָ֥]][[H9035\|נוּ]] [[H3068G\|יְהוָ֖ה]] [[H9006\|מִ]][[H4714G\|מִּצְרָֽיִם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic FIRSTBORN|FIRSTBORN]] • [[topic FRONTLETS|FRONTLETS]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic ISRAEL|ISRAEL]] • [[topic LAW|LAW]] • [[topic MEMORIAL|MEMORIAL]] • [[topic PHYLACTERY|PHYLACTERY]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic TOKEN|TOKEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.13.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13.15|<< Exodus 13:15]]</td><td align="center" style="border:none;">[[Exod.13|Exodus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.13.17|Exodus 13:17 >>]]</td></tr></table>
 
@@ -20,7 +89,7 @@ So it shall serve as a sign on your hand and a symbol on your forehead, for with
 | hand  |**<big>&#8207;[[H3027H\|יָ֔ד]]&#8207; </big>**| Yad<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he brought out us  |**<big>&#8207;[[H3318H\|הוֹצִיאָ֥]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| ho.tzi.'A.<small><sup>[[HVhp3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from Egypt  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4714G\|מִּצְרָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Egypt  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4714G\|מִּצְרָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13.15|<< Exodus 13:15]]</td><td align="center" style="border:none;">[[Exod.13|Exodus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.13.17|Exodus 13:17 >>]]</td></tr></table>
 
 

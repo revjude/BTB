@@ -1,8 +1,51 @@
+---
+title: Job 21:4
+type: Verse
+kjv: "As for me, is my complaint to man? and if it were so, why should not my spirit be troubled?"
+bsb: "Is my complaint against a man? Then why should I not be impatient?"
+hebrew: "הֶ֭אָנֹכִי לְאָדָ֣ם שִׂיחִ֑י וְאִם־ מַ֝דּ֗וּעַ לֹא־ תִקְצַ֥ר רוּחִֽי׃"
+pericope: "[[Job.21.1 Job：God Will Punish the Wicked|Job：God Will Punish the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 21
+book/chapter: "[[Job.21|Job 21]]"
+chronological_order: 32
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H9008]]"
+- "[[H0595]]"
+- "[[H9005]]"
+- "[[H0120G]]"
+- "[[H7879]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H0518H]]"
+- "[[H9014]]"
+- "[[H4069]]"
+- "[[H3808]]"
+- "[[H7114A]]"
+- "[[H7307J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 21:4**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As for me, [is] my complaint to man? and if [it were so], why should not my spirit be troubled?
 <small><sub>**BSB:**</sub></small>
 Is my complaint against a man? Then why should I not be impatient?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֶ֭]][[H0595\|אָנֹכִי]] [[H9005\|לְ]][[H0120G\|אָדָ֣ם]] [[H7879\|שִׂיחִ֑]][[H9020\|י]] [[H9002\|וְ]][[H0518H\|אִם]][[H9014\|־]] [[H4069\|מַ֝דּ֗וּעַ]] [[H3808\|לֹא]][[H9014\|־]] [[H7114A\|תִקְצַ֥ר]] [[H7307J\|רוּחִֽ]][[H9020\|י]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.3|<< Job 21:3]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.5|Job 21:5 >>]]</td></tr></table>
 

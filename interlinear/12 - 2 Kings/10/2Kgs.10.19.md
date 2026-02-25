@@ -1,8 +1,85 @@
+---
+title: 2 Kings 10:19
+type: Verse
+kjv: "Now therefore call unto me all the prophets of Baal, all his servants, and all his priests; let none be wanting: for I have a great sacrifice to do to Baal; whosoever shall be wanting, he shall not live. But Jehu did it in subtilty, to the intent that he might destroy the worshippers of Baal."
+bsb: "Now, therefore, summon to me all the prophets of Baal, all his servants, and all his priests. See that no one is missing, for I have a great sacrifice for Baal. Whoever is missing will not live.” But Jehu was acting deceptively in order to destroy the servants of Baal."
+hebrew: "וְעַתָּ֣ה כָל־ נְבִיאֵ֣י הַבַּ֡עַל כָּל־ עֹבְדָ֣יו וְכָל־ כֹּהֲנָיו֩ קִרְא֨וּ אֵלַ֜י אִ֣ישׁ אַל־ יִפָּקֵ֗ד כִּי֩ זֶ֨בַח גָּד֥וֹל לִי֙ לַבַּ֔עַל כֹּ֥ל אֲשֶׁר־ יִפָּקֵ֖ד לֹ֣א יִֽחְיֶ֑ה וְיֵהוּא֙ עָשָׂ֣ה בְעָקְבָּ֔ה לְמַ֥עַן הַאֲבִ֖יד אֶת־ עֹבְדֵ֥י הַבָּֽעַל׃"
+pericope: "[[2Kgs.10.18 Jehu Kills the Priests of Baal|Jehu Kills the Priests of Baal]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 10
+book/chapter: "[[2Kgs.10|2 Kings 10]]"
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BAAL|BAAL]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INCONSISTENCY|INCONSISTENCY]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic JONADAB|JONADAB]]"
+- "[[topic MASSACRE|MASSACRE]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic TREACHERY|TREACHERY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5030]]"
+- "[[H9009]]"
+- "[[H1168A]]"
+- "[[H5647H]]"
+- "[[H9033]]"
+- "[[H3548]]"
+- "[[H9023]]"
+- "[[H7121G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0376I]]"
+- "[[H0408]]"
+- "[[H6485K]]"
+- "[[H3588A]]"
+- "[[H2077]]"
+- "[[H1419A]]"
+- "[[H9005]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H2421]]"
+- "[[H3058H]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H6122]]"
+- "[[H4616]]"
+- "[[H0006]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 10:19**<big><big>[[2Kgs.10.18 Jehu Kills the Priests of Baal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore call unto me all the prophets of Baal, all his servants, and all his priests; let none be wanting: for I have a great sacrifice [to do] to Baal; whosoever shall be wanting, he shall not live. But Jehu did [it] in subtilty, to the intent that he might destroy the worshippers of Baal.
 <small><sub>**BSB:**</sub></small>
 Now, therefore, summon to me all the prophets of Baal, all his servants, and all his priests. See that no one is missing, for I have a great sacrifice for Baal. Whoever is missing will not live.” But Jehu was acting deceptively in order to destroy the servants of Baal.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֣ה]] [[H3605\|כָל]][[H9014\|־]] [[H5030\|נְבִיאֵ֣י]] [[H9009\|הַ]][[H1168A\|בַּ֡עַל]] [[H3605\|כָּל]][[H9014\|־]] [[H5647H\|עֹבְדָ֣י]][[H9033\|ו]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3548\|כֹּהֲנָי]][[H9023\|ו֩]] [[H7121G\|קִרְא֨וּ]] [[H0413\|אֵלַ֜]][[H9030\|י]] [[H0376I\|אִ֣ישׁ]] [[H0408\|אַל]][[H9014\|־]] [[H6485K\|יִפָּקֵ֗ד]] [[H3588A\|כִּי֩]] [[H2077\|זֶ֨בַח]] [[H1419A\|גָּד֥וֹל]] [[H9005\|לִ]][[H9030\|י֙]] [[H9005\|לַ]][[H1168A\|בַּ֔עַל]] [[H3605\|כֹּ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6485K\|יִפָּקֵ֖ד]] [[H3808\|לֹ֣א]] [[H2421\|יִֽחְיֶ֑ה]] [[H9002\|וְ]][[H3058H\|יֵהוּא֙]] [[H6213A\|עָשָׂ֣ה]] [[H9003\|בְ]][[H6122\|עָקְבָּ֔ה]] [[H4616\|לְמַ֥עַן]] [[H0006\|הַאֲבִ֖יד]] [[H0853\|אֶת]][[H9014\|־]] [[H5647H\|עֹבְדֵ֥י]] [[H9009\|הַ]][[H1168A\|בָּֽעַל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL|BAAL]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic ENTHUSIASM|ENTHUSIASM]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic INCONSISTENCY|INCONSISTENCY]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic JEHU|JEHU]] • [[topic JONADAB|JONADAB]] • [[topic MASSACRE|MASSACRE]] • [[topic RELIGION|RELIGION]] • [[topic SAMARIA|SAMARIA]] • [[topic TREACHERY|TREACHERY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.18|<< 2 Kings 10:18]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.20|2 Kings 10:20 >>]]</td></tr></table>
 

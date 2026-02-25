@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God Calls Cyrus
+type: Pericope
 pericope: "[[Isa.45.1 God Calls Cyrus|God Calls Cyrus]]"
-verse_count: 25
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 45
 book/chapter: "[[Isa.45|Isaiah 45]]"
-genre:
+chronological_order: 684
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 25
 verses:
 - "[[Isa.45.1]]"
 - "[[Isa.45.2]]"
@@ -44,7 +51,7 @@ verses:
 - "[[Isa.45.25]]"
 ---
 
-[[Isa.45|Isaiah 45:1 - Isaiah 45:25]]
+<small>[[Isa.45|Isaiah 45:1-25]]</small>
 *God Calls Cyrus*
 
 [[Isa.45.1|1]] Thus saith the LORD to his anointed, to Cyrus, whose right hand I have holden, to subdue nations before him; and I will loose the loins of kings, to open before him the two leaved gates; and the gates shall not be shut;

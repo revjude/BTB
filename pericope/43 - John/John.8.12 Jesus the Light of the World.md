@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus the Light of the World
+type: Pericope
 pericope: "[[John.8.12 Jesus the Light of the World|Jesus the Light of the World]]"
-verse_count: 18
+original_language: Greek
 testament: New
 book: John
 chapter: 8
 book/chapter: "[[John.8|John 8]]"
-genre:
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 18
 verses:
 - "[[John.8.12]]"
 - "[[John.8.13]]"
@@ -36,7 +43,7 @@ verses:
 - "[[John.8.29]]"
 ---
 
-[[John.8|John 8:12 - John 8:29]]
+<small>[[John.8|John 8:12-29]]</small>
 *Jesus the Light of the World*
 
 [[John.8.12|12]] Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.

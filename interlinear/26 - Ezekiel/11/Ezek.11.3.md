@@ -1,8 +1,62 @@
+---
+title: Ezekiel 11:3
+type: Verse
+kjv: "Which say, It is not near; let us build houses: this city is the caldron, and we be the flesh."
+bsb: "They are saying, ‘Is not the time near to build houses? The city is the cooking pot, and we are the meat.’"
+hebrew: "הָאֹ֣מְרִ֔ים לֹ֥א בְקָר֖וֹב בְּנ֣וֹת בָּתִּ֑ים הִ֣יא הַסִּ֔יר וַאֲנַ֖חְנוּ הַבָּשָֽׂר׃"
+pericope: "[[Ezek.11.1 Evil in High Places|Evil in High Places]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 11
+book/chapter: "[[Ezek.11|Ezekiel 11]]"
+chronological_order: 802
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CALDRON|CALDRON]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic JAAZANIAH|JAAZANIAH]]"
+- "[[topic PELATIAH|PELATIAH]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+- "[[topic SCOFFING|SCOFFING]]"
+strongs:
+- "[[H9009]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H7138]]"
+- "[[H1129]]"
+- "[[H1004B]]"
+- "[[H1931]]"
+- "[[H5518A]]"
+- "[[H9002]]"
+- "[[H0587]]"
+- "[[H1320]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 11:3**<big><big>[[Ezek.11.1 Evil in High Places|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which say, [It is] not near; let us build houses: this [city is] the caldron, and we [be] the flesh.
 <small><sub>**BSB:**</sub></small>
 They are saying, ‘Is not the time near to build houses? The city is the cooking pot, and we are the meat.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הָ]][[H0559\|אֹ֣מְרִ֔ים]] [[H3808\|לֹ֥א]] [[H9003\|בְ]][[H7138\|קָר֖וֹב]] [[H1129\|בְּנ֣וֹת]] [[H1004B\|בָּתִּ֑ים]] [[H1931\|הִ֣יא]] [[H9009\|הַ]][[H5518A\|סִּ֔יר]] [[H9002\|וַ]][[H0587\|אֲנַ֖חְנוּ]] [[H9009\|הַ]][[H1320\|בָּשָֽׂר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CALDRON|CALDRON]] • [[topic INFIDELITY|INFIDELITY]] • [[topic JAAZANIAH|JAAZANIAH]] • [[topic PELATIAH|PELATIAH]] • [[topic PROCRASTINATION|PROCRASTINATION]] • [[topic SCOFFING|SCOFFING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.11.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.2|<< Ezekiel 11:2]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.4|Ezekiel 11:4 >>]]</td></tr></table>
 

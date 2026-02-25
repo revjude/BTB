@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Resurrection
+type: Pericope
 pericope: "[[Mark.16.1 The Resurrection|The Resurrection]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Mark
 chapter: 16
 book/chapter: "[[Mark.16|Mark 16]]"
-genre:
+chronological_order: 1015
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 8
 verses:
 - "[[Mark.16.1]]"
 - "[[Mark.16.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Mark.16.8]]"
 ---
 
-[[Mark.16|Mark 16:1 - Mark 16:8]]
+<small>[[Mark.16|Mark 16:1-8]]</small>
 *The Resurrection*
 
 [[Mark.16.1|1]] And when the sabbath was past, Mary Magdalene, and Mary the \[mother\] of James, and Salome, had bought sweet spices, that they might come and anoint him.

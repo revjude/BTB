@@ -1,10 +1,65 @@
+---
+title: Luke 8:41
+type: Verse
+kjv: "And, behold, there came a man named Jairus, and he was a ruler of the synagogue: and he fell down at Jesus’ feet, and besought him that he would come into his house:"
+bsb: "Just then a synagogue leader named Jairus came and fell at Jesus’ feet. He begged Him to come to his house,"
+greek: "καὶ ἰδοὺ ἦλθεν ἀνὴρ ᾧ ὄνομα Ἰάϊρος, καὶ οὗτος ἄρχων τῆς συναγωγῆς ὑπῆρχεν. καὶ πεσὼν παρὰ τοὺς πόδας τοῦ Ἰησοῦ παρεκάλει αὐτὸν εἰσελθεῖν εἰς τὸν οἶκον αὐτοῦ"
+pericope: "[[Luke.8.40 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JAIRUS|JAIRUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G2064]]"
+- "[[G0435G]]"
+- "[[G3739]]"
+- "[[G3686]]"
+- "[[G2383]]"
+- "[[G3778]]"
+- "[[G0758]]"
+- "[[G3588]]"
+- "[[G4864]]"
+- "[[G5225]]"
+- "[[G4098]]"
+- "[[G3844]]"
+- "[[G4228]]"
+- "[[G2424G]]"
+- "[[G3870]]"
+- "[[G0846]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G3624G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 8:41**<big><big>[[Luke.8.40 The Healing Touch of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, behold, there came a man named Jairus, and he was a ruler of the synagogue: and he fell down at Jesus’ feet, and besought him that he would come into his house:
 <small><sub>**BSB:**</sub></small>
 Just then a synagogue leader named Jairus came and fell at Jesus’ feet. He begged Him to come to his house,
-<small><sub>**Literal:**</sub></small>
-And behold came a man whose name [was] Jairus, and he a ruler of the synagogue was. and having fallen at the feet <the> of Jesus he was begging Him to come to the house of him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.40|<< Luke 8:40]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.42|Luke 8:42 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G2064\|ἦλθεν]]  [[G0435G\|ἀνὴρ]]  [[G3739\|ᾧ]]  [[G3686\|ὄνομα]]  [[G2383\|Ἰάϊρος,]]  [[G2532\|καὶ]]  [[G3778\|οὗτος]]  [[G0758\|ἄρχων]]  [[G3588\|τῆς]]  [[G4864\|συναγωγῆς]]  [[G5225\|ὑπῆρχεν.]]  [[G2532\|καὶ]]  [[G4098\|πεσὼν]]  [[G3844\|παρὰ]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G3870\|παρεκάλει]]  [[G0846\|αὐτὸν]]  [[G1525\|εἰσελθεῖν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3624G\|οἶκον]]  [[G0846\|αὐτοῦ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JAIRUS|JAIRUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.40|<< Luke 8:40]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.42|Luke 8:42 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

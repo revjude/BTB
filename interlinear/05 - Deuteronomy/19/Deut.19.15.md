@@ -1,8 +1,71 @@
+---
+title: Deuteronomy 19:15
+type: Verse
+kjv: "One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established."
+bsb: "A lone witness is not sufficient to establish any wrongdoing or sin against a man, regardless of what offense he may have committed. A matter must be established by the testimony of two or three witnesses."
+hebrew: "לֹֽא־ יָקוּם֩ עֵ֨ד אֶחָ֜ד בְּאִ֗ישׁ לְכָל־ עָוֹן֙ וּלְכָל־ חַטָּ֔את בְּכָל־ חֵ֖טְא אֲשֶׁ֣ר יֶֽחֱטָ֑א עַל־ פִּ֣י׀ שְׁנֵ֣י עֵדִ֗ים א֛וֹ עַל־ פִּ֥י שְׁלֹשָֽׁה־ עֵדִ֖ים יָק֥וּם דָּבָֽר׃"
+pericope: "[[Deut.19.15 The Testimony of Two or Three Witnesses|The Testimony of Two or Three Witnesses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 19
+book/chapter: "[[Deut.19|Deuteronomy 19]]"
+chronological_order: 215
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic EVIDENCE|EVIDENCE]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic WITNESS|WITNESS]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6965I]]"
+- "[[H5707]]"
+- "[[H0259]]"
+- "[[H9003]]"
+- "[[H0376I]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H5771G]]"
+- "[[H9002]]"
+- "[[H2403B]]"
+- "[[H2399]]"
+- "[[H0834A]]"
+- "[[H2398]]"
+- "[[H5921A]]"
+- "[[H6310I]]"
+- "[[H9015]]"
+- "[[H8147]]"
+- "[[H0176A]]"
+- "[[H7969]]"
+- "[[H1697G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 19:15**<big><big>[[Deut.19.15 The Testimony of Two or Three Witnesses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established.
 <small><sub>**BSB:**</sub></small>
 A lone witness is not sufficient to establish any wrongdoing or sin against a man, regardless of what offense he may have committed. A matter must be established by the testimony of two or three witnesses.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H6965I\|יָקוּם֩]] [[H5707\|עֵ֨ד]] [[H0259\|אֶחָ֜ד]] [[H9003\|בְּ]][[H0376I\|אִ֗ישׁ]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H5771G\|עָוֹן֙]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H2403B\|חַטָּ֔את]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H2399\|חֵ֖טְא]] [[H0834A\|אֲשֶׁ֣ר]] [[H2398\|יֶֽחֱטָ֑א]] [[H5921A\|עַל]][[H9014\|־]] [[H6310I\|פִּ֣י]][[H9015\|׀]] [[H8147\|שְׁנֵ֣י]] [[H5707\|עֵדִ֗ים]] [[H0176A\|א֛וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H6310I\|פִּ֥י]] [[H7969\|שְׁלֹשָֽׁה]][[H9014\|־]] [[H5707\|עֵדִ֖ים]] [[H6965I\|יָק֥וּם]] [[H1697G\|דָּבָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EVIDENCE|EVIDENCE]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic WITNESS|WITNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.19.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.14|<< Deuteronomy 19:14]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.16|Deuteronomy 19:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

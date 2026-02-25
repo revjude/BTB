@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 20:7
+type: Verse
+kjv: "And what man is there that hath betrothed a wife, and hath not taken her? let him go and return unto his house, lest he die in the battle, and another man take her."
+bsb: "Has any man become pledged to a woman and not married her? Let him return home, or he may die in battle and another man marry her.”"
+hebrew: "וּמִֽי־ הָאִ֞ישׁ אֲשֶׁר־ אֵרַ֤שׂ אִשָּׁה֙ וְלֹ֣א לְקָחָ֔הּ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן־ יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יִקָּחֶֽנָּה׃"
+pericope: "[[Deut.20.1 Laws of Warfare|Laws of Warfare]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 20
+book/chapter: "[[Deut.20|Deuteronomy 20]]"
+chronological_order: 216
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BETROTHAL|BETROTHAL]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H0781]]"
+- "[[H0802H]]"
+- "[[H3808]]"
+- "[[H3947I]]"
+- "[[H9034]]"
+- "[[H1980G]]"
+- "[[H7725G]]"
+- "[[H9005]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H6435]]"
+- "[[H4191]]"
+- "[[H9003]]"
+- "[[H4421]]"
+- "[[H0312]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 20:7**<big><big>[[Deut.20.1 Laws of Warfare|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And what man [is there] that hath betrothed a wife, and hath not taken her? let him go and return unto his house, lest he die in the battle, and another man take her.
 <small><sub>**BSB:**</sub></small>
 Has any man become pledged to a woman and not married her? Let him return home, or he may die in battle and another man marry her.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4310\|מִֽי]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֞ישׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0781\|אֵרַ֤שׂ]] [[H0802H\|אִשָּׁה֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3947I\|לְקָחָ֔]][[H9034\|הּ]] [[H1980G\|יֵלֵ֖ךְ]] [[H9002\|וְ]][[H7725G\|יָשֹׁ֣ב]] [[H9005\|לְ]][[H1004B\|בֵית֑]][[H9023\|וֹ]] [[H6435\|פֶּן]][[H9014\|־]] [[H4191\|יָמוּת֙]] [[H9003\|בַּ]][[H4421\|מִּלְחָמָ֔ה]] [[H9002\|וְ]][[H0376G\|אִ֥ישׁ]] [[H0312\|אַחֵ֖ר]] [[H3947I\|יִקָּחֶֽ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic BETROTHAL|BETROTHAL]] • [[topic SOLDIERS|SOLDIERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.20.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.20.6|<< Deuteronomy 20:6]]</td><td align="center" style="border:none;">[[Deut.20|Deuteronomy 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.20.8|Deuteronomy 20:8 >>]]</td></tr></table>
 

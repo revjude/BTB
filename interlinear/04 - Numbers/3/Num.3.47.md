@@ -1,8 +1,60 @@
+---
+title: Numbers 3:47
+type: Verse
+kjv: "Thou shalt even take five shekels apiece by the poll, after the shekel of the sanctuary shalt thou take them: (the shekel is twenty gerahs:)"
+bsb: "you are to collect five shekels for each one, according to the sanctuary shekel of twenty gerahs."
+hebrew: "וְלָקַחְתָּ֗ חֲמֵ֧שֶׁת חֲמֵ֛שֶׁת שְׁקָלִ֖ים לַגֻּלְגֹּ֑לֶת בְּשֶׁ֤קֶל הַקֹּ֙דֶשׁ֙ תִּקָּ֔ח עֶשְׂרִ֥ים גֵּרָ֖ה הַשָּֽׁקֶל׃"
+pericope: "[[Num.3.40 The Redemption of the Firstborn|The Redemption of the Firstborn]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic GERAH|GERAH]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic SHEKEL|SHEKEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H2568]]"
+- "[[H8255]]"
+- "[[H9005]]"
+- "[[H1538]]"
+- "[[H9003]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H6242]]"
+- "[[H1626]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 3:47**<big><big>[[Num.3.40 The Redemption of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt even take five shekels apiece by the poll, after the shekel of the sanctuary shalt thou take [them]: (the shekel [is] twenty gerahs:)
 <small><sub>**BSB:**</sub></small>
 you are to collect five shekels for each one, according to the sanctuary shekel of twenty gerahs.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקַחְתָּ֗]] [[H2568\|חֲמֵ֧שֶׁת]] [[H2568\|חֲמֵ֛שֶׁת]] [[H8255\|שְׁקָלִ֖ים]] [[H9005\|לַ]][[H1538\|גֻּלְגֹּ֑לֶת]] [[H9003\|בְּ]][[H8255\|שֶׁ֤קֶל]] [[H9009\|הַ]][[H6944G\|קֹּ֙דֶשׁ֙]] [[H3947G\|תִּקָּ֔ח]] [[H6242\|עֶשְׂרִ֥ים]] [[H1626\|גֵּרָ֖ה]] [[H9009\|הַ]][[H8255\|שָּֽׁקֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRSTBORN|FIRSTBORN]] • [[topic GERAH|GERAH]] • [[topic PRIEST|PRIEST]] • [[topic REDEMPTION|REDEMPTION]] • [[topic SHEKEL|SHEKEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.46|<< Numbers 3:46]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.48|Numbers 3:48 >>]]</td></tr></table>
 

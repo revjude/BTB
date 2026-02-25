@@ -1,8 +1,80 @@
+---
+title: Exodus 12:22
+type: Verse
+kjv: "And ye shall take a bunch of hyssop, and dip it in the blood that is in the bason, and strike the lintel and the two side posts with the blood that is in the bason; and none of you shall go out at the door of his house until the morning."
+bsb: "Take a cluster of hyssop, dip it into the blood in the basin, and brush the blood on the top and sides of the doorframe. None of you shall go out the door of his house until morning."
+hebrew: "וּלְקַחְתֶּ֞ם אֲגֻדַּ֣ת אֵז֗וֹב וּטְבַלְתֶּם֮ בַּדָּ֣ם אֲשֶׁר־ בַּסַּף֒ וְהִגַּעְתֶּ֤ם אֶל־ הַמַּשְׁקוֹף֙ וְאֶל־ שְׁתֵּ֣י הַמְּזוּזֹ֔ת מִן־ הַדָּ֖ם אֲשֶׁ֣ר בַּסָּ֑ף וְאַתֶּ֗ם לֹ֥א תֵצְא֛וּ אִ֥ישׁ מִפֶּֽתַח־ בֵּית֖וֹ עַד־ בֹּֽקֶר׃"
+pericope: "[[Exod.12.14 The Feast of Unleavened Bread|The Feast of Unleavened Bread]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 12
+book/chapter: "[[Exod.12|Exodus 12]]"
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic DOOR|DOOR]]"
+- "[[topic HYSSOP|HYSSOP]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0092]]"
+- "[[H0231]]"
+- "[[H2881]]"
+- "[[H9003]]"
+- "[[H1818]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5592A]]"
+- "[[H5060]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H4947]]"
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H4201]]"
+- "[[H4480A]]"
+- "[[H0859D]]"
+- "[[H3808]]"
+- "[[H3318G]]"
+- "[[H0376I]]"
+- "[[H9006]]"
+- "[[H6607]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H5704]]"
+- "[[H1242]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 12:22**<big><big>[[Exod.12.14 The Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall take a bunch of hyssop, and dip [it] in the blood that [is] in the bason, and strike the lintel and the two side posts with the blood that [is] in the bason; and none of you shall go out at the door of his house until the morning.
 <small><sub>**BSB:**</sub></small>
 Take a cluster of hyssop, dip it into the blood in the basin, and brush the blood on the top and sides of the doorframe. None of you shall go out the door of his house until morning.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H3947G\|לְקַחְתֶּ֞ם]] [[H0092\|אֲגֻדַּ֣ת]] [[H0231\|אֵז֗וֹב]] [[H9001\|וּ]][[H2881\|טְבַלְתֶּם֮]] [[H9003\|בַּ]][[H1818\|דָּ֣ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בַּ]][[H5592A\|סַּף֒]] [[H9001\|וְ]][[H5060\|הִגַּעְתֶּ֤ם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4947\|מַּשְׁקוֹף֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H8147\|שְׁתֵּ֣י]] [[H9009\|הַ]][[H4201\|מְּזוּזֹ֔ת]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1818\|דָּ֖ם]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בַּ]][[H5592A\|סָּ֑ף]] [[H9002\|וְ]][[H0859D\|אַתֶּ֗ם]] [[H3808\|לֹ֥א]] [[H3318G\|תֵצְא֛וּ]] [[H0376I\|אִ֥ישׁ]] [[H9006\|מִ]][[H6607\|פֶּֽתַח]][[H9014\|־]] [[H1004B\|בֵּית֖]][[H9023\|וֹ]] [[H5704\|עַד]][[H9014\|־]] [[H1242\|בֹּֽקֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic DOOR|DOOR]] • [[topic HYSSOP|HYSSOP]] • [[topic ISRAEL|ISRAEL]] • [[topic MONTH|MONTH]] • [[topic PASSOVER|PASSOVER]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.21|<< Exodus 12:21]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.23|Exodus 12:23 >>]]</td></tr></table>
 

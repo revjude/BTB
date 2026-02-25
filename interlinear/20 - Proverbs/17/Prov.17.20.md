@@ -1,8 +1,55 @@
+---
+title: Proverbs 17:20
+type: Verse
+kjv: "He that hath a froward heart findeth no good: and he that hath a perverse tongue falleth into mischief."
+bsb: "The one with a perverse heart finds no good, and he whose tongue is deceitful falls into trouble."
+hebrew: "עִקֶּשׁ־ לֵ֭ב לֹ֣א יִמְצָא־ ט֑וֹב וְנֶהְפָּ֥ךְ בִּ֝לְשׁוֹנ֗וֹ יִפּ֥וֹל בְּרָעָֽה׃"
+pericope: "[[Prov.17.1 Better a Dry Morsel in Quietness|Better a Dry Morsel in Quietness]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 17
+book/chapter: "[[Prov.17|Proverbs 17]]"
+chronological_order: 472
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HEART|HEART]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H6141]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H2896B]]"
+- "[[H9002]]"
+- "[[H2015]]"
+- "[[H9003]]"
+- "[[H3956G]]"
+- "[[H9023]]"
+- "[[H5307G]]"
+- "[[H7451C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 17:20**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that hath a froward heart findeth no good: and he that hath a perverse tongue falleth into mischief.
 <small><sub>**BSB:**</sub></small>
 The one with a perverse heart finds no good, and he whose tongue is deceitful falls into trouble.
+<small><sub>**Hebrew:**</sub></small>
+[[H6141\|עִקֶּשׁ]][[H9014\|־]] [[H3820A\|לֵ֭ב]] [[H3808\|לֹ֣א]] [[H4672\|יִמְצָא]][[H9014\|־]] [[H2896B\|ט֑וֹב]] [[H9002\|וְ]][[H2015\|נֶהְפָּ֥ךְ]] [[H9003\|בִּ֝]][[H3956G\|לְשׁוֹנ֗]][[H9023\|וֹ]] [[H5307G\|יִפּ֥וֹל]] [[H9003\|בְּ]][[H7451C\|רָעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEART|HEART]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.19|<< Proverbs 17:19]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.21|Proverbs 17:21 >>]]</td></tr></table>
 

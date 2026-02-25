@@ -1,8 +1,53 @@
+---
+title: Lamentations 3:7
+type: Verse
+kjv: "He hath hedged me about, that I cannot get out: he hath made my chain heavy."
+bsb: "He has walled me in so I cannot escape; He has weighed me down with chains."
+hebrew: "גָּדַ֧ר בַּעֲדִ֛י וְלֹ֥א אֵצֵ֖א הִכְבִּ֥יד נְחָשְׁתִּֽי׃"
+pericope: "[[Lam.3.1 The Prophet’s Afflictions|The Prophet’s Afflictions]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 3
+book/chapter: "[[Lam.3|Lamentations 3]]"
+chronological_order: 778
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHAINS|CHAINS]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic HEDGE|HEDGE]]"
+strongs:
+- "[[H1443]]"
+- "[[H1157]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3318G]]"
+- "[[H3513H]]"
+- "[[H5178A]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Lamentations 3:7**<big><big>[[Lam.3.1 The Prophet’s Afflictions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath hedged me about, that I cannot get out: he hath made my chain heavy.
 <small><sub>**BSB:**</sub></small>
 He has walled me in so I cannot escape; He has weighed me down with chains.
+<small><sub>**Hebrew:**</sub></small>
+[[H1443\|גָּדַ֧ר]] [[H1157\|בַּעֲדִ֛]][[H9030\|י]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3318G\|אֵצֵ֖א]] [[H3513H\|הִכְבִּ֥יד]] [[H5178A\|נְחָשְׁתִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHAINS|CHAINS]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic HEDGE|HEDGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.6|<< Lamentations 3:6]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.8|Lamentations 3:8 >>]]</td></tr></table>
 

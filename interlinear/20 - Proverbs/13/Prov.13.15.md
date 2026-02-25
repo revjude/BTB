@@ -1,8 +1,51 @@
+---
+title: Proverbs 13:15
+type: Verse
+kjv: "Good understanding giveth favour: but the way of transgressors is hard."
+bsb: "Good understanding wins favor, but the way of the faithless is difficult."
+hebrew: "שֵֽׂכֶל־ ט֭וֹב יִתֶּן־ חֵ֑ן וְדֶ֖רֶךְ בֹּגְדִ֣ים אֵיתָֽן׃"
+pericope: "[[Prov.13.1 A Father’s Discipline|A Father’s Discipline]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 13
+book/chapter: "[[Prov.13|Proverbs 13]]"
+chronological_order: 468
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic SIN|SIN]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H7922]]"
+- "[[H9014]]"
+- "[[H2896A]]"
+- "[[H5414G]]"
+- "[[H2580]]"
+- "[[H9002]]"
+- "[[H1870G]]"
+- "[[H0898]]"
+- "[[H0386]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 13:15**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Good understanding giveth favour: but the way of transgressors [is] hard.
 <small><sub>**BSB:**</sub></small>
 Good understanding wins favor, but the way of the faithless is difficult.
+<small><sub>**Hebrew:**</sub></small>
+[[H7922\|שֵֽׂכֶל]][[H9014\|־]] [[H2896A\|ט֭וֹב]] [[H5414G\|יִתֶּן]][[H9014\|־]] [[H2580\|חֵ֑ן]] [[H9002\|וְ]][[H1870G\|דֶ֖רֶךְ]] [[H0898\|בֹּגְדִ֣ים]] [[H0386\|אֵיתָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SIN|SIN]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.14|<< Proverbs 13:14]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.16|Proverbs 13:16 >>]]</td></tr></table>
 

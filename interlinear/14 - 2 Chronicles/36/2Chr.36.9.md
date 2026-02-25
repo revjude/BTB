@@ -1,8 +1,64 @@
+---
+title: 2 Chronicles 36:9
+type: Verse
+kjv: "Jehoiachin was eight years old when he began to reign, and he reigned three months and ten days in Jerusalem: and he did that which was evil in the sight of the LORD."
+bsb: "Jehoiachin was eighteen years old when he became king, and he reigned in Jerusalem three months and ten days. And he did evil in the sight of the LORD."
+hebrew: "בֶּן־ שְׁמוֹנֶ֤ה שָׁנִים֙ יְהוֹיָכִ֣ין בְּמָלְכ֔וֹ וּשְׁלֹשָׁ֤ה חֳדָשִׁים֙ וַעֲשֶׂ֣רֶת יָמִ֔ים מָלַ֖ךְ בִּירוּשָׁלִָ֑ם וַיַּ֥עַשׂ הָרַ֖ע בְּעֵינֵ֥י יְהוָֽה׃"
+pericope: "[[2Chr.36.9 Jehoiachin Reigns in Judah|Jehoiachin Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 36
+book/chapter: "[[2Chr.36|2 Chronicles 36]]"
+chronological_order: 743
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~609–586 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOIACHIN|JEHOIACHIN]]"
+- "[[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]"
+strongs:
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H8083]]"
+- "[[H8141]]"
+- "[[H3078]]"
+- "[[H9003]]"
+- "[[H4427A]]"
+- "[[H9043]]"
+- "[[H9002]]"
+- "[[H7969]]"
+- "[[H2320G]]"
+- "[[H6235]]"
+- "[[H3117G]]"
+- "[[H3389]]"
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 36:9**<big><big>[[2Chr.36.9 Jehoiachin Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Jehoiachin [was] eight years old when he began to reign, and he reigned three months and ten days in Jerusalem: and he did [that which was] evil in the sight of the LORD.
 <small><sub>**BSB:**</sub></small>
 Jehoiachin was eighteen years old when he became king, and he reigned in Jerusalem three months and ten days. And he did evil in the sight of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121L\|בֶּן]][[H9014\|־]] [[H8083\|שְׁמוֹנֶ֤ה]] [[H8141\|שָׁנִים֙]] [[H3078\|יְהוֹיָכִ֣ין]] [[H9003\|בְּ]][[H4427A\|מָלְכ֔]][[H9043\|וֹ]] [[H9002\|וּ]][[H7969\|שְׁלֹשָׁ֤ה]] [[H2320G\|חֳדָשִׁים֙]] [[H9002\|וַ]][[H6235\|עֲשֶׂ֣רֶת]] [[H3117G\|יָמִ֔ים]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9001\|וַ]][[H6213A\|יַּ֥עַשׂ]] [[H9009\|הָ]][[H7451H\|רַ֖ע]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOIACHIN|JEHOIACHIN]] • [[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.36.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.8|<< 2 Chronicles 36:8]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.10|2 Chronicles 36:10 >>]]</td></tr></table>
 

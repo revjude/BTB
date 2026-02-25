@@ -1,8 +1,63 @@
+---
+title: Jeremiah 4:1
+type: Verse
+kjv: "If thou wilt return, O Israel, saith the LORD, return unto me: and if thou wilt put away thine abominations out of my sight, then shalt thou not remove."
+bsb: "“If you will return, O Israel, return to Me,” declares the LORD. “If you will remove your detestable idols from My sight and no longer waver,"
+hebrew: "אִם־ תָּשׁ֨וּב יִשְׂרָאֵ֧ל׀ נְאֻם־ יְהוָ֛ה אֵלַ֖י תָּשׁ֑וּב וְאִם־ תָּסִ֧יר שִׁקּוּצֶ֛יךָ מִפָּנַ֖י וְלֹ֥א תָנֽוּד׃"
+pericope: "[[Jer.4.1 A Plea to Return|A Plea to Return]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 4
+book/chapter: "[[Jer.4|Jeremiah 4]]"
+chronological_order: 721
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H7725G]]"
+- "[[H3478]]"
+- "[[H9015]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H5493G]]"
+- "[[H8251]]"
+- "[[H9021]]"
+- "[[H9006]]"
+- "[[H6440H]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H5110]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 4:1**<big><big>[[Jer.4.1 A Plea to Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou wilt return, O Israel, saith the LORD, return unto me: and if thou wilt put away thine abominations out of my sight, then shalt thou not remove.
 <small><sub>**BSB:**</sub></small>
 “If you will return, O Israel, return to Me,” declares the LORD. “If you will remove your detestable idols from My sight and no longer waver,
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H7725G\|תָּשׁ֨וּב]] [[H3478\|יִשְׂרָאֵ֧ל]][[H9015\|׀]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֛ה]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H7725G\|תָּשׁ֑וּב]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H5493G\|תָּסִ֧יר]] [[H8251\|שִׁקּוּצֶ֛י]][[H9021\|ךָ]] [[H9006\|מִ]][[H6440H\|פָּנַ֖]][[H9020\|י]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5110\|תָנֽוּד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.25|<< Jeremiah 3:25]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.2|Jeremiah 4:2 >>]]</td></tr></table>
 

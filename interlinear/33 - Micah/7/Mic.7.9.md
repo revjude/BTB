@@ -1,8 +1,68 @@
+---
+title: Micah 7:9
+type: Verse
+kjv: "I will bear the indignation of the LORD, because I have sinned against him, until he plead my cause, and execute judgment for me: he will bring me forth to the light, and I shall behold his righteousness."
+bsb: "Because I have sinned against Him, I must endure the rage of the LORD, until He argues my case and executes justice for me. He will bring me into the light; I will see His righteousness."
+hebrew: "זַ֤עַף יְהוָה֙ אֶשָּׂ֔א כִּ֥י חָטָ֖אתִי ל֑וֹ עַד֩ אֲשֶׁ֨ר יָרִ֤יב רִיבִי֙ וְעָשָׂ֣ה מִשְׁפָּטִ֔י יוֹצִיאֵ֣נִי לָא֔וֹר אֶרְאֶ֖ה בְּצִדְקָתֽוֹ׃"
+pericope: "[[Mic.7.7 Israel’s Confession and Comfort|Israel’s Confession and Comfort]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 7
+book/chapter: "[[Mic.7|Micah 7]]"
+chronological_order: 629
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+strongs:
+- "[[H2197]]"
+- "[[H3068G]]"
+- "[[H5375H]]"
+- "[[H3588A]]"
+- "[[H2398]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5704]]"
+- "[[H0834A]]"
+- "[[H7378]]"
+- "[[H7379]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H4941G]]"
+- "[[H3318H]]"
+- "[[H9030]]"
+- "[[H0216]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H6666]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 7:9**<big><big>[[Mic.7.7 Israel’s Confession and Comfort|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will bear the indignation of the LORD, because I have sinned against him, until he plead my cause, and execute judgment for me: he will bring me forth to the light, [and] I shall behold his righteousness.
 <small><sub>**BSB:**</sub></small>
 Because I have sinned against Him, I must endure the rage of the LORD, until He argues my case and executes justice for me. He will bring me into the light; I will see His righteousness.
+<small><sub>**Hebrew:**</sub></small>
+[[H2197\|זַ֤עַף]] [[H3068G\|יְהוָה֙]] [[H5375H\|אֶשָּׂ֔א]] [[H3588A\|כִּ֥י]] [[H2398\|חָטָ֖אתִי]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H5704\|עַד֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H7378\|יָרִ֤יב]] [[H7379\|רִיבִ]][[H9020\|י֙]] [[H9001\|וְ]][[H6213A\|עָשָׂ֣ה]] [[H4941G\|מִשְׁפָּטִ֔]][[H9020\|י]] [[H3318H\|יוֹצִיאֵ֣]][[H9030\|נִי]] [[H9005\|לָ]][[H0216\|א֔וֹר]] [[H7200G\|אֶרְאֶ֖ה]] [[H9003\|בְּ]][[H6666\|צִדְקָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic REPENTANCE|REPENTANCE]] • [[topic RESIGNATION|RESIGNATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.8|<< Micah 7:8]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.10|Micah 7:10 >>]]</td></tr></table>
 

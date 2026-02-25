@@ -1,10 +1,64 @@
+---
+title: Revelation 6:2
+type: Verse
+kjv: "And I saw, and behold a white horse: and he that sat on him had a bow; and a crown was given unto him: and he went forth conquering, and to conquer."
+bsb: "So I looked and saw a white horse, and its rider held a bow. And he was given a crown, and he rode out to overcome and conquer."
+greek: "Καὶ εἶδον καὶ ἰδοὺ ἵππος λευκὸς καὶ ὁ καθήμενος ἐπ᾽ αὐτὸν ἔχων τόξον. καὶ ἐδόθη αὐτῷ στέφανος, καὶ ἐξῆλθεν νικῶν καὶ ἵνα νικήσῃ.¶"
+pericope: "[[Rev.6.1 The First Seal：The White Horse|The First Seal：The White Horse]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 6
+book/chapter: "[[Rev.6|Revelation 6]]"
+chronological_order: 1173
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BOW|BOW]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic CROWN|CROWN]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G2400]]"
+- "[[G2462]]"
+- "[[G3022]]"
+- "[[G3588]]"
+- "[[G2521]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G2192]]"
+- "[[G5115]]"
+- "[[G1325]]"
+- "[[G4735]]"
+- "[[G1831]]"
+- "[[G3528]]"
+- "[[G2443]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 6:2**<big><big>[[Rev.6.1 The First Seal：The White Horse|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I saw, and behold a white horse: and he that sat on him had a bow; and a crown was given unto him: and he went forth conquering, and to conquer.
 <small><sub>**BSB:**</sub></small>
 So I looked and saw a white horse, and its rider held a bow. And he was given a crown, and he rode out to overcome and conquer.
-<small><sub>**Literal:**</sub></small>
-And I looked and behold a horse white and the [one] sitting on it having a bow. and was given to him a crown, and he went forth overcoming and that he may conquer.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.1|<< Revelation 6:1]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.3|Revelation 6:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1492H\|εἶδον]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G2462\|ἵππος]]  [[G3022\|λευκὸς]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2521\|καθήμενος]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτὸν]]  [[G2192\|ἔχων]]  [[G5115\|τόξον.]]  [[G2532\|καὶ]]  [[G1325\|ἐδόθη]]  [[G0846\|αὐτῷ]]  [[G4735\|στέφανος,]]  [[G2532\|καὶ]]  [[G1831\|ἐξῆλθεν]]  [[G3528\|νικῶν]]  [[G2532\|καὶ]]  [[G2443\|ἵνα]]  [[G3528\|νικήσῃ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BOW|BOW]] • [[topic COLORS|COLORS]] • [[topic CROWN|CROWN]] • [[topic HORSE|HORSE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.1|<< Revelation 6:1]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.3|Revelation 6:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

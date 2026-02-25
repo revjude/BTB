@@ -1,8 +1,61 @@
+---
+title: Genesis 43:4
+type: Verse
+kjv: "If thou wilt send our brother with us, we will go down and buy thee food:"
+bsb: "If you will send our brother with us, we will go down and buy food for you."
+hebrew: "אִם־ יֶשְׁךָ֛ מְשַׁלֵּ֥חַ אֶת־ אָחִ֖ינוּ אִתָּ֑נוּ נֵרְדָ֕ה וְנִשְׁבְּרָ֥ה לְךָ֖ אֹֽכֶל׃"
+pericope: "[[Gen.43.1 The Return to Egypt with Benjamin|The Return to Egypt with Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 43
+book/chapter: "[[Gen.43|Genesis 43]]"
+chronological_order: 85
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic JACOB|JACOB]]"
+- "[[topic JUDAH|JUDAH]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3426]]"
+- "[[H9041]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H0251G]]"
+- "[[H9025]]"
+- "[[H0854]]"
+- "[[H9035]]"
+- "[[H3381]]"
+- "[[H9002]]"
+- "[[H7666]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0400]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 43:4**<big><big>[[Gen.43.1 The Return to Egypt with Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou wilt send our brother with us, we will go down and buy thee food:
 <small><sub>**BSB:**</sub></small>
 If you will send our brother with us, we will go down and buy food for you.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H3426\|יֶשְׁ]][[H9041\|ךָ֛]] [[H7971G\|מְשַׁלֵּ֥חַ]] [[H0853\|אֶת]][[H9014\|־]] [[H0251G\|אָחִ֖י]][[H9025\|נוּ]] [[H0854\|אִתָּ֑]][[H9035\|נוּ]] [[H3381\|נֵרְדָ֕ה]] [[H9002\|וְ]][[H7666\|נִשְׁבְּרָ֥ה]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H0400\|אֹֽכֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACOB|JACOB]] • [[topic JUDAH|JUDAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.3|<< Genesis 43:3]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.5|Genesis 43:5 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Esther 5:10
+type: Verse
+kjv: "Nevertheless Haman refrained himself: and when he came home, he sent and called for his friends, and Zeresh his wife."
+bsb: "Nevertheless, Haman restrained himself and went home. And calling for his friends and his wife Zeresh,"
+hebrew: "וַיִּתְאַפַּ֣ק הָמָ֔ן וַיָּב֖וֹא אֶל־ בֵּית֑וֹ וַיִּשְׁלַ֛ח וַיָּבֵ֥א אֶת־ אֹהֲבָ֖יו וְאֶת־ זֶ֥רֶשׁ אִשְׁתּֽוֹ׃"
+pericope: "[[Esth.5.9 Haman’s Plot against Mordecai|Haman’s Plot against Mordecai]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 5
+book/chapter: "[[Esth.5|Esther 5]]"
+chronological_order: 903
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic ZERESH|ZERESH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0662]]"
+- "[[H2001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H7971G]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H0157H]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H2238]]"
+- "[[H0802H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 5:10**<big><big>[[Esth.5.9 Haman’s Plot against Mordecai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless Haman refrained himself: and when he came home, he sent and called for his friends, and Zeresh his wife.
 <small><sub>**BSB:**</sub></small>
 Nevertheless, Haman restrained himself and went home. And calling for his friends and his wife Zeresh,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0662\|יִּתְאַפַּ֣ק]] [[H2001\|הָמָ֔ן]] [[H9001\|וַ]][[H0935G\|יָּב֖וֹא]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּית֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֛ח]] [[H9001\|וַ]][[H0935P\|יָּבֵ֥א]] [[H0853\|אֶת]][[H9014\|־]] [[H0157H\|אֹהֲבָ֖י]][[H9033\|ו]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2238\|זֶ֥רֶשׁ]] [[H0802H\|אִשְׁתּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic HAPPINESS|HAPPINESS]] • [[topic MALICE|MALICE]] • [[topic ZERESH|ZERESH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.5.9|<< Esther 5:9]]</td><td align="center" style="border:none;">[[Esth.5|Esther 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.5.11|Esther 5:11 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: Judges 1:27
+type: Verse
+kjv: "Neither did Manasseh drive out the inhabitants of Bethshean and her towns, nor Taanach and her towns, nor the inhabitants of Dor and her towns, nor the inhabitants of Ibleam and her towns, nor the inhabitants of Megiddo and her towns: but the Canaanites would dwell in that land."
+bsb: "At that time Manasseh failed to drive out the inhabitants of Beth-shean, Taanach, Dor, Ibleam, Megiddo, and their villages; for the Canaanites were determined to dwell in that land."
+hebrew: "וְלֹא־ הוֹרִ֣ישׁ מְנַשֶּׁ֗ה אֶת־ בֵּית־ שְׁאָ֣ן וְאֶת־ בְּנוֹתֶיהָ֮ וְאֶת־ תַּעְנַ֣ךְ וְאֶת־ בְּנֹתֶיהָ֒ וְאֶת־ יֹשְׁבֵ֨י ד֜וֹר וְאֶת־ בְּנוֹתֶ֗יהָ וְאֶת־ יוֹשְׁבֵ֤י יִבְלְעָם֙ וְאֶת־ בְּנֹתֶ֔יהָ וְאֶת־ יוֹשְׁבֵ֥י מְגִדּ֖וֹ וְאֶת־ בְּנוֹתֶ֑יהָ וַיּ֙וֹאֶל֙ הַֽכְּנַעֲנִ֔י לָשֶׁ֖בֶת בָּאָ֥רֶץ הַזֹּֽאת׃"
+pericope: "[[Judg.1.27 The Failure to Complete the Conquest|The Failure to Complete the Conquest]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 1
+book/chapter: "[[Judg.1|Judges 1]]"
+chronological_order: 255
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BETH-SHEAN|BETH-SHEAN]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic DOR|DOR]]"
+- "[[topic IBLEAM|IBLEAM]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TAANACH|TAANACH]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3423H]]"
+- "[[H4519G]]"
+- "[[H0853]]"
+- "[[H1052]]"
+- "[[H1323H]]"
+- "[[H9024]]"
+- "[[H8590]]"
+- "[[H3427]]"
+- "[[H1756G]]"
+- "[[H2991]]"
+- "[[H4023]]"
+- "[[H9001]]"
+- "[[H2974]]"
+- "[[H9009]]"
+- "[[H3669A]]"
+- "[[H9005]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Judges 1:27**<big><big>[[Judg.1.27 The Failure to Complete the Conquest|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither did Manasseh drive out [the inhabitants of] Bethshean and her towns, nor Taanach and her towns, nor the inhabitants of Dor and her towns, nor the inhabitants of Ibleam and her towns, nor the inhabitants of Megiddo and her towns: but the Canaanites would dwell in that land.
 <small><sub>**BSB:**</sub></small>
 At that time Manasseh failed to drive out the inhabitants of Beth-shean, Taanach, Dor, Ibleam, Megiddo, and their villages; for the Canaanites were determined to dwell in that land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3423H\|הוֹרִ֣ישׁ]] [[H4519G\|מְנַשֶּׁ֗ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1052\|בֵּית]][[H9014\|־]] [[H1052\|שְׁאָ֣ן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1323H\|בְּנוֹתֶי]][[H9024\|הָ֮]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8590\|תַּעְנַ֣ךְ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1323H\|בְּנֹתֶי]][[H9024\|הָ֒]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3427\|יֹשְׁבֵ֨י]] [[H1756G\|ד֜וֹר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1323H\|בְּנוֹתֶ֗י]][[H9024\|הָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3427\|יוֹשְׁבֵ֤י]] [[H2991\|יִבְלְעָם֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1323H\|בְּנֹתֶ֔י]][[H9024\|הָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3427\|יוֹשְׁבֵ֥י]] [[H4023\|מְגִדּ֖וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1323H\|בְּנוֹתֶ֑י]][[H9024\|הָ]] [[H9001\|וַ]][[H2974\|יּ֙וֹאֶל֙]] [[H9009\|הַֽ]][[H3669A\|כְּנַעֲנִ֔י]] [[H9005\|לָ]][[H3427\|שֶׁ֖בֶת]] [[H9003\|בָּ]][[H0776G\|אָ֥רֶץ]] [[H9009\|הַ]][[H2063\|זֹּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-SHEAN|BETH-SHEAN]] • [[topic CANAANITES|CANAANITES]] • [[topic DOR|DOR]] • [[topic IBLEAM|IBLEAM]] • [[topic ISRAEL|ISRAEL]] • [[topic TAANACH|TAANACH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.1.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.26|<< Judges 1:26]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.28|Judges 1:28 >>]]</td></tr></table>
 

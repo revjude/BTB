@@ -1,8 +1,58 @@
+---
+title: Judges 5:8
+type: Verse
+kjv: "They chose new gods; then was war in the gates: was there a shield or spear seen among forty thousand in Israel?"
+bsb: "When they chose new gods, then war came to their gates. Not a shield or spear was found among forty thousand in Israel."
+hebrew: "יִבְחַר֙ אֱלֹהִ֣ים חֲדָשִׁ֔ים אָ֖ז לָחֶ֣ם שְׁעָרִ֑ים מָגֵ֤ן אִם־ יֵֽרָאֶה֙ וָרֹ֔מַח בְּאַרְבָּעִ֥ים אֶ֖לֶף בְּיִשְׂרָאֵֽל׃"
+pericope: "[[Judg.5.1 The Song of Deborah and Barak|The Song of Deborah and Barak]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 5
+book/chapter: "[[Judg.5|Judges 5]]"
+chronological_order: 259
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[H0977]]"
+- "[[H0430]]"
+- "[[H2319H]]"
+- "[[H0227A]]"
+- "[[H3901]]"
+- "[[H8179G]]"
+- "[[H4043]]"
+- "[[H0518H]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H9002]]"
+- "[[H7420]]"
+- "[[H9003]]"
+- "[[H0705]]"
+- "[[H0505G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 5:8**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They chose new gods; then [was] war in the gates: was there a shield or spear seen among forty thousand in Israel?
 <small><sub>**BSB:**</sub></small>
 When they chose new gods, then war came to their gates. Not a shield or spear was found among forty thousand in Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H0977\|יִבְחַר֙]] [[H0430\|אֱלֹהִ֣ים]] [[H2319H\|חֲדָשִׁ֔ים]] [[H0227A\|אָ֖ז]] [[H3901\|לָחֶ֣ם]] [[H8179G\|שְׁעָרִ֑ים]] [[H4043\|מָגֵ֤ן]] [[H0518H\|אִם]][[H9014\|־]] [[H7200G\|יֵֽרָאֶה֙]] [[H9002\|וָ]][[H7420\|רֹ֔מַח]] [[H9003\|בְּ]][[H0705\|אַרְבָּעִ֥ים]] [[H0505G\|אֶ֖לֶף]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTRY|COUNTRY]] • [[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.7|<< Judges 5:7]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.9|Judges 5:9 >>]]</td></tr></table>
 

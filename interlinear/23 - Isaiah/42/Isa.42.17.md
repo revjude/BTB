@@ -1,8 +1,57 @@
+---
+title: Isaiah 42:17
+type: Verse
+kjv: "They shall be turned back, they shall be greatly ashamed, that trust in graven images, that say to the molten images, Ye are our gods."
+bsb: "But those who trust in idols and say to molten images, ‘You are our gods!’ will be turned back in utter shame."
+hebrew: "נָסֹ֤גוּ אָחוֹר֙ יֵבֹ֣שׁוּ בֹ֔שֶׁת הַבֹּטְחִ֖ים בַּפָּ֑סֶל הָאֹמְרִ֥ים לְמַסֵּכָ֖ה אַתֶּ֥ם אֱלֹהֵֽינוּ׃ ס"
+pericope: "[[Isa.42.10 A New Song of Praise|A New Song of Praise]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 42
+book/chapter: "[[Isa.42|Isaiah 42]]"
+chronological_order: 681
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H5472]]"
+- "[[H0268]]"
+- "[[H0954]]"
+- "[[H1322]]"
+- "[[H9009]]"
+- "[[H0982]]"
+- "[[H9003]]"
+- "[[H6459]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H4541A]]"
+- "[[H0859D]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 42:17**<big><big>[[Isa.42.10 A New Song of Praise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall be turned back, they shall be greatly ashamed, that trust in graven images, that say to the molten images, Ye [are] our gods.
 <small><sub>**BSB:**</sub></small>
 But those who trust in idols and say to molten images, ‘You are our gods!’ will be turned back in utter shame.
+<small><sub>**Hebrew:**</sub></small>
+[[H5472\|נָסֹ֤גוּ]] [[H0268\|אָחוֹר֙]] [[H0954\|יֵבֹ֣שׁוּ]] [[H1322\|בֹ֔שֶׁת]] [[H9009\|הַ]][[H0982\|בֹּטְחִ֖ים]] [[H9003\|בַּ]][[H6459\|פָּ֑סֶל]] [[H9009\|הָ]][[H0559\|אֹמְרִ֥ים]] [[H9005\|לְ]][[H4541A\|מַסֵּכָ֖ה]] [[H0859D\|אַתֶּ֥ם]] [[H0430G\|אֱלֹהֵֽי]][[H9025\|נוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.16|<< Isaiah 42:16]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.18|Isaiah 42:18 >>]]</td></tr></table>
 
@@ -17,7 +66,7 @@ But those who trust in idols and say to molten images, ‘You are our gods!’ w
 | those [who] say  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0559\|אֹמְרִ֥ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.me.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to a molten image  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4541A\|מַסֵּכָ֖ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ma.se.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859D\|אַתֶּ֥ם]]&#8207; </big>**| 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] god our  |**<big>&#8207;[[H0430G\|אֱלֹהֵֽי]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] god our  |**<big>&#8207;[[H0430G\|אֱלֹהֵֽי]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.16|<< Isaiah 42:16]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.18|Isaiah 42:18 >>]]</td></tr></table>
 
 

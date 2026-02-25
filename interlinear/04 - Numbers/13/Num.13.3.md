@@ -1,8 +1,64 @@
+---
+title: Numbers 13:3
+type: Verse
+kjv: "And Moses by the commandment of the LORD sent them from the wilderness of Paran: all those men were heads of the children of Israel."
+bsb: "So at the command of the LORD, Moses sent them out from the Wilderness of Paran. All the men were leaders of the Israelites,"
+hebrew: "וַיִּשְׁלַ֨ח אֹתָ֥ם מֹשֶׁ֛ה מִמִּדְבַּ֥ר פָּארָ֖ן עַל־ פִּ֣י יְהוָ֑ה כֻּלָּ֣ם אֲנָשִׁ֔ים רָאשֵׁ֥י בְנֵֽי־ יִשְׂרָאֵ֖ל הֵֽמָּה׃"
+pericope: "[[Num.13.1 The Spies Explore Canaan|The Spies Explore Canaan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 13
+book/chapter: "[[Num.13|Numbers 13]]"
+chronological_order: 173
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic PARAN|PARAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H4872]]"
+- "[[H9006]]"
+- "[[H4057B]]"
+- "[[H6290G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6310I]]"
+- "[[H3068G]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H0582]]"
+- "[[H7218H]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H1992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 13:3**<big><big>[[Num.13.1 The Spies Explore Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses by the commandment of the LORD sent them from the wilderness of Paran: all those men [were] heads of the children of Israel.
 <small><sub>**BSB:**</sub></small>
 So at the command of the LORD, Moses sent them out from the Wilderness of Paran. All the men were leaders of the Israelites,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֨ח]] [[H0853\|אֹתָ֥]][[H9038\|ם]] [[H4872\|מֹשֶׁ֛ה]] [[H9006\|מִ]][[H4057B\|מִּדְבַּ֥ר]] [[H6290G\|פָּארָ֖ן]] [[H5921A\|עַל]][[H9014\|־]] [[H6310I\|פִּ֣י]] [[H3068G\|יְהוָ֑ה]] [[H3605\|כֻּלָּ֣]][[H9028\|ם]] [[H0582\|אֲנָשִׁ֔ים]] [[H7218H\|רָאשֵׁ֥י]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H1992\|הֵֽמָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PARAN|PARAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.2|<< Numbers 13:2]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.4|Numbers 13:4 >>]]</td></tr></table>
 

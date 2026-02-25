@@ -1,8 +1,57 @@
+---
+title: Ezekiel 6:12
+type: Verse
+kjv: "He that is far off shall die of the pestilence; and he that is near shall fall by the sword; and he that remaineth and is besieged shall die by the famine: thus will I accomplish my fury upon them."
+bsb: "He who is far off will die by the plague, he who is near will fall by the sword, and he who remains will die by famine. So I will vent My fury upon them."
+hebrew: "הָרָח֞וֹק בַּדֶּ֣בֶר יָמ֗וּת וְהַקָּרוֹב֙ בַּחֶ֣רֶב יִפּ֔וֹל וְהַנִּשְׁאָר֙ וְהַנָּצ֔וּר בָּרָעָ֖ב יָמ֑וּת וְכִלֵּיתִ֥י חֲמָתִ֖י בָּֽם׃"
+pericope: "[[Ezek.6.8 A Remnant to Be Blessed|A Remnant to Be Blessed]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 6
+book/chapter: "[[Ezek.6|Ezekiel 6]]"
+chronological_order: 797
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9009]]"
+- "[[H7350]]"
+- "[[H9003]]"
+- "[[H1698]]"
+- "[[H4191]]"
+- "[[H9002]]"
+- "[[H7138]]"
+- "[[H2719]]"
+- "[[H5307J]]"
+- "[[H7604]]"
+- "[[H5341]]"
+- "[[H7458]]"
+- "[[H9001]]"
+- "[[H3615J]]"
+- "[[H2534]]"
+- "[[H9020]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 6:12**<big><big>[[Ezek.6.8 A Remnant to Be Blessed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that is far off shall die of the pestilence; and he that is near shall fall by the sword; and he that remaineth and is besieged shall die by the famine: thus will I accomplish my fury upon them.
 <small><sub>**BSB:**</sub></small>
 He who is far off will die by the plague, he who is near will fall by the sword, and he who remains will die by famine. So I will vent My fury upon them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הָ]][[H7350\|רָח֞וֹק]] [[H9003\|בַּ]][[H1698\|דֶּ֣בֶר]] [[H4191\|יָמ֗וּת]] [[H9002\|וְ]][[H9009\|הַ]][[H7138\|קָּרוֹב֙]] [[H9003\|בַּ]][[H2719\|חֶ֣רֶב]] [[H5307J\|יִפּ֔וֹל]] [[H9002\|וְ]][[H9009\|הַ]][[H7604\|נִּשְׁאָר֙]] [[H9002\|וְ]][[H9009\|הַ]][[H5341\|נָּצ֔וּר]] [[H9003\|בָּ]][[H7458\|רָעָ֖ב]] [[H4191\|יָמ֑וּת]] [[H9001\|וְ]][[H3615J\|כִלֵּיתִ֥י]] [[H2534\|חֲמָתִ֖]][[H9020\|י]] [[H9003\|בָּֽ]][[H9038\|ם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.6.11|<< Ezekiel 6:11]]</td><td align="center" style="border:none;">[[Ezek.6|Ezekiel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.6.13|Ezekiel 6:13 >>]]</td></tr></table>
 

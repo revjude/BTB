@@ -1,8 +1,54 @@
+---
+title: Daniel 11:19
+type: Verse
+kjv: "Then he shall turn his face toward the fort of his own land: but he shall stumble and fall, and not be found."
+bsb: "After this, he will turn back toward the fortresses of his own land, but he will stumble and fall and be no more."
+hebrew: "וְיָשֵׁ֣ב פָּנָ֔יו לְמָעוּזֵּ֖י אַרְצ֑וֹ וְנִכְשַׁ֥ל וְנָפַ֖ל וְלֹ֥א יִמָּצֵֽא׃"
+pericope: "[[Dan.11.1 Kings of the South and North|Kings of the South and North]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+strongs:
+- "[[H9002]]"
+- "[[H7725G]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H4581]]"
+- "[[H0776G]]"
+- "[[H9001]]"
+- "[[H3782]]"
+- "[[H5307J]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 11:19**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he shall turn his face toward the fort of his own land: but he shall stumble and fall, and not be found.
 <small><sub>**BSB:**</sub></small>
 After this, he will turn back toward the fortresses of his own land, but he will stumble and fall and be no more.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7725G\|יָשֵׁ֣ב]] [[H6440H\|פָּנָ֔י]][[H9023\|ו]] [[H9005\|לְ]][[H4581\|מָעוּזֵּ֖י]] [[H0776G\|אַרְצ֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H3782\|נִכְשַׁ֥ל]] [[H9001\|וְ]][[H5307J\|נָפַ֖ל]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H4672\|יִמָּצֵֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.18|<< Daniel 11:18]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.20|Daniel 11:20 >>]]</td></tr></table>
 

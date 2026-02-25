@@ -1,10 +1,65 @@
+---
+title: Matthew 24:43
+type: Verse
+kjv: "But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up."
+bsb: "But understand this: If the homeowner had known in which watch of the night the thief was coming, he would have kept watch and would not have let his house be broken into."
+jesus_said: "But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up."
+greek: "ἐκεῖνο δὲ γινώσκετε, ὅτι εἰ ᾔδει ὁ οἰκοδεσπότης ποίᾳ φυλακῇ ὁ κλέπτης ἔρχεται, ἐγρηγόρησεν ἂν καὶ οὐκ ἂν εἴασεν διορυχθῆναι τὴν οἰκίαν αὐτοῦ."
+pericope: "[[Matt.24.36 Readiness at Any Hour|Readiness at Any Hour]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 24
+book/chapter: "[[Matt.24|Matthew 24]]"
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G1565]]"
+- "[[G1161]]"
+- "[[G1097]]"
+- "[[G3754G]]"
+- "[[G1487G]]"
+- "[[G1492I]]"
+- "[[G3588]]"
+- "[[G3617]]"
+- "[[G4169]]"
+- "[[G5438H]]"
+- "[[G2812]]"
+- "[[G2064]]"
+- "[[G1127]]"
+- "[[G0302]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1439]]"
+- "[[G1358]]"
+- "[[G3614G]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 24:43**<big><big>[[Matt.24.36 Readiness at Any Hour|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up.
 <small><sub>**BSB:**</sub></small>
 But understand this: If the homeowner had known in which watch of the night the thief was coming, he would have kept watch and would not have let his house be broken into.
-<small><sub>**Literal:**</sub></small>
-This then do know, that if [would] had known the master of the house in what time of night the thief comes, he had watched then would and not then would allowed to be broken into the house of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.42|<< Matthew 24:42]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.44|Matthew 24:44 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1565\|ἐκεῖνο]]  [[G1161\|δὲ]]  [[G1097\|γινώσκετε,]]  [[G3754G\|ὅτι]]  [[G1487G\|εἰ]]  [[G1492I\|ᾔδει]]  [[G3588\|ὁ]]  [[G3617\|οἰκοδεσπότης]]  [[G4169\|ποίᾳ]]  [[G5438H\|φυλακῇ]]  [[G3588\|ὁ]]  [[G2812\|κλέπτης]]  [[G2064\|ἔρχεται,]]  [[G1127\|ἐγρηγόρησεν]]  [[G0302\|ἂν]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G0302\|ἂν]]  [[G1439\|εἴασεν]]  [[G1358\|διορυχθῆναι]]  [[G3588\|τὴν]]  [[G3614G\|οἰκίαν]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.42|<< Matthew 24:42]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.44|Matthew 24:44 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 24:43** is...
 > $\quad$ alluding to: [[LXX.Exod.22.2|Exod 22:2]]

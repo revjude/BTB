@@ -1,8 +1,68 @@
+---
+title: Exodus 8:24
+type: Verse
+kjv: "And the LORD did so; and there came a grievous swarm of flies into the house of Pharaoh, and into his servants’ houses, and into all the land of Egypt: the land was corrupted by reason of the swarm of flies."
+bsb: "And the LORD did so. Thick swarms of flies poured into Pharaoh’s palace and into the houses of his officials. Throughout Egypt the land was ruined by swarms of flies."
+hebrew: "וַיַּ֤עַשׂ יְהוָה֙ כֵּ֔ן וַיָּבֹא֙ עָרֹ֣ב כָּבֵ֔ד בֵּ֥יתָה פַרְעֹ֖ה וּבֵ֣ית עֲבָדָ֑יו וּבְכָל־ אֶ֧רֶץ מִצְרַ֛יִם תִּשָּׁחֵ֥ת הָאָ֖רֶץ מִפְּנֵ֥י הֶעָרֹֽב׃"
+pericope: "[[Exod.8.20 The Fourth Plague：Flies|The Fourth Plague：Flies]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 8
+book/chapter: "[[Exod.8|Exodus 8]]"
+chronological_order: 100
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic FLIES|FLIES]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H3068G]]"
+- "[[H3651C]]"
+- "[[H0935G]]"
+- "[[H6157]]"
+- "[[H3515]]"
+- "[[H1004B]]"
+- "[[H9011]]"
+- "[[H6547J]]"
+- "[[H9002]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H7843]]"
+- "[[H9009]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 8:24**<big><big>[[Exod.8.20 The Fourth Plague：Flies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD did so; and there came a grievous swarm [of flies] into the house of Pharaoh, and [into] his servants’ houses, and into all the land of Egypt: the land was corrupted by reason of the swarm [of flies].
 <small><sub>**BSB:**</sub></small>
 And the LORD did so. Thick swarms of flies poured into Pharaoh’s palace and into the houses of his officials. Throughout Egypt the land was ruined by swarms of flies.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֤עַשׂ]] [[H3068G\|יְהוָה֙]] [[H3651C\|כֵּ֔ן]] [[H9001\|וַ]][[H0935G\|יָּבֹא֙]] [[H6157\|עָרֹ֣ב]] [[H3515\|כָּבֵ֔ד]] [[H1004B\|בֵּ֥יתָ]][[H9011\|ה]] [[H6547J\|פַרְעֹ֖ה]] [[H9002\|וּ]][[H1004B\|בֵ֣ית]] [[H5650\|עֲבָדָ֑י]][[H9023\|ו]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H0776G\|אֶ֧רֶץ]] [[H4714G\|מִצְרַ֛יִם]] [[H7843\|תִּשָּׁחֵ֥ת]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9006\|מִ]][[H6440I\|פְּנֵ֥י]] [[H9009\|הֶ]][[H6157\|עָרֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FLIES|FLIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.8.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.23|<< Exodus 8:23]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8.25|Exodus 8:25 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Hosea 12:9
+type: Verse
+kjv: "And I that am the LORD thy God from the land of Egypt will yet make thee to dwell in tabernacles, as in the days of the solemn feast."
+bsb: "But I am the LORD your God ever since the land of Egypt. I will again make you dwell in tents, as in the days of the appointed feast."
+hebrew: "וְאָנֹכִ֛י יְהוָ֥ה אֱלֹהֶ֖יךָ מֵאֶ֣רֶץ מִצְרָ֑יִם עֹ֛ד אוֹשִֽׁיבְךָ֥ בָאֳהָלִ֖ים כִּימֵ֥י מוֹעֵֽד׃"
+pericope: "[[Hos.12.1 A Reproof of Ephraim, Judah, and Jacob|A Reproof of Ephraim, Judah, and Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 12
+book/chapter: "[[Hos.12|Hosea 12]]"
+chronological_order: 653
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MEASURE|MEASURE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0595]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H5750]]"
+- "[[H3427]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H0168G]]"
+- "[[H9004]]"
+- "[[H3117G]]"
+- "[[H4150H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 12:9**<big><big>[[Hos.12.1 A Reproof of Ephraim, Judah, and Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I [that am] the LORD thy God from the land of Egypt will yet make thee to dwell in tabernacles, as in the days of the solemn feast.
 <small><sub>**BSB:**</sub></small>
 But I am the LORD your God ever since the land of Egypt. I will again make you dwell in tents, as in the days of the appointed feast.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0595\|אָנֹכִ֛י]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H5750\|עֹ֛ד]] [[H3427\|אוֹשִֽׁיבְ]][[H9031\|ךָ֥]] [[H9003\|בָ]][[H0168G\|אֳהָלִ֖ים]] [[H9004\|כִּ]][[H3117G\|ימֵ֥י]] [[H4150H\|מוֹעֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MEASURE|MEASURE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.12.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.12.8|<< Hosea 12:8]]</td><td align="center" style="border:none;">[[Hos.12|Hosea 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.12.10|Hosea 12:10 >>]]</td></tr></table>
 

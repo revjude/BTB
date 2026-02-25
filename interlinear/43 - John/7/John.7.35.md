@@ -1,10 +1,64 @@
+---
+title: John 7:35
+type: Verse
+kjv: "Then said the Jews among themselves, Whither will he go, that we shall not find him? will he go unto the dispersed among the Gentiles, and teach the Gentiles?"
+bsb: "At this, the Jews said to one another, “Where does He intend to go that we will not find Him? Will He go where the Jews are dispersed among the Greeks, and teach the Greeks?"
+greek: "εἶπον οὖν οἱ Ἰουδαῖοι πρὸς ἑαυτούς· ποῦ οὗτος μέλλει πορεύεσθαι ὅτι ἡμεῖς οὐχ εὑρήσομεν αὐτόν; μὴ εἰς τὴν διασπορὰν τῶν Ἑλλήνων μέλλει πορεύεσθαι καὶ διδάσκειν τοὺς Ἕλληνας;"
+pericope: "[[John.7.25 Is Jesus the Christ？|Is Jesus the Christ？]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic DISPERSION|DISPERSION]]"
+- "[[topic GREECE|GREECE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G2453]]"
+- "[[G4314]]"
+- "[[G1438]]"
+- "[[G4226]]"
+- "[[G3778]]"
+- "[[G3195]]"
+- "[[G4198]]"
+- "[[G3754G]]"
+- "[[G3165]]"
+- "[[G3756]]"
+- "[[G2147]]"
+- "[[G0846]]"
+- "[[G3361]]"
+- "[[G1519]]"
+- "[[G1290]]"
+- "[[G1672]]"
+- "[[G2532]]"
+- "[[G1321]]"
+texts:
+- NKO
+---
+
 **John 7:35**<big><big>[[John.7.25 Is Jesus the Christ？|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said the Jews among themselves, Whither will he go, that we shall not find him? will he go unto the dispersed among the Gentiles, and teach the Gentiles?
 <small><sub>**BSB:**</sub></small>
 At this, the Jews said to one another, “Where does He intend to go that we will not find Him? Will He go where the Jews are dispersed among the Greeks, and teach the Greeks?
-<small><sub>**Literal:**</sub></small>
-Said therefore the Jews among themselves; Where He is about to go that we ourselves not will find Him? Surely to the Dispersion among the Greeks is He about to go and to teach the Greeks?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.34|<< John 7:34]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.36|John 7:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπον]]  [[G3767\|οὖν]]  [[G3588\|οἱ]]  [[G2453\|Ἰουδαῖοι]]  [[G4314\|πρὸς]]  [[G1438\|ἑαυτούς·]]  [[G4226\|ποῦ]]  [[G3778\|οὗτος]]  [[G3195\|μέλλει]]  [[G4198\|πορεύεσθαι]]  [[G3754G\|ὅτι]]  [[G3165\|ἡμεῖς]]  [[G3756\|οὐχ]]  [[G2147\|εὑρήσομεν]]  [[G0846\|αὐτόν;]]  [[G3361\|μὴ]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1290\|διασπορὰν]]  [[G3588\|τῶν]]  [[G1672\|Ἑλλήνων]]  [[G3195\|μέλλει]]  [[G4198\|πορεύεσθαι]]  [[G2532\|καὶ]]  [[G1321\|διδάσκειν]]  [[G3588\|τοὺς]]  [[G1672\|Ἕλληνας;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISPERSION|DISPERSION]] • [[topic GREECE|GREECE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.34|<< John 7:34]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.36|John 7:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

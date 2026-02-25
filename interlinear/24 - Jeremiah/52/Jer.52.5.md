@@ -1,8 +1,57 @@
+---
+title: Jeremiah 52:5
+type: Verse
+kjv: "So the city was besieged unto the eleventh year of king Zedekiah."
+bsb: "And the city was kept under siege until King Zedekiah’s eleventh year."
+hebrew: "וַתָּבֹ֥א הָעִ֖יר בַּמָּצ֑וֹר עַ֚ד עַשְׁתֵּ֣י עֶשְׂרֵ֣ה שָׁנָ֔ה לַמֶּ֖לֶךְ צִדְקִיָּֽהוּ׃"
+pericope: "[[Jer.52.1 The Fall of Jerusalem Recounted|The Fall of Jerusalem Recounted]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 52
+book/chapter: "[[Jer.52|Jeremiah 52]]"
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935N]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H9003]]"
+- "[[H4692]]"
+- "[[H5704]]"
+- "[[H6249]]"
+- "[[H6240]]"
+- "[[H8141]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H6667H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 52:5**<big><big>[[Jer.52.1 The Fall of Jerusalem Recounted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the city was besieged unto the eleventh year of king Zedekiah.
 <small><sub>**BSB:**</sub></small>
 And the city was kept under siege until King Zedekiah’s eleventh year.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935N\|תָּבֹ֥א]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H9003\|בַּ]][[H4692\|מָּצ֑וֹר]] [[H5704\|עַ֚ד]] [[H6249\|עַשְׁתֵּ֣י]] [[H6240\|עֶשְׂרֵ֣ה]] [[H8141\|שָׁנָ֔ה]] [[H9005\|לַ]][[H4428G\|מֶּ֖לֶךְ]] [[H6667H\|צִדְקִיָּֽהוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.4|<< Jeremiah 52:4]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.6|Jeremiah 52:6 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: 2 Chronicles 12:2
+type: Verse
+kjv: "And it came to pass, that in the fifth year of king Rehoboam Shishak king of Egypt came up against Jerusalem, because they had transgressed against the LORD,"
+bsb: "In the fifth year of Rehoboam’s reign, because they had been unfaithful to the LORD, Shishak king of Egypt attacked Jerusalem"
+hebrew: "וַיְהִ֞י בַּשָּׁנָ֤ה הַֽחֲמִישִׁית֙ לַמֶּ֣לֶךְ רְחַבְעָ֔ם עָלָ֛ה שִׁישַׁ֥ק מֶֽלֶךְ־ מִצְרַ֖יִם עַל־ יְרוּשָׁלִָ֑ם כִּ֥י מָעֲל֖וּ בַּיהוָֽה׃"
+pericope: "[[2Chr.12.1 Shishak Raids Jerusalem|Shishak Raids Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 12
+book/chapter: "[[2Chr.12|2 Chronicles 12]]"
+chronological_order: 558
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SHISHAK|SHISHAK]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H2549]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H7346]]"
+- "[[H5927G]]"
+- "[[H7895]]"
+- "[[H9014]]"
+- "[[H4714G]]"
+- "[[H5921A]]"
+- "[[H3389]]"
+- "[[H3588A]]"
+- "[[H4603]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 12:2**<big><big>[[2Chr.12.1 Shishak Raids Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, [that] in the fifth year of king Rehoboam Shishak king of Egypt came up against Jerusalem, because they had transgressed against the LORD,
 <small><sub>**BSB:**</sub></small>
 In the fifth year of Rehoboam’s reign, because they had been unfaithful to the LORD, Shishak king of Egypt attacked Jerusalem
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֞י]] [[H9003\|בַּ]][[H8141\|שָּׁנָ֤ה]] [[H9009\|הַֽ]][[H2549\|חֲמִישִׁית֙]] [[H9005\|לַ]][[H4428G\|מֶּ֣לֶךְ]] [[H7346\|רְחַבְעָ֔ם]] [[H5927G\|עָלָ֛ה]] [[H7895\|שִׁישַׁ֥ק]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H4714G\|מִצְרַ֖יִם]] [[H5921A\|עַל]][[H9014\|־]] [[H3389\|יְרוּשָׁלִָ֑ם]] [[H3588A\|כִּ֥י]] [[H4603\|מָעֲל֖וּ]] [[H9003\|בַּ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHARIOT|CHARIOT]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic GOD|GOD]] • [[topic REHOBOAM|REHOBOAM]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SHISHAK|SHISHAK]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.12.1|<< 2 Chronicles 12:1]]</td><td align="center" style="border:none;">[[2Chr.12|2 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.12.3|2 Chronicles 12:3 >>]]</td></tr></table>
 

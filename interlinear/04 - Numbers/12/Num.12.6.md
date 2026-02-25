@@ -1,8 +1,75 @@
+---
+title: Numbers 12:6
+type: Verse
+kjv: "And he said, Hear now my words: If there be a prophet among you, I the LORD will make myself known unto him in a vision, and will speak unto him in a dream."
+bsb: "He said, “Hear now My words: If there is a prophet among you, I, the LORD, will reveal Myself to him in a vision; I will speak to him in a dream."
+hebrew: "וַיֹּ֖אמֶר שִׁמְעוּ־ נָ֣א דְבָרָ֑י אִם־ יִֽהְיֶה֙ נְבִ֣יאֲכֶ֔ם יְהוָ֗ה בַּמַּרְאָה֙ אֵלָ֣יו אֶתְוַדָּ֔ע בַּחֲל֖וֹם אֲדַבֶּר־ בּֽוֹ׃"
+pericope: "[[Num.12.1 The Complaint of Miriam and Aaron|The Complaint of Miriam and Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 12
+book/chapter: "[[Num.12|Numbers 12]]"
+chronological_order: 172
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic LEPROSY|LEPROSY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TREASON|TREASON]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8085G]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H1697G]]"
+- "[[H9020]]"
+- "[[H0518A]]"
+- "[[H1961]]"
+- "[[H5030]]"
+- "[[H9026]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H4759A]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3045]]"
+- "[[H2472]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 12:6**<big><big>[[Num.12.1 The Complaint of Miriam and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Hear now my words: If there be a prophet among you, [I] the LORD will make myself known unto him in a vision, [and] will speak unto him in a dream.
 <small><sub>**BSB:**</sub></small>
 He said, “Hear now My words: If there is a prophet among you, I, the LORD, will reveal Myself to him in a vision; I will speak to him in a dream.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H8085G\|שִׁמְעוּ]][[H9014\|־]] [[H4994\|נָ֣א]] [[H1697G\|דְבָרָ֑]][[H9020\|י]] [[H0518A\|אִם]][[H9014\|־]] [[H1961\|יִֽהְיֶה֙]] [[H5030\|נְבִ֣יאֲ]][[H9026\|כֶ֔ם]] [[H3068G\|יְהוָ֗ה]] [[H9003\|בַּ]][[H4759A\|מַּרְאָה֙]] [[H0413\|אֵלָ֣י]][[H9033\|ו]] [[H3045\|אֶתְוַדָּ֔ע]] [[H9003\|בַּ]][[H2472\|חֲל֖וֹם]] [[H1696G\|אֲדַבֶּר]][[H9014\|־]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CITIZENS|CITIZENS]] • [[topic DREAM|DREAM]] • [[topic ENVY|ENVY]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic LEPROSY|LEPROSY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TREASON|TREASON]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.12.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.12.5|<< Numbers 12:5]]</td><td align="center" style="border:none;">[[Num.12|Numbers 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.12.7|Numbers 12:7 >>]]</td></tr></table>
 

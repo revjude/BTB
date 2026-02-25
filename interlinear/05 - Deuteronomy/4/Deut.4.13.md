@@ -1,8 +1,71 @@
+---
+title: Deuteronomy 4:13
+type: Verse
+kjv: "And he declared unto you his covenant, which he commanded you to perform, even ten commandments; and he wrote them upon two tables of stone."
+bsb: "He declared to you His covenant, which He commanded you to follow—the Ten Commandments that He wrote on two tablets of stone."
+hebrew: "וַיַּגֵּ֨ד לָכֶ֜ם אֶת־ בְּרִית֗וֹ אֲשֶׁ֨ר צִוָּ֤ה אֶתְכֶם֙ לַעֲשׂ֔וֹת עֲשֶׂ֖רֶת הַדְּבָרִ֑ים וַֽיִּכְתְּבֵ֔ם עַל־ שְׁנֵ֖י לֻח֥וֹת אֲבָנִֽים׃"
+pericope: "[[Deut.4.1 An Exhortation to Obedience|An Exhortation to Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic STONES|STONES]]"
+- "[[topic TABLE|TABLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1285]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H6213A]]"
+- "[[H6235]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H3789]]"
+- "[[H9038]]"
+- "[[H5921A]]"
+- "[[H8147]]"
+- "[[H3871]]"
+- "[[H0068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:13**<big><big>[[Deut.4.1 An Exhortation to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he declared unto you his covenant, which he commanded you to perform, [even] ten commandments; and he wrote them upon two tables of stone.
 <small><sub>**BSB:**</sub></small>
 He declared to you His covenant, which He commanded you to follow—the Ten Commandments that He wrote on two tablets of stone.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5046\|יַּגֵּ֨ד]] [[H9005\|לָ]][[H9036\|כֶ֜ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִית֗]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֨ר]] [[H6680\|צִוָּ֤ה]] [[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H9005\|לַ]][[H6213A\|עֲשׂ֔וֹת]] [[H6235\|עֲשֶׂ֖רֶת]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֑ים]] [[H9001\|וַֽ]][[H3789\|יִּכְתְּבֵ֔]][[H9038\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H8147\|שְׁנֵ֖י]] [[H3871\|לֻח֥וֹת]] [[H0068G\|אֲבָנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DECALOGUE|DECALOGUE]] • [[topic LAW|LAW]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic STONES|STONES]] • [[topic TABLE|TABLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.12|<< Deuteronomy 4:12]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.14|Deuteronomy 4:14 >>]]</td></tr></table>
 

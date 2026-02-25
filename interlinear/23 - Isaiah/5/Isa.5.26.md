@@ -1,8 +1,64 @@
+---
+title: Isaiah 5:26
+type: Verse
+kjv: "And he will lift up an ensign to the nations from far, and will hiss unto them from the end of the earth: and, behold, they shall come with speed swiftly:"
+bsb: "He lifts a banner for the distant nations and whistles for those at the ends of the earth. Behold—how speedily and swiftly they come!"
+hebrew: "וְנָֽשָׂא־ נֵ֤ס לַגּוֹיִם֙ מֵרָח֔וֹק וְשָׁ֥רַק ל֖וֹ מִקְצֵ֣ה הָאָ֑רֶץ וְהִנֵּ֥ה מְהֵרָ֖ה קַ֥ל יָבֽוֹא׃"
+pericope: "[[Isa.5.8 Woes to the Wicked|Woes to the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 5
+book/chapter: "[[Isa.5|Isaiah 5]]"
+chronological_order: 613
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic ENSIGN|ENSIGN]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5375G]]"
+- "[[H9014]]"
+- "[[H5251H]]"
+- "[[H9005]]"
+- "[[H1471A]]"
+- "[[H9006]]"
+- "[[H7350]]"
+- "[[H8319]]"
+- "[[H9033]]"
+- "[[H7097A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H4120]]"
+- "[[H7031]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 5:26**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he will lift up an ensign to the nations from far, and will hiss unto them from the end of the earth: and, behold, they shall come with speed swiftly:
 <small><sub>**BSB:**</sub></small>
 He lifts a banner for the distant nations and whistles for those at the ends of the earth. Behold—how speedily and swiftly they come!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5375G\|נָֽשָׂא]][[H9014\|־]] [[H5251H\|נֵ֤ס]] [[H9005\|לַ]][[H1471A\|גּוֹיִם֙]] [[H9006\|מֵ]][[H7350\|רָח֔וֹק]] [[H9001\|וְ]][[H8319\|שָׁ֥רַק]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9006\|מִ]][[H7097A\|קְצֵ֣ה]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H4120\|מְהֵרָ֖ה]] [[H7031\|קַ֥ל]] [[H0935G\|יָבֽוֹא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic ENSIGN|ENSIGN]] • [[topic ISAIAH|ISAIAH]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.25|<< Isaiah 5:25]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.27|Isaiah 5:27 >>]]</td></tr></table>
 

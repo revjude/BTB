@@ -1,8 +1,76 @@
+---
+title: Numbers 16:5
+type: Verse
+kjv: "And he spake unto Korah and unto all his company, saying, Even to morrow the LORD will shew who are his, and who is holy; and will cause him to come near unto him: even him whom he hath chosen will he cause to come near unto him."
+bsb: "Then he said to Korah and all his followers, “Tomorrow morning the LORD will reveal who belongs to Him and who is holy, and He will bring that person near to Himself. The one He chooses He will bring near to Himself."
+hebrew: "וַיְדַבֵּ֨ר אֶל־ קֹ֜רַח וְאֶֽל־ כָּל־ עֲדָתוֹ֮ לֵאמֹר֒ בֹּ֠קֶר וְיֹדַ֨ע יְהוָ֧ה אֶת־ אֲשֶׁר־ ל֛וֹ וְאֶת־ הַקָּד֖וֹשׁ וְהִקְרִ֣יב אֵלָ֑יו וְאֵ֛ת אֲשֶׁ֥ר יִבְחַר־ בּ֖וֹ יַקְרִ֥יב אֵלָֽיו׃"
+pericope: "[[Num.16.1 Korah’s Rebellion|Korah’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DATHAN|DATHAN]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7141I]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H5712]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H1242]]"
+- "[[H3045]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H6918G]]"
+- "[[H7126G]]"
+- "[[H0977]]"
+- "[[H9003]]"
+- "[[H7126H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 16:5**<big><big>[[Num.16.1 Korah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he spake unto Korah and unto all his company, saying, Even to morrow the LORD will shew who [are] his, and [who is] holy; and will cause [him] to come near unto him: even [him] whom he hath chosen will he cause to come near unto him.
 <small><sub>**BSB:**</sub></small>
 Then he said to Korah and all his followers, “Tomorrow morning the LORD will reveal who belongs to Him and who is holy, and He will bring that person near to Himself. The one He chooses He will bring near to Himself.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֨ר]] [[H0413\|אֶל]][[H9014\|־]] [[H7141I\|קֹ֜רַח]] [[H9002\|וְ]][[H0413\|אֶֽל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5712\|עֲדָת]][[H9023\|וֹ֮]] [[H9005\|לֵ]][[H0559\|אמֹר֒]] [[H1242\|בֹּ֠קֶר]] [[H9002\|וְ]][[H3045\|יֹדַ֨ע]] [[H3068G\|יְהוָ֧ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6918G\|קָּד֖וֹשׁ]] [[H9001\|וְ]][[H7126G\|הִקְרִ֣יב]] [[H0413\|אֵלָ֑י]][[H9033\|ו]] [[H9002\|וְ]][[H0853\|אֵ֛ת]] [[H0834A\|אֲשֶׁ֥ר]] [[H0977\|יִבְחַר]][[H9014\|־]] [[H9003\|בּ֖]][[H9033\|וֹ]] [[H7126H\|יַקְרִ֥יב]] [[H0413\|אֵלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic AMBITION|AMBITION]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DATHAN|DATHAN]] • [[topic ISRAEL|ISRAEL]] • [[topic MEEKNESS|MEEKNESS]] • [[topic MOSES|MOSES]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.4|<< Numbers 16:4]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.6|Numbers 16:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

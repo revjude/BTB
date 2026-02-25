@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Lament over Babylon
+type: Pericope
 pericope: "[[Rev.18.9 Lament over Babylon|Lament over Babylon]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 18
 book/chapter: "[[Rev.18|Revelation 18]]"
-genre:
+chronological_order: 1185
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 12
 verses:
 - "[[Rev.18.9]]"
 - "[[Rev.18.10]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Rev.18.20]]"
 ---
 
-[[Rev.18|Revelation 18:9 - Revelation 18:20]]
+<small>[[Rev.18|Revelation 18:9-20]]</small>
 *Lament over Babylon*
 
 [[Rev.18.9|9]] And the kings of the earth, who have committed fornication and lived deliciously with her, shall bewail her, and lament for her, when they shall see the smoke of her burning,

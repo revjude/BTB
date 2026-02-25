@@ -1,8 +1,73 @@
+---
+title: 1 Samuel 22:18
+type: Verse
+kjv: "And the king said to Doeg, Turn thou, and fall upon the priests. And Doeg the Edomite turned, and he fell upon the priests, and slew on that day fourscore and five persons that did wear a linen ephod."
+bsb: "So the king ordered Doeg, “You turn and strike down the priests!” And Doeg the Edomite turned and struck down the priests himself. On that day he killed eighty-five men who wore the linen ephod."
+hebrew: "וַיֹּ֤אמֶר הַמֶּ֙לֶךְ֙ לְדוֹאֵ֔ג סֹ֣ב אַתָּ֔ה וּפְגַ֖ע בַּכֹּהֲנִ֑ים וַיִּסֹּ֞ב דּוֹאֵ֣ג הָאֲדֹמִ֗י וַיִּפְגַּע־ הוּא֙ בַּכֹּ֣הֲנִ֔ים וַיָּ֣מֶת׀ בַּיּ֣וֹם הַה֗וּא שְׁמֹנִ֤ים וַחֲמִשָּׁה֙ אִ֔ישׁ נֹשֵׂ֖א אֵפ֥וֹד בָּֽד׃"
+pericope: "[[1Sam.22.6 Saul Slays the Priests of Nob|Saul Slays the Priests of Nob]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 22
+book/chapter: "[[1Sam.22|1 Samuel 22]]"
+chronological_order: 301
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHIJAH|AHIJAH]]"
+- "[[topic AHIMELECH|AHIMELECH]]"
+- "[[topic DOEG|DOEG]]"
+- "[[topic EPHOD|EPHOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H1673]]"
+- "[[H5437G]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H6293]]"
+- "[[H9003]]"
+- "[[H3548]]"
+- "[[H0130]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H4191]]"
+- "[[H9015]]"
+- "[[H3117G]]"
+- "[[H8084]]"
+- "[[H2568]]"
+- "[[H0376G]]"
+- "[[H5375H]]"
+- "[[H0646]]"
+- "[[H0906]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **1 Samuel 22:18**<big><big>[[1Sam.22.6 Saul Slays the Priests of Nob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king said to Doeg, Turn thou, and fall upon the priests. And Doeg the Edomite turned, and he fell upon the priests, and slew on that day fourscore and five persons that did wear a linen ephod.
 <small><sub>**BSB:**</sub></small>
 So the king ordered Doeg, “You turn and strike down the priests!” And Doeg the Edomite turned and struck down the priests himself. On that day he killed eighty-five men who wore the linen ephod.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H9005\|לְ]][[H1673\|דוֹאֵ֔ג]] [[H5437G\|סֹ֣ב]] [[H0859A\|אַתָּ֔ה]] [[H9002\|וּ]][[H6293\|פְגַ֖ע]] [[H9003\|בַּ]][[H3548\|כֹּהֲנִ֑ים]] [[H9001\|וַ]][[H5437G\|יִּסֹּ֞ב]] [[H1673\|דּוֹאֵ֣ג]] [[H9009\|הָ]][[H0130\|אֲדֹמִ֗י]] [[H9001\|וַ]][[H6293\|יִּפְגַּע]][[H9014\|־]] [[H1931\|הוּא֙]] [[H9003\|בַּ]][[H3548\|כֹּ֣הֲנִ֔ים]] [[H9001\|וַ]][[H4191\|יָּ֣מֶת]][[H9015\|׀]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֗וּא]] [[H8084\|שְׁמֹנִ֤ים]] [[H9002\|וַ]][[H2568\|חֲמִשָּׁה֙]] [[H0376G\|אִ֔ישׁ]] [[H5375H\|נֹשֵׂ֖א]] [[H0646\|אֵפ֥וֹד]] [[H0906\|בָּֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIJAH|AHIJAH]] • [[topic AHIMELECH|AHIMELECH]] • [[topic DOEG|DOEG]] • [[topic EPHOD|EPHOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic MALICE|MALICE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.22.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.22.17|<< 1 Samuel 22:17]]</td><td align="center" style="border:none;">[[1Sam.22|1 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.22.19|1 Samuel 22:19 >>]]</td></tr></table>
 

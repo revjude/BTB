@@ -1,8 +1,80 @@
+---
+title: Exodus 17:5
+type: Verse
+kjv: "And the LORD said unto Moses, Go on before the people, and take with thee of the elders of Israel; and thy rod, wherewith thou smotest the river, take in thine hand, and go."
+bsb: "And the LORD said to Moses, “Walk on ahead of the people and take some of the elders of Israel with you. Take along in your hand the staff with which you struck the Nile, and go."
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה אֶל־ מֹשֶׁ֗ה עֲבֹר֙ לִפְנֵ֣י הָעָ֔ם וְקַ֥ח אִתְּךָ֖ מִזִּקְנֵ֣י יִשְׂרָאֵ֑ל וּמַטְּךָ֗ אֲשֶׁ֨ר הִכִּ֤יתָ בּוֹ֙ אֶת־ הַיְאֹ֔ר קַ֥ח בְּיָדְךָ֖ וְהָלָֽכְתָּ׃"
+pericope: "[[Exod.17.1 Water from the Rock|Water from the Rock]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 17
+book/chapter: "[[Exod.17|Exodus 17]]"
+chronological_order: 109
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MERIBAH|MERIBAH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H5674A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9002]]"
+- "[[H3947G]]"
+- "[[H0854]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H2205G]]"
+- "[[H3478]]"
+- "[[H4294G]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H5221]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H2975G]]"
+- "[[H3027G]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 17:5**<big><big>[[Exod.17.1 Water from the Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, Go on before the people, and take with thee of the elders of Israel; and thy rod, wherewith thou smotest the river, take in thine hand, and go.
 <small><sub>**BSB:**</sub></small>
 And the LORD said to Moses, “Walk on ahead of the people and take some of the elders of Israel with you. Take along in your hand the staff with which you struck the Nile, and go.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֗ה]] [[H5674A\|עֲבֹר֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9002\|וְ]][[H3947G\|קַ֥ח]] [[H0854\|אִתְּ]][[H9031\|ךָ֖]] [[H9006\|מִ]][[H2205G\|זִּקְנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וּ]][[H4294G\|מַטְּ]][[H9021\|ךָ֗]] [[H0834A\|אֲשֶׁ֨ר]] [[H5221\|הִכִּ֤יתָ]] [[H9003\|בּ]][[H9033\|וֹ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2975G\|יְאֹ֔ר]] [[H3947G\|קַ֥ח]] [[H9003\|בְּ]][[H3027G\|יָדְ]][[H9021\|ךָ֖]] [[H9001\|וְ]][[H1980G\|הָלָֽכְתָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic MERIBAH|MERIBAH]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.17.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.17.4|<< Exodus 17:4]]</td><td align="center" style="border:none;">[[Exod.17|Exodus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.17.6|Exodus 17:6 >>]]</td></tr></table>
 

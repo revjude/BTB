@@ -1,10 +1,59 @@
+---
+title: John 7:4
+type: Verse
+kjv: "For there is no man that doeth any thing in secret, and he himself seeketh to be known openly. If thou do these things, shew thyself to the world."
+bsb: "For no one who wants to be known publicly acts in secret. Since You are doing these things, show Yourself to the world.”"
+greek: "οὐδεὶς γάρ τι ἐν κρυπτῷ ποιεῖ καὶ ζητεῖ αὐτὸς ἐν παρρησίᾳ εἶναι· εἰ ταῦτα ποιεῖς, φανέρωσον σεαυτὸν τῷ κόσμῳ."
+pericope: "[[John.7.1 Jesus Teaches at the Feast|Jesus Teaches at the Feast]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+strongs:
+- "[[G3762]]"
+- "[[G1063]]"
+- "[[G5100]]"
+- "[[G1722]]"
+- "[[G2927]]"
+- "[[G4160G]]"
+- "[[G2532]]"
+- "[[G2212]]"
+- "[[G0846]]"
+- "[[G3954]]"
+- "[[G1511]]"
+- "[[G1487G]]"
+- "[[G3778]]"
+- "[[G5319]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G2889]]"
+texts:
+- NKO
+---
+
 **John 7:4**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For [there is] no man [that] doeth any thing in secret, and he himself seeketh to be known openly. If thou do these things, shew thyself to the world.
 <small><sub>**BSB:**</sub></small>
 For no one who wants to be known publicly acts in secret. Since You are doing these things, show Yourself to the world.”
-<small><sub>**Literal:**</sub></small>
-No [one] for anything in secret does and seeks himself in public to be; If these things You do, do show Yourself to the world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.3|<< John 7:3]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.5|John 7:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3762\|οὐδεὶς]]  [[G1063\|γάρ]]  [[G5100\|τι]]  [[G1722\|ἐν]]  [[G2927\|κρυπτῷ]]  [[G4160G\|ποιεῖ]]  [[G2532\|καὶ]]  [[G2212\|ζητεῖ]]  [[G0846\|αὐτὸς]]  [[G1722\|ἐν]]  [[G3954\|παρρησίᾳ]]  [[G1511\|εἶναι·]]  [[G1487G\|εἰ]]  [[G3778\|ταῦτα]]  [[G4160G\|ποιεῖς,]]  [[G5319\|φανέρωσον]]  [[G4771\|σεαυτὸν]]  [[G3588\|τῷ]]  [[G2889\|κόσμῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRESUMPTION|PRESUMPTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.3|<< John 7:3]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.5|John 7:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

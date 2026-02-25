@@ -1,8 +1,64 @@
+---
+title: Jeremiah 5:28
+type: Verse
+kjv: "They are waxen fat, they shine: yea, they overpass the deeds of the wicked: they judge not the cause, the cause of the fatherless, yet they prosper; and the right of the needy do they not judge."
+bsb: "They have grown fat and sleek, and have excelled in the deeds of the wicked. They have not taken up the cause of the fatherless, that they might prosper; nor have they defended the rights of the needy."
+hebrew: "שָׁמְנ֣וּ עָשְׁת֗וּ גַּ֚ם עָֽבְר֣וּ דִבְרֵי־ רָ֔ע דִּ֣ין לֹא־ דָ֔נוּ דִּ֥ין יָת֖וֹם וְיַצְלִ֑יחוּ וּמִשְׁפַּ֥ט אֶבְיוֹנִ֖ים לֹ֥א שָׁפָֽטוּ׃"
+pericope: "[[Jer.5.14 Judgment Proclaimed|Judgment Proclaimed]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 5
+book/chapter: "[[Jer.5|Jeremiah 5]]"
+chronological_order: 722
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DECEIT|DECEIT]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H8080]]"
+- "[[H6245A]]"
+- "[[H1571]]"
+- "[[H5674D]]"
+- "[[H1697K]]"
+- "[[H9014]]"
+- "[[H7451B]]"
+- "[[H1779]]"
+- "[[H3808]]"
+- "[[H1777]]"
+- "[[H3490]]"
+- "[[H9002]]"
+- "[[H6743B]]"
+- "[[H4941H]]"
+- "[[H0034]]"
+- "[[H8199]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 5:28**<big><big>[[Jer.5.14 Judgment Proclaimed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They are waxen fat, they shine: yea, they overpass the deeds of the wicked: they judge not the cause, the cause of the fatherless, yet they prosper; and the right of the needy do they not judge.
 <small><sub>**BSB:**</sub></small>
 They have grown fat and sleek, and have excelled in the deeds of the wicked. They have not taken up the cause of the fatherless, that they might prosper; nor have they defended the rights of the needy.
+<small><sub>**Hebrew:**</sub></small>
+[[H8080\|שָׁמְנ֣וּ]] [[H6245A\|עָשְׁת֗וּ]] [[H1571\|גַּ֚ם]] [[H5674D\|עָֽבְר֣וּ]] [[H1697K\|דִבְרֵי]][[H9014\|־]] [[H7451B\|רָ֔ע]] [[H1779\|דִּ֣ין]] [[H3808\|לֹא]][[H9014\|־]] [[H1777\|דָ֔נוּ]] [[H1779\|דִּ֥ין]] [[H3490\|יָת֖וֹם]] [[H9002\|וְ]][[H6743B\|יַצְלִ֑יחוּ]] [[H9002\|וּ]][[H4941H\|מִשְׁפַּ֥ט]] [[H0034\|אֶבְיוֹנִ֖ים]] [[H3808\|לֹ֥א]] [[H8199\|שָׁפָֽטוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DECEIT|DECEIT]] • [[topic ORPHAN|ORPHAN]] • [[topic RICH, THE|RICH, THE]] • [[topic RULERS|RULERS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.27|<< Jeremiah 5:27]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.29|Jeremiah 5:29 >>]]</td></tr></table>
 

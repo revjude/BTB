@@ -1,8 +1,64 @@
+---
+title: Nehemiah 5:16
+type: Verse
+kjv: "Yea, also I continued in the work of this wall, neither bought we any land: and all my servants were gathered thither unto the work."
+bsb: "Instead, I devoted myself to the construction of the wall, and all my servants were gathered there for the work; we did not acquire any land."
+hebrew: "וְ֠גַם בִּמְלֶ֜אכֶת הַחוֹמָ֤ה הַזֹּאת֙ הֶחֱזַ֔קְתִּי וְשָׂדֶ֖ה לֹ֣א קָנִ֑ינוּ וְכָל־ נְעָרַ֔י קְבוּצִ֥ים שָׁ֖ם עַל־ הַמְּלָאכָֽה׃"
+pericope: "[[Neh.5.14 Nehemiah’s Generosity|Nehemiah’s Generosity]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 5
+book/chapter: "[[Neh.5|Nehemiah 5]]"
+chronological_order: 917
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9003]]"
+- "[[H4399]]"
+- "[[H9009]]"
+- "[[H2346G]]"
+- "[[H2063]]"
+- "[[H2388K]]"
+- "[[H7704G]]"
+- "[[H3808]]"
+- "[[H7069]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5288]]"
+- "[[H9020]]"
+- "[[H6908]]"
+- "[[H8033G]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 5:16**<big><big>[[Neh.5.14 Nehemiah’s Generosity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, also I continued in the work of this wall, neither bought we any land: and all my servants [were] gathered thither unto the work.
 <small><sub>**BSB:**</sub></small>
 Instead, I devoted myself to the construction of the wall, and all my servants were gathered there for the work; we did not acquire any land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֠]][[H1571\|גַם]] [[H9003\|בִּ]][[H4399\|מְלֶ֜אכֶת]] [[H9009\|הַ]][[H2346G\|חוֹמָ֤ה]] [[H9009\|הַ]][[H2063\|זֹּאת֙]] [[H2388K\|הֶחֱזַ֔קְתִּי]] [[H9002\|וְ]][[H7704G\|שָׂדֶ֖ה]] [[H3808\|לֹ֣א]] [[H7069\|קָנִ֑ינוּ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5288\|נְעָרַ֔]][[H9020\|י]] [[H6908\|קְבוּצִ֥ים]] [[H8033G\|שָׁ֖ם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4399\|מְּלָאכָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTRY|COUNTRY]] • [[topic EXAMPLE|EXAMPLE]] • [[topic INTEGRITY|INTEGRITY]] • [[topic KINDNESS|KINDNESS]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.5.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.5.15|<< Nehemiah 5:15]]</td><td align="center" style="border:none;">[[Neh.5|Nehemiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.17|Nehemiah 5:17 >>]]</td></tr></table>
 

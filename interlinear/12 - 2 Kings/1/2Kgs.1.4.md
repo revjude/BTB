@@ -1,8 +1,64 @@
+---
+title: 2 Kings 1:4
+type: Verse
+kjv: "Now therefore thus saith the LORD, Thou shalt not come down from that bed on which thou art gone up, but shalt surely die. And Elijah departed."
+bsb: "Therefore this is what the LORD says: ‘You will not get up from the bed on which you are lying. You will surely die.’” So Elijah departed."
+hebrew: "וְלָכֵן֙ כֹּֽה־ אָמַ֣ר יְהוָ֔ה הַמִּטָּ֞ה אֲשֶׁר־ עָלִ֥יתָ שָּׁ֛ם לֹֽא־ תֵרֵ֥ד מִמֶּ֖נָּה כִּ֣י מ֣וֹת תָּמ֑וּת וַיֵּ֖לֶךְ אֵלִיָּֽה׃"
+pericope: "[[2Kgs.1.1 Elijah Denounces Ahaziah|Elijah Denounces Ahaziah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 1
+book/chapter: "[[2Kgs.1|2 Kings 1]]"
+chronological_order: 571
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~853–852 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H9009]]"
+- "[[H4296]]"
+- "[[H0834A]]"
+- "[[H5927G]]"
+- "[[H8033G]]"
+- "[[H3808]]"
+- "[[H3381]]"
+- "[[H4480A]]"
+- "[[H9034]]"
+- "[[H3588A]]"
+- "[[H4191]]"
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H0452G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 1:4**<big><big>[[2Kgs.1.1 Elijah Denounces Ahaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore thus saith the LORD, Thou shalt not come down from that bed on which thou art gone up, but shalt surely die. And Elijah departed.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the LORD says: ‘You will not get up from the bed on which you are lying. You will surely die.’” So Elijah departed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לָ]][[H3651C\|כֵן֙]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H9009\|הַ]][[H4296\|מִּטָּ֞ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5927G\|עָלִ֥יתָ]] [[H8033G\|שָּׁ֛ם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3381\|תֵרֵ֥ד]] [[H4480A\|מִמֶּ֖]][[H9034\|נָּה]] [[H3588A\|כִּ֣י]] [[H4191\|מ֣וֹת]] [[H4191\|תָּמ֑וּת]] [[H9001\|וַ]][[H1980G\|יֵּ֖לֶךְ]] [[H0452G\|אֵלִיָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ELIJAH|ELIJAH]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.1.3|<< 2 Kings 1:3]]</td><td align="center" style="border:none;">[[2Kgs.1|2 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.1.5|2 Kings 1:5 >>]]</td></tr></table>
 

@@ -1,28 +1,35 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Mark of the Beast
+type: Pericope
 pericope: "[[Rev.13.16 The Mark of the Beast|The Mark of the Beast]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 13
 book/chapter: "[[Rev.13|Revelation 13]]"
-genre:
+chronological_order: 1180
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 3
 verses:
 - "[[Rev.13.16]]"
 - "[[Rev.13.17]]"
 - "[[Rev.13.18]]"
 ---
 
-[[Rev.13|Revelation 13:16 - Revelation 13:18]]
+<small>[[Rev.13|Revelation 13:16-18]]</small>
 *The Mark of the Beast*
 
 [[Rev.13.16|16]] And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads:

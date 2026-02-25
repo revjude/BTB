@@ -1,8 +1,64 @@
+---
+title: Jeremiah 51:55
+type: Verse
+kjv: "Because the LORD hath spoiled Babylon, and destroyed out of her the great voice; when her waves do roar like great waters, a noise of their voice is uttered:"
+bsb: "For the LORD will destroy Babylon; He will silence her mighty voice. The waves will roar like great waters; the tumult of their voices will resound."
+hebrew: "כִּֽי־ שֹׁדֵ֤ד יְהוָה֙ אֶת־ בָּבֶ֔ל וְאִבַּ֥ד מִמֶּ֖נָּה ק֣וֹל גָּד֑וֹל וְהָמ֤וּ גַלֵּיהֶם֙ כְּמַ֣יִם רַבִּ֔ים נִתַּ֥ן שְׁא֖וֹן קוֹלָֽם׃"
+pericope: "[[Jer.51.20 Babylon’s Punishment|Babylon’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7703]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H0894]]"
+- "[[H9001]]"
+- "[[H0006]]"
+- "[[H4480A]]"
+- "[[H9034]]"
+- "[[H6963A]]"
+- "[[H1419A]]"
+- "[[H1993]]"
+- "[[H1530H]]"
+- "[[H9028]]"
+- "[[H9004]]"
+- "[[H4325G]]"
+- "[[H7227A]]"
+- "[[H5414M]]"
+- "[[H7588]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 51:55**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because the LORD hath spoiled Babylon, and destroyed out of her the great voice; when her waves do roar like great waters, a noise of their voice is uttered:
 <small><sub>**BSB:**</sub></small>
 For the LORD will destroy Babylon; He will silence her mighty voice. The waves will roar like great waters; the tumult of their voices will resound.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H7703\|שֹׁדֵ֤ד]] [[H3068G\|יְהוָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0894\|בָּבֶ֔ל]] [[H9001\|וְ]][[H0006\|אִבַּ֥ד]] [[H4480A\|מִמֶּ֖]][[H9034\|נָּה]] [[H6963A\|ק֣וֹל]] [[H1419A\|גָּד֑וֹל]] [[H9001\|וְ]][[H1993\|הָמ֤וּ]] [[H1530H\|גַלֵּי]][[H9028\|הֶם֙]] [[H9004\|כְּ]][[H4325G\|מַ֣יִם]] [[H7227A\|רַבִּ֔ים]] [[H5414M\|נִתַּ֥ן]] [[H7588\|שְׁא֖וֹן]] [[H6963A\|קוֹלָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSIA|PERSIA]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.55|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.54|<< Jeremiah 51:54]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.56|Jeremiah 51:56 >>]]</td></tr></table>
 

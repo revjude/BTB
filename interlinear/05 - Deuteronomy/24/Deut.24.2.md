@@ -1,8 +1,58 @@
+---
+title: Deuteronomy 24:2
+type: Verse
+kjv: "And when she is departed out of his house, she may go and be another man’s wife."
+bsb: "If, after leaving his house, she goes and becomes another man’s wife,"
+hebrew: "וְיָצְאָ֖ה מִבֵּית֑וֹ וְהָלְכָ֖ה וְהָיְתָ֥ה לְאִישׁ־ אַחֵֽר׃"
+pericope: "[[Deut.24.1 Marriage and Divorce Laws|Marriage and Divorce Laws]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 24
+book/chapter: "[[Deut.24|Deuteronomy 24]]"
+chronological_order: 220
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H1004M]]"
+- "[[H9023]]"
+- "[[H1980L]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0376G]]"
+- "[[H9014]]"
+- "[[H0312]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 24:2**<big><big>[[Deut.24.1 Marriage and Divorce Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when she is departed out of his house, she may go and be another man’s [wife].
 <small><sub>**BSB:**</sub></small>
 If, after leaving his house, she goes and becomes another man’s wife,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3318G\|יָצְאָ֖ה]] [[H9006\|מִ]][[H1004M\|בֵּית֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H1980L\|הָלְכָ֖ה]] [[H9001\|וְ]][[H1961\|הָיְתָ֥ה]] [[H9005\|לְ]][[H0376G\|אִישׁ]][[H9014\|־]] [[H0312\|אַחֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIVORCE|DIVORCE]] • [[topic MARRIAGE|MARRIAGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.24.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24.1|<< Deuteronomy 24:1]]</td><td align="center" style="border:none;">[[Deut.24|Deuteronomy 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24.3|Deuteronomy 24:3 >>]]</td></tr></table>
 

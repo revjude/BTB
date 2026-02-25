@@ -1,8 +1,51 @@
+---
+title: Proverbs 3:13
+type: Verse
+kjv: "Happy is the man that findeth wisdom, and the man that getteth understanding."
+bsb: "Blessed is the man who finds wisdom, the man who acquires understanding,"
+hebrew: "אַשְׁרֵ֣י אָ֭דָם מָצָ֣א חָכְמָ֑ה וְ֝אָדָ֗ם יָפִ֥יק תְּבוּנָֽה׃"
+pericope: "[[Prov.3.13 The Blessings of Wisdom|The Blessings of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 3
+book/chapter: "[[Prov.3|Proverbs 3]]"
+chronological_order: 458
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H0835]]"
+- "[[H0120G]]"
+- "[[H4672]]"
+- "[[H2451]]"
+- "[[H9002]]"
+- "[[H6329]]"
+- "[[H8394]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 3:13**<big><big>[[Prov.3.13 The Blessings of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Happy [is] the man [that] findeth wisdom, and the man [that] getteth understanding.
 <small><sub>**BSB:**</sub></small>
 Blessed is the man who finds wisdom, the man who acquires understanding,
+<small><sub>**Hebrew:**</sub></small>
+[[H0835\|אַשְׁרֵ֣י]] [[H0120G\|אָ֭דָם]] [[H4672\|מָצָ֣א]] [[H2451\|חָכְמָ֑ה]] [[H9002\|וְ֝]][[H0120G\|אָדָ֗ם]] [[H6329\|יָפִ֥יק]] [[H8394\|תְּבוּנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAPPINESS|HAPPINESS]] • [[topic PEACE|PEACE]] • [[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.12|<< Proverbs 3:12]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.14|Proverbs 3:14 >>]]</td></tr></table>
 

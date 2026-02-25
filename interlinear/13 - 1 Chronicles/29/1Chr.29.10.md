@@ -1,8 +1,67 @@
+---
+title: 1 Chronicles 29:10
+type: Verse
+kjv: "Wherefore David blessed the LORD before all the congregation: and David said, Blessed be thou, LORD God of Israel our father, for ever and ever."
+bsb: "Then David blessed the LORD in the sight of all the assembly and said: “May You be blessed, O LORD, God of our father Israel, from everlasting to everlasting."
+hebrew: "וַיְבָ֤רֶךְ דָּוִיד֙ אֶת־ יְהוָ֔ה לְעֵינֵ֖י כָּל־ הַקָּהָ֑ל וַיֹּ֣אמֶר דָּוִ֗יד בָּר֨וּךְ אַתָּ֤ה יְהוָה֙ אֱלֹהֵי֙ יִשְׂרָאֵ֣ל אָבִ֔ינוּ מֵעוֹלָ֖ם וְעַד־ עוֹלָֽם׃"
+pericope: "[[1Chr.29.10 David’s Prayer of Blessing|David’s Prayer of Blessing]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 29
+book/chapter: "[[1Chr.29|1 Chronicles 29]]"
+chronological_order: 440
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1288]]"
+- "[[H1732]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H5869J]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H6951]]"
+- "[[H0559]]"
+- "[[H0859A]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H9006]]"
+- "[[H5769G]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 29:10**<big><big>[[1Chr.29.10 David’s Prayer of Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore David blessed the LORD before all the congregation: and David said, Blessed [be] thou, LORD God of Israel our father, for ever and ever.
 <small><sub>**BSB:**</sub></small>
 Then David blessed the LORD in the sight of all the assembly and said: “May You be blessed, O LORD, God of our father Israel, from everlasting to everlasting.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1288\|יְבָ֤רֶךְ]] [[H1732\|דָּוִיד֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לְ]][[H5869J\|עֵינֵ֖י]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H6951\|קָּהָ֑ל]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H1732\|דָּוִ֗יד]] [[H1288\|בָּר֨וּךְ]] [[H0859A\|אַתָּ֤ה]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵי֙]] [[H3478\|יִשְׂרָאֵ֣ל]] [[H0001G\|אָבִ֔י]][[H9025\|נוּ]] [[H9006\|מֵ]][[H5769G\|עוֹלָ֖ם]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GOD|GOD]] • [[topic JOY|JOY]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.9|<< 1 Chronicles 29:9]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.11|1 Chronicles 29:11 >>]]</td></tr></table>
 

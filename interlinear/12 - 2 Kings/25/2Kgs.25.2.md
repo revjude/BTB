@@ -1,8 +1,58 @@
+---
+title: 2 Kings 25:2
+type: Verse
+kjv: "And the city was besieged unto the eleventh year of king Zedekiah."
+bsb: "And the city was kept under siege until King Zedekiah’s eleventh year."
+hebrew: "וַתָּבֹ֥א הָעִ֖יר בַּמָּצ֑וֹר עַ֚ד עַשְׁתֵּ֣י עֶשְׂרֵ֣ה שָׁנָ֔ה לַמֶּ֖לֶךְ צִדְקִיָּֽהוּ׃"
+pericope: "[[2Kgs.25.1 Nebuchadnezzar Besieges Jerusalem|Nebuchadnezzar Besieges Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 25
+book/chapter: "[[2Kgs.25|2 Kings 25]]"
+chronological_order: 742
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SIEGE|SIEGE]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935N]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H9003]]"
+- "[[H4692]]"
+- "[[H5704]]"
+- "[[H6249]]"
+- "[[H6240]]"
+- "[[H8141]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H6667H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 25:2**<big><big>[[2Kgs.25.1 Nebuchadnezzar Besieges Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the city was besieged unto the eleventh year of king Zedekiah.
 <small><sub>**BSB:**</sub></small>
 And the city was kept under siege until King Zedekiah’s eleventh year.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935N\|תָּבֹ֥א]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H9003\|בַּ]][[H4692\|מָּצ֑וֹר]] [[H5704\|עַ֚ד]] [[H6249\|עַשְׁתֵּ֣י]] [[H6240\|עֶשְׂרֵ֣ה]] [[H8141\|שָׁנָ֔ה]] [[H9005\|לַ]][[H4428G\|מֶּ֖לֶךְ]] [[H6667H\|צִדְקִיָּֽהוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PROPHECY|PROPHECY]] • [[topic SIEGE|SIEGE]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.1|<< 2 Kings 25:1]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.3|2 Kings 25:3 >>]]</td></tr></table>
 

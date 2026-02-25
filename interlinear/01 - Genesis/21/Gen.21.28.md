@@ -1,8 +1,64 @@
+---
+title: Genesis 21:28
+type: Verse
+kjv: "And Abraham set seven ewe lambs of the flock by themselves."
+bsb: "Abraham separated seven ewe lambs from the flock,"
+hebrew: "וַיַּצֵּ֣ב אַבְרָהָ֗ם אֶת־ שֶׁ֛בַע כִּבְשֹׂ֥ת הַצֹּ֖אן לְבַדְּהֶֽן׃"
+pericope: "[[Gen.21.22 The Covenant at Beersheba|The Covenant at Beersheba]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 21
+book/chapter: "[[Gen.21|Genesis 21]]"
+chronological_order: 63
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABIMELECH|ABIMELECH]]"
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic WELLS|WELLS]]"
+- "[[topic WITNESS|WITNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5324]]"
+- "[[H0085]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7651]]"
+- "[[H3535]]"
+- "[[H9009]]"
+- "[[H6629G]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9039]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 21:28**<big><big>[[Gen.21.22 The Covenant at Beersheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abraham set seven ewe lambs of the flock by themselves.
 <small><sub>**BSB:**</sub></small>
 Abraham separated seven ewe lambs from the flock,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5324\|יַּצֵּ֣ב]] [[H0085\|אַבְרָהָ֗ם]] [[H0853\|אֶת]][[H9014\|־]] [[H7651\|שֶׁ֛בַע]] [[H3535\|כִּבְשֹׂ֥ת]] [[H9009\|הַ]][[H6629G\|צֹּ֖אן]] [[H9005\|לְ]][[H0905H\|בַדְּ]][[H9039\|הֶֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIMELECH|ABIMELECH]] • [[topic ABRAHAM|ABRAHAM]] • [[topic ALLIANCES|ALLIANCES]] • [[topic CONTRACTS|CONTRACTS]] • [[topic COVENANT|COVENANT]] • [[topic RULERS|RULERS]] • [[topic SEVEN|SEVEN]] • [[topic WELLS|WELLS]] • [[topic WITNESS|WITNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.21.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.27|<< Genesis 21:27]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.29|Genesis 21:29 >>]]</td></tr></table>
 

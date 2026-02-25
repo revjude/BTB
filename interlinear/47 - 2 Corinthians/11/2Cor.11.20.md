@@ -1,10 +1,52 @@
+---
+title: 2 Corinthians 11:20
+type: Verse
+kjv: "For ye suffer, if a man bring you into bondage, if a man devour you, if a man take of you, if a man exalt himself, if a man smite you on the face."
+bsb: "In fact, you even put up with anyone who enslaves you or exploits you or takes advantage of you or exalts himself or strikes you in the face."
+greek: "ἀνέχεσθε γάρ, εἴ τις ὑμᾶς καταδουλοῖ, εἴ τις κατεσθίει, εἴ τις λαμβάνει, εἴ τις ἐπαίρεται, εἴ τις εἰς πρόσωπον ὑμᾶς δέρει."
+pericope: "[[2Cor.11.16 Paul’s Suffering and Service|Paul’s Suffering and Service]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 11
+book/chapter: "[[2Cor.11|2 Corinthians 11]]"
+chronological_order: 1084
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G0430]]"
+- "[[G1063]]"
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G4771]]"
+- "[[G2615]]"
+- "[[G2719]]"
+- "[[G2983]]"
+- "[[G1869]]"
+- "[[G1519]]"
+- "[[G4383]]"
+- "[[G1194]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 11:20**<big><big>[[2Cor.11.16 Paul’s Suffering and Service|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For ye suffer, if a man bring you into bondage, if a man devour [you], if a man take [of you], if a man exalt himself, if a man smite you on the face.
 <small><sub>**BSB:**</sub></small>
 In fact, you even put up with anyone who enslaves you or exploits you or takes advantage of you or exalts himself or strikes you in the face.
-<small><sub>**Literal:**</sub></small>
-You bear [it] for if anyone you enslaves, if anyone devours [you], if anyone takes [from you], if anyone exalts himself, if anyone in [the] face you strikes.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.19|<< 2 Corinthians 11:19]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.21|2 Corinthians 11:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0430\|ἀνέχεσθε]]  [[G1063\|γάρ,]]  [[G1487G\|εἴ]]  [[G5100\|τις]]  [[G4771\|ὑμᾶς]]  [[G2615\|καταδουλοῖ,]]  [[G1487G\|εἴ]]  [[G5100\|τις]]  [[G2719\|κατεσθίει,]]  [[G1487G\|εἴ]]  [[G5100\|τις]]  [[G2983\|λαμβάνει,]]  [[G1487G\|εἴ]]  [[G5100\|τις]]  [[G1869\|ἐπαίρεται,]]  [[G1487G\|εἴ]]  [[G5100\|τις]]  [[G1519\|εἰς]]  [[G4383\|πρόσωπον]]  [[G4771\|ὑμᾶς]]  [[G1194\|δέρει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.19|<< 2 Corinthians 11:19]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.21|2 Corinthians 11:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

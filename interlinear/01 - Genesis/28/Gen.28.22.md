@@ -1,8 +1,71 @@
+---
+title: Genesis 28:22
+type: Verse
+kjv: "And this stone, which I have set for a pillar, shall be God’s house: and of all that thou shalt give me I will surely give the tenth unto thee."
+bsb: "And this stone I have set up as a pillar will be God’s house, and of all that You give me I will surely give You a tenth.”"
+hebrew: "וְהָאֶ֣בֶן הַזֹּ֗את אֲשֶׁר־ שַׂ֙מְתִּי֙ מַצֵּבָ֔ה יִהְיֶ֖ה בֵּ֣ית אֱלֹהִ֑ים וְכֹל֙ אֲשֶׁ֣ר תִּתֶּן־ לִ֔י עַשֵּׂ֖ר אֲעַשְּׂרֶ֥נּוּ לָֽךְ׃"
+pericope: "[[Gen.28.18 The Stone of Bethel|The Stone of Bethel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 28
+book/chapter: "[[Gen.28|Genesis 28]]"
+chronological_order: 70
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONSECRATION|CONSECRATION]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic STONES|STONES]]"
+- "[[topic TITHES|TITHES]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0068G]]"
+- "[[H2063]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H7760A]]"
+- "[[H4676]]"
+- "[[H1961]]"
+- "[[H1004B]]"
+- "[[H0430G]]"
+- "[[H3605]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H6237]]"
+- "[[H9033]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 28:22**<big><big>[[Gen.28.18 The Stone of Bethel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this stone, which I have set [for] a pillar, shall be God’s house: and of all that thou shalt give me I will surely give the tenth unto thee.
 <small><sub>**BSB:**</sub></small>
 And this stone I have set up as a pillar will be God’s house, and of all that You give me I will surely give You a tenth.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H0068G\|אֶ֣בֶן]] [[H9009\|הַ]][[H2063\|זֹּ֗את]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7760A\|שַׂ֙מְתִּי֙]] [[H4676\|מַצֵּבָ֔ה]] [[H1961\|יִהְיֶ֖ה]] [[H1004B\|בֵּ֣ית]] [[H0430G\|אֱלֹהִ֑ים]] [[H9002\|וְ]][[H3605\|כֹל֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5414G\|תִּתֶּן]][[H9014\|־]] [[H9005\|לִ֔]][[H9030\|י]] [[H6237\|עַשֵּׂ֖ר]] [[H6237\|אֲעַשְּׂרֶ֥]][[H9033\|נּוּ]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-EL|BETH-EL]] • [[topic CHURCH|CHURCH]] • [[topic CONSECRATION|CONSECRATION]] • [[topic COVENANT|COVENANT]] • [[topic JACOB|JACOB]] • [[topic LIBERALITY|LIBERALITY]] • [[topic RELIGION|RELIGION]] • [[topic STONES|STONES]] • [[topic TITHES|TITHES]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.28.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.21|<< Genesis 28:21]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.1|Genesis 29:1 >>]]</td></tr></table>
 

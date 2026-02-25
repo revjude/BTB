@@ -1,8 +1,58 @@
+---
+title: 2 Chronicles 28:22
+type: Verse
+kjv: "And in the time of his distress did he trespass yet more against the LORD: this is that king Ahaz."
+bsb: "In the time of his distress, King Ahaz became even more unfaithful to the LORD."
+hebrew: "וּבְעֵת֙ הָצֵ֣ר ל֔וֹ וַיּ֖וֹסֶף לִמְע֣וֹל בַּיהוָ֑ה ה֖וּא הַמֶּ֥לֶךְ אָחָֽז׃"
+pericope: "[[2Chr.28.16 The Idolatry of Ahaz|The Idolatry of Ahaz]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 28
+book/chapter: "[[2Chr.28|2 Chronicles 28]]"
+chronological_order: 616
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AHAZ|AHAZ]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H6887B]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H3254H]]"
+- "[[H4603]]"
+- "[[H3068G]]"
+- "[[H1931]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0271G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 28:22**<big><big>[[2Chr.28.16 The Idolatry of Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the time of his distress did he trespass yet more against the LORD: this [is that] king Ahaz.
 <small><sub>**BSB:**</sub></small>
 In the time of his distress, King Ahaz became even more unfaithful to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H6256\|עֵת֙]] [[H6887B\|הָצֵ֣ר]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H3254H\|יּ֖וֹסֶף]] [[H9005\|לִ]][[H4603\|מְע֣וֹל]] [[H9003\|בַּ]][[H3068G\|יהוָ֑ה]] [[H1931\|ה֖וּא]] [[H9009\|הַ]][[H4428G\|מֶּ֥לֶךְ]] [[H0271G\|אָחָֽז]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AHAZ|AHAZ]] • [[topic IDOLATRY|IDOLATRY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.21|<< 2 Chronicles 28:21]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.23|2 Chronicles 28:23 >>]]</td></tr></table>
 

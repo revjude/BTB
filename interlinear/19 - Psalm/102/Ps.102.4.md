@@ -1,8 +1,58 @@
+---
+title: Psalm 102:4
+type: Verse
+kjv: "My heart is smitten, and withered like grass; so that I forget to eat my bread."
+bsb: "My heart is afflicted, and withered like grass; I even forget to eat my bread."
+hebrew: "הוּכָּֽה־ כָ֭עֵשֶׂב וַיִּבַ֣שׁ לִבִּ֑י כִּֽי־ שָׁ֝כַ֗חְתִּי מֵאֲכֹ֥ל לַחְמִֽי׃"
+pericope: "[[Ps.102.1 The Prayer of the Afflicted|The Prayer of the Afflicted]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 102
+book/chapter: "[[Ps.102|Psalm 102]]"
+chronological_order: 784
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+strongs:
+- "[[H5221]]"
+- "[[H9014]]"
+- "[[H9004]]"
+- "[[H6212]]"
+- "[[H9001]]"
+- "[[H3001]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H7911]]"
+- "[[H9006]]"
+- "[[H0398]]"
+- "[[H3899H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 102:4**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My heart is smitten, and withered like grass; so that I forget to eat my bread.
 <small><sub>**BSB:**</sub></small>
 My heart is afflicted, and withered like grass; I even forget to eat my bread.
+<small><sub>**Hebrew:**</sub></small>
+[[H5221\|הוּכָּֽה]][[H9014\|־]] [[H9004\|כָ֭]][[H6212\|עֵשֶׂב]] [[H9001\|וַ]][[H3001\|יִּבַ֣שׁ]] [[H3820A\|לִבִּ֑]][[H9020\|י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7911\|שָׁ֝כַ֗חְתִּי]] [[H9006\|מֵ]][[H0398\|אֲכֹ֥ל]] [[H3899H\|לַחְמִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic IMMORTALITY|IMMORTALITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.3|<< Psalms 102:3]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.5|Psalms 102:5 >>]]</td></tr></table>
 

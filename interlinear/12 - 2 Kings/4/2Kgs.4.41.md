@@ -1,8 +1,62 @@
+---
+title: 2 Kings 4:41
+type: Verse
+kjv: "But he said, Then bring meal. And he cast it into the pot; and he said, Pour out for the people, that they may eat. And there was no harm in the pot."
+bsb: "Then Elisha said, “Get some flour.” He threw it into the pot and said, “Pour it out for the people to eat.” And there was nothing harmful in the pot."
+hebrew: "וַיֹּ֙אמֶר֙ וּקְחוּ־ קֶ֔מַח וַיַּשְׁלֵ֖ךְ אֶל־ הַסִּ֑יר וַיֹּ֗אמֶר צַ֤ק לָעָם֙ וְיֹאכֵ֔לוּ וְלֹ֥א הָיָ֛ה דָּבָ֥ר רָ֖ע בַּסִּֽיר׃ ס"
+pericope: "[[2Kgs.4.38 Elisha Purifies the Poisonous Stew|Elisha Purifies the Poisonous Stew]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9002]]"
+- "[[H3947J]]"
+- "[[H9014]]"
+- "[[H7058]]"
+- "[[H7993]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H5518A]]"
+- "[[H3332G]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H0398]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H1697K]]"
+- "[[H7451H]]"
+- "[[H9003]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Kings 4:41**<big><big>[[2Kgs.4.38 Elisha Purifies the Poisonous Stew|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he said, Then bring meal. And he cast [it] into the pot; and he said, Pour out for the people, that they may eat. And there was no harm in the pot.
 <small><sub>**BSB:**</sub></small>
 Then Elisha said, “Get some flour.” He threw it into the pot and said, “Pour it out for the people to eat.” And there was nothing harmful in the pot.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H9002\|וּ]][[H3947J\|קְחוּ]][[H9014\|־]] [[H7058\|קֶ֔מַח]] [[H9001\|וַ]][[H7993\|יַּשְׁלֵ֖ךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H5518A\|סִּ֑יר]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H3332G\|צַ֤ק]] [[H9005\|לָ]][[H5971A\|עָם֙]] [[H9002\|וְ]][[H0398\|יֹאכֵ֔לוּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H1961\|הָיָ֛ה]] [[H1697K\|דָּבָ֥ר]] [[H7451H\|רָ֖ע]] [[H9003\|בַּ]][[H5518A\|סִּֽיר]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELISHA|ELISHA]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.40|<< 2 Kings 4:40]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.42|2 Kings 4:42 >>]]</td></tr></table>
 
@@ -22,7 +76,7 @@ Then Elisha said, “Get some flour.” He threw it into the pot and said, “Po
 | it was  |**<big>&#8207;[[H1961\|הָיָ֛ה]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a thing  |**<big>&#8207;[[H1697K\|דָּבָ֥ר]]&#8207; </big>**| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bad  |**<big>&#8207;[[H7451H\|רָ֖ע]]&#8207; </big>**| ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the pot  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H5518A\|סִּֽיר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Sir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the pot  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H5518A\|סִּֽיר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Sir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.40|<< 2 Kings 4:40]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.42|2 Kings 4:42 >>]]</td></tr></table>
 
 

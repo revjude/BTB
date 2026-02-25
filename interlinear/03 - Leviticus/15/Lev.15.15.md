@@ -1,8 +1,67 @@
+---
+title: Leviticus 15:15
+type: Verse
+kjv: "And the priest shall offer them, the one for a sin offering, and the other for a burnt offering; and the priest shall make an atonement for him before the LORD for his issue."
+bsb: "The priest is to sacrifice them, one as a sin offering and the other as a burnt offering. In this way the priest will make atonement for the man before the LORD because of his discharge."
+hebrew: "וְעָשָׂ֤ה אֹתָם֙ הַכֹּהֵ֔ן אֶחָ֣ד חַטָּ֔את וְהָאֶחָ֖ד עֹלָ֑ה וְכִפֶּ֨ר עָלָ֧יו הַכֹּהֵ֛ן לִפְנֵ֥י יְהוָ֖ה מִזּוֹבֽוֹ׃ ס"
+pericope: "[[Lev.15.13 The Cleansing of Men|The Cleansing of Men]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 15
+book/chapter: "[[Lev.15|Leviticus 15]]"
+chronological_order: 147
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0259]]"
+- "[[H2403H]]"
+- "[[H9002]]"
+- "[[H5930A]]"
+- "[[H3722A]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H2101]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Leviticus 15:15**<big><big>[[Lev.15.13 The Cleansing of Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall offer them, the one [for] a sin offering, and the other [for] a burnt offering; and the priest shall make an atonement for him before the LORD for his issue.
 <small><sub>**BSB:**</sub></small>
 The priest is to sacrifice them, one as a sin offering and the other as a burnt offering. In this way the priest will make atonement for the man before the LORD because of his discharge.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213A\|עָשָׂ֤ה]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H0259\|אֶחָ֣ד]] [[H2403H\|חַטָּ֔את]] [[H9002\|וְ]][[H9009\|הָ]][[H0259\|אֶחָ֖ד]] [[H5930A\|עֹלָ֑ה]] [[H9001\|וְ]][[H3722A\|כִפֶּ֨ר]] [[H5921A\|עָלָ֧י]][[H9033\|ו]] [[H9009\|הַ]][[H3548\|כֹּהֵ֛ן]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָ֖ה]] [[H9006\|מִ]][[H2101\|זּוֹבֽ]][[H9023\|וֹ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.15.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.14|<< Leviticus 15:14]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.16|Leviticus 15:16 >>]]</td></tr></table>
 
@@ -20,7 +79,7 @@ The priest is to sacrifice them, one as a sin offering and the other as a burnt 
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֛ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵ֥י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from discharge his  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H2101\|זּוֹבֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> zo.V<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from discharge his  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H2101\|זּוֹבֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> zo.V<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.14|<< Leviticus 15:14]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.16|Leviticus 15:16 >>]]</td></tr></table>
 
 

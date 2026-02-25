@@ -1,6 +1,68 @@
+---
+title: LXX 2 Samuel 18:20
+type: Verse
+lxx: "And Joab said to him, You are not a man of good news in  this day, but you shall announce good news in another day. But in  this day you shall not announce good news, for a son of the king has died."
+greek: "και είπεν αυτώ Ιωάβ ουκ ανήρ ευαγγελίων ει συ εν τη ημέρα ταύτη και συ ευαγγελιή εν ημέρα άλλη εν δε τη ημέρα ταύτη ουκ ευαγγελιή οτι υιός του βασιλέως τέθνηκε"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 18
+book/chapter: "[[2Sam.18|2 Samuel 18]]"
+chronological_order: 417
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AHIMAAZ|AHIMAAZ]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1473]]"
+- "[[H3097]]"
+- "[[G3756]]"
+- "[[G0435]]"
+- "[[G2098]]"
+- "[[G1510]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G2097]]"
+- "[[G1722]]"
+- "[[G2250]]"
+- "[[G0243]]"
+- "[[G1722]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3778]]"
+- "[[G3756]]"
+- "[[G2097]]"
+- "[[G3754]]"
+- "[[G5207]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2348]]"
+---
+
 **LXX 2 Samuel 18:20** 
 <small><sub>**LXX:**</sub></small>
 And Joab said to him, You are not a man of good news in  this day, but you shall announce good news in another day. But in  this day you shall not announce good news, for a son of the king has died. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπεν]] [[G1473\|αυτώ]] [[H3097\|Ιωάβ]] [[G3756\|ουκ]] [[G0435\|ανήρ]] [[G2098\|ευαγγελίων]] [[G1510\|ει]] [[G1473\|συ]] [[G1722\|εν]] [[G3588\|τη]] [[G2250\|ημέρα]] [[G3778\|ταύτη]] [[G2532\|και]] [[G1473\|συ]] [[G2097\|ευαγγελιή]] [[G1722\|εν]] [[G2250\|ημέρα]] [[G0243\|άλλη]] [[G1722\|εν]] [[G1161\|δε]] [[G3588\|τη]] [[G2250\|ημέρα]] [[G3778\|ταύτη]] [[G3756\|ουκ]] [[G2097\|ευαγγελιή]] [[G3754\|οτι]] [[G5207\|υιός]] [[G3588\|του]] [[G0935\|βασιλέως]] [[G2348\|τέθνηκε]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIMAAZ|AHIMAAZ]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.18.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.19|<< 2 Samuel 18:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.21|2 Samuel 18:21 >>]]</td></tr></table>
 
@@ -33,6 +95,6 @@ And Joab said to him, You are not a man of good news in  this day, but you shall
 | of the | **<big>[[G3588\|του]]</big>** |
 | king | **<big>[[G0935\|βασιλέως]]</big>** |
 | has died. | **<big>[[G2348\|τέθνηκε]]</big>** |
-[[2Sam.18.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.19|<< 2 Samuel 18:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.21|2 Samuel 18:21 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.19|<< 2 Samuel 18:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.21|2 Samuel 18:21 >>]]</td></tr></table>
 
 

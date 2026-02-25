@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Disaster from the North
+type: Pericope
 pericope: "[[Jer.4.5 Disaster from the North|Disaster from the North]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 4
 book/chapter: "[[Jer.4|Jeremiah 4]]"
-genre:
+chronological_order: 721
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 14
 verses:
 - "[[Jer.4.5]]"
 - "[[Jer.4.6]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Jer.4.18]]"
 ---
 
-[[Jer.4|Jeremiah 4:5 - Jeremiah 4:18]]
+<small>[[Jer.4|Jeremiah 4:5-18]]</small>
 *Disaster from the North*
 
 [[Jer.4.5|5]] Declare ye in Judah, and publish in Jerusalem; and say, Blow ye the trumpet in the land: cry, gather together, and say, Assemble yourselves, and let us go into the defenced cities.

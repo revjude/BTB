@@ -1,8 +1,64 @@
+---
+title: Ezra 8:26
+type: Verse
+kjv: "I even weighed unto their hand six hundred and fifty talents of silver, and silver vessels an hundred talents, and of gold an hundred talents;"
+bsb: "I weighed out into their hands 650 talents of silver, articles of silver weighing 100 talents, 100 talents of gold,"
+hebrew: "וָאֶשְׁקֲלָ֨ה עַל־ יָדָ֜ם כֶּ֗סֶף כִּכָּרִים֙ שֵֽׁשׁ־ מֵא֣וֹת וַחֲמִשִּׁ֔ים וּכְלֵי־ כֶ֥סֶף מֵאָ֖ה לְכִכָּרִ֑ים זָהָ֖ב מֵאָ֥ה כִכָּֽר׃"
+pericope: "[[Ezra.8.24 Priests to Guard the Offerings|Priests to Guard the Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 8
+book/chapter: "[[Ezra.8|Ezra 8]]"
+chronological_order: 910
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic GOLD|GOLD]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SILVER|SILVER]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H8254]]"
+- "[[H9012]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H3701G]]"
+- "[[H3603H]]"
+- "[[H8337]]"
+- "[[H3967]]"
+- "[[H9002]]"
+- "[[H2572]]"
+- "[[H3627]]"
+- "[[H9005]]"
+- "[[H2091]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 8:26**<big><big>[[Ezra.8.24 Priests to Guard the Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I even weighed unto their hand six hundred and fifty talents of silver, and silver vessels an hundred talents, [and] of gold an hundred talents;
 <small><sub>**BSB:**</sub></small>
 I weighed out into their hands 650 talents of silver, articles of silver weighing 100 talents, 100 talents of gold,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H8254\|אֶשְׁקֲלָ֨]][[H9012\|ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3027G\|יָדָ֜]][[H9028\|ם]] [[H3701G\|כֶּ֗סֶף]] [[H3603H\|כִּכָּרִים֙]] [[H8337\|שֵֽׁשׁ]][[H9014\|־]] [[H3967\|מֵא֣וֹת]] [[H9002\|וַ]][[H2572\|חֲמִשִּׁ֔ים]] [[H9002\|וּ]][[H3627\|כְלֵי]][[H9014\|־]] [[H3701G\|כֶ֥סֶף]] [[H3967\|מֵאָ֖ה]] [[H9005\|לְ]][[H3603H\|כִכָּרִ֑ים]] [[H2091\|זָהָ֖ב]] [[H3967\|מֵאָ֥ה]] [[H3603H\|כִכָּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOLD|GOLD]] • [[topic INTEGRITY|INTEGRITY]] • [[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MONEY|MONEY]] • [[topic PRIEST|PRIEST]] • [[topic SILVER|SILVER]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.25|<< Ezra 8:25]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.27|Ezra 8:27 >>]]</td></tr></table>
 

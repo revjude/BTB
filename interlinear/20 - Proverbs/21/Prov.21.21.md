@@ -1,8 +1,49 @@
+---
+title: Proverbs 21:21
+type: Verse
+kjv: "He that followeth after righteousness and mercy findeth life, righteousness, and honour."
+bsb: "He who pursues righteousness and loving devotion finds life, righteousness, and honor."
+hebrew: "רֹ֭דֵף צְדָקָ֣ה וָחָ֑סֶד יִמְצָ֥א חַ֝יִּ֗ים צְדָקָ֥ה וְכָבֽוֹד׃"
+pericope: "[[Prov.21.1 The King’s Heart|The King’s Heart]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 21
+book/chapter: "[[Prov.21|Proverbs 21]]"
+chronological_order: 476
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic MERCY|MERCY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H7291]]"
+- "[[H6666]]"
+- "[[H9002]]"
+- "[[H2617A]]"
+- "[[H4672]]"
+- "[[H2416E]]"
+- "[[H3519]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 21:21**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that followeth after righteousness and mercy findeth life, righteousness, and honour.
 <small><sub>**BSB:**</sub></small>
 He who pursues righteousness and loving devotion finds life, righteousness, and honor.
+<small><sub>**Hebrew:**</sub></small>
+[[H7291\|רֹ֭דֵף]] [[H6666\|צְדָקָ֣ה]] [[H9002\|וָ]][[H2617A\|חָ֑סֶד]] [[H4672\|יִמְצָ֥א]] [[H2416E\|חַ֝יִּ֗ים]] [[H6666\|צְדָקָ֥ה]] [[H9002\|וְ]][[H3519\|כָבֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MERCY|MERCY]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.20|<< Proverbs 21:20]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.22|Proverbs 21:22 >>]]</td></tr></table>
 

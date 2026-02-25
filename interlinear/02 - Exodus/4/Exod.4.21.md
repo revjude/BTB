@@ -1,8 +1,81 @@
+---
+title: Exodus 4:21
+type: Verse
+kjv: "And the LORD said unto Moses, When thou goest to return into Egypt, see that thou do all those wonders before Pharaoh, which I have put in thine hand: but I will harden his heart, that he shall not let the people go."
+bsb: "The LORD instructed Moses, “When you go back to Egypt, see that you perform before Pharaoh all the wonders that I have put within your power. But I will harden his heart so that he will not let the people go."
+hebrew: "וַיֹּ֣אמֶר יְהוָה֮ אֶל־ מֹשֶׁה֒ בְּלֶכְתְּךָ֙ לָשׁ֣וּב מִצְרַ֔יְמָה רְאֵ֗ה כָּל־ הַמֹּֽפְתִים֙ אֲשֶׁר־ שַׂ֣מְתִּי בְיָדֶ֔ךָ וַעֲשִׂיתָ֖ם לִפְנֵ֣י פַרְעֹ֑ה וַאֲנִי֙ אֲחַזֵּ֣ק אֶת־ לִבּ֔וֹ וְלֹ֥א יְשַׁלַּ֖ח אֶת־ הָעָֽם׃"
+pericope: "[[Exod.4.18 Moses Leaves for Egypt|Moses Leaves for Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 4
+book/chapter: "[[Exod.4|Exodus 4]]"
+chronological_order: 96
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic HEART|HEART]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9003]]"
+- "[[H1980G]]"
+- "[[H9041]]"
+- "[[H9005]]"
+- "[[H7725G]]"
+- "[[H4714G]]"
+- "[[H9011]]"
+- "[[H7200G]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H4159]]"
+- "[[H0834A]]"
+- "[[H7760H]]"
+- "[[H3027H]]"
+- "[[H9021]]"
+- "[[H6213A]]"
+- "[[H9038]]"
+- "[[H6440G]]"
+- "[[H6547J]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H2388G]]"
+- "[[H0853]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H7971H]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 4:21**<big><big>[[Exod.4.18 Moses Leaves for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, When thou goest to return into Egypt, see that thou do all those wonders before Pharaoh, which I have put in thine hand: but I will harden his heart, that he shall not let the people go.
 <small><sub>**BSB:**</sub></small>
 The LORD instructed Moses, “When you go back to Egypt, see that you perform before Pharaoh all the wonders that I have put within your power. But I will harden his heart so that he will not let the people go.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3068G\|יְהוָה֮]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁה֒]] [[H9003\|בְּ]][[H1980G\|לֶכְתְּ]][[H9041\|ךָ֙]] [[H9005\|לָ]][[H7725G\|שׁ֣וּב]] [[H4714G\|מִצְרַ֔יְמָ]][[H9011\|ה]] [[H7200G\|רְאֵ֗ה]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4159\|מֹּֽפְתִים֙]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7760H\|שַׂ֣מְתִּי]] [[H9003\|בְ]][[H3027H\|יָדֶ֔]][[H9021\|ךָ]] [[H9001\|וַ]][[H6213A\|עֲשִׂיתָ֖]][[H9038\|ם]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H6547J\|פַרְעֹ֑ה]] [[H9002\|וַ]][[H0589\|אֲנִי֙]] [[H2388G\|אֲחַזֵּ֣ק]] [[H0853\|אֶת]][[H9014\|־]] [[H3820A\|לִבּ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H7971H\|יְשַׁלַּ֖ח]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEART|HEART]] • [[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.4.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.20|<< Exodus 4:20]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.22|Exodus 4:22 >>]]</td></tr></table>
 

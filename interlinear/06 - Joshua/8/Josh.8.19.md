@@ -1,8 +1,66 @@
+---
+title: Joshua 8:19
+type: Verse
+kjv: "And the ambush arose quickly out of their place, and they ran as soon as he had stretched out his hand: and they entered into the city, and took it, and hasted and set the city on fire."
+bsb: "and as soon as he did so, the men in ambush rose quickly from their position. They rushed forward, entered the city, captured it, and immediately set it on fire."
+hebrew: "וְהָאוֹרֵ֡ב קָם֩ מְהֵרָ֨ה מִמְּקוֹמ֤וֹ וַיָּר֙וּצוּ֙ כִּנְט֣וֹת יָד֔וֹ וַיָּבֹ֥אוּ הָעִ֖יר וַֽיִּלְכְּד֑וּהָ וַֽיְמַהֲר֔וּ וַיַּצִּ֥יתוּ אֶת־ הָעִ֖יר בָּאֵֽשׁ׃"
+pericope: "[[Josh.8.1 The Conquest of Ai|The Conquest of Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 8
+book/chapter: "[[Josh.8|Joshua 8]]"
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMBUSH|AMBUSH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0693]]"
+- "[[H6965B]]"
+- "[[H4120]]"
+- "[[H9006]]"
+- "[[H4725]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H7323G]]"
+- "[[H9004]]"
+- "[[H5186]]"
+- "[[H3027G]]"
+- "[[H0935G]]"
+- "[[H5892B]]"
+- "[[H3920]]"
+- "[[H9034]]"
+- "[[H4116A]]"
+- "[[H3341]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 8:19**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the ambush arose quickly out of their place, and they ran as soon as he had stretched out his hand: and they entered into the city, and took it, and hasted and set the city on fire.
 <small><sub>**BSB:**</sub></small>
 and as soon as he did so, the men in ambush rose quickly from their position. They rushed forward, entered the city, captured it, and immediately set it on fire.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H0693\|אוֹרֵ֡ב]] [[H6965B\|קָם֩]] [[H4120\|מְהֵרָ֨ה]] [[H9006\|מִ]][[H4725\|מְּקוֹמ֤]][[H9023\|וֹ]] [[H9001\|וַ]][[H7323G\|יָּר֙וּצוּ֙]] [[H9004\|כִּ]][[H5186\|נְט֣וֹת]] [[H3027G\|יָד֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H0935G\|יָּבֹ֥אוּ]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H9001\|וַֽ]][[H3920\|יִּלְכְּד֑וּ]][[H9034\|הָ]] [[H9001\|וַֽ]][[H4116A\|יְמַהֲר֔וּ]] [[H9001\|וַ]][[H3341\|יַּצִּ֥יתוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H9003\|בָּ]][[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBUSH|AMBUSH]] • [[topic ARMIES|ARMIES]] • [[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.18|<< Joshua 8:18]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.20|Joshua 8:20 >>]]</td></tr></table>
 

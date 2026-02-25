@@ -1,8 +1,69 @@
+---
+title: Joshua 7:14
+type: Verse
+kjv: "In the morning therefore ye shall be brought according to your tribes: and it shall be, that the tribe which the LORD taketh shall come according to the families thereof; and the family which the LORD shall take shall come by households; and the household which the LORD shall take shall come man by man."
+bsb: "In the morning you must present yourselves tribe by tribe. The tribe that the LORD selects shall come forward clan by clan, and the clan that the LORD selects shall come forward family by family, and the family that the LORD selects shall come forward man by man."
+hebrew: "וְנִקְרַבְתֶּ֥ם בַּבֹּ֖קֶר לְשִׁבְטֵיכֶ֑ם וְהָיָ֡ה הַשֵּׁבֶט֩ אֲשֶׁר־ יִלְכְּדֶ֨נּוּ יְהוָ֜ה יִקְרַ֣ב לַמִּשְׁפָּח֗וֹת וְהַמִּשְׁפָּחָ֞ה אֲשֶֽׁר־ יִלְכְּדֶ֤נָּה יְהוָה֙ תִּקְרַ֣ב לַבָּתִּ֔ים וְהַבַּ֙יִת֙ אֲשֶׁ֣ר יִלְכְּדֶ֣נּוּ יְהוָ֔ה יִקְרַ֖ב לַגְּבָרִֽים׃"
+pericope: "[[Josh.7.1 The Defeat at Ai|The Defeat at Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 7
+book/chapter: "[[Josh.7|Joshua 7]]"
+chronological_order: 237
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic DISCIPLINE|DISCIPLINE]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic LOT, THE|LOT, THE]]"
+- "[[topic NATION|NATION]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H9005]]"
+- "[[H7626H]]"
+- "[[H9026]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3920]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H7126G]]"
+- "[[H4940]]"
+- "[[H9002]]"
+- "[[H9034]]"
+- "[[H1004M]]"
+- "[[H1397]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 7:14**<big><big>[[Josh.7.1 The Defeat at Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the morning therefore ye shall be brought according to your tribes: and it shall be, [that] the tribe which the LORD taketh shall come according to the families [thereof]; and the family which the LORD shall take shall come by households; and the household which the LORD shall take shall come man by man.
 <small><sub>**BSB:**</sub></small>
 In the morning you must present yourselves tribe by tribe. The tribe that the LORD selects shall come forward clan by clan, and the clan that the LORD selects shall come forward family by family, and the family that the LORD selects shall come forward man by man.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7126H\|נִקְרַבְתֶּ֥ם]] [[H9003\|בַּ]][[H1242\|בֹּ֖קֶר]] [[H9005\|לְ]][[H7626H\|שִׁבְטֵי]][[H9026\|כֶ֑ם]] [[H9001\|וְ]][[H1961\|הָיָ֡ה]] [[H9009\|הַ]][[H7626H\|שֵּׁבֶט֩]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3920\|יִלְכְּדֶ֨]][[H9033\|נּוּ]] [[H3068G\|יְהוָ֜ה]] [[H7126G\|יִקְרַ֣ב]] [[H9005\|לַ]][[H4940\|מִּשְׁפָּח֗וֹת]] [[H9002\|וְ]][[H9009\|הַ]][[H4940\|מִּשְׁפָּחָ֞ה]] [[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H3920\|יִלְכְּדֶ֤]][[H9034\|נָּה]] [[H3068G\|יְהוָה֙]] [[H7126G\|תִּקְרַ֣ב]] [[H9005\|לַ]][[H1004M\|בָּתִּ֔ים]] [[H9002\|וְ]][[H9009\|הַ]][[H1004M\|בַּ֙יִת֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3920\|יִלְכְּדֶ֣]][[H9033\|נּוּ]] [[H3068G\|יְהוָ֔ה]] [[H7126G\|יִקְרַ֖ב]] [[H9005\|לַ]][[H1397\|גְּבָרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic COMMUNION|COMMUNION]] • [[topic DISCIPLINE|DISCIPLINE]] • [[topic DISHONESTY|DISHONESTY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic LOT, THE|LOT, THE]] • [[topic NATION|NATION]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.13|<< Joshua 7:13]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.15|Joshua 7:15 >>]]</td></tr></table>
 

@@ -1,8 +1,83 @@
+---
+title: 2 Kings 5:26
+type: Verse
+kjv: "And he said unto him, Went not mine heart with thee, when the man turned again from his chariot to meet thee? Is it a time to receive money, and to receive garments, and oliveyards, and vineyards, and sheep, and oxen, and menservants, and maidservants?"
+bsb: "But Elisha questioned him, “Did not my spirit go with you when the man got down from his chariot to meet you? Is this the time to accept money and clothing, olive groves and vineyards, sheep and oxen, menservants and maidservants?"
+hebrew: "וַיֹּ֤אמֶר אֵלָיו֙ לֹא־ לִבִּ֣י הָלַ֔ךְ כַּאֲשֶׁ֧ר הָֽפַךְ־ אִ֛ישׁ מֵעַ֥ל מֶרְכַּבְתּ֖וֹ לִקְרָאתֶ֑ךָ הַעֵ֞ת לָקַ֤חַת אֶת־ הַכֶּ֙סֶף֙ וְלָקַ֣חַת בְּגָדִ֔ים וְזֵיתִ֤ים וּכְרָמִים֙ וְצֹ֣אן וּבָקָ֔ר וַעֲבָדִ֖ים וּשְׁפָחֽוֹת׃"
+pericope: "[[2Kgs.5.15 Gehazi’s Greed and Leprosy|Gehazi’s Greed and Leprosy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 5
+book/chapter: "[[2Kgs.5|2 Kings 5]]"
+chronological_order: 577
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic GEHAZI|GEHAZI]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H1980G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H2015]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H4818]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H9031]]"
+- "[[H9008]]"
+- "[[H6256]]"
+- "[[H3947H]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H0899B]]"
+- "[[H2132H]]"
+- "[[H3754]]"
+- "[[H6629G]]"
+- "[[H1241]]"
+- "[[H5650]]"
+- "[[H8198]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 5:26**<big><big>[[2Kgs.5.15 Gehazi’s Greed and Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto him, Went not mine heart [with thee], when the man turned again from his chariot to meet thee? [Is it] a time to receive money, and to receive garments, and oliveyards, and vineyards, and sheep, and oxen, and menservants, and maidservants?
 <small><sub>**BSB:**</sub></small>
 But Elisha questioned him, “Did not my spirit go with you when the man got down from his chariot to meet you? Is this the time to accept money and clothing, olive groves and vineyards, sheep and oxen, menservants and maidservants?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H3808\|לֹא]][[H9014\|־]] [[H3820A\|לִבִּ֣]][[H9020\|י]] [[H1980G\|הָלַ֔ךְ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֧ר]] [[H2015\|הָֽפַךְ]][[H9014\|־]] [[H0376G\|אִ֛ישׁ]] [[H9006\|מֵ]][[H5921A\|עַ֥ל]] [[H4818\|מֶרְכַּבְתּ֖]][[H9023\|וֹ]] [[H9005\|לִ]][[H7122G\|קְרָאתֶ֑]][[H9031\|ךָ]] [[H9008\|הַ]][[H6256\|עֵ֞ת]] [[H9005\|לָ]][[H3947H\|קַ֤חַת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3701G\|כֶּ֙סֶף֙]] [[H9002\|וְ]][[H9005\|לָ]][[H3947H\|קַ֣חַת]] [[H0899B\|בְּגָדִ֔ים]] [[H9002\|וְ]][[H2132H\|זֵיתִ֤ים]] [[H9002\|וּ]][[H3754\|כְרָמִים֙]] [[H9002\|וְ]][[H6629G\|צֹ֣אן]] [[H9002\|וּ]][[H1241\|בָקָ֔ר]] [[H9002\|וַ]][[H5650\|עֲבָדִ֖ים]] [[H9002\|וּ]][[H8198\|שְׁפָחֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic ELISHA|ELISHA]] • [[topic GEHAZI|GEHAZI]] • [[topic JORAM|JORAM]] • [[topic MIRACLES|MIRACLES]] • [[topic MONEY|MONEY]] • [[topic REPROOF|REPROOF]] • [[topic SERVANT|SERVANT]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.5.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.25|<< 2 Kings 5:25]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.27|2 Kings 5:27 >>]]</td></tr></table>
 

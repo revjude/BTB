@@ -1,10 +1,59 @@
+---
+title: John 1:27
+type: Verse
+kjv: "He it is, who coming after me is preferred before me, whose shoe’s latchet I am not worthy to unloose."
+bsb: "He is the One who comes after me, the straps of whose sandals I am not worthy to untie.”"
+greek: "αὐτός ἐστιν ὁ ὀπίσω μου ἐρχόμενος, ὃς ἔμπροσθέν μου γέγονεν· οὗ οὐκ εἰμὶ ἐγὼ ἄξιος ἵνα λύσω αὐτοῦ τὸν ἱμάντα τοῦ ὑποδήματος."
+pericope: "[[John.1.19 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G0846]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G3694]]"
+- "[[G3165]]"
+- "[[G2064]]"
+- "[[G3739]]"
+- "[[G1715]]"
+- "[[G1096]]"
+- "[[G3756]]"
+- "[[G1473]]"
+- "[[G0514]]"
+- "[[G2443]]"
+- "[[G3089]]"
+- "[[G2438]]"
+- "[[G5266]]"
+texts:
+- k
+- NKO
+---
+
 **John 1:27**<big><big>[[John.1.19 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He it is, who coming after me is preferred before me, whose shoe’s latchet I am not worthy to unloose.
 <small><sub>**BSB:**</sub></small>
 He is the One who comes after me, the straps of whose sandals I am not worthy to untie.”
-<small><sub>**Literal:**</sub></small>
-he himself is the [One] after me coming, who before me has been; of whom not am I myself worthy that I may untie of Him the strap of the sandal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.26|<< John 1:26]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.28|John 1:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0846\|αὐτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G3694\|ὀπίσω]]  [[G3165\|μου]]  [[G2064\|ἐρχόμενος,]]  [[G3739\|ὃς]]  [[G1715\|ἔμπροσθέν]]  [[G3165\|μου]]  [[G1096\|γέγονεν·]]  [[G3739\|οὗ]]  [[G3756\|οὐκ]]  [[G1510\|εἰμὶ]]  [[G1473\|ἐγὼ]]  [[G0514\|ἄξιος]]  [[G2443\|ἵνα]]  [[G3089\|λύσω]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὸν]]  [[G2438\|ἱμάντα]]  [[G3588\|τοῦ]]  [[G5266\|ὑποδήματος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.26|<< John 1:26]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.28|John 1:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

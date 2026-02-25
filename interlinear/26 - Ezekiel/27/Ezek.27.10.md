@@ -1,8 +1,65 @@
+---
+title: Ezekiel 27:10
+type: Verse
+kjv: "They of Persia and of Lud and of Phut were in thine army, thy men of war: they hanged the shield and helmet in thee; they set forth thy comeliness."
+bsb: "Men of Persia, Lydia, and Put served as warriors in your army. They hung their shields and helmets on your walls; they gave you splendor."
+hebrew: "פָּרַ֨ס וְל֤וּד וּפוּט֙ הָי֣וּ בְחֵילֵ֔ךְ אַנְשֵׁ֖י מִלְחַמְתֵּ֑ךְ מָגֵ֤ן וְכוֹבַע֙ תִּלּוּ־ בָ֔ךְ הֵ֖מָּה נָתְנ֥וּ הֲדָרֵֽךְ׃"
+pericope: "[[Ezek.27.1 A Lament for Tyre|A Lament for Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 27
+book/chapter: "[[Ezek.27|Ezekiel 27]]"
+chronological_order: 818
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic LUBIMS|LUBIMS]]"
+- "[[topic LUDIM|LUDIM]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic PHUT|PHUT]]"
+strongs:
+- "[[H6539]]"
+- "[[H9002]]"
+- "[[H3865]]"
+- "[[H6316H]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H2428A]]"
+- "[[H9022]]"
+- "[[H0582]]"
+- "[[H4421]]"
+- "[[H4043]]"
+- "[[H3553]]"
+- "[[H8518]]"
+- "[[H9014]]"
+- "[[H9032]]"
+- "[[H1992]]"
+- "[[H5414G]]"
+- "[[H1926]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 27:10**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They of Persia and of Lud and of Phut were in thine army, thy men of war: they hanged the shield and helmet in thee; they set forth thy comeliness.
 <small><sub>**BSB:**</sub></small>
 Men of Persia, Lydia, and Put served as warriors in your army. They hung their shields and helmets on your walls; they gave you splendor.
+<small><sub>**Hebrew:**</sub></small>
+[[H6539\|פָּרַ֨ס]] [[H9002\|וְ]][[H3865\|ל֤וּד]] [[H9002\|וּ]][[H6316H\|פוּט֙]] [[H1961\|הָי֣וּ]] [[H9003\|בְ]][[H2428A\|חֵילֵ֔]][[H9022\|ךְ]] [[H0582\|אַנְשֵׁ֖י]] [[H4421\|מִלְחַמְתֵּ֑]][[H9022\|ךְ]] [[H4043\|מָגֵ֤ן]] [[H9002\|וְ]][[H3553\|כוֹבַע֙]] [[H8518\|תִּלּוּ]][[H9014\|־]] [[H9003\|בָ֔]][[H9032\|ךְ]] [[H1992\|הֵ֖מָּה]] [[H5414G\|נָתְנ֥וּ]] [[H1926\|הֲדָרֵֽ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LUBIMS|LUBIMS]] • [[topic LUDIM|LUDIM]] • [[topic PERSIA|PERSIA]] • [[topic PHUT|PHUT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.9|<< Ezekiel 27:9]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.11|Ezekiel 27:11 >>]]</td></tr></table>
 

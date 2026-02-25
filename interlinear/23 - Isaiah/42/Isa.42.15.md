@@ -1,8 +1,53 @@
+---
+title: Isaiah 42:15
+type: Verse
+kjv: "I will make waste mountains and hills, and dry up all their herbs; and I will make the rivers islands, and I will dry up the pools."
+bsb: "I will lay waste the mountains and hills and dry up all their vegetation. I will turn the rivers into dry land and drain the marshes."
+hebrew: "אַחֲרִ֤יב הָרִים֙ וּגְבָע֔וֹת וְכָל־ עֶשְׂבָּ֖ם אוֹבִ֑ישׁ וְשַׂמְתִּ֤י נְהָרוֹת֙ לָֽאִיִּ֔ים וַאֲגַמִּ֖ים אוֹבִֽישׁ׃"
+pericope: "[[Isa.42.10 A New Song of Praise|A New Song of Praise]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 42
+book/chapter: "[[Isa.42|Isaiah 42]]"
+chronological_order: 681
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+strongs:
+- "[[H2717B]]"
+- "[[H2022G]]"
+- "[[H9002]]"
+- "[[H1389I]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6212]]"
+- "[[H9028]]"
+- "[[H3001]]"
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H5104H]]"
+- "[[H9005]]"
+- "[[H0339]]"
+- "[[H0098]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 42:15**<big><big>[[Isa.42.10 A New Song of Praise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will make waste mountains and hills, and dry up all their herbs; and I will make the rivers islands, and I will dry up the pools.
 <small><sub>**BSB:**</sub></small>
 I will lay waste the mountains and hills and dry up all their vegetation. I will turn the rivers into dry land and drain the marshes.
+<small><sub>**Hebrew:**</sub></small>
+[[H2717B\|אַחֲרִ֤יב]] [[H2022G\|הָרִים֙]] [[H9002\|וּ]][[H1389I\|גְבָע֔וֹת]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H6212\|עֶשְׂבָּ֖]][[H9028\|ם]] [[H3001\|אוֹבִ֑ישׁ]] [[H9001\|וְ]][[H7760A\|שַׂמְתִּ֤י]] [[H5104H\|נְהָרוֹת֙]] [[H9005\|לָֽ]][[H0339\|אִיִּ֔ים]] [[H9002\|וַ]][[H0098\|אֲגַמִּ֖ים]] [[H3001\|אוֹבִֽישׁ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.14|<< Isaiah 42:14]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.16|Isaiah 42:16 >>]]</td></tr></table>
 

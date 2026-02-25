@@ -1,10 +1,61 @@
+---
+title: Acts 22:27
+type: Verse
+kjv: "Then the chief captain came, and said unto him, Tell me, art thou a Roman? He said, Yea."
+bsb: "The commander went to Paul and asked, “Tell me, are you a Roman citizen?” “Yes,” he answered."
+greek: "προσελθὼν δὲ ὁ χιλίαρχος εἶπεν αὐτῷ· λέγε μοι, εἰ σὺ Ῥωμαῖος εἶ; ὁ δὲ ἔφη· ναί."
+pericope: "[[Acts.22.22 Paul the Roman Citizen|Paul the Roman Citizen]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 22
+book/chapter: "[[Acts.22|Acts 22]]"
+chronological_order: 1104
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ROMAN EMPIRE|ROMAN EMPIRE]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+- "[[topic TRIAL|TRIAL]]"
+strongs:
+- "[[G4334]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G5506]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G3165]]"
+- "[[G1487G]]"
+- "[[G4771]]"
+- "[[G4514]]"
+- "[[G1510]]"
+- "[[G5346]]"
+- "[[G3483]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 22:27**<big><big>[[Acts.22.22 Paul the Roman Citizen|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then the chief captain came, and said unto him, Tell me, art thou a Roman? He said, Yea.
 <small><sub>**BSB:**</sub></small>
 The commander went to Paul and asked, “Tell me, are you a Roman citizen?” “Yes,” he answered.
-<small><sub>**Literal:**</sub></small>
-Having come near then the commander said to him; do tell me, if you yourself a Roman are? <the> And he was saying; Yes.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.26|<< Acts 22:26]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.28|Acts 22:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4334\|προσελθὼν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G5506\|χιλίαρχος]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G3004G\|λέγε]]  [[G3165\|μοι,]]  [[G1487G\|εἰ]]  [[G4771\|σὺ]]  [[G4514\|Ῥωμαῖος]]  [[G1510\|εἶ;]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G5346\|ἔφη·]]  [[G3483\|ναί.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CITIZENS|CITIZENS]] • [[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic ROMAN EMPIRE|ROMAN EMPIRE]] • [[topic SOLDIERS|SOLDIERS]] • [[topic TRIAL|TRIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.26|<< Acts 22:26]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.28|Acts 22:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

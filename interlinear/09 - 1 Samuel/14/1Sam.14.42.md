@@ -1,8 +1,53 @@
+---
+title: 1 Samuel 14:42
+type: Verse
+kjv: "And Saul said, Cast lots between me and Jonathan my son. And Jonathan was taken."
+bsb: "Then Saul said, “Cast the lot between me and my son Jonathan.” And Jonathan was selected."
+hebrew: "וַיֹּ֣אמֶר שָׁא֔וּל הַפִּ֕ילוּ בֵּינִ֕י וּבֵ֖ין יוֹנָתָ֣ן בְּנִ֑י וַיִּלָּכֵ֖ד יוֹנָתָֽן׃"
+pericope: "[[1Sam.14.37 The People Save Jonathan|The People Save Jonathan]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic LOT, THE|LOT, THE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7586G]]"
+- "[[H5307I]]"
+- "[[H0996G]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H3129N]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H3920]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 14:42**<big><big>[[1Sam.14.37 The People Save Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul said, Cast [lots] between me and Jonathan my son. And Jonathan was taken.
 <small><sub>**BSB:**</sub></small>
 Then Saul said, “Cast the lot between me and my son Jonathan.” And Jonathan was selected.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H7586G\|שָׁא֔וּל]] [[H5307I\|הַפִּ֕ילוּ]] [[H0996G\|בֵּינִ֕]][[H9030\|י]] [[H9002\|וּ]][[H0996G\|בֵ֖ין]] [[H3129N\|יוֹנָתָ֣ן]] [[H1121A\|בְּנִ֑]][[H9020\|י]] [[H9001\|וַ]][[H3920\|יִּלָּכֵ֖ד]] [[H3129N\|יוֹנָתָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOT, THE|LOT, THE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.41|<< 1 Samuel 14:41]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.43|1 Samuel 14:43 >>]]</td></tr></table>
 

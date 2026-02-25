@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Job Continues：Life Seems Futile
+type: Pericope
 pericope: "[[Job.7.1 Job Continues：Life Seems Futile|Job Continues：Life Seems Futile]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 7
 book/chapter: "[[Job.7|Job 7]]"
-genre:
+chronological_order: 18
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 21
 verses:
 - "[[Job.7.1]]"
 - "[[Job.7.2]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Job.7.21]]"
 ---
 
-[[Job.7|Job 7:1 - Job 7:21]]
+<small>[[Job.7|Job 7:1-21]]</small>
 *Job Continues：Life Seems Futile*
 
 [[Job.7.1|1]] \[Is there\] not an appointed time to man upon earth? \[are not\] his days also like the days of an hireling?

@@ -1,10 +1,55 @@
+---
+title: 1 Peter 4:15
+type: Verse
+kjv: "But let none of you suffer as a murderer, or as a thief, or as an evildoer, or as a busybody in other men’s matters."
+bsb: "Indeed, none of you should suffer as a murderer or thief or wrongdoer, or even as a meddler."
+greek: "Μὴ γάρ τις ὑμῶν πασχέτω ὡς φονεὺς ἢ κλέπτης ἢ κακοποιὸς ἢ ὡς ἀλλοτριεπίσκοπος·"
+pericope: "[[1Pet.4.12 Suffering as Christians|Suffering as Christians]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 4
+book/chapter: "[[1Pet.4|1 Peter 4]]"
+chronological_order: 1138
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic BUSYBODY|BUSYBODY]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSTANCY|CONSTANCY]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[G3361]]"
+- "[[G1063]]"
+- "[[G5100]]"
+- "[[G4771]]"
+- "[[G3958]]"
+- "[[G5613]]"
+- "[[G5406]]"
+- "[[G2228]]"
+- "[[G2812]]"
+- "[[G2555]]"
+- "[[G0244]]"
+texts:
+- NKO
+---
+
 **1 Peter 4:15**<big><big>[[1Pet.4.12 Suffering as Christians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But let none of you suffer as a murderer, or [as] a thief, or [as] an evildoer, or as a busybody in other men’s matters.
 <small><sub>**BSB:**</sub></small>
 Indeed, none of you should suffer as a murderer or thief or wrongdoer, or even as a meddler.
-<small><sub>**Literal:**</sub></small>
-Not for any of you should suffer as a murderer or a thief or an evildoer or as a troublesome meddler;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.14|<< 1 Peter 4:14]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.16|1 Peter 4:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|Μὴ]]  [[G1063\|γάρ]]  [[G5100\|τις]]  [[G4771\|ὑμῶν]]  [[G3958\|πασχέτω]]  [[G5613\|ὡς]]  [[G5406\|φονεὺς]]  [[G2228\|ἢ]]  [[G2812\|κλέπτης]]  [[G2228\|ἢ]]  [[G2555\|κακοποιὸς]]  [[G2228\|ἢ]]  [[G5613\|ὡς]]  [[G0244\|ἀλλοτριεπίσκοπος·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BUSYBODY|BUSYBODY]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSTANCY|CONSTANCY]] • [[topic HOMICIDE|HOMICIDE]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.14|<< 1 Peter 4:14]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.16|1 Peter 4:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

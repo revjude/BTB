@@ -1,10 +1,77 @@
+---
+title: Matthew 25:40
+type: Verse
+kjv: "And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me."
+bsb: "And the King will reply, ‘Truly I tell you, whatever you did for one of the least of these brothers of Mine, you did for Me.’"
+jesus_said: "And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me."
+greek: "Καὶ ἀποκριθεὶς ὁ βασιλεὺς ἐρεῖ αὐτοῖς· ἀμὴν λέγω ὑμῖν· ἐφ᾽ ὅσον ἐποιήσατε ἑνὶ τούτων τῶν ἀδελφῶν μου τῶν ἐλαχίστων, ἐμοὶ ἐποιήσατε.¶"
+pericope: "[[Matt.25.31 The Sheep and the Goats|The Sheep and the Goats]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AFFLICTED|AFFLICTED]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DUTY|DUTY]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2532]]"
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G4483]]"
+- "[[G0846]]"
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G1909]]"
+- "[[G3745]]"
+- "[[G4160G]]"
+- "[[G1520]]"
+- "[[G3778]]"
+- "[[G0080]]"
+- "[[G3165]]"
+- "[[G1646]]"
+- "[[G1473]]"
+texts:
+- NKO
+---
+
 **Matthew 25:40**<big><big>[[Matt.25.31 The Sheep and the Goats|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done [it] unto one of the least of these my brethren, ye have done [it] unto me.
 <small><sub>**BSB:**</sub></small>
 And the King will reply, ‘Truly I tell you, whatever you did for one of the least of these brothers of Mine, you did for Me.’
-<small><sub>**Literal:**</sub></small>
-And answering the King will say to them; Amen I say to you; to the extent as much as you did [it] to one of these the brothers of Mine of the least, to Me myself you did [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.39|<< Matthew 25:39]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.41|Matthew 25:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0611\|ἀποκριθεὶς]]  [[G3588\|ὁ]]  [[G0935\|βασιλεὺς]]  [[G4483\|ἐρεῖ]]  [[G0846\|αὐτοῖς·]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G1909\|ἐφ᾽]]  [[G3745\|ὅσον]]  [[G4160G\|ἐποιήσατε]]  [[G1520\|ἑνὶ]]  [[G3778\|τούτων]]  [[G3588\|τῶν]]  [[G0080\|ἀδελφῶν]]  [[G3165\|μου]]  [[G3588\|τῶν]]  [[G1646\|ἐλαχίστων,]]  [[G1473\|ἐμοὶ]]  [[G4160G\|ἐποιήσατε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTED|AFFLICTED]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic BROTHER|BROTHER]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DUTY|DUTY]] • [[topic FRATERNITY|FRATERNITY]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic LIBERALITY|LIBERALITY]] • [[topic LOVE|LOVE]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PRISONERS|PRISONERS]] • [[topic REWARD|REWARD]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.39|<< Matthew 25:39]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.41|Matthew 25:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,64 @@
+---
+title: John 10:1
+type: Verse
+kjv: "Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber."
+bsb: "“Truly, truly, I tell you, whoever does not enter the sheepfold by the gate, but climbs in some other way, is a thief and a robber."
+jesus_said: "Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber."
+greek: "Ἀμὴν ἀμὴν λέγω ὑμῖν· ὁ μὴ εἰσερχόμενος διὰ τῆς θύρας εἰς τὴν αὐλὴν τῶν προβάτων ἀλλ᾽ ἀναβαίνων ἀλλαχόθεν, ἐκεῖνος κλέπτης ἐστὶν καὶ λῃστής·"
+pericope: "[[John.10.1 Jesus the Good Shepherd|Jesus the Good Shepherd]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 10
+book/chapter: "[[John.10|John 10]]"
+chronological_order: 984
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G3361]]"
+- "[[G1525]]"
+- "[[G1223]]"
+- "[[G2374]]"
+- "[[G1519]]"
+- "[[G0833]]"
+- "[[G4263]]"
+- "[[G0235]]"
+- "[[G0305]]"
+- "[[G0237]]"
+- "[[G1565]]"
+- "[[G2812]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G3027]]"
+texts:
+- NKO
+---
+
 **John 10:1**<big><big>[[John.10.1 Jesus the Good Shepherd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber.
 <small><sub>**BSB:**</sub></small>
 “Truly, truly, I tell you, whoever does not enter the sheepfold by the gate, but climbs in some other way, is a thief and a robber.
-<small><sub>**Literal:**</sub></small>
-Amen Amen I say to you; the [one] not entering in through the door to the fold of the sheep but climbing up another way, he a thief is and a robber;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.41|<< John 9:41]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.2|John 10:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0281\|Ἀμὴν]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G3588\|ὁ]]  [[G3361\|μὴ]]  [[G1525\|εἰσερχόμενος]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G2374\|θύρας]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0833\|αὐλὴν]]  [[G3588\|τῶν]]  [[G4263\|προβάτων]]  [[G0235\|ἀλλ᾽]]  [[G0305\|ἀναβαίνων]]  [[G0237\|ἀλλαχόθεν,]]  [[G1565\|ἐκεῖνος]]  [[G2812\|κλέπτης]]  [[G1510\|ἐστὶν]]  [[G2532\|καὶ]]  [[G3027\|λῃστής·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SHEEP|SHEEP]] • [[topic SHEPHERD|SHEPHERD]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.41|<< John 9:41]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.2|John 10:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

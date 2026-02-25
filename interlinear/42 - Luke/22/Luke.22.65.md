@@ -1,10 +1,55 @@
+---
+title: Luke 22:65
+type: Verse
+kjv: "And many other things blasphemously spake they against him."
+bsb: "And they said many other blasphemous things against Him."
+greek: "καὶ ἕτερα πολλὰ βλασφημοῦντες ἔλεγον εἰς αὐτόν.¶"
+pericope: "[[Luke.22.63 The Soldiers Mock Jesus|The Soldiers Mock Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic SLANDER|SLANDER]]"
+strongs:
+- "[[G2532]]"
+- "[[G2087]]"
+- "[[G4183]]"
+- "[[G0987]]"
+- "[[G3004G]]"
+- "[[G1519]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Luke 22:65**<big><big>[[Luke.22.63 The Soldiers Mock Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And many other things blasphemously spake they against him.
 <small><sub>**BSB:**</sub></small>
 And they said many other blasphemous things against Him.
-<small><sub>**Literal:**</sub></small>
-And other things many blaspheming they were saying to Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.64|<< Luke 22:64]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.66|Luke 22:66 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2087\|ἕτερα]]  [[G4183\|πολλὰ]]  [[G0987\|βλασφημοῦντες]]  [[G3004G\|ἔλεγον]]  [[G1519\|εἰς]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic SLANDER|SLANDER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.64|<< Luke 22:64]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.66|Luke 22:66 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

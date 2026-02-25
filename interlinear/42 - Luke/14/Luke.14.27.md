@@ -1,10 +1,63 @@
+---
+title: Luke 14:27
+type: Verse
+kjv: "And whosoever doth not bear his cross, and come after me, cannot be my disciple."
+bsb: "And whoever does not carry his cross and follow Me cannot be My disciple."
+jesus_said: "And whosoever doth not bear his cross, and come after me, cannot be my disciple."
+greek: "καὶ ὅστις οὐ βαστάζει τὸν σταυρὸν ἑαυτοῦ καὶ ἔρχεται ὀπίσω μου, οὐ δύναται εἶναί μου μαθητής.¶"
+pericope: "[[Luke.14.25 The Cost of Discipleship|The Cost of Discipleship]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 14
+book/chapter: "[[Luke.14|Luke 14]]"
+chronological_order: 976
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CROSS|CROSS]]"
+- "[[topic DISCIPLESHIP|DISCIPLESHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic STOICISM|STOICISM]]"
+strongs:
+- "[[G2532]]"
+- "[[G3748]]"
+- "[[G3756]]"
+- "[[G0941]]"
+- "[[G3588]]"
+- "[[G4716]]"
+- "[[G1438]]"
+- "[[G2064]]"
+- "[[G3694]]"
+- "[[G3165]]"
+- "[[G1410]]"
+- "[[G1511]]"
+- "[[G3101]]"
+texts:
+- ko
+- NKO
+- NK(o)
+---
+
 **Luke 14:27**<big><big>[[Luke.14.25 The Cost of Discipleship|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And whosoever doth not bear his cross, and come after me, cannot be my disciple.
 <small><sub>**BSB:**</sub></small>
 And whoever does not carry his cross and follow Me cannot be My disciple.
-<small><sub>**Literal:**</sub></small>
-and Whoever not carries the cross of himself and comes after Me, not is able to be My disciple.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.26|<< Luke 14:26]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.28|Luke 14:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3748\|ὅστις]]  [[G3756\|οὐ]]  [[G0941\|βαστάζει]]  [[G3588\|τὸν]]  [[G4716\|σταυρὸν]]  [[G1438\|ἑαυτοῦ]]  [[G2532\|καὶ]]  [[G2064\|ἔρχεται]]  [[G3694\|ὀπίσω]]  [[G3165\|μου,]]  [[G3756\|οὐ]]  [[G1410\|δύναται]]  [[G1511\|εἶναί]]  [[G3165\|μου]]  [[G3101\|μαθητής.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CROSS|CROSS]] • [[topic DISCIPLESHIP|DISCIPLESHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SALVATION|SALVATION]] • [[topic SEEKERS|SEEKERS]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic STOICISM|STOICISM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.26|<< Luke 14:26]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.28|Luke 14:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

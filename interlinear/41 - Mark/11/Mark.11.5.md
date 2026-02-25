@@ -1,10 +1,52 @@
+---
+title: Mark 11:5
+type: Verse
+kjv: "And certain of them that stood there said unto them, What do ye, loosing the colt?"
+bsb: "and some who were standing there asked, “Why are you untying the colt?”"
+greek: "καί τινες τῶν ἐκεῖ ἑστηκότων ἔλεγον αὐτοῖς· τί ποιεῖτε λύοντες τὸν πῶλον;"
+pericope: "[[Mark.11.1 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 11
+book/chapter: "[[Mark.11|Mark 11]]"
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BETHANY|BETHANY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G5100]]"
+- "[[G3588]]"
+- "[[G1563]]"
+- "[[G2476]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+- "[[G3089]]"
+- "[[G4454]]"
+texts:
+- NKO
+---
+
 **Mark 11:5**<big><big>[[Mark.11.1 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And certain of them that stood there said unto them, What do ye, loosing the colt?
 <small><sub>**BSB:**</sub></small>
 and some who were standing there asked, “Why are you untying the colt?”
-<small><sub>**Literal:**</sub></small>
-And some of those there having stood they were saying to them; What are you doing untying the colt?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.4|<< Mark 11:4]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.6|Mark 11:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καί]]  [[G5100\|τινες]]  [[G3588\|τῶν]]  [[G1563\|ἐκεῖ]]  [[G2476\|ἑστηκότων]]  [[G3004G\|ἔλεγον]]  [[G0846\|αὐτοῖς·]]  [[G5101\|τί]]  [[G4160G\|ποιεῖτε]]  [[G3089\|λύοντες]]  [[G3588\|τὸν]]  [[G4454\|πῶλον;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHANY|BETHANY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.4|<< Mark 11:4]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.6|Mark 11:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

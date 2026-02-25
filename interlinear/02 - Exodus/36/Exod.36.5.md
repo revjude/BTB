@@ -1,8 +1,68 @@
+---
+title: Exodus 36:5
+type: Verse
+kjv: "And they spake unto Moses, saying, The people bring much more than enough for the service of the work, which the LORD commanded to make."
+bsb: "and said to Moses, “The people are bringing more than enough for doing the work the LORD has commanded us to do.”"
+hebrew: "וַיֹּאמְרוּ֙ אֶל־ מֹשֶׁ֣ה לֵּאמֹ֔ר מַרְבִּ֥ים הָעָ֖ם לְהָבִ֑יא מִדֵּ֤י הָֽעֲבֹדָה֙ לַמְּלָאכָ֔ה אֲשֶׁר־ צִוָּ֥ה יְהוָ֖ה לַעֲשֹׂ֥ת אֹתָֽהּ׃"
+pericope: "[[Exod.36.1 The People Bring More than Enough|The People Bring More than Enough]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 36
+book/chapter: "[[Exod.36|Exodus 36]]"
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9005]]"
+- "[[H7235A]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0935P]]"
+- "[[H9006]]"
+- "[[H1767]]"
+- "[[H5656H]]"
+- "[[H4399]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 36:5**<big><big>[[Exod.36.1 The People Bring More than Enough|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they spake unto Moses, saying, The people bring much more than enough for the service of the work, which the LORD commanded to make.
 <small><sub>**BSB:**</sub></small>
 and said to Moses, “The people are bringing more than enough for doing the work the LORD has commanded us to do.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְרוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֣ה]] [[H9005\|לֵּ]][[H0559\|אמֹ֔ר]] [[H7235A\|מַרְבִּ֥ים]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9005\|לְ]][[H0935P\|הָבִ֑יא]] [[H9006\|מִ]][[H1767\|דֵּ֤י]] [[H9009\|הָֽ]][[H5656H\|עֲבֹדָה֙]] [[H9005\|לַ]][[H4399\|מְּלָאכָ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לַ]][[H6213A\|עֲשֹׂ֥ת]] [[H0853\|אֹתָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic LIBERALITY|LIBERALITY]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.4|<< Exodus 36:4]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.6|Exodus 36:6 >>]]</td></tr></table>
 

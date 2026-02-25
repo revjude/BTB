@@ -1,8 +1,71 @@
+---
+title: Exodus 2:10
+type: Verse
+kjv: "And the child grew, and she brought him unto Pharaoh’s daughter, and he became her son. And she called his name Moses: and she said, Because I drew him out of the water."
+bsb: "When the child had grown older, she brought him to Pharaoh’s daughter, and he became her son. She named him Moses and explained, “I drew him out of the water.”"
+hebrew: "וַיִגְדַּ֣ל הַיֶּ֗לֶד וַתְּבִאֵ֙הוּ֙ לְבַת־ פַּרְעֹ֔ה וַֽיְהִי־ לָ֖הּ לְבֵ֑ן וַתִּקְרָ֤א שְׁמוֹ֙ מֹשֶׁ֔ה וַתֹּ֕אמֶר כִּ֥י מִן־ הַמַּ֖יִם מְשִׁיתִֽהוּ׃"
+pericope: "[[Exod.2.1 The Birth and Adoption of Moses|The Birth and Adoption of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 2
+book/chapter: "[[Exod.2|Exodus 2]]"
+chronological_order: 94
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1431]]"
+- "[[H9009]]"
+- "[[H3206]]"
+- "[[H0935P]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H6547I]]"
+- "[[H1961]]"
+- "[[H9034]]"
+- "[[H1121A]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H4872]]"
+- "[[H0559]]"
+- "[[H3588A]]"
+- "[[H4480A]]"
+- "[[H4325G]]"
+- "[[H4871]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 2:10**<big><big>[[Exod.2.1 The Birth and Adoption of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the child grew, and she brought him unto Pharaoh’s daughter, and he became her son. And she called his name Moses: and she said, Because I drew him out of the water.
 <small><sub>**BSB:**</sub></small>
 When the child had grown older, she brought him to Pharaoh’s daughter, and he became her son. She named him Moses and explained, “I drew him out of the water.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1431\|יִגְדַּ֣ל]] [[H9009\|הַ]][[H3206\|יֶּ֗לֶד]] [[H9001\|וַ]][[H0935P\|תְּבִאֵ֙]][[H9033\|הוּ֙]] [[H9005\|לְ]][[H1323G\|בַת]][[H9014\|־]] [[H6547I\|פַּרְעֹ֔ה]] [[H9001\|וַֽ]][[H1961\|יְהִי]][[H9014\|־]] [[H9005\|לָ֖]][[H9034\|הּ]] [[H9005\|לְ]][[H1121A\|בֵ֑ן]] [[H9001\|וַ]][[H7121H\|תִּקְרָ֤א]] [[H8034\|שְׁמ]][[H9023\|וֹ֙]] [[H4872\|מֹשֶׁ֔ה]] [[H9001\|וַ]][[H0559\|תֹּ֕אמֶר]] [[H3588A\|כִּ֥י]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4325G\|מַּ֖יִם]] [[H4871\|מְשִׁיתִֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic GOD|GOD]] • [[topic KINDNESS|KINDNESS]] • [[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.9|<< Exodus 2:9]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.11|Exodus 2:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

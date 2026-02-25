@@ -1,8 +1,69 @@
+---
+title: Exodus 39:20
+type: Verse
+kjv: "And they made two other golden rings, and put them on the two sides of the ephod underneath, toward the forepart of it, over against the other coupling thereof, above the curious girdle of the ephod."
+bsb: "They made two additional gold rings and attached them to the bottom of the two shoulder pieces of the ephod, on its front, near the seam just above its woven waistband."
+hebrew: "וַֽיַּעֲשׂוּ֮ שְׁתֵּ֣י טַבְּעֹ֣ת זָהָב֒ וַֽיִּתְּנֻ֡ם עַל־ שְׁתֵּי֩ כִתְפֹ֨ת הָאֵפֹ֤ד מִלְמַ֙טָּה֙ מִמּ֣וּל פָּנָ֔יו לְעֻמַּ֖ת מֶחְבַּרְתּ֑וֹ מִמַּ֕עַל לְחֵ֖שֶׁב הָאֵפֹֽד׃"
+pericope: "[[Exod.39.8 The Breastpiece|The Breastpiece]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 39
+book/chapter: "[[Exod.39|Exodus 39]]"
+chronological_order: 131
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic EPHOD|EPHOD]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H8147]]"
+- "[[H2885]]"
+- "[[H2091]]"
+- "[[H5414H]]"
+- "[[H9038]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3802]]"
+- "[[H9009]]"
+- "[[H0646]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H4295]]"
+- "[[H4136]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H5980]]"
+- "[[H4225]]"
+- "[[H4605]]"
+- "[[H2805]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 39:20**<big><big>[[Exod.39.8 The Breastpiece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they made two [other] golden rings, and put them on the two sides of the ephod underneath, toward the forepart of it, over against the [other] coupling thereof, above the curious girdle of the ephod.
 <small><sub>**BSB:**</sub></small>
 They made two additional gold rings and attached them to the bottom of the two shoulder pieces of the ephod, on its front, near the seam just above its woven waistband.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H6213H\|יַּעֲשׂוּ֮]] [[H8147\|שְׁתֵּ֣י]] [[H2885\|טַבְּעֹ֣ת]] [[H2091\|זָהָב֒]] [[H9001\|וַֽ]][[H5414H\|יִּתְּנֻ֡]][[H9038\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H8147\|שְׁתֵּי֩]] [[H3802\|כִתְפֹ֨ת]] [[H9009\|הָ]][[H0646\|אֵפֹ֤ד]] [[H9006\|מִ]][[H9005\|לְ]][[H4295\|מַ֙טָּה֙]] [[H9006\|מִ]][[H4136\|מּ֣וּל]] [[H6440G\|פָּנָ֔י]][[H9023\|ו]] [[H9005\|לְ]][[H5980\|עֻמַּ֖ת]] [[H4225\|מֶחְבַּרְתּ֑]][[H9023\|וֹ]] [[H9006\|מִ]][[H4605\|מַּ֕עַל]] [[H9005\|לְ]][[H2805\|חֵ֖שֶׁב]] [[H9009\|הָ]][[H0646\|אֵפֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHOD|EPHOD]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.19|<< Exodus 39:19]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.21|Exodus 39:21 >>]]</td></tr></table>
 

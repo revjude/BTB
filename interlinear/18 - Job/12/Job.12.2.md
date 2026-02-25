@@ -1,8 +1,56 @@
+---
+title: Job 12:2
+type: Verse
+kjv: "No doubt but ye are the people, and wisdom shall die with you."
+bsb: "“Truly then you are the people with whom wisdom itself will die!"
+hebrew: "אָ֭מְנָם כִּ֣י אַתֶּם־ עָ֑ם וְ֝עִמָּכֶ֗ם תָּמ֥וּת חָכְמָֽה׃"
+pericope: "[[Job.12.1 Job Presents His Case|Job Presents His Case]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 12
+book/chapter: "[[Job.12|Job 12]]"
+chronological_order: 23
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic IRONY|IRONY]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SARCASM|SARCASM]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H0551]]"
+- "[[H3588A]]"
+- "[[H0859D]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9002]]"
+- "[[H5973A]]"
+- "[[H9036]]"
+- "[[H4191]]"
+- "[[H2451]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 12:2**<big><big>[[Job.12.1 Job Presents His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 No doubt but ye [are] the people, and wisdom shall die with you.
 <small><sub>**BSB:**</sub></small>
 “Truly then you are the people with whom wisdom itself will die!
+<small><sub>**Hebrew:**</sub></small>
+[[H0551\|אָ֭מְנָם]] [[H3588A\|כִּ֣י]] [[H0859D\|אַתֶּם]][[H9014\|־]] [[H5971A\|עָ֑ם]] [[H9002\|וְ֝]][[H5973A\|עִמָּ]][[H9036\|כֶ֗ם]] [[H4191\|תָּמ֥וּת]] [[H2451\|חָכְמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IRONY|IRONY]] • [[topic PRIDE|PRIDE]] • [[topic SARCASM|SARCASM]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.12.1|<< Job 12:1]]</td><td align="center" style="border:none;">[[Job.12|Job 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.12.3|Job 12:3 >>]]</td></tr></table>
 

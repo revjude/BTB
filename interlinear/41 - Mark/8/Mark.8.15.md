@@ -1,10 +1,55 @@
+---
+title: Mark 8:15
+type: Verse
+kjv: "And he charged them, saying, Take heed, beware of the leaven of the Pharisees, and of the leaven of Herod."
+bsb: "“Watch out!” He cautioned them. “Beware of the leaven of the Pharisees and of Herod.”"
+jesus_said: "Take heed, beware of the leaven of the Pharisees, and of the leaven of Herod."
+greek: "καὶ διεστέλλετο αὐτοῖς λέγων· ὁρᾶτε, βλέπετε ἀπὸ τῆς ζύμης τῶν Φαρισαίων καὶ τῆς ζύμης Ἡρῴδου."
+pericope: "[[Mark.8.14 The Leaven of the Pharisees and of Herod|The Leaven of the Pharisees and of Herod]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEAVEN (YEAST)|LEAVEN (YEAST)]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1291]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G3708]]"
+- "[[G0991]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G2219]]"
+- "[[G5330]]"
+- "[[G2264H]]"
+texts:
+- NKO
+---
+
 **Mark 8:15**<big><big>[[Mark.8.14 The Leaven of the Pharisees and of Herod|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he charged them, saying, Take heed, beware of the leaven of the Pharisees, and [of] the leaven of Herod.
 <small><sub>**BSB:**</sub></small>
 “Watch out!” He cautioned them. “Beware of the leaven of the Pharisees and of Herod.”
-<small><sub>**Literal:**</sub></small>
-And He was instructing to them saying; do watch out, do take heed of the leaven of the Pharisees and of the leaven of Herod.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.14|<< Mark 8:14]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.16|Mark 8:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1291\|διεστέλλετο]]  [[G0846\|αὐτοῖς]]  [[G3004G\|λέγων·]]  [[G3708\|ὁρᾶτε,]]  [[G0991\|βλέπετε]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G2219\|ζύμης]]  [[G3588\|τῶν]]  [[G5330\|Φαρισαίων]]  [[G2532\|καὶ]]  [[G3588\|τῆς]]  [[G2219\|ζύμης]]  [[G2264H\|Ἡρῴδου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEAVEN (YEAST)|LEAVEN (YEAST)]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.14|<< Mark 8:14]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.16|Mark 8:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

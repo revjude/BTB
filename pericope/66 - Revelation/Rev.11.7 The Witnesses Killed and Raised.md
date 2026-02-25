@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Witnesses Killed and Raised
+type: Pericope
 pericope: "[[Rev.11.7 The Witnesses Killed and Raised|The Witnesses Killed and Raised]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 11
 book/chapter: "[[Rev.11|Revelation 11]]"
-genre:
+chronological_order: 1178
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 8
 verses:
 - "[[Rev.11.7]]"
 - "[[Rev.11.8]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Rev.11.14]]"
 ---
 
-[[Rev.11|Revelation 11:7 - Revelation 11:14]]
+<small>[[Rev.11|Revelation 11:7-14]]</small>
 *The Witnesses Killed and Raised*
 
 [[Rev.11.7|7]] And when they shall have finished their testimony, the beast that ascendeth out of the bottomless pit shall make war against them, and shall overcome them, and kill them.

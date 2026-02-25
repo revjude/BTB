@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Covenant of Peace
+type: Pericope
 pericope: "[[Ezek.34.25 The Covenant of Peace|The Covenant of Peace]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 34
 book/chapter: "[[Ezek.34|Ezekiel 34]]"
-genre:
+chronological_order: 825
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 7
 verses:
 - "[[Ezek.34.25]]"
 - "[[Ezek.34.26]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Ezek.34.31]]"
 ---
 
-[[Ezek.34|Ezekiel 34:25 - Ezekiel 34:31]]
+<small>[[Ezek.34|Ezekiel 34:25-31]]</small>
 *The Covenant of Peace*
 
 [[Ezek.34.25|25]] And I will make with them a covenant of peace, and will cause the evil beasts to cease out of the land: and they shall dwell safely in the wilderness, and sleep in the woods.

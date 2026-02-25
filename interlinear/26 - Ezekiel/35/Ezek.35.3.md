@@ -1,8 +1,66 @@
+---
+title: Ezekiel 35:3
+type: Verse
+kjv: "And say unto it, Thus saith the Lord GOD; Behold, O mount Seir, I am against thee, and I will stretch out mine hand against thee, and I will make thee most desolate."
+bsb: "and declare that this is what the Lord GOD says: Behold, I am against you, O Mount Seir. I will stretch out My hand against you and make you a desolate waste."
+hebrew: "וְאָמַ֣רְתָּ לּ֗וֹ כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה הִנְנִ֥י אֵלֶ֖יךָ הַר־ שֵׂעִ֑יר וְנָטִ֤יתִי יָדִי֙ עָלֶ֔יךָ וּנְתַתִּ֖יךָ שְׁמָמָ֥ה וּמְשַׁמָּֽה׃"
+pericope: "[[Ezek.35.1 A Prophecy against Mount Seir|A Prophecy against Mount Seir]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 35
+book/chapter: "[[Ezek.35|Ezekiel 35]]"
+chronological_order: 826
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3541]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H2022G]]"
+- "[[H9014]]"
+- "[[H8165G]]"
+- "[[H5186]]"
+- "[[H3027G]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H5414I]]"
+- "[[H8077A]]"
+- "[[H9002]]"
+- "[[H4923]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 35:3**<big><big>[[Ezek.35.1 A Prophecy against Mount Seir|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say unto it, Thus saith the Lord GOD; Behold, O mount Seir, I [am] against thee, and I will stretch out mine hand against thee, and I will make thee most desolate.
 <small><sub>**BSB:**</sub></small>
 and declare that this is what the Lord GOD says: Behold, I am against you, O Mount Seir. I will stretch out My hand against you and make you a desolate waste.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַ֣רְתָּ]] [[H9005\|לּ֗]][[H9033\|וֹ]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H2005\|הִנְ]][[H9040\|נִ֥י]] [[H0413\|אֵלֶ֖י]][[H9031\|ךָ]] [[H2022G\|הַר]][[H9014\|־]] [[H8165G\|שֵׂעִ֑יר]] [[H9001\|וְ]][[H5186\|נָטִ֤יתִי]] [[H3027G\|יָדִ]][[H9020\|י֙]] [[H5921A\|עָלֶ֔י]][[H9031\|ךָ]] [[H9001\|וּ]][[H5414I\|נְתַתִּ֖י]][[H9031\|ךָ]] [[H8077A\|שְׁמָמָ֥ה]] [[H9002\|וּ]][[H4923\|מְשַׁמָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.35.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.35.2|<< Ezekiel 35:2]]</td><td align="center" style="border:none;">[[Ezek.35|Ezekiel 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.35.4|Ezekiel 35:4 >>]]</td></tr></table>
 

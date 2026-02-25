@@ -1,8 +1,57 @@
+---
+title: Psalm 105:31
+type: Verse
+kjv: "He spake, and there came divers sorts of flies, and lice in all their coasts."
+bsb: "He spoke, and insects swarmed—gnats throughout their country."
+hebrew: "אָ֭מַר וַיָּבֹ֣א עָרֹ֑ב כִּ֝נִּ֗ים בְּכָל־ גְּבוּלָֽם׃"
+pericope: "[[Ps.105.1 Tell of His Wonders|Tell of His Wonders]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 105
+book/chapter: "[[Ps.105|Psalm 105]]"
+chronological_order: 529
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FLIES|FLIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LICE|LICE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H0559]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H6157]]"
+- "[[H3654]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1366H]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 105:31**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He spake, and there came divers sorts of flies, [and] lice in all their coasts.
 <small><sub>**BSB:**</sub></small>
 He spoke, and insects swarmed—gnats throughout their country.
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אָ֭מַר]] [[H9001\|וַ]][[H0935G\|יָּבֹ֣א]] [[H6157\|עָרֹ֑ב]] [[H3654\|כִּ֝נִּ֗ים]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H1366H\|גְּבוּלָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FLIES|FLIES]] • [[topic GOD|GOD]] • [[topic LICE|LICE]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.30|<< Psalms 105:30]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.32|Psalms 105:32 >>]]</td></tr></table>
 

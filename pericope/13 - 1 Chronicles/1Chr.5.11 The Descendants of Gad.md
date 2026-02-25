@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Descendants of Gad
+type: Pericope
 pericope: "[[1Chr.5.11 The Descendants of Gad|The Descendants of Gad]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 5
 book/chapter: "[[1Chr.5|1 Chronicles 5]]"
-genre:
+chronological_order: 324
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 12
 verses:
 - "[[1Chr.5.11]]"
 - "[[1Chr.5.12]]"
@@ -30,7 +37,7 @@ verses:
 - "[[1Chr.5.22]]"
 ---
 
-[[1Chr.5|1 Chronicles 5:11 - 1 Chronicles 5:22]]
+<small>[[1Chr.5|1 Chronicles 5:11-22]]</small>
 *The Descendants of Gad*
 
 [[1Chr.5.11|11]] And the children of Gad dwelt over against them, in the land of Bashan unto Salchah:

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Wise Woman
+type: Pericope
 pericope: "[[Prov.14.1 The Wise Woman|The Wise Woman]]"
-verse_count: 35
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 14
 book/chapter: "[[Prov.14|Proverbs 14]]"
-genre:
+chronological_order: 469
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 35
 verses:
 - "[[Prov.14.1]]"
 - "[[Prov.14.2]]"
@@ -53,7 +60,7 @@ verses:
 - "[[Prov.14.35]]"
 ---
 
-[[Prov.14|Proverbs 14:1 - Proverbs 14:35]]
+<small>[[Prov.14|Proverbs 14:1-35]]</small>
 *The Wise Woman*
 
 [[Prov.14.1|1]] Every wise woman buildeth her house: but the foolish plucketh it down with her hands.

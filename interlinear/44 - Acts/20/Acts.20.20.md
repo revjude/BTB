@@ -1,10 +1,56 @@
+---
+title: Acts 20:20
+type: Verse
+kjv: "And how I kept back nothing that was profitable unto you, but have shewed you, and have taught you publickly, and from house to house,"
+bsb: "I did not shrink back from declaring anything that was helpful to you as I taught you publicly and from house to house,"
+greek: "ὡς οὐδὲν ὑπεστειλάμην τῶν συμφερόντων τοῦ μὴ ἀναγγεῖλαι ὑμῖν καὶ διδάξαι ὑμᾶς δημοσίᾳ καὶ κατ᾽ οἴκους,"
+pericope: "[[Acts.20.17 Paul’s Farewell to the Ephesians|Paul’s Farewell to the Ephesians]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 20
+book/chapter: "[[Acts.20|Acts 20]]"
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic MILETUS|MILETUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5613]]"
+- "[[G3762]]"
+- "[[G5288]]"
+- "[[G3588]]"
+- "[[G4851]]"
+- "[[G3361]]"
+- "[[G0312]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G1321]]"
+- "[[G1219]]"
+- "[[G2596]]"
+- "[[G3624G]]"
+texts:
+- NKO
+---
+
 **Acts 20:20**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [And] how I kept back nothing that was profitable [unto you], but have shewed you, and have taught you publickly, and from house to house,
 <small><sub>**BSB:**</sub></small>
 I did not shrink back from declaring anything that was helpful to you as I taught you publicly and from house to house,
-<small><sub>**Literal:**</sub></small>
-how no [thing] I did shrink back of that being profitable <the> not to declare to you and to teach you publicly and from house to house,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.19|<< Acts 20:19]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.21|Acts 20:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G3762\|οὐδὲν]]  [[G5288\|ὑπεστειλάμην]]  [[G3588\|τῶν]]  [[G4851\|συμφερόντων]]  [[G3588\|τοῦ]]  [[G3361\|μὴ]]  [[G0312\|ἀναγγεῖλαι]]  [[G4771\|ὑμῖν]]  [[G2532\|καὶ]]  [[G1321\|διδάξαι]]  [[G4771\|ὑμᾶς]]  [[G1219\|δημοσίᾳ]]  [[G2532\|καὶ]]  [[G2596\|κατ᾽]]  [[G3624G\|οἴκους,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHESUS|EPHESUS]] • [[topic MILETUS|MILETUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.19|<< Acts 20:19]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.21|Acts 20:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

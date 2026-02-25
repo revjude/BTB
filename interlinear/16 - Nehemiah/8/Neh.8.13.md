@@ -1,8 +1,68 @@
+---
+title: Nehemiah 8:13
+type: Verse
+kjv: "And on the second day were gathered together the chief of the fathers of all the people, the priests, and the Levites, unto Ezra the scribe, even to understand the words of the law."
+bsb: "On the second day of the month, the heads of all the families, along with the priests and Levites, gathered around Ezra the scribe to study the words of the Law."
+hebrew: "וּבַיּ֣וֹם הַשֵּׁנִ֡י נֶאֶסְפוּ֩ רָאשֵׁ֨י הָאָב֜וֹת לְכָל־ הָעָ֗ם הַכֹּֽהֲנִים֙ וְהַלְוִיִּ֔ם אֶל־ עֶזְרָ֖א הַסֹּפֵ֑ר וּלְהַשְׂכִּ֖יל אֶל־ דִּבְרֵ֥י הַתּוֹרָֽה׃"
+pericope: "[[Neh.8.13 The Feast of Tabernacles|The Feast of Tabernacles]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 8
+book/chapter: "[[Neh.8|Nehemiah 8]]"
+chronological_order: 920
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic JOY|JOY]]"
+- "[[topic LAW|LAW]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H8145]]"
+- "[[H0622]]"
+- "[[H7218H]]"
+- "[[H0001G]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H3548]]"
+- "[[H3881]]"
+- "[[H0413]]"
+- "[[H5830G]]"
+- "[[H5608B]]"
+- "[[H7919A]]"
+- "[[H1697G]]"
+- "[[H8451]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 8:13**<big><big>[[Neh.8.13 The Feast of Tabernacles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And on the second day were gathered together the chief of the fathers of all the people, the priests, and the Levites, unto Ezra the scribe, even to understand the words of the law.
 <small><sub>**BSB:**</sub></small>
 On the second day of the month, the heads of all the families, along with the priests and Levites, gathered around Ezra the scribe to study the words of the Law.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֡י]] [[H0622\|נֶאֶסְפוּ֩]] [[H7218H\|רָאשֵׁ֨י]] [[H9009\|הָ]][[H0001G\|אָב֜וֹת]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֗ם]] [[H9009\|הַ]][[H3548\|כֹּֽהֲנִים֙]] [[H9002\|וְ]][[H9009\|הַ]][[H3881\|לְוִיִּ֔ם]] [[H0413\|אֶל]][[H9014\|־]] [[H5830G\|עֶזְרָ֖א]] [[H9009\|הַ]][[H5608B\|סֹּפֵ֑ר]] [[H9002\|וּ]][[H9005\|לְ]][[H7919A\|הַשְׂכִּ֖יל]] [[H0413\|אֶל]][[H9014\|־]] [[H1697G\|דִּבְרֵ֥י]] [[H9009\|הַ]][[H8451\|תּוֹרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic JOY|JOY]] • [[topic LAW|LAW]] • [[topic LEVITES|LEVITES]] • [[topic MONTH|MONTH]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.8.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.8.12|<< Nehemiah 8:12]]</td><td align="center" style="border:none;">[[Neh.8|Nehemiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.8.14|Nehemiah 8:14 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Zechariah 10:9
+type: Verse
+kjv: "And I will sow them among the people: and they shall remember me in far countries; and they shall live with their children, and turn again."
+bsb: "Though I sow them among the nations, they will remember Me in distant lands; they and their children will live and return."
+hebrew: "וְאֶזְרָעֵם֙ בָּֽעַמִּ֔ים וּבַמֶּרְחַקִּ֖ים יִזְכְּר֑וּנִי וְחָי֥וּ אֶת־ בְּנֵיהֶ֖ם וָשָֽׁבוּ׃"
+pericope: "[[Zech.10.1 Judah and Israel Will Be Restored|Judah and Israel Will Be Restored]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 10
+book/chapter: "[[Zech.10|Zechariah 10]]"
+chronological_order: 866
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9002]]"
+- "[[H2232]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H5971A]]"
+- "[[H4801]]"
+- "[[H2142]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H2421]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9028]]"
+- "[[H7725G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 10:9**<big><big>[[Zech.10.1 Judah and Israel Will Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will sow them among the people: and they shall remember me in far countries; and they shall live with their children, and turn again.
 <small><sub>**BSB:**</sub></small>
 Though I sow them among the nations, they will remember Me in distant lands; they and their children will live and return.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2232\|אֶזְרָעֵ]][[H9038\|ם֙]] [[H9003\|בָּֽ]][[H5971A\|עַמִּ֔ים]] [[H9002\|וּ]][[H9003\|בַ]][[H4801\|מֶּרְחַקִּ֖ים]] [[H2142\|יִזְכְּר֑וּ]][[H9030\|נִי]] [[H9001\|וְ]][[H2421\|חָי֥וּ]] [[H0854\|אֶת]][[H9014\|־]] [[H1121A\|בְּנֵי]][[H9028\|הֶ֖ם]] [[H9001\|וָ]][[H7725G\|שָֽׁבוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.10.8|<< Zechariah 10:8]]</td><td align="center" style="border:none;">[[Zech.10|Zechariah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.10.10|Zechariah 10:10 >>]]</td></tr></table>
 

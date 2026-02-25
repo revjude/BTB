@@ -1,8 +1,71 @@
+---
+title: 1 Kings 11:18
+type: Verse
+kjv: "And they arose out of Midian, and came to Paran: and they took men with them out of Paran, and they came to Egypt, unto Pharaoh king of Egypt; which gave him an house, and appointed him victuals, and gave him land."
+bsb: "Hadad and his men set out from Midian and went to Paran. They took men from Paran with them and went to Egypt, to Pharaoh king of Egypt, who gave Hadad a house and land and provided him with food."
+hebrew: "וַיָּקֻ֙מוּ֙ מִמִּדְיָ֔ן וַיָּבֹ֖אוּ פָּארָ֑ן וַיִּקְחוּ֩ אֲנָשִׁ֨ים עִמָּ֜ם מִפָּארָ֗ן וַיָּבֹ֤אוּ מִצְרַ֙יִם֙ אֶל־ פַּרְעֹ֣ה מֶֽלֶךְ־ מִצְרַ֔יִם וַיִּתֶּן־ ל֣וֹ בַ֗יִת וְלֶ֙חֶם֙ אָ֣מַר ל֔וֹ וְאֶ֖רֶץ נָ֥תַן לֽוֹ׃"
+pericope: "[[1Kgs.11.14 Hadad’s Return|Hadad’s Return]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 11
+book/chapter: "[[1Kgs.11|1 Kings 11]]"
+chronological_order: 536
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HADAD|HADAD]]"
+- "[[topic PARAN|PARAN]]"
+- "[[topic PHARAOH|PHARAOH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H9006]]"
+- "[[H4080H]]"
+- "[[H0935G]]"
+- "[[H6290G]]"
+- "[[H3947G]]"
+- "[[H0582]]"
+- "[[H5973A]]"
+- "[[H9038]]"
+- "[[H4714G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6547K]]"
+- "[[H4428G]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H1004B]]"
+- "[[H9002]]"
+- "[[H3899G]]"
+- "[[H0559]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 11:18**<big><big>[[1Kgs.11.14 Hadad’s Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they arose out of Midian, and came to Paran: and they took men with them out of Paran, and they came to Egypt, unto Pharaoh king of Egypt; which gave him an house, and appointed him victuals, and gave him land.
 <small><sub>**BSB:**</sub></small>
 Hadad and his men set out from Midian and went to Paran. They took men from Paran with them and went to Egypt, to Pharaoh king of Egypt, who gave Hadad a house and land and provided him with food.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּקֻ֙מוּ֙]] [[H9006\|מִ]][[H4080H\|מִּדְיָ֔ן]] [[H9001\|וַ]][[H0935G\|יָּבֹ֖אוּ]] [[H6290G\|פָּארָ֑ן]] [[H9001\|וַ]][[H3947G\|יִּקְחוּ֩]] [[H0582\|אֲנָשִׁ֨ים]] [[H5973A\|עִמָּ֜]][[H9038\|ם]] [[H9006\|מִ]][[H6290G\|פָּארָ֗ן]] [[H9001\|וַ]][[H0935G\|יָּבֹ֤אוּ]] [[H4714G\|מִצְרַ֙יִם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H6547K\|פַּרְעֹ֣ה]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H4714G\|מִצְרַ֔יִם]] [[H9001\|וַ]][[H5414G\|יִּתֶּן]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H1004B\|בַ֗יִת]] [[H9002\|וְ]][[H3899G\|לֶ֙חֶם֙]] [[H0559\|אָ֣מַר]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9002\|וְ]][[H0776G\|אֶ֖רֶץ]] [[H5414G\|נָ֥תַן]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CITIZENS|CITIZENS]] • [[topic GOD|GOD]] • [[topic HADAD|HADAD]] • [[topic PARAN|PARAN]] • [[topic PHARAOH|PHARAOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.17|<< 1 Kings 11:17]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.19|1 Kings 11:19 >>]]</td></tr></table>
 

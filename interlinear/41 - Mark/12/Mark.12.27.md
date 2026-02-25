@@ -1,10 +1,58 @@
+---
+title: Mark 12:27
+type: Verse
+kjv: "He is not the God of the dead, but the God of the living: ye therefore do greatly err."
+bsb: "He is not the God of the dead, but of the living. You are badly mistaken!”"
+jesus_said: "He is not the God of the dead, but the God of the living: ye therefore do greatly err."
+greek: "οὐκ ἔστιν ὁ θεὸς νεκρῶν ἀλλὰ θεὸς ζώντων· ὑμεῖς οὖν πολὺ πλανᾶσθε.¶"
+pericope: "[[Mark.12.18 The Sadducees and the Resurrection|The Sadducees and the Resurrection]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 12
+book/chapter: "[[Mark.12|Mark 12]]"
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+- "[[topic SATIRE|SATIRE]]"
+strongs:
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3498]]"
+- "[[G0235]]"
+- "[[G2198]]"
+- "[[G4771]]"
+- "[[G3767]]"
+- "[[G4183]]"
+- "[[G4105]]"
+texts:
+- NKO
+- k
+- KO
+---
+
 **Mark 12:27**<big><big>[[Mark.12.18 The Sadducees and the Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He is not the God of the dead, but the God of the living: ye therefore do greatly err.
 <small><sub>**BSB:**</sub></small>
 He is not the God of the dead, but of the living. You are badly mistaken!”
-<small><sub>**Literal:**</sub></small>
-Not He is the God of [the] dead but God of [the] living; you yourselves therefore Greatly you err.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.26|<< Mark 12:26]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.28|Mark 12:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3498\|νεκρῶν]]  [[G0235\|ἀλλὰ]]  [[G2316\|θεὸς]]  [[G2198\|ζώντων·]]  [[G4771\|ὑμεῖς]]  [[G3767\|οὖν]]  [[G4183\|πολὺ]]  [[G4105\|πλανᾶσθε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SADDUCEES|SADDUCEES]] • [[topic SATIRE|SATIRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.26|<< Mark 12:26]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.28|Mark 12:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

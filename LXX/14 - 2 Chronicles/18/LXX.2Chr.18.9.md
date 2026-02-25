@@ -1,6 +1,66 @@
+---
+title: LXX 2 Chronicles 18:9
+type: Verse
+lxx: "And the king of Israel and Jehoshaphat king of Judah were sitting each upon his throne, being clothed with robes; they sat down in the broad space at the door of Samaria, and all the prophets were prophesying before them."
+greek: "και ο βασιλεύς Ισραήλ και Ιωσαφάτ βασιλεύς Ιούδα καθήμενοι έκαστος επί θρόνου αυτού ενδεδυμένοι στολάς εκάθηντο εν τω ευρυχώρω της θύρας Σαμαρείας και πάντες οι προφήται προεφήτευον εναντίον αυτών"
+original_language: Greek
+testament: Old
+book: 2 Chronicles
+chapter: 18
+book/chapter: "[[2Chr.18|2 Chronicles 18]]"
+chronological_order: 570
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- septuagint
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic GATES|GATES]]"
+- "[[topic MICAIAH|MICAIAH]]"
+- "[[topic PREACHING|PREACHING]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2474]]"
+- "[[G2532]]"
+- "[[G2498]]"
+- "[[G0935]]"
+- "[[G2448]]"
+- "[[G2521]]"
+- "[[G1538]]"
+- "[[G1909]]"
+- "[[G2362]]"
+- "[[G1473]]"
+- "[[G1746]]"
+- "[[G4749]]"
+- "[[G2521]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2149]]"
+- "[[G3588]]"
+- "[[G2374]]"
+- "[[G4541]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4396]]"
+- "[[G4395]]"
+- "[[G1726]]"
+- "[[G1473]]"
+---
+
 **LXX 2 Chronicles 18:9** 
 <small><sub>**LXX:**</sub></small>
 And the king of Israel and Jehoshaphat king of Judah \[were\] sitting each upon his throne, being clothed with robes; they sat down in the broad space at the door of Samaria, and all the prophets were prophesying before them. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3588\|ο]] [[G0935\|βασιλεύς]] [[G2474\|Ισραήλ]] [[G2532\|και]] [[G2498\|Ιωσαφάτ]] [[G0935\|βασιλεύς]] [[G2448\|Ιούδα]] [[G2521\|καθήμενοι]] [[G1538\|έκαστος]] [[G1909\|επί]] [[G2362\|θρόνου]] [[G1473\|αυτού]] [[G1746\|ενδεδυμένοι]] [[G4749\|στολάς]] [[G2521\|εκάθηντο]] [[G1722\|εν]] [[G3588\|τω]] [[G2149\|ευρυχώρω]] [[G3588\|της]] [[G2374\|θύρας]] [[G4541\|Σαμαρείας]] [[G2532\|και]] [[G3956\|πάντες]] [[G3588\|οι]] [[G4396\|προφήται]] [[G4395\|προεφήτευον]] [[G1726\|εναντίον]] [[G1473\|αυτών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GATES|GATES]] • [[topic MICAIAH|MICAIAH]] • [[topic PREACHING|PREACHING]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Chr.18.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.8|<< 2 Chronicles 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.10|2 Chronicles 18:10 >>]]</td></tr></table>
 
@@ -34,6 +94,6 @@ And the king of Israel and Jehoshaphat king of Judah \[were\] sitting each upon 
 | were prophesying | **<big>[[G4395\|προεφήτευον]]</big>** |
 | before | **<big>[[G1726\|εναντίον]]</big>** |
 | them. | **<big>[[G1473\|αυτών]]</big>** |
-[[2Chr.18.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.8|<< 2 Chronicles 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.10|2 Chronicles 18:10 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.8|<< 2 Chronicles 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.10|2 Chronicles 18:10 >>]]</td></tr></table>
 
 

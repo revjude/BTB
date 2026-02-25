@@ -1,8 +1,75 @@
+---
+title: Leviticus 6:15
+type: Verse
+kjv: "And he shall take of it his handful, of the flour of the meat offering, and of the oil thereof, and all the frankincense which is upon the meat offering, and shall burn it upon the altar for a sweet savour, even the memorial of it, unto the LORD."
+bsb: "The priest is to remove a handful of fine flour and olive oil, together with all the frankincense from the grain offering, and burn the memorial portion on the altar as a pleasing aroma to the LORD."
+hebrew: "וְהֵרִ֨ים מִמֶּ֜נּוּ בְּקֻמְצ֗וֹ מִסֹּ֤לֶת הַמִּנְחָה֙ וּמִשַּׁמְנָ֔הּ וְאֵת֙ כָּל־ הַלְּבֹנָ֔ה אֲשֶׁ֖ר עַל־ הַמִּנְחָ֑ה וְהִקְטִ֣יר הַמִּזְבֵּ֗חַ רֵ֧יחַ נִיחֹ֛חַ אַזְכָּרָתָ֖הּ לַיהוָֽה׃"
+pericope: "[[Lev.6.14 The Grain Offering|The Grain Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 6
+book/chapter: "[[Lev.6|Leviticus 6]]"
+chronological_order: 138
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic FRANKINCENSE|FRANKINCENSE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H7311A]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H7062]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H5560]]"
+- "[[H9009]]"
+- "[[H4503G]]"
+- "[[H9002]]"
+- "[[H8081]]"
+- "[[H9024]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3828]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H6999A]]"
+- "[[H4196]]"
+- "[[H7381]]"
+- "[[H5207]]"
+- "[[H0234]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 6:15**<big><big>[[Lev.6.14 The Grain Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall take of it his handful, of the flour of the meat offering, and of the oil thereof, and all the frankincense which [is] upon the meat offering, and shall burn [it] upon the altar [for] a sweet savour, [even] the memorial of it, unto the LORD.
 <small><sub>**BSB:**</sub></small>
 The priest is to remove a handful of fine flour and olive oil, together with all the frankincense from the grain offering, and burn the memorial portion on the altar as a pleasing aroma to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7311A\|הֵרִ֨ים]] [[H4480A\|מִמֶּ֜]][[H9033\|נּוּ]] [[H9003\|בְּ]][[H7062\|קֻמְצ֗]][[H9023\|וֹ]] [[H9006\|מִ]][[H5560\|סֹּ֤לֶת]] [[H9009\|הַ]][[H4503G\|מִּנְחָה֙]] [[H9002\|וּ]][[H9006\|מִ]][[H8081\|שַּׁמְנָ֔]][[H9024\|הּ]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3828\|לְּבֹנָ֔ה]] [[H0834A\|אֲשֶׁ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4503G\|מִּנְחָ֑ה]] [[H9001\|וְ]][[H6999A\|הִקְטִ֣יר]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֗חַ]] [[H7381\|רֵ֧יחַ]] [[H5207\|נִיחֹ֛חַ]] [[H0234\|אַזְכָּרָתָ֖]][[H9024\|הּ]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRANKINCENSE|FRANKINCENSE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.14|<< Leviticus 6:14]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.16|Leviticus 6:16 >>]]</td></tr></table>
 

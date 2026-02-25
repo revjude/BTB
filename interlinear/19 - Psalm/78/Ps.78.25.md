@@ -1,8 +1,56 @@
+---
+title: Psalm 78:25
+type: Verse
+kjv: "Man did eat angels’ food: he sent them meat to the full."
+bsb: "Man ate the bread of angels; He sent them food in abundance."
+hebrew: "לֶ֣חֶם אַ֭בִּירִים אָ֣כַל אִ֑ישׁ צֵידָ֬ה שָׁלַ֖ח לָהֶ֣ם לָשֹֽׂבַע׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3899H]]"
+- "[[H0047J]]"
+- "[[H0398]]"
+- "[[H0376I]]"
+- "[[H6720]]"
+- "[[H7971G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H7648]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:25**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Man did eat angels’ food: he sent them meat to the full.
 <small><sub>**BSB:**</sub></small>
 Man ate the bread of angels; He sent them food in abundance.
+<small><sub>**Hebrew:**</sub></small>
+[[H3899H\|לֶ֣חֶם]] [[H0047J\|אַ֭בִּירִים]] [[H0398\|אָ֣כַל]] [[H0376I\|אִ֑ישׁ]] [[H6720\|צֵידָ֬ה]] [[H7971G\|שָׁלַ֖ח]] [[H9005\|לָ]][[H9038\|הֶ֣ם]] [[H9005\|לָ]][[H7648\|שֹֽׂבַע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic MIRACLES|MIRACLES]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.24|<< Psalms 78:24]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.26|Psalms 78:26 >>]]</td></tr></table>
 

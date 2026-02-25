@@ -1,10 +1,63 @@
+---
+title: 1 Peter 2:2
+type: Verse
+kjv: "As newborn babes, desire the sincere milk of the word, that ye may grow thereby:"
+bsb: "Like newborn babies, crave pure spiritual milk, so that by it you may grow up in your salvation,"
+greek: "ὡς ἀρτιγέννητα βρέφη τὸ λογικὸν ἄδολον γάλα ἐπιποθήσατε ἵνα ἐν αὐτῷ αὐξηθῆτε εἰς σωτηρίαν,"
+pericope: "[[1Pet.2.1 The Living Stone and Chosen People|The Living Stone and Chosen People]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 2
+book/chapter: "[[1Pet.2|1 Peter 2]]"
+chronological_order: 1136
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic BABES|BABES]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic HUNGER|HUNGER]]"
+- "[[topic MILK|MILK]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SINCERITY|SINCERITY]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5613]]"
+- "[[G0738]]"
+- "[[G1025]]"
+- "[[G3588]]"
+- "[[G3050]]"
+- "[[G0097]]"
+- "[[G1051]]"
+- "[[G1971]]"
+- "[[G2443]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G0837]]"
+- "[[G1519]]"
+- "[[G4991]]"
+texts:
+- NKO
+- NO
+---
+
 **1 Peter 2:2**<big><big>[[1Pet.2.1 The Living Stone and Chosen People|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As newborn babes, desire the sincere milk of the word, that ye may grow thereby:
 <small><sub>**BSB:**</sub></small>
 Like newborn babies, crave pure spiritual milk, so that by it you may grow up in your salvation,
-<small><sub>**Literal:**</sub></small>
-like newborn babies <the> reasonable pure milk do crave so that by it you may grow up in respect to salvation,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.1|<< 1 Peter 2:1]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.3|1 Peter 2:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G0738\|ἀρτιγέννητα]]  [[G1025\|βρέφη]]  [[G3588\|τὸ]]  [[G3050\|λογικὸν]]  [[G0097\|ἄδολον]]  [[G1051\|γάλα]]  [[G1971\|ἐπιποθήσατε]]  [[G2443\|ἵνα]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ]]  [[G0837\|αὐξηθῆτε]]  [[G1519\|εἰς]]  [[G4991\|σωτηρίαν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABES|BABES]] • [[topic CHILDREN|CHILDREN]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic HUNGER|HUNGER]] • [[topic MILK|MILK]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SINCERITY|SINCERITY]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.1|<< 1 Peter 2:1]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.3|1 Peter 2:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

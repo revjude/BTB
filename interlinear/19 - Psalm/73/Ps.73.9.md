@@ -1,8 +1,60 @@
+---
+title: Psalm 73:9
+type: Verse
+kjv: "They set their mouth against the heavens, and their tongue walketh through the earth."
+bsb: "They set their mouths against the heavens, and their tongues strut across the earth."
+hebrew: "שַׁתּ֣וּ בַשָּׁמַ֣יִם פִּיהֶ֑ם וּ֝לְשׁוֹנָ֗ם תִּֽהֲלַ֥ךְ בָּאָֽרֶץ׃"
+pericope: "[[Ps.73.1 Surely God Is Good to Israel|Surely God Is Good to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 73
+book/chapter: "[[Ps.73|Psalm 73]]"
+chronological_order: 506
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H8371]]"
+- "[[H9003]]"
+- "[[H8064]]"
+- "[[H6310G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H3956G]]"
+- "[[H1980I]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 73:9**<big><big>[[Ps.73.1 Surely God Is Good to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They set their mouth against the heavens, and their tongue walketh through the earth.
 <small><sub>**BSB:**</sub></small>
 They set their mouths against the heavens, and their tongues strut across the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H8371\|שַׁתּ֣וּ]] [[H9003\|בַ]][[H8064\|שָּׁמַ֣יִם]] [[H6310G\|פִּי]][[H9028\|הֶ֑ם]] [[H9002\|וּ֝]][[H3956G\|לְשׁוֹנָ֗]][[H9028\|ם]] [[H1980I\|תִּֽהֲלַ֥ךְ]] [[H9003\|בָּ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic BLINDNESS|BLINDNESS]] • [[topic INTEGRITY|INTEGRITY]] • [[topic PRIDE|PRIDE]] • [[topic RICH, THE|RICH, THE]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.73.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.8|<< Psalms 73:8]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.10|Psalms 73:10 >>]]</td></tr></table>
 

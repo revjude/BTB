@@ -1,6 +1,57 @@
+---
+title: LXX Psalm 37:14
+type: Verse
+lxx: "The sinners unsheathed the broadsword; they stretched tight their bow  to throw down the poor and needy,  to slay the straight  in heart."
+greek: "ρομφαίαν εσπάσαντο οι αμαρτωλοί ενέτειναν τόξον αυτών του καταβαλείν πτωχόν και πένητα του σφάξαι τους ευθείς τη καρδία"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 37
+book/chapter: "[[Ps.37|Psalm 37]]"
+chronological_order: 365
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic POOR|POOR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G4501]]"
+- "[[G4685]]"
+- "[[G3588]]"
+- "[[G0268]]"
+- "[[G7265]]"
+- "[[G5115]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G2598]]"
+- "[[G4434]]"
+- "[[G2532]]"
+- "[[G3993]]"
+- "[[G3588]]"
+- "[[G4969]]"
+- "[[G3588]]"
+- "[[G2117]]"
+- "[[G3588]]"
+- "[[G2588]]"
+---
+
 **LXX Psalm 37:14** 
 <small><sub>**LXX:**</sub></small>
 The sinners unsheathed \[the\] broadsword; they stretched tight their bow  to throw down \[the\] poor and needy,  to slay the straight  in heart. 
+<small><sub>**Greek:**</sub></small>
+[[G4501\|ρομφαίαν]] [[G4685\|εσπάσαντο]] [[G3588\|οι]] [[G0268\|αμαρτωλοί]] [[G7265\|ενέτειναν]] [[G5115\|τόξον]] [[G1473\|αυτών]] [[G3588\|του]] [[G2598\|καταβαλείν]] [[G4434\|πτωχόν]] [[G2532\|και]] [[G3993\|πένητα]] [[G3588\|του]] [[G4969\|σφάξαι]] [[G3588\|τους]] [[G2117\|ευθείς]] [[G3588\|τη]] [[G2588\|καρδία]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic POOR|POOR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.37.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.13|<< Psalm 37:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.15|Psalm 37:15 >>]]</td></tr></table>
 
@@ -23,6 +74,6 @@ The sinners unsheathed \[the\] broadsword; they stretched tight their bow  to th
 | straight | **<big>[[G2117\|ευθείς]]</big>** |
 | \<obj.> | **<big>[[G3588\|τη]]</big>** |
 | in heart. | **<big>[[G2588\|καρδία]]</big>** |
-[[Ps.37.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.13|<< Psalm 37:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.15|Psalm 37:15 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.13|<< Psalm 37:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.15|Psalm 37:15 >>]]</td></tr></table>
 
 

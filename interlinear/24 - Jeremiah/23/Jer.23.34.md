@@ -1,8 +1,61 @@
+---
+title: Jeremiah 23:34
+type: Verse
+kjv: "And as for the prophet, and the priest, and the people, that shall say, The burden of the LORD, I will even punish that man and his house."
+bsb: "As for the prophet or priest or anyone who claims, ‘This is the burden of the LORD,’ I will punish that man and his household."
+hebrew: "וְהַנָּבִ֤יא וְהַכֹּהֵן֙ וְהָעָ֔ם אֲשֶׁ֥ר יֹאמַ֖ר מַשָּׂ֣א יְהוָ֑ה וּפָקַדְתִּ֛י עַל־ הָאִ֥ישׁ הַה֖וּא וְעַל־ בֵּיתֽוֹ׃"
+pericope: "[[Jer.23.33 False Prophecies|False Prophecies]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 23
+book/chapter: "[[Jer.23|Jeremiah 23]]"
+chronological_order: 746
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H3548]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H0559]]"
+- "[[H4853B]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H6485H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H1931]]"
+- "[[H1004M]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 23:34**<big><big>[[Jer.23.33 False Prophecies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [as for] the prophet, and the priest, and the people, that shall say, The burden of the LORD, I will even punish that man and his house.
 <small><sub>**BSB:**</sub></small>
 As for the prophet or priest or anyone who claims, ‘This is the burden of the LORD,’ I will punish that man and his household.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H5030\|נָּבִ֤יא]] [[H9002\|וְ]][[H9009\|הַ]][[H3548\|כֹּהֵן֙]] [[H9002\|וְ]][[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H0559\|יֹאמַ֖ר]] [[H4853B\|מַשָּׂ֣א]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וּ]][[H6485H\|פָקַדְתִּ֛י]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֥ישׁ]] [[H9009\|הַ]][[H1931\|ה֖וּא]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H1004M\|בֵּיתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRESUMPTION|PRESUMPTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.33|<< Jeremiah 23:33]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.35|Jeremiah 23:35 >>]]</td></tr></table>
 

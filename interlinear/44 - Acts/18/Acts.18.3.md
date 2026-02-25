@@ -1,10 +1,60 @@
+---
+title: Acts 18:3
+type: Verse
+kjv: "And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers."
+bsb: "and he stayed and worked with them because they were tentmakers by trade, just as he was."
+greek: "καὶ διὰ τὸ ὁμότεχνον εἶναι ἔμενεν παρ᾽ αὐτοῖς καὶ ἠργάζετο· ἦσαν γὰρ σκηνοποιοὶ τῇ τέχνῃ·"
+pericope: "[[Acts.18.1 Paul Ministers in Corinth|Paul Ministers in Corinth]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 18
+book/chapter: "[[Acts.18|Acts 18]]"
+chronological_order: 1047
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic AQUILA AND PRISCILLA|AQUILA AND PRISCILLA]]"
+- "[[topic ART|ART]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRISCILLA|PRISCILLA]]"
+- "[[topic TENT|TENT]]"
+strongs:
+- "[[G2532]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G3673]]"
+- "[[G1511]]"
+- "[[G3306]]"
+- "[[G3844]]"
+- "[[G0846]]"
+- "[[G2038]]"
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G4635]]"
+- "[[G5078]]"
+texts:
+- NKO
+- NK(O)
+- N(k)O
+---
+
 **Acts 18:3**<big><big>[[Acts.18.1 Paul Ministers in Corinth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.
 <small><sub>**BSB:**</sub></small>
 and he stayed and worked with them because they were tentmakers by trade, just as he was.
-<small><sub>**Literal:**</sub></small>
-and due to of the same trade being he was staying with them and he was working; they were for tentmakers <the> by trade;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.2|<< Acts 18:2]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.4|Acts 18:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1223\|διὰ]]  [[G3588\|τὸ]]  [[G3673\|ὁμότεχνον]]  [[G1511\|εἶναι]]  [[G3306\|ἔμενεν]]  [[G3844\|παρ᾽]]  [[G0846\|αὐτοῖς]]  [[G2532\|καὶ]]  [[G2038\|ἠργάζετο·]]  [[G1510\|ἦσαν]]  [[G1063\|γὰρ]]  [[G4635\|σκηνοποιοὶ]]  [[G3588\|τῇ]]  [[G5078\|τέχνῃ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AQUILA AND PRISCILLA|AQUILA AND PRISCILLA]] • [[topic ART|ART]] • [[topic INDUSTRY|INDUSTRY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PRISCILLA|PRISCILLA]] • [[topic TENT|TENT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.2|<< Acts 18:2]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.4|Acts 18:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

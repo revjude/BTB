@@ -1,8 +1,66 @@
+---
+title: Isaiah 30:2
+type: Verse
+kjv: "That walk to go down into Egypt, and have not asked at my mouth; to strengthen themselves in the strength of Pharaoh, and to trust in the shadow of Egypt!"
+bsb: "They set out to go down to Egypt without asking My advice, to seek shelter under Pharaoh’s protection and take refuge in Egypt’s shade."
+hebrew: "הַהֹלְכִים֙ לָרֶ֣דֶת מִצְרַ֔יִם וּפִ֖י לֹ֣א שָׁאָ֑לוּ לָעוֹז֙ בְּמָע֣וֹז פַּרְעֹ֔ה וְלַחְס֖וֹת בְּצֵ֥ל מִצְרָֽיִם׃"
+pericope: "[[Isa.30.1 The Worthless Treaty with Egypt|The Worthless Treaty with Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 30
+book/chapter: "[[Isa.30|Isaiah 30]]"
+chronological_order: 673
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H9009]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H3381]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H6310I]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H7592]]"
+- "[[H5756]]"
+- "[[H9003]]"
+- "[[H4581]]"
+- "[[H6547L]]"
+- "[[H2620]]"
+- "[[H6738]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 30:2**<big><big>[[Isa.30.1 The Worthless Treaty with Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That walk to go down into Egypt, and have not asked at my mouth; to strengthen themselves in the strength of Pharaoh, and to trust in the shadow of Egypt!
 <small><sub>**BSB:**</sub></small>
 They set out to go down to Egypt without asking My advice, to seek shelter under Pharaoh’s protection and take refuge in Egypt’s shade.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H1980G\|הֹלְכִים֙]] [[H9005\|לָ]][[H3381\|רֶ֣דֶת]] [[H4714G\|מִצְרַ֔יִם]] [[H9002\|וּ]][[H6310I\|פִ֖]][[H9020\|י]] [[H3808\|לֹ֣א]] [[H7592\|שָׁאָ֑לוּ]] [[H9005\|לָ]][[H5756\|עוֹז֙]] [[H9003\|בְּ]][[H4581\|מָע֣וֹז]] [[H6547L\|פַּרְעֹ֔ה]] [[H9002\|וְ]][[H9005\|לַ]][[H2620\|חְס֖וֹת]] [[H9003\|בְּ]][[H6738\|צֵ֥ל]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic GOD|GOD]] • [[topic GODLESSNESS|GODLESSNESS]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEALOUSY|JEALOUSY]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.1|<< Isaiah 30:1]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.3|Isaiah 30:3 >>]]</td></tr></table>
 

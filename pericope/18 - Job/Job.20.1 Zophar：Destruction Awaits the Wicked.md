@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Zophar：Destruction Awaits the Wicked
+type: Pericope
 pericope: "[[Job.20.1 Zophar：Destruction Awaits the Wicked|Zophar：Destruction Awaits the Wicked]]"
-verse_count: 29
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 20
 book/chapter: "[[Job.20|Job 20]]"
-genre:
+chronological_order: 31
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 29
 verses:
 - "[[Job.20.1]]"
 - "[[Job.20.2]]"
@@ -48,7 +55,7 @@ verses:
 - "[[Job.20.29]]"
 ---
 
-[[Job.20|Job 20:1 - Job 20:29]]
+<small>[[Job.20|Job 20:1-29]]</small>
 *Zophar：Destruction Awaits the Wicked*
 
 [[Job.20.1|1]] Then answered Zophar the Naamathite, and said,

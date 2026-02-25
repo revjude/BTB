@@ -1,8 +1,51 @@
+---
+title: Jeremiah 50:10
+type: Verse
+kjv: "And Chaldea shall be a spoil: all that spoil her shall be satisfied, saith the LORD."
+bsb: "Chaldea will be plundered; all who plunder her will have their fill,” declares the LORD."
+hebrew: "וְהָיְתָ֥ה כַשְׂדִּ֖ים לְשָׁלָ֑ל כָּל־ שֹׁלְלֶ֥יהָ יִשְׂבָּ֖עוּ נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.50.4 Hope for Israel and Judah|Hope for Israel and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3778]]"
+- "[[H9005]]"
+- "[[H7998]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7997B]]"
+- "[[H9034]]"
+- "[[H7646]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 50:10**<big><big>[[Jer.50.4 Hope for Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Chaldea shall be a spoil: all that spoil her shall be satisfied, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 Chaldea will be plundered; all who plunder her will have their fill,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיְתָ֥ה]] [[H3778\|כַשְׂדִּ֖ים]] [[H9005\|לְ]][[H7998\|שָׁלָ֑ל]] [[H3605\|כָּל]][[H9014\|־]] [[H7997B\|שֹׁלְלֶ֥י]][[H9034\|הָ]] [[H7646\|יִשְׂבָּ֖עוּ]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.9|<< Jeremiah 50:9]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.11|Jeremiah 50:11 >>]]</td></tr></table>
 

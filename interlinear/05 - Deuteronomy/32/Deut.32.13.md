@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 32:13
+type: Verse
+kjv: "He made him ride on the high places of the earth, that he might eat the increase of the fields; and he made him to suck honey out of the rock, and oil out of the flinty rock;"
+bsb: "He made him ride on the heights of the land and fed him the produce of the field. He nourished him with honey from the rock and oil from the flinty crag,"
+hebrew: "יַרְכִּבֵ֙הוּ֙ עַל־ בָּ֣מֳתֵי אָ֔רֶץ וַיֹּאכַ֖ל תְּנוּבֹ֣ת שָׂדָ֑י וַיֵּנִקֵ֤הֽוּ דְבַשׁ֙ מִסֶּ֔לַע וְשֶׁ֖מֶן מֵחַלְמִ֥ישׁ צֽוּר׃"
+pericope: "[[Deut.32.1 The Song of Moses|The Song of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 32
+book/chapter: "[[Deut.32|Deuteronomy 32]]"
+chronological_order: 228
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic FLINT|FLINT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HONEY|HONEY]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic ROCK|ROCK]]"
+strongs:
+- "[[H7392]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1116]]"
+- "[[H0776G]]"
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H8570]]"
+- "[[H7704M]]"
+- "[[H3243]]"
+- "[[H1706]]"
+- "[[H9006]]"
+- "[[H5553H]]"
+- "[[H9002]]"
+- "[[H8081]]"
+- "[[H2496]]"
+- "[[H6697H]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Deuteronomy 32:13**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He made him ride on the high places of the earth, that he might eat the increase of the fields; and he made him to suck honey out of the rock, and oil out of the flinty rock;
 <small><sub>**BSB:**</sub></small>
 He made him ride on the heights of the land and fed him the produce of the field. He nourished him with honey from the rock and oil from the flinty crag,
+<small><sub>**Hebrew:**</sub></small>
+[[H7392\|יַרְכִּבֵ֙]][[H9033\|הוּ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H1116\|בָּ֣מֳתֵי]] [[H0776G\|אָ֔רֶץ]] [[H9001\|וַ]][[H0398\|יֹּאכַ֖ל]] [[H8570\|תְּנוּבֹ֣ת]] [[H7704M\|שָׂדָ֑י]] [[H9001\|וַ]][[H3243\|יֵּנִקֵ֤]][[H9033\|הֽוּ]] [[H1706\|דְבַשׁ֙]] [[H9006\|מִ]][[H5553H\|סֶּ֔לַע]] [[H9002\|וְ]][[H8081\|שֶׁ֖מֶן]] [[H9006\|מֵ]][[H2496\|חַלְמִ֥ישׁ]] [[H6697H\|צֽוּר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic DEATH|DEATH]] • [[topic FLINT|FLINT]] • [[topic GOD|GOD]] • [[topic HONEY|HONEY]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic PSALMS|PSALMS]] • [[topic ROCK|ROCK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.12|<< Deuteronomy 32:12]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.14|Deuteronomy 32:14 >>]]</td></tr></table>
 

@@ -1,26 +1,33 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Good Salt
+type: Pericope
 pericope: "[[Mark.9.49 Good Salt|Good Salt]]"
-verse_count: 2
+original_language: Greek
 testament: New
 book: Mark
 chapter: 9
 book/chapter: "[[Mark.9|Mark 9]]"
-genre:
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 2
 verses:
 - "[[Mark.9.49]]"
 - "[[Mark.9.50]]"
 ---
 
-[[Mark.9|Mark 9:49 - Mark 9:50]]
+<small>[[Mark.9|Mark 9:49-50]]</small>
 *Good Salt*
 
 [[Mark.9.49|49]] For every one shall be salted with fire, and every sacrifice shall be salted with salt.

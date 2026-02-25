@@ -1,8 +1,69 @@
+---
+title: Genesis 50:4
+type: Verse
+kjv: "And when the days of his mourning were past, Joseph spake unto the house of Pharaoh, saying, If now I have found grace in your eyes, speak, I pray you, in the ears of Pharaoh, saying,"
+bsb: "When the days of mourning had passed, Joseph said to Pharaoh’s court, “If I have found favor in your eyes, please tell Pharaoh that"
+hebrew: "וַיַּֽעַבְרוּ֙ יְמֵ֣י בְכִית֔וֹ וַיְדַבֵּ֣ר יוֹסֵ֔ף אֶל־ בֵּ֥ית פַּרְעֹ֖ה לֵאמֹ֑ר אִם־ נָ֨א מָצָ֤אתִי חֵן֙ בְּעֵ֣ינֵיכֶ֔ם דַּבְּרוּ־ נָ֕א בְּאָזְנֵ֥י פַרְעֹ֖ה לֵאמֹֽר׃"
+pericope: "[[Gen.50.1 Mourning and Burial for Jacob|Mourning and Burial for Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 50
+book/chapter: "[[Gen.50|Genesis 50]]"
+chronological_order: 92
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BEREAVEMENT|BEREAVEMENT]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H3117G]]"
+- "[[H1068]]"
+- "[[H9023]]"
+- "[[H1696G]]"
+- "[[H3130G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H6547H]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0518A]]"
+- "[[H4994]]"
+- "[[H4672]]"
+- "[[H2580]]"
+- "[[H9003]]"
+- "[[H5869A]]"
+- "[[H9026]]"
+- "[[H0241I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 50:4**<big><big>[[Gen.50.1 Mourning and Burial for Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the days of his mourning were past, Joseph spake unto the house of Pharaoh, saying, If now I have found grace in your eyes, speak, I pray you, in the ears of Pharaoh, saying,
 <small><sub>**BSB:**</sub></small>
 When the days of mourning had passed, Joseph said to Pharaoh’s court, “If I have found favor in your eyes, please tell Pharaoh that
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5674A\|יַּֽעַבְרוּ֙]] [[H3117G\|יְמֵ֣י]] [[H1068\|בְכִית֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H1696G\|יְדַבֵּ֣ר]] [[H3130G\|יוֹסֵ֔ף]] [[H0413\|אֶל]][[H9014\|־]] [[H1004M\|בֵּ֥ית]] [[H6547H\|פַּרְעֹ֖ה]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H0518A\|אִם]][[H9014\|־]] [[H4994\|נָ֨א]] [[H4672\|מָצָ֤אתִי]] [[H2580\|חֵן֙]] [[H9003\|בְּ]][[H5869A\|עֵ֣ינֵי]][[H9026\|כֶ֔ם]] [[H1696G\|דַּבְּרוּ]][[H9014\|־]] [[H4994\|נָ֕א]] [[H9003\|בְּ]][[H0241I\|אָזְנֵ֥י]] [[H6547H\|פַרְעֹ֖ה]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEREAVEMENT|BEREAVEMENT]] • [[topic CHILDREN|CHILDREN]] • [[topic JACOB|JACOB]] • [[topic JOSEPH|JOSEPH]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.50.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.3|<< Genesis 50:3]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.5|Genesis 50:5 >>]]</td></tr></table>
 

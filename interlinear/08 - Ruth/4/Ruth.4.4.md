@@ -1,8 +1,79 @@
+---
+title: Ruth 4:4
+type: Verse
+kjv: "And I thought to advertise thee, saying, Buy it before the inhabitants, and before the elders of my people. If thou wilt redeem it, redeem it: but if thou wilt not redeem it, then tell me, that I may know: for there is none to redeem it beside thee; and I am after thee. And he said, I will redeem it."
+bsb: "I thought I should inform you that you may buy it back in the presence of those seated here and in the presence of the elders of my people. If you want to redeem it, do so. But if you will not redeem it, tell me so I may know, because there is no one but you to redeem it, and I am next after you.” “I will redeem it,” he replied."
+hebrew: "וַאֲנִ֨י אָמַ֜רְתִּי אֶגְלֶ֧ה אָזְנְךָ֣ לֵאמֹ֗ר קְ֠נֵה נֶ֥גֶד הַֽיֹּשְׁבִים֮ וְנֶ֣גֶד זִקְנֵ֣י עַמִּי֒ אִם־ תִּגְאַל֙ גְּאָ֔ל וְאִם־ לֹ֨א יִגְאַ֜ל הַגִּ֣ידָה לִּ֗י וְאֵֽדְעָה֙ כִּ֣י אֵ֤ין זוּלָֽתְךָ֙ לִגְא֔וֹל וְאָנֹכִ֖י אַחֲרֶ֑יךָ וַיֹּ֖אמֶר אָנֹכִ֥י אֶגְאָֽל׃"
+pericope: "[[Ruth.4.1 Boaz Redeems Ruth|Boaz Redeems Ruth]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 4
+book/chapter: "[[Ruth.4|Ruth 4]]"
+chronological_order: 279
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic DOWRY|DOWRY]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEIR|HEIR]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic WITNESS|WITNESS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H0559]]"
+- "[[H1540H]]"
+- "[[H0241I]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H7069]]"
+- "[[H5048]]"
+- "[[H9009]]"
+- "[[H3427]]"
+- "[[H2205G]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H1350A]]"
+- "[[H3808]]"
+- "[[H5046]]"
+- "[[H9012]]"
+- "[[H9030]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H2108]]"
+- "[[H9031]]"
+- "[[H0595]]"
+- "[[H0310A]]"
+- "[[H9001]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ruth 4:4**<big><big>[[Ruth.4.1 Boaz Redeems Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I thought to advertise thee, saying, Buy [it] before the inhabitants, and before the elders of my people. If thou wilt redeem [it], redeem [it]: but if thou wilt not redeem [it, then] tell me, that I may know: for [there is] none to redeem [it] beside thee; and I [am] after thee. And he said, I will redeem [it].
 <small><sub>**BSB:**</sub></small>
 I thought I should inform you that you may buy it back in the presence of those seated here and in the presence of the elders of my people. If you want to redeem it, do so. But if you will not redeem it, tell me so I may know, because there is no one but you to redeem it, and I am next after you.” “I will redeem it,” he replied.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0589\|אֲנִ֨י]] [[H0559\|אָמַ֜רְתִּי]] [[H1540H\|אֶגְלֶ֧ה]] [[H0241I\|אָזְנְ]][[H9021\|ךָ֣]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H7069\|קְ֠נֵה]] [[H5048\|נֶ֥גֶד]] [[H9009\|הַֽ]][[H3427\|יֹּשְׁבִים֮]] [[H9002\|וְ]][[H5048\|נֶ֣גֶד]] [[H2205G\|זִקְנֵ֣י]] [[H5971A\|עַמִּ]][[H9020\|י֒]] [[H0518A\|אִם]][[H9014\|־]] [[H1350A\|תִּגְאַל֙]] [[H1350A\|גְּאָ֔ל]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֨א]] [[H1350A\|יִגְאַ֜ל]] [[H5046\|הַגִּ֣ידָ]][[H9012\|ה]] [[H9005\|לִּ֗]][[H9030\|י]] [[H9002\|וְ]][[H3045\|אֵֽדְעָה֙]] [[H3588A\|כִּ֣י]] [[H0369\|אֵ֤ין]] [[H2108\|זוּלָֽתְ]][[H9031\|ךָ֙]] [[H9005\|לִ]][[H1350A\|גְא֔וֹל]] [[H9002\|וְ]][[H0595\|אָנֹכִ֖י]] [[H0310A\|אַחֲרֶ֑י]][[H9031\|ךָ]] [[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H0595\|אָנֹכִ֥י]] [[H1350A\|אֶגְאָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic DOWRY|DOWRY]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HEIR|HEIR]] • [[topic LAND|LAND]] • [[topic MARRIAGE|MARRIAGE]] • [[topic REDEMPTION|REDEMPTION]] • [[topic WITNESS|WITNESS]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.3|<< Ruth 4:3]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.5|Ruth 4:5 >>]]</td></tr></table>
 
@@ -39,7 +110,7 @@ I thought I should inform you that you may buy it back in the presence of those 
 | I will redeem  |**<big>&#8207;[[H1350A\|אֶגְאָֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'eg.'Al<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.3|<< Ruth 4:3]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.5|Ruth 4:5 >>]]</td></tr></table>
 
-[^1]: so I may know  | **<big>[[H3045|אֵדַע]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.da'<small><sup>[[HVqu1cs]]</sup></small> | K
-[^2]: so I may know  | **<big>[[H3045|אֵדַע]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.da'<small><sup>[[HVqu1cs]]</sup></small> | K
+[^1]: so I may know  | **<big>[[H9002|וְ]]</big><big>[[H3045|אֵדַע]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.da'<small><sup>[[HVqu1cs]]</sup></small> | K
+[^2]: so I may know  | **<big>[[H9002|וְ]]</big><big>[[H3045|אֵדַע]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.da'<small><sup>[[HVqu1cs]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וְאֵֽדְעָ֙</big></span>**
 

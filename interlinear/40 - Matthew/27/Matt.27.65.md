@@ -1,10 +1,53 @@
+---
+title: Matthew 27:65
+type: Verse
+kjv: "Pilate said unto them, Ye have a watch: go your way, make it as sure as ye can."
+bsb: "“You have a guard,” Pilate said. “Go, make the tomb as secure as you know how.”"
+greek: "Ἔφη δὲ αὐτοῖς ὁ Πιλᾶτος· ἔχετε κουστωδίαν· ὑπάγετε ἀσφαλίσασθε ὡς οἴδατε.¶"
+pericope: "[[Matt.27.62 The Guards at the Tomb|The Guards at the Tomb]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+strongs:
+- "[[G5346]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G4091]]"
+- "[[G2192]]"
+- "[[G2892]]"
+- "[[G5217]]"
+- "[[G0805]]"
+- "[[G5613]]"
+- "[[G6063]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 27:65**<big><big>[[Matt.27.62 The Guards at the Tomb|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Pilate said unto them, Ye have a watch: go your way, make [it] as sure as ye can.
 <small><sub>**BSB:**</sub></small>
 “You have a guard,” Pilate said. “Go, make the tomb as secure as you know how.”
-<small><sub>**Literal:**</sub></small>
-was saying now to them <the> Pilate; You have a guard; do go do make [it as] secure as you know [how].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.64|<< Matthew 27:64]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.66|Matthew 27:66 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5346\|Ἔφη]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G4091\|Πιλᾶτος·]]  [[G2192\|ἔχετε]]  [[G2892\|κουστωδίαν·]]  [[G5217\|ὑπάγετε]]  [[G0805\|ἀσφαλίσασθε]]  [[G5613\|ὡς]]  [[G6063\|οἴδατε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SOLDIERS|SOLDIERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.64|<< Matthew 27:64]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.66|Matthew 27:66 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

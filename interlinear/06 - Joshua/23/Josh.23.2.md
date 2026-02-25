@@ -1,8 +1,63 @@
+---
+title: Joshua 23:2
+type: Verse
+kjv: "And Joshua called for all Israel, and for their elders, and for their heads, and for their judges, and for their officers, and said unto them, I am old and stricken in age:"
+bsb: "he summoned all Israel, including its elders, leaders, judges, and officers. “I am old and well along in years,” he said,"
+hebrew: "וַיִּקְרָ֤א יְהוֹשֻׁ֙עַ֙ לְכָל־ יִשְׂרָאֵ֔ל לִזְקֵנָיו֙ וּלְרָאשָׁ֔יו וּלְשֹׁפְטָ֖יו וּלְשֹֽׁטְרָ֑יו וַיֹּ֣אמֶר אֲלֵהֶ֔ם אֲנִ֣י זָקַ֔נְתִּי בָּ֖אתִי בַּיָּמִֽים׃"
+pericope: "[[Josh.23.1 Joshua’s Charge to Leaders|Joshua’s Charge to Leaders]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 23
+book/chapter: "[[Josh.23|Joshua 23]]"
+chronological_order: 253
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H3091G]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H2205G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H7218H]]"
+- "[[H8199]]"
+- "[[H9033]]"
+- "[[H7860]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H0589]]"
+- "[[H2204]]"
+- "[[H0935J]]"
+- "[[H9003]]"
+- "[[H3117I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 23:2**<big><big>[[Josh.23.1 Joshua’s Charge to Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua called for all Israel, [and] for their elders, and for their heads, and for their judges, and for their officers, and said unto them, I am old [and] stricken in age:
 <small><sub>**BSB:**</sub></small>
 he summoned all Israel, including its elders, leaders, judges, and officers. “I am old and well along in years,” he said,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָ֤א]] [[H3091G\|יְהוֹשֻׁ֙עַ֙]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9005\|לִ]][[H2205G\|זְקֵנָי]][[H9023\|ו֙]] [[H9002\|וּ]][[H9005\|לְ]][[H7218H\|רָאשָׁ֔י]][[H9023\|ו]] [[H9002\|וּ]][[H9005\|לְ]][[H8199\|שֹׁפְטָ֖י]][[H9033\|ו]] [[H9002\|וּ]][[H9005\|לְ]][[H7860\|שֹֽׁטְרָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֔ם]] [[H0589\|אֲנִ֣י]] [[H2204\|זָקַ֔נְתִּי]] [[H0935J\|בָּ֖אתִי]] [[H9003\|בַּ]][[H3117I\|יָּמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.23.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.23.1|<< Joshua 23:1]]</td><td align="center" style="border:none;">[[Josh.23|Joshua 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.23.3|Joshua 23:3 >>]]</td></tr></table>
 

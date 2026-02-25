@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saying 25
+type: Pericope
 pericope: "[[Prov.24.10 Saying 25|Saying 25]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 24
 book/chapter: "[[Prov.24|Proverbs 24]]"
-genre:
+chronological_order: 479
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 3
 verses:
 - "[[Prov.24.10]]"
 - "[[Prov.24.11]]"
 - "[[Prov.24.12]]"
 ---
 
-[[Prov.24|Proverbs 24:10 - Proverbs 24:12]]
+<small>[[Prov.24|Proverbs 24:10-12]]</small>
 *Saying 25*
 
 [[Prov.24.10|10]] \[If\] thou faint in the day of adversity, thy strength \[is\] small.

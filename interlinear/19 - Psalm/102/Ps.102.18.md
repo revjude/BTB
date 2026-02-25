@@ -1,8 +1,59 @@
+---
+title: Psalm 102:18
+type: Verse
+kjv: "This shall be written for the generation to come: and the people which shall be created shall praise the LORD."
+bsb: "Let this be written for the generation to come, so that a people not yet created may praise the LORD."
+hebrew: "תִּכָּ֣תֶב זֹ֭את לְד֣וֹר אַחֲר֑וֹן וְעַ֥ם נִ֝בְרָ֗א יְהַלֶּל־ יָֽהּ׃"
+pericope: "[[Ps.102.1 The Prayer of the Afflicted|The Prayer of the Afflicted]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 102
+book/chapter: "[[Ps.102|Psalm 102]]"
+chronological_order: 784
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H3789]]"
+- "[[H2063]]"
+- "[[H9005]]"
+- "[[H1755]]"
+- "[[H0314]]"
+- "[[H9002]]"
+- "[[H5971A]]"
+- "[[H1254A]]"
+- "[[H1984B]]"
+- "[[H9014]]"
+- "[[H3050]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 102:18**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This shall be written for the generation to come: and the people which shall be created shall praise the LORD.
 <small><sub>**BSB:**</sub></small>
 Let this be written for the generation to come, so that a people not yet created may praise the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3789\|תִּכָּ֣תֶב]] [[H2063\|זֹ֭את]] [[H9005\|לְ]][[H1755\|ד֣וֹר]] [[H0314\|אַחֲר֑וֹן]] [[H9002\|וְ]][[H5971A\|עַ֥ם]] [[H1254A\|נִ֝בְרָ֗א]] [[H1984B\|יְהַלֶּל]][[H9014\|־]] [[H3050\|יָֽהּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic PRAYER|PRAYER]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.17|<< Psalms 102:17]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.19|Psalms 102:19 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: 1 Samuel 6:13
+type: Verse
+kjv: "And they of Bethshemesh were reaping their wheat harvest in the valley: and they lifted up their eyes, and saw the ark, and rejoiced to see it."
+bsb: "Now the people of Beth-shemesh were harvesting wheat in the valley, and when they looked up and saw the ark, they were overjoyed at the sight."
+hebrew: "וּבֵ֣ית שֶׁ֔מֶשׁ קֹצְרִ֥ים קְצִיר־ חִטִּ֖ים בָּעֵ֑מֶק וַיִּשְׂא֣וּ אֶת־ עֵינֵיהֶ֗ם וַיִּרְאוּ֙ אֶת־ הָ֣אָר֔וֹן וַֽיִּשְׂמְח֖וּ לִרְאֽוֹת׃"
+pericope: "[[1Sam.6.1 The Ark Returned to Israel|The Ark Returned to Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 6
+book/chapter: "[[1Sam.6|1 Samuel 6]]"
+chronological_order: 285
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CART|CART]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic REAPING|REAPING]]"
+strongs:
+- "[[H9002]]"
+- "[[H1053G]]"
+- "[[H7114B]]"
+- "[[H7105A]]"
+- "[[H9014]]"
+- "[[H2406]]"
+- "[[H9003]]"
+- "[[H6010R]]"
+- "[[H9001]]"
+- "[[H5375M]]"
+- "[[H0853]]"
+- "[[H5869A]]"
+- "[[H9028]]"
+- "[[H7200G]]"
+- "[[H9009]]"
+- "[[H0727]]"
+- "[[H8055]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 6:13**<big><big>[[1Sam.6.1 The Ark Returned to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [they of] Bethshemesh [were] reaping their wheat harvest in the valley: and they lifted up their eyes, and saw the ark, and rejoiced to see [it].
 <small><sub>**BSB:**</sub></small>
 Now the people of Beth-shemesh were harvesting wheat in the valley, and when they looked up and saw the ark, they were overjoyed at the sight.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1053G\|בֵ֣ית]] [[H1053G\|שֶׁ֔מֶשׁ]] [[H7114B\|קֹצְרִ֥ים]] [[H7105A\|קְצִיר]][[H9014\|־]] [[H2406\|חִטִּ֖ים]] [[H9003\|בָּ]][[H6010R\|עֵ֑מֶק]] [[H9001\|וַ]][[H5375M\|יִּשְׂא֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H5869A\|עֵינֵי]][[H9028\|הֶ֗ם]] [[H9001\|וַ]][[H7200G\|יִּרְאוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ֣]][[H0727\|אָר֔וֹן]] [[H9001\|וַֽ]][[H8055\|יִּשְׂמְח֖וּ]] [[H9005\|לִ]][[H7200G\|רְאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CART|CART]] • [[topic MIRACLES|MIRACLES]] • [[topic REAPING|REAPING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.12|<< 1 Samuel 6:12]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.14|1 Samuel 6:14 >>]]</td></tr></table>
 

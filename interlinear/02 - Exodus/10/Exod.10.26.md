@@ -1,8 +1,74 @@
+---
+title: Exodus 10:26
+type: Verse
+kjv: "Our cattle also shall go with us; there shall not an hoof be left behind; for thereof must we take to serve the LORD our God; and we know not with what we must serve the LORD, until we come thither."
+bsb: "Even our livestock must go with us; not a hoof will be left behind, for we will need some of them to worship the LORD our God, and we will not know how we are to worship the LORD until we arrive.”"
+hebrew: "וְגַם־ מִקְנֵ֜נוּ יֵלֵ֣ךְ עִמָּ֗נוּ לֹ֤א תִשָּׁאֵר֙ פַּרְסָ֔ה כִּ֚י מִמֶּ֣נּוּ נִקַּ֔ח לַעֲבֹ֖ד אֶת־ יְהוָ֣ה אֱלֹהֵ֑ינוּ וַאֲנַ֣חְנוּ לֹֽא־ נֵדַ֗ע מַֽה־ נַּעֲבֹד֙ אֶת־ יְהוָ֔ה עַד־ בֹּאֵ֖נוּ שָֽׁמָּה׃"
+pericope: "[[Exod.10.21 The Ninth Plague：Darkness|The Ninth Plague：Darkness]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 10
+book/chapter: "[[Exod.10|Exodus 10]]"
+chronological_order: 102
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H4735]]"
+- "[[H9025]]"
+- "[[H1980G]]"
+- "[[H5973A]]"
+- "[[H9035]]"
+- "[[H3808]]"
+- "[[H7604]]"
+- "[[H6541]]"
+- "[[H3588A]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H3947G]]"
+- "[[H9005]]"
+- "[[H5647H]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0587]]"
+- "[[H3045]]"
+- "[[H4100]]"
+- "[[H5704]]"
+- "[[H0935G]]"
+- "[[H9045]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 10:26**<big><big>[[Exod.10.21 The Ninth Plague：Darkness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Our cattle also shall go with us; there shall not an hoof be left behind; for thereof must we take to serve the LORD our God; and we know not with what we must serve the LORD, until we come thither.
 <small><sub>**BSB:**</sub></small>
 Even our livestock must go with us; not a hoof will be left behind, for we will need some of them to worship the LORD our God, and we will not know how we are to worship the LORD until we arrive.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H4735\|מִקְנֵ֜]][[H9025\|נוּ]] [[H1980G\|יֵלֵ֣ךְ]] [[H5973A\|עִמָּ֗]][[H9035\|נוּ]] [[H3808\|לֹ֤א]] [[H7604\|תִשָּׁאֵר֙]] [[H6541\|פַּרְסָ֔ה]] [[H3588A\|כִּ֚י]] [[H4480A\|מִמֶּ֣]][[H9033\|נּוּ]] [[H3947G\|נִקַּ֔ח]] [[H9005\|לַ]][[H5647H\|עֲבֹ֖ד]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵ֑י]][[H9025\|נוּ]] [[H9002\|וַ]][[H0587\|אֲנַ֣חְנוּ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3045\|נֵדַ֗ע]] [[H4100\|מַֽה]][[H9014\|־]] [[H5647H\|נַּעֲבֹד֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H5704\|עַד]][[H9014\|־]] [[H0935G\|בֹּאֵ֖]][[H9045\|נוּ]] [[H8033G\|שָֽׁמָּ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.25|<< Exodus 10:25]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.27|Exodus 10:27 >>]]</td></tr></table>
 

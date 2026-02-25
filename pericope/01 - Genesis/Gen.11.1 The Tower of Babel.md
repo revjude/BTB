@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Tower of Babel
+type: Pericope
 pericope: "[[Gen.11.1 The Tower of Babel|The Tower of Babel]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 11
 book/chapter: "[[Gen.11|Genesis 11]]"
-genre:
+chronological_order: 11
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 9
 verses:
 - "[[Gen.11.1]]"
 - "[[Gen.11.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Gen.11.9]]"
 ---
 
-[[Gen.11|Genesis 11:1 - Genesis 11:9]]
+<small>[[Gen.11|Genesis 11:1-9]]</small>
 *The Tower of Babel*
 
 [[Gen.11.1|1]] And the whole earth was of one language, and of one speech.

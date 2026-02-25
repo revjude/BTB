@@ -1,8 +1,66 @@
+---
+title: 2 Kings 3:7
+type: Verse
+kjv: "And he went and sent to Jehoshaphat the king of Judah, saying, The king of Moab hath rebelled against me: wilt thou go with me against Moab to battle? And he said, I will go up: I am as thou art, my people as thy people, and my horses as thy horses."
+bsb: "And he sent a message to Jehoshaphat king of Judah: “The king of Moab has rebelled against me. Will you go with me to fight against Moab?” “I will go,” replied Jehoshaphat. “I am as you are, my people are your people, and my horses are your horses.”"
+hebrew: "וַיֵּ֡לֶךְ וַיִּשְׁלַח֩ אֶל־ יְהוֹשָׁפָ֨ט מֶֽלֶךְ־ יְהוּדָ֜ה לֵאמֹ֗ר מֶ֤לֶךְ מוֹאָב֙ פָּשַׁ֣ע בִּ֔י הֲתֵלֵ֥ךְ אִתִּ֛י אֶל־ מוֹאָ֖ב לַמִּלְחָמָ֑ה וַיֹּ֣אמֶר אֶעֱלֶ֔ה כָּמ֧וֹנִי כָמ֛וֹךָ כְּעַמִּ֥י כְעַמֶּ֖ךָ כְּסוּסַ֥י כְּסוּסֶֽיךָ׃"
+pericope: "[[2Kgs.3.1 Moab’s Rebellion|Moab’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 3
+book/chapter: "[[2Kgs.3|2 Kings 3]]"
+chronological_order: 575
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic MOABITES|MOABITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3092I]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H4124G]]"
+- "[[H6586]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H9008]]"
+- "[[H0854]]"
+- "[[H4421]]"
+- "[[H5927G]]"
+- "[[H3644G]]"
+- "[[H9031]]"
+- "[[H9004]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9021]]"
+- "[[H5483M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 3:7**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he went and sent to Jehoshaphat the king of Judah, saying, The king of Moab hath rebelled against me: wilt thou go with me against Moab to battle? And he said, I will go up: I [am] as thou [art], my people as thy people, [and] my horses as thy horses.
 <small><sub>**BSB:**</sub></small>
 And he sent a message to Jehoshaphat king of Judah: “The king of Moab has rebelled against me. Will you go with me to fight against Moab?” “I will go,” replied Jehoshaphat. “I am as you are, my people are your people, and my horses are your horses.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּ֡לֶךְ]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַח֩]] [[H0413\|אֶל]][[H9014\|־]] [[H3092I\|יְהוֹשָׁפָ֨ט]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָ֜ה]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H4428G\|מֶ֤לֶךְ]] [[H4124G\|מוֹאָב֙]] [[H6586\|פָּשַׁ֣ע]] [[H9003\|בִּ֔]][[H9030\|י]] [[H9008\|הֲ]][[H1980G\|תֵלֵ֥ךְ]] [[H0854\|אִתִּ֛]][[H9030\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H4124G\|מוֹאָ֖ב]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H5927G\|אֶעֱלֶ֔ה]] [[H3644G\|כָּמ֧וֹ]][[H9030\|נִי]] [[H3644G\|כָמ֛וֹ]][[H9031\|ךָ]] [[H9004\|כְּ]][[H5971A\|עַמִּ֥]][[H9020\|י]] [[H9004\|כְ]][[H5971A\|עַמֶּ֖]][[H9021\|ךָ]] [[H9004\|כְּ]][[H5483M\|סוּסַ֥]][[H9020\|י]] [[H9004\|כְּ]][[H5483M\|סוּסֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOABITES|MOABITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.6|<< 2 Kings 3:6]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.8|2 Kings 3:8 >>]]</td></tr></table>
 

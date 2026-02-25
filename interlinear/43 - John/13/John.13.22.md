@@ -1,10 +1,52 @@
+---
+title: John 13:22
+type: Verse
+kjv: "Then the disciples looked one on another, doubting of whom he spake."
+bsb: "The disciples looked at one another, perplexed as to which of them He meant."
+greek: "ἔβλεπον οὖν εἰς ἀλλήλους οἱ μαθηταί, ἀπορούμενοι περὶ τίνος λέγει.¶"
+pericope: "[[John.13.18 Jesus Predicts His Betrayal|Jesus Predicts His Betrayal]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+strongs:
+- "[[G0991]]"
+- "[[G3767]]"
+- "[[G1519]]"
+- "[[G0240]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0639]]"
+- "[[G4012]]"
+- "[[G5101]]"
+- "[[G3004G]]"
+texts:
+- NKO
+- KO
+---
+
 **John 13:22**<big><big>[[John.13.18 Jesus Predicts His Betrayal|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then the disciples looked one on another, doubting of whom he spake.
 <small><sub>**BSB:**</sub></small>
 The disciples looked at one another, perplexed as to which of them He meant.
-<small><sub>**Literal:**</sub></small>
-Were looking therefore upon one another the disciples, being uncertain of whom He is speaking.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.21|<< John 13:21]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.23|John 13:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0991\|ἔβλεπον]]  [[G3767\|οὖν]]  [[G1519\|εἰς]]  [[G0240\|ἀλλήλους]]  [[G3588\|οἱ]]  [[G3101\|μαθηταί,]]  [[G0639\|ἀπορούμενοι]]  [[G4012\|περὶ]]  [[G5101\|τίνος]]  [[G3004G\|λέγει.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.21|<< John 13:21]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.23|John 13:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

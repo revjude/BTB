@@ -1,10 +1,62 @@
+---
+title: John 19:40
+type: Verse
+kjv: "Then took they the body of Jesus, and wound it in linen clothes with the spices, as the manner of the Jews is to bury."
+bsb: "So they took the body of Jesus and wrapped it in linen cloths with the spices, according to the Jewish burial custom."
+greek: "ἔλαβον οὖν τὸ σῶμα τοῦ Ἰησοῦ καὶ ἔδησαν αὐτὸ ἐν ὀθονίοις μετὰ τῶν ἀρωμάτων, καθὼς ἔθος ἐστὶν τοῖς Ἰουδαίοις ἐνταφιάζειν.¶"
+pericope: "[[John.19.38 The Burial of Jesus|The Burial of Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic SPICES|SPICES]]"
+strongs:
+- "[[G2983]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G4983]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G1210]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3608]]"
+- "[[G3326]]"
+- "[[G0759]]"
+- "[[G2531]]"
+- "[[G1485]]"
+- "[[G1510]]"
+- "[[G2453]]"
+- "[[G1779]]"
+texts:
+- NKO
+- o
+---
+
 **John 19:40**<big><big>[[John.19.38 The Burial of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then took they the body of Jesus, and wound it in linen clothes with the spices, as the manner of the Jews is to bury.
 <small><sub>**BSB:**</sub></small>
 So they took the body of Jesus and wrapped it in linen cloths with the spices, according to the Jewish burial custom.
-<small><sub>**Literal:**</sub></small>
-They took therefore the body <the> of Jesus and bound it in in linen cloths with the spices, even as [the] custom is among the Jews to prepare for burial.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.39|<< John 19:39]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.41|John 19:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2983\|ἔλαβον]]  [[G3767\|οὖν]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G2532\|καὶ]]  [[G1210\|ἔδησαν]]  [[G0846\|αὐτὸ]]  [[G1722\|ἐν]]  [[G3608\|ὀθονίοις]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G0759\|ἀρωμάτων,]]  [[G2531\|καθὼς]]  [[G1485\|ἔθος]]  [[G1510\|ἐστὶν]]  [[G3588\|τοῖς]]  [[G2453\|Ἰουδαίοις]]  [[G1779\|ἐνταφιάζειν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURIAL|BURIAL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic LOVE|LOVE]] • [[topic SPICES|SPICES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.39|<< John 19:39]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.41|John 19:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,54 @@
+---
+title: Job 17:9
+type: Verse
+kjv: "The righteous also shall hold on his way, and he that hath clean hands shall be stronger and stronger."
+bsb: "Yet a righteous one holds to his way, and the one with clean hands grows stronger."
+hebrew: "וְיֹאחֵ֣ז צַדִּ֣יק דַּרְכּ֑וֹ וּֽטֳהָר־ יָ֝דַ֗יִם יֹסִ֥יף אֹֽמֶץ׃"
+pericope: "[[Job.17.1 Job Prepares for Death|Job Prepares for Death]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 17
+book/chapter: "[[Job.17|Job 17]]"
+chronological_order: 28
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic HAND|HAND]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0270]]"
+- "[[H6662]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H2889]]"
+- "[[H9014]]"
+- "[[H3027G]]"
+- "[[H3254H]]"
+- "[[H0555]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 17:9**<big><big>[[Job.17.1 Job Prepares for Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The righteous also shall hold on his way, and he that hath clean hands shall be stronger and stronger.
 <small><sub>**BSB:**</sub></small>
 Yet a righteous one holds to his way, and the one with clean hands grows stronger.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0270\|יֹאחֵ֣ז]] [[H6662\|צַדִּ֣יק]] [[H1870G\|דַּרְכּ֑]][[H9023\|וֹ]] [[H9002\|וּֽ]][[H2889\|טֳהָר]][[H9014\|־]] [[H3027G\|יָ֝דַ֗יִם]] [[H3254H\|יֹסִ֥יף]] [[H0555\|אֹֽמֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic HAND|HAND]] • [[topic PERSEVERANCE|PERSEVERANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.17.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.17.8|<< Job 17:8]]</td><td align="center" style="border:none;">[[Job.17|Job 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.17.10|Job 17:10 >>]]</td></tr></table>
 

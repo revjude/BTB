@@ -1,8 +1,65 @@
+---
+title: Isaiah 11:14
+type: Verse
+kjv: "But they shall fly upon the shoulders of the Philistines toward the west; they shall spoil them of the east together: they shall lay their hand upon Edom and Moab; and the children of Ammon shall obey them."
+bsb: "They will swoop down on the slopes of the Philistines to the west; together they will plunder the sons of the east. They will lay their hands on Edom and Moab, and the Ammonites will be subject to them."
+hebrew: "וְעָפ֨וּ בְכָתֵ֤ף פְּלִשְׁתִּים֙ יָ֔מָּה יַחְדָּ֖ו יָבֹ֣זּוּ אֶת־ בְּנֵי־ קֶ֑דֶם אֱד֤וֹם וּמוֹאָב֙ מִשְׁל֣וֹח יָדָ֔ם וּבְנֵ֥י עַמּ֖וֹן מִשְׁמַעְתָּֽם׃"
+pericope: "[[Isa.11.1 The Root of Jesse|The Root of Jesse]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 11
+book/chapter: "[[Isa.11|Isaiah 11]]"
+chronological_order: 621
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9001]]"
+- "[[H5774A]]"
+- "[[H9003]]"
+- "[[H3802]]"
+- "[[H6430G]]"
+- "[[H3220H]]"
+- "[[H9011]]"
+- "[[H3162B]]"
+- "[[H0962]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H6924G]]"
+- "[[H0123G]]"
+- "[[H9002]]"
+- "[[H4124G]]"
+- "[[H4916B]]"
+- "[[H3027H]]"
+- "[[H9028]]"
+- "[[H5983]]"
+- "[[H4928]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 11:14**<big><big>[[Isa.11.1 The Root of Jesse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But they shall fly upon the shoulders of the Philistines toward the west; they shall spoil them of the east together: they shall lay their hand upon Edom and Moab; and the children of Ammon shall obey them.
 <small><sub>**BSB:**</sub></small>
 They will swoop down on the slopes of the Philistines to the west; together they will plunder the sons of the east. They will lay their hands on Edom and Moab, and the Ammonites will be subject to them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5774A\|עָפ֨וּ]] [[H9003\|בְ]][[H3802\|כָתֵ֤ף]] [[H6430G\|פְּלִשְׁתִּים֙]] [[H3220H\|יָ֔מָּ]][[H9011\|ה]] [[H3162B\|יַחְדָּ֖ו]] [[H0962\|יָבֹ֣זּוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H6924G\|קֶ֑דֶם]] [[H0123G\|אֱד֤וֹם]] [[H9002\|וּ]][[H4124G\|מוֹאָב֙]] [[H4916B\|מִשְׁל֣וֹח]] [[H3027H\|יָדָ֔]][[H9028\|ם]] [[H9002\|וּ]][[H1121G\|בְנֵ֥י]] [[H5983\|עַמּ֖וֹן]] [[H4928\|מִשְׁמַעְתָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic EDOMITES|EDOMITES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.11.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.13|<< Isaiah 11:13]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.11.15|Isaiah 11:15 >>]]</td></tr></table>
 

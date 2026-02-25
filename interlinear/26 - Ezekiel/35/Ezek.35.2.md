@@ -1,8 +1,52 @@
+---
+title: Ezekiel 35:2
+type: Verse
+kjv: "Son of man, set thy face against mount Seir, and prophesy against it,"
+bsb: "“Son of man, set your face against Mount Seir and prophesy against it,"
+hebrew: "בֶּן־ אָדָ֕ם שִׂ֥ים פָּנֶ֖יךָ עַל־ הַ֣ר שֵׂעִ֑יר וְהִנָּבֵ֖א עָלָֽיו׃"
+pericope: "[[Ezek.35.1 A Prophecy against Mount Seir|A Prophecy against Mount Seir]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 35
+book/chapter: "[[Ezek.35|Ezekiel 35]]"
+chronological_order: 826
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H7760A]]"
+- "[[H6440H]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H2022G]]"
+- "[[H8165G]]"
+- "[[H9002]]"
+- "[[H5012]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 35:2**<big><big>[[Ezek.35.1 A Prophecy against Mount Seir|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, set thy face against mount Seir, and prophesy against it,
 <small><sub>**BSB:**</sub></small>
 “Son of man, set your face against Mount Seir and prophesy against it,
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֕ם]] [[H7760A\|שִׂ֥ים]] [[H6440H\|פָּנֶ֖י]][[H9021\|ךָ]] [[H5921A\|עַל]][[H9014\|־]] [[H2022G\|הַ֣ר]] [[H8165G\|שֵׂעִ֑יר]] [[H9002\|וְ]][[H5012\|הִנָּבֵ֖א]] [[H5921A\|עָלָֽי]][[H9033\|ו]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.35.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.35.1|<< Ezekiel 35:1]]</td><td align="center" style="border:none;">[[Ezek.35|Ezekiel 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.35.3|Ezekiel 35:3 >>]]</td></tr></table>
 

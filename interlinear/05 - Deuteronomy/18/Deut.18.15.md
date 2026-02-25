@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 18:15
+type: Verse
+kjv: "The LORD thy God will raise up unto thee a Prophet from the midst of thee, of thy brethren, like unto me; unto him ye shall hearken;"
+bsb: "The LORD your God will raise up for you a prophet like me from among your brothers. You must listen to him."
+hebrew: "נָבִ֨יא מִקִּרְבְּךָ֤ מֵאַחֶ֙יךָ֙ כָּמֹ֔נִי יָקִ֥ים לְךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ אֵלָ֖יו תִּשְׁמָעֽוּן׃"
+pericope: "[[Deut.18.15 A Prophet Like Moses|A Prophet Like Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 18
+book/chapter: "[[Deut.18|Deuteronomy 18]]"
+chronological_order: 214
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[H5030]]"
+- "[[H9006]]"
+- "[[H7130G]]"
+- "[[H9021]]"
+- "[[H0251I]]"
+- "[[H3644G]]"
+- "[[H9030]]"
+- "[[H6965I]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H8085G]]"
+- "[[H9013]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 18:15**<big><big>[[Deut.18.15 A Prophet Like Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD thy God will raise up unto thee a Prophet from the midst of thee, of thy brethren, like unto me; unto him ye shall hearken;
 <small><sub>**BSB:**</sub></small>
 The LORD your God will raise up for you a prophet like me from among your brothers. You must listen to him.
+<small><sub>**Hebrew:**</sub></small>
+[[H5030\|נָבִ֨יא]] [[H9006\|מִ]][[H7130G\|קִּרְבְּ]][[H9021\|ךָ֤]] [[H9006\|מֵ]][[H0251I\|אַחֶ֙י]][[H9021\|ךָ֙]] [[H3644G\|כָּמֹ֔]][[H9030\|נִי]] [[H6965I\|יָקִ֥ים]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֑י]][[H9021\|ךָ]] [[H0413\|אֵלָ֖י]][[H9033\|ו]] [[H8085G\|תִּשְׁמָעֽוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOSES|MOSES]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic TYPES|TYPES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.18.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.18.14|<< Deuteronomy 18:14]]</td><td align="center" style="border:none;">[[Deut.18|Deuteronomy 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.18.16|Deuteronomy 18:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

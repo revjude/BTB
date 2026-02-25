@@ -1,8 +1,62 @@
+---
+title: Jeremiah 5:4
+type: Verse
+kjv: "Therefore I said, Surely these are poor; they are foolish: for they know not the way of the LORD, nor the judgment of their God."
+bsb: "Then I said, “They are only the poor; they have played the fool, for they do not know the way of the LORD, the justice of their God."
+hebrew: "וַאֲנִ֣י אָמַ֔רְתִּי אַךְ־ דַּלִּ֖ים הֵ֑ם נוֹאֲל֕וּ כִּ֣י לֹ֤א יָדְעוּ֙ דֶּ֣רֶךְ יְהוָ֔ה מִשְׁפַּ֖ט אֱלֹהֵיהֶֽם׃"
+pericope: "[[Jer.5.1 No One Is Just|No One Is Just]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 5
+book/chapter: "[[Jer.5|Jeremiah 5]]"
+chronological_order: 722
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H0559]]"
+- "[[H0389]]"
+- "[[H9014]]"
+- "[[H1800]]"
+- "[[H1992]]"
+- "[[H2973]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H1870G]]"
+- "[[H3068G]]"
+- "[[H4941H]]"
+- "[[H0430G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 5:4**<big><big>[[Jer.5.1 No One Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore I said, Surely these [are] poor; they are foolish: for they know not the way of the LORD, [nor] the judgment of their God.
 <small><sub>**BSB:**</sub></small>
 Then I said, “They are only the poor; they have played the fool, for they do not know the way of the LORD, the justice of their God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0589\|אֲנִ֣י]] [[H0559\|אָמַ֔רְתִּי]] [[H0389\|אַךְ]][[H9014\|־]] [[H1800\|דַּלִּ֖ים]] [[H1992\|הֵ֑ם]] [[H2973\|נוֹאֲל֕וּ]] [[H3588A\|כִּ֣י]] [[H3808\|לֹ֤א]] [[H3045\|יָדְעוּ֙]] [[H1870G\|דֶּ֣רֶךְ]] [[H3068G\|יְהוָ֔ה]] [[H4941H\|מִשְׁפַּ֖ט]] [[H0430G\|אֱלֹהֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLINDNESS|BLINDNESS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.3|<< Jeremiah 5:3]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.5|Jeremiah 5:5 >>]]</td></tr></table>
 

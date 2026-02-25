@@ -1,8 +1,54 @@
+---
+title: 2 Kings 13:15
+type: Verse
+kjv: "And Elisha said unto him, Take bow and arrows. And he took unto him bow and arrows."
+bsb: "Elisha told him, “Take a bow and some arrows.” So Jehoash took a bow and some arrows."
+hebrew: "וַיֹּ֤אמֶר לוֹ֙ אֱלִישָׁ֔ע קַ֖ח קֶ֣שֶׁת וְחִצִּ֑ים וַיִּקַּ֥ח אֵלָ֖יו קֶ֥שֶׁת וְחִצִּֽים׃"
+pericope: "[[2Kgs.13.14 Elisha’s Final Prophecy|Elisha’s Final Prophecy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 13
+book/chapter: "[[2Kgs.13|2 Kings 13]]"
+chronological_order: 590
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~798–782 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARROW|ARROW]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic JEHOASH|JEHOASH]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0477]]"
+- "[[H3947G]]"
+- "[[H7198]]"
+- "[[H9002]]"
+- "[[H2671]]"
+- "[[H0413]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 13:15**<big><big>[[2Kgs.13.14 Elisha’s Final Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elisha said unto him, Take bow and arrows. And he took unto him bow and arrows.
 <small><sub>**BSB:**</sub></small>
 Elisha told him, “Take a bow and some arrows.” So Jehoash took a bow and some arrows.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H0477\|אֱלִישָׁ֔ע]] [[H3947G\|קַ֖ח]] [[H7198\|קֶ֣שֶׁת]] [[H9002\|וְ]][[H2671\|חִצִּ֑ים]] [[H9001\|וַ]][[H3947G\|יִּקַּ֥ח]] [[H0413\|אֵלָ֖י]][[H9033\|ו]] [[H7198\|קֶ֥שֶׁת]] [[H9002\|וְ]][[H2671\|חִצִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARROW|ARROW]] • [[topic ELISHA|ELISHA]] • [[topic JEHOASH|JEHOASH]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.13.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.13.14|<< 2 Kings 13:14]]</td><td align="center" style="border:none;">[[2Kgs.13|2 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.13.16|2 Kings 13:16 >>]]</td></tr></table>
 

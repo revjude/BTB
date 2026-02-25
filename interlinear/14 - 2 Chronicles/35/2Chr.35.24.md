@@ -1,8 +1,74 @@
+---
+title: 2 Chronicles 35:24
+type: Verse
+kjv: "His servants therefore took him out of that chariot, and put him in the second chariot that he had; and they brought him to Jerusalem, and he died, and was buried in one of the sepulchres of his fathers. And all Judah and Jerusalem mourned for Josiah."
+bsb: "So his servants took him out of his chariot, put him in his second chariot, and brought him to Jerusalem, where he died. And Josiah was buried in the tomb of his fathers, and all Judah and Jerusalem mourned for him."
+hebrew: "וַיַּֽעֲבִירֻ֨הוּ עֲבָדָ֜יו מִן־ הַמֶּרְכָּבָ֗ה וַֽיַּרְכִּיבֻהוּ֮ עַ֣ל רֶ֣כֶב הַמִּשְׁנֶה֮ אֲשֶׁר־ לוֹ֒ וַיּוֹלִיכֻ֙הוּ֙ יְר֣וּשָׁלִַ֔ם וַיָּ֕מָת וַיִּקָּבֵ֖ר בְּקִבְר֣וֹת אֲבֹתָ֑יו וְכָל־ יְהוּדָה֙ וִיר֣וּשָׁלִַ֔ם מִֽתְאַבְּלִ֖ים עַל־ יֹאשִׁיָּֽהוּ׃ פ"
+pericope: "[[2Chr.35.20 The Death of Josiah|The Death of Josiah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 35
+book/chapter: "[[2Chr.35|2 Chronicles 35]]"
+chronological_order: 714
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic MEGIDDO|MEGIDDO]]"
+- "[[topic PHARAOH|PHARAOH]]"
+- "[[topic RASHNESS|RASHNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674C]]"
+- "[[H9033]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4818]]"
+- "[[H7392]]"
+- "[[H5921A]]"
+- "[[H7393G]]"
+- "[[H4932H]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H1980J]]"
+- "[[H3389]]"
+- "[[H4191]]"
+- "[[H6912]]"
+- "[[H9003]]"
+- "[[H6913]]"
+- "[[H0001G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H3063G]]"
+- "[[H0056]]"
+- "[[H2977G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Chronicles 35:24**<big><big>[[2Chr.35.20 The Death of Josiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His servants therefore took him out of that chariot, and put him in the second chariot that he had; and they brought him to Jerusalem, and he died, and was buried in [one of] the sepulchres of his fathers. And all Judah and Jerusalem mourned for Josiah.
 <small><sub>**BSB:**</sub></small>
 So his servants took him out of his chariot, put him in his second chariot, and brought him to Jerusalem, where he died. And Josiah was buried in the tomb of his fathers, and all Judah and Jerusalem mourned for him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5674C\|יַּֽעֲבִירֻ֨]][[H9033\|הוּ]] [[H5650\|עֲבָדָ֜י]][[H9023\|ו]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4818\|מֶּרְכָּבָ֗ה]] [[H9001\|וַֽ]][[H7392\|יַּרְכִּיבֻ]][[H9033\|הוּ֮]] [[H5921A\|עַ֣ל]] [[H7393G\|רֶ֣כֶב]] [[H9009\|הַ]][[H4932H\|מִּשְׁנֶה֮]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל]][[H9033\|וֹ֒]] [[H9001\|וַ]][[H1980J\|יּוֹלִיכֻ֙]][[H9033\|הוּ֙]] [[H3389\|יְר֣וּשָׁלִַ֔ם]] [[H9001\|וַ]][[H4191\|יָּ֕מָת]] [[H9001\|וַ]][[H6912\|יִּקָּבֵ֖ר]] [[H9003\|בְּ]][[H6913\|קִבְר֣וֹת]] [[H0001G\|אֲבֹתָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3063G\|יְהוּדָה֙]] [[H9002\|וִ]][[H3389\|יר֣וּשָׁלִַ֔ם]] [[H0056\|מִֽתְאַבְּלִ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H2977G\|יֹאשִׁיָּֽהוּ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARIOT|CHARIOT]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic JOSIAH|JOSIAH]] • [[topic MEGIDDO|MEGIDDO]] • [[topic PHARAOH|PHARAOH]] • [[topic RASHNESS|RASHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.23|<< 2 Chronicles 35:23]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.25|2 Chronicles 35:25 >>]]</td></tr></table>
 
@@ -29,7 +95,7 @@ So his servants took him out of his chariot, put him in his second chariot, and 
 | and Jerusalem  |**<big>&#8207;[[H9002\|וִ]]&#8207;&#8207;[[H3389\|יר֣וּשָׁלִַ֔ם]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> Ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] mourning  |**<big>&#8207;[[H0056\|מִֽתְאַבְּלִ֖ים]]&#8207; </big>**| mit.'a.be.Lim<small><sup>[[HVtrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Josiah  |**<big>&#8207;[[H2977G\|יֹאשִׁיָּֽהוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| yo.shi.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Josiah  |**<big>&#8207;[[H2977G\|יֹאשִׁיָּֽהוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| yo.shi.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.23|<< 2 Chronicles 35:23]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.25|2 Chronicles 35:25 >>]]</td></tr></table>
 
 

@@ -1,8 +1,66 @@
+---
+title: Ezekiel 21:4
+type: Verse
+kjv: "Seeing then that I will cut off from thee the righteous and the wicked, therefore shall my sword go forth out of his sheath against all flesh from the south to the north:"
+bsb: "Because I will cut off both the righteous and the wicked, My sword will be unsheathed against everyone from south to north."
+hebrew: "יַ֛עַן אֲשֶׁר־ הִכְרַ֥תִּי מִמֵּ֖ךְ צַדִּ֣יק וְרָשָׁ֑ע לָ֠כֵן תֵּצֵ֨א חַרְבִּ֧י מִתַּעְרָ֛הּ אֶל־ כָּל־ בָּשָׂ֖ר מִנֶּ֥גֶב צָפֽוֹן׃"
+pericope: "[[Ezek.21.1 God’s Sword of Judgment|God’s Sword of Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 21
+book/chapter: "[[Ezek.21|Ezekiel 21]]"
+chronological_order: 812
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+strongs:
+- "[[H3282]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3772I]]"
+- "[[H4480A]]"
+- "[[H9032]]"
+- "[[H6662]]"
+- "[[H9002]]"
+- "[[H7563]]"
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3318H]]"
+- "[[H2719]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H8593]]"
+- "[[H9024]]"
+- "[[H0413]]"
+- "[[H3605]]"
+- "[[H1320]]"
+- "[[H5045H]]"
+- "[[H6828G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 21:4**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seeing then that I will cut off from thee the righteous and the wicked, therefore shall my sword go forth out of his sheath against all flesh from the south to the north:
 <small><sub>**BSB:**</sub></small>
 Because I will cut off both the righteous and the wicked, My sword will be unsheathed against everyone from south to north.
+<small><sub>**Hebrew:**</sub></small>
+[[H3282\|יַ֛עַן]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3772I\|הִכְרַ֥תִּי]] [[H4480A\|מִמֵּ֖]][[H9032\|ךְ]] [[H6662\|צַדִּ֣יק]] [[H9002\|וְ]][[H7563\|רָשָׁ֑ע]] [[H9005\|לָ֠]][[H3651C\|כֵן]] [[H3318H\|תֵּצֵ֨א]] [[H2719\|חַרְבִּ֧]][[H9020\|י]] [[H9006\|מִ]][[H8593\|תַּעְרָ֛]][[H9024\|הּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1320\|בָּשָׂ֖ר]] [[H9006\|מִ]][[H5045H\|נֶּ֥גֶב]] [[H6828G\|צָפֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGMENTS|JUDGMENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.3|<< Ezekiel 21:3]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.5|Ezekiel 21:5 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Song of Solomon 8:1
+type: Verse
+kjv: "O that thou wert as my brother, that sucked the breasts of my mother! when I should find thee without, I would kiss thee; yea, I should not be despised."
+bsb: "O that you were to me like a brother who nursed at my mother’s breasts! If I found you outdoors, I would kiss you, and no one would despise me."
+hebrew: "מִ֤י יִתֶּנְךָ֙ כְּאָ֣ח לִ֔י יוֹנֵ֖ק שְׁדֵ֣י אִמִּ֑י אֶֽמְצָאֲךָ֤ בַחוּץ֙ אֶשָׁ֣קְךָ֔ גַּ֖ם לֹא־ יָב֥וּזוּ לִֽי׃"
+pericope: "[[Song.8.1 Longing for Her Beloved|Longing for Her Beloved]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 8
+book/chapter: "[[Song.8|Song of Solomon 8]]"
+chronological_order: 455
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic BROTHER|BROTHER]]"
+strongs:
+- "[[H4310]]"
+- "[[H5414H]]"
+- "[[H9031]]"
+- "[[H9004]]"
+- "[[H0251G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3243]]"
+- "[[H7699A]]"
+- "[[H0517]]"
+- "[[H9020]]"
+- "[[H4672]]"
+- "[[H9003]]"
+- "[[H2351]]"
+- "[[H5401A]]"
+- "[[H1571]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0936]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Song of Solomon 8:1**<big><big>[[Song.8.1 Longing for Her Beloved|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O that thou [wert] as my brother, that sucked the breasts of my mother! [when] I should find thee without, I would kiss thee; yea, I should not be despised.
 <small><sub>**BSB:**</sub></small>
 O that you were to me like a brother who nursed at my mother’s breasts! If I found you outdoors, I would kiss you, and no one would despise me.
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִ֤י]] [[H5414H\|יִתֶּנְ]][[H9031\|ךָ֙]] [[H9004\|כְּ]][[H0251G\|אָ֣ח]] [[H9005\|לִ֔]][[H9030\|י]] [[H3243\|יוֹנֵ֖ק]] [[H7699A\|שְׁדֵ֣י]] [[H0517\|אִמִּ֑]][[H9020\|י]] [[H4672\|אֶֽמְצָאֲ]][[H9031\|ךָ֤]] [[H9003\|בַ]][[H2351\|חוּץ֙]] [[H5401A\|אֶשָׁ֣קְ]][[H9031\|ךָ֔]] [[H1571\|גַּ֖ם]] [[H3808\|לֹא]][[H9014\|־]] [[H0936\|יָב֥וּזוּ]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BROTHER|BROTHER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.8.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.7.13|<< Song of Solomon 7:13]]</td><td align="center" style="border:none;">[[Song.8|Song of Solomon 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.8.2|Song of Solomon 8:2 >>]]</td></tr></table>
 

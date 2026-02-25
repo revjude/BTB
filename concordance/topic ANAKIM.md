@@ -1,7 +1,7 @@
 
 **ANAKIM**
 
-→ A race of giants [[Num.13.28|Nu 13:28]]-[[Num.13.33|33]]; [[Deut.1.28|De 1:28]]; [[Deut.2.10|2:10]]; [[Deut.9.2|9:2]]
+→ A race of giants [[Num.13.28|Nu 13:28-33]]; [[Deut.1.28|De 1:28]]; [[Deut.2.10|2:10]]; [[Deut.9.2|9:2]]
 
 → Defeated by Joshua [[Josh.11.21|Jos 11:21]],[[Josh.11.22|22]]
 

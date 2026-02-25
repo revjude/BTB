@@ -1,8 +1,59 @@
+---
+title: Genesis 48:2
+type: Verse
+kjv: "And one told Jacob, and said, Behold, thy son Joseph cometh unto thee: and Israel strengthened himself, and sat upon the bed."
+bsb: "When Jacob was told, “Your son Joseph has come to you,” Israel rallied his strength and sat up in bed."
+hebrew: "וַיַּגֵּ֣ד לְיַעֲקֹ֔ב וַיֹּ֕אמֶר הִנֵּ֛ה בִּנְךָ֥ יוֹסֵ֖ף בָּ֣א אֵלֶ֑יךָ וַיִּתְחַזֵּק֙ יִשְׂרָאֵ֔ל וַיֵּ֖שֶׁב עַל־ הַמִּטָּֽה׃"
+pericope: "[[Gen.48.1 Jacob Blesses Ephraim and Manasseh|Jacob Blesses Ephraim and Manasseh]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 48
+book/chapter: "[[Gen.48|Genesis 48]]"
+chronological_order: 90
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H3290]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H3130G]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H2388G]]"
+- "[[H3478]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4296]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 48:2**<big><big>[[Gen.48.1 Jacob Blesses Ephraim and Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [one] told Jacob, and said, Behold, thy son Joseph cometh unto thee: and Israel strengthened himself, and sat upon the bed.
 <small><sub>**BSB:**</sub></small>
 When Jacob was told, “Your son Joseph has come to you,” Israel rallied his strength and sat up in bed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5046\|יַּגֵּ֣ד]] [[H9005\|לְ]][[H3290\|יַעֲקֹ֔ב]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H2009\|הִנֵּ֛ה]] [[H1121A\|בִּנְ]][[H9021\|ךָ֥]] [[H3130G\|יוֹסֵ֖ף]] [[H0935G\|בָּ֣א]] [[H0413\|אֵלֶ֑י]][[H9031\|ךָ]] [[H9001\|וַ]][[H2388G\|יִּתְחַזֵּק֙]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וַ]][[H3427\|יֵּ֖שֶׁב]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4296\|מִּטָּֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.48.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.48.1|<< Genesis 48:1]]</td><td align="center" style="border:none;">[[Gen.48|Genesis 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.48.3|Genesis 48:3 >>]]</td></tr></table>
 

@@ -1,8 +1,74 @@
+---
+title: 2 Samuel 21:9
+type: Verse
+kjv: "And he delivered them into the hands of the Gibeonites, and they hanged them in the hill before the LORD: and they fell all seven together, and were put to death in the days of harvest, in the first days, in the beginning of barley harvest."
+bsb: "And he delivered them into the hands of the Gibeonites, and they hanged them on the hill before the LORD. So all seven of them fell together; they were put to death in the first days of the harvest, at the beginning of the barley harvest."
+hebrew: "וַֽיִּתְּנֵ֞ם בְּיַ֣ד הַגִּבְעֹנִ֗ים וַיֹּקִיעֻ֤ם בָּהָר֙ לִפְנֵ֣י יְהוָ֔ה וַיִּפְּל֥וּ שְׁבַעְתָּ֖ם יָ֑חַד וְהֵ֨מָּה הֻמְת֜וּ בִּימֵ֤י קָצִיר֙ בָּרִ֣אשֹׁנִ֔ים בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃"
+pericope: "[[2Sam.21.1 David Avenges the Gibeonites|David Avenges the Gibeonites]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 21
+book/chapter: "[[2Sam.21|2 Samuel 21]]"
+chronological_order: 429
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ADRIEL|ADRIEL]]"
+- "[[topic AJAH|AJAH]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GIBEON|GIBEON]]"
+- "[[topic MEPHIBOSHETH|MEPHIBOSHETH]]"
+- "[[topic RIZPAH|RIZPAH]]"
+- "[[topic SAUL|SAUL]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9009]]"
+- "[[H1393]]"
+- "[[H3363]]"
+- "[[H2022G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H5307J]]"
+- "[[H7659]]"
+- "[[H7651]]"
+- "[[H9028]]"
+- "[[H3162A]]"
+- "[[H9002]]"
+- "[[H1992]]"
+- "[[H4191]]"
+- "[[H3117G]]"
+- "[[H7105A]]"
+- "[[H7223G]]"
+- "[[H8462]]"
+- "[[H8184]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Samuel 21:9**<big><big>[[2Sam.21.1 David Avenges the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he delivered them into the hands of the Gibeonites, and they hanged them in the hill before the LORD: and they fell [all] seven together, and were put to death in the days of harvest, in the first [days], in the beginning of barley harvest.
 <small><sub>**BSB:**</sub></small>
 And he delivered them into the hands of the Gibeonites, and they hanged them on the hill before the LORD. So all seven of them fell together; they were put to death in the first days of the harvest, at the beginning of the barley harvest.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H5414G\|יִּתְּנֵ֞]][[H9038\|ם]] [[H9003\|בְּ]][[H3027H\|יַ֣ד]] [[H9009\|הַ]][[H1393\|גִּבְעֹנִ֗ים]] [[H9001\|וַ]][[H3363\|יֹּקִיעֻ֤]][[H9038\|ם]] [[H9003\|בָּ]][[H2022G\|הָר֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H5307J\|יִּפְּל֥וּ]] [[H7651\|שְׁבַעְתָּ֖]][[H9028\|ם]] [[H3162A\|יָ֑חַד]] [[H9002\|וְ]][[H1992\|הֵ֨מָּה]] [[H4191\|הֻמְת֜וּ]] [[H9003\|בִּ]][[H3117G\|ימֵ֤י]] [[H7105A\|קָצִיר֙]] [[H9003\|בָּ]][[H7223G\|רִ֣אשֹׁנִ֔ים]] [[H9003\|בִּ]][[H8462\|תְחִלַּ֖ת]] [[H7105A\|קְצִ֥יר]] [[H8184\|שְׂעֹרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADRIEL|ADRIEL]] • [[topic AJAH|AJAH]] • [[topic DAVID|DAVID]] • [[topic GIBEON|GIBEON]] • [[topic MEPHIBOSHETH|MEPHIBOSHETH]] • [[topic RIZPAH|RIZPAH]] • [[topic SAUL|SAUL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.21.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.8|<< 2 Samuel 21:8]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.10|2 Samuel 21:10 >>]]</td></tr></table>
 

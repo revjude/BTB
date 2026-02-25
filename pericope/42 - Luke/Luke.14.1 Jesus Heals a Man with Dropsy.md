@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Heals a Man with Dropsy
+type: Pericope
 pericope: "[[Luke.14.1 Jesus Heals a Man with Dropsy|Jesus Heals a Man with Dropsy]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Luke
 chapter: 14
 book/chapter: "[[Luke.14|Luke 14]]"
-genre:
+chronological_order: 976
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 6
 verses:
 - "[[Luke.14.1]]"
 - "[[Luke.14.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Luke.14.6]]"
 ---
 
-[[Luke.14|Luke 14:1 - Luke 14:6]]
+<small>[[Luke.14|Luke 14:1-6]]</small>
 *Jesus Heals a Man with Dropsy*
 
 [[Luke.14.1|1]] And it came to pass, as he went into the house of one of the chief Pharisees to eat bread on the sabbath day, that they watched him.

@@ -1,8 +1,48 @@
+---
+title: Proverbs 16:31
+type: Verse
+kjv: "The hoary head is a crown of glory, if it be found in the way of righteousness."
+bsb: "Gray hair is a crown of glory; it is attained along the path of righteousness."
+hebrew: "עֲטֶ֣רֶת תִּפְאֶ֣רֶת שֵׂיבָ֑ה בְּדֶ֥רֶךְ צְ֝דָקָ֗ה תִּמָּצֵֽא׃"
+pericope: "[[Prov.16.1 The Reply of the Tongue Is from the LORD|The Reply of the Tongue Is from the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 16
+book/chapter: "[[Prov.16|Proverbs 16]]"
+chronological_order: 471
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic OLD AGE|OLD AGE]]"
+strongs:
+- "[[H5850]]"
+- "[[H8597]]"
+- "[[H7872]]"
+- "[[H9003]]"
+- "[[H1870G]]"
+- "[[H6666]]"
+- "[[H4672]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 16:31**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The hoary head [is] a crown of glory, [if] it be found in the way of righteousness.
 <small><sub>**BSB:**</sub></small>
 Gray hair is a crown of glory; it is attained along the path of righteousness.
+<small><sub>**Hebrew:**</sub></small>
+[[H5850\|עֲטֶ֣רֶת]] [[H8597\|תִּפְאֶ֣רֶת]] [[H7872\|שֵׂיבָ֑ה]] [[H9003\|בְּ]][[H1870G\|דֶ֥רֶךְ]] [[H6666\|צְ֝דָקָ֗ה]] [[H4672\|תִּמָּצֵֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OLD AGE|OLD AGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.16.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.30|<< Proverbs 16:30]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.32|Proverbs 16:32 >>]]</td></tr></table>
 

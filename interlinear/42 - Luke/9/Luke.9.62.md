@@ -1,10 +1,71 @@
+---
+title: Luke 9:62
+type: Verse
+kjv: "And Jesus said unto him, No man, having put his hand to the plough, and looking back, is fit for the kingdom of God."
+bsb: "Then Jesus declared, “No one who puts his hand to the plow and then looks back is fit for the kingdom of God.”"
+jesus_said: "No man, having put his hand to the plough, and looking back, is fit for the kingdom of God."
+greek: "εἶπεν δὲ πρὸς αὐτὸν ὁ Ἰησοῦς· οὐδεὶς ἐπιβαλὼν τὴν χεῖρα αὐτοῦ ἐπ᾽ ἄροτρον καὶ βλέπων εἰς τὰ ὀπίσω εὔθετός ἐστιν εἰς τῇ βασιλείᾳ τοῦ θεοῦ.¶"
+pericope: "[[Luke.9.57 The Cost of Discipleship|The Cost of Discipleship]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CARE|CARE]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic EXCUSES|EXCUSES]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3762]]"
+- "[[G1911]]"
+- "[[G5495]]"
+- "[[G1909]]"
+- "[[G0723]]"
+- "[[G2532]]"
+- "[[G0991]]"
+- "[[G1519]]"
+- "[[G3694]]"
+- "[[G2111]]"
+- "[[G1510]]"
+- "[[G0932]]"
+- "[[G2316]]"
+texts:
+- NKO
+- ko
+- k
+- N(k)O
+---
+
 **Luke 9:62**<big><big>[[Luke.9.57 The Cost of Discipleship|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus said unto him, No man, having put his hand to the plough, and looking back, is fit for the kingdom of God.
 <small><sub>**BSB:**</sub></small>
 Then Jesus declared, “No one who puts his hand to the plow and then looks back is fit for the kingdom of God.”
-<small><sub>**Literal:**</sub></small>
-Said then to him <the> Jesus: No [one] having laid the hand of him upon [the] plow and looking on the [things] back suitable is for the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.61|<< Luke 9:61]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.1|Luke 10:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G3762\|οὐδεὶς]]  [[G1911\|ἐπιβαλὼν]]  [[G3588\|τὴν]]  [[G5495\|χεῖρα]]  [[G0846\|αὐτοῦ]]  [[G1909\|ἐπ᾽]]  [[G0723\|ἄροτρον]]  [[G2532\|καὶ]]  [[G0991\|βλέπων]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G3694\|ὀπίσω]]  [[G2111\|εὔθετός]]  [[G1510\|ἐστιν]]  [[G1519\|εἰς]]  [[G3588\|τῇ]]  [[G0932\|βασιλείᾳ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CARE|CARE]] • [[topic CHARACTER|CHARACTER]] • [[topic DECISION|DECISION]] • [[topic EXCUSES|EXCUSES]] • [[topic INSTABILITY|INSTABILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROCRASTINATION|PROCRASTINATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.61|<< Luke 9:61]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.1|Luke 10:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

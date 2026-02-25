@@ -1,10 +1,70 @@
+---
+title: 2 Peter 1:4
+type: Verse
+kjv: "Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust."
+bsb: "Through these He has given us His precious and magnificent promises, so that through them you may become partakers of the divine nature, now that you have escaped the corruption in the world caused by evil desires."
+greek: "δι᾽ ὧν τὰ τίμια καὶ μέγιστα ἡμῖν ἐπαγγέλματα δεδώρηται, ἵνα διὰ τούτων γένησθε θείας κοινωνοὶ φύσεως ἀποφυγόντες τῆς ἐν τῷ κόσμῳ ἐν ἐπιθυμίᾳ φθορᾶς."
+pericope: "[[2Pet.1.3 Partakers of the Divine Nature|Partakers of the Divine Nature]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 1
+book/chapter: "[[2Pet.1|2 Peter 1]]"
+chronological_order: 1157
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CORRUPTION|CORRUPTION]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G1223]]"
+- "[[G3739]]"
+- "[[G3588]]"
+- "[[G5093]]"
+- "[[G2532]]"
+- "[[G3173]]"
+- "[[G3165]]"
+- "[[G1862]]"
+- "[[G1433]]"
+- "[[G2443]]"
+- "[[G3778]]"
+- "[[G1096]]"
+- "[[G2304]]"
+- "[[G2844]]"
+- "[[G5449]]"
+- "[[G0668]]"
+- "[[G1722]]"
+- "[[G2889]]"
+- "[[G1939]]"
+- "[[G5356]]"
+texts:
+- NKO
+- no
+---
+
 **2 Peter 1:4**<big><big>[[2Pet.1.3 Partakers of the Divine Nature|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust.
 <small><sub>**BSB:**</sub></small>
 Through these He has given us His precious and magnificent promises, so that through them you may become partakers of the divine nature, now that you have escaped the corruption in the world caused by evil desires.
-<small><sub>**Literal:**</sub></small>
-through which the precious and magnificent to us promises He has himself given, so that through these you may become of [the] divine partakers nature having escaped the in the world in desire decay.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.3|<< 2 Peter 1:3]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.5|2 Peter 1:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|δι᾽]]  [[G3739\|ὧν]]  [[G3588\|τὰ]]  [[G5093\|τίμια]]  [[G2532\|καὶ]]  [[G3173\|μέγιστα]]  [[G3165\|ἡμῖν]]  [[G1862\|ἐπαγγέλματα]]  [[G1433\|δεδώρηται,]]  [[G2443\|ἵνα]]  [[G1223\|διὰ]]  [[G3778\|τούτων]]  [[G1096\|γένησθε]]  [[G2304\|θείας]]  [[G2844\|κοινωνοὶ]]  [[G5449\|φύσεως]]  [[G0668\|ἀποφυγόντες]]  [[G3588\|τῆς]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2889\|κόσμῳ]]  [[G1722\|ἐν]]  [[G1939\|ἐπιθυμίᾳ]]  [[G5356\|φθορᾶς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic BLESSING|BLESSING]] • [[topic CORRUPTION|CORRUPTION]] • [[topic HOLINESS|HOLINESS]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic SIN|SIN]] • [[topic WISDOM|WISDOM]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.3|<< 2 Peter 1:3]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.5|2 Peter 1:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

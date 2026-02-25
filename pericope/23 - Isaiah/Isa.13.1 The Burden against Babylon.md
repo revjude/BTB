@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Burden against Babylon
+type: Pericope
 pericope: "[[Isa.13.1 The Burden against Babylon|The Burden against Babylon]]"
-verse_count: 22
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 13
 book/chapter: "[[Isa.13|Isaiah 13]]"
-genre:
+chronological_order: 630
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 22
 verses:
 - "[[Isa.13.1]]"
 - "[[Isa.13.2]]"
@@ -41,7 +48,7 @@ verses:
 - "[[Isa.13.22]]"
 ---
 
-[[Isa.13|Isaiah 13:1 - Isaiah 13:22]]
+<small>[[Isa.13|Isaiah 13:1-22]]</small>
 *The Burden against Babylon*
 
 [[Isa.13.1|1]] The burden of Babylon, which Isaiah the son of Amoz did see.

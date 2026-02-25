@@ -1,8 +1,71 @@
+---
+title: Genesis 36:6
+type: Verse
+kjv: "And Esau took his wives, and his sons, and his daughters, and all the persons of his house, and his cattle, and all his beasts, and all his substance, which he had got in the land of Canaan; and went into the country from the face of his brother Jacob."
+bsb: "Later, Esau took his wives and sons and daughters and all the people of his household, along with his livestock, all his other animals, and all the property he had acquired in Canaan, and he moved to a land far away from his brother Jacob."
+hebrew: "וַיִּקַּ֣ח עֵשָׂ֡ו אֶת־ נָ֠שָׁיו וְאֶת־ בָּנָ֣יו וְאֶת־ בְּנֹתָיו֮ וְאֶת־ כָּל־ נַפְשׁ֣וֹת בֵּיתוֹ֒ וְאֶת־ מִקְנֵ֣הוּ וְאֶת־ כָּל־ בְּהֶמְתּ֗וֹ וְאֵת֙ כָּל־ קִנְיָנ֔וֹ אֲשֶׁ֥ר רָכַ֖שׁ בְּאֶ֣רֶץ כְּנָ֑עַן וַיֵּ֣לֶךְ אֶל־ אֶ֔רֶץ מִפְּנֵ֖י יַעֲקֹ֥ב אָחִֽיו׃"
+pericope: "[[Gen.36.1 The Descendants of Esau|The Descendants of Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 36
+book/chapter: "[[Gen.36|Genesis 36]]"
+chronological_order: 78
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic JACOB|JACOB]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H6215G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H1323G]]"
+- "[[H3605]]"
+- "[[H5315J]]"
+- "[[H1004M]]"
+- "[[H4735]]"
+- "[[H0929]]"
+- "[[H7075]]"
+- "[[H0834A]]"
+- "[[H7408]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H1980G]]"
+- "[[H0413]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H3290]]"
+- "[[H0251G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 36:6**<big><big>[[Gen.36.1 The Descendants of Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Esau took his wives, and his sons, and his daughters, and all the persons of his house, and his cattle, and all his beasts, and all his substance, which he had got in the land of Canaan; and went into the country from the face of his brother Jacob.
 <small><sub>**BSB:**</sub></small>
 Later, Esau took his wives and sons and daughters and all the people of his household, along with his livestock, all his other animals, and all the property he had acquired in Canaan, and he moved to a land far away from his brother Jacob.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֣ח]] [[H6215G\|עֵשָׂ֡ו]] [[H0853\|אֶת]][[H9014\|־]] [[H0802H\|נָ֠שָׁי]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בָּנָ֣י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1323G\|בְּנֹתָי]][[H9023\|ו֮]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5315J\|נַפְשׁ֣וֹת]] [[H1004M\|בֵּית]][[H9023\|וֹ֒]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4735\|מִקְנֵ֣]][[H9023\|הוּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0929\|בְּהֶמְתּ֗]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H3605\|כָּל]][[H9014\|־]] [[H7075\|קִנְיָנ֔]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֥ר]] [[H7408\|רָכַ֖שׁ]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H3667A\|כְּנָ֑עַן]] [[H9001\|וַ]][[H1980G\|יֵּ֣לֶךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֔רֶץ]] [[H9006\|מִ]][[H6440G\|פְּנֵ֖י]] [[H3290\|יַעֲקֹ֥ב]] [[H0251G\|אָחִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACOB|JACOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.5|<< Genesis 36:5]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.7|Genesis 36:7 >>]]</td></tr></table>
 

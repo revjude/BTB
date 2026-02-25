@@ -1,6 +1,52 @@
+---
+title: LXX 2 Kings 25:12
+type: Verse
+lxx: "And of the poor of the land the chief guard left behind as vine dressers and farmers."
+greek: "και από των πτωχών της γης υπέλιπεν ο αρχιμάγειρος εις αμπελουργούς και γεωργούς"
+original_language: Greek
+testament: Old
+book: 2 Kings
+chapter: 25
+book/chapter: "[[2Kgs.25|2 Kings 25]]"
+chronological_order: 742
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G4434]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G5275]]"
+- "[[G3588]]"
+- "[[G6554]]"
+- "[[G1519]]"
+- "[[G0289]]"
+- "[[G2532]]"
+- "[[G1092]]"
+---
+
 **LXX 2 Kings 25:12** 
 <small><sub>**LXX:**</sub></small>
 And of the poor of the land the chief guard left behind as vine dressers and farmers. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0575\|από]] [[G3588\|των]] [[G4434\|πτωχών]] [[G3588\|της]] [[G1093\|γης]] [[G5275\|υπέλιπεν]] [[G3588\|ο]] [[G6554\|αρχιμάγειρος]] [[G1519\|εις]] [[G0289\|αμπελουργούς]] [[G2532\|και]] [[G1092\|γεωργούς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]] • [[topic PROPHECY|PROPHECY]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Kgs.25.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.11|<< 2 Kings 25:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.13|2 Kings 25:13 >>]]</td></tr></table>
 
@@ -19,6 +65,6 @@ And of the poor of the land the chief guard left behind as vine dressers and far
 | vine dressers | **<big>[[G0289\|αμπελουργούς]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | farmers. | **<big>[[G1092\|γεωργούς]]</big>** |
-[[2Kgs.25.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.11|<< 2 Kings 25:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.13|2 Kings 25:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.11|<< 2 Kings 25:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.13|2 Kings 25:13 >>]]</td></tr></table>
 
 

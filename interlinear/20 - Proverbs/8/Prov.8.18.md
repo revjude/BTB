@@ -1,8 +1,50 @@
+---
+title: Proverbs 8:18
+type: Verse
+kjv: "Riches and honour are with me; yea, durable riches and righteousness."
+bsb: "With me are riches and honor, enduring wealth and righteousness."
+hebrew: "עֹֽשֶׁר־ וְכָב֥וֹד אִתִּ֑י ה֥וֹן עָ֝תֵ֗ק וּצְדָקָֽה׃"
+pericope: "[[Prov.8.1 The Excellence of Wisdom|The Excellence of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 8
+book/chapter: "[[Prov.8|Proverbs 8]]"
+chronological_order: 463
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H6239]]"
+- "[[H9014]]"
+- "[[H9002]]"
+- "[[H3519]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H1952]]"
+- "[[H6276]]"
+- "[[H6666]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 8:18**<big><big>[[Prov.8.1 The Excellence of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Riches and honour [are] with me; [yea], durable riches and righteousness.
 <small><sub>**BSB:**</sub></small>
 With me are riches and honor, enduring wealth and righteousness.
+<small><sub>**Hebrew:**</sub></small>
+[[H6239\|עֹֽשֶׁר]][[H9014\|־]] [[H9002\|וְ]][[H3519\|כָב֥וֹד]] [[H0854\|אִתִּ֑]][[H9030\|י]] [[H1952\|ה֥וֹן]] [[H6276\|עָ֝תֵ֗ק]] [[H9002\|וּ]][[H6666\|צְדָקָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.17|<< Proverbs 8:17]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.19|Proverbs 8:19 >>]]</td></tr></table>
 

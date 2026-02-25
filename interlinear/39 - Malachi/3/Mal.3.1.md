@@ -1,8 +1,77 @@
+---
+title: Malachi 3:1
+type: Verse
+kjv: "Behold, I will send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the LORD of hosts."
+bsb: "“Behold, I will send My messenger, who will prepare the way before Me. Then the Lord whom you seek will suddenly come to His temple—the Messenger of the covenant, in whom you delight—see, He is coming,” says the LORD of Hosts."
+hebrew: "הִנְנִ֤י שֹׁלֵחַ֙ מַלְאָכִ֔י וּפִנָּה־ דֶ֖רֶךְ לְפָנָ֑י וּפִתְאֹם֩ יָב֨וֹא אֶל־ הֵיכָל֜וֹ הָאָד֣וֹן׀ אֲשֶׁר־ אַתֶּ֣ם מְבַקְשִׁ֗ים וּמַלְאַ֨ךְ הַבְּרִ֜ית אֲשֶׁר־ אַתֶּ֤ם חֲפֵצִים֙ הִנֵּה־ בָ֔א אָמַ֖ר יְהוָ֥ה צְבָאֽוֹת׃"
+pericope: "[[Mal.3.1 I Will Send My Messenger|I Will Send My Messenger]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 3
+book/chapter: "[[Mal.3|Malachi 3]]"
+chronological_order: 928
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MALACHI|MALACHI]]"
+- "[[topic MESSENGER|MESSENGER]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H7971G]]"
+- "[[H4397G]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H6437G]]"
+- "[[H9014]]"
+- "[[H1870K]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9002]]"
+- "[[H6597]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H1964G]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H0113]]"
+- "[[H9015]]"
+- "[[H0834A]]"
+- "[[H0859D]]"
+- "[[H1245]]"
+- "[[H1285]]"
+- "[[H2655]]"
+- "[[H2009]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 3:1**<big><big>[[Mal.3.1 I Will Send My Messenger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
 “Behold, I will send My messenger, who will prepare the way before Me. Then the Lord whom you seek will suddenly come to His temple—the Messenger of the covenant, in whom you delight—see, He is coming,” says the LORD of Hosts.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנְ]][[H9040\|נִ֤י]] [[H7971G\|שֹׁלֵחַ֙]] [[H4397G\|מַלְאָכִ֔]][[H9020\|י]] [[H9001\|וּ]][[H6437G\|פִנָּה]][[H9014\|־]] [[H1870K\|דֶ֖רֶךְ]] [[H9005\|לְ]][[H6440G\|פָנָ֑]][[H9020\|י]] [[H9002\|וּ]][[H6597\|פִתְאֹם֩]] [[H0935G\|יָב֨וֹא]] [[H0413\|אֶל]][[H9014\|־]] [[H1964G\|הֵיכָל֜]][[H9023\|וֹ]] [[H9009\|הָ]][[H0113\|אָד֣וֹן]][[H9015\|׀]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0859D\|אַתֶּ֣ם]] [[H1245\|מְבַקְשִׁ֗ים]] [[H9002\|וּ]][[H4397G\|מַלְאַ֨ךְ]] [[H9009\|הַ]][[H1285\|בְּרִ֜ית]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0859D\|אַתֶּ֤ם]] [[H2655\|חֲפֵצִים֙]] [[H2009\|הִנֵּה]][[H9014\|־]] [[H0935G\|בָ֔א]] [[H0559\|אָמַ֖ר]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MALACHI|MALACHI]] • [[topic MESSENGER|MESSENGER]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.2.17|<< Malachi 2:17]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.2|Malachi 3:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

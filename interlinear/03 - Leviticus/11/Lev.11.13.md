@@ -1,8 +1,66 @@
+---
+title: Leviticus 11:13
+type: Verse
+kjv: "And these are they which ye shall have in abomination among the fowls; they shall not be eaten, they are an abomination: the eagle, and the ossifrage, and the ospray,"
+bsb: "Additionally, you are to detest the following birds, and they must not be eaten because they are detestable: the eagle, the bearded vulture, the black vulture,"
+hebrew: "וְאֶת־ אֵ֙לֶּה֙ תְּשַׁקְּצ֣וּ מִן־ הָע֔וֹף לֹ֥א יֵאָכְל֖וּ שֶׁ֣קֶץ הֵ֑ם אֶת־ הַנֶּ֙שֶׁר֙ וְאֶת־ הַפֶּ֔רֶס וְאֵ֖ת הָעָזְנִיָּֽה׃"
+pericope: "[[Lev.11.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 11
+book/chapter: "[[Lev.11|Leviticus 11]]"
+chronological_order: 143
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic EAGLE|EAGLE]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic OSPREY|OSPREY]]"
+- "[[topic OSSIFRAGE|OSSIFRAGE]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0428]]"
+- "[[H8262]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H5775]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H8263]]"
+- "[[H1992]]"
+- "[[H5404]]"
+- "[[H6538]]"
+- "[[H5822]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 11:13**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are they which] ye shall have in abomination among the fowls; they shall not be eaten, they [are] an abomination: the eagle, and the ossifrage, and the ospray,
 <small><sub>**BSB:**</sub></small>
 Additionally, you are to detest the following birds, and they must not be eaten because they are detestable: the eagle, the bearded vulture, the black vulture,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0428\|אֵ֙לֶּה֙]] [[H8262\|תְּשַׁקְּצ֣וּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5775\|ע֔וֹף]] [[H3808\|לֹ֥א]] [[H0398\|יֵאָכְל֖וּ]] [[H8263\|שֶׁ֣קֶץ]] [[H1992\|הֵ֑ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5404\|נֶּ֙שֶׁר֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6538\|פֶּ֔רֶס]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H9009\|הָ]][[H5822\|עָזְנִיָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRDS|BIRDS]] • [[topic EAGLE|EAGLE]] • [[topic FOOD|FOOD]] • [[topic OSPREY|OSPREY]] • [[topic OSSIFRAGE|OSSIFRAGE]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.12|<< Leviticus 11:12]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.14|Leviticus 11:14 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Joshua 6:20
+type: Verse
+kjv: "So the people shouted when the priests blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city."
+bsb: "So when the rams’ horns sounded, the people shouted. When they heard the blast of the horn, the people gave a great shout, and the wall collapsed. Then all the people charged straight into the city and captured it."
+hebrew: "וַיָּ֣רַע הָעָ֔ם וַֽיִּתְקְע֖וּ בַּשֹּֽׁפָר֑וֹת וַיְהִי֩ כִשְׁמֹ֨עַ הָעָ֜ם אֶת־ ק֣וֹל הַשּׁוֹפָ֗ר וַיָּרִ֤יעוּ הָעָם֙ תְּרוּעָ֣ה גְדוֹלָ֔ה וַתִּפֹּ֨ל הַֽחוֹמָ֜ה תַּחְתֶּ֗יהָ וַיַּ֨עַל הָעָ֤ם הָעִ֙ירָה֙ אִ֣ישׁ נֶגְדּ֔וֹ וַֽיִּלְכְּד֖וּ אֶת־ הָעִֽיר׃"
+pericope: "[[Josh.6.1 The Walls of Jericho|The Walls of Jericho]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 6
+book/chapter: "[[Josh.6|Joshua 6]]"
+chronological_order: 236
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic RAHAB|RAHAB]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9001]]"
+- "[[H7321]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H8628]]"
+- "[[H9003]]"
+- "[[H7782]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6963H]]"
+- "[[H8643]]"
+- "[[H1419A]]"
+- "[[H5307G]]"
+- "[[H2346G]]"
+- "[[H8478J]]"
+- "[[H9034]]"
+- "[[H5927G]]"
+- "[[H5892B]]"
+- "[[H9011]]"
+- "[[H0376I]]"
+- "[[H5048]]"
+- "[[H9033]]"
+- "[[H3920]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 6:20**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the people shouted when [the priests] blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city.
 <small><sub>**BSB:**</sub></small>
 So when the rams’ horns sounded, the people shouted. When they heard the blast of the horn, the people gave a great shout, and the wall collapsed. Then all the people charged straight into the city and captured it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7321\|יָּ֣רַע]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9001\|וַֽ]][[H8628\|יִּתְקְע֖וּ]] [[H9003\|בַּ]][[H7782\|שֹּֽׁפָר֑וֹת]] [[H9001\|וַ]][[H1961\|יְהִי֩]] [[H9004\|כִ]][[H8085G\|שְׁמֹ֨עַ]] [[H9009\|הָ]][[H5971A\|עָ֜ם]] [[H0853\|אֶת]][[H9014\|־]] [[H6963H\|ק֣וֹל]] [[H9009\|הַ]][[H7782\|שּׁוֹפָ֗ר]] [[H9001\|וַ]][[H7321\|יָּרִ֤יעוּ]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H8643\|תְּרוּעָ֣ה]] [[H1419A\|גְדוֹלָ֔ה]] [[H9001\|וַ]][[H5307G\|תִּפֹּ֨ל]] [[H9009\|הַֽ]][[H2346G\|חוֹמָ֜ה]] [[H8478J\|תַּחְתֶּ֗י]][[H9034\|הָ]] [[H9001\|וַ]][[H5927G\|יַּ֨עַל]] [[H9009\|הָ]][[H5971A\|עָ֤ם]] [[H9009\|הָ]][[H5892B\|עִ֙ירָ]][[H9011\|ה֙]] [[H0376I\|אִ֣ישׁ]] [[H5048\|נֶגְדּ֔]][[H9033\|וֹ]] [[H9001\|וַֽ]][[H3920\|יִּלְכְּד֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic MIRACLES|MIRACLES]] • [[topic RAHAB|RAHAB]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.19|<< Joshua 6:19]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.21|Joshua 6:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

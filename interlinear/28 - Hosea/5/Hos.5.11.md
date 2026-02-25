@@ -1,8 +1,51 @@
+---
+title: Hosea 5:11
+type: Verse
+kjv: "Ephraim is oppressed and broken in judgment, because he willingly walked after the commandment."
+bsb: "Ephraim is oppressed, crushed in judgment, for he is determined to follow worthless idols."
+hebrew: "עָשׁ֥וּק אֶפְרַ֖יִם רְצ֣וּץ מִשְׁפָּ֑ט כִּ֣י הוֹאִ֔יל הָלַ֖ךְ אַחֲרֵי־ צָֽו׃"
+pericope: "[[Hos.5.1 Judgment on Israel and Judah|Judgment on Israel and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 5
+book/chapter: "[[Hos.5|Hosea 5]]"
+chronological_order: 646
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+strongs:
+- "[[H6231]]"
+- "[[H0669G]]"
+- "[[H7533]]"
+- "[[H4941G]]"
+- "[[H3588A]]"
+- "[[H2974]]"
+- "[[H1980N]]"
+- "[[H0310A]]"
+- "[[H9014]]"
+- "[[H6673]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 5:11**<big><big>[[Hos.5.1 Judgment on Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ephraim [is] oppressed [and] broken in judgment, because he willingly walked after the commandment.
 <small><sub>**BSB:**</sub></small>
 Ephraim is oppressed, crushed in judgment, for he is determined to follow worthless idols.
+<small><sub>**Hebrew:**</sub></small>
+[[H6231\|עָשׁ֥וּק]] [[H0669G\|אֶפְרַ֖יִם]] [[H7533\|רְצ֣וּץ]] [[H4941G\|מִשְׁפָּ֑ט]] [[H3588A\|כִּ֣י]] [[H2974\|הוֹאִ֔יל]] [[H1980N\|הָלַ֖ךְ]] [[H0310A\|אַחֲרֵי]][[H9014\|־]] [[H6673\|צָֽו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.5.10|<< Hosea 5:10]]</td><td align="center" style="border:none;">[[Hos.5|Hosea 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.5.12|Hosea 5:12 >>]]</td></tr></table>
 

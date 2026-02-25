@@ -1,8 +1,74 @@
+---
+title: 1 Samuel 25:18
+type: Verse
+kjv: "Then Abigail made haste, and took two hundred loaves, and two bottles of wine, and five sheep ready dressed, and five measures of parched corn, and an hundred clusters of raisins, and two hundred cakes of figs, and laid them on asses."
+bsb: "Then Abigail hurried and took two hundred loaves of bread, two skins of wine, five butchered sheep, five seahs of roasted grain, a hundred clusters of raisins, and two hundred cakes of figs. She loaded them on donkeys"
+hebrew: "וַתְּמַהֵ֣ר אֲבִיגַ֡יִל וַתִּקַּח֩ מָאתַ֨יִם לֶ֜חֶם וּשְׁנַ֣יִם נִבְלֵי־ יַ֗יִן וְחָמֵ֨שׁ צֹ֤אן עֲשׂוּיֹת֙ וְחָמֵ֤שׁ סְאִים֙ קָלִ֔י וּמֵאָ֥ה צִמֻּקִ֖ים וּמָאתַ֣יִם דְּבֵלִ֑ים וַתָּ֖שֶׂם עַל־ הַחֲמֹרִֽים׃"
+pericope: "[[1Sam.25.18 Abigail Intercedes for Nabal|Abigail Intercedes for Nabal]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BREAD|BREAD]]"
+- "[[topic CORN|CORN]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FIG|FIG]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic NABAL|NABAL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic RAISINS|RAISINS]]"
+- "[[topic TACT|TACT]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H9001]]"
+- "[[H4116A]]"
+- "[[H0026G]]"
+- "[[H3947G]]"
+- "[[H3967]]"
+- "[[H3899H]]"
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H5035A]]"
+- "[[H9014]]"
+- "[[H3196]]"
+- "[[H2568]]"
+- "[[H6629G]]"
+- "[[H6213H]]"
+- "[[H5429]]"
+- "[[H7039]]"
+- "[[H6778]]"
+- "[[H1690]]"
+- "[[H7760H]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H2543]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **1 Samuel 25:18**<big><big>[[1Sam.25.18 Abigail Intercedes for Nabal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Abigail made haste, and took two hundred loaves, and two bottles of wine, and five sheep ready dressed, and five measures of parched [corn], and an hundred clusters of raisins, and two hundred cakes of figs, and laid [them] on asses.
 <small><sub>**BSB:**</sub></small>
 Then Abigail hurried and took two hundred loaves of bread, two skins of wine, five butchered sheep, five seahs of roasted grain, a hundred clusters of raisins, and two hundred cakes of figs. She loaded them on donkeys
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4116A\|תְּמַהֵ֣ר]] [[H0026G\|אֲבִיגַ֡יִל]] [[H9001\|וַ]][[H3947G\|תִּקַּח֩]] [[H3967\|מָאתַ֨יִם]] [[H3899H\|לֶ֜חֶם]] [[H9002\|וּ]][[H8147\|שְׁנַ֣יִם]] [[H5035A\|נִבְלֵי]][[H9014\|־]] [[H3196\|יַ֗יִן]] [[H9002\|וְ]][[H2568\|חָמֵ֨שׁ]] [[H6629G\|צֹ֤אן]] [[H6213H\|עֲשׂוּיֹת֙]] [[H9002\|וְ]][[H2568\|חָמֵ֤שׁ]] [[H5429\|סְאִים֙]] [[H7039\|קָלִ֔י]] [[H9002\|וּ]][[H3967\|מֵאָ֥ה]] [[H6778\|צִמֻּקִ֖ים]] [[H9002\|וּ]][[H3967\|מָאתַ֣יִם]] [[H1690\|דְּבֵלִ֑ים]] [[H9001\|וַ]][[H7760H\|תָּ֖שֶׂם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H2543\|חֲמֹרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREAD|BREAD]] • [[topic CORN|CORN]] • [[topic DECISION|DECISION]] • [[topic FIG|FIG]] • [[topic FOOD|FOOD]] • [[topic MEASURE|MEASURE]] • [[topic NABAL|NABAL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic RAISINS|RAISINS]] • [[topic TACT|TACT]] • [[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.17|<< 1 Samuel 25:17]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.19|1 Samuel 25:19 >>]]</td></tr></table>
 

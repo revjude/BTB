@@ -1,6 +1,79 @@
+---
+title: LXX Jonah 3:7
+type: Verse
+lxx: "And it was proclaimed and was spoken in  Nineveh by the king, and by  his great men, saying, The men, and the cattle, and the oxen, and the sheep -- let them not taste, nor feed, and let them not drink water!"
+greek: "και εκηρύχθη και ερρέθη εν τη Νινευϊ παρά του βασιλέως και παρά των μεγιστάνων αυτού λεγόντων οι άνθρωποι και τα κτήνη και οι βόες και τα πρόβατα μη γευσάσθωσαν μηδέ νεμέσθωσαν και ύδωρ μη πιέτωσαν"
+original_language: Greek
+testament: Old
+book: Jonah
+chapter: 3
+book/chapter: "[[Jonah.3|Jonah 3]]"
+chronological_order: 596
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic FASTING|FASTING]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MISSIONS|MISSIONS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2784]]"
+- "[[G2532]]"
+- "[[G2046]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3535]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2532]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G3175]]"
+- "[[G1473]]"
+- "[[G3004]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2934]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1016]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4263]]"
+- "[[G3361]]"
+- "[[G1089]]"
+- "[[G3366]]"
+- "[[G8385]]"
+- "[[G2532]]"
+- "[[G5204]]"
+- "[[G3361]]"
+- "[[G4095]]"
+---
+
 **LXX Jonah 3:7** 
 <small><sub>**LXX:**</sub></small>
 And it was proclaimed and was spoken in  Nineveh by the king, and by  his great men, saying, The men, and the cattle, and the oxen, and the sheep -- let them not taste, nor feed, and let them not drink water! 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2784\|εκηρύχθη]] [[G2532\|και]] [[G2046\|ερρέθη]] [[G1722\|εν]] [[G3588\|τη]] [[G3535\|Νινευϊ]] [[G3844\|παρά]] [[G3588\|του]] [[G0935\|βασιλέως]] [[G2532\|και]] [[G3844\|παρά]] [[G3588\|των]] [[G3175\|μεγιστάνων]] [[G1473\|αυτού]] [[G3004\|λεγόντων]] [[G3588\|οι]] [[G0444\|άνθρωποι]] [[G2532\|και]] [[G3588\|τα]] [[G2934\|κτήνη]] [[G2532\|και]] [[G3588\|οι]] [[G1016\|βόες]] [[G2532\|και]] [[G3588\|τα]] [[G4263\|πρόβατα]] [[G3361\|μη]] [[G1089\|γευσάσθωσαν]] [[G3366\|μηδέ]] [[G8385\|νεμέσθωσαν]] [[G2532\|και]] [[G5204\|ύδωρ]] [[G3361\|μη]] [[G4095\|πιέτωσαν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FASTING|FASTING]] • [[topic HEATHEN|HEATHEN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MISSIONS|MISSIONS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic ORATOR|ORATOR]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REVIVALS|REVIVALS]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jonah.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.3.6|<< Jonah 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.3.8|Jonah 3:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -43,6 +116,6 @@ And it was proclaimed and was spoken in  Nineveh by the king, and by  his great 
 | and | **<big>[[G2532\|και]]</big>** |
 | water | **<big>[[G5204\|ύδωρ]]</big>** |
 | let them not drink | **<big>[[G3361\|μη]]</big>** **<big>[[G4095\|πιέτωσαν]]</big>** |
-[[Jonah.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.3.6|<< Jonah 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.3.8|Jonah 3:8 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.3.6|<< Jonah 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.3.8|Jonah 3:8 >>]]</td></tr></table>
 
 

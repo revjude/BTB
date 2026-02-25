@@ -1,8 +1,63 @@
+---
+title: Numbers 21:18
+type: Verse
+kjv: "The princes digged the well, the nobles of the people digged it, by the direction of the lawgiver, with their staves. And from the wilderness they went to Mattanah:"
+bsb: "The princes dug the well; the nobles of the people hollowed it out with their scepters and with their staffs.” From the wilderness the Israelites went on to Mattanah,"
+hebrew: "בְּאֵ֞ר חֲפָר֣וּהָ שָׂרִ֗ים כָּר֙וּהָ֙ נְדִיבֵ֣י הָעָ֔ם בִּמְחֹקֵ֖ק בְּמִשְׁעֲנֹתָ֑ם וּמִמִּדְבָּ֖ר מַתָּנָֽה׃"
+pericope: "[[Num.21.10 The Journey to Moab|The Journey to Moab]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 21
+book/chapter: "[[Num.21|Numbers 21]]"
+chronological_order: 181
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BEER|BEER]]"
+- "[[topic MATTANAH|MATTANAH]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H0875]]"
+- "[[H2658]]"
+- "[[H9034]]"
+- "[[H8269]]"
+- "[[H3738B]]"
+- "[[H5081H]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9003]]"
+- "[[H2710]]"
+- "[[H4938B]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H4057B]]"
+- "[[H4980]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 21:18**<big><big>[[Num.21.10 The Journey to Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The princes digged the well, the nobles of the people digged it, by [the direction of] the lawgiver, with their staves. And from the wilderness [they went] to Mattanah:
 <small><sub>**BSB:**</sub></small>
 The princes dug the well; the nobles of the people hollowed it out with their scepters and with their staffs.” From the wilderness the Israelites went on to Mattanah,
+<small><sub>**Hebrew:**</sub></small>
+[[H0875\|בְּאֵ֞ר]] [[H2658\|חֲפָר֣וּ]][[H9034\|הָ]] [[H8269\|שָׂרִ֗ים]] [[H3738B\|כָּר֙וּ]][[H9034\|הָ֙]] [[H5081H\|נְדִיבֵ֣י]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9003\|בִּ]][[H2710\|מְחֹקֵ֖ק]] [[H9003\|בְּ]][[H4938B\|מִשְׁעֲנֹתָ֑]][[H9028\|ם]] [[H9002\|וּ]][[H9006\|מִ]][[H4057B\|מִּדְבָּ֖ר]] [[H4980\|מַתָּנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEER|BEER]] • [[topic MATTANAH|MATTANAH]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.17|<< Numbers 21:17]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.19|Numbers 21:19 >>]]</td></tr></table>
 

@@ -1,10 +1,62 @@
+---
+title: Mark 4:26
+type: Verse
+kjv: "And he said, So is the kingdom of God, as if a man should cast seed into the ground;"
+bsb: "Jesus also said, “The kingdom of God is like a man who scatters seed on the ground."
+jesus_said: "So is the kingdom of God, as if a man should cast seed into the ground;"
+greek: "Καὶ ἔλεγεν· οὕτως ἐστὶν ἡ βασιλεία τοῦ θεοῦ, ὡς ἐὰν ἄνθρωπος βάλῃ τὸν σπόρον ἐπὶ τῆς γῆς"
+pericope: "[[Mark.4.26 The Seed Growing Secretly|The Seed Growing Secretly]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 4
+book/chapter: "[[Mark.4|Mark 4]]"
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G3779]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G5613]]"
+- "[[G1437]]"
+- "[[G0444]]"
+- "[[G0906I]]"
+- "[[G4703]]"
+- "[[G1909]]"
+- "[[G1093I]]"
+texts:
+- NKO
+- ko
+---
+
 **Mark 4:26**<big><big>[[Mark.4.26 The Seed Growing Secretly|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said, So is the kingdom of God, as if a man should cast seed into the ground;
 <small><sub>**BSB:**</sub></small>
 Jesus also said, “The kingdom of God is like a man who scatters seed on the ground.
-<small><sub>**Literal:**</sub></small>
-And He was saying; Thus is the kingdom <the> of God, as if a man shall cast the seed upon the earth<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.25|<< Mark 4:25]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.27|Mark 4:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3004G\|ἔλεγεν·]]  [[G3779\|οὕτως]]  [[G1510\|ἐστὶν]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G5613\|ὡς]]  [[G1437\|ἐὰν]]  [[G0444\|ἄνθρωπος]]  [[G0906I\|βάλῃ]]  [[G3588\|τὸν]]  [[G4703\|σπόρον]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093I\|γῆς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic REGENERATION|REGENERATION]] • [[topic SERMON|SERMON]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.25|<< Mark 4:25]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.27|Mark 4:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

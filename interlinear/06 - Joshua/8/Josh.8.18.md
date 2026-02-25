@@ -1,8 +1,62 @@
+---
+title: Joshua 8:18
+type: Verse
+kjv: "And the LORD said unto Joshua, Stretch out the spear that is in thy hand toward Ai; for I will give it into thine hand. And Joshua stretched out the spear that he had in his hand toward the city."
+bsb: "Then the LORD said to Joshua, “Hold out your battle lance toward Ai, for into your hand I will deliver the city.” So Joshua held out his battle lance toward Ai,"
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה אֶל־ יְהוֹשֻׁ֗עַ נְ֠טֵה בַּכִּיד֤וֹן אֲשֶׁר־ בְּיָֽדְךָ֙ אֶל־ הָעַ֔י כִּ֥י בְיָדְךָ֖ אֶתְּנֶ֑נָּה וַיֵּ֧ט יְהוֹשֻׁ֛עַ בַּכִּיד֥וֹן אֲשֶׁר־ בְּיָד֖וֹ אֶל־ הָעִֽיר׃"
+pericope: "[[Josh.8.1 The Conquest of Ai|The Conquest of Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 8
+book/chapter: "[[Josh.8|Joshua 8]]"
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMBUSH|AMBUSH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3091G]]"
+- "[[H5186]]"
+- "[[H9003]]"
+- "[[H3591]]"
+- "[[H0834A]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H5857G]]"
+- "[[H3588A]]"
+- "[[H5414G]]"
+- "[[H9034]]"
+- "[[H9023]]"
+- "[[H5892B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 8:18**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Joshua, Stretch out the spear that [is] in thy hand toward Ai; for I will give it into thine hand. And Joshua stretched out the spear that [he had] in his hand toward the city.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Joshua, “Hold out your battle lance toward Ai, for into your hand I will deliver the city.” So Joshua held out his battle lance toward Ai,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֗עַ]] [[H5186\|נְ֠טֵה]] [[H9003\|בַּ]][[H3591\|כִּיד֤וֹן]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בְּ]][[H3027G\|יָֽדְ]][[H9021\|ךָ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5857G\|עַ֔י]] [[H3588A\|כִּ֥י]] [[H9003\|בְ]][[H3027G\|יָדְ]][[H9021\|ךָ֖]] [[H5414G\|אֶתְּנֶ֑]][[H9034\|נָּה]] [[H9001\|וַ]][[H5186\|יֵּ֧ט]] [[H3091G\|יְהוֹשֻׁ֛עַ]] [[H9003\|בַּ]][[H3591\|כִּיד֥וֹן]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בְּ]][[H3027G\|יָד֖]][[H9023\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBUSH|AMBUSH]] • [[topic ARMIES|ARMIES]] • [[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.17|<< Joshua 8:17]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.19|Joshua 8:19 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Calms the Storm
+type: Pericope
 pericope: "[[Matt.8.23 Jesus Calms the Storm|Jesus Calms the Storm]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 8
 book/chapter: "[[Matt.8|Matthew 8]]"
-genre:
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Matt.8.23]]"
 - "[[Matt.8.24]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Matt.8.27]]"
 ---
 
-[[Matt.8|Matthew 8:23 - Matthew 8:27]]
+<small>[[Matt.8|Matthew 8:23-27]]</small>
 *Jesus Calms the Storm*
 
 [[Matt.8.23|23]] And when he was entered into a ship, his disciples followed him.

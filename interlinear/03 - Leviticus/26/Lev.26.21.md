@@ -1,8 +1,78 @@
+---
+title: Leviticus 26:21
+type: Verse
+kjv: "And if ye walk contrary unto me, and will not hearken unto me; I will bring seven times more plagues upon you according to your sins."
+bsb: "If you walk in hostility toward Me and refuse to obey Me, I will multiply your plagues seven times, according to your sins."
+hebrew: "וְאִם־ תֵּֽלְכ֤וּ עִמִּי֙ קֶ֔רִי וְלֹ֥א תֹאב֖וּ לִשְׁמֹ֣עַֽ לִ֑י וְיָסַפְתִּ֤י עֲלֵיכֶם֙ מַכָּ֔ה שֶׁ֖בַע כְּחַטֹּאתֵיכֶֽם׃"
+pericope: "[[Lev.26.14 Punishments for Disobedience|Punishments for Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H1980I]]"
+- "[[H5973A]]"
+- "[[H9030]]"
+- "[[H7147]]"
+- "[[H3808]]"
+- "[[H0014]]"
+- "[[H9005]]"
+- "[[H8085G]]"
+- "[[H9001]]"
+- "[[H3254G]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H4347]]"
+- "[[H7651]]"
+- "[[H9004]]"
+- "[[H2403B]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 26:21**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if ye walk contrary unto me, and will not hearken unto me; I will bring seven times more plagues upon you according to your sins.
 <small><sub>**BSB:**</sub></small>
 If you walk in hostility toward Me and refuse to obey Me, I will multiply your plagues seven times, according to your sins.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H1980I\|תֵּֽלְכ֤וּ]] [[H5973A\|עִמִּ]][[H9030\|י֙]] [[H7147\|קֶ֔רִי]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0014\|תֹאב֖וּ]] [[H9005\|לִ]][[H8085G\|שְׁמֹ֣עַֽ]] [[H9005\|לִ֑]][[H9030\|י]] [[H9001\|וְ]][[H3254G\|יָסַפְתִּ֤י]] [[H5921A\|עֲלֵי]][[H9036\|כֶם֙]] [[H4347\|מַכָּ֔ה]] [[H7651\|שֶׁ֖בַע]] [[H9004\|כְּ]][[H2403B\|חַטֹּאתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic FAMINE|FAMINE]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PLAGUE|PLAGUE]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REWARD|REWARD]] • [[topic SEVEN|SEVEN]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.20|<< Leviticus 26:20]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.22|Leviticus 26:22 >>]]</td></tr></table>
 

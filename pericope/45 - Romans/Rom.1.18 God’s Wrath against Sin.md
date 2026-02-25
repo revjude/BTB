@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Wrath against Sin
+type: Pericope
 pericope: "[[Rom.1.18 God’s Wrath against Sin|God’s Wrath against Sin]]"
-verse_count: 15
+original_language: Greek
 testament: New
 book: Romans
 chapter: 1
 book/chapter: "[[Rom.1|Romans 1]]"
-genre:
+chronological_order: 1087
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 15
 verses:
 - "[[Rom.1.18]]"
 - "[[Rom.1.19]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Rom.1.32]]"
 ---
 
-[[Rom.1|Romans 1:18 - Romans 1:32]]
+<small>[[Rom.1|Romans 1:18-32]]</small>
 *God’s Wrath against Sin*
 
 [[Rom.1.18|18]] For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness;

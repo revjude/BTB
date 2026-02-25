@@ -1,8 +1,61 @@
+---
+title: Psalm 66:12
+type: Verse
+kjv: "Thou hast caused men to ride over our heads; we went through fire and through water: but thou broughtest us out into a wealthy place."
+bsb: "You let men ride over our heads; we went through fire and water, but You brought us into abundance."
+hebrew: "הִרְכַּ֥בְתָּ אֱנ֗וֹשׁ לְרֹ֫אשֵׁ֥נוּ בָּֽאנוּ־ בָאֵ֥שׁ וּבַמַּ֑יִם וַ֝תּוֹצִיאֵ֗נוּ לָֽרְוָיָֽה׃"
+pericope: "[[Ps.66.1 Make a Joyful Noise|Make a Joyful Noise]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 66
+book/chapter: "[[Ps.66|Psalm 66]]"
+chronological_order: 426
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H7392]]"
+- "[[H0582]]"
+- "[[H9005]]"
+- "[[H7218A]]"
+- "[[H9025]]"
+- "[[H0935G]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H9002]]"
+- "[[H4325G]]"
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H9035]]"
+- "[[H7310]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 66:12**<big><big>[[Ps.66.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast caused men to ride over our heads; we went through fire and through water: but thou broughtest us out into a wealthy [place].
 <small><sub>**BSB:**</sub></small>
 You let men ride over our heads; we went through fire and water, but You brought us into abundance.
+<small><sub>**Hebrew:**</sub></small>
+[[H7392\|הִרְכַּ֥בְתָּ]] [[H0582\|אֱנ֗וֹשׁ]] [[H9005\|לְ]][[H7218A\|רֹ֫אשֵׁ֥]][[H9025\|נוּ]] [[H0935G\|בָּֽאנוּ]][[H9014\|־]] [[H9003\|בָ]][[H0784\|אֵ֥שׁ]] [[H9002\|וּ]][[H9003\|בַ]][[H4325G\|מַּ֑יִם]] [[H9001\|וַ֝]][[H3318H\|תּוֹצִיאֵ֗]][[H9035\|נוּ]] [[H9005\|לָֽ]][[H7310\|רְוָיָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic TEMPTATION|TEMPTATION]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.11|<< Psalms 66:11]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.13|Psalms 66:13 >>]]</td></tr></table>
 

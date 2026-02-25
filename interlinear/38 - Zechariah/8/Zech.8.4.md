@@ -1,8 +1,62 @@
+---
+title: Zechariah 8:4
+type: Verse
+kjv: "Thus saith the LORD of hosts; There shall yet old men and old women dwell in the streets of Jerusalem, and every man with his staff in his hand for very age."
+bsb: "This is what the LORD of Hosts says: “Old men and old women will again sit along the streets of Jerusalem, each with a staff in hand because of great age."
+hebrew: "כֹּ֤ה אָמַר֙ יְהוָ֣ה צְבָא֔וֹת עֹ֤ד יֵֽשְׁבוּ֙ זְקֵנִ֣ים וּזְקֵנ֔וֹת בִּרְחֹב֖וֹת יְרוּשָׁלִָ֑ם וְאִ֧ישׁ מִשְׁעַנְתּ֛וֹ בְּיָד֖וֹ מֵרֹ֥ב יָמִֽים׃"
+pericope: "[[Zech.8.1 The Restoration of Jerusalem|The Restoration of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 8
+book/chapter: "[[Zech.8|Zechariah 8]]"
+chronological_order: 864
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H5750]]"
+- "[[H3427]]"
+- "[[H2205H]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H7339]]"
+- "[[H3389]]"
+- "[[H0376I]]"
+- "[[H4938B]]"
+- "[[H9023]]"
+- "[[H3027G]]"
+- "[[H9006]]"
+- "[[H7230]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 8:4**<big><big>[[Zech.8.1 The Restoration of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD of hosts; There shall yet old men and old women dwell in the streets of Jerusalem, and every man with his staff in his hand for very age.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD of Hosts says: “Old men and old women will again sit along the streets of Jerusalem, each with a staff in hand because of great age.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H5750\|עֹ֤ד]] [[H3427\|יֵֽשְׁבוּ֙]] [[H2205H\|זְקֵנִ֣ים]] [[H9002\|וּ]][[H2205H\|זְקֵנ֔וֹת]] [[H9003\|בִּ]][[H7339\|רְחֹב֖וֹת]] [[H3389\|יְרוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H0376I\|אִ֧ישׁ]] [[H4938B\|מִשְׁעַנְתּ֛]][[H9023\|וֹ]] [[H9003\|בְּ]][[H3027G\|יָד֖]][[H9023\|וֹ]] [[H9006\|מֵ]][[H7230\|רֹ֥ב]] [[H3117G\|יָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.8.3|<< Zechariah 8:3]]</td><td align="center" style="border:none;">[[Zech.8|Zechariah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.8.5|Zechariah 8:5 >>]]</td></tr></table>
 

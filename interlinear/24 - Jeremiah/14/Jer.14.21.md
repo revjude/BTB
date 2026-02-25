@@ -1,8 +1,60 @@
+---
+title: Jeremiah 14:21
+type: Verse
+kjv: "Do not abhor us, for thy name’s sake, do not disgrace the throne of thy glory: remember, break not thy covenant with us."
+bsb: "For the sake of Your name do not despise us; do not disgrace Your glorious throne. Remember Your covenant with us; do not break it."
+hebrew: "אַל־ תִּנְאַץ֙ לְמַ֣עַן שִׁמְךָ֔ אַל־ תְּנַבֵּ֖ל כִּסֵּ֣א כְבוֹדֶ֑ךָ זְכֹ֕ר אַל־ תָּפֵ֥ר בְּרִֽיתְךָ֖ אִתָּֽנוּ׃"
+pericope: "[[Jer.14.19 A Prayer for Mercy|A Prayer for Mercy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 14
+book/chapter: "[[Jer.14|Jeremiah 14]]"
+chronological_order: 731
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5006]]"
+- "[[H4616]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H5034A]]"
+- "[[H3678G]]"
+- "[[H3519]]"
+- "[[H2142]]"
+- "[[H6565A]]"
+- "[[H1285]]"
+- "[[H0854]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 14:21**<big><big>[[Jer.14.19 A Prayer for Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Do not abhor [us], for thy name’s sake, do not disgrace the throne of thy glory: remember, break not thy covenant with us.
 <small><sub>**BSB:**</sub></small>
 For the sake of Your name do not despise us; do not disgrace Your glorious throne. Remember Your covenant with us; do not break it.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H5006\|תִּנְאַץ֙]] [[H4616\|לְמַ֣עַן]] [[H8034\|שִׁמְ]][[H9021\|ךָ֔]] [[H0408\|אַל]][[H9014\|־]] [[H5034A\|תְּנַבֵּ֖ל]] [[H3678G\|כִּסֵּ֣א]] [[H3519\|כְבוֹדֶ֑]][[H9021\|ךָ]] [[H2142\|זְכֹ֕ר]] [[H0408\|אַל]][[H9014\|־]] [[H6565A\|תָּפֵ֥ר]] [[H1285\|בְּרִֽיתְ]][[H9021\|ךָ֖]] [[H0854\|אִתָּֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAMINE|FAMINE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.14.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.14.20|<< Jeremiah 14:20]]</td><td align="center" style="border:none;">[[Jer.14|Jeremiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.22|Jeremiah 14:22 >>]]</td></tr></table>
 

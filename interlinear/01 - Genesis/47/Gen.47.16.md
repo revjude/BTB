@@ -1,8 +1,63 @@
+---
+title: Genesis 47:16
+type: Verse
+kjv: "And Joseph said, Give your cattle; and I will give you for your cattle, if money fail."
+bsb: "“Then bring me your livestock,” said Joseph. “Since the money is gone, I will sell you food in exchange for your livestock.”"
+hebrew: "וַיֹּ֤אמֶר יוֹסֵף֙ הָב֣וּ מִקְנֵיכֶ֔ם וְאֶתְּנָ֥ה לָכֶ֖ם בְּמִקְנֵיכֶ֑ם אִם־ אָפֵ֖ס כָּֽסֶף׃"
+pericope: "[[Gen.47.13 The Famine Continues|The Famine Continues]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 47
+book/chapter: "[[Gen.47|Genesis 47]]"
+chronological_order: 89
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic EXTORTION|EXTORTION]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic STATECRAFT|STATECRAFT]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3130G]]"
+- "[[H3051]]"
+- "[[H4735]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H0656]]"
+- "[[H3701G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 47:16**<big><big>[[Gen.47.13 The Famine Continues|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph said, Give your cattle; and I will give you for your cattle, if money fail.
 <small><sub>**BSB:**</sub></small>
 “Then bring me your livestock,” said Joseph. “Since the money is gone, I will sell you food in exchange for your livestock.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3130G\|יוֹסֵף֙]] [[H3051\|הָב֣וּ]] [[H4735\|מִקְנֵי]][[H9026\|כֶ֔ם]] [[H9002\|וְ]][[H5414G\|אֶתְּנָ֥ה]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H9003\|בְּ]][[H4735\|מִקְנֵי]][[H9026\|כֶ֑ם]] [[H0518A\|אִם]][[H9014\|־]] [[H0656\|אָפֵ֖ס]] [[H3701G\|כָּֽסֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EXTORTION|EXTORTION]] • [[topic JOSEPH|JOSEPH]] • [[topic MONEY|MONEY]] • [[topic STATECRAFT|STATECRAFT]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.15|<< Genesis 47:15]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.17|Genesis 47:17 >>]]</td></tr></table>
 

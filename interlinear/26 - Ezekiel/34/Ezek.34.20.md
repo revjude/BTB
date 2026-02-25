@@ -1,8 +1,63 @@
+---
+title: Ezekiel 34:20
+type: Verse
+kjv: "Therefore thus saith the Lord GOD unto them; Behold, I, even I, will judge between the fat cattle and between the lean cattle."
+bsb: "Therefore this is what the Lord GOD says to them: ‘Behold, I Myself will judge between the fat sheep and the lean sheep."
+hebrew: "לָכֵ֗ן כֹּ֥ה אָמַ֛ר אֲדֹנָ֥י יְהוִ֖ה אֲלֵיהֶ֑ם הִנְנִי־ אָ֕נִי וְשָֽׁפַטְתִּי֙ בֵּֽין־ שֶׂ֣ה בִרְיָ֔ה וּבֵ֥ין שֶׂ֖ה רָזָֽה׃"
+pericope: "[[Ezek.34.11 The Good Shepherd|The Good Shepherd]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 34
+book/chapter: "[[Ezek.34|Ezekiel 34]]"
+chronological_order: 825
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H9001]]"
+- "[[H8199]]"
+- "[[H0996G]]"
+- "[[H7716]]"
+- "[[H1274]]"
+- "[[H9002]]"
+- "[[H7330]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 34:20**<big><big>[[Ezek.34.11 The Good Shepherd|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the Lord GOD unto them; Behold, I, [even] I, will judge between the fat cattle and between the lean cattle.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the Lord GOD says to them: ‘Behold, I Myself will judge between the fat sheep and the lean sheep.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֛ר]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִ֖ה]] [[H0413\|אֲלֵי]][[H9038\|הֶ֑ם]] [[H2005\|הִנְ]][[H9040\|נִי]][[H9014\|־]] [[H0589\|אָ֕נִי]] [[H9001\|וְ]][[H8199\|שָֽׁפַטְתִּי֙]] [[H0996G\|בֵּֽין]][[H9014\|־]] [[H7716\|שֶׂ֣ה]] [[H1274\|בִרְיָ֔ה]] [[H9002\|וּ]][[H0996G\|בֵ֥ין]] [[H7716\|שֶׂ֖ה]] [[H7330\|רָזָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.19|<< Ezekiel 34:19]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.21|Ezekiel 34:21 >>]]</td></tr></table>
 

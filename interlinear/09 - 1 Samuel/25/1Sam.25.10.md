@@ -1,8 +1,65 @@
+---
+title: 1 Samuel 25:10
+type: Verse
+kjv: "And Nabal answered David’s servants, and said, Who is David? and who is the son of Jesse? there be many servants now a days that break away every man from his master."
+bsb: "But Nabal asked them, “Who is David? Who is this son of Jesse? Many servants these days are breaking away from their masters."
+hebrew: "וַיַּ֨עַן נָבָ֜ל אֶת־ עַבְדֵ֤י דָוִד֙ וַיֹּ֔אמֶר מִ֥י דָוִ֖ד וּמִ֣י בֶן־ יִשָׁ֑י הַיּוֹם֙ רַבּ֣וּ עֲבָדִ֔ים הַמִּתְפָּ֣רְצִ֔ים אִ֖ישׁ מִפְּנֵ֥י אֲדֹנָֽיו׃"
+pericope: "[[1Sam.25.2 David, Nabal, and Abigail|David, Nabal, and Abigail]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic INHOSPITABLENESS|INHOSPITABLENESS]]"
+- "[[topic NABAL|NABAL]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H5037]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H1732]]"
+- "[[H0559]]"
+- "[[H4310]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H3448]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H7231]]"
+- "[[H6555]]"
+- "[[H0376I]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H0113]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 25:10**<big><big>[[1Sam.25.2 David, Nabal, and Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Nabal answered David’s servants, and said, Who [is] David? and who [is] the son of Jesse? there be many servants now a days that break away every man from his master.
 <small><sub>**BSB:**</sub></small>
 But Nabal asked them, “Who is David? Who is this son of Jesse? Many servants these days are breaking away from their masters.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֨עַן]] [[H5037\|נָבָ֜ל]] [[H0853\|אֶת]][[H9014\|־]] [[H5650\|עַבְדֵ֤י]] [[H1732\|דָוִד֙]] [[H9001\|וַ]][[H0559\|יֹּ֔אמֶר]] [[H4310\|מִ֥י]] [[H1732\|דָוִ֖ד]] [[H9002\|וּ]][[H4310\|מִ֣י]] [[H1121A\|בֶן]][[H9014\|־]] [[H3448\|יִשָׁ֑י]] [[H9009\|הַ]][[H3117G\|יּוֹם֙]] [[H7231\|רַבּ֣וּ]] [[H5650\|עֲבָדִ֔ים]] [[H9009\|הַ]][[H6555\|מִּתְפָּ֣רְצִ֔ים]] [[H0376I\|אִ֖ישׁ]] [[H9006\|מִ]][[H6440G\|פְּנֵ֥י]] [[H0113\|אֲדֹנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic INHOSPITABLENESS|INHOSPITABLENESS]] • [[topic NABAL|NABAL]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.9|<< 1 Samuel 25:9]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.11|1 Samuel 25:11 >>]]</td></tr></table>
 

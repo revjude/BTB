@@ -1,8 +1,55 @@
+---
+title: Micah 6:10
+type: Verse
+kjv: "Are there yet the treasures of wickedness in the house of the wicked, and the scant measure that is abominable?"
+bsb: "Can I forget any longer, O house of the wicked, the treasures of wickedness and the short ephah, which is accursed?"
+hebrew: "ע֗וֹד הַאִשׁ֙ בֵּ֣ית רָשָׁ֔ע אֹצְר֖וֹת רֶ֑שַׁע וְאֵיפַ֥ת רָז֖וֹן זְעוּמָֽה׃"
+pericope: "[[Mic.6.9 The Punishment of Israel|The Punishment of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 6
+book/chapter: "[[Mic.6|Micah 6]]"
+chronological_order: 628
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic WEIGHTS|WEIGHTS]]"
+strongs:
+- "[[H5750]]"
+- "[[H9008]]"
+- "[[H0786]]"
+- "[[H1004B]]"
+- "[[H7563]]"
+- "[[H0214]]"
+- "[[H7562]]"
+- "[[H9002]]"
+- "[[H0374]]"
+- "[[H7332]]"
+- "[[H2194]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 6:10**<big><big>[[Mic.6.9 The Punishment of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Are there yet the treasures of wickedness in the house of the wicked, and the scant measure [that is] abominable?
 <small><sub>**BSB:**</sub></small>
 Can I forget any longer, O house of the wicked, the treasures of wickedness and the short ephah, which is accursed?
+<small><sub>**Hebrew:**</sub></small>
+[[H5750\|ע֗וֹד]] [[H9008\|הַ]][[H0786\|אִשׁ֙]] [[H1004B\|בֵּ֣ית]] [[H7563\|רָשָׁ֔ע]] [[H0214\|אֹצְר֖וֹת]] [[H7562\|רֶ֑שַׁע]] [[H9002\|וְ]][[H0374\|אֵיפַ֥ת]] [[H7332\|רָז֖וֹן]] [[H2194\|זְעוּמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISHONESTY|DISHONESTY]] • [[topic MEASURE|MEASURE]] • [[topic WEIGHTS|WEIGHTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.6.9|<< Micah 6:9]]</td><td align="center" style="border:none;">[[Mic.6|Micah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.6.11|Micah 6:11 >>]]</td></tr></table>
 

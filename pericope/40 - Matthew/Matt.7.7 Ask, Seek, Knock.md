@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ask, Seek, Knock
+type: Pericope
 pericope: "[[Matt.7.7 Ask, Seek, Knock|Ask, Seek, Knock]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 7
 book/chapter: "[[Matt.7|Matthew 7]]"
-genre:
+chronological_order: 945
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 6
 verses:
 - "[[Matt.7.7]]"
 - "[[Matt.7.8]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Matt.7.12]]"
 ---
 
-[[Matt.7|Matthew 7:7 - Matthew 7:12]]
+<small>[[Matt.7|Matthew 7:7-12]]</small>
 *Ask, Seek, Knock*
 
 [[Matt.7.7|7]] Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:

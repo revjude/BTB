@@ -1,8 +1,50 @@
+---
+title: Exodus 21:12
+type: Verse
+kjv: "He that smiteth a man, so that he die, shall be surely put to death."
+bsb: "Whoever strikes and kills a man must surely be put to death."
+hebrew: "מַכֵּ֥ה אִ֛ישׁ וָמֵ֖ת מ֥וֹת יוּמָֽת׃"
+pericope: "[[Exod.21.12 Personal Injury Laws|Personal Injury Laws]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 21
+book/chapter: "[[Exod.21|Exodus 21]]"
+chronological_order: 113
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic HOMICIDE|HOMICIDE]]"
+strongs:
+- "[[H5221]]"
+- "[[H0376I]]"
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 21:12**<big><big>[[Exod.21.12 Personal Injury Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that smiteth a man, so that he die, shall be surely put to death.
 <small><sub>**BSB:**</sub></small>
 Whoever strikes and kills a man must surely be put to death.
+<small><sub>**Hebrew:**</sub></small>
+[[H5221\|מַכֵּ֥ה]] [[H0376I\|אִ֛ישׁ]] [[H9001\|וָ]][[H4191\|מֵ֖ת]] [[H4191\|מ֥וֹת]] [[H4191\|יוּמָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOMICIDE|HOMICIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.11|<< Exodus 21:11]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.13|Exodus 21:13 >>]]</td></tr></table>
 

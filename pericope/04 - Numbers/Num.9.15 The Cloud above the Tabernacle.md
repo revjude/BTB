@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Cloud above the Tabernacle
+type: Pericope
 pericope: "[[Num.9.15 The Cloud above the Tabernacle|The Cloud above the Tabernacle]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 9
 book/chapter: "[[Num.9|Numbers 9]]"
-genre:
+chronological_order: 168
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 9
 verses:
 - "[[Num.9.15]]"
 - "[[Num.9.16]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Num.9.23]]"
 ---
 
-[[Num.9|Numbers 9:15 - Numbers 9:23]]
+<small>[[Num.9|Numbers 9:15-23]]</small>
 *The Cloud above the Tabernacle*
 
 [[Num.9.15|15]] And on the day that the tabernacle was reared up the cloud covered the tabernacle, \[namely\], the tent of the testimony: and at even there was upon the tabernacle as it were the appearance of fire, until the morning.

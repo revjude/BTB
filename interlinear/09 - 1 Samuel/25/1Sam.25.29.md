@@ -1,8 +1,79 @@
+---
+title: 1 Samuel 25:29
+type: Verse
+kjv: "Yet a man is risen to pursue thee, and to seek thy soul: but the soul of my lord shall be bound in the bundle of life with the LORD thy God; and the souls of thine enemies, them shall he sling out, as out of the middle of a sling."
+bsb: "And should someone pursue you and seek your life, then the life of my lord will be bound securely by the LORD your God in the bundle of the living. But He shall fling away the lives of your enemies like stones from a sling."
+hebrew: "וַיָּ֤קָם אָדָם֙ לִרְדָפְךָ֔ וּלְבַקֵּ֖שׁ אֶת־ נַפְשֶׁ֑ךָ וְֽהָיְתָה֩ נֶ֨פֶשׁ אֲדֹנִ֜י צְרוּרָ֣ה׀ בִּצְר֣וֹר הַחַיִּ֗ים אֵ֚ת יְהוָ֣ה אֱלֹהֶ֔יךָ וְאֵ֨ת נֶ֤פֶשׁ אֹיְבֶ֙יךָ֙ יְקַלְּעֶ֔נָּה בְּת֖וֹךְ כַּ֥ף הַקָּֽלַע׃"
+pericope: "[[1Sam.25.18 Abigail Intercedes for Nabal|Abigail Intercedes for Nabal]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FIG|FIG]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NABAL|NABAL]]"
+- "[[topic OBSEQUIOUSNESS|OBSEQUIOUSNESS]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic TACT|TACT]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H0120G]]"
+- "[[H9005]]"
+- "[[H7291]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H1245]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5315H]]"
+- "[[H9021]]"
+- "[[H1961]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H6887B]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H6872A]]"
+- "[[H9009]]"
+- "[[H2416A]]"
+- "[[H0854]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0341]]"
+- "[[H7049A]]"
+- "[[H9034]]"
+- "[[H8432]]"
+- "[[H3709I]]"
+- "[[H7050A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 25:29**<big><big>[[1Sam.25.18 Abigail Intercedes for Nabal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet a man is risen to pursue thee, and to seek thy soul: but the soul of my lord shall be bound in the bundle of life with the LORD thy God; and the souls of thine enemies, them shall he sling out, [as out] of the middle of a sling.
 <small><sub>**BSB:**</sub></small>
 And should someone pursue you and seek your life, then the life of my lord will be bound securely by the LORD your God in the bundle of the living. But He shall fling away the lives of your enemies like stones from a sling.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּ֤קָם]] [[H0120G\|אָדָם֙]] [[H9005\|לִ]][[H7291\|רְדָפְ]][[H9031\|ךָ֔]] [[H9002\|וּ]][[H9005\|לְ]][[H1245\|בַקֵּ֖שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H5315H\|נַפְשֶׁ֑]][[H9021\|ךָ]] [[H9001\|וְֽ]][[H1961\|הָיְתָה֩]] [[H5315H\|נֶ֨פֶשׁ]] [[H0113\|אֲדֹנִ֜]][[H9020\|י]] [[H6887B\|צְרוּרָ֣ה]][[H9015\|׀]] [[H9003\|בִּ]][[H6872A\|צְר֣וֹר]] [[H9009\|הַ]][[H2416A\|חַיִּ֗ים]] [[H0854\|אֵ֚ת]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H9002\|וְ]][[H0853\|אֵ֨ת]] [[H5315H\|נֶ֤פֶשׁ]] [[H0341\|אֹיְבֶ֙י]][[H9021\|ךָ֙]] [[H7049A\|יְקַלְּעֶ֔]][[H9034\|נָּה]] [[H9003\|בְּ]][[H8432\|ת֖וֹךְ]] [[H3709I\|כַּ֥ף]] [[H9009\|הַ]][[H7050A\|קָּֽלַע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FIG|FIG]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NABAL|NABAL]] • [[topic OBSEQUIOUSNESS|OBSEQUIOUSNESS]] • [[topic PRUDENCE|PRUDENCE]] • [[topic TACT|TACT]] • [[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.28|<< 1 Samuel 25:28]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.30|1 Samuel 25:30 >>]]</td></tr></table>
 

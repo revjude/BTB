@@ -1,8 +1,71 @@
+---
+title: Jeremiah 32:37
+type: Verse
+kjv: "Behold, I will gather them out of all countries, whither I have driven them in mine anger, and in my fury, and in great wrath; and I will bring them again unto this place, and I will cause them to dwell safely:"
+bsb: "I will surely gather My people from all the lands to which I have banished them in My furious anger and great wrath, and I will return them to this place and make them dwell in safety."
+hebrew: "הִנְנִ֤י מְקַבְּצָם֙ מִכָּל־ הָ֣אֲרָצ֔וֹת אֲשֶׁ֨ר הִדַּחְתִּ֥ים שָׁ֛ם בְּאַפִּ֥י וּבַחֲמָתִ֖י וּבְקֶ֣צֶף גָּד֑וֹל וַהֲשִֽׁבֹתִים֙ אֶל־ הַמָּק֣וֹם הַזֶּ֔ה וְהֹשַׁבְתִּ֖ים לָבֶֽטַח׃"
+pericope: "[[Jer.32.36 A Promise of Restoration|A Promise of Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 32
+book/chapter: "[[Jer.32|Jeremiah 32]]"
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H6908]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H5080]]"
+- "[[H8033G]]"
+- "[[H9003]]"
+- "[[H0639G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H2534]]"
+- "[[H7110A]]"
+- "[[H1419A]]"
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H4725]]"
+- "[[H2088]]"
+- "[[H3427]]"
+- "[[H9005]]"
+- "[[H0983]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 32:37**<big><big>[[Jer.32.36 A Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will gather them out of all countries, whither I have driven them in mine anger, and in my fury, and in great wrath; and I will bring them again unto this place, and I will cause them to dwell safely:
 <small><sub>**BSB:**</sub></small>
 I will surely gather My people from all the lands to which I have banished them in My furious anger and great wrath, and I will return them to this place and make them dwell in safety.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנְ]][[H9040\|נִ֤י]] [[H6908\|מְקַבְּצָ]][[H9038\|ם֙]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ֣]][[H0776G\|אֲרָצ֔וֹת]] [[H0834A\|אֲשֶׁ֨ר]] [[H5080\|הִדַּחְתִּ֥י]][[H9038\|ם]] [[H8033G\|שָׁ֛ם]] [[H9003\|בְּ]][[H0639G\|אַפִּ֥]][[H9020\|י]] [[H9002\|וּ]][[H9003\|בַ]][[H2534\|חֲמָתִ֖]][[H9020\|י]] [[H9002\|וּ]][[H9003\|בְ]][[H7110A\|קֶ֣צֶף]] [[H1419A\|גָּד֑וֹל]] [[H9001\|וַ]][[H7725G\|הֲשִֽׁבֹתִי]][[H9038\|ם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9001\|וְ]][[H3427\|הֹשַׁבְתִּ֖י]][[H9038\|ם]] [[H9005\|לָ]][[H0983\|בֶֽטַח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.36|<< Jeremiah 32:36]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.38|Jeremiah 32:38 >>]]</td></tr></table>
 

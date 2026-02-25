@@ -1,10 +1,71 @@
+---
+title: Luke 14:24
+type: Verse
+kjv: "For I say unto you, That none of those men which were bidden shall taste of my supper."
+bsb: "For I tell you, not one of those men who were invited will taste my banquet.’”"
+jesus_said: "For I say unto you, That none of those men which were bidden shall taste of my supper."
+greek: "λέγω γὰρ ὑμῖν ὅτι οὐδεὶς τῶν ἀνδρῶν ἐκείνων τῶν κεκλημένων γεύσεταί μου τοῦ δείπνου πολλοί γὰρ εἰσιν κλητοί ὀλίγοι δέ ἐκλεκτοί.¶"
+pericope: "[[Luke.14.15 The Parable of the Banquet|The Parable of the Banquet]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 14
+book/chapter: "[[Luke.14|Luke 14]]"
+chronological_order: 976
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1063]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G3762]]"
+- "[[G3588]]"
+- "[[G0435G]]"
+- "[[G1565]]"
+- "[[G2564G]]"
+- "[[G1089]]"
+- "[[G3165]]"
+- "[[G1173]]"
+- "[[G4183]]"
+- "[[G1510]]"
+- "[[G2822]]"
+- "[[G3641]]"
+- "[[G1161]]"
+- "[[G1588]]"
+texts:
+- NKO
+- O
+---
+
 **Luke 14:24**<big><big>[[Luke.14.15 The Parable of the Banquet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I say unto you, That none of those men which were bidden shall taste of my supper.
 <small><sub>**BSB:**</sub></small>
 For I tell you, not one of those men who were invited will taste my banquet.’”
-<small><sub>**Literal:**</sub></small>
-I say for to you that not [one] of the men of those which invited will taste my <the> supper many for are called few but chosen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.23|<< Luke 14:23]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.25|Luke 14:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγω]]  [[G1063\|γὰρ]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G3762\|οὐδεὶς]]  [[G3588\|τῶν]]  [[G0435G\|ἀνδρῶν]]  [[G1565\|ἐκείνων]]  [[G3588\|τῶν]]  [[G2564G\|κεκλημένων]]  [[G1089\|γεύσεταί]]  [[G3165\|μου]]  [[G3588\|τοῦ]]  [[G1173\|δείπνου]]  [[G4183\|πολλοί]]  [[G1063\|γὰρ]]  [[G1510\|εἰσιν]]  [[G2822\|κλητοί]]  [[G3641\|ὀλίγοι]]  [[G1161\|δέ]]  [[G1588\|ἐκλεκτοί.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FEASTS|FEASTS]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic REPROBACY|REPROBACY]] • [[topic REPROOF|REPROOF]] • [[topic SALVATION|SALVATION]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.23|<< Luke 14:23]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.25|Luke 14:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

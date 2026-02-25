@@ -1,6 +1,73 @@
+---
+title: LXX Leviticus 13:5
+type: Verse
+lxx: "and the priest shall look at the infection on the seventh day; and behold, if the infection abides before him, and if the infection did not degenerate in the skin, then the priest shall separate him seven days the second time."
+greek: "και όψεται ο ιερεύς την αφήν τη ημέρα τη εβδόμη και ιδού η αφή μένει εναντίον αυτού ου μετέπεσεν η αφή εν τω δέρματι και αφοριεί αυτόν ο ιερεύς επτά ημέρας το δεύτερον"
+original_language: Greek
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3708]]"
+- "[[G3588]]"
+- "[[G2409]]"
+- "[[G3588]]"
+- "[[G0860]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3588]]"
+- "[[G1442]]"
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G3588]]"
+- "[[G0860]]"
+- "[[G3306]]"
+- "[[G1726]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G8302]]"
+- "[[G3588]]"
+- "[[G0860]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1192]]"
+- "[[G2532]]"
+- "[[G0873]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G2409]]"
+- "[[G2033]]"
+- "[[G2250]]"
+- "[[G3588]]"
+- "[[G1208]]"
+---
+
 **LXX Leviticus 13:5** 
 <small><sub>**LXX:**</sub></small>
 and the priest shall look at the infection on the seventh day; and behold, \[if\] the infection abides before him, \[and\] \[if\] the infection did not degenerate in the skin, then the priest shall separate him seven days the second \[time\]. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3708\|όψεται]] [[G3588\|ο]] [[G2409\|ιερεύς]] [[G3588\|την]] [[G0860\|αφήν]] [[G3588\|τη]] [[G2250\|ημέρα]] [[G3588\|τη]] [[G1442\|εβδόμη]] [[G2532\|και]] [[G2400\|ιδού]] [[G3588\|η]] [[G0860\|αφή]] [[G3306\|μένει]] [[G1726\|εναντίον]] [[G1473\|αυτού]] [[G3756\|ου]] [[G8302\|μετέπεσεν]] [[G3588\|η]] [[G0860\|αφή]] [[G1722\|εν]] [[G3588\|τω]] [[G1192\|δέρματι]] [[G2532\|και]] [[G0873\|αφοριεί]] [[G1473\|αυτόν]] [[G3588\|ο]] [[G2409\|ιερεύς]] [[G2033\|επτά]] [[G2250\|ημέρας]] [[G3588\|το]] [[G1208\|δεύτερον]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SANITATION|SANITATION]]</small>
 <small><sub>**MT:**</sub></small>
 [[Lev.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.4|<< Leviticus 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.6|Leviticus 13:6 >>]]</td></tr></table>
 
@@ -39,6 +106,6 @@ and the priest shall look at the infection on the seventh day; and behold, \[if\
 | days | **<big>[[G2250\|ημέρας]]</big>** |
 | the | **<big>[[G3588\|το]]</big>** |
 | second \[time\]. | **<big>[[G1208\|δεύτερον]]</big>** |
-[[Lev.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.4|<< Leviticus 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.6|Leviticus 13:6 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.4|<< Leviticus 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.6|Leviticus 13:6 >>]]</td></tr></table>
 
 

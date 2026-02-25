@@ -1,8 +1,63 @@
+---
+title: Genesis 30:26
+type: Verse
+kjv: "Give me my wives and my children, for whom I have served thee, and let me go: for thou knowest my service which I have done thee."
+bsb: "Give me my wives and children for whom I have served you, that I may go on my way. You know how hard I have worked for you.”"
+hebrew: "תְּנָ֞ה אֶת־ נָשַׁ֣י וְאֶת־ יְלָדַ֗י אֲשֶׁ֨ר עָבַ֧דְתִּי אֹֽתְךָ֛ בָּהֵ֖ן וְאֵלֵ֑כָה כִּ֚י אַתָּ֣ה יָדַ֔עְתָּ אֶת־ עֲבֹדָתִ֖י אֲשֶׁ֥ר עֲבַדְתִּֽיךָ׃"
+pericope: "[[Gen.30.25 Jacob Prospers|Jacob Prospers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 30
+book/chapter: "[[Gen.30|Genesis 30]]"
+chronological_order: 72
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic RACHEL|RACHEL]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H5414G]]"
+- "[[H9012]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0802H]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3206]]"
+- "[[H0834A]]"
+- "[[H5647G]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H9039]]"
+- "[[H1980G]]"
+- "[[H3588A]]"
+- "[[H0859A]]"
+- "[[H3045]]"
+- "[[H5656G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 30:26**<big><big>[[Gen.30.25 Jacob Prospers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give [me] my wives and my children, for whom I have served thee, and let me go: for thou knowest my service which I have done thee.
 <small><sub>**BSB:**</sub></small>
 Give me my wives and children for whom I have served you, that I may go on my way. You know how hard I have worked for you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H5414G\|תְּנָ֞]][[H9012\|ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0802H\|נָשַׁ֣]][[H9020\|י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3206\|יְלָדַ֗]][[H9020\|י]] [[H0834A\|אֲשֶׁ֨ר]] [[H5647G\|עָבַ֧דְתִּי]] [[H0853\|אֹֽתְ]][[H9031\|ךָ֛]] [[H9003\|בָּ]][[H9039\|הֵ֖ן]] [[H9002\|וְ]][[H1980G\|אֵלֵ֑כָה]] [[H3588A\|כִּ֚י]] [[H0859A\|אַתָּ֣ה]] [[H3045\|יָדַ֔עְתָּ]] [[H0853\|אֶת]][[H9014\|־]] [[H5656G\|עֲבֹדָתִ֖]][[H9020\|י]] [[H0834A\|אֲשֶׁ֥ר]] [[H5647G\|עֲבַדְתִּֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RACHEL|RACHEL]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.25|<< Genesis 30:25]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.27|Genesis 30:27 >>]]</td></tr></table>
 

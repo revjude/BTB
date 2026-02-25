@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel’s Stubbornness
+type: Pericope
 pericope: "[[Isa.48.1 Israel’s Stubbornness|Israel’s Stubbornness]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 48
 book/chapter: "[[Isa.48|Isaiah 48]]"
-genre:
+chronological_order: 687
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 11
 verses:
 - "[[Isa.48.1]]"
 - "[[Isa.48.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Isa.48.11]]"
 ---
 
-[[Isa.48|Isaiah 48:1 - Isaiah 48:11]]
+<small>[[Isa.48|Isaiah 48:1-11]]</small>
 *Israel’s Stubbornness*
 
 [[Isa.48.1|1]] Hear ye this, O house of Jacob, which are called by the name of Israel, and are come forth out of the waters of Judah, which swear by the name of the LORD, and make mention of the God of Israel, \[but\] not in truth, nor in righteousness.

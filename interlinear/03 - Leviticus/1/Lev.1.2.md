@@ -1,8 +1,66 @@
+---
+title: Leviticus 1:2
+type: Verse
+kjv: "Speak unto the children of Israel, and say unto them, If any man of you bring an offering unto the LORD, ye shall bring your offering of the cattle, even of the herd, and of the flock."
+bsb: "“Speak to the Israelites and tell them: When any of you brings an offering to the LORD, you may bring as your offering an animal from the herd or the flock."
+hebrew: "דַּבֵּ֞ר אֶל־ בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם אָדָ֗ם כִּֽי־ יַקְרִ֥יב מִכֶּ֛ם קָרְבָּ֖ן לַֽיהוָ֑ה מִן־ הַבְּהֵמָ֗ה מִן־ הַבָּקָר֙ וּמִן־ הַצֹּ֔אן תַּקְרִ֖יבוּ אֶת־ קָרְבַּנְכֶֽם׃"
+pericope: "[[Lev.1.1 Laws for Burnt Offerings|Laws for Burnt Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 1
+book/chapter: "[[Lev.1|Leviticus 1]]"
+chronological_order: 133
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+strongs:
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9038]]"
+- "[[H0120G]]"
+- "[[H3588A]]"
+- "[[H7126H]]"
+- "[[H9006]]"
+- "[[H9036]]"
+- "[[H7133A]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H0929]]"
+- "[[H1241]]"
+- "[[H9002]]"
+- "[[H6629G]]"
+- "[[H0853]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 1:2**<big><big>[[Lev.1.1 Laws for Burnt Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto the children of Israel, and say unto them, If any man of you bring an offering unto the LORD, ye shall bring your offering of the cattle, [even] of the herd, and of the flock.
 <small><sub>**BSB:**</sub></small>
 “Speak to the Israelites and tell them: When any of you brings an offering to the LORD, you may bring as your offering an animal from the herd or the flock.
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבֵּ֞ר]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֲלֵ]][[H9038\|הֶ֔ם]] [[H0120G\|אָדָ֗ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7126H\|יַקְרִ֥יב]] [[H9006\|מִ]][[H9036\|כֶּ֛ם]] [[H7133A\|קָרְבָּ֖ן]] [[H9005\|לַֽ]][[H3068G\|יהוָ֑ה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H0929\|בְּהֵמָ֗ה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1241\|בָּקָר֙]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H6629G\|צֹּ֔אן]] [[H7126H\|תַּקְרִ֖יבוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H7133A\|קָרְבַּנְ]][[H9026\|כֶֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.1.1|<< Leviticus 1:1]]</td><td align="center" style="border:none;">[[Lev.1|Leviticus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.1.3|Leviticus 1:3 >>]]</td></tr></table>
 

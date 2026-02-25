@@ -1,8 +1,57 @@
+---
+title: Ezekiel 20:11
+type: Verse
+kjv: "And I gave them my statutes, and shewed them my judgments, which if a man do, he shall even live in them."
+bsb: "And I gave them My statutes and made known to them My ordinances—for the man who does these things will live by them."
+hebrew: "וָאֶתֵּ֤ן לָהֶם֙ אֶת־ חֻקּוֹתַ֔י וְאֶת־ מִשְׁפָּטַ֖י הוֹדַ֣עְתִּי אוֹתָ֑ם אֲשֶׁ֨ר יַעֲשֶׂ֥ה אוֹתָ֛ם הָאָדָ֖ם וָחַ֥י בָּהֶֽם׃"
+pericope: "[[Ezek.20.10 Israel’s Rebellion in the Wilderness|Israel’s Rebellion in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2708]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H4941G]]"
+- "[[H3045]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H2421]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:11**<big><big>[[Ezek.20.10 Israel’s Rebellion in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I gave them my statutes, and shewed them my judgments, which [if] a man do, he shall even live in them.
 <small><sub>**BSB:**</sub></small>
 And I gave them My statutes and made known to them My ordinances—for the man who does these things will live by them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H5414G\|אֶתֵּ֤ן]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H2708\|חֻקּוֹתַ֔]][[H9020\|י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4941G\|מִשְׁפָּטַ֖]][[H9020\|י]] [[H3045\|הוֹדַ֣עְתִּי]] [[H0853\|אוֹתָ֑]][[H9038\|ם]] [[H0834A\|אֲשֶׁ֨ר]] [[H6213A\|יַעֲשֶׂ֥ה]] [[H0853\|אוֹתָ֛]][[H9038\|ם]] [[H9009\|הָ]][[H0120G\|אָדָ֖ם]] [[H9001\|וָ]][[H2421\|חַ֥י]] [[H9003\|בָּ]][[H9038\|הֶֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.10|<< Ezekiel 20:10]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.12|Ezekiel 20:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

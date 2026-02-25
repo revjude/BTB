@@ -1,8 +1,50 @@
+---
+title: Isaiah 23:14
+type: Verse
+kjv: "Howl, ye ships of Tarshish: for your strength is laid waste."
+bsb: "Wail, O ships of Tarshish, for your harbor has been destroyed!"
+hebrew: "הֵילִ֖ילוּ אֳנִיּ֣וֹת תַּרְשִׁ֑ישׁ כִּ֥י שֻׁדַּ֖ד מָעֻזְּכֶֽן׃ ס"
+pericope: "[[Isa.23.1 The Burden against Tyre|The Burden against Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 23
+book/chapter: "[[Isa.23|Isaiah 23]]"
+chronological_order: 640
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic TARSHISH|TARSHISH]]"
+strongs:
+- "[[H3213]]"
+- "[[H0591]]"
+- "[[H8659H]]"
+- "[[H3588A]]"
+- "[[H7703]]"
+- "[[H4581]]"
+- "[[H9027]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 23:14**<big><big>[[Isa.23.1 The Burden against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howl, ye ships of Tarshish: for your strength is laid waste.
 <small><sub>**BSB:**</sub></small>
 Wail, O ships of Tarshish, for your harbor has been destroyed!
+<small><sub>**Hebrew:**</sub></small>
+[[H3213\|הֵילִ֖ילוּ]] [[H0591\|אֳנִיּ֣וֹת]] [[H8659H\|תַּרְשִׁ֑ישׁ]] [[H3588A\|כִּ֥י]] [[H7703\|שֻׁדַּ֖ד]] [[H4581\|מָעֻזְּ]][[H9027\|כֶֽן]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TARSHISH|TARSHISH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.23.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.23.13|<< Isaiah 23:13]]</td><td align="center" style="border:none;">[[Isa.23|Isaiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.23.15|Isaiah 23:15 >>]]</td></tr></table>
 
@@ -13,7 +55,7 @@ Wail, O ships of Tarshish, for your harbor has been destroyed!
 | Tarshish  |**<big>&#8207;[[H8659H\|תַּרְשִׁ֑ישׁ]]&#8207; </big>**| tar.Shish<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has been devastated  |**<big>&#8207;[[H7703\|שֻׁדַּ֖ד]]&#8207; </big>**| shu.Dad<small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| stronghold your  |**<big>&#8207;[[H4581\|מָעֻזְּ]]&#8207;&#8207;[[H9027\|כֶֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ma.'u.ze.<small><sup>[[HNcmsc]]</sup></small> Khen<small><sup>[[HSp2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| stronghold your  |**<big>&#8207;[[H4581\|מָעֻזְּ]]&#8207;&#8207;[[H9027\|כֶֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ma.'u.ze.<small><sup>[[HNcmsc]]</sup></small> Khen<small><sup>[[HSp2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.23.13|<< Isaiah 23:13]]</td><td align="center" style="border:none;">[[Isa.23|Isaiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.23.15|Isaiah 23:15 >>]]</td></tr></table>
 
 

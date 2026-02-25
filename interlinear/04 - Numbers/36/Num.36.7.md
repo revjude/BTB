@@ -1,8 +1,66 @@
+---
+title: Numbers 36:7
+type: Verse
+kjv: "So shall not the inheritance of the children of Israel remove from tribe to tribe: for every one of the children of Israel shall keep himself to the inheritance of the tribe of his fathers."
+bsb: "No inheritance in Israel may be transferred from tribe to tribe, because each of the Israelites is to retain the inheritance of the tribe of his fathers."
+hebrew: "וְלֹֽא־ תִסֹּ֤ב נַחֲלָה֙ לִבְנֵ֣י יִשְׂרָאֵ֔ל מִמַּטֶּ֖ה אֶל־ מַטֶּ֑ה כִּ֣י אִ֗ישׁ בְּנַחֲלַת֙ מַטֵּ֣ה אֲבֹתָ֔יו יִדְבְּק֖וּ בְּנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Num.36.1 Zelophehad’s Daughters Marry|Zelophehad’s Daughters Marry]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 36
+book/chapter: "[[Num.36|Numbers 36]]"
+chronological_order: 196
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic HEIR|HEIR]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MILCAH|MILCAH]]"
+- "[[topic PROPERTY|PROPERTY]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5437G]]"
+- "[[H5159]]"
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H4294H]]"
+- "[[H0413]]"
+- "[[H3588A]]"
+- "[[H0376I]]"
+- "[[H9003]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H1692]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 36:7**<big><big>[[Num.36.1 Zelophehad’s Daughters Marry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So shall not the inheritance of the children of Israel remove from tribe to tribe: for every one of the children of Israel shall keep himself to the inheritance of the tribe of his fathers.
 <small><sub>**BSB:**</sub></small>
 No inheritance in Israel may be transferred from tribe to tribe, because each of the Israelites is to retain the inheritance of the tribe of his fathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5437G\|תִסֹּ֤ב]] [[H5159\|נַחֲלָה֙]] [[H9005\|לִ]][[H1121G\|בְנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9006\|מִ]][[H4294H\|מַּטֶּ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4294H\|מַטֶּ֑ה]] [[H3588A\|כִּ֣י]] [[H0376I\|אִ֗ישׁ]] [[H9003\|בְּ]][[H5159\|נַחֲלַת֙]] [[H4294H\|מַטֵּ֣ה]] [[H0001G\|אֲבֹתָ֔י]][[H9023\|ו]] [[H1692\|יִדְבְּק֖וּ]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEIR|HEIR]] • [[topic INHERITANCE|INHERITANCE]] • [[topic LAND|LAND]] • [[topic MILCAH|MILCAH]] • [[topic PROPERTY|PROPERTY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.36.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.36.6|<< Numbers 36:6]]</td><td align="center" style="border:none;">[[Num.36|Numbers 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.36.8|Numbers 36:8 >>]]</td></tr></table>
 

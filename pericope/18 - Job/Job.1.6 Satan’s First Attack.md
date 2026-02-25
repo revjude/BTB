@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Satan’s First Attack
+type: Pericope
 pericope: "[[Job.1.6 Satan’s First Attack|Satan’s First Attack]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 1
 book/chapter: "[[Job.1|Job 1]]"
-genre:
+chronological_order: 12
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 7
 verses:
 - "[[Job.1.6]]"
 - "[[Job.1.7]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Job.1.12]]"
 ---
 
-[[Job.1|Job 1:6 - Job 1:12]]
+<small>[[Job.1|Job 1:6-12]]</small>
 *Satan’s First Attack*
 
 [[Job.1.6|6]] Now there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them.

@@ -1,8 +1,79 @@
+---
+title: Deuteronomy 15:18
+type: Verse
+kjv: "It shall not seem hard unto thee, when thou sendest him away free from thee; for he hath been worth a double hired servant to thee, in serving thee six years: and the LORD thy God shall bless thee in all that thou doest."
+bsb: "Do not regard it as a hardship to set your servant free, because his six years of service were worth twice the wages of a hired hand. And the LORD your God will bless you in all you do."
+hebrew: "לֹא־ יִקְשֶׁ֣ה בְעֵינֶ֗ךָ בְּשַׁלֵּֽחֲךָ֙ אֹת֤וֹ חָפְשִׁי֙ מֵֽעִמָּ֔ךְ כִּ֗י מִשְׁנֶה֙ שְׂכַ֣ר שָׂכִ֔יר עֲבָֽדְךָ֖ שֵׁ֣שׁ שָׁנִ֑ים וּבֵֽרַכְךָ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ בְּכֹ֖ל אֲשֶׁ֥ר תַּעֲשֶֽׂה׃ פ"
+pericope: "[[Deut.15.12 Hebrew Servants|Hebrew Servants]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 15
+book/chapter: "[[Deut.15|Deuteronomy 15]]"
+chronological_order: 211
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic EMPLOYEE|EMPLOYEE]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7185]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9021]]"
+- "[[H7971H]]"
+- "[[H9041]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H2670]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H9031]]"
+- "[[H3588A]]"
+- "[[H4932H]]"
+- "[[H7939]]"
+- "[[H7916]]"
+- "[[H5647G]]"
+- "[[H8337]]"
+- "[[H8141]]"
+- "[[H9001]]"
+- "[[H1288]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Deuteronomy 15:18**<big><big>[[Deut.15.12 Hebrew Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It shall not seem hard unto thee, when thou sendest him away free from thee; for he hath been worth a double hired servant [to thee], in serving thee six years: and the LORD thy God shall bless thee in all that thou doest.
 <small><sub>**BSB:**</sub></small>
 Do not regard it as a hardship to set your servant free, because his six years of service were worth twice the wages of a hired hand. And the LORD your God will bless you in all you do.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H7185\|יִקְשֶׁ֣ה]] [[H9003\|בְ]][[H5869I\|עֵינֶ֗]][[H9021\|ךָ]] [[H9003\|בְּ]][[H7971H\|שַׁלֵּֽחֲ]][[H9041\|ךָ֙]] [[H0853\|אֹת֤]][[H9033\|וֹ]] [[H2670\|חָפְשִׁי֙]] [[H9006\|מֵֽ]][[H5973B\|עִמָּ֔]][[H9031\|ךְ]] [[H3588A\|כִּ֗י]] [[H4932H\|מִשְׁנֶה֙]] [[H7939\|שְׂכַ֣ר]] [[H7916\|שָׂכִ֔יר]] [[H5647G\|עֲבָֽדְ]][[H9031\|ךָ֖]] [[H8337\|שֵׁ֣שׁ]] [[H8141\|שָׁנִ֑ים]] [[H9001\|וּ]][[H1288\|בֵֽרַכְ]][[H9031\|ךָ֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H3605\|כֹ֖ל]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|תַּעֲשֶֽׂה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic EMPLOYEE|EMPLOYEE]] • [[topic LIBERALITY|LIBERALITY]] • [[topic SABBATIC YEAR|SABBATIC YEAR]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.17|<< Deuteronomy 15:17]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.19|Deuteronomy 15:19 >>]]</td></tr></table>
 
@@ -27,7 +98,7 @@ Do not regard it as a hardship to set your servant free, because his six years o
 | God your  |**<big>&#8207;[[H0430G\|אֱלֹהֶ֔י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in all  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3605\|כֹ֖ל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Khol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will do  |**<big>&#8207;[[H6213A\|תַּעֲשֶֽׂה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ta.'a.Seh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will do  |**<big>&#8207;[[H6213A\|תַּעֲשֶֽׂה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ta.'a.Seh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.17|<< Deuteronomy 15:17]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.19|Deuteronomy 15:19 >>]]</td></tr></table>
 
 

@@ -3,7 +3,7 @@
 
 → (The inhabitants of Sodom, many of whom openly practiced homosexuality)
 
-→ Wickedness of [[Gen.19.4|Ge 19:4]]-[[Gen.19.14|14]]
+→ Wickedness of [[Gen.19.4|Ge 19:4-14]]
 
 → Destroyed by fire as a judgement [[Gen.19.24|Ge 19:24]],[[Gen.19.25|25]]
 

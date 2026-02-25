@@ -1,10 +1,68 @@
+---
+title: John 17:24
+type: Verse
+kjv: "Father, I will that they also, whom thou hast given me, be with me where I am; that they may behold my glory, which thou hast given me: for thou lovedst me before the foundation of the world."
+bsb: "Father, I want those You have given Me to be with Me where I am, that they may see the glory You gave Me because You loved Me before the foundation of the world."
+jesus_said: "Father, I will that they also, whom thou hast given me, be with me where I am; that they may behold my glory, which thou hast given me: for thou lovedst me before the foundation of the world."
+greek: "Πάτερ, ὃ δέδωκάς μοι θέλω ἵνα ὅπου εἰμὶ ἐγὼ κἀκεῖνοι κἀκεῖνοι ὦσιν μετ᾽ ἐμοῦ, ἵνα θεωρῶσιν τὴν δόξαν τὴν ἐμὴν ἣν δέδωκάς μοι, ὅτι ἠγάπησάς με πρὸ καταβολῆς κόσμου."
+pericope: "[[John.17.20 Prayer for All Believers|Prayer for All Believers]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 17
+book/chapter: "[[John.17|John 17]]"
+chronological_order: 1005
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G3962]]"
+- "[[G3739]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G2309]]"
+- "[[G2443]]"
+- "[[G3699]]"
+- "[[G1510]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1565]]"
+- "[[G3326]]"
+- "[[G2334]]"
+- "[[G3588]]"
+- "[[G1391]]"
+- "[[G3754H]]"
+- "[[G0025]]"
+- "[[G4253]]"
+- "[[G2602]]"
+- "[[G2889]]"
+texts:
+- NK(o)
+- N(k)O
+- NKO
+---
+
 **John 17:24**<big><big>[[John.17.20 Prayer for All Believers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Father, I will that they also, whom thou hast given me, be with me where I am; that they may behold my glory, which thou hast given me: for thou lovedst me before the foundation of the world.
 <small><sub>**BSB:**</sub></small>
 Father, I want those You have given Me to be with Me where I am, that they may see the glory You gave Me because You loved Me before the foundation of the world.
-<small><sub>**Literal:**</sub></small>
-Father, that [one] You have given Me I desire that where am I myself they also may be with Me, that they may behold <the> glory <the> of Mine that You have given Me because You loved Me before [the] foundation of [the] world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.23|<< John 17:23]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.25|John 17:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3962\|Πάτερ,]]  [[G3739\|ὃ]]  [[G1325\|δέδωκάς]]  [[G3165\|μοι]]  [[G2309\|θέλω]]  [[G2443\|ἵνα]]  [[G3699\|ὅπου]]  [[G1510\|εἰμὶ]]  [[G1473\|ἐγὼ]]  [[G2532\|κἀκεῖνοι]]  <sup><small>[[G1565\| [ • ] ]]</small></sup>  [[G1510\|ὦσιν]]  [[G3326\|μετ᾽]]  [[G1473\|ἐμοῦ,]]  [[G2443\|ἵνα]]  [[G2334\|θεωρῶσιν]]  [[G3588\|τὴν]]  [[G1391\|δόξαν]]  [[G3588\|τὴν]]  [[G1473\|ἐμὴν]]  [[G3739\|ἣν]]  [[G1325\|δέδωκάς]]  [[G3165\|μοι,]]  [[G3754H\|ὅτι]]  [[G0025\|ἠγάπησάς]]  [[G3165\|με]]  [[G4253\|πρὸ]]  [[G2602\|καταβολῆς]]  [[G2889\|κόσμου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.23|<< John 17:23]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.25|John 17:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

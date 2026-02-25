@@ -1,10 +1,62 @@
+---
+title: Mark 8:1
+type: Verse
+kjv: "In those days the multitude being very great, and having nothing to eat, Jesus called his disciples unto him, and saith unto them,"
+bsb: "In those days the crowd once again became very large, and they had nothing to eat. Jesus called the disciples to Him and said,"
+greek: "Ἐν ἐκείναις ταῖς ἡμέραις πάλιν πολλοῦ ὄχλου ὄντος καὶ μὴ ἐχόντων τί φάγωσιν, προσκαλεσάμενος ὁ Ἰησοῦς τοὺς μαθητὰς αὐτοῦ λέγει αὐτοῖς·"
+pericope: "[[Mark.8.1 The Feeding of the Four Thousand|The Feeding of the Four Thousand]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G1722]]"
+- "[[G1565]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3825]]"
+- "[[G4183]]"
+- "[[G3793]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G2192]]"
+- "[[G5101]]"
+- "[[G5315]]"
+- "[[G4341]]"
+- "[[G2424G]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+texts:
+- NKO
+- NO
+- N(k)O
+- k
+---
+
 **Mark 8:1**<big><big>[[Mark.8.1 The Feeding of the Four Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 In those days the multitude being very great, and having nothing to eat, Jesus called his disciples [unto him], and saith unto them,
 <small><sub>**BSB:**</sub></small>
 In those days the crowd once again became very large, and they had nothing to eat. Jesus called the disciples to Him and said,
-<small><sub>**Literal:**</sub></small>
-In those <the> days again much [the] crowd being and not having what they may eat, having called to [Him] <the> Jesus the disciples of him He says to them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.37|<< Mark 7:37]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.2|Mark 8:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|Ἐν]]  [[G1565\|ἐκείναις]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις]]  [[G3825\|πάλιν]]  [[G4183\|πολλοῦ]]  [[G3793\|ὄχλου]]  [[G1510\|ὄντος]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G2192\|ἐχόντων]]  [[G5101\|τί]]  [[G5315\|φάγωσιν,]]  [[G4341\|προσκαλεσάμενος]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3588\|τοὺς]]  [[G3101\|μαθητὰς]]  [[G0846\|αὐτοῦ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.37|<< Mark 7:37]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.2|Mark 8:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

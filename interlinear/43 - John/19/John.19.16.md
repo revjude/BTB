@@ -1,10 +1,60 @@
+---
+title: John 19:16
+type: Verse
+kjv: "Then delivered he him therefore unto them to be crucified. And they took Jesus, and led him away."
+bsb: "Then Pilate handed Jesus over to be crucified, and the soldiers took Him away."
+greek: "Τότε οὖν παρέδωκεν αὐτὸν αὐτοῖς ἵνα σταυρωθῇ. παρέλαβον οὖν τὸν Ἰησοῦν καὶ ἀπήγαγον·"
+pericope: "[[John.19.16 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COMPLICITY|COMPLICITY]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic VERDICT|VERDICT]]"
+strongs:
+- "[[G5119]]"
+- "[[G3767]]"
+- "[[G3860]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G4717]]"
+- "[[G3880]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G0520]]"
+texts:
+- NKO
+- N(K)O
+- K
+- K(o)
+---
+
 **John 19:16**<big><big>[[John.19.16 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then delivered he him therefore unto them to be crucified. And they took Jesus, and led [him] away.
 <small><sub>**BSB:**</sub></small>
 Then Pilate handed Jesus over to be crucified, and the soldiers took Him away.
-<small><sub>**Literal:**</sub></small>
-Then therefore he delivered Him to them that He may be crucified. They took therefore <the> Jesus and they led [him] away;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.15|<< John 19:15]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.17|John 19:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G3767\|οὖν]]  [[G3860\|παρέδωκεν]]  [[G0846\|αὐτὸν]]  [[G0846\|αὐτοῖς]]  [[G2443\|ἵνα]]  [[G4717\|σταυρωθῇ.]]  [[G3880\|παρέλαβον]]  [[G3767\|οὖν]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G2532\|καὶ]]  [[G0520\|ἀπήγαγον·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPLICITY|COMPLICITY]] • [[topic COWARDICE|COWARDICE]] • [[topic DEATH|DEATH]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRIEST|PRIEST]] • [[topic VERDICT|VERDICT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.15|<< John 19:15]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.17|John 19:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

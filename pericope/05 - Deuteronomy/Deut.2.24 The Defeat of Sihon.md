@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Defeat of Sihon
+type: Pericope
 pericope: "[[Deut.2.24 The Defeat of Sihon|The Defeat of Sihon]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 2
 book/chapter: "[[Deut.2|Deuteronomy 2]]"
-genre:
+chronological_order: 198
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 14
 verses:
 - "[[Deut.2.24]]"
 - "[[Deut.2.25]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Deut.2.37]]"
 ---
 
-[[Deut.2|Deuteronomy 2:24 - Deuteronomy 2:37]]
+<small>[[Deut.2|Deuteronomy 2:24-37]]</small>
 *The Defeat of Sihon*
 
 [[Deut.2.24|24]] Rise ye up, take your journey, and pass over the river Arnon: behold, I have given into thine hand Sihon the Amorite, king of Heshbon, and his land: begin to possess \[it\], and contend with him in battle.

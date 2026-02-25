@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Siege and Famine of Samaria
+type: Pericope
 pericope: "[[2Kgs.6.24 The Siege and Famine of Samaria|The Siege and Famine of Samaria]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 6
 book/chapter: "[[2Kgs.6|2 Kings 6]]"
-genre:
+chronological_order: 578
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 10
 verses:
 - "[[2Kgs.6.24]]"
 - "[[2Kgs.6.25]]"
@@ -28,7 +35,7 @@ verses:
 - "[[2Kgs.6.33]]"
 ---
 
-[[2Kgs.6|2 Kings 6:24 - 2 Kings 6:33]]
+<small>[[2Kgs.6|2 Kings 6:24-33]]</small>
 *The Siege and Famine of Samaria*
 
 [[2Kgs.6.24|24]] And it came to pass after this, that Benhadad king of Syria gathered all his host, and went up, and besieged Samaria.

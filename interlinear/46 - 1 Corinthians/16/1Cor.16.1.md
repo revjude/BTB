@@ -1,10 +1,57 @@
+---
+title: 1 Corinthians 16:1
+type: Verse
+kjv: "Now concerning the collection for the saints, as I have given order to the churches of Galatia, even so do ye."
+bsb: "Now about the collection for the saints, you are to do as I directed the churches of Galatia:"
+greek: "Περὶ δὲ τῆς λογείας τῆς εἰς τοὺς ἁγίους ὥσπερ διέταξα ταῖς ἐκκλησίαις τῆς Γαλατίας, οὕτως καὶ ὑμεῖς ποιήσατε."
+pericope: "[[1Cor.16.1 The Collection for the Saints|The Collection for the Saints]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 16
+book/chapter: "[[1Cor.16|1 Corinthians 16]]"
+chronological_order: 1073
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic GALATIA|GALATIA]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[G4012]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3048]]"
+- "[[G1519]]"
+- "[[G0040H]]"
+- "[[G5618]]"
+- "[[G1299]]"
+- "[[G1577]]"
+- "[[G1053]]"
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G4160G]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 16:1**<big><big>[[1Cor.16.1 The Collection for the Saints|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now concerning the collection for the saints, as I have given order to the churches of Galatia, even so do ye.
 <small><sub>**BSB:**</sub></small>
 Now about the collection for the saints, you are to do as I directed the churches of Galatia:
-<small><sub>**Literal:**</sub></small>
-Concerning now the collection which [is] for the saints as I have directed the churches <the> of Galatia, so also you yourselves do perform.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.58|<< 1 Corinthians 15:58]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.2|1 Corinthians 16:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4012\|Περὶ]]  [[G1161\|δὲ]]  [[G3588\|τῆς]]  [[G3048\|λογείας]]  [[G3588\|τῆς]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G0040H\|ἁγίους]]  [[G5618\|ὥσπερ]]  [[G1299\|διέταξα]]  [[G3588\|ταῖς]]  [[G1577\|ἐκκλησίαις]]  [[G3588\|τῆς]]  [[G1053\|Γαλατίας,]]  [[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G4160G\|ποιήσατε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic GALATIA|GALATIA]] • [[topic LIBERALITY|LIBERALITY]] • [[topic POOR|POOR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.58|<< 1 Corinthians 15:58]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.2|1 Corinthians 16:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

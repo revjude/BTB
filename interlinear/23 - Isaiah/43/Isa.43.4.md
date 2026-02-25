@@ -1,8 +1,62 @@
+---
+title: Isaiah 43:4
+type: Verse
+kjv: "Since thou wast precious in my sight, thou hast been honourable, and I have loved thee: therefore will I give men for thee, and people for thy life."
+bsb: "Because you are precious and honored in My sight, and because I love you, I will give men in exchange for you and nations in place of your life."
+hebrew: "מֵאֲשֶׁ֨ר יָקַ֧רְתָּ בְעֵינַ֛י נִכְבַּ֖דְתָּ וַאֲנִ֣י אֲהַבְתִּ֑יךָ וְאֶתֵּ֤ן אָדָם֙ תַּחְתֶּ֔יךָ וּלְאֻמִּ֖ים תַּ֥חַת נַפְשֶֽׁךָ׃"
+pericope: "[[Isa.43.1 Israel’s Only Savior|Israel’s Only Savior]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 43
+book/chapter: "[[Isa.43|Isaiah 43]]"
+chronological_order: 682
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+strongs:
+- "[[H9006]]"
+- "[[H0834C]]"
+- "[[H3365]]"
+- "[[H9003]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H3513G]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H0157G]]"
+- "[[H9031]]"
+- "[[H5414G]]"
+- "[[H0120G]]"
+- "[[H8478H]]"
+- "[[H3816]]"
+- "[[H5315H]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 43:4**<big><big>[[Isa.43.1 Israel’s Only Savior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Since thou wast precious in my sight, thou hast been honourable, and I have loved thee: therefore will I give men for thee, and people for thy life.
 <small><sub>**BSB:**</sub></small>
 Because you are precious and honored in My sight, and because I love you, I will give men in exchange for you and nations in place of your life.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מֵ]][[H0834C\|אֲשֶׁ֨ר]] [[H3365\|יָקַ֧רְתָּ]] [[H9003\|בְ]][[H5869A\|עֵינַ֛]][[H9020\|י]] [[H3513G\|נִכְבַּ֖דְתָּ]] [[H9002\|וַ]][[H0589\|אֲנִ֣י]] [[H0157G\|אֲהַבְתִּ֑י]][[H9031\|ךָ]] [[H9002\|וְ]][[H5414G\|אֶתֵּ֤ן]] [[H0120G\|אָדָם֙]] [[H8478H\|תַּחְתֶּ֔י]][[H9031\|ךָ]] [[H9002\|וּ]][[H3816\|לְאֻמִּ֖ים]] [[H8478H\|תַּ֥חַת]] [[H5315H\|נַפְשֶֽׁ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.3|<< Isaiah 43:3]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.5|Isaiah 43:5 >>]]</td></tr></table>
 

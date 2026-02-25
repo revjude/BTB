@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Rulers and Prophets Condemned
+type: Pericope
 pericope: "[[Mic.3.1 Rulers and Prophets Condemned|Rulers and Prophets Condemned]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Micah
 chapter: 3
 book/chapter: "[[Mic.3|Micah 3]]"
-genre:
+chronological_order: 625
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 12
 verses:
 - "[[Mic.3.1]]"
 - "[[Mic.3.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Mic.3.12]]"
 ---
 
-[[Mic.3|Micah 3:1 - Micah 3:12]]
+<small>[[Mic.3|Micah 3:1-12]]</small>
 *Rulers and Prophets Condemned*
 
 [[Mic.3.1|1]] And I said, Hear, I pray you, O heads of Jacob, and ye princes of the house of Israel; \[Is it\] not for you to know judgment?

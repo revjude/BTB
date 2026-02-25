@@ -1,8 +1,70 @@
+---
+title: Isaiah 2:19
+type: Verse
+kjv: "And they shall go into the holes of the rocks, and into the caves of the earth, for fear of the LORD, and for the glory of his majesty, when he ariseth to shake terribly the earth."
+bsb: "Men will flee to caves in the rocks and holes in the ground, away from the terror of the LORD and from the splendor of His majesty, when He rises to shake the earth."
+hebrew: "וּבָ֙אוּ֙ בִּמְעָר֣וֹת צֻרִ֔ים וּבִמְחִלּ֖וֹת עָפָ֑ר מִפְּנֵ֞י פַּ֤חַד יְהוָה֙ וּמֵהֲדַ֣ר גְּאוֹנ֔וֹ בְּקוּמ֖וֹ לַעֲרֹ֥ץ הָאָֽרֶץ׃"
+pericope: "[[Isa.2.5 The Day of Reckoning|The Day of Reckoning]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 2
+book/chapter: "[[Isa.2|Isaiah 2]]"
+chronological_order: 610
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic REMORSE|REMORSE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H4631]]"
+- "[[H6697H]]"
+- "[[H9002]]"
+- "[[H4247]]"
+- "[[H6083]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H6343]]"
+- "[[H3068G]]"
+- "[[H1926]]"
+- "[[H1347]]"
+- "[[H9023]]"
+- "[[H6965B]]"
+- "[[H9043]]"
+- "[[H9005]]"
+- "[[H6206]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 2:19**<big><big>[[Isa.2.5 The Day of Reckoning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall go into the holes of the rocks, and into the caves of the earth, for fear of the LORD, and for the glory of his majesty, when he ariseth to shake terribly the earth.
 <small><sub>**BSB:**</sub></small>
 Men will flee to caves in the rocks and holes in the ground, away from the terror of the LORD and from the splendor of His majesty, when He rises to shake the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H0935G\|בָ֙אוּ֙]] [[H9003\|בִּ]][[H4631\|מְעָר֣וֹת]] [[H6697H\|צֻרִ֔ים]] [[H9002\|וּ]][[H9003\|בִ]][[H4247\|מְחִלּ֖וֹת]] [[H6083\|עָפָ֑ר]] [[H9006\|מִ]][[H6440G\|פְּנֵ֞י]] [[H6343\|פַּ֤חַד]] [[H3068G\|יְהוָה֙]] [[H9002\|וּ]][[H9006\|מֵ]][[H1926\|הֲדַ֣ר]] [[H1347\|גְּאוֹנ֔]][[H9023\|וֹ]] [[H9003\|בְּ]][[H6965B\|קוּמ֖]][[H9043\|וֹ]] [[H9005\|לַ]][[H6206\|עֲרֹ֥ץ]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESPONDENCY|DESPONDENCY]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISAIAH|ISAIAH]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic REMORSE|REMORSE]] • [[topic REVERENCE|REVERENCE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.18|<< Isaiah 2:18]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.20|Isaiah 2:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

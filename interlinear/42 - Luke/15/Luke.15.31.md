@@ -1,10 +1,63 @@
+---
+title: Luke 15:31
+type: Verse
+kjv: "And he said unto him, Son, thou art ever with me, and all that I have is thine."
+bsb: "‘Son, you are always with me,’ the father said, ‘and all that is mine is yours."
+jesus_said: "And he said unto him, Son, thou art ever with me, and all that I have is thine."
+greek: "Ὁ δὲ εἶπεν αὐτῷ· τέκνον, σὺ πάντοτε μετ᾽ ἐμοῦ εἶ, καὶ πάντα τὰ ἐμὰ σά ἐστιν."
+pericope: "[[Luke.15.11 The Parable of the Prodigal Son|The Parable of the Prodigal Son]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 15
+book/chapter: "[[Luke.15|Luke 15]]"
+chronological_order: 977
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRODIGAL SON|PRODIGAL SON]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G5043]]"
+- "[[G4771]]"
+- "[[G3842]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G3956]]"
+texts:
+- NKO
+---
+
 **Luke 15:31**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto him, Son, thou art ever with me, and all that I have is thine.
 <small><sub>**BSB:**</sub></small>
 ‘Son, you are always with me,’ the father said, ‘and all that is mine is yours.
-<small><sub>**Literal:**</sub></small>
-<the> And he said to him; Son, you yourself always with me are, and all that [is] mine yours is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.30|<< Luke 15:30]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.32|Luke 15:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G5043\|τέκνον,]]  [[G4771\|σὺ]]  [[G3842\|πάντοτε]]  [[G3326\|μετ᾽]]  [[G1473\|ἐμοῦ]]  [[G1510\|εἶ,]]  [[G2532\|καὶ]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G1473\|ἐμὰ]]  [[G4771\|σά]]  [[G1510\|ἐστιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INHERITANCE|INHERITANCE]] • [[topic JEALOUSY|JEALOUSY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic PENITENT|PENITENT]] • [[topic PRODIGAL SON|PRODIGAL SON]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SALVATION|SALVATION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.30|<< Luke 15:30]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.32|Luke 15:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

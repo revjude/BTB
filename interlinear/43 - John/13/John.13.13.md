@@ -1,10 +1,57 @@
+---
+title: John 13:13
+type: Verse
+kjv: "Ye call me Master and Lord: and ye say well; for so I am."
+bsb: "You call Me Teacher and Lord, and rightly so, because I am."
+jesus_said: "Ye call me Master and Lord: and ye say well; for so I am."
+greek: "ὑμεῖς φωνεῖτέ με· ὁ διδάσκαλος καὶ ὁ κύριος, καὶ καλῶς λέγετε· εἰμὶ γάρ."
+pericope: "[[John.13.1 Jesus Washes His Disciples’ Feet|Jesus Washes His Disciples’ Feet]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic FEET|FEET]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G4771]]"
+- "[[G5455]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G1320]]"
+- "[[G2532]]"
+- "[[G2962G]]"
+- "[[G2573]]"
+- "[[G3004G]]"
+- "[[G1510]]"
+- "[[G1063]]"
+texts:
+- NKO
+---
+
 **John 13:13**<big><big>[[John.13.1 Jesus Washes His Disciples’ Feet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ye call me Master and Lord: and ye say well; for [so] I am.
 <small><sub>**BSB:**</sub></small>
 You call Me Teacher and Lord, and rightly so, because I am.
-<small><sub>**Literal:**</sub></small>
-You yourselves call Me: <the> Teacher and <the> Lord, and rightly you say; I am for.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.12|<< John 13:12]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.14|John 13:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|ὑμεῖς]]  [[G5455\|φωνεῖτέ]]  [[G3165\|με·]]  [[G3588\|ὁ]]  [[G1320\|διδάσκαλος]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2962G\|κύριος,]]  [[G2532\|καὶ]]  [[G2573\|καλῶς]]  [[G3004G\|λέγετε·]]  [[G1510\|εἰμὶ]]  [[G1063\|γάρ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic EXAMPLE|EXAMPLE]] • [[topic FEET|FEET]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MASTER|MASTER]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.12|<< John 13:12]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.14|John 13:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

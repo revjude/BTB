@@ -1,8 +1,66 @@
+---
+title: 1 Samuel 28:19
+type: Verse
+kjv: "Moreover the LORD will also deliver Israel with thee into the hand of the Philistines: and to morrow shalt thou and thy sons be with me: the LORD also shall deliver the host of Israel into the hand of the Philistines."
+bsb: "Moreover, the LORD will deliver Israel with you into the hand of the Philistines, and tomorrow you and your sons will be with me. And the LORD will deliver the army of Israel into the hand of the Philistines.”"
+hebrew: "וְיִתֵּ֣ן יְ֠הוָה גַּ֣ם אֶת־ יִשְׂרָאֵ֤ל עִמְּךָ֙ בְּיַד־ פְּלִשְׁתִּ֔ים וּמָחָ֕ר אַתָּ֥ה וּבָנֶ֖יךָ עִמִּ֑י גַּ֚ם אֶת־ מַחֲנֵ֣ה יִשְׂרָאֵ֔ל יִתֵּ֥ן יְהוָ֖ה בְּיַד־ פְּלִשְׁתִּֽים׃"
+pericope: "[[1Sam.28.7 Saul and the Medium of Endor|Saul and the Medium of Endor]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 28
+book/chapter: "[[1Sam.28|1 Samuel 28]]"
+chronological_order: 307
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic EN-DOR|EN-DOR]]"
+- "[[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]]"
+- "[[topic NECROMANCY|NECROMANCY]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic SORCERY|SORCERY]]"
+- "[[topic WITCHCRAFT|WITCHCRAFT]]"
+strongs:
+- "[[H9002]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H1571]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H5973A]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H6430G]]"
+- "[[H4279]]"
+- "[[H0859A]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H9030]]"
+- "[[H4264]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 28:19**<big><big>[[1Sam.28.7 Saul and the Medium of Endor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the LORD will also deliver Israel with thee into the hand of the Philistines: and to morrow [shalt] thou and thy sons [be] with me: the LORD also shall deliver the host of Israel into the hand of the Philistines.
 <small><sub>**BSB:**</sub></small>
 Moreover, the LORD will deliver Israel with you into the hand of the Philistines, and tomorrow you and your sons will be with me. And the LORD will deliver the army of Israel into the hand of the Philistines.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5414G\|יִתֵּ֣ן]] [[H3068G\|יְ֠הוָה]] [[H1571\|גַּ֣ם]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֤ל]] [[H5973A\|עִמְּ]][[H9031\|ךָ֙]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H6430G\|פְּלִשְׁתִּ֔ים]] [[H9002\|וּ]][[H4279\|מָחָ֕ר]] [[H0859A\|אַתָּ֥ה]] [[H9002\|וּ]][[H1121A\|בָנֶ֖י]][[H9021\|ךָ]] [[H5973A\|עִמִּ֑]][[H9030\|י]] [[H1571\|גַּ֚ם]] [[H0853\|אֶת]][[H9014\|־]] [[H4264\|מַחֲנֵ֣ה]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H5414G\|יִתֵּ֥ן]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H6430G\|פְּלִשְׁתִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic EN-DOR|EN-DOR]] • [[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]] • [[topic NECROMANCY|NECROMANCY]] • [[topic SAMUEL|SAMUEL]] • [[topic SAUL|SAUL]] • [[topic SORCERY|SORCERY]] • [[topic WITCHCRAFT|WITCHCRAFT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.28.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.28.18|<< 1 Samuel 28:18]]</td><td align="center" style="border:none;">[[1Sam.28|1 Samuel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.28.20|1 Samuel 28:20 >>]]</td></tr></table>
 

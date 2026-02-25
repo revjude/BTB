@@ -1,10 +1,59 @@
+---
+title: Ephesians 3:18
+type: Verse
+kjv: "May be able to comprehend with all saints what is the breadth, and length, and depth, and height;"
+bsb: "will have power, together with all the saints, to comprehend the length and width and height and depth"
+greek: "ἵνα ἐξισχύσητε καταλαβέσθαι σὺν πᾶσιν τοῖς ἁγίοις τί τὸ πλάτος καὶ μῆκος καὶ ὕψος καὶ βάθος,"
+pericope: "[[Eph.3.14 Paul’s Prayer for the Ephesians|Paul’s Prayer for the Ephesians]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 3
+book/chapter: "[[Eph.3|Ephesians 3]]"
+chronological_order: 1113
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic PARADOX|PARADOX]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G2443]]"
+- "[[G1840]]"
+- "[[G2638]]"
+- "[[G4862]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0040H]]"
+- "[[G5101]]"
+- "[[G4114]]"
+- "[[G2532]]"
+- "[[G3372]]"
+- "[[G5311]]"
+- "[[G0899]]"
+texts:
+- NKO
+---
+
 **Ephesians 3:18**<big><big>[[Eph.3.14 Paul’s Prayer for the Ephesians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 May be able to comprehend with all saints what [is] the breadth, and length, and depth, and height;
 <small><sub>**BSB:**</sub></small>
 will have power, together with all the saints, to comprehend the length and width and height and depth
-<small><sub>**Literal:**</sub></small>
-so that you may be fully able to grasp with all the saints what [is] the breadth and length and height and depth<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.17|<< Ephesians 3:17]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.19|Ephesians 3:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G1840\|ἐξισχύσητε]]  [[G2638\|καταλαβέσθαι]]  [[G4862\|σὺν]]  [[G3956\|πᾶσιν]]  [[G3588\|τοῖς]]  [[G0040H\|ἁγίοις]]  [[G5101\|τί]]  [[G3588\|τὸ]]  [[G4114\|πλάτος]]  [[G2532\|καὶ]]  [[G3372\|μῆκος]]  [[G2532\|καὶ]]  [[G5311\|ὕψος]]  [[G2532\|καὶ]]  [[G0899\|βάθος,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic MYSTERIES|MYSTERIES]] • [[topic PARADOX|PARADOX]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.17|<< Ephesians 3:17]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.19|Ephesians 3:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

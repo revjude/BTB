@@ -1,8 +1,73 @@
+---
+title: 1 Kings 15:22
+type: Verse
+kjv: "Then king Asa made a proclamation throughout all Judah; none was exempted: and they took away the stones of Ramah, and the timber thereof, wherewith Baasha had builded; and king Asa built with them Geba of Benjamin, and Mizpah."
+bsb: "Then King Asa summoned all the men of Judah, with no exceptions, and they carried away the stones of Ramah and the timbers Baasha had used for building. And with these materials King Asa built up Geba of Benjamin, as well as Mizpah."
+hebrew: "וְהַמֶּ֨לֶךְ אָסָ֜א הִשְׁמִ֤יעַ אֶת־ כָּל־ יְהוּדָה֙ אֵ֣ין נָקִ֔י וַיִּשְׂא֞וּ אֶת־ אַבְנֵ֤י הָֽרָמָה֙ וְאֶת־ עֵצֶ֔יהָ אֲשֶׁ֥ר בָּנָ֖ה בַּעְשָׁ֑א וַיִּ֤בֶן בָּם֙ הַמֶּ֣לֶךְ אָסָ֔א אֶת־ גֶּ֥בַע בִּנְיָמִ֖ן וְאֶת־ הַמִּצְפָּֽה׃"
+pericope: "[[1Kgs.15.16 War between Asa and Baasha|War between Asa and Baasha]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 15
+book/chapter: "[[1Kgs.15|1 Kings 15]]"
+chronological_order: 554
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ASA|ASA]]"
+- "[[topic BAASHA|BAASHA]]"
+- "[[topic GEBA|GEBA]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MIZPAH|MIZPAH]]"
+- "[[topic RAMAH|RAMAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0609G]]"
+- "[[H8085I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H3063G]]"
+- "[[H0369]]"
+- "[[H5355A]]"
+- "[[H9001]]"
+- "[[H5375H]]"
+- "[[H0068G]]"
+- "[[H7414G]]"
+- "[[H6086G]]"
+- "[[H9024]]"
+- "[[H0834A]]"
+- "[[H1129]]"
+- "[[H1201]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H1387G]]"
+- "[[H1144G]]"
+- "[[H4709G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 15:22**<big><big>[[1Kgs.15.16 War between Asa and Baasha|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then king Asa made a proclamation throughout all Judah; none [was] exempted: and they took away the stones of Ramah, and the timber thereof, wherewith Baasha had builded; and king Asa built with them Geba of Benjamin, and Mizpah.
 <small><sub>**BSB:**</sub></small>
 Then King Asa summoned all the men of Judah, with no exceptions, and they carried away the stones of Ramah and the timbers Baasha had used for building. And with these materials King Asa built up Geba of Benjamin, as well as Mizpah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H4428G\|מֶּ֨לֶךְ]] [[H0609G\|אָסָ֜א]] [[H8085I\|הִשְׁמִ֤יעַ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3063G\|יְהוּדָה֙]] [[H0369\|אֵ֣ין]] [[H5355A\|נָקִ֔י]] [[H9001\|וַ]][[H5375H\|יִּשְׂא֞וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0068G\|אַבְנֵ֤י]] [[H9009\|הָֽ]][[H7414G\|רָמָה֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6086G\|עֵצֶ֔י]][[H9024\|הָ]] [[H0834A\|אֲשֶׁ֥ר]] [[H1129\|בָּנָ֖ה]] [[H1201\|בַּעְשָׁ֑א]] [[H9001\|וַ]][[H1129\|יִּ֤בֶן]] [[H9003\|בָּ]][[H9038\|ם֙]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H0609G\|אָסָ֔א]] [[H0853\|אֶת]][[H9014\|־]] [[H1387G\|גֶּ֥בַע]] [[H1144G\|בִּנְיָמִ֖ן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4709G\|מִּצְפָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASA|ASA]] • [[topic BAASHA|BAASHA]] • [[topic GEBA|GEBA]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MIZPAH|MIZPAH]] • [[topic RAMAH|RAMAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.21|<< 1 Kings 15:21]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.23|1 Kings 15:23 >>]]</td></tr></table>
 

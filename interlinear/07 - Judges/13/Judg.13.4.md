@@ -1,8 +1,57 @@
+---
+title: Judges 13:4
+type: Verse
+kjv: "Now therefore beware, I pray thee, and drink not wine nor strong drink, and eat not any unclean thing:"
+bsb: "Now please be careful not to drink wine or strong drink, and not to eat anything unclean."
+hebrew: "וְעַתָּה֙ הִשָּׁ֣מְרִי נָ֔א וְאַל־ תִּשְׁתִּ֖י יַ֣יִן וְשֵׁכָ֑ר וְאַל־ תֹּאכְלִ֖י כָּל־ טָמֵֽא׃"
+pericope: "[[Judg.13.1 The Birth of Samson|The Birth of Samson]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 13
+book/chapter: "[[Judg.13|Judges 13]]"
+chronological_order: 267
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ABSTINENCE|ABSTINENCE]]"
+- "[[topic CONCEPTION|CONCEPTION]]"
+- "[[topic MANOAH|MANOAH]]"
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H8104J]]"
+- "[[H4994]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H8354]]"
+- "[[H3196]]"
+- "[[H7941]]"
+- "[[H0398]]"
+- "[[H3605]]"
+- "[[H2931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 13:4**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore beware, I pray thee, and drink not wine nor strong drink, and eat not any unclean [thing]:
 <small><sub>**BSB:**</sub></small>
 Now please be careful not to drink wine or strong drink, and not to eat anything unclean.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּה֙]] [[H8104J\|הִשָּׁ֣מְרִי]] [[H4994\|נָ֔א]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H8354\|תִּשְׁתִּ֖י]] [[H3196\|יַ֣יִן]] [[H9002\|וְ]][[H7941\|שֵׁכָ֑ר]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H0398\|תֹּאכְלִ֖י]] [[H3605\|כָּל]][[H9014\|־]] [[H2931\|טָמֵֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSTINENCE|ABSTINENCE]] • [[topic CONCEPTION|CONCEPTION]] • [[topic MANOAH|MANOAH]] • [[topic SAMSON|SAMSON]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.3|<< Judges 13:3]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.5|Judges 13:5 >>]]</td></tr></table>
 

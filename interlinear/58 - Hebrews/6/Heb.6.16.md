@@ -1,10 +1,59 @@
+---
+title: Hebrews 6:16
+type: Verse
+kjv: "For men verily swear by the greater: and an oath for confirmation is to them an end of all strife."
+bsb: "Men swear by someone greater than themselves, and their oath serves as a confirmation to end all argument."
+greek: "ἄνθρωποι μὲν γὰρ κατὰ τοῦ μείζονος ὀμνύουσιν, καὶ πάσης αὐτοῖς ἀντιλογίας πέρας εἰς βεβαίωσιν ὁ ὅρκος·"
+pericope: "[[Heb.6.13 God’s Unchangeable Promise|God’s Unchangeable Promise]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 6
+book/chapter: "[[Heb.6|Hebrews 6]]"
+chronological_order: 1145
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OATH|OATH]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G0444]]"
+- "[[G3303]]"
+- "[[G1063]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G3173]]"
+- "[[G3660]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G0846]]"
+- "[[G0485]]"
+- "[[G4009]]"
+- "[[G1519]]"
+- "[[G0951]]"
+- "[[G3727]]"
+texts:
+- NKO
+- k
+---
+
 **Hebrews 6:16**<big><big>[[Heb.6.13 God’s Unchangeable Promise|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For men verily swear by the greater: and an oath for confirmation [is] to them an end of all strife.
 <small><sub>**BSB:**</sub></small>
 Men swear by someone greater than themselves, and their oath serves as a confirmation to end all argument.
-<small><sub>**Literal:**</sub></small>
-Men indeed for by [one] greater swear, and in all their disputes finally [comes] to confirmation in the oath;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.15|<< Hebrews 6:15]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.17|Hebrews 6:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0444\|ἄνθρωποι]]  [[G3303\|μὲν]]  [[G1063\|γὰρ]]  [[G2596\|κατὰ]]  [[G3588\|τοῦ]]  [[G3173\|μείζονος]]  [[G3660\|ὀμνύουσιν,]]  [[G2532\|καὶ]]  [[G3956\|πάσης]]  [[G0846\|αὐτοῖς]]  [[G0485\|ἀντιλογίας]]  [[G4009\|πέρας]]  [[G1519\|εἰς]]  [[G0951\|βεβαίωσιν]]  [[G3588\|ὁ]]  [[G3727\|ὅρκος·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic GOD|GOD]] • [[topic OATH|OATH]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.15|<< Hebrews 6:15]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.17|Hebrews 6:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

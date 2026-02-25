@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jehoshaphat Allies with Ahab
+type: Pericope
 pericope: "[[2Chr.18.1 Jehoshaphat Allies with Ahab|Jehoshaphat Allies with Ahab]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 18
 book/chapter: "[[2Chr.18|2 Chronicles 18]]"
-genre:
+chronological_order: 570
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 11
 verses:
 - "[[2Chr.18.1]]"
 - "[[2Chr.18.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[2Chr.18.11]]"
 ---
 
-[[2Chr.18|2 Chronicles 18:1 - 2 Chronicles 18:11]]
+<small>[[2Chr.18|2 Chronicles 18:1-11]]</small>
 *Jehoshaphat Allies with Ahab*
 
 [[2Chr.18.1|1]] Now Jehoshaphat had riches and honour in abundance, and joined affinity with Ahab.

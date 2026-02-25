@@ -1,8 +1,59 @@
+---
+title: Ezekiel 12:15
+type: Verse
+kjv: "And they shall know that I am the LORD, when I shall scatter them among the nations, and disperse them in the countries."
+bsb: "And they will know that I am the LORD, when I disperse them among the nations and scatter them throughout the countries."
+hebrew: "וְיָדְע֖וּ כִּֽי־ אֲנִ֣י יְהוָ֑ה בַּהֲפִיצִ֤י אוֹתָם֙ בַּגּוֹיִ֔ם וְזֵרִיתִ֥י אוֹתָ֖ם בָּאֲרָצֽוֹת׃"
+pericope: "[[Ezek.12.1 Signs of the Coming Captivity|Signs of the Coming Captivity]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 12
+book/chapter: "[[Ezek.12|Ezekiel 12]]"
+chronological_order: 803
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H6327A]]"
+- "[[H9040]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H1471A]]"
+- "[[H2219]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 12:15**<big><big>[[Ezek.12.1 Signs of the Coming Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall know that I [am] the LORD, when I shall scatter them among the nations, and disperse them in the countries.
 <small><sub>**BSB:**</sub></small>
 And they will know that I am the LORD, when I disperse them among the nations and scatter them throughout the countries.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3045\|יָדְע֖וּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9003\|בַּ]][[H6327A\|הֲפִיצִ֤]][[H9040\|י]] [[H0853\|אוֹתָ]][[H9038\|ם֙]] [[H9003\|בַּ]][[H1471A\|גּוֹיִ֔ם]] [[H9001\|וְ]][[H2219\|זֵרִיתִ֥י]] [[H0853\|אוֹתָ֖]][[H9038\|ם]] [[H9003\|בָּ]][[H0776G\|אֲרָצֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.12.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.14|<< Ezekiel 12:14]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.16|Ezekiel 12:16 >>]]</td></tr></table>
 

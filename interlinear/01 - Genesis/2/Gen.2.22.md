@@ -1,8 +1,65 @@
+---
+title: Genesis 2:22
+type: Verse
+kjv: "And the rib, which the LORD God had taken from man, made he a woman, and brought her unto the man."
+bsb: "And from the rib that the LORD God had taken from the man, He made a woman and brought her to him."
+hebrew: "וַיִּבֶן֩ יְהוָ֨ה אֱלֹהִ֧ים׀ אֶֽת־ הַצֵּלָ֛ע אֲשֶׁר־ לָקַ֥ח מִן־ הָֽאָדָ֖ם לְאִשָּׁ֑ה וַיְבִאֶ֖הָ אֶל־ הָֽאָדָֽם׃"
+pericope: "[[Gen.2.4 Man and Woman in the Garden|Man and Woman in the Garden]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 2
+book/chapter: "[[Gen.2|Genesis 2]]"
+chronological_order: 2
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic EVE|EVE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9015]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6763]]"
+- "[[H0834A]]"
+- "[[H3947G]]"
+- "[[H4480A]]"
+- "[[H0120H]]"
+- "[[H9005]]"
+- "[[H0802G]]"
+- "[[H0935P]]"
+- "[[H9034]]"
+- "[[H0413]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 2:22**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the rib, which the LORD God had taken from man, made he a woman, and brought her unto the man.
 <small><sub>**BSB:**</sub></small>
 And from the rib that the LORD God had taken from the man, He made a woman and brought her to him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1129\|יִּבֶן֩]] [[H3068G\|יְהוָ֨ה]] [[H0430G\|אֱלֹהִ֧ים]][[H9015\|׀]] [[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הַ]][[H6763\|צֵּלָ֛ע]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3947G\|לָקַ֥ח]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָֽ]][[H0120H\|אָדָ֖ם]] [[H9005\|לְ]][[H0802G\|אִשָּׁ֑ה]] [[H9001\|וַ]][[H0935P\|יְבִאֶ֖]][[H9034\|הָ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָֽ]][[H0120H\|אָדָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic EVE|EVE]] • [[topic GOD|GOD]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.21|<< Genesis 2:21]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.23|Genesis 2:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

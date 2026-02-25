@@ -1,8 +1,54 @@
+---
+title: Job 39:29
+type: Verse
+kjv: "From thence she seeketh the prey, and her eyes behold afar off."
+bsb: "From there he spies out food; his eyes see it from afar."
+hebrew: "מִשָּׁ֥ם חָֽפַר־ אֹ֑כֶל לְ֝מֵרָח֗וֹק עֵינָ֥יו יַבִּֽיטוּ׃"
+pericope: "[[Job.39.1 The LORD Speaks of His Creation|The LORD Speaks of His Creation]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 39
+book/chapter: "[[Job.39|Job 39]]"
+chronological_order: 50
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic EAGLE|EAGLE]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H2658]]"
+- "[[H9014]]"
+- "[[H0400]]"
+- "[[H9005]]"
+- "[[H7350]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H5027]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 39:29**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From thence she seeketh the prey, [and] her eyes behold afar off.
 <small><sub>**BSB:**</sub></small>
 From there he spies out food; his eyes see it from afar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H8033G\|שָּׁ֥ם]] [[H2658\|חָֽפַר]][[H9014\|־]] [[H0400\|אֹ֑כֶל]] [[H9005\|לְ֝]][[H9006\|מֵ]][[H7350\|רָח֗וֹק]] [[H5869A\|עֵינָ֥י]][[H9023\|ו]] [[H5027\|יַבִּֽיטוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRDS|BIRDS]] • [[topic EAGLE|EAGLE]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.28|<< Job 39:28]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.30|Job 39:30 >>]]</td></tr></table>
 

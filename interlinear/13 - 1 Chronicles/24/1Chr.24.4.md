@@ -1,8 +1,64 @@
+---
+title: 1 Chronicles 24:4
+type: Verse
+kjv: "And there were more chief men found of the sons of Eleazar than of the sons of Ithamar; and thus were they divided. Among the sons of Eleazar there were sixteen chief men of the house of their fathers, and eight among the sons of Ithamar according to the house of their fathers."
+bsb: "Since more leaders were found among Eleazar’s descendants than those of Ithamar, they were divided accordingly. There were sixteen heads of families from the descendants of Eleazar and eight from the descendants of Ithamar."
+hebrew: "וַיִּמָּצְא֣וּ בְֽנֵי־ אֶלְעָזָ֡ר רַבִּ֞ים לְרָאשֵׁ֧י הַגְּבָרִ֛ים מִן־ בְּנֵ֥י אִיתָמָ֖ר וַֽיַּחְלְק֑וּם לִבְנֵ֨י אֶלְעָזָ֜ר רָאשִׁ֤ים לְבֵית־ אָבוֹת֙ שִׁשָּׁ֣ה עָשָׂ֔ר וְלִבְנֵ֧י אִיתָמָ֛ר לְבֵ֥ית אֲבוֹתָ֖ם שְׁמוֹנָֽה׃"
+pericope: "[[1Chr.24.1 Twenty-Four Divisions of Priests|Twenty-Four Divisions of Priests]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 24
+book/chapter: "[[1Chr.24|1 Chronicles 24]]"
+chronological_order: 435
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]]"
+- "[[topic ITHAMAR|ITHAMAR]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H4672]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0499G]]"
+- "[[H7227A]]"
+- "[[H9005]]"
+- "[[H7218H]]"
+- "[[H9009]]"
+- "[[H1397]]"
+- "[[H4480A]]"
+- "[[H0385]]"
+- "[[H2505A]]"
+- "[[H9038]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H8337]]"
+- "[[H6240]]"
+- "[[H9002]]"
+- "[[H9028]]"
+- "[[H8083]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 24:4**<big><big>[[1Chr.24.1 Twenty-Four Divisions of Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there were more chief men found of the sons of Eleazar than of the sons of Ithamar; and [thus] were they divided. Among the sons of Eleazar [there were] sixteen chief men of the house of [their] fathers, and eight among the sons of Ithamar according to the house of their fathers.
 <small><sub>**BSB:**</sub></small>
 Since more leaders were found among Eleazar’s descendants than those of Ithamar, they were divided accordingly. There were sixteen heads of families from the descendants of Eleazar and eight from the descendants of Ithamar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4672\|יִּמָּצְא֣וּ]] [[H1121A\|בְֽנֵי]][[H9014\|־]] [[H0499G\|אֶלְעָזָ֡ר]] [[H7227A\|רַבִּ֞ים]] [[H9005\|לְ]][[H7218H\|רָאשֵׁ֧י]] [[H9009\|הַ]][[H1397\|גְּבָרִ֛ים]] [[H4480A\|מִן]][[H9014\|־]] [[H1121A\|בְּנֵ֥י]] [[H0385\|אִיתָמָ֖ר]] [[H9001\|וַֽ]][[H2505A\|יַּחְלְק֑וּ]][[H9038\|ם]] [[H9005\|לִ]][[H1121A\|בְנֵ֨י]] [[H0499G\|אֶלְעָזָ֜ר]] [[H7218H\|רָאשִׁ֤ים]] [[H9005\|לְ]][[H1004M\|בֵית]][[H9014\|־]] [[H0001G\|אָבוֹת֙]] [[H8337\|שִׁשָּׁ֣ה]] [[H6240\|עָשָׂ֔ר]] [[H9002\|וְ]][[H9005\|לִ]][[H1121A\|בְנֵ֧י]] [[H0385\|אִיתָמָ֛ר]] [[H9005\|לְ]][[H1004M\|בֵ֥ית]] [[H0001G\|אֲבוֹתָ֖]][[H9028\|ם]] [[H8083\|שְׁמוֹנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]] • [[topic ITHAMAR|ITHAMAR]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.24.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.24.3|<< 1 Chronicles 24:3]]</td><td align="center" style="border:none;">[[1Chr.24|1 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.5|1 Chronicles 24:5 >>]]</td></tr></table>
 

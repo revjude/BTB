@@ -1,10 +1,76 @@
+---
+title: Luke 15:21
+type: Verse
+kjv: "And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son."
+bsb: "The son declared, ‘Father, I have sinned against heaven and against you. I am no longer worthy to be called your son.’"
+jesus_said: "And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son."
+greek: "εἶπεν δὲ ὁ υἱὸς αὐτῷ· πάτερ, ἥμαρτον εἰς τὸν οὐρανὸν καὶ ἐνώπιόν σου· καὶ οὐκέτι οὐκέτι εἰμὶ ἄξιος κληθῆναι υἱός σου ποίησόν με ὡς ἕνα τῶν μισθίων σου.¶"
+pericope: "[[Luke.15.11 The Parable of the Prodigal Son|The Parable of the Prodigal Son]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 15
+book/chapter: "[[Luke.15|Luke 15]]"
+chronological_order: 977
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRODIGAL SON|PRODIGAL SON]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0846]]"
+- "[[G3962]]"
+- "[[G0264]]"
+- "[[G1519]]"
+- "[[G3772]]"
+- "[[G2532]]"
+- "[[G1799]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G2089]]"
+- "[[G1510]]"
+- "[[G0514]]"
+- "[[G2564G]]"
+- "[[G4160G]]"
+- "[[G3165]]"
+- "[[G5613]]"
+- "[[G1520]]"
+- "[[G3407]]"
+texts:
+- NKO
+- k
+- O
+---
+
 **Luke 15:21**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son.
 <small><sub>**BSB:**</sub></small>
 The son declared, ‘Father, I have sinned against heaven and against you. I am no longer worthy to be called your son.’
-<small><sub>**Literal:**</sub></small>
-Said then the son to him: Father, I have sinned against <the> heaven and before you; and no longer am I worthy to be called son of you do make me as one of the servants of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.20|<< Luke 15:20]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.22|Luke 15:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G0846\|αὐτῷ·]]  [[G3962\|πάτερ,]]  [[G0264\|ἥμαρτον]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3772\|οὐρανὸν]]  [[G2532\|καὶ]]  [[G1799\|ἐνώπιόν]]  [[G4771\|σου·]]  [[G2532\|καὶ]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G1510\|εἰμὶ]]  [[G0514\|ἄξιος]]  [[G2564G\|κληθῆναι]]  [[G5207\|υἱός]]  [[G4771\|σου]]  [[G4160G\|ποίησόν]]  [[G3165\|με]]  [[G5613\|ὡς]]  [[G1520\|ἕνα]]  [[G3588\|τῶν]]  [[G3407\|μισθίων]]  [[G4771\|σου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic PENITENT|PENITENT]] • [[topic PRODIGAL SON|PRODIGAL SON]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SALVATION|SALVATION]] • [[topic SIN|SIN]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.20|<< Luke 15:20]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.22|Luke 15:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

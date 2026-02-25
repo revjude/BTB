@@ -1,8 +1,60 @@
+---
+title: Psalm 106:43
+type: Verse
+kjv: "Many times did he deliver them; but they provoked him with their counsel, and were brought low for their iniquity."
+bsb: "Many times He rescued them, but they were bent on rebellion and sank down in their iniquity."
+hebrew: "פְּעָמִ֥ים רַבּ֗וֹת יַצִּ֫ילֵ֥ם וְ֭הֵמָּה יַמְר֣וּ בַעֲצָתָ֑ם וַ֝יָּמֹ֗כּוּ בַּעֲוֹנָֽם׃"
+pericope: "[[Ps.106.1 Give Thanks to the LORD, for He Is Good|Give Thanks to the LORD, for He Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 106
+book/chapter: "[[Ps.106|Psalm 106]]"
+chronological_order: 530
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H6471]]"
+- "[[H7227A]]"
+- "[[H5337]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H1992]]"
+- "[[H4784]]"
+- "[[H9003]]"
+- "[[H6098]]"
+- "[[H9028]]"
+- "[[H9001]]"
+- "[[H4355]]"
+- "[[H5771G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 106:43**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Many times did he deliver them; but they provoked [him] with their counsel, and were brought low for their iniquity.
 <small><sub>**BSB:**</sub></small>
 Many times He rescued them, but they were bent on rebellion and sank down in their iniquity.
+<small><sub>**Hebrew:**</sub></small>
+[[H6471\|פְּעָמִ֥ים]] [[H7227A\|רַבּ֗וֹת]] [[H5337\|יַצִּ֫ילֵ֥]][[H9038\|ם]] [[H9002\|וְ֭]][[H1992\|הֵמָּה]] [[H4784\|יַמְר֣וּ]] [[H9003\|בַ]][[H6098\|עֲצָתָ֑]][[H9028\|ם]] [[H9001\|וַ֝]][[H4355\|יָּמֹ֗כּוּ]] [[H9003\|בַּ]][[H5771G\|עֲוֹנָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.42|<< Psalms 106:42]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.44|Psalms 106:44 >>]]</td></tr></table>
 

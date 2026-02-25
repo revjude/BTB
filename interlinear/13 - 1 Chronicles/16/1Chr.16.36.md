@@ -1,8 +1,63 @@
+---
+title: 1 Chronicles 16:36
+type: Verse
+kjv: "Blessed be the LORD God of Israel for ever and ever. And all the people said, Amen, and praised the LORD."
+bsb: "Blessed be the LORD, the God of Israel, from everlasting to everlasting.” Then all the people said, “Amen!” and “Praise the LORD!”"
+hebrew: "בָּר֤וּךְ יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל מִן־ הָעוֹלָ֖ם וְעַ֣ד הָעֹלָ֑ם וַיֹּאמְר֤וּ כָל־ הָעָם֙ אָמֵ֔ן וְהַלֵּ֖ל לַֽיהוָֽה׃ פ"
+pericope: "[[1Chr.16.23 Sing to the LORD, All the Earth|Sing to the LORD, All the Earth]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 16
+book/chapter: "[[1Chr.16|1 Chronicles 16]]"
+chronological_order: 397
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AMEN|AMEN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H1288]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5769G]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H0543]]"
+- "[[H1984B]]"
+- "[[H9005]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Chronicles 16:36**<big><big>[[1Chr.16.23 Sing to the LORD, All the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [be] the LORD God of Israel for ever and ever. And all the people said, Amen, and praised the LORD.
 <small><sub>**BSB:**</sub></small>
 Blessed be the LORD, the God of Israel, from everlasting to everlasting.” Then all the people said, “Amen!” and “Praise the LORD!”
+<small><sub>**Hebrew:**</sub></small>
+[[H1288\|בָּר֤וּךְ]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5769G\|עוֹלָ֖ם]] [[H9002\|וְ]][[H5704\|עַ֣ד]] [[H9009\|הָ]][[H5769G\|עֹלָ֑ם]] [[H9001\|וַ]][[H0559\|יֹּאמְר֤וּ]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H0543\|אָמֵ֔ן]] [[H9002\|וְ]][[H1984B\|הַלֵּ֖ל]] [[H9005\|לַֽ]][[H3068G\|יהוָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMEN|AMEN]] • [[topic GOD|GOD]] • [[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.35|<< 1 Chronicles 16:35]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.37|1 Chronicles 16:37 >>]]</td></tr></table>
 
@@ -21,7 +76,7 @@ Blessed be the LORD, the God of Israel, from everlasting to everlasting.” Then
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָם֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | amen  |**<big>&#8207;[[H0543\|אָמֵ֔ן]]&#8207; </big>**| 'a.Men<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they praised  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1984B\|הַלֵּ֖ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.Lel<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> Yahweh  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H3068G\|יהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> Yahweh  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H3068G\|יהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.35|<< 1 Chronicles 16:35]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.37|1 Chronicles 16:37 >>]]</td></tr></table>
 
 

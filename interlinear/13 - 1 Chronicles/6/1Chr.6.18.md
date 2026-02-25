@@ -1,8 +1,50 @@
+---
+title: 1 Chronicles 6:18
+type: Verse
+kjv: "And the sons of Kohath were, Amram, and Izhar, and Hebron, and Uzziel."
+bsb: "The sons of Kohath: Amram, Izhar, Hebron, and Uzziel."
+hebrew: "וּבְנֵ֖י קְהָ֑ת עַמְרָ֣ם וְיִצְהָ֔ר וְחֶבְר֖וֹן וְעֻזִּיאֵֽל׃"
+pericope: "[[1Chr.6.1 The Descendants of Levi|The Descendants of Levi]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 6
+book/chapter: "[[1Chr.6|1 Chronicles 6]]"
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AMRAM|AMRAM]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic IZHAR|IZHAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H6955]]"
+- "[[H6019G]]"
+- "[[H3324]]"
+- "[[H2275B]]"
+- "[[H5816G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 6:18**<big><big>[[1Chr.6.1 The Descendants of Levi|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Kohath [were], Amram, and Izhar, and Hebron, and Uzziel.
 <small><sub>**BSB:**</sub></small>
 The sons of Kohath: Amram, Izhar, Hebron, and Uzziel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בְנֵ֖י]] [[H6955\|קְהָ֑ת]] [[H6019G\|עַמְרָ֣ם]] [[H9002\|וְ]][[H3324\|יִצְהָ֔ר]] [[H9002\|וְ]][[H2275B\|חֶבְר֖וֹן]] [[H9002\|וְ]][[H5816G\|עֻזִּיאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMRAM|AMRAM]] • [[topic HEBRON|HEBRON]] • [[topic IZHAR|IZHAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.17|<< 1 Chronicles 6:17]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.19|1 Chronicles 6:19 >>]]</td></tr></table>
 

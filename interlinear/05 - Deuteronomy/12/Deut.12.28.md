@@ -1,8 +1,79 @@
+---
+title: Deuteronomy 12:28
+type: Verse
+kjv: "Observe and hear all these words which I command thee, that it may go well with thee, and with thy children after thee for ever, when thou doest that which is good and right in the sight of the LORD thy God."
+bsb: "Be careful to obey all these things I command you, so that it may always go well with you and your children after you, because you will be doing what is good and right in the eyes of the LORD your God."
+hebrew: "שְׁמֹ֣ר וְשָׁמַעְתָּ֗ אֵ֚ת כָּל־ הַדְּבָרִ֣ים הָאֵ֔לֶּה אֲשֶׁ֥ר אָנֹכִ֖י מְצַוֶּ֑ךָּ לְמַעַן֩ יִיטַ֨ב לְךָ֜ וּלְבָנֶ֤יךָ אַחֲרֶ֙יךָ֙ עַד־ עוֹלָ֔ם כִּ֤י תַעֲשֶׂה֙ הַטּ֣וֹב וְהַיָּשָׁ֔ר בְּעֵינֵ֖י יְהוָ֥ה אֱלֹהֶֽיךָ׃ ס"
+pericope: "[[Deut.12.1 One Place for Worship|One Place for Worship]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 12
+book/chapter: "[[Deut.12|Deuteronomy 12]]"
+chronological_order: 208
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H8104J]]"
+- "[[H9001]]"
+- "[[H8085H]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H6680]]"
+- "[[H9031]]"
+- "[[H4616]]"
+- "[[H3190]]"
+- "[[H9005]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H0310A]]"
+- "[[H5704]]"
+- "[[H5769G]]"
+- "[[H3588A]]"
+- "[[H6213A]]"
+- "[[H2896A]]"
+- "[[H3477G]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Deuteronomy 12:28**<big><big>[[Deut.12.1 One Place for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Observe and hear all these words which I command thee, that it may go well with thee, and with thy children after thee for ever, when thou doest [that which is] good and right in the sight of the LORD thy God.
 <small><sub>**BSB:**</sub></small>
 Be careful to obey all these things I command you, so that it may always go well with you and your children after you, because you will be doing what is good and right in the eyes of the LORD your God.
+<small><sub>**Hebrew:**</sub></small>
+[[H8104J\|שְׁמֹ֣ר]] [[H9001\|וְ]][[H8085H\|שָׁמַעְתָּ֗]] [[H0853\|אֵ֚ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H0834A\|אֲשֶׁ֥ר]] [[H0595\|אָנֹכִ֖י]] [[H6680\|מְצַוֶּ֑]][[H9031\|ךָּ]] [[H4616\|לְמַעַן֩]] [[H3190\|יִיטַ֨ב]] [[H9005\|לְ]][[H9031\|ךָ֜]] [[H9002\|וּ]][[H9005\|לְ]][[H1121A\|בָנֶ֤י]][[H9021\|ךָ]] [[H0310A\|אַחֲרֶ֙י]][[H9031\|ךָ֙]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָ֔ם]] [[H3588A\|כִּ֤י]] [[H6213A\|תַעֲשֶׂה֙]] [[H9009\|הַ]][[H2896A\|טּ֣וֹב]] [[H9002\|וְ]][[H9009\|הַ]][[H3477G\|יָּשָׁ֔ר]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֖י]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶֽי]][[H9021\|ךָ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHILDREN|CHILDREN]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.27|<< Deuteronomy 12:27]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.29|Deuteronomy 12:29 >>]]</td></tr></table>
 
@@ -30,7 +101,7 @@ Be careful to obey all these things I command you, so that it may always go well
 | and the right  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3477G\|יָּשָׁ֔ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hai.<small><sup>[[HTd]]</sup></small> ya.Shar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] eyes of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5869H\|עֵינֵ֖י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God your  |**<big>&#8207;[[H0430G\|אֱלֹהֶֽי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  |**<big>&#8207;[[H0430G\|אֱלֹהֶֽי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.27|<< Deuteronomy 12:27]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.29|Deuteronomy 12:29 >>]]</td></tr></table>
 
 

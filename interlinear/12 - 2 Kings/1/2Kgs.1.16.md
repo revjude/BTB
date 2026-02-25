@@ -1,8 +1,79 @@
+---
+title: 2 Kings 1:16
+type: Verse
+kjv: "And he said unto him, Thus saith the LORD, Forasmuch as thou hast sent messengers to inquire of Baalzebub the god of Ekron, is it not because there is no God in Israel to inquire of his word? therefore thou shalt not come down off that bed on which thou art gone up, but shalt surely die."
+bsb: "And Elijah said to King Ahaziah, “This is what the LORD says: Is there really no God in Israel for you to inquire of His word? Is that why you have sent messengers to inquire of Baal-zebub, the god of Ekron? Therefore you will not get up from the bed on which you are lying. You will surely die.”"
+hebrew: "וַיְדַבֵּ֨ר אֵלָ֜יו כֹּֽה־ אָמַ֣ר יְהוָ֗ה יַ֜עַן אֲשֶׁר־ שָׁלַ֣חְתָּ מַלְאָכִים֮ לִדְרֹשׁ֮ בְּבַ֣עַל זְבוּב֮ אֱלֹהֵ֣י עֶקְרוֹן֒ הַֽמִבְּלִ֤י אֵין־ אֱלֹהִים֙ בְּיִשְׂרָאֵ֔ל לִדְרֹ֖שׁ בִּדְבָר֑וֹ לָ֠כֵן הַמִּטָּ֞ה אֲשֶׁר־ עָלִ֥יתָ שָּׁ֛ם לֹֽא־ תֵרֵ֥ד מִמֶּ֖נָּה כִּֽי־ מ֥וֹת תָּמֽוּת׃"
+pericope: "[[2Kgs.1.1 Elijah Denounces Ahaziah|Elijah Denounces Ahaziah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 1
+book/chapter: "[[2Kgs.1|2 Kings 1]]"
+chronological_order: 571
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~853–852 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BAAL-ZEBUB|BAAL-ZEBUB]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H3282]]"
+- "[[H0834A]]"
+- "[[H7971G]]"
+- "[[H4397G]]"
+- "[[H9005]]"
+- "[[H1875]]"
+- "[[H9003]]"
+- "[[H1176]]"
+- "[[H0430G]]"
+- "[[H6138]]"
+- "[[H9008]]"
+- "[[H9006]]"
+- "[[H1097]]"
+- "[[H0369]]"
+- "[[H3478]]"
+- "[[H1697G]]"
+- "[[H9023]]"
+- "[[H3651C]]"
+- "[[H9009]]"
+- "[[H4296]]"
+- "[[H5927G]]"
+- "[[H8033G]]"
+- "[[H3808]]"
+- "[[H3381]]"
+- "[[H4480A]]"
+- "[[H9034]]"
+- "[[H3588A]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 1:16**<big><big>[[2Kgs.1.1 Elijah Denounces Ahaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto him, Thus saith the LORD, Forasmuch as thou hast sent messengers to inquire of Baalzebub the god of Ekron, [is it] not because [there is] no God in Israel to inquire of his word? therefore thou shalt not come down off that bed on which thou art gone up, but shalt surely die.
 <small><sub>**BSB:**</sub></small>
 And Elijah said to King Ahaziah, “This is what the LORD says: Is there really no God in Israel for you to inquire of His word? Is that why you have sent messengers to inquire of Baal-zebub, the god of Ekron? Therefore you will not get up from the bed on which you are lying. You will surely die.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֨ר]] [[H0413\|אֵלָ֜י]][[H9033\|ו]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H3282\|יַ֜עַן]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7971G\|שָׁלַ֣חְתָּ]] [[H4397G\|מַלְאָכִים֮]] [[H9005\|לִ]][[H1875\|דְרֹשׁ֮]] [[H9003\|בְּ]][[H1176\|בַ֣עַל]] [[H1176\|זְבוּב֮]] [[H0430G\|אֱלֹהֵ֣י]] [[H6138\|עֶקְרוֹן֒]] [[H9008\|הַֽ]][[H9006\|מִ]][[H1097\|בְּלִ֤י]] [[H0369\|אֵין]][[H9014\|־]] [[H0430G\|אֱלֹהִים֙]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֔ל]] [[H9005\|לִ]][[H1875\|דְרֹ֖שׁ]] [[H9003\|בִּ]][[H1697G\|דְבָר֑]][[H9023\|וֹ]] [[H9005\|לָ֠]][[H3651C\|כֵן]] [[H9009\|הַ]][[H4296\|מִּטָּ֞ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5927G\|עָלִ֥יתָ]] [[H8033G\|שָּׁ֛ם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3381\|תֵרֵ֥ד]] [[H4480A\|מִמֶּ֖]][[H9034\|נָּה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4191\|מ֥וֹת]] [[H4191\|תָּמֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL-ZEBUB|BAAL-ZEBUB]] • [[topic ELIJAH|ELIJAH]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.1.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.1.15|<< 2 Kings 1:15]]</td><td align="center" style="border:none;">[[2Kgs.1|2 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.1.17|2 Kings 1:17 >>]]</td></tr></table>
 

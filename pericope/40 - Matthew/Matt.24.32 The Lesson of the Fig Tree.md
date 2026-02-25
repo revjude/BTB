@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Lesson of the Fig Tree
+type: Pericope
 pericope: "[[Matt.24.32 The Lesson of the Fig Tree|The Lesson of the Fig Tree]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 24
 book/chapter: "[[Matt.24|Matthew 24]]"
-genre:
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 4
 verses:
 - "[[Matt.24.32]]"
 - "[[Matt.24.33]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Matt.24.35]]"
 ---
 
-[[Matt.24|Matthew 24:32 - Matthew 24:35]]
+<small>[[Matt.24|Matthew 24:32-35]]</small>
 *The Lesson of the Fig Tree*
 
 [[Matt.24.32|32]] Now learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer \[is\] nigh:

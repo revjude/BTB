@@ -1,8 +1,76 @@
+---
+title: Leviticus 14:51
+type: Verse
+kjv: "And he shall take the cedar wood, and the hyssop, and the scarlet, and the living bird, and dip them in the blood of the slain bird, and in the running water, and sprinkle the house seven times:"
+bsb: "Then he shall take the cedar wood, the hyssop, the scarlet yarn, and the live bird, dip them in the blood of the slaughtered bird and the fresh water, and sprinkle the house seven times."
+hebrew: "וְלָקַ֣ח אֶת־ עֵֽץ־ הָ֠אֶרֶז וְאֶת־ הָ֨אֵזֹ֜ב וְאֵ֣ת׀ שְׁנִ֣י הַתּוֹלַ֗עַת וְאֵת֮ הַצִּפֹּ֣ר הַֽחַיָּה֒ וְטָבַ֣ל אֹתָ֗ם בְּדַם֙ הַצִּפֹּ֣ר הַשְּׁחוּטָ֔ה וּבַמַּ֖יִם הַֽחַיִּ֑ים וְהִזָּ֥ה אֶל־ הַבַּ֖יִת שֶׁ֥בַע פְּעָמִֽים׃"
+pericope: "[[Lev.14.48 Cleansing a Home|Cleansing a Home]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 14
+book/chapter: "[[Lev.14|Leviticus 14]]"
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic CEDAR|CEDAR]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic HYSSOP|HYSSOP]]"
+- "[[topic SPRINKLING|SPRINKLING]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6086G]]"
+- "[[H9009]]"
+- "[[H0730]]"
+- "[[H9002]]"
+- "[[H0231]]"
+- "[[H9015]]"
+- "[[H8144]]"
+- "[[H8438B]]"
+- "[[H6833]]"
+- "[[H2416A]]"
+- "[[H2881]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H1818]]"
+- "[[H7819A]]"
+- "[[H4325G]]"
+- "[[H5137A]]"
+- "[[H0413]]"
+- "[[H1004B]]"
+- "[[H7651]]"
+- "[[H6471]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 14:51**<big><big>[[Lev.14.48 Cleansing a Home|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall take the cedar wood, and the hyssop, and the scarlet, and the living bird, and dip them in the blood of the slain bird, and in the running water, and sprinkle the house seven times:
 <small><sub>**BSB:**</sub></small>
 Then he shall take the cedar wood, the hyssop, the scarlet yarn, and the live bird, dip them in the blood of the slaughtered bird and the fresh water, and sprinkle the house seven times.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקַ֣ח]] [[H0853\|אֶת]][[H9014\|־]] [[H6086G\|עֵֽץ]][[H9014\|־]] [[H9009\|הָ֠]][[H0730\|אֶרֶז]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ֨]][[H0231\|אֵזֹ֜ב]] [[H9002\|וְ]][[H0853\|אֵ֣ת]][[H9015\|׀]] [[H8144\|שְׁנִ֣י]] [[H9009\|הַ]][[H8438B\|תּוֹלַ֗עַת]] [[H9002\|וְ]][[H0853\|אֵת֮]] [[H9009\|הַ]][[H6833\|צִּפֹּ֣ר]] [[H9009\|הַֽ]][[H2416A\|חַיָּה֒]] [[H9001\|וְ]][[H2881\|טָבַ֣ל]] [[H0853\|אֹתָ֗]][[H9038\|ם]] [[H9003\|בְּ]][[H1818\|דַם֙]] [[H9009\|הַ]][[H6833\|צִּפֹּ֣ר]] [[H9009\|הַ]][[H7819A\|שְּׁחוּטָ֔ה]] [[H9002\|וּ]][[H9003\|בַ]][[H4325G\|מַּ֖יִם]] [[H9009\|הַֽ]][[H2416A\|חַיִּ֑ים]] [[H9001\|וְ]][[H5137A\|הִזָּ֥ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּ֖יִת]] [[H7651\|שֶׁ֥בַע]] [[H6471\|פְּעָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic CEDAR|CEDAR]] • [[topic COLORS|COLORS]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic HYSSOP|HYSSOP]] • [[topic SPRINKLING|SPRINKLING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.50|<< Leviticus 14:50]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.52|Leviticus 14:52 >>]]</td></tr></table>
 

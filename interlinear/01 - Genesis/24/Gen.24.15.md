@@ -1,8 +1,76 @@
+---
+title: Genesis 24:15
+type: Verse
+kjv: "And it came to pass, before he had done speaking, that, behold, Rebekah came out, who was born to Bethuel, son of Milcah, the wife of Nahor, Abraham’s brother, with her pitcher upon her shoulder."
+bsb: "Before the servant had finished praying, Rebekah came out with her jar on her shoulder. She was the daughter of Bethuel son of Milcah, the wife of Abraham’s brother Nahor."
+hebrew: "וַֽיְהִי־ ה֗וּא טֶרֶם֮ כִּלָּ֣ה לְדַבֵּר֒ וְהִנֵּ֧ה רִבְקָ֣ה יֹצֵ֗את אֲשֶׁ֤ר יֻלְּדָה֙ לִבְתוּאֵ֣ל בֶּן־ מִלְכָּ֔ה אֵ֥שֶׁת נָח֖וֹר אֲחִ֣י אַבְרָהָ֑ם וְכַדָּ֖הּ עַל־ שִׁכְמָֽהּ׃"
+pericope: "[[Gen.24.15 Rebekah Is Chosen|Rebekah Is Chosen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BETHUEL|BETHUEL]]"
+- "[[topic INCEST|INCEST]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic MILCAH|MILCAH]]"
+- "[[topic NAHOR|NAHOR]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H2962]]"
+- "[[H3615G]]"
+- "[[H9005]]"
+- "[[H1696G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H7259]]"
+- "[[H3318G]]"
+- "[[H0834A]]"
+- "[[H3205]]"
+- "[[H1328A]]"
+- "[[H1121A]]"
+- "[[H4435G]]"
+- "[[H0802H]]"
+- "[[H5152H]]"
+- "[[H0251G]]"
+- "[[H0085]]"
+- "[[H3537]]"
+- "[[H9024]]"
+- "[[H5921A]]"
+- "[[H7926]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:15**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, before he had done speaking, that, behold, Rebekah came out, who was born to Bethuel, son of Milcah, the wife of Nahor, Abraham’s brother, with her pitcher upon her shoulder.
 <small><sub>**BSB:**</sub></small>
 Before the servant had finished praying, Rebekah came out with her jar on her shoulder. She was the daughter of Bethuel son of Milcah, the wife of Abraham’s brother Nahor.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי]][[H9014\|־]] [[H1931\|ה֗וּא]] [[H2962\|טֶרֶם֮]] [[H3615G\|כִּלָּ֣ה]] [[H9005\|לְ]][[H1696G\|דַבֵּר֒]] [[H9002\|וְ]][[H2009\|הִנֵּ֧ה]] [[H7259\|רִבְקָ֣ה]] [[H3318G\|יֹצֵ֗את]] [[H0834A\|אֲשֶׁ֤ר]] [[H3205\|יֻלְּדָה֙]] [[H9005\|לִ]][[H1328A\|בְתוּאֵ֣ל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H4435G\|מִלְכָּ֔ה]] [[H0802H\|אֵ֥שֶׁת]] [[H5152H\|נָח֖וֹר]] [[H0251G\|אֲחִ֣י]] [[H0085\|אַבְרָהָ֑ם]] [[H9002\|וְ]][[H3537\|כַדָּ֖]][[H9024\|הּ]] [[H5921A\|עַל]][[H9014\|־]] [[H7926\|שִׁכְמָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHUEL|BETHUEL]] • [[topic INCEST|INCEST]] • [[topic LABAN|LABAN]] • [[topic MILCAH|MILCAH]] • [[topic NAHOR|NAHOR]] • [[topic PRAYER|PRAYER]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.14|<< Genesis 24:14]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.16|Genesis 24:16 >>]]</td></tr></table>
 

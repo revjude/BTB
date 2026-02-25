@@ -1,8 +1,48 @@
+---
+title: Job 17:6
+type: Verse
+kjv: "He hath made me also a byword of the people; and aforetime I was as a tabret."
+bsb: "He has made me a byword among the people, a man in whose face they spit."
+hebrew: "וְֽ֭הִצִּגַנִי לִמְשֹׁ֣ל עַמִּ֑ים וְתֹ֖פֶת לְפָנִ֣ים אֶֽהְיֶֽה׃"
+pericope: "[[Job.17.1 Job Prepares for Death|Job Prepares for Death]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 17
+book/chapter: "[[Job.17|Job 17]]"
+chronological_order: 28
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H9001]]"
+- "[[H3322]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H4914]]"
+- "[[H5971A]]"
+- "[[H9002]]"
+- "[[H8611]]"
+- "[[H6440G]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 17:6**<big><big>[[Job.17.1 Job Prepares for Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath made me also a byword of the people; and aforetime I was as a tabret.
 <small><sub>**BSB:**</sub></small>
 He has made me a byword among the people, a man in whose face they spit.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְֽ֭]][[H3322\|הִצִּגַ]][[H9030\|נִי]] [[H9005\|לִ]][[H4914\|מְשֹׁ֣ל]] [[H5971A\|עַמִּ֑ים]] [[H9002\|וְ]][[H8611\|תֹ֖פֶת]] [[H9005\|לְ]][[H6440G\|פָנִ֣ים]] [[H1961\|אֶֽהְיֶֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.17.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.17.5|<< Job 17:5]]</td><td align="center" style="border:none;">[[Job.17|Job 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.17.7|Job 17:7 >>]]</td></tr></table>
 

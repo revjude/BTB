@@ -1,8 +1,57 @@
+---
+title: Isaiah 22:6
+type: Verse
+kjv: "And Elam bare the quiver with chariots of men and horsemen, and Kir uncovered the shield."
+bsb: "Elam takes up a quiver, with chariots and horsemen, and Kir uncovers the shield."
+hebrew: "וְעֵילָם֙ נָשָׂ֣א אַשְׁפָּ֔ה בְּרֶ֥כֶב אָדָ֖ם פָּֽרָשִׁ֑ים וְקִ֥יר עֵרָ֖ה מָגֵֽן׃"
+pericope: "[[Isa.22.1 The Valley of Vision|The Valley of Vision]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 22
+book/chapter: "[[Isa.22|Isaiah 22]]"
+chronological_order: 639
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic KIR|KIR]]"
+- "[[topic QUIVER|QUIVER]]"
+- "[[topic SHIELD|SHIELD]]"
+strongs:
+- "[[H9002]]"
+- "[[H5867A]]"
+- "[[H5375H]]"
+- "[[H0827]]"
+- "[[H9003]]"
+- "[[H7393G]]"
+- "[[H0120G]]"
+- "[[H6571B]]"
+- "[[H7024B]]"
+- "[[H6168]]"
+- "[[H4043]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 22:6**<big><big>[[Isa.22.1 The Valley of Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elam bare the quiver with chariots of men [and] horsemen, and Kir uncovered the shield.
 <small><sub>**BSB:**</sub></small>
 Elam takes up a quiver, with chariots and horsemen, and Kir uncovers the shield.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5867A\|עֵילָם֙]] [[H5375H\|נָשָׂ֣א]] [[H0827\|אַשְׁפָּ֔ה]] [[H9003\|בְּ]][[H7393G\|רֶ֥כֶב]] [[H0120G\|אָדָ֖ם]] [[H6571B\|פָּֽרָשִׁ֑ים]] [[H9002\|וְ]][[H7024B\|קִ֥יר]] [[H6168\|עֵרָ֖ה]] [[H4043\|מָגֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic KIR|KIR]] • [[topic QUIVER|QUIVER]] • [[topic SHIELD|SHIELD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.22.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.5|<< Isaiah 22:5]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.7|Isaiah 22:7 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Tribe of Judah
+type: Pericope
 pericope: "[[Num.26.19 The Tribe of Judah|The Tribe of Judah]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 26
 book/chapter: "[[Num.26|Numbers 26]]"
-genre:
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 4
 verses:
 - "[[Num.26.19]]"
 - "[[Num.26.20]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Num.26.22]]"
 ---
 
-[[Num.26|Numbers 26:19 - Numbers 26:22]]
+<small>[[Num.26|Numbers 26:19-22]]</small>
 *The Tribe of Judah*
 
 [[Num.26.19|19]] The sons of Judah \[were\] Er and Onan: and Er and Onan died in the land of Canaan.

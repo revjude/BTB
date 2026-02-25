@@ -1,8 +1,72 @@
+---
+title: Deuteronomy 13:10
+type: Verse
+kjv: "And thou shalt stone him with stones, that he die; because he hath sought to thrust thee away from the LORD thy God, which brought thee out of the land of Egypt, from the house of bondage."
+bsb: "Stone him to death for trying to turn you away from the LORD your God, who brought you out of the land of Egypt, out of the house of slavery."
+hebrew: "וּסְקַלְתּ֥וֹ בָאֲבָנִ֖ים וָמֵ֑ת כִּ֣י בִקֵּ֗שׁ לְהַדִּֽיחֲךָ֙ מֵעַל֙ יְהוָ֣ה אֱלֹהֶ֔יךָ הַמּוֹצִיאֲךָ֛ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֥ית עֲבָדִֽים׃"
+pericope: "[[Deut.13.1 Idolaters to Be Put to Death|Idolaters to Be Put to Death]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 13
+book/chapter: "[[Deut.13|Deuteronomy 13]]"
+chronological_order: 209
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic STONING|STONING]]"
+strongs:
+- "[[H9001]]"
+- "[[H5619]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H0068G]]"
+- "[[H4191]]"
+- "[[H3588A]]"
+- "[[H1245]]"
+- "[[H9005]]"
+- "[[H5080]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H3318H]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H1004B]]"
+- "[[H5650]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 13:10**<big><big>[[Deut.13.1 Idolaters to Be Put to Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt stone him with stones, that he die; because he hath sought to thrust thee away from the LORD thy God, which brought thee out of the land of Egypt, from the house of bondage.
 <small><sub>**BSB:**</sub></small>
 Stone him to death for trying to turn you away from the LORD your God, who brought you out of the land of Egypt, out of the house of slavery.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H5619\|סְקַלְתּ֥]][[H9033\|וֹ]] [[H9003\|בָ]][[H0068G\|אֲבָנִ֖ים]] [[H9001\|וָ]][[H4191\|מֵ֑ת]] [[H3588A\|כִּ֣י]] [[H1245\|בִקֵּ֗שׁ]] [[H9005\|לְ]][[H5080\|הַדִּֽיחֲ]][[H9031\|ךָ֙]] [[H9006\|מֵ]][[H5921A\|עַל֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H9009\|הַ]][[H3318H\|מּוֹצִיאֲ]][[H9031\|ךָ֛]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרַ֖יִם]] [[H9006\|מִ]][[H1004B\|בֵּ֥ית]] [[H5650\|עֲבָדִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FELLOWSHIP|FELLOWSHIP]] • [[topic MARRIAGE|MARRIAGE]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REVERENCE|REVERENCE]] • [[topic STONING|STONING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.13.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13.9|<< Deuteronomy 13:9]]</td><td align="center" style="border:none;">[[Deut.13|Deuteronomy 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.13.11|Deuteronomy 13:11 >>]]</td></tr></table>
 

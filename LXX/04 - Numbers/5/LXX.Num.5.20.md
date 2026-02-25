@@ -1,6 +1,67 @@
+---
+title: LXX Numbers 5:20
+type: Verse
+lxx: "But if being married you violated, or were defiled, and any gave  of his marriage-bed with you, besides  your husband;"
+greek: "ει δε συ παραβέβηκας ύπανδρος ούσα η μεμίανσαι και έδωκέ τις την κοίτην αυτού εν σοι πλην του ανδρός σου"
+original_language: Greek
+testament: Old
+book: Numbers
+chapter: 5
+book/chapter: "[[Num.5|Numbers 5]]"
+chronological_order: 164
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BITTER WATER|BITTER WATER]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic OATH|OATH]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SELF-INCRIMINATION|SELF-INCRIMINATION]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G1487]]"
+- "[[G1161]]"
+- "[[G1473]]"
+- "[[G3845]]"
+- "[[G5220]]"
+- "[[G1510]]"
+- "[[G2228]]"
+- "[[G3392]]"
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G5100]]"
+- "[[G3588]]"
+- "[[G2845]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G4133]]"
+- "[[G3588]]"
+- "[[G0435]]"
+- "[[G1473]]"
+---
+
 **LXX Numbers 5:20** 
 <small><sub>**LXX:**</sub></small>
 But if being married you violated, or were defiled, and any gave  of his marriage-bed with you, besides  your husband; 
+<small><sub>**Greek:**</sub></small>
+[[G1487\|ει]] [[G1161\|δε]] [[G1473\|συ]] [[G3845\|παραβέβηκας]] [[G5220\|ύπανδρος]] [[G1510\|ούσα]] [[G2228\|η]] [[G3392\|μεμίανσαι]] [[G2532\|και]] [[G1325\|έδωκέ]] [[G5100\|τις]] [[G3588\|την]] [[G2845\|κοίτην]] [[G1473\|αυτού]] [[G1722\|εν]] [[G1473\|σοι]] [[G4133\|πλην]] [[G3588\|του]] [[G0435\|ανδρός]] [[G1473\|σου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BITTER WATER|BITTER WATER]] • [[topic HUSBAND|HUSBAND]] • [[topic JEALOUSY|JEALOUSY]] • [[topic OATH|OATH]] • [[topic PRIEST|PRIEST]] • [[topic SELF-INCRIMINATION|SELF-INCRIMINATION]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Num.5.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.19|<< Numbers 5:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.21|Numbers 5:21 >>]]</td></tr></table>
 
@@ -21,6 +82,6 @@ But if being married you violated, or were defiled, and any gave  of his marriag
 | besides | **<big>[[G4133\|πλην]]</big>** |
 | \<obj.> | **<big>[[G3588\|του]]</big>** |
 | your husband; | **<big>[[G0435\|ανδρός]]</big>** **<big>[[G1473\|σου]]</big>** |
-[[Num.5.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.19|<< Numbers 5:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.21|Numbers 5:21 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.19|<< Numbers 5:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.21|Numbers 5:21 >>]]</td></tr></table>
 
 

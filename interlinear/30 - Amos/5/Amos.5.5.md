@@ -1,8 +1,64 @@
+---
+title: Amos 5:5
+type: Verse
+kjv: "But seek not Bethel, nor enter into Gilgal, and pass not to Beersheba: for Gilgal shall surely go into captivity, and Bethel shall come to nought."
+bsb: "Do not seek Bethel or go to Gilgal; do not journey to Beersheba, for Gilgal will surely go into exile, and Bethel will come to nothing."
+hebrew: "וְאַֽל־ תִּדְרְשׁוּ֙ בֵּֽית־ אֵ֔ל וְהַגִּלְגָּל֙ לֹ֣א תָבֹ֔אוּ וּבְאֵ֥ר שֶׁ֖בַע לֹ֣א תַעֲבֹ֑רוּ כִּ֤י הַגִּלְגָּל֙ גָּלֹ֣ה יִגְלֶ֔ה וּבֵֽית־ אֵ֖ל יִהְיֶ֥ה לְאָֽוֶן׃"
+pericope: "[[Amos.5.4 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 5
+book/chapter: "[[Amos.5|Amos 5]]"
+chronological_order: 602
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic BEER-SHEBA|BEER-SHEBA]]"
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H1875]]"
+- "[[H1008G]]"
+- "[[H9009]]"
+- "[[H1537G]]"
+- "[[H3808]]"
+- "[[H0935G]]"
+- "[[H0884]]"
+- "[[H5674A]]"
+- "[[H3588A]]"
+- "[[H1540K]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0205H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 5:5**<big><big>[[Amos.5.4 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But seek not Bethel, nor enter into Gilgal, and pass not to Beersheba: for Gilgal shall surely go into captivity, and Bethel shall come to nought.
 <small><sub>**BSB:**</sub></small>
 Do not seek Bethel or go to Gilgal; do not journey to Beersheba, for Gilgal will surely go into exile, and Bethel will come to nothing.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0408\|אַֽל]][[H9014\|־]] [[H1875\|תִּדְרְשׁוּ֙]] [[H1008G\|בֵּֽית]][[H9014\|־]] [[H1008G\|אֵ֔ל]] [[H9002\|וְ]][[H9009\|הַ]][[H1537G\|גִּלְגָּל֙]] [[H3808\|לֹ֣א]] [[H0935G\|תָבֹ֔אוּ]] [[H9002\|וּ]][[H0884\|בְאֵ֥ר]] [[H0884\|שֶׁ֖בַע]] [[H3808\|לֹ֣א]] [[H5674A\|תַעֲבֹ֑רוּ]] [[H3588A\|כִּ֤י]] [[H9009\|הַ]][[H1537G\|גִּלְגָּל֙]] [[H1540K\|גָּלֹ֣ה]] [[H1540K\|יִגְלֶ֔ה]] [[H9002\|וּ]][[H1008G\|בֵֽית]][[H9014\|־]] [[H1008G\|אֵ֖ל]] [[H1961\|יִהְיֶ֥ה]] [[H9005\|לְ]][[H0205H\|אָֽוֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEER-SHEBA|BEER-SHEBA]] • [[topic BETH-EL|BETH-EL]] • [[topic GILGAL|GILGAL]] • [[topic IDOLATRY|IDOLATRY]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.4|<< Amos 5:4]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.6|Amos 5:6 >>]]</td></tr></table>
 

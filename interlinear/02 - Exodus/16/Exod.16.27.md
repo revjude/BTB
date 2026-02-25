@@ -1,8 +1,67 @@
+---
+title: Exodus 16:27
+type: Verse
+kjv: "And it came to pass, that there went out some of the people on the seventh day for to gather, and they found none."
+bsb: "Yet on the seventh day some of the people went out to gather, but they did not find anything."
+hebrew: "וַֽיְהִי֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י יָצְא֥וּ מִן־ הָעָ֖ם לִלְקֹ֑ט וְלֹ֖א מָצָֽאוּ׃ ס"
+pericope: "[[Exod.16.22 The Sabbath Observed|The Sabbath Observed]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 16
+book/chapter: "[[Exod.16|Exodus 16]]"
+chronological_order: 108
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GLUTTONY|GLUTTONY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MANNA|MANNA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7637]]"
+- "[[H3318G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H3950]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 16:27**<big><big>[[Exod.16.22 The Sabbath Observed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, [that] there went out [some] of the people on the seventh day for to gather, and they found none.
 <small><sub>**BSB:**</sub></small>
 Yet on the seventh day some of the people went out to gather, but they did not find anything.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֔י]] [[H3318G\|יָצְא֥וּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9005\|לִ]][[H3950\|לְקֹ֑ט]] [[H9002\|וְ]][[H3808\|לֹ֖א]] [[H4672\|מָצָֽאוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GLUTTONY|GLUTTONY]] • [[topic ISRAEL|ISRAEL]] • [[topic MANNA|MANNA]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.26|<< Exodus 16:26]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.28|Exodus 16:28 >>]]</td></tr></table>
 
@@ -16,7 +75,7 @@ Yet on the seventh day some of the people went out to gather, but they did not f
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֖ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to gather [it]  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H3950\|לְקֹ֑ט]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> l.Kot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֖א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they found [it]  |**<big>&#8207;[[H4672\|מָצָֽאוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ma.Tza.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they found [it]  |**<big>&#8207;[[H4672\|מָצָֽאוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ma.Tza.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.26|<< Exodus 16:26]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.28|Exodus 16:28 >>]]</td></tr></table>
 
 

@@ -1,8 +1,77 @@
+---
+title: Jeremiah 41:8
+type: Verse
+kjv: "But ten men were found among them that said unto Ishmael, Slay us not: for we have treasures in the field, of wheat, and of barley, and of oil, and of honey. So he forbare, and slew them not among their brethren."
+bsb: "But ten of the men among them said to Ishmael, “Do not kill us, for we have hidden treasure in the field—wheat, barley, oil, and honey!” So he refrained from killing them with the others."
+hebrew: "וַעֲשָׂרָ֨ה אֲנָשִׁ֜ים נִמְצְאוּ־ בָ֗ם וַיֹּאמְר֤וּ אֶל־ יִשְׁמָעֵאל֙ אַל־ תְּמִתֵ֔נוּ כִּֽי־ יֶשׁ־ לָ֤נוּ מַטְמֹנִים֙ בַּשָּׂדֶ֔ה חִטִּ֥ים וּשְׂעֹרִ֖ים וְשֶׁ֣מֶן וּדְבָ֑שׁ וַיֶּחְדַּ֕ל וְלֹ֥א הֱמִיתָ֖ם בְּת֥וֹךְ אֲחֵיהֶֽם׃"
+pericope: "[[Jer.41.1 The Murder of Gedaliah|The Murder of Gedaliah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 41
+book/chapter: "[[Jer.41|Jeremiah 41]]"
+chronological_order: 764
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AHIKAM|AHIKAM]]"
+- "[[topic BARLEY|BARLEY]]"
+- "[[topic GEDALIAH|GEDALIAH]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MIZPAH|MIZPAH]]"
+- "[[topic SHILOH|SHILOH]]"
+strongs:
+- "[[H9002]]"
+- "[[H6235]]"
+- "[[H0582]]"
+- "[[H4672]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H3458H]]"
+- "[[H0408]]"
+- "[[H4191]]"
+- "[[H9035]]"
+- "[[H3588A]]"
+- "[[H3426]]"
+- "[[H9005]]"
+- "[[H4301]]"
+- "[[H7704G]]"
+- "[[H2406]]"
+- "[[H8184]]"
+- "[[H8081]]"
+- "[[H1706]]"
+- "[[H2308]]"
+- "[[H3808]]"
+- "[[H8432]]"
+- "[[H0251I]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 41:8**<big><big>[[Jer.41.1 The Murder of Gedaliah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But ten men were found among them that said unto Ishmael, Slay us not: for we have treasures in the field, of wheat, and of barley, and of oil, and of honey. So he forbare, and slew them not among their brethren.
 <small><sub>**BSB:**</sub></small>
 But ten of the men among them said to Ishmael, “Do not kill us, for we have hidden treasure in the field—wheat, barley, oil, and honey!” So he refrained from killing them with the others.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H6235\|עֲשָׂרָ֨ה]] [[H0582\|אֲנָשִׁ֜ים]] [[H4672\|נִמְצְאוּ]][[H9014\|־]] [[H9003\|בָ֗]][[H9038\|ם]] [[H9001\|וַ]][[H0559\|יֹּאמְר֤וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3458H\|יִשְׁמָעֵאל֙]] [[H0408\|אַל]][[H9014\|־]] [[H4191\|תְּמִתֵ֔]][[H9035\|נוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3426\|יֶשׁ]][[H9014\|־]] [[H9005\|לָ֤]][[H9035\|נוּ]] [[H4301\|מַטְמֹנִים֙]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶ֔ה]] [[H2406\|חִטִּ֥ים]] [[H9002\|וּ]][[H8184\|שְׂעֹרִ֖ים]] [[H9002\|וְ]][[H8081\|שֶׁ֣מֶן]] [[H9002\|וּ]][[H1706\|דְבָ֑שׁ]] [[H9001\|וַ]][[H2308\|יֶּחְדַּ֕ל]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H4191\|הֱמִיתָ֖]][[H9038\|ם]] [[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H0251I\|אֲחֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIKAM|AHIKAM]] • [[topic BARLEY|BARLEY]] • [[topic GEDALIAH|GEDALIAH]] • [[topic ISHMAEL|ISHMAEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MIZPAH|MIZPAH]] • [[topic SHILOH|SHILOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.41.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.7|<< Jeremiah 41:7]]</td><td align="center" style="border:none;">[[Jer.41|Jeremiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.9|Jeremiah 41:9 >>]]</td></tr></table>
 

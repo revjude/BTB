@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Woe to the Unrepentant
+type: Pericope
 pericope: "[[Luke.10.13 Woe to the Unrepentant|Woe to the Unrepentant]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Luke
 chapter: 10
 book/chapter: "[[Luke.10|Luke 10]]"
-genre:
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 4
 verses:
 - "[[Luke.10.13]]"
 - "[[Luke.10.14]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Luke.10.16]]"
 ---
 
-[[Luke.10|Luke 10:13 - Luke 10:16]]
+<small>[[Luke.10|Luke 10:13-16]]</small>
 *Woe to the Unrepentant*
 
 [[Luke.10.13|13]] Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works had been done in Tyre and Sidon, which have been done in you, they had a great while ago repented, sitting in sackcloth and ashes.

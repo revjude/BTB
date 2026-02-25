@@ -1,8 +1,55 @@
+---
+title: Psalm 119:139
+type: Verse
+kjv: "My zeal hath consumed me, because mine enemies have forgotten thy words."
+bsb: "My zeal has consumed me because my foes forget Your words."
+hebrew: "צִמְּתַ֥תְנִי קִנְאָתִ֑י כִּֽי־ שָׁכְח֖וּ דְבָרֶ֣יךָ צָרָֽי׃"
+pericope: "[[Ps.119.137 Your Word Is a Lamp to My Feet - TZADDI|Your Word Is a Lamp to My Feet - TZADDI]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFECTIONS|AFFECTIONS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H6789]]"
+- "[[H9030]]"
+- "[[H7068]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7911]]"
+- "[[H1697G]]"
+- "[[H9021]]"
+- "[[H6862C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:139**<big><big>[[Ps.119.137 Your Word Is a Lamp to My Feet - TZADDI|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My zeal hath consumed me, because mine enemies have forgotten thy words.
 <small><sub>**BSB:**</sub></small>
 My zeal has consumed me because my foes forget Your words.
+<small><sub>**Hebrew:**</sub></small>
+[[H6789\|צִמְּתַ֥תְ]][[H9030\|נִי]] [[H7068\|קִנְאָתִ֑]][[H9020\|י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7911\|שָׁכְח֖וּ]] [[H1697G\|דְבָרֶ֣י]][[H9021\|ךָ]] [[H6862C\|צָרָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFECTIONS|AFFECTIONS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.139|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.138|<< Psalms 119:138]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.140|Psalms 119:140 >>]]</td></tr></table>
 

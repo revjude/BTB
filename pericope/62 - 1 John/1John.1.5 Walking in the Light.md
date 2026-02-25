@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Walking in the Light
+type: Pericope
 pericope: "[[1John.1.5 Walking in the Light|Walking in the Light]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: 1 John
 chapter: 1
 book/chapter: "[[1John.1|1 John 1]]"
-genre:
+chronological_order: 1161
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
 - epistle
 - general epistle
 - johannine epistle
 - theological treatise
 - polemical
+verse_count: 6
 verses:
 - "[[1John.1.5]]"
 - "[[1John.1.6]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1John.1.10]]"
 ---
 
-[[1John.1|1 John 1:5 - 1 John 1:10]]
+<small>[[1John.1|1 John 1:5-10]]</small>
 *Walking in the Light*
 
 [[1John.1.5|5]] This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.

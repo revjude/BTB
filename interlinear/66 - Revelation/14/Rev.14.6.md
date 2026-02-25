@@ -1,10 +1,69 @@
+---
+title: Revelation 14:6
+type: Verse
+kjv: "And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people,"
+bsb: "Then I saw another angel flying overhead, with the eternal gospel to proclaim to those who dwell on the earth—to every nation and tribe and tongue and people."
+greek: "Καὶ εἶδον ἄλλον ἄγγελον πετόμενον ἐν μεσουρανήματι ἔχοντα εὐαγγέλιον αἰώνιον εὐαγγελίσαι ἐπὶ τοὺς καθημένους ἐπὶ τῆς γῆς καὶ ἐπὶ πᾶν ἔθνος καὶ φυλὴν καὶ γλῶσσαν καὶ λαὸν"
+pericope: "[[Rev.14.6 The Three Angels and Babylon’s Fall|The Three Angels and Babylon’s Fall]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 14
+book/chapter: "[[Rev.14|Revelation 14]]"
+chronological_order: 1181
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic MISSIONS|MISSIONS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G0243]]"
+- "[[G0032G]]"
+- "[[G4072]]"
+- "[[G1722]]"
+- "[[G3321]]"
+- "[[G2192]]"
+- "[[G2098]]"
+- "[[G0166]]"
+- "[[G2097]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2521]]"
+- "[[G1093G]]"
+- "[[G3956]]"
+- "[[G1484]]"
+- "[[G5443]]"
+- "[[G1100]]"
+- "[[G2992]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Revelation 14:6**<big><big>[[Rev.14.6 The Three Angels and Babylon’s Fall|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people,
 <small><sub>**BSB:**</sub></small>
 Then I saw another angel flying overhead, with the eternal gospel to proclaim to those who dwell on the earth—to every nation and tribe and tongue and people.
-<small><sub>**Literal:**</sub></small>
-And I saw another angel flying in mid-heaven having [the] glad tidings everlasting to evangelise upon those residing on the earth and to every nation and tribe and tongue and people<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.5|<< Revelation 14:5]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.7|Revelation 14:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1492H\|εἶδον]]  [[G0243\|ἄλλον]]  [[G0032G\|ἄγγελον]]  [[G4072\|πετόμενον]]  [[G1722\|ἐν]]  [[G3321\|μεσουρανήματι]]  [[G2192\|ἔχοντα]]  [[G2098\|εὐαγγέλιον]]  [[G0166\|αἰώνιον]]  [[G2097\|εὐαγγελίσαι]]  [[G1909\|ἐπὶ]]  [[G3588\|τοὺς]]  [[G2521\|καθημένους]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3956\|πᾶν]]  [[G1484\|ἔθνος]]  [[G2532\|καὶ]]  [[G5443\|φυλὴν]]  [[G2532\|καὶ]]  [[G1100\|γλῶσσαν]]  [[G2532\|καὶ]]  [[G2992\|λαὸν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic MISSIONS|MISSIONS]] • [[topic SALVATION|SALVATION]] • [[topic VISION|VISION]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.5|<< Revelation 14:5]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.7|Revelation 14:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

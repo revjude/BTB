@@ -1,8 +1,83 @@
+---
+title: Jeremiah 31:33
+type: Verse
+kjv: "But this shall be the covenant that I will make with the house of Israel; After those days, saith the LORD, I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people."
+bsb: "“But this is the covenant I will make with the house of Israel after those days, declares the LORD. I will put My law in their minds and inscribe it on their hearts. And I will be their God, and they will be My people."
+hebrew: "כִּ֣י זֹ֣את הַבְּרִ֡ית אֲשֶׁ֣ר אֶכְרֹת֩ אֶת־ בֵּ֨ית יִשְׂרָאֵ֜ל אַחֲרֵ֨י הַיָּמִ֤ים הָהֵם֙ נְאֻם־ יְהוָ֔ה נָתַ֤תִּי אֶת־ תּֽוֹרָתִי֙ בְּקִרְבָּ֔ם וְעַל־ לִבָּ֖ם אֶכְתֲּבֶ֑נָּה וְהָיִ֤יתִי לָהֶם֙ לֵֽאלֹהִ֔ים וְהֵ֖מָּה יִֽהְיוּ־ לִ֥י לְעָֽם׃"
+pericope: "[[Jer.31.26 The New Covenant|The New Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H2063]]"
+- "[[H9009]]"
+- "[[H1285]]"
+- "[[H0834A]]"
+- "[[H3772H]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H0310A]]"
+- "[[H3117G]]"
+- "[[H1992]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H8451]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H3820A]]"
+- "[[H3789]]"
+- "[[H9034]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0430G]]"
+- "[[H9030]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 31:33**<big><big>[[Jer.31.26 The New Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But this [shall be] the covenant that I will make with the house of Israel; After those days, saith the LORD, I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people.
 <small><sub>**BSB:**</sub></small>
 “But this is the covenant I will make with the house of Israel after those days, declares the LORD. I will put My law in their minds and inscribe it on their hearts. And I will be their God, and they will be My people.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H2063\|זֹ֣את]] [[H9009\|הַ]][[H1285\|בְּרִ֡ית]] [[H0834A\|אֲשֶׁ֣ר]] [[H3772H\|אֶכְרֹת֩]] [[H0854\|אֶת]][[H9014\|־]] [[H1004M\|בֵּ֨ית]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H0310A\|אַחֲרֵ֨י]] [[H9009\|הַ]][[H3117G\|יָּמִ֤ים]] [[H9009\|הָ]][[H1992\|הֵם֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H5414H\|נָתַ֤תִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H8451\|תּֽוֹרָתִ]][[H9020\|י֙]] [[H9003\|בְּ]][[H7130G\|קִרְבָּ֔]][[H9028\|ם]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3820A\|לִבָּ֖]][[H9028\|ם]] [[H3789\|אֶכְתֲּבֶ֑]][[H9034\|נָּה]] [[H9001\|וְ]][[H1961\|הָיִ֤יתִי]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H9005\|לֵֽ]][[H0430G\|אלֹהִ֔ים]] [[H9002\|וְ]][[H1992\|הֵ֖מָּה]] [[H1961\|יִֽהְיוּ]][[H9014\|־]] [[H9005\|לִ֥]][[H9030\|י]] [[H9005\|לְ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic COVENANT|COVENANT]] • [[topic GOSPEL|GOSPEL]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.32|<< Jeremiah 31:32]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.34|Jeremiah 31:34 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

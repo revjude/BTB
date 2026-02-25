@@ -1,10 +1,63 @@
+---
+title: Acts 4:25
+type: Verse
+kjv: "Who by the mouth of thy servant David hast said, Why did the heathen rage, and the people imagine vain things?"
+bsb: "You spoke by the Holy Spirit through the mouth of Your servant, our father David: ‘Why do the nations rage and the peoples plot in vain?"
+greek: "ὁ τοῦ πατρὸς ἡμῶν διὰ πνεύματος ἁγίου στόματος Δαυὶδ τοῦ παιδός σου εἰπών· ἱνατί ἱνατί ἐφρύαξαν ἔθνη καὶ λαοὶ ἐμελέτησαν κενά;"
+pericope: "[[Acts.4.23 The Believers’ Prayer|The Believers’ Prayer]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic VANITY|VANITY]]"
+strongs:
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G1223]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G4750]]"
+- "[[G1138]]"
+- "[[G3816]]"
+- "[[G4771]]"
+- "[[G2036]]"
+- "[[G2443]]"
+- "[[G5101]]"
+- "[[G5433]]"
+- "[[G1484]]"
+- "[[G2532]]"
+- "[[G2992]]"
+- "[[G3191]]"
+- "[[G2756]]"
+texts:
+- NKO
+- NO
+- k
+---
+
 **Acts 4:25**<big><big>[[Acts.4.23 The Believers’ Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who by the mouth of thy servant David hast said, Why did the heathen rage, and the people imagine vain things?
 <small><sub>**BSB:**</sub></small>
 You spoke by the Holy Spirit through the mouth of Your servant, our father David: ‘Why do the nations rage and the peoples plot in vain?
-<small><sub>**Literal:**</sub></small>
-who of the father of us through [the] Spirit Holy through [the] mouth of David the servant of You having spoken: so why did rage [the] Gentiles and peoples did devise vain things?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.24|<< Acts 4:24]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.26|Acts 4:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G3165\|ἡμῶν]]  [[G1223\|διὰ]]  [[G4151G\|πνεύματος]]  [[G0040G\|ἁγίου]]  [[G4750\|στόματος]]  [[G1138\|Δαυὶδ]]  [[G3588\|τοῦ]]  [[G3816\|παιδός]]  [[G4771\|σου]]  [[G2036\|εἰπών·]]  [[G2443\|ἱνατί]]  <sup><small>[[G5101\| [ • ] ]]</small></sup>  [[G5433\|ἐφρύαξαν]]  [[G1484\|ἔθνη]]  [[G2532\|καὶ]]  [[G2992\|λαοὶ]]  [[G3191\|ἐμελέτησαν]]  [[G2756\|κενά;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic VANITY|VANITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.24|<< Acts 4:24]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.26|Acts 4:26 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 4:25** is...
 > $\quad$ referencing: [[LXX.Ps.2.1|Ps 2:1-2]]

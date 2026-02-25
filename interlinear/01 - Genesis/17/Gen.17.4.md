@@ -1,8 +1,58 @@
+---
+title: Genesis 17:4
+type: Verse
+kjv: "As for me, behold, my covenant is with thee, and thou shalt be a father of many nations."
+bsb: "“As for Me, this is My covenant with you: You will be the father of many nations."
+hebrew: "אֲנִ֕י הִנֵּ֥ה בְרִיתִ֖י אִתָּ֑ךְ וְהָיִ֕יתָ לְאַ֖ב הֲמ֥וֹן גּוֹיִֽם׃"
+pericope: "[[Gen.17.1 Abraham to Father Many Nations|Abraham to Father Many Nations]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 17
+book/chapter: "[[Gen.17|Genesis 17]]"
+chronological_order: 59
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COVENANT|COVENANT]]"
+strongs:
+- "[[H0589]]"
+- "[[H2009]]"
+- "[[H1285]]"
+- "[[H9020]]"
+- "[[H0854]]"
+- "[[H9031]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H1995A]]"
+- "[[H1471A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 17:4**<big><big>[[Gen.17.1 Abraham to Father Many Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As for me, behold, my covenant [is] with thee, and thou shalt be a father of many nations.
 <small><sub>**BSB:**</sub></small>
 “As for Me, this is My covenant with you: You will be the father of many nations.
+<small><sub>**Hebrew:**</sub></small>
+[[H0589\|אֲנִ֕י]] [[H2009\|הִנֵּ֥ה]] [[H1285\|בְרִיתִ֖]][[H9020\|י]] [[H0854\|אִתָּ֑]][[H9031\|ךְ]] [[H9001\|וְ]][[H1961\|הָיִ֕יתָ]] [[H9005\|לְ]][[H0001G\|אַ֖ב]] [[H1995A\|הֲמ֥וֹן]] [[H1471A\|גּוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COVENANT|COVENANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.17.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.17.3|<< Genesis 17:3]]</td><td align="center" style="border:none;">[[Gen.17|Genesis 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.17.5|Genesis 17:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,58 @@
+---
+title: Jeremiah 28:12
+type: Verse
+kjv: "Then the word of the LORD came unto Jeremiah the prophet, after that Hananiah the prophet had broken the yoke from off the neck of the prophet Jeremiah, saying,"
+bsb: "But shortly after Hananiah the prophet had broken the yoke off his neck, the word of the LORD came to Jeremiah:"
+hebrew: "וַיְהִ֥י דְבַר־ יְהוָ֖ה אֶֽל־ יִרְמְיָ֑ה אַ֠חֲרֵי שְׁב֞וֹר חֲנַנְיָ֤ה הַנָּבִיא֙ אֶת־ הַמּוֹטָ֔ה מֵעַ֗ל צַוַּ֛אר יִרְמְיָ֥ה הַנָּבִ֖יא לֵאמֹֽר׃"
+pericope: "[[Jer.28.1 Hananiah’s False Prophecy|Hananiah’s False Prophecy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 28
+book/chapter: "[[Jer.28|Jeremiah 28]]"
+chronological_order: 751
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H3414L]]"
+- "[[H0310A]]"
+- "[[H7665]]"
+- "[[H2608A]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H0853]]"
+- "[[H4133]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H6677A]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 28:12**<big><big>[[Jer.28.1 Hananiah’s False Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the word of the LORD came unto Jeremiah [the prophet], after that Hananiah the prophet had broken the yoke from off the neck of the prophet Jeremiah, saying,
 <small><sub>**BSB:**</sub></small>
 But shortly after Hananiah the prophet had broken the yoke off his neck, the word of the LORD came to Jeremiah:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֥י]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֑ה]] [[H0310A\|אַ֠חֲרֵי]] [[H7665\|שְׁב֞וֹר]] [[H2608A\|חֲנַנְיָ֤ה]] [[H9009\|הַ]][[H5030\|נָּבִיא֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4133\|מּוֹטָ֔ה]] [[H9006\|מֵ]][[H5921A\|עַ֗ל]] [[H6677A\|צַוַּ֛אר]] [[H3414L\|יִרְמְיָ֥ה]] [[H9009\|הַ]][[H5030\|נָּבִ֖יא]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.28.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.28.11|<< Jeremiah 28:11]]</td><td align="center" style="border:none;">[[Jer.28|Jeremiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.28.13|Jeremiah 28:13 >>]]</td></tr></table>
 

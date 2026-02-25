@@ -1,10 +1,57 @@
+---
+title: Acts 26:2
+type: Verse
+kjv: "I think myself happy, king Agrippa, because I shall answer for myself this day before thee touching all the things whereof I am accused of the Jews:"
+bsb: "“King Agrippa, I consider myself fortunate to stand before you today to defend myself against all the accusations of the Jews,"
+greek: "περὶ πάντων ὧν ἐγκαλοῦμαι ὑπὸ Ἰουδαίων, βασιλεῦ Ἀγρίππα, ἥγημαι ἐμαυτὸν μακάριον ἐπὶ σοῦ μέλλων σήμερον ἀπολογεῖσθαι·"
+pericope: "[[Acts.26.1 Paul’s Testimony to Agrippa|Paul’s Testimony to Agrippa]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 26
+book/chapter: "[[Acts.26|Acts 26]]"
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G4012]]"
+- "[[G3956]]"
+- "[[G3739]]"
+- "[[G1458]]"
+- "[[G5259G]]"
+- "[[G2453]]"
+- "[[G0935]]"
+- "[[G0067]]"
+- "[[G2233]]"
+- "[[G1473]]"
+- "[[G3107]]"
+- "[[G1909]]"
+- "[[G4771]]"
+- "[[G3195]]"
+- "[[G4594]]"
+- "[[G0626]]"
+texts:
+- NKO
+---
+
 **Acts 26:2**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I think myself happy, king Agrippa, because I shall answer for myself this day before thee touching all the things whereof I am accused of the Jews:
 <small><sub>**BSB:**</sub></small>
 “King Agrippa, I consider myself fortunate to stand before you today to defend myself against all the accusations of the Jews,
-<small><sub>**Literal:**</sub></small>
-Concerning all of which I am accused by [the] Jews, King Agrippa, I have esteemed myself fortunate before you being about today to present a defense;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.1|<< Acts 26:1]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.3|Acts 26:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4012\|περὶ]]  [[G3956\|πάντων]]  [[G3739\|ὧν]]  [[G1458\|ἐγκαλοῦμαι]]  [[G5259G\|ὑπὸ]]  [[G2453\|Ἰουδαίων,]]  [[G0935\|βασιλεῦ]]  [[G0067\|Ἀγρίππα,]]  [[G2233\|ἥγημαι]]  [[G1473\|ἐμαυτὸν]]  [[G3107\|μακάριον]]  [[G1909\|ἐπὶ]]  [[G4771\|σοῦ]]  [[G3195\|μέλλων]]  [[G4594\|σήμερον]]  [[G0626\|ἀπολογεῖσθαι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic DEFENSE|DEFENSE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.1|<< Acts 26:1]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.3|Acts 26:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

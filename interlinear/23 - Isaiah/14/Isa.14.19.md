@@ -1,8 +1,66 @@
+---
+title: Isaiah 14:19
+type: Verse
+kjv: "But thou art cast out of thy grave like an abominable branch, and as the raiment of those that are slain, thrust through with a sword, that go down to the stones of the pit; as a carcase trodden under feet."
+bsb: "But you are cast out of your grave like a rejected branch, covered by those slain with the sword, and dumped into a rocky pit like a carcass trampled underfoot."
+hebrew: "וְאַתָּ֞ה הָשְׁלַ֤כְתָּ מִֽקִּבְרְךָ֙ כְּנֵ֣צֶר נִתְעָ֔ב לְב֥וּשׁ הֲרֻגִ֖ים מְטֹ֣עֲנֵי חָ֑רֶב יוֹרְדֵ֥י אֶל־ אַבְנֵי־ ב֖וֹר כְּפֶ֥גֶר מוּבָֽס׃"
+pericope: "[[Isa.14.3 The Fall of the King of Babylon|The Fall of the King of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 14
+book/chapter: "[[Isa.14|Isaiah 14]]"
+chronological_order: 631
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H7993]]"
+- "[[H9006]]"
+- "[[H6913]]"
+- "[[H9021]]"
+- "[[H9004]]"
+- "[[H5342]]"
+- "[[H8581]]"
+- "[[H3830]]"
+- "[[H2026]]"
+- "[[H2944]]"
+- "[[H2719]]"
+- "[[H3381]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0068G]]"
+- "[[H0953A]]"
+- "[[H6297]]"
+- "[[H0947]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 14:19**<big><big>[[Isa.14.3 The Fall of the King of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thou art cast out of thy grave like an abominable branch, [and as] the raiment of those that are slain, thrust through with a sword, that go down to the stones of the pit; as a carcase trodden under feet.
 <small><sub>**BSB:**</sub></small>
 But you are cast out of your grave like a rejected branch, covered by those slain with the sword, and dumped into a rocky pit like a carcass trampled underfoot.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֞ה]] [[H7993\|הָשְׁלַ֤כְתָּ]] [[H9006\|מִֽ]][[H6913\|קִּבְרְ]][[H9021\|ךָ֙]] [[H9004\|כְּ]][[H5342\|נֵ֣צֶר]] [[H8581\|נִתְעָ֔ב]] [[H3830\|לְב֥וּשׁ]] [[H2026\|הֲרֻגִ֖ים]] [[H2944\|מְטֹ֣עֲנֵי]] [[H2719\|חָ֑רֶב]] [[H3381\|יוֹרְדֵ֥י]] [[H0413\|אֶל]][[H9014\|־]] [[H0068G\|אַבְנֵי]][[H9014\|־]] [[H0953A\|ב֖וֹר]] [[H9004\|כְּ]][[H6297\|פֶ֥גֶר]] [[H0947\|מוּבָֽס]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic ISAIAH|ISAIAH]] • [[topic RULERS|RULERS]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.18|<< Isaiah 14:18]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.20|Isaiah 14:20 >>]]</td></tr></table>
 

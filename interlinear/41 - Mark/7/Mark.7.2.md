@@ -1,10 +1,65 @@
+---
+title: Mark 7:2
+type: Verse
+kjv: "And when they saw some of his disciples eat bread with defiled, that is to say, with unwashen, hands, they found fault."
+bsb: "and they saw some of His disciples eating with hands that were defiled—that is, unwashed."
+greek: "καὶ ἰδόντες τινὰς τῶν μαθητῶν αὐτοῦ ὅτι κοιναῖς χερσίν, τοῦτ᾽ ἔστιν ἀνίπτοις, ἐσθίουσιν τοὺς ἄρτους ἐμέμψαντο·"
+pericope: "[[Mark.7.1 The Tradition of the Elders|The Tradition of the Elders]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 7
+book/chapter: "[[Mark.7|Mark 7]]"
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HAND|HAND]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G5100]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G2839G]]"
+- "[[G5495]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G0449]]"
+- "[[G2068]]"
+- "[[G0740]]"
+- "[[G3201]]"
+texts:
+- NKO
+- no
+- N(k)O
+- K
+---
+
 **Mark 7:2**<big><big>[[Mark.7.1 The Tradition of the Elders|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they saw some of his disciples eat bread with defiled, that is to say, with unwashen, hands, they found fault.
 <small><sub>**BSB:**</sub></small>
 and they saw some of His disciples eating with hands that were defiled—that is, unwashed.
-<small><sub>**Literal:**</sub></small>
-And they had seen some of the disciples of Him that with defiled hands, That is unwashed, are eating the bread they found fault;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.1|<< Mark 7:1]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.3|Mark 7:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1492H\|ἰδόντες]]  [[G5100\|τινὰς]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G0846\|αὐτοῦ]]  [[G3754G\|ὅτι]]  [[G2839G\|κοιναῖς]]  [[G5495\|χερσίν,]]  [[G3778\|τοῦτ᾽]]  [[G1510\|ἔστιν]]  [[G0449\|ἀνίπτοις,]]  [[G2068\|ἐσθίουσιν]]  [[G3588\|τοὺς]]  [[G0740\|ἄρτους]]  [[G3201\|ἐμέμψαντο·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HAND|HAND]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]] • [[topic PURIFICATION|PURIFICATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.1|<< Mark 7:1]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.3|Mark 7:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

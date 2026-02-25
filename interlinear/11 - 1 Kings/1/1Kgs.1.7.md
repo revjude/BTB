@@ -1,8 +1,64 @@
+---
+title: 1 Kings 1:7
+type: Verse
+kjv: "And he conferred with Joab the son of Zeruiah, and with Abiathar the priest: and they following Adonijah helped him."
+bsb: "So Adonijah conferred with Joab son of Zeruiah and with Abiathar the priest, who supported him."
+hebrew: "וַיִּהְי֣וּ דְבָרָ֔יו עִ֚ם יוֹאָ֣ב בֶּן־ צְרוּיָ֔ה וְעִ֖ם אֶבְיָתָ֣ר הַכֹּהֵ֑ן וַֽיַּעְזְר֔וּ אַחֲרֵ֖י אֲדֹנִיָּֽה׃"
+pericope: "[[1Kgs.1.5 Adonijah Usurps the Kingdom|Adonijah Usurps the Kingdom]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ABIATHAR|ABIATHAR]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic ELECTIONEERING|ELECTIONEERING]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1697I]]"
+- "[[H9023]]"
+- "[[H5973A]]"
+- "[[H3097G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H6870]]"
+- "[[H9002]]"
+- "[[H0054]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H5826]]"
+- "[[H0310A]]"
+- "[[H0138G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:7**<big><big>[[1Kgs.1.5 Adonijah Usurps the Kingdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he conferred with Joab the son of Zeruiah, and with Abiathar the priest: and they following Adonijah helped [him].
 <small><sub>**BSB:**</sub></small>
 So Adonijah conferred with Joab son of Zeruiah and with Abiathar the priest, who supported him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יִּהְי֣וּ]] [[H1697I\|דְבָרָ֔י]][[H9023\|ו]] [[H5973A\|עִ֚ם]] [[H3097G\|יוֹאָ֣ב]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6870\|צְרוּיָ֔ה]] [[H9002\|וְ]][[H5973A\|עִ֖ם]] [[H0054\|אֶבְיָתָ֣ר]] [[H9009\|הַ]][[H3548\|כֹּהֵ֑ן]] [[H9001\|וַֽ]][[H5826\|יַּעְזְר֔וּ]] [[H0310A\|אַחֲרֵ֖י]] [[H0138G\|אֲדֹנִיָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIATHAR|ABIATHAR]] • [[topic CITIZENS|CITIZENS]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic ELECTIONEERING|ELECTIONEERING]] • [[topic JOAB|JOAB]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.6|<< 1 Kings 1:6]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.8|1 Kings 1:8 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Psalm 104:13
+type: Verse
+kjv: "He watereth the hills from his chambers: the earth is satisfied with the fruit of thy works."
+bsb: "He waters the mountains from His chambers; the earth is satisfied by the fruit of His works."
+hebrew: "מַשְׁקֶ֣ה הָ֭רִים מֵעֲלִיּוֹתָ֑יו מִפְּרִ֥י מַ֝עֲשֶׂ֗יךָ תִּשְׂבַּ֥ע הָאָֽרֶץ׃"
+pericope: "[[Ps.104.1 How Many Are Your Works, O LORD!|How Many Are Your Works, O LORD!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 104
+book/chapter: "[[Ps.104|Psalm 104]]"
+chronological_order: 528
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GEOLOGY|GEOLOGY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+strongs:
+- "[[H8248G]]"
+- "[[H2022G]]"
+- "[[H9006]]"
+- "[[H5944]]"
+- "[[H9023]]"
+- "[[H6529]]"
+- "[[H4639G]]"
+- "[[H9021]]"
+- "[[H7646]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 104:13**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He watereth the hills from his chambers: the earth is satisfied with the fruit of thy works.
 <small><sub>**BSB:**</sub></small>
 He waters the mountains from His chambers; the earth is satisfied by the fruit of His works.
+<small><sub>**Hebrew:**</sub></small>
+[[H8248G\|מַשְׁקֶ֣ה]] [[H2022G\|הָ֭רִים]] [[H9006\|מֵ]][[H5944\|עֲלִיּוֹתָ֑י]][[H9023\|ו]] [[H9006\|מִ]][[H6529\|פְּרִ֥י]] [[H4639G\|מַ֝עֲשֶׂ֗י]][[H9021\|ךָ]] [[H7646\|תִּשְׂבַּ֥ע]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GEOLOGY|GEOLOGY]] • [[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.12|<< Psalms 104:12]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.14|Psalms 104:14 >>]]</td></tr></table>
 

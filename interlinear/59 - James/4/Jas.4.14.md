@@ -1,10 +1,65 @@
+---
+title: James 4:14
+type: Verse
+kjv: "Whereas ye know not what shall be on the morrow. For what is your life? It is even a vapour, that appeareth for a little time, and then vanisheth away."
+bsb: "You do not even know what will happen tomorrow! What is your life? You are a mist that appears for a little while and then vanishes."
+greek: "οἵτινες οὐκ ἐπίστασθε τὸ τῆς αὔριον ποία γὰρ ἡ ζωὴ ὑμῶν. ἀτμὶς γάρ ἐστε ἡ πρὸς ὀλίγον φαινομένη ἔπειτα δὲ καὶ ἀφανιζομένη·"
+pericope: "[[Jas.4.13 Do Not Boast about Tomorrow|Do Not Boast about Tomorrow]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 4
+book/chapter: "[[Jas.4|James 4]]"
+chronological_order: 1036
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+strongs:
+- "[[G3748]]"
+- "[[G3756]]"
+- "[[G1987]]"
+- "[[G3588]]"
+- "[[G0839]]"
+- "[[G4169]]"
+- "[[G1063]]"
+- "[[G2222]]"
+- "[[G4771]]"
+- "[[G0822]]"
+- "[[G1510]]"
+- "[[G4314]]"
+- "[[G3641]]"
+- "[[G5316]]"
+- "[[G1899]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G0853]]"
+texts:
+- NKO
+- ko
+- N(K)(o)
+- k
+---
+
 **James 4:14**<big><big>[[Jas.4.13 Do Not Boast about Tomorrow|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whereas ye know not what [shall be] on the morrow. For what [is] your life? It is even a vapour, that appeareth for a little time, and then vanisheth away.
 <small><sub>**BSB:**</sub></small>
 You do not even know what will happen tomorrow! What is your life? You are a mist that appears for a little while and then vanishes.
-<small><sub>**Literal:**</sub></small>
-[you] who not you know what [is] on the next day [is] What [is] for the life of you! A vapor just you are <the> for a little [while] appearing then and also vanishing;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.13|<< James 4:13]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.15|James 4:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3748\|οἵτινες]]  [[G3756\|οὐκ]]  [[G1987\|ἐπίστασθε]]  [[G3588\|τὸ]]  [[G3588\|τῆς]]  [[G0839\|αὔριον]]  [[G4169\|ποία]]  [[G1063\|γὰρ]]  [[G3588\|ἡ]]  [[G2222\|ζωὴ]]  [[G4771\|ὑμῶν.]]  [[G0822\|ἀτμὶς]]  [[G1063\|γάρ]]  [[G1510\|ἐστε]]  [[G3588\|ἡ]]  [[G4314\|πρὸς]]  [[G3641\|ὀλίγον]]  [[G5316\|φαινομένη]]  [[G1899\|ἔπειτα]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G0853\|ἀφανιζομένη·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic LIFE|LIFE]] • [[topic PRESUMPTION|PRESUMPTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.13|<< James 4:13]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.15|James 4:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

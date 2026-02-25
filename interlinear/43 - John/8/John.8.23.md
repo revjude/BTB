@@ -1,10 +1,56 @@
+---
+title: John 8:23
+type: Verse
+kjv: "And he said unto them, Ye are from beneath; I am from above: ye are of this world; I am not of this world."
+bsb: "Then He told them, “You are from below; I am from above. You are of this world; I am not of this world."
+jesus_said: "Ye are from beneath; I am from above: ye are of this world; I am not of this world."
+greek: "καὶ ἔλεγεν αὐτοῖς· ὑμεῖς ἐκ τῶν κάτω ἐστέ, ἐγὼ ἐκ τῶν ἄνω εἰμί· ὑμεῖς ἐκ τούτου τοῦ κόσμου ἐστέ, ἐγὼ οὐκ εἰμὶ ἐκ τοῦ κόσμου τούτου."
+pericope: "[[John.8.12 Jesus the Light of the World|Jesus the Light of the World]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G4771]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G2736]]"
+- "[[G1510]]"
+- "[[G1473]]"
+- "[[G0507]]"
+- "[[G3778]]"
+- "[[G2889]]"
+- "[[G3756]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 8:23**<big><big>[[John.8.12 Jesus the Light of the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Ye are from beneath; I am from above: ye are of this world; I am not of this world.
 <small><sub>**BSB:**</sub></small>
 Then He told them, “You are from below; I am from above. You are of this world; I am not of this world.
-<small><sub>**Literal:**</sub></small>
-And He was saying to them; You yourselves from <the> below are, I myself from <the> above am; You yourselves of this the world are, I myself not am of <the> world this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.22|<< John 8:22]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.24|John 8:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|ἔλεγεν]]  [[G0846\|αὐτοῖς·]]  [[G4771\|ὑμεῖς]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G2736\|κάτω]]  [[G1510\|ἐστέ,]]  [[G1473\|ἐγὼ]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G0507\|ἄνω]]  [[G1510\|εἰμί·]]  [[G4771\|ὑμεῖς]]  [[G1537\|ἐκ]]  [[G3778\|τούτου]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου]]  [[G1510\|ἐστέ,]]  [[G1473\|ἐγὼ]]  [[G3756\|οὐκ]]  [[G1510\|εἰμὶ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου]]  [[G3778\|τούτου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.22|<< John 8:22]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.24|John 8:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

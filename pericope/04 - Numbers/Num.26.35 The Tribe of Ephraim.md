@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Tribe of Ephraim
+type: Pericope
 pericope: "[[Num.26.35 The Tribe of Ephraim|The Tribe of Ephraim]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 26
 book/chapter: "[[Num.26|Numbers 26]]"
-genre:
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,13 +25,14 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 3
 verses:
 - "[[Num.26.35]]"
 - "[[Num.26.36]]"
 - "[[Num.26.37]]"
 ---
 
-[[Num.26|Numbers 26:35 - Numbers 26:37]]
+<small>[[Num.26|Numbers 26:35-37]]</small>
 *The Tribe of Ephraim*
 
 [[Num.26.35|35]] These \[are\] the sons of Ephraim after their families: of Shuthelah, the family of the Shuthalhites: of Becher, the family of the Bachrites: of Tahan, the family of the Tahanites.

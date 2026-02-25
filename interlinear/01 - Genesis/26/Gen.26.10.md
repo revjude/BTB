@@ -1,8 +1,71 @@
+---
+title: Genesis 26:10
+type: Verse
+kjv: "And Abimelech said, What is this thou hast done unto us? one of the people might lightly have lien with thy wife, and thou shouldest have brought guiltiness upon us."
+bsb: "“What is this you have done to us?” asked Abimelech. “One of the people could easily have slept with your wife, and you would have brought guilt upon us.”"
+hebrew: "וַיֹּ֣אמֶר אֲבִימֶ֔לֶךְ מַה־ זֹּ֖את עָשִׂ֣יתָ לָּ֑נוּ כִּ֠מְעַט שָׁכַ֞ב אַחַ֤ד הָעָם֙ אֶת־ אִשְׁתֶּ֔ךָ וְהֵבֵאתָ֥ עָלֵ֖ינוּ אָשָֽׁם׃"
+pericope: "[[Gen.26.6 Isaac Deceives Abimelech|Isaac Deceives Abimelech]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 26
+book/chapter: "[[Gen.26|Genesis 26]]"
+chronological_order: 68
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0040G]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H9004]]"
+- "[[H4592]]"
+- "[[H7901I]]"
+- "[[H0259]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0853]]"
+- "[[H0802H]]"
+- "[[H9021]]"
+- "[[H0935P]]"
+- "[[H5921A]]"
+- "[[H0817]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 26:10**<big><big>[[Gen.26.6 Isaac Deceives Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abimelech said, What [is] this thou hast done unto us? one of the people might lightly have lien with thy wife, and thou shouldest have brought guiltiness upon us.
 <small><sub>**BSB:**</sub></small>
 “What is this you have done to us?” asked Abimelech. “One of the people could easily have slept with your wife, and you would have brought guilt upon us.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0040G\|אֲבִימֶ֔לֶךְ]] [[H4100\|מַה]][[H9014\|־]] [[H2063\|זֹּ֖את]] [[H6213A\|עָשִׂ֣יתָ]] [[H9005\|לָּ֑]][[H9035\|נוּ]] [[H9004\|כִּ֠]][[H4592\|מְעַט]] [[H7901I\|שָׁכַ֞ב]] [[H0259\|אַחַ֤ד]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0802H\|אִשְׁתֶּ֔]][[H9021\|ךָ]] [[H9001\|וְ]][[H0935P\|הֵבֵאתָ֥]] [[H5921A\|עָלֵ֖י]][[H9035\|נוּ]] [[H0817\|אָשָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHIDING|CHIDING]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic INTEGRITY|INTEGRITY]] • [[topic ISAAC|ISAAC]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.9|<< Genesis 26:9]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.11|Genesis 26:11 >>]]</td></tr></table>
 

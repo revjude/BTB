@@ -1,8 +1,62 @@
+---
+title: Numbers 17:3
+type: Verse
+kjv: "And thou shalt write Aaron’s name upon the rod of Levi: for one rod shall be for the head of the house of their fathers."
+bsb: "and write Aaron’s name on the staff of Levi, because there must be one staff for the head of each tribe."
+hebrew: "וְאֵת֙ שֵׁ֣ם אַהֲרֹ֔ן תִּכְתֹּ֖ב עַל־ מַטֵּ֣ה לֵוִ֑י כִּ֚י מַטֶּ֣ה אֶחָ֔ד לְרֹ֖אשׁ בֵּ֥ית אֲבוֹתָֽם׃"
+pericope: "[[Num.17.1 Aaron’s Staff Buds|Aaron’s Staff Buds]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 17
+book/chapter: "[[Num.17|Numbers 17]]"
+chronological_order: 177
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H8034]]"
+- "[[H0175]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4294G]]"
+- "[[H3878]]"
+- "[[H3588A]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H7218H]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 17:3**<big><big>[[Num.17.1 Aaron’s Staff Buds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt write Aaron’s name upon the rod of Levi: for one rod [shall be] for the head of the house of their fathers.
 <small><sub>**BSB:**</sub></small>
 and write Aaron’s name on the staff of Levi, because there must be one staff for the head of each tribe.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵת֙]] [[H8034\|שֵׁ֣ם]] [[H0175\|אַהֲרֹ֔ן]] [[H3789\|תִּכְתֹּ֖ב]] [[H5921A\|עַל]][[H9014\|־]] [[H4294G\|מַטֵּ֣ה]] [[H3878\|לֵוִ֑י]] [[H3588A\|כִּ֚י]] [[H4294G\|מַטֶּ֣ה]] [[H0259\|אֶחָ֔ד]] [[H9005\|לְ]][[H7218H\|רֹ֖אשׁ]] [[H1004M\|בֵּ֥ית]] [[H0001G\|אֲבוֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.17.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.17.2|<< Numbers 17:2]]</td><td align="center" style="border:none;">[[Num.17|Numbers 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.17.4|Numbers 17:4 >>]]</td></tr></table>
 

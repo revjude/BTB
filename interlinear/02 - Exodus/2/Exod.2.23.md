@@ -1,8 +1,71 @@
+---
+title: Exodus 2:23
+type: Verse
+kjv: "And it came to pass in process of time, that the king of Egypt died: and the children of Israel sighed by reason of the bondage, and they cried, and their cry came up unto God by reason of the bondage."
+bsb: "After a long time, the king of Egypt died. The Israelites groaned and cried out under their burden of slavery, and their cry for deliverance from bondage ascended to God."
+hebrew: "וַיְהִי֩ בַיָּמִ֨ים הָֽרַבִּ֜ים הָהֵ֗ם וַיָּ֙מָת֙ מֶ֣לֶךְ מִצְרַ֔יִם וַיֵּאָנְח֧וּ בְנֵֽי־ יִשְׂרָאֵ֛ל מִן־ הָעֲבֹדָ֖ה וַיִּזְעָ֑קוּ וַתַּ֧עַל שַׁוְעָתָ֛ם אֶל־ הָאֱלֹהִ֖ים מִן־ הָעֲבֹדָֽה׃"
+pericope: "[[Exod.2.23 God Hears the Cry of the Israelites|God Hears the Cry of the Israelites]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 2
+book/chapter: "[[Exod.2|Exodus 2]]"
+chronological_order: 94
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BONDAGE|BONDAGE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7227A]]"
+- "[[H1992]]"
+- "[[H4191]]"
+- "[[H4428G]]"
+- "[[H4714G]]"
+- "[[H0584]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H4480A]]"
+- "[[H5656G]]"
+- "[[H2199]]"
+- "[[H5927G]]"
+- "[[H7775]]"
+- "[[H9028]]"
+- "[[H0413]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 2:23**<big><big>[[Exod.2.23 God Hears the Cry of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in process of time, that the king of Egypt died: and the children of Israel sighed by reason of the bondage, and they cried, and their cry came up unto God by reason of the bondage.
 <small><sub>**BSB:**</sub></small>
 After a long time, the king of Egypt died. The Israelites groaned and cried out under their burden of slavery, and their cry for deliverance from bondage ascended to God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֩]] [[H9003\|בַ]][[H3117G\|יָּמִ֨ים]] [[H9009\|הָֽ]][[H7227A\|רַבִּ֜ים]] [[H9009\|הָ]][[H1992\|הֵ֗ם]] [[H9001\|וַ]][[H4191\|יָּ֙מָת֙]] [[H4428G\|מֶ֣לֶךְ]] [[H4714G\|מִצְרַ֔יִם]] [[H9001\|וַ]][[H0584\|יֵּאָנְח֧וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5656G\|עֲבֹדָ֖ה]] [[H9001\|וַ]][[H2199\|יִּזְעָ֑קוּ]] [[H9001\|וַ]][[H5927G\|תַּ֧עַל]] [[H7775\|שַׁוְעָתָ֛]][[H9028\|ם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5656G\|עֲבֹדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BONDAGE|BONDAGE]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.2.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.22|<< Exodus 2:22]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.24|Exodus 2:24 >>]]</td></tr></table>
 

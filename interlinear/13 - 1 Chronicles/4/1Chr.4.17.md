@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 4:17
+type: Verse
+kjv: "And the sons of Ezra were, Jether, and Mered, and Epher, and Jalon: and she bare Miriam, and Shammai, and Ishbah the father of Eshtemoa."
+bsb: "The sons of Ezrah: Jether, Mered, Epher, and Jalon. And Mered’s wife Bithiah gave birth to Miriam, Shammai, and Ishbah the father of Eshtemoa."
+hebrew: "וּבֶן־ עֶזְרָ֔ה יֶ֥תֶר וּמֶ֖רֶד וְעֵ֣פֶר וְיָל֑וֹן וַתַּ֙הַר֙ אֶת־ מִרְיָ֣ם וְאֶת־ שַׁמַּ֔י וְאֶת־ יִשְׁבָּ֖ח אֲבִ֥י אֶשְׁתְּמֹֽעַ׃"
+pericope: "[[1Chr.4.11 More Descendants of Judah|More Descendants of Judah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 4
+book/chapter: "[[1Chr.4|1 Chronicles 4]]"
+chronological_order: 323
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic EZER|EZER]]"
+- "[[topic EZRA|EZRA]]"
+- "[[topic ISHBAH|ISHBAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5834]]"
+- "[[H3500J]]"
+- "[[H4778]]"
+- "[[H6081H]]"
+- "[[H3210]]"
+- "[[H9001]]"
+- "[[H2029]]"
+- "[[H0853]]"
+- "[[H4813H]]"
+- "[[H8060I]]"
+- "[[H3431]]"
+- "[[H0001G]]"
+- "[[H0851]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 4:17**<big><big>[[1Chr.4.11 More Descendants of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Ezra [were], Jether, and Mered, and Epher, and Jalon: and she bare Miriam, and Shammai, and Ishbah the father of Eshtemoa.
 <small><sub>**BSB:**</sub></small>
 The sons of Ezrah: Jether, Mered, Epher, and Jalon. And Mered’s wife Bithiah gave birth to Miriam, Shammai, and Ishbah the father of Eshtemoa.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בֶן]][[H9014\|־]] [[H5834\|עֶזְרָ֔ה]] [[H3500J\|יֶ֥תֶר]] [[H9002\|וּ]][[H4778\|מֶ֖רֶד]] [[H9002\|וְ]][[H6081H\|עֵ֣פֶר]] [[H9002\|וְ]][[H3210\|יָל֑וֹן]] [[H9001\|וַ]][[H2029\|תַּ֙הַר֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4813H\|מִרְיָ֣ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8060I\|שַׁמַּ֔י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3431\|יִשְׁבָּ֖ח]] [[H0001G\|אֲבִ֥י]] [[H0851\|אֶשְׁתְּמֹֽעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZER|EZER]] • [[topic EZRA|EZRA]] • [[topic ISHBAH|ISHBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.16|<< 1 Chronicles 4:16]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.18|1 Chronicles 4:18 >>]]</td></tr></table>
 

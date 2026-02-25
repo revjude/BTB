@@ -1,8 +1,59 @@
+---
+title: Ezekiel 25:10
+type: Verse
+kjv: "Unto the men of the east with the Ammonites, and will give them in possession, that the Ammonites may not be remembered among the nations."
+bsb: "I will give it along with the Ammonites as a possession to the people of the East, so that the Ammonites will no longer be remembered among the nations."
+hebrew: "לִבְנֵי־ קֶ֙דֶם֙ עַל־ בְּנֵ֣י עַמּ֔וֹן וּנְתַתִּ֖יהָ לְמֽוֹרָשָׁ֑ה לְמַ֛עַן לֹֽא־ תִזָּכֵ֥ר בְּנֵֽי־ עַמּ֖וֹן בַּגּוֹיִֽם׃"
+pericope: "[[Ezek.25.8 A Prophecy against Moab|A Prophecy against Moab]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 25
+book/chapter: "[[Ezek.25|Ezekiel 25]]"
+chronological_order: 816
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+strongs:
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H6924A]]"
+- "[[H5921A]]"
+- "[[H5983]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9034]]"
+- "[[H4181]]"
+- "[[H4616]]"
+- "[[H3808]]"
+- "[[H2142]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 25:10**<big><big>[[Ezek.25.8 A Prophecy against Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unto the men of the east with the Ammonites, and will give them in possession, that the Ammonites may not be remembered among the nations.
 <small><sub>**BSB:**</sub></small>
 I will give it along with the Ammonites as a possession to the people of the East, so that the Ammonites will no longer be remembered among the nations.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H1121G\|בְנֵי]][[H9014\|־]] [[H6924A\|קֶ֙דֶם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H5983\|עַמּ֔וֹן]] [[H9001\|וּ]][[H5414G\|נְתַתִּ֖י]][[H9034\|הָ]] [[H9005\|לְ]][[H4181\|מֽוֹרָשָׁ֑ה]] [[H4616\|לְמַ֛עַן]] [[H3808\|לֹֽא]][[H9014\|־]] [[H2142\|תִזָּכֵ֥ר]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H5983\|עַמּ֖וֹן]] [[H9003\|בַּ]][[H1471A\|גּוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.25.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.25.9|<< Ezekiel 25:9]]</td><td align="center" style="border:none;">[[Ezek.25|Ezekiel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.25.11|Ezekiel 25:11 >>]]</td></tr></table>
 

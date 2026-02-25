@@ -1,10 +1,62 @@
+---
+title: John 15:26
+type: Verse
+kjv: "But when the Comforter is come, whom I will send unto you from the Father, even the Spirit of truth, which proceedeth from the Father, he shall testify of me:"
+bsb: "When the Advocate comes, whom I will send to you from the Father—the Spirit of truth who proceeds from the Father—He will testify about Me."
+jesus_said: "But when the Comforter is come, whom I will send unto you from the Father, even the Spirit of truth, which proceedeth from the Father, he shall testify of me:"
+greek: "Ὅταν δὲ ἔλθῃ ὁ παράκλητος ὃν ἐγὼ πέμψω ὑμῖν παρὰ τοῦ πατρός, τὸ πνεῦμα τῆς ἀληθείας ὃ παρὰ τοῦ πατρὸς ἐκπορεύεται, ἐκεῖνος μαρτυρήσει περὶ ἐμοῦ·"
+pericope: "[[John.15.18 The Hatred of the World|The Hatred of the World]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 15
+book/chapter: "[[John.15|John 15]]"
+chronological_order: 1003
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[G3752]]"
+- "[[G1161]]"
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G3875]]"
+- "[[G3739]]"
+- "[[G1473]]"
+- "[[G3992]]"
+- "[[G4771]]"
+- "[[G3844]]"
+- "[[G3962]]"
+- "[[G4151G]]"
+- "[[G0225]]"
+- "[[G1607]]"
+- "[[G1565]]"
+- "[[G3140]]"
+- "[[G4012]]"
+texts:
+- NKO
+- ko
+---
+
 **John 15:26**<big><big>[[John.15.18 The Hatred of the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when the Comforter is come, whom I will send unto you from the Father, [even] the Spirit of truth, which proceedeth from the Father, he shall testify of me:
 <small><sub>**BSB:**</sub></small>
 When the Advocate comes, whom I will send to you from the Father—the Spirit of truth who proceeds from the Father—He will testify about Me.
-<small><sub>**Literal:**</sub></small>
-When now may come the Helper whom I myself will send to you from the Father, the Spirit <the> of truth who from the Father goes forth, He will bear witness concerning Me;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.25|<< John 15:25]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.27|John 15:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3752\|Ὅταν]]  [[G1161\|δὲ]]  [[G2064\|ἔλθῃ]]  [[G3588\|ὁ]]  [[G3875\|παράκλητος]]  [[G3739\|ὃν]]  [[G1473\|ἐγὼ]]  [[G3992\|πέμψω]]  [[G4771\|ὑμῖν]]  [[G3844\|παρὰ]]  [[G3588\|τοῦ]]  [[G3962\|πατρός,]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τῆς]]  [[G0225\|ἀληθείας]]  [[G3739\|ὃ]]  [[G3844\|παρὰ]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G1607\|ἐκπορεύεται,]]  [[G1565\|ἐκεῖνος]]  [[G3140\|μαρτυρήσει]]  [[G4012\|περὶ]]  [[G1473\|ἐμοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TRINITY|TRINITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.25|<< John 15:25]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.27|John 15:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

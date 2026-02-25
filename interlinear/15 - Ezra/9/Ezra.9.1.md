@@ -1,8 +1,81 @@
+---
+title: Ezra 9:1
+type: Verse
+kjv: "Now when these things were done, the princes came to me, saying, The people of Israel, and the priests, and the Levites, have not separated themselves from the people of the lands, doing according to their abominations, even of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites."
+bsb: "After these things had been accomplished, the leaders approached me and said, “The people of Israel, including the priests and Levites, have not kept themselves separate from the surrounding peoples whose abominations are like those of the Canaanites, Hittites, Perizzites, Jebusites, Ammonites, Moabites, Egyptians, and Amorites."
+hebrew: "וּכְכַלּ֣וֹת אֵ֗לֶּה נִגְּשׁ֨וּ אֵלַ֤י הַשָּׂרִים֙ לֵאמֹ֔ר לֹֽא־ נִבְדְּל֞וּ הָעָ֤ם יִשְׂרָאֵל֙ וְהַכֹּהֲנִ֣ים וְהַלְוִיִּ֔ם מֵעַמֵּ֖י הָאֲרָצ֑וֹת כְּ֠תוֹעֲבֹֽתֵיהֶם לַכְּנַעֲנִ֨י הַחִתִּ֜י הַפְּרִזִּ֣י הַיְבוּסִ֗י הָֽעַמֹּנִי֙ הַמֹּ֣אָבִ֔י הַמִּצְרִ֖י וְהָאֱמֹרִֽי׃"
+pericope: "[[Ezra.9.1 Intermarriage with Neighboring Peoples|Intermarriage with Neighboring Peoples]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 9
+book/chapter: "[[Ezra.9|Ezra 9]]"
+chronological_order: 911
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HITTITES|HITTITES]]"
+- "[[topic JEBUSITES|JEBUSITES]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MOABITES|MOABITES]]"
+- "[[topic PERIZZITES|PERIZZITES]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H3615G]]"
+- "[[H0428]]"
+- "[[H5066G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H8269]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0914]]"
+- "[[H5971A]]"
+- "[[H3478]]"
+- "[[H3548]]"
+- "[[H3881]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H8441]]"
+- "[[H9028]]"
+- "[[H3669A]]"
+- "[[H2850]]"
+- "[[H6522]]"
+- "[[H2983G]]"
+- "[[H5984H]]"
+- "[[H4125]]"
+- "[[H4713]]"
+- "[[H0567]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 9:1**<big><big>[[Ezra.9.1 Intermarriage with Neighboring Peoples|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now when these things were done, the princes came to me, saying, The people of Israel, and the priests, and the Levites, have not separated themselves from the people of the lands, [doing] according to their abominations, [even] of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites.
 <small><sub>**BSB:**</sub></small>
 After these things had been accomplished, the leaders approached me and said, “The people of Israel, including the priests and Levites, have not kept themselves separate from the surrounding peoples whose abominations are like those of the Canaanites, Hittites, Perizzites, Jebusites, Ammonites, Moabites, Egyptians, and Amorites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9004\|כְ]][[H3615G\|כַלּ֣וֹת]] [[H0428\|אֵ֗לֶּה]] [[H5066G\|נִגְּשׁ֨וּ]] [[H0413\|אֵלַ֤]][[H9030\|י]] [[H9009\|הַ]][[H8269\|שָּׂרִים֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0914\|נִבְדְּל֞וּ]] [[H9009\|הָ]][[H5971A\|עָ֤ם]] [[H3478\|יִשְׂרָאֵל֙]] [[H9002\|וְ]][[H9009\|הַ]][[H3548\|כֹּהֲנִ֣ים]] [[H9002\|וְ]][[H9009\|הַ]][[H3881\|לְוִיִּ֔ם]] [[H9006\|מֵ]][[H5971A\|עַמֵּ֖י]] [[H9009\|הָ]][[H0776G\|אֲרָצ֑וֹת]] [[H9004\|כְּ֠]][[H8441\|תוֹעֲבֹֽתֵי]][[H9028\|הֶם]] [[H9005\|לַ]][[H3669A\|כְּנַעֲנִ֨י]] [[H9009\|הַ]][[H2850\|חִתִּ֜י]] [[H9009\|הַ]][[H6522\|פְּרִזִּ֣י]] [[H9009\|הַ]][[H2983G\|יְבוּסִ֗י]] [[H9009\|הָֽ]][[H5984H\|עַמֹּנִי֙]] [[H9009\|הַ]][[H4125\|מֹּ֣אָבִ֔י]] [[H9009\|הַ]][[H4713\|מִּצְרִ֖י]] [[H9002\|וְ]][[H9009\|הָ]][[H0567\|אֱמֹרִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HITTITES|HITTITES]] • [[topic JEBUSITES|JEBUSITES]] • [[topic LEVITES|LEVITES]] • [[topic MARRIAGE|MARRIAGE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MOABITES|MOABITES]] • [[topic PERIZZITES|PERIZZITES]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.36|<< Ezra 8:36]]</td><td align="center" style="border:none;">[[Ezra.9|Ezra 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.9.2|Ezra 9:2 >>]]</td></tr></table>
 

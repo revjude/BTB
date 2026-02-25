@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sennacherib’s Blasphemous Letter
+type: Pericope
 pericope: "[[Isa.37.8 Sennacherib’s Blasphemous Letter|Sennacherib’s Blasphemous Letter]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 37
 book/chapter: "[[Isa.37|Isaiah 37]]"
-genre:
+chronological_order: 664
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 6
 verses:
 - "[[Isa.37.8]]"
 - "[[Isa.37.9]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Isa.37.13]]"
 ---
 
-[[Isa.37|Isaiah 37:8 - Isaiah 37:13]]
+<small>[[Isa.37|Isaiah 37:8-13]]</small>
 *Sennacherib’s Blasphemous Letter*
 
 [[Isa.37.8|8]] So Rabshakeh returned, and found the king of Assyria warring against Libnah: for he had heard that he was departed from Lachish.

@@ -1,8 +1,64 @@
+---
+title: Isaiah 7:8
+type: Verse
+kjv: "For the head of Syria is Damascus, and the head of Damascus is Rezin; and within threescore and five years shall Ephraim be broken, that it be not a people."
+bsb: "For the head of Aram is Damascus, and the head of Damascus is Rezin. Within sixty-five years Ephraim will be shattered as a people."
+hebrew: "כִּ֣י רֹ֤אשׁ אֲרָם֙ דַּמֶּ֔שֶׂק וְרֹ֥אשׁ דַּמֶּ֖שֶׂק רְצִ֑ין וּבְע֗וֹד שִׁשִּׁ֤ים וְחָמֵשׁ֙ שָׁנָ֔ה יֵחַ֥ת אֶפְרַ֖יִם מֵעָֽם׃"
+pericope: "[[Isa.7.1 A Message to Ahaz|A Message to Ahaz]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 7
+book/chapter: "[[Isa.7|Isaiah 7]]"
+chronological_order: 617
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PEKAH|PEKAH]]"
+- "[[topic REZIN|REZIN]]"
+- "[[topic SYRIA|SYRIA]]"
+strongs:
+- "[[H3588A]]"
+- "[[H7218H]]"
+- "[[H0758I]]"
+- "[[H1834]]"
+- "[[H9002]]"
+- "[[H7526G]]"
+- "[[H9003]]"
+- "[[H5750]]"
+- "[[H8346]]"
+- "[[H2568]]"
+- "[[H8141]]"
+- "[[H2865]]"
+- "[[H0669G]]"
+- "[[H9006]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 7:8**<big><big>[[Isa.7.1 A Message to Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the head of Syria [is] Damascus, and the head of Damascus [is] Rezin; and within threescore and five years shall Ephraim be broken, that it be not a people.
 <small><sub>**BSB:**</sub></small>
 For the head of Aram is Damascus, and the head of Damascus is Rezin. Within sixty-five years Ephraim will be shattered as a people.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H7218H\|רֹ֤אשׁ]] [[H0758I\|אֲרָם֙]] [[H1834\|דַּמֶּ֔שֶׂק]] [[H9002\|וְ]][[H7218H\|רֹ֥אשׁ]] [[H1834\|דַּמֶּ֖שֶׂק]] [[H7526G\|רְצִ֑ין]] [[H9002\|וּ]][[H9003\|בְ]][[H5750\|ע֗וֹד]] [[H8346\|שִׁשִּׁ֤ים]] [[H9002\|וְ]][[H2568\|חָמֵשׁ֙]] [[H8141\|שָׁנָ֔ה]] [[H2865\|יֵחַ֥ת]] [[H0669G\|אֶפְרַ֖יִם]] [[H9006\|מֵ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic DAMASCUS|DAMASCUS]] • [[topic EPHRAIM|EPHRAIM]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PEKAH|PEKAH]] • [[topic REZIN|REZIN]] • [[topic SYRIA|SYRIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.7.7|<< Isaiah 7:7]]</td><td align="center" style="border:none;">[[Isa.7|Isaiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.9|Isaiah 7:9 >>]]</td></tr></table>
 

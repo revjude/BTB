@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Restrictions for Priests
+type: Pericope
 pericope: "[[Lev.10.8 Restrictions for Priests|Restrictions for Priests]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 10
 book/chapter: "[[Lev.10|Leviticus 10]]"
-genre:
+chronological_order: 142
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 13
 verses:
 - "[[Lev.10.8]]"
 - "[[Lev.10.9]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Lev.10.20]]"
 ---
 
-[[Lev.10|Leviticus 10:8 - Leviticus 10:20]]
+<small>[[Lev.10|Leviticus 10:8-20]]</small>
 *Restrictions for Priests*
 
 [[Lev.10.8|8]] And the LORD spake unto Aaron, saying,

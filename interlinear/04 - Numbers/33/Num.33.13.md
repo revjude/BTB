@@ -1,8 +1,52 @@
+---
+title: Numbers 33:13
+type: Verse
+kjv: "And they departed from Dophkah, and encamped in Alush."
+bsb: "They set out from Dophkah and camped at Alush."
+hebrew: "וַיִּסְע֖וּ מִדָּפְקָ֑ה וַֽיַּחֲנ֖וּ בְּאָלֽוּשׁ׃"
+pericope: "[[Num.33.1 Forty-Two Journeys of the Israelites|Forty-Two Journeys of the Israelites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 33
+book/chapter: "[[Num.33|Numbers 33]]"
+chronological_order: 193
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ALUSH|ALUSH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5265]]"
+- "[[H9006]]"
+- "[[H1850]]"
+- "[[H2583]]"
+- "[[H9003]]"
+- "[[H0442]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 33:13**<big><big>[[Num.33.1 Forty-Two Journeys of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they departed from Dophkah, and encamped in Alush.
 <small><sub>**BSB:**</sub></small>
 They set out from Dophkah and camped at Alush.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5265\|יִּסְע֖וּ]] [[H9006\|מִ]][[H1850\|דָּפְקָ֑ה]] [[H9001\|וַֽ]][[H2583\|יַּחֲנ֖וּ]] [[H9003\|בְּ]][[H0442\|אָלֽוּשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALUSH|ALUSH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.12|<< Numbers 33:12]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.14|Numbers 33:14 >>]]</td></tr></table>
 

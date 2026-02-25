@@ -1,8 +1,71 @@
+---
+title: 1 Kings 11:10
+type: Verse
+kjv: "And had commanded him concerning this thing, that he should not go after other gods: but he kept not that which the LORD commanded."
+bsb: "Although He had warned Solomon explicitly not to follow other gods, Solomon did not keep the LORD’s command."
+hebrew: "וְצִוָּ֤ה אֵלָיו֙ עַל־ הַדָּבָ֣ר הַזֶּ֔ה לְבִ֨לְתִּי־ לֶ֔כֶת אַחֲרֵ֖י אֱלֹהִ֣ים אֲחֵרִ֑ים וְלֹ֣א שָׁמַ֔ר אֵ֥ת אֲשֶׁר־ צִוָּ֖ה יְהוָֽה׃ פ"
+pericope: "[[1Kgs.11.9 God’s Anger against Solomon|God’s Anger against Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 11
+book/chapter: "[[1Kgs.11|1 Kings 11]]"
+chronological_order: 536
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H2088]]"
+- "[[H9005]]"
+- "[[H1115]]"
+- "[[H1980N]]"
+- "[[H0310A]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8104G]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Kings 11:10**<big><big>[[1Kgs.11.9 God’s Anger against Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And had commanded him concerning this thing, that he should not go after other gods: but he kept not that which the LORD commanded.
 <small><sub>**BSB:**</sub></small>
 Although He had warned Solomon explicitly not to follow other gods, Solomon did not keep the LORD’s command.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6680\|צִוָּ֤ה]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דָּבָ֣ר]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9005\|לְ]][[H1115\|בִ֨לְתִּי]][[H9014\|־]] [[H1980N\|לֶ֔כֶת]] [[H0310A\|אַחֲרֵ֖י]] [[H0430\|אֱלֹהִ֣ים]] [[H0312\|אֲחֵרִ֑ים]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H8104G\|שָׁמַ֔ר]] [[H0853\|אֵ֥ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוָּ֖ה]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic RULERS|RULERS]] • [[topic SOLOMON|SOLOMON]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.9|<< 1 Kings 11:9]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.11|1 Kings 11:11 >>]]</td></tr></table>
 
@@ -23,7 +86,7 @@ Although He had warned Solomon explicitly not to follow other gods, Solomon did 
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֥ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [that] which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he had commanded  |**<big>&#8207;[[H6680\|צִוָּ֖ה]]&#8207; </big>**| tzi.Vah<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.9|<< 1 Kings 11:9]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.11|1 Kings 11:11 >>]]</td></tr></table>
 
 

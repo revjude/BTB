@@ -1,8 +1,70 @@
+---
+title: Isaiah 45:21
+type: Verse
+kjv: "Tell ye, and bring them near; yea, let them take counsel together: who hath declared this from ancient time? who hath told it from that time? have not I the LORD? and there is no God else beside me; a just God and a Saviour; there is none beside me."
+bsb: "Speak up and present your case—yes, let them take counsel together. Who foretold this long ago? Who announced it from ancient times? Was it not I, the LORD? There is no other God but Me, a righteous God and Savior; there is none but Me."
+hebrew: "הַגִּ֣ידוּ וְהַגִּ֔ישׁוּ אַ֥ף יִֽוָּעֲצ֖וּ יַחְדָּ֑ו מִ֣י הִשְׁמִיעַ֩ זֹ֨את מִקֶּ֜דֶם מֵאָ֣ז הִגִּידָ֗הּ הֲל֨וֹא אֲנִ֤י יְהוָה֙ וְאֵֽין־ ע֤וֹד אֱלֹהִים֙ מִבַּלְעָדַ֔י אֵֽל־ צַדִּ֣יק וּמוֹשִׁ֔יעַ אַ֖יִן זוּלָתִֽי׃"
+pericope: "[[Isa.45.1 God Calls Cyrus|God Calls Cyrus]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 45
+book/chapter: "[[Isa.45|Isaiah 45]]"
+chronological_order: 684
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+strongs:
+- "[[H5046]]"
+- "[[H9002]]"
+- "[[H5066H]]"
+- "[[H0637]]"
+- "[[H3289]]"
+- "[[H3162B]]"
+- "[[H4310]]"
+- "[[H8085I]]"
+- "[[H2063]]"
+- "[[H9006]]"
+- "[[H6924H]]"
+- "[[H0227B]]"
+- "[[H9034]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H5750]]"
+- "[[H0430G]]"
+- "[[H1107]]"
+- "[[H9030]]"
+- "[[H0410G]]"
+- "[[H6662]]"
+- "[[H3467]]"
+- "[[H2108]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 45:21**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Tell ye, and bring [them] near; yea, let them take counsel together: who hath declared this from ancient time? [who] hath told it from that time? [have] not I the LORD? and [there is] no God else beside me; a just God and a Saviour; [there is] none beside me.
 <small><sub>**BSB:**</sub></small>
 Speak up and present your case—yes, let them take counsel together. Who foretold this long ago? Who announced it from ancient times? Was it not I, the LORD? There is no other God but Me, a righteous God and Savior; there is none but Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H5046\|הַגִּ֣ידוּ]] [[H9002\|וְ]][[H5066H\|הַגִּ֔ישׁוּ]] [[H0637\|אַ֥ף]] [[H3289\|יִֽוָּעֲצ֖וּ]] [[H3162B\|יַחְדָּ֑ו]] [[H4310\|מִ֣י]] [[H8085I\|הִשְׁמִיעַ֩]] [[H2063\|זֹ֨את]] [[H9006\|מִ]][[H6924H\|קֶּ֜דֶם]] [[H9006\|מֵ]][[H0227B\|אָ֣ז]] [[H5046\|הִגִּידָ֗]][[H9034\|הּ]] [[H9008\|הֲ]][[H3808\|ל֨וֹא]] [[H0589\|אֲנִ֤י]] [[H3068G\|יְהוָה֙]] [[H9002\|וְ]][[H0369\|אֵֽין]][[H9014\|־]] [[H5750\|ע֤וֹד]] [[H0430G\|אֱלֹהִים֙]] [[H9006\|מִ]][[H1107\|בַּלְעָדַ֔]][[H9030\|י]] [[H0410G\|אֵֽל]][[H9014\|־]] [[H6662\|צַדִּ֣יק]] [[H9002\|וּ]][[H3467\|מוֹשִׁ֔יעַ]] [[H0369\|אַ֖יִן]] [[H2108\|זוּלָתִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.20|<< Isaiah 45:20]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.22|Isaiah 45:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

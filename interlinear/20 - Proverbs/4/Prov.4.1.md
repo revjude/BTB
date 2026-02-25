@@ -1,8 +1,51 @@
+---
+title: Proverbs 4:1
+type: Verse
+kjv: "Hear, ye children, the instruction of a father, and attend to know understanding."
+bsb: "Listen, my sons, to a father’s instruction; pay attention and gain understanding."
+hebrew: "שִׁמְע֣וּ בָ֭נִים מ֣וּסַר אָ֑ב וְ֝הַקְשִׁ֗יבוּ לָדַ֥עַת בִּינָֽה׃"
+pericope: "[[Prov.4.1 A Father’s Instruction|A Father’s Instruction]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 4
+book/chapter: "[[Prov.4|Proverbs 4]]"
+chronological_order: 459
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H8085G]]"
+- "[[H1121G]]"
+- "[[H4148H]]"
+- "[[H0001G]]"
+- "[[H9002]]"
+- "[[H7181]]"
+- "[[H9005]]"
+- "[[H3045]]"
+- "[[H0998]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 4:1**<big><big>[[Prov.4.1 A Father’s Instruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear, ye children, the instruction of a father, and attend to know understanding.
 <small><sub>**BSB:**</sub></small>
 Listen, my sons, to a father’s instruction; pay attention and gain understanding.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שִׁמְע֣וּ]] [[H1121G\|בָ֭נִים]] [[H4148H\|מ֣וּסַר]] [[H0001G\|אָ֑ב]] [[H9002\|וְ֝]][[H7181\|הַקְשִׁ֗יבוּ]] [[H9005\|לָ]][[H3045\|דַ֥עַת]] [[H0998\|בִּינָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.35|<< Proverbs 3:35]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.2|Proverbs 4:2 >>]]</td></tr></table>
 

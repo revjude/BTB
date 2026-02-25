@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Final Greetings
+type: Pericope
 pericope: "[[2Tim.4.19 Final Greetings|Final Greetings]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: 2 Timothy
 chapter: 4
 book/chapter: "[[2Tim.4|2 Timothy 4]]"
-genre:
+chronological_order: 1156
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - testament letter
+verse_count: 4
 verses:
 - "[[2Tim.4.19]]"
 - "[[2Tim.4.20]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Tim.4.22]]"
 ---
 
-[[2Tim.4|2 Timothy 4:19 - 2 Timothy 4:22]]
+<small>[[2Tim.4|2 Timothy 4:19-22]]</small>
 *Final Greetings*
 
 [[2Tim.4.19|19]] Salute Prisca and Aquila, and the household of Onesiphorus.

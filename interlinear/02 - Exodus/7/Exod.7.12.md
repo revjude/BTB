@@ -1,8 +1,60 @@
+---
+title: Exodus 7:12
+type: Verse
+kjv: "For they cast down every man his rod, and they became serpents: but Aaron’s rod swallowed up their rods."
+bsb: "Each one threw down his staff, and it became a serpent. But Aaron’s staff swallowed up the other staffs."
+hebrew: "וַיַּשְׁלִ֙יכוּ֙ אִ֣ישׁ מַטֵּ֔הוּ וַיִּהְי֖וּ לְתַנִּינִ֑ם וַיִּבְלַ֥ע מַטֵּֽה־ אַהֲרֹ֖ן אֶת־ מַטֹּתָֽם׃"
+pericope: "[[Exod.7.8 Aaron’s Staff|Aaron’s Staff]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 7
+book/chapter: "[[Exod.7|Exodus 7]]"
+chronological_order: 99
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic MAGICIAN|MAGICIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7993]]"
+- "[[H0376I]]"
+- "[[H4294G]]"
+- "[[H9023]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H8577M]]"
+- "[[H1104]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H0853]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 7:12**<big><big>[[Exod.7.8 Aaron’s Staff|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they cast down every man his rod, and they became serpents: but Aaron’s rod swallowed up their rods.
 <small><sub>**BSB:**</sub></small>
 Each one threw down his staff, and it became a serpent. But Aaron’s staff swallowed up the other staffs.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7993\|יַּשְׁלִ֙יכוּ֙]] [[H0376I\|אִ֣ישׁ]] [[H4294G\|מַטֵּ֔]][[H9023\|הוּ]] [[H9001\|וַ]][[H1961\|יִּהְי֖וּ]] [[H9005\|לְ]][[H8577M\|תַנִּינִ֑ם]] [[H9001\|וַ]][[H1104\|יִּבְלַ֥ע]] [[H4294G\|מַטֵּֽה]][[H9014\|־]] [[H0175\|אַהֲרֹ֖ן]] [[H0853\|אֶת]][[H9014\|־]] [[H4294G\|מַטֹּתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MAGICIAN|MAGICIAN]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.11|<< Exodus 7:11]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.13|Exodus 7:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

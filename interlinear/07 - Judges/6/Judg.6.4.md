@@ -1,8 +1,64 @@
+---
+title: Judges 6:4
+type: Verse
+kjv: "And they encamped against them, and destroyed the increase of the earth, till thou come unto Gaza, and left no sustenance for Israel, neither sheep, nor ox, nor ass."
+bsb: "encamping against them as far as Gaza and destroying the produce of the land. They left Israel with no sustenance, neither sheep nor oxen nor donkeys."
+hebrew: "וַיַּחֲנ֣וּ עֲלֵיהֶ֗ם וַיַּשְׁחִ֙יתוּ֙ אֶת־ יְב֣וּל הָאָ֔רֶץ עַד־ בּוֹאֲךָ֖ עַזָּ֑ה וְלֹֽא־ יַשְׁאִ֤ירוּ מִֽחְיָה֙ בְּיִשְׂרָאֵ֔ל וְשֶׂ֥ה וָשׁ֖וֹר וַחֲמֽוֹר׃"
+pericope: "[[Judg.6.1 Midian Oppresses Israel|Midian Oppresses Israel]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 6
+book/chapter: "[[Judg.6|Judges 6]]"
+chronological_order: 260
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GAZA|GAZA]]"
+strongs:
+- "[[H9001]]"
+- "[[H2583]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H7843]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2981]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H5704]]"
+- "[[H0935I]]"
+- "[[H9041]]"
+- "[[H5804]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7604]]"
+- "[[H4241]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H7716]]"
+- "[[H7794]]"
+- "[[H2543]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 6:4**<big><big>[[Judg.6.1 Midian Oppresses Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they encamped against them, and destroyed the increase of the earth, till thou come unto Gaza, and left no sustenance for Israel, neither sheep, nor ox, nor ass.
 <small><sub>**BSB:**</sub></small>
 encamping against them as far as Gaza and destroying the produce of the land. They left Israel with no sustenance, neither sheep nor oxen nor donkeys.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2583\|יַּחֲנ֣וּ]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֗ם]] [[H9001\|וַ]][[H7843\|יַּשְׁחִ֙יתוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H2981\|יְב֣וּל]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H5704\|עַד]][[H9014\|־]] [[H0935I\|בּוֹאֲ]][[H9041\|ךָ֖]] [[H5804\|עַזָּ֑ה]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7604\|יַשְׁאִ֤ירוּ]] [[H4241\|מִֽחְיָה֙]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וְ]][[H7716\|שֶׂ֥ה]] [[H9002\|וָ]][[H7794\|שׁ֖וֹר]] [[H9002\|וַ]][[H2543\|חֲמֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAZA|GAZA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.3|<< Judges 6:3]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.5|Judges 6:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

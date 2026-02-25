@@ -1,8 +1,79 @@
+---
+title: 1 Samuel 28:8
+type: Verse
+kjv: "And Saul disguised himself, and put on other raiment, and he went, and two men with him, and they came to the woman by night: and he said, I pray thee, divine unto me by the familiar spirit, and bring me him up, whom I shall name unto thee."
+bsb: "So Saul disguised himself by putting on different clothes, and he set out with two of his men. They came to the woman at night, and Saul said, “Consult a spirit for me. Bring up for me the one I name.”"
+hebrew: "וַיִּתְחַפֵּ֣שׂ שָׁא֗וּל וַיִּלְבַּשׁ֙ בְּגָדִ֣ים אֲחֵרִ֔ים וַיֵּ֣לֶךְ ה֗וּא וּשְׁנֵ֤י אֲנָשִׁים֙ עִמּ֔וֹ וַיָּבֹ֥אוּ אֶל־ הָאִשָּׁ֖ה לָ֑יְלָה וַיֹּ֗אמֶר קָֽסֳמִי נָ֥א לִי֙ בָּא֔וֹב וְהַ֣עֲלִי לִ֔י אֵ֥ת אֲשֶׁר־ אֹמַ֖ר אֵלָֽיִךְ׃"
+pericope: "[[1Sam.28.7 Saul and the Medium of Endor|Saul and the Medium of Endor]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 28
+book/chapter: "[[1Sam.28|1 Samuel 28]]"
+chronological_order: 307
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic EN-DOR|EN-DOR]]"
+- "[[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NECROMANCY|NECROMANCY]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic SORCERY|SORCERY]]"
+- "[[topic WITCHCRAFT|WITCHCRAFT]]"
+strongs:
+- "[[H9001]]"
+- "[[H2664]]"
+- "[[H7586G]]"
+- "[[H3847]]"
+- "[[H0899B]]"
+- "[[H0312]]"
+- "[[H1980G]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H0582]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H3915]]"
+- "[[H0559]]"
+- "[[H7080]]"
+- "[[H4994]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H0178]]"
+- "[[H5927H]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **1 Samuel 28:8**<big><big>[[1Sam.28.7 Saul and the Medium of Endor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul disguised himself, and put on other raiment, and he went, and two men with him, and they came to the woman by night: and he said, I pray thee, divine unto me by the familiar spirit, and bring me [him] up, whom I shall name unto thee.
 <small><sub>**BSB:**</sub></small>
 So Saul disguised himself by putting on different clothes, and he set out with two of his men. They came to the woman at night, and Saul said, “Consult a spirit for me. Bring up for me the one I name.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2664\|יִּתְחַפֵּ֣שׂ]] [[H7586G\|שָׁא֗וּל]] [[H9001\|וַ]][[H3847\|יִּלְבַּשׁ֙]] [[H0899B\|בְּגָדִ֣ים]] [[H0312\|אֲחֵרִ֔ים]] [[H9001\|וַ]][[H1980G\|יֵּ֣לֶךְ]] [[H1931\|ה֗וּא]] [[H9002\|וּ]][[H8147\|שְׁנֵ֤י]] [[H0582\|אֲנָשִׁים֙]] [[H5973A\|עִמּ֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H0935G\|יָּבֹ֥אוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֖ה]] [[H3915\|לָ֑יְלָה]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H7080\|קָֽסֳמִי]] [[H4994\|נָ֥א]] [[H9005\|לִ]][[H9030\|י֙]] [[H9003\|בָּ]][[H0178\|א֔וֹב]] [[H9002\|וְ]][[H5927H\|הַ֣עֲלִי]] [[H9005\|לִ֔]][[H9030\|י]] [[H0853\|אֵ֥ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0559\|אֹמַ֖ר]] [[H0413\|אֵלָֽיִ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EN-DOR|EN-DOR]] • [[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]] • [[topic MIRACLES|MIRACLES]] • [[topic NECROMANCY|NECROMANCY]] • [[topic SAMUEL|SAMUEL]] • [[topic SAUL|SAUL]] • [[topic SORCERY|SORCERY]] • [[topic WITCHCRAFT|WITCHCRAFT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.28.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.28.7|<< 1 Samuel 28:7]]</td><td align="center" style="border:none;">[[1Sam.28|1 Samuel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.28.9|1 Samuel 28:9 >>]]</td></tr></table>
 

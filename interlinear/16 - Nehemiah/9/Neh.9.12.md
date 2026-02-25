@@ -1,8 +1,63 @@
+---
+title: Nehemiah 9:12
+type: Verse
+kjv: "Moreover thou leddest them in the day by a cloudy pillar; and in the night by a pillar of fire, to give them light in the way wherein they should go."
+bsb: "You led them with a pillar of cloud by day and a pillar of fire by night, to light for them the way in which they should travel."
+hebrew: "וּבְעַמּ֣וּד עָנָ֔ן הִנְחִיתָ֖ם יוֹמָ֑ם וּבְעַמּ֥וּד אֵשׁ֙ לַ֔יְלָה לְהָאִ֣יר לָהֶ֔ם אֶת־ הַדֶּ֖רֶךְ אֲשֶׁ֥ר יֵֽלְכוּ־ בָֽהּ׃"
+pericope: "[[Neh.9.1 The People Confess Their Sins|The People Confess Their Sins]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 9
+book/chapter: "[[Neh.9|Nehemiah 9]]"
+chronological_order: 921
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SIN|SIN]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H5982G]]"
+- "[[H6051]]"
+- "[[H5148]]"
+- "[[H9038]]"
+- "[[H3119]]"
+- "[[H0784]]"
+- "[[H3915]]"
+- "[[H9005]]"
+- "[[H0215]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1870K]]"
+- "[[H0834A]]"
+- "[[H1980G]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 9:12**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover thou leddest them in the day by a cloudy pillar; and in the night by a pillar of fire, to give them light in the way wherein they should go.
 <small><sub>**BSB:**</sub></small>
 You led them with a pillar of cloud by day and a pillar of fire by night, to light for them the way in which they should travel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H5982G\|עַמּ֣וּד]] [[H6051\|עָנָ֔ן]] [[H5148\|הִנְחִיתָ֖]][[H9038\|ם]] [[H3119\|יוֹמָ֑ם]] [[H9002\|וּ]][[H9003\|בְ]][[H5982G\|עַמּ֥וּד]] [[H0784\|אֵשׁ֙]] [[H3915\|לַ֔יְלָה]] [[H9005\|לְ]][[H0215\|הָאִ֣יר]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1870K\|דֶּ֖רֶךְ]] [[H0834A\|אֲשֶׁ֥ר]] [[H1980G\|יֵֽלְכוּ]][[H9014\|־]] [[H9003\|בָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic GOD|GOD]] • [[topic SIN|SIN]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.11|<< Nehemiah 9:11]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.13|Nehemiah 9:13 >>]]</td></tr></table>
 

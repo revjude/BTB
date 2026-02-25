@@ -1,8 +1,74 @@
+---
+title: 2 Kings 8:6
+type: Verse
+kjv: "And when the king asked the woman, she told him. So the king appointed unto her a certain officer, saying, Restore all that was hers, and all the fruits of the field since the day that she left the land, even until now."
+bsb: "When the king asked the woman, she confirmed it. So the king appointed for her an officer, saying, “Restore all that was hers, along with all the proceeds of the field from the day that she left the country until now.”"
+hebrew: "וַיִּשְׁאַ֥ל הַמֶּ֛לֶךְ לָאִשָּׁ֖ה וַתְּסַפֶּר־ ל֑וֹ וַיִּתֶּן־ לָ֣הּ הַמֶּלֶךְ֩ סָרִ֨יס אֶחָ֜ד לֵאמֹ֗ר הָשֵׁ֤יב אֶת־ כָּל־ אֲשֶׁר־ לָהּ֙ וְאֵת֙ כָּל־ תְּבוּאֹ֣ת הַשָּׂדֶ֔ה מִיּ֛וֹם עָזְבָ֥ה אֶת־ הָאָ֖רֶץ וְעַד־ עָֽתָּה׃ פ"
+pericope: "[[2Kgs.8.1 The Shunammite’s Land Restored|The Shunammite’s Land Restored]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 8
+book/chapter: "[[2Kgs.8|2 Kings 8]]"
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic KING|KING]]"
+- "[[topic LAND|LAND]]"
+- "[[topic PETITION|PETITION]]"
+- "[[topic PROPERTY|PROPERTY]]"
+strongs:
+- "[[H9001]]"
+- "[[H7592]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H0802G]]"
+- "[[H5608A]]"
+- "[[H9014]]"
+- "[[H9033]]"
+- "[[H5414H]]"
+- "[[H9034]]"
+- "[[H5631]]"
+- "[[H0259]]"
+- "[[H0559]]"
+- "[[H7725H]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9002]]"
+- "[[H8393]]"
+- "[[H7704G]]"
+- "[[H9006]]"
+- "[[H3117G]]"
+- "[[H5800A]]"
+- "[[H0776G]]"
+- "[[H5704]]"
+- "[[H6258]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Kings 8:6**<big><big>[[2Kgs.8.1 The Shunammite’s Land Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the king asked the woman, she told him. So the king appointed unto her a certain officer, saying, Restore all that [was] hers, and all the fruits of the field since the day that she left the land, even until now.
 <small><sub>**BSB:**</sub></small>
 When the king asked the woman, she confirmed it. So the king appointed for her an officer, saying, “Restore all that was hers, along with all the proceeds of the field from the day that she left the country until now.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7592\|יִּשְׁאַ֥ל]] [[H9009\|הַ]][[H4428G\|מֶּ֛לֶךְ]] [[H9005\|לָ]][[H0802G\|אִשָּׁ֖ה]] [[H9001\|וַ]][[H5608A\|תְּסַפֶּר]][[H9014\|־]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H5414H\|יִּתֶּן]][[H9014\|־]] [[H9005\|לָ֣]][[H9034\|הּ]] [[H9009\|הַ]][[H4428G\|מֶּלֶךְ֩]] [[H5631\|סָרִ֨יס]] [[H0259\|אֶחָ֜ד]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H7725H\|הָשֵׁ֤יב]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|לָ]][[H9034\|הּ֙]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H3605\|כָּל]][[H9014\|־]] [[H8393\|תְּבוּאֹ֣ת]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֔ה]] [[H9006\|מִ]][[H3117G\|יּ֛וֹם]] [[H5800A\|עָזְבָ֥ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H6258\|עָֽתָּה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELISHA|ELISHA]] • [[topic JUDGE|JUDGE]] • [[topic KING|KING]] • [[topic LAND|LAND]] • [[topic PETITION|PETITION]] • [[topic PROPERTY|PROPERTY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.5|<< 2 Kings 8:5]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.7|2 Kings 8:7 >>]]</td></tr></table>
 
@@ -33,7 +99,7 @@ When the king asked the woman, she confirmed it. So the king appointed for her a
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֖רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and until  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| now  |**<big>&#8207;[[H6258\|עָֽתָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'A.tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| now  |**<big>&#8207;[[H6258\|עָֽתָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'A.tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.5|<< 2 Kings 8:5]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.7|2 Kings 8:7 >>]]</td></tr></table>
 
 

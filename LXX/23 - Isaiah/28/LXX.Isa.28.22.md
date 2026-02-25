@@ -1,6 +1,67 @@
+---
+title: LXX Isaiah 28:22
+type: Verse
+lxx: "And you, may you not be glad, nor the bonds strengthen in you; because I heard the things being completed and being rendered concise by the lord of Host, which he will do upon all the earth."
+greek: "και υμείς μη ευφρανθείητε μηδέ ισχυσάτωσαν υμίν οι δεσμοί διότι συντετελεσμένα και συντετμημένα πράγματα ήκουσα παρά κυρίου σαβαώθ α ποιήσει επί πάσαν την γην"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 28
+book/chapter: "[[Isa.28|Isaiah 28]]"
+chronological_order: 671
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MOCKING|MOCKING]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G3361]]"
+- "[[G2165]]"
+- "[[G3366]]"
+- "[[G2480]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G1199]]"
+- "[[G1360]]"
+- "[[G4931]]"
+- "[[G2532]]"
+- "[[G4932]]"
+- "[[G4229]]"
+- "[[G0191]]"
+- "[[G3844]]"
+- "[[G2962]]"
+- "[[G4519]]"
+- "[[G3739]]"
+- "[[G4160]]"
+- "[[G1909]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1093]]"
+---
+
 **LXX Isaiah 28:22** 
 <small><sub>**LXX:**</sub></small>
 And you, may you not be glad, nor the bonds strengthen in you; because I heard \[the\] things being completed and being rendered concise by \[the\] <span class="smallcaps">lord</span> of Host, which he will do upon all the earth. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1473\|υμείς]] [[G3361\|μη]] [[G2165\|ευφρανθείητε]] [[G3366\|μηδέ]] [[G2480\|ισχυσάτωσαν]] [[G1473\|υμίν]] [[G3588\|οι]] [[G1199\|δεσμοί]] [[G1360\|διότι]] [[G4931\|συντετελεσμένα]] [[G2532\|και]] [[G4932\|συντετμημένα]] [[G4229\|πράγματα]] [[G0191\|ήκουσα]] [[G3844\|παρά]] [[G2962\|κυρίου]] [[G4519\|σαβαώθ]] [[G3739\|α]] [[G4160\|ποιήσει]] [[G1909\|επί]] [[G3956\|πάσαν]] [[G3588\|την]] [[G1093\|γην]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFIDELITY|INFIDELITY]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MOCKING|MOCKING]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic PROPHECY|PROPHECY]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.28.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.21|<< Isaiah 28:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.23|Isaiah 28:23 >>]]</td></tr></table>
 
@@ -30,6 +91,6 @@ And you, may you not be glad, nor the bonds strengthen in you; because I heard \
 | all | **<big>[[G3956\|πάσαν]]</big>** |
 | the | **<big>[[G3588\|την]]</big>** |
 | earth. | **<big>[[G1093\|γην]]</big>** |
-[[Isa.28.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.21|<< Isaiah 28:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.23|Isaiah 28:23 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.21|<< Isaiah 28:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.23|Isaiah 28:23 >>]]</td></tr></table>
 
 

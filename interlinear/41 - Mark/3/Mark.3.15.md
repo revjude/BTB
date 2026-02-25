@@ -1,10 +1,52 @@
+---
+title: Mark 3:15
+type: Verse
+kjv: "And to have power to heal sicknesses, and to cast out devils:"
+bsb: "and to have authority to drive out demons."
+greek: "καὶ ἔχειν ἐξουσίαν θεραπεύειν τὰς νόσους καὶ ἐκβάλλειν τὰ δαιμόνια."
+pericope: "[[Mark.3.13 The Twelve Apostles|The Twelve Apostles]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 3
+book/chapter: "[[Mark.3|Mark 3]]"
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CALL|CALL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2192]]"
+- "[[G1849]]"
+- "[[G2323]]"
+- "[[G3588]]"
+- "[[G3554]]"
+- "[[G1544]]"
+- "[[G1140]]"
+texts:
+- NKO
+- K
+---
+
 **Mark 3:15**<big><big>[[Mark.3.13 The Twelve Apostles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And to have power to heal sicknesses, and to cast out devils:
 <small><sub>**BSB:**</sub></small>
 and to have authority to drive out demons.
-<small><sub>**Literal:**</sub></small>
-and to have authority to heal <the> diseases and to cast out <the> demons.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.14|<< Mark 3:14]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.16|Mark 3:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2192\|ἔχειν]]  [[G1849\|ἐξουσίαν]]  [[G2323\|θεραπεύειν]]  [[G3588\|τὰς]]  [[G3554\|νόσους]]  [[G2532\|καὶ]]  [[G1544\|ἐκβάλλειν]]  [[G3588\|τὰ]]  [[G1140\|δαιμόνια.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CALL|CALL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.14|<< Mark 3:14]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.16|Mark 3:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

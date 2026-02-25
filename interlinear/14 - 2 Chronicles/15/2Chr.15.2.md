@@ -1,8 +1,73 @@
+---
+title: 2 Chronicles 15:2
+type: Verse
+kjv: "And he went out to meet Asa, and said unto him, Hear ye me, Asa, and all Judah and Benjamin; The LORD is with you, while ye be with him; and if ye seek him, he will be found of you; but if ye forsake him, he will forsake you."
+bsb: "So he went out to meet Asa and said to him, “Listen to me, Asa and all Judah and Benjamin. The LORD is with you when you are with Him. If you seek Him, He will be found by you, but if you forsake Him, He will forsake you."
+hebrew: "וַיֵּצֵא֮ לִפְנֵ֣י אָסָא֒ וַיֹּ֣אמֶר ל֔וֹ שְׁמָע֕וּנִי אָסָ֖א וְכָל־ יְהוּדָ֣ה וּבִנְיָמִ֑ן יְהוָ֤ה עִמָּכֶם֙ בִּֽהְיֽוֹתְכֶ֣ם עִמּ֔וֹ וְאִֽם־ תִּדְרְשֻׁ֙הוּ֙ יִמָּצֵ֣א לָכֶ֔ם וְאִם־ תַּעַזְבֻ֖הוּ יַעֲזֹ֥ב אֶתְכֶֽם׃ ס"
+pericope: "[[2Chr.15.1 The Prophecy of Azariah|The Prophecy of Azariah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 15
+book/chapter: "[[2Chr.15|2 Chronicles 15]]"
+chronological_order: 561
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0609G]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H8085G]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H1144G]]"
+- "[[H3068G]]"
+- "[[H5973A]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H1961]]"
+- "[[H9046]]"
+- "[[H0518A]]"
+- "[[H1875]]"
+- "[[H4672]]"
+- "[[H5800A]]"
+- "[[H0853]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Chronicles 15:2**<big><big>[[2Chr.15.1 The Prophecy of Azariah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he went out to meet Asa, and said unto him, Hear ye me, Asa, and all Judah and Benjamin; The LORD [is] with you, while ye be with him; and if ye seek him, he will be found of you; but if ye forsake him, he will forsake you.
 <small><sub>**BSB:**</sub></small>
 So he went out to meet Asa and said to him, “Listen to me, Asa and all Judah and Benjamin. The LORD is with you when you are with Him. If you seek Him, He will be found by you, but if you forsake Him, He will forsake you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵא֮]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H0609G\|אָסָא֒]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H8085G\|שְׁמָע֕וּ]][[H9030\|נִי]] [[H0609G\|אָסָ֖א]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3063G\|יְהוּדָ֣ה]] [[H9002\|וּ]][[H1144G\|בִנְיָמִ֑ן]] [[H3068G\|יְהוָ֤ה]] [[H5973A\|עִמָּ]][[H9036\|כֶם֙]] [[H9003\|בִּֽ]][[H1961\|הְיֽוֹתְ]][[H9046\|כֶ֣ם]] [[H5973A\|עִמּ֔]][[H9033\|וֹ]] [[H9002\|וְ]][[H0518A\|אִֽם]][[H9014\|־]] [[H1875\|תִּדְרְשֻׁ֙]][[H9033\|הוּ֙]] [[H4672\|יִמָּצֵ֣א]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H5800A\|תַּעַזְבֻ֖]][[H9033\|הוּ]] [[H5800A\|יַעֲזֹ֥ב]] [[H0853\|אֶתְ]][[H9036\|כֶֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic COURAGE|COURAGE]] • [[topic GOD|GOD]] • [[topic REPROOF|REPROOF]] • [[topic REVIVALS|REVIVALS]] • [[topic SEEKERS|SEEKERS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.15.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.15.1|<< 2 Chronicles 15:1]]</td><td align="center" style="border:none;">[[2Chr.15|2 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.15.3|2 Chronicles 15:3 >>]]</td></tr></table>
 
@@ -29,7 +94,7 @@ So he went out to meet Asa and said to him, “Listen to me, Asa and all Judah a
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will forsake him  |**<big>&#8207;[[H5800A\|תַּעַזְבֻ֖]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| ta.'az.Vu.<small><sup>[[HVqi2mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will forsake  |**<big>&#8207;[[H5800A\|יַעֲזֹ֥ב]]&#8207; </big>**| ya.'a.Zo<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> you  |**<big>&#8207;[[H0853\|אֶתְ]]&#8207;&#8207;[[H9036\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> you  |**<big>&#8207;[[H0853\|אֶתְ]]&#8207;&#8207;[[H9036\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.15.1|<< 2 Chronicles 15:1]]</td><td align="center" style="border:none;">[[2Chr.15|2 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.15.3|2 Chronicles 15:3 >>]]</td></tr></table>
 
 

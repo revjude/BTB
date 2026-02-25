@@ -1,8 +1,61 @@
+---
+title: 2 Samuel 13:31
+type: Verse
+kjv: "Then the king arose, and tare his garments, and lay on the earth; and all his servants stood by with their clothes rent."
+bsb: "Then the king stood up, tore his clothes, and lay down on the ground. And all his servants stood by with their clothes torn."
+hebrew: "וַיָּ֧קָם הַמֶּ֛לֶךְ וַיִּקְרַ֥ע אֶת־ בְּגָדָ֖יו וַיִּשְׁכַּ֣ב אָ֑רְצָה וְכָל־ עֲבָדָ֥יו נִצָּבִ֖ים קְרֻעֵ֥י בְגָדִֽים׃ ס"
+pericope: "[[2Sam.13.23 Absalom’s Revenge on Amnon|Absalom’s Revenge on Amnon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic RENDING|RENDING]]"
+- "[[topic TAMAR|TAMAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H7167]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H7901G]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H5650]]"
+- "[[H5324]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Samuel 13:31**<big><big>[[2Sam.13.23 Absalom’s Revenge on Amnon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king arose, and tare his garments, and lay on the earth; and all his servants stood by with their clothes rent.
 <small><sub>**BSB:**</sub></small>
 Then the king stood up, tore his clothes, and lay down on the ground. And all his servants stood by with their clothes torn.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּ֧קָם]] [[H9009\|הַ]][[H4428G\|מֶּ֛לֶךְ]] [[H9001\|וַ]][[H7167\|יִּקְרַ֥ע]] [[H0853\|אֶת]][[H9014\|־]] [[H0899B\|בְּגָדָ֖י]][[H9023\|ו]] [[H9001\|וַ]][[H7901G\|יִּשְׁכַּ֣ב]] [[H0776H\|אָ֑רְצָ]][[H9011\|ה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5650\|עֲבָדָ֥י]][[H9023\|ו]] [[H5324\|נִצָּבִ֖ים]] [[H7167\|קְרֻעֵ֥י]] [[H0899B\|בְגָדִֽים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOURNING|MOURNING]] • [[topic RENDING|RENDING]] • [[topic TAMAR|TAMAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.30|<< 2 Samuel 13:30]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.32|2 Samuel 13:32 >>]]</td></tr></table>
 
@@ -19,7 +72,7 @@ Then the king stood up, tore his clothes, and lay down on the ground. And all hi
 | servants his  |**<big>&#8207;[[H5650\|עֲבָדָ֥י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'a.va.Da<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] standing  |**<big>&#8207;[[H5324\|נִצָּבִ֖ים]]&#8207; </big>**| ni.tza.Vim<small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | torn of  |**<big>&#8207;[[H7167\|קְרֻעֵ֥י]]&#8207; </big>**| ke.ru.'Ei<small><sup>[[HVqsmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| garments  |**<big>&#8207;[[H0899B\|בְגָדִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.ga.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| garments  |**<big>&#8207;[[H0899B\|בְגָדִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.ga.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.30|<< 2 Samuel 13:30]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.32|2 Samuel 13:32 >>]]</td></tr></table>
 
 

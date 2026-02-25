@@ -1,8 +1,57 @@
+---
+title: Ezekiel 39:12
+type: Verse
+kjv: "And seven months shall the house of Israel be burying of them, that they may cleanse the land."
+bsb: "For seven months the house of Israel will be burying them in order to cleanse the land."
+hebrew: "וּקְבָרוּם֙ בֵּ֣ית יִשְׂרָאֵ֔ל לְמַ֖עַן טַהֵ֣ר אֶת־ הָאָ֑רֶץ שִׁבְעָ֖ה חֳדָשִֽׁים׃"
+pericope: "[[Ezek.39.1 The Slaughter of Gog’s Armies|The Slaughter of Gog’s Armies]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 39
+book/chapter: "[[Ezek.39|Ezekiel 39]]"
+chronological_order: 830
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BURIAL|BURIAL]]"
+strongs:
+- "[[H9001]]"
+- "[[H6912]]"
+- "[[H9038]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H4616]]"
+- "[[H2891]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H7651]]"
+- "[[H2320G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 39:12**<big><big>[[Ezek.39.1 The Slaughter of Gog’s Armies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And seven months shall the house of Israel be burying of them, that they may cleanse the land.
 <small><sub>**BSB:**</sub></small>
 For seven months the house of Israel will be burying them in order to cleanse the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H6912\|קְבָרוּ]][[H9038\|ם֙]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H4616\|לְמַ֖עַן]] [[H2891\|טַהֵ֣ר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H7651\|שִׁבְעָ֖ה]] [[H2320G\|חֳדָשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURIAL|BURIAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.11|<< Ezekiel 39:11]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.13|Ezekiel 39:13 >>]]</td></tr></table>
 

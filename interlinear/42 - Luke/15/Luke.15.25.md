@@ -1,10 +1,70 @@
+---
+title: Luke 15:25
+type: Verse
+kjv: "Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing."
+bsb: "Meanwhile the older son was in the field, and as he approached the house, he heard music and dancing."
+jesus_said: "Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing."
+greek: "Ἦν δὲ ὁ υἱὸς αὐτοῦ ὁ πρεσβύτερος ἐν ἀγρῷ. καὶ ὡς ἐρχόμενος ἤγγισεν τῇ οἰκίᾳ, ἤκουσεν συμφωνίας καὶ χορῶν."
+pericope: "[[Luke.15.11 The Parable of the Prodigal Son|The Parable of the Prodigal Son]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 15
+book/chapter: "[[Luke.15|Luke 15]]"
+chronological_order: 977
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DANCING|DANCING]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRODIGAL SON|PRODIGAL SON]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0846]]"
+- "[[G4245H]]"
+- "[[G1722]]"
+- "[[G0068G]]"
+- "[[G2532]]"
+- "[[G5613]]"
+- "[[G2064]]"
+- "[[G1448]]"
+- "[[G3614G]]"
+- "[[G0191]]"
+- "[[G4858]]"
+- "[[G5525]]"
+texts:
+- NKO
+---
+
 **Luke 15:25**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing.
 <small><sub>**BSB:**</sub></small>
 Meanwhile the older son was in the field, and as he approached the house, he heard music and dancing.
-<small><sub>**Literal:**</sub></small>
-Was now the son of him the elder in [the] field. and while coming [up] he drew near to the house, he heard music and dancing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.24|<< Luke 15:24]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.26|Luke 15:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|Ἦν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G0846\|αὐτοῦ]]  [[G3588\|ὁ]]  [[G4245H\|πρεσβύτερος]]  [[G1722\|ἐν]]  [[G0068G\|ἀγρῷ.]]  [[G2532\|καὶ]]  [[G5613\|ὡς]]  [[G2064\|ἐρχόμενος]]  [[G1448\|ἤγγισεν]]  [[G3588\|τῇ]]  [[G3614G\|οἰκίᾳ,]]  [[G0191\|ἤκουσεν]]  [[G4858\|συμφωνίας]]  [[G2532\|καὶ]]  [[G5525\|χορῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DANCING|DANCING]] • [[topic FEASTS|FEASTS]] • [[topic GOD|GOD]] • [[topic INHERITANCE|INHERITANCE]] • [[topic JEALOUSY|JEALOUSY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic PENITENT|PENITENT]] • [[topic PRODIGAL SON|PRODIGAL SON]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SALVATION|SALVATION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.24|<< Luke 15:24]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.26|Luke 15:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

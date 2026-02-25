@@ -1,8 +1,75 @@
+---
+title: 2 Kings 4:29
+type: Verse
+kjv: "Then he said to Gehazi, Gird up thy loins, and take my staff in thine hand, and go thy way: if thou meet any man, salute him not; and if any salute thee, answer him not again: and lay my staff upon the face of the child."
+bsb: "So Elisha said to Gehazi, “Tie up your garment, take my staff in your hand, and go! If you meet anyone, do not greet him, and if anyone greets you, do not answer him. Then lay my staff on the boy’s face.”"
+hebrew: "וַיֹּ֨אמֶר לְגֵיחֲזִ֜י חֲגֹ֣ר מָתְנֶ֗יךָ וְקַ֨ח מִשְׁעַנְתִּ֣י בְיָדְךָ֮ וָלֵךְ֒ כִּֽי־ תִמְצָ֥א אִישׁ֙ לֹ֣א תְבָרְכֶ֔נּוּ וְכִֽי־ יְבָרֶכְךָ֥ אִ֖ישׁ לֹ֣א תַעֲנֶנּ֑וּ וְשַׂמְתָּ֥ מִשְׁעַנְתִּ֖י עַל־ פְּנֵ֥י הַנָּֽעַר׃"
+pericope: "[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|Elisha Raises the Shunammite’s Son]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic GEHAZI|GEHAZI]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SHUNAMMITE|SHUNAMMITE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H1522]]"
+- "[[H2296]]"
+- "[[H4975]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3947G]]"
+- "[[H4938B]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H1980G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4672]]"
+- "[[H0376I]]"
+- "[[H3808]]"
+- "[[H1288]]"
+- "[[H9033]]"
+- "[[H9031]]"
+- "[[H6030B]]"
+- "[[H7760H]]"
+- "[[H5921A]]"
+- "[[H6440H]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 4:29**<big><big>[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he said to Gehazi, Gird up thy loins, and take my staff in thine hand, and go thy way: if thou meet any man, salute him not; and if any salute thee, answer him not again: and lay my staff upon the face of the child.
 <small><sub>**BSB:**</sub></small>
 So Elisha said to Gehazi, “Tie up your garment, take my staff in your hand, and go! If you meet anyone, do not greet him, and if anyone greets you, do not answer him. Then lay my staff on the boy’s face.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H9005\|לְ]][[H1522\|גֵיחֲזִ֜י]] [[H2296\|חֲגֹ֣ר]] [[H4975\|מָתְנֶ֗י]][[H9021\|ךָ]] [[H9002\|וְ]][[H3947G\|קַ֨ח]] [[H4938B\|מִשְׁעַנְתִּ֣]][[H9020\|י]] [[H9003\|בְ]][[H3027G\|יָדְ]][[H9021\|ךָ֮]] [[H9002\|וָ]][[H1980G\|לֵךְ֒]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4672\|תִמְצָ֥א]] [[H0376I\|אִישׁ֙]] [[H3808\|לֹ֣א]] [[H1288\|תְבָרְכֶ֔]][[H9033\|נּוּ]] [[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H1288\|יְבָרֶכְ]][[H9031\|ךָ֥]] [[H0376I\|אִ֖ישׁ]] [[H3808\|לֹ֣א]] [[H6030B\|תַעֲנֶ]][[H9033\|נּ֑וּ]] [[H9001\|וְ]][[H7760H\|שַׂמְתָּ֥]] [[H4938B\|מִשְׁעַנְתִּ֖]][[H9020\|י]] [[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פְּנֵ֥י]] [[H9009\|הַ]][[H5288\|נָּֽעַר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHILDREN|CHILDREN]] • [[topic ELISHA|ELISHA]] • [[topic GEHAZI|GEHAZI]] • [[topic MIRACLES|MIRACLES]] • [[topic SHUNAMMITE|SHUNAMMITE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.28|<< 2 Kings 4:28]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.30|2 Kings 4:30 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

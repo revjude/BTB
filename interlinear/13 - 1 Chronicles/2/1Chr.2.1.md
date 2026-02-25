@@ -1,8 +1,55 @@
+---
+title: 1 Chronicles 2:1
+type: Verse
+kjv: "These are the sons of Israel; Reuben, Simeon, Levi, and Judah, Issachar, and Zebulun,"
+bsb: "These were the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun,"
+hebrew: "אֵ֖לֶּה בְּנֵ֣י יִשְׂרָאֵ֑ל רְאוּבֵ֤ן שִׁמְעוֹן֙ לֵוִ֣י וִיהוּדָ֔ה יִשָׂשכָ֖ר וּזְבֻלֽוּן׃"
+pericope: "[[1Chr.2.1 The Sons of Israel|The Sons of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 2
+book/chapter: "[[1Chr.2|1 Chronicles 2]]"
+chronological_order: 321
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ISSACHAR|ISSACHAR]]"
+- "[[topic LEVI|LEVI]]"
+- "[[topic REUBEN|REUBEN]]"
+- "[[topic SIMEON|SIMEON]]"
+- "[[topic ZEBULUN|ZEBULUN]]"
+strongs:
+- "[[H0428]]"
+- "[[H1121A]]"
+- "[[H3478]]"
+- "[[H7205]]"
+- "[[H8095G]]"
+- "[[H3878]]"
+- "[[H9002]]"
+- "[[H3063G]]"
+- "[[H3485G]]"
+- "[[H2074]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 2:1**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the sons of Israel; Reuben, Simeon, Levi, and Judah, Issachar, and Zebulun,
 <small><sub>**BSB:**</sub></small>
 These were the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun,
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֖לֶּה]] [[H1121A\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H7205\|רְאוּבֵ֤ן]] [[H8095G\|שִׁמְעוֹן֙]] [[H3878\|לֵוִ֣י]] [[H9002\|וִ]][[H3063G\|יהוּדָ֔ה]] [[H3485G\|יִשָׂשכָ֖ר]] [[H9002\|וּ]][[H2074\|זְבֻלֽוּן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISSACHAR|ISSACHAR]] • [[topic LEVI|LEVI]] • [[topic REUBEN|REUBEN]] • [[topic SIMEON|SIMEON]] • [[topic ZEBULUN|ZEBULUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.54|<< 1 Chronicles 1:54]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.2|1 Chronicles 2:2 >>]]</td></tr></table>
 

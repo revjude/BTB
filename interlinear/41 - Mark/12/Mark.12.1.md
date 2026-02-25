@@ -1,10 +1,75 @@
+---
+title: Mark 12:1
+type: Verse
+kjv: "And he began to speak unto them by parables. A certain man planted a vineyard, and set an hedge about it, and digged a place for the winefat, and built a tower, and let it out to husbandmen, and went into a far country."
+bsb: "Then Jesus began to speak to them in parables: “A man planted a vineyard. He put a wall around it, dug a wine vat, and built a watchtower. Then he rented it out to some tenants and went away on a journey."
+jesus_said: "A certain man planted a vineyard, and set an hedge about it, and digged a place for the winefat, and built a tower, and let it out to husbandmen, and went into a far country."
+greek: "Καὶ ἤρξατο αὐτοῖς ἐν παραβολαῖς λαλεῖν· ἀμπελῶνα ἄνθρωπος ἐφύτευσεν καὶ περιέθηκεν φραγμὸν καὶ ὤρυξεν ὑπολήνιον καὶ ᾠκοδόμησεν πύργον καὶ ἐξέδετο αὐτὸν γεωργοῖς καὶ ἀπεδήμησεν"
+pericope: "[[Mark.12.1 The Parable of the Wicked Tenants|The Parable of the Wicked Tenants]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 12
+book/chapter: "[[Mark.12|Mark 12]]"
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPITAL AND LABOR|CAPITAL AND LABOR]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FORT|FORT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEDGE|HEDGE]]"
+- "[[topic HUSBANDMAN|HUSBANDMAN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEASE|LEASE]]"
+- "[[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SELF-CONDEMNATION|SELF-CONDEMNATION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic VINEYARD|VINEYARD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WINE PRESS|WINE PRESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G0757]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3850]]"
+- "[[G2980]]"
+- "[[G0290]]"
+- "[[G0444]]"
+- "[[G5452]]"
+- "[[G4060]]"
+- "[[G5418]]"
+- "[[G3736]]"
+- "[[G5276]]"
+- "[[G3618]]"
+- "[[G4444]]"
+- "[[G1554]]"
+- "[[G1092]]"
+- "[[G0589]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 12:1**<big><big>[[Mark.12.1 The Parable of the Wicked Tenants|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he began to speak unto them by parables. A [certain] man planted a vineyard, and set an hedge about [it], and digged [a place for] the winefat, and built a tower, and let it out to husbandmen, and went into a far country.
 <small><sub>**BSB:**</sub></small>
 Then Jesus began to speak to them in parables: “A man planted a vineyard. He put a wall around it, dug a wine vat, and built a watchtower. Then he rented it out to some tenants and went away on a journey.
-<small><sub>**Literal:**</sub></small>
-And He began to them in parables to speak: A vineyard a man planted and he placed around [it] a fence and dug a wine vat and built a tower and rented out it to farmers and traveled abroad<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.33|<< Mark 11:33]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.2|Mark 12:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0757\|ἤρξατο]]  [[G0846\|αὐτοῖς]]  [[G1722\|ἐν]]  [[G3850\|παραβολαῖς]]  [[G2980\|λαλεῖν·]]  [[G0290\|ἀμπελῶνα]]  [[G0444\|ἄνθρωπος]]  [[G5452\|ἐφύτευσεν]]  [[G2532\|καὶ]]  [[G4060\|περιέθηκεν]]  [[G5418\|φραγμὸν]]  [[G2532\|καὶ]]  [[G3736\|ὤρυξεν]]  [[G5276\|ὑπολήνιον]]  [[G2532\|καὶ]]  [[G3618\|ᾠκοδόμησεν]]  [[G4444\|πύργον]]  [[G2532\|καὶ]]  [[G1554\|ἐξέδετο]]  [[G0846\|αὐτὸν]]  [[G1092\|γεωργοῖς]]  [[G2532\|καὶ]]  [[G0589\|ἀπεδήμησεν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPITAL AND LABOR|CAPITAL AND LABOR]] • [[topic CHURCH|CHURCH]] • [[topic FORT|FORT]] • [[topic GOD|GOD]] • [[topic HEDGE|HEDGE]] • [[topic HUSBANDMAN|HUSBANDMAN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEASE|LEASE]] • [[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]] • [[topic REPROOF|REPROOF]] • [[topic SELF-CONDEMNATION|SELF-CONDEMNATION]] • [[topic SERVANT|SERVANT]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic VINEYARD|VINEYARD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WINE PRESS|WINE PRESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.33|<< Mark 11:33]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.2|Mark 12:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 12:1** is...
 > $\quad$ alluding to: [[LXX.Isa.5.1|Isa 5:1]] ☩ [[LXX.Isa.5.2|Isa 5:2]]

@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Heals the Multitudes
+type: Pericope
 pericope: "[[Matt.4.23 Jesus Heals the Multitudes|Jesus Heals the Multitudes]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 4
 book/chapter: "[[Matt.4|Matthew 4]]"
-genre:
+chronological_order: 936
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 3
 verses:
 - "[[Matt.4.23]]"
 - "[[Matt.4.24]]"
 - "[[Matt.4.25]]"
 ---
 
-[[Matt.4|Matthew 4:23 - Matthew 4:25]]
+<small>[[Matt.4|Matthew 4:23-25]]</small>
 *Jesus Heals the Multitudes*
 
 [[Matt.4.23|23]] And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people.

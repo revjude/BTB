@@ -1,10 +1,60 @@
+---
+title: Acts 7:3
+type: Verse
+kjv: "And said unto him, Get thee out of thy country, and from thy kindred, and come into the land which I shall shew thee."
+bsb: "and told him, ‘Leave your country and your kindred and go to the land I will show you.’"
+greek: "καὶ εἶπεν πρὸς αὐτόν· ἔξελθε ἐκ τῆς γῆς σου καὶ ἐκ τῆς συγγενείας σου καὶ δεῦρο εἰς τὴν γῆν ἣν ἄν σοι δείξω.¶"
+pericope: "[[Acts.7.1 Stephen’s Address：The Call of Abraham|Stephen’s Address：The Call of Abraham]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G1831]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G1093H]]"
+- "[[G4771]]"
+- "[[G4772]]"
+- "[[G1204]]"
+- "[[G1519]]"
+- "[[G3739]]"
+- "[[G0302]]"
+- "[[G1166]]"
+texts:
+- NKO
+- no
+---
+
 **Acts 7:3**<big><big>[[Acts.7.1 Stephen’s Address：The Call of Abraham|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And said unto him, Get thee out of thy country, and from thy kindred, and come into the land which I shall shew thee.
 <small><sub>**BSB:**</sub></small>
 and told him, ‘Leave your country and your kindred and go to the land I will show you.’
-<small><sub>**Literal:**</sub></small>
-and He said to him; do go out from the country of you and from the kindred of you and come into the land which then to you I may show.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.2|<< Acts 7:2]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.4|Acts 7:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν·]]  [[G1831\|ἔξελθε]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G1093H\|γῆς]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G4772\|συγγενείας]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G1204\|δεῦρο]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1093H\|γῆν]]  [[G3739\|ἣν]]  [[G0302\|ἄν]]  [[G4771\|σοι]]  [[G1166\|δείξω.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.2|<< Acts 7:2]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.4|Acts 7:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 7:3** is...
 > $\quad$ referencing: [[LXX.Gen.12.1|Gen 12:1]]

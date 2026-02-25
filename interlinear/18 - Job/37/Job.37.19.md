@@ -1,8 +1,57 @@
+---
+title: Job 37:19
+type: Verse
+kjv: "Teach us what we shall say unto him; for we cannot order our speech by reason of darkness."
+bsb: "Teach us what we should say to Him; we cannot draw up our case because of our darkness."
+hebrew: "ה֭וֹדִיעֵנוּ מַה־ נֹּ֣אמַר ל֑וֹ לֹ֥א־ נַ֝עֲרֹ֗ךְ מִפְּנֵי־ חֹֽשֶׁךְ׃"
+pericope: "[[Job.37.1 Elihu Proclaims God’s Majesty|Elihu Proclaims God’s Majesty]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 37
+book/chapter: "[[Job.37|Job 37]]"
+chronological_order: 48
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H3045]]"
+- "[[H9035]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H6186A]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H2822]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 37:19**<big><big>[[Job.37.1 Elihu Proclaims God’s Majesty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Teach us what we shall say unto him; [for] we cannot order [our speech] by reason of darkness.
 <small><sub>**BSB:**</sub></small>
 Teach us what we should say to Him; we cannot draw up our case because of our darkness.
+<small><sub>**Hebrew:**</sub></small>
+[[H3045\|ה֭וֹדִיעֵ]][[H9035\|נוּ]] [[H4100\|מַה]][[H9014\|־]] [[H0559\|נֹּ֣אמַר]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H3808\|לֹ֥א]][[H9014\|־]] [[H6186A\|נַ֝עֲרֹ֗ךְ]] [[H9006\|מִ]][[H6440I\|פְּנֵי]][[H9014\|־]] [[H2822\|חֹֽשֶׁךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic IGNORANCE|IGNORANCE]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.37.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.18|<< Job 37:18]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.20|Job 37:20 >>]]</td></tr></table>
 

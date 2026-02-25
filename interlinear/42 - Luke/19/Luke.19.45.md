@@ -1,10 +1,57 @@
+---
+title: Luke 19:45
+type: Verse
+kjv: "And he went into the temple, and began to cast out them that sold therein, and them that bought;"
+bsb: "Then Jesus entered the temple courts and began to drive out those who were selling there."
+greek: "Καὶ εἰσελθὼν εἰς τὸ ἱερὸν ἤρξατο ἐκβάλλειν τοὺς πωλοῦντας ἐν αὐτῷ καὶ ἀγοράζοντας"
+pericope: "[[Luke.19.45 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SACRILEGE|SACRILEGE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[G2532]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2411]]"
+- "[[G0757]]"
+- "[[G1544]]"
+- "[[G4453]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G0059]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 19:45**<big><big>[[Luke.19.45 Jesus Cleanses the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he went into the temple, and began to cast out them that sold therein, and them that bought;
 <small><sub>**BSB:**</sub></small>
 Then Jesus entered the temple courts and began to drive out those who were selling there.
-<small><sub>**Literal:**</sub></small>
-And having entered into the temple He began to cast out those selling in to it and buying<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.44|<< Luke 19:44]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.46|Luke 19:46 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1525\|εἰσελθὼν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2411\|ἱερὸν]]  [[G0757\|ἤρξατο]]  [[G1544\|ἐκβάλλειν]]  [[G3588\|τοὺς]]  [[G4453\|πωλοῦντας]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ]]  [[G2532\|καὶ]]  [[G0059\|ἀγοράζοντας]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SACRILEGE|SACRILEGE]] • [[topic TEMPLE|TEMPLE]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.44|<< Luke 19:44]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.46|Luke 19:46 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

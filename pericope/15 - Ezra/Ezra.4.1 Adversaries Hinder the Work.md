@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Adversaries Hinder the Work
+type: Pericope
 pericope: "[[Ezra.4.1 Adversaries Hinder the Work|Adversaries Hinder the Work]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Ezra
 chapter: 4
 book/chapter: "[[Ezra.4|Ezra 4]]"
-genre:
+chronological_order: 852
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
+verse_count: 5
 verses:
 - "[[Ezra.4.1]]"
 - "[[Ezra.4.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Ezra.4.5]]"
 ---
 
-[[Ezra.4|Ezra 4:1 - Ezra 4:5]]
+<small>[[Ezra.4|Ezra 4:1-5]]</small>
 *Adversaries Hinder the Work*
 
 [[Ezra.4.1|1]] Now when the adversaries of Judah and Benjamin heard that the children of the captivity builded the temple unto the LORD God of Israel;

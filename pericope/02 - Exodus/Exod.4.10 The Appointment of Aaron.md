@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Appointment of Aaron
+type: Pericope
 pericope: "[[Exod.4.10 The Appointment of Aaron|The Appointment of Aaron]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 4
 book/chapter: "[[Exod.4|Exodus 4]]"
-genre:
+chronological_order: 96
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 8
 verses:
 - "[[Exod.4.10]]"
 - "[[Exod.4.11]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Exod.4.17]]"
 ---
 
-[[Exod.4|Exodus 4:10 - Exodus 4:17]]
+<small>[[Exod.4|Exodus 4:10-17]]</small>
 *The Appointment of Aaron*
 
 [[Exod.4.10|10]] And Moses said unto the LORD, O my Lord, I \[am\] not eloquent, neither heretofore, nor since thou hast spoken unto thy servant: but I \[am\] slow of speech, and of a slow tongue.

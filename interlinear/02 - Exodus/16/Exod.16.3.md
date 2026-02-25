@@ -1,8 +1,89 @@
+---
+title: Exodus 16:3
+type: Verse
+kjv: "And the children of Israel said unto them, Would to God we had died by the hand of the LORD in the land of Egypt, when we sat by the flesh pots, and when we did eat bread to the full; for ye have brought us forth into this wilderness, to kill this whole assembly with hunger."
+bsb: "“If only we had died by the LORD’s hand in the land of Egypt!” they said. “There we sat by pots of meat and ate our fill of bread, but you have brought us into this desert to starve this whole assembly to death!”"
+hebrew: "וַיֹּאמְר֨וּ אֲלֵהֶ֜ם בְּנֵ֣י יִשְׂרָאֵ֗ל מִֽי־ יִתֵּ֨ן מוּתֵ֤נוּ בְיַד־ יְהוָה֙ בְּאֶ֣רֶץ מִצְרַ֔יִם בְּשִׁבְתֵּ֙נוּ֙ עַל־ סִ֣יר הַבָּשָׂ֔ר בְּאָכְלֵ֥נוּ לֶ֖חֶם לָשֹׂ֑בַע כִּֽי־ הוֹצֵאתֶ֤ם אֹתָ֙נוּ֙ אֶל־ הַמִּדְבָּ֣ר הַזֶּ֔ה לְהָמִ֛ית אֶת־ כָּל־ הַקָּהָ֥ל הַזֶּ֖ה בָּרָעָֽב׃ ס"
+pericope: "[[Exod.16.1 Manna and Quail from Heaven|Manna and Quail from Heaven]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 16
+book/chapter: "[[Exod.16|Exodus 16]]"
+chronological_order: 108
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic EVIL FOR GOOD|EVIL FOR GOOD]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H5414Q]]"
+- "[[H4191]]"
+- "[[H9045]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H3068G]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H5518A]]"
+- "[[H9009]]"
+- "[[H1320]]"
+- "[[H0398]]"
+- "[[H3899H]]"
+- "[[H9005]]"
+- "[[H7648]]"
+- "[[H3588A]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H9035]]"
+- "[[H4057B]]"
+- "[[H2088]]"
+- "[[H3605]]"
+- "[[H6951]]"
+- "[[H7458]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 16:3**<big><big>[[Exod.16.1 Manna and Quail from Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel said unto them, Would to God we had died by the hand of the LORD in the land of Egypt, when we sat by the flesh pots, [and] when we did eat bread to the full; for ye have brought us forth into this wilderness, to kill this whole assembly with hunger.
 <small><sub>**BSB:**</sub></small>
 “If only we had died by the LORD’s hand in the land of Egypt!” they said. “There we sat by pots of meat and ate our fill of bread, but you have brought us into this desert to starve this whole assembly to death!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֨וּ]] [[H0413\|אֲלֵ]][[H9038\|הֶ֜ם]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H4310\|מִֽי]][[H9014\|־]] [[H5414Q\|יִתֵּ֨ן]] [[H4191\|מוּתֵ֤]][[H9045\|נוּ]] [[H9003\|בְ]][[H3027H\|יַד]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֔יִם]] [[H9003\|בְּ]][[H3427\|שִׁבְתֵּ֙]][[H9045\|נוּ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H5518A\|סִ֣יר]] [[H9009\|הַ]][[H1320\|בָּשָׂ֔ר]] [[H9003\|בְּ]][[H0398\|אָכְלֵ֥]][[H9045\|נוּ]] [[H3899H\|לֶ֖חֶם]] [[H9005\|לָ]][[H7648\|שֹׂ֑בַע]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3318H\|הוֹצֵאתֶ֤ם]] [[H0853\|אֹתָ֙]][[H9035\|נוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4057B\|מִּדְבָּ֣ר]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9005\|לְ]][[H4191\|הָמִ֛ית]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H6951\|קָּהָ֥ל]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H9003\|בָּ]][[H7458\|רָעָֽב]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic EVIL FOR GOOD|EVIL FOR GOOD]] • [[topic INFIDELITY|INFIDELITY]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic MURMURING|MURMURING]] • [[topic SERVANT|SERVANT]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.2|<< Exodus 16:2]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.4|Exodus 16:4 >>]]</td></tr></table>
 
@@ -37,7 +118,7 @@ And the children of Israel said unto them, Would to God we had died by the hand 
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the assembly  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6951\|קָּהָ֥ל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ka.Hal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by \<the> hunger  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H7458\|רָעָֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> ra.'Av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by \<the> hunger  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H7458\|רָעָֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> ra.'Av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.2|<< Exodus 16:2]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.4|Exodus 16:4 >>]]</td></tr></table>
 
 

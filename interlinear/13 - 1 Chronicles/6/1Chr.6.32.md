@@ -1,8 +1,65 @@
+---
+title: 1 Chronicles 6:32
+type: Verse
+kjv: "And they ministered before the dwelling place of the tabernacle of the congregation with singing, until Solomon had built the house of the LORD in Jerusalem: and then they waited on their office according to their order."
+bsb: "They ministered with song before the tabernacle, the Tent of Meeting, until Solomon built the house of the LORD in Jerusalem. And they performed their duties according to the regulations given them."
+hebrew: "וַיִּהְי֨וּ מְשָׁרְתִ֜ים לִפְנֵ֨י מִשְׁכַּ֤ן אֹֽהֶל־ מוֹעֵד֙ בַּשִּׁ֔יר עַד־ בְּנ֧וֹת שְׁלֹמֹ֛ה אֶת־ בֵּ֥ית יְהוָ֖ה בִּירוּשָׁלִָ֑ם וַיַּעַמְד֥וּ כְמִשְׁפָּטָ֖ם עַל־ עֲבוֹדָתָֽם׃"
+pericope: "[[1Chr.6.31 The Temple Musicians|The Temple Musicians]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 6
+book/chapter: "[[1Chr.6|1 Chronicles 6]]"
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H8334]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H4908]]"
+- "[[H0168G]]"
+- "[[H9014]]"
+- "[[H4150I]]"
+- "[[H9003]]"
+- "[[H7892A]]"
+- "[[H5704]]"
+- "[[H1129]]"
+- "[[H8010]]"
+- "[[H0853]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H3389]]"
+- "[[H5975H]]"
+- "[[H9004]]"
+- "[[H4941J]]"
+- "[[H9028]]"
+- "[[H5921A]]"
+- "[[H5656H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 6:32**<big><big>[[1Chr.6.31 The Temple Musicians|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they ministered before the dwelling place of the tabernacle of the congregation with singing, until Solomon had built the house of the LORD in Jerusalem: and [then] they waited on their office according to their order.
 <small><sub>**BSB:**</sub></small>
 They ministered with song before the tabernacle, the Tent of Meeting, until Solomon built the house of the LORD in Jerusalem. And they performed their duties according to the regulations given them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יִּהְי֨וּ]] [[H8334\|מְשָׁרְתִ֜ים]] [[H9005\|לִ]][[H6440G\|פְנֵ֨י]] [[H4908\|מִשְׁכַּ֤ן]] [[H0168G\|אֹֽהֶל]][[H9014\|־]] [[H4150I\|מוֹעֵד֙]] [[H9003\|בַּ]][[H7892A\|שִּׁ֔יר]] [[H5704\|עַד]][[H9014\|־]] [[H1129\|בְּנ֧וֹת]] [[H8010\|שְׁלֹמֹ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1004Q\|בֵּ֥ית]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9001\|וַ]][[H5975H\|יַּעַמְד֥וּ]] [[H9004\|כְ]][[H4941J\|מִשְׁפָּטָ֖]][[H9028\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H5656H\|עֲבוֹדָתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MUSIC|MUSIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.31|<< 1 Chronicles 6:31]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.33|1 Chronicles 6:33 >>]]</td></tr></table>
 

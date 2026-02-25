@@ -1,10 +1,66 @@
+---
+title: Acts 17:27
+type: Verse
+kjv: "That they should seek the Lord, if haply they might feel after him, and find him, though he be not far from every one of us:"
+bsb: "God intended that they would seek Him and perhaps reach out for Him and find Him, though He is not far from each one of us."
+greek: "ζητεῖν τὸν θεόν, εἰ ἄρα γε ψηλαφήσειαν αὐτὸν καὶ εὕροιεν, καί γε οὐ μακρὰν ἀπὸ ἑνὸς ἑκάστου ἡμῶν ὑπάρχοντα."
+pericope: "[[Acts.17.22 Paul’s Address in the Areopagus|Paul’s Address in the Areopagus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 17
+book/chapter: "[[Acts.17|Acts 17]]"
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ATHENS|ATHENS]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MARS' HILL|MARS' HILL]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2212]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1487I]]"
+- "[[G0686]]"
+- "[[G1065]]"
+- "[[G5584]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G2147]]"
+- "[[G3756]]"
+- "[[G3112]]"
+- "[[G0575]]"
+- "[[G1520]]"
+- "[[G1538]]"
+- "[[G3165]]"
+- "[[G5225]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Acts 17:27**<big><big>[[Acts.17.22 Paul’s Address in the Areopagus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That they should seek the Lord, if haply they might feel after him, and find him, though he be not far from every one of us:
 <small><sub>**BSB:**</sub></small>
 God intended that they would seek Him and perhaps reach out for Him and find Him, though He is not far from each one of us.
-<small><sub>**Literal:**</sub></small>
-to seek <the> God, if perhaps indeed they would touch Him and would find [Him], And indeed not far from one each of us He is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.26|<< Acts 17:26]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.28|Acts 17:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2212\|ζητεῖν]]  [[G3588\|τὸν]]  [[G2316\|θεόν,]]  [[G1487I\|εἰ]]  [[G0686\|ἄρα]]  [[G1065\|γε]]  [[G5584\|ψηλαφήσειαν]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G2147\|εὕροιεν,]]  [[G2532\|καί]]  [[G1065\|γε]]  [[G3756\|οὐ]]  [[G3112\|μακρὰν]]  [[G0575\|ἀπὸ]]  [[G1520\|ἑνὸς]]  [[G1538\|ἑκάστου]]  [[G3165\|ἡμῶν]]  [[G5225\|ὑπάρχοντα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATHENS|ATHENS]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic LIFE|LIFE]] • [[topic MARS' HILL|MARS' HILL]] • [[topic PAUL|PAUL]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RELIGION|RELIGION]] • [[topic SEEKERS|SEEKERS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.26|<< Acts 17:26]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.28|Acts 17:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

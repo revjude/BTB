@@ -1,10 +1,64 @@
+---
+title: Matthew 15:30
+type: Verse
+kjv: "And great multitudes came unto him, having with them those that were lame, blind, dumb, maimed, and many others, and cast them down at Jesus’ feet; and he healed them:"
+bsb: "Large crowds came to Him, bringing the lame, the blind, the crippled, the mute, and many others, and laid them at His feet, and He healed them."
+greek: "καὶ προσῆλθον αὐτῷ ὄχλοι πολλοὶ ἔχοντες μεθ᾽ ἑαυτῶν χωλούς, τυφλούς, κυλλούς, κωφούς, καὶ ἑτέρους πολλοὺς καὶ ἔρριψαν αὐτοὺς παρὰ τοὺς πόδας αὐτοῦ Ἰησοῦ· καὶ ἐθεράπευσεν αὐτοὺς"
+pericope: "[[Matt.15.29 The Feeding of the Four Thousand|The Feeding of the Four Thousand]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 15
+book/chapter: "[[Matt.15|Matthew 15]]"
+chronological_order: 965
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DUMB (DEAFNESS, MUTE)|DUMB (DEAFNESS, MUTE)]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G4334]]"
+- "[[G0846]]"
+- "[[G3793]]"
+- "[[G4183]]"
+- "[[G2192]]"
+- "[[G3326]]"
+- "[[G1438]]"
+- "[[G5560]]"
+- "[[G5185]]"
+- "[[G2948]]"
+- "[[G2974]]"
+- "[[G2087]]"
+- "[[G4496]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G4228]]"
+- "[[G2424G]]"
+- "[[G2323]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Matthew 15:30**<big><big>[[Matt.15.29 The Feeding of the Four Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And great multitudes came unto him, having with them [those that were] lame, blind, dumb, maimed, and many others, and cast them down at Jesus’ feet; and he healed them:
 <small><sub>**BSB:**</sub></small>
 Large crowds came to Him, bringing the lame, the blind, the crippled, the mute, and many others, and laid them at His feet, and He healed them.
-<small><sub>**Literal:**</sub></small>
-And came to Him crowds great having with themselves lame blind crippled mute and others many and they placed them at the feet of Him Jesus; and He healed them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.29|<< Matthew 15:29]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.31|Matthew 15:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4334\|προσῆλθον]]  [[G0846\|αὐτῷ]]  [[G3793\|ὄχλοι]]  [[G4183\|πολλοὶ]]  [[G2192\|ἔχοντες]]  [[G3326\|μεθ᾽]]  [[G1438\|ἑαυτῶν]]  [[G5560\|χωλούς,]]  [[G5185\|τυφλούς,]]  [[G2948\|κυλλούς,]]  [[G2974\|κωφούς,]]  [[G2532\|καὶ]]  [[G2087\|ἑτέρους]]  [[G4183\|πολλοὺς]]  [[G2532\|καὶ]]  [[G4496\|ἔρριψαν]]  [[G0846\|αὐτοὺς]]  [[G3844\|παρὰ]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G0846\|αὐτοῦ]]  [[G2424G\|Ἰησοῦ·]]  [[G2532\|καὶ]]  [[G2323\|ἐθεράπευσεν]]  [[G0846\|αὐτοὺς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DUMB (DEAFNESS, MUTE)|DUMB (DEAFNESS, MUTE)]] • [[topic GALILEE|GALILEE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.29|<< Matthew 15:29]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.31|Matthew 15:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

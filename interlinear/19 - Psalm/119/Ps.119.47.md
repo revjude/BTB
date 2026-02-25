@@ -1,8 +1,53 @@
+---
+title: Psalm 119:47
+type: Verse
+kjv: "And I will delight myself in thy commandments, which I have loved."
+bsb: "I delight in Your commandments because I love them."
+hebrew: "וְאֶשְׁתַּֽעֲשַׁ֥ע בְּמִצְוֹתֶ֗יךָ אֲשֶׁ֣ר אָהָֽבְתִּי׃"
+pericope: "[[Ps.119.41 Your Word Is a Lamp to My Feet - VAU|Your Word Is a Lamp to My Feet - VAU]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9002]]"
+- "[[H8173B]]"
+- "[[H9003]]"
+- "[[H4687]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H0157G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:47**<big><big>[[Ps.119.41 Your Word Is a Lamp to My Feet - VAU|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will delight myself in thy commandments, which I have loved.
 <small><sub>**BSB:**</sub></small>
 I delight in Your commandments because I love them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8173B\|אֶשְׁתַּֽעֲשַׁ֥ע]] [[H9003\|בְּ]][[H4687\|מִצְוֹתֶ֗י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֣ר]] [[H0157G\|אָהָֽבְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.46|<< Psalms 119:46]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.48|Psalms 119:48 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Numbers 32:28
+type: Verse
+kjv: "So concerning them Moses commanded Eleazar the priest, and Joshua the son of Nun, and the chief fathers of the tribes of the children of Israel:"
+bsb: "So Moses gave orders about them to Eleazar the priest, to Joshua son of Nun, and to the family leaders of the tribes of Israel."
+hebrew: "וַיְצַ֤ו לָהֶם֙ מֹשֶׁ֔ה אֵ֚ת אֶלְעָזָ֣ר הַכֹּהֵ֔ן וְאֵ֖ת יְהוֹשֻׁ֣עַ בִּן־ נ֑וּן וְאֶת־ רָאשֵׁ֛י אֲב֥וֹת הַמַּטּ֖וֹת לִבְנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Num.32.1 The Tribes East of the Jordan|The Tribes East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 32
+book/chapter: "[[Num.32|Numbers 32]]"
+chronological_order: 192
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GAD|GAD]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H4872]]"
+- "[[H0853]]"
+- "[[H0499G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H3091G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5126]]"
+- "[[H7218H]]"
+- "[[H0001G]]"
+- "[[H4294H]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 32:28**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So concerning them Moses commanded Eleazar the priest, and Joshua the son of Nun, and the chief fathers of the tribes of the children of Israel:
 <small><sub>**BSB:**</sub></small>
 So Moses gave orders about them to Eleazar the priest, to Joshua son of Nun, and to the family leaders of the tribes of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַ֤ו]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H4872\|מֹשֶׁ֔ה]] [[H0853\|אֵ֚ת]] [[H0499G\|אֶלְעָזָ֣ר]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H3091G\|יְהוֹשֻׁ֣עַ]] [[H1121A\|בִּן]][[H9014\|־]] [[H5126\|נ֑וּן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7218H\|רָאשֵׁ֛י]] [[H0001G\|אֲב֥וֹת]] [[H9009\|הַ]][[H4294H\|מַּטּ֖וֹת]] [[H9005\|לִ]][[H1121G\|בְנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAD|GAD]] • [[topic GILEAD|GILEAD]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.27|<< Numbers 32:27]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.29|Numbers 32:29 >>]]</td></tr></table>
 

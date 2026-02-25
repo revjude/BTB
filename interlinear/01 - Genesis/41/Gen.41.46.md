@@ -1,8 +1,69 @@
+---
+title: Genesis 41:46
+type: Verse
+kjv: "And Joseph was thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt."
+bsb: "Now Joseph was thirty years old when he entered the service of Pharaoh king of Egypt. And Joseph left Pharaoh’s presence and traveled throughout the land of Egypt."
+hebrew: "וְיוֹסֵף֙ בֶּן־ שְׁלֹשִׁ֣ים שָׁנָ֔ה בְּעָמְד֕וֹ לִפְנֵ֖י פַּרְעֹ֣ה מֶֽלֶךְ־ מִצְרָ֑יִם וַיֵּצֵ֤א יוֹסֵף֙ מִלִּפְנֵ֣י פַרְעֹ֔ה וַֽיַּעְבֹ֖ר בְּכָל־ אֶ֥רֶץ מִצְרָֽיִם׃"
+pericope: "[[Gen.41.46 The Seven Years of Plenty|The Seven Years of Plenty]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9002]]"
+- "[[H3130G]]"
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H7970]]"
+- "[[H8141]]"
+- "[[H9003]]"
+- "[[H5975H]]"
+- "[[H9043]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H6547H]]"
+- "[[H4428G]]"
+- "[[H4714G]]"
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H5674A]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:46**<big><big>[[Gen.41.46 The Seven Years of Plenty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph [was] thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt.
 <small><sub>**BSB:**</sub></small>
 Now Joseph was thirty years old when he entered the service of Pharaoh king of Egypt. And Joseph left Pharaoh’s presence and traveled throughout the land of Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3130G\|יוֹסֵף֙]] [[H1121L\|בֶּן]][[H9014\|־]] [[H7970\|שְׁלֹשִׁ֣ים]] [[H8141\|שָׁנָ֔ה]] [[H9003\|בְּ]][[H5975H\|עָמְד֕]][[H9043\|וֹ]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H6547H\|פַּרְעֹ֣ה]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H4714G\|מִצְרָ֑יִם]] [[H9001\|וַ]][[H3318G\|יֵּצֵ֤א]] [[H3130G\|יוֹסֵף֙]] [[H9006\|מִ]][[H9005\|לִּ]][[H6440G\|פְנֵ֣י]] [[H6547H\|פַרְעֹ֔ה]] [[H9001\|וַֽ]][[H5674A\|יַּעְבֹ֖ר]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ECONOMICS|ECONOMICS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOSEPH|JOSEPH]] • [[topic PRUDENCE|PRUDENCE]] • [[topic RULERS|RULERS]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.45|<< Genesis 41:45]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.47|Genesis 41:47 >>]]</td></tr></table>
 

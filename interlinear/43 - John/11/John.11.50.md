@@ -1,10 +1,63 @@
+---
+title: John 11:50
+type: Verse
+kjv: "Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not."
+bsb: "You do not realize that it is better for you that one man die for the people than that the whole nation perish.”"
+greek: "οὐδὲ λογίζεσθε ὅτι συμφέρει ὑμῖν ἵνα εἷς ἄνθρωπος ἀποθάνῃ ὑπὲρ τοῦ λαοῦ, καὶ μὴ ὅλον τὸ ἔθνος ἀπόληται."
+pericope: "[[John.11.45 The Plot to Kill Jesus|The Plot to Kill Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CAIAPHAS|CAIAPHAS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SUFFERING|SUFFERING]]"
+strongs:
+- "[[G3761]]"
+- "[[G3049]]"
+- "[[G3754G]]"
+- "[[G4851]]"
+- "[[G4771]]"
+- "[[G2443]]"
+- "[[G1520]]"
+- "[[G0444]]"
+- "[[G0599]]"
+- "[[G5228]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G3650]]"
+- "[[G1484]]"
+- "[[G0622]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 11:50**<big><big>[[John.11.45 The Plot to Kill Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not.
 <small><sub>**BSB:**</sub></small>
 You do not realize that it is better for you that one man die for the people than that the whole nation perish.”
-<small><sub>**Literal:**</sub></small>
-nor consider you that it is profitable for you that one man may die for the people, and not all the nation may perish.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.49|<< John 11:49]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.51|John 11:51 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3761\|οὐδὲ]]  [[G3049\|λογίζεσθε]]  [[G3754G\|ὅτι]]  [[G4851\|συμφέρει]]  [[G4771\|ὑμῖν]]  [[G2443\|ἵνα]]  [[G1520\|εἷς]]  [[G0444\|ἄνθρωπος]]  [[G0599\|ἀποθάνῃ]]  [[G5228\|ὑπὲρ]]  [[G3588\|τοῦ]]  [[G2992\|λαοῦ,]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G3650\|ὅλον]]  [[G3588\|τὸ]]  [[G1484\|ἔθνος]]  [[G0622\|ἀπόληται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CAIAPHAS|CAIAPHAS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SUFFERING|SUFFERING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.49|<< John 11:49]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.51|John 11:51 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,57 @@
+---
+title: Numbers 29:37
+type: Verse
+kjv: "Their meat offering and their drink offerings for the bullock, for the ram, and for the lambs, shall be according to their number, after the manner:"
+bsb: "along with the grain and drink offerings for the bulls, rams, and lambs, according to the number prescribed."
+hebrew: "מִנְחָתָ֣ם וְנִסְכֵּיהֶ֗ם לַפָּ֨ר לָאַ֧יִל וְלַכְּבָשִׂ֛ים בְּמִסְפָּרָ֖ם כַּמִּשְׁפָּֽט׃"
+pericope: "[[Num.29.12 The Feast of Tabernacles|The Feast of Tabernacles]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 29
+book/chapter: "[[Num.29|Numbers 29]]"
+chronological_order: 189
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H4503G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H5262]]"
+- "[[H9005]]"
+- "[[H6499]]"
+- "[[H0352A]]"
+- "[[H3532]]"
+- "[[H9003]]"
+- "[[H4557]]"
+- "[[H9004]]"
+- "[[H4941I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 29:37**<big><big>[[Num.29.12 The Feast of Tabernacles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their meat offering and their drink offerings for the bullock, for the ram, and for the lambs, [shall be] according to their number, after the manner:
 <small><sub>**BSB:**</sub></small>
 along with the grain and drink offerings for the bulls, rams, and lambs, according to the number prescribed.
+<small><sub>**Hebrew:**</sub></small>
+[[H4503G\|מִנְחָתָ֣]][[H9028\|ם]] [[H9002\|וְ]][[H5262\|נִסְכֵּי]][[H9028\|הֶ֗ם]] [[H9005\|לַ]][[H6499\|פָּ֨ר]] [[H9005\|לָ]][[H0352A\|אַ֧יִל]] [[H9002\|וְ]][[H9005\|לַ]][[H3532\|כְּבָשִׂ֛ים]] [[H9003\|בְּ]][[H4557\|מִסְפָּרָ֖]][[H9028\|ם]] [[H9004\|כַּ]][[H4941I\|מִּשְׁפָּֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.29.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.29.36|<< Numbers 29:36]]</td><td align="center" style="border:none;">[[Num.29|Numbers 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.29.38|Numbers 29:38 >>]]</td></tr></table>
 

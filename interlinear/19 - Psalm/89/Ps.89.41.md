@@ -1,8 +1,55 @@
+---
+title: Psalm 89:41
+type: Verse
+kjv: "All that pass by the way spoil him: he is a reproach to his neighbours."
+bsb: "All who pass by plunder him; he has become a reproach to his neighbors."
+hebrew: "שַׁ֭סֻּהוּ כָּל־ עֹ֣בְרֵי דָ֑רֶךְ הָיָ֥ה חֶ֝רְפָּ֗ה לִשְׁכֵנָֽיו׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H8155]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5674A]]"
+- "[[H1870L]]"
+- "[[H1961]]"
+- "[[H2781]]"
+- "[[H9005]]"
+- "[[H7934]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 89:41**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All that pass by the way spoil him: he is a reproach to his neighbours.
 <small><sub>**BSB:**</sub></small>
 All who pass by plunder him; he has become a reproach to his neighbors.
+<small><sub>**Hebrew:**</sub></small>
+[[H8155\|שַׁ֭סֻּ]][[H9033\|הוּ]] [[H3605\|כָּל]][[H9014\|־]] [[H5674A\|עֹ֣בְרֵי]] [[H1870L\|דָ֑רֶךְ]] [[H1961\|הָיָ֥ה]] [[H2781\|חֶ֝רְפָּ֗ה]] [[H9005\|לִ]][[H7934\|שְׁכֵנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.40|<< Psalms 89:40]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.42|Psalms 89:42 >>]]</td></tr></table>
 

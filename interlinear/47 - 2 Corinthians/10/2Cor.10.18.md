@@ -1,10 +1,55 @@
+---
+title: 2 Corinthians 10:18
+type: Verse
+kjv: "For not he that commendeth himself is approved, but whom the Lord commendeth."
+bsb: "For it is not the one who commends himself who is approved, but the one whom the Lord commends."
+greek: "οὐ γὰρ ὁ ἑαυτὸν συνιστάνων, ἐκεῖνός ἐστιν δόκιμος, ἀλλ᾽ ὃν ὁ κύριος συνίστησιν.¶"
+pericope: "[[2Cor.10.1 Paul’s Apostolic Authority|Paul’s Apostolic Authority]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 10
+book/chapter: "[[2Cor.10|2 Corinthians 10]]"
+chronological_order: 1083
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G1438]]"
+- "[[G4921]]"
+- "[[G1565]]"
+- "[[G1510]]"
+- "[[G1384]]"
+- "[[G0235]]"
+- "[[G3739]]"
+- "[[G2962G]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 10:18**<big><big>[[2Cor.10.1 Paul’s Apostolic Authority|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For not he that commendeth himself is approved, but whom the Lord commendeth.
 <small><sub>**BSB:**</sub></small>
 For it is not the one who commends himself who is approved, but the one whom the Lord commends.
-<small><sub>**Literal:**</sub></small>
-Not for the [one] himself commending, this [one] is approved, but [the one] whom the Lord commends.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.17|<< 2 Corinthians 10:17]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.1|2 Corinthians 11:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G3588\|ὁ]]  [[G1438\|ἑαυτὸν]]  [[G4921\|συνιστάνων,]]  [[G1565\|ἐκεῖνός]]  [[G1510\|ἐστιν]]  [[G1384\|δόκιμος,]]  [[G0235\|ἀλλ᾽]]  [[G3739\|ὃν]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G4921\|συνίστησιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOASTING|BOASTING]] • [[topic GOD|GOD]] • [[topic PRIDE|PRIDE]] • [[topic SELF-EXALTATION|SELF-EXALTATION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.17|<< 2 Corinthians 10:17]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.1|2 Corinthians 11:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

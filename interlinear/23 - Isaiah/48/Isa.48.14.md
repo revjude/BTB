@@ -1,8 +1,67 @@
+---
+title: Isaiah 48:14
+type: Verse
+kjv: "All ye, assemble yourselves, and hear; which among them hath declared these things? The LORD hath loved him: he will do his pleasure on Babylon, and his arm shall be on the Chaldeans."
+bsb: "Come together, all of you, and listen: Which of the idols has foretold these things? The LORD’s chosen ally will carry out His desire against Babylon, and His arm will be against the Chaldeans."
+hebrew: "הִקָּבְצ֤וּ כֻלְּכֶם֙ וּֽשֲׁמָ֔עוּ מִ֥י בָהֶ֖ם הִגִּ֣יד אֶת־ אֵ֑לֶּה יְהוָ֣ה אֲהֵב֔וֹ יַעֲשֶׂ֤ה חֶפְצוֹ֙ בְּבָבֶ֔ל וּזְרֹע֖וֹ כַּשְׂדִּֽים׃"
+pericope: "[[Isa.48.12 Deliverance Promised to Israel|Deliverance Promised to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 48
+book/chapter: "[[Isa.48|Isaiah 48]]"
+chronological_order: 687
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CYRUS|CYRUS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[H6908]]"
+- "[[H3605]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H8085G]]"
+- "[[H4310]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H5046]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0428]]"
+- "[[H3068G]]"
+- "[[H0157G]]"
+- "[[H9033]]"
+- "[[H6213A]]"
+- "[[H2656]]"
+- "[[H9023]]"
+- "[[H0894]]"
+- "[[H2220]]"
+- "[[H3778]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 48:14**<big><big>[[Isa.48.12 Deliverance Promised to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All ye, assemble yourselves, and hear; which among them hath declared these [things]? The LORD hath loved him: he will do his pleasure on Babylon, and his arm [shall be on] the Chaldeans.
 <small><sub>**BSB:**</sub></small>
 Come together, all of you, and listen: Which of the idols has foretold these things? The LORD’s chosen ally will carry out His desire against Babylon, and His arm will be against the Chaldeans.
+<small><sub>**Hebrew:**</sub></small>
+[[H6908\|הִקָּבְצ֤וּ]] [[H3605\|כֻלְּ]][[H9026\|כֶם֙]] [[H9002\|וּֽ]][[H8085G\|שֲׁמָ֔עוּ]] [[H4310\|מִ֥י]] [[H9003\|בָ]][[H9038\|הֶ֖ם]] [[H5046\|הִגִּ֣יד]] [[H0853\|אֶת]][[H9014\|־]] [[H0428\|אֵ֑לֶּה]] [[H3068G\|יְהוָ֣ה]] [[H0157G\|אֲהֵב֔]][[H9033\|וֹ]] [[H6213A\|יַעֲשֶׂ֤ה]] [[H2656\|חֶפְצ]][[H9023\|וֹ֙]] [[H9003\|בְּ]][[H0894\|בָבֶ֔ל]] [[H9002\|וּ]][[H2220\|זְרֹע֖]][[H9023\|וֹ]] [[H3778\|כַּשְׂדִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CYRUS|CYRUS]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSIA|PERSIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.13|<< Isaiah 48:13]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.15|Isaiah 48:15 >>]]</td></tr></table>
 

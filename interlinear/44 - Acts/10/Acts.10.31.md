@@ -1,10 +1,52 @@
+---
+title: Acts 10:31
+type: Verse
+kjv: "And said, Cornelius, thy prayer is heard, and thine alms are had in remembrance in the sight of God."
+bsb: "and said, ‘Cornelius, your prayer has been heard, and your gifts to the poor have been remembered before God."
+greek: "καὶ φησίν· Κορνήλιε, εἰσηκούσθη σου ἡ προσευχὴ καὶ αἱ ἐλεημοσύναι σου ἐμνήσθησαν ἐνώπιον τοῦ θεοῦ."
+pericope: "[[Acts.10.24 Peter Visits Cornelius|Peter Visits Cornelius]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G5346]]"
+- "[[G2883]]"
+- "[[G1522]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G4335]]"
+- "[[G1654]]"
+- "[[G3403]]"
+- "[[G1799]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Acts 10:31**<big><big>[[Acts.10.24 Peter Visits Cornelius|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And said, Cornelius, thy prayer is heard, and thine alms are had in remembrance in the sight of God.
 <small><sub>**BSB:**</sub></small>
 and said, ‘Cornelius, your prayer has been heard, and your gifts to the poor have been remembered before God.
-<small><sub>**Literal:**</sub></small>
-and said; Cornelius, has been heard your <the> prayer and the alms of you was remembered before <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.30|<< Acts 10:30]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.32|Acts 10:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5346\|φησίν·]]  [[G2883\|Κορνήλιε,]]  [[G1522\|εἰσηκούσθη]]  [[G4771\|σου]]  [[G3588\|ἡ]]  [[G4335\|προσευχὴ]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G1654\|ἐλεημοσύναι]]  [[G4771\|σου]]  [[G3403\|ἐμνήσθησαν]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.30|<< Acts 10:30]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.32|Acts 10:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

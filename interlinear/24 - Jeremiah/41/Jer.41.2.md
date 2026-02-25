@@ -1,8 +1,77 @@
+---
+title: Jeremiah 41:2
+type: Verse
+kjv: "Then arose Ishmael the son of Nethaniah, and the ten men that were with him, and smote Gedaliah the son of Ahikam the son of Shaphan with the sword, and slew him, whom the king of Babylon had made governor over the land."
+bsb: "Then Ishmael son of Nethaniah and the ten men who were with him got up and struck down Gedaliah son of Ahikam, the son of Shaphan, with the sword, killing the one whom the king of Babylon had appointed to govern the land."
+hebrew: "וַיָּקָם֩ יִשְׁמָעֵ֨אל בֶּן־ נְתַנְיָ֜ה וַעֲשֶׂ֥רֶת הָאֲנָשִׁ֣ים׀ אֲשֶׁר־ הָי֣וּ אִתּ֗וֹ וַ֠יַּכּוּ אֶת־ גְּדַלְיָ֨הוּ בֶן־ אֲחִיקָ֧ם בֶּן־ שָׁפָ֛ן בַּחֶ֖רֶב וַיָּ֣מֶת אֹת֑וֹ אֲשֶׁר־ הִפְקִ֥יד מֶֽלֶךְ־ בָּבֶ֖ל בָּאָֽרֶץ׃"
+pericope: "[[Jer.41.1 The Murder of Gedaliah|The Murder of Gedaliah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 41
+book/chapter: "[[Jer.41|Jeremiah 41]]"
+chronological_order: 764
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AHIKAM|AHIKAM]]"
+- "[[topic GEDALIAH|GEDALIAH]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MIZPAH|MIZPAH]]"
+- "[[topic NETHANIAH|NETHANIAH]]"
+- "[[topic SHAPHAN|SHAPHAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H3458H]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5418G]]"
+- "[[H9002]]"
+- "[[H6235]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H9015]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H1436B]]"
+- "[[H0296]]"
+- "[[H8227B]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H4191]]"
+- "[[H6485J]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 41:2**<big><big>[[Jer.41.1 The Murder of Gedaliah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then arose Ishmael the son of Nethaniah, and the ten men that were with him, and smote Gedaliah the son of Ahikam the son of Shaphan with the sword, and slew him, whom the king of Babylon had made governor over the land.
 <small><sub>**BSB:**</sub></small>
 Then Ishmael son of Nethaniah and the ten men who were with him got up and struck down Gedaliah son of Ahikam, the son of Shaphan, with the sword, killing the one whom the king of Babylon had appointed to govern the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּקָם֩]] [[H3458H\|יִשְׁמָעֵ֨אל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5418G\|נְתַנְיָ֜ה]] [[H9002\|וַ]][[H6235\|עֲשֶׂ֥רֶת]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֣ים]][[H9015\|׀]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1961\|הָי֣וּ]] [[H0854\|אִתּ֗]][[H9033\|וֹ]] [[H9001\|וַ֠]][[H5221\|יַּכּוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1436B\|גְּדַלְיָ֨הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H0296\|אֲחִיקָ֧ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H8227B\|שָׁפָ֛ן]] [[H9003\|בַּ]][[H2719\|חֶ֖רֶב]] [[H9001\|וַ]][[H4191\|יָּ֣מֶת]] [[H0853\|אֹת֑]][[H9033\|וֹ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6485J\|הִפְקִ֥יד]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֖ל]] [[H9003\|בָּ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIKAM|AHIKAM]] • [[topic GEDALIAH|GEDALIAH]] • [[topic HOMICIDE|HOMICIDE]] • [[topic ISHMAEL|ISHMAEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MIZPAH|MIZPAH]] • [[topic NETHANIAH|NETHANIAH]] • [[topic SHAPHAN|SHAPHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.41.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.1|<< Jeremiah 41:1]]</td><td align="center" style="border:none;">[[Jer.41|Jeremiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.3|Jeremiah 41:3 >>]]</td></tr></table>
 

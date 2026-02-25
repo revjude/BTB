@@ -1,10 +1,58 @@
+---
+title: Matthew 2:14
+type: Verse
+kjv: "When he arose, he took the young child and his mother by night, and departed into Egypt:"
+bsb: "So he got up, took the Child and His mother by night, and withdrew to Egypt,"
+greek: "ὁ δὲ ἐγερθεὶς παρέλαβεν τὸ παιδίον καὶ τὴν μητέρα αὐτοῦ νυκτὸς καὶ ἀνεχώρησεν εἰς Αἴγυπτον,"
+pericope: "[[Matt.2.13 The Flight to Egypt|The Flight to Egypt]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 2
+book/chapter: "[[Matt.2|Matthew 2]]"
+chronological_order: 932
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FUGITIVES|FUGITIVES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1453]]"
+- "[[G3880]]"
+- "[[G3813]]"
+- "[[G2532]]"
+- "[[G3384]]"
+- "[[G0846]]"
+- "[[G3571]]"
+- "[[G0402]]"
+- "[[G1519]]"
+- "[[G0125]]"
+texts:
+- NKO
+---
+
 **Matthew 2:14**<big><big>[[Matt.2.13 The Flight to Egypt|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When he arose, he took the young child and his mother by night, and departed into Egypt:
 <small><sub>**BSB:**</sub></small>
 So he got up, took the Child and His mother by night, and withdrew to Egypt,
-<small><sub>**Literal:**</sub></small>
-<the> And having arisen he took the Child and the mother of Him by night and withdrew into Egypt,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.13|<< Matthew 2:13]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.15|Matthew 2:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G1453\|ἐγερθεὶς]]  [[G3880\|παρέλαβεν]]  [[G3588\|τὸ]]  [[G3813\|παιδίον]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G3384\|μητέρα]]  [[G0846\|αὐτοῦ]]  [[G3571\|νυκτὸς]]  [[G2532\|καὶ]]  [[G0402\|ἀνεχώρησεν]]  [[G1519\|εἰς]]  [[G0125\|Αἴγυπτον,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPT|EGYPT]] • [[topic FAITH|FAITH]] • [[topic FUGITIVES|FUGITIVES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic MIRACLES|MIRACLES]] • [[topic OBEDIENCE|OBEDIENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.13|<< Matthew 2:13]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.15|Matthew 2:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

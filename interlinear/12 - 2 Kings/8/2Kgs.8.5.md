@@ -1,8 +1,76 @@
+---
+title: 2 Kings 8:5
+type: Verse
+kjv: "And it came to pass, as he was telling the king how he had restored a dead body to life, that, behold, the woman, whose son he had restored to life, cried to the king for her house and for her land. And Gehazi said, My lord, O king, this is the woman, and this is her son, whom Elisha restored to life."
+bsb: "And Gehazi was telling the king how Elisha had brought the dead back to life. Just then the woman whose son Elisha had revived came to appeal to the king for her house and her land. So Gehazi said, “My lord the king, this is the woman, and this is the son Elisha restored to life.”"
+hebrew: "וַ֠יְהִי ה֥וּא מְסַפֵּ֣ר לַמֶּלֶךְ֮ אֵ֣ת אֲשֶׁר־ הֶחֱיָ֣ה אֶת־ הַמֵּת֒ וְהִנֵּ֨ה הָאִשָּׁ֜ה אֲשֶׁר־ הֶחֱיָ֤ה אֶת־ בְּנָהּ֙ צֹעֶ֣קֶת אֶל־ הַמֶּ֔לֶךְ עַל־ בֵּיתָ֖הּ וְעַל־ שָׂדָ֑הּ וַיֹּ֤אמֶר גֵּֽחֲזִי֙ אֲדֹנִ֣י הַמֶּ֔לֶךְ זֹ֚את הָֽאִשָּׁ֔ה וְזֶה־ בְּנָ֖הּ אֲשֶׁר־ הֶחֱיָ֥ה אֱלִישָֽׁע׃"
+pericope: "[[2Kgs.8.1 The Shunammite’s Land Restored|The Shunammite’s Land Restored]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 8
+book/chapter: "[[2Kgs.8|2 Kings 8]]"
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic GEHAZI|GEHAZI]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic KING|KING]]"
+- "[[topic LAND|LAND]]"
+- "[[topic PROPERTY|PROPERTY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1931]]"
+- "[[H5608A]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H2421]]"
+- "[[H9009]]"
+- "[[H4191]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0802G]]"
+- "[[H1121A]]"
+- "[[H9024]]"
+- "[[H6817]]"
+- "[[H0413]]"
+- "[[H5921A]]"
+- "[[H1004B]]"
+- "[[H7704G]]"
+- "[[H0559]]"
+- "[[H1522]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H2063]]"
+- "[[H2088]]"
+- "[[H0477]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 8:5**<big><big>[[2Kgs.8.1 The Shunammite’s Land Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as he was telling the king how he had restored a dead body to life, that, behold, the woman, whose son he had restored to life, cried to the king for her house and for her land. And Gehazi said, My lord, O king, this [is] the woman, and this [is] her son, whom Elisha restored to life.
 <small><sub>**BSB:**</sub></small>
 And Gehazi was telling the king how Elisha had brought the dead back to life. Just then the woman whose son Elisha had revived came to appeal to the king for her house and her land. So Gehazi said, “My lord the king, this is the woman, and this is the son Elisha restored to life.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֠]][[H1961\|יְהִי]] [[H1931\|ה֥וּא]] [[H5608A\|מְסַפֵּ֣ר]] [[H9005\|לַ]][[H4428G\|מֶּלֶךְ֮]] [[H0853\|אֵ֣ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2421\|הֶחֱיָ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4191\|מֵּת֒]] [[H9002\|וְ]][[H2009\|הִנֵּ֨ה]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֜ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2421\|הֶחֱיָ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנָ]][[H9024\|הּ֙]] [[H6817\|צֹעֶ֣קֶת]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H1004B\|בֵּיתָ֖]][[H9024\|הּ]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H7704G\|שָׂדָ֑]][[H9024\|הּ]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H1522\|גֵּֽחֲזִי֙]] [[H0113\|אֲדֹנִ֣]][[H9020\|י]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H2063\|זֹ֚את]] [[H9009\|הָֽ]][[H0802G\|אִשָּׁ֔ה]] [[H9002\|וְ]][[H2088\|זֶה]][[H9014\|־]] [[H1121A\|בְּנָ֖]][[H9024\|הּ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2421\|הֶחֱיָ֥ה]] [[H0477\|אֱלִישָֽׁע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELISHA|ELISHA]] • [[topic GEHAZI|GEHAZI]] • [[topic JORAM|JORAM]] • [[topic JUDGE|JUDGE]] • [[topic KING|KING]] • [[topic LAND|LAND]] • [[topic PROPERTY|PROPERTY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.4|<< 2 Kings 8:4]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.6|2 Kings 8:6 >>]]</td></tr></table>
 

@@ -1,10 +1,68 @@
+---
+title: Ephesians 5:5
+type: Verse
+kjv: "For this ye know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ and of God."
+bsb: "For of this you can be sure: No immoral, impure, or greedy person (that is, an idolater) has any inheritance in the kingdom of Christ and of God."
+greek: "τοῦτο γὰρ ἴστε γινώσκοντες ὅτι πᾶς πόρνος ἢ ἀκάθαρτος ἢ πλεονέκτης, ὅ ἐστιν εἰδωλολάτρης, οὐκ ἔχει κληρονομίαν ἐν τῇ βασιλείᾳ τοῦ Χριστοῦ καὶ θεοῦ.¶"
+pericope: "[[Eph.5.1 Imitators of God|Imitators of God]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 5
+book/chapter: "[[Eph.5|Ephesians 5]]"
+chronological_order: 1115
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G6063]]"
+- "[[G1097]]"
+- "[[G3754G]]"
+- "[[G3956]]"
+- "[[G4205]]"
+- "[[G2228]]"
+- "[[G0169]]"
+- "[[G4123]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G1496]]"
+- "[[G3756]]"
+- "[[G2192]]"
+- "[[G2817]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G5547]]"
+- "[[G2532]]"
+- "[[G2316]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Ephesians 5:5**<big><big>[[Eph.5.1 Imitators of God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For this ye know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ and of God.
 <small><sub>**BSB:**</sub></small>
 For of this you can be sure: No immoral, impure, or greedy person (that is, an idolater) has any inheritance in the kingdom of Christ and of God.
-<small><sub>**Literal:**</sub></small>
-This for you should know realizing that any fornicator or unclean person or covetous man, who is an idolater, not has inheritance in the kingdom <the> of Christ and of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.4|<< Ephesians 5:4]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.6|Ephesians 5:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτο]]  [[G1063\|γὰρ]]  [[G6063\|ἴστε]]  [[G1097\|γινώσκοντες]]  [[G3754G\|ὅτι]]  [[G3956\|πᾶς]]  [[G4205\|πόρνος]]  [[G2228\|ἢ]]  [[G0169\|ἀκάθαρτος]]  [[G2228\|ἢ]]  [[G4123\|πλεονέκτης,]]  [[G3739\|ὅ]]  [[G1510\|ἐστιν]]  [[G1496\|εἰδωλολάτρης,]]  [[G3756\|οὐκ]]  [[G2192\|ἔχει]]  [[G2817\|κληρονομίαν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0932\|βασιλείᾳ]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ]]  [[G2532\|καὶ]]  [[G2316\|θεοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic HEAVEN|HEAVEN]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.4|<< Ephesians 5:4]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.6|Ephesians 5:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

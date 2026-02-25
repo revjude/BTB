@@ -1,6 +1,48 @@
+---
+title: LXX Proverbs 18:4
+type: Verse
+lxx: "A word in the heart of a man is deep water; and a river and a spring of life jump up."
+greek: "ύδωρ βαθύ λόγος εν καρδία ανδρός ποταμός δε αναπηδύει και πηγή ζωής"
+original_language: Greek
+testament: Old
+book: Proverbs
+chapter: 18
+book/chapter: "[[Prov.18|Proverbs 18]]"
+chronological_order: 473
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[G5204]]"
+- "[[G0901]]"
+- "[[G3056]]"
+- "[[G1722]]"
+- "[[G2588]]"
+- "[[G0435]]"
+- "[[G4215]]"
+- "[[G1161]]"
+- "[[G6008]]"
+- "[[G2532]]"
+- "[[G4077]]"
+- "[[G2222]]"
+---
+
 **LXX Proverbs 18:4** 
 <small><sub>**LXX:**</sub></small>
 A word in \[the\] heart of a man \[is\] deep water; and a river and a spring of life jump up. 
+<small><sub>**Greek:**</sub></small>
+[[G5204\|ύδωρ]] [[G0901\|βαθύ]] [[G3056\|λόγος]] [[G1722\|εν]] [[G2588\|καρδία]] [[G0435\|ανδρός]] [[G4215\|ποταμός]] [[G1161\|δε]] [[G6008\|αναπηδύει]] [[G2532\|και]] [[G4077\|πηγή]] [[G2222\|ζωής]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**MT:**</sub></small>
 [[Prov.18.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.18.3|<< Proverbs 18:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.18.5|Proverbs 18:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -21,6 +63,6 @@ A word in \[the\] heart of a man \[is\] deep water; and a river and a spring of 
 | and | **<big>[[G2532\|και]]</big>** |
 | a spring | **<big>[[G4077\|πηγή]]</big>** |
 | of life | **<big>[[G2222\|ζωής]]</big>** |
-[[Prov.18.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.18.3|<< Proverbs 18:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.18.5|Proverbs 18:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.18.3|<< Proverbs 18:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.18.5|Proverbs 18:5 >>]]</td></tr></table>
 
 

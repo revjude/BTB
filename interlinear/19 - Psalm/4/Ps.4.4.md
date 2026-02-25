@@ -1,8 +1,64 @@
+---
+title: Psalm 4:4
+type: Verse
+kjv: "Stand in awe, and sin not: commune with your own heart upon your bed, and be still. Selah."
+bsb: "Be angry, yet do not sin; on your bed, search your heart and be still. Selah"
+hebrew: "רִגְז֗וּ וְֽאַל־ תֶּ֫חֱטָ֥אוּ אִמְר֣וּ בִ֭לְבַבְכֶם עַֽל־ מִשְׁכַּבְכֶ֗ם וְדֹ֣מּוּ סֶֽלָה׃"
+pericope: "[[Ps.4.1 Answer Me When I Call!|Answer Me When I Call!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 4
+book/chapter: "[[Ps.4|Psalm 4]]"
+chronological_order: 339
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic HEART|HEART]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic MEDITATION|MEDITATION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SELF-EXAMINATION|SELF-EXAMINATION]]"
+strongs:
+- "[[H7264]]"
+- "[[H9002]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H2398]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H3824]]"
+- "[[H9026]]"
+- "[[H5921A]]"
+- "[[H4904]]"
+- "[[H1826H]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 4:4**<big><big>[[Ps.4.1 Answer Me When I Call!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Stand in awe, and sin not: commune with your own heart upon your bed, and be still. Selah.
 <small><sub>**BSB:**</sub></small>
 Be angry, yet do not sin; on your bed, search your heart and be still. Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H7264\|רִגְז֗וּ]] [[H9002\|וְֽ]][[H0408\|אַל]][[H9014\|־]] [[H2398\|תֶּ֫חֱטָ֥אוּ]] [[H0559\|אִמְר֣וּ]] [[H9003\|בִ֭]][[H3824\|לְבַבְ]][[H9026\|כֶם]] [[H5921A\|עַֽל]][[H9014\|־]] [[H4904\|מִשְׁכַּבְ]][[H9026\|כֶ֗ם]] [[H9002\|וְ]][[H1826H\|דֹ֣מּוּ]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic HEART|HEART]] • [[topic HOLINESS|HOLINESS]] • [[topic MEDITATION|MEDITATION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RESIGNATION|RESIGNATION]] • [[topic REVERENCE|REVERENCE]] • [[topic SELF-EXAMINATION|SELF-EXAMINATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.4.3|<< Psalms 4:3]]</td><td align="center" style="border:none;">[[Ps.4|Psalms 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.4.5|Psalms 4:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

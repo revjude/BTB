@@ -1,8 +1,53 @@
+---
+title: Proverbs 13:1
+type: Verse
+kjv: "A wise son heareth his father’s instruction: but a scorner heareth not rebuke."
+bsb: "A wise son heeds his father’s discipline, but a mocker does not listen to rebuke."
+hebrew: "בֵּ֣ן חָ֭כָם מ֣וּסַר אָ֑ב וְ֝לֵ֗ץ לֹא־ שָׁמַ֥ע גְּעָרָֽה׃"
+pericope: "[[Prov.13.1 A Father’s Discipline|A Father’s Discipline]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 13
+book/chapter: "[[Prov.13|Proverbs 13]]"
+chronological_order: 468
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic SCOFFING|SCOFFING]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H1121A]]"
+- "[[H2450]]"
+- "[[H4148G]]"
+- "[[H0001G]]"
+- "[[H9002]]"
+- "[[H3887]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H1606]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 13:1**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A wise son [heareth] his father’s instruction: but a scorner heareth not rebuke.
 <small><sub>**BSB:**</sub></small>
 A wise son heeds his father’s discipline, but a mocker does not listen to rebuke.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֵּ֣ן]] [[H2450\|חָ֭כָם]] [[H4148G\|מ֣וּסַר]] [[H0001G\|אָ֑ב]] [[H9002\|וְ֝]][[H3887\|לֵ֗ץ]] [[H3808\|לֹא]][[H9014\|־]] [[H8085G\|שָׁמַ֥ע]] [[H1606\|גְּעָרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic SCOFFING|SCOFFING]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.28|<< Proverbs 12:28]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.2|Proverbs 13:2 >>]]</td></tr></table>
 

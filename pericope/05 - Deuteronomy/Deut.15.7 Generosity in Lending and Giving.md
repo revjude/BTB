@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Generosity in Lending and Giving
+type: Pericope
 pericope: "[[Deut.15.7 Generosity in Lending and Giving|Generosity in Lending and Giving]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 15
 book/chapter: "[[Deut.15|Deuteronomy 15]]"
-genre:
+chronological_order: 211
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 5
 verses:
 - "[[Deut.15.7]]"
 - "[[Deut.15.8]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Deut.15.11]]"
 ---
 
-[[Deut.15|Deuteronomy 15:7 - Deuteronomy 15:11]]
+<small>[[Deut.15|Deuteronomy 15:7-11]]</small>
 *Generosity in Lending and Giving*
 
 [[Deut.15.7|7]] If there be among you a poor man of one of thy brethren within any of thy gates in thy land which the LORD thy God giveth thee, thou shalt not harden thine heart, nor shut thine hand from thy poor brother:

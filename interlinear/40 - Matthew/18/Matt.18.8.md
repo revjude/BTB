@@ -1,10 +1,76 @@
+---
+title: Matthew 18:8
+type: Verse
+kjv: "Wherefore if thy hand or thy foot offend thee, cut them off, and cast them from thee: it is better for thee to enter into life halt or maimed, rather than having two hands or two feet to be cast into everlasting fire."
+bsb: "If your hand or your foot causes you to sin, cut it off and throw it away. It is better for you to enter life crippled or lame than to have two hands and two feet and be thrown into the eternal fire."
+jesus_said: "Wherefore if thy hand or thy foot offend thee, cut them off, and cast them from thee: it is better for thee to enter into life halt or maimed, rather than having two hands or two feet to be cast into everlasting fire."
+greek: "εἰ δὲ ἡ χείρ σου ἢ ὁ πούς σου σκανδαλίζει σε, ἔκκοψον αὐτὸν καὶ βάλε ἀπὸ σοῦ· καλόν σοί ἐστιν εἰσελθεῖν εἰς τὴν ζωὴν κυλλὸν ἢ χωλὸν ἢ δύο χεῖρας ἢ δύο πόδας ἔχοντα βληθῆναι εἰς τὸ πῦρ τὸ αἰώνιον."
+pericope: "[[Matt.18.6 Temptations and Trespasses|Temptations and Trespasses]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 18
+book/chapter: "[[Matt.18|Matthew 18]]"
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ETERNITY|ETERNITY]]"
+- "[[topic FIRE|FIRE]]"
+- "[[topic FOOT|FOOT]]"
+- "[[topic HAND|HAND]]"
+- "[[topic HELL|HELL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G4771]]"
+- "[[G2228]]"
+- "[[G4228]]"
+- "[[G4624]]"
+- "[[G1581]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G0906G]]"
+- "[[G0575]]"
+- "[[G2570G]]"
+- "[[G1510]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G2222]]"
+- "[[G2948]]"
+- "[[G5560]]"
+- "[[G1417]]"
+- "[[G2192]]"
+- "[[G4442]]"
+- "[[G0166]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Matthew 18:8**<big><big>[[Matt.18.6 Temptations and Trespasses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore if thy hand or thy foot offend thee, cut them off, and cast [them] from thee: it is better for thee to enter into life halt or maimed, rather than having two hands or two feet to be cast into everlasting fire.
 <small><sub>**BSB:**</sub></small>
 If your hand or your foot causes you to sin, cut it off and throw it away. It is better for you to enter life crippled or lame than to have two hands and two feet and be thrown into the eternal fire.
-<small><sub>**Literal:**</sub></small>
-If now the hand of you or the foot of you causes to sin you, do cut off it and do cast [it] from you; better for you it is to enter into <the> life crippled or lame than two hands or two feet having to be cast into the fire <the> eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.7|<< Matthew 18:7]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.9|Matthew 18:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G3588\|ἡ]]  [[G5495\|χείρ]]  [[G4771\|σου]]  [[G2228\|ἢ]]  [[G3588\|ὁ]]  [[G4228\|πούς]]  [[G4771\|σου]]  [[G4624\|σκανδαλίζει]]  [[G4771\|σε,]]  [[G1581\|ἔκκοψον]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G0906G\|βάλε]]  [[G0575\|ἀπὸ]]  [[G4771\|σοῦ·]]  [[G2570G\|καλόν]]  [[G4771\|σοί]]  [[G1510\|ἐστιν]]  [[G1525\|εἰσελθεῖν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2222\|ζωὴν]]  [[G2948\|κυλλὸν]]  [[G2228\|ἢ]]  [[G5560\|χωλὸν]]  [[G2228\|ἢ]]  [[G1417\|δύο]]  [[G5495\|χεῖρας]]  [[G2228\|ἢ]]  [[G1417\|δύο]]  [[G4228\|πόδας]]  [[G2192\|ἔχοντα]]  [[G0906G\|βληθῆναι]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4442\|πῦρ]]  [[G3588\|τὸ]]  [[G0166\|αἰώνιον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ETERNITY|ETERNITY]] • [[topic FIRE|FIRE]] • [[topic FOOT|FOOT]] • [[topic HAND|HAND]] • [[topic HELL|HELL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.7|<< Matthew 18:7]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.9|Matthew 18:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

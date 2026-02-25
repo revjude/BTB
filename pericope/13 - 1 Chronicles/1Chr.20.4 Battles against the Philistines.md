@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Battles against the Philistines
+type: Pericope
 pericope: "[[1Chr.20.4 Battles against the Philistines|Battles against the Philistines]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 20
 book/chapter: "[[1Chr.20|1 Chronicles 20]]"
-genre:
+chronological_order: 407
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 5
 verses:
 - "[[1Chr.20.4]]"
 - "[[1Chr.20.5]]"
@@ -23,7 +30,7 @@ verses:
 - "[[1Chr.20.8]]"
 ---
 
-[[1Chr.20|1 Chronicles 20:4 - 1 Chronicles 20:8]]
+<small>[[1Chr.20|1 Chronicles 20:4-8]]</small>
 *Battles against the Philistines*
 
 [[1Chr.20.4|4]] And it came to pass after this, that there arose war at Gezer with the Philistines; at which time Sibbechai the Hushathite slew Sippai, \[that was\] of the children of the giant: and they were subdued.

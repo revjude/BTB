@@ -1,8 +1,57 @@
+---
+title: Jeremiah 48:31
+type: Verse
+kjv: "Therefore will I howl for Moab, and I will cry out for all Moab; mine heart shall mourn for the men of Kirheres."
+bsb: "Therefore I will wail for Moab; I will cry out for all of Moab; I will moan for the men of Kir-heres."
+hebrew: "עַל־ כֵּן֙ עַל־ מוֹאָ֣ב אֲיֵלִ֔יל וּלְמוֹאָ֥ב כֻּלֹּ֖ה אֶזְעָ֑ק אֶל־ אַנְשֵׁ֥י קִֽיר־ חֶ֖רֶשׂ יֶהְגֶּֽה׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic KIR-HARASETH|KIR-HARASETH]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H4124G]]"
+- "[[H3213]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9023]]"
+- "[[H2199]]"
+- "[[H0413]]"
+- "[[H0582]]"
+- "[[H7025]]"
+- "[[H1897]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 48:31**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore will I howl for Moab, and I will cry out for all Moab; [mine heart] shall mourn for the men of Kirheres.
 <small><sub>**BSB:**</sub></small>
 Therefore I will wail for Moab; I will cry out for all of Moab; I will moan for the men of Kir-heres.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּן֙]] [[H5921A\|עַל]][[H9014\|־]] [[H4124G\|מוֹאָ֣ב]] [[H3213\|אֲיֵלִ֔יל]] [[H9002\|וּ]][[H9005\|לְ]][[H4124G\|מוֹאָ֥ב]] [[H3605\|כֻּלֹּ֖]][[H9023\|ה]] [[H2199\|אֶזְעָ֑ק]] [[H0413\|אֶל]][[H9014\|־]] [[H0582\|אַנְשֵׁ֥י]] [[H7025\|קִֽיר]][[H9014\|־]] [[H7025\|חֶ֖רֶשׂ]] [[H1897\|יֶהְגֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KIR-HARASETH|KIR-HARASETH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.30|<< Jeremiah 48:30]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.32|Jeremiah 48:32 >>]]</td></tr></table>
 

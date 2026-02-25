@@ -1,10 +1,58 @@
+---
+title: John 19:25
+type: Verse
+kjv: "Now there stood by the cross of Jesus his mother, and his mother’s sister, Mary the wife of Cleophas, and Mary Magdalene."
+bsb: "Near the cross of Jesus stood His mother and her sister, as well as Mary the wife of Clopas and Mary Magdalene."
+greek: "Εἱστήκεισαν δὲ παρὰ τῷ σταυρῷ τοῦ Ἰησοῦ ἡ μήτηρ αὐτοῦ καὶ ἡ ἀδελφὴ τῆς μητρὸς αὐτοῦ, Μαρία ἡ τοῦ Κλωπᾶ καὶ Μαρία ἡ Μαγδαληνή.¶"
+pericope: "[[John.19.16 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CLEOPHAS|CLEOPHAS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARY|MARY]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[G2476]]"
+- "[[G1161]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G4716]]"
+- "[[G2424G]]"
+- "[[G3384]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G0079]]"
+- "[[G3137K]]"
+- "[[G2832]]"
+- "[[G3137I]]"
+- "[[G3094]]"
+texts:
+- NKO
+---
+
 **John 19:25**<big><big>[[John.19.16 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now there stood by the cross of Jesus his mother, and his mother’s sister, Mary the [wife] of Cleophas, and Mary Magdalene.
 <small><sub>**BSB:**</sub></small>
 Near the cross of Jesus stood His mother and her sister, as well as Mary the wife of Clopas and Mary Magdalene.
-<small><sub>**Literal:**</sub></small>
-Had been standing however by the cross <the> of Jesus the mother of Him and the sister of the mother of Him, Mary the [wife] <the> of Clopas and Mary <the> Magdalene.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.24|<< John 19:24]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.26|John 19:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2476\|Εἱστήκεισαν]]  [[G1161\|δὲ]]  [[G3844\|παρὰ]]  [[G3588\|τῷ]]  [[G4716\|σταυρῷ]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G3588\|ἡ]]  [[G3384\|μήτηρ]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G0079\|ἀδελφὴ]]  [[G3588\|τῆς]]  [[G3384\|μητρὸς]]  [[G0846\|αὐτοῦ,]]  [[G3137K\|Μαρία]]  [[G3588\|ἡ]]  [[G3588\|τοῦ]]  [[G2832\|Κλωπᾶ]]  [[G2532\|καὶ]]  [[G3137I\|Μαρία]]  [[G3588\|ἡ]]  [[G3094\|Μαγδαληνή.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLEOPHAS|CLEOPHAS]] • [[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARY|MARY]] • [[topic PARENTS|PARENTS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.24|<< John 19:24]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.26|John 19:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,52 @@
+---
+title: Job 42:13
+type: Verse
+kjv: "He had also seven sons and three daughters."
+bsb: "And he also had seven sons and three daughters."
+hebrew: "וַֽיְהִי־ ל֛וֹ שִׁבְעָ֥נָה בָנִ֖ים וְשָׁל֥וֹשׁ בָּנֽוֹת׃"
+pericope: "[[Job.42.10 The LORD Blesses Job|The LORD Blesses Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 42
+book/chapter: "[[Job.42|Job 42]]"
+chronological_order: 53
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic JOB|JOB]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H7658]]"
+- "[[H1121A]]"
+- "[[H9002]]"
+- "[[H7969]]"
+- "[[H1323G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 42:13**<big><big>[[Job.42.10 The LORD Blesses Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He had also seven sons and three daughters.
 <small><sub>**BSB:**</sub></small>
 And he also had seven sons and three daughters.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי]][[H9014\|־]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H7658\|שִׁבְעָ֥נָה]] [[H1121A\|בָנִ֖ים]] [[H9002\|וְ]][[H7969\|שָׁל֥וֹשׁ]] [[H1323G\|בָּנֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOB|JOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.42.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.42.12|<< Job 42:12]]</td><td align="center" style="border:none;">[[Job.42|Job 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.14|Job 42:14 >>]]</td></tr></table>
 

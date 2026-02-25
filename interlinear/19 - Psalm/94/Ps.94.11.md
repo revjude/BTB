@@ -1,8 +1,58 @@
+---
+title: Psalm 94:11
+type: Verse
+kjv: "The LORD knoweth the thoughts of man, that they are vanity."
+bsb: "The LORD knows the thoughts of man, that they are futile."
+hebrew: "יְֽהוָ֗ה יֹ֭דֵעַ מַחְשְׁב֣וֹת אָדָ֑ם כִּי־ הֵ֥מָּה הָֽבֶל׃"
+pericope: "[[Ps.94.1 The LORD Will Not Forget His People|The LORD Will Not Forget His People]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 94
+book/chapter: "[[Ps.94|Psalm 94]]"
+chronological_order: 521
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic VANITY|VANITY]]"
+strongs:
+- "[[H3068G]]"
+- "[[H3045]]"
+- "[[H4284]]"
+- "[[H0120G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1992]]"
+- "[[H1892]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 94:11**<big><big>[[Ps.94.1 The LORD Will Not Forget His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD knoweth the thoughts of man, that they [are] vanity.
 <small><sub>**BSB:**</sub></small>
 The LORD knows the thoughts of man, that they are futile.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְֽהוָ֗ה]] [[H3045\|יֹ֭דֵעַ]] [[H4284\|מַחְשְׁב֣וֹת]] [[H0120G\|אָדָ֑ם]] [[H3588A\|כִּי]][[H9014\|־]] [[H1992\|הֵ֥מָּה]] [[H1892\|הָֽבֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SIN|SIN]] • [[topic VANITY|VANITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.94.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.94.10|<< Psalms 94:10]]</td><td align="center" style="border:none;">[[Ps.94|Psalms 94]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.94.12|Psalms 94:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

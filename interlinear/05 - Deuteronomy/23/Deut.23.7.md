@@ -1,8 +1,65 @@
+---
+title: Deuteronomy 23:7
+type: Verse
+kjv: "Thou shalt not abhor an Edomite; for he is thy brother: thou shalt not abhor an Egyptian; because thou wast a stranger in his land."
+bsb: "Do not despise an Edomite, for he is your brother. Do not despise an Egyptian, because you lived as a foreigner in his land."
+hebrew: "לֹֽא־ תְתַעֵ֣ב אֲדֹמִ֔י כִּ֥י אָחִ֖יךָ ה֑וּא ס לֹא־ תְתַעֵ֣ב מִצְרִ֔י כִּי־ גֵ֖ר הָיִ֥יתָ בְאַרְצֽוֹ׃"
+pericope: "[[Deut.23.1 Exclusion from the Congregation|Exclusion from the Congregation]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 23
+book/chapter: "[[Deut.23|Deuteronomy 23]]"
+chronological_order: 219
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ALIENS|ALIENS]]"
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic STRANGERS|STRANGERS]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H8581]]"
+- "[[H0130]]"
+- "[[H3588A]]"
+- "[[H0251I]]"
+- "[[H9021]]"
+- "[[H1931]]"
+- "[[H9018]]"
+- "[[H4713]]"
+- "[[H1616]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 23:7**<big><big>[[Deut.23.1 Exclusion from the Congregation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not abhor an Edomite; for he [is] thy brother: thou shalt not abhor an Egyptian; because thou wast a stranger in his land.
 <small><sub>**BSB:**</sub></small>
 Do not despise an Edomite, for he is your brother. Do not despise an Egyptian, because you lived as a foreigner in his land.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H8581\|תְתַעֵ֣ב]] [[H0130\|אֲדֹמִ֔י]] [[H3588A\|כִּ֥י]] [[H0251I\|אָחִ֖י]][[H9021\|ךָ]] [[H1931\|ה֑וּא]] [[H9018\|ס]] [[H3808\|לֹא]][[H9014\|־]] [[H8581\|תְתַעֵ֣ב]] [[H4713\|מִצְרִ֔י]] [[H3588A\|כִּי]][[H9014\|־]] [[H1616\|גֵ֖ר]] [[H1961\|הָיִ֥יתָ]] [[H9003\|בְ]][[H0776G\|אַרְצֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALIENS|ALIENS]] • [[topic BROTHER|BROTHER]] • [[topic EDOMITES|EDOMITES]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic STRANGERS|STRANGERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.6|<< Deuteronomy 23:6]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.8|Deuteronomy 23:8 >>]]</td></tr></table>
 
@@ -13,7 +70,7 @@ Do not despise an Edomite, for he is your brother. Do not despise an Egyptian, b
 | an Edomite  |**<big>&#8207;[[H0130\|אֲדֹמִ֔י]]&#8207; </big>**| 'a.do.Mi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] relative your  |**<big>&#8207;[[H0251I\|אָחִ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'a.Chi.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he  |**<big>&#8207;[[H1931\|ה֑וּא]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|ה֑וּא]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will abhor  |**<big>&#8207;[[H8581\|תְתַעֵ֣ב]]&#8207; </big>**| te.ta.'Ev<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | an Egyptian  |**<big>&#8207;[[H4713\|מִצְרִ֔י]]&#8207; </big>**| mitz.Ri<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

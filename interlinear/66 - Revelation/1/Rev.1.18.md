@@ -1,10 +1,66 @@
+---
+title: Revelation 1:18
+type: Verse
+kjv: "I am he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death."
+bsb: "the Living One. I was dead, and behold, now I am alive forever and ever! And I hold the keys of Death and of Hades."
+jesus_said: "I am he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death."
+greek: "καὶ ὁ ζῶν, καὶ ἐγενόμην νεκρὸς καὶ ἰδοὺ ζῶν εἰμι εἰς τοὺς αἰῶνας τῶν αἰώνων ἀμήν καὶ ἔχω τὰς κλεῖς τοῦ θανάτου καὶ τοῦ ᾅδου."
+pericope: "[[Rev.1.9 John’s Vision on Patmos|John’s Vision on Patmos]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 1
+book/chapter: "[[Rev.1|Revelation 1]]"
+chronological_order: 1168
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic AMEN|AMEN]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HADES|HADES]]"
+- "[[topic HELL|HELL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KEY|KEY]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2198]]"
+- "[[G1096]]"
+- "[[G3498]]"
+- "[[G2400]]"
+- "[[G1510]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+- "[[G0281]]"
+- "[[G2192]]"
+- "[[G2807]]"
+- "[[G2288]]"
+- "[[G0086]]"
+texts:
+- NKO
+- K
+---
+
 **Revelation 1:18**<big><big>[[Rev.1.9 John’s Vision on Patmos|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [I am] he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death.
 <small><sub>**BSB:**</sub></small>
 the Living One. I was dead, and behold, now I am alive forever and ever! And I hold the keys of Death and of Hades.
-<small><sub>**Literal:**</sub></small>
-and the Living [One], and I was dead and behold living I am to the ages of the ages Amen and I have the keys <the> of Death and <the> of Hades.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.17|<< Revelation 1:17]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.19|Revelation 1:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2198\|ζῶν,]]  [[G2532\|καὶ]]  [[G1096\|ἐγενόμην]]  [[G3498\|νεκρὸς]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G2198\|ζῶν]]  [[G1510\|εἰμι]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G0165H\|αἰῶνας]]  [[G3588\|τῶν]]  [[G0165H\|αἰώνων]]  [[G0281\|ἀμήν]]  [[G2532\|καὶ]]  [[G2192\|ἔχω]]  [[G3588\|τὰς]]  [[G2807\|κλεῖς]]  [[G3588\|τοῦ]]  [[G2288\|θανάτου]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G0086\|ᾅδου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMEN|AMEN]] • [[topic DEATH|DEATH]] • [[topic HADES|HADES]] • [[topic HELL|HELL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KEY|KEY]] • [[topic LIFE|LIFE]] • [[topic RESURRECTION|RESURRECTION]] • [[topic VISION|VISION]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.17|<< Revelation 1:17]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.19|Revelation 1:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

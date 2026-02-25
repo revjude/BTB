@@ -1,8 +1,58 @@
+---
+title: Daniel 8:14
+type: Verse
+kjv: "And he said unto me, Unto two thousand and three hundred days; then shall the sanctuary be cleansed."
+bsb: "He said to me, “It will take 2,300 evenings and mornings; then the sanctuary will be properly restored.”"
+hebrew: "וַיֹּ֣אמֶר אֵלַ֔י עַ֚ד עֶ֣רֶב בֹּ֔קֶר אַלְפַּ֖יִם וּשְׁלֹ֣שׁ מֵא֑וֹת וְנִצְדַּ֖ק קֹֽדֶשׁ׃"
+pericope: "[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|Daniel’s Vision of the Ram and the Goat]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 8
+book/chapter: "[[Dan.8|Daniel 8]]"
+chronological_order: 844
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DAY|DAY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H5704]]"
+- "[[H6153]]"
+- "[[H1242]]"
+- "[[H0505G]]"
+- "[[H9002]]"
+- "[[H7969]]"
+- "[[H3967]]"
+- "[[H6663]]"
+- "[[H6944G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 8:14**<big><big>[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto me, Unto two thousand and three hundred days; then shall the sanctuary be cleansed.
 <small><sub>**BSB:**</sub></small>
 He said to me, “It will take 2,300 evenings and mornings; then the sanctuary will be properly restored.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H5704\|עַ֚ד]] [[H6153\|עֶ֣רֶב]] [[H1242\|בֹּ֔קֶר]] [[H0505G\|אַלְפַּ֖יִם]] [[H9002\|וּ]][[H7969\|שְׁלֹ֣שׁ]] [[H3967\|מֵא֑וֹת]] [[H9001\|וְ]][[H6663\|נִצְדַּ֖ק]] [[H6944G\|קֹֽדֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CHURCH|CHURCH]] • [[topic DAY|DAY]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.13|<< Daniel 8:13]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.15|Daniel 8:15 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Psalm 77:19
+type: Verse
+kjv: "Thy way is in the sea, and thy path in the great waters, and thy footsteps are not known."
+bsb: "Your path led through the sea, Your way through the mighty waters, but Your footprints were not to be found."
+hebrew: "בַּיָּ֤ם דַּרְכֶּ֗ךָ וּֽ֭שְׁבִֽילְךָ בְּמַ֣יִם רַבִּ֑ים וְ֝עִקְּבוֹתֶ֗יךָ לֹ֣א נֹדָֽעוּ׃"
+pericope: "[[Ps.77.1 In the Day of Trouble I Sought the Lord|In the Day of Trouble I Sought the Lord]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 77
+book/chapter: "[[Ps.77|Psalm 77]]"
+chronological_order: 509
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9003]]"
+- "[[H3220G]]"
+- "[[H1870L]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H7635]]"
+- "[[H4325G]]"
+- "[[H7227A]]"
+- "[[H6119]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Psalms 77:19**<big><big>[[Ps.77.1 In the Day of Trouble I Sought the Lord|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy way [is] in the sea, and thy path in the great waters, and thy footsteps are not known.
 <small><sub>**BSB:**</sub></small>
 Your path led through the sea, Your way through the mighty waters, but Your footprints were not to be found.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3220G\|יָּ֤ם]] [[H1870L\|דַּרְכֶּ֗]][[H9021\|ךָ]] [[H9002\|וּֽ֭]][[H7635\|שְׁבִֽילְ]][[H9021\|ךָ]] [[H9003\|בְּ]][[H4325G\|מַ֣יִם]] [[H7227A\|רַבִּ֑ים]] [[H9002\|וְ֝]][[H6119\|עִקְּבוֹתֶ֗י]][[H9021\|ךָ]] [[H3808\|לֹ֣א]] [[H3045\|נֹדָֽעוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.77.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.77.18|<< Psalms 77:18]]</td><td align="center" style="border:none;">[[Ps.77|Psalms 77]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.77.20|Psalms 77:20 >>]]</td></tr></table>
 
@@ -18,8 +67,8 @@ Your path led through the sea, Your way through the mighty waters, but Your foot
 | they were known  |**<big>&#8207;[[H3045\|נֹדָֽעוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| no.Da.'u<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.77.18|<< Psalms 77:18]]</td><td align="center" style="border:none;">[[Ps.77|Psalms 77]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.77.20|Psalms 77:20 >>]]</td></tr></table>
 
-[^1]: and paths your  | **<big>[[H9021|ךָ]]</big><big>[[H7635|שְׁבִילֶי]]</big><big>[[H9002|וּ]]</big> ** | U.<small><sup>[[HC]]</sup></small> she.vi.le.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
-[^2]: and paths your  | **<big>[[H9021|ךָ]]</big><big>[[H7635|שְׁבִילֶי]]</big><big>[[H9002|וּ]]</big> ** | U.<small><sup>[[HC]]</sup></small> she.vi.le.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
-[^3]: and paths your  | **<big>[[H9021|ךָ]]</big><big>[[H7635|שְׁבִילֶי]]</big><big>[[H9002|וּ]]</big> ** | U.<small><sup>[[HC]]</sup></small> she.vi.le.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^1]: and paths your  | **<big>[[H9002|וּ]]</big><big>[[H7635|שְׁבִילֶי]]</big><big>[[H9021|ךָ]]</big> ** | U.<small><sup>[[HC]]</sup></small> she.vi.le.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: and paths your  | **<big>[[H9002|וּ]]</big><big>[[H7635|שְׁבִילֶי]]</big><big>[[H9021|ךָ]]</big> ** | U.<small><sup>[[HC]]</sup></small> she.vi.le.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^3]: and paths your  | **<big>[[H9002|וּ]]</big><big>[[H7635|שְׁבִילֶי]]</big><big>[[H9021|ךָ]]</big> ** | U.<small><sup>[[HC]]</sup></small> she.vi.le.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>וּֽ֭שְׁבִֽילְי/ךָ</big></span>**
 

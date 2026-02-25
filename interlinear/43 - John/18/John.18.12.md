@@ -1,10 +1,54 @@
+---
+title: John 18:12
+type: Verse
+kjv: "Then the band and the captain and officers of the Jews took Jesus, and bound him,"
+bsb: "Then the band of soldiers, with its commander and the officers of the Jews, arrested Jesus and bound Him."
+greek: "Ἡ οὖν σπεῖρα καὶ ὁ χιλίαρχος καὶ οἱ ὑπηρέται τῶν Ἰουδαίων συνέλαβον τὸν Ἰησοῦν καὶ ἔδησαν αὐτὸν"
+pericope: "[[John.18.1 The Betrayal of Jesus|The Betrayal of Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ARREST|ARREST]]"
+- "[[topic CAPTAIN|CAPTAIN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G3588]]"
+- "[[G3767]]"
+- "[[G4686]]"
+- "[[G2532]]"
+- "[[G5506]]"
+- "[[G5257]]"
+- "[[G2453]]"
+- "[[G4815]]"
+- "[[G2424G]]"
+- "[[G1210]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **John 18:12**<big><big>[[John.18.1 The Betrayal of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then the band and the captain and officers of the Jews took Jesus, and bound him,
 <small><sub>**BSB:**</sub></small>
 Then the band of soldiers, with its commander and the officers of the Jews, arrested Jesus and bound Him.
-<small><sub>**Literal:**</sub></small>
-<the> Then the cohort and the commander and the officers of the Jews took hold of <the> Jesus and bound Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.11|<< John 18:11]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.13|John 18:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ἡ]]  [[G3767\|οὖν]]  [[G4686\|σπεῖρα]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G5506\|χιλίαρχος]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G5257\|ὑπηρέται]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων]]  [[G4815\|συνέλαβον]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G2532\|καὶ]]  [[G1210\|ἔδησαν]]  [[G0846\|αὐτὸν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARREST|ARREST]] • [[topic CAPTAIN|CAPTAIN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.11|<< John 18:11]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.13|John 18:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

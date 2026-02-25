@@ -1,8 +1,68 @@
+---
+title: Isaiah 8:19
+type: Verse
+kjv: "And when they shall say unto you, Seek unto them that have familiar spirits, and unto wizards that peep, and that mutter: should not a people seek unto their God? for the living to the dead?"
+bsb: "When men tell you to consult mediums and spiritists who whisper and mutter, shouldn’t a people consult their God instead? Why consult the dead on behalf of the living?"
+hebrew: "וְכִֽי־ יֹאמְר֣וּ אֲלֵיכֶ֗ם דִּרְשׁ֤וּ אֶל־ הָאֹבוֹת֙ וְאֶל־ הַיִּדְּעֹנִ֔ים הַֽמְצַפְצְפִ֖ים וְהַמַּהְגִּ֑ים הֲלוֹא־ עַם֙ אֶל־ אֱלֹהָ֣יו יִדְרֹ֔שׁ בְּעַ֥ד הַחַיִּ֖ים אֶל־ הַמֵּתִֽים׃"
+pericope: "[[Isa.8.19 Darkness and Light|Darkness and Light]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 8
+book/chapter: "[[Isa.8|Isaiah 8]]"
+chronological_order: 618
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NECROMANCY|NECROMANCY]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic SORCERY|SORCERY]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9036]]"
+- "[[H1875]]"
+- "[[H9009]]"
+- "[[H0178]]"
+- "[[H3049]]"
+- "[[H6850]]"
+- "[[H1897]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H5971A]]"
+- "[[H0430G]]"
+- "[[H9023]]"
+- "[[H1157]]"
+- "[[H2416A]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 8:19**<big><big>[[Isa.8.19 Darkness and Light|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they shall say unto you, Seek unto them that have familiar spirits, and unto wizards that peep, and that mutter: should not a people seek unto their God? for the living to the dead?
 <small><sub>**BSB:**</sub></small>
 When men tell you to consult mediums and spiritists who whisper and mutter, shouldn’t a people consult their God instead? Why consult the dead on behalf of the living?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H0559\|יֹאמְר֣וּ]] [[H0413\|אֲלֵי]][[H9036\|כֶ֗ם]] [[H1875\|דִּרְשׁ֤וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0178\|אֹבוֹת֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3049\|יִּדְּעֹנִ֔ים]] [[H9009\|הַֽ]][[H6850\|מְצַפְצְפִ֖ים]] [[H9002\|וְ]][[H9009\|הַ]][[H1897\|מַּהְגִּ֑ים]] [[H9008\|הֲ]][[H3808\|לוֹא]][[H9014\|־]] [[H5971A\|עַם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0430G\|אֱלֹהָ֣י]][[H9023\|ו]] [[H1875\|יִדְרֹ֔שׁ]] [[H1157\|בְּעַ֥ד]] [[H9009\|הַ]][[H2416A\|חַיִּ֖ים]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4191\|מֵּתִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NECROMANCY|NECROMANCY]] • [[topic SEEKERS|SEEKERS]] • [[topic SORCERY|SORCERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.8.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.8.18|<< Isaiah 8:18]]</td><td align="center" style="border:none;">[[Isa.8|Isaiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.8.20|Isaiah 8:20 >>]]</td></tr></table>
 

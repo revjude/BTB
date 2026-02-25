@@ -1,10 +1,74 @@
+---
+title: Acts 15:24
+type: Verse
+kjv: "Forasmuch as we have heard, that certain which went out from us have troubled you with words, subverting your souls, saying, Ye must be circumcised, and keep the law: to whom we gave no such commandment:"
+bsb: "It has come to our attention that some went out from us without our authorization and unsettled you, troubling your minds by what they said."
+greek: "Ἐπειδὴ ἠκούσαμεν ὅτι τινὲς ἐξ ἡμῶν ἐξελθόντες ἐτάραξαν ὑμᾶς λόγοις ἀνασκευάζοντες τὰς ψυχὰς ὑμῶν λέγοντες περιτέμνεσθαι καὶ τηρεῖν τὸν νόμον, οἷς οὐ διεστειλάμεθα,"
+pericope: "[[Acts.15.22 The Letter to the Gentile Believers|The Letter to the Gentile Believers]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic EPISTLES|EPISTLES]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic HERESY|HERESY]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic LAW|LAW]]"
+- "[[topic SILAS|SILAS]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G1894]]"
+- "[[G0191]]"
+- "[[G3754G]]"
+- "[[G5100]]"
+- "[[G1537]]"
+- "[[G3165]]"
+- "[[G1831]]"
+- "[[G5015]]"
+- "[[G4771]]"
+- "[[G3056]]"
+- "[[G0384]]"
+- "[[G3588]]"
+- "[[G5590G]]"
+- "[[G3004G]]"
+- "[[G4059]]"
+- "[[G2532]]"
+- "[[G5083H]]"
+- "[[G3551]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1291]]"
+texts:
+- NKO
+- K
+---
+
 **Acts 15:24**<big><big>[[Acts.15.22 The Letter to the Gentile Believers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Forasmuch as we have heard, that certain which went out from us have troubled you with words, subverting your souls, saying, [Ye must] be circumcised, and keep the law: to whom we gave no [such] commandment:
 <small><sub>**BSB:**</sub></small>
 It has come to our attention that some went out from us without our authorization and unsettled you, troubling your minds by what they said.
-<small><sub>**Literal:**</sub></small>
-Inasmuch as we have heard that some from us went out troubled you by words upsetting the minds of you saying to be circumcised and to keep the law to whom not we had given instructions,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.23|<< Acts 15:23]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.25|Acts 15:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1894\|Ἐπειδὴ]]  [[G0191\|ἠκούσαμεν]]  [[G3754G\|ὅτι]]  [[G5100\|τινὲς]]  [[G1537\|ἐξ]]  [[G3165\|ἡμῶν]]  [[G1831\|ἐξελθόντες]]  [[G5015\|ἐτάραξαν]]  [[G4771\|ὑμᾶς]]  [[G3056\|λόγοις]]  [[G0384\|ἀνασκευάζοντες]]  [[G3588\|τὰς]]  [[G5590G\|ψυχὰς]]  [[G4771\|ὑμῶν]]  [[G3004G\|λέγοντες]]  [[G4059\|περιτέμνεσθαι]]  [[G2532\|καὶ]]  [[G5083H\|τηρεῖν]]  [[G3588\|τὸν]]  [[G3551\|νόμον,]]  [[G3739\|οἷς]]  [[G3756\|οὐ]]  [[G1291\|διεστειλάμεθα,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic CHURCH|CHURCH]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COUNCIL|COUNCIL]] • [[topic DOCTRINES|DOCTRINES]] • [[topic ELDER|ELDER]] • [[topic EPISTLES|EPISTLES]] • [[topic GENTILES|GENTILES]] • [[topic HERESY|HERESY]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic LAW|LAW]] • [[topic SILAS|SILAS]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.23|<< Acts 15:23]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.25|Acts 15:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

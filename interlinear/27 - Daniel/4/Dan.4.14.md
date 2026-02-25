@@ -1,8 +1,71 @@
+---
+title: Daniel 4:14
+type: Verse
+kjv: "He cried aloud, and said thus, Hew down the tree, and cut off his branches, shake off his leaves, and scatter his fruit: let the beasts get away from under it, and the fowls from his branches:"
+bsb: "He called out in a loud voice: ‘Cut down the tree and chop off its branches; strip off its leaves and scatter its fruit. Let the beasts flee from under it, and the birds from its branches."
+aramaic: "קָרֵ֨א בְחַ֜יִל וְכֵ֣ן אָמַ֗ר גֹּ֤דּוּ אִֽילָנָא֙ וְקַצִּ֣צוּ עַנְפ֔וֹהִי אַתַּ֥רוּ עָפְיֵ֖הּ וּבַדַּ֣רוּ אִנְבֵּ֑הּ תְּנֻ֤ד חֵֽיוְתָא֙ מִן־ תַּחְתּ֔וֹהִי וְצִפְּרַיָּ֖א מִן־ עַנְפֽוֹהִי׃"
+pericope: "[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|Nebuchadnezzar’s Dream of a Great Tree]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 4
+book/chapter: "[[Dan.4|Daniel 4]]"
+chronological_order: 789
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic BRANCH|BRANCH]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7123]]"
+- "[[H9003]]"
+- "[[H2429]]"
+- "[[H9002]]"
+- "[[H3652]]"
+- "[[H0560]]"
+- "[[H1414]]"
+- "[[H0363]]"
+- "[[H9010]]"
+- "[[H7113]]"
+- "[[H6056]]"
+- "[[H9023]]"
+- "[[H5426]]"
+- "[[H6074]]"
+- "[[H0921]]"
+- "[[H0004]]"
+- "[[H5111]]"
+- "[[H2423]]"
+- "[[H4481]]"
+- "[[H9014]]"
+- "[[H8460]]"
+- "[[H9033]]"
+- "[[H6853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 4:14**<big><big>[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He cried aloud, and said thus, Hew down the tree, and cut off his branches, shake off his leaves, and scatter his fruit: let the beasts get away from under it, and the fowls from his branches:
 <small><sub>**BSB:**</sub></small>
 He called out in a loud voice: ‘Cut down the tree and chop off its branches; strip off its leaves and scatter its fruit. Let the beasts flee from under it, and the birds from its branches.
+<small><sub>**Aramaic:**</sub></small>
+[[H7123\|קָרֵ֨א]] [[H9003\|בְ]][[H2429\|חַ֜יִל]] [[H9002\|וְ]][[H3652\|כֵ֣ן]] [[H0560\|אָמַ֗ר]] [[H1414\|גֹּ֤דּוּ]] [[H0363\|אִֽילָנָ]][[H9010\|א֙]] [[H9002\|וְ]][[H7113\|קַצִּ֣צוּ]] [[H6056\|עַנְפ֔וֹ]][[H9023\|הִי]] [[H5426\|אַתַּ֥רוּ]] [[H6074\|עָפְיֵ֖]][[H9023\|הּ]] [[H9002\|וּ]][[H0921\|בַדַּ֣רוּ]] [[H0004\|אִנְבֵּ֑]][[H9023\|הּ]] [[H5111\|תְּנֻ֤ד]] [[H2423\|חֵֽיוְתָ]][[H9010\|א֙]] [[H4481\|מִן]][[H9014\|־]] [[H8460\|תַּחְתּ֔וֹ]][[H9033\|הִי]] [[H9002\|וְ]][[H6853\|צִפְּרַיָּ֖]][[H9010\|א]] [[H4481\|מִן]][[H9014\|־]] [[H6056\|עַנְפֽוֹ]][[H9023\|הִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic BABYLON|BABYLON]] • [[topic BRANCH|BRANCH]] • [[topic CONVERTS|CONVERTS]] • [[topic HEATHEN|HEATHEN]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.13|<< Daniel 4:13]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.15|Daniel 4:15 >>]]</td></tr></table>
 

@@ -1,8 +1,86 @@
+---
+title: 2 Chronicles 36:23
+type: Verse
+kjv: "Thus saith Cyrus king of Persia, All the kingdoms of the earth hath the LORD God of heaven given me; and he hath charged me to build him an house in Jerusalem, which is in Judah. Who is there among you of all his people? The LORD his God be with him, and let him go up."
+bsb: "“This is what Cyrus king of Persia says: ‘The LORD, the God of heaven, who has given me all the kingdoms of the earth, has appointed me to build a house for Him at Jerusalem in Judah. Whoever among you belongs to His people, may the LORD his God be with him, and may he go up.’”"
+hebrew: "כֹּה־ אָמַ֞ר כּ֣וֹרֶשׁ׀ מֶ֣לֶךְ פָּרַ֗ס כָּל־ מַמְלְכ֤וֹת הָאָ֙רֶץ֙ נָ֣תַן לִ֗י יְהוָה֙ אֱלֹהֵ֣י הַשָּׁמַ֔יִם וְהֽוּא־ פָקַ֤ד עָלַי֙ לִבְנֽוֹת־ ל֣וֹ בַ֔יִת בִּירוּשָׁלִַ֖ם אֲשֶׁ֣ר בִּֽיהוּדָ֑ה מִֽי־ בָכֶ֣ם מִכָּל־ עַמּ֗וֹ יְהוָ֧ה אֱלֹהָ֛יו עִמּ֖וֹ וְיָֽעַל׃"
+pericope: "[[2Chr.36.22 The Proclamation of Cyrus|The Proclamation of Cyrus]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 36
+book/chapter: "[[2Chr.36|2 Chronicles 36]]"
+chronological_order: 743
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~609–586 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic CYRUS|CYRUS]]"
+- "[[topic EMANCIPATION|EMANCIPATION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic PROCLAMATION|PROCLAMATION]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3566]]"
+- "[[H9015]]"
+- "[[H4428G]]"
+- "[[H6539]]"
+- "[[H3605]]"
+- "[[H4467]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H6485J]]"
+- "[[H5921A]]"
+- "[[H1129]]"
+- "[[H9033]]"
+- "[[H1004B]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H0834A]]"
+- "[[H3063G]]"
+- "[[H4310]]"
+- "[[H9036]]"
+- "[[H9006]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H5973A]]"
+- "[[H5927G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 36:23**<big><big>[[2Chr.36.22 The Proclamation of Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith Cyrus king of Persia, All the kingdoms of the earth hath the LORD God of heaven given me; and he hath charged me to build him an house in Jerusalem, which [is] in Judah. Who [is there] among you of all his people? The LORD his God [be] with him, and let him go up.
 <small><sub>**BSB:**</sub></small>
 “This is what Cyrus king of Persia says: ‘The LORD, the God of heaven, who has given me all the kingdoms of the earth, has appointed me to build a house for Him at Jerusalem in Judah. Whoever among you belongs to His people, may the LORD his God be with him, and may he go up.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּה]][[H9014\|־]] [[H0559\|אָמַ֞ר]] [[H3566\|כּ֣וֹרֶשׁ]][[H9015\|׀]] [[H4428G\|מֶ֣לֶךְ]] [[H6539\|פָּרַ֗ס]] [[H3605\|כָּל]][[H9014\|־]] [[H4467\|מַמְלְכ֤וֹת]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H5414G\|נָ֣תַן]] [[H9005\|לִ֗]][[H9030\|י]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H9002\|וְ]][[H1931\|הֽוּא]][[H9014\|־]] [[H6485J\|פָקַ֤ד]] [[H5921A\|עָלַ]][[H9030\|י֙]] [[H9005\|לִ]][[H1129\|בְנֽוֹת]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H1004B\|בַ֔יִת]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִַ֖ם]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בִּֽ]][[H3063G\|יהוּדָ֑ה]] [[H4310\|מִֽי]][[H9014\|־]] [[H9003\|בָ]][[H9036\|כֶ֣ם]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H5971A\|עַמּ֗]][[H9023\|וֹ]] [[H3068G\|יְהוָ֧ה]] [[H0430G\|אֱלֹהָ֛י]][[H9023\|ו]] [[H5973A\|עִמּ֖]][[H9033\|וֹ]] [[H9002\|וְ]][[H5927G\|יָֽעַל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic CYRUS|CYRUS]] • [[topic EMANCIPATION|EMANCIPATION]] • [[topic GOD|GOD]] • [[topic HEATHEN|HEATHEN]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PERSIA|PERSIA]] • [[topic PROCLAMATION|PROCLAMATION]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.36.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.22|<< 2 Chronicles 36:22]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.1.1|Ezra 1:1 >>]]</td></tr></table>
 

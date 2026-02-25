@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sons of Israel
+type: Pericope
 pericope: "[[1Chr.2.1 The Sons of Israel|The Sons of Israel]]"
-verse_count: 55
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 2
 book/chapter: "[[1Chr.2|1 Chronicles 2]]"
-genre:
+chronological_order: 321
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 55
 verses:
 - "[[1Chr.2.1]]"
 - "[[1Chr.2.2]]"
@@ -73,7 +80,7 @@ verses:
 - "[[1Chr.2.55]]"
 ---
 
-[[1Chr.2|1 Chronicles 2:1 - 1 Chronicles 2:55]]
+<small>[[1Chr.2|1 Chronicles 2:1-55]]</small>
 *The Sons of Israel*
 
 [[1Chr.2.1|1]] These \[are\] the sons of Israel; Reuben, Simeon, Levi, and Judah, Issachar, and Zebulun,

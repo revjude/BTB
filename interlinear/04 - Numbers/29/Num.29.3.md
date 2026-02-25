@@ -1,8 +1,60 @@
+---
+title: Numbers 29:3
+type: Verse
+kjv: "And their meat offering shall be of flour mingled with oil, three tenth deals for a bullock, and two tenth deals for a ram,"
+bsb: "together with their grain offerings of fine flour mixed with oil—three-tenths of an ephah with the bull, two-tenths of an ephah with the ram,"
+hebrew: "וּמִנְחָתָ֔ם סֹ֖לֶת בְּלוּלָ֣ה בַשָּׁ֑מֶן שְׁלֹשָׁ֤ה עֶשְׂרֹנִים֙ לַפָּ֔ר שְׁנֵ֥י עֶשְׂרֹנִ֖ים לָאָֽיִל׃"
+pericope: "[[Num.29.1 The Feast of Trumpets|The Feast of Trumpets]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 29
+book/chapter: "[[Num.29|Numbers 29]]"
+chronological_order: 189
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic TRUMPETS|TRUMPETS]]"
+strongs:
+- "[[H9002]]"
+- "[[H4503G]]"
+- "[[H9028]]"
+- "[[H5560]]"
+- "[[H1101A]]"
+- "[[H9003]]"
+- "[[H8081]]"
+- "[[H7969]]"
+- "[[H6241]]"
+- "[[H9005]]"
+- "[[H6499]]"
+- "[[H8147]]"
+- "[[H0352A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 29:3**<big><big>[[Num.29.1 The Feast of Trumpets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their meat offering [shall be of] flour mingled with oil, three tenth deals for a bullock, [and] two tenth deals for a ram,
 <small><sub>**BSB:**</sub></small>
 together with their grain offerings of fine flour mixed with oil—three-tenths of an ephah with the bull, two-tenths of an ephah with the ram,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4503G\|מִנְחָתָ֔]][[H9028\|ם]] [[H5560\|סֹ֖לֶת]] [[H1101A\|בְּלוּלָ֣ה]] [[H9003\|בַ]][[H8081\|שָּׁ֑מֶן]] [[H7969\|שְׁלֹשָׁ֤ה]] [[H6241\|עֶשְׂרֹנִים֙]] [[H9005\|לַ]][[H6499\|פָּ֔ר]] [[H8147\|שְׁנֵ֥י]] [[H6241\|עֶשְׂרֹנִ֖ים]] [[H9005\|לָ]][[H0352A\|אָֽיִל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MEASURE|MEASURE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic TRUMPETS|TRUMPETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.29.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.29.2|<< Numbers 29:2]]</td><td align="center" style="border:none;">[[Num.29|Numbers 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.29.4|Numbers 29:4 >>]]</td></tr></table>
 

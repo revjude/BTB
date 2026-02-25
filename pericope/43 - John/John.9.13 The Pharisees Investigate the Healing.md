@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Pharisees Investigate the Healing
+type: Pericope
 pericope: "[[John.9.13 The Pharisees Investigate the Healing|The Pharisees Investigate the Healing]]"
-verse_count: 22
+original_language: Greek
 testament: New
 book: John
 chapter: 9
 book/chapter: "[[John.9|John 9]]"
-genre:
+chronological_order: 983
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 22
 verses:
 - "[[John.9.13]]"
 - "[[John.9.14]]"
@@ -40,7 +47,7 @@ verses:
 - "[[John.9.34]]"
 ---
 
-[[John.9|John 9:13 - John 9:34]]
+<small>[[John.9|John 9:13-34]]</small>
 *The Pharisees Investigate the Healing*
 
 [[John.9.13|13]] They brought to the Pharisees him that aforetime was blind.

@@ -1,8 +1,60 @@
+---
+title: Job 1:13
+type: Verse
+kjv: "And there was a day when his sons and his daughters were eating and drinking wine in their eldest brother’s house:"
+bsb: "One day, while Job’s sons and daughters were eating and drinking wine in their oldest brother’s house,"
+hebrew: "וַיְהִ֖י הַיּ֑וֹם וּבָנָ֨יו וּבְנֹתָ֤יו אֹֽכְלִים֙ וְשֹׁתִ֣ים יַ֔יִן בְּבֵ֖ית אֲחִיהֶ֥ם הַבְּכֽוֹר׃"
+pericope: "[[Job.1.13 Job Loses His Children and Possessions|Job Loses His Children and Possessions]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 1
+book/chapter: "[[Job.1|Job 1]]"
+chronological_order: 12
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic JOB|JOB]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H1323G]]"
+- "[[H0398]]"
+- "[[H8354]]"
+- "[[H3196]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H0251G]]"
+- "[[H9028]]"
+- "[[H1060]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 1:13**<big><big>[[Job.1.13 Job Loses His Children and Possessions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there was a day when his sons and his daughters [were] eating and drinking wine in their eldest brother’s house:
 <small><sub>**BSB:**</sub></small>
 One day, while Job’s sons and daughters were eating and drinking wine in their oldest brother’s house,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֖י]] [[H9009\|הַ]][[H3117G\|יּ֑וֹם]] [[H9002\|וּ]][[H1121A\|בָנָ֨י]][[H9023\|ו]] [[H9002\|וּ]][[H1323G\|בְנֹתָ֤י]][[H9023\|ו]] [[H0398\|אֹֽכְלִים֙]] [[H9002\|וְ]][[H8354\|שֹׁתִ֣ים]] [[H3196\|יַ֔יִן]] [[H9003\|בְּ]][[H1004B\|בֵ֖ית]] [[H0251G\|אֲחִי]][[H9028\|הֶ֥ם]] [[H9009\|הַ]][[H1060\|בְּכֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOB|JOB]] • [[topic RESIGNATION|RESIGNATION]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.1.12|<< Job 1:12]]</td><td align="center" style="border:none;">[[Job.1|Job 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.1.14|Job 1:14 >>]]</td></tr></table>
 

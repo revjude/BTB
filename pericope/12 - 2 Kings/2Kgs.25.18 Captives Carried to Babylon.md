@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Captives Carried to Babylon
+type: Pericope
 pericope: "[[2Kgs.25.18 Captives Carried to Babylon|Captives Carried to Babylon]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 25
 book/chapter: "[[2Kgs.25|2 Kings 25]]"
-genre:
+chronological_order: 742
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 4
 verses:
 - "[[2Kgs.25.18]]"
 - "[[2Kgs.25.19]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Kgs.25.21]]"
 ---
 
-[[2Kgs.25|2 Kings 25:18 - 2 Kings 25:21]]
+<small>[[2Kgs.25|2 Kings 25:18-21]]</small>
 *Captives Carried to Babylon*
 
 [[2Kgs.25.18|18]] And the captain of the guard took Seraiah the chief priest, and Zephaniah the second priest, and the three keepers of the door:

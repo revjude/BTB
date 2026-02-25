@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Cloud and the Glory
+type: Pericope
 pericope: "[[Exod.40.34 The Cloud and the Glory|The Cloud and the Glory]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 40
 book/chapter: "[[Exod.40|Exodus 40]]"
-genre:
+chronological_order: 132
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 5
 verses:
 - "[[Exod.40.34]]"
 - "[[Exod.40.35]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Exod.40.38]]"
 ---
 
-[[Exod.40|Exodus 40:34 - Exodus 40:38]]
+<small>[[Exod.40|Exodus 40:34-38]]</small>
 *The Cloud and the Glory*
 
 [[Exod.40.34|34]] Then a cloud covered the tent of the congregation, and the glory of the LORD filled the tabernacle.

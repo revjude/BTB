@@ -1,8 +1,52 @@
+---
+title: Micah 7:11
+type: Verse
+kjv: "In the day that thy walls are to be built, in that day shall the decree be far removed."
+bsb: "The day for rebuilding your walls will come—the day for extending your boundary."
+hebrew: "י֖וֹם לִבְנ֣וֹת גְּדֵרָ֑יִךְ י֥וֹם הַה֖וּא יִרְחַק־ חֹֽק׃"
+pericope: "[[Mic.7.7 Israel’s Confession and Comfort|Israel’s Confession and Comfort]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 7
+book/chapter: "[[Mic.7|Micah 7]]"
+chronological_order: 629
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic FENCE|FENCE]]"
+strongs:
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H1129]]"
+- "[[H1447]]"
+- "[[H9022]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H7368]]"
+- "[[H9014]]"
+- "[[H2706I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 7:11**<big><big>[[Mic.7.7 Israel’s Confession and Comfort|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [In] the day that thy walls are to be built, [in] that day shall the decree be far removed.
 <small><sub>**BSB:**</sub></small>
 The day for rebuilding your walls will come—the day for extending your boundary.
+<small><sub>**Hebrew:**</sub></small>
+[[H3117G\|י֖וֹם]] [[H9005\|לִ]][[H1129\|בְנ֣וֹת]] [[H1447\|גְּדֵרָ֑יִ]][[H9022\|ךְ]] [[H3117G\|י֥וֹם]] [[H9009\|הַ]][[H1931\|ה֖וּא]] [[H7368\|יִרְחַק]][[H9014\|־]] [[H2706I\|חֹֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FENCE|FENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.7.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.10|<< Micah 7:10]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.12|Micah 7:12 >>]]</td></tr></table>
 

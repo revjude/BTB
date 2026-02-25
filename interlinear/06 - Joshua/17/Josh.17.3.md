@@ -1,8 +1,74 @@
+---
+title: Joshua 17:3
+type: Verse
+kjv: "But Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, had no sons, but daughters: and these are the names of his daughters, Mahlah, and Noah, Hoglah, Milcah, and Tirzah."
+bsb: "But Zelophehad son of Hepher (the son of Gilead, the son of Machir, the son of Manasseh) had no sons but only daughters. These are the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah."
+hebrew: "וְלִצְלָפְחָד֩ בֶּן־ חֵ֨פֶר בֶּן־ גִּלְעָ֜ד בֶּן־ מָכִ֣יר בֶּן־ מְנַשֶּׁ֗ה לֹא־ הָ֥יוּ ל֛וֹ בָּנִ֖ים כִּ֣י אִם־ בָּנ֑וֹת וְאֵ֙לֶּה֙ שְׁמ֣וֹת בְּנֹתָ֔יו מַחְלָ֣ה וְנֹעָ֔ה חָגְלָ֥ה מִלְכָּ֖ה וְתִרְצָֽה׃"
+pericope: "[[Josh.17.1 Manasseh’s Western Inheritance|Manasseh’s Western Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 17
+book/chapter: "[[Josh.17|Joshua 17]]"
+chronological_order: 247
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic DAUGHTER|DAUGHTER]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic HEIR|HEIR]]"
+- "[[topic HEPHER|HEPHER]]"
+- "[[topic HOGLAH|HOGLAH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MILCAH|MILCAH]]"
+- "[[topic NOAH|NOAH]]"
+- "[[topic TIRZAH|TIRZAH]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZELOPHEHAD|ZELOPHEHAD]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H6765]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H2660A]]"
+- "[[H1568H]]"
+- "[[H4353G]]"
+- "[[H4519G]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H9033]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H1323G]]"
+- "[[H0428]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H4244G]]"
+- "[[H5270]]"
+- "[[H2295]]"
+- "[[H4435H]]"
+- "[[H8656G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 17:3**<big><big>[[Josh.17.1 Manasseh’s Western Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, had no sons, but daughters: and these [are] the names of his daughters, Mahlah, and Noah, Hoglah, Milcah, and Tirzah.
 <small><sub>**BSB:**</sub></small>
 But Zelophehad son of Hepher (the son of Gilead, the son of Machir, the son of Manasseh) had no sons but only daughters. These are the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לִ]][[H6765\|צְלָפְחָד֩]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2660A\|חֵ֨פֶר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1568H\|גִּלְעָ֜ד]] [[H1121A\|בֶּן]][[H9014\|־]] [[H4353G\|מָכִ֣יר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H4519G\|מְנַשֶּׁ֗ה]] [[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָ֥יוּ]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H1121A\|בָּנִ֖ים]] [[H3588B\|כִּ֣י]] [[H0518B\|אִם]][[H9014\|־]] [[H1323G\|בָּנ֑וֹת]] [[H9002\|וְ]][[H0428\|אֵ֙לֶּה֙]] [[H8034\|שְׁמ֣וֹת]] [[H1323G\|בְּנֹתָ֔י]][[H9023\|ו]] [[H4244G\|מַחְלָ֣ה]] [[H9002\|וְ]][[H5270\|נֹעָ֔ה]] [[H2295\|חָגְלָ֥ה]] [[H4435H\|מִלְכָּ֖ה]] [[H9002\|וְ]][[H8656G\|תִרְצָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAUGHTER|DAUGHTER]] • [[topic GILEAD|GILEAD]] • [[topic HEIR|HEIR]] • [[topic HEPHER|HEPHER]] • [[topic HOGLAH|HOGLAH]] • [[topic ISRAEL|ISRAEL]] • [[topic MILCAH|MILCAH]] • [[topic NOAH|NOAH]] • [[topic TIRZAH|TIRZAH]] • [[topic WOMEN|WOMEN]] • [[topic ZELOPHEHAD|ZELOPHEHAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.17.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17.2|<< Joshua 17:2]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.17.4|Joshua 17:4 >>]]</td></tr></table>
 

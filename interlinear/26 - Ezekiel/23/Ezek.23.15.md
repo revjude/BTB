@@ -1,8 +1,63 @@
+---
+title: Ezekiel 23:15
+type: Verse
+kjv: "Girded with girdles upon their loins, exceeding in dyed attire upon their heads, all of them princes to look to, after the manner of the Babylonians of Chaldea, the land of their nativity:"
+bsb: "wearing belts on their waists and flowing turbans on their heads; all of them looked like officers of the Babylonians in Chaldea, the land of their birth."
+hebrew: "חֲגוֹרֵ֨י אֵז֜וֹר בְּמָתְנֵיהֶ֗ם סְרוּחֵ֤י טְבוּלִים֙ בְּרָ֣אשֵׁיהֶ֔ם מַרְאֵ֥ה שָׁלִשִׁ֖ים כֻּלָּ֑ם דְּמ֤וּת בְּנֵֽי־ בָבֶל֙ כַּשְׂדִּ֔ים אֶ֖רֶץ מוֹלַדְתָּֽם׃"
+pericope: "[[Ezek.23.1 The Two Adulterous Sisters|The Two Adulterous Sisters]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 23
+book/chapter: "[[Ezek.23|Ezekiel 23]]"
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic DYEING|DYEING]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H2289]]"
+- "[[H0232]]"
+- "[[H9003]]"
+- "[[H4975]]"
+- "[[H9028]]"
+- "[[H5628]]"
+- "[[H2871]]"
+- "[[H7218A]]"
+- "[[H4758]]"
+- "[[H7991C]]"
+- "[[H3605]]"
+- "[[H1823]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H0894]]"
+- "[[H3778]]"
+- "[[H0776G]]"
+- "[[H4138]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 23:15**<big><big>[[Ezek.23.1 The Two Adulterous Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Girded with girdles upon their loins, exceeding in dyed attire upon their heads, all of them princes to look to, after the manner of the Babylonians of Chaldea, the land of their nativity:
 <small><sub>**BSB:**</sub></small>
 wearing belts on their waists and flowing turbans on their heads; all of them looked like officers of the Babylonians in Chaldea, the land of their birth.
+<small><sub>**Hebrew:**</sub></small>
+[[H2289\|חֲגוֹרֵ֨י]] [[H0232\|אֵז֜וֹר]] [[H9003\|בְּ]][[H4975\|מָתְנֵי]][[H9028\|הֶ֗ם]] [[H5628\|סְרוּחֵ֤י]] [[H2871\|טְבוּלִים֙]] [[H9003\|בְּ]][[H7218A\|רָ֣אשֵׁי]][[H9028\|הֶ֔ם]] [[H4758\|מַרְאֵ֥ה]] [[H7991C\|שָׁלִשִׁ֖ים]] [[H3605\|כֻּלָּ֑]][[H9028\|ם]] [[H1823\|דְּמ֤וּת]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H0894\|בָבֶל֙]] [[H3778\|כַּשְׂדִּ֔ים]] [[H0776G\|אֶ֖רֶץ]] [[H4138\|מוֹלַדְתָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DYEING|DYEING]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.14|<< Ezekiel 23:14]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.16|Ezekiel 23:16 >>]]</td></tr></table>
 

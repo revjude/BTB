@@ -1,8 +1,62 @@
+---
+title: 1 Chronicles 16:29
+type: Verse
+kjv: "Give unto the LORD the glory due unto his name: bring an offering, and come before him: worship the LORD in the beauty of holiness."
+bsb: "Ascribe to the LORD the glory due His name; bring an offering and come before Him. Worship the LORD in the splendor of His holiness;"
+hebrew: "הָב֥וּ לַיהוָ֖ה כְּב֣וֹד שְׁמ֑וֹ שְׂא֤וּ מִנְחָה֙ וּבֹ֣אוּ לְפָנָ֔יו הִשְׁתַּחֲו֥וּ לַיהוָ֖ה בְּהַדְרַת־ קֹֽדֶשׁ׃"
+pericope: "[[1Chr.16.23 Sing to the LORD, All the Earth|Sing to the LORD, All the Earth]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 16
+book/chapter: "[[1Chr.16|1 Chronicles 16]]"
+chronological_order: 397
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BEAUTY|BEAUTY]]"
+- "[[topic GLORIFYING GOD|GLORIFYING GOD]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H3051]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H3519]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H5375H]]"
+- "[[H4503G]]"
+- "[[H9002]]"
+- "[[H0935G]]"
+- "[[H6440G]]"
+- "[[H7812]]"
+- "[[H9003]]"
+- "[[H1927]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 16:29**<big><big>[[1Chr.16.23 Sing to the LORD, All the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give unto the LORD the glory [due] unto his name: bring an offering, and come before him: worship the LORD in the beauty of holiness.
 <small><sub>**BSB:**</sub></small>
 Ascribe to the LORD the glory due His name; bring an offering and come before Him. Worship the LORD in the splendor of His holiness;
+<small><sub>**Hebrew:**</sub></small>
+[[H3051\|הָב֥וּ]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H3519\|כְּב֣וֹד]] [[H8034\|שְׁמ֑]][[H9023\|וֹ]] [[H5375H\|שְׂא֤וּ]] [[H4503G\|מִנְחָה֙]] [[H9002\|וּ]][[H0935G\|בֹ֣אוּ]] [[H9005\|לְ]][[H6440G\|פָנָ֔י]][[H9023\|ו]] [[H7812\|הִשְׁתַּחֲו֥וּ]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H9003\|בְּ]][[H1927\|הַדְרַת]][[H9014\|־]] [[H6944G\|קֹֽדֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEAUTY|BEAUTY]] • [[topic GLORIFYING GOD|GLORIFYING GOD]] • [[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.28|<< 1 Chronicles 16:28]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.30|1 Chronicles 16:30 >>]]</td></tr></table>
 

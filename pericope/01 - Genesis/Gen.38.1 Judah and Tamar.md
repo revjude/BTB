@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judah and Tamar
+type: Pericope
 pericope: "[[Gen.38.1 Judah and Tamar|Judah and Tamar]]"
-verse_count: 26
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 38
 book/chapter: "[[Gen.38|Genesis 38]]"
-genre:
+chronological_order: 80
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 26
 verses:
 - "[[Gen.38.1]]"
 - "[[Gen.38.2]]"
@@ -47,7 +54,7 @@ verses:
 - "[[Gen.38.26]]"
 ---
 
-[[Gen.38|Genesis 38:1 - Genesis 38:26]]
+<small>[[Gen.38|Genesis 38:1-26]]</small>
 *Judah and Tamar*
 
 [[Gen.38.1|1]] And it came to pass at that time, that Judah went down from his brethren, and turned in to a certain Adullamite, whose name \[was\] Hirah.

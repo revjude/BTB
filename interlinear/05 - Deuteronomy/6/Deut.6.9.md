@@ -1,8 +1,70 @@
+---
+title: Deuteronomy 6:9
+type: Verse
+kjv: "And thou shalt write them upon the posts of thy house, and on thy gates."
+bsb: "Write them on the doorposts of your houses and on your gates."
+hebrew: "וּכְתַבְתָּ֛ם עַל־ מְזוּזֹ֥ת בֵּיתֶ֖ךָ וּבִשְׁעָרֶֽיךָ׃ ס"
+pericope: "[[Deut.6.1 The Greatest Commandment|The Greatest Commandment]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 6
+book/chapter: "[[Deut.6|Deuteronomy 6]]"
+chronological_order: 202
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic LEGENDS (INSCRIPTIONS)|LEGENDS (INSCRIPTIONS)]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PHYLACTERY|PHYLACTERY]]"
+- "[[topic READING|READING]]"
+- "[[topic SCHOOL|SCHOOL]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H3789]]"
+- "[[H9038]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4201]]"
+- "[[H1004B]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Deuteronomy 6:9**<big><big>[[Deut.6.1 The Greatest Commandment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt write them upon the posts of thy house, and on thy gates.
 <small><sub>**BSB:**</sub></small>
 Write them on the doorposts of your houses and on your gates.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H3789\|כְתַבְתָּ֛]][[H9038\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H4201\|מְזוּזֹ֥ת]] [[H1004B\|בֵּיתֶ֖]][[H9021\|ךָ]] [[H9002\|וּ]][[H9003\|בִ]][[H8179G\|שְׁעָרֶֽי]][[H9021\|ךָ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHILDREN|CHILDREN]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GOD|GOD]] • [[topic HOUSE|HOUSE]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic LAW|LAW]] • [[topic LEGENDS (INSCRIPTIONS)|LEGENDS (INSCRIPTIONS)]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PHYLACTERY|PHYLACTERY]] • [[topic READING|READING]] • [[topic SCHOOL|SCHOOL]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.8|<< Deuteronomy 6:8]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.10|Deuteronomy 6:10 >>]]</td></tr></table>
 
@@ -12,7 +74,7 @@ Write them on the doorposts of your houses and on your gates.
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] doorposts of  |**<big>&#8207;[[H4201\|מְזוּזֹ֥ת]]&#8207; </big>**| me.zu.Zot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | house your  |**<big>&#8207;[[H1004B\|בֵּיתֶ֖]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| bei.Te.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and on gates your  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H8179G\|שְׁעָרֶֽי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vi<small><sup>[[HR]]</sup></small> sh.'a.Rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on gates your  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H8179G\|שְׁעָרֶֽי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vi<small><sup>[[HR]]</sup></small> sh.'a.Rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.8|<< Deuteronomy 6:8]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.10|Deuteronomy 6:10 >>]]</td></tr></table>
 
 

@@ -1,8 +1,64 @@
+---
+title: Leviticus 25:12
+type: Verse
+kjv: "For it is the jubile; it shall be holy unto you: ye shall eat the increase thereof out of the field."
+bsb: "For it is a Jubilee; it shall be holy to you. You may eat only the crops taken directly from the field."
+hebrew: "כִּ֚י יוֹבֵ֣ל הִ֔וא קֹ֖דֶשׁ תִּהְיֶ֣ה לָכֶ֑ם מִן־ הַ֨שָּׂדֶ֔ה תֹּאכְל֖וּ אֶת־ תְּבוּאָתָֽהּ׃"
+pericope: "[[Lev.25.8 The Year of Jubilee|The Year of Jubilee]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic EMANCIPATION|EMANCIPATION]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3104]]"
+- "[[H1931]]"
+- "[[H6944G]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H0398]]"
+- "[[H0853]]"
+- "[[H8393]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:12**<big><big>[[Lev.25.8 The Year of Jubilee|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For it [is] the jubile; it shall be holy unto you: ye shall eat the increase thereof out of the field.
 <small><sub>**BSB:**</sub></small>
 For it is a Jubilee; it shall be holy to you. You may eat only the crops taken directly from the field.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֚י]] [[H3104\|יוֹבֵ֣ל]] [[H1931\|הִ֔וא]] [[H6944G\|קֹ֖דֶשׁ]] [[H1961\|תִּהְיֶ֣ה]] [[H9005\|לָ]][[H9036\|כֶ֑ם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ֨]][[H7704G\|שָּׂדֶ֔ה]] [[H0398\|תֹּאכְל֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H8393\|תְּבוּאָתָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic EMANCIPATION|EMANCIPATION]] • [[topic JUBILEE|JUBILEE]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.11|<< Leviticus 25:11]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.13|Leviticus 25:13 >>]]</td></tr></table>
 

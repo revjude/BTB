@@ -1,10 +1,52 @@
+---
+title: Acts 3:9
+type: Verse
+kjv: "And all the people saw him walking and praising God:"
+bsb: "When all the people saw him walking and praising God,"
+greek: "Καὶ εἶδεν πᾶς ὁ λαὸς αὐτὸν περιπατοῦντα καὶ αἰνοῦντα τὸν θεόν."
+pericope: "[[Acts.3.1 A Lame Man Walks|A Lame Man Walks]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 3
+book/chapter: "[[Acts.3|Acts 3]]"
+chronological_order: 1021
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic JOHN|JOHN]]"
+- "[[topic LAMENESS|LAMENESS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SHOUTING|SHOUTING]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G0846]]"
+- "[[G4043]]"
+- "[[G0134]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Acts 3:9**<big><big>[[Acts.3.1 A Lame Man Walks|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And all the people saw him walking and praising God:
 <small><sub>**BSB:**</sub></small>
 When all the people saw him walking and praising God,
-<small><sub>**Literal:**</sub></small>
-And saw all the people him walking and praising <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.8|<< Acts 3:8]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.10|Acts 3:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1492H\|εἶδεν]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G2992\|λαὸς]]  [[G0846\|αὐτὸν]]  [[G4043\|περιπατοῦντα]]  [[G2532\|καὶ]]  [[G0134\|αἰνοῦντα]]  [[G3588\|τὸν]]  [[G2316\|θεόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOHN|JOHN]] • [[topic LAMENESS|LAMENESS]] • [[topic MIRACLES|MIRACLES]] • [[topic SHOUTING|SHOUTING]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.8|<< Acts 3:8]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.10|Acts 3:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

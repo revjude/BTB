@@ -1,10 +1,60 @@
+---
+title: Revelation 17:12
+type: Verse
+kjv: "And the ten horns which thou sawest are ten kings, which have received no kingdom as yet; but receive power as kings one hour with the beast."
+bsb: "The ten horns you saw are ten kings who have not yet received a kingdom, but will receive one hour of authority as kings along with the beast."
+greek: "καὶ τὰ δέκα κέρατα ἃ εἶδες, δέκα βασιλεῖς εἰσιν, οἵτινες βασιλείαν οὔπω ἔλαβον ἀλλ᾽ ἐξουσίαν ὡς βασιλεῖς μίαν ὥραν λαμβάνουσιν μετὰ τοῦ θηρίου."
+pericope: "[[Rev.17.6 The Mystery Explained|The Mystery Explained]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 17
+book/chapter: "[[Rev.17|Revelation 17]]"
+chronological_order: 1184
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic HORN|HORN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1176]]"
+- "[[G2768]]"
+- "[[G3739]]"
+- "[[G1492H]]"
+- "[[G0935]]"
+- "[[G1510]]"
+- "[[G3748]]"
+- "[[G0932]]"
+- "[[G3768]]"
+- "[[G2983]]"
+- "[[G0235]]"
+- "[[G1849]]"
+- "[[G5613]]"
+- "[[G1520]]"
+- "[[G5610]]"
+- "[[G3326]]"
+- "[[G2342]]"
+texts:
+- NKO
+---
+
 **Revelation 17:12**<big><big>[[Rev.17.6 The Mystery Explained|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the ten horns which thou sawest are ten kings, which have received no kingdom as yet; but receive power as kings one hour with the beast.
 <small><sub>**BSB:**</sub></small>
 The ten horns you saw are ten kings who have not yet received a kingdom, but will receive one hour of authority as kings along with the beast.
-<small><sub>**Literal:**</sub></small>
-And the ten horns which you saw, ten kings are, who a kingdom not yet have received but authority as kings one hour receive along with the beast.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.11|<< Revelation 17:11]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.13|Revelation 17:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G1176\|δέκα]]  [[G2768\|κέρατα]]  [[G3739\|ἃ]]  [[G1492H\|εἶδες,]]  [[G1176\|δέκα]]  [[G0935\|βασιλεῖς]]  [[G1510\|εἰσιν,]]  [[G3748\|οἵτινες]]  [[G0932\|βασιλείαν]]  [[G3768\|οὔπω]]  [[G2983\|ἔλαβον]]  [[G0235\|ἀλλ᾽]]  [[G1849\|ἐξουσίαν]]  [[G5613\|ὡς]]  [[G0935\|βασιλεῖς]]  [[G1520\|μίαν]]  [[G5610\|ὥραν]]  [[G2983\|λαμβάνουσιν]]  [[G3326\|μετὰ]]  [[G3588\|τοῦ]]  [[G2342\|θηρίου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HORN|HORN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.11|<< Revelation 17:11]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.13|Revelation 17:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 17:12** is...
 > $\quad$ alluding to: [[LXX.Dan.7.20|Dan 7:20]] ☩ [[LXX.Dan.7.24|Dan 7:24]]

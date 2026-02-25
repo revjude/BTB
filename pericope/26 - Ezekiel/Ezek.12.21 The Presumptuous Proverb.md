@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Presumptuous Proverb
+type: Pericope
 pericope: "[[Ezek.12.21 The Presumptuous Proverb|The Presumptuous Proverb]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 12
 book/chapter: "[[Ezek.12|Ezekiel 12]]"
-genre:
+chronological_order: 803
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 8
 verses:
 - "[[Ezek.12.21]]"
 - "[[Ezek.12.22]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Ezek.12.28]]"
 ---
 
-[[Ezek.12|Ezekiel 12:21 - Ezekiel 12:28]]
+<small>[[Ezek.12|Ezekiel 12:21-28]]</small>
 *The Presumptuous Proverb*
 
 [[Ezek.12.21|21]] And the word of the LORD came unto me, saying,

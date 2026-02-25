@@ -29,11 +29,11 @@
 
 - Peace with God by Christ [[Rom.5.1|Ro 5:1]]
 
-- Preservation [[Ps.3.6|Ps 3:6]]; [[Ps.8|8]]; [[Ps.27.3|27:3]]-[[Ps.27.5|5]]; [[Ps.46.1|46:1]]-[[Ps.46.3|3]]
+- Preservation [[Ps.3.6|Ps 3:6]]; [[Ps.8|8]]; [[Ps.27.3|27:3-5]]; [[Ps.46.1|46:1-3]]
 
 - Answers to prayer [[1John.3.22|1Jo 3:22]]; [[1John.5.14|5:14]],[[1John.5.15|15]]
 
-- Comfort in affliction [[Ps.73.26|Ps 73:26]]; [[Luke.4.18|Lu 4:18]]; [[2Cor.4.8|2Co 4:8]]-[[2Cor.4.10|10]],[[2Cor.4.16|16]]-[[2Cor.4.18|18]]
+- Comfort in affliction [[Ps.73.26|Ps 73:26]]; [[Luke.4.18|Lu 4:18]]; [[2Cor.4.8|2Co 4:8-10]],[[2Cor.4.16|16-18]]
 
 - Continuance in grace [[Phil.1.6|Php 1:6]]
 
@@ -53,7 +53,7 @@
 
 - Exemplified
 
-By David [[Ps.23.4|Ps 23:4]]; [[Ps.73.24|73:24]]-[[Ps.73.26|26]]
+By David [[Ps.23.4|Ps 23:4]]; [[Ps.73.24|73:24-26]]
 
 By Paul [[2Tim.1.12|2Ti 1:12]]; [[2Tim.4.18|4:18]]
 

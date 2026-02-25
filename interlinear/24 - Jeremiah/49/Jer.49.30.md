@@ -1,8 +1,67 @@
+---
+title: Jeremiah 49:30
+type: Verse
+kjv: "Flee, get you far off, dwell deep, O ye inhabitants of Hazor, saith the LORD; for Nebuchadrezzar king of Babylon hath taken counsel against you, and hath conceived a purpose against you."
+bsb: "Run! Escape quickly! Lie low, O residents of Hazor,” declares the LORD, “for Nebuchadnezzar king of Babylon has drawn up a plan against you; he has devised a strategy against you."
+hebrew: "נֻסוּ֩ נֻּ֨דוּ מְאֹ֜ד הֶעְמִ֧יקוּ לָשֶׁ֛בֶת יֹשְׁבֵ֥י חָצ֖וֹר נְאֻם־ יְהוָ֑ה כִּֽי־ יָעַ֨ץ עֲלֵיכֶ֜ם נְבוּכַדְרֶאצַּ֤ר מֶֽלֶךְ־ בָּבֶל֙ עֵצָ֔ה וְחָשַׁ֥ב עֲלֵיכֶ֖ם מַחֲשָׁבָֽה׃"
+pericope: "[[Jer.49.28 Judgment on Kedar and Hazor|Judgment on Kedar and Hazor]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]"
+strongs:
+- "[[H5127]]"
+- "[[H5110]]"
+- "[[H3966]]"
+- "[[H6009]]"
+- "[[H9005]]"
+- "[[H3427]]"
+- "[[H2674K]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H3289]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H5019]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H6098]]"
+- "[[H9001]]"
+- "[[H2803I]]"
+- "[[H9038]]"
+- "[[H4284]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 49:30**<big><big>[[Jer.49.28 Judgment on Kedar and Hazor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Flee, get you far off, dwell deep, O ye inhabitants of Hazor, saith the LORD; for Nebuchadrezzar king of Babylon hath taken counsel against you, and hath conceived a purpose against you.
 <small><sub>**BSB:**</sub></small>
 Run! Escape quickly! Lie low, O residents of Hazor,” declares the LORD, “for Nebuchadnezzar king of Babylon has drawn up a plan against you; he has devised a strategy against you.
+<small><sub>**Hebrew:**</sub></small>
+[[H5127\|נֻסוּ֩]] [[H5110\|נֻּ֨דוּ]] [[H3966\|מְאֹ֜ד]] [[H6009\|הֶעְמִ֧יקוּ]] [[H9005\|לָ]][[H3427\|שֶׁ֛בֶת]] [[H3427\|יֹשְׁבֵ֥י]] [[H2674K\|חָצ֖וֹר]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3289\|יָעַ֨ץ]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֜ם]] [[H5019\|נְבוּכַדְרֶאצַּ֤ר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶל֙]] [[H6098\|עֵצָ֔ה]] [[H9001\|וְ]][[H2803I\|חָשַׁ֥ב]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֖ם]] [[H4284\|מַחֲשָׁבָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.29|<< Jeremiah 49:29]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.31|Jeremiah 49:31 >>]]</td></tr></table>
 
@@ -29,7 +88,7 @@ Run! Escape quickly! Lie low, O residents of Hazor,” declares the LORD, “for
 | a purpose  |**<big>&#8207;[[H4284\|מַחֲשָׁבָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ma.cha.sha.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.29|<< Jeremiah 49:29]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.31|Jeremiah 49:31 >>]]</td></tr></table>
 
-[^1]: on them  | **<big>[[H9038|הֶם]]</big><big>[[H5921A|עֲלֵי]]</big> ** | 'a.lei.<small><sup>[[HRd]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
-[^2]: on them  | **<big>[[H9038|הֶם]]</big><big>[[H5921A|עֲלֵי]]</big> ** | 'a.lei.<small><sup>[[HRd]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^1]: on them  | **<big>[[H5921A|עֲלֵי]]</big><big>[[H9038|הֶם]]</big> ** | 'a.lei.<small><sup>[[HRd]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: on them  | **<big>[[H5921A|עֲלֵי]]</big><big>[[H9038|הֶם]]</big> ** | 'a.lei.<small><sup>[[HRd]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>עֲלֵיהֶ֖ם</big></span>**
 

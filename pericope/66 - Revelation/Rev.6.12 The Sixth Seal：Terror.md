@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sixth Seal：Terror
+type: Pericope
 pericope: "[[Rev.6.12 The Sixth Seal：Terror|The Sixth Seal：Terror]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 6
 book/chapter: "[[Rev.6|Revelation 6]]"
-genre:
+chronological_order: 1173
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 6
 verses:
 - "[[Rev.6.12]]"
 - "[[Rev.6.13]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Rev.6.17]]"
 ---
 
-[[Rev.6|Revelation 6:12 - Revelation 6:17]]
+<small>[[Rev.6|Revelation 6:12-17]]</small>
 *The Sixth Seal：Terror*
 
 [[Rev.6.12|12]] And I beheld when he had opened the sixth seal, and, lo, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood;

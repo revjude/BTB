@@ -1,8 +1,54 @@
+---
+title: Job 30:20
+type: Verse
+kjv: "I cry unto thee, and thou dost not hear me: I stand up, and thou regardest me not."
+bsb: "I cry out to You for help, but You do not answer; when I stand up, You merely look at me."
+hebrew: "אֲשַׁוַּ֣ע אֵ֭לֶיךָ וְלֹ֣א תַעֲנֵ֑נִי עָ֝מַ֗דְתִּי וַתִּתְבֹּ֥נֶן בִּֽי׃"
+pericope: "[[Job.30.15 Job’s Prosperity Becomes Calamity|Job’s Prosperity Becomes Calamity]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 30
+book/chapter: "[[Job.30|Job 30]]"
+chronological_order: 41
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H7768]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H6030B]]"
+- "[[H9030]]"
+- "[[H5975G]]"
+- "[[H9001]]"
+- "[[H0995]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 30:20**<big><big>[[Job.30.15 Job’s Prosperity Becomes Calamity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I cry unto thee, and thou dost not hear me: I stand up, and thou regardest me [not].
 <small><sub>**BSB:**</sub></small>
 I cry out to You for help, but You do not answer; when I stand up, You merely look at me.
+<small><sub>**Hebrew:**</sub></small>
+[[H7768\|אֲשַׁוַּ֣ע]] [[H0413\|אֵ֭לֶי]][[H9031\|ךָ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6030B\|תַעֲנֵ֑]][[H9030\|נִי]] [[H5975G\|עָ֝מַ֗דְתִּי]] [[H9001\|וַ]][[H0995\|תִּתְבֹּ֥נֶן]] [[H9003\|בִּֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOUBTING|DOUBTING]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.19|<< Job 30:19]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.21|Job 30:21 >>]]</td></tr></table>
 

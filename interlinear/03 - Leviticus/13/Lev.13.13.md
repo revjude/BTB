@@ -1,8 +1,65 @@
+---
+title: Leviticus 13:13
+type: Verse
+kjv: "Then the priest shall consider: and, behold, if the leprosy have covered all his flesh, he shall pronounce him clean that hath the plague: it is all turned white: he is clean."
+bsb: "the priest shall examine him, and if the disease has covered his entire body, he is to pronounce the infected person clean. Since it has all turned white, he is clean."
+hebrew: "וְרָאָ֣ה הַכֹּהֵ֗ן וְהִנֵּ֨ה כִסְּתָ֤ה הַצָּרַ֙עַת֙ אֶת־ כָּל־ בְּשָׂר֔וֹ וְטִהַ֖ר אֶת־ הַנָּ֑גַע כֻּלּ֛וֹ הָפַ֥ךְ לָבָ֖ן טָה֥וֹר הֽוּא׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H3680]]"
+- "[[H6883]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H1320]]"
+- "[[H9023]]"
+- "[[H2891]]"
+- "[[H5061]]"
+- "[[H2015]]"
+- "[[H3836]]"
+- "[[H2889]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:13**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the priest shall consider: and, behold, [if] the leprosy have covered all his flesh, he shall pronounce [him] clean [that hath] the plague: it is all turned white: he [is] clean.
 <small><sub>**BSB:**</sub></small>
 the priest shall examine him, and if the disease has covered his entire body, he is to pronounce the infected person clean. Since it has all turned white, he is clean.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7200G\|רָאָ֣ה]] [[H9009\|הַ]][[H3548\|כֹּהֵ֗ן]] [[H9002\|וְ]][[H2009\|הִנֵּ֨ה]] [[H3680\|כִסְּתָ֤ה]] [[H9009\|הַ]][[H6883\|צָּרַ֙עַת֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1320\|בְּשָׂר֔]][[H9023\|וֹ]] [[H9001\|וְ]][[H2891\|טִהַ֖ר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5061\|נָּ֑גַע]] [[H3605\|כֻּלּ֛]][[H9023\|וֹ]] [[H2015\|הָפַ֥ךְ]] [[H3836\|לָבָ֖ן]] [[H2889\|טָה֥וֹר]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.12|<< Leviticus 13:12]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.14|Leviticus 13:14 >>]]</td></tr></table>
 

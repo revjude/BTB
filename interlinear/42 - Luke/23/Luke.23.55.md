@@ -1,10 +1,63 @@
+---
+title: Luke 23:55
+type: Verse
+kjv: "And the women also, which came with him from Galilee, followed after, and beheld the sepulchre, and how his body was laid."
+bsb: "The women who had come with Jesus from Galilee followed, and they saw the tomb and how His body was placed."
+greek: "κατακολουθήσασαι δὲ καὶ αἱ γυναῖκες αἵτινες ἦσαν συνεληλυθυῖαι ἐκ τῆς Γαλιλαίας αὐτῷ, ἐθεάσαντο τὸ μνημεῖον καὶ ὡς ἐτέθη τὸ σῶμα αὐτοῦ."
+pericope: "[[Luke.23.50 The Burial of Jesus|The Burial of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2628]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1135G]]"
+- "[[G3748]]"
+- "[[G1510]]"
+- "[[G4905]]"
+- "[[G1537]]"
+- "[[G1056G]]"
+- "[[G0846]]"
+- "[[G2300]]"
+- "[[G3419]]"
+- "[[G5613]]"
+- "[[G5087]]"
+- "[[G4983]]"
+texts:
+- NKO
+- k
+- no
+---
+
 **Luke 23:55**<big><big>[[Luke.23.50 The Burial of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the women also, which came with him from Galilee, followed after, and beheld the sepulchre, and how his body was laid.
 <small><sub>**BSB:**</sub></small>
 The women who had come with Jesus from Galilee followed, and they saw the tomb and how His body was placed.
-<small><sub>**Literal:**</sub></small>
-Having followed then and the women who were having come from <the> Galilee with Him saw the tomb and how was laid the body of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.54|<< Luke 23:54]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.56|Luke 23:56 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2628\|κατακολουθήσασαι]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G1135G\|γυναῖκες]]  [[G3748\|αἵτινες]]  [[G1510\|ἦσαν]]  [[G4905\|συνεληλυθυῖαι]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G1056G\|Γαλιλαίας]]  [[G0846\|αὐτῷ,]]  [[G2300\|ἐθεάσαντο]]  [[G3588\|τὸ]]  [[G3419\|μνημεῖον]]  [[G2532\|καὶ]]  [[G5613\|ὡς]]  [[G5087\|ἐτέθη]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic LOVE|LOVE]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.54|<< Luke 23:54]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.56|Luke 23:56 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

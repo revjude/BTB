@@ -1,10 +1,65 @@
+---
+title: Matthew 26:28
+type: Verse
+kjv: "For this is my blood of the new testament, which is shed for many for the remission of sins."
+bsb: "This is My blood of the covenant, which is poured out for many for the forgiveness of sins."
+jesus_said: "For this is my blood of the new testament, which is shed for many for the remission of sins."
+greek: "τοῦτο γάρ ἐστιν τὸ αἷμά μου τὸ τῆς καινῆς διαθήκης τὸ περὶ πολλῶν ἐκχυννόμενον εἰς ἄφεσιν ἁμαρτιῶν."
+pericope: "[[Matt.26.20 The Last Supper|The Last Supper]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TESTAMENT|TESTAMENT]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G0129G]]"
+- "[[G3165]]"
+- "[[G2537]]"
+- "[[G1242]]"
+- "[[G4012]]"
+- "[[G4183]]"
+- "[[G1632]]"
+- "[[G1519]]"
+- "[[G0859]]"
+- "[[G0266]]"
+texts:
+- NKO
+- k
+- KO
+---
+
 **Matthew 26:28**<big><big>[[Matt.26.20 The Last Supper|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For this is my blood of the new testament, which is shed for many for the remission of sins.
 <small><sub>**BSB:**</sub></small>
 This is My blood of the covenant, which is poured out for many for the forgiveness of sins.
-<small><sub>**Literal:**</sub></small>
-This for is the blood of Mine <the> of the of a new covenant <the> for many being poured out for forgiveness of sins.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.27|<< Matthew 26:27]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.29|Matthew 26:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτο]]  [[G1063\|γάρ]]  [[G1510\|ἐστιν]]  [[G3588\|τὸ]]  [[G0129G\|αἷμά]]  [[G3165\|μου]]  [[G3588\|τὸ]]  [[G3588\|τῆς]]  [[G2537\|καινῆς]]  [[G1242\|διαθήκης]]  [[G3588\|τὸ]]  [[G4012\|περὶ]]  [[G4183\|πολλῶν]]  [[G1632\|ἐκχυννόμενον]]  [[G1519\|εἰς]]  [[G0859\|ἄφεσιν]]  [[G0266\|ἁμαρτιῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BLOOD|BLOOD]] • [[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PASSOVER|PASSOVER]] • [[topic SIN|SIN]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TESTAMENT|TESTAMENT]] • [[topic WINE|WINE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.27|<< Matthew 26:27]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.29|Matthew 26:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

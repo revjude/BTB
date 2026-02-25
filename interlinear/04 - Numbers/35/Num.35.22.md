@@ -1,8 +1,62 @@
+---
+title: Numbers 35:22
+type: Verse
+kjv: "But if he thrust him suddenly without enmity, or have cast upon him any thing without laying of wait,"
+bsb: "But if anyone pushes a person suddenly, without hostility, or throws an object at him unintentionally,"
+hebrew: "וְאִם־ בְּפֶ֥תַע בְּלֹא־ אֵיבָ֖ה הֲדָפ֑וֹ אוֹ־ הִשְׁלִ֥יךְ עָלָ֛יו כָּל־ כְּלִ֖י בְּלֹ֥א צְדִיָּֽה׃"
+pericope: "[[Num.35.9 Six Cities of Refuge|Six Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 35
+book/chapter: "[[Num.35|Numbers 35]]"
+chronological_order: 195
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic REFUGE|REFUGE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H6621]]"
+- "[[H3808]]"
+- "[[H0342]]"
+- "[[H1920]]"
+- "[[H9033]]"
+- "[[H0176A]]"
+- "[[H7993]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H6660]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 35:22**<big><big>[[Num.35.9 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if he thrust him suddenly without enmity, or have cast upon him any thing without laying of wait,
 <small><sub>**BSB:**</sub></small>
 But if anyone pushes a person suddenly, without hostility, or throws an object at him unintentionally,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H9003\|בְּ]][[H6621\|פֶ֥תַע]] [[H9003\|בְּ]][[H3808\|לֹא]][[H9014\|־]] [[H0342\|אֵיבָ֖ה]] [[H1920\|הֲדָפ֑]][[H9033\|וֹ]] [[H0176A\|אוֹ]][[H9014\|־]] [[H7993\|הִשְׁלִ֥יךְ]] [[H5921A\|עָלָ֛י]][[H9033\|ו]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כְּלִ֖י]] [[H9003\|בְּ]][[H3808\|לֹ֥א]] [[H6660\|צְדִיָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic REFUGE|REFUGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.21|<< Numbers 35:21]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.23|Numbers 35:23 >>]]</td></tr></table>
 

@@ -1,8 +1,73 @@
+---
+title: 2 Samuel 15:4
+type: Verse
+kjv: "Absalom said moreover, Oh that I were made judge in the land, that every man which hath any suit or cause might come unto me, and I would do him justice!"
+bsb: "And he would add, “If only someone would appoint me judge in the land, then everyone with a grievance or dispute could come to me, and I would give him justice.”"
+hebrew: "וַיֹּ֙אמֶר֙ אַבְשָׁל֔וֹם מִי־ יְשִׂמֵ֥נִי שֹׁפֵ֖ט בָּאָ֑רֶץ וְעָלַ֗י יָב֥וֹא כָּל־ אִ֛ישׁ אֲשֶֽׁר־ יִהְיֶה־ לּוֹ־ רִ֥יב וּמִשְׁפָּ֖ט וְהִצְדַּקְתִּֽיו׃"
+pericope: "[[2Sam.15.1 Absalom’s Conspiracy|Absalom’s Conspiracy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 15
+book/chapter: "[[2Sam.15|2 Samuel 15]]"
+chronological_order: 414
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CANDIDATE|CANDIDATE]]"
+- "[[topic DEMAGOGISM|DEMAGOGISM]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic ELECTIONEERING|ELECTIONEERING]]"
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic POPULARITY|POPULARITY]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0053]]"
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H7760A]]"
+- "[[H9030]]"
+- "[[H8199]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H0935G]]"
+- "[[H3605]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H7379]]"
+- "[[H4941H]]"
+- "[[H6663]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 15:4**<big><big>[[2Sam.15.1 Absalom’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Absalom said moreover, Oh that I were made judge in the land, that every man which hath any suit or cause might come unto me, and I would do him justice!
 <small><sub>**BSB:**</sub></small>
 And he would add, “If only someone would appoint me judge in the land, then everyone with a grievance or dispute could come to me, and I would give him justice.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H0053\|אַבְשָׁל֔וֹם]] [[H4310\|מִי]][[H9014\|־]] [[H7760A\|יְשִׂמֵ֥]][[H9030\|נִי]] [[H8199\|שֹׁפֵ֖ט]] [[H9003\|בָּ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H5921A\|עָלַ֗]][[H9030\|י]] [[H0935G\|יָב֥וֹא]] [[H3605\|כָּל]][[H9014\|־]] [[H0376G\|אִ֛ישׁ]] [[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H1961\|יִהְיֶה]][[H9014\|־]] [[H9005\|לּ]][[H9033\|וֹ]][[H9014\|־]] [[H7379\|רִ֥יב]] [[H9002\|וּ]][[H4941H\|מִשְׁפָּ֖ט]] [[H9001\|וְ]][[H6663\|הִצְדַּקְתִּֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic AMBITION|AMBITION]] • [[topic CANDIDATE|CANDIDATE]] • [[topic DEMAGOGISM|DEMAGOGISM]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic ELECTIONEERING|ELECTIONEERING]] • [[topic FLATTERY|FLATTERY]] • [[topic POLITICS|POLITICS]] • [[topic POPULARITY|POPULARITY]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.3|<< 2 Samuel 15:3]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.5|2 Samuel 15:5 >>]]</td></tr></table>
 

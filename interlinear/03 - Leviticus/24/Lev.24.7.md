@@ -1,8 +1,62 @@
+---
+title: Leviticus 24:7
+type: Verse
+kjv: "And thou shalt put pure frankincense upon each row, that it may be on the bread for a memorial, even an offering made by fire unto the LORD."
+bsb: "And you are to place pure frankincense near each row, so that it may serve as a memorial portion for the bread, a food offering to the LORD."
+hebrew: "וְנָתַתָּ֥ עַל־ הַֽמַּעֲרֶ֖כֶת לְבֹנָ֣ה זַכָּ֑ה וְהָיְתָ֤ה לַלֶּ֙חֶם֙ לְאַזְכָּרָ֔ה אִשֶּׁ֖ה לַֽיהוָֽה׃"
+pericope: "[[Lev.24.5 The Showbread|The Showbread]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 24
+book/chapter: "[[Lev.24|Leviticus 24]]"
+chronological_order: 156
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic FRANKINCENSE|FRANKINCENSE]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4635]]"
+- "[[H3828]]"
+- "[[H2134]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H3899H]]"
+- "[[H0234]]"
+- "[[H0801]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 24:7**<big><big>[[Lev.24.5 The Showbread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt put pure frankincense upon [each] row, that it may be on the bread for a memorial, [even] an offering made by fire unto the LORD.
 <small><sub>**BSB:**</sub></small>
 And you are to place pure frankincense near each row, so that it may serve as a memorial portion for the bread, a food offering to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414H\|נָתַתָּ֥]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַֽ]][[H4635\|מַּעֲרֶ֖כֶת]] [[H3828\|לְבֹנָ֣ה]] [[H2134\|זַכָּ֑ה]] [[H9001\|וְ]][[H1961\|הָיְתָ֤ה]] [[H9005\|לַ]][[H3899H\|לֶּ֙חֶם֙]] [[H9005\|לְ]][[H0234\|אַזְכָּרָ֔ה]] [[H0801\|אִשֶּׁ֖ה]] [[H9005\|לַֽ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRANKINCENSE|FRANKINCENSE]] • [[topic PRIEST|PRIEST]] • [[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.24.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.6|<< Leviticus 24:6]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.8|Leviticus 24:8 >>]]</td></tr></table>
 

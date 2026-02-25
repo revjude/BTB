@@ -1,8 +1,58 @@
+---
+title: Ezekiel 46:23
+type: Verse
+kjv: "And there was a row of building round about in them, round about them four, and it was made with boiling places under the rows round about."
+bsb: "Around the inside of each of the four courts was a row of masonry with ovens built at the base of the walls on all sides."
+hebrew: "וְט֨וּר סָבִ֥יב בָּהֶ֛ם סָבִ֖יב לְאַרְבַּעְתָּ֑ם וּמְבַשְּׁל֣וֹת עָשׂ֔וּי מִתַּ֥חַת הַטִּיר֖וֹת סָבִֽיב׃"
+pericope: "[[Ezek.46.19 The Courts for Boiling and Baking|The Courts for Boiling and Baking]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 46
+book/chapter: "[[Ezek.46|Ezekiel 46]]"
+chronological_order: 837
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic COOKING|COOKING]]"
+strongs:
+- "[[H9002]]"
+- "[[H2905]]"
+- "[[H5439G]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H0702]]"
+- "[[H9028]]"
+- "[[H4018]]"
+- "[[H6213H]]"
+- "[[H9006]]"
+- "[[H8478G]]"
+- "[[H9009]]"
+- "[[H2918]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 46:23**<big><big>[[Ezek.46.19 The Courts for Boiling and Baking|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [there was] a row [of building] round about in them, round about them four, and [it was] made with boiling places under the rows round about.
 <small><sub>**BSB:**</sub></small>
 Around the inside of each of the four courts was a row of masonry with ovens built at the base of the walls on all sides.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2905\|ט֨וּר]] [[H5439G\|סָבִ֥יב]] [[H9003\|בָּ]][[H9038\|הֶ֛ם]] [[H5439G\|סָבִ֖יב]] [[H9005\|לְ]][[H0702\|אַרְבַּעְתָּ֑]][[H9028\|ם]] [[H9002\|וּ]][[H4018\|מְבַשְּׁל֣וֹת]] [[H6213H\|עָשׂ֔וּי]] [[H9006\|מִ]][[H8478G\|תַּ֥חַת]] [[H9009\|הַ]][[H2918\|טִּיר֖וֹת]] [[H5439G\|סָבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COOKING|COOKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.46.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.22|<< Ezekiel 46:22]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.24|Ezekiel 46:24 >>]]</td></tr></table>
 

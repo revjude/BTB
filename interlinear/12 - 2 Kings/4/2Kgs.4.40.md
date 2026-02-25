@@ -1,8 +1,65 @@
+---
+title: 2 Kings 4:40
+type: Verse
+kjv: "So they poured out for the men to eat. And it came to pass, as they were eating of the pottage, that they cried out, and said, O thou man of God, there is death in the pot. And they could not eat thereof."
+bsb: "And they poured it out for the men to eat, but when they tasted the stew they cried out, “There is death in the pot, O man of God!” And they could not eat it."
+hebrew: "וַיִּֽצְק֥וּ לַאֲנָשִׁ֖ים לֶאֱכ֑וֹל וַ֠יְהִי כְּאָכְלָ֨ם מֵהַנָּזִ֜יד וְהֵ֣מָּה צָעָ֗קוּ וַיֹּֽאמְרוּ֙ מָ֤וֶת בַּסִּיר֙ אִ֣ישׁ הָאֱלֹהִ֔ים וְלֹ֥א יָכְל֖וּ לֶאֱכֹֽל׃"
+pericope: "[[2Kgs.4.38 Elisha Purifies the Poisonous Stew|Elisha Purifies the Poisonous Stew]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3332G]]"
+- "[[H9005]]"
+- "[[H0582]]"
+- "[[H0398]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H9048]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H5138]]"
+- "[[H9002]]"
+- "[[H1992]]"
+- "[[H6817]]"
+- "[[H0559]]"
+- "[[H4194]]"
+- "[[H9003]]"
+- "[[H5518A]]"
+- "[[H0376G]]"
+- "[[H0430G]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 4:40**<big><big>[[2Kgs.4.38 Elisha Purifies the Poisonous Stew|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they poured out for the men to eat. And it came to pass, as they were eating of the pottage, that they cried out, and said, O [thou] man of God, [there is] death in the pot. And they could not eat [thereof].
 <small><sub>**BSB:**</sub></small>
 And they poured it out for the men to eat, but when they tasted the stew they cried out, “There is death in the pot, O man of God!” And they could not eat it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3332G\|יִּֽצְק֥וּ]] [[H9005\|לַ]][[H0582\|אֲנָשִׁ֖ים]] [[H9005\|לֶ]][[H0398\|אֱכ֑וֹל]] [[H9001\|וַ֠]][[H1961\|יְהִי]] [[H9004\|כְּ]][[H0398\|אָכְלָ֨]][[H9048\|ם]] [[H9006\|מֵ]][[H9009\|הַ]][[H5138\|נָּזִ֜יד]] [[H9002\|וְ]][[H1992\|הֵ֣מָּה]] [[H6817\|צָעָ֗קוּ]] [[H9001\|וַ]][[H0559\|יֹּֽאמְרוּ֙]] [[H4194\|מָ֤וֶת]] [[H9003\|בַּ]][[H5518A\|סִּיר֙]] [[H0376G\|אִ֣ישׁ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3201\|יָכְל֖וּ]] [[H9005\|לֶ]][[H0398\|אֱכֹֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELISHA|ELISHA]] • [[topic GILGAL|GILGAL]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.39|<< 2 Kings 4:39]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.41|2 Kings 4:41 >>]]</td></tr></table>
 

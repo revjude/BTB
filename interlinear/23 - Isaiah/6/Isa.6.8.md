@@ -1,8 +1,63 @@
+---
+title: Isaiah 6:8
+type: Verse
+kjv: "Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here am I; send me."
+bsb: "Then I heard the voice of the Lord saying: “Whom shall I send? Who will go for Us?” And I said: “Here am I. Send me!”"
+hebrew: "וָאֶשְׁמַ֞ע אֶת־ ק֤וֹל אֲדֹנָי֙ אֹמֵ֔ר אֶת־ מִ֥י אֶשְׁלַ֖ח וּמִ֣י יֵֽלֶךְ־ לָ֑נוּ וָאֹמַ֖ר הִנְנִ֥י שְׁלָחֵֽנִי׃"
+pericope: "[[Isa.6.1 Isaiah’s Commission|Isaiah’s Commission]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 6
+book/chapter: "[[Isa.6|Isaiah 6]]"
+chronological_order: 614
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TRINITY|TRINITY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6963A]]"
+- "[[H0136]]"
+- "[[H0559]]"
+- "[[H4310]]"
+- "[[H7971G]]"
+- "[[H9002]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 6:8**<big><big>[[Isa.6.1 Isaiah’s Commission|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here [am] I; send me.
 <small><sub>**BSB:**</sub></small>
 Then I heard the voice of the Lord saying: “Whom shall I send? Who will go for Us?” And I said: “Here am I. Send me!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H8085G\|אֶשְׁמַ֞ע]] [[H0853\|אֶת]][[H9014\|־]] [[H6963A\|ק֤וֹל]] [[H0136\|אֲדֹנָי֙]] [[H0559\|אֹמֵ֔ר]] [[H0853\|אֶת]][[H9014\|־]] [[H4310\|מִ֥י]] [[H7971G\|אֶשְׁלַ֖ח]] [[H9002\|וּ]][[H4310\|מִ֣י]] [[H1980G\|יֵֽלֶךְ]][[H9014\|־]] [[H9005\|לָ֑]][[H9035\|נוּ]] [[H9001\|וָ]][[H0559\|אֹמַ֖ר]] [[H2005\|הִנְ]][[H9040\|נִ֥י]] [[H7971G\|שְׁלָחֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TRINITY|TRINITY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.6.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.6.7|<< Isaiah 6:7]]</td><td align="center" style="border:none;">[[Isa.6|Isaiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.6.9|Isaiah 6:9 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Temple Destruction and Other Signs
+type: Pericope
 pericope: "[[Matt.24.1 Temple Destruction and Other Signs|Temple Destruction and Other Signs]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 24
 book/chapter: "[[Matt.24|Matthew 24]]"
-genre:
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 8
 verses:
 - "[[Matt.24.1]]"
 - "[[Matt.24.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Matt.24.8]]"
 ---
 
-[[Matt.24|Matthew 24:1 - Matthew 24:8]]
+<small>[[Matt.24|Matthew 24:1-8]]</small>
 *Temple Destruction and Other Signs*
 
 [[Matt.24.1|1]] And Jesus went out, and departed from the temple: and his disciples came to \[him\] for to shew him the buildings of the temple.

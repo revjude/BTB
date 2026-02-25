@@ -1,8 +1,68 @@
+---
+title: Numbers 9:3
+type: Verse
+kjv: "In the fourteenth day of this month, at even, ye shall keep it in his appointed season: according to all the rites of it, and according to all the ceremonies thereof, shall ye keep it."
+bsb: "You are to observe it at the appointed time, at twilight on the fourteenth day of this month, in accordance with its statutes and ordinances.”"
+hebrew: "בְּאַרְבָּעָ֣ה עָשָֽׂר־ י֠וֹם בַּחֹ֨דֶשׁ הַזֶּ֜ה בֵּ֧ין הָֽעֲרְבַּ֛יִם תַּעֲשׂ֥וּ אֹת֖וֹ בְּמוֹעֲד֑וֹ כְּכָל־ חֻקֹּתָ֥יו וּכְכָל־ מִשְׁפָּטָ֖יו תַּעֲשׂ֥וּ אֹתֽוֹ׃"
+pericope: "[[Num.9.1 The Second Passover|The Second Passover]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 9
+book/chapter: "[[Num.9|Numbers 9]]"
+chronological_order: 168
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic SINAI|SINAI]]"
+strongs:
+- "[[H9003]]"
+- "[[H0702]]"
+- "[[H6240]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H0996G]]"
+- "[[H6153]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H4150G]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H2708]]"
+- "[[H9002]]"
+- "[[H4941G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 9:3**<big><big>[[Num.9.1 The Second Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the fourteenth day of this month, at even, ye shall keep it in his appointed season: according to all the rites of it, and according to all the ceremonies thereof, shall ye keep it.
 <small><sub>**BSB:**</sub></small>
 You are to observe it at the appointed time, at twilight on the fourteenth day of this month, in accordance with its statutes and ordinances.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H0702\|אַרְבָּעָ֣ה]] [[H6240\|עָשָֽׂר]][[H9014\|־]] [[H3117G\|י֠וֹם]] [[H9003\|בַּ]][[H2320G\|חֹ֨דֶשׁ]] [[H9009\|הַ]][[H2088\|זֶּ֜ה]] [[H0996G\|בֵּ֧ין]] [[H9009\|הָֽ]][[H6153\|עֲרְבַּ֛יִם]] [[H6213A\|תַּעֲשׂ֥וּ]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9003\|בְּ]][[H4150G\|מוֹעֲד֑]][[H9023\|וֹ]] [[H9004\|כְּ]][[H3605\|כָל]][[H9014\|־]] [[H2708\|חֻקֹּתָ֥י]][[H9023\|ו]] [[H9002\|וּ]][[H9004\|כְ]][[H3605\|כָל]][[H9014\|־]] [[H4941G\|מִשְׁפָּטָ֖י]][[H9023\|ו]] [[H6213A\|תַּעֲשׂ֥וּ]] [[H0853\|אֹתֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic PASSOVER|PASSOVER]] • [[topic SANITATION|SANITATION]] • [[topic SINAI|SINAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9.2|<< Numbers 9:2]]</td><td align="center" style="border:none;">[[Num.9|Numbers 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.4|Numbers 9:4 >>]]</td></tr></table>
 

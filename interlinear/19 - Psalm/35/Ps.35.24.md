@@ -1,8 +1,58 @@
+---
+title: Psalm 35:24
+type: Verse
+kjv: "Judge me, O LORD my God, according to thy righteousness; and let them not rejoice over me."
+bsb: "Vindicate me by Your righteousness, O LORD my God, and do not let them gloat over me."
+hebrew: "שָׁפְטֵ֣נִי כְ֭צִדְקְךָ יְהוָ֥ה אֱלֹהָ֗י וְאַל־ יִשְׂמְחוּ־ לִֽי׃"
+pericope: "[[Ps.35.1 Contend with My Opponents, O LORD|Contend with My Opponents, O LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 35
+book/chapter: "[[Ps.35|Psalm 35]]"
+chronological_order: 363
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H8199]]"
+- "[[H9030]]"
+- "[[H9004]]"
+- "[[H6664G]]"
+- "[[H9021]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H8055]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 35:24**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Judge me, O LORD my God, according to thy righteousness; and let them not rejoice over me.
 <small><sub>**BSB:**</sub></small>
 Vindicate me by Your righteousness, O LORD my God, and do not let them gloat over me.
+<small><sub>**Hebrew:**</sub></small>
+[[H8199\|שָׁפְטֵ֣]][[H9030\|נִי]] [[H9004\|כְ֭]][[H6664G\|צִדְקְ]][[H9021\|ךָ]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהָ֗]][[H9020\|י]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H8055\|יִשְׂמְחוּ]][[H9014\|־]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENEMY|ENEMY]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.23|<< Psalms 35:23]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.25|Psalms 35:25 >>]]</td></tr></table>
 

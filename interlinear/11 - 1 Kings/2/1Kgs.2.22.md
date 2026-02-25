@@ -1,8 +1,79 @@
+---
+title: 1 Kings 2:22
+type: Verse
+kjv: "And king Solomon answered and said unto his mother, And why dost thou ask Abishag the Shunammite for Adonijah? ask for him the kingdom also; for he is mine elder brother; even for him, and for Abiathar the priest, and for Joab the son of Zeruiah."
+bsb: "King Solomon answered his mother, “Why do you request Abishag the Shunammite for Adonijah? Since he is my older brother, you might as well request the kingdom for him and for Abiathar the priest and for Joab son of Zeruiah!”"
+hebrew: "וַיַּעַן֩ הַמֶּ֨לֶךְ שְׁלֹמֹ֜ה וַיֹּ֣אמֶר לְאִמּ֗וֹ וְלָמָה֩ אַ֨תְּ שֹׁאֶ֜לֶת אֶת־ אֲבִישַׁ֤ג הַשֻּׁנַמִּית֙ לַאֲדֹ֣נִיָּ֔הוּ וְשַֽׁאֲלִי־ לוֹ֙ אֶת־ הַמְּלוּכָ֔ה כִּ֛י ה֥וּא אָחִ֖י הַגָּד֣וֹל מִמֶּ֑נִּי וְלוֹ֙ וּלְאֶבְיָתָ֣ר הַכֹּהֵ֔ן וּלְיוֹאָ֖ב בֶּן־ צְרוּיָֽה׃ פ"
+pericope: "[[1Kgs.2.13 The Execution of Adonijah|The Execution of Adonijah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 2
+book/chapter: "[[1Kgs.2|1 Kings 2]]"
+chronological_order: 442
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ABISHAG|ABISHAG]]"
+- "[[topic ADONIJAH|ADONIJAH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic SHUNAMMITE|SHUNAMMITE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H8010]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H4100]]"
+- "[[H0859C]]"
+- "[[H7592]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0049]]"
+- "[[H7767]]"
+- "[[H0138G]]"
+- "[[H9033]]"
+- "[[H4410]]"
+- "[[H3588A]]"
+- "[[H1931]]"
+- "[[H0251G]]"
+- "[[H9020]]"
+- "[[H1419K]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H0054]]"
+- "[[H3548]]"
+- "[[H3097G]]"
+- "[[H1121A]]"
+- "[[H6870]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Kings 2:22**<big><big>[[1Kgs.2.13 The Execution of Adonijah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And king Solomon answered and said unto his mother, And why dost thou ask Abishag the Shunammite for Adonijah? ask for him the kingdom also; for he [is] mine elder brother; even for him, and for Abiathar the priest, and for Joab the son of Zeruiah.
 <small><sub>**BSB:**</sub></small>
 King Solomon answered his mother, “Why do you request Abishag the Shunammite for Adonijah? Since he is my older brother, you might as well request the kingdom for him and for Abiathar the priest and for Joab son of Zeruiah!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּעַן֩]] [[H9009\|הַ]][[H4428G\|מֶּ֨לֶךְ]] [[H8010\|שְׁלֹמֹ֜ה]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|לְ]][[H0517\|אִמּ֗]][[H9023\|וֹ]] [[H9002\|וְ]][[H9005\|לָ]][[H4100\|מָה֩]] [[H0859C\|אַ֨תְּ]] [[H7592\|שֹׁאֶ֜לֶת]] [[H0853\|אֶת]][[H9014\|־]] [[H0049\|אֲבִישַׁ֤ג]] [[H9009\|הַ]][[H7767\|שֻּׁנַמִּית֙]] [[H9005\|לַ]][[H0138G\|אֲדֹ֣נִיָּ֔הוּ]] [[H9002\|וְ]][[H7592\|שַֽׁאֲלִי]][[H9014\|־]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4410\|מְּלוּכָ֔ה]] [[H3588A\|כִּ֛י]] [[H1931\|ה֥וּא]] [[H0251G\|אָחִ֖]][[H9020\|י]] [[H9009\|הַ]][[H1419K\|גָּד֣וֹל]] [[H4480A\|מִמֶּ֑]][[H9030\|נִּי]] [[H9002\|וְ]][[H9005\|ל]][[H9033\|וֹ֙]] [[H9002\|וּ]][[H9005\|לְ]][[H0054\|אֶבְיָתָ֣ר]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H9002\|וּ]][[H9005\|לְ]][[H3097G\|יוֹאָ֖ב]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6870\|צְרוּיָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAG|ABISHAG]] • [[topic ADONIJAH|ADONIJAH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic SHUNAMMITE|SHUNAMMITE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.21|<< 1 Kings 2:21]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.23|1 Kings 2:23 >>]]</td></tr></table>
 
@@ -34,7 +105,7 @@ King Solomon answered his mother, “Why do you request Abishag the Shunammite f
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֔ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and for Joab  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3097G\|יוֹאָ֖ב]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> yo.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zeruiah  |**<big>&#8207;[[H6870\|צְרוּיָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tze.ru.Yah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zeruiah  |**<big>&#8207;[[H6870\|צְרוּיָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tze.ru.Yah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.21|<< 1 Kings 2:21]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.23|1 Kings 2:23 >>]]</td></tr></table>
 
 

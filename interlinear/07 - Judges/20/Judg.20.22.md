@@ -1,8 +1,54 @@
+---
+title: Judges 20:22
+type: Verse
+kjv: "And the people the men of Israel encouraged themselves, and set their battle again in array in the place where they put themselves in array the first day."
+bsb: "But the Israelite army took courage and again took their battle positions in the same place where they had arrayed themselves on the first day."
+hebrew: "וַיִּתְחַזֵּ֥ק הָעָ֖ם אִ֣ישׁ יִשְׂרָאֵ֑ל וַיֹּסִ֙פוּ֙ לַעֲרֹ֣ךְ מִלְחָמָ֔ה בַּמָּק֕וֹם אֲשֶׁר־ עָ֥רְכוּ שָׁ֖ם בַּיּ֥וֹם הָרִאשֽׁוֹן׃"
+pericope: "[[Judg.20.18 Civil War against Benjamin|Civil War against Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+strongs:
+- "[[H9001]]"
+- "[[H2388G]]"
+- "[[H9009]]"
+- "[[H5971K]]"
+- "[[H0376G]]"
+- "[[H3478]]"
+- "[[H3254G]]"
+- "[[H9005]]"
+- "[[H6186A]]"
+- "[[H4421]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H3117G]]"
+- "[[H7223G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:22**<big><big>[[Judg.20.18 Civil War against Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people the men of Israel encouraged themselves, and set their battle again in array in the place where they put themselves in array the first day.
 <small><sub>**BSB:**</sub></small>
 But the Israelite army took courage and again took their battle positions in the same place where they had arrayed themselves on the first day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2388G\|יִּתְחַזֵּ֥ק]] [[H9009\|הָ]][[H5971K\|עָ֖ם]] [[H0376G\|אִ֣ישׁ]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H3254G\|יֹּסִ֙פוּ֙]] [[H9005\|לַ]][[H6186A\|עֲרֹ֣ךְ]] [[H4421\|מִלְחָמָ֔ה]] [[H9003\|בַּ]][[H4725\|מָּק֕וֹם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6186A\|עָ֥רְכוּ]] [[H8033G\|שָׁ֖ם]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הָ]][[H7223G\|רִאשֽׁוֹן]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.21|<< Judges 20:21]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.23|Judges 20:23 >>]]</td></tr></table>
 

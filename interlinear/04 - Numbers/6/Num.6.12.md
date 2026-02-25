@@ -1,8 +1,68 @@
+---
+title: Numbers 6:12
+type: Verse
+kjv: "And he shall consecrate unto the LORD the days of his separation, and shall bring a lamb of the first year for a trespass offering: but the days that were before shall be lost, because his separation was defiled."
+bsb: "He must rededicate his time of separation to the LORD and bring a year-old male lamb as a guilt offering. But the preceding days shall not be counted, because his separation was defiled."
+hebrew: "וְהִזִּ֤יר לַֽיהוָה֙ אֶת־ יְמֵ֣י נִזְר֔וֹ וְהֵבִ֛יא כֶּ֥בֶשׂ בֶּן־ שְׁנָת֖וֹ לְאָשָׁ֑ם וְהַיָּמִ֤ים הָרִאשֹׁנִים֙ יִפְּל֔וּ כִּ֥י טָמֵ֖א נִזְרֽוֹ׃"
+pericope: "[[Num.6.1 The Nazirite Vow|The Nazirite Vow]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 6
+book/chapter: "[[Num.6|Numbers 6]]"
+chronological_order: 165
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic LAMB|LAMB]]"
+- "[[topic NAZARITE|NAZARITE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5144B]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H5145G]]"
+- "[[H9023]]"
+- "[[H0935P]]"
+- "[[H3532]]"
+- "[[H1121L]]"
+- "[[H8141]]"
+- "[[H0817]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H7223H]]"
+- "[[H5307J]]"
+- "[[H3588A]]"
+- "[[H2930A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 6:12**<big><big>[[Num.6.1 The Nazirite Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall consecrate unto the LORD the days of his separation, and shall bring a lamb of the first year for a trespass offering: but the days that were before shall be lost, because his separation was defiled.
 <small><sub>**BSB:**</sub></small>
 He must rededicate his time of separation to the LORD and bring a year-old male lamb as a guilt offering. But the preceding days shall not be counted, because his separation was defiled.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5144B\|הִזִּ֤יר]] [[H9005\|לַֽ]][[H3068G\|יהוָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3117G\|יְמֵ֣י]] [[H5145G\|נִזְר֔]][[H9023\|וֹ]] [[H9001\|וְ]][[H0935P\|הֵבִ֛יא]] [[H3532\|כֶּ֥בֶשׂ]] [[H1121L\|בֶּן]][[H9014\|־]] [[H8141\|שְׁנָת֖]][[H9023\|וֹ]] [[H9005\|לְ]][[H0817\|אָשָׁ֑ם]] [[H9002\|וְ]][[H9009\|הַ]][[H3117G\|יָּמִ֤ים]] [[H9009\|הָ]][[H7223H\|רִאשֹׁנִים֙]] [[H5307J\|יִפְּל֔וּ]] [[H3588A\|כִּ֥י]] [[H2930A\|טָמֵ֖א]] [[H5145G\|נִזְרֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRATERNITY|FRATERNITY]] • [[topic LAMB|LAMB]] • [[topic NAZARITE|NAZARITE]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.11|<< Numbers 6:11]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.13|Numbers 6:13 >>]]</td></tr></table>
 

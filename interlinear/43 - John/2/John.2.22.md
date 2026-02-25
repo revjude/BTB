@@ -1,10 +1,63 @@
+---
+title: John 2:22
+type: Verse
+kjv: "When therefore he was risen from the dead, his disciples remembered that he had said this unto them; and they believed the scripture, and the word which Jesus had said."
+bsb: "After He was raised from the dead, His disciples remembered that He had said this. Then they believed the Scripture and the word that Jesus had spoken."
+greek: "ὅτε οὖν ἠγέρθη ἐκ νεκρῶν, ἐμνήσθησαν οἱ μαθηταὶ αὐτοῦ ὅτι τοῦτο ἔλεγεν αὐτοῖς, καὶ ἐπίστευσαν τῇ γραφῇ καὶ τῷ λόγῳ ὃν εἶπεν ὁ Ἰησοῦς.¶"
+pericope: "[[John.2.12 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 2
+book/chapter: "[[John.2|John 2]]"
+chronological_order: 940
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3753]]"
+- "[[G3767]]"
+- "[[G1453]]"
+- "[[G1537]]"
+- "[[G3498]]"
+- "[[G3403]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G3778]]"
+- "[[G3004G]]"
+- "[[G2532]]"
+- "[[G4100]]"
+- "[[G1124]]"
+- "[[G3056]]"
+- "[[G3739]]"
+- "[[G2036]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **John 2:22**<big><big>[[John.2.12 Jesus Cleanses the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When therefore he was risen from the dead, his disciples remembered that he had said this unto them; and they believed the scripture, and the word which Jesus had said.
 <small><sub>**BSB:**</sub></small>
 After He was raised from the dead, His disciples remembered that He had said this. Then they believed the Scripture and the word that Jesus had spoken.
-<small><sub>**Literal:**</sub></small>
-When therefore He was raised up out from [the] dead, remembered the disciples of Him that this He was saying to them and they believed in the Scripture and in the word that had spoken <the> Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.21|<< John 2:21]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.23|John 2:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3753\|ὅτε]]  [[G3767\|οὖν]]  [[G1453\|ἠγέρθη]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν,]]  [[G3403\|ἐμνήσθησαν]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ]]  [[G3754G\|ὅτι]]  [[G3778\|τοῦτο]]  [[G3004G\|ἔλεγεν]]  [[G0846\|αὐτοῖς,]]  [[G2532\|καὶ]]  [[G4100\|ἐπίστευσαν]]  [[G3588\|τῇ]]  [[G1124\|γραφῇ]]  [[G2532\|καὶ]]  [[G3588\|τῷ]]  [[G3056\|λόγῳ]]  [[G3739\|ὃν]]  [[G2036\|εἶπεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.21|<< John 2:21]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.23|John 2:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

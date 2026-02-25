@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Humiliation of Babylon
+type: Pericope
 pericope: "[[Isa.47.1 The Humiliation of Babylon|The Humiliation of Babylon]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 47
 book/chapter: "[[Isa.47|Isaiah 47]]"
-genre:
+chronological_order: 686
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 15
 verses:
 - "[[Isa.47.1]]"
 - "[[Isa.47.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Isa.47.15]]"
 ---
 
-[[Isa.47|Isaiah 47:1 - Isaiah 47:15]]
+<small>[[Isa.47|Isaiah 47:1-15]]</small>
 *The Humiliation of Babylon*
 
 [[Isa.47.1|1]] Come down, and sit in the dust, O virgin daughter of Babylon, sit on the ground: \[there is\] no throne, O daughter of the Chaldeans: for thou shalt no more be called tender and delicate.

@@ -1,8 +1,55 @@
+---
+title: Job 30:30
+type: Verse
+kjv: "My skin is black upon me, and my bones are burned with heat."
+bsb: "My skin grows black and peels, and my bones burn with fever."
+hebrew: "ע֭וֹרִי שָׁחַ֣ר מֵעָלָ֑י וְעַצְמִי־ חָ֝֗רָה מִנִּי־ חֹֽרֶב׃"
+pericope: "[[Job.30.15 Job’s Prosperity Becomes Calamity|Job’s Prosperity Becomes Calamity]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 30
+book/chapter: "[[Job.30|Job 30]]"
+chronological_order: 41
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLACKNESS|BLACKNESS]]"
+- "[[topic FEVER|FEVER]]"
+strongs:
+- "[[H5785]]"
+- "[[H9020]]"
+- "[[H7835]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H6106G]]"
+- "[[H9014]]"
+- "[[H2787]]"
+- "[[H4480A]]"
+- "[[H2721A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 30:30**<big><big>[[Job.30.15 Job’s Prosperity Becomes Calamity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My skin is black upon me, and my bones are burned with heat.
 <small><sub>**BSB:**</sub></small>
 My skin grows black and peels, and my bones burn with fever.
+<small><sub>**Hebrew:**</sub></small>
+[[H5785\|ע֭וֹרִ]][[H9020\|י]] [[H7835\|שָׁחַ֣ר]] [[H9006\|מֵ]][[H5921A\|עָלָ֑]][[H9030\|י]] [[H9002\|וְ]][[H6106G\|עַצְמִ]][[H9020\|י]][[H9014\|־]] [[H2787\|חָ֝֗רָה]] [[H4480A\|מִנִּי]][[H9014\|־]] [[H2721A\|חֹֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLACKNESS|BLACKNESS]] • [[topic FEVER|FEVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.29|<< Job 30:29]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.31|Job 30:31 >>]]</td></tr></table>
 

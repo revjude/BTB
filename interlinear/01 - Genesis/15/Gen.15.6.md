@@ -1,8 +1,60 @@
+---
+title: Genesis 15:6
+type: Verse
+kjv: "And he believed in the LORD; and he counted it to him for righteousness."
+bsb: "Abram believed the LORD, and it was credited to him as righteousness."
+hebrew: "וְהֶאֱמִ֖ן בַּֽיהוָ֑ה וַיַּחְשְׁבֶ֥הָ לּ֖וֹ צְדָקָֽה׃"
+pericope: "[[Gen.15.1 God’s Covenant with Abram|God’s Covenant with Abram]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 15
+book/chapter: "[[Gen.15|Genesis 15]]"
+chronological_order: 57
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0539]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H2803H]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H6666]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 15:6**<big><big>[[Gen.15.1 God’s Covenant with Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he believed in the LORD; and he counted it to him for righteousness.
 <small><sub>**BSB:**</sub></small>
 Abram believed the LORD, and it was credited to him as righteousness.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0539\|הֶאֱמִ֖ן]] [[H9003\|בַּֽ]][[H3068G\|יהוָ֑ה]] [[H9001\|וַ]][[H2803H\|יַּחְשְׁבֶ֥]][[H9034\|הָ]] [[H9005\|לּ֖]][[H9033\|וֹ]] [[H6666\|צְדָקָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic FAITH|FAITH]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.15.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.15.5|<< Genesis 15:5]]</td><td align="center" style="border:none;">[[Gen.15|Genesis 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15.7|Genesis 15:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

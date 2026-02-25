@@ -1,10 +1,65 @@
+---
+title: John 1:45
+type: Verse
+kjv: "Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph."
+bsb: "Philip found Nathanael and told him, “We have found the One Moses wrote about in the Law, the One the prophets foretold—Jesus of Nazareth, the son of Joseph.”"
+greek: "Εὑρίσκει Φίλιππος τὸν Ναθαναὴλ καὶ λέγει αὐτῷ· ὃν ἔγραψεν Μωϋσῆς ἐν τῷ νόμῳ καὶ οἱ προφῆται, εὑρήκαμεν, Ἰησοῦν τὸν υἱὸν τοῦ Ἰωσὴφ τὸν ἀπὸ Ναζαρέτ."
+pericope: "[[John.1.43 Jesus Calls Philip and Nathanael|Jesus Calls Philip and Nathanael]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic NATHANAEL|NATHANAEL]]"
+- "[[topic PHILIP|PHILIP]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2147]]"
+- "[[G5376G]]"
+- "[[G3588]]"
+- "[[G3482]]"
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3739]]"
+- "[[G1125]]"
+- "[[G3475]]"
+- "[[G1722]]"
+- "[[G3551]]"
+- "[[G4396]]"
+- "[[G2424G]]"
+- "[[G5207]]"
+- "[[G2501G]]"
+- "[[G0575]]"
+- "[[G3478]]"
+texts:
+- NKO
+- ko
+---
+
 **John 1:45**<big><big>[[John.1.43 Jesus Calls Philip and Nathanael|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph.
 <small><sub>**BSB:**</sub></small>
 Philip found Nathanael and told him, “We have found the One Moses wrote about in the Law, the One the prophets foretold—Jesus of Nazareth, the son of Joseph.”
-<small><sub>**Literal:**</sub></small>
-Finds Philip <the> Nathanael and says to him; [Him] whom wrote of Moses in the Law also the prophets, we have found, Jesus <the> son <the> of Joseph <the> of Nazareth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.44|<< John 1:44]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.46|John 1:46 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2147\|Εὑρίσκει]]  [[G5376G\|Φίλιππος]]  [[G3588\|τὸν]]  [[G3482\|Ναθαναὴλ]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ·]]  [[G3739\|ὃν]]  [[G1125\|ἔγραψεν]]  [[G3475\|Μωϋσῆς]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3551\|νόμῳ]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4396\|προφῆται,]]  [[G2147\|εὑρήκαμεν,]]  [[G2424G\|Ἰησοῦν]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G3588\|τοῦ]]  [[G2501G\|Ἰωσὴφ]]  [[G3588\|τὸν]]  [[G0575\|ἀπὸ]]  [[G3478\|Ναζαρέτ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic NATHANAEL|NATHANAEL]] • [[topic PHILIP|PHILIP]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.44|<< John 1:44]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.46|John 1:46 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

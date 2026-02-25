@@ -1,10 +1,56 @@
+---
+title: Galatians 3:18
+type: Verse
+kjv: "For if the inheritance be of the law, it is no more of promise: but God gave it to Abraham by promise."
+bsb: "For if the inheritance depends on the law, then it no longer depends on a promise; but God freely granted it to Abraham through a promise."
+greek: "εἰ γὰρ ἐκ νόμου ἡ κληρονομία οὐκέτι οὐκέτι ἐξ ἐπαγγελίας· τῷ δὲ Ἀβραὰμ δι᾽ ἐπαγγελίας κεχάρισται ὁ θεός.¶"
+pericope: "[[Gal.3.15 The Purpose of the Law|The Purpose of the Law]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 3
+book/chapter: "[[Gal.3|Galatians 3]]"
+chronological_order: 1041
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1063]]"
+- "[[G1537]]"
+- "[[G3551]]"
+- "[[G3588]]"
+- "[[G2817]]"
+- "[[G3756]]"
+- "[[G2089]]"
+- "[[G1860]]"
+- "[[G1161]]"
+- "[[G0011]]"
+- "[[G1223]]"
+- "[[G5483]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Galatians 3:18**<big><big>[[Gal.3.15 The Purpose of the Law|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For if the inheritance [be] of the law, [it is] no more of promise: but God gave [it] to Abraham by promise.
 <small><sub>**BSB:**</sub></small>
 For if the inheritance depends on the law, then it no longer depends on a promise; but God freely granted it to Abraham through a promise.
-<small><sub>**Literal:**</sub></small>
-If for by [the] Law [is] the inheritance no longer by a promise; <the> but to Abraham through a promise has granted [it] <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.17|<< Galatians 3:17]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.19|Galatians 3:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1063\|γὰρ]]  [[G1537\|ἐκ]]  [[G3551\|νόμου]]  [[G3588\|ἡ]]  [[G2817\|κληρονομία]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G1537\|ἐξ]]  [[G1860\|ἐπαγγελίας·]]  [[G3588\|τῷ]]  [[G1161\|δὲ]]  [[G0011\|Ἀβραὰμ]]  [[G1223\|δι᾽]]  [[G1860\|ἐπαγγελίας]]  [[G5483\|κεχάρισται]]  [[G3588\|ὁ]]  [[G2316\|θεός.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic FAITH|FAITH]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.17|<< Galatians 3:17]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.19|Galatians 3:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

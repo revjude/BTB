@@ -1,8 +1,59 @@
+---
+title: Psalm 137:8
+type: Verse
+kjv: "O daughter of Babylon, who art to be destroyed; happy shall he be, that rewardeth thee as thou hast served us."
+bsb: "O Daughter of Babylon, doomed to destruction, blessed is he who repays you as you have done to us."
+hebrew: "בַּת־ בָּבֶ֗ל הַשְּׁד֫וּדָ֥ה אַשְׁרֵ֥י שֶׁיְשַׁלֶּם־ לָ֑ךְ אֶת־ גְּ֝מוּלֵ֗ךְ שֶׁגָּמַ֥לְתְּ לָֽנוּ׃"
+pericope: "[[Ps.137.1 By the Rivers of Babylon|By the Rivers of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 137
+book/chapter: "[[Ps.137|Psalm 137]]"
+chronological_order: 785
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BABYLON|BABYLON]]"
+strongs:
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H0894]]"
+- "[[H9009]]"
+- "[[H7703]]"
+- "[[H0835]]"
+- "[[H9007]]"
+- "[[H7999A]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H0853]]"
+- "[[H1576]]"
+- "[[H9022]]"
+- "[[H1580]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 137:8**<big><big>[[Ps.137.1 By the Rivers of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O daughter of Babylon, who art to be destroyed; happy [shall he be], that rewardeth thee as thou hast served us.
 <small><sub>**BSB:**</sub></small>
 O Daughter of Babylon, doomed to destruction, blessed is he who repays you as you have done to us.
+<small><sub>**Hebrew:**</sub></small>
+[[H1323G\|בַּת]][[H9014\|־]] [[H0894\|בָּבֶ֗ל]] [[H9009\|הַ]][[H7703\|שְּׁד֫וּדָ֥ה]] [[H0835\|אַשְׁרֵ֥י]] [[H9007\|שֶׁ]][[H7999A\|יְשַׁלֶּם]][[H9014\|־]] [[H9005\|לָ֑]][[H9032\|ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H1576\|גְּ֝מוּלֵ֗]][[H9022\|ךְ]] [[H9007\|שֶׁ]][[H1580\|גָּמַ֥לְתְּ]] [[H9005\|לָֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.137.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.137.7|<< Psalms 137:7]]</td><td align="center" style="border:none;">[[Ps.137|Psalms 137]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.137.9|Psalms 137:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

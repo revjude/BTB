@@ -1,8 +1,79 @@
+---
+title: Numbers 16:30
+type: Verse
+kjv: "But if the LORD make a new thing, and the earth open her mouth, and swallow them up, with all that appertain unto them, and they go down quick into the pit; then ye shall understand that these men have provoked the LORD."
+bsb: "But if the LORD brings about something unprecedented, and the earth opens its mouth and swallows them and all that belongs to them so that they go down alive into Sheol, then you will know that these men have treated the LORD with contempt.”"
+hebrew: "וְאִם־ בְּרִיאָ֞ה יִבְרָ֣א יְהוָ֗ה וּפָצְתָ֨ה הָאֲדָמָ֤ה אֶת־ פִּ֙יהָ֙ וּבָלְעָ֤ה אֹתָם֙ וְאֶת־ כָּל־ אֲשֶׁ֣ר לָהֶ֔ם וְיָרְד֥וּ חַיִּ֖ים שְׁאֹ֑לָה וִֽידַעְתֶּ֕ם כִּ֧י נִֽאֲצ֛וּ הָאֲנָשִׁ֥ים הָאֵ֖לֶּה אֶת־ יְהוָֽה׃"
+pericope: "[[Num.16.28 The Earth Swallows Korah|The Earth Swallows Korah]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DATHAN|DATHAN]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H1278]]"
+- "[[H1254A]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H6475]]"
+- "[[H9009]]"
+- "[[H0127G]]"
+- "[[H0853]]"
+- "[[H6310G]]"
+- "[[H9024]]"
+- "[[H1104]]"
+- "[[H9038]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H3381]]"
+- "[[H2416A]]"
+- "[[H7585]]"
+- "[[H9011]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H5006]]"
+- "[[H0582]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 16:30**<big><big>[[Num.16.28 The Earth Swallows Korah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if the LORD make a new thing, and the earth open her mouth, and swallow them up, with all that [appertain] unto them, and they go down quick into the pit; then ye shall understand that these men have provoked the LORD.
 <small><sub>**BSB:**</sub></small>
 But if the LORD brings about something unprecedented, and the earth opens its mouth and swallows them and all that belongs to them so that they go down alive into Sheol, then you will know that these men have treated the LORD with contempt.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H1278\|בְּרִיאָ֞ה]] [[H1254A\|יִבְרָ֣א]] [[H3068G\|יְהוָ֗ה]] [[H9001\|וּ]][[H6475\|פָצְתָ֨ה]] [[H9009\|הָ]][[H0127G\|אֲדָמָ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H6310G\|פִּ֙י]][[H9024\|הָ֙]] [[H9001\|וּ]][[H1104\|בָלְעָ֤ה]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H9001\|וְ]][[H3381\|יָרְד֥וּ]] [[H2416A\|חַיִּ֖ים]] [[H7585\|שְׁאֹ֑לָ]][[H9011\|ה]] [[H9001\|וִֽ]][[H3045\|ידַעְתֶּ֕ם]] [[H3588A\|כִּ֧י]] [[H5006\|נִֽאֲצ֛וּ]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֥ים]] [[H9009\|הָ]][[H0428\|אֵ֖לֶּה]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DATHAN|DATHAN]] • [[topic DEATH|DEATH]] • [[topic INCENSE|INCENSE]] • [[topic ISRAEL|ISRAEL]] • [[topic MIRACLES|MIRACLES]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.29|<< Numbers 16:29]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.31|Numbers 16:31 >>]]</td></tr></table>
 

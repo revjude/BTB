@@ -1,10 +1,63 @@
+---
+title: John 4:5
+type: Verse
+kjv: "Then cometh he to a city of Samaria, which is called Sychar, near to the parcel of ground that Jacob gave to his son Joseph."
+bsb: "So He came to a town of Samaria called Sychar, near the plot of ground that Jacob had given to his son Joseph."
+greek: "ἔρχεται οὖν εἰς πόλιν τῆς Σαμαρείας λεγομένην Συχάρ, πλησίον τοῦ χωρίου ὃ ἔδωκεν Ἰακὼβ τῷ Ἰωσὴφ τῷ υἱῷ αὐτοῦ·"
+pericope: "[[John.4.1 Jesus and the Samaritan Woman|Jesus and the Samaritan Woman]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic ROADS|ROADS]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[G2064]]"
+- "[[G3767]]"
+- "[[G1519]]"
+- "[[G4172]]"
+- "[[G3588]]"
+- "[[G4540]]"
+- "[[G3004H]]"
+- "[[G4965]]"
+- "[[G4139]]"
+- "[[G5564G]]"
+- "[[G3739]]"
+- "[[G1325]]"
+- "[[G2384G]]"
+- "[[G2501N]]"
+- "[[G5207]]"
+- "[[G0846]]"
+texts:
+- NKO
+- no
+---
+
 **John 4:5**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then cometh he to a city of Samaria, which is called Sychar, near to the parcel of ground that Jacob gave to his son Joseph.
 <small><sub>**BSB:**</sub></small>
 So He came to a town of Samaria called Sychar, near the plot of ground that Jacob had given to his son Joseph.
-<small><sub>**Literal:**</sub></small>
-He comes therefore to a city <the> of Samaria being named Sychar, nearby the plot of ground that gave Jacob <the> to Joseph the son of him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.4|<< John 4:4]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.6|John 4:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|ἔρχεται]]  [[G3767\|οὖν]]  [[G1519\|εἰς]]  [[G4172\|πόλιν]]  [[G3588\|τῆς]]  [[G4540\|Σαμαρείας]]  [[G3004H\|λεγομένην]]  [[G4965\|Συχάρ,]]  [[G4139\|πλησίον]]  [[G3588\|τοῦ]]  [[G5564G\|χωρίου]]  [[G3739\|ὃ]]  [[G1325\|ἔδωκεν]]  [[G2384G\|Ἰακὼβ]]  [[G3588\|τῷ]]  [[G2501N\|Ἰωσὴφ]]  [[G3588\|τῷ]]  [[G5207\|υἱῷ]]  [[G0846\|αὐτοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GALILEE|GALILEE]] • [[topic JACOB|JACOB]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic ROADS|ROADS]] • [[topic SAMARIA|SAMARIA]] • [[topic SHECHEM|SHECHEM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.4|<< John 4:4]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.6|John 4:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

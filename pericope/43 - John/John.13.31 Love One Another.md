@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Love One Another
+type: Pericope
 pericope: "[[John.13.31 Love One Another|Love One Another]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: John
 chapter: 13
 book/chapter: "[[John.13|John 13]]"
-genre:
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 5
 verses:
 - "[[John.13.31]]"
 - "[[John.13.32]]"
@@ -23,7 +30,7 @@ verses:
 - "[[John.13.35]]"
 ---
 
-[[John.13|John 13:31 - John 13:35]]
+<small>[[John.13|John 13:31-35]]</small>
 *Love One Another*
 
 [[John.13.31|31]] Therefore, when he was gone out, Jesus said, Now is the Son of man glorified, and God is glorified in him.

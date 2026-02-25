@@ -1,8 +1,65 @@
+---
+title: Genesis 19:37
+type: Verse
+kjv: "And the firstborn bare a son, and called his name Moab: the same is the father of the Moabites unto this day."
+bsb: "The older daughter gave birth to a son and named him Moab. He is the father of the Moabites of today."
+hebrew: "וַתֵּ֤לֶד הַבְּכִירָה֙ בֵּ֔ן וַתִּקְרָ֥א שְׁמ֖וֹ מוֹאָ֑ב ה֥וּא אֲבִֽי־ מוֹאָ֖ב עַד־ הַיּֽוֹם׃"
+pericope: "[[Gen.19.30 Lot and His Daughters|Lot and His Daughters]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 19
+book/chapter: "[[Gen.19|Genesis 19]]"
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BASTARD|BASTARD]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic LOT|LOT]]"
+- "[[topic MOAB|MOAB]]"
+- "[[topic MOABITES|MOABITES]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H3205]]"
+- "[[H9009]]"
+- "[[H1067]]"
+- "[[H1121A]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H4124H]]"
+- "[[H1931]]"
+- "[[H0001G]]"
+- "[[H9014]]"
+- "[[H5704]]"
+- "[[H3117L]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 19:37**<big><big>[[Gen.19.30 Lot and His Daughters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the firstborn bare a son, and called his name Moab: the same [is] the father of the Moabites unto this day.
 <small><sub>**BSB:**</sub></small>
 The older daughter gave birth to a son and named him Moab. He is the father of the Moabites of today.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3205\|תֵּ֤לֶד]] [[H9009\|הַ]][[H1067\|בְּכִירָה֙]] [[H1121A\|בֵּ֔ן]] [[H9001\|וַ]][[H7121H\|תִּקְרָ֥א]] [[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H4124H\|מוֹאָ֑ב]] [[H1931\|ה֥וּא]] [[H0001G\|אֲבִֽי]][[H9014\|־]] [[H4124H\|מוֹאָ֖ב]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H3117L\|יּֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BASTARD|BASTARD]] • [[topic CHILDREN|CHILDREN]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic LOT|LOT]] • [[topic MOAB|MOAB]] • [[topic MOABITES|MOABITES]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.36|<< Genesis 19:36]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.38|Genesis 19:38 >>]]</td></tr></table>
 

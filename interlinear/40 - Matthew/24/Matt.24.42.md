@@ -1,10 +1,57 @@
+---
+title: Matthew 24:42
+type: Verse
+kjv: "Watch therefore: for ye know not what hour your Lord doth come."
+bsb: "Therefore keep watch, because you do not know the day on which your Lord will come."
+jesus_said: "Watch therefore: for ye know not what hour your Lord doth come."
+greek: "Γρηγορεῖτε οὖν, ὅτι οὐκ οἴδατε ποίᾳ ἡμέρᾳ ὁ κύριος ὑμῶν ἔρχεται."
+pericope: "[[Matt.24.36 Readiness at Any Hour|Readiness at Any Hour]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 24
+book/chapter: "[[Matt.24|Matthew 24]]"
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G1127]]"
+- "[[G3767]]"
+- "[[G3754H]]"
+- "[[G3756]]"
+- "[[G6063]]"
+- "[[G4169]]"
+- "[[G2250]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G4771]]"
+- "[[G2064]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Matthew 24:42**<big><big>[[Matt.24.36 Readiness at Any Hour|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Watch therefore: for ye know not what hour your Lord doth come.
 <small><sub>**BSB:**</sub></small>
 Therefore keep watch, because you do not know the day on which your Lord will come.
-<small><sub>**Literal:**</sub></small>
-do keep watch therefore, for not you know on what day the Lord of you comes.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.41|<< Matthew 24:41]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.43|Matthew 24:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1127\|Γρηγορεῖτε]]  [[G3767\|οὖν,]]  [[G3754H\|ὅτι]]  [[G3756\|οὐκ]]  [[G6063\|οἴδατε]]  [[G4169\|ποίᾳ]]  [[G2250\|ἡμέρᾳ]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G4771\|ὑμῶν]]  [[G2064\|ἔρχεται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.41|<< Matthew 24:41]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.43|Matthew 24:43 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

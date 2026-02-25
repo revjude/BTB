@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Additional Blessings of Obedience
+type: Pericope
 pericope: "[[Lev.26.1 Additional Blessings of Obedience|Additional Blessings of Obedience]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 26
 book/chapter: "[[Lev.26|Leviticus 26]]"
-genre:
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 13
 verses:
 - "[[Lev.26.1]]"
 - "[[Lev.26.2]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Lev.26.13]]"
 ---
 
-[[Lev.26|Leviticus 26:1 - Leviticus 26:13]]
+<small>[[Lev.26|Leviticus 26:1-13]]</small>
 *Additional Blessings of Obedience*
 
 [[Lev.26.1|1]] Ye shall make you no idols nor graven image, neither rear you up a standing image, neither shall ye set up \[any\] image of stone in your land, to bow down unto it: for I \[am\] the LORD your God.

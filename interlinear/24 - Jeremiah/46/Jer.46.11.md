@@ -1,8 +1,64 @@
+---
+title: Jeremiah 46:11
+type: Verse
+kjv: "Go up into Gilead, and take balm, O virgin, the daughter of Egypt: in vain shalt thou use many medicines; for thou shalt not be cured."
+bsb: "Go up to Gilead for balm, O Virgin Daughter of Egypt! In vain you try many remedies, but for you there is no healing."
+hebrew: "עֲלִ֤י גִלְעָד֙ וּקְחִ֣י צֳרִ֔י בְּתוּלַ֖ת בַּת־ מִצְרָ֑יִם לַשָּׁוְא֙ הִרְבֵּ֣ית רְפֻא֔וֹת תְּעָלָ֖ה אֵ֥ין לָֽךְ׃"
+pericope: "[[Jer.46.1 Judgment on Egypt|Judgment on Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 46
+book/chapter: "[[Jer.46|Jeremiah 46]]"
+chronological_order: 769
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BALM|BALM]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic MEDICINE|MEDICINE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H5927G]]"
+- "[[H1568G]]"
+- "[[H9002]]"
+- "[[H3947G]]"
+- "[[H6875]]"
+- "[[H1330]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H4714G]]"
+- "[[H9005]]"
+- "[[H7723H]]"
+- "[[H7235A]]"
+- "[[H7499]]"
+- "[[H8585B]]"
+- "[[H0369]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 46:11**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go up into Gilead, and take balm, O virgin, the daughter of Egypt: in vain shalt thou use many medicines; [for] thou shalt not be cured.
 <small><sub>**BSB:**</sub></small>
 Go up to Gilead for balm, O Virgin Daughter of Egypt! In vain you try many remedies, but for you there is no healing.
+<small><sub>**Hebrew:**</sub></small>
+[[H5927G\|עֲלִ֤י]] [[H1568G\|גִלְעָד֙]] [[H9002\|וּ]][[H3947G\|קְחִ֣י]] [[H6875\|צֳרִ֔י]] [[H1330\|בְּתוּלַ֖ת]] [[H1323G\|בַּת]][[H9014\|־]] [[H4714G\|מִצְרָ֑יִם]] [[H9005\|לַ]][[H7723H\|שָּׁוְא֙]] [[H7235A\|הִרְבֵּ֣ית]] [[H7499\|רְפֻא֔וֹת]] [[H8585B\|תְּעָלָ֖ה]] [[H0369\|אֵ֥ין]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALM|BALM]] • [[topic DISEASE|DISEASE]] • [[topic GILEAD|GILEAD]] • [[topic MEDICINE|MEDICINE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.10|<< Jeremiah 46:10]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.12|Jeremiah 46:12 >>]]</td></tr></table>
 

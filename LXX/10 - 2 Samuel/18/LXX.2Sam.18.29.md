@@ -1,6 +1,73 @@
+---
+title: LXX 2 Samuel 18:29
+type: Verse
+lxx: "And the king said, Is there peace to the young man  Absalom? And Ahimaaz said, I saw the great multitude being gladdened in the sending Joab the servant of the king, and  your servant, and I do not know what happened there."
+greek: "και είπεν ο βασιλεύς ειρήνη τω παιδαρίω τω Αβεσαλώμ και είπεν Αχιμάας είδον το πλήθος το μέγα ευφραινόμενον εν τω αποστείλαι Ιωάβ τον παίδα του βασιλέως και τον δούλόν σου και ουκ έγνων τι εκεί"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 18
+book/chapter: "[[2Sam.18|2 Samuel 18]]"
+chronological_order: 417
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AHIMAAZ|AHIMAAZ]]"
+- "[[topic CUSHI|CUSHI]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G1515]]"
+- "[[G3588]]"
+- "[[G3808]]"
+- "[[G3588]]"
+- "[[H0053]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[H0290]]"
+- "[[G1492]]"
+- "[[G3588]]"
+- "[[G4128]]"
+- "[[G3588]]"
+- "[[G3173]]"
+- "[[G2165]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0649]]"
+- "[[H3097]]"
+- "[[G3588]]"
+- "[[G3816]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1097]]"
+- "[[G5100]]"
+- "[[G1563]]"
+---
+
 **LXX 2 Samuel 18:29** 
 <small><sub>**LXX:**</sub></small>
 And the king said, \[Is there\] peace to the young man  Absalom? And Ahimaaz said, I saw the great multitude being gladdened in the sending Joab the servant of the king, and  your servant, and I do not know what \[happened\] there. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπεν]] [[G3588\|ο]] [[G0935\|βασιλεύς]] [[G1515\|ειρήνη]] [[G3588\|τω]] [[G3808\|παιδαρίω]] [[G3588\|τω]] [[H0053\|Αβεσαλώμ]] [[G2532\|και]] [[G2036\|είπεν]] [[H0290\|Αχιμάας]] [[G1492\|είδον]] [[G3588\|το]] [[G4128\|πλήθος]] [[G3588\|το]] [[G3173\|μέγα]] [[G2165\|ευφραινόμενον]] [[G1722\|εν]] [[G3588\|τω]] [[G0649\|αποστείλαι]] [[H3097\|Ιωάβ]] [[G3588\|τον]] [[G3816\|παίδα]] [[G3588\|του]] [[G0935\|βασιλέως]] [[G2532\|και]] [[G3588\|τον]] [[G1401\|δούλόν]] [[G1473\|σου]] [[G2532\|και]] [[G3756\|ουκ]] [[G1097\|έγνων]] [[G5100\|τι]] [[G1563\|εκεί]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIMAAZ|AHIMAAZ]] • [[topic CUSHI|CUSHI]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.18.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.28|<< 2 Samuel 18:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.30|2 Samuel 18:30 >>]]</td></tr></table>
 
@@ -39,6 +106,6 @@ And the king said, \[Is there\] peace to the young man  Absalom? And Ahimaaz sai
 | know | **<big>[[G1097\|έγνων]]</big>** |
 | what | **<big>[[G5100\|τι]]</big>** |
 | \[happened\] there. | **<big>[[G1563\|εκεί]]</big>** |
-[[2Sam.18.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.28|<< 2 Samuel 18:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.30|2 Samuel 18:30 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.28|<< 2 Samuel 18:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.30|2 Samuel 18:30 >>]]</td></tr></table>
 
 

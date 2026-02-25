@@ -1,8 +1,66 @@
+---
+title: Leviticus 7:12
+type: Verse
+kjv: "If he offer it for a thanksgiving, then he shall offer with the sacrifice of thanksgiving unleavened cakes mingled with oil, and unleavened wafers anointed with oil, and cakes mingled with oil, of fine flour, fried."
+bsb: "If he offers it in thanksgiving, then along with the sacrifice of thanksgiving he shall offer unleavened cakes mixed with olive oil, unleavened wafers coated with oil, and well-kneaded cakes of fine flour mixed with oil."
+hebrew: "אִ֣ם עַל־ תּוֹדָה֮ יַקְרִיבֶנּוּ֒ וְהִקְרִ֣יב׀ עַל־ זֶ֣בַח הַתּוֹדָ֗ה חַלּ֤וֹת מַצּוֹת֙ בְּלוּלֹ֣ת בַּשֶּׁ֔מֶן וּרְקִיקֵ֥י מַצּ֖וֹת מְשֻׁחִ֣ים בַּשָּׁ֑מֶן וְסֹ֣לֶת מֻרְבֶּ֔כֶת חַלֹּ֖ת בְּלוּלֹ֥ת בַּשָּֽׁמֶן׃"
+pericope: "[[Lev.7.11 The Peace Offering|The Peace Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 7
+book/chapter: "[[Lev.7|Leviticus 7]]"
+chronological_order: 139
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H0518A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H8426]]"
+- "[[H7126H]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H9015]]"
+- "[[H2077]]"
+- "[[H9009]]"
+- "[[H2471]]"
+- "[[H4682]]"
+- "[[H1101A]]"
+- "[[H9003]]"
+- "[[H8081]]"
+- "[[H9002]]"
+- "[[H7550]]"
+- "[[H4886]]"
+- "[[H5560]]"
+- "[[H7246]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 7:12**<big><big>[[Lev.7.11 The Peace Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If he offer it for a thanksgiving, then he shall offer with the sacrifice of thanksgiving unleavened cakes mingled with oil, and unleavened wafers anointed with oil, and cakes mingled with oil, of fine flour, fried.
 <small><sub>**BSB:**</sub></small>
 If he offers it in thanksgiving, then along with the sacrifice of thanksgiving he shall offer unleavened cakes mixed with olive oil, unleavened wafers coated with oil, and well-kneaded cakes of fine flour mixed with oil.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִ֣ם]] [[H5921A\|עַל]][[H9014\|־]] [[H8426\|תּוֹדָה֮]] [[H7126H\|יַקְרִיבֶ]][[H9033\|נּוּ֒]] [[H9001\|וְ]][[H7126H\|הִקְרִ֣יב]][[H9015\|׀]] [[H5921A\|עַל]][[H9014\|־]] [[H2077\|זֶ֣בַח]] [[H9009\|הַ]][[H8426\|תּוֹדָ֗ה]] [[H2471\|חַלּ֤וֹת]] [[H4682\|מַצּוֹת֙]] [[H1101A\|בְּלוּלֹ֣ת]] [[H9003\|בַּ]][[H8081\|שֶּׁ֔מֶן]] [[H9002\|וּ]][[H7550\|רְקִיקֵ֥י]] [[H4682\|מַצּ֖וֹת]] [[H4886\|מְשֻׁחִ֣ים]] [[H9003\|בַּ]][[H8081\|שָּׁ֑מֶן]] [[H9002\|וְ]][[H5560\|סֹ֣לֶת]] [[H7246\|מֻרְבֶּ֔כֶת]] [[H2471\|חַלֹּ֖ת]] [[H1101A\|בְּלוּלֹ֥ת]] [[H9003\|בַּ]][[H8081\|שָּֽׁמֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.11|<< Leviticus 7:11]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.13|Leviticus 7:13 >>]]</td></tr></table>
 

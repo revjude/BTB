@@ -1,8 +1,61 @@
+---
+title: Ezekiel 40:19
+type: Verse
+kjv: "Then he measured the breadth from the forefront of the lower gate unto the forefront of the inner court without, an hundred cubits eastward and northward."
+bsb: "Then he measured the distance from the front of the lower gateway to the outside of the inner court; it was a hundred cubits on the east side as well as on the north."
+hebrew: "וַיָּ֣מָד רֹ֡חַב מִלִּפְנֵי֩ הַשַּׁ֨עַר הַתַּחְתּ֜וֹנָה לִפְנֵ֨י הֶחָצֵ֧ר הַפְּנִימִ֛י מִח֖וּץ מֵאָ֣ה אַמָּ֑ה הַקָּדִ֖ים וְהַצָּפֽוֹן׃"
+pericope: "[[Ezek.40.17 The Outer Court|The Outer Court]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 40
+book/chapter: "[[Ezek.40|Ezekiel 40]]"
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic WINDOW|WINDOW]]"
+strongs:
+- "[[H9001]]"
+- "[[H4058]]"
+- "[[H7341]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H8179G]]"
+- "[[H8481H]]"
+- "[[H2691A]]"
+- "[[H6442]]"
+- "[[H2351]]"
+- "[[H3967]]"
+- "[[H0520A]]"
+- "[[H6921]]"
+- "[[H9002]]"
+- "[[H6828G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 40:19**<big><big>[[Ezek.40.17 The Outer Court|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he measured the breadth from the forefront of the lower gate unto the forefront of the inner court without, an hundred cubits eastward and northward.
 <small><sub>**BSB:**</sub></small>
 Then he measured the distance from the front of the lower gateway to the outside of the inner court; it was a hundred cubits on the east side as well as on the north.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4058\|יָּ֣מָד]] [[H7341\|רֹ֡חַב]] [[H9006\|מִ]][[H9005\|לִּ]][[H6440G\|פְנֵי֩]] [[H9009\|הַ]][[H8179G\|שַּׁ֨עַר]] [[H9009\|הַ]][[H8481H\|תַּחְתּ֜וֹנָה]] [[H9005\|לִ]][[H6440G\|פְנֵ֨י]] [[H9009\|הֶ]][[H2691A\|חָצֵ֧ר]] [[H9009\|הַ]][[H6442\|פְּנִימִ֛י]] [[H9006\|מִ]][[H2351\|ח֖וּץ]] [[H3967\|מֵאָ֣ה]] [[H0520A\|אַמָּ֑ה]] [[H9009\|הַ]][[H6921\|קָּדִ֖ים]] [[H9002\|וְ]][[H9009\|הַ]][[H6828G\|צָּפֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WINDOW|WINDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.18|<< Ezekiel 40:18]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.20|Ezekiel 40:20 >>]]</td></tr></table>
 

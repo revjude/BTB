@@ -1,10 +1,56 @@
+---
+title: Colossians 2:11
+type: Verse
+kjv: "In whom also ye are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ:"
+bsb: "In Him you were also circumcised, in the putting off of your sinful nature, with the circumcision performed by Christ and not by human hands."
+greek: "ἐν ᾧ καὶ περιετμήθητε περιτομῇ ἀχειροποιήτῳ ἐν τῇ ἀπεκδύσει τοῦ σώματος τῶν ἁμαρτιῶν τῆς σαρκός, ἐν τῇ περιτομῇ τοῦ Χριστοῦ,"
+pericope: "[[Col.2.6 Alive with Christ|Alive with Christ]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 2
+book/chapter: "[[Col.2|Colossians 2]]"
+chronological_order: 1122
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+strongs:
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G2532]]"
+- "[[G4059]]"
+- "[[G4061]]"
+- "[[G0886]]"
+- "[[G3588]]"
+- "[[G0555]]"
+- "[[G4983]]"
+- "[[G0266]]"
+- "[[G4561]]"
+- "[[G5547]]"
+texts:
+- NKO
+- K
+---
+
 **Colossians 2:11**<big><big>[[Col.2.6 Alive with Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 In whom also ye are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ:
 <small><sub>**BSB:**</sub></small>
 In Him you were also circumcised, in the putting off of your sinful nature, with the circumcision performed by Christ and not by human hands.
-<small><sub>**Literal:**</sub></small>
-in whom also you were circumcised with [the] circumcision made without hands in the removal of the body of the sins of the flesh, in the circumcision <the> of Christ,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.10|<< Colossians 2:10]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.12|Colossians 2:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3739\|ᾧ]]  [[G2532\|καὶ]]  [[G4059\|περιετμήθητε]]  [[G4061\|περιτομῇ]]  [[G0886\|ἀχειροποιήτῳ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0555\|ἀπεκδύσει]]  [[G3588\|τοῦ]]  [[G4983\|σώματος]]  [[G3588\|τῶν]]  [[G0266\|ἁμαρτιῶν]]  [[G3588\|τῆς]]  [[G4561\|σαρκός,]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4061\|περιτομῇ]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIRCUMCISION|CIRCUMCISION]] • [[topic PERFECTION|PERFECTION]] • [[topic REGENERATION|REGENERATION]] • [[topic SANCTIFICATION|SANCTIFICATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.10|<< Colossians 2:10]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.12|Colossians 2:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Colossians 2:11** is...
 > $\quad$ alluding to: [[LXX.Deut.10.16|Deut 10:16]]

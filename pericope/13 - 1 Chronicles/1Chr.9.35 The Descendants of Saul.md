@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Descendants of Saul
+type: Pericope
 pericope: "[[1Chr.9.35 The Descendants of Saul|The Descendants of Saul]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 9
 book/chapter: "[[1Chr.9|1 Chronicles 9]]"
-genre:
+chronological_order: 328
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 10
 verses:
 - "[[1Chr.9.35]]"
 - "[[1Chr.9.36]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Chr.9.44]]"
 ---
 
-[[1Chr.9|1 Chronicles 9:35 - 1 Chronicles 9:44]]
+<small>[[1Chr.9|1 Chronicles 9:35-44]]</small>
 *The Descendants of Saul*
 
 [[1Chr.9.35|35]] And in Gibeon dwelt the father of Gibeon, Jehiel, whose wife’s name \[was\] Maachah:

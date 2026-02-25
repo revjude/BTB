@@ -1,8 +1,64 @@
+---
+title: Leviticus 5:5
+type: Verse
+kjv: "And it shall be, when he shall be guilty in one of these things, that he shall confess that he hath sinned in that thing:"
+bsb: "If someone incurs guilt in one of these ways, he must confess the sin he has committed,"
+hebrew: "וְהָיָ֥ה כִֽי־ יֶאְשַׁ֖ם לְאַחַ֣ת מֵאֵ֑לֶּה וְהִ֨תְוַדָּ֔ה אֲשֶׁ֥ר חָטָ֖א עָלֶֽיהָ׃"
+pericope: "[[Lev.5.1 Sins Requiring a Sin Offering|Sins Requiring a Sin Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 5
+book/chapter: "[[Lev.5|Leviticus 5]]"
+chronological_order: 137
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SIN|SIN]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0816]]"
+- "[[H9005]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H0428]]"
+- "[[H3034]]"
+- "[[H0834A]]"
+- "[[H2398]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 5:5**<big><big>[[Lev.5.1 Sins Requiring a Sin Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, when he shall be guilty in one of these [things], that he shall confess that he hath sinned in that [thing]:
 <small><sub>**BSB:**</sub></small>
 If someone incurs guilt in one of these ways, he must confess the sin he has committed,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֥ה]] [[H3588A\|כִֽי]][[H9014\|־]] [[H0816\|יֶאְשַׁ֖ם]] [[H9005\|לְ]][[H0259\|אַחַ֣ת]] [[H9006\|מֵ]][[H0428\|אֵ֑לֶּה]] [[H9001\|וְ]][[H3034\|הִ֨תְוַדָּ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H2398\|חָטָ֖א]] [[H5921A\|עָלֶֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic IGNORANCE|IGNORANCE]] • [[topic PRAYER|PRAYER]] • [[topic SIN|SIN]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.5.4|<< Leviticus 5:4]]</td><td align="center" style="border:none;">[[Lev.5|Leviticus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.5.6|Leviticus 5:6 >>]]</td></tr></table>
 

@@ -1,10 +1,65 @@
+---
+title: Matthew 10:15
+type: Verse
+kjv: "Verily I say unto you, It shall be more tolerable for the land of Sodom and Gomorrha in the day of judgment, than for that city."
+bsb: "Truly I tell you, it will be more bearable for Sodom and Gomorrah on the day of judgment than for that town."
+jesus_said: "Verily I say unto you, It shall be more tolerable for the land of Sodom and Gomorrha in the day of judgment, than for that city."
+greek: "ἀμὴν λέγω ὑμῖν· ἀνεκτότερον ἔσται γῇ Σοδόμων καὶ Γομόρρων ἐν ἡμέρᾳ κρίσεως ἢ τῇ πόλει ἐκείνῃ."
+pericope: "[[Matt.10.5 The Ministry of the Twelve|The Ministry of the Twelve]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 10
+book/chapter: "[[Matt.10|Matthew 10]]"
+chronological_order: 954
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GOMORRAH|GOMORRAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G0414]]"
+- "[[G1510]]"
+- "[[G1093H]]"
+- "[[G4670]]"
+- "[[G2532]]"
+- "[[G1116]]"
+- "[[G1722]]"
+- "[[G2250]]"
+- "[[G2920]]"
+- "[[G2228]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G1565]]"
+texts:
+- NKO
+---
+
 **Matthew 10:15**<big><big>[[Matt.10.5 The Ministry of the Twelve|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Verily I say unto you, It shall be more tolerable for the land of Sodom and Gomorrha in the day of judgment, than for that city.
 <small><sub>**BSB:**</sub></small>
 Truly I tell you, it will be more bearable for Sodom and Gomorrah on the day of judgment than for that town.
-<small><sub>**Literal:**</sub></small>
-Amen I say to you; More tolerable it will be for [the] land of Sodom and of Gomorrah on day of judgment than the city for that.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.14|<< Matthew 10:14]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.16|Matthew 10:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G0414\|ἀνεκτότερον]]  [[G1510\|ἔσται]]  [[G1093H\|γῇ]]  [[G4670\|Σοδόμων]]  [[G2532\|καὶ]]  [[G1116\|Γομόρρων]]  [[G1722\|ἐν]]  [[G2250\|ἡμέρᾳ]]  [[G2920\|κρίσεως]]  [[G2228\|ἢ]]  [[G3588\|τῇ]]  [[G4172\|πόλει]]  [[G1565\|ἐκείνῃ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GOMORRAH|GOMORRAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SODOM|SODOM]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.14|<< Matthew 10:14]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.16|Matthew 10:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

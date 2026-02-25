@@ -1,8 +1,55 @@
+---
+title: Psalm 139:5
+type: Verse
+kjv: "Thou hast beset me behind and before, and laid thine hand upon me."
+bsb: "You hem me in behind and before; You have laid Your hand upon me."
+hebrew: "אָח֣וֹר וָקֶ֣דֶם צַרְתָּ֑נִי וַתָּ֖שֶׁת עָלַ֣י כַּפֶּֽכָה׃"
+pericope: "[[Ps.139.1 You Have Searched Me and Known Me|You Have Searched Me and Known Me]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 139
+book/chapter: "[[Ps.139|Psalm 139]]"
+chronological_order: 386
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+strongs:
+- "[[H0268]]"
+- "[[H9002]]"
+- "[[H6924H]]"
+- "[[H6696A]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H7896H]]"
+- "[[H5921A]]"
+- "[[H3709G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 139:5**<big><big>[[Ps.139.1 You Have Searched Me and Known Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast beset me behind and before, and laid thine hand upon me.
 <small><sub>**BSB:**</sub></small>
 You hem me in behind and before; You have laid Your hand upon me.
+<small><sub>**Hebrew:**</sub></small>
+[[H0268\|אָח֣וֹר]] [[H9002\|וָ]][[H6924H\|קֶ֣דֶם]] [[H6696A\|צַרְתָּ֑]][[H9030\|נִי]] [[H9001\|וַ]][[H7896H\|תָּ֖שֶׁת]] [[H5921A\|עָלַ֣]][[H9030\|י]] [[H3709G\|כַּפֶּֽ]][[H9021\|כָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEART|HEART]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.139.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.4|<< Psalms 139:4]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.6|Psalms 139:6 >>]]</td></tr></table>
 

@@ -1,10 +1,63 @@
+---
+title: Luke 12:10
+type: Verse
+kjv: "And whosoever shall speak a word against the Son of man, it shall be forgiven him: but unto him that blasphemeth against the Holy Ghost it shall not be forgiven."
+bsb: "And everyone who speaks a word against the Son of Man will be forgiven, but whoever blasphemes against the Holy Spirit will not be forgiven."
+jesus_said: "And whosoever shall speak a word against the Son of man, it shall be forgiven him: but unto him that blasphemeth against the Holy Ghost it shall not be forgiven."
+greek: "καὶ πᾶς ὃς ἐρεῖ λόγον εἰς τὸν υἱὸν τοῦ ἀνθρώπου, ἀφεθήσεται αὐτῷ· τῷ δὲ εἰς τὸ ἅγιον πνεῦμα βλασφημήσαντι οὐκ ἀφεθήσεται.¶"
+pericope: "[[Luke.12.8 Confessing Christ|Confessing Christ]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic SIN|SIN]]"
+- "[[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3739]]"
+- "[[G4483]]"
+- "[[G3056]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G0863H]]"
+- "[[G0846]]"
+- "[[G1161]]"
+- "[[G0040G]]"
+- "[[G4151G]]"
+- "[[G0987]]"
+- "[[G3756]]"
+texts:
+- NKO
+---
+
 **Luke 12:10**<big><big>[[Luke.12.8 Confessing Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And whosoever shall speak a word against the Son of man, it shall be forgiven him: but unto him that blasphemeth against the Holy Ghost it shall not be forgiven.
 <small><sub>**BSB:**</sub></small>
 And everyone who speaks a word against the Son of Man will be forgiven, but whoever blasphemes against the Holy Spirit will not be forgiven.
-<small><sub>**Literal:**</sub></small>
-And everyone who will speak a word against the Son <the> of Man, it will be forgiven to him; to the [one] however [who] against the Holy Spirit having blasphemed not will be forgiven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.9|<< Luke 12:9]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.11|Luke 12:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3956\|πᾶς]]  [[G3739\|ὃς]]  [[G4483\|ἐρεῖ]]  [[G3056\|λόγον]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου,]]  [[G0863H\|ἀφεθήσεται]]  [[G0846\|αὐτῷ·]]  [[G3588\|τῷ]]  [[G1161\|δὲ]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G0040G\|ἅγιον]]  [[G4151G\|πνεῦμα]]  [[G0987\|βλασφημήσαντι]]  [[G3756\|οὐκ]]  [[G0863H\|ἀφεθήσεται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PENITENT|PENITENT]] • [[topic SIN|SIN]] • [[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.9|<< Luke 12:9]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.11|Luke 12:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

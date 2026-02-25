@@ -1,8 +1,58 @@
+---
+title: 1 Chronicles 23:19
+type: Verse
+kjv: "Of the sons of Hebron; Jeriah the first, Amariah the second, Jahaziel the third, and Jekameam the fourth."
+bsb: "The sons of Hebron: Jeriah was the first, Amariah the second, Jahaziel the third, and Jekameam the fourth."
+hebrew: "בְּנֵ֖י חֶבְר֑וֹן יְרִיָּ֤הוּ הָרֹאשׁ֙ אֲמַרְיָ֣ה הַשֵּׁנִ֔י יַחֲזִיאֵל֙ הַשְּׁלִישִׁ֔י וִֽיקַמְעָ֖ם הָרְבִיעִֽי׃"
+pericope: "[[1Chr.23.12 The Kohathites|The Kohathites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 23
+book/chapter: "[[1Chr.23|1 Chronicles 23]]"
+chronological_order: 434
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AMARIAH|AMARIAH]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic JAHAZIEL|JAHAZIEL]]"
+- "[[topic JEKAMEAM|JEKAMEAM]]"
+- "[[topic JERIAH|JERIAH]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H1121A]]"
+- "[[H2275B]]"
+- "[[H3404G]]"
+- "[[H9009]]"
+- "[[H7218H]]"
+- "[[H0568I]]"
+- "[[H8145]]"
+- "[[H3166I]]"
+- "[[H7992]]"
+- "[[H9002]]"
+- "[[H3360]]"
+- "[[H7243]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 23:19**<big><big>[[1Chr.23.12 The Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of the sons of Hebron; Jeriah the first, Amariah the second, Jahaziel the third, and Jekameam the fourth.
 <small><sub>**BSB:**</sub></small>
 The sons of Hebron: Jeriah was the first, Amariah the second, Jahaziel the third, and Jekameam the fourth.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בְּנֵ֖י]] [[H2275B\|חֶבְר֑וֹן]] [[H3404G\|יְרִיָּ֤הוּ]] [[H9009\|הָ]][[H7218H\|רֹאשׁ֙]] [[H0568I\|אֲמַרְיָ֣ה]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֔י]] [[H3166I\|יַחֲזִיאֵל֙]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁ֔י]] [[H9002\|וִֽ]][[H3360\|יקַמְעָ֖ם]] [[H9009\|הָ]][[H7243\|רְבִיעִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMARIAH|AMARIAH]] • [[topic HEBRON|HEBRON]] • [[topic JAHAZIEL|JAHAZIEL]] • [[topic JEKAMEAM|JEKAMEAM]] • [[topic JERIAH|JERIAH]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.23.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23.18|<< 1 Chronicles 23:18]]</td><td align="center" style="border:none;">[[1Chr.23|1 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.23.20|1 Chronicles 23:20 >>]]</td></tr></table>
 

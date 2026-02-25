@@ -1,10 +1,58 @@
+---
+title: Matthew 9:5
+type: Verse
+kjv: "For whether is easier, to say, Thy sins be forgiven thee; or to say, Arise, and walk?"
+bsb: "Which is easier: to say, ‘Your sins are forgiven,’ or to say, ‘Get up and walk’?"
+jesus_said: "For whether is easier, to say, Thy sins be forgiven thee; or to say, Arise, and walk?"
+greek: "τί γάρ ἐστιν εὐκοπώτερον· εἰπεῖν· ἀφίενταί σου αἱ ἁμαρτίαι, ἢ εἰπεῖν· ἔγειρε καὶ περιπάτει;"
+pericope: "[[Matt.9.1 Jesus Heals a Paralytic|Jesus Heals a Paralytic]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 9
+book/chapter: "[[Matt.9|Matthew 9]]"
+chronological_order: 951
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G5101]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G2123]]"
+- "[[G2036]]"
+- "[[G0863H]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G0266]]"
+- "[[G2228]]"
+- "[[G1453]]"
+- "[[G2532]]"
+- "[[G4043]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 9:5**<big><big>[[Matt.9.1 Jesus Heals a Paralytic|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For whether is easier, to say, [Thy] sins be forgiven thee; or to say, Arise, and walk?
 <small><sub>**BSB:**</sub></small>
 Which is easier: to say, ‘Your sins are forgiven,’ or to say, ‘Get up and walk’?
-<small><sub>**Literal:**</sub></small>
-Which for is easier; to say; Are forgiven of you the sins, or to say; do arise and do walk?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.4|<< Matthew 9:4]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.6|Matthew 9:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τί]]  [[G1063\|γάρ]]  [[G1510\|ἐστιν]]  [[G2123\|εὐκοπώτερον·]]  [[G2036\|εἰπεῖν·]]  [[G0863H\|ἀφίενταί]]  [[G4771\|σου]]  [[G3588\|αἱ]]  [[G0266\|ἁμαρτίαι,]]  [[G2228\|ἢ]]  [[G2036\|εἰπεῖν·]]  [[G1453\|ἔγειρε]]  [[G2532\|καὶ]]  [[G4043\|περιπάτει;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.4|<< Matthew 9:4]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.6|Matthew 9:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

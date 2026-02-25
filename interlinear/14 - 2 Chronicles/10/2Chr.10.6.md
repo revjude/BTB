@@ -1,8 +1,69 @@
+---
+title: 2 Chronicles 10:6
+type: Verse
+kjv: "And king Rehoboam took counsel with the old men that had stood before Solomon his father while he yet lived, saying, What counsel give ye me to return answer to this people?"
+bsb: "Then King Rehoboam consulted with the elders who had served his father Solomon during his lifetime. “How do you advise me to respond to these people?” he asked."
+hebrew: "וַיִּוָּעַ֞ץ הַמֶּ֣לֶךְ רְחַבְעָ֗ם אֶת־ הַזְּקֵנִים֙ אֲשֶׁר־ הָי֣וּ עֹֽמְדִ֗ים לִפְנֵי֙ שְׁלֹמֹ֣ה אָבִ֔יו בִּֽהְיֹת֥וֹ חַ֖י לֵאמֹ֑ר אֵ֚יךְ אַתֶּ֣ם נֽוֹעָצִ֔ים לְהָשִׁ֥יב לָֽעָם־ הַזֶּ֖ה דָּבָֽר׃"
+pericope: "[[2Chr.10.1 Rebellion against Rehoboam|Rebellion against Rehoboam]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 10
+book/chapter: "[[2Chr.10|2 Chronicles 10]]"
+chronological_order: 556
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CANDIDATE|CANDIDATE]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3289]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H7346]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H2205H]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H8010]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H9043]]"
+- "[[H2416A]]"
+- "[[H0559]]"
+- "[[H0349A]]"
+- "[[H0859D]]"
+- "[[H7725M]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H1697G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 10:6**<big><big>[[2Chr.10.1 Rebellion against Rehoboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And king Rehoboam took counsel with the old men that had stood before Solomon his father while he yet lived, saying, What counsel give ye [me] to return answer to this people?
 <small><sub>**BSB:**</sub></small>
 Then King Rehoboam consulted with the elders who had served his father Solomon during his lifetime. “How do you advise me to respond to these people?” he asked.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3289\|יִּוָּעַ֞ץ]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H7346\|רְחַבְעָ֗ם]] [[H0854\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2205H\|זְּקֵנִים֙]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1961\|הָי֣וּ]] [[H5975G\|עֹֽמְדִ֗ים]] [[H9005\|לִ]][[H6440G\|פְנֵי֙]] [[H8010\|שְׁלֹמֹ֣ה]] [[H0001G\|אָבִ֔י]][[H9023\|ו]] [[H9003\|בִּֽ]][[H1961\|הְיֹת֥]][[H9043\|וֹ]] [[H2416A\|חַ֖י]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H0349A\|אֵ֚יךְ]] [[H0859D\|אַתֶּ֣ם]] [[H3289\|נֽוֹעָצִ֔ים]] [[H9005\|לְ]][[H7725M\|הָשִׁ֥יב]] [[H9005\|לָֽ]][[H5971A\|עָם]][[H9014\|־]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H1697G\|דָּבָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANDIDATE|CANDIDATE]] • [[topic REHOBOAM|REHOBOAM]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.10.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.10.5|<< 2 Chronicles 10:5]]</td><td align="center" style="border:none;">[[2Chr.10|2 Chronicles 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.10.7|2 Chronicles 10:7 >>]]</td></tr></table>
 

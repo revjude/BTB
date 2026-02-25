@@ -1,10 +1,59 @@
+---
+title: Acts 23:34
+type: Verse
+kjv: "And when the governor had read the letter, he asked of what province he was. And when he understood that he was of Cilicia;"
+bsb: "The governor read the letter and asked what province Paul was from. Learning that he was from Cilicia,"
+greek: "ἀναγνοὺς δὲ ὁ ἡγεμών καὶ ἐπερωτήσας ἐκ ποίας ἐπαρχείας ἐστὶν καὶ πυθόμενος ὅτι ἀπὸ Κιλικίας,"
+pericope: "[[Acts.23.23 Paul Sent to Felix|Paul Sent to Felix]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 23
+book/chapter: "[[Acts.23|Acts 23]]"
+chronological_order: 1105
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CAESAREA|CAESAREA]]"
+- "[[topic CHANGE OF VENUE|CHANGE OF VENUE]]"
+- "[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]]"
+- "[[topic FELIX|FELIX]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G0314]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2232]]"
+- "[[G2532]]"
+- "[[G1905]]"
+- "[[G1537]]"
+- "[[G4169]]"
+- "[[G1885]]"
+- "[[G1510]]"
+- "[[G4441]]"
+- "[[G3754G]]"
+- "[[G0575]]"
+- "[[G2791]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 23:34**<big><big>[[Acts.23.23 Paul Sent to Felix|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the governor had read [the letter], he asked of what province he was. And when he understood that [he was] of Cilicia;
 <small><sub>**BSB:**</sub></small>
 The governor read the letter and asked what province Paul was from. Learning that he was from Cilicia,
-<small><sub>**Literal:**</sub></small>
-Having read [it] then <the> governor and having asked from what province he is and having learned that from Cilicia [he is],<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.33|<< Acts 23:33]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.35|Acts 23:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0314\|ἀναγνοὺς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2232\|ἡγεμών]]  [[G2532\|καὶ]]  [[G1905\|ἐπερωτήσας]]  [[G1537\|ἐκ]]  [[G4169\|ποίας]]  [[G1885\|ἐπαρχείας]]  [[G1510\|ἐστὶν]]  [[G2532\|καὶ]]  [[G4441\|πυθόμενος]]  [[G3754G\|ὅτι]]  [[G0575\|ἀπὸ]]  [[G2791\|Κιλικίας,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAESAREA|CAESAREA]] • [[topic CHANGE OF VENUE|CHANGE OF VENUE]] • [[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]] • [[topic FELIX|FELIX]] • [[topic JUDGE|JUDGE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.33|<< Acts 23:33]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.35|Acts 23:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

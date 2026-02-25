@@ -1,8 +1,61 @@
+---
+title: 2 Chronicles 32:24
+type: Verse
+kjv: "In those days Hezekiah was sick to the death, and prayed unto the LORD: and he spake unto him, and he gave him a sign."
+bsb: "In those days Hezekiah became mortally ill. So he prayed to the LORD, who spoke to him and gave him a sign."
+hebrew: "בַּיָּמִ֣ים הָהֵ֔ם חָלָ֥ה יְחִזְקִיָּ֖הוּ עַד־ לָמ֑וּת וַיִּתְפַּלֵּל֙ אֶל־ יְהוָ֔ה וַיֹּ֣אמֶר ל֔וֹ וּמוֹפֵ֖ת נָ֥תַן לֽוֹ׃"
+pericope: "[[2Chr.32.24 Hezekiah’s Illness and Recovery|Hezekiah’s Illness and Recovery]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 32
+book/chapter: "[[2Chr.32|2 Chronicles 32]]"
+chronological_order: 662
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1992]]"
+- "[[H2470H]]"
+- "[[H2396G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H4191]]"
+- "[[H9001]]"
+- "[[H6419]]"
+- "[[H0413]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H4159]]"
+- "[[H5414G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 32:24**<big><big>[[2Chr.32.24 Hezekiah’s Illness and Recovery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In those days Hezekiah was sick to the death, and prayed unto the LORD: and he spake unto him, and he gave him a sign.
 <small><sub>**BSB:**</sub></small>
 In those days Hezekiah became mortally ill. So he prayed to the LORD, who spoke to him and gave him a sign.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יָּמִ֣ים]] [[H9009\|הָ]][[H1992\|הֵ֔ם]] [[H2470H\|חָלָ֥ה]] [[H2396G\|יְחִזְקִיָּ֖הוּ]] [[H5704\|עַד]][[H9014\|־]] [[H9005\|לָ]][[H4191\|מ֑וּת]] [[H9001\|וַ]][[H6419\|יִּתְפַּלֵּל֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9002\|וּ]][[H4159\|מוֹפֵ֖ת]] [[H5414G\|נָ֥תַן]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEZEKIAH|HEZEKIAH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.23|<< 2 Chronicles 32:23]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.25|2 Chronicles 32:25 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Joshua 7:5
+type: Verse
+kjv: "And the men of Ai smote of them about thirty and six men: for they chased them from before the gate even unto Shebarim, and smote them in the going down: wherefore the hearts of the people melted, and became as water."
+bsb: "And the men of Ai struck down about thirty-six of them, chasing them from the gate as far as the quarries and striking them down on the slopes. So the hearts of the people melted and became like water."
+hebrew: "וַיַּכּ֨וּ מֵהֶ֜ם אַנְשֵׁ֣י הָעַ֗י כִּשְׁלֹשִׁ֤ים וְשִׁשָּׁה֙ אִ֔ישׁ וַֽיִּרְדְּפ֞וּם לִפְנֵ֤י הַשַּׁ֙עַר֙ עַד־ הַשְּׁבָרִ֔ים וַיַּכּ֖וּם בַּמּוֹרָ֑ד וַיִּמַּ֥ס לְבַב־ הָעָ֖ם וַיְהִ֥י לְמָֽיִם׃"
+pericope: "[[Josh.7.1 The Defeat at Ai|The Defeat at Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 7
+book/chapter: "[[Josh.7|Joshua 7]]"
+chronological_order: 237
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic SHEBARIM|SHEBARIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H0582]]"
+- "[[H9009]]"
+- "[[H5857G]]"
+- "[[H9004]]"
+- "[[H7970]]"
+- "[[H9002]]"
+- "[[H8337]]"
+- "[[H0376G]]"
+- "[[H7291]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H8179G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H7671]]"
+- "[[H9003]]"
+- "[[H4174]]"
+- "[[H4549]]"
+- "[[H3824]]"
+- "[[H5971A]]"
+- "[[H1961]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 7:5**<big><big>[[Josh.7.1 The Defeat at Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men of Ai smote of them about thirty and six men: for they chased them [from] before the gate [even] unto Shebarim, and smote them in the going down: wherefore the hearts of the people melted, and became as water.
 <small><sub>**BSB:**</sub></small>
 And the men of Ai struck down about thirty-six of them, chasing them from the gate as far as the quarries and striking them down on the slopes. So the hearts of the people melted and became like water.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5221\|יַּכּ֨וּ]] [[H9006\|מֵ]][[H9038\|הֶ֜ם]] [[H0582\|אַנְשֵׁ֣י]] [[H9009\|הָ]][[H5857G\|עַ֗י]] [[H9004\|כִּ]][[H7970\|שְׁלֹשִׁ֤ים]] [[H9002\|וְ]][[H8337\|שִׁשָּׁה֙]] [[H0376G\|אִ֔ישׁ]] [[H9001\|וַֽ]][[H7291\|יִּרְדְּפ֞וּ]][[H9038\|ם]] [[H9005\|לִ]][[H6440G\|פְנֵ֤י]] [[H9009\|הַ]][[H8179G\|שַּׁ֙עַר֙]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H7671\|שְּׁבָרִ֔ים]] [[H9001\|וַ]][[H5221\|יַּכּ֖וּ]][[H9038\|ם]] [[H9003\|בַּ]][[H4174\|מּוֹרָ֑ד]] [[H9001\|וַ]][[H4549\|יִּמַּ֥ס]] [[H3824\|לְבַב]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9001\|וַ]][[H1961\|יְהִ֥י]] [[H9005\|לְ]][[H4325G\|מָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COWARDICE|COWARDICE]] • [[topic SHEBARIM|SHEBARIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.4|<< Joshua 7:4]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.6|Joshua 7:6 >>]]</td></tr></table>
 

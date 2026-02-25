@@ -1,8 +1,70 @@
+---
+title: 1 Chronicles 11:22
+type: Verse
+kjv: "Benaiah the son of Jehoiada, the son of a valiant man of Kabzeel, who had done many acts; he slew two lionlike men of Moab: also he went down and slew a lion in a pit in a snowy day."
+bsb: "And Benaiah son of Jehoiada was a man of valor from Kabzeel, a man of many exploits. He struck down two champions of Moab, and on a snowy day he went down into a pit and killed a lion."
+hebrew: "בְּנָיָ֨ה בֶן־ יְהוֹיָדָ֧ע בֶּן־ אִֽישׁ־ חַ֛יִל רַב־ פְּעָלִ֖ים מִֽן־ קַבְצְאֵ֑ל ה֣וּא הִכָּ֗ה אֵ֣ת שְׁנֵ֤י אֲרִיאֵל֙ מוֹאָ֔ב וְ֠הוּא יָרַ֞ד וְהִכָּ֧ה אֶֽת־ הָאֲרִ֛י בְּת֥וֹךְ הַבּ֖וֹר בְּי֥וֹם הַשָּֽׁלֶג׃"
+pericope: "[[1Chr.11.10 David’s Mighty Men|David’s Mighty Men]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 11
+book/chapter: "[[1Chr.11|1 Chronicles 11]]"
+chronological_order: 335
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BENAIAH|BENAIAH]]"
+- "[[topic KABZEEL|KABZEEL]]"
+- "[[topic MOABITES|MOABITES]]"
+strongs:
+- "[[H1141G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3077G]]"
+- "[[H1121G]]"
+- "[[H0376G]]"
+- "[[H2428G]]"
+- "[[H7227A]]"
+- "[[H6467]]"
+- "[[H4480A]]"
+- "[[H6909]]"
+- "[[H1931]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H8147]]"
+- "[[H0739]]"
+- "[[H4124G]]"
+- "[[H9002]]"
+- "[[H3381]]"
+- "[[H9009]]"
+- "[[H0738A]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H0953A]]"
+- "[[H3117G]]"
+- "[[H7950]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 11:22**<big><big>[[1Chr.11.10 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Benaiah the son of Jehoiada, the son of a valiant man of Kabzeel, who had done many acts; he slew two lionlike men of Moab: also he went down and slew a lion in a pit in a snowy day.
 <small><sub>**BSB:**</sub></small>
 And Benaiah son of Jehoiada was a man of valor from Kabzeel, a man of many exploits. He struck down two champions of Moab, and on a snowy day he went down into a pit and killed a lion.
+<small><sub>**Hebrew:**</sub></small>
+[[H1141G\|בְּנָיָ֨ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H3077G\|יְהוֹיָדָ֧ע]] [[H1121G\|בֶּן]][[H9014\|־]] [[H0376G\|אִֽישׁ]][[H9014\|־]] [[H2428G\|חַ֛יִל]] [[H7227A\|רַב]][[H9014\|־]] [[H6467\|פְּעָלִ֖ים]] [[H4480A\|מִֽן]][[H9014\|־]] [[H6909\|קַבְצְאֵ֑ל]] [[H1931\|ה֣וּא]] [[H5221\|הִכָּ֗ה]] [[H0853\|אֵ֣ת]] [[H8147\|שְׁנֵ֤י]] [[H0739\|אֲרִיאֵל֙]] [[H4124G\|מוֹאָ֔ב]] [[H9002\|וְ֠]][[H1931\|הוּא]] [[H3381\|יָרַ֞ד]] [[H9002\|וְ]][[H5221\|הִכָּ֧ה]] [[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הָ]][[H0738A\|אֲרִ֛י]] [[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H9009\|הַ]][[H0953A\|בּ֖וֹר]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H9009\|הַ]][[H7950\|שָּֽׁלֶג]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic BENAIAH|BENAIAH]] • [[topic KABZEEL|KABZEEL]] • [[topic MOABITES|MOABITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.21|<< 1 Chronicles 11:21]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.23|1 Chronicles 11:23 >>]]</td></tr></table>
 

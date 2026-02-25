@@ -1,8 +1,53 @@
+---
+title: Numbers 26:54
+type: Verse
+kjv: "To many thou shalt give the more inheritance, and to few thou shalt give the less inheritance: to every one shall his inheritance be given according to those that were numbered of him."
+bsb: "Increase the inheritance for a large tribe and decrease it for a small one; each tribe is to receive its inheritance according to the number of those registered."
+hebrew: "לָרַ֗ב תַּרְבֶּה֙ נַחֲלָת֔וֹ וְלַמְעַ֕ט תַּמְעִ֖יט נַחֲלָת֑וֹ אִ֚ישׁ לְפִ֣י פְקֻדָ֔יו יֻתַּ֖ן נַחֲלָתֽוֹ׃"
+pericope: "[[Num.26.52 Inheritance by Lot|Inheritance by Lot]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 26
+book/chapter: "[[Num.26|Numbers 26]]"
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+strongs:
+- "[[H9005]]"
+- "[[H7227A]]"
+- "[[H7235A]]"
+- "[[H5159]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H4592]]"
+- "[[H4591]]"
+- "[[H0376I]]"
+- "[[H6310K]]"
+- "[[H6485A]]"
+- "[[H5414G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 26:54**<big><big>[[Num.26.52 Inheritance by Lot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To many thou shalt give the more inheritance, and to few thou shalt give the less inheritance: to every one shall his inheritance be given according to those that were numbered of him.
 <small><sub>**BSB:**</sub></small>
 Increase the inheritance for a large tribe and decrease it for a small one; each tribe is to receive its inheritance according to the number of those registered.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H7227A\|רַ֗ב]] [[H7235A\|תַּרְבֶּה֙]] [[H5159\|נַחֲלָת֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H9005\|לַ]][[H4592\|מְעַ֕ט]] [[H4591\|תַּמְעִ֖יט]] [[H5159\|נַחֲלָת֑]][[H9023\|וֹ]] [[H0376I\|אִ֚ישׁ]] [[H9005\|לְ]][[H6310K\|פִ֣י]] [[H6485A\|פְקֻדָ֔י]][[H9023\|ו]] [[H5414G\|יֻתַּ֖ן]] [[H5159\|נַחֲלָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.53|<< Numbers 26:53]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.55|Numbers 26:55 >>]]</td></tr></table>
 

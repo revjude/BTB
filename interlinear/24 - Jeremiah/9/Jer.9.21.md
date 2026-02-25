@@ -1,8 +1,61 @@
+---
+title: Jeremiah 9:21
+type: Verse
+kjv: "For death is come up into our windows, and is entered into our palaces, to cut off the children from without, and the young men from the streets."
+bsb: "For death has climbed in through our windows; it has entered our fortresses to cut off the children from the streets, the young men from the town squares."
+hebrew: "כִּֽי־ עָ֤לָה מָ֙וֶת֙ בְּחַלּוֹנֵ֔ינוּ בָּ֖א בְּאַרְמְנוֹתֵ֑ינוּ לְהַכְרִ֤ית עוֹלָל֙ מִח֔וּץ בַּחוּרִ֖ים מֵרְחֹבֽוֹת׃"
+pericope: "[[Jer.9.1 A Lament over Zion|A Lament over Zion]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 9
+book/chapter: "[[Jer.9|Jeremiah 9]]"
+chronological_order: 726
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5927G]]"
+- "[[H4194]]"
+- "[[H9003]]"
+- "[[H2474]]"
+- "[[H9025]]"
+- "[[H0935G]]"
+- "[[H0759G]]"
+- "[[H9005]]"
+- "[[H3772I]]"
+- "[[H5768]]"
+- "[[H9006]]"
+- "[[H2351]]"
+- "[[H0970]]"
+- "[[H7339]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 9:21**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For death is come up into our windows, [and] is entered into our palaces, to cut off the children from without, [and] the young men from the streets.
 <small><sub>**BSB:**</sub></small>
 For death has climbed in through our windows; it has entered our fortresses to cut off the children from the streets, the young men from the town squares.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H5927G\|עָ֤לָה]] [[H4194\|מָ֙וֶת֙]] [[H9003\|בְּ]][[H2474\|חַלּוֹנֵ֔י]][[H9025\|נוּ]] [[H0935G\|בָּ֖א]] [[H9003\|בְּ]][[H0759G\|אַרְמְנוֹתֵ֑י]][[H9025\|נוּ]] [[H9005\|לְ]][[H3772I\|הַכְרִ֤ית]] [[H5768\|עוֹלָל֙]] [[H9006\|מִ]][[H2351\|ח֔וּץ]] [[H0970\|בַּחוּרִ֖ים]] [[H9006\|מֵ]][[H7339\|רְחֹבֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.9.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.20|<< Jeremiah 9:20]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.22|Jeremiah 9:22 >>]]</td></tr></table>
 

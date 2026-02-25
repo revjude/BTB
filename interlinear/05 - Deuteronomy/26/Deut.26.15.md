@@ -1,8 +1,79 @@
+---
+title: Deuteronomy 26:15
+type: Verse
+kjv: "Look down from thy holy habitation, from heaven, and bless thy people Israel, and the land which thou hast given us, as thou swarest unto our fathers, a land that floweth with milk and honey."
+bsb: "Look down from Your holy habitation, from heaven, and bless Your people Israel and the land You have given us as You swore to our fathers—a land flowing with milk and honey.”"
+hebrew: "הַשְׁקִיפָה֩ מִמְּע֨וֹן קָדְשְׁךָ֜ מִן־ הַשָּׁמַ֗יִם וּבָרֵ֤ךְ אֶֽת־ עַמְּךָ֙ אֶת־ יִשְׂרָאֵ֔ל וְאֵת֙ הָאֲדָמָ֔ה אֲשֶׁ֥ר נָתַ֖תָּה לָ֑נוּ כַּאֲשֶׁ֤ר נִשְׁבַּ֙עְתָּ֙ לַאֲבֹתֵ֔ינוּ אֶ֛רֶץ זָבַ֥ת חָלָ֖ב וּדְבָֽשׁ׃ ס"
+pericope: "[[Deut.26.1 Offering Firstfruits and Tithes|Offering Firstfruits and Tithes]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 26
+book/chapter: "[[Deut.26|Deuteronomy 26]]"
+chronological_order: 222
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic MILK|MILK]]"
+- "[[topic TITHES|TITHES]]"
+strongs:
+- "[[H8259]]"
+- "[[H9012]]"
+- "[[H9006]]"
+- "[[H4583]]"
+- "[[H6944G]]"
+- "[[H9021]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H5971A]]"
+- "[[H3478]]"
+- "[[H0127G]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H7650]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H0776G]]"
+- "[[H2100G]]"
+- "[[H2461]]"
+- "[[H1706]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Deuteronomy 26:15**<big><big>[[Deut.26.1 Offering Firstfruits and Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Look down from thy holy habitation, from heaven, and bless thy people Israel, and the land which thou hast given us, as thou swarest unto our fathers, a land that floweth with milk and honey.
 <small><sub>**BSB:**</sub></small>
 Look down from Your holy habitation, from heaven, and bless Your people Israel and the land You have given us as You swore to our fathers—a land flowing with milk and honey.”
+<small><sub>**Hebrew:**</sub></small>
+[[H8259\|הַשְׁקִיפָ]][[H9012\|ה֩]] [[H9006\|מִ]][[H4583\|מְּע֨וֹן]] [[H6944G\|קָדְשְׁ]][[H9021\|ךָ֜]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמַ֗יִם]] [[H9002\|וּ]][[H1288\|בָרֵ֤ךְ]] [[H0853\|אֶֽת]][[H9014\|־]] [[H5971A\|עַמְּ]][[H9021\|ךָ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H9009\|הָ]][[H0127G\|אֲדָמָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H5414G\|נָתַ֖תָּה]] [[H9005\|לָ֑]][[H9035\|נוּ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H7650\|נִשְׁבַּ֙עְתָּ֙]] [[H9005\|לַ]][[H0001G\|אֲבֹתֵ֔י]][[H9025\|נוּ]] [[H0776G\|אֶ֛רֶץ]] [[H2100G\|זָבַ֥ת]] [[H2461\|חָלָ֖ב]] [[H9002\|וּ]][[H1706\|דְבָֽשׁ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic HEAVEN|HEAVEN]] • [[topic MILK|MILK]] • [[topic TITHES|TITHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.26.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.26.14|<< Deuteronomy 26:14]]</td><td align="center" style="border:none;">[[Deut.26|Deuteronomy 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.26.16|Deuteronomy 26:16 >>]]</td></tr></table>
 
@@ -29,7 +100,7 @@ Look down from Your holy habitation, from heaven, and bless Your people Israel a
 | a land  |**<big>&#8207;[[H0776G\|אֶ֛רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | flowing of  |**<big>&#8207;[[H2100G\|זָבַ֥ת]]&#8207; </big>**| za.Vat<small><sup>[[HVqrfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | milk  |**<big>&#8207;[[H2461\|חָלָ֖ב]]&#8207; </big>**| cha.Lav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and honey  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1706\|דְבָֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> de.Vash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and honey  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1706\|דְבָֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> de.Vash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.26.14|<< Deuteronomy 26:14]]</td><td align="center" style="border:none;">[[Deut.26|Deuteronomy 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.26.16|Deuteronomy 26:16 >>]]</td></tr></table>
 
 

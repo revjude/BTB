@@ -1,8 +1,77 @@
+---
+title: 2 Samuel 21:17
+type: Verse
+kjv: "But Abishai the son of Zeruiah succoured him, and smote the Philistine, and killed him. Then the men of David sware unto him, saying, Thou shalt go no more out with us to battle, that thou quench not the light of Israel."
+bsb: "But Abishai son of Zeruiah came to his aid, struck the Philistine, and killed him. Then David’s men swore to him, “You must never again go out with us to battle, so that the lamp of Israel may not be extinguished.”"
+hebrew: "וַיַּֽעֲזָר־ לוֹ֙ אֲבִישַׁ֣י בֶּן־ צְרוּיָ֔ה וַיַּ֥ךְ אֶת־ הַפְּלִשְׁתִּ֖י וַיְמִיתֵ֑הוּ אָ֣ז נִשְׁבְּעוּ֩ אַנְשֵׁי־ דָוִ֨ד ל֜וֹ לֵאמֹ֗ר לֹא־ תֵצֵ֨א ע֤וֹד אִתָּ֙נוּ֙ לַמִּלְחָמָ֔ה וְלֹ֥א תְכַבֶּ֖ה אֶת־ נֵ֥ר יִשְׂרָאֵֽל׃ פ"
+pericope: "[[2Sam.21.15 Four Battles against the Philistines|Four Battles against the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 21
+book/chapter: "[[2Sam.21|2 Samuel 21]]"
+chronological_order: 429
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHAMPIONSHIP|CHAMPIONSHIP]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOLIATH|GOLIATH]]"
+- "[[topic LOYALTY|LOYALTY]]"
+strongs:
+- "[[H9001]]"
+- "[[H5826]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0052]]"
+- "[[H1121A]]"
+- "[[H6870]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H6430G]]"
+- "[[H4191]]"
+- "[[H0227A]]"
+- "[[H7650]]"
+- "[[H0582]]"
+- "[[H1732]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H3318G]]"
+- "[[H5750]]"
+- "[[H0854]]"
+- "[[H9035]]"
+- "[[H4421]]"
+- "[[H9002]]"
+- "[[H3518]]"
+- "[[H5216A]]"
+- "[[H3478]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Samuel 21:17**<big><big>[[2Sam.21.15 Four Battles against the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Abishai the son of Zeruiah succoured him, and smote the Philistine, and killed him. Then the men of David sware unto him, saying, Thou shalt go no more out with us to battle, that thou quench not the light of Israel.
 <small><sub>**BSB:**</sub></small>
 But Abishai son of Zeruiah came to his aid, struck the Philistine, and killed him. Then David’s men swore to him, “You must never again go out with us to battle, so that the lamp of Israel may not be extinguished.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5826\|יַּֽעֲזָר]][[H9014\|־]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H0052\|אֲבִישַׁ֣י]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6870\|צְרוּיָ֔ה]] [[H9001\|וַ]][[H5221\|יַּ֥ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6430G\|פְּלִשְׁתִּ֖י]] [[H9001\|וַ]][[H4191\|יְמִיתֵ֑]][[H9033\|הוּ]] [[H0227A\|אָ֣ז]] [[H7650\|נִשְׁבְּעוּ֩]] [[H0582\|אַנְשֵׁי]][[H9014\|־]] [[H1732\|דָוִ֨ד]] [[H9005\|ל֜]][[H9033\|וֹ]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H3808\|לֹא]][[H9014\|־]] [[H3318G\|תֵצֵ֨א]] [[H5750\|ע֤וֹד]] [[H0854\|אִתָּ֙]][[H9035\|נוּ֙]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֔ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3518\|תְכַבֶּ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H5216A\|נֵ֥ר]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAI|ABISHAI]] • [[topic ARMIES|ARMIES]] • [[topic CHAMPIONSHIP|CHAMPIONSHIP]] • [[topic CITIZENS|CITIZENS]] • [[topic DAVID|DAVID]] • [[topic GOLIATH|GOLIATH]] • [[topic LOYALTY|LOYALTY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.21.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.16|<< 2 Samuel 21:16]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.18|2 Samuel 21:18 >>]]</td></tr></table>
 
@@ -32,7 +101,7 @@ But Abishai son of Zeruiah came to his aid, struck the Philistine, and killed hi
 | you will extinguish  |**<big>&#8207;[[H3518\|תְכַבֶּ֖ה]]&#8207; </big>**| te.kha.Beh<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] lamp of  |**<big>&#8207;[[H5216A\|נֵ֥ר]]&#8207; </big>**| ner<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.16|<< 2 Samuel 21:16]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.18|2 Samuel 21:18 >>]]</td></tr></table>
 
 

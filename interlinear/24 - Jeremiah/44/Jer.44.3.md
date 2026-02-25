@@ -1,8 +1,66 @@
+---
+title: Jeremiah 44:3
+type: Verse
+kjv: "Because of their wickedness which they have committed to provoke me to anger, in that they went to burn incense, and to serve other gods, whom they knew not, neither they, ye, nor your fathers."
+bsb: "because of the evil they have done. They provoked Me to anger by continuing to burn incense and to serve other gods that neither they nor you nor your fathers ever knew."
+hebrew: "מִפְּנֵ֣י רָעָתָ֗ם אֲשֶׁ֤ר עָשׂוּ֙ לְהַכְעִסֵ֔נִי לָלֶ֣כֶת לְקַטֵּ֔ר לַעֲבֹ֖ד לֵאלֹהִ֣ים אֲחֵרִ֑ים אֲשֶׁר֙ לֹ֣א יְדָע֔וּם הֵ֖מָּה אַתֶּ֥ם וַאֲבֹתֵיכֶֽם׃"
+pericope: "[[Jer.44.1 Judgment on the Jews in Egypt|Judgment on the Jews in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 44
+book/chapter: "[[Jer.44|Jeremiah 44]]"
+chronological_order: 767
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H7451I]]"
+- "[[H9028]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H3707]]"
+- "[[H9030]]"
+- "[[H1980G]]"
+- "[[H6999H]]"
+- "[[H5647H]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H9038]]"
+- "[[H1992]]"
+- "[[H0859D]]"
+- "[[H9002]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 44:3**<big><big>[[Jer.44.1 Judgment on the Jews in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because of their wickedness which they have committed to provoke me to anger, in that they went to burn incense, [and] to serve other gods, whom they knew not, [neither] they, ye, nor your fathers.
 <small><sub>**BSB:**</sub></small>
 because of the evil they have done. They provoked Me to anger by continuing to burn incense and to serve other gods that neither they nor you nor your fathers ever knew.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H6440I\|פְּנֵ֣י]] [[H7451I\|רָעָתָ֗]][[H9028\|ם]] [[H0834A\|אֲשֶׁ֤ר]] [[H6213H\|עָשׂוּ֙]] [[H9005\|לְ]][[H3707\|הַכְעִסֵ֔]][[H9030\|נִי]] [[H9005\|לָ]][[H1980G\|לֶ֣כֶת]] [[H9005\|לְ]][[H6999H\|קַטֵּ֔ר]] [[H9005\|לַ]][[H5647H\|עֲבֹ֖ד]] [[H9005\|לֵ]][[H0430\|אלֹהִ֣ים]] [[H0312\|אֲחֵרִ֑ים]] [[H0834A\|אֲשֶׁר֙]] [[H3808\|לֹ֣א]] [[H3045\|יְדָע֔וּ]][[H9038\|ם]] [[H1992\|הֵ֖מָּה]] [[H0859D\|אַתֶּ֥ם]] [[H9002\|וַ]][[H0001G\|אֲבֹתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.2|<< Jeremiah 44:2]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.4|Jeremiah 44:4 >>]]</td></tr></table>
 

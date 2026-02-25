@@ -1,8 +1,57 @@
+---
+title: Isaiah 32:4
+type: Verse
+kjv: "The heart also of the rash shall understand knowledge, and the tongue of the stammerers shall be ready to speak plainly."
+bsb: "The mind of the rash will know and understand, and the stammering tongue will speak clearly and fluently."
+hebrew: "וּלְבַ֥ב נִמְהָרִ֖ים יָבִ֣ין לָדָ֑עַת וּלְשׁ֣וֹן עִלְּגִ֔ים תְּמַהֵ֖ר לְדַבֵּ֥ר צָחֽוֹת׃"
+pericope: "[[Isa.32.1 A Righteous King|A Righteous King]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 32
+book/chapter: "[[Isa.32|Isaiah 32]]"
+chronological_order: 675
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic STAMMERING|STAMMERING]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H3824]]"
+- "[[H4116A]]"
+- "[[H0995]]"
+- "[[H9005]]"
+- "[[H1847]]"
+- "[[H3956G]]"
+- "[[H5926]]"
+- "[[H1696G]]"
+- "[[H6703]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 32:4**<big><big>[[Isa.32.1 A Righteous King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The heart also of the rash shall understand knowledge, and the tongue of the stammerers shall be ready to speak plainly.
 <small><sub>**BSB:**</sub></small>
 The mind of the rash will know and understand, and the stammering tongue will speak clearly and fluently.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H3824\|לְבַ֥ב]] [[H4116A\|נִמְהָרִ֖ים]] [[H0995\|יָבִ֣ין]] [[H9005\|לָ]][[H1847\|דָ֑עַת]] [[H9002\|וּ]][[H3956G\|לְשׁ֣וֹן]] [[H5926\|עִלְּגִ֔ים]] [[H4116A\|תְּמַהֵ֖ר]] [[H9005\|לְ]][[H1696G\|דַבֵּ֥ר]] [[H6703\|צָחֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic REGENERATION|REGENERATION]] • [[topic SALVATION|SALVATION]] • [[topic STAMMERING|STAMMERING]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.32.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.3|<< Isaiah 32:3]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.5|Isaiah 32:5 >>]]</td></tr></table>
 

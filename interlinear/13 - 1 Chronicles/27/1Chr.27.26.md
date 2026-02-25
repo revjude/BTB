@@ -1,8 +1,58 @@
+---
+title: 1 Chronicles 27:26
+type: Verse
+kjv: "And over them that did the work of the field for tillage of the ground was Ezri the son of Chelub:"
+bsb: "Ezri son of Chelub was in charge of the workers in the fields who tilled the soil."
+hebrew: "וְעַ֗ל עֹשֵׂי֙ מְלֶ֣אכֶת הַשָּׂדֶ֔ה לַעֲבֹדַ֖ת הָאֲדָמָ֑ה עֶזְרִ֖י בֶּן־ כְּלֽוּב׃"
+pericope: "[[1Chr.27.25 David’s Various Overseers|David’s Various Overseers]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 27
+book/chapter: "[[1Chr.27|1 Chronicles 27]]"
+chronological_order: 438
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic CHELUB|CHELUB]]"
+- "[[topic EZRI|EZRI]]"
+- "[[topic KING|KING]]"
+- "[[topic VINEYARD|VINEYARD]]"
+strongs:
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H6213A]]"
+- "[[H4399]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H9005]]"
+- "[[H5656I]]"
+- "[[H0127G]]"
+- "[[H5836]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3620H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 27:26**<big><big>[[1Chr.27.25 David’s Various Overseers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And over them that did the work of the field for tillage of the ground [was] Ezri the son of Chelub:
 <small><sub>**BSB:**</sub></small>
 Ezri son of Chelub was in charge of the workers in the fields who tilled the soil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5921A\|עַ֗ל]] [[H6213A\|עֹשֵׂי֙]] [[H4399\|מְלֶ֣אכֶת]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֔ה]] [[H9005\|לַ]][[H5656I\|עֲבֹדַ֖ת]] [[H9009\|הָ]][[H0127G\|אֲדָמָ֑ה]] [[H5836\|עֶזְרִ֖י]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3620H\|כְּלֽוּב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic CHELUB|CHELUB]] • [[topic EZRI|EZRI]] • [[topic KING|KING]] • [[topic VINEYARD|VINEYARD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.27.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.25|<< 1 Chronicles 27:25]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.27|1 Chronicles 27:27 >>]]</td></tr></table>
 

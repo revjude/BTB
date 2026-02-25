@@ -1,8 +1,62 @@
+---
+title: Genesis 31:38
+type: Verse
+kjv: "This twenty years have I been with thee; thy ewes and thy she goats have not cast their young, and the rams of thy flock have I not eaten."
+bsb: "I have been with you for twenty years now. Your sheep and goats have not miscarried, nor have I eaten the rams of your flock."
+hebrew: "זֶה֩ עֶשְׂרִ֨ים שָׁנָ֤ה אָנֹכִי֙ עִמָּ֔ךְ רְחֵלֶ֥יךָ וְעִזֶּ֖יךָ לֹ֣א שִׁכֵּ֑לוּ וְאֵילֵ֥י צֹאנְךָ֖ לֹ֥א אָכָֽלְתִּי׃"
+pericope: "[[Gen.31.22 Laban Pursues Jacob|Laban Pursues Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+strongs:
+- "[[H2088]]"
+- "[[H6242]]"
+- "[[H8141]]"
+- "[[H0595]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H7353]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H5795]]"
+- "[[H3808]]"
+- "[[H7921A]]"
+- "[[H0352A]]"
+- "[[H6629G]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 31:38**<big><big>[[Gen.31.22 Laban Pursues Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This twenty years [have] I [been] with thee; thy ewes and thy she goats have not cast their young, and the rams of thy flock have I not eaten.
 <small><sub>**BSB:**</sub></small>
 I have been with you for twenty years now. Your sheep and goats have not miscarried, nor have I eaten the rams of your flock.
+<small><sub>**Hebrew:**</sub></small>
+[[H2088\|זֶה֩]] [[H6242\|עֶשְׂרִ֨ים]] [[H8141\|שָׁנָ֤ה]] [[H0595\|אָנֹכִי֙]] [[H5973A\|עִמָּ֔]][[H9032\|ךְ]] [[H7353\|רְחֵלֶ֥י]][[H9021\|ךָ]] [[H9002\|וְ]][[H5795\|עִזֶּ֖י]][[H9021\|ךָ]] [[H3808\|לֹ֣א]] [[H7921A\|שִׁכֵּ֑לוּ]] [[H9002\|וְ]][[H0352A\|אֵילֵ֥י]] [[H6629G\|צֹאנְ]][[H9021\|ךָ֖]] [[H3808\|לֹ֥א]] [[H0398\|אָכָֽלְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHIDING|CHIDING]] • [[topic DISHONESTY|DISHONESTY]] • [[topic LABAN|LABAN]] • [[topic SHEPHERD|SHEPHERD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.37|<< Genesis 31:37]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.39|Genesis 31:39 >>]]</td></tr></table>
 

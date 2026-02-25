@@ -1,8 +1,51 @@
+---
+title: Lamentations 3:29
+type: Verse
+kjv: "He putteth his mouth in the dust; if so be there may be hope."
+bsb: "Let him bury his face in the dust—perhaps there is still hope."
+hebrew: "יִתֵּ֤ן בֶּֽעָפָר֙ פִּ֔יהוּ אוּלַ֖י יֵ֥שׁ תִּקְוָֽה׃"
+pericope: "[[Lam.3.19 The Prophet’s Hope|The Prophet’s Hope]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 3
+book/chapter: "[[Lam.3|Lamentations 3]]"
+chronological_order: 778
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+strongs:
+- "[[H5414H]]"
+- "[[H9003]]"
+- "[[H6083]]"
+- "[[H6310G]]"
+- "[[H9023]]"
+- "[[H0194]]"
+- "[[H3426]]"
+- "[[H8615B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Lamentations 3:29**<big><big>[[Lam.3.19 The Prophet’s Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He putteth his mouth in the dust; if so be there may be hope.
 <small><sub>**BSB:**</sub></small>
 Let him bury his face in the dust—perhaps there is still hope.
+<small><sub>**Hebrew:**</sub></small>
+[[H5414H\|יִתֵּ֤ן]] [[H9003\|בֶּֽ]][[H6083\|עָפָר֙]] [[H6310G\|פִּ֔י]][[H9023\|הוּ]] [[H0194\|אוּלַ֖י]] [[H3426\|יֵ֥שׁ]] [[H8615B\|תִּקְוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic MEEKNESS|MEEKNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.28|<< Lamentations 3:28]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.30|Lamentations 3:30 >>]]</td></tr></table>
 

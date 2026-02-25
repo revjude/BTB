@@ -1,8 +1,75 @@
+---
+title: Nehemiah 13:5
+type: Verse
+kjv: "And he had prepared for him a great chamber, where aforetime they laid the meat offerings, the frankincense, and the vessels, and the tithes of the corn, the new wine, and the oil, which was commanded to be given to the Levites, and the singers, and the porters; and the offerings of the priests."
+bsb: "and had prepared for Tobiah a large room where they had previously stored the grain offerings, the frankincense, the temple articles, and the tithes of grain, new wine, and oil prescribed for the Levites, singers, and gatekeepers, along with the contributions for the priests."
+hebrew: "וַיַּ֨עַשׂ ל֜וֹ לִשְׁכָּ֣ה גְדוֹלָ֗ה וְשָׁ֣ם הָי֪וּ לְפָנִ֟ים נֹ֠תְנִים אֶת־ הַמִּנְחָ֨ה הַלְּבוֹנָ֜ה וְהַכֵּלִ֗ים וּמַעְשַׂ֤ר הַדָּגָן֙ הַתִּיר֣וֹשׁ וְהַיִּצְהָ֔ר מִצְוַת֙ הַלְוִיִּ֔ם וְהַמְשֹׁרְרִ֖ים וְהַשֹּׁעֲרִ֑ים וּתְרוּמַ֖ת הַכֹּהֲנִֽים׃"
+pericope: "[[Neh.13.4 The Temple Cleansed|The Temple Cleansed]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 13
+book/chapter: "[[Neh.13|Nehemiah 13]]"
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ELIASHIB|ELIASHIB]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TITHES|TITHES]]"
+- "[[topic TOBIAH|TOBIAH]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3957]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H8033G]]"
+- "[[H1961]]"
+- "[[H6440G]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4503G]]"
+- "[[H3828]]"
+- "[[H3627]]"
+- "[[H4643]]"
+- "[[H1715]]"
+- "[[H8492]]"
+- "[[H3323]]"
+- "[[H4687]]"
+- "[[H3881]]"
+- "[[H7891]]"
+- "[[H7778]]"
+- "[[H8641]]"
+- "[[H3548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 13:5**<big><big>[[Neh.13.4 The Temple Cleansed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he had prepared for him a great chamber, where aforetime they laid the meat offerings, the frankincense, and the vessels, and the tithes of the corn, the new wine, and the oil, which was commanded [to be given] to the Levites, and the singers, and the porters; and the offerings of the priests.
 <small><sub>**BSB:**</sub></small>
 and had prepared for Tobiah a large room where they had previously stored the grain offerings, the frankincense, the temple articles, and the tithes of grain, new wine, and oil prescribed for the Levites, singers, and gatekeepers, along with the contributions for the priests.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֨עַשׂ]] [[H9005\|ל֜]][[H9033\|וֹ]] [[H3957\|לִשְׁכָּ֣ה]] [[H1419A\|גְדוֹלָ֗ה]] [[H9002\|וְ]][[H8033G\|שָׁ֣ם]] [[H1961\|הָי֪וּ]] [[H9005\|לְ]][[H6440G\|פָנִ֟ים]] [[H5414H\|נֹ֠תְנִים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4503G\|מִּנְחָ֨ה]] [[H9009\|הַ]][[H3828\|לְּבוֹנָ֜ה]] [[H9002\|וְ]][[H9009\|הַ]][[H3627\|כֵּלִ֗ים]] [[H9002\|וּ]][[H4643\|מַעְשַׂ֤ר]] [[H9009\|הַ]][[H1715\|דָּגָן֙]] [[H9009\|הַ]][[H8492\|תִּיר֣וֹשׁ]] [[H9002\|וְ]][[H9009\|הַ]][[H3323\|יִּצְהָ֔ר]] [[H4687\|מִצְוַת֙]] [[H9009\|הַ]][[H3881\|לְוִיִּ֔ם]] [[H9002\|וְ]][[H9009\|הַ]][[H7891\|מְשֹׁרְרִ֖ים]] [[H9002\|וְ]][[H9009\|הַ]][[H7778\|שֹּׁעֲרִ֑ים]] [[H9002\|וּ]][[H8641\|תְרוּמַ֖ת]] [[H9009\|הַ]][[H3548\|כֹּהֲנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIASHIB|ELIASHIB]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]] • [[topic TITHES|TITHES]] • [[topic TOBIAH|TOBIAH]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.4|<< Nehemiah 13:4]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.6|Nehemiah 13:6 >>]]</td></tr></table>
 

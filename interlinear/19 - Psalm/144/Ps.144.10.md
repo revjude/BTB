@@ -1,8 +1,58 @@
+---
+title: Psalm 144:10
+type: Verse
+kjv: "It is he that giveth salvation unto kings: who delivereth David his servant from the hurtful sword."
+bsb: "to Him who gives victory to kings, who frees His servant David from the deadly sword."
+hebrew: "הַנּוֹתֵ֥ן תְּשׁוּעָ֗ה לַמְּלָ֫כִ֥ים הַ֭פּוֹצֶה אֶת־ דָּוִ֥ד עַבְדּ֗וֹ מֵחֶ֥רֶב רָעָֽה׃"
+pericope: "[[Ps.144.1 Blessed Be the LORD, My Rock|Blessed Be the LORD, My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 144
+book/chapter: "[[Ps.144|Psalm 144]]"
+chronological_order: 390
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H9009]]"
+- "[[H5414G]]"
+- "[[H8668H]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H6475]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H2719]]"
+- "[[H7451H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 144:10**<big><big>[[Ps.144.1 Blessed Be the LORD, My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is he] that giveth salvation unto kings: who delivereth David his servant from the hurtful sword.
 <small><sub>**BSB:**</sub></small>
 to Him who gives victory to kings, who frees His servant David from the deadly sword.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H5414G\|נּוֹתֵ֥ן]] [[H8668H\|תְּשׁוּעָ֗ה]] [[H9005\|לַ]][[H4428G\|מְּלָ֫כִ֥ים]] [[H9009\|הַ֭]][[H6475\|פּוֹצֶה]] [[H0853\|אֶת]][[H9014\|־]] [[H1732\|דָּוִ֥ד]] [[H5650\|עַבְדּ֗]][[H9023\|וֹ]] [[H9006\|מֵ]][[H2719\|חֶ֥רֶב]] [[H7451H\|רָעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.144.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.144.9|<< Psalms 144:9]]</td><td align="center" style="border:none;">[[Ps.144|Psalms 144]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.144.11|Psalms 144:11 >>]]</td></tr></table>
 

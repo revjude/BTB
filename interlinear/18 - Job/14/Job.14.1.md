@@ -1,8 +1,54 @@
+---
+title: Job 14:1
+type: Verse
+kjv: "Man that is born of a woman is of few days, and full of trouble."
+bsb: "“Man, who is born of woman, is short of days and full of trouble."
+hebrew: "אָ֭דָם יְל֣וּד אִשָּׁ֑ה קְצַ֥ר יָ֝מִ֗ים וּֽשְׂבַֽע־ רֹֽגֶז׃"
+pericope: "[[Job.14.1 Job Laments the Finality of Death|Job Laments the Finality of Death]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 14
+book/chapter: "[[Job.14|Job 14]]"
+chronological_order: 25
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic EMPLOYEE|EMPLOYEE]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H0120G]]"
+- "[[H3205]]"
+- "[[H0802G]]"
+- "[[H7116]]"
+- "[[H3117G]]"
+- "[[H9002]]"
+- "[[H7649]]"
+- "[[H9014]]"
+- "[[H7267]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 14:1**<big><big>[[Job.14.1 Job Laments the Finality of Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Man [that is] born of a woman [is] of few days, and full of trouble.
 <small><sub>**BSB:**</sub></small>
 “Man, who is born of woman, is short of days and full of trouble.
+<small><sub>**Hebrew:**</sub></small>
+[[H0120G\|אָ֭דָם]] [[H3205\|יְל֣וּד]] [[H0802G\|אִשָּׁ֑ה]] [[H7116\|קְצַ֥ר]] [[H3117G\|יָ֝מִ֗ים]] [[H9002\|וּֽ]][[H7649\|שְׂבַֽע]][[H9014\|־]] [[H7267\|רֹֽגֶז]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic EMPLOYEE|EMPLOYEE]] • [[topic LIFE|LIFE]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.14.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.13.28|<< Job 13:28]]</td><td align="center" style="border:none;">[[Job.14|Job 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.14.2|Job 14:2 >>]]</td></tr></table>
 

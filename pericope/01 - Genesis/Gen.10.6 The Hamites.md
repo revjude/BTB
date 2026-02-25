@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Hamites
+type: Pericope
 pericope: "[[Gen.10.6 The Hamites|The Hamites]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 10
 book/chapter: "[[Gen.10|Genesis 10]]"
-genre:
+chronological_order: 10
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 15
 verses:
 - "[[Gen.10.6]]"
 - "[[Gen.10.7]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Gen.10.20]]"
 ---
 
-[[Gen.10|Genesis 10:6 - Genesis 10:20]]
+<small>[[Gen.10|Genesis 10:6-20]]</small>
 *The Hamites*
 
 [[Gen.10.6|6]] And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan.

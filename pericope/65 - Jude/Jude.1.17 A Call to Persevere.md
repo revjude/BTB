@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Call to Persevere
+type: Pericope
 pericope: "[[Jude.1.17 A Call to Persevere|A Call to Persevere]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Jude
 chapter: 1
 book/chapter: "[[Jude.1|Jude 1]]"
-genre:
+chronological_order: 1160
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
 - epistle
 - general epistle
 - polemical
+verse_count: 7
 verses:
 - "[[Jude.1.17]]"
 - "[[Jude.1.18]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Jude.1.23]]"
 ---
 
-[[Jude.1|Jude 1:17 - Jude 1:23]]
+<small>[[Jude.1|Jude 1:17-23]]</small>
 *A Call to Persevere*
 
 [[Jude.1.17|17]] But, beloved, remember ye the words which were spoken before of the apostles of our Lord Jesus Christ;

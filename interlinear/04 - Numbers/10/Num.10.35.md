@@ -1,8 +1,70 @@
+---
+title: Numbers 10:35
+type: Verse
+kjv: "And it came to pass, when the ark set forward, that Moses said, Rise up, LORD, and let thine enemies be scattered; and let them that hate thee flee before thee."
+bsb: "Whenever the ark set out, Moses would say, “Rise up, O LORD! May Your enemies be scattered; may those who hate You flee before You.”"
+hebrew: "וַיְהִ֛י בִּנְסֹ֥עַ הָאָרֹ֖ן וַיֹּ֣אמֶר מֹשֶׁ֑ה קוּמָ֣ה׀ יְהוָ֗ה וְיָפֻ֙צוּ֙ אֹֽיְבֶ֔יךָ וְיָנֻ֥סוּ מְשַׂנְאֶ֖יךָ מִפָּנֶֽיךָ׃"
+pericope: "[[Num.10.11 From Sinai to Paran|From Sinai to Paran]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 10
+book/chapter: "[[Num.10|Numbers 10]]"
+chronological_order: 169
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H5265]]"
+- "[[H9009]]"
+- "[[H0727]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H6965B]]"
+- "[[H9012]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H6327A]]"
+- "[[H0341]]"
+- "[[H9021]]"
+- "[[H5127]]"
+- "[[H8130]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 10:35**<big><big>[[Num.10.11 From Sinai to Paran|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when the ark set forward, that Moses said, Rise up, LORD, and let thine enemies be scattered; and let them that hate thee flee before thee.
 <small><sub>**BSB:**</sub></small>
 Whenever the ark set out, Moses would say, “Rise up, O LORD! May Your enemies be scattered; may those who hate You flee before You.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֛י]] [[H9003\|בִּ]][[H5265\|נְסֹ֥עַ]] [[H9009\|הָ]][[H0727\|אָרֹ֖ן]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H4872\|מֹשֶׁ֑ה]] [[H6965B\|קוּמָ֣]][[H9012\|ה]][[H9015\|׀]] [[H3068G\|יְהוָ֗ה]] [[H9002\|וְ]][[H6327A\|יָפֻ֙צוּ֙]] [[H0341\|אֹֽיְבֶ֔י]][[H9021\|ךָ]] [[H9002\|וְ]][[H5127\|יָנֻ֥סוּ]] [[H8130\|מְשַׂנְאֶ֖י]][[H9031\|ךָ]] [[H9006\|מִ]][[H6440G\|פָּנֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.34|<< Numbers 10:34]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.36|Numbers 10:36 >>]]</td></tr></table>
 

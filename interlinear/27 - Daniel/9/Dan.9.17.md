@@ -1,8 +1,67 @@
+---
+title: Daniel 9:17
+type: Verse
+kjv: "Now therefore, O our God, hear the prayer of thy servant, and his supplications, and cause thy face to shine upon thy sanctuary that is desolate, for the Lord’s sake."
+bsb: "So now, our God, hear the prayers and petitions of Your servant. For Your sake, O Lord, cause Your face to shine upon Your desolate sanctuary."
+hebrew: "וְעַתָּ֣ה׀ שְׁמַ֣ע אֱלֹהֵ֗ינוּ אֶל־ תְּפִלַּ֤ת עַבְדְּךָ֙ וְאֶל־ תַּ֣חֲנוּנָ֔יו וְהָאֵ֣ר פָּנֶ֔יךָ עַל־ מִקְדָּשְׁךָ֖ הַשָּׁמֵ֑ם לְמַ֖עַן אֲדֹנָֽי׃"
+pericope: "[[Dan.9.1 Daniel’s Prayer for His People|Daniel’s Prayer for His People]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 9
+book/chapter: "[[Dan.9|Daniel 9]]"
+chronological_order: 845
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H9015]]"
+- "[[H8085G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8605]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H8469]]"
+- "[[H9023]]"
+- "[[H0215]]"
+- "[[H6440H]]"
+- "[[H5921A]]"
+- "[[H4720]]"
+- "[[H9009]]"
+- "[[H8076]]"
+- "[[H4616]]"
+- "[[H0136]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 9:17**<big><big>[[Dan.9.1 Daniel’s Prayer for His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore, O our God, hear the prayer of thy servant, and his supplications, and cause thy face to shine upon thy sanctuary that is desolate, for the Lord’s sake.
 <small><sub>**BSB:**</sub></small>
 So now, our God, hear the prayers and petitions of Your servant. For Your sake, O Lord, cause Your face to shine upon Your desolate sanctuary.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֣ה]][[H9015\|׀]] [[H8085G\|שְׁמַ֣ע]] [[H0430G\|אֱלֹהֵ֗י]][[H9025\|נוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H8605\|תְּפִלַּ֤ת]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H8469\|תַּ֣חֲנוּנָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H0215\|הָאֵ֣ר]] [[H6440H\|פָּנֶ֔י]][[H9021\|ךָ]] [[H5921A\|עַל]][[H9014\|־]] [[H4720\|מִקְדָּשְׁ]][[H9021\|ךָ֖]] [[H9009\|הַ]][[H8076\|שָּׁמֵ֑ם]] [[H4616\|לְמַ֖עַן]] [[H0136\|אֲדֹנָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NATION|NATION]] • [[topic PRAYER|PRAYER]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.16|<< Daniel 9:16]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.18|Daniel 9:18 >>]]</td></tr></table>
 

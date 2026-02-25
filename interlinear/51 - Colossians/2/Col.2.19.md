@@ -1,10 +1,63 @@
+---
+title: Colossians 2:19
+type: Verse
+kjv: "And not holding the Head, from which all the body by joints and bands having nourishment ministered, and knit together, increaseth with the increase of God."
+bsb: "He has lost connection to the head, from whom the whole body, supported and knit together by its joints and ligaments, grows as God causes it to grow."
+greek: "καὶ οὐ κρατῶν τὴν κεφαλὴν ἐξ οὗ πᾶν τὸ σῶμα διὰ τῶν ἁφῶν καὶ συνδέσμων ἐπιχορηγούμενον καὶ συμβιβαζόμενον αὔξει τὴν αὔξησιν τοῦ θεοῦ.¶"
+pericope: "[[Col.2.6 Alive with Christ|Alive with Christ]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 2
+book/chapter: "[[Col.2|Colossians 2]]"
+chronological_order: 1122
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic PHYSIOLOGY|PHYSIOLOGY]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2902]]"
+- "[[G3588]]"
+- "[[G2776]]"
+- "[[G1537]]"
+- "[[G3739]]"
+- "[[G3956]]"
+- "[[G4983]]"
+- "[[G1223]]"
+- "[[G0860]]"
+- "[[G4886]]"
+- "[[G2023]]"
+- "[[G4822]]"
+- "[[G0837]]"
+- "[[G0838]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Colossians 2:19**<big><big>[[Col.2.6 Alive with Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And not holding the Head, from which all the body by joints and bands having nourishment ministered, and knit together, increaseth with the increase of God.
 <small><sub>**BSB:**</sub></small>
 He has lost connection to the head, from whom the whole body, supported and knit together by its joints and ligaments, grows as God causes it to grow.
-<small><sub>**Literal:**</sub></small>
-and not holding fast to the head from whom all the body through the joints and ligaments being supplied and being knit together it increases with the increase <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.18|<< Colossians 2:18]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.20|Colossians 2:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G2902\|κρατῶν]]  [[G3588\|τὴν]]  [[G2776\|κεφαλὴν]]  [[G1537\|ἐξ]]  [[G3739\|οὗ]]  [[G3956\|πᾶν]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G1223\|διὰ]]  [[G3588\|τῶν]]  [[G0860\|ἁφῶν]]  [[G2532\|καὶ]]  [[G4886\|συνδέσμων]]  [[G2023\|ἐπιχορηγούμενον]]  [[G2532\|καὶ]]  [[G4822\|συμβιβαζόμενον]]  [[G0837\|αὔξει]]  [[G3588\|τὴν]]  [[G0838\|αὔξησιν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DOCTRINES|DOCTRINES]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic LAW|LAW]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic PHYSIOLOGY|PHYSIOLOGY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.18|<< Colossians 2:18]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.20|Colossians 2:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

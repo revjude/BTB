@@ -1,8 +1,71 @@
+---
+title: 2 Samuel 23:9
+type: Verse
+kjv: "And after him was Eleazar the son of Dodo the Ahohite, one of the three mighty men with David, when they defied the Philistines that were there gathered together to battle, and the men of Israel were gone away:"
+bsb: "Next in command was Eleazar son of Dodo the Ahohite. As one of the three mighty men, he went with David to taunt the Philistines who had gathered for battle at Pas-dammim. The men of Israel retreated,"
+hebrew: "וְאַחֲרָ֛יו אֶלְעָזָ֥ר בֶּן־ דֹּד֖וֹ בֶּן־ אֲחֹחִ֑י בִּשְׁלֹשָׁ֨ה הַגִּבֹּרִ֜ים עִם־ דָּוִ֗ד בְּחָֽרְפָ֤ם בַּפְּלִשְׁתִּים נֶאֶסְפוּ־ שָׁ֣ם לַמִּלְחָמָ֔ה וַֽיַּעֲל֖וּ אִ֥ישׁ יִשְׂרָאֵֽל׃"
+pericope: "[[2Sam.23.8 David’s Mighty Men|David’s Mighty Men]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 23
+book/chapter: "[[2Sam.23|2 Samuel 23]]"
+chronological_order: 431
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic DODO|DODO]]"
+- "[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H0499I]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H1734H]]"
+- "[[H0266]]"
+- "[[H9003]]"
+- "[[H7969]]"
+- "[[H1368]]"
+- "[[H9009]]"
+- "[[H5973A]]"
+- "[[H1732]]"
+- "[[H2778A]]"
+- "[[H9048]]"
+- "[[H6430G]]"
+- "[[H0622]]"
+- "[[H8033G]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H0376G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- Q(k)
+- L
+---
+
 **2 Samuel 23:9**<big><big>[[2Sam.23.8 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after him [was] Eleazar the son of Dodo the Ahohite, [one] of the three mighty men with David, when they defied the Philistines [that] were there gathered together to battle, and the men of Israel were gone away:
 <small><sub>**BSB:**</sub></small>
 Next in command was Eleazar son of Dodo the Ahohite. As one of the three mighty men, he went with David to taunt the Philistines who had gathered for battle at Pas-dammim. The men of Israel retreated,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0310A\|אַחֲרָ֛י]][[H9033\|ו]] [[H0499I\|אֶלְעָזָ֥ר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1734H\|דֹּד֖וֹ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0266\|אֲחֹחִ֑י]] [[H9003\|בִּ]][[H7969\|שְׁלֹשָׁ֨ה]] [[H9009\|הַ]][[H1368\|גִּבֹּרִ֜ים]] [[H5973A\|עִם]][[H9014\|־]] [[H1732\|דָּוִ֗ד]] [[H9003\|בְּ]][[H2778A\|חָֽרְפָ֤]][[H9048\|ם]] [[H9003\|בַּ]][[H6430G\|פְּלִשְׁתִּים]] [[H0622\|נֶאֶסְפוּ]][[H9014\|־]] [[H8033G\|שָׁ֣ם]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֔ה]] [[H9001\|וַֽ]][[H5927G\|יַּעֲל֖וּ]] [[H0376G\|אִ֥ישׁ]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic DODO|DODO]] • [[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.23.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.8|<< 2 Samuel 23:8]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.10|2 Samuel 23:10 >>]]</td></tr></table>
 

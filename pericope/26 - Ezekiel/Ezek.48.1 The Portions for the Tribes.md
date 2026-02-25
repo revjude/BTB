@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Portions for the Tribes
+type: Pericope
 pericope: "[[Ezek.48.1 The Portions for the Tribes|The Portions for the Tribes]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 48
 book/chapter: "[[Ezek.48|Ezekiel 48]]"
-genre:
+chronological_order: 839
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 7
 verses:
 - "[[Ezek.48.1]]"
 - "[[Ezek.48.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Ezek.48.7]]"
 ---
 
-[[Ezek.48|Ezekiel 48:1 - Ezekiel 48:7]]
+<small>[[Ezek.48|Ezekiel 48:1-7]]</small>
 *The Portions for the Tribes*
 
 [[Ezek.48.1|1]] Now these \[are\] the names of the tribes. From the north end to the coast of the way of Hethlon, as one goeth to Hamath, Hazarenan, the border of Damascus northward, to the coast of Hamath; for these are his sides east \[and\] west; a \[portion for\] Dan.

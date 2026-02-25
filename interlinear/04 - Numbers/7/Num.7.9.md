@@ -1,8 +1,63 @@
+---
+title: Numbers 7:9
+type: Verse
+kjv: "But unto the sons of Kohath he gave none: because the service of the sanctuary belonging unto them was that they should bear upon their shoulders."
+bsb: "But he did not give any to the Kohathites, since they were to carry on their shoulders the holy objects for which they were responsible."
+hebrew: "וְלִבְנֵ֥י קְהָ֖ת לֹ֣א נָתָ֑ן כִּֽי־ עֲבֹדַ֤ת הַקֹּ֙דֶשׁ֙ עֲלֵהֶ֔ם בַּכָּתֵ֖ף יִשָּֽׂאוּ׃"
+pericope: "[[Num.7.1 Offerings of Dedication|Offerings of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 7
+book/chapter: "[[Num.7|Numbers 7]]"
+chronological_order: 166
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic WAGON|WAGON]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H1121A]]"
+- "[[H6955]]"
+- "[[H3808]]"
+- "[[H5414G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5656H]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H3802]]"
+- "[[H5375H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 7:9**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But unto the sons of Kohath he gave none: because the service of the sanctuary belonging unto them [was that] they should bear upon their shoulders.
 <small><sub>**BSB:**</sub></small>
 But he did not give any to the Kohathites, since they were to carry on their shoulders the holy objects for which they were responsible.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לִ]][[H1121A\|בְנֵ֥י]] [[H6955\|קְהָ֖ת]] [[H3808\|לֹ֣א]] [[H5414G\|נָתָ֑ן]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5656H\|עֲבֹדַ֤ת]] [[H9009\|הַ]][[H6944G\|קֹּ֙דֶשׁ֙]] [[H5921A\|עֲלֵ]][[H9038\|הֶ֔ם]] [[H9003\|בַּ]][[H3802\|כָּתֵ֖ף]] [[H5375H\|יִשָּֽׂאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic TABERNACLE|TABERNACLE]] • [[topic WAGON|WAGON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.8|<< Numbers 7:8]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.10|Numbers 7:10 >>]]</td></tr></table>
 

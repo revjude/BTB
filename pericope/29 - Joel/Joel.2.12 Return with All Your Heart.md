@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Return with All Your Heart
+type: Pericope
 pericope: "[[Joel.2.12 Return with All Your Heart|Return with All Your Heart]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Joel
 chapter: 2
 book/chapter: "[[Joel.2|Joel 2]]"
-genre:
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 6
 verses:
 - "[[Joel.2.12]]"
 - "[[Joel.2.13]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Joel.2.17]]"
 ---
 
-[[Joel.2|Joel 2:12 - Joel 2:17]]
+<small>[[Joel.2|Joel 2:12-17]]</small>
 *Return with All Your Heart*
 
 [[Joel.2.12|12]] Therefore also now, saith the LORD, turn ye \[even\] to me with all your heart, and with fasting, and with weeping, and with mourning:

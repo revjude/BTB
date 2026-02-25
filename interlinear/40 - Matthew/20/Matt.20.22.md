@@ -1,10 +1,72 @@
+---
+title: Matthew 20:22
+type: Verse
+kjv: "But Jesus answered and said, Ye know not what ye ask. Are ye able to drink of the cup that I shall drink of, and to be baptized with the baptism that I am baptized with? They say unto him, We are able."
+bsb: "“You do not know what you are asking,” Jesus replied. “Can you drink the cup I am going to drink?” “We can,” the brothers answered."
+jesus_said: "Ye know not what ye ask. Are ye able to drink of the cup that I shall drink of, and to be baptized with the baptism that I am baptized with?"
+greek: "Ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν· οὐκ οἴδατε τί αἰτεῖσθε. δύνασθε πιεῖν τὸ ποτήριον ὃ ἐγὼ μέλλω πίνειν καὶ τὸ βάπτισμα ὃ ἐγὼ βαπτίζομαι βαπτισθῆναι; λέγουσιν αὐτῷ· δυνάμεθα.¶"
+pericope: "[[Matt.20.20 A Mother’s Request|A Mother’s Request]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 20
+book/chapter: "[[Matt.20|Matthew 20]]"
+chronological_order: 987
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic CUP|CUP]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic POLITICS|POLITICS]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G3756]]"
+- "[[G6063]]"
+- "[[G5101]]"
+- "[[G0154]]"
+- "[[G1410]]"
+- "[[G4095]]"
+- "[[G4221]]"
+- "[[G3739]]"
+- "[[G1473]]"
+- "[[G3195]]"
+- "[[G2532]]"
+- "[[G0908]]"
+- "[[G0907]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+texts:
+- NKO
+- K(o)
+- K
+---
+
 **Matthew 20:22**<big><big>[[Matt.20.20 A Mother’s Request|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Jesus answered and said, Ye know not what ye ask. Are ye able to drink of the cup that I shall drink of, and to be baptized with the baptism that I am baptized with? They say unto him, We are able.
 <small><sub>**BSB:**</sub></small>
 “You do not know what you are asking,” Jesus replied. “Can you drink the cup I am going to drink?” “We can,” the brothers answered.
-<small><sub>**Literal:**</sub></small>
-Answering now <the> Jesus said; Not you know what you ask for. Are you able to drink the cup which I myself am about to drink and <the> baptism what I myself am baptized to be baptized? They say to Him; We are able.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.21|<< Matthew 20:21]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.23|Matthew 20:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀποκριθεὶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν·]]  [[G3756\|οὐκ]]  [[G6063\|οἴδατε]]  [[G5101\|τί]]  [[G0154\|αἰτεῖσθε.]]  [[G1410\|δύνασθε]]  [[G4095\|πιεῖν]]  [[G3588\|τὸ]]  [[G4221\|ποτήριον]]  [[G3739\|ὃ]]  [[G1473\|ἐγὼ]]  [[G3195\|μέλλω]]  [[G4095\|πίνειν]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G0908\|βάπτισμα]]  [[G3739\|ὃ]]  [[G1473\|ἐγὼ]]  [[G0907\|βαπτίζομαι]]  [[G0907\|βαπτισθῆναι;]]  [[G3004G\|λέγουσιν]]  [[G0846\|αὐτῷ·]]  [[G1410\|δυνάμεθα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic CUP|CUP]] • [[topic INFLUENCE|INFLUENCE]] • [[topic JAMES|JAMES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic POLITICS|POLITICS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.21|<< Matthew 20:21]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.23|Matthew 20:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

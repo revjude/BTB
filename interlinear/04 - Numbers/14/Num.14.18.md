@@ -1,8 +1,71 @@
+---
+title: Numbers 14:18
+type: Verse
+kjv: "The LORD is longsuffering, and of great mercy, forgiving iniquity and transgression, and by no means clearing the guilty, visiting the iniquity of the fathers upon the children unto the third and fourth generation."
+bsb: "‘The LORD is slow to anger and abounding in loving devotion, forgiving iniquity and transgression. Yet He will by no means leave the guilty unpunished; He will visit the iniquity of the fathers upon their children to the third and fourth generation.’"
+hebrew: "יְהוָ֗ה אֶ֤רֶךְ אַפַּ֙יִם֙ וְרַב־ חֶ֔סֶד נֹשֵׂ֥א עָוֹ֖ן וָפָ֑שַׁע וְנַקֵּה֙ לֹ֣א יְנַקֶּ֔ה פֹּקֵ֞ד עֲוֹ֤ן אָבוֹת֙ עַל־ בָּנִ֔ים עַל־ שִׁלֵּשִׁ֖ים וְעַל־ רִבֵּעִֽים׃"
+pericope: "[[Num.14.13 Moses Intercedes for Israel|Moses Intercedes for Israel]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 14
+book/chapter: "[[Num.14|Numbers 14]]"
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEREDITY|HEREDITY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SIN|SIN]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[H3068G]]"
+- "[[H0750]]"
+- "[[H0639G]]"
+- "[[H9002]]"
+- "[[H7227A]]"
+- "[[H9014]]"
+- "[[H2617A]]"
+- "[[H5375I]]"
+- "[[H5771G]]"
+- "[[H6588]]"
+- "[[H5352]]"
+- "[[H3808]]"
+- "[[H6485I]]"
+- "[[H0001G]]"
+- "[[H5921A]]"
+- "[[H1121A]]"
+- "[[H8029]]"
+- "[[H7256]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 14:18**<big><big>[[Num.14.13 Moses Intercedes for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD [is] longsuffering, and of great mercy, forgiving iniquity and transgression, and by no means clearing [the guilty], visiting the iniquity of the fathers upon the children unto the third and fourth [generation].
 <small><sub>**BSB:**</sub></small>
 ‘The LORD is slow to anger and abounding in loving devotion, forgiving iniquity and transgression. Yet He will by no means leave the guilty unpunished; He will visit the iniquity of the fathers upon their children to the third and fourth generation.’
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֗ה]] [[H0750\|אֶ֤רֶךְ]] [[H0639G\|אַפַּ֙יִם֙]] [[H9002\|וְ]][[H7227A\|רַב]][[H9014\|־]] [[H2617A\|חֶ֔סֶד]] [[H5375I\|נֹשֵׂ֥א]] [[H5771G\|עָוֹ֖ן]] [[H9002\|וָ]][[H6588\|פָ֑שַׁע]] [[H9002\|וְ]][[H5352\|נַקֵּה֙]] [[H3808\|לֹ֣א]] [[H5352\|יְנַקֶּ֔ה]] [[H6485I\|פֹּקֵ֞ד]] [[H5771G\|עֲוֹ֤ן]] [[H0001G\|אָבוֹת֙]] [[H5921A\|עַל]][[H9014\|־]] [[H1121A\|בָּנִ֔ים]] [[H5921A\|עַל]][[H9014\|־]] [[H8029\|שִׁלֵּשִׁ֖ים]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H7256\|רִבֵּעִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic GOD|GOD]] • [[topic HEREDITY|HEREDITY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic PRAYER|PRAYER]] • [[topic SIN|SIN]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.17|<< Numbers 14:17]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.19|Numbers 14:19 >>]]</td></tr></table>
 

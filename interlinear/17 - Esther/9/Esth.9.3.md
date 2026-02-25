@@ -1,8 +1,63 @@
+---
+title: Esther 9:3
+type: Verse
+kjv: "And all the rulers of the provinces, and the lieutenants, and the deputies, and officers of the king, helped the Jews; because the fear of Mordecai fell upon them."
+bsb: "And all the officials of the provinces, the satraps, the governors, and the king’s administrators helped the Jews, because the fear of Mordecai had fallen upon them."
+hebrew: "וְכָל־ שָׂרֵ֨י הַמְּדִינ֜וֹת וְהָאֲחַשְׁדַּרְפְּנִ֣ים וְהַפַּח֗וֹת וְעֹשֵׂ֤י הַמְּלָאכָה֙ אֲשֶׁ֣ר לַמֶּ֔לֶךְ מְנַשְּׂאִ֖ים אֶת־ הַיְּהוּדִ֑ים כִּֽי־ נָפַ֥ל פַּֽחַד־ מָרְדֳּכַ֖י עֲלֵיהֶֽם׃"
+pericope: "[[Esth.9.1 The Jews Destroy Their Enemies|The Jews Destroy Their Enemies]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 9
+book/chapter: "[[Esth.9|Esther 9]]"
+chronological_order: 907
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic MONTH|MONTH]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H4082]]"
+- "[[H0323]]"
+- "[[H6346]]"
+- "[[H6213J]]"
+- "[[H4399]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H5375K]]"
+- "[[H0853]]"
+- "[[H3064]]"
+- "[[H3588A]]"
+- "[[H5307G]]"
+- "[[H6343]]"
+- "[[H4782H]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 9:3**<big><big>[[Esth.9.1 The Jews Destroy Their Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the rulers of the provinces, and the lieutenants, and the deputies, and officers of the king, helped the Jews; because the fear of Mordecai fell upon them.
 <small><sub>**BSB:**</sub></small>
 And all the officials of the provinces, the satraps, the governors, and the king’s administrators helped the Jews, because the fear of Mordecai had fallen upon them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H8269\|שָׂרֵ֨י]] [[H9009\|הַ]][[H4082\|מְּדִינ֜וֹת]] [[H9002\|וְ]][[H9009\|הָ]][[H0323\|אֲחַשְׁדַּרְפְּנִ֣ים]] [[H9002\|וְ]][[H9009\|הַ]][[H6346\|פַּח֗וֹת]] [[H9002\|וְ]][[H6213J\|עֹשֵׂ֤י]] [[H9009\|הַ]][[H4399\|מְּלָאכָה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לַ]][[H4428G\|מֶּ֔לֶךְ]] [[H5375K\|מְנַשְּׂאִ֖ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3064\|יְּהוּדִ֑ים]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5307G\|נָפַ֥ל]] [[H6343\|פַּֽחַד]][[H9014\|־]] [[H4782H\|מָרְדֳּכַ֖י]] [[H5921A\|עֲלֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MONTH|MONTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.2|<< Esther 9:2]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.4|Esther 9:4 >>]]</td></tr></table>
 

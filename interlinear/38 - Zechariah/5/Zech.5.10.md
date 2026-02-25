@@ -1,8 +1,58 @@
+---
+title: Zechariah 5:10
+type: Verse
+kjv: "Then said I to the angel that talked with me, Whither do these bear the ephah?"
+bsb: "“Where are they taking the basket?” I asked the angel who was speaking with me."
+hebrew: "וָאֹמַ֕ר אֶל־ הַמַּלְאָ֖ךְ הַדֹּבֵ֣ר בִּ֑י אָ֛נָה הֵ֥מָּה מֽוֹלִכ֖וֹת אֶת־ הָאֵיפָֽה׃"
+pericope: "[[Zech.5.5 The Vision of the Woman in a Basket|The Vision of the Woman in a Basket]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 5
+book/chapter: "[[Zech.5|Zechariah 5]]"
+chronological_order: 861
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4397H]]"
+- "[[H1696G]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H0575]]"
+- "[[H1992]]"
+- "[[H1980J]]"
+- "[[H0853]]"
+- "[[H0374]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 5:10**<big><big>[[Zech.5.5 The Vision of the Woman in a Basket|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said I to the angel that talked with me, Whither do these bear the ephah?
 <small><sub>**BSB:**</sub></small>
 “Where are they taking the basket?” I asked the angel who was speaking with me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמַ֕ר]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4397H\|מַּלְאָ֖ךְ]] [[H9009\|הַ]][[H1696G\|דֹּבֵ֣ר]] [[H9003\|בִּ֑]][[H9030\|י]] [[H0575\|אָ֛נָה]] [[H1992\|הֵ֥מָּה]] [[H1980J\|מֽוֹלִכ֖וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0374\|אֵיפָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MEASURE|MEASURE]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.5.9|<< Zechariah 5:9]]</td><td align="center" style="border:none;">[[Zech.5|Zechariah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.5.11|Zechariah 5:11 >>]]</td></tr></table>
 

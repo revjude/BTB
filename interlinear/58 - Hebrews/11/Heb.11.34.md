@@ -1,10 +1,62 @@
+---
+title: Hebrews 11:34
+type: Verse
+kjv: "Quenched the violence of fire, escaped the edge of the sword, out of weakness were made strong, waxed valiant in fight, turned to flight the armies of the aliens."
+bsb: "quenched the raging fire, and escaped the edge of the sword; who gained strength from weakness, became mighty in battle, and put foreign armies to flight."
+greek: "ἔσβεσαν δύναμιν πυρός, ἔφυγον στόματα μαχαίρης, ἐδυναμώθησαν ἀπὸ ἀσθενείας, ἐγενήθησαν ἰσχυροὶ ἐν πολέμῳ, παρεμβολὰς ἔκλιναν ἀλλοτρίων."
+pericope: "[[Heb.11.30 (Joshua–Malachi)|(Joshua–Malachi)]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 11
+book/chapter: "[[Heb.11|Hebrews 11]]"
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ABED-NEGO|ABED-NEGO]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FIGHT OF FAITH|FIGHT OF FAITH]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G4570]]"
+- "[[G1411]]"
+- "[[G4442]]"
+- "[[G5343]]"
+- "[[G4750]]"
+- "[[G3162]]"
+- "[[G1412]]"
+- "[[G0575]]"
+- "[[G0769G]]"
+- "[[G1096]]"
+- "[[G2478]]"
+- "[[G1722]]"
+- "[[G4171]]"
+- "[[G3925]]"
+- "[[G2827]]"
+- "[[G0245]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Hebrews 11:34**<big><big>[[Heb.11.30 (Joshua–Malachi)|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Quenched the violence of fire, escaped the edge of the sword, out of weakness were made strong, waxed valiant in fight, turned to flight the armies of the aliens.
 <small><sub>**BSB:**</sub></small>
 quenched the raging fire, and escaped the edge of the sword; who gained strength from weakness, became mighty in battle, and put foreign armies to flight.
-<small><sub>**Literal:**</sub></small>
-quenched [the] power of fire, escaped [the] blades of [the] sword, be empowered out of weakness, became mighty in war, [the] armies put to flight of foreigners.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.33|<< Hebrews 11:33]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.35|Hebrews 11:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4570\|ἔσβεσαν]]  [[G1411\|δύναμιν]]  [[G4442\|πυρός,]]  [[G5343\|ἔφυγον]]  [[G4750\|στόματα]]  [[G3162\|μαχαίρης,]]  [[G1412\|ἐδυναμώθησαν]]  [[G0575\|ἀπὸ]]  [[G0769G\|ἀσθενείας,]]  [[G1096\|ἐγενήθησαν]]  [[G2478\|ἰσχυροὶ]]  [[G1722\|ἐν]]  [[G4171\|πολέμῳ,]]  [[G3925\|παρεμβολὰς]]  [[G2827\|ἔκλιναν]]  [[G0245\|ἀλλοτρίων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABED-NEGO|ABED-NEGO]] • [[topic FAITH|FAITH]] • [[topic FIGHT OF FAITH|FIGHT OF FAITH]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic PERSECUTION|PERSECUTION]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.33|<< Hebrews 11:33]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.35|Hebrews 11:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

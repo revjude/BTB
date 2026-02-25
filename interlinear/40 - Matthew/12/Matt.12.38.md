@@ -1,10 +1,60 @@
+---
+title: Matthew 12:38
+type: Verse
+kjv: "Then certain of the scribes and of the Pharisees answered, saying, Master, we would see a sign from thee."
+bsb: "Then some of the scribes and Pharisees said to Him, “Teacher, we want to see a sign from You.”"
+greek: "Τότε ἀπεκρίθησαν αὐτῷ τινες τῶν γραμματέων καὶ Φαρισαίων λέγοντες· διδάσκαλε, θέλομεν ἀπὸ σοῦ σημεῖον ἰδεῖν.¶"
+pericope: "[[Matt.12.38 The Sign of Jonah|The Sign of Jonah]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+- "[[topic SIGN|SIGN]]"
+strongs:
+- "[[G5119]]"
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G5100]]"
+- "[[G3588]]"
+- "[[G1122]]"
+- "[[G2532]]"
+- "[[G5330]]"
+- "[[G3004G]]"
+- "[[G1320]]"
+- "[[G2309]]"
+- "[[G0575]]"
+- "[[G4771]]"
+- "[[G4592]]"
+- "[[G1492H]]"
+texts:
+- NKO
+- no
+---
+
 **Matthew 12:38**<big><big>[[Matt.12.38 The Sign of Jonah|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then certain of the scribes and of the Pharisees answered, saying, Master, we would see a sign from thee.
 <small><sub>**BSB:**</sub></small>
 Then some of the scribes and Pharisees said to Him, “Teacher, we want to see a sign from You.”
-<small><sub>**Literal:**</sub></small>
-Then answered to him some of the scribes and Pharisees saying; Teacher, we wish from You a sign to see.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.37|<< Matthew 12:37]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.39|Matthew 12:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G0611\|ἀπεκρίθησαν]]  [[G0846\|αὐτῷ]]  [[G5100\|τινες]]  [[G3588\|τῶν]]  [[G1122\|γραμματέων]]  [[G2532\|καὶ]]  [[G5330\|Φαρισαίων]]  [[G3004G\|λέγοντες·]]  [[G1320\|διδάσκαλε,]]  [[G2309\|θέλομεν]]  [[G0575\|ἀπὸ]]  [[G4771\|σοῦ]]  [[G4592\|σημεῖον]]  [[G1492H\|ἰδεῖν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PHARISEES|PHARISEES]] • [[topic SCRIBE (S)|SCRIBE (S)]] • [[topic SIGN|SIGN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.37|<< Matthew 12:37]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.39|Matthew 12:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

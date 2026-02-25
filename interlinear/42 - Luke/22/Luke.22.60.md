@@ -1,10 +1,67 @@
+---
+title: Luke 22:60
+type: Verse
+kjv: "And Peter said, Man, I know not what thou sayest. And immediately, while he yet spake, the cock crew."
+bsb: "“Man, I do not know what you are talking about,” Peter replied. And immediately, while he was still speaking, the rooster crowed."
+greek: "εἶπεν δὲ ὁ Πέτρος· ἄνθρωπε, οὐκ οἶδα ὃ λέγεις. καὶ παραχρῆμα ἔτι λαλοῦντος αὐτοῦ ἐφώνησεν ὁ ἀλέκτωρ."
+pericope: "[[Luke.22.54 Peter Denies Jesus|Peter Denies Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G0444]]"
+- "[[G3756]]"
+- "[[G6063]]"
+- "[[G3739]]"
+- "[[G3004G]]"
+- "[[G2532]]"
+- "[[G3916]]"
+- "[[G2089]]"
+- "[[G2980]]"
+- "[[G0846]]"
+- "[[G5455]]"
+- "[[G0220]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 22:60**<big><big>[[Luke.22.54 Peter Denies Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Peter said, Man, I know not what thou sayest. And immediately, while he yet spake, the cock crew.
 <small><sub>**BSB:**</sub></small>
 “Man, I do not know what you are talking about,” Peter replied. And immediately, while he was still speaking, the rooster crowed.
-<small><sub>**Literal:**</sub></small>
-Said however <the> Peter; Man, not I know what you say. And immediately while is speaking he crowed the rooster.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.59|<< Luke 22:59]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.61|Luke 22:61 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος·]]  [[G0444\|ἄνθρωπε,]]  [[G3756\|οὐκ]]  [[G6063\|οἶδα]]  [[G3739\|ὃ]]  [[G3004G\|λέγεις.]]  [[G2532\|καὶ]]  [[G3916\|παραχρῆμα]]  [[G2089\|ἔτι]]  [[G2980\|λαλοῦντος]]  [[G0846\|αὐτοῦ]]  [[G5455\|ἐφώνησεν]]  [[G3588\|ὁ]]  [[G0220\|ἀλέκτωρ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic COWARDICE|COWARDICE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.59|<< Luke 22:59]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.61|Luke 22:61 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

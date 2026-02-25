@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Seventh Bowl of Wrath
+type: Pericope
 pericope: "[[Rev.16.17 The Seventh Bowl of Wrath|The Seventh Bowl of Wrath]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 16
 book/chapter: "[[Rev.16|Revelation 16]]"
-genre:
+chronological_order: 1183
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 5
 verses:
 - "[[Rev.16.17]]"
 - "[[Rev.16.18]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Rev.16.21]]"
 ---
 
-[[Rev.16|Revelation 16:17 - Revelation 16:21]]
+<small>[[Rev.16|Revelation 16:17-21]]</small>
 *The Seventh Bowl of Wrath*
 
 [[Rev.16.17|17]] And the seventh angel poured out his vial into the air; and there came a great voice out of the temple of heaven, from the throne, saying, It is done.

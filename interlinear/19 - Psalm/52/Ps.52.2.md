@@ -1,8 +1,58 @@
+---
+title: Psalm 52:2
+type: Verse
+kjv: "Thy tongue deviseth mischiefs; like a sharp rasor, working deceitfully."
+bsb: "Your tongue devises destruction like a sharpened razor, O worker of deceit."
+hebrew: "הַ֭וּוֹת תַּחְשֹׁ֣ב לְשׁוֹנֶ֑ךָ כְּתַ֥עַר מְ֝לֻטָּ֗שׁ עֹשֵׂ֥ה רְמִיָּֽה׃"
+pericope: "[[Ps.52.1 Why Do You Boast of Evil？|Why Do You Boast of Evil？]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 52
+book/chapter: "[[Ps.52|Psalm 52]]"
+chronological_order: 313
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic RAZOR|RAZOR]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1942]]"
+- "[[H2803I]]"
+- "[[H3956G]]"
+- "[[H9021]]"
+- "[[H9004]]"
+- "[[H8593]]"
+- "[[H3913]]"
+- "[[H6213A]]"
+- "[[H7423A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 52:2**<big><big>[[Ps.52.1 Why Do You Boast of Evil？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy tongue deviseth mischiefs; like a sharp rasor, working deceitfully.
 <small><sub>**BSB:**</sub></small>
 Your tongue devises destruction like a sharpened razor, O worker of deceit.
+<small><sub>**Hebrew:**</sub></small>
+[[H1942\|הַ֭וּוֹת]] [[H2803I\|תַּחְשֹׁ֣ב]] [[H3956G\|לְשׁוֹנֶ֑]][[H9021\|ךָ]] [[H9004\|כְּ]][[H8593\|תַ֥עַר]] [[H3913\|מְ֝לֻטָּ֗שׁ]] [[H6213A\|עֹשֵׂ֥ה]] [[H7423A\|רְמִיָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEPTION|DECEPTION]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic RAZOR|RAZOR]] • [[topic RICH, THE|RICH, THE]] • [[topic SPEAKING|SPEAKING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.52.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.52.1|<< Psalms 52:1]]</td><td align="center" style="border:none;">[[Ps.52|Psalms 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.52.3|Psalms 52:3 >>]]</td></tr></table>
 

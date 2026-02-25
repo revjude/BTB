@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Moab’s Destruction
+type: Pericope
 pericope: "[[Isa.16.1 Moab’s Destruction|Moab’s Destruction]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 16
 book/chapter: "[[Isa.16|Isaiah 16]]"
-genre:
+chronological_order: 633
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 14
 verses:
 - "[[Isa.16.1]]"
 - "[[Isa.16.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Isa.16.14]]"
 ---
 
-[[Isa.16|Isaiah 16:1 - Isaiah 16:14]]
+<small>[[Isa.16|Isaiah 16:1-14]]</small>
 *Moab’s Destruction*
 
 [[Isa.16.1|1]] Send ye the lamb to the ruler of the land from Sela to the wilderness, unto the mount of the daughter of Zion.

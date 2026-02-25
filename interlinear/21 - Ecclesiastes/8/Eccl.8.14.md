@@ -1,8 +1,62 @@
+---
+title: Ecclesiastes 8:14
+type: Verse
+kjv: "There is a vanity which is done upon the earth; that there be just men, unto whom it happeneth according to the work of the wicked; again, there be wicked men, to whom it happeneth according to the work of the righteous: I said that this also is vanity."
+bsb: "There is a futility that is done on the earth: There are righteous men who get what the actions of the wicked deserve, and there are wicked men who get what the actions of the righteous deserve. I say that this too is futile."
+hebrew: "יֶשׁ־ הֶבֶל֮ אֲשֶׁ֣ר נַעֲשָׂ֣ה עַל־ הָאָרֶץ֒ אֲשֶׁ֣ר׀ יֵ֣שׁ צַדִּיקִ֗ים אֲשֶׁ֨ר מַגִּ֤יעַ אֲלֵהֶם֙ כְּמַעֲשֵׂ֣ה הָרְשָׁעִ֔ים וְיֵ֣שׁ רְשָׁעִ֔ים שֶׁמַּגִּ֥יעַ אֲלֵהֶ֖ם כְּמַעֲשֵׂ֣ה הַצַּדִּיקִ֑ים אָמַ֕רְתִּי שֶׁגַּם־ זֶ֖ה הָֽבֶל׃"
+pericope: "[[Eccl.8.14 God’s Ways Are Mysterious|God’s Ways Are Mysterious]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 8
+book/chapter: "[[Eccl.8|Ecclesiastes 8]]"
+chronological_order: 546
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3426]]"
+- "[[H9014]]"
+- "[[H1892]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9015]]"
+- "[[H6662]]"
+- "[[H5060]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H4639K]]"
+- "[[H7563]]"
+- "[[H9002]]"
+- "[[H9007]]"
+- "[[H0559]]"
+- "[[H1571]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 8:14**<big><big>[[Eccl.8.14 God’s Ways Are Mysterious|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There is a vanity which is done upon the earth; that there be just [men], unto whom it happeneth according to the work of the wicked; again, there be wicked [men], to whom it happeneth according to the work of the righteous: I said that this also [is] vanity.
 <small><sub>**BSB:**</sub></small>
 There is a futility that is done on the earth: There are righteous men who get what the actions of the wicked deserve, and there are wicked men who get what the actions of the righteous deserve. I say that this too is futile.
+<small><sub>**Hebrew:**</sub></small>
+[[H3426\|יֶשׁ]][[H9014\|־]] [[H1892\|הֶבֶל֮]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213A\|נַעֲשָׂ֣ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָרֶץ֒]] [[H0834A\|אֲשֶׁ֣ר]][[H9015\|׀]] [[H3426\|יֵ֣שׁ]] [[H6662\|צַדִּיקִ֗ים]] [[H0834A\|אֲשֶׁ֨ר]] [[H5060\|מַגִּ֤יעַ]] [[H0413\|אֲלֵ]][[H9038\|הֶם֙]] [[H9004\|כְּ]][[H4639K\|מַעֲשֵׂ֣ה]] [[H9009\|הָ]][[H7563\|רְשָׁעִ֔ים]] [[H9002\|וְ]][[H3426\|יֵ֣שׁ]] [[H7563\|רְשָׁעִ֔ים]] [[H9007\|שֶׁ]][[H5060\|מַּגִּ֥יעַ]] [[H0413\|אֲלֵ]][[H9038\|הֶ֖ם]] [[H9004\|כְּ]][[H4639K\|מַעֲשֵׂ֣ה]] [[H9009\|הַ]][[H6662\|צַּדִּיקִ֑ים]] [[H0559\|אָמַ֕רְתִּי]] [[H9007\|שֶׁ]][[H1571\|גַּם]][[H9014\|־]] [[H2088\|זֶ֖ה]] [[H1892\|הָֽבֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.13|<< Ecclesiastes 8:13]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.15|Ecclesiastes 8:15 >>]]</td></tr></table>
 

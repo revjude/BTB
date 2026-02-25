@@ -1,8 +1,57 @@
+---
+title: Genesis 44:12
+type: Verse
+kjv: "And he searched, and began at the eldest, and left at the youngest: and the cup was found in Benjamin’s sack."
+bsb: "The steward searched, beginning with the oldest and ending with the youngest—and the cup was found in Benjamin’s sack."
+hebrew: "וַיְחַפֵּ֕שׂ בַּגָּד֣וֹל הֵחֵ֔ל וּבַקָּטֹ֖ן כִּלָּ֑ה וַיִּמָּצֵא֙ הַגָּבִ֔יעַ בְּאַמְתַּ֖חַת בִּנְיָמִֽן׃"
+pericope: "[[Gen.44.1 Benjamin and the Silver Cup|Benjamin and the Silver Cup]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 44
+book/chapter: "[[Gen.44|Genesis 44]]"
+chronological_order: 86
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic INTEGRITY|INTEGRITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H2664]]"
+- "[[H9003]]"
+- "[[H1419K]]"
+- "[[H2490C]]"
+- "[[H9002]]"
+- "[[H6996H]]"
+- "[[H3615G]]"
+- "[[H4672]]"
+- "[[H9009]]"
+- "[[H1375]]"
+- "[[H0572]]"
+- "[[H1144G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 44:12**<big><big>[[Gen.44.1 Benjamin and the Silver Cup|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he searched, [and] began at the eldest, and left at the youngest: and the cup was found in Benjamin’s sack.
 <small><sub>**BSB:**</sub></small>
 The steward searched, beginning with the oldest and ending with the youngest—and the cup was found in Benjamin’s sack.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2664\|יְחַפֵּ֕שׂ]] [[H9003\|בַּ]][[H1419K\|גָּד֣וֹל]] [[H2490C\|הֵחֵ֔ל]] [[H9002\|וּ]][[H9003\|בַ]][[H6996H\|קָּטֹ֖ן]] [[H3615G\|כִּלָּ֑ה]] [[H9001\|וַ]][[H4672\|יִּמָּצֵא֙]] [[H9009\|הַ]][[H1375\|גָּבִ֔יעַ]] [[H9003\|בְּ]][[H0572\|אַמְתַּ֖חַת]] [[H1144G\|בִּנְיָמִֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTEGRITY|INTEGRITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.44.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.11|<< Genesis 44:11]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.13|Genesis 44:13 >>]]</td></tr></table>
 

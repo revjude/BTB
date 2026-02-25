@@ -1,10 +1,57 @@
+---
+title: Acts 16:11
+type: Verse
+kjv: "Therefore loosing from Troas, we came with a straight course to Samothracia, and the next day to Neapolis;"
+bsb: "We sailed from Troas straight to Samothrace, and the following day on to Neapolis."
+greek: "Ἀναχθέντες δὲ ἀπὸ τῆς Τρῳάδος εὐθυδρομήσαμεν εἰς Σαμοθρᾴκην, τῇ δὲ ἐπιούσῃ εἰς Νέαν πόλιν,"
+pericope: "[[Acts.16.11 Lydia’s Conversion in Philippi|Lydia’s Conversion in Philippi]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic LUKE|LUKE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NEAPOLIS|NEAPOLIS]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SAMOTHRACIA (SAMOTHRACE)|SAMOTHRACIA (SAMOTHRACE)]]"
+- "[[topic TROAS|TROAS]]"
+strongs:
+- "[[G0321]]"
+- "[[G1161]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G5174]]"
+- "[[G2113]]"
+- "[[G1519]]"
+- "[[G4543]]"
+- "[[G1966]]"
+- "[[G3501]]"
+- "[[G4172]]"
+texts:
+- NKO
+- N(K)O
+- k
+---
+
 **Acts 16:11**<big><big>[[Acts.16.11 Lydia’s Conversion in Philippi|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore loosing from Troas, we came with a straight course to Samothracia, and the next [day] to Neapolis;
 <small><sub>**BSB:**</sub></small>
 We sailed from Troas straight to Samothrace, and the following day on to Neapolis.
-<small><sub>**Literal:**</sub></small>
-Having sailed then from <the> Troas we made a straight course to Samothrace, <the> and the following day to Nea Polis,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.10|<< Acts 16:10]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.12|Acts 16:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0321\|Ἀναχθέντες]]  [[G1161\|δὲ]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G5174\|Τρῳάδος]]  [[G2113\|εὐθυδρομήσαμεν]]  [[G1519\|εἰς]]  [[G4543\|Σαμοθρᾴκην,]]  [[G3588\|τῇ]]  [[G1161\|δὲ]]  [[G1966\|ἐπιούσῃ]]  [[G1519\|εἰς]]  [[G3501\|Νέαν]]  [[G4172\|πόλιν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LUKE|LUKE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NEAPOLIS|NEAPOLIS]] • [[topic PAUL|PAUL]] • [[topic SAMOTHRACIA (SAMOTHRACE)|SAMOTHRACIA (SAMOTHRACE)]] • [[topic TROAS|TROAS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.10|<< Acts 16:10]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.12|Acts 16:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

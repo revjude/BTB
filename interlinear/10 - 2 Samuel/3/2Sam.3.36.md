@@ -1,8 +1,62 @@
+---
+title: 2 Samuel 3:36
+type: Verse
+kjv: "And all the people took notice of it, and it pleased them: as whatsoever the king did pleased all the people."
+bsb: "All the people took note and were pleased. In fact, everything the king did pleased them."
+hebrew: "וְכָל־ הָעָ֣ם הִכִּ֔ירוּ וַיִּיטַ֖ב בְּעֵֽינֵיהֶ֑ם כְּכֹל֙ אֲשֶׁ֣ר עָשָׂ֣ה הַמֶּ֔לֶךְ בְּעֵינֵ֥י כָל־ הָעָ֖ם טֽוֹב׃"
+pericope: "[[2Sam.3.31 David Mourns for Abner|David Mourns for Abner]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 3
+book/chapter: "[[2Sam.3|2 Samuel 3]]"
+chronological_order: 331
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABNER|ABNER]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic LOYALTY|LOYALTY]]"
+- "[[topic POPULARITY|POPULARITY]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H5234A]]"
+- "[[H9001]]"
+- "[[H3190]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9028]]"
+- "[[H9004]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H4428G]]"
+- "[[H2895]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 3:36**<big><big>[[2Sam.3.31 David Mourns for Abner|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the people took notice [of it], and it pleased them: as whatsoever the king did pleased all the people.
 <small><sub>**BSB:**</sub></small>
 All the people took note and were pleased. In fact, everything the king did pleased them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H5234A\|הִכִּ֔ירוּ]] [[H9001\|וַ]][[H3190\|יִּיטַ֖ב]] [[H9003\|בְּ]][[H5869I\|עֵֽינֵי]][[H9028\|הֶ֑ם]] [[H9004\|כְּ]][[H3605\|כֹל֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213A\|עָשָׂ֣ה]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9003\|בְּ]][[H5869I\|עֵינֵ֥י]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H2895\|טֽוֹב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]] • [[topic CITIZENS|CITIZENS]] • [[topic LOYALTY|LOYALTY]] • [[topic POPULARITY|POPULARITY]] • [[topic TACT|TACT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.35|<< 2 Samuel 3:35]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.37|2 Samuel 3:37 >>]]</td></tr></table>
 

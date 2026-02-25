@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Egypt Cast into the Pit
+type: Pericope
 pericope: "[[Ezek.32.17 Egypt Cast into the Pit|Egypt Cast into the Pit]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 32
 book/chapter: "[[Ezek.32|Ezekiel 32]]"
-genre:
+chronological_order: 823
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 16
 verses:
 - "[[Ezek.32.17]]"
 - "[[Ezek.32.18]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Ezek.32.32]]"
 ---
 
-[[Ezek.32|Ezekiel 32:17 - Ezekiel 32:32]]
+<small>[[Ezek.32|Ezekiel 32:17-32]]</small>
 *Egypt Cast into the Pit*
 
 [[Ezek.32.17|17]] It came to pass also in the twelfth year, in the fifteenth \[day\] of the month, \[that\] the word of the LORD came unto me, saying,

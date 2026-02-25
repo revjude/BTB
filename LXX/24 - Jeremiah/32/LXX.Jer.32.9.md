@@ -1,6 +1,63 @@
+---
+title: LXX Jeremiah 32:9
+type: Verse
+lxx: "And I acquired the field from Hanameel the son of the brother of my father, the field in Anathoth. And I set for him seven and ten silver shekels."
+greek: "και εκτησάμην τον αγρόν Αναμεήλ υιόυ αδελφού πατρός μου τον εν Αναθώθ και έστησα αυτώ επτά σίκλους και δέκα αργυρίου"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 32
+book/chapter: "[[Jer.32|Jeremiah 32]]"
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ANATHOTH|ANATHOTH]]"
+- "[[topic HANAMEL|HANAMEL]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WITNESS|WITNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2932]]"
+- "[[G3588]]"
+- "[[G0068]]"
+- "[[H2606]]"
+- "[[G5207]]"
+- "[[G0080]]"
+- "[[G3962]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[H6068]]"
+- "[[G2532]]"
+- "[[G2476]]"
+- "[[G1473]]"
+- "[[G2033]]"
+- "[[G9079]]"
+- "[[G2532]]"
+- "[[G1176]]"
+- "[[G0694]]"
+---
+
 **LXX Jeremiah 32:9** 
 <small><sub>**LXX:**</sub></small>
 And I acquired the field \[from\] Hanameel \[the\] son of \[the\] brother of my father, the \[field\] in Anathoth. And I set for him seven and ten silver shekels. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2932\|εκτησάμην]] [[G3588\|τον]] [[G0068\|αγρόν]] [[H2606\|Αναμεήλ]] [[G5207\|υιόυ]] [[G0080\|αδελφού]] [[G3962\|πατρός]] [[G1473\|μου]] [[G3588\|τον]] [[G1722\|εν]] [[H6068\|Αναθώθ]] [[G2532\|και]] [[G2476\|έστησα]] [[G1473\|αυτώ]] [[G2033\|επτά]] [[G9079\|σίκλους]] [[G2532\|και]] [[G1176\|δέκα]] [[G0694\|αργυρίου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANATHOTH|ANATHOTH]] • [[topic HANAMEL|HANAMEL]] • [[topic JEREMIAH|JEREMIAH]] • [[topic LAND|LAND]] • [[topic MONEY|MONEY]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WITNESS|WITNESS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.32.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.8|<< Jeremiah 32:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.10|Jeremiah 32:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -29,6 +86,6 @@ And I acquired the field \[from\] Hanameel \[the\] son of \[the\] brother of my 
 | and | **<big>[[G2532\|και]]</big>** |
 | ten | **<big>[[G1176\|δέκα]]</big>** |
 | silver | **<big>[[G0694\|αργυρίου]]</big>** |
-[[Jer.32.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.8|<< Jeremiah 32:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.10|Jeremiah 32:10 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.8|<< Jeremiah 32:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.10|Jeremiah 32:10 >>]]</td></tr></table>
 
 

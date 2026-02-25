@@ -1,10 +1,64 @@
+---
+title: Luke 5:14
+type: Verse
+kjv: "And he charged him to tell no man: but go, and shew thyself to the priest, and offer for thy cleansing, according as Moses commanded, for a testimony unto them."
+bsb: "“Do not tell anyone,” Jesus instructed him. “But go, show yourself to the priest and present the offering Moses prescribed for your cleansing, as a testimony to them.”"
+jesus_said: "tell no man: but go, and shew thyself to the priest, and offer for thy cleansing, according as Moses commanded, for a testimony unto them."
+greek: "καὶ αὐτὸς παρήγγειλεν αὐτῷ μηδενὶ εἰπεῖν ἀλλ᾽ ἀπελθὼν δεῖξον σεαυτὸν τῷ ἱερεῖ καὶ προσένεγκε περὶ τοῦ καθαρισμοῦ σου καθὼς προσέταξεν Μωϋσῆς εἰς μαρτύριον αὐτοῖς.¶"
+pericope: "[[Luke.5.12 The Leper’s Prayer|The Leper’s Prayer]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 5
+book/chapter: "[[Luke.5|Luke 5]]"
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEPROSY|LEPROSY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G3853]]"
+- "[[G3367]]"
+- "[[G2036]]"
+- "[[G0235]]"
+- "[[G0565]]"
+- "[[G1166]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G2409]]"
+- "[[G4374]]"
+- "[[G4012]]"
+- "[[G2512]]"
+- "[[G2531]]"
+- "[[G4367]]"
+- "[[G3475]]"
+- "[[G1519]]"
+- "[[G3142]]"
+texts:
+- NKO
+---
+
 **Luke 5:14**<big><big>[[Luke.5.12 The Leper’s Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he charged him to tell no man: but go, and shew thyself to the priest, and offer for thy cleansing, according as Moses commanded, for a testimony unto them.
 <small><sub>**BSB:**</sub></small>
 “Do not tell anyone,” Jesus instructed him. “But go, show yourself to the priest and present the offering Moses prescribed for your cleansing, as a testimony to them.”
-<small><sub>**Literal:**</sub></small>
-And He himself ordered him no one to tell But having gone do show yourself to the priest and do offer for the cleansing of you even as commanded Moses for a testimony to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.13|<< Luke 5:13]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.15|Luke 5:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G3853\|παρήγγειλεν]]  [[G0846\|αὐτῷ]]  [[G3367\|μηδενὶ]]  [[G2036\|εἰπεῖν]]  [[G0235\|ἀλλ᾽]]  [[G0565\|ἀπελθὼν]]  [[G1166\|δεῖξον]]  [[G4771\|σεαυτὸν]]  [[G3588\|τῷ]]  [[G2409\|ἱερεῖ]]  [[G2532\|καὶ]]  [[G4374\|προσένεγκε]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G2512\|καθαρισμοῦ]]  [[G4771\|σου]]  [[G2531\|καθὼς]]  [[G4367\|προσέταξεν]]  [[G3475\|Μωϋσῆς]]  [[G1519\|εἰς]]  [[G3142\|μαρτύριον]]  [[G0846\|αὐτοῖς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEPROSY|LEPROSY]] • [[topic MIRACLES|MIRACLES]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.13|<< Luke 5:13]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.15|Luke 5:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 5:14** is...
 > $\quad$ alluding to: [[LXX.Lev.14.2|Lev 14:2]]

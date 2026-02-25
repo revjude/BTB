@@ -1,6 +1,70 @@
+---
+title: LXX Ezra 6:11
+type: Verse
+lxx: "And from me was rendered a decree, that every man who ever changes  this word the timber of his house shall be demolished, and a stake being straight up he shall be pitched upon it, and  his house will be for ravaging."
+greek: "και απ΄ μου ετέθη γνώμη ότι πας άνθρωπος ος αν αλλάξει το ρήμα τούτο καθαιρεθήσεται ξύλον εκ της οικίας αυτού και ωρθώμενος παγήσεται επ΄ αυτού και ο οίκος αυτού έσται εις διαρπαγήν"
+original_language: Greek
+testament: Old
+book: Ezra
+chapter: 6
+book/chapter: "[[Ezra.6|Ezra 6]]"
+chronological_order: 854
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- septuagint
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G1473]]"
+- "[[G5087]]"
+- "[[G1106]]"
+- "[[G3754]]"
+- "[[G3956]]"
+- "[[G0444]]"
+- "[[G3739]]"
+- "[[G0302]]"
+- "[[G0236]]"
+- "[[G3588]]"
+- "[[G4487]]"
+- "[[G3778]]"
+- "[[G2507]]"
+- "[[G3586]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3614]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G8546]]"
+- "[[G4078]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G1519]]"
+- "[[G6869]]"
+---
+
 **LXX Ezra 6:11** 
 <small><sub>**LXX:**</sub></small>
 And from me was rendered a decree, that every man who ever changes  this word \[the\] timber of his house shall be demolished, and \[a stake\] being straight up he shall be pitched upon it, and  his house will be for ravaging. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0575\|απ΄]] [[G1473\|μου]] [[G5087\|ετέθη]] [[G1106\|γνώμη]] [[G3754\|ότι]] [[G3956\|πας]] [[G0444\|άνθρωπος]] [[G3739\|ος]] [[G0302\|αν]] [[G0236\|αλλάξει]] [[G3588\|το]] [[G4487\|ρήμα]] [[G3778\|τούτο]] [[G2507\|καθαιρεθήσεται]] [[G3586\|ξύλον]] [[G1537\|εκ]] [[G3588\|της]] [[G3614\|οικίας]] [[G1473\|αυτού]] [[G2532\|και]] [[G8546\|ωρθώμενος]] [[G4078\|παγήσεται]] [[G1909\|επ΄]] [[G1473\|αυτού]] [[G2532\|και]] [[G3588\|ο]] [[G3624\|οίκος]] [[G1473\|αυτού]] [[G1510\|έσται]] [[G1519\|εις]] [[G6869\|διαρπαγήν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LIBERALITY|LIBERALITY]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezra.6.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.10|<< Ezra 6:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.12|Ezra 6:12 >>]]</td></tr></table>
 
@@ -35,6 +99,6 @@ And from me was rendered a decree, that every man who ever changes  this word \[
 | will be | **<big>[[G1510\|έσται]]</big>** |
 | for | **<big>[[G1519\|εις]]</big>** |
 | ravaging. | **<big>[[G6869\|διαρπαγήν]]</big>** |
-[[Ezra.6.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.10|<< Ezra 6:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.12|Ezra 6:12 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.10|<< Ezra 6:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.12|Ezra 6:12 >>]]</td></tr></table>
 
 

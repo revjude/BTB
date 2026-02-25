@@ -3,7 +3,7 @@
 
 1. The most southern city of Palestine [[Judg.20.1|Jud 20:1]]
 
-- Named by Abraham, who lived there [[Gen.21.31|Ge 21:31]]-[[Gen.21.33|33]]; [[Gen.22.19|22:19]]
+- Named by Abraham, who lived there [[Gen.21.31|Ge 21:31-33]]; [[Gen.22.19|22:19]]
 
 - The place where Isaac lived [[Gen.26.23|Ge 26:23]]
 
@@ -21,7 +21,7 @@
 
 2. The well of, belonged to Abraham and Isaac [[Gen.21.25|Ge 21:25]],[[Gen.21.26|26]]
 
-3. Wilderness of, Hagar miraculously sees a well in  [[Gen.21.14|Ge 21:14]]-[[Gen.21.19|19]]
+3. Wilderness of, Hagar miraculously sees a well in  [[Gen.21.14|Ge 21:14-19]]
 
 - An angel fed Elijah in [[1Kgs.19.5|1Ki 19:5]],[[1Kgs.19.7|7]]
 

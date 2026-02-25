@@ -1,10 +1,64 @@
+---
+title: Colossians 1:10
+type: Verse
+kjv: "That ye might walk worthy of the Lord unto all pleasing, being fruitful in every good work, and increasing in the knowledge of God;"
+bsb: "so that you may walk in a manner worthy of the Lord and may please Him in every way: bearing fruit in every good work, growing in the knowledge of God,"
+greek: "περιπατῆσαι ὑμᾶς ἀξίως τοῦ κυρίου εἰς πᾶσαν ἀρεσκείαν ἐν παντὶ ἔργῳ ἀγαθῷ καρποφοροῦντες καὶ αὐξανόμενοι εἰς τῇ ἐπιγνώσει τοῦ θεοῦ,"
+pericope: "[[Col.1.3 Thanksgiving and Prayer|Thanksgiving and Prayer]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 1
+book/chapter: "[[Col.1|Colossians 1]]"
+chronological_order: 1121
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WALKING|WALKING]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G4043]]"
+- "[[G4771]]"
+- "[[G0516]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G1519]]"
+- "[[G3956]]"
+- "[[G0699]]"
+- "[[G1722]]"
+- "[[G2041]]"
+- "[[G0018]]"
+- "[[G2592]]"
+- "[[G2532]]"
+- "[[G0837]]"
+- "[[G1922]]"
+- "[[G2316]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Colossians 1:10**<big><big>[[Col.1.3 Thanksgiving and Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That ye might walk worthy of the Lord unto all pleasing, being fruitful in every good work, and increasing in the knowledge of God;
 <small><sub>**BSB:**</sub></small>
 so that you may walk in a manner worthy of the Lord and may please Him in every way: bearing fruit in every good work, growing in the knowledge of God,
-<small><sub>**Literal:**</sub></small>
-to walk you worthily of the Lord in all pleasing in every work good bringing forth fruit and growing into <the> knowledge <the> of God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.9|<< Colossians 1:9]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.11|Colossians 1:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4043\|περιπατῆσαι]]  [[G4771\|ὑμᾶς]]  [[G0516\|ἀξίως]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G1519\|εἰς]]  [[G3956\|πᾶσαν]]  [[G0699\|ἀρεσκείαν]]  [[G1722\|ἐν]]  [[G3956\|παντὶ]]  [[G2041\|ἔργῳ]]  [[G0018\|ἀγαθῷ]]  [[G2592\|καρποφοροῦντες]]  [[G2532\|καὶ]]  [[G0837\|αὐξανόμενοι]]  [[G1519\|εἰς]]  [[G3588\|τῇ]]  [[G1922\|ἐπιγνώσει]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GRACE OF GOD|GRACE OF GOD]] • [[topic PATIENCE|PATIENCE]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WALKING|WALKING]] • [[topic WISDOM|WISDOM]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.9|<< Colossians 1:9]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.11|Colossians 1:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

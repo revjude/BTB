@@ -1,13 +1,13 @@
 
 **STONES**
 
-→ Commandments engraved upon [[Exod.24.12|Ex 24:12]]; [[Exod.31.18|31:18]]; [[Exod.34.1|34:1]]-[[Exod.34.4|4]];  [[Deut.4.13|De 4:13]]; [[Deut.5.22|5:22]]; [[Deut.9.9|9:9]]-[[Deut.9.11|11]]; [[Deut.10.1|10:1]]-[[Deut.10.3|3]]
+→ Commandments engraved upon [[Exod.24.12|Ex 24:12]]; [[Exod.31.18|31:18]]; [[Exod.34.1|34:1-4]];  [[Deut.4.13|De 4:13]]; [[Deut.5.22|5:22]]; [[Deut.9.9|9:9-11]]; [[Deut.10.1|10:1-3]]
 
 → The law of Moses written upon [[Josh.8.32|Jos 8:32]]
 
 → Houses built of [[Isa.9.10|Isa 9:10]]; [[Amos.5.11|Am 5:11]]
 
-→ Temple built of [[1Kgs.5.17|1Ki 5:17]],[[1Kgs.5.18|18]]; [[1Kgs.7.9|7:9]]-[[1Kgs.7.12|12]]; [[Matt.24.2|Mt 24:2]]; [[Luke.19.44|Lu 19:44]];  [[Luke.21.5|21:5]],[[Luke.21.6|6]]
+→ Temple built of [[1Kgs.5.17|1Ki 5:17]],[[1Kgs.5.18|18]]; [[1Kgs.7.9|7:9-12]]; [[Matt.24.2|Mt 24:2]]; [[Luke.19.44|Lu 19:44]];  [[Luke.21.5|21:5]],[[Luke.21.6|6]]
 
 → Prepared in the quarries [[1Kgs.6.7|1Ki 6:7]]
 
@@ -19,7 +19,7 @@
 
 → City walls built of  [[Neh.4.3|Ne 4:3]]
 
-→ Memorial pillars of [[Gen.28.18|Ge 28:18]]-[[Gen.28.22|22]]; [[Gen.31.45|31:45]]-[[Gen.31.52|52]]; [[Josh.4.2|Jos 4:2]]-[[Josh.4.9|9]],[[Josh.4.20|20]]-[[Josh.4.24|24]];  [[Josh.24.25|24:25]]; [[1Sam.7.12|1Sa 7:12]]
+→ Memorial pillars of [[Gen.28.18|Ge 28:18-22]]; [[Gen.31.45|31:45-52]]; [[Josh.4.2|Jos 4:2-9]],[[Josh.4.20|20-24]];  [[Josh.24.25|24:25]]; [[1Sam.7.12|1Sa 7:12]]
 
 → Great, as landmarks (Some Hebrew mss. have &#8220;Abel&#8221;) [[1Sam.6.18|1Sa 6:18]]
 
@@ -41,7 +41,7 @@
 
 → Idols made of [[Deut.4.28|De 4:28]]; [[Deut.28.36|28:36]],[[Deut.28.64|64]]; [[Deut.29.17|29:17]]; [[2Kgs.19.18|2Ki 19:18]];  [[Isa.37.19|Isa 37:19]]; [[Ezek.20.32|Eze 20:32]]
 
-→ Great, in Solomon' s temple [[1Kgs.5.17|1Ki 5:17]],[[1Kgs.5.18|18]]; [[1Kgs.7.9|7:9]]-[[1Kgs.7.12|12]]
+→ Great, in Solomon' s temple [[1Kgs.5.17|1Ki 5:17]],[[1Kgs.5.18|18]]; [[1Kgs.7.9|7:9-12]]
 
 → Magnificent, in Herod the Great' s temple [[Mark.13.1|Mr 13:1]]
 
@@ -67,7 +67,7 @@
 
 - Of Christ, &#8220;a Tested Stone,&#8221; &#8220;a Precious Stone,&#8221; &#8220;a Sure Foundation,&#8221; [[Isa.28.16|Isa 28:16]]
 
-- Of Christ' s rejection, the rejected Conerstone  [[Ps.118.22|Ps  118:22]]; [[Matt.21.42|Mt 21:42]]-[[Matt.21.44|44]]; [[Mark.12.10|Mr 12:10]]; [[Luke.20.17|Lu 20:17]],[[Luke.20.18|18]]; [[Acts.4.11|Ac 4:11]]; [[1Pet.2.4|1Pe 2:4]]
+- Of Christ' s rejection, the rejected Conerstone  [[Ps.118.22|Ps  118:22]]; [[Matt.21.42|Mt 21:42-44]]; [[Mark.12.10|Mr 12:10]]; [[Luke.20.17|Lu 20:17]],[[Luke.20.18|18]]; [[Acts.4.11|Ac 4:11]]; [[1Pet.2.4|1Pe 2:4]]
 
 - The True Foundation  [[Isa.28.16|Isa 28:16]]; [[Matt.16.18|Mt 16:18]]; [[1Cor.3.11|1Co 3:11]];  [[Eph.2.20|Eph 2:20]]; [[Rev.21.14|Re 21:14]]
 
@@ -83,7 +83,7 @@
 
 → PRECIOUS
 
-- In the breastplate and ephod [[Exod.28.9|Ex 28:9]]-[[Exod.28.21|21]]; [[Exod.39.6|39:6]]-[[Exod.39.14|14]]
+- In the breastplate and ephod [[Exod.28.9|Ex 28:9-21]]; [[Exod.39.6|39:6-14]]
 
 - Voluntary offerings of, by the Israelites for the breastplate  and ephod [[Exod.35.27|Ex 35:27]]
 

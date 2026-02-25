@@ -1,8 +1,80 @@
+---
+title: 2 Chronicles 31:10
+type: Verse
+kjv: "And Azariah the chief priest of the house of Zadok answered him, and said, Since the people began to bring the offerings into the house of the LORD, we have had enough to eat, and have left plenty: for the LORD hath blessed his people; and that which is left is this great store."
+bsb: "and Azariah, the chief priest of the household of Zadok, answered him, “Since the people began to bring their contributions into the house of the LORD, we have had enough to eat, and there is plenty left over, because the LORD has blessed His people; this great abundance is what is left over.”"
+hebrew: "וַיֹּ֣אמֶר אֵלָ֗יו עֲזַרְיָ֧הוּ הַכֹּהֵ֛ן הָרֹ֖אשׁ לְבֵ֣ית צָד֑וֹק וַ֠יֹּאמֶר מֵהָחֵ֨ל הַתְּרוּמָ֜ה לָבִ֣יא בֵית־ יְהוָ֗ה אָכ֨וֹל וְשָׂב֤וֹעַ וְהוֹתֵר֙ עַד־ לָר֔וֹב כִּ֤י יְהוָה֙ בֵּרַ֣ךְ אֶת־ עַמּ֔וֹ וְהַנּוֹתָ֖ר אֶת־ הֶהָמ֥וֹן הַזֶּֽה׃ ס"
+pericope: "[[2Chr.31.3 Contributions for Worship|Contributions for Worship]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 31
+book/chapter: "[[2Chr.31|2 Chronicles 31]]"
+chronological_order: 661
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AZARIAH|AZARIAH]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TITHES|TITHES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H5838P]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H7218H]]"
+- "[[H9005]]"
+- "[[H1004B]]"
+- "[[H6659G]]"
+- "[[H9006]]"
+- "[[H2490C]]"
+- "[[H8641]]"
+- "[[H0935P]]"
+- "[[H1004Q]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0398]]"
+- "[[H9002]]"
+- "[[H7646]]"
+- "[[H3498]]"
+- "[[H5704]]"
+- "[[H7230]]"
+- "[[H3588A]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H1995A]]"
+- "[[H2088]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Chronicles 31:10**<big><big>[[2Chr.31.3 Contributions for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Azariah the chief priest of the house of Zadok answered him, and said, Since [the people] began to bring the offerings into the house of the LORD, we have had enough to eat, and have left plenty: for the LORD hath blessed his people; and that which is left [is] this great store.
 <small><sub>**BSB:**</sub></small>
 and Azariah, the chief priest of the household of Zadok, answered him, “Since the people began to bring their contributions into the house of the LORD, we have had enough to eat, and there is plenty left over, because the LORD has blessed His people; this great abundance is what is left over.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H5838P\|עֲזַרְיָ֧הוּ]] [[H9009\|הַ]][[H3548\|כֹּהֵ֛ן]] [[H9009\|הָ]][[H7218H\|רֹ֖אשׁ]] [[H9005\|לְ]][[H1004B\|בֵ֣ית]] [[H6659G\|צָד֑וֹק]] [[H9001\|וַ֠]][[H0559\|יֹּאמֶר]] [[H9006\|מֵ]][[H2490C\|הָחֵ֨ל]] [[H9009\|הַ]][[H8641\|תְּרוּמָ֜ה]] [[H9005\|לָ]][[H0935P\|בִ֣יא]] [[H1004Q\|בֵית]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H0398\|אָכ֨וֹל]] [[H9002\|וְ]][[H7646\|שָׂב֤וֹעַ]] [[H9002\|וְ]][[H3498\|הוֹתֵר֙]] [[H5704\|עַד]][[H9014\|־]] [[H9005\|לָ]][[H7230\|ר֔וֹב]] [[H3588A\|כִּ֤י]] [[H3068G\|יְהוָה֙]] [[H1288\|בֵּרַ֣ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמּ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H9009\|הַ]][[H3498\|נּוֹתָ֖ר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הֶ]][[H1995A\|הָמ֥וֹן]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AZARIAH|AZARIAH]] • [[topic BLESSING|BLESSING]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic GOD|GOD]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PRIEST|PRIEST]] • [[topic TITHES|TITHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.31.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.9|<< 2 Chronicles 31:9]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.11|2 Chronicles 31:11 >>]]</td></tr></table>
 
@@ -34,7 +106,7 @@ and Azariah, the chief priest of the household of Zadok, answered him, “Since 
 | and \<the> [what] remains  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3498\|נּוֹתָ֖ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> no.Tar<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the abundance  |**<big>&#8207;[[H9009\|הֶ]]&#8207;&#8207;[[H1995A\|הָמ֥וֹן]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> ha.Mon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.9|<< 2 Chronicles 31:9]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.11|2 Chronicles 31:11 >>]]</td></tr></table>
 
 

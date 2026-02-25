@@ -1,8 +1,55 @@
+---
+title: Numbers 23:8
+type: Verse
+kjv: "How shall I curse, whom God hath not cursed? or how shall I defy, whom the LORD hath not defied?"
+bsb: "How can I curse those whom God has not cursed? How can I denounce those whom the LORD has not denounced?"
+hebrew: "מָ֣ה אֶקֹּ֔ב לֹ֥א קַבֹּ֖ה אֵ֑ל וּמָ֣ה אֶזְעֹ֔ם לֹ֥א זָעַ֖ם יְהוָֽה׃"
+pericope: "[[Num.23.1 Balaam’s First Oracle|Balaam’s First Oracle]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 23
+book/chapter: "[[Num.23|Numbers 23]]"
+chronological_order: 183
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H4100]]"
+- "[[H6895]]"
+- "[[H3808]]"
+- "[[H9033]]"
+- "[[H0410G]]"
+- "[[H9002]]"
+- "[[H2194]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 23:8**<big><big>[[Num.23.1 Balaam’s First Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How shall I curse, whom God hath not cursed? or how shall I defy, [whom] the LORD hath not defied?
 <small><sub>**BSB:**</sub></small>
 How can I curse those whom God has not cursed? How can I denounce those whom the LORD has not denounced?
+<small><sub>**Hebrew:**</sub></small>
+[[H4100\|מָ֣ה]] [[H6895\|אֶקֹּ֔ב]] [[H3808\|לֹ֥א]] [[H6895\|קַבֹּ֖]][[H9033\|ה]] [[H0410G\|אֵ֑ל]] [[H9002\|וּ]][[H4100\|מָ֣ה]] [[H2194\|אֶזְעֹ֔ם]] [[H3808\|לֹ֥א]] [[H2194\|זָעַ֖ם]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.7|<< Numbers 23:7]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.9|Numbers 23:9 >>]]</td></tr></table>
 

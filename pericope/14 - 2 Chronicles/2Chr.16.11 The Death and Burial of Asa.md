@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Death and Burial of Asa
+type: Pericope
 pericope: "[[2Chr.16.11 The Death and Burial of Asa|The Death and Burial of Asa]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 16
 book/chapter: "[[2Chr.16|2 Chronicles 16]]"
-genre:
+chronological_order: 562
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 4
 verses:
 - "[[2Chr.16.11]]"
 - "[[2Chr.16.12]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Chr.16.14]]"
 ---
 
-[[2Chr.16|2 Chronicles 16:11 - 2 Chronicles 16:14]]
+<small>[[2Chr.16|2 Chronicles 16:11-14]]</small>
 *The Death and Burial of Asa*
 
 [[2Chr.16.11|11]] And, behold, the acts of Asa, first and last, lo, they \[are\] written in the book of the kings of Judah and Israel.

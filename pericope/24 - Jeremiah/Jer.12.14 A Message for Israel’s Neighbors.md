@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Message for Israel’s Neighbors
+type: Pericope
 pericope: "[[Jer.12.14 A Message for Israel’s Neighbors|A Message for Israel’s Neighbors]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 12
 book/chapter: "[[Jer.12|Jeremiah 12]]"
-genre:
+chronological_order: 729
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 4
 verses:
 - "[[Jer.12.14]]"
 - "[[Jer.12.15]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Jer.12.17]]"
 ---
 
-[[Jer.12|Jeremiah 12:14 - Jeremiah 12:17]]
+<small>[[Jer.12|Jeremiah 12:14-17]]</small>
 *A Message for Israel’s Neighbors*
 
 [[Jer.12.14|14]] Thus saith the LORD against all mine evil neighbours, that touch the inheritance which I have caused my people Israel to inherit; Behold, I will pluck them out of their land, and pluck out the house of Judah from among them.

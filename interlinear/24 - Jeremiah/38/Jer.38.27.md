@@ -1,8 +1,72 @@
+---
+title: Jeremiah 38:27
+type: Verse
+kjv: "Then came all the princes unto Jeremiah, and asked him: and he told them according to all these words that the king had commanded. So they left off speaking with him; for the matter was not perceived."
+bsb: "When all the officials came to Jeremiah and questioned him, he relayed to them the exact words the king had commanded him to say. So they said no more to him, for no one had overheard the conversation."
+hebrew: "וַיָּבֹ֨אוּ כָל־ הַשָּׂרִ֤ים אֶֽל־ יִרְמְיָ֙הוּ֙ וַיִּשְׁאֲל֣וּ אֹת֔וֹ וַיַּגֵּ֤ד לָהֶם֙ כְּכָל־ הַדְּבָרִ֣ים הָאֵ֔לֶּה אֲשֶׁ֥ר צִוָּ֖ה הַמֶּ֑לֶךְ וַיַּחֲרִ֣שׁוּ מִמֶּ֔נּוּ כִּ֥י לֹֽא־ נִשְׁמַ֖ע הַדָּבָֽר׃ פ"
+pericope: "[[Jer.38.1 Jeremiah Cast into the Cistern|Jeremiah Cast into the Cistern]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 38
+book/chapter: "[[Jer.38|Jeremiah 38]]"
+chronological_order: 761
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic KING|KING]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8269]]"
+- "[[H0413]]"
+- "[[H3414L]]"
+- "[[H7592]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H4428G]]"
+- "[[H2790B]]"
+- "[[H4480A]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H1697H]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Jeremiah 38:27**<big><big>[[Jer.38.1 Jeremiah Cast into the Cistern|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then came all the princes unto Jeremiah, and asked him: and he told them according to all these words that the king had commanded. So they left off speaking with him; for the matter was not perceived.
 <small><sub>**BSB:**</sub></small>
 When all the officials came to Jeremiah and questioned him, he relayed to them the exact words the king had commanded him to say. So they said no more to him, for no one had overheard the conversation.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֨אוּ]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H8269\|שָּׂרִ֤ים]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֙הוּ֙]] [[H9001\|וַ]][[H7592\|יִּשְׁאֲל֣וּ]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H5046\|יַּגֵּ֤ד]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H9004\|כְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H0834A\|אֲשֶׁ֥ר]] [[H6680\|צִוָּ֖ה]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9001\|וַ]][[H2790B\|יַּחֲרִ֣שׁוּ]] [[H4480A\|מִמֶּ֔]][[H9033\|נּוּ]] [[H3588A\|כִּ֥י]] [[H3808\|לֹֽא]][[H9014\|־]] [[H8085G\|נִשְׁמַ֖ע]] [[H9009\|הַ]][[H1697H\|דָּבָֽר]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]] • [[topic PRISONERS|PRISONERS]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.38.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.26|<< Jeremiah 38:26]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.28|Jeremiah 38:28 >>]]</td></tr></table>
 
@@ -28,7 +92,7 @@ When all the officials came to Jeremiah and questioned him, he relayed to them t
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it had been heard  |**<big>&#8207;[[H8085G\|נִשְׁמַ֖ע]]&#8207; </big>**| nish.Ma'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the matter  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697H\|דָּבָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the matter  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697H\|דָּבָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.26|<< Jeremiah 38:26]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.28|Jeremiah 38:28 >>]]</td></tr></table>
 
 

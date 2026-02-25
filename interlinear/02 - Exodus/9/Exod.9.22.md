@@ -1,8 +1,73 @@
+---
+title: Exodus 9:22
+type: Verse
+kjv: "And the LORD said unto Moses, Stretch forth thine hand toward heaven, that there may be hail in all the land of Egypt, upon man, and upon beast, and upon every herb of the field, throughout the land of Egypt."
+bsb: "Then the LORD said to Moses, “Stretch out your hand toward heaven, so that hail may fall on all the land of Egypt—on man and beast and every plant of the field throughout the land of Egypt.”"
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה אֶל־ מֹשֶׁה נְטֵ֤ה אֶת־ יָֽדְךָ֙ עַל־ הַשָּׁמַ֔יִם וִיהִ֥י בָרָ֖ד בְּכָל־ אֶ֣רֶץ מִצְרָ֑יִם עַל־ הָאָדָ֣ם וְעַל־ הַבְּהֵמָ֗ה וְעַ֛ל כָּל־ עֵ֥שֶׂב הַשָּׂדֶ֖ה בְּאֶ֥רֶץ מִצְרָֽיִם׃"
+pericope: "[[Exod.9.13 The Seventh Plague：Hail|The Seventh Plague：Hail]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 9
+book/chapter: "[[Exod.9|Exodus 9]]"
+chronological_order: 101
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic HAIL|HAIL]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic RAIN|RAIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H5186]]"
+- "[[H0853]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H1259]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H0120G]]"
+- "[[H0929]]"
+- "[[H6212]]"
+- "[[H7704G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 9:22**<big><big>[[Exod.9.13 The Seventh Plague：Hail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, Stretch forth thine hand toward heaven, that there may be hail in all the land of Egypt, upon man, and upon beast, and upon every herb of the field, throughout the land of Egypt.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Moses, “Stretch out your hand toward heaven, so that hail may fall on all the land of Egypt—on man and beast and every plant of the field throughout the land of Egypt.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁה]] [[H5186\|נְטֵ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יָֽדְ]][[H9021\|ךָ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H9002\|וִ]][[H1961\|יהִ֥י]] [[H1259\|בָרָ֖ד]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0120G\|אָדָ֣ם]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H0929\|בְּהֵמָ֗ה]] [[H9002\|וְ]][[H5921A\|עַ֛ל]] [[H3605\|כָּל]][[H9014\|־]] [[H6212\|עֵ֥שֶׂב]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֖ה]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAIL|HAIL]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic PLAGUE|PLAGUE]] • [[topic RAIN|RAIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.21|<< Exodus 9:21]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.23|Exodus 9:23 >>]]</td></tr></table>
 

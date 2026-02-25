@@ -1,8 +1,61 @@
+---
+title: 1 Chronicles 7:16
+type: Verse
+kjv: "And Maachah the wife of Machir bare a son, and she called his name Peresh; and the name of his brother was Sheresh; and his sons were Ulam and Rakem."
+bsb: "Machir’s wife Maacah gave birth to a son, and she named him Peresh. His brother was named Sheresh, and his sons were Ulam and Rekem."
+hebrew: "וַתֵּ֨לֶד מַעֲכָ֤ה אֵֽשֶׁת־ מָכִיר֙ בֵּ֔ן וַתִּקְרָ֤א שְׁמוֹ֙ פֶּ֔רֶשׁ וְשֵׁ֥ם אָחִ֖יו שָׁ֑רֶשׁ וּבָנָ֖יו אוּלָ֥ם וָרָֽקֶם׃"
+pericope: "[[1Chr.7.14 The Descendants of Manasseh|The Descendants of Manasseh]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 7
+book/chapter: "[[1Chr.7|1 Chronicles 7]]"
+chronological_order: 326
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic MAACHAH|MAACHAH]]"
+- "[[topic PERESH|PERESH]]"
+- "[[topic RAKEM|RAKEM]]"
+- "[[topic SHERESH|SHERESH]]"
+- "[[topic ULAM|ULAM]]"
+strongs:
+- "[[H9001]]"
+- "[[H3205]]"
+- "[[H4601M]]"
+- "[[H0802H]]"
+- "[[H9014]]"
+- "[[H4353G]]"
+- "[[H1121A]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H6570]]"
+- "[[H9002]]"
+- "[[H0251G]]"
+- "[[H8329]]"
+- "[[H0198G]]"
+- "[[H7552J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 7:16**<big><big>[[1Chr.7.14 The Descendants of Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Maachah the wife of Machir bare a son, and she called his name Peresh; and the name of his brother [was] Sheresh; and his sons [were] Ulam and Rakem.
 <small><sub>**BSB:**</sub></small>
 Machir’s wife Maacah gave birth to a son, and she named him Peresh. His brother was named Sheresh, and his sons were Ulam and Rekem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3205\|תֵּ֨לֶד]] [[H4601M\|מַעֲכָ֤ה]] [[H0802H\|אֵֽשֶׁת]][[H9014\|־]] [[H4353G\|מָכִיר֙]] [[H1121A\|בֵּ֔ן]] [[H9001\|וַ]][[H7121H\|תִּקְרָ֤א]] [[H8034\|שְׁמ]][[H9023\|וֹ֙]] [[H6570\|פֶּ֔רֶשׁ]] [[H9002\|וְ]][[H8034\|שֵׁ֥ם]] [[H0251G\|אָחִ֖י]][[H9023\|ו]] [[H8329\|שָׁ֑רֶשׁ]] [[H9002\|וּ]][[H1121A\|בָנָ֖י]][[H9023\|ו]] [[H0198G\|אוּלָ֥ם]] [[H9002\|וָ]][[H7552J\|רָֽקֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MAACHAH|MAACHAH]] • [[topic PERESH|PERESH]] • [[topic RAKEM|RAKEM]] • [[topic SHERESH|SHERESH]] • [[topic ULAM|ULAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.15|<< 1 Chronicles 7:15]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.17|1 Chronicles 7:17 >>]]</td></tr></table>
 

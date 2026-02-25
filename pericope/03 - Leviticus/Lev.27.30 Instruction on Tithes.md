@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Instruction on Tithes
+type: Pericope
 pericope: "[[Lev.27.30 Instruction on Tithes|Instruction on Tithes]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 27
 book/chapter: "[[Lev.27|Leviticus 27]]"
-genre:
+chronological_order: 159
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 5
 verses:
 - "[[Lev.27.30]]"
 - "[[Lev.27.31]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Lev.27.34]]"
 ---
 
-[[Lev.27|Leviticus 27:30 - Leviticus 27:34]]
+<small>[[Lev.27|Leviticus 27:30-34]]</small>
 *Instruction on Tithes*
 
 [[Lev.27.30|30]] And all the tithe of the land, \[whether\] of the seed of the land, \[or\] of the fruit of the tree, \[is\] the LORD’S: \[it is\] holy unto the LORD.

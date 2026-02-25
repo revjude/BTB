@@ -1,8 +1,78 @@
+---
+title: Deuteronomy 21:13
+type: Verse
+kjv: "And she shall put the raiment of her captivity from off her, and shall remain in thine house, and bewail her father and her mother a full month: and after that thou shalt go in unto her, and be her husband, and she shall be thy wife."
+bsb: "and put aside the clothing of her captivity. After she has lived in your house a full month and mourned her father and mother, you may have relations with her and be her husband, and she shall be your wife."
+hebrew: "וְהֵסִ֩ירָה֩ אֶת־ שִׂמְלַ֨ת שִׁבְיָ֜הּ מֵעָלֶ֗יהָ וְיָֽשְׁבָה֙ בְּבֵיתֶ֔ךָ וּבָֽכְתָ֛ה אֶת־ אָבִ֥יהָ וְאֶת־ אִמָּ֖הּ יֶ֣רַח יָמִ֑ים וְאַ֨חַר כֵּ֜ן תָּב֤וֹא אֵלֶ֙יהָ֙ וּבְעַלְתָּ֔הּ וְהָיְתָ֥ה לְךָ֖ לְאִשָּֽׁה׃"
+pericope: "[[Deut.21.10 Marrying a Captive Woman|Marrying a Captive Woman]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 21
+book/chapter: "[[Deut.21|Deuteronomy 21]]"
+chronological_order: 217
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CONCUBINAGE|CONCUBINAGE]]"
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H5493G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8071]]"
+- "[[H7628A]]"
+- "[[H9024]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H9021]]"
+- "[[H1058]]"
+- "[[H0001G]]"
+- "[[H9002]]"
+- "[[H0517]]"
+- "[[H3391]]"
+- "[[H3117G]]"
+- "[[H0310A]]"
+- "[[H3651C]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H1167H]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0802H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 21:13**<big><big>[[Deut.21.10 Marrying a Captive Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she shall put the raiment of her captivity from off her, and shall remain in thine house, and bewail her father and her mother a full month: and after that thou shalt go in unto her, and be her husband, and she shall be thy wife.
 <small><sub>**BSB:**</sub></small>
 and put aside the clothing of her captivity. After she has lived in your house a full month and mourned her father and mother, you may have relations with her and be her husband, and she shall be your wife.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5493G\|הֵסִ֩ירָה֩]] [[H0853\|אֶת]][[H9014\|־]] [[H8071\|שִׂמְלַ֨ת]] [[H7628A\|שִׁבְיָ֜]][[H9024\|הּ]] [[H9006\|מֵ]][[H5921A\|עָלֶ֗י]][[H9034\|הָ]] [[H9001\|וְ]][[H3427\|יָֽשְׁבָה֙]] [[H9003\|בְּ]][[H1004B\|בֵיתֶ֔]][[H9021\|ךָ]] [[H9001\|וּ]][[H1058\|בָֽכְתָ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אָבִ֥י]][[H9024\|הָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0517\|אִמָּ֖]][[H9024\|הּ]] [[H3391\|יֶ֣רַח]] [[H3117G\|יָמִ֑ים]] [[H9002\|וְ]][[H0310A\|אַ֨חַר]] [[H3651C\|כֵּ֜ן]] [[H0935G\|תָּב֤וֹא]] [[H0413\|אֵלֶ֙י]][[H9034\|הָ֙]] [[H9001\|וּ]][[H1167H\|בְעַלְתָּ֔]][[H9034\|הּ]] [[H9001\|וְ]][[H1961\|הָיְתָ֥ה]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H9005\|לְ]][[H0802H\|אִשָּֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONCUBINAGE|CONCUBINAGE]] • [[topic DIVORCE|DIVORCE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.21.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.12|<< Deuteronomy 21:12]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.14|Deuteronomy 21:14 >>]]</td></tr></table>
 

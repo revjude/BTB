@@ -1,8 +1,76 @@
+---
+title: 2 Chronicles 34:8
+type: Verse
+kjv: "Now in the eighteenth year of his reign, when he had purged the land, and the house, he sent Shaphan the son of Azaliah, and Maaseiah the governor of the city, and Joah the son of Joahaz the recorder, to repair the house of the LORD his God."
+bsb: "Now in the eighteenth year of his reign, in order to cleanse the land and the temple, Josiah sent Shaphan son of Azaliah, Maaseiah the governor of the city, and Joah son of Joahaz, the recorder, to repair the house of the LORD his God."
+hebrew: "וּבִשְׁנַ֨ת שְׁמוֹנֶ֤ה עֶשְׂרֵה֙ לְמָלְכ֔וֹ לְטַהֵ֥ר הָאָ֖רֶץ וְהַבָּ֑יִת שָׁ֠לַח אֶת־ שָׁפָ֨ן בֶּן־ אֲצַלְיָ֜הוּ וְאֶת־ מַעֲשֵׂיָ֣הוּ שַׂר־ הָעִ֗יר וְ֠אֵת יוֹאָ֤ח בֶּן־ יֽוֹאָחָז֙ הַמַּזְכִּ֔יר לְחַזֵּ֕ק אֶת־ בֵּ֖ית יְהוָ֥ה אֱלֹהָֽיו׃"
+pericope: "[[2Chr.34.8 Josiah Repairs the Temple|Josiah Repairs the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 34
+book/chapter: "[[2Chr.34|2 Chronicles 34]]"
+chronological_order: 713
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AZALIAH|AZALIAH]]"
+- "[[topic JOAH|JOAH]]"
+- "[[topic JOAHAZ|JOAHAZ]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MAASEIAH|MAASEIAH]]"
+- "[[topic SHAPHAN|SHAPHAN]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H8083]]"
+- "[[H6240]]"
+- "[[H9005]]"
+- "[[H4427A]]"
+- "[[H9033]]"
+- "[[H2891]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H1004B]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8227B]]"
+- "[[H1121A]]"
+- "[[H0683]]"
+- "[[H4641K]]"
+- "[[H8269]]"
+- "[[H5892B]]"
+- "[[H3098J]]"
+- "[[H3099G]]"
+- "[[H2142]]"
+- "[[H2388G]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 34:8**<big><big>[[2Chr.34.8 Josiah Repairs the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now in the eighteenth year of his reign, when he had purged the land, and the house, he sent Shaphan the son of Azaliah, and Maaseiah the governor of the city, and Joah the son of Joahaz the recorder, to repair the house of the LORD his God.
 <small><sub>**BSB:**</sub></small>
 Now in the eighteenth year of his reign, in order to cleanse the land and the temple, Josiah sent Shaphan son of Azaliah, Maaseiah the governor of the city, and Joah son of Joahaz, the recorder, to repair the house of the LORD his God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בִ]][[H8141\|שְׁנַ֨ת]] [[H8083\|שְׁמוֹנֶ֤ה]] [[H6240\|עֶשְׂרֵה֙]] [[H9005\|לְ]][[H4427A\|מָלְכ֔]][[H9033\|וֹ]] [[H9005\|לְ]][[H2891\|טַהֵ֥ר]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9002\|וְ]][[H9009\|הַ]][[H1004B\|בָּ֑יִת]] [[H7971G\|שָׁ֠לַח]] [[H0853\|אֶת]][[H9014\|־]] [[H8227B\|שָׁפָ֨ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0683\|אֲצַלְיָ֜הוּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4641K\|מַעֲשֵׂיָ֣הוּ]] [[H8269\|שַׂר]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֗יר]] [[H9002\|וְ֠]][[H0853\|אֵת]] [[H3098J\|יוֹאָ֤ח]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3099G\|יֽוֹאָחָז֙]] [[H9009\|הַ]][[H2142\|מַּזְכִּ֔יר]] [[H9005\|לְ]][[H2388G\|חַזֵּ֕ק]] [[H0853\|אֶת]][[H9014\|־]] [[H1004Q\|בֵּ֖ית]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AZALIAH|AZALIAH]] • [[topic JOAH|JOAH]] • [[topic JOAHAZ|JOAHAZ]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MAASEIAH|MAASEIAH]] • [[topic SHAPHAN|SHAPHAN]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.7|<< 2 Chronicles 34:7]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.9|2 Chronicles 34:9 >>]]</td></tr></table>
 

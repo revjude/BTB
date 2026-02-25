@@ -1,8 +1,71 @@
+---
+title: 2 Kings 10:18
+type: Verse
+kjv: "And Jehu gathered all the people together, and said unto them, Ahab served Baal a little; but Jehu shall serve him much."
+bsb: "Then Jehu brought all the people together and said, “Ahab served Baal a little, but Jehu will serve him a lot."
+hebrew: "וַיִּקְבֹּ֤ץ יֵהוּא֙ אֶת־ כָּל־ הָעָ֔ם וַיֹּ֣אמֶר אֲלֵהֶ֔ם אַחְאָ֕ב עָבַ֥ד אֶת־ הַבַּ֖עַל מְעָ֑ט יֵה֖וּא יַעַבְדֶ֥נּוּ הַרְבֵּֽה׃"
+pericope: "[[2Kgs.10.18 Jehu Kills the Priests of Baal|Jehu Kills the Priests of Baal]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 10
+book/chapter: "[[2Kgs.10|2 Kings 10]]"
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BAAL|BAAL]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INCONSISTENCY|INCONSISTENCY]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic JONADAB|JONADAB]]"
+- "[[topic MASSACRE|MASSACRE]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic TREACHERY|TREACHERY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6908]]"
+- "[[H3058H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H0256G]]"
+- "[[H5647H]]"
+- "[[H1168A]]"
+- "[[H4592]]"
+- "[[H9033]]"
+- "[[H7235A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 10:18**<big><big>[[2Kgs.10.18 Jehu Kills the Priests of Baal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehu gathered all the people together, and said unto them, Ahab served Baal a little; [but] Jehu shall serve him much.
 <small><sub>**BSB:**</sub></small>
 Then Jehu brought all the people together and said, “Ahab served Baal a little, but Jehu will serve him a lot.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6908\|יִּקְבֹּ֤ץ]] [[H3058H\|יֵהוּא֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֔ם]] [[H0256G\|אַחְאָ֕ב]] [[H5647H\|עָבַ֥ד]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1168A\|בַּ֖עַל]] [[H4592\|מְעָ֑ט]] [[H3058H\|יֵה֖וּא]] [[H5647H\|יַעַבְדֶ֥]][[H9033\|נּוּ]] [[H7235A\|הַרְבֵּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL|BAAL]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic ENTHUSIASM|ENTHUSIASM]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic INCONSISTENCY|INCONSISTENCY]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic JEHU|JEHU]] • [[topic JONADAB|JONADAB]] • [[topic MASSACRE|MASSACRE]] • [[topic RELIGION|RELIGION]] • [[topic SAMARIA|SAMARIA]] • [[topic TREACHERY|TREACHERY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.17|<< 2 Kings 10:17]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.19|2 Kings 10:19 >>]]</td></tr></table>
 

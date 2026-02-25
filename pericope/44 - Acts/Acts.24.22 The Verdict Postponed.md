@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Verdict Postponed
+type: Pericope
 pericope: "[[Acts.24.22 The Verdict Postponed|The Verdict Postponed]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Acts
 chapter: 24
 book/chapter: "[[Acts.24|Acts 24]]"
-genre:
+chronological_order: 1106
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 6
 verses:
 - "[[Acts.24.22]]"
 - "[[Acts.24.23]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Acts.24.27]]"
 ---
 
-[[Acts.24|Acts 24:22 - Acts 24:27]]
+<small>[[Acts.24|Acts 24:22-27]]</small>
 *The Verdict Postponed*
 
 [[Acts.24.22|22]] And when Felix heard these things, having more perfect knowledge of \[that\] way, he deferred them, and said, When Lysias the chief captain shall come down, I will know the uttermost of your matter.

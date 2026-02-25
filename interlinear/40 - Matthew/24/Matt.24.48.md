@@ -1,10 +1,65 @@
+---
+title: Matthew 24:48
+type: Verse
+kjv: "But and if that evil servant shall say in his heart, My lord delayeth his coming;"
+bsb: "But suppose that servant is wicked and says in his heart, ‘My master will be away a long time.’"
+jesus_said: "But and if that evil servant shall say in his heart, My lord delayeth his coming;"
+greek: "Ἐὰν δὲ εἴπῃ ὁ κακὸς δοῦλος ἐκεῖνος ἐν τῇ καρδίᾳ αὐτοῦ· χρονίζει μου ὁ κύριος ἐλθεῖν,"
+pericope: "[[Matt.24.36 Readiness at Any Hour|Readiness at Any Hour]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 24
+book/chapter: "[[Matt.24|Matthew 24]]"
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OVERSEER|OVERSEER]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G2556G]]"
+- "[[G1401]]"
+- "[[G1565]]"
+- "[[G1722]]"
+- "[[G2588]]"
+- "[[G0846]]"
+- "[[G5549]]"
+- "[[G3165]]"
+- "[[G2962H]]"
+- "[[G2064]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 24:48**<big><big>[[Matt.24.36 Readiness at Any Hour|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But and if that evil servant shall say in his heart, My lord delayeth his coming;
 <small><sub>**BSB:**</sub></small>
 But suppose that servant is wicked and says in his heart, ‘My master will be away a long time.’
-<small><sub>**Literal:**</sub></small>
-If however shall say the evil servant that one in the heart of him; Delays My <the> master to come<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.47|<< Matthew 24:47]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.49|Matthew 24:49 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|Ἐὰν]]  [[G1161\|δὲ]]  [[G2036\|εἴπῃ]]  [[G3588\|ὁ]]  [[G2556G\|κακὸς]]  [[G1401\|δοῦλος]]  [[G1565\|ἐκεῖνος]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2588\|καρδίᾳ]]  [[G0846\|αὐτοῦ·]]  [[G5549\|χρονίζει]]  [[G3165\|μου]]  [[G3588\|ὁ]]  [[G2962H\|κύριος]]  [[G2064\|ἐλθεῖν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GOD|GOD]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OVERSEER|OVERSEER]] • [[topic PROCRASTINATION|PROCRASTINATION]] • [[topic SELF-DELUSION|SELF-DELUSION]] • [[topic SERVANT|SERVANT]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.47|<< Matthew 24:47]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.49|Matthew 24:49 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

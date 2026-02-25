@@ -1,10 +1,64 @@
+---
+title: Acts 4:34
+type: Verse
+kjv: "Neither was there any among them that lacked: for as many as were possessors of lands or houses sold them, and brought the prices of the things that were sold,"
+bsb: "There were no needy ones among them, because those who owned lands or houses would sell their property, bring the proceeds from the sales,"
+greek: "οὐδὲ γὰρ ἐνδεής τις ἦν ἐν αὐτοῖς· ὅσοι γὰρ κτήτορες χωρίων ἢ οἰκιῶν ὑπῆρχον πωλοῦντες ἔφερον τὰς τιμὰς τῶν πιπρασκομένων"
+pericope: "[[Acts.4.32 Sharing among Believers|Sharing among Believers]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic COMMUNISM|COMMUNISM]]"
+- "[[topic LAND|LAND]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[G3761]]"
+- "[[G1063]]"
+- "[[G1729]]"
+- "[[G5100]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G3745]]"
+- "[[G2935]]"
+- "[[G5564G]]"
+- "[[G2228]]"
+- "[[G3614G]]"
+- "[[G5225]]"
+- "[[G4453]]"
+- "[[G5342]]"
+- "[[G3588]]"
+- "[[G5092]]"
+- "[[G4097]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 4:34**<big><big>[[Acts.4.32 Sharing among Believers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Neither was there any among them that lacked: for as many as were possessors of lands or houses sold them, and brought the prices of the things that were sold,
 <small><sub>**BSB:**</sub></small>
 There were no needy ones among them, because those who owned lands or houses would sell their property, bring the proceeds from the sales,
-<small><sub>**Literal:**</sub></small>
-Not even for in need anyone there was among them; as many as for [were] owners of lands or houses were selling [them] they were bringing the proceeds of what is sold<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.33|<< Acts 4:33]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.35|Acts 4:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3761\|οὐδὲ]]  [[G1063\|γὰρ]]  [[G1729\|ἐνδεής]]  [[G5100\|τις]]  [[G1510\|ἦν]]  [[G1722\|ἐν]]  [[G0846\|αὐτοῖς·]]  [[G3745\|ὅσοι]]  [[G1063\|γὰρ]]  [[G2935\|κτήτορες]]  [[G5564G\|χωρίων]]  [[G2228\|ἢ]]  [[G3614G\|οἰκιῶν]]  [[G5225\|ὑπῆρχον]]  [[G4453\|πωλοῦντες]]  [[G5342\|ἔφερον]]  [[G3588\|τὰς]]  [[G5092\|τιμὰς]]  [[G3588\|τῶν]]  [[G4097\|πιπρασκομένων]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic COMMUNISM|COMMUNISM]] • [[topic LAND|LAND]] • [[topic LIBERALITY|LIBERALITY]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.33|<< Acts 4:33]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.35|Acts 4:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

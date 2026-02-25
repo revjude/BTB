@@ -1,8 +1,62 @@
+---
+title: Isaiah 63:17
+type: Verse
+kjv: "O LORD, why hast thou made us to err from thy ways, and hardened our heart from thy fear? Return for thy servants’ sake, the tribes of thine inheritance."
+bsb: "Why, O LORD, do You make us stray from Your ways and harden our hearts from fearing You? Return, for the sake of Your servants, the tribes of Your heritage."
+hebrew: "לָ֣מָּה תַתְעֵ֤נוּ יְהוָה֙ מִדְּרָכֶ֔יךָ תַּקְשִׁ֥יחַ לִבֵּ֖נוּ מִיִּרְאָתֶ֑ךָ שׁ֚וּב לְמַ֣עַן עֲבָדֶ֔יךָ שִׁבְטֵ֖י נַחֲלָתֶֽךָ׃"
+pericope: "[[Isa.63.15 A Prayer for Mercy|A Prayer for Mercy]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 63
+book/chapter: "[[Isa.63|Isaiah 63]]"
+chronological_order: 702
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H8582]]"
+- "[[H9035]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H1870G]]"
+- "[[H9021]]"
+- "[[H7188]]"
+- "[[H3820A]]"
+- "[[H9025]]"
+- "[[H3374]]"
+- "[[H7725G]]"
+- "[[H4616]]"
+- "[[H5650]]"
+- "[[H7626H]]"
+- "[[H5159]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 63:17**<big><big>[[Isa.63.15 A Prayer for Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, why hast thou made us to err from thy ways, [and] hardened our heart from thy fear? Return for thy servants’ sake, the tribes of thine inheritance.
 <small><sub>**BSB:**</sub></small>
 Why, O LORD, do You make us stray from Your ways and harden our hearts from fearing You? Return, for the sake of Your servants, the tribes of Your heritage.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ֣]][[H4100\|מָּה]] [[H8582\|תַתְעֵ֤]][[H9035\|נוּ]] [[H3068G\|יְהוָה֙]] [[H9006\|מִ]][[H1870G\|דְּרָכֶ֔י]][[H9021\|ךָ]] [[H7188\|תַּקְשִׁ֥יחַ]] [[H3820A\|לִבֵּ֖]][[H9025\|נוּ]] [[H9006\|מִ]][[H3374\|יִּרְאָתֶ֑]][[H9021\|ךָ]] [[H7725G\|שׁ֚וּב]] [[H4616\|לְמַ֣עַן]] [[H5650\|עֲבָדֶ֔י]][[H9021\|ךָ]] [[H7626H\|שִׁבְטֵ֖י]] [[H5159\|נַחֲלָתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.63.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.16|<< Isaiah 63:16]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.18|Isaiah 63:18 >>]]</td></tr></table>
 

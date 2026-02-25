@@ -1,10 +1,69 @@
+---
+title: 1 Corinthians 2:9
+type: Verse
+kjv: "But as it is written, Eye hath not seen, nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love him."
+bsb: "Rather, as it is written: “No eye has seen, no ear has heard, no heart has imagined, what God has prepared for those who love Him.”"
+greek: "ἀλλὰ καθὼς γέγραπται· ἃ ὀφθαλμὸς οὐκ εἶδεν καὶ οὖς οὐκ ἤκουσεν καὶ ἐπὶ καρδίαν ἀνθρώπου οὐκ ἀνέβη, ἃ ἡτοίμασεν ὁ θεὸς τοῖς ἀγαπῶσιν αὐτόν.¶"
+pericope: "[[1Cor.2.6 Spiritual Wisdom|Spiritual Wisdom]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 2
+book/chapter: "[[1Cor.2|1 Corinthians 2]]"
+chronological_order: 1059
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REASONING|REASONING]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G0235]]"
+- "[[G2531]]"
+- "[[G1125]]"
+- "[[G3739]]"
+- "[[G3788]]"
+- "[[G3756]]"
+- "[[G1492H]]"
+- "[[G2532]]"
+- "[[G3775]]"
+- "[[G0191]]"
+- "[[G1909]]"
+- "[[G2588]]"
+- "[[G0444]]"
+- "[[G0305]]"
+- "[[G2090]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G0025]]"
+- "[[G0846]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **1 Corinthians 2:9**<big><big>[[1Cor.2.6 Spiritual Wisdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But as it is written, Eye hath not seen, nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love him.
 <small><sub>**BSB:**</sub></small>
 Rather, as it is written: “No eye has seen, no ear has heard, no heart has imagined, what God has prepared for those who love Him.”
-<small><sub>**Literal:**</sub></small>
-but even as it has been written: What eye not has seen and ear not has heard and into heart of man not has entered, what has prepared <the> God for those loving Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.8|<< 1 Corinthians 2:8]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.10|1 Corinthians 2:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλὰ]]  [[G2531\|καθὼς]]  [[G1125\|γέγραπται·]]  [[G3739\|ἃ]]  [[G3788\|ὀφθαλμὸς]]  [[G3756\|οὐκ]]  [[G1492H\|εἶδεν]]  [[G2532\|καὶ]]  [[G3775\|οὖς]]  [[G3756\|οὐκ]]  [[G0191\|ἤκουσεν]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G2588\|καρδίαν]]  [[G0444\|ἀνθρώπου]]  [[G3756\|οὐκ]]  [[G0305\|ἀνέβη,]]  [[G3739\|ἃ]]  [[G2090\|ἡτοίμασεν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τοῖς]]  [[G0025\|ἀγαπῶσιν]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic IGNORANCE|IGNORANCE]] • [[topic MYSTERIES|MYSTERIES]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REASONING|REASONING]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.8|<< 1 Corinthians 2:8]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.10|1 Corinthians 2:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Corinthians 2:9** is...
 > $\quad$ referencing: [[LXX.Isa.52.15|Isa 52:15]]

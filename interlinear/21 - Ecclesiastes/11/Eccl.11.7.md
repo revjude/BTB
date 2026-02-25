@@ -1,8 +1,52 @@
+---
+title: Ecclesiastes 11:7
+type: Verse
+kjv: "Truly the light is sweet, and a pleasant thing it is for the eyes to behold the sun:"
+bsb: "Light is sweet, and it pleases the eyes to see the sun."
+hebrew: "וּמָת֖וֹק הָא֑וֹר וְט֥וֹב לַֽעֵינַ֖יִם לִרְא֥וֹת אֶת־ הַשָּֽׁמֶשׁ׃"
+pericope: "[[Eccl.11.7 Enjoy Your Years|Enjoy Your Years]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 11
+book/chapter: "[[Eccl.11|Ecclesiastes 11]]"
+chronological_order: 549
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic DEATH|DEATH]]"
+strongs:
+- "[[H9002]]"
+- "[[H4966]]"
+- "[[H9009]]"
+- "[[H0216]]"
+- "[[H2896A]]"
+- "[[H9005]]"
+- "[[H5869A]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8121]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 11:7**<big><big>[[Eccl.11.7 Enjoy Your Years|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Truly the light [is] sweet, and a pleasant [thing it is] for the eyes to behold the sun:
 <small><sub>**BSB:**</sub></small>
 Light is sweet, and it pleases the eyes to see the sun.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4966\|מָת֖וֹק]] [[H9009\|הָ]][[H0216\|א֑וֹר]] [[H9002\|וְ]][[H2896A\|ט֥וֹב]] [[H9005\|לַֽ]][[H5869A\|עֵינַ֖יִם]] [[H9005\|לִ]][[H7200G\|רְא֥וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8121\|שָּֽׁמֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.11.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.11.6|<< Ecclesiastes 11:6]]</td><td align="center" style="border:none;">[[Eccl.11|Ecclesiastes 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.11.8|Ecclesiastes 11:8 >>]]</td></tr></table>
 

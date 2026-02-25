@@ -1,10 +1,63 @@
+---
+title: Revelation 10:2
+type: Verse
+kjv: "And he had in his hand a little book open: and he set his right foot upon the sea, and his left foot on the earth,"
+bsb: "He held in his hand a small scroll, which lay open. He placed his right foot on the sea and his left foot on the land."
+greek: "καὶ ἔχων ἐν τῇ χειρὶ αὐτοῦ βιβλαρίδιον ἠνεῳγμένον καὶ ἔθηκεν τὸν πόδα αὐτοῦ τὸν δεξιὸν ἐπὶ τῆς θαλάσσης, τὸν δὲ εὐώνυμον ἐπὶ τῆς γῆς,"
+pericope: "[[Rev.10.1 The Angel and the Small Scroll|The Angel and the Small Scroll]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 10
+book/chapter: "[[Rev.10|Revelation 10]]"
+chronological_order: 1177
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic SEA|SEA]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2192]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G0846]]"
+- "[[G0974]]"
+- "[[G0455]]"
+- "[[G5087]]"
+- "[[G4228]]"
+- "[[G1188]]"
+- "[[G1909]]"
+- "[[G2281]]"
+- "[[G1161]]"
+- "[[G2176]]"
+- "[[G1093H]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+---
+
 **Revelation 10:2**<big><big>[[Rev.10.1 The Angel and the Small Scroll|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he had in his hand a little book open: and he set his right foot upon the sea, and [his] left [foot] on the earth,
 <small><sub>**BSB:**</sub></small>
 He held in his hand a small scroll, which lay open. He placed his right foot on the sea and his left foot on the land.
-<small><sub>**Literal:**</sub></small>
-and having in the hand of him a little scroll opened And he placed the foot of him <the> right upon the sea, the and left upon the earth,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.10.1|<< Revelation 10:1]]</td><td align="center" style="border:none;">[[Rev.10|Revelation 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.10.3|Revelation 10:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2192\|ἔχων]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G5495\|χειρὶ]]  [[G0846\|αὐτοῦ]]  [[G0974\|βιβλαρίδιον]]  [[G0455\|ἠνεῳγμένον]]  [[G2532\|καὶ]]  [[G5087\|ἔθηκεν]]  [[G3588\|τὸν]]  [[G4228\|πόδα]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὸν]]  [[G1188\|δεξιὸν]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G2281\|θαλάσσης,]]  [[G3588\|τὸν]]  [[G1161\|δὲ]]  [[G2176\|εὐώνυμον]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093H\|γῆς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ASTRONOMY|ASTRONOMY]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic SEA|SEA]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.10.1|<< Revelation 10:1]]</td><td align="center" style="border:none;">[[Rev.10|Revelation 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.10.3|Revelation 10:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 10:2** is...
 > $\quad$ alluding to: [[LXX.Ezek.2.9|Ezek 2:9]]

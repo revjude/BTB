@@ -1,8 +1,67 @@
+---
+title: Jeremiah 43:1
+type: Verse
+kjv: "And it came to pass, that when Jeremiah had made an end of speaking unto all the people all the words of the LORD their God, for which the LORD their God had sent him to them, even all these words,"
+bsb: "When Jeremiah had finished telling all the people all the words of the LORD their God—everything that the LORD had sent him to say—"
+hebrew: "וַיְהִי֩ כְּכַלּ֨וֹת יִרְמְיָ֜הוּ לְדַבֵּ֣ר אֶל־ כָּל־ הָעָ֗ם אֶת־ כָּל־ דִּבְרֵי֙ יְהוָ֣ה אֱלֹהֵיהֶ֔ם אֲשֶׁ֧ר שְׁלָח֛וֹ יְהוָ֥ה אֱלֹהֵיהֶ֖ם אֲלֵיהֶ֑ם אֵ֥ת כָּל־ הַדְּבָרִ֖ים הָאֵֽלֶּה׃ ס"
+pericope: "[[Jer.43.1 Jeremiah Taken to Egypt|Jeremiah Taken to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 43
+book/chapter: "[[Jer.43|Jeremiah 43]]"
+chronological_order: 766
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic JOHANAN|JOHANAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H3615G]]"
+- "[[H3414L]]"
+- "[[H9005]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9028]]"
+- "[[H0834A]]"
+- "[[H7971G]]"
+- "[[H9033]]"
+- "[[H9038]]"
+- "[[H0428]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 43:1**<big><big>[[Jer.43.1 Jeremiah Taken to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, [that] when Jeremiah had made an end of speaking unto all the people all the words of the LORD their God, for which the LORD their God had sent him to them, [even] all these words,
 <small><sub>**BSB:**</sub></small>
 When Jeremiah had finished telling all the people all the words of the LORD their God—everything that the LORD had sent him to say—
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֩]] [[H9004\|כְּ]][[H3615G\|כַלּ֨וֹת]] [[H3414L\|יִרְמְיָ֜הוּ]] [[H9005\|לְ]][[H1696G\|דַבֵּ֣ר]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֗ם]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1697G\|דִּבְרֵי֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵי]][[H9028\|הֶ֔ם]] [[H0834A\|אֲשֶׁ֧ר]] [[H7971G\|שְׁלָח֛]][[H9033\|וֹ]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9028\|הֶ֖ם]] [[H0413\|אֲלֵי]][[H9038\|הֶ֑ם]] [[H0853\|אֵ֥ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֖ים]] [[H9009\|הָ]][[H0428\|אֵֽלֶּה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEREMIAH|JEREMIAH]] • [[topic JOHANAN|JOHANAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.43.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.22|<< Jeremiah 42:22]]</td><td align="center" style="border:none;">[[Jer.43|Jeremiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.43.2|Jeremiah 43:2 >>]]</td></tr></table>
 
@@ -28,7 +87,7 @@ When Jeremiah had finished telling all the people all the words of the LORD thei
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֥ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the words  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697G\|דְּבָרִ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> de.va.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> these  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0428\|אֵֽלֶּה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> these  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0428\|אֵֽלֶּה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.22|<< Jeremiah 42:22]]</td><td align="center" style="border:none;">[[Jer.43|Jeremiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.43.2|Jeremiah 43:2 >>]]</td></tr></table>
 
 

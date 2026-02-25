@@ -1,8 +1,61 @@
+---
+title: Jeremiah 33:8
+type: Verse
+kjv: "And I will cleanse them from all their iniquity, whereby they have sinned against me; and I will pardon all their iniquities, whereby they have sinned, and whereby they have transgressed against me."
+bsb: "And I will cleanse them from all the iniquity they have committed against Me, and will forgive all their sins of rebellion against Me."
+hebrew: "וְטִ֣הַרְתִּ֔ים מִכָּל־ עֲוֹנָ֖ם אֲשֶׁ֣ר חָֽטְאוּ־ לִ֑י וְסָלַחְתִּ֗י לְכָל עֲוֹנֽוֹתֵיהֶם֙ אֲשֶׁ֣ר חָֽטְאוּ־ לִ֔י וַאֲשֶׁ֖ר פָּ֥שְׁעוּ בִֽי׃"
+pericope: "[[Jer.33.1 The Excellence of the Restored Nation|The Excellence of the Restored Nation]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 33
+book/chapter: "[[Jer.33|Jeremiah 33]]"
+chronological_order: 756
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H2891]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5771H]]"
+- "[[H9028]]"
+- "[[H0834A]]"
+- "[[H2398]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H5545]]"
+- "[[H9002]]"
+- "[[H6586]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 33:8**<big><big>[[Jer.33.1 The Excellence of the Restored Nation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will cleanse them from all their iniquity, whereby they have sinned against me; and I will pardon all their iniquities, whereby they have sinned, and whereby they have transgressed against me.
 <small><sub>**BSB:**</sub></small>
 And I will cleanse them from all the iniquity they have committed against Me, and will forgive all their sins of rebellion against Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2891\|טִ֣הַרְתִּ֔י]][[H9038\|ם]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H5771H\|עֲוֹנָ֖]][[H9028\|ם]] [[H0834A\|אֲשֶׁ֣ר]] [[H2398\|חָֽטְאוּ]][[H9014\|־]] [[H9005\|לִ֑]][[H9030\|י]] [[H9001\|וְ]][[H5545\|סָלַחְתִּ֗י]] [[H9005\|לְ]][[H3605\|כָל]] [[H5771H\|עֲוֹנֽוֹתֵי]][[H9028\|הֶם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H2398\|חָֽטְאוּ]][[H9014\|־]] [[H9005\|לִ֔]][[H9030\|י]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֖ר]] [[H6586\|פָּ֥שְׁעוּ]] [[H9003\|בִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.33.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.7|<< Jeremiah 33:7]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.9|Jeremiah 33:9 >>]]</td></tr></table>
 
@@ -25,7 +78,7 @@ And I will cleanse them from all the iniquity they have committed against Me, an
 | against \<the> me  |**<big>&#8207;[[H9003\|בִֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| V<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.7|<< Jeremiah 33:7]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.9|Jeremiah 33:9 >>]]</td></tr></table>
 
-[^1]: \<to> all  | **<big>[[H3605|כוֹל]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> khol-<small><sup>[[HNcbsc]]</sup></small> | K
-[^2]: \<to> all  | **<big>[[H3605|כוֹל]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> khol-<small><sup>[[HNcbsc]]</sup></small> | K
+[^1]: \<to> all  | **<big>[[H9005|לְ]]</big><big>[[H3605|כוֹל]]</big> ** | le.<small><sup>[[HR]]</sup></small> khol-<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: \<to> all  | **<big>[[H9005|לְ]]</big><big>[[H3605|כוֹל]]</big> ** | le.<small><sup>[[HR]]</sup></small> khol-<small><sup>[[HNcbsc]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>לְכָול\־</big></span>**
 

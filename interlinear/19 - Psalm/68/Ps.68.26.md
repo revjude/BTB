@@ -1,8 +1,53 @@
+---
+title: Psalm 68:26
+type: Verse
+kjv: "Bless ye God in the congregations, even the Lord, from the fountain of Israel."
+bsb: "Bless God in the great congregation; bless the LORD from the fountain of Israel."
+hebrew: "בְּֽ֭מַקְהֵלוֹת בָּרְכ֣וּ אֱלֹהִ֑ים יְ֝הוָ֗ה מִמְּק֥וֹר יִשְׂרָאֵֽל׃"
+pericope: "[[Ps.68.1 God’s Enemies Are Scattered|God’s Enemies Are Scattered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 68
+book/chapter: "[[Ps.68|Psalm 68]]"
+chronological_order: 376
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H9003]]"
+- "[[H4721]]"
+- "[[H1288]]"
+- "[[H0430G]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H4726]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 68:26**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bless ye God in the congregations, [even] the Lord, from the fountain of Israel.
 <small><sub>**BSB:**</sub></small>
 Bless God in the great congregation; bless the LORD from the fountain of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּֽ֭]][[H4721\|מַקְהֵלוֹת]] [[H1288\|בָּרְכ֣וּ]] [[H0430G\|אֱלֹהִ֑ים]] [[H3068G\|יְ֝הוָ֗ה]] [[H9006\|מִ]][[H4726\|מְּק֥וֹר]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.25|<< Psalms 68:25]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.27|Psalms 68:27 >>]]</td></tr></table>
 

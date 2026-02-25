@@ -1,10 +1,65 @@
+---
+title: 2 Corinthians 3:3
+type: Verse
+kjv: "Forasmuch as ye are manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart."
+bsb: "It is clear that you are a letter from Christ, the result of our ministry, written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts."
+greek: "φανερούμενοι ὅτι ἐστὲ ἐπιστολὴ Χριστοῦ διακονηθεῖσα ὑφ᾽ ἡμῶν ἐγγεγραμμένη οὐ μέλανι ἀλλὰ πνεύματι θεοῦ ζῶντος, οὐκ ἐν πλαξὶν λιθίναις ἀλλ᾽ ἐν πλαξὶν καρδίαις σαρκίναις.¶"
+pericope: "[[2Cor.3.1 Ministers of a New Covenant|Ministers of a New Covenant]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 3
+book/chapter: "[[2Cor.3|2 Corinthians 3]]"
+chronological_order: 1076
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic INK|INK]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic TABLE|TABLE]]"
+strongs:
+- "[[G5319]]"
+- "[[G3754G]]"
+- "[[G1510]]"
+- "[[G1992]]"
+- "[[G5547]]"
+- "[[G1247]]"
+- "[[G5259G]]"
+- "[[G3165]]"
+- "[[G1449]]"
+- "[[G3756]]"
+- "[[G3188]]"
+- "[[G0235]]"
+- "[[G4151G]]"
+- "[[G2316]]"
+- "[[G2198]]"
+- "[[G1722]]"
+- "[[G4109]]"
+- "[[G3035]]"
+- "[[G2588]]"
+- "[[G4560]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **2 Corinthians 3:3**<big><big>[[2Cor.3.1 Ministers of a New Covenant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [Forasmuch as ye are] manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart.
 <small><sub>**BSB:**</sub></small>
 It is clear that you are a letter from Christ, the result of our ministry, written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts.
-<small><sub>**Literal:**</sub></small>
-being revealed that you are a letter of Christ having been ministered to by us inscribed not in ink but with [the] Spirit of God [the] living, not on tablets of stone but on tablets of hearts human.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.2|<< 2 Corinthians 3:2]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.4|2 Corinthians 3:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5319\|φανερούμενοι]]  [[G3754G\|ὅτι]]  [[G1510\|ἐστὲ]]  [[G1992\|ἐπιστολὴ]]  [[G5547\|Χριστοῦ]]  [[G1247\|διακονηθεῖσα]]  [[G5259G\|ὑφ᾽]]  [[G3165\|ἡμῶν]]  [[G1449\|ἐγγεγραμμένη]]  [[G3756\|οὐ]]  [[G3188\|μέλανι]]  [[G0235\|ἀλλὰ]]  [[G4151G\|πνεύματι]]  [[G2316\|θεοῦ]]  [[G2198\|ζῶντος,]]  [[G3756\|οὐκ]]  [[G1722\|ἐν]]  [[G4109\|πλαξὶν]]  [[G3035\|λιθίναις]]  [[G0235\|ἀλλ᾽]]  [[G1722\|ἐν]]  [[G4109\|πλαξὶν]]  [[G2588\|καρδίαις]]  [[G4560\|σαρκίναις.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic INK|INK]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic REGENERATION|REGENERATION]] • [[topic TABLE|TABLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.2|<< 2 Corinthians 3:2]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.4|2 Corinthians 3:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,55 @@
+---
+title: Psalm 104:33
+type: Verse
+kjv: "I will sing unto the LORD as long as I live: I will sing praise to my God while I have my being."
+bsb: "I will sing to the LORD all my life; I will sing praise to my God while I have my being."
+hebrew: "אָשִׁ֣ירָה לַיהוָ֣ה בְּחַיָּ֑י אֲזַמְּרָ֖ה לֵאלֹהַ֣י בְּעוֹדִֽי׃"
+pericope: "[[Ps.104.1 How Many Are Your Works, O LORD!|How Many Are Your Works, O LORD!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 104
+book/chapter: "[[Ps.104|Psalm 104]]"
+chronological_order: 528
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H7891]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H2416E]]"
+- "[[H9020]]"
+- "[[H2167]]"
+- "[[H0430G]]"
+- "[[H5750]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 104:33**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will sing unto the LORD as long as I live: I will sing praise to my God while I have my being.
 <small><sub>**BSB:**</sub></small>
 I will sing to the LORD all my life; I will sing praise to my God while I have my being.
+<small><sub>**Hebrew:**</sub></small>
+[[H7891\|אָשִׁ֣ירָה]] [[H9005\|לַ]][[H3068G\|יהוָ֣ה]] [[H9003\|בְּ]][[H2416E\|חַיָּ֑]][[H9020\|י]] [[H2167\|אֲזַמְּרָ֖ה]] [[H9005\|לֵ]][[H0430G\|אלֹהַ֣]][[H9020\|י]] [[H9003\|בְּ]][[H5750\|עוֹדִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.32|<< Psalms 104:32]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.34|Psalms 104:34 >>]]</td></tr></table>
 

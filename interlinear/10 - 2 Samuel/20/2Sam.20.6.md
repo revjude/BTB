@@ -1,8 +1,75 @@
+---
+title: 2 Samuel 20:6
+type: Verse
+kjv: "And David said to Abishai, Now shall Sheba the son of Bichri do us more harm than did Absalom: take thou thy lord’s servants, and pursue after him, lest he get him fenced cities, and escape us."
+bsb: "And David said to Abishai, “Now Sheba the son of Bichri will do us more harm than Absalom. Take your lord’s servants and pursue him, or he will find fortified cities and elude us.”"
+hebrew: "וַיֹּ֤אמֶר דָּוִד֙ אֶל־ אֲבִישַׁ֔י עַתָּ֗ה יֵ֧רַֽע לָ֛נוּ שֶׁ֥בַע בֶּן־ בִּכְרִ֖י מִן־ אַבְשָׁל֑וֹם אַ֠תָּה קַ֞ח אֶת־ עַבְדֵ֤י אֲדֹנֶ֙יךָ֙ וּרְדֹ֣ף אַחֲרָ֔יו פֶּן־ מָ֥צָא ל֛וֹ עָרִ֥ים בְּצֻר֖וֹת וְהִצִּ֥יל עֵינֵֽנוּ׃"
+pericope: "[[2Sam.20.1 Sheba’s Rebellion|Sheba’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 20
+book/chapter: "[[2Sam.20|2 Samuel 20]]"
+chronological_order: 419
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic DAVID|DAVID]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0052]]"
+- "[[H6258]]"
+- "[[H7489A]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H7652A]]"
+- "[[H1121A]]"
+- "[[H1075]]"
+- "[[H4480A]]"
+- "[[H0053]]"
+- "[[H0859A]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H5650]]"
+- "[[H0113]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H7291]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H6435]]"
+- "[[H4672]]"
+- "[[H5892B]]"
+- "[[H1219]]"
+- "[[H5337]]"
+- "[[H5869J]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 20:6**<big><big>[[2Sam.20.1 Sheba’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said to Abishai, Now shall Sheba the son of Bichri do us more harm than [did] Absalom: take thou thy lord’s servants, and pursue after him, lest he get him fenced cities, and escape us.
 <small><sub>**BSB:**</sub></small>
 And David said to Abishai, “Now Sheba the son of Bichri will do us more harm than Absalom. Take your lord’s servants and pursue him, or he will find fortified cities and elude us.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H1732\|דָּוִד֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0052\|אֲבִישַׁ֔י]] [[H6258\|עַתָּ֗ה]] [[H7489A\|יֵ֧רַֽע]] [[H9005\|לָ֛]][[H9035\|נוּ]] [[H7652A\|שֶׁ֥בַע]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1075\|בִּכְרִ֖י]] [[H4480A\|מִן]][[H9014\|־]] [[H0053\|אַבְשָׁל֑וֹם]] [[H0859A\|אַ֠תָּה]] [[H3947G\|קַ֞ח]] [[H0853\|אֶת]][[H9014\|־]] [[H5650\|עַבְדֵ֤י]] [[H0113\|אֲדֹנֶ֙י]][[H9021\|ךָ֙]] [[H9002\|וּ]][[H7291\|רְדֹ֣ף]] [[H0310A\|אַחֲרָ֔י]][[H9033\|ו]] [[H6435\|פֶּן]][[H9014\|־]] [[H4672\|מָ֥צָא]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H5892B\|עָרִ֥ים]] [[H1219\|בְּצֻר֖וֹת]] [[H9001\|וְ]][[H5337\|הִצִּ֥יל]] [[H5869J\|עֵינֵֽ]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAI|ABISHAI]] • [[topic DAVID|DAVID]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.20.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.5|<< 2 Samuel 20:5]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.7|2 Samuel 20:7 >>]]</td></tr></table>
 

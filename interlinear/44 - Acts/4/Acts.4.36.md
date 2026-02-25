@@ -1,10 +1,62 @@
+---
+title: Acts 4:36
+type: Verse
+kjv: "And Joses, who by the apostles was surnamed Barnabas, (which is, being interpreted, The son of consolation,) a Levite, and of the country of Cyprus,"
+bsb: "Joseph, a Levite from Cyprus, whom the apostles called Barnabas (meaning Son of Encouragement),"
+greek: "Ἰωσὴφ δὲ ὁ ἐπικληθεὶς Βαρναβᾶς ἀπὸ τῶν ἀποστόλων ὅ ἐστιν μεθερμηνευόμενον υἱὸς παρακλήσεως, Λευίτης, Κύπριος τῷ γένει,"
+pericope: "[[Acts.4.32 Sharing among Believers|Sharing among Believers]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BARNABAS|BARNABAS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic COMMUNISM|COMMUNISM]]"
+- "[[topic CYPRUS|CYPRUS]]"
+- "[[topic JOSES|JOSES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+strongs:
+- "[[G2501]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1941]]"
+- "[[G0921G]]"
+- "[[G0575]]"
+- "[[G0652]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G3177]]"
+- "[[G5207]]"
+- "[[G3874]]"
+- "[[G3019]]"
+- "[[G2953]]"
+- "[[G1085G]]"
+texts:
+- N(K)O
+- NKO
+---
+
 **Acts 4:36**<big><big>[[Acts.4.32 Sharing among Believers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Joses, who by the apostles was surnamed Barnabas, (which is, being interpreted, The son of consolation,) a Levite, [and] of the country of Cyprus,
 <small><sub>**BSB:**</sub></small>
 Joseph, a Levite from Cyprus, whom the apostles called Barnabas (meaning Son of Encouragement),
-<small><sub>**Literal:**</sub></small>
-Joseph now who having been called Barnabas by the apostles which is being translated Son of encouragement a Levite, a Cypriot at the birth,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.35|<< Acts 4:35]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.37|Acts 4:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2501\|Ἰωσὴφ]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G1941\|ἐπικληθεὶς]]  [[G0921G\|Βαρναβᾶς]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G0652\|ἀποστόλων]]  [[G3739\|ὅ]]  [[G1510\|ἐστιν]]  [[G3177\|μεθερμηνευόμενον]]  [[G5207\|υἱὸς]]  [[G3874\|παρακλήσεως,]]  [[G3019\|Λευίτης,]]  [[G2953\|Κύπριος]]  [[G3588\|τῷ]]  [[G1085G\|γένει,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BARNABAS|BARNABAS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic COMMUNISM|COMMUNISM]] • [[topic CYPRUS|CYPRUS]] • [[topic JOSES|JOSES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic SELF-DENIAL|SELF-DENIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.35|<< Acts 4:35]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.37|Acts 4:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

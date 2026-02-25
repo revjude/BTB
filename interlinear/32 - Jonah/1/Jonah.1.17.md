@@ -1,8 +1,64 @@
+---
+title: Jonah 1:17
+type: Verse
+kjv: "Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights."
+bsb: "Now the LORD had appointed a great fish to swallow Jonah, and Jonah spent three days and three nights in the belly of the fish."
+hebrew: "וַיְמַ֤ן יְהוָה֙ דָּ֣ג גָּד֔וֹל לִבְלֹ֖עַ אֶת־ יוֹנָ֑ה וַיְהִ֤י יוֹנָה֙ בִּמְעֵ֣י הַדָּ֔ג שְׁלֹשָׁ֥ה יָמִ֖ים וּשְׁלֹשָׁ֥ה לֵילֽוֹת׃"
+pericope: "[[Jonah.1.11 Jonah Cast into the Sea|Jonah Cast into the Sea]]"
+original_language: Hebrew
+testament: Old
+book: Jonah
+chapter: 1
+book/chapter: "[[Jonah.1|Jonah 1]]"
+chronological_order: 594
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic FISH|FISH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JONAH|JONAH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[H9001]]"
+- "[[H4487]]"
+- "[[H3068G]]"
+- "[[H1709H]]"
+- "[[H1419A]]"
+- "[[H9005]]"
+- "[[H1104]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3124]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H4578]]"
+- "[[H9009]]"
+- "[[H7969]]"
+- "[[H3117G]]"
+- "[[H9002]]"
+- "[[H3915]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jonah 1:17**<big><big>[[Jonah.1.11 Jonah Cast into the Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.
 <small><sub>**BSB:**</sub></small>
 Now the LORD had appointed a great fish to swallow Jonah, and Jonah spent three days and three nights in the belly of the fish.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4487\|יְמַ֤ן]] [[H3068G\|יְהוָה֙]] [[H1709H\|דָּ֣ג]] [[H1419A\|גָּד֔וֹל]] [[H9005\|לִ]][[H1104\|בְלֹ֖עַ]] [[H0853\|אֶת]][[H9014\|־]] [[H3124\|יוֹנָ֑ה]] [[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H3124\|יוֹנָה֙]] [[H9003\|בִּ]][[H4578\|מְעֵ֣י]] [[H9009\|הַ]][[H1709H\|דָּ֔ג]] [[H7969\|שְׁלֹשָׁ֥ה]] [[H3117G\|יָמִ֖ים]] [[H9002\|וּ]][[H7969\|שְׁלֹשָׁ֥ה]] [[H3915\|לֵילֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FISH|FISH]] • [[topic GOD|GOD]] • [[topic JONAH|JONAH]] • [[topic MIRACLES|MIRACLES]] • [[topic TYPES|TYPES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.1.16|<< Jonah 1:16]]</td><td align="center" style="border:none;">[[Jonah.1|Jonah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.2.1|Jonah 2:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,66 @@
+---
+title: Zechariah 9:1
+type: Verse
+kjv: "The burden of the word of the LORD in the land of Hadrach, and Damascus shall be the rest thereof: when the eyes of man, as of all the tribes of Israel, shall be toward the LORD."
+bsb: "This is the burden of the word of the LORD against the land of Hadrach and Damascus its resting place—for the eyes of men and of all the tribes of Israel are upon the LORD—"
+hebrew: "מַשָּׂ֤א דְבַר־ יְהוָה֙ בְּאֶ֣רֶץ חַדְרָ֔ךְ וְדַמֶּ֖שֶׂק מְנֻחָת֑וֹ כִּ֤י לַֽיהוָה֙ עֵ֣ין אָדָ֔ם וְכֹ֖ל שִׁבְטֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Zech.9.1 The Burden against Israel’s Enemies|The Burden against Israel’s Enemies]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 9
+book/chapter: "[[Zech.9|Zechariah 9]]"
+chronological_order: 865
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic HADRACH|HADRACH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SYRIA|SYRIA]]"
+strongs:
+- "[[H4853B]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H2317]]"
+- "[[H9002]]"
+- "[[H1834]]"
+- "[[H4496H]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H5869A]]"
+- "[[H0120G]]"
+- "[[H3605]]"
+- "[[H7626H]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 9:1**<big><big>[[Zech.9.1 The Burden against Israel’s Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The burden of the word of the LORD in the land of Hadrach, and Damascus [shall be] the rest thereof: when the eyes of man, as of all the tribes of Israel, [shall be] toward the LORD.
 <small><sub>**BSB:**</sub></small>
 This is the burden of the word of the LORD against the land of Hadrach and Damascus its resting place—for the eyes of men and of all the tribes of Israel are upon the LORD—
+<small><sub>**Hebrew:**</sub></small>
+[[H4853B\|מַשָּׂ֤א]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H2317\|חַדְרָ֔ךְ]] [[H9002\|וְ]][[H1834\|דַמֶּ֖שֶׂק]] [[H4496H\|מְנֻחָת֑]][[H9023\|וֹ]] [[H3588A\|כִּ֤י]] [[H9005\|לַֽ]][[H3068G\|יהוָה֙]] [[H5869A\|עֵ֣ין]] [[H0120G\|אָדָ֔ם]] [[H9002\|וְ]][[H3605\|כֹ֖ל]] [[H7626H\|שִׁבְטֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DAMASCUS|DAMASCUS]] • [[topic GENTILES|GENTILES]] • [[topic HADRACH|HADRACH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SYRIA|SYRIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.8.23|<< Zechariah 8:23]]</td><td align="center" style="border:none;">[[Zech.9|Zechariah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.9.2|Zechariah 9:2 >>]]</td></tr></table>
 

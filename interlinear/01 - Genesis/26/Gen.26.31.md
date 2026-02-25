@@ -1,8 +1,68 @@
+---
+title: Genesis 26:31
+type: Verse
+kjv: "And they rose up betimes in the morning, and sware one to another: and Isaac sent them away, and they departed from him in peace."
+bsb: "And they got up early the next morning and swore an oath to each other. Then Isaac sent them on their way, and they left him in peace."
+hebrew: "וַיַּשְׁכִּ֣ימוּ בַבֹּ֔קֶר וַיִּשָּׁבְע֖וּ אִ֣ישׁ לְאָחִ֑יו וַיְשַׁלְּחֵ֣ם יִצְחָ֔ק וַיֵּלְכ֥וּ מֵאִתּ֖וֹ בְּשָׁלֽוֹם׃"
+pericope: "[[Gen.26.26 Isaac’s Covenant with Abimelech|Isaac’s Covenant with Abimelech]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 26
+book/chapter: "[[Gen.26|Genesis 26]]"
+chronological_order: 68
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic OATH|OATH]]"
+- "[[topic RISING|RISING]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7925]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H7650]]"
+- "[[H0376I]]"
+- "[[H9005]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H7971G]]"
+- "[[H9038]]"
+- "[[H3327]]"
+- "[[H1980G]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H7965G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 26:31**<big><big>[[Gen.26.26 Isaac’s Covenant with Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they rose up betimes in the morning, and sware one to another: and Isaac sent them away, and they departed from him in peace.
 <small><sub>**BSB:**</sub></small>
 And they got up early the next morning and swore an oath to each other. Then Isaac sent them on their way, and they left him in peace.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7925\|יַּשְׁכִּ֣ימוּ]] [[H9003\|בַ]][[H1242\|בֹּ֔קֶר]] [[H9001\|וַ]][[H7650\|יִּשָּׁבְע֖וּ]] [[H0376I\|אִ֣ישׁ]] [[H9005\|לְ]][[H0251G\|אָחִ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H7971G\|יְשַׁלְּחֵ֣]][[H9038\|ם]] [[H3327\|יִצְחָ֔ק]] [[H9001\|וַ]][[H1980G\|יֵּלְכ֥וּ]] [[H9006\|מֵ]][[H0854\|אִתּ֖]][[H9033\|וֹ]] [[H9003\|בְּ]][[H7965G\|שָׁלֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic CONTRACTS|CONTRACTS]] • [[topic COVENANT|COVENANT]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic ISAAC|ISAAC]] • [[topic OATH|OATH]] • [[topic RISING|RISING]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.30|<< Genesis 26:30]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.32|Genesis 26:32 >>]]</td></tr></table>
 

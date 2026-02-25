@@ -1,8 +1,62 @@
+---
+title: Leviticus 14:11
+type: Verse
+kjv: "And the priest that maketh him clean shall present the man that is to be made clean, and those things, before the LORD, at the door of the tabernacle of the congregation:"
+bsb: "The priest who performs the cleansing shall present the one to be cleansed, together with these offerings, before the LORD at the entrance to the Tent of Meeting."
+hebrew: "וְהֶעֱמִ֞יד הַכֹּהֵ֣ן הַֽמְטַהֵ֗ר אֵ֛ת הָאִ֥ישׁ הַמִּטַּהֵ֖ר וְאֹתָ֑ם לִפְנֵ֣י יְהוָ֔ה פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃"
+pericope: "[[Lev.14.1 Cleansing from Skin Diseases|Cleansing from Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 14
+book/chapter: "[[Lev.14|Leviticus 14]]"
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5975G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H2891]]"
+- "[[H0853]]"
+- "[[H0376G]]"
+- "[[H9002]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H6607]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 14:11**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest that maketh [him] clean shall present the man that is to be made clean, and those things, before the LORD, [at] the door of the tabernacle of the congregation:
 <small><sub>**BSB:**</sub></small>
 The priest who performs the cleansing shall present the one to be cleansed, together with these offerings, before the LORD at the entrance to the Tent of Meeting.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5975G\|הֶעֱמִ֞יד]] [[H9009\|הַ]][[H3548\|כֹּהֵ֣ן]] [[H9009\|הַֽ]][[H2891\|מְטַהֵ֗ר]] [[H0853\|אֵ֛ת]] [[H9009\|הָ]][[H0376G\|אִ֥ישׁ]] [[H9009\|הַ]][[H2891\|מִּטַּהֵ֖ר]] [[H9002\|וְ]][[H0854\|אֹתָ֑]][[H9038\|ם]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H6607\|פֶּ֖תַח]] [[H0168G\|אֹ֥הֶל]] [[H4150I\|מוֹעֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.10|<< Leviticus 14:10]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.12|Leviticus 14:12 >>]]</td></tr></table>
 

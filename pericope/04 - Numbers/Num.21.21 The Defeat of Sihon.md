@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Defeat of Sihon
+type: Pericope
 pericope: "[[Num.21.21 The Defeat of Sihon|The Defeat of Sihon]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 21
 book/chapter: "[[Num.21|Numbers 21]]"
-genre:
+chronological_order: 181
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 10
 verses:
 - "[[Num.21.21]]"
 - "[[Num.21.22]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Num.21.30]]"
 ---
 
-[[Num.21|Numbers 21:21 - Numbers 21:30]]
+<small>[[Num.21|Numbers 21:21-30]]</small>
 *The Defeat of Sihon*
 
 [[Num.21.21|21]] And Israel sent messengers unto Sihon king of the Amorites, saying,

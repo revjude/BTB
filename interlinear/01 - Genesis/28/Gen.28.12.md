@@ -1,8 +1,69 @@
+---
+title: Genesis 28:12
+type: Verse
+kjv: "And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it."
+bsb: "And Jacob had a dream about a ladder that rested on the earth with its top reaching up to heaven, and God’s angels were going up and down the ladder."
+hebrew: "וַֽיַּחֲלֹ֗ם וְהִנֵּ֤ה סֻלָּם֙ מֻצָּ֣ב אַ֔רְצָה וְרֹאשׁ֖וֹ מַגִּ֣יעַ הַשָּׁמָ֑יְמָה וְהִנֵּה֙ מַלְאֲכֵ֣י אֱלֹהִ֔ים עֹלִ֥ים וְיֹרְדִ֖ים בּֽוֹ׃"
+pericope: "[[Gen.28.10 Jacob’s Ladder|Jacob’s Ladder]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 28
+book/chapter: "[[Gen.28|Genesis 28]]"
+chronological_order: 70
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic LADDER|LADDER]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H2492B]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H5551]]"
+- "[[H5324]]"
+- "[[H0776G]]"
+- "[[H9011]]"
+- "[[H7218I]]"
+- "[[H9023]]"
+- "[[H5060]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H4397H]]"
+- "[[H0430G]]"
+- "[[H5927G]]"
+- "[[H3381]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 28:12**<big><big>[[Gen.28.10 Jacob’s Ladder|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it.
 <small><sub>**BSB:**</sub></small>
 And Jacob had a dream about a ladder that rested on the earth with its top reaching up to heaven, and God’s angels were going up and down the ladder.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H2492B\|יַּחֲלֹ֗ם]] [[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H5551\|סֻלָּם֙]] [[H5324\|מֻצָּ֣ב]] [[H0776G\|אַ֔רְצָ]][[H9011\|ה]] [[H9002\|וְ]][[H7218I\|רֹאשׁ֖]][[H9023\|וֹ]] [[H5060\|מַגִּ֣יעַ]] [[H9009\|הַ]][[H8064\|שָּׁמָ֑יְמָ]][[H9011\|ה]] [[H9002\|וְ]][[H2009\|הִנֵּה֙]] [[H4397H\|מַלְאֲכֵ֣י]] [[H0430G\|אֱלֹהִ֔ים]] [[H5927G\|עֹלִ֥ים]] [[H9002\|וְ]][[H3381\|יֹרְדִ֖ים]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic BETH-EL|BETH-EL]] • [[topic DREAM|DREAM]] • [[topic JACOB|JACOB]] • [[topic LADDER|LADDER]] • [[topic RELIGION|RELIGION]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.28.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.11|<< Genesis 28:11]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.13|Genesis 28:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,10 +1,57 @@
+---
+title: Ephesians 3:21
+type: Verse
+kjv: "Unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen."
+bsb: "to Him be the glory in the church and in Christ Jesus throughout all generations, forever and ever. Amen."
+greek: "αὐτῷ ἡ δόξα ἐν τῇ ἐκκλησίᾳ καὶ ἐν Χριστῷ Ἰησοῦ εἰς πάσας τὰς γενεὰς τοῦ αἰῶνος τῶν αἰώνων, ἀμήν.¶"
+pericope: "[[Eph.3.14 Paul’s Prayer for the Ephesians|Paul’s Prayer for the Ephesians]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 3
+book/chapter: "[[Eph.3|Ephesians 3]]"
+chronological_order: 1113
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G1391]]"
+- "[[G1722]]"
+- "[[G1577]]"
+- "[[G2532]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G1519]]"
+- "[[G3956]]"
+- "[[G1074]]"
+- "[[G0165H]]"
+- "[[G0281]]"
+texts:
+- NKO
+- no
+---
+
 **Ephesians 3:21**<big><big>[[Eph.3.14 Paul’s Prayer for the Ephesians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Unto him [be] glory in the church by Christ Jesus throughout all ages, world without end. Amen.
 <small><sub>**BSB:**</sub></small>
 to Him be the glory in the church and in Christ Jesus throughout all generations, forever and ever. Amen.
-<small><sub>**Literal:**</sub></small>
-to Him [be] the glory in the church and in Christ Jesus to all the generations of the age of the ages, Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.20|<< Ephesians 3:20]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.1|Ephesians 4:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0846\|αὐτῷ]]  [[G3588\|ἡ]]  [[G1391\|δόξα]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1577\|ἐκκλησίᾳ]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ]]  [[G1519\|εἰς]]  [[G3956\|πάσας]]  [[G3588\|τὰς]]  [[G1074\|γενεὰς]]  [[G3588\|τοῦ]]  [[G0165H\|αἰῶνος]]  [[G3588\|τῶν]]  [[G0165H\|αἰώνων,]]  [[G0281\|ἀμήν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAISE|PRAISE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.20|<< Ephesians 3:20]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.1|Ephesians 4:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

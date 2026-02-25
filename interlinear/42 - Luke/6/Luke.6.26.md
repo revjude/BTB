@@ -1,10 +1,61 @@
+---
+title: Luke 6:26
+type: Verse
+kjv: "Woe unto you, when all men shall speak well of you! for so did their fathers to the false prophets."
+bsb: "Woe to you when all men speak well of you, for their fathers treated the false prophets in the same way."
+jesus_said: "Woe unto you, when all men shall speak well of you! for so did their fathers to the false prophets."
+greek: "Οὐαὶ ὑμῖν ὅταν ὑμᾶς καλῶς εἴπωσιν πάντες οἱ ἄνθρωποι· κατὰ τὰ αὐτὰ γὰρ ἐποίουν τοῖς ψευδοπροφήταις οἱ πατέρες αὐτῶν."
+pericope: "[[Luke.6.24 Woes to the Satisfied|Woes to the Satisfied]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SERMON|SERMON]]"
+strongs:
+- "[[G3759]]"
+- "[[G4771]]"
+- "[[G3752]]"
+- "[[G2573]]"
+- "[[G2036]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G2596]]"
+- "[[G0846]]"
+- "[[G1063]]"
+- "[[G4160G]]"
+- "[[G5578]]"
+- "[[G3962]]"
+texts:
+- NKO
+- k
+- N(K)O
+---
+
 **Luke 6:26**<big><big>[[Luke.6.24 Woes to the Satisfied|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Woe unto you, when all men shall speak well of you! for so did their fathers to the false prophets.
 <small><sub>**BSB:**</sub></small>
 Woe to you when all men speak well of you, for their fathers treated the false prophets in the same way.
-<small><sub>**Literal:**</sub></small>
-Woe to you to you when of you well speak all <the> men; according to the [things] of them for were treating the false prophets the fathers of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.25|<< Luke 6:25]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.27|Luke 6:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3759\|Οὐαὶ]]  [[G4771\|ὑμῖν]]  [[G3752\|ὅταν]]  [[G4771\|ὑμᾶς]]  [[G2573\|καλῶς]]  [[G2036\|εἴπωσιν]]  [[G3956\|πάντες]]  [[G3588\|οἱ]]  [[G0444\|ἄνθρωποι·]]  [[G2596\|κατὰ]]  [[G3588\|τὰ]]  [[G0846\|αὐτὰ]]  [[G1063\|γὰρ]]  [[G4160G\|ἐποίουν]]  [[G3588\|τοῖς]]  [[G5578\|ψευδοπροφήταις]]  [[G3588\|οἱ]]  [[G3962\|πατέρες]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FLATTERY|FLATTERY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SERMON|SERMON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.25|<< Luke 6:25]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.27|Luke 6:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

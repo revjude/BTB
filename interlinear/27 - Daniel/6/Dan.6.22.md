@@ -1,8 +1,79 @@
+---
+title: Daniel 6:22
+type: Verse
+kjv: "My God hath sent his angel, and hath shut the lions’ mouths, that they have not hurt me: forasmuch as before him innocency was found in me; and also before thee, O king, have I done no hurt."
+bsb: "My God sent His angel and shut the mouths of the lions. They have not hurt me, for I was found innocent in His sight, and I have done no wrong against you, O king.”"
+aramaic: "אֱלָהִ֞י שְׁלַ֣ח מַלְאֲכֵ֗הּ וּֽסֲגַ֛ר פֻּ֥ם אַרְיָוָתָ֖א וְלָ֣א חַבְּל֑וּנִי כָּל־ קֳבֵ֗ל דִּ֤י קָֽדָמ֙וֹהִי֙ זָכוּ֙ הִשְׁתְּכַ֣חַת לִ֔י וְאַ֤ף קָֽדָמָךְ֙ מַלְכָּ֔א חֲבוּלָ֖ה לָ֥א עַבְדֵֽת׃"
+pericope: "[[Dan.6.10 Daniel in the Lions’ Den|Daniel in the Lions’ Den]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 6
+book/chapter: "[[Dan.6|Daniel 6]]"
+chronological_order: 791
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INNOCENCY|INNOCENCY]]"
+- "[[topic LION|LION]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H0426]]"
+- "[[H9020]]"
+- "[[H7972]]"
+- "[[H4398]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H5463]]"
+- "[[H6433]]"
+- "[[H0744]]"
+- "[[H9010]]"
+- "[[H3809]]"
+- "[[H2255]]"
+- "[[H9030]]"
+- "[[H9004]]"
+- "[[H9005]]"
+- "[[H9014]]"
+- "[[H6903H]]"
+- "[[H1768]]"
+- "[[H6925]]"
+- "[[H9033]]"
+- "[[H2136]]"
+- "[[H7912]]"
+- "[[H0638]]"
+- "[[H9031]]"
+- "[[H4430]]"
+- "[[H2248]]"
+- "[[H5648]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Daniel 6:22**<big><big>[[Dan.6.10 Daniel in the Lions’ Den|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My God hath sent his angel, and hath shut the lions’ mouths, that they have not hurt me: forasmuch as before him innocency was found in me; and also before thee, O king, have I done no hurt.
 <small><sub>**BSB:**</sub></small>
 My God sent His angel and shut the mouths of the lions. They have not hurt me, for I was found innocent in His sight, and I have done no wrong against you, O king.”
+<small><sub>**Aramaic:**</sub></small>
+[[H0426\|אֱלָהִ֞]][[H9020\|י]] [[H7972\|שְׁלַ֣ח]] [[H4398\|מַלְאֲכֵ֗]][[H9023\|הּ]] [[H9002\|וּֽ]][[H5463\|סֲגַ֛ר]] [[H6433\|פֻּ֥ם]] [[H0744\|אַרְיָוָתָ֖]][[H9010\|א]] [[H9002\|וְ]][[H3809\|לָ֣א]] [[H2255\|חַבְּל֑וּ]][[H9030\|נִי]] [[H9004\|כָּ]][[H9005\|ל]][[H9014\|־]] [[H6903H\|קֳבֵ֗ל]] [[H1768\|דִּ֤י]] [[H6925\|קָֽדָמ֙וֹ]][[H9033\|הִי֙]] [[H2136\|זָכוּ֙]] [[H7912\|הִשְׁתְּכַ֣חַת]] [[H9005\|לִ֔]][[H9030\|י]] [[H9002\|וְ]][[H0638\|אַ֤ף]] [[H6925\|קָֽדָמָ]][[H9031\|ךְ֙]] [[H4430\|מַלְכָּ֔]][[H9010\|א]] [[H2248\|חֲבוּלָ֖ה]] [[H3809\|לָ֥א]] [[H5648\|עַבְדֵֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic BLESSING|BLESSING]] • [[topic DANIEL|DANIEL]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic INNOCENCY|INNOCENCY]] • [[topic LION|LION]] • [[topic MIRACLES|MIRACLES]] • [[topic RELIGION|RELIGION]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.21|<< Daniel 6:21]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.23|Daniel 6:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

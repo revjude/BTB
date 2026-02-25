@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 14:1
+type: Verse
+kjv: "Ye are the children of the LORD your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead."
+bsb: "You are sons of the LORD your God; do not cut yourselves or shave your foreheads on behalf of the dead,"
+hebrew: "בָּנִ֣ים אַתֶּ֔ם לַֽיהוָ֖ה אֱלֹהֵיכֶ֑ם לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא־ תָשִׂ֧ימוּ קָרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם לָמֵֽת׃"
+pericope: "[[Deut.14.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 14
+book/chapter: "[[Deut.14|Deuteronomy 14]]"
+chronological_order: 210
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic BALDNESS|BALDNESS]]"
+- "[[topic CUTTING|CUTTING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MOURNING|MOURNING]]"
+strongs:
+- "[[H1121A]]"
+- "[[H0859D]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H3808]]"
+- "[[H1413]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H7760A]]"
+- "[[H7144]]"
+- "[[H0996G]]"
+- "[[H5869A]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 14:1**<big><big>[[Deut.14.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye [are] the children of the LORD your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead.
 <small><sub>**BSB:**</sub></small>
 You are sons of the LORD your God; do not cut yourselves or shave your foreheads on behalf of the dead,
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בָּנִ֣ים]] [[H0859D\|אַתֶּ֔ם]] [[H9005\|לַֽ]][[H3068G\|יהוָ֖ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֑ם]] [[H3808\|לֹ֣א]] [[H1413\|תִתְגֹּֽדְד֗וּ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7760A\|תָשִׂ֧ימוּ]] [[H7144\|קָרְחָ֛ה]] [[H0996G\|בֵּ֥ין]] [[H5869A\|עֵינֵי]][[H9026\|כֶ֖ם]] [[H9005\|לָ]][[H4191\|מֵֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic BALDNESS|BALDNESS]] • [[topic CUTTING|CUTTING]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic MOURNING|MOURNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.14.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13.18|<< Deuteronomy 13:18]]</td><td align="center" style="border:none;">[[Deut.14|Deuteronomy 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.14.2|Deuteronomy 14:2 >>]]</td></tr></table>
 

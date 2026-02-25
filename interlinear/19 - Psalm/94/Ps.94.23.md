@@ -1,8 +1,62 @@
+---
+title: Psalm 94:23
+type: Verse
+kjv: "And he shall bring upon them their own iniquity, and shall cut them off in their own wickedness; yea, the LORD our God shall cut them off."
+bsb: "He will bring upon them their own iniquity and destroy them for their wickedness. The LORD our God will destroy them."
+hebrew: "וַיָּ֤שֶׁב עֲלֵיהֶ֨ם׀ אֶת־ אוֹנָ֗ם וּבְרָעָתָ֥ם יַצְמִיתֵ֑ם יַ֝צְמִיתֵ֗ם יְהוָ֥ה אֱלֹהֵֽינוּ׃"
+pericope: "[[Ps.94.1 The LORD Will Not Forget His People|The LORD Will Not Forget His People]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 94
+book/chapter: "[[Ps.94|Psalm 94]]"
+chronological_order: 521
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9015]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0205G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H7451I]]"
+- "[[H6789]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 94:23**<big><big>[[Ps.94.1 The LORD Will Not Forget His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall bring upon them their own iniquity, and shall cut them off in their own wickedness; [yea], the LORD our God shall cut them off.
 <small><sub>**BSB:**</sub></small>
 He will bring upon them their own iniquity and destroy them for their wickedness. The LORD our God will destroy them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּ֤שֶׁב]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֨ם]][[H9015\|׀]] [[H0853\|אֶת]][[H9014\|־]] [[H0205G\|אוֹנָ֗]][[H9028\|ם]] [[H9002\|וּ]][[H9003\|בְ]][[H7451I\|רָעָתָ֥]][[H9028\|ם]] [[H6789\|יַצְמִיתֵ֑]][[H9038\|ם]] [[H6789\|יַ֝צְמִיתֵ֗]][[H9038\|ם]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.94.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.94.22|<< Psalms 94:22]]</td><td align="center" style="border:none;">[[Ps.94|Psalms 94]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.95.1|Psalms 95:1 >>]]</td></tr></table>
 

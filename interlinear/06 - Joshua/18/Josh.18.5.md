@@ -1,8 +1,61 @@
+---
+title: Joshua 18:5
+type: Verse
+kjv: "And they shall divide it into seven parts: Judah shall abide in their coast on the south, and the house of Joseph shall abide in their coasts on the north."
+bsb: "and divide the land into seven portions. Judah shall remain in their territory in the south, and the house of Joseph shall remain in their territory in the north."
+hebrew: "וְהִֽתְחַלְּק֥וּ אֹתָ֖הּ לְשִׁבְעָ֣ה חֲלָקִ֑ים יְהוּדָ֞ה יַעֲמֹ֤ד עַל־ גְּבוּלוֹ֙ מִנֶּ֔גֶב וּבֵ֥ית יוֹסֵ֛ף יַעַמְד֥וּ עַל־ גְּבוּלָ֖ם מִצָּפֽוֹן׃"
+pericope: "[[Josh.18.1 The Remainder Divided|The Remainder Divided]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 18
+book/chapter: "[[Josh.18|Joshua 18]]"
+chronological_order: 248
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic SHILOH|SHILOH]]"
+strongs:
+- "[[H9001]]"
+- "[[H2505A]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H7651]]"
+- "[[H2506A]]"
+- "[[H3063G]]"
+- "[[H5975G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1366H]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H5045H]]"
+- "[[H9002]]"
+- "[[H1004M]]"
+- "[[H3130G]]"
+- "[[H9028]]"
+- "[[H6828G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 18:5**<big><big>[[Josh.18.1 The Remainder Divided|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall divide it into seven parts: Judah shall abide in their coast on the south, and the house of Joseph shall abide in their coasts on the north.
 <small><sub>**BSB:**</sub></small>
 and divide the land into seven portions. Judah shall remain in their territory in the south, and the house of Joseph shall remain in their territory in the north.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2505A\|הִֽתְחַלְּק֥וּ]] [[H0853\|אֹתָ֖]][[H9034\|הּ]] [[H9005\|לְ]][[H7651\|שִׁבְעָ֣ה]] [[H2506A\|חֲלָקִ֑ים]] [[H3063G\|יְהוּדָ֞ה]] [[H5975G\|יַעֲמֹ֤ד]] [[H5921A\|עַל]][[H9014\|־]] [[H1366H\|גְּבוּל]][[H9023\|וֹ֙]] [[H9006\|מִ]][[H5045H\|נֶּ֔גֶב]] [[H9002\|וּ]][[H1004M\|בֵ֥ית]] [[H3130G\|יוֹסֵ֛ף]] [[H5975G\|יַעַמְד֥וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H1366H\|גְּבוּלָ֖]][[H9028\|ם]] [[H9006\|מִ]][[H6828G\|צָּפֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHILOH|SHILOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.4|<< Joshua 18:4]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.6|Joshua 18:6 >>]]</td></tr></table>
 

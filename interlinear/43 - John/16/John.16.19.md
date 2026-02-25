@@ -1,10 +1,59 @@
+---
+title: John 16:19
+type: Verse
+kjv: "Now Jesus knew that they were desirous to ask him, and said unto them, Do ye inquire among yourselves of that I said, A little while, and ye shall not see me: and again, a little while, and ye shall see me?"
+bsb: "Aware that they wanted to question Him, Jesus said to them, “Are you asking one another why I said, ‘In a little while you will not see Me, and then after a little while you will see Me’?"
+jesus_said: "Do ye enquire among yourselves of that I said, A little while, and ye shall not see me: and again, a little while, and ye shall see me?"
+greek: "Ἔγνω οὖν ὁ Ἰησοῦς ὅτι ἤθελον αὐτὸν ἐρωτᾶν, καὶ εἶπεν αὐτοῖς· περὶ τούτου ζητεῖτε μετ᾽ ἀλλήλων ὅτι εἶπον· μικρὸν καὶ οὐ θεωρεῖτέ με, καὶ πάλιν μικρὸν καὶ ὄψεσθέ με;¶"
+pericope: "[[John.16.17 Grief Will Turn to Joy|Grief Will Turn to Joy]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 16
+book/chapter: "[[John.16|John 16]]"
+chronological_order: 1004
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+strongs:
+- "[[G1097]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3754G]]"
+- "[[G2309]]"
+- "[[G0846]]"
+- "[[G2065]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4012]]"
+- "[[G3778]]"
+- "[[G2212]]"
+- "[[G3326]]"
+- "[[G0240]]"
+- "[[G3398]]"
+- "[[G3756]]"
+- "[[G2334]]"
+- "[[G3165]]"
+- "[[G3825]]"
+- "[[G3700]]"
+texts:
+- NKO
+- K
+---
+
 **John 16:19**<big><big>[[John.16.17 Grief Will Turn to Joy|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now Jesus knew that they were desirous to ask him, and said unto them, Do ye inquire among yourselves of that I said, A little while, and ye shall not see me: and again, a little while, and ye shall see me?
 <small><sub>**BSB:**</sub></small>
 Aware that they wanted to question Him, Jesus said to them, “Are you asking one another why I said, ‘In a little while you will not see Me, and then after a little while you will see Me’?
-<small><sub>**Literal:**</sub></small>
-Knew therefore <the> Jesus that they were desiring Him to ask, and He said to them; Concerning this do you inquire among one another that I said; A little [while] and not you do behold Me, and again a little [while] and you will behold Me’?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.18|<< John 16:18]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.20|John 16:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1097\|Ἔγνω]]  [[G3767\|οὖν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3754G\|ὅτι]]  [[G2309\|ἤθελον]]  [[G0846\|αὐτὸν]]  [[G2065\|ἐρωτᾶν,]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G4012\|περὶ]]  [[G3778\|τούτου]]  [[G2212\|ζητεῖτε]]  [[G3326\|μετ᾽]]  [[G0240\|ἀλλήλων]]  [[G3754G\|ὅτι]]  [[G2036\|εἶπον·]]  [[G3398\|μικρὸν]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G2334\|θεωρεῖτέ]]  [[G3165\|με,]]  [[G2532\|καὶ]]  [[G3825\|πάλιν]]  [[G3398\|μικρὸν]]  [[G2532\|καὶ]]  [[G3700\|ὄψεσθέ]]  [[G3165\|με;¶]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.18|<< John 16:18]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.20|John 16:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

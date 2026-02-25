@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Twelve Captains for Twelve Months
+type: Pericope
 pericope: "[[1Chr.27.1 Twelve Captains for Twelve Months|Twelve Captains for Twelve Months]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 27
 book/chapter: "[[1Chr.27|1 Chronicles 27]]"
-genre:
+chronological_order: 438
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 15
 verses:
 - "[[1Chr.27.1]]"
 - "[[1Chr.27.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[1Chr.27.15]]"
 ---
 
-[[1Chr.27|1 Chronicles 27:1 - 1 Chronicles 27:15]]
+<small>[[1Chr.27|1 Chronicles 27:1-15]]</small>
 *Twelve Captains for Twelve Months*
 
 [[1Chr.27.1|1]] Now the children of Israel after their number, \[to wit\], the chief fathers and captains of thousands and hundreds, and their officers that served the king in any matter of the courses, which came in and went out month by month throughout all the months of the year, of every course \[were\] twenty and four thousand.

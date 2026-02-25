@@ -1,8 +1,72 @@
+---
+title: Genesis 41:54
+type: Verse
+kjv: "And the seven years of dearth began to come, according as Joseph had said: and the dearth was in all lands; but in all the land of Egypt there was bread."
+bsb: "the seven years of famine began, just as Joseph had said. And although there was famine in every country, there was food throughout the land of Egypt."
+hebrew: "וַתְּחִלֶּ֜ינָה שֶׁ֣בַע שְׁנֵ֤י הָרָעָב֙ לָב֔וֹא כַּאֲשֶׁ֖ר אָמַ֣ר יוֹסֵ֑ף וַיְהִ֤י רָעָב֙ בְּכָל־ הָ֣אֲרָצ֔וֹת וּבְכָל־ אֶ֥רֶץ מִצְרַ֖יִם הָ֥יָה לָֽחֶם׃"
+pericope: "[[Gen.41.53 The Famine Begins|The Famine Begins]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic FRUGALITY|FRUGALITY]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H2490C]]"
+- "[[H7651]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H7458]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H0559]]"
+- "[[H3130G]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H4714G]]"
+- "[[H3899H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:54**<big><big>[[Gen.41.53 The Famine Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the seven years of dearth began to come, according as Joseph had said: and the dearth was in all lands; but in all the land of Egypt there was bread.
 <small><sub>**BSB:**</sub></small>
 the seven years of famine began, just as Joseph had said. And although there was famine in every country, there was food throughout the land of Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2490C\|תְּחִלֶּ֜ינָה]] [[H7651\|שֶׁ֣בַע]] [[H8141\|שְׁנֵ֤י]] [[H9009\|הָ]][[H7458\|רָעָב֙]] [[H9005\|לָ]][[H0935G\|ב֔וֹא]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H0559\|אָמַ֣ר]] [[H3130G\|יוֹסֵ֑ף]] [[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H7458\|רָעָב֙]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ֣]][[H0776G\|אֲרָצ֔וֹת]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרַ֖יִם]] [[H1961\|הָ֥יָה]] [[H3899H\|לָֽחֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ECONOMICS|ECONOMICS]] • [[topic FAMINE|FAMINE]] • [[topic FRUGALITY|FRUGALITY]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOSEPH|JOSEPH]] • [[topic PRUDENCE|PRUDENCE]] • [[topic RULERS|RULERS]] • [[topic SERVANT|SERVANT]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.53|<< Genesis 41:53]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.55|Genesis 41:55 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

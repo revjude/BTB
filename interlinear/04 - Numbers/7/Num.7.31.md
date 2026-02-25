@@ -1,8 +1,74 @@
+---
+title: Numbers 7:31
+type: Verse
+kjv: "His offering was one silver charger of the weight of an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:"
+bsb: "His offering was one silver platter weighing a hundred and thirty shekels, and one silver bowl weighing seventy shekels, both according to the sanctuary shekel and filled with fine flour mixed with oil for a grain offering;"
+hebrew: "קָרְבָּנ֞וֹ קַֽעֲרַת־ כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒ מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ שְׁנֵיהֶ֣ם׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃"
+pericope: "[[Num.7.1 Offerings of Dedication|Offerings of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 7
+book/chapter: "[[Num.7|Numbers 7]]"
+chronological_order: 166
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BOWL|BOWL]]"
+- "[[topic CHARGER|CHARGER]]"
+- "[[topic SHEKEL|SHEKEL]]"
+- "[[topic SILVER|SILVER]]"
+strongs:
+- "[[H7133A]]"
+- "[[H9023]]"
+- "[[H7086]]"
+- "[[H9014]]"
+- "[[H3701G]]"
+- "[[H0259]]"
+- "[[H7970]]"
+- "[[H9002]]"
+- "[[H3967]]"
+- "[[H4948]]"
+- "[[H9024]]"
+- "[[H4219]]"
+- "[[H7657]]"
+- "[[H8255]]"
+- "[[H9003]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H9015]]"
+- "[[H4392]]"
+- "[[H5560]]"
+- "[[H1101A]]"
+- "[[H8081]]"
+- "[[H9005]]"
+- "[[H4503G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 7:31**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His offering [was] one silver charger of the weight of an hundred and thirty [shekels], one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:
 <small><sub>**BSB:**</sub></small>
 His offering was one silver platter weighing a hundred and thirty shekels, and one silver bowl weighing seventy shekels, both according to the sanctuary shekel and filled with fine flour mixed with oil for a grain offering;
+<small><sub>**Hebrew:**</sub></small>
+[[H7133A\|קָרְבָּנ֞]][[H9023\|וֹ]] [[H7086\|קַֽעֲרַת]][[H9014\|־]] [[H3701G\|כֶּ֣סֶף]] [[H0259\|אַחַ֗ת]] [[H7970\|שְׁלֹשִׁ֣ים]] [[H9002\|וּ]][[H3967\|מֵאָה֮]] [[H4948\|מִשְׁקָלָ]][[H9024\|הּ֒]] [[H4219\|מִזְרָ֤ק]] [[H0259\|אֶחָד֙]] [[H3701G\|כֶּ֔סֶף]] [[H7657\|שִׁבְעִ֥ים]] [[H8255\|שֶׁ֖קֶל]] [[H9003\|בְּ]][[H8255\|שֶׁ֣קֶל]] [[H9009\|הַ]][[H6944G\|קֹּ֑דֶשׁ]] [[H8147\|שְׁנֵי]][[H9028\|הֶ֣ם]][[H9015\|׀]] [[H4392\|מְלֵאִ֗ים]] [[H5560\|סֹ֛לֶת]] [[H1101A\|בְּלוּלָ֥ה]] [[H9003\|בַ]][[H8081\|שֶּׁ֖מֶן]] [[H9005\|לְ]][[H4503G\|מִנְחָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOWL|BOWL]] • [[topic CHARGER|CHARGER]] • [[topic SHEKEL|SHEKEL]] • [[topic SILVER|SILVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.30|<< Numbers 7:30]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.32|Numbers 7:32 >>]]</td></tr></table>
 

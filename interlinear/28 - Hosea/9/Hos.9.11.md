@@ -1,8 +1,53 @@
+---
+title: Hosea 9:11
+type: Verse
+kjv: "As for Ephraim, their glory shall fly away like a bird, from the birth, and from the womb, and from the conception."
+bsb: "Ephraim’s glory will fly away like a bird, with no birth, no pregnancy, and no conception."
+hebrew: "אֶפְרַ֕יִם כָּע֖וֹף יִתְעוֹפֵ֣ף כְּבוֹדָ֑ם מִלֵּדָ֥ה וּמִבֶּ֖טֶן וּמֵהֵרָיֽוֹן׃"
+pericope: "[[Hos.9.1 Israel’s Punishment|Israel’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 9
+book/chapter: "[[Hos.9|Hosea 9]]"
+chronological_order: 650
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H0669G]]"
+- "[[H9004]]"
+- "[[H5775]]"
+- "[[H5774A]]"
+- "[[H3519]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H3205]]"
+- "[[H9002]]"
+- "[[H0990H]]"
+- "[[H2032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 9:11**<big><big>[[Hos.9.1 Israel’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As for] Ephraim, their glory shall fly away like a bird, from the birth, and from the womb, and from the conception.
 <small><sub>**BSB:**</sub></small>
 Ephraim’s glory will fly away like a bird, with no birth, no pregnancy, and no conception.
+<small><sub>**Hebrew:**</sub></small>
+[[H0669G\|אֶפְרַ֕יִם]] [[H9004\|כָּ]][[H5775\|ע֖וֹף]] [[H5774A\|יִתְעוֹפֵ֣ף]] [[H3519\|כְּבוֹדָ֑]][[H9028\|ם]] [[H9006\|מִ]][[H3205\|לֵּדָ֥ה]] [[H9002\|וּ]][[H9006\|מִ]][[H0990H\|בֶּ֖טֶן]] [[H9002\|וּ]][[H9006\|מֵ]][[H2032\|הֵרָיֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.10|<< Hosea 9:10]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.12|Hosea 9:12 >>]]</td></tr></table>
 

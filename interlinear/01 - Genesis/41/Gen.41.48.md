@@ -1,8 +1,75 @@
+---
+title: Genesis 41:48
+type: Verse
+kjv: "And he gathered up all the food of the seven years, which were in the land of Egypt, and laid up the food in the cities: the food of the field, which was round about every city, laid he up in the same."
+bsb: "During those seven years, Joseph collected all the excess food in the land of Egypt and stored it in the cities. In every city he laid up the food from the fields around it."
+hebrew: "וַיִּקְבֹּ֞ץ אֶת־ כָּל־ אֹ֣כֶל׀ שֶׁ֣בַע שָׁנִ֗ים אֲשֶׁ֤ר הָיוּ֙ בְּאֶ֣רֶץ מִצְרַ֔יִם וַיִּתֶּן־ אֹ֖כֶל בֶּעָרִ֑ים אֹ֧כֶל שְׂדֵה־ הָעִ֛יר אֲשֶׁ֥ר סְבִיבֹתֶ֖יהָ נָתַ֥ן בְּתוֹכָֽהּ׃"
+pericope: "[[Gen.41.46 The Seven Years of Plenty|The Seven Years of Plenty]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CITIES|CITIES]]"
+- "[[topic CORN|CORN]]"
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic FRUGALITY|FRUGALITY]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic TAX|TAX]]"
+strongs:
+- "[[H9001]]"
+- "[[H6908]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H0400]]"
+- "[[H9015]]"
+- "[[H7651]]"
+- "[[H8141]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H5414H]]"
+- "[[H5892B]]"
+- "[[H7704G]]"
+- "[[H9009]]"
+- "[[H5439G]]"
+- "[[H9034]]"
+- "[[H8432]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:48**<big><big>[[Gen.41.46 The Seven Years of Plenty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he gathered up all the food of the seven years, which were in the land of Egypt, and laid up the food in the cities: the food of the field, which [was] round about every city, laid he up in the same.
 <small><sub>**BSB:**</sub></small>
 During those seven years, Joseph collected all the excess food in the land of Egypt and stored it in the cities. In every city he laid up the food from the fields around it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6908\|יִּקְבֹּ֞ץ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0400\|אֹ֣כֶל]][[H9015\|׀]] [[H7651\|שֶׁ֣בַע]] [[H8141\|שָׁנִ֗ים]] [[H0834A\|אֲשֶׁ֤ר]] [[H1961\|הָיוּ֙]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֔יִם]] [[H9001\|וַ]][[H5414H\|יִּתֶּן]][[H9014\|־]] [[H0400\|אֹ֖כֶל]] [[H9003\|בֶּ]][[H5892B\|עָרִ֑ים]] [[H0400\|אֹ֧כֶל]] [[H7704G\|שְׂדֵה]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֛יר]] [[H0834A\|אֲשֶׁ֥ר]] [[H5439G\|סְבִיבֹתֶ֖י]][[H9034\|הָ]] [[H5414H\|נָתַ֥ן]] [[H9003\|בְּ]][[H8432\|תוֹכָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIES|CITIES]] • [[topic CORN|CORN]] • [[topic ECONOMICS|ECONOMICS]] • [[topic FRUGALITY|FRUGALITY]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOSEPH|JOSEPH]] • [[topic PRUDENCE|PRUDENCE]] • [[topic RULERS|RULERS]] • [[topic SERVANT|SERVANT]] • [[topic TAX|TAX]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.47|<< Genesis 41:47]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.49|Genesis 41:49 >>]]</td></tr></table>
 

@@ -1,8 +1,71 @@
+---
+title: 1 Samuel 1:17
+type: Verse
+kjv: "Then Eli answered and said, Go in peace: and the God of Israel grant thee thy petition that thou hast asked of him."
+bsb: "“Go in peace,” Eli replied, “and may the God of Israel grant the petition you have asked of Him.”"
+hebrew: "וַיַּ֧עַן עֵלִ֛י וַיֹּ֖אמֶר לְכִ֣י לְשָׁל֑וֹם וֵאלֹהֵ֣י יִשְׂרָאֵ֗ל יִתֵּן֙ אֶת־ שֵׁ֣לָתֵ֔ךְ אֲשֶׁ֥ר שָׁאַ֖לְתְּ מֵעִמּֽוֹ׃"
+pericope: "[[1Sam.1.9 Hannah Prays for a Son|Hannah Prays for a Son]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 1
+book/chapter: "[[1Sam.1|1 Samuel 1]]"
+chronological_order: 280
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic ELI|ELI]]"
+- "[[topic HANNAH|HANNAH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+- "[[topic WEEPING|WEEPING]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H5941]]"
+- "[[H0559]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H7965G]]"
+- "[[H9002]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7596]]"
+- "[[H9022]]"
+- "[[H0834A]]"
+- "[[H7592]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 1:17**<big><big>[[1Sam.1.9 Hannah Prays for a Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Eli answered and said, Go in peace: and the God of Israel grant [thee] thy petition that thou hast asked of him.
 <small><sub>**BSB:**</sub></small>
 “Go in peace,” Eli replied, “and may the God of Israel grant the petition you have asked of Him.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֧עַן]] [[H5941\|עֵלִ֛י]] [[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H1980G\|לְכִ֣י]] [[H9005\|לְ]][[H7965G\|שָׁל֑וֹם]] [[H9002\|וֵ]][[H0430G\|אלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H5414G\|יִתֵּן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H7596\|שֵׁ֣לָתֵ֔]][[H9022\|ךְ]] [[H0834A\|אֲשֶׁ֥ר]] [[H7592\|שָׁאַ֖לְתְּ]] [[H9006\|מֵ]][[H5973B\|עִמּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARRENNESS|BARRENNESS]] • [[topic CHILDREN|CHILDREN]] • [[topic ELI|ELI]] • [[topic HANNAH|HANNAH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic PRAYER|PRAYER]] • [[topic SAMUEL|SAMUEL]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]] • [[topic WEEPING|WEEPING]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.16|<< 1 Samuel 1:16]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.18|1 Samuel 1:18 >>]]</td></tr></table>
 

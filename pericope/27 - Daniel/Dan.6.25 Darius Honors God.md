@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Darius Honors God
+type: Pericope
 pericope: "[[Dan.6.25 Darius Honors God|Darius Honors God]]"
-verse_count: 4
+original_language: Aramaic
 testament: Old
 book: Daniel
 chapter: 6
 book/chapter: "[[Dan.6|Daniel 6]]"
-genre:
+chronological_order: 791
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 4
 verses:
 - "[[Dan.6.25]]"
 - "[[Dan.6.26]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Dan.6.28]]"
 ---
 
-[[Dan.6|Daniel 6:25 - Daniel 6:28]]
+<small>[[Dan.6|Daniel 6:25-28]]</small>
 *Darius Honors God*
 
 [[Dan.6.25|25]] Then king Darius wrote unto all people, nations, and languages, that dwell in all the earth; Peace be multiplied unto you.

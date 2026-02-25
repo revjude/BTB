@@ -1,8 +1,56 @@
+---
+title: Joel 3:9
+type: Verse
+kjv: "Proclaim ye this among the Gentiles; Prepare war, wake up the mighty men, let all the men of war draw near; let them come up:"
+bsb: "Proclaim this among the nations: “Prepare for war; rouse the mighty men; let all the men of war advance and attack!"
+hebrew: "קִרְאוּ־ זֹאת֙ בַּגּוֹיִ֔ם קַדְּשׁ֖וּ מִלְחָמָ֑ה הָעִ֙ירוּ֙ הַגִּבּוֹרִ֔ים יִגְּשׁ֣וּ יַֽעֲל֔וּ כֹּ֖ל אַנְשֵׁ֥י הַמִּלְחָמָֽה׃"
+pericope: "[[Joel.3.1 The LORD Judges the Nations|The LORD Judges the Nations]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 3
+book/chapter: "[[Joel.3|Joel 3]]"
+chronological_order: 842
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic JOEL|JOEL]]"
+strongs:
+- "[[H7121I]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H6942G]]"
+- "[[H4421]]"
+- "[[H5782]]"
+- "[[H9009]]"
+- "[[H1368]]"
+- "[[H5066G]]"
+- "[[H5927G]]"
+- "[[H3605]]"
+- "[[H0582]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 3:9**<big><big>[[Joel.3.1 The LORD Judges the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Proclaim ye this among the Gentiles; Prepare war, wake up the mighty men, let all the men of war draw near; let them come up:
 <small><sub>**BSB:**</sub></small>
 Proclaim this among the nations: “Prepare for war; rouse the mighty men; let all the men of war advance and attack!
+<small><sub>**Hebrew:**</sub></small>
+[[H7121I\|קִרְאוּ]][[H9014\|־]] [[H2063\|זֹאת֙]] [[H9003\|בַּ]][[H1471A\|גּוֹיִ֔ם]] [[H6942G\|קַדְּשׁ֖וּ]] [[H4421\|מִלְחָמָ֑ה]] [[H5782\|הָעִ֙ירוּ֙]] [[H9009\|הַ]][[H1368\|גִּבּוֹרִ֔ים]] [[H5066G\|יִגְּשׁ֣וּ]] [[H5927G\|יַֽעֲל֔וּ]] [[H3605\|כֹּ֖ל]] [[H0582\|אַנְשֵׁ֥י]] [[H9009\|הַ]][[H4421\|מִּלְחָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOEL|JOEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.8|<< Joel 3:8]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.10|Joel 3:10 >>]]</td></tr></table>
 

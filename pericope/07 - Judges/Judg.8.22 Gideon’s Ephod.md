@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Gideon’s Ephod
+type: Pericope
 pericope: "[[Judg.8.22 Gideon’s Ephod|Gideon’s Ephod]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 8
 book/chapter: "[[Judg.8|Judges 8]]"
-genre:
+chronological_order: 262
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 6
 verses:
 - "[[Judg.8.22]]"
 - "[[Judg.8.23]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Judg.8.27]]"
 ---
 
-[[Judg.8|Judges 8:22 - Judges 8:27]]
+<small>[[Judg.8|Judges 8:22-27]]</small>
 *Gideon’s Ephod*
 
 [[Judg.8.22|22]] Then the men of Israel said unto Gideon, Rule thou over us, both thou, and thy son, and thy son’s son also: for thou hast delivered us from the hand of Midian.

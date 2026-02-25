@@ -1,8 +1,76 @@
+---
+title: Isaiah 29:13
+type: Verse
+kjv: "Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:"
+bsb: "Therefore the Lord said: “These people draw near to Me with their mouths and honor Me with their lips, but their hearts are far from Me. Their worship of Me is but rules taught by men."
+hebrew: "וַיֹּ֣אמֶר אֲדֹנָ֗י יַ֚עַן כִּ֤י נִגַּשׁ֙ הָעָ֣ם הַזֶּ֔ה בְּפִ֤יו וּבִשְׂפָתָיו֙ כִּבְּד֔וּנִי וְלִבּ֖וֹ רִחַ֣ק מִמֶּ֑נִּי וַתְּהִ֤י יִרְאָתָם֙ אֹתִ֔י מִצְוַ֥ת אֲנָשִׁ֖ים מְלֻמָּדָֽה׃"
+pericope: "[[Isa.29.1 Woe to David’s City|Woe to David’s City]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 29
+book/chapter: "[[Isa.29|Isaiah 29]]"
+chronological_order: 672
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3282]]"
+- "[[H3588A]]"
+- "[[H5066G]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H8193G]]"
+- "[[H3513G]]"
+- "[[H9030]]"
+- "[[H3820A]]"
+- "[[H7368]]"
+- "[[H4480A]]"
+- "[[H1961]]"
+- "[[H3374]]"
+- "[[H9028]]"
+- "[[H0853]]"
+- "[[H4687]]"
+- "[[H0582]]"
+- "[[H3925G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 29:13**<big><big>[[Isa.29.1 Woe to David’s City|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore the Lord said, Forasmuch as this people draw near [me] with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:
 <small><sub>**BSB:**</sub></small>
 Therefore the Lord said: “These people draw near to Me with their mouths and honor Me with their lips, but their hearts are far from Me. Their worship of Me is but rules taught by men.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0136\|אֲדֹנָ֗י]] [[H3282\|יַ֚עַן]] [[H3588A\|כִּ֤י]] [[H5066G\|נִגַּשׁ֙]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9003\|בְּ]][[H6310G\|פִ֤י]][[H9023\|ו]] [[H9002\|וּ]][[H9003\|בִ]][[H8193G\|שְׂפָתָי]][[H9023\|ו֙]] [[H3513G\|כִּבְּד֔וּ]][[H9030\|נִי]] [[H9002\|וְ]][[H3820A\|לִבּ֖]][[H9023\|וֹ]] [[H7368\|רִחַ֣ק]] [[H4480A\|מִמֶּ֑]][[H9030\|נִּי]] [[H9001\|וַ]][[H1961\|תְּהִ֤י]] [[H3374\|יִרְאָתָ]][[H9028\|ם֙]] [[H0853\|אֹתִ֔]][[H9030\|י]] [[H4687\|מִצְוַ֥ת]] [[H0582\|אֲנָשִׁ֖ים]] [[H3925G\|מְלֻמָּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FORMALISM|FORMALISM]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISAIAH|ISAIAH]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REVERENCE|REVERENCE]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.29.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.12|<< Isaiah 29:12]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.14|Isaiah 29:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

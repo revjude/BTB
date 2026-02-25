@@ -1,8 +1,70 @@
+---
+title: 1 Kings 18:1
+type: Verse
+kjv: "And it came to pass after many days, that the word of the LORD came to Elijah in the third year, saying, Go, shew thyself unto Ahab; and I will send rain upon the earth."
+bsb: "After a long time, in the third year of the drought, the word of the LORD came to Elijah: “Go and present yourself to Ahab, and I will send rain upon the face of the earth.”"
+hebrew: "וַיְהִי֙ יָמִ֣ים רַבִּ֔ים וּדְבַר־ יְהוָ֗ה הָיָה֙ אֶל־ אֵ֣לִיָּ֔הוּ בַּשָּׁנָ֥ה הַשְּׁלִישִׁ֖ית לֵאמֹ֑ר לֵ֚ךְ הֵרָאֵ֣ה אֶל־ אַחְאָ֔ב וְאֶתְּנָ֥ה מָטָ֖ר עַל־ פְּנֵ֥י הָאֲדָמָֽה׃"
+pericope: "[[1Kgs.18.1 Elijah’s Message to Ahab|Elijah’s Message to Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 18
+book/chapter: "[[1Kgs.18|1 Kings 18]]"
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3117G]]"
+- "[[H7227A]]"
+- "[[H9002]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H0452G]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H7992]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H1980G]]"
+- "[[H7200G]]"
+- "[[H0256G]]"
+- "[[H5414G]]"
+- "[[H4306]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H0127H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 18:1**<big><big>[[1Kgs.18.1 Elijah’s Message to Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass [after] many days, that the word of the LORD came to Elijah in the third year, saying, Go, shew thyself unto Ahab; and I will send rain upon the earth.
 <small><sub>**BSB:**</sub></small>
 After a long time, in the third year of the drought, the word of the LORD came to Elijah: “Go and present yourself to Ahab, and I will send rain upon the face of the earth.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֙]] [[H3117G\|יָמִ֣ים]] [[H7227A\|רַבִּ֔ים]] [[H9002\|וּ]][[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H1961\|הָיָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0452G\|אֵ֣לִיָּ֔הוּ]] [[H9003\|בַּ]][[H8141\|שָּׁנָ֥ה]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁ֖ית]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H1980G\|לֵ֚ךְ]] [[H7200G\|הֵרָאֵ֣ה]] [[H0413\|אֶל]][[H9014\|־]] [[H0256G\|אַחְאָ֔ב]] [[H9002\|וְ]][[H5414G\|אֶתְּנָ֥ה]] [[H4306\|מָטָ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֥י]] [[H9009\|הָ]][[H0127H\|אֲדָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIJAH|ELIJAH]] • [[topic FAMINE|FAMINE]] • [[topic ISRAEL|ISRAEL]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.17.24|<< 1 Kings 17:24]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.2|1 Kings 18:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

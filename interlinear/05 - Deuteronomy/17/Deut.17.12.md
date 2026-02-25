@@ -1,8 +1,80 @@
+---
+title: Deuteronomy 17:12
+type: Verse
+kjv: "And the man that will do presumptuously, and will not hearken unto the priest that standeth to minister there before the LORD thy God, or unto the judge, even that man shall die: and thou shalt put away the evil from Israel."
+bsb: "But the man who acts presumptuously, refusing to listen either to the priest who stands there to serve the LORD your God, or to the judge, must be put to death. You must purge the evil from Israel."
+hebrew: "וְהָאִ֞ישׁ אֲשֶׁר־ יַעֲשֶׂ֣ה בְזָד֗וֹן לְבִלְתִּ֨י שְׁמֹ֤עַ אֶל־ הַכֹּהֵן֙ הָעֹמֵ֞ד לְשָׁ֤רֶת שָׁם֙ אֶת־ יְהוָ֣ה אֱלֹהֶ֔יךָ א֖וֹ אֶל־ הַשֹּׁפֵ֑ט וּמֵת֙ הָאִ֣ישׁ הַה֔וּא וּבִֽעַרְתָּ֥ הָרָ֖ע מִיִּשְׂרָאֵֽל׃"
+pericope: "[[Deut.17.8 Courts of Law|Courts of Law]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 17
+book/chapter: "[[Deut.17|Deuteronomy 17]]"
+chronological_order: 213
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ASSAULT AND BATTERY|ASSAULT AND BATTERY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COURT|COURT]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H2087]]"
+- "[[H9005]]"
+- "[[H1115]]"
+- "[[H8085H]]"
+- "[[H0413]]"
+- "[[H3548]]"
+- "[[H5975G]]"
+- "[[H8334]]"
+- "[[H8033G]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0176A]]"
+- "[[H8199]]"
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H1931]]"
+- "[[H1197I]]"
+- "[[H7451B]]"
+- "[[H9006]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 17:12**<big><big>[[Deut.17.8 Courts of Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the man that will do presumptuously, and will not hearken unto the priest that standeth to minister there before the LORD thy God, or unto the judge, even that man shall die: and thou shalt put away the evil from Israel.
 <small><sub>**BSB:**</sub></small>
 But the man who acts presumptuously, refusing to listen either to the priest who stands there to serve the LORD your God, or to the judge, must be put to death. You must purge the evil from Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H0376G\|אִ֞ישׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|יַעֲשֶׂ֣ה]] [[H9003\|בְ]][[H2087\|זָד֗וֹן]] [[H9005\|לְ]][[H1115\|בִלְתִּ֨י]] [[H8085H\|שְׁמֹ֤עַ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֵן֙]] [[H9009\|הָ]][[H5975G\|עֹמֵ֞ד]] [[H9005\|לְ]][[H8334\|שָׁ֤רֶת]] [[H8033G\|שָׁם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H0176A\|א֖וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H8199\|שֹּׁפֵ֑ט]] [[H9001\|וּ]][[H4191\|מֵת֙]] [[H9009\|הָ]][[H0376G\|אִ֣ישׁ]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H9001\|וּ]][[H1197I\|בִֽעַרְתָּ֥]] [[H9009\|הָ]][[H7451B\|רָ֖ע]] [[H9006\|מִ]][[H3478\|יִּשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSAULT AND BATTERY|ASSAULT AND BATTERY]] • [[topic CHURCH|CHURCH]] • [[topic COURT|COURT]] • [[topic PRIEST|PRIEST]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.17.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.17.11|<< Deuteronomy 17:11]]</td><td align="center" style="border:none;">[[Deut.17|Deuteronomy 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.17.13|Deuteronomy 17:13 >>]]</td></tr></table>
 

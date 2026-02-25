@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Waters from under the Temple
+type: Pericope
 pericope: "[[Ezek.47.1 Waters from under the Temple|Waters from under the Temple]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 47
 book/chapter: "[[Ezek.47|Ezekiel 47]]"
-genre:
+chronological_order: 838
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 12
 verses:
 - "[[Ezek.47.1]]"
 - "[[Ezek.47.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Ezek.47.12]]"
 ---
 
-[[Ezek.47|Ezekiel 47:1 - Ezekiel 47:12]]
+<small>[[Ezek.47|Ezekiel 47:1-12]]</small>
 *Waters from under the Temple*
 
 [[Ezek.47.1|1]] Afterward he brought me again unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward: for the forefront of the house \[stood toward\] the east, and the waters came down from under from the right side of the house, at the south \[side\] of the altar.

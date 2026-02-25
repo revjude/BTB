@@ -1,8 +1,72 @@
+---
+title: Leviticus 11:26
+type: Verse
+kjv: "The carcases of every beast which divideth the hoof, and is not clovenfooted, nor cheweth the cud, are unclean unto you: every one that toucheth them shall be unclean."
+bsb: "Every animal with hooves not completely divided or that does not chew the cud is unclean for you. Whoever touches any of them will be unclean."
+hebrew: "לְֽכָל־ הַבְּהֵמָ֡ה אֲשֶׁ֣ר הִוא֩ מַפְרֶ֨סֶת פַּרְסָ֜ה וְשֶׁ֣סַע׀ אֵינֶ֣נָּה שֹׁסַ֗עַת וְגֵרָה֙ אֵינֶ֣נָּה מַעֲלָ֔ה טְמֵאִ֥ים הֵ֖ם לָכֶ֑ם כָּל־ הַנֹּגֵ֥עַ בָּהֶ֖ם יִטְמָֽא׃"
+pericope: "[[Lev.11.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 11
+book/chapter: "[[Lev.11|Leviticus 11]]"
+chronological_order: 143
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0929]]"
+- "[[H0834A]]"
+- "[[H1931]]"
+- "[[H6536]]"
+- "[[H6541]]"
+- "[[H9002]]"
+- "[[H8157]]"
+- "[[H9015]]"
+- "[[H0369]]"
+- "[[H9044]]"
+- "[[H8156]]"
+- "[[H1625]]"
+- "[[H5927M]]"
+- "[[H2931]]"
+- "[[H1992]]"
+- "[[H9036]]"
+- "[[H5060]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H2930A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 11:26**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [The carcases] of every beast which divideth the hoof, and [is] not clovenfooted, nor cheweth the cud, [are] unclean unto you: every one that toucheth them shall be unclean.
 <small><sub>**BSB:**</sub></small>
 Every animal with hooves not completely divided or that does not chew the cud is unclean for you. Whoever touches any of them will be unclean.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְֽ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H0929\|בְּהֵמָ֡ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H1931\|הִוא֩]] [[H6536\|מַפְרֶ֨סֶת]] [[H6541\|פַּרְסָ֜ה]] [[H9002\|וְ]][[H8157\|שֶׁ֣סַע]][[H9015\|׀]] [[H0369\|אֵינֶ֣]][[H9044\|נָּה]] [[H8156\|שֹׁסַ֗עַת]] [[H9002\|וְ]][[H1625\|גֵרָה֙]] [[H0369\|אֵינֶ֣]][[H9044\|נָּה]] [[H5927M\|מַעֲלָ֔ה]] [[H2931\|טְמֵאִ֥ים]] [[H1992\|הֵ֖ם]] [[H9005\|לָ]][[H9036\|כֶ֑ם]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H5060\|נֹּגֵ֥עַ]] [[H9003\|בָּ]][[H9038\|הֶ֖ם]] [[H2930A\|יִטְמָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic FOOD|FOOD]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.25|<< Leviticus 11:25]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.27|Leviticus 11:27 >>]]</td></tr></table>
 

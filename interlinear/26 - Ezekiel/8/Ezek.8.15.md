@@ -1,8 +1,59 @@
+---
+title: Ezekiel 8:15
+type: Verse
+kjv: "Then said he unto me, Hast thou seen this, O son of man? turn thee yet again, and thou shalt see greater abominations than these."
+bsb: "“Son of man,” He said to me, “do you see this? Yet you will see even greater abominations than these.”"
+hebrew: "וַיֹּ֥אמֶר אֵלַ֖י הֲרָאִ֣יתָ בֶן־ אָדָ֑ם ע֣וֹד תָּשׁ֥וּב תִּרְאֶ֛ה תּוֹעֵב֥וֹת גְּדֹל֖וֹת מֵאֵֽלֶּה׃"
+pericope: "[[Ezek.8.1 The Vision of Idolatry in the Temple|The Vision of Idolatry in the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 8
+book/chapter: "[[Ezek.8|Ezekiel 8]]"
+chronological_order: 799
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9008]]"
+- "[[H7200G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H5750]]"
+- "[[H7725J]]"
+- "[[H8441]]"
+- "[[H1419A]]"
+- "[[H9006]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 8:15**<big><big>[[Ezek.8.1 The Vision of Idolatry in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said he unto me, Hast thou seen [this], O son of man? turn thee yet again, [and] thou shalt see greater abominations than these.
 <small><sub>**BSB:**</sub></small>
 “Son of man,” He said to me, “do you see this? Yet you will see even greater abominations than these.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H9008\|הֲ]][[H7200G\|רָאִ֣יתָ]] [[H1121A\|בֶן]][[H9014\|־]] [[H0120G\|אָדָ֑ם]] [[H5750\|ע֣וֹד]] [[H7725J\|תָּשׁ֥וּב]] [[H7200G\|תִּרְאֶ֛ה]] [[H8441\|תּוֹעֵב֥וֹת]] [[H1419A\|גְּדֹל֖וֹת]] [[H9006\|מֵ]][[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.8.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.8.14|<< Ezekiel 8:14]]</td><td align="center" style="border:none;">[[Ezek.8|Ezekiel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.8.16|Ezekiel 8:16 >>]]</td></tr></table>
 

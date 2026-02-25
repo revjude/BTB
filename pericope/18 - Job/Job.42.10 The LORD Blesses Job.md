@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Blesses Job
+type: Pericope
 pericope: "[[Job.42.10 The LORD Blesses Job|The LORD Blesses Job]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 42
 book/chapter: "[[Job.42|Job 42]]"
-genre:
+chronological_order: 53
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 8
 verses:
 - "[[Job.42.10]]"
 - "[[Job.42.11]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Job.42.17]]"
 ---
 
-[[Job.42|Job 42:10 - Job 42:17]]
+<small>[[Job.42|Job 42:10-17]]</small>
 *The LORD Blesses Job*
 
 [[Job.42.10|10]] And the LORD turned the captivity of Job, when he prayed for his friends: also the LORD gave Job twice as much as he had before.

@@ -1,10 +1,59 @@
+---
+title: Matthew 5:37
+type: Verse
+kjv: "But let your communication be, Yea, yea; Nay, nay: for whatsoever is more than these cometh of evil."
+bsb: "Simply let your ‘Yes’ be ‘Yes,’ and your ‘No,’ ‘No.’ Anything more comes from the evil one."
+jesus_said: "But let your communication be, Yea, yea; Nay, nay: for whatsoever is more than these cometh of evil."
+greek: "ἔστω δὲ ὁ λόγος ὑμῶν ναὶ ναί, οὒ οὔ· τὸ δὲ περισσὸν τούτων ἐκ τοῦ πονηροῦ ἐστιν.¶"
+pericope: "[[Matt.5.33 Oaths and Vows|Oaths and Vows]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 5
+book/chapter: "[[Matt.5|Matthew 5]]"
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONVERSATION|CONVERSATION]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JUDAISM|JUDAISM]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OATH|OATH]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G4771]]"
+- "[[G3483]]"
+- "[[G3756]]"
+- "[[G4053]]"
+- "[[G3778]]"
+- "[[G1537]]"
+- "[[G4190]]"
+texts:
+- NKO
+---
+
 **Matthew 5:37**<big><big>[[Matt.5.33 Oaths and Vows|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But let your communication be, Yea, yea; Nay, nay: for whatsoever is more than these cometh of evil.
 <small><sub>**BSB:**</sub></small>
 Simply let your ‘Yes’ be ‘Yes,’ and your ‘No,’ ‘No.’ Anything more comes from the evil one.
-<small><sub>**Literal:**</sub></small>
-should be however the statement of you Yes Yes, [and] ‘No ‘No; The however excessive of these from <the> evil comes.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.36|<< Matthew 5:36]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.38|Matthew 5:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἔστω]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G3056\|λόγος]]  [[G4771\|ὑμῶν]]  [[G3483\|ναὶ]]  [[G3483\|ναί,]]  [[G3756\|οὒ]]  [[G3756\|οὔ·]]  [[G3588\|τὸ]]  [[G1161\|δὲ]]  [[G4053\|περισσὸν]]  [[G3778\|τούτων]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4190\|πονηροῦ]]  [[G1510\|ἐστιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONVERSATION|CONVERSATION]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JUDAISM|JUDAISM]] • [[topic LAW|LAW]] • [[topic OATH|OATH]] • [[topic RELIGION|RELIGION]] • [[topic SPEAKING|SPEAKING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.36|<< Matthew 5:36]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.38|Matthew 5:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

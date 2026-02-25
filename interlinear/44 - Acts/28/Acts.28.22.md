@@ -1,10 +1,59 @@
+---
+title: Acts 28:22
+type: Verse
+kjv: "But we desire to hear of thee what thou thinkest: for as concerning this sect, we know that every where it is spoken against."
+bsb: "But we consider your views worth hearing, because we know that people everywhere are speaking against this sect.”"
+greek: "ἀξιοῦμεν δὲ παρὰ σοῦ ἀκοῦσαι ἃ φρονεῖς· περὶ μὲν γὰρ τῆς αἱρέσεως ταύτης γνωστὸν ἡμῖν ἐστιν ὅτι πανταχοῦ ἀντιλέγεται.¶"
+pericope: "[[Acts.28.16 Paul Preaches at Rome|Paul Preaches at Rome]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 28
+book/chapter: "[[Acts.28|Acts 28]]"
+chronological_order: 1110
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic PAUL|PAUL]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[G0515]]"
+- "[[G1161]]"
+- "[[G3844]]"
+- "[[G4771]]"
+- "[[G0191]]"
+- "[[G3739]]"
+- "[[G5426]]"
+- "[[G4012]]"
+- "[[G3303]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G0139]]"
+- "[[G3778]]"
+- "[[G1110]]"
+- "[[G3165]]"
+- "[[G1510]]"
+- "[[G3754G]]"
+- "[[G3837]]"
+- "[[G0483]]"
+texts:
+- NKO
+---
+
 **Acts 28:22**<big><big>[[Acts.28.16 Paul Preaches at Rome|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But we desire to hear of thee what thou thinkest: for as concerning this sect, we know that every where it is spoken against.
 <small><sub>**BSB:**</sub></small>
 But we consider your views worth hearing, because we know that people everywhere are speaking against this sect.”
-<small><sub>**Literal:**</sub></small>
-We deem it worthy however from you to hear what you think; concerning truly for <the> sect this known to us it is that everywhere it is spoken against.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.21|<< Acts 28:21]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.23|Acts 28:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0515\|ἀξιοῦμεν]]  [[G1161\|δὲ]]  [[G3844\|παρὰ]]  [[G4771\|σοῦ]]  [[G0191\|ἀκοῦσαι]]  [[G3739\|ἃ]]  [[G5426\|φρονεῖς·]]  [[G4012\|περὶ]]  [[G3303\|μὲν]]  [[G1063\|γὰρ]]  [[G3588\|τῆς]]  [[G0139\|αἱρέσεως]]  [[G3778\|ταύτης]]  [[G1110\|γνωστὸν]]  [[G3165\|ἡμῖν]]  [[G1510\|ἐστιν]]  [[G3754G\|ὅτι]]  [[G3837\|πανταχοῦ]]  [[G0483\|ἀντιλέγεται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PAUL|PAUL]] • [[topic PERSECUTION|PERSECUTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.21|<< Acts 28:21]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.23|Acts 28:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

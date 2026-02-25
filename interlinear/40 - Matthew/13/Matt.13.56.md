@@ -1,10 +1,52 @@
+---
+title: Matthew 13:56
+type: Verse
+kjv: "And his sisters, are they not all with us? Whence then hath this man all these things?"
+bsb: "Aren’t all His sisters with us as well? Where then did this man get all these things?”"
+greek: "καὶ αἱ ἀδελφαὶ αὐτοῦ οὐχὶ πᾶσαι πρὸς ἡμᾶς εἰσιν; πόθεν οὖν τούτῳ ταῦτα πάντα;"
+pericope: "[[Matt.13.53 The Rejection at Nazareth|The Rejection at Nazareth]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 13
+book/chapter: "[[Matt.13|Matthew 13]]"
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0079]]"
+- "[[G0846]]"
+- "[[G3780]]"
+- "[[G3956]]"
+- "[[G4314]]"
+- "[[G3165]]"
+- "[[G1510]]"
+- "[[G4159]]"
+- "[[G3767]]"
+- "[[G3778]]"
+texts:
+- NKO
+---
+
 **Matthew 13:56**<big><big>[[Matt.13.53 The Rejection at Nazareth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And his sisters, are they not all with us? Whence then hath this [man] all these things?
 <small><sub>**BSB:**</sub></small>
 Aren’t all His sisters with us as well? Where then did this man get all these things?”
-<small><sub>**Literal:**</sub></small>
-And the sisters of Him surely all with us are? From where then to this [man] these things all?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.55|<< Matthew 13:55]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.57|Matthew 13:57 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G0079\|ἀδελφαὶ]]  [[G0846\|αὐτοῦ]]  [[G3780\|οὐχὶ]]  [[G3956\|πᾶσαι]]  [[G4314\|πρὸς]]  [[G3165\|ἡμᾶς]]  [[G1510\|εἰσιν;]]  [[G4159\|πόθεν]]  [[G3767\|οὖν]]  [[G3778\|τούτῳ]]  [[G3778\|ταῦτα]]  [[G3956\|πάντα;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.55|<< Matthew 13:55]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.57|Matthew 13:57 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

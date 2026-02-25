@@ -1,8 +1,64 @@
+---
+title: Nehemiah 5:17
+type: Verse
+kjv: "Moreover there were at my table an hundred and fifty of the Jews and rulers, beside those that came unto us from among the heathen that are about us."
+bsb: "There were 150 Jews and officials at my table, besides the guests from the surrounding nations."
+hebrew: "וְהַיְּהוּדִ֨ים וְהַסְּגָנִ֜ים מֵאָ֧ה וַחֲמִשִּׁ֣ים אִ֗ישׁ וְהַבָּאִ֥ים אֵלֵ֛ינוּ מִן־ הַגּוֹיִ֥ם אֲשֶׁר־ סְבִיבֹתֵ֖ינוּ עַל־ שֻׁלְחָנִֽי׃"
+pericope: "[[Neh.5.14 Nehemiah’s Generosity|Nehemiah’s Generosity]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 5
+book/chapter: "[[Neh.5|Nehemiah 5]]"
+chronological_order: 917
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3064]]"
+- "[[H5461]]"
+- "[[H3967]]"
+- "[[H2572]]"
+- "[[H0376G]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9035]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H1471A]]"
+- "[[H0834A]]"
+- "[[H5439G]]"
+- "[[H5921A]]"
+- "[[H7979]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 5:17**<big><big>[[Neh.5.14 Nehemiah’s Generosity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover [there were] at my table an hundred and fifty of the Jews and rulers, beside those that came unto us from among the heathen that [are] about us.
 <small><sub>**BSB:**</sub></small>
 There were 150 Jews and officials at my table, besides the guests from the surrounding nations.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H3064\|יְּהוּדִ֨ים]] [[H9002\|וְ]][[H9009\|הַ]][[H5461\|סְּגָנִ֜ים]] [[H3967\|מֵאָ֧ה]] [[H9002\|וַ]][[H2572\|חֲמִשִּׁ֣ים]] [[H0376G\|אִ֗ישׁ]] [[H9002\|וְ]][[H9009\|הַ]][[H0935G\|בָּאִ֥ים]] [[H0413\|אֵלֵ֛י]][[H9035\|נוּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֥ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5439G\|סְבִיבֹתֵ֖י]][[H9035\|נוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H7979\|שֻׁלְחָנִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTRY|COUNTRY]] • [[topic EXAMPLE|EXAMPLE]] • [[topic INTEGRITY|INTEGRITY]] • [[topic KINDNESS|KINDNESS]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.5.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.5.16|<< Nehemiah 5:16]]</td><td align="center" style="border:none;">[[Neh.5|Nehemiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.18|Nehemiah 5:18 >>]]</td></tr></table>
 

@@ -1,10 +1,59 @@
+---
+title: Acts 19:32
+type: Verse
+kjv: "Some therefore cried one thing, and some another: for the assembly was confused; and the more part knew not wherefore they were come together."
+bsb: "Meanwhile the assembly was in turmoil. Some were shouting one thing and some another, and most of them did not even know why they were there."
+greek: "ἄλλοι μὲν οὖν ἄλλο τι ἔκραζον· ἦν γὰρ ἡ ἐκκλησία συγκεχυμένη, καὶ οἱ πλείους οὐκ ᾔδεισαν τίνος ἕνεκα συνεληλύθεισαν."
+pericope: "[[Acts.19.21 The Riot in Ephesus|The Riot in Ephesus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DEMETRIUS|DEMETRIUS]]"
+- "[[topic MOB|MOB]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[G0243]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G5100]]"
+- "[[G2896]]"
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G1577]]"
+- "[[G4797]]"
+- "[[G2532]]"
+- "[[G4183]]"
+- "[[G3756]]"
+- "[[G1492I]]"
+- "[[G5101]]"
+- "[[G1752]]"
+- "[[G4905]]"
+texts:
+- NKO
+---
+
 **Acts 19:32**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Some therefore cried one thing, and some another: for the assembly was confused; and the more part knew not wherefore they were come together.
 <small><sub>**BSB:**</sub></small>
 Meanwhile the assembly was in turmoil. Some were shouting one thing and some another, and most of them did not even know why they were there.
-<small><sub>**Literal:**</sub></small>
-Others indeed therefore some thing were crying out; was for the assembly confused, and <the> most not did know for what cause they had assembled.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.31|<< Acts 19:31]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.33|Acts 19:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0243\|ἄλλοι]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G0243\|ἄλλο]]  [[G5100\|τι]]  [[G2896\|ἔκραζον·]]  [[G1510\|ἦν]]  [[G1063\|γὰρ]]  [[G3588\|ἡ]]  [[G1577\|ἐκκλησία]]  [[G4797\|συγκεχυμένη,]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4183\|πλείους]]  [[G3756\|οὐκ]]  [[G1492I\|ᾔδεισαν]]  [[G5101\|τίνος]]  [[G1752\|ἕνεκα]]  [[G4905\|συνεληλύθεισαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMETRIUS|DEMETRIUS]] • [[topic MOB|MOB]] • [[topic PAUL|PAUL]] • [[topic PRUDENCE|PRUDENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.31|<< Acts 19:31]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.33|Acts 19:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

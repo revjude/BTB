@@ -1,8 +1,60 @@
+---
+title: Numbers 3:19
+type: Verse
+kjv: "And the sons of Kohath by their families; Amram, and Izehar, Hebron, and Uzziel."
+bsb: "The sons of Kohath by their clans were Amram, Izhar, Hebron, and Uzziel."
+hebrew: "וּבְנֵ֥י קְהָ֖ת לְמִשְׁפְּחֹתָ֑ם עַמְרָ֣ם וְיִצְהָ֔ר חֶבְר֖וֹן וְעֻזִּיאֵֽל׃"
+pericope: "[[Num.3.14 The Numbering of the Levites|The Numbering of the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMRAM|AMRAM]]"
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic GERSHON|GERSHON]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic KOHATH|KOHATH]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H6955]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H6019G]]"
+- "[[H3324]]"
+- "[[H2275B]]"
+- "[[H5816G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 3:19**<big><big>[[Num.3.14 The Numbering of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Kohath by their families; Amram, and Izehar, Hebron, and Uzziel.
 <small><sub>**BSB:**</sub></small>
 The sons of Kohath by their clans were Amram, Izhar, Hebron, and Uzziel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בְנֵ֥י]] [[H6955\|קְהָ֖ת]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָ֑]][[H9028\|ם]] [[H6019G\|עַמְרָ֣ם]] [[H9002\|וְ]][[H3324\|יִצְהָ֔ר]] [[H2275B\|חֶבְר֖וֹן]] [[H9002\|וְ]][[H5816G\|עֻזִּיאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMRAM|AMRAM]] • [[topic CENSUS|CENSUS]] • [[topic GERSHON|GERSHON]] • [[topic HEBRON|HEBRON]] • [[topic KOHATH|KOHATH]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.18|<< Numbers 3:18]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.20|Numbers 3:20 >>]]</td></tr></table>
 

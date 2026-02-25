@@ -1,8 +1,63 @@
+---
+title: Judges 15:12
+type: Verse
+kjv: "And they said unto him, We are come down to bind thee, that we may deliver thee into the hand of the Philistines. And Samson said unto them, Swear unto me, that ye will not fall upon me yourselves."
+bsb: "But they said to him, “We have come down to arrest you and hand you over to the Philistines.” Samson replied, “Swear to me that you will not kill me yourselves.”"
+hebrew: "וַיֹּ֤אמְרוּ לוֹ֙ לֶאֱסָרְךָ֣ יָרַ֔דְנוּ לְתִתְּךָ֖ בְּיַד־ פְּלִשְׁתִּ֑ים וַיֹּ֤אמֶר לָהֶם֙ שִׁמְשׁ֔וֹן הִשָּׁבְע֣וּ לִ֔י פֶּֽן־ תִּפְגְּע֥וּן בִּ֖י אַתֶּֽם׃"
+pericope: "[[Judg.15.1 Samson’s Revenge|Samson’s Revenge]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 15
+book/chapter: "[[Judg.15|Judges 15]]"
+chronological_order: 269
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ETAM|ETAM]]"
+- "[[topic LEHI|LEHI]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0631]]"
+- "[[H9031]]"
+- "[[H3381]]"
+- "[[H5414G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9014]]"
+- "[[H6430G]]"
+- "[[H9038]]"
+- "[[H8123]]"
+- "[[H7650]]"
+- "[[H9030]]"
+- "[[H6435]]"
+- "[[H6293]]"
+- "[[H9013]]"
+- "[[H0859D]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 15:12**<big><big>[[Judg.15.1 Samson’s Revenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said unto him, We are come down to bind thee, that we may deliver thee into the hand of the Philistines. And Samson said unto them, Swear unto me, that ye will not fall upon me yourselves.
 <small><sub>**BSB:**</sub></small>
 But they said to him, “We have come down to arrest you and hand you over to the Philistines.” Samson replied, “Swear to me that you will not kill me yourselves.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמְרוּ]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9005\|לֶ]][[H0631\|אֱסָרְ]][[H9031\|ךָ֣]] [[H3381\|יָרַ֔דְנוּ]] [[H9005\|לְ]][[H5414G\|תִתְּ]][[H9031\|ךָ֖]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H6430G\|פְּלִשְׁתִּ֑ים]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H8123\|שִׁמְשׁ֔וֹן]] [[H7650\|הִשָּׁבְע֣וּ]] [[H9005\|לִ֔]][[H9030\|י]] [[H6435\|פֶּֽן]][[H9014\|־]] [[H6293\|תִּפְגְּע֥וּ]][[H9013\|ן]] [[H9003\|בִּ֖]][[H9030\|י]] [[H0859D\|אַתֶּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ETAM|ETAM]] • [[topic LEHI|LEHI]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.15.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.15.11|<< Judges 15:11]]</td><td align="center" style="border:none;">[[Judg.15|Judges 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.15.13|Judges 15:13 >>]]</td></tr></table>
 

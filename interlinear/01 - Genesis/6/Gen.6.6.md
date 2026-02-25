@@ -1,8 +1,66 @@
+---
+title: Genesis 6:6
+type: Verse
+kjv: "And it repented the LORD that he had made man on the earth, and it grieved him at his heart."
+bsb: "And the LORD regretted that He had made man on the earth, and He was grieved in His heart."
+hebrew: "וַיִּנָּ֣חֶם יְהוָ֔ה כִּֽי־ עָשָׂ֥ה אֶת־ הָֽאָדָ֖ם בָּאָ֑רֶץ וַיִּתְעַצֵּ֖ב אֶל־ לִבּֽוֹ׃"
+pericope: "[[Gen.6.1 Corruption on the Earth|Corruption on the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 6
+book/chapter: "[[Gen.6|Genesis 6]]"
+chronological_order: 6
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANTEDILUVIANS|ANTEDILUVIANS]]"
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5162H]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H6087A]]"
+- "[[H0413]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 6:6**<big><big>[[Gen.6.1 Corruption on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it repented the LORD that he had made man on the earth, and it grieved him at his heart.
 <small><sub>**BSB:**</sub></small>
 And the LORD regretted that He had made man on the earth, and He was grieved in His heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5162H\|יִּנָּ֣חֶם]] [[H3068G\|יְהוָ֔ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6213H\|עָשָׂ֥ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H0120G\|אָדָ֖ם]] [[H9003\|בָּ]][[H0776G\|אָ֑רֶץ]] [[H9001\|וַ]][[H6087A\|יִּתְעַצֵּ֖ב]] [[H0413\|אֶל]][[H9014\|־]] [[H3820A\|לִבּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTEDILUVIANS|ANTEDILUVIANS]] • [[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REPROBACY|REPROBACY]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.6.5|<< Genesis 6:5]]</td><td align="center" style="border:none;">[[Gen.6|Genesis 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.6.7|Genesis 6:7 >>]]</td></tr></table>
 

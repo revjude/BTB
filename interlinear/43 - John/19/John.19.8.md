@@ -1,10 +1,53 @@
+---
+title: John 19:8
+type: Verse
+kjv: "When Pilate therefore heard that saying, he was the more afraid;"
+bsb: "When Pilate heard this statement, he was even more afraid,"
+greek: "Ὅτε οὖν ἤκουσεν ὁ Πιλᾶτος τοῦτον τὸν λόγον μᾶλλον ἐφοβήθη"
+pericope: "[[John.19.1 The Soldiers Mock Jesus|The Soldiers Mock Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic DEMAGOGISM|DEMAGOGISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KING|KING]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic POLITICS|POLITICS]]"
+strongs:
+- "[[G3753]]"
+- "[[G3767]]"
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[G4091]]"
+- "[[G3778]]"
+- "[[G3056]]"
+- "[[G3123G]]"
+- "[[G5399]]"
+texts:
+- NKO
+---
+
 **John 19:8**<big><big>[[John.19.1 The Soldiers Mock Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When Pilate therefore heard that saying, he was the more afraid;
 <small><sub>**BSB:**</sub></small>
 When Pilate heard this statement, he was even more afraid,
-<small><sub>**Literal:**</sub></small>
-When therefore heard <the> Pilate this <the> word [the] more he was afraid<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.7|<< John 19:7]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.9|John 19:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3753\|Ὅτε]]  [[G3767\|οὖν]]  [[G0191\|ἤκουσεν]]  [[G3588\|ὁ]]  [[G4091\|Πιλᾶτος]]  [[G3778\|τοῦτον]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3123G\|μᾶλλον]]  [[G5399\|ἐφοβήθη]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMAGOGISM|DEMAGOGISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KING|KING]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic POLITICS|POLITICS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.7|<< John 19:7]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.9|John 19:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

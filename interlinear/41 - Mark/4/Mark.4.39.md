@@ -1,10 +1,59 @@
+---
+title: Mark 4:39
+type: Verse
+kjv: "And he arose, and rebuked the wind, and said unto the sea, Peace, be still. And the wind ceased, and there was a great calm."
+bsb: "Then Jesus got up and rebuked the wind and the sea. “Silence!” He commanded. “Be still!” And the wind died down, and it was perfectly calm."
+jesus_said: "Peace, be still."
+greek: "καὶ διεγερθεὶς ἐπετίμησεν τῷ ἀνέμῳ καὶ εἶπεν τῇ θαλάσσῃ· σιώπα, πεφίμωσο. καὶ ἐκόπασεν ὁ ἄνεμος, καὶ ἐγένετο γαλήνη μεγάλη.¶"
+pericope: "[[Mark.4.35 Jesus Calms the Storm|Jesus Calms the Storm]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 4
+book/chapter: "[[Mark.4|Mark 4]]"
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SEA|SEA]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1326]]"
+- "[[G2008]]"
+- "[[G3588]]"
+- "[[G0417]]"
+- "[[G2036]]"
+- "[[G2281]]"
+- "[[G4623]]"
+- "[[G5392]]"
+- "[[G2869]]"
+- "[[G1096]]"
+- "[[G1055]]"
+- "[[G3173]]"
+texts:
+- NKO
+---
+
 **Mark 4:39**<big><big>[[Mark.4.35 Jesus Calms the Storm|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he arose, and rebuked the wind, and said unto the sea, Peace, be still. And the wind ceased, and there was a great calm.
 <small><sub>**BSB:**</sub></small>
 Then Jesus got up and rebuked the wind and the sea. “Silence!” He commanded. “Be still!” And the wind died down, and it was perfectly calm.
-<small><sub>**Literal:**</sub></small>
-And having been awoken He rebuked the wind and said to the sea; Silence! you must be still! And abated the wind, and there was a calm great.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.38|<< Mark 4:38]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.40|Mark 4:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1326\|διεγερθεὶς]]  [[G2008\|ἐπετίμησεν]]  [[G3588\|τῷ]]  [[G0417\|ἀνέμῳ]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G3588\|τῇ]]  [[G2281\|θαλάσσῃ·]]  [[G4623\|σιώπα,]]  [[G5392\|πεφίμωσο.]]  [[G2532\|καὶ]]  [[G2869\|ἐκόπασεν]]  [[G3588\|ὁ]]  [[G0417\|ἄνεμος,]]  [[G2532\|καὶ]]  [[G1096\|ἐγένετο]]  [[G1055\|γαλήνη]]  [[G3173\|μεγάλη.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SEA|SEA]] • [[topic TROUBLE|TROUBLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.38|<< Mark 4:38]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.40|Mark 4:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

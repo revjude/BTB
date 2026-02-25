@@ -1,8 +1,70 @@
+---
+title: Jeremiah 46:2
+type: Verse
+kjv: "Against Egypt, against the army of Pharaohnecho king of Egypt, which was by the river Euphrates in Carchemish, which Nebuchadrezzar king of Babylon smote in the fourth year of Jehoiakim the son of Josiah king of Judah."
+bsb: "concerning Egypt and the army of Pharaoh Neco king of Egypt, which was defeated at Carchemish on the Euphrates River by Nebuchadnezzar king of Babylon in the fourth year of Jehoiakim the son of Josiah king of Judah:"
+hebrew: "לְמִצְרַ֗יִם עַל־ חֵ֨יל פַּרְעֹ֤ה נְכוֹ֙ מֶ֣לֶךְ מִצְרַ֔יִם אֲשֶׁר־ הָיָ֥ה עַל־ נְהַר־ פְּרָ֖ת בְּכַרְכְּמִ֑שׁ אֲשֶׁ֣ר הִכָּ֗ה נְבֽוּכַדְרֶאצַּר֙ מֶ֣לֶךְ בָּבֶ֔ל בִּשְׁנַת֙ הָֽרְבִיעִ֔ית לִיהוֹיָקִ֥ים בֶּן־ יֹאשִׁיָּ֖הוּ מֶ֥לֶךְ יְהוּדָֽה׃"
+pericope: "[[Jer.46.1 Judgment on Egypt|Judgment on Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 46
+book/chapter: "[[Jer.46|Jeremiah 46]]"
+chronological_order: 769
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CARCHEMISH|CARCHEMISH]]"
+- "[[topic EUPHRATES|EUPHRATES]]"
+- "[[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]"
+- "[[topic PHARAOH|PHARAOH]]"
+strongs:
+- "[[H9005]]"
+- "[[H4714G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2428A]]"
+- "[[H6547Q]]"
+- "[[H5224H]]"
+- "[[H4428G]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H5104H]]"
+- "[[H6578]]"
+- "[[H9003]]"
+- "[[H3751]]"
+- "[[H5221]]"
+- "[[H5019]]"
+- "[[H0894]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H7243]]"
+- "[[H3079]]"
+- "[[H1121A]]"
+- "[[H2977G]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 46:2**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Against Egypt, against the army of Pharaohnecho king of Egypt, which was by the river Euphrates in Carchemish, which Nebuchadrezzar king of Babylon smote in the fourth year of Jehoiakim the son of Josiah king of Judah.
 <small><sub>**BSB:**</sub></small>
 concerning Egypt and the army of Pharaoh Neco king of Egypt, which was defeated at Carchemish on the Euphrates River by Nebuchadnezzar king of Babylon in the fourth year of Jehoiakim the son of Josiah king of Judah:
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H4714G\|מִצְרַ֗יִם]] [[H5921A\|עַל]][[H9014\|־]] [[H2428A\|חֵ֨יל]] [[H6547Q\|פַּרְעֹ֤ה]] [[H5224H\|נְכוֹ֙]] [[H4428G\|מֶ֣לֶךְ]] [[H4714G\|מִצְרַ֔יִם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1961\|הָיָ֥ה]] [[H5921A\|עַל]][[H9014\|־]] [[H5104H\|נְהַר]][[H9014\|־]] [[H6578\|פְּרָ֖ת]] [[H9003\|בְּ]][[H3751\|כַרְכְּמִ֑שׁ]] [[H0834A\|אֲשֶׁ֣ר]] [[H5221\|הִכָּ֗ה]] [[H5019\|נְבֽוּכַדְרֶאצַּר֙]] [[H4428G\|מֶ֣לֶךְ]] [[H0894\|בָּבֶ֔ל]] [[H9003\|בִּ]][[H8141\|שְׁנַת֙]] [[H9009\|הָֽ]][[H7243\|רְבִיעִ֔ית]] [[H9005\|לִ]][[H3079\|יהוֹיָקִ֥ים]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2977G\|יֹאשִׁיָּ֖הוּ]] [[H4428G\|מֶ֥לֶךְ]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARCHEMISH|CARCHEMISH]] • [[topic EUPHRATES|EUPHRATES]] • [[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]] • [[topic PHARAOH|PHARAOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.1|<< Jeremiah 46:1]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.3|Jeremiah 46:3 >>]]</td></tr></table>
 

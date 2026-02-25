@@ -1,8 +1,67 @@
+---
+title: 1 Kings 16:19
+type: Verse
+kjv: "For his sins which he sinned in doing evil in the sight of the LORD, in walking in the way of Jeroboam, and in his sin which he did, to make Israel to sin."
+bsb: "because of the sins he had committed, doing evil in the sight of the LORD and following the example of Jeroboam and the sin he had committed and had caused Israel to commit."
+hebrew: "עַל־ חַטֹּאתָיו֙ אֲשֶׁ֣ר חָטָ֔א לַעֲשׂ֥וֹת הָרַ֖ע בְּעֵינֵ֣י יְהוָ֑ה לָלֶ֙כֶת֙ בְּדֶ֣רֶךְ יָרָבְעָ֔ם וּבְחַטָּאתוֹ֙ אֲשֶׁ֣ר עָשָׂ֔ה לְהַחֲטִ֖יא אֶת־ יִשְׂרָאֵֽל׃"
+pericope: "[[1Kgs.16.15 Zimri Reigns in Israel|Zimri Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 16
+book/chapter: "[[1Kgs.16|1 Kings 16]]"
+chronological_order: 555
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OMRI|OMRI]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic ZIMRI|ZIMRI]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2403B]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H2398]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H1980I]]"
+- "[[H1870G]]"
+- "[[H3379G]]"
+- "[[H9002]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Kings 16:19**<big><big>[[1Kgs.16.15 Zimri Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For his sins which he sinned in doing evil in the sight of the LORD, in walking in the way of Jeroboam, and in his sin which he did, to make Israel to sin.
 <small><sub>**BSB:**</sub></small>
 because of the sins he had committed, doing evil in the sight of the LORD and following the example of Jeroboam and the sin he had committed and had caused Israel to commit.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H2403B\|חַטֹּאתָי]][[H9023\|ו֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H2398\|חָטָ֔א]] [[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H9009\|הָ]][[H7451H\|רַ֖ע]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9005\|לָ]][[H1980I\|לֶ֙כֶת֙]] [[H9003\|בְּ]][[H1870G\|דֶ֣רֶךְ]] [[H3379G\|יָרָבְעָ֔ם]] [[H9002\|וּ]][[H9003\|בְ]][[H2403B\|חַטָּאת]][[H9023\|וֹ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213H\|עָשָׂ֔ה]] [[H9005\|לְ]][[H2398\|הַחֲטִ֖יא]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGMENTS|JUDGMENTS]] • [[topic OMRI|OMRI]] • [[topic RULERS|RULERS]] • [[topic ZIMRI|ZIMRI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.16.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.18|<< 1 Kings 16:18]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.20|1 Kings 16:20 >>]]</td></tr></table>
 
@@ -27,7 +86,7 @@ because of the sins he had committed, doing evil in the sight of the LORD and fo
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.18|<< 1 Kings 16:18]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.20|1 Kings 16:20 >>]]</td></tr></table>
 
-[^1]: sin his  | **<big>[[H9023|וֹ]]</big><big>[[H2403B|חַטָּאת]]</big> ** | cha.ta.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: sin his  | **<big>[[H9023|וֹ]]</big><big>[[H2403B|חַטָּאת]]</big> ** | cha.ta.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: sin his  | **<big>[[H2403B|חַטָּאת]]</big><big>[[H9023|וֹ]]</big> ** | cha.ta.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: sin his  | **<big>[[H2403B|חַטָּאת]]</big><big>[[H9023|וֹ]]</big> ** | cha.ta.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>חַטֹּאתָו֙</big></span>**
 

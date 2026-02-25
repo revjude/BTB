@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Love Your Neighbor
+type: Pericope
 pericope: "[[Lev.19.9 Love Your Neighbor|Love Your Neighbor]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 19
 book/chapter: "[[Lev.19|Leviticus 19]]"
-genre:
+chronological_order: 151
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 10
 verses:
 - "[[Lev.19.9]]"
 - "[[Lev.19.10]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Lev.19.18]]"
 ---
 
-[[Lev.19|Leviticus 19:9 - Leviticus 19:18]]
+<small>[[Lev.19|Leviticus 19:9-18]]</small>
 *Love Your Neighbor*
 
 [[Lev.19.9|9]] And when ye reap the harvest of your land, thou shalt not wholly reap the corners of thy field, neither shalt thou gather the gleanings of thy harvest.

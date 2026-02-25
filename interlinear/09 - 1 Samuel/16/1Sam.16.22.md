@@ -1,8 +1,62 @@
+---
+title: 1 Samuel 16:22
+type: Verse
+kjv: "And Saul sent to Jesse, saying, Let David, I pray thee, stand before me; for he hath found favour in my sight."
+bsb: "Then Saul sent word to Jesse, saying, “Let David remain in my service, for I am pleased with him.”"
+hebrew: "וַיִּשְׁלַ֣ח שָׁא֔וּל אֶל־ יִשַׁ֖י לֵאמֹ֑ר יַעֲמָד־ נָ֤א דָוִד֙ לְפָנַ֔י כִּֽי־ מָ֥צָא חֵ֖ן בְּעֵינָֽי׃"
+pericope: "[[1Sam.16.14 David Serves Saul|David Serves Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 16
+book/chapter: "[[1Sam.16|1 Samuel 16]]"
+chronological_order: 295
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic JESSE|JESSE]]"
+- "[[topic SAUL|SAUL]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H7586G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3448]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H5975G]]"
+- "[[H4994]]"
+- "[[H1732]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H4672]]"
+- "[[H2580]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 16:22**<big><big>[[1Sam.16.14 David Serves Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul sent to Jesse, saying, Let David, I pray thee, stand before me; for he hath found favour in my sight.
 <small><sub>**BSB:**</sub></small>
 Then Saul sent word to Jesse, saying, “Let David remain in my service, for I am pleased with him.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֣ח]] [[H7586G\|שָׁא֔וּל]] [[H0413\|אֶל]][[H9014\|־]] [[H3448\|יִשַׁ֖י]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H5975G\|יַעֲמָד]][[H9014\|־]] [[H4994\|נָ֤א]] [[H1732\|דָוִד֙]] [[H9005\|לְ]][[H6440G\|פָנַ֔]][[H9020\|י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4672\|מָ֥צָא]] [[H2580\|חֵ֖ן]] [[H9003\|בְּ]][[H5869H\|עֵינָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic DEMONS|DEMONS]] • [[topic JESSE|JESSE]] • [[topic SAUL|SAUL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.16.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.16.21|<< 1 Samuel 16:21]]</td><td align="center" style="border:none;">[[1Sam.16|1 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.16.23|1 Samuel 16:23 >>]]</td></tr></table>
 

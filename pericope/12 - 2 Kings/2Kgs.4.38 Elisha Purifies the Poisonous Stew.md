@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Elisha Purifies the Poisonous Stew
+type: Pericope
 pericope: "[[2Kgs.4.38 Elisha Purifies the Poisonous Stew|Elisha Purifies the Poisonous Stew]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 4
 book/chapter: "[[2Kgs.4|2 Kings 4]]"
-genre:
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 4
 verses:
 - "[[2Kgs.4.38]]"
 - "[[2Kgs.4.39]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Kgs.4.41]]"
 ---
 
-[[2Kgs.4|2 Kings 4:38 - 2 Kings 4:41]]
+<small>[[2Kgs.4|2 Kings 4:38-41]]</small>
 *Elisha Purifies the Poisonous Stew*
 
 [[2Kgs.4.38|38]] And Elisha came again to Gilgal: and \[there was\] a dearth in the land; and the sons of the prophets \[were\] sitting before him: and he said unto his servant, Set on the great pot, and seethe pottage for the sons of the prophets.

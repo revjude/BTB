@@ -1,8 +1,74 @@
+---
+title: Jeremiah 52:4
+type: Verse
+kjv: "And it came to pass in the ninth year of his reign, in the tenth month, in the tenth day of the month, that Nebuchadrezzar king of Babylon came, he and all his army, against Jerusalem, and pitched against it, and built forts against it round about."
+bsb: "So in the ninth year of Zedekiah’s reign, on the tenth day of the tenth month, Nebuchadnezzar king of Babylon marched against Jerusalem with his entire army. They encamped outside the city and built a siege wall all around it."
+hebrew: "וַיְהִי֩ בַשָּׁנָ֨ה הַתְּשִׁעִ֜ית לְמָלְכ֗וֹ בַּחֹ֣דֶשׁ הָעֲשִׂירִי֮ בֶּעָשׂ֣וֹר לַחֹדֶשׁ֒ בָּ֠א נְבוּכַדְרֶאצַּ֨ר מֶֽלֶךְ־ בָּבֶ֜ל ה֤וּא וְכָל־ חֵילוֹ֙ עַל־ יְר֣וּשָׁלִַ֔ם וַֽיַּחֲנ֖וּ עָלֶ֑יהָ וַיִּבְנ֥וּ עָלֶ֛יהָ דָּיֵ֖ק סָבִֽיב׃"
+pericope: "[[Jer.52.1 The Fall of Jerusalem Recounted|The Fall of Jerusalem Recounted]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 52
+book/chapter: "[[Jer.52|Jeremiah 52]]"
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H8671]]"
+- "[[H9005]]"
+- "[[H4427A]]"
+- "[[H9033]]"
+- "[[H2320G]]"
+- "[[H6224]]"
+- "[[H6218]]"
+- "[[H0935G]]"
+- "[[H5019]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H0894]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H2428A]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H3389]]"
+- "[[H2583]]"
+- "[[H9034]]"
+- "[[H1129]]"
+- "[[H1785]]"
+- "[[H5439G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 52:4**<big><big>[[Jer.52.1 The Fall of Jerusalem Recounted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the ninth year of his reign, in the tenth month, in the tenth [day] of the month, [that] Nebuchadrezzar king of Babylon came, he and all his army, against Jerusalem, and pitched against it, and built forts against it round about.
 <small><sub>**BSB:**</sub></small>
 So in the ninth year of Zedekiah’s reign, on the tenth day of the tenth month, Nebuchadnezzar king of Babylon marched against Jerusalem with his entire army. They encamped outside the city and built a siege wall all around it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֩]] [[H9003\|בַ]][[H8141\|שָּׁנָ֨ה]] [[H9009\|הַ]][[H8671\|תְּשִׁעִ֜ית]] [[H9005\|לְ]][[H4427A\|מָלְכ֗]][[H9033\|וֹ]] [[H9003\|בַּ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הָ]][[H6224\|עֲשִׂירִי֮]] [[H9003\|בֶּ]][[H6218\|עָשׂ֣וֹר]] [[H9005\|לַ]][[H2320G\|חֹדֶשׁ֒]] [[H0935G\|בָּ֠א]] [[H5019\|נְבוּכַדְרֶאצַּ֨ר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֜ל]] [[H1931\|ה֤וּא]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H2428A\|חֵיל]][[H9023\|וֹ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3389\|יְר֣וּשָׁלִַ֔ם]] [[H9001\|וַֽ]][[H2583\|יַּחֲנ֖וּ]] [[H5921A\|עָלֶ֑י]][[H9034\|הָ]] [[H9001\|וַ]][[H1129\|יִּבְנ֥וּ]] [[H5921A\|עָלֶ֛י]][[H9034\|הָ]] [[H1785\|דָּיֵ֖ק]] [[H5439G\|סָבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic MONTH|MONTH]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.3|<< Jeremiah 52:3]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.5|Jeremiah 52:5 >>]]</td></tr></table>
 

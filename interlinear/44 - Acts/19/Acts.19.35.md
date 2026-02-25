@@ -1,10 +1,73 @@
+---
+title: Acts 19:35
+type: Verse
+kjv: "And when the townclerk had appeased the people, he said, Ye men of Ephesus, what man is there that knoweth not how that the city of the Ephesians is a worshipper of the great goddess Diana, and of the image which fell down from Jupiter?"
+bsb: "Finally the city clerk quieted the crowd and declared, “Men of Ephesus, doesn’t everyone know that the city of Ephesus is guardian of the temple of the great Artemis and of her image, which fell from heaven?"
+greek: "καταστείλας δὲ ὁ γραμματεὺς τὸν ὄχλον φησίν· ἄνδρες Ἐφέσιοι, τίς γάρ ἐστιν ἀνθρώπων ὃς οὐ γινώσκει τὴν Ἐφεσίων πόλιν νεωκόρον οὖσαν τῆς μεγάλης θεᾶς Ἀρτέμιδος καὶ τοῦ διοπετοῦς;"
+pericope: "[[Acts.19.21 The Riot in Ephesus|The Riot in Ephesus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CITIES|CITIES]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic CLERK|CLERK]]"
+- "[[topic DEMETRIUS|DEMETRIUS]]"
+- "[[topic DIANA|DIANA]]"
+- "[[topic JUPITER|JUPITER]]"
+- "[[topic MOB|MOB]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic TACT|TACT]]"
+- "[[topic TOWN CLERK|TOWN CLERK]]"
+strongs:
+- "[[G2687]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1122]]"
+- "[[G3793]]"
+- "[[G5346]]"
+- "[[G0435G]]"
+- "[[G2180]]"
+- "[[G5101]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G0444]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1097]]"
+- "[[G4172]]"
+- "[[G3511]]"
+- "[[G3173]]"
+- "[[G2299]]"
+- "[[G0735]]"
+- "[[G2532]]"
+- "[[G1356]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Acts 19:35**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the townclerk had appeased the people, he said, [Ye] men of Ephesus, what man is there that knoweth not how that the city of the Ephesians is a worshipper of the great goddess Diana, and of the [image] which fell down from Jupiter?
 <small><sub>**BSB:**</sub></small>
 Finally the city clerk quieted the crowd and declared, “Men of Ephesus, doesn’t everyone know that the city of Ephesus is guardian of the temple of the great Artemis and of her image, which fell from heaven?
-<small><sub>**Literal:**</sub></small>
-having calmed then the town clerk the crowd he says; Men Ephesians, who for is there of men who not knows the of [the] Ephesians city temple-keeper as being of the great goddess Artemis and of that fallen from the sky?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.34|<< Acts 19:34]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.36|Acts 19:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2687\|καταστείλας]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G1122\|γραμματεὺς]]  [[G3588\|τὸν]]  [[G3793\|ὄχλον]]  [[G5346\|φησίν·]]  [[G0435G\|ἄνδρες]]  [[G2180\|Ἐφέσιοι,]]  [[G5101\|τίς]]  [[G1063\|γάρ]]  [[G1510\|ἐστιν]]  [[G0444\|ἀνθρώπων]]  [[G3739\|ὃς]]  [[G3756\|οὐ]]  [[G1097\|γινώσκει]]  [[G3588\|τὴν]]  [[G2180\|Ἐφεσίων]]  [[G4172\|πόλιν]]  [[G3511\|νεωκόρον]]  [[G1510\|οὖσαν]]  [[G3588\|τῆς]]  [[G3173\|μεγάλης]]  [[G2299\|θεᾶς]]  [[G0735\|Ἀρτέμιδος]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G1356\|διοπετοῦς;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIES|CITIES]] • [[topic CITIZENS|CITIZENS]] • [[topic CLERK|CLERK]] • [[topic DEMETRIUS|DEMETRIUS]] • [[topic DIANA|DIANA]] • [[topic JUPITER|JUPITER]] • [[topic MOB|MOB]] • [[topic PAUL|PAUL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic TACT|TACT]] • [[topic TOWN CLERK|TOWN CLERK]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.34|<< Acts 19:34]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.36|Acts 19:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

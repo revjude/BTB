@@ -1,8 +1,64 @@
+---
+title: Genesis 3:21
+type: Verse
+kjv: "Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them."
+bsb: "And the LORD God made garments of skin for Adam and his wife, and He clothed them."
+hebrew: "וַיַּעַשׂ֩ יְהוָ֨ה אֱלֹהִ֜ים לְאָדָ֧ם וּלְאִשְׁתּ֛וֹ כָּתְנ֥וֹת ע֖וֹר וַיַּלְבִּשֵֽׁם׃ פ"
+pericope: "[[Gen.3.21 The Expulsion from Paradise|The Expulsion from Paradise]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 3
+book/chapter: "[[Gen.3|Genesis 3]]"
+chronological_order: 3
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic DRESS|DRESS]]"
+- "[[topic EVE|EVE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LEATHER|LEATHER]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SKIN|SKIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H0121G]]"
+- "[[H9002]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H3801]]"
+- "[[H5785]]"
+- "[[H3847]]"
+- "[[H9038]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Genesis 3:21**<big><big>[[Gen.3.21 The Expulsion from Paradise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them.
 <small><sub>**BSB:**</sub></small>
 And the LORD God made garments of skin for Adam and his wife, and He clothed them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּעַשׂ֩]] [[H3068G\|יְהוָ֨ה]] [[H0430G\|אֱלֹהִ֜ים]] [[H9005\|לְ]][[H0121G\|אָדָ֧ם]] [[H9002\|וּ]][[H9005\|לְ]][[H0802H\|אִשְׁתּ֛]][[H9023\|וֹ]] [[H3801\|כָּתְנ֥וֹת]] [[H5785\|ע֖וֹר]] [[H9001\|וַ]][[H3847\|יַּלְבִּשֵֽׁ]][[H9038\|ם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic DRESS|DRESS]] • [[topic EVE|EVE]] • [[topic GOD|GOD]] • [[topic LEATHER|LEATHER]] • [[topic SIN|SIN]] • [[topic SKIN|SKIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.3.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.20|<< Genesis 3:20]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.22|Genesis 3:22 >>]]</td></tr></table>
 
@@ -15,7 +71,7 @@ And the LORD God made garments of skin for Adam and his wife, and He clothed the
 | and for wife his  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0802H\|אִשְׁתּ֛]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| u<small><sup>[[HC]]</sup></small> l.<small><sup>[[HR]]</sup></small> 'ish.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | garments of  |**<big>&#8207;[[H3801\|כָּתְנ֥וֹת]]&#8207; </big>**| ka.te.Not<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | skin  |**<big>&#8207;[[H5785\|ע֖וֹר]]&#8207; </big>**| or<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he clothed them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3847\|יַּלְבִּשֵֽׁ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yal.bi.She<small><sup>[[HVhw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he clothed them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3847\|יַּלְבִּשֵֽׁ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yal.bi.She<small><sup>[[HVhw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.20|<< Genesis 3:20]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.22|Genesis 3:22 >>]]</td></tr></table>
 
 

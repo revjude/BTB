@@ -1,8 +1,71 @@
+---
+title: Ecclesiastes 6:12
+type: Verse
+kjv: "For who knoweth what is good for man in this life, all the days of his vain life which he spendeth as a shadow? for who can tell a man what shall be after him under the sun?"
+bsb: "For who knows what is good for a man during the few days in which he passes through his fleeting life like a shadow? Who can tell a man what will come after him under the sun?"
+hebrew: "כִּ֣י מִֽי־ יוֹדֵעַ֩ מַה־ טּ֨וֹב לָֽאָדָ֜ם בַּֽחַיִּ֗ים מִסְפַּ֛ר יְמֵי־ חַיֵּ֥י הֶבְל֖וֹ וְיַעֲשֵׂ֣ם כַּצֵּ֑ל אֲשֶׁר֙ מִֽי־ יַגִּ֣יד לָֽאָדָ֔ם מַה־ יִּהְיֶ֥ה אַחֲרָ֖יו תַּ֥חַת הַשָּֽׁמֶשׁ׃"
+pericope: "[[Eccl.6.1 The Futility of Life|The Futility of Life]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 6
+book/chapter: "[[Eccl.6|Ecclesiastes 6]]"
+chronological_order: 544
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H4100]]"
+- "[[H2896A]]"
+- "[[H9005]]"
+- "[[H0120G]]"
+- "[[H9003]]"
+- "[[H2416E]]"
+- "[[H4557]]"
+- "[[H3117G]]"
+- "[[H1892]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H6213A]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H6738]]"
+- "[[H0834A]]"
+- "[[H5046]]"
+- "[[H1961]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H8478G]]"
+- "[[H9009]]"
+- "[[H8121]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 6:12**<big><big>[[Eccl.6.1 The Futility of Life|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For who knoweth what [is] good for man in [this] life, all the days of his vain life which he spendeth as a shadow? for who can tell a man what shall be after him under the sun?
 <small><sub>**BSB:**</sub></small>
 For who knows what is good for a man during the few days in which he passes through his fleeting life like a shadow? Who can tell a man what will come after him under the sun?
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H4310\|מִֽי]][[H9014\|־]] [[H3045\|יוֹדֵעַ֩]] [[H4100\|מַה]][[H9014\|־]] [[H2896A\|טּ֨וֹב]] [[H9005\|לָֽ]][[H0120G\|אָדָ֜ם]] [[H9003\|בַּֽ]][[H2416E\|חַיִּ֗ים]] [[H4557\|מִסְפַּ֛ר]] [[H3117G\|יְמֵי]][[H9014\|־]] [[H2416E\|חַיֵּ֥י]] [[H1892\|הֶבְל֖]][[H9023\|וֹ]] [[H9002\|וְ]][[H6213A\|יַעֲשֵׂ֣]][[H9038\|ם]] [[H9004\|כַּ]][[H6738\|צֵּ֑ל]] [[H0834A\|אֲשֶׁר֙]] [[H4310\|מִֽי]][[H9014\|־]] [[H5046\|יַגִּ֣יד]] [[H9005\|לָֽ]][[H0120G\|אָדָ֔ם]] [[H4100\|מַה]][[H9014\|־]] [[H1961\|יִּהְיֶ֥ה]] [[H0310A\|אַחֲרָ֖י]][[H9033\|ו]] [[H8478G\|תַּ֥חַת]] [[H9009\|הַ]][[H8121\|שָּֽׁמֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IGNORANCE|IGNORANCE]] • [[topic LIFE|LIFE]] • [[topic VANITY|VANITY]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.6.11|<< Ecclesiastes 6:11]]</td><td align="center" style="border:none;">[[Eccl.6|Ecclesiastes 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.1|Ecclesiastes 7:1 >>]]</td></tr></table>
 

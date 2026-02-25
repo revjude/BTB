@@ -1,10 +1,56 @@
+---
+title: 2 Corinthians 6:6
+type: Verse
+kjv: "By pureness, by knowledge, by longsuffering, by kindness, by the Holy Ghost, by love unfeigned,"
+bsb: "in purity, knowledge, patience, and kindness; in the Holy Spirit and in sincere love;"
+greek: "ἐν ἁγνότητι, ἐν γνώσει, ἐν μακροθυμίᾳ, ἐν χρηστότητι, ἐν πνεύματι ἁγίῳ, ἐν ἀγάπῃ ἀνυποκρίτῳ,"
+pericope: "[[2Cor.6.1 Paul’s Hardships and God’s Grace|Paul’s Hardships and God’s Grace]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 6
+book/chapter: "[[2Cor.6|2 Corinthians 6]]"
+chronological_order: 1079
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic LONGSUFFERING|LONGSUFFERING]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1722]]"
+- "[[G0054]]"
+- "[[G1108]]"
+- "[[G3115]]"
+- "[[G5544]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G0026]]"
+- "[[G0505]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 6:6**<big><big>[[2Cor.6.1 Paul’s Hardships and God’s Grace|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 By pureness, by knowledge, by longsuffering, by kindness, by the Holy Ghost, by love unfeigned,
 <small><sub>**BSB:**</sub></small>
 in purity, knowledge, patience, and kindness; in the Holy Spirit and in sincere love;
-<small><sub>**Literal:**</sub></small>
-in purity, in knowledge, in patience, in kindness, in [the] Spirit Holy, in love genuine,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.6.5|<< 2 Corinthians 6:5]]</td><td align="center" style="border:none;">[[2Cor.6|2 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.6.7|2 Corinthians 6:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G0054\|ἁγνότητι,]]  [[G1722\|ἐν]]  [[G1108\|γνώσει,]]  [[G1722\|ἐν]]  [[G3115\|μακροθυμίᾳ,]]  [[G1722\|ἐν]]  [[G5544\|χρηστότητι,]]  [[G1722\|ἐν]]  [[G4151G\|πνεύματι]]  [[G0040G\|ἁγίῳ,]]  [[G1722\|ἐν]]  [[G0026\|ἀγάπῃ]]  [[G0505\|ἀνυποκρίτῳ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic LONGSUFFERING|LONGSUFFERING]] • [[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PATIENCE|PATIENCE]] • [[topic RESIGNATION|RESIGNATION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.6.5|<< 2 Corinthians 6:5]]</td><td align="center" style="border:none;">[[2Cor.6|2 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.6.7|2 Corinthians 6:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

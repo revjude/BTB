@@ -1,8 +1,69 @@
+---
+title: 1 Chronicles 11:19
+type: Verse
+kjv: "And said, My God forbid it me, that I should do this thing: shall I drink the blood of these men that have put their lives in jeopardy? for with the jeopardy of their lives they brought it. Therefore he would not drink it. These things did these three mightiest."
+bsb: "saying, “Far be it from me, my God, to do this! How can I drink the blood of these men who risked their lives?” Because they had brought it at the risk of their lives, David refused to drink it. Such were the exploits of the three mighty men."
+hebrew: "וַיֹּ֡אמֶר חָלִילָה֩ לִּ֨י מֵאֱלֹהַ֜י מֵעֲשׂ֣וֹת זֹ֗את הֲדַ֣ם הָאֲנָשִׁים֩ הָאֵ֨לֶּה אֶשְׁתֶּ֤ה בְנַפְשׁוֹתָם֙ כִּ֣י בְנַפְשׁוֹתָ֣ם הֱבִיא֔וּם וְלֹ֥א אָבָ֖ה לִשְׁתּוֹתָ֑ם אֵ֣לֶּה עָשׂ֔וּ שְׁלֹ֖שֶׁת הַגִּבּוֹרִֽים׃"
+pericope: "[[1Chr.11.10 David’s Mighty Men|David’s Mighty Men]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 11
+book/chapter: "[[1Chr.11|1 Chronicles 11]]"
+chronological_order: 335
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic ARMIES|ARMIES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2486]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H6213A]]"
+- "[[H2063]]"
+- "[[H9008]]"
+- "[[H1818]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H0428]]"
+- "[[H8354]]"
+- "[[H9003]]"
+- "[[H5315H]]"
+- "[[H9028]]"
+- "[[H3588A]]"
+- "[[H0935P]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0014]]"
+- "[[H7969]]"
+- "[[H1368]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 11:19**<big><big>[[1Chr.11.10 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said, My God forbid it me, that I should do this thing: shall I drink the blood of these men that have put their lives in jeopardy? for with [the jeopardy of] their lives they brought it. Therefore he would not drink it. These things did these three mightiest.
 <small><sub>**BSB:**</sub></small>
 saying, “Far be it from me, my God, to do this! How can I drink the blood of these men who risked their lives?” Because they had brought it at the risk of their lives, David refused to drink it. Such were the exploits of the three mighty men.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֡אמֶר]] [[H2486\|חָלִילָה֩]] [[H9005\|לִּ֨]][[H9030\|י]] [[H9006\|מֵ]][[H0430G\|אֱלֹהַ֜]][[H9020\|י]] [[H9006\|מֵ]][[H6213A\|עֲשׂ֣וֹת]] [[H2063\|זֹ֗את]] [[H9008\|הֲ]][[H1818\|דַ֣ם]] [[H9009\|הָ]][[H0582\|אֲנָשִׁים֩]] [[H9009\|הָ]][[H0428\|אֵ֨לֶּה]] [[H8354\|אֶשְׁתֶּ֤ה]] [[H9003\|בְ]][[H5315H\|נַפְשׁוֹתָ]][[H9028\|ם֙]] [[H3588A\|כִּ֣י]] [[H9003\|בְ]][[H5315H\|נַפְשׁוֹתָ֣]][[H9028\|ם]] [[H0935P\|הֱבִיא֔וּ]][[H9038\|ם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0014\|אָבָ֖ה]] [[H9005\|לִ]][[H8354\|שְׁתּוֹתָ֑]][[H9038\|ם]] [[H0428\|אֵ֣לֶּה]] [[H6213A\|עָשׂ֔וּ]] [[H7969\|שְׁלֹ֖שֶׁת]] [[H9009\|הַ]][[H1368\|גִּבּוֹרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAI|ABISHAI]] • [[topic ARMIES|ARMIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.18|<< 1 Chronicles 11:18]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.20|1 Chronicles 11:20 >>]]</td></tr></table>
 

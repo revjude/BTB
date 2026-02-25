@@ -1,6 +1,67 @@
+---
+title: LXX Hosea 11:9
+type: Verse
+lxx: "No way shall I act according to the anger  of my rage. No way should I abandon  Ephraim to be wiped away. Because  I am God, and not man; the holy one among you, and I will not enter into the city."
+greek: "ου μη ποιήσω κατά την οργήν του θυμού μου ου μη εγκαταλίπω του εξαλειφθήναι τον Εφραϊμ διότι ο θεός εγώ ειμι και ουκ άνθρωπος εν σοι άγιος και ουκ εισελεύσομαι εις πόλιν"
+original_language: Greek
+testament: Old
+book: Hosea
+chapter: 11
+book/chapter: "[[Hos.11|Hosea 11]]"
+chronological_order: 652
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[G3364]]"
+- "[[G4160]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G3709]]"
+- "[[G3588]]"
+- "[[G2372]]"
+- "[[G1473]]"
+- "[[G3364]]"
+- "[[G1459]]"
+- "[[G3588]]"
+- "[[G1813]]"
+- "[[G3588]]"
+- "[[G2187]]"
+- "[[G1360]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G0444]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G0039]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G4172]]"
+---
+
 **LXX Hosea 11:9** 
 <small><sub>**LXX:**</sub></small>
 No way shall I act according to the anger  of my rage. No way should I abandon  Ephraim to be wiped away. Because  I am God, and not man; \[the\] holy one among you, and I will not enter into \[the\] city. 
+<small><sub>**Greek:**</sub></small>
+[[G3364\|ου μη]] [[G4160\|ποιήσω]] [[G2596\|κατά]] [[G3588\|την]] [[G3709\|οργήν]] [[G3588\|του]] [[G2372\|θυμού]] [[G1473\|μου]] [[G3364\|ου μη]] [[G1459\|εγκαταλίπω]] [[G3588\|του]] [[G1813\|εξαλειφθήναι]] [[G3588\|τον]] [[G2187\|Εφραϊμ]] [[G1360\|διότι]] [[G3588\|ο]] [[G2316\|θεός]] [[G1473\|εγώ]] [[G1510\|ειμι]] [[G2532\|και]] [[G3756\|ουκ]] [[G0444\|άνθρωπος]] [[G1722\|εν]] [[G1473\|σοι]] [[G0039\|άγιος]] [[G2532\|και]] [[G3756\|ουκ]] [[G1525\|εισελεύσομαι]] [[G1519\|εις]] [[G4172\|πόλιν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**MT:**</sub></small>
 [[Hos.11.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.11.8|<< Hosea 11:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.11.10|Hosea 11:10 >>]]</td></tr></table>
 
@@ -32,6 +93,6 @@ No way shall I act according to the anger  of my rage. No way should I abandon  
 | I will not enter | **<big>[[G3756\|ουκ]]</big>** **<big>[[G1525\|εισελεύσομαι]]</big>** |
 | into | **<big>[[G1519\|εις]]</big>** |
 | \[the\] city. | **<big>[[G4172\|πόλιν]]</big>** |
-[[Hos.11.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.11.8|<< Hosea 11:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.11.10|Hosea 11:10 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.11.8|<< Hosea 11:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.11.10|Hosea 11:10 >>]]</td></tr></table>
 
 

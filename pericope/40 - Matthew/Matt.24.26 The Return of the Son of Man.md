@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Return of the Son of Man
+type: Pericope
 pericope: "[[Matt.24.26 The Return of the Son of Man|The Return of the Son of Man]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 24
 book/chapter: "[[Matt.24|Matthew 24]]"
-genre:
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 6
 verses:
 - "[[Matt.24.26]]"
 - "[[Matt.24.27]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Matt.24.31]]"
 ---
 
-[[Matt.24|Matthew 24:26 - Matthew 24:31]]
+<small>[[Matt.24|Matthew 24:26-31]]</small>
 *The Return of the Son of Man*
 
 [[Matt.24.26|26]] Wherefore if they shall say unto you, Behold, he is in the desert; go not forth: behold, \[he is\] in the secret chambers; believe \[it\] not.

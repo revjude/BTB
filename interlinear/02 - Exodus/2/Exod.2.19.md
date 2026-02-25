@@ -1,8 +1,66 @@
+---
+title: Exodus 2:19
+type: Verse
+kjv: "And they said, An Egyptian delivered us out of the hand of the shepherds, and also drew water enough for us, and watered the flock."
+bsb: "“An Egyptian rescued us from the shepherds,” they replied. “He even drew water for us and watered the flock.”"
+hebrew: "וַתֹּאמַ֕רְןָ אִ֣ישׁ מִצְרִ֔י הִצִּילָ֖נוּ מִיַּ֣ד הָרֹעִ֑ים וְגַם־ דָּלֹ֤ה דָלָה֙ לָ֔נוּ וַיַּ֖שְׁקְ אֶת־ הַצֹּֽאן׃"
+pericope: "[[Exod.2.11 The Rejection and Flight of Moses|The Rejection and Flight of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 2
+book/chapter: "[[Exod.2|Exodus 2]]"
+chronological_order: 94
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic JETHRO|JETHRO]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic ZIPPORAH|ZIPPORAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0376G]]"
+- "[[H4713]]"
+- "[[H5337]]"
+- "[[H9035]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H9009]]"
+- "[[H7462B]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H1802]]"
+- "[[H9005]]"
+- "[[H8248G]]"
+- "[[H0853]]"
+- "[[H6629G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 2:19**<big><big>[[Exod.2.11 The Rejection and Flight of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said, An Egyptian delivered us out of the hand of the shepherds, and also drew [water] enough for us, and watered the flock.
 <small><sub>**BSB:**</sub></small>
 “An Egyptian rescued us from the shepherds,” they replied. “He even drew water for us and watered the flock.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּאמַ֕רְןָ]] [[H0376G\|אִ֣ישׁ]] [[H4713\|מִצְרִ֔י]] [[H5337\|הִצִּילָ֖]][[H9035\|נוּ]] [[H9006\|מִ]][[H3027H\|יַּ֣ד]] [[H9009\|הָ]][[H7462B\|רֹעִ֑ים]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H1802\|דָּלֹ֤ה]] [[H1802\|דָלָה֙]] [[H9005\|לָ֔]][[H9035\|נוּ]] [[H9001\|וַ]][[H8248G\|יַּ֖שְׁקְ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6629G\|צֹּֽאן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JETHRO|JETHRO]] • [[topic MOSES|MOSES]] • [[topic ZIPPORAH|ZIPPORAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.18|<< Exodus 2:18]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.20|Exodus 2:20 >>]]</td></tr></table>
 

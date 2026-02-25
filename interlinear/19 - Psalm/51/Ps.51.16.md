@@ -1,8 +1,61 @@
+---
+title: Psalm 51:16
+type: Verse
+kjv: "For thou desirest not sacrifice; else would I give it: thou delightest not in burnt offering."
+bsb: "For You do not delight in sacrifice, or I would bring it; You take no pleasure in burnt offerings."
+hebrew: "כִּ֤י׀ לֹא־ תַחְפֹּ֣ץ זֶ֣בַח וְאֶתֵּ֑נָה ע֝וֹלָ֗ה לֹ֣א תִרְצֶֽה׃"
+pericope: "[[Ps.51.1 Create in Me a Clean Heart, O God|Create in Me a Clean Heart, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 51
+book/chapter: "[[Ps.51|Psalm 51]]"
+chronological_order: 425
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REMORSE|REMORSE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2654A]]"
+- "[[H2077]]"
+- "[[H9002]]"
+- "[[H5414G]]"
+- "[[H5930A]]"
+- "[[H7521]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 51:16**<big><big>[[Ps.51.1 Create in Me a Clean Heart, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou desirest not sacrifice; else would I give [it]: thou delightest not in burnt offering.
 <small><sub>**BSB:**</sub></small>
 For You do not delight in sacrifice, or I would bring it; You take no pleasure in burnt offerings.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]][[H9015\|׀]] [[H3808\|לֹא]][[H9014\|־]] [[H2654A\|תַחְפֹּ֣ץ]] [[H2077\|זֶ֣בַח]] [[H9002\|וְ]][[H5414G\|אֶתֵּ֑נָה]] [[H5930A\|ע֝וֹלָ֗ה]] [[H3808\|לֹ֣א]] [[H7521\|תִרְצֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVICTION|CONVICTION]] • [[topic DESIRE|DESIRE]] • [[topic FORMALISM|FORMALISM]] • [[topic HOMICIDE|HOMICIDE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRAYER|PRAYER]] • [[topic REMORSE|REMORSE]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.51.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.51.15|<< Psalms 51:15]]</td><td align="center" style="border:none;">[[Ps.51|Psalms 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.51.17|Psalms 51:17 >>]]</td></tr></table>
 

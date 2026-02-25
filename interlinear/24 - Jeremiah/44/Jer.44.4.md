@@ -1,8 +1,66 @@
+---
+title: Jeremiah 44:4
+type: Verse
+kjv: "Howbeit I sent unto you all my servants the prophets, rising early and sending them, saying, Oh, do not this abominable thing that I hate."
+bsb: "Yet I sent you all My servants the prophets again and again, saying: ‘Do not do this detestable thing that I hate.’"
+hebrew: "וָאֶשְׁלַ֤ח אֲלֵיכֶם֙ אֶת־ כָּל־ עֲבָדַ֣י הַנְּבִיאִ֔ים הַשְׁכֵּ֥ים וְשָׁלֹ֖חַ לֵאמֹ֑ר אַל־ נָ֣א תַעֲשׂ֗וּ אֵ֛ת דְּבַֽר־ הַתֹּעֵבָ֥ה הַזֹּ֖את אֲשֶׁ֥ר שָׂנֵֽאתִי׃"
+pericope: "[[Jer.44.1 Judgment on the Jews in Egypt|Judgment on the Jews in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 44
+book/chapter: "[[Jer.44|Jeremiah 44]]"
+chronological_order: 767
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H9036]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H7925]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0408]]"
+- "[[H4994]]"
+- "[[H6213A]]"
+- "[[H1697M]]"
+- "[[H8441]]"
+- "[[H2063]]"
+- "[[H0834A]]"
+- "[[H8130]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 44:4**<big><big>[[Jer.44.1 Judgment on the Jews in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit I sent unto you all my servants the prophets, rising early and sending [them], saying, Oh, do not this abominable thing that I hate.
 <small><sub>**BSB:**</sub></small>
 Yet I sent you all My servants the prophets again and again, saying: ‘Do not do this detestable thing that I hate.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H7971G\|אֶשְׁלַ֤ח]] [[H0413\|אֲלֵי]][[H9036\|כֶם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5650\|עֲבָדַ֣]][[H9020\|י]] [[H9009\|הַ]][[H5030\|נְּבִיאִ֔ים]] [[H7925\|הַשְׁכֵּ֥ים]] [[H9002\|וְ]][[H7971G\|שָׁלֹ֖חַ]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H0408\|אַל]][[H9014\|־]] [[H4994\|נָ֣א]] [[H6213A\|תַעֲשׂ֗וּ]] [[H0853\|אֵ֛ת]] [[H1697M\|דְּבַֽר]][[H9014\|־]] [[H9009\|הַ]][[H8441\|תֹּעֵבָ֥ה]] [[H9009\|הַ]][[H2063\|זֹּ֖את]] [[H0834A\|אֲשֶׁ֥ר]] [[H8130\|שָׂנֵֽאתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.3|<< Jeremiah 44:3]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.5|Jeremiah 44:5 >>]]</td></tr></table>
 

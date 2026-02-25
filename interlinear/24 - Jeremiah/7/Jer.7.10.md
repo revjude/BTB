@@ -1,8 +1,73 @@
+---
+title: Jeremiah 7:10
+type: Verse
+kjv: "And come and stand before me in this house, which is called by my name, and say, We are delivered to do all these abominations?"
+bsb: "and then come and stand before Me in this house, which bears My Name, and say, ‘We are delivered, so we can continue with all these abominations’?"
+hebrew: "וּבָאתֶ֞ם וַעֲמַדְתֶּ֣ם לְפָנַ֗י בַּבַּ֤יִת הַזֶּה֙ אֲשֶׁ֣ר נִקְרָא־ שְׁמִ֣י עָלָ֔יו וַאֲמַרְתֶּ֖ם נִצַּ֑לְנוּ לְמַ֣עַן עֲשׂ֔וֹת אֵ֥ת כָּל־ הַתּוֹעֵב֖וֹת הָאֵֽלֶּה׃"
+pericope: "[[Jer.7.1 Jeremiah’s Message at the Temple Gate|Jeremiah’s Message at the Temple Gate]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 7
+book/chapter: "[[Jer.7|Jeremiah 7]]"
+chronological_order: 724
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H0834A]]"
+- "[[H7121H]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H5337]]"
+- "[[H4616]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H8441]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 7:10**<big><big>[[Jer.7.1 Jeremiah’s Message at the Temple Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And come and stand before me in this house, which is called by my name, and say, We are delivered to do all these abominations?
 <small><sub>**BSB:**</sub></small>
 and then come and stand before Me in this house, which bears My Name, and say, ‘We are delivered, so we can continue with all these abominations’?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H0935G\|בָאתֶ֞ם]] [[H9001\|וַ]][[H5975G\|עֲמַדְתֶּ֣ם]] [[H9005\|לְ]][[H6440G\|פָנַ֗]][[H9020\|י]] [[H9003\|בַּ]][[H1004B\|בַּ֤יִת]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H7121H\|נִקְרָא]][[H9014\|־]] [[H8034\|שְׁמִ֣]][[H9020\|י]] [[H5921A\|עָלָ֔י]][[H9033\|ו]] [[H9001\|וַ]][[H0559\|אֲמַרְתֶּ֖ם]] [[H5337\|נִצַּ֑לְנוּ]] [[H4616\|לְמַ֣עַן]] [[H6213A\|עֲשׂ֔וֹת]] [[H0853\|אֵ֥ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H8441\|תּוֹעֵב֖וֹת]] [[H9009\|הָ]][[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic DISHONESTY|DISHONESTY]] • [[topic HOMICIDE|HOMICIDE]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.9|<< Jeremiah 7:9]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.11|Jeremiah 7:11 >>]]</td></tr></table>
 

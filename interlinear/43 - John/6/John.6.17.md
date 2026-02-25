@@ -1,10 +1,60 @@
+---
+title: John 6:17
+type: Verse
+kjv: "And entered into a ship, and went over the sea toward Capernaum. And it was now dark, and Jesus was not come to them."
+bsb: "got into a boat, and started across the sea to Capernaum. It was already dark, and Jesus had not yet gone out to them."
+greek: "καὶ ἐμβάντες εἰς τὸ πλοῖον ἤρχοντο πέραν τῆς θαλάσσης εἰς Καφαρναούμ. καὶ σκοτία ἤδη ἐγεγόνει, καὶ οὔπω ἐληλύθει πρὸς αὐτοὺς ὁ Ἰησοῦς,"
+pericope: "[[John.6.16 Jesus Walks on Water|Jesus Walks on Water]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G1684]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4143]]"
+- "[[G2064]]"
+- "[[G4008]]"
+- "[[G2281]]"
+- "[[G2584]]"
+- "[[G4653]]"
+- "[[G2235]]"
+- "[[G1096]]"
+- "[[G3768]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **John 6:17**<big><big>[[John.6.16 Jesus Walks on Water|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And entered into a ship, and went over the sea toward Capernaum. And it was now dark, and Jesus was not come to them.
 <small><sub>**BSB:**</sub></small>
 got into a boat, and started across the sea to Capernaum. It was already dark, and Jesus had not yet gone out to them.
-<small><sub>**Literal:**</sub></small>
-and having climbed into <the> a boat they were going over the sea to Capernaum. And dark already it had become, and not yet had come to them <the> Jesus,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.16|<< John 6:16]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.18|John 6:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1684\|ἐμβάντες]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4143\|πλοῖον]]  [[G2064\|ἤρχοντο]]  [[G4008\|πέραν]]  [[G3588\|τῆς]]  [[G2281\|θαλάσσης]]  [[G1519\|εἰς]]  [[G2584\|Καφαρναούμ.]]  [[G2532\|καὶ]]  [[G4653\|σκοτία]]  [[G2235\|ἤδη]]  [[G1096\|ἐγεγόνει,]]  [[G2532\|καὶ]]  [[G3768\|οὔπω]]  [[G2064\|ἐληλύθει]]  [[G4314\|πρὸς]]  [[G0846\|αὐτοὺς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.16|<< John 6:16]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.18|John 6:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

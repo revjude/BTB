@@ -1,10 +1,51 @@
+---
+title: Mark 15:35
+type: Verse
+kjv: "And some of them that stood by, when they heard it, said, Behold, he calleth Elias."
+bsb: "When some of those standing nearby heard this, they said, “Behold, He is calling Elijah.”"
+greek: "καί τινες τῶν παρεστηκότων ἀκούσαντες ἔλεγον· ἴδε, Ἠλίαν φωνεῖ."
+pericope: "[[Mark.15.33 The Death of Jesus|The Death of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 15
+book/chapter: "[[Mark.15|Mark 15]]"
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G5100]]"
+- "[[G3588]]"
+- "[[G3936]]"
+- "[[G0191]]"
+- "[[G3004G]]"
+- "[[G2396]]"
+- "[[G2243]]"
+- "[[G5455]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 15:35**<big><big>[[Mark.15.33 The Death of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And some of them that stood by, when they heard [it], said, Behold, he calleth Elias.
 <small><sub>**BSB:**</sub></small>
 When some of those standing nearby heard this, they said, “Behold, He is calling Elijah.”
-<small><sub>**Literal:**</sub></small>
-And some of those having stood by listening were saying; behold, Elijah He calls.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.34|<< Mark 15:34]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.36|Mark 15:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καί]]  [[G5100\|τινες]]  [[G3588\|τῶν]]  [[G3936\|παρεστηκότων]]  [[G0191\|ἀκούσαντες]]  [[G3004G\|ἔλεγον·]]  [[G2396\|ἴδε,]]  [[G2243\|Ἠλίαν]]  [[G5455\|φωνεῖ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.34|<< Mark 15:34]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.36|Mark 15:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

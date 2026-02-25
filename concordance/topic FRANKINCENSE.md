@@ -13,7 +13,7 @@
 
 → A perfume [[Song.3.6|So 3:6]]
 
-→ Commerce in [[Rev.18.11|Re 18:11]]-[[Rev.18.13|13]]
+→ Commerce in [[Rev.18.11|Re 18:11-13]]
 
 → Used as an incense [[Isa.43.23|Isa 43:23]]; [[Isa.60.6|60:6]]; [[Isa.66.3|66:3]]; [[Jer.6.20|Jer 6:20]]
 

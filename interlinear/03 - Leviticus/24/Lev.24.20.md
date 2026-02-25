@@ -1,8 +1,58 @@
+---
+title: Leviticus 24:20
+type: Verse
+kjv: "Breach for breach, eye for eye, tooth for tooth: as he hath caused a blemish in a man, so shall it be done to him again."
+bsb: "fracture for fracture, eye for eye, tooth for tooth. Just as he injured the other person, the same must be inflicted on him."
+hebrew: "שֶׁ֚בֶר תַּ֣חַת שֶׁ֔בֶר עַ֚יִן תַּ֣חַת עַ֔יִן שֵׁ֖ן תַּ֣חַת שֵׁ֑ן כַּאֲשֶׁ֨ר יִתֵּ֥ן מוּם֙ בָּֽאָדָ֔ם כֵּ֖ן יִנָּ֥תֶן בּֽוֹ׃"
+pericope: "[[Lev.24.17 An Eye for an Eye|An Eye for an Eye]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 24
+book/chapter: "[[Lev.24|Leviticus 24]]"
+chronological_order: 156
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic RETALIATION|RETALIATION]]"
+strongs:
+- "[[H7667]]"
+- "[[H8478H]]"
+- "[[H5869A]]"
+- "[[H8127G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H5414G]]"
+- "[[H3971B]]"
+- "[[H9003]]"
+- "[[H0120G]]"
+- "[[H3651C]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 24:20**<big><big>[[Lev.24.17 An Eye for an Eye|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Breach for breach, eye for eye, tooth for tooth: as he hath caused a blemish in a man, so shall it be done to him [again].
 <small><sub>**BSB:**</sub></small>
 fracture for fracture, eye for eye, tooth for tooth. Just as he injured the other person, the same must be inflicted on him.
+<small><sub>**Hebrew:**</sub></small>
+[[H7667\|שֶׁ֚בֶר]] [[H8478H\|תַּ֣חַת]] [[H7667\|שֶׁ֔בֶר]] [[H5869A\|עַ֚יִן]] [[H8478H\|תַּ֣חַת]] [[H5869A\|עַ֔יִן]] [[H8127G\|שֵׁ֖ן]] [[H8478H\|תַּ֣חַת]] [[H8127G\|שֵׁ֑ן]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H5414G\|יִתֵּ֥ן]] [[H3971B\|מוּם֙]] [[H9003\|בָּֽ]][[H0120G\|אָדָ֔ם]] [[H3651C\|כֵּ֖ן]] [[H5414G\|יִנָּ֥תֶן]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RETALIATION|RETALIATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.24.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.19|<< Leviticus 24:19]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.21|Leviticus 24:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

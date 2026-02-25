@@ -1,10 +1,59 @@
+---
+title: Colossians 1:5
+type: Verse
+kjv: "For the hope which is laid up for you in heaven, whereof ye heard before in the word of the truth of the gospel;"
+bsb: "the faith and love proceeding from the hope stored up for you in heaven, of which you have already heard in the word of truth, the gospel"
+greek: "διὰ τὴν ἐλπίδα τὴν ἀποκειμένην ὑμῖν ἐν τοῖς οὐρανοῖς ἣν προηκούσατε ἐν τῷ λόγῳ τῆς ἀληθείας τοῦ εὐαγγελίου"
+pericope: "[[Col.1.3 Thanksgiving and Prayer|Thanksgiving and Prayer]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 1
+book/chapter: "[[Col.1|Colossians 1]]"
+chronological_order: 1121
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G1680]]"
+- "[[G0606]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G3772]]"
+- "[[G3739]]"
+- "[[G4257]]"
+- "[[G3056]]"
+- "[[G0225]]"
+- "[[G2098]]"
+texts:
+- NKO
+---
+
 **Colossians 1:5**<big><big>[[Col.1.3 Thanksgiving and Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the hope which is laid up for you in heaven, whereof ye heard before in the word of the truth of the gospel;
 <small><sub>**BSB:**</sub></small>
 the faith and love proceeding from the hope stored up for you in heaven, of which you have already heard in the word of truth, the gospel
-<small><sub>**Literal:**</sub></small>
-because of the hope which is being laid up for you in the heavens which you heard of before in the word <the> of truth the gospel<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.4|<< Colossians 1:4]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.6|Colossians 1:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G3588\|τὴν]]  [[G1680\|ἐλπίδα]]  [[G3588\|τὴν]]  [[G0606\|ἀποκειμένην]]  [[G4771\|ὑμῖν]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3772\|οὐρανοῖς]]  [[G3739\|ἣν]]  [[G4257\|προηκούσατε]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3056\|λόγῳ]]  [[G3588\|τῆς]]  [[G0225\|ἀληθείας]]  [[G3588\|τοῦ]]  [[G2098\|εὐαγγελίου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic HEAVEN|HEAVEN]] • [[topic HOPE|HOPE]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.4|<< Colossians 1:4]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.6|Colossians 1:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

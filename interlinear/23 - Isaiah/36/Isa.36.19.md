@@ -1,8 +1,59 @@
+---
+title: Isaiah 36:19
+type: Verse
+kjv: "Where are the gods of Hamath and Arphad? where are the gods of Sepharvaim? and have they delivered Samaria out of my hand?"
+bsb: "Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim? Have they delivered Samaria from my hand?"
+hebrew: "אַיֵּ֞ה אֱלֹהֵ֤י חֲמָת֙ וְאַרְפָּ֔ד אַיֵּ֖ה אֱלֹהֵ֣י סְפַרְוָ֑יִם וְכִֽי־ הִצִּ֥ילוּ אֶת־ שֹׁמְר֖וֹן מִיָּדִֽי׃"
+pericope: "[[Isa.36.1 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 36
+book/chapter: "[[Isa.36|Isaiah 36]]"
+chronological_order: 663
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ARPAD|ARPAD]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic SEPHARVAIM|SEPHARVAIM]]"
+strongs:
+- "[[H0346]]"
+- "[[H0430]]"
+- "[[H2574G]]"
+- "[[H9002]]"
+- "[[H0774]]"
+- "[[H5617]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5337]]"
+- "[[H0853]]"
+- "[[H8111]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 36:19**<big><big>[[Isa.36.1 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Where [are] the gods of Hamath and Arphad? where [are] the gods of Sepharvaim? and have they delivered Samaria out of my hand?
 <small><sub>**BSB:**</sub></small>
 Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim? Have they delivered Samaria from my hand?
+<small><sub>**Hebrew:**</sub></small>
+[[H0346\|אַיֵּ֞ה]] [[H0430\|אֱלֹהֵ֤י]] [[H2574G\|חֲמָת֙]] [[H9002\|וְ]][[H0774\|אַרְפָּ֔ד]] [[H0346\|אַיֵּ֖ה]] [[H0430\|אֱלֹהֵ֣י]] [[H5617\|סְפַרְוָ֑יִם]] [[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H5337\|הִצִּ֥ילוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H8111\|שֹׁמְר֖וֹן]] [[H9006\|מִ]][[H3027H\|יָּדִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARPAD|ARPAD]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic SEPHARVAIM|SEPHARVAIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.36.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.36.18|<< Isaiah 36:18]]</td><td align="center" style="border:none;">[[Isa.36|Isaiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.36.20|Isaiah 36:20 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Psalm 59:5
+type: Verse
+kjv: "Thou therefore, O LORD God of hosts, the God of Israel, awake to visit all the heathen: be not merciful to any wicked transgressors. Selah."
+bsb: "O LORD God of Hosts, the God of Israel, rouse Yourself to punish all the nations; show no mercy to the wicked traitors. Selah"
+hebrew: "וְאַתָּ֤ה יְהוָֽה־ אֱלֹהִ֥ים׀ צְבָא֡וֹת אֱלֹ֘הֵ֤י יִשְׂרָאֵ֗ל הָקִ֗יצָה לִפְקֹ֥ד כָּֽל־ הַגּוֹיִ֑ם אַל־ תָּחֹ֨ן כָּל־ בֹּ֖גְדֵי אָ֣וֶן סֶֽלָה׃"
+pericope: "[[Ps.59.1 Deliver Me from My Enemies|Deliver Me from My Enemies]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 59
+book/chapter: "[[Ps.59|Psalm 59]]"
+chronological_order: 317
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WAITING|WAITING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H3068G]]"
+- "[[H9014]]"
+- "[[H0430G]]"
+- "[[H9015]]"
+- "[[H6635B]]"
+- "[[H3478]]"
+- "[[H6974]]"
+- "[[H9012]]"
+- "[[H9005]]"
+- "[[H6485H]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0408]]"
+- "[[H2603A]]"
+- "[[H0898]]"
+- "[[H0205G]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 59:5**<big><big>[[Ps.59.1 Deliver Me from My Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou therefore, O LORD God of hosts, the God of Israel, awake to visit all the heathen: be not merciful to any wicked transgressors. Selah.
 <small><sub>**BSB:**</sub></small>
 O LORD God of Hosts, the God of Israel, rouse Yourself to punish all the nations; show no mercy to the wicked traitors. Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֤ה]] [[H3068G\|יְהוָֽה]][[H9014\|־]] [[H0430G\|אֱלֹהִ֥ים]][[H9015\|׀]] [[H6635B\|צְבָא֡וֹת]] [[H0430G\|אֱלֹ֘הֵ֤י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H6974\|הָקִ֗יצָ]][[H9012\|ה]] [[H9005\|לִ]][[H6485H\|פְקֹ֥ד]] [[H3605\|כָּֽל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֑ם]] [[H0408\|אַל]][[H9014\|־]] [[H2603A\|תָּחֹ֨ן]] [[H3605\|כָּל]][[H9014\|־]] [[H0898\|בֹּ֖גְדֵי]] [[H0205G\|אָ֣וֶן]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAYER|PRAYER]] • [[topic WAITING|WAITING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.59.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59.4|<< Psalms 59:4]]</td><td align="center" style="border:none;">[[Ps.59|Psalms 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.6|Psalms 59:6 >>]]</td></tr></table>
 

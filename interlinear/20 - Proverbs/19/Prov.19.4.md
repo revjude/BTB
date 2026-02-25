@@ -1,8 +1,52 @@
+---
+title: Proverbs 19:4
+type: Verse
+kjv: "Wealth maketh many friends; but the poor is separated from his neighbour."
+bsb: "Wealth attracts many friends, but a poor man is deserted by his friend."
+hebrew: "ה֗וֹן יֹ֭סִיף רֵעִ֣ים רַבִּ֑ים וְ֝דָ֗ל מֵרֵ֥עהוּ יִפָּרֵֽד׃"
+pericope: "[[Prov.19.1 The Man of Integrity|The Man of Integrity]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 19
+book/chapter: "[[Prov.19|Proverbs 19]]"
+chronological_order: 474
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RICHES|RICHES]]"
+strongs:
+- "[[H1952]]"
+- "[[H3254H]]"
+- "[[H7453]]"
+- "[[H7227A]]"
+- "[[H9002]]"
+- "[[H1800]]"
+- "[[H9006]]"
+- "[[H9023]]"
+- "[[H6504]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 19:4**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wealth maketh many friends; but the poor is separated from his neighbour.
 <small><sub>**BSB:**</sub></small>
 Wealth attracts many friends, but a poor man is deserted by his friend.
+<small><sub>**Hebrew:**</sub></small>
+[[H1952\|ה֗וֹן]] [[H3254H\|יֹ֭סִיף]] [[H7453\|רֵעִ֣ים]] [[H7227A\|רַבִּ֑ים]] [[H9002\|וְ֝]][[H1800\|דָ֗ל]] [[H9006\|מֵ]][[H7453\|רֵ֥ע]][[H9023\|הוּ]] [[H6504\|יִפָּרֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FLATTERY|FLATTERY]] • [[topic POOR|POOR]] • [[topic RICHES|RICHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.3|<< Proverbs 19:3]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.5|Proverbs 19:5 >>]]</td></tr></table>
 

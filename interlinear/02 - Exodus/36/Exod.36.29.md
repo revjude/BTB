@@ -1,8 +1,68 @@
+---
+title: Exodus 36:29
+type: Verse
+kjv: "And they were coupled beneath, and coupled together at the head thereof, to one ring: thus he did to both of them in both the corners."
+bsb: "coupled together from bottom to top and fitted into a single ring. He made both corners in this way."
+hebrew: "וְהָי֣וּ תוֹאֲמִם֮ מִלְּמַטָּה֒ וְיַחְדָּ֗ו יִהְי֤וּ תַמִּים֙ אֶל־ רֹאשׁ֔וֹ אֶל־ הַטַּבַּ֖עַת הָאֶחָ֑ת כֵּ֚ן עָשָׂ֣ה לִשְׁנֵיהֶ֔ם לִשְׁנֵ֖י הַמִּקְצֹעֹֽת׃"
+pericope: "[[Exod.36.20 The Frames and Bases|The Frames and Bases]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 36
+book/chapter: "[[Exod.36|Exodus 36]]"
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H8380]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H4295]]"
+- "[[H9002]]"
+- "[[H3162B]]"
+- "[[H8535]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7218I]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H2885]]"
+- "[[H0259]]"
+- "[[H3651C]]"
+- "[[H6213H]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H4740H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 36:29**<big><big>[[Exod.36.20 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they were coupled beneath, and coupled together at the head thereof, to one ring: thus he did to both of them in both the corners.
 <small><sub>**BSB:**</sub></small>
 coupled together from bottom to top and fitted into a single ring. He made both corners in this way.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָי֣וּ]] [[H8380\|תוֹאֲמִם֮]] [[H9006\|מִ]][[H9005\|לְּ]][[H4295\|מַטָּה֒]] [[H9002\|וְ]][[H3162B\|יַחְדָּ֗ו]] [[H1961\|יִהְי֤וּ]] [[H8535\|תַמִּים֙]] [[H0413\|אֶל]][[H9014\|־]] [[H7218I\|רֹאשׁ֔]][[H9023\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H2885\|טַּבַּ֖עַת]] [[H9009\|הָ]][[H0259\|אֶחָ֑ת]] [[H3651C\|כֵּ֚ן]] [[H6213H\|עָשָׂ֣ה]] [[H9005\|לִ]][[H8147\|שְׁנֵי]][[H9028\|הֶ֔ם]] [[H9005\|לִ]][[H8147\|שְׁנֵ֖י]] [[H9009\|הַ]][[H4740H\|מִּקְצֹעֹֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.28|<< Exodus 36:28]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.30|Exodus 36:30 >>]]</td></tr></table>
 

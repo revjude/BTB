@@ -1,8 +1,61 @@
+---
+title: Lamentations 4:21
+type: Verse
+kjv: "Rejoice and be glad, O daughter of Edom, that dwellest in the land of Uz; the cup also shall pass through unto thee: thou shalt be drunken, and shalt make thyself naked."
+bsb: "So rejoice and be glad, O Daughter of Edom, you who dwell in the land of Uz. Yet the cup will pass to you as well; you will get drunk and expose yourself."
+hebrew: "שִׂ֤ישִׂי וְשִׂמְחִי֙ בַּת־ אֱד֔וֹם יוֹשֶׁ֖בֶת בְּאֶ֣רֶץ ע֑וּץ גַּם־ עָלַ֙יִךְ֙ תַּעֲבָר־ כּ֔וֹס תִּשְׁכְּרִ֖י וְתִתְעָרִֽי׃ ס"
+pericope: "[[Lam.4.1 The Distress of Zion|The Distress of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 4
+book/chapter: "[[Lam.4|Lamentations 4]]"
+chronological_order: 779
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic UZ|UZ]]"
+strongs:
+- "[[H7797]]"
+- "[[H9002]]"
+- "[[H8055]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H0123G]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H5780J]]"
+- "[[H1571]]"
+- "[[H5921A]]"
+- "[[H9032]]"
+- "[[H5674A]]"
+- "[[H3563A]]"
+- "[[H7937]]"
+- "[[H6168]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Lamentations 4:21**<big><big>[[Lam.4.1 The Distress of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rejoice and be glad, O daughter of Edom, that dwellest in the land of Uz; the cup also shall pass through unto thee: thou shalt be drunken, and shalt make thyself naked.
 <small><sub>**BSB:**</sub></small>
 So rejoice and be glad, O Daughter of Edom, you who dwell in the land of Uz. Yet the cup will pass to you as well; you will get drunk and expose yourself.
+<small><sub>**Hebrew:**</sub></small>
+[[H7797\|שִׂ֤ישִׂי]] [[H9002\|וְ]][[H8055\|שִׂמְחִי֙]] [[H1323G\|בַּת]][[H9014\|־]] [[H0123G\|אֱד֔וֹם]] [[H3427\|יוֹשֶׁ֖בֶת]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H5780J\|ע֑וּץ]] [[H1571\|גַּם]][[H9014\|־]] [[H5921A\|עָלַ֙יִ]][[H9032\|ךְ֙]] [[H5674A\|תַּעֲבָר]][[H9014\|־]] [[H3563A\|כּ֔וֹס]] [[H7937\|תִּשְׁכְּרִ֖י]] [[H9002\|וְ]][[H6168\|תִתְעָרִֽי]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic UZ|UZ]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.4.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.20|<< Lamentations 4:20]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.22|Lamentations 4:22 >>]]</td></tr></table>
 
@@ -20,7 +73,7 @@ So rejoice and be glad, O Daughter of Edom, you who dwell in the land of Uz. Yet
 | it will pass on  |**<big>&#8207;[[H5674A\|תַּעֲבָר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ta.'a.vor-<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a cup  |**<big>&#8207;[[H3563A\|כּ֔וֹס]]&#8207; </big>**| Kos<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will become drunk  |**<big>&#8207;[[H7937\|תִּשְׁכְּרִ֖י]]&#8207; </big>**| tish.ke.Ri<small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you may strip yourself naked  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6168\|תִתְעָרִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tit.'a.Ri<small><sup>[[HVtu2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you may strip yourself naked  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6168\|תִתְעָרִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tit.'a.Ri<small><sup>[[HVtu2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.20|<< Lamentations 4:20]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.22|Lamentations 4:22 >>]]</td></tr></table>
 
 [^1]: [who] dwells  | **<big>[[H3427|יוֹשַׁבְתִּי]]</big> ** | yo.shav.ti<small><sup>[[HVqrfsc]]</sup></small> | K

@@ -1,10 +1,71 @@
+---
+title: Matthew 3:9
+type: Verse
+kjv: "And think not to say within yourselves, We have Abraham to our father: for I say unto you, that God is able of these stones to raise up children unto Abraham."
+bsb: "And do not presume to say to yourselves, ‘We have Abraham as our father.’ For I tell you that out of these stones God can raise up children for Abraham."
+greek: "καὶ μὴ δόξητε λέγειν ἐν ἑαυτοῖς· πατέρα ἔχομεν τὸν Ἀβραάμ· λέγω γὰρ ὑμῖν ὅτι δύναται ὁ θεὸς ἐκ τῶν λίθων τούτων ἐγεῖραι τέκνα τῷ Ἀβραάμ.¶"
+pericope: "[[Matt.3.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 3
+book/chapter: "[[Matt.3|Matthew 3]]"
+chronological_order: 935
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEREDITY|HEREDITY]]"
+- "[[topic JUDAISM|JUDAISM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G1380]]"
+- "[[G3004G]]"
+- "[[G1722]]"
+- "[[G1438]]"
+- "[[G3962]]"
+- "[[G2192]]"
+- "[[G3588]]"
+- "[[G0011]]"
+- "[[G1063]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G1410]]"
+- "[[G2316]]"
+- "[[G1537]]"
+- "[[G3037]]"
+- "[[G3778]]"
+- "[[G1453]]"
+- "[[G5043]]"
+texts:
+- NKO
+---
+
 **Matthew 3:9**<big><big>[[Matt.3.1 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And think not to say within yourselves, We have Abraham to [our] father: for I say unto you, that God is able of these stones to raise up children unto Abraham.
 <small><sub>**BSB:**</sub></small>
 And do not presume to say to yourselves, ‘We have Abraham as our father.’ For I tell you that out of these stones God can raise up children for Abraham.
-<small><sub>**Literal:**</sub></small>
-And not may you presume to say within yourselves; [As] father we have <the> Abraham; I say for to you that able is <the> God out of <the> stones these to raise up children <the> to Abraham.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.3.8|<< Matthew 3:8]]</td><td align="center" style="border:none;">[[Matt.3|Matthew 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.3.10|Matthew 3:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G1380\|δόξητε]]  [[G3004G\|λέγειν]]  [[G1722\|ἐν]]  [[G1438\|ἑαυτοῖς·]]  [[G3962\|πατέρα]]  [[G2192\|ἔχομεν]]  [[G3588\|τὸν]]  [[G0011\|Ἀβραάμ·]]  [[G3004G\|λέγω]]  [[G1063\|γὰρ]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G1410\|δύναται]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G3037\|λίθων]]  [[G3778\|τούτων]]  [[G1453\|ἐγεῖραι]]  [[G5043\|τέκνα]]  [[G3588\|τῷ]]  [[G0011\|Ἀβραάμ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic GENEALOGY|GENEALOGY]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic HEREDITY|HEREDITY]] • [[topic JUDAISM|JUDAISM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PHARISEES|PHARISEES]] • [[topic REPROOF|REPROOF]] • [[topic SADDUCEES|SADDUCEES]] • [[topic SALVATION|SALVATION]] • [[topic SELF-DELUSION|SELF-DELUSION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.3.8|<< Matthew 3:8]]</td><td align="center" style="border:none;">[[Matt.3|Matthew 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.3.10|Matthew 3:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

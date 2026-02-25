@@ -1,8 +1,62 @@
+---
+title: Judges 18:12
+type: Verse
+kjv: "And they went up, and pitched in Kirjathjearim, in Judah: wherefore they called that place Mahanehdan unto this day: behold, it is behind Kirjathjearim."
+bsb: "They went up and camped at Kiriath-jearim in Judah. That is why the place west of Kiriath-jearim is called Mahaneh-dan to this day."
+hebrew: "וַֽיַּעֲל֗וּ וַֽיַּחֲנ֛וּ בְּקִרְיַ֥ת יְעָרִ֖ים בִּֽיהוּדָ֑ה עַל־ כֵּ֡ן קָרְאוּ֩ לַמָּק֨וֹם הַה֜וּא מַחֲנֵה־ דָ֗ן עַ֚ד הַיּ֣וֹם הַזֶּ֔ה הִנֵּ֕ה אַחֲרֵ֖י קִרְיַ֥ת יְעָרִֽים׃"
+pericope: "[[Judg.18.1 The Danites Settle in Laish|The Danites Settle in Laish]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 18
+book/chapter: "[[Judg.18|Judges 18]]"
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic MAHANEH-DAN|MAHANEH-DAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H2583]]"
+- "[[H9003]]"
+- "[[H7157]]"
+- "[[H3063G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H7121H]]"
+- "[[H9005]]"
+- "[[H4725]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H4265]]"
+- "[[H5704]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H2009]]"
+- "[[H0310A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 18:12**<big><big>[[Judg.18.1 The Danites Settle in Laish|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they went up, and pitched in Kirjathjearim, in Judah: wherefore they called that place Mahanehdan unto this day: behold, [it is] behind Kirjathjearim.
 <small><sub>**BSB:**</sub></small>
 They went up and camped at Kiriath-jearim in Judah. That is why the place west of Kiriath-jearim is called Mahaneh-dan to this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H5927G\|יַּעֲל֗וּ]] [[H9001\|וַֽ]][[H2583\|יַּחֲנ֛וּ]] [[H9003\|בְּ]][[H7157\|קִרְיַ֥ת]] [[H7157\|יְעָרִ֖ים]] [[H9003\|בִּֽ]][[H3063G\|יהוּדָ֑ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֡ן]] [[H7121H\|קָרְאוּ֩]] [[H9005\|לַ]][[H4725\|מָּק֨וֹם]] [[H9009\|הַ]][[H1931\|ה֜וּא]] [[H4265\|מַחֲנֵה]][[H9014\|־]] [[H4265\|דָ֗ן]] [[H5704\|עַ֚ד]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H2009\|הִנֵּ֕ה]] [[H0310A\|אַחֲרֵ֖י]] [[H7157\|קִרְיַ֥ת]] [[H7157\|יְעָרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONATHAN|JONATHAN]] • [[topic MAHANEH-DAN|MAHANEH-DAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.11|<< Judges 18:11]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.13|Judges 18:13 >>]]</td></tr></table>
 

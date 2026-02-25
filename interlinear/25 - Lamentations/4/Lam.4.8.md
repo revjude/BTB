@@ -1,8 +1,60 @@
+---
+title: Lamentations 4:8
+type: Verse
+kjv: "Their visage is blacker than a coal; they are not known in the streets: their skin cleaveth to their bones; it is withered, it is become like a stick."
+bsb: "But now their appearance is blacker than soot; they are not recognized in the streets. Their skin has shriveled on their bones; it has become as dry as a stick."
+hebrew: "חָשַׁ֤ךְ מִשְּׁחוֹר֙ תָּֽאֳרָ֔ם לֹ֥א נִכְּר֖וּ בַּחוּצ֑וֹת צָפַ֤ד עוֹרָם֙ עַל־ עַצְמָ֔ם יָבֵ֖שׁ הָיָ֥ה כָעֵֽץ׃ ס"
+pericope: "[[Lam.4.1 The Distress of Zion|The Distress of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 4
+book/chapter: "[[Lam.4|Lamentations 4]]"
+chronological_order: 779
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic FAMINE|FAMINE]]"
+strongs:
+- "[[H2821]]"
+- "[[H9006]]"
+- "[[H7815]]"
+- "[[H8389]]"
+- "[[H9028]]"
+- "[[H3808]]"
+- "[[H5234A]]"
+- "[[H9003]]"
+- "[[H2351]]"
+- "[[H6821]]"
+- "[[H5785]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6106G]]"
+- "[[H3002]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H6086G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Lamentations 4:8**<big><big>[[Lam.4.1 The Distress of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their visage is blacker than a coal; they are not known in the streets: their skin cleaveth to their bones; it is withered, it is become like a stick.
 <small><sub>**BSB:**</sub></small>
 But now their appearance is blacker than soot; they are not recognized in the streets. Their skin has shriveled on their bones; it has become as dry as a stick.
+<small><sub>**Hebrew:**</sub></small>
+[[H2821\|חָשַׁ֤ךְ]] [[H9006\|מִ]][[H7815\|שְּׁחוֹר֙]] [[H8389\|תָּֽאֳרָ֔]][[H9028\|ם]] [[H3808\|לֹ֥א]] [[H5234A\|נִכְּר֖וּ]] [[H9003\|בַּ]][[H2351\|חוּצ֑וֹת]] [[H6821\|צָפַ֤ד]] [[H5785\|עוֹרָ]][[H9028\|ם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6106G\|עַצְמָ֔]][[H9028\|ם]] [[H3002\|יָבֵ֖שׁ]] [[H1961\|הָיָ֥ה]] [[H9004\|כָ]][[H6086G\|עֵֽץ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMINE|FAMINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.7|<< Lamentations 4:7]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.9|Lamentations 4:9 >>]]</td></tr></table>
 
@@ -20,7 +72,7 @@ But now their appearance is blacker than soot; they are not recognized in the st
 | bone their  |**<big>&#8207;[[H6106G\|עַצְמָ֔]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| 'atz.Ma<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | dry  |**<big>&#8207;[[H3002\|יָבֵ֖שׁ]]&#8207; </big>**| ya.Vesh<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has become  |**<big>&#8207;[[H1961\|הָיָ֥ה]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like \<the> wood  |**<big>&#8207;[[H9004\|כָ]]&#8207;&#8207;[[H6086G\|עֵֽץ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| kha.<small><sup>[[HRd]]</sup></small> 'Etz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> wood  |**<big>&#8207;[[H9004\|כָ]]&#8207;&#8207;[[H6086G\|עֵֽץ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| kha.<small><sup>[[HRd]]</sup></small> 'Etz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.7|<< Lamentations 4:7]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.9|Lamentations 4:9 >>]]</td></tr></table>
 
 

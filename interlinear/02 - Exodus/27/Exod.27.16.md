@@ -1,8 +1,71 @@
+---
+title: Exodus 27:16
+type: Verse
+kjv: "And for the gate of the court shall be an hanging of twenty cubits, of blue, and purple, and scarlet, and fine twined linen, wrought with needlework: and their pillars shall be four, and their sockets four."
+bsb: "The gate of the courtyard shall be twenty cubits long, with a curtain embroidered with blue, purple, and scarlet yarn, and finely spun linen. It shall have four posts and four bases."
+hebrew: "וּלְשַׁ֨עַר הֶֽחָצֵ֜ר מָסָ֣ךְ׀ עֶשְׂרִ֣ים אַמָּ֗ה תְּכֵ֨לֶת וְאַרְגָּמָ֜ן וְתוֹלַ֧עַת שָׁנִ֛י וְשֵׁ֥שׁ מָשְׁזָ֖ר מַעֲשֵׂ֣ה רֹקֵ֑ם עַמֻּֽדֵיהֶם֙ אַרְבָּעָ֔ה וְאַדְנֵיהֶ֖ם אַרְבָּעָֽה׃"
+pericope: "[[Exod.27.9 The Courtyard|The Courtyard]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 27
+book/chapter: "[[Exod.27|Exodus 27]]"
+chronological_order: 119
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic CURTAINS|CURTAINS]]"
+- "[[topic EMBROIDERY|EMBROIDERY]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TAPESTRY|TAPESTRY]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H8179G]]"
+- "[[H9009]]"
+- "[[H2691A]]"
+- "[[H4539]]"
+- "[[H9015]]"
+- "[[H6242]]"
+- "[[H0520A]]"
+- "[[H8504]]"
+- "[[H0713]]"
+- "[[H8438B]]"
+- "[[H8144]]"
+- "[[H8336B]]"
+- "[[H7806]]"
+- "[[H4639G]]"
+- "[[H7551]]"
+- "[[H5982G]]"
+- "[[H9028]]"
+- "[[H0702]]"
+- "[[H0134]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 27:16**<big><big>[[Exod.27.9 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for the gate of the court [shall be] an hanging of twenty cubits, [of] blue, and purple, and scarlet, and fine twined linen, wrought with needlework: [and] their pillars [shall be] four, and their sockets four.
 <small><sub>**BSB:**</sub></small>
 The gate of the courtyard shall be twenty cubits long, with a curtain embroidered with blue, purple, and scarlet yarn, and finely spun linen. It shall have four posts and four bases.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H8179G\|שַׁ֨עַר]] [[H9009\|הֶֽ]][[H2691A\|חָצֵ֜ר]] [[H4539\|מָסָ֣ךְ]][[H9015\|׀]] [[H6242\|עֶשְׂרִ֣ים]] [[H0520A\|אַמָּ֗ה]] [[H8504\|תְּכֵ֨לֶת]] [[H9002\|וְ]][[H0713\|אַרְגָּמָ֜ן]] [[H9002\|וְ]][[H8438B\|תוֹלַ֧עַת]] [[H8144\|שָׁנִ֛י]] [[H9002\|וְ]][[H8336B\|שֵׁ֥שׁ]] [[H7806\|מָשְׁזָ֖ר]] [[H4639G\|מַעֲשֵׂ֣ה]] [[H7551\|רֹקֵ֑ם]] [[H5982G\|עַמֻּֽדֵי]][[H9028\|הֶם֙]] [[H0702\|אַרְבָּעָ֔ה]] [[H9002\|וְ]][[H0134\|אַדְנֵי]][[H9028\|הֶ֖ם]] [[H0702\|אַרְבָּעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic CURTAINS|CURTAINS]] • [[topic EMBROIDERY|EMBROIDERY]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TAPESTRY|TAPESTRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.27.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.15|<< Exodus 27:15]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.17|Exodus 27:17 >>]]</td></tr></table>
 

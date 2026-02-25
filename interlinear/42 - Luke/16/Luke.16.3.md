@@ -1,10 +1,71 @@
+---
+title: Luke 16:3
+type: Verse
+kjv: "Then the steward said within himself, What shall I do? for my lord taketh away from me the stewardship: I cannot dig; to beg I am ashamed."
+bsb: "The manager said to himself, ‘What shall I do, now that my master is taking away my position? I am too weak to dig and too ashamed to beg."
+jesus_said: "Then the steward said within himself, What shall I do? for my lord taketh away from me the stewardship: I cannot dig; to beg I am ashamed."
+greek: "εἶπεν δὲ ἐν ἑαυτῷ ὁ οἰκονόμος· τί ποιήσω, ὅτι ὁ κύριός μου ἀφαιρεῖται τὴν οἰκονομίαν ἀπ᾽ ἐμοῦ; σκάπτειν οὐκ ἰσχύω, ἐπαιτεῖν αἰσχύνομαι."
+pericope: "[[Luke.16.1 The Parable of the Shrewd Manager|The Parable of the Shrewd Manager]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 16
+book/chapter: "[[Luke.16|Luke 16]]"
+chronological_order: 978
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BEGGARS|BEGGARS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic EMBEZZLEMENT|EMBEZZLEMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STEWARD|STEWARD]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G1722]]"
+- "[[G1438]]"
+- "[[G3588]]"
+- "[[G3623]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+- "[[G3754H]]"
+- "[[G2962H]]"
+- "[[G3165]]"
+- "[[G0851]]"
+- "[[G3622]]"
+- "[[G0575]]"
+- "[[G1473]]"
+- "[[G4626]]"
+- "[[G3756]]"
+- "[[G2480]]"
+- "[[G1871]]"
+- "[[G0153]]"
+texts:
+- NKO
+---
+
 **Luke 16:3**<big><big>[[Luke.16.1 The Parable of the Shrewd Manager|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then the steward said within himself, What shall I do? for my lord taketh away from me the stewardship: I cannot dig; to beg I am ashamed.
 <small><sub>**BSB:**</sub></small>
 The manager said to himself, ‘What shall I do, now that my master is taking away my position? I am too weak to dig and too ashamed to beg.
-<small><sub>**Literal:**</sub></small>
-Said then within himself the manager; What shall I do, for the master of me is taking away the management from me? To dig not I am able, to beg I am ashamed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.2|<< Luke 16:2]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.4|Luke 16:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G1438\|ἑαυτῷ]]  [[G3588\|ὁ]]  [[G3623\|οἰκονόμος·]]  [[G5101\|τί]]  [[G4160G\|ποιήσω,]]  [[G3754H\|ὅτι]]  [[G3588\|ὁ]]  [[G2962H\|κύριός]]  [[G3165\|μου]]  [[G0851\|ἀφαιρεῖται]]  [[G3588\|τὴν]]  [[G3622\|οἰκονομίαν]]  [[G0575\|ἀπ᾽]]  [[G1473\|ἐμοῦ;]]  [[G4626\|σκάπτειν]]  [[G3756\|οὐκ]]  [[G2480\|ἰσχύω,]]  [[G1871\|ἐπαιτεῖν]]  [[G0153\|αἰσχύνομαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEGGARS|BEGGARS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic EMBEZZLEMENT|EMBEZZLEMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]] • [[topic PROBATION|PROBATION]] • [[topic SERVANT|SERVANT]] • [[topic STEWARD|STEWARD]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.2|<< Luke 16:2]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.4|Luke 16:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,68 @@
+---
+title: Hosea 1:10
+type: Verse
+kjv: "Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God."
+bsb: "Yet the number of the Israelites will be like the sand of the sea, which cannot be measured or counted. And it will happen that in the very place where it was said to them, ‘You are not My people,’ they will be called ‘sons of the living God.’"
+hebrew: "וְֽ֠הָיָה מִסְפַּ֤ר בְּנֵֽי־ יִשְׂרָאֵל֙ כְּח֣וֹל הַיָּ֔ם אֲשֶׁ֥ר לֹֽא־ יִמַּ֖ד וְלֹ֣א יִסָּפֵ֑ר וְֽ֠הָיָה בִּמְק֞וֹם אֲשֶׁר־ יֵאָמֵ֤ר לָהֶם֙ לֹֽא־ עַמִּ֣י אַתֶּ֔ם יֵאָמֵ֥ר לָהֶ֖ם בְּנֵ֥י אֵֽל־ חָֽי׃"
+pericope: "[[Hos.1.1 Hosea’s Wife and Children|Hosea’s Wife and Children]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 1
+book/chapter: "[[Hos.1|Hosea 1]]"
+chronological_order: 642
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H4557]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9004]]"
+- "[[H2344]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H4058]]"
+- "[[H9002]]"
+- "[[H5608A]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H0859D]]"
+- "[[H0410G]]"
+- "[[H2416A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 1:10**<big><big>[[Hos.1.1 Hosea’s Wife and Children|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, [that] in the place where it was said unto them, Ye [are] not my people, [there] it shall be said unto them, [Ye are] the sons of the living God.
 <small><sub>**BSB:**</sub></small>
 Yet the number of the Israelites will be like the sand of the sea, which cannot be measured or counted. And it will happen that in the very place where it was said to them, ‘You are not My people,’ they will be called ‘sons of the living God.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְֽ֠]][[H1961\|הָיָה]] [[H4557\|מִסְפַּ֤ר]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9004\|כְּ]][[H2344\|ח֣וֹל]] [[H9009\|הַ]][[H3220G\|יָּ֔ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H4058\|יִמַּ֖ד]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H5608A\|יִסָּפֵ֑ר]] [[H9001\|וְֽ֠]][[H1961\|הָיָה]] [[H9003\|בִּ]][[H4725\|מְק֞וֹם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0559\|יֵאָמֵ֤ר]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5971A\|עַמִּ֣]][[H9020\|י]] [[H0859D\|אַתֶּ֔ם]] [[H0559\|יֵאָמֵ֥ר]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H1121G\|בְּנֵ֥י]] [[H0410G\|אֵֽל]][[H9014\|־]] [[H2416A\|חָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.1.9|<< Hosea 1:9]]</td><td align="center" style="border:none;">[[Hos.1|Hosea 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.1.11|Hosea 1:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

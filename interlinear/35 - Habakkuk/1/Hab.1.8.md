@@ -1,8 +1,66 @@
+---
+title: Habakkuk 1:8
+type: Verse
+kjv: "Their horses also are swifter than the leopards, and are more fierce than the evening wolves: and their horsemen shall spread themselves, and their horsemen shall come from far; they shall fly as the eagle that hasteth to eat."
+bsb: "Their horses are swifter than leopards, fiercer than wolves of the night. Their horsemen charge ahead, and their cavalry comes from afar. They fly like a vulture, swooping down to devour."
+hebrew: "וְקַלּ֨וּ מִנְּמֵרִ֜ים סוּסָ֗יו וְחַדּוּ֙ מִזְּאֵ֣בֵי עֶ֔רֶב וּפָ֖שׁוּ פָּֽרָשָׁ֑יו וּפָֽרָשָׁיו֙ מֵרָח֣וֹק יָבֹ֔אוּ יָעֻ֕פוּ כְּנֶ֖שֶׁר חָ֥שׁ לֶאֱכֽוֹל׃"
+pericope: "[[Hab.1.5 The LORD’s Answer|The LORD’s Answer]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 1
+book/chapter: "[[Hab.1|Habakkuk 1]]"
+chronological_order: 738
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LEOPARD|LEOPARD]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H7043]]"
+- "[[H9006]]"
+- "[[H5246]]"
+- "[[H5483M]]"
+- "[[H9023]]"
+- "[[H2300A]]"
+- "[[H2061]]"
+- "[[H6153]]"
+- "[[H6335A]]"
+- "[[H6571B]]"
+- "[[H9002]]"
+- "[[H7350]]"
+- "[[H0935G]]"
+- "[[H5774A]]"
+- "[[H9004]]"
+- "[[H5404]]"
+- "[[H2363A]]"
+- "[[H9005]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 1:8**<big><big>[[Hab.1.5 The LORD’s Answer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their horses also are swifter than the leopards, and are more fierce than the evening wolves: and their horsemen shall spread themselves, and their horsemen shall come from far; they shall fly as the eagle [that] hasteth to eat.
 <small><sub>**BSB:**</sub></small>
 Their horses are swifter than leopards, fiercer than wolves of the night. Their horsemen charge ahead, and their cavalry comes from afar. They fly like a vulture, swooping down to devour.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7043\|קַלּ֨וּ]] [[H9006\|מִ]][[H5246\|נְּמֵרִ֜ים]] [[H5483M\|סוּסָ֗י]][[H9023\|ו]] [[H9001\|וְ]][[H2300A\|חַדּוּ֙]] [[H9006\|מִ]][[H2061\|זְּאֵ֣בֵי]] [[H6153\|עֶ֔רֶב]] [[H9001\|וּ]][[H6335A\|פָ֖שׁוּ]] [[H6571B\|פָּֽרָשָׁ֑י]][[H9023\|ו]] [[H9002\|וּ]][[H6571B\|פָֽרָשָׁי]][[H9023\|ו֙]] [[H9006\|מֵ]][[H7350\|רָח֣וֹק]] [[H0935G\|יָבֹ֔אוּ]] [[H5774A\|יָעֻ֕פוּ]] [[H9004\|כְּ]][[H5404\|נֶ֖שֶׁר]] [[H2363A\|חָ֥שׁ]] [[H9005\|לֶ]][[H0398\|אֱכֽוֹל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LEOPARD|LEOPARD]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.7|<< Habakkuk 1:7]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.9|Habakkuk 1:9 >>]]</td></tr></table>
 

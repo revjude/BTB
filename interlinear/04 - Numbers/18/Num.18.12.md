@@ -1,8 +1,63 @@
+---
+title: Numbers 18:12
+type: Verse
+kjv: "All the best of the oil, and all the best of the wine, and of the wheat, the firstfruits of them which they shall offer unto the LORD, them have I given thee."
+bsb: "I give you all the freshest olive oil and all the finest new wine and grain that the Israelites give to the LORD as their firstfruits."
+hebrew: "כֹּ֚ל חֵ֣לֶב יִצְהָ֔ר וְכָל־ חֵ֖לֶב תִּיר֣וֹשׁ וְדָגָ֑ן רֵאשִׁיתָ֛ם אֲשֶׁר־ יִתְּנ֥וּ לַֽיהוָ֖ה לְךָ֥ נְתַתִּֽים׃"
+pericope: "[[Num.18.8 Offerings for Priests and Levites|Offerings for Priests and Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 18
+book/chapter: "[[Num.18|Numbers 18]]"
+chronological_order: 178
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic FIRST FRUITS|FIRST FRUITS]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic WHEAT|WHEAT]]"
+strongs:
+- "[[H3605]]"
+- "[[H2459]]"
+- "[[H3323]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H8492]]"
+- "[[H1715]]"
+- "[[H7225G]]"
+- "[[H9028]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9031]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 18:12**<big><big>[[Num.18.8 Offerings for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the best of the oil, and all the best of the wine, and of the wheat, the firstfruits of them which they shall offer unto the LORD, them have I given thee.
 <small><sub>**BSB:**</sub></small>
 I give you all the freshest olive oil and all the finest new wine and grain that the Israelites give to the LORD as their firstfruits.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כֹּ֚ל]] [[H2459\|חֵ֣לֶב]] [[H3323\|יִצְהָ֔ר]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H2459\|חֵ֖לֶב]] [[H8492\|תִּיר֣וֹשׁ]] [[H9002\|וְ]][[H1715\|דָגָ֑ן]] [[H7225G\|רֵאשִׁיתָ֛]][[H9028\|ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414G\|יִתְּנ֥וּ]] [[H9005\|לַֽ]][[H3068G\|יהוָ֖ה]] [[H9005\|לְ]][[H9031\|ךָ֥]] [[H5414G\|נְתַתִּֽי]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRST FRUITS|FIRST FRUITS]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]] • [[topic WHEAT|WHEAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.11|<< Numbers 18:11]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.13|Numbers 18:13 >>]]</td></tr></table>
 

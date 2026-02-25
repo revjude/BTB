@@ -1,10 +1,66 @@
+---
+title: Revelation 12:11
+type: Verse
+kjv: "And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death."
+bsb: "They have conquered him by the blood of the Lamb and by the word of their testimony. And they did not love their lives so as to shy away from death."
+greek: "καὶ αὐτοὶ ἐνίκησαν αὐτὸν διὰ τὸ αἷμα τοῦ ἀρνίου καὶ διὰ τὸν λόγον τῆς μαρτυρίας αὐτῶν καὶ οὐκ ἠγάπησαν τὴν ψυχὴν αὐτῶν ἄχρι θανάτου."
+pericope: "[[Rev.12.7 The War in Heaven|The War in Heaven]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 12
+book/chapter: "[[Rev.12|Revelation 12]]"
+chronological_order: 1179
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAMB OF GOD|LAMB OF GOD]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G3528]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G0129G]]"
+- "[[G0721]]"
+- "[[G3056]]"
+- "[[G3141]]"
+- "[[G3756]]"
+- "[[G0025]]"
+- "[[G5590H]]"
+- "[[G0891]]"
+- "[[G2288]]"
+texts:
+- NKO
+---
+
 **Revelation 12:11**<big><big>[[Rev.12.7 The War in Heaven|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death.
 <small><sub>**BSB:**</sub></small>
 They have conquered him by the blood of the Lamb and by the word of their testimony. And they did not love their lives so as to shy away from death.
-<small><sub>**Literal:**</sub></small>
-And they themselves overcame him through the blood of the Lamb and through the word of the testimony of them and not they have loved the life of them unto death.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.10|<< Revelation 12:10]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.12|Revelation 12:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0846\|αὐτοὶ]]  [[G3528\|ἐνίκησαν]]  [[G0846\|αὐτὸν]]  [[G1223\|διὰ]]  [[G3588\|τὸ]]  [[G0129G\|αἷμα]]  [[G3588\|τοῦ]]  [[G0721\|ἀρνίου]]  [[G2532\|καὶ]]  [[G1223\|διὰ]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τῆς]]  [[G3141\|μαρτυρίας]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G0025\|ἠγάπησαν]]  [[G3588\|τὴν]]  [[G5590H\|ψυχὴν]]  [[G0846\|αὐτῶν]]  [[G0891\|ἄχρι]]  [[G2288\|θανάτου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BLOOD|BLOOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAMB OF GOD|LAMB OF GOD]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SATAN|SATAN]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic TEMPTATION|TEMPTATION]] • [[topic TESTIMONY|TESTIMONY]] • [[topic VISION|VISION]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.10|<< Revelation 12:10]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.12|Revelation 12:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

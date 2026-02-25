@@ -1,8 +1,47 @@
+---
+title: Job 7:14
+type: Verse
+kjv: "Then thou scarest me with dreams, and terrifiest me through visions:"
+bsb: "then You frighten me with dreams and terrify me with visions,"
+hebrew: "וְחִתַּתַּ֥נִי בַחֲלֹמ֑וֹת וּֽמֵחֶזְיֹנ֥וֹת תְּבַעֲתַֽנִּי׃"
+pericope: "[[Job.7.1 Job Continues：Life Seems Futile|Job Continues：Life Seems Futile]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 7
+book/chapter: "[[Job.7|Job 7]]"
+chronological_order: 18
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H9001]]"
+- "[[H2865]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H2472]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H2384]]"
+- "[[H1204]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 7:14**<big><big>[[Job.7.1 Job Continues：Life Seems Futile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then thou scarest me with dreams, and terrifiest me through visions:
 <small><sub>**BSB:**</sub></small>
 then You frighten me with dreams and terrify me with visions,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2865\|חִתַּתַּ֥]][[H9030\|נִי]] [[H9003\|בַ]][[H2472\|חֲלֹמ֑וֹת]] [[H9002\|וּֽ]][[H9006\|מֵ]][[H2384\|חֶזְיֹנ֥וֹת]] [[H1204\|תְּבַעֲתַֽ]][[H9030\|נִּי]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.7.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.7.13|<< Job 7:13]]</td><td align="center" style="border:none;">[[Job.7|Job 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.7.15|Job 7:15 >>]]</td></tr></table>
 

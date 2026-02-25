@@ -1,8 +1,71 @@
+---
+title: Genesis 19:31
+type: Verse
+kjv: "And the firstborn said unto the younger, Our father is old, and there is not a man in the earth to come in unto us after the manner of all the earth:"
+bsb: "One day the older daughter said to the younger, “Our father is old, and there is no man in the land to sleep with us, as is the custom over all the earth."
+hebrew: "וַתֹּ֧אמֶר הַבְּכִירָ֛ה אֶל־ הַצְּעִירָ֖ה אָבִ֣ינוּ זָקֵ֑ן וְאִ֨ישׁ אֵ֤ין בָּאָ֙רֶץ֙ לָב֣וֹא עָלֵ֔ינוּ כְּדֶ֖רֶךְ כָּל־ הָאָֽרֶץ׃"
+pericope: "[[Gen.19.30 Lot and His Daughters|Lot and His Daughters]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 19
+book/chapter: "[[Gen.19|Genesis 19]]"
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic INCEST|INCEST]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic LOT|LOT]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H1067]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6810]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H2204]]"
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H0369]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H9004]]"
+- "[[H1870G]]"
+- "[[H3605]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 19:31**<big><big>[[Gen.19.30 Lot and His Daughters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the firstborn said unto the younger, Our father [is] old, and [there is] not a man in the earth to come in unto us after the manner of all the earth:
 <small><sub>**BSB:**</sub></small>
 One day the older daughter said to the younger, “Our father is old, and there is no man in the land to sleep with us, as is the custom over all the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֧אמֶר]] [[H9009\|הַ]][[H1067\|בְּכִירָ֛ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H6810\|צְּעִירָ֖ה]] [[H0001G\|אָבִ֣י]][[H9025\|נוּ]] [[H2204\|זָקֵ֑ן]] [[H9002\|וְ]][[H0376G\|אִ֨ישׁ]] [[H0369\|אֵ֤ין]] [[H9003\|בָּ]][[H0776G\|אָ֙רֶץ֙]] [[H9005\|לָ]][[H0935G\|ב֣וֹא]] [[H5921A\|עָלֵ֔י]][[H9035\|נוּ]] [[H9004\|כְּ]][[H1870G\|דֶ֖רֶךְ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHILDREN|CHILDREN]] • [[topic INCEST|INCEST]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic LOT|LOT]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.30|<< Genesis 19:30]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.32|Genesis 19:32 >>]]</td></tr></table>
 

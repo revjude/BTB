@@ -1,8 +1,75 @@
+---
+title: Nehemiah 9:19
+type: Verse
+kjv: "Yet thou in thy manifold mercies forsookest them not in the wilderness: the pillar of the cloud departed not from them by day, to lead them in the way; neither the pillar of fire by night, to shew them light, and the way wherein they should go."
+bsb: "You in Your great compassion did not forsake them in the wilderness. By day the pillar of cloud never turned away from guiding them on their path; and by the night the pillar of fire illuminated the way they should go."
+hebrew: "וְאַתָּה֙ בְּרַחֲמֶ֣יךָ הָֽרַבִּ֔ים לֹ֥א עֲזַבְתָּ֖ם בַּמִּדְבָּ֑ר אֶת־ עַמּ֣וּד הֶ֠עָנָן לֹא־ סָ֨ר מֵעֲלֵיהֶ֤ם בְּיוֹמָם֙ לְהַנְחֹתָ֣ם בְּהַדֶּ֔רֶךְ וְאֶת־ עַמּ֨וּד הָאֵ֤שׁ בְּלַ֙יְלָה֙ לְהָאִ֣יר לָהֶ֔ם וְאֶת־ הַדֶּ֖רֶךְ אֲשֶׁ֥ר יֵֽלְכוּ־ בָֽהּ׃"
+pericope: "[[Neh.9.1 The People Confess Their Sins|The People Confess Their Sins]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 9
+book/chapter: "[[Neh.9|Nehemiah 9]]"
+chronological_order: 921
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H9003]]"
+- "[[H7356B]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H7227A]]"
+- "[[H3808]]"
+- "[[H5800A]]"
+- "[[H9038]]"
+- "[[H4057B]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5982G]]"
+- "[[H6051]]"
+- "[[H5493H]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H3117G]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H5148]]"
+- "[[H1870K]]"
+- "[[H0784]]"
+- "[[H3915]]"
+- "[[H0215]]"
+- "[[H0834A]]"
+- "[[H1980G]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 9:19**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet thou in thy manifold mercies forsookest them not in the wilderness: the pillar of the cloud departed not from them by day, to lead them in the way; neither the pillar of fire by night, to shew them light, and the way wherein they should go.
 <small><sub>**BSB:**</sub></small>
 You in Your great compassion did not forsake them in the wilderness. By day the pillar of cloud never turned away from guiding them on their path; and by the night the pillar of fire illuminated the way they should go.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּה֙]] [[H9003\|בְּ]][[H7356B\|רַחֲמֶ֣י]][[H9021\|ךָ]] [[H9009\|הָֽ]][[H7227A\|רַבִּ֔ים]] [[H3808\|לֹ֥א]] [[H5800A\|עֲזַבְתָּ֖]][[H9038\|ם]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֑ר]] [[H0853\|אֶת]][[H9014\|־]] [[H5982G\|עַמּ֣וּד]] [[H9009\|הֶ֠]][[H6051\|עָנָן]] [[H3808\|לֹא]][[H9014\|־]] [[H5493H\|סָ֨ר]] [[H9006\|מֵ]][[H5921A\|עֲלֵי]][[H9038\|הֶ֤ם]] [[H9003\|בְּ]][[H3117G\|יוֹמָ]][[H9028\|ם֙]] [[H9005\|לְ]][[H5148\|הַנְחֹתָ֣]][[H9038\|ם]] [[H9003\|בְּ]][[H9009\|הַ]][[H1870K\|דֶּ֔רֶךְ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5982G\|עַמּ֨וּד]] [[H9009\|הָ]][[H0784\|אֵ֤שׁ]] [[H9003\|בְּ]][[H3915\|לַ֙יְלָה֙]] [[H9005\|לְ]][[H0215\|הָאִ֣יר]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1870K\|דֶּ֖רֶךְ]] [[H0834A\|אֲשֶׁ֥ר]] [[H1980G\|יֵֽלְכוּ]][[H9014\|־]] [[H9003\|בָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic GOD|GOD]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.18|<< Nehemiah 9:18]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.20|Nehemiah 9:20 >>]]</td></tr></table>
 

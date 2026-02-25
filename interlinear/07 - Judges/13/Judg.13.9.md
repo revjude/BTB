@@ -1,8 +1,66 @@
+---
+title: Judges 13:9
+type: Verse
+kjv: "And God hearkened to the voice of Manoah; and the angel of God came again unto the woman as she sat in the field: but Manoah her husband was not with her."
+bsb: "And God listened to the voice of Manoah, and the angel of God returned to the woman as she was sitting in the field; but her husband Manoah was not with her."
+hebrew: "וַיִּשְׁמַ֥ע הָאֱלֹהִ֖ים בְּק֣וֹל מָנ֑וֹחַ וַיָּבֹ֣א מַלְאַךְ֩ הָאֱלֹהִ֨ים ע֜וֹד אֶל־ הָאִשָּׁ֗ה וְהִיא֙ יוֹשֶׁ֣בֶת בַּשָּׂדֶ֔ה וּמָנ֥וֹחַ אִישָׁ֖הּ אֵ֥ין עִמָּֽהּ׃"
+pericope: "[[Judg.13.1 The Birth of Samson|The Birth of Samson]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 13
+book/chapter: "[[Judg.13|Judges 13]]"
+chronological_order: 267
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]]"
+- "[[topic CONCEPTION|CONCEPTION]]"
+- "[[topic MANOAH|MANOAH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H4495]]"
+- "[[H0935G]]"
+- "[[H4397H]]"
+- "[[H5750]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0802G]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H3427]]"
+- "[[H7704G]]"
+- "[[H0376H]]"
+- "[[H9024]]"
+- "[[H0369]]"
+- "[[H5973A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 13:9**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God hearkened to the voice of Manoah; and the angel of God came again unto the woman as she sat in the field: but Manoah her husband [was] not with her.
 <small><sub>**BSB:**</sub></small>
 And God listened to the voice of Manoah, and the angel of God returned to the woman as she was sitting in the field; but her husband Manoah was not with her.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֥ע]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H9003\|בְּ]][[H6963A\|ק֣וֹל]] [[H4495\|מָנ֑וֹחַ]] [[H9001\|וַ]][[H0935G\|יָּבֹ֣א]] [[H4397H\|מַלְאַךְ֩]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֨ים]] [[H5750\|ע֜וֹד]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֗ה]] [[H9002\|וְ]][[H1931\|הִיא֙]] [[H3427\|יוֹשֶׁ֣בֶת]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶ֔ה]] [[H9002\|וּ]][[H4495\|מָנ֥וֹחַ]] [[H0376H\|אִישָׁ֖]][[H9024\|הּ]] [[H0369\|אֵ֥ין]] [[H5973A\|עִמָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]] • [[topic CONCEPTION|CONCEPTION]] • [[topic MANOAH|MANOAH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.8|<< Judges 13:8]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.10|Judges 13:10 >>]]</td></tr></table>
 

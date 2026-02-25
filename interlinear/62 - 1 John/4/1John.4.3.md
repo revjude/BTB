@@ -1,10 +1,70 @@
+---
+title: 1 John 4:3
+type: Verse
+kjv: "And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof ye have heard that it should come; and even now already is it in the world."
+bsb: "and every spirit that does not confess Jesus is not from God. This is the spirit of the antichrist, which you have heard is coming and which is already in the world at this time."
+greek: "καὶ πᾶν πνεῦμα ὃ μὴ ὁμολογεῖ τὸν Ἰησοῦν Χριστὸν ἐν σαρκὶ ἐληλυθότα ἐκ τοῦ θεοῦ οὐκ ἔστιν· καὶ τοῦτό ἐστιν τὸ τοῦ ἀντιχρίστου ὃ ἀκηκόατε ὅτι ἔρχεται καὶ νῦν ἐν τῷ κόσμῳ ἐστὶν ἤδη."
+pericope: "[[1John.4.1 Testing the Spirits|Testing the Spirits]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 4
+book/chapter: "[[1John.4|1 John 4]]"
+chronological_order: 1164
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic ANTICHRIST|ANTICHRIST]]"
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G4151G]]"
+- "[[G3739]]"
+- "[[G3361]]"
+- "[[G3670]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G1722]]"
+- "[[G4561]]"
+- "[[G2064]]"
+- "[[G1537]]"
+- "[[G2316]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G3778]]"
+- "[[G0500]]"
+- "[[G0191]]"
+- "[[G3754G]]"
+- "[[G3568]]"
+- "[[G2889]]"
+- "[[G2235]]"
+texts:
+- NKO
+- K
+---
+
 **1 John 4:3**<big><big>[[1John.4.1 Testing the Spirits|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that [spirit] of antichrist, whereof ye have heard that it should come; and even now already is it in the world.
 <small><sub>**BSB:**</sub></small>
 and every spirit that does not confess Jesus is not from God. This is the spirit of the antichrist, which you have heard is coming and which is already in the world at this time.
-<small><sub>**Literal:**</sub></small>
-and any spirit that not confesses <the> Jesus Christ in flesh having come from <the> God not is; And this is that of the antichrist which you have heard that is coming and now in the world is already.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.2|<< 1 John 4:2]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.4|1 John 4:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3956\|πᾶν]]  [[G4151G\|πνεῦμα]]  [[G3739\|ὃ]]  [[G3361\|μὴ]]  [[G3670\|ὁμολογεῖ]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G5547\|Χριστὸν]]  [[G1722\|ἐν]]  [[G4561\|σαρκὶ]]  [[G2064\|ἐληλυθότα]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν·]]  [[G2532\|καὶ]]  [[G3778\|τοῦτό]]  [[G1510\|ἐστιν]]  [[G3588\|τὸ]]  [[G3588\|τοῦ]]  [[G0500\|ἀντιχρίστου]]  [[G3739\|ὃ]]  [[G0191\|ἀκηκόατε]]  [[G3754G\|ὅτι]]  [[G2064\|ἔρχεται]]  [[G2532\|καὶ]]  [[G3568\|νῦν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2889\|κόσμῳ]]  [[G1510\|ἐστὶν]]  [[G2235\|ἤδη.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTICHRIST|ANTICHRIST]] • [[topic CONFESSION|CONFESSION]] • [[topic DOCTRINES|DOCTRINES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.2|<< 1 John 4:2]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.4|1 John 4:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

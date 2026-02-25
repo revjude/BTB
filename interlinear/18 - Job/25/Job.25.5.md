@@ -1,8 +1,58 @@
+---
+title: Job 25:5
+type: Verse
+kjv: "Behold even to the moon, and it shineth not; yea, the stars are not pure in his sight."
+bsb: "If even the moon does not shine, and the stars are not pure in His sight,"
+hebrew: "הֵ֣ן עַד־ יָ֭רֵחַ וְלֹ֣א יַאֲהִ֑יל וְ֝כוֹכָבִ֗ים לֹא־ זַכּ֥וּ בְעֵינָֽיו׃"
+pericope: "[[Job.25.1 Bildad：Man Cannot Be Righteous|Bildad：Man Cannot Be Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 25
+book/chapter: "[[Job.25|Job 25]]"
+chronological_order: 36
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic MAN|MAN]]"
+- "[[topic MOON|MOON]]"
+strongs:
+- "[[H2005]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H3394]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0166]]"
+- "[[H3556]]"
+- "[[H2141]]"
+- "[[H9003]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 25:5**<big><big>[[Job.25.1 Bildad：Man Cannot Be Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold even to the moon, and it shineth not; yea, the stars are not pure in his sight.
 <small><sub>**BSB:**</sub></small>
 If even the moon does not shine, and the stars are not pure in His sight,
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵ֣ן]] [[H5704\|עַד]][[H9014\|־]] [[H3394\|יָ֭רֵחַ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H0166\|יַאֲהִ֑יל]] [[H9002\|וְ֝]][[H3556\|כוֹכָבִ֗ים]] [[H3808\|לֹא]][[H9014\|־]] [[H2141\|זַכּ֥וּ]] [[H9003\|בְ]][[H5869A\|עֵינָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GOD|GOD]] • [[topic HUMILITY|HUMILITY]] • [[topic MAN|MAN]] • [[topic MOON|MOON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.25.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.25.4|<< Job 25:4]]</td><td align="center" style="border:none;">[[Job.25|Job 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.25.6|Job 25:6 >>]]</td></tr></table>
 

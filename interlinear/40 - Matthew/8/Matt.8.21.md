@@ -1,10 +1,59 @@
+---
+title: Matthew 8:21
+type: Verse
+kjv: "And another of his disciples said unto him, Lord, suffer me first to go and bury my father."
+bsb: "Another of His disciples requested, “Lord, first let me go and bury my father.”"
+greek: "Ἕτερος δὲ τῶν μαθητῶν αὐτοῦ εἶπεν αὐτῷ· κύριε, ἐπίτρεψόν μοι πρῶτον ἀπελθεῖν καὶ θάψαι τὸν πατέρα μου.¶"
+pericope: "[[Matt.8.18 The Cost of Discipleship|The Cost of Discipleship]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 8
+book/chapter: "[[Matt.8|Matthew 8]]"
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic EXCUSES|EXCUSES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+strongs:
+- "[[G2087]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G2962G]]"
+- "[[G2010]]"
+- "[[G3165]]"
+- "[[G4413G]]"
+- "[[G0565]]"
+- "[[G2532]]"
+- "[[G2290]]"
+- "[[G3962]]"
+texts:
+- NKO
+---
+
 **Matthew 8:21**<big><big>[[Matt.8.18 The Cost of Discipleship|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And another of his disciples said unto him, Lord, suffer me first to go and bury my father.
 <small><sub>**BSB:**</sub></small>
 Another of His disciples requested, “Lord, first let me go and bury my father.”
-<small><sub>**Literal:**</sub></small>
-Another now of the disciples of Him said to Him; Lord, do allow me first to go and to bury the father of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.20|<< Matthew 8:20]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.22|Matthew 8:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2087\|Ἕτερος]]  [[G1161\|δὲ]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G0846\|αὐτοῦ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G2962G\|κύριε,]]  [[G2010\|ἐπίτρεψόν]]  [[G3165\|μοι]]  [[G4413G\|πρῶτον]]  [[G0565\|ἀπελθεῖν]]  [[G2532\|καὶ]]  [[G2290\|θάψαι]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G3165\|μου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic DECISION|DECISION]] • [[topic EXCUSES|EXCUSES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROCRASTINATION|PROCRASTINATION]] • [[topic SELF-DENIAL|SELF-DENIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.20|<< Matthew 8:20]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.22|Matthew 8:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

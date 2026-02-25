@@ -1,10 +1,64 @@
+---
+title: Galatians 6:8
+type: Verse
+kjv: "For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting."
+bsb: "The one who sows to please his flesh, from the flesh will reap destruction; but the one who sows to please the Spirit, from the Spirit will reap eternal life."
+greek: "ὅτι ὁ σπείρων εἰς τὴν σάρκα ἑαυτοῦ ἐκ τῆς σαρκὸς θερίσει φθοράν, ὁ δὲ σπείρων εἰς τὸ πνεῦμα ἐκ τοῦ πνεύματος θερίσει ζωὴν αἰώνιον."
+pericope: "[[Gal.6.1 Carry One Another’s Burdens|Carry One Another’s Burdens]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 6
+book/chapter: "[[Gal.6|Galatians 6]]"
+chronological_order: 1044
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic CARNAL MINDEDNESS|CARNAL MINDEDNESS]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic CORRUPTION|CORRUPTION]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SEED|SEED]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SOWER|SOWER]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3754H]]"
+- "[[G3588]]"
+- "[[G4687]]"
+- "[[G1519]]"
+- "[[G4561]]"
+- "[[G1438]]"
+- "[[G1537]]"
+- "[[G2325]]"
+- "[[G5356]]"
+- "[[G1161]]"
+- "[[G4151G]]"
+- "[[G2222]]"
+- "[[G0166]]"
+texts:
+- NKO
+---
+
 **Galatians 6:8**<big><big>[[Gal.6.1 Carry One Another’s Burdens|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting.
 <small><sub>**BSB:**</sub></small>
 The one who sows to please his flesh, from the flesh will reap destruction; but the one who sows to please the Spirit, from the Spirit will reap eternal life.
-<small><sub>**Literal:**</sub></small>
-For the [one] sowing to the flesh of himself from the flesh will reap decay, The [one] however sowing to the Spirit from the Spirit will reap life eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.7|<< Galatians 6:7]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.9|Galatians 6:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G3588\|ὁ]]  [[G4687\|σπείρων]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4561\|σάρκα]]  [[G1438\|ἑαυτοῦ]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G4561\|σαρκὸς]]  [[G2325\|θερίσει]]  [[G5356\|φθοράν,]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G4687\|σπείρων]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4151G\|πνεύματος]]  [[G2325\|θερίσει]]  [[G2222\|ζωὴν]]  [[G0166\|αἰώνιον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARNAL MINDEDNESS|CARNAL MINDEDNESS]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic CORRUPTION|CORRUPTION]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JUDGMENT|JUDGMENT]] • [[topic LIFE|LIFE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SEED|SEED]] • [[topic SIN|SIN]] • [[topic SOWER|SOWER]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.7|<< Galatians 6:7]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.9|Galatians 6:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

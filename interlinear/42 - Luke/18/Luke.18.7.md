@@ -1,10 +1,64 @@
+---
+title: Luke 18:7
+type: Verse
+kjv: "And shall not God avenge his own elect, which cry day and night unto him, though he bear long with them?"
+bsb: "Will not God bring about justice for His elect who cry out to Him day and night? Will He delay in helping them?"
+jesus_said: "And shall not God avenge his own elect, which cry day and night unto him, though he bear long with them?"
+greek: "ὁ δὲ θεὸς οὐ μὴ ποιήσῃ τὴν ἐκδίκησιν τῶν ἐκλεκτῶν αὐτοῦ τῶν βοώντων πρὸς αὐτῷ ἡμέρας καὶ νυκτός, καὶ μακροθυμεῖ ἐπ᾽ αὐτοῖς;"
+pericope: "[[Luke.18.1 The Parable of the Persistent Widow|The Parable of the Persistent Widow]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 18
+book/chapter: "[[Luke.18|Luke 18]]"
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2316]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G4160G]]"
+- "[[G1557]]"
+- "[[G1588]]"
+- "[[G0846]]"
+- "[[G0994]]"
+- "[[G4314]]"
+- "[[G2250]]"
+- "[[G2532]]"
+- "[[G3571]]"
+- "[[G3114]]"
+- "[[G1909]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Luke 18:7**<big><big>[[Luke.18.1 The Parable of the Persistent Widow|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And shall not God avenge his own elect, which cry day and night unto him, though he bear long with them?
 <small><sub>**BSB:**</sub></small>
 Will not God bring about justice for His elect who cry out to Him day and night? Will He delay in helping them?
-<small><sub>**Literal:**</sub></small>
-<the> And God certainly not may do the avenging of the elect of Him the [ones] crying out to to Him day and night, and be patient in regard to them?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.6|<< Luke 18:6]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.8|Luke 18:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2316\|θεὸς]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G4160G\|ποιήσῃ]]  [[G3588\|τὴν]]  [[G1557\|ἐκδίκησιν]]  [[G3588\|τῶν]]  [[G1588\|ἐκλεκτῶν]]  [[G0846\|αὐτοῦ]]  [[G3588\|τῶν]]  [[G0994\|βοώντων]]  [[G4314\|πρὸς]]  [[G0846\|αὐτῷ]]  [[G2250\|ἡμέρας]]  [[G2532\|καὶ]]  [[G3571\|νυκτός,]]  [[G2532\|καὶ]]  [[G3114\|μακροθυμεῖ]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτοῖς;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESPONDENCY|DESPONDENCY]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]] • [[topic PREDESTINATION|PREDESTINATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.6|<< Luke 18:6]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.8|Luke 18:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

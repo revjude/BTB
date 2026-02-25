@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Covenant at Horeb
+type: Pericope
 pericope: "[[Deut.5.1 The Covenant at Horeb|The Covenant at Horeb]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 5
 book/chapter: "[[Deut.5|Deuteronomy 5]]"
-genre:
+chronological_order: 201
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 4
 verses:
 - "[[Deut.5.1]]"
 - "[[Deut.5.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Deut.5.4]]"
 ---
 
-[[Deut.5|Deuteronomy 5:1 - Deuteronomy 5:4]]
+<small>[[Deut.5|Deuteronomy 5:1-4]]</small>
 *The Covenant at Horeb*
 
 [[Deut.5.1|1]] And Moses called all Israel, and said unto them, Hear, O Israel, the statutes and judgments which I speak in your ears this day, that ye may learn them, and keep, and do them.

@@ -1,10 +1,63 @@
+---
+title: James 1:5
+type: Verse
+kjv: "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him."
+bsb: "Now if any of you lacks wisdom, he should ask God, who gives generously to all without finding fault, and it will be given to him."
+greek: "εἰ δέ τις ὑμῶν λείπεται σοφίας, αἰτείτω παρὰ τοῦ διδόντος θεοῦ πᾶσιν ἁπλῶς καὶ μὴ ὀνειδίζοντος, καὶ δοθήσεται αὐτῷ."
+pericope: "[[Jas.1.2 Rejoicing in Trials|Rejoicing in Trials]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 1
+book/chapter: "[[Jas.1|James 1]]"
+chronological_order: 1033
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G4771]]"
+- "[[G3007]]"
+- "[[G4678]]"
+- "[[G0154]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G1325]]"
+- "[[G2316]]"
+- "[[G3956]]"
+- "[[G0574]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G3679]]"
+- "[[G0846]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **James 1:5**<big><big>[[Jas.1.2 Rejoicing in Trials|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If any of you lack wisdom, let him ask of God, that giveth to all [men] liberally, and upbraideth not; and it shall be given him.
 <small><sub>**BSB:**</sub></small>
 Now if any of you lacks wisdom, he should ask God, who gives generously to all without finding fault, and it will be given to him.
-<small><sub>**Literal:**</sub></small>
-If now any of you lacks wisdom, he should ask from the [One] giving God to all generously and not finding fault, and it will be given to him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.4|<< James 1:4]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.6|James 1:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1161\|δέ]]  [[G5100\|τις]]  [[G4771\|ὑμῶν]]  [[G3007\|λείπεται]]  [[G4678\|σοφίας,]]  [[G0154\|αἰτείτω]]  [[G3844\|παρὰ]]  [[G3588\|τοῦ]]  [[G1325\|διδόντος]]  [[G2316\|θεοῦ]]  [[G3956\|πᾶσιν]]  [[G0574\|ἁπλῶς]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G3679\|ὀνειδίζοντος,]]  [[G2532\|καὶ]]  [[G1325\|δοθήσεται]]  [[G0846\|αὐτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GOD|GOD]] • [[topic IGNORANCE|IGNORANCE]] • [[topic PRAYER|PRAYER]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.4|<< James 1:4]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.6|James 1:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

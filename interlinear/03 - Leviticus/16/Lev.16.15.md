@@ -1,8 +1,81 @@
+---
+title: Leviticus 16:15
+type: Verse
+kjv: "Then shall he kill the goat of the sin offering, that is for the people, and bring his blood within the vail, and do with that blood as he did with the blood of the bullock, and sprinkle it upon the mercy seat, and before the mercy seat:"
+bsb: "Aaron shall then slaughter the goat for the sin offering for the people and bring its blood behind the veil, and with its blood he must do as he did with the bull’s blood: He is to sprinkle it against the mercy seat and in front of it."
+hebrew: "וְשָׁחַ֞ט אֶת־ שְׂעִ֤יר הַֽחַטָּאת֙ אֲשֶׁ֣ר לָעָ֔ם וְהֵבִיא֙ אֶת־ דָּמ֔וֹ אֶל־ מִבֵּ֖ית לַפָּרֹ֑כֶת וְעָשָׂ֣ה אֶת־ דָּמ֗וֹ כַּאֲשֶׁ֤ר עָשָׂה֙ לְדַ֣ם הַפָּ֔ר וְהִזָּ֥ה אֹת֛וֹ עַל־ הַכַּפֹּ֖רֶת וְלִפְנֵ֥י הַכַּפֹּֽרֶת׃"
+pericope: "[[Lev.16.1 The Day of Atonement|The Day of Atonement]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 16
+book/chapter: "[[Lev.16|Leviticus 16]]"
+chronological_order: 148
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic MERCY-SEAT|MERCY-SEAT]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7819A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8163B]]"
+- "[[H9009]]"
+- "[[H2403H]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H0935P]]"
+- "[[H1818]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H9006]]"
+- "[[H1004O]]"
+- "[[H6532]]"
+- "[[H6213A]]"
+- "[[H0854]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6499]]"
+- "[[H5137A]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H3727]]"
+- "[[H9002]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 16:15**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall he kill the goat of the sin offering, that [is] for the people, and bring his blood within the vail, and do with that blood as he did with the blood of the bullock, and sprinkle it upon the mercy seat, and before the mercy seat:
 <small><sub>**BSB:**</sub></small>
 Aaron shall then slaughter the goat for the sin offering for the people and bring its blood behind the veil, and with its blood he must do as he did with the bull’s blood: He is to sprinkle it against the mercy seat and in front of it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7819A\|שָׁחַ֞ט]] [[H0853\|אֶת]][[H9014\|־]] [[H8163B\|שְׂעִ֤יר]] [[H9009\|הַֽ]][[H2403H\|חַטָּאת֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לָ]][[H5971A\|עָ֔ם]] [[H9001\|וְ]][[H0935P\|הֵבִיא֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1818\|דָּמ֔]][[H9023\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H9006\|מִ]][[H1004O\|בֵּ֖ית]] [[H9005\|לַ]][[H6532\|פָּרֹ֑כֶת]] [[H9001\|וְ]][[H6213A\|עָשָׂ֣ה]] [[H0854\|אֶת]][[H9014\|־]] [[H1818\|דָּמ֗]][[H9023\|וֹ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H6213A\|עָשָׂה֙]] [[H9005\|לְ]][[H1818\|דַ֣ם]] [[H9009\|הַ]][[H6499\|פָּ֔ר]] [[H9001\|וְ]][[H5137A\|הִזָּ֥ה]] [[H0853\|אֹת֛]][[H9033\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3727\|כַּפֹּ֖רֶת]] [[H9002\|וְ]][[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הַ]][[H3727\|כַּפֹּֽרֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic ATONEMENT|ATONEMENT]] • [[topic BLOOD|BLOOD]] • [[topic CHURCH|CHURCH]] • [[topic MERCY-SEAT|MERCY-SEAT]] • [[topic OFFERINGS|OFFERINGS]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TYPES|TYPES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.14|<< Leviticus 16:14]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.16|Leviticus 16:16 >>]]</td></tr></table>
 

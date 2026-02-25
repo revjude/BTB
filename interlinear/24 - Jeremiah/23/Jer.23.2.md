@@ -1,8 +1,73 @@
+---
+title: Jeremiah 23:2
+type: Verse
+kjv: "Therefore thus saith the LORD God of Israel against the pastors that feed my people; Ye have scattered my flock, and driven them away, and have not visited them: behold, I will visit upon you the evil of your doings, saith the LORD."
+bsb: "Therefore this is what the LORD, the God of Israel, says about the shepherds who tend My people: “You have scattered My flock and driven them away, and have not attended to them. Behold, I will attend to you for the evil of your deeds, declares the LORD."
+hebrew: "לָ֠כֵן כֹּֽה־ אָמַ֨ר יְהוָ֜ה אֱלֹהֵ֣י יִשְׂרָאֵ֗ל עַֽל־ הָרֹעִים֮ הָרֹעִ֣ים אֶת־ עַמִּי֒ אַתֶּ֞ם הֲפִצֹתֶ֤ם אֶת־ צֹאנִי֙ וַתַּדִּח֔וּם וְלֹ֥א פְקַדְתֶּ֖ם אֹתָ֑ם הִנְנִ֨י פֹקֵ֧ד עֲלֵיכֶ֛ם אֶת־ רֹ֥עַ מַעַלְלֵיכֶ֖ם נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.23.1 David’s Righteous Branch|David’s Righteous Branch]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 23
+book/chapter: "[[Jer.23|Jeremiah 23]]"
+chronological_order: 746
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H7462B]]"
+- "[[H0853]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H0859D]]"
+- "[[H6327A]]"
+- "[[H6629G]]"
+- "[[H9001]]"
+- "[[H5080]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H6485I]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H9036]]"
+- "[[H7455]]"
+- "[[H4611]]"
+- "[[H9026]]"
+- "[[H5002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 23:2**<big><big>[[Jer.23.1 David’s Righteous Branch|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the LORD God of Israel against the pastors that feed my people; Ye have scattered my flock, and driven them away, and have not visited them: behold, I will visit upon you the evil of your doings, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the LORD, the God of Israel, says about the shepherds who tend My people: “You have scattered My flock and driven them away, and have not attended to them. Behold, I will attend to you for the evil of your deeds, declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ֠]][[H3651C\|כֵן]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֨ר]] [[H3068G\|יְהוָ֜ה]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H5921A\|עַֽל]][[H9014\|־]] [[H9009\|הָ]][[H7462B\|רֹעִים֮]] [[H9009\|הָ]][[H7462B\|רֹעִ֣ים]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ]][[H9020\|י֒]] [[H0859D\|אַתֶּ֞ם]] [[H6327A\|הֲפִצֹתֶ֤ם]] [[H0853\|אֶת]][[H9014\|־]] [[H6629G\|צֹאנִ]][[H9020\|י֙]] [[H9001\|וַ]][[H5080\|תַּדִּח֔וּ]][[H9038\|ם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H6485I\|פְקַדְתֶּ֖ם]] [[H0853\|אֹתָ֑]][[H9038\|ם]] [[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H6485I\|פֹקֵ֧ד]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֛ם]] [[H0853\|אֶת]][[H9014\|־]] [[H7455\|רֹ֥עַ]] [[H4611\|מַעַלְלֵי]][[H9026\|כֶ֖ם]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.1|<< Jeremiah 23:1]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.3|Jeremiah 23:3 >>]]</td></tr></table>
 

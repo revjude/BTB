@@ -1,8 +1,65 @@
+---
+title: Deuteronomy 21:2
+type: Verse
+kjv: "Then thy elders and thy judges shall come forth, and they shall measure unto the cities which are round about him that is slain:"
+bsb: "your elders and judges must come out and measure the distance from the victim to the neighboring cities."
+hebrew: "וְיָצְא֥וּ זְקֵנֶ֖יךָ וְשֹׁפְטֶ֑יךָ וּמָדְדוּ֙ אֶל־ הֶ֣עָרִ֔ים אֲשֶׁ֖ר סְבִיבֹ֥ת הֶחָלָֽל׃"
+pericope: "[[Deut.21.1 Atonement for an Unsolved Murder|Atonement for an Unsolved Murder]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 21
+book/chapter: "[[Deut.21|Deuteronomy 21]]"
+chronological_order: 217
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEIFER|HEIFER]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INQUEST|INQUEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H2205G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H8199]]"
+- "[[H9031]]"
+- "[[H4058]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0834A]]"
+- "[[H5439G]]"
+- "[[H2491A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 21:2**<big><big>[[Deut.21.1 Atonement for an Unsolved Murder|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then thy elders and thy judges shall come forth, and they shall measure unto the cities which [are] round about him that is slain:
 <small><sub>**BSB:**</sub></small>
 your elders and judges must come out and measure the distance from the victim to the neighboring cities.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3318G\|יָצְא֥וּ]] [[H2205G\|זְקֵנֶ֖י]][[H9021\|ךָ]] [[H9002\|וְ]][[H8199\|שֹׁפְטֶ֑י]][[H9031\|ךָ]] [[H9001\|וּ]][[H4058\|מָדְדוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הֶ֣]][[H5892B\|עָרִ֔ים]] [[H0834A\|אֲשֶׁ֖ר]] [[H5439G\|סְבִיבֹ֥ת]] [[H9009\|הֶ]][[H2491A\|חָלָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HEIFER|HEIFER]] • [[topic HOMICIDE|HOMICIDE]] • [[topic INQUEST|INQUEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.21.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.1|<< Deuteronomy 21:1]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.3|Deuteronomy 21:3 >>]]</td></tr></table>
 

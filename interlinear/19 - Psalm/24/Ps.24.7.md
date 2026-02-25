@@ -1,8 +1,59 @@
+---
+title: Psalm 24:7
+type: Verse
+kjv: "Lift up your heads, O ye gates; and be ye lift up, ye everlasting doors; and the King of glory shall come in."
+bsb: "Lift up your heads, O gates! Be lifted up, O ancient doors, that the King of Glory may enter!"
+hebrew: "שְׂא֤וּ שְׁעָרִ֨ים׀ רָֽאשֵׁיכֶ֗ם וְֽ֭הִנָּשְׂאוּ פִּתְחֵ֣י עוֹלָ֑ם וְ֝יָב֗וֹא מֶ֣לֶךְ הַכָּבֽוֹד׃"
+pericope: "[[Ps.24.1 The Earth Is the LORD’s|The Earth Is the LORD’s]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 24
+book/chapter: "[[Ps.24|Psalm 24]]"
+chronological_order: 399
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GATES|GATES]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H5375Q]]"
+- "[[H8179G]]"
+- "[[H9015]]"
+- "[[H7218A]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H6607]]"
+- "[[H5769J]]"
+- "[[H0935G]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H3519]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 24:7**<big><big>[[Ps.24.1 The Earth Is the LORD’s|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lift up your heads, O ye gates; and be ye lift up, ye everlasting doors; and the King of glory shall come in.
 <small><sub>**BSB:**</sub></small>
 Lift up your heads, O gates! Be lifted up, O ancient doors, that the King of Glory may enter!
+<small><sub>**Hebrew:**</sub></small>
+[[H5375Q\|שְׂא֤וּ]] [[H8179G\|שְׁעָרִ֨ים]][[H9015\|׀]] [[H7218A\|רָֽאשֵׁי]][[H9026\|כֶ֗ם]] [[H9002\|וְֽ֭]][[H5375Q\|הִנָּשְׂאוּ]] [[H6607\|פִּתְחֵ֣י]] [[H5769J\|עוֹלָ֑ם]] [[H9002\|וְ֝]][[H0935G\|יָב֗וֹא]] [[H4428G\|מֶ֣לֶךְ]] [[H9009\|הַ]][[H3519\|כָּבֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GATES|GATES]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.24.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.24.6|<< Psalms 24:6]]</td><td align="center" style="border:none;">[[Ps.24|Psalms 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.24.8|Psalms 24:8 >>]]</td></tr></table>
 

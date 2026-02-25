@@ -1,8 +1,62 @@
+---
+title: Leviticus 27:30
+type: Verse
+kjv: "And all the tithe of the land, whether of the seed of the land, or of the fruit of the tree, is the LORD’S: it is holy unto the LORD."
+bsb: "Thus any tithe from the land, whether from the seed of the land or the fruit of the trees, belongs to the LORD; it is holy to the LORD."
+hebrew: "וְכָל־ מַעְשַׂ֨ר הָאָ֜רֶץ מִזֶּ֤רַע הָאָ֙רֶץ֙ מִפְּרִ֣י הָעֵ֔ץ לַיהוָ֖ה ה֑וּא קֹ֖דֶשׁ לַֽיהוָֽה׃"
+pericope: "[[Lev.27.30 Instruction on Tithes|Instruction on Tithes]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 27
+book/chapter: "[[Lev.27|Leviticus 27]]"
+chronological_order: 159
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic TITHES|TITHES]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4643]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9006]]"
+- "[[H2233G]]"
+- "[[H6529]]"
+- "[[H6086H]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H1931]]"
+- "[[H6944G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 27:30**<big><big>[[Lev.27.30 Instruction on Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the tithe of the land, [whether] of the seed of the land, [or] of the fruit of the tree, [is] the LORD’S: [it is] holy unto the LORD.
 <small><sub>**BSB:**</sub></small>
 Thus any tithe from the land, whether from the seed of the land or the fruit of the trees, belongs to the LORD; it is holy to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H4643\|מַעְשַׂ֨ר]] [[H9009\|הָ]][[H0776G\|אָ֜רֶץ]] [[H9006\|מִ]][[H2233G\|זֶּ֤רַע]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H9006\|מִ]][[H6529\|פְּרִ֣י]] [[H9009\|הָ]][[H6086H\|עֵ֔ץ]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H1931\|ה֑וּא]] [[H6944G\|קֹ֖דֶשׁ]] [[H9005\|לַֽ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPERTY|PROPERTY]] • [[topic REDEMPTION|REDEMPTION]] • [[topic TITHES|TITHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.29|<< Leviticus 27:29]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.31|Leviticus 27:31 >>]]</td></tr></table>
 

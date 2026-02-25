@@ -1,8 +1,63 @@
+---
+title: Numbers 28:20
+type: Verse
+kjv: "And their meat offering shall be of flour mingled with oil: three tenth deals shall ye offer for a bullock, and two tenth deals for a ram;"
+bsb: "The grain offering shall consist of fine flour mixed with oil; offer three-tenths of an ephah with each bull, two-tenths of an ephah with the ram,"
+hebrew: "וּמִ֨נְחָתָ֔ם סֹ֖לֶת בְּלוּלָ֣ה בַשָּׁ֑מֶן שְׁלֹשָׁ֨ה עֶשְׂרֹנִ֜ים לַפָּ֗ר וּשְׁנֵ֧י עֶשְׂרֹנִ֛ים לָאַ֖יִל תַּעֲשֽׂוּ׃"
+pericope: "[[Num.28.16 Passover and the Feast of Unleavened Bread|Passover and the Feast of Unleavened Bread]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 28
+book/chapter: "[[Num.28|Numbers 28]]"
+chronological_order: 188
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[H9002]]"
+- "[[H4503G]]"
+- "[[H9028]]"
+- "[[H5560]]"
+- "[[H1101A]]"
+- "[[H9003]]"
+- "[[H8081]]"
+- "[[H7969]]"
+- "[[H6241]]"
+- "[[H9005]]"
+- "[[H6499]]"
+- "[[H8147]]"
+- "[[H0352A]]"
+- "[[H6213I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 28:20**<big><big>[[Num.28.16 Passover and the Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their meat offering [shall be of] flour mingled with oil: three tenth deals shall ye offer for a bullock, and two tenth deals for a ram;
 <small><sub>**BSB:**</sub></small>
 The grain offering shall consist of fine flour mixed with oil; offer three-tenths of an ephah with each bull, two-tenths of an ephah with the ram,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4503G\|מִ֨נְחָתָ֔]][[H9028\|ם]] [[H5560\|סֹ֖לֶת]] [[H1101A\|בְּלוּלָ֣ה]] [[H9003\|בַ]][[H8081\|שָּׁ֑מֶן]] [[H7969\|שְׁלֹשָׁ֨ה]] [[H6241\|עֶשְׂרֹנִ֜ים]] [[H9005\|לַ]][[H6499\|פָּ֗ר]] [[H9002\|וּ]][[H8147\|שְׁנֵ֧י]] [[H6241\|עֶשְׂרֹנִ֛ים]] [[H9005\|לָ]][[H0352A\|אַ֖יִל]] [[H6213I\|תַּעֲשֽׂוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BULLOCK|BULLOCK]] • [[topic FEASTS|FEASTS]] • [[topic MEASURE|MEASURE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.19|<< Numbers 28:19]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.21|Numbers 28:21 >>]]</td></tr></table>
 

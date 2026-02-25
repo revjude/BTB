@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Carry One Another’s Burdens
+type: Pericope
 pericope: "[[Gal.6.1 Carry One Another’s Burdens|Carry One Another’s Burdens]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Galatians
 chapter: 6
 book/chapter: "[[Gal.6|Galatians 6]]"
-genre:
+chronological_order: 1044
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
 - epistle
 - pauline epistle
 - polemical
+verse_count: 10
 verses:
 - "[[Gal.6.1]]"
 - "[[Gal.6.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Gal.6.10]]"
 ---
 
-[[Gal.6|Galatians 6:1 - Galatians 6:10]]
+<small>[[Gal.6|Galatians 6:1-10]]</small>
 *Carry One Another’s Burdens*
 
 [[Gal.6.1|1]] Brethren, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted.

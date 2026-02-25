@@ -1,8 +1,72 @@
+---
+title: 1 Samuel 19:4
+type: Verse
+kjv: "And Jonathan spake good of David unto Saul his father, and said unto him, Let not the king sin against his servant, against David; because he hath not sinned against thee, and because his works have been to theeward very good:"
+bsb: "Then Jonathan spoke well of David to his father Saul and said to him, “The king should not sin against his servant David; he has not sinned against you. In fact, his actions have been highly beneficial to you."
+hebrew: "וַיְדַבֵּ֨ר יְהוֹנָתָ֤ן בְּדָוִד֙ ט֔וֹב אֶל־ שָׁא֖וּל אָבִ֑יו וַיֹּ֣אמֶר אֵ֠לָיו אַל־ יֶחֱטָ֨א הַמֶּ֜לֶךְ בְּעַבְדּ֣וֹ בְדָוִ֗ד כִּ֣י ל֤וֹא חָטָא֙ לָ֔ךְ וְכִ֥י מַעֲשָׂ֖יו טוֹב־ לְךָ֥ מְאֹֽד׃"
+pericope: "[[1Sam.19.1 Saul Tries to Kill David|Saul Tries to Kill David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 19
+book/chapter: "[[1Sam.19|1 Samuel 19]]"
+chronological_order: 298
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic EVIL FOR GOOD|EVIL FOR GOOD]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H3083H]]"
+- "[[H9003]]"
+- "[[H1732]]"
+- "[[H2896A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7586G]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H0408]]"
+- "[[H2398]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H5650]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H9002]]"
+- "[[H4639K]]"
+- "[[H9031]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 19:4**<big><big>[[1Sam.19.1 Saul Tries to Kill David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jonathan spake good of David unto Saul his father, and said unto him, Let not the king sin against his servant, against David; because he hath not sinned against thee, and because his works [have been] to theeward very good:
 <small><sub>**BSB:**</sub></small>
 Then Jonathan spoke well of David to his father Saul and said to him, “The king should not sin against his servant David; he has not sinned against you. In fact, his actions have been highly beneficial to you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֨ר]] [[H3083H\|יְהוֹנָתָ֤ן]] [[H9003\|בְּ]][[H1732\|דָוִד֙]] [[H2896A\|ט֔וֹב]] [[H0413\|אֶל]][[H9014\|־]] [[H7586G\|שָׁא֖וּל]] [[H0001G\|אָבִ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵ֠לָי]][[H9033\|ו]] [[H0408\|אַל]][[H9014\|־]] [[H2398\|יֶחֱטָ֨א]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H9003\|בְּ]][[H5650\|עַבְדּ֣]][[H9023\|וֹ]] [[H9003\|בְ]][[H1732\|דָוִ֗ד]] [[H3588A\|כִּ֣י]] [[H3808\|ל֤וֹא]] [[H2398\|חָטָא֙]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H9002\|וְ]][[H3588A\|כִ֥י]] [[H4639K\|מַעֲשָׂ֖י]][[H9023\|ו]] [[H2896A\|טוֹב]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֥]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic EVIL FOR GOOD|EVIL FOR GOOD]] • [[topic INFLUENCE|INFLUENCE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JONATHAN|JONATHAN]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.19.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.3|<< 1 Samuel 19:3]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.5|1 Samuel 19:5 >>]]</td></tr></table>
 

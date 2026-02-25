@@ -1,8 +1,68 @@
+---
+title: 1 Chronicles 29:18
+type: Verse
+kjv: "O LORD God of Abraham, Isaac, and of Israel, our fathers, keep this for ever in the imagination of the thoughts of the heart of thy people, and prepare their heart unto thee:"
+bsb: "O LORD, God of our fathers Abraham, Isaac, and Israel, keep this desire forever in the intentions of the hearts of Your people, and direct their hearts toward You."
+hebrew: "יְהוָ֗ה אֱ֠לֹהֵי אַבְרָהָ֞ם יִצְחָ֤ק וְיִשְׂרָאֵל֙ אֲבֹתֵ֔ינוּ שֳׁמְרָה־ זֹּ֣את לְעוֹלָ֔ם לְיֵ֥צֶר מַחְשְׁב֖וֹת לְבַ֣ב עַמֶּ֑ךָ וְהָכֵ֥ן לְבָבָ֖ם אֵלֶֽיךָ׃"
+pericope: "[[1Chr.29.10 David’s Prayer of Blessing|David’s Prayer of Blessing]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 29
+book/chapter: "[[1Chr.29|1 Chronicles 29]]"
+chronological_order: 440
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic HEART|HEART]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0085]]"
+- "[[H3327]]"
+- "[[H9002]]"
+- "[[H3478]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H8104G]]"
+- "[[H9012]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H3336]]"
+- "[[H4284]]"
+- "[[H3824]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H3559J]]"
+- "[[H9028]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 29:18**<big><big>[[1Chr.29.10 David’s Prayer of Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD God of Abraham, Isaac, and of Israel, our fathers, keep this for ever in the imagination of the thoughts of the heart of thy people, and prepare their heart unto thee:
 <small><sub>**BSB:**</sub></small>
 O LORD, God of our fathers Abraham, Isaac, and Israel, keep this desire forever in the intentions of the hearts of Your people, and direct their hearts toward You.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֗ה]] [[H0430G\|אֱ֠לֹהֵי]] [[H0085\|אַבְרָהָ֞ם]] [[H3327\|יִצְחָ֤ק]] [[H9002\|וְ]][[H3478\|יִשְׂרָאֵל֙]] [[H0001G\|אֲבֹתֵ֔י]][[H9025\|נוּ]] [[H8104G\|שֳׁמְרָ]][[H9012\|ה]][[H9014\|־]] [[H2063\|זֹּ֣את]] [[H9005\|לְ]][[H5769G\|עוֹלָ֔ם]] [[H9005\|לְ]][[H3336\|יֵ֥צֶר]] [[H4284\|מַחְשְׁב֖וֹת]] [[H3824\|לְבַ֣ב]] [[H5971A\|עַמֶּ֑]][[H9021\|ךָ]] [[H9002\|וְ]][[H3559J\|הָכֵ֥ן]] [[H3824\|לְבָבָ֖]][[H9028\|ם]] [[H0413\|אֵלֶֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEART|HEART]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JOY|JOY]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.17|<< 1 Chronicles 29:17]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.19|1 Chronicles 29:19 >>]]</td></tr></table>
 

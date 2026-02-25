@@ -1,10 +1,52 @@
+---
+title: Galatians 3:9
+type: Verse
+kjv: "So then they which be of faith are blessed with faithful Abraham."
+bsb: "So those who have faith are blessed along with Abraham, the man of faith."
+greek: "ὥστε οἱ ἐκ πίστεως εὐλογοῦνται σὺν τῷ πιστῷ Ἀβραάμ."
+pericope: "[[Gal.3.1 Faith and Belief|Faith and Belief]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 3
+book/chapter: "[[Gal.3|Galatians 3]]"
+chronological_order: 1041
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G5620]]"
+- "[[G3588]]"
+- "[[G1537]]"
+- "[[G4102G]]"
+- "[[G2127]]"
+- "[[G4862]]"
+- "[[G4103]]"
+- "[[G0011]]"
+texts:
+- NKO
+---
+
 **Galatians 3:9**<big><big>[[Gal.3.1 Faith and Belief|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So then they which be of faith are blessed with faithful Abraham.
 <small><sub>**BSB:**</sub></small>
 So those who have faith are blessed along with Abraham, the man of faith.
-<small><sub>**Literal:**</sub></small>
-So then those of faith are blessed along with the believing Abraham.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.8|<< Galatians 3:8]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.10|Galatians 3:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5620\|ὥστε]]  [[G3588\|οἱ]]  [[G1537\|ἐκ]]  [[G4102G\|πίστεως]]  [[G2127\|εὐλογοῦνται]]  [[G4862\|σὺν]]  [[G3588\|τῷ]]  [[G4103\|πιστῷ]]  [[G0011\|Ἀβραάμ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic FAITH|FAITH]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.8|<< Galatians 3:8]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.10|Galatians 3:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

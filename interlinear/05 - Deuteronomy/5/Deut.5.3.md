@@ -1,8 +1,67 @@
+---
+title: Deuteronomy 5:3
+type: Verse
+kjv: "The LORD made not this covenant with our fathers, but with us, even us, who are all of us here alive this day."
+bsb: "He did not make this covenant with our fathers, but with all of us who are alive here today."
+hebrew: "לֹ֣א אֶת־ אֲבֹתֵ֔ינוּ כָּרַ֥ת יְהוָ֖ה אֶת־ הַבְּרִ֣ית הַזֹּ֑את כִּ֣י אִתָּ֗נוּ אֲנַ֨חְנוּ אֵ֥לֶּה פֹ֛ה הַיּ֖וֹם כֻּלָּ֥נוּ חַיִּֽים׃"
+pericope: "[[Deut.5.1 The Covenant at Horeb|The Covenant at Horeb]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 5
+book/chapter: "[[Deut.5|Deuteronomy 5]]"
+chronological_order: 201
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H3808]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H3772H]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H1285]]"
+- "[[H2063]]"
+- "[[H3588A]]"
+- "[[H9035]]"
+- "[[H0587]]"
+- "[[H0428]]"
+- "[[H6311]]"
+- "[[H3117G]]"
+- "[[H3605]]"
+- "[[H2416A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 5:3**<big><big>[[Deut.5.1 The Covenant at Horeb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD made not this covenant with our fathers, but with us, [even] us, who [are] all of us here alive this day.
 <small><sub>**BSB:**</sub></small>
 He did not make this covenant with our fathers, but with all of us who are alive here today.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֣א]] [[H0854\|אֶת]][[H9014\|־]] [[H0001G\|אֲבֹתֵ֔י]][[H9025\|נוּ]] [[H3772H\|כָּרַ֥ת]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1285\|בְּרִ֣ית]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H3588A\|כִּ֣י]] [[H0854\|אִתָּ֗]][[H9035\|נוּ]] [[H0587\|אֲנַ֨חְנוּ]] [[H0428\|אֵ֥לֶּה]] [[H6311\|פֹ֛ה]] [[H9009\|הַ]][[H3117G\|יּ֖וֹם]] [[H3605\|כֻּלָּ֥]][[H9025\|נוּ]] [[H2416A\|חַיִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic LAW|LAW]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.2|<< Deuteronomy 5:2]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.4|Deuteronomy 5:4 >>]]</td></tr></table>
 

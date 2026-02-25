@@ -1,10 +1,56 @@
+---
+title: Acts 3:3
+type: Verse
+kjv: "Who seeing Peter and John about to go into the temple asked an alms."
+bsb: "When he saw Peter and John about to enter, he asked them for money."
+greek: "ὃς ἰδὼν Πέτρον καὶ Ἰωάννην μέλλοντας εἰσιέναι εἰς τὸ ἱερὸν ἠρώτα ἐλεημοσύνην λαβεῖν."
+pericope: "[[Acts.3.1 A Lame Man Walks|A Lame Man Walks]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 3
+book/chapter: "[[Acts.3|Acts 3]]"
+chronological_order: 1021
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BEGGARS|BEGGARS]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic LAMENESS|LAMENESS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G3739]]"
+- "[[G1492H]]"
+- "[[G4074G]]"
+- "[[G2532]]"
+- "[[G2491H]]"
+- "[[G3195]]"
+- "[[G1524]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2411]]"
+- "[[G2065]]"
+- "[[G1654]]"
+- "[[G2983]]"
+texts:
+- NKO
+---
+
 **Acts 3:3**<big><big>[[Acts.3.1 A Lame Man Walks|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who seeing Peter and John about to go into the temple asked an alms.
 <small><sub>**BSB:**</sub></small>
 When he saw Peter and John about to enter, he asked them for money.
-<small><sub>**Literal:**</sub></small>
-who having seen Peter and John being about to enter into the temple was asking alms to receive.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.2|<< Acts 3:2]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.4|Acts 3:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G1492H\|ἰδὼν]]  [[G4074G\|Πέτρον]]  [[G2532\|καὶ]]  [[G2491H\|Ἰωάννην]]  [[G3195\|μέλλοντας]]  [[G1524\|εἰσιέναι]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2411\|ἱερὸν]]  [[G2065\|ἠρώτα]]  [[G1654\|ἐλεημοσύνην]]  [[G2983\|λαβεῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEGGARS|BEGGARS]] • [[topic JOHN|JOHN]] • [[topic LAMENESS|LAMENESS]] • [[topic MIRACLES|MIRACLES]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.2|<< Acts 3:2]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.4|Acts 3:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

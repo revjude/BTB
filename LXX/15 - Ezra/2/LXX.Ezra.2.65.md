@@ -1,6 +1,51 @@
+---
+title: LXX Ezra 2:65
+type: Verse
+lxx: "separate from their menservants and their maidservants; these were -- seven thousand three hundred thirty-seven; and with them male singers and female singers -- two hundred;"
+greek: "χωρίς δούλων αυτών και παιδισκών αυτών ούτοι επτακισχίλιοι τριακόσιοι τριακονταεπτά και αυτοίς άδοντες και άδουσαι διακόσιοι"
+original_language: Greek
+testament: Old
+book: Ezra
+chapter: 2
+book/chapter: "[[Ezra.2|Ezra 2]]"
+chronological_order: 850
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- septuagint
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G5565]]"
+- "[[G1401]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3814]]"
+- "[[G1473]]"
+- "[[G3778]]"
+- "[[G2035]]"
+- "[[G5145]]"
+- "[[G9476]]"
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G0103]]"
+- "[[G2532]]"
+- "[[G0103]]"
+- "[[G1250]]"
+---
+
 **LXX Ezra 2:65** 
 <small><sub>**LXX:**</sub></small>
 separate from their menservants and their maidservants; these \[were\] -- seven thousand three hundred thirty-seven; and with them \[male\] singers and \[female\] singers -- two hundred; 
+<small><sub>**Greek:**</sub></small>
+[[G5565\|χωρίς]] [[G1401\|δούλων]] [[G1473\|αυτών]] [[G2532\|και]] [[G3814\|παιδισκών]] [[G1473\|αυτών]] [[G3778\|ούτοι]] [[G2035\|επτακισχίλιοι]] [[G5145\|τριακόσιοι]] [[G9476\|τριακονταεπτά]] [[G2532\|και]] [[G3778\|αυτοίς]] [[G0103\|άδοντες]] [[G2532\|και]] [[G0103\|άδουσαι]] [[G1250\|διακόσιοι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WOMEN|WOMEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezra.2.65|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.64|<< Ezra 2:64]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.66|Ezra 2:66 >>]]</td></tr></table>
 
@@ -20,6 +65,6 @@ separate from their menservants and their maidservants; these \[were\] -- seven 
 | and | **<big>[[G2532\|και]]</big>** |
 | \[female\] singers -- | **<big>[[G0103\|άδουσαι]]</big>** |
 | two hundred; | **<big>[[G1250\|διακόσιοι]]</big>** |
-[[Ezra.2.65|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.64|<< Ezra 2:64]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.66|Ezra 2:66 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.64|<< Ezra 2:64]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.66|Ezra 2:66 >>]]</td></tr></table>
 
 

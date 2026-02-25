@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Holy Spirit at Pentecost
+type: Pericope
 pericope: "[[Acts.2.1 The Holy Spirit at Pentecost|The Holy Spirit at Pentecost]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: Acts
 chapter: 2
 book/chapter: "[[Acts.2|Acts 2]]"
-genre:
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 13
 verses:
 - "[[Acts.2.1]]"
 - "[[Acts.2.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Acts.2.13]]"
 ---
 
-[[Acts.2|Acts 2:1 - Acts 2:13]]
+<small>[[Acts.2|Acts 2:1-13]]</small>
 *The Holy Spirit at Pentecost*
 
 [[Acts.2.1|1]] And when the day of Pentecost was fully come, they were all with one accord in one place.

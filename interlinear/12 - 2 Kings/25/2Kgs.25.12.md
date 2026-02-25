@@ -1,8 +1,57 @@
+---
+title: 2 Kings 25:12
+type: Verse
+kjv: "But the captain of the guard left of the poor of the land to be vinedressers and husbandmen."
+bsb: "But the captain of the guard left behind some of the poorest of the land to tend the vineyards and fields."
+hebrew: "וּמִדַּלַּ֣ת הָאָ֔רֶץ הִשְׁאִ֖יר רַב־ טַבָּחִ֑ים לְכֹֽרְמִ֖ים וּלְיֹגְבִֽים׃"
+pericope: "[[2Kgs.25.8 The Temple Destroyed|The Temple Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 25
+book/chapter: "[[2Kgs.25|2 Kings 25]]"
+chronological_order: 742
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H1803B]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H7604]]"
+- "[[H7227B]]"
+- "[[H9014]]"
+- "[[H2876]]"
+- "[[H9005]]"
+- "[[H3755]]"
+- "[[H3009]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 25:12**<big><big>[[2Kgs.25.8 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the captain of the guard left of the poor of the land [to be] vinedressers and husbandmen.
 <small><sub>**BSB:**</sub></small>
 But the captain of the guard left behind some of the poorest of the land to tend the vineyards and fields.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H1803B\|דַּלַּ֣ת]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H7604\|הִשְׁאִ֖יר]] [[H7227B\|רַב]][[H9014\|־]] [[H2876\|טַבָּחִ֑ים]] [[H9005\|לְ]][[H3755\|כֹֽרְמִ֖ים]] [[H9002\|וּ]][[H9005\|לְ]][[H3009\|יֹגְבִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]] • [[topic PROPHECY|PROPHECY]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.11|<< 2 Kings 25:11]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.13|2 Kings 25:13 >>]]</td></tr></table>
 

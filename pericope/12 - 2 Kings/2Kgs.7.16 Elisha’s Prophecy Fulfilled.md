@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Elisha’s Prophecy Fulfilled
+type: Pericope
 pericope: "[[2Kgs.7.16 Elisha’s Prophecy Fulfilled|Elisha’s Prophecy Fulfilled]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 7
 book/chapter: "[[2Kgs.7|2 Kings 7]]"
-genre:
+chronological_order: 579
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 5
 verses:
 - "[[2Kgs.7.16]]"
 - "[[2Kgs.7.17]]"
@@ -23,7 +30,7 @@ verses:
 - "[[2Kgs.7.20]]"
 ---
 
-[[2Kgs.7|2 Kings 7:16 - 2 Kings 7:20]]
+<small>[[2Kgs.7|2 Kings 7:16-20]]</small>
 *Elisha’s Prophecy Fulfilled*
 
 [[2Kgs.7.16|16]] And the people went out, and spoiled the tents of the Syrians. So a measure of fine flour was \[sold\] for a shekel, and two measures of barley for a shekel, according to the word of the LORD.

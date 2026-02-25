@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Pharaoh’s Power Broken
+type: Pericope
 pericope: "[[Ezek.30.20 Pharaoh’s Power Broken|Pharaoh’s Power Broken]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 30
 book/chapter: "[[Ezek.30|Ezekiel 30]]"
-genre:
+chronological_order: 821
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 7
 verses:
 - "[[Ezek.30.20]]"
 - "[[Ezek.30.21]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Ezek.30.26]]"
 ---
 
-[[Ezek.30|Ezekiel 30:20 - Ezekiel 30:26]]
+<small>[[Ezek.30|Ezekiel 30:20-26]]</small>
 *Pharaoh’s Power Broken*
 
 [[Ezek.30.20|20]] And it came to pass in the eleventh year, in the first \[month\], in the seventh \[day\] of the month, \[that\] the word of the LORD came unto me, saying,

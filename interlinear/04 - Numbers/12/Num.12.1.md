@@ -1,8 +1,71 @@
+---
+title: Numbers 12:1
+type: Verse
+kjv: "And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman."
+bsb: "Then Miriam and Aaron criticized Moses because of the Cushite woman he had married, for he had taken a Cushite wife."
+hebrew: "וַתְּדַבֵּ֨ר מִרְיָ֤ם וְאַהֲרֹן֙ בְּמֹשֶׁ֔ה עַל־ אֹד֛וֹת הָאִשָּׁ֥ה הַכֻּשִׁ֖ית אֲשֶׁ֣ר לָקָ֑ח כִּֽי־ אִשָּׁ֥ה כֻשִׁ֖ית לָקָֽח׃"
+pericope: "[[Num.12.1 The Complaint of Miriam and Aaron|The Complaint of Miriam and Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 12
+book/chapter: "[[Num.12|Numbers 12]]"
+chronological_order: 172
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic LEPROSY|LEPROSY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MISCEGENATION|MISCEGENATION]]"
+- "[[topic TREASON|TREASON]]"
+- "[[topic ZIPPORAH|ZIPPORAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H4813G]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H9003]]"
+- "[[H4872]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0182]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H3569G]]"
+- "[[H0834A]]"
+- "[[H3947I]]"
+- "[[H3588A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 12:1**<big><big>[[Num.12.1 The Complaint of Miriam and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman.
 <small><sub>**BSB:**</sub></small>
 Then Miriam and Aaron criticized Moses because of the Cushite woman he had married, for he had taken a Cushite wife.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|תְּדַבֵּ֨ר]] [[H4813G\|מִרְיָ֤ם]] [[H9002\|וְ]][[H0175\|אַהֲרֹן֙]] [[H9003\|בְּ]][[H4872\|מֹשֶׁ֔ה]] [[H5921A\|עַל]][[H9014\|־]] [[H0182\|אֹד֛וֹת]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֥ה]] [[H9009\|הַ]][[H3569G\|כֻּשִׁ֖ית]] [[H0834A\|אֲשֶׁ֣ר]] [[H3947I\|לָקָ֑ח]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0802G\|אִשָּׁ֥ה]] [[H3569G\|כֻשִׁ֖ית]] [[H3947I\|לָקָֽח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic CITIZENS|CITIZENS]] • [[topic ENVY|ENVY]] • [[topic ETHIOPIA|ETHIOPIA]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic LEPROSY|LEPROSY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MISCEGENATION|MISCEGENATION]] • [[topic TREASON|TREASON]] • [[topic ZIPPORAH|ZIPPORAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.12.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.35|<< Numbers 11:35]]</td><td align="center" style="border:none;">[[Num.12|Numbers 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.12.2|Numbers 12:2 >>]]</td></tr></table>
 

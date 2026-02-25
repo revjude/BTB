@@ -1,8 +1,55 @@
+---
+title: Job 34:22
+type: Verse
+kjv: "There is no darkness, nor shadow of death, where the workers of iniquity may hide themselves."
+bsb: "There is no darkness or deep shadow where the workers of iniquity can hide."
+hebrew: "אֵֽין־ חֹ֭שֶׁךְ וְאֵ֣ין צַלְמָ֑וֶת לְהִסָּ֥תֶר שָׁ֝֗ם פֹּ֣עֲלֵי אָֽוֶן׃"
+pericope: "[[Job.34.1 Elihu Confirms God’s Justice|Elihu Confirms God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 34
+book/chapter: "[[Job.34|Job 34]]"
+chronological_order: 45
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ESCAPE|ESCAPE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H2822]]"
+- "[[H9002]]"
+- "[[H6757]]"
+- "[[H9005]]"
+- "[[H5641]]"
+- "[[H8033G]]"
+- "[[H6466]]"
+- "[[H0205G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 34:22**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] no darkness, nor shadow of death, where the workers of iniquity may hide themselves.
 <small><sub>**BSB:**</sub></small>
 There is no darkness or deep shadow where the workers of iniquity can hide.
+<small><sub>**Hebrew:**</sub></small>
+[[H0369\|אֵֽין]][[H9014\|־]] [[H2822\|חֹ֭שֶׁךְ]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H6757\|צַלְמָ֑וֶת]] [[H9005\|לְ]][[H5641\|הִסָּ֥תֶר]] [[H8033G\|שָׁ֝֗ם]] [[H6466\|פֹּ֣עֲלֵי]] [[H0205G\|אָֽוֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ESCAPE|ESCAPE]] • [[topic GOD|GOD]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.21|<< Job 34:21]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.23|Job 34:23 >>]]</td></tr></table>
 

@@ -1,8 +1,59 @@
+---
+title: Psalm 12:1
+type: Verse
+kjv: "Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men."
+bsb: "For the choirmaster. According to Sheminith. A Psalm of David. Help, O LORD, for the godly are no more; the faithful have vanished from among men."
+hebrew: "הוֹשִׁ֣יעָה יְ֭הוָה כִּי־ גָמַ֣ר חָסִ֑יד כִּי־ פַ֥סּוּ אֱ֝מוּנִ֗ים מִבְּנֵ֥י אָדָֽם׃"
+pericope: "[[Ps.12.1 The Godly Are No More|The Godly Are No More]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 12
+book/chapter: "[[Ps.12|Psalm 12]]"
+chronological_order: 346
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[H3467]]"
+- "[[H9012]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1584]]"
+- "[[H2623]]"
+- "[[H6461]]"
+- "[[H0529]]"
+- "[[H9006]]"
+- "[[H1121A]]"
+- "[[H0120G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 12:1**<big><big>[[Ps.12.1 The Godly Are No More|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. According to Sheminith. A Psalm of David. Help, O LORD, for the godly are no more; the faithful have vanished from among men.
+<small><sub>**Hebrew:**</sub></small>
+[[H3467\|הוֹשִׁ֣יעָ]][[H9012\|ה]] [[H3068G\|יְ֭הוָה]] [[H3588A\|כִּי]][[H9014\|־]] [[H1584\|גָמַ֣ר]] [[H2623\|חָסִ֑יד]] [[H3588A\|כִּי]][[H9014\|־]] [[H6461\|פַ֥סּוּ]] [[H0529\|אֱ֝מוּנִ֗ים]] [[H9006\|מִ]][[H1121A\|בְּנֵ֥י]] [[H0120G\|אָדָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic INTERCESSION|INTERCESSION]] • [[topic MUSIC|MUSIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.12.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.12.0|<< Psalms 12:0]]</td><td align="center" style="border:none;">[[Ps.12|Psalms 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.12.2|Psalms 12:2 >>]]</td></tr></table>
 

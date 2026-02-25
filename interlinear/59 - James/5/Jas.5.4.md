@@ -1,10 +1,68 @@
+---
+title: James 5:4
+type: Verse
+kjv: "Behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, crieth: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth."
+bsb: "Look, the wages you withheld from the workmen who mowed your fields are crying out against you. The cries of the harvesters have reached the ears of the Lord of Hosts."
+greek: "ἰδοὺ ὁ μισθὸς τῶν ἐργατῶν τῶν ἀμησάντων τὰς χώρας ὑμῶν ὁ ἀπεστερημένος ἀφ᾽ ὑμῶν κράζει καὶ αἱ βοαὶ τῶν θερισάντων εἰς τὰ ὦτα κυρίου σαβαὼθ εἰσεληλύθασιν."
+pericope: "[[Jas.5.1 A Warning to the Rich|A Warning to the Rich]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 5
+book/chapter: "[[Jas.5|James 5]]"
+chronological_order: 1037
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic EMPLOYEE|EMPLOYEE]]"
+- "[[topic EMPLOYER|EMPLOYER]]"
+- "[[topic LABOR|LABOR]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WAGES|WAGES]]"
+strongs:
+- "[[G2400]]"
+- "[[G3588]]"
+- "[[G3408]]"
+- "[[G2040]]"
+- "[[G0270]]"
+- "[[G5561]]"
+- "[[G4771]]"
+- "[[G0650]]"
+- "[[G0575]]"
+- "[[G2896]]"
+- "[[G2532]]"
+- "[[G0995]]"
+- "[[G2325]]"
+- "[[G1519]]"
+- "[[G3775]]"
+- "[[G2962G]]"
+- "[[G4519]]"
+- "[[G1525]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **James 5:4**<big><big>[[Jas.5.1 A Warning to the Rich|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, crieth: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth.
 <small><sub>**BSB:**</sub></small>
 Look, the wages you withheld from the workmen who mowed your fields are crying out against you. The cries of the harvesters have reached the ears of the Lord of Hosts.
-<small><sub>**Literal:**</sub></small>
-Behold the wage of the workmen who having harvested the fields of you which kept back by you cries out and the cries of those having harvested into the ears of [the] Lord of Hosts have entered.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.3|<< James 5:3]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.5|James 5:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2400\|ἰδοὺ]]  [[G3588\|ὁ]]  [[G3408\|μισθὸς]]  [[G3588\|τῶν]]  [[G2040\|ἐργατῶν]]  [[G3588\|τῶν]]  [[G0270\|ἀμησάντων]]  [[G3588\|τὰς]]  [[G5561\|χώρας]]  [[G4771\|ὑμῶν]]  [[G3588\|ὁ]]  [[G0650\|ἀπεστερημένος]]  [[G0575\|ἀφ᾽]]  [[G4771\|ὑμῶν]]  [[G2896\|κράζει]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G0995\|βοαὶ]]  [[G3588\|τῶν]]  [[G2325\|θερισάντων]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G3775\|ὦτα]]  [[G2962G\|κυρίου]]  [[G4519\|σαβαὼθ]]  [[G1525\|εἰσεληλύθασιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISHONESTY|DISHONESTY]] • [[topic EMPLOYEE|EMPLOYEE]] • [[topic EMPLOYER|EMPLOYER]] • [[topic LABOR|LABOR]] • [[topic MASTER|MASTER]] • [[topic OPPRESSION|OPPRESSION]] • [[topic POOR|POOR]] • [[topic RICHES|RICHES]] • [[topic SERVANT|SERVANT]] • [[topic WAGES|WAGES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.3|<< James 5:3]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.5|James 5:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **James 5:4** is...
 > $\quad$ referencing: [[LXX.Deut.24.15|Deut 24:15]]

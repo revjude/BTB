@@ -1,10 +1,55 @@
+---
+title: 1 Corinthians 11:14
+type: Verse
+kjv: "Doth not even nature itself teach you, that, if a man have long hair, it is a shame unto him?"
+bsb: "Doesn’t nature itself teach you that if a man has long hair, it is a disgrace to him,"
+greek: "ἢ οὐδὲ ἡ φύσις αὐτὴ διδάσκει ὑμᾶς ὅτι ἀνὴρ μὲν ἐὰν κομᾷ, ἀτιμία αὐτῷ ἐστιν,"
+pericope: "[[1Cor.11.1 Roles in Worship|Roles in Worship]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 11
+book/chapter: "[[1Cor.11|1 Corinthians 11]]"
+chronological_order: 1068
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic HAIR|HAIR]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2228]]"
+- "[[G3761]]"
+- "[[G3588]]"
+- "[[G5449]]"
+- "[[G0846]]"
+- "[[G1321]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G0435G]]"
+- "[[G3303]]"
+- "[[G1437]]"
+- "[[G2863]]"
+- "[[G0819]]"
+- "[[G1510]]"
+texts:
+- K
+- NKO
+---
+
 **1 Corinthians 11:14**<big><big>[[1Cor.11.1 Roles in Worship|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Doth not even nature itself teach you, that, if a man have long hair, it is a shame unto him?
 <small><sub>**BSB:**</sub></small>
 Doesn’t nature itself teach you that if a man has long hair, it is a disgrace to him,
-<small><sub>**Literal:**</sub></small>
-or Not even <the> nature itself does teach you that a man indeed if he shall have long hair, a dishonor to him it is,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.13|<< 1 Corinthians 11:13]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.15|1 Corinthians 11:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2228\|ἢ]]  [[G3761\|οὐδὲ]]  [[G3588\|ἡ]]  [[G5449\|φύσις]]  [[G0846\|αὐτὴ]]  [[G1321\|διδάσκει]]  [[G4771\|ὑμᾶς]]  [[G3754G\|ὅτι]]  [[G0435G\|ἀνὴρ]]  [[G3303\|μὲν]]  [[G1437\|ἐὰν]]  [[G2863\|κομᾷ,]]  [[G0819\|ἀτιμία]]  [[G0846\|αὐτῷ]]  [[G1510\|ἐστιν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAIR|HAIR]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.13|<< 1 Corinthians 11:13]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.15|1 Corinthians 11:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

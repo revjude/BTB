@@ -1,8 +1,70 @@
+---
+title: 1 Kings 22:11
+type: Verse
+kjv: "And Zedekiah the son of Chenaanah made him horns of iron: and he said, Thus saith the LORD, With these shalt thou push the Syrians, until thou have consumed them."
+bsb: "Now Zedekiah son of Chenaanah had made for himself iron horns and declared, “This is what the LORD says: ‘With these you shall gore the Arameans until they are finished off.’”"
+hebrew: "וַיַּ֥עַשׂ ל֛וֹ צִדְקִיָּ֥ה בֶֽן־ כְּנַעֲנָ֖ה קַרְנֵ֣י בַרְזֶ֑ל וַיֹּ֙אמֶר֙ כֹּֽה־ אָמַ֣ר יְהוָ֔ה בְּאֵ֛לֶּה תְּנַגַּ֥ח אֶת־ אֲרָ֖ם עַד־ כַּלֹּתָֽם׃"
+pericope: "[[1Kgs.22.1 Ahab and the False Prophets|Ahab and the False Prophets]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 22
+book/chapter: "[[1Kgs.22|1 Kings 22]]"
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHENAANAH|CHENAANAH]]"
+- "[[topic HORN|HORN]]"
+- "[[topic IRON|IRON]]"
+- "[[topic MICAIAH|MICAIAH]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H6667G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3668G]]"
+- "[[H7161A]]"
+- "[[H1270]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H0428]]"
+- "[[H5055]]"
+- "[[H0853]]"
+- "[[H0758I]]"
+- "[[H5704]]"
+- "[[H3615H]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 22:11**<big><big>[[1Kgs.22.1 Ahab and the False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Zedekiah the son of Chenaanah made him horns of iron: and he said, Thus saith the LORD, With these shalt thou push the Syrians, until thou have consumed them.
 <small><sub>**BSB:**</sub></small>
 Now Zedekiah son of Chenaanah had made for himself iron horns and declared, “This is what the LORD says: ‘With these you shall gore the Arameans until they are finished off.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֥עַשׂ]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H6667G\|צִדְקִיָּ֥ה]] [[H1121A\|בֶֽן]][[H9014\|־]] [[H3668G\|כְּנַעֲנָ֖ה]] [[H7161A\|קַרְנֵ֣י]] [[H1270\|בַרְזֶ֑ל]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H9003\|בְּ]][[H0428\|אֵ֛לֶּה]] [[H5055\|תְּנַגַּ֥ח]] [[H0853\|אֶת]][[H9014\|־]] [[H0758I\|אֲרָ֖ם]] [[H5704\|עַד]][[H9014\|־]] [[H3615H\|כַּלֹּתָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CHENAANAH|CHENAANAH]] • [[topic HORN|HORN]] • [[topic IRON|IRON]] • [[topic MICAIAH|MICAIAH]] • [[topic PROPHETS|PROPHETS]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.10|<< 1 Kings 22:10]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.12|1 Kings 22:12 >>]]</td></tr></table>
 

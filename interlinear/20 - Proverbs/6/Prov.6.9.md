@@ -1,8 +1,55 @@
+---
+title: Proverbs 6:9
+type: Verse
+kjv: "How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?"
+bsb: "How long will you lie there, O slacker? When will you get up from your sleep?"
+hebrew: "עַד־ מָתַ֖י עָצֵ֥ל׀ תִּשְׁכָּ֑ב מָ֝תַ֗י תָּק֥וּם מִשְּׁנָתֶֽךָ׃"
+pericope: "[[Prov.6.1 Warnings against Foolishness|Warnings against Foolishness]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 6
+book/chapter: "[[Prov.6|Proverbs 6]]"
+chronological_order: 461
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic IDLENESS|IDLENESS]]"
+- "[[topic RISING|RISING]]"
+- "[[topic SLEEP|SLEEP]]"
+- "[[topic SLOTHFULNESS|SLOTHFULNESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H4970]]"
+- "[[H6102]]"
+- "[[H9015]]"
+- "[[H7901G]]"
+- "[[H6965B]]"
+- "[[H9006]]"
+- "[[H8142]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 6:9**<big><big>[[Prov.6.1 Warnings against Foolishness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?
 <small><sub>**BSB:**</sub></small>
 How long will you lie there, O slacker? When will you get up from your sleep?
+<small><sub>**Hebrew:**</sub></small>
+[[H5704\|עַד]][[H9014\|־]] [[H4970\|מָתַ֖י]] [[H6102\|עָצֵ֥ל]][[H9015\|׀]] [[H7901G\|תִּשְׁכָּ֑ב]] [[H4970\|מָ֝תַ֗י]] [[H6965B\|תָּק֥וּם]] [[H9006\|מִ]][[H8142\|שְּׁנָתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDLENESS|IDLENESS]] • [[topic RISING|RISING]] • [[topic SLEEP|SLEEP]] • [[topic SLOTHFULNESS|SLOTHFULNESS]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.8|<< Proverbs 6:8]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.10|Proverbs 6:10 >>]]</td></tr></table>
 

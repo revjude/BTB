@@ -1,10 +1,69 @@
+---
+title: John 6:35
+type: Verse
+kjv: "And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst."
+bsb: "Jesus answered, “I am the bread of life. Whoever comes to Me will never hunger, and whoever believes in Me will never thirst."
+jesus_said: "I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst."
+greek: "Εἶπεν δὲ αὐτοῖς ὁ Ἰησοῦς· ἐγώ εἰμι ὁ ἄρτος τῆς ζωῆς· ὁ ἐρχόμενος πρὸς ἐμὲ οὐ μὴ πεινάσῃ, καὶ ὁ πιστεύων εἰς ἐμὲ οὐ μὴ διψήσει πώποτε."
+pericope: "[[John.6.22 Jesus the Bread of Life|Jesus the Bread of Life]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BREAD|BREAD]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G0740]]"
+- "[[G2222]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G3983]]"
+- "[[G2532]]"
+- "[[G4100]]"
+- "[[G1519]]"
+- "[[G1372]]"
+- "[[G4455]]"
+texts:
+- NKO
+- K(O)
+- N(k)O
+---
+
 **John 6:35**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.
 <small><sub>**BSB:**</sub></small>
 Jesus answered, “I am the bread of life. Whoever comes to Me will never hunger, and whoever believes in Me will never thirst.
-<small><sub>**Literal:**</sub></small>
-Said now to them <the> Jesus; I myself am the bread <the> of life; the [one] coming to Me myself certainly not may hunger, and the [one] believing in Me myself certainly not will thirst at any time.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.34|<< John 6:34]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.36|John 6:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G1473\|ἐγώ]]  [[G1510\|εἰμι]]  [[G3588\|ὁ]]  [[G0740\|ἄρτος]]  [[G3588\|τῆς]]  [[G2222\|ζωῆς·]]  [[G3588\|ὁ]]  [[G2064\|ἐρχόμενος]]  [[G4314\|πρὸς]]  [[G1473\|ἐμὲ]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G3983\|πεινάσῃ,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G4100\|πιστεύων]]  [[G1519\|εἰς]]  [[G1473\|ἐμὲ]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G1372\|διψήσει]]  [[G4455\|πώποτε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREAD|BREAD]] • [[topic FAITH|FAITH]] • [[topic HOLINESS|HOLINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic SALVATION|SALVATION]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.34|<< John 6:34]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.36|John 6:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

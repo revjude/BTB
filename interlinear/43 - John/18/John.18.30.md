@@ -1,10 +1,61 @@
+---
+title: John 18:30
+type: Verse
+kjv: "They answered and said unto him, If he were not a malefactor, we would not have delivered him up unto thee."
+bsb: "“If He were not a criminal,” they replied, “we would not have handed Him over to you.”"
+greek: "ἀπεκρίθησαν καὶ εἶπαν αὐτῷ· εἰ μὴ ἦν οὗτος κακὸν ποιῶν, οὐκ ἄν σοι παρεδώκαμεν αὐτόν."
+pericope: "[[John.18.28 Jesus before Pilate|Jesus before Pilate]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PILATE, PONTIUS|PILATE, PONTIUS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G0611]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G1510]]"
+- "[[G3778]]"
+- "[[G2556G]]"
+- "[[G4160G]]"
+- "[[G3756]]"
+- "[[G0302]]"
+- "[[G4771]]"
+- "[[G3860]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **John 18:30**<big><big>[[John.18.28 Jesus before Pilate|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 They answered and said unto him, If he were not a malefactor, we would not have delivered him up unto thee.
 <small><sub>**BSB:**</sub></small>
 “If He were not a criminal,” they replied, “we would not have handed Him over to you.”
-<small><sub>**Literal:**</sub></small>
-They answered and they said to him; only except were He evil doing, [then] not would to you we have delivered Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.29|<< John 18:29]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.31|John 18:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθησαν]]  [[G2532\|καὶ]]  [[G2036\|εἶπαν]]  [[G0846\|αὐτῷ·]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G1510\|ἦν]]  [[G3778\|οὗτος]]  [[G2556G\|κακὸν]]  [[G4160G\|ποιῶν,]]  [[G3756\|οὐκ]]  [[G0302\|ἄν]]  [[G4771\|σοι]]  [[G3860\|παρεδώκαμεν]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PILATE, PONTIUS|PILATE, PONTIUS]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.29|<< John 18:29]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.31|John 18:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

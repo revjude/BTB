@@ -1,10 +1,50 @@
+---
+title: 2 John 1:8
+type: Verse
+kjv: "Look to yourselves, that we lose not those things which we have wrought, but that we receive a full reward."
+bsb: "Watch yourselves, so that you do not lose what we have worked for, but that you may be fully rewarded."
+greek: "βλέπετε ἑαυτοὺς ἵνα μὴ ἀπολέσητε ἃ εἰργασάμεθα, ἀλλὰ μισθὸν πλήρη ἀπολάβητε."
+pericope: "[[2John.1.7 Beware of Deceivers|Beware of Deceivers]]"
+original_language: Greek
+testament: New
+book: 2 John
+chapter: 1
+book/chapter: "[[2John.1|2 John 1]]"
+chronological_order: 1166
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- personal letter
+- polemical
+strongs:
+- "[[G0991]]"
+- "[[G1438]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G0622]]"
+- "[[G3739]]"
+- "[[G2038]]"
+- "[[G0235]]"
+- "[[G3408]]"
+- "[[G4134]]"
+- "[[G0618]]"
+texts:
+- NKO
+- N(K)O
+- NK(O)
+---
+
 **2 John 1:8**<big><big>[[2John.1.7 Beware of Deceivers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Look to yourselves, that we lose not those things which we have wrought, but that we receive a full reward.
 <small><sub>**BSB:**</sub></small>
 Watch yourselves, so that you do not lose what we have worked for, but that you may be fully rewarded.
-<small><sub>**Literal:**</sub></small>
-do watch yourselves so that not you may lose what things we have worked for, but a reward full you may receive.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2John.1.7|<< 2 John 1:7]]</td><td align="center" style="border:none;">[[2John.1|2 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2John.1.9|2 John 1:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0991\|βλέπετε]]  [[G1438\|ἑαυτοὺς]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G0622\|ἀπολέσητε]]  [[G3739\|ἃ]]  [[G2038\|εἰργασάμεθα,]]  [[G0235\|ἀλλὰ]]  [[G3408\|μισθὸν]]  [[G4134\|πλήρη]]  [[G0618\|ἀπολάβητε.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2John.1.7|<< 2 John 1:7]]</td><td align="center" style="border:none;">[[2John.1|2 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2John.1.9|2 John 1:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

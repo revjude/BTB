@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Wisdom from Above
+type: Pericope
 pericope: "[[Jas.3.13 The Wisdom from Above|The Wisdom from Above]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: James
 chapter: 3
 book/chapter: "[[Jas.3|James 3]]"
-genre:
+chronological_order: 1035
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
 - epistle
 - general epistle
 - wisdom literature
 - ethical instruction
+verse_count: 6
 verses:
 - "[[Jas.3.13]]"
 - "[[Jas.3.14]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Jas.3.18]]"
 ---
 
-[[Jas.3|James 3:13 - James 3:18]]
+<small>[[Jas.3|James 3:13-18]]</small>
 *The Wisdom from Above*
 
 [[Jas.3.13|13]] Who \[is\] a wise man and endued with knowledge among you? let him shew out of a good conversation his works with meekness of wisdom.

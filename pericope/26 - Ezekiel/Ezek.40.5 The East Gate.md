@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The East Gate
+type: Pericope
 pericope: "[[Ezek.40.5 The East Gate|The East Gate]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 40
 book/chapter: "[[Ezek.40|Ezekiel 40]]"
-genre:
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 12
 verses:
 - "[[Ezek.40.5]]"
 - "[[Ezek.40.6]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Ezek.40.16]]"
 ---
 
-[[Ezek.40|Ezekiel 40:5 - Ezekiel 40:16]]
+<small>[[Ezek.40|Ezekiel 40:5-16]]</small>
 *The East Gate*
 
 [[Ezek.40.5|5]] And behold a wall on the outside of the house round about, and in the man’s hand a measuring reed of six cubits \[long\] by the cubit and an hand breadth: so he measured the breadth of the building, one reed; and the height, one reed.

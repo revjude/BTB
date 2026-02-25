@@ -5,7 +5,7 @@
 
 → Named [[Gen.2.23|Ge 2:23]]
 
-→ Fall of, and curse upon [[Gen.3.1|Ge 3:1]]-[[Gen.3.16|16]]; [[2Cor.11.3|2Co 11:3]]; [[1Tim.2.14|1Ti 2:14]]
+→ Fall of, and curse upon [[Gen.3.1|Ge 3:1-16]]; [[2Cor.11.3|2Co 11:3]]; [[1Tim.2.14|1Ti 2:14]]
 
 → Promise to [[Gen.3.15|Ge 3:15]]
 
@@ -15,9 +15,9 @@
 
 → See [[topic VAIL|VAIL]]
 
-→ Vows of [[Num.30.3|Nu 30:3]]-[[Num.30.16|16]]
+→ Vows of [[Num.30.3|Nu 30:3-16]]
 
-→ When jealously charged with infidelity, their guilt or innocence  was to be determined by an ordeal  [[Num.5.12|Nu 5:12]]-[[Num.5.31|31]]
+→ When jealously charged with infidelity, their guilt or innocence  was to be determined by an ordeal  [[Num.5.12|Nu 5:12-31]]
 
 → Took part in ancient worship [[Exod.15.20|Ex 15:20]]; [[Exod.21|21]]; [[Exod.38.8|38:8]]; [[1Sam.2.22|1Sa  2:22]]
 
@@ -33,7 +33,7 @@
 
 → Purifications of
 
-- After menstruation [[Lev.15.19|Le 15:19]]-[[Lev.15.33|33]]; [[2Sam.11.4|2Sa 11:4]]
+- After menstruation [[Lev.15.19|Le 15:19-33]]; [[2Sam.11.4|2Sa 11:4]]
 
 - After childbirth [[Lev.12|Le 12]]; [[Luke.2.22|Lu 2:22]]
 
@@ -41,11 +41,11 @@
 
 → Religious privileges of, among early Christians [[Acts.1.14|Ac  1:14]]; [[Acts.12.12|12:12]],[[Acts.12.13|13]]; [[1Cor.11.5|1Co 11:5]]; [[1Cor.14.34|14:34]]; [[1Tim.2.11|1Ti 2:11]]
 
-→ Domestic duties of [[Gen.18.6|Ge 18:6]]; [[Prov.31.15|Pr 31:15]]-[[Prov.31.19|19]]; [[Matt.24.41|Mt 24:41]]
+→ Domestic duties of [[Gen.18.6|Ge 18:6]]; [[Prov.31.15|Pr 31:15-19]]; [[Matt.24.41|Mt 24:41]]
 
 → Cooked [[Gen.18.6|Ge 18:6]]
 
-→ Spun [[Exod.35.25|Ex 35:25]],[[Exod.35.26|26]]; [[1Sam.2.19|1Sa 2:19]]; [[Prov.31.19|Pr 31:19]]-[[Prov.31.24|24]]
+→ Spun [[Exod.35.25|Ex 35:25]],[[Exod.35.26|26]]; [[1Sam.2.19|1Sa 2:19]]; [[Prov.31.19|Pr 31:19-24]]
 
 → Embroidered [[Prov.31.22|Pr 31:22]]
 
@@ -63,11 +63,11 @@
 
 → Forbidden to wear men' s costume [[Deut.22.5|De 22:5]]
 
-→ Wore hair long [[1Cor.11.5|1Co 11:5]]-[[1Cor.11.15|15]]
+→ Wore hair long [[1Cor.11.5|1Co 11:5-15]]
 
 → Rules for dress of Christian [[1Tim.2.9|1Ti 2:9]],[[1Tim.2.10|10]]; [[1Pet.3.3|1Pe 3:3]],[[1Pet.3.4|4]]
 
-→ Ornaments of [[Isa.3.16|Isa 3:16]]-[[Isa.3.23|23]]
+→ Ornaments of [[Isa.3.16|Isa 3:16-23]]
 
 → Weaker than men [[1Pet.3.7|1Pe 3:7]]
 
@@ -87,19 +87,19 @@
 
 → Taken captive [[Num.31.9|Nu 31:9]],[[Num.31.15|15]],[[Num.31.17|17]],[[Num.31.18|18]],[[Num.31.35|35]]; [[Lam.1.18|La 1:18]]; [[Ezek.30.17|Eze 30:17]],[[Ezek.30.18|18]]
 
-→ Punishment to be inflicted upon men for seducing, when betrothed [[Deut.22.23|De 22:23]]-[[Deut.22.27|27]]
+→ Punishment to be inflicted upon men for seducing, when betrothed [[Deut.22.23|De 22:23-27]]
 
 → Punishment for seducing, when not betrothed [[Exod.22.16|Ex 22:16]],[[Exod.22.17|17]];  [[Deut.22.28|De 22:28]],[[Deut.22.29|29]]
 
 → Treated with cruelty in war [[Deut.32.25|De 32:25]]; [[Lam.2.21|La 2:21]]; [[Lam.5.11|5:11]]
 
-→ Virtuous, held in high estimation [[Ruth.3.11|Ru 3:11]]; [[Prov.31.10|Pr 31:10]]-[[Prov.31.30|30]]
+→ Virtuous, held in high estimation [[Ruth.3.11|Ru 3:11]]; [[Prov.31.10|Pr 31:10-30]]
 
-→ Fond of self-indulgence [[Isa.32.9|Isa 32:9]]-[[Isa.32.11|11]]
+→ Fond of self-indulgence [[Isa.32.9|Isa 32:9-11]]
 
 → Fond of ornaments [[Jer.2.32|Jer 2:32]]
 
-→ Subtle and deceitful [[Prov.6.24|Pr 6:24]]-[[Prov.6.29|29]],[[Prov.6.32|32]]-[[Prov.6.35|35]]; [[Prov.7.6|7:6]]-[[Prov.7.27|27]]; [[Eccl.7.26|Ec 7:26]]
+→ Subtle and deceitful [[Prov.6.24|Pr 6:24-29]],[[Prov.6.32|32-35]]; [[Prov.7.6|7:6-27]]; [[Eccl.7.26|Ec 7:26]]
 
 → Silly, and easily led into error  [[2Tim.3.6|2Ti 3:6]]
 
@@ -113,9 +113,9 @@
 
 → Deborah [[Judg.4.4|Jud 4:4]]
 
-→ Athaliah [[2Kgs.11.1|2Ki 11:1]]-[[2Kgs.11.16|16]]; [[2Chr.22.2|2Ch 22:2]],[[2Chr.22.3|3]],[[2Chr.22.10|10]]-[[2Chr.22.12|12]]
+→ Athaliah [[2Kgs.11.1|2Ki 11:1-16]]; [[2Chr.22.2|2Ch 22:2]],[[2Chr.22.3|3]],[[2Chr.22.10|10-12]]
 
-→ Queen of Sheba [[1Kgs.10.1|1Ki 10:1]]-[[1Kgs.10.13|13]]
+→ Queen of Sheba [[1Kgs.10.1|1Ki 10:1-13]]
 
 → Queen Candace [[Acts.8.27|Ac 8:27]]
 
@@ -139,11 +139,11 @@
 
 - Deborah [[Judg.5|Jud 5]]
 
-- Hannah [[1Sam.2.1|1Sa 2:1]]-[[1Sam.2.10|10]]
+- Hannah [[1Sam.2.1|1Sa 2:1-10]]
 
-- Elisabeth [[Luke.1.42|Lu 1:42]]-[[Luke.1.45|45]]
+- Elisabeth [[Luke.1.42|Lu 1:42-45]]
 
-- Mary [[Luke.1.46|Lu 1:46]]-[[Luke.1.55|55]]
+- Mary [[Luke.1.46|Lu 1:46-55]]
 
 → As prophets
 
@@ -151,23 +151,23 @@
 
 - Deborah [[Judg.4.4|Jud 4:4]],[[Judg.4.5|5]]
 
-- Huldah [[2Kgs.22.14|2Ki 22:14]]-[[2Kgs.22.20|20]]; [[2Chr.34.22|2Ch 34:22]]-[[2Chr.34.28|28]]
+- Huldah [[2Kgs.22.14|2Ki 22:14-20]]; [[2Chr.34.22|2Ch 34:22-28]]
 
 - Noadiah [[Neh.6.14|Ne 6:14]]
 
-- Anna [[Luke.2.36|Lu 2:36]]-[[Luke.2.38|38]]
+- Anna [[Luke.2.36|Lu 2:36-38]]
 
 - Philip' s four unmarried daughters  [[Acts.21.9|Ac 21:9]]
 
-→ False prophets [[Ezek.13.17|Eze 13:17]]-[[Ezek.13.23|23]]
+→ False prophets [[Ezek.13.17|Eze 13:17-23]]
 
-→ In business [[Prov.31.14|Pr 31:14]]-[[Prov.31.18|18]],[[Prov.31.24|24]]
+→ In business [[Prov.31.14|Pr 31:14-18]],[[Prov.31.24|24]]
 
 → Property rights of
 
-- In inheritance [[Num.27.1|Nu 27:1]]-[[Num.27.11|11]]; [[Num.36|36]]; [[Josh.17.3|Jos 17:3]]-[[Josh.17.6|6]]; [[Job.42.15|Job 42:15]]
+- In inheritance [[Num.27.1|Nu 27:1-11]]; [[Num.36|36]]; [[Josh.17.3|Jos 17:3-6]]; [[Job.42.15|Job 42:15]]
 
-- To sell real estate [[Ruth.4.3|Ru 4:3]]-[[Ruth.4.9|9]]
+- To sell real estate [[Ruth.4.3|Ru 4:3-9]]
 
 → Sold for husband' s debts [[Matt.18.25|Mt 18:25]]
 
@@ -175,19 +175,19 @@
 
 → Last at the cross [[Matt.27.55|Mt 27:55]],[[Matt.27.56|56]]; [[Mark.15.40|Mr 15:40]],[[Mark.15.41|41]]
 
-→ First at the gravesite [[Mark.15.46|Mr 15:46]],[[Mark.15.47|47]]; [[Mark.16.1|16:1]]-[[Mark.16.6|6]]; [[Luke.23.27|Lu 23:27]],[[Luke.23.28|28]],[[Luke.23.49|49]],[[Luke.23.55|55]],[[Luke.23.56|56]];  [[Luke.24.1|24:1]]-[[Luke.24.10|10]]
+→ First at the gravesite [[Mark.15.46|Mr 15:46]],[[Mark.15.47|47]]; [[Mark.16.1|16:1-6]]; [[Luke.23.27|Lu 23:27]],[[Luke.23.28|28]],[[Luke.23.49|49]],[[Luke.23.55|55]],[[Luke.23.56|56]];  [[Luke.24.1|24:1-10]]
 
-→ First to whom the risen Lord appeared [[Mark.16.9|Mr 16:9]]; [[John.20.14|Joh  20:14]]-[[John.20.18|18]]
+→ First to whom the risen Lord appeared [[Mark.16.9|Mr 16:9]]; [[John.20.14|Joh  20:14-18]]
 
 → Converted by preaching of Paul [[Acts.16.14|Ac 16:14]],[[Acts.16.15|15]]; [[Acts.17.4|17:4]],[[Acts.17.12|12]],[[Acts.17.34|34]]
 
 → Social status of
 
-- In Persia [[Esth.1.10|Es 1:10]]-[[Esth.1.22|22]]; [[Dan.5.1|Da 5:1]]-[[Dan.5.12|12]]
+- In Persia [[Esth.1.10|Es 1:10-22]]; [[Dan.5.1|Da 5:1-12]]
 
 - In Roman customs [[Acts.24.24|Ac 24:24]]; [[Acts.25.13|25:13]],[[Acts.25.23|23]]; [[Acts.26.30|26:30]]
 
-→ UNCLASSIFIED SCRIPTURES RELATING TO [[Gen.2.18|Ge 2:18]],[[Gen.2.21|21]]-[[Gen.2.24|24]];  [[Gen.3.16|3:16]]; [[Esth.1.20|Es 1:20]]-[[Esth.1.22|22]]; [[Prov.11.16|Pr 11:16]],[[Prov.11.22|22]]; [[Prov.12.4|12:4]]; [[Prov.14.1|14:1]]; [[Prov.18.22|18:22]]; [[Prov.19.13|19:13]],[[Prov.19.14|14]]; [[Prov.21.9|21:9]],[[Prov.21.19|19]]; [[Prov.25.24|25:24]]; [[Prov.27.15|27:15]],[[Prov.27.16|16]];  [[Prov.30.21|30:21]]-[[Prov.30.23|23]]; [[Prov.31.10|31:10]]-[[Prov.31.31|31]]; [[Eccl.7.26|Ec 7:26]]-[[Eccl.7.28|28]]; [[Isa.3.16|Isa 3:16]]-[[Isa.3.24|24]]; [[Isa.32.9|32:9]]-[[Isa.32.12|12]]; [[Ezek.13.17|Eze 13:17]]-[[Ezek.13.23|23]]; [[1Cor.11.3|1Co 11:3]]-[[1Cor.11.15|15]];  [[1Cor.14.34|14:34]],[[1Cor.14.35|35]]; [[1Tim.2.9|1Ti 2:9]]-[[1Tim.2.15|15]]; [[1Tim.3.11|3:11]]; [[1Tim.5.1|5:1]]-[[1Tim.5.16|16]]; [[2Tim.3.6|2Ti 3:6]],[[2Tim.3.7|7]]; [[Titus.2.3|Tit 2:3]]-[[Titus.2.5|5]]
+→ UNCLASSIFIED SCRIPTURES RELATING TO [[Gen.2.18|Ge 2:18]],[[Gen.2.21|21-24]];  [[Gen.3.16|3:16]]; [[Esth.1.20|Es 1:20-22]]; [[Prov.11.16|Pr 11:16]],[[Prov.11.22|22]]; [[Prov.12.4|12:4]]; [[Prov.14.1|14:1]]; [[Prov.18.22|18:22]]; [[Prov.19.13|19:13]],[[Prov.19.14|14]]; [[Prov.21.9|21:9]],[[Prov.21.19|19]]; [[Prov.25.24|25:24]]; [[Prov.27.15|27:15]],[[Prov.27.16|16]];  [[Prov.30.21|30:21-23]]; [[Prov.31.10|31:10-31]]; [[Eccl.7.26|Ec 7:26-28]]; [[Isa.3.16|Isa 3:16-24]]; [[Isa.32.9|32:9-12]]; [[Ezek.13.17|Eze 13:17-23]]; [[1Cor.11.3|1Co 11:3-15]];  [[1Cor.14.34|14:34]],[[1Cor.14.35|35]]; [[1Tim.2.9|1Ti 2:9-15]]; [[1Tim.3.11|3:11]]; [[1Tim.5.1|5:1-16]]; [[2Tim.3.6|2Ti 3:6]],[[2Tim.3.7|7]]; [[Titus.2.3|Tit 2:3-5]]
 
 - See [[topic WIDOW|WIDOW]]
 
@@ -207,31 +207,31 @@
 
 - Naomi  [[Ruth.1|Ru 1]]; [[Ruth.2|2]]; [[Ruth.3.1|3:1]]
 
-- Ruth [[Ruth.1.4|Ru 1:4]],[[Ruth.1.14|14]]-[[Ruth.1.22|22]]
+- Ruth [[Ruth.1.4|Ru 1:4]],[[Ruth.1.14|14-22]]
 
 - And [[Ruth.2|Ru 2]]; [[Ruth.3|3]]; [[Ruth.4|4]]
 
-- Hannah, the mother of Samuel  [[1Sam.1.9|1Sa 1:9]]-[[1Sam.1.18|18]],[[1Sam.1.24|24]]-[[1Sam.1.28|28]]
+- Hannah, the mother of Samuel  [[1Sam.1.9|1Sa 1:9-18]],[[1Sam.1.24|24-28]]
 
-- Widow of Zarephath, who fed Elijah during the famine [[1Kgs.17.8|1Ki 17:8]]-[[1Kgs.17.24|24]]
+- Widow of Zarephath, who fed Elijah during the famine [[1Kgs.17.8|1Ki 17:8-24]]
 
-- The Shunammite woman, who gave hospitality to Elisha [[2Kgs.4.8|2Ki 4:8]]-[[2Kgs.4.38|38]]
+- The Shunammite woman, who gave hospitality to Elisha [[2Kgs.4.8|2Ki 4:8-38]]
 
 - Vashti [[Esth.1.11|Es 1:11]],[[Esth.1.12|12]]
 
-- Esther [[Esth.4.15|Es 4:15]]-[[Esth.4.17|17]]
+- Esther [[Esth.4.15|Es 4:15-17]]
 
-- Mary [[Luke.1.26|Lu 1:26]]-[[Luke.1.38|38]]
+- Mary [[Luke.1.26|Lu 1:26-38]]
 
-- Elisabeth [[Luke.1.6|Lu 1:6]],[[Luke.1.41|41]]-[[Luke.1.45|45]]
+- Elisabeth [[Luke.1.6|Lu 1:6]],[[Luke.1.41|41-45]]
 
 - Anna [[Luke.2.37|Lu 2:37]]
 
-- The widow who put her two mite (small coins, Greek: leptas) into  the treasury [[Mark.12.41|Mr 12:41]]-[[Mark.12.44|44]]; [[Luke.21.2|Lu 21:2]]-[[Luke.21.4|4]]
+- The widow who put her two mite (small coins, Greek: leptas) into  the treasury [[Mark.12.41|Mr 12:41-44]]; [[Luke.21.2|Lu 21:2-4]]
 
-- Mary and Martha [[Mark.14.3|Mr 14:3]]-[[Mark.14.9|9]]; [[Luke.10.42|Lu 10:42]]; [[John.11.5|Joh 11:5]]
+- Mary and Martha [[Mark.14.3|Mr 14:3-9]]; [[Luke.10.42|Lu 10:42]]; [[John.11.5|Joh 11:5]]
 
-- Mary Magdalene  [[Mark.16.1|Mr 16:1]]; [[Luke.8.2|Lu 8:2]]; [[John.20.1|Joh 20:1]],[[John.20.2|2]],[[John.20.11|11]]-[[John.20.16|16]]
+- Mary Magdalene  [[Mark.16.1|Mr 16:1]]; [[Luke.8.2|Lu 8:2]]; [[John.20.1|Joh 20:1]],[[John.20.2|2]],[[John.20.11|11-16]]
 
 - Pilate' s wife [[Matt.27.19|Mt 27:19]]
 
@@ -253,15 +253,15 @@
 
 → FIGURATIVE
 
-- Of the body (ekklesia) of Christ [[Ps.45.2|Ps 45:2]]-[[Ps.45.15|15]]; [[Gal.4.26|Ga 4:26]];  [[Rev.12.1|Re 12:1]]
+- Of the body (ekklesia) of Christ [[Ps.45.2|Ps 45:2-15]]; [[Gal.4.26|Ga 4:26]];  [[Rev.12.1|Re 12:1]]
 
-- Of saints [[Matt.25.1|Mt 25:1]]-[[Matt.25.4|4]]; [[2Cor.11.2|2Co 11:2]]; [[Rev.14.4|Re 14:4]]
+- Of saints [[Matt.25.1|Mt 25:1-4]]; [[2Cor.11.2|2Co 11:2]]; [[Rev.14.4|Re 14:4]]
 
-→ WICKED [[2Kgs.9.30|2Ki 9:30]]-[[2Kgs.9.37|37]]; [[2Kgs.23.7|23:7]]; [[Jer.44.15|Jer 44:15]]-[[Jer.44.19|19]],[[Jer.44.25|25]]; [[Ezek.8.14|Eze 8:14]];  [[Rom.1.26|Ro 1:26]]
+→ WICKED [[2Kgs.9.30|2Ki 9:30-37]]; [[2Kgs.23.7|23:7]]; [[Jer.44.15|Jer 44:15-19]],[[Jer.44.25|25]]; [[Ezek.8.14|Eze 8:14]];  [[Rom.1.26|Ro 1:26]]
 
 - Zeal of, in licentious practices of idolatry [[2Kgs.23.7|2Ki 23:7]];  [[Hos.4.13|Ho 4:13]],[[Hos.4.14|14]]
 
-- Full of deceit and licentiousness [[Prov.2.16|Pr 2:16]]-[[Prov.2.19|19]]; [[Prov.5.3|5:3]]-[[Prov.5.20|20]];  [[Prov.6.24|6:24]]-[[Prov.6.29|29]],[[Prov.6.32|32]]-[[Prov.6.35|35]]; [[Prov.7.6|7:6]]-[[Prov.7.27|27]]; [[Eccl.7.26|Ec 7:26]]; [[Ezek.16.32|Eze 16:32]]
+- Full of deceit and licentiousness [[Prov.2.16|Pr 2:16-19]]; [[Prov.5.3|5:3-20]];  [[Prov.6.24|6:24-29]],[[Prov.6.32|32-35]]; [[Prov.7.6|7:6-27]]; [[Eccl.7.26|Ec 7:26]]; [[Ezek.16.32|Eze 16:32]]
 
 - Commits forgery [[1Kgs.21.8|1Ki 21:8]]
 
@@ -271,25 +271,25 @@
 
 - Eve, in yielding to temptation and seducing her husband [[Gen.3.6|Ge 3:6]]; [[1Tim.2.14|1Ti 2:14]]
 
-- Sarah, in her jealousy and malice toward Hagar [[Gen.21.9|Ge 21:9]]-[[Gen.21.11|11]];  with 21:12-21
+- Sarah, in her jealousy and malice toward Hagar [[Gen.21.9|Ge 21:9-11]];  with 21:12-21
 
 - Lot' s wife, in her rebellion against her situation, and against  the destruction of Sodom [[Gen.19.26|Ge 19:26]]; [[Luke.17.32|Lu 17:32]]
 
-- The daughters of Lot, in their incestuous lust [[Gen.19.31|Ge 19:31]]-[[Gen.19.38|38]]
+- The daughters of Lot, in their incestuous lust [[Gen.19.31|Ge 19:31-38]]
 
-- Rebekah, in her partiality for Jacob, and her sharp practice  to secure for him Isaac' s blessing [[Gen.27.11|Ge 27:11]]-[[Gen.27.17|17]]
+- Rebekah, in her partiality for Jacob, and her sharp practice  to secure for him Isaac' s blessing [[Gen.27.11|Ge 27:11-17]]
 
 - Rachel, in her jealousy of Leah [[Gen.30.1|Ge 30:1]]
 
 - Rachel, in stealing images [[Gen.31.19|Ge 31:19]],[[Gen.31.34|34]]
 
-- Leah, in her imitation of Rachel in the matter of children [[Gen.30.9|Ge 30:9]]-[[Gen.30.18|18]]
+- Leah, in her imitation of Rachel in the matter of children [[Gen.30.9|Ge 30:9-18]]
 
 - Dinah, in her fornication [[Gen.34.1|Ge 34:1]],[[Gen.34.2|2]]
 
-- Tamar, in her adultery [[Gen.38.14|Ge 38:14]]-[[Gen.38.24|24]]
+- Tamar, in her adultery [[Gen.38.14|Ge 38:14-24]]
 
-- Potiphar' s wife, in her lascivious lust and slander against Joseph [[Gen.39.7|Ge 39:7]]-[[Gen.39.20|20]]
+- Potiphar' s wife, in her lascivious lust and slander against Joseph [[Gen.39.7|Ge 39:7-20]]
 
 - Zipporah, in her persecution of Moses on account of his religious  obligations [[Exod.4.25|Ex 4:25]],[[Exod.4.26|26]]
 
@@ -297,31 +297,31 @@
 
 - Rahab, in her harlotry [[Josh.2.1|Jos 2:1]]
 
-- Delilah, in her conspiracy against Samson [[Judg.16.4|Jud 16:4]]-[[Judg.16.20|20]]
+- Delilah, in her conspiracy against Samson [[Judg.16.4|Jud 16:4-20]]
 
-- Peninnah, the wife of Elkanah, in her jealous taunting of Hannah [[1Sam.1.4|1Sa 1:4]]-[[1Sam.1.8|8]]
+- Peninnah, the wife of Elkanah, in her jealous taunting of Hannah [[1Sam.1.4|1Sa 1:4-8]]
 
-- The Midianite woman in the camp of Israel, taken in adultery  [[Num.25.6|Nu 25:6]]-[[Num.25.8|8]]
+- The Midianite woman in the camp of Israel, taken in adultery  [[Num.25.6|Nu 25:6-8]]
 
-- Michal, in her derision of David' s religious zeal [[2Sam.6.16|2Sa  6:16]],[[2Sam.6.20|20]]-[[2Sam.6.23|23]]
+- Michal, in her derision of David' s religious zeal [[2Sam.6.16|2Sa  6:16]],[[2Sam.6.20|20-23]]
 
 - Bath-sheba, in her adultery, in becoming the wife of her husband' s  murderer [[2Sam.11.4|2Sa 11:4]],[[2Sam.11.5|5]],[[2Sam.11.27|27]]; [[2Sam.12.9|12:9]],[[2Sam.12.10|10]]
 
-- Solomon' s wives, in their idolatrous and wicked influence over  Solomon [[1Kgs.11.1|1Ki 11:1]]-[[1Kgs.11.11|11]]; [[Neh.13.26|Ne 13:26]]
+- Solomon' s wives, in their idolatrous and wicked influence over  Solomon [[1Kgs.11.1|1Ki 11:1-11]]; [[Neh.13.26|Ne 13:26]]
 
 - Jezebel, in her persecution and destruction of the prophets of  the Lord [[1Kgs.18.4|1Ki 18:4]],[[1Kgs.18.13|13]]
 
 - Jezebel, in her persecution of Elijah [[1Kgs.19.2|1Ki 19:2]]
 
-- Jezebel, in her conspiracy against Naboth, to cheat him out of  his vineyard  [[1Kgs.21.1|1Ki 21:1]]-[[1Kgs.21.16|16]]
+- Jezebel, in her conspiracy against Naboth, to cheat him out of  his vineyard  [[1Kgs.21.1|1Ki 21:1-16]]
 
 - Jezebel, in her evil counsels to, and influence over, Ahab [[1Kgs.21.25|1Ki 21:25]]; with 21:17-27
 
-- And [[2Kgs.9.30|2Ki 9:30]]-[[2Kgs.9.37|37]]
+- And [[2Kgs.9.30|2Ki 9:30-37]]
 
 - The cannibalistic mothers of Samaria [[2Kgs.6.28|2Ki 6:28]],[[2Kgs.6.29|29]]
 
-- Athaliah, in destroying the royal household and usurping the  throne [[2Kgs.11.1|2Ki 11:1]]-[[2Kgs.11.16|16]]; [[2Chr.22.10|2Ch 22:10]],[[2Chr.22.12|12]]; [[2Chr.23.12|23:12]]-[[2Chr.23.15|15]]
+- Athaliah, in destroying the royal household and usurping the  throne [[2Kgs.11.1|2Ki 11:1-16]]; [[2Chr.22.10|2Ch 22:10]],[[2Chr.22.12|12]]; [[2Chr.23.12|23:12-15]]
 
 - The sodomites of the southern kingdom (Judah) [[2Kgs.23.7|2Ki 23:7]]
 
@@ -333,21 +333,21 @@
 
 - Gomer, the adulterous wife of Hosea [[Hos.1.2|Ho 1:2]],[[Hos.1.3|3]]; [[Hos.3.1|3:1]]
 
-- Herodias, in her incestuous marriage with Herod Antipas [[Matt.14.3|Mt 14:3]],[[Matt.14.4|4]]; [[Mark.6.17|Mr 6:17]]-[[Mark.6.19|19]]; [[Luke.3.19|Lu 3:19]]
+- Herodias, in her incestuous marriage with Herod Antipas [[Matt.14.3|Mt 14:3]],[[Matt.14.4|4]]; [[Mark.6.17|Mr 6:17-19]]; [[Luke.3.19|Lu 3:19]]
 
-- Herodius, by indirectly causing John the Baptist to be decapitated [[Matt.14.6|Mt 14:6]]-[[Matt.14.11|11]]; [[Mark.6.24|Mr 6:24]]-[[Mark.6.28|28]]
+- Herodius, by indirectly causing John the Baptist to be decapitated [[Matt.14.6|Mt 14:6-11]]; [[Mark.6.24|Mr 6:24-28]]
 
-- The daughter of Herodias, in her complicity with her mother in  securing the death of John the Baptist [[Matt.14.8|Mt 14:8]]; [[Mark.6.18|Mr 6:18]]-[[Mark.6.28|28]]
+- The daughter of Herodias, in her complicity with her mother in  securing the death of John the Baptist [[Matt.14.8|Mt 14:8]]; [[Mark.6.18|Mr 6:18-28]]
 
-- Sapphira, in her blasphemous falsehood [[Acts.5.2|Ac 5:2]]-[[Acts.5.10|10]]
+- Sapphira, in her blasphemous falsehood [[Acts.5.2|Ac 5:2-10]]
 
-- The woman caught in the act of adultery and brought to Jesus  in the temple [[John.8.1|Joh 8:1]]-[[John.8.11|11]]
+- The woman caught in the act of adultery and brought to Jesus  in the temple [[John.8.1|Joh 8:1-11]]
 
 → FIGURATIVE
 
 - Of backsliding [[Jer.6.2|Jer 6:2]]; [[Rev.17.4|Re 17:4]],[[Rev.17.18|18]]
 
-- Of evil people [[Isa.32.9|Isa 32:9]],[[Isa.32.11|11]]; [[Matt.25.1|Mt 25:1]]-[[Matt.25.13|13]]
+- Of evil people [[Isa.32.9|Isa 32:9]],[[Isa.32.11|11]]; [[Matt.25.1|Mt 25:1-13]]
 
 → SYMBOLICAL
 

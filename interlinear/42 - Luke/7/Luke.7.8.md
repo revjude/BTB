@@ -1,10 +1,68 @@
+---
+title: Luke 7:8
+type: Verse
+kjv: "For I also am a man set under authority, having under me soldiers, and I say unto one, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth it."
+bsb: "For I myself am a man under authority, with soldiers under me. I tell one to go, and he goes, and another to come, and he comes. I tell my servant to do something, and he does it.”"
+greek: "καὶ γὰρ ἐγὼ ἄνθρωπός εἰμι ὑπὸ ἐξουσίαν τασσόμενος, ἔχων ὑπ᾽ ἐμαυτὸν στρατιώτας. καὶ λέγω τούτῳ· πορεύθητι, καὶ πορεύεται, καὶ ἄλλῳ· ἔρχου, καὶ ἔρχεται, καὶ τῷ δούλῳ μου· ποίησον τοῦτο, καὶ ποιεῖ."
+pericope: "[[Luke.7.1 The Faith of the Centurion|The Faith of the Centurion]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic CENTURION|CENTURION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G2532]]"
+- "[[G1063]]"
+- "[[G1473]]"
+- "[[G0444]]"
+- "[[G1510]]"
+- "[[G5259H]]"
+- "[[G1849]]"
+- "[[G5021]]"
+- "[[G2192]]"
+- "[[G4757]]"
+- "[[G3004G]]"
+- "[[G3778]]"
+- "[[G4198]]"
+- "[[G0243]]"
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G3165]]"
+- "[[G4160G]]"
+texts:
+- NKO
+---
+
 **Luke 7:8**<big><big>[[Luke.7.1 The Faith of the Centurion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I also am a man set under authority, having under me soldiers, and I say unto one, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth [it].
 <small><sub>**BSB:**</sub></small>
 For I myself am a man under authority, with soldiers under me. I tell one to go, and he goes, and another to come, and he comes. I tell my servant to do something, and he does it.”
-<small><sub>**Literal:**</sub></small>
-Also for I myself a man am under authority appointed, having under myself soldiers. and I say to this [one]; do go, and he goes, and to another; do come, and he comes, and to the servant of mine; do enact this, and he enacts [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.7|<< Luke 7:7]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.9|Luke 7:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1063\|γὰρ]]  [[G1473\|ἐγὼ]]  [[G0444\|ἄνθρωπός]]  [[G1510\|εἰμι]]  [[G5259H\|ὑπὸ]]  [[G1849\|ἐξουσίαν]]  [[G5021\|τασσόμενος,]]  [[G2192\|ἔχων]]  [[G5259H\|ὑπ᾽]]  [[G1473\|ἐμαυτὸν]]  [[G4757\|στρατιώτας.]]  [[G2532\|καὶ]]  [[G3004G\|λέγω]]  [[G3778\|τούτῳ·]]  [[G4198\|πορεύθητι,]]  [[G2532\|καὶ]]  [[G4198\|πορεύεται,]]  [[G2532\|καὶ]]  [[G0243\|ἄλλῳ·]]  [[G2064\|ἔρχου,]]  [[G2532\|καὶ]]  [[G2064\|ἔρχεται,]]  [[G2532\|καὶ]]  [[G3588\|τῷ]]  [[G1401\|δούλῳ]]  [[G3165\|μου·]]  [[G4160G\|ποίησον]]  [[G3778\|τοῦτο,]]  [[G2532\|καὶ]]  [[G4160G\|ποιεῖ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic CENTURION|CENTURION]] • [[topic FAITH|FAITH]] • [[topic HEATHEN|HEATHEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic RELIGION|RELIGION]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.7|<< Luke 7:7]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.9|Luke 7:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

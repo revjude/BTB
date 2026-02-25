@@ -1,8 +1,61 @@
+---
+title: Psalm 89:35
+type: Verse
+kjv: "Once have I sworn by my holiness that I will not lie unto David."
+bsb: "Once and for all I have sworn by My holiness—I will not lie to David—"
+hebrew: "אַ֭חַת נִשְׁבַּ֣עְתִּי בְקָדְשִׁ֑י אִֽם־ לְדָוִ֥ד אֲכַזֵּֽב׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KING|KING]]"
+- "[[topic OATH|OATH]]"
+strongs:
+- "[[H0259]]"
+- "[[H7650]]"
+- "[[H9003]]"
+- "[[H6944G]]"
+- "[[H9020]]"
+- "[[H0518H]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H1732]]"
+- "[[H3576]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 89:35**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Once have I sworn by my holiness that I will not lie unto David.
 <small><sub>**BSB:**</sub></small>
 Once and for all I have sworn by My holiness—I will not lie to David—
+<small><sub>**Hebrew:**</sub></small>
+[[H0259\|אַ֭חַת]] [[H7650\|נִשְׁבַּ֣עְתִּי]] [[H9003\|בְ]][[H6944G\|קָדְשִׁ֑]][[H9020\|י]] [[H0518H\|אִֽם]][[H9014\|־]] [[H9005\|לְ]][[H1732\|דָוִ֥ד]] [[H3576\|אֲכַזֵּֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COVENANT|COVENANT]] • [[topic DAVID|DAVID]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KING|KING]] • [[topic OATH|OATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.34|<< Psalms 89:34]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.36|Psalms 89:36 >>]]</td></tr></table>
 

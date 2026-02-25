@@ -1,8 +1,52 @@
+---
+title: Lamentations 3:34
+type: Verse
+kjv: "To crush under his feet all the prisoners of the earth,"
+bsb: "To crush underfoot all the prisoners of the land,"
+hebrew: "לְדַכֵּא֙ תַּ֣חַת רַגְלָ֔יו כֹּ֖ל אֲסִ֥ירֵי אָֽרֶץ׃"
+pericope: "[[Lam.3.19 The Prophet’s Hope|The Prophet’s Hope]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 3
+book/chapter: "[[Lam.3|Lamentations 3]]"
+chronological_order: 778
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INJUSTICE|INJUSTICE]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[H9005]]"
+- "[[H1792]]"
+- "[[H8478G]]"
+- "[[H7272]]"
+- "[[H9023]]"
+- "[[H3605]]"
+- "[[H0615]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Lamentations 3:34**<big><big>[[Lam.3.19 The Prophet’s Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To crush under his feet all the prisoners of the earth,
 <small><sub>**BSB:**</sub></small>
 To crush underfoot all the prisoners of the land,
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H1792\|דַכֵּא֙]] [[H8478G\|תַּ֣חַת]] [[H7272\|רַגְלָ֔י]][[H9023\|ו]] [[H3605\|כֹּ֖ל]] [[H0615\|אֲסִ֥ירֵי]] [[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic INJUSTICE|INJUSTICE]] • [[topic PRISONERS|PRISONERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.33|<< Lamentations 3:33]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.35|Lamentations 3:35 >>]]</td></tr></table>
 

@@ -1,10 +1,57 @@
+---
+title: Acts 22:6
+type: Verse
+kjv: "And it came to pass, that, as I made my journey, and was come nigh unto Damascus about noon, suddenly there shone from heaven a great light round about me."
+bsb: "About noon as I was approaching Damascus, suddenly a bright light from heaven flashed around me."
+greek: "ἐγένετο δέ μοι πορευομένῳ καὶ ἐγγίζοντι τῇ Δαμασκῷ περὶ μεσημβρίαν ἐξαίφνης ἐκ τοῦ οὐρανοῦ περιαστράψαι φῶς ἱκανὸν περὶ ἐμέ·"
+pericope: "[[Acts.22.1 Paul’s Defense to the Crowd|Paul’s Defense to the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 22
+book/chapter: "[[Acts.22|Acts 22]]"
+chronological_order: 1104
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G3165]]"
+- "[[G4198]]"
+- "[[G2532]]"
+- "[[G1448]]"
+- "[[G3588]]"
+- "[[G1154]]"
+- "[[G4012]]"
+- "[[G3314]]"
+- "[[G1810]]"
+- "[[G1537]]"
+- "[[G3772]]"
+- "[[G4015]]"
+- "[[G5457]]"
+- "[[G2425]]"
+- "[[G1473]]"
+texts:
+- NKO
+---
+
 **Acts 22:6**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that, as I made my journey, and was come nigh unto Damascus about noon, suddenly there shone from heaven a great light round about me.
 <small><sub>**BSB:**</sub></small>
 About noon as I was approaching Damascus, suddenly a bright light from heaven flashed around me.
-<small><sub>**Literal:**</sub></small>
-It happened however to me journeying and drawing near <the> to Damascus about noon suddenly out of <the> heaven shining a light great around me myself;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.5|<< Acts 22:5]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.7|Acts 22:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|ἐγένετο]]  [[G1161\|δέ]]  [[G3165\|μοι]]  [[G4198\|πορευομένῳ]]  [[G2532\|καὶ]]  [[G1448\|ἐγγίζοντι]]  [[G3588\|τῇ]]  [[G1154\|Δαμασκῷ]]  [[G4012\|περὶ]]  [[G3314\|μεσημβρίαν]]  [[G1810\|ἐξαίφνης]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G4015\|περιαστράψαι]]  [[G5457\|φῶς]]  [[G2425\|ἱκανὸν]]  [[G4012\|περὶ]]  [[G1473\|ἐμέ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAMASCUS|DAMASCUS]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.5|<< Acts 22:5]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.7|Acts 22:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

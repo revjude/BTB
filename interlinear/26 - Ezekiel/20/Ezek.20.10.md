@@ -1,8 +1,51 @@
+---
+title: Ezekiel 20:10
+type: Verse
+kjv: "Wherefore I caused them to go forth out of the land of Egypt, and brought them into the wilderness."
+bsb: "So I brought them out of the land of Egypt and led them into the wilderness."
+hebrew: "וָאֽוֹצִיאֵ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם וָאֲבִאֵ֖ם אֶל־ הַמִּדְבָּֽר׃"
+pericope: "[[Ezek.20.10 Israel’s Rebellion in the Wilderness|Israel’s Rebellion in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4057B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:10**<big><big>[[Ezek.20.10 Israel’s Rebellion in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore I caused them to go forth out of the land of Egypt, and brought them into the wilderness.
 <small><sub>**BSB:**</sub></small>
 So I brought them out of the land of Egypt and led them into the wilderness.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H3318H\|אֽוֹצִיאֵ֖]][[H9038\|ם]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H9001\|וָ]][[H0935P\|אֲבִאֵ֖]][[H9038\|ם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4057B\|מִּדְבָּֽר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.9|<< Ezekiel 20:9]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.11|Ezekiel 20:11 >>]]</td></tr></table>
 

@@ -1,10 +1,54 @@
+---
+title: Philemon 1:16
+type: Verse
+kjv: "Not now as a servant, but above a servant, a brother beloved, specially to me, but how much more unto thee, both in the flesh, and in the Lord?"
+bsb: "no longer as a slave, but better than a slave, as a beloved brother. He is especially beloved to me, but even more so to you, both in person and in the Lord."
+greek: "οὐκέτι οὐκέτι ὡς δοῦλον ἀλλ᾽ ὑπὲρ δοῦλον, ἀδελφὸν ἀγαπητόν, μάλιστα ἐμοί, πόσῳ δὲ μᾶλλον σοὶ καὶ ἐν σαρκὶ καὶ ἐν κυρίῳ;"
+pericope: "[[Phlm.1.8 Paul’s Appeal for Onesimus|Paul’s Appeal for Onesimus]]"
+original_language: Greek
+testament: New
+book: Philemon
+chapter: 1
+book/chapter: "[[Phlm.1|Philemon 1]]"
+chronological_order: 1125
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- personal letter
+strongs:
+- "[[G3756]]"
+- "[[G2089]]"
+- "[[G5613]]"
+- "[[G1401]]"
+- "[[G0235]]"
+- "[[G5228]]"
+- "[[G0080]]"
+- "[[G0027]]"
+- "[[G3122]]"
+- "[[G1473]]"
+- "[[G4214]]"
+- "[[G1161]]"
+- "[[G3123G]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G4561]]"
+- "[[G2962G]]"
+texts:
+- NKO
+---
+
 **Philemon 1:16**<big><big>[[Phlm.1.8 Paul’s Appeal for Onesimus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Not now as a servant, but above a servant, a brother beloved, specially to me, but how much more unto thee, both in the flesh, and in the Lord?
 <small><sub>**BSB:**</sub></small>
 no longer as a slave, but better than a slave, as a beloved brother. He is especially beloved to me, but even more so to you, both in person and in the Lord.
-<small><sub>**Literal:**</sub></small>
-no longer as a slave but above a slave, a brother beloved, especially to me myself, how much however more to you both in [the] flesh and in [the] Lord?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.15|<< Philemon 1:15]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.17|Philemon 1:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G5613\|ὡς]]  [[G1401\|δοῦλον]]  [[G0235\|ἀλλ᾽]]  [[G5228\|ὑπὲρ]]  [[G1401\|δοῦλον,]]  [[G0080\|ἀδελφὸν]]  [[G0027\|ἀγαπητόν,]]  [[G3122\|μάλιστα]]  [[G1473\|ἐμοί,]]  [[G4214\|πόσῳ]]  [[G1161\|δὲ]]  [[G3123G\|μᾶλλον]]  [[G4771\|σοὶ]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G4561\|σαρκὶ]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G2962G\|κυρίῳ;]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.15|<< Philemon 1:15]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.17|Philemon 1:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

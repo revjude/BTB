@@ -1,8 +1,76 @@
+---
+title: Ezekiel 20:39
+type: Verse
+kjv: "As for you, O house of Israel, thus saith the Lord GOD; Go ye, serve ye every one his idols, and hereafter also, if ye will not hearken unto me: but pollute ye my holy name no more with your gifts, and with your idols."
+bsb: "And as for you, O house of Israel, this is what the Lord GOD says: Go and serve your idols, every one of you. But afterward, you will surely listen to Me, and you will no longer defile My holy name with your gifts and idols."
+hebrew: "וְאַתֶּ֨ם בֵּֽית־ יִשְׂרָאֵ֜ל כֹּֽה־ אָמַ֣ר׀ אֲדֹנָ֣י יְהֹוִ֗ה אִ֤ישׁ גִּלּוּלָיו֙ לְכ֣וּ עֲבֹ֔דוּ וְאַחַ֕ר אִם־ אֵינְכֶ֖ם שֹׁמְעִ֣ים אֵלָ֑י וְאֶת־ שֵׁ֤ם קָדְשִׁי֙ לֹ֣א תְחַלְּלוּ־ ע֔וֹד בְּמַתְּנֽוֹתֵיכֶ֖ם וּבְגִלּוּלֵיכֶֽם׃"
+pericope: "[[Ezek.20.33 Judgment and Restoration|Judgment and Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859D]]"
+- "[[H1004M]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H9015]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H0376I]]"
+- "[[H1544]]"
+- "[[H9023]]"
+- "[[H1980G]]"
+- "[[H5647G]]"
+- "[[H0310A]]"
+- "[[H0518A]]"
+- "[[H0369]]"
+- "[[H9046]]"
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0853]]"
+- "[[H8034]]"
+- "[[H6944G]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H2490H]]"
+- "[[H5750]]"
+- "[[H9003]]"
+- "[[H4979]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:39**<big><big>[[Ezek.20.33 Judgment and Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As for you, O house of Israel, thus saith the Lord GOD; Go ye, serve ye every one his idols, and hereafter [also], if ye will not hearken unto me: but pollute ye my holy name no more with your gifts, and with your idols.
 <small><sub>**BSB:**</sub></small>
 And as for you, O house of Israel, this is what the Lord GOD says: Go and serve your idols, every one of you. But afterward, you will surely listen to Me, and you will no longer defile My holy name with your gifts and idols.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859D\|אַתֶּ֨ם]] [[H1004M\|בֵּֽית]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֣ר]][[H9015\|׀]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהֹוִ֗ה]] [[H0376I\|אִ֤ישׁ]] [[H1544\|גִּלּוּלָי]][[H9023\|ו֙]] [[H1980G\|לְכ֣וּ]] [[H5647G\|עֲבֹ֔דוּ]] [[H9002\|וְ]][[H0310A\|אַחַ֕ר]] [[H0518A\|אִם]][[H9014\|־]] [[H0369\|אֵינְ]][[H9046\|כֶ֖ם]] [[H8085G\|שֹׁמְעִ֣ים]] [[H0413\|אֵלָ֑]][[H9030\|י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8034\|שֵׁ֤ם]] [[H6944G\|קָדְשִׁ]][[H9020\|י֙]] [[H3808\|לֹ֣א]] [[H2490H\|תְחַלְּלוּ]][[H9014\|־]] [[H5750\|ע֔וֹד]] [[H9003\|בְּ]][[H4979\|מַתְּנֽוֹתֵי]][[H9026\|כֶ֖ם]] [[H9002\|וּ]][[H9003\|בְ]][[H1544\|גִלּוּלֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.38|<< Ezekiel 20:38]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.40|Ezekiel 20:40 >>]]</td></tr></table>
 

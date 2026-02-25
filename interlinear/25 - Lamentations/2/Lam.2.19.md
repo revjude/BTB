@@ -1,8 +1,74 @@
+---
+title: Lamentations 2:19
+type: Verse
+kjv: "Arise, cry out in the night: in the beginning of the watches pour out thine heart like water before the face of the Lord: lift up thy hands toward him for the life of thy young children, that faint for hunger in the top of every street."
+bsb: "Arise, cry out in the night from the first watch of the night. Pour out your heart like water in the presence of the Lord. Lift up your hands to Him for the lives of your children who are fainting from hunger on the corner of every street."
+hebrew: "ק֣וּמִי׀ רֹ֣נִּי בַלַּ֗יְלָה לְרֹאשׁ֙ אַשְׁמֻר֔וֹת שִׁפְכִ֤י כַמַּ֙יִם֙ לִבֵּ֔ךְ נֹ֖כַח פְּנֵ֣י אֲדֹנָ֑י שְׂאִ֧י אֵלָ֣יו כַּפַּ֗יִךְ עַל־ נֶ֙פֶשׁ֙ עֽוֹלָלַ֔יִךְ הָעֲטוּפִ֥ים בְּרָעָ֖ב בְּרֹ֥אשׁ כָּל־ חוּצֽוֹת׃ ס"
+pericope: "[[Lam.2.1 God’s Anger over Jerusalem|God’s Anger over Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 2
+book/chapter: "[[Lam.2|Lamentations 2]]"
+chronological_order: 777
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic NIGHT|NIGHT]]"
+strongs:
+- "[[H6965B]]"
+- "[[H9015]]"
+- "[[H7442B]]"
+- "[[H9003]]"
+- "[[H3915]]"
+- "[[H9005]]"
+- "[[H7218I]]"
+- "[[H0821]]"
+- "[[H8210G]]"
+- "[[H9004]]"
+- "[[H4325G]]"
+- "[[H3820A]]"
+- "[[H9022]]"
+- "[[H5227]]"
+- "[[H6440H]]"
+- "[[H0136]]"
+- "[[H5375P]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3709G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5315H]]"
+- "[[H5768]]"
+- "[[H9009]]"
+- "[[H5848C]]"
+- "[[H7458]]"
+- "[[H3605]]"
+- "[[H2351]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Lamentations 2:19**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise, cry out in the night: in the beginning of the watches pour out thine heart like water before the face of the Lord: lift up thy hands toward him for the life of thy young children, that faint for hunger in the top of every street.
 <small><sub>**BSB:**</sub></small>
 Arise, cry out in the night from the first watch of the night. Pour out your heart like water in the presence of the Lord. Lift up your hands to Him for the lives of your children who are fainting from hunger on the corner of every street.
+<small><sub>**Hebrew:**</sub></small>
+[[H6965B\|ק֣וּמִי]][[H9015\|׀]] [[H7442B\|רֹ֣נִּי]] [[H9003\|בַ]][[H3915\|לַּ֗יְלָה]] [[H9005\|לְ]][[H7218I\|רֹאשׁ֙]] [[H0821\|אַשְׁמֻר֔וֹת]] [[H8210G\|שִׁפְכִ֤י]] [[H9004\|כַ]][[H4325G\|מַּ֙יִם֙]] [[H3820A\|לִבֵּ֔]][[H9022\|ךְ]] [[H5227\|נֹ֖כַח]] [[H6440H\|פְּנֵ֣י]] [[H0136\|אֲדֹנָ֑י]] [[H5375P\|שְׂאִ֧י]] [[H0413\|אֵלָ֣י]][[H9033\|ו]] [[H3709G\|כַּפַּ֗יִ]][[H9022\|ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H5315H\|נֶ֙פֶשׁ֙]] [[H5768\|עֽוֹלָלַ֔יִ]][[H9022\|ךְ]] [[H9009\|הָ]][[H5848C\|עֲטוּפִ֥ים]] [[H9003\|בְּ]][[H7458\|רָעָ֖ב]] [[H9003\|בְּ]][[H7218I\|רֹ֥אשׁ]] [[H3605\|כָּל]][[H9014\|־]] [[H2351\|חוּצֽוֹת]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAMINE|FAMINE]] • [[topic NIGHT|NIGHT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.18|<< Lamentations 2:18]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.20|Lamentations 2:20 >>]]</td></tr></table>
 
@@ -29,10 +95,10 @@ Arise, cry out in the night from the first watch of the night. Pour out your hea
 | by hunger  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7458\|רָעָ֖ב]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ra.'Av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at [the] head of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7218I\|רֹ֥אשׁ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Rosh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] streets  |**<big>&#8207;[[H2351\|חוּצֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| chu.Tzot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] streets  |**<big>&#8207;[[H2351\|חוּצֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| chu.Tzot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.18|<< Lamentations 2:18]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.20|Lamentations 2:20 >>]]</td></tr></table>
 
-[^1]: in the night  | **<big>[[H3915|לַּיִל]]</big><big>[[H9003|בַ]]</big> ** | va.<small><sup>[[HRd]]</sup></small> la.yil<small><sup>[[HNcbsa]]</sup></small> | K
-[^2]: in the night  | **<big>[[H3915|לַּיִל]]</big><big>[[H9003|בַ]]</big> ** | va.<small><sup>[[HRd]]</sup></small> la.yil<small><sup>[[HNcbsa]]</sup></small> | K
+[^1]: in the night  | **<big>[[H9003|בַ]]</big><big>[[H3915|לַּיִל]]</big> ** | va.<small><sup>[[HRd]]</sup></small> la.yil<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: in the night  | **<big>[[H9003|בַ]]</big><big>[[H3915|לַּיִל]]</big> ** | va.<small><sup>[[HRd]]</sup></small> la.yil<small><sup>[[HNcbsa]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>בַלַּ֗יְלָ</big></span>**
 

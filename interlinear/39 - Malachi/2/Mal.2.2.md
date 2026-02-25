@@ -1,8 +1,75 @@
+---
+title: Malachi 2:2
+type: Verse
+kjv: "If ye will not hear, and if ye will not lay it to heart, to give glory unto my name, saith the LORD of hosts, I will even send a curse upon you, and I will curse your blessings: yea, I have cursed them already, because ye do not lay it to heart."
+bsb: "If you do not listen, and if you do not take it to heart to honor My name,” says the LORD of Hosts, “I will send a curse among you, and I will curse your blessings. Yes, I have already begun to curse them, because you are not taking it to heart."
+hebrew: "אִם־ לֹ֣א תִשְׁמְע֡וּ וְאִם־ לֹא֩ תָשִׂ֨ימוּ עַל־ לֵ֜ב לָתֵ֧ת כָּב֣וֹד לִשְׁמִ֗י אָמַר֙ יְהוָ֣ה צְבָא֔וֹת וְשִׁלַּחְתִּ֤י בָכֶם֙ אֶת־ הַמְּאֵרָ֔ה וְאָרוֹתִ֖י אֶת־ בִּרְכֽוֹתֵיכֶ֑ם וְגַם֙ אָרוֹתִ֔יהָ כִּ֥י אֵינְכֶ֖ם שָׂמִ֥ים עַל־ לֵֽב׃"
+pericope: "[[Mal.2.1 A Warning to the Priests|A Warning to the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 2
+book/chapter: "[[Mal.2|Malachi 2]]"
+chronological_order: 927
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic GLORIFYING GOD|GLORIFYING GOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H9002]]"
+- "[[H7760K]]"
+- "[[H5921A]]"
+- "[[H3820A]]"
+- "[[H9005]]"
+- "[[H5414G]]"
+- "[[H3519]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H9003]]"
+- "[[H9036]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H3994]]"
+- "[[H0779]]"
+- "[[H1293]]"
+- "[[H9026]]"
+- "[[H1571]]"
+- "[[H9034]]"
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H9046]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 2:2**<big><big>[[Mal.2.1 A Warning to the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If ye will not hear, and if ye will not lay [it] to heart, to give glory unto my name, saith the LORD of hosts, I will even send a curse upon you, and I will curse your blessings: yea, I have cursed them already, because ye do not lay [it] to heart.
 <small><sub>**BSB:**</sub></small>
 If you do not listen, and if you do not take it to heart to honor My name,” says the LORD of Hosts, “I will send a curse among you, and I will curse your blessings. Yes, I have already begun to curse them, because you are not taking it to heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֣א]] [[H8085G\|תִשְׁמְע֡וּ]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹא֩]] [[H7760K\|תָשִׂ֨ימוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H3820A\|לֵ֜ב]] [[H9005\|לָ]][[H5414G\|תֵ֧ת]] [[H3519\|כָּב֣וֹד]] [[H9005\|לִ]][[H8034\|שְׁמִ֗]][[H9020\|י]] [[H0559\|אָמַר֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H9001\|וְ]][[H7971G\|שִׁלַּחְתִּ֤י]] [[H9003\|בָ]][[H9036\|כֶם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3994\|מְּאֵרָ֔ה]] [[H9001\|וְ]][[H0779\|אָרוֹתִ֖י]] [[H0853\|אֶת]][[H9014\|־]] [[H1293\|בִּרְכֽוֹתֵי]][[H9026\|כֶ֑ם]] [[H9002\|וְ]][[H1571\|גַם֙]] [[H0779\|אָרוֹתִ֔י]][[H9034\|הָ]] [[H3588A\|כִּ֥י]] [[H0369\|אֵינְ]][[H9046\|כֶ֖ם]] [[H7760K\|שָׂמִ֥ים]] [[H5921A\|עַל]][[H9014\|־]] [[H3820A\|לֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GLORIFYING GOD|GLORIFYING GOD]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.2.1|<< Malachi 2:1]]</td><td align="center" style="border:none;">[[Mal.2|Malachi 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.2.3|Malachi 2:3 >>]]</td></tr></table>
 

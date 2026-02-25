@@ -1,8 +1,75 @@
+---
+title: Jeremiah 14:17
+type: Verse
+kjv: "Therefore thou shalt say this word unto them; Let mine eyes run down with tears night and day, and let them not cease: for the virgin daughter of my people is broken with a great breach, with a very grievous blow."
+bsb: "You are to speak this word to them: ‘My eyes overflow with tears; day and night they do not cease, for the virgin daughter of my people has been shattered by a crushing blow, a severely grievous wound."
+hebrew: "וְאָמַרְתָּ֤ אֲלֵיהֶם֙ אֶת־ הַדָּבָ֣ר הַזֶּ֔ה תֵּרַ֨דְנָה עֵינַ֥י דִּמְעָ֛ה לַ֥יְלָה וְיוֹמָ֖ם וְאַל־ תִּדְמֶ֑ינָה כִּי֩ שֶׁ֨בֶר גָּד֜וֹל נִשְׁבְּרָ֗ה בְּתוּלַת֙ בַּת־ עַמִּ֔י מַכָּ֖ה נַחְלָ֥ה מְאֹֽד׃"
+pericope: "[[Jer.14.1 Drought, Famine, Sword, and Plague|Drought, Famine, Sword, and Plague]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 14
+book/chapter: "[[Jer.14|Jeremiah 14]]"
+chronological_order: 731
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic VIRGIN|VIRGIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H2088]]"
+- "[[H3381]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H1832]]"
+- "[[H3915]]"
+- "[[H9002]]"
+- "[[H3119]]"
+- "[[H0408]]"
+- "[[H1820]]"
+- "[[H3588A]]"
+- "[[H7667]]"
+- "[[H1419A]]"
+- "[[H7665]]"
+- "[[H1330]]"
+- "[[H1323G]]"
+- "[[H5971A]]"
+- "[[H4347]]"
+- "[[H2470I]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 14:17**<big><big>[[Jer.14.1 Drought, Famine, Sword, and Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thou shalt say this word unto them; Let mine eyes run down with tears night and day, and let them not cease: for the virgin daughter of my people is broken with a great breach, with a very grievous blow.
 <small><sub>**BSB:**</sub></small>
 You are to speak this word to them: ‘My eyes overflow with tears; day and night they do not cease, for the virgin daughter of my people has been shattered by a crushing blow, a severely grievous wound.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַרְתָּ֤]] [[H0413\|אֲלֵי]][[H9038\|הֶם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דָּבָ֣ר]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H3381\|תֵּרַ֨דְנָה]] [[H5869A\|עֵינַ֥]][[H9020\|י]] [[H1832\|דִּמְעָ֛ה]] [[H3915\|לַ֥יְלָה]] [[H9002\|וְ]][[H3119\|יוֹמָ֖ם]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H1820\|תִּדְמֶ֑ינָה]] [[H3588A\|כִּי֩]] [[H7667\|שֶׁ֨בֶר]] [[H1419A\|גָּד֜וֹל]] [[H7665\|נִשְׁבְּרָ֗ה]] [[H1330\|בְּתוּלַת֙]] [[H1323G\|בַּת]][[H9014\|־]] [[H5971A\|עַמִּ֔]][[H9020\|י]] [[H4347\|מַכָּ֖ה]] [[H2470I\|נַחְלָ֥ה]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic FAMINE|FAMINE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic VIRGIN|VIRGIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.14.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.14.16|<< Jeremiah 14:16]]</td><td align="center" style="border:none;">[[Jer.14|Jeremiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.18|Jeremiah 14:18 >>]]</td></tr></table>
 

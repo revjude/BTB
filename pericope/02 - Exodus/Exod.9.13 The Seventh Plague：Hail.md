@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Seventh Plague：Hail
+type: Pericope
 pericope: "[[Exod.9.13 The Seventh Plague：Hail|The Seventh Plague：Hail]]"
-verse_count: 23
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 9
 book/chapter: "[[Exod.9|Exodus 9]]"
-genre:
+chronological_order: 101
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 23
 verses:
 - "[[Exod.9.13]]"
 - "[[Exod.9.14]]"
@@ -46,7 +53,7 @@ verses:
 - "[[Exod.9.35]]"
 ---
 
-[[Exod.9|Exodus 9:13 - Exodus 9:35]]
+<small>[[Exod.9|Exodus 9:13-35]]</small>
 *The Seventh Plague：Hail*
 
 [[Exod.9.13|13]] And the LORD said unto Moses, Rise up early in the morning, and stand before Pharaoh, and say unto him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me.

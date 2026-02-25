@@ -1,8 +1,56 @@
+---
+title: Job 24:22
+type: Verse
+kjv: "He draweth also the mighty with his power: he riseth up, and no man is sure of life."
+bsb: "Yet by His power, God drags away the mighty; though rising up, they have no assurance of life."
+hebrew: "וּמָשַׁ֣ךְ אַבִּירִ֣ים בְּכֹח֑וֹ יָ֝ק֗וּם וְֽלֹא־ יַאֲמִ֥ין בַּֽחַיִּֽין׃"
+pericope: "[[Job.24.1 Job：Judgment for the Wicked|Job：Judgment for the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 24
+book/chapter: "[[Job.24|Job 24]]"
+chronological_order: 35
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H4900]]"
+- "[[H0047I]]"
+- "[[H9003]]"
+- "[[H3581B]]"
+- "[[H9023]]"
+- "[[H6965B]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0539]]"
+- "[[H2416E]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 24:22**<big><big>[[Job.24.1 Job：Judgment for the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He draweth also the mighty with his power: he riseth up, and no [man] is sure of life.
 <small><sub>**BSB:**</sub></small>
 Yet by His power, God drags away the mighty; though rising up, they have no assurance of life.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H4900\|מָשַׁ֣ךְ]] [[H0047I\|אַבִּירִ֣ים]] [[H9003\|בְּ]][[H3581B\|כֹח֑]][[H9023\|וֹ]] [[H6965B\|יָ֝ק֗וּם]] [[H9002\|וְֽ]][[H3808\|לֹא]][[H9014\|־]] [[H0539\|יַאֲמִ֥ין]] [[H9003\|בַּֽ]][[H2416E\|חַיִּֽין]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOMICIDE|HOMICIDE]] • [[topic RULERS|RULERS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.24.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.21|<< Job 24:21]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.23|Job 24:23 >>]]</td></tr></table>
 

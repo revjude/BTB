@@ -1,8 +1,80 @@
+---
+title: Jeremiah 20:4
+type: Verse
+kjv: "For thus saith the LORD, Behold, I will make thee a terror to thyself, and to all thy friends: and they shall fall by the sword of their enemies, and thine eyes shall behold it: and I will give all Judah into the hand of the king of Babylon, and he shall carry them captive into Babylon, and shall slay them with the sword."
+bsb: "For this is what the LORD says: ‘I will make you a terror to yourself and to all your friends. They will fall by the sword of their enemies before your very eyes. And I will hand Judah over to the king of Babylon, and he will carry them away to Babylon and put them to the sword."
+hebrew: "כִּ֣י כֹ֣ה אָמַ֣ר יְהוָ֡ה הִנְנִי֩ נֹתֶנְךָ֨ לְמָג֜וֹר לְךָ֣ וּלְכָל־ אֹהֲבֶ֗יךָ וְנָֽפְל֛וּ בְּחֶ֥רֶב אֹיְבֵיהֶ֖ם וְעֵינֶ֣יךָ רֹא֑וֹת וְאֶת־ כָּל־ יְהוּדָ֗ה אֶתֵּן֙ בְּיַ֣ד מֶֽלֶךְ־ בָּבֶ֔ל וְהִגְלָ֥ם בָּבֶ֖לָה וְהִכָּ֥ם בֶּחָֽרֶב׃"
+pericope: "[[Jer.20.1 Pashhur Persecutes Jeremiah|Pashhur Persecutes Jeremiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 20
+book/chapter: "[[Jer.20|Jeremiah 20]]"
+chronological_order: 737
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CAPTIVITY|CAPTIVITY]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic MAGOR-MISSABIB|MAGOR-MISSABIB]]"
+- "[[topic PASHUR|PASHUR]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H5414I]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H4032]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0157H]]"
+- "[[H9001]]"
+- "[[H5307J]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H0341]]"
+- "[[H9028]]"
+- "[[H5869H]]"
+- "[[H9021]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H3063G]]"
+- "[[H5414G]]"
+- "[[H3027H]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H1540K]]"
+- "[[H9038]]"
+- "[[H9011]]"
+- "[[H5221]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 20:4**<big><big>[[Jer.20.1 Pashhur Persecutes Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD, Behold, I will make thee a terror to thyself, and to all thy friends: and they shall fall by the sword of their enemies, and thine eyes shall behold [it]: and I will give all Judah into the hand of the king of Babylon, and he shall carry them captive into Babylon, and shall slay them with the sword.
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD says: ‘I will make you a terror to yourself and to all your friends. They will fall by the sword of their enemies before your very eyes. And I will hand Judah over to the king of Babylon, and he will carry them away to Babylon and put them to the sword.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3541\|כֹ֣ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֡ה]] [[H2005\|הִנְ]][[H9040\|נִי֩]] [[H5414I\|נֹתֶנְ]][[H9031\|ךָ֨]] [[H9005\|לְ]][[H4032\|מָג֜וֹר]] [[H9005\|לְ]][[H9031\|ךָ֣]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H0157H\|אֹהֲבֶ֗י]][[H9031\|ךָ]] [[H9001\|וְ]][[H5307J\|נָֽפְל֛וּ]] [[H9003\|בְּ]][[H2719\|חֶ֥רֶב]] [[H0341\|אֹיְבֵי]][[H9028\|הֶ֖ם]] [[H9002\|וְ]][[H5869H\|עֵינֶ֣י]][[H9021\|ךָ]] [[H7200G\|רֹא֑וֹת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3063G\|יְהוּדָ֗ה]] [[H5414G\|אֶתֵּן֙]] [[H9003\|בְּ]][[H3027H\|יַ֣ד]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֔ל]] [[H9001\|וְ]][[H1540K\|הִגְלָ֥]][[H9038\|ם]] [[H0894\|בָּבֶ֖לָ]][[H9011\|ה]] [[H9001\|וְ]][[H5221\|הִכָּ֥]][[H9038\|ם]] [[H9003\|בֶּ]][[H2719\|חָֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CAPTIVITY|CAPTIVITY]] • [[topic JEREMIAH|JEREMIAH]] • [[topic MAGOR-MISSABIB|MAGOR-MISSABIB]] • [[topic PASHUR|PASHUR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.20.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.20.3|<< Jeremiah 20:3]]</td><td align="center" style="border:none;">[[Jer.20|Jeremiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.20.5|Jeremiah 20:5 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: Nahum 2:4
+type: Verse
+kjv: "The chariots shall rage in the streets, they shall justle one against another in the broad ways: they shall seem like torches, they shall run like the lightnings."
+bsb: "The chariots dash through the streets; they rush around the plazas, appearing like torches, darting about like lightning."
+hebrew: "בַּֽחוּצוֹת֙ יִתְהוֹלְל֣וּ הָרֶ֔כֶב יִֽשְׁתַּקְשְׁק֖וּן בָּרְחֹב֑וֹת מַרְאֵיהֶן֙ כַּלַּפִּידִ֔ם כַּבְּרָקִ֖ים יְרוֹצֵֽצוּ׃"
+pericope: "[[Nah.2.1 The Overthrow of Nineveh|The Overthrow of Nineveh]]"
+original_language: Hebrew
+testament: Old
+book: Nahum
+chapter: 2
+book/chapter: "[[Nah.2|Nahum 2]]"
+chronological_order: 709
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic LIGHTNING|LIGHTNING]]"
+strongs:
+- "[[H9003]]"
+- "[[H2351]]"
+- "[[H1984I]]"
+- "[[H9009]]"
+- "[[H7393G]]"
+- "[[H8264]]"
+- "[[H9013]]"
+- "[[H7339]]"
+- "[[H4758]]"
+- "[[H9029]]"
+- "[[H9004]]"
+- "[[H3940]]"
+- "[[H1300B]]"
+- "[[H7323G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nahum 2:4**<big><big>[[Nah.2.1 The Overthrow of Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The chariots shall rage in the streets, they shall justle one against another in the broad ways: they shall seem like torches, they shall run like the lightnings.
 <small><sub>**BSB:**</sub></small>
 The chariots dash through the streets; they rush around the plazas, appearing like torches, darting about like lightning.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּֽ]][[H2351\|חוּצוֹת֙]] [[H1984I\|יִתְהוֹלְל֣וּ]] [[H9009\|הָ]][[H7393G\|רֶ֔כֶב]] [[H8264\|יִֽשְׁתַּקְשְׁק֖וּ]][[H9013\|ן]] [[H9003\|בָּ]][[H7339\|רְחֹב֑וֹת]] [[H4758\|מַרְאֵי]][[H9029\|הֶן֙]] [[H9004\|כַּ]][[H3940\|לַּפִּידִ֔ם]] [[H9004\|כַּ]][[H1300B\|בְּרָקִ֖ים]] [[H7323G\|יְרוֹצֵֽצוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARIOT|CHARIOT]] • [[topic LIGHTNING|LIGHTNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.2.3|<< Nahum 2:3]]</td><td align="center" style="border:none;">[[Nah.2|Nahum 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.2.5|Nahum 2:5 >>]]</td></tr></table>
 

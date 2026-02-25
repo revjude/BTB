@@ -1,10 +1,55 @@
+---
+title: Luke 3:21
+type: Verse
+kjv: "Now when all the people were baptized, it came to pass, that Jesus also being baptized, and praying, the heaven was opened,"
+bsb: "When all the people were being baptized, Jesus was baptized too. And as He was praying, heaven was opened,"
+greek: "Ἐγένετο δὲ ἐν τῷ βαπτισθῆναι ἅπαντα τὸν λαὸν καὶ Ἰησοῦ βαπτισθέντος καὶ προσευχομένου ἀνεῳχθῆναι τὸν οὐρανὸν"
+pericope: "[[Luke.3.21 The Baptism of Jesus|The Baptism of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 3
+book/chapter: "[[Luke.3|Luke 3]]"
+chronological_order: 937
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0907]]"
+- "[[G0537]]"
+- "[[G2992]]"
+- "[[G2532]]"
+- "[[G2424G]]"
+- "[[G4336]]"
+- "[[G0455]]"
+- "[[G3772]]"
+texts:
+- NKO
+---
+
 **Luke 3:21**<big><big>[[Luke.3.21 The Baptism of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now when all the people were baptized, it came to pass, that Jesus also being baptized, and praying, the heaven was opened,
 <small><sub>**BSB:**</sub></small>
 When all the people were being baptized, Jesus was baptized too. And as He was praying, heaven was opened,
-<small><sub>**Literal:**</sub></small>
-It came to pass now in <the> baptizing all the people and when Jesus having been baptized and having prayed [was] opening the heaven<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.20|<< Luke 3:20]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.22|Luke 3:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Ἐγένετο]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0907\|βαπτισθῆναι]]  [[G0537\|ἅπαντα]]  [[G3588\|τὸν]]  [[G2992\|λαὸν]]  [[G2532\|καὶ]]  [[G2424G\|Ἰησοῦ]]  [[G0907\|βαπτισθέντος]]  [[G2532\|καὶ]]  [[G4336\|προσευχομένου]]  [[G0455\|ἀνεῳχθῆναι]]  [[G3588\|τὸν]]  [[G3772\|οὐρανὸν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.20|<< Luke 3:20]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.22|Luke 3:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

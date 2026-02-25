@@ -1,10 +1,69 @@
+---
+title: Romans 10:9
+type: Verse
+kjv: "That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved."
+bsb: "that if you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised Him from the dead, you will be saved."
+greek: "ὅτι ἐὰν ὁμολογήσῃς τὸ ῥῆμα ἐν τῷ στόματί σου ὅτι κύριον Ἰησοῦν καὶ πιστεύσῃς ἐν τῇ καρδίᾳ σου ὅτι ὁ θεὸς αὐτὸν ἤγειρεν ἐκ νεκρῶν, σωθήσῃ·"
+pericope: "[[Rom.10.1 The Word Brings Salvation|The Word Brings Salvation]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 10
+book/chapter: "[[Rom.10|Romans 10]]"
+chronological_order: 1096
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[G3754H]]"
+- "[[G1437]]"
+- "[[G3670]]"
+- "[[G3588]]"
+- "[[G4487]]"
+- "[[G1722]]"
+- "[[G4750]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G4100]]"
+- "[[G2588]]"
+- "[[G2316]]"
+- "[[G0846]]"
+- "[[G1453]]"
+- "[[G1537]]"
+- "[[G3498]]"
+- "[[G4982]]"
+texts:
+- NKO
+- O
+- NK(o)
+---
+
 **Romans 10:9**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.
 <small><sub>**BSB:**</sub></small>
 that if you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised Him from the dead, you will be saved.
-<small><sub>**Literal:**</sub></small>
-for if you shall confess the declaration with the mouth of you that Lord Jesus [is] and may believe in the heart of you that <the> God Him raised out from [the] dead, you will be saved;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.8|<< Romans 10:8]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.10|Romans 10:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G1437\|ἐὰν]]  [[G3670\|ὁμολογήσῃς]]  [[G3588\|τὸ]]  [[G4487\|ῥῆμα]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4750\|στόματί]]  [[G4771\|σου]]  [[G3754G\|ὅτι]]  [[G2962G\|κύριον]]  [[G2424G\|Ἰησοῦν]]  [[G2532\|καὶ]]  [[G4100\|πιστεύσῃς]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2588\|καρδίᾳ]]  [[G4771\|σου]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G0846\|αὐτὸν]]  [[G1453\|ἤγειρεν]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν,]]  [[G4982\|σωθήσῃ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFESSION|CONFESSION]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic PENITENT|PENITENT]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic TESTIMONY|TESTIMONY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.8|<< Romans 10:8]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.10|Romans 10:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

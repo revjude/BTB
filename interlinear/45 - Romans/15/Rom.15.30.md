@@ -1,10 +1,62 @@
+---
+title: Romans 15:30
+type: Verse
+kjv: "Now I beseech you, brethren, for the Lord Jesus Christ’s sake, and for the love of the Spirit, that ye strive together with me in your prayers to God for me;"
+bsb: "Now I urge you, brothers, by our Lord Jesus Christ and by the love of the Spirit, to join me in my struggle by praying to God for me."
+greek: "Παρακαλῶ δὲ ὑμᾶς, ἀδελφοί, διὰ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ καὶ διὰ τῆς ἀγάπης τοῦ πνεύματος, συναγωνίσασθαί μοι ἐν ταῖς προσευχαῖς ὑπὲρ ἐμοῦ πρὸς τὸν θεόν,"
+pericope: "[[Rom.15.23 Paul’s Travel Plans|Paul’s Travel Plans]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 15
+book/chapter: "[[Rom.15|Romans 15]]"
+chronological_order: 1101
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3870]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G0080]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G2532]]"
+- "[[G0026]]"
+- "[[G4151G]]"
+- "[[G4865]]"
+- "[[G1722]]"
+- "[[G4335]]"
+- "[[G5228]]"
+- "[[G1473]]"
+- "[[G4314]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Romans 15:30**<big><big>[[Rom.15.23 Paul’s Travel Plans|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now I beseech you, brethren, for the Lord Jesus Christ’s sake, and for the love of the Spirit, that ye strive together with me in [your] prayers to God for me;
 <small><sub>**BSB:**</sub></small>
 Now I urge you, brothers, by our Lord Jesus Christ and by the love of the Spirit, to join me in my struggle by praying to God for me.
-<small><sub>**Literal:**</sub></small>
-I exhort now you, brothers, through the Lord of us Jesus Christ and through the love of the Spirit, to strive together with me in the prayers for me to <the> God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.29|<< Romans 15:29]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.31|Romans 15:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3870\|Παρακαλῶ]]  [[G1161\|δὲ]]  [[G4771\|ὑμᾶς,]]  [[G0080\|ἀδελφοί,]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G2532\|καὶ]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G0026\|ἀγάπης]]  [[G3588\|τοῦ]]  [[G4151G\|πνεύματος,]]  [[G4865\|συναγωνίσασθαί]]  [[G3165\|μοι]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G4335\|προσευχαῖς]]  [[G5228\|ὑπὲρ]]  [[G1473\|ἐμοῦ]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2316\|θεόν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic INTERCESSION|INTERCESSION]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.29|<< Romans 15:29]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.31|Romans 15:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

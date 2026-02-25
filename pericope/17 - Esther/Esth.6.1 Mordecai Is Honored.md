@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Mordecai Is Honored
+type: Pericope
 pericope: "[[Esth.6.1 Mordecai Is Honored|Mordecai Is Honored]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Esther
 chapter: 6
 book/chapter: "[[Esth.6|Esther 6]]"
-genre:
+chronological_order: 904
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
 - narrative
 - court tale
 - diaspora narrative
 - megillot
+verse_count: 14
 verses:
 - "[[Esth.6.1]]"
 - "[[Esth.6.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Esth.6.14]]"
 ---
 
-[[Esth.6|Esther 6:1 - Esther 6:14]]
+<small>[[Esth.6|Esther 6:1-14]]</small>
 *Mordecai Is Honored*
 
 [[Esth.6.1|1]] On that night could not the king sleep, and he commanded to bring the book of records of the chronicles; and they were read before the king.

@@ -1,8 +1,69 @@
+---
+title: 1 Kings 6:38
+type: Verse
+kjv: "And in the eleventh year, in the month Bul, which is the eighth month, was the house finished throughout all the parts thereof, and according to all the fashion of it. So was he seven years in building it."
+bsb: "In the eleventh year, in the month of Bul, the eighth month, the temple was finished in every detail and according to every specification. So he built the temple in seven years."
+hebrew: "וּבַשָּׁנָה֩ הָאַחַ֨ת עֶשְׂרֵ֜ה בְּיֶ֣רַח בּ֗וּל ה֚וּא הַחֹ֣דֶשׁ הַשְּׁמִינִ֔י כָּלָ֣ה הַבַּ֔יִת לְכָל־ דְּבָרָ֖יו וּלְכָל־ מִשְׁפָּטָ֑יו וַיִּבְנֵ֖הוּ שֶׁ֥בַע שָׁנִֽים׃"
+pericope: "[[1Kgs.6.36 The Courtyard|The Courtyard]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 6
+book/chapter: "[[1Kgs.6|1 Kings 6]]"
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BUL|BUL]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H6240]]"
+- "[[H3391]]"
+- "[[H0945]]"
+- "[[H1931]]"
+- "[[H2320G]]"
+- "[[H8066]]"
+- "[[H3615G]]"
+- "[[H1004Q]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1697I]]"
+- "[[H9023]]"
+- "[[H4941J]]"
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H9033]]"
+- "[[H7651]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Kings 6:38**<big><big>[[1Kgs.6.36 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the eleventh year, in the month Bul, which [is] the eighth month, was the house finished throughout all the parts thereof, and according to all the fashion of it. So was he seven years in building it.
 <small><sub>**BSB:**</sub></small>
 In the eleventh year, in the month of Bul, the eighth month, the temple was finished in every detail and according to every specification. So he built the temple in seven years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H8141\|שָּׁנָה֩]] [[H9009\|הָ]][[H0259\|אַחַ֨ת]] [[H6240\|עֶשְׂרֵ֜ה]] [[H9003\|בְּ]][[H3391\|יֶ֣רַח]] [[H0945\|בּ֗וּל]] [[H1931\|ה֚וּא]] [[H9009\|הַ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הַ]][[H8066\|שְּׁמִינִ֔י]] [[H3615G\|כָּלָ֣ה]] [[H9009\|הַ]][[H1004Q\|בַּ֔יִת]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H1697I\|דְּבָרָ֖י]][[H9023\|ו]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H4941J\|מִשְׁפָּטָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H1129\|יִּבְנֵ֖]][[H9033\|הוּ]] [[H7651\|שֶׁ֥בַע]] [[H8141\|שָׁנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BUL|BUL]] • [[topic MONTH|MONTH]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.37|<< 1 Kings 6:37]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.1|1 Kings 7:1 >>]]</td></tr></table>
 
@@ -27,7 +88,7 @@ In the eleventh year, in the month of Bul, the eighth month, the temple was fini
 | years  |**<big>&#8207;[[H8141\|שָׁנִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.37|<< 1 Kings 6:37]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.1|1 Kings 7:1 >>]]</td></tr></table>
 
-[^1]: plan its  | **<big>[[H9023|וֹ]]</big><big>[[H4941J|מִשְׁפָּט]]</big> ** | mish.pa.to<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: plan its  | **<big>[[H9023|וֹ]]</big><big>[[H4941J|מִשְׁפָּט]]</big> ** | mish.pa.to<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: plan its  | **<big>[[H4941J|מִשְׁפָּט]]</big><big>[[H9023|וֹ]]</big> ** | mish.pa.to<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: plan its  | **<big>[[H4941J|מִשְׁפָּט]]</big><big>[[H9023|וֹ]]</big> ** | mish.pa.to<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>מִשְׁפָּטָ֑ו</big></span>**
 

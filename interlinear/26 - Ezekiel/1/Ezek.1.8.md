@@ -1,8 +1,58 @@
+---
+title: Ezekiel 1:8
+type: Verse
+kjv: "And they had the hands of a man under their wings on their four sides; and they four had their faces and their wings."
+bsb: "Under their wings on their four sides they had human hands. All four living creatures had faces and wings,"
+hebrew: "וִידֵ֣י אָדָ֗ם מִתַּ֙חַת֙ כַּנְפֵיהֶ֔ם עַ֖ל אַרְבַּ֣עַת רִבְעֵיהֶ֑ם וּפְנֵיהֶ֥ם וְכַנְפֵיהֶ֖ם לְאַרְבַּעְתָּֽם׃"
+pericope: "[[Ezek.1.4 The Four Living Creatures|The Four Living Creatures]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 1
+book/chapter: "[[Ezek.1|Ezekiel 1]]"
+chronological_order: 792
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+strongs:
+- "[[H9002]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H0120G]]"
+- "[[H9006]]"
+- "[[H8478G]]"
+- "[[H3671]]"
+- "[[H9028]]"
+- "[[H5921A]]"
+- "[[H0702]]"
+- "[[H7253]]"
+- "[[H6440H]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Ezekiel 1:8**<big><big>[[Ezek.1.4 The Four Living Creatures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [they had] the hands of a man under their wings on their four sides; and they four had their faces and their wings.
 <small><sub>**BSB:**</sub></small>
 Under their wings on their four sides they had human hands. All four living creatures had faces and wings,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וִ]][[H3027G\|ידֵ֣י]] [[H0120G\|אָדָ֗ם]] [[H9006\|מִ]][[H8478G\|תַּ֙חַת֙]] [[H3671\|כַּנְפֵי]][[H9028\|הֶ֔ם]] [[H5921A\|עַ֖ל]] [[H0702\|אַרְבַּ֣עַת]] [[H7253\|רִבְעֵי]][[H9028\|הֶ֑ם]] [[H9002\|וּ]][[H6440H\|פְנֵי]][[H9028\|הֶ֥ם]] [[H9002\|וְ]][[H3671\|כַנְפֵי]][[H9028\|הֶ֖ם]] [[H9005\|לְ]][[H0702\|אַרְבַּעְתָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.7|<< Ezekiel 1:7]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.9|Ezekiel 1:9 >>]]</td></tr></table>
 
@@ -20,7 +70,7 @@ Under their wings on their four sides they had human hands. All four living crea
 | [belonged] to [the] four of them  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0702\|אַרְבַּעְתָּֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'ar.ba'.Ta<small><sup>[[HAcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.7|<< Ezekiel 1:7]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.9|Ezekiel 1:9 >>]]</td></tr></table>
 
-[^1]: and hands of its  | **<big>[[H9023|וֹ]]</big><big>[[H3027G|יָד]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: and hands of its  | **<big>[[H9023|וֹ]]</big><big>[[H3027G|יָד]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: and hands of its  | **<big>[[H9002|וְ]]</big><big>[[H3027G|יָד]]</big><big>[[H9023|וֹ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: and hands of its  | **<big>[[H9002|וְ]]</big><big>[[H3027G|יָד]]</big><big>[[H9023|וֹ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וִידֵ֣/ו</big></span>**
 

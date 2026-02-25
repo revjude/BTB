@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: (Joshua–Malachi)
+type: Pericope
 pericope: "[[Heb.11.30 (Joshua–Malachi)|(Joshua–Malachi)]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 11
 book/chapter: "[[Heb.11|Hebrews 11]]"
-genre:
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 11
 verses:
 - "[[Heb.11.30]]"
 - "[[Heb.11.31]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Heb.11.40]]"
 ---
 
-[[Heb.11|Hebrews 11:30 - Hebrews 11:40]]
+<small>[[Heb.11|Hebrews 11:30-40]]</small>
 *(Joshua–Malachi)*
 
 [[Heb.11.30|30]] By faith the walls of Jericho fell down, after they were compassed about seven days.

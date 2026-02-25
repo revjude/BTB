@@ -1,8 +1,68 @@
+---
+title: Numbers 22:35
+type: Verse
+kjv: "And the angel of the LORD said unto Balaam, Go with the men: but only the word that I shall speak unto thee, that thou shalt speak. So Balaam went with the princes of Balak."
+bsb: "But the angel of the LORD said to Balaam, “Go with the men, but you are to speak only what I tell you.” So Balaam went with the princes of Balak."
+hebrew: "וַיֹּאמֶר֩ מַלְאַ֨ךְ יְהוָ֜ה אֶל־ בִּלְעָ֗ם לֵ֚ךְ עִם־ הָ֣אֲנָשִׁ֔ים וְאֶ֗פֶס אֶת־ הַדָּבָ֛ר אֲשֶׁר־ אֲדַבֵּ֥ר אֵלֶ֖יךָ אֹת֣וֹ תְדַבֵּ֑ר וַיֵּ֥לֶךְ בִּלְעָ֖ם עִם־ שָׂרֵ֥י בָלָֽק׃"
+pericope: "[[Num.22.22 The Angel and Balaam’s Donkey|The Angel and Balaam’s Donkey]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 22
+book/chapter: "[[Num.22|Numbers 22]]"
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]]"
+- "[[topic BALAAM|BALAAM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4397H]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1109A]]"
+- "[[H1980G]]"
+- "[[H5973A]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H9002]]"
+- "[[H0657A]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H9031]]"
+- "[[H9033]]"
+- "[[H8269]]"
+- "[[H1111]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 22:35**<big><big>[[Num.22.22 The Angel and Balaam’s Donkey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the angel of the LORD said unto Balaam, Go with the men: but only the word that I shall speak unto thee, that thou shalt speak. So Balaam went with the princes of Balak.
 <small><sub>**BSB:**</sub></small>
 But the angel of the LORD said to Balaam, “Go with the men, but you are to speak only what I tell you.” So Balaam went with the princes of Balak.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמֶר֩]] [[H4397H\|מַלְאַ֨ךְ]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H1109A\|בִּלְעָ֗ם]] [[H1980G\|לֵ֚ךְ]] [[H5973A\|עִם]][[H9014\|־]] [[H9009\|הָ֣]][[H0582\|אֲנָשִׁ֔ים]] [[H9002\|וְ]][[H0657A\|אֶ֗פֶס]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דָּבָ֛ר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1696G\|אֲדַבֵּ֥ר]] [[H0413\|אֵלֶ֖י]][[H9031\|ךָ]] [[H0853\|אֹת֣]][[H9033\|וֹ]] [[H1696G\|תְדַבֵּ֑ר]] [[H9001\|וַ]][[H1980G\|יֵּ֥לֶךְ]] [[H1109A\|בִּלְעָ֖ם]] [[H5973A\|עִם]][[H9014\|־]] [[H8269\|שָׂרֵ֥י]] [[H1111\|בָלָֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]] • [[topic BALAAM|BALAAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.34|<< Numbers 22:34]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.36|Numbers 22:36 >>]]</td></tr></table>
 

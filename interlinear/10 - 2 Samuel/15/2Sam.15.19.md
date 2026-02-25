@@ -1,8 +1,72 @@
+---
+title: 2 Samuel 15:19
+type: Verse
+kjv: "Then said the king to Ittai the Gittite, Wherefore goest thou also with us? return to thy place, and abide with the king: for thou art a stranger, and also an exile."
+bsb: "Then the king said to Ittai the Gittite, “Why should you also go with us? Go back and stay with the new king, since you are both a foreigner and an exile from your homeland."
+hebrew: "וַיֹּ֤אמֶר הַמֶּ֙לֶךְ֙ אֶל־ אִתַּ֣י הַגִּתִּ֔י לָ֧מָּה תֵלֵ֛ךְ גַּם־ אַתָּ֖ה אִתָּ֑נוּ שׁ֣וּב וְשֵׁ֤ב עִם־ הַמֶּ֙לֶךְ֙ כִּֽי־ נָכְרִ֣י אַ֔תָּה וְגַם־ גֹּלֶ֥ה אַתָּ֖ה לִמְקוֹמֶֽךָ׃"
+pericope: "[[2Sam.15.13 David Flees Jerusalem|David Flees Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 15
+book/chapter: "[[2Sam.15|2 Samuel 15]]"
+chronological_order: 414
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ALIENS|ALIENS]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic EXILE|EXILE]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic GATH|GATH]]"
+- "[[topic ITTAI|ITTAI]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0863G]]"
+- "[[H1663]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H1980G]]"
+- "[[H1571]]"
+- "[[H0859A]]"
+- "[[H0854]]"
+- "[[H9035]]"
+- "[[H7725G]]"
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H5973A]]"
+- "[[H3588A]]"
+- "[[H5237]]"
+- "[[H1540K]]"
+- "[[H4725]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 15:19**<big><big>[[2Sam.15.13 David Flees Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said the king to Ittai the Gittite, Wherefore goest thou also with us? return to thy place, and abide with the king: for thou [art] a stranger, and also an exile.
 <small><sub>**BSB:**</sub></small>
 Then the king said to Ittai the Gittite, “Why should you also go with us? Go back and stay with the new king, since you are both a foreigner and an exile from your homeland.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0863G\|אִתַּ֣י]] [[H9009\|הַ]][[H1663\|גִּתִּ֔י]] [[H9005\|לָ֧]][[H4100\|מָּה]] [[H1980G\|תֵלֵ֛ךְ]] [[H1571\|גַּם]][[H9014\|־]] [[H0859A\|אַתָּ֖ה]] [[H0854\|אִתָּ֑]][[H9035\|נוּ]] [[H7725G\|שׁ֣וּב]] [[H9002\|וְ]][[H3427\|שֵׁ֤ב]] [[H5973A\|עִם]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5237\|נָכְרִ֣י]] [[H0859A\|אַ֔תָּה]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H1540K\|גֹּלֶ֥ה]] [[H0859A\|אַתָּ֖ה]] [[H9005\|לִ]][[H4725\|מְקוֹמֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALIENS|ALIENS]] • [[topic DAVID|DAVID]] • [[topic EXILE|EXILE]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic GATH|GATH]] • [[topic ITTAI|ITTAI]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.18|<< 2 Samuel 15:18]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.20|2 Samuel 15:20 >>]]</td></tr></table>
 

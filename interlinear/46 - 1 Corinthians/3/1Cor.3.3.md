@@ -1,10 +1,62 @@
+---
+title: 1 Corinthians 3:3
+type: Verse
+kjv: "For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men?"
+bsb: "for you are still worldly. For since there is jealousy and dissension among you, are you not worldly? Are you not walking in the way of man?"
+greek: "ἔτι γὰρ σαρκικοί ἐστε. ὅπου γὰρ ἐν ὑμῖν ζῆλος καὶ ἔρις καὶ διχοστασίαι, οὐχὶ σαρκικοί ἐστε καὶ κατὰ ἄνθρωπον περιπατεῖτε;"
+pericope: "[[1Cor.3.1 God’s Fellow Workers|God’s Fellow Workers]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 3
+book/chapter: "[[1Cor.3|1 Corinthians 3]]"
+chronological_order: 1060
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic DISSENSION|DISSENSION]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SIN|SIN]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[G2089]]"
+- "[[G1063]]"
+- "[[G4559]]"
+- "[[G1510]]"
+- "[[G3699]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G2205]]"
+- "[[G2532]]"
+- "[[G2054]]"
+- "[[G1370]]"
+- "[[G3780]]"
+- "[[G2596]]"
+- "[[G0444]]"
+- "[[G4043]]"
+texts:
+- NKO
+- K
+---
+
 **1 Corinthians 3:3**<big><big>[[1Cor.3.1 God’s Fellow Workers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For ye are yet carnal: for whereas [there is] among you envying, and strife, and divisions, are ye not carnal, and walk as men?
 <small><sub>**BSB:**</sub></small>
 for you are still worldly. For since there is jealousy and dissension among you, are you not worldly? Are you not walking in the way of man?
-<small><sub>**Literal:**</sub></small>
-still for fleshly you are. Where for [are] among you jealousy and strife and dissensions surely fleshly are you and according to man are walking?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.2|<< 1 Corinthians 3:2]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.4|1 Corinthians 3:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2089\|ἔτι]]  [[G1063\|γὰρ]]  [[G4559\|σαρκικοί]]  [[G1510\|ἐστε.]]  [[G3699\|ὅπου]]  [[G1063\|γὰρ]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G2205\|ζῆλος]]  [[G2532\|καὶ]]  [[G2054\|ἔρις]]  [[G2532\|καὶ]]  [[G1370\|διχοστασίαι,]]  [[G3780\|οὐχὶ]]  [[G4559\|σαρκικοί]]  [[G1510\|ἐστε]]  [[G2532\|καὶ]]  [[G2596\|κατὰ]]  [[G0444\|ἄνθρωπον]]  [[G4043\|περιπατεῖτε;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic DISSENSION|DISSENSION]] • [[topic DOCTRINES|DOCTRINES]] • [[topic ENVY|ENVY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SIN|SIN]] • [[topic STRIFE|STRIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.2|<< 1 Corinthians 3:2]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.4|1 Corinthians 3:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

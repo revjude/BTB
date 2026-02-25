@@ -1,8 +1,67 @@
+---
+title: Exodus 26:24
+type: Verse
+kjv: "And they shall be coupled together beneath, and they shall be coupled together above the head of it unto one ring: thus shall it be for them both; they shall be for the two corners."
+bsb: "coupled together from bottom to top and fitted into a single ring. These will serve as the two corners."
+hebrew: "וְיִֽהְי֣וּ תֹֽאֲמִים֮ מִלְּמַטָּה֒ וְיַחְדָּ֗ו יִהְי֤וּ תַמִּים֙ עַל־ רֹאשׁ֔וֹ אֶל־ הַטַּבַּ֖עַת הָאֶחָ֑ת כֵּ֚ן יִהְיֶ֣ה לִשְׁנֵיהֶ֔ם לִשְׁנֵ֥י הַמִּקְצֹעֹ֖ת יִהְיֽוּ׃"
+pericope: "[[Exod.26.15 The Frames and Bases|The Frames and Bases]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 26
+book/chapter: "[[Exod.26|Exodus 26]]"
+chronological_order: 118
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic SHITTIM|SHITTIM]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H8380]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H4295]]"
+- "[[H3162B]]"
+- "[[H8535]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7218I]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H2885]]"
+- "[[H0259]]"
+- "[[H3651C]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H4740H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 26:24**<big><big>[[Exod.26.15 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall be coupled together beneath, and they shall be coupled together above the head of it unto one ring: thus shall it be for them both; they shall be for the two corners.
 <small><sub>**BSB:**</sub></small>
 coupled together from bottom to top and fitted into a single ring. These will serve as the two corners.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1961\|יִֽהְי֣וּ]] [[H8380\|תֹֽאֲמִים֮]] [[H9006\|מִ]][[H9005\|לְּ]][[H4295\|מַטָּה֒]] [[H9002\|וְ]][[H3162B\|יַחְדָּ֗ו]] [[H1961\|יִהְי֤וּ]] [[H8535\|תַמִּים֙]] [[H5921A\|עַל]][[H9014\|־]] [[H7218I\|רֹאשׁ֔]][[H9023\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H2885\|טַּבַּ֖עַת]] [[H9009\|הָ]][[H0259\|אֶחָ֑ת]] [[H3651C\|כֵּ֚ן]] [[H1961\|יִהְיֶ֣ה]] [[H9005\|לִ]][[H8147\|שְׁנֵי]][[H9028\|הֶ֔ם]] [[H9005\|לִ]][[H8147\|שְׁנֵ֥י]] [[H9009\|הַ]][[H4740H\|מִּקְצֹעֹ֖ת]] [[H1961\|יִהְיֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHITTIM|SHITTIM]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.23|<< Exodus 26:23]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.25|Exodus 26:25 >>]]</td></tr></table>
 

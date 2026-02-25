@@ -1,8 +1,67 @@
+---
+title: Genesis 32:32
+type: Verse
+kjv: "Therefore the children of Israel eat not of the sinew which shrank, which is upon the hollow of the thigh, unto this day: because he touched the hollow of Jacob’s thigh in the sinew that shrank."
+bsb: "Therefore to this day the Israelites do not eat the tendon attached to the socket of the hip, because the socket of Jacob’s hip was struck near that tendon."
+hebrew: "עַל־ כֵּ֡ן לֹֽא־ יֹאכְל֨וּ בְנֵֽי־ יִשְׂרָאֵ֜ל אֶת־ גִּ֣יד הַנָּשֶׁ֗ה אֲשֶׁר֙ עַל־ כַּ֣ף הַיָּרֵ֔ךְ עַ֖ד הַיּ֣וֹם הַזֶּ֑ה כִּ֤י נָגַע֙ בְּכַף־ יֶ֣רֶךְ יַעֲקֹ֔ב בְּגִ֖יד הַנָּשֶֽׁה׃"
+pericope: "[[Gen.32.22 Jacob Wrestles with God|Jacob Wrestles with God]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 32
+book/chapter: "[[Gen.32|Genesis 32]]"
+chronological_order: 74
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H1517]]"
+- "[[H9009]]"
+- "[[H5384]]"
+- "[[H0834A]]"
+- "[[H3709I]]"
+- "[[H3409]]"
+- "[[H5704]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H3588A]]"
+- "[[H5060]]"
+- "[[H9003]]"
+- "[[H3290]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 32:32**<big><big>[[Gen.32.22 Jacob Wrestles with God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the children of Israel eat not [of] the sinew which shrank, which [is] upon the hollow of the thigh, unto this day: because he touched the hollow of Jacob’s thigh in the sinew that shrank.
 <small><sub>**BSB:**</sub></small>
 Therefore to this day the Israelites do not eat the tendon attached to the socket of the hip, because the socket of Jacob’s hip was struck near that tendon.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֡ן]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0398\|יֹאכְל֨וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H0853\|אֶת]][[H9014\|־]] [[H1517\|גִּ֣יד]] [[H9009\|הַ]][[H5384\|נָּשֶׁ֗ה]] [[H0834A\|אֲשֶׁר֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3709I\|כַּ֣ף]] [[H9009\|הַ]][[H3409\|יָּרֵ֔ךְ]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H3588A\|כִּ֤י]] [[H5060\|נָגַע֙]] [[H9003\|בְּ]][[H3709I\|כַף]][[H9014\|־]] [[H3409\|יֶ֣רֶךְ]] [[H3290\|יַעֲקֹ֔ב]] [[H9003\|בְּ]][[H1517\|גִ֖יד]] [[H9009\|הַ]][[H5384\|נָּשֶֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic PRAYER|PRAYER]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.31|<< Genesis 32:31]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.33.1|Genesis 33:1 >>]]</td></tr></table>
 

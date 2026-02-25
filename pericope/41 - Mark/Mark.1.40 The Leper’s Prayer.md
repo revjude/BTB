@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Leper’s Prayer
+type: Pericope
 pericope: "[[Mark.1.40 The Leper’s Prayer|The Leper’s Prayer]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Mark
 chapter: 1
 book/chapter: "[[Mark.1|Mark 1]]"
-genre:
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 6
 verses:
 - "[[Mark.1.40]]"
 - "[[Mark.1.41]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Mark.1.45]]"
 ---
 
-[[Mark.1|Mark 1:40 - Mark 1:45]]
+<small>[[Mark.1|Mark 1:40-45]]</small>
 *The Leper’s Prayer*
 
 [[Mark.1.40|40]] And there came a leper to him, beseeching him, and kneeling down to him, and saying unto him, If thou wilt, thou canst make me clean.

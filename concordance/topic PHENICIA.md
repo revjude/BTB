@@ -9,5 +9,5 @@
 
 → Jews from, hear Jesus [[Mark.3.8|Mr 3:8]]
 
-→ Paul visits the congregations in [[Acts.15.3|Ac 15:3]]; [[Acts.21.2|21:2]]-[[Acts.21.4|4]]; [[Acts.27.3|27:3]]
+→ Paul visits the congregations in [[Acts.15.3|Ac 15:3]]; [[Acts.21.2|21:2-4]]; [[Acts.27.3|27:3]]
 

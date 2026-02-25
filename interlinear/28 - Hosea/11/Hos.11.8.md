@@ -1,8 +1,63 @@
+---
+title: Hosea 11:8
+type: Verse
+kjv: "How shall I give thee up, Ephraim? how shall I deliver thee, Israel? how shall I make thee as Admah? how shall I set thee as Zeboim? mine heart is turned within me, my repentings are kindled together."
+bsb: "How could I give you up, O Ephraim? How could I surrender you, O Israel? How could I make you like Admah? How could I treat you like Zeboiim? My heart is turned within Me; My compassion is stirred!"
+hebrew: "אֵ֞יךְ אֶתֶּנְךָ֣ אֶפְרַ֗יִם אֲמַגֶּנְךָ֙ יִשְׂרָאֵ֔ל אֵ֚יךְ אֶתֶּנְךָ֣ כְאַדְמָ֔ה אֲשִֽׂימְךָ֖ כִּצְבֹאיִ֑ם נֶהְפַּ֤ךְ עָלַי֙ לִבִּ֔י יַ֖חַד נִכְמְר֥וּ נִחוּמָֽי׃"
+pericope: "[[Hos.11.8 God’s Love for Israel|God’s Love for Israel]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 11
+book/chapter: "[[Hos.11|Hosea 11]]"
+chronological_order: 652
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic ADMAH|ADMAH]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ZEBOIM|ZEBOIM]]"
+strongs:
+- "[[H0349A]]"
+- "[[H5414G]]"
+- "[[H9031]]"
+- "[[H0669G]]"
+- "[[H4042]]"
+- "[[H3478]]"
+- "[[H5414I]]"
+- "[[H9004]]"
+- "[[H0126]]"
+- "[[H7760A]]"
+- "[[H6636]]"
+- "[[H2015]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H3162A]]"
+- "[[H3648]]"
+- "[[H5150]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 11:8**<big><big>[[Hos.11.8 God’s Love for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How shall I give thee up, Ephraim? [how] shall I deliver thee, Israel? how shall I make thee as Admah? [how] shall I set thee as Zeboim? mine heart is turned within me, my repentings are kindled together.
 <small><sub>**BSB:**</sub></small>
 How could I give you up, O Ephraim? How could I surrender you, O Israel? How could I make you like Admah? How could I treat you like Zeboiim? My heart is turned within Me; My compassion is stirred!
+<small><sub>**Hebrew:**</sub></small>
+[[H0349A\|אֵ֞יךְ]] [[H5414G\|אֶתֶּנְ]][[H9031\|ךָ֣]] [[H0669G\|אֶפְרַ֗יִם]] [[H4042\|אֲמַגֶּנְ]][[H9031\|ךָ֙]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0349A\|אֵ֚יךְ]] [[H5414I\|אֶתֶּנְ]][[H9031\|ךָ֣]] [[H9004\|כְ]][[H0126\|אַדְמָ֔ה]] [[H7760A\|אֲשִֽׂימְ]][[H9031\|ךָ֖]] [[H9004\|כִּ]][[H6636\|צְבֹאיִ֑ם]] [[H2015\|נֶהְפַּ֤ךְ]] [[H5921A\|עָלַ]][[H9030\|י֙]] [[H3820A\|לִבִּ֔]][[H9020\|י]] [[H3162A\|יַ֖חַד]] [[H3648\|נִכְמְר֥וּ]] [[H5150\|נִחוּמָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADMAH|ADMAH]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOD|GOD]] • [[topic ZEBOIM|ZEBOIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.11.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.11.7|<< Hosea 11:7]]</td><td align="center" style="border:none;">[[Hos.11|Hosea 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.11.9|Hosea 11:9 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: Psalm 111:10
+type: Verse
+kjv: "The fear of the LORD is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever."
+bsb: "The fear of the LORD is the beginning of wisdom; all who follow His precepts gain rich understanding. His praise endures forever!"
+hebrew: "רֵ֘אשִׁ֤ית חָכְמָ֨ה׀ יִרְאַ֬ת יְהוָ֗ה שֵׂ֣כֶל ט֭וֹב לְכָל־ עֹשֵׂיהֶ֑ם תְּ֝הִלָּת֗וֹ עֹמֶ֥דֶת לָעַֽד׃"
+pericope: "[[Ps.111.1 Majestic Is His Work|Majestic Is His Work]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 111
+book/chapter: "[[Ps.111|Psalm 111]]"
+chronological_order: 873
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H7225G]]"
+- "[[H2451]]"
+- "[[H9015]]"
+- "[[H3374]]"
+- "[[H3068G]]"
+- "[[H7922]]"
+- "[[H2896A]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H9038]]"
+- "[[H8416]]"
+- "[[H9023]]"
+- "[[H5975G]]"
+- "[[H5703]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 111:10**<big><big>[[Ps.111.1 Majestic Is His Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fear of the LORD [is] the beginning of wisdom: a good understanding have all they that do [his commandments]: his praise endureth for ever.
 <small><sub>**BSB:**</sub></small>
 The fear of the LORD is the beginning of wisdom; all who follow His precepts gain rich understanding. His praise endures forever!
+<small><sub>**Hebrew:**</sub></small>
+[[H7225G\|רֵ֘אשִׁ֤ית]] [[H2451\|חָכְמָ֨ה]][[H9015\|׀]] [[H3374\|יִרְאַ֬ת]] [[H3068G\|יְהוָ֗ה]] [[H7922\|שֵׂ֣כֶל]] [[H2896A\|ט֭וֹב]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H6213A\|עֹשֵׂי]][[H9038\|הֶ֑ם]] [[H8416\|תְּ֝הִלָּת֗]][[H9023\|וֹ]] [[H5975G\|עֹמֶ֥דֶת]] [[H9005\|לָ]][[H5703\|עַֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OBEDIENCE|OBEDIENCE]] • [[topic PRAISE|PRAISE]] • [[topic REVERENCE|REVERENCE]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.111.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.111.9|<< Psalms 111:9]]</td><td align="center" style="border:none;">[[Ps.111|Psalms 111]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.112.1|Psalms 112:1 >>]]</td></tr></table>
 

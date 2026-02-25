@@ -1,8 +1,54 @@
+---
+title: Psalm 18:19
+type: Verse
+kjv: "He brought me forth also into a large place; he delivered me, because he delighted in me."
+bsb: "He brought me out into the open; He rescued me because He delighted in me."
+hebrew: "וַיּוֹצִיאֵ֥נִי לַמֶּרְחָ֑ב יְ֝חַלְּצֵ֗נִי כִּ֘י חָ֥פֵֽץ בִּֽי׃"
+pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H4800]]"
+- "[[H2502A]]"
+- "[[H3588A]]"
+- "[[H2654A]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 18:19**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He brought me forth also into a large place; he delivered me, because he delighted in me.
 <small><sub>**BSB:**</sub></small>
 He brought me out into the open; He rescued me because He delighted in me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318H\|יּוֹצִיאֵ֥]][[H9030\|נִי]] [[H9005\|לַ]][[H4800\|מֶּרְחָ֑ב]] [[H2502A\|יְ֝חַלְּצֵ֗]][[H9030\|נִי]] [[H3588A\|כִּ֘י]] [[H2654A\|חָ֥פֵֽץ]] [[H9003\|בִּֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.18|<< Psalms 18:18]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.20|Psalms 18:20 >>]]</td></tr></table>
 

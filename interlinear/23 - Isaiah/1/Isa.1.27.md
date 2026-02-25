@@ -1,8 +1,53 @@
+---
+title: Isaiah 1:27
+type: Verse
+kjv: "Zion shall be redeemed with judgment, and her converts with righteousness."
+bsb: "Zion will be redeemed with justice, her repentant ones with righteousness."
+hebrew: "צִיּ֖וֹן בְּמִשְׁפָּ֣ט תִּפָּדֶ֑ה וְשָׁבֶ֖יהָ בִּצְדָקָֽה׃"
+pericope: "[[Isa.1.21 The Corruption of Zion|The Corruption of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 1
+book/chapter: "[[Isa.1|Isaiah 1]]"
+chronological_order: 609
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H6726]]"
+- "[[H9003]]"
+- "[[H4941H]]"
+- "[[H6299]]"
+- "[[H9002]]"
+- "[[H7725O]]"
+- "[[H9034]]"
+- "[[H6666]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 1:27**<big><big>[[Isa.1.21 The Corruption of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Zion shall be redeemed with judgment, and her converts with righteousness.
 <small><sub>**BSB:**</sub></small>
 Zion will be redeemed with justice, her repentant ones with righteousness.
+<small><sub>**Hebrew:**</sub></small>
+[[H6726\|צִיּ֖וֹן]] [[H9003\|בְּ]][[H4941H\|מִשְׁפָּ֣ט]] [[H6299\|תִּפָּדֶ֑ה]] [[H9002\|וְ]][[H7725O\|שָׁבֶ֖י]][[H9034\|הָ]] [[H9003\|בִּ]][[H6666\|צְדָקָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.26|<< Isaiah 1:26]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.28|Isaiah 1:28 >>]]</td></tr></table>
 

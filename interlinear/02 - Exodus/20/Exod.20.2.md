@@ -1,8 +1,62 @@
+---
+title: Exodus 20:2
+type: Verse
+kjv: "I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage."
+bsb: "“I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery."
+hebrew: "אָֽנֹכִ֖י֙ יְהוָ֣ה אֱלֹהֶ֑֔יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֣֥ית עֲבָדִיֽ֑ם׃"
+pericope: "[[Exod.20.1 The Ten Commandments|The Ten Commandments]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 20
+book/chapter: "[[Exod.20|Exodus 20]]"
+chronological_order: 112
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LAW|LAW]]"
+strongs:
+- "[[H0595]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H3318H]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H1004B]]"
+- "[[H5650]]"
+- "[[H9016]]"
+texts:
+- L(p)
+- L
+- L(b+p)
+---
+
 **Exodus 20:2**<big><big>[[Exod.20.1 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I [am] the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage.
 <small><sub>**BSB:**</sub></small>
 “I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery.
+<small><sub>**Hebrew:**</sub></small>
+[[H0595\|אָֽנֹכִ֖י֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֑֔י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֧ר]] [[H3318H\|הוֹצֵאתִ֛י]][[H9031\|ךָ]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרַ֖יִם]] [[H9006\|מִ]][[H1004B\|בֵּ֣֥ית]] [[H5650\|עֲבָדִיֽ֑ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECALOGUE|DECALOGUE]] • [[topic GOD|GOD]] • [[topic LAW|LAW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.20.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.1|<< Exodus 20:1]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.3|Exodus 20:3 >>]]</td></tr></table>
 

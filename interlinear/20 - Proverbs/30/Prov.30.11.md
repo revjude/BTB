@@ -1,8 +1,52 @@
+---
+title: Proverbs 30:11
+type: Verse
+kjv: "There is a generation that curseth their father, and doth not bless their mother."
+bsb: "There is a generation of those who curse their fathers and do not bless their mothers."
+hebrew: "דּ֭וֹר אָבִ֣יו יְקַלֵּ֑ל וְאֶת־ אִ֝מּ֗וֹ לֹ֣א יְבָרֵֽךְ׃"
+pericope: "[[Prov.30.1 The Words of Agur|The Words of Agur]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 30
+book/chapter: "[[Prov.30|Proverbs 30]]"
+chronological_order: 485
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic MOTHER|MOTHER]]"
+strongs:
+- "[[H1755]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H7043]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0517]]"
+- "[[H3808]]"
+- "[[H1288]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 30:11**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] a generation [that] curseth their father, and doth not bless their mother.
 <small><sub>**BSB:**</sub></small>
 There is a generation of those who curse their fathers and do not bless their mothers.
+<small><sub>**Hebrew:**</sub></small>
+[[H1755\|דּ֭וֹר]] [[H0001G\|אָבִ֣י]][[H9023\|ו]] [[H7043\|יְקַלֵּ֑ל]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0517\|אִ֝מּ֗]][[H9023\|וֹ]] [[H3808\|לֹ֣א]] [[H1288\|יְבָרֵֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic MOTHER|MOTHER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.10|<< Proverbs 30:10]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.12|Proverbs 30:12 >>]]</td></tr></table>
 

@@ -5,5 +5,5 @@
 
 → FIGURATIVE
 
-- Of the judgments of God  [[Joel.3.13|Joe 3:13]]; [[Rev.14.14|Re 14:14]]-[[Rev.14.19|19]]
+- Of the judgments of God  [[Joel.3.13|Joe 3:13]]; [[Rev.14.14|Re 14:14-19]]
 

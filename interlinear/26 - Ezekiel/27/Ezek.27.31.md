@@ -1,8 +1,58 @@
+---
+title: Ezekiel 27:31
+type: Verse
+kjv: "And they shall make themselves utterly bald for thee, and gird them with sackcloth, and they shall weep for thee with bitterness of heart and bitter wailing."
+bsb: "They will shave their heads for you and wrap themselves in sackcloth. They will weep over you with anguish of soul and bitter mourning."
+hebrew: "וְהִקְרִ֤יחוּ אֵלַ֙יִךְ֙ קָרְחָ֔ה וְחָגְר֖וּ שַׂקִּ֑ים וּבָכ֥וּ אֵלַ֛יִךְ בְּמַר־ נֶ֖פֶשׁ מִסְפֵּ֥ד מָֽר׃"
+pericope: "[[Ezek.27.1 A Lament for Tyre|A Lament for Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 27
+book/chapter: "[[Ezek.27|Ezekiel 27]]"
+chronological_order: 818
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BALDNESS|BALDNESS]]"
+- "[[topic MERCHANT|MERCHANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H7139]]"
+- "[[H0413]]"
+- "[[H9032]]"
+- "[[H7144]]"
+- "[[H2296]]"
+- "[[H8242]]"
+- "[[H1058]]"
+- "[[H9003]]"
+- "[[H4751]]"
+- "[[H9014]]"
+- "[[H5315G]]"
+- "[[H4553]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 27:31**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall make themselves utterly bald for thee, and gird them with sackcloth, and they shall weep for thee with bitterness of heart [and] bitter wailing.
 <small><sub>**BSB:**</sub></small>
 They will shave their heads for you and wrap themselves in sackcloth. They will weep over you with anguish of soul and bitter mourning.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7139\|הִקְרִ֤יחוּ]] [[H0413\|אֵלַ֙יִ]][[H9032\|ךְ֙]] [[H7144\|קָרְחָ֔ה]] [[H9001\|וְ]][[H2296\|חָגְר֖וּ]] [[H8242\|שַׂקִּ֑ים]] [[H9001\|וּ]][[H1058\|בָכ֥וּ]] [[H0413\|אֵלַ֛יִ]][[H9032\|ךְ]] [[H9003\|בְּ]][[H4751\|מַר]][[H9014\|־]] [[H5315G\|נֶ֖פֶשׁ]] [[H4553\|מִסְפֵּ֥ד]] [[H4751\|מָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALDNESS|BALDNESS]] • [[topic MERCHANT|MERCHANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.30|<< Ezekiel 27:30]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.32|Ezekiel 27:32 >>]]</td></tr></table>
 

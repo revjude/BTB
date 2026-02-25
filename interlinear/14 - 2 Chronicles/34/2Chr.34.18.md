@@ -1,8 +1,61 @@
+---
+title: 2 Chronicles 34:18
+type: Verse
+kjv: "Then Shaphan the scribe told the king, saying, Hilkiah the priest hath given me a book. And Shaphan read it before the king."
+bsb: "Moreover, Shaphan the scribe told the king, “Hilkiah the priest has given me a book.” And Shaphan read it in the presence of the king."
+hebrew: "וַיַּגֵּ֞ד שָׁפָ֤ן הַסּוֹפֵר֙ לַמֶּ֣לֶךְ לֵאמֹ֔ר סֵ֚פֶר נָ֣תַן לִ֔י חִלְקִיָּ֖הוּ הַכֹּהֵ֑ן וַיִּקְרָא־ ב֥וֹ שָׁפָ֖ן לִפְנֵ֥י הַמֶּֽלֶךְ׃"
+pericope: "[[2Chr.34.14 Hilkiah Finds the Book of the Law|Hilkiah Finds the Book of the Law]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 34
+book/chapter: "[[2Chr.34|2 Chronicles 34]]"
+chronological_order: 713
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic HILKIAH|HILKIAH]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic SHAPHAN|SHAPHAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H8227B]]"
+- "[[H9009]]"
+- "[[H5608B]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H0559]]"
+- "[[H5612H]]"
+- "[[H5414G]]"
+- "[[H9030]]"
+- "[[H2518H]]"
+- "[[H3548]]"
+- "[[H7121J]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 34:18**<big><big>[[2Chr.34.14 Hilkiah Finds the Book of the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Shaphan the scribe told the king, saying, Hilkiah the priest hath given me a book. And Shaphan read it before the king.
 <small><sub>**BSB:**</sub></small>
 Moreover, Shaphan the scribe told the king, “Hilkiah the priest has given me a book.” And Shaphan read it in the presence of the king.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5046\|יַּגֵּ֞ד]] [[H8227B\|שָׁפָ֤ן]] [[H9009\|הַ]][[H5608B\|סּוֹפֵר֙]] [[H9005\|לַ]][[H4428G\|מֶּ֣לֶךְ]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H5612H\|סֵ֚פֶר]] [[H5414G\|נָ֣תַן]] [[H9005\|לִ֔]][[H9030\|י]] [[H2518H\|חִלְקִיָּ֖הוּ]] [[H9009\|הַ]][[H3548\|כֹּהֵ֑ן]] [[H9001\|וַ]][[H7121J\|יִּקְרָא]][[H9014\|־]] [[H9003\|ב֥]][[H9033\|וֹ]] [[H8227B\|שָׁפָ֖ן]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HILKIAH|HILKIAH]] • [[topic JOSIAH|JOSIAH]] • [[topic SHAPHAN|SHAPHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.17|<< 2 Chronicles 34:17]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.19|2 Chronicles 34:19 >>]]</td></tr></table>
 

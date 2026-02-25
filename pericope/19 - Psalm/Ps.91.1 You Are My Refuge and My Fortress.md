@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: You Are My Refuge and My Fortress
+type: Pericope
 pericope: "[[Ps.91.1 You Are My Refuge and My Fortress|You Are My Refuge and My Fortress]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 91
 book/chapter: "[[Ps.91|Psalm 91]]"
-genre:
+chronological_order: 518
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 16
 verses:
 - "[[Ps.91.1]]"
 - "[[Ps.91.2]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Ps.91.16]]"
 ---
 
-[[Ps.91|Psalm 91:1 - Psalm 91:16]]
+<small>[[Ps.91|Psalm 91:1-16]]</small>
 *You Are My Refuge and My Fortress*
 
 [[Ps.91.1|1]] He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.

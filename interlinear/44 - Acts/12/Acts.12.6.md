@@ -1,10 +1,74 @@
+---
+title: Acts 12:6
+type: Verse
+kjv: "And when Herod would have brought him forth, the same night Peter was sleeping between two soldiers, bound with two chains: and the keepers before the door kept the prison."
+bsb: "On the night before Herod was to bring him to trial, Peter was sleeping between two soldiers, bound with two chains, with sentries standing guard at the entrance to the prison."
+greek: "ὅτε δὲ ἤμελλεν προαγαγεῖν αὐτὸν ὁ Ἡρῴδης, τῇ νυκτὶ ἐκείνῃ ἦν ὁ Πέτρος κοιμώμενος μεταξὺ δύο στρατιωτῶν δεδεμένος ἁλύσεσιν δυσίν, φύλακές τε πρὸ τῆς θύρας ἐτήρουν τὴν φυλακήν."
+pericope: "[[Acts.12.5 The Rescue of Peter|The Rescue of Peter]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 12
+book/chapter: "[[Acts.12|Acts 12]]"
+chronological_order: 1030
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CHAINS|CHAINS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+strongs:
+- "[[G3753]]"
+- "[[G1161]]"
+- "[[G3195]]"
+- "[[G4254]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2264I]]"
+- "[[G3571]]"
+- "[[G1565]]"
+- "[[G1510]]"
+- "[[G4074G]]"
+- "[[G2837]]"
+- "[[G3342]]"
+- "[[G1417]]"
+- "[[G4757]]"
+- "[[G1210]]"
+- "[[G0254]]"
+- "[[G5441]]"
+- "[[G5037]]"
+- "[[G4253]]"
+- "[[G2374]]"
+- "[[G5083H]]"
+- "[[G5438G]]"
+texts:
+- NKO
+- N(k)(o)
+---
+
 **Acts 12:6**<big><big>[[Acts.12.5 The Rescue of Peter|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when Herod would have brought him forth, the same night Peter was sleeping between two soldiers, bound with two chains: and the keepers before the door kept the prison.
 <small><sub>**BSB:**</sub></small>
 On the night before Herod was to bring him to trial, Peter was sleeping between two soldiers, bound with two chains, with sentries standing guard at the entrance to the prison.
-<small><sub>**Literal:**</sub></small>
-When then was about to bring forth him <the> Herod, in the night that [one] was <the> Peter sleeping between two soldiers bound with chains two, guards also before the door were watching the prison.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.5|<< Acts 12:5]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.7|Acts 12:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3753\|ὅτε]]  [[G1161\|δὲ]]  [[G3195\|ἤμελλεν]]  [[G4254\|προαγαγεῖν]]  [[G0846\|αὐτὸν]]  [[G3588\|ὁ]]  [[G2264I\|Ἡρῴδης,]]  [[G3588\|τῇ]]  [[G3571\|νυκτὶ]]  [[G1565\|ἐκείνῃ]]  [[G1510\|ἦν]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G2837\|κοιμώμενος]]  [[G3342\|μεταξὺ]]  [[G1417\|δύο]]  [[G4757\|στρατιωτῶν]]  [[G1210\|δεδεμένος]]  [[G0254\|ἁλύσεσιν]]  [[G1417\|δυσίν,]]  [[G5441\|φύλακές]]  [[G5037\|τε]]  [[G4253\|πρὸ]]  [[G3588\|τῆς]]  [[G2374\|θύρας]]  [[G5083H\|ἐτήρουν]]  [[G3588\|τὴν]]  [[G5438G\|φυλακήν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHAINS|CHAINS]] • [[topic GOD|GOD]] • [[topic HEROD|HEROD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRAYER|PRAYER]] • [[topic PRISONERS|PRISONERS]] • [[topic RULERS|RULERS]] • [[topic SOLDIERS|SOLDIERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.5|<< Acts 12:5]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.7|Acts 12:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

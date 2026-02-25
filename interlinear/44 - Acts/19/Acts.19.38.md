@@ -1,10 +1,64 @@
+---
+title: Acts 19:38
+type: Verse
+kjv: "Wherefore if Demetrius, and the craftsmen which are with him, have a matter against any man, the law is open, and there are deputies: let them implead one another."
+bsb: "So if Demetrius and his fellow craftsmen have a complaint against anyone, the courts are open and proconsuls are available. Let them bring charges against one another there."
+greek: "εἰ μὲν οὖν Δημήτριος καὶ οἱ σὺν αὐτῷ τεχνῖται ἔχουσι πρός τινα λόγον, ἀγοραῖοι ἄγονται καὶ ἀνθύπατοί εἰσιν· ἐγκαλείτωσαν ἀλλήλοις."
+pericope: "[[Acts.19.21 The Riot in Ephesus|The Riot in Ephesus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic DEMETRIUS|DEMETRIUS]]"
+- "[[topic DEPUTY|DEPUTY]]"
+- "[[topic MOB|MOB]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[G1487G]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G1216]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4862]]"
+- "[[G0846]]"
+- "[[G5079]]"
+- "[[G2192]]"
+- "[[G4314]]"
+- "[[G5100]]"
+- "[[G3056]]"
+- "[[G0060]]"
+- "[[G0071]]"
+- "[[G0446]]"
+- "[[G1510]]"
+- "[[G1458]]"
+- "[[G0240]]"
+texts:
+- NKO
+---
+
 **Acts 19:38**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore if Demetrius, and the craftsmen which are with him, have a matter against any man, the law is open, and there are deputies: let them implead one another.
 <small><sub>**BSB:**</sub></small>
 So if Demetrius and his fellow craftsmen have a complaint against anyone, the courts are open and proconsuls are available. Let them bring charges against one another there.
-<small><sub>**Literal:**</sub></small>
-If indeed therefore Demetrius and the with him craftsmen have against anyone a matter courts are conducted and proconsuls there are; they should accuse to one another.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.37|<< Acts 19:37]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.39|Acts 19:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G1216\|Δημήτριος]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4862\|σὺν]]  [[G0846\|αὐτῷ]]  [[G5079\|τεχνῖται]]  [[G2192\|ἔχουσι]]  [[G4314\|πρός]]  [[G5100\|τινα]]  [[G3056\|λόγον,]]  [[G0060\|ἀγοραῖοι]]  [[G0071\|ἄγονται]]  [[G2532\|καὶ]]  [[G0446\|ἀνθύπατοί]]  [[G1510\|εἰσιν·]]  [[G1458\|ἐγκαλείτωσαν]]  [[G0240\|ἀλλήλοις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic DEMETRIUS|DEMETRIUS]] • [[topic DEPUTY|DEPUTY]] • [[topic MOB|MOB]] • [[topic PAUL|PAUL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic TACT|TACT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.37|<< Acts 19:37]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.39|Acts 19:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

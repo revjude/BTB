@@ -1,8 +1,66 @@
+---
+title: Ezekiel 39:1
+type: Verse
+kjv: "Therefore, thou son of man, prophesy against Gog, and say, Thus saith the Lord GOD; Behold, I am against thee, O Gog, the chief prince of Meshech and Tubal:"
+bsb: "“As for you, O son of man, prophesy against Gog and declare that this is what the Lord GOD says: Behold, I am against you, O Gog, chief prince of Meshech and Tubal."
+hebrew: "וְאַתָּ֤ה בֶן־ אָדָם֙ הִנָּבֵ֣א עַל־ גּ֔וֹג וְאָ֣מַרְתָּ֔ כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהוִ֑ה הִנְנִ֤י אֵלֶ֙יךָ֙ גּ֔וֹג נְשִׂ֕יא רֹ֖אשׁ מֶ֥שֶׁךְ וְתֻבָֽל׃"
+pericope: "[[Ezek.39.1 The Slaughter of Gog’s Armies|The Slaughter of Gog’s Armies]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 39
+book/chapter: "[[Ezek.39|Ezekiel 39]]"
+chronological_order: 830
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ROSH|ROSH]]"
+- "[[topic TUBAL|TUBAL]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H5012]]"
+- "[[H5921A]]"
+- "[[H1463H]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H5387A]]"
+- "[[H7218B]]"
+- "[[H4902H]]"
+- "[[H8422H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 39:1**<big><big>[[Ezek.39.1 The Slaughter of Gog’s Armies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore, thou son of man, prophesy against Gog, and say, Thus saith the Lord GOD; Behold, I [am] against thee, O Gog, the chief prince of Meshech and Tubal:
 <small><sub>**BSB:**</sub></small>
 “As for you, O son of man, prophesy against Gog and declare that this is what the Lord GOD says: Behold, I am against you, O Gog, chief prince of Meshech and Tubal.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֤ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H0120G\|אָדָם֙]] [[H5012\|הִנָּבֵ֣א]] [[H5921A\|עַל]][[H9014\|־]] [[H1463H\|גּ֔וֹג]] [[H9001\|וְ]][[H0559\|אָ֣מַרְתָּ֔]] [[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֖ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֑ה]] [[H2005\|הִנְ]][[H9040\|נִ֤י]] [[H0413\|אֵלֶ֙י]][[H9031\|ךָ֙]] [[H1463H\|גּ֔וֹג]] [[H5387A\|נְשִׂ֕יא]] [[H7218B\|רֹ֖אשׁ]] [[H4902H\|מֶ֥שֶׁךְ]] [[H9002\|וְ]][[H8422H\|תֻבָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ROSH|ROSH]] • [[topic TUBAL|TUBAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.23|<< Ezekiel 38:23]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.2|Ezekiel 39:2 >>]]</td></tr></table>
 

@@ -1,10 +1,70 @@
+---
+title: Matthew 26:75
+type: Verse
+kjv: "And Peter remembered the word of Jesus, which said unto him, Before the cock crow, thou shalt deny me thrice. And he went out, and wept bitterly."
+bsb: "Then Peter remembered the word that Jesus had spoken: “Before the rooster crows, you will deny Me three times.” And he went outside and wept bitterly."
+greek: "καὶ ἐμνήσθη ὁ Πέτρος τοῦ ῥήματος τοῦ Ἰησοῦ εἰρηκότος αὐτῷ ὅτι πρὶν ἀλέκτορα φωνῆσαι τρὶς ἀπαρνήσῃ με, καὶ ἐξελθὼν ἔξω ἔκλαυσεν πικρῶς.¶"
+pericope: "[[Matt.26.69 Peter Denies Jesus|Peter Denies Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic COCK CROWING|COCK CROWING]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic REMORSE|REMORSE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic WEEPING|WEEPING]]"
+strongs:
+- "[[G2532]]"
+- "[[G3403]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G4487]]"
+- "[[G2424G]]"
+- "[[G2046]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G4250]]"
+- "[[G0220]]"
+- "[[G5455]]"
+- "[[G5151]]"
+- "[[G0533]]"
+- "[[G3165]]"
+- "[[G1831]]"
+- "[[G1854]]"
+- "[[G2799]]"
+- "[[G4090]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 26:75**<big><big>[[Matt.26.69 Peter Denies Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Peter remembered the word of Jesus, which said unto him, Before the cock crow, thou shalt deny me thrice. And he went out, and wept bitterly.
 <small><sub>**BSB:**</sub></small>
 Then Peter remembered the word that Jesus had spoken: “Before the rooster crows, you will deny Me three times.” And he went outside and wept bitterly.
-<small><sub>**Literal:**</sub></small>
-And remembered <the> Peter the declaration <the> of Jesus having said to him that Before [the] rooster crowing three times you will deny Me, And having gone out he wept bitterly.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.74|<< Matthew 26:74]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.1|Matthew 27:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3403\|ἐμνήσθη]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G3588\|τοῦ]]  [[G4487\|ῥήματος]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G2046\|εἰρηκότος]]  [[G0846\|αὐτῷ]]  [[G3754G\|ὅτι]]  [[G4250\|πρὶν]]  [[G0220\|ἀλέκτορα]]  [[G5455\|φωνῆσαι]]  [[G5151\|τρὶς]]  [[G0533\|ἀπαρνήσῃ]]  [[G3165\|με,]]  [[G2532\|καὶ]]  [[G1831\|ἐξελθὼν]]  [[G1854\|ἔξω]]  [[G2799\|ἔκλαυσεν]]  [[G4090\|πικρῶς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic COCK CROWING|COCK CROWING]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic PETER|PETER]] • [[topic PRISONERS|PRISONERS]] • [[topic REMORSE|REMORSE]] • [[topic REPENTANCE|REPENTANCE]] • [[topic WEEPING|WEEPING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.74|<< Matthew 26:74]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.1|Matthew 27:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

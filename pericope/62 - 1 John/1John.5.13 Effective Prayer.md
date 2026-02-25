@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Effective Prayer
+type: Pericope
 pericope: "[[1John.5.13 Effective Prayer|Effective Prayer]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: 1 John
 chapter: 5
 book/chapter: "[[1John.5|1 John 5]]"
-genre:
+chronological_order: 1165
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
 - epistle
 - general epistle
 - johannine epistle
 - theological treatise
 - polemical
+verse_count: 5
 verses:
 - "[[1John.5.13]]"
 - "[[1John.5.14]]"
@@ -24,7 +31,7 @@ verses:
 - "[[1John.5.17]]"
 ---
 
-[[1John.5|1 John 5:13 - 1 John 5:17]]
+<small>[[1John.5|1 John 5:13-17]]</small>
 *Effective Prayer*
 
 [[1John.5.13|13]] These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God.

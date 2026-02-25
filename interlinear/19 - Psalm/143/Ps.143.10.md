@@ -1,8 +1,65 @@
+---
+title: Psalm 143:10
+type: Verse
+kjv: "Teach me to do thy will; for thou art my God: thy spirit is good; lead me into the land of uprightness."
+bsb: "Teach me to do Your will, for You are my God. May Your good Spirit lead me on level ground."
+hebrew: "לַמְּדֵ֤נִי׀ לַֽעֲשׂ֣וֹת רְצוֹנֶךָ֮ כִּֽי־ אַתָּ֪ה אֱל֫וֹהָ֥י רוּחֲךָ֥ טוֹבָ֑ה תַּ֝נְחֵ֗נִי בְּאֶ֣רֶץ מִישֽׁוֹר׃"
+pericope: "[[Ps.143.1 I Stretch Out My Hands to You|I Stretch Out My Hands to You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 143
+book/chapter: "[[Ps.143|Psalm 143]]"
+chronological_order: 389
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H3925G]]"
+- "[[H9030]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H7522]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H7307G]]"
+- "[[H2896A]]"
+- "[[H5148]]"
+- "[[H9003]]"
+- "[[H0776H]]"
+- "[[H4334]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 143:10**<big><big>[[Ps.143.1 I Stretch Out My Hands to You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Teach me to do thy will; for thou [art] my God: thy spirit [is] good; lead me into the land of uprightness.
 <small><sub>**BSB:**</sub></small>
 Teach me to do Your will, for You are my God. May Your good Spirit lead me on level ground.
+<small><sub>**Hebrew:**</sub></small>
+[[H3925G\|לַמְּדֵ֤]][[H9030\|נִי]][[H9015\|׀]] [[H9005\|לַֽ]][[H6213A\|עֲשׂ֣וֹת]] [[H7522\|רְצוֹנֶ]][[H9021\|ךָ֮]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0859A\|אַתָּ֪ה]] [[H0430G\|אֱל֫וֹהָ֥]][[H9020\|י]] [[H7307G\|רוּחֲ]][[H9021\|ךָ֥]] [[H2896A\|טוֹבָ֑ה]] [[H5148\|תַּ֝נְחֵ֗]][[H9030\|נִי]] [[H9003\|בְּ]][[H0776H\|אֶ֣רֶץ]] [[H4334\|מִישֽׁוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.143.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.143.9|<< Psalms 143:9]]</td><td align="center" style="border:none;">[[Ps.143|Psalms 143]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.143.11|Psalms 143:11 >>]]</td></tr></table>
 

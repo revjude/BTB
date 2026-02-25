@@ -1,6 +1,46 @@
+---
+title: LXX 2 Samuel 23:39
+type: Verse
+lxx: "Uriah the Hittite. In all thirty and seven."
+greek: "Ουρίας ο Εθαίος οι πάντες τριάκοντα και επτά"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 23
+book/chapter: "[[2Sam.23|2 Samuel 23]]"
+chronological_order: 431
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic HITTITES|HITTITES]]"
+- "[[topic URIAH|URIAH]]"
+strongs:
+- "[[H0223b]]"
+- "[[G3588]]"
+- "[[H2850]]"
+- "[[G3588]]"
+- "[[G3956]]"
+- "[[G5144]]"
+- "[[G2532]]"
+- "[[G2033]]"
+---
+
 **LXX 2 Samuel 23:39** 
 <small><sub>**LXX:**</sub></small>
 Uriah the Hittite. In all thirty and seven. 
+<small><sub>**Greek:**</sub></small>
+[[H0223b\|Ουρίας]] [[G3588\|ο]] [[H2850\|Εθαίος]] [[G3588\|οι]] [[G3956\|πάντες]] [[G5144\|τριάκοντα]] [[G2532\|και]] [[G2033\|επτά]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic HITTITES|HITTITES]] • [[topic URIAH|URIAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.23.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.38|<< 2 Samuel 23:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.1|2 Samuel 24:1 >>]]</td></tr></table>
 
@@ -13,6 +53,6 @@ Uriah the Hittite. In all thirty and seven.
 | thirty | **<big>[[G5144\|τριάκοντα]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | seven. | **<big>[[G2033\|επτά]]</big>** |
-[[2Sam.23.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.38|<< 2 Samuel 23:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.1|2 Samuel 24:1 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.38|<< 2 Samuel 23:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.1|2 Samuel 24:1 >>]]</td></tr></table>
 
 

@@ -1,8 +1,56 @@
+---
+title: 1 Chronicles 28:13
+type: Verse
+kjv: "Also for the courses of the priests and the Levites, and for all the work of the service of the house of the LORD, and for all the vessels of service in the house of the LORD."
+bsb: "for the divisions of the priests and Levites, for all the work of service in the house of the LORD, and for all the articles of service in the house of the LORD:"
+hebrew: "וּֽלְמַחְלְקוֹת֙ הַכֹּהֲנִ֣ים וְהַלְוִיִּ֔ם וּֽלְכָל־ מְלֶ֖אכֶת עֲבוֹדַ֣ת בֵּית־ יְהוָ֑ה וּֽלְכָל־ כְּלֵ֖י עֲבוֹדַ֥ת בֵּית־ יְהוָֽה׃"
+pericope: "[[1Chr.28.11 The Plans for the Temple|The Plans for the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 28
+book/chapter: "[[1Chr.28|1 Chronicles 28]]"
+chronological_order: 439
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic REVELATION|REVELATION]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H4256]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H3881]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4399]]"
+- "[[H5656H]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H3627]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 28:13**<big><big>[[1Chr.28.11 The Plans for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also for the courses of the priests and the Levites, and for all the work of the service of the house of the LORD, and for all the vessels of service in the house of the LORD.
 <small><sub>**BSB:**</sub></small>
 for the divisions of the priests and Levites, for all the work of service in the house of the LORD, and for all the articles of service in the house of the LORD:
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּֽ]][[H9005\|לְ]][[H4256\|מַחְלְקוֹת֙]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֣ים]] [[H9002\|וְ]][[H9009\|הַ]][[H3881\|לְוִיִּ֔ם]] [[H9002\|וּֽ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H4399\|מְלֶ֖אכֶת]] [[H5656H\|עֲבוֹדַ֣ת]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וּֽ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H3627\|כְּלֵ֖י]] [[H5656H\|עֲבוֹדַ֥ת]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]] • [[topic REVELATION|REVELATION]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.28.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.28.12|<< 1 Chronicles 28:12]]</td><td align="center" style="border:none;">[[1Chr.28|1 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.28.14|1 Chronicles 28:14 >>]]</td></tr></table>
 

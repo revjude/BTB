@@ -1,10 +1,70 @@
+---
+title: Matthew 5:39
+type: Verse
+kjv: "But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also."
+bsb: "But I tell you not to resist an evil person. If someone slaps you on your right cheek, turn to him the other also;"
+jesus_said: "But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also."
+greek: "ἐγὼ δὲ λέγω ὑμῖν μὴ ἀντιστῆναι τῷ πονηρῷ. ἀλλ᾽ ὅστις σε ῥαπίζει εἰς τὴν δεξιὰν σιαγόνα σου, στρέψον αὐτῷ καὶ τὴν ἄλλην·"
+pericope: "[[Matt.5.38 Love Your Enemies|Love Your Enemies]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 5
+book/chapter: "[[Matt.5|Matthew 5]]"
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ASSAULT AND BATTERY|ASSAULT AND BATTERY]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JUDAISM|JUDAISM]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RETALIATION|RETALIATION]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3361]]"
+- "[[G0436]]"
+- "[[G3588]]"
+- "[[G4190]]"
+- "[[G0235]]"
+- "[[G3748]]"
+- "[[G4474]]"
+- "[[G1519]]"
+- "[[G1188]]"
+- "[[G4600]]"
+- "[[G4762]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G0243]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 5:39**<big><big>[[Matt.5.38 Love Your Enemies|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also.
 <small><sub>**BSB:**</sub></small>
 But I tell you not to resist an evil person. If someone slaps you on your right cheek, turn to him the other also;
-<small><sub>**Literal:**</sub></small>
-I myself however say to you not to resist the evil [person]. Instead whoever you strike on the right cheek of you, do turn to him also the other;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.38|<< Matthew 5:38]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.40|Matthew 5:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|ἐγὼ]]  [[G1161\|δὲ]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G3361\|μὴ]]  [[G0436\|ἀντιστῆναι]]  [[G3588\|τῷ]]  [[G4190\|πονηρῷ.]]  [[G0235\|ἀλλ᾽]]  [[G3748\|ὅστις]]  [[G4771\|σε]]  [[G4474\|ῥαπίζει]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1188\|δεξιὰν]]  [[G4600\|σιαγόνα]]  [[G4771\|σου,]]  [[G4762\|στρέψον]]  [[G0846\|αὐτῷ]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G0243\|ἄλλην·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSAULT AND BATTERY|ASSAULT AND BATTERY]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JUDAISM|JUDAISM]] • [[topic LAW|LAW]] • [[topic MALICE|MALICE]] • [[topic MEEKNESS|MEEKNESS]] • [[topic RELIGION|RELIGION]] • [[topic RETALIATION|RETALIATION]] • [[topic STRIFE|STRIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.38|<< Matthew 5:38]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.40|Matthew 5:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

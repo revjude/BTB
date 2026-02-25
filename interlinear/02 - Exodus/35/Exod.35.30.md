@@ -1,8 +1,73 @@
+---
+title: Exodus 35:30
+type: Verse
+kjv: "And Moses said unto the children of Israel, See, the LORD hath called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah;"
+bsb: "Then Moses said to the Israelites, “See, the LORD has called by name Bezalel son of Uri, the son of Hur, of the tribe of Judah."
+hebrew: "וַיֹּ֤אמֶר מֹשֶׁה֙ אֶל־ בְּנֵ֣י יִשְׂרָאֵ֔ל רְא֛וּ קָרָ֥א יְהוָ֖ה בְּשֵׁ֑ם בְּצַלְאֵ֛ל בֶּן־ אוּרִ֥י בֶן־ ח֖וּר לְמַטֵּ֥ה יְהוּדָֽה׃"
+pericope: "[[Exod.35.30 Bezalel and Oholiab|Bezalel and Oholiab]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 35
+book/chapter: "[[Exod.35|Exodus 35]]"
+chronological_order: 127
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ART|ART]]"
+- "[[topic BEZALEL|BEZALEL]]"
+- "[[topic EMBROIDERY|EMBROIDERY]]"
+- "[[topic GENIUS|GENIUS]]"
+- "[[topic HUR|HUR]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic SMITH|SMITH]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H7200I]]"
+- "[[H7121G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H1212G]]"
+- "[[H1121A]]"
+- "[[H0221G]]"
+- "[[H2354G]]"
+- "[[H9005]]"
+- "[[H4294H]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 35:30**<big><big>[[Exod.35.30 Bezalel and Oholiab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses said unto the children of Israel, See, the LORD hath called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah;
 <small><sub>**BSB:**</sub></small>
 Then Moses said to the Israelites, “See, the LORD has called by name Bezalel son of Uri, the son of Hur, of the tribe of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H4872\|מֹשֶׁה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H7200I\|רְא֛וּ]] [[H7121G\|קָרָ֥א]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בְּ]][[H8034\|שֵׁ֑ם]] [[H1212G\|בְּצַלְאֵ֛ל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0221G\|אוּרִ֥י]] [[H1121A\|בֶן]][[H9014\|־]] [[H2354G\|ח֖וּר]] [[H9005\|לְ]][[H4294H\|מַטֵּ֥ה]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic BEZALEL|BEZALEL]] • [[topic EMBROIDERY|EMBROIDERY]] • [[topic GENIUS|GENIUS]] • [[topic HUR|HUR]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]] • [[topic SMITH|SMITH]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.35.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.29|<< Exodus 35:29]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.31|Exodus 35:31 >>]]</td></tr></table>
 

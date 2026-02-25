@@ -1,8 +1,65 @@
+---
+title: 1 Samuel 22:2
+type: Verse
+kjv: "And every one that was in distress, and every one that was in debt, and every one that was discontented, gathered themselves unto him; and he became a captain over them: and there were with him about four hundred men."
+bsb: "And all who were distressed or indebted or discontented rallied around him, and he became their leader. About four hundred men were with him."
+hebrew: "וַיִּֽתְקַבְּצ֣וּ אֵ֠לָיו כָּל־ אִ֨ישׁ מָצ֜וֹק וְכָל־ אִ֨ישׁ אֲשֶׁר־ ל֤וֹ נֹשֶׁא֙ וְכָל־ אִ֣ישׁ מַר־ נֶ֔פֶשׁ וַיְהִ֥י עֲלֵיהֶ֖ם לְשָׂ֑ר וַיִּהְי֣וּ עִמּ֔וֹ כְּאַרְבַּ֥ע מֵא֖וֹת אִֽישׁ׃"
+pericope: "[[1Sam.22.1 David Flees to Adullam and Mizpeh|David Flees to Adullam and Mizpeh]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 22
+book/chapter: "[[1Sam.22|1 Samuel 22]]"
+chronological_order: 301
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CAPTAIN|CAPTAIN]]"
+- "[[topic INSURGENTS|INSURGENTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6908]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H4689]]"
+- "[[H9002]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H5378]]"
+- "[[H4751]]"
+- "[[H5315G]]"
+- "[[H1961]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H8269]]"
+- "[[H5973A]]"
+- "[[H9004]]"
+- "[[H0702]]"
+- "[[H3967]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 22:2**<big><big>[[1Sam.22.1 David Flees to Adullam and Mizpeh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And every one [that was] in distress, and every one that [was] in debt, and every one [that was] discontented, gathered themselves unto him; and he became a captain over them: and there were with him about four hundred men.
 <small><sub>**BSB:**</sub></small>
 And all who were distressed or indebted or discontented rallied around him, and he became their leader. About four hundred men were with him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6908\|יִּֽתְקַבְּצ֣וּ]] [[H0413\|אֵ֠לָי]][[H9033\|ו]] [[H3605\|כָּל]][[H9014\|־]] [[H0376G\|אִ֨ישׁ]] [[H4689\|מָצ֜וֹק]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0376G\|אִ֨ישׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל֤]][[H9033\|וֹ]] [[H5378\|נֹשֶׁא֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0376G\|אִ֣ישׁ]] [[H4751\|מַר]][[H9014\|־]] [[H5315G\|נֶ֔פֶשׁ]] [[H9001\|וַ]][[H1961\|יְהִ֥י]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֖ם]] [[H9005\|לְ]][[H8269\|שָׂ֑ר]] [[H9001\|וַ]][[H1961\|יִּהְי֣וּ]] [[H5973A\|עִמּ֔]][[H9033\|וֹ]] [[H9004\|כְּ]][[H0702\|אַרְבַּ֥ע]] [[H3967\|מֵא֖וֹת]] [[H0376G\|אִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CAPTAIN|CAPTAIN]] • [[topic INSURGENTS|INSURGENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.22.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.22.1|<< 1 Samuel 22:1]]</td><td align="center" style="border:none;">[[1Sam.22|1 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.22.3|1 Samuel 22:3 >>]]</td></tr></table>
 

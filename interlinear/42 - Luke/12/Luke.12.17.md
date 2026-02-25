@@ -1,10 +1,64 @@
+---
+title: Luke 12:17
+type: Verse
+kjv: "And he thought within himself, saying, What shall I do, because I have no room where to bestow my fruits?"
+bsb: "So he thought to himself, ‘What shall I do, since I have nowhere to store my crops?’"
+jesus_said: "And he thought within himself, saying, What shall I do, because I have no room where to bestow my fruits?"
+greek: "καὶ διελογίζετο ἐν ἑαυτῷ λέγων· τί ποιήσω ὅτι οὐκ ἔχω ποῦ συνάξω τοὺς καρπούς μου;"
+pericope: "[[Luke.12.13 The Parable of the Rich Fool|The Parable of the Rich Fool]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+- "[[topic SELF-INDULGENCE|SELF-INDULGENCE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1260]]"
+- "[[G1722]]"
+- "[[G1438]]"
+- "[[G3004G]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+- "[[G3754H]]"
+- "[[G3756]]"
+- "[[G2192]]"
+- "[[G4226]]"
+- "[[G4863]]"
+- "[[G3588]]"
+- "[[G2590]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **Luke 12:17**<big><big>[[Luke.12.13 The Parable of the Rich Fool|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he thought within himself, saying, What shall I do, because I have no room where to bestow my fruits?
 <small><sub>**BSB:**</sub></small>
 So he thought to himself, ‘What shall I do, since I have nowhere to store my crops?’
-<small><sub>**Literal:**</sub></small>
-And he was reasoning within himself saying; What shall I do for not I have where I will store up the fruits of mine?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.16|<< Luke 12:16]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.18|Luke 12:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1260\|διελογίζετο]]  [[G1722\|ἐν]]  [[G1438\|ἑαυτῷ]]  [[G3004G\|λέγων·]]  [[G5101\|τί]]  [[G4160G\|ποιήσω]]  [[G3754H\|ὅτι]]  [[G3756\|οὐκ]]  [[G2192\|ἔχω]]  [[G4226\|ποῦ]]  [[G4863\|συνάξω]]  [[G3588\|τοὺς]]  [[G2590\|καρπούς]]  [[G3165\|μου;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FOOL|FOOL]] • [[topic HAPPINESS|HAPPINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RICH, THE|RICH, THE]] • [[topic SELF-DELUSION|SELF-DELUSION]] • [[topic SELF-INDULGENCE|SELF-INDULGENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.16|<< Luke 12:16]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.18|Luke 12:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

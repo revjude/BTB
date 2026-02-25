@@ -1,8 +1,58 @@
+---
+title: Isaiah 12:5
+type: Verse
+kjv: "Sing unto the LORD; for he hath done excellent things: this is known in all the earth."
+bsb: "Sing to the LORD, for He has done glorious things. Let this be known in all the earth."
+hebrew: "זַמְּר֣וּ יְהוָ֔ה כִּ֥י גֵא֖וּת עָשָׂ֑ה מוּדַ֥עַת זֹ֖את בְּכָל־ הָאָֽרֶץ׃"
+pericope: "[[Isa.12.1 Joyful Thanksgiving|Joyful Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 12
+book/chapter: "[[Isa.12|Isaiah 12]]"
+chronological_order: 622
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic JOY|JOY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H2167]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H1348]]"
+- "[[H6213A]]"
+- "[[H3045]]"
+- "[[H2063]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Isaiah 12:5**<big><big>[[Isa.12.1 Joyful Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sing unto the LORD; for he hath done excellent things: this [is] known in all the earth.
 <small><sub>**BSB:**</sub></small>
 Sing to the LORD, for He has done glorious things. Let this be known in all the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H2167\|זַמְּר֣וּ]] [[H3068G\|יְהוָ֔ה]] [[H3588A\|כִּ֥י]] [[H1348\|גֵא֖וּת]] [[H6213A\|עָשָׂ֑ה]] [[H3045\|מוּדַ֥עַת]] [[H2063\|זֹ֖את]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOY|JOY]] • [[topic PRAISE|PRAISE]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.12.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.12.4|<< Isaiah 12:4]]</td><td align="center" style="border:none;">[[Isa.12|Isaiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.12.6|Isaiah 12:6 >>]]</td></tr></table>
 

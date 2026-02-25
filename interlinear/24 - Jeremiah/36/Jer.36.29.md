@@ -1,8 +1,75 @@
+---
+title: Jeremiah 36:29
+type: Verse
+kjv: "And thou shalt say to Jehoiakim king of Judah, Thus saith the LORD; Thou hast burned this roll, saying, Why hast thou written therein, saying, The king of Babylon shall certainly come and destroy this land, and shall cause to cease from thence man and beast?"
+bsb: "You are to proclaim concerning Jehoiakim king of Judah that this is what the LORD says: You have burned the scroll and said, ‘Why have you written on it that the king of Babylon would surely come and destroy this land and deprive it of man and beast?’"
+hebrew: "וְעַל־ יְהוֹיָקִ֤ים מֶֽלֶךְ־ יְהוּדָה֙ תֹּאמַ֔ר כֹּ֖ה אָמַ֣ר יְהוָ֑ה אַ֠תָּה שָׂרַ֜פְתָּ אֶת־ הַמְּגִלָּ֤ה הַזֹּאת֙ לֵאמֹ֔ר מַדּוּעַ֩ כָּתַ֨בְתָּ עָלֶ֜יהָ לֵאמֹ֗ר בֹּֽא־ יָב֤וֹא מֶֽלֶךְ־ בָּבֶל֙ וְהִשְׁחִית֙ אֶת־ הָאָ֣רֶץ הַזֹּ֔את וְהִשְׁבִּ֥ית מִמֶּ֖נָּה אָדָ֥ם וּבְהֵמָֽה׃ ס"
+pericope: "[[Jer.36.27 Jeremiah Rewrites the Scroll|Jeremiah Rewrites the Scroll]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 36
+book/chapter: "[[Jer.36|Jeremiah 36]]"
+chronological_order: 759
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic BARUCH|BARUCH]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3079]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H0859A]]"
+- "[[H8313]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H4039]]"
+- "[[H2063]]"
+- "[[H9005]]"
+- "[[H4069]]"
+- "[[H3789]]"
+- "[[H9034]]"
+- "[[H0935G]]"
+- "[[H0894]]"
+- "[[H9001]]"
+- "[[H7843]]"
+- "[[H0776G]]"
+- "[[H7673A]]"
+- "[[H4480A]]"
+- "[[H0120G]]"
+- "[[H0929]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- LA(bh)
+---
+
 **Jeremiah 36:29**<big><big>[[Jer.36.27 Jeremiah Rewrites the Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt say to Jehoiakim king of Judah, Thus saith the LORD; Thou hast burned this roll, saying, Why hast thou written therein, saying, The king of Babylon shall certainly come and destroy this land, and shall cause to cease from thence man and beast?
 <small><sub>**BSB:**</sub></small>
 You are to proclaim concerning Jehoiakim king of Judah that this is what the LORD says: You have burned the scroll and said, ‘Why have you written on it that the king of Babylon would surely come and destroy this land and deprive it of man and beast?’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3079\|יְהוֹיָקִ֤ים]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָה֙]] [[H0559\|תֹּאמַ֔ר]] [[H3541\|כֹּ֖ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֑ה]] [[H0859A\|אַ֠תָּה]] [[H8313\|שָׂרַ֜פְתָּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4039\|מְּגִלָּ֤ה]] [[H9009\|הַ]][[H2063\|זֹּאת֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H4069\|מַדּוּעַ֩]] [[H3789\|כָּתַ֨בְתָּ]] [[H5921A\|עָלֶ֜י]][[H9034\|הָ]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H0935G\|בֹּֽא]][[H9014\|־]] [[H0935G\|יָב֤וֹא]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶל֙]] [[H9001\|וְ]][[H7843\|הִשְׁחִית֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H9001\|וְ]][[H7673A\|הִשְׁבִּ֥ית]] [[H4480A\|מִמֶּ֖]][[H9034\|נָּה]] [[H0120G\|אָדָ֥ם]] [[H9002\|וּ]][[H0929\|בְהֵמָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic BARUCH|BARUCH]] • [[topic JEREMIAH|JEREMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.28|<< Jeremiah 36:28]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.30|Jeremiah 36:30 >>]]</td></tr></table>
 
@@ -37,7 +104,7 @@ You are to proclaim concerning Jehoiakim king of Judah that this is what the LOR
 | and he will cause to cease  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7673A\|הִשְׁבִּ֥ית]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hish.Bit<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from it  |**<big>&#8207;[[H4480A\|מִמֶּ֖]]&#8207;&#8207;[[H9034\|נָּה]]&#8207; </big>**| mi.Me.<small><sup>[[HRd]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | human being  |**<big>&#8207;[[H0120G\|אָדָ֥ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and animal  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H0929\|בְהֵמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.he.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and animal  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H0929\|בְהֵמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.he.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.28|<< Jeremiah 36:28]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.30|Jeremiah 36:30 >>]]</td></tr></table>
 
 [^1]: BH spelled: **<span class="ashebrew"><big>תאמַ֔ר</big></span>**

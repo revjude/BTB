@@ -1,8 +1,61 @@
+---
+title: 1 Chronicles 19:12
+type: Verse
+kjv: "And he said, If the Syrians be too strong for me, then thou shalt help me: but if the children of Ammon be too strong for thee, then I will help thee."
+bsb: "“If the Arameans are too strong for me,” said Joab, “then you will come to my rescue. And if the Ammonites are too strong for you, then I will come to your rescue."
+hebrew: "וַיֹּ֗אמֶר אִם־ תֶּחֱזַ֤ק מִמֶּ֙נִּי֙ אֲרָ֔ם וְהָיִ֥יתָ לִּ֖י לִתְשׁוּעָ֑ה ס וְאִם־ בְּנֵ֥י עַמּ֛וֹן יֶֽחֶזְק֥וּ מִמְּךָ֖ וְהוֹשַׁעְתִּֽיךָ׃"
+pericope: "[[1Chr.19.10 David Defeats Ammon and Aram|David Defeats Ammon and Aram]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 19
+book/chapter: "[[1Chr.19|1 Chronicles 19]]"
+chronological_order: 406
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic HADADEZER|HADADEZER]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic MEDEBA|MEDEBA]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H2388G]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H0758I]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H8668G]]"
+- "[[H9018]]"
+- "[[H9002]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H9031]]"
+- "[[H3467]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 19:12**<big><big>[[1Chr.19.10 David Defeats Ammon and Aram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, If the Syrians be too strong for me, then thou shalt help me: but if the children of Ammon be too strong for thee, then I will help thee.
 <small><sub>**BSB:**</sub></small>
 “If the Arameans are too strong for me,” said Joab, “then you will come to my rescue. And if the Ammonites are too strong for you, then I will come to your rescue.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H0518A\|אִם]][[H9014\|־]] [[H2388G\|תֶּחֱזַ֤ק]] [[H4480A\|מִמֶּ֙]][[H9030\|נִּי֙]] [[H0758I\|אֲרָ֔ם]] [[H9001\|וְ]][[H1961\|הָיִ֥יתָ]] [[H9005\|לִּ֖]][[H9030\|י]] [[H9005\|לִ]][[H8668G\|תְשׁוּעָ֑ה]] [[H9018\|ס]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H5983\|עַמּ֛וֹן]] [[H2388G\|יֶֽחֶזְק֥וּ]] [[H4480A\|מִמְּ]][[H9031\|ךָ֖]] [[H9001\|וְ]][[H3467\|הוֹשַׁעְתִּֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HADADEZER|HADADEZER]] • [[topic JOAB|JOAB]] • [[topic MEDEBA|MEDEBA]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.19.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.19.11|<< 1 Chronicles 19:11]]</td><td align="center" style="border:none;">[[1Chr.19|1 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.19.13|1 Chronicles 19:13 >>]]</td></tr></table>
 
@@ -15,7 +68,7 @@ And he said, If the Syrians be too strong for me, then thou shalt help me: but i
 | Aram  |**<big>&#8207;[[H0758I\|אֲרָ֔ם]]&#8207; </big>**| 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will become  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיִ֥יתָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yi.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for me  |**<big>&#8207;[[H9005\|לִּ֖]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<into> deliverance  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8668G\|תְשׁוּעָ֑ה]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> t.shu.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> deliverance  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8668G\|תְשׁוּעָ֑ה]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> t.shu.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֥י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ammon  |**<big>&#8207;[[H5983\|עַמּ֛וֹן]]&#8207; </big>**| a.Mon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

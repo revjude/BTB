@@ -1,8 +1,64 @@
+---
+title: Genesis 41:1
+type: Verse
+kjv: "And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river."
+bsb: "After two full years had passed, Pharaoh had a dream: He was standing beside the Nile,"
+hebrew: "וַיְהִ֕י מִקֵּ֖ץ שְׁנָתַ֣יִם יָמִ֑ים וּפַרְעֹ֣ה חֹלֵ֔ם וְהִנֵּ֖ה עֹמֵ֥ד עַל־ הַיְאֹֽר׃"
+pericope: "[[Gen.41.1 The Dreams of Pharaoh|The Dreams of Pharaoh]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROMOTION|PROMOTION]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H7093]]"
+- "[[H8141]]"
+- "[[H3117I]]"
+- "[[H9002]]"
+- "[[H6547H]]"
+- "[[H2492B]]"
+- "[[H2009]]"
+- "[[H5975G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2975G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:1**<big><big>[[Gen.41.1 The Dreams of Pharaoh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river.
 <small><sub>**BSB:**</sub></small>
 After two full years had passed, Pharaoh had a dream: He was standing beside the Nile,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֕י]] [[H9006\|מִ]][[H7093\|קֵּ֖ץ]] [[H8141\|שְׁנָתַ֣יִם]] [[H3117I\|יָמִ֑ים]] [[H9002\|וּ]][[H6547H\|פַרְעֹ֣ה]] [[H2492B\|חֹלֵ֔ם]] [[H9002\|וְ]][[H2009\|הִנֵּ֖ה]] [[H5975G\|עֹמֵ֥ד]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H2975G\|יְאֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic HEATHEN|HEATHEN]] • [[topic JOSEPH|JOSEPH]] • [[topic PRISONERS|PRISONERS]] • [[topic PROMOTION|PROMOTION]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.23|<< Genesis 40:23]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.2|Genesis 41:2 >>]]</td></tr></table>
 

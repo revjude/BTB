@@ -1,6 +1,54 @@
+---
+title: LXX Nahum 2:5
+type: Verse
+lxx: "And their great men shall be remembering, and shall flee by day; and they shall be weak in  their goings; and they shall hasten unto the walls, and they shall prepare  their advance guards."
+greek: "και μνησθήσονται οι μεγιστάνες αυτών και φεύξονται ημέρας και ασθενήσουσιν εν τη πορεία αυτών και σπεύσουσιν επί τα τείχη και ετοιμάσουσι τας προφυλακάς αυτών"
+original_language: Greek
+testament: Old
+book: Nahum
+chapter: 2
+book/chapter: "[[Nah.2|Nahum 2]]"
+chronological_order: 709
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[G2532]]"
+- "[[G3403]]"
+- "[[G3588]]"
+- "[[G3175]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G5343]]"
+- "[[G2250]]"
+- "[[G2532]]"
+- "[[G0770]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4197]]"
+- "[[G2532]]"
+- "[[G4692]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G5038]]"
+- "[[G2532]]"
+- "[[G2090]]"
+- "[[G3588]]"
+- "[[G8955]]"
+- "[[G1473]]"
+---
+
 **LXX Nahum 2:5** 
 <small><sub>**LXX:**</sub></small>
 And their great men shall be remembering, and shall flee by day; and they shall be weak in  their goings; and they shall hasten unto the walls, and they shall prepare  their advance guards. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3403\|μνησθήσονται]] [[G3588\|οι]] [[G3175\|μεγιστάνες]] [[G1473\|αυτών]] [[G2532\|και]] [[G5343\|φεύξονται]] [[G2250\|ημέρας]] [[G2532\|και]] [[G0770\|ασθενήσουσιν]] [[G1722\|εν]] [[G3588\|τη]] [[G4197\|πορεία αυτών]] [[G2532\|και]] [[G4692\|σπεύσουσιν]] [[G1909\|επί]] [[G3588\|τα]] [[G5038\|τείχη]] [[G2532\|και]] [[G2090\|ετοιμάσουσι]] [[G3588\|τας]] [[G8955\|προφυλακάς]] [[G1473\|αυτών]]
 <small><sub>**MT:**</sub></small>
 [[Nah.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.2.4|<< Nahum 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.2.6|Nahum 2:6 >>]]</td></tr></table>
 
@@ -28,6 +76,6 @@ And their great men shall be remembering, and shall flee by day; and they shall 
 | \<obj.> | **<big>[[G3588\|τας]]</big>** |
 | advance guards | **<big>[[G8955\|προφυλακάς]]</big>** |
 | their | **<big>[[G1473\|αυτών]]</big>** |
-[[Nah.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.2.4|<< Nahum 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.2.6|Nahum 2:6 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.2.4|<< Nahum 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.2.6|Nahum 2:6 >>]]</td></tr></table>
 
 

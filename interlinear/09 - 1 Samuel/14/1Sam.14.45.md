@@ -1,8 +1,82 @@
+---
+title: 1 Samuel 14:45
+type: Verse
+kjv: "And the people said unto Saul, Shall Jonathan die, who hath wrought this great salvation in Israel? God forbid: as the LORD liveth, there shall not one hair of his head fall to the ground; for he hath wrought with God this day. So the people rescued Jonathan, that he died not."
+bsb: "But the people said to Saul, “Must Jonathan die—he who accomplished such a great deliverance for Israel? Never! As surely as the LORD lives, not a hair of his head will fall to the ground, for with God’s help he has accomplished this today.” So the people rescued Jonathan, and he did not die."
+hebrew: "וַיֹּ֨אמֶר הָעָ֜ם אֶל־ שָׁא֗וּל הֲֽיוֹנָתָ֤ן׀ יָמוּת֙ אֲשֶׁ֣ר עָ֠שָׂה הַיְשׁוּעָ֨ה הַגְּדוֹלָ֣ה הַזֹּאת֮ בְּיִשְׂרָאֵל֒ חָלִ֗ילָה חַי־ יְהוָה֙ אִם־ יִפֹּ֞ל מִשַּׂעֲרַ֤ת רֹאשׁוֹ֙ אַ֔רְצָה כִּֽי־ עִם־ אֱלֹהִ֥ים עָשָׂ֖ה הַיּ֣וֹם הַזֶּ֑ה וַיִּפְדּ֥וּ הָעָ֛ם אֶת־ יוֹנָתָ֖ן וְלֹא־ מֵֽת׃ ס"
+pericope: "[[1Sam.14.37 The People Save Jonathan|The People Save Jonathan]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic KING|KING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7586G]]"
+- "[[H9008]]"
+- "[[H3129N]]"
+- "[[H9015]]"
+- "[[H4191]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H3444]]"
+- "[[H1419A]]"
+- "[[H2063]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H2486]]"
+- "[[H2416A]]"
+- "[[H3068G]]"
+- "[[H0518H]]"
+- "[[H5307G]]"
+- "[[H9006]]"
+- "[[H8185]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H3588A]]"
+- "[[H5973A]]"
+- "[[H0430G]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H6299]]"
+- "[[H0853]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Samuel 14:45**<big><big>[[1Sam.14.37 The People Save Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people said unto Saul, Shall Jonathan die, who hath wrought this great salvation in Israel? God forbid: [as] the LORD liveth, there shall not one hair of his head fall to the ground; for he hath wrought with God this day. So the people rescued Jonathan, that he died not.
 <small><sub>**BSB:**</sub></small>
 But the people said to Saul, “Must Jonathan die—he who accomplished such a great deliverance for Israel? Never! As surely as the LORD lives, not a hair of his head will fall to the ground, for with God’s help he has accomplished this today.” So the people rescued Jonathan, and he did not die.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H9009\|הָ]][[H5971A\|עָ֜ם]] [[H0413\|אֶל]][[H9014\|־]] [[H7586G\|שָׁא֗וּל]] [[H9008\|הֲֽ]][[H3129N\|יוֹנָתָ֤ן]][[H9015\|׀]] [[H4191\|יָמוּת֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213A\|עָ֠שָׂה]] [[H9009\|הַ]][[H3444\|יְשׁוּעָ֨ה]] [[H9009\|הַ]][[H1419A\|גְּדוֹלָ֣ה]] [[H9009\|הַ]][[H2063\|זֹּאת֮]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵל֒]] [[H2486\|חָלִ֗ילָה]] [[H2416A\|חַי]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H0518H\|אִם]][[H9014\|־]] [[H5307G\|יִפֹּ֞ל]] [[H9006\|מִ]][[H8185\|שַּׂעֲרַ֤ת]] [[H7218A\|רֹאשׁ]][[H9023\|וֹ֙]] [[H0776H\|אַ֔רְצָ]][[H9011\|ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5973A\|עִם]][[H9014\|־]] [[H0430G\|אֱלֹהִ֥ים]] [[H6213A\|עָשָׂ֖ה]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9001\|וַ]][[H6299\|יִּפְדּ֥וּ]] [[H9009\|הָ]][[H5971A\|עָ֛ם]] [[H0853\|אֶת]][[H9014\|־]] [[H3129N\|יוֹנָתָ֖ן]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H4191\|מֵֽת]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic JONATHAN|JONATHAN]] • [[topic KING|KING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.44|<< 1 Samuel 14:44]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.46|1 Samuel 14:46 >>]]</td></tr></table>
 
@@ -39,7 +113,7 @@ But the people said to Saul, “Must Jonathan die—he who accomplished such a g
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jonathan  |**<big>&#8207;[[H3129N\|יוֹנָתָ֖ן]]&#8207; </big>**| yo.na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he died  |**<big>&#8207;[[H4191\|מֵֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Met<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he died  |**<big>&#8207;[[H4191\|מֵֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Met<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.44|<< 1 Samuel 14:44]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.46|1 Samuel 14:46 >>]]</td></tr></table>
 
 

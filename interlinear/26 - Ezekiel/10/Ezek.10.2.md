@@ -1,8 +1,71 @@
+---
+title: Ezekiel 10:2
+type: Verse
+kjv: "And he spake unto the man clothed with linen, and said, Go in between the wheels, even under the cherub, and fill thine hand with coals of fire from between the cherubims, and scatter them over the city. And he went in in my sight."
+bsb: "And the LORD said to the man clothed in linen, “Go inside the wheelwork beneath the cherubim. Fill your hands with burning coals from among the cherubim and scatter them over the city.” And as I watched, he went in."
+hebrew: "וַיֹּ֜אמֶר אֶל־ הָאִ֣ישׁ׀ לְבֻ֣שׁ הַבַּדִּ֗ים וַיֹּ֡אמֶר בֹּא֩ אֶל־ בֵּינ֨וֹת לַגַּלְגַּ֜ל אֶל־ תַּ֣חַת לַכְּר֗וּב וּמַלֵּ֨א חָפְנֶ֤יךָ גַֽחֲלֵי־ אֵשׁ֙ מִבֵּינ֣וֹת לַכְּרֻבִ֔ים וּזְרֹ֖ק עַל־ הָעִ֑יר וַיָּבֹ֖א לְעֵינָֽי׃"
+pericope: "[[Ezek.10.1 God’s Glory Exits the Temple|God’s Glory Exits the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 10
+book/chapter: "[[Ezek.10|Ezekiel 10]]"
+chronological_order: 801
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H9015]]"
+- "[[H3847]]"
+- "[[H0906]]"
+- "[[H0935G]]"
+- "[[H0996H]]"
+- "[[H9005]]"
+- "[[H1534]]"
+- "[[H8478G]]"
+- "[[H3742]]"
+- "[[H9002]]"
+- "[[H4390]]"
+- "[[H2651]]"
+- "[[H9021]]"
+- "[[H1513]]"
+- "[[H0784]]"
+- "[[H9006]]"
+- "[[H2236]]"
+- "[[H5921A]]"
+- "[[H5892B]]"
+- "[[H5869J]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 10:2**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he spake unto the man clothed with linen, and said, Go in between the wheels, [even] under the cherub, and fill thine hand with coals of fire from between the cherubims, and scatter [them] over the city. And he went in in my sight.
 <small><sub>**BSB:**</sub></small>
 And the LORD said to the man clothed in linen, “Go inside the wheelwork beneath the cherubim. Fill your hands with burning coals from among the cherubim and scatter them over the city.” And as I watched, he went in.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֜אמֶר]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֣ישׁ]][[H9015\|׀]] [[H3847\|לְבֻ֣שׁ]] [[H9009\|הַ]][[H0906\|בַּדִּ֗ים]] [[H9001\|וַ]][[H0559\|יֹּ֡אמֶר]] [[H0935G\|בֹּא֩]] [[H0413\|אֶל]][[H9014\|־]] [[H0996H\|בֵּינ֨וֹת]] [[H9005\|לַ]][[H1534\|גַּלְגַּ֜ל]] [[H0413\|אֶל]][[H9014\|־]] [[H8478G\|תַּ֣חַת]] [[H9005\|לַ]][[H3742\|כְּר֗וּב]] [[H9002\|וּ]][[H4390\|מַלֵּ֨א]] [[H2651\|חָפְנֶ֤י]][[H9021\|ךָ]] [[H1513\|גַֽחֲלֵי]][[H9014\|־]] [[H0784\|אֵשׁ֙]] [[H9006\|מִ]][[H0996H\|בֵּינ֣וֹת]] [[H9005\|לַ]][[H3742\|כְּרֻבִ֔ים]] [[H9002\|וּ]][[H2236\|זְרֹ֖ק]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֑יר]] [[H9001\|וַ]][[H0935G\|יָּבֹ֖א]] [[H9005\|לְ]][[H5869J\|עֵינָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.1|<< Ezekiel 10:1]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.3|Ezekiel 10:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

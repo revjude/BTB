@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sorcery Forbidden
+type: Pericope
 pericope: "[[Deut.18.9 Sorcery Forbidden|Sorcery Forbidden]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 18
 book/chapter: "[[Deut.18|Deuteronomy 18]]"
-genre:
+chronological_order: 214
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 6
 verses:
 - "[[Deut.18.9]]"
 - "[[Deut.18.10]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Deut.18.14]]"
 ---
 
-[[Deut.18|Deuteronomy 18:9 - Deuteronomy 18:14]]
+<small>[[Deut.18|Deuteronomy 18:9-14]]</small>
 *Sorcery Forbidden*
 
 [[Deut.18.9|9]] When thou art come into the land which the LORD thy God giveth thee, thou shalt not learn to do after the abominations of those nations.

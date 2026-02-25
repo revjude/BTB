@@ -1,10 +1,79 @@
+---
+title: Revelation 14:4
+type: Verse
+kjv: "These are they which were not defiled with women; for they are virgins. These are they which follow the Lamb whithersoever he goeth. These were redeemed from among men, being the firstfruits unto God and to the Lamb."
+bsb: "These are the ones who have not been defiled with women, for they are virgins. They follow the Lamb wherever He goes. They have been redeemed from among men as firstfruits to God and to the Lamb."
+greek: "οὗτοί εἰσιν οἳ μετὰ γυναικῶν οὐκ ἐμολύνθησαν, παρθένοι γάρ εἰσιν· οὗτοι εἰσιν οἱ ἀκολουθοῦντες τῷ ἀρνίῳ ὅπου ἂν ὑπάγῃ· οὗτοι ὑπὸ Ἰησοῦ ἠγοράσθησαν ἀπὸ τῶν ἀνθρώπων, ἀπαρχὴ τῷ θεῷ καὶ τῷ ἀρνίῳ·"
+pericope: "[[Rev.14.1 The Lamb and the 144,000|The Lamb and the 144,000]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 14
+book/chapter: "[[Rev.14|Revelation 14]]"
+chronological_order: 1181
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CELIBACY|CELIBACY]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAMB OF GOD|LAMB OF GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SONG|SONG]]"
+- "[[topic VIRGIN|VIRGIN]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3739]]"
+- "[[G3326]]"
+- "[[G1135G]]"
+- "[[G3756]]"
+- "[[G3435]]"
+- "[[G3933]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G0190]]"
+- "[[G0721]]"
+- "[[G3699]]"
+- "[[G0302]]"
+- "[[G5217]]"
+- "[[G5259G]]"
+- "[[G2424G]]"
+- "[[G0059]]"
+- "[[G0575]]"
+- "[[G0444]]"
+- "[[G0536]]"
+- "[[G2316]]"
+- "[[G2532]]"
+texts:
+- NKO
+- k
+- NK(o)
+- O
+---
+
 **Revelation 14:4**<big><big>[[Rev.14.1 The Lamb and the 144,000|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 These are they which were not defiled with women; for they are virgins. These are they which follow the Lamb whithersoever he goeth. These were redeemed from among men, [being] the firstfruits unto God and to the Lamb.
 <small><sub>**BSB:**</sub></small>
 These are the ones who have not been defiled with women, for they are virgins. They follow the Lamb wherever He goes. They have been redeemed from among men as firstfruits to God and to the Lamb.
-<small><sub>**Literal:**</sub></small>
-These are they who with women not was defiled, pure for they are; these are those following after the Lamb wherever maybe He may go; These by Jesus were redeemed out from <the> men [as] firstfruits <the> to God and to the Lamb;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.3|<< Revelation 14:3]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.5|Revelation 14:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτοί]]  [[G1510\|εἰσιν]]  [[G3739\|οἳ]]  [[G3326\|μετὰ]]  [[G1135G\|γυναικῶν]]  [[G3756\|οὐκ]]  [[G3435\|ἐμολύνθησαν,]]  [[G3933\|παρθένοι]]  [[G1063\|γάρ]]  [[G1510\|εἰσιν·]]  [[G3778\|οὗτοι]]  [[G1510\|εἰσιν]]  [[G3588\|οἱ]]  [[G0190\|ἀκολουθοῦντες]]  [[G3588\|τῷ]]  [[G0721\|ἀρνίῳ]]  [[G3699\|ὅπου]]  [[G0302\|ἂν]]  [[G5217\|ὑπάγῃ·]]  [[G3778\|οὗτοι]]  [[G5259G\|ὑπὸ]]  [[G2424G\|Ἰησοῦ]]  [[G0059\|ἠγοράσθησαν]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G0444\|ἀνθρώπων,]]  [[G0536\|ἀπαρχὴ]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G2532\|καὶ]]  [[G3588\|τῷ]]  [[G0721\|ἀρνίῳ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CELIBACY|CELIBACY]] • [[topic CHASTITY|CHASTITY]] • [[topic CONTINENCE|CONTINENCE]] • [[topic DECISION|DECISION]] • [[topic HOLINESS|HOLINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAMB OF GOD|LAMB OF GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SONG|SONG]] • [[topic VIRGIN|VIRGIN]] • [[topic VISION|VISION]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.3|<< Revelation 14:3]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.5|Revelation 14:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

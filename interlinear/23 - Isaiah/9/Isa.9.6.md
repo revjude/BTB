@@ -1,8 +1,76 @@
+---
+title: Isaiah 9:6
+type: Verse
+kjv: "For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counseller, The mighty God, The everlasting Father, The Prince of Peace."
+bsb: "For unto us a child is born, unto us a son is given, and the government will be upon His shoulders. And He will be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace."
+hebrew: "כִּי־ יֶ֣לֶד יֻלַּד־ לָ֗נוּ בֵּ֚ן נִתַּן־ לָ֔נוּ וַתְּהִ֥י הַמִּשְׂרָ֖ה עַל־ שִׁכְמ֑וֹ וַיִּקְרָ֨א שְׁמ֜וֹ פֶּ֠לֶא יוֹעֵץ֙ אֵ֣ל גִּבּ֔וֹר אֲבִיעַ֖ד שַׂר־ שָׁלֽוֹם׃"
+pericope: "[[Isa.9.1 Unto Us a Child Is Born|Unto Us a Child Is Born]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 9
+book/chapter: "[[Isa.9|Isaiah 9]]"
+chronological_order: 619
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COUNSELLOR|COUNSELLOR]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic WONDERFUL|WONDERFUL]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3206]]"
+- "[[H3205]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H1121A]]"
+- "[[H5414G]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H4951]]"
+- "[[H5921A]]"
+- "[[H7926]]"
+- "[[H9023]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H6382]]"
+- "[[H3289]]"
+- "[[H0410G]]"
+- "[[H1368]]"
+- "[[H0001G]]"
+- "[[H5703]]"
+- "[[H8269]]"
+- "[[H7965G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 9:6**<big><big>[[Isa.9.1 Unto Us a Child Is Born|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counseller, The mighty God, The everlasting Father, The Prince of Peace.
 <small><sub>**BSB:**</sub></small>
 For unto us a child is born, unto us a son is given, and the government will be upon His shoulders. And He will be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H3206\|יֶ֣לֶד]] [[H3205\|יֻלַּד]][[H9014\|־]] [[H9005\|לָ֗]][[H9035\|נוּ]] [[H1121A\|בֵּ֚ן]] [[H5414G\|נִתַּן]][[H9014\|־]] [[H9005\|לָ֔]][[H9035\|נוּ]] [[H9001\|וַ]][[H1961\|תְּהִ֥י]] [[H9009\|הַ]][[H4951\|מִּשְׂרָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H7926\|שִׁכְמ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H7121H\|יִּקְרָ֨א]] [[H8034\|שְׁמ֜]][[H9023\|וֹ]] [[H6382\|פֶּ֠לֶא]] [[H3289\|יוֹעֵץ֙]] [[H0410G\|אֵ֣ל]] [[H1368\|גִּבּ֔וֹר]] [[H0001G\|אֲבִי]][[H5703\|עַ֖ד]] [[H8269\|שַׂר]][[H9014\|־]] [[H7965G\|שָׁלֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COUNSELLOR|COUNSELLOR]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISAIAH|ISAIAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PEACE|PEACE]] • [[topic WONDERFUL|WONDERFUL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.5|<< Isaiah 9:5]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.7|Isaiah 9:7 >>]]</td></tr></table>
 

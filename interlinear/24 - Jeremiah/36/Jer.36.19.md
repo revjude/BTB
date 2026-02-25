@@ -1,8 +1,61 @@
+---
+title: Jeremiah 36:19
+type: Verse
+kjv: "Then said the princes unto Baruch, Go, hide thee, thou and Jeremiah; and let no man know where ye be."
+bsb: "Then the officials said to Baruch, “You and Jeremiah must hide yourselves and tell no one where you are.”"
+hebrew: "וַיֹּאמְר֤וּ הַשָּׂרִים֙ אֶל־ בָּר֔וּךְ לֵ֥ךְ הִסָּתֵ֖ר אַתָּ֣ה וְיִרְמְיָ֑הוּ וְאִ֥ישׁ אַל־ יֵדַ֖ע אֵיפֹ֥ה אַתֶּֽם׃"
+pericope: "[[Jer.36.11 Jeremiah’s Scroll Read in the Palace|Jeremiah’s Scroll Read in the Palace]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 36
+book/chapter: "[[Jer.36|Jeremiah 36]]"
+chronological_order: 759
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BARUCH|BARUCH]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H8269]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1263J]]"
+- "[[H1980G]]"
+- "[[H5641]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H3414L]]"
+- "[[H0376I]]"
+- "[[H0408]]"
+- "[[H3045]]"
+- "[[H0375]]"
+- "[[H0859D]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 36:19**<big><big>[[Jer.36.11 Jeremiah’s Scroll Read in the Palace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said the princes unto Baruch, Go, hide thee, thou and Jeremiah; and let no man know where ye be.
 <small><sub>**BSB:**</sub></small>
 Then the officials said to Baruch, “You and Jeremiah must hide yourselves and tell no one where you are.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֤וּ]] [[H9009\|הַ]][[H8269\|שָּׂרִים֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1263J\|בָּר֔וּךְ]] [[H1980G\|לֵ֥ךְ]] [[H5641\|הִסָּתֵ֖ר]] [[H0859A\|אַתָּ֣ה]] [[H9002\|וְ]][[H3414L\|יִרְמְיָ֑הוּ]] [[H9002\|וְ]][[H0376I\|אִ֥ישׁ]] [[H0408\|אַל]][[H9014\|־]] [[H3045\|יֵדַ֖ע]] [[H0375\|אֵיפֹ֥ה]] [[H0859D\|אַתֶּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARUCH|BARUCH]] • [[topic JEREMIAH|JEREMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.18|<< Jeremiah 36:18]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.20|Jeremiah 36:20 >>]]</td></tr></table>
 

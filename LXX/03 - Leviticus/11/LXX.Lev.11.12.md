@@ -1,6 +1,59 @@
+---
+title: LXX Leviticus 11:12
+type: Verse
+lxx: "And all as many as there are not fins to them, nor scales of the ones in the waters -- this is an abomination to you."
+greek: "και πάντα όσα ουκ έστιν αυτοίς πτερύγια ουδέ λεπίδες των εν τοις ύδασι βδέλυγμα τούτό εστιν υμίν"
+original_language: Greek
+testament: Old
+book: Leviticus
+chapter: 11
+book/chapter: "[[Lev.11|Leviticus 11]]"
+chronological_order: 143
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic FISH|FISH]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3745]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G1473]]"
+- "[[G4419]]"
+- "[[G3761]]"
+- "[[G3013]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G5204]]"
+- "[[G0946]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G1473]]"
+---
+
 **LXX Leviticus 11:12** 
 <small><sub>**LXX:**</sub></small>
 And all as many as there are not fins to them, nor scales of the ones in the waters -- this is an abomination to you. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3956\|πάντα]] [[G3745\|όσα]] [[G3756\|ουκ]] [[G1510\|έστιν]] [[G1473\|αυτοίς]] [[G4419\|πτερύγια]] [[G3761\|ουδέ]] [[G3013\|λεπίδες]] [[G3588\|των]] [[G1722\|εν]] [[G3588\|τοις]] [[G5204\|ύδασι]] [[G0946\|βδέλυγμα]] [[G3778\|τούτό]] [[G1510\|εστιν]] [[G1473\|υμίν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FISH|FISH]] • [[topic FOOD|FOOD]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**MT:**</sub></small>
 [[Lev.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.11|<< Leviticus 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.13|Leviticus 11:13 >>]]</td></tr></table>
 
@@ -21,6 +74,6 @@ And all as many as there are not fins to them, nor scales of the ones in the wat
 | this | **<big>[[G3778\|τούτό]]</big>** |
 | is | **<big>[[G1510\|εστιν]]</big>** |
 | to you. | **<big>[[G1473\|υμίν]]</big>** |
-[[Lev.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.11|<< Leviticus 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.13|Leviticus 11:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.11|<< Leviticus 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.13|Leviticus 11:13 >>]]</td></tr></table>
 
 

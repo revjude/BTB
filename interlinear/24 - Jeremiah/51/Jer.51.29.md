@@ -1,8 +1,62 @@
+---
+title: Jeremiah 51:29
+type: Verse
+kjv: "And the land shall tremble and sorrow: for every purpose of the LORD shall be performed against Babylon, to make the land of Babylon a desolation without an inhabitant."
+bsb: "The earth quakes and writhes because the LORD’s intentions against Babylon stand: to make the land of Babylon a desolation, without inhabitant."
+hebrew: "וַתִּרְעַ֥שׁ הָאָ֖רֶץ וַתָּחֹ֑ל כִּ֣י קָ֤מָה עַל־ בָּבֶל֙ מַחְשְׁב֣וֹת יְהוָ֔ה לָשׂ֞וּם אֶת־ אֶ֧רֶץ בָּבֶ֛ל לְשַׁמָּ֖ה מֵאֵ֥ין יוֹשֵֽׁב׃"
+pericope: "[[Jer.51.20 Babylon’s Punishment|Babylon’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[H9001]]"
+- "[[H7493]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2342I]]"
+- "[[H3588A]]"
+- "[[H6965I]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0894]]"
+- "[[H4284]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H7760A]]"
+- "[[H0853]]"
+- "[[H8047G]]"
+- "[[H9006]]"
+- "[[H0369]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 51:29**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the land shall tremble and sorrow: for every purpose of the LORD shall be performed against Babylon, to make the land of Babylon a desolation without an inhabitant.
 <small><sub>**BSB:**</sub></small>
 The earth quakes and writhes because the LORD’s intentions against Babylon stand: to make the land of Babylon a desolation, without inhabitant.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7493\|תִּרְעַ֥שׁ]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9001\|וַ]][[H2342I\|תָּחֹ֑ל]] [[H3588A\|כִּ֣י]] [[H6965I\|קָ֤מָה]] [[H5921A\|עַל]][[H9014\|־]] [[H0894\|בָּבֶל֙]] [[H4284\|מַחְשְׁב֣וֹת]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לָ]][[H7760A\|שׂ֞וּם]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אֶ֧רֶץ]] [[H0894\|בָּבֶ֛ל]] [[H9005\|לְ]][[H8047G\|שַׁמָּ֖ה]] [[H9006\|מֵ]][[H0369\|אֵ֥ין]] [[H3427\|יוֹשֵֽׁב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSIA|PERSIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.28|<< Jeremiah 51:28]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.30|Jeremiah 51:30 >>]]</td></tr></table>
 

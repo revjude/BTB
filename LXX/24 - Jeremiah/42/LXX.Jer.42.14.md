@@ -1,6 +1,62 @@
+---
+title: LXX Jeremiah 42:14
+type: Verse
+lxx: "saying, Far be it, for we shall enter into the land of Egypt, and in no way should we know war, and in no way should we hear the sound of a trumpet, and in no way should we hunger in bread loaves, and we shall live there."
+greek: "λέγοντες μηδαμώς ότι εις γην Αιγύπτου εισελευσόμεθα και ου μη είδωμεν πόλεμον και φωνήν σάλπιγγος ου μη ακούσωμεν και εν άρτοις ου μη πεινάσωμεν και εκεί οικήσομεν"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 42
+book/chapter: "[[Jer.42|Jeremiah 42]]"
+chronological_order: 765
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[G3004]]"
+- "[[G3365]]"
+- "[[G3754]]"
+- "[[G1519]]"
+- "[[G1093]]"
+- "[[G0125]]"
+- "[[G1525]]"
+- "[[G2532]]"
+- "[[G3364]]"
+- "[[G1492]]"
+- "[[G4171]]"
+- "[[G2532]]"
+- "[[G5456]]"
+- "[[G4536]]"
+- "[[G3364]]"
+- "[[G0191]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G0740]]"
+- "[[G3364]]"
+- "[[G3983]]"
+- "[[G2532]]"
+- "[[G1563]]"
+- "[[G3611]]"
+---
+
 **LXX Jeremiah 42:14** 
 <small><sub>**LXX:**</sub></small>
 saying, Far be it, for we shall enter into \[the\] land of Egypt, and in no way should we know war, and in no way should we hear \[the\] sound of a trumpet, and in no way should we hunger in bread loaves, and we shall live there. 
+<small><sub>**Greek:**</sub></small>
+[[G3004\|λέγοντες]] [[G3365\|μηδαμώς]] [[G3754\|ότι]] [[G1519\|εις]] [[G1093\|γην]] [[G0125\|Αιγύπτου]] [[G1525\|εισελευσόμεθα]] [[G2532\|και]] [[G3364\|ου μη]] [[G1492\|είδωμεν]] [[G4171\|πόλεμον]] [[G2532\|και]] [[G5456\|φωνήν]] [[G4536\|σάλπιγγος]] [[G3364\|ου μη]] [[G0191\|ακούσωμεν]] [[G2532\|και]] [[G1722\|εν]] [[G0740\|άρτοις]] [[G3364\|ου μη]] [[G3983\|πεινάσωμεν]] [[G2532\|και]] [[G1563\|εκεί]] [[G3611\|οικήσομεν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.42.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.13|<< Jeremiah 42:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.15|Jeremiah 42:15 >>]]</td></tr></table>
 
@@ -29,6 +85,6 @@ saying, Far be it, for we shall enter into \[the\] land of Egypt, and in no way 
 | should we hunger | **<big>[[G3983\|πεινάσωμεν]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | we shall live there. | **<big>[[G1563\|εκεί]]</big>** **<big>[[G3611\|οικήσομεν]]</big>** |
-[[Jer.42.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.13|<< Jeremiah 42:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.15|Jeremiah 42:15 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.13|<< Jeremiah 42:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.15|Jeremiah 42:15 >>]]</td></tr></table>
 
 

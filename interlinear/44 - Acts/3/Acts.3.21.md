@@ -1,10 +1,63 @@
+---
+title: Acts 3:21
+type: Verse
+kjv: "Whom the heaven must receive until the times of restitution of all things, which God hath spoken by the mouth of all his holy prophets since the world began."
+bsb: "Heaven must take Him in until the time comes for the restoration of all things, which God announced long ago through His holy prophets."
+greek: "ὃν δεῖ οὐρανὸν μὲν δέξασθαι ἄχρι χρόνων ἀποκαταστάσεως πάντων ὧν ἐλάλησεν ὁ θεὸς διὰ στόματος πάντων τῶν ἁγίων ἀπ᾽ αἰῶνος αὐτοῦ προφητῶν.¶"
+pericope: "[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|Peter Speaks in Solomon’s Colonnade]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 3
+book/chapter: "[[Acts.3|Acts 3]]"
+chronological_order: 1021
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RESTORATION|RESTORATION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3739]]"
+- "[[G1163]]"
+- "[[G3772]]"
+- "[[G3303]]"
+- "[[G1209]]"
+- "[[G0891]]"
+- "[[G5550]]"
+- "[[G0605]]"
+- "[[G3956]]"
+- "[[G2980]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1223]]"
+- "[[G4750]]"
+- "[[G0040G]]"
+- "[[G0575]]"
+- "[[G0165H]]"
+- "[[G0846]]"
+- "[[G4396]]"
+texts:
+- NKO
+- K
+---
+
 **Acts 3:21**<big><big>[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whom the heaven must receive until the times of restitution of all things, which God hath spoken by the mouth of all his holy prophets since the world began.
 <small><sub>**BSB:**</sub></small>
 Heaven must take Him in until the time comes for the restoration of all things, which God announced long ago through His holy prophets.
-<small><sub>**Literal:**</sub></small>
-whom it behooves heaven indeed to receive until [the] times of restoration of all things of which spoke <the> God through [the] mouth of all the holy from [the] age of Him prophets.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.20|<< Acts 3:20]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.22|Acts 3:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃν]]  [[G1163\|δεῖ]]  [[G3772\|οὐρανὸν]]  [[G3303\|μὲν]]  [[G1209\|δέξασθαι]]  [[G0891\|ἄχρι]]  [[G5550\|χρόνων]]  [[G0605\|ἀποκαταστάσεως]]  [[G3956\|πάντων]]  [[G3739\|ὧν]]  [[G2980\|ἐλάλησεν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1223\|διὰ]]  [[G4750\|στόματος]]  [[G3956\|πάντων]]  [[G3588\|τῶν]]  [[G0040G\|ἁγίων]]  [[G0575\|ἀπ᾽]]  [[G0165H\|αἰῶνος]]  [[G0846\|αὐτοῦ]]  [[G4396\|προφητῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURAGE|COURAGE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RESTORATION|RESTORATION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.20|<< Acts 3:20]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.22|Acts 3:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

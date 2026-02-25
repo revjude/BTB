@@ -1,8 +1,62 @@
+---
+title: Jeremiah 33:4
+type: Verse
+kjv: "For thus saith the LORD, the God of Israel, concerning the houses of this city, and concerning the houses of the kings of Judah, which are thrown down by the mounts, and by the sword;"
+bsb: "For this is what the LORD, the God of Israel, says about the houses of this city and the palaces of the kings of Judah that have been torn down for defense against the siege ramps and the sword:"
+hebrew: "כִּי֩ כֹ֨ה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל עַל־ בָּתֵּי֙ הָעִ֣יר הַזֹּ֔את וְעַל־ בָּתֵּ֖י מַלְכֵ֣י יְהוּדָ֑ה הַנְּתֻצִ֕ים אֶל־ הַסֹּלְל֖וֹת וְאֶל־ הֶחָֽרֶב׃"
+pericope: "[[Jer.33.1 The Excellence of the Restored Nation|The Excellence of the Restored Nation]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 33
+book/chapter: "[[Jer.33|Jeremiah 33]]"
+chronological_order: 756
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ARMIES|ARMIES]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H9002]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H5422]]"
+- "[[H0413]]"
+- "[[H5550]]"
+- "[[H2719]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 33:4**<big><big>[[Jer.33.1 The Excellence of the Restored Nation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD, the God of Israel, concerning the houses of this city, and concerning the houses of the kings of Judah, which are thrown down by the mounts, and by the sword;
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD, the God of Israel, says about the houses of this city and the palaces of the kings of Judah that have been torn down for defense against the siege ramps and the sword:
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H3541\|כֹ֨ה]] [[H0559\|אָמַ֤ר]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H5921A\|עַל]][[H9014\|־]] [[H1004B\|בָּתֵּי֙]] [[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H1004B\|בָּתֵּ֖י]] [[H4428G\|מַלְכֵ֣י]] [[H3063G\|יְהוּדָ֑ה]] [[H9009\|הַ]][[H5422\|נְּתֻצִ֕ים]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H5550\|סֹּלְל֖וֹת]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הֶ]][[H2719\|חָֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.33.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.3|<< Jeremiah 33:3]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.5|Jeremiah 33:5 >>]]</td></tr></table>
 

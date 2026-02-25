@@ -1,8 +1,73 @@
+---
+title: Judges 6:26
+type: Verse
+kjv: "And build an altar unto the LORD thy God upon the top of this rock, in the ordered place, and take the second bullock, and offer a burnt sacrifice with the wood of the grove which thou shalt cut down."
+bsb: "Then build a proper altar to the LORD your God on the top of this stronghold. And with the wood of the Asherah pole you cut down, take the second bull and offer it as a burnt offering.”"
+hebrew: "וּבָנִ֨יתָ מִזְבֵּ֜חַ לַיהוָ֣ה אֱלֹהֶ֗יךָ עַ֣ל רֹ֧אשׁ הַמָּע֛וֹז הַזֶּ֖ה בַּמַּֽעֲרָכָ֑ה וְלָֽקַחְתָּ֙ אֶת־ הַפָּ֣ר הַשֵּׁנִ֔י וְהַעֲלִ֣יתָ עוֹלָ֔ה בַּעֲצֵ֥י הָאֲשֵׁרָ֖ה אֲשֶׁ֥ר תִּכְרֹֽת׃"
+pericope: "[[Judg.6.25 Gideon Destroys Baal’s Altar|Gideon Destroys Baal’s Altar]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 6
+book/chapter: "[[Judg.6|Judges 6]]"
+chronological_order: 260
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic BAAL|BAAL]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic GIDEON|GIDEON]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H4196]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H7218I]]"
+- "[[H9009]]"
+- "[[H4581]]"
+- "[[H2088]]"
+- "[[H9003]]"
+- "[[H4634]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6499]]"
+- "[[H8145]]"
+- "[[H5927I]]"
+- "[[H5930A]]"
+- "[[H6086G]]"
+- "[[H0842]]"
+- "[[H0834A]]"
+- "[[H3772G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 6:26**<big><big>[[Judg.6.25 Gideon Destroys Baal’s Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And build an altar unto the LORD thy God upon the top of this rock, in the ordered place, and take the second bullock, and offer a burnt sacrifice with the wood of the grove which thou shalt cut down.
 <small><sub>**BSB:**</sub></small>
 Then build a proper altar to the LORD your God on the top of this stronghold. And with the wood of the Asherah pole you cut down, take the second bull and offer it as a burnt offering.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H1129\|בָנִ֨יתָ]] [[H4196\|מִזְבֵּ֜חַ]] [[H9005\|לַ]][[H3068G\|יהוָ֣ה]] [[H0430G\|אֱלֹהֶ֗י]][[H9021\|ךָ]] [[H5921A\|עַ֣ל]] [[H7218I\|רֹ֧אשׁ]] [[H9009\|הַ]][[H4581\|מָּע֛וֹז]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H9003\|בַּ]][[H4634\|מַּֽעֲרָכָ֑ה]] [[H9001\|וְ]][[H3947G\|לָֽקַחְתָּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6499\|פָּ֣ר]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֔י]] [[H9001\|וְ]][[H5927I\|הַעֲלִ֣יתָ]] [[H5930A\|עוֹלָ֔ה]] [[H9003\|בַּ]][[H6086G\|עֲצֵ֥י]] [[H9009\|הָ]][[H0842\|אֲשֵׁרָ֖ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H3772G\|תִּכְרֹֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic BAAL|BAAL]] • [[topic COURAGE|COURAGE]] • [[topic DECISION|DECISION]] • [[topic GIDEON|GIDEON]] • [[topic JUDGE|JUDGE]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.25|<< Judges 6:25]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.27|Judges 6:27 >>]]</td></tr></table>
 

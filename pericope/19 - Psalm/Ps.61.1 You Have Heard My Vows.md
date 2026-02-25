@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: You Have Heard My Vows
+type: Pericope
 pericope: "[[Ps.61.1 You Have Heard My Vows|You Have Heard My Vows]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 61
 book/chapter: "[[Ps.61|Psalm 61]]"
-genre:
+chronological_order: 372
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 9
 verses:
 - "[[Ps.61.0]]"
 - "[[Ps.61.1]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Ps.61.8]]"
 ---
 
-[[Ps.61|Psalm 61:1 - Psalm 61:8]]
+<small>[[Ps.61|Psalm 61:1-8]]</small>
 *You Have Heard My Vows*
 
 [[Ps.61.0|0]] To the chief Musician upon Neginah, \[A Psalm\] of David.

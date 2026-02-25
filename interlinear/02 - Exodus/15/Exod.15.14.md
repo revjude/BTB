@@ -1,8 +1,65 @@
+---
+title: Exodus 15:14
+type: Verse
+kjv: "The people shall hear, and be afraid: sorrow shall take hold on the inhabitants of Palestina."
+bsb: "The nations will hear and tremble; anguish will grip the dwellers of Philistia."
+hebrew: "שָֽׁמְע֥וּ עַמִּ֖ים יִרְגָּז֑וּן חִ֣יל אָחַ֔ז יֹשְׁבֵ֖י פְּלָֽשֶׁת׃"
+pericope: "[[Exod.15.1 The Song at the Sea|The Song at the Sea]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 15
+book/chapter: "[[Exod.15|Exodus 15]]"
+chronological_order: 107
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic EPIC|EPIC]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PANIC|PANIC]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SONG|SONG]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H8085G]]"
+- "[[H5971A]]"
+- "[[H7264]]"
+- "[[H9013]]"
+- "[[H2427A]]"
+- "[[H0270]]"
+- "[[H3427]]"
+- "[[H6429]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 15:14**<big><big>[[Exod.15.1 The Song at the Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The people shall hear, [and] be afraid: sorrow shall take hold on the inhabitants of Palestina.
 <small><sub>**BSB:**</sub></small>
 The nations will hear and tremble; anguish will grip the dwellers of Philistia.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שָֽׁמְע֥וּ]] [[H5971A\|עַמִּ֖ים]] [[H7264\|יִרְגָּז֑וּ]][[H9013\|ן]] [[H2427A\|חִ֣יל]] [[H0270\|אָחַ֔ז]] [[H3427\|יֹשְׁבֵ֖י]] [[H6429\|פְּלָֽשֶׁת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic EPIC|EPIC]] • [[topic FAITH|FAITH]] • [[topic JOY|JOY]] • [[topic PANIC|PANIC]] • [[topic POETRY|POETRY]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SONG|SONG]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.15.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.13|<< Exodus 15:13]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.15|Exodus 15:15 >>]]</td></tr></table>
 

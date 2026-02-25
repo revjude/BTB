@@ -1,10 +1,57 @@
+---
+title: Hebrews 6:2
+type: Verse
+kjv: "Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment."
+bsb: "instruction about baptisms, the laying on of hands, the resurrection of the dead, and eternal judgment."
+greek: "βαπτισμῶν διδαχῆς, ἐπιθέσεώς τε χειρῶν, ἀναστάσεώς τε νεκρῶν, καὶ κρίματος αἰωνίου."
+pericope: "[[Heb.6.1 A Call to Maturity|A Call to Maturity]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 6
+book/chapter: "[[Heb.6|Hebrews 6]]"
+chronological_order: 1145
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic HAND|HAND]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G0909]]"
+- "[[G1322]]"
+- "[[G1936]]"
+- "[[G5037]]"
+- "[[G5495]]"
+- "[[G0386]]"
+- "[[G3498]]"
+- "[[G2532]]"
+- "[[G2917]]"
+- "[[G0166]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Hebrews 6:2**<big><big>[[Heb.6.1 A Call to Maturity|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.
 <small><sub>**BSB:**</sub></small>
 instruction about baptisms, the laying on of hands, the resurrection of the dead, and eternal judgment.
-<small><sub>**Literal:**</sub></small>
-about baptisms about teaching, about laying on then of hands, about [the] resurrection both of [the] dead and about judgment eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.1|<< Hebrews 6:1]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.3|Hebrews 6:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0909\|βαπτισμῶν]]  [[G1322\|διδαχῆς,]]  [[G1936\|ἐπιθέσεώς]]  [[G5037\|τε]]  [[G5495\|χειρῶν,]]  [[G0386\|ἀναστάσεώς]]  [[G5037\|τε]]  [[G3498\|νεκρῶν,]]  [[G2532\|καὶ]]  [[G2917\|κρίματος]]  [[G0166\|αἰωνίου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic HAND|HAND]] • [[topic JUDGMENT|JUDGMENT]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic RESURRECTION|RESURRECTION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.1|<< Hebrews 6:1]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.3|Hebrews 6:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

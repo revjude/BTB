@@ -1,10 +1,60 @@
+---
+title: Luke 21:21
+type: Verse
+kjv: "Then let them which are in Judaea flee to the mountains; and let them which are in the midst of it depart out; and let not them that are in the countries enter thereinto."
+bsb: "Then let those who are in Judea flee to the mountains, let those in the city get out, and let those in the country stay out of the city."
+jesus_said: "Then let them which are in Judea flee to the mountains; and let them which are in the midst of it depart out; and let not them that are in the countries enter thereinto."
+greek: "τότε οἱ ἐν τῇ Ἰουδαίᾳ φευγέτωσαν εἰς τὰ ὄρη, καὶ οἱ ἐν μέσῳ αὐτῆς ἐκχωρείτωσαν, καὶ οἱ ἐν ταῖς χώραις μὴ εἰσερχέσθωσαν εἰς αὐτήν."
+pericope: "[[Luke.21.20 The Destruction of Jerusalem|The Destruction of Jerusalem]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 21
+book/chapter: "[[Luke.21|Luke 21]]"
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G5119]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G2449]]"
+- "[[G5343]]"
+- "[[G1519]]"
+- "[[G3735]]"
+- "[[G2532]]"
+- "[[G3319]]"
+- "[[G0846]]"
+- "[[G1633]]"
+- "[[G5561]]"
+- "[[G3361]]"
+- "[[G1525]]"
+texts:
+- NKO
+---
+
 **Luke 21:21**<big><big>[[Luke.21.20 The Destruction of Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then let them which are in Judaea flee to the mountains; and let them which are in the midst of it depart out; and let not them that are in the countries enter thereinto.
 <small><sub>**BSB:**</sub></small>
 Then let those who are in Judea flee to the mountains, let those in the city get out, and let those in the country stay out of the city.
-<small><sub>**Literal:**</sub></small>
-Then those in <the> Judea they should flee to the mountains, and those in midst of her they should depart out, and those in the countries not they should enter into her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.20|<< Luke 21:20]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.22|Luke 21:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|τότε]]  [[G3588\|οἱ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2449\|Ἰουδαίᾳ]]  [[G5343\|φευγέτωσαν]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G3735\|ὄρη,]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G1722\|ἐν]]  [[G3319\|μέσῳ]]  [[G0846\|αὐτῆς]]  [[G1633\|ἐκχωρείτωσαν,]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G5561\|χώραις]]  [[G3361\|μὴ]]  [[G1525\|εἰσερχέσθωσαν]]  [[G1519\|εἰς]]  [[G0846\|αὐτήν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WAR|WAR]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.20|<< Luke 21:20]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.22|Luke 21:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

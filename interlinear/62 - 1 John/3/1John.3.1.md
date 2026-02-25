@@ -1,10 +1,68 @@
+---
+title: 1 John 3:1
+type: Verse
+kjv: "Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not."
+bsb: "Behold what manner of love the Father has given to us, that we should be called children of God. And that is what we are! The reason the world does not know us is that it did not know Him."
+greek: "ἴδετε ποταπὴν ἀγάπην δέδωκεν ἡμῖν ὁ πατήρ, ἵνα τέκνα θεοῦ κληθῶμεν καὶ ἐσμέν. διὰ τοῦτο ὁ κόσμος οὐ γινώσκει ἡμᾶς, ὅτι οὐκ ἔγνω αὐτόν.¶"
+pericope: "[[1John.3.1 Children of God|Children of God]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 3
+book/chapter: "[[1John.3|1 John 3]]"
+chronological_order: 1163
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMAGE|IMAGE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[G1492H]]"
+- "[[G4217]]"
+- "[[G0026]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G2443]]"
+- "[[G5043]]"
+- "[[G2316]]"
+- "[[G2564G]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G2889]]"
+- "[[G3756]]"
+- "[[G1097]]"
+- "[[G3754H]]"
+- "[[G0846]]"
+texts:
+- NKO
+- NO
+- NK(O)
+---
+
 **1 John 3:1**<big><big>[[1John.3.1 Children of God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.
 <small><sub>**BSB:**</sub></small>
 Behold what manner of love the Father has given to us, that we should be called children of God. And that is what we are! The reason the world does not know us is that it did not know Him.
-<small><sub>**Literal:**</sub></small>
-Behold what love has given to us the Father, that children of God we may be called — and we are! Because of this the world not knows us, because not it knew Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.29|<< 1 John 2:29]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.2|1 John 3:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1492H\|ἴδετε]]  [[G4217\|ποταπὴν]]  [[G0026\|ἀγάπην]]  [[G1325\|δέδωκεν]]  [[G3165\|ἡμῖν]]  [[G3588\|ὁ]]  [[G3962\|πατήρ,]]  [[G2443\|ἵνα]]  [[G5043\|τέκνα]]  [[G2316\|θεοῦ]]  [[G2564G\|κληθῶμεν]]  [[G2532\|καὶ]]  [[G1510\|ἐσμέν.]]  [[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G3588\|ὁ]]  [[G2889\|κόσμος]]  [[G3756\|οὐ]]  [[G1097\|γινώσκει]]  [[G3165\|ἡμᾶς,]]  [[G3754H\|ὅτι]]  [[G3756\|οὐκ]]  [[G1097\|ἔγνω]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic BLINDNESS|BLINDNESS]] • [[topic GOD|GOD]] • [[topic IMAGE|IMAGE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.29|<< 1 John 2:29]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.2|1 John 3:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,71 @@
+---
+title: Leviticus 21:8
+type: Verse
+kjv: "Thou shalt sanctify him therefore; for he offereth the bread of thy God: he shall be holy unto thee: for I the LORD, which sanctify you, am holy."
+bsb: "You are to regard him as holy, since he presents the food of your God. He shall be holy to you, because I the LORD am holy—I who set you apart."
+hebrew: "וְקִדַּשְׁתּ֔וֹ כִּֽי־ אֶת־ לֶ֥חֶם אֱלֹהֶ֖יךָ ה֣וּא מַקְרִ֑יב קָדֹשׁ֙ יִֽהְיֶה־ לָּ֔ךְ כִּ֣י קָד֔וֹשׁ אֲנִ֥י יְהוָ֖ה מְקַדִּשְׁכֶֽם׃"
+pericope: "[[Lev.21.1 Holiness Required of Priests|Holiness Required of Priests]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 21
+book/chapter: "[[Lev.21|Leviticus 21]]"
+chronological_order: 153
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic BREAD|BREAD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic UNCLEANNESS|UNCLEANNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6942G]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0853]]"
+- "[[H3899H]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H1931]]"
+- "[[H7126H]]"
+- "[[H6918G]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 21:8**<big><big>[[Lev.21.1 Holiness Required of Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt sanctify him therefore; for he offereth the bread of thy God: he shall be holy unto thee: for I the LORD, which sanctify you, [am] holy.
 <small><sub>**BSB:**</sub></small>
 You are to regard him as holy, since he presents the food of your God. He shall be holy to you, because I the LORD am holy—I who set you apart.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6942G\|קִדַּשְׁתּ֔]][[H9033\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0853\|אֶת]][[H9014\|־]] [[H3899H\|לֶ֥חֶם]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H1931\|ה֣וּא]] [[H7126H\|מַקְרִ֑יב]] [[H6918G\|קָדֹשׁ֙]] [[H1961\|יִֽהְיֶה]][[H9014\|־]] [[H9005\|לָּ֔]][[H9032\|ךְ]] [[H3588A\|כִּ֣י]] [[H6918G\|קָד֔וֹשׁ]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָ֖ה]] [[H6942G\|מְקַדִּשְׁ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic BREAD|BREAD]] • [[topic GOD|GOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MOURNING|MOURNING]] • [[topic PRIEST|PRIEST]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic UNCLEANNESS|UNCLEANNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.21.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.21.7|<< Leviticus 21:7]]</td><td align="center" style="border:none;">[[Lev.21|Leviticus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.21.9|Leviticus 21:9 >>]]</td></tr></table>
 

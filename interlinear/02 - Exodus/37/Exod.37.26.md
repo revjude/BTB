@@ -1,8 +1,62 @@
+---
+title: Exodus 37:26
+type: Verse
+kjv: "And he overlaid it with pure gold, both the top of it, and the sides thereof round about, and the horns of it: also he made unto it a crown of gold round about."
+bsb: "And he overlaid with pure gold the top and all the sides and horns. Then he made a molding of gold around it."
+hebrew: "וַיְצַ֨ף אֹת֜וֹ זָהָ֣ב טָה֗וֹר אֶת־ גַּגּ֧וֹ וְאֶת־ קִירֹתָ֛יו סָבִ֖יב וְאֶת־ קַרְנֹתָ֑יו וַיַּ֥עַשׂ ל֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב׃"
+pericope: "[[Exod.37.25 The Altar of Incense|The Altar of Incense]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 37
+book/chapter: "[[Exod.37|Exodus 37]]"
+chronological_order: 129
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H6823]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H2091]]"
+- "[[H2889]]"
+- "[[H9014]]"
+- "[[H1406]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H7023]]"
+- "[[H5439G]]"
+- "[[H7161A]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H2213]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 37:26**<big><big>[[Exod.37.25 The Altar of Incense|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he overlaid it with pure gold, [both] the top of it, and the sides thereof round about, and the horns of it: also he made unto it a crown of gold round about.
 <small><sub>**BSB:**</sub></small>
 And he overlaid with pure gold the top and all the sides and horns. Then he made a molding of gold around it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6823\|יְצַ֨ף]] [[H0853\|אֹת֜]][[H9033\|וֹ]] [[H2091\|זָהָ֣ב]] [[H2889\|טָה֗וֹר]] [[H0853\|אֶת]][[H9014\|־]] [[H1406\|גַּגּ֧]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7023\|קִירֹתָ֛י]][[H9023\|ו]] [[H5439G\|סָבִ֖יב]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7161A\|קַרְנֹתָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H6213H\|יַּ֥עַשׂ]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H2213\|זֵ֥ר]] [[H2091\|זָהָ֖ב]] [[H5439G\|סָבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.25|<< Exodus 37:25]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.27|Exodus 37:27 >>]]</td></tr></table>
 

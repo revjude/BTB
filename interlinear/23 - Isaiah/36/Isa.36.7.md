@@ -1,8 +1,66 @@
+---
+title: Isaiah 36:7
+type: Verse
+kjv: "But if thou say to me, We trust in the LORD our God: is it not he, whose high places and whose altars Hezekiah hath taken away, and said to Judah and to Jerusalem, Ye shall worship before this altar?"
+bsb: "But if you say to me, ‘We trust in the LORD our God,’ is He not the One whose high places and altars Hezekiah has removed, saying to Judah and Jerusalem, ‘You must worship before this altar’?"
+hebrew: "וְכִי־ תֹאמַ֣ר אֵלַ֔י אֶל־ יְהוָ֥ה אֱלֹהֵ֖ינוּ בָּטָ֑חְנוּ הֲלוֹא־ ה֗וּא אֲשֶׁ֨ר הֵסִ֤יר חִזְקִיָּ֙הוּ֙ אֶת־ בָּמֹתָ֣יו וְאֶת־ מִזְבְּחֹתָ֔יו וַיֹּ֤אמֶר לִֽיהוּדָה֙ וְלִיר֣וּשָׁלִַ֔ם לִפְנֵ֛י הַמִּזְבֵּ֥חַ הַזֶּ֖ה תִּֽשְׁתַּחֲוֽוּ׃"
+pericope: "[[Isa.36.1 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 36
+book/chapter: "[[Isa.36|Isaiah 36]]"
+chronological_order: 663
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H0982]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H1931]]"
+- "[[H0834A]]"
+- "[[H5493G]]"
+- "[[H2396G]]"
+- "[[H0853]]"
+- "[[H1116]]"
+- "[[H9023]]"
+- "[[H4196]]"
+- "[[H9001]]"
+- "[[H9005]]"
+- "[[H3063G]]"
+- "[[H3389]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H7812]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 36:7**<big><big>[[Isa.36.1 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if thou say to me, We trust in the LORD our God: [is it] not he, whose high places and whose altars Hezekiah hath taken away, and said to Judah and to Jerusalem, Ye shall worship before this altar?
 <small><sub>**BSB:**</sub></small>
 But if you say to me, ‘We trust in the LORD our God,’ is He not the One whose high places and altars Hezekiah has removed, saying to Judah and Jerusalem, ‘You must worship before this altar’?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִי]][[H9014\|־]] [[H0559\|תֹאמַ֣ר]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵ֖י]][[H9025\|נוּ]] [[H0982\|בָּטָ֑חְנוּ]] [[H9008\|הֲ]][[H3808\|לוֹא]][[H9014\|־]] [[H1931\|ה֗וּא]] [[H0834A\|אֲשֶׁ֨ר]] [[H5493G\|הֵסִ֤יר]] [[H2396G\|חִזְקִיָּ֙הוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1116\|בָּמֹתָ֣י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4196\|מִזְבְּחֹתָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|לִֽ]][[H3063G\|יהוּדָה֙]] [[H9002\|וְ]][[H9005\|לִ]][[H3389\|יר֣וּשָׁלִַ֔ם]] [[H9005\|לִ]][[H6440G\|פְנֵ֛י]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֥חַ]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H7812\|תִּֽשְׁתַּחֲוֽוּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.36.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.36.6|<< Isaiah 36:6]]</td><td align="center" style="border:none;">[[Isa.36|Isaiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.36.8|Isaiah 36:8 >>]]</td></tr></table>
 

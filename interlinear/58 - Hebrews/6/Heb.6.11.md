@@ -1,10 +1,58 @@
+---
+title: Hebrews 6:11
+type: Verse
+kjv: "And we desire that every one of you do shew the same diligence to the full assurance of hope unto the end:"
+bsb: "We want each of you to show this same diligence to the very end, in order to make your hope sure."
+greek: "ἐπιθυμοῦμεν δὲ ἕκαστον ὑμῶν τὴν αὐτὴν ἐνδείκνυσθαι σπουδὴν πρὸς τὴν πληροφορίαν τῆς ἐλπίδος ἄχρι τέλους·"
+pericope: "[[Heb.6.1 A Call to Maturity|A Call to Maturity]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 6
+book/chapter: "[[Heb.6|Hebrews 6]]"
+chronological_order: 1145
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DILIGENCE|DILIGENCE]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+strongs:
+- "[[G1937]]"
+- "[[G1161]]"
+- "[[G1538]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G0846]]"
+- "[[G1731]]"
+- "[[G4710]]"
+- "[[G4314]]"
+- "[[G4136]]"
+- "[[G1680]]"
+- "[[G0891]]"
+- "[[G5056]]"
+texts:
+- NKO
+---
+
 **Hebrews 6:11**<big><big>[[Heb.6.1 A Call to Maturity|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And we desire that every one of you do shew the same diligence to the full assurance of hope unto the end:
 <small><sub>**BSB:**</sub></small>
 We want each of you to show this same diligence to the very end, in order to make your hope sure.
-<small><sub>**Literal:**</sub></small>
-We desire now each of you the same to show earnestness toward the full assurance of the hope unto [the] end;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.10|<< Hebrews 6:10]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.12|Hebrews 6:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1937\|ἐπιθυμοῦμεν]]  [[G1161\|δὲ]]  [[G1538\|ἕκαστον]]  [[G4771\|ὑμῶν]]  [[G3588\|τὴν]]  [[G0846\|αὐτὴν]]  [[G1731\|ἐνδείκνυσθαι]]  [[G4710\|σπουδὴν]]  [[G4314\|πρὸς]]  [[G3588\|τὴν]]  [[G4136\|πληροφορίαν]]  [[G3588\|τῆς]]  [[G1680\|ἐλπίδος]]  [[G0891\|ἄχρι]]  [[G5056\|τέλους·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSURANCE|ASSURANCE]] • [[topic BLESSING|BLESSING]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DILIGENCE|DILIGENCE]] • [[topic HOPE|HOPE]] • [[topic PERSEVERANCE|PERSEVERANCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.10|<< Hebrews 6:10]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.12|Hebrews 6:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

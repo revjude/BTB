@@ -1,8 +1,71 @@
+---
+title: 1 Chronicles 22:5
+type: Verse
+kjv: "And David said, Solomon my son is young and tender, and the house that is to be builded for the LORD must be exceeding magnifical, of fame and of glory throughout all countries: I will therefore now make preparation for it. So David prepared abundantly before his death."
+bsb: "And David said, “My son Solomon is young and inexperienced, and the house to be built for the LORD must be exceedingly magnificent—famous and glorious throughout all lands. Therefore I must make preparations for it.” So David made lavish preparations before his death."
+hebrew: "וַיֹּ֣אמֶר דָּוִ֗יד שְׁלֹמֹ֣ה בְנִי֮ נַ֣עַר וָרָךְ֒ וְהַבַּ֜יִת לִבְנ֣וֹת לַיהוָ֗ה לְהַגְדִּ֨יל׀ לְמַ֜עְלָה לְשֵׁ֤ם וּלְתִפְאֶ֙רֶת֙ לְכָל־ הָ֣אֲרָצ֔וֹת אָכִ֥ינָה נָּ֖א ל֑וֹ וַיָּ֧כֶן דָּוִ֛יד לָרֹ֖ב לִפְנֵ֥י מוֹתֽוֹ׃"
+pericope: "[[1Chr.22.1 Preparations for the Temple|Preparations for the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 22
+book/chapter: "[[1Chr.22|1 Chronicles 22]]"
+chronological_order: 433
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H8010]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H5288]]"
+- "[[H9002]]"
+- "[[H7390]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H9005]]"
+- "[[H1129]]"
+- "[[H3068G]]"
+- "[[H1431]]"
+- "[[H9015]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H8034]]"
+- "[[H8597]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H3559A]]"
+- "[[H4994]]"
+- "[[H9033]]"
+- "[[H7230]]"
+- "[[H6440G]]"
+- "[[H4194]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 22:5**<big><big>[[1Chr.22.1 Preparations for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said, Solomon my son [is] young and tender, and the house [that is] to be builded for the LORD [must be] exceeding magnifical, of fame and of glory throughout all countries: I will [therefore] now make preparation for it. So David prepared abundantly before his death.
 <small><sub>**BSB:**</sub></small>
 And David said, “My son Solomon is young and inexperienced, and the house to be built for the LORD must be exceedingly magnificent—famous and glorious throughout all lands. Therefore I must make preparations for it.” So David made lavish preparations before his death.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H1732\|דָּוִ֗יד]] [[H8010\|שְׁלֹמֹ֣ה]] [[H1121A\|בְנִ]][[H9020\|י֮]] [[H5288\|נַ֣עַר]] [[H9002\|וָ]][[H7390\|רָךְ֒]] [[H9002\|וְ]][[H9009\|הַ]][[H1004B\|בַּ֜יִת]] [[H9005\|לִ]][[H1129\|בְנ֣וֹת]] [[H9005\|לַ]][[H3068G\|יהוָ֗ה]] [[H9005\|לְ]][[H1431\|הַגְדִּ֨יל]][[H9015\|׀]] [[H9005\|לְ]][[H4605\|מַ֜עְלָ]][[H9011\|ה]] [[H9005\|לְ]][[H8034\|שֵׁ֤ם]] [[H9002\|וּ]][[H9005\|לְ]][[H8597\|תִפְאֶ֙רֶת֙]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ֣]][[H0776G\|אֲרָצ֔וֹת]] [[H3559A\|אָכִ֥ינָה]] [[H4994\|נָּ֖א]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H3559A\|יָּ֧כֶן]] [[H1732\|דָּוִ֛יד]] [[H9005\|לָ]][[H7230\|רֹ֖ב]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H4194\|מוֹתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MUSIC|MUSIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.22.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.22.4|<< 1 Chronicles 22:4]]</td><td align="center" style="border:none;">[[1Chr.22|1 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.22.6|1 Chronicles 22:6 >>]]</td></tr></table>
 

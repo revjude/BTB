@@ -1,8 +1,61 @@
+---
+title: 2 Chronicles 26:3
+type: Verse
+kjv: "Sixteen years old was Uzziah when he began to reign, and he reigned fifty and two years in Jerusalem. His mother’s name also was Jecoliah of Jerusalem."
+bsb: "Uzziah was sixteen years old when he became king, and he reigned in Jerusalem fifty-two years. His mother’s name was Jecoliah; she was from Jerusalem."
+hebrew: "בֶּן־ שֵׁ֨שׁ עֶשְׂרֵ֤ה שָׁנָה֙ עֻזִּיָּ֣הוּ בְמָלְכ֔וֹ וַחֲמִשִּׁ֤ים וּשְׁתַּ֙יִם֙ שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלִָ֑ם וְשֵׁ֣ם אִמּ֔וֹ יְכָלְיָ֖ה מִן־ יְרוּשָׁלִָֽם׃"
+pericope: "[[2Chr.26.1 Uzziah Reigns in Judah|Uzziah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 26
+book/chapter: "[[2Chr.26|2 Chronicles 26]]"
+chronological_order: 593
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JECHOLIAH|JECHOLIAH]]"
+- "[[topic UZZIAH|UZZIAH]]"
+strongs:
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H8337]]"
+- "[[H6240]]"
+- "[[H8141]]"
+- "[[H5818G]]"
+- "[[H9003]]"
+- "[[H4427A]]"
+- "[[H9043]]"
+- "[[H9002]]"
+- "[[H2572]]"
+- "[[H8147]]"
+- "[[H3389]]"
+- "[[H8034]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H3203]]"
+- "[[H4480A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Chronicles 26:3**<big><big>[[2Chr.26.1 Uzziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sixteen years old [was] Uzziah when he began to reign, and he reigned fifty and two years in Jerusalem. His mother’s name also [was] Jecoliah of Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Uzziah was sixteen years old when he became king, and he reigned in Jerusalem fifty-two years. His mother’s name was Jecoliah; she was from Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121L\|בֶּן]][[H9014\|־]] [[H8337\|שֵׁ֨שׁ]] [[H6240\|עֶשְׂרֵ֤ה]] [[H8141\|שָׁנָה֙]] [[H5818G\|עֻזִּיָּ֣הוּ]] [[H9003\|בְ]][[H4427A\|מָלְכ֔]][[H9043\|וֹ]] [[H9002\|וַ]][[H2572\|חֲמִשִּׁ֤ים]] [[H9002\|וּ]][[H8147\|שְׁתַּ֙יִם֙]] [[H8141\|שָׁנָ֔ה]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H8034\|שֵׁ֣ם]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H3203\|יְכָלְיָ֖ה]] [[H4480A\|מִן]][[H9014\|־]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JECHOLIAH|JECHOLIAH]] • [[topic UZZIAH|UZZIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.26.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.2|<< 2 Chronicles 26:2]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.4|2 Chronicles 26:4 >>]]</td></tr></table>
 

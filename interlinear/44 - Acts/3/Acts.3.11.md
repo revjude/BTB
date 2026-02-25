@@ -1,10 +1,64 @@
+---
+title: Acts 3:11
+type: Verse
+kjv: "And as the lame man which was healed held Peter and John, all the people ran together unto them in the porch that is called Solomon’s, greatly wondering."
+bsb: "While the man clung to Peter and John, all the people were astonished and ran to them in the walkway called Solomon’s Colonnade."
+greek: "κρατοῦντος δὲ αὐτοῦ ἰαθέντος χωλοῦ τὸν Πέτρον καὶ τὸν Ἰωάννην συνέδραμεν πᾶς ὁ λαὸς πρὸς αὐτοὺς ἐπὶ τῇ στοᾷ τῇ καλουμένῃ Σολομῶντος ἔκθαμβοι."
+pericope: "[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|Peter Speaks in Solomon’s Colonnade]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 3
+book/chapter: "[[Acts.3|Acts 3]]"
+chronological_order: 1021
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic JOHN|JOHN]]"
+- "[[topic LAMENESS|LAMENESS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SOLOMON'S PORCH|SOLOMON'S PORCH]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2902]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G2390]]"
+- "[[G5560]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G2532]]"
+- "[[G2491H]]"
+- "[[G4936]]"
+- "[[G3956]]"
+- "[[G2992]]"
+- "[[G4314]]"
+- "[[G1909]]"
+- "[[G4745]]"
+- "[[G2564G]]"
+- "[[G4672H]]"
+- "[[G1569]]"
+texts:
+- NKO
+- N(k)O
+- K
+- no
+---
+
 **Acts 3:11**<big><big>[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as the lame man which was healed held Peter and John, all the people ran together unto them in the porch that is called Solomon’s, greatly wondering.
 <small><sub>**BSB:**</sub></small>
 While the man clung to Peter and John, all the people were astonished and ran to them in the walkway called Solomon’s Colonnade.
-<small><sub>**Literal:**</sub></small>
-When is clinging now he having been healed lame [one] <the> to Peter and <the> John ran together all the people to them in the porch which is being called Solomon’s greatly amazed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.10|<< Acts 3:10]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.12|Acts 3:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2902\|κρατοῦντος]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῦ]]  [[G2390\|ἰαθέντος]]  [[G5560\|χωλοῦ]]  [[G3588\|τὸν]]  [[G4074G\|Πέτρον]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G2491H\|Ἰωάννην]]  [[G4936\|συνέδραμεν]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G2992\|λαὸς]]  [[G4314\|πρὸς]]  [[G0846\|αὐτοὺς]]  [[G1909\|ἐπὶ]]  [[G3588\|τῇ]]  [[G4745\|στοᾷ]]  [[G3588\|τῇ]]  [[G2564G\|καλουμένῃ]]  [[G4672H\|Σολομῶντος]]  [[G1569\|ἔκθαμβοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOHN|JOHN]] • [[topic LAMENESS|LAMENESS]] • [[topic MIRACLES|MIRACLES]] • [[topic SOLOMON'S PORCH|SOLOMON'S PORCH]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.10|<< Acts 3:10]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.12|Acts 3:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

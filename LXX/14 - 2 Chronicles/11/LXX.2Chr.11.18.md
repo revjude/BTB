@@ -1,6 +1,57 @@
+---
+title: LXX 2 Chronicles 11:18
+type: Verse
+lxx: "And Rehoboam took to himself for a wife  Mahalath daughter of Jerimoth son of David, and Abihail daughter of Eliab son of Jesse."
+greek: "και έλαβεν εαυτώ Ροβοάμ γυναίκα την Μαελλέθ θυγατέρα Ιεριμούθ υιού Δαυίδ και Αβιχαϊλ θυγατέρα Ελιάβ υιου Ιεσσαί"
+original_language: Greek
+testament: Old
+book: 2 Chronicles
+chapter: 11
+book/chapter: "[[2Chr.11|2 Chronicles 11]]"
+chronological_order: 557
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- septuagint
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ABIHAIL|ABIHAIL]]"
+- "[[topic INCEST|INCEST]]"
+- "[[topic JERIMOTH|JERIMOTH]]"
+- "[[topic MAHALATH|MAHALATH]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+strongs:
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[G1438]]"
+- "[[G4497]]"
+- "[[G1135]]"
+- "[[G3588]]"
+- "[[H4258]]"
+- "[[G2364]]"
+- "[[H3406]]"
+- "[[G5207]]"
+- "[[G4622]]"
+- "[[G2532]]"
+- "[[H0032]]"
+- "[[G2364]]"
+- "[[H0446]]"
+- "[[G5207]]"
+- "[[G2421]]"
+---
+
 **LXX 2 Chronicles 11:18** 
 <small><sub>**LXX:**</sub></small>
 And Rehoboam took to himself for a wife  Mahalath daughter of Jerimoth son of David, and Abihail daughter of Eliab son of Jesse. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2983\|έλαβεν]] [[G1438\|εαυτώ]] [[G4497\|Ροβοάμ]] [[G1135\|γυναίκα]] [[G3588\|την]] [[H4258\|Μαελλέθ]] [[G2364\|θυγατέρα]] [[H3406\|Ιεριμούθ]] [[G5207\|υιού]] [[G4622\|Δαυίδ]] [[G2532\|και]] [[H0032\|Αβιχαϊλ]] [[G2364\|θυγατέρα]] [[H0446\|Ελιάβ]] [[G5207\|υιου]] [[G2421\|Ιεσσαί]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIHAIL|ABIHAIL]] • [[topic INCEST|INCEST]] • [[topic JERIMOTH|JERIMOTH]] • [[topic MAHALATH|MAHALATH]] • [[topic POLYGAMY|POLYGAMY]] • [[topic REHOBOAM|REHOBOAM]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Chr.11.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.11.17|<< 2 Chronicles 11:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.11.19|2 Chronicles 11:19 >>]]</td></tr></table>
 
@@ -23,6 +74,6 @@ And Rehoboam took to himself for a wife  Mahalath daughter of Jerimoth son of Da
 | of Eliab | **<big>[[H0446\|Ελιάβ]]</big>** |
 | son | **<big>[[G5207\|υιου]]</big>** |
 | of Jesse. | **<big>[[G2421\|Ιεσσαί]]</big>** |
-[[2Chr.11.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.11.17|<< 2 Chronicles 11:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.11.19|2 Chronicles 11:19 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.11.17|<< 2 Chronicles 11:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.11.19|2 Chronicles 11:19 >>]]</td></tr></table>
 
 

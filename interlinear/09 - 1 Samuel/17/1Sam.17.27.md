@@ -1,8 +1,58 @@
+---
+title: 1 Samuel 17:27
+type: Verse
+kjv: "And the people answered him after this manner, saying, So shall it be done to the man that killeth him."
+bsb: "The people told him about the offer, saying, “That is what will be done for the man who kills him.”"
+hebrew: "וַיֹּ֤אמֶר לוֹ֙ הָעָ֔ם כַּדָּבָ֥ר הַזֶּ֖ה לֵאמֹ֑ר כֹּ֣ה יֵעָשֶׂ֔ה לָאִ֖ישׁ אֲשֶׁ֥ר יַכֶּֽנּוּ׃"
+pericope: "[[1Sam.17.12 David Accepts the Challenge|David Accepts the Challenge]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHAMPIONSHIP|CHAMPIONSHIP]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic JESSE|JESSE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9004]]"
+- "[[H1697O]]"
+- "[[H2088]]"
+- "[[H3541]]"
+- "[[H6213A]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H5221]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 17:27**<big><big>[[1Sam.17.12 David Accepts the Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people answered him after this manner, saying, So shall it be done to the man that killeth him.
 <small><sub>**BSB:**</sub></small>
 The people told him about the offer, saying, “That is what will be done for the man who kills him.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9004\|כַּ]][[H1697O\|דָּבָ֥ר]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3541\|כֹּ֣ה]] [[H6213A\|יֵעָשֶׂ֔ה]] [[H9005\|לָ]][[H0376G\|אִ֖ישׁ]] [[H0834A\|אֲשֶׁ֥ר]] [[H5221\|יַכֶּֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CHAMPIONSHIP|CHAMPIONSHIP]] • [[topic DECISION|DECISION]] • [[topic JESSE|JESSE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.26|<< 1 Samuel 17:26]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.28|1 Samuel 17:28 >>]]</td></tr></table>
 

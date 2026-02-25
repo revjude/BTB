@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sons of Jacob
+type: Pericope
 pericope: "[[Gen.35.21 The Sons of Jacob|The Sons of Jacob]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 35
 book/chapter: "[[Gen.35|Genesis 35]]"
-genre:
+chronological_order: 77
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 6
 verses:
 - "[[Gen.35.21]]"
 - "[[Gen.35.22]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Gen.35.26]]"
 ---
 
-[[Gen.35|Genesis 35:21 - Genesis 35:26]]
+<small>[[Gen.35|Genesis 35:21-26]]</small>
 *The Sons of Jacob*
 
 [[Gen.35.21|21]] And Israel journeyed, and spread his tent beyond the tower of Edar.

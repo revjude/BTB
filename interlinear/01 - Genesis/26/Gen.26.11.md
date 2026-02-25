@@ -1,8 +1,67 @@
+---
+title: Genesis 26:11
+type: Verse
+kjv: "And Abimelech charged all his people, saying, He that toucheth this man or his wife shall surely be put to death."
+bsb: "So Abimelech warned all the people, saying, “Whoever harms this man or his wife will surely be put to death.”"
+hebrew: "וַיְצַ֣ו אֲבִימֶ֔לֶךְ אֶת־ כָּל־ הָעָ֖ם לֵאמֹ֑ר הַנֹּגֵ֜עַ בָּאִ֥ישׁ הַזֶּ֛ה וּבְאִשְׁתּ֖וֹ מ֥וֹת יוּמָֽת׃"
+pericope: "[[Gen.26.6 Isaac Deceives Abimelech|Isaac Deceives Abimelech]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 26
+book/chapter: "[[Gen.26|Genesis 26]]"
+chronological_order: 68
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H0040G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H5060]]"
+- "[[H9003]]"
+- "[[H0376G]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 26:11**<big><big>[[Gen.26.6 Isaac Deceives Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abimelech charged all [his] people, saying, He that toucheth this man or his wife shall surely be put to death.
 <small><sub>**BSB:**</sub></small>
 So Abimelech warned all the people, saying, “Whoever harms this man or his wife will surely be put to death.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַ֣ו]] [[H0040G\|אֲבִימֶ֔לֶךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H9009\|הַ]][[H5060\|נֹּגֵ֜עַ]] [[H9003\|בָּ]][[H0376G\|אִ֥ישׁ]] [[H9009\|הַ]][[H2088\|זֶּ֛ה]] [[H9002\|וּ]][[H9003\|בְ]][[H0802H\|אִשְׁתּ֖]][[H9023\|וֹ]] [[H4191\|מ֥וֹת]] [[H4191\|יוּמָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic INTEGRITY|INTEGRITY]] • [[topic ISAAC|ISAAC]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.10|<< Genesis 26:10]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.12|Genesis 26:12 >>]]</td></tr></table>
 

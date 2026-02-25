@@ -1,10 +1,53 @@
+---
+title: Ephesians 1:23
+type: Verse
+kjv: "Which is his body, the fulness of him that filleth all in all."
+bsb: "which is His body, the fullness of Him who fills all in all."
+greek: "ἥτις ἐστὶν τὸ σῶμα αὐτοῦ, τὸ πλήρωμα τοῦ τὰ πάντα ἐν πᾶσιν πληρουμένου.¶"
+pericope: "[[Eph.1.15 Spiritual Wisdom|Spiritual Wisdom]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 1
+book/chapter: "[[Eph.1|Ephesians 1]]"
+chronological_order: 1111
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G3748]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G4983]]"
+- "[[G0846]]"
+- "[[G4138]]"
+- "[[G3956]]"
+- "[[G1722]]"
+- "[[G4137]]"
+texts:
+- NKO
+---
+
 **Ephesians 1:23**<big><big>[[Eph.1.15 Spiritual Wisdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Which is his body, the fulness of him that filleth all in all.
 <small><sub>**BSB:**</sub></small>
 which is His body, the fullness of Him who fills all in all.
-<small><sub>**Literal:**</sub></small>
-which is the body of Him, the fullness of the [One] <the> all in all filling.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.22|<< Ephesians 1:22]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.1|Ephesians 2:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3748\|ἥτις]]  [[G1510\|ἐστὶν]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G0846\|αὐτοῦ,]]  [[G3588\|τὸ]]  [[G4138\|πλήρωμα]]  [[G3588\|τοῦ]]  [[G3588\|τὰ]]  [[G3956\|πάντα]]  [[G1722\|ἐν]]  [[G3956\|πᾶσιν]]  [[G4137\|πληρουμένου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SALVATION|SALVATION]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.22|<< Ephesians 1:22]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.1|Ephesians 2:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

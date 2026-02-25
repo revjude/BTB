@@ -1,10 +1,58 @@
+---
+title: John 7:33
+type: Verse
+kjv: "Then said Jesus unto them, Yet a little while am I with you, and then I go unto him that sent me."
+bsb: "So Jesus said, “I am with you only a little while longer, and then I am going to the One who sent Me."
+jesus_said: "Yet a little while am I with you, and then I go unto him that sent me."
+greek: "Εἶπεν οὖν αὐτοῖς ὁ Ἰησοῦς· ἔτι χρόνον μικρὸν μεθ᾽ ὑμῶν εἰμι καὶ ὑπάγω πρὸς τὸν πέμψαντά με."
+pericope: "[[John.7.25 Is Jesus the Christ？|Is Jesus the Christ？]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2089]]"
+- "[[G5550]]"
+- "[[G3398]]"
+- "[[G3326]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G5217]]"
+- "[[G4314]]"
+- "[[G3992]]"
+- "[[G3165]]"
+texts:
+- NKO
+- k
+---
+
 **John 7:33**<big><big>[[John.7.25 Is Jesus the Christ？|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said Jesus unto them, Yet a little while am I with you, and [then] I go unto him that sent me.
 <small><sub>**BSB:**</sub></small>
 So Jesus said, “I am with you only a little while longer, and then I am going to the One who sent Me.
-<small><sub>**Literal:**</sub></small>
-Said therefore to them <the> Jesus; Yet time a little with you I am and I go to the [One] having sent Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.32|<< John 7:32]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.34|John 7:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G3767\|οὖν]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G2089\|ἔτι]]  [[G5550\|χρόνον]]  [[G3398\|μικρὸν]]  [[G3326\|μεθ᾽]]  [[G4771\|ὑμῶν]]  [[G1510\|εἰμι]]  [[G2532\|καὶ]]  [[G5217\|ὑπάγω]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G3992\|πέμψαντά]]  [[G3165\|με.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.32|<< John 7:32]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.34|John 7:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

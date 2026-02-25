@@ -1,10 +1,59 @@
+---
+title: Mark 5:15
+type: Verse
+kjv: "And they come to Jesus, and see him that was possessed with the devil, and had the legion, sitting, and clothed, and in his right mind: and they were afraid."
+bsb: "When they came to Jesus, they saw the man who had been possessed by the legion of demons sitting there, clothed and in his right mind; and they were afraid."
+greek: "Καὶ ἔρχονται πρὸς τὸν Ἰησοῦν καὶ θεωροῦσιν τὸν δαιμονιζόμενον καθήμενον καὶ ἱματισμένον καὶ σωφρονοῦντα, τὸν ἐσχηκότα τὸν λεγιῶνα, καὶ ἐφοβήθησαν."
+pericope: "[[Mark.5.1 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic GADARENES|GADARENES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEGION|LEGION]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2334]]"
+- "[[G1139]]"
+- "[[G2521]]"
+- "[[G2439]]"
+- "[[G4993]]"
+- "[[G2192]]"
+- "[[G3003]]"
+- "[[G5399]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Mark 5:15**<big><big>[[Mark.5.1 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they come to Jesus, and see him that was possessed with the devil, and had the legion, sitting, and clothed, and in his right mind: and they were afraid.
 <small><sub>**BSB:**</sub></small>
 When they came to Jesus, they saw the man who had been possessed by the legion of demons sitting there, clothed and in his right mind; and they were afraid.
-<small><sub>**Literal:**</sub></small>
-And they come to <the> Jesus and see the [man] being demonised sitting and clothed and sound minded, the [one] who having had the legion, and they were afraid.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.14|<< Mark 5:14]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.16|Mark 5:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2064\|ἔρχονται]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G2532\|καὶ]]  [[G2334\|θεωροῦσιν]]  [[G3588\|τὸν]]  [[G1139\|δαιμονιζόμενον]]  [[G2521\|καθήμενον]]  [[G2532\|καὶ]]  [[G2439\|ἱματισμένον]]  [[G2532\|καὶ]]  [[G4993\|σωφρονοῦντα,]]  [[G3588\|τὸν]]  [[G2192\|ἐσχηκότα]]  [[G3588\|τὸν]]  [[G3003\|λεγιῶνα,]]  [[G2532\|καὶ]]  [[G5399\|ἐφοβήθησαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic GADARENES|GADARENES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEGION|LEGION]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.14|<< Mark 5:14]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.16|Mark 5:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,61 @@
+---
+title: Mark 16:14
+type: Verse
+kjv: "Afterward he appeared unto the eleven as they sat at meat, and upbraided them with their unbelief and hardness of heart, because they believed not them which had seen him after he was risen."
+bsb: "Later, as they were eating, Jesus appeared to the Eleven and rebuked them for their unbelief and hardness of heart, because they did not believe those who had seen Him after He had risen."
+greek: "ὕστερον δὲ ἀνακειμένοις αὐτοῖς τοῖς ἕνδεκα ἐφανερώθη, καὶ ὠνείδισεν τὴν ἀπιστίαν αὐτῶν καὶ σκληροκαρδίαν ὅτι τοῖς θεασαμένοις αὐτὸν ἐγηγερμένον ἐκ νεκρῶν οὐκ ἐπίστευσαν.¶"
+pericope: "[[Mark.16.14 The Great Commission|The Great Commission]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 16
+book/chapter: "[[Mark.16|Mark 16]]"
+chronological_order: 1015
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic HEART|HEART]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G5306]]"
+- "[[G1161]]"
+- "[[G0345]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G1733]]"
+- "[[G5319]]"
+- "[[G2532]]"
+- "[[G3679]]"
+- "[[G0570]]"
+- "[[G4641]]"
+- "[[G3754H]]"
+- "[[G2300]]"
+- "[[G1453]]"
+- "[[G1537]]"
+- "[[G3498]]"
+- "[[G3756]]"
+- "[[G4100]]"
+texts:
+- KO
+- O
+---
+
 **Mark 16:14**<big><big>[[Mark.16.14 The Great Commission|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Afterward he appeared unto the eleven as they sat at meat, and upbraided them with their unbelief and hardness of heart, because they believed not them which had seen him after he was risen.
 <small><sub>**BSB:**</sub></small>
 Later, as they were eating, Jesus appeared to the Eleven and rebuked them for their unbelief and hardness of heart, because they did not believe those who had seen Him after He had risen.
-<small><sub>**Literal:**</sub></small>
-Afterward now when were reclining they to the eleven He appeared and rebuked the unbelief of them and hardness of heart because those having seen Him arisen from dead not believed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.13|<< Mark 16:13]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.15|Mark 16:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5306\|ὕστερον]]  [[G1161\|δὲ]]  [[G0345\|ἀνακειμένοις]]  [[G0846\|αὐτοῖς]]  [[G3588\|τοῖς]]  [[G1733\|ἕνδεκα]]  [[G5319\|ἐφανερώθη,]]  [[G2532\|καὶ]]  [[G3679\|ὠνείδισεν]]  [[G3588\|τὴν]]  [[G0570\|ἀπιστίαν]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G4641\|σκληροκαρδίαν]]  [[G3754H\|ὅτι]]  [[G3588\|τοῖς]]  [[G2300\|θεασαμένοις]]  [[G0846\|αὐτὸν]]  [[G1453\|ἐγηγερμένον]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν]]  [[G3756\|οὐκ]]  [[G4100\|ἐπίστευσαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEART|HEART]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.13|<< Mark 16:13]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.15|Mark 16:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

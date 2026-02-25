@@ -1,8 +1,58 @@
+---
+title: Ecclesiastes 5:20
+type: Verse
+kjv: "For he shall not much remember the days of his life; because God answereth him in the joy of his heart."
+bsb: "For a man seldom considers the days of his life, because God keeps him occupied with the joy of his heart."
+hebrew: "כִּ֚י לֹ֣א הַרְבֵּ֔ה יִזְכֹּ֖ר אֶת־ יְמֵ֣י חַיָּ֑יו כִּ֧י הָאֱלֹהִ֛ים מַעֲנֶ֖ה בְּשִׂמְחַ֥ת לִבּֽוֹ׃"
+pericope: "[[Eccl.5.8 The Futility of Wealth|The Futility of Wealth]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 5
+book/chapter: "[[Eccl.5|Ecclesiastes 5]]"
+chronological_order: 543
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RICHES|RICHES]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H7235A]]"
+- "[[H2142]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H2416E]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H6031B]]"
+- "[[H9003]]"
+- "[[H8057]]"
+- "[[H3820A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 5:20**<big><big>[[Eccl.5.8 The Futility of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he shall not much remember the days of his life; because God answereth [him] in the joy of his heart.
 <small><sub>**BSB:**</sub></small>
 For a man seldom considers the days of his life, because God keeps him occupied with the joy of his heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֚י]] [[H3808\|לֹ֣א]] [[H7235A\|הַרְבֵּ֔ה]] [[H2142\|יִזְכֹּ֖ר]] [[H0853\|אֶת]][[H9014\|־]] [[H3117G\|יְמֵ֣י]] [[H2416E\|חַיָּ֑י]][[H9023\|ו]] [[H3588A\|כִּ֧י]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֛ים]] [[H6031B\|מַעֲנֶ֖ה]] [[H9003\|בְּ]][[H8057\|שִׂמְחַ֥ת]] [[H3820A\|לִבּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic RICH, THE|RICH, THE]] • [[topic RICHES|RICHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.5.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.19|<< Ecclesiastes 5:19]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.6.1|Ecclesiastes 6:1 >>]]</td></tr></table>
 

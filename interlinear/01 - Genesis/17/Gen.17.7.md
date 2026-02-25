@@ -1,8 +1,69 @@
+---
+title: Genesis 17:7
+type: Verse
+kjv: "And I will establish my covenant between me and thee and thy seed after thee in their generations for an everlasting covenant, to be a God unto thee, and to thy seed after thee."
+bsb: "I will establish My covenant as an everlasting covenant between Me and you and your descendants after you, to be your God and the God of your descendants after you."
+hebrew: "וַהֲקִמֹתִ֨י אֶת־ בְּרִיתִ֜י בֵּינִ֣י וּבֵינֶ֗ךָ וּבֵ֨ין זַרְעֲךָ֧ אַחֲרֶ֛יךָ לְדֹרֹתָ֖ם לִבְרִ֣ית עוֹלָ֑ם לִהְי֤וֹת לְךָ֙ לֵֽאלֹהִ֔ים וּֽלְזַרְעֲךָ֖ אַחֲרֶֽיךָ׃"
+pericope: "[[Gen.17.1 Abraham to Father Many Nations|Abraham to Father Many Nations]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 17
+book/chapter: "[[Gen.17|Genesis 17]]"
+chronological_order: 59
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1285]]"
+- "[[H9020]]"
+- "[[H0996G]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H9031]]"
+- "[[H2233H]]"
+- "[[H9021]]"
+- "[[H0310A]]"
+- "[[H9005]]"
+- "[[H1755]]"
+- "[[H9028]]"
+- "[[H5769G]]"
+- "[[H1961]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 17:7**<big><big>[[Gen.17.1 Abraham to Father Many Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will establish my covenant between me and thee and thy seed after thee in their generations for an everlasting covenant, to be a God unto thee, and to thy seed after thee.
 <small><sub>**BSB:**</sub></small>
 I will establish My covenant as an everlasting covenant between Me and you and your descendants after you, to be your God and the God of your descendants after you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965I\|הֲקִמֹתִ֨י]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִיתִ֜]][[H9020\|י]] [[H0996G\|בֵּינִ֣]][[H9030\|י]] [[H9002\|וּ]][[H0996G\|בֵינֶ֗]][[H9031\|ךָ]] [[H9002\|וּ]][[H0996G\|בֵ֨ין]] [[H2233H\|זַרְעֲ]][[H9021\|ךָ֧]] [[H0310A\|אַחֲרֶ֛י]][[H9031\|ךָ]] [[H9005\|לְ]][[H1755\|דֹרֹתָ֖]][[H9028\|ם]] [[H9005\|לִ]][[H1285\|בְרִ֣ית]] [[H5769G\|עוֹלָ֑ם]] [[H9005\|לִ]][[H1961\|הְי֤וֹת]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H9005\|לֵֽ]][[H0430G\|אלֹהִ֔ים]] [[H9002\|וּֽ]][[H9005\|לְ]][[H2233H\|זַרְעֲ]][[H9021\|ךָ֖]] [[H0310A\|אַחֲרֶֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CHILDREN|CHILDREN]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COVENANT|COVENANT]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.17.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.17.6|<< Genesis 17:6]]</td><td align="center" style="border:none;">[[Gen.17|Genesis 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.17.8|Genesis 17:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

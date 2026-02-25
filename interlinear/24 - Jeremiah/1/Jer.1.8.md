@@ -1,8 +1,60 @@
+---
+title: Jeremiah 1:8
+type: Verse
+kjv: "Be not afraid of their faces: for I am with thee to deliver thee, saith the LORD."
+bsb: "Do not be afraid of them, for I am with you to deliver you,” declares the LORD."
+hebrew: "אַל־ תִּירָ֖א מִפְּנֵיהֶ֑ם כִּֽי־ אִתְּךָ֥ אֲנִ֛י לְהַצִּלֶ֖ךָ נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.1.1 The Call of Jeremiah|The Call of Jeremiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 1
+book/chapter: "[[Jer.1|Jeremiah 1]]"
+chronological_order: 718
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EXCUSES|EXCUSES]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H9006]]"
+- "[[H6440L]]"
+- "[[H9028]]"
+- "[[H3588A]]"
+- "[[H0854]]"
+- "[[H9031]]"
+- "[[H0589]]"
+- "[[H9005]]"
+- "[[H5337]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 1:8**<big><big>[[Jer.1.1 The Call of Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be not afraid of their faces: for I [am] with thee to deliver thee, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 Do not be afraid of them, for I am with you to deliver you,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָ֖א]] [[H9006\|מִ]][[H6440L\|פְּנֵי]][[H9028\|הֶ֑ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0854\|אִתְּ]][[H9031\|ךָ֥]] [[H0589\|אֲנִ֛י]] [[H9005\|לְ]][[H5337\|הַצִּלֶ֖]][[H9031\|ךָ]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EXCUSES|EXCUSES]] • [[topic JEREMIAH|JEREMIAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.1.7|<< Jeremiah 1:7]]</td><td align="center" style="border:none;">[[Jer.1|Jeremiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.1.9|Jeremiah 1:9 >>]]</td></tr></table>
 

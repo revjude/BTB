@@ -1,6 +1,76 @@
+---
+title: LXX Deuteronomy 13:16
+type: Verse
+lxx: "And all  its spoils you shall bring together into  its corridors, and you shall burn the city by fire, and all  its spoils in full assembly before the lord  your God; and it shall be uninhabited into the eon; it shall not be rebuilt again."
+greek: "και πάντα τα σκύλα αυτής συνάξεις εις τας διόδους αυτής και εμπρήσεις την πόλιν εν πυρί και πάντα τα σκύλα αυτής πανδημεί έναντι κυρίου του θεού σου και έσται αοίκητος εις τον αιώνα ουκ ανοικοδομηθήσεται έτι"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 13
+book/chapter: "[[Deut.13|Deuteronomy 13]]"
+chronological_order: 209
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4661]]"
+- "[[G1473]]"
+- "[[G4863]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G6932]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1714]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G1722]]"
+- "[[G4442]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4661]]"
+- "[[G1473]]"
+- "[[G8593]]"
+- "[[G1725]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G6384]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0165]]"
+- "[[G3756]]"
+- "[[G0456]]"
+- "[[G2089]]"
+---
+
 **LXX Deuteronomy 13:16** 
 <small><sub>**LXX:**</sub></small>
 And all  its spoils you shall bring together into  its corridors, and you shall burn the city by fire, and all  its spoils in full assembly before \[the\] <span class="smallcaps">lord</span>  your God; and it shall be uninhabited into the eon; it shall not be rebuilt again. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3956\|πάντα]] [[G3588\|τα]] [[G4661\|σκύλα]] [[G1473\|αυτής]] [[G4863\|συνάξεις]] [[G1519\|εις]] [[G3588\|τας]] [[G6932\|διόδους]] [[G1473\|αυτής]] [[G2532\|και]] [[G1714\|εμπρήσεις]] [[G3588\|την]] [[G4172\|πόλιν]] [[G1722\|εν]] [[G4442\|πυρί]] [[G2532\|και]] [[G3956\|πάντα]] [[G3588\|τα]] [[G4661\|σκύλα]] [[G1473\|αυτής]] [[G8593\|πανδημεί]] [[G1725\|έναντι]] [[G2962\|κυρίου]] [[G3588\|του]] [[G2316\|θεού]] [[G1473\|σου]] [[G2532\|και]] [[G1510\|έσται]] [[G6384\|αοίκητος]] [[G1519\|εις]] [[G3588\|τον]] [[G0165\|αιώνα]] [[G3756\|ουκ]] [[G0456\|ανοικοδομηθήσεται]] [[G2089\|έτι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.13.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.15|<< Deuteronomy 13:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.17|Deuteronomy 13:17 >>]]</td></tr></table>
 
@@ -38,6 +108,6 @@ And all  its spoils you shall bring together into  its corridors, and you shall 
 | it shall not | **<big>[[G3756\|ουκ]]</big>** |
 | be rebuilt | **<big>[[G0456\|ανοικοδομηθήσεται]]</big>** |
 | again. | **<big>[[G2089\|έτι]]</big>** |
-[[Deut.13.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.15|<< Deuteronomy 13:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.17|Deuteronomy 13:17 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.15|<< Deuteronomy 13:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.17|Deuteronomy 13:17 >>]]</td></tr></table>
 
 

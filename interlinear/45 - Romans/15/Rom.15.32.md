@@ -1,10 +1,57 @@
+---
+title: Romans 15:32
+type: Verse
+kjv: "That I may come unto you with joy by the will of God, and may with you be refreshed."
+bsb: "so that by God’s will I may come to you with joy and together with you be refreshed."
+greek: "ἵνα ἐν χαρᾷ ἐλθὼν πρὸς ὑμᾶς διὰ θελήματος θεοῦ καὶ συναναπαύσωμαι ὑμῖν."
+pericope: "[[Rom.15.23 Paul’s Travel Plans|Paul’s Travel Plans]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 15
+book/chapter: "[[Rom.15|Romans 15]]"
+chronological_order: 1101
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JOY|JOY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WILL|WILL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2443]]"
+- "[[G1722]]"
+- "[[G5479]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G1223]]"
+- "[[G2307]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G4875]]"
+texts:
+- NKO
+- N(k)O
+- ko
+---
+
 **Romans 15:32**<big><big>[[Rom.15.23 Paul’s Travel Plans|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That I may come unto you with joy by the will of God, and may with you be refreshed.
 <small><sub>**BSB:**</sub></small>
 so that by God’s will I may come to you with joy and together with you be refreshed.
-<small><sub>**Literal:**</sub></small>
-so that in joy having come to you through [the] will of God and I may be refreshed with you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.31|<< Romans 15:31]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.33|Romans 15:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G1722\|ἐν]]  [[G5479\|χαρᾷ]]  [[G2064\|ἐλθὼν]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G1223\|διὰ]]  [[G2307\|θελήματος]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G4875\|συναναπαύσωμαι]]  [[G4771\|ὑμῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic JOY|JOY]] • [[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WILL|WILL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.31|<< Romans 15:31]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.33|Romans 15:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

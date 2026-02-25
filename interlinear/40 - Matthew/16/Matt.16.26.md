@@ -1,10 +1,65 @@
+---
+title: Matthew 16:26
+type: Verse
+kjv: "For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?"
+bsb: "What will it profit a man if he gains the whole world, yet forfeits his soul? Or what can a man give in exchange for his soul?"
+jesus_said: "For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?"
+greek: "Τί γὰρ ὠφεληθήσεται ἄνθρωπος, ἐὰν τὸν κόσμον ὅλον κερδήσῃ, τὴν δὲ ψυχὴν αὐτοῦ ζημιωθῇ; ἢ τί δώσει ἄνθρωπος ἀντάλλαγμα τῆς ψυχῆς αὐτοῦ;"
+pericope: "[[Matt.16.24 Take Up Your Cross|Take Up Your Cross]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 16
+book/chapter: "[[Matt.16|Matthew 16]]"
+chronological_order: 966
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G5101]]"
+- "[[G1063]]"
+- "[[G5623]]"
+- "[[G0444]]"
+- "[[G1437]]"
+- "[[G3588]]"
+- "[[G2889]]"
+- "[[G3650]]"
+- "[[G2770]]"
+- "[[G1161]]"
+- "[[G5590G]]"
+- "[[G0846]]"
+- "[[G2210]]"
+- "[[G2228]]"
+- "[[G1325]]"
+- "[[G0465]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 16:26**<big><big>[[Matt.16.24 Take Up Your Cross|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?
 <small><sub>**BSB:**</sub></small>
 What will it profit a man if he gains the whole world, yet forfeits his soul? Or what can a man give in exchange for his soul?
-<small><sub>**Literal:**</sub></small>
-What for will it be profitable [for] a man, if the world whole he shall gain, <the> but the soul of him shall lose? Or what will give a man [as] an exchange for the soul of him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.25|<< Matthew 16:25]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.27|Matthew 16:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|Τί]]  [[G1063\|γὰρ]]  [[G5623\|ὠφεληθήσεται]]  [[G0444\|ἄνθρωπος,]]  [[G1437\|ἐὰν]]  [[G3588\|τὸν]]  [[G2889\|κόσμον]]  [[G3650\|ὅλον]]  [[G2770\|κερδήσῃ,]]  [[G3588\|τὴν]]  [[G1161\|δὲ]]  [[G5590G\|ψυχὴν]]  [[G0846\|αὐτοῦ]]  [[G2210\|ζημιωθῇ;]]  [[G2228\|ἢ]]  [[G5101\|τί]]  [[G1325\|δώσει]]  [[G0444\|ἄνθρωπος]]  [[G0465\|ἀντάλλαγμα]]  [[G3588\|τῆς]]  [[G5590G\|ψυχῆς]]  [[G0846\|αὐτοῦ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic REWARD|REWARD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.25|<< Matthew 16:25]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.27|Matthew 16:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

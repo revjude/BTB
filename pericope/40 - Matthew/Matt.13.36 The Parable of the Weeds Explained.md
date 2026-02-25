@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Weeds Explained
+type: Pericope
 pericope: "[[Matt.13.36 The Parable of the Weeds Explained|The Parable of the Weeds Explained]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 13
 book/chapter: "[[Matt.13|Matthew 13]]"
-genre:
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 8
 verses:
 - "[[Matt.13.36]]"
 - "[[Matt.13.37]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Matt.13.43]]"
 ---
 
-[[Matt.13|Matthew 13:36 - Matthew 13:43]]
+<small>[[Matt.13|Matthew 13:36-43]]</small>
 *The Parable of the Weeds Explained*
 
 [[Matt.13.36|36]] Then Jesus sent the multitude away, and went into the house: and his disciples came unto him, saying, Declare unto us the parable of the tares of the field.

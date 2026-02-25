@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Conquest of Ai
+type: Pericope
 pericope: "[[Josh.8.1 The Conquest of Ai|The Conquest of Ai]]"
-verse_count: 29
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 8
 book/chapter: "[[Josh.8|Joshua 8]]"
-genre:
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 29
 verses:
 - "[[Josh.8.1]]"
 - "[[Josh.8.2]]"
@@ -47,7 +54,7 @@ verses:
 - "[[Josh.8.29]]"
 ---
 
-[[Josh.8|Joshua 8:1 - Joshua 8:29]]
+<small>[[Josh.8|Joshua 8:1-29]]</small>
 *The Conquest of Ai*
 
 [[Josh.8.1|1]] And the LORD said unto Joshua, Fear not, neither be thou dismayed: take all the people of war with thee, and arise, go up to Ai: see, I have given into thy hand the king of Ai, and his people, and his city, and his land:

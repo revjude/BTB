@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joseph and Potiphar’s Wife
+type: Pericope
 pericope: "[[Gen.39.1 Joseph and Potiphar’s Wife|Joseph and Potiphar’s Wife]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 39
 book/chapter: "[[Gen.39|Genesis 39]]"
-genre:
+chronological_order: 81
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 12
 verses:
 - "[[Gen.39.1]]"
 - "[[Gen.39.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Gen.39.12]]"
 ---
 
-[[Gen.39|Genesis 39:1 - Genesis 39:12]]
+<small>[[Gen.39|Genesis 39:1-12]]</small>
 *Joseph and Potiphar’s Wife*
 
 [[Gen.39.1|1]] And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmeelites, which had brought him down thither.

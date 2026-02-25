@@ -1,10 +1,66 @@
+---
+title: 1 Corinthians 13:2
+type: Verse
+kjv: "And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing."
+bsb: "If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have absolute faith so as to move mountains, but have not love, I am nothing."
+greek: "καὶ ἐὰν ἔχω προφητείαν καὶ εἰδῶ τὰ μυστήρια πάντα καὶ πᾶσαν τὴν γνῶσιν, καὶ ἐὰν ἔχω πᾶσαν τὴν πίστιν ὥστε ὄρη μεθιστάναι, ἀγάπην δὲ μὴ ἔχω, οὐθέν εἰμι."
+pericope: "[[1Cor.13.1 Love|Love]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 13
+book/chapter: "[[1Cor.13|1 Corinthians 13]]"
+chronological_order: 1070
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GRACES|GRACES]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G2192]]"
+- "[[G4394]]"
+- "[[G6063]]"
+- "[[G3588]]"
+- "[[G3466]]"
+- "[[G3956]]"
+- "[[G1108]]"
+- "[[G4102G]]"
+- "[[G5620]]"
+- "[[G3735]]"
+- "[[G3179]]"
+- "[[G0026]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G3762]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 13:2**<big><big>[[1Cor.13.1 Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And though I have [the gift of] prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing.
 <small><sub>**BSB:**</sub></small>
 If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have absolute faith so as to move mountains, but have not love, I am nothing.
-<small><sub>**Literal:**</sub></small>
-And if I shall have prophecy and understand the mysteries all and all the knowledge, And if I shall have all the faith so as mountains to remove, love however not may have, no [thing] I am.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.13.1|<< 1 Corinthians 13:1]]</td><td align="center" style="border:none;">[[1Cor.13|1 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.13.3|1 Corinthians 13:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1437\|ἐὰν]]  [[G2192\|ἔχω]]  [[G4394\|προφητείαν]]  [[G2532\|καὶ]]  [[G6063\|εἰδῶ]]  [[G3588\|τὰ]]  [[G3466\|μυστήρια]]  [[G3956\|πάντα]]  [[G2532\|καὶ]]  [[G3956\|πᾶσαν]]  [[G3588\|τὴν]]  [[G1108\|γνῶσιν,]]  [[G2532\|καὶ]]  [[G1437\|ἐὰν]]  [[G2192\|ἔχω]]  [[G3956\|πᾶσαν]]  [[G3588\|τὴν]]  [[G4102G\|πίστιν]]  [[G5620\|ὥστε]]  [[G3735\|ὄρη]]  [[G3179\|μεθιστάναι,]]  [[G0026\|ἀγάπην]]  [[G1161\|δὲ]]  [[G3361\|μὴ]]  [[G2192\|ἔχω,]]  [[G3762\|οὐθέν]]  [[G1510\|εἰμι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GRACES|GRACES]] • [[topic LOVE|LOVE]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.13.1|<< 1 Corinthians 13:1]]</td><td align="center" style="border:none;">[[1Cor.13|1 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.13.3|1 Corinthians 13:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

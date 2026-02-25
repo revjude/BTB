@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joseph’s Brothers Sent to Egypt
+type: Pericope
 pericope: "[[Gen.42.1 Joseph’s Brothers Sent to Egypt|Joseph’s Brothers Sent to Egypt]]"
-verse_count: 24
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 42
 book/chapter: "[[Gen.42|Genesis 42]]"
-genre:
+chronological_order: 84
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 24
 verses:
 - "[[Gen.42.1]]"
 - "[[Gen.42.2]]"
@@ -45,7 +52,7 @@ verses:
 - "[[Gen.42.24]]"
 ---
 
-[[Gen.42|Genesis 42:1 - Genesis 42:24]]
+<small>[[Gen.42|Genesis 42:1-24]]</small>
 *Joseph’s Brothers Sent to Egypt*
 
 [[Gen.42.1|1]] Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another?

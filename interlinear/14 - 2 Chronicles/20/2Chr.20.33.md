@@ -1,8 +1,52 @@
+---
+title: 2 Chronicles 20:33
+type: Verse
+kjv: "Howbeit the high places were not taken away: for as yet the people had not prepared their hearts unto the God of their fathers."
+bsb: "The high places, however, were not removed; the people had not yet set their hearts on the God of their fathers."
+hebrew: "אַ֥ךְ הַבָּמ֖וֹת לֹא־ סָ֑רוּ וְע֤וֹד הָעָם֙ לֹא־ הֵכִ֣ינוּ לְבָבָ֔ם לֵאלֹהֵ֖י אֲבֹתֵיהֶֽם׃"
+pericope: "[[2Chr.20.31 Summary of Jehoshaphat’s Reign|Summary of Jehoshaphat’s Reign]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 20
+book/chapter: "[[2Chr.20|2 Chronicles 20]]"
+chronological_order: 573
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+strongs:
+- "[[H0389]]"
+- "[[H9009]]"
+- "[[H1116]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5493G]]"
+- "[[H9002]]"
+- "[[H5750]]"
+- "[[H5971A]]"
+- "[[H3559H]]"
+- "[[H3824]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 20:33**<big><big>[[2Chr.20.31 Summary of Jehoshaphat’s Reign|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit the high places were not taken away: for as yet the people had not prepared their hearts unto the God of their fathers.
 <small><sub>**BSB:**</sub></small>
 The high places, however, were not removed; the people had not yet set their hearts on the God of their fathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַ֥ךְ]] [[H9009\|הַ]][[H1116\|בָּמ֖וֹת]] [[H3808\|לֹא]][[H9014\|־]] [[H5493G\|סָ֑רוּ]] [[H9002\|וְ]][[H5750\|ע֤וֹד]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H3808\|לֹא]][[H9014\|־]] [[H3559H\|הֵכִ֣ינוּ]] [[H3824\|לְבָבָ֔]][[H9028\|ם]] [[H9005\|לֵ]][[H0430G\|אלֹהֵ֖י]] [[H0001G\|אֲבֹתֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.32|<< 2 Chronicles 20:32]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.34|2 Chronicles 20:34 >>]]</td></tr></table>
 

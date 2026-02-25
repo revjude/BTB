@@ -1,6 +1,72 @@
+---
+title: LXX Genesis 19:35
+type: Verse
+lxx: "And they gave to drink also in  that night  wine for their father. And entering, the younger went to bed with  her father. And he did not know about  her going to bed and rising up."
+greek: "επότισαν δε και εν τη νυκτί εκείνη τον πατέρα αυτών οίνον και εισελθούσα η νεωτέρα εκοιμήθη μετά του πατρός αυτής και ουκ ήδει εν τω κοιμηθήναι αυτήν και αναστήναι"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 19
+book/chapter: "[[Gen.19|Genesis 19]]"
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic INCEST|INCEST]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic LOT|LOT]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G4222]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3571]]"
+- "[[G1565]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+- "[[G3631]]"
+- "[[G2532]]"
+- "[[G1525]]"
+- "[[G3588]]"
+- "[[G3501]]"
+- "[[G2837]]"
+- "[[G3326]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1492]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2837]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0450]]"
+---
+
 **LXX Genesis 19:35** 
 <small><sub>**LXX:**</sub></small>
 And they gave to drink also in  that night  wine \[for\] their father. And entering, the younger went to bed with  her father. And he did not know about  her going to bed and rising up. 
+<small><sub>**Greek:**</sub></small>
+[[G4222\|επότισαν]] [[G1161\|δε]] [[G2532\|και]] [[G1722\|εν]] [[G3588\|τη]] [[G3571\|νυκτί]] [[G1565\|εκείνη]] [[G3588\|τον]] [[G3962\|πατέρα]] [[G1473\|αυτών]] [[G3631\|οίνον]] [[G2532\|και]] [[G1525\|εισελθούσα]] [[G3588\|η]] [[G3501\|νεωτέρα]] [[G2837\|εκοιμήθη]] [[G3326\|μετά]] [[G3588\|του]] [[G3962\|πατρός]] [[G1473\|αυτής]] [[G2532\|και]] [[G3756\|ουκ]] [[G1492\|ήδει]] [[G1722\|εν]] [[G3588\|τω]] [[G2837\|κοιμηθήναι]] [[G1473\|αυτήν]] [[G2532\|και]] [[G0450\|αναστήναι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHILDREN|CHILDREN]] • [[topic INCEST|INCEST]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic LOT|LOT]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.19.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.34|<< Genesis 19:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.36|Genesis 19:36 >>]]</td></tr></table>
 
@@ -30,6 +96,6 @@ And they gave to drink also in  that night  wine \[for\] their father. And enter
 | her going to bed | **<big>[[G2837\|κοιμηθήναι]]</big>** **<big>[[G1473\|αυτήν]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | rising up. | **<big>[[G0450\|αναστήναι]]</big>** |
-[[Gen.19.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.34|<< Genesis 19:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.36|Genesis 19:36 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.34|<< Genesis 19:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.36|Genesis 19:36 >>]]</td></tr></table>
 
 

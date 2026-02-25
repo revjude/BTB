@@ -1,8 +1,63 @@
+---
+title: Ezekiel 26:12
+type: Verse
+kjv: "And they shall make a spoil of thy riches, and make a prey of thy merchandise: and they shall break down thy walls, and destroy thy pleasant houses: and they shall lay thy stones and thy timber and thy dust in the midst of the water."
+bsb: "They will plunder your wealth and pillage your merchandise. They will demolish your walls, tear down your beautiful homes, and throw your stones and timber and soil into the water."
+hebrew: "וְשָׁלְל֣וּ חֵילֵ֗ךְ וּבָֽזְזוּ֙ רְכֻלָּתֵ֔ךְ וְהָֽרְסוּ֙ חוֹמוֹתַ֔יִךְ וּבָתֵּ֥י חֶמְדָּתֵ֖ךְ יִתֹּ֑צוּ וַאֲבָנַ֤יִךְ וְעֵצַ֙יִךְ֙ וַֽעֲפָרֵ֔ךְ בְּת֥וֹךְ מַ֖יִם יָשִֽׂימוּ׃"
+pericope: "[[Ezek.26.1 A Prophecy against Tyre|A Prophecy against Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 26
+book/chapter: "[[Ezek.26|Ezekiel 26]]"
+chronological_order: 817
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H7997B]]"
+- "[[H2428H]]"
+- "[[H9022]]"
+- "[[H0962]]"
+- "[[H7404]]"
+- "[[H2040]]"
+- "[[H2346G]]"
+- "[[H9002]]"
+- "[[H1004B]]"
+- "[[H2532A]]"
+- "[[H5422]]"
+- "[[H0068G]]"
+- "[[H6086G]]"
+- "[[H6083]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H4325G]]"
+- "[[H7760H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 26:12**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall make a spoil of thy riches, and make a prey of thy merchandise: and they shall break down thy walls, and destroy thy pleasant houses: and they shall lay thy stones and thy timber and thy dust in the midst of the water.
 <small><sub>**BSB:**</sub></small>
 They will plunder your wealth and pillage your merchandise. They will demolish your walls, tear down your beautiful homes, and throw your stones and timber and soil into the water.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7997B\|שָׁלְל֣וּ]] [[H2428H\|חֵילֵ֗]][[H9022\|ךְ]] [[H9001\|וּ]][[H0962\|בָֽזְזוּ֙]] [[H7404\|רְכֻלָּתֵ֔]][[H9022\|ךְ]] [[H9001\|וְ]][[H2040\|הָֽרְסוּ֙]] [[H2346G\|חוֹמוֹתַ֔יִ]][[H9022\|ךְ]] [[H9002\|וּ]][[H1004B\|בָתֵּ֥י]] [[H2532A\|חֶמְדָּתֵ֖]][[H9022\|ךְ]] [[H5422\|יִתֹּ֑צוּ]] [[H9002\|וַ]][[H0068G\|אֲבָנַ֤יִ]][[H9022\|ךְ]] [[H9002\|וְ]][[H6086G\|עֵצַ֙יִ]][[H9022\|ךְ֙]] [[H9002\|וַֽ]][[H6083\|עֲפָרֵ֔]][[H9022\|ךְ]] [[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H4325G\|מַ֖יִם]] [[H7760H\|יָשִֽׂימוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.11|<< Ezekiel 26:11]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.13|Ezekiel 26:13 >>]]</td></tr></table>
 

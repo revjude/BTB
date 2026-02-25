@@ -1,8 +1,69 @@
+---
+title: 2 Samuel 23:13
+type: Verse
+kjv: "And three of the thirty chief went down, and came to David in the harvest time unto the cave of Adullam: and the troop of the Philistines pitched in the valley of Rephaim."
+bsb: "At harvest time, three of the thirty chief men went down to David at the cave of Adullam, while a company of Philistines was encamped in the Valley of Rephaim."
+hebrew: "וַיֵּרְד֨וּ שְׁלֹשָׁ֜ה מֵהַשְּׁלֹשִׁ֣ים רֹ֗אשׁ וַיָּבֹ֤אוּ אֶל־ קָצִיר֙ אֶל־ דָּוִ֔ד אֶל־ מְעָרַ֖ת עֲדֻלָּ֑ם וְחַיַּ֣ת פְּלִשְׁתִּ֔ים חֹנָ֖ה בְּעֵ֥מֶק רְפָאִֽים׃"
+pericope: "[[2Sam.23.8 David’s Mighty Men|David’s Mighty Men]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 23
+book/chapter: "[[2Sam.23|2 Samuel 23]]"
+chronological_order: 431
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ADULLAM|ADULLAM]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CAVE|CAVE]]"
+- "[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic REPHAIM|REPHAIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H7970]]"
+- "[[H7969]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H7218H]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7105A]]"
+- "[[H1732]]"
+- "[[H4631]]"
+- "[[H5725]]"
+- "[[H9002]]"
+- "[[H2416D]]"
+- "[[H6430G]]"
+- "[[H2583]]"
+- "[[H9003]]"
+- "[[H6010P]]"
+- "[[H7497G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Samuel 23:13**<big><big>[[2Sam.23.8 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And three of the thirty chief went down, and came to David in the harvest time unto the cave of Adullam: and the troop of the Philistines pitched in the valley of Rephaim.
 <small><sub>**BSB:**</sub></small>
 At harvest time, three of the thirty chief men went down to David at the cave of Adullam, while a company of Philistines was encamped in the Valley of Rephaim.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3381\|יֵּרְד֨וּ]] [[H7969\|שְׁלֹשָׁ֜ה]] [[H9006\|מֵ]][[H9009\|הַ]][[H7970\|שְּׁלֹשִׁ֣ים]] [[H7218H\|רֹ֗אשׁ]] [[H9001\|וַ]][[H0935G\|יָּבֹ֤אוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H7105A\|קָצִיר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֔ד]] [[H0413\|אֶל]][[H9014\|־]] [[H4631\|מְעָרַ֖ת]] [[H5725\|עֲדֻלָּ֑ם]] [[H9002\|וְ]][[H2416D\|חַיַּ֣ת]] [[H6430G\|פְּלִשְׁתִּ֔ים]] [[H2583\|חֹנָ֖ה]] [[H9003\|בְּ]][[H6010P\|עֵ֥מֶק]] [[H7497G\|רְפָאִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULLAM|ADULLAM]] • [[topic ARMIES|ARMIES]] • [[topic CAVE|CAVE]] • [[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]] • [[topic PHILISTINES|PHILISTINES]] • [[topic REPHAIM|REPHAIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.23.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.12|<< 2 Samuel 23:12]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.14|2 Samuel 23:14 >>]]</td></tr></table>
 

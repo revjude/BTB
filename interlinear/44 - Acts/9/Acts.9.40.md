@@ -1,10 +1,66 @@
+---
+title: Acts 9:40
+type: Verse
+kjv: "But Peter put them all forth, and kneeled down, and prayed; and turning him to the body said, Tabitha, arise. And she opened her eyes: and when she saw Peter, she sat up."
+bsb: "Then Peter sent them all out of the room. He knelt down and prayed, and turning toward her body, he said, “Tabitha, get up!” She opened her eyes, and seeing Peter, she sat up."
+greek: "ἐκβαλὼν δὲ ἔξω πάντας ὁ Πέτρος καὶ θεὶς τὰ γόνατα προσηύξατο· καὶ ἐπιστρέψας πρὸς τὸ σῶμα εἶπεν· Ταβιθά, ἀνάστηθι. ἡ δὲ ἤνοιξεν τοὺς ὀφθαλμοὺς αὐτῆς καὶ ἰδοῦσα τὸν Πέτρον ἀνεκάθισεν."
+pericope: "[[Acts.9.36 The Raising of Tabitha|The Raising of Tabitha]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 9
+book/chapter: "[[Acts.9|Acts 9]]"
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DORCAS|DORCAS]]"
+- "[[topic JOPPA|JOPPA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic TABITHA|TABITHA]]"
+strongs:
+- "[[G1544]]"
+- "[[G1161]]"
+- "[[G1854]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G2532]]"
+- "[[G5087]]"
+- "[[G1119]]"
+- "[[G4336]]"
+- "[[G1994]]"
+- "[[G4314]]"
+- "[[G4983]]"
+- "[[G2036]]"
+- "[[G5000]]"
+- "[[G0450]]"
+- "[[G0455]]"
+- "[[G3788]]"
+- "[[G0846]]"
+- "[[G1492H]]"
+- "[[G0339]]"
+texts:
+- NKO
+---
+
 **Acts 9:40**<big><big>[[Acts.9.36 The Raising of Tabitha|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Peter put them all forth, and kneeled down, and prayed; and turning [him] to the body said, Tabitha, arise. And she opened her eyes: and when she saw Peter, she sat up.
 <small><sub>**BSB:**</sub></small>
 Then Peter sent them all out of the room. He knelt down and prayed, and turning toward her body, he said, “Tabitha, get up!” She opened her eyes, and seeing Peter, she sat up.
-<small><sub>**Literal:**</sub></small>
-Having put then outside all <the> Peter and having bowed the knees he prayed; And having turned to the body he said; Tabitha, do arise. <the> And she opened the eyes of her and having seen <the> Peter she sat up.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.39|<< Acts 9:39]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.41|Acts 9:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1544\|ἐκβαλὼν]]  [[G1161\|δὲ]]  [[G1854\|ἔξω]]  [[G3956\|πάντας]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G2532\|καὶ]]  [[G5087\|θεὶς]]  [[G3588\|τὰ]]  [[G1119\|γόνατα]]  [[G4336\|προσηύξατο·]]  [[G2532\|καὶ]]  [[G1994\|ἐπιστρέψας]]  [[G4314\|πρὸς]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G2036\|εἶπεν·]]  [[G5000\|Ταβιθά,]]  [[G0450\|ἀνάστηθι.]]  [[G3588\|ἡ]]  [[G1161\|δὲ]]  [[G0455\|ἤνοιξεν]]  [[G3588\|τοὺς]]  [[G3788\|ὀφθαλμοὺς]]  [[G0846\|αὐτῆς]]  [[G2532\|καὶ]]  [[G1492H\|ἰδοῦσα]]  [[G3588\|τὸν]]  [[G4074G\|Πέτρον]]  [[G0339\|ἀνεκάθισεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DORCAS|DORCAS]] • [[topic JOPPA|JOPPA]] • [[topic MIRACLES|MIRACLES]] • [[topic PETER|PETER]] • [[topic PRAYER|PRAYER]] • [[topic TABITHA|TABITHA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.39|<< Acts 9:39]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.41|Acts 9:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

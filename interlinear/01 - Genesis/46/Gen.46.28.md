@@ -1,8 +1,63 @@
+---
+title: Genesis 46:28
+type: Verse
+kjv: "And he sent Judah before him unto Joseph, to direct his face unto Goshen; and they came into the land of Goshen."
+bsb: "Now Jacob had sent Judah ahead of him to Joseph to get directions to Goshen. When Jacob’s family arrived in the land of Goshen,"
+hebrew: "וְאֶת־ יְהוּדָ֞ה שָׁלַ֤ח לְפָנָיו֙ אֶל־ יוֹסֵ֔ף לְהוֹרֹ֥ת לְפָנָ֖יו גֹּ֑שְׁנָה וַיָּבֹ֖אוּ אַ֥רְצָה גֹּֽשֶׁן׃"
+pericope: "[[Gen.46.28 Jacob Arrives in Egypt|Jacob Arrives in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 46
+book/chapter: "[[Gen.46|Genesis 46]]"
+chronological_order: 88
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic GOSHEN|GOSHEN]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JUDAH|JUDAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H7971G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H3130G]]"
+- "[[H3384B]]"
+- "[[H1657G]]"
+- "[[H9011]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 46:28**<big><big>[[Gen.46.28 Jacob Arrives in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he sent Judah before him unto Joseph, to direct his face unto Goshen; and they came into the land of Goshen.
 <small><sub>**BSB:**</sub></small>
 Now Jacob had sent Judah ahead of him to Joseph to get directions to Goshen. When Jacob’s family arrived in the land of Goshen,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3063G\|יְהוּדָ֞ה]] [[H7971G\|שָׁלַ֤ח]] [[H9005\|לְ]][[H6440G\|פָנָי]][[H9023\|ו֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3130G\|יוֹסֵ֔ף]] [[H9005\|לְ]][[H3384B\|הוֹרֹ֥ת]] [[H9005\|לְ]][[H6440G\|פָנָ֖י]][[H9023\|ו]] [[H1657G\|גֹּ֑שְׁנָ]][[H9011\|ה]] [[H9001\|וַ]][[H0935G\|יָּבֹ֖אוּ]] [[H0776G\|אַ֥רְצָ]][[H9011\|ה]] [[H1657G\|גֹּֽשֶׁן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSHEN|GOSHEN]] • [[topic ISRAEL|ISRAEL]] • [[topic JACOB|JACOB]] • [[topic JUDAH|JUDAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.27|<< Genesis 46:27]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.29|Genesis 46:29 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Eli’s Wicked Sons
+type: Pericope
 pericope: "[[1Sam.2.12 Eli’s Wicked Sons|Eli’s Wicked Sons]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 2
 book/chapter: "[[1Sam.2|1 Samuel 2]]"
-genre:
+chronological_order: 281
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 15
 verses:
 - "[[1Sam.2.12]]"
 - "[[1Sam.2.13]]"
@@ -33,7 +40,7 @@ verses:
 - "[[1Sam.2.26]]"
 ---
 
-[[1Sam.2|1 Samuel 2:12 - 1 Samuel 2:26]]
+<small>[[1Sam.2|1 Samuel 2:12-26]]</small>
 *Eli’s Wicked Sons*
 
 [[1Sam.2.12|12]] Now the sons of Eli \[were\] sons of Belial; they knew not the LORD.

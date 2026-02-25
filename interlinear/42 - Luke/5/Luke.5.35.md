@@ -1,10 +1,57 @@
+---
+title: Luke 5:35
+type: Verse
+kjv: "But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days."
+bsb: "But the time will come when the bridegroom will be taken from them; then they will fast.”"
+jesus_said: "But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days."
+greek: "ἐλεύσονται δὲ ἡμέραι, καὶ ὅταν ἀπαρθῇ ἀπ᾽ αὐτῶν ὁ νυμφίος, τότε νηστεύσουσιν ἐν ἐκείναις ταῖς ἡμέραις."
+pericope: "[[Luke.5.33 Questions about Fasting|Questions about Fasting]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 5
+book/chapter: "[[Luke.5|Luke 5]]"
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BRIDEGROOM|BRIDEGROOM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2064]]"
+- "[[G1161]]"
+- "[[G2250]]"
+- "[[G2532]]"
+- "[[G3752]]"
+- "[[G0522]]"
+- "[[G0575]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3566]]"
+- "[[G5119]]"
+- "[[G3522]]"
+- "[[G1722]]"
+- "[[G1565]]"
+texts:
+- NKO
+---
+
 **Luke 5:35**<big><big>[[Luke.5.33 Questions about Fasting|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days.
 <small><sub>**BSB:**</sub></small>
 But the time will come when the bridegroom will be taken from them; then they will fast.”
-<small><sub>**Literal:**</sub></small>
-Will come however days also when may be taken away from them the bridegroom, then they will fast in those <the> days.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.34|<< Luke 5:34]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.36|Luke 5:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|ἐλεύσονται]]  [[G1161\|δὲ]]  [[G2250\|ἡμέραι,]]  [[G2532\|καὶ]]  [[G3752\|ὅταν]]  [[G0522\|ἀπαρθῇ]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτῶν]]  [[G3588\|ὁ]]  [[G3566\|νυμφίος,]]  [[G5119\|τότε]]  [[G3522\|νηστεύσουσιν]]  [[G1722\|ἐν]]  [[G1565\|ἐκείναις]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDEGROOM|BRIDEGROOM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.34|<< Luke 5:34]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.36|Luke 5:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

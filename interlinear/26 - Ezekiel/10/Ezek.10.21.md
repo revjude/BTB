@@ -1,8 +1,51 @@
+---
+title: Ezekiel 10:21
+type: Verse
+kjv: "Every one had four faces apiece, and every one four wings; and the likeness of the hands of a man was under their wings."
+bsb: "Each had four faces and four wings, with what looked like human hands under their wings."
+hebrew: "אַרְבָּעָ֨ה אַרְבָּעָ֤ה פָנִים֙ לְאֶחָ֔ד וְאַרְבַּ֥ע כְּנָפַ֖יִם לְאֶחָ֑ד וּדְמוּת֙ יְדֵ֣י אָדָ֔ם תַּ֖חַת כַּנְפֵיהֶֽם׃"
+pericope: "[[Ezek.10.1 God’s Glory Exits the Temple|God’s Glory Exits the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 10
+book/chapter: "[[Ezek.10|Ezekiel 10]]"
+chronological_order: 801
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H0702]]"
+- "[[H6440H]]"
+- "[[H9005]]"
+- "[[H0259]]"
+- "[[H9002]]"
+- "[[H3671]]"
+- "[[H1823]]"
+- "[[H3027G]]"
+- "[[H0120G]]"
+- "[[H8478G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 10:21**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every one had four faces apiece, and every one four wings; and the likeness of the hands of a man [was] under their wings.
 <small><sub>**BSB:**</sub></small>
 Each had four faces and four wings, with what looked like human hands under their wings.
+<small><sub>**Hebrew:**</sub></small>
+[[H0702\|אַרְבָּעָ֨ה]] [[H0702\|אַרְבָּעָ֤ה]] [[H6440H\|פָנִים֙]] [[H9005\|לְ]][[H0259\|אֶחָ֔ד]] [[H9002\|וְ]][[H0702\|אַרְבַּ֥ע]] [[H3671\|כְּנָפַ֖יִם]] [[H9005\|לְ]][[H0259\|אֶחָ֑ד]] [[H9002\|וּ]][[H1823\|דְמוּת֙]] [[H3027G\|יְדֵ֣י]] [[H0120G\|אָדָ֔ם]] [[H8478G\|תַּ֖חַת]] [[H3671\|כַּנְפֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.20|<< Ezekiel 10:20]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.22|Ezekiel 10:22 >>]]</td></tr></table>
 

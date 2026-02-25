@@ -1,8 +1,67 @@
+---
+title: Genesis 42:36
+type: Verse
+kjv: "And Jacob their father said unto them, Me have ye bereaved of my children: Joseph is not, and Simeon is not, and ye will take Benjamin away: all these things are against me."
+bsb: "Their father Jacob said to them, “You have deprived me of my sons. Joseph is gone and Simeon is no more. Now you want to take Benjamin. Everything is going against me!”"
+hebrew: "וַיֹּ֤אמֶר אֲלֵהֶם֙ יַעֲקֹ֣ב אֲבִיהֶ֔ם אֹתִ֖י שִׁכַּלְתֶּ֑ם יוֹסֵ֤ף אֵינֶ֙נּוּ֙ וְשִׁמְע֣וֹן אֵינֶ֔נּוּ וְאֶת־ בִּנְיָמִ֣ן תִּקָּ֔חוּ עָלַ֖י הָי֥וּ כֻלָּֽנָה׃"
+pericope: "[[Gen.42.25 Joseph’s Brothers Return to Canaan|Joseph’s Brothers Return to Canaan]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 42
+book/chapter: "[[Gen.42|Genesis 42]]"
+chronological_order: 84
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic JACOB|JACOB]]"
+- "[[topic SIMEON|SIMEON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H3290]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H7921A]]"
+- "[[H3130G]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H9002]]"
+- "[[H8095G]]"
+- "[[H9014]]"
+- "[[H1144G]]"
+- "[[H3947G]]"
+- "[[H5921A]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H9029]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 42:36**<big><big>[[Gen.42.25 Joseph’s Brothers Return to Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob their father said unto them, Me have ye bereaved [of my children]: Joseph [is] not, and Simeon [is] not, and ye will take Benjamin [away]: all these things are against me.
 <small><sub>**BSB:**</sub></small>
 Their father Jacob said to them, “You have deprived me of my sons. Joseph is gone and Simeon is no more. Now you want to take Benjamin. Everything is going against me!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶם֙]] [[H3290\|יַעֲקֹ֣ב]] [[H0001G\|אֲבִי]][[H9028\|הֶ֔ם]] [[H0853\|אֹתִ֖]][[H9030\|י]] [[H7921A\|שִׁכַּלְתֶּ֑ם]] [[H3130G\|יוֹסֵ֤ף]] [[H0369\|אֵינֶ֙]][[H9043\|נּוּ֙]] [[H9002\|וְ]][[H8095G\|שִׁמְע֣וֹן]] [[H0369\|אֵינֶ֔]][[H9043\|נּוּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1144G\|בִּנְיָמִ֣ן]] [[H3947G\|תִּקָּ֔חוּ]] [[H5921A\|עָלַ֖]][[H9030\|י]] [[H1961\|הָי֥וּ]] [[H3605\|כֻלָּֽ]][[H9029\|נָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACOB|JACOB]] • [[topic SIMEON|SIMEON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.35|<< Genesis 42:35]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.37|Genesis 42:37 >>]]</td></tr></table>
 

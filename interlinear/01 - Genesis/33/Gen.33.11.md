@@ -1,8 +1,69 @@
+---
+title: Genesis 33:11
+type: Verse
+kjv: "Take, I pray thee, my blessing that is brought to thee; because God hath dealt graciously with me, and because I have enough. And he urged him, and he took it."
+bsb: "Please accept my gift that was brought to you, because God has been gracious to me and I have all I need.” So Jacob pressed him until he accepted."
+hebrew: "קַח־ נָ֤א אֶת־ בִּרְכָתִי֙ אֲשֶׁ֣ר הֻבָ֣את לָ֔ךְ כִּֽי־ חַנַּ֥נִי אֱלֹהִ֖ים וְכִ֣י יֶשׁ־ לִי־ כֹ֑ל וַיִּפְצַר־ בּ֖וֹ וַיִּקָּֽח׃"
+pericope: "[[Gen.33.1 Jacob Meets Esau|Jacob Meets Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 33
+book/chapter: "[[Gen.33|Genesis 33]]"
+chronological_order: 75
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PROSPERITY|PROSPERITY]]"
+- "[[topic RECONCILIATION|RECONCILIATION]]"
+strongs:
+- "[[H3947H]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H0853]]"
+- "[[H1293]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H0935P]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H3588A]]"
+- "[[H2603A]]"
+- "[[H9030]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H3426]]"
+- "[[H3605]]"
+- "[[H9001]]"
+- "[[H6484]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 33:11**<big><big>[[Gen.33.1 Jacob Meets Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take, I pray thee, my blessing that is brought to thee; because God hath dealt graciously with me, and because I have enough. And he urged him, and he took [it].
 <small><sub>**BSB:**</sub></small>
 Please accept my gift that was brought to you, because God has been gracious to me and I have all I need.” So Jacob pressed him until he accepted.
+<small><sub>**Hebrew:**</sub></small>
+[[H3947H\|קַח]][[H9014\|־]] [[H4994\|נָ֤א]] [[H0853\|אֶת]][[H9014\|־]] [[H1293\|בִּרְכָתִ]][[H9020\|י֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0935P\|הֻבָ֣את]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2603A\|חַנַּ֥]][[H9030\|נִי]] [[H0430G\|אֱלֹהִ֖ים]] [[H9002\|וְ]][[H3588A\|כִ֣י]] [[H3426\|יֶשׁ]][[H9014\|־]] [[H9005\|לִ]][[H9030\|י]][[H9014\|־]] [[H3605\|כֹ֑ל]] [[H9001\|וַ]][[H6484\|יִּפְצַר]][[H9014\|־]] [[H9003\|בּ֖]][[H9033\|וֹ]] [[H9001\|וַ]][[H3947H\|יִּקָּֽח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic PRAYER|PRAYER]] • [[topic PROSPERITY|PROSPERITY]] • [[topic RECONCILIATION|RECONCILIATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.33.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.33.10|<< Genesis 33:10]]</td><td align="center" style="border:none;">[[Gen.33|Genesis 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.33.12|Genesis 33:12 >>]]</td></tr></table>
 

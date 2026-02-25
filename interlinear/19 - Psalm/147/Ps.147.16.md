@@ -1,8 +1,53 @@
+---
+title: Psalm 147:16
+type: Verse
+kjv: "He giveth snow like wool: he scattereth the hoarfrost like ashes."
+bsb: "He spreads the snow like wool; He scatters the frost like ashes;"
+hebrew: "הַנֹּתֵ֣ן שֶׁ֣לֶג כַּצָּ֑מֶר כְּ֝פ֗וֹר כָּאֵ֥פֶר יְפַזֵּֽר׃"
+pericope: "[[Ps.147.1 It Is Good to Sing Praises|It Is Good to Sing Praises]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 147
+book/chapter: "[[Ps.147|Psalm 147]]"
+chronological_order: 895
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H9009]]"
+- "[[H5414G]]"
+- "[[H7950]]"
+- "[[H9004]]"
+- "[[H6785]]"
+- "[[H3713B]]"
+- "[[H0665]]"
+- "[[H6340]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 147:16**<big><big>[[Ps.147.1 It Is Good to Sing Praises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He giveth snow like wool: he scattereth the hoarfrost like ashes.
 <small><sub>**BSB:**</sub></small>
 He spreads the snow like wool; He scatters the frost like ashes;
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H5414G\|נֹּתֵ֣ן]] [[H7950\|שֶׁ֣לֶג]] [[H9004\|כַּ]][[H6785\|צָּ֑מֶר]] [[H3713B\|כְּ֝פ֗וֹר]] [[H9004\|כָּ]][[H0665\|אֵ֥פֶר]] [[H6340\|יְפַזֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.147.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.15|<< Psalms 147:15]]</td><td align="center" style="border:none;">[[Ps.147|Psalms 147]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.147.17|Psalms 147:17 >>]]</td></tr></table>
 

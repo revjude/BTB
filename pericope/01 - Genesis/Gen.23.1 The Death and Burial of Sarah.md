@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Death and Burial of Sarah
+type: Pericope
 pericope: "[[Gen.23.1 The Death and Burial of Sarah|The Death and Burial of Sarah]]"
-verse_count: 20
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 23
 book/chapter: "[[Gen.23|Genesis 23]]"
-genre:
+chronological_order: 65
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 20
 verses:
 - "[[Gen.23.1]]"
 - "[[Gen.23.2]]"
@@ -41,7 +48,7 @@ verses:
 - "[[Gen.23.20]]"
 ---
 
-[[Gen.23|Genesis 23:1 - Genesis 23:20]]
+<small>[[Gen.23|Genesis 23:1-20]]</small>
 *The Death and Burial of Sarah*
 
 [[Gen.23.1|1]] And Sarah was an hundred and seven and twenty years old: \[these were\] the years of the life of Sarah.

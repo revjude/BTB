@@ -1,8 +1,67 @@
+---
+title: Isaiah 15:2
+type: Verse
+kjv: "He is gone up to Bajith, and to Dibon, the high places, to weep: Moab shall howl over Nebo, and over Medeba: on all their heads shall be baldness, and every beard cut off."
+bsb: "Dibon goes up to its temple to weep at its high places. Moab wails over Nebo, as well as over Medeba. Every head is shaved, every beard is cut off."
+hebrew: "עָלָ֨ה הַבַּ֧יִת וְדִיבֹ֛ן הַבָּמ֖וֹת לְבֶ֑כִי עַל־ נְב֞וֹ וְעַ֤ל מֵֽידְבָא֙ מוֹאָ֣ב יְיֵלִ֔יל בְּכָל־ רֹאשָׁ֣יו קָרְחָ֔ה כָּל־ זָקָ֖ן גְּרוּעָֽה׃"
+pericope: "[[Isa.15.1 The Burden against Moab|The Burden against Moab]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 15
+book/chapter: "[[Isa.15|Isaiah 15]]"
+chronological_order: 632
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BAJITH|BAJITH]]"
+- "[[topic BEARD|BEARD]]"
+- "[[topic DIBON|DIBON]]"
+- "[[topic MEDEBA|MEDEBA]]"
+- "[[topic NEBO|NEBO]]"
+strongs:
+- "[[H5927G]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H9002]]"
+- "[[H1769G]]"
+- "[[H1116]]"
+- "[[H9005]]"
+- "[[H1065]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5015A]]"
+- "[[H4311]]"
+- "[[H4124G]]"
+- "[[H3213]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H7144]]"
+- "[[H2206]]"
+- "[[H1639]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 15:2**<big><big>[[Isa.15.1 The Burden against Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He is gone up to Bajith, and to Dibon, the high places, to weep: Moab shall howl over Nebo, and over Medeba: on all their heads [shall be] baldness, [and] every beard cut off.
 <small><sub>**BSB:**</sub></small>
 Dibon goes up to its temple to weep at its high places. Moab wails over Nebo, as well as over Medeba. Every head is shaved, every beard is cut off.
+<small><sub>**Hebrew:**</sub></small>
+[[H5927G\|עָלָ֨ה]] [[H9009\|הַ]][[H1004B\|בַּ֧יִת]] [[H9002\|וְ]][[H1769G\|דִיבֹ֛ן]] [[H9009\|הַ]][[H1116\|בָּמ֖וֹת]] [[H9005\|לְ]][[H1065\|בֶ֑כִי]] [[H5921A\|עַל]][[H9014\|־]] [[H5015A\|נְב֞וֹ]] [[H9002\|וְ]][[H5921A\|עַ֤ל]] [[H4311\|מֵֽידְבָא֙]] [[H4124G\|מוֹאָ֣ב]] [[H3213\|יְיֵלִ֔יל]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H7218A\|רֹאשָׁ֣י]][[H9023\|ו]] [[H7144\|קָרְחָ֔ה]] [[H3605\|כָּל]][[H9014\|־]] [[H2206\|זָקָ֖ן]] [[H1639\|גְּרוּעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAJITH|BAJITH]] • [[topic BEARD|BEARD]] • [[topic DIBON|DIBON]] • [[topic MEDEBA|MEDEBA]] • [[topic NEBO|NEBO]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.15.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.15.1|<< Isaiah 15:1]]</td><td align="center" style="border:none;">[[Isa.15|Isaiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.15.3|Isaiah 15:3 >>]]</td></tr></table>
 

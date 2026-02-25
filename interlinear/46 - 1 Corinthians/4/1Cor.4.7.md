@@ -1,10 +1,57 @@
+---
+title: 1 Corinthians 4:7
+type: Verse
+kjv: "For who maketh thee to differ from another? and what hast thou that thou didst not receive? now if thou didst receive it, why dost thou glory, as if thou hadst not received it?"
+bsb: "For who makes you so superior? What do you have that you did not receive? And if you did receive it, why do you boast as though you did not?"
+greek: "τίς γάρ σε διακρίνει; τί δὲ ἔχεις ὃ οὐκ ἔλαβες; εἰ δὲ καὶ ἔλαβες, τί καυχᾶσαι ὡς μὴ λαβών;"
+pericope: "[[1Cor.4.1 Servants of Christ|Servants of Christ]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 4
+book/chapter: "[[1Cor.4|1 Corinthians 4]]"
+chronological_order: 1061
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5101]]"
+- "[[G1063]]"
+- "[[G4771]]"
+- "[[G1252]]"
+- "[[G1161]]"
+- "[[G2192]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G2983]]"
+- "[[G1487G]]"
+- "[[G2532]]"
+- "[[G2744]]"
+- "[[G5613]]"
+- "[[G3361]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 4:7**<big><big>[[1Cor.4.1 Servants of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For who maketh thee to differ [from another]? and what hast thou that thou didst not receive? now if thou didst receive [it], why dost thou glory, as if thou hadst not received [it]?
 <small><sub>**BSB:**</sub></small>
 For who makes you so superior? What do you have that you did not receive? And if you did receive it, why do you boast as though you did not?
-<small><sub>**Literal:**</sub></small>
-Who for you makes different? What now have you which not you did receive? If now even you did receive [it], why boast you as not having received [it]?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.6|<< 1 Corinthians 4:6]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.8|1 Corinthians 4:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τίς]]  [[G1063\|γάρ]]  [[G4771\|σε]]  [[G1252\|διακρίνει;]]  [[G5101\|τί]]  [[G1161\|δὲ]]  [[G2192\|ἔχεις]]  [[G3739\|ὃ]]  [[G3756\|οὐκ]]  [[G2983\|ἔλαβες;]]  [[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G2983\|ἔλαβες,]]  [[G5101\|τί]]  [[G2744\|καυχᾶσαι]]  [[G5613\|ὡς]]  [[G3361\|μὴ]]  [[G2983\|λαβών;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOASTING|BOASTING]] • [[topic PRIDE|PRIDE]] • [[topic STRIFE|STRIFE]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.6|<< 1 Corinthians 4:6]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.8|1 Corinthians 4:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

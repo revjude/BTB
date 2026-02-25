@@ -1,8 +1,58 @@
+---
+title: Isaiah 52:3
+type: Verse
+kjv: "For thus saith the LORD, Ye have sold yourselves for nought; and ye shall be redeemed without money."
+bsb: "For this is what the LORD says: “You were sold for nothing, and without money you will be redeemed.”"
+hebrew: "כִּֽי־ כֹה֙ אָמַ֣ר יְהוָ֔ה חִנָּ֖ם נִמְכַּרְתֶּ֑ם וְלֹ֥א בְכֶ֖סֶף תִּגָּאֵֽלוּ׃"
+pericope: "[[Isa.52.1 Deliverance for Jerusalem|Deliverance for Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 52
+book/chapter: "[[Isa.52|Isaiah 52]]"
+chronological_order: 691
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H2600]]"
+- "[[H4376]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H3701G]]"
+- "[[H1350A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 52:3**<big><big>[[Isa.52.1 Deliverance for Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD, Ye have sold yourselves for nought; and ye shall be redeemed without money.
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD says: “You were sold for nothing, and without money you will be redeemed.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3541\|כֹה֙]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H2600\|חִנָּ֖ם]] [[H4376\|נִמְכַּרְתֶּ֑ם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H9003\|בְ]][[H3701G\|כֶ֖סֶף]] [[H1350A\|תִּגָּאֵֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MONEY|MONEY]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.52.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.52.2|<< Isaiah 52:2]]</td><td align="center" style="border:none;">[[Isa.52|Isaiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52.4|Isaiah 52:4 >>]]</td></tr></table>
 

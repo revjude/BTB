@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel Will Reap the Whirlwind
+type: Pericope
 pericope: "[[Hos.8.1 Israel Will Reap the Whirlwind|Israel Will Reap the Whirlwind]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Hosea
 chapter: 8
 book/chapter: "[[Hos.8|Hosea 8]]"
-genre:
+chronological_order: 649
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 14
 verses:
 - "[[Hos.8.1]]"
 - "[[Hos.8.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Hos.8.14]]"
 ---
 
-[[Hos.8|Hosea 8:1 - Hosea 8:14]]
+<small>[[Hos.8|Hosea 8:1-14]]</small>
 *Israel Will Reap the Whirlwind*
 
 [[Hos.8.1|1]] \[Set\] the trumpet to thy mouth. \[He shall come\] as an eagle against the house of the LORD, because they have transgressed my covenant, and trespassed against my law.

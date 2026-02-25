@@ -1,10 +1,66 @@
+---
+title: Luke 12:46
+type: Verse
+kjv: "The lord of that servant will come in a day when he looketh not for him, and at an hour when he is not aware, and will cut him in sunder, and will appoint him his portion with the unbelievers."
+bsb: "The master of that servant will come on a day he does not expect and at an hour he does not anticipate. Then he will cut him to pieces and assign him a place with the unbelievers."
+jesus_said: "The lord of that servant will come in a day when he looketh not for him, and at an hour when he is not aware, and will cut him in sunder, and will appoint him his portion with the unbelievers."
+greek: "ἥξει ὁ κύριος τοῦ δούλου ἐκείνου ἐν ἡμέρᾳ ᾗ οὐ προσδοκᾷ καὶ ἐν ὥρᾳ ᾗ οὐ γινώσκει καὶ διχοτομήσει αὐτὸν καὶ τὸ μέρος αὐτοῦ μετὰ τῶν ἀπίστων θήσει.¶"
+pericope: "[[Luke.12.35 Readiness at Any Hour|Readiness at Any Hour]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GLUTTONY|GLUTTONY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2240]]"
+- "[[G3588]]"
+- "[[G2962H]]"
+- "[[G1401]]"
+- "[[G1565]]"
+- "[[G1722]]"
+- "[[G2250]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G4328]]"
+- "[[G2532]]"
+- "[[G5610]]"
+- "[[G1097]]"
+- "[[G1371]]"
+- "[[G0846]]"
+- "[[G3313]]"
+- "[[G3326]]"
+- "[[G0571]]"
+- "[[G5087]]"
+texts:
+- NKO
+---
+
 **Luke 12:46**<big><big>[[Luke.12.35 Readiness at Any Hour|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The lord of that servant will come in a day when he looketh not for [him], and at an hour when he is not aware, and will cut him in sunder, and will appoint him his portion with the unbelievers.
 <small><sub>**BSB:**</sub></small>
 The master of that servant will come on a day he does not expect and at an hour he does not anticipate. Then he will cut him to pieces and assign him a place with the unbelievers.
-<small><sub>**Literal:**</sub></small>
-will come the master of the servant that [one] in a day in which not he does expect and in an hour that not he knows and he will cut in two him and the place of him with the unbelievers will appoint.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.45|<< Luke 12:45]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.47|Luke 12:47 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2240\|ἥξει]]  [[G3588\|ὁ]]  [[G2962H\|κύριος]]  [[G3588\|τοῦ]]  [[G1401\|δούλου]]  [[G1565\|ἐκείνου]]  [[G1722\|ἐν]]  [[G2250\|ἡμέρᾳ]]  [[G3739\|ᾗ]]  [[G3756\|οὐ]]  [[G4328\|προσδοκᾷ]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G5610\|ὥρᾳ]]  [[G3739\|ᾗ]]  [[G3756\|οὐ]]  [[G1097\|γινώσκει]]  [[G2532\|καὶ]]  [[G1371\|διχοτομήσει]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G3313\|μέρος]]  [[G0846\|αὐτοῦ]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G0571\|ἀπίστων]]  [[G5087\|θήσει.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GLUTTONY|GLUTTONY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SERVANT|SERVANT]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.45|<< Luke 12:45]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.47|Luke 12:47 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

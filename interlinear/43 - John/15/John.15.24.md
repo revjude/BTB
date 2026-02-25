@@ -1,10 +1,69 @@
+---
+title: John 15:24
+type: Verse
+kjv: "If I had not done among them the works which none other man did, they had not had sin: but now have they both seen and hated both me and my Father."
+bsb: "If I had not done among them the works that no one else did, they would not be guilty of sin; but now they have seen and hated both Me and My Father."
+jesus_said: "If I had not done among them the works which none other man did, they had not had sin: but now have they both seen and hated both me and my Father."
+greek: "εἰ τὰ ἔργα μὴ ἐποίησα ἐν αὐτοῖς ἃ οὐδεὶς ἄλλος ἐποίησεν, ἁμαρτίαν οὐκ εἴχοσαν· νῦν δὲ καὶ ἑωράκασιν καὶ μεμισήκασιν καὶ ἐμὲ καὶ τὸν πατέρα μου·"
+pericope: "[[John.15.18 The Hatred of the World|The Hatred of the World]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 15
+book/chapter: "[[John.15|John 15]]"
+chronological_order: 1003
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic HATRED|HATRED]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+strongs:
+- "[[G1487H]]"
+- "[[G3588]]"
+- "[[G2041]]"
+- "[[G3361]]"
+- "[[G4160G]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G3739]]"
+- "[[G3762]]"
+- "[[G0243]]"
+- "[[G0266]]"
+- "[[G3756]]"
+- "[[G2192]]"
+- "[[G3568]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G3708]]"
+- "[[G3404]]"
+- "[[G1473]]"
+- "[[G3962]]"
+- "[[G3165]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 15:24**<big><big>[[John.15.18 The Hatred of the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If I had not done among them the works which none other man did, they had not had sin: but now have they both seen and hated both me and my Father.
 <small><sub>**BSB:**</sub></small>
 If I had not done among them the works that no one else did, they would not be guilty of sin; but now they have seen and hated both Me and My Father.
-<small><sub>**Literal:**</sub></small>
-If the works not I had done among them that no other did, sin not they had; now however both they have seen and have hated both Me myself and the Father of Mine;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.23|<< John 15:23]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.25|John 15:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487H\|εἰ]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G3361\|μὴ]]  [[G4160G\|ἐποίησα]]  [[G1722\|ἐν]]  [[G0846\|αὐτοῖς]]  [[G3739\|ἃ]]  [[G3762\|οὐδεὶς]]  [[G0243\|ἄλλος]]  [[G4160G\|ἐποίησεν,]]  [[G0266\|ἁμαρτίαν]]  [[G3756\|οὐκ]]  [[G2192\|εἴχοσαν·]]  [[G3568\|νῦν]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3708\|ἑωράκασιν]]  [[G2532\|καὶ]]  [[G3404\|μεμισήκασιν]]  [[G2532\|καὶ]]  [[G1473\|ἐμὲ]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G3165\|μου·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic GODLESSNESS|GODLESSNESS]] • [[topic HATRED|HATRED]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic PERSECUTION|PERSECUTION]] • [[topic RESPONSIBILITY|RESPONSIBILITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.23|<< John 15:23]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.25|John 15:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

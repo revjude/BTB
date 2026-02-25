@@ -1,8 +1,63 @@
+---
+title: Ezekiel 40:48
+type: Verse
+kjv: "And he brought me to the porch of the house, and measured each post of the porch, five cubits on this side, and five cubits on that side: and the breadth of the gate was three cubits on this side, and three cubits on that side."
+bsb: "Then he brought me to the portico of the temple and measured the side pillars of the portico to be five cubits on each side. The width of the gateway was fourteen cubits and its sidewalls were three cubits on either side."
+hebrew: "וַיְבִאֵנִי֮ אֶל־ אֻלָ֣ם הַבַּיִת֒ וַיָּ֙מָד֙ אֵ֣ל אֻלָ֔ם חָמֵ֤שׁ אַמּוֹת֙ מִפֹּ֔ה וְחָמֵ֥שׁ אַמּ֖וֹת מִפֹּ֑ה וְרֹ֣חַב הַשַּׁ֔עַר שָׁלֹ֤שׁ אַמּוֹת֙ מִפּ֔וֹ וְשָׁלֹ֥שׁ אַמּ֖וֹת מִפּֽוֹ׃"
+pericope: "[[Ezek.40.47 The Inner Court|The Inner Court]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 40
+book/chapter: "[[Ezek.40|Ezekiel 40]]"
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H9030]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0197J]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H4058]]"
+- "[[H0352B]]"
+- "[[H2568]]"
+- "[[H0520A]]"
+- "[[H9006]]"
+- "[[H6311]]"
+- "[[H9002]]"
+- "[[H7341]]"
+- "[[H8179G]]"
+- "[[H7969]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 40:48**<big><big>[[Ezek.40.47 The Inner Court|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought me to the porch of the house, and measured [each] post of the porch, five cubits on this side, and five cubits on that side: and the breadth of the gate [was] three cubits on this side, and three cubits on that side.
 <small><sub>**BSB:**</sub></small>
 Then he brought me to the portico of the temple and measured the side pillars of the portico to be five cubits on each side. The width of the gateway was fourteen cubits and its sidewalls were three cubits on either side.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935P\|יְבִאֵ]][[H9030\|נִי֮]] [[H0413\|אֶל]][[H9014\|־]] [[H0197J\|אֻלָ֣ם]] [[H9009\|הַ]][[H1004B\|בַּיִת֒]] [[H9001\|וַ]][[H4058\|יָּ֙מָד֙]] [[H0352B\|אֵ֣ל]] [[H0197J\|אֻלָ֔ם]] [[H2568\|חָמֵ֤שׁ]] [[H0520A\|אַמּוֹת֙]] [[H9006\|מִ]][[H6311\|פֹּ֔ה]] [[H9002\|וְ]][[H2568\|חָמֵ֥שׁ]] [[H0520A\|אַמּ֖וֹת]] [[H9006\|מִ]][[H6311\|פֹּ֑ה]] [[H9002\|וְ]][[H7341\|רֹ֣חַב]] [[H9009\|הַ]][[H8179G\|שַּׁ֔עַר]] [[H7969\|שָׁלֹ֤שׁ]] [[H0520A\|אַמּוֹת֙]] [[H9006\|מִ]][[H6311\|פּ֔וֹ]] [[H9002\|וְ]][[H7969\|שָׁלֹ֥שׁ]] [[H0520A\|אַמּ֖וֹת]] [[H9006\|מִ]][[H6311\|פּֽוֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.47|<< Ezekiel 40:47]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.49|Ezekiel 40:49 >>]]</td></tr></table>
 

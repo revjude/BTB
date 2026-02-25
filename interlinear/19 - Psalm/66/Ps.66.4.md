@@ -1,8 +1,62 @@
+---
+title: Psalm 66:4
+type: Verse
+kjv: "All the earth shall worship thee, and shall sing unto thee; they shall sing to thy name. Selah."
+bsb: "All the earth bows down to You; they sing praise to You; they sing praise to Your name.” Selah"
+hebrew: "כָּל־ הָאָ֤רֶץ׀ יִשְׁתַּחֲו֣וּ לְ֭ךָ וִֽיזַמְּרוּ־ לָ֑ךְ יְזַמְּר֖וּ שִׁמְךָ֣ סֶֽלָה׃"
+pericope: "[[Ps.66.1 Make a Joyful Noise|Make a Joyful Noise]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 66
+book/chapter: "[[Ps.66|Psalm 66]]"
+chronological_order: 426
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9015]]"
+- "[[H7812]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H2167]]"
+- "[[H9032]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 66:4**<big><big>[[Ps.66.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the earth shall worship thee, and shall sing unto thee; they shall sing [to] thy name. Selah.
 <small><sub>**BSB:**</sub></small>
 All the earth bows down to You; they sing praise to You; they sing praise to Your name.” Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֤רֶץ]][[H9015\|׀]] [[H7812\|יִשְׁתַּחֲו֣וּ]] [[H9005\|לְ֭]][[H9031\|ךָ]] [[H9002\|וִֽ]][[H2167\|יזַמְּרוּ]][[H9014\|־]] [[H9005\|לָ֑]][[H9032\|ךְ]] [[H2167\|יְזַמְּר֖וּ]] [[H8034\|שִׁמְ]][[H9021\|ךָ֣]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAISE|PRAISE]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.3|<< Psalms 66:3]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.5|Psalms 66:5 >>]]</td></tr></table>
 

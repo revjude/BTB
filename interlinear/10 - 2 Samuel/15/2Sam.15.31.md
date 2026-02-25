@@ -1,8 +1,62 @@
+---
+title: 2 Samuel 15:31
+type: Verse
+kjv: "And one told David, saying, Ahithophel is among the conspirators with Absalom. And David said, O LORD, I pray thee, turn the counsel of Ahithophel into foolishness."
+bsb: "Now someone told David: “Ahithophel is among the conspirators with Absalom.” So David pleaded, “O LORD, please turn the counsel of Ahithophel into foolishness!”"
+hebrew: "וְדָוִד֙ הִגִּ֣יד לֵאמֹ֔ר אֲחִיתֹ֥פֶל בַּקֹּשְׁרִ֖ים עִם־ אַבְשָׁל֑וֹם וַיֹּ֣אמֶר דָּוִ֔ד סַכֶּל־ נָ֛א אֶת־ עֲצַ֥ת אֲחִיתֹ֖פֶל יְהוָֽה׃"
+pericope: "[[2Sam.15.30 David Weeps at the Mount of Olives|David Weeps at the Mount of Olives]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 15
+book/chapter: "[[2Sam.15|2 Samuel 15]]"
+chronological_order: 414
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AHITHOPHEL|AHITHOPHEL]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H9002]]"
+- "[[H1732]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0302]]"
+- "[[H9003]]"
+- "[[H7194]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H0053]]"
+- "[[H9001]]"
+- "[[H5528]]"
+- "[[H4994]]"
+- "[[H0853]]"
+- "[[H6098]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 15:31**<big><big>[[2Sam.15.30 David Weeps at the Mount of Olives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [one] told David, saying, Ahithophel [is] among the conspirators with Absalom. And David said, O LORD, I pray thee, turn the counsel of Ahithophel into foolishness.
 <small><sub>**BSB:**</sub></small>
 Now someone told David: “Ahithophel is among the conspirators with Absalom.” So David pleaded, “O LORD, please turn the counsel of Ahithophel into foolishness!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1732\|דָוִד֙]] [[H5046\|הִגִּ֣יד]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H0302\|אֲחִיתֹ֥פֶל]] [[H9003\|בַּ]][[H7194\|קֹּשְׁרִ֖ים]] [[H5973A\|עִם]][[H9014\|־]] [[H0053\|אַבְשָׁל֑וֹם]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H1732\|דָּוִ֔ד]] [[H5528\|סַכֶּל]][[H9014\|־]] [[H4994\|נָ֛א]] [[H0853\|אֶת]][[H9014\|־]] [[H6098\|עֲצַ֥ת]] [[H0302\|אֲחִיתֹ֖פֶל]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AHITHOPHEL|AHITHOPHEL]] • [[topic DAVID|DAVID]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.30|<< 2 Samuel 15:30]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.32|2 Samuel 15:32 >>]]</td></tr></table>
 

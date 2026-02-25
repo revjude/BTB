@@ -1,10 +1,63 @@
+---
+title: Luke 18:4
+type: Verse
+kjv: "And he would not for a while: but afterward he said within himself, Though I fear not God, nor regard man;"
+bsb: "For a while he refused, but later he said to himself, ‘Though I neither fear God nor respect men,"
+jesus_said: "And he would not for a while: but afterward he said within himself, Though I fear not God, nor regard man;"
+greek: "καὶ οὐκ ἤθελεν ἐπὶ χρόνον. μετὰ δὲ ταῦτα εἶπεν ἐν ἑαυτῷ· εἰ καὶ τὸν θεὸν οὐ φοβοῦμαι οὐδὲ ἄνθρωπον ἐντρέπομαι,"
+pericope: "[[Luke.18.1 The Parable of the Persistent Widow|The Parable of the Persistent Widow]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 18
+book/chapter: "[[Luke.18|Luke 18]]"
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2309]]"
+- "[[G1909]]"
+- "[[G5550]]"
+- "[[G3326]]"
+- "[[G1161]]"
+- "[[G3778]]"
+- "[[G2036]]"
+- "[[G1722]]"
+- "[[G1438]]"
+- "[[G1487M]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G5399]]"
+- "[[G3761]]"
+- "[[G0444]]"
+- "[[G1788]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 18:4**<big><big>[[Luke.18.1 The Parable of the Persistent Widow|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he would not for a while: but afterward he said within himself, Though I fear not God, nor regard man;
 <small><sub>**BSB:**</sub></small>
 For a while he refused, but later he said to himself, ‘Though I neither fear God nor respect men,
-<small><sub>**Literal:**</sub></small>
-And not he was desiring [to do] for a time. afterward however he said within himself; If even <the> God not I fear nor man respect,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.3|<< Luke 18:3]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.5|Luke 18:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G2309\|ἤθελεν]]  [[G1909\|ἐπὶ]]  [[G5550\|χρόνον.]]  [[G3326\|μετὰ]]  [[G1161\|δὲ]]  [[G3778\|ταῦτα]]  [[G2036\|εἶπεν]]  [[G1722\|ἐν]]  [[G1438\|ἑαυτῷ·]]  [[G1487M\|εἰ]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G3756\|οὐ]]  [[G5399\|φοβοῦμαι]]  [[G3761\|οὐδὲ]]  [[G0444\|ἄνθρωπον]]  [[G1788\|ἐντρέπομαι,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESPONDENCY|DESPONDENCY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.3|<< Luke 18:3]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.5|Luke 18:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

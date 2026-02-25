@@ -5,7 +5,7 @@
 
 → See [[topic SABBATH|SABBATH]]
 
-→ One year in seven [[Lev.25.2|Le 25:2]]-[[Lev.25.7|7]]
+→ One year in seven [[Lev.25.2|Le 25:2-7]]
 
 → See [[topic JUBILEE|JUBILEE]]
 

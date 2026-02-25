@@ -1,10 +1,68 @@
+---
+title: Acts 21:4
+type: Verse
+kjv: "And finding disciples, we tarried there seven days: who said to Paul through the Spirit, that he should not go up to Jerusalem."
+bsb: "We sought out the disciples in Tyre and stayed with them seven days. Through the Spirit they kept telling Paul not to go up to Jerusalem."
+greek: "καὶ Ἀνευρόντες δὲ τοὺς μαθητὰς ἐπεμείναμεν αὐτοῦ ἡμέρας ἑπτά, οἵτινες τῷ Παύλῳ ἔλεγον διὰ τοῦ πνεύματος μὴ ἐπιβαίνειν εἰς Ἱεροσόλυμα."
+pericope: "[[Acts.21.1 Paul’s Journey to Jerusalem|Paul’s Journey to Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 21
+book/chapter: "[[Acts.21|Acts 21]]"
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DISCIPLE|DISCIPLE]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic LUKE|LUKE]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHENICIA|PHENICIA]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic RASHNESS|RASHNESS]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[G2532]]"
+- "[[G0429]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G1961]]"
+- "[[G0847]]"
+- "[[G2250]]"
+- "[[G2033]]"
+- "[[G3748]]"
+- "[[G3972G]]"
+- "[[G3004G]]"
+- "[[G1223]]"
+- "[[G4151G]]"
+- "[[G3361]]"
+- "[[G1910]]"
+- "[[G1519]]"
+- "[[G2414]]"
+texts:
+- k
+- NKO
+- no
+- N(k)O
+---
+
 **Acts 21:4**<big><big>[[Acts.21.1 Paul’s Journey to Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And finding disciples, we tarried there seven days: who said to Paul through the Spirit, that he should not go up to Jerusalem.
 <small><sub>**BSB:**</sub></small>
 We sought out the disciples in Tyre and stayed with them seven days. Through the Spirit they kept telling Paul not to go up to Jerusalem.
-<small><sub>**Literal:**</sub></small>
-and Having sought out then the disciples we remained there days seven, who <the> to Paul were telling through the Spirit not to go up to Jerusalem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.3|<< Acts 21:3]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.5|Acts 21:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0429\|Ἀνευρόντες]]  [[G1161\|δὲ]]  [[G3588\|τοὺς]]  [[G3101\|μαθητὰς]]  [[G1961\|ἐπεμείναμεν]]  [[G0847\|αὐτοῦ]]  [[G2250\|ἡμέρας]]  [[G2033\|ἑπτά,]]  [[G3748\|οἵτινες]]  [[G3588\|τῷ]]  [[G3972G\|Παύλῳ]]  [[G3004G\|ἔλεγον]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G4151G\|πνεύματος]]  [[G3361\|μὴ]]  [[G1910\|ἐπιβαίνειν]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISCIPLE|DISCIPLE]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic LUKE|LUKE]] • [[topic PAUL|PAUL]] • [[topic PHENICIA|PHENICIA]] • [[topic PROPHETS|PROPHETS]] • [[topic RASHNESS|RASHNESS]] • [[topic SEVEN|SEVEN]] • [[topic TYRE|TYRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.3|<< Acts 21:3]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.5|Acts 21:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

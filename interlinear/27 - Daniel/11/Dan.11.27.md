@@ -1,8 +1,62 @@
+---
+title: Daniel 11:27
+type: Verse
+kjv: "And both these kings’ hearts shall be to do mischief, and they shall speak lies at one table; but it shall not prosper: for yet the end shall be at the time appointed."
+bsb: "And the two kings, with their hearts bent on evil, will speak lies at the same table, but to no avail, for still the end will come at the appointed time."
+hebrew: "וּשְׁנֵיהֶ֤ם הַמְּלָכִים֙ לְבָבָ֣ם לְמֵרָ֔ע וְעַל־ שֻׁלְחָ֥ן אֶחָ֖ד כָּזָ֣ב יְדַבֵּ֑רוּ וְלֹ֣א תִצְלָ֔ח כִּי־ ע֥וֹד קֵ֖ץ לַמּוֹעֵֽד׃"
+pericope: "[[Dan.11.1 Kings of the South and North|Kings of the South and North]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3824]]"
+- "[[H9005]]"
+- "[[H4827]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7979]]"
+- "[[H0259]]"
+- "[[H3577]]"
+- "[[H1696G]]"
+- "[[H3808]]"
+- "[[H6743B]]"
+- "[[H3588A]]"
+- "[[H5750]]"
+- "[[H7093]]"
+- "[[H4150G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 11:27**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And both these kings’ hearts [shall be] to do mischief, and they shall speak lies at one table; but it shall not prosper: for yet the end [shall be] at the time appointed.
 <small><sub>**BSB:**</sub></small>
 And the two kings, with their hearts bent on evil, will speak lies at the same table, but to no avail, for still the end will come at the appointed time.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H8147\|שְׁנֵי]][[H9028\|הֶ֤ם]] [[H9009\|הַ]][[H4428G\|מְּלָכִים֙]] [[H3824\|לְבָבָ֣]][[H9028\|ם]] [[H9005\|לְ]][[H4827\|מֵרָ֔ע]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H7979\|שֻׁלְחָ֥ן]] [[H0259\|אֶחָ֖ד]] [[H3577\|כָּזָ֣ב]] [[H1696G\|יְדַבֵּ֑רוּ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6743B\|תִצְלָ֔ח]] [[H3588A\|כִּי]][[H9014\|־]] [[H5750\|ע֥וֹד]] [[H7093\|קֵ֖ץ]] [[H9005\|לַ]][[H4150G\|מּוֹעֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.26|<< Daniel 11:26]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.28|Daniel 11:28 >>]]</td></tr></table>
 

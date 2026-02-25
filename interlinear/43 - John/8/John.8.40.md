@@ -1,10 +1,62 @@
+---
+title: John 8:40
+type: Verse
+kjv: "But now ye seek to kill me, a man that hath told you the truth, which I have heard of God: this did not Abraham."
+bsb: "But now you are trying to kill Me, a man who has told you the truth that I heard from God. Abraham never did such a thing."
+jesus_said: "But now ye seek to kill me, a man that hath told you the truth, which I have heard of God: this did not Abraham."
+greek: "νῦν δὲ ζητεῖτέ με ἀποκτεῖναι, ἄνθρωπον ὃς τὴν ἀλήθειαν ὑμῖν λελάληκα ἣν ἤκουσα παρὰ τοῦ θεοῦ· τοῦτο Ἀβραὰμ οὐκ ἐποίησεν."
+pericope: "[[John.8.30 The Truth Will Set You Free|The Truth Will Set You Free]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G3568]]"
+- "[[G1161]]"
+- "[[G2212]]"
+- "[[G3165]]"
+- "[[G0615]]"
+- "[[G0444]]"
+- "[[G3739]]"
+- "[[G3588]]"
+- "[[G0225]]"
+- "[[G4771]]"
+- "[[G2980]]"
+- "[[G0191]]"
+- "[[G3844]]"
+- "[[G2316]]"
+- "[[G3778]]"
+- "[[G0011]]"
+- "[[G3756]]"
+- "[[G4160G]]"
+texts:
+- NKO
+---
+
 **John 8:40**<big><big>[[John.8.30 The Truth Will Set You Free|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But now ye seek to kill me, a man that hath told you the truth, which I have heard of God: this did not Abraham.
 <small><sub>**BSB:**</sub></small>
 But now you are trying to kill Me, a man who has told you the truth that I heard from God. Abraham never did such a thing.
-<small><sub>**Literal:**</sub></small>
-now however you seek Me to kill, a man who the truth to you has spoken that I heard from <the> God; This Abraham not did.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.39|<< John 8:39]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.41|John 8:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3568\|νῦν]]  [[G1161\|δὲ]]  [[G2212\|ζητεῖτέ]]  [[G3165\|με]]  [[G0615\|ἀποκτεῖναι,]]  [[G0444\|ἄνθρωπον]]  [[G3739\|ὃς]]  [[G3588\|τὴν]]  [[G0225\|ἀλήθειαν]]  [[G4771\|ὑμῖν]]  [[G2980\|λελάληκα]]  [[G3739\|ἣν]]  [[G0191\|ἤκουσα]]  [[G3844\|παρὰ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ·]]  [[G3778\|τοῦτο]]  [[G0011\|Ἀβραὰμ]]  [[G3756\|οὐκ]]  [[G4160G\|ἐποίησεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.39|<< John 8:39]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.41|John 8:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

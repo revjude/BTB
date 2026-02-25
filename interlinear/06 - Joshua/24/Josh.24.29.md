@@ -1,8 +1,60 @@
+---
+title: Joshua 24:29
+type: Verse
+kjv: "And it came to pass after these things, that Joshua the son of Nun, the servant of the LORD, died, being an hundred and ten years old."
+bsb: "Some time later, Joshua son of Nun, the servant of the LORD, died at the age of 110."
+hebrew: "וַיְהִ֗י אַֽחֲרֵי֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה וַיָּ֛מָת יְהוֹשֻׁ֥עַ בִּן־ נ֖וּן עֶ֣בֶד יְהוָ֑ה בֶּן־ מֵאָ֥ה וָעֶ֖שֶׂר שָׁנִֽים׃"
+pericope: "[[Josh.24.29 Joshua’s Death and Burial|Joshua’s Death and Burial]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic LONGEVITY|LONGEVITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0310A]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H0428]]"
+- "[[H4191]]"
+- "[[H3091G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5126]]"
+- "[[H5650]]"
+- "[[H3068G]]"
+- "[[H1121L]]"
+- "[[H3967]]"
+- "[[H9002]]"
+- "[[H6235]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 24:29**<big><big>[[Josh.24.29 Joshua’s Death and Burial|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass after these things, that Joshua the son of Nun, the servant of the LORD, died, [being] an hundred and ten years old.
 <small><sub>**BSB:**</sub></small>
 Some time later, Joshua son of Nun, the servant of the LORD, died at the age of 110.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H0310A\|אַֽחֲרֵי֙]] [[H9009\|הַ]][[H1697I\|דְּבָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H9001\|וַ]][[H4191\|יָּ֛מָת]] [[H3091G\|יְהוֹשֻׁ֥עַ]] [[H1121A\|בִּן]][[H9014\|־]] [[H5126\|נ֖וּן]] [[H5650\|עֶ֣בֶד]] [[H3068G\|יְהוָ֑ה]] [[H1121L\|בֶּן]][[H9014\|־]] [[H3967\|מֵאָ֥ה]] [[H9002\|וָ]][[H6235\|עֶ֖שֶׂר]] [[H8141\|שָׁנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOSHUA|JOSHUA]] • [[topic LONGEVITY|LONGEVITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.28|<< Joshua 24:28]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.30|Joshua 24:30 >>]]</td></tr></table>
 

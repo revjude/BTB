@@ -1,8 +1,61 @@
+---
+title: 1 Samuel 17:38
+type: Verse
+kjv: "And Saul armed David with his armour, and he put an helmet of brass upon his head; also he armed him with a coat of mail."
+bsb: "Then Saul clothed David in his own tunic, put a bronze helmet on his head, and dressed him in armor."
+hebrew: "וַיַּלְבֵּ֨שׁ שָׁא֤וּל אֶת־ דָּוִד֙ מַדָּ֔יו וְנָתַ֛ן ק֥וֹבַע נְחֹ֖שֶׁת עַל־ רֹאשׁ֑וֹ וַיַּלְבֵּ֥שׁ אֹת֖וֹ שִׁרְיֽוֹן׃"
+pericope: "[[1Sam.17.38 David Slays Goliath|David Slays Goliath]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHAMPIONSHIP|CHAMPIONSHIP]]"
+- "[[topic COAT OF MAIL|COAT OF MAIL]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic HELMET|HELMET]]"
+strongs:
+- "[[H9001]]"
+- "[[H3847]]"
+- "[[H7586G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H4055]]"
+- "[[H9023]]"
+- "[[H5414H]]"
+- "[[H6959]]"
+- "[[H5178A]]"
+- "[[H5921A]]"
+- "[[H7218A]]"
+- "[[H9033]]"
+- "[[H8302B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 17:38**<big><big>[[1Sam.17.38 David Slays Goliath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul armed David with his armour, and he put an helmet of brass upon his head; also he armed him with a coat of mail.
 <small><sub>**BSB:**</sub></small>
 Then Saul clothed David in his own tunic, put a bronze helmet on his head, and dressed him in armor.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3847\|יַּלְבֵּ֨שׁ]] [[H7586G\|שָׁא֤וּל]] [[H0853\|אֶת]][[H9014\|־]] [[H1732\|דָּוִד֙]] [[H4055\|מַדָּ֔י]][[H9023\|ו]] [[H9001\|וְ]][[H5414H\|נָתַ֛ן]] [[H6959\|ק֥וֹבַע]] [[H5178A\|נְחֹ֖שֶׁת]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹאשׁ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H3847\|יַּלְבֵּ֥שׁ]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H8302B\|שִׁרְיֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CHAMPIONSHIP|CHAMPIONSHIP]] • [[topic COAT OF MAIL|COAT OF MAIL]] • [[topic COURAGE|COURAGE]] • [[topic DECISION|DECISION]] • [[topic HELMET|HELMET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.37|<< 1 Samuel 17:37]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.39|1 Samuel 17:39 >>]]</td></tr></table>
 

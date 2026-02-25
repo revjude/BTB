@@ -1,10 +1,47 @@
+---
+title: Philemon 1:15
+type: Verse
+kjv: "For perhaps he therefore departed for a season, that thou shouldest receive him for ever;"
+bsb: "For perhaps this is why he was separated from you for a while, so that you might have him back for good—"
+greek: "τάχα γὰρ διὰ τοῦτο ἐχωρίσθη πρὸς ὥραν, ἵνα αἰώνιον αὐτὸν ἀπέχῃς·"
+pericope: "[[Phlm.1.8 Paul’s Appeal for Onesimus|Paul’s Appeal for Onesimus]]"
+original_language: Greek
+testament: New
+book: Philemon
+chapter: 1
+book/chapter: "[[Phlm.1|Philemon 1]]"
+chronological_order: 1125
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- personal letter
+strongs:
+- "[[G5029]]"
+- "[[G1063]]"
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G5563]]"
+- "[[G4314]]"
+- "[[G5610]]"
+- "[[G2443]]"
+- "[[G0166]]"
+- "[[G0846]]"
+- "[[G0568]]"
+texts:
+- NKO
+---
+
 **Philemon 1:15**<big><big>[[Phlm.1.8 Paul’s Appeal for Onesimus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For perhaps he therefore departed for a season, that thou shouldest receive him for ever;
 <small><sub>**BSB:**</sub></small>
 For perhaps this is why he was separated from you for a while, so that you might have him back for good—
-<small><sub>**Literal:**</sub></small>
-Perhaps for because of this he was separated [from you] for a time, so that eternally him you may possess;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.14|<< Philemon 1:14]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.16|Philemon 1:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5029\|τάχα]]  [[G1063\|γὰρ]]  [[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G5563\|ἐχωρίσθη]]  [[G4314\|πρὸς]]  [[G5610\|ὥραν,]]  [[G2443\|ἵνα]]  [[G0166\|αἰώνιον]]  [[G0846\|αὐτὸν]]  [[G0568\|ἀπέχῃς·]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.14|<< Philemon 1:14]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.16|Philemon 1:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

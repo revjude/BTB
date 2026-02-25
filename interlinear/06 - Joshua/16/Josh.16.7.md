@@ -1,8 +1,58 @@
+---
+title: Joshua 16:7
+type: Verse
+kjv: "And it went down from Janohah to Ataroth, and to Naarath, and came to Jericho, and went out at Jordan."
+bsb: "From Janoah it went down to Ataroth and Naarah, and then reached Jericho and came out at the Jordan."
+hebrew: "וְיָרַ֥ד מִיָּנ֖וֹחָה עֲטָר֣וֹת וְנַעֲרָ֑תָה וּפָגַע֙ בִּֽירִיח֔וֹ וְיָצָ֖א הַיַּרְדֵּֽן׃"
+pericope: "[[Josh.16.1 Ephraim’s Inheritance|Ephraim’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 16
+book/chapter: "[[Josh.16|Joshua 16]]"
+chronological_order: 246
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ATAROTH|ATAROTH]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic JANOHAH|JANOHAH]]"
+- "[[topic NAARATH|NAARATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H9006]]"
+- "[[H3239B]]"
+- "[[H5852H]]"
+- "[[H9002]]"
+- "[[H5292A]]"
+- "[[H9011]]"
+- "[[H6293]]"
+- "[[H9003]]"
+- "[[H3405G]]"
+- "[[H3318I]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 16:7**<big><big>[[Josh.16.1 Ephraim’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it went down from Janohah to Ataroth, and to Naarath, and came to Jericho, and went out at Jordan.
 <small><sub>**BSB:**</sub></small>
 From Janoah it went down to Ataroth and Naarah, and then reached Jericho and came out at the Jordan.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3381\|יָרַ֥ד]] [[H9006\|מִ]][[H3239B\|יָּנ֖וֹחָה]] [[H5852H\|עֲטָר֣וֹת]] [[H9002\|וְ]][[H5292A\|נַעֲרָ֑תָ]][[H9011\|ה]] [[H9001\|וּ]][[H6293\|פָגַע֙]] [[H9003\|בִּֽ]][[H3405G\|ירִיח֔וֹ]] [[H9001\|וְ]][[H3318I\|יָצָ֖א]] [[H9009\|הַ]][[H3383\|יַּרְדֵּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATAROTH|ATAROTH]] • [[topic EPHRAIM|EPHRAIM]] • [[topic JANOHAH|JANOHAH]] • [[topic NAARATH|NAARATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.16.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.16.6|<< Joshua 16:6]]</td><td align="center" style="border:none;">[[Josh.16|Joshua 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.16.8|Joshua 16:8 >>]]</td></tr></table>
 

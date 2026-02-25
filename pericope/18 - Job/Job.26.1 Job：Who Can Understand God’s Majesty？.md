@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Job：Who Can Understand God’s Majesty？
+type: Pericope
 pericope: "[[Job.26.1 Job：Who Can Understand God’s Majesty？|Job：Who Can Understand God’s Majesty？]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 26
 book/chapter: "[[Job.26|Job 26]]"
-genre:
+chronological_order: 37
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 14
 verses:
 - "[[Job.26.1]]"
 - "[[Job.26.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Job.26.14]]"
 ---
 
-[[Job.26|Job 26:1 - Job 26:14]]
+<small>[[Job.26|Job 26:1-14]]</small>
 *Job：Who Can Understand God’s Majesty？*
 
 [[Job.26.1|1]] But Job answered and said,

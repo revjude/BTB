@@ -1,8 +1,48 @@
+---
+title: Job 20:3
+type: Verse
+kjv: "I have heard the check of my reproach, and the spirit of my understanding causeth me to answer."
+bsb: "I have heard a rebuke that insults me, and my understanding prompts a reply."
+hebrew: "מוּסַ֣ר כְּלִמָּתִ֣י אֶשְׁמָ֑ע וְ֝ר֗וּחַ מִֽבִּינָתִ֥י יַעֲנֵֽנִי׃"
+pericope: "[[Job.20.1 Zophar：Destruction Awaits the Wicked|Zophar：Destruction Awaits the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 20
+book/chapter: "[[Job.20|Job 20]]"
+chronological_order: 31
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H4148G]]"
+- "[[H3639]]"
+- "[[H9020]]"
+- "[[H8085G]]"
+- "[[H9002]]"
+- "[[H7307G]]"
+- "[[H9006]]"
+- "[[H0998]]"
+- "[[H6030B]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 20:3**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have heard the check of my reproach, and the spirit of my understanding causeth me to answer.
 <small><sub>**BSB:**</sub></small>
 I have heard a rebuke that insults me, and my understanding prompts a reply.
+<small><sub>**Hebrew:**</sub></small>
+[[H4148G\|מוּסַ֣ר]] [[H3639\|כְּלִמָּתִ֣]][[H9020\|י]] [[H8085G\|אֶשְׁמָ֑ע]] [[H9002\|וְ֝]][[H7307G\|ר֗וּחַ]] [[H9006\|מִֽ]][[H0998\|בִּינָתִ֥]][[H9020\|י]] [[H6030B\|יַעֲנֵֽ]][[H9030\|נִי]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.2|<< Job 20:2]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.4|Job 20:4 >>]]</td></tr></table>
 

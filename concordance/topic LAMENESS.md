@@ -11,7 +11,7 @@
 
 - Jesus [[Matt.11.5|Mt 11:5]]; [[Matt.15.31|15:31]]; [[Matt.21.14|21:14]]; [[Luke.7.22|Lu 7:22]]
 
-- Peter [[Acts.3.2|Ac 3:2]]-[[Acts.3.11|11]]
+- Peter [[Acts.3.2|Ac 3:2-11]]
 
 → FIGURATIVE [[Heb.12.13|Heb 12:13]]
 

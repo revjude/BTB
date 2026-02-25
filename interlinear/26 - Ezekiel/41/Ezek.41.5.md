@@ -1,8 +1,55 @@
+---
+title: Ezekiel 41:5
+type: Verse
+kjv: "After he measured the wall of the house, six cubits; and the breadth of every side chamber, four cubits, round about the house on every side."
+bsb: "Next he measured the wall of the temple to be six cubits thick, and the width of each side room around the temple was four cubits."
+hebrew: "וַיָּ֥מָד קִֽיר־ הַבַּ֖יִת שֵׁ֣שׁ אַמּ֑וֹת וְרֹ֣חַב הַצֵּלָע֩ אַרְבַּ֨ע אַמּ֜וֹת סָבִ֧יב׀ סָבִ֛יב לַבַּ֖יִת סָבִֽיב׃"
+pericope: "[[Ezek.41.5 Outside the Temple|Outside the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 41
+book/chapter: "[[Ezek.41|Ezekiel 41]]"
+chronological_order: 832
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H4058]]"
+- "[[H7023]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H8337]]"
+- "[[H0520A]]"
+- "[[H9002]]"
+- "[[H7341]]"
+- "[[H6763]]"
+- "[[H0702]]"
+- "[[H5439G]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 41:5**<big><big>[[Ezek.41.5 Outside the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After he measured the wall of the house, six cubits; and the breadth of [every] side chamber, four cubits, round about the house on every side.
 <small><sub>**BSB:**</sub></small>
 Next he measured the wall of the temple to be six cubits thick, and the width of each side room around the temple was four cubits.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4058\|יָּ֥מָד]] [[H7023\|קִֽיר]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּ֖יִת]] [[H8337\|שֵׁ֣שׁ]] [[H0520A\|אַמּ֑וֹת]] [[H9002\|וְ]][[H7341\|רֹ֣חַב]] [[H9009\|הַ]][[H6763\|צֵּלָע֩]] [[H0702\|אַרְבַּ֨ע]] [[H0520A\|אַמּ֜וֹת]] [[H5439G\|סָבִ֧יב]][[H9015\|׀]] [[H5439G\|סָבִ֛יב]] [[H9005\|לַ]][[H1004B\|בַּ֖יִת]] [[H5439G\|סָבִֽיב]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.4|<< Ezekiel 41:4]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.6|Ezekiel 41:6 >>]]</td></tr></table>
 

@@ -1,10 +1,55 @@
+---
+title: Romans 9:30
+type: Verse
+kjv: "What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith."
+bsb: "What then will we say? That the Gentiles, who did not pursue righteousness, have obtained it, a righteousness that is by faith;"
+greek: "Τί οὖν ἐροῦμεν; ὅτι ἔθνη τὰ μὴ διώκοντα δικαιοσύνην κατέλαβεν δικαιοσύνην, δικαιοσύνην δὲ τὴν ἐκ πίστεως·"
+pericope: "[[Rom.9.30 Israel’s Unbelief|Israel’s Unbelief]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 9
+book/chapter: "[[Rom.9|Romans 9]]"
+chronological_order: 1095
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G5101]]"
+- "[[G3767]]"
+- "[[G4483]]"
+- "[[G3754G]]"
+- "[[G1484]]"
+- "[[G3588]]"
+- "[[G3361]]"
+- "[[G1377]]"
+- "[[G1343]]"
+- "[[G2638]]"
+- "[[G1161]]"
+- "[[G1537]]"
+- "[[G4102G]]"
+texts:
+- NKO
+---
+
 **Romans 9:30**<big><big>[[Rom.9.30 Israel’s Unbelief|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith.
 <small><sub>**BSB:**</sub></small>
 What then will we say? That the Gentiles, who did not pursue righteousness, have obtained it, a righteousness that is by faith;
-<small><sub>**Literal:**</sub></small>
-What then will we say? That Gentiles <the> not pursuing righteousness have grasped righteousness, righteousness now that [is] by faith;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.29|<< Romans 9:29]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.31|Romans 9:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|Τί]]  [[G3767\|οὖν]]  [[G4483\|ἐροῦμεν;]]  [[G3754G\|ὅτι]]  [[G1484\|ἔθνη]]  [[G3588\|τὰ]]  [[G3361\|μὴ]]  [[G1377\|διώκοντα]]  [[G1343\|δικαιοσύνην]]  [[G2638\|κατέλαβεν]]  [[G1343\|δικαιοσύνην,]]  [[G1343\|δικαιοσύνην]]  [[G1161\|δὲ]]  [[G3588\|τὴν]]  [[G1537\|ἐκ]]  [[G4102G\|πίστεως·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.29|<< Romans 9:29]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.31|Romans 9:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

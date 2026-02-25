@@ -1,8 +1,64 @@
+---
+title: Deuteronomy 2:32
+type: Verse
+kjv: "Then Sihon came out against us, he and all his people, to fight at Jahaz."
+bsb: "So Sihon and his whole army came out for battle against us at Jahaz."
+hebrew: "וַיֵּצֵא֩ סִיחֹ֨ן לִקְרָאתֵ֜נוּ ה֧וּא וְכָל־ עַמּ֛וֹ לַמִּלְחָמָ֖ה יָֽהְצָה׃"
+pericope: "[[Deut.2.24 The Defeat of Sihon|The Defeat of Sihon]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 2
+book/chapter: "[[Deut.2|Deuteronomy 2]]"
+chronological_order: 198
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JAHAZ|JAHAZ]]"
+- "[[topic SIHON|SIHON]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H5511]]"
+- "[[H9005]]"
+- "[[H7122H]]"
+- "[[H9035]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H4421]]"
+- "[[H3096]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 2:32**<big><big>[[Deut.2.24 The Defeat of Sihon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Sihon came out against us, he and all his people, to fight at Jahaz.
 <small><sub>**BSB:**</sub></small>
 So Sihon and his whole army came out for battle against us at Jahaz.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵא֩]] [[H5511\|סִיחֹ֨ן]] [[H9005\|לִ]][[H7122H\|קְרָאתֵ֜]][[H9035\|נוּ]] [[H1931\|ה֧וּא]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5971A\|עַמּ֛]][[H9023\|וֹ]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֖ה]] [[H3096\|יָֽהְצָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic ISRAEL|ISRAEL]] • [[topic JAHAZ|JAHAZ]] • [[topic SIHON|SIHON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.31|<< Deuteronomy 2:31]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.33|Deuteronomy 2:33 >>]]</td></tr></table>
 

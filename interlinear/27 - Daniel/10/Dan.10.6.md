@@ -1,8 +1,63 @@
+---
+title: Daniel 10:6
+type: Verse
+kjv: "His body also was like the beryl, and his face as the appearance of lightning, and his eyes as lamps of fire, and his arms and his feet like in colour to polished brass, and the voice of his words like the voice of a multitude."
+bsb: "His body was like beryl, his face like the brilliance of lightning, his eyes like flaming torches, his arms and legs like the gleam of polished bronze, and his voice like the sound of a multitude."
+hebrew: "וּגְוִיָּת֣וֹ כְתַרְשִׁ֗ישׁ וּפָנָ֞יו כְּמַרְאֵ֤ה בָרָק֙ וְעֵינָיו֙ כְּלַפִּ֣ידֵי אֵ֔שׁ וּזְרֹֽעֹתָיו֙ וּמַרְגְּלֹתָ֔יו כְּעֵ֖ין נְחֹ֣שֶׁת קָלָ֑ל וְק֥וֹל דְּבָרָ֖יו כְּק֥וֹל הָמֽוֹן׃"
+pericope: "[[Dan.10.1 Daniel’s Vision by the Tigris|Daniel’s Vision by the Tigris]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 10
+book/chapter: "[[Dan.10|Daniel 10]]"
+chronological_order: 846
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic BRASS|BRASS]]"
+- "[[topic LIGHTNING|LIGHTNING]]"
+strongs:
+- "[[H9002]]"
+- "[[H1472]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H8658]]"
+- "[[H6440H]]"
+- "[[H4758]]"
+- "[[H1300B]]"
+- "[[H5869A]]"
+- "[[H3940]]"
+- "[[H0784]]"
+- "[[H2220]]"
+- "[[H4772]]"
+- "[[H5869I]]"
+- "[[H5178A]]"
+- "[[H7044]]"
+- "[[H6963H]]"
+- "[[H1697G]]"
+- "[[H1995A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 10:6**<big><big>[[Dan.10.1 Daniel’s Vision by the Tigris|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His body also [was] like the beryl, and his face as the appearance of lightning, and his eyes as lamps of fire, and his arms and his feet like in colour to polished brass, and the voice of his words like the voice of a multitude.
 <small><sub>**BSB:**</sub></small>
 His body was like beryl, his face like the brilliance of lightning, his eyes like flaming torches, his arms and legs like the gleam of polished bronze, and his voice like the sound of a multitude.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1472\|גְוִיָּת֣]][[H9023\|וֹ]] [[H9004\|כְ]][[H8658\|תַרְשִׁ֗ישׁ]] [[H9002\|וּ]][[H6440H\|פָנָ֞י]][[H9023\|ו]] [[H9004\|כְּ]][[H4758\|מַרְאֵ֤ה]] [[H1300B\|בָרָק֙]] [[H9002\|וְ]][[H5869A\|עֵינָי]][[H9023\|ו֙]] [[H9004\|כְּ]][[H3940\|לַפִּ֣ידֵי]] [[H0784\|אֵ֔שׁ]] [[H9002\|וּ]][[H2220\|זְרֹֽעֹתָי]][[H9023\|ו֙]] [[H9002\|וּ]][[H4772\|מַרְגְּלֹתָ֔י]][[H9023\|ו]] [[H9004\|כְּ]][[H5869I\|עֵ֖ין]] [[H5178A\|נְחֹ֣שֶׁת]] [[H7044\|קָלָ֑ל]] [[H9002\|וְ]][[H6963H\|ק֥וֹל]] [[H1697G\|דְּבָרָ֖י]][[H9023\|ו]] [[H9004\|כְּ]][[H6963H\|ק֥וֹל]] [[H1995A\|הָמֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic BRASS|BRASS]] • [[topic LIGHTNING|LIGHTNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.10.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.10.5|<< Daniel 10:5]]</td><td align="center" style="border:none;">[[Dan.10|Daniel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.10.7|Daniel 10:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

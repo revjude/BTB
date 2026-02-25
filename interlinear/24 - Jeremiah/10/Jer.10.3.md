@@ -1,8 +1,61 @@
+---
+title: Jeremiah 10:3
+type: Verse
+kjv: "For the customs of the people are vain: for one cutteth a tree out of the forest, the work of the hands of the workman, with the axe."
+bsb: "For the customs of the peoples are worthless; they cut down a tree from the forest; it is shaped with a chisel by the hands of a craftsman."
+hebrew: "כִּֽי־ חֻקּ֥וֹת הָֽעַמִּ֖ים הֶ֣בֶל ה֑וּא כִּֽי־ עֵץ֙ מִיַּ֣עַר כְּרָת֔וֹ מַעֲשֵׂ֥ה יְדֵ֥י־ חָרָ֖שׁ בַּֽמַּעֲצָֽד׃"
+pericope: "[[Jer.10.1 The Sovereignty of God|The Sovereignty of God]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 10
+book/chapter: "[[Jer.10|Jeremiah 10]]"
+chronological_order: 727
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2708]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H1892]]"
+- "[[H1931]]"
+- "[[H6086H]]"
+- "[[H9006]]"
+- "[[H3293A]]"
+- "[[H3772G]]"
+- "[[H9033]]"
+- "[[H4639G]]"
+- "[[H3027G]]"
+- "[[H2796]]"
+- "[[H9003]]"
+- "[[H4621]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 10:3**<big><big>[[Jer.10.1 The Sovereignty of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the customs of the people [are] vain: for [one] cutteth a tree out of the forest, the work of the hands of the workman, with the axe.
 <small><sub>**BSB:**</sub></small>
 For the customs of the peoples are worthless; they cut down a tree from the forest; it is shaped with a chisel by the hands of a craftsman.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H2708\|חֻקּ֥וֹת]] [[H9009\|הָֽ]][[H5971A\|עַמִּ֖ים]] [[H1892\|הֶ֣בֶל]] [[H1931\|ה֑וּא]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6086H\|עֵץ֙]] [[H9006\|מִ]][[H3293A\|יַּ֣עַר]] [[H3772G\|כְּרָת֔]][[H9033\|וֹ]] [[H4639G\|מַעֲשֵׂ֥ה]] [[H3027G\|יְדֵ֥י]][[H9014\|־]] [[H2796\|חָרָ֖שׁ]] [[H9003\|בַּֽ]][[H4621\|מַּעֲצָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.2|<< Jeremiah 10:2]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.4|Jeremiah 10:4 >>]]</td></tr></table>
 

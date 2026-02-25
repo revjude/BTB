@@ -1,8 +1,63 @@
+---
+title: 1 Kings 15:34
+type: Verse
+kjv: "And he did evil in the sight of the LORD, and walked in the way of Jeroboam, and in his sin wherewith he made Israel to sin."
+bsb: "And Baasha did evil in the sight of the LORD and walked in the way of Jeroboam and in his sin, which he had caused Israel to commit."
+hebrew: "וַיַּ֥עַשׂ הָרַ֖ע בְּעֵינֵ֣י יְהוָ֑ה וַיֵּ֙לֶךְ֙ בְּדֶ֣רֶךְ יָרָבְעָ֔ם וּ֨בְחַטָּאת֔וֹ אֲשֶׁ֥ר הֶחֱטִ֖יא אֶת־ יִשְׂרָאֵֽל׃ ס"
+pericope: "[[1Kgs.15.33 Baasha Reigns in Israel|Baasha Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 15
+book/chapter: "[[1Kgs.15|1 Kings 15]]"
+chronological_order: 554
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BAASHA|BAASHA]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H1980I]]"
+- "[[H1870G]]"
+- "[[H3379G]]"
+- "[[H9002]]"
+- "[[H2403B]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H2398]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Kings 15:34**<big><big>[[1Kgs.15.33 Baasha Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he did evil in the sight of the LORD, and walked in the way of Jeroboam, and in his sin wherewith he made Israel to sin.
 <small><sub>**BSB:**</sub></small>
 And Baasha did evil in the sight of the LORD and walked in the way of Jeroboam and in his sin, which he had caused Israel to commit.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֥עַשׂ]] [[H9009\|הָ]][[H7451H\|רַ֖ע]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H1980I\|יֵּ֙לֶךְ֙]] [[H9003\|בְּ]][[H1870G\|דֶ֣רֶךְ]] [[H3379G\|יָרָבְעָ֔ם]] [[H9002\|וּ֨]][[H9003\|בְ]][[H2403B\|חַטָּאת֔]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֥ר]] [[H2398\|הֶחֱטִ֖יא]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAASHA|BAASHA]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.33|<< 1 Kings 15:33]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.1|1 Kings 16:1 >>]]</td></tr></table>
 
@@ -19,7 +74,7 @@ And Baasha did evil in the sight of the LORD and walked in the way of Jeroboam a
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he caused to sin  |**<big>&#8207;[[H2398\|הֶחֱטִ֖יא]]&#8207; </big>**| he.che.Ti'<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.33|<< 1 Kings 15:33]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.1|1 Kings 16:1 >>]]</td></tr></table>
 
 

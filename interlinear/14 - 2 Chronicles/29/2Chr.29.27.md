@@ -1,8 +1,65 @@
+---
+title: 2 Chronicles 29:27
+type: Verse
+kjv: "And Hezekiah commanded to offer the burnt offering upon the altar. And when the burnt offering began, the song of the LORD began also with the trumpets, and with the instruments ordained by David king of Israel."
+bsb: "And Hezekiah ordered that the burnt offering be sacrificed on the altar. When the burnt offering began, the song of the LORD and the trumpets began as well, accompanied by the instruments of David king of Israel."
+hebrew: "וַיֹּ֙אמֶר֙ חִזְקִיָּ֔הוּ לְהַעֲל֥וֹת הָעֹלָ֖ה לְהַמִּזְבֵּ֑חַ וּבְעֵ֞ת הֵחֵ֣ל הָֽעוֹלָ֗ה הֵחֵ֤ל שִׁיר־ יְהוָה֙ וְהַחֲצֹ֣צְר֔וֹת וְעַ֨ל־ יְדֵ֔י כְּלֵ֖י דָּוִ֥יד מֶֽלֶךְ־ יִשְׂרָאֵֽל׃"
+pericope: "[[2Chr.29.20 Hezekiah Restores Temple Worship|Hezekiah Restores Temple Worship]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 29
+book/chapter: "[[2Chr.29|2 Chronicles 29]]"
+chronological_order: 659
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ASAPH|ASAPH]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2396G]]"
+- "[[H9005]]"
+- "[[H5927I]]"
+- "[[H9009]]"
+- "[[H5930A]]"
+- "[[H4196]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H2490C]]"
+- "[[H7892A]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H2689]]"
+- "[[H5921A]]"
+- "[[H3027K]]"
+- "[[H3627]]"
+- "[[H1732]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 29:27**<big><big>[[2Chr.29.20 Hezekiah Restores Temple Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hezekiah commanded to offer the burnt offering upon the altar. And when the burnt offering began, the song of the LORD began [also] with the trumpets, and with the instruments [ordained] by David king of Israel.
 <small><sub>**BSB:**</sub></small>
 And Hezekiah ordered that the burnt offering be sacrificed on the altar. When the burnt offering began, the song of the LORD and the trumpets began as well, accompanied by the instruments of David king of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H2396G\|חִזְקִיָּ֔הוּ]] [[H9005\|לְ]][[H5927I\|הַעֲל֥וֹת]] [[H9009\|הָ]][[H5930A\|עֹלָ֖ה]] [[H9005\|לְ]][[H9009\|הַ]][[H4196\|מִּזְבֵּ֑חַ]] [[H9002\|וּ]][[H9003\|בְ]][[H6256\|עֵ֞ת]] [[H2490C\|הֵחֵ֣ל]] [[H9009\|הָֽ]][[H5930A\|עוֹלָ֗ה]] [[H2490C\|הֵחֵ֤ל]] [[H7892A\|שִׁיר]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H9002\|וְ]][[H9009\|הַ]][[H2689\|חֲצֹ֣צְר֔וֹת]] [[H9002\|וְ]][[H5921A\|עַ֨ל]][[H9014\|־]] [[H3027K\|יְדֵ֔י]] [[H3627\|כְּלֵ֖י]] [[H1732\|דָּוִ֥יד]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAPH|ASAPH]] • [[topic LEVITES|LEVITES]] • [[topic MUSIC|MUSIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.26|<< 2 Chronicles 29:26]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.28|2 Chronicles 29:28 >>]]</td></tr></table>
 

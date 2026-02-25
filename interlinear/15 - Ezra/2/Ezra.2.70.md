@@ -1,8 +1,60 @@
+---
+title: Ezra 2:70
+type: Verse
+kjv: "So the priests, and the Levites, and some of the people, and the singers, and the porters, and the Nethinims, dwelt in their cities, and all Israel in their cities."
+bsb: "So the priests, the Levites, the singers, the gatekeepers, and the temple servants, along with some of the people, settled in their own towns; and the rest of the Israelites settled in their towns."
+hebrew: "וַיֵּשְׁב֣וּ הַכֹּהֲנִ֣ים וְ֠הַלְוִיִּם וּֽמִן־ הָעָ֞ם וְהַמְשֹׁרְרִ֧ים וְהַשּׁוֹעֲרִ֛ים וְהַנְּתִינִ֖ים בְּעָרֵיהֶ֑ם וְכָל־ יִשְׂרָאֵ֖ל בְּעָרֵיהֶֽם׃ ס"
+pericope: "[[Ezra.2.68 Offerings by the Exiles|Offerings by the Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 2
+book/chapter: "[[Ezra.2|Ezra 2]]"
+chronological_order: 850
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic NETHINIMS|NETHINIMS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H3881]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H7891]]"
+- "[[H7778]]"
+- "[[H5411]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H9028]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezra 2:70**<big><big>[[Ezra.2.68 Offerings by the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the priests, and the Levites, and [some] of the people, and the singers, and the porters, and the Nethinims, dwelt in their cities, and all Israel in their cities.
 <small><sub>**BSB:**</sub></small>
 So the priests, the Levites, the singers, the gatekeepers, and the temple servants, along with some of the people, settled in their own towns; and the rest of the Israelites settled in their towns.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3427\|יֵּשְׁב֣וּ]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֣ים]] [[H9002\|וְ֠]][[H9009\|הַ]][[H3881\|לְוִיִּם]] [[H9002\|וּֽ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֞ם]] [[H9002\|וְ]][[H9009\|הַ]][[H7891\|מְשֹׁרְרִ֧ים]] [[H9002\|וְ]][[H9009\|הַ]][[H7778\|שּׁוֹעֲרִ֛ים]] [[H9002\|וְ]][[H9009\|הַ]][[H5411\|נְּתִינִ֖ים]] [[H9003\|בְּ]][[H5892B\|עָרֵי]][[H9028\|הֶ֑ם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בְּ]][[H5892B\|עָרֵי]][[H9028\|הֶֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NETHINIMS|NETHINIMS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.2.70|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.69|<< Ezra 2:69]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.3.1|Ezra 3:1 >>]]</td></tr></table>
 
@@ -19,7 +71,7 @@ So the priests, the Levites, the singers, the gatekeepers, and the temple servan
 | in cities their  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5892B\|עָרֵי]]&#8207;&#8207;[[H9028\|הֶ֑ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'a.rei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in cities their  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5892B\|עָרֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'a.rei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in cities their  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5892B\|עָרֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'a.rei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.69|<< Ezra 2:69]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.3.1|Ezra 3:1 >>]]</td></tr></table>
 
 

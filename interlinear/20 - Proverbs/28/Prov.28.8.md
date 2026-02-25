@@ -1,8 +1,60 @@
+---
+title: Proverbs 28:8
+type: Verse
+kjv: "He that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor."
+bsb: "He who increases his wealth by interest and usury lays it up for one who is kind to the poor."
+hebrew: "מַרְבֶּ֣ה ה֭וֹנוֹ בְּנֶ֣שֶׁךְ וְתַרְבִּ֑ית לְחוֹנֵ֖ן דַּלִּ֣ים יִקְבְּצֶֽנּוּ׃"
+pericope: "[[Prov.28.1 The Boldness of the Righteous|The Boldness of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 28
+book/chapter: "[[Prov.28|Proverbs 28]]"
+chronological_order: 483
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INJUSTICE|INJUSTICE]]"
+- "[[topic INTEREST|INTEREST]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic USURY|USURY]]"
+strongs:
+- "[[H7235A]]"
+- "[[H1952]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H5392]]"
+- "[[H9002]]"
+- "[[H8636]]"
+- "[[H9005]]"
+- "[[H2603A]]"
+- "[[H1800]]"
+- "[[H6908]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Proverbs 28:8**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor.
 <small><sub>**BSB:**</sub></small>
 He who increases his wealth by interest and usury lays it up for one who is kind to the poor.
+<small><sub>**Hebrew:**</sub></small>
+[[H7235A\|מַרְבֶּ֣ה]] [[H1952\|ה֭וֹנ]][[H9023\|וֹ]] [[H9003\|בְּ]][[H5392\|נֶ֣שֶׁךְ]] [[H9002\|וְ]][[H8636\|תַרְבִּ֑ית]] [[H9005\|לְ]][[H2603A\|חוֹנֵ֖ן]] [[H1800\|דַּלִּ֣ים]] [[H6908\|יִקְבְּצֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INJUSTICE|INJUSTICE]] • [[topic INTEREST|INTEREST]] • [[topic LENDING|LENDING]] • [[topic POOR|POOR]] • [[topic RICHES|RICHES]] • [[topic USURY|USURY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.7|<< Proverbs 28:7]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.9|Proverbs 28:9 >>]]</td></tr></table>
 
@@ -17,7 +69,7 @@ He who increases his wealth by interest and usury lays it up for one who is kind
 | he gathers it  |**<big>&#8207;[[H6908\|יִקְבְּצֶֽ]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yik.be.Tze.<small><sup>[[HVqi3ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.7|<< Proverbs 28:7]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.9|Proverbs 28:9 >>]]</td></tr></table>
 
-[^1]: and by usury  | **<big>[[H8636|תַרְבִּית]]</big><big>[[H9003|בְ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> tar.bit<small><sup>[[HNcfsa]]</sup></small> | K
-[^2]: and by usury  | **<big>[[H8636|תַרְבִּית]]</big><big>[[H9003|בְ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> tar.bit<small><sup>[[HNcfsa]]</sup></small> | K
+[^1]: and by usury  | **<big>[[H9002|וּ]]</big><big>[[H9003|בְ]]</big><big>[[H8636|תַרְבִּית]]</big> ** | u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> tar.bit<small><sup>[[HNcfsa]]</sup></small> | K
+[^2]: and by usury  | **<big>[[H9002|וּ]]</big><big>[[H9003|בְ]]</big><big>[[H8636|תַרְבִּית]]</big> ** | u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> tar.bit<small><sup>[[HNcfsa]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וְב/תַרְבִּ֑ית</big></span>**
 

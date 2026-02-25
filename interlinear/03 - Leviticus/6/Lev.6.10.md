@@ -1,8 +1,71 @@
+---
+title: Leviticus 6:10
+type: Verse
+kjv: "And the priest shall put on his linen garment, and his linen breeches shall he put upon his flesh, and take up the ashes which the fire hath consumed with the burnt offering on the altar, and he shall put them beside the altar."
+bsb: "And the priest shall put on his linen robe and linen undergarments, and he shall remove from the altar the ashes of the burnt offering that the fire has consumed and place them beside it."
+hebrew: "וְלָבַ֨שׁ הַכֹּהֵ֜ן מִדּ֣וֹ בַ֗ד וּמִֽכְנְסֵי־ בַד֮ יִלְבַּ֣שׁ עַל־ בְּשָׂרוֹ֒ וְהֵרִ֣ים אֶת־ הַדֶּ֗שֶׁן אֲשֶׁ֨ר תֹּאכַ֥ל הָאֵ֛שׁ אֶת־ הָעֹלָ֖ה עַל־ הַמִּזְבֵּ֑חַ וְשָׂמ֕וֹ אֵ֖צֶל הַמִּזְבֵּֽחַ׃"
+pericope: "[[Lev.6.8 The Burnt Offering|The Burnt Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 6
+book/chapter: "[[Lev.6|Leviticus 6]]"
+chronological_order: 138
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BREECHES|BREECHES]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H3847]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H4055]]"
+- "[[H9023]]"
+- "[[H0906]]"
+- "[[H9002]]"
+- "[[H4370]]"
+- "[[H9014]]"
+- "[[H5921A]]"
+- "[[H1320]]"
+- "[[H7311A]]"
+- "[[H0853]]"
+- "[[H1880]]"
+- "[[H0834A]]"
+- "[[H0398]]"
+- "[[H0784]]"
+- "[[H5930A]]"
+- "[[H4196]]"
+- "[[H7760H]]"
+- "[[H9033]]"
+- "[[H0681]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 6:10**<big><big>[[Lev.6.8 The Burnt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall put on his linen garment, and his linen breeches shall he put upon his flesh, and take up the ashes which the fire hath consumed with the burnt offering on the altar, and he shall put them beside the altar.
 <small><sub>**BSB:**</sub></small>
 And the priest shall put on his linen robe and linen undergarments, and he shall remove from the altar the ashes of the burnt offering that the fire has consumed and place them beside it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3847\|לָבַ֨שׁ]] [[H9009\|הַ]][[H3548\|כֹּהֵ֜ן]] [[H4055\|מִדּ֣]][[H9023\|וֹ]] [[H0906\|בַ֗ד]] [[H9002\|וּ]][[H4370\|מִֽכְנְסֵי]][[H9014\|־]] [[H0906\|בַד֮]] [[H3847\|יִלְבַּ֣שׁ]] [[H5921A\|עַל]][[H9014\|־]] [[H1320\|בְּשָׂר]][[H9023\|וֹ֒]] [[H9001\|וְ]][[H7311A\|הֵרִ֣ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1880\|דֶּ֗שֶׁן]] [[H0834A\|אֲשֶׁ֨ר]] [[H0398\|תֹּאכַ֥ל]] [[H9009\|הָ]][[H0784\|אֵ֛שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5930A\|עֹלָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֑חַ]] [[H9001\|וְ]][[H7760H\|שָׂמ֕]][[H9033\|וֹ]] [[H0681\|אֵ֖צֶל]] [[H9009\|הַ]][[H4196\|מִּזְבֵּֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREECHES|BREECHES]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.9|<< Leviticus 6:9]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.11|Leviticus 6:11 >>]]</td></tr></table>
 

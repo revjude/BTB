@@ -1,10 +1,70 @@
+---
+title: John 15:16
+type: Verse
+kjv: "Ye have not chosen me, but I have chosen you, and ordained you, that ye should go and bring forth fruit, and that your fruit should remain: that whatsoever ye shall ask of the Father in my name, he may give it you."
+bsb: "You did not choose Me, but I chose you. And I appointed you to go and bear fruit—fruit that will remain—so that whatever you ask the Father in My name, He will give you."
+jesus_said: "Ye have not chosen me, but I have chosen you, and ordained you, that ye should go and bring forth fruit, and that your fruit should remain: that whatsoever ye shall ask of the Father in my name, he may give it you."
+greek: "Οὐχ ὑμεῖς με ἐξελέξασθε, ἀλλ᾽ ἐγὼ ἐξελεξάμην ὑμᾶς καὶ ἔθηκα ὑμᾶς ἵνα ὑμεῖς ὑπάγητε καὶ καρπὸν φέρητε, καὶ ὁ καρπὸς ὑμῶν μένῃ· ἵνα ὅ τι ἂν αἰτήσητε τὸν πατέρα ἐν τῷ ὀνόματί μου, δῷ ὑμῖν.¶"
+pericope: "[[John.15.9 No Greater Love|No Greater Love]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 15
+book/chapter: "[[John.15|John 15]]"
+chronological_order: 1003
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic CALL|CALL]]"
+- "[[topic ELECTION|ELECTION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+strongs:
+- "[[G3756]]"
+- "[[G4771]]"
+- "[[G3165]]"
+- "[[G1586]]"
+- "[[G0235]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G5087]]"
+- "[[G2443]]"
+- "[[G5217]]"
+- "[[G2590]]"
+- "[[G5342]]"
+- "[[G3588]]"
+- "[[G3306]]"
+- "[[G3739]]"
+- "[[G5100]]"
+- "[[G0302]]"
+- "[[G0154]]"
+- "[[G3962]]"
+- "[[G1722]]"
+- "[[G3686]]"
+- "[[G1325]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **John 15:16**<big><big>[[John.15.9 No Greater Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ye have not chosen me, but I have chosen you, and ordained you, that ye should go and bring forth fruit, and [that] your fruit should remain: that whatsoever ye shall ask of the Father in my name, he may give it you.
 <small><sub>**BSB:**</sub></small>
 You did not choose Me, but I chose you. And I appointed you to go and bear fruit—fruit that will remain—so that whatever you ask the Father in My name, He will give you.
-<small><sub>**Literal:**</sub></small>
-Not you yourselves Me chose, but I myself chose you and appointed you that you yourselves may go and fruit you may bear, and the fruit of you may remain; so that which one maybe you may ask the Father in the name of Me, He may give you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.15|<< John 15:15]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.17|John 15:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|Οὐχ]]  [[G4771\|ὑμεῖς]]  [[G3165\|με]]  [[G1586\|ἐξελέξασθε,]]  [[G0235\|ἀλλ᾽]]  [[G1473\|ἐγὼ]]  [[G1586\|ἐξελεξάμην]]  [[G4771\|ὑμᾶς]]  [[G2532\|καὶ]]  [[G5087\|ἔθηκα]]  [[G4771\|ὑμᾶς]]  [[G2443\|ἵνα]]  [[G4771\|ὑμεῖς]]  [[G5217\|ὑπάγητε]]  [[G2532\|καὶ]]  [[G2590\|καρπὸν]]  [[G5342\|φέρητε,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2590\|καρπὸς]]  [[G4771\|ὑμῶν]]  [[G3306\|μένῃ·]]  [[G2443\|ἵνα]]  [[G3739\|ὅ]]  [[G5100\|τι]]  [[G0302\|ἂν]]  [[G0154\|αἰτήσητε]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματί]]  [[G3165\|μου,]]  [[G1325\|δῷ]]  [[G4771\|ὑμῖν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGENCY|AGENCY]] • [[topic CALL|CALL]] • [[topic ELECTION|ELECTION]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PRAYER|PRAYER]] • [[topic PREDESTINATION|PREDESTINATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.15|<< John 15:15]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.17|John 15:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

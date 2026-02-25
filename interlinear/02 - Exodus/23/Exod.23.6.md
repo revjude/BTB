@@ -1,8 +1,58 @@
+---
+title: Exodus 23:6
+type: Verse
+kjv: "Thou shalt not wrest the judgment of thy poor in his cause."
+bsb: "You shall not deny justice to the poor in their lawsuits."
+hebrew: "לֹ֥א תַטֶּ֛ה מִשְׁפַּ֥ט אֶבְיֹנְךָ֖ בְּרִיבֽוֹ׃"
+pericope: "[[Exod.23.1 Justice and Mercy|Justice and Mercy]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 23
+book/chapter: "[[Exod.23|Exodus 23]]"
+chronological_order: 115
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic INJUSTICE|INJUSTICE]]"
+- "[[topic JUSTICE|JUSTICE]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H3808]]"
+- "[[H5186]]"
+- "[[H4941H]]"
+- "[[H0034]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H7379]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 23:6**<big><big>[[Exod.23.1 Justice and Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not wrest the judgment of thy poor in his cause.
 <small><sub>**BSB:**</sub></small>
 You shall not deny justice to the poor in their lawsuits.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֥א]] [[H5186\|תַטֶּ֛ה]] [[H4941H\|מִשְׁפַּ֥ט]] [[H0034\|אֶבְיֹנְ]][[H9021\|ךָ֖]] [[H9003\|בְּ]][[H7379\|רִיבֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic INJUSTICE|INJUSTICE]] • [[topic JUSTICE|JUSTICE]] • [[topic POOR|POOR]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.5|<< Exodus 23:5]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.7|Exodus 23:7 >>]]</td></tr></table>
 

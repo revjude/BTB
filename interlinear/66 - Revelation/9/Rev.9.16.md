@@ -1,10 +1,55 @@
+---
+title: Revelation 9:16
+type: Verse
+kjv: "And the number of the army of the horsemen were two hundred thousand thousand: and I heard the number of them."
+bsb: "And the number of mounted troops was two hundred million; I heard their number."
+greek: "καὶ ὁ ἀριθμὸς τῶν στρατευμάτων τοῦ ἱππικοῦ δισμυριάδες δισμυριάδες μυριάδων· καὶ ἤκουσα τὸν ἀριθμὸν αὐτῶν.¶"
+pericope: "[[Rev.9.13 The Sixth Trumpet|The Sixth Trumpet]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 9
+book/chapter: "[[Rev.9|Revelation 9]]"
+chronological_order: 1176
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CAVALRY|CAVALRY]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0706]]"
+- "[[G4753]]"
+- "[[G2461]]"
+- "[[G1364]]"
+- "[[G3461]]"
+- "[[G0191]]"
+- "[[G0846]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+- k
+---
+
 **Revelation 9:16**<big><big>[[Rev.9.13 The Sixth Trumpet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the number of the army of the horsemen [were] two hundred thousand thousand: and I heard the number of them.
 <small><sub>**BSB:**</sub></small>
 And the number of mounted troops was two hundred million; I heard their number.
-<small><sub>**Literal:**</sub></small>
-And the number of the armies of the cavalry [was] twice ten thousand ten thousands; and I heard the number of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.15|<< Revelation 9:15]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.17|Revelation 9:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G0706\|ἀριθμὸς]]  [[G3588\|τῶν]]  [[G4753\|στρατευμάτων]]  [[G3588\|τοῦ]]  [[G2461\|ἱππικοῦ]]  [[G1364\|δισμυριάδες]]  <sup><small>[[G3461\| [ • ] ]]</small></sup>  [[G3461\|μυριάδων·]]  [[G2532\|καὶ]]  [[G0191\|ἤκουσα]]  [[G3588\|τὸν]]  [[G0706\|ἀριθμὸν]]  [[G0846\|αὐτῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CAVALRY|CAVALRY]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.15|<< Revelation 9:15]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.17|Revelation 9:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

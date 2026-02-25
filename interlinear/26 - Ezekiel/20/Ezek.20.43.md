@@ -1,8 +1,64 @@
+---
+title: Ezekiel 20:43
+type: Verse
+kjv: "And there shall ye remember your ways, and all your doings, wherein ye have been defiled; and ye shall lothe yourselves in your own sight for all your evils that ye have committed."
+bsb: "There you will remember your ways and all the deeds with which you have defiled yourselves, and you will loathe yourselves for all the evils you have done."
+hebrew: "וּזְכַרְתֶּם־ שָׁ֗ם אֶת־ דַּרְכֵיכֶם֙ וְאֵת֙ כָּל־ עֲלִיל֣וֹתֵיכֶ֔ם אֲשֶׁ֥ר נִטְמֵאתֶ֖ם בָּ֑ם וּנְקֹֽטֹתֶם֙ בִּפְנֵיכֶ֔ם בְּכָל־ רָעוֹתֵיכֶ֖ם אֲשֶׁ֥ר עֲשִׂיתֶֽם׃"
+pericope: "[[Ezek.20.33 Judgment and Restoration|Judgment and Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H2142]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H0853]]"
+- "[[H1870G]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H5949]]"
+- "[[H0834A]]"
+- "[[H2930A]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H6962]]"
+- "[[H6440L]]"
+- "[[H7451H]]"
+- "[[H6213H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:43**<big><big>[[Ezek.20.33 Judgment and Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there shall ye remember your ways, and all your doings, wherein ye have been defiled; and ye shall lothe yourselves in your own sight for all your evils that ye have committed.
 <small><sub>**BSB:**</sub></small>
 There you will remember your ways and all the deeds with which you have defiled yourselves, and you will loathe yourselves for all the evils you have done.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H2142\|זְכַרְתֶּם]][[H9014\|־]] [[H8033G\|שָׁ֗ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1870G\|דַּרְכֵי]][[H9026\|כֶם֙]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H3605\|כָּל]][[H9014\|־]] [[H5949\|עֲלִיל֣וֹתֵי]][[H9026\|כֶ֔ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H2930A\|נִטְמֵאתֶ֖ם]] [[H9003\|בָּ֑]][[H9038\|ם]] [[H9001\|וּ]][[H6962\|נְקֹֽטֹתֶם֙]] [[H9003\|בִּ]][[H6440L\|פְנֵי]][[H9026\|כֶ֔ם]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H7451H\|רָעוֹתֵי]][[H9026\|כֶ֖ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213H\|עֲשִׂיתֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHARACTER|CHARACTER]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.42|<< Ezekiel 20:42]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.44|Ezekiel 20:44 >>]]</td></tr></table>
 

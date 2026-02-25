@@ -1,8 +1,81 @@
+---
+title: Job 1:5
+type: Verse
+kjv: "And it was so, when the days of their feasting were gone about, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all: for Job said, It may be that my sons have sinned, and cursed God in their hearts. Thus did Job continually."
+bsb: "And when the days of feasting were over, Job would send for his children to purify them, rising early in the morning to offer burnt offerings for all of them. For Job thought, “Perhaps my children have sinned and cursed God in their hearts.” This was Job’s regular practice."
+hebrew: "וַיְהִ֡י כִּ֣י הִקִּיפֽוּ֩ יְמֵ֨י הַמִּשְׁתֶּ֜ה וַיִּשְׁלַ֧ח אִיּ֣וֹב וַֽיְקַדְּשֵׁ֗ם וְהִשְׁכִּ֣ים בַּבֹּקֶר֮ וְהֶעֱלָ֣ה עֹלוֹת֮ מִסְפַּ֣ר כֻּלָּם֒ כִּ֚י אָמַ֣ר אִיּ֔וֹב אוּלַי֙ חָטְא֣וּ בָנַ֔י וּבֵרֲכ֥וּ אֱלֹהִ֖ים בִּלְבָבָ֑ם כָּ֛כָה יַעֲשֶׂ֥ה אִיּ֖וֹב כָּל־ הַיָּמִֽים׃ פ"
+pericope: "[[Job.1.1 Job’s Character and Wealth|Job’s Character and Wealth]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 1
+book/chapter: "[[Job.1|Job 1]]"
+chronological_order: 12
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DISSIPATION|DISSIPATION]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JOB|JOB]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H5362B]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H4960]]"
+- "[[H7971G]]"
+- "[[H0347]]"
+- "[[H6942G]]"
+- "[[H9038]]"
+- "[[H7925]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H5927I]]"
+- "[[H5930A]]"
+- "[[H4557]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H0559]]"
+- "[[H0194]]"
+- "[[H2398]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H1288]]"
+- "[[H0430G]]"
+- "[[H3824]]"
+- "[[H3602]]"
+- "[[H6213A]]"
+- "[[H9014]]"
+- "[[H3117J]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Job 1:5**<big><big>[[Job.1.1 Job’s Character and Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was so, when the days of [their] feasting were gone about, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings [according] to the number of them all: for Job said, It may be that my sons have sinned, and cursed God in their hearts. Thus did Job continually.
 <small><sub>**BSB:**</sub></small>
 And when the days of feasting were over, Job would send for his children to purify them, rising early in the morning to offer burnt offerings for all of them. For Job thought, “Perhaps my children have sinned and cursed God in their hearts.” This was Job’s regular practice.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֡י]] [[H3588A\|כִּ֣י]] [[H5362B\|הִקִּיפֽוּ֩]] [[H3117G\|יְמֵ֨י]] [[H9009\|הַ]][[H4960\|מִּשְׁתֶּ֜ה]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֧ח]] [[H0347\|אִיּ֣וֹב]] [[H9001\|וַֽ]][[H6942G\|יְקַדְּשֵׁ֗]][[H9038\|ם]] [[H9001\|וְ]][[H7925\|הִשְׁכִּ֣ים]] [[H9003\|בַּ]][[H1242\|בֹּקֶר֮]] [[H9001\|וְ]][[H5927I\|הֶעֱלָ֣ה]] [[H5930A\|עֹלוֹת֮]] [[H4557\|מִסְפַּ֣ר]] [[H3605\|כֻּלָּ]][[H9028\|ם֒]] [[H3588A\|כִּ֚י]] [[H0559\|אָמַ֣ר]] [[H0347\|אִיּ֔וֹב]] [[H0194\|אוּלַי֙]] [[H2398\|חָטְא֣וּ]] [[H1121A\|בָנַ֔]][[H9020\|י]] [[H9001\|וּ]][[H1288\|בֵרֲכ֥וּ]] [[H0430G\|אֱלֹהִ֖ים]] [[H9003\|בִּ]][[H3824\|לְבָבָ֑]][[H9028\|ם]] [[H3602\|כָּ֛כָה]] [[H6213A\|יַעֲשֶׂ֥ה]] [[H0347\|אִיּ֖וֹב]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117J\|יָּמִֽים]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic CHILDREN|CHILDREN]] • [[topic DISSIPATION|DISSIPATION]] • [[topic FAMILY|FAMILY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JOB|JOB]] • [[topic PARENTS|PARENTS]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.1.4|<< Job 1:4]]</td><td align="center" style="border:none;">[[Job.1|Job 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.1.6|Job 1:6 >>]]</td></tr></table>
 
@@ -35,7 +108,7 @@ And when the days of feasting were over, Job would send for his children to puri
 | he did  |**<big>&#8207;[[H6213A\|יַעֲשֶׂ֥ה]]&#8207; </big>**| ya.'a.Seh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Job  |**<big>&#8207;[[H0347\|אִיּ֖וֹב]]&#8207; </big>**| 'i.Yov<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the days  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117J\|יָּמִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the days  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117J\|יָּמִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.1.4|<< Job 1:4]]</td><td align="center" style="border:none;">[[Job.1|Job 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.1.6|Job 1:6 >>]]</td></tr></table>
 
 

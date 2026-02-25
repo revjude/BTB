@@ -1,10 +1,67 @@
+---
+title: Hebrews 9:9
+type: Verse
+kjv: "Which was a figure for the time then present, in which were offered both gifts and sacrifices, that could not make him that did the service perfect, as pertaining to the conscience;"
+bsb: "It is an illustration for the present time, because the gifts and sacrifices being offered were unable to cleanse the conscience of the worshiper."
+greek: "ἥτις παραβολὴ εἰς τὸν καιρὸν τὸν ἐνεστηκότα, καθ᾽ ἣν δῶρά τε καὶ θυσίαι προσφέρονται μὴ δυνάμεναι κατὰ συνείδησιν τελειῶσαι τὸν λατρεύοντα,"
+pericope: "[[Heb.9.1 The Earthly Tabernacle|The Earthly Tabernacle]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 9
+book/chapter: "[[Heb.9|Hebrews 9]]"
+chronological_order: 1148
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic ORDINANCE|ORDINANCE]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TYPES|TYPES]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3748]]"
+- "[[G3850]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2540]]"
+- "[[G1764]]"
+- "[[G2596]]"
+- "[[G3739]]"
+- "[[G1435]]"
+- "[[G5037]]"
+- "[[G2532]]"
+- "[[G2378]]"
+- "[[G4374]]"
+- "[[G3361]]"
+- "[[G1410]]"
+- "[[G4893]]"
+- "[[G5048]]"
+- "[[G3000]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Hebrews 9:9**<big><big>[[Heb.9.1 The Earthly Tabernacle|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Which [was] a figure for the time then present, in which were offered both gifts and sacrifices, that could not make him that did the service perfect, as pertaining to the conscience;
 <small><sub>**BSB:**</sub></small>
 It is an illustration for the present time, because the gifts and sacrifices being offered were unable to cleanse the conscience of the worshiper.
-<small><sub>**Literal:**</sub></small>
-which [is] a symbol for the time which being present, in which gifts both and sacrifices are offered not being able in regard to conscience to make perfect who is worshiping,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.8|<< Hebrews 9:8]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.10|Hebrews 9:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3748\|ἥτις]]  [[G3850\|παραβολὴ]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2540\|καιρὸν]]  [[G3588\|τὸν]]  [[G1764\|ἐνεστηκότα,]]  [[G2596\|καθ᾽]]  [[G3739\|ἣν]]  [[G1435\|δῶρά]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G2378\|θυσίαι]]  [[G4374\|προσφέρονται]]  [[G3361\|μὴ]]  [[G1410\|δυνάμεναι]]  [[G2596\|κατὰ]]  [[G4893\|συνείδησιν]]  [[G5048\|τελειῶσαι]]  [[G3588\|τὸν]]  [[G3000\|λατρεύοντα,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic GOSPEL|GOSPEL]] • [[topic LAW|LAW]] • [[topic OFFERINGS|OFFERINGS]] • [[topic ORDINANCE|ORDINANCE]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TYPES|TYPES]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.8|<< Hebrews 9:8]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.10|Hebrews 9:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

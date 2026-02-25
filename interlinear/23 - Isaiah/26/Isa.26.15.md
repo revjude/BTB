@@ -1,8 +1,53 @@
+---
+title: Isaiah 26:15
+type: Verse
+kjv: "Thou hast increased the nation, O LORD, thou hast increased the nation: thou art glorified: thou hadst removed it far unto all the ends of the earth."
+bsb: "You have enlarged the nation, O LORD; You have enlarged the nation. You have gained glory for Yourself; You have extended all the borders of the land."
+hebrew: "יָסַ֤פְתָּ לַגּוֹי֙ יְהוָ֔ה יָסַ֥פְתָּ לַגּ֖וֹי נִכְבָּ֑דְתָּ רִחַ֖קְתָּ כָּל־ קַצְוֵי־ אָֽרֶץ׃"
+pericope: "[[Isa.26.1 A Song of Salvation|A Song of Salvation]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 26
+book/chapter: "[[Isa.26|Isaiah 26]]"
+chronological_order: 669
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H3254H]]"
+- "[[H9005]]"
+- "[[H1471A]]"
+- "[[H3068G]]"
+- "[[H3513G]]"
+- "[[H7368]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7099]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 26:15**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast increased the nation, O LORD, thou hast increased the nation: thou art glorified: thou hadst removed [it] far [unto] all the ends of the earth.
 <small><sub>**BSB:**</sub></small>
 You have enlarged the nation, O LORD; You have enlarged the nation. You have gained glory for Yourself; You have extended all the borders of the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H3254H\|יָסַ֤פְתָּ]] [[H9005\|לַ]][[H1471A\|גּוֹי֙]] [[H3068G\|יְהוָ֔ה]] [[H3254H\|יָסַ֥פְתָּ]] [[H9005\|לַ]][[H1471A\|גּ֖וֹי]] [[H3513G\|נִכְבָּ֑דְתָּ]] [[H7368\|רִחַ֖קְתָּ]] [[H3605\|כָּל]][[H9014\|־]] [[H7099\|קַצְוֵי]][[H9014\|־]] [[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.14|<< Isaiah 26:14]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.16|Isaiah 26:16 >>]]</td></tr></table>
 

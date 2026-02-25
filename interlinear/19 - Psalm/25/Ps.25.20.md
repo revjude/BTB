@@ -1,8 +1,58 @@
+---
+title: Psalm 25:20
+type: Verse
+kjv: "O keep my soul, and deliver me: let me not be ashamed; for I put my trust in thee."
+bsb: "Guard my soul and deliver me; let me not be put to shame, for I take refuge in You."
+hebrew: "שָׁמְרָ֣ה נַ֭פְשִׁי וְהַצִּילֵ֑נִי אַל־ אֵ֝ב֗וֹשׁ כִּֽי־ חָסִ֥יתִי בָֽךְ׃"
+pericope: "[[Ps.25.1 To You I Lift Up My Soul|To You I Lift Up My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 25
+book/chapter: "[[Ps.25|Psalm 25]]"
+chronological_order: 357
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H8104H]]"
+- "[[H9012]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H5337]]"
+- "[[H9030]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0954]]"
+- "[[H3588A]]"
+- "[[H2620]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 25:20**<big><big>[[Ps.25.1 To You I Lift Up My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O keep my soul, and deliver me: let me not be ashamed; for I put my trust in thee.
 <small><sub>**BSB:**</sub></small>
 Guard my soul and deliver me; let me not be put to shame, for I take refuge in You.
+<small><sub>**Hebrew:**</sub></small>
+[[H8104H\|שָׁמְרָ֣]][[H9012\|ה]] [[H5315G\|נַ֭פְשִׁ]][[H9020\|י]] [[H9002\|וְ]][[H5337\|הַצִּילֵ֑]][[H9030\|נִי]] [[H0408\|אַל]][[H9014\|־]] [[H0954\|אֵ֝ב֗וֹשׁ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2620\|חָסִ֥יתִי]] [[H9003\|בָֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.25.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.25.19|<< Psalms 25:19]]</td><td align="center" style="border:none;">[[Ps.25|Psalms 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.25.21|Psalms 25:21 >>]]</td></tr></table>
 

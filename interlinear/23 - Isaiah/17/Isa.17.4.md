@@ -1,8 +1,56 @@
+---
+title: Isaiah 17:4
+type: Verse
+kjv: "And in that day it shall come to pass, that the glory of Jacob shall be made thin, and the fatness of his flesh shall wax lean."
+bsb: "“In that day the splendor of Jacob will fade, and the fat of his body will waste away,"
+hebrew: "וְהָיָה֙ בַּיּ֣וֹם הַה֔וּא יִדַּ֖ל כְּב֣וֹד יַעֲקֹ֑ב וּמִשְׁמַ֥ן בְּשָׂר֖וֹ יֵרָזֶֽה׃"
+pericope: "[[Isa.17.1 The Burden against Damascus|The Burden against Damascus]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 17
+book/chapter: "[[Isa.17|Isaiah 17]]"
+chronological_order: 634
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H1809]]"
+- "[[H3519]]"
+- "[[H3290]]"
+- "[[H9002]]"
+- "[[H4924B]]"
+- "[[H1320]]"
+- "[[H9023]]"
+- "[[H7329]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 17:4**<big><big>[[Isa.17.1 The Burden against Damascus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in that day it shall come to pass, [that] the glory of Jacob shall be made thin, and the fatness of his flesh shall wax lean.
 <small><sub>**BSB:**</sub></small>
 “In that day the splendor of Jacob will fade, and the fat of his body will waste away,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָה֙]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H1809\|יִדַּ֖ל]] [[H3519\|כְּב֣וֹד]] [[H3290\|יַעֲקֹ֑ב]] [[H9002\|וּ]][[H4924B\|מִשְׁמַ֥ן]] [[H1320\|בְּשָׂר֖]][[H9023\|וֹ]] [[H7329\|יֵרָזֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.17.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.3|<< Isaiah 17:3]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17.5|Isaiah 17:5 >>]]</td></tr></table>
 

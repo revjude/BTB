@@ -1,10 +1,70 @@
+---
+title: Philippians 1:20
+type: Verse
+kjv: "According to my earnest expectation and my hope, that in nothing I shall be ashamed, but that with all boldness, as always, so now also Christ shall be magnified in my body, whether it be by life, or by death."
+bsb: "I eagerly expect and hope that I will in no way be ashamed, but will have complete boldness so that now as always Christ will be exalted in my body, whether by life or by death."
+greek: "κατὰ τὴν ἀποκαραδοκίαν καὶ ἐλπίδα μου ὅτι ἐν οὐδενὶ αἰσχυνθήσομαι ἀλλ᾽ ἐν πάσῃ παρρησίᾳ ὡς πάντοτε καὶ νῦν μεγαλυνθήσεται Χριστὸς ἐν τῷ σώματί μου, εἴτε διὰ ζωῆς εἴτε διὰ θανάτου.¶"
+pericope: "[[Phil.1.12 Paul’s Trials Advance the Gospel|Paul’s Trials Advance the Gospel]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 1
+book/chapter: "[[Phil.1|Philippians 1]]"
+chronological_order: 1117
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic TACT|TACT]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G0603]]"
+- "[[G2532]]"
+- "[[G1680]]"
+- "[[G3165]]"
+- "[[G3754G]]"
+- "[[G1722]]"
+- "[[G3762]]"
+- "[[G0153]]"
+- "[[G0235]]"
+- "[[G3956]]"
+- "[[G3954]]"
+- "[[G5613]]"
+- "[[G3842]]"
+- "[[G3568]]"
+- "[[G3170]]"
+- "[[G5547]]"
+- "[[G4983]]"
+- "[[G1535]]"
+- "[[G1223]]"
+- "[[G2222]]"
+- "[[G2288]]"
+texts:
+- NKO
+---
+
 **Philippians 1:20**<big><big>[[Phil.1.12 Paul’s Trials Advance the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 According to my earnest expectation and [my] hope, that in nothing I shall be ashamed, but [that] with all boldness, as always, [so] now also Christ shall be magnified in my body, whether [it be] by life, or by death.
 <small><sub>**BSB:**</sub></small>
 I eagerly expect and hope that I will in no way be ashamed, but will have complete boldness so that now as always Christ will be exalted in my body, whether by life or by death.
-<small><sub>**Literal:**</sub></small>
-according to the earnest expectation and hope of mine that in no [thing] I will be ashamed but in all boldness as always also now will be magnified Christ in the body of mine, whether through life or through death.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.19|<< Philippians 1:19]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.21|Philippians 1:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G0603\|ἀποκαραδοκίαν]]  [[G2532\|καὶ]]  [[G1680\|ἐλπίδα]]  [[G3165\|μου]]  [[G3754G\|ὅτι]]  [[G1722\|ἐν]]  [[G3762\|οὐδενὶ]]  [[G0153\|αἰσχυνθήσομαι]]  [[G0235\|ἀλλ᾽]]  [[G1722\|ἐν]]  [[G3956\|πάσῃ]]  [[G3954\|παρρησίᾳ]]  [[G5613\|ὡς]]  [[G3842\|πάντοτε]]  [[G2532\|καὶ]]  [[G3568\|νῦν]]  [[G3170\|μεγαλυνθήσεται]]  [[G5547\|Χριστὸς]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4983\|σώματί]]  [[G3165\|μου,]]  [[G1535\|εἴτε]]  [[G1223\|διὰ]]  [[G2222\|ζωῆς]]  [[G1535\|εἴτε]]  [[G1223\|διὰ]]  [[G2288\|θανάτου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic HOPE|HOPE]] • [[topic LOVE|LOVE]] • [[topic RESIGNATION|RESIGNATION]] • [[topic TACT|TACT]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.19|<< Philippians 1:19]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.21|Philippians 1:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

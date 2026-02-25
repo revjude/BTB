@@ -1,10 +1,53 @@
+---
+title: Matthew 21:4
+type: Verse
+kjv: "All this was done, that it might be fulfilled which was spoken by the prophet, saying,"
+bsb: "This took place to fulfill what was spoken through the prophet:"
+greek: "Τοῦτο δὲ ὅλον γέγονεν ἵνα πληρωθῇ τὸ ῥηθὲν διὰ τοῦ προφήτου λέγοντος·"
+pericope: "[[Matt.21.1 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 21
+book/chapter: "[[Matt.21|Matthew 21]]"
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G3650]]"
+- "[[G1096]]"
+- "[[G2443]]"
+- "[[G4137]]"
+- "[[G3588]]"
+- "[[G2046]]"
+- "[[G1223]]"
+- "[[G4396]]"
+- "[[G3004G]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 21:4**<big><big>[[Matt.21.1 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 All this was done, that it might be fulfilled which was spoken by the prophet, saying,
 <small><sub>**BSB:**</sub></small>
 This took place to fulfill what was spoken through the prophet:
-<small><sub>**Literal:**</sub></small>
-This then all has come to pass that it may be fulfilled that having been spoken through the prophet saying;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.3|<< Matthew 21:3]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.5|Matthew 21:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Τοῦτο]]  [[G1161\|δὲ]]  [[G3650\|ὅλον]]  [[G1096\|γέγονεν]]  [[G2443\|ἵνα]]  [[G4137\|πληρωθῇ]]  [[G3588\|τὸ]]  [[G2046\|ῥηθὲν]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G4396\|προφήτου]]  [[G3004G\|λέγοντος·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.3|<< Matthew 21:3]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.5|Matthew 21:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

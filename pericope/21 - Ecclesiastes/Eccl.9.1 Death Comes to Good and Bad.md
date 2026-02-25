@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Death Comes to Good and Bad
+type: Pericope
 pericope: "[[Eccl.9.1 Death Comes to Good and Bad|Death Comes to Good and Bad]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Ecclesiastes
 chapter: 9
 book/chapter: "[[Eccl.9|Ecclesiastes 9]]"
-genre:
+chronological_order: 547
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - philosophical
 - megillot
+verse_count: 6
 verses:
 - "[[Eccl.9.1]]"
 - "[[Eccl.9.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Eccl.9.6]]"
 ---
 
-[[Eccl.9|Ecclesiastes 9:1 - Ecclesiastes 9:6]]
+<small>[[Eccl.9|Ecclesiastes 9:1-6]]</small>
 *Death Comes to Good and Bad*
 
 [[Eccl.9.1|1]] For all this I considered in my heart even to declare all this, that the righteous, and the wise, and their works, \[are\] in the hand of God: no man knoweth either love or hatred \[by\] all \[that is\] before them.

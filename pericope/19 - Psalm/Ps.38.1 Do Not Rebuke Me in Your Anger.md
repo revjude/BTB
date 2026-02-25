@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Do Not Rebuke Me in Your Anger
+type: Pericope
 pericope: "[[Ps.38.1 Do Not Rebuke Me in Your Anger|Do Not Rebuke Me in Your Anger]]"
-verse_count: 23
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 38
 book/chapter: "[[Ps.38|Psalm 38]]"
-genre:
+chronological_order: 424
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 23
 verses:
 - "[[Ps.38.0]]"
 - "[[Ps.38.1]]"
@@ -44,7 +51,7 @@ verses:
 - "[[Ps.38.22]]"
 ---
 
-[[Ps.38|Psalm 38:1 - Psalm 38:22]]
+<small>[[Ps.38|Psalm 38:1-22]]</small>
 *Do Not Rebuke Me in Your Anger*
 
 [[Ps.38.0|0]] A Psalm of David, to bring to remembrance.

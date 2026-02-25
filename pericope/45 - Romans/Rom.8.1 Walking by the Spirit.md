@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Walking by the Spirit
+type: Pericope
 pericope: "[[Rom.8.1 Walking by the Spirit|Walking by the Spirit]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Romans
 chapter: 8
 book/chapter: "[[Rom.8|Romans 8]]"
-genre:
+chronological_order: 1094
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 11
 verses:
 - "[[Rom.8.1]]"
 - "[[Rom.8.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Rom.8.11]]"
 ---
 
-[[Rom.8|Romans 8:1 - Romans 8:11]]
+<small>[[Rom.8|Romans 8:1-11]]</small>
 *Walking by the Spirit*
 
 [[Rom.8.1|1]] \[There is\] therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.

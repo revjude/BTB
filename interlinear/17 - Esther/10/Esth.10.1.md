@@ -1,8 +1,54 @@
+---
+title: Esther 10:1
+type: Verse
+kjv: "And the king Ahasuerus laid a tribute upon the land, and upon the isles of the sea."
+bsb: "Now King Xerxes imposed tribute throughout the land, even to its farthest shores."
+hebrew: "וַיָּשֶׂם֩ הַמֶּ֨לֶךְ אֲחַשְׁוֵר֧וֹשׁ מַ֛ס עַל־ הָאָ֖רֶץ וְאִיֵּ֥י הַיָּֽם׃"
+pericope: "[[Esth.10.1 Tribute to Xerxes and Mordecai|Tribute to Xerxes and Mordecai]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 10
+book/chapter: "[[Esth.10|Esther 10]]"
+chronological_order: 908
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic MORDECAI|MORDECAI]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760H]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0325]]"
+- "[[H4522]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H0339]]"
+- "[[H3220G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Esther 10:1**<big><big>[[Esth.10.1 Tribute to Xerxes and Mordecai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king Ahasuerus laid a tribute upon the land, and [upon] the isles of the sea.
 <small><sub>**BSB:**</sub></small>
 Now King Xerxes imposed tribute throughout the land, even to its farthest shores.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7760H\|יָּשֶׂם֩]] [[H9009\|הַ]][[H4428G\|מֶּ֨לֶךְ]] [[H0325\|אֲחַשְׁוֵר֧וֹשׁ]] [[H4522\|מַ֛ס]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9002\|וְ]][[H0339\|אִיֵּ֥י]] [[H9009\|הַ]][[H3220G\|יָּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MORDECAI|MORDECAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.32|<< Esther 9:32]]</td><td align="center" style="border:none;">[[Esth.10|Esther 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.10.2|Esther 10:2 >>]]</td></tr></table>
 

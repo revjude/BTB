@@ -1,10 +1,60 @@
+---
+title: Luke 1:39
+type: Verse
+kjv: "And Mary arose in those days, and went into the hill country with haste, into a city of Juda;"
+bsb: "In those days Mary got ready and hurried to a town in the hill country of Judah,"
+greek: "Ἀναστᾶσα δὲ Μαριὰμ ἐν ταῖς ἡμέραις ταύταις ἐπορεύθη εἰς τὴν ὀρεινὴν μετὰ σπουδῆς εἰς πόλιν Ἰούδα"
+pericope: "[[Luke.1.39 Mary Visits Elizabeth|Mary Visits Elizabeth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MARY|MARY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G0450]]"
+- "[[G1161]]"
+- "[[G3137G]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3778]]"
+- "[[G4198]]"
+- "[[G1519]]"
+- "[[G3714]]"
+- "[[G3326]]"
+- "[[G4710]]"
+- "[[G4172]]"
+- "[[G2448]]"
+texts:
+- NKO
+---
+
 **Luke 1:39**<big><big>[[Luke.1.39 Mary Visits Elizabeth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Mary arose in those days, and went into the hill country with haste, into a city of Juda;
 <small><sub>**BSB:**</sub></small>
 In those days Mary got ready and hurried to a town in the hill country of Judah,
-<small><sub>**Literal:**</sub></small>
-Having risen up then Mary in <the> days these she went into the hill country with haste to a town of Judah<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.38|<< Luke 1:38]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.40|Luke 1:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0450\|Ἀναστᾶσα]]  [[G1161\|δὲ]]  [[G3137G\|Μαριὰμ]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις]]  [[G3778\|ταύταις]]  [[G4198\|ἐπορεύθη]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3714\|ὀρεινὴν]]  [[G3326\|μετὰ]]  [[G4710\|σπουδῆς]]  [[G1519\|εἰς]]  [[G4172\|πόλιν]]  [[G2448\|Ἰούδα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic MARY|MARY]] • [[topic MIRACLES|MIRACLES]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.38|<< Luke 1:38]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.40|Luke 1:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

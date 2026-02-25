@@ -1,8 +1,73 @@
+---
+title: Leviticus 17:15
+type: Verse
+kjv: "And every soul that eateth that which died of itself, or that which was torn with beasts, whether it be one of your own country, or a stranger, he shall both wash his clothes, and bathe himself in water, and be unclean until the even: then shall he be clean."
+bsb: "And any person, whether native or foreigner, who eats anything found dead or mauled by wild beasts must wash his clothes and bathe with water, and he will be unclean until evening; then he will be clean."
+hebrew: "וְכָל־ נֶ֗פֶשׁ אֲשֶׁ֨ר תֹּאכַ֤ל נְבֵלָה֙ וּטְרֵפָ֔ה בָּאֶזְרָ֖ח וּבַגֵּ֑ר וְכִבֶּ֨ס בְּגָדָ֜יו וְרָחַ֥ץ בַּמַּ֛יִם וְטָמֵ֥א עַד־ הָעֶ֖רֶב וְטָהֵֽר׃"
+pericope: "[[Lev.17.10 Laws against Eating Blood|Laws against Eating Blood]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 17
+book/chapter: "[[Lev.17|Leviticus 17]]"
+chronological_order: 149
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic UNCLEANNESS|UNCLEANNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5315J]]"
+- "[[H0834A]]"
+- "[[H0398]]"
+- "[[H5038]]"
+- "[[H2966]]"
+- "[[H9003]]"
+- "[[H0249]]"
+- "[[H1616]]"
+- "[[H9001]]"
+- "[[H3526H]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H7364]]"
+- "[[H4325G]]"
+- "[[H2930A]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H6153]]"
+- "[[H2891]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 17:15**<big><big>[[Lev.17.10 Laws against Eating Blood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And every soul that eateth that which died [of itself], or that which was torn [with beasts, whether it be] one of your own country, or a stranger, he shall both wash his clothes, and bathe [himself] in water, and be unclean until the even: then shall he be clean.
 <small><sub>**BSB:**</sub></small>
 And any person, whether native or foreigner, who eats anything found dead or mauled by wild beasts must wash his clothes and bathe with water, and he will be unclean until evening; then he will be clean.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5315J\|נֶ֗פֶשׁ]] [[H0834A\|אֲשֶׁ֨ר]] [[H0398\|תֹּאכַ֤ל]] [[H5038\|נְבֵלָה֙]] [[H9002\|וּ]][[H2966\|טְרֵפָ֔ה]] [[H9003\|בָּ]][[H0249\|אֶזְרָ֖ח]] [[H9002\|וּ]][[H9003\|בַ]][[H1616\|גֵּ֑ר]] [[H9001\|וְ]][[H3526H\|כִבֶּ֨ס]] [[H0899B\|בְּגָדָ֜י]][[H9023\|ו]] [[H9001\|וְ]][[H7364\|רָחַ֥ץ]] [[H9003\|בַּ]][[H4325G\|מַּ֛יִם]] [[H9001\|וְ]][[H2930A\|טָמֵ֥א]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הָ]][[H6153\|עֶ֖רֶב]] [[H9001\|וְ]][[H2891\|טָהֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic FOOD|FOOD]] • [[topic PURIFICATION|PURIFICATION]] • [[topic SANITATION|SANITATION]] • [[topic UNCLEANNESS|UNCLEANNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.17.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.17.14|<< Leviticus 17:14]]</td><td align="center" style="border:none;">[[Lev.17|Leviticus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.17.16|Leviticus 17:16 >>]]</td></tr></table>
 

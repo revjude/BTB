@@ -1,10 +1,64 @@
+---
+title: Matthew 10:16
+type: Verse
+kjv: "Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and harmless as doves."
+bsb: "Behold, I am sending you out like sheep among wolves; therefore be as shrewd as snakes and as innocent as doves."
+jesus_said: "Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and harmless as doves."
+greek: "ἰδοὺ ἐγὼ ἀποστέλλω ὑμᾶς ὡς πρόβατα ἐν μέσῳ λύκων· γίνεσθε οὖν φρόνιμοι ὡς οἱ ὄφεις καὶ ἀκέραιοι ὡς αἱ περιστεραί.¶"
+pericope: "[[Matt.10.16 Sheep among Wolves|Sheep among Wolves]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 10
+book/chapter: "[[Matt.10|Matthew 10]]"
+chronological_order: 954
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DOVE, TURTLE|DOVE, TURTLE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SERPENT|SERPENT]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic WOLF|WOLF]]"
+strongs:
+- "[[G2400]]"
+- "[[G1473]]"
+- "[[G0649]]"
+- "[[G4771]]"
+- "[[G5613]]"
+- "[[G4263]]"
+- "[[G1722]]"
+- "[[G3319]]"
+- "[[G3074]]"
+- "[[G1096]]"
+- "[[G3767]]"
+- "[[G5429]]"
+- "[[G3588]]"
+- "[[G3789]]"
+- "[[G2532]]"
+- "[[G0185]]"
+- "[[G4058]]"
+texts:
+- NKO
+---
+
 **Matthew 10:16**<big><big>[[Matt.10.16 Sheep among Wolves|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and harmless as doves.
 <small><sub>**BSB:**</sub></small>
 Behold, I am sending you out like sheep among wolves; therefore be as shrewd as snakes and as innocent as doves.
-<small><sub>**Literal:**</sub></small>
-Behold I myself send forth you as sheep in [the] midst of wolves; do be therefore shrewd as the serpents and innocent as the doves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.15|<< Matthew 10:15]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.17|Matthew 10:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2400\|ἰδοὺ]]  [[G1473\|ἐγὼ]]  [[G0649\|ἀποστέλλω]]  [[G4771\|ὑμᾶς]]  [[G5613\|ὡς]]  [[G4263\|πρόβατα]]  [[G1722\|ἐν]]  [[G3319\|μέσῳ]]  [[G3074\|λύκων·]]  [[G1096\|γίνεσθε]]  [[G3767\|οὖν]]  [[G5429\|φρόνιμοι]]  [[G5613\|ὡς]]  [[G3588\|οἱ]]  [[G3789\|ὄφεις]]  [[G2532\|καὶ]]  [[G0185\|ἀκέραιοι]]  [[G5613\|ὡς]]  [[G3588\|αἱ]]  [[G4058\|περιστεραί.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DOVE, TURTLE|DOVE, TURTLE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SERPENT|SERPENT]] • [[topic SHEEP|SHEEP]] • [[topic WOLF|WOLF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.15|<< Matthew 10:15]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.17|Matthew 10:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

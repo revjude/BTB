@@ -1,10 +1,61 @@
+---
+title: Luke 1:24
+type: Verse
+kjv: "And after those days his wife Elisabeth conceived, and hid herself five months, saying,"
+bsb: "After these days, his wife Elizabeth became pregnant and for five months remained in seclusion. She declared,"
+greek: "Μετὰ δὲ ταύτας τὰς ἡμέρας συνέλαβεν Ἐλισάβετ ἡ γυνὴ αὐτοῦ καὶ περιέκρυβεν ἑαυτὴν μῆνας πέντε λέγουσα"
+pericope: "[[Luke.1.5 Gabriel Foretells John’s Birth|Gabriel Foretells John’s Birth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic CONCEPTION|CONCEPTION]]"
+- "[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G3326]]"
+- "[[G1161]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G4815]]"
+- "[[G1665]]"
+- "[[G1135H]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G4032]]"
+- "[[G1438]]"
+- "[[G3376]]"
+- "[[G4002]]"
+- "[[G3004G]]"
+texts:
+- NKO
+---
+
 **Luke 1:24**<big><big>[[Luke.1.5 Gabriel Foretells John’s Birth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And after those days his wife Elisabeth conceived, and hid herself five months, saying,
 <small><sub>**BSB:**</sub></small>
 After these days, his wife Elizabeth became pregnant and for five months remained in seclusion. She declared,
-<small><sub>**Literal:**</sub></small>
-After then these <the> days conceived Elizabeth the wife of him and was hiding herself months five saying<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.23|<< Luke 1:23]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.25|Luke 1:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3326\|Μετὰ]]  [[G1161\|δὲ]]  [[G3778\|ταύτας]]  [[G3588\|τὰς]]  [[G2250\|ἡμέρας]]  [[G4815\|συνέλαβεν]]  [[G1665\|Ἐλισάβετ]]  [[G3588\|ἡ]]  [[G1135H\|γυνὴ]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G4032\|περιέκρυβεν]]  [[G1438\|ἑαυτὴν]]  [[G3376\|μῆνας]]  [[G4002\|πέντε]]  [[G3004G\|λέγουσα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARRENNESS|BARRENNESS]] • [[topic CONCEPTION|CONCEPTION]] • [[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]] • [[topic JOY|JOY]] • [[topic MIRACLES|MIRACLES]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.23|<< Luke 1:23]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.25|Luke 1:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,65 @@
+---
+title: Numbers 4:33
+type: Verse
+kjv: "This is the service of the families of the sons of Merari, according to all their service, in the tabernacle of the congregation, under the hand of Ithamar the son of Aaron the priest."
+bsb: "This is the service of the Merarite clans according to all their work at the Tent of Meeting, under the direction of Ithamar son of Aaron the priest.”"
+hebrew: "זֹ֣את עֲבֹדַ֗ת מִשְׁפְּחֹת֙ בְּנֵ֣י מְרָרִ֔י לְכָל־ עֲבֹדָתָ֖ם בְּאֹ֣הֶל מוֹעֵ֑ד בְּיַד֙ אִֽיתָמָ֔ר בֶּֽן־ אַהֲרֹ֖ן הַכֹּהֵֽן׃"
+pericope: "[[Num.4.29 The Duties of the Merarites|The Duties of the Merarites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 4
+book/chapter: "[[Num.4|Numbers 4]]"
+chronological_order: 163
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H2063]]"
+- "[[H5656H]]"
+- "[[H4940]]"
+- "[[H1121G]]"
+- "[[H4847]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H3027H]]"
+- "[[H0385]]"
+- "[[H1121A]]"
+- "[[H0175]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 4:33**<big><big>[[Num.4.29 The Duties of the Merarites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the service of the families of the sons of Merari, according to all their service, in the tabernacle of the congregation, under the hand of Ithamar the son of Aaron the priest.
 <small><sub>**BSB:**</sub></small>
 This is the service of the Merarite clans according to all their work at the Tent of Meeting, under the direction of Ithamar son of Aaron the priest.”
+<small><sub>**Hebrew:**</sub></small>
+[[H2063\|זֹ֣את]] [[H5656H\|עֲבֹדַ֗ת]] [[H4940\|מִשְׁפְּחֹת֙]] [[H1121G\|בְּנֵ֣י]] [[H4847\|מְרָרִ֔י]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H5656H\|עֲבֹדָתָ֖]][[H9028\|ם]] [[H9003\|בְּ]][[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֑ד]] [[H9003\|בְּ]][[H3027H\|יַד֙]] [[H0385\|אִֽיתָמָ֔ר]] [[H1121A\|בֶּֽן]][[H9014\|־]] [[H0175\|אַהֲרֹ֖ן]] [[H9009\|הַ]][[H3548\|כֹּהֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.32|<< Numbers 4:32]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.34|Numbers 4:34 >>]]</td></tr></table>
 

@@ -1,8 +1,73 @@
+---
+title: 2 Kings 18:18
+type: Verse
+kjv: "And when they had called to the king, there came out to them Eliakim the son of Hilkiah, which was over the household, and Shebna the scribe, and Joah the son of Asaph the recorder."
+bsb: "Then they called for the king. And Eliakim son of Hilkiah the palace administrator, Shebnah the scribe, and Joah son of Asaph the recorder, went out to them."
+hebrew: "וַֽיִּקְרְאוּ֙ אֶל־ הַמֶּ֔לֶךְ וַיֵּצֵ֧א אֲלֵהֶ֛ם אֶלְיָקִ֥ים בֶּן־ חִלְקִיָּ֖הוּ אֲשֶׁ֣ר עַל־ הַבָּ֑יִת וְשֶׁבְנָה֙ הַסֹּפֵ֔ר וְיוֹאָ֥ח בֶּן־ אָסָ֖ף הַמַּזְכִּֽיר׃"
+pericope: "[[2Kgs.18.17 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 18
+book/chapter: "[[2Kgs.18|2 Kings 18]]"
+chronological_order: 656
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASAPH|ASAPH]]"
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic ELIAKIM|ELIAKIM]]"
+- "[[topic HILKIAH|HILKIAH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JOAH|JOAH]]"
+- "[[topic RAB-SHAKEH (RABSHAKEH)|RAB-SHAKEH (RABSHAKEH)]]"
+- "[[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic SHEBNA (SHEBNAH)|SHEBNA (SHEBNAH)]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3318G]]"
+- "[[H9038]]"
+- "[[H0471G]]"
+- "[[H1121A]]"
+- "[[H2518G]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H1004Q]]"
+- "[[H9002]]"
+- "[[H7644]]"
+- "[[H5608B]]"
+- "[[H3098G]]"
+- "[[H0623G]]"
+- "[[H2142]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 18:18**<big><big>[[2Kgs.18.17 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they had called to the king, there came out to them Eliakim the son of Hilkiah, which [was] over the household, and Shebna the scribe, and Joah the son of Asaph the recorder.
 <small><sub>**BSB:**</sub></small>
 Then they called for the king. And Eliakim son of Hilkiah the palace administrator, Shebnah the scribe, and Joah son of Asaph the recorder, went out to them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H7121G\|יִּקְרְאוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9001\|וַ]][[H3318G\|יֵּצֵ֧א]] [[H0413\|אֲלֵ]][[H9038\|הֶ֛ם]] [[H0471G\|אֶלְיָקִ֥ים]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2518G\|חִלְקִיָּ֖הוּ]] [[H0834A\|אֲשֶׁ֣ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1004Q\|בָּ֑יִת]] [[H9002\|וְ]][[H7644\|שֶׁבְנָה֙]] [[H9009\|הַ]][[H5608B\|סֹּפֵ֔ר]] [[H9002\|וְ]][[H3098G\|יוֹאָ֥ח]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0623G\|אָסָ֖ף]] [[H9009\|הַ]][[H2142\|מַּזְכִּֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAPH|ASAPH]] • [[topic ASSYRIA|ASSYRIA]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic ELIAKIM|ELIAKIM]] • [[topic HILKIAH|HILKIAH]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JOAH|JOAH]] • [[topic RAB-SHAKEH (RABSHAKEH)|RAB-SHAKEH (RABSHAKEH)]] • [[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic SHEBNA (SHEBNAH)|SHEBNA (SHEBNAH)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.17|<< 2 Kings 18:17]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.19|2 Kings 18:19 >>]]</td></tr></table>
 

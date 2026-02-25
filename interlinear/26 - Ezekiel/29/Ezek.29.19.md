@@ -1,8 +1,74 @@
+---
+title: Ezekiel 29:19
+type: Verse
+kjv: "Therefore thus saith the Lord GOD; Behold, I will give the land of Egypt unto Nebuchadrezzar king of Babylon; and he shall take her multitude, and take her spoil, and take her prey; and it shall be the wages for his army."
+bsb: "Therefore this is what the Lord GOD says: I will give the land of Egypt to Nebuchadnezzar king of Babylon, who will carry off its wealth, seize its spoil, and remove its plunder. This will be the wages for his army."
+hebrew: "לָכֵ֗ן כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה הִנְנִ֥י נֹתֵ֛ן לִנְבוּכַדְרֶאצַּ֥ר מֶֽלֶךְ־ בָּבֶ֖ל אֶת־ אֶ֣רֶץ מִצְרָ֑יִם וְנָשָׂ֨א הֲמֹנָ֜הּ וְשָׁלַ֤ל שְׁלָלָהּ֙ וּבָזַ֣ז בִּזָּ֔הּ וְהָיְתָ֥ה שָׂכָ֖ר לְחֵילֽוֹ׃"
+pericope: "[[Ezek.29.17 Egypt the Reward of Nebuchadnezzar|Egypt the Reward of Nebuchadnezzar]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 29
+book/chapter: "[[Ezek.29|Ezekiel 29]]"
+chronological_order: 820
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H5414G]]"
+- "[[H5019]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H0894]]"
+- "[[H0853]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9001]]"
+- "[[H5375H]]"
+- "[[H1995A]]"
+- "[[H9024]]"
+- "[[H7997B]]"
+- "[[H7998]]"
+- "[[H0962]]"
+- "[[H0957]]"
+- "[[H1961]]"
+- "[[H7939]]"
+- "[[H2428A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 29:19**<big><big>[[Ezek.29.17 Egypt the Reward of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the Lord GOD; Behold, I will give the land of Egypt unto Nebuchadrezzar king of Babylon; and he shall take her multitude, and take her spoil, and take her prey; and it shall be the wages for his army.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the Lord GOD says: I will give the land of Egypt to Nebuchadnezzar king of Babylon, who will carry off its wealth, seize its spoil, and remove its plunder. This will be the wages for his army.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H2005\|הִנְ]][[H9040\|נִ֥י]] [[H5414G\|נֹתֵ֛ן]] [[H9005\|לִ]][[H5019\|נְבוּכַדְרֶאצַּ֥ר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֖ל]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H9001\|וְ]][[H5375H\|נָשָׂ֨א]] [[H1995A\|הֲמֹנָ֜]][[H9024\|הּ]] [[H9001\|וְ]][[H7997B\|שָׁלַ֤ל]] [[H7998\|שְׁלָלָ]][[H9024\|הּ֙]] [[H9001\|וּ]][[H0962\|בָזַ֣ז]] [[H0957\|בִּזָּ֔]][[H9024\|הּ]] [[H9001\|וְ]][[H1961\|הָיְתָ֥ה]] [[H7939\|שָׂכָ֖ר]] [[H9005\|לְ]][[H2428A\|חֵילֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.29.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.29.18|<< Ezekiel 29:18]]</td><td align="center" style="border:none;">[[Ezek.29|Ezekiel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.20|Ezekiel 29:20 >>]]</td></tr></table>
 

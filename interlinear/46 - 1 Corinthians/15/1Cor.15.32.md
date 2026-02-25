@@ -1,10 +1,69 @@
+---
+title: 1 Corinthians 15:32
+type: Verse
+kjv: "If after the manner of men I have fought with beasts at Ephesus, what advantageth it me, if the dead rise not? let us eat and drink; for to morrow we die."
+bsb: "If I fought wild beasts in Ephesus for human motives, what did I gain? If the dead are not raised, “Let us eat and drink, for tomorrow we die.”"
+greek: "εἰ κατὰ ἄνθρωπον ἐθηριομάχησα ἐν Ἐφέσῳ, τί μοι τὸ ὄφελος; εἰ νεκροὶ οὐκ ἐγείρονται, φάγωμεν καὶ πίωμεν, αὔριον γὰρ ἀποθνῄσκομεν."
+pericope: "[[1Cor.15.20 The Order of Resurrection|The Order of Resurrection]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 15
+book/chapter: "[[1Cor.15|1 Corinthians 15]]"
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BODY|BODY]]"
+- "[[topic EPICUREANS|EPICUREANS]]"
+- "[[topic GAMES|GAMES]]"
+- "[[topic GLADIATOR|GLADIATOR]]"
+- "[[topic GLUTTONY|GLUTTONY]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SENSUALITY|SENSUALITY]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1487G]]"
+- "[[G2596]]"
+- "[[G0444]]"
+- "[[G2341]]"
+- "[[G1722]]"
+- "[[G2181]]"
+- "[[G5101]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G3786]]"
+- "[[G3498]]"
+- "[[G3756]]"
+- "[[G1453]]"
+- "[[G5315]]"
+- "[[G2532]]"
+- "[[G4095]]"
+- "[[G0839]]"
+- "[[G1063]]"
+- "[[G0599]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 15:32**<big><big>[[1Cor.15.20 The Order of Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If after the manner of men I have fought with beasts at Ephesus, what advantageth it me, if the dead rise not? let us eat and drink; for to morrow we die.
 <small><sub>**BSB:**</sub></small>
 If I fought wild beasts in Ephesus for human motives, what did I gain? If the dead are not raised, “Let us eat and drink, for tomorrow we die.”
-<small><sub>**Literal:**</sub></small>
-If according to man I fought wild beasts in Ephesus, what to me the profit? If [the] dead not are raised, Let us eat and let us drink, tomorrow for we die.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.31|<< 1 Corinthians 15:31]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.33|1 Corinthians 15:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G2596\|κατὰ]]  [[G0444\|ἄνθρωπον]]  [[G2341\|ἐθηριομάχησα]]  [[G1722\|ἐν]]  [[G2181\|Ἐφέσῳ,]]  [[G5101\|τί]]  [[G3165\|μοι]]  [[G3588\|τὸ]]  [[G3786\|ὄφελος;]]  [[G1487G\|εἰ]]  [[G3498\|νεκροὶ]]  [[G3756\|οὐκ]]  [[G1453\|ἐγείρονται,]]  [[G5315\|φάγωμεν]]  [[G2532\|καὶ]]  [[G4095\|πίωμεν,]]  [[G0839\|αὔριον]]  [[G1063\|γὰρ]]  [[G0599\|ἀποθνῄσκομεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BODY|BODY]] • [[topic EPICUREANS|EPICUREANS]] • [[topic GAMES|GAMES]] • [[topic GLADIATOR|GLADIATOR]] • [[topic GLUTTONY|GLUTTONY]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SENSUALITY|SENSUALITY]] • [[topic WORLDLINESS|WORLDLINESS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.31|<< 1 Corinthians 15:31]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.33|1 Corinthians 15:33 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Corinthians 15:32** is...
 > $\quad$ referencing: [[LXX.Isa.22.13|Isa 22:13]]

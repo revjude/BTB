@@ -1,8 +1,59 @@
+---
+title: Psalm 119:54
+type: Verse
+kjv: "Thy statutes have been my songs in the house of my pilgrimage."
+bsb: "Your statutes are songs to me in the house of my pilgrimage."
+hebrew: "זְ֭מִרוֹת הָֽיוּ־ לִ֥י חֻקֶּ֗יךָ בְּבֵ֣ית מְגוּרָֽי׃"
+pericope: "[[Ps.119.49 Your Word Is a Lamp to My Feet - ZAIN|Your Word Is a Lamp to My Feet - ZAIN]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H2158]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H2706G]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H4033]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:54**<big><big>[[Ps.119.49 Your Word Is a Lamp to My Feet - ZAIN|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy statutes have been my songs in the house of my pilgrimage.
 <small><sub>**BSB:**</sub></small>
 Your statutes are songs to me in the house of my pilgrimage.
+<small><sub>**Hebrew:**</sub></small>
+[[H2158\|זְ֭מִרוֹת]] [[H1961\|הָֽיוּ]][[H9014\|־]] [[H9005\|לִ֥]][[H9030\|י]] [[H2706G\|חֻקֶּ֗י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H1004B\|בֵ֣ית]] [[H4033\|מְגוּרָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic SPEAKING|SPEAKING]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.53|<< Psalms 119:53]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.55|Psalms 119:55 >>]]</td></tr></table>
 

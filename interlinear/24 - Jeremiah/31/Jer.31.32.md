@@ -1,8 +1,78 @@
+---
+title: Jeremiah 31:32
+type: Verse
+kjv: "Not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which my covenant they brake, although I was an husband unto them, saith the LORD:"
+bsb: "It will not be like the covenant I made with their fathers when I took them by the hand to lead them out of the land of Egypt—a covenant they broke, though I was a husband to them,” declares the LORD."
+hebrew: "לֹ֣א כַבְּרִ֗ית אֲשֶׁ֤ר כָּרַ֙תִּי֙ אֶת־ אֲבוֹתָ֔ם בְּיוֹם֙ הֶחֱזִיקִ֣י בְיָדָ֔ם לְהוֹצִיאָ֖ם מֵאֶ֖רֶץ מִצְרָ֑יִם אֲשֶׁר־ הֵ֜מָּה הֵפֵ֣רוּ אֶת־ בְּרִיתִ֗י וְאָנֹכִ֛י בָּעַ֥לְתִּי בָ֖ם נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.31.26 The New Covenant|The New Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H3808]]"
+- "[[H9004]]"
+- "[[H1285]]"
+- "[[H0834A]]"
+- "[[H3772H]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H2388H]]"
+- "[[H9040]]"
+- "[[H3027G]]"
+- "[[H9005]]"
+- "[[H3318H]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H1992]]"
+- "[[H6565A]]"
+- "[[H0853]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H0595]]"
+- "[[H1166I]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 31:32**<big><big>[[Jer.31.26 The New Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Not according to the covenant that I made with their fathers in the day [that] I took them by the hand to bring them out of the land of Egypt; which my covenant they brake, although I was an husband unto them, saith the LORD:
 <small><sub>**BSB:**</sub></small>
 It will not be like the covenant I made with their fathers when I took them by the hand to lead them out of the land of Egypt—a covenant they broke, though I was a husband to them,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֣א]] [[H9004\|כַ]][[H1285\|בְּרִ֗ית]] [[H0834A\|אֲשֶׁ֤ר]] [[H3772H\|כָּרַ֙תִּי֙]] [[H0854\|אֶת]][[H9014\|־]] [[H0001G\|אֲבוֹתָ֔]][[H9028\|ם]] [[H9003\|בְּ]][[H3117G\|יוֹם֙]] [[H2388H\|הֶחֱזִיקִ֣]][[H9040\|י]] [[H9003\|בְ]][[H3027G\|יָדָ֔]][[H9028\|ם]] [[H9005\|לְ]][[H3318H\|הוֹצִיאָ֖]][[H9038\|ם]] [[H9006\|מֵ]][[H0776G\|אֶ֖רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1992\|הֵ֜מָּה]] [[H6565A\|הֵפֵ֣רוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִיתִ֗]][[H9020\|י]] [[H9002\|וְ]][[H0595\|אָנֹכִ֛י]] [[H1166I\|בָּעַ֥לְתִּי]] [[H9003\|בָ֖]][[H9038\|ם]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic HUSBAND|HUSBAND]] • [[topic MARRIAGE|MARRIAGE]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.31|<< Jeremiah 31:31]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.33|Jeremiah 31:33 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

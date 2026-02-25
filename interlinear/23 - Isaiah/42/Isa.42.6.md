@@ -1,8 +1,66 @@
+---
+title: Isaiah 42:6
+type: Verse
+kjv: "I the LORD have called thee in righteousness, and will hold thine hand, and will keep thee, and give thee for a covenant of the people, for a light of the Gentiles;"
+bsb: "“I, the LORD, have called you for a righteous purpose, and I will take hold of your hand. I will keep you and appoint you to be a covenant for the people and a light to the nations,"
+hebrew: "אֲנִ֧י יְהוָ֛ה קְרָאתִ֥יךָֽ בְצֶ֖דֶק וְאַחְזֵ֣ק בְּיָדֶ֑ךָ וְאֶצָּרְךָ֗ וְאֶתֶּנְךָ֛ לִבְרִ֥ית עָ֖ם לְא֥וֹר גּוֹיִֽם׃"
+pericope: "[[Isa.42.1 Here Is My Servant|Here Is My Servant]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 42
+book/chapter: "[[Isa.42|Isaiah 42]]"
+chronological_order: 681
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H7121G]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H6664G]]"
+- "[[H9002]]"
+- "[[H2388H]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H5341]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H1285]]"
+- "[[H5971A]]"
+- "[[H0216]]"
+- "[[H1471A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 42:6**<big><big>[[Isa.42.1 Here Is My Servant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I the LORD have called thee in righteousness, and will hold thine hand, and will keep thee, and give thee for a covenant of the people, for a light of the Gentiles;
 <small><sub>**BSB:**</sub></small>
 “I, the LORD, have called you for a righteous purpose, and I will take hold of your hand. I will keep you and appoint you to be a covenant for the people and a light to the nations,
+<small><sub>**Hebrew:**</sub></small>
+[[H0589\|אֲנִ֧י]] [[H3068G\|יְהוָ֛ה]] [[H7121G\|קְרָאתִ֥י]][[H9031\|ךָֽ]] [[H9003\|בְ]][[H6664G\|צֶ֖דֶק]] [[H9002\|וְ]][[H2388H\|אַחְזֵ֣ק]] [[H9003\|בְּ]][[H3027G\|יָדֶ֑]][[H9021\|ךָ]] [[H9002\|וְ]][[H5341\|אֶצָּרְ]][[H9031\|ךָ֗]] [[H9002\|וְ]][[H5414G\|אֶתֶּנְ]][[H9031\|ךָ֛]] [[H9005\|לִ]][[H1285\|בְרִ֥ית]] [[H5971A\|עָ֖ם]] [[H9005\|לְ]][[H0216\|א֥וֹר]] [[H1471A\|גּוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic CHURCH|CHURCH]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GENTILES|GENTILES]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.5|<< Isaiah 42:5]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.7|Isaiah 42:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

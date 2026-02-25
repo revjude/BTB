@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Promise of God’s Presence
+type: Pericope
 pericope: "[[Exod.33.12 The Promise of God’s Presence|The Promise of God’s Presence]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 33
 book/chapter: "[[Exod.33|Exodus 33]]"
-genre:
+chronological_order: 125
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 12
 verses:
 - "[[Exod.33.12]]"
 - "[[Exod.33.13]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Exod.33.23]]"
 ---
 
-[[Exod.33|Exodus 33:12 - Exodus 33:23]]
+<small>[[Exod.33|Exodus 33:12-23]]</small>
 *The Promise of God’s Presence*
 
 [[Exod.33.12|12]] And Moses said unto the LORD, See, thou sayest unto me, Bring up this people: and thou hast not let me know whom thou wilt send with me. Yet thou hast said, I know thee by name, and thou hast also found grace in my sight.

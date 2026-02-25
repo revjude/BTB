@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 27:4
+type: Verse
+kjv: "Therefore it shall be when ye be gone over Jordan, that ye shall set up these stones, which I command you this day, in mount Ebal, and thou shalt plaister them with plaister."
+bsb: "And when you have crossed the Jordan, you are to set up these stones on Mount Ebal, as I am commanding you today, and you are to coat them with plaster."
+hebrew: "וְהָיָה֮ בְּעָבְרְכֶ֣ם אֶת־ הַיַּרְדֵּן֒ תָּקִ֜ימוּ אֶת־ הָאֲבָנִ֣ים הָאֵ֗לֶּה אֲשֶׁ֨ר אָנֹכִ֜י מְצַוֶּ֥ה אֶתְכֶ֛ם הַיּ֖וֹם בְּהַ֣ר עֵיבָ֑ל וְשַׂדְתָּ֥ אוֹתָ֖ם בַּשִּֽׂיד׃"
+pericope: "[[Deut.27.1 The Altar on Mount Ebal|The Altar on Mount Ebal]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 27
+book/chapter: "[[Deut.27|Deuteronomy 27]]"
+chronological_order: 223
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic CURSE|CURSE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PILLAR|PILLAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H5674A]]"
+- "[[H9046]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H6965I]]"
+- "[[H0068G]]"
+- "[[H0428]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H6680]]"
+- "[[H9036]]"
+- "[[H3117G]]"
+- "[[H2022G]]"
+- "[[H5858C]]"
+- "[[H7874]]"
+- "[[H9038]]"
+- "[[H7875]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 27:4**<big><big>[[Deut.27.1 The Altar on Mount Ebal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore it shall be when ye be gone over Jordan, [that] ye shall set up these stones, which I command you this day, in mount Ebal, and thou shalt plaister them with plaister.
 <small><sub>**BSB:**</sub></small>
 And when you have crossed the Jordan, you are to set up these stones on Mount Ebal, as I am commanding you today, and you are to coat them with plaster.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָה֮]] [[H9003\|בְּ]][[H5674A\|עָבְרְ]][[H9046\|כֶ֣ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּן֒]] [[H6965I\|תָּקִ֜ימוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0068G\|אֲבָנִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֗לֶּה]] [[H0834A\|אֲשֶׁ֨ר]] [[H0595\|אָנֹכִ֜י]] [[H6680\|מְצַוֶּ֥ה]] [[H0853\|אֶתְ]][[H9036\|כֶ֛ם]] [[H9009\|הַ]][[H3117G\|יּ֖וֹם]] [[H9003\|בְּ]][[H2022G\|הַ֣ר]] [[H5858C\|עֵיבָ֑ל]] [[H9001\|וְ]][[H7874\|שַׂדְתָּ֥]] [[H0853\|אוֹתָ֖]][[H9038\|ם]] [[H9003\|בַּ]][[H7875\|שִּֽׂיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic CURSE|CURSE]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic LAW|LAW]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PILLAR|PILLAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.27.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.27.3|<< Deuteronomy 27:3]]</td><td align="center" style="border:none;">[[Deut.27|Deuteronomy 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.27.5|Deuteronomy 27:5 >>]]</td></tr></table>
 

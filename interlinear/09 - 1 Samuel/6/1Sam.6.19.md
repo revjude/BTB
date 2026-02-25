@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 6:19
+type: Verse
+kjv: "And he smote the men of Bethshemesh, because they had looked into the ark of the LORD, even he smote of the people fifty thousand and threescore and ten men: and the people lamented, because the LORD had smitten many of the people with a great slaughter."
+bsb: "But God struck down some of the people of Beth-shemesh because they looked inside the ark of the LORD. He struck down seventy men, and the people mourned because the LORD had struck them with a great slaughter."
+hebrew: "וַיַּ֞ךְ בְּאַנְשֵׁ֣י בֵֽית־ שֶׁ֗מֶשׁ כִּ֤י רָאוּ֙ בַּאֲר֣וֹן יְהוָ֔ה וַיַּ֤ךְ בָּעָם֙ שִׁבְעִ֣ים אִ֔ישׁ חֲמִשִּׁ֥ים אֶ֖לֶף אִ֑ישׁ וַיִּֽתְאַבְּל֣וּ הָעָ֔ם כִּֽי־ הִכָּ֧ה יְהוָ֛ה בָּעָ֖ם מַכָּ֥ה גְדוֹלָֽה"
+pericope: "[[1Sam.6.1 The Ark Returned to Israel|The Ark Returned to Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 6
+book/chapter: "[[1Sam.6|1 Samuel 6]]"
+chronological_order: 285
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CURIOSITY|CURIOSITY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic SACRILEGE|SACRILEGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H9003]]"
+- "[[H0582]]"
+- "[[H1053G]]"
+- "[[H9014]]"
+- "[[H3588A]]"
+- "[[H7200G]]"
+- "[[H0727]]"
+- "[[H3068G]]"
+- "[[H5971A]]"
+- "[[H7657]]"
+- "[[H0376G]]"
+- "[[H2572]]"
+- "[[H0505G]]"
+- "[[H0056]]"
+- "[[H9009]]"
+- "[[H4347]]"
+- "[[H1419A]]"
+texts:
+- L
+- LB(ah)
+---
+
 **1 Samuel 6:19**<big><big>[[1Sam.6.1 The Ark Returned to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he smote the men of Bethshemesh, because they had looked into the ark of the LORD, even he smote of the people fifty thousand and threescore and ten men: and the people lamented, because the LORD had smitten [many] of the people with a great slaughter.
 <small><sub>**BSB:**</sub></small>
 But God struck down some of the people of Beth-shemesh because they looked inside the ark of the LORD. He struck down seventy men, and the people mourned because the LORD had struck them with a great slaughter.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5221\|יַּ֞ךְ]] [[H9003\|בְּ]][[H0582\|אַנְשֵׁ֣י]] [[H1053G\|בֵֽית]][[H9014\|־]] [[H1053G\|שֶׁ֗מֶשׁ]] [[H3588A\|כִּ֤י]] [[H7200G\|רָאוּ֙]] [[H9003\|בַּ]][[H0727\|אֲר֣וֹן]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H5221\|יַּ֤ךְ]] [[H9003\|בָּ]][[H5971A\|עָם֙]] [[H7657\|שִׁבְעִ֣ים]] [[H0376G\|אִ֔ישׁ]] [[H2572\|חֲמִשִּׁ֥ים]] [[H0505G\|אֶ֖לֶף]] [[H0376G\|אִ֑ישׁ]] [[H9001\|וַ]][[H0056\|יִּֽתְאַבְּל֣וּ]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5221\|הִכָּ֧ה]] [[H3068G\|יְהוָ֛ה]] [[H9003\|בָּ]][[H5971A\|עָ֖ם]] [[H4347\|מַכָּ֥ה]] [[H1419A\|גְדוֹלָֽה]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CURIOSITY|CURIOSITY]] • [[topic MIRACLES|MIRACLES]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic SACRILEGE|SACRILEGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.6.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.18|<< 1 Samuel 6:18]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.20|1 Samuel 6:20 >>]]</td></tr></table>
 

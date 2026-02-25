@@ -1,10 +1,64 @@
+---
+title: Luke 4:26
+type: Verse
+kjv: "But unto none of them was Elias sent, save unto Sarepta, a city of Sidon, unto a woman that was a widow."
+bsb: "Yet Elijah was not sent to any of them, but to the widow of Zarephath in Sidon."
+jesus_said: "But unto none of them was Elias sent, save unto Sarepta, a city of Sidon, unto a woman that was a widow."
+greek: "καὶ πρὸς οὐδεμίαν αὐτῶν ἐπέμφθη Ἠλίας εἰ μὴ εἰς Σάρεπτα τῆς Σιδωνίας πρὸς γυναῖκα χήραν."
+pericope: "[[Luke.4.16 The Rejection at Nazareth|The Rejection at Nazareth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 4
+book/chapter: "[[Luke.4|Luke 4]]"
+chronological_order: 938
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NAZARETH|NAZARETH]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic ZAREPHATH|ZAREPHATH]]"
+strongs:
+- "[[G2532]]"
+- "[[G4314]]"
+- "[[G3762]]"
+- "[[G0846]]"
+- "[[G3992]]"
+- "[[G2243]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G1519]]"
+- "[[G4558]]"
+- "[[G3588]]"
+- "[[G4606]]"
+- "[[G1135G]]"
+- "[[G5503]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 4:26**<big><big>[[Luke.4.16 The Rejection at Nazareth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But unto none of them was Elias sent, save unto Sarepta, [a city] of Sidon, unto a woman [that was] a widow.
 <small><sub>**BSB:**</sub></small>
 Yet Elijah was not sent to any of them, but to the widow of Zarephath in Sidon.
-<small><sub>**Literal:**</sub></small>
-and to none of them was sent Elijah only except to Zarephath <the> of Sidon to a woman a widow.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.25|<< Luke 4:25]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.27|Luke 4:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4314\|πρὸς]]  [[G3762\|οὐδεμίαν]]  [[G0846\|αὐτῶν]]  [[G3992\|ἐπέμφθη]]  [[G2243\|Ἠλίας]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G1519\|εἰς]]  [[G4558\|Σάρεπτα]]  [[G3588\|τῆς]]  [[G4606\|Σιδωνίας]]  [[G4314\|πρὸς]]  [[G1135G\|γυναῖκα]]  [[G5503\|χήραν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic NAZARETH|NAZARETH]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic PROPHETS|PROPHETS]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic ZAREPHATH|ZAREPHATH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.25|<< Luke 4:25]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.27|Luke 4:27 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 4:26** is...
 > $\quad$ alluding to: [[LXX.1Kgs.17.1|1Kgs 17:1]] ☩ [[LXX.1Kgs.17.9|1Kgs 17:9]] ☩ [[LXX.1Kgs.18.1|1Kgs 18:1-2]]

@@ -1,8 +1,51 @@
+---
+title: Psalm 118:25
+type: Verse
+kjv: "Save now, I beseech thee, O LORD: O LORD, I beseech thee, send now prosperity."
+bsb: "O LORD, save us, we pray. We beseech You, O LORD, cause us to prosper!"
+hebrew: "אָנָּ֣א יְ֭הוָה הוֹשִׁ֘יעָ֥ה נָּ֑א אָֽנָּ֥א יְ֝הוָ֗ה הַצְלִ֘יחָ֥ה נָּֽא׃"
+pericope: "[[Ps.118.1 The LORD Is on My Side|The LORD Is on My Side]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 118
+book/chapter: "[[Ps.118|Psalm 118]]"
+chronological_order: 880
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H0577]]"
+- "[[H3068G]]"
+- "[[H3467]]"
+- "[[H9012]]"
+- "[[H4994]]"
+- "[[H6743B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 118:25**<big><big>[[Ps.118.1 The LORD Is on My Side|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Save now, I beseech thee, O LORD: O LORD, I beseech thee, send now prosperity.
 <small><sub>**BSB:**</sub></small>
 O LORD, save us, we pray. We beseech You, O LORD, cause us to prosper!
+<small><sub>**Hebrew:**</sub></small>
+[[H0577\|אָנָּ֣א]] [[H3068G\|יְ֭הוָה]] [[H3467\|הוֹשִׁ֘יעָ֥]][[H9012\|ה]] [[H4994\|נָּ֑א]] [[H0577\|אָֽנָּ֥א]] [[H3068G\|יְ֝הוָ֗ה]] [[H6743B\|הַצְלִ֘יחָ֥]][[H9012\|ה]] [[H4994\|נָּֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.118.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.24|<< Psalms 118:24]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.26|Psalms 118:26 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

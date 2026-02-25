@@ -1,10 +1,69 @@
+---
+title: Revelation 22:5
+type: Verse
+kjv: "And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever."
+bsb: "There will be no more night in the city, and they will have no need for the light of a lamp or of the sun. For the Lord God will shine on them, and they will reign forever and ever."
+greek: "καὶ νὺξ οὐκ ἔσται ἔτι, καὶ οὐκ ἔχουσιν χρείαν φωτὸς λύχνου καὶ φωτὸς ἡλίου ὅτι κύριος ὁ θεὸς φωτίσει ἐπ᾽ αὐτούς. καὶ βασιλεύσουσιν εἰς τοὺς αἰῶνας τῶν αἰώνων.¶"
+pericope: "[[Rev.22.1 The River of Life|The River of Life]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 22
+book/chapter: "[[Rev.22|Revelation 22]]"
+chronological_order: 1189
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic NIGHT|NIGHT]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3571]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G2089]]"
+- "[[G2192]]"
+- "[[G5532]]"
+- "[[G5457]]"
+- "[[G3088]]"
+- "[[G2246]]"
+- "[[G3754H]]"
+- "[[G2962G]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G5461]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G0936]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+texts:
+- NKO
+- N(k)O
+- no
+- NK(o)
+---
+
 **Revelation 22:5**<big><big>[[Rev.22.1 The River of Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever.
 <small><sub>**BSB:**</sub></small>
 There will be no more night in the city, and they will have no need for the light of a lamp or of the sun. For the Lord God will shine on them, and they will reign forever and ever.
-<small><sub>**Literal:**</sub></small>
-And night not there will be still, and not they have need of [the] light of a lamp and of [the] light of [the] sun because [the] Lord <the> God will enlighten upon them. and they will reign to the ages of the ages.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.4|<< Revelation 22:4]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.6|Revelation 22:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3571\|νὺξ]]  [[G3756\|οὐκ]]  [[G1510\|ἔσται]]  [[G2089\|ἔτι,]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G2192\|ἔχουσιν]]  [[G5532\|χρείαν]]  [[G5457\|φωτὸς]]  [[G3088\|λύχνου]]  [[G2532\|καὶ]]  [[G5457\|φωτὸς]]  [[G2246\|ἡλίου]]  [[G3754H\|ὅτι]]  [[G2962G\|κύριος]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G5461\|φωτίσει]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτούς.]]  [[G2532\|καὶ]]  [[G0936\|βασιλεύσουσιν]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G0165H\|αἰῶνας]]  [[G3588\|τῶν]]  [[G0165H\|αἰώνων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic HEAVEN|HEAVEN]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic NIGHT|NIGHT]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.4|<< Revelation 22:4]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.6|Revelation 22:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 22:5** is...
 > $\quad$ alluding to: [[LXX.Isa.24.23|Isa 24:23]] ☩ [[LXX.Isa.60.19|Isa 60:19]] ☩ [[LXX.Ezek.48.35|Ezek 48:35]]

@@ -1,10 +1,58 @@
+---
+title: Romans 13:14
+type: Verse
+kjv: "But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof."
+bsb: "Instead, clothe yourselves with the Lord Jesus Christ, and make no provision for the desires of the flesh."
+greek: "ἀλλ᾽ ἐνδύσασθε τὸν κύριον Ἰησοῦν Χριστὸν καὶ τῆς σαρκὸς πρόνοιαν μὴ ποιεῖσθε εἰς ἐπιθυμίας.¶"
+pericope: "[[Rom.13.11 The Day Is Near|The Day Is Near]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 13
+book/chapter: "[[Rom.13|Romans 13]]"
+chronological_order: 1099
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic AFFECTIONS|AFFECTIONS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GLUTTONY|GLUTTONY]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic TEMPERANCE|TEMPERANCE]]"
+strongs:
+- "[[G0235]]"
+- "[[G1746]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G2532]]"
+- "[[G4561]]"
+- "[[G4307]]"
+- "[[G3361]]"
+- "[[G4160G]]"
+- "[[G1519]]"
+- "[[G1939]]"
+texts:
+- NKO
+---
+
 **Romans 13:14**<big><big>[[Rom.13.11 The Day Is Near|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But put ye on the Lord Jesus Christ, and make not provision for the flesh, to [fulfil] the lusts [thereof].
 <small><sub>**BSB:**</sub></small>
 Instead, clothe yourselves with the Lord Jesus Christ, and make no provision for the desires of the flesh.
-<small><sub>**Literal:**</sub></small>
-But do put on the Lord Jesus Christ and of the flesh provision not do make for desires.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.13|<< Romans 13:13]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.1|Romans 14:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G1746\|ἐνδύσασθε]]  [[G3588\|τὸν]]  [[G2962G\|κύριον]]  [[G2424G\|Ἰησοῦν]]  [[G5547\|Χριστὸν]]  [[G2532\|καὶ]]  [[G3588\|τῆς]]  [[G4561\|σαρκὸς]]  [[G4307\|πρόνοιαν]]  [[G3361\|μὴ]]  [[G4160G\|ποιεῖσθε]]  [[G1519\|εἰς]]  [[G1939\|ἐπιθυμίας.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFECTIONS|AFFECTIONS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GLUTTONY|GLUTTONY]] • [[topic HOLINESS|HOLINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic TEMPERANCE|TEMPERANCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.13|<< Romans 13:13]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.1|Romans 14:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

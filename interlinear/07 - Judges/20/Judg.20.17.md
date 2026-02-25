@@ -1,8 +1,54 @@
+---
+title: Judges 20:17
+type: Verse
+kjv: "And the men of Israel, beside Benjamin, were numbered four hundred thousand men that drew sword: all these were men of war."
+bsb: "The Israelites, apart from Benjamin, mobilized 400,000 swordsmen, each one an experienced warrior."
+hebrew: "וְאִ֨ישׁ יִשְׂרָאֵ֜ל הִתְפָּֽקְד֗וּ לְבַד֙ מִבִּנְיָמִ֔ן אַרְבַּ֨ע מֵא֥וֹת אֶ֛לֶף אִ֖ישׁ שֹׁ֣לֵֽף חָ֑רֶב כָּל־ זֶ֖ה אִ֥ישׁ מִלְחָמָֽה׃"
+pericope: "[[Judg.20.1 The Decree of the Assembly|The Decree of the Assembly]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+strongs:
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H3478]]"
+- "[[H6485A]]"
+- "[[H9005]]"
+- "[[H0905J]]"
+- "[[H9006]]"
+- "[[H1144G]]"
+- "[[H0702]]"
+- "[[H3967]]"
+- "[[H0505G]]"
+- "[[H8025]]"
+- "[[H2719]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2088]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:17**<big><big>[[Judg.20.1 The Decree of the Assembly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men of Israel, beside Benjamin, were numbered four hundred thousand men that drew sword: all these [were] men of war.
 <small><sub>**BSB:**</sub></small>
 The Israelites, apart from Benjamin, mobilized 400,000 swordsmen, each one an experienced warrior.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376G\|אִ֨ישׁ]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H6485A\|הִתְפָּֽקְד֗וּ]] [[H9005\|לְ]][[H0905J\|בַד֙]] [[H9006\|מִ]][[H1144G\|בִּנְיָמִ֔ן]] [[H0702\|אַרְבַּ֨ע]] [[H3967\|מֵא֥וֹת]] [[H0505G\|אֶ֛לֶף]] [[H0376G\|אִ֖ישׁ]] [[H8025\|שֹׁ֣לֵֽף]] [[H2719\|חָ֑רֶב]] [[H3605\|כָּל]][[H9014\|־]] [[H2088\|זֶ֖ה]] [[H0376G\|אִ֥ישׁ]] [[H4421\|מִלְחָמָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.16|<< Judges 20:16]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.18|Judges 20:18 >>]]</td></tr></table>
 

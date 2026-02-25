@@ -1,10 +1,54 @@
+---
+title: Mark 3:34
+type: Verse
+kjv: "And he looked round about on them which sat about him, and said, Behold my mother and my brethren!"
+bsb: "Looking at those seated in a circle around Him, He said, “Here are My mother and My brothers!"
+jesus_said: "Behold my mother and my brethren!"
+greek: "καὶ περιβλεψάμενος τοὺς περὶ αὐτὸν κύκλῳ καθημένους λέγει· ἴδε ἡ μήτηρ μου καὶ οἱ ἀδελφοί μου."
+pericope: "[[Mark.3.31 Jesus’ Mother and Brothers|Jesus’ Mother and Brothers]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 3
+book/chapter: "[[Mark.3|Mark 3]]"
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G4017]]"
+- "[[G3588]]"
+- "[[G4012]]"
+- "[[G0846]]"
+- "[[G2945]]"
+- "[[G2521]]"
+- "[[G3004G]]"
+- "[[G2396]]"
+- "[[G3384]]"
+- "[[G3165]]"
+- "[[G0080]]"
+texts:
+- NKO
+---
+
 **Mark 3:34**<big><big>[[Mark.3.31 Jesus’ Mother and Brothers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he looked round about on them which sat about him, and said, Behold my mother and my brethren!
 <small><sub>**BSB:**</sub></small>
 Looking at those seated in a circle around Him, He said, “Here are My mother and My brothers!
-<small><sub>**Literal:**</sub></small>
-And having looked around on those who around Him surrounding were sitting He says; Behold the mother of Mine and the brothers of Mine!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.33|<< Mark 3:33]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.35|Mark 3:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4017\|περιβλεψάμενος]]  [[G3588\|τοὺς]]  [[G4012\|περὶ]]  [[G0846\|αὐτὸν]]  [[G2945\|κύκλῳ]]  [[G2521\|καθημένους]]  [[G3004G\|λέγει·]]  [[G2396\|ἴδε]]  [[G3588\|ἡ]]  [[G3384\|μήτηρ]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0080\|ἀδελφοί]]  [[G3165\|μου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.33|<< Mark 3:33]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.35|Mark 3:35 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 3:34** is...
 > $\quad$ alluding to: [[LXX.Ezek.33.30|Ezek 33:30-33]]

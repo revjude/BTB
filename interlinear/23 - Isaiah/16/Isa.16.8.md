@@ -1,8 +1,65 @@
+---
+title: Isaiah 16:8
+type: Verse
+kjv: "For the fields of Heshbon languish, and the vine of Sibmah: the lords of the heathen have broken down the principal plants thereof, they are come even unto Jazer, they wandered through the wilderness: her branches are stretched out, they are gone over the sea."
+bsb: "For the fields of Heshbon have withered, along with the grapevines of Sibmah. The rulers of the nations have trampled its choicest vines, which had reached as far as Jazer and spread toward the desert. Their shoots had spread out and passed over the sea."
+hebrew: "כִּ֣י שַׁדְמוֹת֩ חֶשְׁבּ֨וֹן אֻמְלָ֜ל גֶּ֣פֶן שִׂבְמָ֗ה בַּעֲלֵ֤י גוֹיִם֙ הָלְמ֣וּ שְׂרוּקֶּ֔יהָ עַד־ יַעְזֵ֥ר נָגָ֖עוּ תָּ֣עוּ מִדְבָּ֑ר שְׁלֻ֣חוֹתֶ֔יהָ נִטְּשׁ֖וּ עָ֥בְרוּ יָֽם׃"
+pericope: "[[Isa.16.1 Moab’s Destruction|Moab’s Destruction]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 16
+book/chapter: "[[Isa.16|Isaiah 16]]"
+chronological_order: 633
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic HESHBON|HESHBON]]"
+- "[[topic SIBMAH|SIBMAH]]"
+strongs:
+- "[[H3588A]]"
+- "[[H7709]]"
+- "[[H2809]]"
+- "[[H0535]]"
+- "[[H1612]]"
+- "[[H7643H]]"
+- "[[H1167G]]"
+- "[[H1471A]]"
+- "[[H1986]]"
+- "[[H8291]]"
+- "[[H9024]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H3270G]]"
+- "[[H5060]]"
+- "[[H8582]]"
+- "[[H4057B]]"
+- "[[H7976]]"
+- "[[H5203]]"
+- "[[H5674A]]"
+- "[[H3220G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 16:8**<big><big>[[Isa.16.1 Moab’s Destruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the fields of Heshbon languish, [and] the vine of Sibmah: the lords of the heathen have broken down the principal plants thereof, they are come [even] unto Jazer, they wandered [through] the wilderness: her branches are stretched out, they are gone over the sea.
 <small><sub>**BSB:**</sub></small>
 For the fields of Heshbon have withered, along with the grapevines of Sibmah. The rulers of the nations have trampled its choicest vines, which had reached as far as Jazer and spread toward the desert. Their shoots had spread out and passed over the sea.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H7709\|שַׁדְמוֹת֩]] [[H2809\|חֶשְׁבּ֨וֹן]] [[H0535\|אֻמְלָ֜ל]] [[H1612\|גֶּ֣פֶן]] [[H7643H\|שִׂבְמָ֗ה]] [[H1167G\|בַּעֲלֵ֤י]] [[H1471A\|גוֹיִם֙]] [[H1986\|הָלְמ֣וּ]] [[H8291\|שְׂרוּקֶּ֔י]][[H9024\|הָ]] [[H5704\|עַד]][[H9014\|־]] [[H3270G\|יַעְזֵ֥ר]] [[H5060\|נָגָ֖עוּ]] [[H8582\|תָּ֣עוּ]] [[H4057B\|מִדְבָּ֑ר]] [[H7976\|שְׁלֻ֣חוֹתֶ֔י]][[H9024\|הָ]] [[H5203\|נִטְּשׁ֖וּ]] [[H5674A\|עָ֥בְרוּ]] [[H3220G\|יָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GRAPE|GRAPE]] • [[topic HESHBON|HESHBON]] • [[topic SIBMAH|SIBMAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.16.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.7|<< Isaiah 16:7]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.9|Isaiah 16:9 >>]]</td></tr></table>
 

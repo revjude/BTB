@@ -1,8 +1,72 @@
+---
+title: Exodus 20:4
+type: Verse
+kjv: "Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth:"
+bsb: "You shall not make for yourself an idol in the form of anything in the heavens above, on the earth below, or in the waters beneath."
+hebrew: "לֹֽ֣א תַֽעֲשֶׂ֨ה־ לְךָ֥֣ פֶ֣֙סֶל֙׀ וְכָל־ תְּמוּנָ֡֔ה אֲשֶׁ֤ר֣ בַּשָּׁמַ֙יִם֙׀ מִמַּ֡֔עַל וַֽאֲשֶׁ֥ר֩ בָּאָ֖֨רֶץ מִתַָּ֑֜חַת וַאֲשֶׁ֥֣ר בַּמַּ֖֣יִם׀ מִתַּ֥֣חַת לָאָֽ֗רֶץ׃"
+pericope: "[[Exod.20.1 The Ten Commandments|The Ten Commandments]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 20
+book/chapter: "[[Exod.20|Exodus 20]]"
+chronological_order: 112
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic IDOL|IDOL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic TABLE|TABLE]]"
+strongs:
+- "[[H3808]]"
+- "[[H6213H]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H6459]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H8544]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H8064]]"
+- "[[H9006]]"
+- "[[H4605]]"
+- "[[H0776G]]"
+- "[[H8478G]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+- L(p)
+- L(b+p)
+---
+
 **Exodus 20:4**<big><big>[[Exod.20.1 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not make unto thee any graven image, or any likeness [of any thing] that [is] in heaven above, or that [is] in the earth beneath, or that [is] in the water under the earth:
 <small><sub>**BSB:**</sub></small>
 You shall not make for yourself an idol in the form of anything in the heavens above, on the earth below, or in the waters beneath.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽ֣א]] [[H6213H\|תַֽעֲשֶׂ֨ה]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֥֣]] [[H6459\|פֶ֣֙סֶל֙]][[H9015\|׀]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H8544\|תְּמוּנָ֡֔ה]] [[H0834A\|אֲשֶׁ֤ר֣]] [[H9003\|בַּ]][[H8064\|שָּׁמַ֙יִם֙]][[H9015\|׀]] [[H9006\|מִ]][[H4605\|מַּ֡֔עַל]] [[H9002\|וַֽ]][[H0834A\|אֲשֶׁ֥ר֩]] [[H9003\|בָּ]][[H0776G\|אָ֖֨רֶץ]] [[H9006\|מִ]][[H8478G\|תַָּ֑֜חַת]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֥֣ר]] [[H9003\|בַּ]][[H4325G\|מַּ֖֣יִם]][[H9015\|׀]] [[H9006\|מִ]][[H8478G\|תַּ֥֣חַת]] [[H9005\|לָ]][[H0776G\|אָֽ֗רֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECALOGUE|DECALOGUE]] • [[topic IDOL|IDOL]] • [[topic IDOLATRY|IDOLATRY]] • [[topic LAW|LAW]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic TABLE|TABLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.20.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.3|<< Exodus 20:3]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.5|Exodus 20:5 >>]]</td></tr></table>
 

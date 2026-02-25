@@ -1,8 +1,70 @@
+---
+title: Numbers 20:16
+type: Verse
+kjv: "And when we cried unto the LORD, he heard our voice, and sent an angel, and hath brought us forth out of Egypt: and, behold, we are in Kadesh, a city in the uttermost of thy border:"
+bsb: "and when we cried out to the LORD, He heard our voice, sent an angel, and brought us out of Egypt. Now look, we are in Kadesh, a city on the edge of your territory."
+hebrew: "וַנִּצְעַ֤ק אֶל־ יְהוָה֙ וַיִּשְׁמַ֣ע קֹלֵ֔נוּ וַיִּשְׁלַ֣ח מַלְאָ֔ךְ וַיֹּצִאֵ֖נוּ מִמִּצְרָ֑יִם וְהִנֵּה֙ אֲנַ֣חְנוּ בְקָדֵ֔שׁ עִ֖יר קְצֵ֥ה גְבוּלֶֽךָ׃"
+pericope: "[[Num.20.14 Edom Refuses Passage|Edom Refuses Passage]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 20
+book/chapter: "[[Num.20|Numbers 20]]"
+chronological_order: 180
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H6817]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H8085G]]"
+- "[[H6963A]]"
+- "[[H9025]]"
+- "[[H7971G]]"
+- "[[H4397H]]"
+- "[[H3318H]]"
+- "[[H9035]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0587]]"
+- "[[H9003]]"
+- "[[H6946G]]"
+- "[[H5892B]]"
+- "[[H7097A]]"
+- "[[H1366H]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 20:16**<big><big>[[Num.20.14 Edom Refuses Passage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when we cried unto the LORD, he heard our voice, and sent an angel, and hath brought us forth out of Egypt: and, behold, we [are] in Kadesh, a city in the uttermost of thy border:
 <small><sub>**BSB:**</sub></small>
 and when we cried out to the LORD, He heard our voice, sent an angel, and brought us out of Egypt. Now look, we are in Kadesh, a city on the edge of your territory.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6817\|נִּצְעַ֤ק]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H9001\|וַ]][[H8085G\|יִּשְׁמַ֣ע]] [[H6963A\|קֹלֵ֔]][[H9025\|נוּ]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֣ח]] [[H4397H\|מַלְאָ֔ךְ]] [[H9001\|וַ]][[H3318H\|יֹּצִאֵ֖]][[H9035\|נוּ]] [[H9006\|מִ]][[H4714G\|מִּצְרָ֑יִם]] [[H9002\|וְ]][[H2009\|הִנֵּה֙]] [[H0587\|אֲנַ֣חְנוּ]] [[H9003\|בְ]][[H6946G\|קָדֵ֔שׁ]] [[H5892B\|עִ֖יר]] [[H7097A\|קְצֵ֥ה]] [[H1366H\|גְבוּלֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.20.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20.15|<< Numbers 20:15]]</td><td align="center" style="border:none;">[[Num.20|Numbers 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20.17|Numbers 20:17 >>]]</td></tr></table>
 

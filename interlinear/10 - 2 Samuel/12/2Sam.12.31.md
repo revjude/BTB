@@ -1,8 +1,82 @@
+---
+title: 2 Samuel 12:31
+type: Verse
+kjv: "And he brought forth the people that were therein, and put them under saws, and under harrows of iron, and under axes of iron, and made them pass through the brickkiln: and thus did he unto all the cities of the children of Ammon. So David and all the people returned unto Jerusalem."
+bsb: "David brought out the people who were there and put them to work with saws, iron picks, and axes, and he made them work at the brick kilns. He did the same to all the Ammonite cities. Then David and all his troops returned to Jerusalem."
+hebrew: "וְאֶת־ הָעָ֨ם אֲשֶׁר־ בָּ֜הּ הוֹצִ֗יא וַיָּ֣שֶׂם בַּ֠מְּגֵרָה וּבַחֲרִצֵ֨י הַבַּרְזֶ֜ל וּֽבְמַגְזְרֹ֣ת הַבַּרְזֶ֗ל וְהֶעֱבִ֤יר אוֹתָם֙ בַּמַּלְבֵּ֔ן וְכֵ֣ן יַעֲשֶׂ֔ה לְכֹ֖ל עָרֵ֣י בְנֵֽי־ עַמּ֑וֹן וַיָּ֧שָׁב דָּוִ֛ד וְכָל־ הָעָ֖ם יְרוּשָׁלִָֽם׃ פ"
+pericope: "[[2Sam.12.26 The Capture of Rabbah|The Capture of Rabbah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 12
+book/chapter: "[[2Sam.12|2 Samuel 12]]"
+chronological_order: 411
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic AX|AX]]"
+- "[[topic BRICK|BRICK]]"
+- "[[topic BRICK-KILN|BRICK-KILN]]"
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic HARROW|HARROW]]"
+- "[[topic IRON|IRON]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic RABBAH|RABBAH]]"
+- "[[topic SAW|SAW]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H3318H]]"
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H4050]]"
+- "[[H2757]]"
+- "[[H1270]]"
+- "[[H4037]]"
+- "[[H5674A]]"
+- "[[H9038]]"
+- "[[H4404]]"
+- "[[H3651C]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H5892B]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H7725G]]"
+- "[[H1732]]"
+- "[[H3389]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Samuel 12:31**<big><big>[[2Sam.12.26 The Capture of Rabbah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought forth the people that [were] therein, and put [them] under saws, and under harrows of iron, and under axes of iron, and made them pass through the brickkiln: and thus did he unto all the cities of the children of Ammon. So David and all the people returned unto Jerusalem.
 <small><sub>**BSB:**</sub></small>
 David brought out the people who were there and put them to work with saws, iron picks, and axes, and he made them work at the brick kilns. He did the same to all the Ammonite cities. Then David and all his troops returned to Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֨ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בָּ֜]][[H9034\|הּ]] [[H3318H\|הוֹצִ֗יא]] [[H9001\|וַ]][[H7760A\|יָּ֣שֶׂם]] [[H9003\|בַּ֠]][[H4050\|מְּגֵרָה]] [[H9002\|וּ]][[H9003\|בַ]][[H2757\|חֲרִצֵ֨י]] [[H9009\|הַ]][[H1270\|בַּרְזֶ֜ל]] [[H9002\|וּֽ]][[H9003\|בְ]][[H4037\|מַגְזְרֹ֣ת]] [[H9009\|הַ]][[H1270\|בַּרְזֶ֗ל]] [[H9001\|וְ]][[H5674A\|הֶעֱבִ֤יר]] [[H0853\|אוֹתָ]][[H9038\|ם֙]] [[H9003\|בַּ]][[H4404\|מַּלְבֵּ֔ן]] [[H9002\|וְ]][[H3651C\|כֵ֣ן]] [[H6213A\|יַעֲשֶׂ֔ה]] [[H9005\|לְ]][[H3605\|כֹ֖ל]] [[H5892B\|עָרֵ֣י]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H5983\|עַמּ֑וֹן]] [[H9001\|וַ]][[H7725G\|יָּ֧שָׁב]] [[H1732\|דָּוִ֛ד]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic AX|AX]] • [[topic BRICK|BRICK]] • [[topic BRICK-KILN|BRICK-KILN]] • [[topic CAPTIVE|CAPTIVE]] • [[topic DAVID|DAVID]] • [[topic HARROW|HARROW]] • [[topic IRON|IRON]] • [[topic PRISONERS|PRISONERS]] • [[topic RABBAH|RABBAH]] • [[topic SAW|SAW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.12.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.12.30|<< 2 Samuel 12:30]]</td><td align="center" style="border:none;">[[2Sam.12|2 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.1|2 Samuel 13:1 >>]]</td></tr></table>
 
@@ -32,10 +106,10 @@ David brought out the people who were there and put them to work with saws, iron
 | David  |**<big>&#8207;[[H1732\|דָּוִ֛ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֖ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.12.30|<< 2 Samuel 12:30]]</td><td align="center" style="border:none;">[[2Sam.12|2 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.1|2 Samuel 13:1 >>]]</td></tr></table>
 
-[^1]: in the brick mold[s]  | **<big>[[H4404|מַּלְכֶּן]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> mal.ken<small><sup>[[HNcbsa]]</sup></small> | K
-[^2]: in the brick mold[s]  | **<big>[[H4404|מַּלְכֶּן]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> mal.ken<small><sup>[[HNcbsa]]</sup></small> | K
+[^1]: in the brick mold[s]  | **<big>[[H9003|בַּ]]</big><big>[[H4404|מַּלְכֶּן]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> mal.ken<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: in the brick mold[s]  | **<big>[[H9003|בַּ]]</big><big>[[H4404|מַּלְכֶּן]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> mal.ken<small><sup>[[HNcbsa]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>בַּמַּלְכֵּ֔ן</big></span>**
 

@@ -1,8 +1,66 @@
+---
+title: Judges 14:13
+type: Verse
+kjv: "But if ye cannot declare it me, then shall ye give me thirty sheets and thirty change of garments. And they said unto him, Put forth thy riddle, that we may hear it."
+bsb: "But if you cannot solve it, you must give me thirty linen garments and thirty sets of clothes.” “Tell us your riddle,” they replied. “Let us hear it.”"
+hebrew: "וְאִם־ לֹ֣א תוּכְלוּ֮ לְהַגִּ֣יד לִי֒ וּנְתַתֶּ֨ם אַתֶּ֥ם לִי֙ שְׁלֹשִׁ֣ים סְדִינִ֔ים וּשְׁלֹשִׁ֖ים חֲלִיפ֣וֹת בְּגָדִ֑ים וַיֹּ֣אמְרוּ ל֔וֹ ח֥וּדָה חִידָתְךָ֖ וְנִשְׁמָעֶֽנָּה׃"
+pericope: "[[Judg.14.8 Samson’s Riddle|Samson’s Riddle]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 14
+book/chapter: "[[Judg.14|Judges 14]]"
+chronological_order: 268
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BETTING|BETTING]]"
+- "[[topic RIDDLE|RIDDLE]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H5046]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H0859D]]"
+- "[[H7970]]"
+- "[[H5466]]"
+- "[[H2487]]"
+- "[[H0899B]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H2330]]"
+- "[[H9012]]"
+- "[[H2420]]"
+- "[[H9021]]"
+- "[[H8085G]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 14:13**<big><big>[[Judg.14.8 Samson’s Riddle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if ye cannot declare [it] me, then shall ye give me thirty sheets and thirty change of garments. And they said unto him, Put forth thy riddle, that we may hear it.
 <small><sub>**BSB:**</sub></small>
 But if you cannot solve it, you must give me thirty linen garments and thirty sets of clothes.” “Tell us your riddle,” they replied. “Let us hear it.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֣א]] [[H3201\|תוּכְלוּ֮]] [[H9005\|לְ]][[H5046\|הַגִּ֣יד]] [[H9005\|לִ]][[H9030\|י֒]] [[H9001\|וּ]][[H5414G\|נְתַתֶּ֨ם]] [[H0859D\|אַתֶּ֥ם]] [[H9005\|לִ]][[H9030\|י֙]] [[H7970\|שְׁלֹשִׁ֣ים]] [[H5466\|סְדִינִ֔ים]] [[H9002\|וּ]][[H7970\|שְׁלֹשִׁ֖ים]] [[H2487\|חֲלִיפ֣וֹת]] [[H0899B\|בְּגָדִ֑ים]] [[H9001\|וַ]][[H0559\|יֹּ֣אמְרוּ]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H2330\|ח֥וּדָ]][[H9012\|ה]] [[H2420\|חִידָתְ]][[H9021\|ךָ֖]] [[H9002\|וְ]][[H8085G\|נִשְׁמָעֶֽ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETTING|BETTING]] • [[topic RIDDLE|RIDDLE]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.14.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.14.12|<< Judges 14:12]]</td><td align="center" style="border:none;">[[Judg.14|Judges 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.14.14|Judges 14:14 >>]]</td></tr></table>
 

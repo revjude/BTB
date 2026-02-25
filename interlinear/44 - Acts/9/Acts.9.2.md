@@ -1,10 +1,68 @@
+---
+title: Acts 9:2
+type: Verse
+kjv: "And desired of him letters to Damascus to the synagogues, that if he found any of this way, whether they were men or women, he might bring them bound unto Jerusalem."
+bsb: "and requested letters to the synagogues in Damascus, so that if he found any men or women belonging to the Way, he could bring them as prisoners to Jerusalem."
+greek: "ᾐτήσατο παρ᾽ αὐτοῦ ἐπιστολὰς εἰς Δαμασκὸν πρὸς τὰς συναγωγάς, ὅπως ἐάν τινας εὕρῃ τῆς ὁδοῦ ὄντας ἄνδρας τε καὶ γυναῖκας, δεδεμένους ἀγάγῃ εἰς Ἰερουσαλήμ."
+pericope: "[[Acts.9.1 The Road to Damascus|The Road to Damascus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 9
+book/chapter: "[[Acts.9|Acts 9]]"
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ARREST|ARREST]]"
+- "[[topic EXTRADITION|EXTRADITION]]"
+- "[[topic HEART|HEART]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic SYRIA|SYRIA]]"
+- "[[topic WAY|WAY]]"
+strongs:
+- "[[G0154]]"
+- "[[G3844]]"
+- "[[G0846]]"
+- "[[G1992]]"
+- "[[G1519]]"
+- "[[G1154]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G4864]]"
+- "[[G3704]]"
+- "[[G1437]]"
+- "[[G5100]]"
+- "[[G2147]]"
+- "[[G3598]]"
+- "[[G1510]]"
+- "[[G0435G]]"
+- "[[G5037]]"
+- "[[G2532]]"
+- "[[G1135G]]"
+- "[[G1210]]"
+- "[[G0071]]"
+- "[[G2419]]"
+texts:
+- NKO
+---
+
 **Acts 9:2**<big><big>[[Acts.9.1 The Road to Damascus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And desired of him letters to Damascus to the synagogues, that if he found any of this way, whether they were men or women, he might bring them bound unto Jerusalem.
 <small><sub>**BSB:**</sub></small>
 and requested letters to the synagogues in Damascus, so that if he found any men or women belonging to the Way, he could bring them as prisoners to Jerusalem.
-<small><sub>**Literal:**</sub></small>
-requested from him letters in Damascus to the synagogues, so that if any he shall find of the way being men both and women, bound he may bring [them] to Jerusalem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.1|<< Acts 9:1]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.3|Acts 9:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0154\|ᾐτήσατο]]  [[G3844\|παρ᾽]]  [[G0846\|αὐτοῦ]]  [[G1992\|ἐπιστολὰς]]  [[G1519\|εἰς]]  [[G1154\|Δαμασκὸν]]  [[G4314\|πρὸς]]  [[G3588\|τὰς]]  [[G4864\|συναγωγάς,]]  [[G3704\|ὅπως]]  [[G1437\|ἐάν]]  [[G5100\|τινας]]  [[G2147\|εὕρῃ]]  [[G3588\|τῆς]]  [[G3598\|ὁδοῦ]]  [[G1510\|ὄντας]]  [[G0435G\|ἄνδρας]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G1135G\|γυναῖκας,]]  [[G1210\|δεδεμένους]]  [[G0071\|ἀγάγῃ]]  [[G1519\|εἰς]]  [[G2419\|Ἰερουσαλήμ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARREST|ARREST]] • [[topic EXTRADITION|EXTRADITION]] • [[topic HEART|HEART]] • [[topic PAUL|PAUL]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic SYRIA|SYRIA]] • [[topic WAY|WAY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.1|<< Acts 9:1]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.3|Acts 9:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

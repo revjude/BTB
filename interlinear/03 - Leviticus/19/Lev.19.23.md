@@ -1,8 +1,72 @@
+---
+title: Leviticus 19:23
+type: Verse
+kjv: "And when ye shall come into the land, and shall have planted all manner of trees for food, then ye shall count the fruit thereof as uncircumcised: three years shall it be as uncircumcised unto you: it shall not be eaten of."
+bsb: "When you enter the land and plant any kind of tree for food, you shall regard the fruit as forbidden. For three years it will be forbidden to you and must not be eaten."
+hebrew: "וְכִי־ תָבֹ֣אוּ אֶל־ הָאָ֗רֶץ וּנְטַעְתֶּם֙ כָּל־ עֵ֣ץ מַאֲכָ֔ל וַעֲרַלְתֶּ֥ם עָרְלָת֖וֹ אֶת־ פִּרְי֑וֹ שָׁלֹ֣שׁ שָׁנִ֗ים יִהְיֶ֥ה לָכֶ֛ם עֲרֵלִ֖ים לֹ֥א יֵאָכֵֽל׃"
+pericope: "[[Lev.19.19 Keep My Statutes|Keep My Statutes]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 19
+book/chapter: "[[Lev.19|Leviticus 19]]"
+chronological_order: 151
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic HORTICULTURE|HORTICULTURE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9001]]"
+- "[[H5193]]"
+- "[[H3605]]"
+- "[[H6086H]]"
+- "[[H3978]]"
+- "[[H6188]]"
+- "[[H6190H]]"
+- "[[H9023]]"
+- "[[H0853]]"
+- "[[H6529]]"
+- "[[H7969]]"
+- "[[H8141]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H6189]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 19:23**<big><big>[[Lev.19.19 Keep My Statutes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when ye shall come into the land, and shall have planted all manner of trees for food, then ye shall count the fruit thereof as uncircumcised: three years shall it be as uncircumcised unto you: it shall not be eaten of.
 <small><sub>**BSB:**</sub></small>
 When you enter the land and plant any kind of tree for food, you shall regard the fruit as forbidden. For three years it will be forbidden to you and must not be eaten.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִי]][[H9014\|־]] [[H0935G\|תָבֹ֣אוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֗רֶץ]] [[H9001\|וּ]][[H5193\|נְטַעְתֶּם֙]] [[H3605\|כָּל]][[H9014\|־]] [[H6086H\|עֵ֣ץ]] [[H3978\|מַאֲכָ֔ל]] [[H9001\|וַ]][[H6188\|עֲרַלְתֶּ֥ם]] [[H6190H\|עָרְלָת֖]][[H9023\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H6529\|פִּרְי֑]][[H9023\|וֹ]] [[H7969\|שָׁלֹ֣שׁ]] [[H8141\|שָׁנִ֗ים]] [[H1961\|יִהְיֶ֥ה]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H6189\|עֲרֵלִ֖ים]] [[H3808\|לֹ֥א]] [[H0398\|יֵאָכֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic HORTICULTURE|HORTICULTURE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.22|<< Leviticus 19:22]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.24|Leviticus 19:24 >>]]</td></tr></table>
 

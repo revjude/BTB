@@ -1,8 +1,59 @@
+---
+title: Psalm 102:24
+type: Verse
+kjv: "I said, O my God, take me not away in the midst of my days: thy years are throughout all generations."
+bsb: "I say: “O my God, do not take me in the midst of my days! Your years go on through all generations."
+hebrew: "אֹמַ֗ר אֵלִ֗י אַֽל־ תַּ֭עֲלֵנִי בַּחֲצִ֣י יָמָ֑י בְּד֖וֹר דּוֹרִ֣ים שְׁנוֹתֶֽיךָ׃"
+pericope: "[[Ps.102.1 The Prayer of the Afflicted|The Prayer of the Afflicted]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 102
+book/chapter: "[[Ps.102|Psalm 102]]"
+chronological_order: 784
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H0559]]"
+- "[[H0410G]]"
+- "[[H9020]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5927H]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H2677]]"
+- "[[H3117G]]"
+- "[[H1755]]"
+- "[[H8141]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 102:24**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I said, O my God, take me not away in the midst of my days: thy years [are] throughout all generations.
 <small><sub>**BSB:**</sub></small>
 I say: “O my God, do not take me in the midst of my days! Your years go on through all generations.
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אֹמַ֗ר]] [[H0410G\|אֵלִ֗]][[H9020\|י]] [[H0408\|אַֽל]][[H9014\|־]] [[H5927H\|תַּ֭עֲלֵ]][[H9030\|נִי]] [[H9003\|בַּ]][[H2677\|חֲצִ֣י]] [[H3117G\|יָמָ֑]][[H9020\|י]] [[H9003\|בְּ]][[H1755\|ד֖וֹר]] [[H1755\|דּוֹרִ֣ים]] [[H8141\|שְׁנוֹתֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.23|<< Psalms 102:23]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.25|Psalms 102:25 >>]]</td></tr></table>
 

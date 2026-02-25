@@ -1,10 +1,54 @@
+---
+title: Philemon 1:7
+type: Verse
+kjv: "For we have great joy and consolation in thy love, because the bowels of the saints are refreshed by thee, brother."
+bsb: "I take great joy and encouragement in your love, because you, brother, have refreshed the hearts of the saints."
+greek: "χαρὰν γὰρ πολλὴν ἔσχον καὶ παράκλησιν ἐπὶ τῇ ἀγάπῃ σου, ὅτι τὰ σπλάγχνα τῶν ἁγίων ἀναπέπαυται διὰ σοῦ, ἀδελφέ.¶"
+pericope: "[[Phlm.1.4 Philemon’s Faith and Love|Philemon’s Faith and Love]]"
+original_language: Greek
+testament: New
+book: Philemon
+chapter: 1
+book/chapter: "[[Phlm.1|Philemon 1]]"
+chronological_order: 1125
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- personal letter
+strongs:
+- "[[G5479]]"
+- "[[G1063]]"
+- "[[G4183]]"
+- "[[G2192]]"
+- "[[G2532]]"
+- "[[G3874]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G0026]]"
+- "[[G4771]]"
+- "[[G3754H]]"
+- "[[G4698]]"
+- "[[G0040H]]"
+- "[[G0373]]"
+- "[[G1223]]"
+- "[[G0080]]"
+texts:
+- NK(O)
+- NKO
+- N(K)O
+---
+
 **Philemon 1:7**<big><big>[[Phlm.1.4 Philemon’s Faith and Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For we have great joy and consolation in thy love, because the bowels of the saints are refreshed by thee, brother.
 <small><sub>**BSB:**</sub></small>
 I take great joy and encouragement in your love, because you, brother, have refreshed the hearts of the saints.
-<small><sub>**Literal:**</sub></small>
-Joy for great I have and encouragement by occasion of the love of you, because the hearts of the saints have been refreshed through you, brother.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.6|<< Philemon 1:6]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.8|Philemon 1:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5479\|χαρὰν]]  [[G1063\|γὰρ]]  [[G4183\|πολλὴν]]  [[G2192\|ἔσχον]]  [[G2532\|καὶ]]  [[G3874\|παράκλησιν]]  [[G1909\|ἐπὶ]]  [[G3588\|τῇ]]  [[G0026\|ἀγάπῃ]]  [[G4771\|σου,]]  [[G3754H\|ὅτι]]  [[G3588\|τὰ]]  [[G4698\|σπλάγχνα]]  [[G3588\|τῶν]]  [[G0040H\|ἁγίων]]  [[G0373\|ἀναπέπαυται]]  [[G1223\|διὰ]]  [[G4771\|σοῦ,]]  [[G0080\|ἀδελφέ.¶]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.6|<< Philemon 1:6]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.8|Philemon 1:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

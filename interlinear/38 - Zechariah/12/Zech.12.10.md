@@ -1,8 +1,80 @@
+---
+title: Zechariah 12:10
+type: Verse
+kjv: "And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplications: and they shall look upon me whom they have pierced, and they shall mourn for him, as one mourneth for his only son, and shall be in bitterness for him, as one that is in bitterness for his firstborn."
+bsb: "Then I will pour out on the house of David and on the people of Jerusalem a spirit of grace and prayer, and they will look on Me, the One they have pierced. They will mourn for Him as one mourns for an only child, and grieve bitterly for Him as one grieves for a firstborn son."
+hebrew: "וְשָׁפַכְתִּי֩ עַל־ בֵּ֨ית דָּוִ֜יד וְעַ֣ל׀ יוֹשֵׁ֣ב יְרוּשָׁלִַ֗ם ר֤וּחַ חֵן֙ וְתַ֣חֲנוּנִ֔ים וְהִבִּ֥יטוּ אֵלַ֖י אֵ֣ת אֲשֶׁר־ דָּקָ֑רוּ וְסָפְד֣וּ עָלָ֗יו כְּמִסְפֵּד֙ עַל־ הַיָּחִ֔יד וְהָמֵ֥ר עָלָ֖יו כְּהָמֵ֥ר עַֽל־ הַבְּכֽוֹר׃"
+pericope: "[[Zech.12.10 Mourning the One They Pierced|Mourning the One They Pierced]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 12
+book/chapter: "[[Zech.12|Zechariah 12]]"
+chronological_order: 868
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SPEAR|SPEAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H8210G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H9015]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H7307G]]"
+- "[[H2580]]"
+- "[[H8469]]"
+- "[[H5027]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H1856]]"
+- "[[H5594]]"
+- "[[H9033]]"
+- "[[H9004]]"
+- "[[H4553]]"
+- "[[H9009]]"
+- "[[H3173]]"
+- "[[H4843]]"
+- "[[H1060]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 12:10**<big><big>[[Zech.12.10 Mourning the One They Pierced|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplications: and they shall look upon me whom they have pierced, and they shall mourn for him, as one mourneth for [his] only [son], and shall be in bitterness for him, as one that is in bitterness for [his] firstborn.
 <small><sub>**BSB:**</sub></small>
 Then I will pour out on the house of David and on the people of Jerusalem a spirit of grace and prayer, and they will look on Me, the One they have pierced. They will mourn for Him as one mourns for an only child, and grieve bitterly for Him as one grieves for a firstborn son.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8210G\|שָׁפַכְתִּי֩]] [[H5921A\|עַל]][[H9014\|־]] [[H1004M\|בֵּ֨ית]] [[H1732\|דָּוִ֜יד]] [[H9002\|וְ]][[H5921A\|עַ֣ל]][[H9015\|׀]] [[H3427\|יוֹשֵׁ֣ב]] [[H3389\|יְרוּשָׁלִַ֗ם]] [[H7307G\|ר֤וּחַ]] [[H2580\|חֵן֙]] [[H9002\|וְ]][[H8469\|תַ֣חֲנוּנִ֔ים]] [[H9001\|וְ]][[H5027\|הִבִּ֥יטוּ]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H0853\|אֵ֣ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1856\|דָּקָ֑רוּ]] [[H9001\|וְ]][[H5594\|סָפְד֣וּ]] [[H5921A\|עָלָ֗י]][[H9033\|ו]] [[H9004\|כְּ]][[H4553\|מִסְפֵּד֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3173\|יָּחִ֔יד]] [[H9002\|וְ]][[H4843\|הָמֵ֥ר]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H9004\|כְּ]][[H4843\|הָמֵ֥ר]] [[H5921A\|עַֽל]][[H9014\|־]] [[H9009\|הַ]][[H1060\|בְּכֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEVITES|LEVITES]] • [[topic PRAYER|PRAYER]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REGENERATION|REGENERATION]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SPEAR|SPEAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.12.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.12.9|<< Zechariah 12:9]]</td><td align="center" style="border:none;">[[Zech.12|Zechariah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.12.11|Zechariah 12:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,10 +1,71 @@
+---
+title: Titus 3:5
+type: Verse
+kjv: "Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;"
+bsb: "He saved us, not by the righteous deeds we had done, but according to His mercy, through the washing of new birth and renewal by the Holy Spirit."
+greek: "οὐκ ἐξ ἔργων τῶν ἐν δικαιοσύνῃ ἃ ἐποιήσαμεν ἡμεῖς, ἀλλὰ κατὰ τὸ αὐτοῦ ἔλεος ἔσωσεν ἡμᾶς διὰ λουτροῦ παλιγγενεσίας καὶ ἀνακαινώσεως πνεύματος ἁγίου"
+pericope: "[[Titus.3.1 Heirs of Grace|Heirs of Grace]]"
+original_language: Greek
+testament: New
+book: Titus
+chapter: 3
+book/chapter: "[[Titus.3|Titus 3]]"
+chronological_order: 1134
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic TRINITY|TRINITY]]"
+- "[[topic WASHING|WASHING]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3756]]"
+- "[[G1537]]"
+- "[[G2041]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G1343]]"
+- "[[G3739]]"
+- "[[G4160G]]"
+- "[[G3165]]"
+- "[[G0235]]"
+- "[[G2596]]"
+- "[[G0846]]"
+- "[[G1656]]"
+- "[[G4982]]"
+- "[[G1223]]"
+- "[[G3067]]"
+- "[[G3824]]"
+- "[[G2532]]"
+- "[[G0342]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Titus 3:5**<big><big>[[Titus.3.1 Heirs of Grace|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;
 <small><sub>**BSB:**</sub></small>
 He saved us, not by the righteous deeds we had done, but according to His mercy, through the washing of new birth and renewal by the Holy Spirit.
-<small><sub>**Literal:**</sub></small>
-not by works <the> in righteousness that did we ourselves, but according to <the> His mercy He saved us through [the] washing of regeneration and renewing of [the] Spirit Holy<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.3.4|<< Titus 3:4]]</td><td align="center" style="border:none;">[[Titus.3|Titus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.3.6|Titus 3:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐκ]]  [[G1537\|ἐξ]]  [[G2041\|ἔργων]]  [[G3588\|τῶν]]  [[G1722\|ἐν]]  [[G1343\|δικαιοσύνῃ]]  [[G3739\|ἃ]]  [[G4160G\|ἐποιήσαμεν]]  [[G3165\|ἡμεῖς,]]  [[G0235\|ἀλλὰ]]  [[G2596\|κατὰ]]  [[G3588\|τὸ]]  [[G0846\|αὐτοῦ]]  [[G1656\|ἔλεος]]  [[G4982\|ἔσωσεν]]  [[G3165\|ἡμᾶς]]  [[G1223\|διὰ]]  [[G3067\|λουτροῦ]]  [[G3824\|παλιγγενεσίας]]  [[G2532\|καὶ]]  [[G0342\|ἀνακαινώσεως]]  [[G4151G\|πνεύματος]]  [[G0040G\|ἁγίου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic BAPTISM|BAPTISM]] • [[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic REGENERATION|REGENERATION]] • [[topic SALVATION|SALVATION]] • [[topic TESTIMONY|TESTIMONY]] • [[topic TRINITY|TRINITY]] • [[topic WASHING|WASHING]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.3.4|<< Titus 3:4]]</td><td align="center" style="border:none;">[[Titus.3|Titus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.3.6|Titus 3:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

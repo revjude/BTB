@@ -1,8 +1,69 @@
+---
+title: Judges 11:7
+type: Verse
+kjv: "And Jephthah said unto the elders of Gilead, Did not ye hate me, and expel me out of my father’s house? and why are ye come unto me now when ye are in distress?"
+bsb: "Jephthah replied to the elders of Gilead, “Did you not hate me and expel me from my father’s house? Why then have you come to me now, when you are in distress?”"
+hebrew: "וַיֹּ֤אמֶר יִפְתָּח֙ לְזִקְנֵ֣י גִלְעָ֔ד הֲלֹ֤א אַתֶּם֙ שְׂנֵאתֶ֣ם אוֹתִ֔י וַתְּגָרְשׁ֖וּנִי מִבֵּ֣ית אָבִ֑י וּמַדּ֜וּעַ בָּאתֶ֤ם אֵלַי֙ עַ֔תָּה כַּאֲשֶׁ֖ר צַ֥ר לָכֶֽם׃"
+pericope: "[[Judg.11.1 Jephthah Delivers Israel|Jephthah Delivers Israel]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 11
+book/chapter: "[[Judg.11|Judges 11]]"
+chronological_order: 265
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JEPHTHAH|JEPHTHAH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3316H]]"
+- "[[H9005]]"
+- "[[H2205G]]"
+- "[[H1568G]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H0859D]]"
+- "[[H8130]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H1644G]]"
+- "[[H9006]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H4069]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H6258]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6862B]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 11:7**<big><big>[[Judg.11.1 Jephthah Delivers Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jephthah said unto the elders of Gilead, Did not ye hate me, and expel me out of my father’s house? and why are ye come unto me now when ye are in distress?
 <small><sub>**BSB:**</sub></small>
 Jephthah replied to the elders of Gilead, “Did you not hate me and expel me from my father’s house? Why then have you come to me now, when you are in distress?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3316H\|יִפְתָּח֙]] [[H9005\|לְ]][[H2205G\|זִקְנֵ֣י]] [[H1568G\|גִלְעָ֔ד]] [[H9008\|הֲ]][[H3808\|לֹ֤א]] [[H0859D\|אַתֶּם֙]] [[H8130\|שְׂנֵאתֶ֣ם]] [[H0853\|אוֹתִ֔]][[H9030\|י]] [[H9001\|וַ]][[H1644G\|תְּגָרְשׁ֖וּ]][[H9030\|נִי]] [[H9006\|מִ]][[H1004M\|בֵּ֣ית]] [[H0001G\|אָבִ֑]][[H9020\|י]] [[H9002\|וּ]][[H4069\|מַדּ֜וּעַ]] [[H0935G\|בָּאתֶ֤ם]] [[H0413\|אֵלַ]][[H9030\|י֙]] [[H6258\|עַ֔תָּה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H6862B\|צַ֥ר]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic JEPHTHAH|JEPHTHAH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.6|<< Judges 11:6]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.8|Judges 11:8 >>]]</td></tr></table>
 

@@ -1,8 +1,74 @@
+---
+title: Jeremiah 23:32
+type: Verse
+kjv: "Behold, I am against them that prophesy false dreams, saith the LORD, and do tell them, and cause my people to err by their lies, and by their lightness; yet I sent them not, nor commanded them: therefore they shall not profit this people at all, saith the LORD."
+bsb: "“Indeed,” declares the LORD, “I am against those who prophesy false dreams and retell them to lead My people astray with their reckless lies. It was not I who sent them or commanded them, and they are of no benefit at all to these people,” declares the LORD."
+hebrew: "הִ֠נְנִי עַֽל־ נִבְּאֵ֞י חֲלֹמ֥וֹת שֶׁ֙קֶר֙ נְאֻם־ יְהוָ֔ה וַֽיְסַפְּרוּם֙ וַיַּתְע֣וּ אֶת־ עַמִּ֔י בְּשִׁקְרֵיהֶ֖ם וּבְפַחֲזוּתָ֑ם וְאָנֹכִ֨י לֹֽא־ שְׁלַחְתִּ֜ים וְלֹ֣א צִוִּיתִ֗ים וְהוֹעֵ֛יל לֹֽא־ יוֹעִ֥ילוּ לָֽעָם־ הַזֶּ֖ה נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.23.9 Lying Prophets|Lying Prophets]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 23
+book/chapter: "[[Jer.23|Jeremiah 23]]"
+chronological_order: 746
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic VANITY|VANITY]]"
+strongs:
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5012]]"
+- "[[H2472]]"
+- "[[H8267]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H5608A]]"
+- "[[H9038]]"
+- "[[H8582]]"
+- "[[H0853]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H6350]]"
+- "[[H0595]]"
+- "[[H3808]]"
+- "[[H7971G]]"
+- "[[H6680]]"
+- "[[H3276]]"
+- "[[H9005]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 23:32**<big><big>[[Jer.23.9 Lying Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I [am] against them that prophesy false dreams, saith the LORD, and do tell them, and cause my people to err by their lies, and by their lightness; yet I sent them not, nor commanded them: therefore they shall not profit this people at all, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 “Indeed,” declares the LORD, “I am against those who prophesy false dreams and retell them to lead My people astray with their reckless lies. It was not I who sent them or commanded them, and they are of no benefit at all to these people,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִ֠נְ]][[H9040\|נִי]] [[H5921A\|עַֽל]][[H9014\|־]] [[H5012\|נִבְּאֵ֞י]] [[H2472\|חֲלֹמ֥וֹת]] [[H8267\|שֶׁ֙קֶר֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַֽ]][[H5608A\|יְסַפְּרוּ]][[H9038\|ם֙]] [[H9001\|וַ]][[H8582\|יַּתְע֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ֔]][[H9020\|י]] [[H9003\|בְּ]][[H8267\|שִׁקְרֵי]][[H9028\|הֶ֖ם]] [[H9002\|וּ]][[H9003\|בְ]][[H6350\|פַחֲזוּתָ֑]][[H9028\|ם]] [[H9002\|וְ]][[H0595\|אָנֹכִ֨י]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7971G\|שְׁלַחְתִּ֜י]][[H9038\|ם]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6680\|צִוִּיתִ֗י]][[H9038\|ם]] [[H9002\|וְ]][[H3276\|הוֹעֵ֛יל]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3276\|יוֹעִ֥ילוּ]] [[H9005\|לָֽ]][[H5971A\|עָם]][[H9014\|־]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]] • [[topic VANITY|VANITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.31|<< Jeremiah 23:31]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.33|Jeremiah 23:33 >>]]</td></tr></table>
 

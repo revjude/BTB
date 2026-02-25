@@ -1,8 +1,54 @@
+---
+title: Psalm 119:127
+type: Verse
+kjv: "Therefore I love thy commandments above gold; yea, above fine gold."
+bsb: "Therefore I love Your commandments more than gold, even the purest gold."
+hebrew: "עַל־ כֵּ֭ן אָהַ֣בְתִּי מִצְוֹתֶ֑יךָ מִזָּהָ֥ב וּמִפָּֽז׃"
+pericope: "[[Ps.119.121 Your Word Is a Lamp to My Feet - AIN|Your Word Is a Lamp to My Feet - AIN]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H0157G]]"
+- "[[H4687]]"
+- "[[H9021]]"
+- "[[H9006]]"
+- "[[H2091]]"
+- "[[H9002]]"
+- "[[H6337]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:127**<big><big>[[Ps.119.121 Your Word Is a Lamp to My Feet - AIN|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore I love thy commandments above gold; yea, above fine gold.
 <small><sub>**BSB:**</sub></small>
 Therefore I love Your commandments more than gold, even the purest gold.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֭ן]] [[H0157G\|אָהַ֣בְתִּי]] [[H4687\|מִצְוֹתֶ֑י]][[H9021\|ךָ]] [[H9006\|מִ]][[H2091\|זָּהָ֥ב]] [[H9002\|וּ]][[H9006\|מִ]][[H6337\|פָּֽז]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.127|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.126|<< Psalms 119:126]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.128|Psalms 119:128 >>]]</td></tr></table>
 

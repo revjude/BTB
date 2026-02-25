@@ -1,8 +1,74 @@
+---
+title: Exodus 18:22
+type: Verse
+kjv: "And let them judge the people at all seasons: and it shall be, that every great matter they shall bring unto thee, but every small matter they shall judge: so shall it be easier for thyself, and they shall bear the burden with thee."
+bsb: "Have these men judge the people at all times. Then they can bring you any major issue, but all minor cases they can judge on their own, so that your load may be lightened as they share it with you."
+hebrew: "וְשָׁפְט֣וּ אֶת־ הָעָם֮ בְּכָל־ עֵת֒ וְהָיָ֞ה כָּל־ הַדָּבָ֤ר הַגָּדֹל֙ יָבִ֣יאוּ אֵלֶ֔יךָ וְכָל־ הַדָּבָ֥ר הַקָּטֹ֖ן יִשְׁפְּטוּ־ הֵ֑ם וְהָקֵל֙ מֵֽעָלֶ֔יךָ וְנָשְׂא֖וּ אִתָּֽךְ׃"
+pericope: "[[Exod.18.13 Jethro Advises Moses|Jethro Advises Moses]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 18
+book/chapter: "[[Exod.18|Exodus 18]]"
+chronological_order: 110
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H8199]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H6256]]"
+- "[[H1961]]"
+- "[[H1697I]]"
+- "[[H1419A]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H6996B]]"
+- "[[H1992]]"
+- "[[H7043]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H5375H]]"
+- "[[H0854]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 18:22**<big><big>[[Exod.18.13 Jethro Advises Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let them judge the people at all seasons: and it shall be, [that] every great matter they shall bring unto thee, but every small matter they shall judge: so shall it be easier for thyself, and they shall bear [the burden] with thee.
 <small><sub>**BSB:**</sub></small>
 Have these men judge the people at all times. Then they can bring you any major issue, but all minor cases they can judge on their own, so that your load may be lightened as they share it with you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8199\|שָׁפְט֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֮]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H6256\|עֵת֒]] [[H9001\|וְ]][[H1961\|הָיָ֞ה]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דָּבָ֤ר]] [[H9009\|הַ]][[H1419A\|גָּדֹל֙]] [[H0935P\|יָבִ֣יאוּ]] [[H0413\|אֵלֶ֔י]][[H9031\|ךָ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דָּבָ֥ר]] [[H9009\|הַ]][[H6996B\|קָּטֹ֖ן]] [[H8199\|יִשְׁפְּטוּ]][[H9014\|־]] [[H1992\|הֵ֑ם]] [[H9002\|וְ]][[H7043\|הָקֵל֙]] [[H9006\|מֵֽ]][[H5921A\|עָלֶ֔י]][[H9031\|ךָ]] [[H9001\|וְ]][[H5375H\|נָשְׂא֖וּ]] [[H0854\|אִתָּֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JUDGE|JUDGE]] • [[topic MOSES|MOSES]] • [[topic PRUDENCE|PRUDENCE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.21|<< Exodus 18:21]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.23|Exodus 18:23 >>]]</td></tr></table>
 

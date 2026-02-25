@@ -1,8 +1,72 @@
+---
+title: Genesis 1:12
+type: Verse
+kjv: "And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good."
+bsb: "The earth produced vegetation: seed-bearing plants according to their kinds and trees bearing fruit with seed according to their kinds. And God saw that it was good."
+hebrew: "וַתּוֹצֵ֨א הָאָ֜רֶץ דֶּ֠שֶׁא עֵ֣שֶׂב מַזְרִ֤יעַ זֶ֙רַע֙ לְמִינֵ֔הוּ וְעֵ֧ץ עֹֽשֶׂה־ פְּרִ֛י אֲשֶׁ֥ר זַרְעוֹ־ ב֖וֹ לְמִינֵ֑הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־ טֽוֹב׃"
+pericope: "[[Gen.1.9 The Third Day|The Third Day]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 1
+book/chapter: "[[Gen.1|Genesis 1]]"
+chronological_order: 1
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic FRUITS|FRUITS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPAGATION|PROPAGATION]]"
+- "[[topic SEED|SEED]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318M]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H1877]]"
+- "[[H6212]]"
+- "[[H2232]]"
+- "[[H2233G]]"
+- "[[H9005]]"
+- "[[H4327]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H6086H]]"
+- "[[H6213H]]"
+- "[[H9014]]"
+- "[[H6529]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H7200G]]"
+- "[[H0430G]]"
+- "[[H3588A]]"
+- "[[H2895]]"
+- "[[H9016]]"
+texts:
+- L
+- LAH(b)
+---
+
 **Genesis 1:12**<big><big>[[Gen.1.9 The Third Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the earth brought forth grass, [and] herb yielding seed after his kind, and the tree yielding fruit, whose seed [was] in itself, after his kind: and God saw that [it was] good.
 <small><sub>**BSB:**</sub></small>
 The earth produced vegetation: seed-bearing plants according to their kinds and trees bearing fruit with seed according to their kinds. And God saw that it was good.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318M\|תּוֹצֵ֨א]] [[H9009\|הָ]][[H0776G\|אָ֜רֶץ]] [[H1877\|דֶּ֠שֶׁא]] [[H6212\|עֵ֣שֶׂב]] [[H2232\|מַזְרִ֤יעַ]] [[H2233G\|זֶ֙רַע֙]] [[H9005\|לְ]][[H4327\|מִינֵ֔]][[H9023\|הוּ]] [[H9002\|וְ]][[H6086H\|עֵ֧ץ]] [[H6213H\|עֹֽשֶׂה]][[H9014\|־]] [[H6529\|פְּרִ֛י]] [[H0834A\|אֲשֶׁ֥ר]] [[H2233G\|זַרְע]][[H9023\|וֹ]][[H9014\|־]] [[H9003\|ב֖]][[H9033\|וֹ]] [[H9005\|לְ]][[H4327\|מִינֵ֑]][[H9023\|הוּ]] [[H9001\|וַ]][[H7200G\|יַּ֥רְא]] [[H0430G\|אֱלֹהִ֖ים]] [[H3588A\|כִּי]][[H9014\|־]] [[H2895\|טֽוֹב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRUITS|FRUITS]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPAGATION|PROPAGATION]] • [[topic SEED|SEED]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.1.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.1.11|<< Genesis 1:11]]</td><td align="center" style="border:none;">[[Gen.1|Genesis 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.1.13|Genesis 1:13 >>]]</td></tr></table>
 

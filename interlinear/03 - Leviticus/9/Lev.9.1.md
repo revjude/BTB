@@ -1,8 +1,62 @@
+---
+title: Leviticus 9:1
+type: Verse
+kjv: "And it came to pass on the eighth day, that Moses called Aaron and his sons, and the elders of Israel;"
+bsb: "On the eighth day Moses summoned Aaron and his sons and the elders of Israel."
+hebrew: "וַיְהִי֙ בַּיּ֣וֹם הַשְּׁמִינִ֔י קָרָ֣א מֹשֶׁ֔ה לְאַהֲרֹ֖ן וּלְבָנָ֑יו וּלְזִקְנֵ֖י יִשְׂרָאֵֽל׃"
+pericope: "[[Lev.9.1 Aaron’s First Offerings|Aaron’s First Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 9
+book/chapter: "[[Lev.9|Leviticus 9]]"
+chronological_order: 141
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H8066]]"
+- "[[H7121G]]"
+- "[[H4872]]"
+- "[[H9005]]"
+- "[[H0175]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H2205G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 9:1**<big><big>[[Lev.9.1 Aaron’s First Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass on the eighth day, [that] Moses called Aaron and his sons, and the elders of Israel;
 <small><sub>**BSB:**</sub></small>
 On the eighth day Moses summoned Aaron and his sons and the elders of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֙]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H8066\|שְּׁמִינִ֔י]] [[H7121G\|קָרָ֣א]] [[H4872\|מֹשֶׁ֔ה]] [[H9005\|לְ]][[H0175\|אַהֲרֹ֖ן]] [[H9002\|וּ]][[H9005\|לְ]][[H1121A\|בָנָ֑י]][[H9023\|ו]] [[H9002\|וּ]][[H9005\|לְ]][[H2205G\|זִקְנֵ֖י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.36|<< Leviticus 8:36]]</td><td align="center" style="border:none;">[[Lev.9|Leviticus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.9.2|Leviticus 9:2 >>]]</td></tr></table>
 

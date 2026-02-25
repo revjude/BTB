@@ -1,10 +1,62 @@
+---
+title: 2 Thessalonians 2:2
+type: Verse
+kjv: "That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand."
+bsb: "not to be easily disconcerted or alarmed by any spirit or message or letter seeming to be from us, alleging that the Day of the Lord has already come."
+greek: "εἰς τὸ μὴ ταχέως σαλευθῆναι ὑμᾶς ἀπὸ τοῦ νοὸς μηδὲ θροεῖσθαι, μήτε διὰ πνεύματος μήτε διὰ λόγου μήτε δι᾽ ἐπιστολῆς ὡς δι᾽ ἡμῶν, ὡς ὅτι ἐνέστηκεν ἡ ἡμέρα τοῦ κυρίου."
+pericope: "[[2Thess.2.1 The Man of Lawlessness|The Man of Lawlessness]]"
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 2
+book/chapter: "[[2Thess.2|2 Thessalonians 2]]"
+chronological_order: 1054
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3361]]"
+- "[[G5030]]"
+- "[[G4531]]"
+- "[[G4771]]"
+- "[[G0575]]"
+- "[[G3563]]"
+- "[[G3366]]"
+- "[[G2360]]"
+- "[[G3383]]"
+- "[[G1223]]"
+- "[[G4151G]]"
+- "[[G3056]]"
+- "[[G1992]]"
+- "[[G5613]]"
+- "[[G3165]]"
+- "[[G3754G]]"
+- "[[G1764]]"
+- "[[G2250]]"
+- "[[G2962G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Thessalonians 2:2**<big><big>[[2Thess.2.1 The Man of Lawlessness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand.
 <small><sub>**BSB:**</sub></small>
 not to be easily disconcerted or alarmed by any spirit or message or letter seeming to be from us, alleging that the Day of the Lord has already come.
-<small><sub>**Literal:**</sub></small>
-for <the> not soon to be shaken you in <the> mind nor to be troubled, neither through spirit nor through word nor through letter as if through us, as that has been present the day of the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.1|<< 2 Thessalonians 2:1]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.3|2 Thessalonians 2:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3361\|μὴ]]  [[G5030\|ταχέως]]  [[G4531\|σαλευθῆναι]]  [[G4771\|ὑμᾶς]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G3563\|νοὸς]]  [[G3366\|μηδὲ]]  [[G2360\|θροεῖσθαι,]]  [[G3383\|μήτε]]  [[G1223\|διὰ]]  [[G4151G\|πνεύματος]]  [[G3383\|μήτε]]  [[G1223\|διὰ]]  [[G3056\|λόγου]]  [[G3383\|μήτε]]  [[G1223\|δι᾽]]  [[G1992\|ἐπιστολῆς]]  [[G5613\|ὡς]]  [[G1223\|δι᾽]]  [[G3165\|ἡμῶν,]]  [[G5613\|ὡς]]  [[G3754G\|ὅτι]]  [[G1764\|ἐνέστηκεν]]  [[G3588\|ἡ]]  [[G2250\|ἡμέρα]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.1|<< 2 Thessalonians 2:1]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.3|2 Thessalonians 2:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

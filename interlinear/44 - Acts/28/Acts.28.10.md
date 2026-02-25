@@ -1,10 +1,56 @@
+---
+title: Acts 28:10
+type: Verse
+kjv: "Who also honoured us with many honours; and when we departed, they laded us with such things as were necessary."
+bsb: "The islanders honored us in many ways and supplied our needs when we were ready to sail."
+greek: "οἳ καὶ πολλαῖς τιμαῖς ἐτίμησαν ἡμᾶς, καὶ ἀναγομένοις ἐπέθεντο τὰ πρὸς τὰς χρείας.¶"
+pericope: "[[Acts.28.1 Ashore on Malta|Ashore on Malta]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 28
+book/chapter: "[[Acts.28|Acts 28]]"
+chronological_order: 1110
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MELITA (MALTA)|MELITA (MALTA)]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G3739]]"
+- "[[G2532]]"
+- "[[G4183]]"
+- "[[G5092]]"
+- "[[G5091]]"
+- "[[G3165]]"
+- "[[G0321]]"
+- "[[G2007]]"
+- "[[G3588]]"
+- "[[G4314]]"
+- "[[G5532]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 28:10**<big><big>[[Acts.28.1 Ashore on Malta|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who also honoured us with many honours; and when we departed, they laded [us] with such things as were necessary.
 <small><sub>**BSB:**</sub></small>
 The islanders honored us in many ways and supplied our needs when we were ready to sail.
-<small><sub>**Literal:**</sub></small>
-who also with many honors honored us, and on setting sail they laid on [us] the [things] for the needs.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.9|<< Acts 28:9]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.11|Acts 28:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|οἳ]]  [[G2532\|καὶ]]  [[G4183\|πολλαῖς]]  [[G5092\|τιμαῖς]]  [[G5091\|ἐτίμησαν]]  [[G3165\|ἡμᾶς,]]  [[G2532\|καὶ]]  [[G0321\|ἀναγομένοις]]  [[G2007\|ἐπέθεντο]]  [[G3588\|τὰ]]  [[G4314\|πρὸς]]  [[G3588\|τὰς]]  [[G5532\|χρείας.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LIBERALITY|LIBERALITY]] • [[topic MELITA (MALTA)|MELITA (MALTA)]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic REVERENCE|REVERENCE]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.9|<< Acts 28:9]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.11|Acts 28:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

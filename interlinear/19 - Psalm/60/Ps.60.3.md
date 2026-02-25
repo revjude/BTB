@@ -1,8 +1,55 @@
+---
+title: Psalm 60:3
+type: Verse
+kjv: "Thou hast shewed thy people hard things: thou hast made us to drink the wine of astonishment."
+bsb: "You have shown Your people hardship; we are staggered from the wine You made us drink."
+hebrew: "הִרְאִ֣יתָה עַמְּךָ֣ קָשָׁ֑ה הִ֝שְׁקִיתָ֗נוּ יַ֣יִן תַּרְעֵלָֽה׃"
+pericope: "[[Ps.60.1 Victory with God|Victory with God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 60
+book/chapter: "[[Ps.60|Psalm 60]]"
+chronological_order: 409
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic LAMENTATIONS|LAMENTATIONS]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H7200G]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H7186]]"
+- "[[H8248H]]"
+- "[[H9035]]"
+- "[[H3196]]"
+- "[[H8653]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 60:3**<big><big>[[Ps.60.1 Victory with God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast shewed thy people hard things: thou hast made us to drink the wine of astonishment.
 <small><sub>**BSB:**</sub></small>
 You have shown Your people hardship; we are staggered from the wine You made us drink.
+<small><sub>**Hebrew:**</sub></small>
+[[H7200G\|הִרְאִ֣יתָה]] [[H5971A\|עַמְּ]][[H9021\|ךָ֣]] [[H7186\|קָשָׁ֑ה]] [[H8248H\|הִ֝שְׁקִיתָ֗]][[H9035\|נוּ]] [[H3196\|יַ֣יִן]] [[H8653\|תַּרְעֵלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic LAMENTATIONS|LAMENTATIONS]] • [[topic WAR|WAR]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.60.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.60.2|<< Psalms 60:2]]</td><td align="center" style="border:none;">[[Ps.60|Psalms 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.60.4|Psalms 60:4 >>]]</td></tr></table>
 

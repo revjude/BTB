@@ -1,7 +1,7 @@
 
 **BED**
 
-→ Made of wood [[Song.3.7|So 3:7]]-[[Song.3.9|9]]
+→ Made of wood [[Song.3.7|So 3:7-9]]
 
 → Made of iron [[Deut.3.11|De 3:11]]
 

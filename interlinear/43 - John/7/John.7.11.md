@@ -1,10 +1,53 @@
+---
+title: John 7:11
+type: Verse
+kjv: "Then the Jews sought him at the feast, and said, Where is he?"
+bsb: "So the Jews were looking for Him at the feast and asking, “Where is He?”"
+greek: "οἱ οὖν Ἰουδαῖοι ἐζήτουν αὐτὸν ἐν τῇ ἑορτῇ καὶ ἔλεγον· ποῦ ἐστιν ἐκεῖνος;"
+pericope: "[[John.7.1 Jesus Teaches at the Feast|Jesus Teaches at the Feast]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3588]]"
+- "[[G3767]]"
+- "[[G2453]]"
+- "[[G2212]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G1859]]"
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G4226]]"
+- "[[G1510]]"
+- "[[G1565]]"
+texts:
+- NKO
+---
+
 **John 7:11**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then the Jews sought him at the feast, and said, Where is he?
 <small><sub>**BSB:**</sub></small>
 So the Jews were looking for Him at the feast and asking, “Where is He?”
-<small><sub>**Literal:**</sub></small>
-The therefore Jews were seeking Him at the feast and were saying; Where is He?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.10|<< John 7:10]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.12|John 7:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G3767\|οὖν]]  [[G2453\|Ἰουδαῖοι]]  [[G2212\|ἐζήτουν]]  [[G0846\|αὐτὸν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1859\|ἑορτῇ]]  [[G2532\|καὶ]]  [[G3004G\|ἔλεγον·]]  [[G4226\|ποῦ]]  [[G1510\|ἐστιν]]  [[G1565\|ἐκεῖνος;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.10|<< John 7:10]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.12|John 7:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

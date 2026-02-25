@@ -1,6 +1,73 @@
+---
+title: LXX Jeremiah 29:21
+type: Verse
+lxx: "Thus said the lord against Ahab son of Kolaiah, and against Zedekiah son of Maaseiah, the ones prophesying to you lies in my name. Behold, I give them into the hands of the king of Babylon. And he shall strike them before your eyes."
+greek: "ούτως είπε κύριος επί Αχάβ υιός Κωλιά και επί Σεδεκίαν υιός Μαασία τους προφητεύοντας υμίν εν ονόματί μου ψευδώς ιδού εγώ δίδωμι αυτούς εις χείρας βασιλέως Βαβυλώνος και πατάξει αυτούς κατ΄ οφθαλμούς υμών"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 29
+book/chapter: "[[Jer.29|Jeremiah 29]]"
+chronological_order: 752
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic KOLAIAH|KOLAIAH]]"
+- "[[topic MAASEIAH|MAASEIAH]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[G3779]]"
+- "[[G2036]]"
+- "[[G2962]]"
+- "[[G1909]]"
+- "[[H0256]]"
+- "[[G5207]]"
+- "[[H6964]]"
+- "[[G2532]]"
+- "[[G1909]]"
+- "[[H6667]]"
+- "[[G5207]]"
+- "[[H4641]]"
+- "[[G3588]]"
+- "[[G4395]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3686]]"
+- "[[G1473]]"
+- "[[G5579]]"
+- "[[G2400]]"
+- "[[G1473]]"
+- "[[G1325]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G5495]]"
+- "[[G0935]]"
+- "[[G0897]]"
+- "[[G2532]]"
+- "[[G3960]]"
+- "[[G1473]]"
+- "[[G2596]]"
+- "[[G3788]]"
+- "[[G1473]]"
+---
+
 **LXX Jeremiah 29:21** 
 <small><sub>**LXX:**</sub></small>
 Thus said \[the\] <span class="smallcaps">lord</span> against Ahab son of Kolaiah, and against Zedekiah son of Maaseiah, the ones prophesying to you lies in my name. Behold, I give them into \[the\] hands of \[the\] king of Babylon. And he shall strike them before your eyes. 
+<small><sub>**Greek:**</sub></small>
+[[G3779\|ούτως]] [[G2036\|είπε]] [[G2962\|κύριος]] [[G1909\|επί]] [[H0256\|Αχάβ]] [[G5207\|υιός]] [[H6964\|Κωλιά]] [[G2532\|και]] [[G1909\|επί]] [[H6667\|Σεδεκίαν]] [[G5207\|υιός]] [[H4641\|Μαασία]] [[G3588\|τους]] [[G4395\|προφητεύοντας]] [[G1473\|υμίν]] [[G1722\|εν]] [[G3686\|ονόματί]] [[G1473\|μου]] [[G5579\|ψευδώς]] [[G2400\|ιδού]] [[G1473\|εγώ]] [[G1325\|δίδωμι]] [[G1473\|αυτούς]] [[G1519\|εις]] [[G5495\|χείρας]] [[G0935\|βασιλέως]] [[G0897\|Βαβυλώνος]] [[G2532\|και]] [[G3960\|πατάξει]] [[G1473\|αυτούς]] [[G2596\|κατ΄]] [[G3788\|οφθαλμούς]] [[G1473\|υμών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic KOLAIAH|KOLAIAH]] • [[topic MAASEIAH|MAASEIAH]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.29.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.20|<< Jeremiah 29:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.22|Jeremiah 29:22 >>]]</td></tr></table>
 
@@ -37,6 +104,6 @@ Thus said \[the\] <span class="smallcaps">lord</span> against Ahab son of Kolaia
 | them | **<big>[[G1473\|αυτούς]]</big>** |
 | before | **<big>[[G2596\|κατ΄]]</big>** |
 | your eyes. | **<big>[[G3788\|οφθαλμούς]]</big>** **<big>[[G1473\|υμών]]</big>** |
-[[Jer.29.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.20|<< Jeremiah 29:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.22|Jeremiah 29:22 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.20|<< Jeremiah 29:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.22|Jeremiah 29:22 >>]]</td></tr></table>
 
 

@@ -1,8 +1,61 @@
+---
+title: Nahum 1:3
+type: Verse
+kjv: "The LORD is slow to anger, and great in power, and will not at all acquit the wicked: the LORD hath his way in the whirlwind and in the storm, and the clouds are the dust of his feet."
+bsb: "The LORD is slow to anger and great in power; the LORD will by no means leave the guilty unpunished. His path is in the whirlwind and storm, and clouds are the dust beneath His feet."
+hebrew: "יְהֹוָ֗ה אֶ֤רֶךְ אַפַּ֙יִם֙ וּגְדָל כֹּ֔חַ וְנַקֵּ֖ה לֹ֣א יְנַקֶּ֑ה יְהוָ֗ה בְּסוּפָ֤ה וּבִשְׂעָרָה֙ דַּרְכּ֔וֹ וְעָנָ֖ן אֲבַ֥ק רַגְלָֽיו׃"
+pericope: "[[Nah.1.1 The Burden against Nineveh|The Burden against Nineveh]]"
+original_language: Hebrew
+testament: Old
+book: Nahum
+chapter: 1
+book/chapter: "[[Nah.1|Nahum 1]]"
+chronological_order: 708
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[H3068G]]"
+- "[[H0750]]"
+- "[[H0639G]]"
+- "[[H9002]]"
+- "[[H1419A]]"
+- "[[H3581B]]"
+- "[[H5352]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H5492A]]"
+- "[[H8183]]"
+- "[[H1870L]]"
+- "[[H9023]]"
+- "[[H6051]]"
+- "[[H0080]]"
+- "[[H7272]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Nahum 1:3**<big><big>[[Nah.1.1 The Burden against Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD [is] slow to anger, and great in power, and will not at all acquit [the wicked]: the LORD [hath] his way in the whirlwind and in the storm, and the clouds [are] the dust of his feet.
 <small><sub>**BSB:**</sub></small>
 The LORD is slow to anger and great in power; the LORD will by no means leave the guilty unpunished. His path is in the whirlwind and storm, and clouds are the dust beneath His feet.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהֹוָ֗ה]] [[H0750\|אֶ֤רֶךְ]] [[H0639G\|אַפַּ֙יִם֙]] [[H9002\|וּ]][[H1419A\|גְדָל]] [[H3581B\|כֹּ֔חַ]] [[H9002\|וְ]][[H5352\|נַקֵּ֖ה]] [[H3808\|לֹ֣א]] [[H5352\|יְנַקֶּ֑ה]] [[H3068G\|יְהוָ֗ה]] [[H9003\|בְּ]][[H5492A\|סוּפָ֤ה]] [[H9002\|וּ]][[H9003\|בִ]][[H8183\|שְׂעָרָה֙]] [[H1870L\|דַּרְכּ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H6051\|עָנָ֖ן]] [[H0080\|אֲבַ֥ק]] [[H7272\|רַגְלָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic POWER|POWER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.1.2|<< Nahum 1:2]]</td><td align="center" style="border:none;">[[Nah.1|Nahum 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.1.4|Nahum 1:4 >>]]</td></tr></table>
 
@@ -25,7 +78,7 @@ The LORD is slow to anger and great in power; the LORD will by no means leave th
 | feet his  |**<big>&#8207;[[H7272\|רַגְלָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| rag.La<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.1.2|<< Nahum 1:2]]</td><td align="center" style="border:none;">[[Nah.1|Nahum 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.1.4|Nahum 1:4 >>]]</td></tr></table>
 
-[^1]: and great of  | **<big>[[H1419A|גְדוֹל]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ge.dol-<small><sup>[[HAabsc]]</sup></small> | K
-[^2]: and great of  | **<big>[[H1419A|גְדוֹל]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ge.dol-<small><sup>[[HAabsc]]</sup></small> | K
+[^1]: and great of  | **<big>[[H9002|וּ]]</big><big>[[H1419A|גְדוֹל]]</big> ** | u.<small><sup>[[HC]]</sup></small> ge.dol-<small><sup>[[HAabsc]]</sup></small> | K
+[^2]: and great of  | **<big>[[H9002|וּ]]</big><big>[[H1419A|גְדוֹל]]</big> ** | u.<small><sup>[[HC]]</sup></small> ge.dol-<small><sup>[[HAabsc]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וּגְדָול\־</big></span>**
 

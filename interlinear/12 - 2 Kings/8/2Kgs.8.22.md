@@ -1,8 +1,60 @@
+---
+title: 2 Kings 8:22
+type: Verse
+kjv: "Yet Edom revolted from under the hand of Judah unto this day. Then Libnah revolted at the same time."
+bsb: "So to this day Edom has been in rebellion against the hand of Judah. Likewise, Libnah rebelled at the same time."
+hebrew: "וַיִּפְשַׁ֣ע אֱד֗וֹם מִתַּ֙חַת֙ יַד־ יְהוּדָ֔ה עַ֖ד הַיּ֣וֹם הַזֶּ֑ה אָ֛ז תִּפְשַׁ֥ע לִבְנָ֖ה בָּעֵ֥ת הַהִֽיא׃"
+pericope: "[[2Kgs.8.20 Edom and Libnah Rebel|Edom and Libnah Rebel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 8
+book/chapter: "[[2Kgs.8|2 Kings 8]]"
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHORAM|JEHORAM]]"
+strongs:
+- "[[H9001]]"
+- "[[H6586]]"
+- "[[H0123G]]"
+- "[[H9006]]"
+- "[[H8478K]]"
+- "[[H3027W]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H0227A]]"
+- "[[H3841H]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 8:22**<big><big>[[2Kgs.8.20 Edom and Libnah Rebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet Edom revolted from under the hand of Judah unto this day. Then Libnah revolted at the same time.
 <small><sub>**BSB:**</sub></small>
 So to this day Edom has been in rebellion against the hand of Judah. Likewise, Libnah rebelled at the same time.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6586\|יִּפְשַׁ֣ע]] [[H0123G\|אֱד֗וֹם]] [[H9006\|מִ]][[H8478K\|תַּ֙חַת֙]] [[H3027W\|יַד]][[H9014\|־]] [[H3063G\|יְהוּדָ֔ה]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H0227A\|אָ֛ז]] [[H6586\|תִּפְשַׁ֥ע]] [[H3841H\|לִבְנָ֖ה]] [[H9003\|בָּ]][[H6256\|עֵ֥ת]] [[H9009\|הַ]][[H1931\|הִֽיא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHORAM|JEHORAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.21|<< 2 Kings 8:21]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.23|2 Kings 8:23 >>]]</td></tr></table>
 

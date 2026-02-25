@@ -1,8 +1,61 @@
+---
+title: 2 Kings 15:8
+type: Verse
+kjv: "In the thirty and eighth year of Azariah king of Judah did Zachariah the son of Jeroboam reign over Israel in Samaria six months."
+bsb: "In the thirty-eighth year of Azariah’s reign over Judah, Zechariah son of Jeroboam became king of Israel, and he reigned in Samaria six months."
+hebrew: "בִּשְׁנַ֨ת שְׁלֹשִׁ֤ים וּשְׁמֹנֶה֙ שָׁנָ֔ה לַעֲזַרְיָ֖הוּ מֶ֣לֶךְ יְהוּדָ֑ה מָ֠לַךְ זְכַרְיָ֨הוּ בֶן־ יָרָבְעָ֧ם עַל־ יִשְׂרָאֵ֛ל בְּשֹׁמְר֖וֹן שִׁשָּׁ֥ה חֳדָשִֽׁים׃"
+pericope: "[[2Kgs.15.8 Zechariah Reigns in Israel|Zechariah Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 15
+book/chapter: "[[2Kgs.15|2 Kings 15]]"
+chronological_order: 607
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~767–735 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic ZACHARIAH|ZACHARIAH]]"
+strongs:
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H7970]]"
+- "[[H9002]]"
+- "[[H8083]]"
+- "[[H9005]]"
+- "[[H5838x]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H4427A]]"
+- "[[H2148P]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3379H]]"
+- "[[H5921A]]"
+- "[[H3478]]"
+- "[[H8111]]"
+- "[[H8337]]"
+- "[[H2320G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 15:8**<big><big>[[2Kgs.15.8 Zechariah Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the thirty and eighth year of Azariah king of Judah did Zachariah the son of Jeroboam reign over Israel in Samaria six months.
 <small><sub>**BSB:**</sub></small>
 In the thirty-eighth year of Azariah’s reign over Judah, Zechariah son of Jeroboam became king of Israel, and he reigned in Samaria six months.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8141\|שְׁנַ֨ת]] [[H7970\|שְׁלֹשִׁ֤ים]] [[H9002\|וּ]][[H8083\|שְׁמֹנֶה֙]] [[H8141\|שָׁנָ֔ה]] [[H9005\|לַ]][[H5838x\|עֲזַרְיָ֖הוּ]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֑ה]] [[H4427A\|מָ֠לַךְ]] [[H2148P\|זְכַרְיָ֨הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H3379H\|יָרָבְעָ֧ם]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H9003\|בְּ]][[H8111\|שֹׁמְר֖וֹן]] [[H8337\|שִׁשָּׁ֥ה]] [[H2320G\|חֳדָשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SAMARIA|SAMARIA]] • [[topic ZACHARIAH|ZACHARIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.7|<< 2 Kings 15:7]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.9|2 Kings 15:9 >>]]</td></tr></table>
 

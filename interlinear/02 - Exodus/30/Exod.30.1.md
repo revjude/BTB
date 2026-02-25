@@ -1,8 +1,56 @@
+---
+title: Exodus 30:1
+type: Verse
+kjv: "And thou shalt make an altar to burn incense upon: of shittim wood shalt thou make it."
+bsb: "“You are also to make an altar of acacia wood for the burning of incense."
+hebrew: "וְעָשִׂ֥יתָ מִזְבֵּ֖חַ מִקְטַ֣ר קְטֹ֑רֶת עֲצֵ֥י שִׁטִּ֖ים תַּעֲשֶׂ֥ה אֹתֽוֹ׃"
+pericope: "[[Exod.30.1 The Altar of Incense|The Altar of Incense]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 30
+book/chapter: "[[Exod.30|Exodus 30]]"
+chronological_order: 122
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic INCENSE|INCENSE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H4196]]"
+- "[[H4729]]"
+- "[[H7004]]"
+- "[[H6086G]]"
+- "[[H7848]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 30:1**<big><big>[[Exod.30.1 The Altar of Incense|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make an altar to burn incense upon: [of] shittim wood shalt thou make it.
 <small><sub>**BSB:**</sub></small>
 “You are also to make an altar of acacia wood for the burning of incense.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213H\|עָשִׂ֥יתָ]] [[H4196\|מִזְבֵּ֖חַ]] [[H4729\|מִקְטַ֣ר]] [[H7004\|קְטֹ֑רֶת]] [[H6086G\|עֲצֵ֥י]] [[H7848\|שִׁטִּ֖ים]] [[H6213H\|תַּעֲשֶׂ֥ה]] [[H0853\|אֹתֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic INCENSE|INCENSE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.46|<< Exodus 29:46]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.2|Exodus 30:2 >>]]</td></tr></table>
 

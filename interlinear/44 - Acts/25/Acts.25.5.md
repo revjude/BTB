@@ -1,10 +1,54 @@
+---
+title: Acts 25:5
+type: Verse
+kjv: "Let them therefore, said he, which among you are able, go down with me, and accuse this man, if there be any wickedness in him."
+bsb: "So if this man has done anything wrong, let some of your leaders come down with me and accuse him there.”"
+greek: "οἱ οὖν ἐν ὑμῖν φησιν δυνατοὶ συγκαταβάντες, εἴ τί ἐστιν ἐν τῷ ἀνδρὶ ἄτοπον, κατηγορείτωσαν αὐτοῦ."
+pericope: "[[Acts.25.1 Paul’s Trial before Festus|Paul’s Trial before Festus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 25
+book/chapter: "[[Acts.25|Acts 25]]"
+chronological_order: 1107
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G3588]]"
+- "[[G3767]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G5346]]"
+- "[[G1415]]"
+- "[[G4782]]"
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G1510]]"
+- "[[G0435G]]"
+- "[[G0824]]"
+- "[[G2723]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Acts 25:5**<big><big>[[Acts.25.1 Paul’s Trial before Festus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Let them therefore, said he, which among you are able, go down with [me], and accuse this man, if there be any wickedness in him.
 <small><sub>**BSB:**</sub></small>
 So if this man has done anything wrong, let some of your leaders come down with me and accuse him there.”
-<small><sub>**Literal:**</sub></small>
-Those therefore among you he says [in] power having gone down too, if anything there is in the man wrong, they should accuse him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.4|<< Acts 25:4]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.6|Acts 25:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G3767\|οὖν]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G5346\|φησιν]]  [[G1415\|δυνατοὶ]]  [[G4782\|συγκαταβάντες,]]  [[G1487G\|εἴ]]  [[G5100\|τί]]  [[G1510\|ἐστιν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0435G\|ἀνδρὶ]]  [[G0824\|ἄτοπον,]]  [[G2723\|κατηγορείτωσαν]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.4|<< Acts 25:4]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.6|Acts 25:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,73 @@
+---
+title: Leviticus 13:52
+type: Verse
+kjv: "He shall therefore burn that garment, whether warp or woof, in woollen or in linen, or any thing of skin, wherein the plague is: for it is a fretting leprosy; it shall be burnt in the fire."
+bsb: "He is to burn the fabric, weave, or knit, whether the contaminated item is wool or linen or leather. Since the mildew is harmful, the article must be burned up."
+hebrew: "וְשָׂרַ֨ף אֶת־ הַבֶּ֜גֶד א֥וֹ אֶֽת־ הַשְּׁתִ֣י׀ א֣וֹ אֶת־ הָעֵ֗רֶב בַּצֶּ֙מֶר֙ א֣וֹ בַפִּשְׁתִּ֔ים א֚וֹ אֶת־ כָּל־ כְּלִ֣י הָע֔וֹר אֲשֶׁר־ יִהְיֶ֥ה ב֖וֹ הַנָּ֑גַע כִּֽי־ צָרַ֤עַת מַמְאֶ֙רֶת֙ הִ֔וא בָּאֵ֖שׁ תִּשָּׂרֵֽף׃"
+pericope: "[[Lev.13.47 Laws about Mildew|Laws about Mildew]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DRESS|DRESS]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic WOOL|WOOL]]"
+strongs:
+- "[[H9001]]"
+- "[[H8313]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0899B]]"
+- "[[H0176A]]"
+- "[[H8359]]"
+- "[[H9015]]"
+- "[[H6154B]]"
+- "[[H9003]]"
+- "[[H6785]]"
+- "[[H6593]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H5785]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H9033]]"
+- "[[H5061]]"
+- "[[H3588A]]"
+- "[[H6883]]"
+- "[[H3992]]"
+- "[[H1931]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:52**<big><big>[[Lev.13.47 Laws about Mildew|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall therefore burn that garment, whether warp or woof, in woollen or in linen, or any thing of skin, wherein the plague is: for it [is] a fretting leprosy; it shall be burnt in the fire.
 <small><sub>**BSB:**</sub></small>
 He is to burn the fabric, weave, or knit, whether the contaminated item is wool or linen or leather. Since the mildew is harmful, the article must be burned up.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8313\|שָׂרַ֨ף]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H0899B\|בֶּ֜גֶד]] [[H0176A\|א֥וֹ]] [[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הַ]][[H8359\|שְּׁתִ֣י]][[H9015\|׀]] [[H0176A\|א֣וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H6154B\|עֵ֗רֶב]] [[H9003\|בַּ]][[H6785\|צֶּ֙מֶר֙]] [[H0176A\|א֣וֹ]] [[H9003\|בַ]][[H6593\|פִּשְׁתִּ֔ים]] [[H0176A\|א֚וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כְּלִ֣י]] [[H9009\|הָ]][[H5785\|ע֔וֹר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1961\|יִהְיֶ֥ה]] [[H9003\|ב֖]][[H9033\|וֹ]] [[H9009\|הַ]][[H5061\|נָּ֑גַע]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6883\|צָרַ֤עַת]] [[H3992\|מַמְאֶ֙רֶת֙]] [[H1931\|הִ֔וא]] [[H9003\|בָּ]][[H0784\|אֵ֖שׁ]] [[H8313\|תִּשָּׂרֵֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRESS|DRESS]] • [[topic SANITATION|SANITATION]] • [[topic WOOL|WOOL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.52|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.51|<< Leviticus 13:51]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.53|Leviticus 13:53 >>]]</td></tr></table>
 

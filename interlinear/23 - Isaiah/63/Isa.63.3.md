@@ -1,8 +1,74 @@
+---
+title: Isaiah 63:3
+type: Verse
+kjv: "I have trodden the winepress alone; and of the people there was none with me: for I will tread them in mine anger, and trample them in my fury; and their blood shall be sprinkled upon my garments, and I will stain all my raiment."
+bsb: "“I have trodden the winepress alone, and no one from the nations was with Me. I trampled them in My anger and trod them down in My fury; their blood spattered My garments, and all My clothes were stained."
+hebrew: "פּוּרָ֣ה׀ דָּרַ֣כְתִּי לְבַדִּ֗י וּמֵֽעַמִּים֙ אֵֽין־ אִ֣ישׁ אִתִּ֔י וְאֶדְרְכֵ֣ם בְּאַפִּ֔י וְאֶרְמְסֵ֖ם בַּחֲמָתִ֑י וְיֵ֤ז נִצְחָם֙ עַל־ בְּגָדַ֔י וְכָל־ מַלְבּוּשַׁ֖י אֶגְאָֽלְתִּי׃"
+pericope: "[[Isa.63.1 God’s Vengeance on the Nations|God’s Vengeance on the Nations]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 63
+book/chapter: "[[Isa.63|Isaiah 63]]"
+chronological_order: 702
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic ART|ART]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic POWER|POWER]]"
+- "[[topic WINE PRESS|WINE PRESS]]"
+strongs:
+- "[[H6333]]"
+- "[[H9015]]"
+- "[[H1869]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H5971A]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H0376I]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H0639G]]"
+- "[[H9020]]"
+- "[[H7429]]"
+- "[[H2534]]"
+- "[[H5137A]]"
+- "[[H5332]]"
+- "[[H9028]]"
+- "[[H5921A]]"
+- "[[H0899B]]"
+- "[[H3605]]"
+- "[[H4403]]"
+- "[[H1351]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 63:3**<big><big>[[Isa.63.1 God’s Vengeance on the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have trodden the winepress alone; and of the people [there was] none with me: for I will tread them in mine anger, and trample them in my fury; and their blood shall be sprinkled upon my garments, and I will stain all my raiment.
 <small><sub>**BSB:**</sub></small>
 “I have trodden the winepress alone, and no one from the nations was with Me. I trampled them in My anger and trod them down in My fury; their blood spattered My garments, and all My clothes were stained.
+<small><sub>**Hebrew:**</sub></small>
+[[H6333\|פּוּרָ֣ה]][[H9015\|׀]] [[H1869\|דָּרַ֣כְתִּי]] [[H9005\|לְ]][[H0905H\|בַדִּ֗]][[H9030\|י]] [[H9002\|וּ]][[H9006\|מֵֽ]][[H5971A\|עַמִּים֙]] [[H0369\|אֵֽין]][[H9014\|־]] [[H0376I\|אִ֣ישׁ]] [[H0854\|אִתִּ֔]][[H9030\|י]] [[H9002\|וְ]][[H1869\|אֶדְרְכֵ֣]][[H9038\|ם]] [[H9003\|בְּ]][[H0639G\|אַפִּ֔]][[H9020\|י]] [[H9002\|וְ]][[H7429\|אֶרְמְסֵ֖]][[H9038\|ם]] [[H9003\|בַּ]][[H2534\|חֲמָתִ֑]][[H9020\|י]] [[H9002\|וְ]][[H5137A\|יֵ֤ז]] [[H5332\|נִצְחָ]][[H9028\|ם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H0899B\|בְּגָדַ֔]][[H9020\|י]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H4403\|מַלְבּוּשַׁ֖]][[H9020\|י]] [[H1351\|אֶגְאָֽלְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic ART|ART]] • [[topic COLORS|COLORS]] • [[topic EDOMITES|EDOMITES]] • [[topic POWER|POWER]] • [[topic WINE PRESS|WINE PRESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.63.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.2|<< Isaiah 63:2]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.4|Isaiah 63:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

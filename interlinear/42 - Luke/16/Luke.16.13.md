@@ -1,10 +1,68 @@
+---
+title: Luke 16:13
+type: Verse
+kjv: "No servant can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon."
+bsb: "No servant can serve two masters. Either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve both God and money.”"
+jesus_said: "No servant can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon."
+greek: "Οὐδεὶς οἰκέτης δύναται δυσὶν κυρίοις δουλεύειν· ἢ γὰρ τὸν ἕνα μισήσει καὶ τὸν ἕτερον ἀγαπήσει, ἢ ἑνὸς ἀνθέξεται καὶ τοῦ ἑτέρου καταφρονήσει. οὐ δύνασθε θεῷ δουλεύειν καὶ μαμωνᾷ.¶"
+pericope: "[[Luke.16.1 The Parable of the Shrewd Manager|The Parable of the Shrewd Manager]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 16
+book/chapter: "[[Luke.16|Luke 16]]"
+chronological_order: 978
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CONSISTENCY|CONSISTENCY]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MAMMON|MAMMON]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G3762]]"
+- "[[G3610]]"
+- "[[G1410]]"
+- "[[G1417]]"
+- "[[G2962H]]"
+- "[[G1398]]"
+- "[[G2228]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G1520]]"
+- "[[G3404]]"
+- "[[G2532]]"
+- "[[G2087]]"
+- "[[G0025]]"
+- "[[G0472]]"
+- "[[G2706]]"
+- "[[G3756]]"
+- "[[G2316]]"
+- "[[G3126]]"
+texts:
+- NKO
+---
+
 **Luke 16:13**<big><big>[[Luke.16.1 The Parable of the Shrewd Manager|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 No servant can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.
 <small><sub>**BSB:**</sub></small>
 No servant can serve two masters. Either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve both God and money.”
-<small><sub>**Literal:**</sub></small>
-No servant is able to two masters to serve; either for the one he will hate and the other he will love, or to one he will be devoted and the other he will despise. Not you are able God to serve and money.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.12|<< Luke 16:12]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.14|Luke 16:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3762\|Οὐδεὶς]]  [[G3610\|οἰκέτης]]  [[G1410\|δύναται]]  [[G1417\|δυσὶν]]  [[G2962H\|κυρίοις]]  [[G1398\|δουλεύειν·]]  [[G2228\|ἢ]]  [[G1063\|γὰρ]]  [[G3588\|τὸν]]  [[G1520\|ἕνα]]  [[G3404\|μισήσει]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G2087\|ἕτερον]]  [[G0025\|ἀγαπήσει,]]  [[G2228\|ἢ]]  [[G1520\|ἑνὸς]]  [[G0472\|ἀνθέξεται]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G2087\|ἑτέρου]]  [[G2706\|καταφρονήσει.]]  [[G3756\|οὐ]]  [[G1410\|δύνασθε]]  [[G2316\|θεῷ]]  [[G1398\|δουλεύειν]]  [[G2532\|καὶ]]  [[G3126\|μαμωνᾷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSISTENCY|CONSISTENCY]] • [[topic DECISION|DECISION]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MAMMON|MAMMON]] • [[topic RICH, THE|RICH, THE]] • [[topic SERVANT|SERVANT]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.12|<< Luke 16:12]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.14|Luke 16:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

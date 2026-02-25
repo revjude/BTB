@@ -1,8 +1,75 @@
+---
+title: Judges 13:6
+type: Verse
+kjv: "Then the woman came and told her husband, saying, A man of God came unto me, and his countenance was like the countenance of an angel of God, very terrible: but I asked him not whence he was, neither told he me his name:"
+bsb: "So the woman went and told her husband, “A man of God came to me. His appearance was like the angel of God, exceedingly awesome. I did not ask him where he came from, and he did not tell me his name."
+hebrew: "וַתָּבֹ֣א הָאִשָּׁ֗ה וַתֹּ֣אמֶר לְאִישָׁהּ֮ לֵאמֹר֒ אִ֤ישׁ הָאֱלֹהִים֙ בָּ֣א אֵלַ֔י וּמַרְאֵ֕הוּ כְּמַרְאֵ֛ה מַלְאַ֥ךְ הָאֱלֹהִ֖ים נוֹרָ֣א מְאֹ֑ד וְלֹ֤א שְׁאִלְתִּ֙יהוּ֙ אֵֽי־ מִזֶּ֣ה ה֔וּא וְאֶת־ שְׁמ֖וֹ לֹֽא־ הִגִּ֥יד לִֽי׃"
+pericope: "[[Judg.13.1 The Birth of Samson|The Birth of Samson]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 13
+book/chapter: "[[Judg.13|Judges 13]]"
+chronological_order: 267
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]]"
+- "[[topic CONCEPTION|CONCEPTION]]"
+- "[[topic MANOAH|MANOAH]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H0376H]]"
+- "[[H9024]]"
+- "[[H0376G]]"
+- "[[H0430G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H4758]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H4397H]]"
+- "[[H3372H]]"
+- "[[H3966]]"
+- "[[H3808]]"
+- "[[H7592]]"
+- "[[H9033]]"
+- "[[H0335]]"
+- "[[H9014]]"
+- "[[H9006]]"
+- "[[H2088]]"
+- "[[H1931]]"
+- "[[H0853]]"
+- "[[H8034]]"
+- "[[H5046]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 13:6**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the woman came and told her husband, saying, A man of God came unto me, and his countenance [was] like the countenance of an angel of God, very terrible: but I asked him not whence he [was], neither told he me his name:
 <small><sub>**BSB:**</sub></small>
 So the woman went and told her husband, “A man of God came to me. His appearance was like the angel of God, exceedingly awesome. I did not ask him where he came from, and he did not tell me his name.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|תָּבֹ֣א]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֗ה]] [[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]] [[H9005\|לְ]][[H0376H\|אִישָׁ]][[H9024\|הּ֮]] [[H9005\|לֵ]][[H0559\|אמֹר֒]] [[H0376G\|אִ֤ישׁ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִים֙]] [[H0935G\|בָּ֣א]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H9002\|וּ]][[H4758\|מַרְאֵ֕]][[H9023\|הוּ]] [[H9004\|כְּ]][[H4758\|מַרְאֵ֛ה]] [[H4397H\|מַלְאַ֥ךְ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H3372H\|נוֹרָ֣א]] [[H3966\|מְאֹ֑ד]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H7592\|שְׁאִלְתִּ֙י]][[H9033\|הוּ֙]] [[H0335\|אֵֽי]][[H9014\|־]] [[H9006\|מִ]][[H2088\|זֶּ֣ה]] [[H1931\|ה֔וּא]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5046\|הִגִּ֥יד]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]] • [[topic CONCEPTION|CONCEPTION]] • [[topic MANOAH|MANOAH]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.5|<< Judges 13:5]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.7|Judges 13:7 >>]]</td></tr></table>
 

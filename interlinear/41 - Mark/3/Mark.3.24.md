@@ -1,10 +1,55 @@
+---
+title: Mark 3:24
+type: Verse
+kjv: "And if a kingdom be divided against itself, that kingdom cannot stand."
+bsb: "If a kingdom is divided against itself, it cannot stand."
+jesus_said: "And if a kingdom be divided against itself, that kingdom cannot stand."
+greek: "καὶ ἐὰν βασιλεία ἐφ᾽ ἑαυτὴν μερισθῇ, οὐ δύναται σταθῆναι ἡ βασιλεία ἐκείνη·"
+pericope: "[[Mark.3.20 A House Divided|A House Divided]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 3
+book/chapter: "[[Mark.3|Mark 3]]"
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G0932]]"
+- "[[G1909]]"
+- "[[G1438]]"
+- "[[G3307]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G2476]]"
+- "[[G3588]]"
+- "[[G1565]]"
+texts:
+- NKO
+---
+
 **Mark 3:24**<big><big>[[Mark.3.20 A House Divided|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if a kingdom be divided against itself, that kingdom cannot stand.
 <small><sub>**BSB:**</sub></small>
 If a kingdom is divided against itself, it cannot stand.
-<small><sub>**Literal:**</sub></small>
-And if a kingdom against itself shall be divided, not is able to stand the kingdom that;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.23|<< Mark 3:23]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.25|Mark 3:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1437\|ἐὰν]]  [[G0932\|βασιλεία]]  [[G1909\|ἐφ᾽]]  [[G1438\|ἑαυτὴν]]  [[G3307\|μερισθῇ,]]  [[G3756\|οὐ]]  [[G1410\|δύναται]]  [[G2476\|σταθῆναι]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G1565\|ἐκείνη·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SATAN|SATAN]] • [[topic STRIFE|STRIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.23|<< Mark 3:23]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.25|Mark 3:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

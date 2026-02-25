@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Priests’ Portion
+type: Pericope
 pericope: "[[Lev.7.28 The Priests’ Portion|The Priests’ Portion]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 7
 book/chapter: "[[Lev.7|Leviticus 7]]"
-genre:
+chronological_order: 139
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 11
 verses:
 - "[[Lev.7.28]]"
 - "[[Lev.7.29]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Lev.7.38]]"
 ---
 
-[[Lev.7|Leviticus 7:28 - Leviticus 7:38]]
+<small>[[Lev.7|Leviticus 7:28-38]]</small>
 *The Priests’ Portion*
 
 [[Lev.7.28|28]] And the LORD spake unto Moses, saying,

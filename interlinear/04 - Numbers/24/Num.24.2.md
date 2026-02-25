@@ -1,8 +1,64 @@
+---
+title: Numbers 24:2
+type: Verse
+kjv: "And Balaam lifted up his eyes, and he saw Israel abiding in his tents according to their tribes; and the spirit of God came upon him."
+bsb: "When Balaam looked up and saw Israel encamped tribe by tribe, the Spirit of God came upon him,"
+hebrew: "וַיִּשָּׂ֨א בִלְעָ֜ם אֶת־ עֵינָ֗יו וַיַּרְא֙ אֶת־ יִשְׂרָאֵ֔ל שֹׁכֵ֖ן לִשְׁבָטָ֑יו וַתְּהִ֥י עָלָ֖יו ר֥וּחַ אֱלֹהִֽים׃"
+pericope: "[[Num.24.1 Balaam’s Third Oracle|Balaam’s Third Oracle]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 24
+book/chapter: "[[Num.24|Numbers 24]]"
+chronological_order: 184
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BALAAM|BALAAM]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5375M]]"
+- "[[H1109A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H7200G]]"
+- "[[H3478]]"
+- "[[H7931]]"
+- "[[H9005]]"
+- "[[H7626H]]"
+- "[[H1961]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H7307G]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 24:2**<big><big>[[Num.24.1 Balaam’s Third Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Balaam lifted up his eyes, and he saw Israel abiding [in his tents] according to their tribes; and the spirit of God came upon him.
 <small><sub>**BSB:**</sub></small>
 When Balaam looked up and saw Israel encamped tribe by tribe, the Spirit of God came upon him,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5375M\|יִּשָּׂ֨א]] [[H1109A\|בִלְעָ֜ם]] [[H0853\|אֶת]][[H9014\|־]] [[H5869A\|עֵינָ֗י]][[H9023\|ו]] [[H9001\|וַ]][[H7200G\|יַּרְא֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H7931\|שֹׁכֵ֖ן]] [[H9005\|לִ]][[H7626H\|שְׁבָטָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H1961\|תְּהִ֥י]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H7307G\|ר֥וּחַ]] [[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALAAM|BALAAM]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.24.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.1|<< Numbers 24:1]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.3|Numbers 24:3 >>]]</td></tr></table>
 

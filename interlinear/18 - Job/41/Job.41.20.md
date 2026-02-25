@@ -1,8 +1,52 @@
+---
+title: Job 41:20
+type: Verse
+kjv: "Out of his nostrils goeth smoke, as out of a seething pot or caldron."
+bsb: "Smoke billows from his nostrils as from a boiling pot over burning reeds."
+hebrew: "מִ֭נְּחִירָיו יֵצֵ֣א עָשָׁ֑ן כְּד֖וּד נָפ֣וּחַ וְאַגְמֹֽן׃"
+pericope: "[[Job.41.1 The LORD’s Power Shown in Leviathan|The LORD’s Power Shown in Leviathan]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 41
+book/chapter: "[[Job.41|Job 41]]"
+chronological_order: 52
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9006]]"
+- "[[H5156]]"
+- "[[H9023]]"
+- "[[H3318G]]"
+- "[[H6227]]"
+- "[[H9004]]"
+- "[[H1731]]"
+- "[[H5301]]"
+- "[[H9002]]"
+- "[[H0100]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 41:20**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Out of his nostrils goeth smoke, as [out] of a seething pot or caldron.
 <small><sub>**BSB:**</sub></small>
 Smoke billows from his nostrils as from a boiling pot over burning reeds.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ֭]][[H5156\|נְּחִירָי]][[H9023\|ו]] [[H3318G\|יֵצֵ֣א]] [[H6227\|עָשָׁ֑ן]] [[H9004\|כְּ]][[H1731\|ד֖וּד]] [[H5301\|נָפ֣וּחַ]] [[H9002\|וְ]][[H0100\|אַגְמֹֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.19|<< Job 41:19]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.21|Job 41:21 >>]]</td></tr></table>
 

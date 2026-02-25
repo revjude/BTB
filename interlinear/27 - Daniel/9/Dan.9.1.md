@@ -1,8 +1,62 @@
+---
+title: Daniel 9:1
+type: Verse
+kjv: "In the first year of Darius the son of Ahasuerus, of the seed of the Medes, which was made king over the realm of the Chaldeans;"
+bsb: "In the first year of Darius son of Xerxes, a Mede by descent, who was made ruler over the kingdom of the Chaldeans—"
+hebrew: "בִּשְׁנַ֣ת אַחַ֗ת לְדָרְיָ֛וֶשׁ בֶּן־ אֲחַשְׁוֵר֖וֹשׁ מִזֶּ֣רַע מָדָ֑י אֲשֶׁ֣ר הָמְלַ֔ךְ עַ֖ל מַלְכ֥וּת כַּשְׂדִּֽים׃"
+pericope: "[[Dan.9.1 Daniel’s Prayer for His People|Daniel’s Prayer for His People]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 9
+book/chapter: "[[Dan.9|Daniel 9]]"
+chronological_order: 845
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic AHASUERUS|AHASUERUS]]"
+- "[[topic DARIUS|DARIUS]]"
+- "[[topic MEDES|MEDES]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H1867I]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0325]]"
+- "[[H9006]]"
+- "[[H2233H]]"
+- "[[H4074I]]"
+- "[[H0834A]]"
+- "[[H4427A]]"
+- "[[H5921A]]"
+- "[[H4438]]"
+- "[[H3778]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 9:1**<big><big>[[Dan.9.1 Daniel’s Prayer for His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the first year of Darius the son of Ahasuerus, of the seed of the Medes, which was made king over the realm of the Chaldeans;
 <small><sub>**BSB:**</sub></small>
 In the first year of Darius son of Xerxes, a Mede by descent, who was made ruler over the kingdom of the Chaldeans—
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8141\|שְׁנַ֣ת]] [[H0259\|אַחַ֗ת]] [[H9005\|לְ]][[H1867I\|דָרְיָ֛וֶשׁ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0325\|אֲחַשְׁוֵר֖וֹשׁ]] [[H9006\|מִ]][[H2233H\|זֶּ֣רַע]] [[H4074I\|מָדָ֑י]] [[H0834A\|אֲשֶׁ֣ר]] [[H4427A\|הָמְלַ֔ךְ]] [[H5921A\|עַ֖ל]] [[H4438\|מַלְכ֥וּת]] [[H3778\|כַּשְׂדִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHASUERUS|AHASUERUS]] • [[topic DARIUS|DARIUS]] • [[topic MEDES|MEDES]] • [[topic PERSIA|PERSIA]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.27|<< Daniel 8:27]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.2|Daniel 9:2 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Jeremiah 25:19
+type: Verse
+kjv: "Pharaoh king of Egypt, and his servants, and his princes, and all his people;"
+bsb: "Pharaoh king of Egypt, his officials, his leaders, and all his people;"
+hebrew: "אֶת־ פַּרְעֹ֧ה מֶֽלֶךְ־ מִצְרַ֛יִם וְאֶת־ עֲבָדָ֥יו וְאֶת־ שָׂרָ֖יו וְאֶת־ כָּל־ עַמּֽוֹ׃"
+pericope: "[[Jer.25.15 The Cup of God’s Wrath|The Cup of God’s Wrath]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 25
+book/chapter: "[[Jer.25|Jeremiah 25]]"
+chronological_order: 748
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic CUP|CUP]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic SIDON|SIDON]]"
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6547N]]"
+- "[[H4428G]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H8269]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 25:19**<big><big>[[Jer.25.15 The Cup of God’s Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Pharaoh king of Egypt, and his servants, and his princes, and all his people;
 <small><sub>**BSB:**</sub></small>
 Pharaoh king of Egypt, his officials, his leaders, and all his people;
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶת]][[H9014\|־]] [[H6547N\|פַּרְעֹ֧ה]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H4714G\|מִצְרַ֛יִם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5650\|עֲבָדָ֥י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8269\|שָׂרָ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5971A\|עַמּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic CUP|CUP]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic NATION|NATION]] • [[topic PHILISTINES|PHILISTINES]] • [[topic SIDON|SIDON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.18|<< Jeremiah 25:18]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.20|Jeremiah 25:20 >>]]</td></tr></table>
 

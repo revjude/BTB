@@ -1,10 +1,60 @@
+---
+title: Acts 20:34
+type: Verse
+kjv: "Yea, ye yourselves know, that these hands have ministered unto my necessities, and to them that were with me."
+bsb: "You yourselves know that these hands of mine have ministered to my own needs and those of my companions."
+greek: "αὐτοὶ δὲ γινώσκετε ὅτι ταῖς χρείαις μου καὶ τοῖς οὖσιν μετ᾽ ἐμοῦ ὑπηρέτησαν αἱ χεῖρες αὗται."
+pericope: "[[Acts.20.17 Paul’s Farewell to the Ephesians|Paul’s Farewell to the Ephesians]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 20
+book/chapter: "[[Acts.20|Acts 20]]"
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic MILETUS|MILETUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0846]]"
+- "[[G1161]]"
+- "[[G1097]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G5532]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G5256]]"
+- "[[G5495]]"
+- "[[G3778]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 20:34**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Yea, ye yourselves know, that these hands have ministered unto my necessities, and to them that were with me.
 <small><sub>**BSB:**</sub></small>
 You yourselves know that these hands of mine have ministered to my own needs and those of my companions.
-<small><sub>**Literal:**</sub></small>
-You yourselves now know that to the needs of me and to that [of those] being with me ministered to <the> hands these.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.33|<< Acts 20:33]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.35|Acts 20:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0846\|αὐτοὶ]]  [[G1161\|δὲ]]  [[G1097\|γινώσκετε]]  [[G3754G\|ὅτι]]  [[G3588\|ταῖς]]  [[G5532\|χρείαις]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G1510\|οὖσιν]]  [[G3326\|μετ᾽]]  [[G1473\|ἐμοῦ]]  [[G5256\|ὑπηρέτησαν]]  [[G3588\|αἱ]]  [[G5495\|χεῖρες]]  [[G3778\|αὗται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHESUS|EPHESUS]] • [[topic INDUSTRY|INDUSTRY]] • [[topic MILETUS|MILETUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.33|<< Acts 20:33]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.35|Acts 20:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

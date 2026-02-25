@@ -1,10 +1,59 @@
+---
+title: Romans 8:28
+type: Verse
+kjv: "And we know that all things work together for good to them that love God, to them who are the called according to his purpose."
+bsb: "And we know that God works all things together for the good of those who love Him, who are called according to His purpose."
+greek: "Οἴδαμεν δὲ ὅτι τοῖς ἀγαπῶσιν τὸν θεὸν πάντα συνεργεῖ ὁ θεὸς εἰς ἀγαθόν, τοῖς κατὰ πρόθεσιν κλητοῖς οὖσιν."
+pericope: "[[Rom.8.28 God Works in All Things|God Works in All Things]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 8
+book/chapter: "[[Rom.8|Romans 8]]"
+chronological_order: 1094
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G6063]]"
+- "[[G1161]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G0025]]"
+- "[[G2316]]"
+- "[[G3956]]"
+- "[[G4903]]"
+- "[[G1519]]"
+- "[[G0018]]"
+- "[[G2596]]"
+- "[[G4286]]"
+- "[[G2822]]"
+- "[[G1510]]"
+texts:
+- NKO
+- O
+---
+
 **Romans 8:28**<big><big>[[Rom.8.28 God Works in All Things|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And we know that all things work together for good to them that love God, to them who are the called according to [his] purpose.
 <small><sub>**BSB:**</sub></small>
 And we know that God works all things together for the good of those who love Him, who are called according to His purpose.
-<small><sub>**Literal:**</sub></small>
-We know now that to those loving <the> God all things works together <the> God for good, to those according to [His] purpose called being.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.27|<< Romans 8:27]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.29|Romans 8:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|Οἴδαμεν]]  [[G1161\|δὲ]]  [[G3754G\|ὅτι]]  [[G3588\|τοῖς]]  [[G0025\|ἀγαπῶσιν]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G3956\|πάντα]]  [[G4903\|συνεργεῖ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1519\|εἰς]]  [[G0018\|ἀγαθόν,]]  [[G3588\|τοῖς]]  [[G2596\|κατὰ]]  [[G4286\|πρόθεσιν]]  [[G2822\|κλητοῖς]]  [[G1510\|οὖσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic LOVE|LOVE]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.27|<< Romans 8:27]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.29|Romans 8:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

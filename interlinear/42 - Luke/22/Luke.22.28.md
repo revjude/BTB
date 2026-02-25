@@ -1,10 +1,54 @@
+---
+title: Luke 22:28
+type: Verse
+kjv: "Ye are they which have continued with me in my temptations."
+bsb: "You are the ones who have stood by Me in My trials."
+jesus_said: "Ye are they which have continued with me in my temptations."
+greek: "ὑμεῖς δέ ἐστε οἱ διαμεμενηκότες μετ᾽ ἐμοῦ ἐν τοῖς πειρασμοῖς μου."
+pericope: "[[Luke.22.24 Who Is the Greatest？|Who Is the Greatest？]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G1265]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3986H]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **Luke 22:28**<big><big>[[Luke.22.24 Who Is the Greatest？|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ye are they which have continued with me in my temptations.
 <small><sub>**BSB:**</sub></small>
 You are the ones who have stood by Me in My trials.
-<small><sub>**Literal:**</sub></small>
-You yourselves now are those having remained with Me in the trials of Mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.27|<< Luke 22:27]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.29|Luke 22:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|ὑμεῖς]]  [[G1161\|δέ]]  [[G1510\|ἐστε]]  [[G3588\|οἱ]]  [[G1265\|διαμεμενηκότες]]  [[G3326\|μετ᾽]]  [[G1473\|ἐμοῦ]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3986H\|πειρασμοῖς]]  [[G3165\|μου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.27|<< Luke 22:27]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.29|Luke 22:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

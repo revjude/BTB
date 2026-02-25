@@ -1,8 +1,55 @@
+---
+title: Ezekiel 41:3
+type: Verse
+kjv: "Then went he inward, and measured the post of the door, two cubits; and the door, six cubits; and the breadth of the door, seven cubits."
+bsb: "And he went into the inner sanctuary and measured the side pillars at the entrance to be two cubits wide. The entrance was six cubits wide, and the walls on each side were seven cubits wide."
+hebrew: "וּבָ֣א לִפְנִ֔ימָה וַיָּ֥מָד אֵֽיל־ הַפֶּ֖תַח שְׁתַּ֣יִם אַמּ֑וֹת וְהַפֶּ֙תַח֙ שֵׁ֣שׁ אַמּ֔וֹת וְרֹ֥חַב הַפֶּ֖תַח שֶׁ֥בַע אַמּֽוֹת׃"
+pericope: "[[Ezek.41.1 Inside the Temple|Inside the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 41
+book/chapter: "[[Ezek.41|Ezekiel 41]]"
+chronological_order: 832
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H6441]]"
+- "[[H4058]]"
+- "[[H0352B]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6607]]"
+- "[[H8147]]"
+- "[[H0520A]]"
+- "[[H9002]]"
+- "[[H8337]]"
+- "[[H7341]]"
+- "[[H7651]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 41:3**<big><big>[[Ezek.41.1 Inside the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then went he inward, and measured the post of the door, two cubits; and the door, six cubits; and the breadth of the door, seven cubits.
 <small><sub>**BSB:**</sub></small>
 And he went into the inner sanctuary and measured the side pillars at the entrance to be two cubits wide. The entrance was six cubits wide, and the walls on each side were seven cubits wide.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H0935G\|בָ֣א]] [[H9005\|לִ]][[H6441\|פְנִ֔ימָה]] [[H9001\|וַ]][[H4058\|יָּ֥מָד]] [[H0352B\|אֵֽיל]][[H9014\|־]] [[H9009\|הַ]][[H6607\|פֶּ֖תַח]] [[H8147\|שְׁתַּ֣יִם]] [[H0520A\|אַמּ֑וֹת]] [[H9002\|וְ]][[H9009\|הַ]][[H6607\|פֶּ֙תַח֙]] [[H8337\|שֵׁ֣שׁ]] [[H0520A\|אַמּ֔וֹת]] [[H9002\|וְ]][[H7341\|רֹ֥חַב]] [[H9009\|הַ]][[H6607\|פֶּ֖תַח]] [[H7651\|שֶׁ֥בַע]] [[H0520A\|אַמּֽוֹת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.2|<< Ezekiel 41:2]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.4|Ezekiel 41:4 >>]]</td></tr></table>
 

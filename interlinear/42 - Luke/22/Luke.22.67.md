@@ -1,10 +1,62 @@
+---
+title: Luke 22:67
+type: Verse
+kjv: "Art thou the Christ? tell us. And he said unto them, If I tell you, ye will not believe:"
+bsb: "“If You are the Christ, tell us.” Jesus answered, “If I tell you, you will not believe."
+jesus_said: "If I tell you, ye will not believe:"
+greek: "λέγοντες· εἰ σὺ εἶ ὁ χριστός, εἰπὸν ἡμῖν. εἶπεν δὲ αὐτοῖς· ἐὰν ὑμῖν εἴπω, οὐ μὴ πιστεύσητε."
+pericope: "[[Luke.22.66 Jesus before the Sanhedrin|Jesus before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1487G]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G5547]]"
+- "[[G2036]]"
+- "[[G3165]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G1437]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G4100]]"
+texts:
+- NKO
+---
+
 **Luke 22:67**<big><big>[[Luke.22.66 Jesus before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Art thou the Christ? tell us. And he said unto them, If I tell you, ye will not believe:
 <small><sub>**BSB:**</sub></small>
 “If You are the Christ, tell us.” Jesus answered, “If I tell you, you will not believe.
-<small><sub>**Literal:**</sub></small>
-saying; If You yourself are the Christ, do tell us. He said then to them; If you I shall tell, certainly not you shall believe.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.66|<< Luke 22:66]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.68|Luke 22:68 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγοντες·]]  [[G1487G\|εἰ]]  [[G4771\|σὺ]]  [[G1510\|εἶ]]  [[G3588\|ὁ]]  [[G5547\|χριστός,]]  [[G2036\|εἰπὸν]]  [[G3165\|ἡμῖν.]]  [[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῖς·]]  [[G1437\|ἐὰν]]  [[G4771\|ὑμῖν]]  [[G2036\|εἴπω,]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G4100\|πιστεύσητε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.66|<< Luke 22:66]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.68|Luke 22:68 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

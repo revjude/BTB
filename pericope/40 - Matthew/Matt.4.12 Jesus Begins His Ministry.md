@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Begins His Ministry
+type: Pericope
 pericope: "[[Matt.4.12 Jesus Begins His Ministry|Jesus Begins His Ministry]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 4
 book/chapter: "[[Matt.4|Matthew 4]]"
-genre:
+chronological_order: 936
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 6
 verses:
 - "[[Matt.4.12]]"
 - "[[Matt.4.13]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Matt.4.17]]"
 ---
 
-[[Matt.4|Matthew 4:12 - Matthew 4:17]]
+<small>[[Matt.4|Matthew 4:12-17]]</small>
 *Jesus Begins His Ministry*
 
 [[Matt.4.12|12]] Now when Jesus had heard that John was cast into prison, he departed into Galilee;

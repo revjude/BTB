@@ -1,8 +1,69 @@
+---
+title: Ezekiel 16:37
+type: Verse
+kjv: "Behold, therefore I will gather all thy lovers, with whom thou hast taken pleasure, and all them that thou hast loved, with all them that thou hast hated; I will even gather them round about against thee, and will discover thy nakedness unto them, that they may see all thy nakedness."
+bsb: "therefore I will surely gather all the lovers with whom you found pleasure, all those you loved and all those you hated. I will gather them against you from all around and expose you before them, and they will see you completely naked."
+hebrew: "לָ֠כֵן הִנְנִ֨י מְקַבֵּ֤ץ אֶת־ כָּל־ מְאַהֲבַ֙יִךְ֙ אֲשֶׁ֣ר עָרַ֣בְתְּ עֲלֵיהֶ֔ם וְאֵת֙ כָּל־ אֲשֶׁ֣ר אָהַ֔בְתְּ עַ֖ל כָּל־ אֲשֶׁ֣ר שָׂנֵ֑את וְקִבַּצְתִּי֩ אֹתָ֨ם עָלַ֜יִךְ מִסָּבִ֗יב וְגִלֵּיתִ֤י עֶרְוָתֵךְ֙ אֲלֵהֶ֔ם וְרָא֖וּ אֶת־ כָּל־ עֶרְוָתֵֽךְ׃"
+pericope: "[[Ezek.16.35 Judgment on Jerusalem|Judgment on Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H6908]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H0157G]]"
+- "[[H9032]]"
+- "[[H0834A]]"
+- "[[H6149]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H8130]]"
+- "[[H9001]]"
+- "[[H9006]]"
+- "[[H5439H]]"
+- "[[H1540I]]"
+- "[[H6172]]"
+- "[[H9022]]"
+- "[[H0413]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 16:37**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, therefore I will gather all thy lovers, with whom thou hast taken pleasure, and all [them] that thou hast loved, with all [them] that thou hast hated; I will even gather them round about against thee, and will discover thy nakedness unto them, that they may see all thy nakedness.
 <small><sub>**BSB:**</sub></small>
 therefore I will surely gather all the lovers with whom you found pleasure, all those you loved and all those you hated. I will gather them against you from all around and expose you before them, and they will see you completely naked.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ֠]][[H3651C\|כֵן]] [[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H6908\|מְקַבֵּ֤ץ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0157G\|מְאַהֲבַ֙יִ]][[H9032\|ךְ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6149\|עָרַ֣בְתְּ]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֔ם]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H0157G\|אָהַ֔בְתְּ]] [[H5921A\|עַ֖ל]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H8130\|שָׂנֵ֑את]] [[H9001\|וְ]][[H6908\|קִבַּצְתִּי֩]] [[H0853\|אֹתָ֨]][[H9038\|ם]] [[H5921A\|עָלַ֜יִ]][[H9032\|ךְ]] [[H9006\|מִ]][[H5439H\|סָּבִ֗יב]] [[H9001\|וְ]][[H1540I\|גִלֵּיתִ֤י]] [[H6172\|עֶרְוָתֵ]][[H9022\|ךְ֙]] [[H0413\|אֲלֵ]][[H9038\|הֶ֔ם]] [[H9001\|וְ]][[H7200G\|רָא֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H6172\|עֶרְוָתֵֽ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HIGH PLACES|HIGH PLACES]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.36|<< Ezekiel 16:36]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.38|Ezekiel 16:38 >>]]</td></tr></table>
 

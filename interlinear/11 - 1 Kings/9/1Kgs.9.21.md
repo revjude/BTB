@@ -1,8 +1,71 @@
+---
+title: 1 Kings 9:21
+type: Verse
+kjv: "Their children that were left after them in the land, whom the children of Israel also were not able utterly to destroy, upon those did Solomon levy a tribute of bondservice unto this day."
+bsb: "their descendants who remained in the land, those whom the Israelites were unable to devote to destruction—Solomon conscripted these people to be forced laborers, as they are to this day."
+hebrew: "בְּנֵיהֶ֗ם אֲשֶׁ֨ר נֹתְר֤וּ אַחֲרֵיהֶם֙ בָּאָ֔רֶץ אֲשֶׁ֧ר לֹֽא־ יָכְל֛וּ בְּנֵ֥י יִשְׂרָאֵ֖ל לְהַֽחֲרִימָ֑ם וַיַּעֲלֵ֤ם שְׁלֹמֹה֙ לְמַס־ עֹבֵ֔ד עַ֖ד הַיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[1Kgs.9.10 Solomon’s Additional Achievements|Solomon’s Additional Achievements]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 9
+book/chapter: "[[1Kgs.9|1 Kings 9]]"
+chronological_order: 534
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic HITTITES|HITTITES]]"
+- "[[topic HIVITES|HIVITES]]"
+- "[[topic JEBUSITES|JEBUSITES]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H1121G]]"
+- "[[H9028]]"
+- "[[H0834A]]"
+- "[[H3498]]"
+- "[[H0310A]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3201]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H2763A]]"
+- "[[H9001]]"
+- "[[H5927H]]"
+- "[[H8010]]"
+- "[[H4522]]"
+- "[[H5647I]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 9:21**<big><big>[[1Kgs.9.10 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their children that were left after them in the land, whom the children of Israel also were not able utterly to destroy, upon those did Solomon levy a tribute of bondservice unto this day.
 <small><sub>**BSB:**</sub></small>
 their descendants who remained in the land, those whom the Israelites were unable to devote to destruction—Solomon conscripted these people to be forced laborers, as they are to this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121G\|בְּנֵי]][[H9028\|הֶ֗ם]] [[H0834A\|אֲשֶׁ֨ר]] [[H3498\|נֹתְר֤וּ]] [[H0310A\|אַחֲרֵי]][[H9038\|הֶם֙]] [[H9003\|בָּ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁ֧ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3201\|יָכְל֛וּ]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לְ]][[H2763A\|הַֽחֲרִימָ֑]][[H9038\|ם]] [[H9001\|וַ]][[H5927H\|יַּעֲלֵ֤]][[H9038\|ם]] [[H8010\|שְׁלֹמֹה֙]] [[H9005\|לְ]][[H4522\|מַס]][[H9014\|־]] [[H5647I\|עֹבֵ֔ד]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic HITTITES|HITTITES]] • [[topic HIVITES|HIVITES]] • [[topic JEBUSITES|JEBUSITES]] • [[topic SERVANT|SERVANT]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.9.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.20|<< 1 Kings 9:20]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.22|1 Kings 9:22 >>]]</td></tr></table>
 

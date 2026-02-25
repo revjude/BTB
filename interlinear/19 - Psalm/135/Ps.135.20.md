@@ -1,8 +1,52 @@
+---
+title: Psalm 135:20
+type: Verse
+kjv: "Bless the LORD, O house of Levi: ye that fear the LORD, bless the LORD."
+bsb: "O house of Levi, bless the LORD; you who fear the LORD, bless the LORD!"
+hebrew: "בֵּ֣ית הַ֭לֵּוִי בָּרֲכ֣וּ אֶת־ יְהוָ֑ה יִֽרְאֵ֥י יְ֝הוָ֗ה בָּרֲכ֥וּ אֶת־ יְהוָֽה׃"
+pericope: "[[Ps.135.1 Give Praise, O Servants of the LORD|Give Praise, O Servants of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 135
+book/chapter: "[[Ps.135|Psalm 135]]"
+chronological_order: 532
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H1004M]]"
+- "[[H9009]]"
+- "[[H3878]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H3373]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 135:20**<big><big>[[Ps.135.1 Give Praise, O Servants of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bless the LORD, O house of Levi: ye that fear the LORD, bless the LORD.
 <small><sub>**BSB:**</sub></small>
 O house of Levi, bless the LORD; you who fear the LORD, bless the LORD!
+<small><sub>**Hebrew:**</sub></small>
+[[H1004M\|בֵּ֣ית]] [[H9009\|הַ֭]][[H3878\|לֵּוִי]] [[H1288\|בָּרֲכ֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H3373\|יִֽרְאֵ֥י]] [[H3068G\|יְ֝הוָ֗ה]] [[H1288\|בָּרֲכ֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.135.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.135.19|<< Psalms 135:19]]</td><td align="center" style="border:none;">[[Ps.135|Psalms 135]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.135.21|Psalms 135:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

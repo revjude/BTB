@@ -1,8 +1,72 @@
+---
+title: Isaiah 20:6
+type: Verse
+kjv: "And the inhabitant of this isle shall say in that day, Behold, such is our expectation, whither we flee for help to be delivered from the king of Assyria: and how shall we escape?"
+bsb: "And on that day the dwellers of this coastland will say, ‘See what has happened to our source of hope, those to whom we fled for help and deliverance from the king of Assyria! How then can we escape?’”"
+hebrew: "וְ֠אָמַר יֹשֵׁ֨ב הָאִ֣י הַזֶּה֮ בַּיּ֣וֹם הַהוּא֒ הִנֵּה־ כֹ֣ה מַבָּטֵ֗נוּ אֲשֶׁר־ נַ֤סְנוּ שָׁם֙ לְעֶזְרָ֔ה לְהִ֨נָּצֵ֔ל מִפְּנֵ֖י מֶ֣לֶךְ אַשּׁ֑וּר וְאֵ֖יךְ נִמָּלֵ֥ט אֲנָֽחְנוּ׃ ס"
+pericope: "[[Isa.20.1 A Sign against Egypt and Cush|A Sign against Egypt and Cush]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 20
+book/chapter: "[[Isa.20|Isaiah 20]]"
+chronological_order: 637
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3427]]"
+- "[[H9009]]"
+- "[[H0339]]"
+- "[[H2088]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H3541]]"
+- "[[H4007]]"
+- "[[H9025]]"
+- "[[H0834A]]"
+- "[[H5127]]"
+- "[[H8033G]]"
+- "[[H9005]]"
+- "[[H5833]]"
+- "[[H5337]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H9002]]"
+- "[[H0349A]]"
+- "[[H4422]]"
+- "[[H0587]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 20:6**<big><big>[[Isa.20.1 A Sign against Egypt and Cush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the inhabitant of this isle shall say in that day, Behold, such [is] our expectation, whither we flee for help to be delivered from the king of Assyria: and how shall we escape?
 <small><sub>**BSB:**</sub></small>
 And on that day the dwellers of this coastland will say, ‘See what has happened to our source of hope, those to whom we fled for help and deliverance from the king of Assyria! How then can we escape?’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ֠]][[H0559\|אָמַר]] [[H3427\|יֹשֵׁ֨ב]] [[H9009\|הָ]][[H0339\|אִ֣י]] [[H9009\|הַ]][[H2088\|זֶּה֮]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|הוּא֒]] [[H2009\|הִנֵּה]][[H9014\|־]] [[H3541\|כֹ֣ה]] [[H4007\|מַבָּטֵ֗]][[H9025\|נוּ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5127\|נַ֤סְנוּ]] [[H8033G\|שָׁם֙]] [[H9005\|לְ]][[H5833\|עֶזְרָ֔ה]] [[H9005\|לְ]][[H5337\|הִ֨נָּצֵ֔ל]] [[H9006\|מִ]][[H6440G\|פְּנֵ֖י]] [[H4428G\|מֶ֣לֶךְ]] [[H0804G\|אַשּׁ֑וּר]] [[H9002\|וְ]][[H0349A\|אֵ֖יךְ]] [[H4422\|נִמָּלֵ֥ט]] [[H0587\|אֲנָֽחְנוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPT|EGYPT]] • [[topic ETHIOPIA|ETHIOPIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.20.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.20.5|<< Isaiah 20:5]]</td><td align="center" style="border:none;">[[Isa.20|Isaiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.21.1|Isaiah 21:1 >>]]</td></tr></table>
 
@@ -27,7 +91,7 @@ And on that day the dwellers of this coastland will say, ‘See what has happene
 | Assyria  |**<big>&#8207;[[H0804G\|אַשּׁ֑וּר]]&#8207; </big>**| 'a.Shur<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and how?  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0349A\|אֵ֖יךְ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Eikh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will we escape  |**<big>&#8207;[[H4422\|נִמָּלֵ֥ט]]&#8207; </big>**| ni.ma.Let<small><sup>[[HVNi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we  |**<big>&#8207;[[H0587\|אֲנָֽחְנוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Na.che.nu<small><sup>[[HPp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we  |**<big>&#8207;[[H0587\|אֲנָֽחְנוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Na.che.nu<small><sup>[[HPp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.20.5|<< Isaiah 20:5]]</td><td align="center" style="border:none;">[[Isa.20|Isaiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.21.1|Isaiah 21:1 >>]]</td></tr></table>
 
 

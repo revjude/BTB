@@ -1,10 +1,66 @@
+---
+title: Hebrews 10:1
+type: Verse
+kjv: "For the law having a shadow of good things to come, and not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect."
+bsb: "For the law is only a shadow of the good things to come, not the realities themselves. It can never, by the same sacrifices offered year after year, make perfect those who draw near to worship."
+greek: "Σκιὰν γὰρ ἔχων ὁ νόμος τῶν μελλόντων ἀγαθῶν, οὐκ αὐτὴν τὴν εἰκόνα τῶν πραγμάτων, κατ᾽ ἐνιαυτὸν ταῖς αὐταῖς θυσίαις ἃς προσφέρουσιν εἰς τὸ διηνεκὲς οὐδέποτε δύναται τοὺς προσερχομένους τελειῶσαι·"
+pericope: "[[Heb.10.1 Christ’s Perfect Sacrifice|Christ’s Perfect Sacrifice]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 10
+book/chapter: "[[Heb.10|Hebrews 10]]"
+chronological_order: 1149
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G4639]]"
+- "[[G1063]]"
+- "[[G2192]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G3195]]"
+- "[[G0018]]"
+- "[[G3756]]"
+- "[[G0846]]"
+- "[[G1504]]"
+- "[[G4229]]"
+- "[[G2596]]"
+- "[[G1763]]"
+- "[[G2378]]"
+- "[[G3739]]"
+- "[[G4374]]"
+- "[[G1519]]"
+- "[[G1336]]"
+- "[[G3763]]"
+- "[[G1410]]"
+- "[[G4334]]"
+- "[[G5048]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Hebrews 10:1**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the law having a shadow of good things to come, [and] not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect.
 <small><sub>**BSB:**</sub></small>
 For the law is only a shadow of the good things to come, not the realities themselves. It can never, by the same sacrifices offered year after year, make perfect those who draw near to worship.
-<small><sub>**Literal:**</sub></small>
-A shadow for having the law of the coming good things, not themselves the form of the things, each year with the same sacrifices which they offer to the continuous never is able those drawing near to perfect;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.28|<< Hebrews 9:28]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.2|Hebrews 10:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4639\|Σκιὰν]]  [[G1063\|γὰρ]]  [[G2192\|ἔχων]]  [[G3588\|ὁ]]  [[G3551\|νόμος]]  [[G3588\|τῶν]]  [[G3195\|μελλόντων]]  [[G0018\|ἀγαθῶν,]]  [[G3756\|οὐκ]]  [[G0846\|αὐτὴν]]  [[G3588\|τὴν]]  [[G1504\|εἰκόνα]]  [[G3588\|τῶν]]  [[G4229\|πραγμάτων,]]  [[G2596\|κατ᾽]]  [[G1763\|ἐνιαυτὸν]]  [[G3588\|ταῖς]]  [[G0846\|αὐταῖς]]  [[G2378\|θυσίαις]]  [[G3739\|ἃς]]  [[G4374\|προσφέρουσιν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G1336\|διηνεκὲς]]  [[G3763\|οὐδέποτε]]  [[G1410\|δύναται]]  [[G3588\|τοὺς]]  [[G4334\|προσερχομένους]]  [[G5048\|τελειῶσαι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic LAW|LAW]] • [[topic OFFERINGS|OFFERINGS]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.28|<< Hebrews 9:28]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.2|Hebrews 10:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

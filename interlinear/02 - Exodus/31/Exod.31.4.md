@@ -1,8 +1,62 @@
+---
+title: Exodus 31:4
+type: Verse
+kjv: "To devise cunning works, to work in gold, and in silver, and in brass,"
+bsb: "to design artistic works in gold, silver, and bronze,"
+hebrew: "לַחְשֹׁ֖ב מַחֲשָׁבֹ֑ת לַעֲשׂ֛וֹת בַּזָּהָ֥ב וּבַכֶּ֖סֶף וּבַנְּחֹֽשֶׁת׃"
+pericope: "[[Exod.31.1 Bezalel and Oholiab|Bezalel and Oholiab]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 31
+book/chapter: "[[Exod.31|Exodus 31]]"
+chronological_order: 123
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ART|ART]]"
+- "[[topic CARPENTRY|CARPENTRY]]"
+- "[[topic GENIUS|GENIUS]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic SMITH|SMITH]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9005]]"
+- "[[H2803G]]"
+- "[[H4284]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H2091]]"
+- "[[H9002]]"
+- "[[H3701G]]"
+- "[[H5178A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 31:4**<big><big>[[Exod.31.1 Bezalel and Oholiab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To devise cunning works, to work in gold, and in silver, and in brass,
 <small><sub>**BSB:**</sub></small>
 to design artistic works in gold, silver, and bronze,
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H2803G\|חְשֹׁ֖ב]] [[H4284\|מַחֲשָׁבֹ֑ת]] [[H9005\|לַ]][[H6213A\|עֲשׂ֛וֹת]] [[H9003\|בַּ]][[H2091\|זָּהָ֥ב]] [[H9002\|וּ]][[H9003\|בַ]][[H3701G\|כֶּ֖סֶף]] [[H9002\|וּ]][[H9003\|בַ]][[H5178A\|נְּחֹֽשֶׁת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic CARPENTRY|CARPENTRY]] • [[topic GENIUS|GENIUS]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]] • [[topic SMITH|SMITH]] • [[topic TABERNACLE|TABERNACLE]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.31.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.31.3|<< Exodus 31:3]]</td><td align="center" style="border:none;">[[Exod.31|Exodus 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.31.5|Exodus 31:5 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: Exodus 5:16
+type: Verse
+kjv: "There is no straw given unto thy servants, and they say to us, Make brick: and, behold, thy servants are beaten; but the fault is in thine own people."
+bsb: "No straw has been given to your servants, yet we are told, ‘Make bricks!’ Look, your servants are being beaten, but the fault is with your own people.”"
+hebrew: "תֶּ֗בֶן אֵ֤ין נִתָּן֙ לַעֲבָדֶ֔יךָ וּלְבֵנִ֛ים אֹמְרִ֥ים לָ֖נוּ עֲשׂ֑וּ וְהִנֵּ֧ה עֲבָדֶ֛יךָ מֻכִּ֖ים וְחָטָ֥את עַמֶּֽךָ׃"
+pericope: "[[Exod.5.15 The Cry of the Israelites|The Cry of the Israelites]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 5
+book/chapter: "[[Exod.5|Exodus 5]]"
+chronological_order: 97
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BRICK|BRICK]]"
+- "[[topic CRUELTY|CRUELTY]]"
+- "[[topic PETITION|PETITION]]"
+strongs:
+- "[[H8401]]"
+- "[[H0369]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3843]]"
+- "[[H0559]]"
+- "[[H9035]]"
+- "[[H6213H]]"
+- "[[H2009]]"
+- "[[H5221]]"
+- "[[H2398]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 5:16**<big><big>[[Exod.5.15 The Cry of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There is no straw given unto thy servants, and they say to us, Make brick: and, behold, thy servants [are] beaten; but the fault [is] in thine own people.
 <small><sub>**BSB:**</sub></small>
 No straw has been given to your servants, yet we are told, ‘Make bricks!’ Look, your servants are being beaten, but the fault is with your own people.”
+<small><sub>**Hebrew:**</sub></small>
+[[H8401\|תֶּ֗בֶן]] [[H0369\|אֵ֤ין]] [[H5414G\|נִתָּן֙]] [[H9005\|לַ]][[H5650\|עֲבָדֶ֔י]][[H9021\|ךָ]] [[H9002\|וּ]][[H3843\|לְבֵנִ֛ים]] [[H0559\|אֹמְרִ֥ים]] [[H9005\|לָ֖]][[H9035\|נוּ]] [[H6213H\|עֲשׂ֑וּ]] [[H9002\|וְ]][[H2009\|הִנֵּ֧ה]] [[H5650\|עֲבָדֶ֛י]][[H9021\|ךָ]] [[H5221\|מֻכִּ֖ים]] [[H9002\|וְ]][[H2398\|חָטָ֥את]] [[H5971A\|עַמֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRICK|BRICK]] • [[topic CRUELTY|CRUELTY]] • [[topic PETITION|PETITION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.5.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5.15|<< Exodus 5:15]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.17|Exodus 5:17 >>]]</td></tr></table>
 

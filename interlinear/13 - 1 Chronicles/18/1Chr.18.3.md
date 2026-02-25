@@ -1,8 +1,64 @@
+---
+title: 1 Chronicles 18:3
+type: Verse
+kjv: "And David smote Hadarezer king of Zobah unto Hamath, as he went to stablish his dominion by the river Euphrates."
+bsb: "As far as Hamath, David also defeated King Hadadezer of Zobah, who had marched out to establish his dominion along the Euphrates River."
+hebrew: "וַיַּ֥ךְ דָּוִ֛יד אֶת־ הֲדַדְעֶ֥זֶר מֶֽלֶךְ־ צוֹבָ֖ה חֲמָ֑תָה בְּלֶכְתּ֕וֹ לְהַצִּ֥יב יָד֖וֹ בִּֽנְהַר־ פְּרָֽת׃"
+pericope: "[[1Chr.18.1 David’s Triumphs|David’s Triumphs]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 18
+book/chapter: "[[1Chr.18|1 Chronicles 18]]"
+chronological_order: 405
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic EUPHRATES|EUPHRATES]]"
+- "[[topic HADADEZER|HADADEZER]]"
+- "[[topic HAMATH|HAMATH]]"
+- "[[topic MOABITES|MOABITES]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H1732]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1928]]"
+- "[[H4428G]]"
+- "[[H6678H]]"
+- "[[H2574H]]"
+- "[[H9011]]"
+- "[[H9003]]"
+- "[[H1980G]]"
+- "[[H9043]]"
+- "[[H9005]]"
+- "[[H5324]]"
+- "[[H3027H]]"
+- "[[H9023]]"
+- "[[H5104H]]"
+- "[[H6578]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 18:3**<big><big>[[1Chr.18.1 David’s Triumphs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David smote Hadarezer king of Zobah unto Hamath, as he went to stablish his dominion by the river Euphrates.
 <small><sub>**BSB:**</sub></small>
 As far as Hamath, David also defeated King Hadadezer of Zobah, who had marched out to establish his dominion along the Euphrates River.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5221\|יַּ֥ךְ]] [[H1732\|דָּוִ֛יד]] [[H0853\|אֶת]][[H9014\|־]] [[H1928\|הֲדַדְעֶ֥זֶר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H6678H\|צוֹבָ֖ה]] [[H2574H\|חֲמָ֑תָ]][[H9011\|ה]] [[H9003\|בְּ]][[H1980G\|לֶכְתּ֕]][[H9043\|וֹ]] [[H9005\|לְ]][[H5324\|הַצִּ֥יב]] [[H3027H\|יָד֖]][[H9023\|וֹ]] [[H9003\|בִּֽ]][[H5104H\|נְהַר]][[H9014\|־]] [[H6578\|פְּרָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EUPHRATES|EUPHRATES]] • [[topic HADADEZER|HADADEZER]] • [[topic HAMATH|HAMATH]] • [[topic MOABITES|MOABITES]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.18.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.18.2|<< 1 Chronicles 18:2]]</td><td align="center" style="border:none;">[[1Chr.18|1 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.18.4|1 Chronicles 18:4 >>]]</td></tr></table>
 

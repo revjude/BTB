@@ -1,8 +1,54 @@
+---
+title: 1 Chronicles 3:3
+type: Verse
+kjv: "The fifth, Shephatiah of Abital: the sixth, Ithream by Eglah his wife."
+bsb: "the fifth was Shephatiah by Abital; and the sixth was Ithream by his wife Eglah."
+hebrew: "הַחֲמִישִׁ֥י שְׁפַטְיָ֖ה לַאֲבִיטָ֑ל הַשִּׁשִּׁ֥י יִתְרְעָ֖ם לְעֶגְלָ֥ה אִשְׁתּֽוֹ׃"
+pericope: "[[1Chr.3.1 The Descendants of David|The Descendants of David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 3
+book/chapter: "[[1Chr.3|1 Chronicles 3]]"
+chronological_order: 322
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ABITAL|ABITAL]]"
+- "[[topic EGLAH|EGLAH]]"
+- "[[topic ITHREAM|ITHREAM]]"
+- "[[topic SHEPHATIAH|SHEPHATIAH]]"
+strongs:
+- "[[H9009]]"
+- "[[H2549]]"
+- "[[H8203G]]"
+- "[[H9005]]"
+- "[[H0037]]"
+- "[[H8345]]"
+- "[[H3507]]"
+- "[[H5698]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 3:3**<big><big>[[1Chr.3.1 The Descendants of David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fifth, Shephatiah of Abital: the sixth, Ithream by Eglah his wife.
 <small><sub>**BSB:**</sub></small>
 the fifth was Shephatiah by Abital; and the sixth was Ithream by his wife Eglah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H2549\|חֲמִישִׁ֥י]] [[H8203G\|שְׁפַטְיָ֖ה]] [[H9005\|לַ]][[H0037\|אֲבִיטָ֑ל]] [[H9009\|הַ]][[H8345\|שִּׁשִּׁ֥י]] [[H3507\|יִתְרְעָ֖ם]] [[H9005\|לְ]][[H5698\|עֶגְלָ֥ה]] [[H0802H\|אִשְׁתּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABITAL|ABITAL]] • [[topic EGLAH|EGLAH]] • [[topic ITHREAM|ITHREAM]] • [[topic SHEPHATIAH|SHEPHATIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3.2|<< 1 Chronicles 3:2]]</td><td align="center" style="border:none;">[[1Chr.3|1 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.4|1 Chronicles 3:4 >>]]</td></tr></table>
 

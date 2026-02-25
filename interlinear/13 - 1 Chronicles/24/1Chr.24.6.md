@@ -1,8 +1,77 @@
+---
+title: 1 Chronicles 24:6
+type: Verse
+kjv: "And Shemaiah the son of Nethaneel the scribe, one of the Levites, wrote them before the king, and the princes, and Zadok the priest, and Ahimelech the son of Abiathar, and before the chief of the fathers of the priests and Levites: one principal household being taken for Eleazar, and one taken for Ithamar."
+bsb: "The scribe, Shemaiah son of Nethanel, a Levite, recorded their names in the presence of the king and of the officers: Zadok the priest, Ahimelech son of Abiathar, and the heads of families of the priests and the Levites—one family being taken from Eleazar, and then one from Ithamar."
+hebrew: "וַֽיִּכְתְּבֵ֡ם שְֽׁמַֽעְיָה֩ בֶן־ נְתַנְאֵ֨ל הַסּוֹפֵ֜ר מִן־ הַלֵּוִ֗י לִפְנֵ֨י הַמֶּ֤לֶךְ וְהַשָּׂרִים֙ וְצָד֣וֹק הַכֹּהֵ֗ן וַאֲחִימֶ֙לֶךְ֙ בֶּן־ אֶבְיָתָ֔ר וְרָאשֵׁי֙ הָֽאָב֔וֹת לַכֹּהֲנִ֖ים וְלַלְוִיִּ֑ם בֵּֽית־ אָ֣ב אֶחָ֗ד אָחֻז֙ לְאֶלְעָזָ֔ר וְאָחֻ֥ז׀ אָחֻ֖ז לְאִיתָמָֽר׃ פ"
+pericope: "[[1Chr.24.1 Twenty-Four Divisions of Priests|Twenty-Four Divisions of Priests]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 24
+book/chapter: "[[1Chr.24|1 Chronicles 24]]"
+chronological_order: 435
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ABIATHAR|ABIATHAR]]"
+- "[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]]"
+- "[[topic ITHAMAR|ITHAMAR]]"
+- "[[topic LOT, THE|LOT, THE]]"
+- "[[topic NETHANEEL|NETHANEEL]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+- "[[topic SHEMAIAH|SHEMAIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3789]]"
+- "[[H9038]]"
+- "[[H8098H]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5417J]]"
+- "[[H9009]]"
+- "[[H5608B]]"
+- "[[H4480A]]"
+- "[[H3881]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H8269]]"
+- "[[H6659G]]"
+- "[[H3548]]"
+- "[[H0288I]]"
+- "[[H0054]]"
+- "[[H7218H]]"
+- "[[H0001G]]"
+- "[[H1004M]]"
+- "[[H0259]]"
+- "[[H0270]]"
+- "[[H0499G]]"
+- "[[H9015]]"
+- "[[H0385]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Chronicles 24:6**<big><big>[[1Chr.24.1 Twenty-Four Divisions of Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Shemaiah the son of Nethaneel the scribe, [one] of the Levites, wrote them before the king, and the princes, and Zadok the priest, and Ahimelech the son of Abiathar, and [before] the chief of the fathers of the priests and Levites: one principal household being taken for Eleazar, and [one] taken for Ithamar.
 <small><sub>**BSB:**</sub></small>
 The scribe, Shemaiah son of Nethanel, a Levite, recorded their names in the presence of the king and of the officers: Zadok the priest, Ahimelech son of Abiathar, and the heads of families of the priests and the Levites—one family being taken from Eleazar, and then one from Ithamar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H3789\|יִּכְתְּבֵ֡]][[H9038\|ם]] [[H8098H\|שְֽׁמַֽעְיָה֩]] [[H1121A\|בֶן]][[H9014\|־]] [[H5417J\|נְתַנְאֵ֨ל]] [[H9009\|הַ]][[H5608B\|סּוֹפֵ֜ר]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לֵּוִ֗י]] [[H9005\|לִ]][[H6440G\|פְנֵ֨י]] [[H9009\|הַ]][[H4428G\|מֶּ֤לֶךְ]] [[H9002\|וְ]][[H9009\|הַ]][[H8269\|שָּׂרִים֙]] [[H9002\|וְ]][[H6659G\|צָד֣וֹק]] [[H9009\|הַ]][[H3548\|כֹּהֵ֗ן]] [[H9002\|וַ]][[H0288I\|אֲחִימֶ֙לֶךְ֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0054\|אֶבְיָתָ֔ר]] [[H9002\|וְ]][[H7218H\|רָאשֵׁי֙]] [[H9009\|הָֽ]][[H0001G\|אָב֔וֹת]] [[H9005\|לַ]][[H3548\|כֹּהֲנִ֖ים]] [[H9002\|וְ]][[H9005\|לַ]][[H3881\|לְוִיִּ֑ם]] [[H1004M\|בֵּֽית]][[H9014\|־]] [[H0001G\|אָ֣ב]] [[H0259\|אֶחָ֗ד]] [[H0270\|אָחֻז֙]] [[H9005\|לְ]][[H0499G\|אֶלְעָזָ֔ר]] [[H9002\|וְ]][[H0270\|אָחֻ֥ז]][[H9015\|׀]] [[H0270\|אָחֻ֖ז]] [[H9005\|לְ]][[H0385\|אִיתָמָֽר]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIATHAR|ABIATHAR]] • [[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]] • [[topic ITHAMAR|ITHAMAR]] • [[topic LOT, THE|LOT, THE]] • [[topic NETHANEEL|NETHANEEL]] • [[topic PRIEST|PRIEST]] • [[topic SCRIBE (S)|SCRIBE (S)]] • [[topic SHEMAIAH|SHEMAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.24.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.24.5|<< 1 Chronicles 24:5]]</td><td align="center" style="border:none;">[[1Chr.24|1 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.7|1 Chronicles 24:7 >>]]</td></tr></table>
 
@@ -34,7 +103,7 @@ The scribe, Shemaiah son of Nethanel, a Levite, recorded their names in the pres
 | for Eleazar  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0499G\|אֶלְעָזָ֔ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'el.'a.Zar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and drawn  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0270\|אָחֻ֥ז]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Chuz<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | drawn  |**<big>&#8207;[[H0270\|אָחֻ֖ז]]&#8207; </big>**| 'a.Chuz<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for Ithamar  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0385\|אִיתָמָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'i.ta.Mar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for Ithamar  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0385\|אִיתָמָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'i.ta.Mar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.24.5|<< 1 Chronicles 24:5]]</td><td align="center" style="border:none;">[[1Chr.24|1 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.7|1 Chronicles 24:7 >>]]</td></tr></table>
 
 

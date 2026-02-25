@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Crowd Chooses Barabbas
+type: Pericope
 pericope: "[[Mark.15.6 The Crowd Chooses Barabbas|The Crowd Chooses Barabbas]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Mark
 chapter: 15
 book/chapter: "[[Mark.15|Mark 15]]"
-genre:
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 6
 verses:
 - "[[Mark.15.6]]"
 - "[[Mark.15.7]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Mark.15.11]]"
 ---
 
-[[Mark.15|Mark 15:6 - Mark 15:11]]
+<small>[[Mark.15|Mark 15:6-11]]</small>
 *The Crowd Chooses Barabbas*
 
 [[Mark.15.6|6]] Now at \[that\] feast he released unto them one prisoner, whomsoever they desired.

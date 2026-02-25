@@ -1,10 +1,71 @@
+---
+title: Hebrews 10:22
+type: Verse
+kjv: "Let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water."
+bsb: "let us draw near with a sincere heart in full assurance of faith, having our hearts sprinkled to cleanse us from a guilty conscience and our bodies washed with pure water."
+greek: "προσερχώμεθα μετὰ ἀληθινῆς καρδίας ἐν πληροφορίᾳ πίστεως ῥεραντισμένοι τὰς καρδίας ἀπὸ συνειδήσεως πονηρᾶς καὶ λελουσμένοι τὸ σῶμα ὕδατι καθαρῷ."
+pericope: "[[Heb.10.19 A Call to Persevere|A Call to Persevere]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 10
+book/chapter: "[[Heb.10|Hebrews 10]]"
+chronological_order: 1149
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SPRINKLING|SPRINKLING]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G4334]]"
+- "[[G3326]]"
+- "[[G0228]]"
+- "[[G2588]]"
+- "[[G1722]]"
+- "[[G4136]]"
+- "[[G4102G]]"
+- "[[G4472]]"
+- "[[G3588]]"
+- "[[G0575]]"
+- "[[G4893]]"
+- "[[G4190]]"
+- "[[G2532]]"
+- "[[G3068]]"
+- "[[G4983]]"
+- "[[G5204]]"
+- "[[G2513]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Hebrews 10:22**<big><big>[[Heb.10.19 A Call to Persevere|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water.
 <small><sub>**BSB:**</sub></small>
 let us draw near with a sincere heart in full assurance of faith, having our hearts sprinkled to cleanse us from a guilty conscience and our bodies washed with pure water.
-<small><sub>**Literal:**</sub></small>
-we may draw near with a sincere heart in full assurance of faith sprinkled clean <the> [our] hearts from a conscience evil and having ourselves washed <the> [our] body with water pure.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.21|<< Hebrews 10:21]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.23|Hebrews 10:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4334\|προσερχώμεθα]]  [[G3326\|μετὰ]]  [[G0228\|ἀληθινῆς]]  [[G2588\|καρδίας]]  [[G1722\|ἐν]]  [[G4136\|πληροφορίᾳ]]  [[G4102G\|πίστεως]]  [[G4472\|ῥεραντισμένοι]]  [[G3588\|τὰς]]  [[G2588\|καρδίας]]  [[G0575\|ἀπὸ]]  [[G4893\|συνειδήσεως]]  [[G4190\|πονηρᾶς]]  [[G2532\|καὶ]]  [[G3068\|λελουσμένοι]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G5204\|ὕδατι]]  [[G2513\|καθαρῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic ASSURANCE|ASSURANCE]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic HOLINESS|HOLINESS]] • [[topic PRAYER|PRAYER]] • [[topic PURIFICATION|PURIFICATION]] • [[topic REGENERATION|REGENERATION]] • [[topic SPRINKLING|SPRINKLING]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.21|<< Hebrews 10:21]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.23|Hebrews 10:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Triumphal Entry
+type: Pericope
 pericope: "[[Matt.21.1 The Triumphal Entry|The Triumphal Entry]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 21
 book/chapter: "[[Matt.21|Matthew 21]]"
-genre:
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 11
 verses:
 - "[[Matt.21.1]]"
 - "[[Matt.21.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Matt.21.11]]"
 ---
 
-[[Matt.21|Matthew 21:1 - Matthew 21:11]]
+<small>[[Matt.21|Matthew 21:1-11]]</small>
 *The Triumphal Entry*
 
 [[Matt.21.1|1]] And when they drew nigh unto Jerusalem, and were come to Bethphage, unto the mount of Olives, then sent Jesus two disciples,

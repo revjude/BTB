@@ -1,6 +1,59 @@
+---
+title: LXX Ecclesiastes 1:8
+type: Verse
+lxx: "All  wearied words a man shall not be able  to speak; and the eye shall not be filled up  to see, and the ear shall not be filled of hearing."
+greek: "πάντες οι λόγοι έγκοποι ου δυνήσεται ανήρ του λαλείν και ουκ εμπλησθήσεται οφθαλμός του οράν και ου πληρωθήσεται ους από ακροάσεως"
+original_language: Greek
+testament: Old
+book: Ecclesiastes
+chapter: 1
+book/chapter: "[[Eccl.1|Ecclesiastes 1]]"
+chronological_order: 539
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic EYE|EYE]]"
+- "[[topic MAN|MAN]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G7024]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G0435]]"
+- "[[G3588]]"
+- "[[G2980]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1705]]"
+- "[[G3788]]"
+- "[[G3588]]"
+- "[[G3708]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G4137]]"
+- "[[G3775]]"
+- "[[G0575]]"
+- "[[G6205]]"
+---
+
 **LXX Ecclesiastes 1:8** 
 <small><sub>**LXX:**</sub></small>
 All  wearied words a man shall not be able  to speak; and \[the\] eye shall not be filled up  to see, and \[the\] ear shall not be filled of hearing. 
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πάντες]] [[G3588\|οι]] [[G3056\|λόγοι]] [[G7024\|έγκοποι]] [[G3756\|ου]] [[G1410\|δυνήσεται]] [[G0435\|ανήρ]] [[G3588\|του]] [[G2980\|λαλείν]] [[G2532\|και]] [[G3756\|ουκ]] [[G1705\|εμπλησθήσεται]] [[G3788\|οφθαλμός]] [[G3588\|του]] [[G3708\|οράν]] [[G2532\|και]] [[G3756\|ου]] [[G4137\|πληρωθήσεται]] [[G3775\|ους]] [[G0575\|από]] [[G6205\|ακροάσεως]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic EYE|EYE]] • [[topic MAN|MAN]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Eccl.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.1.7|<< Ecclesiastes 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.1.9|Ecclesiastes 1:9 >>]]</td></tr></table>
 
@@ -27,6 +80,6 @@ All  wearied words a man shall not be able  to speak; and \[the\] eye shall not 
 | \[the\] ear | **<big>[[G3775\|ους]]</big>** |
 | of | **<big>[[G0575\|από]]</big>** |
 | hearing. | **<big>[[G6205\|ακροάσεως]]</big>** |
-[[Eccl.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.1.7|<< Ecclesiastes 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.1.9|Ecclesiastes 1:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.1.7|<< Ecclesiastes 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.1.9|Ecclesiastes 1:9 >>]]</td></tr></table>
 
 

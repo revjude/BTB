@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Faith and Assurance
+type: Pericope
 pericope: "[[Heb.11.1 Faith and Assurance|Faith and Assurance]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 11
 book/chapter: "[[Heb.11|Hebrews 11]]"
-genre:
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 3
 verses:
 - "[[Heb.11.1]]"
 - "[[Heb.11.2]]"
 - "[[Heb.11.3]]"
 ---
 
-[[Heb.11|Hebrews 11:1 - Hebrews 11:3]]
+<small>[[Heb.11|Hebrews 11:1-3]]</small>
 *Faith and Assurance*
 
 [[Heb.11.1|1]] Now faith is the substance of things hoped for, the evidence of things not seen.

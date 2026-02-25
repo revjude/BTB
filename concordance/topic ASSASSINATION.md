@@ -1,17 +1,17 @@
 
 **ASSASSINATION**
 
-→ David's abhorrence of [[2Sam.4.9|2Sa 4:9]]-[[2Sam.4.12|12]]
+→ David's abhorrence of [[2Sam.4.9|2Sa 4:9-12]]
 
 → Laws prohibiting [[Deut.27.24|De 27:24]]
 
 → INSTANCES OF
 
-- Of Eglon, by Ehud [[Judg.3.15|Jud 3:15]]-[[Judg.3.22|22]]
+- Of Eglon, by Ehud [[Judg.3.15|Jud 3:15-22]]
 
 - Abner, by Joab [[2Sam.3.27|2Sa 3:27]]
 
-- Ish-bosheth, by the sons of Rimmon [[2Sam.4.5|2Sa 4:5]]-[[2Sam.4.7|7]]
+- Ish-bosheth, by the sons of Rimmon [[2Sam.4.5|2Sa 4:5-7]]
 
 - Amnon, by Absalom [[2Sam.13.28|2Sa 13:28]],[[2Sam.13.29|29]]
 

@@ -1,10 +1,62 @@
+---
+title: Luke 22:36
+type: Verse
+kjv: "Then said he unto them, But now, he that hath a purse, let him take it, and likewise his scrip: and he that hath no sword, let him sell his garment, and buy one."
+bsb: "“Now, however,” He told them, “the one with a purse should take it, and likewise a bag; and the one without a sword should sell his cloak and buy one."
+jesus_said: "But now, he that hath a purse, let him take it, and likewise his scrip: and he that hath no sword, let him sell his garment, and buy one."
+greek: "εἶπεν δὲ αὐτοῖς· ἀλλὰ νῦν ὁ ἔχων βαλλάντιον ἀράτω, ὁμοίως καὶ πήραν· καὶ ὁ μὴ ἔχων πωλησάτω τὸ ἱμάτιον αὐτοῦ καὶ ἀγορασάτω μάχαιραν."
+pericope: "[[Luke.22.31 Jesus Predicts Peter’s Denial|Jesus Predicts Peter’s Denial]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G0235]]"
+- "[[G3568]]"
+- "[[G3588]]"
+- "[[G2192]]"
+- "[[G0905]]"
+- "[[G0142]]"
+- "[[G3668]]"
+- "[[G2532]]"
+- "[[G4082]]"
+- "[[G3361]]"
+- "[[G4453]]"
+- "[[G2440]]"
+- "[[G0059]]"
+- "[[G3162]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+---
+
 **Luke 22:36**<big><big>[[Luke.22.31 Jesus Predicts Peter’s Denial|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said he unto them, But now, he that hath a purse, let him take [it], and likewise [his] scrip: and he that hath no sword, let him sell his garment, and buy one.
 <small><sub>**BSB:**</sub></small>
 “Now, however,” He told them, “the one with a purse should take it, and likewise a bag; and the one without a sword should sell his cloak and buy one.
-<small><sub>**Literal:**</sub></small>
-He said then to them; But now the [one] having a purse he should take [it], likewise also a bag; and the [one] not having he should sell the cloak of him and he should buy a sword.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.35|<< Luke 22:35]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.37|Luke 22:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῖς·]]  [[G0235\|ἀλλὰ]]  [[G3568\|νῦν]]  [[G3588\|ὁ]]  [[G2192\|ἔχων]]  [[G0905\|βαλλάντιον]]  [[G0142\|ἀράτω,]]  [[G3668\|ὁμοίως]]  [[G2532\|καὶ]]  [[G4082\|πήραν·]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3361\|μὴ]]  [[G2192\|ἔχων]]  [[G4453\|πωλησάτω]]  [[G3588\|τὸ]]  [[G2440\|ἱμάτιον]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G0059\|ἀγορασάτω]]  [[G3162\|μάχαιραν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.35|<< Luke 22:35]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.37|Luke 22:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

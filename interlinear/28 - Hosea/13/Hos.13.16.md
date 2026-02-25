@@ -1,8 +1,61 @@
+---
+title: Hosea 13:16
+type: Verse
+kjv: "Samaria shall become desolate; for she hath rebelled against her God: they shall fall by the sword: their infants shall be dashed in pieces, and their women with child shall be ripped up."
+bsb: "Samaria will bear her guilt because she has rebelled against her God. They will fall by the sword; their little ones will be dashed to pieces, and their pregnant women ripped open."
+hebrew: "תֶּאְשַׁם֙ שֹֽׁמְר֔וֹן כִּ֥י מָרְתָ֖ה בֵּֽאלֹהֶ֑יהָ בַּחֶ֣רֶב יִפֹּ֔לוּ עֹלְלֵיהֶ֣ם יְרֻטָּ֔שׁוּ וְהָרִיּוֹתָ֖יו יְבֻקָּֽעוּ׃ פ"
+pericope: "[[Hos.13.15 Judgment on Samaria|Judgment on Samaria]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 13
+book/chapter: "[[Hos.13|Hosea 13]]"
+chronological_order: 654
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H0816]]"
+- "[[H8111]]"
+- "[[H3588A]]"
+- "[[H4784]]"
+- "[[H9003]]"
+- "[[H0430G]]"
+- "[[H9024]]"
+- "[[H2719]]"
+- "[[H5307J]]"
+- "[[H5768]]"
+- "[[H9028]]"
+- "[[H7376]]"
+- "[[H9002]]"
+- "[[H2030B]]"
+- "[[H9023]]"
+- "[[H1234]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Hosea 13:16**<big><big>[[Hos.13.15 Judgment on Samaria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Samaria shall become desolate; for she hath rebelled against her God: they shall fall by the sword: their infants shall be dashed in pieces, and their women with child shall be ripped up.
 <small><sub>**BSB:**</sub></small>
 Samaria will bear her guilt because she has rebelled against her God. They will fall by the sword; their little ones will be dashed to pieces, and their pregnant women ripped open.
+<small><sub>**Hebrew:**</sub></small>
+[[H0816\|תֶּאְשַׁם֙]] [[H8111\|שֹֽׁמְר֔וֹן]] [[H3588A\|כִּ֥י]] [[H4784\|מָרְתָ֖ה]] [[H9003\|בֵּֽ]][[H0430G\|אלֹהֶ֑י]][[H9024\|הָ]] [[H9003\|בַּ]][[H2719\|חֶ֣רֶב]] [[H5307J\|יִפֹּ֔לוּ]] [[H5768\|עֹלְלֵי]][[H9028\|הֶ֣ם]] [[H7376\|יְרֻטָּ֔שׁוּ]] [[H9002\|וְ]][[H2030B\|הָרִיּוֹתָ֖י]][[H9023\|ו]] [[H1234\|יְבֻקָּֽעוּ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic PERSIA|PERSIA]] • [[topic PRISONERS|PRISONERS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.13.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.15|<< Hosea 13:15]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.14.1|Hosea 14:1 >>]]</td></tr></table>
 
@@ -18,7 +71,7 @@ Samaria will bear her guilt because she has rebelled against her God. They will 
 | children their  |**<big>&#8207;[[H5768\|עֹלְלֵי]]&#8207;&#8207;[[H9028\|הֶ֣ם]]&#8207; </big>**| 'o.le.lei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will be dashed in pieces  |**<big>&#8207;[[H7376\|יְרֻטָּ֔שׁוּ]]&#8207; </big>**| ye.ru.Ta.shu<small><sup>[[HVPi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and pregnant [women] its  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2030B\|הָרִיּוֹתָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.ri.yo.Ta<small><sup>[[HAafpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will be ripped open  |**<big>&#8207;[[H1234\|יְבֻקָּֽעוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ye.vu.Ka.'u<small><sup>[[HVPi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be ripped open  |**<big>&#8207;[[H1234\|יְבֻקָּֽעוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ye.vu.Ka.'u<small><sup>[[HVPi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.15|<< Hosea 13:15]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.14.1|Hosea 14:1 >>]]</td></tr></table>
 
 

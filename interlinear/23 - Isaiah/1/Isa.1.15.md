@@ -1,8 +1,72 @@
+---
+title: Isaiah 1:15
+type: Verse
+kjv: "And when ye spread forth your hands, I will hide mine eyes from you: yea, when ye make many prayers, I will not hear: your hands are full of blood."
+bsb: "When you spread out your hands in prayer, I will hide My eyes from you; even though you multiply your prayers, I will not listen. Your hands are covered with blood."
+hebrew: "וּבְפָרִשְׂכֶ֣ם כַּפֵּיכֶ֗ם אַעְלִ֤ים עֵינַי֙ מִכֶּ֔ם גַּ֛ם כִּֽי־ תַרְבּ֥וּ תְפִלָּ֖ה אֵינֶ֣נִּי שֹׁמֵ֑עַ יְדֵיכֶ֖ם דָּמִ֥ים מָלֵֽאוּ׃"
+pericope: "[[Isa.1.10 Meaningless Offerings|Meaningless Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 1
+book/chapter: "[[Isa.1|Isaiah 1]]"
+chronological_order: 609
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic EYE|EYE]]"
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic ORDINANCE|ORDINANCE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H6566]]"
+- "[[H9046]]"
+- "[[H3709G]]"
+- "[[H9026]]"
+- "[[H5956]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H9036]]"
+- "[[H1571]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7235A]]"
+- "[[H8605]]"
+- "[[H0369]]"
+- "[[H9040]]"
+- "[[H8085G]]"
+- "[[H3027G]]"
+- "[[H1818]]"
+- "[[H4390]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 1:15**<big><big>[[Isa.1.10 Meaningless Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when ye spread forth your hands, I will hide mine eyes from you: yea, when ye make many prayers, I will not hear: your hands are full of blood.
 <small><sub>**BSB:**</sub></small>
 When you spread out your hands in prayer, I will hide My eyes from you; even though you multiply your prayers, I will not listen. Your hands are covered with blood.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H6566\|פָרִשְׂ]][[H9046\|כֶ֣ם]] [[H3709G\|כַּפֵּי]][[H9026\|כֶ֗ם]] [[H5956\|אַעְלִ֤ים]] [[H5869A\|עֵינַ]][[H9020\|י֙]] [[H9006\|מִ]][[H9036\|כֶּ֔ם]] [[H1571\|גַּ֛ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7235A\|תַרְבּ֥וּ]] [[H8605\|תְפִלָּ֖ה]] [[H0369\|אֵינֶ֣]][[H9040\|נִּי]] [[H8085G\|שֹׁמֵ֑עַ]] [[H3027G\|יְדֵי]][[H9026\|כֶ֖ם]] [[H1818\|דָּמִ֥ים]] [[H4390\|מָלֵֽאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic CHURCH|CHURCH]] • [[topic EYE|EYE]] • [[topic FORMALISM|FORMALISM]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic ORDINANCE|ORDINANCE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.14|<< Isaiah 1:14]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.16|Isaiah 1:16 >>]]</td></tr></table>
 

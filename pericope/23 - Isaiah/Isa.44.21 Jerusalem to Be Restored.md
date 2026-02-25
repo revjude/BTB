@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jerusalem to Be Restored
+type: Pericope
 pericope: "[[Isa.44.21 Jerusalem to Be Restored|Jerusalem to Be Restored]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 44
 book/chapter: "[[Isa.44|Isaiah 44]]"
-genre:
+chronological_order: 683
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 8
 verses:
 - "[[Isa.44.21]]"
 - "[[Isa.44.22]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Isa.44.28]]"
 ---
 
-[[Isa.44|Isaiah 44:21 - Isaiah 44:28]]
+<small>[[Isa.44|Isaiah 44:21-28]]</small>
 *Jerusalem to Be Restored*
 
 [[Isa.44.21|21]] Remember these, O Jacob and Israel; for thou \[art\] my servant: I have formed thee; thou \[art\] my servant: O Israel, thou shalt not be forgotten of me.

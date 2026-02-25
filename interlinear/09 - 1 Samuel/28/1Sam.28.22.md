@@ -1,8 +1,68 @@
+---
+title: 1 Samuel 28:22
+type: Verse
+kjv: "Now therefore, I pray thee, hearken thou also unto the voice of thine handmaid, and let me set a morsel of bread before thee; and eat, that thou mayest have strength, when thou goest on thy way."
+bsb: "Now please listen to your servant and let me set a morsel of bread before you so you may eat and have the strength to go on your way.”"
+hebrew: "וְעַתָּ֗ה שְׁמַֽע־ נָ֤א גַם־ אַתָּה֙ בְּק֣וֹל שִׁפְחָתֶ֔ךָ וְאָשִׂ֧מָה לְפָנֶ֛יךָ פַּת־ לֶ֖חֶם וֶאֱכ֑וֹל וִיהִ֤י בְךָ֙ כֹּ֔חַ כִּ֥י תֵלֵ֖ךְ בַּדָּֽרֶךְ׃"
+pericope: "[[1Sam.28.7 Saul and the Medium of Endor|Saul and the Medium of Endor]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 28
+book/chapter: "[[1Sam.28|1 Samuel 28]]"
+chronological_order: 307
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic EN-DOR|EN-DOR]]"
+- "[[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic SORCERY|SORCERY]]"
+- "[[topic WITCHCRAFT|WITCHCRAFT]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H8085H]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H1571]]"
+- "[[H0859A]]"
+- "[[H9003]]"
+- "[[H6963L]]"
+- "[[H8198]]"
+- "[[H9021]]"
+- "[[H7760A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H6595A]]"
+- "[[H3899H]]"
+- "[[H0398]]"
+- "[[H1961]]"
+- "[[H9031]]"
+- "[[H3581B]]"
+- "[[H3588A]]"
+- "[[H1980G]]"
+- "[[H1870L]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 28:22**<big><big>[[1Sam.28.7 Saul and the Medium of Endor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore, I pray thee, hearken thou also unto the voice of thine handmaid, and let me set a morsel of bread before thee; and eat, that thou mayest have strength, when thou goest on thy way.
 <small><sub>**BSB:**</sub></small>
 Now please listen to your servant and let me set a morsel of bread before you so you may eat and have the strength to go on your way.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H8085H\|שְׁמַֽע]][[H9014\|־]] [[H4994\|נָ֤א]] [[H1571\|גַם]][[H9014\|־]] [[H0859A\|אַתָּה֙]] [[H9003\|בְּ]][[H6963L\|ק֣וֹל]] [[H8198\|שִׁפְחָתֶ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H7760A\|אָשִׂ֧מָה]] [[H9005\|לְ]][[H6440G\|פָנֶ֛י]][[H9021\|ךָ]] [[H6595A\|פַּת]][[H9014\|־]] [[H3899H\|לֶ֖חֶם]] [[H9002\|וֶ]][[H0398\|אֱכ֑וֹל]] [[H9002\|וִ]][[H1961\|יהִ֤י]] [[H9003\|בְ]][[H9031\|ךָ֙]] [[H3581B\|כֹּ֔חַ]] [[H3588A\|כִּ֥י]] [[H1980G\|תֵלֵ֖ךְ]] [[H9003\|בַּ]][[H1870L\|דָּֽרֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EN-DOR|EN-DOR]] • [[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]] • [[topic SAUL|SAUL]] • [[topic SORCERY|SORCERY]] • [[topic WITCHCRAFT|WITCHCRAFT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.28.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.28.21|<< 1 Samuel 28:21]]</td><td align="center" style="border:none;">[[1Sam.28|1 Samuel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.28.23|1 Samuel 28:23 >>]]</td></tr></table>
 

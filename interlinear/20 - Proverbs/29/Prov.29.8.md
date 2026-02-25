@@ -1,8 +1,52 @@
+---
+title: Proverbs 29:8
+type: Verse
+kjv: "Scornful men bring a city into a snare: but wise men turn away wrath."
+bsb: "Mockers inflame a city, but the wise turn away anger."
+hebrew: "אַנְשֵׁ֣י לָ֭צוֹן יָפִ֣יחוּ קִרְיָ֑ה וַ֝חֲכָמִ֗ים יָשִׁ֥יבוּ אָֽף׃"
+pericope: "[[Prov.29.1 The Flourishing of the Righteous|The Flourishing of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 29
+book/chapter: "[[Prov.29|Proverbs 29]]"
+chronological_order: 484
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H0582]]"
+- "[[H3944]]"
+- "[[H6315]]"
+- "[[H7151]]"
+- "[[H9002]]"
+- "[[H2450]]"
+- "[[H7725I]]"
+- "[[H0639G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 29:8**<big><big>[[Prov.29.1 The Flourishing of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Scornful men bring a city into a snare: but wise [men] turn away wrath.
 <small><sub>**BSB:**</sub></small>
 Mockers inflame a city, but the wise turn away anger.
+<small><sub>**Hebrew:**</sub></small>
+[[H0582\|אַנְשֵׁ֣י]] [[H3944\|לָ֭צוֹן]] [[H6315\|יָפִ֣יחוּ]] [[H7151\|קִרְיָ֑ה]] [[H9002\|וַ֝]][[H2450\|חֲכָמִ֗ים]] [[H7725I\|יָשִׁ֥יבוּ]] [[H0639G\|אָֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic MEEKNESS|MEEKNESS]] • [[topic PRIDE|PRIDE]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.7|<< Proverbs 29:7]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.9|Proverbs 29:9 >>]]</td></tr></table>
 

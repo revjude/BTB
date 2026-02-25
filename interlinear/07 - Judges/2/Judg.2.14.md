@@ -1,8 +1,70 @@
+---
+title: Judges 2:14
+type: Verse
+kjv: "And the anger of the LORD was hot against Israel, and he delivered them into the hands of spoilers that spoiled them, and he sold them into the hands of their enemies round about, so that they could not any longer stand before their enemies."
+bsb: "Then the anger of the LORD burned against Israel, and He delivered them into the hands of those who plundered them. He sold them into the hands of their enemies all around, whom they were no longer able to resist."
+hebrew: "וַיִּֽחַר־ אַ֤ף יְהוָה֙ בְּיִשְׂרָאֵ֔ל וַֽיִּתְּנֵם֙ בְּיַד־ שֹׁסִ֔ים וַיָּשֹׁ֖סּוּ אוֹתָ֑ם וַֽיִּמְכְּרֵ֞ם בְּיַ֤ד אֽוֹיְבֵיהֶם֙ מִסָּבִ֔יב וְלֹֽא־ יָכְל֣וּ ע֔וֹד לַעֲמֹ֖ד לִפְנֵ֥י אוֹיְבֵיהֶֽם׃"
+pericope: "[[Judg.2.10 Israel’s Unfaithfulness|Israel’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 2
+book/chapter: "[[Judg.2|Judges 2]]"
+chronological_order: 256
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BAAL|BAAL]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H2734]]"
+- "[[H9014]]"
+- "[[H0639G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H3027K]]"
+- "[[H8154]]"
+- "[[H8155]]"
+- "[[H0853]]"
+- "[[H4376]]"
+- "[[H3027H]]"
+- "[[H0341]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H5439G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H5750]]"
+- "[[H9005]]"
+- "[[H5975G]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 2:14**<big><big>[[Judg.2.10 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the anger of the LORD was hot against Israel, and he delivered them into the hands of spoilers that spoiled them, and he sold them into the hands of their enemies round about, so that they could not any longer stand before their enemies.
 <small><sub>**BSB:**</sub></small>
 Then the anger of the LORD burned against Israel, and He delivered them into the hands of those who plundered them. He sold them into the hands of their enemies all around, whom they were no longer able to resist.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2734\|יִּֽחַר]][[H9014\|־]] [[H0639G\|אַ֤ף]] [[H3068G\|יְהוָה֙]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וַֽ]][[H5414G\|יִּתְּנֵ]][[H9038\|ם֙]] [[H9003\|בְּ]][[H3027K\|יַד]][[H9014\|־]] [[H8154\|שֹׁסִ֔ים]] [[H9001\|וַ]][[H8155\|יָּשֹׁ֖סּוּ]] [[H0853\|אוֹתָ֑]][[H9038\|ם]] [[H9001\|וַֽ]][[H4376\|יִּמְכְּרֵ֞]][[H9038\|ם]] [[H9003\|בְּ]][[H3027H\|יַ֤ד]] [[H0341\|אֽוֹיְבֵי]][[H9028\|הֶם֙]] [[H9006\|מִ]][[H5439G\|סָּבִ֔יב]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3201\|יָכְל֣וּ]] [[H5750\|ע֔וֹד]] [[H9005\|לַ]][[H5975G\|עֲמֹ֖ד]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H0341\|אוֹיְבֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL|BAAL]] • [[topic ISRAEL|ISRAEL]] • [[topic OPPRESSION|OPPRESSION]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.2.13|<< Judges 2:13]]</td><td align="center" style="border:none;">[[Judg.2|Judges 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.2.15|Judges 2:15 >>]]</td></tr></table>
 

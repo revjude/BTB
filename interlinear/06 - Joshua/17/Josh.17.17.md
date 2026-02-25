@@ -1,8 +1,66 @@
+---
+title: Joshua 17:17
+type: Verse
+kjv: "And Joshua spake unto the house of Joseph, even to Ephraim and to Manasseh, saying, Thou art a great people, and hast great power: thou shalt not have one lot only:"
+bsb: "So Joshua said to the house of Joseph—to Ephraim and Manasseh—“You have many people and great strength. You shall not have just one allotment,"
+hebrew: "וַיֹּ֤אמֶר יְהוֹשֻׁ֙עַ֙ אֶל־ בֵּ֣ית יוֹסֵ֔ף לְאֶפְרַ֥יִם וְלִמְנַשֶּׁ֖ה לֵאמֹ֑ר עַם־ רַ֣ב אַתָּ֗ה וְכֹ֤חַ גָּדוֹל֙ לָ֔ךְ לֹֽא־ יִהְיֶ֥ה לְךָ֖ גּוֹרָ֥ל אֶחָֽד׃"
+pericope: "[[Josh.17.1 Manasseh’s Western Inheritance|Manasseh’s Western Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 17
+book/chapter: "[[Josh.17|Joshua 17]]"
+chronological_order: 247
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AVARICE|AVARICE]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3091G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H3130G]]"
+- "[[H9005]]"
+- "[[H0669G]]"
+- "[[H9002]]"
+- "[[H4519G]]"
+- "[[H5971A]]"
+- "[[H7227A]]"
+- "[[H0859A]]"
+- "[[H3581B]]"
+- "[[H1419A]]"
+- "[[H9032]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H9031]]"
+- "[[H1486]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 17:17**<big><big>[[Josh.17.1 Manasseh’s Western Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua spake unto the house of Joseph, [even] to Ephraim and to Manasseh, saying, Thou [art] a great people, and hast great power: thou shalt not have one lot [only]:
 <small><sub>**BSB:**</sub></small>
 So Joshua said to the house of Joseph—to Ephraim and Manasseh—“You have many people and great strength. You shall not have just one allotment,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3091G\|יְהוֹשֻׁ֙עַ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H3130G\|יוֹסֵ֔ף]] [[H9005\|לְ]][[H0669G\|אֶפְרַ֥יִם]] [[H9002\|וְ]][[H9005\|לִ]][[H4519G\|מְנַשֶּׁ֖ה]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H5971A\|עַם]][[H9014\|־]] [[H7227A\|רַ֣ב]] [[H0859A\|אַתָּ֗ה]] [[H9002\|וְ]][[H3581B\|כֹ֤חַ]] [[H1419A\|גָּדוֹל֙]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|יִהְיֶ֥ה]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H1486\|גּוֹרָ֥ל]] [[H0259\|אֶחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVARICE|AVARICE]] • [[topic CANAANITES|CANAANITES]] • [[topic COWARDICE|COWARDICE]] • [[topic EPHRAIM|EPHRAIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.17.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17.16|<< Joshua 17:16]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.17.18|Joshua 17:18 >>]]</td></tr></table>
 

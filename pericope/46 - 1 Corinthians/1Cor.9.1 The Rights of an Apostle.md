@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Rights of an Apostle
+type: Pericope
 pericope: "[[1Cor.9.1 The Rights of an Apostle|The Rights of an Apostle]]"
-verse_count: 18
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 9
 book/chapter: "[[1Cor.9|1 Corinthians 9]]"
-genre:
+chronological_order: 1066
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 18
 verses:
 - "[[1Cor.9.1]]"
 - "[[1Cor.9.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[1Cor.9.18]]"
 ---
 
-[[1Cor.9|1 Corinthians 9:1 - 1 Corinthians 9:18]]
+<small>[[1Cor.9|1 Corinthians 9:1-18]]</small>
 *The Rights of an Apostle*
 
 [[1Cor.9.1|1]] Am I not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord?

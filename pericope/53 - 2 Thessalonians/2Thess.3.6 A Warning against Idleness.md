@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Warning against Idleness
+type: Pericope
 pericope: "[[2Thess.3.6 A Warning against Idleness|A Warning against Idleness]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: 2 Thessalonians
 chapter: 3
 book/chapter: "[[2Thess.3|2 Thessalonians 3]]"
-genre:
+chronological_order: 1055
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - eschatological
+verse_count: 10
 verses:
 - "[[2Thess.3.6]]"
 - "[[2Thess.3.7]]"
@@ -28,7 +35,7 @@ verses:
 - "[[2Thess.3.15]]"
 ---
 
-[[2Thess.3|2 Thessalonians 3:6 - 2 Thessalonians 3:15]]
+<small>[[2Thess.3|2 Thessalonians 3:6-15]]</small>
 *A Warning against Idleness*
 
 [[2Thess.3.6|6]] Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us.

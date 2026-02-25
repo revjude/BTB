@@ -1,10 +1,53 @@
+---
+title: Acts 19:28
+type: Verse
+kjv: "And when they heard these sayings, they were full of wrath, and cried out, saying, Great is Diana of the Ephesians."
+bsb: "When the men heard this, they were enraged and began shouting, “Great is Artemis of the Ephesians!”"
+greek: "Ἀκούσαντες δὲ καὶ γενόμενοι πλήρεις θυμοῦ ἔκραζον λέγοντες· μεγάλη ἡ Ἄρτεμις Ἐφεσίων."
+pericope: "[[Acts.19.21 The Riot in Ephesus|The Riot in Ephesus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DEMETRIUS|DEMETRIUS]]"
+- "[[topic DIANA|DIANA]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G0191]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G4134]]"
+- "[[G2372]]"
+- "[[G2896]]"
+- "[[G3004G]]"
+- "[[G3173]]"
+- "[[G3588]]"
+- "[[G0735]]"
+- "[[G2180]]"
+texts:
+- NKO
+---
+
 **Acts 19:28**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they heard [these sayings], they were full of wrath, and cried out, saying, Great [is] Diana of the Ephesians.
 <small><sub>**BSB:**</sub></small>
 When the men heard this, they were enraged and began shouting, “Great is Artemis of the Ephesians!”
-<small><sub>**Literal:**</sub></small>
-Having heard then and having become full of rage they were crying out saying; Great [is] <the> Artemis of [the] Ephesians.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.27|<< Acts 19:27]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.29|Acts 19:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|Ἀκούσαντες]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G1096\|γενόμενοι]]  [[G4134\|πλήρεις]]  [[G2372\|θυμοῦ]]  [[G2896\|ἔκραζον]]  [[G3004G\|λέγοντες·]]  [[G3173\|μεγάλη]]  [[G3588\|ἡ]]  [[G0735\|Ἄρτεμις]]  [[G2180\|Ἐφεσίων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMETRIUS|DEMETRIUS]] • [[topic DIANA|DIANA]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.27|<< Acts 19:27]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.29|Acts 19:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

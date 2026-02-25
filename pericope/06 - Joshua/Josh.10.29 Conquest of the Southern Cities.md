@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Conquest of the Southern Cities
+type: Pericope
 pericope: "[[Josh.10.29 Conquest of the Southern Cities|Conquest of the Southern Cities]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 10
 book/chapter: "[[Josh.10|Joshua 10]]"
-genre:
+chronological_order: 240
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 15
 verses:
 - "[[Josh.10.29]]"
 - "[[Josh.10.30]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Josh.10.43]]"
 ---
 
-[[Josh.10|Joshua 10:29 - Joshua 10:43]]
+<small>[[Josh.10|Joshua 10:29-43]]</small>
 *Conquest of the Southern Cities*
 
 [[Josh.10.29|29]] Then Joshua passed from Makkedah, and all Israel with him, unto Libnah, and fought against Libnah:

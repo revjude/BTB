@@ -1,10 +1,53 @@
+---
+title: Mark 8:24
+type: Verse
+kjv: "And he looked up, and said, I see men as trees, walking."
+bsb: "The man looked up and said, “I can see the people, but they look like trees walking around.”"
+greek: "καὶ ἀναβλέψας ἔλεγεν· βλέπω τοὺς ἀνθρώπους ὅτι ὡς δένδρα ὁρῶ περιπατοῦντας."
+pericope: "[[Mark.8.22 The Blind Man at Bethsaida|The Blind Man at Bethsaida]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G0308]]"
+- "[[G3004G]]"
+- "[[G0991]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G3754G]]"
+- "[[G5613]]"
+- "[[G1186]]"
+- "[[G3708]]"
+- "[[G4043]]"
+texts:
+- NKO
+---
+
 **Mark 8:24**<big><big>[[Mark.8.22 The Blind Man at Bethsaida|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he looked up, and said, I see men as trees, walking.
 <small><sub>**BSB:**</sub></small>
 The man looked up and said, “I can see the people, but they look like trees walking around.”
-<small><sub>**Literal:**</sub></small>
-And having looked up he was saying; I see the men for as trees I see [them] walking.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.23|<< Mark 8:23]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.25|Mark 8:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0308\|ἀναβλέψας]]  [[G3004G\|ἔλεγεν·]]  [[G0991\|βλέπω]]  [[G3588\|τοὺς]]  [[G0444\|ἀνθρώπους]]  [[G3754G\|ὅτι]]  [[G5613\|ὡς]]  [[G1186\|δένδρα]]  [[G3708\|ὁρῶ]]  [[G4043\|περιπατοῦντας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.23|<< Mark 8:23]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.25|Mark 8:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

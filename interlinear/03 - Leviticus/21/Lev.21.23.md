@@ -1,8 +1,70 @@
+---
+title: Leviticus 21:23
+type: Verse
+kjv: "Only he shall not go in unto the vail, nor come nigh unto the altar, because he hath a blemish; that he profane not my sanctuaries: for I the LORD do sanctify them."
+bsb: "but because he has a defect, he must not go near the veil or approach the altar, so as not to desecrate My sanctuaries. For I am the LORD who sanctifies them.’”"
+hebrew: "אַ֣ךְ אֶל־ הַפָּרֹ֜כֶת לֹ֣א יָבֹ֗א וְאֶל־ הַמִּזְבֵּ֛חַ לֹ֥א יִגַּ֖שׁ כִּֽי־ מ֣וּם בּ֑וֹ וְלֹ֤א יְחַלֵּל֙ אֶת־ מִקְדָּשַׁ֔י כִּ֛י אֲנִ֥י יְהוָ֖ה מְקַדְּשָֽׁם׃"
+pericope: "[[Lev.21.16 Restrictions against Those with Blemishes|Restrictions against Those with Blemishes]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 21
+book/chapter: "[[Lev.21|Leviticus 21]]"
+chronological_order: 153
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLEMISH|BLEMISH]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+strongs:
+- "[[H0389]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6532]]"
+- "[[H3808]]"
+- "[[H0935G]]"
+- "[[H9002]]"
+- "[[H4196]]"
+- "[[H5066G]]"
+- "[[H3588A]]"
+- "[[H3971B]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H2490H]]"
+- "[[H0853]]"
+- "[[H4720]]"
+- "[[H9020]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H6942G]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 21:23**<big><big>[[Lev.21.16 Restrictions against Those with Blemishes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only he shall not go in unto the vail, nor come nigh unto the altar, because he hath a blemish; that he profane not my sanctuaries: for I the LORD do sanctify them.
 <small><sub>**BSB:**</sub></small>
 but because he has a defect, he must not go near the veil or approach the altar, so as not to desecrate My sanctuaries. For I am the LORD who sanctifies them.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַ֣ךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H6532\|פָּרֹ֜כֶת]] [[H3808\|לֹ֣א]] [[H0935G\|יָבֹ֗א]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֛חַ]] [[H3808\|לֹ֥א]] [[H5066G\|יִגַּ֖שׁ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3971B\|מ֣וּם]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H2490H\|יְחַלֵּל֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4720\|מִקְדָּשַׁ֔]][[H9020\|י]] [[H3588A\|כִּ֛י]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָ֖ה]] [[H6942G\|מְקַדְּשָֽׁ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLEMISH|BLEMISH]] • [[topic PRIEST|PRIEST]] • [[topic SANCTIFICATION|SANCTIFICATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.21.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.21.22|<< Leviticus 21:22]]</td><td align="center" style="border:none;">[[Lev.21|Leviticus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.21.24|Leviticus 21:24 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Nehemiah 13:28
+type: Verse
+kjv: "And one of the sons of Joiada, the son of Eliashib the high priest, was son in law to Sanballat the Horonite: therefore I chased him from me."
+bsb: "Even one of the sons of Jehoiada son of Eliashib the high priest had become a son-in-law to Sanballat the Horonite. Therefore I drove him away from me."
+hebrew: "וּמִבְּנֵ֨י יוֹיָדָ֤ע בֶּן־ אֶלְיָשִׁיב֙ הַכֹּהֵ֣ן הַגָּד֔וֹל חָתָ֖ן לְסַנְבַלַּ֣ט הַחֹרֹנִ֑י וָאַבְרִיחֵ֖הוּ מֵעָלָֽי׃"
+pericope: "[[Neh.13.23 Intermarriage Forbidden|Intermarriage Forbidden]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 13
+book/chapter: "[[Neh.13|Nehemiah 13]]"
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic ELIASHIB|ELIASHIB]]"
+- "[[topic JOIADA|JOIADA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SANBALLAT|SANBALLAT]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H1121A]]"
+- "[[H3111H]]"
+- "[[H9014]]"
+- "[[H0475N]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H1419A]]"
+- "[[H2860]]"
+- "[[H9005]]"
+- "[[H5571]]"
+- "[[H2772]]"
+- "[[H9001]]"
+- "[[H1272]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 13:28**<big><big>[[Neh.13.23 Intermarriage Forbidden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [one] of the sons of Joiada, the son of Eliashib the high priest, [was] son in law to Sanballat the Horonite: therefore I chased him from me.
 <small><sub>**BSB:**</sub></small>
 Even one of the sons of Jehoiada son of Eliashib the high priest had become a son-in-law to Sanballat the Horonite. Therefore I drove him away from me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H1121A\|בְּנֵ֨י]] [[H3111H\|יוֹיָדָ֤ע]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0475N\|אֶלְיָשִׁיב֙]] [[H9009\|הַ]][[H3548\|כֹּהֵ֣ן]] [[H9009\|הַ]][[H1419A\|גָּד֔וֹל]] [[H2860\|חָתָ֖ן]] [[H9005\|לְ]][[H5571\|סַנְבַלַּ֣ט]] [[H9009\|הַ]][[H2772\|חֹרֹנִ֑י]] [[H9001\|וָ]][[H1272\|אַבְרִיחֵ֖]][[H9033\|הוּ]] [[H9006\|מֵ]][[H5921A\|עָלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIVORCE|DIVORCE]] • [[topic ELIASHIB|ELIASHIB]] • [[topic JOIADA|JOIADA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]] • [[topic SANBALLAT|SANBALLAT]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.27|<< Nehemiah 13:27]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.29|Nehemiah 13:29 >>]]</td></tr></table>
 

@@ -1,6 +1,62 @@
+---
+title: LXX 1 Samuel 13:8
+type: Verse
+lxx: "And he stopped seven days, according to the testimony as Samuel said. And Samuel did not come unto Gilgal, and his people scattered from him."
+greek: "και διέλιπεν επτά ημέρας τω μαρτυρίω ως είπε Σαμουήλ και ου παρεγένετο Σαμουήλ εις Γάλγαλα και διεσπάρη ο λαός αυτού απ΄ αυτού"
+original_language: Greek
+testament: Old
+book: 1 Samuel
+chapter: 13
+book/chapter: "[[1Sam.13|1 Samuel 13]]"
+chronological_order: 292
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1257]]"
+- "[[G2033]]"
+- "[[G2250]]"
+- "[[G3588]]"
+- "[[G3142]]"
+- "[[G5613]]"
+- "[[G2036]]"
+- "[[G4545]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G3854]]"
+- "[[G4545]]"
+- "[[G1519]]"
+- "[[H1537]]"
+- "[[G2532]]"
+- "[[G1289]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G1473]]"
+- "[[G0575]]"
+- "[[G1473]]"
+---
+
 **LXX 1 Samuel 13:8** 
 <small><sub>**LXX:**</sub></small>
 And he stopped seven days, \[according\] to the testimony as Samuel said. And Samuel did not come unto Gilgal, and his people scattered from him. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1257\|διέλιπεν]] [[G2033\|επτά]] [[G2250\|ημέρας]] [[G3588\|τω]] [[G3142\|μαρτυρίω]] [[G5613\|ως]] [[G2036\|είπε]] [[G4545\|Σαμουήλ]] [[G2532\|και]] [[G3756\|ου]] [[G3854\|παρεγένετο]] [[G4545\|Σαμουήλ]] [[G1519\|εις]] [[H1537\|Γάλγαλα]] [[G2532\|και]] [[G1289\|διεσπάρη]] [[G3588\|ο]] [[G2992\|λαός]] [[G1473\|αυτού]] [[G0575\|απ΄]] [[G1473\|αυτού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic GILGAL|GILGAL]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic SEVEN|SEVEN]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Sam.13.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.7|<< 1 Samuel 13:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.9|1 Samuel 13:9 >>]]</td></tr></table>
 
@@ -26,6 +82,6 @@ And he stopped seven days, \[according\] to the testimony as Samuel said. And Sa
 | his people | **<big>[[G2992\|λαός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 | from | **<big>[[G0575\|απ΄]]</big>** |
 | him. | **<big>[[G1473\|αυτού]]</big>** |
-[[1Sam.13.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.7|<< 1 Samuel 13:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.9|1 Samuel 13:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.7|<< 1 Samuel 13:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.9|1 Samuel 13:9 >>]]</td></tr></table>
 
 

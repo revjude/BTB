@@ -1,10 +1,65 @@
+---
+title: 1 Thessalonians 4:17
+type: Verse
+kjv: "Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord."
+bsb: "After that, we who are alive and remain will be caught up together with them in the clouds to meet the Lord in the air. And so we will always be with the Lord."
+greek: "ἔπειτα ἡμεῖς οἱ ζῶντες οἱ περιλειπόμενοι ἅμα σὺν αὐτοῖς ἁρπαγησόμεθα ἐν νεφέλαις εἰς ἀπάντησιν τοῦ κυρίου εἰς ἀέρα· καὶ οὕτως πάντοτε σὺν κυρίῳ ἐσόμεθα.¶"
+pericope: "[[1Thess.4.13 The Return of the Lord|The Return of the Lord]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 4
+book/chapter: "[[1Thess.4|1 Thessalonians 4]]"
+chronological_order: 1051
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BEREAVEMENT|BEREAVEMENT]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G1899]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G2198]]"
+- "[[G4035]]"
+- "[[G0260]]"
+- "[[G4862]]"
+- "[[G0846]]"
+- "[[G0726]]"
+- "[[G1722]]"
+- "[[G3507]]"
+- "[[G1519]]"
+- "[[G0529]]"
+- "[[G2962G]]"
+- "[[G0109]]"
+- "[[G2532]]"
+- "[[G3779]]"
+- "[[G3842]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **1 Thessalonians 4:17**<big><big>[[1Thess.4.13 The Return of the Lord|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then we which are alive [and] remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.
 <small><sub>**BSB:**</sub></small>
 After that, we who are alive and remain will be caught up together with them in the clouds to meet the Lord in the air. And so we will always be with the Lord.
-<small><sub>**Literal:**</sub></small>
-Then we ourselves the living those remaining together with them we will be caught away in [the] clouds for [the] meeting of the Lord in [the] air; and so always with [the] Lord we will be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.16|<< 1 Thessalonians 4:16]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.18|1 Thessalonians 4:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1899\|ἔπειτα]]  [[G3165\|ἡμεῖς]]  [[G3588\|οἱ]]  [[G2198\|ζῶντες]]  [[G3588\|οἱ]]  [[G4035\|περιλειπόμενοι]]  [[G0260\|ἅμα]]  [[G4862\|σὺν]]  [[G0846\|αὐτοῖς]]  [[G0726\|ἁρπαγησόμεθα]]  [[G1722\|ἐν]]  [[G3507\|νεφέλαις]]  [[G1519\|εἰς]]  [[G0529\|ἀπάντησιν]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G1519\|εἰς]]  [[G0109\|ἀέρα·]]  [[G2532\|καὶ]]  [[G3779\|οὕτως]]  [[G3842\|πάντοτε]]  [[G4862\|σὺν]]  [[G2962G\|κυρίῳ]]  [[G1510\|ἐσόμεθα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BEREAVEMENT|BEREAVEMENT]] • [[topic DEATH|DEATH]] • [[topic HEAVEN|HEAVEN]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.16|<< 1 Thessalonians 4:16]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.18|1 Thessalonians 4:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

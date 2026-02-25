@@ -1,8 +1,57 @@
+---
+title: Leviticus 17:3
+type: Verse
+kjv: "What man soever there be of the house of Israel, that killeth an ox, or lamb, or goat, in the camp, or that killeth it out of the camp,"
+bsb: "‘Anyone from the house of Israel who slaughters an ox, a lamb, or a goat in the camp or outside of it"
+hebrew: "אִ֥ישׁ אִישׁ֙ מִבֵּ֣ית יִשְׂרָאֵ֔ל אֲשֶׁ֨ר יִשְׁחַ֜ט שׁ֥וֹר אוֹ־ כֶ֛שֶׂב אוֹ־ עֵ֖ז בַּֽמַּחֲנֶ֑ה א֚וֹ אֲשֶׁ֣ר יִשְׁחַ֔ט מִח֖וּץ לַֽמַּחֲנֶֽה׃"
+pericope: "[[Lev.17.1 The Place of Sacrifice|The Place of Sacrifice]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 17
+book/chapter: "[[Lev.17|Leviticus 17]]"
+chronological_order: 149
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+strongs:
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H7819A]]"
+- "[[H7794]]"
+- "[[H0176A]]"
+- "[[H9014]]"
+- "[[H3775]]"
+- "[[H5795]]"
+- "[[H9003]]"
+- "[[H4264]]"
+- "[[H2351]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 17:3**<big><big>[[Lev.17.1 The Place of Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What man soever [there be] of the house of Israel, that killeth an ox, or lamb, or goat, in the camp, or that killeth [it] out of the camp,
 <small><sub>**BSB:**</sub></small>
 ‘Anyone from the house of Israel who slaughters an ox, a lamb, or a goat in the camp or outside of it
+<small><sub>**Hebrew:**</sub></small>
+[[H0376G\|אִ֥ישׁ]] [[H0376G\|אִישׁ֙]] [[H9006\|מִ]][[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0834A\|אֲשֶׁ֨ר]] [[H7819A\|יִשְׁחַ֜ט]] [[H7794\|שׁ֥וֹר]] [[H0176A\|אוֹ]][[H9014\|־]] [[H3775\|כֶ֛שֶׂב]] [[H0176A\|אוֹ]][[H9014\|־]] [[H5795\|עֵ֖ז]] [[H9003\|בַּֽ]][[H4264\|מַּחֲנֶ֑ה]] [[H0176A\|א֚וֹ]] [[H0834A\|אֲשֶׁ֣ר]] [[H7819A\|יִשְׁחַ֔ט]] [[H9006\|מִ]][[H2351\|ח֖וּץ]] [[H9005\|לַֽ]][[H4264\|מַּחֲנֶֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.17.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.17.2|<< Leviticus 17:2]]</td><td align="center" style="border:none;">[[Lev.17|Leviticus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.17.4|Leviticus 17:4 >>]]</td></tr></table>
 

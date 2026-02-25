@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Peace Offering
+type: Pericope
 pericope: "[[Lev.7.11 The Peace Offering|The Peace Offering]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 7
 book/chapter: "[[Lev.7|Leviticus 7]]"
-genre:
+chronological_order: 139
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 11
 verses:
 - "[[Lev.7.11]]"
 - "[[Lev.7.12]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Lev.7.21]]"
 ---
 
-[[Lev.7|Leviticus 7:11 - Leviticus 7:21]]
+<small>[[Lev.7|Leviticus 7:11-21]]</small>
 *The Peace Offering*
 
 [[Lev.7.11|11]] And this \[is\] the law of the sacrifice of peace offerings, which he shall offer unto the LORD.

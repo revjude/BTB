@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Birth of Perez and Zerah
+type: Pericope
 pericope: "[[Gen.38.27 The Birth of Perez and Zerah|The Birth of Perez and Zerah]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 38
 book/chapter: "[[Gen.38|Genesis 38]]"
-genre:
+chronological_order: 80
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 4
 verses:
 - "[[Gen.38.27]]"
 - "[[Gen.38.28]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Gen.38.30]]"
 ---
 
-[[Gen.38|Genesis 38:27 - Genesis 38:30]]
+<small>[[Gen.38|Genesis 38:27-30]]</small>
 *The Birth of Perez and Zerah*
 
 [[Gen.38.27|27]] And it came to pass in the time of her travail, that, behold, twins \[were\] in her womb.

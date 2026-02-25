@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Reproof of False Prophetesses
+type: Pericope
 pericope: "[[Ezek.13.17 Reproof of False Prophetesses|Reproof of False Prophetesses]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 13
 book/chapter: "[[Ezek.13|Ezekiel 13]]"
-genre:
+chronological_order: 804
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 7
 verses:
 - "[[Ezek.13.17]]"
 - "[[Ezek.13.18]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Ezek.13.23]]"
 ---
 
-[[Ezek.13|Ezekiel 13:17 - Ezekiel 13:23]]
+<small>[[Ezek.13|Ezekiel 13:17-23]]</small>
 *Reproof of False Prophetesses*
 
 [[Ezek.13.17|17]] Likewise, thou son of man, set thy face against the daughters of thy people, which prophesy out of their own heart; and prophesy thou against them,

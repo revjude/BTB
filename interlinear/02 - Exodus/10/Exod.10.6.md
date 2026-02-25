@@ -1,8 +1,74 @@
+---
+title: Exodus 10:6
+type: Verse
+kjv: "And they shall fill thy houses, and the houses of all thy servants, and the houses of all the Egyptians; which neither thy fathers, nor thy fathers’ fathers have seen, since the day that they were upon the earth unto this day. And he turned himself, and went out from Pharaoh."
+bsb: "They will fill your houses and the houses of all your officials and every Egyptian—something neither your fathers nor your grandfathers have seen since the day they came into this land.’” Then Moses turned and left Pharaoh’s presence."
+hebrew: "וּמָלְא֨וּ בָתֶּ֜יךָ וּבָתֵּ֣י כָל־ עֲבָדֶיךָ֮ וּבָתֵּ֣י כָל־ מִצְרַיִם֒ אֲשֶׁ֨ר לֹֽא־ רָא֤וּ אֲבֹתֶ֙יךָ֙ וַאֲב֣וֹת אֲבֹתֶ֔יךָ מִיּ֗וֹם הֱיוֹתָם֙ עַל־ הָ֣אֲדָמָ֔ה עַ֖ד הַיּ֣וֹם הַזֶּ֑ה וַיִּ֥פֶן וַיֵּצֵ֖א מֵעִ֥ם פַּרְעֹֽה׃"
+pericope: "[[Exod.10.1 The Eighth Plague：Locusts|The Eighth Plague：Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 10
+book/chapter: "[[Exod.10|Exodus 10]]"
+chronological_order: 102
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H4390]]"
+- "[[H1004B]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H4713]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H0001G]]"
+- "[[H9006]]"
+- "[[H3117G]]"
+- "[[H1961]]"
+- "[[H9048]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H0127I]]"
+- "[[H5704]]"
+- "[[H2088]]"
+- "[[H6437G]]"
+- "[[H3318G]]"
+- "[[H5973B]]"
+- "[[H6547J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 10:6**<big><big>[[Exod.10.1 The Eighth Plague：Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall fill thy houses, and the houses of all thy servants, and the houses of all the Egyptians; which neither thy fathers, nor thy fathers’ fathers have seen, since the day that they were upon the earth unto this day. And he turned himself, and went out from Pharaoh.
 <small><sub>**BSB:**</sub></small>
 They will fill your houses and the houses of all your officials and every Egyptian—something neither your fathers nor your grandfathers have seen since the day they came into this land.’” Then Moses turned and left Pharaoh’s presence.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H4390\|מָלְא֨וּ]] [[H1004B\|בָתֶּ֜י]][[H9021\|ךָ]] [[H9002\|וּ]][[H1004B\|בָתֵּ֣י]] [[H3605\|כָל]][[H9014\|־]] [[H5650\|עֲבָדֶי]][[H9021\|ךָ֮]] [[H9002\|וּ]][[H1004B\|בָתֵּ֣י]] [[H3605\|כָל]][[H9014\|־]] [[H4713\|מִצְרַיִם֒]] [[H0834A\|אֲשֶׁ֨ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7200G\|רָא֤וּ]] [[H0001G\|אֲבֹתֶ֙י]][[H9021\|ךָ֙]] [[H9002\|וַ]][[H0001G\|אֲב֣וֹת]] [[H0001G\|אֲבֹתֶ֔י]][[H9021\|ךָ]] [[H9006\|מִ]][[H3117G\|יּ֗וֹם]] [[H1961\|הֱיוֹתָ]][[H9048\|ם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ֣]][[H0127I\|אֲדָמָ֔ה]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9001\|וַ]][[H6437G\|יִּ֥פֶן]] [[H9001\|וַ]][[H3318G\|יֵּצֵ֖א]] [[H9006\|מֵ]][[H5973B\|עִ֥ם]] [[H6547J\|פַּרְעֹֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic LOCUST|LOCUST]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.5|<< Exodus 10:5]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.7|Exodus 10:7 >>]]</td></tr></table>
 

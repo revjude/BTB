@@ -1,8 +1,76 @@
+---
+title: Deuteronomy 5:9
+type: Verse
+kjv: "Thou shalt not bow down thyself unto them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me,"
+bsb: "You shall not bow down to them or worship them; for I, the LORD your God, am a jealous God, visiting the iniquity of the fathers on their children to the third and fourth generations of those who hate Me,"
+hebrew: "לֹא־ תִשְׁתַּחֲוֶ֥֣ה לָהֶ֖ם֮ וְלֹ֣א תָעָבְדֵ֑ם֒ כִּ֣י אָנֹכִ֞י יְהוָ֤ה אֱלֹהֶ֙יךָ֙ אֵ֣ל קַנָּ֔א פֹּ֠קֵד עֲוֹ֨ן אָב֧וֹת עַל־ בָּנִ֛ים וְעַל־ שִׁלֵּשִׁ֥ים וְעַל־ רִבֵּעִ֖ים לְשֹׂנְאָֽ֑י׃"
+pericope: "[[Deut.5.5 The Ten Commandments|The Ten Commandments]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 5
+book/chapter: "[[Deut.5|Deuteronomy 5]]"
+chronological_order: 201
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic TABLE|TABLE]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7812]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H5647H]]"
+- "[[H3588A]]"
+- "[[H0595]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0410G]]"
+- "[[H7067H]]"
+- "[[H6485I]]"
+- "[[H5771G]]"
+- "[[H0001G]]"
+- "[[H5921A]]"
+- "[[H1121A]]"
+- "[[H8029]]"
+- "[[H7256]]"
+- "[[H8130]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+- L(p)
+---
+
 **Deuteronomy 5:9**<big><big>[[Deut.5.5 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not bow down thyself unto them, nor serve them: for I the LORD thy God [am] a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth [generation] of them that hate me,
 <small><sub>**BSB:**</sub></small>
 You shall not bow down to them or worship them; for I, the LORD your God, am a jealous God, visiting the iniquity of the fathers on their children to the third and fourth generations of those who hate Me,
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H7812\|תִשְׁתַּחֲוֶ֥֣ה]] [[H9005\|לָ]][[H9038\|הֶ֖ם֮]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H5647H\|תָעָבְדֵ֑]][[H9038\|ם֒]] [[H3588A\|כִּ֣י]] [[H0595\|אָנֹכִ֞י]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֶ֙י]][[H9021\|ךָ֙]] [[H0410G\|אֵ֣ל]] [[H7067H\|קַנָּ֔א]] [[H6485I\|פֹּ֠קֵד]] [[H5771G\|עֲוֹ֨ן]] [[H0001G\|אָב֧וֹת]] [[H5921A\|עַל]][[H9014\|־]] [[H1121A\|בָּנִ֛ים]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H8029\|שִׁלֵּשִׁ֥ים]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H7256\|רִבֵּעִ֖ים]] [[H9005\|לְ]][[H8130\|שֹׂנְאָֽ֑]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECALOGUE|DECALOGUE]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic LAW|LAW]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic TABLE|TABLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.8|<< Deuteronomy 5:8]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.10|Deuteronomy 5:10 >>]]</td></tr></table>
 

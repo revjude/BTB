@@ -1,10 +1,58 @@
+---
+title: Hebrews 10:27
+type: Verse
+kjv: "But a certain fearful looking for of judgment and fiery indignation, which shall devour the adversaries."
+bsb: "but only a fearful expectation of judgment and of raging fire that will consume all adversaries."
+greek: "φοβερὰ δέ τις ἐκδοχὴ κρίσεως καὶ πυρὸς ζῆλος ἐσθίειν μέλλοντος τοὺς ὑπεναντίους."
+pericope: "[[Heb.10.19 A Call to Persevere|A Call to Persevere]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 10
+book/chapter: "[[Heb.10|Hebrews 10]]"
+chronological_order: 1149
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G5398]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G1561]]"
+- "[[G2920]]"
+- "[[G2532]]"
+- "[[G4442]]"
+- "[[G2205]]"
+- "[[G2068]]"
+- "[[G3195]]"
+- "[[G3588]]"
+- "[[G5227]]"
+texts:
+- NKO
+---
+
 **Hebrews 10:27**<big><big>[[Heb.10.19 A Call to Persevere|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But a certain fearful looking for of judgment and fiery indignation, which shall devour the adversaries.
 <small><sub>**BSB:**</sub></small>
 but only a fearful expectation of judgment and of raging fire that will consume all adversaries.
-<small><sub>**Literal:**</sub></small>
-terrifying however a certain expectation of judgment and of fire fury to devour being about the adversaries.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.26|<< Hebrews 10:26]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.28|Hebrews 10:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5398\|φοβερὰ]]  [[G1161\|δέ]]  [[G5100\|τις]]  [[G1561\|ἐκδοχὴ]]  [[G2920\|κρίσεως]]  [[G2532\|καὶ]]  [[G4442\|πυρὸς]]  [[G2205\|ζῆλος]]  [[G2068\|ἐσθίειν]]  [[G3195\|μέλλοντος]]  [[G3588\|τοὺς]]  [[G5227\|ὑπεναντίους.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic GODLESSNESS|GODLESSNESS]] • [[topic JUDGMENT|JUDGMENT]] • [[topic REPROBACY|REPROBACY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.26|<< Hebrews 10:26]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.28|Hebrews 10:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 10:27** is...
 > $\quad$ alluding to: [[LXX.Isa.26.11|Isa 26:11]]

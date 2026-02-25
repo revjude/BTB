@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 4:11
+type: Verse
+kjv: "And ye came near and stood under the mountain; and the mountain burned with fire unto the midst of heaven, with darkness, clouds, and thick darkness."
+bsb: "You came near and stood at the base of the mountain, a mountain blazing with fire to the heavens, with black clouds and deep darkness."
+hebrew: "וַתִּקְרְב֥וּן וַתַּֽעַמְד֖וּן תַּ֣חַת הָהָ֑ר וְהָהָ֞ר בֹּעֵ֤ר בָּאֵשׁ֙ עַד־ לֵ֣ב הַשָּׁמַ֔יִם חֹ֖שֶׁךְ עָנָ֥ן וַעֲרָפֶֽל׃"
+pericope: "[[Deut.4.1 An Exhortation to Obedience|An Exhortation to Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic VOLCANOES|VOLCANOES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126G]]"
+- "[[H9013]]"
+- "[[H5975G]]"
+- "[[H8478G]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H9002]]"
+- "[[H1197A]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H8064]]"
+- "[[H2822]]"
+- "[[H6051]]"
+- "[[H6205]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:11**<big><big>[[Deut.4.1 An Exhortation to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye came near and stood under the mountain; and the mountain burned with fire unto the midst of heaven, with darkness, clouds, and thick darkness.
 <small><sub>**BSB:**</sub></small>
 You came near and stood at the base of the mountain, a mountain blazing with fire to the heavens, with black clouds and deep darkness.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7126G\|תִּקְרְב֥וּ]][[H9013\|ן]] [[H9001\|וַ]][[H5975G\|תַּֽעַמְד֖וּ]][[H9013\|ן]] [[H8478G\|תַּ֣חַת]] [[H9009\|הָ]][[H2022G\|הָ֑ר]] [[H9002\|וְ]][[H9009\|הָ]][[H2022G\|הָ֞ר]] [[H1197A\|בֹּעֵ֤ר]] [[H9003\|בָּ]][[H0784\|אֵשׁ֙]] [[H5704\|עַד]][[H9014\|־]] [[H3820A\|לֵ֣ב]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H2822\|חֹ֖שֶׁךְ]] [[H6051\|עָנָ֥ן]] [[H9002\|וַ]][[H6205\|עֲרָפֶֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic LAW|LAW]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic VOLCANOES|VOLCANOES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.10|<< Deuteronomy 4:10]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.12|Deuteronomy 4:12 >>]]</td></tr></table>
 

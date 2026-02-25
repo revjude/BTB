@@ -1,8 +1,65 @@
+---
+title: Leviticus 9:2
+type: Verse
+kjv: "And he said unto Aaron, Take thee a young calf for a sin offering, and a ram for a burnt offering, without blemish, and offer them before the LORD."
+bsb: "He said to Aaron, “Take for yourself a young bull for a sin offering and a ram for a burnt offering, both without blemish, and present them before the LORD."
+hebrew: "וַיֹּ֣אמֶר אֶֽל־ אַהֲרֹ֗ן קַח־ לְ֠ךָ עֵ֣גֶל בֶּן־ בָּקָ֧ר לְחַטָּ֛את וְאַ֥יִל לְעֹלָ֖ה תְּמִימִ֑ם וְהַקְרֵ֖ב לִפְנֵ֥י יְהוָֽה׃"
+pericope: "[[Lev.9.1 Aaron’s First Offerings|Aaron’s First Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 9
+book/chapter: "[[Lev.9|Leviticus 9]]"
+chronological_order: 141
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H3947G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H5695]]"
+- "[[H1121H]]"
+- "[[H1241]]"
+- "[[H2403H]]"
+- "[[H9002]]"
+- "[[H0352A]]"
+- "[[H5930A]]"
+- "[[H8549G]]"
+- "[[H7126H]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 9:2**<big><big>[[Lev.9.1 Aaron’s First Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto Aaron, Take thee a young calf for a sin offering, and a ram for a burnt offering, without blemish, and offer [them] before the LORD.
 <small><sub>**BSB:**</sub></small>
 He said to Aaron, “Take for yourself a young bull for a sin offering and a ram for a burnt offering, both without blemish, and present them before the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֶֽל]][[H9014\|־]] [[H0175\|אַהֲרֹ֗ן]] [[H3947G\|קַח]][[H9014\|־]] [[H9005\|לְ֠]][[H9031\|ךָ]] [[H5695\|עֵ֣גֶל]] [[H1121H\|בֶּן]][[H9014\|־]] [[H1241\|בָּקָ֧ר]] [[H9005\|לְ]][[H2403H\|חַטָּ֛את]] [[H9002\|וְ]][[H0352A\|אַ֥יִל]] [[H9005\|לְ]][[H5930A\|עֹלָ֖ה]] [[H8549G\|תְּמִימִ֑ם]] [[H9002\|וְ]][[H7126H\|הַקְרֵ֖ב]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.9.1|<< Leviticus 9:1]]</td><td align="center" style="border:none;">[[Lev.9|Leviticus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.9.3|Leviticus 9:3 >>]]</td></tr></table>
 

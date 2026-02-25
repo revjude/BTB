@@ -1,8 +1,55 @@
+---
+title: Daniel 7:26
+type: Verse
+kjv: "But the judgment shall sit, and they shall take away his dominion, to consume and to destroy it unto the end."
+bsb: "But the court will convene, and his dominion will be taken away and completely destroyed forever."
+aramaic: "וְדִינָ֖א יִתִּ֑ב וְשָׁלְטָנֵ֣הּ יְהַעְדּ֔וֹן לְהַשְׁמָדָ֥ה וּלְהוֹבָדָ֖ה עַד־ סוֹפָֽא׃"
+pericope: "[[Dan.7.15 Daniel’s Visions Interpreted|Daniel’s Visions Interpreted]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 7
+book/chapter: "[[Dan.7|Daniel 7]]"
+chronological_order: 843
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9002]]"
+- "[[H1780]]"
+- "[[H9010]]"
+- "[[H3488]]"
+- "[[H7985]]"
+- "[[H9023]]"
+- "[[H5709]]"
+- "[[H9005]]"
+- "[[H8046]]"
+- "[[H0007]]"
+- "[[H5705]]"
+- "[[H9014]]"
+- "[[H5491]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 7:26**<big><big>[[Dan.7.15 Daniel’s Visions Interpreted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the judgment shall sit, and they shall take away his dominion, to consume and to destroy [it] unto the end.
 <small><sub>**BSB:**</sub></small>
 But the court will convene, and his dominion will be taken away and completely destroyed forever.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וְ]][[H1780\|דִינָ֖]][[H9010\|א]] [[H3488\|יִתִּ֑ב]] [[H9002\|וְ]][[H7985\|שָׁלְטָנֵ֣]][[H9023\|הּ]] [[H5709\|יְהַעְדּ֔וֹן]] [[H9005\|לְ]][[H8046\|הַשְׁמָדָ֥ה]] [[H9002\|וּ]][[H9005\|לְ]][[H0007\|הוֹבָדָ֖ה]] [[H5705\|עַד]][[H9014\|־]] [[H5491\|סוֹפָֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.25|<< Daniel 7:25]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.27|Daniel 7:27 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

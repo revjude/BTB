@@ -1,10 +1,61 @@
+---
+title: Luke 11:22
+type: Verse
+kjv: "But when a stronger than he shall come upon him, and overcome him, he taketh from him all his armour wherein he trusted, and divideth his spoils."
+bsb: "But when someone stronger attacks and overpowers him, he takes away the armor in which the man trusted, and then he divides up his plunder."
+jesus_said: "But when a stronger than he shall come upon him, and overcome him, he taketh from him all his armour wherein he trusted, and divideth his spoils."
+greek: "ἐπὰν δὲ ὁ ἰσχυρότερος αὐτοῦ ἐπελθὼν νικήσῃ αὐτόν, τὴν πανοπλίαν αὐτοῦ αἴρει ἐφ᾽ ᾗ ἐπεποίθει, καὶ τὰ σκῦλα αὐτοῦ διαδίδωσιν."
+pericope: "[[Luke.11.14 A House Divided|A House Divided]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SATAN|SATAN]]"
+strongs:
+- "[[G1875]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2478]]"
+- "[[G0846]]"
+- "[[G1904]]"
+- "[[G3528]]"
+- "[[G3833]]"
+- "[[G0142]]"
+- "[[G1909]]"
+- "[[G3739]]"
+- "[[G3982]]"
+- "[[G2532]]"
+- "[[G4661]]"
+- "[[G1239]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 11:22**<big><big>[[Luke.11.14 A House Divided|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when a stronger than he shall come upon him, and overcome him, he taketh from him all his armour wherein he trusted, and divideth his spoils.
 <small><sub>**BSB:**</sub></small>
 But when someone stronger attacks and overpowers him, he takes away the armor in which the man trusted, and then he divides up his plunder.
-<small><sub>**Literal:**</sub></small>
-when however <the> [one] stronger than he having come upon [him] he may overcome him, the complete armor of him he takes away in which he had trusted, and the plunder of him he divides.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.21|<< Luke 11:21]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.23|Luke 11:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1875\|ἐπὰν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2478\|ἰσχυρότερος]]  [[G0846\|αὐτοῦ]]  [[G1904\|ἐπελθὼν]]  [[G3528\|νικήσῃ]]  [[G0846\|αὐτόν,]]  [[G3588\|τὴν]]  [[G3833\|πανοπλίαν]]  [[G0846\|αὐτοῦ]]  [[G0142\|αἴρει]]  [[G1909\|ἐφ᾽]]  [[G3739\|ᾗ]]  [[G3982\|ἐπεποίθει,]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G4661\|σκῦλα]]  [[G0846\|αὐτοῦ]]  [[G1239\|διαδίδωσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]] • [[topic SATAN|SATAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.21|<< Luke 11:21]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.23|Luke 11:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

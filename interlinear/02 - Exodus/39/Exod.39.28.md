@@ -1,8 +1,61 @@
+---
+title: Exodus 39:28
+type: Verse
+kjv: "And a mitre of fine linen, and goodly bonnets of fine linen, and linen breeches of fine twined linen,"
+bsb: "as well as the turban of fine linen, the ornate headbands and undergarments of finely spun linen,"
+hebrew: "וְאֵת֙ הַמִּצְנֶ֣פֶת שֵׁ֔שׁ וְאֶת־ פַּאֲרֵ֥י הַמִּגְבָּעֹ֖ת שֵׁ֑שׁ וְאֶת־ מִכְנְסֵ֥י הַבָּ֖ד שֵׁ֥שׁ מָשְׁזָֽר׃"
+pericope: "[[Exod.39.22 Additional Priestly Garments|Additional Priestly Garments]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 39
+book/chapter: "[[Exod.39|Exodus 39]]"
+chronological_order: 131
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BONNET|BONNET]]"
+- "[[topic BREECHES|BREECHES]]"
+- "[[topic DRESS|DRESS]]"
+- "[[topic MITER|MITER]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H4701]]"
+- "[[H8336B]]"
+- "[[H9014]]"
+- "[[H6287]]"
+- "[[H4021]]"
+- "[[H4370]]"
+- "[[H0906]]"
+- "[[H7806]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 39:28**<big><big>[[Exod.39.22 Additional Priestly Garments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a mitre [of] fine linen, and goodly bonnets [of] fine linen, and linen breeches [of] fine twined linen,
 <small><sub>**BSB:**</sub></small>
 as well as the turban of fine linen, the ornate headbands and undergarments of finely spun linen,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵת֙]] [[H9009\|הַ]][[H4701\|מִּצְנֶ֣פֶת]] [[H8336B\|שֵׁ֔שׁ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6287\|פַּאֲרֵ֥י]] [[H9009\|הַ]][[H4021\|מִּגְבָּעֹ֖ת]] [[H8336B\|שֵׁ֑שׁ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4370\|מִכְנְסֵ֥י]] [[H9009\|הַ]][[H0906\|בָּ֖ד]] [[H8336B\|שֵׁ֥שׁ]] [[H7806\|מָשְׁזָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BONNET|BONNET]] • [[topic BREECHES|BREECHES]] • [[topic DRESS|DRESS]] • [[topic MITER|MITER]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.27|<< Exodus 39:27]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.29|Exodus 39:29 >>]]</td></tr></table>
 

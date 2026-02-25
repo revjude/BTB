@@ -1,8 +1,77 @@
+---
+title: Judges 12:6
+type: Verse
+kjv: "Then said they unto him, Say now Shibboleth: and he said Sibboleth: for he could not frame to pronounce it right. Then they took him, and slew him at the passages of Jordan: and there fell at that time of the Ephraimites forty and two thousand."
+bsb: "they told him, “Please say Shibboleth.” If he said, “Sibboleth,” because he could not pronounce it correctly, they seized him and killed him at the fords of the Jordan. So at that time 42,000 Ephraimites were killed."
+hebrew: "וַיֹּ֣אמְרוּ לוֹ֩ אֱמָר־ נָ֨א שִׁבֹּ֜לֶת וַיֹּ֣אמֶר סִבֹּ֗לֶת וְלֹ֤א יָכִין֙ לְדַבֵּ֣ר כֵּ֔ן וַיֹּאחֲז֣וּ אוֹת֔וֹ וַיִּשְׁחָט֖וּהוּ אֶל־ מַעְבְּר֣וֹת הַיַּרְדֵּ֑ן וַיִּפֹּ֞ל בָּעֵ֤ת הַהִיא֙ מֵֽאֶפְרַ֔יִם אַרְבָּעִ֥ים וּשְׁנַ֖יִם אָֽלֶף׃"
+pericope: "[[Judg.12.1 Jephthah Defeats Ephraim|Jephthah Defeats Ephraim]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 12
+book/chapter: "[[Judg.12|Judges 12]]"
+chronological_order: 266
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JORDAN|JORDAN]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic SHIBBOLETH|SHIBBOLETH]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H7641H]]"
+- "[[H5451]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3559K]]"
+- "[[H1696G]]"
+- "[[H3651A]]"
+- "[[H0270]]"
+- "[[H0853]]"
+- "[[H7819A]]"
+- "[[H0413]]"
+- "[[H4569B]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H5307J]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H1931]]"
+- "[[H9006]]"
+- "[[H0669G]]"
+- "[[H0705]]"
+- "[[H8147]]"
+- "[[H0505G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 12:6**<big><big>[[Judg.12.1 Jephthah Defeats Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said they unto him, Say now Shibboleth: and he said Sibboleth: for he could not frame to pronounce [it] right. Then they took him, and slew him at the passages of Jordan: and there fell at that time of the Ephraimites forty and two thousand.
 <small><sub>**BSB:**</sub></small>
 they told him, “Please say Shibboleth.” If he said, “Sibboleth,” because he could not pronounce it correctly, they seized him and killed him at the fords of the Jordan. So at that time 42,000 Ephraimites were killed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמְרוּ]] [[H9005\|ל]][[H9033\|וֹ֩]] [[H0559\|אֱמָר]][[H9014\|־]] [[H4994\|נָ֨א]] [[H7641H\|שִׁבֹּ֜לֶת]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H5451\|סִבֹּ֗לֶת]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H3559K\|יָכִין֙]] [[H9005\|לְ]][[H1696G\|דַבֵּ֣ר]] [[H3651A\|כֵּ֔ן]] [[H9001\|וַ]][[H0270\|יֹּאחֲז֣וּ]] [[H0853\|אוֹת֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H7819A\|יִּשְׁחָט֖וּ]][[H9033\|הוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H4569B\|מַעְבְּר֣וֹת]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֑ן]] [[H9001\|וַ]][[H5307J\|יִּפֹּ֞ל]] [[H9003\|בָּ]][[H6256\|עֵ֤ת]] [[H9009\|הַ]][[H1931\|הִיא֙]] [[H9006\|מֵֽ]][[H0669G\|אֶפְרַ֔יִם]] [[H0705\|אַרְבָּעִ֥ים]] [[H9002\|וּ]][[H8147\|שְׁנַ֖יִם]] [[H0505G\|אָֽלֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHRAIM|EPHRAIM]] • [[topic ISRAEL|ISRAEL]] • [[topic JORDAN|JORDAN]] • [[topic JUDGE|JUDGE]] • [[topic LANGUAGE|LANGUAGE]] • [[topic SHIBBOLETH|SHIBBOLETH]] • [[topic STRIFE|STRIFE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.12.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.12.5|<< Judges 12:5]]</td><td align="center" style="border:none;">[[Judg.12|Judges 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.12.7|Judges 12:7 >>]]</td></tr></table>
 

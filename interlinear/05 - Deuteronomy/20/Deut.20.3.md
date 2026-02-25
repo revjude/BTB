@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 20:3
+type: Verse
+kjv: "And shall say unto them, Hear, O Israel, ye approach this day unto battle against your enemies: let not your hearts faint, fear not, and do not tremble, neither be ye terrified because of them;"
+bsb: "saying to them, “Hear, O Israel, today you are going into battle with your enemies. Do not be fainthearted or afraid; do not be alarmed or terrified because of them."
+hebrew: "וְאָמַ֤ר אֲלֵהֶם֙ שְׁמַ֣ע יִשְׂרָאֵ֔ל אַתֶּ֨ם קְרֵבִ֥ים הַיּ֛וֹם לַמִּלְחָמָ֖ה עַל־ אֹיְבֵיכֶ֑ם אַל־ יֵרַ֣ךְ לְבַבְכֶ֗ם אַל־ תִּֽירְא֧וּ וְאַֽל־ תַּחְפְּז֛וּ וְאַל־ תַּֽעַרְצ֖וּ מִפְּנֵיהֶֽם׃"
+pericope: "[[Deut.20.1 Laws of Warfare|Laws of Warfare]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 20
+book/chapter: "[[Deut.20|Deuteronomy 20]]"
+chronological_order: 216
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H8085G]]"
+- "[[H3478]]"
+- "[[H0859D]]"
+- "[[H7131]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0341]]"
+- "[[H9026]]"
+- "[[H0408]]"
+- "[[H7401]]"
+- "[[H3824]]"
+- "[[H3372G]]"
+- "[[H9002]]"
+- "[[H2648]]"
+- "[[H6206]]"
+- "[[H9006]]"
+- "[[H6440L]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 20:3**<big><big>[[Deut.20.1 Laws of Warfare|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And shall say unto them, Hear, O Israel, ye approach this day unto battle against your enemies: let not your hearts faint, fear not, and do not tremble, neither be ye terrified because of them;
 <small><sub>**BSB:**</sub></small>
 saying to them, “Hear, O Israel, today you are going into battle with your enemies. Do not be fainthearted or afraid; do not be alarmed or terrified because of them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַ֤ר]] [[H0413\|אֲלֵ]][[H9038\|הֶם֙]] [[H8085G\|שְׁמַ֣ע]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0859D\|אַתֶּ֨ם]] [[H7131\|קְרֵבִ֥ים]] [[H9009\|הַ]][[H3117G\|יּ֛וֹם]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H0341\|אֹיְבֵי]][[H9026\|כֶ֑ם]] [[H0408\|אַל]][[H9014\|־]] [[H7401\|יֵרַ֣ךְ]] [[H3824\|לְבַבְ]][[H9026\|כֶ֗ם]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּֽירְא֧וּ]] [[H9002\|וְ]][[H0408\|אַֽל]][[H9014\|־]] [[H2648\|תַּחְפְּז֛וּ]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H6206\|תַּֽעַרְצ֖וּ]] [[H9006\|מִ]][[H6440L\|פְּנֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.20.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.20.2|<< Deuteronomy 20:2]]</td><td align="center" style="border:none;">[[Deut.20|Deuteronomy 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.20.4|Deuteronomy 20:4 >>]]</td></tr></table>
 

@@ -1,10 +1,63 @@
+---
+title: Revelation 17:14
+type: Verse
+kjv: "These shall make war with the Lamb, and the Lamb shall overcome them: for he is Lord of lords, and King of kings: and they that are with him are called, and chosen, and faithful."
+bsb: "They will make war against the Lamb, and the Lamb will triumph over them, because He is Lord of lords and King of kings; and He will be accompanied by His called and chosen and faithful ones.”"
+greek: "οὗτοι μετὰ τοῦ ἀρνίου πολεμήσουσιν, καὶ τὸ ἀρνίον νικήσει αὐτούς, ὅτι κύριος κυρίων ἐστὶν καὶ βασιλεὺς βασιλέων, καὶ οἱ μετ᾽ αὐτοῦ κλητοὶ καὶ ἐκλεκτοὶ καὶ πιστοί.¶"
+pericope: "[[Rev.17.14 The Victory of the Lamb|The Victory of the Lamb]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 17
+book/chapter: "[[Rev.17|Revelation 17]]"
+chronological_order: 1184
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CHOSEN, OR ELECTED|CHOSEN, OR ELECTED]]"
+- "[[topic HORN|HORN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAMB OF GOD|LAMB OF GOD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G3778]]"
+- "[[G3326]]"
+- "[[G3588]]"
+- "[[G0721]]"
+- "[[G4170]]"
+- "[[G2532]]"
+- "[[G3528]]"
+- "[[G0846]]"
+- "[[G3754H]]"
+- "[[G2962G]]"
+- "[[G2962H]]"
+- "[[G1510]]"
+- "[[G0935]]"
+- "[[G2822]]"
+- "[[G1588]]"
+- "[[G4103]]"
+texts:
+- NKO
+---
+
 **Revelation 17:14**<big><big>[[Rev.17.14 The Victory of the Lamb|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 These shall make war with the Lamb, and the Lamb shall overcome them: for he is Lord of lords, and King of kings: and they that are with him [are] called, and chosen, and faithful.
 <small><sub>**BSB:**</sub></small>
 They will make war against the Lamb, and the Lamb will triumph over them, because He is Lord of lords and King of kings; and He will be accompanied by His called and chosen and faithful ones.”
-<small><sub>**Literal:**</sub></small>
-These with the Lamb war will make, and the Lamb will overcome them, because Lord of lords He is and King of kings, and those with Him [are] called and chosen and faithful.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.13|<< Revelation 17:13]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.15|Revelation 17:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτοι]]  [[G3326\|μετὰ]]  [[G3588\|τοῦ]]  [[G0721\|ἀρνίου]]  [[G4170\|πολεμήσουσιν,]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G0721\|ἀρνίον]]  [[G3528\|νικήσει]]  [[G0846\|αὐτούς,]]  [[G3754H\|ὅτι]]  [[G2962G\|κύριος]]  [[G2962H\|κυρίων]]  [[G1510\|ἐστὶν]]  [[G2532\|καὶ]]  [[G0935\|βασιλεὺς]]  [[G0935\|βασιλέων,]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ]]  [[G2822\|κλητοὶ]]  [[G2532\|καὶ]]  [[G1588\|ἐκλεκτοὶ]]  [[G2532\|καὶ]]  [[G4103\|πιστοί.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic CHARACTER|CHARACTER]] • [[topic CHOSEN, OR ELECTED|CHOSEN, OR ELECTED]] • [[topic HORN|HORN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAMB OF GOD|LAMB OF GOD]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.13|<< Revelation 17:13]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.15|Revelation 17:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 17:14** is...
 > $\quad$ alluding to: [[LXX.Dan.8.25|Dan 8:25]]

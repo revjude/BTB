@@ -1,8 +1,71 @@
+---
+title: Exodus 28:41
+type: Verse
+kjv: "And thou shalt put them upon Aaron thy brother, and his sons with him; and shalt anoint them, and consecrate them, and sanctify them, that they may minister unto me in the priest’s office."
+bsb: "After you put these garments on your brother Aaron and his sons, anoint them, ordain them, and consecrate them so that they may serve Me as priests."
+hebrew: "וְהִלְבַּשְׁתָּ֤ אֹתָם֙ אֶת־ אַהֲרֹ֣ן אָחִ֔יךָ וְאֶת־ בָּנָ֖יו אִתּ֑וֹ וּמָשַׁחְתָּ֨ אֹתָ֜ם וּמִלֵּאתָ֧ אֶת־ יָדָ֛ם וְקִדַּשְׁתָּ֥ אֹתָ֖ם וְכִהֲנ֥וּ לִֽי׃"
+pericope: "[[Exod.28.31 Additional Priestly Garments|Additional Priestly Garments]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 28
+book/chapter: "[[Exod.28|Exodus 28]]"
+chronological_order: 120
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic LINEN|LINEN]]"
+- "[[topic NADAB|NADAB]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H3847]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H0251G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H4886]]"
+- "[[H4390]]"
+- "[[H3027R]]"
+- "[[H9028]]"
+- "[[H6942G]]"
+- "[[H3547]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 28:41**<big><big>[[Exod.28.31 Additional Priestly Garments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt put them upon Aaron thy brother, and his sons with him; and shalt anoint them, and consecrate them, and sanctify them, that they may minister unto me in the priest’s office.
 <small><sub>**BSB:**</sub></small>
 After you put these garments on your brother Aaron and his sons, anoint them, ordain them, and consecrate them so that they may serve Me as priests.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3847\|הִלְבַּשְׁתָּ֤]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0175\|אַהֲרֹ֣ן]] [[H0251G\|אָחִ֔י]][[H9021\|ךָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בָּנָ֖י]][[H9023\|ו]] [[H0854\|אִתּ֑]][[H9033\|וֹ]] [[H9001\|וּ]][[H4886\|מָשַׁחְתָּ֨]] [[H0853\|אֹתָ֜]][[H9038\|ם]] [[H9001\|וּ]][[H4390\|מִלֵּאתָ֧]] [[H0853\|אֶת]][[H9014\|־]] [[H3027R\|יָדָ֛]][[H9028\|ם]] [[H9001\|וְ]][[H6942G\|קִדַּשְׁתָּ֥]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H9001\|וְ]][[H3547\|כִהֲנ֥וּ]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic ANOINTING|ANOINTING]] • [[topic LINEN|LINEN]] • [[topic NADAB|NADAB]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.40|<< Exodus 28:40]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.42|Exodus 28:42 >>]]</td></tr></table>
 

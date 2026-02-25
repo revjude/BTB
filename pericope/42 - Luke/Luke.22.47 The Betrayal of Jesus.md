@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Betrayal of Jesus
+type: Pericope
 pericope: "[[Luke.22.47 The Betrayal of Jesus|The Betrayal of Jesus]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Luke
 chapter: 22
 book/chapter: "[[Luke.22|Luke 22]]"
-genre:
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 7
 verses:
 - "[[Luke.22.47]]"
 - "[[Luke.22.48]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Luke.22.53]]"
 ---
 
-[[Luke.22|Luke 22:47 - Luke 22:53]]
+<small>[[Luke.22|Luke 22:47-53]]</small>
 *The Betrayal of Jesus*
 
 [[Luke.22.47|47]] And while he yet spake, behold a multitude, and he that was called Judas, one of the twelve, went before them, and drew near unto Jesus to kiss him.

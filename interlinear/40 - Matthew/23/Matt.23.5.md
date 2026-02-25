@@ -1,10 +1,66 @@
+---
+title: Matthew 23:5
+type: Verse
+kjv: "But all their works they do for to be seen of men: they make broad their phylacteries, and enlarge the borders of their garments,"
+bsb: "All their deeds are done for men to see. They broaden their phylacteries and lengthen their tassels."
+jesus_said: "But all their works they do for to be seen of men: they make broad their phylacteries, and enlarge the borders of their garments,"
+greek: "πάντα δὲ τὰ ἔργα αὐτῶν ποιοῦσιν πρὸς τὸ θεαθῆναι τοῖς ἀνθρώποις· πλατύνουσιν γὰρ τὰ φυλακτήρια αὐτῶν καὶ μεγαλύνουσιν τὰ κράσπεδα τῶν ἱματίων αὐτῶν."
+pericope: "[[Matt.23.1 Woes to Scribes and Pharisees|Woes to Scribes and Pharisees]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 23
+book/chapter: "[[Matt.23|Matthew 23]]"
+chronological_order: 996
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FRINGES|FRINGES]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic PHYLACTERY|PHYLACTERY]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic TEACHERS|TEACHERS]]"
+strongs:
+- "[[G3956]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2041]]"
+- "[[G0846]]"
+- "[[G4160G]]"
+- "[[G4314]]"
+- "[[G2300]]"
+- "[[G0444]]"
+- "[[G4115]]"
+- "[[G1063]]"
+- "[[G5440]]"
+- "[[G2532]]"
+- "[[G3170]]"
+- "[[G2899]]"
+- "[[G2440]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Matthew 23:5**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But all their works they do for to be seen of men: they make broad their phylacteries, and enlarge the borders of their garments,
 <small><sub>**BSB:**</sub></small>
 All their deeds are done for men to see. They broaden their phylacteries and lengthen their tassels.
-<small><sub>**Literal:**</sub></small>
-All now the deeds of them they do in order <the> to be seen <the> by men; They broaden for the phylacteries of them and enlarge <the> tassels the of garments of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.4|<< Matthew 23:4]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.6|Matthew 23:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πάντα]]  [[G1161\|δὲ]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G0846\|αὐτῶν]]  [[G4160G\|ποιοῦσιν]]  [[G4314\|πρὸς]]  [[G3588\|τὸ]]  [[G2300\|θεαθῆναι]]  [[G3588\|τοῖς]]  [[G0444\|ἀνθρώποις·]]  [[G4115\|πλατύνουσιν]]  [[G1063\|γὰρ]]  [[G3588\|τὰ]]  [[G5440\|φυλακτήρια]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G3170\|μεγαλύνουσιν]]  [[G3588\|τὰ]]  [[G2899\|κράσπεδα]]  [[G3588\|τῶν]]  [[G2440\|ἱματίων]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CHURCH|CHURCH]] • [[topic FRINGES|FRINGES]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic PHARISEES|PHARISEES]] • [[topic PHYLACTERY|PHYLACTERY]] • [[topic SATIRE|SATIRE]] • [[topic TEACHERS|TEACHERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.4|<< Matthew 23:4]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.6|Matthew 23:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,77 @@
+---
+title: Genesis 30:37
+type: Verse
+kjv: "And Jacob took him rods of green poplar, and of the hazel and chesnut tree; and pilled white strakes in them, and made the white appear which was in the rods."
+bsb: "Jacob, however, took fresh branches of poplar, almond, and plane trees, and peeled the bark, exposing the white inner wood of the branches."
+hebrew: "וַיִּֽקַּֽח־ ל֣וֹ יַעֲקֹ֗ב מַקַּ֥ל לִבְנֶ֛ה לַ֖ח וְל֣וּז וְעֶרְמ֑וֹן וַיְפַצֵּ֤ל בָּהֵן֙ פְּצָל֣וֹת לְבָנ֔וֹת מַחְשֹׂף֙ הַלָּבָ֔ן אֲשֶׁ֖ר עַל־ הַמַּקְלֽוֹת׃"
+pericope: "[[Gen.30.25 Jacob Prospers|Jacob Prospers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 30
+book/chapter: "[[Gen.30|Genesis 30]]"
+chronological_order: 72
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic CHESTNUT TREE|CHESTNUT TREE]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic HAZEL|HAZEL]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic POPLAR|POPLAR]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic SON-IN-LAW|SON-IN-LAW]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3290]]"
+- "[[H4731]]"
+- "[[H3839]]"
+- "[[H3892]]"
+- "[[H9002]]"
+- "[[H3869]]"
+- "[[H6196]]"
+- "[[H6478]]"
+- "[[H9003]]"
+- "[[H9039]]"
+- "[[H6479]]"
+- "[[H3836]]"
+- "[[H4286]]"
+- "[[H9009]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 30:37**<big><big>[[Gen.30.25 Jacob Prospers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob took him rods of green poplar, and of the hazel and chesnut tree; and pilled white strakes in them, and made the white appear which [was] in the rods.
 <small><sub>**BSB:**</sub></small>
 Jacob, however, took fresh branches of poplar, almond, and plane trees, and peeled the bark, exposing the white inner wood of the branches.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּֽקַּֽח]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H3290\|יַעֲקֹ֗ב]] [[H4731\|מַקַּ֥ל]] [[H3839\|לִבְנֶ֛ה]] [[H3892\|לַ֖ח]] [[H9002\|וְ]][[H3869\|ל֣וּז]] [[H9002\|וְ]][[H6196\|עֶרְמ֑וֹן]] [[H9001\|וַ]][[H6478\|יְפַצֵּ֤ל]] [[H9003\|בָּ]][[H9039\|הֵן֙]] [[H6479\|פְּצָל֣וֹת]] [[H3836\|לְבָנ֔וֹת]] [[H4286\|מַחְשֹׂף֙]] [[H9009\|הַ]][[H3836\|לָּבָ֔ן]] [[H0834A\|אֲשֶׁ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4731\|מַּקְלֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic CHESTNUT TREE|CHESTNUT TREE]] • [[topic CONTRACTS|CONTRACTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic HAZEL|HAZEL]] • [[topic JACOB|JACOB]] • [[topic LABAN|LABAN]] • [[topic POPLAR|POPLAR]] • [[topic SHEEP|SHEEP]] • [[topic SON-IN-LAW|SON-IN-LAW]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.36|<< Genesis 30:36]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.38|Genesis 30:38 >>]]</td></tr></table>
 

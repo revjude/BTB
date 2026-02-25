@@ -1,8 +1,60 @@
+---
+title: Psalm 79:13
+type: Verse
+kjv: "So we thy people and sheep of thy pasture will give thee thanks for ever: we will shew forth thy praise to all generations."
+bsb: "Then we Your people, the sheep of Your pasture, will thank You forever; from generation to generation we will declare Your praise."
+hebrew: "וַאֲנַ֤חְנוּ עַמְּךָ֨׀ וְצֹ֥אן מַרְעִיתֶךָ֮ נ֤וֹדֶ֥ה לְּךָ֗ לְע֫וֹלָ֥ם לְדֹ֥ר וָדֹ֑ר נְ֝סַפֵּ֗ר תְּהִלָּתֶֽךָ׃"
+pericope: "[[Ps.79.1 A Prayer for Deliverance|A Prayer for Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 79
+book/chapter: "[[Ps.79|Psalm 79]]"
+chronological_order: 782
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0587]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H9015]]"
+- "[[H6629G]]"
+- "[[H4830]]"
+- "[[H3034]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H5769G]]"
+- "[[H1755]]"
+- "[[H5608A]]"
+- "[[H8416]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 79:13**<big><big>[[Ps.79.1 A Prayer for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So we thy people and sheep of thy pasture will give thee thanks for ever: we will shew forth thy praise to all generations.
 <small><sub>**BSB:**</sub></small>
 Then we Your people, the sheep of Your pasture, will thank You forever; from generation to generation we will declare Your praise.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0587\|אֲנַ֤חְנוּ]] [[H5971A\|עַמְּ]][[H9021\|ךָ֨]][[H9015\|׀]] [[H9002\|וְ]][[H6629G\|צֹ֥אן]] [[H4830\|מַרְעִיתֶ]][[H9021\|ךָ֮]] [[H3034\|נ֤וֹדֶ֥ה]] [[H9005\|לְּ]][[H9031\|ךָ֗]] [[H9005\|לְ]][[H5769G\|ע֫וֹלָ֥ם]] [[H9005\|לְ]][[H1755\|דֹ֥ר]] [[H9002\|וָ]][[H1755\|דֹ֑ר]] [[H5608A\|נְ֝סַפֵּ֗ר]] [[H8416\|תְּהִלָּתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PRAISE|PRAISE]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.79.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.79.12|<< Psalms 79:12]]</td><td align="center" style="border:none;">[[Ps.79|Psalms 79]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.80.0|Psalms 80:0 >>]]</td></tr></table>
 

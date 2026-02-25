@@ -1,6 +1,68 @@
+---
+title: LXX Nehemiah 4:16
+type: Verse
+lxx: "And it came to pass from  that day, that half of the ones being arrayed did the work, and half of them resisted with lances, and shields, and bows, and chest plates; and the rulers were behind the whole house of Judah."
+greek: "και εγένετο από της ημέρας εκείνης ήμισυ των εκτεταγμένων εποίουν το έργον και ήμισυ αυτών αντείχοντο και λόγχαι και θυρεοί και τόξα και θώρακες και οι άρχοντες οπίσω παντός οίκου Ιούδα"
+original_language: Greek
+testament: Old
+book: Nehemiah
+chapter: 4
+book/chapter: "[[Neh.4|Nehemiah 4]]"
+chronological_order: 916
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- septuagint
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1565]]"
+- "[[G2255]]"
+- "[[G3588]]"
+- "[[G7150]]"
+- "[[G4160]]"
+- "[[G3588]]"
+- "[[G2041]]"
+- "[[G2532]]"
+- "[[G2255]]"
+- "[[G1473]]"
+- "[[G0472]]"
+- "[[G2532]]"
+- "[[G3057]]"
+- "[[G2532]]"
+- "[[G2375]]"
+- "[[G2532]]"
+- "[[G5115]]"
+- "[[G2532]]"
+- "[[G2382]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0758]]"
+- "[[G3694]]"
+- "[[G3956]]"
+- "[[G3624]]"
+- "[[G2448]]"
+---
+
 **LXX Nehemiah 4:16** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass from  that day, \[that\] half of the ones being arrayed did the work, and half of them resisted \[with\] lances, and shields, and bows, and chest \[plates\]; and the rulers \[were\] behind \[the\] whole house of Judah. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1096\|εγένετο]] [[G0575\|από]] [[G3588\|της]] [[G2250\|ημέρας]] [[G1565\|εκείνης]] [[G2255\|ήμισυ]] [[G3588\|των]] [[G7150\|εκτεταγμένων]] [[G4160\|εποίουν]] [[G3588\|το]] [[G2041\|έργον]] [[G2532\|και]] [[G2255\|ήμισυ]] [[G1473\|αυτών]] [[G0472\|αντείχοντο]] [[G2532\|και]] [[G3057\|λόγχαι]] [[G2532\|και]] [[G2375\|θυρεοί]] [[G2532\|και]] [[G5115\|τόξα]] [[G2532\|και]] [[G2382\|θώρακες]] [[G2532\|και]] [[G3588\|οι]] [[G0758\|άρχοντες]] [[G3694\|οπίσω]] [[G3956\|παντός]] [[G3624\|οίκου]] [[G2448\|Ιούδα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRUDENCE|PRUDENCE]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**MT:**</sub></small>
 [[Neh.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.15|<< Nehemiah 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.4.17|Nehemiah 4:17 >>]]</td></tr></table>
 
@@ -36,6 +98,6 @@ And it came to pass from  that day, \[that\] half of the ones being arrayed did 
 | \[the\] whole | **<big>[[G3956\|παντός]]</big>** |
 | house | **<big>[[G3624\|οίκου]]</big>** |
 | of Judah. | **<big>[[G2448\|Ιούδα]]</big>** |
-[[Neh.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.15|<< Nehemiah 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.4.17|Nehemiah 4:17 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.15|<< Nehemiah 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.4.17|Nehemiah 4:17 >>]]</td></tr></table>
 
 

@@ -1,8 +1,74 @@
+---
+title: Deuteronomy 28:9
+type: Verse
+kjv: "The LORD shall establish thee an holy people unto himself, as he hath sworn unto thee, if thou shalt keep the commandments of the LORD thy God, and walk in his ways."
+bsb: "The LORD will establish you as His holy people, just as He has sworn to you, if you keep the commandments of the LORD your God and walk in His ways."
+hebrew: "יְקִֽימְךָ֨ יְהוָ֥ה לוֹ֙ לְעַ֣ם קָד֔וֹשׁ כַּאֲשֶׁ֖ר נִֽשְׁבַּֽע־ לָ֑ךְ כִּ֣י תִשְׁמֹ֗ר אֶת־ מִצְוֹת֙ יְהוָ֣ה אֱלֹהֶ֔יךָ וְהָלַכְתָּ֖ בִּדְרָכָֽיו׃"
+pericope: "[[Deut.28.1 The Blessings of Obedience|The Blessings of Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WALKING|WALKING]]"
+strongs:
+- "[[H6965I]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5971A]]"
+- "[[H6918G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H7650]]"
+- "[[H9014]]"
+- "[[H3588A]]"
+- "[[H8104G]]"
+- "[[H0853]]"
+- "[[H4687]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- LB(ah)
+- L
+---
+
 **Deuteronomy 28:9**<big><big>[[Deut.28.1 The Blessings of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD shall establish thee an holy people unto himself, as he hath sworn unto thee, if thou shalt keep the commandments of the LORD thy God, and walk in his ways.
 <small><sub>**BSB:**</sub></small>
 The LORD will establish you as His holy people, just as He has sworn to you, if you keep the commandments of the LORD your God and walk in His ways.
+<small><sub>**Hebrew:**</sub></small>
+[[H6965I\|יְקִֽימְ]][[H9031\|ךָ֨]] [[H3068G\|יְהוָ֥ה]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9005\|לְ]][[H5971A\|עַ֣ם]] [[H6918G\|קָד֔וֹשׁ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H7650\|נִֽשְׁבַּֽע]][[H9014\|־]] [[H9005\|לָ֑]][[H9031\|ךְ]] [[H3588A\|כִּ֣י]] [[H8104G\|תִשְׁמֹ֗ר]] [[H0853\|אֶת]][[H9014\|־]] [[H4687\|מִצְוֹת֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H9001\|וְ]][[H1980I\|הָלַכְתָּ֖]] [[H9003\|בִּ]][[H1870G\|דְרָכָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic HOLINESS|HOLINESS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WALKING|WALKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.8|<< Deuteronomy 28:8]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.10|Deuteronomy 28:10 >>]]</td></tr></table>
 

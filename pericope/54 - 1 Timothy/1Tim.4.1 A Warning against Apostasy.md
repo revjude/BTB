@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Warning against Apostasy
+type: Pericope
 pericope: "[[1Tim.4.1 A Warning against Apostasy|A Warning against Apostasy]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: 1 Timothy
 chapter: 4
 book/chapter: "[[1Tim.4|1 Timothy 4]]"
-genre:
+chronological_order: 1129
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - church order
+verse_count: 5
 verses:
 - "[[1Tim.4.1]]"
 - "[[1Tim.4.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[1Tim.4.5]]"
 ---
 
-[[1Tim.4|1 Timothy 4:1 - 1 Timothy 4:5]]
+<small>[[1Tim.4|1 Timothy 4:1-5]]</small>
 *A Warning against Apostasy*
 
 [[1Tim.4.1|1]] Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils;

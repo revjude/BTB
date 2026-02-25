@@ -1,8 +1,62 @@
+---
+title: Jeremiah 1:2
+type: Verse
+kjv: "To whom the word of the LORD came in the days of Josiah the son of Amon king of Judah, in the thirteenth year of his reign."
+bsb: "The word of the LORD came to Jeremiah in the thirteenth year of the reign of Josiah son of Amon king of Judah,"
+hebrew: "אֲשֶׁ֨ר הָיָ֤ה דְבַר־ יְהוָה֙ אֵלָ֔יו בִּימֵ֛י יֹאשִׁיָּ֥הוּ בֶן־ אָמ֖וֹן מֶ֣לֶךְ יְהוּדָ֑ה בִּשְׁלֹשׁ־ עֶשְׂרֵ֥ה שָׁנָ֖ה לְמָלְכֽוֹ׃"
+pericope: "[[Jer.1.1 The Call of Jeremiah|The Call of Jeremiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 1
+book/chapter: "[[Jer.1|Jeremiah 1]]"
+chronological_order: 718
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H2977G]]"
+- "[[H1121A]]"
+- "[[H0526H]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H7969]]"
+- "[[H6240]]"
+- "[[H8141]]"
+- "[[H9005]]"
+- "[[H4427A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 1:2**<big><big>[[Jer.1.1 The Call of Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To whom the word of the LORD came in the days of Josiah the son of Amon king of Judah, in the thirteenth year of his reign.
 <small><sub>**BSB:**</sub></small>
 The word of the LORD came to Jeremiah in the thirteenth year of the reign of Josiah son of Amon king of Judah,
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֨ר]] [[H1961\|הָיָ֤ה]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H9003\|בִּ]][[H3117G\|ימֵ֛י]] [[H2977G\|יֹאשִׁיָּ֥הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H0526H\|אָמ֖וֹן]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֑ה]] [[H9003\|בִּ]][[H7969\|שְׁלֹשׁ]][[H9014\|־]] [[H6240\|עֶשְׂרֵ֥ה]] [[H8141\|שָׁנָ֖ה]] [[H9005\|לְ]][[H4427A\|מָלְכֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.1.1|<< Jeremiah 1:1]]</td><td align="center" style="border:none;">[[Jer.1|Jeremiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.1.3|Jeremiah 1:3 >>]]</td></tr></table>
 

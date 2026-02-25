@@ -1,10 +1,70 @@
+---
+title: Luke 10:42
+type: Verse
+kjv: "But one thing is needful: and Mary hath chosen that good part, which shall not be taken away from her."
+bsb: "But only one thing is necessary. Mary has chosen the good portion, and it will not be taken away from her.”"
+jesus_said: "But one thing is needful: and Mary hath chosen that good part, which shall not be taken away from her."
+greek: "ὀλίγων ἢ ἑνὸς δέ ἐστιν χρεία· Μαριὰμ γὰρ τὴν ἀγαθὴν μερίδα ἐξελέξατο ἥτις οὐκ ἀφαιρεθήσεται ἀπ᾽ αὐτῆς.¶"
+pericope: "[[Luke.10.38 Martha and Mary|Martha and Mary]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 10
+book/chapter: "[[Luke.10|Luke 10]]"
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARTHA|MARTHA]]"
+- "[[topic MARY|MARY]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic SPIRITUALITY|SPIRITUALITY]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3641]]"
+- "[[G2228]]"
+- "[[G1520]]"
+- "[[G1161]]"
+- "[[G1510]]"
+- "[[G5532]]"
+- "[[G3137J]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G0018]]"
+- "[[G3310]]"
+- "[[G1586]]"
+- "[[G3748]]"
+- "[[G3756]]"
+- "[[G0851]]"
+- "[[G0575]]"
+- "[[G0846]]"
+texts:
+- O
+- NKO
+- N(k)O
+- ko
+---
+
 **Luke 10:42**<big><big>[[Luke.10.38 Martha and Mary|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But one thing is needful: and Mary hath chosen that good part, which shall not be taken away from her.
 <small><sub>**BSB:**</sub></small>
 But only one thing is necessary. Mary has chosen the good portion, and it will not be taken away from her.”
-<small><sub>**Literal:**</sub></small>
-few or one [thing] however is necessary: Mary for the good portion has chosen which not will be taken away from from her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.41|<< Luke 10:41]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.1|Luke 11:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3641\|ὀλίγων]]  [[G2228\|ἢ]]  [[G1520\|ἑνὸς]]  [[G1161\|δέ]]  [[G1510\|ἐστιν]]  [[G5532\|χρεία·]]  [[G3137J\|Μαριὰμ]]  [[G1063\|γὰρ]]  [[G3588\|τὴν]]  [[G0018\|ἀγαθὴν]]  [[G3310\|μερίδα]]  [[G1586\|ἐξελέξατο]]  [[G3748\|ἥτις]]  [[G3756\|οὐκ]]  [[G0851\|ἀφαιρεθήσεται]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτῆς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic FAITH|FAITH]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARTHA|MARTHA]] • [[topic MARY|MARY]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic SPIRITUALITY|SPIRITUALITY]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.41|<< Luke 10:41]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.1|Luke 11:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

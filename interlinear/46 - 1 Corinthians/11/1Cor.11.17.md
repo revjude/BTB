@@ -1,10 +1,53 @@
+---
+title: 1 Corinthians 11:17
+type: Verse
+kjv: "Now in this that I declare unto you I praise you not, that ye come together not for the better, but for the worse."
+bsb: "In the following instructions I have no praise to offer, because your gatherings do more harm than good."
+greek: "Τοῦτο δὲ παραγγέλλων οὐκ ἐπαινῶ ὅτι οὐκ εἰς τὸ κρεῖσσον ἀλλ᾽ εἰς τὸ ἧσσον συνέρχεσθε.¶"
+pericope: "[[1Cor.11.17 Sharing in the Lord’s Supper|Sharing in the Lord’s Supper]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 11
+book/chapter: "[[1Cor.11|1 Corinthians 11]]"
+chronological_order: 1068
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G3853]]"
+- "[[G3756]]"
+- "[[G1867]]"
+- "[[G3754H]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2908]]"
+- "[[G0235]]"
+- "[[G2276]]"
+- "[[G4905]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **1 Corinthians 11:17**<big><big>[[1Cor.11.17 Sharing in the Lord’s Supper|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now in this that I declare [unto you] I praise [you] not, that ye come together not for the better, but for the worse.
 <small><sub>**BSB:**</sub></small>
 In the following instructions I have no praise to offer, because your gatherings do more harm than good.
-<small><sub>**Literal:**</sub></small>
-In this now instructing not I do praise  because not for the better but for the worse you come together.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.16|<< 1 Corinthians 11:16]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.18|1 Corinthians 11:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Τοῦτο]]  [[G1161\|δὲ]]  [[G3853\|παραγγέλλων]]  [[G3756\|οὐκ]]  [[G1867\|ἐπαινῶ]]  [[G3754H\|ὅτι]]  [[G3756\|οὐκ]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2908\|κρεῖσσον]]  [[G0235\|ἀλλ᾽]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2276\|ἧσσον]]  [[G4905\|συνέρχεσθε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic STRIFE|STRIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.16|<< 1 Corinthians 11:16]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.18|1 Corinthians 11:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

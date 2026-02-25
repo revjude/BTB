@@ -1,10 +1,65 @@
+---
+title: Mark 13:19
+type: Verse
+kjv: "For in those days shall be affliction, such as was not from the beginning of the creation which God created unto this time, neither shall be."
+bsb: "For those will be days of tribulation unseen from the beginning of God’s creation until now, and never to be seen again."
+jesus_said: "For in those days shall be affliction, such as was not from the beginning of the creation which God created unto this time, neither shall be."
+greek: "ἔσονται γὰρ αἱ ἡμέραι ἐκεῖναι θλῖψις οἵα οὐ γέγονεν τοιαύτη ἀπ᾽ ἀρχῆς κτίσεως ἣν ἔκτισεν ὁ θεὸς ἕως τοῦ νῦν καὶ οὐ μὴ γένηται."
+pericope: "[[Mark.13.14 The Abomination of Desolation|The Abomination of Desolation]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 13
+book/chapter: "[[Mark.13|Mark 13]]"
+chronological_order: 998
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1565]]"
+- "[[G2347]]"
+- "[[G3634]]"
+- "[[G3756]]"
+- "[[G1096]]"
+- "[[G5108]]"
+- "[[G0575]]"
+- "[[G0746]]"
+- "[[G2937]]"
+- "[[G3739]]"
+- "[[G2936]]"
+- "[[G2316]]"
+- "[[G2193]]"
+- "[[G3568]]"
+- "[[G2532]]"
+- "[[G3361]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 13:19**<big><big>[[Mark.13.14 The Abomination of Desolation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For [in] those days shall be affliction, such as was not from the beginning of the creation which God created unto this time, neither shall be.
 <small><sub>**BSB:**</sub></small>
 For those will be days of tribulation unseen from the beginning of God’s creation until now, and never to be seen again.
-<small><sub>**Literal:**</sub></small>
-will be [in] for the days those tribulation such as never has been [the] like from [the] beginning of creation which created <the> God until <the> now — and certainly not may happen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.18|<< Mark 13:18]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.20|Mark 13:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἔσονται]]  [[G1063\|γὰρ]]  [[G3588\|αἱ]]  [[G2250\|ἡμέραι]]  [[G1565\|ἐκεῖναι]]  [[G2347\|θλῖψις]]  [[G3634\|οἵα]]  [[G3756\|οὐ]]  [[G1096\|γέγονεν]]  [[G5108\|τοιαύτη]]  [[G0575\|ἀπ᾽]]  [[G0746\|ἀρχῆς]]  [[G2937\|κτίσεως]]  [[G3739\|ἣν]]  [[G2936\|ἔκτισεν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G2193\|ἕως]]  [[G3588\|τοῦ]]  [[G3568\|νῦν]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G1096\|γένηται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.18|<< Mark 13:18]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.20|Mark 13:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

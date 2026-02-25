@@ -1,8 +1,62 @@
+---
+title: 1 Kings 20:20
+type: Verse
+kjv: "And they slew every one his man: and the Syrians fled; and Israel pursued them: and Benhadad the king of Syria escaped on an horse with the horsemen."
+bsb: "and each one struck down his opponent. So the Arameans fled, with the Israelites in pursuit. But Ben-hadad king of Aram escaped on horseback with the cavalry."
+hebrew: "וַיַּכּוּ֙ אִ֣ישׁ אִישׁ֔וֹ וַיָּנֻ֣סוּ אֲרָ֔ם וַֽיִּרְדְּפֵ֖ם יִשְׂרָאֵ֑ל וַיִּמָּלֵ֗ט בֶּן־ הֲדַד֙ מֶ֣לֶךְ אֲרָ֔ם עַל־ ס֖וּס וּפָרָשִֽׁים׃"
+pericope: "[[1Kgs.20.13 Ahab Defeats Ben-hadad|Ahab Defeats Ben-hadad]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H0376I]]"
+- "[[H0376G]]"
+- "[[H9023]]"
+- "[[H5127]]"
+- "[[H0758I]]"
+- "[[H7291]]"
+- "[[H9038]]"
+- "[[H3478]]"
+- "[[H4422]]"
+- "[[H1130G]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H5921A]]"
+- "[[H5483M]]"
+- "[[H9002]]"
+- "[[H6571B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 20:20**<big><big>[[1Kgs.20.13 Ahab Defeats Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they slew every one his man: and the Syrians fled; and Israel pursued them: and Benhadad the king of Syria escaped on an horse with the horsemen.
 <small><sub>**BSB:**</sub></small>
 and each one struck down his opponent. So the Arameans fled, with the Israelites in pursuit. But Ben-hadad king of Aram escaped on horseback with the cavalry.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5221\|יַּכּוּ֙]] [[H0376I\|אִ֣ישׁ]] [[H0376G\|אִישׁ֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H5127\|יָּנֻ֣סוּ]] [[H0758I\|אֲרָ֔ם]] [[H9001\|וַֽ]][[H7291\|יִּרְדְּפֵ֖]][[H9038\|ם]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H4422\|יִּמָּלֵ֗ט]] [[H1130G\|בֶּן]][[H9014\|־]] [[H1130G\|הֲדַד֙]] [[H4428G\|מֶ֣לֶךְ]] [[H0758I\|אֲרָ֔ם]] [[H5921A\|עַל]][[H9014\|־]] [[H5483M\|ס֖וּס]] [[H9002\|וּ]][[H6571B\|פָרָשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.19|<< 1 Kings 20:19]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.21|1 Kings 20:21 >>]]</td></tr></table>
 

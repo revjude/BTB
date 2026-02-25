@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Heals at Peter’s House
+type: Pericope
 pericope: "[[Matt.8.14 Jesus Heals at Peter’s House|Jesus Heals at Peter’s House]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 8
 book/chapter: "[[Matt.8|Matthew 8]]"
-genre:
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 4
 verses:
 - "[[Matt.8.14]]"
 - "[[Matt.8.15]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Matt.8.17]]"
 ---
 
-[[Matt.8|Matthew 8:14 - Matthew 8:17]]
+<small>[[Matt.8|Matthew 8:14-17]]</small>
 *Jesus Heals at Peter’s House*
 
 [[Matt.8.14|14]] And when Jesus was come into Peter’s house, he saw his wife’s mother laid, and sick of a fever.

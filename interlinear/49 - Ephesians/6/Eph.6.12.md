@@ -1,10 +1,66 @@
+---
+title: Ephesians 6:12
+type: Verse
+kjv: "For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places."
+bsb: "For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this world’s darkness, and against the spiritual forces of evil in the heavenly realms."
+greek: "ὅτι οὐκ ἔστιν ἡμῖν ἡ πάλη πρὸς αἷμα καὶ σάρκα ἀλλὰ πρὸς τὰς ἀρχάς, πρὸς τὰς ἐξουσίας, πρὸς τοὺς κοσμοκράτορας τοῦ σκότους τοῦ αἰῶνος τούτου, πρὸς τὰ πνευματικὰ τῆς πονηρίας ἐν τοῖς ἐπουρανίοις."
+pericope: "[[Eph.6.10 The Full Armor of God|The Full Armor of God]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 6
+book/chapter: "[[Eph.6|Ephesians 6]]"
+chronological_order: 1116
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ARMOR|ARMOR]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+- "[[topic WRESTLING|WRESTLING]]"
+strongs:
+- "[[G3754H]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G3823]]"
+- "[[G4314]]"
+- "[[G0129G]]"
+- "[[G2532]]"
+- "[[G4561]]"
+- "[[G0235]]"
+- "[[G0746]]"
+- "[[G1849]]"
+- "[[G2888]]"
+- "[[G4655]]"
+- "[[G0165G]]"
+- "[[G3778]]"
+- "[[G4152]]"
+- "[[G4189]]"
+- "[[G1722]]"
+- "[[G2032]]"
+texts:
+- NKO
+- k
+---
+
 **Ephesians 6:12**<big><big>[[Eph.6.10 The Full Armor of God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high [places].
 <small><sub>**BSB:**</sub></small>
 For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this world’s darkness, and against the spiritual forces of evil in the heavenly realms.
-<small><sub>**Literal:**</sub></small>
-because not is to us the wrestling against blood and flesh but against the rulers, against the authorities, against the cosmic powers of the darkness <the> age this, against the spiritual [forces] <the> of evil in the heavenly realms.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.11|<< Ephesians 6:11]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.13|Ephesians 6:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G3165\|ἡμῖν]]  [[G3588\|ἡ]]  [[G3823\|πάλη]]  [[G4314\|πρὸς]]  [[G0129G\|αἷμα]]  [[G2532\|καὶ]]  [[G4561\|σάρκα]]  [[G0235\|ἀλλὰ]]  [[G4314\|πρὸς]]  [[G3588\|τὰς]]  [[G0746\|ἀρχάς,]]  [[G4314\|πρὸς]]  [[G3588\|τὰς]]  [[G1849\|ἐξουσίας,]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G2888\|κοσμοκράτορας]]  [[G3588\|τοῦ]]  [[G4655\|σκότους]]  [[G3588\|τοῦ]]  [[G0165G\|αἰῶνος]]  [[G3778\|τούτου,]]  [[G4314\|πρὸς]]  [[G3588\|τὰ]]  [[G4152\|πνευματικὰ]]  [[G3588\|τῆς]]  [[G4189\|πονηρίας]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G2032\|ἐπουρανίοις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMOR|ARMOR]] • [[topic DARKNESS|DARKNESS]] • [[topic SATAN|SATAN]] • [[topic SOLDIERS|SOLDIERS]] • [[topic WRESTLING|WRESTLING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.11|<< Ephesians 6:11]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.13|Ephesians 6:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

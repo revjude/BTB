@@ -1,8 +1,67 @@
+---
+title: Isaiah 24:18
+type: Verse
+kjv: "And it shall come to pass, that he who fleeth from the noise of the fear shall fall into the pit; and he that cometh up out of the midst of the pit shall be taken in the snare: for the windows from on high are open, and the foundations of the earth do shake."
+bsb: "Whoever flees the sound of panic will fall into the pit, and whoever climbs from the pit will be caught in the snare. For the windows of heaven are open, and the foundations of the earth are shaken."
+hebrew: "וְֽ֠הָיָה הַנָּ֞ס מִקּ֤וֹל הַפַּ֙חַד֙ יִפֹּ֣ל אֶל־ הַפַּ֔חַת וְהָֽעוֹלֶה֙ מִתּ֣וֹךְ הַפַּ֔חַת יִלָּכֵ֖ד בַּפָּ֑ח כִּֽי־ אֲרֻבּ֤וֹת מִמָּרוֹם֙ נִפְתָּ֔חוּ וַֽיִּרְעֲשׁ֖וּ מ֥וֹסְדֵי אָֽרֶץ׃"
+pericope: "[[Isa.24.1 God’s Judgment on the Earth|God’s Judgment on the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 24
+book/chapter: "[[Isa.24|Isaiah 24]]"
+chronological_order: 667
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H5127]]"
+- "[[H9006]]"
+- "[[H6963H]]"
+- "[[H6343]]"
+- "[[H5307G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6354]]"
+- "[[H9002]]"
+- "[[H5927G]]"
+- "[[H8432]]"
+- "[[H3920]]"
+- "[[H9003]]"
+- "[[H6341A]]"
+- "[[H3588A]]"
+- "[[H0699]]"
+- "[[H4791]]"
+- "[[H6605A]]"
+- "[[H7493]]"
+- "[[H4144]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 24:18**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, [that] he who fleeth from the noise of the fear shall fall into the pit; and he that cometh up out of the midst of the pit shall be taken in the snare: for the windows from on high are open, and the foundations of the earth do shake.
 <small><sub>**BSB:**</sub></small>
 Whoever flees the sound of panic will fall into the pit, and whoever climbs from the pit will be caught in the snare. For the windows of heaven are open, and the foundations of the earth are shaken.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְֽ֠]][[H1961\|הָיָה]] [[H9009\|הַ]][[H5127\|נָּ֞ס]] [[H9006\|מִ]][[H6963H\|קּ֤וֹל]] [[H9009\|הַ]][[H6343\|פַּ֙חַד֙]] [[H5307G\|יִפֹּ֣ל]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H6354\|פַּ֔חַת]] [[H9002\|וְ]][[H9009\|הָֽ]][[H5927G\|עוֹלֶה֙]] [[H9006\|מִ]][[H8432\|תּ֣וֹךְ]] [[H9009\|הַ]][[H6354\|פַּ֔חַת]] [[H3920\|יִלָּכֵ֖ד]] [[H9003\|בַּ]][[H6341A\|פָּ֑ח]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0699\|אֲרֻבּ֤וֹת]] [[H9006\|מִ]][[H4791\|מָּרוֹם֙]] [[H6605A\|נִפְתָּ֔חוּ]] [[H9001\|וַֽ]][[H7493\|יִּרְעֲשׁ֖וּ]] [[H4144\|מ֥וֹסְדֵי]] [[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.17|<< Isaiah 24:17]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.19|Isaiah 24:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

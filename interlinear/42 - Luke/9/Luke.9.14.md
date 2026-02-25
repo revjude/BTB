@@ -1,10 +1,60 @@
+---
+title: Luke 9:14
+type: Verse
+kjv: "For they were about five thousand men. And he said to his disciples, Make them sit down by fifties in a company."
+bsb: "(There were about five thousand men.) He told His disciples, “Have them sit down in groups of about fifty each.”"
+jesus_said: "Make them sit down by fifties in a company."
+greek: "ἦσαν γὰρ ὡσεὶ ἄνδρες πεντακισχίλιοι.¶ Εἶπεν δὲ πρὸς τοὺς μαθητὰς αὐτοῦ· κατακλίνατε αὐτοὺς κλισίας ὡσεὶ ἀνὰ πεντήκοντα."
+pericope: "[[Luke.9.10 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FISH|FISH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOAVES|LOAVES]]"
+strongs:
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G5616]]"
+- "[[G0435G]]"
+- "[[G4000]]"
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G2625]]"
+- "[[G2828]]"
+- "[[G0303]]"
+- "[[G4004]]"
+texts:
+- NKO
+- NO
+---
+
 **Luke 9:14**<big><big>[[Luke.9.10 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For they were about five thousand men. And he said to his disciples, Make them sit down by fifties in a company.
 <small><sub>**BSB:**</sub></small>
 (There were about five thousand men.) He told His disciples, “Have them sit down in groups of about fifty each.”
-<small><sub>**Literal:**</sub></small>
-They were for about men five thousand. He said then to the disciples of Him; do make sit down them groups of about in fifty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.13|<< Luke 9:13]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.15|Luke 9:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦσαν]]  [[G1063\|γὰρ]]  [[G5616\|ὡσεὶ]]  [[G0435G\|ἄνδρες]]  [[G4000\|πεντακισχίλιοι.¶]]  [[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G3101\|μαθητὰς]]  [[G0846\|αὐτοῦ·]]  [[G2625\|κατακλίνατε]]  [[G0846\|αὐτοὺς]]  [[G2828\|κλισίας]]  [[G5616\|ὡσεὶ]]  [[G0303\|ἀνὰ]]  [[G4004\|πεντήκοντα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FISH|FISH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOAVES|LOAVES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.13|<< Luke 9:13]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.15|Luke 9:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,69 @@
+---
+title: Zechariah 6:13
+type: Verse
+kjv: "Even he shall build the temple of the LORD; and he shall bear the glory, and shall sit and rule upon his throne; and he shall be a priest upon his throne: and the counsel of peace shall be between them both."
+bsb: "Yes, He will build the temple of the LORD; He will be clothed in splendor and will sit on His throne and rule. And He will be a priest on His throne, and there will be peaceful counsel between the two.’"
+hebrew: "וְ֠הוּא יִבְנֶ֞ה אֶת־ הֵיכַ֤ל יְהוָה֙ וְהֽוּא־ יִשָּׂ֣א ה֔וֹד וְיָשַׁ֥ב וּמָשַׁ֖ל עַל־ כִּסְא֑וֹ וְהָיָ֤ה כֹהֵן֙ עַל־ כִּסְא֔וֹ וַעֲצַ֣ת שָׁל֔וֹם תִּהְיֶ֖ה בֵּ֥ין שְׁנֵיהֶֽם׃"
+pericope: "[[Zech.6.9 The Crown and the Temple|The Crown and the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 6
+book/chapter: "[[Zech.6|Zechariah 6]]"
+chronological_order: 862
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic JESHUA|JESHUA]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1964G]]"
+- "[[H3068G]]"
+- "[[H5375H]]"
+- "[[H1935]]"
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H4910]]"
+- "[[H5921A]]"
+- "[[H3678G]]"
+- "[[H9023]]"
+- "[[H1961]]"
+- "[[H3548]]"
+- "[[H6098]]"
+- "[[H7965G]]"
+- "[[H0996G]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 6:13**<big><big>[[Zech.6.9 The Crown and the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even he shall build the temple of the LORD; and he shall bear the glory, and shall sit and rule upon his throne; and he shall be a priest upon his throne: and the counsel of peace shall be between them both.
 <small><sub>**BSB:**</sub></small>
 Yes, He will build the temple of the LORD; He will be clothed in splendor and will sit on His throne and rule. And He will be a priest on His throne, and there will be peaceful counsel between the two.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֠]][[H1931\|הוּא]] [[H1129\|יִבְנֶ֞ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1964G\|הֵיכַ֤ל]] [[H3068G\|יְהוָה֙]] [[H9002\|וְ]][[H1931\|הֽוּא]][[H9014\|־]] [[H5375H\|יִשָּׂ֣א]] [[H1935\|ה֔וֹד]] [[H9001\|וְ]][[H3427\|יָשַׁ֥ב]] [[H9001\|וּ]][[H4910\|מָשַׁ֖ל]] [[H5921A\|עַל]][[H9014\|־]] [[H3678G\|כִּסְא֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H1961\|הָיָ֤ה]] [[H3548\|כֹהֵן֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3678G\|כִּסְא֔]][[H9023\|וֹ]] [[H9002\|וַ]][[H6098\|עֲצַ֣ת]] [[H7965G\|שָׁל֔וֹם]] [[H1961\|תִּהְיֶ֖ה]] [[H0996G\|בֵּ֥ין]] [[H8147\|שְׁנֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESHUA|JESHUA]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSHUA|JOSHUA]] • [[topic TEMPLE|TEMPLE]] • [[topic TYPES|TYPES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.6.12|<< Zechariah 6:12]]</td><td align="center" style="border:none;">[[Zech.6|Zechariah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.6.14|Zechariah 6:14 >>]]</td></tr></table>
 

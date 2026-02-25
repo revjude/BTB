@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Ephod
+type: Pericope
 pericope: "[[Exod.28.6 The Ephod|The Ephod]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 28
 book/chapter: "[[Exod.28|Exodus 28]]"
-genre:
+chronological_order: 120
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 9
 verses:
 - "[[Exod.28.6]]"
 - "[[Exod.28.7]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Exod.28.14]]"
 ---
 
-[[Exod.28|Exodus 28:6 - Exodus 28:14]]
+<small>[[Exod.28|Exodus 28:6-14]]</small>
 *The Ephod*
 
 [[Exod.28.6|6]] And they shall make the ephod \[of\] gold, \[of\] blue, and \[of\] purple, \[of\] scarlet, and fine twined linen, with cunning work.

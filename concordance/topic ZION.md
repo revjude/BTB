@@ -5,7 +5,7 @@
 
 → Also called SION
 
-→ Captured from the Jebusites by David [[2Sam.5.6|2Sa 5:6]]-[[2Sam.5.9|9]]; [[1Chr.11.5|1Ch 11:5]]-[[1Chr.11.7|7]]
+→ Captured from the Jebusites by David [[2Sam.5.6|2Sa 5:6-9]]; [[1Chr.11.5|1Ch 11:5-7]]
 
 → Called thereafter &#8220;the city of David,&#8221; [[2Sam.5.7|2Sa 5:7]],[[2Sam.5.9|9]]; [[2Sam.6.12|6:12]],[[2Sam.6.16|16]];  [[1Kgs.8.1|1Ki 8:1]]; [[1Chr.11.5|1Ch 11:5]],[[1Chr.11.7|7]]; [[1Chr.15.1|15:1]],[[1Chr.15.29|29]]; [[2Chr.5.2|2Ch 5:2]]
 

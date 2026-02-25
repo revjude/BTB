@@ -1,10 +1,55 @@
+---
+title: 1 Peter 2:4
+type: Verse
+kjv: "To whom coming, as unto a living stone, disallowed indeed of men, but chosen of God, and precious,"
+bsb: "As you come to Him, the living stone, rejected by men but chosen and precious in God’s sight,"
+greek: "πρὸς ὃν προσερχόμενοι λίθον ζῶντα, ὑπὸ ἀνθρώπων μὲν ἀποδεδοκιμασμένον παρὰ δὲ θεῷ ἐκλεκτὸν ἔντιμον,"
+pericope: "[[1Pet.2.1 The Living Stone and Chosen People|The Living Stone and Chosen People]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 2
+book/chapter: "[[1Pet.2|1 Peter 2]]"
+chronological_order: 1136
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[G4314]]"
+- "[[G3739]]"
+- "[[G4334]]"
+- "[[G3037]]"
+- "[[G2198]]"
+- "[[G5259G]]"
+- "[[G0444]]"
+- "[[G3303]]"
+- "[[G0593]]"
+- "[[G3844]]"
+- "[[G1161]]"
+- "[[G2316]]"
+- "[[G1588]]"
+- "[[G1784]]"
+texts:
+- NKO
+---
+
 **1 Peter 2:4**<big><big>[[1Pet.2.1 The Living Stone and Chosen People|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 To whom coming, [as unto] a living stone, disallowed indeed of men, but chosen of God, [and] precious,
 <small><sub>**BSB:**</sub></small>
 As you come to Him, the living stone, rejected by men but chosen and precious in God’s sight,
-<small><sub>**Literal:**</sub></small>
-To whom coming a stone living, by men indeed rejected in the sight of however God chosen [and] precious,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.3|<< 1 Peter 2:3]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.5|1 Peter 2:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4314\|πρὸς]]  [[G3739\|ὃν]]  [[G4334\|προσερχόμενοι]]  [[G3037\|λίθον]]  [[G2198\|ζῶντα,]]  [[G5259G\|ὑπὸ]]  [[G0444\|ἀνθρώπων]]  [[G3303\|μὲν]]  [[G0593\|ἀποδεδοκιμασμένον]]  [[G3844\|παρὰ]]  [[G1161\|δὲ]]  [[G2316\|θεῷ]]  [[G1588\|ἐκλεκτὸν]]  [[G1784\|ἔντιμον,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic STONES|STONES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.3|<< 1 Peter 2:3]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.5|1 Peter 2:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Peter 2:4** is...
 > $\quad$ alluding to: [[LXX.Ps.118.22|Ps 118:22]]

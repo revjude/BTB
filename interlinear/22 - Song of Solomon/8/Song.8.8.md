@@ -1,8 +1,52 @@
+---
+title: Song of Solomon 8:8
+type: Verse
+kjv: "We have a little sister, and she hath no breasts: what shall we do for our sister in the day when she shall be spoken for?"
+bsb: "We have a little sister, and her breasts are not yet grown. What shall we do for our sister on the day she is spoken for?"
+hebrew: "אָח֥וֹת לָ֙נוּ֙ קְטַנָּ֔ה וְשָׁדַ֖יִם אֵ֣ין לָ֑הּ מַֽה־ נַּעֲשֶׂה֙ לַאֲחֹתֵ֔נוּ בַּיּ֖וֹם שֶׁיְּדֻבַּר־ בָּֽהּ׃"
+pericope: "[[Song.8.8 The Friends|The Friends]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 8
+book/chapter: "[[Song.8|Song of Solomon 8]]"
+chronological_order: 455
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+strongs:
+- "[[H0269]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H6996A]]"
+- "[[H9002]]"
+- "[[H7699A]]"
+- "[[H0369]]"
+- "[[H9034]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H9025]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9007]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 8:8**<big><big>[[Song.8.8 The Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We have a little sister, and she hath no breasts: what shall we do for our sister in the day when she shall be spoken for?
 <small><sub>**BSB:**</sub></small>
 We have a little sister, and her breasts are not yet grown. What shall we do for our sister on the day she is spoken for?
+<small><sub>**Hebrew:**</sub></small>
+[[H0269\|אָח֥וֹת]] [[H9005\|לָ֙]][[H9035\|נוּ֙]] [[H6996A\|קְטַנָּ֔ה]] [[H9002\|וְ]][[H7699A\|שָׁדַ֖יִם]] [[H0369\|אֵ֣ין]] [[H9005\|לָ֑]][[H9034\|הּ]] [[H4100\|מַֽה]][[H9014\|־]] [[H6213A\|נַּעֲשֶׂה֙]] [[H9005\|לַ]][[H0269\|אֲחֹתֵ֔]][[H9025\|נוּ]] [[H9003\|בַּ]][[H3117G\|יּ֖וֹם]] [[H9007\|שֶׁ]][[H1696G\|יְּדֻבַּר]][[H9014\|־]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.8.7|<< Song of Solomon 8:7]]</td><td align="center" style="border:none;">[[Song.8|Song of Solomon 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.8.9|Song of Solomon 8:9 >>]]</td></tr></table>
 

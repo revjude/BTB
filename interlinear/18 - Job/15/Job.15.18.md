@@ -1,8 +1,48 @@
+---
+title: Job 15:18
+type: Verse
+kjv: "Which wise men have told from their fathers, and have not hid it:"
+bsb: "what was declared by wise men and was not concealed from their fathers,"
+hebrew: "אֲשֶׁר־ חֲכָמִ֥ים יַגִּ֑ידוּ וְלֹ֥א כִֽ֝חֲד֗וּ מֵאֲבוֹתָֽם׃"
+pericope: "[[Job.15.1 Eliphaz：Job Does Not Fear God|Eliphaz：Job Does Not Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 15
+book/chapter: "[[Job.15|Job 15]]"
+chronological_order: 26
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H2450]]"
+- "[[H5046]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3582]]"
+- "[[H9006]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 15:18**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which wise men have told from their fathers, and have not hid [it]:
 <small><sub>**BSB:**</sub></small>
 what was declared by wise men and was not concealed from their fathers,
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2450\|חֲכָמִ֥ים]] [[H5046\|יַגִּ֑ידוּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3582\|כִֽ֝חֲד֗וּ]] [[H9006\|מֵ]][[H0001G\|אֲבוֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.17|<< Job 15:17]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.19|Job 15:19 >>]]</td></tr></table>
 

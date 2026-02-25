@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: I Will Sing of His Love Forever
+type: Pericope
 pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
-verse_count: 53
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 89
 book/chapter: "[[Ps.89|Psalm 89]]"
-genre:
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 53
 verses:
 - "[[Ps.89.0]]"
 - "[[Ps.89.1]]"
@@ -74,7 +81,7 @@ verses:
 - "[[Ps.89.52]]"
 ---
 
-[[Ps.89|Psalm 89:1 - Psalm 89:52]]
+<small>[[Ps.89|Psalm 89:1-52]]</small>
 *I Will Sing of His Love Forever*
 
 [[Ps.89.0|0]] Maschil of Ethan the Ezrahite.

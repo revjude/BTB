@@ -1,8 +1,73 @@
+---
+title: Jeremiah 3:14
+type: Verse
+kjv: "Turn, O backsliding children, saith the LORD; for I am married unto you: and I will take you one of a city, and two of a family, and I will bring you to Zion:"
+bsb: "“Return, O faithless children,” declares the LORD, “for I am your master, and I will take you—one from a city and two from a family—and bring you to Zion."
+hebrew: "שׁ֣וּבוּ בָנִ֤ים שׁוֹבָבִים֙ נְאֻם־ יְהוָ֔ה כִּ֥י אָנֹכִ֖י בָּעַ֣לְתִּי בָכֶ֑ם וְלָקַחְתִּ֨י אֶתְכֶ֜ם אֶחָ֣ד מֵעִ֗יר וּשְׁנַ֙יִם֙ מִמִּשְׁפָּחָ֔ה וְהֵבֵאתִ֥י אֶתְכֶ֖ם צִיּֽוֹן׃"
+pericope: "[[Jer.3.11 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 3
+book/chapter: "[[Jer.3|Jeremiah 3]]"
+chronological_order: 720
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H7725G]]"
+- "[[H1121A]]"
+- "[[H7726]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H0595]]"
+- "[[H1166I]]"
+- "[[H9003]]"
+- "[[H9036]]"
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H5892B]]"
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H4940]]"
+- "[[H0935P]]"
+- "[[H6726]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 3:14**<big><big>[[Jer.3.11 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn, O backsliding children, saith the LORD; for I am married unto you: and I will take you one of a city, and two of a family, and I will bring you to Zion:
 <small><sub>**BSB:**</sub></small>
 “Return, O faithless children,” declares the LORD, “for I am your master, and I will take you—one from a city and two from a family—and bring you to Zion.
+<small><sub>**Hebrew:**</sub></small>
+[[H7725G\|שׁ֣וּבוּ]] [[H1121A\|בָנִ֤ים]] [[H7726\|שׁוֹבָבִים֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H3588A\|כִּ֥י]] [[H0595\|אָנֹכִ֖י]] [[H1166I\|בָּעַ֣לְתִּי]] [[H9003\|בָ]][[H9036\|כֶ֑ם]] [[H9001\|וְ]][[H3947G\|לָקַחְתִּ֨י]] [[H0853\|אֶתְ]][[H9036\|כֶ֜ם]] [[H0259\|אֶחָ֣ד]] [[H9006\|מֵ]][[H5892B\|עִ֗יר]] [[H9002\|וּ]][[H8147\|שְׁנַ֙יִם֙]] [[H9006\|מִ]][[H4940\|מִּשְׁפָּחָ֔ה]] [[H9001\|וְ]][[H0935P\|הֵבֵאתִ֥י]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H6726\|צִיּֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic HUSBAND|HUSBAND]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARRIAGE|MARRIAGE]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.13|<< Jeremiah 3:13]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.15|Jeremiah 3:15 >>]]</td></tr></table>
 

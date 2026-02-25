@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Pool of Bethesda
+type: Pericope
 pericope: "[[John.5.1 The Pool of Bethesda|The Pool of Bethesda]]"
-verse_count: 14
+original_language: Greek
 testament: New
 book: John
 chapter: 5
 book/chapter: "[[John.5|John 5]]"
-genre:
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 14
 verses:
 - "[[John.5.1]]"
 - "[[John.5.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[John.5.15]]"
 ---
 
-[[John.5|John 5:1 - John 5:15]]
+<small>[[John.5|John 5:1-15]]</small>
 *The Pool of Bethesda*
 
 [[John.5.1|1]] After this there was a feast of the Jews; and Jesus went up to Jerusalem.

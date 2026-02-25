@@ -1,8 +1,61 @@
+---
+title: Ezekiel 46:3
+type: Verse
+kjv: "Likewise the people of the land shall worship at the door of this gate before the LORD in the sabbaths and in the new moons."
+bsb: "On the Sabbaths and New Moons the people of the land are also to bow in worship before the LORD at the entrance to that gateway."
+hebrew: "וְהִשְׁתַּחֲו֣וּ עַם־ הָאָ֗רֶץ פֶּ֚תַח הַשַּׁ֣עַר הַה֔וּא בַּשַּׁבָּת֖וֹת וּבֶחֳדָשִׁ֑ים לִפְנֵ֖י יְהוָֽה׃"
+pericope: "[[Ezek.46.1 The Prince’s Offerings|The Prince’s Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 46
+book/chapter: "[[Ezek.46|Ezekiel 46]]"
+chronological_order: 837
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7812]]"
+- "[[H5971A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H6607]]"
+- "[[H8179G]]"
+- "[[H1931]]"
+- "[[H9003]]"
+- "[[H7676]]"
+- "[[H9002]]"
+- "[[H2320H]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 46:3**<big><big>[[Ezek.46.1 The Prince’s Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Likewise the people of the land shall worship at the door of this gate before the LORD in the sabbaths and in the new moons.
 <small><sub>**BSB:**</sub></small>
 On the Sabbaths and New Moons the people of the land are also to bow in worship before the LORD at the entrance to that gateway.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7812\|הִשְׁתַּחֲו֣וּ]] [[H5971A\|עַם]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֗רֶץ]] [[H6607\|פֶּ֚תַח]] [[H9009\|הַ]][[H8179G\|שַּׁ֣עַר]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H9003\|בַּ]][[H7676\|שַּׁבָּת֖וֹת]] [[H9002\|וּ]][[H9003\|בֶ]][[H2320H\|חֳדָשִׁ֑ים]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SABBATH|SABBATH]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.46.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.2|<< Ezekiel 46:2]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.4|Ezekiel 46:4 >>]]</td></tr></table>
 

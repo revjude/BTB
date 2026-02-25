@@ -1,10 +1,72 @@
+---
+title: Luke 16:26
+type: Verse
+kjv: "And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that would come from thence."
+bsb: "And besides all this, a great chasm has been fixed between us and you, so that even those who wish cannot cross from here to you, nor can anyone cross from there to us.’"
+jesus_said: "And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that would come from thence."
+greek: "καὶ ἐν πᾶσιν τούτοις μεταξὺ ἡμῶν καὶ ὑμῶν χάσμα μέγα ἐστήρικται ὅπως οἱ θέλοντες διαβῆναι ἔνθεν πρὸς ὑμᾶς μὴ δύνωνται μηδὲ οἱ ἐκεῖθεν πρὸς ἡμᾶς διαπερῶσιν.¶"
+pericope: "[[Luke.16.19 The Rich Man and Lazarus|The Rich Man and Lazarus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 16
+book/chapter: "[[Luke.16|Luke 16]]"
+chronological_order: 978
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HELL|HELL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic TORMENTS|TORMENTS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G3778]]"
+- "[[G3342]]"
+- "[[G3165]]"
+- "[[G4771]]"
+- "[[G5490]]"
+- "[[G3173]]"
+- "[[G4741]]"
+- "[[G3704]]"
+- "[[G3588]]"
+- "[[G2309]]"
+- "[[G1224]]"
+- "[[G6033]]"
+- "[[G4314]]"
+- "[[G3361]]"
+- "[[G1410]]"
+- "[[G3366]]"
+- "[[G1564]]"
+- "[[G1276]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Luke 16:26**<big><big>[[Luke.16.19 The Rich Man and Lazarus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that [would come] from thence.
 <small><sub>**BSB:**</sub></small>
 And besides all this, a great chasm has been fixed between us and you, so that even those who wish cannot cross from here to you, nor can anyone cross from there to us.’
-<small><sub>**Literal:**</sub></small>
-And besides all these things between us and you a chasm great has been fixed so that those desiring to pass from here to you not may be able nor those from there to us they shall pass.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.25|<< Luke 16:25]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.27|Luke 16:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3956\|πᾶσιν]]  [[G3778\|τούτοις]]  [[G3342\|μεταξὺ]]  [[G3165\|ἡμῶν]]  [[G2532\|καὶ]]  [[G4771\|ὑμῶν]]  [[G5490\|χάσμα]]  [[G3173\|μέγα]]  [[G4741\|ἐστήρικται]]  [[G3704\|ὅπως]]  [[G3588\|οἱ]]  [[G2309\|θέλοντες]]  [[G1224\|διαβῆναι]]  [[G6033\|ἔνθεν]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G3361\|μὴ]]  [[G1410\|δύνωνται]]  [[G3366\|μηδὲ]]  [[G3588\|οἱ]]  [[G1564\|ἐκεῖθεν]]  [[G4314\|πρὸς]]  [[G3165\|ἡμᾶς]]  [[G1276\|διαπερῶσιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DEATH|DEATH]] • [[topic HELL|HELL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RICH, THE|RICH, THE]] • [[topic TORMENTS|TORMENTS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.25|<< Luke 16:25]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.27|Luke 16:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

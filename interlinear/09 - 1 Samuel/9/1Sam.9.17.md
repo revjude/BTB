@@ -1,8 +1,65 @@
+---
+title: 1 Samuel 9:17
+type: Verse
+kjv: "And when Samuel saw Saul, the LORD said unto him, Behold the man whom I spake to thee of! this same shall reign over my people."
+bsb: "When Samuel saw Saul, the LORD told him, “Here is the man of whom I spoke; he shall rule over My people.”"
+hebrew: "וּשְׁמוּאֵ֖ל רָאָ֣ה אֶת־ שָׁא֑וּל וַיהוָ֣ה עָנָ֔הוּ הִנֵּ֤ה הָאִישׁ֙ אֲשֶׁ֣ר אָמַ֣רְתִּי אֵלֶ֔יךָ זֶ֖ה יַעְצֹ֥ר בְּעַמִּֽי׃"
+pericope: "[[1Sam.9.1 Saul Chosen as King|Saul Chosen as King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 9
+book/chapter: "[[1Sam.9|1 Samuel 9]]"
+chronological_order: 288
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic KING|KING]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9002]]"
+- "[[H8050G]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7586G]]"
+- "[[H3068G]]"
+- "[[H6030B]]"
+- "[[H9033]]"
+- "[[H2009]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H2088]]"
+- "[[H6113]]"
+- "[[H9003]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 9:17**<big><big>[[1Sam.9.1 Saul Chosen as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Samuel saw Saul, the LORD said unto him, Behold the man whom I spake to thee of! this same shall reign over my people.
 <small><sub>**BSB:**</sub></small>
 When Samuel saw Saul, the LORD told him, “Here is the man of whom I spoke; he shall rule over My people.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H8050G\|שְׁמוּאֵ֖ל]] [[H7200G\|רָאָ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H7586G\|שָׁא֑וּל]] [[H9002\|וַ]][[H3068G\|יהוָ֣ה]] [[H6030B\|עָנָ֔]][[H9033\|הוּ]] [[H2009\|הִנֵּ֤ה]] [[H9009\|הָ]][[H0376G\|אִישׁ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0559\|אָמַ֣רְתִּי]] [[H0413\|אֵלֶ֔י]][[H9031\|ךָ]] [[H2088\|זֶ֖ה]] [[H6113\|יַעְצֹ֥ר]] [[H9003\|בְּ]][[H5971A\|עַמִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic KING|KING]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.9.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9.16|<< 1 Samuel 9:16]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.18|1 Samuel 9:18 >>]]</td></tr></table>
 

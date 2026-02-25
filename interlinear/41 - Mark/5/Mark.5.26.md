@@ -1,10 +1,63 @@
+---
+title: Mark 5:26
+type: Verse
+kjv: "And had suffered many things of many physicians, and had spent all that she had, and was nothing bettered, but rather grew worse,"
+bsb: "She had borne much agony under the care of many physicians and had spent all she had, but to no avail. Instead, her condition had only grown worse."
+greek: "καὶ πολλὰ παθοῦσα ὑπὸ πολλῶν ἰατρῶν καὶ δαπανήσασα τὰ παρ᾽ αὐτῆς πάντα καὶ μηδὲν ὠφεληθεῖσα ἀλλὰ μᾶλλον εἰς τὸ χεῖρον ἐλθοῦσα,"
+pericope: "[[Mark.5.21 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic HEMORRHAGE|HEMORRHAGE]]"
+- "[[topic JAIRUS|JAIRUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PHYSICIAN|PHYSICIAN]]"
+strongs:
+- "[[G2532]]"
+- "[[G4183]]"
+- "[[G3958]]"
+- "[[G5259H]]"
+- "[[G2395]]"
+- "[[G1159]]"
+- "[[G3588]]"
+- "[[G3844]]"
+- "[[G0846]]"
+- "[[G3956]]"
+- "[[G3367]]"
+- "[[G5623]]"
+- "[[G0235]]"
+- "[[G3123H]]"
+- "[[G1519]]"
+- "[[G5501]]"
+- "[[G2064]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 5:26**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And had suffered many things of many physicians, and had spent all that she had, and was nothing bettered, but rather grew worse,
 <small><sub>**BSB:**</sub></small>
 She had borne much agony under the care of many physicians and had spent all she had, but to no avail. Instead, her condition had only grown worse.
-<small><sub>**Literal:**</sub></small>
-and much having suffered under many physicians and having spent the of her all and in no way having benefited but rather to the worse having come,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.25|<< Mark 5:25]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.27|Mark 5:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4183\|πολλὰ]]  [[G3958\|παθοῦσα]]  [[G5259H\|ὑπὸ]]  [[G4183\|πολλῶν]]  [[G2395\|ἰατρῶν]]  [[G2532\|καὶ]]  [[G1159\|δαπανήσασα]]  [[G3588\|τὰ]]  [[G3844\|παρ᾽]]  [[G0846\|αὐτῆς]]  [[G3956\|πάντα]]  [[G2532\|καὶ]]  [[G3367\|μηδὲν]]  [[G5623\|ὠφεληθεῖσα]]  [[G0235\|ἀλλὰ]]  [[G3123H\|μᾶλλον]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G5501\|χεῖρον]]  [[G2064\|ἐλθοῦσα,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISEASE|DISEASE]] • [[topic HEMORRHAGE|HEMORRHAGE]] • [[topic JAIRUS|JAIRUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PHYSICIAN|PHYSICIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.25|<< Mark 5:25]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.27|Mark 5:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

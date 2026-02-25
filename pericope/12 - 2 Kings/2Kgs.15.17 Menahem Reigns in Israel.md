@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Menahem Reigns in Israel
+type: Pericope
 pericope: "[[2Kgs.15.17 Menahem Reigns in Israel|Menahem Reigns in Israel]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 15
 book/chapter: "[[2Kgs.15|2 Kings 15]]"
-genre:
+chronological_order: 607
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~767–735 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 6
 verses:
 - "[[2Kgs.15.17]]"
 - "[[2Kgs.15.18]]"
@@ -24,7 +31,7 @@ verses:
 - "[[2Kgs.15.22]]"
 ---
 
-[[2Kgs.15|2 Kings 15:17 - 2 Kings 15:22]]
+<small>[[2Kgs.15|2 Kings 15:17-22]]</small>
 *Menahem Reigns in Israel*
 
 [[2Kgs.15.17|17]] In the nine and thirtieth year of Azariah king of Judah began Menahem the son of Gadi to reign over Israel, \[and reigned\] ten years in Samaria.

@@ -1,8 +1,55 @@
+---
+title: 1 Chronicles 9:17
+type: Verse
+kjv: "And the porters were, Shallum, and Akkub, and Talmon, and Ahiman, and their brethren: Shallum was the chief;"
+bsb: "These were the gatekeepers: Shallum, Akkub, Talmon, Ahiman, and their relatives. Shallum was their chief;"
+hebrew: "וְהַשֹּׁעֲרִים֙ שַׁלּ֣וּם וְעַקּ֔וּב וְטַלְמֹ֖ן וַאֲחִימָ֑ן וַאֲחִיהֶ֥ם שַׁלּ֖וּם הָרֹֽאשׁ׃"
+pericope: "[[1Chr.9.1 The People of Jerusalem|The People of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 9
+book/chapter: "[[1Chr.9|1 Chronicles 9]]"
+chronological_order: 328
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AHIMAN|AHIMAN]]"
+- "[[topic AKKUB|AKKUB]]"
+- "[[topic PORTERS|PORTERS]]"
+- "[[topic SHALLUM|SHALLUM]]"
+- "[[topic TALMON|TALMON]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H7778]]"
+- "[[H7967M]]"
+- "[[H6126H]]"
+- "[[H2929]]"
+- "[[H0289H]]"
+- "[[H0251H]]"
+- "[[H9028]]"
+- "[[H7218H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 9:17**<big><big>[[1Chr.9.1 The People of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the porters [were], Shallum, and Akkub, and Talmon, and Ahiman, and their brethren: Shallum [was] the chief;
 <small><sub>**BSB:**</sub></small>
 These were the gatekeepers: Shallum, Akkub, Talmon, Ahiman, and their relatives. Shallum was their chief;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H7778\|שֹּׁעֲרִים֙]] [[H7967M\|שַׁלּ֣וּם]] [[H9002\|וְ]][[H6126H\|עַקּ֔וּב]] [[H9002\|וְ]][[H2929\|טַלְמֹ֖ן]] [[H9002\|וַ]][[H0289H\|אֲחִימָ֑ן]] [[H9002\|וַ]][[H0251H\|אֲחִי]][[H9028\|הֶ֥ם]] [[H7967M\|שַׁלּ֖וּם]] [[H9009\|הָ]][[H7218H\|רֹֽאשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIMAN|AHIMAN]] • [[topic AKKUB|AKKUB]] • [[topic PORTERS|PORTERS]] • [[topic SHALLUM|SHALLUM]] • [[topic TALMON|TALMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.16|<< 1 Chronicles 9:16]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.18|1 Chronicles 9:18 >>]]</td></tr></table>
 

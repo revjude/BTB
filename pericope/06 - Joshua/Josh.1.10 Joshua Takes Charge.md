@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joshua Takes Charge
+type: Pericope
 pericope: "[[Josh.1.10 Joshua Takes Charge|Joshua Takes Charge]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 1
 book/chapter: "[[Josh.1|Joshua 1]]"
-genre:
+chronological_order: 231
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 9
 verses:
 - "[[Josh.1.10]]"
 - "[[Josh.1.11]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Josh.1.18]]"
 ---
 
-[[Josh.1|Joshua 1:10 - Joshua 1:18]]
+<small>[[Josh.1|Joshua 1:10-18]]</small>
 *Joshua Takes Charge*
 
 [[Josh.1.10|10]] Then Joshua commanded the officers of the people, saying,

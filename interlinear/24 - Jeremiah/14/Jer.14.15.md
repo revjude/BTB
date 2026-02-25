@@ -1,8 +1,73 @@
+---
+title: Jeremiah 14:15
+type: Verse
+kjv: "Therefore thus saith the LORD concerning the prophets that prophesy in my name, and I sent them not, yet they say, Sword and famine shall not be in this land; By sword and famine shall those prophets be consumed."
+bsb: "Therefore this is what the LORD says about the prophets who prophesy in My name: I did not send them, yet they say, ‘No sword or famine will touch this land.’ By sword and famine these very prophets will meet their end!"
+hebrew: "לָכֵ֞ן כֹּֽה־ אָמַ֣ר יְהוָ֗ה עַֽל־ הַנְּבִאִ֞ים הַנִּבְּאִ֣ים בִּשְׁמִי֮ וַאֲנִ֣י לֹֽא־ שְׁלַחְתִּים֒ וְהֵ֙מָּה֙ אֹֽמְרִ֔ים חֶ֣רֶב וְרָעָ֔ב לֹ֥א יִהְיֶ֖ה בָּאָ֣רֶץ הַזֹּ֑את בַּחֶ֤רֶב וּבָֽרָעָב֙ יִתַּ֔מּוּ הַנְּבִאִ֖ים הָהֵֽמָּה׃"
+pericope: "[[Jer.14.1 Drought, Famine, Sword, and Plague|Drought, Famine, Sword, and Plague]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 14
+book/chapter: "[[Jer.14|Jeremiah 14]]"
+chronological_order: 731
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H5012]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H3808]]"
+- "[[H7971G]]"
+- "[[H9038]]"
+- "[[H1992]]"
+- "[[H2719]]"
+- "[[H7458]]"
+- "[[H1961]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H8552]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 14:15**<big><big>[[Jer.14.1 Drought, Famine, Sword, and Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the LORD concerning the prophets that prophesy in my name, and I sent them not, yet they say, Sword and famine shall not be in this land; By sword and famine shall those prophets be consumed.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the LORD says about the prophets who prophesy in My name: I did not send them, yet they say, ‘No sword or famine will touch this land.’ By sword and famine these very prophets will meet their end!
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֞ן]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H5921A\|עַֽל]][[H9014\|־]] [[H9009\|הַ]][[H5030\|נְּבִאִ֞ים]] [[H9009\|הַ]][[H5012\|נִּבְּאִ֣ים]] [[H9003\|בִּ]][[H8034\|שְׁמִ]][[H9020\|י֮]] [[H9002\|וַ]][[H0589\|אֲנִ֣י]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7971G\|שְׁלַחְתִּי]][[H9038\|ם֒]] [[H9002\|וְ]][[H1992\|הֵ֙מָּה֙]] [[H0559\|אֹֽמְרִ֔ים]] [[H2719\|חֶ֣רֶב]] [[H9002\|וְ]][[H7458\|רָעָ֔ב]] [[H3808\|לֹ֥א]] [[H1961\|יִהְיֶ֖ה]] [[H9003\|בָּ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H9003\|בַּ]][[H2719\|חֶ֤רֶב]] [[H9002\|וּ]][[H9003\|בָֽ]][[H7458\|רָעָב֙]] [[H8552\|יִתַּ֔מּוּ]] [[H9009\|הַ]][[H5030\|נְּבִאִ֖ים]] [[H9009\|הָ]][[H1992\|הֵֽמָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMINE|FAMINE]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.14.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.14.14|<< Jeremiah 14:14]]</td><td align="center" style="border:none;">[[Jer.14|Jeremiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.16|Jeremiah 14:16 >>]]</td></tr></table>
 

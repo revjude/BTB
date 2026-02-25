@@ -1,8 +1,64 @@
+---
+title: Exodus 7:18
+type: Verse
+kjv: "And the fish that is in the river shall die, and the river shall stink; and the Egyptians shall lothe to drink of the water of the river."
+bsb: "The fish in the Nile will die, the river will stink, and the Egyptians will be unable to drink its water.’”"
+hebrew: "וְהַדָּגָ֧ה אֲשֶׁר־ בַּיְאֹ֛ר תָּמ֖וּת וּבָאַ֣שׁ הַיְאֹ֑ר וְנִלְא֣וּ מִצְרַ֔יִם לִשְׁתּ֥וֹת מַ֖יִם מִן־ הַיְאֹֽר׃ ס"
+pericope: "[[Exod.7.14 The First Plague：Blood|The First Plague：Blood]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 7
+book/chapter: "[[Exod.7|Exodus 7]]"
+chronological_order: 99
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H1710]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H2975G]]"
+- "[[H4191]]"
+- "[[H9001]]"
+- "[[H0887]]"
+- "[[H3811]]"
+- "[[H4713]]"
+- "[[H9005]]"
+- "[[H8354]]"
+- "[[H4325G]]"
+- "[[H4480A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 7:18**<big><big>[[Exod.7.14 The First Plague：Blood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the fish that [is] in the river shall die, and the river shall stink; and the Egyptians shall lothe to drink of the water of the river.
 <small><sub>**BSB:**</sub></small>
 The fish in the Nile will die, the river will stink, and the Egyptians will be unable to drink its water.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H1710\|דָּגָ֧ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בַּ]][[H2975G\|יְאֹ֛ר]] [[H4191\|תָּמ֖וּת]] [[H9001\|וּ]][[H0887\|בָאַ֣שׁ]] [[H9009\|הַ]][[H2975G\|יְאֹ֑ר]] [[H9001\|וְ]][[H3811\|נִלְא֣וּ]] [[H4713\|מִצְרַ֔יִם]] [[H9005\|לִ]][[H8354\|שְׁתּ֥וֹת]] [[H4325G\|מַ֖יִם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H2975G\|יְאֹֽר]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.17|<< Exodus 7:17]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.19|Exodus 7:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -23,7 +79,7 @@ The fish in the Nile will die, the river will stink, and the Egyptians will be u
 | to drink  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8354\|שְׁתּ֥וֹת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> sh.Tot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | water  |**<big>&#8207;[[H4325G\|מַ֖יִם]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the River  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2975G\|יְאֹֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> y.'Or<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the River  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2975G\|יְאֹֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> y.'Or<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.17|<< Exodus 7:17]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.19|Exodus 7:19 >>]]</td></tr></table>
 
 

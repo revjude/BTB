@@ -1,10 +1,62 @@
+---
+title: Mark 6:55
+type: Verse
+kjv: "And ran through that whole region round about, and began to carry about in beds those that were sick, where they heard he was."
+bsb: "and ran through that whole region, carrying the sick on mats to wherever they heard He was."
+greek: "περιέδραμον ὅλην τὴν χώραν ἐκείνην καὶ ἤρξαντο ἐπὶ τοῖς κραβάττοις τοὺς κακῶς ἔχοντας περιφέρειν ὅπου ἤκουον ὅτι ἐκεῖ ἐστίν."
+pericope: "[[Mark.6.53 Jesus Heals at Gennesaret|Jesus Heals at Gennesaret]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G4063]]"
+- "[[G3650]]"
+- "[[G3588]]"
+- "[[G5561]]"
+- "[[G1565]]"
+- "[[G2532]]"
+- "[[G0757]]"
+- "[[G1909]]"
+- "[[G2895]]"
+- "[[G2560]]"
+- "[[G2192]]"
+- "[[G4064]]"
+- "[[G3699]]"
+- "[[G0191]]"
+- "[[G3754G]]"
+- "[[G1563]]"
+- "[[G1510]]"
+texts:
+- N(k)O
+- NKO
+- no
+- ko
+---
+
 **Mark 6:55**<big><big>[[Mark.6.53 Jesus Heals at Gennesaret|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And ran through that whole region round about, and began to carry about in beds those that were sick, where they heard he was.
 <small><sub>**BSB:**</sub></small>
 and ran through that whole region, carrying the sick on mats to wherever they heard He was.
-<small><sub>**Literal:**</sub></small>
-they ran around all the region that and they began on the mats those sick being to carry about to wherever they were hearing that there He is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.54|<< Mark 6:54]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.56|Mark 6:56 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4063\|περιέδραμον]]  [[G3650\|ὅλην]]  [[G3588\|τὴν]]  [[G5561\|χώραν]]  [[G1565\|ἐκείνην]]  [[G2532\|καὶ]]  [[G0757\|ἤρξαντο]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῖς]]  [[G2895\|κραβάττοις]]  [[G3588\|τοὺς]]  [[G2560\|κακῶς]]  [[G2192\|ἔχοντας]]  [[G4064\|περιφέρειν]]  [[G3699\|ὅπου]]  [[G0191\|ἤκουον]]  [[G3754G\|ὅτι]]  [[G1563\|ἐκεῖ]]  [[G1510\|ἐστίν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.54|<< Mark 6:54]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.56|Mark 6:56 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

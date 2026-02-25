@@ -1,8 +1,74 @@
+---
+title: Job 2:10
+type: Verse
+kjv: "But he said unto her, Thou speakest as one of the foolish women speaketh. What? shall we receive good at the hand of God, and shall we not receive evil? In all this did not Job sin with his lips."
+bsb: "“You speak as a foolish woman speaks,” he told her. “Should we accept from God only good and not adversity?” In all this, Job did not sin in what he said."
+hebrew: "וַיֹּ֣אמֶר אֵלֶ֗יהָ כְּדַבֵּ֞ר אַחַ֤ת הַנְּבָלוֹת֙ תְּדַבֵּ֔רִי גַּ֣ם אֶת־ הַטּ֗וֹב נְקַבֵּל֙ מֵאֵ֣ת הָאֱלֹהִ֔ים וְאֶת־ הָרָ֖ע לֹ֣א נְקַבֵּ֑ל בְּכָל־ זֹ֛את לֹא־ חָטָ֥א אִיּ֖וֹב בִּשְׂפָתָֽיו׃ פ"
+pericope: "[[Job.2.1 Job Loses His Health|Job Loses His Health]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 2
+book/chapter: "[[Job.2|Job 2]]"
+chronological_order: 13
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic JOB|JOB]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H9004]]"
+- "[[H1696G]]"
+- "[[H0259]]"
+- "[[H9009]]"
+- "[[H5036]]"
+- "[[H1571]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2896B]]"
+- "[[H6901]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H7451B]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H2063]]"
+- "[[H2398]]"
+- "[[H0347]]"
+- "[[H8193G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Job 2:10**<big><big>[[Job.2.1 Job Loses His Health|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he said unto her, Thou speakest as one of the foolish women speaketh. What? shall we receive good at the hand of God, and shall we not receive evil? In all this did not Job sin with his lips.
 <small><sub>**BSB:**</sub></small>
 “You speak as a foolish woman speaks,” he told her. “Should we accept from God only good and not adversity?” In all this, Job did not sin in what he said.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלֶ֗י]][[H9034\|הָ]] [[H9004\|כְּ]][[H1696G\|דַבֵּ֞ר]] [[H0259\|אַחַ֤ת]] [[H9009\|הַ]][[H5036\|נְּבָלוֹת֙]] [[H1696G\|תְּדַבֵּ֔רִי]] [[H1571\|גַּ֣ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2896B\|טּ֗וֹב]] [[H6901\|נְקַבֵּל֙]] [[H9006\|מֵ]][[H0854\|אֵ֣ת]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H7451B\|רָ֖ע]] [[H3808\|לֹ֣א]] [[H6901\|נְקַבֵּ֑ל]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H2063\|זֹ֛את]] [[H3808\|לֹא]][[H9014\|־]] [[H2398\|חָטָ֥א]] [[H0347\|אִיּ֖וֹב]] [[H9003\|בִּ]][[H8193G\|שְׂפָתָֽי]][[H9023\|ו]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic JOB|JOB]] • [[topic RESIGNATION|RESIGNATION]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.2.9|<< Job 2:9]]</td><td align="center" style="border:none;">[[Job.2|Job 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.2.11|Job 2:11 >>]]</td></tr></table>
 
@@ -29,7 +95,7 @@ But he said unto her, Thou speakest as one of the foolish women speaketh. What? 
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he sinned  |**<big>&#8207;[[H2398\|חָטָ֥א]]&#8207; </big>**| cha.Ta'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Job  |**<big>&#8207;[[H0347\|אִיּ֖וֹב]]&#8207; </big>**| 'i.Yov<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with lips his  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8193G\|שְׂפָתָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> s.fa.Ta<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with lips his  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8193G\|שְׂפָתָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> s.fa.Ta<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.2.9|<< Job 2:9]]</td><td align="center" style="border:none;">[[Job.2|Job 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.2.11|Job 2:11 >>]]</td></tr></table>
 
 

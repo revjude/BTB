@@ -9,11 +9,11 @@
 
 → Practiced by Elisha [[1Kgs.19.19|1Ki 19:19]]
 
-→ Practiced by David [[1Chr.27.26|1Ch 27:26]]-[[1Chr.27.31|31]]
+→ Practiced by David [[1Chr.27.26|1Ch 27:26-31]]
 
 → Practiced by Uzziah [[2Chr.26.10|2Ch 26:10]]
 
-→ Practiced by Solomon [[Eccl.2.4|Ec 2:4]]-[[Eccl.2.6|6]]
+→ Practiced by Solomon [[Eccl.2.4|Ec 2:4-6]]
 
 → God to be acknowledged in [[Jer.5.24|Jer 5:24]]; [[Hos.2.8|Ho 2:8]]
 
@@ -35,9 +35,9 @@
 
 → Fruits blasted because of sin [[Isa.5.10|Isa 5:10]]; [[Isa.7.23|7:23]]; [[Jer.12.13|Jer 12:13]];  [[Joel.1.10|Joe 1:10]],[[Joel.1.11|11]]
 
-→ LAWS CONCERNING [[Exod.20.9|Ex 20:9]]; [[Exod.22.5|22:5]],[[Exod.22.6|6]]; [[Exod.23.10|23:10]]-[[Exod.23.12|12]]; [[Exod.34.21|34:21]],[[Exod.34.22|22]];  [[Lev.19.9|Le 19:9]],[[Lev.19.10|10]],[[Lev.19.19|19]],[[Lev.19.23|23]]-[[Lev.19.25|25]]; [[Lev.25.2|25:2]]-[[Lev.25.12|12]],[[Lev.25.15|15]],[[Lev.25.16|16]],[[Lev.25.19|19]]-[[Lev.25.28|28]]; [[Deut.5.13|De 5:13]],[[Deut.5.14|14]]; [[Deut.22.9|22:9]],[[Deut.22.10|10]]; [[Deut.23.24|23:24]],[[Deut.23.25|25]]; [[Deut.24.19|24:19]]-[[Deut.24.21|21]];  [[Prov.3.9|Pr 3:9]],[[Prov.3.10|10]]; [[Eccl.5.9|Ec 5:9]]; [[Prov.27.23|Pr 27:23]]-[[Prov.27.27|27]]; [[Matt.12.1|Mt 12:1]]
+→ LAWS CONCERNING [[Exod.20.9|Ex 20:9]]; [[Exod.22.5|22:5]],[[Exod.22.6|6]]; [[Exod.23.10|23:10-12]]; [[Exod.34.21|34:21]],[[Exod.34.22|22]];  [[Lev.19.9|Le 19:9]],[[Lev.19.10|10]],[[Lev.19.19|19]],[[Lev.19.23|23-25]]; [[Lev.25.2|25:2-12]],[[Lev.25.15|15]],[[Lev.25.16|16]],[[Lev.25.19|19-28]]; [[Deut.5.13|De 5:13]],[[Deut.5.14|14]]; [[Deut.22.9|22:9]],[[Deut.22.10|10]]; [[Deut.23.24|23:24]],[[Deut.23.25|25]]; [[Deut.24.19|24:19-21]];  [[Prov.3.9|Pr 3:9]],[[Prov.3.10|10]]; [[Eccl.5.9|Ec 5:9]]; [[Prov.27.23|Pr 27:23-27]]; [[Matt.12.1|Mt 12:1]]
 
-→ FACTS ABOUT [[Gen.8.22|Ge 8:22]]; [[1Sam.13.19|1Sa 13:19]]-[[1Sam.13.21|21]]; [[Isa.28.24|Isa 28:24]]-[[Isa.28.28|28]]; [[Matt.13.3|Mt  13:3]]-[[Matt.13.8|8]]; [[2Cor.9.6|2Co 9:6]]; [[Gal.6.7|Ga 6:7]]
+→ FACTS ABOUT [[Gen.8.22|Ge 8:22]]; [[1Sam.13.19|1Sa 13:19-21]]; [[Isa.28.24|Isa 28:24-28]]; [[Matt.13.3|Mt  13:3-8]]; [[2Cor.9.6|2Co 9:6]]; [[Gal.6.7|Ga 6:7]]
 
 - See [[topic HUSBANDMAN|HUSBANDMAN]]
 
@@ -49,9 +49,9 @@
 
 - Parable
 
-Of the sower [[Matt.13.3|Mt 13:3]]-[[Matt.13.8|8]],[[Matt.13.19|19]]-[[Matt.13.23|23]]; [[Luke.8.5|Lu 8:5]]-[[Luke.8.15|15]]
+Of the sower [[Matt.13.3|Mt 13:3-8]],[[Matt.13.19|19-23]]; [[Luke.8.5|Lu 8:5-15]]
 
-Of the tares [[Matt.13.24|Mt 13:24]]-[[Matt.13.30|30]],[[Matt.13.36|36]]-[[Matt.13.43|43]]
+Of the tares [[Matt.13.24|Mt 13:24-30]],[[Matt.13.36|36-43]]
 
 → OPERATIONS IN
 

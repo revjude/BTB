@@ -1,8 +1,77 @@
+---
+title: 2 Chronicles 22:6
+type: Verse
+kjv: "And he returned to be healed in Jezreel because of the wounds which were given him at Ramah, when he fought with Hazael king of Syria. And Azariah the son of Jehoram king of Judah went down to see Jehoram the son of Ahab at Jezreel, because he was sick."
+bsb: "So he returned to Jezreel to recover from the wounds they had inflicted on him at Ramah when he fought against Hazael king of Aram. Then Ahaziah son of Jehoram king of Judah went down to Jezreel to visit Joram son of Ahab, because Joram had been wounded."
+hebrew: "וַיָּ֜שָׁב לְהִתְרַפֵּ֣א בְיִזְרְעֶ֗אל כִּ֤י הַמַּכִּים֙ אֲשֶׁ֣ר הִכֻּ֣הוּ בָֽרָמָ֔ה בְּהִלָּ֣חֲמ֔וֹ אֶת־ חֲזָהאֵ֖ל מֶ֣לֶךְ אֲרָ֑ם וַעֲזַרְיָ֨הוּ בֶן־ יְהוֹרָ֜ם מֶ֣לֶךְ יְהוּדָ֗ה יָרַ֡ד לִרְא֞וֹת אֶת־ יְהוֹרָ֧ם בֶּן־ אַחְאָ֛ב בְּיִזְרְעֶ֖אל כִּי־ חֹלֶ֥ה הֽוּא׃"
+pericope: "[[2Chr.22.1 Ahaziah Reigns in Judah|Ahaziah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 22
+book/chapter: "[[2Chr.22|2 Chronicles 22]]"
+chronological_order: 587
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AZARIAH|AZARIAH]]"
+- "[[topic HAZAEL|HAZAEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H9005]]"
+- "[[H7495]]"
+- "[[H9003]]"
+- "[[H3157H]]"
+- "[[H3588A]]"
+- "[[H9009]]"
+- "[[H4347]]"
+- "[[H0834A]]"
+- "[[H5221]]"
+- "[[H9033]]"
+- "[[H7414K]]"
+- "[[H3898A]]"
+- "[[H9043]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H2371]]"
+- "[[H4428G]]"
+- "[[H0758I]]"
+- "[[H9002]]"
+- "[[H5838z]]"
+- "[[H1121A]]"
+- "[[H3088G]]"
+- "[[H3063G]]"
+- "[[H3381]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H0256G]]"
+- "[[H2470H]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 22:6**<big><big>[[2Chr.22.1 Ahaziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he returned to be healed in Jezreel because of the wounds which were given him at Ramah, when he fought with Hazael king of Syria. And Azariah the son of Jehoram king of Judah went down to see Jehoram the son of Ahab at Jezreel, because he was sick.
 <small><sub>**BSB:**</sub></small>
 So he returned to Jezreel to recover from the wounds they had inflicted on him at Ramah when he fought against Hazael king of Aram. Then Ahaziah son of Jehoram king of Judah went down to Jezreel to visit Joram son of Ahab, because Joram had been wounded.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּ֜שָׁב]] [[H9005\|לְ]][[H7495\|הִתְרַפֵּ֣א]] [[H9003\|בְ]][[H3157H\|יִזְרְעֶ֗אל]] [[H3588A\|כִּ֤י]] [[H9009\|הַ]][[H4347\|מַּכִּים֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5221\|הִכֻּ֣]][[H9033\|הוּ]] [[H9003\|בָֽ]][[H7414K\|רָמָ֔ה]] [[H9003\|בְּ]][[H3898A\|הִלָּ֣חֲמ֔]][[H9043\|וֹ]] [[H0854\|אֶת]][[H9014\|־]] [[H2371\|חֲזָהאֵ֖ל]] [[H4428G\|מֶ֣לֶךְ]] [[H0758I\|אֲרָ֑ם]] [[H9002\|וַ]][[H5838z\|עֲזַרְיָ֨הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H3088G\|יְהוֹרָ֜ם]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֗ה]] [[H3381\|יָרַ֡ד]] [[H9005\|לִ]][[H7200G\|רְא֞וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H3088G\|יְהוֹרָ֧ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0256G\|אַחְאָ֛ב]] [[H9003\|בְּ]][[H3157H\|יִזְרְעֶ֖אל]] [[H3588A\|כִּי]][[H9014\|־]] [[H2470H\|חֹלֶ֥ה]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AZARIAH|AZARIAH]] • [[topic HAZAEL|HAZAEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JORAM|JORAM]] • [[topic RAMOTH-GILEAD|RAMOTH-GILEAD]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.22.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.22.5|<< 2 Chronicles 22:5]]</td><td align="center" style="border:none;">[[2Chr.22|2 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.22.7|2 Chronicles 22:7 >>]]</td></tr></table>
 

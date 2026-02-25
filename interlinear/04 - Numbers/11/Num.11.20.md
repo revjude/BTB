@@ -1,8 +1,79 @@
+---
+title: Numbers 11:20
+type: Verse
+kjv: "But even a whole month, until it come out at your nostrils, and it be loathsome unto you: because that ye have despised the LORD which is among you, and have wept before him, saying, Why came we forth out of Egypt?"
+bsb: "but for a whole month—until it comes out of your nostrils and makes you nauseous—because you have rejected the LORD, who is among you, and have cried out before Him, saying, ‘Why did we ever leave Egypt?’”"
+hebrew: "עַ֣ד׀ חֹ֣דֶשׁ יָמִ֗ים עַ֤ד אֲשֶׁר־ יֵצֵא֙ מֵֽאַפְּכֶ֔ם וְהָיָ֥ה לָכֶ֖ם לְזָרָ֑א יַ֗עַן כִּֽי־ מְאַסְתֶּ֤ם אֶת־ יְהוָה֙ אֲשֶׁ֣ר בְּקִרְבְּכֶ֔ם וַתִּבְכּ֤וּ לְפָנָיו֙ לֵאמֹ֔ר לָ֥מָּה זֶּ֖ה יָצָ֥אנוּ מִמִּצְרָֽיִם׃"
+pericope: "[[Num.11.16 Seventy Elders Anointed|Seventy Elders Anointed]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 11
+book/chapter: "[[Num.11|Numbers 11]]"
+chronological_order: 171
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic INSPIRATION|INSPIRATION]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic SARCASM|SARCASM]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H5704]]"
+- "[[H9015]]"
+- "[[H2320G]]"
+- "[[H3117G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3318L]]"
+- "[[H9006]]"
+- "[[H0639H]]"
+- "[[H9026]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H2214]]"
+- "[[H3282]]"
+- "[[H3588A]]"
+- "[[H3988A]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H1058]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H2088]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 11:20**<big><big>[[Num.11.16 Seventy Elders Anointed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [But] even a whole month, until it come out at your nostrils, and it be loathsome unto you: because that ye have despised the LORD which [is] among you, and have wept before him, saying, Why came we forth out of Egypt?
 <small><sub>**BSB:**</sub></small>
 but for a whole month—until it comes out of your nostrils and makes you nauseous—because you have rejected the LORD, who is among you, and have cried out before Him, saying, ‘Why did we ever leave Egypt?’”
+<small><sub>**Hebrew:**</sub></small>
+[[H5704\|עַ֣ד]][[H9015\|׀]] [[H2320G\|חֹ֣דֶשׁ]] [[H3117G\|יָמִ֗ים]] [[H5704\|עַ֤ד]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3318L\|יֵצֵא֙]] [[H9006\|מֵֽ]][[H0639H\|אַפְּ]][[H9026\|כֶ֔ם]] [[H9001\|וְ]][[H1961\|הָיָ֥ה]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H9005\|לְ]][[H2214\|זָרָ֑א]] [[H3282\|יַ֗עַן]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3988A\|מְאַסְתֶּ֤ם]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H7130G\|קִרְבְּ]][[H9026\|כֶ֔ם]] [[H9001\|וַ]][[H1058\|תִּבְכּ֤וּ]] [[H9005\|לְ]][[H6440G\|פָנָי]][[H9023\|ו֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H9005\|לָ֥]][[H4100\|מָּה]] [[H2088\|זֶּ֖ה]] [[H3318L\|יָצָ֥אנוּ]] [[H9006\|מִ]][[H4714G\|מִּצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSPIRATION|INSPIRATION]] • [[topic MOSES|MOSES]] • [[topic PRAYER|PRAYER]] • [[topic SANITATION|SANITATION]] • [[topic SARCASM|SARCASM]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.19|<< Numbers 11:19]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.21|Numbers 11:21 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Joshua 3:17
+type: Verse
+kjv: "And the priests that bare the ark of the covenant of the LORD stood firm on dry ground in the midst of Jordan, and all the Israelites passed over on dry ground, until all the people were passed clean over Jordan."
+bsb: "The priests carrying the ark of the covenant of the LORD stood firm on dry ground in the middle of the Jordan, while all Israel crossed over the dry ground, until the entire nation had crossed the Jordan."
+hebrew: "וַיַּעַמְד֣וּ הַכֹּהֲנִ֡ים נֹ֠שְׂאֵי הָאָר֨וֹן בְּרִית־ יְהוָ֜ה בֶּחָֽרָבָ֛ה בְּת֥וֹךְ הַיַּרְדֵּ֖ן הָכֵ֑ן וְכָל־ יִשְׂרָאֵ֗ל עֹֽבְרִים֙ בֶּחָ֣רָבָ֔ה עַ֤ד אֲשֶׁר־ תַּ֙מּוּ֙ כָּל־ הַגּ֔וֹי לַעֲבֹ֖ר אֶת־ הַיַּרְדֵּֽן׃"
+pericope: "[[Josh.3.1 Crossing the Jordan|Crossing the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 3
+book/chapter: "[[Josh.3|Joshua 3]]"
+chronological_order: 233
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H9001]]"
+- "[[H5975G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H5375H]]"
+- "[[H0727]]"
+- "[[H1285]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H2724]]"
+- "[[H8432]]"
+- "[[H3383]]"
+- "[[H3559H]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H5674A]]"
+- "[[H5704]]"
+- "[[H0834A]]"
+- "[[H8552]]"
+- "[[H1471A]]"
+- "[[H9005]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 3:17**<big><big>[[Josh.3.1 Crossing the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priests that bare the ark of the covenant of the LORD stood firm on dry ground in the midst of Jordan, and all the Israelites passed over on dry ground, until all the people were passed clean over Jordan.
 <small><sub>**BSB:**</sub></small>
 The priests carrying the ark of the covenant of the LORD stood firm on dry ground in the middle of the Jordan, while all Israel crossed over the dry ground, until the entire nation had crossed the Jordan.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5975G\|יַּעַמְד֣וּ]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֡ים]] [[H5375H\|נֹ֠שְׂאֵי]] [[H9009\|הָ]][[H0727\|אָר֨וֹן]] [[H1285\|בְּרִית]][[H9014\|־]] [[H3068G\|יְהוָ֜ה]] [[H9003\|בֶּ]][[H2724\|חָֽרָבָ֛ה]] [[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֖ן]] [[H3559H\|הָכֵ֑ן]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H5674A\|עֹֽבְרִים֙]] [[H9003\|בֶּ]][[H2724\|חָ֣רָבָ֔ה]] [[H5704\|עַ֤ד]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H8552\|תַּ֙מּוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּ֔וֹי]] [[H9005\|לַ]][[H5674A\|עֲבֹ֖ר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MIRACLES|MIRACLES]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.3.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.3.16|<< Joshua 3:16]]</td><td align="center" style="border:none;">[[Josh.3|Joshua 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.1|Joshua 4:1 >>]]</td></tr></table>
 

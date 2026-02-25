@@ -1,8 +1,53 @@
+---
+title: Proverbs 9:12
+type: Verse
+kjv: "If thou be wise, thou shalt be wise for thyself: but if thou scornest, thou alone shalt bear it."
+bsb: "If you are wise, you are wise to your own advantage; but if you scoff, you alone will bear the consequences."
+hebrew: "אִם־ חָ֭כַמְתָּ חָכַ֣מְתָּ לָּ֑ךְ וְ֝לַ֗צְתָּ לְֽבַדְּךָ֥ תִשָּֽׂא׃"
+pericope: "[[Prov.9.1 The Way of Wisdom|The Way of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 9
+book/chapter: "[[Prov.9|Proverbs 9]]"
+chronological_order: 464
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic SCOFFING|SCOFFING]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H2449]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H9001]]"
+- "[[H3887]]"
+- "[[H0905H]]"
+- "[[H9031]]"
+- "[[H5375H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 9:12**<big><big>[[Prov.9.1 The Way of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou be wise, thou shalt be wise for thyself: but [if] thou scornest, thou alone shalt bear [it].
 <small><sub>**BSB:**</sub></small>
 If you are wise, you are wise to your own advantage; but if you scoff, you alone will bear the consequences.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H2449\|חָ֭כַמְתָּ]] [[H2449\|חָכַ֣מְתָּ]] [[H9005\|לָּ֑]][[H9032\|ךְ]] [[H9001\|וְ֝]][[H3887\|לַ֗צְתָּ]] [[H9005\|לְֽ]][[H0905H\|בַדְּ]][[H9031\|ךָ֥]] [[H5375H\|תִשָּֽׂא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFIDELITY|INFIDELITY]] • [[topic SCOFFING|SCOFFING]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.9.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.9.11|<< Proverbs 9:11]]</td><td align="center" style="border:none;">[[Prov.9|Proverbs 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.9.13|Proverbs 9:13 >>]]</td></tr></table>
 

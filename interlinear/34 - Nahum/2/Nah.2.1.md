@@ -1,8 +1,58 @@
+---
+title: Nahum 2:1
+type: Verse
+kjv: "He that dasheth in pieces is come up before thy face: keep the munition, watch the way, make thy loins strong, fortify thy power mightily."
+bsb: "One who scatters advances against you, O Nineveh. Guard the fortress! Watch the road! Brace yourselves! Summon all your strength!"
+hebrew: "עָלָ֥ה מֵפִ֛יץ עַל־ פָּנַ֖יִךְ נָצ֣וֹר מְצֻרָ֑ה צַפֵּה־ דֶ֙רֶךְ֙ חַזֵּ֣ק מָתְנַ֔יִם אַמֵּ֥ץ כֹּ֖חַ מְאֹֽד׃"
+pericope: "[[Nah.2.1 The Overthrow of Nineveh|The Overthrow of Nineveh]]"
+original_language: Hebrew
+testament: Old
+book: Nahum
+chapter: 2
+book/chapter: "[[Nah.2|Nahum 2]]"
+chronological_order: 709
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic MUNITIONS|MUNITIONS]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[H5927G]]"
+- "[[H6327B]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440L]]"
+- "[[H9022]]"
+- "[[H5341]]"
+- "[[H4694]]"
+- "[[H6822]]"
+- "[[H1870K]]"
+- "[[H2388G]]"
+- "[[H4975]]"
+- "[[H0553]]"
+- "[[H3581B]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nahum 2:1**<big><big>[[Nah.2.1 The Overthrow of Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that dasheth in pieces is come up before thy face: keep the munition, watch the way, make [thy] loins strong, fortify [thy] power mightily.
 <small><sub>**BSB:**</sub></small>
 One who scatters advances against you, O Nineveh. Guard the fortress! Watch the road! Brace yourselves! Summon all your strength!
+<small><sub>**Hebrew:**</sub></small>
+[[H5927G\|עָלָ֥ה]] [[H6327B\|מֵפִ֛יץ]] [[H5921A\|עַל]][[H9014\|־]] [[H6440L\|פָּנַ֖יִ]][[H9022\|ךְ]] [[H5341\|נָצ֣וֹר]] [[H4694\|מְצֻרָ֑ה]] [[H6822\|צַפֵּה]][[H9014\|־]] [[H1870K\|דֶ֙רֶךְ֙]] [[H2388G\|חַזֵּ֣ק]] [[H4975\|מָתְנַ֔יִם]] [[H0553\|אַמֵּ֥ץ]] [[H3581B\|כֹּ֖חַ]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic MUNITIONS|MUNITIONS]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.1.15|<< Nahum 1:15]]</td><td align="center" style="border:none;">[[Nah.2|Nahum 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.2.2|Nahum 2:2 >>]]</td></tr></table>
 

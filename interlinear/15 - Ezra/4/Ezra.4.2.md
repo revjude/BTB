@@ -1,8 +1,78 @@
+---
+title: Ezra 4:2
+type: Verse
+kjv: "Then they came to Zerubbabel, and to the chief of the fathers, and said unto them, Let us build with you: for we seek your God, as ye do; and we do sacrifice unto him since the days of Esarhaddon king of Assur, which brought us up hither."
+bsb: "they approached Zerubbabel and the heads of the families, saying, “Let us build with you because, like you, we seek your God and have been sacrificing to Him since the time of King Esar-haddon of Assyria, who brought us here.”"
+hebrew: "וַיִּגְּשׁ֨וּ אֶל־ זְרֻבָּבֶ֜ל וְאֶל־ רָאשֵׁ֣י הָֽאָב֗וֹת וַיֹּאמְר֤וּ לָהֶם֙ נִבְנֶ֣ה עִמָּכֶ֔ם כִּ֣י כָכֶ֔ם נִדְר֖וֹשׁ לֵֽאלֹהֵיכֶ֑ם וְל֣וֹ אֲנַ֣חְנוּ זֹבְחִ֗ים מִימֵי֙ אֵסַ֤ר חַדֹּן֙ מֶ֣לֶךְ אַשּׁ֔וּר הַמַּעֲלֶ֥ה אֹתָ֖נוּ פֹּֽה׃"
+pericope: "[[Ezra.4.1 Adversaries Hinder the Work|Adversaries Hinder the Work]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 4
+book/chapter: "[[Ezra.4|Ezra 4]]"
+chronological_order: 852
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic ESAR-HADDON (ESARHADDON)|ESAR-HADDON (ESARHADDON)]]"
+- "[[topic JESHUA|JESHUA]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic ZERUBBABEL|ZERUBBABEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H5066G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2216]]"
+- "[[H9002]]"
+- "[[H7218H]]"
+- "[[H9009]]"
+- "[[H0001G]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H1129]]"
+- "[[H5973A]]"
+- "[[H9036]]"
+- "[[H3588A]]"
+- "[[H9004]]"
+- "[[H1875]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H3808]]"
+- "[[H9033]]"
+- "[[H0587]]"
+- "[[H2076]]"
+- "[[H9006]]"
+- "[[H3117G]]"
+- "[[H0634]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H5927H]]"
+- "[[H0853]]"
+- "[[H9035]]"
+- "[[H6311]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezra 4:2**<big><big>[[Ezra.4.1 Adversaries Hinder the Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they came to Zerubbabel, and to the chief of the fathers, and said unto them, Let us build with you: for we seek your God, as ye [do]; and we do sacrifice unto him since the days of Esarhaddon king of Assur, which brought us up hither.
 <small><sub>**BSB:**</sub></small>
 they approached Zerubbabel and the heads of the families, saying, “Let us build with you because, like you, we seek your God and have been sacrificing to Him since the time of King Esar-haddon of Assyria, who brought us here.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5066G\|יִּגְּשׁ֨וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H2216\|זְרֻבָּבֶ֜ל]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H7218H\|רָאשֵׁ֣י]] [[H9009\|הָֽ]][[H0001G\|אָב֗וֹת]] [[H9001\|וַ]][[H0559\|יֹּאמְר֤וּ]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H1129\|נִבְנֶ֣ה]] [[H5973A\|עִמָּ]][[H9036\|כֶ֔ם]] [[H3588A\|כִּ֣י]] [[H9004\|כָ]][[H9036\|כֶ֔ם]] [[H1875\|נִדְר֖וֹשׁ]] [[H9005\|לֵֽ]][[H0430G\|אלֹהֵי]][[H9026\|כֶ֑ם]] [[H9002\|וְ]][[H9005\|ל֣]][[H9033\|וֹ]] [[H0587\|אֲנַ֣חְנוּ]] [[H2076\|זֹבְחִ֗ים]] [[H9006\|מִ]][[H3117G\|ימֵי֙]] [[H0634\|אֵסַ֤ר]] [[H0634\|חַדֹּן֙]] [[H4428G\|מֶ֣לֶךְ]] [[H0804G\|אַשּׁ֔וּר]] [[H9009\|הַ]][[H5927H\|מַּעֲלֶ֥ה]] [[H0853\|אֹתָ֖]][[H9035\|נוּ]] [[H6311\|פֹּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ESAR-HADDON (ESARHADDON)|ESAR-HADDON (ESARHADDON)]] • [[topic JESHUA|JESHUA]] • [[topic JOSHUA|JOSHUA]] • [[topic ZERUBBABEL|ZERUBBABEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.1|<< Ezra 4:1]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.3|Ezra 4:3 >>]]</td></tr></table>
 
@@ -35,8 +105,8 @@ they approached Zerubbabel and the heads of the families, saying, “Let us buil
 | here  |**<big>&#8207;[[H6311\|פֹּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Poh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.1|<< Ezra 4:1]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.3|Ezra 4:3 >>]]</td></tr></table>
 
-[^1]: and not  | **<big>[[H3808|לֹא]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> lo'<small><sup>[[HTn]]</sup></small> | K
-[^2]: and not  | **<big>[[H3808|לֹא]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> lo'<small><sup>[[HTn]]</sup></small> | K
-[^3]: and not  | **<big>[[H3808|לֹא]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> lo'<small><sup>[[HTn]]</sup></small> | K
+[^1]: and not  | **<big>[[H9002|וְ]]</big><big>[[H3808|לֹא]]</big> ** | ve.<small><sup>[[HC]]</sup></small> lo'<small><sup>[[HTn]]</sup></small> | K
+[^2]: and not  | **<big>[[H9002|וְ]]</big><big>[[H3808|לֹא]]</big> ** | ve.<small><sup>[[HC]]</sup></small> lo'<small><sup>[[HTn]]</sup></small> | K
+[^3]: and not  | **<big>[[H9002|וְ]]</big><big>[[H3808|לֹא]]</big> ** | ve.<small><sup>[[HC]]</sup></small> lo'<small><sup>[[HTn]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>וְלֹ֣א\׀</big></span>**
 

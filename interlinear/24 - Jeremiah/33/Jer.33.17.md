@@ -1,8 +1,59 @@
+---
+title: Jeremiah 33:17
+type: Verse
+kjv: "For thus saith the LORD; David shall never want a man to sit upon the throne of the house of Israel;"
+bsb: "For this is what the LORD says: David will never lack a man to sit on the throne of the house of Israel,"
+hebrew: "כִּי־ כֹ֖ה אָמַ֣ר יְהוָ֑ה לֹֽא־ יִכָּרֵ֣ת לְדָוִ֔ד אִ֕ישׁ יֹשֵׁ֖ב עַל־ כִּסֵּ֥א בֵֽית־ יִשְׂרָאֵֽל׃"
+pericope: "[[Jer.33.14 The Covenant with David|The Covenant with David]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 33
+book/chapter: "[[Jer.33|Jeremiah 33]]"
+chronological_order: 756
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H3772J]]"
+- "[[H9005]]"
+- "[[H1732]]"
+- "[[H0376G]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H3678G]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 33:17**<big><big>[[Jer.33.14 The Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD; David shall never want a man to sit upon the throne of the house of Israel;
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD says: David will never lack a man to sit on the throne of the house of Israel,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H3541\|כֹ֖ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֑ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3772J\|יִכָּרֵ֣ת]] [[H9005\|לְ]][[H1732\|דָוִ֔ד]] [[H0376G\|אִ֕ישׁ]] [[H3427\|יֹשֵׁ֖ב]] [[H5921A\|עַל]][[H9014\|־]] [[H3678G\|כִּסֵּ֥א]] [[H1004M\|בֵֽית]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.33.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.16|<< Jeremiah 33:16]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.18|Jeremiah 33:18 >>]]</td></tr></table>
 

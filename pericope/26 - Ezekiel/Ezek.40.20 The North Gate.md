@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The North Gate
+type: Pericope
 pericope: "[[Ezek.40.20 The North Gate|The North Gate]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 40
 book/chapter: "[[Ezek.40|Ezekiel 40]]"
-genre:
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 4
 verses:
 - "[[Ezek.40.20]]"
 - "[[Ezek.40.21]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Ezek.40.23]]"
 ---
 
-[[Ezek.40|Ezekiel 40:20 - Ezekiel 40:23]]
+<small>[[Ezek.40|Ezekiel 40:20-23]]</small>
 *The North Gate*
 
 [[Ezek.40.20|20]] And the gate of the outward court that looked toward the north, he measured the length thereof, and the breadth thereof.

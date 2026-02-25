@@ -1,10 +1,57 @@
+---
+title: 2 Corinthians 4:14
+type: Verse
+kjv: "Knowing that he which raised up the Lord Jesus shall raise up us also by Jesus, and shall present us with you."
+bsb: "knowing that the One who raised the Lord Jesus will also raise us with Jesus and present us with you in His presence."
+greek: "εἰδότες ὅτι ὁ ἐγείρας τὸν κύριον Ἰησοῦν καὶ ἡμᾶς σὺν Ἰησοῦ ἐγερεῖ καὶ παραστήσει σὺν ὑμῖν."
+pericope: "[[2Cor.4.7 Treasure in Jars of Clay|Treasure in Jars of Clay]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 4
+book/chapter: "[[2Cor.4|2 Corinthians 4]]"
+chronological_order: 1077
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SUFFERING|SUFFERING]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G1453]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G3165]]"
+- "[[G4862]]"
+- "[[G3936]]"
+- "[[G4771]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Corinthians 4:14**<big><big>[[2Cor.4.7 Treasure in Jars of Clay|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Knowing that he which raised up the Lord Jesus shall raise up us also by Jesus, and shall present [us] with you.
 <small><sub>**BSB:**</sub></small>
 knowing that the One who raised the Lord Jesus will also raise us with Jesus and present us with you in His presence.
-<small><sub>**Literal:**</sub></small>
-knowing that the [One] having raised up the Lord Jesus also us with Jesus He will raise up and He will present [us] with you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.4.13|<< 2 Corinthians 4:13]]</td><td align="center" style="border:none;">[[2Cor.4|2 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.4.15|2 Corinthians 4:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|εἰδότες]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G1453\|ἐγείρας]]  [[G3588\|τὸν]]  [[G2962G\|κύριον]]  [[G2424G\|Ἰησοῦν]]  [[G2532\|καὶ]]  [[G3165\|ἡμᾶς]]  [[G4862\|σὺν]]  [[G2424G\|Ἰησοῦ]]  [[G1453\|ἐγερεῖ]]  [[G2532\|καὶ]]  [[G3936\|παραστήσει]]  [[G4862\|σὺν]]  [[G4771\|ὑμῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RESURRECTION|RESURRECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SUFFERING|SUFFERING]] • [[topic TESTIMONY|TESTIMONY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.4.13|<< 2 Corinthians 4:13]]</td><td align="center" style="border:none;">[[2Cor.4|2 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.4.15|2 Corinthians 4:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

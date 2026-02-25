@@ -1,10 +1,66 @@
+---
+title: Acts 16:38
+type: Verse
+kjv: "And the serjeants told these words unto the magistrates: and they feared, when they heard that they were Romans."
+bsb: "So the officers relayed this message to the magistrates, who were alarmed to hear that Paul and Silas were Roman citizens."
+greek: "ἀπήγγειλαν δὲ τοῖς στρατηγοῖς οἱ ῥαβδοῦχοι τὰ ῥήματα ταῦτα· καὶ ἐφοβήθησαν δὲ ἀκούσαντες ὅτι Ῥωμαῖοί εἰσιν,"
+pericope: "[[Acts.16.35 An Official Apology|An Official Apology]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CRIMINALS|CRIMINALS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MAGISTRATE|MAGISTRATE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SERGEANT|SERGEANT]]"
+- "[[topic SILAS|SILAS]]"
+- "[[topic TRIAL|TRIAL]]"
+strongs:
+- "[[G0518]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4755]]"
+- "[[G4465]]"
+- "[[G4487]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G5399]]"
+- "[[G0191]]"
+- "[[G3754G]]"
+- "[[G4514]]"
+- "[[G1510]]"
+texts:
+- N(k)O
+- NKO
+- k
+- no
+---
+
 **Acts 16:38**<big><big>[[Acts.16.35 An Official Apology|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the serjeants told these words unto the magistrates: and they feared, when they heard that they were Romans.
 <small><sub>**BSB:**</sub></small>
 So the officers relayed this message to the magistrates, who were alarmed to hear that Paul and Silas were Roman citizens.
-<small><sub>**Literal:**</sub></small>
-Reported then to the magistrates the officers <the> declarations these; and They were afraid then having heard that Romans they are,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.37|<< Acts 16:37]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.39|Acts 16:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0518\|ἀπήγγειλαν]]  [[G1161\|δὲ]]  [[G3588\|τοῖς]]  [[G4755\|στρατηγοῖς]]  [[G3588\|οἱ]]  [[G4465\|ῥαβδοῦχοι]]  [[G3588\|τὰ]]  [[G4487\|ῥήματα]]  [[G3778\|ταῦτα·]]  [[G2532\|καὶ]]  [[G5399\|ἐφοβήθησαν]]  [[G1161\|δὲ]]  [[G0191\|ἀκούσαντες]]  [[G3754G\|ὅτι]]  [[G4514\|Ῥωμαῖοί]]  [[G1510\|εἰσιν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRIMINALS|CRIMINALS]] • [[topic GOD|GOD]] • [[topic MAGISTRATE|MAGISTRATE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PHILIPPI|PHILIPPI]] • [[topic PRISONERS|PRISONERS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REPROOF|REPROOF]] • [[topic SERGEANT|SERGEANT]] • [[topic SILAS|SILAS]] • [[topic TRIAL|TRIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.37|<< Acts 16:37]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.39|Acts 16:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

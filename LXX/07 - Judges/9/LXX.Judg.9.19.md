@@ -1,6 +1,65 @@
+---
+title: LXX Judges 9:19
+type: Verse
+lxx: "and if you acted in truth and perfection with Jerubbaal, and  his house in  this day, may you be glad in Abimelech, and may he be glad also indeed himself in you."
+greek: "και ει εν αληθεία και τελειότητι εποιήσατε μετά Ιοροβάαλ και του οίκου αυτού εν τη ημέρα ταύτη ευφρανθείητε εν Αβιμέλεχ και ευφρανθείη και γε αυτός εν υμίν"
+original_language: Greek
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic JOTHAM|JOTHAM]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic SARCASM|SARCASM]]"
+strongs:
+- "[[G2532]]"
+- "[[G1487]]"
+- "[[G1722]]"
+- "[[G0225]]"
+- "[[G2532]]"
+- "[[G5047]]"
+- "[[G4160]]"
+- "[[G3326]]"
+- "[[H3378]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3778]]"
+- "[[G2165]]"
+- "[[G1722]]"
+- "[[H0040]]"
+- "[[G2532]]"
+- "[[G2165]]"
+- "[[G2532]]"
+- "[[G1065]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G1473]]"
+---
+
 **LXX Judges 9:19** 
 <small><sub>**LXX:**</sub></small>
 and if you acted in truth and perfection with Jerubbaal, and  his house in  this day, may you be glad in Abimelech, and may he be glad also indeed himself in you. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1487\|ει]] [[G1722\|εν]] [[G0225\|αληθεία]] [[G2532\|και]] [[G5047\|τελειότητι]] [[G4160\|εποιήσατε]] [[G3326\|μετά]] [[H3378\|Ιοροβάαλ]] [[G2532\|και]] [[G3588\|του]] [[G3624\|οίκου]] [[G1473\|αυτού]] [[G1722\|εν]] [[G3588\|τη]] [[G2250\|ημέρα]] [[G3778\|ταύτη]] [[G2165\|ευφρανθείητε]] [[G1722\|εν]] [[H0040\|Αβιμέλεχ]] [[G2532\|και]] [[G2165\|ευφρανθείη]] [[G2532\|και]] [[G1065\|γε]] [[G1473\|αυτός]] [[G1722\|εν]] [[G1473\|υμίν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOTHAM|JOTHAM]] • [[topic JUDGE|JUDGE]] • [[topic ORPHAN|ORPHAN]] • [[topic SARCASM|SARCASM]]</small>
 <small><sub>**MT:**</sub></small>
 [[Judg.9.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.18|<< Judges 9:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.20|Judges 9:20 >>]]</td></tr></table>
 
@@ -31,6 +90,6 @@ and if you acted in truth and perfection with Jerubbaal, and  his house in  this
 | himself | **<big>[[G1473\|αυτός]]</big>** |
 | in | **<big>[[G1722\|εν]]</big>** |
 | you. | **<big>[[G1473\|υμίν]]</big>** |
-[[Judg.9.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.18|<< Judges 9:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.20|Judges 9:20 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.18|<< Judges 9:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.20|Judges 9:20 >>]]</td></tr></table>
 
 

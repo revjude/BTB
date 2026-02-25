@@ -1,8 +1,65 @@
+---
+title: Exodus 7:4
+type: Verse
+kjv: "But Pharaoh shall not hearken unto you, that I may lay my hand upon Egypt, and bring forth mine armies, and my people the children of Israel, out of the land of Egypt by great judgments."
+bsb: "Pharaoh will not listen to you. Then I will lay My hand on Egypt, and by mighty acts of judgment I will bring the divisions of My people the Israelites out of the land of Egypt."
+hebrew: "וְלֹֽא־ יִשְׁמַ֤ע אֲלֵכֶם֙ פַּרְעֹ֔ה וְנָתַתִּ֥י אֶת־ יָדִ֖י בְּמִצְרָ֑יִם וְהוֹצֵאתִ֨י אֶת־ צִבְאֹתַ֜י אֶת־ עַמִּ֤י בְנֵֽי־ יִשְׂרָאֵל֙ מֵאֶ֣רֶץ מִצְרַ֔יִם בִּשְׁפָטִ֖ים גְּדֹלִֽים׃"
+pericope: "[[Exod.7.1 God Commands Moses and Aaron|God Commands Moses and Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 7
+book/chapter: "[[Exod.7|Exodus 7]]"
+chronological_order: 99
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H9036]]"
+- "[[H6547J]]"
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H3027G]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H4714G]]"
+- "[[H3318H]]"
+- "[[H6635A]]"
+- "[[H5971A]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H8201]]"
+- "[[H1419A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 7:4**<big><big>[[Exod.7.1 God Commands Moses and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Pharaoh shall not hearken unto you, that I may lay my hand upon Egypt, and bring forth mine armies, [and] my people the children of Israel, out of the land of Egypt by great judgments.
 <small><sub>**BSB:**</sub></small>
 Pharaoh will not listen to you. Then I will lay My hand on Egypt, and by mighty acts of judgment I will bring the divisions of My people the Israelites out of the land of Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H8085G\|יִשְׁמַ֤ע]] [[H0413\|אֲלֵ]][[H9036\|כֶם֙]] [[H6547J\|פַּרְעֹ֔ה]] [[H9001\|וְ]][[H5414H\|נָתַתִּ֥י]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יָדִ֖]][[H9020\|י]] [[H9003\|בְּ]][[H4714G\|מִצְרָ֑יִם]] [[H9001\|וְ]][[H3318H\|הוֹצֵאתִ֨י]] [[H0853\|אֶת]][[H9014\|־]] [[H6635A\|צִבְאֹתַ֜]][[H9020\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ֤]][[H9020\|י]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֔יִם]] [[H9003\|בִּ]][[H8201\|שְׁפָטִ֖ים]] [[H1419A\|גְּדֹלִֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.3|<< Exodus 7:3]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.5|Exodus 7:5 >>]]</td></tr></table>
 

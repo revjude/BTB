@@ -1,10 +1,57 @@
+---
+title: John 19:3
+type: Verse
+kjv: "And said, Hail, King of the Jews! and they smote him with their hands."
+bsb: "And they went up to Him again and again, saying, “Hail, King of the Jews!” and slapping Him in the face."
+greek: "καὶ ἤρχοντο πρὸς αὐτὸν καὶ ἔλεγον· χαῖρε, ὁ βασιλεὺς τῶν Ἰουδαίων. καὶ ἐδίδοσαν αὐτῷ ῥαπίσματα.¶"
+pericope: "[[John.19.1 The Soldiers Mock Jesus|The Soldiers Mock Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ASSAULT AND BATTERY|ASSAULT AND BATTERY]]"
+- "[[topic CRUELTY|CRUELTY]]"
+- "[[topic IRONY|IRONY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOCKING|MOCKING]]"
+- "[[topic SARCASM|SARCASM]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G5463]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2453]]"
+- "[[G1325]]"
+- "[[G4475]]"
+texts:
+- NO
+- NKO
+---
+
 **John 19:3**<big><big>[[John.19.1 The Soldiers Mock Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And said, Hail, King of the Jews! and they smote him with their hands.
 <small><sub>**BSB:**</sub></small>
 And they went up to Him again and again, saying, “Hail, King of the Jews!” and slapping Him in the face.
-<small><sub>**Literal:**</sub></small>
-and they were coming up to Him and were saying; Hail! O King of the Jews! And they were giving to Him blows with the palm.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.2|<< John 19:2]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.4|John 19:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2064\|ἤρχοντο]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G3004G\|ἔλεγον·]]  [[G5463\|χαῖρε,]]  [[G3588\|ὁ]]  [[G0935\|βασιλεὺς]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων.]]  [[G2532\|καὶ]]  [[G1325\|ἐδίδοσαν]]  [[G0846\|αὐτῷ]]  [[G4475\|ῥαπίσματα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSAULT AND BATTERY|ASSAULT AND BATTERY]] • [[topic CRUELTY|CRUELTY]] • [[topic IRONY|IRONY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOCKING|MOCKING]] • [[topic SARCASM|SARCASM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.2|<< John 19:2]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.4|John 19:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

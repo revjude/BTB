@@ -1,10 +1,68 @@
+---
+title: Mark 7:24
+type: Verse
+kjv: "And from thence he arose, and went into the borders of Tyre and Sidon, and entered into an house, and would have no man know it: but he could not be hid."
+bsb: "Jesus left that place and went to the region of Tyre. Not wanting anyone to know He was there, He entered a house, but was unable to escape their notice."
+greek: "Καὶ Ἐκεῖθεν δὲ ἀναστὰς ἀπῆλθεν εἰς τὰ ὅρια Τύρου καὶ Σιδῶνος. καὶ εἰσελθὼν εἰς τὴν οἰκίαν οὐδένα ἤθελεν γνῶναι καὶ οὐκ ἠδυνήθη λαθεῖν."
+pericope: "[[Mark.7.24 The Faith of the Gentile Woman|The Faith of the Gentile Woman]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 7
+book/chapter: "[[Mark.7|Mark 7]]"
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic RECREATION (REST)|RECREATION (REST)]]"
+- "[[topic SIDON|SIDON]]"
+- "[[topic SYRO-PHOENICIAN|SYRO-PHOENICIAN]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1564]]"
+- "[[G1161]]"
+- "[[G0450]]"
+- "[[G0565]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3725]]"
+- "[[G5184]]"
+- "[[G4605]]"
+- "[[G1525]]"
+- "[[G3614G]]"
+- "[[G3762]]"
+- "[[G2309]]"
+- "[[G1097]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G2990]]"
+texts:
+- ko
+- NKO
+- no
+- N(K)O
+- k
+---
+
 **Mark 7:24**<big><big>[[Mark.7.24 The Faith of the Gentile Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And from thence he arose, and went into the borders of Tyre and Sidon, and entered into an house, and would have no man know [it]: but he could not be hid.
 <small><sub>**BSB:**</sub></small>
 Jesus left that place and went to the region of Tyre. Not wanting anyone to know He was there, He entered a house, but was unable to escape their notice.
-<small><sub>**Literal:**</sub></small>
-and From there also having risen up He went away into the region of Tyre and Sidon. And having entered into <the> a house no [one] He was wishing to know [it] and not He was able to be hidden.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.23|<< Mark 7:23]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.25|Mark 7:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1564\|Ἐκεῖθεν]]  [[G1161\|δὲ]]  [[G0450\|ἀναστὰς]]  [[G0565\|ἀπῆλθεν]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G3725\|ὅρια]]  [[G5184\|Τύρου]]  [[G2532\|καὶ]]  [[G4605\|Σιδῶνος.]]  [[G2532\|καὶ]]  [[G1525\|εἰσελθὼν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3614G\|οἰκίαν]]  [[G3762\|οὐδένα]]  [[G2309\|ἤθελεν]]  [[G1097\|γνῶναι]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1410\|ἠδυνήθη]]  [[G2990\|λαθεῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic RECREATION (REST)|RECREATION (REST)]] • [[topic SIDON|SIDON]] • [[topic SYRO-PHOENICIAN|SYRO-PHOENICIAN]] • [[topic TYRE|TYRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.23|<< Mark 7:23]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.25|Mark 7:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

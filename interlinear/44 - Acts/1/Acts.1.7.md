@@ -1,10 +1,62 @@
+---
+title: Acts 1:7
+type: Verse
+kjv: "And he said unto them, It is not for you to know the times or the seasons, which the Father hath put in his own power."
+bsb: "Jesus replied, “It is not for you to know times or seasons that the Father has fixed by His own authority."
+jesus_said: "It is not for you to know the times or the seasons, which the Father hath put in his own power."
+greek: "εἶπεν δὲ πρὸς αὐτούς· οὐχ ὑμῶν ἐστιν γνῶναι χρόνους ἢ καιροὺς οὓς ὁ πατὴρ ἔθετο ἐν τῇ ἰδίᾳ ἐξουσίᾳ,"
+pericope: "[[Acts.1.6 The Ascension|The Ascension]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 1
+book/chapter: "[[Acts.1|Acts 1]]"
+chronological_order: 1019
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CURIOSITY|CURIOSITY]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic SEASONS|SEASONS]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G1097]]"
+- "[[G5550]]"
+- "[[G2228]]"
+- "[[G2540]]"
+- "[[G3739]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G5087]]"
+- "[[G1722]]"
+- "[[G2398]]"
+- "[[G1849]]"
+texts:
+- NKO
+---
+
 **Acts 1:7**<big><big>[[Acts.1.6 The Ascension|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, It is not for you to know the times or the seasons, which the Father hath put in his own power.
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “It is not for you to know times or seasons that the Father has fixed by His own authority.
-<small><sub>**Literal:**</sub></small>
-He said then to them; Not yours it is to know times or seasons which the Father put in place by <the> His own authority,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.6|<< Acts 1:6]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.8|Acts 1:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς·]]  [[G3756\|οὐχ]]  [[G4771\|ὑμῶν]]  [[G1510\|ἐστιν]]  [[G1097\|γνῶναι]]  [[G5550\|χρόνους]]  [[G2228\|ἢ]]  [[G2540\|καιροὺς]]  [[G3739\|οὓς]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G5087\|ἔθετο]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2398\|ἰδίᾳ]]  [[G1849\|ἐξουσίᾳ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CURIOSITY|CURIOSITY]] • [[topic IGNORANCE|IGNORANCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic SEASONS|SEASONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.6|<< Acts 1:6]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.8|Acts 1:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

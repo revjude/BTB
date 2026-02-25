@@ -1,8 +1,56 @@
+---
+title: Zechariah 5:5
+type: Verse
+kjv: "Then the angel that talked with me went forth, and said unto me, Lift up now thine eyes, and see what is this that goeth forth."
+bsb: "Then the angel who was speaking with me came forward and told me, “Now lift up your eyes and see what is approaching.”"
+hebrew: "וַיֵּצֵ֕א הַמַּלְאָ֖ךְ הַדֹּבֵ֣ר בִּ֑י וַיֹּ֣אמֶר אֵלַ֔י שָׂ֣א נָ֤א עֵינֶ֙יךָ֙ וּרְאֵ֔ה מָ֖ה הַיּוֹצֵ֥את הַזֹּֽאת׃"
+pericope: "[[Zech.5.5 The Vision of the Woman in a Basket|The Vision of the Woman in a Basket]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 5
+book/chapter: "[[Zech.5|Zechariah 5]]"
+chronological_order: 861
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H9009]]"
+- "[[H4397H]]"
+- "[[H1696G]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H5375G]]"
+- "[[H4994]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H4100]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 5:5**<big><big>[[Zech.5.5 The Vision of the Woman in a Basket|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the angel that talked with me went forth, and said unto me, Lift up now thine eyes, and see what [is] this that goeth forth.
 <small><sub>**BSB:**</sub></small>
 Then the angel who was speaking with me came forward and told me, “Now lift up your eyes and see what is approaching.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵ֕א]] [[H9009\|הַ]][[H4397H\|מַּלְאָ֖ךְ]] [[H9009\|הַ]][[H1696G\|דֹּבֵ֣ר]] [[H9003\|בִּ֑]][[H9030\|י]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H5375G\|שָׂ֣א]] [[H4994\|נָ֤א]] [[H5869A\|עֵינֶ֙י]][[H9021\|ךָ֙]] [[H9002\|וּ]][[H7200G\|רְאֵ֔ה]] [[H4100\|מָ֖ה]] [[H9009\|הַ]][[H3318G\|יּוֹצֵ֥את]] [[H9009\|הַ]][[H2063\|זֹּֽאת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.5.4|<< Zechariah 5:4]]</td><td align="center" style="border:none;">[[Zech.5|Zechariah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.5.6|Zechariah 5:6 >>]]</td></tr></table>
 

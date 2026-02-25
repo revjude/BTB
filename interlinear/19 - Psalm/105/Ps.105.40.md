@@ -1,8 +1,56 @@
+---
+title: Psalm 105:40
+type: Verse
+kjv: "The people asked, and he brought quails, and satisfied them with the bread of heaven."
+bsb: "They asked, and He brought quail and satisfied them with the bread of heaven."
+hebrew: "שָׁאַ֣ל וַיָּבֵ֣א שְׂלָ֑ו וְלֶ֥חֶם שָׁ֝מַ֗יִם יַשְׂבִּיעֵֽם׃"
+pericope: "[[Ps.105.1 Tell of His Wonders|Tell of His Wonders]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 105
+book/chapter: "[[Ps.105|Psalm 105]]"
+chronological_order: 529
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic QUAIL|QUAIL]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H7592]]"
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H7958]]"
+- "[[H9002]]"
+- "[[H3899H]]"
+- "[[H8064]]"
+- "[[H7646]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 105:40**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [The people] asked, and he brought quails, and satisfied them with the bread of heaven.
 <small><sub>**BSB:**</sub></small>
 They asked, and He brought quail and satisfied them with the bread of heaven.
+<small><sub>**Hebrew:**</sub></small>
+[[H7592\|שָׁאַ֣ל]] [[H9001\|וַ]][[H0935P\|יָּבֵ֣א]] [[H7958\|שְׂלָ֑ו]] [[H9002\|וְ]][[H3899H\|לֶ֥חֶם]] [[H8064\|שָׁ֝מַ֗יִם]] [[H7646\|יַשְׂבִּיעֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic QUAIL|QUAIL]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.39|<< Psalms 105:39]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.41|Psalms 105:41 >>]]</td></tr></table>
 

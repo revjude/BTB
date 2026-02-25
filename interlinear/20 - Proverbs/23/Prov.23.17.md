@@ -1,8 +1,57 @@
+---
+title: Proverbs 23:17
+type: Verse
+kjv: "Let not thine heart envy sinners: but be thou in the fear of the LORD all the day long."
+bsb: "Do not let your heart envy sinners, but always continue in the fear of the LORD."
+hebrew: "אַל־ יְקַנֵּ֣א לִ֭בְּךָ בַּֽחַטָּאִ֑ים כִּ֥י אִם־ בְּיִרְאַת־ יְ֝הוָ֗ה כָּל־ הַיּֽוֹם׃"
+pericope: "[[Prov.23.17 Saying 15|Saying 15]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 23
+book/chapter: "[[Prov.23|Proverbs 23]]"
+chronological_order: 478
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ENVY|ENVY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H7065]]"
+- "[[H3820A]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H2400]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H3374]]"
+- "[[H3068G]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 23:17**<big><big>[[Prov.23.17 Saying 15|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let not thine heart envy sinners: but [be thou] in the fear of the LORD all the day long.
 <small><sub>**BSB:**</sub></small>
 Do not let your heart envy sinners, but always continue in the fear of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H7065\|יְקַנֵּ֣א]] [[H3820A\|לִ֭בְּ]][[H9021\|ךָ]] [[H9003\|בַּֽ]][[H2400\|חַטָּאִ֑ים]] [[H3588B\|כִּ֥י]] [[H0518B\|אִם]][[H9014\|־]] [[H9003\|בְּ]][[H3374\|יִרְאַת]][[H9014\|־]] [[H3068G\|יְ֝הוָ֗ה]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENVY|ENVY]] • [[topic REVERENCE|REVERENCE]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.16|<< Proverbs 23:16]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.18|Proverbs 23:18 >>]]</td></tr></table>
 

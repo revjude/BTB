@@ -1,8 +1,52 @@
+---
+title: Ezra 7:5
+type: Verse
+kjv: "The son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest:"
+bsb: "the son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest—"
+hebrew: "בֶּן־ אֲבִישׁ֗וּעַ בֶּן־ פִּֽינְחָס֙ בֶּן־ אֶלְעָזָ֔ר בֶּן־ אַהֲרֹ֥ן הַכֹּהֵ֖ן הָרֹֽאשׁ׃"
+pericope: "[[Ezra.7.1 Ezra Arrives in Jerusalem|Ezra Arrives in Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 7
+book/chapter: "[[Ezra.7|Ezra 7]]"
+chronological_order: 909
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic EZRA|EZRA]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0050G]]"
+- "[[H6372G]]"
+- "[[H0499G]]"
+- "[[H0175]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H7218H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 7:5**<big><big>[[Ezra.7.1 Ezra Arrives in Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest:
 <small><sub>**BSB:**</sub></small>
 the son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest—
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H0050G\|אֲבִישׁ֗וּעַ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6372G\|פִּֽינְחָס֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0499G\|אֶלְעָזָ֔ר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0175\|אַהֲרֹ֥ן]] [[H9009\|הַ]][[H3548\|כֹּהֵ֖ן]] [[H9009\|הָ]][[H7218H\|רֹֽאשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZRA|EZRA]] • [[topic GENEALOGY|GENEALOGY]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.4|<< Ezra 7:4]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.6|Ezra 7:6 >>]]</td></tr></table>
 

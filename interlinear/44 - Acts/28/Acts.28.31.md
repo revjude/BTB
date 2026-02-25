@@ -1,10 +1,56 @@
+---
+title: Acts 28:31
+type: Verse
+kjv: "Preaching the kingdom of God, and teaching those things which concern the Lord Jesus Christ, with all confidence, no man forbidding him."
+bsb: "Boldly and freely he proclaimed the kingdom of God and taught about the Lord Jesus Christ."
+greek: "κηρύσσων τὴν βασιλείαν τοῦ θεοῦ καὶ διδάσκων τὰ περὶ τοῦ κυρίου Ἰησοῦ Χριστοῦ μετὰ πάσης παρρησίας ἀκωλύτως.¶"
+pericope: "[[Acts.28.16 Paul Preaches at Rome|Paul Preaches at Rome]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 28
+book/chapter: "[[Acts.28|Acts 28]]"
+chronological_order: 1110
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic TOLERATION|TOLERATION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2784]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G1321]]"
+- "[[G4012]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G3326]]"
+- "[[G3956]]"
+- "[[G3954]]"
+- "[[G0209]]"
+texts:
+- NKO
+---
+
 **Acts 28:31**<big><big>[[Acts.28.16 Paul Preaches at Rome|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Preaching the kingdom of God, and teaching those things which concern the Lord Jesus Christ, with all confidence, no man forbidding him.
 <small><sub>**BSB:**</sub></small>
 Boldly and freely he proclaimed the kingdom of God and taught about the Lord Jesus Christ.
-<small><sub>**Literal:**</sub></small>
-proclaiming the kingdom <the> of God and teaching the [things] concerning the Lord Jesus Christ with all boldness unhinderedly.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.30|<< Acts 28:30]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.1|Romans 1:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2784\|κηρύσσων]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G1321\|διδάσκων]]  [[G3588\|τὰ]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G3326\|μετὰ]]  [[G3956\|πάσης]]  [[G3954\|παρρησίας]]  [[G0209\|ἀκωλύτως.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PAUL|PAUL]] • [[topic PRISONERS|PRISONERS]] • [[topic TOLERATION|TOLERATION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.30|<< Acts 28:30]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.1|Romans 1:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

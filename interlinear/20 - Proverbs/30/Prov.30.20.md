@@ -1,8 +1,61 @@
+---
+title: Proverbs 30:20
+type: Verse
+kjv: "Such is the way of an adulterous woman; she eateth, and wipeth her mouth, and saith, I have done no wickedness."
+bsb: "This is the way of an adulteress: She eats and wipes her mouth and says, ‘I have done nothing wrong.’"
+hebrew: "כֵּ֤ן׀ דֶּ֥רֶךְ אִשָּׁ֗ה מְנָ֫אָ֥פֶת אָ֭כְלָה וּמָ֣חֲתָה פִ֑יהָ וְ֝אָמְרָ֗ה לֹֽא־ פָעַ֥לְתִּי אָֽוֶן׃ פ"
+pericope: "[[Prov.30.1 The Words of Agur|The Words of Agur]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 30
+book/chapter: "[[Prov.30|Proverbs 30]]"
+chronological_order: 485
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic RIDDLE|RIDDLE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3651C]]"
+- "[[H9015]]"
+- "[[H1870G]]"
+- "[[H0802G]]"
+- "[[H5003]]"
+- "[[H0398]]"
+- "[[H9002]]"
+- "[[H4229A]]"
+- "[[H6310G]]"
+- "[[H9024]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6466]]"
+- "[[H0205G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Proverbs 30:20**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Such [is] the way of an adulterous woman; she eateth, and wipeth her mouth, and saith, I have done no wickedness.
 <small><sub>**BSB:**</sub></small>
 This is the way of an adulteress: She eats and wipes her mouth and says, ‘I have done nothing wrong.’
+<small><sub>**Hebrew:**</sub></small>
+[[H3651C\|כֵּ֤ן]][[H9015\|׀]] [[H1870G\|דֶּ֥רֶךְ]] [[H0802G\|אִשָּׁ֗ה]] [[H5003\|מְנָ֫אָ֥פֶת]] [[H0398\|אָ֭כְלָה]] [[H9002\|וּ]][[H4229A\|מָ֣חֲתָה]] [[H6310G\|פִ֑י]][[H9024\|הָ]] [[H9002\|וְ֝]][[H0559\|אָמְרָ֗ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H6466\|פָעַ֥לְתִּי]] [[H0205G\|אָֽוֶן]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic RIDDLE|RIDDLE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.19|<< Proverbs 30:19]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.21|Proverbs 30:21 >>]]</td></tr></table>
 
@@ -18,7 +71,7 @@ This is the way of an adulteress: She eats and wipes her mouth and says, ‘I ha
 | and she says  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H0559\|אָמְרָ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.me.Rah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have done  |**<big>&#8207;[[H6466\|פָעַ֥לְתִּי]]&#8207; </big>**| fa.'Al.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| wickedness  |**<big>&#8207;[[H0205G\|אָֽוֶן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'A.ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wickedness  |**<big>&#8207;[[H0205G\|אָֽוֶן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'A.ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.19|<< Proverbs 30:19]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.21|Proverbs 30:21 >>]]</td></tr></table>
 
 

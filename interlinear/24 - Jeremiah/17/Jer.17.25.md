@@ -1,8 +1,73 @@
+---
+title: Jeremiah 17:25
+type: Verse
+kjv: "Then shall there enter into the gates of this city kings and princes sitting upon the throne of David, riding in chariots and on horses, they, and their princes, the men of Judah, and the inhabitants of Jerusalem: and this city shall remain for ever."
+bsb: "then kings and princes will enter through the gates of this city. They will sit on the throne of David, riding in chariots and on horses with their officials, along with the men of Judah and the residents of Jerusalem, and this city will be inhabited forever."
+hebrew: "וּבָ֣אוּ בְשַׁעֲרֵ֣י הָעִ֣יר הַזֹּ֡את מְלָכִ֣ים׀ וְשָׂרִ֡ים יֹשְׁבִים֩ עַל־ כִּסֵּ֨א דָוִ֜ד רֹכְבִ֣ים׀ בָּרֶ֣כֶב וּבַסּוּסִ֗ים הֵ֚מָּה וְשָׂ֣רֵיהֶ֔ם אִ֥ישׁ יְהוּדָ֖ה וְיֹשְׁבֵ֣י יְרוּשָׁלִָ֑ם וְיָשְׁבָ֥ה הָֽעִיר־ הַזֹּ֖את לְעוֹלָֽם׃"
+pericope: "[[Jer.17.19 Restoring the Sabbath|Restoring the Sabbath]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 17
+book/chapter: "[[Jer.17|Jeremiah 17]]"
+chronological_order: 734
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic THRONE|THRONE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H4428G]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H8269]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3678G]]"
+- "[[H1732]]"
+- "[[H7392]]"
+- "[[H7393G]]"
+- "[[H5483M]]"
+- "[[H1992]]"
+- "[[H9028]]"
+- "[[H0376I]]"
+- "[[H3063G]]"
+- "[[H3389]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 17:25**<big><big>[[Jer.17.19 Restoring the Sabbath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall there enter into the gates of this city kings and princes sitting upon the throne of David, riding in chariots and on horses, they, and their princes, the men of Judah, and the inhabitants of Jerusalem: and this city shall remain for ever.
 <small><sub>**BSB:**</sub></small>
 then kings and princes will enter through the gates of this city. They will sit on the throne of David, riding in chariots and on horses with their officials, along with the men of Judah and the residents of Jerusalem, and this city will be inhabited forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H0935G\|בָ֣אוּ]] [[H9003\|בְ]][[H8179G\|שַׁעֲרֵ֣י]] [[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H2063\|זֹּ֡את]] [[H4428G\|מְלָכִ֣ים]][[H9015\|׀]] [[H9002\|וְ]][[H8269\|שָׂרִ֡ים]] [[H3427\|יֹשְׁבִים֩]] [[H5921A\|עַל]][[H9014\|־]] [[H3678G\|כִּסֵּ֨א]] [[H1732\|דָוִ֜ד]] [[H7392\|רֹכְבִ֣ים]][[H9015\|׀]] [[H9003\|בָּ]][[H7393G\|רֶ֣כֶב]] [[H9002\|וּ]][[H9003\|בַ]][[H5483M\|סּוּסִ֗ים]] [[H1992\|הֵ֚מָּה]] [[H9002\|וְ]][[H8269\|שָׂ֣רֵי]][[H9028\|הֶ֔ם]] [[H0376I\|אִ֥ישׁ]] [[H3063G\|יְהוּדָ֖ה]] [[H9002\|וְ]][[H3427\|יֹשְׁבֵ֣י]] [[H3389\|יְרוּשָׁלִָ֑ם]] [[H9001\|וְ]][[H3427\|יָשְׁבָ֥ה]] [[H9009\|הָֽ]][[H5892B\|עִיר]][[H9014\|־]] [[H9009\|הַ]][[H2063\|זֹּ֖את]] [[H9005\|לְ]][[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHARIOT|CHARIOT]] • [[topic REWARD|REWARD]] • [[topic SABBATH|SABBATH]] • [[topic THRONE|THRONE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.24|<< Jeremiah 17:24]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.26|Jeremiah 17:26 >>]]</td></tr></table>
 

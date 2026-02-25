@@ -1,8 +1,54 @@
+---
+title: Job 23:7
+type: Verse
+kjv: "There the righteous might dispute with him; so should I be delivered for ever from my judge."
+bsb: "Then an upright man could reason with Him, and I would be delivered forever from my Judge."
+hebrew: "שָׁ֗ם יָ֭שָׁר נוֹכָ֣ח עִמּ֑וֹ וַאֲפַלְּטָ֥ה לָ֝נֶ֗צַח מִשֹּׁפְטִֽי׃"
+pericope: "[[Job.23.1 Job Longs for God|Job Longs for God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 23
+book/chapter: "[[Job.23|Job 23]]"
+chronological_order: 34
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H8033G]]"
+- "[[H3477G]]"
+- "[[H3198]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H6403]]"
+- "[[H9005]]"
+- "[[H5331]]"
+- "[[H9006]]"
+- "[[H8199]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 23:7**<big><big>[[Job.23.1 Job Longs for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There the righteous might dispute with him; so should I be delivered for ever from my judge.
 <small><sub>**BSB:**</sub></small>
 Then an upright man could reason with Him, and I would be delivered forever from my Judge.
+<small><sub>**Hebrew:**</sub></small>
+[[H8033G\|שָׁ֗ם]] [[H3477G\|יָ֭שָׁר]] [[H3198\|נוֹכָ֣ח]] [[H5973A\|עִמּ֑]][[H9033\|וֹ]] [[H9002\|וַ]][[H6403\|אֲפַלְּטָ֥ה]] [[H9005\|לָ֝]][[H5331\|נֶ֗צַח]] [[H9006\|מִ]][[H8199\|שֹּׁפְטִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.23.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.23.6|<< Job 23:6]]</td><td align="center" style="border:none;">[[Job.23|Job 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.23.8|Job 23:8 >>]]</td></tr></table>
 

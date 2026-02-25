@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Wages of Sin
+type: Pericope
 pericope: "[[Rom.6.15 The Wages of Sin|The Wages of Sin]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Romans
 chapter: 6
 book/chapter: "[[Rom.6|Romans 6]]"
-genre:
+chronological_order: 1092
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 9
 verses:
 - "[[Rom.6.15]]"
 - "[[Rom.6.16]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Rom.6.23]]"
 ---
 
-[[Rom.6|Romans 6:15 - Romans 6:23]]
+<small>[[Rom.6|Romans 6:15-23]]</small>
 *The Wages of Sin*
 
 [[Rom.6.15|15]] What then? shall we sin, because we are not under the law, but under grace? God forbid.

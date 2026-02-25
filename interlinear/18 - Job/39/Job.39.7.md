@@ -1,8 +1,50 @@
+---
+title: Job 39:7
+type: Verse
+kjv: "He scorneth the multitude of the city, neither regardeth he the crying of the driver."
+bsb: "He scorns the tumult of the city and never hears the shouts of a driver."
+hebrew: "יִ֭שְׂחַק לַהֲמ֣וֹן קִרְיָ֑ה תְּשֻׁא֥וֹת נ֝וֹגֵ֗שׂ לֹ֣א יִשְׁמָֽע׃"
+pericope: "[[Job.39.1 The LORD Speaks of His Creation|The LORD Speaks of His Creation]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 39
+book/chapter: "[[Job.39|Job 39]]"
+chronological_order: 50
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H7832]]"
+- "[[H9005]]"
+- "[[H1995A]]"
+- "[[H7151]]"
+- "[[H8663]]"
+- "[[H5065]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 39:7**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He scorneth the multitude of the city, neither regardeth he the crying of the driver.
 <small><sub>**BSB:**</sub></small>
 He scorns the tumult of the city and never hears the shouts of a driver.
+<small><sub>**Hebrew:**</sub></small>
+[[H7832\|יִ֭שְׂחַק]] [[H9005\|לַ]][[H1995A\|הֲמ֣וֹן]] [[H7151\|קִרְיָ֑ה]] [[H8663\|תְּשֻׁא֥וֹת]] [[H5065\|נ֝וֹגֵ֗שׂ]] [[H3808\|לֹ֣א]] [[H8085G\|יִשְׁמָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.6|<< Job 39:6]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.8|Job 39:8 >>]]</td></tr></table>
 

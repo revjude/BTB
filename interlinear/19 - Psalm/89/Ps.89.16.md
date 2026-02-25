@@ -1,8 +1,61 @@
+---
+title: Psalm 89:16
+type: Verse
+kjv: "In thy name shall they rejoice all the day: and in thy righteousness shall they be exalted."
+bsb: "They rejoice in Your name all day long, and in Your righteousness they exult."
+hebrew: "בְּ֭שִׁמְךָ יְגִיל֣וּן כָּל־ הַיּ֑וֹם וּבְצִדְקָתְךָ֥ יָרֽוּמוּ׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H1523]]"
+- "[[H9013]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9002]]"
+- "[[H6666]]"
+- "[[H7311A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 89:16**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In thy name shall they rejoice all the day: and in thy righteousness shall they be exalted.
 <small><sub>**BSB:**</sub></small>
 They rejoice in Your name all day long, and in Your righteousness they exult.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ֭]][[H8034\|שִׁמְ]][[H9021\|ךָ]] [[H1523\|יְגִיל֣וּ]][[H9013\|ן]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּ֑וֹם]] [[H9002\|וּ]][[H9003\|בְ]][[H6666\|צִדְקָתְ]][[H9021\|ךָ֥]] [[H7311A\|יָרֽוּמוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.15|<< Psalms 89:15]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.17|Psalms 89:17 >>]]</td></tr></table>
 

@@ -1,8 +1,80 @@
+---
+title: 2 Kings 18:21
+type: Verse
+kjv: "Now, behold, thou trustest upon the staff of this bruised reed, even upon Egypt, on which if a man lean, it will go into his hand, and pierce it: so is Pharaoh king of Egypt unto all that trust on him."
+bsb: "Look now, you are trusting in Egypt, that splintered reed of a staff that will pierce the hand of anyone who leans on it. Such is Pharaoh king of Egypt to all who trust in him."
+hebrew: "עַתָּ֡ה הִנֵּ֣ה בָטַ֣חְתָּ לְּךָ֡ עַל־ מִשְׁעֶנֶת֩ הַקָּנֶ֨ה הָרָצ֤וּץ הַזֶּה֙ עַל־ מִצְרַ֔יִם אֲשֶׁ֨ר יִסָּמֵ֥ךְ אִישׁ֙ עָלָ֔יו וּבָ֥א בְכַפּ֖וֹ וּנְקָבָ֑הּ כֵּ֚ן פַּרְעֹ֣ה מֶֽלֶךְ־ מִצְרַ֔יִם לְכָֽל־ הַבֹּטְחִ֖ים עָלָֽיו׃"
+pericope: "[[2Kgs.18.17 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 18
+book/chapter: "[[2Kgs.18|2 Kings 18]]"
+chronological_order: 656
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PHARAOH|PHARAOH]]"
+- "[[topic RAB-SHAKEH (RABSHAKEH)|RAB-SHAKEH (RABSHAKEH)]]"
+- "[[topic REED|REED]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H6258]]"
+- "[[H2009]]"
+- "[[H0982]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4938B]]"
+- "[[H9009]]"
+- "[[H7070H]]"
+- "[[H7533]]"
+- "[[H2088]]"
+- "[[H4714G]]"
+- "[[H0834A]]"
+- "[[H5564]]"
+- "[[H0376I]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H3709G]]"
+- "[[H9023]]"
+- "[[H5344A]]"
+- "[[H9034]]"
+- "[[H3651C]]"
+- "[[H6547L]]"
+- "[[H4428G]]"
+- "[[H3605]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 18:21**<big><big>[[2Kgs.18.17 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now, behold, thou trustest upon the staff of this bruised reed, [even] upon Egypt, on which if a man lean, it will go into his hand, and pierce it: so [is] Pharaoh king of Egypt unto all that trust on him.
 <small><sub>**BSB:**</sub></small>
 Look now, you are trusting in Egypt, that splintered reed of a staff that will pierce the hand of anyone who leans on it. Such is Pharaoh king of Egypt to all who trust in him.
+<small><sub>**Hebrew:**</sub></small>
+[[H6258\|עַתָּ֡ה]] [[H2009\|הִנֵּ֣ה]] [[H0982\|בָטַ֣חְתָּ]] [[H9005\|לְּ]][[H9031\|ךָ֡]] [[H5921A\|עַל]][[H9014\|־]] [[H4938B\|מִשְׁעֶנֶת֩]] [[H9009\|הַ]][[H7070H\|קָּנֶ֨ה]] [[H9009\|הָ]][[H7533\|רָצ֤וּץ]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H5921A\|עַל]][[H9014\|־]] [[H4714G\|מִצְרַ֔יִם]] [[H0834A\|אֲשֶׁ֨ר]] [[H5564\|יִסָּמֵ֥ךְ]] [[H0376I\|אִישׁ֙]] [[H5921A\|עָלָ֔י]][[H9033\|ו]] [[H9001\|וּ]][[H0935G\|בָ֥א]] [[H9003\|בְ]][[H3709G\|כַפּ֖]][[H9023\|וֹ]] [[H9001\|וּ]][[H5344A\|נְקָבָ֑]][[H9034\|הּ]] [[H3651C\|כֵּ֚ן]] [[H6547L\|פַּרְעֹ֣ה]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H4714G\|מִצְרַ֔יִם]] [[H9005\|לְ]][[H3605\|כָֽל]][[H9014\|־]] [[H9009\|הַ]][[H0982\|בֹּטְחִ֖ים]] [[H5921A\|עָלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic ASSYRIA|ASSYRIA]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PHARAOH|PHARAOH]] • [[topic RAB-SHAKEH (RABSHAKEH)|RAB-SHAKEH (RABSHAKEH)]] • [[topic REED|REED]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.20|<< 2 Kings 18:20]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.22|2 Kings 18:22 >>]]</td></tr></table>
 

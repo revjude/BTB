@@ -1,8 +1,62 @@
+---
+title: Psalm 77:18
+type: Verse
+kjv: "The voice of thy thunder was in the heaven: the lightnings lightened the world: the earth trembled and shook."
+bsb: "Your thunder resounded in the whirlwind; the lightning lit up the world; the earth trembled and quaked."
+hebrew: "ק֤וֹל רַעַמְךָ֨׀ בַּגַּלְגַּ֗ל הֵאִ֣ירוּ בְרָקִ֣ים תֵּבֵ֑ל רָגְזָ֖ה וַתִּרְעַ֣שׁ הָאָֽרֶץ׃"
+pericope: "[[Ps.77.1 In the Day of Trouble I Sought the Lord|In the Day of Trouble I Sought the Lord]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 77
+book/chapter: "[[Ps.77|Psalm 77]]"
+chronological_order: 509
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic EARTHQUAKES|EARTHQUAKES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LIGHTNING|LIGHTNING]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic THUNDER|THUNDER]]"
+strongs:
+- "[[H6963H]]"
+- "[[H7482]]"
+- "[[H9021]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H1534]]"
+- "[[H0215]]"
+- "[[H1300B]]"
+- "[[H8398]]"
+- "[[H7264]]"
+- "[[H9001]]"
+- "[[H7493]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 77:18**<big><big>[[Ps.77.1 In the Day of Trouble I Sought the Lord|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The voice of thy thunder [was] in the heaven: the lightnings lightened the world: the earth trembled and shook.
 <small><sub>**BSB:**</sub></small>
 Your thunder resounded in the whirlwind; the lightning lit up the world; the earth trembled and quaked.
+<small><sub>**Hebrew:**</sub></small>
+[[H6963H\|ק֤וֹל]] [[H7482\|רַעַמְ]][[H9021\|ךָ֨]][[H9015\|׀]] [[H9003\|בַּ]][[H1534\|גַּלְגַּ֗ל]] [[H0215\|הֵאִ֣ירוּ]] [[H1300B\|בְרָקִ֣ים]] [[H8398\|תֵּבֵ֑ל]] [[H7264\|רָגְזָ֖ה]] [[H9001\|וַ]][[H7493\|תִּרְעַ֣שׁ]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTHQUAKES|EARTHQUAKES]] • [[topic GOD|GOD]] • [[topic LIGHTNING|LIGHTNING]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic THUNDER|THUNDER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.77.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.77.17|<< Psalms 77:17]]</td><td align="center" style="border:none;">[[Ps.77|Psalms 77]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.77.19|Psalms 77:19 >>]]</td></tr></table>
 

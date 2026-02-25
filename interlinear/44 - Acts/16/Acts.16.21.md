@@ -1,10 +1,63 @@
+---
+title: Acts 16:21
+type: Verse
+kjv: "And teach customs, which are not lawful for us to receive, neither to observe, being Romans."
+bsb: "by promoting customs that are unlawful for us Romans to adopt or practice.”"
+greek: "καὶ καταγγέλλουσιν ἔθη ἃ οὐκ ἔξεστιν ἡμῖν παραδέχεσθαι οὐδὲ ποιεῖν Ῥωμαίοις οὖσιν."
+pericope: "[[Acts.16.16 Paul and Silas Imprisoned|Paul and Silas Imprisoned]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic CRIMINALS|CRIMINALS]]"
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HERESY|HERESY]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SILAS|SILAS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2605]]"
+- "[[G1485]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1832]]"
+- "[[G3165]]"
+- "[[G3858]]"
+- "[[G3761]]"
+- "[[G4160G]]"
+- "[[G4514]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **Acts 16:21**<big><big>[[Acts.16.16 Paul and Silas Imprisoned|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And teach customs, which are not lawful for us to receive, neither to observe, being Romans.
 <small><sub>**BSB:**</sub></small>
 by promoting customs that are unlawful for us Romans to adopt or practice.”
-<small><sub>**Literal:**</sub></small>
-and preach customs that not it is lawful for us to accept nor to practice Romans being.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.20|<< Acts 16:20]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.22|Acts 16:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2605\|καταγγέλλουσιν]]  [[G1485\|ἔθη]]  [[G3739\|ἃ]]  [[G3756\|οὐκ]]  [[G1832\|ἔξεστιν]]  [[G3165\|ἡμῖν]]  [[G3858\|παραδέχεσθαι]]  [[G3761\|οὐδὲ]]  [[G4160G\|ποιεῖν]]  [[G4514\|Ῥωμαίοις]]  [[G1510\|οὖσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic CRIMINALS|CRIMINALS]] • [[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HERESY|HERESY]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic MALICE|MALICE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PHILIPPI|PHILIPPI]] • [[topic PRISONERS|PRISONERS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SILAS|SILAS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.20|<< Acts 16:20]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.22|Acts 16:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,58 @@
+---
+title: 1 Corinthians 9:20
+type: Verse
+kjv: "And unto the Jews I became as a Jew, that I might gain the Jews; to them that are under the law, as under the law, that I might gain them that are under the law;"
+bsb: "To the Jews I became like a Jew, to win the Jews. To those under the law I became like one under the law (though I myself am not under the law), to win those under the law."
+greek: "καὶ ἐγενόμην τοῖς Ἰουδαίοις ὡς Ἰουδαῖος ἵνα Ἰουδαίους κερδήσω· τοῖς ὑπὸ νόμον ὡς ὑπὸ νόμον, μὴ ὢν αὐτὸς ὑπὸ νόμον, ἵνα τοὺς ὑπὸ νόμον κερδήσω·"
+pericope: "[[1Cor.9.19 Paul the Servant to All|Paul the Servant to All]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 9
+book/chapter: "[[1Cor.9|1 Corinthians 9]]"
+chronological_order: 1066
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic EVIL|EVIL]]"
+- "[[topic EXPEDIENCY|EXPEDIENCY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TACT|TACT]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G2453]]"
+- "[[G5613]]"
+- "[[G2443]]"
+- "[[G2770]]"
+- "[[G5259H]]"
+- "[[G3551]]"
+- "[[G3361]]"
+- "[[G1510]]"
+- "[[G0846]]"
+texts:
+- NKO
+- NO
+---
+
 **1 Corinthians 9:20**<big><big>[[1Cor.9.19 Paul the Servant to All|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And unto the Jews I became as a Jew, that I might gain the Jews; to them that are under the law, as under the law, that I might gain them that are under the law;
 <small><sub>**BSB:**</sub></small>
 To the Jews I became like a Jew, to win the Jews. To those under the law I became like one under the law (though I myself am not under the law), to win those under the law.
-<small><sub>**Literal:**</sub></small>
-And I became to the Jews like a Jew so that Jews I may win; To those under [the] Law as under [the] law not being myself under [the] law so that those under [the] law I may win;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.19|<< 1 Corinthians 9:19]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.21|1 Corinthians 9:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1096\|ἐγενόμην]]  [[G3588\|τοῖς]]  [[G2453\|Ἰουδαίοις]]  [[G5613\|ὡς]]  [[G2453\|Ἰουδαῖος]]  [[G2443\|ἵνα]]  [[G2453\|Ἰουδαίους]]  [[G2770\|κερδήσω·]]  [[G3588\|τοῖς]]  [[G5259H\|ὑπὸ]]  [[G3551\|νόμον]]  [[G5613\|ὡς]]  [[G5259H\|ὑπὸ]]  [[G3551\|νόμον,]]  [[G3361\|μὴ]]  [[G1510\|ὢν]]  [[G0846\|αὐτὸς]]  [[G5259H\|ὑπὸ]]  [[G3551\|νόμον,]]  [[G2443\|ἵνα]]  [[G3588\|τοὺς]]  [[G5259H\|ὑπὸ]]  [[G3551\|νόμον]]  [[G2770\|κερδήσω·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIPLOMACY|DIPLOMACY]] • [[topic EVIL|EVIL]] • [[topic EXPEDIENCY|EXPEDIENCY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TACT|TACT]] • [[topic UNSELFISHNESS|UNSELFISHNESS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.19|<< 1 Corinthians 9:19]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.21|1 Corinthians 9:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,67 @@
+---
+title: 1 Samuel 27:9
+type: Verse
+kjv: "And David smote the land, and left neither man nor woman alive, and took away the sheep, and the oxen, and the asses, and the camels, and the apparel, and returned, and came to Achish."
+bsb: "Whenever David attacked a territory, he did not leave a man or woman alive, but he took the flocks and herds, the donkeys, camels, and clothing. Then he would return to Achish,"
+hebrew: "וְהִכָּ֤ה דָוִד֙ אֶת־ הָאָ֔רֶץ וְלֹ֥א יְחַיֶּ֖ה אִ֣ישׁ וְאִשָּׁ֑ה וְלָקַח֩ צֹ֨אן וּבָקָ֜ר וַחֲמֹרִ֤ים וּגְמַלִּים֙ וּבְגָדִ֔ים וַיָּ֖שָׁב וַיָּבֹ֥א אֶל־ אָכִֽישׁ׃"
+pericope: "[[1Sam.27.1 David and the Philistines|David and the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 27
+book/chapter: "[[1Sam.27|1 Samuel 27]]"
+chronological_order: 306
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H1732]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2421]]"
+- "[[H0376G]]"
+- "[[H0802G]]"
+- "[[H3947G]]"
+- "[[H6629G]]"
+- "[[H1241]]"
+- "[[H2543]]"
+- "[[H1581]]"
+- "[[H0899B]]"
+- "[[H7725G]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H0397]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 27:9**<big><big>[[1Sam.27.1 David and the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David smote the land, and left neither man nor woman alive, and took away the sheep, and the oxen, and the asses, and the camels, and the apparel, and returned, and came to Achish.
 <small><sub>**BSB:**</sub></small>
 Whenever David attacked a territory, he did not leave a man or woman alive, but he took the flocks and herds, the donkeys, camels, and clothing. Then he would return to Achish,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5221\|הִכָּ֤ה]] [[H1732\|דָוִד֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H2421\|יְחַיֶּ֖ה]] [[H0376G\|אִ֣ישׁ]] [[H9002\|וְ]][[H0802G\|אִשָּׁ֑ה]] [[H9001\|וְ]][[H3947G\|לָקַח֩]] [[H6629G\|צֹ֨אן]] [[H9002\|וּ]][[H1241\|בָקָ֜ר]] [[H9002\|וַ]][[H2543\|חֲמֹרִ֤ים]] [[H9002\|וּ]][[H1581\|גְמַלִּים֙]] [[H9002\|וּ]][[H0899B\|בְגָדִ֔ים]] [[H9001\|וַ]][[H7725G\|יָּ֖שָׁב]] [[H9001\|וַ]][[H0935G\|יָּבֹ֥א]] [[H0413\|אֶל]][[H9014\|־]] [[H0397\|אָכִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMALEKITES|AMALEKITES]] • [[topic DAVID|DAVID]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic PHILISTINES|PHILISTINES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.27.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.27.8|<< 1 Samuel 27:8]]</td><td align="center" style="border:none;">[[1Sam.27|1 Samuel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.27.10|1 Samuel 27:10 >>]]</td></tr></table>
 

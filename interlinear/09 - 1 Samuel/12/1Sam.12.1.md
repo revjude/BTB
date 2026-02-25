@@ -1,8 +1,60 @@
+---
+title: 1 Samuel 12:1
+type: Verse
+kjv: "And Samuel said unto all Israel, Behold, I have hearkened unto your voice in all that ye said unto me, and have made a king over you."
+bsb: "Then Samuel said to all Israel, “I have listened to your voice in all that you have said to me, and I have set over you a king."
+hebrew: "וַיֹּ֤אמֶר שְׁמוּאֵל֙ אֶל־ כָּל־ יִשְׂרָאֵ֔ל הִנֵּה֙ שָׁמַ֣עְתִּי בְקֹֽלְכֶ֔ם לְכֹ֥ל אֲשֶׁר־ אֲמַרְתֶּ֖ם לִ֑י וָאַמְלִ֥יךְ עֲלֵיכֶ֖ם מֶֽלֶךְ׃"
+pericope: "[[1Sam.12.1 Samuel’s Farewell Address|Samuel’s Farewell Address]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 12
+book/chapter: "[[1Sam.12|1 Samuel 12]]"
+chronological_order: 291
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8050G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H2009]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H9026]]"
+- "[[H9005]]"
+- "[[H0834A]]"
+- "[[H9030]]"
+- "[[H4427A]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 12:1**<big><big>[[1Sam.12.1 Samuel’s Farewell Address|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samuel said unto all Israel, Behold, I have hearkened unto your voice in all that ye said unto me, and have made a king over you.
 <small><sub>**BSB:**</sub></small>
 Then Samuel said to all Israel, “I have listened to your voice in all that you have said to me, and I have set over you a king.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H8050G\|שְׁמוּאֵל֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H2009\|הִנֵּה֙]] [[H8085H\|שָׁמַ֣עְתִּי]] [[H9003\|בְ]][[H6963A\|קֹֽלְ]][[H9026\|כֶ֔ם]] [[H9005\|לְ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0559\|אֲמַרְתֶּ֖ם]] [[H9005\|לִ֑]][[H9030\|י]] [[H9001\|וָ]][[H4427A\|אַמְלִ֥יךְ]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֖ם]] [[H4428G\|מֶֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.12.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.11.15|<< 1 Samuel 11:15]]</td><td align="center" style="border:none;">[[1Sam.12|1 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.12.2|1 Samuel 12:2 >>]]</td></tr></table>
 

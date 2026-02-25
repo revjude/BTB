@@ -1,8 +1,61 @@
+---
+title: Hosea 7:10
+type: Verse
+kjv: "And the pride of Israel testifieth to his face: and they do not return to the LORD their God, nor seek him for all this."
+bsb: "Israel’s arrogance testifies against them, yet they do not return to the LORD their God; despite all this, they do not seek Him."
+hebrew: "וְעָנָ֥ה גְאֽוֹן־ יִשְׂרָאֵ֖ל בְּפָנָ֑יו וְלֹֽא־ שָׁ֙בוּ֙ אֶל־ יְהוָ֣ה אֱלֹֽהֵיהֶ֔ם וְלֹ֥א בִקְשֻׁ֖הוּ בְּכָל־ זֹֽאת׃"
+pericope: "[[Hos.7.1 Ephraim’s Iniquity|Ephraim’s Iniquity]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 7
+book/chapter: "[[Hos.7|Hosea 7]]"
+chronological_order: 648
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H9002]]"
+- "[[H6030B]]"
+- "[[H1347]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9028]]"
+- "[[H1245]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 7:10**<big><big>[[Hos.7.1 Ephraim’s Iniquity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the pride of Israel testifieth to his face: and they do not return to the LORD their God, nor seek him for all this.
 <small><sub>**BSB:**</sub></small>
 Israel’s arrogance testifies against them, yet they do not return to the LORD their God; despite all this, they do not seek Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6030B\|עָנָ֥ה]] [[H1347\|גְאֽוֹן]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בְּ]][[H6440H\|פָנָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7725G\|שָׁ֙בוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹֽהֵי]][[H9028\|הֶ֔ם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H1245\|בִקְשֻׁ֖]][[H9033\|הוּ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H2063\|זֹֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.7.9|<< Hosea 7:9]]</td><td align="center" style="border:none;">[[Hos.7|Hosea 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.7.11|Hosea 7:11 >>]]</td></tr></table>
 

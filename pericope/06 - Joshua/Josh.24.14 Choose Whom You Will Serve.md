@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Choose Whom You Will Serve
+type: Pericope
 pericope: "[[Josh.24.14 Choose Whom You Will Serve|Choose Whom You Will Serve]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 24
 book/chapter: "[[Josh.24|Joshua 24]]"
-genre:
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 15
 verses:
 - "[[Josh.24.14]]"
 - "[[Josh.24.15]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Josh.24.28]]"
 ---
 
-[[Josh.24|Joshua 24:14 - Joshua 24:28]]
+<small>[[Josh.24|Joshua 24:14-28]]</small>
 *Choose Whom You Will Serve*
 
 [[Josh.24.14|14]] Now therefore fear the LORD, and serve him in sincerity and in truth: and put away the gods which your fathers served on the other side of the flood, and in Egypt; and serve ye the LORD.

@@ -1,8 +1,60 @@
+---
+title: Psalm 102:15
+type: Verse
+kjv: "So the heathen shall fear the name of the LORD, and all the kings of the earth thy glory."
+bsb: "So the nations will fear the name of the LORD, and all the kings of the earth will fear Your glory."
+hebrew: "וְיִֽירְא֣וּ ג֭וֹיִם אֶת־ שֵׁ֣ם יְהוָ֑ה וְֽכָל־ מַלְכֵ֥י הָ֝אָ֗רֶץ אֶת־ כְּבוֹדֶֽךָ׃"
+pericope: "[[Ps.102.1 The Prayer of the Afflicted|The Prayer of the Afflicted]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 102
+book/chapter: "[[Ps.102|Psalm 102]]"
+chronological_order: 784
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3372H]]"
+- "[[H1471A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H3605]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H3519]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 102:15**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the heathen shall fear the name of the LORD, and all the kings of the earth thy glory.
 <small><sub>**BSB:**</sub></small>
 So the nations will fear the name of the LORD, and all the kings of the earth will fear Your glory.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3372H\|יִֽירְא֣וּ]] [[H1471A\|ג֭וֹיִם]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שֵׁ֣ם]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְֽ]][[H3605\|כָל]][[H9014\|־]] [[H4428G\|מַלְכֵ֥י]] [[H9009\|הָ֝]][[H0776G\|אָ֗רֶץ]] [[H0853\|אֶת]][[H9014\|־]] [[H3519\|כְּבוֹדֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.14|<< Psalms 102:14]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.16|Psalms 102:16 >>]]</td></tr></table>
 

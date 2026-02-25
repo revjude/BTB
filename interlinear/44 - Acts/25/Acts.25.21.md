@@ -1,10 +1,57 @@
+---
+title: Acts 25:21
+type: Verse
+kjv: "But when Paul had appealed to be reserved unto the hearing of Augustus, I commanded him to be kept till I might send him to Caesar."
+bsb: "But when Paul appealed to be held over for the decision of the Emperor, I ordered that he be held until I could send him to Caesar.”"
+greek: "τοῦ δὲ Παύλου ἐπικαλεσαμένου τηρηθῆναι αὐτὸν εἰς τὴν τοῦ Σεβαστοῦ διάγνωσιν ἐκέλευσα τηρεῖσθαι αὐτὸν ἕως οὗ ἀναπέμψω αὐτὸν πρὸς Καίσαρα."
+pericope: "[[Acts.25.13 Festus Consults Agrippa|Festus Consults Agrippa]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 25
+book/chapter: "[[Acts.25|Acts 25]]"
+chronological_order: 1107
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic APPEAL|APPEAL]]"
+- "[[topic AUGUSTUS|AUGUSTUS]]"
+- "[[topic ROMAN EMPIRE|ROMAN EMPIRE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3972G]]"
+- "[[G1941]]"
+- "[[G5083H]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G4575]]"
+- "[[G1233]]"
+- "[[G2753]]"
+- "[[G2193]]"
+- "[[G3739]]"
+- "[[G0375]]"
+- "[[G4314]]"
+- "[[G2541]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 25:21**<big><big>[[Acts.25.13 Festus Consults Agrippa|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when Paul had appealed to be reserved unto the hearing of Augustus, I commanded him to be kept till I might send him to Caesar.
 <small><sub>**BSB:**</sub></small>
 But when Paul appealed to be held over for the decision of the Emperor, I ordered that he be held until I could send him to Caesar.”
-<small><sub>**Literal:**</sub></small>
-<the> But Paul having appealed for to be kept himself for the <the> Emperor's decision I commanded to be kept him until that I may return him to Caesar.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.20|<< Acts 25:20]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.22|Acts 25:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τοῦ]]  [[G1161\|δὲ]]  [[G3972G\|Παύλου]]  [[G1941\|ἐπικαλεσαμένου]]  [[G5083H\|τηρηθῆναι]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3588\|τοῦ]]  [[G4575\|Σεβαστοῦ]]  [[G1233\|διάγνωσιν]]  [[G2753\|ἐκέλευσα]]  [[G5083H\|τηρεῖσθαι]]  [[G0846\|αὐτὸν]]  [[G2193\|ἕως]]  [[G3739\|οὗ]]  [[G0375\|ἀναπέμψω]]  [[G0846\|αὐτὸν]]  [[G4314\|πρὸς]]  [[G2541\|Καίσαρα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APPEAL|APPEAL]] • [[topic AUGUSTUS|AUGUSTUS]] • [[topic ROMAN EMPIRE|ROMAN EMPIRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.20|<< Acts 25:20]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.22|Acts 25:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

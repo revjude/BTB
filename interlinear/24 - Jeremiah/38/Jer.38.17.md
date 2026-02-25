@@ -1,8 +1,74 @@
+---
+title: Jeremiah 38:17
+type: Verse
+kjv: "Then said Jeremiah unto Zedekiah, Thus saith the LORD, the God of hosts, the God of Israel; If thou wilt assuredly go forth unto the king of Babylon’s princes, then thy soul shall live, and this city shall not be burned with fire; and thou shalt live, and thine house:"
+bsb: "Then Jeremiah said to Zedekiah, “This is what the LORD God of Hosts, the God of Israel, says: ‘If you indeed surrender to the officers of the king of Babylon, then you will live, this city will not be burned down, and you and your household will survive."
+hebrew: "וַיֹּ֣אמֶר יִרְמְיָ֣הוּ אֶל־ צִדְקִיָּ֡הוּ כֹּֽה־ אָמַ֣ר יְהוָה֩ אֱלֹהֵ֨י צְבָא֜וֹת אֱלֹהֵ֣י יִשְׂרָאֵ֗ל אִם־ יָצֹ֨א תֵצֵ֜א אֶל־ שָׂרֵ֤י מֶֽלֶךְ־ בָּבֶל֙ וְחָיְתָ֣ה נַפְשֶׁ֔ךָ וְהָעִ֣יר הַזֹּ֔את לֹ֥א תִשָּׂרֵ֖ף בָּאֵ֑שׁ וְחָיִ֖תָה אַתָּ֥ה וּבֵיתֶֽךָ׃"
+pericope: "[[Jer.38.1 Jeremiah Cast into the Cistern|Jeremiah Cast into the Cistern]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 38
+book/chapter: "[[Jer.38|Jeremiah 38]]"
+chronological_order: 761
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3414L]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6667H]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H6635B]]"
+- "[[H3478]]"
+- "[[H0518A]]"
+- "[[H3318P]]"
+- "[[H8269]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H2421]]"
+- "[[H5315H]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H3808]]"
+- "[[H8313]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H0859A]]"
+- "[[H1004M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 38:17**<big><big>[[Jer.38.1 Jeremiah Cast into the Cistern|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Jeremiah unto Zedekiah, Thus saith the LORD, the God of hosts, the God of Israel; If thou wilt assuredly go forth unto the king of Babylon’s princes, then thy soul shall live, and this city shall not be burned with fire; and thou shalt live, and thine house:
 <small><sub>**BSB:**</sub></small>
 Then Jeremiah said to Zedekiah, “This is what the LORD God of Hosts, the God of Israel, says: ‘If you indeed surrender to the officers of the king of Babylon, then you will live, this city will not be burned down, and you and your household will survive.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3414L\|יִרְמְיָ֣הוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H6667H\|צִדְקִיָּ֡הוּ]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָה֩]] [[H0430G\|אֱלֹהֵ֨י]] [[H6635B\|צְבָא֜וֹת]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H0518A\|אִם]][[H9014\|־]] [[H3318P\|יָצֹ֨א]] [[H3318P\|תֵצֵ֜א]] [[H0413\|אֶל]][[H9014\|־]] [[H8269\|שָׂרֵ֤י]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶל֙]] [[H9001\|וְ]][[H2421\|חָיְתָ֣ה]] [[H5315H\|נַפְשֶׁ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H3808\|לֹ֥א]] [[H8313\|תִשָּׂרֵ֖ף]] [[H9003\|בָּ]][[H0784\|אֵ֑שׁ]] [[H9001\|וְ]][[H2421\|חָיִ֖תָה]] [[H0859A\|אַתָּ֥ה]] [[H9002\|וּ]][[H1004M\|בֵיתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic PRISONERS|PRISONERS]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.38.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.16|<< Jeremiah 38:16]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.18|Jeremiah 38:18 >>]]</td></tr></table>
 

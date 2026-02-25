@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Bride
+type: Pericope
 pericope: "[[Song.7.10 The Bride|The Bride]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Song of Solomon
 chapter: 7
 book/chapter: "[[Song.7|Song of Solomon 7]]"
-genre:
+chronological_order: 454
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
 - poetry
 - love poetry
 - megillot
+verse_count: 4
 verses:
 - "[[Song.7.10]]"
 - "[[Song.7.11]]"
@@ -21,7 +28,7 @@ verses:
 - "[[Song.7.13]]"
 ---
 
-[[Song.7|Song of Solomon 7:10 - Song of Solomon 7:13]]
+<small>[[Song.7|Song of Solomon 7:10-13]]</small>
 *The Bride*
 
 [[Song.7.10|10]] I \[am\] my beloved’s, and his desire \[is\] toward me.

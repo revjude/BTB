@@ -1,10 +1,61 @@
+---
+title: Mark 13:8
+type: Verse
+kjv: "For nation shall rise against nation, and kingdom against kingdom: and there shall be earthquakes in divers places, and there shall be famines and troubles: these are the beginnings of sorrows."
+bsb: "Nation will rise against nation, and kingdom against kingdom. There will be earthquakes in various places, as well as famines. These are the beginning of birth pains."
+jesus_said: "For nation shall rise against nation, and kingdom against kingdom: and there shall be earthquakes in divers places, and there shall be famines and troubles: these are the beginnings of sorrows."
+greek: "ἐγερθήσεται γὰρ ἔθνος ἐπ᾽ ἔθνος καὶ βασιλεία ἐπὶ βασιλείαν· καὶ ἔσονται σεισμοὶ κατὰ τόπους· καὶ ἔσονται λιμοί καὶ ταραχαί· ἀρχὴ ὠδίνων ταῦτα.¶"
+pericope: "[[Mark.13.1 Temple Destruction and Other Signs|Temple Destruction and Other Signs]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 13
+book/chapter: "[[Mark.13|Mark 13]]"
+chronological_order: 998
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic EARTHQUAKES|EARTHQUAKES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G1453]]"
+- "[[G1063]]"
+- "[[G1484]]"
+- "[[G1909]]"
+- "[[G2532]]"
+- "[[G0932]]"
+- "[[G1510]]"
+- "[[G4578]]"
+- "[[G2596]]"
+- "[[G5117]]"
+- "[[G3042]]"
+- "[[G5016]]"
+- "[[G0746]]"
+- "[[G5604]]"
+- "[[G3778]]"
+texts:
+- NKO
+- k
+- ko
+- N(K)O
+---
+
 **Mark 13:8**<big><big>[[Mark.13.1 Temple Destruction and Other Signs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For nation shall rise against nation, and kingdom against kingdom: and there shall be earthquakes in divers places, and there shall be famines and troubles: these [are] the beginnings of sorrows.
 <small><sub>**BSB:**</sub></small>
 Nation will rise against nation, and kingdom against kingdom. There will be earthquakes in various places, as well as famines. These are the beginning of birth pains.
-<small><sub>**Literal:**</sub></small>
-Will rise up for nation against nation and kingdom against kingdom; and There will be earthquakes throughout places; and there will be famines and disturbance; [The] beginning of birth pains [are] these.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.7|<< Mark 13:7]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.9|Mark 13:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1453\|ἐγερθήσεται]]  [[G1063\|γὰρ]]  [[G1484\|ἔθνος]]  [[G1909\|ἐπ᾽]]  [[G1484\|ἔθνος]]  [[G2532\|καὶ]]  [[G0932\|βασιλεία]]  [[G1909\|ἐπὶ]]  [[G0932\|βασιλείαν·]]  [[G2532\|καὶ]]  [[G1510\|ἔσονται]]  [[G4578\|σεισμοὶ]]  [[G2596\|κατὰ]]  [[G5117\|τόπους·]]  [[G2532\|καὶ]]  [[G1510\|ἔσονται]]  [[G3042\|λιμοί]]  [[G2532\|καὶ]]  [[G5016\|ταραχαί·]]  [[G0746\|ἀρχὴ]]  [[G5604\|ὠδίνων]]  [[G3778\|ταῦτα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTHQUAKES|EARTHQUAKES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.7|<< Mark 13:7]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.9|Mark 13:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

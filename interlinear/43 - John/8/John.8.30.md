@@ -1,10 +1,47 @@
+---
+title: John 8:30
+type: Verse
+kjv: "As he spake these words, many believed on him."
+bsb: "As Jesus spoke these things, many believed in Him."
+greek: "ταῦτα αὐτοῦ λαλοῦντος πολλοὶ ἐπίστευσαν εἰς αὐτόν.¶"
+pericope: "[[John.8.30 The Truth Will Set You Free|The Truth Will Set You Free]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3778]]"
+- "[[G0846]]"
+- "[[G2980]]"
+- "[[G4183]]"
+- "[[G4100]]"
+- "[[G1519]]"
+texts:
+- NKO
+---
+
 **John 8:30**<big><big>[[John.8.30 The Truth Will Set You Free|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As he spake these words, many believed on him.
 <small><sub>**BSB:**</sub></small>
 As Jesus spoke these things, many believed in Him.
-<small><sub>**Literal:**</sub></small>
-These things when he is speaking many believed in Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.29|<< John 8:29]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.31|John 8:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|ταῦτα]]  [[G0846\|αὐτοῦ]]  [[G2980\|λαλοῦντος]]  [[G4183\|πολλοὶ]]  [[G4100\|ἐπίστευσαν]]  [[G1519\|εἰς]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.29|<< John 8:29]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.31|John 8:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

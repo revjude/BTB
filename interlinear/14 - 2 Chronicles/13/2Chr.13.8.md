@@ -1,8 +1,72 @@
+---
+title: 2 Chronicles 13:8
+type: Verse
+kjv: "And now ye think to withstand the kingdom of the LORD in the hand of the sons of David; and ye be a great multitude, and there are with you golden calves, which Jeroboam made you for gods."
+bsb: "And now you think you can resist the kingdom of the LORD, which is in the hands of David’s descendants. You are indeed a vast army, and you have with you the golden calves that Jeroboam made for you as gods."
+hebrew: "וְעַתָּ֣ה׀ אַתֶּ֣ם אֹֽמְרִ֗ים לְהִתְחַזֵּק֙ לִפְנֵי֙ מַמְלֶ֣כֶת יְהוָ֔ה בְּיַ֖ד בְּנֵ֣י דָוִ֑יד וְאַתֶּם֙ הָמ֣וֹן רָ֔ב וְעִמָּכֶם֙ עֶגְלֵ֣י זָהָ֔ב אֲשֶׁ֨ר עָשָׂ֥ה לָכֶ֛ם יָרָבְעָ֖ם לֵאלֹהִֽים׃"
+pericope: "[[2Chr.13.4 Civil War against Jeroboam|Civil War against Jeroboam]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 13
+book/chapter: "[[2Chr.13|2 Chronicles 13]]"
+chronological_order: 559
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic REBELLION|REBELLION]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic THEOCRACY|THEOCRACY]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H9015]]"
+- "[[H0859D]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H2388J]]"
+- "[[H6440G]]"
+- "[[H4467]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H1121G]]"
+- "[[H1732]]"
+- "[[H1995A]]"
+- "[[H7227A]]"
+- "[[H5973A]]"
+- "[[H9036]]"
+- "[[H5695]]"
+- "[[H2091]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H3379G]]"
+- "[[H0430]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 13:8**<big><big>[[2Chr.13.4 Civil War against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now ye think to withstand the kingdom of the LORD in the hand of the sons of David; and ye [be] a great multitude, and [there are] with you golden calves, which Jeroboam made you for gods.
 <small><sub>**BSB:**</sub></small>
 And now you think you can resist the kingdom of the LORD, which is in the hands of David’s descendants. You are indeed a vast army, and you have with you the golden calves that Jeroboam made for you as gods.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֣ה]][[H9015\|׀]] [[H0859D\|אַתֶּ֣ם]] [[H0559\|אֹֽמְרִ֗ים]] [[H9005\|לְ]][[H2388J\|הִתְחַזֵּק֙]] [[H9005\|לִ]][[H6440G\|פְנֵי֙]] [[H4467\|מַמְלֶ֣כֶת]] [[H3068G\|יְהוָ֔ה]] [[H9003\|בְּ]][[H3027H\|יַ֖ד]] [[H1121G\|בְּנֵ֣י]] [[H1732\|דָוִ֑יד]] [[H9002\|וְ]][[H0859D\|אַתֶּם֙]] [[H1995A\|הָמ֣וֹן]] [[H7227A\|רָ֔ב]] [[H9002\|וְ]][[H5973A\|עִמָּ]][[H9036\|כֶם֙]] [[H5695\|עֶגְלֵ֣י]] [[H2091\|זָהָ֔ב]] [[H0834A\|אֲשֶׁ֨ר]] [[H6213H\|עָשָׂ֥ה]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H3379G\|יָרָבְעָ֖ם]] [[H9005\|לֵ]][[H0430\|אלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic GOD|GOD]] • [[topic JEROBOAM|JEROBOAM]] • [[topic REBELLION|REBELLION]] • [[topic REPROOF|REPROOF]] • [[topic THEOCRACY|THEOCRACY]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.13.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13.7|<< 2 Chronicles 13:7]]</td><td align="center" style="border:none;">[[2Chr.13|2 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.13.9|2 Chronicles 13:9 >>]]</td></tr></table>
 

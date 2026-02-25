@@ -1,8 +1,63 @@
+---
+title: 2 Samuel 14:24
+type: Verse
+kjv: "And the king said, Let him turn to his own house, and let him not see my face. So Absalom returned to his own house, and saw not the king’s face."
+bsb: "But the king added, “He may return to his house, but he must not see my face.” So Absalom returned to his own house, but he did not see the face of the king."
+hebrew: "וַיֹּ֤אמֶר הַמֶּ֙לֶךְ֙ יִסֹּ֣ב אֶל־ בֵּית֔וֹ וּפָנַ֖י לֹ֣א יִרְאֶ֑ה וַיִּסֹּ֤ב אַבְשָׁלוֹם֙ אֶל־ בֵּית֔וֹ וּפְנֵ֥י הַמֶּ֖לֶךְ לֹ֥א רָאָֽה׃ ס"
+pericope: "[[2Sam.14.1 Absalom’s Return to Jerusalem|Absalom’s Return to Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 14
+book/chapter: "[[2Sam.14|2 Samuel 14]]"
+chronological_order: 413
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic EXILE|EXILE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic KINDNESS|KINDNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H5437G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H0053]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Samuel 14:24**<big><big>[[2Sam.14.1 Absalom’s Return to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king said, Let him turn to his own house, and let him not see my face. So Absalom returned to his own house, and saw not the king’s face.
 <small><sub>**BSB:**</sub></small>
 But the king added, “He may return to his house, but he must not see my face.” So Absalom returned to his own house, but he did not see the face of the king.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H5437G\|יִסֹּ֣ב]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּית֔]][[H9023\|וֹ]] [[H9002\|וּ]][[H6440G\|פָנַ֖]][[H9020\|י]] [[H3808\|לֹ֣א]] [[H7200G\|יִרְאֶ֑ה]] [[H9001\|וַ]][[H5437G\|יִּסֹּ֤ב]] [[H0053\|אַבְשָׁלוֹם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּית֔]][[H9023\|וֹ]] [[H9002\|וּ]][[H6440G\|פְנֵ֥י]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H3808\|לֹ֥א]] [[H7200G\|רָאָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic DAVID|DAVID]] • [[topic EXILE|EXILE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JOAB|JOAB]] • [[topic KINDNESS|KINDNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.14.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.23|<< 2 Samuel 14:23]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.25|2 Samuel 14:25 >>]]</td></tr></table>
 
@@ -23,7 +78,7 @@ But the king added, “He may return to his house, but he must not see my face.�
 | and [the] face of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6440G\|פְנֵ֥י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֖לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he saw  |**<big>&#8207;[[H7200G\|רָאָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ra.'Ah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he saw  |**<big>&#8207;[[H7200G\|רָאָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ra.'Ah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.23|<< 2 Samuel 14:23]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.25|2 Samuel 14:25 >>]]</td></tr></table>
 
 

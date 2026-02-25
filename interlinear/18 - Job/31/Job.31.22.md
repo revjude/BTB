@@ -1,8 +1,58 @@
+---
+title: Job 31:22
+type: Verse
+kjv: "Then let mine arm fall from my shoulder blade, and mine arm be broken from the bone."
+bsb: "then may my arm fall from my shoulder and be torn from its socket."
+hebrew: "כְּ֭תֵפִי מִשִּׁכְמָ֣ה תִפּ֑וֹל וְ֝אֶזְרֹעִ֗י מִקָּנָ֥ה תִשָּׁבֵֽר׃"
+pericope: "[[Job.31.1 Job’s Final Appeal|Job’s Final Appeal]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 31
+book/chapter: "[[Job.31|Job 31]]"
+chronological_order: 42
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[H3802]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H7929]]"
+- "[[H9011]]"
+- "[[H5307G]]"
+- "[[H9002]]"
+- "[[H0248]]"
+- "[[H7070J]]"
+- "[[H9024]]"
+- "[[H7665]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 31:22**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Then] let mine arm fall from my shoulder blade, and mine arm be broken from the bone.
 <small><sub>**BSB:**</sub></small>
 then may my arm fall from my shoulder and be torn from its socket.
+<small><sub>**Hebrew:**</sub></small>
+[[H3802\|כְּ֭תֵפִ]][[H9020\|י]] [[H9006\|מִ]][[H7929\|שִּׁכְמָ֣]][[H9011\|ה]] [[H5307G\|תִפּ֑וֹל]] [[H9002\|וְ֝]][[H0248\|אֶזְרֹעִ֗]][[H9020\|י]] [[H9006\|מִ]][[H7070J\|קָּנָ֥]][[H9024\|ה]] [[H7665\|תִשָּׁבֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic INTEGRITY|INTEGRITY]] • [[topic POOR|POOR]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.21|<< Job 31:21]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.23|Job 31:23 >>]]</td></tr></table>
 

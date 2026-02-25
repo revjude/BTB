@@ -1,10 +1,78 @@
+---
+title: Acts 12:10
+type: Verse
+kjv: "When they were past the first and the second ward, they came unto the iron gate that leadeth unto the city; which opened to them of his own accord: and they went out, and passed on through one street; and forthwith the angel departed from him."
+bsb: "They passed the first and second guards and came to the iron gate leading to the city, which opened for them by itself. When they had gone outside and walked the length of one block, the angel suddenly left him."
+greek: "διελθόντες δὲ πρώτην φυλακὴν καὶ δευτέραν ἦλθαν ἐπὶ τὴν πύλην τὴν σιδηρᾶν τὴν φέρουσαν εἰς τὴν πόλιν, ἥτις αὐτομάτη ἠνοίγη αὐτοῖς, καὶ ἐξελθόντες προῆλθον ῥύμην μίαν καὶ εὐθέως ἀπέστη ὁ ἄγγελος ἀπ᾽ αὐτοῦ."
+pericope: "[[Acts.12.5 The Rescue of Peter|The Rescue of Peter]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 12
+book/chapter: "[[Acts.12|Acts 12]]"
+chronological_order: 1030
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic GATES|GATES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic IRON|IRON]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G1330]]"
+- "[[G1161]]"
+- "[[G4413G]]"
+- "[[G5438G]]"
+- "[[G2532]]"
+- "[[G1208]]"
+- "[[G2064]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G4439]]"
+- "[[G4603]]"
+- "[[G5342]]"
+- "[[G1519]]"
+- "[[G4172]]"
+- "[[G3748]]"
+- "[[G0844]]"
+- "[[G0455]]"
+- "[[G0846]]"
+- "[[G1831]]"
+- "[[G4281]]"
+- "[[G4505]]"
+- "[[G1520]]"
+- "[[G2112]]"
+- "[[G0868]]"
+- "[[G0032G]]"
+- "[[G0575]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 12:10**<big><big>[[Acts.12.5 The Rescue of Peter|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When they were past the first and the second ward, they came unto the iron gate that leadeth unto the city; which opened to them of his own accord: and they went out, and passed on through one street; and forthwith the angel departed from him.
 <small><sub>**BSB:**</sub></small>
 They passed the first and second guards and came to the iron gate leading to the city, which opened for them by itself. When they had gone outside and walked the length of one block, the angel suddenly left him.
-<small><sub>**Literal:**</sub></small>
-Having passed through then a first guard and a second they came to the gate <the> iron which is leading into the city, which by itself opened to them, And having gone out they went on through street one and immediately departed the angel from him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.9|<< Acts 12:9]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.11|Acts 12:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1330\|διελθόντες]]  [[G1161\|δὲ]]  [[G4413G\|πρώτην]]  [[G5438G\|φυλακὴν]]  [[G2532\|καὶ]]  [[G1208\|δευτέραν]]  [[G2064\|ἦλθαν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G4439\|πύλην]]  [[G3588\|τὴν]]  [[G4603\|σιδηρᾶν]]  [[G3588\|τὴν]]  [[G5342\|φέρουσαν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4172\|πόλιν,]]  [[G3748\|ἥτις]]  [[G0844\|αὐτομάτη]]  [[G0455\|ἠνοίγη]]  [[G0846\|αὐτοῖς,]]  [[G2532\|καὶ]]  [[G1831\|ἐξελθόντες]]  [[G4281\|προῆλθον]]  [[G4505\|ῥύμην]]  [[G1520\|μίαν]]  [[G2532\|καὶ]]  [[G2112\|εὐθέως]]  [[G0868\|ἀπέστη]]  [[G3588\|ὁ]]  [[G0032G\|ἄγγελος]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic GATES|GATES]] • [[topic GOD|GOD]] • [[topic HEROD|HEROD]] • [[topic IRON|IRON]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRAYER|PRAYER]] • [[topic PRISONERS|PRISONERS]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.9|<< Acts 12:9]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.11|Acts 12:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

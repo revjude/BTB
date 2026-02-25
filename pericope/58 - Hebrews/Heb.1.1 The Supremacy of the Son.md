@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Supremacy of the Son
+type: Pericope
 pericope: "[[Heb.1.1 The Supremacy of the Son|The Supremacy of the Son]]"
-verse_count: 14
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 1
 book/chapter: "[[Heb.1|Hebrews 1]]"
-genre:
+chronological_order: 1140
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 14
 verses:
 - "[[Heb.1.1]]"
 - "[[Heb.1.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Heb.1.14]]"
 ---
 
-[[Heb.1|Hebrews 1:1 - Hebrews 1:14]]
+<small>[[Heb.1|Hebrews 1:1-14]]</small>
 *The Supremacy of the Son*
 
 [[Heb.1.1|1]] God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,

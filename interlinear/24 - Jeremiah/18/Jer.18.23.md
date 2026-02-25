@@ -1,8 +1,77 @@
+---
+title: Jeremiah 18:23
+type: Verse
+kjv: "Yet, LORD, thou knowest all their counsel against me to slay me: forgive not their iniquity, neither blot out their sin from thy sight, but let them be overthrown before thee; deal thus with them in the time of thine anger."
+bsb: "But You, O LORD, know all their deadly plots against me. Do not wipe out their guilt or blot out their sin from Your sight. Let them be overthrown before You; deal with them in the time of Your anger."
+hebrew: "וְאַתָּ֣ה יְ֠הוָה יָדַ֜עְתָּ אֶֽת־ כָּל־ עֲצָתָ֤ם עָלַי֙ לַמָּ֔וֶת אַל־ תְּכַפֵּר֙ עַל־ עֲוֹנָ֔ם וְחַטָּאתָ֖ם מִלְּפָנֶ֣יךָ אַל־ תֶּ֑מְחִי וְיִהְי֤וּ מֻכְשָׁלִים֙ לְפָנֶ֔יךָ בְּעֵ֥ת אַפְּךָ֖ עֲשֵׂ֥ה בָהֶֽם׃ ס"
+pericope: "[[Jer.18.18 Another Plot against Jeremiah|Another Plot against Jeremiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 18
+book/chapter: "[[Jer.18|Jeremiah 18]]"
+chronological_order: 735
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H3068G]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H6098]]"
+- "[[H9028]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H4194]]"
+- "[[H0408]]"
+- "[[H3722A]]"
+- "[[H5771G]]"
+- "[[H2403B]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H4229A]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3782]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H0639G]]"
+- "[[H6213A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 18:23**<big><big>[[Jer.18.18 Another Plot against Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet, LORD, thou knowest all their counsel against me to slay [me]: forgive not their iniquity, neither blot out their sin from thy sight, but let them be overthrown before thee; deal [thus] with them in the time of thine anger.
 <small><sub>**BSB:**</sub></small>
 But You, O LORD, know all their deadly plots against me. Do not wipe out their guilt or blot out their sin from Your sight. Let them be overthrown before You; deal with them in the time of Your anger.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֣ה]] [[H3068G\|יְ֠הוָה]] [[H3045\|יָדַ֜עְתָּ]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H6098\|עֲצָתָ֤]][[H9028\|ם]] [[H5921A\|עָלַ]][[H9030\|י֙]] [[H9005\|לַ]][[H4194\|מָּ֔וֶת]] [[H0408\|אַל]][[H9014\|־]] [[H3722A\|תְּכַפֵּר֙]] [[H5921A\|עַל]][[H9014\|־]] [[H5771G\|עֲוֹנָ֔]][[H9028\|ם]] [[H9002\|וְ]][[H2403B\|חַטָּאתָ֖]][[H9028\|ם]] [[H9006\|מִ]][[H9005\|לְּ]][[H6440G\|פָנֶ֣י]][[H9021\|ךָ]] [[H0408\|אַל]][[H9014\|־]] [[H4229A\|תֶּ֑מְחִי]] [[H9002\|וְ]][[H1961\|יִהְי֤וּ]] [[H3782\|מֻכְשָׁלִים֙]] [[H9005\|לְ]][[H6440G\|פָנֶ֔י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H6256\|עֵ֥ת]] [[H0639G\|אַפְּ]][[H9021\|ךָ֖]] [[H6213A\|עֲשֵׂ֥ה]] [[H9003\|בָ]][[H9038\|הֶֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.22|<< Jeremiah 18:22]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.19.1|Jeremiah 19:1 >>]]</td></tr></table>
 
@@ -30,10 +99,10 @@ But You, O LORD, know all their deadly plots against me. Do not wipe out their g
 | in [the] time of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6256\|עֵ֥ת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | anger your  |**<big>&#8207;[[H0639G\|אַפְּ]]&#8207;&#8207;[[H9021\|ךָ֖]]&#8207; </big>**| 'a.pe.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | do  |**<big>&#8207;[[H6213A\|עֲשֵׂ֥ה]]&#8207; </big>**| 'a.Seh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with \<the> them  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> them  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.22|<< Jeremiah 18:22]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.19.1|Jeremiah 19:1 >>]]</td></tr></table>
 
-[^1]: and they will be  | **<big>[[H1961|הָיוּ]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yu<small><sup>[[HVqq3cp]]</sup></small> | K
-[^2]: and they will be  | **<big>[[H1961|הָיוּ]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yu<small><sup>[[HVqq3cp]]</sup></small> | K
+[^1]: and they will be  | **<big>[[H9001|וְ]]</big><big>[[H1961|הָיוּ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yu<small><sup>[[HVqq3cp]]</sup></small> | K
+[^2]: and they will be  | **<big>[[H9001|וְ]]</big><big>[[H1961|הָיוּ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yu<small><sup>[[HVqq3cp]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וְִהְי֤וּ</big></span>**
 

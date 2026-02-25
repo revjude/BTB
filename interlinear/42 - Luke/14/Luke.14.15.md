@@ -1,10 +1,58 @@
+---
+title: Luke 14:15
+type: Verse
+kjv: "And when one of them that sat at meat with him heard these things, he said unto him, Blessed is he that shall eat bread in the kingdom of God."
+bsb: "When one of those reclining with Him heard this, he said to Jesus, “Blessed is everyone who will eat at the feast in the kingdom of God.”"
+greek: "Ἀκούσας δέ τις τῶν συνανακειμένων ταῦτα εἶπεν αὐτῷ· μακάριος ὅστις φάγεται ἄρτον ἐν τῇ βασιλείᾳ τοῦ θεοῦ.¶"
+pericope: "[[Luke.14.15 The Parable of the Banquet|The Parable of the Banquet]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 14
+book/chapter: "[[Luke.14|Luke 14]]"
+chronological_order: 976
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G0191]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G3588]]"
+- "[[G4873]]"
+- "[[G3778]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3107]]"
+- "[[G3748]]"
+- "[[G5315]]"
+- "[[G0740]]"
+- "[[G1722]]"
+- "[[G0932]]"
+- "[[G2316]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+---
+
 **Luke 14:15**<big><big>[[Luke.14.15 The Parable of the Banquet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when one of them that sat at meat with him heard these things, he said unto him, Blessed [is] he that shall eat bread in the kingdom of God.
 <small><sub>**BSB:**</sub></small>
 When one of those reclining with Him heard this, he said to Jesus, “Blessed is everyone who will eat at the feast in the kingdom of God.”
-<small><sub>**Literal:**</sub></small>
-Having heard then one of those reclining with [Him] these things he said to Him; Blessed [is he] who will eat bread in the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.14|<< Luke 14:14]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.16|Luke 14:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|Ἀκούσας]]  [[G1161\|δέ]]  [[G5100\|τις]]  [[G3588\|τῶν]]  [[G4873\|συνανακειμένων]]  [[G3778\|ταῦτα]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G3107\|μακάριος]]  [[G3748\|ὅστις]]  [[G5315\|φάγεται]]  [[G0740\|ἄρτον]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0932\|βασιλείᾳ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.14|<< Luke 14:14]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.16|Luke 14:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

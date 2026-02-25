@@ -1,8 +1,58 @@
+---
+title: Psalm 89:14
+type: Verse
+kjv: "Justice and judgment are the habitation of thy throne: mercy and truth shall go before thy face."
+bsb: "Righteousness and justice are the foundation of Your throne; loving devotion and faithfulness go before You."
+hebrew: "צֶ֣דֶק וּ֭מִשְׁפָּט מְכ֣וֹן כִּסְאֶ֑ךָ חֶ֥סֶד וֶ֝אֱמֶ֗ת יְֽקַדְּמ֥וּ פָנֶֽיךָ׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic THRONE|THRONE]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[H6664G]]"
+- "[[H9002]]"
+- "[[H4941H]]"
+- "[[H4349]]"
+- "[[H3678G]]"
+- "[[H9021]]"
+- "[[H2617A]]"
+- "[[H0571G]]"
+- "[[H6923]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 89:14**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Justice and judgment [are] the habitation of thy throne: mercy and truth shall go before thy face.
 <small><sub>**BSB:**</sub></small>
 Righteousness and justice are the foundation of Your throne; loving devotion and faithfulness go before You.
+<small><sub>**Hebrew:**</sub></small>
+[[H6664G\|צֶ֣דֶק]] [[H9002\|וּ֭]][[H4941H\|מִשְׁפָּט]] [[H4349\|מְכ֣וֹן]] [[H3678G\|כִּסְאֶ֑]][[H9021\|ךָ]] [[H2617A\|חֶ֥סֶד]] [[H9002\|וֶ֝]][[H0571G\|אֱמֶ֗ת]] [[H6923\|יְֽקַדְּמ֥וּ]] [[H6440G\|פָנֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic THRONE|THRONE]] • [[topic TRUTH|TRUTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.13|<< Psalms 89:13]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.15|Psalms 89:15 >>]]</td></tr></table>
 

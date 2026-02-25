@@ -1,10 +1,55 @@
+---
+title: John 8:4
+type: Verse
+kjv: "They say unto him, Master, this woman was taken in adultery, in the very act."
+bsb: "and said, “Teacher, this woman was caught in the act of adultery."
+greek: "λέγουσιν αὐτῷ, πειράζοντες διδάσκαλε, αὕτη ἡ γυνὴ κατείληφθη ἐπ᾽ αὐτοφώρῳ μοιχευομένη·"
+pericope: "[[John.8.1 The Woman Caught in Adultery|The Woman Caught in Adultery]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3985H]]"
+- "[[G1320]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G1135G]]"
+- "[[G2638]]"
+- "[[G1909]]"
+- "[[G1888]]"
+- "[[G3431]]"
+texts:
+- KO
+- O
+- K(o)
+---
+
 **John 8:4**<big><big>[[John.8.1 The Woman Caught in Adultery|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 They say unto him, Master, this woman was taken in adultery, in the very act.
 <small><sub>**BSB:**</sub></small>
 and said, “Teacher, this woman was caught in the act of adultery.
-<small><sub>**Literal:**</sub></small>
-they say to Him, testing Teacher, this <the> woman was grasped in [the] very act committing adultery;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.3|<< John 8:3]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.5|John 8:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγουσιν]]  [[G0846\|αὐτῷ,]]  [[G3985H\|πειράζοντες]]  [[G1320\|διδάσκαλε,]]  [[G3778\|αὕτη]]  [[G3588\|ἡ]]  [[G1135G\|γυνὴ]]  [[G2638\|κατείληφθη]]  [[G1909\|ἐπ᾽]]  [[G1888\|αὐτοφώρῳ]]  [[G3431\|μοιχευομένη·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.3|<< John 8:3]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.5|John 8:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

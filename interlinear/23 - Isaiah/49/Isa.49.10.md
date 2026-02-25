@@ -1,8 +1,65 @@
+---
+title: Isaiah 49:10
+type: Verse
+kjv: "They shall not hunger nor thirst; neither shall the heat nor sun smite them: for he that hath mercy on them shall lead them, even by the springs of water shall he guide them."
+bsb: "They will not hunger or thirst, nor will scorching heat or sun beat down on them. For He who has compassion on them will guide them and lead them beside springs of water."
+hebrew: "לֹ֤א יִרְעָ֙בוּ֙ וְלֹ֣א יִצְמָ֔אוּ וְלֹא־ יַכֵּ֥ם שָׁרָ֖ב וָשָׁ֑מֶשׁ כִּי־ מְרַחֲמָ֣ם יְנַהֲגֵ֔ם וְעַל־ מַבּ֥וּעֵי מַ֖יִם יְנַהֲלֵֽם׃"
+pericope: "[[Isa.49.1 The Servant and Light to the Gentiles|The Servant and Light to the Gentiles]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 49
+book/chapter: "[[Isa.49|Isaiah 49]]"
+chronological_order: 688
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H3808]]"
+- "[[H7456]]"
+- "[[H9002]]"
+- "[[H6770]]"
+- "[[H9014]]"
+- "[[H5221]]"
+- "[[H9038]]"
+- "[[H8273]]"
+- "[[H8121]]"
+- "[[H3588A]]"
+- "[[H7355]]"
+- "[[H5090A]]"
+- "[[H5921A]]"
+- "[[H4002]]"
+- "[[H4325G]]"
+- "[[H5095]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 49:10**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall not hunger nor thirst; neither shall the heat nor sun smite them: for he that hath mercy on them shall lead them, even by the springs of water shall he guide them.
 <small><sub>**BSB:**</sub></small>
 They will not hunger or thirst, nor will scorching heat or sun beat down on them. For He who has compassion on them will guide them and lead them beside springs of water.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֤א]] [[H7456\|יִרְעָ֙בוּ֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6770\|יִצְמָ֔אוּ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H5221\|יַכֵּ֥]][[H9038\|ם]] [[H8273\|שָׁרָ֖ב]] [[H9002\|וָ]][[H8121\|שָׁ֑מֶשׁ]] [[H3588A\|כִּי]][[H9014\|־]] [[H7355\|מְרַחֲמָ֣]][[H9038\|ם]] [[H5090A\|יְנַהֲגֵ֔]][[H9038\|ם]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H4002\|מַבּ֥וּעֵי]] [[H4325G\|מַ֖יִם]] [[H5095\|יְנַהֲלֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic SEEKERS|SEEKERS]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.9|<< Isaiah 49:9]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.11|Isaiah 49:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

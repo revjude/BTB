@@ -1,8 +1,67 @@
+---
+title: 1 Kings 11:27
+type: Verse
+kjv: "And this was the cause that he lifted up his hand against the king: Solomon built Millo, and repaired the breaches of the city of David his father."
+bsb: "and this is the account of his rebellion against the king. Solomon had built the supporting terraces and repaired the gap in the wall of the city of his father David."
+hebrew: "וְזֶ֣ה הַדָּבָ֔ר אֲשֶׁר־ הֵרִ֥ים יָ֖ד בַּמֶּ֑לֶךְ שְׁלֹמֹה֙ בָּנָ֣ה אֶת־ הַמִּלּ֔וֹא סָגַ֕ר אֶת־ פֶּ֕רֶץ עִ֖יר דָּוִ֥ד אָבִֽיו׃"
+pericope: "[[1Kgs.11.26 Jeroboam’s Rebellion|Jeroboam’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 11
+book/chapter: "[[1Kgs.11|1 Kings 11]]"
+chronological_order: 536
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic MILLO|MILLO]]"
+- "[[topic PROMOTION|PROMOTION]]"
+strongs:
+- "[[H9002]]"
+- "[[H2088]]"
+- "[[H9009]]"
+- "[[H1697M]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H7311A]]"
+- "[[H3027G]]"
+- "[[H9003]]"
+- "[[H4428G]]"
+- "[[H8010]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H4407]]"
+- "[[H5462]]"
+- "[[H6556]]"
+- "[[H5892B]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 11:27**<big><big>[[1Kgs.11.26 Jeroboam’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this [was] the cause that he lifted up [his] hand against the king: Solomon built Millo, [and] repaired the breaches of the city of David his father.
 <small><sub>**BSB:**</sub></small>
 and this is the account of his rebellion against the king. Solomon had built the supporting terraces and repaired the gap in the wall of the city of his father David.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2088\|זֶ֣ה]] [[H9009\|הַ]][[H1697M\|דָּבָ֔ר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7311A\|הֵרִ֥ים]] [[H3027G\|יָ֖ד]] [[H9003\|בַּ]][[H4428G\|מֶּ֑לֶךְ]] [[H8010\|שְׁלֹמֹה֙]] [[H1129\|בָּנָ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4407\|מִּלּ֔וֹא]] [[H5462\|סָגַ֕ר]] [[H0853\|אֶת]][[H9014\|־]] [[H6556\|פֶּ֕רֶץ]] [[H5892B\|עִ֖יר]] [[H1732\|דָּוִ֥ד]] [[H0001G\|אָבִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOD|GOD]] • [[topic JEROBOAM|JEROBOAM]] • [[topic MILLO|MILLO]] • [[topic PROMOTION|PROMOTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.26|<< 1 Kings 11:26]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.28|1 Kings 11:28 >>]]</td></tr></table>
 

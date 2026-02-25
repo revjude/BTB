@@ -1,8 +1,73 @@
+---
+title: Joshua 10:32
+type: Verse
+kjv: "And the LORD delivered Lachish into the hand of Israel, which took it on the second day, and smote it with the edge of the sword, and all the souls that were therein, according to all that he had done to Libnah."
+bsb: "And the LORD delivered Lachish into the hand of Israel, and Joshua captured it on the second day. He put all the people to the sword, just as he had done to Libnah."
+hebrew: "וַיִּתֵּן֩ יְהוָ֨ה אֶת־ לָכִ֜ישׁ בְּיַ֣ד יִשְׂרָאֵ֗ל וַֽיִּלְכְּדָהּ֙ בַּיּ֣וֹם הַשֵּׁנִ֔י וַיַּכֶּ֣הָ לְפִי־ חֶ֔רֶב וְאֶת־ כָּל־ הַנֶּ֖פֶשׁ אֲשֶׁר־ בָּ֑הּ כְּכֹ֥ל אֲשֶׁר־ עָשָׂ֖ה לְלִבְנָֽה׃ פ"
+pericope: "[[Josh.10.29 Conquest of the Southern Cities|Conquest of the Southern Cities]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 10
+book/chapter: "[[Josh.10|Joshua 10]]"
+chronological_order: 240
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic LACHISH|LACHISH]]"
+- "[[topic LIBNAH|LIBNAH]]"
+- "[[topic MASSACRE|MASSACRE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3923]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H3478]]"
+- "[[H3920]]"
+- "[[H9034]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H8145]]"
+- "[[H5221]]"
+- "[[H9005]]"
+- "[[H6310H]]"
+- "[[H2719]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H5315J]]"
+- "[[H0834A]]"
+- "[[H9004]]"
+- "[[H6213A]]"
+- "[[H3841H]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Joshua 10:32**<big><big>[[Josh.10.29 Conquest of the Southern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD delivered Lachish into the hand of Israel, which took it on the second day, and smote it with the edge of the sword, and all the souls that [were] therein, according to all that he had done to Libnah.
 <small><sub>**BSB:**</sub></small>
 And the LORD delivered Lachish into the hand of Israel, and Joshua captured it on the second day. He put all the people to the sword, just as he had done to Libnah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|יִּתֵּן֩]] [[H3068G\|יְהוָ֨ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3923\|לָכִ֜ישׁ]] [[H9003\|בְּ]][[H3027H\|יַ֣ד]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9001\|וַֽ]][[H3920\|יִּלְכְּדָ]][[H9034\|הּ֙]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֔י]] [[H9001\|וַ]][[H5221\|יַּכֶּ֣]][[H9034\|הָ]] [[H9005\|לְ]][[H6310H\|פִי]][[H9014\|־]] [[H2719\|חֶ֔רֶב]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H5315J\|נֶּ֖פֶשׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בָּ֑]][[H9034\|הּ]] [[H9004\|כְּ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|עָשָׂ֖ה]] [[H9005\|לְ]][[H3841H\|לִבְנָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTIVE|CAPTIVE]] • [[topic HEBRON|HEBRON]] • [[topic JOSHUA|JOSHUA]] • [[topic LACHISH|LACHISH]] • [[topic LIBNAH|LIBNAH]] • [[topic MASSACRE|MASSACRE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.31|<< Joshua 10:31]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.33|Joshua 10:33 >>]]</td></tr></table>
 
@@ -28,7 +93,7 @@ And the LORD delivered Lachish into the hand of Israel, and Joshua captured it o
 | according to all  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H3605\|כֹ֥ל]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Khol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he had done  |**<big>&#8207;[[H6213A\|עָשָׂ֖ה]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to Libnah  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3841H\|לִבְנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> liv.Nah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Libnah  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3841H\|לִבְנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> liv.Nah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.31|<< Joshua 10:31]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.33|Joshua 10:33 >>]]</td></tr></table>
 
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Job’s Plea to God
+type: Pericope
 pericope: "[[Job.10.1 Job’s Plea to God|Job’s Plea to God]]"
-verse_count: 22
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 10
 book/chapter: "[[Job.10|Job 10]]"
-genre:
+chronological_order: 21
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 22
 verses:
 - "[[Job.10.1]]"
 - "[[Job.10.2]]"
@@ -41,7 +48,7 @@ verses:
 - "[[Job.10.22]]"
 ---
 
-[[Job.10|Job 10:1 - Job 10:22]]
+<small>[[Job.10|Job 10:1-22]]</small>
 *Job’s Plea to God*
 
 [[Job.10.1|1]] My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul.

@@ -1,8 +1,80 @@
+---
+title: Exodus 14:11
+type: Verse
+kjv: "And they said unto Moses, Because there were no graves in Egypt, hast thou taken us away to die in the wilderness? wherefore hast thou dealt thus with us, to carry us forth out of Egypt?"
+bsb: "They said to Moses, “Was it because there were no graves in Egypt that you brought us into the wilderness to die? What have you done to us by bringing us out of Egypt?"
+hebrew: "וַיֹּאמְרוּ֮ אֶל־ מֹשֶׁה֒ הַֽמִבְּלִ֤י אֵין־ קְבָרִים֙ בְּמִצְרַ֔יִם לְקַחְתָּ֖נוּ לָמ֣וּת בַּמִּדְבָּ֑ר מַה־ זֹּאת֙ עָשִׂ֣יתָ לָּ֔נוּ לְהוֹצִיאָ֖נוּ מִמִּצְרָֽיִם׃"
+pericope: "[[Exod.14.1 Pharaoh Pursues the Israelites|Pharaoh Pursues the Israelites]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 14
+book/chapter: "[[Exod.14|Exodus 14]]"
+chronological_order: 106
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic EVIL FOR GOOD|EVIL FOR GOOD]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SARCASM|SARCASM]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic TROUBLE|TROUBLE]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9008]]"
+- "[[H9006]]"
+- "[[H1097]]"
+- "[[H0369]]"
+- "[[H6913]]"
+- "[[H9003]]"
+- "[[H4714G]]"
+- "[[H3947G]]"
+- "[[H9035]]"
+- "[[H9005]]"
+- "[[H4191]]"
+- "[[H4057B]]"
+- "[[H4100]]"
+- "[[H2063]]"
+- "[[H6213A]]"
+- "[[H3318H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 14:11**<big><big>[[Exod.14.1 Pharaoh Pursues the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said unto Moses, Because [there were] no graves in Egypt, hast thou taken us away to die in the wilderness? wherefore hast thou dealt thus with us, to carry us forth out of Egypt?
 <small><sub>**BSB:**</sub></small>
 They said to Moses, “Was it because there were no graves in Egypt that you brought us into the wilderness to die? What have you done to us by bringing us out of Egypt?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְרוּ֮]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁה֒]] [[H9008\|הַֽ]][[H9006\|מִ]][[H1097\|בְּלִ֤י]] [[H0369\|אֵין]][[H9014\|־]] [[H6913\|קְבָרִים֙]] [[H9003\|בְּ]][[H4714G\|מִצְרַ֔יִם]] [[H3947G\|לְקַחְתָּ֖]][[H9035\|נוּ]] [[H9005\|לָ]][[H4191\|מ֣וּת]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֑ר]] [[H4100\|מַה]][[H9014\|־]] [[H2063\|זֹּאת֙]] [[H6213A\|עָשִׂ֣יתָ]] [[H9005\|לָּ֔]][[H9035\|נוּ]] [[H9005\|לְ]][[H3318H\|הוֹצִיאָ֖]][[H9035\|נוּ]] [[H9006\|מִ]][[H4714G\|מִּצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOUBTING|DOUBTING]] • [[topic EGYPT|EGYPT]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic EVIL FOR GOOD|EVIL FOR GOOD]] • [[topic INFIDELITY|INFIDELITY]] • [[topic ISRAEL|ISRAEL]] • [[topic MURMURING|MURMURING]] • [[topic PRAYER|PRAYER]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SARCASM|SARCASM]] • [[topic SERVANT|SERVANT]] • [[topic TROUBLE|TROUBLE]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.14.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.10|<< Exodus 14:10]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.12|Exodus 14:12 >>]]</td></tr></table>
 

@@ -1,10 +1,48 @@
+---
+title: Mark 10:31
+type: Verse
+kjv: "But many that are first shall be last; and the last first."
+bsb: "But many who are first will be last, and the last will be first.”"
+jesus_said: "But many that are first shall be last; and the last first."
+greek: "πολλοὶ δὲ ἔσονται πρῶτοι ἔσχατοι καὶ οἱ ἔσχατοι πρῶτοι.¶"
+pericope: "[[Mark.10.17 The Rich Young Man|The Rich Young Man]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GENTILES|GENTILES]]"
+strongs:
+- "[[G4183]]"
+- "[[G1161]]"
+- "[[G1510]]"
+- "[[G4413G]]"
+- "[[G2078]]"
+- "[[G2532]]"
+- "[[G3588]]"
+texts:
+- NKO
+---
+
 **Mark 10:31**<big><big>[[Mark.10.17 The Rich Young Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But many [that are] first shall be last; and the last first.
 <small><sub>**BSB:**</sub></small>
 But many who are first will be last, and the last will be first.”
-<small><sub>**Literal:**</sub></small>
-Many however will be first last and the last first.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.30|<< Mark 10:30]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.32|Mark 10:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4183\|πολλοὶ]]  [[G1161\|δὲ]]  [[G1510\|ἔσονται]]  [[G4413G\|πρῶτοι]]  [[G2078\|ἔσχατοι]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G2078\|ἔσχατοι]]  [[G4413G\|πρῶτοι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.30|<< Mark 10:30]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.32|Mark 10:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

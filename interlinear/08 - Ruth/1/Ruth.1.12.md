@@ -1,8 +1,63 @@
+---
+title: Ruth 1:12
+type: Verse
+kjv: "Turn again, my daughters, go your way; for I am too old to have an husband. If I should say, I have hope, if I should have an husband also to night, and should also bear sons;"
+bsb: "Return home, my daughters. Go on, for I am too old to have another husband. Even if I thought there was hope for me to have a husband tonight and to bear sons,"
+hebrew: "שֹׁ֤בְנָה בְנֹתַי֙ לֵ֔כְןָ כִּ֥י זָקַ֖נְתִּי מִהְי֣וֹת לְאִ֑ישׁ כִּ֤י אָמַ֙רְתִּי֙ יֶשׁ־ לִ֣י תִקְוָ֔ה גַּ֣ם הָיִ֤יתִי הַלַּ֙יְלָה֙ לְאִ֔ישׁ וְגַ֖ם יָלַ֥דְתִּי בָנִֽים׃"
+pericope: "[[Ruth.1.6 Ruth’s Loyalty to Naomi|Ruth’s Loyalty to Naomi]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 1
+book/chapter: "[[Ruth.1|Ruth 1]]"
+chronological_order: 276
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic DAUGHTER-IN-LAW|DAUGHTER-IN-LAW]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H7725G]]"
+- "[[H1323G]]"
+- "[[H9020]]"
+- "[[H1980G]]"
+- "[[H3588A]]"
+- "[[H2204]]"
+- "[[H9006]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0376H]]"
+- "[[H0559]]"
+- "[[H3426]]"
+- "[[H9014]]"
+- "[[H9030]]"
+- "[[H8615B]]"
+- "[[H1571]]"
+- "[[H9009]]"
+- "[[H3915]]"
+- "[[H9002]]"
+- "[[H3205]]"
+- "[[H1121A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 1:12**<big><big>[[Ruth.1.6 Ruth’s Loyalty to Naomi|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn again, my daughters, go [your way]; for I am too old to have an husband. If I should say, I have hope, [if] I should have an husband also to night, and should also bear sons;
 <small><sub>**BSB:**</sub></small>
 Return home, my daughters. Go on, for I am too old to have another husband. Even if I thought there was hope for me to have a husband tonight and to bear sons,
+<small><sub>**Hebrew:**</sub></small>
+[[H7725G\|שֹׁ֤בְנָה]] [[H1323G\|בְנֹתַ]][[H9020\|י֙]] [[H1980G\|לֵ֔כְןָ]] [[H3588A\|כִּ֥י]] [[H2204\|זָקַ֖נְתִּי]] [[H9006\|מִ]][[H1961\|הְי֣וֹת]] [[H9005\|לְ]][[H0376H\|אִ֑ישׁ]] [[H3588A\|כִּ֤י]] [[H0559\|אָמַ֙רְתִּי֙]] [[H3426\|יֶשׁ]][[H9014\|־]] [[H9005\|לִ֣]][[H9030\|י]] [[H8615B\|תִקְוָ֔ה]] [[H1571\|גַּ֣ם]] [[H1961\|הָיִ֤יתִי]] [[H9009\|הַ]][[H3915\|לַּ֙יְלָה֙]] [[H9005\|לְ]][[H0376H\|אִ֔ישׁ]] [[H9002\|וְ]][[H1571\|גַ֖ם]] [[H3205\|יָלַ֥דְתִּי]] [[H1121A\|בָנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAUGHTER-IN-LAW|DAUGHTER-IN-LAW]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.1.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.11|<< Ruth 1:11]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.13|Ruth 1:13 >>]]</td></tr></table>
 

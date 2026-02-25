@@ -1,10 +1,57 @@
+---
+title: Acts 22:8
+type: Verse
+kjv: "And I answered, Who art thou, Lord? And he said unto me, I am Jesus of Nazareth, whom thou persecutest."
+bsb: "‘Who are You, Lord?’ I asked. ‘I am Jesus of Nazareth, whom you are persecuting,’ He replied."
+jesus_said: "I am Jesus of Nazareth, whom thou persecutest."
+greek: "ἐγὼ δὲ ἀπεκρίθην· τίς εἶ κύριε; εἶπέν τε πρός με· ἐγώ εἰμι Ἰησοῦς ὁ Ναζωραῖος ὃν σὺ διώκεις."
+pericope: "[[Acts.22.1 Paul’s Defense to the Crowd|Paul’s Defense to the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 22
+book/chapter: "[[Acts.22|Acts 22]]"
+chronological_order: 1104
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G0611]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G2962G]]"
+- "[[G2036]]"
+- "[[G5037]]"
+- "[[G4314]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G3588]]"
+- "[[G3480]]"
+- "[[G3739]]"
+- "[[G4771]]"
+- "[[G1377]]"
+texts:
+- NKO
+---
+
 **Acts 22:8**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I answered, Who art thou, Lord? And he said unto me, I am Jesus of Nazareth, whom thou persecutest.
 <small><sub>**BSB:**</sub></small>
 ‘Who are You, Lord?’ I asked. ‘I am Jesus of Nazareth, whom you are persecuting,’ He replied.
-<small><sub>**Literal:**</sub></small>
-I myself then answered; Who are You Lord? He said then to me; I myself am Jesus <the> of Nazareth whom you yourself are persecuting.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.7|<< Acts 22:7]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.9|Acts 22:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|ἐγὼ]]  [[G1161\|δὲ]]  [[G0611\|ἀπεκρίθην·]]  [[G5101\|τίς]]  [[G1510\|εἶ]]  [[G2962G\|κύριε;]]  [[G2036\|εἶπέν]]  [[G5037\|τε]]  [[G4314\|πρός]]  [[G3165\|με·]]  [[G1473\|ἐγώ]]  [[G1510\|εἰμι]]  [[G2424G\|Ἰησοῦς]]  [[G3588\|ὁ]]  [[G3480\|Ναζωραῖος]]  [[G3739\|ὃν]]  [[G4771\|σὺ]]  [[G1377\|διώκεις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAMASCUS|DAMASCUS]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.7|<< Acts 22:7]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.9|Acts 22:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

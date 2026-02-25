@@ -1,8 +1,74 @@
+---
+title: 1 Samuel 5:4
+type: Verse
+kjv: "And when they arose early on the morrow morning, behold, Dagon was fallen upon his face to the ground before the ark of the LORD; and the head of Dagon and both the palms of his hands were cut off upon the threshold; only the stump of Dagon was left to him."
+bsb: "But when they got up early the next morning, there was Dagon, fallen on his face before the ark of the LORD, with his head and his hands broken off and lying on the threshold. Only the torso remained."
+hebrew: "וַיַּשְׁכִּ֣מוּ בַבֹּקֶר֮ מִֽמָּחֳרָת֒ וְהִנֵּ֣ה דָג֗וֹן נֹפֵ֤ל לְפָנָיו֙ אַ֔רְצָה לִפְנֵ֖י אֲר֣וֹן יְהוָ֑ה וְרֹ֨אשׁ דָּג֜וֹן וּשְׁתֵּ֣י׀ כַּפּ֣וֹת יָדָ֗יו כְּרֻתוֹת֙ אֶל־ הַמִּפְתָּ֔ן רַ֥ק דָּג֖וֹן נִשְׁאַ֥ר עָלָֽיו׃"
+pericope: "[[1Sam.5.1 The Ark Afflicts the Philistines|The Ark Afflicts the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 5
+book/chapter: "[[1Sam.5|1 Samuel 5]]"
+chronological_order: 284
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7925]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H9006]]"
+- "[[H4283]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H1712]]"
+- "[[H5307G]]"
+- "[[H9005]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H6440G]]"
+- "[[H0727]]"
+- "[[H3068G]]"
+- "[[H7218A]]"
+- "[[H8147]]"
+- "[[H9015]]"
+- "[[H3709G]]"
+- "[[H3027G]]"
+- "[[H3772I]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4670]]"
+- "[[H7535]]"
+- "[[H7604]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 5:4**<big><big>[[1Sam.5.1 The Ark Afflicts the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they arose early on the morrow morning, behold, Dagon [was] fallen upon his face to the ground before the ark of the LORD; and the head of Dagon and both the palms of his hands [were] cut off upon the threshold; only [the stump of] Dagon was left to him.
 <small><sub>**BSB:**</sub></small>
 But when they got up early the next morning, there was Dagon, fallen on his face before the ark of the LORD, with his head and his hands broken off and lying on the threshold. Only the torso remained.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7925\|יַּשְׁכִּ֣מוּ]] [[H9003\|בַ]][[H1242\|בֹּקֶר֮]] [[H9006\|מִֽ]][[H4283\|מָּחֳרָת֒]] [[H9002\|וְ]][[H2009\|הִנֵּ֣ה]] [[H1712\|דָג֗וֹן]] [[H5307G\|נֹפֵ֤ל]] [[H9005\|לְ]][[H6440H\|פָנָי]][[H9023\|ו֙]] [[H0776H\|אַ֔רְצָ]][[H9011\|ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H0727\|אֲר֣וֹן]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H7218A\|רֹ֨אשׁ]] [[H1712\|דָּג֜וֹן]] [[H9002\|וּ]][[H8147\|שְׁתֵּ֣י]][[H9015\|׀]] [[H3709G\|כַּפּ֣וֹת]] [[H3027G\|יָדָ֗י]][[H9023\|ו]] [[H3772I\|כְּרֻתוֹת֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4670\|מִּפְתָּ֔ן]] [[H7535\|רַ֥ק]] [[H1712\|דָּג֖וֹן]] [[H7604\|נִשְׁאַ֥ר]] [[H5921A\|עָלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.5.3|<< 1 Samuel 5:3]]</td><td align="center" style="border:none;">[[1Sam.5|1 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.5.5|1 Samuel 5:5 >>]]</td></tr></table>
 

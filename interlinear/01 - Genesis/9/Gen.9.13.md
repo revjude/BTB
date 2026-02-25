@@ -1,8 +1,67 @@
+---
+title: Genesis 9:13
+type: Verse
+kjv: "I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth."
+bsb: "I have set My rainbow in the clouds, and it will be a sign of the covenant between Me and the earth."
+hebrew: "אֶת־ קַשְׁתִּ֕י נָתַ֖תִּי בֶּֽעָנָ֑ן וְהָֽיְתָה֙ לְא֣וֹת בְּרִ֔ית בֵּינִ֖י וּבֵ֥ין הָאָֽרֶץ׃"
+pericope: "[[Gen.9.1 The Covenant of the Rainbow|The Covenant of the Rainbow]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 9
+book/chapter: "[[Gen.9|Genesis 9]]"
+chronological_order: 9
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BOW|BOW]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic NOAH|NOAH]]"
+- "[[topic RAIN|RAIN]]"
+- "[[topic RAINBOW|RAINBOW]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TOKEN|TOKEN]]"
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7198]]"
+- "[[H9020]]"
+- "[[H5414H]]"
+- "[[H9003]]"
+- "[[H6051]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0226H]]"
+- "[[H1285]]"
+- "[[H0996G]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 9:13**<big><big>[[Gen.9.1 The Covenant of the Rainbow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth.
 <small><sub>**BSB:**</sub></small>
 I have set My rainbow in the clouds, and it will be a sign of the covenant between Me and the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶת]][[H9014\|־]] [[H7198\|קַשְׁתִּ֕]][[H9020\|י]] [[H5414H\|נָתַ֖תִּי]] [[H9003\|בֶּֽ]][[H6051\|עָנָ֑ן]] [[H9001\|וְ]][[H1961\|הָֽיְתָה֙]] [[H9005\|לְ]][[H0226H\|א֣וֹת]] [[H1285\|בְּרִ֔ית]] [[H0996G\|בֵּינִ֖]][[H9030\|י]] [[H9002\|וּ]][[H0996G\|בֵ֥ין]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOW|BOW]] • [[topic COVENANT|COVENANT]] • [[topic NOAH|NOAH]] • [[topic RAIN|RAIN]] • [[topic RAINBOW|RAINBOW]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TOKEN|TOKEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.12|<< Genesis 9:12]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.14|Genesis 9:14 >>]]</td></tr></table>
 

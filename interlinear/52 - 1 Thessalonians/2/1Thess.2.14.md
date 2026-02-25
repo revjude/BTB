@@ -1,10 +1,65 @@
+---
+title: 1 Thessalonians 2:14
+type: Verse
+kjv: "For ye, brethren, became followers of the churches of God which in Judaea are in Christ Jesus: for ye also have suffered like things of your own countrymen, even as they have of the Jews:"
+bsb: "For you, brothers, became imitators of the churches of God in Judea that are in Christ Jesus. You suffered from your own countrymen the very things they suffered from the Jews,"
+greek: "ὑμεῖς γὰρ μιμηταὶ ἐγενήθητε, ἀδελφοί, τῶν ἐκκλησιῶν τοῦ θεοῦ τῶν οὐσῶν ἐν τῇ Ἰουδαίᾳ ἐν Χριστῷ Ἰησοῦ, ὅτι τὰ αὐτὰ ἐπάθετε καὶ ὑμεῖς ὑπὸ τῶν ἰδίων συμφυλετῶν, καθὼς καὶ αὐτοὶ ὑπὸ τῶν Ἰουδαίων,"
+pericope: "[[1Thess.2.1 Paul’s Ministry|Paul’s Ministry]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 2
+book/chapter: "[[1Thess.2|1 Thessalonians 2]]"
+chronological_order: 1049
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[G4771]]"
+- "[[G1063]]"
+- "[[G3402]]"
+- "[[G1096]]"
+- "[[G0080]]"
+- "[[G3588]]"
+- "[[G1577]]"
+- "[[G2316]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G2449]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G3754H]]"
+- "[[G0846]]"
+- "[[G3958]]"
+- "[[G2532]]"
+- "[[G5259G]]"
+- "[[G2398]]"
+- "[[G4853]]"
+- "[[G2531]]"
+- "[[G2453]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **1 Thessalonians 2:14**<big><big>[[1Thess.2.1 Paul’s Ministry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For ye, brethren, became followers of the churches of God which in Judaea are in Christ Jesus: for ye also have suffered like things of your own countrymen, even as they [have] of the Jews:
 <small><sub>**BSB:**</sub></small>
 For you, brothers, became imitators of the churches of God in Judea that are in Christ Jesus. You suffered from your own countrymen the very things they suffered from the Jews,
-<small><sub>**Literal:**</sub></small>
-you yourselves for imitators became, brothers, of the churches <the> of God which are being in <the> Judea in Christ Jesus, For the [same] these suffered also you yourselves from <the> [your] own countrymen, even as also [did] they from the Jews,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.13|<< 1 Thessalonians 2:13]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.15|1 Thessalonians 2:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|ὑμεῖς]]  [[G1063\|γὰρ]]  [[G3402\|μιμηταὶ]]  [[G1096\|ἐγενήθητε,]]  [[G0080\|ἀδελφοί,]]  [[G3588\|τῶν]]  [[G1577\|ἐκκλησιῶν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|τῶν]]  [[G1510\|οὐσῶν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2449\|Ἰουδαίᾳ]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ,]]  [[G3754H\|ὅτι]]  [[G3588\|τὰ]]  [[G0846\|αὐτὰ]]  [[G3958\|ἐπάθετε]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G2398\|ἰδίων]]  [[G4853\|συμφυλετῶν,]]  [[G2531\|καθὼς]]  [[G2532\|καὶ]]  [[G0846\|αὐτοὶ]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic PAUL|PAUL]] • [[topic PERSECUTION|PERSECUTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.13|<< 1 Thessalonians 2:13]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.15|1 Thessalonians 2:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

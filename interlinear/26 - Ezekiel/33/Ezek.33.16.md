@@ -1,8 +1,71 @@
+---
+title: Ezekiel 33:16
+type: Verse
+kjv: "None of his sins that he hath committed shall be mentioned unto him: he hath done that which is lawful and right; he shall surely live."
+bsb: "None of the sins he has committed will be held against him. He has done what is just and right; he will surely live."
+hebrew: "כָּל־ חַטֹּאתָיו֙ אֲשֶׁ֣ר חָטָ֔א לֹ֥א תִזָּכַ֖רְנָה ל֑וֹ מִשְׁפָּ֧ט וּצְדָקָ֛ה עָשָׂ֖ה חָי֥וֹ יִֽחְיֶֽה׃"
+pericope: "[[Ezek.33.10 The Message of the Watchman|The Message of the Watchman]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 33
+book/chapter: "[[Ezek.33|Ezekiel 33]]"
+chronological_order: 824
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2403B]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H2398]]"
+- "[[H3808]]"
+- "[[H2142]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H4941H]]"
+- "[[H9002]]"
+- "[[H6666]]"
+- "[[H6213A]]"
+- "[[H2421]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 33:16**<big><big>[[Ezek.33.10 The Message of the Watchman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 None of his sins that he hath committed shall be mentioned unto him: he hath done that which is lawful and right; he shall surely live.
 <small><sub>**BSB:**</sub></small>
 None of the sins he has committed will be held against him. He has done what is just and right; he will surely live.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H2403B\|חַטֹּאתָי]][[H9023\|ו֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H2398\|חָטָ֔א]] [[H3808\|לֹ֥א]] [[H2142\|תִזָּכַ֖רְנָה]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H4941H\|מִשְׁפָּ֧ט]] [[H9002\|וּ]][[H6666\|צְדָקָ֛ה]] [[H6213A\|עָשָׂ֖ה]] [[H2421\|חָי֥וֹ]] [[H2421\|יִֽחְיֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PENITENT|PENITENT]] • [[topic REPENTANCE|REPENTANCE]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORKS|WORKS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.15|<< Ezekiel 33:15]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.17|Ezekiel 33:17 >>]]</td></tr></table>
 
@@ -22,7 +85,7 @@ None of the sins he has committed will be held against him. He has done what is 
 | he will live  |**<big>&#8207;[[H2421\|יִֽחְיֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yich.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.15|<< Ezekiel 33:15]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.17|Ezekiel 33:17 >>]]</td></tr></table>
 
-[^1]: sin his  | **<big>[[H9023|וֹ]]</big><big>[[H2403B|חַטָּאת]]</big> ** | cha.ta.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: sin his  | **<big>[[H9023|וֹ]]</big><big>[[H2403B|חַטָּאת]]</big> ** | cha.ta.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: sin his  | **<big>[[H2403B|חַטָּאת]]</big><big>[[H9023|וֹ]]</big> ** | cha.ta.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: sin his  | **<big>[[H2403B|חַטָּאת]]</big><big>[[H9023|וֹ]]</big> ** | cha.ta.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>חַטֹּאתָו֙</big></span>**
 

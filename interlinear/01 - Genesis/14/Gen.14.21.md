@@ -1,8 +1,63 @@
+---
+title: Genesis 14:21
+type: Verse
+kjv: "And the king of Sodom said unto Abram, Give me the persons, and take the goods to thyself."
+bsb: "The king of Sodom said to Abram, “Give me the people, but take the goods for yourself.”"
+hebrew: "וַיֹּ֥אמֶר מֶֽלֶךְ־ סְדֹ֖ם אֶל־ אַבְרָ֑ם תֶּן־ לִ֣י הַנֶּ֔פֶשׁ וְהָרְכֻ֖שׁ קַֽח־ לָֽךְ׃"
+pericope: "[[Gen.14.17 Melchizedek Blesses Abram|Melchizedek Blesses Abram]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 14
+book/chapter: "[[Gen.14|Genesis 14]]"
+chronological_order: 56
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H5467]]"
+- "[[H0413]]"
+- "[[H0087]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H5315J]]"
+- "[[H9002]]"
+- "[[H7399]]"
+- "[[H3947G]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 14:21**<big><big>[[Gen.14.17 Melchizedek Blesses Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Sodom said unto Abram, Give me the persons, and take the goods to thyself.
 <small><sub>**BSB:**</sub></small>
 The king of Sodom said to Abram, “Give me the people, but take the goods for yourself.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H5467\|סְדֹ֖ם]] [[H0413\|אֶל]][[H9014\|־]] [[H0087\|אַבְרָ֑ם]] [[H5414G\|תֶּן]][[H9014\|־]] [[H9005\|לִ֣]][[H9030\|י]] [[H9009\|הַ]][[H5315J\|נֶּ֔פֶשׁ]] [[H9002\|וְ]][[H9009\|הָ]][[H7399\|רְכֻ֖שׁ]] [[H3947G\|קַֽח]][[H9014\|־]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic LIBERALITY|LIBERALITY]] • [[topic RULERS|RULERS]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.14.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.14.20|<< Genesis 14:20]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.14.22|Genesis 14:22 >>]]</td></tr></table>
 

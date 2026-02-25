@@ -1,10 +1,64 @@
+---
+title: John 15:8
+type: Verse
+kjv: "Herein is my Father glorified, that ye bear much fruit; so shall ye be my disciples."
+bsb: "This is to My Father’s glory, that you bear much fruit, proving yourselves to be My disciples."
+jesus_said: "Herein is my Father glorified, that ye bear much fruit; so shall ye be my disciples."
+greek: "ἐν τούτῳ ἐδοξάσθη ὁ πατήρ μου, ἵνα καρπὸν πολὺν φέρητε καὶ γένησθε ἐμοὶ μαθηταί."
+pericope: "[[John.15.1 Jesus the True Vine|Jesus the True Vine]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 15
+book/chapter: "[[John.15|John 15]]"
+chronological_order: 1003
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GLORIFYING GOD|GLORIFYING GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G1722]]"
+- "[[G3778]]"
+- "[[G1392]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G2443]]"
+- "[[G2590]]"
+- "[[G4183]]"
+- "[[G5342]]"
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1473]]"
+- "[[G3101]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 15:8**<big><big>[[John.15.1 Jesus the True Vine|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Herein is my Father glorified, that ye bear much fruit; so shall ye be my disciples.
 <small><sub>**BSB:**</sub></small>
 This is to My Father’s glory, that you bear much fruit, proving yourselves to be My disciples.
-<small><sub>**Literal:**</sub></small>
-In this is glorified the Father of Mine, that fruit much you may bear and you may become to Me disciples.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.7|<< John 15:7]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.9|John 15:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3778\|τούτῳ]]  [[G1392\|ἐδοξάσθη]]  [[G3588\|ὁ]]  [[G3962\|πατήρ]]  [[G3165\|μου,]]  [[G2443\|ἵνα]]  [[G2590\|καρπὸν]]  [[G4183\|πολὺν]]  [[G5342\|φέρητε]]  [[G2532\|καὶ]]  [[G1096\|γένησθε]]  [[G1473\|ἐμοὶ]]  [[G3101\|μαθηταί.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GLORIFYING GOD|GLORIFYING GOD]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.7|<< John 15:7]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.9|John 15:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

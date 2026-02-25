@@ -1,8 +1,62 @@
+---
+title: Ezekiel 7:14
+type: Verse
+kjv: "They have blown the trumpet, even to make all ready; but none goeth to the battle: for my wrath is upon all the multitude thereof."
+bsb: "They have blown the trumpet and made everything ready, but no one goes to war, for My wrath is upon the whole multitude."
+hebrew: "תָּקְע֤וּ בַתָּק֙וֹעַ֙ וְהָכִ֣ין הַכֹּ֔ל וְאֵ֥ין הֹלֵ֖ךְ לַמִּלְחָמָ֑ה כִּ֥י חֲרוֹנִ֖י אֶל־ כָּל־ הֲמוֹנָֽהּ׃"
+pericope: "[[Ezek.7.14 The Desolation of Israel|The Desolation of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 7
+book/chapter: "[[Ezek.7|Ezekiel 7]]"
+chronological_order: 798
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H8628]]"
+- "[[H9003]]"
+- "[[H8619]]"
+- "[[H9002]]"
+- "[[H3559A]]"
+- "[[H9009]]"
+- "[[H3605]]"
+- "[[H0369]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H3588A]]"
+- "[[H2740]]"
+- "[[H9020]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1995A]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 7:14**<big><big>[[Ezek.7.14 The Desolation of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have blown the trumpet, even to make all ready; but none goeth to the battle: for my wrath [is] upon all the multitude thereof.
 <small><sub>**BSB:**</sub></small>
 They have blown the trumpet and made everything ready, but no one goes to war, for My wrath is upon the whole multitude.
+<small><sub>**Hebrew:**</sub></small>
+[[H8628\|תָּקְע֤וּ]] [[H9003\|בַ]][[H8619\|תָּק֙וֹעַ֙]] [[H9002\|וְ]][[H3559A\|הָכִ֣ין]] [[H9009\|הַ]][[H3605\|כֹּ֔ל]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H1980G\|הֹלֵ֖ךְ]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֑ה]] [[H3588A\|כִּ֥י]] [[H2740\|חֲרוֹנִ֖]][[H9020\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1995A\|הֲמוֹנָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.13|<< Ezekiel 7:13]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.15|Ezekiel 7:15 >>]]</td></tr></table>
 

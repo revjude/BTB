@@ -1,10 +1,56 @@
+---
+title: Luke 23:6
+type: Verse
+kjv: "When Pilate heard of Galilee, he asked whether the man were a Galilaean."
+bsb: "When Pilate heard this, he asked if the man was a Galilean."
+greek: "Πιλᾶτος δὲ ἀκούσας Γαλιλαίαν ἐπηρώτησεν εἰ ὁ ἄνθρωπος Γαλιλαῖός ἐστιν,"
+pericope: "[[Luke.23.6 Jesus before Herod|Jesus before Herod]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G4091]]"
+- "[[G1161]]"
+- "[[G0191]]"
+- "[[G1056G]]"
+- "[[G1905]]"
+- "[[G1487G]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G1057]]"
+- "[[G1510]]"
+texts:
+- NKO
+- KO
+---
+
 **Luke 23:6**<big><big>[[Luke.23.6 Jesus before Herod|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When Pilate heard of Galilee, he asked whether the man were a Galilaean.
 <small><sub>**BSB:**</sub></small>
 When Pilate heard this, he asked if the man was a Galilean.
-<small><sub>**Literal:**</sub></small>
-Pilate now having heard Galilee asked whether the man a Galilean is,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.5|<< Luke 23:5]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.7|Luke 23:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4091\|Πιλᾶτος]]  [[G1161\|δὲ]]  [[G0191\|ἀκούσας]]  [[G1056G\|Γαλιλαίαν]]  [[G1905\|ἐπηρώτησεν]]  [[G1487G\|εἰ]]  [[G3588\|ὁ]]  [[G0444\|ἄνθρωπος]]  [[G1057\|Γαλιλαῖός]]  [[G1510\|ἐστιν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GALILEE|GALILEE]] • [[topic HEROD|HEROD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.5|<< Luke 23:5]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.7|Luke 23:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

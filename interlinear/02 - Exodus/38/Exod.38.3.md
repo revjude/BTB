@@ -1,8 +1,68 @@
+---
+title: Exodus 38:3
+type: Verse
+kjv: "And he made all the vessels of the altar, the pots, and the shovels, and the basons, and the fleshhooks, and the firepans: all the vessels thereof made he of brass."
+bsb: "He made all the altar’s utensils of bronze—its pots, shovels, sprinkling bowls, meat forks, and firepans."
+hebrew: "וַיַּ֜עַשׂ אֶֽת־ כָּל־ כְּלֵ֣י הַמִּזְבֵּ֗חַ אֶת־ הַסִּירֹ֤ת וְאֶת־ הַיָּעִים֙ וְאֶת־ הַמִּזְרָקֹ֔ת אֶת־ הַמִּזְלָגֹ֖ת וְאֶת־ הַמַּחְתֹּ֑ת כָּל־ כֵּלָ֖יו עָשָׂ֥ה נְחֹֽשֶׁת׃"
+pericope: "[[Exod.38.1 The Bronze Altar|The Bronze Altar]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 38
+book/chapter: "[[Exod.38|Exodus 38]]"
+chronological_order: 130
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic BASIN|BASIN]]"
+- "[[topic BEZALEL|BEZALEL]]"
+- "[[topic FIREPAN|FIREPAN]]"
+- "[[topic FLESHHOOK|FLESHHOOK]]"
+- "[[topic SHOVEL|SHOVEL]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H5518A]]"
+- "[[H9002]]"
+- "[[H3257]]"
+- "[[H4219]]"
+- "[[H4207B]]"
+- "[[H4289]]"
+- "[[H9023]]"
+- "[[H5178A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 38:3**<big><big>[[Exod.38.1 The Bronze Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made all the vessels of the altar, the pots, and the shovels, and the basons, [and] the fleshhooks, and the firepans: all the vessels thereof made he [of] brass.
 <small><sub>**BSB:**</sub></small>
 He made all the altar’s utensils of bronze—its pots, shovels, sprinkling bowls, meat forks, and firepans.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֜עַשׂ]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כְּלֵ֣י]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֗חַ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5518A\|סִּירֹ֤ת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3257\|יָּעִים֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4219\|מִּזְרָקֹ֔ת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4207B\|מִּזְלָגֹ֖ת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4289\|מַּחְתֹּ֑ת]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כֵּלָ֖י]][[H9023\|ו]] [[H6213H\|עָשָׂ֥ה]] [[H5178A\|נְחֹֽשֶׁת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic BASIN|BASIN]] • [[topic BEZALEL|BEZALEL]] • [[topic FIREPAN|FIREPAN]] • [[topic FLESHHOOK|FLESHHOOK]] • [[topic SHOVEL|SHOVEL]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.2|<< Exodus 38:2]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.4|Exodus 38:4 >>]]</td></tr></table>
 

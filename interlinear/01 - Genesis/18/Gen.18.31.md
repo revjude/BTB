@@ -1,8 +1,74 @@
+---
+title: Genesis 18:31
+type: Verse
+kjv: "And he said, Behold now, I have taken upon me to speak unto the Lord: Peradventure there shall be twenty found there. And he said, I will not destroy it for twenty’s sake."
+bsb: "And Abraham said, “Now that I have ventured to speak to the Lord, suppose twenty are found there?” He answered, “On account of the twenty, I will not destroy it.”"
+hebrew: "וַיֹּ֗אמֶר הִנֵּֽה־ נָ֤א הוֹאַ֙לְתִּי֙ לְדַבֵּ֣ר אֶל־ אֲדֹנָ֔י אוּלַ֛י יִמָּצְא֥וּן שָׁ֖ם עֶשְׂרִ֑ים וַיֹּ֙אמֶר֙ לֹ֣א אַשְׁחִ֔ית בַּעֲב֖וּר הָֽעֶשְׂרִֽים׃"
+pericope: "[[Gen.18.16 Abraham Intercedes for Sodom|Abraham Intercedes for Sodom]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 18
+book/chapter: "[[Gen.18|Genesis 18]]"
+chronological_order: 60
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BOLDNESS|BOLDNESS]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic CURIOSITY|CURIOSITY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SODOM|SODOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H2974]]"
+- "[[H9005]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H0136]]"
+- "[[H0194]]"
+- "[[H4672]]"
+- "[[H9013]]"
+- "[[H8033G]]"
+- "[[H6242]]"
+- "[[H3808]]"
+- "[[H7843]]"
+- "[[H9003]]"
+- "[[H5668]]"
+- "[[H9009]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 18:31**<big><big>[[Gen.18.16 Abraham Intercedes for Sodom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Behold now, I have taken upon me to speak unto the Lord: Peradventure there shall be twenty found there. And he said, I will not destroy [it] for twenty’s sake.
 <small><sub>**BSB:**</sub></small>
 And Abraham said, “Now that I have ventured to speak to the Lord, suppose twenty are found there?” He answered, “On account of the twenty, I will not destroy it.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H2009\|הִנֵּֽה]][[H9014\|־]] [[H4994\|נָ֤א]] [[H2974\|הוֹאַ֙לְתִּי֙]] [[H9005\|לְ]][[H1696G\|דַבֵּ֣ר]] [[H0413\|אֶל]][[H9014\|־]] [[H0136\|אֲדֹנָ֔י]] [[H0194\|אוּלַ֛י]] [[H4672\|יִמָּצְא֥וּ]][[H9013\|ן]] [[H8033G\|שָׁ֖ם]] [[H6242\|עֶשְׂרִ֑ים]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H3808\|לֹ֣א]] [[H7843\|אַשְׁחִ֔ית]] [[H9003\|בַּ]][[H5668\|עֲב֖וּר]] [[H9009\|הָֽ]][[H6242\|עֶשְׂרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BOLDNESS|BOLDNESS]] • [[topic COMMUNION|COMMUNION]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic CURIOSITY|CURIOSITY]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PRAYER|PRAYER]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic RELIGION|RELIGION]] • [[topic SODOM|SODOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.18.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.30|<< Genesis 18:30]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.32|Genesis 18:32 >>]]</td></tr></table>
 

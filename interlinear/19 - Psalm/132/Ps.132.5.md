@@ -1,8 +1,55 @@
+---
+title: Psalm 132:5
+type: Verse
+kjv: "Until I find out a place for the LORD, an habitation for the mighty God of Jacob."
+bsb: "until I find a place for the LORD, a dwelling for the Mighty One of Jacob.”"
+hebrew: "עַד־ אֶמְצָ֣א מָ֭קוֹם לַיהוָ֑ה מִ֝שְׁכָּנ֗וֹת לַאֲבִ֥יר יַעֲקֹֽב׃"
+pericope: "[[Ps.132.1 The LORD Has Chosen Zion|The LORD Has Chosen Zion]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 132
+book/chapter: "[[Ps.132|Psalm 132]]"
+chronological_order: 401
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H4672]]"
+- "[[H4725]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H4908]]"
+- "[[H0046]]"
+- "[[H3290]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 132:5**<big><big>[[Ps.132.1 The LORD Has Chosen Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Until I find out a place for the LORD, an habitation for the mighty [God] of Jacob.
 <small><sub>**BSB:**</sub></small>
 until I find a place for the LORD, a dwelling for the Mighty One of Jacob.”
+<small><sub>**Hebrew:**</sub></small>
+[[H5704\|עַד]][[H9014\|־]] [[H4672\|אֶמְצָ֣א]] [[H4725\|מָ֭קוֹם]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H4908\|מִ֝שְׁכָּנ֗וֹת]] [[H9005\|לַ]][[H0046\|אֲבִ֥יר]] [[H3290\|יַעֲקֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LIBERALITY|LIBERALITY]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.132.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.132.4|<< Psalms 132:4]]</td><td align="center" style="border:none;">[[Ps.132|Psalms 132]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.132.6|Psalms 132:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

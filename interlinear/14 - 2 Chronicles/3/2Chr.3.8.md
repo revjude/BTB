@@ -1,8 +1,65 @@
+---
+title: 2 Chronicles 3:8
+type: Verse
+kjv: "And he made the most holy house, the length whereof was according to the breadth of the house, twenty cubits, and the breadth thereof twenty cubits: and he overlaid it with fine gold, amounting to six hundred talents."
+bsb: "Then he made the Most Holy Place; its length corresponded to the width of the temple—twenty cubits long and twenty cubits wide. And he overlaid the inside with six hundred talents of fine gold."
+hebrew: "וַיַּ֙עַשׂ֙ אֶת־ בֵּֽית־ קֹ֣דֶשׁ הַקֳּדָשִׁ֔ים אָרְכּ֞וֹ עַל־ פְּנֵ֤י רֹֽחַב־ הַבַּ֙יִת֙ אַמּ֣וֹת עֶשְׂרִ֔ים וְרָחְבּ֖וֹ אַמּ֣וֹת עֶשְׂרִ֑ים וַיְחַפֵּ֙הוּ֙ זָהָ֣ב ט֔וֹב לְכִכָּרִ֖ים שֵׁ֥שׁ מֵאֽוֹת׃"
+pericope: "[[2Chr.3.5 The Temple’s Interior|The Temple’s Interior]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 3
+book/chapter: "[[2Chr.3|2 Chronicles 3]]"
+chronological_order: 492
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H6944H]]"
+- "[[H9009]]"
+- "[[H0753]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H6440L]]"
+- "[[H7341]]"
+- "[[H0520A]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H2645]]"
+- "[[H9033]]"
+- "[[H2091]]"
+- "[[H2896A]]"
+- "[[H9005]]"
+- "[[H3603H]]"
+- "[[H8337]]"
+- "[[H3967]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 3:8**<big><big>[[2Chr.3.5 The Temple’s Interior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made the most holy house, the length whereof [was] according to the breadth of the house, twenty cubits, and the breadth thereof twenty cubits: and he overlaid it with fine gold, [amounting] to six hundred talents.
 <small><sub>**BSB:**</sub></small>
 Then he made the Most Holy Place; its length corresponded to the width of the temple—twenty cubits long and twenty cubits wide. And he overlaid the inside with six hundred talents of fine gold.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֙עַשׂ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1004B\|בֵּֽית]][[H9014\|־]] [[H6944H\|קֹ֣דֶשׁ]] [[H9009\|הַ]][[H6944H\|קֳּדָשִׁ֔ים]] [[H0753\|אָרְכּ֞]][[H9023\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H6440L\|פְּנֵ֤י]] [[H7341\|רֹֽחַב]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּ֙יִת֙]] [[H0520A\|אַמּ֣וֹת]] [[H6242\|עֶשְׂרִ֔ים]] [[H9002\|וְ]][[H7341\|רָחְבּ֖]][[H9023\|וֹ]] [[H0520A\|אַמּ֣וֹת]] [[H6242\|עֶשְׂרִ֑ים]] [[H9001\|וַ]][[H2645\|יְחַפֵּ֙]][[H9033\|הוּ֙]] [[H2091\|זָהָ֣ב]] [[H2896A\|ט֔וֹב]] [[H9005\|לְ]][[H3603H\|כִכָּרִ֖ים]] [[H8337\|שֵׁ֥שׁ]] [[H3967\|מֵאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.7|<< 2 Chronicles 3:7]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.9|2 Chronicles 3:9 >>]]</td></tr></table>
 

@@ -1,8 +1,52 @@
+---
+title: Job 30:21
+type: Verse
+kjv: "Thou art become cruel to me: with thy strong hand thou opposest thyself against me."
+bsb: "You have ruthlessly turned on me; You oppose me with Your strong hand."
+hebrew: "תֵּהָפֵ֣ךְ לְאַכְזָ֣ר לִ֑י בְּעֹ֖צֶם יָדְךָ֣ תִשְׂטְמֵֽנִי׃"
+pericope: "[[Job.30.15 Job’s Prosperity Becomes Calamity|Job’s Prosperity Becomes Calamity]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 30
+book/chapter: "[[Job.30|Job 30]]"
+chronological_order: 41
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic DOUBTING|DOUBTING]]"
+strongs:
+- "[[H2015]]"
+- "[[H9005]]"
+- "[[H0393]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H6108]]"
+- "[[H3027H]]"
+- "[[H9021]]"
+- "[[H7852]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 30:21**<big><big>[[Job.30.15 Job’s Prosperity Becomes Calamity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou art become cruel to me: with thy strong hand thou opposest thyself against me.
 <small><sub>**BSB:**</sub></small>
 You have ruthlessly turned on me; You oppose me with Your strong hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H2015\|תֵּהָפֵ֣ךְ]] [[H9005\|לְ]][[H0393\|אַכְזָ֣ר]] [[H9005\|לִ֑]][[H9030\|י]] [[H9003\|בְּ]][[H6108\|עֹ֖צֶם]] [[H3027H\|יָדְ]][[H9021\|ךָ֣]] [[H7852\|תִשְׂטְמֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic DOUBTING|DOUBTING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.20|<< Job 30:20]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.22|Job 30:22 >>]]</td></tr></table>
 

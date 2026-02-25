@@ -1,8 +1,60 @@
+---
+title: 1 Samuel 24:9
+type: Verse
+kjv: "And David said to Saul, Wherefore hearest thou men’s words, saying, Behold, David seeketh thy hurt?"
+bsb: "and said to Saul, “Why do you listen to the words of men who say, ‘Look, David intends to harm you’?"
+hebrew: "וַיֹּ֤אמֶר דָּוִד֙ לְשָׁא֔וּל לָ֧מָּה תִשְׁמַ֛ע אֶת־ דִּבְרֵ֥י אָדָ֖ם לֵאמֹ֑ר הִנֵּ֣ה דָוִ֔ד מְבַקֵּ֖שׁ רָעָתֶֽךָ׃"
+pericope: "[[1Sam.24.1 David Spares Saul|David Spares Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 24
+book/chapter: "[[1Sam.24|1 Samuel 24]]"
+chronological_order: 303
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic LOYALTY|LOYALTY]]"
+- "[[topic MAGNANIMITY|MAGNANIMITY]]"
+- "[[topic SELF-CONTROL|SELF-CONTROL]]"
+- "[[topic SLANDER|SLANDER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H9005]]"
+- "[[H7586G]]"
+- "[[H4100]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H0120G]]"
+- "[[H2009]]"
+- "[[H1245]]"
+- "[[H7451C]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 24:9**<big><big>[[1Sam.24.1 David Spares Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said to Saul, Wherefore hearest thou men’s words, saying, Behold, David seeketh thy hurt?
 <small><sub>**BSB:**</sub></small>
 and said to Saul, “Why do you listen to the words of men who say, ‘Look, David intends to harm you’?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H1732\|דָּוִד֙]] [[H9005\|לְ]][[H7586G\|שָׁא֔וּל]] [[H9005\|לָ֧]][[H4100\|מָּה]] [[H8085G\|תִשְׁמַ֛ע]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דִּבְרֵ֥י]] [[H0120G\|אָדָ֖ם]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H2009\|הִנֵּ֣ה]] [[H1732\|דָוִ֔ד]] [[H1245\|מְבַקֵּ֖שׁ]] [[H7451C\|רָעָתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic LOYALTY|LOYALTY]] • [[topic MAGNANIMITY|MAGNANIMITY]] • [[topic SELF-CONTROL|SELF-CONTROL]] • [[topic SLANDER|SLANDER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.24.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.24.8|<< 1 Samuel 24:8]]</td><td align="center" style="border:none;">[[1Sam.24|1 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.24.10|1 Samuel 24:10 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Genesis 31:50
+type: Verse
+kjv: "If thou shalt afflict my daughters, or if thou shalt take other wives beside my daughters, no man is with us; see, God is witness betwixt me and thee."
+bsb: "If you mistreat my daughters or take other wives, although no one is with us, remember that God is a witness between you and me.”"
+hebrew: "אִם־ תְּעַנֶּ֣ה אֶת־ בְּנֹתַ֗י וְאִם־ תִּקַּ֤ח נָשִׁים֙ עַל־ בְּנֹתַ֔י אֵ֥ין אִ֖ישׁ עִמָּ֑נוּ רְאֵ֕ה אֱלֹהִ֥ים עֵ֖ד בֵּינִ֥י וּבֵינֶֽךָ׃"
+pericope: "[[Gen.31.43 Jacob’s Covenant with Laban|Jacob’s Covenant with Laban]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H6031B]]"
+- "[[H0853]]"
+- "[[H1323G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3947I]]"
+- "[[H0802H]]"
+- "[[H5921A]]"
+- "[[H0369]]"
+- "[[H0376I]]"
+- "[[H5973A]]"
+- "[[H9035]]"
+- "[[H7200G]]"
+- "[[H0430G]]"
+- "[[H5707]]"
+- "[[H0996G]]"
+- "[[H9030]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 31:50**<big><big>[[Gen.31.43 Jacob’s Covenant with Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou shalt afflict my daughters, or if thou shalt take [other] wives beside my daughters, no man [is] with us; see, God [is] witness betwixt me and thee.
 <small><sub>**BSB:**</sub></small>
 If you mistreat my daughters or take other wives, although no one is with us, remember that God is a witness between you and me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H6031B\|תְּעַנֶּ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1323G\|בְּנֹתַ֗]][[H9020\|י]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3947I\|תִּקַּ֤ח]] [[H0802H\|נָשִׁים֙]] [[H5921A\|עַל]][[H9014\|־]] [[H1323G\|בְּנֹתַ֔]][[H9020\|י]] [[H0369\|אֵ֥ין]] [[H0376I\|אִ֖ישׁ]] [[H5973A\|עִמָּ֑]][[H9035\|נוּ]] [[H7200G\|רְאֵ֕ה]] [[H0430G\|אֱלֹהִ֥ים]] [[H5707\|עֵ֖ד]] [[H0996G\|בֵּינִ֥]][[H9030\|י]] [[H9002\|וּ]][[H0996G\|בֵינֶֽ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic COVENANT|COVENANT]] • [[topic LABAN|LABAN]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.49|<< Genesis 31:49]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.51|Genesis 31:51 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jacob Prepares to Meet Esau
+type: Pericope
 pericope: "[[Gen.32.1 Jacob Prepares to Meet Esau|Jacob Prepares to Meet Esau]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 32
 book/chapter: "[[Gen.32|Genesis 32]]"
-genre:
+chronological_order: 74
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 21
 verses:
 - "[[Gen.32.1]]"
 - "[[Gen.32.2]]"
@@ -42,7 +49,7 @@ verses:
 - "[[Gen.32.21]]"
 ---
 
-[[Gen.32|Genesis 32:1 - Genesis 32:21]]
+<small>[[Gen.32|Genesis 32:1-21]]</small>
 *Jacob Prepares to Meet Esau*
 
 [[Gen.32.1|1]] And Jacob went on his way, and the angels of God met him.

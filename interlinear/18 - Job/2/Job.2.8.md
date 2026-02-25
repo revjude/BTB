@@ -1,8 +1,60 @@
+---
+title: Job 2:8
+type: Verse
+kjv: "And he took him a potsherd to scrape himself withal; and he sat down among the ashes."
+bsb: "And Job took a piece of broken pottery to scrape himself as he sat among the ashes."
+hebrew: "וַיִּֽקַּֽח־ ל֣וֹ חֶ֔רֶשׂ לְהִתְגָּרֵ֖ד בּ֑וֹ וְה֖וּא יֹשֵׁ֥ב בְּתוֹךְ־ הָאֵֽפֶר׃"
+pericope: "[[Job.2.1 Job Loses His Health|Job Loses His Health]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 2
+book/chapter: "[[Job.2|Job 2]]"
+chronological_order: 13
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ASHES|ASHES]]"
+- "[[topic BOIL|BOIL]]"
+- "[[topic JOB|JOB]]"
+- "[[topic POTSHERD|POTSHERD]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H2789]]"
+- "[[H1623]]"
+- "[[H9003]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H3427]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H0665]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 2:8**<big><big>[[Job.2.1 Job Loses His Health|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took him a potsherd to scrape himself withal; and he sat down among the ashes.
 <small><sub>**BSB:**</sub></small>
 And Job took a piece of broken pottery to scrape himself as he sat among the ashes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּֽקַּֽח]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H2789\|חֶ֔רֶשׂ]] [[H9005\|לְ]][[H1623\|הִתְגָּרֵ֖ד]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H9002\|וְ]][[H1931\|ה֖וּא]] [[H3427\|יֹשֵׁ֥ב]] [[H9003\|בְּ]][[H8432\|תוֹךְ]][[H9014\|־]] [[H9009\|הָ]][[H0665\|אֵֽפֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHES|ASHES]] • [[topic BOIL|BOIL]] • [[topic JOB|JOB]] • [[topic POTSHERD|POTSHERD]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.2.7|<< Job 2:7]]</td><td align="center" style="border:none;">[[Job.2|Job 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.2.9|Job 2:9 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Food for the Priests
+type: Pericope
 pericope: "[[Exod.29.31 Food for the Priests|Food for the Priests]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 29
 book/chapter: "[[Exod.29|Exodus 29]]"
-genre:
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 7
 verses:
 - "[[Exod.29.31]]"
 - "[[Exod.29.32]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Exod.29.37]]"
 ---
 
-[[Exod.29|Exodus 29:31 - Exodus 29:37]]
+<small>[[Exod.29|Exodus 29:31-37]]</small>
 *Food for the Priests*
 
 [[Exod.29.31|31]] And thou shalt take the ram of the consecration, and seethe his flesh in the holy place.

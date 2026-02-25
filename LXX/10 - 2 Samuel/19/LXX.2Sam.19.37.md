@@ -1,6 +1,84 @@
+---
+title: LXX 2 Samuel 19:37
+type: Verse
+lxx: "Return indeed  your servant! and I shall die in  my city, by the burying-place  of my father and  of my mother. And behold,  your servant Chimham  my son shall pass over with  my master the king; and you shall do for him the pleasing thing before you."
+greek: "αποστρεψάτω δη ο δούλός σου και αποθανούμαι εν τη πόλει μου παρά τω τάφω του πατρός μου και της μητρός μου και ιδού ο δούλός σου Χιμαάν ο υιός μου διαβήσεται μετά του κυρίου μου του βασιλέως και ποιήσεις αυτώ το αρεστόν ενώπιόν σου"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 19
+book/chapter: "[[2Sam.19|2 Samuel 19]]"
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic BARZILLAI|BARZILLAI]]"
+- "[[topic CHIMHAM|CHIMHAM]]"
+- "[[topic CONTENTMENT|CONTENTMENT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic OLD AGE|OLD AGE]]"
+strongs:
+- "[[G0654]]"
+- "[[G1211]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0599]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G1473]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G5028]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3384]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G1473]]"
+- "[[H3643]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G1473]]"
+- "[[G1224]]"
+- "[[G3326]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2532]]"
+- "[[G4160]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0701]]"
+- "[[G1799]]"
+- "[[G1473]]"
+---
+
 **LXX 2 Samuel 19:37** 
 <small><sub>**LXX:**</sub></small>
 Return indeed  your servant! and I shall die in  my city, by the burying-place  of my father and  of my mother. And behold,  your servant Chimham  my son shall pass over with  my master the king; and you shall do for him the pleasing \[thing\] before you. 
+<small><sub>**Greek:**</sub></small>
+[[G0654\|αποστρεψάτω]] [[G1211\|δη]] [[G3588\|ο]] [[G1401\|δούλός]] [[G1473\|σου]] [[G2532\|και]] [[G0599\|αποθανούμαι]] [[G1722\|εν]] [[G3588\|τη]] [[G4172\|πόλει]] [[G1473\|μου]] [[G3844\|παρά]] [[G3588\|τω]] [[G5028\|τάφω]] [[G3588\|του]] [[G3962\|πατρός]] [[G1473\|μου]] [[G2532\|και]] [[G3588\|της]] [[G3384\|μητρός]] [[G1473\|μου]] [[G2532\|και]] [[G2400\|ιδού]] [[G3588\|ο]] [[G1401\|δούλός]] [[G1473\|σου]] [[H3643\|Χιμαάν]] [[G3588\|ο]] [[G5207\|υιός]] [[G1473\|μου]] [[G1224\|διαβήσεται]] [[G3326\|μετά]] [[G3588\|του]] [[G2962\|κυρίου]] [[G1473\|μου]] [[G3588\|του]] [[G0935\|βασιλέως]] [[G2532\|και]] [[G4160\|ποιήσεις]] [[G1473\|αυτώ]] [[G3588\|το]] [[G0701\|αρεστόν]] [[G1799\|ενώπιόν]] [[G1473\|σου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARZILLAI|BARZILLAI]] • [[topic CHIMHAM|CHIMHAM]] • [[topic CONTENTMENT|CONTENTMENT]] • [[topic DAVID|DAVID]] • [[topic OLD AGE|OLD AGE]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.19.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.36|<< 2 Samuel 19:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.38|2 Samuel 19:38 >>]]</td></tr></table>
 
@@ -43,6 +121,6 @@ Return indeed  your servant! and I shall die in  my city, by the burying-place  
 | pleasing \[thing\] | **<big>[[G0701\|αρεστόν]]</big>** |
 | before | **<big>[[G1799\|ενώπιόν]]</big>** |
 | you. | **<big>[[G1473\|σου]]</big>** |
-[[2Sam.19.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.36|<< 2 Samuel 19:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.38|2 Samuel 19:38 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.36|<< 2 Samuel 19:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.38|2 Samuel 19:38 >>]]</td></tr></table>
 
 

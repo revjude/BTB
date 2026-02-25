@@ -1,8 +1,67 @@
+---
+title: Isaiah 53:11
+type: Verse
+kjv: "He shall see of the travail of his soul, and shall be satisfied: by his knowledge shall my righteous servant justify many; for he shall bear their iniquities."
+bsb: "After the anguish of His soul, He will see the light of life and be satisfied. By His knowledge My righteous Servant will justify many, and He will bear their iniquities."
+hebrew: "מֵעֲמַ֤ל נַפְשׁוֹ֙ יִרְאֶ֣ה יִשְׂבָּ֔ע בְּדַעְתּ֗וֹ יַצְדִּ֥יק צַדִּ֛יק עַבְדִּ֖י לָֽרַבִּ֑ים וַעֲוֹנֹתָ֖ם ה֥וּא יִסְבֹּֽל׃"
+pericope: "[[Isa.53.9 A Grave Assigned|A Grave Assigned]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 53
+book/chapter: "[[Isa.53|Isaiah 53]]"
+chronological_order: 692
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SORROW|SORROW]]"
+strongs:
+- "[[H9006]]"
+- "[[H5999]]"
+- "[[H5315G]]"
+- "[[H9023]]"
+- "[[H7200G]]"
+- "[[H7646]]"
+- "[[H9003]]"
+- "[[H1847]]"
+- "[[H6663]]"
+- "[[H6662]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H7227A]]"
+- "[[H9002]]"
+- "[[H5771G]]"
+- "[[H9028]]"
+- "[[H1931]]"
+- "[[H5445]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 53:11**<big><big>[[Isa.53.9 A Grave Assigned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall see of the travail of his soul, [and] shall be satisfied: by his knowledge shall my righteous servant justify many; for he shall bear their iniquities.
 <small><sub>**BSB:**</sub></small>
 After the anguish of His soul, He will see the light of life and be satisfied. By His knowledge My righteous Servant will justify many, and He will bear their iniquities.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מֵ]][[H5999\|עֲמַ֤ל]] [[H5315G\|נַפְשׁ]][[H9023\|וֹ֙]] [[H7200G\|יִרְאֶ֣ה]] [[H7646\|יִשְׂבָּ֔ע]] [[H9003\|בְּ]][[H1847\|דַעְתּ֗]][[H9023\|וֹ]] [[H6663\|יַצְדִּ֥יק]] [[H6662\|צַדִּ֛יק]] [[H5650\|עַבְדִּ֖]][[H9020\|י]] [[H9005\|לָֽ]][[H7227A\|רַבִּ֑ים]] [[H9002\|וַ]][[H5771G\|עֲוֹנֹתָ֖]][[H9028\|ם]] [[H1931\|ה֥וּא]] [[H5445\|יִסְבֹּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PROPHECY|PROPHECY]] • [[topic SORROW|SORROW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.53.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.53.10|<< Isaiah 53:10]]</td><td align="center" style="border:none;">[[Isa.53|Isaiah 53]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.53.12|Isaiah 53:12 >>]]</td></tr></table>
 

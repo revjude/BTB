@@ -1,8 +1,56 @@
+---
+title: Psalm 71:7
+type: Verse
+kjv: "I am as a wonder unto many; but thou art my strong refuge."
+bsb: "I have become a portent to many, but You are my strong refuge."
+hebrew: "כְּ֭מוֹפֵת הָיִ֣יתִי לְרַבִּ֑ים וְ֝אַתָּ֗ה מַֽחֲסִי־ עֹֽז׃"
+pericope: "[[Ps.71.1 Be My Rock of Refuge|Be My Rock of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 71
+book/chapter: "[[Ps.71|Psalm 71]]"
+chronological_order: 428
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9004]]"
+- "[[H4159]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H7227A]]"
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H4268]]"
+- "[[H9020]]"
+- "[[H9014]]"
+- "[[H5797]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 71:7**<big><big>[[Ps.71.1 Be My Rock of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I am as a wonder unto many; but thou [art] my strong refuge.
 <small><sub>**BSB:**</sub></small>
 I have become a portent to many, but You are my strong refuge.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּ֭]][[H4159\|מוֹפֵת]] [[H1961\|הָיִ֣יתִי]] [[H9005\|לְ]][[H7227A\|רַבִּ֑ים]] [[H9002\|וְ֝]][[H0859A\|אַתָּ֗ה]] [[H4268\|מַֽחֲסִ]][[H9020\|י]][[H9014\|־]] [[H5797\|עֹֽז]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.71.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.71.6|<< Psalms 71:6]]</td><td align="center" style="border:none;">[[Ps.71|Psalms 71]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.8|Psalms 71:8 >>]]</td></tr></table>
 

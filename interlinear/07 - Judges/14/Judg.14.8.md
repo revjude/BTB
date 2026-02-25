@@ -1,8 +1,63 @@
+---
+title: Judges 14:8
+type: Verse
+kjv: "And after a time he returned to take her, and he turned aside to see the carcase of the lion: and, behold, there was a swarm of bees and honey in the carcase of the lion."
+bsb: "When Samson returned later to take her, he left the road to see the lion’s carcass, and in it was a swarm of bees, along with their honey."
+hebrew: "וַיָּ֤שָׁב מִיָּמִים֙ לְקַחְתָּ֔הּ וַיָּ֣סַר לִרְא֔וֹת אֵ֖ת מַפֶּ֣לֶת הָאַרְיֵ֑ה וְהִנֵּ֨ה עֲדַ֧ת דְּבוֹרִ֛ים בִּגְוִיַּ֥ת הָאַרְיֵ֖ה וּדְבָֽשׁ׃"
+pericope: "[[Judg.14.8 Samson’s Riddle|Samson’s Riddle]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 14
+book/chapter: "[[Judg.14|Judges 14]]"
+chronological_order: 268
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BEE|BEE]]"
+- "[[topic LION|LION]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H9006]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H3947I]]"
+- "[[H9034]]"
+- "[[H5493I]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H4658]]"
+- "[[H9009]]"
+- "[[H0738B]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H5712]]"
+- "[[H1682]]"
+- "[[H9003]]"
+- "[[H1472]]"
+- "[[H1706]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 14:8**<big><big>[[Judg.14.8 Samson’s Riddle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after a time he returned to take her, and he turned aside to see the carcase of the lion: and, behold, [there was] a swarm of bees and honey in the carcase of the lion.
 <small><sub>**BSB:**</sub></small>
 When Samson returned later to take her, he left the road to see the lion’s carcass, and in it was a swarm of bees, along with their honey.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּ֤שָׁב]] [[H9006\|מִ]][[H3117G\|יָּמִים֙]] [[H9005\|לְ]][[H3947I\|קַחְתָּ֔]][[H9034\|הּ]] [[H9001\|וַ]][[H5493I\|יָּ֣סַר]] [[H9005\|לִ]][[H7200G\|רְא֔וֹת]] [[H0853\|אֵ֖ת]] [[H4658\|מַפֶּ֣לֶת]] [[H9009\|הָ]][[H0738B\|אַרְיֵ֑ה]] [[H9002\|וְ]][[H2009\|הִנֵּ֨ה]] [[H5712\|עֲדַ֧ת]] [[H1682\|דְּבוֹרִ֛ים]] [[H9003\|בִּ]][[H1472\|גְוִיַּ֥ת]] [[H9009\|הָ]][[H0738B\|אַרְיֵ֖ה]] [[H9002\|וּ]][[H1706\|דְבָֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEE|BEE]] • [[topic LION|LION]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.14.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.14.7|<< Judges 14:7]]</td><td align="center" style="border:none;">[[Judg.14|Judges 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.14.9|Judges 14:9 >>]]</td></tr></table>
 

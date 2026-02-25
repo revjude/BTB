@@ -1,8 +1,57 @@
+---
+title: Psalm 35:12
+type: Verse
+kjv: "They rewarded me evil for good to the spoiling of my soul."
+bsb: "They repay me evil for good, to the bereavement of my soul."
+hebrew: "יְשַׁלְּמ֣וּנִי רָ֭עָה תַּ֥חַת טוֹבָ֗ה שְׁכ֣וֹל לְנַפְשִֽׁי׃"
+pericope: "[[Ps.35.1 Contend with My Opponents, O LORD|Contend with My Opponents, O LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 35
+book/chapter: "[[Ps.35|Psalm 35]]"
+chronological_order: 363
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic EVIL FOR GOOD|EVIL FOR GOOD]]"
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic GOOD FOR EVIL|GOOD FOR EVIL]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+strongs:
+- "[[H7999A]]"
+- "[[H9030]]"
+- "[[H7451I]]"
+- "[[H8478H]]"
+- "[[H2896C]]"
+- "[[H7908]]"
+- "[[H9005]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 35:12**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They rewarded me evil for good [to] the spoiling of my soul.
 <small><sub>**BSB:**</sub></small>
 They repay me evil for good, to the bereavement of my soul.
+<small><sub>**Hebrew:**</sub></small>
+[[H7999A\|יְשַׁלְּמ֣וּ]][[H9030\|נִי]] [[H7451I\|רָ֭עָה]] [[H8478H\|תַּ֥חַת]] [[H2896C\|טוֹבָ֗ה]] [[H7908\|שְׁכ֣וֹל]] [[H9005\|לְ]][[H5315G\|נַפְשִֽׁ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENEMY|ENEMY]] • [[topic EVIL FOR GOOD|EVIL FOR GOOD]] • [[topic FRIENDS|FRIENDS]] • [[topic GOOD FOR EVIL|GOOD FOR EVIL]] • [[topic INGRATITUDE|INGRATITUDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.11|<< Psalms 35:11]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.13|Psalms 35:13 >>]]</td></tr></table>
 

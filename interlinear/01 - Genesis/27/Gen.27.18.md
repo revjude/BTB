@@ -1,8 +1,66 @@
+---
+title: Genesis 27:18
+type: Verse
+kjv: "And he came unto his father, and said, My father: and he said, Here am I; who art thou, my son?"
+bsb: "So Jacob went to his father and said, “My father.” “Here I am!” he answered. “Which one are you, my son?”"
+hebrew: "וַיָּבֹ֥א אֶל־ אָבִ֖יו וַיֹּ֣אמֶר אָבִ֑י וַיֹּ֣אמֶר הִנֶּ֔נִּי מִ֥י אַתָּ֖ה בְּנִֽי׃"
+pericope: "[[Gen.27.1 Isaac Blesses Jacob|Isaac Blesses Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H9020]]"
+- "[[H2009]]"
+- "[[H9040]]"
+- "[[H4310]]"
+- "[[H0859A]]"
+- "[[H1121A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:18**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he came unto his father, and said, My father: and he said, Here [am] I; who [art] thou, my son?
 <small><sub>**BSB:**</sub></small>
 So Jacob went to his father and said, “My father.” “Here I am!” he answered. “Which one are you, my son?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֥א]] [[H0413\|אֶל]][[H9014\|־]] [[H0001G\|אָבִ֖י]][[H9023\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0001G\|אָבִ֑]][[H9020\|י]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H2009\|הִנֶּ֔נִּ]][[H9040\|י]] [[H4310\|מִ֥י]] [[H0859A\|אַתָּ֖ה]] [[H1121A\|בְּנִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DECEPTION|DECEPTION]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FAMILY|FAMILY]] • [[topic ISAAC|ISAAC]] • [[topic JACOB|JACOB]] • [[topic PARENTS|PARENTS]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.17|<< Genesis 27:17]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.19|Genesis 27:19 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: 2 Kings 3:9
+type: Verse
+kjv: "So the king of Israel went, and the king of Judah, and the king of Edom: and they fetched a compass of seven days’ journey: and there was no water for the host, and for the cattle that followed them."
+bsb: "So the king of Israel, the king of Judah, and the king of Edom set out, and after they had traveled a roundabout route for seven days, they had no water for their army or for their animals."
+hebrew: "וַיֵּלֶךְ֩ מֶ֨לֶךְ יִשְׂרָאֵ֤ל וּמֶֽלֶך־ יְהוּדָה֙ וּמֶ֣לֶךְ אֱד֔וֹם וַיָּסֹ֕בּוּ דֶּ֖רֶךְ שִׁבְעַ֣ת יָמִ֑ים וְלֹא־ הָיָ֨ה מַ֧יִם לַֽמַּחֲנֶ֛ה וְלַבְּהֵמָ֖ה אֲשֶׁ֥ר בְּרַגְלֵיהֶֽם׃"
+pericope: "[[2Kgs.3.1 Moab’s Rebellion|Moab’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 3
+book/chapter: "[[2Kgs.3|2 Kings 3]]"
+chronological_order: 575
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic COMMISSARY|COMMISSARY]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic MOABITES|MOABITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H0123G]]"
+- "[[H5437H]]"
+- "[[H1870L]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H4325G]]"
+- "[[H9005]]"
+- "[[H4264]]"
+- "[[H0929]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H7272]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 3:9**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the king of Israel went, and the king of Judah, and the king of Edom: and they fetched a compass of seven days’ journey: and there was no water for the host, and for the cattle that followed them.
 <small><sub>**BSB:**</sub></small>
 So the king of Israel, the king of Judah, and the king of Edom set out, and after they had traveled a roundabout route for seven days, they had no water for their army or for their animals.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּלֶךְ֩]] [[H4428G\|מֶ֨לֶךְ]] [[H3478\|יִשְׂרָאֵ֤ל]] [[H9002\|וּ]][[H4428G\|מֶֽלֶך]][[H9014\|־]] [[H3063G\|יְהוּדָה֙]] [[H9002\|וּ]][[H4428G\|מֶ֣לֶךְ]] [[H0123G\|אֱד֔וֹם]] [[H9001\|וַ]][[H5437H\|יָּסֹ֕בּוּ]] [[H1870L\|דֶּ֖רֶךְ]] [[H7651\|שִׁבְעַ֣ת]] [[H3117G\|יָמִ֑ים]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָיָ֨ה]] [[H4325G\|מַ֧יִם]] [[H9005\|לַֽ]][[H4264\|מַּחֲנֶ֛ה]] [[H9002\|וְ]][[H9005\|לַ]][[H0929\|בְּהֵמָ֖ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בְּ]][[H7272\|רַגְלֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMISSARY|COMMISSARY]] • [[topic EDOMITES|EDOMITES]] • [[topic MOABITES|MOABITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.8|<< 2 Kings 3:8]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.10|2 Kings 3:10 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Othniel
+type: Pericope
 pericope: "[[Judg.3.7 Othniel|Othniel]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 3
 book/chapter: "[[Judg.3|Judges 3]]"
-genre:
+chronological_order: 257
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 5
 verses:
 - "[[Judg.3.7]]"
 - "[[Judg.3.8]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Judg.3.11]]"
 ---
 
-[[Judg.3|Judges 3:7 - Judges 3:11]]
+<small>[[Judg.3|Judges 3:7-11]]</small>
 *Othniel*
 
 [[Judg.3.7|7]] And the children of Israel did evil in the sight of the LORD, and forgat the LORD their God, and served Baalim and the groves.

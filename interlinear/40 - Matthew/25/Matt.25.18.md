@@ -1,10 +1,70 @@
+---
+title: Matthew 25:18
+type: Verse
+kjv: "But he that had received one went and digged in the earth, and hid his lord’s money."
+bsb: "But the servant who had received the one talent went off, dug a hole in the ground, and hid his master’s money."
+jesus_said: "But he that had received one went and digged in the earth, and hid his lord’s money."
+greek: "ὁ δὲ τὸ ἓν λαβὼν ἀπελθὼν ὤρυξεν ἐν τῇ γῆν καὶ ἔκρυψεν τὸ ἀργύριον τοῦ κυρίου αὐτοῦ."
+pericope: "[[Matt.25.14 The Parable of the Talents|The Parable of the Talents]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STEWARD|STEWARD]]"
+- "[[topic TRUSTEE|TRUSTEE]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1520]]"
+- "[[G2983]]"
+- "[[G0565]]"
+- "[[G3736]]"
+- "[[G1722]]"
+- "[[G1093I]]"
+- "[[G2532]]"
+- "[[G2928]]"
+- "[[G0694]]"
+- "[[G2962H]]"
+- "[[G0846]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Matthew 25:18**<big><big>[[Matt.25.14 The Parable of the Talents|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he that had received one went and digged in the earth, and hid his lord’s money.
 <small><sub>**BSB:**</sub></small>
 But the servant who had received the one talent went off, dug a hole in the ground, and hid his master’s money.
-<small><sub>**Literal:**</sub></small>
-<The> however <the> one having received having gone away he dug in in the ground and he hid the money of the master of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.17|<< Matthew 25:17]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.19|Matthew 25:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G3588\|τὸ]]  [[G1520\|ἓν]]  [[G2983\|λαβὼν]]  [[G0565\|ἀπελθὼν]]  [[G3736\|ὤρυξεν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1093I\|γῆν]]  [[G2532\|καὶ]]  [[G2928\|ἔκρυψεν]]  [[G3588\|τὸ]]  [[G0694\|ἀργύριον]]  [[G3588\|τοῦ]]  [[G2962H\|κυρίου]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITHFULNESS|FAITHFULNESS]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic MONEY|MONEY]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PROBATION|PROBATION]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SERVANT|SERVANT]] • [[topic STEWARD|STEWARD]] • [[topic TRUSTEE|TRUSTEE]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.17|<< Matthew 25:17]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.19|Matthew 25:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

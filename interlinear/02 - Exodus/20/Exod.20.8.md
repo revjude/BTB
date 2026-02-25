@@ -1,8 +1,60 @@
+---
+title: Exodus 20:8
+type: Verse
+kjv: "Remember the sabbath day, to keep it holy."
+bsb: "Remember the Sabbath day by keeping it holy."
+hebrew: "זָכ֛וֹר֩ אֶת־ י֥֨וֹם הַשַּׁבָּ֖֜ת לְקַדְּשֽׁ֗וֹ׃"
+pericope: "[[Exod.20.1 The Ten Commandments|The Ten Commandments]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 20
+book/chapter: "[[Exod.20|Exodus 20]]"
+chronological_order: 112
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic LAW|LAW]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic TABLE|TABLE]]"
+strongs:
+- "[[H2142]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7676]]"
+- "[[H9005]]"
+- "[[H6942G]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L(p)
+- L
+---
+
 **Exodus 20:8**<big><big>[[Exod.20.1 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember the sabbath day, to keep it holy.
 <small><sub>**BSB:**</sub></small>
 Remember the Sabbath day by keeping it holy.
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|זָכ֛וֹר֩]] [[H0853\|אֶת]][[H9014\|־]] [[H3117G\|י֥֨וֹם]] [[H9009\|הַ]][[H7676\|שַּׁבָּ֖֜ת]] [[H9005\|לְ]][[H6942G\|קַדְּשֽׁ֗]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECALOGUE|DECALOGUE]] • [[topic LAW|LAW]] • [[topic SABBATH|SABBATH]] • [[topic TABLE|TABLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.20.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.7|<< Exodus 20:7]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.9|Exodus 20:9 >>]]</td></tr></table>
 

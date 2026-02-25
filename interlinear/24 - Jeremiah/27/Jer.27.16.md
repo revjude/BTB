@@ -1,8 +1,77 @@
+---
+title: Jeremiah 27:16
+type: Verse
+kjv: "Also I spake to the priests and to all this people, saying, Thus saith the LORD; Hearken not to the words of your prophets that prophesy unto you, saying, Behold, the vessels of the LORD’S house shall now shortly be brought again from Babylon: for they prophesy a lie unto you."
+bsb: "Then I said to the priests and to all this people, “This is what the LORD says: Do not listen to the words of your prophets who prophesy to you, saying, ‘Look, very soon now the articles from the house of the LORD will be brought back from Babylon.’ They are prophesying to you a lie."
+hebrew: "וְאֶל־ הַכֹּהֲנִים֩ וְאֶל־ כָּל־ הָעָ֨ם הַזֶּ֜ה דִּבַּ֣רְתִּי לֵאמֹ֗ר כֹּה֮ אָמַ֣ר יְהוָה֒ אַֽל־ תִּשְׁמְע֞וּ אֶל־ דִּבְרֵ֣י נְבִֽיאֵיכֶ֗ם הַֽנִּבְּאִ֤ים לָכֶם֙ לֵאמֹ֔ר הִנֵּ֨ה כְלֵ֧י בֵית־ יְהוָ֛ה מוּשָׁבִ֥ים מִבָּבֶ֖לָה עַתָּ֣ה מְהֵרָ֑ה כִּ֣י שֶׁ֔קֶר הֵ֖מָּה נִבְּאִ֥ים לָכֶֽם׃"
+pericope: "[[Jer.27.1 The Yoke of Nebuchadnezzar|The Yoke of Nebuchadnezzar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 27
+book/chapter: "[[Jer.27|Jeremiah 27]]"
+chronological_order: 750
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H1696G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H0408]]"
+- "[[H8085G]]"
+- "[[H1697G]]"
+- "[[H5030]]"
+- "[[H9026]]"
+- "[[H5012]]"
+- "[[H9036]]"
+- "[[H2009]]"
+- "[[H3627]]"
+- "[[H1004Q]]"
+- "[[H7725G]]"
+- "[[H9006]]"
+- "[[H0894]]"
+- "[[H9011]]"
+- "[[H6258]]"
+- "[[H4120]]"
+- "[[H3588A]]"
+- "[[H8267]]"
+- "[[H1992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 27:16**<big><big>[[Jer.27.1 The Yoke of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also I spake to the priests and to all this people, saying, Thus saith the LORD; Hearken not to the words of your prophets that prophesy unto you, saying, Behold, the vessels of the LORD’S house shall now shortly be brought again from Babylon: for they prophesy a lie unto you.
 <small><sub>**BSB:**</sub></small>
 Then I said to the priests and to all this people, “This is what the LORD says: Do not listen to the words of your prophets who prophesy to you, saying, ‘Look, very soon now the articles from the house of the LORD will be brought back from Babylon.’ They are prophesying to you a lie.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֲנִים֩]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֨ם]] [[H9009\|הַ]][[H2088\|זֶּ֜ה]] [[H1696G\|דִּבַּ֣רְתִּי]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H3541\|כֹּה֮]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָה֒]] [[H0408\|אַֽל]][[H9014\|־]] [[H8085G\|תִּשְׁמְע֞וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H1697G\|דִּבְרֵ֣י]] [[H5030\|נְבִֽיאֵי]][[H9026\|כֶ֗ם]] [[H9009\|הַֽ]][[H5012\|נִּבְּאִ֤ים]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H2009\|הִנֵּ֨ה]] [[H3627\|כְלֵ֧י]] [[H1004Q\|בֵית]][[H9014\|־]] [[H3068G\|יְהוָ֛ה]] [[H7725G\|מוּשָׁבִ֥ים]] [[H9006\|מִ]][[H0894\|בָּבֶ֖לָ]][[H9011\|ה]] [[H6258\|עַתָּ֣ה]] [[H4120\|מְהֵרָ֑ה]] [[H3588A\|כִּ֣י]] [[H8267\|שֶׁ֔קֶר]] [[H1992\|הֵ֖מָּה]] [[H5012\|נִבְּאִ֥ים]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TEMPLE|TEMPLE]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.27.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.27.15|<< Jeremiah 27:15]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.17|Jeremiah 27:17 >>]]</td></tr></table>
 

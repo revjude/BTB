@@ -1,8 +1,60 @@
+---
+title: Job 11:20
+type: Verse
+kjv: "But the eyes of the wicked shall fail, and they shall not escape, and their hope shall be as the giving up of the ghost."
+bsb: "But the eyes of the wicked will fail, and escape will elude them; they will hope for their last breath.”"
+hebrew: "וְעֵינֵ֥י רְשָׁעִ֗ים תִּ֫כְלֶ֥ינָה וּ֭מָנוֹס אָבַ֣ד מִנְהֶ֑ם וְ֝תִקְוָתָ֗ם מַֽפַּח־ נָֽפֶשׁ׃ פ"
+pericope: "[[Job.11.1 Zophar Rebukes Job|Zophar Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 11
+book/chapter: "[[Job.11|Job 11]]"
+chronological_order: 22
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H5869A]]"
+- "[[H7563]]"
+- "[[H3615J]]"
+- "[[H4498]]"
+- "[[H0006]]"
+- "[[H4480A]]"
+- "[[H9038]]"
+- "[[H8615B]]"
+- "[[H9028]]"
+- "[[H4646]]"
+- "[[H9014]]"
+- "[[H5315H]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Job 11:20**<big><big>[[Job.11.1 Zophar Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the eyes of the wicked shall fail, and they shall not escape, and their hope [shall be as] the giving up of the ghost.
 <small><sub>**BSB:**</sub></small>
 But the eyes of the wicked will fail, and escape will elude them; they will hope for their last breath.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5869A\|עֵינֵ֥י]] [[H7563\|רְשָׁעִ֗ים]] [[H3615J\|תִּ֫כְלֶ֥ינָה]] [[H9002\|וּ֭]][[H4498\|מָנוֹס]] [[H0006\|אָבַ֣ד]] [[H4480A\|מִנְ]][[H9038\|הֶ֑ם]] [[H9002\|וְ֝]][[H8615B\|תִקְוָתָ֗]][[H9028\|ם]] [[H4646\|מַֽפַּח]][[H9014\|־]] [[H5315H\|נָֽפֶשׁ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic HOPE|HOPE]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.19|<< Job 11:19]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.12.1|Job 12:1 >>]]</td></tr></table>
 
@@ -16,7 +68,7 @@ But the eyes of the wicked will fail, and escape will elude them; they will hope
 | from them  |**<big>&#8207;[[H4480A\|מִנְ]]&#8207;&#8207;[[H9038\|הֶ֑ם]]&#8207; </big>**| min.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and hope their  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H8615B\|תִקְוָתָ֗]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tik.va.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] a gasp of  |**<big>&#8207;[[H4646\|מַֽפַּח]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ma.pach-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| life  |**<big>&#8207;[[H5315H\|נָֽפֶשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Na.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| life  |**<big>&#8207;[[H5315H\|נָֽפֶשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Na.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.19|<< Job 11:19]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.12.1|Job 12:1 >>]]</td></tr></table>
 
 

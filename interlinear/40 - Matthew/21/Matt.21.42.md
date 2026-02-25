@@ -1,10 +1,76 @@
+---
+title: Matthew 21:42
+type: Verse
+kjv: "Jesus saith unto them, Did ye never read in the scriptures, The stone which the builders rejected, the same is become the head of the corner: this is the Lord’s doing, and it is marvellous in our eyes?"
+bsb: "Jesus said to them, “Have you never read in the Scriptures: ‘The stone the builders rejected has become the cornerstone. This is from the Lord, and it is marvelous in our eyes’?"
+jesus_said: "Did ye never read in the scriptures, The stone which the builders rejected, the same is become the head of the corner: this is the Lord’s doing, and it is marvellous in our eyes?"
+greek: "Λέγει αὐτοῖς ὁ Ἰησοῦς· οὐδέποτε ἀνέγνωτε ἐν ταῖς γραφαῖς· λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες, οὗτος ἐγενήθη εἰς κεφαλὴν γωνίας. παρὰ κυρίου ἐγένετο αὕτη, καὶ ἔστιν θαυμαστὴ ἐν ὀφθαλμοῖς ἡμῶν;¶"
+pericope: "[[Matt.21.33 The Parable of the Wicked Tenants|The Parable of the Wicked Tenants]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 21
+book/chapter: "[[Matt.21|Matthew 21]]"
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BUILDER|BUILDER]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CORNERSTONE|CORNERSTONE]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic HUSBANDMAN|HUSBANDMAN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic STONES|STONES]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3763]]"
+- "[[G0314]]"
+- "[[G1722]]"
+- "[[G1124]]"
+- "[[G3037]]"
+- "[[G3739]]"
+- "[[G0593]]"
+- "[[G3618]]"
+- "[[G3778]]"
+- "[[G1096]]"
+- "[[G1519]]"
+- "[[G2776]]"
+- "[[G1137]]"
+- "[[G3844]]"
+- "[[G2962G]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G2298]]"
+- "[[G3788]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **Matthew 21:42**<big><big>[[Matt.21.33 The Parable of the Wicked Tenants|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus saith unto them, Did ye never read in the scriptures, The stone which the builders rejected, the same is become the head of the corner: this is the Lord’s doing, and it is marvellous in our eyes?
 <small><sub>**BSB:**</sub></small>
 Jesus said to them, “Have you never read in the Scriptures: ‘The stone the builders rejected has become the cornerstone. This is from the Lord, and it is marvelous in our eyes’?
-<small><sub>**Literal:**</sub></small>
-Says to them <the> Jesus; surely sometime you did read in the Scriptures: [The] stone which rejected those building, this has become the chief corner. From [the] Lord was this, and it is marvelous in [the] eyes of us?’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.41|<< Matthew 21:41]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.43|Matthew 21:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Λέγει]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G3763\|οὐδέποτε]]  [[G0314\|ἀνέγνωτε]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G1124\|γραφαῖς·]]  [[G3037\|λίθον]]  [[G3739\|ὃν]]  [[G0593\|ἀπεδοκίμασαν]]  [[G3588\|οἱ]]  [[G3618\|οἰκοδομοῦντες,]]  [[G3778\|οὗτος]]  [[G1096\|ἐγενήθη]]  [[G1519\|εἰς]]  [[G2776\|κεφαλὴν]]  [[G1137\|γωνίας.]]  [[G3844\|παρὰ]]  [[G2962G\|κυρίου]]  [[G1096\|ἐγένετο]]  [[G3778\|αὕτη,]]  [[G2532\|καὶ]]  [[G1510\|ἔστιν]]  [[G2298\|θαυμαστὴ]]  [[G1722\|ἐν]]  [[G3788\|ὀφθαλμοῖς]]  [[G3165\|ἡμῶν;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BUILDER|BUILDER]] • [[topic CHURCH|CHURCH]] • [[topic CORNERSTONE|CORNERSTONE]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic HUSBANDMAN|HUSBANDMAN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REPROOF|REPROOF]] • [[topic STONES|STONES]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.41|<< Matthew 21:41]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.43|Matthew 21:43 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 21:42** is...
 > $\quad$ referencing: [[LXX.Ps.118.22|Ps 118:22-23]]

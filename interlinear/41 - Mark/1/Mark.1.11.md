@@ -1,10 +1,55 @@
+---
+title: Mark 1:11
+type: Verse
+kjv: "And there came a voice from heaven, saying, Thou art my beloved Son, in whom I am well pleased."
+bsb: "And a voice came from heaven: “You are My beloved Son; in You I am well pleased.”"
+greek: "καὶ φωνὴ ἐγένετο ἐκ τῶν οὐρανῶν· σὺ εἶ ὁ υἱός μου ὁ ἀγαπητός, ἐν σοὶ εὐδόκησα.¶"
+pericope: "[[Mark.1.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 1
+book/chapter: "[[Mark.1|Mark 1]]"
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G2532]]"
+- "[[G5456G]]"
+- "[[G1096]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G5207]]"
+- "[[G3165]]"
+- "[[G0027]]"
+- "[[G1722]]"
+- "[[G2106]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Mark 1:11**<big><big>[[Mark.1.1 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there came a voice from heaven, [saying], Thou art my beloved Son, in whom I am well pleased.
 <small><sub>**BSB:**</sub></small>
 And a voice came from heaven: “You are My beloved Son; in You I am well pleased.”
-<small><sub>**Literal:**</sub></small>
-And a voice came out of the heavens: You yourself are the Son of Mine the beloved, in you I am well pleased.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.10|<< Mark 1:10]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.12|Mark 1:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5456G\|φωνὴ]]  [[G1096\|ἐγένετο]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G3772\|οὐρανῶν·]]  [[G4771\|σὺ]]  [[G1510\|εἶ]]  [[G3588\|ὁ]]  [[G5207\|υἱός]]  [[G3165\|μου]]  [[G3588\|ὁ]]  [[G0027\|ἀγαπητός,]]  [[G1722\|ἐν]]  [[G4771\|σοὶ]]  [[G2106\|εὐδόκησα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.10|<< Mark 1:10]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.12|Mark 1:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 1:11** is...
 > $\quad$ alluding to: [[LXX.Gen.22.2|Gen 22:2]] ☩ [[LXX.Ps.2.7|Ps 2:7]] ☩ [[LXX.Isa.42.1|Isa 42:1]]

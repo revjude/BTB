@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Cleansing the Camps
+type: Pericope
 pericope: "[[Num.5.1 Cleansing the Camps|Cleansing the Camps]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 5
 book/chapter: "[[Num.5|Numbers 5]]"
-genre:
+chronological_order: 164
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 4
 verses:
 - "[[Num.5.1]]"
 - "[[Num.5.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Num.5.4]]"
 ---
 
-[[Num.5|Numbers 5:1 - Numbers 5:4]]
+<small>[[Num.5|Numbers 5:1-4]]</small>
 *Cleansing the Camps*
 
 [[Num.5.1|1]] And the LORD spake unto Moses, saying,

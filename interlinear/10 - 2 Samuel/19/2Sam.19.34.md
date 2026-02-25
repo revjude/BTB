@@ -1,8 +1,62 @@
+---
+title: 2 Samuel 19:34
+type: Verse
+kjv: "And Barzillai said unto the king, How long have I to live, that I should go up with the king unto Jerusalem?"
+bsb: "But Barzillai replied, “How many years of my life remain, that I should go up to Jerusalem with the king?"
+hebrew: "וַיֹּ֥אמֶר בַּרְזִלַּ֖י אֶל־ הַמֶּ֑לֶךְ כַּמָּ֗ה יְמֵי֙ שְׁנֵ֣י חַיַּ֔י כִּי־ אֶעֱלֶ֥ה אֶת־ הַמֶּ֖לֶךְ יְרוּשָׁלִָֽם׃"
+pericope: "[[2Sam.19.31 David’s Kindness to Barzillai|David’s Kindness to Barzillai]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 19
+book/chapter: "[[2Sam.19|2 Samuel 19]]"
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic BARZILLAI|BARZILLAI]]"
+- "[[topic CONTENTMENT|CONTENTMENT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic OLD AGE|OLD AGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1271G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9004]]"
+- "[[H4100]]"
+- "[[H3117I]]"
+- "[[H8141]]"
+- "[[H2416E]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H5927G]]"
+- "[[H0854]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 19:34**<big><big>[[2Sam.19.31 David’s Kindness to Barzillai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Barzillai said unto the king, How long have I to live, that I should go up with the king unto Jerusalem?
 <small><sub>**BSB:**</sub></small>
 But Barzillai replied, “How many years of my life remain, that I should go up to Jerusalem with the king?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H1271G\|בַּרְזִלַּ֖י]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9004\|כַּ]][[H4100\|מָּ֗ה]] [[H3117I\|יְמֵי֙]] [[H8141\|שְׁנֵ֣י]] [[H2416E\|חַיַּ֔]][[H9020\|י]] [[H3588A\|כִּי]][[H9014\|־]] [[H5927G\|אֶעֱלֶ֥ה]] [[H0854\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARZILLAI|BARZILLAI]] • [[topic CONTENTMENT|CONTENTMENT]] • [[topic DAVID|DAVID]] • [[topic OLD AGE|OLD AGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.33|<< 2 Samuel 19:33]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.35|2 Samuel 19:35 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Proverbs 6:30
+type: Verse
+kjv: "Men do not despise a thief, if he steal to satisfy his soul when he is hungry;"
+bsb: "Men do not despise the thief if he steals to satisfy his hunger."
+hebrew: "לֹא־ יָב֣וּזוּ לַ֭גַּנָּב כִּ֣י יִגְנ֑וֹב לְמַלֵּ֥א נַ֝פְשׁ֗וֹ כִּ֣י יִרְעָֽב׃"
+pericope: "[[Prov.6.20 Warnings against Adultery|Warnings against Adultery]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 6
+book/chapter: "[[Prov.6|Proverbs 6]]"
+chronological_order: 461
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FINE|FINE]]"
+- "[[topic RESTITUTION|RESTITUTION]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0936]]"
+- "[[H9005]]"
+- "[[H1590]]"
+- "[[H3588A]]"
+- "[[H1589]]"
+- "[[H4390]]"
+- "[[H5315L]]"
+- "[[H9023]]"
+- "[[H7456]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 6:30**<big><big>[[Prov.6.20 Warnings against Adultery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Men] do not despise a thief, if he steal to satisfy his soul when he is hungry;
 <small><sub>**BSB:**</sub></small>
 Men do not despise the thief if he steals to satisfy his hunger.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H0936\|יָב֣וּזוּ]] [[H9005\|לַ֭]][[H1590\|גַּנָּב]] [[H3588A\|כִּ֣י]] [[H1589\|יִגְנ֑וֹב]] [[H9005\|לְ]][[H4390\|מַלֵּ֥א]] [[H5315L\|נַ֝פְשׁ֗]][[H9023\|וֹ]] [[H3588A\|כִּ֣י]] [[H7456\|יִרְעָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FINE|FINE]] • [[topic RESTITUTION|RESTITUTION]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.29|<< Proverbs 6:29]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.31|Proverbs 6:31 >>]]</td></tr></table>
 

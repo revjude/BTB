@@ -1,8 +1,73 @@
+---
+title: 1 Kings 13:21
+type: Verse
+kjv: "And he cried unto the man of God that came from Judah, saying, Thus saith the LORD, Forasmuch as thou hast disobeyed the mouth of the LORD, and hast not kept the commandment which the LORD thy God commanded thee,"
+bsb: "and the prophet cried out to the man of God who had come from Judah, “This is what the LORD says: ‘Because you have defied the word of the LORD and have not kept the commandment that the LORD your God gave you,"
+hebrew: "וַיִּקְרָ֞א אֶל־ אִ֣ישׁ הָאֱלֹהִ֗ים אֲשֶׁר־ בָּ֤א מִֽיהוּדָה֙ לֵאמֹ֔ר כֹּ֖ה אָמַ֣ר יְהוָ֑ה יַ֗עַן כִּ֤י מָרִ֙יתָ֙ פִּ֣י יְהוָ֔ה וְלֹ֤א שָׁמַ֙רְתָּ֙ אֶת־ הַמִּצְוָ֔ה אֲשֶׁ֥ר צִוְּךָ֖ יְהוָ֥ה אֱלֹהֶֽיךָ׃"
+pericope: "[[1Kgs.13.11 The Old Prophet and the Man of God|The Old Prophet and the Man of God]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 13
+book/chapter: "[[1Kgs.13|1 Kings 13]]"
+chronological_order: 552
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121I]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H0834A]]"
+- "[[H0935G]]"
+- "[[H9006]]"
+- "[[H3063G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H3282]]"
+- "[[H3588A]]"
+- "[[H4784]]"
+- "[[H6310I]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8104G]]"
+- "[[H0853]]"
+- "[[H4687]]"
+- "[[H6680]]"
+- "[[H9031]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 13:21**<big><big>[[1Kgs.13.11 The Old Prophet and the Man of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he cried unto the man of God that came from Judah, saying, Thus saith the LORD, Forasmuch as thou hast disobeyed the mouth of the LORD, and hast not kept the commandment which the LORD thy God commanded thee,
 <small><sub>**BSB:**</sub></small>
 and the prophet cried out to the man of God who had come from Judah, “This is what the LORD says: ‘Because you have defied the word of the LORD and have not kept the commandment that the LORD your God gave you,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121I\|יִּקְרָ֞א]] [[H0413\|אֶל]][[H9014\|־]] [[H0376G\|אִ֣ישׁ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֗ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֤א]] [[H9006\|מִֽ]][[H3063G\|יהוּדָה֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3541\|כֹּ֖ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֑ה]] [[H3282\|יַ֗עַן]] [[H3588A\|כִּ֤י]] [[H4784\|מָרִ֙יתָ֙]] [[H6310I\|פִּ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H8104G\|שָׁמַ֙רְתָּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4687\|מִּצְוָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H6680\|צִוְּ]][[H9031\|ךָ֖]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.13.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.13.20|<< 1 Kings 13:20]]</td><td align="center" style="border:none;">[[1Kgs.13|1 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.13.22|1 Kings 13:22 >>]]</td></tr></table>
 

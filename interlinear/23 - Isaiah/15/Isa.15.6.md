@@ -1,8 +1,55 @@
+---
+title: Isaiah 15:6
+type: Verse
+kjv: "For the waters of Nimrim shall be desolate: for the hay is withered away, the grass faileth, there is no green thing."
+bsb: "The waters of Nimrim are dried up, and the grass is withered; the vegetation is gone, and the greenery is no more."
+hebrew: "כִּֽי־ מֵ֥י נִמְרִ֖ים מְשַׁמּ֣וֹת יִֽהְי֑וּ כִּֽי־ יָבֵ֤שׁ חָצִיר֙ כָּ֣לָה דֶ֔שֶׁא יֶ֖רֶק לֹ֥א הָיָֽה׃"
+pericope: "[[Isa.15.1 The Burden against Moab|The Burden against Moab]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 15
+book/chapter: "[[Isa.15|Isaiah 15]]"
+chronological_order: 632
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic HAY|HAY]]"
+- "[[topic NIMRIM|NIMRIM]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H5249]]"
+- "[[H4923]]"
+- "[[H1961]]"
+- "[[H3001]]"
+- "[[H2682A]]"
+- "[[H3615J]]"
+- "[[H1877]]"
+- "[[H3418]]"
+- "[[H3808]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 15:6**<big><big>[[Isa.15.1 The Burden against Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the waters of Nimrim shall be desolate: for the hay is withered away, the grass faileth, there is no green thing.
 <small><sub>**BSB:**</sub></small>
 The waters of Nimrim are dried up, and the grass is withered; the vegetation is gone, and the greenery is no more.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H4325G\|מֵ֥י]] [[H5249\|נִמְרִ֖ים]] [[H4923\|מְשַׁמּ֣וֹת]] [[H1961\|יִֽהְי֑וּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3001\|יָבֵ֤שׁ]] [[H2682A\|חָצִיר֙]] [[H3615J\|כָּ֣לָה]] [[H1877\|דֶ֔שֶׁא]] [[H3418\|יֶ֖רֶק]] [[H3808\|לֹ֥א]] [[H1961\|הָיָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAY|HAY]] • [[topic NIMRIM|NIMRIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.15.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.15.5|<< Isaiah 15:5]]</td><td align="center" style="border:none;">[[Isa.15|Isaiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.15.7|Isaiah 15:7 >>]]</td></tr></table>
 

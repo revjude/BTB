@@ -1,8 +1,66 @@
+---
+title: Jeremiah 26:24
+type: Verse
+kjv: "Nevertheless the hand of Ahikam the son of Shaphan was with Jeremiah, that they should not give him into the hand of the people to put him to death."
+bsb: "Nevertheless, Ahikam son of Shaphan supported Jeremiah, so he was not handed over to the people to be put to death."
+hebrew: "אַ֗ךְ יַ֚ד אֲחִיקָ֣ם בֶּן־ שָׁפָ֔ן הָיְתָ֖ה אֶֽת־ יִרְמְיָ֑הוּ לְבִלְתִּ֛י תֵּת־ אֹת֥וֹ בְיַד־ הָעָ֖ם לַהֲמִיתֽוֹ׃ פ"
+pericope: "[[Jer.26.20 The Prophet Uriah|The Prophet Uriah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 26
+book/chapter: "[[Jer.26|Jeremiah 26]]"
+chronological_order: 749
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AHIKAM|AHIKAM]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic SHAPHAN|SHAPHAN]]"
+strongs:
+- "[[H0389]]"
+- "[[H3027G]]"
+- "[[H0296]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H8227B]]"
+- "[[H1961]]"
+- "[[H0854]]"
+- "[[H3414L]]"
+- "[[H9005]]"
+- "[[H1115]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H4191]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Jeremiah 26:24**<big><big>[[Jer.26.20 The Prophet Uriah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless the hand of Ahikam the son of Shaphan was with Jeremiah, that they should not give him into the hand of the people to put him to death.
 <small><sub>**BSB:**</sub></small>
 Nevertheless, Ahikam son of Shaphan supported Jeremiah, so he was not handed over to the people to be put to death.
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַ֗ךְ]] [[H3027G\|יַ֚ד]] [[H0296\|אֲחִיקָ֣ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H8227B\|שָׁפָ֔ן]] [[H1961\|הָיְתָ֖ה]] [[H0854\|אֶֽת]][[H9014\|־]] [[H3414L\|יִרְמְיָ֑הוּ]] [[H9005\|לְ]][[H1115\|בִלְתִּ֛י]] [[H5414G\|תֵּת]][[H9014\|־]] [[H0853\|אֹת֥]][[H9033\|וֹ]] [[H9003\|בְ]][[H3027G\|יַד]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9005\|לַ]][[H4191\|הֲמִיתֽ]][[H9033\|וֹ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIKAM|AHIKAM]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic JEREMIAH|JEREMIAH]] • [[topic SHAPHAN|SHAPHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.26.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.23|<< Jeremiah 26:23]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.1|Jeremiah 27:1 >>]]</td></tr></table>
 
@@ -21,7 +79,7 @@ Nevertheless, Ahikam son of Shaphan supported Jeremiah, so he was not handed ove
 | \<obj.> him  |**<big>&#8207;[[H0853\|אֹת֥]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] hand of  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H3027G\|יַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> yad-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֖ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to put to death him  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H4191\|הֲמִיתֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> ha.mi.T<small><sup>[[HVhcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to put to death him  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H4191\|הֲמִיתֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> ha.mi.T<small><sup>[[HVhcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.23|<< Jeremiah 26:23]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.1|Jeremiah 27:1 >>]]</td></tr></table>
 
 

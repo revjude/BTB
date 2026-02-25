@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Righteous Judgment
+type: Pericope
 pericope: "[[Ps.75.1 God’s Righteous Judgment|God’s Righteous Judgment]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 75
 book/chapter: "[[Ps.75|Psalm 75]]"
-genre:
+chronological_order: 507
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 11
 verses:
 - "[[Ps.75.0]]"
 - "[[Ps.75.1]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Ps.75.10]]"
 ---
 
-[[Ps.75|Psalm 75:1 - Psalm 75:10]]
+<small>[[Ps.75|Psalm 75:1-10]]</small>
 *God’s Righteous Judgment*
 
 [[Ps.75.0|0]] To the chief Musician, Altaschith, A Psalm \[or\] Song of Asaph.

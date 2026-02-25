@@ -1,8 +1,72 @@
+---
+title: Deuteronomy 10:15
+type: Verse
+kjv: "Only the LORD had a delight in thy fathers to love them, and he chose their seed after them, even you above all people, as it is this day."
+bsb: "Yet the LORD has set His affection on your fathers and loved them. And He has chosen you, their descendants after them, above all the peoples, even to this day."
+hebrew: "רַ֧ק בַּאֲבֹתֶ֛יךָ חָשַׁ֥ק יְהוָ֖ה לְאַהֲבָ֣ה אוֹתָ֑ם וַיִּבְחַ֞ר בְּזַרְעָ֣ם אַחֲרֵיהֶ֗ם בָּכֶ֛ם מִכָּל־ הָעַמִּ֖ים כַּיּ֥וֹם הַזֶּה׃"
+pericope: "[[Deut.10.12 A Call to Obedience|A Call to Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 10
+book/chapter: "[[Deut.10|Deuteronomy 10]]"
+chronological_order: 206
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+strongs:
+- "[[H7535]]"
+- "[[H9003]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H2836A]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H0157G]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H0977]]"
+- "[[H2233H]]"
+- "[[H9028]]"
+- "[[H0310A]]"
+- "[[H9036]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9004]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 10:15**<big><big>[[Deut.10.12 A Call to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only the LORD had a delight in thy fathers to love them, and he chose their seed after them, [even] you above all people, as [it is] this day.
 <small><sub>**BSB:**</sub></small>
 Yet the LORD has set His affection on your fathers and loved them. And He has chosen you, their descendants after them, above all the peoples, even to this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H7535\|רַ֧ק]] [[H9003\|בַּ]][[H0001G\|אֲבֹתֶ֛י]][[H9021\|ךָ]] [[H2836A\|חָשַׁ֥ק]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לְ]][[H0157G\|אַהֲבָ֣ה]] [[H0853\|אוֹתָ֑]][[H9038\|ם]] [[H9001\|וַ]][[H0977\|יִּבְחַ֞ר]] [[H9003\|בְּ]][[H2233H\|זַרְעָ֣]][[H9028\|ם]] [[H0310A\|אַחֲרֵי]][[H9038\|הֶ֗ם]] [[H9003\|בָּ]][[H9036\|כֶ֛ם]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עַמִּ֖ים]] [[H9004\|כַּ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic GOD|GOD]] • [[topic PREDESTINATION|PREDESTINATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.10.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.14|<< Deuteronomy 10:14]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.16|Deuteronomy 10:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,10 +1,59 @@
+---
+title: Matthew 2:19
+type: Verse
+kjv: "But when Herod was dead, behold, an angel of the Lord appeareth in a dream to Joseph in Egypt,"
+bsb: "After Herod died, an angel of the Lord appeared in a dream to Joseph in Egypt."
+greek: "Τελευτήσαντος δὲ τοῦ Ἡρῴδου ἰδοὺ ἄγγελος κυρίου φαίνεται κατ᾽ ὄναρ τῷ Ἰωσὴφ ἐν Αἰγύπτῳ"
+pericope: "[[Matt.2.19 The Return to Nazareth|The Return to Nazareth]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 2
+book/chapter: "[[Matt.2|Matthew 2]]"
+chronological_order: 932
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G5053]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2264G]]"
+- "[[G2400]]"
+- "[[G0032G]]"
+- "[[G2962G]]"
+- "[[G5316]]"
+- "[[G2596]]"
+- "[[G3677]]"
+- "[[G2501G]]"
+- "[[G1722]]"
+- "[[G0125]]"
+texts:
+- NKO
+---
+
 **Matthew 2:19**<big><big>[[Matt.2.19 The Return to Nazareth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when Herod was dead, behold, an angel of the Lord appeareth in a dream to Joseph in Egypt,
 <small><sub>**BSB:**</sub></small>
 After Herod died, an angel of the Lord appeared in a dream to Joseph in Egypt.
-<small><sub>**Literal:**</sub></small>
-When was dying now <the> Herod behold an angel of [the] Lord appears in a dream <the> to Joseph in Egypt<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.18|<< Matthew 2:18]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.20|Matthew 2:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5053\|Τελευτήσαντος]]  [[G1161\|δὲ]]  [[G3588\|τοῦ]]  [[G2264G\|Ἡρῴδου]]  [[G2400\|ἰδοὺ]]  [[G0032G\|ἄγγελος]]  [[G2962G\|κυρίου]]  [[G5316\|φαίνεται]]  [[G2596\|κατ᾽]]  [[G3677\|ὄναρ]]  [[G3588\|τῷ]]  [[G2501G\|Ἰωσὴφ]]  [[G1722\|ἐν]]  [[G0125\|Αἰγύπτῳ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic DREAM|DREAM]] • [[topic EGYPT|EGYPT]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.18|<< Matthew 2:18]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.20|Matthew 2:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

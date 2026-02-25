@@ -1,10 +1,58 @@
+---
+title: 1 Corinthians 7:13
+type: Verse
+kjv: "And the woman which hath an husband that believeth not, and if he be pleased to dwell with her, let her not leave him."
+bsb: "And if a woman has an unbelieving husband and he is willing to live with her, she must not divorce him."
+greek: "καὶ γυνὴ εἴ τις ἔχει ἄνδρα ἄπιστον καὶ οὗτος συνευδοκεῖ οἰκεῖν μετ᾽ αὐτῆς, μὴ ἀφιέτω τὸν ἄνδρα."
+pericope: "[[1Cor.7.1 Principles of Marriage|Principles of Marriage]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 7
+book/chapter: "[[1Cor.7|1 Corinthians 7]]"
+chronological_order: 1064
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1135G]]"
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G2192]]"
+- "[[G0435H]]"
+- "[[G0571]]"
+- "[[G3778]]"
+- "[[G4909]]"
+- "[[G3611]]"
+- "[[G3326]]"
+- "[[G0846]]"
+- "[[G3361]]"
+- "[[G0863G]]"
+- "[[G3588]]"
+texts:
+- NKO
+- NO
+- N(k)O
+---
+
 **1 Corinthians 7:13**<big><big>[[1Cor.7.1 Principles of Marriage|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the woman which hath an husband that believeth not, and if he be pleased to dwell with her, let her not leave him.
 <small><sub>**BSB:**</sub></small>
 And if a woman has an unbelieving husband and he is willing to live with her, she must not divorce him.
-<small><sub>**Literal:**</sub></small>
-And a woman if any has a husband unbelieving and he consents to dwell with her, not she should divorce the husband.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.12|<< 1 Corinthians 7:12]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.14|1 Corinthians 7:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1135G\|γυνὴ]]  [[G1487G\|εἴ]]  [[G5100\|τις]]  [[G2192\|ἔχει]]  [[G0435H\|ἄνδρα]]  [[G0571\|ἄπιστον]]  [[G2532\|καὶ]]  [[G3778\|οὗτος]]  [[G4909\|συνευδοκεῖ]]  [[G3611\|οἰκεῖν]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτῆς,]]  [[G3361\|μὴ]]  [[G0863G\|ἀφιέτω]]  [[G3588\|τὸν]]  [[G0435H\|ἄνδρα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIVORCE|DIVORCE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic WIFE|WIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.12|<< 1 Corinthians 7:12]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.14|1 Corinthians 7:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

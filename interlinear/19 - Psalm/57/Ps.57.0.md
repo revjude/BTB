@@ -1,6 +1,50 @@
+---
+title: Psalm 57:0
+type: Verse
+kjv: "To the chief Musician, Altaschith, Michtam of David, when he fled from Saul in the cave."
+hebrew: "לַמְנַצֵּ֣חַ אַל־ תַּ֭שְׁחֵת לְדָוִ֣ד מִכְתָּ֑ם בְּבָרְח֥וֹ מִפְּנֵי־ שָׁ֝א֗וּל בַּמְּעָרָֽה׃"
+pericope: "[[Ps.57.1 In You My Soul Takes Refuge|In You My Soul Takes Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 57
+book/chapter: "[[Ps.57|Psalm 57]]"
+chronological_order: 316
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9005]]"
+- "[[H5329]]"
+- "[[H0516]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H4387]]"
+- "[[H9003]]"
+- "[[H1272]]"
+- "[[H9043]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H7586G]]"
+- "[[H4631]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 57:0**<big><big>[[Ps.57.1 In You My Soul Takes Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To the chief Musician, Altaschith, Michtam of David, when he fled from Saul in the cave.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H5329\|מְנַצֵּ֣חַ]] [[H0516\|אַל]][[H9014\|־]] [[H0516\|תַּ֭שְׁחֵת]] [[H9005\|לְ]][[H1732\|דָוִ֣ד]] [[H4387\|מִכְתָּ֑ם]] [[H9003\|בְּ]][[H1272\|בָרְח֥]][[H9043\|וֹ]] [[H9006\|מִ]][[H6440G\|פְּנֵי]][[H9014\|־]] [[H7586G\|שָׁ֝א֗וּל]] [[H9003\|בַּ]][[H4631\|מְּעָרָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.57.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.56.13|<< Psalms 56:13]]</td><td align="center" style="border:none;">[[Ps.57|Psalms 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.57.1|Psalms 57:1 >>]]</td></tr></table>
 

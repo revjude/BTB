@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Challenges Job
+type: Pericope
 pericope: "[[Job.38.1 The LORD Challenges Job|The LORD Challenges Job]]"
-verse_count: 41
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 38
 book/chapter: "[[Job.38|Job 38]]"
-genre:
+chronological_order: 49
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 41
 verses:
 - "[[Job.38.1]]"
 - "[[Job.38.2]]"
@@ -60,7 +67,7 @@ verses:
 - "[[Job.38.41]]"
 ---
 
-[[Job.38|Job 38:1 - Job 38:41]]
+<small>[[Job.38|Job 38:1-41]]</small>
 *The LORD Challenges Job*
 
 [[Job.38.1|1]] Then the LORD answered Job out of the whirlwind, and said,

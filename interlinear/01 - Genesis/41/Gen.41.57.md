@@ -1,8 +1,66 @@
+---
+title: Genesis 41:57
+type: Verse
+kjv: "And all countries came into Egypt to Joseph for to buy corn; because that the famine was so sore in all lands."
+bsb: "And every nation came to Joseph in Egypt to buy grain, because the famine was severe over all the earth."
+hebrew: "וְכָל־ הָאָ֙רֶץ֙ בָּ֣אוּ מִצְרַ֔יְמָה לִשְׁבֹּ֖ר אֶל־ יוֹסֵ֑ף כִּֽי־ חָזַ֥ק הָרָעָ֖ב בְּכָל־ הָאָֽרֶץ׃"
+pericope: "[[Gen.41.53 The Famine Begins|The Famine Begins]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0935G]]"
+- "[[H4714G]]"
+- "[[H9011]]"
+- "[[H9005]]"
+- "[[H7666]]"
+- "[[H0413]]"
+- "[[H3130G]]"
+- "[[H3588A]]"
+- "[[H2388G]]"
+- "[[H7458]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:57**<big><big>[[Gen.41.53 The Famine Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all countries came into Egypt to Joseph for to buy [corn]; because that the famine was [so] sore in all lands.
 <small><sub>**BSB:**</sub></small>
 And every nation came to Joseph in Egypt to buy grain, because the famine was severe over all the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H0935G\|בָּ֣אוּ]] [[H4714G\|מִצְרַ֔יְמָ]][[H9011\|ה]] [[H9005\|לִ]][[H7666\|שְׁבֹּ֖ר]] [[H0413\|אֶל]][[H9014\|־]] [[H3130G\|יוֹסֵ֑ף]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2388G\|חָזַ֥ק]] [[H9009\|הָ]][[H7458\|רָעָ֖ב]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ECONOMICS|ECONOMICS]] • [[topic FAMINE|FAMINE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOSEPH|JOSEPH]] • [[topic PRUDENCE|PRUDENCE]] • [[topic RULERS|RULERS]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.57|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.56|<< Genesis 41:56]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.1|Genesis 42:1 >>]]</td></tr></table>
 

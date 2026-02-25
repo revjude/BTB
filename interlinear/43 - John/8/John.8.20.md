@@ -1,10 +1,58 @@
+---
+title: John 8:20
+type: Verse
+kjv: "These words spake Jesus in the treasury, as he taught in the temple: and no man laid hands on him; for his hour was not yet come."
+bsb: "He spoke these words while teaching in the temple courts, near the treasury. Yet no one seized Him, because His hour had not yet come."
+greek: "ταῦτα τὰ ῥήματα ἐλάλησεν ὁ Ἰησοῦς ἐν τῷ γαζοφυλακίῳ διδάσκων ἐν τῷ ἱερῷ, καὶ οὐδεὶς ἐπίασεν αὐτόν, ὅτι οὔπω ἐληλύθει ἡ ὥρα αὐτοῦ.¶"
+pericope: "[[John.8.12 Jesus the Light of the World|Jesus the Light of the World]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G4487]]"
+- "[[G2980]]"
+- "[[G2424G]]"
+- "[[G1722]]"
+- "[[G1049]]"
+- "[[G1321]]"
+- "[[G2411]]"
+- "[[G2532]]"
+- "[[G3762]]"
+- "[[G4084]]"
+- "[[G0846]]"
+- "[[G3754H]]"
+- "[[G3768]]"
+- "[[G2064]]"
+- "[[G5610]]"
+texts:
+- NKO
+- k
+---
+
 **John 8:20**<big><big>[[John.8.12 Jesus the Light of the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 These words spake Jesus in the treasury, as he taught in the temple: and no man laid hands on him; for his hour was not yet come.
 <small><sub>**BSB:**</sub></small>
 He spoke these words while teaching in the temple courts, near the treasury. Yet no one seized Him, because His hour had not yet come.
-<small><sub>**Literal:**</sub></small>
-These <the> declarations He spoke <the> Jesus in the treasury teaching in the temple, and no [one] seized Him, for not yet had come the hour of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.19|<< John 8:19]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.21|John 8:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|ταῦτα]]  [[G3588\|τὰ]]  [[G4487\|ῥήματα]]  [[G2980\|ἐλάλησεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G1049\|γαζοφυλακίῳ]]  [[G1321\|διδάσκων]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2411\|ἱερῷ,]]  [[G2532\|καὶ]]  [[G3762\|οὐδεὶς]]  [[G4084\|ἐπίασεν]]  [[G0846\|αὐτόν,]]  [[G3754H\|ὅτι]]  [[G3768\|οὔπω]]  [[G2064\|ἐληλύθει]]  [[G3588\|ἡ]]  [[G5610\|ὥρα]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.19|<< John 8:19]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.21|John 8:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

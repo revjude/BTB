@@ -1,8 +1,70 @@
+---
+title: Leviticus 4:3
+type: Verse
+kjv: "If the priest that is anointed do sin according to the sin of the people; then let him bring for his sin, which he hath sinned, a young bullock without blemish unto the LORD for a sin offering."
+bsb: "If the anointed priest sins, bringing guilt on the people, he must bring to the LORD a young bull without blemish as a sin offering for the sin he has committed."
+hebrew: "אִ֣ם הַכֹּהֵ֧ן הַמָּשִׁ֛יחַ יֶחֱטָ֖א לְאַשְׁמַ֣ת הָעָ֑ם וְהִקְרִ֡יב עַ֣ל חַטָּאתוֹ֩ אֲשֶׁ֨ר חָטָ֜א פַּ֣ר בֶּן־ בָּקָ֥ר תָּמִ֛ים לַיהוָ֖ה לְחַטָּֽאת׃"
+pericope: "[[Lev.4.1 Laws for Sin Offerings|Laws for Sin Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 4
+book/chapter: "[[Lev.4|Leviticus 4]]"
+chronological_order: 136
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H4899]]"
+- "[[H2398]]"
+- "[[H9005]]"
+- "[[H0819]]"
+- "[[H5971A]]"
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H5921A]]"
+- "[[H2403B]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H6499]]"
+- "[[H1121H]]"
+- "[[H9014]]"
+- "[[H1241]]"
+- "[[H8549G]]"
+- "[[H3068G]]"
+- "[[H2403H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 4:3**<big><big>[[Lev.4.1 Laws for Sin Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If the priest that is anointed do sin according to the sin of the people; then let him bring for his sin, which he hath sinned, a young bullock without blemish unto the LORD for a sin offering.
 <small><sub>**BSB:**</sub></small>
 If the anointed priest sins, bringing guilt on the people, he must bring to the LORD a young bull without blemish as a sin offering for the sin he has committed.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִ֣ם]] [[H9009\|הַ]][[H3548\|כֹּהֵ֧ן]] [[H9009\|הַ]][[H4899\|מָּשִׁ֛יחַ]] [[H2398\|יֶחֱטָ֖א]] [[H9005\|לְ]][[H0819\|אַשְׁמַ֣ת]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H9001\|וְ]][[H7126H\|הִקְרִ֡יב]] [[H5921A\|עַ֣ל]] [[H2403B\|חַטָּאת]][[H9023\|וֹ֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H2398\|חָטָ֜א]] [[H6499\|פַּ֣ר]] [[H1121H\|בֶּן]][[H9014\|־]] [[H1241\|בָּקָ֥ר]] [[H8549G\|תָּמִ֛ים]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H9005\|לְ]][[H2403H\|חַטָּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic IGNORANCE|IGNORANCE]] • [[topic PRIEST|PRIEST]] • [[topic TYPES|TYPES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.2|<< Leviticus 4:2]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.4|Leviticus 4:4 >>]]</td></tr></table>
 

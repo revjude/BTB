@@ -1,8 +1,70 @@
+---
+title: Genesis 32:19
+type: Verse
+kjv: "And so commanded he the second, and the third, and all that followed the droves, saying, On this manner shall ye speak unto Esau, when ye find him."
+bsb: "He also instructed the second, the third, and all those following behind the herds: “When you meet Esau, you are to say the same thing to him."
+hebrew: "וַיְצַ֞ו גַּ֣ם אֶת־ הַשֵּׁנִ֗י גַּ֚ם אֶת־ הַשְּׁלִישִׁ֔י גַּ֚ם אֶת־ כָּל־ הַהֹ֣לְכִ֔ים אַחֲרֵ֥י הָעֲדָרִ֖ים לֵאמֹ֑ר כַּדָּבָ֤ר הַזֶּה֙ תְּדַבְּר֣וּן אֶל־ עֵשָׂ֔ו בְּמֹצַאֲכֶ֖ם אֹתֽוֹ׃"
+pericope: "[[Gen.32.1 Jacob Prepares to Meet Esau|Jacob Prepares to Meet Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 32
+book/chapter: "[[Gen.32|Genesis 32]]"
+chronological_order: 74
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H1571]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8145]]"
+- "[[H7992]]"
+- "[[H3605]]"
+- "[[H1980N]]"
+- "[[H0310A]]"
+- "[[H5739]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9004]]"
+- "[[H1697O]]"
+- "[[H2088]]"
+- "[[H1696G]]"
+- "[[H9013]]"
+- "[[H0413]]"
+- "[[H6215G]]"
+- "[[H9003]]"
+- "[[H4672]]"
+- "[[H9046]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 32:19**<big><big>[[Gen.32.1 Jacob Prepares to Meet Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And so commanded he the second, and the third, and all that followed the droves, saying, On this manner shall ye speak unto Esau, when ye find him.
 <small><sub>**BSB:**</sub></small>
 He also instructed the second, the third, and all those following behind the herds: “When you meet Esau, you are to say the same thing to him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַ֞ו]] [[H1571\|גַּ֣ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֗י]] [[H1571\|גַּ֚ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁ֔י]] [[H1571\|גַּ֚ם]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1980N\|הֹ֣לְכִ֔ים]] [[H0310A\|אַחֲרֵ֥י]] [[H9009\|הָ]][[H5739\|עֲדָרִ֖ים]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H9004\|כַּ]][[H1697O\|דָּבָ֤ר]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H1696G\|תְּדַבְּר֣וּ]][[H9013\|ן]] [[H0413\|אֶל]][[H9014\|־]] [[H6215G\|עֵשָׂ֔ו]] [[H9003\|בְּ]][[H4672\|מֹצַאֲ]][[H9046\|כֶ֖ם]] [[H0853\|אֹתֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.18|<< Genesis 32:18]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.20|Genesis 32:20 >>]]</td></tr></table>
 

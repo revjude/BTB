@@ -1,10 +1,56 @@
+---
+title: Luke 5:23
+type: Verse
+kjv: "Whether is easier, to say, Thy sins be forgiven thee; or to say, Rise up and walk?"
+bsb: "Which is easier: to say, ‘Your sins are forgiven,’ or to say, ‘Get up and walk’?"
+jesus_said: "Whether is easier, to say, Thy sins be forgiven thee; or to say, Rise up and walk?"
+greek: "τί ἐστιν εὐκοπώτερον, εἰπεῖν· ἀφέωνταί σοι αἱ ἁμαρτίαι σου, ἢ εἰπεῖν· ἔγειρε καὶ περιπάτει;"
+pericope: "[[Luke.5.17 Jesus Heals a Paralytic|Jesus Heals a Paralytic]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 5
+book/chapter: "[[Luke.5|Luke 5]]"
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G2123]]"
+- "[[G2036]]"
+- "[[G0863H]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G0266]]"
+- "[[G2228]]"
+- "[[G1453]]"
+- "[[G2532]]"
+- "[[G4043]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 5:23**<big><big>[[Luke.5.17 Jesus Heals a Paralytic|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whether is easier, to say, Thy sins be forgiven thee; or to say, Rise up and walk?
 <small><sub>**BSB:**</sub></small>
 Which is easier: to say, ‘Your sins are forgiven,’ or to say, ‘Get up and walk’?
-<small><sub>**Literal:**</sub></small>
-Which is easier, to say; Have been forgiven you the sins of you, or to say; do arise and do walk?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.22|<< Luke 5:22]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.24|Luke 5:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τί]]  [[G1510\|ἐστιν]]  [[G2123\|εὐκοπώτερον,]]  [[G2036\|εἰπεῖν·]]  [[G0863H\|ἀφέωνταί]]  [[G4771\|σοι]]  [[G3588\|αἱ]]  [[G0266\|ἁμαρτίαι]]  [[G4771\|σου,]]  [[G2228\|ἢ]]  [[G2036\|εἰπεῖν·]]  [[G1453\|ἔγειρε]]  [[G2532\|καὶ]]  [[G4043\|περιπάτει;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.22|<< Luke 5:22]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.24|Luke 5:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,55 @@
+---
+title: Romans 10:10
+type: Verse
+kjv: "For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation."
+bsb: "For with your heart you believe and are justified, and with your mouth you confess and are saved."
+greek: "καρδίᾳ γὰρ πιστεύεται εἰς δικαιοσύνην, στόματι δὲ ὁμολογεῖται εἰς σωτηρίαν.¶"
+pericope: "[[Rom.10.1 The Word Brings Salvation|The Word Brings Salvation]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 10
+book/chapter: "[[Rom.10|Romans 10]]"
+chronological_order: 1096
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[G2588]]"
+- "[[G1063]]"
+- "[[G4100]]"
+- "[[G1519]]"
+- "[[G1343]]"
+- "[[G4750]]"
+- "[[G1161]]"
+- "[[G3670]]"
+- "[[G4991]]"
+texts:
+- NKO
+---
+
 **Romans 10:10**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.
 <small><sub>**BSB:**</sub></small>
 For with your heart you believe and are justified, and with your mouth you confess and are saved.
-<small><sub>**Literal:**</sub></small>
-In the heart for is belief unto righteousness, in the mouth now is confession unto salvation.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.9|<< Romans 10:9]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.11|Romans 10:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2588\|καρδίᾳ]]  [[G1063\|γὰρ]]  [[G4100\|πιστεύεται]]  [[G1519\|εἰς]]  [[G1343\|δικαιοσύνην,]]  [[G4750\|στόματι]]  [[G1161\|δὲ]]  [[G3670\|ὁμολογεῖται]]  [[G1519\|εἰς]]  [[G4991\|σωτηρίαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFESSION|CONFESSION]] • [[topic FAITH|FAITH]] • [[topic HEART|HEART]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic PENITENT|PENITENT]] • [[topic RELIGION|RELIGION]] • [[topic SALVATION|SALVATION]] • [[topic TESTIMONY|TESTIMONY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.9|<< Romans 10:9]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.11|Romans 10:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

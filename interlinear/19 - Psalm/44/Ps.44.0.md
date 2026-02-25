@@ -1,6 +1,43 @@
+---
+title: Psalm 44:0
+type: Verse
+kjv: "To the chief Musician for the sons of Korah, Maschil."
+hebrew: "לַמְנַצֵּ֬חַ לִבְנֵי־ קֹ֬רַח מַשְׂכִּֽיל׃"
+pericope: "[[Ps.44.1 Redeem Us, O God|Redeem Us, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 44
+book/chapter: "[[Ps.44|Psalm 44]]"
+chronological_order: 499
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9005]]"
+- "[[H5329]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H7141I]]"
+- "[[H4905]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 44:0**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To the chief Musician for the sons of Korah, Maschil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H5329\|מְנַצֵּ֬חַ]] [[H9005\|לִ]][[H1121G\|בְנֵי]][[H9014\|־]] [[H7141I\|קֹ֬רַח]] [[H4905\|מַשְׂכִּֽיל]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.43.5|<< Psalms 43:5]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.1|Psalms 44:1 >>]]</td></tr></table>
 

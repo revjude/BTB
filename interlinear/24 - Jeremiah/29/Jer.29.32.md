@@ -1,8 +1,81 @@
+---
+title: Jeremiah 29:32
+type: Verse
+kjv: "Therefore thus saith the LORD; Behold, I will punish Shemaiah the Nehelamite, and his seed: he shall not have a man to dwell among this people; neither shall he behold the good that I will do for my people, saith the LORD; because he hath taught rebellion against the LORD."
+bsb: "this is what the LORD says: ‘I will surely punish Shemaiah the Nehelamite and his descendants. He will have no one left among this people, nor will he see the good that I will bring to My people, declares the LORD, for he has preached rebellion against the LORD.’”"
+hebrew: "לָכֵ֞ן כֹּֽה־ אָמַ֣ר יְהוָ֗ה הִנְנִ֨י פֹקֵ֜ד עַל־ שְׁמַעְיָ֣ה הַנֶּחֱלָמִי֮ וְעַל־ זַרְעוֹ֒ לֹא־ יִהְיֶ֨ה ל֜וֹ אִ֣ישׁ׀ יוֹשֵׁ֣ב׀ בְּתוֹךְ־ הָעָ֣ם הַזֶּ֗ה וְלֹֽא־ יִרְאֶ֥ה בַטּ֛וֹב אֲשֶׁר־ אֲנִ֥י עֹשֶֽׂה־ לְעַמִּ֖י נְאֻם־ יְהוָ֑ה כִּֽי־ סָרָ֥ה דִבֶּ֖ר עַל־ יְהוָֽה׃ ס"
+pericope: "[[Jer.29.24 The Message to Shemaiah|The Message to Shemaiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 29
+book/chapter: "[[Jer.29|Jeremiah 29]]"
+chronological_order: 752
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SHEMAIAH|SHEMAIAH]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H6485H]]"
+- "[[H5921A]]"
+- "[[H8098Y]]"
+- "[[H9009]]"
+- "[[H5161]]"
+- "[[H9002]]"
+- "[[H2233H]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H9033]]"
+- "[[H0376I]]"
+- "[[H9015]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H7200G]]"
+- "[[H2896B]]"
+- "[[H0834A]]"
+- "[[H0589]]"
+- "[[H6213A]]"
+- "[[H9020]]"
+- "[[H5002]]"
+- "[[H3588A]]"
+- "[[H5627]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 29:32**<big><big>[[Jer.29.24 The Message to Shemaiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the LORD; Behold, I will punish Shemaiah the Nehelamite, and his seed: he shall not have a man to dwell among this people; neither shall he behold the good that I will do for my people, saith the LORD; because he hath taught rebellion against the LORD.
 <small><sub>**BSB:**</sub></small>
 this is what the LORD says: ‘I will surely punish Shemaiah the Nehelamite and his descendants. He will have no one left among this people, nor will he see the good that I will bring to My people, declares the LORD, for he has preached rebellion against the LORD.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֞ן]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H6485H\|פֹקֵ֜ד]] [[H5921A\|עַל]][[H9014\|־]] [[H8098Y\|שְׁמַעְיָ֣ה]] [[H9009\|הַ]][[H5161\|נֶּחֱלָמִי֮]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H2233H\|זַרְע]][[H9023\|וֹ֒]] [[H3808\|לֹא]][[H9014\|־]] [[H1961\|יִהְיֶ֨ה]] [[H9005\|ל֜]][[H9033\|וֹ]] [[H0376I\|אִ֣ישׁ]][[H9015\|׀]] [[H3427\|יוֹשֵׁ֣ב]][[H9015\|׀]] [[H9003\|בְּ]][[H8432\|תוֹךְ]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H9009\|הַ]][[H2088\|זֶּ֗ה]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7200G\|יִרְאֶ֥ה]] [[H9003\|בַ]][[H2896B\|טּ֛וֹב]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0589\|אֲנִ֥י]] [[H6213A\|עֹשֶֽׂה]][[H9014\|־]] [[H9005\|לְ]][[H5971A\|עַמִּ֖]][[H9020\|י]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5627\|סָרָ֥ה]] [[H1696G\|דִבֶּ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHETS|PROPHETS]] • [[topic SHEMAIAH|SHEMAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.31|<< Jeremiah 29:31]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.1|Jeremiah 30:1 >>]]</td></tr></table>
 
@@ -40,7 +113,7 @@ this is what the LORD says: ‘I will surely punish Shemaiah the Nehelamite and 
 | rebellion  |**<big>&#8207;[[H5627\|סָרָ֥ה]]&#8207; </big>**| sa.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has spoken  |**<big>&#8207;[[H1696G\|דִבֶּ֖ר]]&#8207; </big>**| di.Ber<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.31|<< Jeremiah 29:31]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.1|Jeremiah 30:1 >>]]</td></tr></table>
 
 

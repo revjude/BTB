@@ -1,10 +1,59 @@
+---
+title: Luke 2:42
+type: Verse
+kjv: "And when he was twelve years old, they went up to Jerusalem after the custom of the feast."
+bsb: "And when He was twelve years old, they went up according to the custom of the Feast."
+greek: "Καὶ ὅτε ἐγένετο ἐτῶν δώδεκα ἀναβαινόντων αὐτῶν εἰς Ἱεροσόλυμα κατὰ τὸ ἔθος τῆς ἑορτῆς"
+pericope: "[[Luke.2.41 The Boy Jesus at the Temple|The Boy Jesus at the Temple]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[G2532]]"
+- "[[G3753]]"
+- "[[G1096]]"
+- "[[G2094]]"
+- "[[G1427]]"
+- "[[G0305]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G2414]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G1485]]"
+- "[[G1859]]"
+texts:
+- NKO
+- N(k)O
+- KO
+---
+
 **Luke 2:42**<big><big>[[Luke.2.41 The Boy Jesus at the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he was twelve years old, they went up to Jerusalem after the custom of the feast.
 <small><sub>**BSB:**</sub></small>
 And when He was twelve years old, they went up according to the custom of the Feast.
-<small><sub>**Literal:**</sub></small>
-And when He was years [old] twelve when were going up they into Jerusalem according to the custom of the Feast<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.41|<< Luke 2:41]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.43|Luke 2:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3753\|ὅτε]]  [[G1096\|ἐγένετο]]  [[G2094\|ἐτῶν]]  [[G1427\|δώδεκα]]  [[G0305\|ἀναβαινόντων]]  [[G0846\|αὐτῶν]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα]]  [[G2596\|κατὰ]]  [[G3588\|τὸ]]  [[G1485\|ἔθος]]  [[G3588\|τῆς]]  [[G1859\|ἑορτῆς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic PASSOVER|PASSOVER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.41|<< Luke 2:41]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.43|Luke 2:43 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

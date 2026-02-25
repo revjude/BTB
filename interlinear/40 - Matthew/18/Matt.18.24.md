@@ -1,10 +1,59 @@
+---
+title: Matthew 18:24
+type: Verse
+kjv: "And when he had begun to reckon, one was brought unto him, which owed him ten thousand talents."
+bsb: "As he began the settlements, a debtor owing ten thousand talents was brought to him."
+jesus_said: "And when he had begun to reckon, one was brought unto him, which owed him ten thousand talents."
+greek: "ἀρξαμένου δὲ αὐτοῦ συναίρειν προσηνέχθη αὐτῷ εἷς ὀφειλέτης μυρίων ταλάντων."
+pericope: "[[Matt.18.21 The Unforgiving Servant|The Unforgiving Servant]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 18
+book/chapter: "[[Matt.18|Matthew 18]]"
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TALENT|TALENT]]"
+strongs:
+- "[[G0757]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G4868]]"
+- "[[G4374]]"
+- "[[G1520]]"
+- "[[G3781]]"
+- "[[G3463]]"
+- "[[G5007]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Matthew 18:24**<big><big>[[Matt.18.21 The Unforgiving Servant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had begun to reckon, one was brought unto him, which owed him ten thousand talents.
 <small><sub>**BSB:**</sub></small>
 As he began the settlements, a debtor owing ten thousand talents was brought to him.
-<small><sub>**Literal:**</sub></small>
-When was beginning then he to settle was brought to to him one a debtor of ten thousand talents.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.23|<< Matthew 18:23]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.25|Matthew 18:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0757\|ἀρξαμένου]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῦ]]  [[G4868\|συναίρειν]]  [[G4374\|προσηνέχθη]]  [[G0846\|αὐτῷ]]  [[G1520\|εἷς]]  [[G3781\|ὀφειλέτης]]  [[G3463\|μυρίων]]  [[G5007\|ταλάντων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic CREDITOR|CREDITOR]] • [[topic DEBTOR|DEBTOR]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic SIN|SIN]] • [[topic TALENT|TALENT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.23|<< Matthew 18:23]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.25|Matthew 18:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,50 @@
+---
+title: Lamentations 3:20
+type: Verse
+kjv: "My soul hath them still in remembrance, and is humbled in me."
+bsb: "Surely my soul remembers and is humbled within me."
+hebrew: "זָכ֣וֹר תִּזְכּ֔וֹר וְתָשׁ֥וֹחַ עָלַ֖י נַפְשִֽׁי׃"
+pericope: "[[Lam.3.19 The Prophet’s Hope|The Prophet’s Hope]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 3
+book/chapter: "[[Lam.3|Lamentations 3]]"
+chronological_order: 778
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+strongs:
+- "[[H2142]]"
+- "[[H9002]]"
+- "[[H7743]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Lamentations 3:20**<big><big>[[Lam.3.19 The Prophet’s Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My soul hath [them] still in remembrance, and is humbled in me.
 <small><sub>**BSB:**</sub></small>
 Surely my soul remembers and is humbled within me.
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|זָכ֣וֹר]] [[H2142\|תִּזְכּ֔וֹר]] [[H9002\|וְ]][[H7743\|תָשׁ֥וֹחַ]] [[H5921A\|עָלַ֖]][[H9030\|י]] [[H5315G\|נַפְשִֽׁ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESPONDENCY|DESPONDENCY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.19|<< Lamentations 3:19]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.21|Lamentations 3:21 >>]]</td></tr></table>
 
@@ -15,7 +57,7 @@ Surely my soul remembers and is humbled within me.
 | self my  |**<big>&#8207;[[H5315G\|נַפְשִֽׁ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.19|<< Lamentations 3:19]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.21|Lamentations 3:21 >>]]</td></tr></table>
 
-[^1]: so it may melts away  | **<big>[[H7743|תָשִׁיחַ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ta.shi.ach<small><sup>[[HVqu3fs]]</sup></small> | K
-[^2]: so it may melts away  | **<big>[[H7743|תָשִׁיחַ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ta.shi.ach<small><sup>[[HVqu3fs]]</sup></small> | K
+[^1]: so it may melts away  | **<big>[[H9002|וְ]]</big><big>[[H7743|תָשִׁיחַ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ta.shi.ach<small><sup>[[HVqu3fs]]</sup></small> | K
+[^2]: so it may melts away  | **<big>[[H9002|וְ]]</big><big>[[H7743|תָשִׁיחַ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ta.shi.ach<small><sup>[[HVqu3fs]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וְתָשֹׁ֥יחַ</big></span>**
 

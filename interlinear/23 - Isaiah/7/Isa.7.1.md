@@ -1,8 +1,72 @@
+---
+title: Isaiah 7:1
+type: Verse
+kjv: "And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, that Rezin the king of Syria, and Pekah the son of Remaliah, king of Israel, went up toward Jerusalem to war against it, but could not prevail against it."
+bsb: "Now in the days that Ahaz son of Jotham, the son of Uzziah, was king of Judah, Rezin king of Aram marched up to wage war against Jerusalem. He was accompanied by Pekah son of Remaliah the king of Israel, but he could not overpower the city."
+hebrew: "וַיְהִ֡י בִּימֵ֣י אָ֠חָז בֶּן־ יוֹתָ֨ם בֶּן־ עֻזִּיָּ֜הוּ מֶ֣לֶךְ יְהוּדָ֗ה עָלָ֣ה רְצִ֣ין מֶֽלֶךְ־ אֲ֠רָם וּפֶ֨קַח בֶּן־ רְמַלְיָ֤הוּ מֶֽלֶךְ־ יִשְׂרָאֵל֙ יְר֣וּשָׁלִַ֔ם לַמִּלְחָמָ֖ה עָלֶ֑יהָ וְלֹ֥א יָכֹ֖ל לְהִלָּחֵ֥ם עָלֶֽיהָ׃"
+pericope: "[[Isa.7.1 A Message to Ahaz|A Message to Ahaz]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 7
+book/chapter: "[[Isa.7|Isaiah 7]]"
+chronological_order: 617
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PEKAH|PEKAH]]"
+- "[[topic REMALIAH|REMALIAH]]"
+- "[[topic REZIN|REZIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H0271G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3147H]]"
+- "[[H5818G]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H5927G]]"
+- "[[H7526G]]"
+- "[[H0758I]]"
+- "[[H9002]]"
+- "[[H6492]]"
+- "[[H7425]]"
+- "[[H3478]]"
+- "[[H3389]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H3898A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 7:1**<big><big>[[Isa.7.1 A Message to Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, [that] Rezin the king of Syria, and Pekah the son of Remaliah, king of Israel, went up toward Jerusalem to war against it, but could not prevail against it.
 <small><sub>**BSB:**</sub></small>
 Now in the days that Ahaz son of Jotham, the son of Uzziah, was king of Judah, Rezin king of Aram marched up to wage war against Jerusalem. He was accompanied by Pekah son of Remaliah the king of Israel, but he could not overpower the city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֡י]] [[H9003\|בִּ]][[H3117G\|ימֵ֣י]] [[H0271G\|אָ֠חָז]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3147H\|יוֹתָ֨ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5818G\|עֻזִּיָּ֜הוּ]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֗ה]] [[H5927G\|עָלָ֣ה]] [[H7526G\|רְצִ֣ין]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0758I\|אֲ֠רָם]] [[H9002\|וּ]][[H6492\|פֶ֨קַח]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7425\|רְמַלְיָ֤הוּ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H3389\|יְר֣וּשָׁלִַ֔ם]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֖ה]] [[H5921A\|עָלֶ֑י]][[H9034\|הָ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3201\|יָכֹ֖ל]] [[H9005\|לְ]][[H3898A\|הִלָּחֵ֥ם]] [[H5921A\|עָלֶֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic ISAIAH|ISAIAH]] • [[topic PEKAH|PEKAH]] • [[topic REMALIAH|REMALIAH]] • [[topic REZIN|REZIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.7.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.6.13|<< Isaiah 6:13]]</td><td align="center" style="border:none;">[[Isa.7|Isaiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.2|Isaiah 7:2 >>]]</td></tr></table>
 

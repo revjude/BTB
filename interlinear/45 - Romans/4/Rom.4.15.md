@@ -1,10 +1,57 @@
+---
+title: Romans 4:15
+type: Verse
+kjv: "Because the law worketh wrath: for where no law is, there is no transgression."
+bsb: "because the law brings wrath. And where there is no law, there is no transgression."
+greek: "ὁ γὰρ νόμος ὀργὴν κατεργάζεται· οὗ δὲ οὐκ ἔστιν νόμος, οὐδὲ παράβασις."
+pericope: "[[Rom.4.13 Abraham Receives the Promise|Abraham Receives the Promise]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 4
+book/chapter: "[[Rom.4|Romans 4]]"
+chronological_order: 1090
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G3551]]"
+- "[[G3709]]"
+- "[[G2716]]"
+- "[[G3757]]"
+- "[[G1161]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G3761]]"
+- "[[G3847]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Romans 4:15**<big><big>[[Rom.4.13 Abraham Receives the Promise|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Because the law worketh wrath: for where no law is, [there is] no transgression.
 <small><sub>**BSB:**</sub></small>
 because the law brings wrath. And where there is no law, there is no transgression.
-<small><sub>**Literal:**</sub></small>
-<the> For law wrath brings; where now no there is law, neither [is] transgression.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.14|<< Romans 4:14]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.16|Romans 4:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1063\|γὰρ]]  [[G3551\|νόμος]]  [[G3709\|ὀργὴν]]  [[G2716\|κατεργάζεται·]]  [[G3757\|οὗ]]  [[G1161\|δὲ]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G3551\|νόμος,]]  [[G3761\|οὐδὲ]]  [[G3847\|παράβασις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BIGOTRY|BIGOTRY]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic FAITH|FAITH]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.14|<< Romans 4:14]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.16|Romans 4:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

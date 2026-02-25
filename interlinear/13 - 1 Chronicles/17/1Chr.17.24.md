@@ -1,8 +1,62 @@
+---
+title: 1 Chronicles 17:24
+type: Verse
+kjv: "Let it even be established, that thy name may be magnified for ever, saying, The LORD of hosts is the God of Israel, even a God to Israel: and let the house of David thy servant be established before thee."
+bsb: "so that Your name will be established and magnified forever when it is said, ‘The LORD of Hosts, the God of Israel, is God over Israel.’ And may the house of Your servant David be established before You."
+hebrew: "וְ֠יֵֽאָמֵן וְיִגְדַּ֨ל שִׁמְךָ֤ עַד־ עוֹלָם֙ לֵאמֹ֔ר יְהוָ֤ה צְבָאוֹת֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל אֱלֹהִ֖ים לְיִשְׂרָאֵ֑ל וּבֵית־ דָּוִ֥יד עַבְדְּךָ֖ נָכ֥וֹן לְפָנֶֽיךָ׃"
+pericope: "[[1Chr.17.16 David’s Prayer of Thanksgiving|David’s Prayer of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 17
+book/chapter: "[[1Chr.17|1 Chronicles 17]]"
+chronological_order: 398
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0539]]"
+- "[[H1431]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5769G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H1004M]]"
+- "[[H1732]]"
+- "[[H5650]]"
+- "[[H3559H]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 17:24**<big><big>[[1Chr.17.16 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let it even be established, that thy name may be magnified for ever, saying, The LORD of hosts [is] the God of Israel, [even] a God to Israel: and [let] the house of David thy servant [be] established before thee.
 <small><sub>**BSB:**</sub></small>
 so that Your name will be established and magnified forever when it is said, ‘The LORD of Hosts, the God of Israel, is God over Israel.’ And may the house of Your servant David be established before You.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֠]][[H0539\|יֵֽאָמֵן]] [[H9002\|וְ]][[H1431\|יִגְדַּ֨ל]] [[H8034\|שִׁמְ]][[H9021\|ךָ֤]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָם֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3068G\|יְהוָ֤ה]] [[H6635B\|צְבָאוֹת֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0430G\|אֱלֹהִ֖ים]] [[H9005\|לְ]][[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וּ]][[H1004M\|בֵית]][[H9014\|־]] [[H1732\|דָּוִ֥יד]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֖]] [[H3559H\|נָכ֥וֹן]] [[H9005\|לְ]][[H6440G\|פָנֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic HUMILITY|HUMILITY]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.23|<< 1 Chronicles 17:23]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.25|1 Chronicles 17:25 >>]]</td></tr></table>
 

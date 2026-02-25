@@ -1,8 +1,71 @@
+---
+title: Genesis 47:24
+type: Verse
+kjv: "And it shall come to pass in the increase, that ye shall give the fifth part unto Pharaoh, and four parts shall be your own, for seed of the field, and for your food, and for them of your households, and for food for your little ones."
+bsb: "At harvest time, you are to give a fifth of it to Pharaoh, and four-fifths will be yours as seed for the field and food for yourselves and your households and children.”"
+hebrew: "וְהָיָה֙ בַּתְּבוּאֹ֔ת וּנְתַתֶּ֥ם חֲמִישִׁ֖ית לְפַרְעֹ֑ה וְאַרְבַּ֣ע הַיָּדֹ֡ת יִהְיֶ֣ה לָכֶם֩ לְזֶ֨רַע הַשָּׂדֶ֧ה וּֽלְאָכְלְכֶ֛ם וְלַאֲשֶׁ֥ר בְּבָתֵּיכֶ֖ם וְלֶאֱכֹ֥ל לְטַפְּכֶֽם׃"
+pericope: "[[Gen.47.13 The Famine Continues|The Famine Continues]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 47
+book/chapter: "[[Gen.47|Genesis 47]]"
+chronological_order: 89
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EXTORTION|EXTORTION]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MONOPOLY|MONOPOLY]]"
+- "[[topic STATECRAFT|STATECRAFT]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H8393]]"
+- "[[H5414G]]"
+- "[[H2549]]"
+- "[[H9005]]"
+- "[[H6547H]]"
+- "[[H9002]]"
+- "[[H0702]]"
+- "[[H9009]]"
+- "[[H3027L]]"
+- "[[H9036]]"
+- "[[H2233G]]"
+- "[[H7704G]]"
+- "[[H0400]]"
+- "[[H9026]]"
+- "[[H0834A]]"
+- "[[H1004M]]"
+- "[[H0398]]"
+- "[[H2945]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 47:24**<big><big>[[Gen.47.13 The Famine Continues|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass in the increase, that ye shall give the fifth [part] unto Pharaoh, and four parts shall be your own, for seed of the field, and for your food, and for them of your households, and for food for your little ones.
 <small><sub>**BSB:**</sub></small>
 At harvest time, you are to give a fifth of it to Pharaoh, and four-fifths will be yours as seed for the field and food for yourselves and your households and children.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָה֙]] [[H9003\|בַּ]][[H8393\|תְּבוּאֹ֔ת]] [[H9001\|וּ]][[H5414G\|נְתַתֶּ֥ם]] [[H2549\|חֲמִישִׁ֖ית]] [[H9005\|לְ]][[H6547H\|פַרְעֹ֑ה]] [[H9002\|וְ]][[H0702\|אַרְבַּ֣ע]] [[H9009\|הַ]][[H3027L\|יָּדֹ֡ת]] [[H1961\|יִהְיֶ֣ה]] [[H9005\|לָ]][[H9036\|כֶם֩]] [[H9005\|לְ]][[H2233G\|זֶ֨רַע]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֧ה]] [[H9002\|וּֽ]][[H9005\|לְ]][[H0400\|אָכְלְ]][[H9026\|כֶ֛ם]] [[H9002\|וְ]][[H9005\|לַ]][[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בְּ]][[H1004M\|בָתֵּי]][[H9026\|כֶ֖ם]] [[H9002\|וְ]][[H9005\|לֶ]][[H0398\|אֱכֹ֥ל]] [[H9005\|לְ]][[H2945\|טַפְּ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPT|EGYPT]] • [[topic EXTORTION|EXTORTION]] • [[topic JOSEPH|JOSEPH]] • [[topic LAND|LAND]] • [[topic MONOPOLY|MONOPOLY]] • [[topic STATECRAFT|STATECRAFT]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.23|<< Genesis 47:23]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.25|Genesis 47:25 >>]]</td></tr></table>
 

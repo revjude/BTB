@@ -1,8 +1,64 @@
+---
+title: Numbers 32:30
+type: Verse
+kjv: "But if they will not pass over with you armed, they shall have possessions among you in the land of Canaan."
+bsb: "But if they do not arm themselves and go across with you, then they must accept their possession among you in the land of Canaan.”"
+hebrew: "וְאִם־ לֹ֧א יַֽעַבְר֛וּ חֲלוּצִ֖ים אִתְּכֶ֑ם וְנֹֽאחֲז֥וּ בְתֹכְכֶ֖ם בְּאֶ֥רֶץ כְּנָֽעַן׃"
+pericope: "[[Num.32.1 The Tribes East of the Jordan|The Tribes East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 32
+book/chapter: "[[Num.32|Numbers 32]]"
+chronological_order: 192
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GAD|GAD]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H5674A]]"
+- "[[H2502B]]"
+- "[[H0854]]"
+- "[[H9036]]"
+- "[[H9001]]"
+- "[[H0270]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9026]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 32:30**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if they will not pass over with you armed, they shall have possessions among you in the land of Canaan.
 <small><sub>**BSB:**</sub></small>
 But if they do not arm themselves and go across with you, then they must accept their possession among you in the land of Canaan.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֧א]] [[H5674A\|יַֽעַבְר֛וּ]] [[H2502B\|חֲלוּצִ֖ים]] [[H0854\|אִתְּ]][[H9036\|כֶ֑ם]] [[H9001\|וְ]][[H0270\|נֹֽאחֲז֥וּ]] [[H9003\|בְ]][[H8432\|תֹכְ]][[H9026\|כֶ֖ם]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H3667A\|כְּנָֽעַן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAD|GAD]] • [[topic GILEAD|GILEAD]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.29|<< Numbers 32:29]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.31|Numbers 32:31 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Ecclesiastes 10:13
+type: Verse
+kjv: "The beginning of the words of his mouth is foolishness: and the end of his talk is mischievous madness."
+bsb: "The beginning of his talk is folly, and the end of his speech is evil madness."
+hebrew: "תְּחִלַּ֥ת דִּבְרֵי־ פִ֖יהוּ סִכְל֑וּת וְאַחֲרִ֣ית פִּ֔יהוּ הוֹלֵל֖וּת רָעָֽה׃"
+pericope: "[[Eccl.10.1 Wisdom and Folly|Wisdom and Folly]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 10
+book/chapter: "[[Eccl.10|Ecclesiastes 10]]"
+chronological_order: 548
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic FOOL|FOOL]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WORDS|WORDS]]"
+strongs:
+- "[[H8462]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H6310G]]"
+- "[[H9023]]"
+- "[[H5531B]]"
+- "[[H9002]]"
+- "[[H0319]]"
+- "[[H6310I]]"
+- "[[H1948]]"
+- "[[H7451H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 10:13**<big><big>[[Eccl.10.1 Wisdom and Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The beginning of the words of his mouth [is] foolishness: and the end of his talk [is] mischievous madness.
 <small><sub>**BSB:**</sub></small>
 The beginning of his talk is folly, and the end of his speech is evil madness.
+<small><sub>**Hebrew:**</sub></small>
+[[H8462\|תְּחִלַּ֥ת]] [[H1697G\|דִּבְרֵי]][[H9014\|־]] [[H6310G\|פִ֖י]][[H9023\|הוּ]] [[H5531B\|סִכְל֑וּת]] [[H9002\|וְ]][[H0319\|אַחֲרִ֣ית]] [[H6310I\|פִּ֔י]][[H9023\|הוּ]] [[H1948\|הוֹלֵל֖וּת]] [[H7451H\|רָעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FOOL|FOOL]] • [[topic SLANDER|SLANDER]] • [[topic SPEAKING|SPEAKING]] • [[topic WORDS|WORDS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.10.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.12|<< Ecclesiastes 10:12]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.14|Ecclesiastes 10:14 >>]]</td></tr></table>
 

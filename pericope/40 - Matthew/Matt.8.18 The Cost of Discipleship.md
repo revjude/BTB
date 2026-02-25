@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Cost of Discipleship
+type: Pericope
 pericope: "[[Matt.8.18 The Cost of Discipleship|The Cost of Discipleship]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 8
 book/chapter: "[[Matt.8|Matthew 8]]"
-genre:
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Matt.8.18]]"
 - "[[Matt.8.19]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Matt.8.22]]"
 ---
 
-[[Matt.8|Matthew 8:18 - Matthew 8:22]]
+<small>[[Matt.8|Matthew 8:18-22]]</small>
 *The Cost of Discipleship*
 
 [[Matt.8.18|18]] Now when Jesus saw great multitudes about him, he gave commandment to depart unto the other side.

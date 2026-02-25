@@ -1,10 +1,54 @@
+---
+title: Acts 3:4
+type: Verse
+kjv: "And Peter, fastening his eyes upon him with John, said, Look on us."
+bsb: "Peter looked directly at him, as did John. “Look at us!” said Peter."
+greek: "ἀτενίσας δὲ Πέτρος εἰς αὐτὸν σὺν τῷ Ἰωάννῃ εἶπεν· βλέψον εἰς ἡμᾶς."
+pericope: "[[Acts.3.1 A Lame Man Walks|A Lame Man Walks]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 3
+book/chapter: "[[Acts.3|Acts 3]]"
+chronological_order: 1021
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BEGGARS|BEGGARS]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic LAMENESS|LAMENESS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G0816]]"
+- "[[G1161]]"
+- "[[G4074G]]"
+- "[[G1519]]"
+- "[[G0846]]"
+- "[[G4862]]"
+- "[[G3588]]"
+- "[[G2491H]]"
+- "[[G2036]]"
+- "[[G0991]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **Acts 3:4**<big><big>[[Acts.3.1 A Lame Man Walks|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Peter, fastening his eyes upon him with John, said, Look on us.
 <small><sub>**BSB:**</sub></small>
 Peter looked directly at him, as did John. “Look at us!” said Peter.
-<small><sub>**Literal:**</sub></small>
-Having looked intently now Peter upon him with <the> John he said; do look unto us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.3|<< Acts 3:3]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.5|Acts 3:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0816\|ἀτενίσας]]  [[G1161\|δὲ]]  [[G4074G\|Πέτρος]]  [[G1519\|εἰς]]  [[G0846\|αὐτὸν]]  [[G4862\|σὺν]]  [[G3588\|τῷ]]  [[G2491H\|Ἰωάννῃ]]  [[G2036\|εἶπεν·]]  [[G0991\|βλέψον]]  [[G1519\|εἰς]]  [[G3165\|ἡμᾶς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEGGARS|BEGGARS]] • [[topic JOHN|JOHN]] • [[topic LAMENESS|LAMENESS]] • [[topic MIRACLES|MIRACLES]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.3|<< Acts 3:3]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.5|Acts 3:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

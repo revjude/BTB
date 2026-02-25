@@ -1,8 +1,67 @@
+---
+title: Ezekiel 3:7
+type: Verse
+kjv: "But the house of Israel will not hearken unto thee; for they will not hearken unto me: for all the house of Israel are impudent and hardhearted."
+bsb: "But the house of Israel will be unwilling to listen to you, since they are unwilling to listen to Me. For the whole house of Israel is hard-headed and hard-hearted."
+hebrew: "וּבֵ֣ית יִשְׂרָאֵ֗ל לֹ֤א יֹאבוּ֙ לִשְׁמֹ֣עַ אֵלֶ֔יךָ כִּֽי־ אֵינָ֥ם אֹבִ֖ים לִשְׁמֹ֣עַ אֵלָ֑י כִּ֚י כָּל־ בֵּ֣ית יִשְׂרָאֵ֔ל חִזְקֵי־ מֵ֥צַח וּקְשֵׁי־ לֵ֖ב הֵֽמָּה׃"
+pericope: "[[Ezek.3.1 Ezekiel Eats the Scroll|Ezekiel Eats the Scroll]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 3
+book/chapter: "[[Ezek.3|Ezekiel 3]]"
+chronological_order: 794
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic HEART|HEART]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H3808]]"
+- "[[H0014]]"
+- "[[H9005]]"
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0369]]"
+- "[[H9048]]"
+- "[[H9030]]"
+- "[[H3605]]"
+- "[[H2389]]"
+- "[[H4696]]"
+- "[[H7186]]"
+- "[[H3820A]]"
+- "[[H1992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 3:7**<big><big>[[Ezek.3.1 Ezekiel Eats the Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the house of Israel will not hearken unto thee; for they will not hearken unto me: for all the house of Israel [are] impudent and hardhearted.
 <small><sub>**BSB:**</sub></small>
 But the house of Israel will be unwilling to listen to you, since they are unwilling to listen to Me. For the whole house of Israel is hard-headed and hard-hearted.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1004M\|בֵ֣ית]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H3808\|לֹ֤א]] [[H0014\|יֹאבוּ֙]] [[H9005\|לִ]][[H8085G\|שְׁמֹ֣עַ]] [[H0413\|אֵלֶ֔י]][[H9031\|ךָ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0369\|אֵינָ֥]][[H9048\|ם]] [[H0014\|אֹבִ֖ים]] [[H9005\|לִ]][[H8085G\|שְׁמֹ֣עַ]] [[H0413\|אֵלָ֑]][[H9030\|י]] [[H3588A\|כִּ֚י]] [[H3605\|כָּל]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H2389\|חִזְקֵי]][[H9014\|־]] [[H4696\|מֵ֥צַח]] [[H9002\|וּ]][[H7186\|קְשֵׁי]][[H9014\|־]] [[H3820A\|לֵ֖ב]] [[H1992\|הֵֽמָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic HEART|HEART]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.6|<< Ezekiel 3:6]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.8|Ezekiel 3:8 >>]]</td></tr></table>
 

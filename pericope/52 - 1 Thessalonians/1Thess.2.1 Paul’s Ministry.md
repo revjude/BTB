@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Ministry
+type: Pericope
 pericope: "[[1Thess.2.1 Paul’s Ministry|Paul’s Ministry]]"
-verse_count: 16
+original_language: Greek
 testament: New
 book: 1 Thessalonians
 chapter: 2
 book/chapter: "[[1Thess.2|1 Thessalonians 2]]"
-genre:
+chronological_order: 1049
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - eschatological
+verse_count: 16
 verses:
 - "[[1Thess.2.1]]"
 - "[[1Thess.2.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[1Thess.2.16]]"
 ---
 
-[[1Thess.2|1 Thessalonians 2:1 - 1 Thessalonians 2:16]]
+<small>[[1Thess.2|1 Thessalonians 2:1-16]]</small>
 *Paul’s Ministry*
 
 [[1Thess.2.1|1]] For yourselves, brethren, know our entrance in unto you, that it was not in vain:

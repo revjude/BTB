@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Fool Says There Is No God
+type: Pericope
 pericope: "[[Ps.53.1 The Fool Says There Is No God|The Fool Says There Is No God]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 53
 book/chapter: "[[Ps.53|Psalm 53]]"
-genre:
+chronological_order: 369
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 7
 verses:
 - "[[Ps.53.0]]"
 - "[[Ps.53.1]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Ps.53.6]]"
 ---
 
-[[Ps.53|Psalm 53:1 - Psalm 53:6]]
+<small>[[Ps.53|Psalm 53:1-6]]</small>
 *The Fool Says There Is No God*
 
 [[Ps.53.0|0]] To the chief Musician upon Mahalath, Maschil, \[A Psalm\] of David.

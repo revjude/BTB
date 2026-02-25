@@ -1,8 +1,55 @@
+---
+title: 2 Chronicles 28:2
+type: Verse
+kjv: "For he walked in the ways of the kings of Israel, and made also molten images for Baalim."
+bsb: "Instead, he walked in the ways of the kings of Israel and even made cast images of the Baals."
+hebrew: "וַיֵּ֕לֶךְ בְּדַרְכֵ֖י מַלְכֵ֣י יִשְׂרָאֵ֑ל וְגַ֧ם מַסֵּכ֛וֹת עָשָׂ֖ה לַבְּעָלִֽים׃"
+pericope: "[[2Chr.28.1 Ahaz Reigns in Judah|Ahaz Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 28
+book/chapter: "[[2Chr.28|2 Chronicles 28]]"
+chronological_order: 616
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AHAZ|AHAZ]]"
+- "[[topic BAAL|BAAL]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H1870G]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H4541A]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H1168A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 28:2**<big><big>[[2Chr.28.1 Ahaz Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he walked in the ways of the kings of Israel, and made also molten images for Baalim.
 <small><sub>**BSB:**</sub></small>
 Instead, he walked in the ways of the kings of Israel and even made cast images of the Baals.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980I\|יֵּ֕לֶךְ]] [[H9003\|בְּ]][[H1870G\|דַרְכֵ֖י]] [[H4428G\|מַלְכֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וְ]][[H1571\|גַ֧ם]] [[H4541A\|מַסֵּכ֛וֹת]] [[H6213H\|עָשָׂ֖ה]] [[H9005\|לַ]][[H1168A\|בְּעָלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZ|AHAZ]] • [[topic BAAL|BAAL]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.1|<< 2 Chronicles 28:1]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.3|2 Chronicles 28:3 >>]]</td></tr></table>
 

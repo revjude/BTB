@@ -1,10 +1,64 @@
+---
+title: Revelation 6:13
+type: Verse
+kjv: "And the stars of heaven fell unto the earth, even as a fig tree casteth her untimely figs, when she is shaken of a mighty wind."
+bsb: "and the stars of the sky fell to the earth like unripe figs dropping from a tree shaken by a great wind."
+greek: "καὶ οἱ ἀστέρες τοῦ οὐρανοῦ ἔπεσαν εἰς τὴν γῆν ὡς συκῆ βάλλει τοὺς ὀλύνθους αὐτῆς ὑπὸ ἀνέμου μεγάλου σειομένη,"
+pericope: "[[Rev.6.12 The Sixth Seal：Terror|The Sixth Seal：Terror]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 6
+book/chapter: "[[Rev.6|Revelation 6]]"
+chronological_order: 1173
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic EARTHQUAKES|EARTHQUAKES]]"
+- "[[topic ECLIPSE|ECLIPSE]]"
+- "[[topic FIG TREE|FIG TREE]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic STARS|STARS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0792]]"
+- "[[G3772]]"
+- "[[G4098]]"
+- "[[G1519]]"
+- "[[G1093G]]"
+- "[[G5613]]"
+- "[[G4808]]"
+- "[[G0906J]]"
+- "[[G3653]]"
+- "[[G0846]]"
+- "[[G5259G]]"
+- "[[G0417]]"
+- "[[G3173]]"
+- "[[G4579]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Revelation 6:13**<big><big>[[Rev.6.12 The Sixth Seal：Terror|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the stars of heaven fell unto the earth, even as a fig tree casteth her untimely figs, when she is shaken of a mighty wind.
 <small><sub>**BSB:**</sub></small>
 and the stars of the sky fell to the earth like unripe figs dropping from a tree shaken by a great wind.
-<small><sub>**Literal:**</sub></small>
-and the stars <the> of heaven fell to the earth as a fig tree casts the unripe figs of it by a wind great being shaken,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.12|<< Revelation 6:12]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.14|Revelation 6:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0792\|ἀστέρες]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G4098\|ἔπεσαν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1093G\|γῆν]]  [[G5613\|ὡς]]  [[G4808\|συκῆ]]  [[G0906J\|βάλλει]]  [[G3588\|τοὺς]]  [[G3653\|ὀλύνθους]]  [[G0846\|αὐτῆς]]  [[G5259G\|ὑπὸ]]  [[G0417\|ἀνέμου]]  [[G3173\|μεγάλου]]  [[G4579\|σειομένη,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTRONOMY|ASTRONOMY]] • [[topic EARTHQUAKES|EARTHQUAKES]] • [[topic ECLIPSE|ECLIPSE]] • [[topic FIG TREE|FIG TREE]] • [[topic HEAVEN|HEAVEN]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic STARS|STARS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.12|<< Revelation 6:12]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.14|Revelation 6:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 6:13** is...
 > $\quad$ possibly alluding to: [[LXX.Isa.24.18|Isa 24:18]] ☩ [[LXX.Isa.24.23|Isa 24:23]] ☩ [[LXX.Isa.13.13|Isa 13:13]] ☩ [[LXX.Hag.2.6|Hag 2:6]] ☩ [[LXX.Joel.2.31|Joel 2:31]]

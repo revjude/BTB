@@ -7,7 +7,7 @@
 
 → Doomed to destruction [[Deut.20.17|De 20:17]]
 
-→ Not all destroyed; Israelites intermarry with [[Judg.3.5|Jud 3:5]]-[[Judg.3.7|7]]; [[Ezra.9.1|Ezr 9:1]],[[Ezra.9.2|2]]
+→ Not all destroyed; Israelites intermarry with [[Judg.3.5|Jud 3:5-7]]; [[Ezra.9.1|Ezr 9:1]],[[Ezra.9.2|2]]
 
 → See [[topic CANAANITES|CANAANITES]]
 

@@ -1,9 +1,81 @@
+---
+title: LXX 2 Kings 20:1
+type: Verse
+lxx: "In  those days Hezekiah was infirm unto death. And Isaiah son of Amoz the prophet entered to him. And he said to him, Thus says the lord, Give charge concerning  your house! for you die, and shall not live."
+greek: "εν ταις ημέραις εκείναις ηρρώστησεν Εζεκίας έως θάνατου και εισήλθε προς αυτόν Ησαϊας υιός Αμώς ο προφήτης και είπε προς αυτόν τάδε λέγει κύριος έντειλαι περί του οίκου σου ότι αποθνήσκεις συ και ου ζήση"
+original_language: Greek
+testament: Old
+book: 2 Kings
+chapter: 20
+book/chapter: "[[2Kgs.20|2 Kings 20]]"
+chronological_order: 658
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AMOZ|AMOZ]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1565]]"
+- "[[G6542]]"
+- "[[G1478]]"
+- "[[G2193]]"
+- "[[G2288]]"
+- "[[G2532]]"
+- "[[G1525]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G2268]]"
+- "[[G5207]]"
+- "[[H0531]]"
+- "[[G3588]]"
+- "[[G4396]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G3592]]"
+- "[[G3004]]"
+- "[[G2962]]"
+- "[[G1781]]"
+- "[[G4012]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G1473]]"
+- "[[G3754]]"
+- "[[G0599]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2198]]"
+---
+
 **LXX 2 Kings 20:1** 
 
 ***Hezekiah's Infirmity***
 
 <small><sub>**LXX:**</sub></small>
 In  those days Hezekiah was infirm unto death. And Isaiah son of Amoz the prophet entered to him. And he said to him, Thus says \[the\] <span class="smallcaps">lord</span>, Give charge concerning  your house! for you die, and shall not live. 
+<small><sub>**Greek:**</sub></small>
+[[G1722\|εν]] [[G3588\|ταις]] [[G2250\|ημέραις]] [[G1565\|εκείναις]] [[G6542\|ηρρώστησεν]] [[G1478\|Εζεκίας]] [[G2193\|έως]] [[G2288\|θάνατου]] [[G2532\|και]] [[G1525\|εισήλθε]] [[G4314\|προς]] [[G1473\|αυτόν]] [[G2268\|Ησαϊας]] [[G5207\|υιός]] [[H0531\|Αμώς]] [[G3588\|ο]] [[G4396\|προφήτης]] [[G2532\|και]] [[G2036\|είπε]] [[G4314\|προς]] [[G1473\|αυτόν]] [[G3592\|τάδε]] [[G3004\|λέγει]] [[G2962\|κύριος]] [[G1781\|έντειλαι]] [[G4012\|περί]] [[G3588\|του]] [[G3624\|οίκου]] [[G1473\|σου]] [[G3754\|ότι]] [[G0599\|αποθνήσκεις]] [[G1473\|συ]] [[G2532\|και]] [[G3756\|ου]] [[G2198\|ζήση]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMOZ|AMOZ]] • [[topic BLESSING|BLESSING]] • [[topic DEATH|DEATH]] • [[topic DISEASE|DISEASE]] • [[topic FAITH|FAITH]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic ISAIAH|ISAIAH]] • [[topic PRAYER|PRAYER]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Kgs.20.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.37|<< 2 Kings 19:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.2|2 Kings 20:2 >>]]</td></tr></table>
 
@@ -40,6 +112,6 @@ In  those days Hezekiah was infirm unto death. And Isaiah son of Amoz the prophe
 | and | **<big>[[G2532\|και]]</big>** |
 | shall not | **<big>[[G3756\|ου]]</big>** |
 | live. | **<big>[[G2198\|ζήση]]</big>** |
-[[2Kgs.20.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.37|<< 2 Kings 19:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.2|2 Kings 20:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.37|<< 2 Kings 19:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.2|2 Kings 20:2 >>]]</td></tr></table>
 
 

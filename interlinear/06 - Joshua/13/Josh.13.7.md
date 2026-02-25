@@ -1,8 +1,56 @@
+---
+title: Joshua 13:7
+type: Verse
+kjv: "Now therefore divide this land for an inheritance unto the nine tribes, and the half tribe of Manasseh,"
+bsb: "Now therefore divide this land as an inheritance to the nine tribes and the half-tribe of Manasseh.”"
+hebrew: "וְעַתָּ֗ה חַלֵּ֞ק אֶת־ הָאָ֧רֶץ הַזֹּ֛את בְּנַחֲלָ֖ה לְתִשְׁעַ֣ת הַשְּׁבָטִ֑ים וַחֲצִ֖י הַשֵּׁ֥בֶט הַֽמְנַשֶּֽׁה׃"
+pericope: "[[Josh.13.1 Lands Yet Unconquered|Lands Yet Unconquered]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 13
+book/chapter: "[[Josh.13|Joshua 13]]"
+chronological_order: 243
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GESHUR|GESHUR]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H2505A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H9003]]"
+- "[[H5159]]"
+- "[[H9005]]"
+- "[[H8672]]"
+- "[[H7626H]]"
+- "[[H2677]]"
+- "[[H4519G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 13:7**<big><big>[[Josh.13.1 Lands Yet Unconquered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore divide this land for an inheritance unto the nine tribes, and the half tribe of Manasseh,
 <small><sub>**BSB:**</sub></small>
 Now therefore divide this land as an inheritance to the nine tribes and the half-tribe of Manasseh.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H2505A\|חַלֵּ֞ק]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֧רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֛את]] [[H9003\|בְּ]][[H5159\|נַחֲלָ֖ה]] [[H9005\|לְ]][[H8672\|תִשְׁעַ֣ת]] [[H9009\|הַ]][[H7626H\|שְּׁבָטִ֑ים]] [[H9002\|וַ]][[H2677\|חֲצִ֖י]] [[H9009\|הַ]][[H7626H\|שֵּׁ֥בֶט]] [[H9009\|הַֽ]][[H4519G\|מְנַשֶּֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GESHUR|GESHUR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.6|<< Joshua 13:6]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.8|Joshua 13:8 >>]]</td></tr></table>
 

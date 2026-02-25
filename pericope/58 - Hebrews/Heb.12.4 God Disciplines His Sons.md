@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God Disciplines His Sons
+type: Pericope
 pericope: "[[Heb.12.4 God Disciplines His Sons|God Disciplines His Sons]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 12
 book/chapter: "[[Heb.12|Hebrews 12]]"
-genre:
+chronological_order: 1151
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 10
 verses:
 - "[[Heb.12.4]]"
 - "[[Heb.12.5]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Heb.12.13]]"
 ---
 
-[[Heb.12|Hebrews 12:4 - Hebrews 12:13]]
+<small>[[Heb.12|Hebrews 12:4-13]]</small>
 *God Disciplines His Sons*
 
 [[Heb.12.4|4]] Ye have not yet resisted unto blood, striving against sin.

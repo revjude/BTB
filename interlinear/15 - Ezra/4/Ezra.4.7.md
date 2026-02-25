@@ -1,8 +1,68 @@
+---
+title: Ezra 4:7
+type: Verse
+kjv: "And in the days of Artaxerxes wrote Bishlam, Mithredath, Tabeel, and the rest of their companions, unto Artaxerxes king of Persia; and the writing of the letter was written in the Syrian tongue, and interpreted in the Syrian tongue."
+bsb: "And in the days of Artaxerxes king of Persia, Bishlam, Mithredath, Tabeel, and the rest of his associates wrote a letter to Artaxerxes. It was written in Aramaic and then translated."
+hebrew: "וּבִימֵ֣י אַרְתַּחְשַׁ֗שְׂתָּא כָּתַ֨ב בִּשְׁלָ֜ם מִתְרְדָ֤ת טָֽבְאֵל֙ וּשְׁאָ֣ר כְּנָוֹתָ֔יו עַל־ אַרְתַּחְשַׁ֖שְׂתְּ מֶ֣לֶךְ פָּרָ֑ס וּכְתָב֙ הַֽנִּשְׁתְּוָ֔ן כָּת֥וּב אֲרָמִ֖ית וּמְתֻרְגָּ֥ם אֲרָמִֽית׃ פ"
+pericope: "[[Ezra.4.6 Opposition under Xerxes and Artaxerxes|Opposition under Xerxes and Artaxerxes]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 4
+book/chapter: "[[Ezra.4|Ezra 4]]"
+chronological_order: 852
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic ARTAXERXES|ARTAXERXES]]"
+- "[[topic BISHLAM|BISHLAM]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic MITHREDATH|MITHREDATH]]"
+- "[[topic TABEEL|TABEEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H0783A]]"
+- "[[H3789]]"
+- "[[H1312]]"
+- "[[H4990H]]"
+- "[[H2870A]]"
+- "[[H7605]]"
+- "[[H3674]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H6539]]"
+- "[[H3791]]"
+- "[[H9009]]"
+- "[[H5406]]"
+- "[[H0762]]"
+- "[[H8638]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezra 4:7**<big><big>[[Ezra.4.6 Opposition under Xerxes and Artaxerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the days of Artaxerxes wrote Bishlam, Mithredath, Tabeel, and the rest of their companions, unto Artaxerxes king of Persia; and the writing of the letter [was] written in the Syrian tongue, and interpreted in the Syrian tongue.
 <small><sub>**BSB:**</sub></small>
 And in the days of Artaxerxes king of Persia, Bishlam, Mithredath, Tabeel, and the rest of his associates wrote a letter to Artaxerxes. It was written in Aramaic and then translated.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בִ]][[H3117G\|ימֵ֣י]] [[H0783A\|אַרְתַּחְשַׁ֗שְׂתָּא]] [[H3789\|כָּתַ֨ב]] [[H1312\|בִּשְׁלָ֜ם]] [[H4990H\|מִתְרְדָ֤ת]] [[H2870A\|טָֽבְאֵל֙]] [[H9002\|וּ]][[H7605\|שְׁאָ֣ר]] [[H3674\|כְּנָוֹתָ֔י]][[H9023\|ו]] [[H5921A\|עַל]][[H9014\|־]] [[H0783A\|אַרְתַּחְשַׁ֖שְׂתְּ]] [[H4428G\|מֶ֣לֶךְ]] [[H6539\|פָּרָ֑ס]] [[H9002\|וּ]][[H3791\|כְתָב֙]] [[H9009\|הַֽ]][[H5406\|נִּשְׁתְּוָ֔ן]] [[H3789\|כָּת֥וּב]] [[H0762\|אֲרָמִ֖ית]] [[H9002\|וּ]][[H8638\|מְתֻרְגָּ֥ם]] [[H0762\|אֲרָמִֽית]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic ARTAXERXES|ARTAXERXES]] • [[topic BISHLAM|BISHLAM]] • [[topic LANGUAGE|LANGUAGE]] • [[topic MITHREDATH|MITHREDATH]] • [[topic TABEEL|TABEEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.6|<< Ezra 4:6]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.8|Ezra 4:8 >>]]</td></tr></table>
 
@@ -25,11 +85,11 @@ And in the days of Artaxerxes king of Persia, Bishlam, Mithredath, Tabeel, and t
 | [was] written  |**<big>&#8207;[[H3789\|כָּת֥וּב]]&#8207; </big>**| ka.Tuv<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Aramaic  |**<big>&#8207;[[H0762\|אֲרָמִ֖ית]]&#8207; </big>**| 'a.ra.Mit<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [was] translated  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8638\|מְתֻרְגָּ֥ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.tur.Gam<small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Aramaic  |**<big>&#8207;[[H0762\|אֲרָמִֽית]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'a.ra.Mit<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Aramaic  |**<big>&#8207;[[H0762\|אֲרָמִֽית]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'a.ra.Mit<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.6|<< Ezra 4:6]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.8|Ezra 4:8 >>]]</td></tr></table>
 
-[^1]: colleague his  | **<big>[[H9023|וֹ]]</big><big>[[H3674|כְּנָוֹת]]</big> ** | ke.na.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: colleague his  | **<big>[[H9023|וֹ]]</big><big>[[H3674|כְּנָוֹת]]</big> ** | ke.na.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: colleague his  | **<big>[[H3674|כְּנָוֹת]]</big><big>[[H9023|וֹ]]</big> ** | ke.na.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: colleague his  | **<big>[[H3674|כְּנָוֹת]]</big><big>[[H9023|וֹ]]</big> ** | ke.na.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>כְּנָוֹתָ֔ו</big></span>**
 [^4]: L spelled: **<span class="ashebrew"><big>אַרְתַּחְשַׁ֖שְׂתְּא</big></span>**
 [^5]: K spelled: **<span class="ashebrew"><big>אַרְתַּחְשַׁשְׂתָּא</big></span>**

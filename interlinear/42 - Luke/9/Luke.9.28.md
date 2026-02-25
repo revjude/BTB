@@ -1,10 +1,66 @@
+---
+title: Luke 9:28
+type: Verse
+kjv: "And it came to pass about an eight days after these sayings, he took Peter and John and James, and went up into a mountain to pray."
+bsb: "About eight days after Jesus had said these things, He took with Him Peter, John, and James, and went up on a mountain to pray."
+greek: "Ἐγένετο δὲ μετὰ τοὺς λόγους τούτους ὡσεὶ ἡμέραι ὀκτώ, καὶ παραλαβὼν τὸν Πέτρον καὶ Ἰωάννην καὶ Ἰάκωβον ἀνέβη εἰς τὸ ὄρος προσεύξασθαι."
+pericope: "[[Luke.9.28 The Transfiguration|The Transfiguration]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JAMES|JAMES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G3326]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G3778]]"
+- "[[G5616]]"
+- "[[G2250]]"
+- "[[G3638]]"
+- "[[G2532]]"
+- "[[G3880]]"
+- "[[G4074G]]"
+- "[[G2491H]]"
+- "[[G2385G]]"
+- "[[G0305]]"
+- "[[G1519]]"
+- "[[G3735]]"
+- "[[G4336]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 9:28**<big><big>[[Luke.9.28 The Transfiguration|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass about an eight days after these sayings, he took Peter and John and James, and went up into a mountain to pray.
 <small><sub>**BSB:**</sub></small>
 About eight days after Jesus had said these things, He took with Him Peter, John, and James, and went up on a mountain to pray.
-<small><sub>**Literal:**</sub></small>
-It came to pass now after <the> sayings these about days eight, and having taken <the> Peter and John and James He went up on the mountain to pray.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.27|<< Luke 9:27]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.29|Luke 9:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Ἐγένετο]]  [[G1161\|δὲ]]  [[G3326\|μετὰ]]  [[G3588\|τοὺς]]  [[G3056\|λόγους]]  [[G3778\|τούτους]]  [[G5616\|ὡσεὶ]]  [[G2250\|ἡμέραι]]  [[G3638\|ὀκτώ,]]  [[G2532\|καὶ]]  [[G3880\|παραλαβὼν]]  [[G3588\|τὸν]]  [[G4074G\|Πέτρον]]  [[G2532\|καὶ]]  [[G2491H\|Ἰωάννην]]  [[G2532\|καὶ]]  [[G2385G\|Ἰάκωβον]]  [[G0305\|ἀνέβη]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3735\|ὄρος]]  [[G4336\|προσεύξασθαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JAMES|JAMES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic PETER|PETER]] • [[topic PRAYER|PRAYER]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.27|<< Luke 9:27]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.29|Luke 9:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

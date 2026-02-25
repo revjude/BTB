@@ -1,10 +1,65 @@
+---
+title: 2 Corinthians 12:14
+type: Verse
+kjv: "Behold, the third time I am ready to come to you; and I will not be burdensome to you: for I seek not yours, but you: for the children ought not to lay up for the parents, but the parents for the children."
+bsb: "See, I am ready to come to you a third time, and I will not be a burden, because I am not seeking your possessions, but you. For children should not have to save up for their parents, but parents for their children."
+greek: "Ἰδοὺ τρίτον τοῦτο ἑτοίμως ἔχω ἐλθεῖν πρὸς ὑμᾶς καὶ οὐ καταναρκήσω ὑμῶν· οὐ γὰρ ζητῶ τὰ ὑμῶν ἀλλ᾽ ὑμᾶς. οὐ γὰρ ὀφείλει τὰ τέκνα τοῖς γονεῦσιν θησαυρίζειν ἀλλ᾽ οἱ γονεῖς τοῖς τέκνοις·"
+pericope: "[[2Cor.12.11 Paul’s Concern for the Corinthians|Paul’s Concern for the Corinthians]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 12
+book/chapter: "[[2Cor.12|2 Corinthians 12]]"
+chronological_order: 1085
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic CORINTH|CORINTH]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2400]]"
+- "[[G5154]]"
+- "[[G3778]]"
+- "[[G2093]]"
+- "[[G2192]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2655]]"
+- "[[G1063]]"
+- "[[G2212]]"
+- "[[G3588]]"
+- "[[G0235]]"
+- "[[G3784]]"
+- "[[G5043]]"
+- "[[G1118]]"
+- "[[G2343]]"
+texts:
+- NKO
+- no
+- k
+---
+
 **2 Corinthians 12:14**<big><big>[[2Cor.12.11 Paul’s Concern for the Corinthians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Behold, the third time I am ready to come to you; and I will not be burdensome to you: for I seek not yours, but you: for the children ought not to lay up for the parents, but the parents for the children.
 <small><sub>**BSB:**</sub></small>
 See, I am ready to come to you a third time, and I will not be a burden, because I am not seeking your possessions, but you. For children should not have to save up for their parents, but parents for their children.
-<small><sub>**Literal:**</sub></small>
-Behold third time this ready I am to come to you and not I will burden you; not for I seek what [is] yours but you. Not for ought the children for the parents to treasure up but the parents for the children;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.13|<< 2 Corinthians 12:13]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.15|2 Corinthians 12:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2400\|Ἰδοὺ]]  [[G5154\|τρίτον]]  [[G3778\|τοῦτο]]  [[G2093\|ἑτοίμως]]  [[G2192\|ἔχω]]  [[G2064\|ἐλθεῖν]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G2655\|καταναρκήσω]]  [[G4771\|ὑμῶν·]]  [[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G2212\|ζητῶ]]  [[G3588\|τὰ]]  [[G4771\|ὑμῶν]]  [[G0235\|ἀλλ᾽]]  [[G4771\|ὑμᾶς.]]  [[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G3784\|ὀφείλει]]  [[G3588\|τὰ]]  [[G5043\|τέκνα]]  [[G3588\|τοῖς]]  [[G1118\|γονεῦσιν]]  [[G2343\|θησαυρίζειν]]  [[G0235\|ἀλλ᾽]]  [[G3588\|οἱ]]  [[G1118\|γονεῖς]]  [[G3588\|τοῖς]]  [[G5043\|τέκνοις·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CORINTH|CORINTH]] • [[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PARENTS|PARENTS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.13|<< 2 Corinthians 12:13]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.15|2 Corinthians 12:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

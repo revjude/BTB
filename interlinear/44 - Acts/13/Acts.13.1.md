@@ -1,10 +1,71 @@
+---
+title: Acts 13:1
+type: Verse
+kjv: "Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul."
+bsb: "Now in the church at Antioch there were prophets and teachers: Barnabas, Simeon called Niger, Lucius of Cyrene, Manaen (who had been brought up with Herod the tetrarch), and Saul."
+greek: "Ἦσαν δὲ τινες ἐν Ἀντιοχείᾳ κατὰ τὴν οὖσαν ἐκκλησίαν προφῆται καὶ διδάσκαλοι, ὅ τε Βαρναβᾶς καὶ Συμεὼν ὁ καλούμενος Νίγερ καὶ Λούκιος ὁ Κυρηναῖος, Μαναήν τε Ἡρῴδου τοῦ τετραάρχου σύντροφος καὶ Σαῦλος."
+pericope: "[[Acts.13.1 Paul’s First Missionary Journey Begins|Paul’s First Missionary Journey Begins]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic BARNABAS|BARNABAS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CYRENE|CYRENE]]"
+- "[[topic LUCIUS|LUCIUS]]"
+- "[[topic MANAEN|MANAEN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NIGER|NIGER]]"
+- "[[topic SIMEON|SIMEON]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G1722]]"
+- "[[G0490G]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G1577]]"
+- "[[G4396]]"
+- "[[G2532]]"
+- "[[G1320]]"
+- "[[G5037]]"
+- "[[G0921G]]"
+- "[[G4826I]]"
+- "[[G2564G]]"
+- "[[G3526]]"
+- "[[G3066]]"
+- "[[G2956]]"
+- "[[G3127]]"
+- "[[G2264H]]"
+- "[[G5076]]"
+- "[[G4939]]"
+- "[[G4569G]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 13:1**<big><big>[[Acts.13.1 Paul’s First Missionary Journey Begins|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul.
 <small><sub>**BSB:**</sub></small>
 Now in the church at Antioch there were prophets and teachers: Barnabas, Simeon called Niger, Lucius of Cyrene, Manaen (who had been brought up with Herod the tetrarch), and Saul.
-<small><sub>**Literal:**</sub></small>
-There were now some in Antioch in what is [the] church prophets and teachers, <the> both Barnabas and Simeon who is being called Niger and Lucius the Cyrenian, Manaen also — with Herod the tetrarch brought up — and Saul.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.25|<< Acts 12:25]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.2|Acts 13:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|Ἦσαν]]  [[G1161\|δὲ]]  [[G5100\|τινες]]  [[G1722\|ἐν]]  [[G0490G\|Ἀντιοχείᾳ]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G1510\|οὖσαν]]  [[G1577\|ἐκκλησίαν]]  [[G4396\|προφῆται]]  [[G2532\|καὶ]]  [[G1320\|διδάσκαλοι,]]  [[G3588\|ὅ]]  [[G5037\|τε]]  [[G0921G\|Βαρναβᾶς]]  [[G2532\|καὶ]]  [[G4826I\|Συμεὼν]]  [[G3588\|ὁ]]  [[G2564G\|καλούμενος]]  [[G3526\|Νίγερ]]  [[G2532\|καὶ]]  [[G3066\|Λούκιος]]  [[G3588\|ὁ]]  [[G2956\|Κυρηναῖος,]]  [[G3127\|Μαναήν]]  [[G5037\|τε]]  [[G2264H\|Ἡρῴδου]]  [[G3588\|τοῦ]]  [[G5076\|τετραάρχου]]  [[G4939\|σύντροφος]]  [[G2532\|καὶ]]  [[G4569G\|Σαῦλος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic BARNABAS|BARNABAS]] • [[topic CHURCH|CHURCH]] • [[topic CYRENE|CYRENE]] • [[topic LUCIUS|LUCIUS]] • [[topic MANAEN|MANAEN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NIGER|NIGER]] • [[topic SIMEON|SIMEON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.25|<< Acts 12:25]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.2|Acts 13:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

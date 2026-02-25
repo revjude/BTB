@@ -1,10 +1,64 @@
+---
+title: Romans 7:4
+type: Verse
+kjv: "Wherefore, my brethren, ye also are become dead to the law by the body of Christ; that ye should be married to another, even to him who is raised from the dead, that we should bring forth fruit unto God."
+bsb: "Therefore, my brothers, you also died to the law through the body of Christ, that you might belong to another, to Him who was raised from the dead, in order that we might bear fruit to God."
+greek: "Ὥστε, ἀδελφοί μου, καὶ ὑμεῖς ἐθανατώθητε τῷ νόμῳ διὰ τοῦ σώματος τοῦ Χριστοῦ εἰς τὸ γενέσθαι ὑμᾶς ἑτέρῳ, τῷ ἐκ νεκρῶν ἐγερθέντι, ἵνα καρποφορήσωμεν τῷ θεῷ."
+pericope: "[[Rom.7.1 Release from the Law|Release from the Law]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 7
+book/chapter: "[[Rom.7|Romans 7]]"
+chronological_order: 1093
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G5620]]"
+- "[[G0080]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G2289]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G1223]]"
+- "[[G4983]]"
+- "[[G5547]]"
+- "[[G1519]]"
+- "[[G1096]]"
+- "[[G2087]]"
+- "[[G1537]]"
+- "[[G3498]]"
+- "[[G1453]]"
+- "[[G2443]]"
+- "[[G2592]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Romans 7:4**<big><big>[[Rom.7.1 Release from the Law|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore, my brethren, ye also are become dead to the law by the body of Christ; that ye should be married to another, [even] to him who is raised from the dead, that we should bring forth fruit unto God.
 <small><sub>**BSB:**</sub></small>
 Therefore, my brothers, you also died to the law through the body of Christ, that you might belong to another, to Him who was raised from the dead, in order that we might bear fruit to God.
-<small><sub>**Literal:**</sub></small>
-Likewise, brothers of mine, also you yourselves were put to death to the law through the body <the> of Christ for <the> to belong you to another, to the [One] out from [the] dead having been raised, so that we may bear fruit <the> to God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.3|<< Romans 7:3]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.5|Romans 7:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5620\|Ὥστε,]]  [[G0080\|ἀδελφοί]]  [[G3165\|μου,]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G2289\|ἐθανατώθητε]]  [[G3588\|τῷ]]  [[G3551\|νόμῳ]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G4983\|σώματος]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G1096\|γενέσθαι]]  [[G4771\|ὑμᾶς]]  [[G2087\|ἑτέρῳ,]]  [[G3588\|τῷ]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν]]  [[G1453\|ἐγερθέντι,]]  [[G2443\|ἵνα]]  [[G2592\|καρποφορήσωμεν]]  [[G3588\|τῷ]]  [[G2316\|θεῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic HOLINESS|HOLINESS]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic LAW|LAW]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.3|<< Romans 7:3]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.5|Romans 7:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

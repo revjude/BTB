@@ -1,8 +1,67 @@
+---
+title: Judges 8:11
+type: Verse
+kjv: "And Gideon went up by the way of them that dwelt in tents on the east of Nobah and Jogbehah, and smote the host: for the host was secure."
+bsb: "And Gideon went up by way of the caravan route east of Nobah and Jogbehah, and he attacked their army, taking them by surprise."
+hebrew: "וַיַּ֣עַל גִּדְע֗וֹן דֶּ֚רֶךְ הַשְּׁכוּנֵ֣י בָֽאֳהָלִ֔ים מִקֶּ֥דֶם לְנֹ֖בַח וְיָגְבֳּהָ֑ה וַיַּךְ֙ אֶת־ הַֽמַּחֲנֶ֔ה וְהַֽמַּחֲנֶ֖ה הָ֥יָה בֶֽטַח׃"
+pericope: "[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|Gideon Defeats Zebah and Zalmunna]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 8
+book/chapter: "[[Judg.8|Judges 8]]"
+chronological_order: 262
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GIDEON|GIDEON]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JOGBEHAH|JOGBEHAH]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic ZALMUNNA|ZALMUNNA]]"
+- "[[topic ZEBAH|ZEBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H1439]]"
+- "[[H1870K]]"
+- "[[H9009]]"
+- "[[H7931]]"
+- "[[H9003]]"
+- "[[H0168G]]"
+- "[[H9006]]"
+- "[[H6924G]]"
+- "[[H9005]]"
+- "[[H5025H]]"
+- "[[H9002]]"
+- "[[H3011]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4264]]"
+- "[[H1961]]"
+- "[[H0983]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 8:11**<big><big>[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Gideon went up by the way of them that dwelt in tents on the east of Nobah and Jogbehah, and smote the host: for the host was secure.
 <small><sub>**BSB:**</sub></small>
 And Gideon went up by way of the caravan route east of Nobah and Jogbehah, and he attacked their army, taking them by surprise.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|יַּ֣עַל]] [[H1439\|גִּדְע֗וֹן]] [[H1870K\|דֶּ֚רֶךְ]] [[H9009\|הַ]][[H7931\|שְּׁכוּנֵ֣י]] [[H9003\|בָֽ]][[H0168G\|אֳהָלִ֔ים]] [[H9006\|מִ]][[H6924G\|קֶּ֥דֶם]] [[H9005\|לְ]][[H5025H\|נֹ֖בַח]] [[H9002\|וְ]][[H3011\|יָגְבֳּהָ֑ה]] [[H9001\|וַ]][[H5221\|יַּךְ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶ֔ה]] [[H9002\|וְ]][[H9009\|הַֽ]][[H4264\|מַּחֲנֶ֖ה]] [[H1961\|הָ֥יָה]] [[H0983\|בֶֽטַח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIDEON|GIDEON]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic JOGBEHAH|JOGBEHAH]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic ZALMUNNA|ZALMUNNA]] • [[topic ZEBAH|ZEBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.10|<< Judges 8:10]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.12|Judges 8:12 >>]]</td></tr></table>
 

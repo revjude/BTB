@@ -1,8 +1,74 @@
+---
+title: Leviticus 11:44
+type: Verse
+kjv: "For I am the LORD your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I am holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth."
+bsb: "For I am the LORD your God; consecrate yourselves, therefore, and be holy, because I am holy. You must not defile yourselves by any creature that crawls along the ground."
+hebrew: "כִּ֣י אֲנִ֣י יְהוָה֮ אֱלֹֽהֵיכֶם֒ וְהִתְקַדִּשְׁתֶּם֙ וִהְיִיתֶ֣ם קְדֹשִׁ֔ים כִּ֥י קָד֖וֹשׁ אָ֑נִי וְלֹ֤א תְטַמְּאוּ֙ אֶת־ נַפְשֹׁ֣תֵיכֶ֔ם בְּכָל־ הַשֶּׁ֖רֶץ הָרֹמֵ֥שׂ עַל־ הָאָֽרֶץ׃"
+pericope: "[[Lev.11.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 11
+book/chapter: "[[Lev.11|Leviticus 11]]"
+chronological_order: 143
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CREEPING THINGS|CREEPING THINGS]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9001]]"
+- "[[H6942G]]"
+- "[[H1961]]"
+- "[[H6918G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2930A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5315I]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H8318]]"
+- "[[H7430]]"
+- "[[H5921A]]"
+- "[[H0776H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 11:44**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I [am] the LORD your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I [am] holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth.
 <small><sub>**BSB:**</sub></small>
 For I am the LORD your God; consecrate yourselves, therefore, and be holy, because I am holy. You must not defile yourselves by any creature that crawls along the ground.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָה֮]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶם֒]] [[H9001\|וְ]][[H6942G\|הִתְקַדִּשְׁתֶּם֙]] [[H9001\|וִ]][[H1961\|הְיִיתֶ֣ם]] [[H6918G\|קְדֹשִׁ֔ים]] [[H3588A\|כִּ֥י]] [[H6918G\|קָד֖וֹשׁ]] [[H0589\|אָ֑נִי]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H2930A\|תְטַמְּאוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5315I\|נַפְשֹׁ֣תֵי]][[H9026\|כֶ֔ם]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H8318\|שֶּׁ֖רֶץ]] [[H9009\|הָ]][[H7430\|רֹמֵ֥שׂ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776H\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CREEPING THINGS|CREEPING THINGS]] • [[topic EXAMPLE|EXAMPLE]] • [[topic FOOD|FOOD]] • [[topic GOD|GOD]] • [[topic HOLINESS|HOLINESS]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.43|<< Leviticus 11:43]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.45|Leviticus 11:45 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

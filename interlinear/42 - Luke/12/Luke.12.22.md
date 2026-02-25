@@ -1,10 +1,66 @@
+---
+title: Luke 12:22
+type: Verse
+kjv: "And he said unto his disciples, Therefore I say unto you, Take no thought for your life, what ye shall eat; neither for the body, what ye shall put on."
+bsb: "Then Jesus said to His disciples, “Therefore I tell you, do not worry about your life, what you will eat, or about your body, what you will wear."
+jesus_said: "Therefore I say unto you, Take no thought for your life, what ye shall eat; neither for the body, what ye shall put on."
+greek: "εἶπεν δὲ πρὸς τοὺς μαθητὰς αὐτοῦ· διὰ τοῦτο λέγω ὑμῖν· μὴ μεριμνᾶτε τῇ ψυχῇ ὑμῶν τί φάγητε, μηδὲ τῷ σώματι ὑμῶν τί ἐνδύσησθε."
+pericope: "[[Luke.12.22 Do Not Worry|Do Not Worry]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CARE|CARE]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3361]]"
+- "[[G3309]]"
+- "[[G5590H]]"
+- "[[G5101]]"
+- "[[G5315]]"
+- "[[G3366]]"
+- "[[G4983]]"
+- "[[G1746]]"
+texts:
+- NKO
+- k
+- o
+---
+
 **Luke 12:22**<big><big>[[Luke.12.22 Do Not Worry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto his disciples, Therefore I say unto you, Take no thought for your life, what ye shall eat; neither for the body, what ye shall put on.
 <small><sub>**BSB:**</sub></small>
 Then Jesus said to His disciples, “Therefore I tell you, do not worry about your life, what you will eat, or about your body, what you will wear.
-<small><sub>**Literal:**</sub></small>
-He said then to the disciples of Him; Because of this I say to you: not do be anxious for the life of you what you may eat, nor [be anxious] for the body of you what you may put on.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.21|<< Luke 12:21]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.23|Luke 12:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G3101\|μαθητὰς]]  [[G0846\|αὐτοῦ·]]  [[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G3361\|μὴ]]  [[G3309\|μεριμνᾶτε]]  [[G3588\|τῇ]]  [[G5590H\|ψυχῇ]]  [[G4771\|ὑμῶν]]  [[G5101\|τί]]  [[G5315\|φάγητε,]]  [[G3366\|μηδὲ]]  [[G3588\|τῷ]]  [[G4983\|σώματι]]  [[G4771\|ὑμῶν]]  [[G5101\|τί]]  [[G1746\|ἐνδύσησθε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CARE|CARE]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.21|<< Luke 12:21]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.23|Luke 12:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

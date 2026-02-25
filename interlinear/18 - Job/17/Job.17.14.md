@@ -1,8 +1,57 @@
+---
+title: Job 17:14
+type: Verse
+kjv: "I have said to corruption, Thou art my father: to the worm, Thou art my mother, and my sister."
+bsb: "and say to corruption, ‘You are my father,’ and to the worm, ‘My mother,’ or ‘My sister,’"
+hebrew: "לַשַּׁ֣חַת קָ֭רָאתִי אָ֣בִי אָ֑תָּה אִמִּ֥י וַ֝אֲחֹתִ֗י לָֽרִמָּֽה׃"
+pericope: "[[Job.17.1 Job Prepares for Death|Job Prepares for Death]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 17
+book/chapter: "[[Job.17|Job 17]]"
+chronological_order: 28
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BODY|BODY]]"
+- "[[topic CORRUPTION|CORRUPTION]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+strongs:
+- "[[H9005]]"
+- "[[H7845H]]"
+- "[[H7121I]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H0859A]]"
+- "[[H0517]]"
+- "[[H9002]]"
+- "[[H0269]]"
+- "[[H7415]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 17:14**<big><big>[[Job.17.1 Job Prepares for Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have said to corruption, Thou [art] my father: to the worm, [Thou art] my mother, and my sister.
 <small><sub>**BSB:**</sub></small>
 and say to corruption, ‘You are my father,’ and to the worm, ‘My mother,’ or ‘My sister,’
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H7845H\|שַּׁ֣חַת]] [[H7121I\|קָ֭רָאתִי]] [[H0001G\|אָ֣בִ]][[H9020\|י]] [[H0859A\|אָ֑תָּה]] [[H0517\|אִמִּ֥]][[H9020\|י]] [[H9002\|וַ֝]][[H0269\|אֲחֹתִ֗]][[H9020\|י]] [[H9005\|לָֽ]][[H7415\|רִמָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BODY|BODY]] • [[topic CORRUPTION|CORRUPTION]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DEATH|DEATH]] • [[topic DESPONDENCY|DESPONDENCY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.17.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.17.13|<< Job 17:13]]</td><td align="center" style="border:none;">[[Job.17|Job 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.17.15|Job 17:15 >>]]</td></tr></table>
 

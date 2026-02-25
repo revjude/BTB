@@ -1,10 +1,73 @@
+---
+title: Acts 19:27
+type: Verse
+kjv: "So that not only this our craft is in danger to be set at nought; but also that the temple of the great goddess Diana should be despised, and her magnificence should be destroyed, whom all Asia and the world worshippeth."
+bsb: "There is danger not only that our business will fall into disrepute, but also that the temple of the great goddess Artemis will be discredited and her majesty deposed—she who is worshiped by all the province of Asia and the whole world.”"
+greek: "οὐ μόνον δὲ τοῦτο κινδυνεύει ἡμῖν τὸ μέρος εἰς ἀπελεγμὸν ἐλθεῖν ἀλλὰ καὶ τὸ τῆς μεγάλης θεᾶς Ἀρτέμιδος ἱερὸν εἰς οὐθὲν λογισθῆναι, μέλλειν τε καὶ καθαιρεῖσθαι τῆς μεγαλειότητος αὐτῆς ἣν ὅλη ἡ Ἀσία καὶ ἡ οἰκουμένη σέβεται.¶"
+pericope: "[[Acts.19.21 The Riot in Ephesus|The Riot in Ephesus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DEMETRIUS|DEMETRIUS]]"
+- "[[topic DIANA|DIANA]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G3756]]"
+- "[[G3441]]"
+- "[[G1161]]"
+- "[[G3778]]"
+- "[[G2793]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G3313]]"
+- "[[G1519]]"
+- "[[G0557]]"
+- "[[G2064]]"
+- "[[G0235]]"
+- "[[G2532]]"
+- "[[G3173]]"
+- "[[G2299]]"
+- "[[G0735]]"
+- "[[G2411]]"
+- "[[G3762]]"
+- "[[G3049]]"
+- "[[G3195]]"
+- "[[G5037]]"
+- "[[G2507]]"
+- "[[G3168]]"
+- "[[G0846]]"
+- "[[G3739]]"
+- "[[G3650]]"
+- "[[G0773]]"
+- "[[G3625]]"
+- "[[G4576]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 19:27**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So that not only this our craft is in danger to be set at nought; but also that the temple of the great goddess Diana should be despised, and her magnificence should be destroyed, whom all Asia and the world worshippeth.
 <small><sub>**BSB:**</sub></small>
 There is danger not only that our business will fall into disrepute, but also that the temple of the great goddess Artemis will be discredited and her majesty deposed—she who is worshiped by all the province of Asia and the whole world.”
-<small><sub>**Literal:**</sub></small>
-Not only but this is endangered to us the business into disrepute to come but also the of the great goddess Artemis temple as no [thing] to be reckoned, to be and also deposing the majesty of her whom all <the> Asia and the world worship.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.26|<< Acts 19:26]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.28|Acts 19:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G3441\|μόνον]]  [[G1161\|δὲ]]  [[G3778\|τοῦτο]]  [[G2793\|κινδυνεύει]]  [[G3165\|ἡμῖν]]  [[G3588\|τὸ]]  [[G3313\|μέρος]]  [[G1519\|εἰς]]  [[G0557\|ἀπελεγμὸν]]  [[G2064\|ἐλθεῖν]]  [[G0235\|ἀλλὰ]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G3588\|τῆς]]  [[G3173\|μεγάλης]]  [[G2299\|θεᾶς]]  [[G0735\|Ἀρτέμιδος]]  [[G2411\|ἱερὸν]]  [[G1519\|εἰς]]  [[G3762\|οὐθὲν]]  [[G3049\|λογισθῆναι,]]  [[G3195\|μέλλειν]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G2507\|καθαιρεῖσθαι]]  [[G3588\|τῆς]]  [[G3168\|μεγαλειότητος]]  [[G0846\|αὐτῆς]]  [[G3739\|ἣν]]  [[G3650\|ὅλη]]  [[G3588\|ἡ]]  [[G0773\|Ἀσία]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G3625\|οἰκουμένη]]  [[G4576\|σέβεται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DEMETRIUS|DEMETRIUS]] • [[topic DIANA|DIANA]] • [[topic PAUL|PAUL]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.26|<< Acts 19:26]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.28|Acts 19:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

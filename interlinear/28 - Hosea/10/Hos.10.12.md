@@ -1,8 +1,67 @@
+---
+title: Hosea 10:12
+type: Verse
+kjv: "Sow to yourselves in righteousness, reap in mercy; break up your fallow ground: for it is time to seek the LORD, till he come and rain righteousness upon you."
+bsb: "Sow for yourselves righteousness and reap the fruit of loving devotion; break up your unplowed ground. For it is time to seek the LORD until He comes and sends righteousness upon you like rain."
+hebrew: "זִרְע֨וּ לָכֶ֤ם לִצְדָקָה֙ קִצְר֣וּ לְפִי־ חֶ֔סֶד נִ֥ירוּ לָכֶ֖ם נִ֑יר וְעֵת֙ לִדְר֣וֹשׁ אֶת־ יְהוָ֔ה עַד־ יָב֕וֹא וְיֹרֶ֥ה צֶ֖דֶק לָכֶֽם׃"
+pericope: "[[Hos.10.1 Retribution for Israel’s Sin|Retribution for Israel’s Sin]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 10
+book/chapter: "[[Hos.10|Hosea 10]]"
+chronological_order: 651
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic REAPING|REAPING]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SEED|SEED]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic SOWER|SOWER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H2232]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H6666]]"
+- "[[H7114B]]"
+- "[[H6310G]]"
+- "[[H9014]]"
+- "[[H2617A]]"
+- "[[H5214]]"
+- "[[H5215]]"
+- "[[H9002]]"
+- "[[H6256]]"
+- "[[H1875]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H5704]]"
+- "[[H0935G]]"
+- "[[H3384A]]"
+- "[[H6664G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 10:12**<big><big>[[Hos.10.1 Retribution for Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sow to yourselves in righteousness, reap in mercy; break up your fallow ground: for [it is] time to seek the LORD, till he come and rain righteousness upon you.
 <small><sub>**BSB:**</sub></small>
 Sow for yourselves righteousness and reap the fruit of loving devotion; break up your unplowed ground. For it is time to seek the LORD until He comes and sends righteousness upon you like rain.
+<small><sub>**Hebrew:**</sub></small>
+[[H2232\|זִרְע֨וּ]] [[H9005\|לָ]][[H9036\|כֶ֤ם]] [[H9005\|לִ]][[H6666\|צְדָקָה֙]] [[H7114B\|קִצְר֣וּ]] [[H9005\|לְ]][[H6310G\|פִי]][[H9014\|־]] [[H2617A\|חֶ֔סֶד]] [[H5214\|נִ֥ירוּ]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H5215\|נִ֑יר]] [[H9002\|וְ]][[H6256\|עֵת֙]] [[H9005\|לִ]][[H1875\|דְר֣וֹשׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H5704\|עַד]][[H9014\|־]] [[H0935G\|יָב֕וֹא]] [[H9002\|וְ]][[H3384A\|יֹרֶ֥ה]] [[H6664G\|צֶ֖דֶק]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic REAPING|REAPING]] • [[topic REPENTANCE|REPENTANCE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SEED|SEED]] • [[topic SEEKERS|SEEKERS]] • [[topic SOWER|SOWER]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.10.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.11|<< Hosea 10:11]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.13|Hosea 10:13 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: Leviticus 16:19
+type: Verse
+kjv: "And he shall sprinkle of the blood upon it with his finger seven times, and cleanse it, and hallow it from the uncleanness of the children of Israel."
+bsb: "He is to sprinkle some of the blood on it with his finger seven times to cleanse it and consecrate it from the uncleanness of the Israelites."
+hebrew: "וְהִזָּ֨ה עָלָ֧יו מִן־ הַדָּ֛ם בְּאֶצְבָּע֖וֹ שֶׁ֣בַע פְּעָמִ֑ים וְטִהֲר֣וֹ וְקִדְּשׁ֔וֹ מִטֻּמְאֹ֖ת בְּנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Lev.16.1 The Day of Atonement|The Day of Atonement]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 16
+book/chapter: "[[Lev.16|Leviticus 16]]"
+chronological_order: 148
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5137A]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1818]]"
+- "[[H9003]]"
+- "[[H0676]]"
+- "[[H9023]]"
+- "[[H7651]]"
+- "[[H6471]]"
+- "[[H2891]]"
+- "[[H6942G]]"
+- "[[H9006]]"
+- "[[H2932]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 16:19**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall sprinkle of the blood upon it with his finger seven times, and cleanse it, and hallow it from the uncleanness of the children of Israel.
 <small><sub>**BSB:**</sub></small>
 He is to sprinkle some of the blood on it with his finger seven times to cleanse it and consecrate it from the uncleanness of the Israelites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5137A\|הִזָּ֨ה]] [[H5921A\|עָלָ֧י]][[H9033\|ו]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1818\|דָּ֛ם]] [[H9003\|בְּ]][[H0676\|אֶצְבָּע֖]][[H9023\|וֹ]] [[H7651\|שֶׁ֣בַע]] [[H6471\|פְּעָמִ֑ים]] [[H9001\|וְ]][[H2891\|טִהֲר֣]][[H9033\|וֹ]] [[H9001\|וְ]][[H6942G\|קִדְּשׁ֔]][[H9033\|וֹ]] [[H9006\|מִ]][[H2932\|טֻּמְאֹ֖ת]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BLOOD|BLOOD]] • [[topic CHURCH|CHURCH]] • [[topic OFFERINGS|OFFERINGS]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.18|<< Leviticus 16:18]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.20|Leviticus 16:20 >>]]</td></tr></table>
 

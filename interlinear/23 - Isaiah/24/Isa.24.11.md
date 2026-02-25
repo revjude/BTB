@@ -1,8 +1,58 @@
+---
+title: Isaiah 24:11
+type: Verse
+kjv: "There is a crying for wine in the streets; all joy is darkened, the mirth of the land is gone."
+bsb: "In the streets they cry out for wine. All joy turns to gloom; rejoicing is exiled from the land."
+hebrew: "צְוָחָ֥ה עַל־ הַיַּ֖יִן בַּֽחוּצ֑וֹת עָֽרְבָה֙ כָּל־ שִׂמְחָ֔ה גָּלָ֖ה מְשׂ֥וֹשׂ הָאָֽרֶץ׃"
+pericope: "[[Isa.24.1 God’s Judgment on the Earth|God’s Judgment on the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 24
+book/chapter: "[[Isa.24|Isaiah 24]]"
+chronological_order: 667
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H6682]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3196]]"
+- "[[H9003]]"
+- "[[H2351]]"
+- "[[H6150]]"
+- "[[H3605]]"
+- "[[H8057]]"
+- "[[H1540K]]"
+- "[[H4885]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 24:11**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] a crying for wine in the streets; all joy is darkened, the mirth of the land is gone.
 <small><sub>**BSB:**</sub></small>
 In the streets they cry out for wine. All joy turns to gloom; rejoicing is exiled from the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H6682\|צְוָחָ֥ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3196\|יַּ֖יִן]] [[H9003\|בַּֽ]][[H2351\|חוּצ֑וֹת]] [[H6150\|עָֽרְבָה֙]] [[H3605\|כָּל]][[H9014\|־]] [[H8057\|שִׂמְחָ֔ה]] [[H1540K\|גָּלָ֖ה]] [[H4885\|מְשׂ֥וֹשׂ]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic COLORS|COLORS]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.10|<< Isaiah 24:10]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.12|Isaiah 24:12 >>]]</td></tr></table>
 

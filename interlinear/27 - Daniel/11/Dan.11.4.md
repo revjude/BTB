@@ -1,8 +1,67 @@
+---
+title: Daniel 11:4
+type: Verse
+kjv: "And when he shall stand up, his kingdom shall be broken, and shall be divided toward the four winds of heaven; and not to his posterity, nor according to his dominion which he ruled: for his kingdom shall be plucked up, even for others beside those."
+bsb: "But as soon as he is established, his kingdom will be broken up and parceled out toward the four winds of heaven. It will not go to his descendants, nor will it have the authority with which he ruled, because his kingdom will be uprooted and given to others."
+hebrew: "וּכְעָמְדוֹ֙ תִּשָּׁבֵ֣ר מַלְכוּת֔וֹ וְתֵחָ֕ץ לְאַרְבַּ֖ע רוּח֣וֹת הַשָּׁמָ֑יִם וְלֹ֣א לְאַחֲרִית֗וֹ וְלֹ֤א כְמָשְׁלוֹ֙ אֲשֶׁ֣ר מָשָׁ֔ל כִּ֤י תִנָּתֵשׁ֙ מַלְכוּת֔וֹ וְלַאֲחֵרִ֖ים מִלְּבַד־ אֵֽלֶּה׃"
+pericope: "[[Dan.11.1 Kings of the South and North|Kings of the South and North]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H5975I]]"
+- "[[H9043]]"
+- "[[H7665]]"
+- "[[H4438]]"
+- "[[H9023]]"
+- "[[H2673]]"
+- "[[H9005]]"
+- "[[H0702]]"
+- "[[H7307H]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H3808]]"
+- "[[H0319]]"
+- "[[H4915B]]"
+- "[[H0834A]]"
+- "[[H4910]]"
+- "[[H3588A]]"
+- "[[H5428]]"
+- "[[H0312]]"
+- "[[H9006]]"
+- "[[H0905J]]"
+- "[[H9014]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 11:4**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he shall stand up, his kingdom shall be broken, and shall be divided toward the four winds of heaven; and not to his posterity, nor according to his dominion which he ruled: for his kingdom shall be plucked up, even for others beside those.
 <small><sub>**BSB:**</sub></small>
 But as soon as he is established, his kingdom will be broken up and parceled out toward the four winds of heaven. It will not go to his descendants, nor will it have the authority with which he ruled, because his kingdom will be uprooted and given to others.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9004\|כְ]][[H5975I\|עָמְד]][[H9043\|וֹ֙]] [[H7665\|תִּשָּׁבֵ֣ר]] [[H4438\|מַלְכוּת֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H2673\|תֵחָ֕ץ]] [[H9005\|לְ]][[H0702\|אַרְבַּ֖ע]] [[H7307H\|רוּח֣וֹת]] [[H9009\|הַ]][[H8064\|שָּׁמָ֑יִם]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H9005\|לְ]][[H0319\|אַחֲרִית֗]][[H9023\|וֹ]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H9004\|כְ]][[H4915B\|מָשְׁל]][[H9023\|וֹ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H4910\|מָשָׁ֔ל]] [[H3588A\|כִּ֤י]] [[H5428\|תִנָּתֵשׁ֙]] [[H4438\|מַלְכוּת֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H9005\|לַ]][[H0312\|אֲחֵרִ֖ים]] [[H9006\|מִ]][[H9005\|לְּ]][[H0905J\|בַד]][[H9014\|־]] [[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSIA|PERSIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.3|<< Daniel 11:3]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.5|Daniel 11:5 >>]]</td></tr></table>
 

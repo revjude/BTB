@@ -1,8 +1,70 @@
+---
+title: Jeremiah 35:8
+type: Verse
+kjv: "Thus have we obeyed the voice of Jonadab the son of Rechab our father in all that he hath charged us, to drink no wine all our days, we, our wives, our sons, nor our daughters;"
+bsb: "And we have obeyed the voice of our forefather Jonadab son of Rechab in all he commanded us. So we have not drunk wine all our lives—neither we nor our wives nor our sons and daughters."
+hebrew: "וַנִּשְׁמַ֗ע בְּק֨וֹל יְהוֹנָדָ֤ב בֶּן־ רֵכָב֙ אָבִ֔ינוּ לְכֹ֖ל אֲשֶׁ֣ר צִוָּ֑נוּ לְבִלְתִּ֤י שְׁתֽוֹת־ יַ֙יִן֙ כָּל־ יָמֵ֔ינוּ אֲנַ֣חְנוּ נָשֵׁ֔ינוּ בָּנֵ֖ינוּ וּבְנֹתֵֽינוּ׃"
+pericope: "[[Jer.35.1 The Obedience of the Rechabites|The Obedience of the Rechabites]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 35
+book/chapter: "[[Jer.35|Jeremiah 35]]"
+chronological_order: 758
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ABSTINENCE|ABSTINENCE]]"
+- "[[topic HANAN|HANAN]]"
+- "[[topic JONADAB|JONADAB]]"
+- "[[topic RECHAB|RECHAB]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H3082G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H7394H]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H9035]]"
+- "[[H1115]]"
+- "[[H8354]]"
+- "[[H3196]]"
+- "[[H3117G]]"
+- "[[H0587]]"
+- "[[H0802H]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 35:8**<big><big>[[Jer.35.1 The Obedience of the Rechabites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus have we obeyed the voice of Jonadab the son of Rechab our father in all that he hath charged us, to drink no wine all our days, we, our wives, our sons, nor our daughters;
 <small><sub>**BSB:**</sub></small>
 And we have obeyed the voice of our forefather Jonadab son of Rechab in all he commanded us. So we have not drunk wine all our lives—neither we nor our wives nor our sons and daughters.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085H\|נִּשְׁמַ֗ע]] [[H9003\|בְּ]][[H6963A\|ק֨וֹל]] [[H3082G\|יְהוֹנָדָ֤ב]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7394H\|רֵכָב֙]] [[H0001G\|אָבִ֔י]][[H9025\|נוּ]] [[H9005\|לְ]][[H3605\|כֹ֖ל]] [[H0834A\|אֲשֶׁ֣ר]] [[H6680\|צִוָּ֑]][[H9035\|נוּ]] [[H9005\|לְ]][[H1115\|בִלְתִּ֤י]] [[H8354\|שְׁתֽוֹת]][[H9014\|־]] [[H3196\|יַ֙יִן֙]] [[H3605\|כָּל]][[H9014\|־]] [[H3117G\|יָמֵ֔י]][[H9025\|נוּ]] [[H0587\|אֲנַ֣חְנוּ]] [[H0802H\|נָשֵׁ֔י]][[H9025\|נוּ]] [[H1121A\|בָּנֵ֖י]][[H9025\|נוּ]] [[H9002\|וּ]][[H1323G\|בְנֹתֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSTINENCE|ABSTINENCE]] • [[topic HANAN|HANAN]] • [[topic JONADAB|JONADAB]] • [[topic RECHAB|RECHAB]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.35.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.35.7|<< Jeremiah 35:7]]</td><td align="center" style="border:none;">[[Jer.35|Jeremiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35.9|Jeremiah 35:9 >>]]</td></tr></table>
 

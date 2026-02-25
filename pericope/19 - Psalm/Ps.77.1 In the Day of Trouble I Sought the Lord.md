@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: In the Day of Trouble I Sought the Lord
+type: Pericope
 pericope: "[[Ps.77.1 In the Day of Trouble I Sought the Lord|In the Day of Trouble I Sought the Lord]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 77
 book/chapter: "[[Ps.77|Psalm 77]]"
-genre:
+chronological_order: 509
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 21
 verses:
 - "[[Ps.77.0]]"
 - "[[Ps.77.1]]"
@@ -42,7 +49,7 @@ verses:
 - "[[Ps.77.20]]"
 ---
 
-[[Ps.77|Psalm 77:1 - Psalm 77:20]]
+<small>[[Ps.77|Psalm 77:1-20]]</small>
 *In the Day of Trouble I Sought the Lord*
 
 [[Ps.77.0|0]] To the chief Musician, to Jeduthun, A Psalm of Asaph.

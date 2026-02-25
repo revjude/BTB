@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hilkiah Finds the Book of the Law
+type: Pericope
 pericope: "[[2Chr.34.14 Hilkiah Finds the Book of the Law|Hilkiah Finds the Book of the Law]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 34
 book/chapter: "[[2Chr.34|2 Chronicles 34]]"
-genre:
+chronological_order: 713
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 8
 verses:
 - "[[2Chr.34.14]]"
 - "[[2Chr.34.15]]"
@@ -26,7 +33,7 @@ verses:
 - "[[2Chr.34.21]]"
 ---
 
-[[2Chr.34|2 Chronicles 34:14 - 2 Chronicles 34:21]]
+<small>[[2Chr.34|2 Chronicles 34:14-21]]</small>
 *Hilkiah Finds the Book of the Law*
 
 [[2Chr.34.14|14]] And when they brought out the money that was brought into the house of the LORD, Hilkiah the priest found a book of the law of the LORD \[given\] by Moses.

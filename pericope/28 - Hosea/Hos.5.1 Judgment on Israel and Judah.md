@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment on Israel and Judah
+type: Pericope
 pericope: "[[Hos.5.1 Judgment on Israel and Judah|Judgment on Israel and Judah]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Hosea
 chapter: 5
 book/chapter: "[[Hos.5|Hosea 5]]"
-genre:
+chronological_order: 646
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 15
 verses:
 - "[[Hos.5.1]]"
 - "[[Hos.5.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Hos.5.15]]"
 ---
 
-[[Hos.5|Hosea 5:1 - Hosea 5:15]]
+<small>[[Hos.5|Hosea 5:1-15]]</small>
 *Judgment on Israel and Judah*
 
 [[Hos.5.1|1]] Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O house of the king; for judgment \[is\] toward you, because ye have been a snare on Mizpah, and a net spread upon Tabor.

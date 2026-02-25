@@ -1,8 +1,64 @@
+---
+title: Joshua 10:8
+type: Verse
+kjv: "And the LORD said unto Joshua, Fear them not: for I have delivered them into thine hand; there shall not a man of them stand before thee."
+bsb: "The LORD said to Joshua, “Do not be afraid of them, for I have delivered them into your hand. Not one of them shall stand against you.”"
+hebrew: "וַיֹּ֨אמֶר יְהוָ֤ה אֶל־ יְהוֹשֻׁ֙עַ֙ אַל־ תִּירָ֣א מֵהֶ֔ם כִּ֥י בְיָדְךָ֖ נְתַתִּ֑ים לֹֽא־ יַעֲמֹ֥ד אִ֛ישׁ מֵהֶ֖ם בְּפָנֶֽיךָ׃"
+pericope: "[[Josh.10.1 The Day the Sun Stood Still|The Day the Sun Stood Still]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 10
+book/chapter: "[[Josh.10|Joshua 10]]"
+chronological_order: 240
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ADONI-ZEDEK|ADONI-ZEDEK]]"
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic DEBIR|DEBIR]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3091G]]"
+- "[[H0408]]"
+- "[[H3372G]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9021]]"
+- "[[H5414G]]"
+- "[[H3808]]"
+- "[[H5975G]]"
+- "[[H0376I]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 10:8**<big><big>[[Josh.10.1 The Day the Sun Stood Still|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Joshua, Fear them not: for I have delivered them into thine hand; there shall not a man of them stand before thee.
 <small><sub>**BSB:**</sub></small>
 The LORD said to Joshua, “Do not be afraid of them, for I have delivered them into your hand. Not one of them shall stand against you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֤ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֙עַ֙]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָ֣א]] [[H9006\|מֵ]][[H9038\|הֶ֔ם]] [[H3588A\|כִּ֥י]] [[H9003\|בְ]][[H3027H\|יָדְ]][[H9021\|ךָ֖]] [[H5414G\|נְתַתִּ֑י]][[H9038\|ם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5975G\|יַעֲמֹ֥ד]] [[H0376I\|אִ֛ישׁ]] [[H9006\|מֵ]][[H9038\|הֶ֖ם]] [[H9003\|בְּ]][[H6440G\|פָנֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADONI-ZEDEK|ADONI-ZEDEK]] • [[topic AMORITES|AMORITES]] • [[topic DEBIR|DEBIR]] • [[topic HEBRON|HEBRON]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.7|<< Joshua 10:7]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.9|Joshua 10:9 >>]]</td></tr></table>
 

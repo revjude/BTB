@@ -1,8 +1,66 @@
+---
+title: 2 Chronicles 32:12
+type: Verse
+kjv: "Hath not the same Hezekiah taken away his high places and his altars, and commanded Judah and Jerusalem, saying, Ye shall worship before one altar, and burn incense upon it?"
+bsb: "Did not Hezekiah himself remove His high places and His altars and say to Judah and Jerusalem, ‘You must worship before one altar, and on it you shall burn sacrifices’?"
+hebrew: "הֲלֹא־ הוּא֙ יְחִזְקִיָּ֔הוּ הֵסִ֥יר אֶת־ בָּמֹתָ֖יו וְאֶת־ מִזְבְּחֹתָ֑יו וַיֹּ֨אמֶר לִֽיהוּדָ֤ה וְלִֽירוּשָׁלִַ֙ם֙ לֵאמֹ֔ר לִפְנֵ֨י מִזְבֵּ֧חַ אֶחָ֛ד תִּֽשְׁתַּחֲו֖וּ וְעָלָ֥יו תַּקְטִֽירוּ׃"
+pericope: "[[2Chr.32.9 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 32
+book/chapter: "[[2Chr.32|2 Chronicles 32]]"
+chronological_order: 662
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic SIEGE|SIEGE]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H2396G]]"
+- "[[H5493G]]"
+- "[[H0853]]"
+- "[[H1116]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H4196]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H3063G]]"
+- "[[H3389]]"
+- "[[H6440G]]"
+- "[[H0259]]"
+- "[[H7812]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H6999H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 32:12**<big><big>[[2Chr.32.9 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hath not the same Hezekiah taken away his high places and his altars, and commanded Judah and Jerusalem, saying, Ye shall worship before one altar, and burn incense upon it?
 <small><sub>**BSB:**</sub></small>
 Did not Hezekiah himself remove His high places and His altars and say to Judah and Jerusalem, ‘You must worship before one altar, and on it you shall burn sacrifices’?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|לֹא]][[H9014\|־]] [[H1931\|הוּא֙]] [[H2396G\|יְחִזְקִיָּ֔הוּ]] [[H5493G\|הֵסִ֥יר]] [[H0853\|אֶת]][[H9014\|־]] [[H1116\|בָּמֹתָ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4196\|מִזְבְּחֹתָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H9005\|לִֽ]][[H3063G\|יהוּדָ֤ה]] [[H9002\|וְ]][[H9005\|לִֽ]][[H3389\|ירוּשָׁלִַ֙ם֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H9005\|לִ]][[H6440G\|פְנֵ֨י]] [[H4196\|מִזְבֵּ֧חַ]] [[H0259\|אֶחָ֛ד]] [[H7812\|תִּֽשְׁתַּחֲו֖וּ]] [[H9002\|וְ]][[H5921A\|עָלָ֥י]][[H9033\|ו]] [[H6999H\|תַּקְטִֽירוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INCENSE|INCENSE]] • [[topic SELF-EXALTATION|SELF-EXALTATION]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic SIEGE|SIEGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.11|<< 2 Chronicles 32:11]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.13|2 Chronicles 32:13 >>]]</td></tr></table>
 

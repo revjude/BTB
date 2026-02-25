@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Bildad：Job Should Repent
+type: Pericope
 pericope: "[[Job.8.1 Bildad：Job Should Repent|Bildad：Job Should Repent]]"
-verse_count: 22
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 8
 book/chapter: "[[Job.8|Job 8]]"
-genre:
+chronological_order: 19
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 22
 verses:
 - "[[Job.8.1]]"
 - "[[Job.8.2]]"
@@ -41,7 +48,7 @@ verses:
 - "[[Job.8.22]]"
 ---
 
-[[Job.8|Job 8:1 - Job 8:22]]
+<small>[[Job.8|Job 8:1-22]]</small>
 *Bildad：Job Should Repent*
 
 [[Job.8.1|1]] Then answered Bildad the Shuhite, and said,

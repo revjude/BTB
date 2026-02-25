@@ -1,8 +1,73 @@
+---
+title: Genesis 41:40
+type: Verse
+kjv: "Thou shalt be over my house, and according unto thy word shall all my people be ruled: only in the throne will I be greater than thou."
+bsb: "You shall be in charge of my house, and all my people are to obey your commands. Only with regard to the throne will I be greater than you.”"
+hebrew: "אַתָּה֙ תִּהְיֶ֣ה עַל־ בֵּיתִ֔י וְעַל־ פִּ֖יךָ יִשַּׁ֣ק כָּל־ עַמִּ֑י רַ֥ק הַכִּסֵּ֖א אֶגְדַּ֥ל מִמֶּֽךָּ׃"
+pericope: "[[Gen.41.37 Joseph Given Charge of Egypt|Joseph Given Charge of Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MINISTER, CIVIL|MINISTER, CIVIL]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROMOTION|PROMOTION]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic THRONE|THRONE]]"
+strongs:
+- "[[H0859A]]"
+- "[[H1961]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H6310I]]"
+- "[[H9021]]"
+- "[[H5401A]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H7535]]"
+- "[[H9009]]"
+- "[[H3678G]]"
+- "[[H1431]]"
+- "[[H4480A]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:40**<big><big>[[Gen.41.37 Joseph Given Charge of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt be over my house, and according unto thy word shall all my people be ruled: only in the throne will I be greater than thou.
 <small><sub>**BSB:**</sub></small>
 You shall be in charge of my house, and all my people are to obey your commands. Only with regard to the throne will I be greater than you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0859A\|אַתָּה֙]] [[H1961\|תִּהְיֶ֣ה]] [[H5921A\|עַל]][[H9014\|־]] [[H1004M\|בֵּיתִ֔]][[H9020\|י]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H6310I\|פִּ֖י]][[H9021\|ךָ]] [[H5401A\|יִשַּׁ֣ק]] [[H3605\|כָּל]][[H9014\|־]] [[H5971A\|עַמִּ֑]][[H9020\|י]] [[H7535\|רַ֥ק]] [[H9009\|הַ]][[H3678G\|כִּסֵּ֖א]] [[H1431\|אֶגְדַּ֥ל]] [[H4480A\|מִמֶּֽ]][[H9031\|ךָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTIVE|CAPTIVE]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic ECONOMICS|ECONOMICS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOSEPH|JOSEPH]] • [[topic MINISTER, CIVIL|MINISTER, CIVIL]] • [[topic PRISONERS|PRISONERS]] • [[topic PROMOTION|PROMOTION]] • [[topic PRUDENCE|PRUDENCE]] • [[topic RULERS|RULERS]] • [[topic SERVANT|SERVANT]] • [[topic THRONE|THRONE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.39|<< Genesis 41:39]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.41|Genesis 41:41 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

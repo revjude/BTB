@@ -1,8 +1,86 @@
+---
+title: 2 Kings 22:19
+type: Verse
+kjv: "Because thine heart was tender, and thou hast humbled thyself before the LORD, when thou heardest what I spake against this place, and against the inhabitants thereof, that they should become a desolation and a curse, and hast rent thy clothes, and wept before me; I also have heard thee, saith the LORD."
+bsb: "because your heart was tender and you humbled yourself before the LORD when you heard what I spoke against this place and against its people, that they would become a desolation and a curse, and because you have torn your clothes and wept before Me, I have heard you,’ declares the LORD."
+hebrew: "יַ֠עַן רַךְ־ לְבָ֨בְךָ֜ וַתִּכָּנַ֣ע׀ מִפְּנֵ֣י יְהוָ֗ה בְּֽשָׁמְעֲךָ֡ אֲשֶׁ֣ר דִּבַּרְתִּי֩ עַל־ הַמָּק֨וֹם הַזֶּ֜ה וְעַל־ יֹשְׁבָ֗יו לִהְי֤וֹת לְשַׁמָּה֙ וְלִקְלָלָ֔ה וַתִּקְרַע֙ אֶת־ בְּגָדֶ֔יךָ וַתִּבְכֶּ֖ה לְפָנָ֑י וְגַ֧ם אָנֹכִ֛י שָׁמַ֖עְתִּי נְאֻם־ יְהוָֽה׃"
+pericope: "[[2Kgs.22.14 Huldah’s Prophecy|Huldah’s Prophecy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 22
+book/chapter: "[[2Kgs.22|2 Kings 22]]"
+chronological_order: 711
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ASAHIAH|ASAHIAH]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HEART|HEART]]"
+- "[[topic HULDAH|HULDAH]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic RENDING|RENDING]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H3282]]"
+- "[[H7401]]"
+- "[[H9014]]"
+- "[[H3824]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H3665]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H8085G]]"
+- "[[H9041]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H1961]]"
+- "[[H8047G]]"
+- "[[H7045]]"
+- "[[H7167]]"
+- "[[H0853]]"
+- "[[H0899B]]"
+- "[[H1058]]"
+- "[[H9020]]"
+- "[[H1571]]"
+- "[[H0595]]"
+- "[[H5002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 22:19**<big><big>[[2Kgs.22.14 Huldah’s Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because thine heart was tender, and thou hast humbled thyself before the LORD, when thou heardest what I spake against this place, and against the inhabitants thereof, that they should become a desolation and a curse, and hast rent thy clothes, and wept before me; I also have heard [thee], saith the LORD.
 <small><sub>**BSB:**</sub></small>
 because your heart was tender and you humbled yourself before the LORD when you heard what I spoke against this place and against its people, that they would become a desolation and a curse, and because you have torn your clothes and wept before Me, I have heard you,’ declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3282\|יַ֠עַן]] [[H7401\|רַךְ]][[H9014\|־]] [[H3824\|לְבָ֨בְ]][[H9021\|ךָ֜]] [[H9001\|וַ]][[H3665\|תִּכָּנַ֣ע]][[H9015\|׀]] [[H9006\|מִ]][[H6440G\|פְּנֵ֣י]] [[H3068G\|יְהוָ֗ה]] [[H9003\|בְּֽ]][[H8085G\|שָׁמְעֲ]][[H9041\|ךָ֡]] [[H0834A\|אֲשֶׁ֣ר]] [[H1696G\|דִּבַּרְתִּי֩]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֨וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֜ה]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3427\|יֹשְׁבָ֗י]][[H9023\|ו]] [[H9005\|לִ]][[H1961\|הְי֤וֹת]] [[H9005\|לְ]][[H8047G\|שַׁמָּה֙]] [[H9002\|וְ]][[H9005\|לִ]][[H7045\|קְלָלָ֔ה]] [[H9001\|וַ]][[H7167\|תִּקְרַע֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0899B\|בְּגָדֶ֔י]][[H9021\|ךָ]] [[H9001\|וַ]][[H1058\|תִּבְכֶּ֖ה]] [[H9005\|לְ]][[H6440G\|פָנָ֑]][[H9020\|י]] [[H9002\|וְ]][[H1571\|גַ֧ם]] [[H0595\|אָנֹכִ֛י]] [[H8085G\|שָׁמַ֖עְתִּי]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ASAHIAH|ASAHIAH]] • [[topic DEATH|DEATH]] • [[topic HEART|HEART]] • [[topic HULDAH|HULDAH]] • [[topic JOSIAH|JOSIAH]] • [[topic MOURNING|MOURNING]] • [[topic PENITENT|PENITENT]] • [[topic RENDING|RENDING]] • [[topic REPENTANCE|REPENTANCE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.22.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.22.18|<< 2 Kings 22:18]]</td><td align="center" style="border:none;">[[2Kgs.22|2 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.22.20|2 Kings 22:20 >>]]</td></tr></table>
 

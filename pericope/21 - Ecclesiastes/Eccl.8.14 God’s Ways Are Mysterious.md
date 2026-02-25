@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Ways Are Mysterious
+type: Pericope
 pericope: "[[Eccl.8.14 God’s Ways Are Mysterious|God’s Ways Are Mysterious]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Ecclesiastes
 chapter: 8
 book/chapter: "[[Eccl.8|Ecclesiastes 8]]"
-genre:
+chronological_order: 546
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - philosophical
 - megillot
+verse_count: 4
 verses:
 - "[[Eccl.8.14]]"
 - "[[Eccl.8.15]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Eccl.8.17]]"
 ---
 
-[[Eccl.8|Ecclesiastes 8:14 - Ecclesiastes 8:17]]
+<small>[[Eccl.8|Ecclesiastes 8:14-17]]</small>
 *God’s Ways Are Mysterious*
 
 [[Eccl.8.14|14]] There is a vanity which is done upon the earth; that there be just \[men\], unto whom it happeneth according to the work of the wicked; again, there be wicked \[men\], to whom it happeneth according to the work of the righteous: I said that this also \[is\] vanity.

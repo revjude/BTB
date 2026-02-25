@@ -1,8 +1,76 @@
+---
+title: Ezra 10:6
+type: Verse
+kjv: "Then Ezra rose up from before the house of God, and went into the chamber of Johanan the son of Eliashib: and when he came thither, he did eat no bread, nor drink water: for he mourned because of the transgression of them that had been carried away."
+bsb: "Then Ezra withdrew from before the house of God and walked to the chamber of Jehohanan son of Eliashib. And while he stayed there, he ate no food and drank no water, because he was mourning over the unfaithfulness of the exiles."
+hebrew: "וַיָּ֣קָם עֶזְרָ֗א מִלִּפְנֵי֙ בֵּ֣ית הָֽאֱלֹהִ֔ים וַיֵּ֕לֶךְ אֶל־ לִשְׁכַּ֖ת יְהוֹחָנָ֣ן בֶּן־ אֶלְיָשִׁ֑יב וַיֵּ֣לֶךְ שָׁ֗ם לֶ֤חֶם לֹֽא־ אָכַל֙ וּמַ֣יִם לֹֽא־ שָׁתָ֔ה כִּ֥י מִתְאַבֵּ֖ל עַל־ מַ֥עַל הַגּוֹלָֽה׃ ס"
+pericope: "[[Ezra.10.6 The People’s Confession of Sin|The People’s Confession of Sin]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 10
+book/chapter: "[[Ezra.10|Ezra 10]]"
+chronological_order: 912
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic EZRA|EZRA]]"
+- "[[topic FASTING|FASTING]]"
+- "[[topic JOHANAN|JOHANAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H5830G]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H1004Q]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H1980G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3957]]"
+- "[[H3076M]]"
+- "[[H1121A]]"
+- "[[H0475I]]"
+- "[[H1980L]]"
+- "[[H8033G]]"
+- "[[H3899H]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H9002]]"
+- "[[H4325G]]"
+- "[[H8354]]"
+- "[[H3588A]]"
+- "[[H0056]]"
+- "[[H5921A]]"
+- "[[H4604]]"
+- "[[H1473]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezra 10:6**<big><big>[[Ezra.10.6 The People’s Confession of Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Ezra rose up from before the house of God, and went into the chamber of Johanan the son of Eliashib: and [when] he came thither, he did eat no bread, nor drink water: for he mourned because of the transgression of them that had been carried away.
 <small><sub>**BSB:**</sub></small>
 Then Ezra withdrew from before the house of God and walked to the chamber of Jehohanan son of Eliashib. And while he stayed there, he ate no food and drank no water, because he was mourning over the unfaithfulness of the exiles.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּ֣קָם]] [[H5830G\|עֶזְרָ֗א]] [[H9006\|מִ]][[H9005\|לִּ]][[H6440G\|פְנֵי֙]] [[H1004Q\|בֵּ֣ית]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֔ים]] [[H9001\|וַ]][[H1980G\|יֵּ֕לֶךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H3957\|לִשְׁכַּ֖ת]] [[H3076M\|יְהוֹחָנָ֣ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0475I\|אֶלְיָשִׁ֑יב]] [[H9001\|וַ]][[H1980L\|יֵּ֣לֶךְ]] [[H8033G\|שָׁ֗ם]] [[H3899H\|לֶ֤חֶם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0398\|אָכַל֙]] [[H9002\|וּ]][[H4325G\|מַ֣יִם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H8354\|שָׁתָ֔ה]] [[H3588A\|כִּ֥י]] [[H0056\|מִתְאַבֵּ֖ל]] [[H5921A\|עַל]][[H9014\|־]] [[H4604\|מַ֥עַל]] [[H9009\|הַ]][[H1473\|גּוֹלָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DECISION|DECISION]] • [[topic DIVORCE|DIVORCE]] • [[topic EZRA|EZRA]] • [[topic FASTING|FASTING]] • [[topic JOHANAN|JOHANAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.10.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.5|<< Ezra 10:5]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.7|Ezra 10:7 >>]]</td></tr></table>
 
@@ -31,7 +99,7 @@ Then Ezra withdrew from before the house of God and walked to the chamber of Jeh
 | [he was] mourning  |**<big>&#8207;[[H0056\|מִתְאַבֵּ֖ל]]&#8207; </big>**| mit.'a.Bel<small><sup>[[HVtrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] unfaithfulness of  |**<big>&#8207;[[H4604\|מַ֥עַל]]&#8207; </big>**| Ma.'al<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the exile[s]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1473\|גּוֹלָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> go.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the exile[s]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1473\|גּוֹלָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> go.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.5|<< Ezra 10:5]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.7|Ezra 10:7 >>]]</td></tr></table>
 
 

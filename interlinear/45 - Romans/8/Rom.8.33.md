@@ -1,10 +1,49 @@
+---
+title: Romans 8:33
+type: Verse
+kjv: "Who shall lay any thing to the charge of God’s elect? It is God that justifieth."
+bsb: "Who will bring any charge against God’s elect? It is God who justifies."
+greek: "Τίς ἐγκαλέσει κατὰ ἐκλεκτῶν θεοῦ; θεὸς ὁ δικαιῶν·"
+pericope: "[[Rom.8.28 God Works in All Things|God Works in All Things]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 8
+book/chapter: "[[Rom.8|Romans 8]]"
+chronological_order: 1094
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G5101]]"
+- "[[G1458]]"
+- "[[G2596]]"
+- "[[G1588]]"
+- "[[G2316]]"
+- "[[G3588]]"
+- "[[G1344]]"
+texts:
+- NKO
+---
+
 **Romans 8:33**<big><big>[[Rom.8.28 God Works in All Things|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who shall lay any thing to the charge of God’s elect? [It is] God that justifieth.
 <small><sub>**BSB:**</sub></small>
 Who will bring any charge against God’s elect? It is God who justifies.
-<small><sub>**Literal:**</sub></small>
-Who will bring an accusation against [the] elect of God? God [is] who is justifying;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.32|<< Romans 8:32]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.34|Romans 8:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|Τίς]]  [[G1458\|ἐγκαλέσει]]  [[G2596\|κατὰ]]  [[G1588\|ἐκλεκτῶν]]  [[G2316\|θεοῦ;]]  [[G2316\|θεὸς]]  [[G3588\|ὁ]]  [[G1344\|δικαιῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUSTIFICATION|JUSTIFICATION]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.32|<< Romans 8:32]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.34|Romans 8:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

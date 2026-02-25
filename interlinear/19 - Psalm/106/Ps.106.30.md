@@ -1,8 +1,54 @@
+---
+title: Psalm 106:30
+type: Verse
+kjv: "Then stood up Phinehas, and executed judgment: and so the plague was stayed."
+bsb: "But Phinehas stood and intervened, and the plague was restrained."
+hebrew: "וַיַּעֲמֹ֣ד פִּֽ֭ינְחָס וַיְפַלֵּ֑ל וַ֝תֵּעָצַ֗ר הַמַּגֵּפָֽה׃"
+pericope: "[[Ps.106.1 Give Thanks to the LORD, for He Is Good|Give Thanks to the LORD, for He Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 106
+book/chapter: "[[Ps.106|Psalm 106]]"
+chronological_order: 530
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PHINEHAS|PHINEHAS]]"
+- "[[topic WORKS|WORKS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5975G]]"
+- "[[H6372G]]"
+- "[[H6419]]"
+- "[[H6113]]"
+- "[[H9009]]"
+- "[[H4046]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 106:30**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then stood up Phinehas, and executed judgment: and [so] the plague was stayed.
 <small><sub>**BSB:**</sub></small>
 But Phinehas stood and intervened, and the plague was restrained.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5975G\|יַּעֲמֹ֣ד]] [[H6372G\|פִּֽ֭ינְחָס]] [[H9001\|וַ]][[H6419\|יְפַלֵּ֑ל]] [[H9001\|וַ֝]][[H6113\|תֵּעָצַ֗ר]] [[H9009\|הַ]][[H4046\|מַּגֵּפָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OBEDIENCE|OBEDIENCE]] • [[topic PHINEHAS|PHINEHAS]] • [[topic WORKS|WORKS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.29|<< Psalms 106:29]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.31|Psalms 106:31 >>]]</td></tr></table>
 

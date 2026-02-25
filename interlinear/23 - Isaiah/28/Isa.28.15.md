@@ -1,8 +1,80 @@
+---
+title: Isaiah 28:15
+type: Verse
+kjv: "Because ye have said, We have made a covenant with death, and with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: for we have made lies our refuge, and under falsehood have we hid ourselves:"
+bsb: "For you said, “We have made a covenant with death; we have fashioned an agreement with Sheol. When the overwhelming scourge passes through it will not touch us, because we have made lies our refuge and falsehood our hiding place.”"
+hebrew: "כִּ֣י אֲמַרְתֶּ֗ם כָּרַ֤תְנֽוּ בְרִית֙ אֶת־ מָ֔וֶת וְעִם־ שְׁא֖וֹל עָשִׂ֣ינוּ חֹזֶ֑ה שׁ֣וֹט שׁוֹטֵ֤ף כִּֽי־ יַֽעֲבֹר֙ לֹ֣א יְבוֹאֵ֔נוּ כִּ֣י שַׂ֧מְנוּ כָזָ֛ב מַחְסֵ֖נוּ וּבַשֶּׁ֥קֶר נִסְתָּֽרְנוּ׃ ס"
+pericope: "[[Isa.28.14 A Cornerstone in Zion|A Cornerstone in Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 28
+book/chapter: "[[Isa.28|Isaiah 28]]"
+chronological_order: 671
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HELL|HELL]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MOCKING|MOCKING]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SECURITY|SECURITY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0559]]"
+- "[[H3772H]]"
+- "[[H1285]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H4194]]"
+- "[[H9002]]"
+- "[[H5973A]]"
+- "[[H7585]]"
+- "[[H6213H]]"
+- "[[H2374]]"
+- "[[H7885]]"
+- "[[H7752]]"
+- "[[H7857]]"
+- "[[H5674A]]"
+- "[[H3808]]"
+- "[[H0935G]]"
+- "[[H9035]]"
+- "[[H7760A]]"
+- "[[H3577]]"
+- "[[H4268]]"
+- "[[H9025]]"
+- "[[H9003]]"
+- "[[H8267]]"
+- "[[H5641]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Isaiah 28:15**<big><big>[[Isa.28.14 A Cornerstone in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because ye have said, We have made a covenant with death, and with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: for we have made lies our refuge, and under falsehood have we hid ourselves:
 <small><sub>**BSB:**</sub></small>
 For you said, “We have made a covenant with death; we have fashioned an agreement with Sheol. When the overwhelming scourge passes through it will not touch us, because we have made lies our refuge and falsehood our hiding place.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H0559\|אֲמַרְתֶּ֗ם]] [[H3772H\|כָּרַ֤תְנֽוּ]] [[H1285\|בְרִית֙]] [[H0854\|אֶת]][[H9014\|־]] [[H4194\|מָ֔וֶת]] [[H9002\|וְ]][[H5973A\|עִם]][[H9014\|־]] [[H7585\|שְׁא֖וֹל]] [[H6213H\|עָשִׂ֣ינוּ]] [[H2374\|חֹזֶ֑ה]] [[H7752\|שׁ֣וֹט]] [[H7857\|שׁוֹטֵ֤ף]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5674A\|יַֽעֲבֹר֙]] [[H3808\|לֹ֣א]] [[H0935G\|יְבוֹאֵ֔]][[H9035\|נוּ]] [[H3588A\|כִּ֣י]] [[H7760A\|שַׂ֧מְנוּ]] [[H3577\|כָזָ֛ב]] [[H4268\|מַחְסֵ֖]][[H9025\|נוּ]] [[H9002\|וּ]][[H9003\|בַ]][[H8267\|שֶּׁ֥קֶר]] [[H5641\|נִסְתָּֽרְנוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HELL|HELL]] • [[topic INFIDELITY|INFIDELITY]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MOCKING|MOCKING]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic RULERS|RULERS]] • [[topic SECURITY|SECURITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.14|<< Isaiah 28:14]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.16|Isaiah 28:16 >>]]</td></tr></table>
 
@@ -29,7 +101,7 @@ For you said, “We have made a covenant with death; we have fashioned an agreem
 | falsehood  |**<big>&#8207;[[H3577\|כָזָ֛ב]]&#8207; </big>**| kha.Zav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | refuge our  |**<big>&#8207;[[H4268\|מַחְסֵ֖]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| mach.Se.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and in \<the> deception  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H8267\|שֶּׁ֥קֶר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> She.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| we have hidden ourselves  |**<big>&#8207;[[H5641\|נִסְתָּֽרְנוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| nis.Ta.re.nu<small><sup>[[HVNp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| we have hidden ourselves  |**<big>&#8207;[[H5641\|נִסְתָּֽרְנוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| nis.Ta.re.nu<small><sup>[[HVNp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.14|<< Isaiah 28:14]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.16|Isaiah 28:16 >>]]</td></tr></table>
 
 [^1]: an oar  | **<big>[[H7885|שִׁיט]]</big> ** | shit<small><sup>[[HNcbsa]]</sup></small> | K

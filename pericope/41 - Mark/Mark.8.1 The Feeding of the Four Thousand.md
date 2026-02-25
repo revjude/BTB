@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Feeding of the Four Thousand
+type: Pericope
 pericope: "[[Mark.8.1 The Feeding of the Four Thousand|The Feeding of the Four Thousand]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Mark
 chapter: 8
 book/chapter: "[[Mark.8|Mark 8]]"
-genre:
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 10
 verses:
 - "[[Mark.8.1]]"
 - "[[Mark.8.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Mark.8.10]]"
 ---
 
-[[Mark.8|Mark 8:1 - Mark 8:10]]
+<small>[[Mark.8|Mark 8:1-10]]</small>
 *The Feeding of the Four Thousand*
 
 [[Mark.8.1|1]] In those days the multitude being very great, and having nothing to eat, Jesus called his disciples \[unto him\], and saith unto them,

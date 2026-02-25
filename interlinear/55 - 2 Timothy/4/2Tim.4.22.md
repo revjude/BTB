@@ -1,10 +1,68 @@
+---
+title: 2 Timothy 4:22
+type: Verse
+kjv: "The Lord Jesus Christ be with thy spirit. Grace be with you. Amen."
+bsb: "The Lord be with your spirit. Grace be with you all."
+greek: "Ὁ κύριος Ἰησοῦς Χριστὸς μετὰ τοῦ πνεύματός σου. ἡ χάρις μεθ᾽ ὑμῶν ἀμήν. πρός Τιμόθεον δευτέρᾳ τῆς Ἐφεσίων ἐκκλησίας πρῶτον ἐπίσκοπον χειροτονηθέντα ἐγράφη ἀπό Ῥώμης ὅτε ἐκ δευτέρου παρέστη Παῦλος τῷ Καίσαρί Νέρωνι¶"
+pericope: "[[2Tim.4.19 Final Greetings|Final Greetings]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 4
+book/chapter: "[[2Tim.4|2 Timothy 4]]"
+chronological_order: 1156
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+strongs:
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G3326]]"
+- "[[G4151G]]"
+- "[[G4771]]"
+- "[[G5485]]"
+- "[[G0281]]"
+- "[[G4314]]"
+- "[[G5095]]"
+- "[[G1208]]"
+- "[[G2180]]"
+- "[[G1577]]"
+- "[[G4413G]]"
+- "[[G1985]]"
+- "[[G5500]]"
+- "[[G1125]]"
+- "[[G0575]]"
+- "[[G4516]]"
+- "[[G3753]]"
+- "[[G1537]]"
+- "[[G3936]]"
+- "[[G3972G]]"
+- "[[G2541]]"
+- "[[G3505]]"
+texts:
+- NKO
+- K
+- KO
+---
+
 **2 Timothy 4:22**<big><big>[[2Tim.4.19 Final Greetings|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The Lord Jesus Christ [be] with thy spirit. Grace [be] with you. Amen.
 <small><sub>**BSB:**</sub></small>
 The Lord be with your spirit. Grace be with you all.
-<small><sub>**Literal:**</sub></small>
-The Lord Jesus Christ [be] with the spirit of you. <the> Grace [be] with you all Amen. to Timothy second [epistle] of the Ephesian church first overseer having been chosen It was written from Rome when from second time stood Paul <the> before Caesar Nero<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.21|<< 2 Timothy 4:21]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.1|Titus 1:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G2962G\|κύριος]]  [[G2424G\|Ἰησοῦς]]  [[G5547\|Χριστὸς]]  [[G3326\|μετὰ]]  [[G3588\|τοῦ]]  [[G4151G\|πνεύματός]]  [[G4771\|σου.]]  [[G3588\|ἡ]]  [[G5485\|χάρις]]  [[G3326\|μεθ᾽]]  [[G4771\|ὑμῶν]]  [[G0281\|ἀμήν.]]  [[G4314\|πρός]]  [[G5095\|Τιμόθεον]]  [[G1208\|δευτέρᾳ]]  [[G3588\|τῆς]]  [[G2180\|Ἐφεσίων]]  [[G1577\|ἐκκλησίας]]  [[G4413G\|πρῶτον]]  [[G1985\|ἐπίσκοπον]]  [[G5500\|χειροτονηθέντα]]  [[G1125\|ἐγράφη]]  [[G0575\|ἀπό]]  [[G4516\|Ῥώμης]]  [[G3753\|ὅτε]]  [[G1537\|ἐκ]]  [[G1208\|δευτέρου]]  [[G3936\|παρέστη]]  [[G3972G\|Παῦλος]]  [[G3588\|τῷ]]  [[G2541\|Καίσαρί]]  [[G3505\|Νέρωνι¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.21|<< 2 Timothy 4:21]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.1|Titus 1:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

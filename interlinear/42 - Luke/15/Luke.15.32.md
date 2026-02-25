@@ -1,10 +1,68 @@
+---
+title: Luke 15:32
+type: Verse
+kjv: "It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found."
+bsb: "But it was fitting to celebrate and be glad, because this brother of yours was dead and is alive again; he was lost and is found.’”"
+jesus_said: "It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found."
+greek: "εὐφρανθῆναι δὲ καὶ χαρῆναι ἔδει, ὅτι ὁ ἀδελφός σου οὗτος νεκρὸς ἦν καὶ ἔζησεν, καὶ ἀπολωλὼς ἦν καὶ εὑρέθη.¶"
+pericope: "[[Luke.15.11 The Parable of the Prodigal Son|The Parable of the Prodigal Son]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 15
+book/chapter: "[[Luke.15|Luke 15]]"
+chronological_order: 977
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRODIGAL SON|PRODIGAL SON]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G2165]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G5463]]"
+- "[[G1163]]"
+- "[[G3754H]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G4771]]"
+- "[[G3778]]"
+- "[[G3498]]"
+- "[[G1510]]"
+- "[[G2198]]"
+- "[[G0622]]"
+- "[[G2147]]"
+texts:
+- NKO
+- N(K)O
+- k
+---
+
 **Luke 15:32**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found.
 <small><sub>**BSB:**</sub></small>
 But it was fitting to celebrate and be glad, because this brother of yours was dead and is alive again; he was lost and is found.’”
-<small><sub>**Literal:**</sub></small>
-To make merry however and to rejoice it was fitting, because the brother of you this dead was and is alive , and having been lost was and is found.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.31|<< Luke 15:31]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.1|Luke 16:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2165\|εὐφρανθῆναι]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G5463\|χαρῆναι]]  [[G1163\|ἔδει,]]  [[G3754H\|ὅτι]]  [[G3588\|ὁ]]  [[G0080\|ἀδελφός]]  [[G4771\|σου]]  [[G3778\|οὗτος]]  [[G3498\|νεκρὸς]]  [[G1510\|ἦν]]  [[G2532\|καὶ]]  [[G2198\|ἔζησεν,]]  [[G2532\|καὶ]]  [[G0622\|ἀπολωλὼς]]  [[G1510\|ἦν]]  [[G2532\|καὶ]]  [[G2147\|εὑρέθη.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEAVEN|HEAVEN]] • [[topic JEALOUSY|JEALOUSY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic PENITENT|PENITENT]] • [[topic PRODIGAL SON|PRODIGAL SON]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SALVATION|SALVATION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.31|<< Luke 15:31]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.1|Luke 16:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

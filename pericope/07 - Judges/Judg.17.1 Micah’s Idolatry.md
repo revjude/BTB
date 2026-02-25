@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Micah’s Idolatry
+type: Pericope
 pericope: "[[Judg.17.1 Micah’s Idolatry|Micah’s Idolatry]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 17
 book/chapter: "[[Judg.17|Judges 17]]"
-genre:
+chronological_order: 271
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 13
 verses:
 - "[[Judg.17.1]]"
 - "[[Judg.17.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Judg.17.13]]"
 ---
 
-[[Judg.17|Judges 17:1 - Judges 17:13]]
+<small>[[Judg.17|Judges 17:1-13]]</small>
 *Micah’s Idolatry*
 
 [[Judg.17.1|1]] And there was a man of mount Ephraim, whose name \[was\] Micah.

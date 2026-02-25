@@ -1,8 +1,52 @@
+---
+title: Job 18:20
+type: Verse
+kjv: "They that come after him shall be astonied at his day, as they that went before were affrighted."
+bsb: "Those in the west are appalled at his fate, while those in the east tremble in horror."
+hebrew: "עַל־ י֭וֹמוֹ נָשַׁ֣מּוּ אַחֲרֹנִ֑ים וְ֝קַדְמֹנִ֗ים אָ֣חֲזוּ שָֽׂעַר׃"
+pericope: "[[Job.18.1 Bildad：God Punishes the Wicked|Bildad：God Punishes the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 18
+book/chapter: "[[Job.18|Job 18]]"
+chronological_order: 29
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3117L]]"
+- "[[H9023]]"
+- "[[H8074H]]"
+- "[[H0314]]"
+- "[[H9002]]"
+- "[[H6931G]]"
+- "[[H0270]]"
+- "[[H8178A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 18:20**<big><big>[[Job.18.1 Bildad：God Punishes the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that come after [him] shall be astonied at his day, as they that went before were affrighted.
 <small><sub>**BSB:**</sub></small>
 Those in the west are appalled at his fate, while those in the east tremble in horror.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3117L\|י֭וֹמ]][[H9023\|וֹ]] [[H8074H\|נָשַׁ֣מּוּ]] [[H0314\|אַחֲרֹנִ֑ים]] [[H9002\|וְ֝]][[H6931G\|קַדְמֹנִ֗ים]] [[H0270\|אָ֣חֲזוּ]] [[H8178A\|שָֽׂעַר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.18.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.18.19|<< Job 18:19]]</td><td align="center" style="border:none;">[[Job.18|Job 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.18.21|Job 18:21 >>]]</td></tr></table>
 

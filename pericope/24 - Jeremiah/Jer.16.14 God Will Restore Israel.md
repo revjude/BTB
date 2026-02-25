@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God Will Restore Israel
+type: Pericope
 pericope: "[[Jer.16.14 God Will Restore Israel|God Will Restore Israel]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 16
 book/chapter: "[[Jer.16|Jeremiah 16]]"
-genre:
+chronological_order: 733
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 8
 verses:
 - "[[Jer.16.14]]"
 - "[[Jer.16.15]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Jer.16.21]]"
 ---
 
-[[Jer.16|Jeremiah 16:14 - Jeremiah 16:21]]
+<small>[[Jer.16|Jeremiah 16:14-21]]</small>
 *God Will Restore Israel*
 
 [[Jer.16.14|14]] Therefore, behold, the days come, saith the LORD, that it shall no more be said, The LORD liveth, that brought up the children of Israel out of the land of Egypt;

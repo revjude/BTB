@@ -1,10 +1,71 @@
+---
+title: Matthew 6:25
+type: Verse
+kjv: "Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?"
+bsb: "Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes?"
+jesus_said: "Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?"
+greek: "Διὰ τοῦτο λέγω ὑμῖν· μὴ μεριμνᾶτε τῇ ψυχῇ ὑμῶν τί φάγητε ἢ τί πίητε, μηδὲ τῷ σώματι ὑμῶν τί ἐνδύσησθε. οὐχὶ ἡ ψυχὴ πλεῖόν ἐστιν τῆς τροφῆς καὶ τὸ σῶμα τοῦ ἐνδύματος;"
+pericope: "[[Matt.6.25 Do Not Worry|Do Not Worry]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 6
+book/chapter: "[[Matt.6|Matthew 6]]"
+chronological_order: 944
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CARE|CARE]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic TROUBLE|TROUBLE]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3361]]"
+- "[[G3309]]"
+- "[[G3588]]"
+- "[[G5590H]]"
+- "[[G5101]]"
+- "[[G5315]]"
+- "[[G2228]]"
+- "[[G4095]]"
+- "[[G3366]]"
+- "[[G4983]]"
+- "[[G1746]]"
+- "[[G3780]]"
+- "[[G4119]]"
+- "[[G1510]]"
+- "[[G5160]]"
+- "[[G2532]]"
+- "[[G1742]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 6:25**<big><big>[[Matt.6.25 Do Not Worry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?
 <small><sub>**BSB:**</sub></small>
 Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes?
-<small><sub>**Literal:**</sub></small>
-Because of this I say to you; not do be anxious about the life of you what you may eat or what you may drink, nor about the body of you what you may put on. Surely <the> life more is <the> [than] food and the body <the> [than] clothing?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.24|<< Matthew 6:24]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.26|Matthew 6:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|Διὰ]]  [[G3778\|τοῦτο]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G3361\|μὴ]]  [[G3309\|μεριμνᾶτε]]  [[G3588\|τῇ]]  [[G5590H\|ψυχῇ]]  [[G4771\|ὑμῶν]]  [[G5101\|τί]]  [[G5315\|φάγητε]]  [[G2228\|ἢ]]  [[G5101\|τί]]  [[G4095\|πίητε,]]  [[G3366\|μηδὲ]]  [[G3588\|τῷ]]  [[G4983\|σώματι]]  [[G4771\|ὑμῶν]]  [[G5101\|τί]]  [[G1746\|ἐνδύσησθε.]]  [[G3780\|οὐχὶ]]  [[G3588\|ἡ]]  [[G5590H\|ψυχὴ]]  [[G4119\|πλεῖόν]]  [[G1510\|ἐστιν]]  [[G3588\|τῆς]]  [[G5160\|τροφῆς]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G3588\|τοῦ]]  [[G1742\|ἐνδύματος;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARE|CARE]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FAITH|FAITH]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic RELIGION|RELIGION]] • [[topic TROUBLE|TROUBLE]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.24|<< Matthew 6:24]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.26|Matthew 6:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

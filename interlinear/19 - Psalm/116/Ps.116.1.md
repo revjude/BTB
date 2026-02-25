@@ -1,8 +1,57 @@
+---
+title: Psalm 116:1
+type: Verse
+kjv: "I love the LORD, because he hath heard my voice and my supplications."
+bsb: "I love the LORD, for He has heard my voice—my appeal for mercy."
+hebrew: "אָ֭הַבְתִּי כִּֽי־ יִשְׁמַ֥ע׀ יְהוָ֑ה אֶת־ ק֝וֹלִ֗י תַּחֲנוּנָֽי׃"
+pericope: "[[Ps.116.1 The LORD Has Heard My Voice|The LORD Has Heard My Voice]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 116
+book/chapter: "[[Ps.116|Psalm 116]]"
+chronological_order: 878
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[H0157G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H6963A]]"
+- "[[H9020]]"
+- "[[H8469]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 116:1**<big><big>[[Ps.116.1 The LORD Has Heard My Voice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I love the LORD, because he hath heard my voice [and] my supplications.
 <small><sub>**BSB:**</sub></small>
 I love the LORD, for He has heard my voice—my appeal for mercy.
+<small><sub>**Hebrew:**</sub></small>
+[[H0157G\|אָ֭הַבְתִּי]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H8085G\|יִשְׁמַ֥ע]][[H9015\|׀]] [[H3068G\|יְהוָ֑ה]] [[H0853\|אֶת]][[H9014\|־]] [[H6963A\|ק֝וֹלִ֗]][[H9020\|י]] [[H8469\|תַּחֲנוּנָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic LOVE|LOVE]] • [[topic PRAYER|PRAYER]] • [[topic TESTIMONY|TESTIMONY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.116.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.115.18|<< Psalms 115:18]]</td><td align="center" style="border:none;">[[Ps.116|Psalms 116]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.116.2|Psalms 116:2 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Stone of Bethel
+type: Pericope
 pericope: "[[Gen.28.18 The Stone of Bethel|The Stone of Bethel]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 28
 book/chapter: "[[Gen.28|Genesis 28]]"
-genre:
+chronological_order: 70
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 5
 verses:
 - "[[Gen.28.18]]"
 - "[[Gen.28.19]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Gen.28.22]]"
 ---
 
-[[Gen.28|Genesis 28:18 - Genesis 28:22]]
+<small>[[Gen.28|Genesis 28:18-22]]</small>
 *The Stone of Bethel*
 
 [[Gen.28.18|18]] And Jacob rose up early in the morning, and took the stone that he had put \[for\] his pillows, and set it up \[for\] a pillar, and poured oil upon the top of it.

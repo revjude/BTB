@@ -1,8 +1,71 @@
+---
+title: 2 Chronicles 6:5
+type: Verse
+kjv: "Since the day that I brought forth my people out of the land of Egypt I chose no city among all the tribes of Israel to build an house in, that my name might be there; neither chose I any man to be a ruler over my people Israel:"
+bsb: "‘Since the day I brought My people out of the land of Egypt, I have not chosen a city from any tribe of Israel in which to build a house so that My Name would be there, nor have I chosen anyone to be ruler over My people Israel."
+hebrew: "מִן־ הַיּ֗וֹם אֲשֶׁ֨ר הוֹצֵ֣אתִי אֶת־ עַמִּי֮ מֵאֶ֣רֶץ מִצְרַיִם֒ לֹא־ בָחַ֣רְתִּֽי בְעִ֗יר מִכֹּל֙ שִׁבְטֵ֣י יִשְׂרָאֵ֔ל לִבְנ֣וֹת בַּ֔יִת לִהְי֥וֹת שְׁמִ֖י שָׁ֑ם וְלֹא־ בָחַ֣רְתִּֽי בְאִ֔ישׁ לִהְי֥וֹת נָגִ֖יד עַל־ עַמִּ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[2Chr.6.1 Solomon Blesses the LORD|Solomon Blesses the LORD]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 6
+book/chapter: "[[2Chr.6|2 Chronicles 6]]"
+chronological_order: 495
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0834A]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H3808]]"
+- "[[H0977]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H3605]]"
+- "[[H7626H]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H1129]]"
+- "[[H1004B]]"
+- "[[H1961]]"
+- "[[H8034]]"
+- "[[H8033G]]"
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H5057]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 6:5**<big><big>[[2Chr.6.1 Solomon Blesses the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Since the day that I brought forth my people out of the land of Egypt I chose no city among all the tribes of Israel to build an house in, that my name might be there; neither chose I any man to be a ruler over my people Israel:
 <small><sub>**BSB:**</sub></small>
 ‘Since the day I brought My people out of the land of Egypt, I have not chosen a city from any tribe of Israel in which to build a house so that My Name would be there, nor have I chosen anyone to be ruler over My people Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּ֗וֹם]] [[H0834A\|אֲשֶׁ֨ר]] [[H3318H\|הוֹצֵ֣אתִי]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ]][[H9020\|י֮]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַיִם֒]] [[H3808\|לֹא]][[H9014\|־]] [[H0977\|בָחַ֣רְתִּֽי]] [[H9003\|בְ]][[H5892B\|עִ֗יר]] [[H9006\|מִ]][[H3605\|כֹּל֙]] [[H7626H\|שִׁבְטֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9005\|לִ]][[H1129\|בְנ֣וֹת]] [[H1004B\|בַּ֔יִת]] [[H9005\|לִ]][[H1961\|הְי֥וֹת]] [[H8034\|שְׁמִ֖]][[H9020\|י]] [[H8033G\|שָׁ֑ם]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H0977\|בָחַ֣רְתִּֽי]] [[H9003\|בְ]][[H0376G\|אִ֔ישׁ]] [[H9005\|לִ]][[H1961\|הְי֥וֹת]] [[H5057\|נָגִ֖יד]] [[H5921A\|עַל]][[H9014\|־]] [[H5971A\|עַמִּ֥]][[H9020\|י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.4|<< 2 Chronicles 6:4]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.6|2 Chronicles 6:6 >>]]</td></tr></table>
 

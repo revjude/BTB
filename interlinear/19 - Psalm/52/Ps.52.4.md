@@ -1,8 +1,56 @@
+---
+title: Psalm 52:4
+type: Verse
+kjv: "Thou lovest all devouring words, O thou deceitful tongue."
+bsb: "You love every word that devours, O deceitful tongue."
+hebrew: "אָהַ֥בְתָּ כָֽל־ דִּבְרֵי־ בָ֗לַע לְשׁ֣וֹן מִרְמָֽה׃"
+pericope: "[[Ps.52.1 Why Do You Boast of Evil？|Why Do You Boast of Evil？]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 52
+book/chapter: "[[Ps.52|Psalm 52]]"
+chronological_order: 313
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0157G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H1105]]"
+- "[[H3956G]]"
+- "[[H4820]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 52:4**<big><big>[[Ps.52.1 Why Do You Boast of Evil？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou lovest all devouring words, O [thou] deceitful tongue.
 <small><sub>**BSB:**</sub></small>
 You love every word that devours, O deceitful tongue.
+<small><sub>**Hebrew:**</sub></small>
+[[H0157G\|אָהַ֥בְתָּ]] [[H3605\|כָֽל]][[H9014\|־]] [[H1697G\|דִּבְרֵי]][[H9014\|־]] [[H1105\|בָ֗לַע]] [[H3956G\|לְשׁ֣וֹן]] [[H4820\|מִרְמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic RICH, THE|RICH, THE]] • [[topic SLANDER|SLANDER]] • [[topic SPEAKING|SPEAKING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.52.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.52.3|<< Psalms 52:3]]</td><td align="center" style="border:none;">[[Ps.52|Psalms 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.52.5|Psalms 52:5 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Isaiah 56:11
+type: Verse
+kjv: "Yea, they are greedy dogs which can never have enough, and they are shepherds that cannot understand: they all look to their own way, every one for his gain, from his quarter."
+bsb: "Like ravenous dogs, they are never satisfied. They are shepherds with no discernment; they all turn to their own way, each one seeking his own gain:"
+hebrew: "וְהַכְּלָבִ֣ים עַזֵּי־ נֶ֗פֶשׁ לֹ֤א יָֽדְעוּ֙ שָׂבְעָ֔ה וְהֵ֣מָּה רֹעִ֔ים לֹ֥א יָדְע֖וּ הָבִ֑ין כֻּלָּם֙ לְדַרְכָּ֣ם פָּנ֔וּ אִ֥ישׁ לְבִצְע֖וֹ מִקָּצֵֽהוּ׃"
+pericope: "[[Isa.56.9 Israel’s Sinful Leaders|Israel’s Sinful Leaders]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 56
+book/chapter: "[[Isa.56|Isaiah 56]]"
+chronological_order: 695
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DOG|DOG]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3611]]"
+- "[[H5794]]"
+- "[[H9014]]"
+- "[[H5315L]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H7654]]"
+- "[[H1992]]"
+- "[[H7462B]]"
+- "[[H0995]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H1870G]]"
+- "[[H6437G]]"
+- "[[H0376I]]"
+- "[[H1215]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H7097A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 56:11**<big><big>[[Isa.56.9 Israel’s Sinful Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, [they are] greedy dogs [which] can never have enough, and they [are] shepherds [that] cannot understand: they all look to their own way, every one for his gain, from his quarter.
 <small><sub>**BSB:**</sub></small>
 Like ravenous dogs, they are never satisfied. They are shepherds with no discernment; they all turn to their own way, each one seeking his own gain:
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H3611\|כְּלָבִ֣ים]] [[H5794\|עַזֵּי]][[H9014\|־]] [[H5315L\|נֶ֗פֶשׁ]] [[H3808\|לֹ֤א]] [[H3045\|יָֽדְעוּ֙]] [[H7654\|שָׂבְעָ֔ה]] [[H9002\|וְ]][[H1992\|הֵ֣מָּה]] [[H7462B\|רֹעִ֔ים]] [[H3808\|לֹ֥א]] [[H3045\|יָדְע֖וּ]] [[H0995\|הָבִ֑ין]] [[H3605\|כֻּלָּ]][[H9028\|ם֙]] [[H9005\|לְ]][[H1870G\|דַרְכָּ֣]][[H9028\|ם]] [[H6437G\|פָּנ֔וּ]] [[H0376I\|אִ֥ישׁ]] [[H9005\|לְ]][[H1215\|בִצְע֖]][[H9023\|וֹ]] [[H9006\|מִ]][[H7097A\|קָּצֵֽ]][[H9023\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DOG|DOG]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.56.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.56.10|<< Isaiah 56:10]]</td><td align="center" style="border:none;">[[Isa.56|Isaiah 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.56.12|Isaiah 56:12 >>]]</td></tr></table>
 

@@ -1,8 +1,46 @@
+---
+title: Obadiah 1:2
+type: Verse
+kjv: "Behold, I have made thee small among the heathen: thou art greatly despised."
+bsb: "“Behold, I will make you small among the nations; you will be deeply despised."
+hebrew: "הִנֵּ֥ה קָטֹ֛ן נְתַתִּ֖יךָ בַּגּוֹיִ֑ם בָּז֥וּי אַתָּ֖ה מְאֹֽד׃"
+pericope: "[[Obad.1.1 The Destruction of Edom|The Destruction of Edom]]"
+original_language: Hebrew
+testament: Old
+book: Obadiah
+chapter: 1
+book/chapter: "[[Obad.1|Obadiah 1]]"
+chronological_order: 581
+era: Divided Kingdom
+period: "The Divided Kingdom: Obadiah's Prophecy"
+date: ~845 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H2009]]"
+- "[[H6996B]]"
+- "[[H5414I]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H0959]]"
+- "[[H0859A]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Obadiah 1:2**<big><big>[[Obad.1.1 The Destruction of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I have made thee small among the heathen: thou art greatly despised.
 <small><sub>**BSB:**</sub></small>
 “Behold, I will make you small among the nations; you will be deeply despised.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֥ה]] [[H6996B\|קָטֹ֛ן]] [[H5414I\|נְתַתִּ֖י]][[H9031\|ךָ]] [[H9003\|בַּ]][[H1471A\|גּוֹיִ֑ם]] [[H0959\|בָּז֥וּי]] [[H0859A\|אַתָּ֖ה]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.1|<< Obadiah 1:1]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.3|Obadiah 1:3 >>]]</td></tr></table>
 

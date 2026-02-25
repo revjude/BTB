@@ -1,6 +1,52 @@
+---
+title: LXX Song of Solomon 6:10
+type: Verse
+lxx: "Who is she, the one looking out as the dawn, fair as the moon, choice as the sun, the consternation as troops being set in order."
+greek: "τις αύτη η εκκύπτουσα ωσεί όρθρος καλή ως σελήνη εκλεκτή ως ο ήλιος θάμβος ως τεταγμέναι"
+original_language: Greek
+testament: Old
+book: Song of Solomon
+chapter: 6
+book/chapter: "[[Song.6|Song of Solomon 6]]"
+chronological_order: 453
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- septuagint
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic MOON|MOON]]"
+- "[[topic STANDARD|STANDARD]]"
+strongs:
+- "[[G5100]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G7107]]"
+- "[[G5616]]"
+- "[[G3722]]"
+- "[[G2570]]"
+- "[[G5613]]"
+- "[[G4582]]"
+- "[[G1588]]"
+- "[[G5613]]"
+- "[[G3588]]"
+- "[[G2246]]"
+- "[[G2285]]"
+- "[[G5613]]"
+- "[[G5021]]"
+---
+
 **LXX Song of Solomon 6:10** 
 <small><sub>**LXX:**</sub></small>
 Who \[is\] she, the one looking out as \[the\] dawn, fair as \[the\] moon, choice as the sun, \[the\] consternation as \[troops\] being set in order. 
+<small><sub>**Greek:**</sub></small>
+[[G5100\|τις]] [[G3778\|αύτη]] [[G3588\|η]] [[G7107\|εκκύπτουσα]] [[G5616\|ωσεί]] [[G3722\|όρθρος]] [[G2570\|καλή]] [[G5613\|ως]] [[G4582\|σελήνη]] [[G1588\|εκλεκτή]] [[G5613\|ως]] [[G3588\|ο]] [[G2246\|ήλιος]] [[G2285\|θάμβος]] [[G5613\|ως]] [[G5021\|τεταγμέναι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic MOON|MOON]] • [[topic STANDARD|STANDARD]]</small>
 <small><sub>**MT:**</sub></small>
 [[Song.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.6.9|<< Song of Solomon 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.6.11|Song of Solomon 6:11 >>]]</td></tr></table>
 
@@ -22,6 +68,6 @@ Who \[is\] she, the one looking out as \[the\] dawn, fair as \[the\] moon, choic
 | \[the\] consternation | **<big>[[G2285\|θάμβος]]</big>** |
 | as | **<big>[[G5613\|ως]]</big>** |
 | \[troops\] being set in order. | **<big>[[G5021\|τεταγμέναι]]</big>** |
-[[Song.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.6.9|<< Song of Solomon 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.6.11|Song of Solomon 6:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.6.9|<< Song of Solomon 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.6.11|Song of Solomon 6:11 >>]]</td></tr></table>
 
 

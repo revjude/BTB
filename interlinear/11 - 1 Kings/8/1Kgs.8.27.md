@@ -1,8 +1,65 @@
+---
+title: 1 Kings 8:27
+type: Verse
+kjv: "But will God indeed dwell on the earth? behold, the heaven and heaven of heavens cannot contain thee; how much less this house that I have builded?"
+bsb: "But will God indeed dwell upon the earth? The heavens, even the highest heavens, cannot contain You, much less this temple I have built."
+hebrew: "כִּ֚י הַֽאֻמְנָ֔ם יֵשֵׁ֥ב אֱלֹהִ֖ים עַל־ הָאָ֑רֶץ הִ֠נֵּה הַשָּׁמַ֜יִם וּשְׁמֵ֤י הַשָּׁמַ֙יִם֙ לֹ֣א יְכַלְכְּל֔וּךָ אַ֕ף כִּֽי־ הַבַּ֥יִת הַזֶּ֖ה אֲשֶׁ֥ר בָּנִֽיתִי׃"
+pericope: "[[1Kgs.8.22 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9008]]"
+- "[[H0552]]"
+- "[[H3427]]"
+- "[[H0430G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2009]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3557]]"
+- "[[H9031]]"
+- "[[H0637]]"
+- "[[H1004B]]"
+- "[[H2088]]"
+- "[[H0834A]]"
+- "[[H1129]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:27**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But will God indeed dwell on the earth? behold, the heaven and heaven of heavens cannot contain thee; how much less this house that I have builded?
 <small><sub>**BSB:**</sub></small>
 But will God indeed dwell upon the earth? The heavens, even the highest heavens, cannot contain You, much less this temple I have built.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֚י]] [[H9008\|הַֽ]][[H0552\|אֻמְנָ֔ם]] [[H3427\|יֵשֵׁ֥ב]] [[H0430G\|אֱלֹהִ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H2009\|הִ֠נֵּה]] [[H9009\|הַ]][[H8064\|שָּׁמַ֜יִם]] [[H9002\|וּ]][[H8064\|שְׁמֵ֤י]] [[H9009\|הַ]][[H8064\|שָּׁמַ֙יִם֙]] [[H3808\|לֹ֣א]] [[H3557\|יְכַלְכְּל֔וּ]][[H9031\|ךָ]] [[H0637\|אַ֕ף]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּ֥יִת]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H1129\|בָּנִֽיתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PRAYER|PRAYER]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.26|<< 1 Kings 8:26]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.28|1 Kings 8:28 >>]]</td></tr></table>
 

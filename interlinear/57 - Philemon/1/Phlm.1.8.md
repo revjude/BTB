@@ -1,10 +1,46 @@
+---
+title: Philemon 1:8
+type: Verse
+kjv: "Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient,"
+bsb: "So although in Christ I am bold enough to order you to do what is proper,"
+greek: "Διὸ πολλὴν ἐν Χριστῷ παρρησίαν ἔχων ἐπιτάσσειν σοι τὸ ἀνῆκον"
+pericope: "[[Phlm.1.8 Paul’s Appeal for Onesimus|Paul’s Appeal for Onesimus]]"
+original_language: Greek
+testament: New
+book: Philemon
+chapter: 1
+book/chapter: "[[Phlm.1|Philemon 1]]"
+chronological_order: 1125
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- personal letter
+strongs:
+- "[[G1352]]"
+- "[[G4183]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G3954]]"
+- "[[G2192]]"
+- "[[G2004]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G0433]]"
+texts:
+- NKO
+---
+
 **Philemon 1:8**<big><big>[[Phlm.1.8 Paul’s Appeal for Onesimus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient,
 <small><sub>**BSB:**</sub></small>
 So although in Christ I am bold enough to order you to do what is proper,
-<small><sub>**Literal:**</sub></small>
-Therefore much in Christ boldness having to order you what [is] befitting<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.7|<< Philemon 1:7]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.9|Philemon 1:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1352\|Διὸ]]  [[G4183\|πολλὴν]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G3954\|παρρησίαν]]  [[G2192\|ἔχων]]  [[G2004\|ἐπιτάσσειν]]  [[G4771\|σοι]]  [[G3588\|τὸ]]  [[G0433\|ἀνῆκον]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.7|<< Philemon 1:7]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.9|Philemon 1:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

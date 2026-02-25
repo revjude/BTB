@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ahab Spares Ben-hadad
+type: Pericope
 pericope: "[[1Kgs.20.31 Ahab Spares Ben-hadad|Ahab Spares Ben-hadad]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 20
 book/chapter: "[[1Kgs.20|1 Kings 20]]"
-genre:
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 4
 verses:
 - "[[1Kgs.20.31]]"
 - "[[1Kgs.20.32]]"
@@ -24,7 +31,7 @@ verses:
 - "[[1Kgs.20.34]]"
 ---
 
-[[1Kgs.20|1 Kings 20:31 - 1 Kings 20:34]]
+<small>[[1Kgs.20|1 Kings 20:31-34]]</small>
 *Ahab Spares Ben-hadad*
 
 [[1Kgs.20.31|31]] And his servants said unto him, Behold now, we have heard that the kings of the house of Israel \[are\] merciful kings: let us, I pray thee, put sackcloth on our loins, and ropes upon our heads, and go out to the king of Israel: peradventure he will save thy life.

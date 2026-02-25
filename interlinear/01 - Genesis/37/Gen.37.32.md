@@ -1,8 +1,70 @@
+---
+title: Genesis 37:32
+type: Verse
+kjv: "And they sent the coat of many colours, and they brought it to their father; and said, This have we found: know now whether it be thy son’s coat or no."
+bsb: "They sent the robe of many colors to their father and said, “We found this. Examine it to see whether it is your son’s robe or not.”"
+hebrew: "וַֽיְשַׁלְּח֞וּ אֶת־ כְּתֹ֣נֶת הַפַּסִּ֗ים וַיָּבִ֙יאוּ֙ אֶל־ אֲבִיהֶ֔ם וַיֹּאמְר֖וּ זֹ֣את מָצָ֑אנוּ הַכֶּר־ נָ֗א הַכְּתֹ֧נֶת בִּנְךָ֛ הִ֖וא אִם־ לֹֽא׃"
+pericope: "[[Gen.37.31 Jacob Mourns Joseph|Jacob Mourns Joseph]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 37
+book/chapter: "[[Gen.37|Genesis 37]]"
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISHMAELITES|ISHMAELITES]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3801]]"
+- "[[H9009]]"
+- "[[H6446]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H0559]]"
+- "[[H2063]]"
+- "[[H4672]]"
+- "[[H5234A]]"
+- "[[H4994]]"
+- "[[H9008]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H1931]]"
+- "[[H0518A]]"
+- "[[H3808]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 37:32**<big><big>[[Gen.37.31 Jacob Mourns Joseph|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they sent the coat of [many] colours, and they brought [it] to their father; and said, This have we found: know now whether it [be] thy son’s coat or no.
 <small><sub>**BSB:**</sub></small>
 They sent the robe of many colors to their father and said, “We found this. Examine it to see whether it is your son’s robe or not.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H7971G\|יְשַׁלְּח֞וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3801\|כְּתֹ֣נֶת]] [[H9009\|הַ]][[H6446\|פַּסִּ֗ים]] [[H9001\|וַ]][[H0935P\|יָּבִ֙יאוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0001G\|אֲבִי]][[H9028\|הֶ֔ם]] [[H9001\|וַ]][[H0559\|יֹּאמְר֖וּ]] [[H2063\|זֹ֣את]] [[H4672\|מָצָ֑אנוּ]] [[H5234A\|הַכֶּר]][[H9014\|־]] [[H4994\|נָ֗א]] [[H9008\|הַ]][[H3801\|כְּתֹ֧נֶת]] [[H1121A\|בִּנְ]][[H9021\|ךָ֛]] [[H1931\|הִ֖וא]] [[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEPTION|DECEPTION]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISHMAELITES|ISHMAELITES]] • [[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.31|<< Genesis 37:31]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.33|Genesis 37:33 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Anointed at Bethany
+type: Pericope
 pericope: "[[Matt.26.6 Jesus Anointed at Bethany|Jesus Anointed at Bethany]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 26
 book/chapter: "[[Matt.26|Matthew 26]]"
-genre:
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 8
 verses:
 - "[[Matt.26.6]]"
 - "[[Matt.26.7]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Matt.26.13]]"
 ---
 
-[[Matt.26|Matthew 26:6 - Matthew 26:13]]
+<small>[[Matt.26|Matthew 26:6-13]]</small>
 *Jesus Anointed at Bethany*
 
 [[Matt.26.6|6]] Now when Jesus was in Bethany, in the house of Simon the leper,

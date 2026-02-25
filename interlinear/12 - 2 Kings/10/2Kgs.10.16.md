@@ -1,8 +1,65 @@
+---
+title: 2 Kings 10:16
+type: Verse
+kjv: "And he said, Come with me, and see my zeal for the LORD. So they made him ride in his chariot."
+bsb: "saying, “Come with me and see my zeal for the LORD!” So he had him ride in his chariot."
+hebrew: "וַיֹּ֙אמֶר֙ לְכָ֣ה אִתִּ֔י וּרְאֵ֖ה בְּקִנְאָתִ֣י לַיהוָ֑ה וַיַּרְכִּ֥בוּ אֹת֖וֹ בְּרִכְבּֽוֹ׃"
+pericope: "[[2Kgs.10.1 Ahab’s Seventy Sons Killed|Ahab’s Seventy Sons Killed]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 10
+book/chapter: "[[2Kgs.10|2 Kings 10]]"
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INCONSISTENCY|INCONSISTENCY]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic JONADAB|JONADAB]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1980H]]"
+- "[[H9012]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H7068]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H7392]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H7393G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 10:16**<big><big>[[2Kgs.10.1 Ahab’s Seventy Sons Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Come with me, and see my zeal for the LORD. So they made him ride in his chariot.
 <small><sub>**BSB:**</sub></small>
 saying, “Come with me and see my zeal for the LORD!” So he had him ride in his chariot.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H1980H\|לְכָ֣]][[H9012\|ה]] [[H0854\|אִתִּ֔]][[H9030\|י]] [[H9002\|וּ]][[H7200G\|רְאֵ֖ה]] [[H9003\|בְּ]][[H7068\|קִנְאָתִ֣]][[H9020\|י]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H9001\|וַ]][[H7392\|יַּרְכִּ֥בוּ]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9003\|בְּ]][[H7393G\|רִכְבּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENTHUSIASM|ENTHUSIASM]] • [[topic HOMICIDE|HOMICIDE]] • [[topic INCONSISTENCY|INCONSISTENCY]] • [[topic JEHU|JEHU]] • [[topic JONADAB|JONADAB]] • [[topic RELIGION|RELIGION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.15|<< 2 Kings 10:15]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.17|2 Kings 10:17 >>]]</td></tr></table>
 

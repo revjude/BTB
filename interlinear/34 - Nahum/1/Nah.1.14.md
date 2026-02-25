@@ -1,8 +1,60 @@
+---
+title: Nahum 1:14
+type: Verse
+kjv: "And the LORD hath given a commandment concerning thee, that no more of thy name be sown: out of the house of thy gods will I cut off the graven image and the molten image: I will make thy grave; for thou art vile."
+bsb: "The LORD has issued a command concerning you, O Nineveh: “There will be no descendants to carry on your name. I will cut off the carved image and cast idol from the house of your gods; I will prepare your grave, for you are contemptible.”"
+hebrew: "וְצִוָּ֤ה עָלֶ֙יךָ֙ יְהוָ֔ה לֹֽא־ יִזָּרַ֥ע מִשִּׁמְךָ֖ ע֑וֹד מִבֵּ֨ית אֱלֹהֶ֜יךָ אַכְרִ֨ית פֶּ֧סֶל וּמַסֵּכָ֛ה אָשִׂ֥ים קִבְרֶ֖ךָ כִּ֥י קַלּֽוֹתָ׃ פ"
+pericope: "[[Nah.1.1 The Burden against Nineveh|The Burden against Nineveh]]"
+original_language: Hebrew
+testament: Old
+book: Nahum
+chapter: 1
+book/chapter: "[[Nah.1|Nahum 1]]"
+chronological_order: 708
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2232]]"
+- "[[H9006]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H5750]]"
+- "[[H1004Q]]"
+- "[[H0430]]"
+- "[[H3772I]]"
+- "[[H6459]]"
+- "[[H9002]]"
+- "[[H4541A]]"
+- "[[H7760A]]"
+- "[[H6913]]"
+- "[[H3588A]]"
+- "[[H7043]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Nahum 1:14**<big><big>[[Nah.1.1 The Burden against Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD hath given a commandment concerning thee, [that] no more of thy name be sown: out of the house of thy gods will I cut off the graven image and the molten image: I will make thy grave; for thou art vile.
 <small><sub>**BSB:**</sub></small>
 The LORD has issued a command concerning you, O Nineveh: “There will be no descendants to carry on your name. I will cut off the carved image and cast idol from the house of your gods; I will prepare your grave, for you are contemptible.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6680\|צִוָּ֤ה]] [[H5921A\|עָלֶ֙י]][[H9031\|ךָ֙]] [[H3068G\|יְהוָ֔ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H2232\|יִזָּרַ֥ע]] [[H9006\|מִ]][[H8034\|שִּׁמְ]][[H9021\|ךָ֖]] [[H5750\|ע֑וֹד]] [[H9006\|מִ]][[H1004Q\|בֵּ֨ית]] [[H0430\|אֱלֹהֶ֜י]][[H9021\|ךָ]] [[H3772I\|אַכְרִ֨ית]] [[H6459\|פֶּ֧סֶל]] [[H9002\|וּ]][[H4541A\|מַסֵּכָ֛ה]] [[H7760A\|אָשִׂ֥ים]] [[H6913\|קִבְרֶ֖]][[H9021\|ךָ]] [[H3588A\|כִּ֥י]] [[H7043\|קַלּֽוֹתָ]][[H9016\|׃]] [[H9017\|פ]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.1.13|<< Nahum 1:13]]</td><td align="center" style="border:none;">[[Nah.1|Nahum 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.1.15|Nahum 1:15 >>]]</td></tr></table>
 
@@ -23,7 +75,7 @@ The LORD has issued a command concerning you, O Nineveh: “There will be no des
 | I will make  |**<big>&#8207;[[H7760A\|אָשִׂ֥ים]]&#8207; </big>**| 'a.Sim<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | grave your  |**<big>&#8207;[[H6913\|קִבְרֶ֖]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| kiv.Re.<small><sup>[[HNcmsc]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you are insignificant  |**<big>&#8207;[[H7043\|קַלּֽוֹתָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ka.Lo.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you are insignificant  |**<big>&#8207;[[H7043\|קַלּֽוֹתָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ka.Lo.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.1.13|<< Nahum 1:13]]</td><td align="center" style="border:none;">[[Nah.1|Nahum 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.1.15|Nahum 1:15 >>]]</td></tr></table>
 
 

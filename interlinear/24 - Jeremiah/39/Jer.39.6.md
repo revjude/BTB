@@ -1,8 +1,63 @@
+---
+title: Jeremiah 39:6
+type: Verse
+kjv: "Then the king of Babylon slew the sons of Zedekiah in Riblah before his eyes: also the king of Babylon slew all the nobles of Judah."
+bsb: "There at Riblah the king of Babylon slaughtered the sons of Zedekiah before his eyes, and he also killed all the nobles of Judah."
+hebrew: "וַיִּשְׁחַט֩ מֶ֨לֶךְ בָּבֶ֜ל אֶת־ בְּנֵ֧י צִדְקִיָּ֛הוּ בְּרִבְלָ֖ה לְעֵינָ֑יו וְאֵת֙ כָּל־ חֹרֵ֣י יְהוּדָ֔ה שָׁחַ֖ט מֶ֥לֶךְ בָּבֶֽל׃"
+pericope: "[[Jer.39.1 The Fall of Jerusalem|The Fall of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 39
+book/chapter: "[[Jer.39|Jeremiah 39]]"
+chronological_order: 762
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic RIBLAH|RIBLAH]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7819A]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H6667H]]"
+- "[[H9003]]"
+- "[[H7247H]]"
+- "[[H9005]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H2715]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 39:6**<big><big>[[Jer.39.1 The Fall of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king of Babylon slew the sons of Zedekiah in Riblah before his eyes: also the king of Babylon slew all the nobles of Judah.
 <small><sub>**BSB:**</sub></small>
 There at Riblah the king of Babylon slaughtered the sons of Zedekiah before his eyes, and he also killed all the nobles of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7819A\|יִּשְׁחַט֩]] [[H4428G\|מֶ֨לֶךְ]] [[H0894\|בָּבֶ֜ל]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנֵ֧י]] [[H6667H\|צִדְקִיָּ֛הוּ]] [[H9003\|בְּ]][[H7247H\|רִבְלָ֖ה]] [[H9005\|לְ]][[H5869A\|עֵינָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H3605\|כָּל]][[H9014\|־]] [[H2715\|חֹרֵ֣י]] [[H3063G\|יְהוּדָ֔ה]] [[H7819A\|שָׁחַ֖ט]] [[H4428G\|מֶ֥לֶךְ]] [[H0894\|בָּבֶֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTIVE|CAPTIVE]] • [[topic HOMICIDE|HOMICIDE]] • [[topic RIBLAH|RIBLAH]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.39.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.39.5|<< Jeremiah 39:5]]</td><td align="center" style="border:none;">[[Jer.39|Jeremiah 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.39.7|Jeremiah 39:7 >>]]</td></tr></table>
 

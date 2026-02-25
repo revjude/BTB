@@ -1,8 +1,54 @@
+---
+title: 1 Samuel 9:14
+type: Verse
+kjv: "And they went up into the city: and when they were come into the city, behold, Samuel came out against them, for to go up to the high place."
+bsb: "So Saul and his servant went up toward the city, and as they were entering it, there was Samuel coming toward them on his way up to the high place."
+hebrew: "וַֽיַּעֲל֖וּ הָעִ֑יר הֵ֗מָּה בָּאִים֙ בְּת֣וֹךְ הָעִ֔יר וְהִנֵּ֤ה שְׁמוּאֵל֙ יֹצֵ֣א לִקְרָאתָ֔ם לַעֲל֖וֹת הַבָּמָֽה׃ ס"
+pericope: "[[1Sam.9.1 Saul Chosen as King|Saul Chosen as King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 9
+book/chapter: "[[1Sam.9|1 Samuel 9]]"
+chronological_order: 288
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H1992]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H8050G]]"
+- "[[H3318G]]"
+- "[[H9005]]"
+- "[[H7122H]]"
+- "[[H9038]]"
+- "[[H1116]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Samuel 9:14**<big><big>[[1Sam.9.1 Saul Chosen as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they went up into the city: [and] when they were come into the city, behold, Samuel came out against them, for to go up to the high place.
 <small><sub>**BSB:**</sub></small>
 So Saul and his servant went up toward the city, and as they were entering it, there was Samuel coming toward them on his way up to the high place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H5927G\|יַּעֲל֖וּ]] [[H9009\|הָ]][[H5892B\|עִ֑יר]] [[H1992\|הֵ֗מָּה]] [[H0935G\|בָּאִים֙]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H8050G\|שְׁמוּאֵל֙]] [[H3318G\|יֹצֵ֣א]] [[H9005\|לִ]][[H7122H\|קְרָאתָ֔]][[H9038\|ם]] [[H9005\|לַ]][[H5927G\|עֲל֖וֹת]] [[H9009\|הַ]][[H1116\|בָּמָֽה]][[H9016\|׃]] [[H9018\|ס]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.9.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9.13|<< 1 Samuel 9:13]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.15|1 Samuel 9:15 >>]]</td></tr></table>
 
@@ -19,7 +65,7 @@ So Saul and his servant went up toward the city, and as they were entering it, t
 | [was] coming out  |**<big>&#8207;[[H3318G\|יֹצֵ֣א]]&#8207; </big>**| yo.Tze'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to meet them  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7122H\|קְרָאתָ֔]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> k.ra.Ta<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to go up  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5927G\|עֲל֖וֹת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Lot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the high place  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1116\|בָּמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ba.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the high place  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1116\|בָּמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ba.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9.13|<< 1 Samuel 9:13]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.15|1 Samuel 9:15 >>]]</td></tr></table>
 
 

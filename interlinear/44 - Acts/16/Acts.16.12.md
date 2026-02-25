@@ -1,10 +1,65 @@
+---
+title: Acts 16:12
+type: Verse
+kjv: "And from thence to Philippi, which is the chief city of that part of Macedonia, and a colony: and we were in that city abiding certain days."
+bsb: "From there we went to the Roman colony of Philippi, the leading city of that district of Macedonia. And we stayed there several days."
+greek: "κἀκεῖθεν κἀκεῖθεν εἰς Φιλίππους, ἥτις ἐστὶν πρώτης τῆς μερίδος τῆς Μακεδονίας πόλις, κολωνία. ἦμεν δὲ ἐν ταύτῃ τῇ πόλει διατρίβοντες ἡμέρας τινάς."
+pericope: "[[Acts.16.11 Lydia’s Conversion in Philippi|Lydia’s Conversion in Philippi]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic LUKE|LUKE]]"
+- "[[topic MACEDONIA|MACEDONIA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+strongs:
+- "[[G2532]]"
+- "[[G1564]]"
+- "[[G1519]]"
+- "[[G5375]]"
+- "[[G3748]]"
+- "[[G1510]]"
+- "[[G4413J]]"
+- "[[G3588]]"
+- "[[G3310]]"
+- "[[G3109]]"
+- "[[G4172]]"
+- "[[G2862]]"
+- "[[G1161]]"
+- "[[G1722]]"
+- "[[G3778]]"
+- "[[G1304]]"
+- "[[G2250]]"
+- "[[G5100]]"
+texts:
+- N(k)O
+- NKO
+- ko
+- NK
+- NK(o)
+---
+
 **Acts 16:12**<big><big>[[Acts.16.11 Lydia’s Conversion in Philippi|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And from thence to Philippi, which is the chief city of that part of Macedonia, [and] a colony: and we were in that city abiding certain days.
 <small><sub>**BSB:**</sub></small>
 From there we went to the Roman colony of Philippi, the leading city of that district of Macedonia. And we stayed there several days.
-<small><sub>**Literal:**</sub></small>
-and from there to Philippi, which is [the] leading [city] of the district <the> of Macedonia [the] city, [and Roman] colony. We were now in this <the> city staying days some.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.11|<< Acts 16:11]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.13|Acts 16:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|κἀκεῖθεν]]  <sup><small>[[G1564\| [ • ] ]]</small></sup>  [[G1519\|εἰς]]  [[G5375\|Φιλίππους,]]  [[G3748\|ἥτις]]  [[G1510\|ἐστὶν]]  [[G4413J\|πρώτης]]  [[G3588\|τῆς]]  [[G3310\|μερίδος]]  [[G3588\|τῆς]]  [[G3109\|Μακεδονίας]]  [[G4172\|πόλις,]]  [[G2862\|κολωνία.]]  [[G1510\|ἦμεν]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G3778\|ταύτῃ]]  [[G3588\|τῇ]]  [[G4172\|πόλει]]  [[G1304\|διατρίβοντες]]  [[G2250\|ἡμέρας]]  [[G5100\|τινάς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LUKE|LUKE]] • [[topic MACEDONIA|MACEDONIA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PHILIPPI|PHILIPPI]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.11|<< Acts 16:11]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.13|Acts 16:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

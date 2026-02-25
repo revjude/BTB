@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Murder of Gedaliah
+type: Pericope
 pericope: "[[Jer.41.1 The Murder of Gedaliah|The Murder of Gedaliah]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 41
 book/chapter: "[[Jer.41|Jeremiah 41]]"
-genre:
+chronological_order: 764
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 10
 verses:
 - "[[Jer.41.1]]"
 - "[[Jer.41.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Jer.41.10]]"
 ---
 
-[[Jer.41|Jeremiah 41:1 - Jeremiah 41:10]]
+<small>[[Jer.41|Jeremiah 41:1-10]]</small>
 *The Murder of Gedaliah*
 
 [[Jer.41.1|1]] Now it came to pass in the seventh month, \[that\] Ishmael the son of Nethaniah the son of Elishama, of the seed royal, and the princes of the king, even ten men with him, came unto Gedaliah the son of Ahikam to Mizpah; and there they did eat bread together in Mizpah.

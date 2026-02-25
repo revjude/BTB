@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Greater Gifts
+type: Pericope
 pericope: "[[1Cor.12.27 The Greater Gifts|The Greater Gifts]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 12
 book/chapter: "[[1Cor.12|1 Corinthians 12]]"
-genre:
+chronological_order: 1069
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 5
 verses:
 - "[[1Cor.12.27]]"
 - "[[1Cor.12.28]]"
@@ -22,7 +29,7 @@ verses:
 - "[[1Cor.12.31]]"
 ---
 
-[[1Cor.12|1 Corinthians 12:27 - 1 Corinthians 12:31]]
+<small>[[1Cor.12|1 Corinthians 12:27-31]]</small>
 *The Greater Gifts*
 
 [[1Cor.12.27|27]] Now ye are the body of Christ, and members in particular.

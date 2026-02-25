@@ -1,8 +1,68 @@
+---
+title: Ezekiel 5:8
+type: Verse
+kjv: "Therefore thus saith the Lord GOD; Behold, I, even I, am against thee, and will execute judgments in the midst of thee in the sight of the nations."
+bsb: "Therefore this is what the Lord GOD says: ‘Behold, I Myself am against you, Jerusalem, and I will execute judgments among you in the sight of the nations."
+hebrew: "לָכֵ֗ן כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה הִנְנִ֥י עָלַ֖יִךְ גַּם־ אָ֑נִי וְעָשִׂ֧יתִי בְתוֹכֵ֛ךְ מִשְׁפָּטִ֖ים לְעֵינֵ֥י הַגּוֹיִֽם׃"
+pericope: "[[Ezek.5.1 The Razor of Judgment|The Razor of Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 5
+book/chapter: "[[Ezek.5|Ezekiel 5]]"
+chronological_order: 796
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H5921A]]"
+- "[[H9032]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9022]]"
+- "[[H4941G]]"
+- "[[H5869H]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 5:8**<big><big>[[Ezek.5.1 The Razor of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the Lord GOD; Behold, I, even I, [am] against thee, and will execute judgments in the midst of thee in the sight of the nations.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the Lord GOD says: ‘Behold, I Myself am against you, Jerusalem, and I will execute judgments among you in the sight of the nations.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H2005\|הִנְ]][[H9040\|נִ֥י]] [[H5921A\|עָלַ֖יִ]][[H9032\|ךְ]] [[H1571\|גַּם]][[H9014\|־]] [[H0589\|אָ֑נִי]] [[H9001\|וְ]][[H6213A\|עָשִׂ֧יתִי]] [[H9003\|בְ]][[H8432\|תוֹכֵ֛]][[H9022\|ךְ]] [[H4941G\|מִשְׁפָּטִ֖ים]] [[H9005\|לְ]][[H5869H\|עֵינֵ֥י]] [[H9009\|הַ]][[H1471A\|גּוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.5.7|<< Ezekiel 5:7]]</td><td align="center" style="border:none;">[[Ezek.5|Ezekiel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.5.9|Ezekiel 5:9 >>]]</td></tr></table>
 

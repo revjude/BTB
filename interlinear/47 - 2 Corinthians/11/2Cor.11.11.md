@@ -1,10 +1,49 @@
+---
+title: 2 Corinthians 11:11
+type: Verse
+kjv: "Wherefore? because I love you not? God knoweth."
+bsb: "Why? Because I do not love you? God knows I do!"
+greek: "διὰ τί; ὅτι οὐκ ἀγαπῶ ὑμᾶς; ὁ θεὸς οἶδεν·"
+pericope: "[[2Cor.11.1 Paul and the False Apostles|Paul and the False Apostles]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 11
+book/chapter: "[[2Cor.11|2 Corinthians 11]]"
+chronological_order: 1084
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G1223]]"
+- "[[G5101]]"
+- "[[G3754H]]"
+- "[[G3756]]"
+- "[[G0025]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G6063]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 11:11**<big><big>[[2Cor.11.1 Paul and the False Apostles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore? because I love you not? God knoweth.
 <small><sub>**BSB:**</sub></small>
 Why? Because I do not love you? God knows I do!
-<small><sub>**Literal:**</sub></small>
-Because of why? Because surely I do love you? <the> God knows [I do]!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.10|<< 2 Corinthians 11:10]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.12|2 Corinthians 11:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G5101\|τί;]]  [[G3754H\|ὅτι]]  [[G3756\|οὐκ]]  [[G0025\|ἀγαπῶ]]  [[G4771\|ὑμᾶς;]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G6063\|οἶδεν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.10|<< 2 Corinthians 11:10]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.12|2 Corinthians 11:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

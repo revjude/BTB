@@ -1,10 +1,62 @@
+---
+title: John 9:17
+type: Verse
+kjv: "They say unto the blind man again, What sayest thou of him, that he hath opened thine eyes? He said, He is a prophet."
+bsb: "So once again they asked the man who had been blind, “What do you say about Him, since it was your eyes He opened?” “He is a prophet,” the man replied."
+greek: "λέγουσιν οὖν τῷ τυφλῷ πάλιν· τί σὺ λέγεις περὶ αὐτοῦ ὅτι ἠνέῳξέν σου τοὺς ὀφθαλμούς; ὁ δὲ εἶπεν ὅτι προφήτης ἐστίν."
+pericope: "[[John.9.13 The Pharisees Investigate the Healing|The Pharisees Investigate the Healing]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 9
+book/chapter: "[[John.9|John 9]]"
+chronological_order: 983
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G5185]]"
+- "[[G3825]]"
+- "[[G5101]]"
+- "[[G4771]]"
+- "[[G4012]]"
+- "[[G0846]]"
+- "[[G3754H]]"
+- "[[G0455]]"
+- "[[G3788]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G3754G]]"
+- "[[G4396]]"
+- "[[G1510]]"
+texts:
+- NKO
+- NO
+---
+
 **John 9:17**<big><big>[[John.9.13 The Pharisees Investigate the Healing|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 They say unto the blind man again, What sayest thou of him, that he hath opened thine eyes? He said, He is a prophet.
 <small><sub>**BSB:**</sub></small>
 So once again they asked the man who had been blind, “What do you say about Him, since it was your eyes He opened?” “He is a prophet,” the man replied.
-<small><sub>**Literal:**</sub></small>
-They say therefore to the blind [man] again; What you yourself say concerning Him for He opened of you the eyes? <the> And he said that A prophet He is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.16|<< John 9:16]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.18|John 9:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγουσιν]]  [[G3767\|οὖν]]  [[G3588\|τῷ]]  [[G5185\|τυφλῷ]]  [[G3825\|πάλιν·]]  [[G5101\|τί]]  [[G4771\|σὺ]]  [[G3004G\|λέγεις]]  [[G4012\|περὶ]]  [[G0846\|αὐτοῦ]]  [[G3754H\|ὅτι]]  [[G0455\|ἠνέῳξέν]]  [[G4771\|σου]]  [[G3588\|τοὺς]]  [[G3788\|ὀφθαλμούς;]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν]]  [[G3754G\|ὅτι]]  [[G4396\|προφήτης]]  [[G1510\|ἐστίν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SABBATH|SABBATH]] • [[topic TESTIMONY|TESTIMONY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.16|<< John 9:16]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.18|John 9:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

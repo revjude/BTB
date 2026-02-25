@@ -1,8 +1,56 @@
+---
+title: Job 42:2
+type: Verse
+kjv: "I know that thou canst do every thing, and that no thought can be withholden from thee."
+bsb: "“I know that You can do all things and that no plan of Yours can be thwarted."
+hebrew: "יָ֭דַעְתִּי כִּי־ כֹ֣ל תּוּכָ֑ל וְלֹא־ יִבָּצֵ֖ר מִמְּךָ֣ מְזִמָּֽה׃"
+pericope: "[[Job.42.1 Job Submits Himself to the LORD|Job Submits Himself to the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 42
+book/chapter: "[[Job.42|Job 42]]"
+chronological_order: 53
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JOB|JOB]]"
+strongs:
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H3201]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H1219]]"
+- "[[H4480A]]"
+- "[[H9031]]"
+- "[[H4209]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Job 42:2**<big><big>[[Job.42.1 Job Submits Himself to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I know that thou canst do every [thing], and [that] no thought can be withholden from thee.
 <small><sub>**BSB:**</sub></small>
 “I know that You can do all things and that no plan of Yours can be thwarted.
+<small><sub>**Hebrew:**</sub></small>
+[[H3045\|יָ֭דַעְתִּי]] [[H3588A\|כִּי]][[H9014\|־]] [[H3605\|כֹ֣ל]] [[H3201\|תּוּכָ֑ל]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H1219\|יִבָּצֵ֖ר]] [[H4480A\|מִמְּ]][[H9031\|ךָ֣]] [[H4209\|מְזִמָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic JOB|JOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.42.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.42.1|<< Job 42:1]]</td><td align="center" style="border:none;">[[Job.42|Job 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.3|Job 42:3 >>]]</td></tr></table>
 

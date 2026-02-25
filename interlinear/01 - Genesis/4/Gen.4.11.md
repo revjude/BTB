@@ -1,8 +1,70 @@
+---
+title: Genesis 4:11
+type: Verse
+kjv: "And now art thou cursed from the earth, which hath opened her mouth to receive thy brother’s blood from thy hand;"
+bsb: "Now you are cursed and banished from the ground, which has opened its mouth to receive your brother’s blood from your hand."
+hebrew: "וְעַתָּ֖ה אָר֣וּר אָ֑תָּה מִן־ הָֽאֲדָמָה֙ אֲשֶׁ֣ר פָּצְתָ֣ה אֶת־ פִּ֔יהָ לָקַ֛חַת אֶת־ דְּמֵ֥י אָחִ֖יךָ מִיָּדֶֽךָ׃"
+pericope: "[[Gen.4.1 Cain and Abel|Cain and Abel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 4
+book/chapter: "[[Gen.4|Genesis 4]]"
+chronological_order: 4
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABEL|ABEL]]"
+- "[[topic CAIN|CAIN]]"
+- "[[topic CURSE|CURSE]]"
+- "[[topic ESCAPE|ESCAPE]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H0779]]"
+- "[[H0859A]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0127G]]"
+- "[[H0834A]]"
+- "[[H6475]]"
+- "[[H0853]]"
+- "[[H6310G]]"
+- "[[H9024]]"
+- "[[H9005]]"
+- "[[H3947H]]"
+- "[[H1818]]"
+- "[[H0251G]]"
+- "[[H9021]]"
+- "[[H9006]]"
+- "[[H3027G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 4:11**<big><big>[[Gen.4.1 Cain and Abel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now [art] thou cursed from the earth, which hath opened her mouth to receive thy brother’s blood from thy hand;
 <small><sub>**BSB:**</sub></small>
 Now you are cursed and banished from the ground, which has opened its mouth to receive your brother’s blood from your hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֖ה]] [[H0779\|אָר֣וּר]] [[H0859A\|אָ֑תָּה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָֽ]][[H0127G\|אֲדָמָה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6475\|פָּצְתָ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H6310G\|פִּ֔י]][[H9024\|הָ]] [[H9005\|לָ]][[H3947H\|קַ֛חַת]] [[H0853\|אֶת]][[H9014\|־]] [[H1818\|דְּמֵ֥י]] [[H0251G\|אָחִ֖י]][[H9021\|ךָ]] [[H9006\|מִ]][[H3027G\|יָּדֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABEL|ABEL]] • [[topic CAIN|CAIN]] • [[topic CURSE|CURSE]] • [[topic ESCAPE|ESCAPE]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.10|<< Genesis 4:10]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.12|Genesis 4:12 >>]]</td></tr></table>
 

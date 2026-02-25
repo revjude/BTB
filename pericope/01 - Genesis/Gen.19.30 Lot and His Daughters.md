@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Lot and His Daughters
+type: Pericope
 pericope: "[[Gen.19.30 Lot and His Daughters|Lot and His Daughters]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 19
 book/chapter: "[[Gen.19|Genesis 19]]"
-genre:
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 9
 verses:
 - "[[Gen.19.30]]"
 - "[[Gen.19.31]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Gen.19.38]]"
 ---
 
-[[Gen.19|Genesis 19:30 - Genesis 19:38]]
+<small>[[Gen.19|Genesis 19:30-38]]</small>
 *Lot and His Daughters*
 
 [[Gen.19.30|30]] And Lot went up out of Zoar, and dwelt in the mountain, and his two daughters with him; for he feared to dwell in Zoar: and he dwelt in a cave, he and his two daughters.

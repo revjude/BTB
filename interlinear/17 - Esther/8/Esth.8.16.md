@@ -1,8 +1,49 @@
+---
+title: Esther 8:16
+type: Verse
+kjv: "The Jews had light, and gladness, and joy, and honour."
+bsb: "For the Jews it was a time of light and gladness, of joy and honor."
+hebrew: "לַיְּהוּדִ֕ים הָֽיְתָ֥ה אוֹרָ֖ה וְשִׂמְחָ֑ה וְשָׂשֹׂ֖ן וִיקָֽר׃"
+pericope: "[[Esth.8.7 The Decree of Xerxes|The Decree of Xerxes]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 8
+book/chapter: "[[Esth.8|Esther 8]]"
+chronological_order: 906
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic JOY|JOY]]"
+strongs:
+- "[[H9005]]"
+- "[[H3064]]"
+- "[[H1961]]"
+- "[[H0219A]]"
+- "[[H9002]]"
+- "[[H8057]]"
+- "[[H8342]]"
+- "[[H3366]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 8:16**<big><big>[[Esth.8.7 The Decree of Xerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Jews had light, and gladness, and joy, and honour.
 <small><sub>**BSB:**</sub></small>
 For the Jews it was a time of light and gladness, of joy and honor.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H3064\|יְּהוּדִ֕ים]] [[H1961\|הָֽיְתָ֥ה]] [[H0219A\|אוֹרָ֖ה]] [[H9002\|וְ]][[H8057\|שִׂמְחָ֑ה]] [[H9002\|וְ]][[H8342\|שָׂשֹׂ֖ן]] [[H9002\|וִ]][[H3366\|יקָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOY|JOY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.8.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.8.15|<< Esther 8:15]]</td><td align="center" style="border:none;">[[Esth.8|Esther 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.8.17|Esther 8:17 >>]]</td></tr></table>
 

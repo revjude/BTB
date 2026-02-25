@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Benjamin Born, Rachel Dies
+type: Pericope
 pericope: "[[Gen.35.16 Benjamin Born, Rachel Dies|Benjamin Born, Rachel Dies]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 35
 book/chapter: "[[Gen.35|Genesis 35]]"
-genre:
+chronological_order: 77
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 5
 verses:
 - "[[Gen.35.16]]"
 - "[[Gen.35.17]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Gen.35.20]]"
 ---
 
-[[Gen.35|Genesis 35:16 - Genesis 35:20]]
+<small>[[Gen.35|Genesis 35:16-20]]</small>
 *Benjamin Born, Rachel Dies*
 
 [[Gen.35.16|16]] And they journeyed from Bethel; and there was but a little way to come to Ephrath: and Rachel travailed, and she had hard labour.

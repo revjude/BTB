@@ -1,8 +1,65 @@
+---
+title: Ezra 4:13
+type: Verse
+kjv: "Be it known now unto the king, that, if this city be builded, and the walls set up again, then will they not pay toll, tribute, and custom, and so thou shalt endamage the revenue of the kings."
+bsb: "Let it now be known to the king that if that city is rebuilt and its walls are restored, they will not pay tribute, duty, or toll, and the royal treasury will suffer."
+aramaic: "כְּעַ֗ן יְדִ֙יעַ֙ לֶהֱוֵ֣א לְמַלְכָּ֔א דִּ֠י הֵ֣ן קִרְיְתָ֥א דָךְ֙ תִּתְבְּנֵ֔א וְשׁוּרַיָּ֖ה יִֽשְׁתַּכְלְל֑וּן מִנְדָּֽה־ בְל֤וֹ וַהֲלָךְ֙ לָ֣א יִנְתְּנ֔וּן וְאַפְּתֹ֥ם מַלְכִ֖ים תְּהַנְזִֽק׃"
+pericope: "[[Ezra.4.6 Opposition under Xerxes and Artaxerxes|Opposition under Xerxes and Artaxerxes]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 4
+book/chapter: "[[Ezra.4|Ezra 4]]"
+chronological_order: 852
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic ARTAXERXES|ARTAXERXES]]"
+- "[[topic BISHLAM|BISHLAM]]"
+strongs:
+- "[[H3705]]"
+- "[[H3046]]"
+- "[[H1934]]"
+- "[[H9005]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H1768]]"
+- "[[H2006A]]"
+- "[[H7149]]"
+- "[[H1791]]"
+- "[[H1124]]"
+- "[[H9002]]"
+- "[[H7792]]"
+- "[[H3635A]]"
+- "[[H4061]]"
+- "[[H9014]]"
+- "[[H1093]]"
+- "[[H1983]]"
+- "[[H3809]]"
+- "[[H5415I]]"
+- "[[H0674]]"
+- "[[H5142]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 4:13**<big><big>[[Ezra.4.6 Opposition under Xerxes and Artaxerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be it known now unto the king, that, if this city be builded, and the walls set up [again, then] will they not pay toll, tribute, and custom, and [so] thou shalt endamage the revenue of the kings.
 <small><sub>**BSB:**</sub></small>
 Let it now be known to the king that if that city is rebuilt and its walls are restored, they will not pay tribute, duty, or toll, and the royal treasury will suffer.
+<small><sub>**Aramaic:**</sub></small>
+[[H3705\|כְּעַ֗ן]] [[H3046\|יְדִ֙יעַ֙]] [[H1934\|לֶהֱוֵ֣א]] [[H9005\|לְ]][[H4430\|מַלְכָּ֔]][[H9010\|א]] [[H1768\|דִּ֠י]] [[H2006A\|הֵ֣ן]] [[H7149\|קִרְיְתָ֥]][[H9010\|א]] [[H1791\|דָךְ֙]] [[H1124\|תִּתְבְּנֵ֔א]] [[H9002\|וְ]][[H7792\|שׁוּרַיָּ֖]][[H9010\|ה]] [[H3635A\|יִֽשְׁתַּכְלְל֑וּן]] [[H4061\|מִנְדָּֽה]][[H9014\|־]] [[H1093\|בְל֤וֹ]] [[H9002\|וַ]][[H1983\|הֲלָךְ֙]] [[H3809\|לָ֣א]] [[H5415I\|יִנְתְּנ֔וּן]] [[H9002\|וְ]][[H0674\|אַפְּתֹ֥ם]] [[H4430\|מַלְכִ֖ים]] [[H5142\|תְּהַנְזִֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic ARTAXERXES|ARTAXERXES]] • [[topic BISHLAM|BISHLAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.12|<< Ezra 4:12]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.14|Ezra 4:14 >>]]</td></tr></table>
 

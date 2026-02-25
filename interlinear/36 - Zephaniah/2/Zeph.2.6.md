@@ -1,8 +1,52 @@
+---
+title: Zephaniah 2:6
+type: Verse
+kjv: "And the sea coast shall be dwellings and cottages for shepherds, and folds for flocks."
+bsb: "So the seacoast will become a land of pastures, with wells for shepherds and folds for sheep."
+hebrew: "וְֽהָיְתָ֞ה חֶ֣בֶל הַיָּ֗ם נְוֹ֛ת כְּרֹ֥ת רֹעִ֖ים וְגִדְר֥וֹת צֹֽאן׃"
+pericope: "[[Zeph.2.4 Judgment on the Philistines|Judgment on the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: Zephaniah
+chapter: 2
+book/chapter: "[[Zeph.2|Zephaniah 2]]"
+chronological_order: 716
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H2256M]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H5116A]]"
+- "[[H3741]]"
+- "[[H7462B]]"
+- "[[H9002]]"
+- "[[H1448]]"
+- "[[H6629G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zephaniah 2:6**<big><big>[[Zeph.2.4 Judgment on the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sea coast shall be dwellings [and] cottages for shepherds, and folds for flocks.
 <small><sub>**BSB:**</sub></small>
 So the seacoast will become a land of pastures, with wells for shepherds and folds for sheep.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְֽ]][[H1961\|הָיְתָ֞ה]] [[H2256M\|חֶ֣בֶל]] [[H9009\|הַ]][[H3220G\|יָּ֗ם]] [[H5116A\|נְוֹ֛ת]] [[H3741\|כְּרֹ֥ת]] [[H7462B\|רֹעִ֖ים]] [[H9002\|וְ]][[H1448\|גִדְר֥וֹת]] [[H6629G\|צֹֽאן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.2.5|<< Zephaniah 2:5]]</td><td align="center" style="border:none;">[[Zeph.2|Zephaniah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.2.7|Zephaniah 2:7 >>]]</td></tr></table>
 

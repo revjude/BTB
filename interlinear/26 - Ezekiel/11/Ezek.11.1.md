@@ -1,8 +1,84 @@
+---
+title: Ezekiel 11:1
+type: Verse
+kjv: "Moreover the spirit lifted me up, and brought me unto the east gate of the LORD’S house, which looketh eastward: and behold at the door of the gate five and twenty men; among whom I saw Jaazaniah the son of Azur, and Pelatiah the son of Benaiah, princes of the people."
+bsb: "Then the Spirit lifted me up and brought me to the gate of the house of the LORD that faces east. And there at the entrance of the gate were twenty-five men. Among them I saw Jaazaniah son of Azzur and Pelatiah son of Benaiah, who were leaders of the people."
+hebrew: "וַתִּשָּׂ֨א אֹתִ֜י ר֗וּחַ וַתָּבֵ֣א אֹ֠תִי אֶל־ שַׁ֨עַר בֵּית־ יְהוָ֤ה הַקַּדְמוֹנִי֙ הַפּוֹנֶ֣ה קָדִ֔ימָה וְהִנֵּה֙ בְּפֶ֣תַח הַשַּׁ֔עַר עֶשְׂרִ֥ים וַחֲמִשָּׁ֖ה אִ֑ישׁ וָאֶרְאֶ֨ה בְתוֹכָ֜ם אֶת־ יַאֲזַנְיָ֧ה בֶן־ עַזֻּ֛ר וְאֶת־ פְּלַטְיָ֥הוּ בֶן־ בְּנָיָ֖הוּ שָׂרֵ֖י הָעָֽם׃ פ"
+pericope: "[[Ezek.11.1 Evil in High Places|Evil in High Places]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 11
+book/chapter: "[[Ezek.11|Ezekiel 11]]"
+chronological_order: 802
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic AZUR|AZUR]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BENAIAH|BENAIAH]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JAAZANIAH|JAAZANIAH]]"
+- "[[topic PELATIAH|PELATIAH]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5375G]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H7307G]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8179G]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9009]]"
+- "[[H6931G]]"
+- "[[H6437G]]"
+- "[[H6921]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9003]]"
+- "[[H6607]]"
+- "[[H6242]]"
+- "[[H2568]]"
+- "[[H0376G]]"
+- "[[H7200G]]"
+- "[[H8432]]"
+- "[[H9028]]"
+- "[[H2970I]]"
+- "[[H1121A]]"
+- "[[H5809I]]"
+- "[[H6410J]]"
+- "[[H1141R]]"
+- "[[H8269]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezekiel 11:1**<big><big>[[Ezek.11.1 Evil in High Places|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the spirit lifted me up, and brought me unto the east gate of the LORD’S house, which looketh eastward: and behold at the door of the gate five and twenty men; among whom I saw Jaazaniah the son of Azur, and Pelatiah the son of Benaiah, princes of the people.
 <small><sub>**BSB:**</sub></small>
 Then the Spirit lifted me up and brought me to the gate of the house of the LORD that faces east. And there at the entrance of the gate were twenty-five men. Among them I saw Jaazaniah son of Azzur and Pelatiah son of Benaiah, who were leaders of the people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5375G\|תִּשָּׂ֨א]] [[H0853\|אֹתִ֜]][[H9030\|י]] [[H7307G\|ר֗וּחַ]] [[H9001\|וַ]][[H0935P\|תָּבֵ֣א]] [[H0853\|אֹ֠תִ]][[H9030\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H8179G\|שַׁ֨עַר]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְהוָ֤ה]] [[H9009\|הַ]][[H6931G\|קַּדְמוֹנִי֙]] [[H9009\|הַ]][[H6437G\|פּוֹנֶ֣ה]] [[H6921\|קָדִ֔ימָ]][[H9011\|ה]] [[H9002\|וְ]][[H2009\|הִנֵּה֙]] [[H9003\|בְּ]][[H6607\|פֶ֣תַח]] [[H9009\|הַ]][[H8179G\|שַּׁ֔עַר]] [[H6242\|עֶשְׂרִ֥ים]] [[H9002\|וַ]][[H2568\|חֲמִשָּׁ֖ה]] [[H0376G\|אִ֑ישׁ]] [[H9001\|וָ]][[H7200G\|אֶרְאֶ֨ה]] [[H9003\|בְ]][[H8432\|תוֹכָ֜]][[H9028\|ם]] [[H0853\|אֶת]][[H9014\|־]] [[H2970I\|יַאֲזַנְיָ֧ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H5809I\|עַזֻּ֛ר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6410J\|פְּלַטְיָ֥הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H1141R\|בְּנָיָ֖הוּ]] [[H8269\|שָׂרֵ֖י]] [[H9009\|הָ]][[H5971A\|עָֽם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AZUR|AZUR]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BENAIAH|BENAIAH]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JAAZANIAH|JAAZANIAH]] • [[topic PELATIAH|PELATIAH]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.11.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.22|<< Ezekiel 10:22]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.2|Ezekiel 11:2 >>]]</td></tr></table>
 
@@ -37,7 +113,7 @@ Then the Spirit lifted me up and brought me to the gate of the house of the LORD
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Benaiah  |**<big>&#8207;[[H1141R\|בְּנָיָ֖הוּ]]&#8207; </big>**| be.na.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] leaders of  |**<big>&#8207;[[H8269\|שָׂרֵ֖י]]&#8207; </big>**| sa.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.22|<< Ezekiel 10:22]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.2|Ezekiel 11:2 >>]]</td></tr></table>
 
 

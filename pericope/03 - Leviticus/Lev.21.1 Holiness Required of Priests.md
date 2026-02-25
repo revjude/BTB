@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Holiness Required of Priests
+type: Pericope
 pericope: "[[Lev.21.1 Holiness Required of Priests|Holiness Required of Priests]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 21
 book/chapter: "[[Lev.21|Leviticus 21]]"
-genre:
+chronological_order: 153
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 15
 verses:
 - "[[Lev.21.1]]"
 - "[[Lev.21.2]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Lev.21.15]]"
 ---
 
-[[Lev.21|Leviticus 21:1 - Leviticus 21:15]]
+<small>[[Lev.21|Leviticus 21:1-15]]</small>
 *Holiness Required of Priests*
 
 [[Lev.21.1|1]] And the LORD said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people:

@@ -1,7 +1,7 @@
 
 **SUCCESSION**
 
-→ Of priests, irregularity in [[Heb.7.1|Heb 7:1]]-[[Heb.7.28|28]]
+→ Of priests, irregularity in [[Heb.7.1|Heb 7:1-28]]
 
 → See [[topic PRIEST|PRIESTS]]
 

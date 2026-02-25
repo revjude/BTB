@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Burden against Edom
+type: Pericope
 pericope: "[[Isa.21.11 The Burden against Edom|The Burden against Edom]]"
-verse_count: 2
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 21
 book/chapter: "[[Isa.21|Isaiah 21]]"
-genre:
+chronological_order: 638
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 2
 verses:
 - "[[Isa.21.11]]"
 - "[[Isa.21.12]]"
 ---
 
-[[Isa.21|Isaiah 21:11 - Isaiah 21:12]]
+<small>[[Isa.21|Isaiah 21:11-12]]</small>
 *The Burden against Edom*
 
 [[Isa.21.11|11]] The burden of Dumah. He calleth to me out of Seir, Watchman, what of the night? Watchman, what of the night?

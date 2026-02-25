@@ -1,8 +1,76 @@
+---
+title: 2 Chronicles 6:13
+type: Verse
+kjv: "For Solomon had made a brasen scaffold, of five cubits long, and five cubits broad, and three cubits high, and had set it in the midst of the court: and upon it he stood, and kneeled down upon his knees before all the congregation of Israel, and spread forth his hands toward heaven,"
+bsb: "Now Solomon had made a bronze platform five cubits long, five cubits wide, and three cubits high and had placed it in the middle of the courtyard. He stood on it, knelt down before the whole assembly of Israel, spread out his hands toward heaven,"
+hebrew: "כִּֽי־ עָשָׂ֨ה שְׁלֹמֹ֜ה כִּיּ֣וֹר נְחֹ֗שֶׁת וַֽיִּתְּנֵהוּ֮ בְּת֣וֹךְ הָעֲזָרָה֒ חָמֵ֨שׁ אַמּ֜וֹת אָרְכּ֗וֹ וְחָמֵ֤שׁ אַמּוֹת֙ רָחְבּ֔וֹ וְאַמּ֥וֹת שָׁל֖וֹשׁ קוֹמָת֑וֹ וַיַּעֲמֹ֣ד עָלָ֗יו וַיִּבְרַ֤ךְ עַל־ בִּרְכָּיו֙ נֶ֚גֶד כָּל־ קְהַ֣ל יִשְׂרָאֵ֔ל וַיִּפְרֹ֥שׂ כַּפָּ֖יו הַשָּׁמָֽיְמָה׃"
+pericope: "[[2Chr.6.12 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 6
+book/chapter: "[[2Chr.6|2 Chronicles 6]]"
+chronological_order: 495
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PULPIT|PULPIT]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6213H]]"
+- "[[H8010]]"
+- "[[H3595]]"
+- "[[H5178A]]"
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H5835]]"
+- "[[H2568]]"
+- "[[H0520A]]"
+- "[[H0753]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H7341]]"
+- "[[H7969]]"
+- "[[H6967]]"
+- "[[H5975G]]"
+- "[[H5921A]]"
+- "[[H1288]]"
+- "[[H1290]]"
+- "[[H5048]]"
+- "[[H3605]]"
+- "[[H6951]]"
+- "[[H3478]]"
+- "[[H6566]]"
+- "[[H3709G]]"
+- "[[H8064]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 6:13**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Solomon had made a brasen scaffold, of five cubits long, and five cubits broad, and three cubits high, and had set it in the midst of the court: and upon it he stood, and kneeled down upon his knees before all the congregation of Israel, and spread forth his hands toward heaven,
 <small><sub>**BSB:**</sub></small>
 Now Solomon had made a bronze platform five cubits long, five cubits wide, and three cubits high and had placed it in the middle of the courtyard. He stood on it, knelt down before the whole assembly of Israel, spread out his hands toward heaven,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H6213H\|עָשָׂ֨ה]] [[H8010\|שְׁלֹמֹ֜ה]] [[H3595\|כִּיּ֣וֹר]] [[H5178A\|נְחֹ֗שֶׁת]] [[H9001\|וַֽ]][[H5414H\|יִּתְּנֵ]][[H9033\|הוּ֮]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H9009\|הָ]][[H5835\|עֲזָרָה֒]] [[H2568\|חָמֵ֨שׁ]] [[H0520A\|אַמּ֜וֹת]] [[H0753\|אָרְכּ֗]][[H9023\|וֹ]] [[H9002\|וְ]][[H2568\|חָמֵ֤שׁ]] [[H0520A\|אַמּוֹת֙]] [[H7341\|רָחְבּ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H0520A\|אַמּ֥וֹת]] [[H7969\|שָׁל֖וֹשׁ]] [[H6967\|קוֹמָת֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H5975G\|יַּעֲמֹ֣ד]] [[H5921A\|עָלָ֗י]][[H9033\|ו]] [[H9001\|וַ]][[H1288\|יִּבְרַ֤ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H1290\|בִּרְכָּי]][[H9023\|ו֙]] [[H5048\|נֶ֚גֶד]] [[H3605\|כָּל]][[H9014\|־]] [[H6951\|קְהַ֣ל]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וַ]][[H6566\|יִּפְרֹ֥שׂ]] [[H3709G\|כַּפָּ֖י]][[H9023\|ו]] [[H9009\|הַ]][[H8064\|שָּׁמָֽיְמָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GOD|GOD]] • [[topic PULPIT|PULPIT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.12|<< 2 Chronicles 6:12]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.14|2 Chronicles 6:14 >>]]</td></tr></table>
 

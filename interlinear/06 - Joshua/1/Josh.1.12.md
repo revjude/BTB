@@ -1,8 +1,52 @@
+---
+title: Joshua 1:12
+type: Verse
+kjv: "And to the Reubenites, and to the Gadites, and to half the tribe of Manasseh, spake Joshua, saying,"
+bsb: "But to the Reubenites, the Gadites, and the half-tribe of Manasseh, Joshua said,"
+hebrew: "וְלָרֽאוּבֵנִי֙ וְלַגָּדִ֔י וְלַחֲצִ֖י שֵׁ֣בֶט הַֽמְנַשֶּׁ֑ה אָמַ֥ר יְהוֹשֻׁ֖עַ לֵאמֹֽר׃"
+pericope: "[[Josh.1.10 Joshua Takes Charge|Joshua Takes Charge]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 1
+book/chapter: "[[Josh.1|Joshua 1]]"
+chronological_order: 231
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic REUBENITES|REUBENITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H7206]]"
+- "[[H1425]]"
+- "[[H2677]]"
+- "[[H7626H]]"
+- "[[H9009]]"
+- "[[H4519G]]"
+- "[[H0559]]"
+- "[[H3091G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 1:12**<big><big>[[Josh.1.10 Joshua Takes Charge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And to the Reubenites, and to the Gadites, and to half the tribe of Manasseh, spake Joshua, saying,
 <small><sub>**BSB:**</sub></small>
 But to the Reubenites, the Gadites, and the half-tribe of Manasseh, Joshua said,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לָ]][[H7206\|רֽאוּבֵנִי֙]] [[H9002\|וְ]][[H9005\|לַ]][[H1425\|גָּדִ֔י]] [[H9002\|וְ]][[H9005\|לַ]][[H2677\|חֲצִ֖י]] [[H7626H\|שֵׁ֣בֶט]] [[H9009\|הַֽ]][[H4519G\|מְנַשֶּׁ֑ה]] [[H0559\|אָמַ֥ר]] [[H3091G\|יְהוֹשֻׁ֖עַ]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MANASSEH|MANASSEH]] • [[topic REUBENITES|REUBENITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.1.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.1.11|<< Joshua 1:11]]</td><td align="center" style="border:none;">[[Josh.1|Joshua 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.1.13|Joshua 1:13 >>]]</td></tr></table>
 

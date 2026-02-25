@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Peter’s First Denial
+type: Pericope
 pericope: "[[John.18.15 Peter’s First Denial|Peter’s First Denial]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: John
 chapter: 18
 book/chapter: "[[John.18|John 18]]"
-genre:
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 4
 verses:
 - "[[John.18.15]]"
 - "[[John.18.16]]"
@@ -22,7 +29,7 @@ verses:
 - "[[John.18.18]]"
 ---
 
-[[John.18|John 18:15 - John 18:18]]
+<small>[[John.18|John 18:15-18]]</small>
 *Peter’s First Denial*
 
 [[John.18.15|15]] And Simon Peter followed Jesus, and \[so did\] another disciple: that disciple was known unto the high priest, and went in with Jesus into the palace of the high priest.

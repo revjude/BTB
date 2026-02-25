@@ -1,8 +1,77 @@
+---
+title: Numbers 11:31
+type: Verse
+kjv: "And there went forth a wind from the LORD, and brought quails from the sea, and let them fall by the camp, as it were a day’s journey on this side, and as it were a day’s journey on the other side, round about the camp, and as it were two cubits high upon the face of the earth."
+bsb: "Now a wind sent by the LORD came up, drove in quail from the sea, and brought them near the camp, about two cubits above the surface of the ground, for a day’s journey in every direction around the camp."
+hebrew: "וְר֜וּחַ נָסַ֣ע׀ מֵאֵ֣ת יְהוָ֗ה וַיָּ֣גָז שַׂלְוִים֮ מִן־ הַיָּם֒ וַיִּטֹּ֨שׁ עַל־ הַֽמַּחֲנֶ֜ה כְּדֶ֧רֶךְ י֣וֹם כֹּ֗ה וּכְדֶ֤רֶךְ יוֹם֙ כֹּ֔ה סְבִיב֖וֹת הַֽמַּחֲנֶ֑ה וּכְאַמָּתַ֖יִם עַל־ פְּנֵ֥י הָאָֽרֶץ׃"
+pericope: "[[Num.11.31 The Quail and the Plague|The Quail and the Plague]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 11
+book/chapter: "[[Num.11|Numbers 11]]"
+chronological_order: 171
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic KIBROTH-HATTAAVAH|KIBROTH-HATTAAVAH]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic QUAIL|QUAIL]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H7307H]]"
+- "[[H5265]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H1468]]"
+- "[[H7958]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H5203]]"
+- "[[H5921A]]"
+- "[[H4264]]"
+- "[[H9004]]"
+- "[[H1870L]]"
+- "[[H3117G]]"
+- "[[H3541]]"
+- "[[H5439G]]"
+- "[[H0520A]]"
+- "[[H6440J]]"
+- "[[H0776H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 11:31**<big><big>[[Num.11.31 The Quail and the Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there went forth a wind from the LORD, and brought quails from the sea, and let [them] fall by the camp, as it were a day’s journey on this side, and as it were a day’s journey on the other side, round about the camp, and as it were two cubits [high] upon the face of the earth.
 <small><sub>**BSB:**</sub></small>
 Now a wind sent by the LORD came up, drove in quail from the sea, and brought them near the camp, about two cubits above the surface of the ground, for a day’s journey in every direction around the camp.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7307H\|ר֜וּחַ]] [[H5265\|נָסַ֣ע]][[H9015\|׀]] [[H9006\|מֵ]][[H0854\|אֵ֣ת]] [[H3068G\|יְהוָ֗ה]] [[H9001\|וַ]][[H1468\|יָּ֣גָז]] [[H7958\|שַׂלְוִים֮]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּם֒]] [[H9001\|וַ]][[H5203\|יִּטֹּ֨שׁ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶ֜ה]] [[H9004\|כְּ]][[H1870L\|דֶ֧רֶךְ]] [[H3117G\|י֣וֹם]] [[H3541\|כֹּ֗ה]] [[H9002\|וּ]][[H9004\|כְ]][[H1870L\|דֶ֤רֶךְ]] [[H3117G\|יוֹם֙]] [[H3541\|כֹּ֔ה]] [[H5439G\|סְבִיב֖וֹת]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶ֑ה]] [[H9002\|וּ]][[H9004\|כְ]][[H0520A\|אַמָּתַ֖יִם]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֥י]] [[H9009\|הָ]][[H0776H\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic KIBROTH-HATTAAVAH|KIBROTH-HATTAAVAH]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic PRAYER|PRAYER]] • [[topic QUAIL|QUAIL]] • [[topic SANITATION|SANITATION]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.30|<< Numbers 11:30]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.32|Numbers 11:32 >>]]</td></tr></table>
 

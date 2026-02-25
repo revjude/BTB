@@ -1,8 +1,60 @@
+---
+title: Psalm 95:11
+type: Verse
+kjv: "Unto whom I sware in my wrath that they should not enter into my rest."
+bsb: "So I swore on oath in My anger, “They shall never enter My rest.”"
+hebrew: "אֲשֶׁר־ נִשְׁבַּ֥עְתִּי בְאַפִּ֑י אִם־ יְ֝בֹא֗וּן אֶל־ מְנוּחָתִֽי׃"
+pericope: "[[Ps.95.1 Do Not Harden Your Hearts|Do Not Harden Your Hearts]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 95
+book/chapter: "[[Ps.95|Psalm 95]]"
+chronological_order: 522
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic OATH|OATH]]"
+- "[[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H7650]]"
+- "[[H9003]]"
+- "[[H0639G]]"
+- "[[H9020]]"
+- "[[H0518H]]"
+- "[[H0935G]]"
+- "[[H9013]]"
+- "[[H0413]]"
+- "[[H4496H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 95:11**<big><big>[[Ps.95.1 Do Not Harden Your Hearts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unto whom I sware in my wrath that they should not enter into my rest.
 <small><sub>**BSB:**</sub></small>
 So I swore on oath in My anger, “They shall never enter My rest.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7650\|נִשְׁבַּ֥עְתִּי]] [[H9003\|בְ]][[H0639G\|אַפִּ֑]][[H9020\|י]] [[H0518H\|אִם]][[H9014\|־]] [[H0935G\|יְ֝בֹא֗וּ]][[H9013\|ן]] [[H0413\|אֶל]][[H9014\|־]] [[H4496H\|מְנוּחָתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OATH|OATH]] • [[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SIN|SIN]] • [[topic UNBELIEF|UNBELIEF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.95.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.95.10|<< Psalms 95:10]]</td><td align="center" style="border:none;">[[Ps.95|Psalms 95]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.96.1|Psalms 96:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

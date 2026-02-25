@@ -1,8 +1,59 @@
+---
+title: 2 Chronicles 9:5
+type: Verse
+kjv: "And she said to the king, It was a true report which I heard in mine own land of thine acts, and of thy wisdom:"
+bsb: "She said to the king, “The report I heard in my own country about your words and wisdom is true."
+hebrew: "וַתֹּ֙אמֶר֙ אֶל־ הַמֶּ֔לֶךְ אֱמֶת֙ הַדָּבָ֔ר אֲשֶׁ֥ר שָׁמַ֖עְתִּי בְּאַרְצִ֑י עַל־ דְּבָרֶ֖יךָ וְעַל־ חָכְמָתֶֽךָ׃"
+pericope: "[[2Chr.9.1 The Queen of Sheba|The Queen of Sheba]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 9
+book/chapter: "[[2Chr.9|2 Chronicles 9]]"
+chronological_order: 538
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic SHEBA|SHEBA]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0571H]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H8085G]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H2451]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 9:5**<big><big>[[2Chr.9.1 The Queen of Sheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she said to the king, [It was] a true report which I heard in mine own land of thine acts, and of thy wisdom:
 <small><sub>**BSB:**</sub></small>
 She said to the king, “The report I heard in my own country about your words and wisdom is true.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֙אמֶר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H0571H\|אֱמֶת֙]] [[H9009\|הַ]][[H1697G\|דָּבָ֔ר]] [[H0834A\|אֲשֶׁ֥ר]] [[H8085G\|שָׁמַ֖עְתִּי]] [[H9003\|בְּ]][[H0776G\|אַרְצִ֑]][[H9020\|י]] [[H5921A\|עַל]][[H9014\|־]] [[H1697G\|דְּבָרֶ֖י]][[H9021\|ךָ]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H2451\|חָכְמָתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHEBA|SHEBA]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.9.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.4|<< 2 Chronicles 9:4]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.6|2 Chronicles 9:6 >>]]</td></tr></table>
 

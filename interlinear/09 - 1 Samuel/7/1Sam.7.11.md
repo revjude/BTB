@@ -1,8 +1,61 @@
+---
+title: 1 Samuel 7:11
+type: Verse
+kjv: "And the men of Israel went out of Mizpeh, and pursued the Philistines, and smote them, until they came under Bethcar."
+bsb: "Then the men of Israel charged out of Mizpah and pursued the Philistines, striking them down all the way to an area below Beth-car."
+hebrew: "וַיֵּ֨צְא֜וּ אַנְשֵׁ֤י יִשְׂרָאֵל֙ מִן־ הַמִּצְפָּ֔ה וַֽיִּרְדְּפ֖וּ אֶת־ פְּלִשְׁתִּ֑ים וַיַּכּ֕וּם עַד־ מִתַּ֖חַת לְבֵ֥ית כָּֽר׃"
+pericope: "[[1Sam.7.1 Samuel Subdues the Philistines|Samuel Subdues the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 7
+book/chapter: "[[1Sam.7|1 Samuel 7]]"
+chronological_order: 286
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BETH-CAR|BETH-CAR]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H0582]]"
+- "[[H3478]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4709G]]"
+- "[[H7291]]"
+- "[[H0853]]"
+- "[[H6430G]]"
+- "[[H5221]]"
+- "[[H9038]]"
+- "[[H5704]]"
+- "[[H9006]]"
+- "[[H8478G]]"
+- "[[H9005]]"
+- "[[H1033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 7:11**<big><big>[[1Sam.7.1 Samuel Subdues the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men of Israel went out of Mizpeh, and pursued the Philistines, and smote them, until [they came] under Bethcar.
 <small><sub>**BSB:**</sub></small>
 Then the men of Israel charged out of Mizpah and pursued the Philistines, striking them down all the way to an area below Beth-car.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּ֨צְא֜וּ]] [[H0582\|אַנְשֵׁ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4709G\|מִּצְפָּ֔ה]] [[H9001\|וַֽ]][[H7291\|יִּרְדְּפ֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H6430G\|פְּלִשְׁתִּ֑ים]] [[H9001\|וַ]][[H5221\|יַּכּ֕וּ]][[H9038\|ם]] [[H5704\|עַד]][[H9014\|־]] [[H9006\|מִ]][[H8478G\|תַּ֖חַת]] [[H9005\|לְ]][[H1033\|בֵ֥ית]] [[H1033\|כָּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-CAR|BETH-CAR]] • [[topic INTERCESSION|INTERCESSION]] • [[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.7.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.7.10|<< 1 Samuel 7:10]]</td><td align="center" style="border:none;">[[1Sam.7|1 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.7.12|1 Samuel 7:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

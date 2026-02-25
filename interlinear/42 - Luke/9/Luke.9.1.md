@@ -1,10 +1,58 @@
+---
+title: Luke 9:1
+type: Verse
+kjv: "Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases."
+bsb: "Then Jesus called the Twelve together and gave them power and authority over all demons, and power to cure diseases."
+greek: "Συγκαλεσάμενος δὲ τοὺς δώδεκα μαθητὰς αὑτοῦ, ἔδωκεν αὐτοῖς δύναμιν καὶ ἐξουσίαν ἐπὶ πάντα τὰ δαιμόνια καὶ νόσους θεραπεύειν"
+pericope: "[[Luke.9.1 The Ministry of the Twelve|The Ministry of the Twelve]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G4779]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1427]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G1325]]"
+- "[[G1411]]"
+- "[[G2532]]"
+- "[[G1849]]"
+- "[[G1909]]"
+- "[[G3956]]"
+- "[[G1140]]"
+- "[[G3554]]"
+- "[[G2323]]"
+texts:
+- NKO
+- K
+---
+
 **Luke 9:1**<big><big>[[Luke.9.1 The Ministry of the Twelve|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases.
 <small><sub>**BSB:**</sub></small>
 Then Jesus called the Twelve together and gave them power and authority over all demons, and power to cure diseases.
-<small><sub>**Literal:**</sub></small>
-Having called together then the Twelve disciples of him He gave to them power and authority over all the demons and diseases to heal<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.56|<< Luke 8:56]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.2|Luke 9:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4779\|Συγκαλεσάμενος]]  [[G1161\|δὲ]]  [[G3588\|τοὺς]]  [[G1427\|δώδεκα]]  [[G3101\|μαθητὰς]]  [[G0846\|αὑτοῦ,]]  [[G1325\|ἔδωκεν]]  [[G0846\|αὐτοῖς]]  [[G1411\|δύναμιν]]  [[G2532\|καὶ]]  [[G1849\|ἐξουσίαν]]  [[G1909\|ἐπὶ]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G1140\|δαιμόνια]]  [[G2532\|καὶ]]  [[G3554\|νόσους]]  [[G2323\|θεραπεύειν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.56|<< Luke 8:56]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.2|Luke 9:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

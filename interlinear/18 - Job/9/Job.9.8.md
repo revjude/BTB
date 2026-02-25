@@ -1,8 +1,55 @@
+---
+title: Job 9:8
+type: Verse
+kjv: "Which alone spreadeth out the heavens, and treadeth upon the waves of the sea."
+bsb: "He alone stretches out the heavens and treads on the waves of the sea."
+hebrew: "נֹטֶ֣ה שָׁמַ֣יִם לְבַדּ֑וֹ וְ֝דוֹרֵ֗ךְ עַל־ בָּ֥מֳתֵי יָֽם׃"
+pericope: "[[Job.9.1 Job：How Can I Contend with God？|Job：How Can I Contend with God？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 9
+book/chapter: "[[Job.9|Job 9]]"
+chronological_order: 20
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+strongs:
+- "[[H5186]]"
+- "[[H8064]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H1869]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1116]]"
+- "[[H3220G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 9:8**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which alone spreadeth out the heavens, and treadeth upon the waves of the sea.
 <small><sub>**BSB:**</sub></small>
 He alone stretches out the heavens and treads on the waves of the sea.
+<small><sub>**Hebrew:**</sub></small>
+[[H5186\|נֹטֶ֣ה]] [[H8064\|שָׁמַ֣יִם]] [[H9005\|לְ]][[H0905H\|בַדּ֑]][[H9033\|וֹ]] [[H9002\|וְ֝]][[H1869\|דוֹרֵ֗ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H1116\|בָּ֥מֳתֵי]] [[H3220G\|יָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTRONOMY|ASTRONOMY]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.7|<< Job 9:7]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.9|Job 9:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

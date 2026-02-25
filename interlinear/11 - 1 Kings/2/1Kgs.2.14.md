@@ -1,8 +1,56 @@
+---
+title: 1 Kings 2:14
+type: Verse
+kjv: "He said moreover, I have somewhat to say unto thee. And she said, Say on."
+bsb: "Then he said, “I have something to tell you.” “Say it,” she answered."
+hebrew: "וַיֹּ֕אמֶר דָּבָ֥ר לִ֖י אֵלָ֑יִךְ וַתֹּ֖אמֶר דַּבֵּֽר׃"
+pericope: "[[1Kgs.2.13 The Execution of Adonijah|The Execution of Adonijah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 2
+book/chapter: "[[1Kgs.2|1 Kings 2]]"
+chronological_order: 442
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ABISHAG|ABISHAG]]"
+- "[[topic ADONIJAH|ADONIJAH]]"
+- "[[topic BATH-SHEBA (BATHSHEBA)|BATH-SHEBA (BATHSHEBA)]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic SHUNAMMITE|SHUNAMMITE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1697H]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0413]]"
+- "[[H9032]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 2:14**<big><big>[[1Kgs.2.13 The Execution of Adonijah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He said moreover, I have somewhat to say unto thee. And she said, Say on.
 <small><sub>**BSB:**</sub></small>
 Then he said, “I have something to tell you.” “Say it,” she answered.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H1697H\|דָּבָ֥ר]] [[H9005\|לִ֖]][[H9030\|י]] [[H0413\|אֵלָ֑יִ]][[H9032\|ךְ]] [[H9001\|וַ]][[H0559\|תֹּ֖אמֶר]] [[H1696G\|דַּבֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAG|ABISHAG]] • [[topic ADONIJAH|ADONIJAH]] • [[topic BATH-SHEBA (BATHSHEBA)|BATH-SHEBA (BATHSHEBA)]] • [[topic INFLUENCE|INFLUENCE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic SHUNAMMITE|SHUNAMMITE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.13|<< 1 Kings 2:13]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.15|1 Kings 2:15 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Ezekiel 4:7
+type: Verse
+kjv: "Therefore thou shalt set thy face toward the siege of Jerusalem, and thine arm shall be uncovered, and thou shalt prophesy against it."
+bsb: "You must turn your face toward the siege of Jerusalem with your arm bared, and prophesy against it."
+hebrew: "וְאֶל־ מְצ֤וֹר יְרוּשָׁלִַ֙ם֙ תָּכִ֣ין פָּנֶ֔יךָ וּֽזְרֹעֲךָ֖ חֲשׂוּפָ֑ה וְנִבֵּאתָ֖ עָלֶֽיהָ׃"
+pericope: "[[Ezek.4.1 A Sign of Jerusalem’s Siege|A Sign of Jerusalem’s Siege]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 4
+book/chapter: "[[Ezek.4|Ezekiel 4]]"
+chronological_order: 795
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PANTOMIME|PANTOMIME]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4692]]"
+- "[[H3389]]"
+- "[[H3559H]]"
+- "[[H6440H]]"
+- "[[H9021]]"
+- "[[H2220]]"
+- "[[H2834]]"
+- "[[H9001]]"
+- "[[H5012]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 4:7**<big><big>[[Ezek.4.1 A Sign of Jerusalem’s Siege|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thou shalt set thy face toward the siege of Jerusalem, and thine arm [shall be] uncovered, and thou shalt prophesy against it.
 <small><sub>**BSB:**</sub></small>
 You must turn your face toward the siege of Jerusalem with your arm bared, and prophesy against it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H4692\|מְצ֤וֹר]] [[H3389\|יְרוּשָׁלִַ֙ם֙]] [[H3559H\|תָּכִ֣ין]] [[H6440H\|פָּנֶ֔י]][[H9021\|ךָ]] [[H9002\|וּֽ]][[H2220\|זְרֹעֲ]][[H9021\|ךָ֖]] [[H2834\|חֲשׂוּפָ֑ה]] [[H9001\|וְ]][[H5012\|נִבֵּאתָ֖]] [[H5921A\|עָלֶֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic PANTOMIME|PANTOMIME]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.4.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4.6|<< Ezekiel 4:6]]</td><td align="center" style="border:none;">[[Ezek.4|Ezekiel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.4.8|Ezekiel 4:8 >>]]</td></tr></table>
 

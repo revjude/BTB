@@ -1,10 +1,52 @@
+---
+title: Luke 3:31
+type: Verse
+kjv: "Which was the son of Melea, which was the son of Menan, which was the son of Mattatha, which was the son of Nathan, which was the son of David,"
+bsb: "the son of Melea, the son of Menna, the son of Mattatha, the son of Nathan, the son of David,"
+greek: "τοῦ Μελεὰ τοῦ Μεννὰ τοῦ Ματταθὰ τοῦ Ναθὰμ τοῦ Δαυὶδ"
+pericope: "[[Luke.3.23 The Genealogy of Jesus|The Genealogy of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 3
+book/chapter: "[[Luke.3|Luke 3]]"
+chronological_order: 937
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MATTATHA|MATTATHA]]"
+- "[[topic MENAN|MENAN]]"
+strongs:
+- "[[G3588]]"
+- "[[G3190]]"
+- "[[G3104]]"
+- "[[G3160]]"
+- "[[G3481]]"
+- "[[G1138]]"
+texts:
+- NKO
+---
+
 **Luke 3:31**<big><big>[[Luke.3.23 The Genealogy of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Which was [the son] of Melea, which was [the son] of Menan, which was [the son] of Mattatha, which was [the son] of Nathan, which was [the son] of David,
 <small><sub>**BSB:**</sub></small>
 the son of Melea, the son of Menna, the son of Mattatha, the son of Nathan, the son of David,
-<small><sub>**Literal:**</sub></small>
-<the> of Melea <the> of Menna <the> of Mattatha <the> of Nathan <the> of David<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.30|<< Luke 3:30]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.32|Luke 3:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τοῦ]]  [[G3190\|Μελεὰ]]  [[G3588\|τοῦ]]  [[G3104\|Μεννὰ]]  [[G3588\|τοῦ]]  [[G3160\|Ματταθὰ]]  [[G3588\|τοῦ]]  [[G3481\|Ναθὰμ]]  [[G3588\|τοῦ]]  [[G1138\|Δαυὶδ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GENEALOGY|GENEALOGY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic MATTATHA|MATTATHA]] • [[topic MENAN|MENAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.30|<< Luke 3:30]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.32|Luke 3:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

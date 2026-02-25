@@ -1,8 +1,57 @@
+---
+title: Joshua 3:5
+type: Verse
+kjv: "And Joshua said unto the people, Sanctify yourselves: for to morrow the LORD will do wonders among you."
+bsb: "Then Joshua told the people, “Consecrate yourselves, for tomorrow the LORD will do wonders among you.”"
+hebrew: "וַיֹּ֧אמֶר יְהוֹשֻׁ֛עַ אֶל־ הָעָ֖ם הִתְקַדָּ֑שׁוּ כִּ֣י מָחָ֗ר יַעֲשֶׂ֧ה יְהוָ֛ה בְּקִרְבְּכֶ֖ם נִפְלָאֽוֹת׃"
+pericope: "[[Josh.3.1 Crossing the Jordan|Crossing the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 3
+book/chapter: "[[Josh.3|Joshua 3]]"
+chronological_order: 233
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3091G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H6942G]]"
+- "[[H3588A]]"
+- "[[H4279]]"
+- "[[H6213A]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9026]]"
+- "[[H6381]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 3:5**<big><big>[[Josh.3.1 Crossing the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua said unto the people, Sanctify yourselves: for to morrow the LORD will do wonders among you.
 <small><sub>**BSB:**</sub></small>
 Then Joshua told the people, “Consecrate yourselves, for tomorrow the LORD will do wonders among you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֧אמֶר]] [[H3091G\|יְהוֹשֻׁ֛עַ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H6942G\|הִתְקַדָּ֑שׁוּ]] [[H3588A\|כִּ֣י]] [[H4279\|מָחָ֗ר]] [[H6213A\|יַעֲשֶׂ֧ה]] [[H3068G\|יְהוָ֛ה]] [[H9003\|בְּ]][[H7130G\|קִרְבְּ]][[H9026\|כֶ֖ם]] [[H6381\|נִפְלָאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.3.4|<< Joshua 3:4]]</td><td align="center" style="border:none;">[[Josh.3|Joshua 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.3.6|Joshua 3:6 >>]]</td></tr></table>
 

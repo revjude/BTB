@@ -1,10 +1,57 @@
+---
+title: Matthew 2:17
+type: Verse
+kjv: "Then was fulfilled that which was spoken by Jeremy the prophet, saying,"
+bsb: "Then what was spoken through the prophet Jeremiah was fulfilled:"
+greek: "Τότε ἐπληρώθη τὸ ῥηθὲν διὰ Ἰερεμίου τοῦ προφήτου λέγοντος·"
+pericope: "[[Matt.2.16 Weeping and Great Mourning|Weeping and Great Mourning]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 2
+book/chapter: "[[Matt.2|Matthew 2]]"
+chronological_order: 932
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BETHLEHEM|BETHLEHEM]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic INFANTICIDE|INFANTICIDE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G5119]]"
+- "[[G4137]]"
+- "[[G3588]]"
+- "[[G2046]]"
+- "[[G1223]]"
+- "[[G2408]]"
+- "[[G4396]]"
+- "[[G3004G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 2:17**<big><big>[[Matt.2.16 Weeping and Great Mourning|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then was fulfilled that which was spoken by Jeremy the prophet, saying,
 <small><sub>**BSB:**</sub></small>
 Then what was spoken through the prophet Jeremiah was fulfilled:
-<small><sub>**Literal:**</sub></small>
-Then was fulfilled that having been spoken through Jeremiah the prophet saying;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.16|<< Matthew 2:16]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.18|Matthew 2:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G4137\|ἐπληρώθη]]  [[G3588\|τὸ]]  [[G2046\|ῥηθὲν]]  [[G1223\|διὰ]]  [[G2408\|Ἰερεμίου]]  [[G3588\|τοῦ]]  [[G4396\|προφήτου]]  [[G3004G\|λέγοντος·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHLEHEM|BETHLEHEM]] • [[topic CHILDREN|CHILDREN]] • [[topic EGYPT|EGYPT]] • [[topic INFANTICIDE|INFANTICIDE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic MOURNING|MOURNING]] • [[topic PROPHECY|PROPHECY]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.16|<< Matthew 2:16]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.18|Matthew 2:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

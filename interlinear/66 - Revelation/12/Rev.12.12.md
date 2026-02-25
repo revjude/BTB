@@ -1,10 +1,69 @@
+---
+title: Revelation 12:12
+type: Verse
+kjv: "Therefore rejoice, ye heavens, and ye that dwell in them. Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time."
+bsb: "Therefore rejoice, O heavens, and you who dwell in them! But woe to the earth and the sea; with great fury the devil has come down to you, knowing he has only a short time.”"
+greek: "διὰ τοῦτο εὐφραίνεσθε οἱ οὐρανοὶ καὶ οἱ ἐν αὐτοῖς σκηνοῦντες. οὐαὶ τοῖς κατοικοῦσιν τὴν γῆν καὶ τὴν θάλασσαν, ὅτι κατέβη ὁ διάβολος πρὸς ὑμᾶς ἔχων θυμὸν μέγαν εἰδὼς ὅτι ὀλίγον καιρὸν ἔχει.¶"
+pericope: "[[Rev.12.7 The War in Heaven|The War in Heaven]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 12
+book/chapter: "[[Rev.12|Revelation 12]]"
+chronological_order: 1179
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic SATAN|SATAN]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G2165]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G4637]]"
+- "[[G3759]]"
+- "[[G2730]]"
+- "[[G1093G]]"
+- "[[G2281]]"
+- "[[G3754H]]"
+- "[[G2597]]"
+- "[[G1228]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G2192]]"
+- "[[G2372]]"
+- "[[G3173]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G3641]]"
+- "[[G2540]]"
+texts:
+- NKO
+- K
+- NK(o)
+---
+
 **Revelation 12:12**<big><big>[[Rev.12.7 The War in Heaven|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore rejoice, [ye] heavens, and ye that dwell in them. Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time.
 <small><sub>**BSB:**</sub></small>
 Therefore rejoice, O heavens, and you who dwell in them! But woe to the earth and the sea; with great fury the devil has come down to you, knowing he has only a short time.”
-<small><sub>**Literal:**</sub></small>
-Because of this do rejoice O heavens and you who [are] in them dwelling! Woe  to those dwelling [in] the land and the sea, because has come down the devil to you having fury great knowing that a short time he has.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.11|<< Revelation 12:11]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.13|Revelation 12:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G2165\|εὐφραίνεσθε]]  [[G3588\|οἱ]]  [[G3772\|οὐρανοὶ]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G1722\|ἐν]]  [[G0846\|αὐτοῖς]]  [[G4637\|σκηνοῦντες.]]  [[G3759\|οὐαὶ]]  [[G3588\|τοῖς]]  [[G2730\|κατοικοῦσιν]]  [[G3588\|τὴν]]  [[G1093G\|γῆν]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G2281\|θάλασσαν,]]  [[G3754H\|ὅτι]]  [[G2597\|κατέβη]]  [[G3588\|ὁ]]  [[G1228\|διάβολος]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G2192\|ἔχων]]  [[G2372\|θυμὸν]]  [[G3173\|μέγαν]]  [[G6063\|εἰδὼς]]  [[G3754G\|ὅτι]]  [[G3641\|ὀλίγον]]  [[G2540\|καιρὸν]]  [[G2192\|ἔχει.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SATAN|SATAN]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.11|<< Revelation 12:11]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.13|Revelation 12:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

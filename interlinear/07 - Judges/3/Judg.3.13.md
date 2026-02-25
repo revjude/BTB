@@ -1,8 +1,62 @@
+---
+title: Judges 3:13
+type: Verse
+kjv: "And he gathered unto him the children of Ammon and Amalek, and went and smote Israel, and possessed the city of palm trees."
+bsb: "After enlisting the Ammonites and Amalekites to join forces with him, Eglon attacked and defeated Israel, taking possession of the City of Palms."
+hebrew: "וַיֶּאֱסֹ֣ף אֵלָ֔יו אֶת־ בְּנֵ֥י עַמּ֖וֹן וַעֲמָלֵ֑ק וַיֵּ֗לֶךְ וַיַּךְ֙ אֶת־ יִשְׂרָאֵ֔ל וַיִּֽירְשׁ֖וּ אֶת־ עִ֥יר הַתְּמָרִֽים׃"
+pericope: "[[Judg.3.12 Ehud|Ehud]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 3
+book/chapter: "[[Judg.3|Judges 3]]"
+chronological_order: 257
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic EGLON|EGLON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JERICHO|JERICHO]]"
+strongs:
+- "[[H9001]]"
+- "[[H0622]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H9002]]"
+- "[[H6002G]]"
+- "[[H1980G]]"
+- "[[H5221]]"
+- "[[H3478]]"
+- "[[H3423H]]"
+- "[[H5899]]"
+- "[[H9009]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 3:13**<big><big>[[Judg.3.12 Ehud|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he gathered unto him the children of Ammon and Amalek, and went and smote Israel, and possessed the city of palm trees.
 <small><sub>**BSB:**</sub></small>
 After enlisting the Ammonites and Amalekites to join forces with him, Eglon attacked and defeated Israel, taking possession of the City of Palms.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0622\|יֶּאֱסֹ֣ף]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H5983\|עַמּ֖וֹן]] [[H9002\|וַ]][[H6002G\|עֲמָלֵ֑ק]] [[H9001\|וַ]][[H1980G\|יֵּ֗לֶךְ]] [[H9001\|וַ]][[H5221\|יַּךְ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וַ]][[H3423H\|יִּֽירְשׁ֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H5899\|עִ֥יר]] [[H9009\|הַ]][[H5899\|תְּמָרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic AMALEKITES|AMALEKITES]] • [[topic AMMONITES|AMMONITES]] • [[topic EGLON|EGLON]] • [[topic ISRAEL|ISRAEL]] • [[topic JERICHO|JERICHO]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.12|<< Judges 3:12]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.14|Judges 3:14 >>]]</td></tr></table>
 

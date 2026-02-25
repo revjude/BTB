@@ -1,8 +1,70 @@
+---
+title: Ezekiel 30:25
+type: Verse
+kjv: "But I will strengthen the arms of the king of Babylon, and the arms of Pharaoh shall fall down; and they shall know that I am the LORD, when I shall put my sword into the hand of the king of Babylon, and he shall stretch it out upon the land of Egypt."
+bsb: "I will strengthen the arms of Babylon’s king, but Pharaoh’s arms will fall limp. Then they will know that I am the LORD, when I place My sword in the hand of Babylon’s king, and he wields it against the land of Egypt."
+hebrew: "וְהַחֲזַקְתִּ֗י אֶת־ זְרֹעוֹת֙ מֶ֣לֶךְ בָּבֶ֔ל וּזְרֹע֥וֹת פַּרְעֹ֖ה תִּפֹּ֑לְנָה וְֽיָדְע֞וּ כִּֽי־ אֲנִ֣י יְהוָ֗ה בְּתִתִּ֤י חַרְבִּי֙ בְּיַ֣ד מֶֽלֶךְ־ בָּבֶ֔ל וְנָטָ֥ה אוֹתָ֖הּ אֶל־ אֶ֥רֶץ מִצְרָֽיִם׃"
+pericope: "[[Ezek.30.20 Pharaoh’s Power Broken|Pharaoh’s Power Broken]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 30
+book/chapter: "[[Ezek.30|Ezekiel 30]]"
+chronological_order: 821
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PHARAOH|PHARAOH]]"
+strongs:
+- "[[H9001]]"
+- "[[H2388G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2220]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H9002]]"
+- "[[H6547R]]"
+- "[[H5307G]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H5414H]]"
+- "[[H9040]]"
+- "[[H2719]]"
+- "[[H9020]]"
+- "[[H3027G]]"
+- "[[H5186]]"
+- "[[H9034]]"
+- "[[H0413]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 30:25**<big><big>[[Ezek.30.20 Pharaoh’s Power Broken|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I will strengthen the arms of the king of Babylon, and the arms of Pharaoh shall fall down; and they shall know that I [am] the LORD, when I shall put my sword into the hand of the king of Babylon, and he shall stretch it out upon the land of Egypt.
 <small><sub>**BSB:**</sub></small>
 I will strengthen the arms of Babylon’s king, but Pharaoh’s arms will fall limp. Then they will know that I am the LORD, when I place My sword in the hand of Babylon’s king, and he wields it against the land of Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2388G\|הַחֲזַקְתִּ֗י]] [[H0853\|אֶת]][[H9014\|־]] [[H2220\|זְרֹעוֹת֙]] [[H4428G\|מֶ֣לֶךְ]] [[H0894\|בָּבֶ֔ל]] [[H9002\|וּ]][[H2220\|זְרֹע֥וֹת]] [[H6547R\|פַּרְעֹ֖ה]] [[H5307G\|תִּפֹּ֑לְנָה]] [[H9001\|וְֽ]][[H3045\|יָדְע֞וּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָ֗ה]] [[H9003\|בְּ]][[H5414H\|תִתִּ֤]][[H9040\|י]] [[H2719\|חַרְבִּ]][[H9020\|י֙]] [[H9003\|בְּ]][[H3027G\|יַ֣ד]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֔ל]] [[H9001\|וְ]][[H5186\|נָטָ֥ה]] [[H0853\|אוֹתָ֖]][[H9034\|הּ]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGMENTS|JUDGMENTS]] • [[topic PHARAOH|PHARAOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.24|<< Ezekiel 30:24]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.26|Ezekiel 30:26 >>]]</td></tr></table>
 

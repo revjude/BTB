@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sennacherib’s Fall Prophesied
+type: Pericope
 pericope: "[[Isa.37.21 Sennacherib’s Fall Prophesied|Sennacherib’s Fall Prophesied]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 37
 book/chapter: "[[Isa.37|Isaiah 37]]"
-genre:
+chronological_order: 664
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 15
 verses:
 - "[[Isa.37.21]]"
 - "[[Isa.37.22]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Isa.37.35]]"
 ---
 
-[[Isa.37|Isaiah 37:21 - Isaiah 37:35]]
+<small>[[Isa.37|Isaiah 37:21-35]]</small>
 *Sennacherib’s Fall Prophesied*
 
 [[Isa.37.21|21]] Then Isaiah the son of Amoz sent unto Hezekiah, saying, Thus saith the LORD God of Israel, Whereas thou hast prayed to me against Sennacherib king of Assyria:

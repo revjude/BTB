@@ -1,8 +1,79 @@
+---
+title: Genesis 28:20
+type: Verse
+kjv: "And Jacob vowed a vow, saying, If God will be with me, and will keep me in this way that I go, and will give me bread to eat, and raiment to put on,"
+bsb: "Then Jacob made a vow, saying, “If God will be with me and watch over me on this journey, and if He will provide me with food to eat and clothes to wear,"
+hebrew: "וַיִּדַּ֥ר יַעֲקֹ֖ב נֶ֣דֶר לֵאמֹ֑ר אִם־ יִהְיֶ֨ה אֱלֹהִ֜ים עִמָּדִ֗י וּשְׁמָרַ֙נִי֙ בַּדֶּ֤רֶךְ הַזֶּה֙ אֲשֶׁ֣ר אָנֹכִ֣י הוֹלֵ֔ךְ וְנָֽתַן־ לִ֥י לֶ֛חֶם לֶאֱכֹ֖ל וּבֶ֥גֶד לִלְבֹּֽשׁ׃"
+pericope: "[[Gen.28.18 The Stone of Bethel|The Stone of Bethel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 28
+book/chapter: "[[Gen.28|Genesis 28]]"
+chronological_order: 70
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONSECRATION|CONSECRATION]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic STONES|STONES]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5087]]"
+- "[[H3290]]"
+- "[[H5088]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H0430G]]"
+- "[[H5978]]"
+- "[[H9030]]"
+- "[[H8104H]]"
+- "[[H9003]]"
+- "[[H1870L]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H1980G]]"
+- "[[H5414G]]"
+- "[[H3899H]]"
+- "[[H0398]]"
+- "[[H9002]]"
+- "[[H0899B]]"
+- "[[H3847]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 28:20**<big><big>[[Gen.28.18 The Stone of Bethel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob vowed a vow, saying, If God will be with me, and will keep me in this way that I go, and will give me bread to eat, and raiment to put on,
 <small><sub>**BSB:**</sub></small>
 Then Jacob made a vow, saying, “If God will be with me and watch over me on this journey, and if He will provide me with food to eat and clothes to wear,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5087\|יִּדַּ֥ר]] [[H3290\|יַעֲקֹ֖ב]] [[H5088\|נֶ֣דֶר]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H0518A\|אִם]][[H9014\|־]] [[H1961\|יִהְיֶ֨ה]] [[H0430G\|אֱלֹהִ֜ים]] [[H5978\|עִמָּדִ֗]][[H9030\|י]] [[H9001\|וּ]][[H8104H\|שְׁמָרַ֙]][[H9030\|נִי֙]] [[H9003\|בַּ]][[H1870L\|דֶּ֤רֶךְ]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0595\|אָנֹכִ֣י]] [[H1980G\|הוֹלֵ֔ךְ]] [[H9001\|וְ]][[H5414G\|נָֽתַן]][[H9014\|־]] [[H9005\|לִ֥]][[H9030\|י]] [[H3899H\|לֶ֛חֶם]] [[H9005\|לֶ]][[H0398\|אֱכֹ֖ל]] [[H9002\|וּ]][[H0899B\|בֶ֥גֶד]] [[H9005\|לִ]][[H3847\|לְבֹּֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-EL|BETH-EL]] • [[topic BLESSING|BLESSING]] • [[topic CONSECRATION|CONSECRATION]] • [[topic COVENANT|COVENANT]] • [[topic DECISION|DECISION]] • [[topic GOD|GOD]] • [[topic JACOB|JACOB]] • [[topic RELIGION|RELIGION]] • [[topic STONES|STONES]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.28.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.19|<< Genesis 28:19]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.21|Genesis 28:21 >>]]</td></tr></table>
 

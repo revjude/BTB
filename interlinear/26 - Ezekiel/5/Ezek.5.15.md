@@ -1,8 +1,69 @@
+---
+title: Ezekiel 5:15
+type: Verse
+kjv: "So it shall be a reproach and a taunt, an instruction and an astonishment unto the nations that are round about thee, when I shall execute judgments in thee in anger and in fury and in furious rebukes. I the LORD have spoken it."
+bsb: "So you will be a reproach and a taunt, a warning and a horror to the nations around you, when I execute judgments against you in anger, wrath, and raging fury. I, the LORD, have spoken."
+hebrew: "וְֽהָ֨יְתָ֜ה חֶרְפָּ֤ה וּגְדוּפָה֙ מוּסָ֣ר וּמְשַׁמָּ֔ה לַגּוֹיִ֖ם אֲשֶׁ֣ר סְבִיבוֹתָ֑יִךְ בַּעֲשׂוֹתִי֩ בָ֨ךְ שְׁפָטִ֜ים בְּאַ֤ף וּבְחֵמָה֙ וּבְתֹכְח֣וֹת חֵמָ֔ה אֲנִ֥י יְהוָ֖ה דִּבַּֽרְתִּי׃"
+pericope: "[[Ezek.5.11 Famine, Sword, and Dispersion|Famine, Sword, and Dispersion]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 5
+book/chapter: "[[Ezek.5|Ezekiel 5]]"
+chronological_order: 796
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H2781]]"
+- "[[H9002]]"
+- "[[H1422]]"
+- "[[H4148G]]"
+- "[[H4923]]"
+- "[[H9005]]"
+- "[[H1471A]]"
+- "[[H0834A]]"
+- "[[H5439G]]"
+- "[[H9032]]"
+- "[[H9003]]"
+- "[[H6213A]]"
+- "[[H9040]]"
+- "[[H8201]]"
+- "[[H0639G]]"
+- "[[H2534]]"
+- "[[H8433B]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 5:15**<big><big>[[Ezek.5.11 Famine, Sword, and Dispersion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So it shall be a reproach and a taunt, an instruction and an astonishment unto the nations that [are] round about thee, when I shall execute judgments in thee in anger and in fury and in furious rebukes. I the LORD have spoken [it].
 <small><sub>**BSB:**</sub></small>
 So you will be a reproach and a taunt, a warning and a horror to the nations around you, when I execute judgments against you in anger, wrath, and raging fury. I, the LORD, have spoken.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְֽ]][[H1961\|הָ֨יְתָ֜ה]] [[H2781\|חֶרְפָּ֤ה]] [[H9002\|וּ]][[H1422\|גְדוּפָה֙]] [[H4148G\|מוּסָ֣ר]] [[H9002\|וּ]][[H4923\|מְשַׁמָּ֔ה]] [[H9005\|לַ]][[H1471A\|גּוֹיִ֖ם]] [[H0834A\|אֲשֶׁ֣ר]] [[H5439G\|סְבִיבוֹתָ֑יִ]][[H9032\|ךְ]] [[H9003\|בַּ]][[H6213A\|עֲשׂוֹתִ]][[H9040\|י֩]] [[H9003\|בָ֨]][[H9032\|ךְ]] [[H8201\|שְׁפָטִ֜ים]] [[H9003\|בְּ]][[H0639G\|אַ֤ף]] [[H9002\|וּ]][[H9003\|בְ]][[H2534\|חֵמָה֙]] [[H9002\|וּ]][[H9003\|בְ]][[H8433B\|תֹכְח֣וֹת]] [[H2534\|חֵמָ֔ה]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָ֖ה]] [[H1696G\|דִּבַּֽרְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.5.14|<< Ezekiel 5:14]]</td><td align="center" style="border:none;">[[Ezek.5|Ezekiel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.5.16|Ezekiel 5:16 >>]]</td></tr></table>
 

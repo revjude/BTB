@@ -1,10 +1,68 @@
+---
+title: Acts 1:16
+type: Verse
+kjv: "Men and brethren, this scripture must needs have been fulfilled, which the Holy Ghost by the mouth of David spake before concerning Judas, which was guide to them that took Jesus."
+bsb: "“Brothers, the Scripture had to be fulfilled that the Holy Spirit foretold through the mouth of David concerning Judas, who became a guide for those who arrested Jesus."
+greek: "ἄνδρες ἀδελφοί, ἔδει πληρωθῆναι τὴν γραφὴν ταύτην ἣν προεῖπεν τὸ πνεῦμα τὸ ἅγιον διὰ στόματος Δαυὶδ περὶ Ἰούδα τοῦ γενομένου ὁδηγοῦ τοῖς συλλαβοῦσιν τὸν Ἰησοῦν·"
+pericope: "[[Acts.1.12 Matthias Replaces Judas|Matthias Replaces Judas]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 1
+book/chapter: "[[Acts.1|Acts 1]]"
+chronological_order: 1019
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic MATTHIAS|MATTHIAS]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G0435G]]"
+- "[[G0080]]"
+- "[[G1163]]"
+- "[[G4137]]"
+- "[[G3588]]"
+- "[[G1124]]"
+- "[[G3778]]"
+- "[[G3739]]"
+- "[[G4302]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G1223]]"
+- "[[G4750]]"
+- "[[G1138]]"
+- "[[G4012]]"
+- "[[G2455H]]"
+- "[[G1096]]"
+- "[[G3595]]"
+- "[[G4815]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- k
+- NK(o)
+---
+
 **Acts 1:16**<big><big>[[Acts.1.12 Matthias Replaces Judas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Men [and] brethren, this scripture must needs have been fulfilled, which the Holy Ghost by the mouth of David spake before concerning Judas, which was guide to them that took Jesus.
 <small><sub>**BSB:**</sub></small>
 “Brothers, the Scripture had to be fulfilled that the Holy Spirit foretold through the mouth of David concerning Judas, who became a guide for those who arrested Jesus.
-<small><sub>**Literal:**</sub></small>
-Men brothers, it was necessary for to have been fulfilled <the> Scripture this which foretold the Spirit <the> Holy through [the] mouth of David concerning Judas the [one] having become guide to those having arrested <the> Jesus;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.15|<< Acts 1:15]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.17|Acts 1:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0435G\|ἄνδρες]]  [[G0080\|ἀδελφοί,]]  [[G1163\|ἔδει]]  [[G4137\|πληρωθῆναι]]  [[G3588\|τὴν]]  [[G1124\|γραφὴν]]  [[G3778\|ταύτην]]  [[G3739\|ἣν]]  [[G4302\|προεῖπεν]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τὸ]]  [[G0040G\|ἅγιον]]  [[G1223\|διὰ]]  [[G4750\|στόματος]]  [[G1138\|Δαυὶδ]]  [[G4012\|περὶ]]  [[G2455H\|Ἰούδα]]  [[G3588\|τοῦ]]  [[G1096\|γενομένου]]  [[G3595\|ὁδηγοῦ]]  [[G3588\|τοῖς]]  [[G4815\|συλλαβοῦσιν]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic MATTHIAS|MATTHIAS]] • [[topic PETER|PETER]] • [[topic PROPHECY|PROPHECY]] • [[topic REPENTANCE|REPENTANCE]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.15|<< Acts 1:15]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.17|Acts 1:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

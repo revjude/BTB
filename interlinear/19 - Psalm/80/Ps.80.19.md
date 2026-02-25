@@ -1,8 +1,56 @@
+---
+title: Psalm 80:19
+type: Verse
+kjv: "Turn us again, O LORD God of hosts, cause thy face to shine; and we shall be saved."
+bsb: "Restore us, O LORD God of Hosts; cause Your face to shine upon us, that we may be saved."
+hebrew: "יְה֘וָ֤ה אֱלֹהִ֣ים צְבָא֣וֹת הֲשִׁיבֵ֑נוּ הָאֵ֥ר פָּ֝נֶ֗יךָ וְנִוָּשֵֽׁעָה׃"
+pericope: "[[Ps.80.1 Hear Us, O Shepherd of Israel|Hear Us, O Shepherd of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 80
+book/chapter: "[[Ps.80|Psalm 80]]"
+chronological_order: 783
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+strongs:
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H6635B]]"
+- "[[H7725H]]"
+- "[[H9035]]"
+- "[[H0215]]"
+- "[[H6440H]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3467]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 80:19**<big><big>[[Ps.80.1 Hear Us, O Shepherd of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn us again, O LORD God of hosts, cause thy face to shine; and we shall be saved.
 <small><sub>**BSB:**</sub></small>
 Restore us, O LORD God of Hosts; cause Your face to shine upon us, that we may be saved.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְה֘וָ֤ה]] [[H0430G\|אֱלֹהִ֣ים]] [[H6635B\|צְבָא֣וֹת]] [[H7725H\|הֲשִׁיבֵ֑]][[H9035\|נוּ]] [[H0215\|הָאֵ֥ר]] [[H6440H\|פָּ֝נֶ֗י]][[H9021\|ךָ]] [[H9002\|וְ]][[H3467\|נִוָּשֵֽׁעָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic INTERCESSION|INTERCESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.80.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.80.18|<< Psalms 80:18]]</td><td align="center" style="border:none;">[[Ps.80|Psalms 80]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.81.0|Psalms 81:0 >>]]</td></tr></table>
 

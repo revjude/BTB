@@ -1,10 +1,63 @@
+---
+title: John 18:17
+type: Verse
+kjv: "Then saith the damsel that kept the door unto Peter, Art not thou also one of this man’s disciples? He saith, I am not."
+bsb: "At this, the servant girl watching the door said to Peter, “Aren’t you also one of this man’s disciples?” “I am not,” he answered."
+greek: "λέγει οὖν τῷ Πέτρῳ ἡ παιδίσκη ἡ θυρωρός· μὴ καὶ σὺ ἐκ τῶν μαθητῶν εἶ τοῦ ἀνθρώπου τούτου; λέγει ἐκεῖνος· οὐκ εἰμί."
+pericope: "[[John.18.15 Peter’s First Denial|Peter’s First Denial]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic DOORKEEPERS|DOORKEEPERS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G3814]]"
+- "[[G2377]]"
+- "[[G3361]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G1537]]"
+- "[[G3101]]"
+- "[[G1510]]"
+- "[[G0444]]"
+- "[[G3778]]"
+- "[[G1565]]"
+- "[[G3756]]"
+texts:
+- NKO
+---
+
 **John 18:17**<big><big>[[John.18.15 Peter’s First Denial|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then saith the damsel that kept the door unto Peter, Art not thou also [one] of this man’s disciples? He saith, I am not.
 <small><sub>**BSB:**</sub></small>
 At this, the servant girl watching the door said to Peter, “Aren’t you also one of this man’s disciples?” “I am not,” he answered.
-<small><sub>**Literal:**</sub></small>
-Says therefore <the> to Peter the servant girl the doorkeeper: Surely also you yourself of the disciples are of the man this? Says he; Not I am.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.16|<< John 18:16]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.18|John 18:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγει]]  [[G3767\|οὖν]]  [[G3588\|τῷ]]  [[G4074G\|Πέτρῳ]]  [[G3588\|ἡ]]  [[G3814\|παιδίσκη]]  [[G3588\|ἡ]]  [[G2377\|θυρωρός·]]  [[G3361\|μὴ]]  [[G2532\|καὶ]]  [[G4771\|σὺ]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G1510\|εἶ]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G3778\|τούτου;]]  [[G3004G\|λέγει]]  [[G1565\|ἐκεῖνος·]]  [[G3756\|οὐκ]]  [[G1510\|εἰμί.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic COWARDICE|COWARDICE]] • [[topic DOORKEEPERS|DOORKEEPERS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.16|<< John 18:16]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.18|John 18:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

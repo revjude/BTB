@@ -1,8 +1,80 @@
+---
+title: Deuteronomy 29:23
+type: Verse
+kjv: "And that the whole land thereof is brimstone, and salt, and burning, that it is not sown, nor beareth, nor any grass groweth therein, like the overthrow of Sodom, and Gomorrah, Admah, and Zeboim, which the LORD overthrew in his anger, and in his wrath:"
+bsb: "All its soil will be a burning waste of sulfur and salt, unsown and unproductive, with no plant growing on it, just like the destruction of Sodom and Gomorrah, Admah and Zeboiim, which the LORD overthrew in His fierce anger."
+hebrew: "גָּפְרִ֣ית וָמֶלַח֮ שְׂרֵפָ֣ה כָל־ אַרְצָהּ֒ לֹ֤א תִזָּרַע֙ וְלֹ֣א תַצְמִ֔חַ וְלֹֽא־ יַעֲלֶ֥ה בָ֖הּ כָּל־ עֵ֑שֶׂב כְּֽמַהְפֵּכַ֞ת סְדֹ֤ם וַעֲמֹרָה֙ אַדְמָ֣ה וּצְבוֹיִ֔ם אֲשֶׁר֙ הָפַ֣ךְ יְהוָ֔ה בְּאַפּ֖וֹ וּבַחֲמָתֽוֹ׃"
+pericope: "[[Deut.29.1 The Covenant in Moab|The Covenant in Moab]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 29
+book/chapter: "[[Deut.29|Deuteronomy 29]]"
+chronological_order: 225
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ADMAH|ADMAH]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BRIMSTONE|BRIMSTONE]]"
+- "[[topic GOMORRAH|GOMORRAH]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic ZEBOIM|ZEBOIM]]"
+strongs:
+- "[[H1614]]"
+- "[[H9002]]"
+- "[[H4417M]]"
+- "[[H8316]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9024]]"
+- "[[H3808]]"
+- "[[H2232]]"
+- "[[H6779]]"
+- "[[H5927G]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H6212]]"
+- "[[H9004]]"
+- "[[H4114]]"
+- "[[H5467]]"
+- "[[H6017]]"
+- "[[H0126]]"
+- "[[H6636]]"
+- "[[H0834A]]"
+- "[[H2015]]"
+- "[[H3068G]]"
+- "[[H0639G]]"
+- "[[H9023]]"
+- "[[H2534]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Deuteronomy 29:23**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And that] the whole land thereof [is] brimstone, and salt, [and] burning, [that] it is not sown, nor beareth, nor any grass groweth therein, like the overthrow of Sodom, and Gomorrah, Admah, and Zeboim, which the LORD overthrew in his anger, and in his wrath:
 <small><sub>**BSB:**</sub></small>
 All its soil will be a burning waste of sulfur and salt, unsown and unproductive, with no plant growing on it, just like the destruction of Sodom and Gomorrah, Admah and Zeboiim, which the LORD overthrew in His fierce anger.
+<small><sub>**Hebrew:**</sub></small>
+[[H1614\|גָּפְרִ֣ית]] [[H9002\|וָ]][[H4417M\|מֶלַח֮]] [[H8316\|שְׂרֵפָ֣ה]] [[H3605\|כָל]][[H9014\|־]] [[H0776G\|אַרְצָ]][[H9024\|הּ֒]] [[H3808\|לֹ֤א]] [[H2232\|תִזָּרַע֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6779\|תַצְמִ֔חַ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5927G\|יַעֲלֶ֥ה]] [[H9003\|בָ֖]][[H9034\|הּ]] [[H3605\|כָּל]][[H9014\|־]] [[H6212\|עֵ֑שֶׂב]] [[H9004\|כְּֽ]][[H4114\|מַהְפֵּכַ֞ת]] [[H5467\|סְדֹ֤ם]] [[H9002\|וַ]][[H6017\|עֲמֹרָה֙]] [[H0126\|אַדְמָ֣ה]] [[H9002\|וּ]][[H6636\|צְבוֹיִ֔ם]] [[H0834A\|אֲשֶׁר֙]] [[H2015\|הָפַ֣ךְ]] [[H3068G\|יְהוָ֔ה]] [[H9003\|בְּ]][[H0639G\|אַפּ֖]][[H9023\|וֹ]] [[H9002\|וּ]][[H9003\|בַ]][[H2534\|חֲמָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADMAH|ADMAH]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BRIMSTONE|BRIMSTONE]] • [[topic GOMORRAH|GOMORRAH]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic SODOM|SODOM]] • [[topic ZEBOIM|ZEBOIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.22|<< Deuteronomy 29:22]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.24|Deuteronomy 29:24 >>]]</td></tr></table>
 

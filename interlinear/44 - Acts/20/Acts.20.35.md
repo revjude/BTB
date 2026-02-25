@@ -1,10 +1,73 @@
+---
+title: Acts 20:35
+type: Verse
+kjv: "I have shewed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive."
+bsb: "In everything, I showed you that by this kind of hard work we must help the weak, remembering the words of the Lord Jesus Himself: ‘It is more blessed to give than to receive.’”"
+jesus_said: "It is more blessed to give than to receive."
+greek: "πάντα ὑπέδειξα ὑμῖν ὅτι οὕτως κοπιῶντας δεῖ ἀντιλαμβάνεσθαι τῶν ἀσθενούντων, μνημονεύειν τε τῶν λόγων τοῦ κυρίου Ἰησοῦ, ὅτι αὐτὸς εἶπεν· μακάριόν ἐστιν μᾶλλον διδόναι ἢ λαμβάνειν."
+pericope: "[[Acts.20.17 Paul’s Farewell to the Ephesians|Paul’s Farewell to the Ephesians]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 20
+book/chapter: "[[Acts.20|Acts 20]]"
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic LABOR|LABOR]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MILETUS|MILETUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+strongs:
+- "[[G3956]]"
+- "[[G5263]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G3779]]"
+- "[[G2872]]"
+- "[[G1163]]"
+- "[[G0482]]"
+- "[[G3588]]"
+- "[[G0770G]]"
+- "[[G3421]]"
+- "[[G5037]]"
+- "[[G3056]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G3107]]"
+- "[[G1510]]"
+- "[[G3123G]]"
+- "[[G1325]]"
+- "[[G2228]]"
+- "[[G2983]]"
+texts:
+- NKO
+---
+
 **Acts 20:35**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I have shewed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.
 <small><sub>**BSB:**</sub></small>
 In everything, I showed you that by this kind of hard work we must help the weak, remembering the words of the Lord Jesus Himself: ‘It is more blessed to give than to receive.’”
-<small><sub>**Literal:**</sub></small>
-In everything I showed you that by thus straining it behooves [us] to aid those being weak, to remember and also the words of the Lord Jesus, how He Himself said; Blessed it is more to give than to receive.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.34|<< Acts 20:34]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.36|Acts 20:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πάντα]]  [[G5263\|ὑπέδειξα]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G3779\|οὕτως]]  [[G2872\|κοπιῶντας]]  [[G1163\|δεῖ]]  [[G0482\|ἀντιλαμβάνεσθαι]]  [[G3588\|τῶν]]  [[G0770G\|ἀσθενούντων,]]  [[G3421\|μνημονεύειν]]  [[G5037\|τε]]  [[G3588\|τῶν]]  [[G3056\|λόγων]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G2424G\|Ἰησοῦ,]]  [[G3754G\|ὅτι]]  [[G0846\|αὐτὸς]]  [[G2036\|εἶπεν·]]  [[G3107\|μακάριόν]]  [[G1510\|ἐστιν]]  [[G3123G\|μᾶλλον]]  [[G1325\|διδόναι]]  [[G2228\|ἢ]]  [[G2983\|λαμβάνειν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHESUS|EPHESUS]] • [[topic EXAMPLE|EXAMPLE]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic KINDNESS|KINDNESS]] • [[topic LABOR|LABOR]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MILETUS|MILETUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic POOR|POOR]] • [[topic SELF-DENIAL|SELF-DENIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.34|<< Acts 20:34]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.36|Acts 20:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

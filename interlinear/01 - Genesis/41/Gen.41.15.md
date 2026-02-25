@@ -1,8 +1,68 @@
+---
+title: Genesis 41:15
+type: Verse
+kjv: "And Pharaoh said unto Joseph, I have dreamed a dream, and there is none that can interpret it: and I have heard say of thee, that thou canst understand a dream to interpret it."
+bsb: "Pharaoh said to Joseph, “I had a dream, and no one can interpret it. But I have heard it said of you that when you hear a dream you can interpret it.”"
+hebrew: "וַיֹּ֤אמֶר פַּרְעֹה֙ אֶל־ יוֹסֵ֔ף חֲל֣וֹם חָלַ֔מְתִּי וּפֹתֵ֖ר אֵ֣ין אֹת֑וֹ וַאֲנִ֗י שָׁמַ֤עְתִּי עָלֶ֙יךָ֙ לֵאמֹ֔ר תִּשְׁמַ֥ע חֲל֖וֹם לִפְתֹּ֥ר אֹתֽוֹ׃"
+pericope: "[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|Joseph Interprets Pharaoh’s Dreams]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROMOTION|PROMOTION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H6547H]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3130G]]"
+- "[[H2472]]"
+- "[[H2492B]]"
+- "[[H9002]]"
+- "[[H6622]]"
+- "[[H0369]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H0589]]"
+- "[[H8085G]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:15**<big><big>[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaoh said unto Joseph, I have dreamed a dream, and [there is] none that can interpret it: and I have heard say of thee, [that] thou canst understand a dream to interpret it.
 <small><sub>**BSB:**</sub></small>
 Pharaoh said to Joseph, “I had a dream, and no one can interpret it. But I have heard it said of you that when you hear a dream you can interpret it.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H6547H\|פַּרְעֹה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3130G\|יוֹסֵ֔ף]] [[H2472\|חֲל֣וֹם]] [[H2492B\|חָלַ֔מְתִּי]] [[H9002\|וּ]][[H6622\|פֹתֵ֖ר]] [[H0369\|אֵ֣ין]] [[H0853\|אֹת֑]][[H9033\|וֹ]] [[H9002\|וַ]][[H0589\|אֲנִ֗י]] [[H8085G\|שָׁמַ֤עְתִּי]] [[H5921A\|עָלֶ֙י]][[H9031\|ךָ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H8085G\|תִּשְׁמַ֥ע]] [[H2472\|חֲל֖וֹם]] [[H9005\|לִ]][[H6622\|פְתֹּ֥ר]] [[H0853\|אֹתֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic HEATHEN|HEATHEN]] • [[topic JOSEPH|JOSEPH]] • [[topic PRISONERS|PRISONERS]] • [[topic PROMOTION|PROMOTION]] • [[topic SERVANT|SERVANT]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.14|<< Genesis 41:14]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.16|Genesis 41:16 >>]]</td></tr></table>
 

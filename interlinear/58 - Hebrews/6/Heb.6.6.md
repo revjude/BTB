@@ -1,10 +1,56 @@
+---
+title: Hebrews 6:6
+type: Verse
+kjv: "If they shall fall away, to renew them again unto repentance; seeing they crucify to themselves the Son of God afresh, and put him to an open shame."
+bsb: "and then have fallen away—to be restored to repentance, because they themselves are crucifying the Son of God all over again and subjecting Him to open shame."
+greek: "καὶ παραπεσόντας πάλιν ἀνακαινίζειν εἰς μετάνοιαν ἀνασταυροῦντας ἑαυτοῖς τὸν υἱὸν τοῦ θεοῦ καὶ παραδειγματίζοντας.¶"
+pericope: "[[Heb.6.1 A Call to Maturity|A Call to Maturity]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 6
+book/chapter: "[[Heb.6|Hebrews 6]]"
+chronological_order: 1145
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3895]]"
+- "[[G3825]]"
+- "[[G0340]]"
+- "[[G1519]]"
+- "[[G3341]]"
+- "[[G0388]]"
+- "[[G1438]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G2316]]"
+- "[[G3856]]"
+texts:
+- NKO
+---
+
 **Hebrews 6:6**<big><big>[[Heb.6.1 A Call to Maturity|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If they shall fall away, to renew them again unto repentance; seeing they crucify to themselves the Son of God afresh, and put [him] to an open shame.
 <small><sub>**BSB:**</sub></small>
 and then have fallen away—to be restored to repentance, because they themselves are crucifying the Son of God all over again and subjecting Him to open shame.
-<small><sub>**Literal:**</sub></small>
-and then having fallen away — again to restore [them] to repentance crucifying in themselves the Son <the> of God and subjecting [Him] to open shame.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.5|<< Hebrews 6:5]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.7|Hebrews 6:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3895\|παραπεσόντας]]  [[G3825\|πάλιν]]  [[G0340\|ἀνακαινίζειν]]  [[G1519\|εἰς]]  [[G3341\|μετάνοιαν]]  [[G0388\|ἀνασταυροῦντας]]  [[G1438\|ἑαυτοῖς]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G3856\|παραδειγματίζοντας.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REPROBACY|REPROBACY]] • [[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.5|<< Hebrews 6:5]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.7|Hebrews 6:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

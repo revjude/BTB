@@ -1,8 +1,68 @@
+---
+title: Daniel 3:13
+type: Verse
+kjv: "Then Nebuchadnezzar in his rage and fury commanded to bring Shadrach, Meshach, and Abednego. Then they brought these men before the king."
+bsb: "Then Nebuchadnezzar, furious with rage, summoned Shadrach, Meshach, and Abednego. So these men were brought before the king,"
+aramaic: "בֵּאדַ֤יִן נְבוּכַדְנֶצַּר֙ בִּרְגַ֣ז וַחֲמָ֔ה אֲמַר֙ לְהַיְתָיָ֔ה לְשַׁדְרַ֥ךְ מֵישַׁ֖ךְ וַעֲבֵ֣ד נְג֑וֹ בֵּאדַ֙יִן֙ גֻּבְרַיָּ֣א אִלֵּ֔ךְ הֵיתָ֖יוּ קֳדָ֥ם מַלְכָּֽא׃"
+pericope: "[[Dan.3.8 Shadrach, Meshach, and Abednego Accused|Shadrach, Meshach, and Abednego Accused]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 3
+book/chapter: "[[Dan.3|Daniel 3]]"
+chronological_order: 788
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ABED-NEGO|ABED-NEGO]]"
+- "[[topic ANGER|ANGER]]"
+- "[[topic COERCION|COERCION]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FURNACE|FURNACE]]"
+- "[[topic MESHACH|MESHACH]]"
+- "[[topic MISHAEL|MISHAEL]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9003]]"
+- "[[H0116]]"
+- "[[H5020]]"
+- "[[H7266]]"
+- "[[H9002]]"
+- "[[H2528]]"
+- "[[H0560]]"
+- "[[H9005]]"
+- "[[H0858]]"
+- "[[H7715]]"
+- "[[H4336]]"
+- "[[H5665]]"
+- "[[H1400]]"
+- "[[H9010]]"
+- "[[H0479]]"
+- "[[H6925]]"
+- "[[H4430]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 3:13**<big><big>[[Dan.3.8 Shadrach, Meshach, and Abednego Accused|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Nebuchadnezzar in [his] rage and fury commanded to bring Shadrach, Meshach, and Abednego. Then they brought these men before the king.
 <small><sub>**BSB:**</sub></small>
 Then Nebuchadnezzar, furious with rage, summoned Shadrach, Meshach, and Abednego. So these men were brought before the king,
+<small><sub>**Aramaic:**</sub></small>
+[[H9003\|בֵּ]][[H0116\|אדַ֤יִן]] [[H5020\|נְבוּכַדְנֶצַּר֙]] [[H9003\|בִּ]][[H7266\|רְגַ֣ז]] [[H9002\|וַ]][[H2528\|חֲמָ֔ה]] [[H0560\|אֲמַר֙]] [[H9005\|לְ]][[H0858\|הַיְתָיָ֔ה]] [[H9005\|לְ]][[H7715\|שַׁדְרַ֥ךְ]] [[H4336\|מֵישַׁ֖ךְ]] [[H9002\|וַ]][[H5665\|עֲבֵ֣ד]] [[H5665\|נְג֑וֹ]] [[H9003\|בֵּ]][[H0116\|אדַ֙יִן֙]] [[H1400\|גֻּבְרַיָּ֣]][[H9010\|א]] [[H0479\|אִלֵּ֔ךְ]] [[H0858\|הֵיתָ֖יוּ]] [[H6925\|קֳדָ֥ם]] [[H4430\|מַלְכָּֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABED-NEGO|ABED-NEGO]] • [[topic ANGER|ANGER]] • [[topic COERCION|COERCION]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic FAITH|FAITH]] • [[topic FURNACE|FURNACE]] • [[topic MESHACH|MESHACH]] • [[topic MISHAEL|MISHAEL]] • [[topic PERSECUTION|PERSECUTION]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.12|<< Daniel 3:12]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.14|Daniel 3:14 >>]]</td></tr></table>
 

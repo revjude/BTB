@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Descendants of Adam
+type: Pericope
 pericope: "[[Gen.5.1 The Descendants of Adam|The Descendants of Adam]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 5
 book/chapter: "[[Gen.5|Genesis 5]]"
-genre:
+chronological_order: 5
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 17
 verses:
 - "[[Gen.5.1]]"
 - "[[Gen.5.2]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Gen.5.17]]"
 ---
 
-[[Gen.5|Genesis 5:1 - Genesis 5:17]]
+<small>[[Gen.5|Genesis 5:1-17]]</small>
 *The Descendants of Adam*
 
 [[Gen.5.1|1]] This \[is\] the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;

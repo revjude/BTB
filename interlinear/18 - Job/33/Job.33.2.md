@@ -1,8 +1,48 @@
+---
+title: Job 33:2
+type: Verse
+kjv: "Behold, now I have opened my mouth, my tongue hath spoken in my mouth."
+bsb: "Behold, I will open my mouth; my address is on the tip of my tongue."
+hebrew: "הִנֵּה־ נָ֭א פָּתַ֣חְתִּי פִ֑י דִּבְּרָ֖ה לְשׁוֹנִ֣י בְחִכִּֽי׃"
+pericope: "[[Job.33.1 Elihu Rebukes Job|Elihu Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 33
+book/chapter: "[[Job.33|Job 33]]"
+chronological_order: 44
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H6605A]]"
+- "[[H6310G]]"
+- "[[H9020]]"
+- "[[H1696G]]"
+- "[[H3956G]]"
+- "[[H9003]]"
+- "[[H2441]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 33:2**<big><big>[[Job.33.1 Elihu Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, now I have opened my mouth, my tongue hath spoken in my mouth.
 <small><sub>**BSB:**</sub></small>
 Behold, I will open my mouth; my address is on the tip of my tongue.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּה]][[H9014\|־]] [[H4994\|נָ֭א]] [[H6605A\|פָּתַ֣חְתִּי]] [[H6310G\|פִ֑]][[H9020\|י]] [[H1696G\|דִּבְּרָ֖ה]] [[H3956G\|לְשׁוֹנִ֣]][[H9020\|י]] [[H9003\|בְ]][[H2441\|חִכִּֽ]][[H9020\|י]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.33.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.1|<< Job 33:1]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.3|Job 33:3 >>]]</td></tr></table>
 

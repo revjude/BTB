@@ -1,8 +1,51 @@
+---
+title: Proverbs 1:6
+type: Verse
+kjv: "To understand a proverb, and the interpretation; the words of the wise, and their dark sayings."
+bsb: "by understanding the proverbs and parables, the sayings and riddles of the wise."
+hebrew: "לְהָבִ֣ין מָ֭שָׁל וּמְלִיצָ֑ה דִּבְרֵ֥י חֲ֝כָמִ֗ים וְחִידֹתָֽם׃"
+pericope: "[[Prov.1.1 The Beginning of Knowledge|The Beginning of Knowledge]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 1
+book/chapter: "[[Prov.1|Proverbs 1]]"
+chronological_order: 456
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9005]]"
+- "[[H0995]]"
+- "[[H4912]]"
+- "[[H9002]]"
+- "[[H4426]]"
+- "[[H1697G]]"
+- "[[H2450]]"
+- "[[H2420]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 1:6**<big><big>[[Prov.1.1 The Beginning of Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To understand a proverb, and the interpretation; the words of the wise, and their dark sayings.
 <small><sub>**BSB:**</sub></small>
 by understanding the proverbs and parables, the sayings and riddles of the wise.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H0995\|הָבִ֣ין]] [[H4912\|מָ֭שָׁל]] [[H9002\|וּ]][[H4426\|מְלִיצָ֑ה]] [[H1697G\|דִּבְרֵ֥י]] [[H2450\|חֲ֝כָמִ֗ים]] [[H9002\|וְ]][[H2420\|חִידֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.5|<< Proverbs 1:5]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.7|Proverbs 1:7 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Isaiah 14:29
+type: Verse
+kjv: "Rejoice not thou, whole Palestina, because the rod of him that smote thee is broken: for out of the serpent’s root shall come forth a cockatrice, and his fruit shall be a fiery flying serpent."
+bsb: "Do not rejoice, all you Philistines, that the rod that struck you is broken. For a viper will spring from the root of the snake, and a flying serpent from its egg."
+hebrew: "אַֽל־ תִּשְׂמְחִ֤י פְלֶ֙שֶׁת֙ כֻּלֵּ֔ךְ כִּ֥י נִשְׁבַּ֖ר שֵׁ֣בֶט מַכֵּ֑ךְ כִּֽי־ מִשֹּׁ֤רֶשׁ נָחָשׁ֙ יֵ֣צֵא צֶ֔פַע וּפִרְי֖וֹ שָׂרָ֥ף מְעוֹפֵֽף׃"
+pericope: "[[Isa.14.28 Philistia Will Be Destroyed|Philistia Will Be Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 14
+book/chapter: "[[Isa.14|Isaiah 14]]"
+chronological_order: 631
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic COCKATRICE|COCKATRICE]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic SERPENT|SERPENT]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H8055]]"
+- "[[H6429]]"
+- "[[H3605]]"
+- "[[H9022]]"
+- "[[H3588A]]"
+- "[[H7665]]"
+- "[[H7626G]]"
+- "[[H5221]]"
+- "[[H9032]]"
+- "[[H9006]]"
+- "[[H8328]]"
+- "[[H5175]]"
+- "[[H3318G]]"
+- "[[H6848A]]"
+- "[[H9002]]"
+- "[[H6529]]"
+- "[[H9023]]"
+- "[[H8314A]]"
+- "[[H5774A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 14:29**<big><big>[[Isa.14.28 Philistia Will Be Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rejoice not thou, whole Palestina, because the rod of him that smote thee is broken: for out of the serpent’s root shall come forth a cockatrice, and his fruit [shall be] a fiery flying serpent.
 <small><sub>**BSB:**</sub></small>
 Do not rejoice, all you Philistines, that the rod that struck you is broken. For a viper will spring from the root of the snake, and a flying serpent from its egg.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַֽל]][[H9014\|־]] [[H8055\|תִּשְׂמְחִ֤י]] [[H6429\|פְלֶ֙שֶׁת֙]] [[H3605\|כֻּלֵּ֔]][[H9022\|ךְ]] [[H3588A\|כִּ֥י]] [[H7665\|נִשְׁבַּ֖ר]] [[H7626G\|שֵׁ֣בֶט]] [[H5221\|מַכֵּ֑]][[H9032\|ךְ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9006\|מִ]][[H8328\|שֹּׁ֤רֶשׁ]] [[H5175\|נָחָשׁ֙]] [[H3318G\|יֵ֣צֵא]] [[H6848A\|צֶ֔פַע]] [[H9002\|וּ]][[H6529\|פִרְי֖]][[H9023\|וֹ]] [[H8314A\|שָׂרָ֥ף]] [[H5774A\|מְעוֹפֵֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COCKATRICE|COCKATRICE]] • [[topic ISAIAH|ISAIAH]] • [[topic PHILISTINES|PHILISTINES]] • [[topic SERPENT|SERPENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.28|<< Isaiah 14:28]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.30|Isaiah 14:30 >>]]</td></tr></table>
 

@@ -1,10 +1,56 @@
+---
+title: Matthew 24:20
+type: Verse
+kjv: "But pray ye that your flight be not in the winter, neither on the sabbath day:"
+bsb: "Pray that your flight will not occur in the winter or on the Sabbath."
+jesus_said: "But pray ye that your flight be not in the winter, neither on the sabbath day:"
+greek: "προσεύχεσθε δὲ ἵνα μὴ γένηται ἡ φυγὴ ὑμῶν χειμῶνος μηδὲ ἐν σαββάτῳ."
+pericope: "[[Matt.24.15 The Abomination of Desolation|The Abomination of Desolation]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 24
+book/chapter: "[[Matt.24|Matthew 24]]"
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[G4336]]"
+- "[[G1161]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G5437]]"
+- "[[G4771]]"
+- "[[G5494]]"
+- "[[G3366]]"
+- "[[G1722]]"
+- "[[G4521]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 24:20**<big><big>[[Matt.24.15 The Abomination of Desolation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But pray ye that your flight be not in the winter, neither on the sabbath day:
 <small><sub>**BSB:**</sub></small>
 Pray that your flight will not occur in the winter or on the Sabbath.
-<small><sub>**Literal:**</sub></small>
-do pray however that not it may happen the flight of you in winter nor in on a Sabbath.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.19|<< Matthew 24:19]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.21|Matthew 24:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4336\|προσεύχεσθε]]  [[G1161\|δὲ]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G1096\|γένηται]]  [[G3588\|ἡ]]  [[G5437\|φυγὴ]]  [[G4771\|ὑμῶν]]  [[G5494\|χειμῶνος]]  [[G3366\|μηδὲ]]  [[G1722\|ἐν]]  [[G4521\|σαββάτῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SABBATH|SABBATH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.19|<< Matthew 24:19]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.21|Matthew 24:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

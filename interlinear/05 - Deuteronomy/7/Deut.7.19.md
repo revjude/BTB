@@ -1,8 +1,80 @@
+---
+title: Deuteronomy 7:19
+type: Verse
+kjv: "The great temptations which thine eyes saw, and the signs, and the wonders, and the mighty hand, and the stretched out arm, whereby the LORD thy God brought thee out: so shall the LORD thy God do unto all the people of whom thou art afraid."
+bsb: "the great trials that you saw, the signs and wonders, and the mighty hand and outstretched arm by which the LORD your God brought you out. The LORD your God will do the same to all the peoples you now fear."
+hebrew: "הַמַּסֹּ֨ת הַגְּדֹלֹ֜ת אֲשֶׁר־ רָא֣וּ עֵינֶ֗יךָ וְהָאֹתֹ֤ת וְהַמֹּֽפְתִים֙ וְהַיָּ֤ד הַחֲזָקָה֙ וְהַזְּרֹ֣עַ הַנְּטוּיָ֔ה אֲשֶׁ֥ר הוֹצִֽאֲךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ כֵּֽן־ יַעֲשֶׂ֞ה יְהוָ֤ה אֱלֹהֶ֙יךָ֙ לְכָל־ הָ֣עַמִּ֔ים אֲשֶׁר־ אַתָּ֥ה יָרֵ֖א מִפְּנֵיהֶֽם׃"
+pericope: "[[Deut.7.12 The Promises of God|The Promises of God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 7
+book/chapter: "[[Deut.7|Deuteronomy 7]]"
+chronological_order: 203
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ARM|ARM]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9009]]"
+- "[[H4531B]]"
+- "[[H1419A]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H0226G]]"
+- "[[H4159]]"
+- "[[H3027H]]"
+- "[[H2389]]"
+- "[[H2220]]"
+- "[[H5186]]"
+- "[[H3318H]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3651C]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H0859A]]"
+- "[[H3373]]"
+- "[[H9006]]"
+- "[[H6440L]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 7:19**<big><big>[[Deut.7.12 The Promises of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The great temptations which thine eyes saw, and the signs, and the wonders, and the mighty hand, and the stretched out arm, whereby the LORD thy God brought thee out: so shall the LORD thy God do unto all the people of whom thou art afraid.
 <small><sub>**BSB:**</sub></small>
 the great trials that you saw, the signs and wonders, and the mighty hand and outstretched arm by which the LORD your God brought you out. The LORD your God will do the same to all the peoples you now fear.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H4531B\|מַּסֹּ֨ת]] [[H9009\|הַ]][[H1419A\|גְּדֹלֹ֜ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7200G\|רָא֣וּ]] [[H5869A\|עֵינֶ֗י]][[H9021\|ךָ]] [[H9002\|וְ]][[H9009\|הָ]][[H0226G\|אֹתֹ֤ת]] [[H9002\|וְ]][[H9009\|הַ]][[H4159\|מֹּֽפְתִים֙]] [[H9002\|וְ]][[H9009\|הַ]][[H3027H\|יָּ֤ד]] [[H9009\|הַ]][[H2389\|חֲזָקָה֙]] [[H9002\|וְ]][[H9009\|הַ]][[H2220\|זְּרֹ֣עַ]] [[H9009\|הַ]][[H5186\|נְּטוּיָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H3318H\|הוֹצִֽאֲ]][[H9031\|ךָ֖]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֑י]][[H9021\|ךָ]] [[H3651C\|כֵּֽן]][[H9014\|־]] [[H6213A\|יַעֲשֶׂ֞ה]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֶ֙י]][[H9021\|ךָ֙]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ֣]][[H5971A\|עַמִּ֔ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0859A\|אַתָּ֥ה]] [[H3373\|יָרֵ֖א]] [[H9006\|מִ]][[H6440L\|פְּנֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARM|ARM]] • [[topic BLESSING|BLESSING]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.18|<< Deuteronomy 7:18]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.20|Deuteronomy 7:20 >>]]</td></tr></table>
 

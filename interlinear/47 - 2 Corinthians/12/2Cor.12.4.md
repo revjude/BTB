@@ -1,10 +1,60 @@
+---
+title: 2 Corinthians 12:4
+type: Verse
+kjv: "How that he was caught up into paradise, and heard unspeakable words, which it is not lawful for a man to utter."
+bsb: "was caught up to Paradise. The things he heard were inexpressible, things that man is not permitted to tell."
+greek: "ὅτι ἡρπάγη εἰς τὸν παράδεισον καὶ ἤκουσεν ἄρρητα ῥήματα ἃ οὐκ ἐξὸν ἀνθρώπῳ λαλῆσαι."
+pericope: "[[2Cor.12.1 Paul’s Revelation|Paul’s Revelation]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 12
+book/chapter: "[[2Cor.12|2 Corinthians 12]]"
+chronological_order: 1085
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic HADES|HADES]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic PARADISE|PARADISE]]"
+- "[[topic PARADOX|PARADOX]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WORDS|WORDS]]"
+strongs:
+- "[[G3754G]]"
+- "[[G0726]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3857]]"
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G0731]]"
+- "[[G4487]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1832]]"
+- "[[G0444]]"
+- "[[G2980]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 12:4**<big><big>[[2Cor.12.1 Paul’s Revelation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 How that he was caught up into paradise, and heard unspeakable words, which it is not lawful for a man to utter.
 <small><sub>**BSB:**</sub></small>
 was caught up to Paradise. The things he heard were inexpressible, things that man is not permitted to tell.
-<small><sub>**Literal:**</sub></small>
-that he was caught up into <the> Paradise and he heard inexpressible declaration which not being permitted to man to speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.3|<< 2 Corinthians 12:3]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.5|2 Corinthians 12:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754G\|ὅτι]]  [[G0726\|ἡρπάγη]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3857\|παράδεισον]]  [[G2532\|καὶ]]  [[G0191\|ἤκουσεν]]  [[G0731\|ἄρρητα]]  [[G4487\|ῥήματα]]  [[G3739\|ἃ]]  [[G3756\|οὐκ]]  [[G1832\|ἐξὸν]]  [[G0444\|ἀνθρώπῳ]]  [[G2980\|λαλῆσαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HADES|HADES]] • [[topic HEAVEN|HEAVEN]] • [[topic PARADISE|PARADISE]] • [[topic PARADOX|PARADOX]] • [[topic PAUL|PAUL]] • [[topic VISION|VISION]] • [[topic WORDS|WORDS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.3|<< 2 Corinthians 12:3]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.5|2 Corinthians 12:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

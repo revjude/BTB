@@ -1,8 +1,59 @@
+---
+title: 2 Chronicles 36:6
+type: Verse
+kjv: "Against him came up Nebuchadnezzar king of Babylon, and bound him in fetters, to carry him to Babylon."
+bsb: "Then Nebuchadnezzar king of Babylon came up against Jehoiakim and bound him with bronze shackles to take him to Babylon."
+hebrew: "עָלָ֣יו עָלָ֔ה נְבוּכַדְנֶאצַּ֖ר מֶ֣לֶךְ בָּבֶ֑ל וַיַּֽאַסְרֵ֙הוּ֙ בַּֽנְחֻשְׁתַּ֔יִם לְהֹלִיכ֖וֹ בָּבֶֽלָה׃"
+pericope: "[[2Chr.36.5 Jehoiakim Reigns in Judah|Jehoiakim Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 36
+book/chapter: "[[2Chr.36|2 Chronicles 36]]"
+chronological_order: 743
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~609–586 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic FETTERS|FETTERS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOIAKIM|JEHOIAKIM]]"
+- "[[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H5927G]]"
+- "[[H5019]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H9001]]"
+- "[[H0631]]"
+- "[[H9003]]"
+- "[[H5178A]]"
+- "[[H9005]]"
+- "[[H1980J]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 36:6**<big><big>[[2Chr.36.5 Jehoiakim Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Against him came up Nebuchadnezzar king of Babylon, and bound him in fetters, to carry him to Babylon.
 <small><sub>**BSB:**</sub></small>
 Then Nebuchadnezzar king of Babylon came up against Jehoiakim and bound him with bronze shackles to take him to Babylon.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עָלָ֣י]][[H9033\|ו]] [[H5927G\|עָלָ֔ה]] [[H5019\|נְבוּכַדְנֶאצַּ֖ר]] [[H4428G\|מֶ֣לֶךְ]] [[H0894\|בָּבֶ֑ל]] [[H9001\|וַ]][[H0631\|יַּֽאַסְרֵ֙]][[H9033\|הוּ֙]] [[H9003\|בַּֽ]][[H5178A\|נְחֻשְׁתַּ֔יִם]] [[H9005\|לְ]][[H1980J\|הֹלִיכ֖]][[H9033\|וֹ]] [[H0894\|בָּבֶֽלָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BABYLON|BABYLON]] • [[topic FETTERS|FETTERS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOIAKIM|JEHOIAKIM]] • [[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.36.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.5|<< 2 Chronicles 36:5]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.7|2 Chronicles 36:7 >>]]</td></tr></table>
 

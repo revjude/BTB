@@ -1,10 +1,60 @@
+---
+title: 1 Thessalonians 2:16
+type: Verse
+kjv: "Forbidding us to speak to the Gentiles that they might be saved, to fill up their sins alway: for the wrath is come upon them to the uttermost."
+bsb: "hindering us from telling the Gentiles how they may be saved. As a result, they continue to heap up their sins to full capacity; the utmost wrath has come upon them."
+greek: "κωλυόντων ἡμᾶς τοῖς ἔθνεσιν λαλῆσαι ἵνα σωθῶσιν, εἰς τὸ ἀναπληρῶσαι αὐτῶν τὰς ἁμαρτίας πάντοτε· ἔφθασεν δὲ ἐπ᾽ αὐτοὺς ἡ ὀργὴ τοῦ θεοῦ εἰς τέλος.¶"
+pericope: "[[1Thess.2.1 Paul’s Ministry|Paul’s Ministry]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 2
+book/chapter: "[[1Thess.2|1 Thessalonians 2]]"
+chronological_order: 1049
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic GENTILES|GENTILES]]"
+strongs:
+- "[[G2967]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G1484]]"
+- "[[G2980]]"
+- "[[G2443]]"
+- "[[G4982]]"
+- "[[G1519]]"
+- "[[G0378]]"
+- "[[G0846]]"
+- "[[G0266]]"
+- "[[G3842]]"
+- "[[G5348]]"
+- "[[G1161]]"
+- "[[G1909]]"
+- "[[G3709]]"
+- "[[G2316]]"
+- "[[G5056]]"
+texts:
+- NKO
+- O
+---
+
 **1 Thessalonians 2:16**<big><big>[[1Thess.2.1 Paul’s Ministry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Forbidding us to speak to the Gentiles that they might be saved, to fill up their sins alway: for the wrath is come upon them to the uttermost.
 <small><sub>**BSB:**</sub></small>
 hindering us from telling the Gentiles how they may be saved. As a result, they continue to heap up their sins to full capacity; the utmost wrath has come upon them.
-<small><sub>**Literal:**</sub></small>
-they are hindering us to the Gentiles to speak that they may be saved, so as <the> to fill up their <the> sins always; Has come now upon them the wrath of the God to the utmost.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.15|<< 1 Thessalonians 2:15]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.17|1 Thessalonians 2:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2967\|κωλυόντων]]  [[G3165\|ἡμᾶς]]  [[G3588\|τοῖς]]  [[G1484\|ἔθνεσιν]]  [[G2980\|λαλῆσαι]]  [[G2443\|ἵνα]]  [[G4982\|σωθῶσιν,]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G0378\|ἀναπληρῶσαι]]  [[G0846\|αὐτῶν]]  [[G3588\|τὰς]]  [[G0266\|ἁμαρτίας]]  [[G3842\|πάντοτε·]]  [[G5348\|ἔφθασεν]]  [[G1161\|δὲ]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτοὺς]]  [[G3588\|ἡ]]  [[G3709\|ὀργὴ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1519\|εἰς]]  [[G5056\|τέλος.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic GENTILES|GENTILES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.15|<< 1 Thessalonians 2:15]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.17|1 Thessalonians 2:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

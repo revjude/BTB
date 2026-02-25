@@ -1,28 +1,35 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jonah Flees from the LORD
+type: Pericope
 pericope: "[[Jonah.1.1 Jonah Flees from the LORD|Jonah Flees from the LORD]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Jonah
 chapter: 1
 book/chapter: "[[Jonah.1|Jonah 1]]"
-genre:
+chronological_order: 594
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
 - latter prophets
 - minor prophets
 - narrative
 - prophetic narrative
 - parable
+verse_count: 3
 verses:
 - "[[Jonah.1.1]]"
 - "[[Jonah.1.2]]"
 - "[[Jonah.1.3]]"
 ---
 
-[[Jonah.1|Jonah 1:1 - Jonah 1:3]]
+<small>[[Jonah.1|Jonah 1:1-3]]</small>
 *Jonah Flees from the LORD*
 
 [[Jonah.1.1|1]] Now the word of the LORD came unto Jonah the son of Amittai, saying,

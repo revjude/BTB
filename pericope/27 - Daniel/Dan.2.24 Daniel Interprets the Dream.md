@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Daniel Interprets the Dream
+type: Pericope
 pericope: "[[Dan.2.24 Daniel Interprets the Dream|Daniel Interprets the Dream]]"
-verse_count: 22
+original_language: Aramaic
 testament: Old
 book: Daniel
 chapter: 2
 book/chapter: "[[Dan.2|Daniel 2]]"
-genre:
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 22
 verses:
 - "[[Dan.2.24]]"
 - "[[Dan.2.25]]"
@@ -41,7 +48,7 @@ verses:
 - "[[Dan.2.45]]"
 ---
 
-[[Dan.2|Daniel 2:24 - Daniel 2:45]]
+<small>[[Dan.2|Daniel 2:24-45]]</small>
 *Daniel Interprets the Dream*
 
 [[Dan.2.24|24]] Therefore Daniel went in unto Arioch, whom the king had ordained to destroy the wise \[men\] of Babylon: he went and said thus unto him; Destroy not the wise \[men\] of Babylon: bring me in before the king, and I will shew unto the king the interpretation.

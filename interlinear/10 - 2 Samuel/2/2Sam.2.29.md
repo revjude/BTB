@@ -1,8 +1,69 @@
+---
+title: 2 Samuel 2:29
+type: Verse
+kjv: "And Abner and his men walked all that night through the plain, and passed over Jordan, and went through all Bithron, and they came to Mahanaim."
+bsb: "And all that night Abner and his men marched through the Arabah. They crossed the Jordan, marched all morning, and arrived at Mahanaim."
+hebrew: "וְאַבְנֵ֣ר וַֽאֲנָשָׁ֗יו הָֽלְכוּ֙ בָּֽעֲרָבָ֔ה כֹּ֖ל הַלַּ֣יְלָה הַה֑וּא וַיַּעַבְר֣וּ אֶת־ הַיַּרְדֵּ֗ן וַיֵּֽלְכוּ֙ כָּל־ הַבִּתְר֔וֹן וַיָּבֹ֖אוּ מַחֲנָֽיִם׃"
+pericope: "[[2Sam.2.12 The Battle of Gibeon|The Battle of Gibeon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 2
+book/chapter: "[[2Sam.2|2 Samuel 2]]"
+chronological_order: 330
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABNER|ABNER]]"
+- "[[topic BITHRON|BITHRON]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic JORDAN|JORDAN]]"
+- "[[topic TRUCE|TRUCE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H0074]]"
+- "[[H0582]]"
+- "[[H9023]]"
+- "[[H1980G]]"
+- "[[H9003]]"
+- "[[H6160G]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3915]]"
+- "[[H1931]]"
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3383]]"
+- "[[H1980I]]"
+- "[[H1338]]"
+- "[[H0935G]]"
+- "[[H4266]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 2:29**<big><big>[[2Sam.2.12 The Battle of Gibeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abner and his men walked all that night through the plain, and passed over Jordan, and went through all Bithron, and they came to Mahanaim.
 <small><sub>**BSB:**</sub></small>
 And all that night Abner and his men marched through the Arabah. They crossed the Jordan, marched all morning, and arrived at Mahanaim.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0074\|אַבְנֵ֣ר]] [[H9002\|וַֽ]][[H0582\|אֲנָשָׁ֗י]][[H9023\|ו]] [[H1980G\|הָֽלְכוּ֙]] [[H9003\|בָּֽ]][[H6160G\|עֲרָבָ֔ה]] [[H3605\|כֹּ֖ל]] [[H9009\|הַ]][[H3915\|לַּ֣יְלָה]] [[H9009\|הַ]][[H1931\|ה֑וּא]] [[H9001\|וַ]][[H5674A\|יַּעַבְר֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֗ן]] [[H9001\|וַ]][[H1980I\|יֵּֽלְכוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1338\|בִּתְר֔וֹן]] [[H9001\|וַ]][[H0935G\|יָּבֹ֖אוּ]] [[H4266\|מַחֲנָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]] • [[topic BITHRON|BITHRON]] • [[topic DAVID|DAVID]] • [[topic ISRAEL|ISRAEL]] • [[topic JOAB|JOAB]] • [[topic JORDAN|JORDAN]] • [[topic TRUCE|TRUCE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.28|<< 2 Samuel 2:28]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.30|2 Samuel 2:30 >>]]</td></tr></table>
 

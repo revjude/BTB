@@ -1,8 +1,67 @@
+---
+title: Jeremiah 34:21
+type: Verse
+kjv: "And Zedekiah king of Judah and his princes will I give into the hand of their enemies, and into the hand of them that seek their life, and into the hand of the king of Babylon’s army, which are gone up from you."
+bsb: "And I will deliver Zedekiah king of Judah and his officials into the hands of their enemies who seek their lives, to the army of the king of Babylon that had withdrawn from you."
+hebrew: "וְאֶת־ צִדְקִיָּ֨הוּ מֶֽלֶךְ־ יְהוּדָ֜ה וְאֶת־ שָׂרָ֗יו אֶתֵּן֙ בְּיַ֣ד אֹֽיְבֵיהֶ֔ם וּבְיַ֖ד מְבַקְשֵׁ֣י נַפְשָׁ֑ם וּבְיַד חֵ֚יל מֶ֣לֶךְ בָּבֶ֔ל הָעֹלִ֖ים מֵעֲלֵיכֶֽם׃"
+pericope: "[[Jer.34.8 Freedom for Hebrew Slaves|Freedom for Hebrew Slaves]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 34
+book/chapter: "[[Jer.34|Jeremiah 34]]"
+chronological_order: 757
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6667H]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H8269]]"
+- "[[H9023]]"
+- "[[H5414G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H0341]]"
+- "[[H9028]]"
+- "[[H1245]]"
+- "[[H5315H]]"
+- "[[H2428A]]"
+- "[[H0894]]"
+- "[[H9009]]"
+- "[[H5927G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 34:21**<big><big>[[Jer.34.8 Freedom for Hebrew Slaves|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Zedekiah king of Judah and his princes will I give into the hand of their enemies, and into the hand of them that seek their life, and into the hand of the king of Babylon’s army, which are gone up from you.
 <small><sub>**BSB:**</sub></small>
 And I will deliver Zedekiah king of Judah and his officials into the hands of their enemies who seek their lives, to the army of the king of Babylon that had withdrawn from you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6667H\|צִדְקִיָּ֨הוּ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָ֜ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8269\|שָׂרָ֗י]][[H9023\|ו]] [[H5414G\|אֶתֵּן֙]] [[H9003\|בְּ]][[H3027H\|יַ֣ד]] [[H0341\|אֹֽיְבֵי]][[H9028\|הֶ֔ם]] [[H9002\|וּ]][[H9003\|בְ]][[H3027H\|יַ֖ד]] [[H1245\|מְבַקְשֵׁ֣י]] [[H5315H\|נַפְשָׁ֑]][[H9028\|ם]] [[H9002\|וּ]][[H9003\|בְ]][[H3027H\|יַד]] [[H2428A\|חֵ֚יל]] [[H4428G\|מֶ֣לֶךְ]] [[H0894\|בָּבֶ֔ל]] [[H9009\|הָ]][[H5927G\|עֹלִ֖ים]] [[H9006\|מֵ]][[H5921A\|עֲלֵי]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic SABBATIC YEAR|SABBATIC YEAR]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.34.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.20|<< Jeremiah 34:20]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.22|Jeremiah 34:22 >>]]</td></tr></table>
 

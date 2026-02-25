@@ -1,8 +1,60 @@
+---
+title: Ezekiel 31:13
+type: Verse
+kjv: "Upon his ruin shall all the fowls of the heaven remain, and all the beasts of the field shall be upon his branches:"
+bsb: "All the birds of the air nested on its fallen trunk, and all the beasts of the field lived among its boughs."
+hebrew: "עַל־ מַפַּלְתּ֥וֹ יִשְׁכְּנ֖וּ כָּל־ ע֣וֹף הַשָּׁמָ֑יִם וְאֶל־ פֹּארֹתָ֣יו הָי֔וּ כֹּ֖ל חַיַּ֥ת הַשָּׂדֶֽה׃"
+pericope: "[[Ezek.31.1 Egypt Will Fall like Assyria|Egypt Will Fall like Assyria]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 31
+book/chapter: "[[Ezek.31|Ezekiel 31]]"
+chronological_order: 822
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4658]]"
+- "[[H9023]]"
+- "[[H7931]]"
+- "[[H3605]]"
+- "[[H5775]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H6288A]]"
+- "[[H1961]]"
+- "[[H2416C]]"
+- "[[H7704G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 31:13**<big><big>[[Ezek.31.1 Egypt Will Fall like Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Upon his ruin shall all the fowls of the heaven remain, and all the beasts of the field shall be upon his branches:
 <small><sub>**BSB:**</sub></small>
 All the birds of the air nested on its fallen trunk, and all the beasts of the field lived among its boughs.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H4658\|מַפַּלְתּ֥]][[H9023\|וֹ]] [[H7931\|יִשְׁכְּנ֖וּ]] [[H3605\|כָּל]][[H9014\|־]] [[H5775\|ע֣וֹף]] [[H9009\|הַ]][[H8064\|שָּׁמָ֑יִם]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H6288A\|פֹּארֹתָ֣י]][[H9023\|ו]] [[H1961\|הָי֔וּ]] [[H3605\|כֹּ֖ל]] [[H2416C\|חַיַּ֥ת]] [[H9009\|הַ]][[H7704G\|שָּׂדֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]] • [[topic SELF-EXALTATION|SELF-EXALTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.31.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.12|<< Ezekiel 31:12]]</td><td align="center" style="border:none;">[[Ezek.31|Ezekiel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.31.14|Ezekiel 31:14 >>]]</td></tr></table>
 

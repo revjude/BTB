@@ -1,8 +1,51 @@
+---
+title: Proverbs 19:25
+type: Verse
+kjv: "Smite a scorner, and the simple will beware: and reprove one that hath understanding, and he will understand knowledge."
+bsb: "Strike a mocker, and the simple will beware; rebuke the discerning man, and he will gain knowledge."
+hebrew: "לֵ֣ץ תַּ֭כֶּה וּפֶ֣תִי יַעְרִ֑ם וְהוֹכִ֥יחַ לְ֝נָב֗וֹן יָבִ֥ין דָּֽעַת׃"
+pericope: "[[Prov.19.1 The Man of Integrity|The Man of Integrity]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 19
+book/chapter: "[[Prov.19|Proverbs 19]]"
+chronological_order: 474
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H3887]]"
+- "[[H5221]]"
+- "[[H9002]]"
+- "[[H6612A]]"
+- "[[H6191]]"
+- "[[H3198]]"
+- "[[H9005]]"
+- "[[H0995]]"
+- "[[H1847]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 19:25**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Smite a scorner, and the simple will beware: and reprove one that hath understanding, [and] he will understand knowledge.
 <small><sub>**BSB:**</sub></small>
 Strike a mocker, and the simple will beware; rebuke the discerning man, and he will gain knowledge.
+<small><sub>**Hebrew:**</sub></small>
+[[H3887\|לֵ֣ץ]] [[H5221\|תַּ֭כֶּה]] [[H9002\|וּ]][[H6612A\|פֶ֣תִי]] [[H6191\|יַעְרִ֑ם]] [[H9002\|וְ]][[H3198\|הוֹכִ֥יחַ]] [[H9005\|לְ֝]][[H0995\|נָב֗וֹן]] [[H0995\|יָבִ֥ין]] [[H1847\|דָּֽעַת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PUNISHMENT|PUNISHMENT]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.24|<< Proverbs 19:24]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.26|Proverbs 19:26 >>]]</td></tr></table>
 

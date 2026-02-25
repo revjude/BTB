@@ -1,8 +1,54 @@
+---
+title: Job 15:12
+type: Verse
+kjv: "Why doth thine heart carry thee away? and what do thy eyes wink at,"
+bsb: "Why has your heart carried you away, and why do your eyes flash,"
+hebrew: "מַה־ יִּקָּחֲךָ֥ לִבֶּ֑ךָ וּֽמַה־ יִּרְזְמ֥וּן עֵינֶֽיךָ׃"
+pericope: "[[Job.15.1 Eliphaz：Job Does Not Fear God|Eliphaz：Job Does Not Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 15
+book/chapter: "[[Job.15|Job 15]]"
+chronological_order: 26
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic MOCKING|MOCKING]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H3947G]]"
+- "[[H9031]]"
+- "[[H3820A]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H7335]]"
+- "[[H9013]]"
+- "[[H5869A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 15:12**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why doth thine heart carry thee away? and what do thy eyes wink at,
 <small><sub>**BSB:**</sub></small>
 Why has your heart carried you away, and why do your eyes flash,
+<small><sub>**Hebrew:**</sub></small>
+[[H4100\|מַה]][[H9014\|־]] [[H3947G\|יִּקָּחֲ]][[H9031\|ךָ֥]] [[H3820A\|לִבֶּ֑]][[H9021\|ךָ]] [[H9002\|וּֽ]][[H4100\|מַה]][[H9014\|־]] [[H7335\|יִּרְזְמ֥וּ]][[H9013\|ן]] [[H5869A\|עֵינֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOCKING|MOCKING]] • [[topic MURMURING|MURMURING]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.11|<< Job 15:11]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.13|Job 15:13 >>]]</td></tr></table>
 

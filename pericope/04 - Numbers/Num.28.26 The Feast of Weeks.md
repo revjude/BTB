@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Feast of Weeks
+type: Pericope
 pericope: "[[Num.28.26 The Feast of Weeks|The Feast of Weeks]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 28
 book/chapter: "[[Num.28|Numbers 28]]"
-genre:
+chronological_order: 188
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 6
 verses:
 - "[[Num.28.26]]"
 - "[[Num.28.27]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Num.28.31]]"
 ---
 
-[[Num.28|Numbers 28:26 - Numbers 28:31]]
+<small>[[Num.28|Numbers 28:26-31]]</small>
 *The Feast of Weeks*
 
 [[Num.28.26|26]] Also in the day of the firstfruits, when ye bring a new meat offering unto the LORD, after your weeks \[be out\], ye shall have an holy convocation; ye shall do no servile work:

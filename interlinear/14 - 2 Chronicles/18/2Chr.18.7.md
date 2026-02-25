@@ -1,8 +1,82 @@
+---
+title: 2 Chronicles 18:7
+type: Verse
+kjv: "And the king of Israel said unto Jehoshaphat, There is yet one man, by whom we may inquire of the LORD: but I hate him; for he never prophesied good unto me, but always evil: the same is Micaiah the son of Imla. And Jehoshaphat said, Let not the king say so."
+bsb: "The king of Israel answered, “There is still one man through whom we can inquire of the LORD, but I hate him because he never prophesies anything good for me, but only bad. He is Micaiah son of Imlah.” “The king should not say that!” Jehoshaphat replied."
+hebrew: "וַיֹּ֣אמֶר מֶֽלֶךְ־ יִשְׂרָאֵ֣ל׀ אֶֽל־ יְהוֹשָׁפָ֡ט ע֣וֹד אִישׁ־ אֶחָ֡ד לִדְרוֹשׁ֩ אֶת־ יְהוָ֨ה מֵֽאֹת֜וֹ וַאֲנִ֣י שְׂנֵאתִ֗יהוּ כִּֽי־ אֵ֠ינֶנּוּ מִתְנַבֵּ֨א עָלַ֤י לְטוֹבָה֙ כִּ֣י כָל־ יָמָ֣יו לְרָעָ֔ה ה֖וּא מִיכָ֣יְהוּ בֶן־ יִמְלָ֑א וַיֹּ֙אמֶר֙ יְה֣וֹשָׁפָ֔ט אַל־ יֹאמַ֥ר הַמֶּ֖לֶךְ כֵּֽן׃"
+pericope: "[[2Chr.18.1 Jehoshaphat Allies with Ahab|Jehoshaphat Allies with Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 18
+book/chapter: "[[2Chr.18|2 Chronicles 18]]"
+chronological_order: 570
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic IMLA|IMLA]]"
+- "[[topic MICAIAH|MICAIAH]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9015]]"
+- "[[H0413]]"
+- "[[H3092I]]"
+- "[[H5750]]"
+- "[[H0376G]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H1875]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H8130]]"
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H5012]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H2896C]]"
+- "[[H3605]]"
+- "[[H3117K]]"
+- "[[H9023]]"
+- "[[H7451B]]"
+- "[[H1931]]"
+- "[[H4321G]]"
+- "[[H1121A]]"
+- "[[H3229]]"
+- "[[H0408]]"
+- "[[H9009]]"
+- "[[H3651C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 18:7**<big><big>[[2Chr.18.1 Jehoshaphat Allies with Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Israel said unto Jehoshaphat, [There is] yet one man, by whom we may inquire of the LORD: but I hate him; for he never prophesied good unto me, but always evil: the same [is] Micaiah the son of Imla. And Jehoshaphat said, Let not the king say so.
 <small><sub>**BSB:**</sub></small>
 The king of Israel answered, “There is still one man through whom we can inquire of the LORD, but I hate him because he never prophesies anything good for me, but only bad. He is Micaiah son of Imlah.” “The king should not say that!” Jehoshaphat replied.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֣ל]][[H9015\|׀]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3092I\|יְהוֹשָׁפָ֡ט]] [[H5750\|ע֣וֹד]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H0259\|אֶחָ֡ד]] [[H9005\|לִ]][[H1875\|דְרוֹשׁ֩]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֨ה]] [[H9006\|מֵֽ]][[H0853\|אֹת֜]][[H9033\|וֹ]] [[H9002\|וַ]][[H0589\|אֲנִ֣י]] [[H8130\|שְׂנֵאתִ֗י]][[H9033\|הוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0369\|אֵ֠ינֶ]][[H9043\|נּוּ]] [[H5012\|מִתְנַבֵּ֨א]] [[H5921A\|עָלַ֤]][[H9030\|י]] [[H9005\|לְ]][[H2896C\|טוֹבָה֙]] [[H3588A\|כִּ֣י]] [[H3605\|כָל]][[H9014\|־]] [[H3117K\|יָמָ֣י]][[H9023\|ו]] [[H9005\|לְ]][[H7451B\|רָעָ֔ה]] [[H1931\|ה֖וּא]] [[H4321G\|מִיכָ֣יְהוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H3229\|יִמְלָ֑א]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H3092I\|יְה֣וֹשָׁפָ֔ט]] [[H0408\|אַל]][[H9014\|־]] [[H0559\|יֹאמַ֥ר]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H3651C\|כֵּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMLA|IMLA]] • [[topic MICAIAH|MICAIAH]] • [[topic PREACHING|PREACHING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.6|<< 2 Chronicles 18:6]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.8|2 Chronicles 18:8 >>]]</td></tr></table>
 

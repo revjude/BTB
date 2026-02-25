@@ -1,8 +1,79 @@
+---
+title: Numbers 14:10
+type: Verse
+kjv: "But all the congregation bade stone them with stones. And the glory of the LORD appeared in the tabernacle of the congregation before all the children of Israel."
+bsb: "But the whole congregation threatened to stone Joshua and Caleb. Then the glory of the LORD appeared to all the Israelites at the Tent of Meeting."
+hebrew: "וַיֹּֽאמְרוּ֙ כָּל־ הָ֣עֵדָ֔ה לִרְגּ֥וֹם אֹתָ֖ם בָּאֲבָנִ֑ים וּכְב֣וֹד יְהוָ֗ה נִרְאָה֙ בְּאֹ֣הֶל מוֹעֵ֔ד אֶֽל־ כָּל־ בְּנֵ֖י יִשְׂרָאֵֽל׃ פ"
+pericope: "[[Num.14.1 Israel’s Rebellion|Israel’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 14
+book/chapter: "[[Num.14|Numbers 14]]"
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic CALEB|CALEB]]"
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MAJORITY AND MINORITY REPORTS|MAJORITY AND MINORITY REPORTS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REPORTS|REPORTS]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5712]]"
+- "[[H9005]]"
+- "[[H7275]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H0068G]]"
+- "[[H9002]]"
+- "[[H3519]]"
+- "[[H3068G]]"
+- "[[H7200G]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H0413]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Numbers 14:10**<big><big>[[Num.14.1 Israel’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But all the congregation bade stone them with stones. And the glory of the LORD appeared in the tabernacle of the congregation before all the children of Israel.
 <small><sub>**BSB:**</sub></small>
 But the whole congregation threatened to stone Joshua and Caleb. Then the glory of the LORD appeared to all the Israelites at the Tent of Meeting.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּֽאמְרוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ֣]][[H5712\|עֵדָ֔ה]] [[H9005\|לִ]][[H7275\|רְגּ֥וֹם]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H9003\|בָּ]][[H0068G\|אֲבָנִ֑ים]] [[H9002\|וּ]][[H3519\|כְב֣וֹד]] [[H3068G\|יְהוָ֗ה]] [[H7200G\|נִרְאָה֙]] [[H9003\|בְּ]][[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֔ד]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1121G\|בְּנֵ֖י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic CALEB|CALEB]] • [[topic CLOUD|CLOUD]] • [[topic COURAGE|COURAGE]] • [[topic DECISION|DECISION]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic JOSHUA|JOSHUA]] • [[topic MAJORITY AND MINORITY REPORTS|MAJORITY AND MINORITY REPORTS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REPORTS|REPORTS]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.9|<< Numbers 14:9]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.11|Numbers 14:11 >>]]</td></tr></table>
 
@@ -22,7 +93,7 @@ But the whole congregation threatened to stone Joshua and Caleb. Then the glory 
 | to  |**<big>&#8207;[[H0413\|אֶֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֖י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.9|<< Numbers 14:9]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.11|Numbers 14:11 >>]]</td></tr></table>
 
 

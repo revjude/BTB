@@ -1,8 +1,71 @@
+---
+title: Ezra 10:8
+type: Verse
+kjv: "And that whosoever would not come within three days, according to the counsel of the princes and the elders, all his substance should be forfeited, and himself separated from the congregation of those that had been carried away."
+bsb: "Whoever failed to appear within three days would forfeit all his property, according to the counsel of the leaders and elders, and would himself be expelled from the assembly of the exiles."
+hebrew: "וְכֹל֩ אֲשֶׁ֨ר לֹֽא־ יָב֜וֹא לִשְׁלֹ֣שֶׁת הַיָּמִ֗ים כַּעֲצַ֤ת הַשָּׂרִים֙ וְהַזְּקֵנִ֔ים יָחֳרַ֖ם כָּל־ רְכוּשׁ֑וֹ וְה֥וּא יִבָּדֵ֖ל מִקְּהַ֥ל הַגּוֹלָֽה׃ ס"
+pericope: "[[Ezra.10.6 The People’s Confession of Sin|The People’s Confession of Sin]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 10
+book/chapter: "[[Ezra.10|Ezra 10]]"
+chronological_order: 912
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic CONFISCATION|CONFISCATION]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic EZRA|EZRA]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic LOYALTY|LOYALTY]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H7969]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9004]]"
+- "[[H6098]]"
+- "[[H8269]]"
+- "[[H2205G]]"
+- "[[H2763A]]"
+- "[[H7399]]"
+- "[[H9023]]"
+- "[[H1931]]"
+- "[[H0914]]"
+- "[[H9006]]"
+- "[[H6951]]"
+- "[[H1473]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezra 10:8**<big><big>[[Ezra.10.6 The People’s Confession of Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And that whosoever would not come within three days, according to the counsel of the princes and the elders, all his substance should be forfeited, and himself separated from the congregation of those that had been carried away.
 <small><sub>**BSB:**</sub></small>
 Whoever failed to appear within three days would forfeit all his property, according to the counsel of the leaders and elders, and would himself be expelled from the assembly of the exiles.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כֹל֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0935G\|יָב֜וֹא]] [[H9005\|לִ]][[H7969\|שְׁלֹ֣שֶׁת]] [[H9009\|הַ]][[H3117G\|יָּמִ֗ים]] [[H9004\|כַּ]][[H6098\|עֲצַ֤ת]] [[H9009\|הַ]][[H8269\|שָּׂרִים֙]] [[H9002\|וְ]][[H9009\|הַ]][[H2205G\|זְּקֵנִ֔ים]] [[H2763A\|יָחֳרַ֖ם]] [[H3605\|כָּל]][[H9014\|־]] [[H7399\|רְכוּשׁ֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H1931\|ה֥וּא]] [[H0914\|יִבָּדֵ֖ל]] [[H9006\|מִ]][[H6951\|קְּהַ֥ל]] [[H9009\|הַ]][[H1473\|גּוֹלָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CITIZENS|CITIZENS]] • [[topic CONFISCATION|CONFISCATION]] • [[topic DECISION|DECISION]] • [[topic DIVORCE|DIVORCE]] • [[topic EZRA|EZRA]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic LOYALTY|LOYALTY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.10.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.7|<< Ezra 10:7]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.9|Ezra 10:9 >>]]</td></tr></table>
 
@@ -23,7 +86,7 @@ Whoever failed to appear within three days would forfeit all his property, accor
 | and he  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1931\|ה֥וּא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will be separated  |**<big>&#8207;[[H0914\|יִבָּדֵ֖ל]]&#8207; </big>**| yi.ba.Del<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] assembly of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6951\|קְּהַ֥ל]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ke.Hal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the exile[s]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1473\|גּוֹלָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> go.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the exile[s]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1473\|גּוֹלָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> go.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.7|<< Ezra 10:7]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.9|Ezra 10:9 >>]]</td></tr></table>
 
 

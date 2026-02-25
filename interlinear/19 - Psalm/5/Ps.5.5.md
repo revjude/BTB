@@ -1,8 +1,60 @@
+---
+title: Psalm 5:5
+type: Verse
+kjv: "The foolish shall not stand in thy sight: thou hatest all workers of iniquity."
+bsb: "The boastful cannot stand in Your presence; You hate all workers of iniquity."
+hebrew: "לֹֽא־ יִתְיַצְּב֣וּ הֽ֭וֹלְלִים לְנֶ֣גֶד עֵינֶ֑יךָ שָׂ֝נֵ֗אתָ כָּל־ פֹּ֥עֲלֵי אָֽוֶן׃"
+pericope: "[[Ps.5.1 Give Ear to My Words|Give Ear to My Words]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 5
+book/chapter: "[[Ps.5|Psalm 5]]"
+chronological_order: 340
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic HATRED|HATRED]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3320]]"
+- "[[H1984C]]"
+- "[[H9005]]"
+- "[[H5048]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H8130]]"
+- "[[H3605]]"
+- "[[H6466]]"
+- "[[H0205G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 5:5**<big><big>[[Ps.5.1 Give Ear to My Words|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The foolish shall not stand in thy sight: thou hatest all workers of iniquity.
 <small><sub>**BSB:**</sub></small>
 The boastful cannot stand in Your presence; You hate all workers of iniquity.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H3320\|יִתְיַצְּב֣וּ]] [[H1984C\|הֽ֭וֹלְלִים]] [[H9005\|לְ]][[H5048\|נֶ֣גֶד]] [[H5869A\|עֵינֶ֑י]][[H9021\|ךָ]] [[H8130\|שָׂ֝נֵ֗אתָ]] [[H3605\|כָּל]][[H9014\|־]] [[H6466\|פֹּ֥עֲלֵי]] [[H0205G\|אָֽוֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic FOOL|FOOL]] • [[topic HATRED|HATRED]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.5.4|<< Psalms 5:4]]</td><td align="center" style="border:none;">[[Ps.5|Psalms 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.5.6|Psalms 5:6 >>]]</td></tr></table>
 

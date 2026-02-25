@@ -1,8 +1,59 @@
+---
+title: Job 31:28
+type: Verse
+kjv: "This also were an iniquity to be punished by the judge: for I should have denied the God that is above."
+bsb: "this would also be an iniquity to be judged, for I would have denied God on high."
+hebrew: "גַּם־ ה֭וּא עָוֹ֣ן פְּלִילִ֑י כִּֽי־ כִחַ֖שְׁתִּי לָאֵ֣ל מִמָּֽעַל׃"
+pericope: "[[Job.31.1 Job’s Final Appeal|Job’s Final Appeal]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 31
+book/chapter: "[[Job.31|Job 31]]"
+chronological_order: 42
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic SUN|SUN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H5771G]]"
+- "[[H6416]]"
+- "[[H3588A]]"
+- "[[H3584]]"
+- "[[H9005]]"
+- "[[H0410G]]"
+- "[[H9006]]"
+- "[[H4605]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 31:28**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This also [were] an iniquity [to be punished by] the judge: for I should have denied the God [that is] above.
 <small><sub>**BSB:**</sub></small>
 this would also be an iniquity to be judged, for I would have denied God on high.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּם]][[H9014\|־]] [[H1931\|ה֭וּא]] [[H5771G\|עָוֹ֣ן]] [[H6416\|פְּלִילִ֑י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3584\|כִחַ֖שְׁתִּי]] [[H9005\|לָ]][[H0410G\|אֵ֣ל]] [[H9006\|מִ]][[H4605\|מָּֽעַל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic HOPE|HOPE]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INTEGRITY|INTEGRITY]] • [[topic RICH, THE|RICH, THE]] • [[topic SUN|SUN]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.27|<< Job 31:27]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.29|Job 31:29 >>]]</td></tr></table>
 

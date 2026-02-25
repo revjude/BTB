@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Keep My Statutes
+type: Pericope
 pericope: "[[Lev.19.19 Keep My Statutes|Keep My Statutes]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 19
 book/chapter: "[[Lev.19|Leviticus 19]]"
-genre:
+chronological_order: 151
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 19
 verses:
 - "[[Lev.19.19]]"
 - "[[Lev.19.20]]"
@@ -42,7 +49,7 @@ verses:
 - "[[Lev.19.37]]"
 ---
 
-[[Lev.19|Leviticus 19:19 - Leviticus 19:37]]
+<small>[[Lev.19|Leviticus 19:19-37]]</small>
 *Keep My Statutes*
 
 [[Lev.19.19|19]] Ye shall keep my statutes. Thou shalt not let thy cattle gender with a diverse kind: thou shalt not sow thy field with mingled seed: neither shall a garment mingled of linen and woollen come upon thee.

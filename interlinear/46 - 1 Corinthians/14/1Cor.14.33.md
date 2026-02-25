@@ -1,10 +1,53 @@
+---
+title: 1 Corinthians 14:33
+type: Verse
+kjv: "For God is not the author of confusion, but of peace, as in all churches of the saints."
+bsb: "For God is not a God of disorder, but of peace—as in all the churches of the saints."
+greek: "οὐ γάρ ἐστιν ἀκαταστασίας ὁ θεὸς ἀλλ᾽ εἰρήνης, ὡς ἐν πάσαις ταῖς ἐκκλησίαις τῶν ἁγίων.¶"
+pericope: "[[1Cor.14.26 Orderly Worship|Orderly Worship]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 14
+book/chapter: "[[1Cor.14|1 Corinthians 14]]"
+chronological_order: 1071
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic PEACE|PEACE]]"
+strongs:
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G0181]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G0235]]"
+- "[[G1515]]"
+- "[[G5613]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G1577]]"
+- "[[G0040H]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 14:33**<big><big>[[1Cor.14.26 Orderly Worship|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For God is not [the author] of confusion, but of peace, as in all churches of the saints.
 <small><sub>**BSB:**</sub></small>
 For God is not a God of disorder, but of peace—as in all the churches of the saints.
-<small><sub>**Literal:**</sub></small>
-Not for He is of disorder the God but of peace, as in all the churches of the saints.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.32|<< 1 Corinthians 14:32]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.34|1 Corinthians 14:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G1063\|γάρ]]  [[G1510\|ἐστιν]]  [[G0181\|ἀκαταστασίας]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G0235\|ἀλλ᾽]]  [[G1515\|εἰρήνης,]]  [[G5613\|ὡς]]  [[G1722\|ἐν]]  [[G3956\|πάσαις]]  [[G3588\|ταῖς]]  [[G1577\|ἐκκλησίαις]]  [[G3588\|τῶν]]  [[G0040H\|ἁγίων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic PEACE|PEACE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.32|<< 1 Corinthians 14:32]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.34|1 Corinthians 14:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,71 @@
+---
+title: 1 Samuel 9:19
+type: Verse
+kjv: "And Samuel answered Saul, and said, I am the seer: go up before me unto the high place; for ye shall eat with me to day, and to morrow I will let thee go, and will tell thee all that is in thine heart."
+bsb: "“I am the seer,” Samuel replied. “Go up before me to the high place, for you shall eat with me today. And when I send you off in the morning, I will tell you all that is in your heart."
+hebrew: "וַיַּ֨עַן שְׁמוּאֵ֜ל אֶת־ שָׁא֗וּל וַיֹּ֙אמֶר֙ אָנֹכִ֣י הָרֹאֶ֔ה עֲלֵ֤ה לְפָנַי֙ הַבָּמָ֔ה וַאֲכַלְתֶּ֥ם עִמִּ֖י הַיּ֑וֹם וְשִׁלַּחְתִּ֣יךָ בַבֹּ֔קֶר וְכֹ֛ל אֲשֶׁ֥ר בִּֽלְבָבְךָ֖ אַגִּ֥יד לָֽךְ׃"
+pericope: "[[1Sam.9.1 Saul Chosen as King|Saul Chosen as King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 9
+book/chapter: "[[1Sam.9|1 Samuel 9]]"
+chronological_order: 288
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H8050G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7586G]]"
+- "[[H0559]]"
+- "[[H0595]]"
+- "[[H9009]]"
+- "[[H7203A]]"
+- "[[H5927G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H1116]]"
+- "[[H0398]]"
+- "[[H5973A]]"
+- "[[H9030]]"
+- "[[H3117G]]"
+- "[[H7971H]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H3824]]"
+- "[[H9021]]"
+- "[[H5046]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 9:19**<big><big>[[1Sam.9.1 Saul Chosen as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samuel answered Saul, and said, I [am] the seer: go up before me unto the high place; for ye shall eat with me to day, and to morrow I will let thee go, and will tell thee all that [is] in thine heart.
 <small><sub>**BSB:**</sub></small>
 “I am the seer,” Samuel replied. “Go up before me to the high place, for you shall eat with me today. And when I send you off in the morning, I will tell you all that is in your heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֨עַן]] [[H8050G\|שְׁמוּאֵ֜ל]] [[H0853\|אֶת]][[H9014\|־]] [[H7586G\|שָׁא֗וּל]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H0595\|אָנֹכִ֣י]] [[H9009\|הָ]][[H7203A\|רֹאֶ֔ה]] [[H5927G\|עֲלֵ֤ה]] [[H9005\|לְ]][[H6440G\|פָנַ]][[H9020\|י֙]] [[H9009\|הַ]][[H1116\|בָּמָ֔ה]] [[H9001\|וַ]][[H0398\|אֲכַלְתֶּ֥ם]] [[H5973A\|עִמִּ֖]][[H9030\|י]] [[H9009\|הַ]][[H3117G\|יּ֑וֹם]] [[H9001\|וְ]][[H7971H\|שִׁלַּחְתִּ֣י]][[H9031\|ךָ]] [[H9003\|בַ]][[H1242\|בֹּ֔קֶר]] [[H9002\|וְ]][[H3605\|כֹ֛ל]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בִּֽ]][[H3824\|לְבָבְ]][[H9021\|ךָ֖]] [[H5046\|אַגִּ֥יד]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.9.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9.18|<< 1 Samuel 9:18]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.20|1 Samuel 9:20 >>]]</td></tr></table>
 

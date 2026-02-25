@@ -1,10 +1,62 @@
+---
+title: Colossians 3:22
+type: Verse
+kjv: "Servants, obey in all things your masters according to the flesh; not with eyeservice, as menpleasers; but in singleness of heart, fearing God:"
+bsb: "Slaves, obey your earthly masters in everything, not only to please them while they are watching, but with sincerity of heart and fear of the Lord."
+greek: "Οἱ δοῦλοι, ὑπακούετε κατὰ πάντα τοῖς κατὰ σάρκα κυρίοις, μὴ ἐν ὀφθαλμοδουλίᾳ ὡς ἀνθρωπάρεσκοι ἀλλ᾽ ἐν ἁπλότητι καρδίας φοβούμενοι τὸν κύριον."
+pericope: "[[Col.3.22 Serving with Honor|Serving with Honor]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 3
+book/chapter: "[[Col.3|Colossians 3]]"
+chronological_order: 1123
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic HEART|HEART]]"
+- "[[topic HONESTY|HONESTY]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G5219]]"
+- "[[G2596]]"
+- "[[G3956]]"
+- "[[G4561]]"
+- "[[G2962H]]"
+- "[[G3361]]"
+- "[[G1722]]"
+- "[[G3787]]"
+- "[[G5613]]"
+- "[[G0441]]"
+- "[[G0235]]"
+- "[[G0572]]"
+- "[[G2588]]"
+- "[[G5399]]"
+- "[[G2962G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Colossians 3:22**<big><big>[[Col.3.22 Serving with Honor|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Servants, obey in all things [your] masters according to the flesh; not with eyeservice, as menpleasers; but in singleness of heart, fearing God:
 <small><sub>**BSB:**</sub></small>
 Slaves, obey your earthly masters in everything, not only to please them while they are watching, but with sincerity of heart and fear of the Lord.
-<small><sub>**Literal:**</sub></small>
-you who [are] Slaves, do obey in all things the according to flesh masters, not with eye-service as men-pleasers but in sincerity of heart fearing the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.21|<< Colossians 3:21]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.23|Colossians 3:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Οἱ]]  [[G1401\|δοῦλοι,]]  [[G5219\|ὑπακούετε]]  [[G2596\|κατὰ]]  [[G3956\|πάντα]]  [[G3588\|τοῖς]]  [[G2596\|κατὰ]]  [[G4561\|σάρκα]]  [[G2962H\|κυρίοις,]]  [[G3361\|μὴ]]  [[G1722\|ἐν]]  [[G3787\|ὀφθαλμοδουλίᾳ]]  [[G5613\|ὡς]]  [[G0441\|ἀνθρωπάρεσκοι]]  [[G0235\|ἀλλ᾽]]  [[G1722\|ἐν]]  [[G0572\|ἁπλότητι]]  [[G2588\|καρδίας]]  [[G5399\|φοβούμενοι]]  [[G3588\|τὸν]]  [[G2962G\|κύριον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEART|HEART]] • [[topic HONESTY|HONESTY]] • [[topic INTEGRITY|INTEGRITY]] • [[topic REVERENCE|REVERENCE]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.21|<< Colossians 3:21]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.23|Colossians 3:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

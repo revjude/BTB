@@ -1,10 +1,58 @@
+---
+title: Matthew 27:22
+type: Verse
+kjv: "Pilate saith unto them, What shall I do then with Jesus which is called Christ? They all say unto him, Let him be crucified."
+bsb: "“What then should I do with Jesus who is called Christ?” Pilate asked. They all answered, “Crucify Him!”"
+greek: "λέγει αὐτοῖς ὁ Πιλᾶτος· τί οὖν ποιήσω Ἰησοῦν τὸν λεγόμενον χριστόν; λέγουσιν αὐτῷ πάντες· σταυρωθήτω."
+pericope: "[[Matt.27.15 The Crowd Chooses Barabbas|The Crowd Chooses Barabbas]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BARABBAS|BARABBAS]]"
+- "[[topic COMPLICITY|COMPLICITY]]"
+- "[[topic COURT|COURT]]"
+- "[[topic DEMAGOGISM|DEMAGOGISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G4091]]"
+- "[[G5101]]"
+- "[[G3767]]"
+- "[[G4160G]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G3956]]"
+- "[[G4717]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 27:22**<big><big>[[Matt.27.15 The Crowd Chooses Barabbas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Pilate saith unto them, What shall I do then with Jesus which is called Christ? [They] all say unto him, Let him be crucified.
 <small><sub>**BSB:**</sub></small>
 “What then should I do with Jesus who is called Christ?” Pilate asked. They all answered, “Crucify Him!”
-<small><sub>**Literal:**</sub></small>
-Says to them <the> Pilate; What then shall I do with Jesus who is called Christ? They say to him all; he should be crucified.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.21|<< Matthew 27:21]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.23|Matthew 27:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγει]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G4091\|Πιλᾶτος·]]  [[G5101\|τί]]  [[G3767\|οὖν]]  [[G4160G\|ποιήσω]]  [[G2424G\|Ἰησοῦν]]  [[G3588\|τὸν]]  [[G3004G\|λεγόμενον]]  [[G5547\|χριστόν;]]  [[G3004G\|λέγουσιν]]  [[G0846\|αὐτῷ]]  [[G3956\|πάντες·]]  [[G4717\|σταυρωθήτω.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARABBAS|BARABBAS]] • [[topic COMPLICITY|COMPLICITY]] • [[topic COURT|COURT]] • [[topic DEMAGOGISM|DEMAGOGISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGE|JUDGE]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.21|<< Matthew 27:21]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.23|Matthew 27:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

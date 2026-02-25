@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Accept One Another
+type: Pericope
 pericope: "[[Rom.15.1 Accept One Another|Accept One Another]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Romans
 chapter: 15
 book/chapter: "[[Rom.15|Romans 15]]"
-genre:
+chronological_order: 1101
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 6
 verses:
 - "[[Rom.15.1]]"
 - "[[Rom.15.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Rom.15.6]]"
 ---
 
-[[Rom.15|Romans 15:1 - Romans 15:6]]
+<small>[[Rom.15|Romans 15:1-6]]</small>
 *Accept One Another*
 
 [[Rom.15.1|1]] We then that are strong ought to bear the infirmities of the weak, and not to please ourselves.

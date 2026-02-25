@@ -1,8 +1,73 @@
+---
+title: Isaiah 37:24
+type: Verse
+kjv: "By thy servants hast thou reproached the Lord, and hast said, By the multitude of my chariots am I come up to the height of the mountains, to the sides of Lebanon; and I will cut down the tall cedars thereof, and the choice fir trees thereof: and I will enter into the height of his border, and the forest of his Carmel."
+bsb: "Through your servants you have taunted the Lord, and you have said: “With my many chariots I have ascended to the heights of the mountains, to the remote peaks of Lebanon. I have cut down its tallest cedars, the finest of its cypresses. I have reached its farthest heights, the densest of its forests."
+hebrew: "בְּיַ֣ד עֲבָדֶיךָ֮ חֵרַ֣פְתָּ׀ אֲדֹנָי֒ וַתֹּ֗אמֶר בְּרֹ֥ב רִכְבִּ֛י אֲנִ֥י עָלִ֛יתִי מְר֥וֹם הָרִ֖ים יַרְכְּתֵ֣י לְבָנ֑וֹן וְאֶכְרֹ֞ת קוֹמַ֤ת אֲרָזָיו֙ מִבְחַ֣ר בְּרֹשָׁ֔יו וְאָבוֹא֙ מְר֣וֹם קִצּ֔וֹ יַ֖עַר כַּרְמִלּֽוֹ׃"
+pericope: "[[Isa.37.21 Sennacherib’s Fall Prophesied|Sennacherib’s Fall Prophesied]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 37
+book/chapter: "[[Isa.37|Isaiah 37]]"
+chronological_order: 664
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic LIBNAH|LIBNAH]]"
+strongs:
+- "[[H9003]]"
+- "[[H3027J]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H2778A]]"
+- "[[H9015]]"
+- "[[H0136]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7230]]"
+- "[[H7393G]]"
+- "[[H9020]]"
+- "[[H0589]]"
+- "[[H5927G]]"
+- "[[H4791]]"
+- "[[H2022G]]"
+- "[[H3411]]"
+- "[[H3844G]]"
+- "[[H9002]]"
+- "[[H3772G]]"
+- "[[H6967]]"
+- "[[H0730]]"
+- "[[H9023]]"
+- "[[H4005]]"
+- "[[H1265]]"
+- "[[H0935G]]"
+- "[[H7093]]"
+- "[[H3293A]]"
+- "[[H3759]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 37:24**<big><big>[[Isa.37.21 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By thy servants hast thou reproached the Lord, and hast said, By the multitude of my chariots am I come up to the height of the mountains, to the sides of Lebanon; and I will cut down the tall cedars thereof, [and] the choice fir trees thereof: and I will enter into the height of his border, [and] the forest of his Carmel.
 <small><sub>**BSB:**</sub></small>
 Through your servants you have taunted the Lord, and you have said: “With my many chariots I have ascended to the heights of the mountains, to the remote peaks of Lebanon. I have cut down its tallest cedars, the finest of its cypresses. I have reached its farthest heights, the densest of its forests.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3027J\|יַ֣ד]] [[H5650\|עֲבָדֶי]][[H9021\|ךָ֮]] [[H2778A\|חֵרַ֣פְתָּ]][[H9015\|׀]] [[H0136\|אֲדֹנָי֒]] [[H9001\|וַ]][[H0559\|תֹּ֗אמֶר]] [[H9003\|בְּ]][[H7230\|רֹ֥ב]] [[H7393G\|רִכְבִּ֛]][[H9020\|י]] [[H0589\|אֲנִ֥י]] [[H5927G\|עָלִ֛יתִי]] [[H4791\|מְר֥וֹם]] [[H2022G\|הָרִ֖ים]] [[H3411\|יַרְכְּתֵ֣י]] [[H3844G\|לְבָנ֑וֹן]] [[H9002\|וְ]][[H3772G\|אֶכְרֹ֞ת]] [[H6967\|קוֹמַ֤ת]] [[H0730\|אֲרָזָי]][[H9023\|ו֙]] [[H4005\|מִבְחַ֣ר]] [[H1265\|בְּרֹשָׁ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H0935G\|אָבוֹא֙]] [[H4791\|מְר֣וֹם]] [[H7093\|קִצּ֔]][[H9023\|וֹ]] [[H3293A\|יַ֖עַר]] [[H3759\|כַּרְמִלּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic LIBNAH|LIBNAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.23|<< Isaiah 37:23]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.25|Isaiah 37:25 >>]]</td></tr></table>
 

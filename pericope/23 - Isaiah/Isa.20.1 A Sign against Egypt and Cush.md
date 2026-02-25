@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Sign against Egypt and Cush
+type: Pericope
 pericope: "[[Isa.20.1 A Sign against Egypt and Cush|A Sign against Egypt and Cush]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 20
 book/chapter: "[[Isa.20|Isaiah 20]]"
-genre:
+chronological_order: 637
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 6
 verses:
 - "[[Isa.20.1]]"
 - "[[Isa.20.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Isa.20.6]]"
 ---
 
-[[Isa.20|Isaiah 20:1 - Isaiah 20:6]]
+<small>[[Isa.20|Isaiah 20:1-6]]</small>
 *A Sign against Egypt and Cush*
 
 [[Isa.20.1|1]] In the year that Tartan came unto Ashdod, (when Sargon the king of Assyria sent him,) and fought against Ashdod, and took it;

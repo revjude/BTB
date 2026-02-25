@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ben-hadad Attacks Samaria
+type: Pericope
 pericope: "[[1Kgs.20.1 Ben-hadad Attacks Samaria|Ben-hadad Attacks Samaria]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 20
 book/chapter: "[[1Kgs.20|1 Kings 20]]"
-genre:
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 12
 verses:
 - "[[1Kgs.20.1]]"
 - "[[1Kgs.20.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[1Kgs.20.12]]"
 ---
 
-[[1Kgs.20|1 Kings 20:1 - 1 Kings 20:12]]
+<small>[[1Kgs.20|1 Kings 20:1-12]]</small>
 *Ben-hadad Attacks Samaria*
 
 [[1Kgs.20.1|1]] And Benhadad the king of Syria gathered all his host together: and \[there were\] thirty and two kings with him, and horses, and chariots: and he went up and besieged Samaria, and warred against it.

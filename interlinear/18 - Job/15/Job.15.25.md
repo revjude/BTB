@@ -1,8 +1,55 @@
+---
+title: Job 15:25
+type: Verse
+kjv: "For he stretcheth out his hand against God, and strengtheneth himself against the Almighty."
+bsb: "For he has stretched out his hand against God and has vaunted himself against the Almighty,"
+hebrew: "כִּֽי־ נָטָ֣ה אֶל־ אֵ֣ל יָד֑וֹ וְאֶל־ שַׁ֝דַּ֗י יִתְגַּבָּֽר׃"
+pericope: "[[Job.15.1 Eliphaz：Job Does Not Fear God|Eliphaz：Job Does Not Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 15
+book/chapter: "[[Job.15|Job 15]]"
+chronological_order: 26
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5186]]"
+- "[[H0413]]"
+- "[[H0410G]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H7706]]"
+- "[[H1396]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 15:25**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he stretcheth out his hand against God, and strengtheneth himself against the Almighty.
 <small><sub>**BSB:**</sub></small>
 For he has stretched out his hand against God and has vaunted himself against the Almighty,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H5186\|נָטָ֣ה]] [[H0413\|אֶל]][[H9014\|־]] [[H0410G\|אֵ֣ל]] [[H3027G\|יָד֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H7706\|שַׁ֝דַּ֗י]] [[H1396\|יִתְגַּבָּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic INFIDELITY|INFIDELITY]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.24|<< Job 15:24]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.26|Job 15:26 >>]]</td></tr></table>
 

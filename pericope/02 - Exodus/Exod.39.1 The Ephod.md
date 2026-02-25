@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Ephod
+type: Pericope
 pericope: "[[Exod.39.1 The Ephod|The Ephod]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 39
 book/chapter: "[[Exod.39|Exodus 39]]"
-genre:
+chronological_order: 131
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 7
 verses:
 - "[[Exod.39.1]]"
 - "[[Exod.39.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Exod.39.7]]"
 ---
 
-[[Exod.39|Exodus 39:1 - Exodus 39:7]]
+<small>[[Exod.39|Exodus 39:1-7]]</small>
 *The Ephod*
 
 [[Exod.39.1|1]] And of the blue, and purple, and scarlet, they made cloths of service, to do service in the holy \[place\], and made the holy garments for Aaron; as the LORD commanded Moses.

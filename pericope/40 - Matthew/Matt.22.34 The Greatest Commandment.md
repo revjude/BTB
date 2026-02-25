@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Greatest Commandment
+type: Pericope
 pericope: "[[Matt.22.34 The Greatest Commandment|The Greatest Commandment]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 22
 book/chapter: "[[Matt.22|Matthew 22]]"
-genre:
+chronological_order: 993
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 7
 verses:
 - "[[Matt.22.34]]"
 - "[[Matt.22.35]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Matt.22.40]]"
 ---
 
-[[Matt.22|Matthew 22:34 - Matthew 22:40]]
+<small>[[Matt.22|Matthew 22:34-40]]</small>
 *The Greatest Commandment*
 
 [[Matt.22.34|34]] But when the Pharisees had heard that he had put the Sadducees to silence, they were gathered together.

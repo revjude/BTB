@@ -1,8 +1,61 @@
+---
+title: Isaiah 40:27
+type: Verse
+kjv: "Why sayest thou, O Jacob, and speakest, O Israel, My way is hid from the LORD, and my judgment is passed over from my God?"
+bsb: "Why do you say, O Jacob, and why do you assert, O Israel, “My way is hidden from the LORD, and my claim is ignored by my God”?"
+hebrew: "לָ֤מָּה תֹאמַר֙ יַֽעֲקֹ֔ב וּתְדַבֵּ֖ר יִשְׂרָאֵ֑ל נִסְתְּרָ֤ה דַרְכִּי֙ מֵֽיְהוָ֔ה וּמֵאֱלֹהַ֖י מִשְׁפָּטִ֥י יַעֲבֽוֹר׃"
+pericope: "[[Isa.40.9 Here Is Your God!|Here Is Your God!]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 40
+book/chapter: "[[Isa.40|Isaiah 40]]"
+chronological_order: 679
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H0559]]"
+- "[[H3290]]"
+- "[[H9002]]"
+- "[[H1696G]]"
+- "[[H3478]]"
+- "[[H5641]]"
+- "[[H1870G]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H4941H]]"
+- "[[H5674A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 40:27**<big><big>[[Isa.40.9 Here Is Your God!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why sayest thou, O Jacob, and speakest, O Israel, My way is hid from the LORD, and my judgment is passed over from my God?
 <small><sub>**BSB:**</sub></small>
 Why do you say, O Jacob, and why do you assert, O Israel, “My way is hidden from the LORD, and my claim is ignored by my God”?
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ֤]][[H4100\|מָּה]] [[H0559\|תֹאמַר֙]] [[H3290\|יַֽעֲקֹ֔ב]] [[H9002\|וּ]][[H1696G\|תְדַבֵּ֖ר]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H5641\|נִסְתְּרָ֤ה]] [[H1870G\|דַרְכִּ]][[H9020\|י֙]] [[H9006\|מֵֽ]][[H3068G\|יְהוָ֔ה]] [[H9002\|וּ]][[H9006\|מֵ]][[H0430G\|אֱלֹהַ֖]][[H9020\|י]] [[H4941H\|מִשְׁפָּטִ֥]][[H9020\|י]] [[H5674A\|יַעֲבֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic BLINDNESS|BLINDNESS]] • [[topic DOUBTING|DOUBTING]] • [[topic GOD|GOD]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.26|<< Isaiah 40:26]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.28|Isaiah 40:28 >>]]</td></tr></table>
 

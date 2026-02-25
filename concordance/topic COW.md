@@ -1,7 +1,7 @@
 
 **COW**
 
-→ Used for pulling [[1Sam.6.7|1Sa 6:7]]-[[1Sam.6.12|12]]; [[Hos.10.11|Ho 10:11]]
+→ Used for pulling [[1Sam.6.7|1Sa 6:7-12]]; [[Hos.10.11|Ho 10:11]]
 
 → (Milk of, used for food)
 

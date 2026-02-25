@@ -1,8 +1,82 @@
+---
+title: Numbers 16:3
+type: Verse
+kjv: "And they gathered themselves together against Moses and against Aaron, and said unto them, Ye take too much upon you, seeing all the congregation are holy, every one of them, and the LORD is among them: wherefore then lift ye up yourselves above the congregation of the LORD?"
+bsb: "They came together against Moses and Aaron and told them, “You have taken too much upon yourselves! For everyone in the entire congregation is holy, and the LORD is in their midst. Why then do you exalt yourselves above the assembly of the LORD?”"
+hebrew: "וַיִּֽקָּהֲל֞וּ עַל־ מֹשֶׁ֣ה וְעַֽל־ אַהֲרֹ֗ן וַיֹּאמְר֣וּ אֲלֵהֶם֮ רַב־ לָכֶם֒ כִּ֤י כָל־ הָֽעֵדָה֙ כֻּלָּ֣ם קְדֹשִׁ֔ים וּבְתוֹכָ֖ם יְהוָ֑ה וּמַדּ֥וּעַ תִּֽתְנַשְּׂא֖וּ עַל־ קְהַ֥ל יְהוָֽה׃"
+pericope: "[[Num.16.1 Korah’s Rebellion|Korah’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DATHAN|DATHAN]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic TREASON|TREASON]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H6950]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H7227A]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H3588A]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5712]]"
+- "[[H9028]]"
+- "[[H6918G]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H3068G]]"
+- "[[H4069]]"
+- "[[H5375L]]"
+- "[[H6951]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 16:3**<big><big>[[Num.16.1 Korah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they gathered themselves together against Moses and against Aaron, and said unto them, [Ye take] too much upon you, seeing all the congregation [are] holy, every one of them, and the LORD [is] among them: wherefore then lift ye up yourselves above the congregation of the LORD?
 <small><sub>**BSB:**</sub></small>
 They came together against Moses and Aaron and told them, “You have taken too much upon yourselves! For everyone in the entire congregation is holy, and the LORD is in their midst. Why then do you exalt yourselves above the assembly of the LORD?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6950\|יִּֽקָּהֲל֞וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H4872\|מֹשֶׁ֣ה]] [[H9002\|וְ]][[H5921A\|עַֽל]][[H9014\|־]] [[H0175\|אַהֲרֹ֗ן]] [[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H0413\|אֲלֵ]][[H9038\|הֶם֮]] [[H7227A\|רַב]][[H9014\|־]] [[H9005\|לָ]][[H9036\|כֶם֒]] [[H3588A\|כִּ֤י]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הָֽ]][[H5712\|עֵדָה֙]] [[H3605\|כֻּלָּ֣]][[H9028\|ם]] [[H6918G\|קְדֹשִׁ֔ים]] [[H9002\|וּ]][[H9003\|בְ]][[H8432\|תוֹכָ֖]][[H9028\|ם]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וּ]][[H4069\|מַדּ֥וּעַ]] [[H5375L\|תִּֽתְנַשְּׂא֖וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H6951\|קְהַ֥ל]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic AMBITION|AMBITION]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DATHAN|DATHAN]] • [[topic ENVY|ENVY]] • [[topic ISRAEL|ISRAEL]] • [[topic MURMURING|MURMURING]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic SELF-EXALTATION|SELF-EXALTATION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic TREASON|TREASON]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.2|<< Numbers 16:2]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.4|Numbers 16:4 >>]]</td></tr></table>
 

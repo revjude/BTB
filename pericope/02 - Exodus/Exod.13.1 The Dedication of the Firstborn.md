@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Dedication of the Firstborn
+type: Pericope
 pericope: "[[Exod.13.1 The Dedication of the Firstborn|The Dedication of the Firstborn]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 13
 book/chapter: "[[Exod.13|Exodus 13]]"
-genre:
+chronological_order: 105
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 16
 verses:
 - "[[Exod.13.1]]"
 - "[[Exod.13.2]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Exod.13.16]]"
 ---
 
-[[Exod.13|Exodus 13:1 - Exodus 13:16]]
+<small>[[Exod.13|Exodus 13:1-16]]</small>
 *The Dedication of the Firstborn*
 
 [[Exod.13.1|1]] And the LORD spake unto Moses, saying,

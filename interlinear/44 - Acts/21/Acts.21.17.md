@@ -1,10 +1,50 @@
+---
+title: Acts 21:17
+type: Verse
+kjv: "And when we were come to Jerusalem, the brethren received us gladly."
+bsb: "When we arrived in Jerusalem, the brothers welcomed us joyfully."
+greek: "Γενομένων δὲ ἡμῶν εἰς Ἱεροσόλυμα ἀσμένως ἀπεδέξαντο ἡμᾶς οἱ ἀδελφοί."
+pericope: "[[Acts.21.17 Paul’s Arrival at Jerusalem|Paul’s Arrival at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 21
+book/chapter: "[[Acts.21|Acts 21]]"
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic LUKE|LUKE]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G3165]]"
+- "[[G1519]]"
+- "[[G2414]]"
+- "[[G0780]]"
+- "[[G0588]]"
+- "[[G3588]]"
+- "[[G0080]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 21:17**<big><big>[[Acts.21.17 Paul’s Arrival at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when we were come to Jerusalem, the brethren received us gladly.
 <small><sub>**BSB:**</sub></small>
 When we arrived in Jerusalem, the brothers welcomed us joyfully.
-<small><sub>**Literal:**</sub></small>
-Having arrived now we at Jerusalem gladly received us the brothers.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.16|<< Acts 21:16]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.18|Acts 21:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Γενομένων]]  [[G1161\|δὲ]]  [[G3165\|ἡμῶν]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα]]  [[G0780\|ἀσμένως]]  [[G0588\|ἀπεδέξαντο]]  [[G3165\|ἡμᾶς]]  [[G3588\|οἱ]]  [[G0080\|ἀδελφοί.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LUKE|LUKE]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.16|<< Acts 21:16]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.18|Acts 21:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

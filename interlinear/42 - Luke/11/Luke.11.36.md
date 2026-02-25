@@ -1,10 +1,65 @@
+---
+title: Luke 11:36
+type: Verse
+kjv: "If thy whole body therefore be full of light, having no part dark, the whole shall be full of light, as when the bright shining of a candle doth give thee light."
+bsb: "So if your whole body is full of light, with no part of it in darkness, you will be radiant, as though a lamp were shining on you.”"
+jesus_said: "If thy whole body therefore be full of light, having no part dark, the whole shall be full of light, as when the bright shining of a candle doth give thee light."
+greek: "εἰ οὖν τὸ σῶμά σου ὅλον φωτεινὸν μὴ ἔχον μέρος τι σκοτεινόν, ἔσται φωτεινὸν ὅλον, ὡς ὅταν ὁ λύχνος τῇ ἀστραπῇ φωτίζῃ σε.¶"
+pericope: "[[Luke.11.33 The Lamp of the Body|The Lamp of the Body]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G1487G]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G4983]]"
+- "[[G4771]]"
+- "[[G3650]]"
+- "[[G5460]]"
+- "[[G3361]]"
+- "[[G2192]]"
+- "[[G3313]]"
+- "[[G5100]]"
+- "[[G4652]]"
+- "[[G1510]]"
+- "[[G5613]]"
+- "[[G3752]]"
+- "[[G3088]]"
+- "[[G0796]]"
+- "[[G5461]]"
+texts:
+- NKO
+---
+
 **Luke 11:36**<big><big>[[Luke.11.33 The Lamp of the Body|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If thy whole body therefore [be] full of light, having no part dark, the whole shall be full of light, as when the bright shining of a candle doth give thee light.
 <small><sub>**BSB:**</sub></small>
 So if your whole body is full of light, with no part of it in darkness, you will be radiant, as though a lamp were shining on you.”
-<small><sub>**Literal:**</sub></small>
-If therefore the body of you [is] full of light not having part any dark, it will be light all, as when the lamp so the shining may light you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.35|<< Luke 11:35]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.37|Luke 11:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G3767\|οὖν]]  [[G3588\|τὸ]]  [[G4983\|σῶμά]]  [[G4771\|σου]]  [[G3650\|ὅλον]]  [[G5460\|φωτεινὸν]]  [[G3361\|μὴ]]  [[G2192\|ἔχον]]  [[G3313\|μέρος]]  [[G5100\|τι]]  [[G4652\|σκοτεινόν,]]  [[G1510\|ἔσται]]  [[G5460\|φωτεινὸν]]  [[G3650\|ὅλον,]]  [[G5613\|ὡς]]  [[G3752\|ὅταν]]  [[G3588\|ὁ]]  [[G3088\|λύχνος]]  [[G3588\|τῇ]]  [[G0796\|ἀστραπῇ]]  [[G5461\|φωτίζῃ]]  [[G4771\|σε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic INFLUENCE|INFLUENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.35|<< Luke 11:35]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.37|Luke 11:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,63 @@
+---
+title: Matthew 10:2
+type: Verse
+kjv: "Now the names of the twelve apostles are these; The first, Simon, who is called Peter, and Andrew his brother; James the son of Zebedee, and John his brother;"
+bsb: "These are the names of the twelve apostles: first Simon, called Peter, and his brother Andrew; James son of Zebedee, and his brother John;"
+greek: "Τῶν δὲ δώδεκα ἀποστόλων τὰ ὀνόματά ἐστιν ταῦτα·¶ Πρῶτος Σίμων ὁ λεγόμενος Πέτρος καὶ Ἀνδρέας ὁ ἀδελφὸς αὐτοῦ, καὶ Ἰάκωβος ὁ τοῦ Ζεβεδαίου καὶ Ἰωάννης ὁ ἀδελφὸς αὐτοῦ,"
+pericope: "[[Matt.10.1 The Twelve Apostles|The Twelve Apostles]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 10
+book/chapter: "[[Matt.10|Matthew 10]]"
+chronological_order: 954
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANDREW|ANDREW]]"
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1427]]"
+- "[[G0652]]"
+- "[[G3686]]"
+- "[[G1510]]"
+- "[[G3778]]"
+- "[[G4413G]]"
+- "[[G4613O]]"
+- "[[G3004H]]"
+- "[[G4074G]]"
+- "[[G2532]]"
+- "[[G0406]]"
+- "[[G0080]]"
+- "[[G0846]]"
+- "[[G2385G]]"
+- "[[G2199G]]"
+- "[[G2491H]]"
+texts:
+- NKO
+- no
+---
+
 **Matthew 10:2**<big><big>[[Matt.10.1 The Twelve Apostles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now the names of the twelve apostles are these; The first, Simon, who is called Peter, and Andrew his brother; James [the son] of Zebedee, and John his brother;
 <small><sub>**BSB:**</sub></small>
 These are the names of the twelve apostles: first Simon, called Peter, and his brother Andrew; James son of Zebedee, and his brother John;
-<small><sub>**Literal:**</sub></small>
-<the> And of the twelve apostles the names are these: first Simon who is being named Peter and Andrew the brother of him, and James the [son] <the> of Zebedee and John the brother of him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.1|<< Matthew 10:1]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.3|Matthew 10:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τῶν]]  [[G1161\|δὲ]]  [[G1427\|δώδεκα]]  [[G0652\|ἀποστόλων]]  [[G3588\|τὰ]]  [[G3686\|ὀνόματά]]  [[G1510\|ἐστιν]]  [[G3778\|ταῦτα·¶]]  [[G4413G\|Πρῶτος]]  [[G4613O\|Σίμων]]  [[G3588\|ὁ]]  [[G3004H\|λεγόμενος]]  [[G4074G\|Πέτρος]]  [[G2532\|καὶ]]  [[G0406\|Ἀνδρέας]]  [[G3588\|ὁ]]  [[G0080\|ἀδελφὸς]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G2385G\|Ἰάκωβος]]  [[G3588\|ὁ]]  [[G3588\|τοῦ]]  [[G2199G\|Ζεβεδαίου]]  [[G2532\|καὶ]]  [[G2491H\|Ἰωάννης]]  [[G3588\|ὁ]]  [[G0080\|ἀδελφὸς]]  [[G0846\|αὐτοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANDREW|ANDREW]] • [[topic APOSTLES|APOSTLES]] • [[topic JAMES|JAMES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.1|<< Matthew 10:1]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.3|Matthew 10:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

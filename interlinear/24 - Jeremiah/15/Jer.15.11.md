@@ -1,8 +1,66 @@
+---
+title: Jeremiah 15:11
+type: Verse
+kjv: "The LORD said, Verily it shall be well with thy remnant; verily I will cause the enemy to entreat thee well in the time of evil and in the time of affliction."
+bsb: "The LORD said: “Surely I will deliver you for a good purpose; surely I will intercede with your enemy in your time of trouble, in your time of distress."
+hebrew: "אָמַ֣ר יְהוָ֔ה אִם־ לֹ֥א שֵֽׁרִיתִ֖יךָ לְט֑וֹב אִם־ ל֣וֹא׀ הִפְגַּ֣עְתִּֽי בְךָ֗ בְּעֵ֥ת־ רָעָ֛ה וּבְעֵ֥ת צָרָ֖ה אֶת־ הָאֹיֵֽב׃"
+pericope: "[[Jer.15.10 Jeremiah’s Woe|Jeremiah’s Woe]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 15
+book/chapter: "[[Jer.15|Jeremiah 15]]"
+chronological_order: 732
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0518I]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H8323B]]"
+- "[[H9031]]"
+- "[[H8281]]"
+- "[[H9005]]"
+- "[[H2896B]]"
+- "[[H0518H]]"
+- "[[H9015]]"
+- "[[H6293]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H7451A]]"
+- "[[H9002]]"
+- "[[H6869B]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0341]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 15:11**<big><big>[[Jer.15.10 Jeremiah’s Woe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD said, Verily it shall be well with thy remnant; verily I will cause the enemy to entreat thee [well] in the time of evil and in the time of affliction.
 <small><sub>**BSB:**</sub></small>
 The LORD said: “Surely I will deliver you for a good purpose; surely I will intercede with your enemy in your time of trouble, in your time of distress.
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H0518I\|אִם]][[H9014\|־]] [[H3808\|לֹ֥א]] [[H8281\|שֵֽׁרִיתִ֖י]][[H9031\|ךָ]] [[H9005\|לְ]][[H2896B\|ט֑וֹב]] [[H0518H\|אִם]][[H9014\|־]] [[H3808\|ל֣וֹא]][[H9015\|׀]] [[H6293\|הִפְגַּ֣עְתִּֽי]] [[H9003\|בְ]][[H9031\|ךָ֗]] [[H9003\|בְּ]][[H6256\|עֵ֥ת]][[H9014\|־]] [[H7451A\|רָעָ֛ה]] [[H9002\|וּ]][[H9003\|בְ]][[H6256\|עֵ֥ת]] [[H6869B\|צָרָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0341\|אֹיֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.15.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.10|<< Jeremiah 15:10]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.12|Jeremiah 15:12 >>]]</td></tr></table>
 
@@ -26,7 +84,7 @@ The LORD said: “Surely I will deliver you for a good purpose; surely I will in
 | the enemy  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0341\|אֹיֵֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.Yev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.10|<< Jeremiah 15:10]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.12|Jeremiah 15:12 >>]]</td></tr></table>
 
-[^1]: I will strengthen you  | **<big>[[H9031|ךָ]]</big><big>[[H8323B|שָׁרוֹתִ]]</big> ** | sha.ro.ti.<small><sup>[[HVqp1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
-[^2]: I will strengthen you  | **<big>[[H9031|ךָ]]</big><big>[[H8323B|שָׁרוֹתִ]]</big> ** | sha.ro.ti.<small><sup>[[HVqp1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^1]: I will strengthen you  | **<big>[[H8323B|שָׁרוֹתִ]]</big><big>[[H9031|ךָ]]</big> ** | sha.ro.ti.<small><sup>[[HVqp1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: I will strengthen you  | **<big>[[H8323B|שָׁרוֹתִ]]</big><big>[[H9031|ךָ]]</big> ** | sha.ro.ti.<small><sup>[[HVqp1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>שֵֽׁרִותִ֖ךָ</big></span>**
 

@@ -1,8 +1,56 @@
+---
+title: 1 Chronicles 6:55
+type: Verse
+kjv: "And they gave them Hebron in the land of Judah, and the suburbs thereof round about it."
+bsb: "They were given Hebron in the land of Judah and its surrounding pasturelands."
+hebrew: "וַֽיִּתְּנ֥וּ לָהֶ֛ם אֶת־ חֶבְר֖וֹן בְּאֶ֣רֶץ יְהוּדָ֑ה וְאֶת־ מִגְרָשֶׁ֖יהָ סְבִיבֹתֶֽיהָ׃"
+pericope: "[[1Chr.6.54 Territories for the Levites|Territories for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 6
+book/chapter: "[[1Chr.6|1 Chronicles 6]]"
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2275A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H4054]]"
+- "[[H9024]]"
+- "[[H5439G]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 6:55**<big><big>[[1Chr.6.54 Territories for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they gave them Hebron in the land of Judah, and the suburbs thereof round about it.
 <small><sub>**BSB:**</sub></small>
 They were given Hebron in the land of Judah and its surrounding pasturelands.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H5414G\|יִּתְּנ֥וּ]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H0853\|אֶת]][[H9014\|־]] [[H2275A\|חֶבְר֖וֹן]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H3063G\|יְהוּדָ֑ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4054\|מִגְרָשֶׁ֖י]][[H9024\|הָ]] [[H5439G\|סְבִיבֹתֶֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.55|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.54|<< 1 Chronicles 6:54]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.56|1 Chronicles 6:56 >>]]</td></tr></table>
 

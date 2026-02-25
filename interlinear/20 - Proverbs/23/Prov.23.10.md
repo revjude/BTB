@@ -1,8 +1,52 @@
+---
+title: Proverbs 23:10
+type: Verse
+kjv: "Remove not the old landmark; and enter not into the fields of the fatherless:"
+bsb: "Do not move an ancient boundary stone or encroach on the fields of the fatherless,"
+hebrew: "אַל־ תַּ֭סֵּג גְּב֣וּל עוֹלָ֑ם וּבִשְׂדֵ֥י יְ֝תוֹמִ֗ים אַל־ תָּבֹֽא׃"
+pericope: "[[Prov.23.10 Saying 11|Saying 11]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 23
+book/chapter: "[[Prov.23|Proverbs 23]]"
+chronological_order: 478
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic LANDMARKS|LANDMARKS]]"
+- "[[topic ORPHAN|ORPHAN]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5253]]"
+- "[[H1366G]]"
+- "[[H5769J]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H3490]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 23:10**<big><big>[[Prov.23.10 Saying 11|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remove not the old landmark; and enter not into the fields of the fatherless:
 <small><sub>**BSB:**</sub></small>
 Do not move an ancient boundary stone or encroach on the fields of the fatherless,
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H5253\|תַּ֭סֵּג]] [[H1366G\|גְּב֣וּל]] [[H5769J\|עוֹלָ֑ם]] [[H9002\|וּ]][[H9003\|בִ]][[H7704G\|שְׂדֵ֥י]] [[H3490\|יְ֝תוֹמִ֗ים]] [[H0408\|אַל]][[H9014\|־]] [[H0935G\|תָּבֹֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LANDMARKS|LANDMARKS]] • [[topic ORPHAN|ORPHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.9|<< Proverbs 23:9]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.11|Proverbs 23:11 >>]]</td></tr></table>
 

@@ -1,6 +1,69 @@
+---
+title: LXX 2 Kings 7:13
+type: Verse
+lxx: "And answered one  of his servants, and said, Let them take indeed five of the horses, of the ones being left behind, which they left behind here. Behold, they are for all the multitude of Israel  faltering; for we will send there and see."
+greek: "και απεκρίθη εις των παίδων αυτού και είπε λαβέτωσαν δη πέντε των ίππων των υπολελειμμένων οι κατελείφθησαν ώδε ιδού εισί προς παν το πλήθος Ισραήλ το εκλείπον και αποστελούμεν εκεί και οψόμεθα"
+original_language: Greek
+testament: Old
+book: 2 Kings
+chapter: 7
+book/chapter: "[[2Kgs.7|2 Kings 7]]"
+chronological_order: 579
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[G2532]]"
+- "[[G0611]]"
+- "[[G1520]]"
+- "[[G3588]]"
+- "[[G3816]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G2983]]"
+- "[[G1211]]"
+- "[[G4002]]"
+- "[[G3588]]"
+- "[[G2462]]"
+- "[[G3588]]"
+- "[[G5275]]"
+- "[[G3739]]"
+- "[[G2641]]"
+- "[[G5602]]"
+- "[[G2400]]"
+- "[[G1510]]"
+- "[[G4314]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4128]]"
+- "[[G2474]]"
+- "[[G3588]]"
+- "[[G1587]]"
+- "[[G2532]]"
+- "[[G0649]]"
+- "[[G1563]]"
+- "[[G2532]]"
+- "[[G3708]]"
+---
+
 **LXX 2 Kings 7:13** 
 <small><sub>**LXX:**</sub></small>
 And answered one  of his servants, and said, Let them take indeed five of the horses, of the ones being left behind, which they left behind here. Behold, they are for all the multitude of Israel  faltering; for we will send there and see. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0611\|απεκρίθη]] [[G1520\|εις]] [[G3588\|των]] [[G3816\|παίδων]] [[G1473\|αυτού]] [[G2532\|και]] [[G2036\|είπε]] [[G2983\|λαβέτωσαν]] [[G1211\|δη]] [[G4002\|πέντε]] [[G3588\|των]] [[G2462\|ίππων]] [[G3588\|των]] [[G5275\|υπολελειμμένων]] [[G3739\|οι]] [[G2641\|κατελείφθησαν]] [[G5602\|ώδε]] [[G2400\|ιδού]] [[G1510\|εισί]] [[G4314\|προς]] [[G3956\|παν]] [[G3588\|το]] [[G4128\|πλήθος]] [[G2474\|Ισραήλ]] [[G3588\|το]] [[G1587\|εκλείπον]] [[G2532\|και]] [[G0649\|αποστελούμεν]] [[G1563\|εκεί]] [[G2532\|και]] [[G3708\|οψόμεθα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic PROPHECY|PROPHECY]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Kgs.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.7.12|<< 2 Kings 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.7.14|2 Kings 7:14 >>]]</td></tr></table>
 
@@ -37,6 +100,6 @@ And answered one  of his servants, and said, Let them take indeed five of the ho
 | there | **<big>[[G1563\|εκεί]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | see. | **<big>[[G3708\|οψόμεθα]]</big>** |
-[[2Kgs.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.7.12|<< 2 Kings 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.7.14|2 Kings 7:14 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.7.12|<< 2 Kings 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.7.14|2 Kings 7:14 >>]]</td></tr></table>
 
 

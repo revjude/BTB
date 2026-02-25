@@ -1,10 +1,67 @@
+---
+title: 1 Corinthians 7:39
+type: Verse
+kjv: "The wife is bound by the law as long as her husband liveth; but if her husband be dead, she is at liberty to be married to whom she will; only in the Lord."
+bsb: "A wife is bound to her husband as long as he lives. But if her husband dies, she is free to marry anyone she wishes, as long as he belongs to the Lord."
+greek: "Γυνὴ δέδεται νόμῳ ἐφ᾽ ὅσον χρόνον ζῇ ὁ ἀνὴρ αὐτῆς· ἐὰν δὲ καί κοιμηθῇ ὁ ἀνήρ αὐτῆς, ἐλευθέρα ἐστὶν ᾧ θέλει γαμηθῆναι, μόνον ἐν κυρίῳ."
+pericope: "[[1Cor.7.25 The Unmarried and Widowed|The Unmarried and Widowed]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 7
+book/chapter: "[[1Cor.7|1 Corinthians 7]]"
+chronological_order: 1064
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CELIBACY|CELIBACY]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic STOICISM|STOICISM]]"
+- "[[topic WIDOW|WIDOW]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[G1135H]]"
+- "[[G1210]]"
+- "[[G3551]]"
+- "[[G1909]]"
+- "[[G3745]]"
+- "[[G5550]]"
+- "[[G2198]]"
+- "[[G3588]]"
+- "[[G0435H]]"
+- "[[G0846]]"
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G2837]]"
+- "[[G1658]]"
+- "[[G1510]]"
+- "[[G3739]]"
+- "[[G2309]]"
+- "[[G1060]]"
+- "[[G3441]]"
+- "[[G1722]]"
+- "[[G2962G]]"
+texts:
+- NKO
+- K
+- o
+---
+
 **1 Corinthians 7:39**<big><big>[[1Cor.7.25 The Unmarried and Widowed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The wife is bound by the law as long as her husband liveth; but if her husband be dead, she is at liberty to be married to whom she will; only in the Lord.
 <small><sub>**BSB:**</sub></small>
 A wife is bound to her husband as long as he lives. But if her husband dies, she is free to marry anyone she wishes, as long as he belongs to the Lord.
-<small><sub>**Literal:**</sub></small>
-A wife has been bound to [the] law for as long as time may live the husband of her; if however and shall have died the husband of her free she is to whom she wills to be married, only in [the] Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.38|<< 1 Corinthians 7:38]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.40|1 Corinthians 7:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1135H\|Γυνὴ]]  [[G1210\|δέδεται]]  [[G3551\|νόμῳ]]  [[G1909\|ἐφ᾽]]  [[G3745\|ὅσον]]  [[G5550\|χρόνον]]  [[G2198\|ζῇ]]  [[G3588\|ὁ]]  [[G0435H\|ἀνὴρ]]  [[G0846\|αὐτῆς·]]  [[G1437\|ἐὰν]]  [[G1161\|δὲ]]  [[G2532\|καί]]  [[G2837\|κοιμηθῇ]]  [[G3588\|ὁ]]  [[G0435H\|ἀνήρ]]  [[G0846\|αὐτῆς,]]  [[G1658\|ἐλευθέρα]]  [[G1510\|ἐστὶν]]  [[G3739\|ᾧ]]  [[G2309\|θέλει]]  [[G1060\|γαμηθῆναι,]]  [[G3441\|μόνον]]  [[G1722\|ἐν]]  [[G2962G\|κυρίῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CELIBACY|CELIBACY]] • [[topic MARRIAGE|MARRIAGE]] • [[topic STOICISM|STOICISM]] • [[topic WIDOW|WIDOW]] • [[topic WIFE|WIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.38|<< 1 Corinthians 7:38]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.40|1 Corinthians 7:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,71 @@
+---
+title: Luke 19:27
+type: Verse
+kjv: "But those mine enemies, which would not that I should reign over them, bring hither, and slay them before me."
+bsb: "And these enemies of mine who were unwilling for me to rule over them, bring them here and slay them in front of me.’”"
+jesus_said: "But those mine enemies, which would not that I should reign over them, bring hither, and slay them before me."
+greek: "Πλὴν τοὺς ἐχθρούς μου τούτους τοὺς μὴ θελήσαντάς με βασιλεῦσαι ἐπ᾽ αὐτοὺς ἀγάγετε ὧδε καὶ κατασφάξατε αὐτοὺς ἔμπροσθέν μου.¶"
+pericope: "[[Luke.19.11 The Parable of the Ten Minas|The Parable of the Ten Minas]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic STEWARD|STEWARD]]"
+- "[[topic TRUSTEE|TRUSTEE]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G4133]]"
+- "[[G3588]]"
+- "[[G2190]]"
+- "[[G3165]]"
+- "[[G3778]]"
+- "[[G3361]]"
+- "[[G2309]]"
+- "[[G0936]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G0071]]"
+- "[[G5602]]"
+- "[[G2532]]"
+- "[[G2695]]"
+- "[[G1715]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 19:27**<big><big>[[Luke.19.11 The Parable of the Ten Minas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But those mine enemies, which would not that I should reign over them, bring hither, and slay [them] before me.
 <small><sub>**BSB:**</sub></small>
 And these enemies of mine who were unwilling for me to rule over them, bring them here and slay them in front of me.’”
-<small><sub>**Literal:**</sub></small>
-Furthermore the enemies of mine these those not having been willing [for] me to reign over them do bring here and do slay them before me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.26|<< Luke 19:26]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.28|Luke 19:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4133\|Πλὴν]]  [[G3588\|τοὺς]]  [[G2190\|ἐχθρούς]]  [[G3165\|μου]]  [[G3778\|τούτους]]  [[G3588\|τοὺς]]  [[G3361\|μὴ]]  [[G2309\|θελήσαντάς]]  [[G3165\|με]]  [[G0936\|βασιλεῦσαι]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτοὺς]]  [[G0071\|ἀγάγετε]]  [[G5602\|ὧδε]]  [[G2532\|καὶ]]  [[G2695\|κατασφάξατε]]  [[G0846\|αὐτοὺς]]  [[G1715\|ἔμπροσθέν]]  [[G3165\|μου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic INFIDELITY|INFIDELITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PROBATION|PROBATION]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic STEWARD|STEWARD]] • [[topic TRUSTEE|TRUSTEE]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.26|<< Luke 19:26]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.28|Luke 19:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

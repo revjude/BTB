@@ -1,10 +1,73 @@
+---
+title: Revelation 12:10
+type: Verse
+kjv: "And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night."
+bsb: "And I heard a loud voice in heaven saying: “Now have come the salvation and the power and the kingdom of our God, and the authority of His Christ. For the accuser of our brothers has been thrown down—he who accuses them day and night before our God."
+greek: "καὶ ἤκουσα φωνὴν μεγάλην ἐν τῷ οὐρανῷ λέγουσαν· ἄρτι ἐγένετο ἡ σωτηρία καὶ ἡ δύναμις καὶ ἡ βασιλεία τοῦ θεοῦ ἡμῶν, καὶ ἡ ἐξουσία τοῦ χριστοῦ αὐτοῦ, ὅτι ἐβλήθη ὁ κατήγωρ τῶν ἀδελφῶν ἡμῶν ὁ κατηγορῶν αὐτοὺς ἐνώπιον τοῦ θεοῦ ἡμῶν ἡμέρας καὶ νυκτός."
+pericope: "[[Rev.12.7 The War in Heaven|The War in Heaven]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 12
+book/chapter: "[[Rev.12|Revelation 12]]"
+chronological_order: 1179
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G5456G]]"
+- "[[G3173]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G3004G]]"
+- "[[G0737]]"
+- "[[G1096]]"
+- "[[G4991]]"
+- "[[G1411]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G3165]]"
+- "[[G1849]]"
+- "[[G5547]]"
+- "[[G0846]]"
+- "[[G3754H]]"
+- "[[G0906G]]"
+- "[[G6051]]"
+- "[[G0080]]"
+- "[[G2723]]"
+- "[[G1799]]"
+- "[[G2250]]"
+- "[[G3571]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 12:10**<big><big>[[Rev.12.7 The War in Heaven|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night.
 <small><sub>**BSB:**</sub></small>
 And I heard a loud voice in heaven saying: “Now have come the salvation and the power and the kingdom of our God, and the authority of His Christ. For the accuser of our brothers has been thrown down—he who accuses them day and night before our God.
-<small><sub>**Literal:**</sub></small>
-And I heard a voice great in <the> heaven saying: Now have come the salvation and the power and the kingdom of the God of us, and the authority of the Christ of Him, because has been cast down the accuser of the brothers of us who is accusing them before the God of us day and night.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.9|<< Revelation 12:9]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.11|Revelation 12:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0191\|ἤκουσα]]  [[G5456G\|φωνὴν]]  [[G3173\|μεγάλην]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3772\|οὐρανῷ]]  [[G3004G\|λέγουσαν·]]  [[G0737\|ἄρτι]]  [[G1096\|ἐγένετο]]  [[G3588\|ἡ]]  [[G4991\|σωτηρία]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1411\|δύναμις]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3165\|ἡμῶν,]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1849\|ἐξουσία]]  [[G3588\|τοῦ]]  [[G5547\|χριστοῦ]]  [[G0846\|αὐτοῦ,]]  [[G3754H\|ὅτι]]  [[G0906G\|ἐβλήθη]]  [[G3588\|ὁ]]  [[G6051\|κατήγωρ]]  [[G3588\|τῶν]]  [[G0080\|ἀδελφῶν]]  [[G3165\|ἡμῶν]]  [[G3588\|ὁ]]  [[G2723\|κατηγορῶν]]  [[G0846\|αὐτοὺς]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3165\|ἡμῶν]]  [[G2250\|ἡμέρας]]  [[G2532\|καὶ]]  [[G3571\|νυκτός.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SATAN|SATAN]] • [[topic SLANDER|SLANDER]] • [[topic TEMPTATION|TEMPTATION]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.9|<< Revelation 12:9]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.11|Revelation 12:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

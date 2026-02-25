@@ -1,10 +1,61 @@
+---
+title: John 19:14
+type: Verse
+kjv: "And it was the preparation of the passover, and about the sixth hour: and he saith unto the Jews, Behold your King!"
+bsb: "It was the day of Preparation for the Passover, about the sixth hour. And Pilate said to the Jews, “Here is your King!”"
+greek: "ἦν δὲ παρασκευὴ τοῦ πάσχα, ὥρα ἦν ὡς ἕκτη. καὶ λέγει τοῖς Ἰουδαίοις· ἴδε ὁ βασιλεὺς ὑμῶν."
+pericope: "[[John.19.1 The Soldiers Mock Jesus|The Soldiers Mock Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COMPLICITY|COMPLICITY]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic DAY|DAY]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic PREPARATION DAY|PREPARATION DAY]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G3904]]"
+- "[[G3588]]"
+- "[[G3957]]"
+- "[[G5610]]"
+- "[[G5613]]"
+- "[[G1623]]"
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G2453]]"
+- "[[G2396]]"
+- "[[G0935]]"
+- "[[G4771]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 19:14**<big><big>[[John.19.1 The Soldiers Mock Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it was the preparation of the passover, and about the sixth hour: and he saith unto the Jews, Behold your King!
 <small><sub>**BSB:**</sub></small>
 It was the day of Preparation for the Passover, about the sixth hour. And Pilate said to the Jews, “Here is your King!”
-<small><sub>**Literal:**</sub></small>
-It was now [the] Day of Preparation of the Passover, [the] hour was about [the] sixth. And he says to the Jews; Behold the king of you!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.13|<< John 19:13]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.15|John 19:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦν]]  [[G1161\|δὲ]]  [[G3904\|παρασκευὴ]]  [[G3588\|τοῦ]]  [[G3957\|πάσχα,]]  [[G5610\|ὥρα]]  [[G1510\|ἦν]]  [[G5613\|ὡς]]  [[G1623\|ἕκτη.]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G3588\|τοῖς]]  [[G2453\|Ἰουδαίοις·]]  [[G2396\|ἴδε]]  [[G3588\|ὁ]]  [[G0935\|βασιλεὺς]]  [[G4771\|ὑμῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPLICITY|COMPLICITY]] • [[topic COWARDICE|COWARDICE]] • [[topic DAY|DAY]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic PREPARATION DAY|PREPARATION DAY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.13|<< John 19:13]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.15|John 19:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

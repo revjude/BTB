@@ -1,8 +1,68 @@
+---
+title: Daniel 6:18
+type: Verse
+kjv: "Then the king went to his palace, and passed the night fasting: neither were instruments of musick brought before him: and his sleep went from him."
+bsb: "Then the king went to his palace and spent the night fasting. No entertainment was brought before him, and sleep fled from him."
+aramaic: "אֱ֠דַיִן אֲזַ֨ל מַלְכָּ֤א לְהֵֽיכְלֵהּ֙ וּבָ֣ת טְוָ֔ת וְדַחֲוָ֖ן לָא־ הַנְעֵ֣ל קָֽדָמ֑וֹהִי וְשִׁנְתֵּ֖הּ נַדַּ֥ת עֲלֽוֹהִי׃"
+pericope: "[[Dan.6.10 Daniel in the Lions’ Den|Daniel in the Lions’ Den]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 6
+book/chapter: "[[Dan.6|Daniel 6]]"
+chronological_order: 791
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FASTING|FASTING]]"
+- "[[topic INSOMNIA|INSOMNIA]]"
+- "[[topic LION|LION]]"
+- "[[topic PALACE|PALACE]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H0116]]"
+- "[[H0236]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H9005]]"
+- "[[H1965H]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0956]]"
+- "[[H2908]]"
+- "[[H1761]]"
+- "[[H3809]]"
+- "[[H9014]]"
+- "[[H5954]]"
+- "[[H6925]]"
+- "[[H9033]]"
+- "[[H8139]]"
+- "[[H5075]]"
+- "[[H5922]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 6:18**<big><big>[[Dan.6.10 Daniel in the Lions’ Den|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king went to his palace, and passed the night fasting: neither were instruments of musick brought before him: and his sleep went from him.
 <small><sub>**BSB:**</sub></small>
 Then the king went to his palace and spent the night fasting. No entertainment was brought before him, and sleep fled from him.
+<small><sub>**Aramaic:**</sub></small>
+[[H0116\|אֱ֠דַיִן]] [[H0236\|אֲזַ֨ל]] [[H4430\|מַלְכָּ֤]][[H9010\|א]] [[H9005\|לְ]][[H1965H\|הֵֽיכְלֵ]][[H9023\|הּ֙]] [[H9002\|וּ]][[H0956\|בָ֣ת]] [[H2908\|טְוָ֔ת]] [[H9002\|וְ]][[H1761\|דַחֲוָ֖ן]] [[H3809\|לָא]][[H9014\|־]] [[H5954\|הַנְעֵ֣ל]] [[H6925\|קָֽדָמ֑וֹ]][[H9033\|הִי]] [[H9002\|וְ]][[H8139\|שִׁנְתֵּ֖]][[H9023\|הּ]] [[H5075\|נַדַּ֥ת]] [[H5922\|עֲלֽוֹ]][[H9033\|הִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVICTION|CONVICTION]] • [[topic DANIEL|DANIEL]] • [[topic FAITH|FAITH]] • [[topic FASTING|FASTING]] • [[topic INSOMNIA|INSOMNIA]] • [[topic LION|LION]] • [[topic PALACE|PALACE]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.17|<< Daniel 6:17]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.19|Daniel 6:19 >>]]</td></tr></table>
 

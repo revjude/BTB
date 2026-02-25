@@ -1,8 +1,54 @@
+---
+title: Psalm 46:8
+type: Verse
+kjv: "Come, behold the works of the LORD, what desolations he hath made in the earth."
+bsb: "Come, see the works of the LORD, who brings devastation upon the earth."
+hebrew: "לְֽכוּ־ חֲ֭זוּ מִפְעֲל֣וֹת יְהוָ֑ה אֲשֶׁר־ שָׂ֖ם שַׁמּ֣וֹת בָּאָֽרֶץ׃"
+pericope: "[[Ps.46.1 God Is Our Refuge and Strength|God Is Our Refuge and Strength]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 46
+book/chapter: "[[Ps.46|Psalm 46]]"
+chronological_order: 501
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H1980K]]"
+- "[[H9014]]"
+- "[[H2372]]"
+- "[[H4659B]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H7760H]]"
+- "[[H8047G]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 46:8**<big><big>[[Ps.46.1 God Is Our Refuge and Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come, behold the works of the LORD, what desolations he hath made in the earth.
 <small><sub>**BSB:**</sub></small>
 Come, see the works of the LORD, who brings devastation upon the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H1980K\|לְֽכוּ]][[H9014\|־]] [[H2372\|חֲ֭זוּ]] [[H4659B\|מִפְעֲל֣וֹת]] [[H3068G\|יְהוָ֑ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7760H\|שָׂ֖ם]] [[H8047G\|שַׁמּ֣וֹת]] [[H9003\|בָּ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.46.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.46.7|<< Psalms 46:7]]</td><td align="center" style="border:none;">[[Ps.46|Psalms 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.46.9|Psalms 46:9 >>]]</td></tr></table>
 

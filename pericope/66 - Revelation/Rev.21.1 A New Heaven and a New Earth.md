@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A New Heaven and a New Earth
+type: Pericope
 pericope: "[[Rev.21.1 A New Heaven and a New Earth|A New Heaven and a New Earth]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 21
 book/chapter: "[[Rev.21|Revelation 21]]"
-genre:
+chronological_order: 1188
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 8
 verses:
 - "[[Rev.21.1]]"
 - "[[Rev.21.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Rev.21.8]]"
 ---
 
-[[Rev.21|Revelation 21:1 - Revelation 21:8]]
+<small>[[Rev.21|Revelation 21:1-8]]</small>
 *A New Heaven and a New Earth*
 
 [[Rev.21.1|1]] And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea.

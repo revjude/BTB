@@ -1,8 +1,57 @@
+---
+title: Judges 17:13
+type: Verse
+kjv: "Then said Micah, Now know I that the LORD will do me good, seeing I have a Levite to my priest."
+bsb: "Then Micah said, “Now I know that the LORD will be good to me, because a Levite has become my priest.”"
+hebrew: "וַיֹּ֣אמֶר מִיכָ֔ה עַתָּ֣ה יָדַ֔עְתִּי כִּֽי־ יֵיטִ֥יב יְהוָ֖ה לִ֑י כִּ֧י הָיָה־ לִ֛י הַלֵּוִ֖י לְכֹהֵֽן׃"
+pericope: "[[Judg.17.1 Micah’s Idolatry|Micah’s Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 17
+book/chapter: "[[Judg.17|Judges 17]]"
+chronological_order: 271
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4318G]]"
+- "[[H6258]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3190]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H3548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 17:13**<big><big>[[Judg.17.1 Micah’s Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Micah, Now know I that the LORD will do me good, seeing I have a Levite to [my] priest.
 <small><sub>**BSB:**</sub></small>
 Then Micah said, “Now I know that the LORD will be good to me, because a Levite has become my priest.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H4318G\|מִיכָ֔ה]] [[H6258\|עַתָּ֣ה]] [[H3045\|יָדַ֔עְתִּי]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3190\|יֵיטִ֥יב]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לִ֑]][[H9030\|י]] [[H3588A\|כִּ֧י]] [[H1961\|הָיָה]][[H9014\|־]] [[H9005\|לִ֛]][[H9030\|י]] [[H9009\|הַ]][[H3881\|לֵּוִ֖י]] [[H9005\|לְ]][[H3548\|כֹהֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONATHAN|JONATHAN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.17.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.17.12|<< Judges 17:12]]</td><td align="center" style="border:none;">[[Judg.17|Judges 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.1|Judges 18:1 >>]]</td></tr></table>
 

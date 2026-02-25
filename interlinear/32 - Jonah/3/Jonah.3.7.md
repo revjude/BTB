@@ -1,8 +1,74 @@
+---
+title: Jonah 3:7
+type: Verse
+kjv: "And he caused it to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water:"
+bsb: "Then he issued a proclamation in Nineveh: “By the decree of the king and his nobles: Let no man or beast, herd or flock, taste anything at all. They must not eat or drink."
+hebrew: "וַיַּזְעֵ֗ק וַיֹּ֙אמֶר֙ בְּנִֽינְוֵ֔ה מִטַּ֧עַם הַמֶּ֛לֶךְ וּגְדֹלָ֖יו לֵאמֹ֑ר הָאָדָ֨ם וְהַבְּהֵמָ֜ה הַבָּקָ֣ר וְהַצֹּ֗אן אַֽל־ יִטְעֲמוּ֙ מְא֔וּמָה אַ֨ל־ יִרְע֔וּ וּמַ֖יִם אַל־ יִשְׁתּֽוּ׃"
+pericope: "[[Jonah.3.1 The Ninevites Repent|The Ninevites Repent]]"
+original_language: Hebrew
+testament: Old
+book: Jonah
+chapter: 3
+book/chapter: "[[Jonah.3|Jonah 3]]"
+chronological_order: 596
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic FASTING|FASTING]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MISSIONS|MISSIONS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H2199]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H5210]]"
+- "[[H9006]]"
+- "[[H2940]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H1419A]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H0120G]]"
+- "[[H0929]]"
+- "[[H1241]]"
+- "[[H6629G]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H2938]]"
+- "[[H3972]]"
+- "[[H7462B]]"
+- "[[H4325G]]"
+- "[[H8354]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jonah 3:7**<big><big>[[Jonah.3.1 The Ninevites Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he caused [it] to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water:
 <small><sub>**BSB:**</sub></small>
 Then he issued a proclamation in Nineveh: “By the decree of the king and his nobles: Let no man or beast, herd or flock, taste anything at all. They must not eat or drink.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2199\|יַּזְעֵ֗ק]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H9003\|בְּ]][[H5210\|נִֽינְוֵ֔ה]] [[H9006\|מִ]][[H2940\|טַּ֧עַם]] [[H9009\|הַ]][[H4428G\|מֶּ֛לֶךְ]] [[H9002\|וּ]][[H1419A\|גְדֹלָ֖י]][[H9023\|ו]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H9009\|הָ]][[H0120G\|אָדָ֨ם]] [[H9002\|וְ]][[H9009\|הַ]][[H0929\|בְּהֵמָ֜ה]] [[H9009\|הַ]][[H1241\|בָּקָ֣ר]] [[H9002\|וְ]][[H9009\|הַ]][[H6629G\|צֹּ֗אן]] [[H0408\|אַֽל]][[H9014\|־]] [[H2938\|יִטְעֲמוּ֙]] [[H3972\|מְא֔וּמָה]] [[H0408\|אַ֨ל]][[H9014\|־]] [[H7462B\|יִרְע֔וּ]] [[H9002\|וּ]][[H4325G\|מַ֖יִם]] [[H0408\|אַל]][[H9014\|־]] [[H8354\|יִשְׁתּֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FASTING|FASTING]] • [[topic HEATHEN|HEATHEN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MISSIONS|MISSIONS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic ORATOR|ORATOR]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REVIVALS|REVIVALS]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.3.6|<< Jonah 3:6]]</td><td align="center" style="border:none;">[[Jonah.3|Jonah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.3.8|Jonah 3:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

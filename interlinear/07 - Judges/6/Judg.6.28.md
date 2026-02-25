@@ -1,8 +1,72 @@
+---
+title: Judges 6:28
+type: Verse
+kjv: "And when the men of the city arose early in the morning, behold, the altar of Baal was cast down, and the grove was cut down that was by it, and the second bullock was offered upon the altar that was built."
+bsb: "When the men of the city got up in the morning, there was Baal’s altar torn down, with the Asherah pole cut down beside it and the second bull offered up on the newly built altar."
+hebrew: "וַיַּשְׁכִּ֜ימוּ אַנְשֵׁ֤י הָעִיר֙ בַּבֹּ֔קֶר וְהִנֵּ֤ה נֻתַּץ֙ מִזְבַּ֣ח הַבַּ֔עַל וְהָאֲשֵׁרָ֥ה אֲשֶׁר־ עָלָ֖יו כֹּרָ֑תָה וְאֵת֙ הַפָּ֣ר הַשֵּׁנִ֔י הֹֽעֲלָ֔ה עַל־ הַמִּזְבֵּ֖חַ הַבָּנֽוּי׃"
+pericope: "[[Judg.6.25 Gideon Destroys Baal’s Altar|Gideon Destroys Baal’s Altar]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 6
+book/chapter: "[[Judg.6|Judges 6]]"
+chronological_order: 260
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BAAL|BAAL]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic GROVES|GROVES]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7925]]"
+- "[[H0582]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H5422]]"
+- "[[H4196]]"
+- "[[H1168A]]"
+- "[[H0842]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H3772G]]"
+- "[[H0853]]"
+- "[[H6499]]"
+- "[[H8145]]"
+- "[[H5927I]]"
+- "[[H1129]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 6:28**<big><big>[[Judg.6.25 Gideon Destroys Baal’s Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the men of the city arose early in the morning, behold, the altar of Baal was cast down, and the grove was cut down that [was] by it, and the second bullock was offered upon the altar [that was] built.
 <small><sub>**BSB:**</sub></small>
 When the men of the city got up in the morning, there was Baal’s altar torn down, with the Asherah pole cut down beside it and the second bull offered up on the newly built altar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7925\|יַּשְׁכִּ֜ימוּ]] [[H0582\|אַנְשֵׁ֤י]] [[H9009\|הָ]][[H5892B\|עִיר֙]] [[H9003\|בַּ]][[H1242\|בֹּ֔קֶר]] [[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H5422\|נֻתַּץ֙]] [[H4196\|מִזְבַּ֣ח]] [[H9009\|הַ]][[H1168A\|בַּ֔עַל]] [[H9002\|וְ]][[H9009\|הָ]][[H0842\|אֲשֵׁרָ֥ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H3772G\|כֹּרָ֑תָה]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H9009\|הַ]][[H6499\|פָּ֣ר]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֔י]] [[H5927I\|הֹֽעֲלָ֔ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֖חַ]] [[H9009\|הַ]][[H1129\|בָּנֽוּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL|BAAL]] • [[topic COURAGE|COURAGE]] • [[topic DECISION|DECISION]] • [[topic GROVES|GROVES]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic JUDGE|JUDGE]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PERSECUTION|PERSECUTION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.27|<< Judges 6:27]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.29|Judges 6:29 >>]]</td></tr></table>
 

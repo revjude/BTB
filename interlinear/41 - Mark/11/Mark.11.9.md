@@ -1,10 +1,58 @@
+---
+title: Mark 11:9
+type: Verse
+kjv: "And they that went before, and they that followed, cried, saying, Hosanna; Blessed is he that cometh in the name of the Lord:"
+bsb: "The ones who went ahead and those who followed were shouting: “Hosanna!” “Blessed is He who comes in the name of the Lord!”"
+greek: "καὶ οἱ προάγοντες καὶ οἱ ἀκολουθοῦντες ἔκραζον λέγοντες· ὡσαννά, εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου,"
+pericope: "[[Mark.11.1 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 11
+book/chapter: "[[Mark.11|Mark 11]]"
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BETHANY|BETHANY]]"
+- "[[topic HOSANNA|HOSANNA]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4254]]"
+- "[[G0190]]"
+- "[[G2896]]"
+- "[[G3004G]]"
+- "[[G5614]]"
+- "[[G2127]]"
+- "[[G2064]]"
+- "[[G1722]]"
+- "[[G3686]]"
+- "[[G2962G]]"
+texts:
+- NKO
+- k
+---
+
 **Mark 11:9**<big><big>[[Mark.11.1 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they that went before, and they that followed, cried, saying, Hosanna; Blessed [is] he that cometh in the name of the Lord:
 <small><sub>**BSB:**</sub></small>
 The ones who went ahead and those who followed were shouting: “Hosanna!” “Blessed is He who comes in the name of the Lord!”
-<small><sub>**Literal:**</sub></small>
-And those going before and those following were crying out saying: Hosanna! Blessed [is] the [One] coming in [the] name of [the] Lord!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.8|<< Mark 11:8]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.10|Mark 11:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4254\|προάγοντες]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0190\|ἀκολουθοῦντες]]  [[G2896\|ἔκραζον]]  [[G3004G\|λέγοντες·]]  [[G5614\|ὡσαννά,]]  [[G2127\|εὐλογημένος]]  [[G3588\|ὁ]]  [[G2064\|ἐρχόμενος]]  [[G1722\|ἐν]]  [[G3686\|ὀνόματι]]  [[G2962G\|κυρίου,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHANY|BETHANY]] • [[topic HOSANNA|HOSANNA]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.8|<< Mark 11:8]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.10|Mark 11:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 11:9** is...
 > $\quad$ referencing: [[LXX.Ps.118.25|Ps 118:25-26]]

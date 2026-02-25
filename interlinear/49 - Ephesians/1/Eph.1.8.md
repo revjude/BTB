@@ -1,10 +1,52 @@
+---
+title: Ephesians 1:8
+type: Verse
+kjv: "Wherein he hath abounded toward us in all wisdom and prudence;"
+bsb: "that He lavished on us with all wisdom and understanding."
+greek: "ἧς ἐπερίσσευσεν εἰς ἡμᾶς ἐν πάσῃ σοφίᾳ καὶ φρονήσει"
+pericope: "[[Eph.1.3 Spiritual Blessings|Spiritual Blessings]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 1
+book/chapter: "[[Eph.1|Ephesians 1]]"
+chronological_order: 1111
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G3739]]"
+- "[[G4052]]"
+- "[[G1519]]"
+- "[[G3165]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G4678]]"
+- "[[G2532]]"
+- "[[G5428]]"
+texts:
+- NKO
+---
+
 **Ephesians 1:8**<big><big>[[Eph.1.3 Spiritual Blessings|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherein he hath abounded toward us in all wisdom and prudence;
 <small><sub>**BSB:**</sub></small>
 that He lavished on us with all wisdom and understanding.
-<small><sub>**Literal:**</sub></small>
-which He lavished upon us in all wisdom and in understanding<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.7|<< Ephesians 1:7]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.9|Ephesians 1:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ἧς]]  [[G4052\|ἐπερίσσευσεν]]  [[G1519\|εἰς]]  [[G3165\|ἡμᾶς]]  [[G1722\|ἐν]]  [[G3956\|πάσῃ]]  [[G4678\|σοφίᾳ]]  [[G2532\|καὶ]]  [[G5428\|φρονήσει]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic GOD|GOD]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.7|<< Ephesians 1:7]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.9|Ephesians 1:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

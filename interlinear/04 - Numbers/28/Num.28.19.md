@@ -1,8 +1,68 @@
+---
+title: Numbers 28:19
+type: Verse
+kjv: "But ye shall offer a sacrifice made by fire for a burnt offering unto the LORD; two young bullocks, and one ram, and seven lambs of the first year: they shall be unto you without blemish:"
+bsb: "Present to the LORD a food offering, a burnt offering of two young bulls, one ram, and seven male lambs a year old, all unblemished."
+hebrew: "וְהִקְרַבְתֶּ֨ם אִשֶּׁ֤ה עֹלָה֙ לַֽיהוָ֔ה פָּרִ֧ים בְּנֵי־ בָקָ֛ר שְׁנַ֖יִם וְאַ֣יִל אֶחָ֑ד וְשִׁבְעָ֤ה כְבָשִׂים֙ בְּנֵ֣י שָׁנָ֔ה תְּמִימִ֖ם יִהְי֥וּ לָכֶֽם׃"
+pericope: "[[Num.28.16 Passover and the Feast of Unleavened Bread|Passover and the Feast of Unleavened Bread]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 28
+book/chapter: "[[Num.28|Numbers 28]]"
+chronological_order: 188
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H0801]]"
+- "[[H5930A]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H6499]]"
+- "[[H1121H]]"
+- "[[H9014]]"
+- "[[H1241]]"
+- "[[H8147]]"
+- "[[H9002]]"
+- "[[H0352A]]"
+- "[[H0259]]"
+- "[[H7651]]"
+- "[[H3532]]"
+- "[[H1121L]]"
+- "[[H8141]]"
+- "[[H8549G]]"
+- "[[H1961]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 28:19**<big><big>[[Num.28.16 Passover and the Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But ye shall offer a sacrifice made by fire [for] a burnt offering unto the LORD; two young bullocks, and one ram, and seven lambs of the first year: they shall be unto you without blemish:
 <small><sub>**BSB:**</sub></small>
 Present to the LORD a food offering, a burnt offering of two young bulls, one ram, and seven male lambs a year old, all unblemished.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7126H\|הִקְרַבְתֶּ֨ם]] [[H0801\|אִשֶּׁ֤ה]] [[H5930A\|עֹלָה֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H6499\|פָּרִ֧ים]] [[H1121H\|בְּנֵי]][[H9014\|־]] [[H1241\|בָקָ֛ר]] [[H8147\|שְׁנַ֖יִם]] [[H9002\|וְ]][[H0352A\|אַ֣יִל]] [[H0259\|אֶחָ֑ד]] [[H9002\|וְ]][[H7651\|שִׁבְעָ֤ה]] [[H3532\|כְבָשִׂים֙]] [[H1121L\|בְּנֵ֣י]] [[H8141\|שָׁנָ֔ה]] [[H8549G\|תְּמִימִ֖ם]] [[H1961\|יִהְי֥וּ]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BULLOCK|BULLOCK]] • [[topic FEASTS|FEASTS]] • [[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.18|<< Numbers 28:18]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.20|Numbers 28:20 >>]]</td></tr></table>
 

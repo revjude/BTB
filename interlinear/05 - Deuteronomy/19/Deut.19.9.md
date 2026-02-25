@@ -1,8 +1,81 @@
+---
+title: Deuteronomy 19:9
+type: Verse
+kjv: "If thou shalt keep all these commandments to do them, which I command thee this day, to love the LORD thy God, and to walk ever in his ways; then shalt thou add three cities more for thee, beside these three:"
+bsb: "and if you carefully keep all these commandments I am giving you today, loving the LORD your God and walking in His ways at all times, then you are to add three more cities to these three."
+hebrew: "כִּֽי־ תִשְׁמֹר֩ אֶת־ כָּל־ הַמִּצְוָ֨ה הַזֹּ֜את לַעֲשֹׂתָ֗הּ אֲשֶׁ֨ר אָנֹכִ֣י מְצַוְּךָ֮ הַיּוֹם֒ לְאַהֲבָ֞ה אֶת־ יְהוָ֧ה אֱלֹהֶ֛יךָ וְלָלֶ֥כֶת בִּדְרָכָ֖יו כָּל־ הַיָּמִ֑ים וְיָסַפְתָּ֨ לְךָ֥ עוֹד֙ שָׁלֹ֣שׁ עָרִ֔ים עַ֖ל הַשָּׁלֹ֥שׁ הָאֵֽלֶּה׃"
+pericope: "[[Deut.19.1 Cities of Refuge|Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 19
+book/chapter: "[[Deut.19|Deuteronomy 19]]"
+chronological_order: 215
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic REFUGE|REFUGE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H8104J]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H4687]]"
+- "[[H2063]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9034]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H6680]]"
+- "[[H9031]]"
+- "[[H3117G]]"
+- "[[H0157G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H3117L]]"
+- "[[H9001]]"
+- "[[H3254H]]"
+- "[[H5750]]"
+- "[[H7969]]"
+- "[[H5892B]]"
+- "[[H5921A]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 19:9**<big><big>[[Deut.19.1 Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou shalt keep all these commandments to do them, which I command thee this day, to love the LORD thy God, and to walk ever in his ways; then shalt thou add three cities more for thee, beside these three:
 <small><sub>**BSB:**</sub></small>
 and if you carefully keep all these commandments I am giving you today, loving the LORD your God and walking in His ways at all times, then you are to add three more cities to these three.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H8104J\|תִשְׁמֹר֩]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4687\|מִּצְוָ֨ה]] [[H9009\|הַ]][[H2063\|זֹּ֜את]] [[H9005\|לַ]][[H6213A\|עֲשֹׂתָ֗]][[H9034\|הּ]] [[H0834A\|אֲשֶׁ֨ר]] [[H0595\|אָנֹכִ֣י]] [[H6680\|מְצַוְּ]][[H9031\|ךָ֮]] [[H9009\|הַ]][[H3117G\|יּוֹם֒]] [[H9005\|לְ]][[H0157G\|אַהֲבָ֞ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֧ה]] [[H0430G\|אֱלֹהֶ֛י]][[H9021\|ךָ]] [[H9002\|וְ]][[H9005\|לָ]][[H1980I\|לֶ֥כֶת]] [[H9003\|בִּ]][[H1870G\|דְרָכָ֖י]][[H9023\|ו]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117L\|יָּמִ֑ים]] [[H9001\|וְ]][[H3254H\|יָסַפְתָּ֨]] [[H9005\|לְ]][[H9031\|ךָ֥]] [[H5750\|עוֹד֙]] [[H7969\|שָׁלֹ֣שׁ]] [[H5892B\|עָרִ֔ים]] [[H5921A\|עַ֖ל]] [[H9009\|הַ]][[H7969\|שָּׁלֹ֥שׁ]] [[H9009\|הָ]][[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic REFUGE|REFUGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.19.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.8|<< Deuteronomy 19:8]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.10|Deuteronomy 19:10 >>]]</td></tr></table>
 

@@ -1,10 +1,71 @@
+---
+title: Matthew 17:4
+type: Verse
+kjv: "Then answered Peter, and said unto Jesus, Lord, it is good for us to be here: if thou wilt, let us make here three tabernacles; one for thee, and one for Moses, and one for Elias."
+bsb: "Peter said to Jesus, “Lord, it is good for us to be here. If You wish, I will put up three shelters—one for You, one for Moses, and one for Elijah.”"
+greek: "Ἀποκριθεὶς δὲ ὁ Πέτρος εἶπεν τῷ Ἰησοῦ· κύριε, καλόν ἐστιν ἡμᾶς ὧδε εἶναι. εἰ θέλεις, ποιήσω ὧδε τρεῖς σκηνάς, σοὶ μίαν καὶ Μωϋσεῖ μίαν καὶ Ἠλίᾳ μίαν.¶"
+pericope: "[[Matt.17.1 The Transfiguration|The Transfiguration]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 17
+book/chapter: "[[Matt.17|Matthew 17]]"
+chronological_order: 967
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic PETER|PETER]]"
+- "[[topic TRANSFIGURATION|TRANSFIGURATION]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G2036]]"
+- "[[G2424G]]"
+- "[[G2962G]]"
+- "[[G2570G]]"
+- "[[G1510]]"
+- "[[G3165]]"
+- "[[G5602]]"
+- "[[G1511]]"
+- "[[G1487G]]"
+- "[[G2309]]"
+- "[[G4160G]]"
+- "[[G5140]]"
+- "[[G4633]]"
+- "[[G4771]]"
+- "[[G1520]]"
+- "[[G2532]]"
+- "[[G3475]]"
+- "[[G2243]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Matthew 17:4**<big><big>[[Matt.17.1 The Transfiguration|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then answered Peter, and said unto Jesus, Lord, it is good for us to be here: if thou wilt, let us make here three tabernacles; one for thee, and one for Moses, and one for Elias.
 <small><sub>**BSB:**</sub></small>
 Peter said to Jesus, “Lord, it is good for us to be here. If You wish, I will put up three shelters—one for You, one for Moses, and one for Elijah.”
-<small><sub>**Literal:**</sub></small>
-Answering now <the> Peter said <the> to Jesus; Lord, good it is for us here to be. If You wish, I will make here three tabernacles, for You one and for Moses one and for Elijah one.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.3|<< Matthew 17:3]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.5|Matthew 17:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀποκριθεὶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G2036\|εἶπεν]]  [[G3588\|τῷ]]  [[G2424G\|Ἰησοῦ·]]  [[G2962G\|κύριε,]]  [[G2570G\|καλόν]]  [[G1510\|ἐστιν]]  [[G3165\|ἡμᾶς]]  [[G5602\|ὧδε]]  [[G1511\|εἶναι.]]  [[G1487G\|εἰ]]  [[G2309\|θέλεις,]]  [[G4160G\|ποιήσω]]  [[G5602\|ὧδε]]  [[G5140\|τρεῖς]]  [[G4633\|σκηνάς,]]  [[G4771\|σοὶ]]  [[G1520\|μίαν]]  [[G2532\|καὶ]]  [[G3475\|Μωϋσεῖ]]  [[G1520\|μίαν]]  [[G2532\|καὶ]]  [[G2243\|Ἠλίᾳ]]  [[G1520\|μίαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIJAH|ELIJAH]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic MOSES|MOSES]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic PETER|PETER]] • [[topic TRANSFIGURATION|TRANSFIGURATION]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.3|<< Matthew 17:3]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.5|Matthew 17:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

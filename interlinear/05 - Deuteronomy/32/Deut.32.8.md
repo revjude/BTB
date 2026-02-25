@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 32:8
+type: Verse
+kjv: "When the most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the children of Israel."
+bsb: "When the Most High gave the nations their inheritance, when He divided the sons of man, He set the boundaries of the peoples according to the number of the sons of God."
+hebrew: "בְּהַנְחֵ֤ל עֶלְיוֹן֙ גּוֹיִ֔ם בְּהַפְרִיד֖וֹ בְּנֵ֣י אָדָ֑ם יַצֵּב֙ גְּבֻלֹ֣ת עַמִּ֔ים לְמִסְפַּ֖ר בְּנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Deut.32.1 The Song of Moses|The Song of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 32
+book/chapter: "[[Deut.32|Deuteronomy 32]]"
+chronological_order: 228
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic DISPERSION|DISPERSION]]"
+- "[[topic EARTH|EARTH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H9003]]"
+- "[[H5157]]"
+- "[[H5945B]]"
+- "[[H1471A]]"
+- "[[H6504]]"
+- "[[H9043]]"
+- "[[H1121G]]"
+- "[[H0120G]]"
+- "[[H5324]]"
+- "[[H1367]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H4557]]"
+- "[[H1121A]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 32:8**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When the most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the children of Israel.
 <small><sub>**BSB:**</sub></small>
 When the Most High gave the nations their inheritance, when He divided the sons of man, He set the boundaries of the peoples according to the number of the sons of God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H5157\|הַנְחֵ֤ל]] [[H5945B\|עֶלְיוֹן֙]] [[H1471A\|גּוֹיִ֔ם]] [[H9003\|בְּ]][[H6504\|הַפְרִיד֖]][[H9043\|וֹ]] [[H1121G\|בְּנֵ֣י]] [[H0120G\|אָדָ֑ם]] [[H5324\|יַצֵּב֙]] [[H1367\|גְּבֻלֹ֣ת]] [[H5971A\|עַמִּ֔ים]] [[H9005\|לְ]][[H4557\|מִסְפַּ֖ר]] [[H1121A\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic DEATH|DEATH]] • [[topic DISPERSION|DISPERSION]] • [[topic EARTH|EARTH]] • [[topic GOD|GOD]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.7|<< Deuteronomy 32:7]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.9|Deuteronomy 32:9 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: Psalm 99:6
+type: Verse
+kjv: "Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the LORD, and he answered them."
+bsb: "Moses and Aaron were among His priests; Samuel was among those who called on His name. They called to the LORD and He answered."
+hebrew: "מֹ֘שֶׁ֤ה וְאַהֲרֹ֨ן׀ בְּֽכֹהֲנָ֗יו וּ֭שְׁמוּאֵל בְּקֹרְאֵ֣י שְׁמ֑וֹ קֹרִ֥אים אֶל־ יְ֝הוָ֗ה וְה֣וּא יַעֲנֵֽם׃"
+pericope: "[[Ps.99.1 The LORD Reigns!|The LORD Reigns!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 99
+book/chapter: "[[Ps.99|Psalm 99]]"
+chronological_order: 526
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H3548]]"
+- "[[H9023]]"
+- "[[H8050G]]"
+- "[[H7121G]]"
+- "[[H8034]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H1931]]"
+- "[[H6030B]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 99:6**<big><big>[[Ps.99.1 The LORD Reigns!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the LORD, and he answered them.
 <small><sub>**BSB:**</sub></small>
 Moses and Aaron were among His priests; Samuel was among those who called on His name. They called to the LORD and He answered.
+<small><sub>**Hebrew:**</sub></small>
+[[H4872\|מֹ֘שֶׁ֤ה]] [[H9002\|וְ]][[H0175\|אַהֲרֹ֨ן]][[H9015\|׀]] [[H9003\|בְּֽ]][[H3548\|כֹהֲנָ֗י]][[H9023\|ו]] [[H9002\|וּ֭]][[H8050G\|שְׁמוּאֵל]] [[H9003\|בְּ]][[H7121G\|קֹרְאֵ֣י]] [[H8034\|שְׁמ֑]][[H9023\|וֹ]] [[H7121G\|קֹרִ֥אים]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְ֝הוָ֗ה]] [[H9002\|וְ]][[H1931\|ה֣וּא]] [[H6030B\|יַעֲנֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]] • [[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.99.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.99.5|<< Psalms 99:5]]</td><td align="center" style="border:none;">[[Ps.99|Psalms 99]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.99.7|Psalms 99:7 >>]]</td></tr></table>
 

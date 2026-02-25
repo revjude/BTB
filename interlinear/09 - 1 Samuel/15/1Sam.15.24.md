@@ -1,8 +1,74 @@
+---
+title: 1 Samuel 15:24
+type: Verse
+kjv: "And Saul said unto Samuel, I have sinned: for I have transgressed the commandment of the LORD, and thy words: because I feared the people, and obeyed their voice."
+bsb: "Then Saul said to Samuel, “I have sinned; I have transgressed the LORD’s commandment and your instructions, because I feared the people and obeyed their voice."
+hebrew: "וַיֹּ֨אמֶר שָׁא֤וּל אֶל־ שְׁמוּאֵל֙ חָטָ֔אתִי כִּֽי־ עָבַ֥רְתִּי אֶת־ פִּֽי־ יְהוָ֖ה וְאֶת־ דְּבָרֶ֑יךָ כִּ֤י יָרֵ֙אתִי֙ אֶת־ הָעָ֔ם וָאֶשְׁמַ֖ע בְּקוֹלָֽם׃"
+pericope: "[[1Sam.15.24 Saul’s Confession|Saul’s Confession]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 15
+book/chapter: "[[1Sam.15|1 Samuel 15]]"
+chronological_order: 294
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic KING|KING]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7586G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8050G]]"
+- "[[H2398]]"
+- "[[H3588A]]"
+- "[[H5674D]]"
+- "[[H0853]]"
+- "[[H6310I]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H1697G]]"
+- "[[H9021]]"
+- "[[H3372G]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 15:24**<big><big>[[1Sam.15.24 Saul’s Confession|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul said unto Samuel, I have sinned: for I have transgressed the commandment of the LORD, and thy words: because I feared the people, and obeyed their voice.
 <small><sub>**BSB:**</sub></small>
 Then Saul said to Samuel, “I have sinned; I have transgressed the LORD’s commandment and your instructions, because I feared the people and obeyed their voice.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H7586G\|שָׁא֤וּל]] [[H0413\|אֶל]][[H9014\|־]] [[H8050G\|שְׁמוּאֵל֙]] [[H2398\|חָטָ֔אתִי]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5674D\|עָבַ֥רְתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H6310I\|פִּֽי]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דְּבָרֶ֑י]][[H9021\|ךָ]] [[H3588A\|כִּ֤י]] [[H3372G\|יָרֵ֙אתִי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9001\|וָ]][[H8085H\|אֶשְׁמַ֖ע]] [[H9003\|בְּ]][[H6963A\|קוֹלָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMALEKITES|AMALEKITES]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic CONVICTION|CONVICTION]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic KING|KING]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REPROOF|REPROOF]] • [[topic RULERS|RULERS]] • [[topic SAUL|SAUL]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.23|<< 1 Samuel 15:23]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.25|1 Samuel 15:25 >>]]</td></tr></table>
 

@@ -1,10 +1,73 @@
+---
+title: Matthew 23:34
+type: Verse
+kjv: "Wherefore, behold, I send unto you prophets, and wise men, and scribes: and some of them ye shall kill and crucify; and some of them shall ye scourge in your synagogues, and persecute them from city to city:"
+bsb: "Because of this, I am sending you prophets and wise men and teachers. Some of them you will kill and crucify, and others you will flog in your synagogues and persecute from town to town."
+jesus_said: "Wherefore, behold, I send unto you prophets, and wise men, and scribes: and some of them ye shall kill and crucify; and some of them shall ye scourge in your synagogues, and persecute them from city to city:"
+greek: "διὰ τοῦτο ἰδοὺ ἐγὼ ἀποστέλλω πρὸς ὑμᾶς προφήτας καὶ σοφοὺς καὶ γραμματεῖς· καὶ ἐξ αὐτῶν ἀποκτενεῖτε καὶ σταυρώσετε καὶ ἐξ αὐτῶν μαστιγώσετε ἐν ταῖς συναγωγαῖς ὑμῶν καὶ διώξετε ἀπὸ πόλεως εἰς πόλιν·"
+pericope: "[[Matt.23.1 Woes to Scribes and Pharisees|Woes to Scribes and Pharisees]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 23
+book/chapter: "[[Matt.23|Matthew 23]]"
+chronological_order: 996
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CRUCIFIXION|CRUCIFIXION]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G2400]]"
+- "[[G1473]]"
+- "[[G0649]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G4396]]"
+- "[[G2532]]"
+- "[[G4680]]"
+- "[[G1122]]"
+- "[[G1537]]"
+- "[[G0846]]"
+- "[[G0615]]"
+- "[[G4717]]"
+- "[[G3146]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4864]]"
+- "[[G1377]]"
+- "[[G0575]]"
+- "[[G4172]]"
+- "[[G1519]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 23:34**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore, behold, I send unto you prophets, and wise men, and scribes: and [some] of them ye shall kill and crucify; and [some] of them shall ye scourge in your synagogues, and persecute [them] from city to city:
 <small><sub>**BSB:**</sub></small>
 Because of this, I am sending you prophets and wise men and teachers. Some of them you will kill and crucify, and others you will flog in your synagogues and persecute from town to town.
-<small><sub>**Literal:**</sub></small>
-Because of this behold I myself send to you prophets and wise [men] and scribes; and Some of them you will kill and will crucify and [some] of them you will flog in the synagogues of you and will persecute from town to town;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.33|<< Matthew 23:33]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.35|Matthew 23:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G2400\|ἰδοὺ]]  [[G1473\|ἐγὼ]]  [[G0649\|ἀποστέλλω]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G4396\|προφήτας]]  [[G2532\|καὶ]]  [[G4680\|σοφοὺς]]  [[G2532\|καὶ]]  [[G1122\|γραμματεῖς·]]  [[G2532\|καὶ]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G0615\|ἀποκτενεῖτε]]  [[G2532\|καὶ]]  [[G4717\|σταυρώσετε]]  [[G2532\|καὶ]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G3146\|μαστιγώσετε]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G4864\|συναγωγαῖς]]  [[G4771\|ὑμῶν]]  [[G2532\|καὶ]]  [[G1377\|διώξετε]]  [[G0575\|ἀπὸ]]  [[G4172\|πόλεως]]  [[G1519\|εἰς]]  [[G4172\|πόλιν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRUCIFIXION|CRUCIFIXION]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PERSECUTION|PERSECUTION]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SYNAGOGUE|SYNAGOGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.33|<< Matthew 23:33]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.35|Matthew 23:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

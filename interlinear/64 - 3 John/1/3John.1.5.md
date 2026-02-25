@@ -1,10 +1,50 @@
+---
+title: 3 John 1:5
+type: Verse
+kjv: "Beloved, thou doest faithfully whatsoever thou doest to the brethren, and to strangers;"
+bsb: "Beloved, you are faithful in what you are doing for the brothers, and especially since they are strangers to you."
+greek: "ἀγαπητέ, πιστὸν ποιεῖς ὃ ἐὰν ἐργάσῃ εἰς τοὺς ἀδελφοὺς καὶ εἰς τοῦτο ξένους,"
+pericope: "[[3John.1.5 Gaius Commended for Hospitality|Gaius Commended for Hospitality]]"
+original_language: Greek
+testament: New
+book: 3 John
+chapter: 1
+book/chapter: "[[3John.1|3 John 1]]"
+chronological_order: 1167
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- personal letter
+strongs:
+- "[[G0027]]"
+- "[[G4103]]"
+- "[[G4160G]]"
+- "[[G3739]]"
+- "[[G1437]]"
+- "[[G2038]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G3581]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **3 John 1:5**<big><big>[[3John.1.5 Gaius Commended for Hospitality|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Beloved, thou doest faithfully whatsoever thou doest to the brethren, and to strangers;
 <small><sub>**BSB:**</sub></small>
 Beloved, you are faithful in what you are doing for the brothers, and especially since they are strangers to you.
-<small><sub>**Literal:**</sub></small>
-Beloved, faithfully you are doing whatever maybe you shall do for the brothers and for that [thing] strangers,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.4|<< 3 John 1:4]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.6|3 John 1:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0027\|ἀγαπητέ,]]  [[G4103\|πιστὸν]]  [[G4160G\|ποιεῖς]]  [[G3739\|ὃ]]  [[G1437\|ἐὰν]]  [[G2038\|ἐργάσῃ]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G0080\|ἀδελφοὺς]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G3778\|τοῦτο]]  [[G3581\|ξένους,]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.4|<< 3 John 1:4]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.6|3 John 1:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

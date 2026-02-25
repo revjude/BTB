@@ -1,8 +1,58 @@
+---
+title: Esther 6:12
+type: Verse
+kjv: "And Mordecai came again to the king’s gate. But Haman hasted to his house mourning, and having his head covered."
+bsb: "Then Mordecai returned to the king’s gate. But Haman rushed home, with his head covered in grief."
+hebrew: "וַיָּ֥שָׁב מָרְדֳּכַ֖י אֶל־ שַׁ֣עַר הַמֶּ֑לֶךְ וְהָמָן֙ נִדְחַ֣ף אֶל־ בֵּית֔וֹ אָבֵ֖ל וַחֲפ֥וּי רֹֽאשׁ׃"
+pericope: "[[Esth.6.1 Mordecai Is Honored|Mordecai Is Honored]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 6
+book/chapter: "[[Esth.6|Esther 6]]"
+chronological_order: 904
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MOURNING|MOURNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H4782H]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8179G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H2001]]"
+- "[[H1765]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H0057]]"
+- "[[H2645]]"
+- "[[H7218A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 6:12**<big><big>[[Esth.6.1 Mordecai Is Honored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Mordecai came again to the king’s gate. But Haman hasted to his house mourning, and having his head covered.
 <small><sub>**BSB:**</sub></small>
 Then Mordecai returned to the king’s gate. But Haman rushed home, with his head covered in grief.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּ֥שָׁב]] [[H4782H\|מָרְדֳּכַ֖י]] [[H0413\|אֶל]][[H9014\|־]] [[H8179G\|שַׁ֣עַר]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9002\|וְ]][[H2001\|הָמָן֙]] [[H1765\|נִדְחַ֣ף]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּית֔]][[H9023\|וֹ]] [[H0057\|אָבֵ֖ל]] [[H9002\|וַ]][[H2645\|חֲפ֥וּי]] [[H7218A\|רֹֽאשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MOURNING|MOURNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.6.11|<< Esther 6:11]]</td><td align="center" style="border:none;">[[Esth.6|Esther 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.6.13|Esther 6:13 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Deuteronomy 5:26
+type: Verse
+kjv: "For who is there of all flesh, that hath heard the voice of the living God speaking out of the midst of the fire, as we have, and lived?"
+bsb: "For who of all flesh has heard the voice of the living God speaking out of the fire, as we have, and survived?"
+hebrew: "כִּ֣י מִ֣י כָל־ בָּשָׂ֡ר אֲשֶׁ֣ר שָׁמַ֣ע קוֹל֩ אֱלֹהִ֨ים חַיִּ֜ים מְדַבֵּ֧ר מִתּוֹךְ־ הָאֵ֛שׁ כָּמֹ֖נוּ וַיֶּֽחִי׃"
+pericope: "[[Deut.5.22 Moses Intercedes for the People|Moses Intercedes for the People]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 5
+book/chapter: "[[Deut.5|Deuteronomy 5]]"
+chronological_order: 201
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic SINAI|SINAI]]"
+- "[[topic THEOCRACY|THEOCRACY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H4310]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1320]]"
+- "[[H0834A]]"
+- "[[H8085G]]"
+- "[[H6963A]]"
+- "[[H0430G]]"
+- "[[H2416A]]"
+- "[[H1696G]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H0784]]"
+- "[[H3644G]]"
+- "[[H9035]]"
+- "[[H9001]]"
+- "[[H2421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 5:26**<big><big>[[Deut.5.22 Moses Intercedes for the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For who [is there of] all flesh, that hath heard the voice of the living God speaking out of the midst of the fire, as we [have], and lived?
 <small><sub>**BSB:**</sub></small>
 For who of all flesh has heard the voice of the living God speaking out of the fire, as we have, and survived?
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H4310\|מִ֣י]] [[H3605\|כָל]][[H9014\|־]] [[H1320\|בָּשָׂ֡ר]] [[H0834A\|אֲשֶׁ֣ר]] [[H8085G\|שָׁמַ֣ע]] [[H6963A\|קוֹל֩]] [[H0430G\|אֱלֹהִ֨ים]] [[H2416A\|חַיִּ֜ים]] [[H1696G\|מְדַבֵּ֧ר]] [[H9006\|מִ]][[H8432\|תּוֹךְ]][[H9014\|־]] [[H9009\|הָ]][[H0784\|אֵ֛שׁ]] [[H3644G\|כָּמֹ֖]][[H9035\|נוּ]] [[H9001\|וַ]][[H2421\|יֶּֽחִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OBEDIENCE|OBEDIENCE]] • [[topic SINAI|SINAI]] • [[topic THEOCRACY|THEOCRACY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.25|<< Deuteronomy 5:25]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.27|Deuteronomy 5:27 >>]]</td></tr></table>
 

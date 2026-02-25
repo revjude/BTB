@@ -1,8 +1,66 @@
+---
+title: Ezra 8:15
+type: Verse
+kjv: "And I gathered them together to the river that runneth to Ahava; and there abode we in tents three days: and I viewed the people, and the priests, and found there none of the sons of Levi."
+bsb: "Now I assembled these exiles at the canal that flows to Ahava, and we camped there three days. And when I searched among the people and priests, I found no Levites there."
+hebrew: "וָֽאֶקְבְּצֵ֗ם אֶל־ הַנָּהָר֙ הַבָּ֣א אֶֽל־ אַהֲוָ֔א וַנַּחֲנֶ֥ה שָׁ֖ם יָמִ֣ים שְׁלֹשָׁ֑ה וָאָבִ֤ינָה בָעָם֙ וּבַכֹּ֣הֲנִ֔ים וּמִבְּנֵ֥י לֵוִ֖י לֹא־ מָצָ֥אתִי שָֽׁם׃"
+pericope: "[[Ezra.8.15 Ezra Sends for the Levites|Ezra Sends for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 8
+book/chapter: "[[Ezra.8|Ezra 8]]"
+chronological_order: 910
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic AHAVA|AHAVA]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+strongs:
+- "[[H9001]]"
+- "[[H6908]]"
+- "[[H9038]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5104H]]"
+- "[[H0935G]]"
+- "[[H0163]]"
+- "[[H2583]]"
+- "[[H8033G]]"
+- "[[H3117G]]"
+- "[[H7969]]"
+- "[[H0995]]"
+- "[[H9012]]"
+- "[[H9003]]"
+- "[[H5971A]]"
+- "[[H9002]]"
+- "[[H3548]]"
+- "[[H9006]]"
+- "[[H1121G]]"
+- "[[H3881]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 8:15**<big><big>[[Ezra.8.15 Ezra Sends for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I gathered them together to the river that runneth to Ahava; and there abode we in tents three days: and I viewed the people, and the priests, and found there none of the sons of Levi.
 <small><sub>**BSB:**</sub></small>
 Now I assembled these exiles at the canal that flows to Ahava, and we camped there three days. And when I searched among the people and priests, I found no Levites there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָֽ]][[H6908\|אֶקְבְּצֵ֗]][[H9038\|ם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H5104H\|נָּהָר֙]] [[H9009\|הַ]][[H0935G\|בָּ֣א]] [[H0413\|אֶֽל]][[H9014\|־]] [[H0163\|אַהֲוָ֔א]] [[H9001\|וַ]][[H2583\|נַּחֲנֶ֥ה]] [[H8033G\|שָׁ֖ם]] [[H3117G\|יָמִ֣ים]] [[H7969\|שְׁלֹשָׁ֑ה]] [[H9001\|וָ]][[H0995\|אָבִ֤ינָ]][[H9012\|ה]] [[H9003\|בָ]][[H5971A\|עָם֙]] [[H9002\|וּ]][[H9003\|בַ]][[H3548\|כֹּ֣הֲנִ֔ים]] [[H9002\|וּ]][[H9006\|מִ]][[H1121G\|בְּנֵ֥י]] [[H3881\|לֵוִ֖י]] [[H3808\|לֹא]][[H9014\|־]] [[H4672\|מָצָ֥אתִי]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAVA|AHAVA]] • [[topic GENEALOGY|GENEALOGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.14|<< Ezra 8:14]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.16|Ezra 8:16 >>]]</td></tr></table>
 

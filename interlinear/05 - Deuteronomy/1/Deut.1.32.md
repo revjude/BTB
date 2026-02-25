@@ -1,8 +1,57 @@
+---
+title: Deuteronomy 1:32
+type: Verse
+kjv: "Yet in this thing ye did not believe the LORD your God,"
+bsb: "But in spite of all this, you did not trust the LORD your God,"
+hebrew: "וּבַדָּבָ֖ר הַזֶּ֑ה אֵֽינְכֶם֙ מַאֲמִינִ֔ם בַּיהוָ֖ה אֱלֹהֵיכֶֽם׃"
+pericope: "[[Deut.1.26 Israel’s Rebellion|Israel’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H1697G]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H0369]]"
+- "[[H9046]]"
+- "[[H0539]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:32**<big><big>[[Deut.1.26 Israel’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet in this thing ye did not believe the LORD your God,
 <small><sub>**BSB:**</sub></small>
 But in spite of all this, you did not trust the LORD your God,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H1697G\|דָּבָ֖ר]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H0369\|אֵֽינְ]][[H9046\|כֶם֙]] [[H0539\|מַאֲמִינִ֔ם]] [[H9003\|בַּ]][[H3068G\|יהוָ֖ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.31|<< Deuteronomy 1:31]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.33|Deuteronomy 1:33 >>]]</td></tr></table>
 

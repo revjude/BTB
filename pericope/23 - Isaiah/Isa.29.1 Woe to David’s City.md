@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Woe to David’s City
+type: Pericope
 pericope: "[[Isa.29.1 Woe to David’s City|Woe to David’s City]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 29
 book/chapter: "[[Isa.29|Isaiah 29]]"
-genre:
+chronological_order: 672
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 16
 verses:
 - "[[Isa.29.1]]"
 - "[[Isa.29.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Isa.29.16]]"
 ---
 
-[[Isa.29|Isaiah 29:1 - Isaiah 29:16]]
+<small>[[Isa.29|Isaiah 29:1-16]]</small>
 *Woe to David’s City*
 
 [[Isa.29.1|1]] Woe to Ariel, to Ariel, the city \[where\] David dwelt! add ye year to year; let them kill sacrifices.

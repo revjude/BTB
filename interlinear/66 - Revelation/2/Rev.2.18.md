@@ -1,10 +1,67 @@
+---
+title: Revelation 2:18
+type: Verse
+kjv: "And unto the angel of the church in Thyatira write; These things saith the Son of God, who hath his eyes like unto a flame of fire, and his feet are like fine brass;"
+bsb: "To the angel of the church in Thyatira write: These are the words of the Son of God, whose eyes are like a blazing fire and whose feet are like polished bronze."
+jesus_said: "And unto the angel of the church in Thyatira write; These things saith the Son of God, who hath his eyes like unto a flame of fire, and his feet are like fine brass;"
+greek: "Καὶ τῷ ἀγγέλῳ τῆς ἐν Θυατείροις ἐκκλησίας γράψον· τάδε λέγει ὁ υἱὸς τοῦ θεοῦ, ὁ ἔχων τοὺς ὀφθαλμοὺς αὐτοῦ ὡς φλόγα πυρὸς καὶ οἱ πόδες αὐτοῦ ὅμοιοι χαλκολιβάνῳ·"
+pericope: "[[Rev.2.18 To the Church in Thyatira|To the Church in Thyatira]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 2
+book/chapter: "[[Rev.2|Revelation 2]]"
+chronological_order: 1169
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL OF THE CHURCHES|ANGEL OF THE CHURCHES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic THYATIRA|THYATIRA]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0032G]]"
+- "[[G1722]]"
+- "[[G2363]]"
+- "[[G1577]]"
+- "[[G1125]]"
+- "[[G3592]]"
+- "[[G3004G]]"
+- "[[G5207]]"
+- "[[G2316]]"
+- "[[G2192]]"
+- "[[G3788]]"
+- "[[G0846]]"
+- "[[G5613]]"
+- "[[G5395]]"
+- "[[G4442]]"
+- "[[G4228]]"
+- "[[G3664]]"
+- "[[G5474]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Revelation 2:18**<big><big>[[Rev.2.18 To the Church in Thyatira|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And unto the angel of the church in Thyatira write; These things saith the Son of God, who hath his eyes like unto a flame of fire, and his feet [are] like fine brass;
 <small><sub>**BSB:**</sub></small>
 To the angel of the church in Thyatira write: These are the words of the Son of God, whose eyes are like a blazing fire and whose feet are like polished bronze.
-<small><sub>**Literal:**</sub></small>
-And to the angel of the in Thyatira church do write: These things says the Son <the> of God, the [One] having the eyes of Him like a flame of fire and the feet of Him like as burnished bronze;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.17|<< Revelation 2:17]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.19|Revelation 2:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3588\|τῷ]]  [[G0032G\|ἀγγέλῳ]]  [[G3588\|τῆς]]  [[G1722\|ἐν]]  [[G2363\|Θυατείροις]]  [[G1577\|ἐκκλησίας]]  [[G1125\|γράψον·]]  [[G3592\|τάδε]]  [[G3004G\|λέγει]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G3588\|ὁ]]  [[G2192\|ἔχων]]  [[G3588\|τοὺς]]  [[G3788\|ὀφθαλμοὺς]]  [[G0846\|αὐτοῦ]]  [[G5613\|ὡς]]  [[G5395\|φλόγα]]  [[G4442\|πυρὸς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4228\|πόδες]]  [[G0846\|αὐτοῦ]]  [[G3664\|ὅμοιοι]]  [[G5474\|χαλκολιβάνῳ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL OF THE CHURCHES|ANGEL OF THE CHURCHES]] • [[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic THYATIRA|THYATIRA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.17|<< Revelation 2:17]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.19|Revelation 2:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

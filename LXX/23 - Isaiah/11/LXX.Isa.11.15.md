@@ -1,6 +1,62 @@
+---
+title: LXX Isaiah 11:15
+type: Verse
+lxx: "And the lord desolate the sea of Egypt; and he shall put  his hand upon the river by a violent wind, and he shall strike seven ravines, so as to travel over it in sandals."
+greek: "και ερημώσει κύριος την θάλασσαν Αιγύπτου και επιβαλεί την χείρα αυτού επί τον ποταμόν πνεύματι βιαίω και πατάξει επτά φάραγγας ώστε διαπορεύεσθαι αυτόν εν υποδήμασι"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 11
+book/chapter: "[[Isa.11|Isaiah 11]]"
+chronological_order: 621
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic NILE|NILE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2049]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G2281]]"
+- "[[G0125]]"
+- "[[G2532]]"
+- "[[G1911]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G1473]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G4215]]"
+- "[[G4151]]"
+- "[[G0972]]"
+- "[[G2532]]"
+- "[[G3960]]"
+- "[[G2033]]"
+- "[[G5327]]"
+- "[[G5620]]"
+- "[[G1279]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G5266]]"
+---
+
 **LXX Isaiah 11:15** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> desolate the sea of Egypt; and he shall put  his hand upon the river by a violent wind, and he shall strike seven ravines, so as to travel over it in sandals. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2049\|ερημώσει]] [[G2962\|κύριος]] [[G3588\|την]] [[G2281\|θάλασσαν]] [[G0125\|Αιγύπτου]] [[G2532\|και]] [[G1911\|επιβαλεί]] [[G3588\|την]] [[G5495\|χείρα]] [[G1473\|αυτού]] [[G1909\|επί]] [[G3588\|τον]] [[G4215\|ποταμόν]] [[G4151\|πνεύματι]] [[G0972\|βιαίω]] [[G2532\|και]] [[G3960\|πατάξει]] [[G2033\|επτά]] [[G5327\|φάραγγας]] [[G5620\|ώστε]] [[G1279\|διαπορεύεσθαι]] [[G1473\|αυτόν]] [[G1722\|εν]] [[G5266\|υποδήμασι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic NILE|NILE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.11.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.11.14|<< Isaiah 11:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.11.16|Isaiah 11:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -34,6 +90,6 @@ And \[the\] <span class="smallcaps">lord</span> desolate the sea of Egypt; and h
 | it | **<big>[[G1473\|αυτόν]]</big>** |
 | in | **<big>[[G1722\|εν]]</big>** |
 | sandals. | **<big>[[G5266\|υποδήμασι]]</big>** |
-[[Isa.11.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.11.14|<< Isaiah 11:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.11.16|Isaiah 11:16 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.11.14|<< Isaiah 11:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.11.16|Isaiah 11:16 >>]]</td></tr></table>
 
 

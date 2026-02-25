@@ -1,10 +1,60 @@
+---
+title: Matthew 12:39
+type: Verse
+kjv: "But he answered and said unto them, An evil and adulterous generation seeketh after a sign; and there shall no sign be given to it, but the sign of the prophet Jonas:"
+bsb: "Jesus replied, “A wicked and adulterous generation demands a sign, but none will be given it except the sign of the prophet Jonah."
+jesus_said: "An evil and adulterous generation seeketh after a sign; and there shall no sign be given to it, but the sign of the prophet Jonas:"
+greek: "Ὁ δὲ ἀποκριθεὶς εἶπεν αὐτοῖς· γενεὰ πονηρὰ καὶ μοιχαλὶς σημεῖον ἐπιζητεῖ· καὶ σημεῖον οὐ δοθήσεται αὐτῇ εἰ μὴ τὸ σημεῖον Ἰωνᾶ τοῦ προφήτου."
+pericope: "[[Matt.12.38 The Sign of Jonah|The Sign of Jonah]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PHARISEES|PHARISEES]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0611]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G1074]]"
+- "[[G4190]]"
+- "[[G2532]]"
+- "[[G3428]]"
+- "[[G4592]]"
+- "[[G1934]]"
+- "[[G3756]]"
+- "[[G1325]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G2495H]]"
+- "[[G4396]]"
+texts:
+- NKO
+---
+
 **Matthew 12:39**<big><big>[[Matt.12.38 The Sign of Jonah|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he answered and said unto them, An evil and adulterous generation seeketh after a sign; and there shall no sign be given to it, but the sign of the prophet Jonas:
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “A wicked and adulterous generation demands a sign, but none will be given it except the sign of the prophet Jonah.
-<small><sub>**Literal:**</sub></small>
-<the> And answering He said to them; A generation evil and adulterous a sign seeks for; and a sign not will be given to it only except the sign of Jonah the prophet.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.38|<< Matthew 12:38]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.40|Matthew 12:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G0611\|ἀποκριθεὶς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G1074\|γενεὰ]]  [[G4190\|πονηρὰ]]  [[G2532\|καὶ]]  [[G3428\|μοιχαλὶς]]  [[G4592\|σημεῖον]]  [[G1934\|ἐπιζητεῖ·]]  [[G2532\|καὶ]]  [[G4592\|σημεῖον]]  [[G3756\|οὐ]]  [[G1325\|δοθήσεται]]  [[G0846\|αὐτῇ]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G3588\|τὸ]]  [[G4592\|σημεῖον]]  [[G2495H\|Ἰωνᾶ]]  [[G3588\|τοῦ]]  [[G4396\|προφήτου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PHARISEES|PHARISEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.38|<< Matthew 12:38]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.40|Matthew 12:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

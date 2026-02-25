@@ -1,8 +1,64 @@
+---
+title: Isaiah 35:9
+type: Verse
+kjv: "No lion shall be there, nor any ravenous beast shall go up thereon, it shall not be found there; but the redeemed shall walk there:"
+bsb: "No lion will be there, and no vicious beast will go up on it. Such will not be found there, but the redeemed will walk upon it."
+hebrew: "לֹא־ יִהְיֶ֨ה שָׁ֜ם אַרְיֵ֗ה וּפְרִ֤יץ חַיּוֹת֙ בַּֽל־ יַעֲלֶ֔נָּה לֹ֥א תִמָּצֵ֖א שָׁ֑ם וְהָלְכ֖וּ גְּאוּלִֽים׃"
+pericope: "[[Isa.35.1 The Glory of Zion|The Glory of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 35
+book/chapter: "[[Isa.35|Isaiah 35]]"
+chronological_order: 678
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HIGHWAYS|HIGHWAYS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WAY|WAY]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H8033G]]"
+- "[[H0738B]]"
+- "[[H9002]]"
+- "[[H6530]]"
+- "[[H2416C]]"
+- "[[H1077]]"
+- "[[H5927G]]"
+- "[[H9034]]"
+- "[[H4672]]"
+- "[[H9001]]"
+- "[[H1980I]]"
+- "[[H1350A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 35:9**<big><big>[[Isa.35.1 The Glory of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 No lion shall be there, nor [any] ravenous beast shall go up thereon, it shall not be found there; but the redeemed shall walk [there]:
 <small><sub>**BSB:**</sub></small>
 No lion will be there, and no vicious beast will go up on it. Such will not be found there, but the redeemed will walk upon it.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H1961\|יִהְיֶ֨ה]] [[H8033G\|שָׁ֜ם]] [[H0738B\|אַרְיֵ֗ה]] [[H9002\|וּ]][[H6530\|פְרִ֤יץ]] [[H2416C\|חַיּוֹת֙]] [[H1077\|בַּֽל]][[H9014\|־]] [[H5927G\|יַעֲלֶ֔]][[H9034\|נָּה]] [[H3808\|לֹ֥א]] [[H4672\|תִמָּצֵ֖א]] [[H8033G\|שָׁ֑ם]] [[H9001\|וְ]][[H1980I\|הָלְכ֖וּ]] [[H1350A\|גְּאוּלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic HIGHWAYS|HIGHWAYS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WAY|WAY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.35.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.35.8|<< Isaiah 35:8]]</td><td align="center" style="border:none;">[[Isa.35|Isaiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.35.10|Isaiah 35:10 >>]]</td></tr></table>
 

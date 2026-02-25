@@ -1,10 +1,69 @@
+---
+title: Mark 5:19
+type: Verse
+kjv: "Howbeit Jesus suffered him not, but saith unto him, Go home to thy friends, and tell them how great things the Lord hath done for thee, and hath had compassion on thee."
+bsb: "But Jesus would not allow him. “Go home to your own people,” He said, “and tell them how much the Lord has done for you, and what mercy He has shown you.”"
+jesus_said: "Go home to thy friends, and tell them how great things the Lord hath done for thee, and hath had compassion on thee."
+greek: "καὶ ὁ δὲ Ἰησοῦς οὐκ ἀφῆκεν αὐτόν, ἀλλὰ λέγει αὐτῷ· ὕπαγε εἰς τὸν οἶκόν σου πρὸς τοὺς σοὺς καὶ ἀπάγγειλον αὐτοῖς ὅσα ὁ κύριός σοι πεποίηκεν καὶ ἠλέησέν σε.¶"
+pericope: "[[Mark.5.1 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic GADARENES|GADARENES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G3756]]"
+- "[[G0863I]]"
+- "[[G0846]]"
+- "[[G0235]]"
+- "[[G3004G]]"
+- "[[G5217]]"
+- "[[G1519]]"
+- "[[G3624G]]"
+- "[[G4771]]"
+- "[[G4314]]"
+- "[[G0518]]"
+- "[[G3745]]"
+- "[[G2962G]]"
+- "[[G4160G]]"
+- "[[G1653]]"
+texts:
+- no
+- k
+- NKO
+- N(k)O
+---
+
 **Mark 5:19**<big><big>[[Mark.5.1 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Howbeit Jesus suffered him not, but saith unto him, Go home to thy friends, and tell them how great things the Lord hath done for thee, and hath had compassion on thee.
 <small><sub>**BSB:**</sub></small>
 But Jesus would not allow him. “Go home to your own people,” He said, “and tell them how much the Lord has done for you, and what mercy He has shown you.”
-<small><sub>**Literal:**</sub></small>
-And <the> now Jesus not He did permit him, but He says to him; do go to the home of you to <the> your own and do declare to them as much as the Lord for you has done and He had mercy on you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.18|<< Mark 5:18]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.20|Mark 5:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G3756\|οὐκ]]  [[G0863I\|ἀφῆκεν]]  [[G0846\|αὐτόν,]]  [[G0235\|ἀλλὰ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ·]]  [[G5217\|ὕπαγε]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3624G\|οἶκόν]]  [[G4771\|σου]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G4771\|σοὺς]]  [[G2532\|καὶ]]  [[G0518\|ἀπάγγειλον]]  [[G0846\|αὐτοῖς]]  [[G3745\|ὅσα]]  [[G3588\|ὁ]]  [[G2962G\|κύριός]]  [[G4771\|σοι]]  [[G4160G\|πεποίηκεν]]  [[G2532\|καὶ]]  [[G1653\|ἠλέησέν]]  [[G4771\|σε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic GADARENES|GADARENES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic REGENERATION|REGENERATION]] • [[topic TESTIMONY|TESTIMONY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.18|<< Mark 5:18]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.20|Mark 5:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

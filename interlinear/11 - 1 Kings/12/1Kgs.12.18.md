@@ -1,8 +1,78 @@
+---
+title: 1 Kings 12:18
+type: Verse
+kjv: "Then king Rehoboam sent Adoram, who was over the tribute; and all Israel stoned him with stones, that he died. Therefore king Rehoboam made speed to get him up to his chariot, to flee to Jerusalem."
+bsb: "Then King Rehoboam sent out Adoram, who was in charge of the forced labor, but all Israel stoned him to death. And King Rehoboam mounted his chariot in haste and escaped to Jerusalem."
+hebrew: "וַיִּשְׁלַ֞ח הַמֶּ֣לֶךְ רְחַבְעָ֗ם אֶת־ אֲדֹרָם֙ אֲשֶׁ֣ר עַל־ הַמַּ֔ס וַיִּרְגְּמ֨וּ כָל־ יִשְׂרָאֵ֥ל בּ֛וֹ אֶ֖בֶן וַיָּמֹ֑ת וְהַמֶּ֣לֶךְ רְחַבְעָ֗ם הִתְאַמֵּץ֙ לַעֲל֣וֹת בַּמֶּרְכָּבָ֔ה לָנ֖וּס יְרוּשָׁלִָֽם׃"
+pericope: "[[1Kgs.12.16 The Kingdom Divided|The Kingdom Divided]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 12
+book/chapter: "[[1Kgs.12|1 Kings 12]]"
+chronological_order: 551
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ADONIRAM|ADONIRAM]]"
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic KING|KING]]"
+- "[[topic REBELLION|REBELLION]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic REVOLT|REVOLT]]"
+- "[[topic TAX|TAX]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H7346]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0151]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H4522]]"
+- "[[H7275]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H0068G]]"
+- "[[H4191]]"
+- "[[H9002]]"
+- "[[H0553]]"
+- "[[H9005]]"
+- "[[H5927K]]"
+- "[[H4818]]"
+- "[[H5127]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 12:18**<big><big>[[1Kgs.12.16 The Kingdom Divided|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then king Rehoboam sent Adoram, who [was] over the tribute; and all Israel stoned him with stones, that he died. Therefore king Rehoboam made speed to get him up to his chariot, to flee to Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Then King Rehoboam sent out Adoram, who was in charge of the forced labor, but all Israel stoned him to death. And King Rehoboam mounted his chariot in haste and escaped to Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֞ח]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H7346\|רְחַבְעָ֗ם]] [[H0853\|אֶת]][[H9014\|־]] [[H0151\|אֲדֹרָם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4522\|מַּ֔ס]] [[H9001\|וַ]][[H7275\|יִּרְגְּמ֨וּ]] [[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֥ל]] [[H9003\|בּ֛]][[H9033\|וֹ]] [[H0068G\|אֶ֖בֶן]] [[H9001\|וַ]][[H4191\|יָּמֹ֑ת]] [[H9002\|וְ]][[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H7346\|רְחַבְעָ֗ם]] [[H0553\|הִתְאַמֵּץ֙]] [[H9005\|לַ]][[H5927K\|עֲל֣וֹת]] [[H9003\|בַּ]][[H4818\|מֶּרְכָּבָ֔ה]] [[H9005\|לָ]][[H5127\|נ֖וּס]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADONIRAM|ADONIRAM]] • [[topic CANAAN|CANAAN]] • [[topic CITIZENS|CITIZENS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JEROBOAM|JEROBOAM]] • [[topic KING|KING]] • [[topic REBELLION|REBELLION]] • [[topic REHOBOAM|REHOBOAM]] • [[topic REVOLT|REVOLT]] • [[topic TAX|TAX]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.12.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.12.17|<< 1 Kings 12:17]]</td><td align="center" style="border:none;">[[1Kgs.12|1 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.12.19|1 Kings 12:19 >>]]</td></tr></table>
 

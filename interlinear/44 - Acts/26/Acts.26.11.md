@@ -1,10 +1,62 @@
+---
+title: Acts 26:11
+type: Verse
+kjv: "And I punished them oft in every synagogue, and compelled them to blaspheme; and being exceedingly mad against them, I persecuted them even unto strange cities."
+bsb: "I frequently had them punished in the synagogues, and I tried to make them blaspheme. In my raging fury against them, I even went to foreign cities to persecute them."
+greek: "καὶ κατὰ πάσας τὰς συναγωγὰς πολλάκις τιμωρῶν αὐτοὺς ἠνάγκαζον βλασφημεῖν, περισσῶς τε ἐμμαινόμενος αὐτοῖς ἐδίωκον ἕως καὶ εἰς τὰς ἔξω πόλεις."
+pericope: "[[Acts.26.1 Paul’s Testimony to Agrippa|Paul’s Testimony to Agrippa]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 26
+book/chapter: "[[Acts.26|Acts 26]]"
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic COURT|COURT]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2596]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4864]]"
+- "[[G4178]]"
+- "[[G5097]]"
+- "[[G0846]]"
+- "[[G0315]]"
+- "[[G0987]]"
+- "[[G4057]]"
+- "[[G5037]]"
+- "[[G1693]]"
+- "[[G1377]]"
+- "[[G2193]]"
+- "[[G1519]]"
+- "[[G1854]]"
+- "[[G4172]]"
+texts:
+- NKO
+---
+
 **Acts 26:11**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I punished them oft in every synagogue, and compelled [them] to blaspheme; and being exceedingly mad against them, I persecuted [them] even unto strange cities.
 <small><sub>**BSB:**</sub></small>
 I frequently had them punished in the synagogues, and I tried to make them blaspheme. In my raging fury against them, I even went to foreign cities to persecute them.
-<small><sub>**Literal:**</sub></small>
-And in all the synagogues often punishing them I was compelling [them] to blaspheme, Excessively then being furious against them I was persecuting [them] as far as even to <the> foreign cities.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.10|<< Acts 26:10]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.12|Acts 26:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2596\|κατὰ]]  [[G3956\|πάσας]]  [[G3588\|τὰς]]  [[G4864\|συναγωγὰς]]  [[G4178\|πολλάκις]]  [[G5097\|τιμωρῶν]]  [[G0846\|αὐτοὺς]]  [[G0315\|ἠνάγκαζον]]  [[G0987\|βλασφημεῖν,]]  [[G4057\|περισσῶς]]  [[G5037\|τε]]  [[G1693\|ἐμμαινόμενος]]  [[G0846\|αὐτοῖς]]  [[G1377\|ἐδίωκον]]  [[G2193\|ἕως]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G3588\|τὰς]]  [[G1854\|ἔξω]]  [[G4172\|πόλεις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic COURT|COURT]] • [[topic DEFENSE|DEFENSE]] • [[topic PAUL|PAUL]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.10|<< Acts 26:10]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.12|Acts 26:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

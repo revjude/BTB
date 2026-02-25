@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Leaven of the Pharisees and of Herod
+type: Pericope
 pericope: "[[Mark.8.14 The Leaven of the Pharisees and of Herod|The Leaven of the Pharisees and of Herod]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Mark
 chapter: 8
 book/chapter: "[[Mark.8|Mark 8]]"
-genre:
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 8
 verses:
 - "[[Mark.8.14]]"
 - "[[Mark.8.15]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Mark.8.21]]"
 ---
 
-[[Mark.8|Mark 8:14 - Mark 8:21]]
+<small>[[Mark.8|Mark 8:14-21]]</small>
 *The Leaven of the Pharisees and of Herod*
 
 [[Mark.8.14|14]] Now \[the disciples\] had forgotten to take bread, neither had they in the ship with them more than one loaf.

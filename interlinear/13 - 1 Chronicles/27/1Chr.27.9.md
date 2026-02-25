@@ -1,8 +1,61 @@
+---
+title: 1 Chronicles 27:9
+type: Verse
+kjv: "The sixth captain for the sixth month was Ira the son of Ikkesh the Tekoite: and in his course were twenty and four thousand."
+bsb: "The sixth, for the sixth month, was Ira son of Ikkesh the Tekoite. There were 24,000 men in his division."
+hebrew: "הַשִּׁשִּׁי֙ לַחֹ֣דֶשׁ הַשִּׁשִּׁ֔י עִירָ֥א בֶן־ עִקֵּ֖שׁ הַתְּקוֹעִ֑י וְעַל֙ מַחֲלֻקְתּ֔וֹ עֶשְׂרִ֥ים וְאַרְבָּעָ֖ה אָֽלֶף׃ ס"
+pericope: "[[1Chr.27.1 Twelve Captains for Twelve Months|Twelve Captains for Twelve Months]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 27
+book/chapter: "[[1Chr.27|1 Chronicles 27]]"
+chronological_order: 438
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic IKKESH|IKKESH]]"
+- "[[topic IRA|IRA]]"
+- "[[topic MONTH|MONTH]]"
+strongs:
+- "[[H9009]]"
+- "[[H8345]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H5896H]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H6142]]"
+- "[[H8621]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H4256]]"
+- "[[H9023]]"
+- "[[H6242]]"
+- "[[H0702]]"
+- "[[H0505G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Chronicles 27:9**<big><big>[[1Chr.27.1 Twelve Captains for Twelve Months|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sixth [captain] for the sixth month [was] Ira the son of Ikkesh the Tekoite: and in his course [were] twenty and four thousand.
 <small><sub>**BSB:**</sub></small>
 The sixth, for the sixth month, was Ira son of Ikkesh the Tekoite. There were 24,000 men in his division.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H8345\|שִּׁשִּׁי֙]] [[H9005\|לַ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הַ]][[H8345\|שִּׁשִּׁ֔י]] [[H5896H\|עִירָ֥א]] [[H1121A\|בֶן]][[H9014\|־]] [[H6142\|עִקֵּ֖שׁ]] [[H9009\|הַ]][[H8621\|תְּקוֹעִ֑י]] [[H9002\|וְ]][[H5921A\|עַל֙]] [[H4256\|מַחֲלֻקְתּ֔]][[H9023\|וֹ]] [[H6242\|עֶשְׂרִ֥ים]] [[H9002\|וְ]][[H0702\|אַרְבָּעָ֖ה]] [[H0505G\|אָֽלֶף]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic IKKESH|IKKESH]] • [[topic IRA|IRA]] • [[topic MONTH|MONTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.27.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.8|<< 1 Chronicles 27:8]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.10|1 Chronicles 27:10 >>]]</td></tr></table>
 
@@ -19,7 +72,7 @@ The sixth, for the sixth month, was Ira son of Ikkesh the Tekoite. There were 24
 | division his  |**<big>&#8207;[[H4256\|מַחֲלֻקְתּ֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ma.cha.luk.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | twenty  |**<big>&#8207;[[H6242\|עֶשְׂרִ֥ים]]&#8207; </big>**| 'es.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and four  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0702\|אַרְבָּעָ֖ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ar.ba.'Ah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thousand  |**<big>&#8207;[[H0505G\|אָֽלֶף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'A.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand  |**<big>&#8207;[[H0505G\|אָֽלֶף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'A.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.8|<< 1 Chronicles 27:8]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.10|1 Chronicles 27:10 >>]]</td></tr></table>
 
 

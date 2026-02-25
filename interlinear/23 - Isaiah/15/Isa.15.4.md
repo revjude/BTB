@@ -1,8 +1,64 @@
+---
+title: Isaiah 15:4
+type: Verse
+kjv: "And Heshbon shall cry, and Elealeh: their voice shall be heard even unto Jahaz: therefore the armed soldiers of Moab shall cry out; his life shall be grievous unto him."
+bsb: "Heshbon and Elealeh cry out; their voices are heard as far as Jahaz. Therefore the soldiers of Moab cry out; their souls tremble within."
+hebrew: "וַתִּזְעַ֤ק חֶשְׁבּוֹן֙ וְאֶלְעָלֵ֔ה עַד־ יַ֖הַץ נִשְׁמַ֣ע קוֹלָ֑ם עַל־ כֵּ֗ן חֲלֻצֵ֤י מוֹאָב֙ יָרִ֔יעוּ נַפְשׁ֖וֹ יָ֥רְעָה לּֽוֹ׃"
+pericope: "[[Isa.15.1 The Burden against Moab|The Burden against Moab]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 15
+book/chapter: "[[Isa.15|Isaiah 15]]"
+chronological_order: 632
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ELEALEH|ELEALEH]]"
+- "[[topic JAHAZ|JAHAZ]]"
+strongs:
+- "[[H9001]]"
+- "[[H2199]]"
+- "[[H2809]]"
+- "[[H9002]]"
+- "[[H0500]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H3096]]"
+- "[[H8085G]]"
+- "[[H6963A]]"
+- "[[H9028]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H2502B]]"
+- "[[H4124G]]"
+- "[[H7321]]"
+- "[[H5315G]]"
+- "[[H9023]]"
+- "[[H3415]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 15:4**<big><big>[[Isa.15.1 The Burden against Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Heshbon shall cry, and Elealeh: their voice shall be heard [even] unto Jahaz: therefore the armed soldiers of Moab shall cry out; his life shall be grievous unto him.
 <small><sub>**BSB:**</sub></small>
 Heshbon and Elealeh cry out; their voices are heard as far as Jahaz. Therefore the soldiers of Moab cry out; their souls tremble within.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2199\|תִּזְעַ֤ק]] [[H2809\|חֶשְׁבּוֹן֙]] [[H9002\|וְ]][[H0500\|אֶלְעָלֵ֔ה]] [[H5704\|עַד]][[H9014\|־]] [[H3096\|יַ֖הַץ]] [[H8085G\|נִשְׁמַ֣ע]] [[H6963A\|קוֹלָ֑]][[H9028\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֗ן]] [[H2502B\|חֲלֻצֵ֤י]] [[H4124G\|מוֹאָב֙]] [[H7321\|יָרִ֔יעוּ]] [[H5315G\|נַפְשׁ֖]][[H9023\|וֹ]] [[H3415\|יָ֥רְעָה]] [[H9005\|לּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELEALEH|ELEALEH]] • [[topic JAHAZ|JAHAZ]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.15.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.15.3|<< Isaiah 15:3]]</td><td align="center" style="border:none;">[[Isa.15|Isaiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.15.5|Isaiah 15:5 >>]]</td></tr></table>
 

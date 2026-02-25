@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Stubbornness of the People
+type: Pericope
 pericope: "[[Jer.44.15 The Stubbornness of the People|The Stubbornness of the People]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 44
 book/chapter: "[[Jer.44|Jeremiah 44]]"
-genre:
+chronological_order: 767
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 5
 verses:
 - "[[Jer.44.15]]"
 - "[[Jer.44.16]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Jer.44.19]]"
 ---
 
-[[Jer.44|Jeremiah 44:15 - Jeremiah 44:19]]
+<small>[[Jer.44|Jeremiah 44:15-19]]</small>
 *The Stubbornness of the People*
 
 [[Jer.44.15|15]] Then all the men which knew that their wives had burned incense unto other gods, and all the women that stood by, a great multitude, even all the people that dwelt in the land of Egypt, in Pathros, answered Jeremiah, saying,

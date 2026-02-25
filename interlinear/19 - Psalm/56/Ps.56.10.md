@@ -1,8 +1,50 @@
+---
+title: Psalm 56:10
+type: Verse
+kjv: "In God will I praise his word: in the LORD will I praise his word."
+bsb: "In God, whose word I praise, in the LORD, whose word I praise,"
+hebrew: "בֵּֽ֭אלֹהִים אֲהַלֵּ֣ל דָּבָ֑ר בַּ֝יהוָ֗ה אֲהַלֵּ֥ל דָּבָֽר׃"
+pericope: "[[Ps.56.1 Be Merciful to Me, O God|Be Merciful to Me, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 56
+book/chapter: "[[Ps.56|Psalm 56]]"
+chronological_order: 315
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H9003]]"
+- "[[H0430G]]"
+- "[[H1984B]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 56:10**<big><big>[[Ps.56.1 Be Merciful to Me, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In God will I praise [his] word: in the LORD will I praise [his] word.
 <small><sub>**BSB:**</sub></small>
 In God, whose word I praise, in the LORD, whose word I praise,
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בֵּֽ֭]][[H0430G\|אלֹהִים]] [[H1984B\|אֲהַלֵּ֣ל]] [[H1697G\|דָּבָ֑ר]] [[H9003\|בַּ֝]][[H3068G\|יהוָ֗ה]] [[H1984B\|אֲהַלֵּ֥ל]] [[H1697G\|דָּבָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.56.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.56.9|<< Psalms 56:9]]</td><td align="center" style="border:none;">[[Ps.56|Psalms 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.56.11|Psalms 56:11 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Genesis 31:11
+type: Verse
+kjv: "And the angel of God spake unto me in a dream, saying, Jacob: And I said, Here am I."
+bsb: "In that dream the angel of God said to me, ‘Jacob!’ And I replied, ‘Here I am.’"
+hebrew: "וַיֹּ֨אמֶר אֵלַ֜י מַלְאַ֧ךְ הָאֱלֹהִ֛ים בַּחֲל֖וֹם יַֽעֲקֹ֑ב וָאֹמַ֖ר הִנֵּֽנִי׃"
+pericope: "[[Gen.31.1 Jacob Flees from Laban|Jacob Flees from Laban]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic LABAN|LABAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H4397H]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H2472]]"
+- "[[H3290]]"
+- "[[H2009]]"
+- "[[H9040]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 31:11**<big><big>[[Gen.31.1 Jacob Flees from Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the angel of God spake unto me in a dream, [saying], Jacob: And I said, Here [am] I.
 <small><sub>**BSB:**</sub></small>
 In that dream the angel of God said to me, ‘Jacob!’ And I replied, ‘Here I am.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0413\|אֵלַ֜]][[H9030\|י]] [[H4397H\|מַלְאַ֧ךְ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֛ים]] [[H9003\|בַּ]][[H2472\|חֲל֖וֹם]] [[H3290\|יַֽעֲקֹ֑ב]] [[H9001\|וָ]][[H0559\|אֹמַ֖ר]] [[H2009\|הִנֵּֽנִ]][[H9040\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic LABAN|LABAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.10|<< Genesis 31:10]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.12|Genesis 31:12 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Isaiah 54:2
+type: Verse
+kjv: "Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, lengthen thy cords, and strengthen thy stakes;"
+bsb: "“Enlarge the site of your tent, stretch out the curtains of your dwellings, do not hold back. Lengthen your ropes and drive your stakes in deep."
+hebrew: "הַרְחִ֣יבִי׀ מְק֣וֹם אָהֳלֵ֗ךְ וִירִיע֧וֹת מִשְׁכְּנוֹתַ֛יִךְ יַטּ֖וּ אַל־ תַּחְשֹׂ֑כִי הַאֲרִ֙יכִי֙ מֵֽיתָרַ֔יִךְ וִיתֵדֹתַ֖יִךְ חַזֵּֽקִי׃"
+pericope: "[[Isa.54.1 Future Blessings for Zion|Future Blessings for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 54
+book/chapter: "[[Isa.54|Isaiah 54]]"
+chronological_order: 693
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CORD|CORD]]"
+- "[[topic CURTAINS|CURTAINS]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H7337]]"
+- "[[H9015]]"
+- "[[H4725]]"
+- "[[H0168G]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H3407]]"
+- "[[H4908]]"
+- "[[H5186]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H2820]]"
+- "[[H0748]]"
+- "[[H4340]]"
+- "[[H3489]]"
+- "[[H2388G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 54:2**<big><big>[[Isa.54.1 Future Blessings for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, lengthen thy cords, and strengthen thy stakes;
 <small><sub>**BSB:**</sub></small>
 “Enlarge the site of your tent, stretch out the curtains of your dwellings, do not hold back. Lengthen your ropes and drive your stakes in deep.
+<small><sub>**Hebrew:**</sub></small>
+[[H7337\|הַרְחִ֣יבִי]][[H9015\|׀]] [[H4725\|מְק֣וֹם]] [[H0168G\|אָהֳלֵ֗]][[H9022\|ךְ]] [[H9002\|וִ]][[H3407\|ירִיע֧וֹת]] [[H4908\|מִשְׁכְּנוֹתַ֛יִ]][[H9022\|ךְ]] [[H5186\|יַטּ֖וּ]] [[H0408\|אַל]][[H9014\|־]] [[H2820\|תַּחְשֹׂ֑כִי]] [[H0748\|הַאֲרִ֙יכִי֙]] [[H4340\|מֵֽיתָרַ֔יִ]][[H9022\|ךְ]] [[H9002\|וִ]][[H3489\|יתֵדֹתַ֖יִ]][[H9022\|ךְ]] [[H2388G\|חַזֵּֽקִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CORD|CORD]] • [[topic CURTAINS|CURTAINS]] • [[topic GENTILES|GENTILES]] • [[topic HEATHEN|HEATHEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.54.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.1|<< Isaiah 54:1]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.3|Isaiah 54:3 >>]]</td></tr></table>
 

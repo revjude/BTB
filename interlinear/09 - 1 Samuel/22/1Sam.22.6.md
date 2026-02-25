@@ -1,8 +1,69 @@
+---
+title: 1 Samuel 22:6
+type: Verse
+kjv: "When Saul heard that David was discovered, and the men that were with him, (now Saul abode in Gibeah under a tree in Ramah, having his spear in his hand, and all his servants were standing about him;)"
+bsb: "Soon Saul learned that David and his men had been discovered. At that time Saul was sitting under the tamarisk tree on the hill at Gibeah, with his spear in hand and all his servants standing around him."
+hebrew: "וַיִּשְׁמַ֣ע שָׁא֔וּל כִּ֚י נוֹדַ֣ע דָּוִ֔ד וַאֲנָשִׁ֖ים אֲשֶׁ֣ר אִתּ֑וֹ וְשָׁאוּל֩ יוֹשֵׁ֨ב בַּגִּבְעָ֜ה תַּֽחַת־ הָאֶ֤שֶׁל בָּֽרָמָה֙ וַחֲנִית֣וֹ בְיָד֔וֹ וְכָל־ עֲבָדָ֖יו נִצָּבִ֥ים עָלָֽיו׃"
+pericope: "[[1Sam.22.6 Saul Slays the Priests of Nob|Saul Slays the Priests of Nob]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 22
+book/chapter: "[[1Sam.22|1 Samuel 22]]"
+chronological_order: 301
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GIBEAH|GIBEAH]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MALICE|MALICE]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H7586G]]"
+- "[[H3588A]]"
+- "[[H3045]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H0582]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H1390H]]"
+- "[[H8478G]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0815]]"
+- "[[H7413]]"
+- "[[H2595]]"
+- "[[H9023]]"
+- "[[H3027H]]"
+- "[[H3605]]"
+- "[[H5650]]"
+- "[[H5324]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 22:6**<big><big>[[1Sam.22.6 Saul Slays the Priests of Nob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When Saul heard that David was discovered, and the men that [were] with him, (now Saul abode in Gibeah under a tree in Ramah, having his spear in his hand, and all his servants [were] standing about him;)
 <small><sub>**BSB:**</sub></small>
 Soon Saul learned that David and his men had been discovered. At that time Saul was sitting under the tamarisk tree on the hill at Gibeah, with his spear in hand and all his servants standing around him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֣ע]] [[H7586G\|שָׁא֔וּל]] [[H3588A\|כִּ֚י]] [[H3045\|נוֹדַ֣ע]] [[H1732\|דָּוִ֔ד]] [[H9002\|וַ]][[H0582\|אֲנָשִׁ֖ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H0854\|אִתּ֑]][[H9033\|וֹ]] [[H9002\|וְ]][[H7586G\|שָׁאוּל֩]] [[H3427\|יוֹשֵׁ֨ב]] [[H9003\|בַּ]][[H1390H\|גִּבְעָ֜ה]] [[H8478G\|תַּֽחַת]][[H9014\|־]] [[H9009\|הָ]][[H0815\|אֶ֤שֶׁל]] [[H9003\|בָּֽ]][[H7413\|רָמָה֙]] [[H9002\|וַ]][[H2595\|חֲנִית֣]][[H9023\|וֹ]] [[H9003\|בְ]][[H3027H\|יָד֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5650\|עֲבָדָ֖י]][[H9023\|ו]] [[H5324\|נִצָּבִ֥ים]] [[H5921A\|עָלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIBEAH|GIBEAH]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic MALICE|MALICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.22.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.22.5|<< 1 Samuel 22:5]]</td><td align="center" style="border:none;">[[1Sam.22|1 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.22.7|1 Samuel 22:7 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Psalm 141:10
+type: Verse
+kjv: "Let the wicked fall into their own nets, whilst that I withal escape."
+bsb: "Let the wicked fall into their own nets, while I pass by in safety."
+hebrew: "יִפְּל֣וּ בְמַכְמֹרָ֣יו רְשָׁעִ֑ים יַ֥חַד אָ֝נֹכִ֗י עַֽד־ אֶעֱבֽוֹר׃"
+pericope: "[[Ps.141.1 Come Quickly to Me|Come Quickly to Me]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 141
+book/chapter: "[[Ps.141|Psalm 141]]"
+chronological_order: 388
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic HUNTING|HUNTING]]"
+- "[[topic NET|NET]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H5307G]]"
+- "[[H9003]]"
+- "[[H4364B]]"
+- "[[H9023]]"
+- "[[H7563]]"
+- "[[H3162A]]"
+- "[[H0595]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5674A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 141:10**<big><big>[[Ps.141.1 Come Quickly to Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the wicked fall into their own nets, whilst that I withal escape.
 <small><sub>**BSB:**</sub></small>
 Let the wicked fall into their own nets, while I pass by in safety.
+<small><sub>**Hebrew:**</sub></small>
+[[H5307G\|יִפְּל֣וּ]] [[H9003\|בְ]][[H4364B\|מַכְמֹרָ֣י]][[H9023\|ו]] [[H7563\|רְשָׁעִ֑ים]] [[H3162A\|יַ֥חַד]] [[H0595\|אָ֝נֹכִ֗י]] [[H5704\|עַֽד]][[H9014\|־]] [[H5674A\|אֶעֱבֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic HUNTING|HUNTING]] • [[topic NET|NET]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.141.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.141.9|<< Psalms 141:9]]</td><td align="center" style="border:none;">[[Ps.141|Psalms 141]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.142.0|Psalms 142:0 >>]]</td></tr></table>
 

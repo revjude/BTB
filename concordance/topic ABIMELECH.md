@@ -1,7 +1,7 @@
 
 **ABIMELECH**
 
-1. King of Gerar [[Gen.20|Ge 20]]; [[Gen.21.22|21:22]]-[[Gen.21.32|32]]
+1. King of Gerar [[Gen.20|Ge 20]]; [[Gen.21.22|21:22-32]]
 
 2. King of Gerar [[Gen.26|Ge 26]]
 

@@ -1,8 +1,68 @@
+---
+title: Jeremiah 33:22
+type: Verse
+kjv: "As the host of heaven cannot be numbered, neither the sand of the sea measured: so will I multiply the seed of David my servant, and the Levites that minister unto me."
+bsb: "As the hosts of heaven cannot be counted and as the sand on the seashore cannot be measured, so too will I multiply the descendants of My servant David and the Levites who minister before Me.”"
+hebrew: "אֲשֶׁ֤ר לֹֽא־ יִסָּפֵר֙ צְבָ֣א הַשָּׁמַ֔יִם וְלֹ֥א יִמַּ֖ד ח֣וֹל הַיָּ֑ם כֵּ֣ן אַרְבֶּ֗ה אֶת־ זֶ֙רַע֙ דָּוִ֣ד עַבְדִּ֔י וְאֶת־ הַלְוִיִּ֖ם מְשָׁרְתֵ֥י אֹתִֽי׃ ס"
+pericope: "[[Jer.33.14 The Covenant with David|The Covenant with David]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 33
+book/chapter: "[[Jer.33|Jeremiah 33]]"
+chronological_order: 756
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5608A]]"
+- "[[H6635A]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H4058]]"
+- "[[H2344]]"
+- "[[H3220G]]"
+- "[[H3651C]]"
+- "[[H7235A]]"
+- "[[H0853]]"
+- "[[H2233H]]"
+- "[[H1732]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H3881]]"
+- "[[H8334]]"
+- "[[H9030]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 33:22**<big><big>[[Jer.33.14 The Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As the host of heaven cannot be numbered, neither the sand of the sea measured: so will I multiply the seed of David my servant, and the Levites that minister unto me.
 <small><sub>**BSB:**</sub></small>
 As the hosts of heaven cannot be counted and as the sand on the seashore cannot be measured, so too will I multiply the descendants of My servant David and the Levites who minister before Me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֤ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5608A\|יִסָּפֵר֙]] [[H6635A\|צְבָ֣א]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H4058\|יִמַּ֖ד]] [[H2344\|ח֣וֹל]] [[H9009\|הַ]][[H3220G\|יָּ֑ם]] [[H3651C\|כֵּ֣ן]] [[H7235A\|אַרְבֶּ֗ה]] [[H0853\|אֶת]][[H9014\|־]] [[H2233H\|זֶ֙רַע֙]] [[H1732\|דָּוִ֣ד]] [[H5650\|עַבְדִּ֔]][[H9020\|י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּ֖ם]] [[H8334\|מְשָׁרְתֵ֥י]] [[H0853\|אֹתִֽ]][[H9030\|י]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTRONOMY|ASTRONOMY]] • [[topic CHURCH|CHURCH]] • [[topic DAVID|DAVID]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.33.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.21|<< Jeremiah 33:21]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.23|Jeremiah 33:23 >>]]</td></tr></table>
 
@@ -26,7 +86,7 @@ As the hosts of heaven cannot be counted and as the sand on the seashore cannot 
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Levites  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3881\|לְוִיִּ֖ם]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] servants of  |**<big>&#8207;[[H8334\|מְשָׁרְתֵ֥י]]&#8207; </big>**| me.sha.re.Tei<small><sup>[[HVprmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> me  |**<big>&#8207;[[H0853\|אֹתִֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> me  |**<big>&#8207;[[H0853\|אֹתִֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.21|<< Jeremiah 33:21]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.23|Jeremiah 33:23 >>]]</td></tr></table>
 
 

@@ -1,8 +1,81 @@
+---
+title: 1 Samuel 21:9
+type: Verse
+kjv: "And the priest said, The sword of Goliath the Philistine, whom thou slewest in the valley of Elah, behold, it is here wrapped in a cloth behind the ephod: if thou wilt take that, take it: for there is no other save that here. And David said, There is none like that; give it me."
+bsb: "The priest replied, “The sword of Goliath the Philistine, whom you killed in the Valley of Elah, is here; it is wrapped in a cloth behind the ephod. If you want, you may take it. For there is no other but this one here.” And David said, “There is none like it; give it to me.”"
+hebrew: "וַיֹּ֣אמֶר הַכֹּהֵ֗ן חֶרֶב֩ גָּלְיָ֨ת הַפְּלִשְׁתִּ֜י אֲשֶׁר־ הִכִּ֣יתָ׀ בְּעֵ֣מֶק הָאֵלָ֗ה הִנֵּה־ הִ֞יא לוּטָ֣ה בַשִּׂמְלָה֮ אַחֲרֵ֣י הָאֵפוֹד֒ אִם־ אֹתָ֤הּ תִּֽקַּח־ לְךָ֙ קָ֔ח כִּ֣י אֵ֥ין אַחֶ֛רֶת זוּלָתָ֖הּ בָּזֶ֑ה וַיֹּ֧אמֶר דָּוִ֛ד אֵ֥ין כָּמ֖וֹהָ תְּנֶ֥נָּה לִּֽי׃"
+pericope: "[[1Sam.21.8 David Flees to Gath|David Flees to Gath]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 21
+book/chapter: "[[1Sam.21|1 Samuel 21]]"
+chronological_order: 300
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic ELAH|ELAH]]"
+- "[[topic GOLIATH|GOLIATH]]"
+- "[[topic NOB|NOB]]"
+- "[[topic SWORD|SWORD]]"
+- "[[topic TROPHIES|TROPHIES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H2719]]"
+- "[[H1555]]"
+- "[[H6430G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5221]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H6010I]]"
+- "[[H0425L]]"
+- "[[H2009]]"
+- "[[H1931]]"
+- "[[H3874]]"
+- "[[H8071]]"
+- "[[H0310A]]"
+- "[[H0646]]"
+- "[[H0518A]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H3947G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H0312]]"
+- "[[H2108]]"
+- "[[H2088]]"
+- "[[H1732]]"
+- "[[H3644G]]"
+- "[[H5414G]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 21:9**<big><big>[[1Sam.21.8 David Flees to Gath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest said, The sword of Goliath the Philistine, whom thou slewest in the valley of Elah, behold, it [is here] wrapped in a cloth behind the ephod: if thou wilt take that, take [it]: for [there is] no other save that here. And David said, [There is] none like that; give it me.
 <small><sub>**BSB:**</sub></small>
 The priest replied, “The sword of Goliath the Philistine, whom you killed in the Valley of Elah, is here; it is wrapped in a cloth behind the ephod. If you want, you may take it. For there is no other but this one here.” And David said, “There is none like it; give it to me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9009\|הַ]][[H3548\|כֹּהֵ֗ן]] [[H2719\|חֶרֶב֩]] [[H1555\|גָּלְיָ֨ת]] [[H9009\|הַ]][[H6430G\|פְּלִשְׁתִּ֜י]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5221\|הִכִּ֣יתָ]][[H9015\|׀]] [[H9003\|בְּ]][[H6010I\|עֵ֣מֶק]] [[H9009\|הָ]][[H0425L\|אֵלָ֗ה]] [[H2009\|הִנֵּה]][[H9014\|־]] [[H1931\|הִ֞יא]] [[H3874\|לוּטָ֣ה]] [[H9003\|בַ]][[H8071\|שִּׂמְלָה֮]] [[H0310A\|אַחֲרֵ֣י]] [[H9009\|הָ]][[H0646\|אֵפוֹד֒]] [[H0518A\|אִם]][[H9014\|־]] [[H0853\|אֹתָ֤]][[H9034\|הּ]] [[H3947G\|תִּֽקַּח]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H3947G\|קָ֔ח]] [[H3588A\|כִּ֣י]] [[H0369\|אֵ֥ין]] [[H0312\|אַחֶ֛רֶת]] [[H2108\|זוּלָתָ֖]][[H9034\|הּ]] [[H9003\|בָּ]][[H2088\|זֶ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֧אמֶר]] [[H1732\|דָּוִ֛ד]] [[H0369\|אֵ֥ין]] [[H3644G\|כָּמ֖וֹ]][[H9034\|הָ]] [[H5414G\|תְּנֶ֥]][[H9034\|נָּה]] [[H9005\|לִּֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic ELAH|ELAH]] • [[topic GOLIATH|GOLIATH]] • [[topic NOB|NOB]] • [[topic SWORD|SWORD]] • [[topic TROPHIES|TROPHIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.21.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.21.8|<< 1 Samuel 21:8]]</td><td align="center" style="border:none;">[[1Sam.21|1 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.21.10|1 Samuel 21:10 >>]]</td></tr></table>
 

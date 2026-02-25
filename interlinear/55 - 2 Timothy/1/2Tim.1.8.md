@@ -1,10 +1,62 @@
+---
+title: 2 Timothy 1:8
+type: Verse
+kjv: "Be not thou therefore ashamed of the testimony of our Lord, nor of me his prisoner: but be thou partaker of the afflictions of the gospel according to the power of God;"
+bsb: "So do not be ashamed of the testimony of our Lord, or of me, His prisoner. Instead, join me in suffering for the gospel by the power of God."
+greek: "Μὴ οὖν ἐπαισχυνθῇς τὸ μαρτύριον τοῦ κυρίου ἡμῶν μηδὲ ἐμὲ τὸν δέσμιον αὐτοῦ, ἀλλὰ συγκακοπάθησον τῷ εὐαγγελίῳ κατὰ δύναμιν θεοῦ"
+pericope: "[[2Tim.1.3 Faithfulness under Persecution|Faithfulness under Persecution]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 1
+book/chapter: "[[2Tim.1|2 Timothy 1]]"
+chronological_order: 1153
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic POWER|POWER]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[G3361]]"
+- "[[G3767]]"
+- "[[G1870]]"
+- "[[G3588]]"
+- "[[G3142]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G3366]]"
+- "[[G1473]]"
+- "[[G1198]]"
+- "[[G0846]]"
+- "[[G0235]]"
+- "[[G4777]]"
+- "[[G2098]]"
+- "[[G2596]]"
+- "[[G1411]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **2 Timothy 1:8**<big><big>[[2Tim.1.3 Faithfulness under Persecution|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Be not thou therefore ashamed of the testimony of our Lord, nor of me his prisoner: but be thou partaker of the afflictions of the gospel according to the power of God;
 <small><sub>**BSB:**</sub></small>
 So do not be ashamed of the testimony of our Lord, or of me, His prisoner. Instead, join me in suffering for the gospel by the power of God.
-<small><sub>**Literal:**</sub></small>
-Not therefore you may be ashamed of the testimony of the Lord of us nor of me myself the prisoner of Him, but do suffer together for the gospel according to [the] power of God<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.7|<< 2 Timothy 1:7]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.9|2 Timothy 1:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|Μὴ]]  [[G3767\|οὖν]]  [[G1870\|ἐπαισχυνθῇς]]  [[G3588\|τὸ]]  [[G3142\|μαρτύριον]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G3366\|μηδὲ]]  [[G1473\|ἐμὲ]]  [[G3588\|τὸν]]  [[G1198\|δέσμιον]]  [[G0846\|αὐτοῦ,]]  [[G0235\|ἀλλὰ]]  [[G4777\|συγκακοπάθησον]]  [[G3588\|τῷ]]  [[G2098\|εὐαγγελίῳ]]  [[G2596\|κατὰ]]  [[G1411\|δύναμιν]]  [[G2316\|θεοῦ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic POWER|POWER]] • [[topic TESTIMONY|TESTIMONY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.7|<< 2 Timothy 1:7]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.9|2 Timothy 1:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

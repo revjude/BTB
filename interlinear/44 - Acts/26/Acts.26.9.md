@@ -1,10 +1,55 @@
+---
+title: Acts 26:9
+type: Verse
+kjv: "I verily thought with myself, that I ought to do many things contrary to the name of Jesus of Nazareth."
+bsb: "So then, I too was convinced that I ought to do all I could to oppose the name of Jesus of Nazareth."
+greek: "Ἐγὼ μὲν οὖν ἔδοξα ἐμαυτῷ πρὸς τὸ ὄνομα Ἰησοῦ τοῦ Ναζωραίου δεῖν πολλὰ ἐναντία πρᾶξαι,"
+pericope: "[[Acts.26.1 Paul’s Testimony to Agrippa|Paul’s Testimony to Agrippa]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 26
+book/chapter: "[[Acts.26|Acts 26]]"
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1473]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G1380]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G2424G]]"
+- "[[G3480]]"
+- "[[G1163]]"
+- "[[G4183]]"
+- "[[G1727]]"
+- "[[G4238]]"
+texts:
+- NKO
+---
+
 **Acts 26:9**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I verily thought with myself, that I ought to do many things contrary to the name of Jesus of Nazareth.
 <small><sub>**BSB:**</sub></small>
 So then, I too was convinced that I ought to do all I could to oppose the name of Jesus of Nazareth.
-<small><sub>**Literal:**</sub></small>
-I myself indeed therefore thought in myself to the name of Jesus <the> of Nazareth needing many things contrary to do,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.8|<< Acts 26:8]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.10|Acts 26:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|Ἐγὼ]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G1380\|ἔδοξα]]  [[G1473\|ἐμαυτῷ]]  [[G4314\|πρὸς]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G2424G\|Ἰησοῦ]]  [[G3588\|τοῦ]]  [[G3480\|Ναζωραίου]]  [[G1163\|δεῖν]]  [[G4183\|πολλὰ]]  [[G1727\|ἐναντία]]  [[G4238\|πρᾶξαι,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic DEFENSE|DEFENSE]] • [[topic PAUL|PAUL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.8|<< Acts 26:8]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.10|Acts 26:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

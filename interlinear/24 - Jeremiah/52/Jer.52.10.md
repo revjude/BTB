@@ -1,8 +1,63 @@
+---
+title: Jeremiah 52:10
+type: Verse
+kjv: "And the king of Babylon slew the sons of Zedekiah before his eyes: he slew also all the princes of Judah in Riblah."
+bsb: "There at Riblah the king of Babylon slaughtered the sons of Zedekiah before his eyes, and he also killed all the officials of Judah."
+hebrew: "וַיִּשְׁחַ֧ט מֶֽלֶךְ־ בָּבֶ֛ל אֶת־ בְּנֵ֥י צִדְקִיָּ֖הוּ לְעֵינָ֑יו וְגַ֛ם אֶת־ כָּל־ שָׂרֵ֥י יְהוּדָ֖ה שָׁחַ֥ט בְּרִבְלָֽתָה׃"
+pericope: "[[Jer.52.1 The Fall of Jerusalem Recounted|The Fall of Jerusalem Recounted]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 52
+book/chapter: "[[Jer.52|Jeremiah 52]]"
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic MALICE|MALICE]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7819A]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H0894]]"
+- "[[H0853]]"
+- "[[H1121A]]"
+- "[[H6667H]]"
+- "[[H9005]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H3605]]"
+- "[[H8269]]"
+- "[[H3063G]]"
+- "[[H9003]]"
+- "[[H7247H]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 52:10**<big><big>[[Jer.52.1 The Fall of Jerusalem Recounted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Babylon slew the sons of Zedekiah before his eyes: he slew also all the princes of Judah in Riblah.
 <small><sub>**BSB:**</sub></small>
 There at Riblah the king of Babylon slaughtered the sons of Zedekiah before his eyes, and he also killed all the officials of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7819A\|יִּשְׁחַ֧ט]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֛ל]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנֵ֥י]] [[H6667H\|צִדְקִיָּ֖הוּ]] [[H9005\|לְ]][[H5869A\|עֵינָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H1571\|גַ֛ם]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H8269\|שָׂרֵ֥י]] [[H3063G\|יְהוּדָ֖ה]] [[H7819A\|שָׁחַ֥ט]] [[H9003\|בְּ]][[H7247H\|רִבְלָֽתָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MALICE|MALICE]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.9|<< Jeremiah 52:9]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.11|Jeremiah 52:11 >>]]</td></tr></table>
 

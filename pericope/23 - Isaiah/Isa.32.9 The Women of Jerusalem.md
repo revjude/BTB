@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Women of Jerusalem
+type: Pericope
 pericope: "[[Isa.32.9 The Women of Jerusalem|The Women of Jerusalem]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 32
 book/chapter: "[[Isa.32|Isaiah 32]]"
-genre:
+chronological_order: 675
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 12
 verses:
 - "[[Isa.32.9]]"
 - "[[Isa.32.10]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Isa.32.20]]"
 ---
 
-[[Isa.32|Isaiah 32:9 - Isaiah 32:20]]
+<small>[[Isa.32|Isaiah 32:9-20]]</small>
 *The Women of Jerusalem*
 
 [[Isa.32.9|9]] Rise up, ye women that are at ease; hear my voice, ye careless daughters; give ear unto my speech.

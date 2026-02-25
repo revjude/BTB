@@ -1,8 +1,59 @@
+---
+title: Isaiah 22:20
+type: Verse
+kjv: "And it shall come to pass in that day, that I will call my servant Eliakim the son of Hilkiah:"
+bsb: "On that day I will summon My servant, Eliakim son of Hilkiah."
+hebrew: "וְהָיָ֖ה בַּיּ֣וֹם הַה֑וּא וְקָרָ֣אתִי לְעַבְדִּ֔י לְאֶלְיָקִ֖ים בֶּן־ חִלְקִיָּֽהוּ׃"
+pericope: "[[Isa.22.15 A Message for Shebna|A Message for Shebna]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 22
+book/chapter: "[[Isa.22|Isaiah 22]]"
+chronological_order: 639
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic HILKIAH|HILKIAH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H7121G]]"
+- "[[H9005]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H0471G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H2518G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 22:20**<big><big>[[Isa.22.15 A Message for Shebna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass in that day, that I will call my servant Eliakim the son of Hilkiah:
 <small><sub>**BSB:**</sub></small>
 On that day I will summon My servant, Eliakim son of Hilkiah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֖ה]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֑וּא]] [[H9001\|וְ]][[H7121G\|קָרָ֣אתִי]] [[H9005\|לְ]][[H5650\|עַבְדִּ֔]][[H9020\|י]] [[H9005\|לְ]][[H0471G\|אֶלְיָקִ֖ים]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2518G\|חִלְקִיָּֽהוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic HILKIAH|HILKIAH]] • [[topic ISAIAH|ISAIAH]] • [[topic TYPES|TYPES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.22.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.19|<< Isaiah 22:19]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.21|Isaiah 22:21 >>]]</td></tr></table>
 

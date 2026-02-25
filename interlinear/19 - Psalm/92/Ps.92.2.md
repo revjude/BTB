@@ -1,8 +1,57 @@
+---
+title: Psalm 92:2
+type: Verse
+kjv: "To shew forth thy lovingkindness in the morning, and thy faithfulness every night,"
+bsb: "to proclaim Your loving devotion in the morning and Your faithfulness at night"
+hebrew: "לְהַגִּ֣יד בַּבֹּ֣קֶר חַסְֽדֶּ֑ךָ וֶ֝אֱמֽוּנָתְךָ֗ בַּלֵּילֽוֹת׃"
+pericope: "[[Ps.92.1 How Great Are Your Works!|How Great Are Your Works!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 92
+book/chapter: "[[Ps.92|Psalm 92]]"
+chronological_order: 519
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9005]]"
+- "[[H5046]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H2617A]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H0530]]"
+- "[[H3915]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 92:2**<big><big>[[Ps.92.1 How Great Are Your Works!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To shew forth thy lovingkindness in the morning, and thy faithfulness every night,
 <small><sub>**BSB:**</sub></small>
 to proclaim Your loving devotion in the morning and Your faithfulness at night
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H5046\|הַגִּ֣יד]] [[H9003\|בַּ]][[H1242\|בֹּ֣קֶר]] [[H2617A\|חַסְֽדֶּ֑]][[H9021\|ךָ]] [[H9002\|וֶ֝]][[H0530\|אֱמֽוּנָתְ]][[H9021\|ךָ֗]] [[H9003\|בַּ]][[H3915\|לֵּילֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]] • [[topic SABBATH|SABBATH]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.92.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.92.1|<< Psalms 92:1]]</td><td align="center" style="border:none;">[[Ps.92|Psalms 92]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.92.3|Psalms 92:3 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Psalm 79:5
+type: Verse
+kjv: "How long, LORD? wilt thou be angry for ever? shall thy jealousy burn like fire?"
+bsb: "How long, O LORD? Will You be angry forever? Will Your jealousy burn like fire?"
+hebrew: "עַד־ מָ֣ה יְ֭הוָה תֶּאֱנַ֣ף לָנֶ֑צַח תִּבְעַ֥ר כְּמוֹ־ אֵ֝֗שׁ קִנְאָתֶֽךָ׃"
+pericope: "[[Ps.79.1 A Prayer for Deliverance|A Prayer for Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 79
+book/chapter: "[[Ps.79|Psalm 79]]"
+chronological_order: 782
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+strongs:
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H4100]]"
+- "[[H3068G]]"
+- "[[H0599]]"
+- "[[H9005]]"
+- "[[H5331]]"
+- "[[H1197A]]"
+- "[[H3644G]]"
+- "[[H0784]]"
+- "[[H7068]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 79:5**<big><big>[[Ps.79.1 A Prayer for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How long, LORD? wilt thou be angry for ever? shall thy jealousy burn like fire?
 <small><sub>**BSB:**</sub></small>
 How long, O LORD? Will You be angry forever? Will Your jealousy burn like fire?
+<small><sub>**Hebrew:**</sub></small>
+[[H5704\|עַד]][[H9014\|־]] [[H4100\|מָ֣ה]] [[H3068G\|יְ֭הוָה]] [[H0599\|תֶּאֱנַ֣ף]] [[H9005\|לָ]][[H5331\|נֶ֑צַח]] [[H1197A\|תִּבְעַ֥ר]] [[H3644G\|כְּמוֹ]][[H9014\|־]] [[H0784\|אֵ֝֗שׁ]] [[H7068\|קִנְאָתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic JEALOUSY|JEALOUSY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.79.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.79.4|<< Psalms 79:4]]</td><td align="center" style="border:none;">[[Ps.79|Psalms 79]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.79.6|Psalms 79:6 >>]]</td></tr></table>
 

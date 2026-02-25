@@ -1,10 +1,57 @@
+---
+title: 1 Peter 3:22
+type: Verse
+kjv: "Who is gone into heaven, and is on the right hand of God; angels and authorities and powers being made subject unto him."
+bsb: "who has gone into heaven and is at the right hand of God, with angels, authorities, and powers subject to Him."
+greek: "ὅς ἐστιν ἐν δεξιᾷ τοῦ θεοῦ πορευθεὶς εἰς οὐρανόν, ὑποταγέντων αὐτῷ ἀγγέλων καὶ ἐξουσιῶν καὶ δυνάμεων.¶"
+pericope: "[[1Pet.3.14 Suffering for Righteousness|Suffering for Righteousness]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 3
+book/chapter: "[[1Pet.3|1 Peter 3]]"
+chronological_order: 1137
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G1188]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G4198]]"
+- "[[G1519]]"
+- "[[G3772]]"
+- "[[G5293]]"
+- "[[G0846]]"
+- "[[G0032G]]"
+- "[[G2532]]"
+- "[[G1849]]"
+- "[[G1411]]"
+texts:
+- NKO
+---
+
 **1 Peter 3:22**<big><big>[[1Pet.3.14 Suffering for Righteousness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who is gone into heaven, and is on the right hand of God; angels and authorities and powers being made subject unto him.
 <small><sub>**BSB:**</sub></small>
 who has gone into heaven and is at the right hand of God, with angels, authorities, and powers subject to Him.
-<small><sub>**Literal:**</sub></small>
-who is at [the] right hand <the> of God having gone into heaven, when were being subjected to Him angels and authorities and powers.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.21|<< 1 Peter 3:21]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.1|1 Peter 4:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὅς]]  [[G1510\|ἐστιν]]  [[G1722\|ἐν]]  [[G1188\|δεξιᾷ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G4198\|πορευθεὶς]]  [[G1519\|εἰς]]  [[G3772\|οὐρανόν,]]  [[G5293\|ὑποταγέντων]]  [[G0846\|αὐτῷ]]  [[G0032G\|ἀγγέλων]]  [[G2532\|καὶ]]  [[G1849\|ἐξουσιῶν]]  [[G2532\|καὶ]]  [[G1411\|δυνάμεων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POWER|POWER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.21|<< 1 Peter 3:21]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.1|1 Peter 4:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

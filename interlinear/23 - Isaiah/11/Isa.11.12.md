@@ -1,8 +1,62 @@
+---
+title: Isaiah 11:12
+type: Verse
+kjv: "And he shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth."
+bsb: "He will raise a banner for the nations and gather the exiles of Israel; He will collect the scattered of Judah from the four corners of the earth."
+hebrew: "וְנָשָׂ֥א נֵס֙ לַגּוֹיִ֔ם וְאָסַ֖ף נִדְחֵ֣י יִשְׂרָאֵ֑ל וּנְפֻצ֤וֹת יְהוּדָה֙ יְקַבֵּ֔ץ מֵאַרְבַּ֖ע כַּנְפ֥וֹת הָאָֽרֶץ׃"
+pericope: "[[Isa.11.1 The Root of Jesse|The Root of Jesse]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 11
+book/chapter: "[[Isa.11|Isaiah 11]]"
+chronological_order: 621
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ENSIGN|ENSIGN]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9001]]"
+- "[[H5375G]]"
+- "[[H5251H]]"
+- "[[H9005]]"
+- "[[H1471A]]"
+- "[[H0622]]"
+- "[[H5080]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H5310B]]"
+- "[[H3063G]]"
+- "[[H6908]]"
+- "[[H9006]]"
+- "[[H0702]]"
+- "[[H3671]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 11:12**<big><big>[[Isa.11.1 The Root of Jesse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth.
 <small><sub>**BSB:**</sub></small>
 He will raise a banner for the nations and gather the exiles of Israel; He will collect the scattered of Judah from the four corners of the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5375G\|נָשָׂ֥א]] [[H5251H\|נֵס֙]] [[H9005\|לַ]][[H1471A\|גּוֹיִ֔ם]] [[H9001\|וְ]][[H0622\|אָסַ֖ף]] [[H5080\|נִדְחֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וּ]][[H5310B\|נְפֻצ֤וֹת]] [[H3063G\|יְהוּדָה֙]] [[H6908\|יְקַבֵּ֔ץ]] [[H9006\|מֵ]][[H0702\|אַרְבַּ֖ע]] [[H3671\|כַּנְפ֥וֹת]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENSIGN|ENSIGN]] • [[topic EPHRAIM|EPHRAIM]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.11|<< Isaiah 11:11]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.11.13|Isaiah 11:13 >>]]</td></tr></table>
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Elihu Rebukes Job’s Friends
+type: Pericope
 pericope: "[[Job.32.1 Elihu Rebukes Job’s Friends|Elihu Rebukes Job’s Friends]]"
-verse_count: 22
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 32
 book/chapter: "[[Job.32|Job 32]]"
-genre:
+chronological_order: 43
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 22
 verses:
 - "[[Job.32.1]]"
 - "[[Job.32.2]]"
@@ -41,7 +48,7 @@ verses:
 - "[[Job.32.22]]"
 ---
 
-[[Job.32|Job 32:1 - Job 32:22]]
+<small>[[Job.32|Job 32:1-22]]</small>
 *Elihu Rebukes Job’s Friends*
 
 [[Job.32.1|1]] So these three men ceased to answer Job, because he \[was\] righteous in his own eyes.

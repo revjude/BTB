@@ -1,8 +1,74 @@
+---
+title: 1 Kings 9:7
+type: Verse
+kjv: "Then will I cut off Israel out of the land which I have given them; and this house, which I have hallowed for my name, will I cast out of my sight; and Israel shall be a proverb and a byword among all people:"
+bsb: "then I will cut off Israel from the land that I have given them, and I will banish from My presence this temple I have sanctified for My Name. Then Israel will become an object of scorn and ridicule among all peoples."
+hebrew: "וְהִכְרַתִּ֣י אֶת־ יִשְׂרָאֵ֗ל מֵעַ֨ל פְּנֵ֤י הָאֲדָמָה֙ אֲשֶׁ֣ר נָתַ֣תִּי לָהֶ֔ם וְאֶת־ הַבַּ֙יִת֙ אֲשֶׁ֣ר הִקְדַּ֣שְׁתִּי לִשְׁמִ֔י אֲשַׁלַּ֖ח מֵעַ֣ל פָּנָ֑י וְהָיָ֧ה יִשְׂרָאֵ֛ל לְמָשָׁ֥ל וְלִשְׁנִינָ֖ה בְּכָל־ הָעַמִּֽים׃"
+pericope: "[[1Kgs.9.1 The LORD’s Response to Solomon|The LORD’s Response to Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 9
+book/chapter: "[[1Kgs.9|1 Kings 9]]"
+chronological_order: 534
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H3772I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H6440H]]"
+- "[[H9009]]"
+- "[[H0127G]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H1004B]]"
+- "[[H6942G]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H7971G]]"
+- "[[H1961]]"
+- "[[H4912]]"
+- "[[H8148]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 9:7**<big><big>[[1Kgs.9.1 The LORD’s Response to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then will I cut off Israel out of the land which I have given them; and this house, which I have hallowed for my name, will I cast out of my sight; and Israel shall be a proverb and a byword among all people:
 <small><sub>**BSB:**</sub></small>
 then I will cut off Israel from the land that I have given them, and I will banish from My presence this temple I have sanctified for My Name. Then Israel will become an object of scorn and ridicule among all peoples.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3772I\|הִכְרַתִּ֣י]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9006\|מֵ]][[H5921A\|עַ֨ל]] [[H6440H\|פְּנֵ֤י]] [[H9009\|הָ]][[H0127G\|אֲדָמָה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5414G\|נָתַ֣תִּי]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּ֙יִת֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6942G\|הִקְדַּ֣שְׁתִּי]] [[H9005\|לִ]][[H8034\|שְׁמִ֔]][[H9020\|י]] [[H7971G\|אֲשַׁלַּ֖ח]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H6440H\|פָּנָ֑]][[H9020\|י]] [[H9001\|וְ]][[H1961\|הָיָ֧ה]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H9005\|לְ]][[H4912\|מָשָׁ֥ל]] [[H9002\|וְ]][[H9005\|לִ]][[H8148\|שְׁנִינָ֖ה]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עַמִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic PROBATION|PROBATION]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.6|<< 1 Kings 9:6]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.8|1 Kings 9:8 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Judges 16:24
+type: Verse
+kjv: "And when the people saw him, they praised their god: for they said, Our god hath delivered into our hands our enemy, and the destroyer of our country, which slew many of us."
+bsb: "And when the people saw him, they praised their god, saying: “Our god has delivered into our hands our enemy who destroyed our land and multiplied our dead.”"
+hebrew: "וַיִּרְא֤וּ אֹתוֹ֙ הָעָ֔ם וַֽיְהַלְל֖וּ אֶת־ אֱלֹהֵיהֶ֑ם כִּ֣י אָמְר֗וּ נָתַ֨ן אֱלֹהֵ֤ינוּ בְיָדֵ֙נוּ֙ אֶת־ א֣וֹיְבֵ֔נוּ וְאֵת֙ מַחֲרִ֣יב אַרְצֵ֔נוּ וַאֲשֶׁ֥ר הִרְבָּ֖ה אֶת־ חֲלָלֵֽינוּ׃"
+pericope: "[[Judg.16.23 Samson’s Vengeance and Death|Samson’s Vengeance and Death]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 16
+book/chapter: "[[Judg.16|Judges 16]]"
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic GAZA|GAZA]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H1984B]]"
+- "[[H9014]]"
+- "[[H0430G]]"
+- "[[H9028]]"
+- "[[H3588A]]"
+- "[[H0559]]"
+- "[[H5414G]]"
+- "[[H9025]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H0341]]"
+- "[[H9002]]"
+- "[[H2717B]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H7235A]]"
+- "[[H2491A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 16:24**<big><big>[[Judg.16.23 Samson’s Vengeance and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the people saw him, they praised their god: for they said, Our god hath delivered into our hands our enemy, and the destroyer of our country, which slew many of us.
 <small><sub>**BSB:**</sub></small>
 And when the people saw him, they praised their god, saying: “Our god has delivered into our hands our enemy who destroyed our land and multiplied our dead.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יִּרְא֤וּ]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9001\|וַֽ]][[H1984B\|יְהַלְל֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0430G\|אֱלֹהֵי]][[H9028\|הֶ֑ם]] [[H3588A\|כִּ֣י]] [[H0559\|אָמְר֗וּ]] [[H5414G\|נָתַ֨ן]] [[H0430G\|אֱלֹהֵ֤י]][[H9025\|נוּ]] [[H9003\|בְ]][[H3027H\|יָדֵ֙]][[H9025\|נוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0341\|א֣וֹיְבֵ֔]][[H9025\|נוּ]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H2717B\|מַחֲרִ֣יב]] [[H0776G\|אַרְצֵ֔]][[H9025\|נוּ]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֥ר]] [[H7235A\|הִרְבָּ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H2491A\|חֲלָלֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic GAZA|GAZA]] • [[topic IDOLATRY|IDOLATRY]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.23|<< Judges 16:23]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.25|Judges 16:25 >>]]</td></tr></table>
 

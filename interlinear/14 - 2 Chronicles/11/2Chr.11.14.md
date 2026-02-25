@@ -1,8 +1,68 @@
+---
+title: 2 Chronicles 11:14
+type: Verse
+kjv: "For the Levites left their suburbs and their possession, and came to Judah and Jerusalem: for Jeroboam and his sons had cast them off from executing the priest’s office unto the LORD:"
+bsb: "For the Levites left their pasturelands and their possessions and went to Judah and Jerusalem, because Jeroboam and his sons had rejected them as priests of the LORD."
+hebrew: "כִּֽי־ עָזְב֣וּ הַלְוִיִּ֗ם אֶת־ מִגְרְשֵׁיהֶם֙ וַאֲחֻזָּתָ֔ם וַיֵּלְכ֥וּ לִיהוּדָ֖ה וְלִֽירוּשָׁלִָ֑ם כִּֽי־ הִזְנִיחָ֤ם יָֽרָבְעָם֙ וּבָנָ֔יו מִכַּהֵ֖ן לַיהוָֽה׃"
+pericope: "[[2Chr.11.13 Jeroboam Forsakes the Priests and Levites|Jeroboam Forsakes the Priests and Levites]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 11
+book/chapter: "[[2Chr.11|2 Chronicles 11]]"
+chronological_order: 557
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5800A]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H0853]]"
+- "[[H4054]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H0272]]"
+- "[[H9001]]"
+- "[[H1980H]]"
+- "[[H9005]]"
+- "[[H3063G]]"
+- "[[H3389]]"
+- "[[H2186A]]"
+- "[[H9038]]"
+- "[[H3379G]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H3547]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 11:14**<big><big>[[2Chr.11.13 Jeroboam Forsakes the Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the Levites left their suburbs and their possession, and came to Judah and Jerusalem: for Jeroboam and his sons had cast them off from executing the priest’s office unto the LORD:
 <small><sub>**BSB:**</sub></small>
 For the Levites left their pasturelands and their possessions and went to Judah and Jerusalem, because Jeroboam and his sons had rejected them as priests of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H5800A\|עָזְב֣וּ]] [[H9009\|הַ]][[H3881\|לְוִיִּ֗ם]] [[H0853\|אֶת]][[H9014\|־]] [[H4054\|מִגְרְשֵׁי]][[H9028\|הֶם֙]] [[H9002\|וַ]][[H0272\|אֲחֻזָּתָ֔]][[H9028\|ם]] [[H9001\|וַ]][[H1980H\|יֵּלְכ֥וּ]] [[H9005\|לִ]][[H3063G\|יהוּדָ֖ה]] [[H9002\|וְ]][[H9005\|לִֽ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2186A\|הִזְנִיחָ֤]][[H9038\|ם]] [[H3379G\|יָֽרָבְעָם֙]] [[H9002\|וּ]][[H1121A\|בָנָ֔י]][[H9023\|ו]] [[H9006\|מִ]][[H3547\|כַּהֵ֖ן]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEROBOAM|JEROBOAM]] • [[topic LEVITES|LEVITES]] • [[topic REHOBOAM|REHOBOAM]] • [[topic RELIGION|RELIGION]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.11.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.11.13|<< 2 Chronicles 11:13]]</td><td align="center" style="border:none;">[[2Chr.11|2 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.11.15|2 Chronicles 11:15 >>]]</td></tr></table>
 

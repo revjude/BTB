@@ -1,10 +1,66 @@
+---
+title: John 5:14
+type: Verse
+kjv: "Afterward Jesus findeth him in the temple, and said unto him, Behold, thou art made whole: sin no more, lest a worse thing come unto thee."
+bsb: "Afterward, Jesus found the man at the temple and said to him, “See, you have been made well. Stop sinning, or something worse may happen to you.”"
+jesus_said: "Behold, thou art made whole: sin no more, lest a worse thing come unto thee."
+greek: "μετὰ ταῦτα εὑρίσκει αὐτὸν ὁ Ἰησοῦς ἐν τῷ ἱερῷ καὶ εἶπεν αὐτῷ· ἴδε ὑγιὴς γέγονας· μηκέτι ἁμάρτανε ἵνα μὴ χεῖρόν σοί τι γένηται."
+pericope: "[[John.5.1 The Pool of Bethesda|The Pool of Bethesda]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 5
+book/chapter: "[[John.5|John 5]]"
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3326]]"
+- "[[G3778]]"
+- "[[G2147]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1722]]"
+- "[[G2411]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G2396]]"
+- "[[G5199]]"
+- "[[G1096]]"
+- "[[G3371]]"
+- "[[G0264]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G5501]]"
+- "[[G4771]]"
+- "[[G5100]]"
+texts:
+- NKO
+---
+
 **John 5:14**<big><big>[[John.5.1 The Pool of Bethesda|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Afterward Jesus findeth him in the temple, and said unto him, Behold, thou art made whole: sin no more, lest a worse thing come unto thee.
 <small><sub>**BSB:**</sub></small>
 Afterward, Jesus found the man at the temple and said to him, “See, you have been made well. Stop sinning, or something worse may happen to you.”
-<small><sub>**Literal:**</sub></small>
-After these things finds him <the> Jesus in the temple and said to him; Behold well you have become; no more do sin that not worse to you something may happen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.13|<< John 5:13]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.15|John 5:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3326\|μετὰ]]  [[G3778\|ταῦτα]]  [[G2147\|εὑρίσκει]]  [[G0846\|αὐτὸν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2411\|ἱερῷ]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G2396\|ἴδε]]  [[G5199\|ὑγιὴς]]  [[G1096\|γέγονας·]]  [[G3371\|μηκέτι]]  [[G0264\|ἁμάρτανε]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G5501\|χεῖρόν]]  [[G4771\|σοί]]  [[G5100\|τι]]  [[G1096\|γένηται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLINESS|HOLINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]] • [[topic TEMPLE|TEMPLE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.13|<< John 5:13]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.15|John 5:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,63 @@
+---
+title: Revelation 19:9
+type: Verse
+kjv: "And he saith unto me, Write, Blessed are they which are called unto the marriage supper of the Lamb. And he saith unto me, These are the true sayings of God."
+bsb: "Then the angel told me to write, “Blessed are those who are invited to the marriage supper of the Lamb.” And he said to me, “These are the true words of God.”"
+greek: "καὶ λέγει μοι· γράψον· μακάριοι οἱ εἰς τὸ δεῖπνον τοῦ γάμου τοῦ ἀρνίου κεκλημένοι. καὶ λέγει μοι· οὗτοι οἱ λόγοι ἀληθινοὶ τοῦ θεοῦ εἰσιν."
+pericope: "[[Rev.19.6 The Marriage of the Lamb|The Marriage of the Lamb]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 19
+book/chapter: "[[Rev.19|Revelation 19]]"
+chronological_order: 1186
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G3165]]"
+- "[[G1125]]"
+- "[[G3107]]"
+- "[[G3588]]"
+- "[[G1519]]"
+- "[[G1173]]"
+- "[[G1062]]"
+- "[[G0721]]"
+- "[[G2564G]]"
+- "[[G3778]]"
+- "[[G3056]]"
+- "[[G0228]]"
+- "[[G2316]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **Revelation 19:9**<big><big>[[Rev.19.6 The Marriage of the Lamb|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he saith unto me, Write, Blessed [are] they which are called unto the marriage supper of the Lamb. And he saith unto me, These are the true sayings of God.
 <small><sub>**BSB:**</sub></small>
 Then the angel told me to write, “Blessed are those who are invited to the marriage supper of the Lamb.” And he said to me, “These are the true words of God.”
-<small><sub>**Literal:**</sub></small>
-And he says to me; do write; Blessed [are] those to the supper of the marriage of the Lamb invited. And he says to me; These the words true <the> of God are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.8|<< Revelation 19:8]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.10|Revelation 19:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G3165\|μοι·]]  [[G1125\|γράψον·]]  [[G3107\|μακάριοι]]  [[G3588\|οἱ]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G1173\|δεῖπνον]]  [[G3588\|τοῦ]]  [[G1062\|γάμου]]  [[G3588\|τοῦ]]  [[G0721\|ἀρνίου]]  [[G2564G\|κεκλημένοι.]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G3165\|μοι·]]  [[G3778\|οὗτοι]]  [[G3588\|οἱ]]  [[G3056\|λόγοι]]  [[G0228\|ἀληθινοὶ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1510\|εἰσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic FEASTS|FEASTS]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARRIAGE|MARRIAGE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.8|<< Revelation 19:8]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.10|Revelation 19:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

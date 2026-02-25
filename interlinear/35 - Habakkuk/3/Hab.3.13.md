@@ -1,8 +1,58 @@
+---
+title: Habakkuk 3:13
+type: Verse
+kjv: "Thou wentest forth for the salvation of thy people, even for salvation with thine anointed; thou woundedst the head out of the house of the wicked, by discovering the foundation unto the neck. Selah."
+bsb: "You went forth for the salvation of Your people, to save Your anointed. You crushed the head of the house of the wicked and stripped him from head to toe. Selah"
+hebrew: "יָצָ֙אתָ֙ לְיֵ֣שַׁע עַמֶּ֔ךָ לְיֵ֖שַׁע אֶת־ מְשִׁיחֶ֑ךָ מָחַ֤צְתָּ רֹּאשׁ֙ מִבֵּ֣ית רָשָׁ֔ע עָר֛וֹת יְס֥וֹד עַד־ צַוָּ֖אר סֶֽלָה׃ פ"
+pericope: "[[Hab.3.1 Habakkuk’s Prayer|Habakkuk’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 3
+book/chapter: "[[Hab.3|Habakkuk 3]]"
+chronological_order: 740
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+strongs:
+- "[[H3318G]]"
+- "[[H9005]]"
+- "[[H3468]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4899]]"
+- "[[H4272]]"
+- "[[H7218H]]"
+- "[[H9006]]"
+- "[[H1004M]]"
+- "[[H7563]]"
+- "[[H6168]]"
+- "[[H3247H]]"
+- "[[H5704]]"
+- "[[H6677A]]"
+- "[[H5542]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Habakkuk 3:13**<big><big>[[Hab.3.1 Habakkuk’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou wentest forth for the salvation of thy people, [even] for salvation with thine anointed; thou woundedst the head out of the house of the wicked, by discovering the foundation unto the neck. Selah.
 <small><sub>**BSB:**</sub></small>
 You went forth for the salvation of Your people, to save Your anointed. You crushed the head of the house of the wicked and stripped him from head to toe. Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H3318G\|יָצָ֙אתָ֙]] [[H9005\|לְ]][[H3468\|יֵ֣שַׁע]] [[H5971A\|עַמֶּ֔]][[H9021\|ךָ]] [[H9005\|לְ]][[H3468\|יֵ֖שַׁע]] [[H0853\|אֶת]][[H9014\|־]] [[H4899\|מְשִׁיחֶ֑]][[H9021\|ךָ]] [[H4272\|מָחַ֤צְתָּ]] [[H7218H\|רֹּאשׁ֙]] [[H9006\|מִ]][[H1004M\|בֵּ֣ית]] [[H7563\|רָשָׁ֔ע]] [[H6168\|עָר֛וֹת]] [[H3247H\|יְס֥וֹד]] [[H5704\|עַד]][[H9014\|־]] [[H6677A\|צַוָּ֖אר]] [[H5542\|סֶֽלָה]][[H9016\|׃]] [[H9017\|פ]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.12|<< Habakkuk 3:12]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.14|Habakkuk 3:14 >>]]</td></tr></table>
 
@@ -22,7 +72,7 @@ You went forth for the salvation of Your people, to save Your anointed. You crus
 | foundation[s]  |**<big>&#8207;[[H3247H\|יְס֥וֹד]]&#8207; </big>**| ye.Sod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | neck  |**<big>&#8207;[[H6677A\|צַוָּ֖אר]]&#8207; </big>**| tza.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Selah  |**<big>&#8207;[[H5542\|סֶֽלָה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Se.lah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Selah  |**<big>&#8207;[[H5542\|סֶֽלָה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Se.lah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.12|<< Habakkuk 3:12]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.14|Habakkuk 3:14 >>]]</td></tr></table>
 
 

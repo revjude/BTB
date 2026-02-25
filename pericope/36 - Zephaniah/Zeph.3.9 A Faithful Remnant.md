@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Faithful Remnant
+type: Pericope
 pericope: "[[Zeph.3.9 A Faithful Remnant|A Faithful Remnant]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Zephaniah
 chapter: 3
 book/chapter: "[[Zeph.3|Zephaniah 3]]"
-genre:
+chronological_order: 717
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 5
 verses:
 - "[[Zeph.3.9]]"
 - "[[Zeph.3.10]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Zeph.3.13]]"
 ---
 
-[[Zeph.3|Zephaniah 3:9 - Zephaniah 3:13]]
+<small>[[Zeph.3|Zephaniah 3:9-13]]</small>
 *A Faithful Remnant*
 
 [[Zeph.3.9|9]] For then will I turn to the people a pure language, that they may all call upon the name of the LORD, to serve him with one consent.

@@ -1,10 +1,59 @@
+---
+title: Revelation 18:11
+type: Verse
+kjv: "And the merchants of the earth shall weep and mourn over her; for no man buyeth their merchandise any more:"
+bsb: "And the merchants of the earth will weep and mourn over her, because there is no one left to buy their cargo—"
+greek: "καὶ οἱ ἔμποροι τῆς γῆς κλαίουσιν καὶ πενθοῦσιν ἐπ᾽ αὐτήν, ὅτι τὸν γόμον αὐτῶν οὐδεὶς ἀγοράζει οὐκέτι· οὐκέτι·"
+pericope: "[[Rev.18.9 Lament over Babylon|Lament over Babylon]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 18
+book/chapter: "[[Rev.18|Revelation 18]]"
+chronological_order: 1185
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic FRANKINCENSE|FRANKINCENSE]]"
+- "[[topic MERCHANT|MERCHANT]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1713]]"
+- "[[G1093G]]"
+- "[[G2799]]"
+- "[[G3996]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G3754H]]"
+- "[[G1117]]"
+- "[[G3762]]"
+- "[[G0059]]"
+- "[[G3756]]"
+- "[[G2089]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Revelation 18:11**<big><big>[[Rev.18.9 Lament over Babylon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the merchants of the earth shall weep and mourn over her; for no man buyeth their merchandise any more:
 <small><sub>**BSB:**</sub></small>
 And the merchants of the earth will weep and mourn over her, because there is no one left to buy their cargo—
-<small><sub>**Literal:**</sub></small>
-And the merchants of the earth weep and they mourn for her, because the cargo of them no [one] buys no longer<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.10|<< Revelation 18:10]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.12|Revelation 18:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G1713\|ἔμποροι]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G2799\|κλαίουσιν]]  [[G2532\|καὶ]]  [[G3996\|πενθοῦσιν]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτήν,]]  [[G3754H\|ὅτι]]  [[G3588\|τὸν]]  [[G1117\|γόμον]]  [[G0846\|αὐτῶν]]  [[G3762\|οὐδεὶς]]  [[G0059\|ἀγοράζει]]  [[G3756\|οὐκέτι·]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic FRANKINCENSE|FRANKINCENSE]] • [[topic MERCHANT|MERCHANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.10|<< Revelation 18:10]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.12|Revelation 18:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 18:11** is...
 > $\quad$ alluding to: [[LXX.Isa.23.8|Isa 23:8]] ☩ [[LXX.Ezek.27.3|Ezek 27:3]]

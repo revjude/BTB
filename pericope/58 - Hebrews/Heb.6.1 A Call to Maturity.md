@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Call to Maturity
+type: Pericope
 pericope: "[[Heb.6.1 A Call to Maturity|A Call to Maturity]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 6
 book/chapter: "[[Heb.6|Hebrews 6]]"
-genre:
+chronological_order: 1145
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 12
 verses:
 - "[[Heb.6.1]]"
 - "[[Heb.6.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Heb.6.12]]"
 ---
 
-[[Heb.6|Hebrews 6:1 - Hebrews 6:12]]
+<small>[[Heb.6|Hebrews 6:1-12]]</small>
 *A Call to Maturity*
 
 [[Heb.6.1|1]] Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,

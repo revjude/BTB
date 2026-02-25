@@ -1,10 +1,65 @@
+---
+title: Revelation 11:15
+type: Verse
+kjv: "And the seventh angel sounded; and there were great voices in heaven, saying, The kingdoms of this world are become the kingdoms of our Lord, and of his Christ; and he shall reign for ever and ever."
+bsb: "Then the seventh angel sounded his trumpet, and loud voices called out in heaven: “The kingdom of the world has become the kingdom of our Lord and of His Christ, and He will reign forever and ever.”"
+greek: "Καὶ ὁ ἕβδομος ἄγγελος ἐσάλπισεν, καὶ ἐγένοντο φωναὶ μεγάλαι ἐν τῷ οὐρανῷ λέγοντες· ἐγένετο ἡ βασιλεία τοῦ κόσμου τοῦ κυρίου ἡμῶν καὶ τοῦ χριστοῦ αὐτοῦ, καὶ βασιλεύσει εἰς τοὺς αἰῶνας τῶν αἰώνων.¶"
+pericope: "[[Rev.11.15 The Seventh Trumpet|The Seventh Trumpet]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 11
+book/chapter: "[[Rev.11|Revelation 11]]"
+chronological_order: 1178
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1442]]"
+- "[[G0032G]]"
+- "[[G4537]]"
+- "[[G1096]]"
+- "[[G5456G]]"
+- "[[G3173]]"
+- "[[G1722]]"
+- "[[G3772]]"
+- "[[G3004G]]"
+- "[[G0932]]"
+- "[[G2889]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G5547]]"
+- "[[G0846]]"
+- "[[G0936]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 11:15**<big><big>[[Rev.11.15 The Seventh Trumpet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the seventh angel sounded; and there were great voices in heaven, saying, The kingdoms of this world are become [the kingdoms] of our Lord, and of his Christ; and he shall reign for ever and ever.
 <small><sub>**BSB:**</sub></small>
 Then the seventh angel sounded his trumpet, and loud voices called out in heaven: “The kingdom of the world has become the kingdom of our Lord and of His Christ, and He will reign forever and ever.”
-<small><sub>**Literal:**</sub></small>
-And the seventh angel sounded [his] trumpet, and there were voices great in <the> heaven saying: Has become the kingdom of the world [that] of the Lord of us and of the Christ of Him, and He will reign to the ages of the ages.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.14|<< Revelation 11:14]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.16|Revelation 11:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3588\|ὁ]]  [[G1442\|ἕβδομος]]  [[G0032G\|ἄγγελος]]  [[G4537\|ἐσάλπισεν,]]  [[G2532\|καὶ]]  [[G1096\|ἐγένοντο]]  [[G5456G\|φωναὶ]]  [[G3173\|μεγάλαι]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3772\|οὐρανῷ]]  [[G3004G\|λέγοντες·]]  [[G1096\|ἐγένετο]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G5547\|χριστοῦ]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G0936\|βασιλεύσει]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G0165H\|αἰῶνας]]  [[G3588\|τῶν]]  [[G0165H\|αἰώνων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TRUMPET|TRUMPET]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.14|<< Revelation 11:14]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.16|Revelation 11:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 11:15** is...
 > $\quad$ possibly alluding to: [[LXX.Dan.2.44|Dan 2:44]]

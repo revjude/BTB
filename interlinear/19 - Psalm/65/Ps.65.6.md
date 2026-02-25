@@ -1,8 +1,52 @@
+---
+title: Psalm 65:6
+type: Verse
+kjv: "Which by his strength setteth fast the mountains; being girded with power:"
+bsb: "You formed the mountains by Your power, having girded Yourself with might."
+hebrew: "מֵכִ֣ין הָרִ֣ים בְּכֹח֑וֹ נֶ֝אְזָ֗ר בִּגְבוּרָֽה׃"
+pericope: "[[Ps.65.1 Praise Awaits God in Zion|Praise Awaits God in Zion]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 65
+book/chapter: "[[Ps.65|Psalm 65]]"
+chronological_order: 375
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[H3559I]]"
+- "[[H2022G]]"
+- "[[H9003]]"
+- "[[H3581B]]"
+- "[[H9023]]"
+- "[[H0247]]"
+- "[[H1369]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 65:6**<big><big>[[Ps.65.1 Praise Awaits God in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which by his strength setteth fast the mountains; [being] girded with power:
 <small><sub>**BSB:**</sub></small>
 You formed the mountains by Your power, having girded Yourself with might.
+<small><sub>**Hebrew:**</sub></small>
+[[H3559I\|מֵכִ֣ין]] [[H2022G\|הָרִ֣ים]] [[H9003\|בְּ]][[H3581B\|כֹח֑]][[H9023\|וֹ]] [[H0247\|נֶ֝אְזָ֗ר]] [[H9003\|בִּ]][[H1369\|גְבוּרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic POWER|POWER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.65.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.65.5|<< Psalms 65:5]]</td><td align="center" style="border:none;">[[Ps.65|Psalms 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.65.7|Psalms 65:7 >>]]</td></tr></table>
 

@@ -1,8 +1,73 @@
+---
+title: Genesis 24:47
+type: Verse
+kjv: "And I asked her, and said, Whose daughter art thou? And she said, The daughter of Bethuel, Nahor’s son, whom Milcah bare unto him: and I put the earring upon her face, and the bracelets upon her hands."
+bsb: "Then I asked her, ‘Whose daughter are you?’ She replied, ‘The daughter of Bethuel son of Nahor, whom Milcah bore to him.’ So I put the ring on her nose and the bracelets on her wrists."
+hebrew: "וָאֶשְׁאַ֣ל אֹתָ֗הּ וָאֹמַר֮ בַּת־ מִ֣י אַתְּ֒ וַתֹּ֗אמֶר בַּת־ בְּתוּאֵל֙ בֶּן־ נָח֔וֹר אֲשֶׁ֥ר יָֽלְדָה־ לּ֖וֹ מִלְכָּ֑ה וָאָשִׂ֤ם הַנֶּ֙זֶם֙ עַל־ אַפָּ֔הּ וְהַצְּמִידִ֖ים עַל־ יָדֶֽיהָ׃"
+pericope: "[[Gen.24.15 Rebekah Is Chosen|Rebekah Is Chosen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic MILCAH|MILCAH]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9001]]"
+- "[[H7592]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H0559]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H4310]]"
+- "[[H0859C]]"
+- "[[H1328A]]"
+- "[[H1121A]]"
+- "[[H5152H]]"
+- "[[H0834A]]"
+- "[[H3205]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H4435G]]"
+- "[[H7760H]]"
+- "[[H9009]]"
+- "[[H5141]]"
+- "[[H5921A]]"
+- "[[H0639H]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H6781A]]"
+- "[[H3027G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:47**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I asked her, and said, Whose daughter [art] thou? And she said, The daughter of Bethuel, Nahor’s son, whom Milcah bare unto him: and I put the earring upon her face, and the bracelets upon her hands.
 <small><sub>**BSB:**</sub></small>
 Then I asked her, ‘Whose daughter are you?’ She replied, ‘The daughter of Bethuel son of Nahor, whom Milcah bore to him.’ So I put the ring on her nose and the bracelets on her wrists.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H7592\|אֶשְׁאַ֣ל]] [[H0853\|אֹתָ֗]][[H9034\|הּ]] [[H9001\|וָ]][[H0559\|אֹמַר֮]] [[H1323G\|בַּת]][[H9014\|־]] [[H4310\|מִ֣י]] [[H0859C\|אַתְּ֒]] [[H9001\|וַ]][[H0559\|תֹּ֗אמֶר]] [[H1323G\|בַּת]][[H9014\|־]] [[H1328A\|בְּתוּאֵל֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5152H\|נָח֔וֹר]] [[H0834A\|אֲשֶׁ֥ר]] [[H3205\|יָֽלְדָה]][[H9014\|־]] [[H9005\|לּ֖]][[H9033\|וֹ]] [[H4435G\|מִלְכָּ֑ה]] [[H9001\|וָ]][[H7760H\|אָשִׂ֤ם]] [[H9009\|הַ]][[H5141\|נֶּ֙זֶם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H0639H\|אַפָּ֔]][[H9024\|הּ]] [[H9002\|וְ]][[H9009\|הַ]][[H6781A\|צְּמִידִ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H3027G\|יָדֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic MILCAH|MILCAH]] • [[topic PRAYER|PRAYER]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.46|<< Genesis 24:46]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.48|Genesis 24:48 >>]]</td></tr></table>
 

@@ -1,8 +1,71 @@
+---
+title: Numbers 13:23
+type: Verse
+kjv: "And they came unto the brook of Eshcol, and cut down from thence a branch with one cluster of grapes, and they bare it between two upon a staff; and they brought of the pomegranates, and of the figs."
+bsb: "When they came to the Valley of Eshcol, they cut down a branch with a single cluster of grapes, which they carried on a pole between two men. They also took some pomegranates and figs."
+hebrew: "וַיָּבֹ֜אוּ עַד־ נַ֣חַל אֶשְׁכֹּ֗ל וַיִּכְרְת֨וּ מִשָּׁ֤ם זְמוֹרָה֙ וְאֶשְׁכּ֤וֹל עֲנָבִים֙ אֶחָ֔ד וַיִּשָּׂאֻ֥הוּ בַמּ֖וֹט בִּשְׁנָ֑יִם וּמִן־ הָרִמֹּנִ֖ים וּמִן־ הַתְּאֵנִֽים׃"
+pericope: "[[Num.13.1 The Spies Explore Canaan|The Spies Explore Canaan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 13
+book/chapter: "[[Num.13|Numbers 13]]"
+chronological_order: 173
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic ESHCOL|ESHCOL]]"
+- "[[topic FIG|FIG]]"
+- "[[topic POMEGRANATE|POMEGRANATE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5158H]]"
+- "[[H0812H]]"
+- "[[H3772G]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H2156]]"
+- "[[H9002]]"
+- "[[H0811]]"
+- "[[H6025]]"
+- "[[H0259]]"
+- "[[H5375H]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H4132]]"
+- "[[H8147]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H7416]]"
+- "[[H8384]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 13:23**<big><big>[[Num.13.1 The Spies Explore Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they came unto the brook of Eshcol, and cut down from thence a branch with one cluster of grapes, and they bare it between two upon a staff; and [they brought] of the pomegranates, and of the figs.
 <small><sub>**BSB:**</sub></small>
 When they came to the Valley of Eshcol, they cut down a branch with a single cluster of grapes, which they carried on a pole between two men. They also took some pomegranates and figs.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֜אוּ]] [[H5704\|עַד]][[H9014\|־]] [[H5158H\|נַ֣חַל]] [[H0812H\|אֶשְׁכֹּ֗ל]] [[H9001\|וַ]][[H3772G\|יִּכְרְת֨וּ]] [[H9006\|מִ]][[H8033G\|שָּׁ֤ם]] [[H2156\|זְמוֹרָה֙]] [[H9002\|וְ]][[H0811\|אֶשְׁכּ֤וֹל]] [[H6025\|עֲנָבִים֙]] [[H0259\|אֶחָ֔ד]] [[H9001\|וַ]][[H5375H\|יִּשָּׂאֻ֥]][[H9033\|הוּ]] [[H9003\|בַ]][[H4132\|מּ֖וֹט]] [[H9003\|בִּ]][[H8147\|שְׁנָ֑יִם]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H7416\|רִמֹּנִ֖ים]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H8384\|תְּאֵנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic ESHCOL|ESHCOL]] • [[topic FIG|FIG]] • [[topic POMEGRANATE|POMEGRANATE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.22|<< Numbers 13:22]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.24|Numbers 13:24 >>]]</td></tr></table>
 

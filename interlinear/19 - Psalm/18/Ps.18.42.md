@@ -1,8 +1,52 @@
+---
+title: Psalm 18:42
+type: Verse
+kjv: "Then did I beat them small as the dust before the wind: I did cast them out as the dirt in the streets."
+bsb: "I ground them as dust in the face of the wind; I trampled them like mud in the streets."
+hebrew: "וְֽאֶשְׁחָקֵ֗ם כְּעָפָ֥ר עַל־ פְּנֵי־ ר֑וּחַ כְּטִ֖יט חוּצ֣וֹת אֲרִיקֵֽם׃"
+pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9002]]"
+- "[[H7833]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H6083]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440G]]"
+- "[[H7307H]]"
+- "[[H2916]]"
+- "[[H2351]]"
+- "[[H7324]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 18:42**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then did I beat them small as the dust before the wind: I did cast them out as the dirt in the streets.
 <small><sub>**BSB:**</sub></small>
 I ground them as dust in the face of the wind; I trampled them like mud in the streets.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְֽ]][[H7833\|אֶשְׁחָקֵ֗]][[H9038\|ם]] [[H9004\|כְּ]][[H6083\|עָפָ֥ר]] [[H5921A\|עַל]][[H9014\|־]] [[H6440G\|פְּנֵי]][[H9014\|־]] [[H7307H\|ר֑וּחַ]] [[H9004\|כְּ]][[H2916\|טִ֖יט]] [[H2351\|חוּצ֣וֹת]] [[H7324\|אֲרִיקֵֽ]][[H9038\|ם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.41|<< Psalms 18:41]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.43|Psalms 18:43 >>]]</td></tr></table>
 

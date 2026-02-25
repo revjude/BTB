@@ -1,8 +1,56 @@
+---
+title: Job 18:15
+type: Verse
+kjv: "It shall dwell in his tabernacle, because it is none of his: brimstone shall be scattered upon his habitation."
+bsb: "Fire resides in his tent; burning sulfur rains down on his dwelling."
+hebrew: "תִּשְׁכּ֣וֹן בְּ֭אָהֳלוֹ מִבְּלִי ל֑וֹ יְזֹרֶ֖ה עַל־ נָוֵ֣הוּ גָפְרִֽית׃"
+pericope: "[[Job.18.1 Bildad：God Punishes the Wicked|Bildad：God Punishes the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 18
+book/chapter: "[[Job.18|Job 18]]"
+chronological_order: 29
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BRIMSTONE|BRIMSTONE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7931]]"
+- "[[H9003]]"
+- "[[H0168G]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H1097]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H2219]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5116A]]"
+- "[[H1614]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 18:15**<big><big>[[Job.18.1 Bildad：God Punishes the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It shall dwell in his tabernacle, because [it is] none of his: brimstone shall be scattered upon his habitation.
 <small><sub>**BSB:**</sub></small>
 Fire resides in his tent; burning sulfur rains down on his dwelling.
+<small><sub>**Hebrew:**</sub></small>
+[[H7931\|תִּשְׁכּ֣וֹן]] [[H9003\|בְּ֭]][[H0168G\|אָהֳל]][[H9023\|וֹ]] [[H9006\|מִ]][[H1097\|בְּלִי]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H2219\|יְזֹרֶ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H5116A\|נָוֵ֣]][[H9023\|הוּ]] [[H1614\|גָפְרִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIMSTONE|BRIMSTONE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.18.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.18.14|<< Job 18:14]]</td><td align="center" style="border:none;">[[Job.18|Job 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.18.16|Job 18:16 >>]]</td></tr></table>
 

@@ -1,10 +1,63 @@
+---
+title: Matthew 26:38
+type: Verse
+kjv: "Then saith he unto them, My soul is exceeding sorrowful, even unto death: tarry ye here, and watch with me."
+bsb: "Then He said to them, “My soul is consumed with sorrow to the point of death. Stay here and keep watch with Me.”"
+jesus_said: "My soul is exceeding sorrowful, even unto death: tarry ye here, and watch with me."
+greek: "Τότε λέγει αὐτοῖς ὁ Ἰησοῦς· περίλυπός ἐστιν ἡ ψυχή μου ἕως θανάτου· μείνατε ὧδε καὶ γρηγορεῖτε μετ᾽ ἐμοῦ.¶"
+pericope: "[[Matt.26.36 Jesus Prays at Gethsemane|Jesus Prays at Gethsemane]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GETHSEMANE|GETHSEMANE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SORROW|SORROW]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G5119]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G4036]]"
+- "[[G1510]]"
+- "[[G5590G]]"
+- "[[G3165]]"
+- "[[G2193]]"
+- "[[G2288]]"
+- "[[G3306]]"
+- "[[G5602]]"
+- "[[G2532]]"
+- "[[G1127]]"
+- "[[G3326]]"
+- "[[G1473]]"
+texts:
+- NKO
+- o
+---
+
 **Matthew 26:38**<big><big>[[Matt.26.36 Jesus Prays at Gethsemane|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then saith he unto them, My soul is exceeding sorrowful, even unto death: tarry ye here, and watch with me.
 <small><sub>**BSB:**</sub></small>
 Then He said to them, “My soul is consumed with sorrow to the point of death. Stay here and keep watch with Me.”
-<small><sub>**Literal:**</sub></small>
-Then He says to them <the> Jesus: Very sorrowful is the soul of Mine until death; do remain here and do watch with Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.37|<< Matthew 26:37]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.39|Matthew 26:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G4036\|περίλυπός]]  [[G1510\|ἐστιν]]  [[G3588\|ἡ]]  [[G5590G\|ψυχή]]  [[G3165\|μου]]  [[G2193\|ἕως]]  [[G2288\|θανάτου·]]  [[G3306\|μείνατε]]  [[G5602\|ὧδε]]  [[G2532\|καὶ]]  [[G1127\|γρηγορεῖτε]]  [[G3326\|μετ᾽]]  [[G1473\|ἐμοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GETHSEMANE|GETHSEMANE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic SORROW|SORROW]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.37|<< Matthew 26:37]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.39|Matthew 26:39 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 26:38** is...
 > $\quad$ referencing: [[LXX.Ps.42.5|Ps 42:5]][[LXX.Ps.42.11|, 11]]

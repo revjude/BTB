@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 24:7
+type: Verse
+kjv: "If a man be found stealing any of his brethren of the children of Israel, and maketh merchandise of him, or selleth him; then that thief shall die; and thou shalt put evil away from among you."
+bsb: "If a man is caught kidnapping one of his Israelite brothers, whether he treats him as a slave or sells him, the kidnapper must die. So you must purge the evil from among you."
+hebrew: "כִּי־ יִמָּצֵ֣א אִ֗ישׁ גֹּנֵ֨ב נֶ֤פֶשׁ מֵאֶחָיו֙ מִבְּנֵ֣י יִשְׂרָאֵ֔ל וְהִתְעַמֶּר־ בּ֖וֹ וּמְכָר֑וֹ וּמֵת֙ הַגַּנָּ֣ב הַה֔וּא וּבִֽעַרְתָּ֥ הָרָ֖ע מִקִּרְבֶּֽךָ׃"
+pericope: "[[Deut.24.6 Additional Laws|Additional Laws]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 24
+book/chapter: "[[Deut.24|Deuteronomy 24]]"
+chronological_order: 220
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic KIDNAPPING|KIDNAPPING]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4672]]"
+- "[[H0376I]]"
+- "[[H1589]]"
+- "[[H5315J]]"
+- "[[H9006]]"
+- "[[H0251I]]"
+- "[[H9023]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H6014B]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H4376]]"
+- "[[H4191]]"
+- "[[H9009]]"
+- "[[H1590]]"
+- "[[H1931]]"
+- "[[H1197I]]"
+- "[[H7451B]]"
+- "[[H7130G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 24:7**<big><big>[[Deut.24.6 Additional Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a man be found stealing any of his brethren of the children of Israel, and maketh merchandise of him, or selleth him; then that thief shall die; and thou shalt put evil away from among you.
 <small><sub>**BSB:**</sub></small>
 If a man is caught kidnapping one of his Israelite brothers, whether he treats him as a slave or sells him, the kidnapper must die. So you must purge the evil from among you.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H4672\|יִמָּצֵ֣א]] [[H0376I\|אִ֗ישׁ]] [[H1589\|גֹּנֵ֨ב]] [[H5315J\|נֶ֤פֶשׁ]] [[H9006\|מֵ]][[H0251I\|אֶחָי]][[H9023\|ו֙]] [[H9006\|מִ]][[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וְ]][[H6014B\|הִתְעַמֶּר]][[H9014\|־]] [[H9003\|בּ֖]][[H9033\|וֹ]] [[H9001\|וּ]][[H4376\|מְכָר֑]][[H9033\|וֹ]] [[H9001\|וּ]][[H4191\|מֵת֙]] [[H9009\|הַ]][[H1590\|גַּנָּ֣ב]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H9001\|וּ]][[H1197I\|בִֽעַרְתָּ֥]] [[H9009\|הָ]][[H7451B\|רָ֖ע]] [[H9006\|מִ]][[H7130G\|קִּרְבֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic KIDNAPPING|KIDNAPPING]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.24.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24.6|<< Deuteronomy 24:6]]</td><td align="center" style="border:none;">[[Deut.24|Deuteronomy 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24.8|Deuteronomy 24:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

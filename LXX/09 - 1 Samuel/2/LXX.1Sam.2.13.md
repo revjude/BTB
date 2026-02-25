@@ -1,6 +1,73 @@
+---
+title: LXX 1 Samuel 2:13
+type: Verse
+lxx: "And the ordinance of the priest of all the people of the one sacrificing was this; that the servant of the priest came when ever the meat boiled, and in his hand was a three-pronged meat hook."
+greek: "και το δικαίωμα του ιερέως παρά του λαού παντός του θύοντος και ήρχετο το παιδάριον του ιερέως ως αν ηψήθη το κρέας και κρεάγρα τριόδους εν τη χειρί αυτού"
+original_language: Greek
+testament: Old
+book: 1 Samuel
+chapter: 2
+book/chapter: "[[1Sam.2|1 Samuel 2]]"
+chronological_order: 281
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FLESHHOOK|FLESHHOOK]]"
+- "[[topic GLUTTONY|GLUTTONY]]"
+- "[[topic HOPHNI|HOPHNI]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1345]]"
+- "[[G3588]]"
+- "[[G2409]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2380]]"
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G3808]]"
+- "[[G3588]]"
+- "[[G2409]]"
+- "[[G5613]]"
+- "[[G0302]]"
+- "[[G7594]]"
+- "[[G3588]]"
+- "[[G2907]]"
+- "[[G2532]]"
+- "[[G8090]]"
+- "[[G9488]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G1473]]"
+---
+
 **LXX 1 Samuel 2:13** 
 <small><sub>**LXX:**</sub></small>
 And the ordinance of the priest of all the people of the one sacrificing \[was this\]; that the servant of the priest came when ever the meat boiled, and in his hand \[was\] a three-pronged meat hook. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3588\|το]] [[G1345\|δικαίωμα]] [[G3588\|του]] [[G2409\|ιερέως]] [[G3844\|παρά]] [[G3588\|του]] [[G2992\|λαού]] [[G3956\|παντός]] [[G3588\|του]] [[G2380\|θύοντος]] [[G2532\|και]] [[G2064\|ήρχετο]] [[G3588\|το]] [[G3808\|παιδάριον]] [[G3588\|του]] [[G2409\|ιερέως]] [[G5613\|ως]] [[G0302\|αν]] [[G7594\|ηψήθη]] [[G3588\|το]] [[G2907\|κρέας]] [[G2532\|και]] [[G8090\|κρεάγρα]] [[G9488\|τριόδους]] [[G1722\|εν]] [[G3588\|τη]] [[G5495\|χειρί]] [[G1473\|αυτού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FLESHHOOK|FLESHHOOK]] • [[topic GLUTTONY|GLUTTONY]] • [[topic HOPHNI|HOPHNI]] • [[topic JUDGE|JUDGE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]] • [[topic RULERS|RULERS]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Sam.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.12|<< 1 Samuel 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.14|1 Samuel 2:14 >>]]</td></tr></table>
 
@@ -34,6 +101,6 @@ And the ordinance of the priest of all the people of the one sacrificing \[was t
 | in | **<big>[[G1722\|εν]]</big>** |
 | \<obj.> | **<big>[[G3588\|τη]]</big>** |
 | his hand | **<big>[[G5495\|χειρί]]</big>** **<big>[[G1473\|αυτού]]</big>** |
-[[1Sam.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.12|<< 1 Samuel 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.14|1 Samuel 2:14 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.12|<< 1 Samuel 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.14|1 Samuel 2:14 >>]]</td></tr></table>
 
 

@@ -1,8 +1,75 @@
+---
+title: Jeremiah 32:14
+type: Verse
+kjv: "Thus saith the LORD of hosts, the God of Israel; Take these evidences, this evidence of the purchase, both which is sealed, and this evidence which is open; and put them in an earthen vessel, that they may continue many days."
+bsb: "“This is what the LORD of Hosts, the God of Israel, says: Take these deeds—both the sealed copy and the open copy of the deed of purchase—and put them in a clay jar to preserve them for a long time."
+hebrew: "כֹּֽה־ אָמַר֩ יְהוָ֨ה צְבָא֜וֹת אֱלֹהֵ֣י יִשְׂרָאֵ֗ל לָק֣וֹחַ אֶת־ הַסְּפָרִ֣ים הָאֵ֡לֶּה אֵ֣ת סֵפֶר֩ הַמִּקְנָ֨ה הַזֶּ֜ה וְאֵ֣ת הֶחָת֗וּם וְאֵ֨ת סֵ֤פֶר הַגָּלוּי֙ הַזֶּ֔ה וּנְתַתָּ֖ם בִּכְלִי־ חָ֑רֶשׂ לְמַ֥עַן יַעַמְד֖וּ יָמִ֥ים רַבִּֽים׃ ס"
+pericope: "[[Jer.32.1 Jeremiah Buys Hanamel’s Field|Jeremiah Buys Hanamel’s Field]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 32
+book/chapter: "[[Jer.32|Jeremiah 32]]"
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BARUCH|BARUCH]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic DEED|DEED]]"
+- "[[topic LAND|LAND]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5612A]]"
+- "[[H0428]]"
+- "[[H4736]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H2856]]"
+- "[[H1540I]]"
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H3627]]"
+- "[[H2789]]"
+- "[[H4616]]"
+- "[[H5975G]]"
+- "[[H3117G]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 32:14**<big><big>[[Jer.32.1 Jeremiah Buys Hanamel’s Field|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD of hosts, the God of Israel; Take these evidences, this evidence of the purchase, both which is sealed, and this evidence which is open; and put them in an earthen vessel, that they may continue many days.
 <small><sub>**BSB:**</sub></small>
 “This is what the LORD of Hosts, the God of Israel, says: Take these deeds—both the sealed copy and the open copy of the deed of purchase—and put them in a clay jar to preserve them for a long time.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַר֩]] [[H3068G\|יְהוָ֨ה]] [[H6635B\|צְבָא֜וֹת]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H3947G\|לָק֣וֹחַ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5612A\|סְּפָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֡לֶּה]] [[H0853\|אֵ֣ת]] [[H5612A\|סֵפֶר֩]] [[H9009\|הַ]][[H4736\|מִּקְנָ֨ה]] [[H9009\|הַ]][[H2088\|זֶּ֜ה]] [[H9002\|וְ]][[H0853\|אֵ֣ת]] [[H9009\|הֶ]][[H2856\|חָת֗וּם]] [[H9002\|וְ]][[H0853\|אֵ֨ת]] [[H5612A\|סֵ֤פֶר]] [[H9009\|הַ]][[H1540I\|גָּלוּי֙]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9001\|וּ]][[H5414H\|נְתַתָּ֖]][[H9038\|ם]] [[H9003\|בִּ]][[H3627\|כְלִי]][[H9014\|־]] [[H2789\|חָ֑רֶשׂ]] [[H4616\|לְמַ֥עַן]] [[H5975G\|יַעַמְד֖וּ]] [[H3117G\|יָמִ֥ים]] [[H7227A\|רַבִּֽים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARUCH|BARUCH]] • [[topic CONTRACTS|CONTRACTS]] • [[topic DEED|DEED]] • [[topic LAND|LAND]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.13|<< Jeremiah 32:13]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.15|Jeremiah 32:15 >>]]</td></tr></table>
 
@@ -34,7 +101,7 @@ Thus saith the LORD of hosts, the God of Israel; Take these evidences, this evid
 | so that  |**<big>&#8207;[[H4616\|לְמַ֥עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they may remain  |**<big>&#8207;[[H5975G\|יַעַמְד֖וּ]]&#8207; </big>**| ya.'am.Du<small><sup>[[HVqj3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | days  |**<big>&#8207;[[H3117G\|יָמִ֥ים]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| many  |**<big>&#8207;[[H7227A\|רַבִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| many  |**<big>&#8207;[[H7227A\|רַבִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.13|<< Jeremiah 32:13]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.15|Jeremiah 32:15 >>]]</td></tr></table>
 
 

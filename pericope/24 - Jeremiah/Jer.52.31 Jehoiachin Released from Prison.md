@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jehoiachin Released from Prison
+type: Pericope
 pericope: "[[Jer.52.31 Jehoiachin Released from Prison|Jehoiachin Released from Prison]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 52
 book/chapter: "[[Jer.52|Jeremiah 52]]"
-genre:
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 4
 verses:
 - "[[Jer.52.31]]"
 - "[[Jer.52.32]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Jer.52.34]]"
 ---
 
-[[Jer.52|Jeremiah 52:31 - Jeremiah 52:34]]
+<small>[[Jer.52|Jeremiah 52:31-34]]</small>
 *Jehoiachin Released from Prison*
 
 [[Jer.52.31|31]] And it came to pass in the seven and thirtieth year of the captivity of Jehoiachin king of Judah, in the twelfth month, in the five and twentieth \[day\] of the month, \[that\] Evilmerodach king of Babylon in the \[first\] year of his reign lifted up the head of Jehoiachin king of Judah, and brought him forth out of prison,

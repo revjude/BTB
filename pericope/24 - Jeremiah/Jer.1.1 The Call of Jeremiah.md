@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Call of Jeremiah
+type: Pericope
 pericope: "[[Jer.1.1 The Call of Jeremiah|The Call of Jeremiah]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 1
 book/chapter: "[[Jer.1|Jeremiah 1]]"
-genre:
+chronological_order: 718
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 19
 verses:
 - "[[Jer.1.1]]"
 - "[[Jer.1.2]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Jer.1.19]]"
 ---
 
-[[Jer.1|Jeremiah 1:1 - Jeremiah 1:19]]
+<small>[[Jer.1|Jeremiah 1:1-19]]</small>
 *The Call of Jeremiah*
 
 [[Jer.1.1|1]] The words of Jeremiah the son of Hilkiah, of the priests that \[were\] in Anathoth in the land of Benjamin:

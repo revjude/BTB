@@ -1,8 +1,71 @@
+---
+title: Numbers 15:14
+type: Verse
+kjv: "And if a stranger sojourn with you, or whosoever be among you in your generations, and will offer an offering made by fire, of a sweet savour unto the LORD; as ye do, so he shall do."
+bsb: "And for the generations to come, if a foreigner residing with you or someone else among you wants to prepare a food offering as a pleasing aroma to the LORD, he is to do exactly as you do."
+hebrew: "וְכִֽי־ יָגוּר֩ אִתְּכֶ֨ם גֵּ֜ר א֤וֹ אֲשֶֽׁר־ בְּתֽוֹכְכֶם֙ לְדֹרֹ֣תֵיכֶ֔ם וְעָשָׂ֛ה אִשֵּׁ֥ה רֵֽיחַ־ נִיחֹ֖חַ לַיהוָ֑ה כַּאֲשֶׁ֥ר תַּעֲשׂ֖וּ כֵּ֥ן יַעֲשֶֽׂה׃"
+pericope: "[[Num.15.1 Laws about Offerings|Laws about Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 15
+book/chapter: "[[Num.15|Numbers 15]]"
+chronological_order: 175
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ALIENS|ALIENS]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1481A]]"
+- "[[H0854]]"
+- "[[H9036]]"
+- "[[H1616]]"
+- "[[H0176A]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9026]]"
+- "[[H9005]]"
+- "[[H1755]]"
+- "[[H9001]]"
+- "[[H6213I]]"
+- "[[H0801]]"
+- "[[H7381]]"
+- "[[H5207]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6213A]]"
+- "[[H3651C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 15:14**<big><big>[[Num.15.1 Laws about Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if a stranger sojourn with you, or whosoever [be] among you in your generations, and will offer an offering made by fire, of a sweet savour unto the LORD; as ye do, so he shall do.
 <small><sub>**BSB:**</sub></small>
 And for the generations to come, if a foreigner residing with you or someone else among you wants to prepare a food offering as a pleasing aroma to the LORD, he is to do exactly as you do.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H1481A\|יָגוּר֩]] [[H0854\|אִתְּ]][[H9036\|כֶ֨ם]] [[H1616\|גֵּ֜ר]] [[H0176A\|א֤וֹ]] [[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H9003\|בְּ]][[H8432\|תֽוֹכְ]][[H9026\|כֶם֙]] [[H9005\|לְ]][[H1755\|דֹרֹ֣תֵי]][[H9026\|כֶ֔ם]] [[H9001\|וְ]][[H6213I\|עָשָׂ֛ה]] [[H0801\|אִשֵּׁ֥ה]] [[H7381\|רֵֽיחַ]][[H9014\|־]] [[H5207\|נִיחֹ֖חַ]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H6213A\|תַּעֲשׂ֖וּ]] [[H3651C\|כֵּ֥ן]] [[H6213A\|יַעֲשֶֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALIENS|ALIENS]] • [[topic OFFERINGS|OFFERINGS]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.13|<< Numbers 15:13]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.15|Numbers 15:15 >>]]</td></tr></table>
 

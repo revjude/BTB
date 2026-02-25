@@ -1,8 +1,59 @@
+---
+title: 1 Samuel 11:14
+type: Verse
+kjv: "Then said Samuel to the people, Come, and let us go to Gilgal, and renew the kingdom there."
+bsb: "Then Samuel said to the people, “Come, let us go to Gilgal and renew the kingship there.”"
+hebrew: "וַיֹּ֤אמֶר שְׁמוּאֵל֙ אֶל־ הָעָ֔ם לְכ֖וּ וְנֵלְכָ֣ה הַגִּלְגָּ֑ל וּנְחַדֵּ֥שׁ שָׁ֖ם הַמְּלוּכָֽה׃"
+pericope: "[[1Sam.11.12 Saul Confirmed as King|Saul Confirmed as King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 11
+book/chapter: "[[1Sam.11|1 Samuel 11]]"
+chronological_order: 290
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic STATECRAFT|STATECRAFT]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8050G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H1980K]]"
+- "[[H9002]]"
+- "[[H1980G]]"
+- "[[H1537G]]"
+- "[[H2318]]"
+- "[[H8033G]]"
+- "[[H4410]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 11:14**<big><big>[[1Sam.11.12 Saul Confirmed as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Samuel to the people, Come, and let us go to Gilgal, and renew the kingdom there.
 <small><sub>**BSB:**</sub></small>
 Then Samuel said to the people, “Come, let us go to Gilgal and renew the kingship there.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H8050G\|שְׁמוּאֵל֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H1980K\|לְכ֖וּ]] [[H9002\|וְ]][[H1980G\|נֵלְכָ֣ה]] [[H9009\|הַ]][[H1537G\|גִּלְגָּ֑ל]] [[H9002\|וּ]][[H2318\|נְחַדֵּ֥שׁ]] [[H8033G\|שָׁ֖ם]] [[H9009\|הַ]][[H4410\|מְּלוּכָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic SAMUEL|SAMUEL]] • [[topic SAUL|SAUL]] • [[topic STATECRAFT|STATECRAFT]] • [[topic TACT|TACT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.11.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.11.13|<< 1 Samuel 11:13]]</td><td align="center" style="border:none;">[[1Sam.11|1 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.11.15|1 Samuel 11:15 >>]]</td></tr></table>
 

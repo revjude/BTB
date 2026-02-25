@@ -1,8 +1,61 @@
+---
+title: Psalm 18:49
+type: Verse
+kjv: "Therefore will I give thanks unto thee, O LORD, among the heathen, and sing praises unto thy name."
+bsb: "Therefore I will praise You, O LORD, among the nations; I will sing praises to Your name."
+hebrew: "עַל־ כֵּ֤ן׀ אוֹדְךָ֖ בַגּוֹיִ֥ם׀ יְהוָ֑ה וּלְשִׁמְךָ֥ אֲזַמֵּֽרָה׃"
+pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic MISSIONS|MISSIONS]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H9015]]"
+- "[[H3034]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H2167]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 18:49**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore will I give thanks unto thee, O LORD, among the heathen, and sing praises unto thy name.
 <small><sub>**BSB:**</sub></small>
 Therefore I will praise You, O LORD, among the nations; I will sing praises to Your name.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֤ן]][[H9015\|׀]] [[H3034\|אוֹדְ]][[H9031\|ךָ֖]] [[H9003\|בַ]][[H1471A\|גּוֹיִ֥ם]][[H9015\|׀]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וּ]][[H9005\|לְ]][[H8034\|שִׁמְ]][[H9021\|ךָ֥]] [[H2167\|אֲזַמֵּֽרָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MISSIONS|MISSIONS]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic TESTIMONY|TESTIMONY]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.48|<< Psalms 18:48]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.50|Psalms 18:50 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

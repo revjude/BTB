@@ -1,8 +1,83 @@
+---
+title: Deuteronomy 31:20
+type: Verse
+kjv: "For when I shall have brought them into the land which I sware unto their fathers, that floweth with milk and honey; and they shall have eaten and filled themselves, and waxen fat; then will they turn unto other gods, and serve them, and provoke me, and break my covenant."
+bsb: "When I have brought them into the land that I swore to give their fathers, a land flowing with milk and honey, they will eat their fill and prosper. Then they will turn to other gods and worship them, and they will reject Me and break My covenant."
+hebrew: "כִּֽי־ אֲבִיאֶ֜נּוּ אֶֽל־ הָאֲדָמָ֣ה׀ אֲשֶׁר־ נִשְׁבַּ֣עְתִּי לַאֲבֹתָ֗יו זָבַ֤ת חָלָב֙ וּדְבַ֔שׁ וְאָכַ֥ל וְשָׂבַ֖ע וְדָשֵׁ֑ן וּפָנָ֞ה אֶל־ אֱלֹהִ֤ים אֲחֵרִים֙ וַעֲבָד֔וּם וְנִ֣אֲצ֔וּנִי וְהֵפֵ֖ר אֶת־ בְּרִיתִֽי׃"
+pericope: "[[Deut.31.14 God Commissions Joshua|God Commissions Joshua]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 31
+book/chapter: "[[Deut.31|Deuteronomy 31]]"
+chronological_order: 227
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROSPERITY|PROSPERITY]]"
+- "[[topic RICHES|RICHES]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0935P]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H0127G]]"
+- "[[H9015]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H2100G]]"
+- "[[H2461]]"
+- "[[H9002]]"
+- "[[H1706]]"
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H7646]]"
+- "[[H1878]]"
+- "[[H6437G]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H5647H]]"
+- "[[H9038]]"
+- "[[H5006]]"
+- "[[H9030]]"
+- "[[H6565A]]"
+- "[[H0853]]"
+- "[[H1285]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 31:20**<big><big>[[Deut.31.14 God Commissions Joshua|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For when I shall have brought them into the land which I sware unto their fathers, that floweth with milk and honey; and they shall have eaten and filled themselves, and waxen fat; then will they turn unto other gods, and serve them, and provoke me, and break my covenant.
 <small><sub>**BSB:**</sub></small>
 When I have brought them into the land that I swore to give their fathers, a land flowing with milk and honey, they will eat their fill and prosper. Then they will turn to other gods and worship them, and they will reject Me and break My covenant.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H0935P\|אֲבִיאֶ֜]][[H9033\|נּוּ]] [[H0413\|אֶֽל]][[H9014\|־]] [[H9009\|הָ]][[H0127G\|אֲדָמָ֣ה]][[H9015\|׀]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7650\|נִשְׁבַּ֣עְתִּי]] [[H9005\|לַ]][[H0001G\|אֲבֹתָ֗י]][[H9023\|ו]] [[H2100G\|זָבַ֤ת]] [[H2461\|חָלָב֙]] [[H9002\|וּ]][[H1706\|דְבַ֔שׁ]] [[H9001\|וְ]][[H0398\|אָכַ֥ל]] [[H9001\|וְ]][[H7646\|שָׂבַ֖ע]] [[H9001\|וְ]][[H1878\|דָשֵׁ֑ן]] [[H9001\|וּ]][[H6437G\|פָנָ֞ה]] [[H0413\|אֶל]][[H9014\|־]] [[H0430\|אֱלֹהִ֤ים]] [[H0312\|אֲחֵרִים֙]] [[H9001\|וַ]][[H5647H\|עֲבָד֔וּ]][[H9038\|ם]] [[H9001\|וְ]][[H5006\|נִ֣אֲצ֔וּ]][[H9030\|נִי]] [[H9001\|וְ]][[H6565A\|הֵפֵ֖ר]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִיתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DEATH|DEATH]] • [[topic IDOLATRY|IDOLATRY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROSPERITY|PROSPERITY]] • [[topic RICHES|RICHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.19|<< Deuteronomy 31:19]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.21|Deuteronomy 31:21 >>]]</td></tr></table>
 

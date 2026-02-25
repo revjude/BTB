@@ -1,8 +1,73 @@
+---
+title: Ezra 10:18
+type: Verse
+kjv: "And among the sons of the priests there were found that had taken strange wives: namely, of the sons of Jeshua the son of Jozadak, and his brethren; Maaseiah, and Eliezer, and Jarib, and Gedaliah."
+bsb: "Among the descendants of the priests who had married foreign women were found these descendants of Jeshua son of Jozadak and his brothers: Maaseiah, Eliezer, Jarib, and Gedaliah."
+hebrew: "וַיִּמָּצֵא֙ מִבְּנֵ֣י הַכֹּהֲנִ֔ים אֲשֶׁ֥ר הֹשִׁ֖יבוּ נָשִׁ֣ים נָכְרִיּ֑וֹת מִבְּנֵ֨י יֵשׁ֤וּעַ בֶּן־ יֽוֹצָדָק֙ וְאֶחָ֔יו מַֽעֲשֵׂיָה֙ וֶֽאֱלִיעֶ֔זֶר וְיָרִ֖יב וּגְדַלְיָֽה׃"
+pericope: "[[Ezra.10.18 Those Guilty of Intermarriage|Those Guilty of Intermarriage]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 10
+book/chapter: "[[Ezra.10|Ezra 10]]"
+chronological_order: 912
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic ELIEZER|ELIEZER]]"
+- "[[topic GEDALIAH|GEDALIAH]]"
+- "[[topic JARIB|JARIB]]"
+- "[[topic JEBUSITES|JEBUSITES]]"
+- "[[topic JEHOZADAK|JEHOZADAK]]"
+- "[[topic MAASEIAH|MAASEIAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H4672]]"
+- "[[H9006]]"
+- "[[H1121G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0834A]]"
+- "[[H3427]]"
+- "[[H0802G]]"
+- "[[H5237]]"
+- "[[H3442G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3136G]]"
+- "[[H9002]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H4641L]]"
+- "[[H0461N]]"
+- "[[H3402H]]"
+- "[[H1436A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 10:18**<big><big>[[Ezra.10.18 Those Guilty of Intermarriage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And among the sons of the priests there were found that had taken strange wives: [namely], of the sons of Jeshua the son of Jozadak, and his brethren; Maaseiah, and Eliezer, and Jarib, and Gedaliah.
 <small><sub>**BSB:**</sub></small>
 Among the descendants of the priests who had married foreign women were found these descendants of Jeshua son of Jozadak and his brothers: Maaseiah, Eliezer, Jarib, and Gedaliah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4672\|יִּמָּצֵא֙]] [[H9006\|מִ]][[H1121G\|בְּנֵ֣י]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H3427\|הֹשִׁ֖יבוּ]] [[H0802G\|נָשִׁ֣ים]] [[H5237\|נָכְרִיּ֑וֹת]] [[H9006\|מִ]][[H1121G\|בְּנֵ֨י]] [[H3442G\|יֵשׁ֤וּעַ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3136G\|יֽוֹצָדָק֙]] [[H9002\|וְ]][[H0251G\|אֶחָ֔י]][[H9023\|ו]] [[H4641L\|מַֽעֲשֵׂיָה֙]] [[H9002\|וֶֽ]][[H0461N\|אֱלִיעֶ֔זֶר]] [[H9002\|וְ]][[H3402H\|יָרִ֖יב]] [[H9002\|וּ]][[H1436A\|גְדַלְיָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic AMORITES|AMORITES]] • [[topic CHURCH|CHURCH]] • [[topic DECISION|DECISION]] • [[topic ELIEZER|ELIEZER]] • [[topic GEDALIAH|GEDALIAH]] • [[topic JARIB|JARIB]] • [[topic JEBUSITES|JEBUSITES]] • [[topic JEHOZADAK|JEHOZADAK]] • [[topic MAASEIAH|MAASEIAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.10.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.17|<< Ezra 10:17]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.19|Ezra 10:19 >>]]</td></tr></table>
 

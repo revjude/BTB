@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: I Stretch Out My Hands to You
+type: Pericope
 pericope: "[[Ps.143.1 I Stretch Out My Hands to You|I Stretch Out My Hands to You]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 143
 book/chapter: "[[Ps.143|Psalm 143]]"
-genre:
+chronological_order: 389
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 13
 verses:
 - "[[Ps.143.0]]"
 - "[[Ps.143.1]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Ps.143.12]]"
 ---
 
-[[Ps.143|Psalm 143:1 - Psalm 143:12]]
+<small>[[Ps.143|Psalm 143:1-12]]</small>
 *I Stretch Out My Hands to You*
 
 [[Ps.143.0|0]] A Psalm of David.

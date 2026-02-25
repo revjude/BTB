@@ -1,10 +1,68 @@
+---
+title: Revelation 14:11
+type: Verse
+kjv: "And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name."
+bsb: "And the smoke of their torment rises forever and ever. Day and night there is no rest for those who worship the beast and its image, or for anyone who receives the mark of its name.”"
+greek: "καὶ ὁ καπνὸς τοῦ βασανισμοῦ αὐτῶν εἰς αἰῶνας αἰώνων ἀναβαίνει, καὶ οὐκ ἔχουσιν ἀνάπαυσιν ἡμέρας καὶ νυκτὸς οἱ προσκυνοῦντες τὸ θηρίον καὶ τὴν εἰκόνα αὐτοῦ καὶ εἴ τις λαμβάνει τὸ χάραγμα τοῦ ὀνόματος αὐτοῦ.¶"
+pericope: "[[Rev.14.6 The Three Angels and Babylon’s Fall|The Three Angels and Babylon’s Fall]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 14
+book/chapter: "[[Rev.14|Revelation 14]]"
+chronological_order: 1181
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic HELL|HELL]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic TORMENTS|TORMENTS]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2586]]"
+- "[[G0929]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+- "[[G0305]]"
+- "[[G3756]]"
+- "[[G2192]]"
+- "[[G0372]]"
+- "[[G2250]]"
+- "[[G3571]]"
+- "[[G4352]]"
+- "[[G2342]]"
+- "[[G1504]]"
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G2983]]"
+- "[[G5480]]"
+- "[[G3686]]"
+texts:
+- NKO
+---
+
 **Revelation 14:11**<big><big>[[Rev.14.6 The Three Angels and Babylon’s Fall|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name.
 <small><sub>**BSB:**</sub></small>
 And the smoke of their torment rises forever and ever. Day and night there is no rest for those who worship the beast and its image, or for anyone who receives the mark of its name.”
-<small><sub>**Literal:**</sub></small>
-And the smoke of the torment of them to ages of ages goes up, and not have rest by day and night those worshiping the beast and the image of it and if anyone receives the mark of the name of it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.10|<< Revelation 14:10]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.12|Revelation 14:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2586\|καπνὸς]]  [[G3588\|τοῦ]]  [[G0929\|βασανισμοῦ]]  [[G0846\|αὐτῶν]]  [[G1519\|εἰς]]  [[G0165H\|αἰῶνας]]  [[G0165H\|αἰώνων]]  [[G0305\|ἀναβαίνει,]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G2192\|ἔχουσιν]]  [[G0372\|ἀνάπαυσιν]]  [[G2250\|ἡμέρας]]  [[G2532\|καὶ]]  [[G3571\|νυκτὸς]]  [[G3588\|οἱ]]  [[G4352\|προσκυνοῦντες]]  [[G3588\|τὸ]]  [[G2342\|θηρίον]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G1504\|εἰκόνα]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G1487G\|εἴ]]  [[G5100\|τις]]  [[G2983\|λαμβάνει]]  [[G3588\|τὸ]]  [[G5480\|χάραγμα]]  [[G3588\|τοῦ]]  [[G3686\|ὀνόματος]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic ANIMALS|ANIMALS]] • [[topic HELL|HELL]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic TORMENTS|TORMENTS]] • [[topic VISION|VISION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.10|<< Revelation 14:10]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.12|Revelation 14:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 14:11** is...
 > $\quad$ alluding to: [[LXX.Isa.34.10|Isa 34:10]]

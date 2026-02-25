@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 3:5
+type: Verse
+kjv: "All these cities were fenced with high walls, gates, and bars; beside unwalled towns a great many."
+bsb: "All these cities were fortified with high walls and gates and bars, and there were many more unwalled villages."
+hebrew: "כָּל־ אֵ֜לֶּה עָרִ֧ים בְּצֻר֛וֹת חוֹמָ֥ה גְבֹהָ֖ה דְּלָתַ֣יִם וּבְרִ֑יחַ לְבַ֛ד מֵעָרֵ֥י הַפְּרָזִ֖י הַרְבֵּ֥ה מְאֹֽד׃"
+pericope: "[[Deut.3.1 The Defeat of Og|The Defeat of Og]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 3
+book/chapter: "[[Deut.3|Deuteronomy 3]]"
+chronological_order: 199
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic GATES|GATES]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OG|OG]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic WALLS, OF THE CITIES|WALLS, OF THE CITIES]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0428]]"
+- "[[H5892B]]"
+- "[[H1219]]"
+- "[[H2346G]]"
+- "[[H1364]]"
+- "[[H1817C]]"
+- "[[H9002]]"
+- "[[H1280]]"
+- "[[H9005]]"
+- "[[H0905J]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H6521]]"
+- "[[H7235A]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 3:5**<big><big>[[Deut.3.1 The Defeat of Og|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All these cities [were] fenced with high walls, gates, and bars; beside unwalled towns a great many.
 <small><sub>**BSB:**</sub></small>
 All these cities were fortified with high walls and gates and bars, and there were many more unwalled villages.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H0428\|אֵ֜לֶּה]] [[H5892B\|עָרִ֧ים]] [[H1219\|בְּצֻר֛וֹת]] [[H2346G\|חוֹמָ֥ה]] [[H1364\|גְבֹהָ֖ה]] [[H1817C\|דְּלָתַ֣יִם]] [[H9002\|וּ]][[H1280\|בְרִ֑יחַ]] [[H9005\|לְ]][[H0905J\|בַ֛ד]] [[H9006\|מֵ]][[H5892B\|עָרֵ֥י]] [[H9009\|הַ]][[H6521\|פְּרָזִ֖י]] [[H7235A\|הַרְבֵּ֥ה]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic GATES|GATES]] • [[topic ISRAEL|ISRAEL]] • [[topic OG|OG]] • [[topic REUBENITES|REUBENITES]] • [[topic WALLS, OF THE CITIES|WALLS, OF THE CITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.4|<< Deuteronomy 3:4]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.6|Deuteronomy 3:6 >>]]</td></tr></table>
 

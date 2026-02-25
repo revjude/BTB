@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus’ Authority Challenged
+type: Pericope
 pericope: "[[Luke.20.1 Jesus’ Authority Challenged|Jesus’ Authority Challenged]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Luke
 chapter: 20
 book/chapter: "[[Luke.20|Luke 20]]"
-genre:
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 8
 verses:
 - "[[Luke.20.1]]"
 - "[[Luke.20.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Luke.20.8]]"
 ---
 
-[[Luke.20|Luke 20:1 - Luke 20:8]]
+<small>[[Luke.20|Luke 20:1-8]]</small>
 *Jesus’ Authority Challenged*
 
 [[Luke.20.1|1]] And it came to pass, \[that\] on one of those days, as he taught the people in the temple, and preached the gospel, the chief priests and the scribes came upon \[him\] with the elders,

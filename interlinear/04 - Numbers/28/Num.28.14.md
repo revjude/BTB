@@ -1,8 +1,70 @@
+---
+title: Numbers 28:14
+type: Verse
+kjv: "And their drink offerings shall be half an hin of wine unto a bullock, and the third part of an hin unto a ram, and a fourth part of an hin unto a lamb: this is the burnt offering of every month throughout the months of the year."
+bsb: "Their drink offerings shall be half a hin of wine with each bull, a third of a hin with the ram, and a quarter hin with each lamb. This is the monthly burnt offering to be made at each new moon throughout the year."
+hebrew: "וְנִסְכֵּיהֶ֗ם חֲצִ֣י הַהִין֩ יִהְיֶ֨ה לַפָּ֜ר וּשְׁלִישִׁ֧ת הַהִ֣ין לָאַ֗יִל וּרְבִיעִ֥ת הַהִ֛ין לַכֶּ֖בֶשׂ יָ֑יִן זֹ֣את עֹלַ֥ת חֹ֙דֶשׁ֙ בְּחָדְשׁ֔וֹ לְחָדְשֵׁ֖י הַשָּׁנָֽה׃"
+pericope: "[[Num.28.11 The Monthly Offerings|The Monthly Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 28
+book/chapter: "[[Num.28|Numbers 28]]"
+chronological_order: 188
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic MOON|MOON]]"
+- "[[topic NEW MOON|NEW MOON]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9002]]"
+- "[[H5262]]"
+- "[[H9028]]"
+- "[[H2677]]"
+- "[[H9009]]"
+- "[[H1969]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H6499]]"
+- "[[H7992]]"
+- "[[H0352A]]"
+- "[[H7243]]"
+- "[[H3532]]"
+- "[[H3196]]"
+- "[[H2063]]"
+- "[[H5930A]]"
+- "[[H2320G]]"
+- "[[H9003]]"
+- "[[H9023]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 28:14**<big><big>[[Num.28.11 The Monthly Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their drink offerings shall be half an hin of wine unto a bullock, and the third [part] of an hin unto a ram, and a fourth [part] of an hin unto a lamb: this [is] the burnt offering of every month throughout the months of the year.
 <small><sub>**BSB:**</sub></small>
 Their drink offerings shall be half a hin of wine with each bull, a third of a hin with the ram, and a quarter hin with each lamb. This is the monthly burnt offering to be made at each new moon throughout the year.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5262\|נִסְכֵּי]][[H9028\|הֶ֗ם]] [[H2677\|חֲצִ֣י]] [[H9009\|הַ]][[H1969\|הִין֩]] [[H1961\|יִהְיֶ֨ה]] [[H9005\|לַ]][[H6499\|פָּ֜ר]] [[H9002\|וּ]][[H7992\|שְׁלִישִׁ֧ת]] [[H9009\|הַ]][[H1969\|הִ֣ין]] [[H9005\|לָ]][[H0352A\|אַ֗יִל]] [[H9002\|וּ]][[H7243\|רְבִיעִ֥ת]] [[H9009\|הַ]][[H1969\|הִ֛ין]] [[H9005\|לַ]][[H3532\|כֶּ֖בֶשׂ]] [[H3196\|יָ֑יִן]] [[H2063\|זֹ֣את]] [[H5930A\|עֹלַ֥ת]] [[H2320G\|חֹ֙דֶשׁ֙]] [[H9003\|בְּ]][[H2320G\|חָדְשׁ֔]][[H9023\|וֹ]] [[H9005\|לְ]][[H2320G\|חָדְשֵׁ֖י]] [[H9009\|הַ]][[H8141\|שָּׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BULLOCK|BULLOCK]] • [[topic MEASURE|MEASURE]] • [[topic MOON|MOON]] • [[topic NEW MOON|NEW MOON]] • [[topic OFFERINGS|OFFERINGS]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.13|<< Numbers 28:13]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.15|Numbers 28:15 >>]]</td></tr></table>
 

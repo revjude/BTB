@@ -1,8 +1,52 @@
+---
+title: Proverbs 18:4
+type: Verse
+kjv: "The words of a man’s mouth are as deep waters, and the wellspring of wisdom as a flowing brook."
+bsb: "The words of a man’s mouth are deep waters; the fountain of wisdom is a bubbling brook."
+hebrew: "מַ֣יִם עֲ֭מֻקִּים דִּבְרֵ֣י פִי־ אִ֑ישׁ נַ֥חַל נֹ֝בֵ֗עַ מְק֣וֹר חָכְמָֽה׃"
+pericope: "[[Prov.18.1 The Selfishness of the Unfriendly|The Selfishness of the Unfriendly]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 18
+book/chapter: "[[Prov.18|Proverbs 18]]"
+chronological_order: 473
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H4325G]]"
+- "[[H6013]]"
+- "[[H1697G]]"
+- "[[H6310G]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H5158A]]"
+- "[[H5042]]"
+- "[[H4726]]"
+- "[[H2451]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 18:4**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The words of a man’s mouth [are as] deep waters, [and] the wellspring of wisdom [as] a flowing brook.
 <small><sub>**BSB:**</sub></small>
 The words of a man’s mouth are deep waters; the fountain of wisdom is a bubbling brook.
+<small><sub>**Hebrew:**</sub></small>
+[[H4325G\|מַ֣יִם]] [[H6013\|עֲ֭מֻקִּים]] [[H1697G\|דִּבְרֵ֣י]] [[H6310G\|פִי]][[H9014\|־]] [[H0376G\|אִ֑ישׁ]] [[H5158A\|נַ֥חַל]] [[H5042\|נֹ֝בֵ֗עַ]] [[H4726\|מְק֣וֹר]] [[H2451\|חָכְמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.3|<< Proverbs 18:3]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.5|Proverbs 18:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

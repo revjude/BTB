@@ -1,6 +1,52 @@
+---
+title: LXX Jeremiah 18:7
+type: Verse
+lxx: "At end I shall speak unto a nation or unto a kingdom  to lift them away, and  to destroy them."
+greek: "πέρας λαλήσω επ΄ έθνος η επί βασιλείαν του εξάραι αυτούς και του απολλύειν"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 18
+book/chapter: "[[Jer.18|Jeremiah 18]]"
+chronological_order: 735
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[G4009]]"
+- "[[G2980]]"
+- "[[G1909]]"
+- "[[G1484]]"
+- "[[G2228]]"
+- "[[G1909]]"
+- "[[G0932]]"
+- "[[G3588]]"
+- "[[G1808]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0622]]"
+---
+
 **LXX Jeremiah 18:7** 
 <small><sub>**LXX:**</sub></small>
 At end I shall speak unto a nation or unto a kingdom  to lift them away, and  to destroy them. 
+<small><sub>**Greek:**</sub></small>
+[[G4009\|πέρας]] [[G2980\|λαλήσω]] [[G1909\|επ΄]] [[G1484\|έθνος]] [[G2228\|η]] [[G1909\|επί]] [[G0932\|βασιλείαν]] [[G3588\|του]] [[G1808\|εξάραι]] [[G1473\|αυτούς]] [[G2532\|και]] [[G3588\|του]] [[G0622\|απολλύειν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic NATION|NATION]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.18.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.6|<< Jeremiah 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.8|Jeremiah 18:8 >>]]</td></tr></table>
 
@@ -18,6 +64,6 @@ At end I shall speak unto a nation or unto a kingdom  to lift them away, and  to
 | and | **<big>[[G2532\|και]]</big>** |
 | \<obj.> | **<big>[[G3588\|του]]</big>** |
 | to destroy them. | **<big>[[G0622\|απολλύειν]]</big>** |
-[[Jer.18.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.6|<< Jeremiah 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.8|Jeremiah 18:8 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.6|<< Jeremiah 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.8|Jeremiah 18:8 >>]]</td></tr></table>
 
 

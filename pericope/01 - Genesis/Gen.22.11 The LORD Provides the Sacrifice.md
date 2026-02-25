@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Provides the Sacrifice
+type: Pericope
 pericope: "[[Gen.22.11 The LORD Provides the Sacrifice|The LORD Provides the Sacrifice]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 22
 book/chapter: "[[Gen.22|Genesis 22]]"
-genre:
+chronological_order: 64
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 9
 verses:
 - "[[Gen.22.11]]"
 - "[[Gen.22.12]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Gen.22.19]]"
 ---
 
-[[Gen.22|Genesis 22:11 - Genesis 22:19]]
+<small>[[Gen.22|Genesis 22:11-19]]</small>
 *The LORD Provides the Sacrifice*
 
 [[Gen.22.11|11]] And the angel of the LORD called unto him out of heaven, and said, Abraham, Abraham: and he said, Here \[am\] I.

@@ -1,8 +1,69 @@
+---
+title: Exodus 8:26
+type: Verse
+kjv: "And Moses said, It is not meet so to do; for we shall sacrifice the abomination of the Egyptians to the LORD our God: lo, shall we sacrifice the abomination of the Egyptians before their eyes, and will they not stone us?"
+bsb: "But Moses replied, “It would not be right to do that, because the sacrifices we offer to the LORD our God would be detestable to the Egyptians. If we offer sacrifices that are detestable before the Egyptians, will they not stone us?"
+hebrew: "וַיֹּ֣אמֶר מֹשֶׁ֗ה לֹ֤א נָכוֹן֙ לַעֲשׂ֣וֹת כֵּ֔ן כִּ֚י תּוֹעֲבַ֣ת מִצְרַ֔יִם נִזְבַּ֖ח לַיהוָ֣ה אֱלֹהֵ֑ינוּ הֵ֣ן נִזְבַּ֞ח אֶת־ תּוֹעֲבַ֥ת מִצְרַ֛יִם לְעֵינֵיהֶ֖ם וְלֹ֥א יִסְקְלֻֽנוּ׃"
+pericope: "[[Exod.8.20 The Fourth Plague：Flies|The Fourth Plague：Flies]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 8
+book/chapter: "[[Exod.8|Exodus 8]]"
+chronological_order: 100
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic FLIES|FLIES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H3808]]"
+- "[[H3559K]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H3651C]]"
+- "[[H3588A]]"
+- "[[H8441]]"
+- "[[H4714G]]"
+- "[[H2076]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H2005]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5869J]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H5619]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 8:26**<big><big>[[Exod.8.20 The Fourth Plague：Flies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses said, It is not meet so to do; for we shall sacrifice the abomination of the Egyptians to the LORD our God: lo, shall we sacrifice the abomination of the Egyptians before their eyes, and will they not stone us?
 <small><sub>**BSB:**</sub></small>
 But Moses replied, “It would not be right to do that, because the sacrifices we offer to the LORD our God would be detestable to the Egyptians. If we offer sacrifices that are detestable before the Egyptians, will they not stone us?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H4872\|מֹשֶׁ֗ה]] [[H3808\|לֹ֤א]] [[H3559K\|נָכוֹן֙]] [[H9005\|לַ]][[H6213A\|עֲשׂ֣וֹת]] [[H3651C\|כֵּ֔ן]] [[H3588A\|כִּ֚י]] [[H8441\|תּוֹעֲבַ֣ת]] [[H4714G\|מִצְרַ֔יִם]] [[H2076\|נִזְבַּ֖ח]] [[H9005\|לַ]][[H3068G\|יהוָ֣ה]] [[H0430G\|אֱלֹהֵ֑י]][[H9025\|נוּ]] [[H2005\|הֵ֣ן]] [[H2076\|נִזְבַּ֞ח]] [[H0853\|אֶת]][[H9014\|־]] [[H8441\|תּוֹעֲבַ֥ת]] [[H4714G\|מִצְרַ֛יִם]] [[H9005\|לְ]][[H5869J\|עֵינֵי]][[H9028\|הֶ֖ם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5619\|יִסְקְלֻֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FLIES|FLIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.8.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.25|<< Exodus 8:25]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8.27|Exodus 8:27 >>]]</td></tr></table>
 

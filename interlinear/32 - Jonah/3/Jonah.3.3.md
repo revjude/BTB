@@ -1,8 +1,63 @@
+---
+title: Jonah 3:3
+type: Verse
+kjv: "So Jonah arose, and went unto Nineveh, according to the word of the LORD. Now Nineveh was an exceeding great city of three days’ journey."
+bsb: "This time Jonah got up and went to Nineveh, in accordance with the word of the LORD. Now Nineveh was an exceedingly great city, requiring a three-day journey."
+hebrew: "וַיָּ֣קָם יוֹנָ֗ה וַיֵּ֛לֶךְ אֶל־ נִֽינְוֶ֖ה כִּדְבַ֣ר יְהוָ֑ה וְנִֽינְוֵ֗ה הָיְתָ֤ה עִיר־ גְּדוֹלָה֙ לֵֽאלֹהִ֔ים מַהֲלַ֖ךְ שְׁלֹ֥שֶׁת יָמִֽים׃"
+pericope: "[[Jonah.3.1 The Ninevites Repent|The Ninevites Repent]]"
+original_language: Hebrew
+testament: Old
+book: Jonah
+chapter: 3
+book/chapter: "[[Jonah.3|Jonah 3]]"
+chronological_order: 596
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic MISSIONS|MISSIONS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H3124]]"
+- "[[H1980G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5210]]"
+- "[[H9004]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H5892B]]"
+- "[[H1419A]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H4109]]"
+- "[[H7969]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jonah 3:3**<big><big>[[Jonah.3.1 The Ninevites Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Jonah arose, and went unto Nineveh, according to the word of the LORD. Now Nineveh was an exceeding great city of three days’ journey.
 <small><sub>**BSB:**</sub></small>
 This time Jonah got up and went to Nineveh, in accordance with the word of the LORD. Now Nineveh was an exceedingly great city, requiring a three-day journey.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּ֣קָם]] [[H3124\|יוֹנָ֗ה]] [[H9001\|וַ]][[H1980G\|יֵּ֛לֶךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H5210\|נִֽינְוֶ֖ה]] [[H9004\|כִּ]][[H1697G\|דְבַ֣ר]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H5210\|נִֽינְוֵ֗ה]] [[H1961\|הָיְתָ֤ה]] [[H5892B\|עִיר]][[H9014\|־]] [[H1419A\|גְּדוֹלָה֙]] [[H9005\|לֵֽ]][[H0430G\|אלֹהִ֔ים]] [[H4109\|מַהֲלַ֖ךְ]] [[H7969\|שְׁלֹ֥שֶׁת]] [[H3117G\|יָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic MISSIONS|MISSIONS]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.3.2|<< Jonah 3:2]]</td><td align="center" style="border:none;">[[Jonah.3|Jonah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.3.4|Jonah 3:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

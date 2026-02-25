@@ -1,8 +1,64 @@
+---
+title: Isaiah 58:1
+type: Verse
+kjv: "Cry aloud, spare not, lift up thy voice like a trumpet, and shew my people their transgression, and the house of Jacob their sins."
+bsb: "“Cry aloud, do not hold back! Raise your voice like a ram’s horn. Declare to My people their transgression and to the house of Jacob their sins."
+hebrew: "קְרָ֤א בְגָרוֹן֙ אַל־ תַּחְשֹׂ֔ךְ כַּשּׁוֹפָ֖ר הָרֵ֣ם קוֹלֶ֑ךָ וְהַגֵּ֤ד לְעַמִּי֙ פִּשְׁעָ֔ם וּלְבֵ֥ית יַעֲקֹ֖ב חַטֹּאתָֽם׃"
+pericope: "[[Isa.58.1 True Fasts and Sabbaths|True Fasts and Sabbaths]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 58
+book/chapter: "[[Isa.58|Isaiah 58]]"
+chronological_order: 697
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFECTIONS|AFFECTIONS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H7121I]]"
+- "[[H9003]]"
+- "[[H1627]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H2820]]"
+- "[[H9004]]"
+- "[[H7782]]"
+- "[[H7311A]]"
+- "[[H6963A]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H6588]]"
+- "[[H9028]]"
+- "[[H1004M]]"
+- "[[H3290]]"
+- "[[H2403B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 58:1**<big><big>[[Isa.58.1 True Fasts and Sabbaths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cry aloud, spare not, lift up thy voice like a trumpet, and shew my people their transgression, and the house of Jacob their sins.
 <small><sub>**BSB:**</sub></small>
 “Cry aloud, do not hold back! Raise your voice like a ram’s horn. Declare to My people their transgression and to the house of Jacob their sins.
+<small><sub>**Hebrew:**</sub></small>
+[[H7121I\|קְרָ֤א]] [[H9003\|בְ]][[H1627\|גָרוֹן֙]] [[H0408\|אַל]][[H9014\|־]] [[H2820\|תַּחְשֹׂ֔ךְ]] [[H9004\|כַּ]][[H7782\|שּׁוֹפָ֖ר]] [[H7311A\|הָרֵ֣ם]] [[H6963A\|קוֹלֶ֑]][[H9021\|ךָ]] [[H9002\|וְ]][[H5046\|הַגֵּ֤ד]] [[H9005\|לְ]][[H5971A\|עַמִּ]][[H9020\|י֙]] [[H6588\|פִּשְׁעָ֔]][[H9028\|ם]] [[H9002\|וּ]][[H9005\|לְ]][[H1004M\|בֵ֥ית]] [[H3290\|יַעֲקֹ֖ב]] [[H2403B\|חַטֹּאתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFECTIONS|AFFECTIONS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.58.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.21|<< Isaiah 57:21]]</td><td align="center" style="border:none;">[[Isa.58|Isaiah 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58.2|Isaiah 58:2 >>]]</td></tr></table>
 

@@ -1,10 +1,58 @@
+---
+title: Acts 3:8
+type: Verse
+kjv: "And he leaping up stood, and walked, and entered with them into the temple, walking, and leaping, and praising God."
+bsb: "He sprang to his feet and began to walk. Then he went with them into the temple courts, walking and leaping and praising God."
+greek: "καὶ ἐξαλλόμενος ἔστη καὶ περιεπάτει καὶ εἰσῆλθεν σὺν αὐτοῖς εἰς τὸ ἱερὸν περιπατῶν καὶ ἁλλόμενος καὶ αἰνῶν τὸν θεόν.¶"
+pericope: "[[Acts.3.1 A Lame Man Walks|A Lame Man Walks]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 3
+book/chapter: "[[Acts.3|Acts 3]]"
+chronological_order: 1021
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic JOHN|JOHN]]"
+- "[[topic JOY|JOY]]"
+- "[[topic LAMENESS|LAMENESS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SHOUTING|SHOUTING]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1814]]"
+- "[[G2476]]"
+- "[[G4043]]"
+- "[[G1525]]"
+- "[[G4862]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2411]]"
+- "[[G0242]]"
+- "[[G0134]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Acts 3:8**<big><big>[[Acts.3.1 A Lame Man Walks|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he leaping up stood, and walked, and entered with them into the temple, walking, and leaping, and praising God.
 <small><sub>**BSB:**</sub></small>
 He sprang to his feet and began to walk. Then he went with them into the temple courts, walking and leaping and praising God.
-<small><sub>**Literal:**</sub></small>
-And leaping up he stood and was walking and he entered with them into the temple walking and leaping and praising <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.7|<< Acts 3:7]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.9|Acts 3:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1814\|ἐξαλλόμενος]]  [[G2476\|ἔστη]]  [[G2532\|καὶ]]  [[G4043\|περιεπάτει]]  [[G2532\|καὶ]]  [[G1525\|εἰσῆλθεν]]  [[G4862\|σὺν]]  [[G0846\|αὐτοῖς]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2411\|ἱερὸν]]  [[G4043\|περιπατῶν]]  [[G2532\|καὶ]]  [[G0242\|ἁλλόμενος]]  [[G2532\|καὶ]]  [[G0134\|αἰνῶν]]  [[G3588\|τὸν]]  [[G2316\|θεόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOHN|JOHN]] • [[topic JOY|JOY]] • [[topic LAMENESS|LAMENESS]] • [[topic MIRACLES|MIRACLES]] • [[topic SHOUTING|SHOUTING]] • [[topic TEMPLE|TEMPLE]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.7|<< Acts 3:7]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.9|Acts 3:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

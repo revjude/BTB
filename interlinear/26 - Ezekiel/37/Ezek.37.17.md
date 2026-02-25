@@ -1,8 +1,61 @@
+---
+title: Ezekiel 37:17
+type: Verse
+kjv: "And join them one to another into one stick; and they shall become one in thine hand."
+bsb: "Then join them together into one stick, so that they become one in your hand."
+hebrew: "וְקָרַ֨ב אֹתָ֜ם אֶחָ֧ד אֶל־ אֶחָ֛ד לְךָ֖ לְעֵ֣ץ אֶחָ֑ד וְהָי֥וּ לַאֲחָדִ֖ים בְּיָדֶֽךָ׃"
+pericope: "[[Ezek.37.15 One Nation with One King|One Nation with One King]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 37
+book/chapter: "[[Ezek.37|Ezekiel 37]]"
+chronological_order: 828
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9002]]"
+- "[[H7126G]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H0259]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H6086I]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 37:17**<big><big>[[Ezek.37.15 One Nation with One King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And join them one to another into one stick; and they shall become one in thine hand.
 <small><sub>**BSB:**</sub></small>
 Then join them together into one stick, so that they become one in your hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7126G\|קָרַ֨ב]] [[H0853\|אֹתָ֜]][[H9038\|ם]] [[H0259\|אֶחָ֧ד]] [[H0413\|אֶל]][[H9014\|־]] [[H0259\|אֶחָ֛ד]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H9005\|לְ]][[H6086I\|עֵ֣ץ]] [[H0259\|אֶחָ֑ד]] [[H9001\|וְ]][[H1961\|הָי֥וּ]] [[H9005\|לַ]][[H0259\|אֲחָדִ֖ים]] [[H9003\|בְּ]][[H3027G\|יָדֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.16|<< Ezekiel 37:16]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.18|Ezekiel 37:18 >>]]</td></tr></table>
 

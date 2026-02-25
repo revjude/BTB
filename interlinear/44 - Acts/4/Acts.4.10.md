@@ -1,10 +1,76 @@
+---
+title: Acts 4:10
+type: Verse
+kjv: "Be it known unto you all, and to all the people of Israel, that by the name of Jesus Christ of Nazareth, whom ye crucified, whom God raised from the dead, even by him doth this man stand here before you whole."
+bsb: "then let this be known to all of you and to all the people of Israel: It is by the name of Jesus Christ of Nazareth, whom you crucified but whom God raised from the dead, that this man stands before you healed."
+greek: "γνωστὸν ἔστω πᾶσιν ὑμῖν καὶ παντὶ τῷ λαῷ Ἰσραὴλ ὅτι ἐν τῷ ὀνόματι Ἰησοῦ Χριστοῦ τοῦ Ναζωραίου ὃν ὑμεῖς ἐσταυρώσατε, ὃν ὁ θεὸς ἤγειρεν ἐκ νεκρῶν, ἐν τούτῳ οὗτος παρέστηκεν ἐνώπιον ὑμῶν ὑγιής."
+pericope: "[[Acts.4.1 Peter and John before the Sanhedrin|Peter and John before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CAIAPHAS|CAIAPHAS]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic COURT|COURT]]"
+- "[[topic CROSS|CROSS]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1110]]"
+- "[[G1510]]"
+- "[[G3956]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G2474]]"
+- "[[G3754G]]"
+- "[[G1722]]"
+- "[[G3686]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G3480]]"
+- "[[G3739]]"
+- "[[G4717]]"
+- "[[G2316]]"
+- "[[G1453]]"
+- "[[G1537]]"
+- "[[G3498]]"
+- "[[G3778]]"
+- "[[G3936]]"
+- "[[G1799]]"
+- "[[G5199]]"
+texts:
+- NKO
+---
+
 **Acts 4:10**<big><big>[[Acts.4.1 Peter and John before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Be it known unto you all, and to all the people of Israel, that by the name of Jesus Christ of Nazareth, whom ye crucified, whom God raised from the dead, [even] by him doth this man stand here before you whole.
 <small><sub>**BSB:**</sub></small>
 then let this be known to all of you and to all the people of Israel: It is by the name of Jesus Christ of Nazareth, whom you crucified but whom God raised from the dead, that this man stands before you healed.
-<small><sub>**Literal:**</sub></small>
-known it should be to all you and to all the people of Israel that in the name of Jesus Christ <the> of Nazareth whom you yourselves crucified, whom <the> God raised out from [the] dead, in Him this [man] has stood before you sound.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.9|<< Acts 4:9]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.11|Acts 4:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1110\|γνωστὸν]]  [[G1510\|ἔστω]]  [[G3956\|πᾶσιν]]  [[G4771\|ὑμῖν]]  [[G2532\|καὶ]]  [[G3956\|παντὶ]]  [[G3588\|τῷ]]  [[G2992\|λαῷ]]  [[G2474\|Ἰσραὴλ]]  [[G3754G\|ὅτι]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματι]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G3588\|τοῦ]]  [[G3480\|Ναζωραίου]]  [[G3739\|ὃν]]  [[G4771\|ὑμεῖς]]  [[G4717\|ἐσταυρώσατε,]]  [[G3739\|ὃν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1453\|ἤγειρεν]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν,]]  [[G1722\|ἐν]]  [[G3778\|τούτῳ]]  [[G3778\|οὗτος]]  [[G3936\|παρέστηκεν]]  [[G1799\|ἐνώπιον]]  [[G4771\|ὑμῶν]]  [[G5199\|ὑγιής.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAIAPHAS|CAIAPHAS]] • [[topic COURAGE|COURAGE]] • [[topic COURT|COURT]] • [[topic CROSS|CROSS]] • [[topic DEFENSE|DEFENSE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.9|<< Acts 4:9]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.11|Acts 4:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

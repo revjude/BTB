@@ -1,10 +1,58 @@
+---
+title: John 16:10
+type: Verse
+kjv: "Of righteousness, because I go to my Father, and ye see me no more;"
+bsb: "in regard to righteousness, because I am going to the Father and you will no longer see Me;"
+jesus_said: "Of righteousness, because I go to my Father, and ye see me no more;"
+greek: "περὶ δικαιοσύνης δέ, ὅτι πρὸς τὸν πατέρα μου ὑπάγω, καὶ οὐκέτι οὐκέτι θεωρεῖτέ με·"
+pericope: "[[John.16.5 The Promise of the Holy Spirit|The Promise of the Holy Spirit]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 16
+book/chapter: "[[John.16|John 16]]"
+chronological_order: 1004
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G4012]]"
+- "[[G1343]]"
+- "[[G1161]]"
+- "[[G3754H]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G5217]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2089]]"
+- "[[G2334]]"
+texts:
+- NKO
+- k
+---
+
 **John 16:10**<big><big>[[John.16.5 The Promise of the Holy Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Of righteousness, because I go to my Father, and ye see me no more;
 <small><sub>**BSB:**</sub></small>
 in regard to righteousness, because I am going to the Father and you will no longer see Me;
-<small><sub>**Literal:**</sub></small>
-concerning righteousness however, because to the Father of mine I go away, and no longer you behold Me;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.9|<< John 16:9]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.11|John 16:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4012\|περὶ]]  [[G1343\|δικαιοσύνης]]  [[G1161\|δέ,]]  [[G3754H\|ὅτι]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G3165\|μου]]  [[G5217\|ὑπάγω,]]  [[G2532\|καὶ]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G2334\|θεωρεῖτέ]]  [[G3165\|με·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVICTION|CONVICTION]] • [[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.9|<< John 16:9]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.11|John 16:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

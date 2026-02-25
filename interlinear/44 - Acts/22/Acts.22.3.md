@@ -1,10 +1,78 @@
+---
+title: Acts 22:3
+type: Verse
+kjv: "I am verily a man which am a Jew, born in Tarsus, a city in Cilicia, yet brought up in this city at the feet of Gamaliel, and taught according to the perfect manner of the law of the fathers, and was zealous toward God, as ye all are this day."
+bsb: "“I am a Jew, born in Tarsus of Cilicia, but raised in this city. I was educated at the feet of Gamaliel in strict conformity to the law of our fathers. I was just as zealous for God as any of you are today."
+greek: "ἐγώ μέν εἰμι ἀνὴρ Ἰουδαῖος γεγεννημένος ἐν Ταρσῷ τῆς Κιλικίας, ἀνατεθραμμένος δὲ ἐν τῇ πόλει ταύτῃ, παρὰ τοὺς πόδας Γαμαλιὴλ πεπαιδευμένος κατὰ ἀκρίβειαν τοῦ πατρῴου νόμου, ζηλωτὴς ὑπάρχων τοῦ θεοῦ καθὼς πάντες ὑμεῖς ἐστε σήμερον,"
+pericope: "[[Acts.22.1 Paul’s Defense to the Crowd|Paul’s Defense to the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 22
+book/chapter: "[[Acts.22|Acts 22]]"
+chronological_order: 1104
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FEET|FEET]]"
+- "[[topic GAMALIEL|GAMALIEL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SCHOOL|SCHOOL]]"
+- "[[topic TARSUS|TARSUS]]"
+- "[[topic TUTOR|TUTOR]]"
+strongs:
+- "[[G1473]]"
+- "[[G3303]]"
+- "[[G1510]]"
+- "[[G0435G]]"
+- "[[G2453]]"
+- "[[G1080]]"
+- "[[G1722]]"
+- "[[G5019]]"
+- "[[G3588]]"
+- "[[G2791]]"
+- "[[G0397]]"
+- "[[G1161]]"
+- "[[G4172]]"
+- "[[G3778]]"
+- "[[G3844]]"
+- "[[G4228]]"
+- "[[G1059]]"
+- "[[G3811]]"
+- "[[G2596]]"
+- "[[G0195]]"
+- "[[G3971]]"
+- "[[G3551]]"
+- "[[G2207]]"
+- "[[G5225]]"
+- "[[G2316]]"
+- "[[G2531]]"
+- "[[G3956]]"
+- "[[G4771]]"
+- "[[G4594]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 22:3**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I am verily a man [which am] a Jew, born in Tarsus, [a city] in Cilicia, yet brought up in this city at the feet of Gamaliel, [and] taught according to the perfect manner of the law of the fathers, and was zealous toward God, as ye all are this day.
 <small><sub>**BSB:**</sub></small>
 “I am a Jew, born in Tarsus of Cilicia, but raised in this city. I was educated at the feet of Gamaliel in strict conformity to the law of our fathers. I was just as zealous for God as any of you are today.
-<small><sub>**Literal:**</sub></small>
-I myself indeed am a man Jewish born in Tarsus <the> of Cilicia, brought up however in <the> city this at the feet of Gamaliel instructed according to [the] exactness of the of our Fathers law, a zealous one being <the> for God even as all you yourselves are this day,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.2|<< Acts 22:2]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.4|Acts 22:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|ἐγώ]]  [[G3303\|μέν]]  [[G1510\|εἰμι]]  [[G0435G\|ἀνὴρ]]  [[G2453\|Ἰουδαῖος]]  [[G1080\|γεγεννημένος]]  [[G1722\|ἐν]]  [[G5019\|Ταρσῷ]]  [[G3588\|τῆς]]  [[G2791\|Κιλικίας,]]  [[G0397\|ἀνατεθραμμένος]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4172\|πόλει]]  [[G3778\|ταύτῃ,]]  [[G3844\|παρὰ]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G1059\|Γαμαλιὴλ]]  [[G3811\|πεπαιδευμένος]]  [[G2596\|κατὰ]]  [[G0195\|ἀκρίβειαν]]  [[G3588\|τοῦ]]  [[G3971\|πατρῴου]]  [[G3551\|νόμου,]]  [[G2207\|ζηλωτὴς]]  [[G5225\|ὑπάρχων]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2531\|καθὼς]]  [[G3956\|πάντες]]  [[G4771\|ὑμεῖς]]  [[G1510\|ἐστε]]  [[G4594\|σήμερον,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic CHILDREN|CHILDREN]] • [[topic FEET|FEET]] • [[topic GAMALIEL|GAMALIEL]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic PAUL|PAUL]] • [[topic PHARISEES|PHARISEES]] • [[topic SCHOOL|SCHOOL]] • [[topic TARSUS|TARSUS]] • [[topic TUTOR|TUTOR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.2|<< Acts 22:2]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.4|Acts 22:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Samson and Delilah
+type: Pericope
 pericope: "[[Judg.16.4 Samson and Delilah|Samson and Delilah]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 16
 book/chapter: "[[Judg.16|Judges 16]]"
-genre:
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 11
 verses:
 - "[[Judg.16.4]]"
 - "[[Judg.16.5]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Judg.16.14]]"
 ---
 
-[[Judg.16|Judges 16:4 - Judges 16:14]]
+<small>[[Judg.16|Judges 16:4-14]]</small>
 *Samson and Delilah*
 
 [[Judg.16.4|4]] And it came to pass afterward, that he loved a woman in the valley of Sorek, whose name \[was\] Delilah.

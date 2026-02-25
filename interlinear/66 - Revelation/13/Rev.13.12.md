@@ -1,10 +1,61 @@
+---
+title: Revelation 13:12
+type: Verse
+kjv: "And he exerciseth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed."
+bsb: "And this beast exercised all the authority of the first beast and caused the earth and those who dwell in it to worship the first beast, whose mortal wound had been healed."
+greek: "καὶ τὴν ἐξουσίαν τοῦ πρώτου θηρίου πᾶσαν ποιεῖ ἐνώπιον αὐτοῦ καὶ ποιεῖ τὴν γῆν καὶ τοὺς ἐν αὐτῇ κατοικοῦντας ἵνα προσκυνήσουσιν τὸ θηρίον τὸ πρῶτον, οὗ ἐθεραπεύθη ἡ πληγὴ τοῦ θανάτου αὐτοῦ."
+pericope: "[[Rev.13.11 The Beast from the Earth|The Beast from the Earth]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 13
+book/chapter: "[[Rev.13|Revelation 13]]"
+chronological_order: 1180
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1849]]"
+- "[[G4413G]]"
+- "[[G2342]]"
+- "[[G3956]]"
+- "[[G4160G]]"
+- "[[G1799]]"
+- "[[G0846]]"
+- "[[G1093G]]"
+- "[[G1722]]"
+- "[[G2730]]"
+- "[[G2443]]"
+- "[[G4352]]"
+- "[[G3739]]"
+- "[[G2323]]"
+- "[[G4127]]"
+- "[[G2288]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Revelation 13:12**<big><big>[[Rev.13.11 The Beast from the Earth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he exerciseth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed.
 <small><sub>**BSB:**</sub></small>
 And this beast exercised all the authority of the first beast and caused the earth and those who dwell in it to worship the first beast, whose mortal wound had been healed.
-<small><sub>**Literal:**</sub></small>
-And the authority of the first beast all it exercises on behalf of it and makes the earth and those in it dwelling that they will worship the beast <the> first, of whom was healed the wound the fatal of it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.11|<< Revelation 13:11]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.13|Revelation 13:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G1849\|ἐξουσίαν]]  [[G3588\|τοῦ]]  [[G4413G\|πρώτου]]  [[G2342\|θηρίου]]  [[G3956\|πᾶσαν]]  [[G4160G\|ποιεῖ]]  [[G1799\|ἐνώπιον]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G4160G\|ποιεῖ]]  [[G3588\|τὴν]]  [[G1093G\|γῆν]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G1722\|ἐν]]  [[G0846\|αὐτῇ]]  [[G2730\|κατοικοῦντας]]  [[G2443\|ἵνα]]  [[G4352\|προσκυνήσουσιν]]  [[G3588\|τὸ]]  [[G2342\|θηρίον]]  [[G3588\|τὸ]]  [[G4413G\|πρῶτον,]]  [[G3739\|οὗ]]  [[G2323\|ἐθεραπεύθη]]  [[G3588\|ἡ]]  [[G4127\|πληγὴ]]  [[G3588\|τοῦ]]  [[G2288\|θανάτου]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.11|<< Revelation 13:11]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.13|Revelation 13:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

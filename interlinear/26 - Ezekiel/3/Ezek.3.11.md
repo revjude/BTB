@@ -1,8 +1,65 @@
+---
+title: Ezekiel 3:11
+type: Verse
+kjv: "And go, get thee to them of the captivity, unto the children of thy people, and speak unto them, and tell them, Thus saith the Lord GOD; whether they will hear, or whether they will forbear."
+bsb: "Go to your people, the exiles; speak to them and tell them, ‘This is what the Lord GOD says,’ whether they listen or refuse to listen.”"
+hebrew: "וְלֵ֨ךְ בֹּ֤א אֶל־ הַגּוֹלָה֙ אֶל־ בְּנֵ֣י עַמֶּ֔ךָ וְדִבַּרְתָּ֤ אֲלֵיהֶם֙ וְאָמַרְתָּ֣ אֲלֵיהֶ֔ם כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהֹוִ֑ה אִֽם־ יִשְׁמְע֖וּ וְאִם־ יֶחְדָּֽלוּ׃"
+pericope: "[[Ezek.3.1 Ezekiel Eats the Scroll|Ezekiel Eats the Scroll]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 3
+book/chapter: "[[Ezek.3|Ezekiel 3]]"
+chronological_order: 794
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9002]]"
+- "[[H1980G]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1473]]"
+- "[[H1121G]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H9038]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H0518A]]"
+- "[[H8085G]]"
+- "[[H2308]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 3:11**<big><big>[[Ezek.3.1 Ezekiel Eats the Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And go, get thee to them of the captivity, unto the children of thy people, and speak unto them, and tell them, Thus saith the Lord GOD; whether they will hear, or whether they will forbear.
 <small><sub>**BSB:**</sub></small>
 Go to your people, the exiles; speak to them and tell them, ‘This is what the Lord GOD says,’ whether they listen or refuse to listen.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1980G\|לֵ֨ךְ]] [[H0935G\|בֹּ֤א]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H1473\|גּוֹלָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H5971A\|עַמֶּ֔]][[H9021\|ךָ]] [[H9001\|וְ]][[H1696G\|דִבַּרְתָּ֤]] [[H0413\|אֲלֵי]][[H9038\|הֶם֙]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֲלֵי]][[H9038\|הֶ֔ם]] [[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֖ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהֹוִ֑ה]] [[H0518A\|אִֽם]][[H9014\|־]] [[H8085G\|יִשְׁמְע֖וּ]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H2308\|יֶחְדָּֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMPENITENCE|IMPENITENCE]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.10|<< Ezekiel 3:10]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.12|Ezekiel 3:12 >>]]</td></tr></table>
 

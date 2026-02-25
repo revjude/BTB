@@ -1,10 +1,59 @@
+---
+title: Acts 7:32
+type: Verse
+kjv: "Saying, I am the God of thy fathers, the God of Abraham, and the God of Isaac, and the God of Jacob. Then Moses trembled, and durst not behold."
+bsb: "‘I am the God of your fathers, the God of Abraham, Isaac, and Jacob.’ Moses trembled with fear and did not dare to look."
+greek: "ἐγὼ ὁ θεὸς τῶν πατέρων σου, ὁ θεὸς Ἀβραὰμ καὶ ὁ θεὸς Ἰσαὰκ καὶ ὁ θεὸς Ἰακώβ. ἔντρομος δὲ γενόμενος Μωϋσῆς οὐκ ἐτόλμα κατανοῆσαι."
+pericope: "[[Acts.7.30 The Call of Moses|The Call of Moses]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3962]]"
+- "[[G4771]]"
+- "[[G0011]]"
+- "[[G2532]]"
+- "[[G2464]]"
+- "[[G2384G]]"
+- "[[G1790]]"
+- "[[G1161]]"
+- "[[G1096]]"
+- "[[G3475]]"
+- "[[G3756]]"
+- "[[G5111]]"
+- "[[G2657]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 7:32**<big><big>[[Acts.7.30 The Call of Moses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [Saying], I [am] the God of thy fathers, the God of Abraham, and the God of Isaac, and the God of Jacob. Then Moses trembled, and durst not behold.
 <small><sub>**BSB:**</sub></small>
 ‘I am the God of your fathers, the God of Abraham, Isaac, and Jacob.’ Moses trembled with fear and did not dare to look.
-<small><sub>**Literal:**</sub></small>
-I myself [am] the God of the Fathers of you, the God of Abraham and the God of Isaac and the God of Jacob.’ Terrified then having become Moses not he was daring to look.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.31|<< Acts 7:31]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.33|Acts 7:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|ἐγὼ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τῶν]]  [[G3962\|πατέρων]]  [[G4771\|σου,]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G0011\|Ἀβραὰμ]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G2464\|Ἰσαὰκ]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G2384G\|Ἰακώβ.]]  [[G1790\|ἔντρομος]]  [[G1161\|δὲ]]  [[G1096\|γενόμενος]]  [[G3475\|Μωϋσῆς]]  [[G3756\|οὐκ]]  [[G5111\|ἐτόλμα]]  [[G2657\|κατανοῆσαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.31|<< Acts 7:31]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.33|Acts 7:33 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 7:32** is...
 > $\quad$ referencing: [[LXX.Exod.3.6|Exod 3:6]]

@@ -1,10 +1,55 @@
+---
+title: John 8:58
+type: Verse
+kjv: "Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am."
+bsb: "“Truly, truly, I tell you,” Jesus declared, “before Abraham was born, I am!”"
+jesus_said: "Verily, verily, I say unto you, Before Abraham was, I am."
+greek: "Εἶπεν αὐτοῖς ὁ Ἰησοῦς· ἀμὴν ἀμὴν λέγω ὑμῖν· πρὶν Ἀβραὰμ γενέσθαι ἐγὼ εἰμί."
+pericope: "[[John.8.48 Before Abraham Was Born, I Am|Before Abraham Was Born, I Am]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G4250]]"
+- "[[G0011]]"
+- "[[G1096]]"
+- "[[G1473]]"
+- "[[G1510]]"
+texts:
+- NKO
+- ko
+---
+
 **John 8:58**<big><big>[[John.8.48 Before Abraham Was Born, I Am|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.
 <small><sub>**BSB:**</sub></small>
 “Truly, truly, I tell you,” Jesus declared, “before Abraham was born, I am!”
-<small><sub>**Literal:**</sub></small>
-Said to them <the> Jesus; Amen Amen I say to you; before Abraham being I myself am.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.57|<< John 8:57]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.59|John 8:59 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G0281\|ἀμὴν]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G4250\|πρὶν]]  [[G0011\|Ἀβραὰμ]]  [[G1096\|γενέσθαι]]  [[G1473\|ἐγὼ]]  [[G1510\|εἰμί.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.57|<< John 8:57]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.59|John 8:59 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

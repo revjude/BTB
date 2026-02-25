@@ -1,10 +1,59 @@
+---
+title: Acts 4:1
+type: Verse
+kjv: "And as they spake unto the people, the priests, and the captain of the temple, and the Sadducees, came upon them,"
+bsb: "While Peter and John were speaking to the people, the priests and the captain of the temple guard and the Sadducees came up to them,"
+greek: "Λαλούντων δὲ αὐτῶν πρὸς τὸν λαὸν ἐπέστησαν αὐτοῖς οἱ ἱερεῖς καὶ ὁ στρατηγὸς τοῦ ἱεροῦ καὶ οἱ Σαδδουκαῖοι,"
+pericope: "[[Acts.4.1 Peter and John before the Sanhedrin|Peter and John before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CAIAPHAS|CAIAPHAS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PETER|PETER]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2980]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G2186]]"
+- "[[G2409]]"
+- "[[G2532]]"
+- "[[G4755]]"
+- "[[G2411]]"
+- "[[G4523]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **Acts 4:1**<big><big>[[Acts.4.1 Peter and John before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as they spake unto the people, the priests, and the captain of the temple, and the Sadducees, came upon them,
 <small><sub>**BSB:**</sub></small>
 While Peter and John were speaking to the people, the priests and the captain of the temple guard and the Sadducees came up to them,
-<small><sub>**Literal:**</sub></small>
-When are speaking now they to the people came upon them the priests and the captain of the temple and the Sadducees,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.26|<< Acts 3:26]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.2|Acts 4:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2980\|Λαλούντων]]  [[G1161\|δὲ]]  [[G0846\|αὐτῶν]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2992\|λαὸν]]  [[G2186\|ἐπέστησαν]]  [[G0846\|αὐτοῖς]]  [[G3588\|οἱ]]  [[G2409\|ἱερεῖς]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G4755\|στρατηγὸς]]  [[G3588\|τοῦ]]  [[G2411\|ἱεροῦ]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4523\|Σαδδουκαῖοι,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAIAPHAS|CAIAPHAS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic JOHN|JOHN]] • [[topic PETER|PETER]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SADDUCEES|SADDUCEES]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.26|<< Acts 3:26]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.2|Acts 4:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

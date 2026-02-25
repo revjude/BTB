@@ -1,10 +1,58 @@
+---
+title: Acts 10:16
+type: Verse
+kjv: "This was done thrice: and the vessel was received up again into heaven."
+bsb: "This happened three times, and all at once the sheet was taken back up into heaven."
+greek: "τοῦτο δὲ ἐγένετο ἐπὶ τρίς, καὶ εὐθὺς ἀνελήμφθη τὸ σκεῦος εἰς τὸν οὐρανόν."
+pericope: "[[Acts.10.9 Peter’s Vision|Peter’s Vision]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic JOPPA|JOPPA]]"
+- "[[topic MISSIONS|MISSIONS]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic PETER|PETER]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G1096]]"
+- "[[G1909]]"
+- "[[G5151]]"
+- "[[G2532]]"
+- "[[G2112]]"
+- "[[G0353]]"
+- "[[G3588]]"
+- "[[G4632]]"
+- "[[G1519]]"
+- "[[G3772]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Acts 10:16**<big><big>[[Acts.10.9 Peter’s Vision|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This was done thrice: and the vessel was received up again into heaven.
 <small><sub>**BSB:**</sub></small>
 This happened three times, and all at once the sheet was taken back up into heaven.
-<small><sub>**Literal:**</sub></small>
-This now took place for three times and immediately was taken up the vessel into <the> heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.15|<< Acts 10:15]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.17|Acts 10:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτο]]  [[G1161\|δὲ]]  [[G1096\|ἐγένετο]]  [[G1909\|ἐπὶ]]  [[G5151\|τρίς,]]  [[G2532\|καὶ]]  [[G2112\|εὐθὺς]]  [[G0353\|ἀνελήμφθη]]  [[G3588\|τὸ]]  [[G4632\|σκεῦος]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3772\|οὐρανόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic DREAM|DREAM]] • [[topic JOPPA|JOPPA]] • [[topic MISSIONS|MISSIONS]] • [[topic PARABLES|PARABLES]] • [[topic PETER|PETER]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.15|<< Acts 10:15]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.17|Acts 10:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

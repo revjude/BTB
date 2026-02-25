@@ -1,8 +1,60 @@
+---
+title: Daniel 7:1
+type: Verse
+kjv: "In the first year of Belshazzar king of Babylon Daniel had a dream and visions of his head upon his bed: then he wrote the dream, and told the sum of the matters."
+bsb: "In the first year of the reign of Belshazzar over Babylon, Daniel had a dream, and visions passed through his mind as he lay on his bed. He wrote down the dream, and this is the summary of his account."
+aramaic: "בִּשְׁנַ֣ת חֲדָ֗ה לְבֵלְאשַׁצַּר֙ מֶ֣לֶךְ בָּבֶ֔ל דָּנִיֵּאל֙ חֵ֣לֶם חֲזָ֔ה וְחֶזְוֵ֥י רֵאשֵׁ֖הּ עַֽל־ מִשְׁכְּבֵ֑הּ בֵּאדַ֙יִן֙ חֶלְמָ֣א כְתַ֔ב רֵ֥אשׁ מִלִּ֖ין אֲמַֽר׃"
+pericope: "[[Dan.7.1 Daniel’s Vision of the Four Beasts|Daniel’s Vision of the Four Beasts]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 7
+book/chapter: "[[Dan.7|Daniel 7]]"
+chronological_order: 843
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+strongs:
+- "[[H9003]]"
+- "[[H8140]]"
+- "[[H2298]]"
+- "[[H9005]]"
+- "[[H1113]]"
+- "[[H4430]]"
+- "[[H0895]]"
+- "[[H1841H]]"
+- "[[H2493]]"
+- "[[H2370]]"
+- "[[H9002]]"
+- "[[H2376]]"
+- "[[H7217]]"
+- "[[H9023]]"
+- "[[H5922]]"
+- "[[H9014]]"
+- "[[H4903]]"
+- "[[H0116]]"
+- "[[H9010]]"
+- "[[H3790]]"
+- "[[H4406]]"
+- "[[H0560]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 7:1**<big><big>[[Dan.7.1 Daniel’s Vision of the Four Beasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the first year of Belshazzar king of Babylon Daniel had a dream and visions of his head upon his bed: then he wrote the dream, [and] told the sum of the matters.
 <small><sub>**BSB:**</sub></small>
 In the first year of the reign of Belshazzar over Babylon, Daniel had a dream, and visions passed through his mind as he lay on his bed. He wrote down the dream, and this is the summary of his account.
+<small><sub>**Aramaic:**</sub></small>
+[[H9003\|בִּ]][[H8140\|שְׁנַ֣ת]] [[H2298\|חֲדָ֗ה]] [[H9005\|לְ]][[H1113\|בֵלְאשַׁצַּר֙]] [[H4430\|מֶ֣לֶךְ]] [[H0895\|בָּבֶ֔ל]] [[H1841H\|דָּנִיֵּאל֙]] [[H2493\|חֵ֣לֶם]] [[H2370\|חֲזָ֔ה]] [[H9002\|וְ]][[H2376\|חֶזְוֵ֥י]] [[H7217\|רֵאשֵׁ֖]][[H9023\|הּ]] [[H5922\|עַֽל]][[H9014\|־]] [[H4903\|מִשְׁכְּבֵ֑]][[H9023\|הּ]] [[H9003\|בֵּ]][[H0116\|אדַ֙יִן֙]] [[H2493\|חֶלְמָ֣]][[H9010\|א]] [[H3790\|כְתַ֔ב]] [[H7217\|רֵ֥אשׁ]] [[H4406\|מִלִּ֖ין]] [[H0560\|אֲמַֽר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.28|<< Daniel 6:28]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.2|Daniel 7:2 >>]]</td></tr></table>
 

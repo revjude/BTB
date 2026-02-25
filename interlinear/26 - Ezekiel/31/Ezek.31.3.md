@@ -1,8 +1,61 @@
+---
+title: Ezekiel 31:3
+type: Verse
+kjv: "Behold, the Assyrian was a cedar in Lebanon with fair branches, and with a shadowing shroud, and of an high stature; and his top was among the thick boughs."
+bsb: "Look at Assyria, a cedar in Lebanon, with beautiful branches that shaded the forest. It towered on high; its top was among the clouds."
+hebrew: "הִנֵּ֨ה אַשּׁ֜וּר אֶ֣רֶז בַּלְּבָנ֗וֹן יְפֵ֥ה עָנָ֛ף וְחֹ֥רֶשׁ מֵצַ֖ל וּגְבַ֣הּ קוֹמָ֑ה וּבֵ֣ין עֲבֹתִ֔ים הָיְתָ֖ה צַמַּרְתּֽוֹ׃"
+pericope: "[[Ezek.31.1 Egypt Will Fall like Assyria|Egypt Will Fall like Assyria]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 31
+book/chapter: "[[Ezek.31|Ezekiel 31]]"
+chronological_order: 822
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CEDAR|CEDAR]]"
+strongs:
+- "[[H2009]]"
+- "[[H0804G]]"
+- "[[H0730]]"
+- "[[H9003]]"
+- "[[H3844G]]"
+- "[[H3303]]"
+- "[[H6057]]"
+- "[[H9002]]"
+- "[[H2793H]]"
+- "[[H6751]]"
+- "[[H1364]]"
+- "[[H6967]]"
+- "[[H0996H]]"
+- "[[H5688]]"
+- "[[H1961]]"
+- "[[H6788]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 31:3**<big><big>[[Ezek.31.1 Egypt Will Fall like Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the Assyrian [was] a cedar in Lebanon with fair branches, and with a shadowing shroud, and of an high stature; and his top was among the thick boughs.
 <small><sub>**BSB:**</sub></small>
 Look at Assyria, a cedar in Lebanon, with beautiful branches that shaded the forest. It towered on high; its top was among the clouds.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֨ה]] [[H0804G\|אַשּׁ֜וּר]] [[H0730\|אֶ֣רֶז]] [[H9003\|בַּ]][[H3844G\|לְּבָנ֗וֹן]] [[H3303\|יְפֵ֥ה]] [[H6057\|עָנָ֛ף]] [[H9002\|וְ]][[H2793H\|חֹ֥רֶשׁ]] [[H6751\|מֵצַ֖ל]] [[H9002\|וּ]][[H1364\|גְבַ֣הּ]] [[H6967\|קוֹמָ֑ה]] [[H9002\|וּ]][[H0996H\|בֵ֣ין]] [[H5688\|עֲבֹתִ֔ים]] [[H1961\|הָיְתָ֖ה]] [[H6788\|צַמַּרְתּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CEDAR|CEDAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.31.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.2|<< Ezekiel 31:2]]</td><td align="center" style="border:none;">[[Ezek.31|Ezekiel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.31.4|Ezekiel 31:4 >>]]</td></tr></table>
 

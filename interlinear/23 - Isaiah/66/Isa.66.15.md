@@ -1,8 +1,65 @@
+---
+title: Isaiah 66:15
+type: Verse
+kjv: "For, behold, the LORD will come with fire, and with his chariots like a whirlwind, to render his anger with fury, and his rebuke with flames of fire."
+bsb: "For behold, the LORD will come with fire—His chariots are like a whirlwind—to execute His anger with fury and His rebuke with flames of fire."
+hebrew: "כִּֽי־ הִנֵּ֤ה יְהוָה֙ בָּאֵ֣שׁ יָב֔וֹא וְכַסּוּפָ֖ה מַרְכְּבֹתָ֑יו לְהָשִׁ֤יב בְּחֵמָה֙ אַפּ֔וֹ וְגַעֲרָת֖וֹ בְּלַהֲבֵי־ אֵֽשׁ׃"
+pericope: "[[Isa.66.15 Final Judgments against the Wicked|Final Judgments against the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 66
+book/chapter: "[[Isa.66|Isaiah 66]]"
+chronological_order: 705
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2009]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H0935G]]"
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H5492A]]"
+- "[[H4818]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H7725I]]"
+- "[[H2534]]"
+- "[[H0639G]]"
+- "[[H1606]]"
+- "[[H3851]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 66:15**<big><big>[[Isa.66.15 Final Judgments against the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, behold, the LORD will come with fire, and with his chariots like a whirlwind, to render his anger with fury, and his rebuke with flames of fire.
 <small><sub>**BSB:**</sub></small>
 For behold, the LORD will come with fire—His chariots are like a whirlwind—to execute His anger with fury and His rebuke with flames of fire.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H2009\|הִנֵּ֤ה]] [[H3068G\|יְהוָה֙]] [[H9003\|בָּ]][[H0784\|אֵ֣שׁ]] [[H0935G\|יָב֔וֹא]] [[H9002\|וְ]][[H9004\|כַ]][[H5492A\|סּוּפָ֖ה]] [[H4818\|מַרְכְּבֹתָ֑י]][[H9023\|ו]] [[H9005\|לְ]][[H7725I\|הָשִׁ֤יב]] [[H9003\|בְּ]][[H2534\|חֵמָה֙]] [[H0639G\|אַפּ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H1606\|גַעֲרָת֖]][[H9023\|וֹ]] [[H9003\|בְּ]][[H3851\|לַהֲבֵי]][[H9014\|־]] [[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic CHARIOT|CHARIOT]] • [[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.66.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.66.14|<< Isaiah 66:14]]</td><td align="center" style="border:none;">[[Isa.66|Isaiah 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.16|Isaiah 66:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

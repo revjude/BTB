@@ -1,10 +1,58 @@
+---
+title: John 20:29
+type: Verse
+kjv: "Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: blessed are they that have not seen, and yet have believed."
+bsb: "Jesus said to him, “Because you have seen Me, you have believed; blessed are those who have not seen and yet have believed.”"
+jesus_said: "Thomas, because thou hast seen me, thou hast believed: blessed are they that have not seen, and yet have believed."
+greek: "λέγει αὐτῷ ὁ Ἰησοῦς· ὅτι ἑώρακάς με Θωμᾷ πεπίστευκας· μακάριοι οἱ μὴ ἰδόντες καὶ πιστεύσαντες.¶"
+pericope: "[[John.20.24 Jesus Appears to Thomas|Jesus Appears to Thomas]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 20
+book/chapter: "[[John.20|John 20]]"
+chronological_order: 1017
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic THOMAS|THOMAS]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3754H]]"
+- "[[G3708]]"
+- "[[G3165]]"
+- "[[G2381]]"
+- "[[G4100]]"
+- "[[G3107]]"
+- "[[G3361]]"
+- "[[G1492H]]"
+- "[[G2532]]"
+texts:
+- NKO
+- k
+---
+
 **John 20:29**<big><big>[[John.20.24 Jesus Appears to Thomas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: blessed [are] they that have not seen, and [yet] have believed.
 <small><sub>**BSB:**</sub></small>
 Jesus said to him, “Because you have seen Me, you have believed; blessed are those who have not seen and yet have believed.”
-<small><sub>**Literal:**</sub></small>
-Says to him <the> Jesus; Because you have seen Me Thomas you have believed; blessed [are] those not having seen yet having believed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.28|<< John 20:28]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.30|John 20:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγει]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G3754H\|ὅτι]]  [[G3708\|ἑώρακάς]]  [[G3165\|με]]  [[G2381\|Θωμᾷ]]  [[G4100\|πεπίστευκας·]]  [[G3107\|μακάριοι]]  [[G3588\|οἱ]]  [[G3361\|μὴ]]  [[G1492H\|ἰδόντες]]  [[G2532\|καὶ]]  [[G4100\|πιστεύσαντες.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic THOMAS|THOMAS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.28|<< John 20:28]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.30|John 20:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

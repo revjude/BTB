@@ -1,8 +1,74 @@
+---
+title: Ezekiel 36:3
+type: Verse
+kjv: "Therefore prophesy and say, Thus saith the Lord GOD; Because they have made you desolate, and swallowed you up on every side, that ye might be a possession unto the residue of the heathen, and ye are taken up in the lips of talkers, and are an infamy of the people:"
+bsb: "therefore prophesy and declare that this is what the Lord GOD says: Because they have made you desolate and have trampled you on every side, so that you became a possession of the rest of the nations and were taken up in slander by the lips of their talkers,"
+hebrew: "לָכֵן֙ הִנָּבֵ֣א וְאָמַרְתָּ֔ כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהוִ֑ה יַ֣עַן בְּיַ֡עַן שַׁמּוֹת֩ וְשָׁאֹ֨ף אֶתְכֶ֜ם מִסָּבִ֗יב לִֽהְיוֹתְכֶ֤ם מֽוֹרָשָׁה֙ לִשְׁאֵרִ֣ית הַגּוֹיִ֔ם וַתֵּֽעֲל֛וּ עַל־ שְׂפַ֥ת לָשׁ֖וֹן וְדִבַּת־ עָֽם׃"
+pericope: "[[Ezek.36.1 A Prophecy to the Mountains of Israel|A Prophecy to the Mountains of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 36
+book/chapter: "[[Ezek.36|Ezekiel 36]]"
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SCOFFING|SCOFFING]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H5012]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H3282]]"
+- "[[H9003]]"
+- "[[H8074G]]"
+- "[[H9002]]"
+- "[[H7602B]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9006]]"
+- "[[H5439H]]"
+- "[[H1961]]"
+- "[[H4181]]"
+- "[[H7611]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H8193H]]"
+- "[[H3956G]]"
+- "[[H1681]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 36:3**<big><big>[[Ezek.36.1 A Prophecy to the Mountains of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore prophesy and say, Thus saith the Lord GOD; Because they have made [you] desolate, and swallowed you up on every side, that ye might be a possession unto the residue of the heathen, and ye are taken up in the lips of talkers, and [are] an infamy of the people:
 <small><sub>**BSB:**</sub></small>
 therefore prophesy and declare that this is what the Lord GOD says: Because they have made you desolate and have trampled you on every side, so that you became a possession of the rest of the nations and were taken up in slander by the lips of their talkers,
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵן֙]] [[H5012\|הִנָּבֵ֣א]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֔]] [[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֖ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֑ה]] [[H3282\|יַ֣עַן]] [[H9003\|בְּ]][[H3282\|יַ֡עַן]] [[H8074G\|שַׁמּוֹת֩]] [[H9002\|וְ]][[H7602B\|שָׁאֹ֨ף]] [[H0853\|אֶתְ]][[H9036\|כֶ֜ם]] [[H9006\|מִ]][[H5439H\|סָּבִ֗יב]] [[H9005\|לִֽ]][[H1961\|הְיוֹתְ]][[H9036\|כֶ֤ם]] [[H4181\|מֽוֹרָשָׁה֙]] [[H9005\|לִ]][[H7611\|שְׁאֵרִ֣ית]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֔ם]] [[H9001\|וַ]][[H5927G\|תֵּֽעֲל֛וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H8193H\|שְׂפַ֥ת]] [[H3956G\|לָשׁ֖וֹן]] [[H9002\|וְ]][[H1681\|דִבַּת]][[H9014\|־]] [[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SCOFFING|SCOFFING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.2|<< Ezekiel 36:2]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.4|Ezekiel 36:4 >>]]</td></tr></table>
 

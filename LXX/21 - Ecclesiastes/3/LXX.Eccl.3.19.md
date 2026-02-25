@@ -1,6 +1,77 @@
+---
+title: LXX Ecclesiastes 3:19
+type: Verse
+lxx: "And indeed to them the event of the sons  of man, and the event of the beast one event to them; as the death of this one, so also the death of this other one; and one breath  to all. And what abounded the man more than the cattle? Nothing. For all things are folly."
+greek: "και γε αυτοίς συνάντημα υιών του ανθρώπου και συνάντημα του κτήνους συνάντημα εν αυτοίς ως ο θάνατος τούτου ούτως και ο θάνατος τούτου και πνεύμα εν τοις πάσι και τι επερίσσευσεν ο άνθρωπος παρά το κτήνος ουδέν ότι τα πάντα ματαιότης"
+original_language: Greek
+testament: Old
+book: Ecclesiastes
+chapter: 3
+book/chapter: "[[Eccl.3|Ecclesiastes 3]]"
+chronological_order: 541
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic DEATH|DEATH]]"
+strongs:
+- "[[G2532]]"
+- "[[G1065]]"
+- "[[G1473]]"
+- "[[G9296]]"
+- "[[G5207]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G2532]]"
+- "[[G9296]]"
+- "[[G3588]]"
+- "[[G2934]]"
+- "[[G9296]]"
+- "[[G1520]]"
+- "[[G1473]]"
+- "[[G5613]]"
+- "[[G3588]]"
+- "[[G2288]]"
+- "[[G3778]]"
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2288]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G4151]]"
+- "[[G1520]]"
+- "[[G3588]]"
+- "[[G3956]]"
+- "[[G2532]]"
+- "[[G5100]]"
+- "[[G4052]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G2934]]"
+- "[[G3762]]"
+- "[[G3754]]"
+- "[[G3588]]"
+- "[[G3956]]"
+- "[[G3153]]"
+---
+
 **LXX Ecclesiastes 3:19** 
 <small><sub>**LXX:**</sub></small>
 And indeed to them \[the\] event of \[the\] sons  of man, and \[the\] event of the beast one event to them; as the death of this \[one\], so also the death of this \[other one\]; and one breath  to all. And what abounded the man more than the cattle? Nothing. For all \[things\] \[are\] folly. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1065\|γε]] [[G1473\|αυτοίς]] [[G9296\|συνάντημα]] [[G5207\|υιών]] [[G3588\|του]] [[G0444\|ανθρώπου]] [[G2532\|και]] [[G9296\|συνάντημα]] [[G3588\|του]] [[G2934\|κτήνους]] [[G9296\|συνάντημα]] [[G1520\|εν]] [[G1473\|αυτοίς]] [[G5613\|ως]] [[G3588\|ο]] [[G2288\|θάνατος]] [[G3778\|τούτου]] [[G3779\|ούτως]] [[G2532\|και]] [[G3588\|ο]] [[G2288\|θάνατος]] [[G3778\|τούτου]] [[G2532\|και]] [[G4151\|πνεύμα]] [[G1520\|εν]] [[G3588\|τοις]] [[G3956\|πάσι]] [[G2532\|και]] [[G5100\|τι]] [[G4052\|επερίσσευσεν]] [[G3588\|ο]] [[G0444\|άνθρωπος]] [[G3844\|παρά]] [[G3588\|το]] [[G2934\|κτήνος]] [[G3762\|ουδέν]] [[G3754\|ότι]] [[G3588\|τα]] [[G3956\|πάντα]] [[G3153\|ματαιότης]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic DEATH|DEATH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Eccl.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.3.18|<< Ecclesiastes 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.3.20|Ecclesiastes 3:20 >>]]</td></tr></table>
 
@@ -46,6 +117,6 @@ And indeed to them \[the\] event of \[the\] sons  of man, and \[the\] event of t
 | For | **<big>[[G3754\|ότι]]</big>** |
 | all \[things\]\<obj.> | **<big>[[G3588\|τα]]</big>** **<big>[[G3956\|πάντα]]</big>** |
 | \[are\] folly. | **<big>[[G3153\|ματαιότης]]</big>** |
-[[Eccl.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.3.18|<< Ecclesiastes 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.3.20|Ecclesiastes 3:20 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.3.18|<< Ecclesiastes 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.3.20|Ecclesiastes 3:20 >>]]</td></tr></table>
 
 

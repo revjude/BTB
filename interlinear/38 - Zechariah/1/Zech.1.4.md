@@ -1,8 +1,75 @@
+---
+title: Zechariah 1:4
+type: Verse
+kjv: "Be ye not as your fathers, unto whom the former prophets have cried, saying, Thus saith the LORD of hosts; Turn ye now from your evil ways, and from your evil doings: but they did not hear, nor hearken unto me, saith the LORD."
+bsb: "Do not be like your fathers, to whom the former prophets proclaimed that this is what the LORD of Hosts says: ‘Turn now from your evil ways and deeds.’ But they did not listen or pay attention to Me, declares the LORD."
+hebrew: "אַל־ תִּהְי֣וּ כַאֲבֹֽתֵיכֶ֡ם אֲשֶׁ֣ר קָרְאֽוּ־ אֲלֵיהֶם֩ הַנְּבִיאִ֨ים הָרִֽאשֹׁנִ֜ים לֵאמֹ֗ר כֹּ֤ה אָמַר֙ יְהוָ֣ה צְבָא֔וֹת שׁ֤וּבוּ נָא֙ מִדַּרְכֵיכֶ֣ם הָרָעִ֔ים וּמַֽעֲלְלֵיכֶ֖ם הָֽרָעִ֑ים וְלֹ֥א שָׁמְע֛וּ וְלֹֽא־ הִקְשִׁ֥יבוּ אֵלַ֖י נְאֻם־ יְהוָֽה׃"
+pericope: "[[Zech.1.1 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 1
+book/chapter: "[[Zech.1|Zechariah 1]]"
+chronological_order: 857
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H0834A]]"
+- "[[H7121I]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H7223H]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H7725G]]"
+- "[[H4994]]"
+- "[[H9006]]"
+- "[[H1870G]]"
+- "[[H7451H]]"
+- "[[H9002]]"
+- "[[H4611]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H7181]]"
+- "[[H9030]]"
+- "[[H5002]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Zechariah 1:4**<big><big>[[Zech.1.1 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be ye not as your fathers, unto whom the former prophets have cried, saying, Thus saith the LORD of hosts; Turn ye now from your evil ways, and [from] your evil doings: but they did not hear, nor hearken unto me, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 Do not be like your fathers, to whom the former prophets proclaimed that this is what the LORD of Hosts says: ‘Turn now from your evil ways and deeds.’ But they did not listen or pay attention to Me, declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H1961\|תִּהְי֣וּ]] [[H9004\|כַ]][[H0001G\|אֲבֹֽתֵי]][[H9026\|כֶ֡ם]] [[H0834A\|אֲשֶׁ֣ר]] [[H7121I\|קָרְאֽוּ]][[H9014\|־]] [[H0413\|אֲלֵי]][[H9038\|הֶם֩]] [[H9009\|הַ]][[H5030\|נְּבִיאִ֨ים]] [[H9009\|הָ]][[H7223H\|רִֽאשֹׁנִ֜ים]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H7725G\|שׁ֤וּבוּ]] [[H4994\|נָא֙]] [[H9006\|מִ]][[H1870G\|דַּרְכֵי]][[H9026\|כֶ֣ם]] [[H9009\|הָ]][[H7451H\|רָעִ֔ים]] [[H9002\|וּ]][[H4611\|מַֽעֲלְלֵי]][[H9026\|כֶ֖ם]] [[H9009\|הָֽ]][[H7451H\|רָעִ֑ים]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8085G\|שָׁמְע֛וּ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7181\|הִקְשִׁ֥יבוּ]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EXAMPLE|EXAMPLE]] • [[topic IMPENITENCE|IMPENITENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.1.3|<< Zechariah 1:3]]</td><td align="center" style="border:none;">[[Zech.1|Zechariah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.1.5|Zechariah 1:5 >>]]</td></tr></table>
 

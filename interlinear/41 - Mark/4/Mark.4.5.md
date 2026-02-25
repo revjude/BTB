@@ -1,10 +1,67 @@
+---
+title: Mark 4:5
+type: Verse
+kjv: "And some fell on stony ground, where it had not much earth; and immediately it sprang up, because it had no depth of earth:"
+bsb: "Some fell on rocky ground, where it did not have much soil. It sprang up quickly because the soil was shallow."
+jesus_said: "And some fell on stony ground, where it had not much earth; and immediately it sprang up, because it had no depth of earth:"
+greek: "καὶ ἄλλο δὲ ἔπεσεν ἐπὶ τὸ πετρῶδες καὶ ὅπου οὐκ εἶχεν γῆν πολλήν, καὶ εὐθὺς ἐξανέτειλεν διὰ τὸ μὴ ἔχειν βάθος γῆς."
+pericope: "[[Mark.4.1 The Parable of the Sower|The Parable of the Sower]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 4
+book/chapter: "[[Mark.4|Mark 4]]"
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic SOWER|SOWER]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G0243]]"
+- "[[G1161]]"
+- "[[G4098]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G4075]]"
+- "[[G3699]]"
+- "[[G3756]]"
+- "[[G2192]]"
+- "[[G1093I]]"
+- "[[G4183]]"
+- "[[G2112]]"
+- "[[G1816]]"
+- "[[G1223]]"
+- "[[G3361]]"
+- "[[G0899]]"
+texts:
+- no
+- NKO
+- k
+- o
+---
+
 **Mark 4:5**<big><big>[[Mark.4.1 The Parable of the Sower|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And some fell on stony ground, where it had not much earth; and immediately it sprang up, because it had no depth of earth:
 <small><sub>**BSB:**</sub></small>
 Some fell on rocky ground, where it did not have much soil. It sprang up quickly because the soil was shallow.
-<small><sub>**Literal:**</sub></small>
-And other however fell upon the rocky place and where not it had soil much, and immediately it sprang up because of the not having depth of soil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.4|<< Mark 4:4]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.6|Mark 4:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0243\|ἄλλο]]  [[G1161\|δὲ]]  [[G4098\|ἔπεσεν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G4075\|πετρῶδες]]  [[G2532\|καὶ]]  [[G3699\|ὅπου]]  [[G3756\|οὐκ]]  [[G2192\|εἶχεν]]  [[G1093I\|γῆν]]  [[G4183\|πολλήν,]]  [[G2532\|καὶ]]  [[G2112\|εὐθὺς]]  [[G1816\|ἐξανέτειλεν]]  [[G1223\|διὰ]]  [[G3588\|τὸ]]  [[G3361\|μὴ]]  [[G2192\|ἔχειν]]  [[G0899\|βάθος]]  [[G1093I\|γῆς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic SERMON|SERMON]] • [[topic SOWER|SOWER]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.4|<< Mark 4:4]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.6|Mark 4:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

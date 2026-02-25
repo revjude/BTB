@@ -1,8 +1,64 @@
+---
+title: Leviticus 10:18
+type: Verse
+kjv: "Behold, the blood of it was not brought in within the holy place: ye should indeed have eaten it in the holy place, as I commanded."
+bsb: "Since its blood was not brought inside the holy place, you should have eaten it in the sanctuary area, as I commanded.”"
+hebrew: "הֵ֚ן לֹא־ הוּבָ֣א אֶת־ דָּמָ֔הּ אֶל־ הַקֹּ֖דֶשׁ פְּנִ֑ימָה אָכ֨וֹל תֹּאכְל֥וּ אֹתָ֛הּ בַּקֹּ֖דֶשׁ כַּאֲשֶׁ֥ר צִוֵּֽיתִי׃"
+pericope: "[[Lev.10.8 Restrictions for Priests|Restrictions for Priests]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 10
+book/chapter: "[[Lev.10|Leviticus 10]]"
+chronological_order: 142
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic MOSES|MOSES]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H2005]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H1818]]"
+- "[[H9024]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H6441]]"
+- "[[H0398]]"
+- "[[H9034]]"
+- "[[H9003]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 10:18**<big><big>[[Lev.10.8 Restrictions for Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the blood of it was not brought in within the holy [place]: ye should indeed have eaten it in the holy [place], as I commanded.
 <small><sub>**BSB:**</sub></small>
 Since its blood was not brought inside the holy place, you should have eaten it in the sanctuary area, as I commanded.”
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵ֚ן]] [[H3808\|לֹא]][[H9014\|־]] [[H0935P\|הוּבָ֣א]] [[H0853\|אֶת]][[H9014\|־]] [[H1818\|דָּמָ֔]][[H9024\|הּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H6944G\|קֹּ֖דֶשׁ]] [[H6441\|פְּנִ֑ימָה]] [[H0398\|אָכ֨וֹל]] [[H0398\|תֹּאכְל֥וּ]] [[H0853\|אֹתָ֛]][[H9034\|הּ]] [[H9003\|בַּ]][[H6944G\|קֹּ֖דֶשׁ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H6680\|צִוֵּֽיתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOSES|MOSES]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.10.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.10.17|<< Leviticus 10:17]]</td><td align="center" style="border:none;">[[Lev.10|Leviticus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.10.19|Leviticus 10:19 >>]]</td></tr></table>
 

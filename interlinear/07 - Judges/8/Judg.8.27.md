@@ -1,8 +1,67 @@
+---
+title: Judges 8:27
+type: Verse
+kjv: "And Gideon made an ephod thereof, and put it in his city, even in Ophrah: and all Israel went thither a whoring after it: which thing became a snare unto Gideon, and to his house."
+bsb: "From all this Gideon made an ephod, which he placed in Ophrah, his hometown. But soon all Israel prostituted themselves by worshiping it there, and it became a snare to Gideon and his household."
+hebrew: "וַיַּעַשׂ֩ אוֹת֨וֹ גִדְע֜וֹן לְאֵפ֗וֹד וַיַּצֵּ֨ג אוֹת֤וֹ בְעִירוֹ֙ בְּעָפְרָ֔ה וַיִּזְנ֧וּ כָֽל־ יִשְׂרָאֵ֛ל אַחֲרָ֖יו שָׁ֑ם וַיְהִ֛י לְגִדְע֥וֹן וּלְבֵית֖וֹ לְמוֹקֵֽשׁ׃"
+pericope: "[[Judg.8.22 Gideon’s Ephod|Gideon’s Ephod]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 8
+book/chapter: "[[Judg.8|Judges 8]]"
+chronological_order: 262
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic EPHOD|EPHOD]]"
+- "[[topic GIDEON|GIDEON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OPHRAH|OPHRAH]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H1439]]"
+- "[[H9005]]"
+- "[[H0646]]"
+- "[[H3322]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H9023]]"
+- "[[H6084H]]"
+- "[[H2181]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0310A]]"
+- "[[H8033G]]"
+- "[[H1961]]"
+- "[[H9002]]"
+- "[[H1004M]]"
+- "[[H4170]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 8:27**<big><big>[[Judg.8.22 Gideon’s Ephod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Gideon made an ephod thereof, and put it in his city, [even] in Ophrah: and all Israel went thither a whoring after it: which thing became a snare unto Gideon, and to his house.
 <small><sub>**BSB:**</sub></small>
 From all this Gideon made an ephod, which he placed in Ophrah, his hometown. But soon all Israel prostituted themselves by worshiping it there, and it became a snare to Gideon and his household.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּעַשׂ֩]] [[H0853\|אוֹת֨]][[H9033\|וֹ]] [[H1439\|גִדְע֜וֹן]] [[H9005\|לְ]][[H0646\|אֵפ֗וֹד]] [[H9001\|וַ]][[H3322\|יַּצֵּ֨ג]] [[H0853\|אוֹת֤]][[H9033\|וֹ]] [[H9003\|בְ]][[H5892B\|עִיר]][[H9023\|וֹ֙]] [[H9003\|בְּ]][[H6084H\|עָפְרָ֔ה]] [[H9001\|וַ]][[H2181\|יִּזְנ֧וּ]] [[H3605\|כָֽל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H0310A\|אַחֲרָ֖י]][[H9033\|ו]] [[H8033G\|שָׁ֑ם]] [[H9001\|וַ]][[H1961\|יְהִ֛י]] [[H9005\|לְ]][[H1439\|גִדְע֥וֹן]] [[H9002\|וּ]][[H9005\|לְ]][[H1004M\|בֵית֖]][[H9023\|וֹ]] [[H9005\|לְ]][[H4170\|מוֹקֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHOD|EPHOD]] • [[topic GIDEON|GIDEON]] • [[topic ISRAEL|ISRAEL]] • [[topic OPHRAH|OPHRAH]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.26|<< Judges 8:26]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.28|Judges 8:28 >>]]</td></tr></table>
 

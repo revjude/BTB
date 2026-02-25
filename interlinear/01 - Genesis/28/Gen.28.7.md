@@ -1,8 +1,59 @@
+---
+title: Genesis 28:7
+type: Verse
+kjv: "And that Jacob obeyed his father and his mother, and was gone to Padanaram;"
+bsb: "and that Jacob had obeyed his father and mother and gone to Paddan-aram."
+hebrew: "וַיִּשְׁמַ֣ע יַעֲקֹ֔ב אֶל־ אָבִ֖יו וְאֶל־ אִמּ֑וֹ וַיֵּ֖לֶךְ פַּדֶּ֥נָֽה אֲרָֽם׃"
+pericope: "[[Gen.28.6 Esau Marries Mahalath|Esau Marries Mahalath]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 28
+book/chapter: "[[Gen.28|Genesis 28]]"
+chronological_order: 70
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic EMULATION|EMULATION]]"
+- "[[topic HARAN|HARAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085H]]"
+- "[[H3290]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0517]]"
+- "[[H1980G]]"
+- "[[H6307]]"
+- "[[H9011]]"
+- "[[H0758L]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 28:7**<big><big>[[Gen.28.6 Esau Marries Mahalath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And that Jacob obeyed his father and his mother, and was gone to Padanaram;
 <small><sub>**BSB:**</sub></small>
 and that Jacob had obeyed his father and mother and gone to Paddan-aram.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085H\|יִּשְׁמַ֣ע]] [[H3290\|יַעֲקֹ֔ב]] [[H0413\|אֶל]][[H9014\|־]] [[H0001G\|אָבִ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H0517\|אִמּ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H1980G\|יֵּ֖לֶךְ]] [[H6307\|פַּדֶּ֥נָֽ]][[H9011\|ה]] [[H0758L\|אֲרָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic EMULATION|EMULATION]] • [[topic HARAN|HARAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.28.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.6|<< Genesis 28:6]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.8|Genesis 28:8 >>]]</td></tr></table>
 

@@ -1,8 +1,73 @@
+---
+title: 1 Kings 1:47
+type: Verse
+kjv: "And moreover the king’s servants came to bless our lord king David, saying, God make the name of Solomon better than thy name, and make his throne greater than thy throne. And the king bowed himself upon the bed."
+bsb: "The king’s servants have also gone to congratulate our lord King David, saying, ‘May your God make the name of Solomon more famous than your own name, and may He make his throne greater than your throne.’ And the king has bowed in worship on his bed,"
+hebrew: "וְגַם־ בָּ֜אוּ עַבְדֵ֣י הַמֶּ֗לֶךְ לְ֠בָרֵךְ אֶת־ אֲדֹנֵ֜ינוּ הַמֶּ֣לֶךְ דָּוִד֮ לֵאמֹר֒ יֵיטֵ֨ב אֱלֹהִ֜ים אֶת־ שֵׁ֤ם שְׁלֹמֹה֙ מִשְּׁמֶ֔ךָ וִֽיגַדֵּ֥ל אֶת־ כִּסְא֖וֹ מִכִּסְאֶ֑ךָ וַיִּשְׁתַּ֥חוּ הַמֶּ֖לֶךְ עַל־ הַמִּשְׁכָּֽב׃"
+pericope: "[[1Kgs.1.41 Adonijah Learns of Solomon’s Kingship|Adonijah Learns of Solomon’s Kingship]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic KING|KING]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H5650]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H0113]]"
+- "[[H9025]]"
+- "[[H1732]]"
+- "[[H0559]]"
+- "[[H3190]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H8034]]"
+- "[[H8010]]"
+- "[[H9006]]"
+- "[[H1431]]"
+- "[[H3678G]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H7812]]"
+- "[[H5921A]]"
+- "[[H4904]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Kings 1:47**<big><big>[[1Kgs.1.41 Adonijah Learns of Solomon’s Kingship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And moreover the king’s servants came to bless our lord king David, saying, God make the name of Solomon better than thy name, and make his throne greater than thy throne. And the king bowed himself upon the bed.
 <small><sub>**BSB:**</sub></small>
 The king’s servants have also gone to congratulate our lord King David, saying, ‘May your God make the name of Solomon more famous than your own name, and may He make his throne greater than your throne.’ And the king has bowed in worship on his bed,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H0935G\|בָּ֜אוּ]] [[H5650\|עַבְדֵ֣י]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H9005\|לְ֠]][[H1288\|בָרֵךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H0113\|אֲדֹנֵ֜י]][[H9025\|נוּ]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H1732\|דָּוִד֮]] [[H9005\|לֵ]][[H0559\|אמֹר֒]] [[H3190\|יֵיטֵ֨ב]] [[H0430G\|אֱלֹהִ֜ים]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שֵׁ֤ם]] [[H8010\|שְׁלֹמֹה֙]] [[H9006\|מִ]][[H8034\|שְּׁמֶ֔]][[H9021\|ךָ]] [[H9002\|וִֽ]][[H1431\|יגַדֵּ֥ל]] [[H0853\|אֶת]][[H9014\|־]] [[H3678G\|כִּסְא֖]][[H9023\|וֹ]] [[H9006\|מִ]][[H3678G\|כִּסְאֶ֑]][[H9021\|ךָ]] [[H9001\|וַ]][[H7812\|יִּשְׁתַּ֥חוּ]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4904\|מִּשְׁכָּֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONATHAN|JONATHAN]] • [[topic KING|KING]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.46|<< 1 Kings 1:46]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.48|1 Kings 1:48 >>]]</td></tr></table>
 
@@ -34,6 +99,6 @@ The king’s servants have also gone to congratulate our lord King David, saying
 | the bed  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4904\|מִּשְׁכָּֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mish.Kav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.46|<< 1 Kings 1:46]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.48|1 Kings 1:48 >>]]</td></tr></table>
 
-[^1]: God your  | **<big>[[H9021|ךָ]]</big><big>[[H0430G|אֱלֹהֶי]]</big> ** | 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^1]: God your  | **<big>[[H0430G|אֱלֹהֶי]]</big><big>[[H9021|ךָ]]</big> ** | 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>אֱלֹהִ֜יך</big></span>**
 

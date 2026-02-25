@@ -1,8 +1,67 @@
+---
+title: Jeremiah 2:28
+type: Verse
+kjv: "But where are thy gods that thou hast made thee? let them arise, if they can save thee in the time of thy trouble: for according to the number of thy cities are thy gods, O Judah."
+bsb: "But where are the gods you made for yourselves? Let them rise up in your time of trouble and save you if they can; for your gods are as numerous as your cities, O Judah."
+hebrew: "וְאַיֵּ֤ה אֱלֹהֶ֙יךָ֙ אֲשֶׁ֣ר עָשִׂ֣יתָ לָּ֔ךְ יָק֕וּמוּ אִם־ יוֹשִׁיע֖וּךָ בְּעֵ֣ת רָעָתֶ֑ךָ כִּ֚י מִסְפַּ֣ר עָרֶ֔יךָ הָי֥וּ אֱלֹהֶ֖יךָ יְהוּדָֽה׃ ס"
+pericope: "[[Jer.2.23 Israel’s Unfaithfulness|Israel’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 2
+book/chapter: "[[Jer.2|Jeremiah 2]]"
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic POLYTHEISM|POLYTHEISM]]"
+strongs:
+- "[[H9002]]"
+- "[[H0346]]"
+- "[[H0430]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H6965B]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3467]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H7451C]]"
+- "[[H3588A]]"
+- "[[H4557]]"
+- "[[H5892B]]"
+- "[[H1961]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 2:28**<big><big>[[Jer.2.23 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But where [are] thy gods that thou hast made thee? let them arise, if they can save thee in the time of thy trouble: for [according to] the number of thy cities are thy gods, O Judah.
 <small><sub>**BSB:**</sub></small>
 But where are the gods you made for yourselves? Let them rise up in your time of trouble and save you if they can; for your gods are as numerous as your cities, O Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0346\|אַיֵּ֤ה]] [[H0430\|אֱלֹהֶ֙י]][[H9021\|ךָ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213H\|עָשִׂ֣יתָ]] [[H9005\|לָּ֔]][[H9032\|ךְ]] [[H6965B\|יָק֕וּמוּ]] [[H0518A\|אִם]][[H9014\|־]] [[H3467\|יוֹשִׁיע֖וּ]][[H9031\|ךָ]] [[H9003\|בְּ]][[H6256\|עֵ֣ת]] [[H7451C\|רָעָתֶ֑]][[H9021\|ךָ]] [[H3588A\|כִּ֚י]] [[H4557\|מִסְפַּ֣ר]] [[H5892B\|עָרֶ֔י]][[H9021\|ךָ]] [[H1961\|הָי֥וּ]] [[H0430\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic IDOLATRY|IDOLATRY]] • [[topic POLYTHEISM|POLYTHEISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.27|<< Jeremiah 2:27]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.29|Jeremiah 2:29 >>]]</td></tr></table>
 
@@ -23,7 +82,7 @@ But where are the gods you made for yourselves? Let them rise up in your time of
 | cities your  |**<big>&#8207;[[H5892B\|עָרֶ֔י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'a.Rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they are  |**<big>&#8207;[[H1961\|הָי֥וּ]]&#8207; </big>**| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | gods your  |**<big>&#8207;[[H0430\|אֱלֹהֶ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Judah  |**<big>&#8207;[[H3063G\|יְהוּדָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Judah  |**<big>&#8207;[[H3063G\|יְהוּדָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.27|<< Jeremiah 2:27]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.29|Jeremiah 2:29 >>]]</td></tr></table>
 
 

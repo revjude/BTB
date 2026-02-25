@@ -1,10 +1,58 @@
+---
+title: Matthew 26:8
+type: Verse
+kjv: "But when his disciples saw it, they had indignation, saying, To what purpose is this waste?"
+bsb: "When the disciples saw this, they were indignant and asked, “Why this waste?"
+greek: "ἰδόντες δὲ οἱ μαθηταὶ αὐτοῦ ἠγανάκτησαν λέγοντες· εἰς τί ἡ ἀπώλεια αὕτη;"
+pericope: "[[Matt.26.6 Jesus Anointed at Bethany|Jesus Anointed at Bethany]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic BETHANY|BETHANY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MARY|MARY]]"
+- "[[topic PARSIMONY (STINGINESS)|PARSIMONY (STINGINESS)]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+strongs:
+- "[[G1492H]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G0023]]"
+- "[[G3004G]]"
+- "[[G1519]]"
+- "[[G5101]]"
+- "[[G0684]]"
+- "[[G3778]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 26:8**<big><big>[[Matt.26.6 Jesus Anointed at Bethany|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when his disciples saw [it], they had indignation, saying, To what purpose [is] this waste?
 <small><sub>**BSB:**</sub></small>
 When the disciples saw this, they were indignant and asked, “Why this waste?
-<small><sub>**Literal:**</sub></small>
-Having seen then the disciples of him became indignant saying; For what purpose [is] the waste this?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.7|<< Matthew 26:7]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.9|Matthew 26:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1492H\|ἰδόντες]]  [[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ]]  [[G0023\|ἠγανάκτησαν]]  [[G3004G\|λέγοντες·]]  [[G1519\|εἰς]]  [[G5101\|τί]]  [[G3588\|ἡ]]  [[G0684\|ἀπώλεια]]  [[G3778\|αὕτη;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic BETHANY|BETHANY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic MARY|MARY]] • [[topic PARSIMONY (STINGINESS)|PARSIMONY (STINGINESS)]] • [[topic PRESUMPTION|PRESUMPTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.7|<< Matthew 26:7]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.9|Matthew 26:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

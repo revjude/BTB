@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Is My Strength
+type: Pericope
 pericope: "[[Ps.28.1 The LORD Is My Strength|The LORD Is My Strength]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 28
 book/chapter: "[[Ps.28|Psalm 28]]"
-genre:
+chronological_order: 360
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 10
 verses:
 - "[[Ps.28.0]]"
 - "[[Ps.28.1]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Ps.28.9]]"
 ---
 
-[[Ps.28|Psalm 28:1 - Psalm 28:9]]
+<small>[[Ps.28|Psalm 28:1-9]]</small>
 *The LORD Is My Strength*
 
 [[Ps.28.0|0]] \[A Psalm\] of David.

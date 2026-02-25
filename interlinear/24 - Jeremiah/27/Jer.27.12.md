@@ -1,8 +1,70 @@
+---
+title: Jeremiah 27:12
+type: Verse
+kjv: "I spake also to Zedekiah king of Judah according to all these words, saying, Bring your necks under the yoke of the king of Babylon, and serve him and his people, and live."
+bsb: "And to Zedekiah king of Judah I spoke the same message: “Put your necks under the yoke of the king of Babylon; serve him and his people, and live!"
+hebrew: "וְאֶל־ צִדְקִיָּ֤ה מֶֽלֶךְ־ יְהוּדָה֙ דִּבַּ֔רְתִּי כְּכָל־ הַדְּבָרִ֥ים הָאֵ֖לֶּה לֵאמֹ֑ר הָבִ֨יאוּ אֶת־ צַוְּארֵיכֶ֜ם בְּעֹ֣ל מֶֽלֶךְ־ בָּבֶ֗ל וְעִבְד֥וּ אֹת֛וֹ וְעַמּ֖וֹ וִֽחְיֽוּ׃"
+pericope: "[[Jer.27.1 The Yoke of Nebuchadnezzar|The Yoke of Nebuchadnezzar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 27
+book/chapter: "[[Jer.27|Jeremiah 27]]"
+chronological_order: 750
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6667H]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H1696G]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H6677A]]"
+- "[[H9026]]"
+- "[[H9003]]"
+- "[[H5923]]"
+- "[[H0894]]"
+- "[[H5647G]]"
+- "[[H9033]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H2421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 27:12**<big><big>[[Jer.27.1 The Yoke of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I spake also to Zedekiah king of Judah according to all these words, saying, Bring your necks under the yoke of the king of Babylon, and serve him and his people, and live.
 <small><sub>**BSB:**</sub></small>
 And to Zedekiah king of Judah I spoke the same message: “Put your necks under the yoke of the king of Babylon; serve him and his people, and live!
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H6667H\|צִדְקִיָּ֤ה]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָה֙]] [[H1696G\|דִּבַּ֔רְתִּי]] [[H9004\|כְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֥ים]] [[H9009\|הָ]][[H0428\|אֵ֖לֶּה]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H0935P\|הָבִ֨יאוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H6677A\|צַוְּארֵי]][[H9026\|כֶ֜ם]] [[H9003\|בְּ]][[H5923\|עֹ֣ל]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֗ל]] [[H9002\|וְ]][[H5647G\|עִבְד֥וּ]] [[H0853\|אֹת֛]][[H9033\|וֹ]] [[H9002\|וְ]][[H5971A\|עַמּ֖]][[H9023\|וֹ]] [[H9002\|וִֽ]][[H2421\|חְיֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.27.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.27.11|<< Jeremiah 27:11]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.13|Jeremiah 27:13 >>]]</td></tr></table>
 

@@ -1,8 +1,71 @@
+---
+title: Deuteronomy 7:4
+type: Verse
+kjv: "For they will turn away thy son from following me, that they may serve other gods: so will the anger of the LORD be kindled against you, and destroy thee suddenly."
+bsb: "because they will turn your sons away from following Me to serve other gods. Then the anger of the LORD will burn against you, and He will swiftly destroy you."
+hebrew: "כִּֽי־ יָסִ֤יר אֶת־ בִּנְךָ֙ מֵֽאַחֲרַ֔י וְעָבְד֖וּ אֱלֹהִ֣ים אֲחֵרִ֑ים וְחָרָ֤ה אַף־ יְהוָה֙ בָּכֶ֔ם וְהִשְׁמִידְךָ֖ מַהֵֽר׃"
+pericope: "[[Deut.7.1 Drive Out the Nations|Drive Out the Nations]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 7
+book/chapter: "[[Deut.7|Deuteronomy 7]]"
+chronological_order: 203
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic MISCEGENATION|MISCEGENATION]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5493H]]"
+- "[[H0853]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H9006]]"
+- "[[H0310A]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H5647H]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H2734]]"
+- "[[H0639G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H9036]]"
+- "[[H8045]]"
+- "[[H9031]]"
+- "[[H4118B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 7:4**<big><big>[[Deut.7.1 Drive Out the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they will turn away thy son from following me, that they may serve other gods: so will the anger of the LORD be kindled against you, and destroy thee suddenly.
 <small><sub>**BSB:**</sub></small>
 because they will turn your sons away from following Me to serve other gods. Then the anger of the LORD will burn against you, and He will swiftly destroy you.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H5493H\|יָסִ֤יר]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בִּנְ]][[H9021\|ךָ֙]] [[H9006\|מֵֽ]][[H0310A\|אַחֲרַ֔]][[H9030\|י]] [[H9001\|וְ]][[H5647H\|עָבְד֖וּ]] [[H0430\|אֱלֹהִ֣ים]] [[H0312\|אֲחֵרִ֑ים]] [[H9001\|וְ]][[H2734\|חָרָ֤ה]] [[H0639G\|אַף]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H9003\|בָּ]][[H9036\|כֶ֔ם]] [[H9001\|וְ]][[H8045\|הִשְׁמִידְ]][[H9031\|ךָ֖]] [[H4118B\|מַהֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic MARRIAGE|MARRIAGE]] • [[topic MISCEGENATION|MISCEGENATION]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.3|<< Deuteronomy 7:3]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.5|Deuteronomy 7:5 >>]]</td></tr></table>
 

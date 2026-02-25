@@ -1,8 +1,55 @@
+---
+title: Proverbs 30:26
+type: Verse
+kjv: "The conies are but a feeble folk, yet make they their houses in the rocks;"
+bsb: "the rock badgers are creatures of little power, yet they make their homes in the rocks;"
+hebrew: "שְׁ֭פַנִּים עַ֣ם לֹא־ עָצ֑וּם וַיָּשִׂ֖ימוּ בַסֶּ֣לַע בֵּיתָֽם׃"
+pericope: "[[Prov.30.1 The Words of Agur|The Words of Agur]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 30
+book/chapter: "[[Prov.30|Proverbs 30]]"
+chronological_order: 485
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic CONEY|CONEY]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic RIDDLE|RIDDLE]]"
+strongs:
+- "[[H8227A]]"
+- "[[H5971A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6099]]"
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H9003]]"
+- "[[H5553H]]"
+- "[[H1004B]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 30:26**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The conies [are but] a feeble folk, yet make they their houses in the rocks;
 <small><sub>**BSB:**</sub></small>
 the rock badgers are creatures of little power, yet they make their homes in the rocks;
+<small><sub>**Hebrew:**</sub></small>
+[[H8227A\|שְׁ֭פַנִּים]] [[H5971A\|עַ֣ם]] [[H3808\|לֹא]][[H9014\|־]] [[H6099\|עָצ֑וּם]] [[H9001\|וַ]][[H7760A\|יָּשִׂ֖ימוּ]] [[H9003\|בַ]][[H5553H\|סֶּ֣לַע]] [[H1004B\|בֵּיתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic CONEY|CONEY]] • [[topic INDUSTRY|INDUSTRY]] • [[topic RIDDLE|RIDDLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.25|<< Proverbs 30:25]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.27|Proverbs 30:27 >>]]</td></tr></table>
 

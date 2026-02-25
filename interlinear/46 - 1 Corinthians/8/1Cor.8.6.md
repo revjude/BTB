@@ -1,10 +1,59 @@
+---
+title: 1 Corinthians 8:6
+type: Verse
+kjv: "But to us there is but one God, the Father, of whom are all things, and we in him; and one Lord Jesus Christ, by whom are all things, and we by him."
+bsb: "yet for us there is but one God, the Father, from whom all things came and for whom we exist. And there is but one Lord, Jesus Christ, through whom all things came and through whom we exist."
+greek: "ἀλλ᾽ ἡμῖν εἷς θεὸς ὁ πατὴρ ἐξ οὗ τὰ πάντα καὶ ἡμεῖς εἰς αὐτόν, καὶ εἷς κύριος Ἰησοῦς Χριστὸς δι᾽ οὗ τὰ πάντα καὶ ἡμεῖς δι᾽ αὐτοῦ."
+pericope: "[[1Cor.8.1 Food Sacrificed to Idols|Food Sacrificed to Idols]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 8
+book/chapter: "[[1Cor.8|1 Corinthians 8]]"
+chronological_order: 1065
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[G0235]]"
+- "[[G3165]]"
+- "[[G1520]]"
+- "[[G2316]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1537]]"
+- "[[G3739]]"
+- "[[G3956]]"
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[G0846]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G1223]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 8:6**<big><big>[[1Cor.8.1 Food Sacrificed to Idols|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But to us [there is but] one God, the Father, of whom [are] all things, and we in him; and one Lord Jesus Christ, by whom [are] all things, and we by him.
 <small><sub>**BSB:**</sub></small>
 yet for us there is but one God, the Father, from whom all things came and for whom we exist. And there is but one Lord, Jesus Christ, through whom all things came and through whom we exist.
-<small><sub>**Literal:**</sub></small>
-yet to us [there is] one God the Father of whom [are] the [things] all and we ourselves for Him, and one Lord Jesus Christ through whom [are] the [things] all and we ourselves through Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.5|<< 1 Corinthians 8:5]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.7|1 Corinthians 8:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G3165\|ἡμῖν]]  [[G1520\|εἷς]]  [[G2316\|θεὸς]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G1537\|ἐξ]]  [[G3739\|οὗ]]  [[G3588\|τὰ]]  [[G3956\|πάντα]]  [[G2532\|καὶ]]  [[G3165\|ἡμεῖς]]  [[G1519\|εἰς]]  [[G0846\|αὐτόν,]]  [[G2532\|καὶ]]  [[G1520\|εἷς]]  [[G2962G\|κύριος]]  [[G2424G\|Ἰησοῦς]]  [[G5547\|Χριστὸς]]  [[G1223\|δι᾽]]  [[G3739\|οὗ]]  [[G3588\|τὰ]]  [[G3956\|πάντα]]  [[G2532\|καὶ]]  [[G3165\|ἡμεῖς]]  [[G1223\|δι᾽]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRATERNITY|FRATERNITY]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TRINITY|TRINITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.5|<< 1 Corinthians 8:5]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.7|1 Corinthians 8:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,65 @@
+---
+title: Jeremiah 23:39
+type: Verse
+kjv: "Therefore, behold, I, even I, will utterly forget you, and I will forsake you, and the city that I gave you and your fathers, and cast you out of my presence:"
+bsb: "therefore I will surely forget you and will cast you out of My presence, both you and the city that I gave to you and your fathers."
+hebrew: "לָכֵ֣ן הִנְנִ֔י וְנָשִׁ֥יתִי אֶתְכֶ֖ם נָשֹׁ֑א וְנָטַשְׁתִּ֣י אֶתְכֶ֗ם וְאֶת־ הָעִיר֙ אֲשֶׁ֨ר נָתַ֧תִּי לָכֶ֛ם וְלַאֲבוֹתֵיכֶ֖ם מֵעַ֥ל פָּנָֽי׃"
+pericope: "[[Jer.23.33 False Prophecies|False Prophecies]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 23
+book/chapter: "[[Jer.23|Jeremiah 23]]"
+chronological_order: 746
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H9001]]"
+- "[[H5382]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H5375G]]"
+- "[[H5203]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H6440H]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 23:39**<big><big>[[Jer.23.33 False Prophecies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore, behold, I, even I, will utterly forget you, and I will forsake you, and the city that I gave you and your fathers, [and cast you] out of my presence:
 <small><sub>**BSB:**</sub></small>
 therefore I will surely forget you and will cast you out of My presence, both you and the city that I gave to you and your fathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֣ן]] [[H2005\|הִנְ]][[H9040\|נִ֔י]] [[H9001\|וְ]][[H5382\|נָשִׁ֥יתִי]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H5375G\|נָשֹׁ֑א]] [[H9001\|וְ]][[H5203\|נָטַשְׁתִּ֣י]] [[H0853\|אֶתְ]][[H9036\|כֶ֗ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִיר֙]] [[H0834A\|אֲשֶׁ֨ר]] [[H5414G\|נָתַ֧תִּי]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H9002\|וְ]][[H9005\|לַ]][[H0001G\|אֲבוֹתֵי]][[H9026\|כֶ֖ם]] [[H9006\|מֵ]][[H5921A\|עַ֥ל]] [[H6440H\|פָּנָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.38|<< Jeremiah 23:38]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.40|Jeremiah 23:40 >>]]</td></tr></table>
 

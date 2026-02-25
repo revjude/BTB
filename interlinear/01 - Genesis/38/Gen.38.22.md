@@ -1,8 +1,66 @@
+---
+title: Genesis 38:22
+type: Verse
+kjv: "And he returned to Judah, and said, I cannot find her; and also the men of the place said, that there was no harlot in this place."
+bsb: "So Hirah returned to Judah and said, “I could not find her, and furthermore, the men of that place said, ‘No shrine prostitute has been here.’”"
+hebrew: "וַיָּ֙שָׁב֙ אֶל־ יְהוּדָ֔ה וַיֹּ֖אמֶר לֹ֣א מְצָאתִ֑יהָ וְגַ֨ם אַנְשֵׁ֤י הַמָּקוֹם֙ אָֽמְר֔וּ לֹא־ הָיְתָ֥ה בָזֶ֖ה קְדֵשָֽׁה׃"
+pericope: "[[Gen.38.1 Judah and Tamar|Judah and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 38
+book/chapter: "[[Gen.38|Genesis 38]]"
+chronological_order: 80
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic SODOMITES|SODOMITES]]"
+- "[[topic TAMAR|TAMAR]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H0582]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H2088]]"
+- "[[H6948]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 38:22**<big><big>[[Gen.38.1 Judah and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he returned to Judah, and said, I cannot find her; and also the men of the place said, [that] there was no harlot in this [place].
 <small><sub>**BSB:**</sub></small>
 So Hirah returned to Judah and said, “I could not find her, and furthermore, the men of that place said, ‘No shrine prostitute has been here.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּ֙שָׁב֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3063G\|יְהוּדָ֔ה]] [[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H3808\|לֹ֣א]] [[H4672\|מְצָאתִ֑י]][[H9034\|הָ]] [[H9002\|וְ]][[H1571\|גַ֨ם]] [[H0582\|אַנְשֵׁ֤י]] [[H9009\|הַ]][[H4725\|מָּקוֹם֙]] [[H0559\|אָֽמְר֔וּ]] [[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָיְתָ֥ה]] [[H9003\|בָ]][[H2088\|זֶ֖ה]] [[H6948\|קְדֵשָֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic JUDAH|JUDAH]] • [[topic SODOMITES|SODOMITES]] • [[topic TAMAR|TAMAR]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.38.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.21|<< Genesis 38:21]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.23|Genesis 38:23 >>]]</td></tr></table>
 

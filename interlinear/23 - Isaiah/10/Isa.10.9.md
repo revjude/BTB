@@ -1,8 +1,58 @@
+---
+title: Isaiah 10:9
+type: Verse
+kjv: "Is not Calno as Carchemish? is not Hamath as Arpad? is not Samaria as Damascus?"
+bsb: "“Is not Calno like Carchemish? Is not Hamath like Arpad? Is not Samaria like Damascus?"
+hebrew: "הֲלֹ֥א כְּכַרְכְּמִ֖ישׁ כַּלְנ֑וֹ אִם־ לֹ֤א כְאַרְפַּד֙ חֲמָ֔ת אִם־ לֹ֥א כְדַמֶּ֖שֶׂק שֹׁמְרֽוֹן׃"
+pericope: "[[Isa.10.5 Judgment on Assyria|Judgment on Assyria]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 10
+book/chapter: "[[Isa.10|Isaiah 10]]"
+chronological_order: 620
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic CALNEH|CALNEH]]"
+- "[[topic CARCHEMISH|CARCHEMISH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9004]]"
+- "[[H3751]]"
+- "[[H3641B]]"
+- "[[H0518I]]"
+- "[[H9014]]"
+- "[[H0774]]"
+- "[[H2574G]]"
+- "[[H1834]]"
+- "[[H8111]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 10:9**<big><big>[[Isa.10.5 Judgment on Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is] not Calno as Carchemish? [is] not Hamath as Arpad? [is] not Samaria as Damascus?
 <small><sub>**BSB:**</sub></small>
 “Is not Calno like Carchemish? Is not Hamath like Arpad? Is not Samaria like Damascus?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|לֹ֥א]] [[H9004\|כְּ]][[H3751\|כַרְכְּמִ֖ישׁ]] [[H3641B\|כַּלְנ֑וֹ]] [[H0518I\|אִם]][[H9014\|־]] [[H3808\|לֹ֤א]] [[H9004\|כְ]][[H0774\|אַרְפַּד֙]] [[H2574G\|חֲמָ֔ת]] [[H0518I\|אִם]][[H9014\|־]] [[H3808\|לֹ֥א]] [[H9004\|כְ]][[H1834\|דַמֶּ֖שֶׂק]] [[H8111\|שֹׁמְרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BOASTING|BOASTING]] • [[topic CALNEH|CALNEH]] • [[topic CARCHEMISH|CARCHEMISH]] • [[topic ISAIAH|ISAIAH]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.8|<< Isaiah 10:8]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.10|Isaiah 10:10 >>]]</td></tr></table>
 

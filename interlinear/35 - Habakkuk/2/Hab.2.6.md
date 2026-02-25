@@ -1,8 +1,68 @@
+---
+title: Habakkuk 2:6
+type: Verse
+kjv: "Shall not all these take up a parable against him, and a taunting proverb against him, and say, Woe to him that increaseth that which is not his! how long? and to him that ladeth himself with thick clay!"
+bsb: "Will not all of these take up a taunt against him, speaking with mockery and derision: ‘Woe to him who amasses what is not his and makes himself rich with many loans! How long will this go on?’"
+hebrew: "הֲלוֹא־ אֵ֣לֶּה כֻלָּ֗ם עָלָיו֙ מָשָׁ֣ל יִשָּׂ֔אוּ וּמְלִיצָ֖ה חִיד֣וֹת ל֑וֹ וְיֹאמַ֗ר ה֚וֹי הַמַּרְבֶּ֣ה לֹּא־ ל֔וֹ עַד־ מָתַ֕י וּמַכְבִּ֥יד עָלָ֖יו עַבְטִֽיט׃"
+pericope: "[[Hab.2.6 Woe to the Chaldeans|Woe to the Chaldeans]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 2
+book/chapter: "[[Hab.2|Habakkuk 2]]"
+chronological_order: 739
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0428]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H4912]]"
+- "[[H5375N]]"
+- "[[H9002]]"
+- "[[H4426]]"
+- "[[H2420]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H1945]]"
+- "[[H9009]]"
+- "[[H7235A]]"
+- "[[H5704]]"
+- "[[H4970]]"
+- "[[H3513H]]"
+- "[[H5671]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 2:6**<big><big>[[Hab.2.6 Woe to the Chaldeans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall not all these take up a parable against him, and a taunting proverb against him, and say, Woe to him that increaseth [that which is] not his! how long? and to him that ladeth himself with thick clay!
 <small><sub>**BSB:**</sub></small>
 Will not all of these take up a taunt against him, speaking with mockery and derision: ‘Woe to him who amasses what is not his and makes himself rich with many loans! How long will this go on?’
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|לוֹא]][[H9014\|־]] [[H0428\|אֵ֣לֶּה]] [[H3605\|כֻלָּ֗]][[H9028\|ם]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H4912\|מָשָׁ֣ל]] [[H5375N\|יִשָּׂ֔אוּ]] [[H9002\|וּ]][[H4426\|מְלִיצָ֖ה]] [[H2420\|חִיד֣וֹת]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H9002\|וְ]][[H0559\|יֹאמַ֗ר]] [[H1945\|ה֚וֹי]] [[H9009\|הַ]][[H7235A\|מַּרְבֶּ֣ה]] [[H3808\|לֹּא]][[H9014\|־]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H5704\|עַד]][[H9014\|־]] [[H4970\|מָתַ֕י]] [[H9002\|וּ]][[H3513H\|מַכְבִּ֥יד]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H5671\|עַבְטִֽיט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic OPPRESSION|OPPRESSION]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.2.5|<< Habakkuk 2:5]]</td><td align="center" style="border:none;">[[Hab.2|Habakkuk 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2.7|Habakkuk 2:7 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: Daniel 1:16
+type: Verse
+kjv: "Thus Melzar took away the portion of their meat, and the wine that they should drink; and gave them pulse."
+bsb: "So the steward continued to withhold their choice food and the wine they were to drink, and he gave them vegetables instead."
+hebrew: "וַיְהִ֣י הַמֶּלְצַ֗ר נֹשֵׂא֙ אֶת־ פַּתְבָּגָ֔ם וְיֵ֖ין מִשְׁתֵּיהֶ֑ם וְנֹתֵ֥ן לָהֶ֖ם זֵרְעֹנִֽים׃"
+pericope: "[[Dan.1.8 Daniel’s Faithfulness|Daniel’s Faithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 1
+book/chapter: "[[Dan.1|Daniel 1]]"
+chronological_order: 786
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ABED-NEGO|ABED-NEGO]]"
+- "[[topic ABSTEMIOUSNESS|ABSTEMIOUSNESS]]"
+- "[[topic APPETITE|APPETITE]]"
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic MELZAR|MELZAR]]"
+- "[[topic MISHAEL|MISHAEL]]"
+- "[[topic PULSE|PULSE]]"
+- "[[topic SCHOOL|SCHOOL]]"
+- "[[topic TEMPERANCE|TEMPERANCE]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H4453]]"
+- "[[H5375G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6598]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H3196]]"
+- "[[H4960]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H2235B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 1:16**<big><big>[[Dan.1.8 Daniel’s Faithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus Melzar took away the portion of their meat, and the wine that they should drink; and gave them pulse.
 <small><sub>**BSB:**</sub></small>
 So the steward continued to withhold their choice food and the wine they were to drink, and he gave them vegetables instead.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H9009\|הַ]][[H4453\|מֶּלְצַ֗ר]] [[H5375G\|נֹשֵׂא֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6598\|פַּתְבָּגָ֔]][[H9028\|ם]] [[H9002\|וְ]][[H3196\|יֵ֖ין]] [[H4960\|מִשְׁתֵּי]][[H9028\|הֶ֑ם]] [[H9002\|וְ]][[H5414G\|נֹתֵ֥ן]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H2235B\|זֵרְעֹנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABED-NEGO|ABED-NEGO]] • [[topic ABSTEMIOUSNESS|ABSTEMIOUSNESS]] • [[topic APPETITE|APPETITE]] • [[topic DANIEL|DANIEL]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INTEGRITY|INTEGRITY]] • [[topic MELZAR|MELZAR]] • [[topic MISHAEL|MISHAEL]] • [[topic PULSE|PULSE]] • [[topic SCHOOL|SCHOOL]] • [[topic TEMPERANCE|TEMPERANCE]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.1.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.1.15|<< Daniel 1:15]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.17|Daniel 1:17 >>]]</td></tr></table>
 

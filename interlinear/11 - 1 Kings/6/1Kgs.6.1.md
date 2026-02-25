@@ -1,8 +1,74 @@
+---
+title: 1 Kings 6:1
+type: Verse
+kjv: "And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month Zif, which is the second month, that he began to build the house of the LORD."
+bsb: "In the four hundred and eightieth year after the Israelites had come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month of Ziv, the second month, he began to build the house of the LORD."
+hebrew: "וַיְהִ֣י בִשְׁמוֹנִ֣ים שָׁנָ֣ה וְאַרְבַּ֣ע מֵא֣וֹת שָׁנָ֡ה לְצֵ֣את בְּנֵֽי־ יִשְׂרָאֵ֣ל מֵאֶֽרֶץ־ מִצְרַיִם֩ בַּשָּׁנָ֨ה הָרְבִיעִ֜ית בְּחֹ֣דֶשׁ זִ֗ו ה֚וּא הַחֹ֣דֶשׁ הַשֵּׁנִ֔י לִמְלֹ֥ךְ שְׁלֹמֹ֖ה עַל־ יִשְׂרָאֵ֑ל וַיִּ֥בֶן הַבַּ֖יִת לַיהוָֽה׃"
+pericope: "[[1Kgs.6.1 Temple Construction Begins|Temple Construction Begins]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 6
+book/chapter: "[[1Kgs.6|1 Kings 6]]"
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic MONTH|MONTH]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TIME|TIME]]"
+- "[[topic ZIF|ZIF]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H8084]]"
+- "[[H8141]]"
+- "[[H9002]]"
+- "[[H0702]]"
+- "[[H3967]]"
+- "[[H9005]]"
+- "[[H3318G]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9009]]"
+- "[[H7243]]"
+- "[[H2320G]]"
+- "[[H2099]]"
+- "[[H1931]]"
+- "[[H8145]]"
+- "[[H4427A]]"
+- "[[H8010]]"
+- "[[H5921A]]"
+- "[[H1129]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 6:1**<big><big>[[1Kgs.6.1 Temple Construction Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month Zif, which [is] the second month, that he began to build the house of the LORD.
 <small><sub>**BSB:**</sub></small>
 In the four hundred and eightieth year after the Israelites had come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month of Ziv, the second month, he began to build the house of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H9003\|בִ]][[H8084\|שְׁמוֹנִ֣ים]] [[H8141\|שָׁנָ֣ה]] [[H9002\|וְ]][[H0702\|אַרְבַּ֣ע]] [[H3967\|מֵא֣וֹת]] [[H8141\|שָׁנָ֡ה]] [[H9005\|לְ]][[H3318G\|צֵ֣את]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֣ל]] [[H9006\|מֵ]][[H0776G\|אֶֽרֶץ]][[H9014\|־]] [[H4714G\|מִצְרַיִם֩]] [[H9003\|בַּ]][[H8141\|שָּׁנָ֨ה]] [[H9009\|הָ]][[H7243\|רְבִיעִ֜ית]] [[H9003\|בְּ]][[H2320G\|חֹ֣דֶשׁ]] [[H2099\|זִ֗ו]] [[H1931\|ה֚וּא]] [[H9009\|הַ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֔י]] [[H9005\|לִ]][[H4427A\|מְלֹ֥ךְ]] [[H8010\|שְׁלֹמֹ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H1129\|יִּ֥בֶן]] [[H9009\|הַ]][[H1004Q\|בַּ֖יִת]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MONTH|MONTH]] • [[topic TEMPLE|TEMPLE]] • [[topic TIME|TIME]] • [[topic ZIF|ZIF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.5.18|<< 1 Kings 5:18]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.2|1 Kings 6:2 >>]]</td></tr></table>
 

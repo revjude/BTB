@@ -1,8 +1,73 @@
+---
+title: Jeremiah 32:7
+type: Verse
+kjv: "Behold, Hanameel the son of Shallum thine uncle shall come unto thee, saying, Buy thee my field that is in Anathoth: for the right of redemption is thine to buy it."
+bsb: "Behold! Hanamel, the son of your uncle Shallum, is coming to you to say, ‘Buy for yourself my field in Anathoth, for you have the right of redemption to buy it.’"
+hebrew: "הִנֵּ֣ה חֲנַמְאֵ֗ל בֶּן־ שַׁלֻּם֙ דֹּֽדְךָ֔ בָּ֥א אֵלֶ֖יךָ לֵאמֹ֑ר קְנֵ֣ה לְךָ֗ אֶת־ שָׂדִי֙ אֲשֶׁ֣ר בַּעֲנָת֔וֹת כִּ֥י לְךָ֛ מִשְׁפַּ֥ט הַגְּאֻלָּ֖ה לִקְנֽוֹת׃"
+pericope: "[[Jer.32.1 Jeremiah Buys Hanamel’s Field|Jeremiah Buys Hanamel’s Field]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 32
+book/chapter: "[[Jer.32|Jeremiah 32]]"
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ANATHOTH|ANATHOTH]]"
+- "[[topic HANAMEL|HANAMEL]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic LAND|LAND]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic SHALLUM|SHALLUM]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H2009]]"
+- "[[H2601]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H7967R]]"
+- "[[H1730I]]"
+- "[[H9021]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H7069]]"
+- "[[H0853]]"
+- "[[H7704G]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H6068G]]"
+- "[[H3588A]]"
+- "[[H4941H]]"
+- "[[H9009]]"
+- "[[H1353]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 32:7**<big><big>[[Jer.32.1 Jeremiah Buys Hanamel’s Field|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, Hanameel the son of Shallum thine uncle shall come unto thee, saying, Buy thee my field that [is] in Anathoth: for the right of redemption [is] thine to buy [it].
 <small><sub>**BSB:**</sub></small>
 Behold! Hanamel, the son of your uncle Shallum, is coming to you to say, ‘Buy for yourself my field in Anathoth, for you have the right of redemption to buy it.’
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֣ה]] [[H2601\|חֲנַמְאֵ֗ל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7967R\|שַׁלֻּם֙]] [[H1730I\|דֹּֽדְ]][[H9021\|ךָ֔]] [[H0935G\|בָּ֥א]] [[H0413\|אֵלֶ֖י]][[H9031\|ךָ]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H7069\|קְנֵ֣ה]] [[H9005\|לְ]][[H9031\|ךָ֗]] [[H0853\|אֶת]][[H9014\|־]] [[H7704G\|שָׂדִ]][[H9020\|י֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בַּ]][[H6068G\|עֲנָת֔וֹת]] [[H3588A\|כִּ֥י]] [[H9005\|לְ]][[H9031\|ךָ֛]] [[H4941H\|מִשְׁפַּ֥ט]] [[H9009\|הַ]][[H1353\|גְּאֻלָּ֖ה]] [[H9005\|לִ]][[H7069\|קְנֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANATHOTH|ANATHOTH]] • [[topic HANAMEL|HANAMEL]] • [[topic INHERITANCE|INHERITANCE]] • [[topic JEREMIAH|JEREMIAH]] • [[topic LAND|LAND]] • [[topic PROPERTY|PROPERTY]] • [[topic SHALLUM|SHALLUM]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.6|<< Jeremiah 32:6]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.8|Jeremiah 32:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

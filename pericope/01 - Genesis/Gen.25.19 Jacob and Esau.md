@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jacob and Esau
+type: Pericope
 pericope: "[[Gen.25.19 Jacob and Esau|Jacob and Esau]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 25
 book/chapter: "[[Gen.25|Genesis 25]]"
-genre:
+chronological_order: 67
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 10
 verses:
 - "[[Gen.25.19]]"
 - "[[Gen.25.20]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Gen.25.28]]"
 ---
 
-[[Gen.25|Genesis 25:19 - Genesis 25:28]]
+<small>[[Gen.25|Genesis 25:19-28]]</small>
 *Jacob and Esau*
 
 [[Gen.25.19|19]] And these \[are\] the generations of Isaac, Abraham’s son: Abraham begat Isaac:

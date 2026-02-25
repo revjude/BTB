@@ -1,8 +1,63 @@
+---
+title: Deuteronomy 21:12
+type: Verse
+kjv: "Then thou shalt bring her home to thine house; and she shall shave her head, and pare her nails;"
+bsb: "then you shall bring her into your house. She must shave her head, trim her nails,"
+hebrew: "וַהֲבֵאתָ֖הּ אֶל־ תּ֣וֹךְ בֵּיתֶ֑ךָ וְגִלְּחָה֙ אֶת־ רֹאשָׁ֔הּ וְעָשְׂתָ֖ה אֶת־ צִפָּרְנֶֽיהָ׃"
+pericope: "[[Deut.21.10 Marrying a Captive Woman|Marrying a Captive Woman]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 21
+book/chapter: "[[Deut.21|Deuteronomy 21]]"
+chronological_order: 217
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CONCUBINAGE|CONCUBINAGE]]"
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H9034]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8432]]"
+- "[[H1004B]]"
+- "[[H9021]]"
+- "[[H1548]]"
+- "[[H0853]]"
+- "[[H7218A]]"
+- "[[H9024]]"
+- "[[H6213A]]"
+- "[[H6856]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 21:12**<big><big>[[Deut.21.10 Marrying a Captive Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then thou shalt bring her home to thine house; and she shall shave her head, and pare her nails;
 <small><sub>**BSB:**</sub></small>
 then you shall bring her into your house. She must shave her head, trim her nails,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935P\|הֲבֵאתָ֖]][[H9034\|הּ]] [[H0413\|אֶל]][[H9014\|־]] [[H8432\|תּ֣וֹךְ]] [[H1004B\|בֵּיתֶ֑]][[H9021\|ךָ]] [[H9001\|וְ]][[H1548\|גִלְּחָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H7218A\|רֹאשָׁ֔]][[H9024\|הּ]] [[H9001\|וְ]][[H6213A\|עָשְׂתָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H6856\|צִפָּרְנֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONCUBINAGE|CONCUBINAGE]] • [[topic DIVORCE|DIVORCE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.21.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.11|<< Deuteronomy 21:11]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.13|Deuteronomy 21:13 >>]]</td></tr></table>
 

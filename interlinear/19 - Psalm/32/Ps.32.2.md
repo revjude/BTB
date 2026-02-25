@@ -1,8 +1,65 @@
+---
+title: Psalm 32:2
+type: Verse
+kjv: "Blessed is the man unto whom the LORD imputeth not iniquity, and in whose spirit there is no guile."
+bsb: "Blessed is the man whose iniquity the LORD does not count against him, in whose spirit there is no deceit."
+hebrew: "אַ֥שְֽׁרֵי אָדָ֗ם לֹ֤א יַחְשֹׁ֬ב יְהוָ֣ה ל֣וֹ עָוֹ֑ן וְאֵ֖ין בְּרוּח֣וֹ רְמִיָּה׃"
+pericope: "[[Ps.32.1 The Joy of Forgiveness|The Joy of Forgiveness]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 32
+book/chapter: "[[Ps.32|Psalm 32]]"
+chronological_order: 422
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DECEIT|DECEIT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JOY|JOY]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SINCERITY|SINCERITY]]"
+strongs:
+- "[[H0835]]"
+- "[[H0120G]]"
+- "[[H3808]]"
+- "[[H2803H]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5771G]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H9003]]"
+- "[[H7307G]]"
+- "[[H9023]]"
+- "[[H7423A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 32:2**<big><big>[[Ps.32.1 The Joy of Forgiveness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [is] the man unto whom the LORD imputeth not iniquity, and in whose spirit [there is] no guile.
 <small><sub>**BSB:**</sub></small>
 Blessed is the man whose iniquity the LORD does not count against him, in whose spirit there is no deceit.
+<small><sub>**Hebrew:**</sub></small>
+[[H0835\|אַ֥שְֽׁרֵי]] [[H0120G\|אָדָ֗ם]] [[H3808\|לֹ֤א]] [[H2803H\|יַחְשֹׁ֬ב]] [[H3068G\|יְהוָ֣ה]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H5771G\|עָוֹ֑ן]] [[H9002\|וְ]][[H0369\|אֵ֖ין]] [[H9003\|בְּ]][[H7307G\|רוּח֣]][[H9023\|וֹ]] [[H7423A\|רְמִיָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEIT|DECEIT]] • [[topic GOD|GOD]] • [[topic HOLINESS|HOLINESS]] • [[topic JOY|JOY]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SIN|SIN]] • [[topic SINCERITY|SINCERITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.32.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.32.1|<< Psalms 32:1]]</td><td align="center" style="border:none;">[[Ps.32|Psalms 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.32.3|Psalms 32:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

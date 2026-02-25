@@ -1,8 +1,65 @@
+---
+title: Numbers 20:3
+type: Verse
+kjv: "And the people chode with Moses, and spake, saying, Would God that we had died when our brethren died before the LORD!"
+bsb: "The people quarreled with Moses and said, “If only we had perished with our brothers before the LORD!"
+hebrew: "וַיָּ֥רֶב הָעָ֖ם עִם־ מֹשֶׁ֑ה וַיֹּאמְר֣וּ לֵאמֹ֔ר וְל֥וּ גָוַ֛עְנוּ בִּגְוַ֥ע אַחֵ֖ינוּ לִפְנֵ֥י יְהוָֽה׃"
+pericope: "[[Num.20.1 Water from the Rock|Water from the Rock]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 20
+book/chapter: "[[Num.20|Numbers 20]]"
+chronological_order: 180
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7378]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9002]]"
+- "[[H3863]]"
+- "[[H1478]]"
+- "[[H9003]]"
+- "[[H0251I]]"
+- "[[H9025]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 20:3**<big><big>[[Num.20.1 Water from the Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people chode with Moses, and spake, saying, Would God that we had died when our brethren died before the LORD!
 <small><sub>**BSB:**</sub></small>
 The people quarreled with Moses and said, “If only we had perished with our brothers before the LORD!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7378\|יָּ֥רֶב]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H5973A\|עִם]][[H9014\|־]] [[H4872\|מֹשֶׁ֑ה]] [[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H9002\|וְ]][[H3863\|ל֥וּ]] [[H1478\|גָוַ֛עְנוּ]] [[H9003\|בִּ]][[H1478\|גְוַ֥ע]] [[H0251I\|אַחֵ֖י]][[H9025\|נוּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic MURMURING|MURMURING]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.20.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20.2|<< Numbers 20:2]]</td><td align="center" style="border:none;">[[Num.20|Numbers 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20.4|Numbers 20:4 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Zephaniah 3:19
+type: Verse
+kjv: "Behold, at that time I will undo all that afflict thee: and I will save her that halteth, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame."
+bsb: "Behold, at that time, I will deal with all who afflict you. I will save the lame and gather the scattered; and I will appoint praise and fame for the disgraced throughout the earth."
+hebrew: "הִנְנִ֥י עֹשֶׂ֛ה אֶת־ כָּל־ מְעַנַּ֖יִךְ בָּעֵ֣ת הַהִ֑יא וְהוֹשַׁעְתִּ֣י אֶת־ הַצֹּלֵעָ֗ה וְהַנִּדָּחָה֙ אֲקַבֵּ֔ץ וְשַׂמְתִּים֙ לִתְהִלָּ֣ה וּלְשֵׁ֔ם בְּכָל־ הָאָ֖רֶץ בָּשְׁתָּֽם׃"
+pericope: "[[Zeph.3.14 Israel’s Restoration|Israel’s Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Zephaniah
+chapter: 3
+book/chapter: "[[Zeph.3|Zephaniah 3]]"
+chronological_order: 717
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H6031B]]"
+- "[[H9032]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H9001]]"
+- "[[H3467]]"
+- "[[H6760]]"
+- "[[H9002]]"
+- "[[H5080]]"
+- "[[H6908]]"
+- "[[H7760A]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H8416]]"
+- "[[H8034]]"
+- "[[H0776G]]"
+- "[[H1322]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zephaniah 3:19**<big><big>[[Zeph.3.14 Israel’s Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, at that time I will undo all that afflict thee: and I will save her that halteth, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame.
 <small><sub>**BSB:**</sub></small>
 Behold, at that time, I will deal with all who afflict you. I will save the lame and gather the scattered; and I will appoint praise and fame for the disgraced throughout the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנְ]][[H9040\|נִ֥י]] [[H6213A\|עֹשֶׂ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H6031B\|מְעַנַּ֖יִ]][[H9032\|ךְ]] [[H9003\|בָּ]][[H6256\|עֵ֣ת]] [[H9009\|הַ]][[H1931\|הִ֑יא]] [[H9001\|וְ]][[H3467\|הוֹשַׁעְתִּ֣י]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6760\|צֹּלֵעָ֗ה]] [[H9002\|וְ]][[H9009\|הַ]][[H5080\|נִּדָּחָה֙]] [[H6908\|אֲקַבֵּ֔ץ]] [[H9001\|וְ]][[H7760A\|שַׂמְתִּי]][[H9038\|ם֙]] [[H9005\|לִ]][[H8416\|תְהִלָּ֣ה]] [[H9002\|וּ]][[H9005\|לְ]][[H8034\|שֵׁ֔ם]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H1322\|בָּשְׁתָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.3.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.18|<< Zephaniah 3:18]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.20|Zephaniah 3:20 >>]]</td></tr></table>
 

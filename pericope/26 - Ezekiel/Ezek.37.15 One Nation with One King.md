@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: One Nation with One King
+type: Pericope
 pericope: "[[Ezek.37.15 One Nation with One King|One Nation with One King]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 37
 book/chapter: "[[Ezek.37|Ezekiel 37]]"
-genre:
+chronological_order: 828
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 14
 verses:
 - "[[Ezek.37.15]]"
 - "[[Ezek.37.16]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Ezek.37.28]]"
 ---
 
-[[Ezek.37|Ezekiel 37:15 - Ezekiel 37:28]]
+<small>[[Ezek.37|Ezekiel 37:15-28]]</small>
 *One Nation with One King*
 
 [[Ezek.37.15|15]] The word of the LORD came again unto me, saying,

@@ -1,8 +1,77 @@
+---
+title: Deuteronomy 8:15
+type: Verse
+kjv: "Who led thee through that great and terrible wilderness, wherein were fiery serpents, and scorpions, and drought, where there was no water; who brought thee forth water out of the rock of flint;"
+bsb: "He led you through the vast and terrifying wilderness with its venomous snakes and scorpions, a thirsty and waterless land. He brought you water from the rock of flint."
+hebrew: "הַמּוֹלִ֨יכֲךָ֜ בַּמִּדְבָּ֣ר׀ הַגָּדֹ֣ל וְהַנּוֹרָ֗א נָחָ֤שׁ׀ שָׂרָף֙ וְעַקְרָ֔ב וְצִמָּא֖וֹן אֲשֶׁ֣ר אֵֽין־ מָ֑יִם הַמּוֹצִ֤יא לְךָ֙ מַ֔יִם מִצּ֖וּר הַֽחַלָּמִֽישׁ׃"
+pericope: "[[Deut.8.1 Remember the LORD Your God|Remember the LORD Your God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 8
+book/chapter: "[[Deut.8|Deuteronomy 8]]"
+chronological_order: 204
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DESERT|DESERT]]"
+- "[[topic FLINT|FLINT]]"
+- "[[topic PROSPERITY|PROSPERITY]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic ROCK|ROCK]]"
+- "[[topic SCORPION|SCORPION]]"
+- "[[topic SERPENT|SERPENT]]"
+strongs:
+- "[[H9009]]"
+- "[[H1980J]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H9015]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H3372G]]"
+- "[[H5175]]"
+- "[[H8314A]]"
+- "[[H6137]]"
+- "[[H6774]]"
+- "[[H0834A]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H3318L]]"
+- "[[H9005]]"
+- "[[H9006]]"
+- "[[H6697H]]"
+- "[[H2496]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 8:15**<big><big>[[Deut.8.1 Remember the LORD Your God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who led thee through that great and terrible wilderness, [wherein were] fiery serpents, and scorpions, and drought, where [there was] no water; who brought thee forth water out of the rock of flint;
 <small><sub>**BSB:**</sub></small>
 He led you through the vast and terrifying wilderness with its venomous snakes and scorpions, a thirsty and waterless land. He brought you water from the rock of flint.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H1980J\|מּוֹלִ֨יכֲ]][[H9031\|ךָ֜]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֣ר]][[H9015\|׀]] [[H9009\|הַ]][[H1419A\|גָּדֹ֣ל]] [[H9002\|וְ]][[H9009\|הַ]][[H3372G\|נּוֹרָ֗א]] [[H5175\|נָחָ֤שׁ]][[H9015\|׀]] [[H8314A\|שָׂרָף֙]] [[H9002\|וְ]][[H6137\|עַקְרָ֔ב]] [[H9002\|וְ]][[H6774\|צִמָּא֖וֹן]] [[H0834A\|אֲשֶׁ֣ר]] [[H0369\|אֵֽין]][[H9014\|־]] [[H4325G\|מָ֑יִם]] [[H9009\|הַ]][[H3318L\|מּוֹצִ֤יא]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H4325G\|מַ֔יִם]] [[H9006\|מִ]][[H6697H\|צּ֖וּר]] [[H9009\|הַֽ]][[H2496\|חַלָּמִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANIMALS|ANIMALS]] • [[topic BLESSING|BLESSING]] • [[topic DESERT|DESERT]] • [[topic FLINT|FLINT]] • [[topic PROSPERITY|PROSPERITY]] • [[topic RICHES|RICHES]] • [[topic ROCK|ROCK]] • [[topic SCORPION|SCORPION]] • [[topic SERPENT|SERPENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.8.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.14|<< Deuteronomy 8:14]]</td><td align="center" style="border:none;">[[Deut.8|Deuteronomy 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.8.16|Deuteronomy 8:16 >>]]</td></tr></table>
 

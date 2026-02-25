@@ -1,10 +1,69 @@
+---
+title: Acts 19:16
+type: Verse
+kjv: "And the man in whom the evil spirit was leaped on them, and overcame them, and prevailed against them, so that they fled out of that house naked and wounded."
+bsb: "Then the man with the evil spirit jumped on them and overpowered them all. The attack was so violent that they ran out of the house naked and wounded."
+greek: "καὶ ἐφαλόμενος ὁ ἄνθρωπος ἐπ᾽ αὐτούς, ἐν ᾧ ἦν τὸ πνεῦμα τὸ πονηρόν, καὶ κατακυριεύσας ἀμφοτέρων ἴσχυσεν κατ᾽ αὐτῶν, ὥστε γυμνοὺς καὶ τετραυματισμένους ἐκφυγεῖν ἐκ τοῦ οἴκου ἐκείνου."
+pericope: "[[Acts.19.13 Seven Sons of Sceva|Seven Sons of Sceva]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SCEVA|SCEVA]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2177]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G4151G]]"
+- "[[G4190]]"
+- "[[G2634]]"
+- "[[G0297]]"
+- "[[G2480]]"
+- "[[G2596]]"
+- "[[G5620]]"
+- "[[G1131]]"
+- "[[G5135]]"
+- "[[G1628]]"
+- "[[G1537]]"
+- "[[G3624G]]"
+- "[[G1565]]"
+texts:
+- NKO
+- N(k)O
+- k
+- NK(o)
+---
+
 **Acts 19:16**<big><big>[[Acts.19.13 Seven Sons of Sceva|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the man in whom the evil spirit was leaped on them, and overcame them, and prevailed against them, so that they fled out of that house naked and wounded.
 <small><sub>**BSB:**</sub></small>
 Then the man with the evil spirit jumped on them and overpowered them all. The attack was so violent that they ran out of the house naked and wounded.
-<small><sub>**Literal:**</sub></small>
-And having leapt the man upon them in whom was the spirit <the> evil, and having overpowered them all he prevailed against them so that naked and wounded fleeing out of the house that.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.15|<< Acts 19:15]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.17|Acts 19:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2177\|ἐφαλόμενος]]  [[G3588\|ὁ]]  [[G0444\|ἄνθρωπος]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτούς,]]  [[G1722\|ἐν]]  [[G3739\|ᾧ]]  [[G1510\|ἦν]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τὸ]]  [[G4190\|πονηρόν,]]  [[G2532\|καὶ]]  [[G2634\|κατακυριεύσας]]  [[G0297\|ἀμφοτέρων]]  [[G2480\|ἴσχυσεν]]  [[G2596\|κατ᾽]]  [[G0846\|αὐτῶν,]]  [[G5620\|ὥστε]]  [[G1131\|γυμνοὺς]]  [[G2532\|καὶ]]  [[G5135\|τετραυματισμένους]]  [[G1628\|ἐκφυγεῖν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3624G\|οἴκου]]  [[G1565\|ἐκείνου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic EPHESUS|EPHESUS]] • [[topic MIRACLES|MIRACLES]] • [[topic PAUL|PAUL]] • [[topic SCEVA|SCEVA]] • [[topic SUPERSTITION|SUPERSTITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.15|<< Acts 19:15]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.17|Acts 19:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

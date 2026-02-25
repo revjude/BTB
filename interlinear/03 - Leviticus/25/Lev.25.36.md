@@ -1,8 +1,73 @@
+---
+title: Leviticus 25:36
+type: Verse
+kjv: "Take thou no usury of him, or increase: but fear thy God; that thy brother may live with thee."
+bsb: "Do not take any interest or profit from him, but fear your God, that your countryman may live among you."
+hebrew: "אַל־ תִּקַּ֤ח מֵֽאִתּוֹ֙ נֶ֣שֶׁךְ וְתַרְבִּ֔ית וְיָרֵ֖אתָ מֵֽאֱלֹהֶ֑יךָ וְחֵ֥י אָחִ֖יךָ עִמָּֽךְ׃"
+pericope: "[[Lev.25.35 Redemption of the Poor|Redemption of the Poor]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic INTEREST|INTEREST]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic POOR|POOR]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STRANGERS|STRANGERS]]"
+- "[[topic USURY|USURY]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3947G]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H5392]]"
+- "[[H9002]]"
+- "[[H8636]]"
+- "[[H9001]]"
+- "[[H3372H]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H2421]]"
+- "[[H0251I]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:36**<big><big>[[Lev.25.35 Redemption of the Poor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take thou no usury of him, or increase: but fear thy God; that thy brother may live with thee.
 <small><sub>**BSB:**</sub></small>
 Do not take any interest or profit from him, but fear your God, that your countryman may live among you.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H3947G\|תִּקַּ֤ח]] [[H9006\|מֵֽ]][[H0854\|אִתּ]][[H9033\|וֹ֙]] [[H5392\|נֶ֣שֶׁךְ]] [[H9002\|וְ]][[H8636\|תַרְבִּ֔ית]] [[H9001\|וְ]][[H3372H\|יָרֵ֖אתָ]] [[H9006\|מֵֽ]][[H0430G\|אֱלֹהֶ֑י]][[H9021\|ךָ]] [[H9001\|וְ]][[H2421\|חֵ֥י]] [[H0251I\|אָחִ֖י]][[H9021\|ךָ]] [[H5973A\|עִמָּֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic CREDITOR|CREDITOR]] • [[topic DEBTOR|DEBTOR]] • [[topic INTEREST|INTEREST]] • [[topic JUBILEE|JUBILEE]] • [[topic LENDING|LENDING]] • [[topic POOR|POOR]] • [[topic REVERENCE|REVERENCE]] • [[topic SERVANT|SERVANT]] • [[topic STRANGERS|STRANGERS]] • [[topic USURY|USURY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.35|<< Leviticus 25:35]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.37|Leviticus 25:37 >>]]</td></tr></table>
 

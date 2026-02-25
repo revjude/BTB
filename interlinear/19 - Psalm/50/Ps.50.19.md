@@ -1,8 +1,54 @@
+---
+title: Psalm 50:19
+type: Verse
+kjv: "Thou givest thy mouth to evil, and thy tongue frameth deceit."
+bsb: "You unleash your mouth for evil and harness your tongue to deceit."
+hebrew: "פִּ֭יךָ שָׁלַ֣חְתָּ בְרָעָ֑ה וּ֝לְשׁוֹנְךָ֗ תַּצְמִ֥יד מִרְמָֽה׃"
+pericope: "[[Ps.50.1 The Mighty One Calls|The Mighty One Calls]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 50
+book/chapter: "[[Ps.50|Psalm 50]]"
+chronological_order: 505
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H6310G]]"
+- "[[H9021]]"
+- "[[H7971H]]"
+- "[[H9003]]"
+- "[[H7451I]]"
+- "[[H9002]]"
+- "[[H3956G]]"
+- "[[H6775]]"
+- "[[H4820]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 50:19**<big><big>[[Ps.50.1 The Mighty One Calls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou givest thy mouth to evil, and thy tongue frameth deceit.
 <small><sub>**BSB:**</sub></small>
 You unleash your mouth for evil and harness your tongue to deceit.
+<small><sub>**Hebrew:**</sub></small>
+[[H6310G\|פִּ֭י]][[H9021\|ךָ]] [[H7971H\|שָׁלַ֣חְתָּ]] [[H9003\|בְ]][[H7451I\|רָעָ֑ה]] [[H9002\|וּ֝]][[H3956G\|לְשׁוֹנְ]][[H9021\|ךָ֗]] [[H6775\|תַּצְמִ֥יד]] [[H4820\|מִרְמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.50.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50.18|<< Psalms 50:18]]</td><td align="center" style="border:none;">[[Ps.50|Psalms 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50.20|Psalms 50:20 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: 1 Chronicles 15:25
+type: Verse
+kjv: "So David, and the elders of Israel, and the captains over thousands, went to bring up the ark of the covenant of the LORD out of the house of Obededom with joy."
+bsb: "So David, the elders of Israel, and the commanders of thousands went with rejoicing to bring the ark of the covenant of the LORD from the house of Obed-edom."
+hebrew: "וַיְהִ֥י דָוִ֛יד וְזִקְנֵ֥י יִשְׂרָאֵ֖ל וְשָׂרֵ֣י הָאֲלָפִ֑ים הַהֹֽלְכִ֗ים לְֽהַעֲל֞וֹת אֶת־ אֲר֧וֹן בְּרִית־ יְהוָ֛ה מִן־ בֵּ֥ית עֹבֵֽד־ אֱדֹ֖ם בְּשִׂמְחָֽה׃ ס"
+pericope: "[[1Chr.15.25 Moving the Ark to Jerusalem|Moving the Ark to Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 15
+book/chapter: "[[1Chr.15|1 Chronicles 15]]"
+chronological_order: 396
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOY|JOY]]"
+- "[[topic OBED-EDOM|OBED-EDOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H2205G]]"
+- "[[H3478]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H0505G]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H5927H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0727]]"
+- "[[H1285]]"
+- "[[H3068G]]"
+- "[[H4480A]]"
+- "[[H1004B]]"
+- "[[H5654]]"
+- "[[H9003]]"
+- "[[H8057]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Chronicles 15:25**<big><big>[[1Chr.15.25 Moving the Ark to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So David, and the elders of Israel, and the captains over thousands, went to bring up the ark of the covenant of the LORD out of the house of Obededom with joy.
 <small><sub>**BSB:**</sub></small>
 So David, the elders of Israel, and the commanders of thousands went with rejoicing to bring the ark of the covenant of the LORD from the house of Obed-edom.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֥י]] [[H1732\|דָוִ֛יד]] [[H9002\|וְ]][[H2205G\|זִקְנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9002\|וְ]][[H8269\|שָׂרֵ֣י]] [[H9009\|הָ]][[H0505G\|אֲלָפִ֑ים]] [[H9009\|הַ]][[H1980G\|הֹֽלְכִ֗ים]] [[H9005\|לְֽ]][[H5927H\|הַעֲל֞וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲר֧וֹן]] [[H1285\|בְּרִית]][[H9014\|־]] [[H3068G\|יְהוָ֛ה]] [[H4480A\|מִן]][[H9014\|־]] [[H1004B\|בֵּ֥ית]] [[H5654\|עֹבֵֽד]][[H9014\|־]] [[H5654\|אֱדֹ֖ם]] [[H9003\|בְּ]][[H8057\|שִׂמְחָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOY|JOY]] • [[topic OBED-EDOM|OBED-EDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.15.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.24|<< 1 Chronicles 15:24]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.26|1 Chronicles 15:26 >>]]</td></tr></table>
 
@@ -24,7 +83,7 @@ So David, the elders of Israel, and the commanders of thousands went with rejoic
 | [the] house of  |**<big>&#8207;[[H1004B\|בֵּ֥ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Obed-  |**<big>&#8207;[[H5654\|עֹבֵֽד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'oed-<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Edom  |**<big>&#8207;[[H5654\|אֱדֹ֖ם]]&#8207; </big>**| 'e.Dom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with joy  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8057\|שִׂמְחָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> sim.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with joy  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8057\|שִׂמְחָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> sim.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.24|<< 1 Chronicles 15:24]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.26|1 Chronicles 15:26 >>]]</td></tr></table>
 
 

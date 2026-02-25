@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God Instructs Joshua
+type: Pericope
 pericope: "[[Josh.1.1 God Instructs Joshua|God Instructs Joshua]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 1
 book/chapter: "[[Josh.1|Joshua 1]]"
-genre:
+chronological_order: 231
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 9
 verses:
 - "[[Josh.1.1]]"
 - "[[Josh.1.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Josh.1.9]]"
 ---
 
-[[Josh.1|Joshua 1:1 - Joshua 1:9]]
+<small>[[Josh.1|Joshua 1:1-9]]</small>
 *God Instructs Joshua*
 
 [[Josh.1.1|1]] Now after the death of Moses the servant of the LORD it came to pass, that the LORD spake unto Joshua the son of Nun, Moses’ minister, saying,

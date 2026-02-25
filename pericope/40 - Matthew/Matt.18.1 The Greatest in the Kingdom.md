@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Greatest in the Kingdom
+type: Pericope
 pericope: "[[Matt.18.1 The Greatest in the Kingdom|The Greatest in the Kingdom]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 18
 book/chapter: "[[Matt.18|Matthew 18]]"
-genre:
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Matt.18.1]]"
 - "[[Matt.18.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Matt.18.5]]"
 ---
 
-[[Matt.18|Matthew 18:1 - Matthew 18:5]]
+<small>[[Matt.18|Matthew 18:1-5]]</small>
 *The Greatest in the Kingdom*
 
 [[Matt.18.1|1]] At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven?

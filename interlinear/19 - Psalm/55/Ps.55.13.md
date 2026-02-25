@@ -1,8 +1,56 @@
+---
+title: Psalm 55:13
+type: Verse
+kjv: "But it was thou, a man mine equal, my guide, and mine acquaintance."
+bsb: "But it is you, a man like myself, my companion and close friend."
+hebrew: "וְאַתָּ֣ה אֱנ֣וֹשׁ כְּעֶרְכִּ֑י אַ֝לּוּפִ֗י וּמְיֻדָּֽעִי׃"
+pericope: "[[Ps.55.1 Cast Your Burden upon the LORD|Cast Your Burden upon the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 55
+book/chapter: "[[Ps.55|Psalm 55]]"
+chronological_order: 370
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AHITHOPHEL|AHITHOPHEL]]"
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H0582]]"
+- "[[H9004]]"
+- "[[H6187]]"
+- "[[H9020]]"
+- "[[H0441A]]"
+- "[[H3045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 55:13**<big><big>[[Ps.55.1 Cast Your Burden upon the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But [it was] thou, a man mine equal, my guide, and mine acquaintance.
 <small><sub>**BSB:**</sub></small>
 But it is you, a man like myself, my companion and close friend.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֣ה]] [[H0582\|אֱנ֣וֹשׁ]] [[H9004\|כְּ]][[H6187\|עֶרְכִּ֑]][[H9020\|י]] [[H0441A\|אַ֝לּוּפִ֗]][[H9020\|י]] [[H9002\|וּ]][[H3045\|מְיֻדָּֽעִ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AHITHOPHEL|AHITHOPHEL]] • [[topic FRIENDS|FRIENDS]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic HYPOCRISY|HYPOCRISY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.55.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55.12|<< Psalms 55:12]]</td><td align="center" style="border:none;">[[Ps.55|Psalms 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.55.14|Psalms 55:14 >>]]</td></tr></table>
 

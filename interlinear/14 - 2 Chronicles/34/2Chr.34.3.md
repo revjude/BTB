@@ -1,8 +1,76 @@
+---
+title: 2 Chronicles 34:3
+type: Verse
+kjv: "For in the eighth year of his reign, while he was yet young, he began to seek after the God of David his father: and in the twelfth year he began to purge Judah and Jerusalem from the high places, and the groves, and the carved images, and the molten images."
+bsb: "In the eighth year of his reign, while he was still young, Josiah began to seek the God of his father David, and in the twelfth year he began to cleanse Judah and Jerusalem of the high places, the Asherah poles, the carved idols, and the cast images."
+hebrew: "וּבִשְׁמוֹנֶ֨ה שָׁנִ֜ים לְמָלְכ֗וֹ וְהוּא֙ עוֹדֶ֣נּוּ נַ֔עַר הֵחֵ֕ל לִדְר֕וֹשׁ לֵאלֹהֵ֖י דָּוִ֣יד אָבִ֑יו וּבִשְׁתֵּ֧ים עֶשְׂרֵ֣ה שָׁנָ֗ה הֵחֵל֙ לְטַהֵ֔ר אֶת־ יְהוּדָה֙ וִיר֣וּשָׁלִַ֔ם מִן־ הַבָּמוֹת֙ וְהָ֣אֲשֵׁרִ֔ים וְהַפְּסִלִ֖ים וְהַמַּסֵּכֽוֹת׃"
+pericope: "[[2Chr.34.3 Josiah Destroys Idolatry|Josiah Destroys Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 34
+book/chapter: "[[2Chr.34|2 Chronicles 34]]"
+chronological_order: 713
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic GROVES|GROVES]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H8083]]"
+- "[[H8141]]"
+- "[[H9005]]"
+- "[[H4427A]]"
+- "[[H9033]]"
+- "[[H1931]]"
+- "[[H5750]]"
+- "[[H9043]]"
+- "[[H5288]]"
+- "[[H2490C]]"
+- "[[H1875]]"
+- "[[H0430G]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H2891]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H3389]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H1116]]"
+- "[[H0842]]"
+- "[[H6456]]"
+- "[[H4541A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 34:3**<big><big>[[2Chr.34.3 Josiah Destroys Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For in the eighth year of his reign, while he was yet young, he began to seek after the God of David his father: and in the twelfth year he began to purge Judah and Jerusalem from the high places, and the groves, and the carved images, and the molten images.
 <small><sub>**BSB:**</sub></small>
 In the eighth year of his reign, while he was still young, Josiah began to seek the God of his father David, and in the twelfth year he began to cleanse Judah and Jerusalem of the high places, the Asherah poles, the carved idols, and the cast images.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בִ]][[H8083\|שְׁמוֹנֶ֨ה]] [[H8141\|שָׁנִ֜ים]] [[H9005\|לְ]][[H4427A\|מָלְכ֗]][[H9033\|וֹ]] [[H9002\|וְ]][[H1931\|הוּא֙]] [[H5750\|עוֹדֶ֣]][[H9043\|נּוּ]] [[H5288\|נַ֔עַר]] [[H2490C\|הֵחֵ֕ל]] [[H9005\|לִ]][[H1875\|דְר֕וֹשׁ]] [[H9005\|לֵ]][[H0430G\|אלֹהֵ֖י]] [[H1732\|דָּוִ֣יד]] [[H0001G\|אָבִ֑י]][[H9023\|ו]] [[H9002\|וּ]][[H9003\|בִ]][[H8147\|שְׁתֵּ֧ים]] [[H6240\|עֶשְׂרֵ֣ה]] [[H8141\|שָׁנָ֗ה]] [[H2490C\|הֵחֵל֙]] [[H9005\|לְ]][[H2891\|טַהֵ֔ר]] [[H0853\|אֶת]][[H9014\|־]] [[H3063G\|יְהוּדָה֙]] [[H9002\|וִ]][[H3389\|יר֣וּשָׁלִַ֔ם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1116\|בָּמוֹת֙]] [[H9002\|וְ]][[H9009\|הָ֣]][[H0842\|אֲשֵׁרִ֔ים]] [[H9002\|וְ]][[H9009\|הַ]][[H6456\|פְּסִלִ֖ים]] [[H9002\|וְ]][[H9009\|הַ]][[H4541A\|מַּסֵּכֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic EPHRAIM|EPHRAIM]] • [[topic GROVES|GROVES]] • [[topic JOSIAH|JOSIAH]] • [[topic SEEKERS|SEEKERS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.2|<< 2 Chronicles 34:2]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.4|2 Chronicles 34:4 >>]]</td></tr></table>
 

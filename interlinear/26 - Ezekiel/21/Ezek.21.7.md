@@ -1,8 +1,74 @@
+---
+title: Ezekiel 21:7
+type: Verse
+kjv: "And it shall be, when they say unto thee, Wherefore sighest thou? that thou shalt answer, For the tidings; because it cometh: and every heart shall melt, and all hands shall be feeble, and every spirit shall faint, and all knees shall be weak as water: behold, it cometh, and shall be brought to pass, saith the Lord GOD."
+bsb: "And when they ask, ‘Why are you groaning?’ you are to say, ‘Because of the news that is coming. Every heart will melt, and every hand will go limp. Every spirit will faint, and every knee will turn to water.’ Yes, it is coming and it will surely happen, declares the Lord GOD.”"
+hebrew: "וְהָיָה֙ כִּֽי־ יֹאמְר֣וּ אֵלֶ֔יךָ עַל־ מָ֖ה אַתָּ֣ה נֶאֱנָ֑ח וְאָמַרְתָּ֡ אֶל־ שְׁמוּעָ֣ה כִֽי־ בָאָ֡ה וְנָמֵ֣ס כָּל־ לֵב֩ וְרָפ֨וּ כָל־ יָדַ֜יִם וְכִהֲתָ֣ה כָל־ ר֗וּחַ וְכָל־ בִּרְכַּ֙יִם֙ תֵּלַ֣כְנָה מַּ֔יִם הִנֵּ֤ה בָאָה֙ וְנִֽהְיָ֔תָה נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃ פ"
+pericope: "[[Ezek.21.1 God’s Sword of Judgment|God’s Sword of Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 21
+book/chapter: "[[Ezek.21|Ezekiel 21]]"
+chronological_order: 812
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H5921A]]"
+- "[[H4100]]"
+- "[[H0859A]]"
+- "[[H0584]]"
+- "[[H8052]]"
+- "[[H0935G]]"
+- "[[H4549]]"
+- "[[H3605]]"
+- "[[H3820A]]"
+- "[[H7503]]"
+- "[[H3027G]]"
+- "[[H3543A]]"
+- "[[H7307G]]"
+- "[[H9002]]"
+- "[[H1290]]"
+- "[[H1980L]]"
+- "[[H4325G]]"
+- "[[H2009]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezekiel 21:7**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, when they say unto thee, Wherefore sighest thou? that thou shalt answer, For the tidings; because it cometh: and every heart shall melt, and all hands shall be feeble, and every spirit shall faint, and all knees shall be weak [as] water: behold, it cometh, and shall be brought to pass, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
 And when they ask, ‘Why are you groaning?’ you are to say, ‘Because of the news that is coming. Every heart will melt, and every hand will go limp. Every spirit will faint, and every knee will turn to water.’ Yes, it is coming and it will surely happen, declares the Lord GOD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָה֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0559\|יֹאמְר֣וּ]] [[H0413\|אֵלֶ֔י]][[H9031\|ךָ]] [[H5921A\|עַל]][[H9014\|־]] [[H4100\|מָ֖ה]] [[H0859A\|אַתָּ֣ה]] [[H0584\|נֶאֱנָ֑ח]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֡]] [[H0413\|אֶל]][[H9014\|־]] [[H8052\|שְׁמוּעָ֣ה]] [[H3588A\|כִֽי]][[H9014\|־]] [[H0935G\|בָאָ֡ה]] [[H9001\|וְ]][[H4549\|נָמֵ֣ס]] [[H3605\|כָּל]][[H9014\|־]] [[H3820A\|לֵב֩]] [[H9001\|וְ]][[H7503\|רָפ֨וּ]] [[H3605\|כָל]][[H9014\|־]] [[H3027G\|יָדַ֜יִם]] [[H9001\|וְ]][[H3543A\|כִהֲתָ֣ה]] [[H3605\|כָל]][[H9014\|־]] [[H7307G\|ר֗וּחַ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1290\|בִּרְכַּ֙יִם֙]] [[H1980L\|תֵּלַ֣כְנָה]] [[H4325G\|מַּ֔יִם]] [[H2009\|הִנֵּ֤ה]] [[H0935G\|בָאָה֙]] [[H9001\|וְ]][[H1961\|נִֽהְיָ֔תָה]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZEKIEL|EZEKIEL]] • [[topic INSTRUCTION|INSTRUCTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.6|<< Ezekiel 21:6]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.8|Ezekiel 21:8 >>]]</td></tr></table>
 
@@ -39,7 +105,7 @@ And when they ask, ‘Why are you groaning?’ you are to say, ‘Because of the
 | and it will happen  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|נִֽהְיָ֔תָה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nih.Ya.tah<small><sup>[[HVNq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻ֖ם]]&#8207; </big>**| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֥י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.6|<< Ezekiel 21:6]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.8|Ezekiel 21:8 >>]]</td></tr></table>
 
 

@@ -1,10 +1,65 @@
+---
+title: Luke 15:24
+type: Verse
+kjv: "For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry."
+bsb: "For this son of mine was dead and is alive again! He was lost and is found!’ So they began to celebrate."
+jesus_said: "For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry."
+greek: "ὅτι οὗτος ὁ υἱός μου νεκρὸς ἦν καὶ ἀνέζησεν, καὶ ἦν ἀπολωλὼς καὶ εὑρέθη. καὶ ἤρξαντο εὐφραίνεσθαι.¶"
+pericope: "[[Luke.15.11 The Parable of the Prodigal Son|The Parable of the Prodigal Son]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 15
+book/chapter: "[[Luke.15|Luke 15]]"
+chronological_order: 977
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DANCING|DANCING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRODIGAL SON|PRODIGAL SON]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G3754H]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G3165]]"
+- "[[G3498]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G0326]]"
+- "[[G0622]]"
+- "[[G2147]]"
+- "[[G0757]]"
+- "[[G2165]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 15:24**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry.
 <small><sub>**BSB:**</sub></small>
 For this son of mine was dead and is alive again! He was lost and is found!’ So they began to celebrate.
-<small><sub>**Literal:**</sub></small>
-For this the son of mine dead was and is alive again, and he was having been lost and is found. And they began to be merry.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.23|<< Luke 15:23]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.25|Luke 15:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G3778\|οὗτος]]  [[G3588\|ὁ]]  [[G5207\|υἱός]]  [[G3165\|μου]]  [[G3498\|νεκρὸς]]  [[G1510\|ἦν]]  [[G2532\|καὶ]]  [[G0326\|ἀνέζησεν,]]  [[G2532\|καὶ]]  [[G1510\|ἦν]]  [[G0622\|ἀπολωλὼς]]  [[G2532\|καὶ]]  [[G2147\|εὑρέθη.]]  [[G2532\|καὶ]]  [[G0757\|ἤρξαντο]]  [[G2165\|εὐφραίνεσθαι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DANCING|DANCING]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic PENITENT|PENITENT]] • [[topic PRODIGAL SON|PRODIGAL SON]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SALVATION|SALVATION]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.23|<< Luke 15:23]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.25|Luke 15:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

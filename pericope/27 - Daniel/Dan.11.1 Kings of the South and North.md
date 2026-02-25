@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Kings of the South and North
+type: Pericope
 pericope: "[[Dan.11.1 Kings of the South and North|Kings of the South and North]]"
-verse_count: 35
+original_language: Hebrew
 testament: Old
 book: Daniel
 chapter: 11
 book/chapter: "[[Dan.11|Daniel 11]]"
-genre:
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 35
 verses:
 - "[[Dan.11.1]]"
 - "[[Dan.11.2]]"
@@ -54,7 +61,7 @@ verses:
 - "[[Dan.11.35]]"
 ---
 
-[[Dan.11|Daniel 11:1 - Daniel 11:35]]
+<small>[[Dan.11|Daniel 11:1-35]]</small>
 *Kings of the South and North*
 
 [[Dan.11.1|1]] Also I in the first year of Darius the Mede, \[even\] I, stood to confirm and to strengthen him.

@@ -1,8 +1,78 @@
+---
+title: 1 Kings 17:19
+type: Verse
+kjv: "And he said unto her, Give me thy son. And he took him out of her bosom, and carried him up into a loft, where he abode, and laid him upon his own bed."
+bsb: "But Elijah said to her, “Give me your son.” So he took him from her arms, carried him to the upper room where he was staying, and laid him on his own bed."
+hebrew: "וַיֹּ֥אמֶר אֵלֶ֖יהָ תְּנִֽי־ לִ֣י אֶת־ בְּנֵ֑ךְ וַיִּקָּחֵ֣הוּ מֵחֵיקָ֗הּ וַֽיַּעֲלֵ֙הוּ֙ אֶל־ הָעֲלִיָּ֗ה אֲשֶׁר־ הוּא֙ יֹשֵׁ֣ב שָׁ֔ם וַיַּשְׁכִּבֵ֖הוּ עַל־ מִטָּתֽוֹ׃"
+pericope: "[[1Kgs.17.17 Elijah Raises the Widow’s Son|Elijah Raises the Widow’s Son]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 17
+book/chapter: "[[1Kgs.17|1 Kings 17]]"
+chronological_order: 563
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic POOR|POOR]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZAREPHATH|ZAREPHATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H5414G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0853]]"
+- "[[H1121A]]"
+- "[[H9022]]"
+- "[[H3947G]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H2436G]]"
+- "[[H9024]]"
+- "[[H5927H]]"
+- "[[H9009]]"
+- "[[H5944]]"
+- "[[H0834A]]"
+- "[[H1931]]"
+- "[[H3427]]"
+- "[[H8033G]]"
+- "[[H7901G]]"
+- "[[H5921A]]"
+- "[[H4296]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 17:19**<big><big>[[1Kgs.17.17 Elijah Raises the Widow’s Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto her, Give me thy son. And he took him out of her bosom, and carried him up into a loft, where he abode, and laid him upon his own bed.
 <small><sub>**BSB:**</sub></small>
 But Elijah said to her, “Give me your son.” So he took him from her arms, carried him to the upper room where he was staying, and laid him on his own bed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H0413\|אֵלֶ֖י]][[H9034\|הָ]] [[H5414G\|תְּנִֽי]][[H9014\|־]] [[H9005\|לִ֣]][[H9030\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנֵ֑]][[H9022\|ךְ]] [[H9001\|וַ]][[H3947G\|יִּקָּחֵ֣]][[H9033\|הוּ]] [[H9006\|מֵ]][[H2436G\|חֵיקָ֗]][[H9024\|הּ]] [[H9001\|וַֽ]][[H5927H\|יַּעֲלֵ֙]][[H9033\|הוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5944\|עֲלִיָּ֗ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1931\|הוּא֙]] [[H3427\|יֹשֵׁ֣ב]] [[H8033G\|שָׁ֔ם]] [[H9001\|וַ]][[H7901G\|יַּשְׁכִּבֵ֖]][[H9033\|הוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H4296\|מִטָּתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic ELIJAH|ELIJAH]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic HOUSE|HOUSE]] • [[topic MIRACLES|MIRACLES]] • [[topic POOR|POOR]] • [[topic WOMEN|WOMEN]] • [[topic ZAREPHATH|ZAREPHATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.17.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.17.18|<< 1 Kings 17:18]]</td><td align="center" style="border:none;">[[1Kgs.17|1 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.17.20|1 Kings 17:20 >>]]</td></tr></table>
 

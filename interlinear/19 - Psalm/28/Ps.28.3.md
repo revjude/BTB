@@ -1,8 +1,62 @@
+---
+title: Psalm 28:3
+type: Verse
+kjv: "Draw me not away with the wicked, and with the workers of iniquity, which speak peace to their neighbours, but mischief is in their hearts."
+bsb: "Do not drag me away with the wicked, and with the workers of iniquity, who speak peace to their neighbors while malice is in their hearts."
+hebrew: "אַל־ תִּמְשְׁכֵ֣נִי עִם־ רְשָׁעִים֮ וְעִם־ פֹּ֪עֲלֵ֫י אָ֥וֶן דֹּבְרֵ֣י שָׁ֭לוֹם עִם־ רֵֽעֵיהֶ֑ם וְ֝רָעָ֗ה בִּלְבָבָֽם׃"
+pericope: "[[Ps.28.1 The LORD Is My Strength|The LORD Is My Strength]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 28
+book/chapter: "[[Ps.28|Psalm 28]]"
+chronological_order: 360
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HEART|HEART]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H4900]]"
+- "[[H9030]]"
+- "[[H5973A]]"
+- "[[H7563]]"
+- "[[H9002]]"
+- "[[H6466]]"
+- "[[H0205G]]"
+- "[[H1696G]]"
+- "[[H7965G]]"
+- "[[H7453]]"
+- "[[H9028]]"
+- "[[H7451I]]"
+- "[[H9003]]"
+- "[[H3824]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 28:3**<big><big>[[Ps.28.1 The LORD Is My Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Draw me not away with the wicked, and with the workers of iniquity, which speak peace to their neighbours, but mischief [is] in their hearts.
 <small><sub>**BSB:**</sub></small>
 Do not drag me away with the wicked, and with the workers of iniquity, who speak peace to their neighbors while malice is in their hearts.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H4900\|תִּמְשְׁכֵ֣]][[H9030\|נִי]] [[H5973A\|עִם]][[H9014\|־]] [[H7563\|רְשָׁעִים֮]] [[H9002\|וְ]][[H5973A\|עִם]][[H9014\|־]] [[H6466\|פֹּ֪עֲלֵ֫י]] [[H0205G\|אָ֥וֶן]] [[H1696G\|דֹּבְרֵ֣י]] [[H7965G\|שָׁ֭לוֹם]] [[H5973A\|עִם]][[H9014\|־]] [[H7453\|רֵֽעֵי]][[H9028\|הֶ֑ם]] [[H9002\|וְ֝]][[H7451I\|רָעָ֗ה]] [[H9003\|בִּ]][[H3824\|לְבָבָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HEART|HEART]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.28.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.28.2|<< Psalms 28:2]]</td><td align="center" style="border:none;">[[Ps.28|Psalms 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.28.4|Psalms 28:4 >>]]</td></tr></table>
 

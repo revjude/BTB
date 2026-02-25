@@ -1,10 +1,50 @@
+---
+title: 1 Corinthians 16:9
+type: Verse
+kjv: "For a great door and effectual is opened unto me, and there are many adversaries."
+bsb: "because a great door for effective work has opened to me, even though many oppose me."
+greek: "θύρα γάρ μοι ἀνέῳγεν μεγάλη καὶ ἐνεργὴς καὶ ἀντικείμενοι πολλοί.¶"
+pericope: "[[1Cor.16.5 Paul’s Travel Plans|Paul’s Travel Plans]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 16
+book/chapter: "[[1Cor.16|1 Corinthians 16]]"
+chronological_order: 1073
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic DOOR|DOOR]]"
+- "[[topic MISSIONS|MISSIONS]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G2374]]"
+- "[[G1063]]"
+- "[[G3165]]"
+- "[[G0455]]"
+- "[[G3173]]"
+- "[[G2532]]"
+- "[[G1756]]"
+- "[[G0480]]"
+- "[[G4183]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 16:9**<big><big>[[1Cor.16.5 Paul’s Travel Plans|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For a great door and effectual is opened unto me, and [there are] many adversaries.
 <small><sub>**BSB:**</sub></small>
 because a great door for effective work has opened to me, even though many oppose me.
-<small><sub>**Literal:**</sub></small>
-A door for to me has opened great and productive and are opposing many.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.8|<< 1 Corinthians 16:8]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.10|1 Corinthians 16:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2374\|θύρα]]  [[G1063\|γάρ]]  [[G3165\|μοι]]  [[G0455\|ἀνέῳγεν]]  [[G3173\|μεγάλη]]  [[G2532\|καὶ]]  [[G1756\|ἐνεργὴς]]  [[G2532\|καὶ]]  [[G0480\|ἀντικείμενοι]]  [[G4183\|πολλοί.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOOR|DOOR]] • [[topic MISSIONS|MISSIONS]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.8|<< 1 Corinthians 16:8]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.10|1 Corinthians 16:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

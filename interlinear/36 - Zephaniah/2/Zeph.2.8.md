@@ -1,8 +1,59 @@
+---
+title: Zephaniah 2:8
+type: Verse
+kjv: "I have heard the reproach of Moab, and the revilings of the children of Ammon, whereby they have reproached my people, and magnified themselves against their border."
+bsb: "“I have heard the reproach of Moab and the insults of the Ammonites, who have taunted My people and threatened their borders."
+hebrew: "שָׁמַ֙עְתִּי֙ חֶרְפַּ֣ת מוֹאָ֔ב וְגִדּוּפֵ֖י בְּנֵ֣י עַמּ֑וֹן אֲשֶׁ֤ר חֵֽרְפוּ֙ אֶת־ עַמִּ֔י וַיַּגְדִּ֖ילוּ עַל־ גְּבוּלָֽם׃"
+pericope: "[[Zeph.2.8 Judgment on Moab and Ammon|Judgment on Moab and Ammon]]"
+original_language: Hebrew
+testament: Old
+book: Zephaniah
+chapter: 2
+book/chapter: "[[Zeph.2|Zephaniah 2]]"
+chronological_order: 716
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+strongs:
+- "[[H8085G]]"
+- "[[H2781]]"
+- "[[H4124G]]"
+- "[[H9002]]"
+- "[[H1421]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H0834A]]"
+- "[[H2778A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H1431]]"
+- "[[H5921A]]"
+- "[[H1366H]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zephaniah 2:8**<big><big>[[Zeph.2.8 Judgment on Moab and Ammon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have heard the reproach of Moab, and the revilings of the children of Ammon, whereby they have reproached my people, and magnified [themselves] against their border.
 <small><sub>**BSB:**</sub></small>
 “I have heard the reproach of Moab and the insults of the Ammonites, who have taunted My people and threatened their borders.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שָׁמַ֙עְתִּי֙]] [[H2781\|חֶרְפַּ֣ת]] [[H4124G\|מוֹאָ֔ב]] [[H9002\|וְ]][[H1421\|גִדּוּפֵ֖י]] [[H1121G\|בְּנֵ֣י]] [[H5983\|עַמּ֑וֹן]] [[H0834A\|אֲשֶׁ֤ר]] [[H2778A\|חֵֽרְפוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ֔]][[H9020\|י]] [[H9001\|וַ]][[H1431\|יַּגְדִּ֖ילוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H1366H\|גְּבוּלָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.2.7|<< Zephaniah 2:7]]</td><td align="center" style="border:none;">[[Zeph.2|Zephaniah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.2.9|Zephaniah 2:9 >>]]</td></tr></table>
 

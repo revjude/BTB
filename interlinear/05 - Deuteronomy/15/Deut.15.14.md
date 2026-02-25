@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 15:14
+type: Verse
+kjv: "Thou shalt furnish him liberally out of thy flock, and out of thy floor, and out of thy winepress: of that wherewith the LORD thy God hath blessed thee thou shalt give unto him."
+bsb: "You are to furnish him liberally from your flock, your threshing floor, and your winepress. You shall give to him as the LORD your God has blessed you."
+hebrew: "הַעֲנֵ֤יק תַּעֲנִיק֙ ל֔וֹ מִצֹּ֣אנְךָ֔ וּמִֽגָּרְנְךָ֖ וּמִיִּקְבֶ֑ךָ אֲשֶׁ֧ר בֵּרַכְךָ֛ יְהוָ֥ה אֱלֹהֶ֖יךָ תִּתֶּן־ לֽוֹ׃"
+pericope: "[[Deut.15.12 Hebrew Servants|Hebrew Servants]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 15
+book/chapter: "[[Deut.15|Deuteronomy 15]]"
+chronological_order: 211
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WINE PRESS|WINE PRESS]]"
+strongs:
+- "[[H6059]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H6629G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H1637]]"
+- "[[H3342]]"
+- "[[H0834A]]"
+- "[[H1288]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H5414G]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 15:14**<big><big>[[Deut.15.12 Hebrew Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt furnish him liberally out of thy flock, and out of thy floor, and out of thy winepress: [of that] wherewith the LORD thy God hath blessed thee thou shalt give unto him.
 <small><sub>**BSB:**</sub></small>
 You are to furnish him liberally from your flock, your threshing floor, and your winepress. You shall give to him as the LORD your God has blessed you.
+<small><sub>**Hebrew:**</sub></small>
+[[H6059\|הַעֲנֵ֤יק]] [[H6059\|תַּעֲנִיק֙]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9006\|מִ]][[H6629G\|צֹּ֣אנְ]][[H9021\|ךָ֔]] [[H9002\|וּ]][[H9006\|מִֽ]][[H1637\|גָּרְנְ]][[H9021\|ךָ֖]] [[H9002\|וּ]][[H9006\|מִ]][[H3342\|יִּקְבֶ֑]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֧ר]] [[H1288\|בֵּרַכְ]][[H9031\|ךָ֛]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H5414G\|תִּתֶּן]][[H9014\|־]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic FRATERNITY|FRATERNITY]] • [[topic LIBERALITY|LIBERALITY]] • [[topic POOR|POOR]] • [[topic SABBATIC YEAR|SABBATIC YEAR]] • [[topic SERVANT|SERVANT]] • [[topic WINE PRESS|WINE PRESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.13|<< Deuteronomy 15:13]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.15|Deuteronomy 15:15 >>]]</td></tr></table>
 

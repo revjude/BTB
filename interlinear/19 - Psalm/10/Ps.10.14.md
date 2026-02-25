@@ -1,8 +1,69 @@
+---
+title: Psalm 10:14
+type: Verse
+kjv: "Thou hast seen it; for thou beholdest mischief and spite, to requite it with thy hand: the poor committeth himself unto thee; thou art the helper of the fatherless."
+bsb: "But You have regarded trouble and grief; You see to repay it by Your hand. The victim entrusts himself to You; You are the helper of the fatherless."
+hebrew: "רָאִ֡תָה כִּֽי־ אַתָּ֤ה׀ עָ֘מָ֤ל וָכַ֨עַס׀ תַּבִּיט֮ לָתֵ֪ת בְּיָ֫דֶ֥ךָ עָ֭לֶיךָ יַעֲזֹ֣ב חֵלֶ֑כָה יָ֝ת֗וֹם אַתָּ֤ה׀ הָיִ֬יתָ עוֹזֵֽר׃"
+pericope: "[[Ps.10.1 The Perils of the Pilgrim|The Perils of the Pilgrim]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 10
+book/chapter: "[[Ps.10|Psalm 10]]"
+chronological_order: 344
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H7200G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H9015]]"
+- "[[H5999]]"
+- "[[H9002]]"
+- "[[H3708A]]"
+- "[[H5027]]"
+- "[[H9005]]"
+- "[[H5414G]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H5800A]]"
+- "[[H2489]]"
+- "[[H3490]]"
+- "[[H1961]]"
+- "[[H5826]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 10:14**<big><big>[[Ps.10.1 The Perils of the Pilgrim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast seen [it]; for thou beholdest mischief and spite, to requite [it] with thy hand: the poor committeth himself unto thee; thou art the helper of the fatherless.
 <small><sub>**BSB:**</sub></small>
 But You have regarded trouble and grief; You see to repay it by Your hand. The victim entrusts himself to You; You are the helper of the fatherless.
+<small><sub>**Hebrew:**</sub></small>
+[[H7200G\|רָאִ֡תָה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0859A\|אַתָּ֤ה]][[H9015\|׀]] [[H5999\|עָ֘מָ֤ל]] [[H9002\|וָ]][[H3708A\|כַ֨עַס]][[H9015\|׀]] [[H5027\|תַּבִּיט֮]] [[H9005\|לָ]][[H5414G\|תֵ֪ת]] [[H9003\|בְּ]][[H3027G\|יָ֫דֶ֥]][[H9021\|ךָ]] [[H5921A\|עָ֭לֶי]][[H9031\|ךָ]] [[H5800A\|יַעֲזֹ֣ב]] [[H2489\|חֵלֶ֑כָה]] [[H3490\|יָ֝ת֗וֹם]] [[H0859A\|אַתָּ֤ה]][[H9015\|׀]] [[H1961\|הָיִ֬יתָ]] [[H5826\|עוֹזֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHILDREN|CHILDREN]] • [[topic MALICE|MALICE]] • [[topic ORPHAN|ORPHAN]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.10.13|<< Psalms 10:13]]</td><td align="center" style="border:none;">[[Ps.10|Psalms 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.10.15|Psalms 10:15 >>]]</td></tr></table>
 

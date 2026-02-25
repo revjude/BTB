@@ -1,8 +1,69 @@
+---
+title: Jeremiah 29:14
+type: Verse
+kjv: "And I will be found of you, saith the LORD: and I will turn away your captivity, and I will gather you from all the nations, and from all the places whither I have driven you, saith the LORD; and I will bring you again into the place whence I caused you to be carried away captive."
+bsb: "I will be found by you, declares the LORD, and I will restore you from captivity and gather you from all the nations and places to which I have banished you, declares the LORD. I will restore you to the place from which I sent you into exile.”"
+hebrew: "וְנִמְצֵ֣אתִי לָכֶם֮ נְאֻם־ יְהוָה֒ וְשַׁבְתִּ֣י אֶת־ שְׁבוּתְכֶ֗ם וְקִבַּצְתִּ֣י אֶ֠תְכֶם מִֽכָּל־ הַגּוֹיִ֞ם וּמִכָּל־ הַמְּקוֹמ֗וֹת אֲשֶׁ֨ר הִדַּ֧חְתִּי אֶתְכֶ֛ם שָׁ֖ם נְאֻם־ יְהוָ֑ה וַהֲשִׁבֹתִ֣י אֶתְכֶ֔ם אֶל־ הַ֨מָּק֔וֹם אֲשֶׁר־ הִגְלֵ֥יתִי אֶתְכֶ֖ם מִשָּֽׁם׃"
+pericope: "[[Jer.29.1 Jeremiah’s Letter to the Exiles|Jeremiah’s Letter to the Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 29
+book/chapter: "[[Jer.29|Jeremiah 29]]"
+chronological_order: 752
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H4672]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H7725H]]"
+- "[[H0853]]"
+- "[[H7622]]"
+- "[[H9026]]"
+- "[[H6908]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H9002]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H5080]]"
+- "[[H8033G]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H1540K]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Jeremiah 29:14**<big><big>[[Jer.29.1 Jeremiah’s Letter to the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will be found of you, saith the LORD: and I will turn away your captivity, and I will gather you from all the nations, and from all the places whither I have driven you, saith the LORD; and I will bring you again into the place whence I caused you to be carried away captive.
 <small><sub>**BSB:**</sub></small>
 I will be found by you, declares the LORD, and I will restore you from captivity and gather you from all the nations and places to which I have banished you, declares the LORD. I will restore you to the place from which I sent you into exile.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H4672\|נִמְצֵ֣אתִי]] [[H9005\|לָ]][[H9036\|כֶם֮]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָה֒]] [[H9001\|וְ]][[H7725H\|שַׁבְתִּ֣י]] [[H0853\|אֶת]][[H9014\|־]] [[H7622\|שְׁבוּתְ]][[H9026\|כֶ֗ם]] [[H9001\|וְ]][[H6908\|קִבַּצְתִּ֣י]] [[H0853\|אֶ֠תְ]][[H9036\|כֶם]] [[H9006\|מִֽ]][[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֞ם]] [[H9002\|וּ]][[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מְּקוֹמ֗וֹת]] [[H0834A\|אֲשֶׁ֨ר]] [[H5080\|הִדַּ֧חְתִּי]] [[H0853\|אֶתְ]][[H9036\|כֶ֛ם]] [[H8033G\|שָׁ֖ם]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H7725G\|הֲשִׁבֹתִ֣י]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ֨]][[H4725\|מָּק֔וֹם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1540K\|הִגְלֵ֥יתִי]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H9006\|מִ]][[H8033G\|שָּֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.13|<< Jeremiah 29:13]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.15|Jeremiah 29:15 >>]]</td></tr></table>
 

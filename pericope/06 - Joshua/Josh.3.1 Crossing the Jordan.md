@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Crossing the Jordan
+type: Pericope
 pericope: "[[Josh.3.1 Crossing the Jordan|Crossing the Jordan]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 3
 book/chapter: "[[Josh.3|Joshua 3]]"
-genre:
+chronological_order: 233
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 17
 verses:
 - "[[Josh.3.1]]"
 - "[[Josh.3.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Josh.3.17]]"
 ---
 
-[[Josh.3|Joshua 3:1 - Joshua 3:17]]
+<small>[[Josh.3|Joshua 3:1-17]]</small>
 *Crossing the Jordan*
 
 [[Josh.3.1|1]] And Joshua rose early in the morning; and they removed from Shittim, and came to Jordan, he and all the children of Israel, and lodged there before they passed over.

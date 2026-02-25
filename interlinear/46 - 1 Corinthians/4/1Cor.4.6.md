@@ -1,10 +1,68 @@
+---
+title: 1 Corinthians 4:6
+type: Verse
+kjv: "And these things, brethren, I have in a figure transferred to myself and to Apollos for your sakes; that ye might learn in us not to think of men above that which is written, that no one of you be puffed up for one against another."
+bsb: "Brothers, I have applied these things to myself and Apollos for your benefit, so that you may learn from us not to go beyond what is written. Then you will not take pride in one man over another."
+greek: "Ταῦτα δέ, ἀδελφοί, μετεσχημάτισα εἰς ἐμαυτὸν καὶ Ἀπολλῶν δι᾽ ὑμᾶς, ἵνα ἐν ἡμῖν μάθητε τὸ μὴ ὑπὲρ ἃ γέγραπται φρονεῖν, ἵνα μὴ εἷς ὑπὲρ τοῦ ἑνὸς φυσιοῦσθε κατὰ τοῦ ἑτέρου."
+pericope: "[[1Cor.4.1 Servants of Christ|Servants of Christ]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 4
+book/chapter: "[[1Cor.4|1 Corinthians 4]]"
+chronological_order: 1061
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G0080]]"
+- "[[G3345]]"
+- "[[G1519]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0625]]"
+- "[[G1223]]"
+- "[[G4771]]"
+- "[[G2443]]"
+- "[[G1722]]"
+- "[[G3165]]"
+- "[[G3129]]"
+- "[[G3588]]"
+- "[[G3361]]"
+- "[[G5228]]"
+- "[[G3739]]"
+- "[[G1125]]"
+- "[[G5426]]"
+- "[[G1520]]"
+- "[[G5448]]"
+- "[[G2596]]"
+- "[[G2087]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **1 Corinthians 4:6**<big><big>[[1Cor.4.1 Servants of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And these things, brethren, I have in a figure transferred to myself and [to] Apollos for your sakes; that ye might learn in us not to think [of men] above that which is written, that no one of you be puffed up for one against another.
 <small><sub>**BSB:**</sub></small>
 Brothers, I have applied these things to myself and Apollos for your benefit, so that you may learn from us not to go beyond what is written. Then you will not take pride in one man over another.
-<small><sub>**Literal:**</sub></small>
-These things now, brothers, I have applied to myself and Apollos on account of you, so that in us you may learn <the> not beyond what [things] has been written to think that not one for <the> one you be puffed up over the other.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.5|<< 1 Corinthians 4:5]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.7|1 Corinthians 4:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Ταῦτα]]  [[G1161\|δέ,]]  [[G0080\|ἀδελφοί,]]  [[G3345\|μετεσχημάτισα]]  [[G1519\|εἰς]]  [[G1473\|ἐμαυτὸν]]  [[G2532\|καὶ]]  [[G0625\|Ἀπολλῶν]]  [[G1223\|δι᾽]]  [[G4771\|ὑμᾶς,]]  [[G2443\|ἵνα]]  [[G1722\|ἐν]]  [[G3165\|ἡμῖν]]  [[G3129\|μάθητε]]  [[G3588\|τὸ]]  [[G3361\|μὴ]]  [[G5228\|ὑπὲρ]]  [[G3739\|ἃ]]  [[G1125\|γέγραπται]]  [[G5426\|φρονεῖν,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G1520\|εἷς]]  [[G5228\|ὑπὲρ]]  [[G3588\|τοῦ]]  [[G1520\|ἑνὸς]]  [[G5448\|φυσιοῦσθε]]  [[G2596\|κατὰ]]  [[G3588\|τοῦ]]  [[G2087\|ἑτέρου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOASTING|BOASTING]] • [[topic PRIDE|PRIDE]] • [[topic STRIFE|STRIFE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.5|<< 1 Corinthians 4:5]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.7|1 Corinthians 4:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

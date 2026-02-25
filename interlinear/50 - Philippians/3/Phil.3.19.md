@@ -1,10 +1,59 @@
+---
+title: Philippians 3:19
+type: Verse
+kjv: "Whose end is destruction, whose God is their belly, and whose glory is in their shame, who mind earthly things.)"
+bsb: "Their end is destruction, their god is their belly, and their glory is in their shame. Their minds are set on earthly things."
+greek: "ὧν τὸ τέλος ἀπώλεια, ὧν ὁ θεὸς ἡ κοιλία καὶ ἡ δόξα ἐν τῇ αἰσχύνῃ αὐτῶν, οἱ τὰ ἐπίγεια φρονοῦντες."
+pericope: "[[Phil.3.17 Citizenship in Heaven|Citizenship in Heaven]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 3
+book/chapter: "[[Phil.3|Philippians 3]]"
+chronological_order: 1119
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic GLORY|GLORY]]"
+- "[[topic GLUTTONY|GLUTTONY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G3739]]"
+- "[[G3588]]"
+- "[[G5056]]"
+- "[[G0684]]"
+- "[[G2316]]"
+- "[[G2836]]"
+- "[[G2532]]"
+- "[[G1391]]"
+- "[[G1722]]"
+- "[[G0152]]"
+- "[[G0846]]"
+- "[[G1919]]"
+- "[[G5426]]"
+texts:
+- NKO
+---
+
 **Philippians 3:19**<big><big>[[Phil.3.17 Citizenship in Heaven|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whose end [is] destruction, whose God [is their] belly, and [whose] glory [is] in their shame, who mind earthly things.)
 <small><sub>**BSB:**</sub></small>
 Their end is destruction, their god is their belly, and their glory is in their shame. Their minds are set on earthly things.
-<small><sub>**Literal:**</sub></small>
-whose <the> end [is] destruction, whose <the> God [is] the belly and <the> glory [is] in the shame of them, those <the> [things] earthly minding.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.18|<< Philippians 3:18]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.20|Philippians 3:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὧν]]  [[G3588\|τὸ]]  [[G5056\|τέλος]]  [[G0684\|ἀπώλεια,]]  [[G3739\|ὧν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|ἡ]]  [[G2836\|κοιλία]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1391\|δόξα]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0152\|αἰσχύνῃ]]  [[G0846\|αὐτῶν,]]  [[G3588\|οἱ]]  [[G3588\|τὰ]]  [[G1919\|ἐπίγεια]]  [[G5426\|φρονοῦντες.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic GLORY|GLORY]] • [[topic GLUTTONY|GLUTTONY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.18|<< Philippians 3:18]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.20|Philippians 3:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Suffering for the Church
+type: Pericope
 pericope: "[[Col.1.24 Paul’s Suffering for the Church|Paul’s Suffering for the Church]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Colossians
 chapter: 1
 book/chapter: "[[Col.1|Colossians 1]]"
-genre:
+chronological_order: 1121
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - polemical
+verse_count: 6
 verses:
 - "[[Col.1.24]]"
 - "[[Col.1.25]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Col.1.29]]"
 ---
 
-[[Col.1|Colossians 1:24 - Colossians 1:29]]
+<small>[[Col.1|Colossians 1:24-29]]</small>
 *Paul’s Suffering for the Church*
 
 [[Col.1.24|24]] Who now rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Christ in my flesh for his body’s sake, which is the church:

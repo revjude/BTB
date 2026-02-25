@@ -1,10 +1,72 @@
+---
+title: Mark 1:45
+type: Verse
+kjv: "But he went out, and began to publish it much, and to blaze abroad the matter, insomuch that Jesus could no more openly enter into the city, but was without in desert places: and they came to him from every quarter."
+bsb: "But the man went out and openly began to proclaim and spread the news. Consequently, Jesus could no longer enter a town in plain view, but He stayed out in solitary places. Yet people came to Him from every quarter."
+greek: "ὁ δὲ ἐξελθὼν ἤρξατο κηρύσσειν πολλὰ καὶ διαφημίζειν τὸν λόγον ὥστε μηκέτι αὐτὸν δύνασθαι φανερῶς εἰς πόλιν εἰσελθεῖν, ἀλλ᾽ ἔξω ἐπ᾽ ἐρήμοις τόποις ἦν. καὶ ἤρχοντο πρὸς αὐτὸν πάντοθεν.¶"
+pericope: "[[Mark.1.40 The Leper’s Prayer|The Leper’s Prayer]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 1
+book/chapter: "[[Mark.1|Mark 1]]"
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1831]]"
+- "[[G0757]]"
+- "[[G2784]]"
+- "[[G4183]]"
+- "[[G2532]]"
+- "[[G1310]]"
+- "[[G3056]]"
+- "[[G5620]]"
+- "[[G3371]]"
+- "[[G0846]]"
+- "[[G1410]]"
+- "[[G5320]]"
+- "[[G1519]]"
+- "[[G4172]]"
+- "[[G1525]]"
+- "[[G0235]]"
+- "[[G1854]]"
+- "[[G1909]]"
+- "[[G2048]]"
+- "[[G5117]]"
+- "[[G1510]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G3840]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 1:45**<big><big>[[Mark.1.40 The Leper’s Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he went out, and began to publish [it] much, and to blaze abroad the matter, insomuch that Jesus could no more openly enter into the city, but was without in desert places: and they came to him from every quarter.
 <small><sub>**BSB:**</sub></small>
 But the man went out and openly began to proclaim and spread the news. Consequently, Jesus could no longer enter a town in plain view, but He stayed out in solitary places. Yet people came to Him from every quarter.
-<small><sub>**Literal:**</sub></small>
-<the> And having gone out he began to proclaim much and to spread abroad the matter so that no longer He to be able openly into [the] city to enter, but out in solitary places He was. and they were coming to Him from every side.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.44|<< Mark 1:44]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.1|Mark 2:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G1831\|ἐξελθὼν]]  [[G0757\|ἤρξατο]]  [[G2784\|κηρύσσειν]]  [[G4183\|πολλὰ]]  [[G2532\|καὶ]]  [[G1310\|διαφημίζειν]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G5620\|ὥστε]]  [[G3371\|μηκέτι]]  [[G0846\|αὐτὸν]]  [[G1410\|δύνασθαι]]  [[G5320\|φανερῶς]]  [[G1519\|εἰς]]  [[G4172\|πόλιν]]  [[G1525\|εἰσελθεῖν,]]  [[G0235\|ἀλλ᾽]]  [[G1854\|ἔξω]]  [[G1909\|ἐπ᾽]]  [[G2048\|ἐρήμοις]]  [[G5117\|τόποις]]  [[G1510\|ἦν.]]  [[G2532\|καὶ]]  [[G2064\|ἤρχοντο]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G3840\|πάντοθεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic UNBELIEF|UNBELIEF]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.44|<< Mark 1:44]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.1|Mark 2:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

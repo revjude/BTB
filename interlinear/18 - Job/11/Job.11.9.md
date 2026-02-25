@@ -1,8 +1,52 @@
+---
+title: Job 11:9
+type: Verse
+kjv: "The measure thereof is longer than the earth, and broader than the sea."
+bsb: "Their measure is longer than the earth and wider than the sea."
+hebrew: "אֲרֻכָּ֣ה מֵאֶ֣רֶץ מִדָּ֑הּ וּ֝רְחָבָ֗ה מִנִּי־ יָֽם׃"
+pericope: "[[Job.11.1 Zophar Rebukes Job|Zophar Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 11
+book/chapter: "[[Job.11|Job 11]]"
+chronological_order: 22
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0752]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4055]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H7342H]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H3220G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 11:9**<big><big>[[Job.11.1 Zophar Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The measure thereof [is] longer than the earth, and broader than the sea.
 <small><sub>**BSB:**</sub></small>
 Their measure is longer than the earth and wider than the sea.
+<small><sub>**Hebrew:**</sub></small>
+[[H0752\|אֲרֻכָּ֣ה]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4055\|מִדָּ֑]][[H9024\|הּ]] [[H9002\|וּ֝]][[H7342H\|רְחָבָ֗ה]] [[H4480A\|מִנִּי]][[H9014\|־]] [[H3220G\|יָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.8|<< Job 11:8]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.10|Job 11:10 >>]]</td></tr></table>
 

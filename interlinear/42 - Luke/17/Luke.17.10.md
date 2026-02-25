@@ -1,10 +1,64 @@
+---
+title: Luke 17:10
+type: Verse
+kjv: "So likewise ye, when ye shall have done all those things which are commanded you, say, We are unprofitable servants: we have done that which was our duty to do."
+bsb: "So you also, when you have done everything commanded of you, should say, ‘We are unworthy servants; we have only done our duty.’”"
+jesus_said: "So likewise ye, when ye shall have done all those things which are commanded you, say, We are unprofitable servants: we have done that which was our duty to do."
+greek: "οὕτως καὶ ὑμεῖς, ὅταν ποιήσητε πάντα τὰ διαταχθέντα ὑμῖν, λέγετε ὅτι δοῦλοι ἀχρεῖοί ἐσμεν· ὅτι ὃ ὠφείλομεν ποιῆσαι πεποιήκαμεν.¶"
+pericope: "[[Luke.17.5 The Power of Faith|The Power of Faith]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 17
+book/chapter: "[[Luke.17|Luke 17]]"
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DUTY|DUTY]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SUPEREROGATION|SUPEREROGATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G3752]]"
+- "[[G4160G]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1299]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G1401]]"
+- "[[G0888]]"
+- "[[G1510]]"
+- "[[G3754H]]"
+- "[[G3739]]"
+- "[[G3784]]"
+texts:
+- NKO
+- k
+- NK(o)
+---
+
 **Luke 17:10**<big><big>[[Luke.17.5 The Power of Faith|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So likewise ye, when ye shall have done all those things which are commanded you, say, We are unprofitable servants: we have done that which was our duty to do.
 <small><sub>**BSB:**</sub></small>
 So you also, when you have done everything commanded of you, should say, ‘We are unworthy servants; we have only done our duty.’”
-<small><sub>**Literal:**</sub></small>
-Thus also you yourselves, when you may have done all the [things] having been commanded you, do say that Servants unworthy are we; for that which we were obliged to do we have done.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.9|<< Luke 17:9]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.11|Luke 17:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς,]]  [[G3752\|ὅταν]]  [[G4160G\|ποιήσητε]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G1299\|διαταχθέντα]]  [[G4771\|ὑμῖν,]]  [[G3004G\|λέγετε]]  [[G3754G\|ὅτι]]  [[G1401\|δοῦλοι]]  [[G0888\|ἀχρεῖοί]]  [[G1510\|ἐσμεν·]]  [[G3754H\|ὅτι]]  [[G3739\|ὃ]]  [[G3784\|ὠφείλομεν]]  [[G4160G\|ποιῆσαι]]  [[G4160G\|πεποιήκαμεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DUTY|DUTY]] • [[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SUPEREROGATION|SUPEREROGATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.9|<< Luke 17:9]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.11|Luke 17:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,70 @@
+---
+title: 2 Samuel 2:16
+type: Verse
+kjv: "And they caught every one his fellow by the head, and thrust his sword in his fellow’s side; so they fell down together: wherefore that place was called Helkathhazzurim, which is in Gibeon."
+bsb: "Then each man grabbed his opponent by the head and thrust his sword into his opponent’s side, and they all fell together. So this place, which is in Gibeon, is called Helkath-hazzurim."
+hebrew: "וַֽיַּחֲזִ֜קוּ אִ֣ישׁ׀ בְּרֹ֣אשׁ רֵעֵ֗הוּ וְחַרְבּוֹ֙ בְּצַ֣ד רֵעֵ֔הוּ וַֽיִּפְּל֖וּ יַחְדָּ֑ו וַיִּקְרָא֙ לַמָּק֣וֹם הַה֔וּא חֶלְקַ֥ת הַצֻּרִ֖ים אֲשֶׁ֥ר בְּגִבְעֽוֹן׃"
+pericope: "[[2Sam.2.12 The Battle of Gibeon|The Battle of Gibeon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 2
+book/chapter: "[[2Sam.2|2 Samuel 2]]"
+chronological_order: 330
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABNER|ABNER]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHAMPIONSHIP|CHAMPIONSHIP]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic HELKATH-HAZZURIM|HELKATH-HAZZURIM]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H2388H]]"
+- "[[H0376I]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H7218A]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H2719]]"
+- "[[H6654]]"
+- "[[H5307G]]"
+- "[[H3162B]]"
+- "[[H7121H]]"
+- "[[H9005]]"
+- "[[H4725]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H2521]]"
+- "[[H0834A]]"
+- "[[H1391]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 2:16**<big><big>[[2Sam.2.12 The Battle of Gibeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they caught every one his fellow by the head, and [thrust] his sword in his fellow’s side; so they fell down together: wherefore that place was called Helkathhazzurim, which [is] in Gibeon.
 <small><sub>**BSB:**</sub></small>
 Then each man grabbed his opponent by the head and thrust his sword into his opponent’s side, and they all fell together. So this place, which is in Gibeon, is called Helkath-hazzurim.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H2388H\|יַּחֲזִ֜קוּ]] [[H0376I\|אִ֣ישׁ]][[H9015\|׀]] [[H9003\|בְּ]][[H7218A\|רֹ֣אשׁ]] [[H7453\|רֵעֵ֗]][[H9023\|הוּ]] [[H9002\|וְ]][[H2719\|חַרְבּ]][[H9023\|וֹ֙]] [[H9003\|בְּ]][[H6654\|צַ֣ד]] [[H7453\|רֵעֵ֔]][[H9023\|הוּ]] [[H9001\|וַֽ]][[H5307G\|יִּפְּל֖וּ]] [[H3162B\|יַחְדָּ֑ו]] [[H9001\|וַ]][[H7121H\|יִּקְרָא֙]] [[H9005\|לַ]][[H4725\|מָּק֣וֹם]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H2521\|חֶלְקַ֥ת]] [[H2521\|הַצֻּרִ֖ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בְּ]][[H1391\|גִבְעֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]] • [[topic ARMIES|ARMIES]] • [[topic CHAMPIONSHIP|CHAMPIONSHIP]] • [[topic DAVID|DAVID]] • [[topic HELKATH-HAZZURIM|HELKATH-HAZZURIM]] • [[topic ISRAEL|ISRAEL]] • [[topic JOAB|JOAB]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.15|<< 2 Samuel 2:15]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.17|2 Samuel 2:17 >>]]</td></tr></table>
 

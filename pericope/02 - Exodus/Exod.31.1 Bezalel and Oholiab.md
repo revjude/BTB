@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Bezalel and Oholiab
+type: Pericope
 pericope: "[[Exod.31.1 Bezalel and Oholiab|Bezalel and Oholiab]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 31
 book/chapter: "[[Exod.31|Exodus 31]]"
-genre:
+chronological_order: 123
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 11
 verses:
 - "[[Exod.31.1]]"
 - "[[Exod.31.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Exod.31.11]]"
 ---
 
-[[Exod.31|Exodus 31:1 - Exodus 31:11]]
+<small>[[Exod.31|Exodus 31:1-11]]</small>
 *Bezalel and Oholiab*
 
 [[Exod.31.1|1]] And the LORD spake unto Moses, saying,

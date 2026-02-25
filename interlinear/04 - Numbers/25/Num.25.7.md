@@ -1,8 +1,71 @@
+---
+title: Numbers 25:7
+type: Verse
+kjv: "And when Phinehas, the son of Eleazar, the son of Aaron the priest, saw it, he rose up from among the congregation, and took a javelin in his hand;"
+bsb: "On seeing this, Phinehas son of Eleazar, the son of Aaron the priest, got up from the assembly, took a spear in his hand,"
+hebrew: "וַיַּ֗רְא פִּֽינְחָס֙ בֶּן־ אֶלְעָזָ֔ר בֶּֽן־ אַהֲרֹ֖ן הַכֹּהֵ֑ן וַיָּ֙קָם֙ מִתּ֣וֹךְ הָֽעֵדָ֔ה וַיִּקַּ֥ח רֹ֖מַח בְּיָדֽוֹ׃"
+pericope: "[[Num.25.6 The Zeal of Phinehas|The Zeal of Phinehas]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 25
+book/chapter: "[[Num.25|Numbers 25]]"
+chronological_order: 185
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic DART|DART]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MISCEGENATION|MISCEGENATION]]"
+- "[[topic PHINEHAS|PHINEHAS]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+- "[[topic ZIMRI|ZIMRI]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H6372G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0499G]]"
+- "[[H0175]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H6965B]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H5712]]"
+- "[[H3947G]]"
+- "[[H7420]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 25:7**<big><big>[[Num.25.6 The Zeal of Phinehas|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Phinehas, the son of Eleazar, the son of Aaron the priest, saw [it], he rose up from among the congregation, and took a javelin in his hand;
 <small><sub>**BSB:**</sub></small>
 On seeing this, Phinehas son of Eleazar, the son of Aaron the priest, got up from the assembly, took a spear in his hand,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֗רְא]] [[H6372G\|פִּֽינְחָס֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0499G\|אֶלְעָזָ֔ר]] [[H1121A\|בֶּֽן]][[H9014\|־]] [[H0175\|אַהֲרֹ֖ן]] [[H9009\|הַ]][[H3548\|כֹּהֵ֑ן]] [[H9001\|וַ]][[H6965B\|יָּ֙קָם֙]] [[H9006\|מִ]][[H8432\|תּ֣וֹךְ]] [[H9009\|הָֽ]][[H5712\|עֵדָ֔ה]] [[H9001\|וַ]][[H3947G\|יִּקַּ֥ח]] [[H7420\|רֹ֖מַח]] [[H9003\|בְּ]][[H3027G\|יָדֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DART|DART]] • [[topic DECISION|DECISION]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic ISRAEL|ISRAEL]] • [[topic MISCEGENATION|MISCEGENATION]] • [[topic PHINEHAS|PHINEHAS]] • [[topic WOMEN|WOMEN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]] • [[topic ZIMRI|ZIMRI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.25.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.25.6|<< Numbers 25:6]]</td><td align="center" style="border:none;">[[Num.25|Numbers 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.25.8|Numbers 25:8 >>]]</td></tr></table>
 

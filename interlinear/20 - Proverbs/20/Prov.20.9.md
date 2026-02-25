@@ -1,8 +1,54 @@
+---
+title: Proverbs 20:9
+type: Verse
+kjv: "Who can say, I have made my heart clean, I am pure from my sin?"
+bsb: "Who can say, “I have kept my heart pure; I am cleansed from my sin”?"
+hebrew: "מִֽי־ יֹ֭אמַר זִכִּ֣יתִי לִבִּ֑י טָ֝הַ֗רְתִּי מֵחַטָּאתִֽי׃"
+pericope: "[[Prov.20.1 Wine Is a Mocker|Wine Is a Mocker]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 20
+book/chapter: "[[Prov.20|Proverbs 20]]"
+chronological_order: 475
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic CLEANLINESS|CLEANLINESS]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic HEART|HEART]]"
+- "[[topic PURITY|PURITY]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H2135]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H2891]]"
+- "[[H9006]]"
+- "[[H2403B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 20:9**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who can say, I have made my heart clean, I am pure from my sin?
 <small><sub>**BSB:**</sub></small>
 Who can say, “I have kept my heart pure; I am cleansed from my sin”?
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִֽי]][[H9014\|־]] [[H0559\|יֹ֭אמַר]] [[H2135\|זִכִּ֣יתִי]] [[H3820A\|לִבִּ֑]][[H9020\|י]] [[H2891\|טָ֝הַ֗רְתִּי]] [[H9006\|מֵ]][[H2403B\|חַטָּאתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic CLEANLINESS|CLEANLINESS]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic HEART|HEART]] • [[topic PURITY|PURITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.8|<< Proverbs 20:8]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.10|Proverbs 20:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

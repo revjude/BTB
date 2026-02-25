@@ -1,8 +1,58 @@
+---
+title: Numbers 7:60
+type: Verse
+kjv: "On the ninth day Abidan the son of Gideoni, prince of the children of Benjamin, offered:"
+bsb: "On the ninth day Abidan son of Gideoni, the leader of the Benjamites, drew near."
+hebrew: "בַּיּוֹם֙ הַתְּשִׁיעִ֔י נָשִׂ֖יא לִבְנֵ֣י בִנְיָמִ֑ן אֲבִידָ֖ן בֶּן־ גִּדְעֹנִֽי׃"
+pericope: "[[Num.7.1 Offerings of Dedication|Offerings of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 7
+book/chapter: "[[Num.7|Numbers 7]]"
+chronological_order: 166
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GIDEONI|GIDEONI]]"
+- "[[topic SHEKEL|SHEKEL]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H8671]]"
+- "[[H5387A]]"
+- "[[H9005]]"
+- "[[H1121A]]"
+- "[[H1144G]]"
+- "[[H0027]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H1441]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 7:60**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 On the ninth day Abidan the son of Gideoni, prince of the children of Benjamin, [offered]:
 <small><sub>**BSB:**</sub></small>
 On the ninth day Abidan son of Gideoni, the leader of the Benjamites, drew near.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּוֹם֙]] [[H9009\|הַ]][[H8671\|תְּשִׁיעִ֔י]] [[H5387A\|נָשִׂ֖יא]] [[H9005\|לִ]][[H1121A\|בְנֵ֣י]] [[H1144G\|בִנְיָמִ֑ן]] [[H0027\|אֲבִידָ֖ן]] [[H1121G\|בֶּן]][[H9014\|־]] [[H1441\|גִּדְעֹנִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIDEONI|GIDEONI]] • [[topic SHEKEL|SHEKEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.60|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.59|<< Numbers 7:59]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.61|Numbers 7:61 >>]]</td></tr></table>
 

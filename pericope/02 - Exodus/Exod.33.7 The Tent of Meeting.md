@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Tent of Meeting
+type: Pericope
 pericope: "[[Exod.33.7 The Tent of Meeting|The Tent of Meeting]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 33
 book/chapter: "[[Exod.33|Exodus 33]]"
-genre:
+chronological_order: 125
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 5
 verses:
 - "[[Exod.33.7]]"
 - "[[Exod.33.8]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Exod.33.11]]"
 ---
 
-[[Exod.33|Exodus 33:7 - Exodus 33:11]]
+<small>[[Exod.33|Exodus 33:7-11]]</small>
 *The Tent of Meeting*
 
 [[Exod.33.7|7]] And Moses took the tabernacle, and pitched it without the camp, afar off from the camp, and called it the Tabernacle of the congregation. And it came to pass, \[that\] every one which sought the LORD went out unto the tabernacle of the congregation, which \[was\] without the camp.

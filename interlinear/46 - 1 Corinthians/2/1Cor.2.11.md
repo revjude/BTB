@@ -1,10 +1,60 @@
+---
+title: 1 Corinthians 2:11
+type: Verse
+kjv: "For what man knoweth the things of a man, save the spirit of man which is in him? even so the things of God knoweth no man, but the Spirit of God."
+bsb: "For who among men knows the thoughts of man except his own spirit within him? So too, no one knows the thoughts of God except the Spirit of God."
+greek: "τίς γὰρ οἶδεν ἀνθρώπων τὰ τοῦ ἀνθρώπου εἰ μὴ τὸ πνεῦμα τοῦ ἀνθρώπου τὸ ἐν αὐτῷ; οὕτως καὶ τὰ τοῦ θεοῦ οὐδεὶς ἔγνωκεν εἰ μὴ τὸ πνεῦμα τοῦ θεοῦ."
+pericope: "[[1Cor.2.6 Spiritual Wisdom|Spiritual Wisdom]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 2
+book/chapter: "[[1Cor.2|1 Corinthians 2]]"
+chronological_order: 1059
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic MAN|MAN]]"
+- "[[topic REASONING|REASONING]]"
+- "[[topic TRINITY|TRINITY]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G5101]]"
+- "[[G1063]]"
+- "[[G6063]]"
+- "[[G0444]]"
+- "[[G3588]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G4151G]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G2316]]"
+- "[[G3762]]"
+- "[[G1097]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Corinthians 2:11**<big><big>[[1Cor.2.6 Spiritual Wisdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For what man knoweth the things of a man, save the spirit of man which is in him? even so the things of God knoweth no man, but the Spirit of God.
 <small><sub>**BSB:**</sub></small>
 For who among men knows the thoughts of man except his own spirit within him? So too, no one knows the thoughts of God except the Spirit of God.
-<small><sub>**Literal:**</sub></small>
-Who for knows among men the [things] of the man only except the spirit of the man that [is] within him? So also the [things] <the> of God no [one] has known only except the Spirit <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.10|<< 1 Corinthians 2:10]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.12|1 Corinthians 2:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τίς]]  [[G1063\|γὰρ]]  [[G6063\|οἶδεν]]  [[G0444\|ἀνθρώπων]]  [[G3588\|τὰ]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G3588\|τὸ]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ;]]  [[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3762\|οὐδεὶς]]  [[G1097\|ἔγνωκεν]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic MAN|MAN]] • [[topic REASONING|REASONING]] • [[topic TRINITY|TRINITY]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.10|<< 1 Corinthians 2:10]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.12|1 Corinthians 2:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

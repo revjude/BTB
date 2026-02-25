@@ -1,10 +1,60 @@
+---
+title: Matthew 24:21
+type: Verse
+kjv: "For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be."
+bsb: "For at that time there will be great tribulation, unseen from the beginning of the world until now, and never to be seen again."
+jesus_said: "For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be."
+greek: "ἔσται γὰρ τότε θλῖψις μεγάλη οἵα οὐ γέγονεν ἀπ᾽ ἀρχῆς κόσμου ἕως τοῦ νῦν οὐδ᾽ οὐ μὴ γένηται."
+pericope: "[[Matt.24.15 The Abomination of Desolation|The Abomination of Desolation]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 24
+book/chapter: "[[Matt.24|Matthew 24]]"
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G5119]]"
+- "[[G2347]]"
+- "[[G3173]]"
+- "[[G3634]]"
+- "[[G3756]]"
+- "[[G1096]]"
+- "[[G0575]]"
+- "[[G0746]]"
+- "[[G2889]]"
+- "[[G2193]]"
+- "[[G3588]]"
+- "[[G3568]]"
+- "[[G3761]]"
+- "[[G3361]]"
+texts:
+- NKO
+---
+
 **Matthew 24:21**<big><big>[[Matt.24.15 The Abomination of Desolation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be.
 <small><sub>**BSB:**</sub></small>
 For at that time there will be great tribulation, unseen from the beginning of the world until now, and never to be seen again.
-<small><sub>**Literal:**</sub></small>
-There will be for then tribulation great such as not has been from [the] beginning of [the] world until <the> now no certainly not it may happen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.20|<< Matthew 24:20]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.22|Matthew 24:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἔσται]]  [[G1063\|γὰρ]]  [[G5119\|τότε]]  [[G2347\|θλῖψις]]  [[G3173\|μεγάλη]]  [[G3634\|οἵα]]  [[G3756\|οὐ]]  [[G1096\|γέγονεν]]  [[G0575\|ἀπ᾽]]  [[G0746\|ἀρχῆς]]  [[G2889\|κόσμου]]  [[G2193\|ἕως]]  [[G3588\|τοῦ]]  [[G3568\|νῦν]]  [[G3761\|οὐδ᾽]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G1096\|γένηται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.20|<< Matthew 24:20]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.22|Matthew 24:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 24:21** is...
 > $\quad$ referencing: [[LXX.Jer.30.7|Jer 30:7]]

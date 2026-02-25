@@ -1,8 +1,69 @@
+---
+title: 2 Kings 19:28
+type: Verse
+kjv: "Because thy rage against me and thy tumult is come up into mine ears, therefore I will put my hook in thy nose, and my bridle in thy lips, and I will turn thee back by the way by which thou camest."
+bsb: "Because your rage and arrogance against Me have reached My ears, I will put My hook in your nose and My bit in your mouth; I will send you back the way you came.’"
+hebrew: "יַ֚עַן הִתְרַגֶּזְךָ֣ אֵלַ֔י וְשַׁאֲנַנְךָ֖ עָלָ֣ה בְאָזְנָ֑י וְשַׂמְתִּ֨י חַחִ֜י בְּאַפֶּ֗ךָ וּמִתְגִּי֙ בִּשְׂפָתֶ֔יךָ וַהֲשִׁ֣בֹתִ֔יךָ בַּדֶּ֖רֶךְ אֲשֶׁר־ בָּ֥אתָ בָּֽהּ׃"
+pericope: "[[2Kgs.19.20 Sennacherib’s Fall Prophesied|Sennacherib’s Fall Prophesied]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 19
+book/chapter: "[[2Kgs.19|2 Kings 19]]"
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BRIDLE|BRIDLE]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H3282]]"
+- "[[H7264]]"
+- "[[H9041]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H7600]]"
+- "[[H9021]]"
+- "[[H5927G]]"
+- "[[H9003]]"
+- "[[H0241G]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H7760H]]"
+- "[[H2397]]"
+- "[[H0639H]]"
+- "[[H4964]]"
+- "[[H8193G]]"
+- "[[H7725G]]"
+- "[[H9031]]"
+- "[[H1870K]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 19:28**<big><big>[[2Kgs.19.20 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because thy rage against me and thy tumult is come up into mine ears, therefore I will put my hook in thy nose, and my bridle in thy lips, and I will turn thee back by the way by which thou camest.
 <small><sub>**BSB:**</sub></small>
 Because your rage and arrogance against Me have reached My ears, I will put My hook in your nose and My bit in your mouth; I will send you back the way you came.’
+<small><sub>**Hebrew:**</sub></small>
+[[H3282\|יַ֚עַן]] [[H7264\|הִתְרַגֶּזְ]][[H9041\|ךָ֣]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H9002\|וְ]][[H7600\|שַׁאֲנַנְ]][[H9021\|ךָ֖]] [[H5927G\|עָלָ֣ה]] [[H9003\|בְ]][[H0241G\|אָזְנָ֑]][[H9020\|י]] [[H9001\|וְ]][[H7760H\|שַׂמְתִּ֨י]] [[H2397\|חַחִ֜]][[H9020\|י]] [[H9003\|בְּ]][[H0639H\|אַפֶּ֗]][[H9021\|ךָ]] [[H9002\|וּ]][[H4964\|מִתְגִּ]][[H9020\|י֙]] [[H9003\|בִּ]][[H8193G\|שְׂפָתֶ֔י]][[H9021\|ךָ]] [[H9001\|וַ]][[H7725G\|הֲשִׁ֣בֹתִ֔י]][[H9031\|ךָ]] [[H9003\|בַּ]][[H1870K\|דֶּ֖רֶךְ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֥אתָ]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDLE|BRIDLE]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.27|<< 2 Kings 19:27]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.29|2 Kings 19:29 >>]]</td></tr></table>
 

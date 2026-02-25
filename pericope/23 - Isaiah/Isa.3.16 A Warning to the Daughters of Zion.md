@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Warning to the Daughters of Zion
+type: Pericope
 pericope: "[[Isa.3.16 A Warning to the Daughters of Zion|A Warning to the Daughters of Zion]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 3
 book/chapter: "[[Isa.3|Isaiah 3]]"
-genre:
+chronological_order: 611
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 11
 verses:
 - "[[Isa.3.16]]"
 - "[[Isa.3.17]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Isa.3.26]]"
 ---
 
-[[Isa.3|Isaiah 3:16 - Isaiah 3:26]]
+<small>[[Isa.3|Isaiah 3:16-26]]</small>
 *A Warning to the Daughters of Zion*
 
 [[Isa.3.16|16]] Moreover the LORD saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing \[as\] they go, and making a tinkling with their feet:

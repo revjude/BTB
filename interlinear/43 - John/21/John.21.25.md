@@ -1,10 +1,58 @@
+---
+title: John 21:25
+type: Verse
+kjv: "And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen."
+bsb: "There are many more things that Jesus did. If all of them were written down, I suppose that not even the world itself would have space for the books that would be written."
+greek: "Ἔστιν δὲ καὶ ἄλλα πολλὰ ἃ ἐποίησεν ὁ Ἰησοῦς ἅτινα ἐὰν γράφηται καθ᾽ ἕν, οὐδ᾽ αὐτὸν οἶμαι τὸν κόσμον χωρῆσαι τὰ γραφόμενα βιβλία."
+pericope: "[[John.21.20 Jesus and the Beloved Disciple|Jesus and the Beloved Disciple]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 21
+book/chapter: "[[John.21|John 21]]"
+chronological_order: 1018
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G0243]]"
+- "[[G4183]]"
+- "[[G3739]]"
+- "[[G4160G]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3748]]"
+- "[[G1437]]"
+- "[[G1125]]"
+- "[[G2596]]"
+- "[[G1520]]"
+- "[[G3761]]"
+- "[[G0846]]"
+- "[[G3633]]"
+- "[[G2889]]"
+- "[[G5562]]"
+- "[[G0975]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+---
+
 **John 21:25**<big><big>[[John.21.20 Jesus and the Beloved Disciple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen.
 <small><sub>**BSB:**</sub></small>
 There are many more things that Jesus did. If all of them were written down, I suppose that not even the world itself would have space for the books that would be written.
-<small><sub>**Literal:**</sub></small>
-There are now also other things many that did <the> Jesus which if they shall be written every one, not even itself I suppose the world to have space for the to be written books.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.24|<< John 21:24]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.1|Acts 1:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|Ἔστιν]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G0243\|ἄλλα]]  [[G4183\|πολλὰ]]  [[G3739\|ἃ]]  [[G4160G\|ἐποίησεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3748\|ἅτινα]]  [[G1437\|ἐὰν]]  [[G1125\|γράφηται]]  [[G2596\|καθ᾽]]  [[G1520\|ἕν,]]  [[G3761\|οὐδ᾽]]  [[G0846\|αὐτὸν]]  [[G3633\|οἶμαι]]  [[G3588\|τὸν]]  [[G2889\|κόσμον]]  [[G5562\|χωρῆσαι]]  [[G3588\|τὰ]]  [[G1125\|γραφόμενα]]  [[G0975\|βιβλία.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.24|<< John 21:24]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.1|Acts 1:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,65 @@
+---
+title: Matthew 19:24
+type: Verse
+kjv: "And again I say unto you, It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God."
+bsb: "Again I tell you, it is easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of God.”"
+jesus_said: "And again I say unto you, It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God."
+greek: "Πάλιν δὲ λέγω ὑμῖν· εὐκοπώτερόν ἐστιν κάμηλον διὰ τρυπήματος ῥαφίδος διελθεῖν ἢ πλούσιον εἰσελθεῖν εἰς τὴν βασιλείαν τοῦ θεοῦ.¶"
+pericope: "[[Matt.19.16 The Rich Young Man|The Rich Young Man]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 19
+book/chapter: "[[Matt.19|Matthew 19]]"
+chronological_order: 986
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic NEEDLE|NEEDLE]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RICHES|RICHES]]"
+strongs:
+- "[[G3825]]"
+- "[[G1161]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G2123]]"
+- "[[G1510]]"
+- "[[G2574]]"
+- "[[G1223]]"
+- "[[G5169]]"
+- "[[G4476]]"
+- "[[G1330]]"
+- "[[G2228]]"
+- "[[G4145]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G2316]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Matthew 19:24**<big><big>[[Matt.19.16 The Rich Young Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And again I say unto you, It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.
 <small><sub>**BSB:**</sub></small>
 Again I tell you, it is easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of God.”
-<small><sub>**Literal:**</sub></small>
-Again now I say to you; easier for [it] is a camel through [the] an eye of a needle to go through than a rich man to enter into the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.23|<< Matthew 19:23]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.25|Matthew 19:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3825\|Πάλιν]]  [[G1161\|δὲ]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G2123\|εὐκοπώτερόν]]  [[G1510\|ἐστιν]]  [[G2574\|κάμηλον]]  [[G1223\|διὰ]]  [[G5169\|τρυπήματος]]  [[G4476\|ῥαφίδος]]  [[G1330\|διελθεῖν]]  [[G2228\|ἢ]]  [[G4145\|πλούσιον]]  [[G1525\|εἰσελθεῖν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic NEEDLE|NEEDLE]] • [[topic RICH, THE|RICH, THE]] • [[topic RICHES|RICHES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.23|<< Matthew 19:23]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.25|Matthew 19:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

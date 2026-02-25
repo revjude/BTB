@@ -1,10 +1,67 @@
+---
+title: Romans 5:21
+type: Verse
+kjv: "That as sin hath reigned unto death, even so might grace reign through righteousness unto eternal life by Jesus Christ our Lord."
+bsb: "so that, just as sin reigned in death, so also grace might reign through righteousness to bring eternal life through Jesus Christ our Lord."
+greek: "ἵνα ὥσπερ ἐβασίλευσεν ἡ ἁμαρτία ἐν τῷ θανάτῳ, οὕτως καὶ ἡ χάρις βασιλεύσῃ διὰ δικαιοσύνης εἰς ζωὴν αἰώνιον διὰ Ἰησοῦ Χριστοῦ τοῦ κυρίου ἡμῶν.¶"
+pericope: "[[Rom.5.12 Death in Adam, Life in Christ|Death in Adam, Life in Christ]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 5
+book/chapter: "[[Rom.5|Romans 5]]"
+chronological_order: 1091
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic FALL OF MAN|FALL OF MAN]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2443]]"
+- "[[G5618]]"
+- "[[G0936]]"
+- "[[G3588]]"
+- "[[G0266]]"
+- "[[G1722]]"
+- "[[G2288]]"
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G5485]]"
+- "[[G1223]]"
+- "[[G1343]]"
+- "[[G1519]]"
+- "[[G2222]]"
+- "[[G0166]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **Romans 5:21**<big><big>[[Rom.5.12 Death in Adam, Life in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That as sin hath reigned unto death, even so might grace reign through righteousness unto eternal life by Jesus Christ our Lord.
 <small><sub>**BSB:**</sub></small>
 so that, just as sin reigned in death, so also grace might reign through righteousness to bring eternal life through Jesus Christ our Lord.
-<small><sub>**Literal:**</sub></small>
-so that just as reigned the sin in <the> death, so also <the> grace may reign through righteousness unto life eternal through Jesus Christ the Lord of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.20|<< Romans 5:20]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.1|Romans 6:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G5618\|ὥσπερ]]  [[G0936\|ἐβασίλευσεν]]  [[G3588\|ἡ]]  [[G0266\|ἁμαρτία]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2288\|θανάτῳ,]]  [[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G5485\|χάρις]]  [[G0936\|βασιλεύσῃ]]  [[G1223\|διὰ]]  [[G1343\|δικαιοσύνης]]  [[G1519\|εἰς]]  [[G2222\|ζωὴν]]  [[G0166\|αἰώνιον]]  [[G1223\|διὰ]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic ATONEMENT|ATONEMENT]] • [[topic FALL OF MAN|FALL OF MAN]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic LIFE|LIFE]] • [[topic SALVATION|SALVATION]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.20|<< Romans 5:20]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.1|Romans 6:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

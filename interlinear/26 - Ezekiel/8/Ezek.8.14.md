@@ -1,8 +1,68 @@
+---
+title: Ezekiel 8:14
+type: Verse
+kjv: "Then he brought me to the door of the gate of the LORD’S house which was toward the north; and, behold, there sat women weeping for Tammuz."
+bsb: "Then He brought me to the entrance of the north gate of the house of the LORD, and I saw women sitting there, weeping for Tammuz."
+hebrew: "וַיָּבֵ֣א אֹתִ֗י אֶל־ פֶּ֙תַח֙ שַׁ֣עַר בֵּית־ יְהוָ֔ה אֲשֶׁ֖ר אֶל־ הַצָּפ֑וֹנָה וְהִנֵּה־ שָׁם֙ הַנָּשִׁ֣ים יֹֽשְׁב֔וֹת מְבַכּ֖וֹת אֶת־ הַתַּמּֽוּז׃ ס"
+pericope: "[[Ezek.8.1 The Vision of Idolatry in the Temple|The Vision of Idolatry in the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 8
+book/chapter: "[[Ezek.8|Ezekiel 8]]"
+chronological_order: 799
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic TAMMUZ|TAMMUZ]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6607]]"
+- "[[H8179G]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H9009]]"
+- "[[H6828G]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H8033G]]"
+- "[[H0802G]]"
+- "[[H3427]]"
+- "[[H1058]]"
+- "[[H8542]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 8:14**<big><big>[[Ezek.8.1 The Vision of Idolatry in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he brought me to the door of the gate of the LORD’S house which [was] toward the north; and, behold, there sat women weeping for Tammuz.
 <small><sub>**BSB:**</sub></small>
 Then He brought me to the entrance of the north gate of the house of the LORD, and I saw women sitting there, weeping for Tammuz.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935P\|יָּבֵ֣א]] [[H0853\|אֹתִ֗]][[H9030\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H6607\|פֶּ֙תַח֙]] [[H8179G\|שַׁ֣עַר]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H0834A\|אֲשֶׁ֖ר]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H6828G\|צָּפ֑וֹנָ]][[H9011\|ה]] [[H9002\|וְ]][[H2009\|הִנֵּה]][[H9014\|־]] [[H8033G\|שָׁם֙]] [[H9009\|הַ]][[H0802G\|נָּשִׁ֣ים]] [[H3427\|יֹֽשְׁב֔וֹת]] [[H1058\|מְבַכּ֖וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8542\|תַּמּֽוּז]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic TAMMUZ|TAMMUZ]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.8.13|<< Ezekiel 8:13]]</td><td align="center" style="border:none;">[[Ezek.8|Ezekiel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.8.15|Ezekiel 8:15 >>]]</td></tr></table>
 
@@ -24,7 +84,7 @@ Then He brought me to the entrance of the north gate of the house of the LORD, a
 | [were] sitting  |**<big>&#8207;[[H3427\|יֹֽשְׁב֔וֹת]]&#8207; </big>**| yo.she.Vot<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bewailing  |**<big>&#8207;[[H1058\|מְבַכּ֖וֹת]]&#8207; </big>**| me.va.Kot<small><sup>[[HVprfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> Tammuz  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8542\|תַּמּֽוּז]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ta.Muz<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Tammuz  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8542\|תַּמּֽוּז]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ta.Muz<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.8.13|<< Ezekiel 8:13]]</td><td align="center" style="border:none;">[[Ezek.8|Ezekiel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.8.15|Ezekiel 8:15 >>]]</td></tr></table>
 
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ezra Reads the Law
+type: Pericope
 pericope: "[[Neh.8.1 Ezra Reads the Law|Ezra Reads the Law]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Nehemiah
 chapter: 8
 book/chapter: "[[Neh.8|Nehemiah 8]]"
-genre:
+chronological_order: 920
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
 - building codes
+verse_count: 12
 verses:
 - "[[Neh.8.1]]"
 - "[[Neh.8.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Neh.8.12]]"
 ---
 
-[[Neh.8|Nehemiah 8:1 - Nehemiah 8:12]]
+<small>[[Neh.8|Nehemiah 8:1-12]]</small>
 *Ezra Reads the Law*
 
 [[Neh.8.1|1]] And all the people gathered themselves together as one man into the street that \[was\] before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the LORD had commanded to Israel.

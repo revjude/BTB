@@ -1,8 +1,73 @@
+---
+title: Leviticus 23:36
+type: Verse
+kjv: "Seven days ye shall offer an offering made by fire unto the LORD: on the eighth day shall be an holy convocation unto you; and ye shall offer an offering made by fire unto the LORD: it is a solemn assembly; and ye shall do no servile work therein."
+bsb: "For seven days you are to present a food offering to the LORD. On the eighth day you are to hold a sacred assembly and present a food offering to the LORD. It is a solemn assembly; you must not do any regular work."
+hebrew: "שִׁבְעַ֣ת יָמִ֔ים תַּקְרִ֥יבוּ אִשֶּׁ֖ה לַיהוָ֑ה בַּיּ֣וֹם הַשְּׁמִינִ֡י מִקְרָא־ קֹדֶשׁ֩ יִהְיֶ֨ה לָכֶ֜ם וְהִקְרַבְתֶּ֨ם אִשֶּׁ֤ה לַֽיהוָה֙ עֲצֶ֣רֶת הִ֔וא כָּל־ מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃"
+pericope: "[[Lev.23.33 The Feast of Tabernacles|The Feast of Tabernacles]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 23
+book/chapter: "[[Lev.23|Leviticus 23]]"
+chronological_order: 155
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ETHANIM|ETHANIM]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic REST|REST]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic TABERNACLES, FEAST OF|TABERNACLES, FEAST OF]]"
+strongs:
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H7126H]]"
+- "[[H0801]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H9009]]"
+- "[[H8066]]"
+- "[[H4744]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H1961]]"
+- "[[H9036]]"
+- "[[H9001]]"
+- "[[H6116]]"
+- "[[H1931]]"
+- "[[H3605]]"
+- "[[H4399]]"
+- "[[H5656I]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 23:36**<big><big>[[Lev.23.33 The Feast of Tabernacles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seven days ye shall offer an offering made by fire unto the LORD: on the eighth day shall be an holy convocation unto you; and ye shall offer an offering made by fire unto the LORD: it [is] a solemn assembly; [and] ye shall do no servile work [therein].
 <small><sub>**BSB:**</sub></small>
 For seven days you are to present a food offering to the LORD. On the eighth day you are to hold a sacred assembly and present a food offering to the LORD. It is a solemn assembly; you must not do any regular work.
+<small><sub>**Hebrew:**</sub></small>
+[[H7651\|שִׁבְעַ֣ת]] [[H3117G\|יָמִ֔ים]] [[H7126H\|תַּקְרִ֥יבוּ]] [[H0801\|אִשֶּׁ֖ה]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H8066\|שְּׁמִינִ֡י]] [[H4744\|מִקְרָא]][[H9014\|־]] [[H6944G\|קֹדֶשׁ֩]] [[H1961\|יִהְיֶ֨ה]] [[H9005\|לָ]][[H9036\|כֶ֜ם]] [[H9001\|וְ]][[H7126H\|הִקְרַבְתֶּ֨ם]] [[H0801\|אִשֶּׁ֤ה]] [[H9005\|לַֽ]][[H3068G\|יהוָה֙]] [[H6116\|עֲצֶ֣רֶת]] [[H1931\|הִ֔וא]] [[H3605\|כָּל]][[H9014\|־]] [[H4399\|מְלֶ֥אכֶת]] [[H5656I\|עֲבֹדָ֖ה]] [[H3808\|לֹ֥א]] [[H6213A\|תַעֲשֽׂוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ETHANIM|ETHANIM]] • [[topic OFFERINGS|OFFERINGS]] • [[topic REST|REST]] • [[topic SANITATION|SANITATION]] • [[topic SEVEN|SEVEN]] • [[topic TABERNACLES, FEAST OF|TABERNACLES, FEAST OF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.35|<< Leviticus 23:35]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.37|Leviticus 23:37 >>]]</td></tr></table>
 

@@ -1,10 +1,63 @@
+---
+title: 2 Peter 1:8
+type: Verse
+kjv: "For if these things be in you, and abound, they make you that ye shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ."
+bsb: "For if you possess these qualities and continue to grow in them, they will keep you from being ineffective and unproductive in your knowledge of our Lord Jesus Christ."
+greek: "ταῦτα γὰρ ὑμῖν ὑπάρχοντα καὶ πλεονάζοντα οὐκ ἀργοὺς οὐδὲ ἀκάρπους καθίστησιν εἰς τὴν τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ ἐπίγνωσιν.¶"
+pericope: "[[2Pet.1.3 Partakers of the Divine Nature|Partakers of the Divine Nature]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 1
+book/chapter: "[[2Pet.1|2 Peter 1]]"
+chronological_order: 1157
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic GRACES|GRACES]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G4771]]"
+- "[[G5225]]"
+- "[[G2532]]"
+- "[[G4121]]"
+- "[[G3756]]"
+- "[[G0692]]"
+- "[[G3761]]"
+- "[[G0175]]"
+- "[[G2525]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G1922]]"
+texts:
+- NKO
+---
+
 **2 Peter 1:8**<big><big>[[2Pet.1.3 Partakers of the Divine Nature|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For if these things be in you, and abound, they make [you that ye shall] neither [be] barren nor unfruitful in the knowledge of our Lord Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 For if you possess these qualities and continue to grow in them, they will keep you from being ineffective and unproductive in your knowledge of our Lord Jesus Christ.
-<small><sub>**Literal:**</sub></small>
-These things for in you being and abounding neither idle nor unfruitful make [you] as to the of the Lord of us Jesus Christ knowledge.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.7|<< 2 Peter 1:7]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.9|2 Peter 1:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|ταῦτα]]  [[G1063\|γὰρ]]  [[G4771\|ὑμῖν]]  [[G5225\|ὑπάρχοντα]]  [[G2532\|καὶ]]  [[G4121\|πλεονάζοντα]]  [[G3756\|οὐκ]]  [[G0692\|ἀργοὺς]]  [[G3761\|οὐδὲ]]  [[G0175\|ἀκάρπους]]  [[G2525\|καθίστησιν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G1922\|ἐπίγνωσιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GRACES|GRACES]] • [[topic HOLINESS|HOLINESS]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.7|<< 2 Peter 1:7]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.9|2 Peter 1:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

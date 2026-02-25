@@ -1,8 +1,70 @@
+---
+title: Jeremiah 40:16
+type: Verse
+kjv: "But Gedaliah the son of Ahikam said unto Johanan the son of Kareah, Thou shalt not do this thing: for thou speakest falsely of Ishmael."
+bsb: "But Gedaliah son of Ahikam said to Johanan son of Kareah, “Do not do such a thing! What you are saying about Ishmael is a lie.”"
+hebrew: "וַיֹּ֨אמֶר גְּדַלְיָ֤הוּ בֶן־ אֲחִיקָם֙ אֶל־ יוֹחָנָ֣ן בֶּן־ קָרֵ֔חַ אַֽל־ תַּעֲשֵׂ֖ה אֶת־ הַדָּבָ֣ר הַזֶּ֑ה כִּֽי־ שֶׁ֛קֶר אַתָּ֥ה דֹבֵ֖ר אֶל־ יִשְׁמָעֵֽאל׃ ס"
+pericope: "[[Jer.40.13 The Plot against Gedaliah|The Plot against Gedaliah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 40
+book/chapter: "[[Jer.40|Jeremiah 40]]"
+chronological_order: 763
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AHIKAM|AHIKAM]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic GEDALIAH|GEDALIAH]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOHANAN|JOHANAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1436B]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0296]]"
+- "[[H0413]]"
+- "[[H3110G]]"
+- "[[H7143]]"
+- "[[H0408]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H2088]]"
+- "[[H3588A]]"
+- "[[H8267]]"
+- "[[H0859A]]"
+- "[[H1696G]]"
+- "[[H3458H]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(k)
+---
+
 **Jeremiah 40:16**<big><big>[[Jer.40.13 The Plot against Gedaliah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Gedaliah the son of Ahikam said unto Johanan the son of Kareah, Thou shalt not do this thing: for thou speakest falsely of Ishmael.
 <small><sub>**BSB:**</sub></small>
 But Gedaliah son of Ahikam said to Johanan son of Kareah, “Do not do such a thing! What you are saying about Ishmael is a lie.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H1436B\|גְּדַלְיָ֤הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H0296\|אֲחִיקָם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3110G\|יוֹחָנָ֣ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7143\|קָרֵ֔חַ]] [[H0408\|אַֽל]][[H9014\|־]] [[H6213A\|תַּעֲשֵׂ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דָּבָ֣ר]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H8267\|שֶׁ֛קֶר]] [[H0859A\|אַתָּ֥ה]] [[H1696G\|דֹבֵ֖ר]] [[H0413\|אֶל]][[H9014\|־]] [[H3458H\|יִשְׁמָעֵֽאל]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIKAM|AHIKAM]] • [[topic CITIZENS|CITIZENS]] • [[topic GEDALIAH|GEDALIAH]] • [[topic ISHMAEL|ISHMAEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOHANAN|JOHANAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.40.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.40.15|<< Jeremiah 40:15]]</td><td align="center" style="border:none;">[[Jer.40|Jeremiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.1|Jeremiah 41:1 >>]]</td></tr></table>
 
@@ -26,7 +88,7 @@ But Gedaliah son of Ahikam said to Johanan son of Kareah, “Do not do such a th
 | you  |**<big>&#8207;[[H0859A\|אַתָּ֥ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] speaking  |**<big>&#8207;[[H1696G\|דֹבֵ֖ר]]&#8207; </big>**| do.Ver<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | concerning  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ishmael  |**<big>&#8207;[[H3458H\|יִשְׁמָעֵֽאל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yish.ma.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ishmael  |**<big>&#8207;[[H3458H\|יִשְׁמָעֵֽאל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yish.ma.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.40.15|<< Jeremiah 40:15]]</td><td align="center" style="border:none;">[[Jer.40|Jeremiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.1|Jeremiah 41:1 >>]]</td></tr></table>
 
 [^1]: L spelled: **<span class="ashebrew"><big>תַּעֲשֵׂ֖</big></span>**

@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 5:25
+type: Verse
+kjv: "Now therefore why should we die? for this great fire will consume us: if we hear the voice of the LORD our God any more, then we shall die."
+bsb: "But now, why should we die? For this great fire will consume us, and we will die, if we hear the voice of the LORD our God any longer."
+hebrew: "וְעַתָּה֙ לָ֣מָּה נָמ֔וּת כִּ֣י תֹֽאכְלֵ֔נוּ הָאֵ֥שׁ הַגְּדֹלָ֖ה הַזֹּ֑את אִם־ יֹסְפִ֣ים׀ אֲנַ֗חְנוּ לִ֠שְׁמֹעַ אֶת־ ק֨וֹל יְהוָ֧ה אֱלֹהֵ֛ינוּ ע֖וֹד וָמָֽתְנוּ׃"
+pericope: "[[Deut.5.22 Moses Intercedes for the People|Moses Intercedes for the People]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 5
+book/chapter: "[[Deut.5|Deuteronomy 5]]"
+chronological_order: 201
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic THEOCRACY|THEOCRACY]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H4191]]"
+- "[[H3588A]]"
+- "[[H0398]]"
+- "[[H9035]]"
+- "[[H9009]]"
+- "[[H0784]]"
+- "[[H1419A]]"
+- "[[H2063]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3254G]]"
+- "[[H9015]]"
+- "[[H0587]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H6963A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H5750]]"
+- "[[H9001]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 5:25**<big><big>[[Deut.5.22 Moses Intercedes for the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore why should we die? for this great fire will consume us: if we hear the voice of the LORD our God any more, then we shall die.
 <small><sub>**BSB:**</sub></small>
 But now, why should we die? For this great fire will consume us, and we will die, if we hear the voice of the LORD our God any longer.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּה֙]] [[H9005\|לָ֣]][[H4100\|מָּה]] [[H4191\|נָמ֔וּת]] [[H3588A\|כִּ֣י]] [[H0398\|תֹֽאכְלֵ֔]][[H9035\|נוּ]] [[H9009\|הָ]][[H0784\|אֵ֥שׁ]] [[H9009\|הַ]][[H1419A\|גְּדֹלָ֖ה]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H0518A\|אִם]][[H9014\|־]] [[H3254G\|יֹסְפִ֣ים]][[H9015\|׀]] [[H0587\|אֲנַ֗חְנוּ]] [[H9005\|לִ֠]][[H8085G\|שְׁמֹעַ]] [[H0853\|אֶת]][[H9014\|־]] [[H6963A\|ק֨וֹל]] [[H3068G\|יְהוָ֧ה]] [[H0430G\|אֱלֹהֵ֛י]][[H9025\|נוּ]] [[H5750\|ע֖וֹד]] [[H9001\|וָ]][[H4191\|מָֽתְנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic THEOCRACY|THEOCRACY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.24|<< Deuteronomy 5:24]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.26|Deuteronomy 5:26 >>]]</td></tr></table>
 

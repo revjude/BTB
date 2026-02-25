@@ -1,8 +1,66 @@
+---
+title: 2 Chronicles 29:17
+type: Verse
+kjv: "Now they began on the first day of the first month to sanctify, and on the eighth day of the month came they to the porch of the LORD: so they sanctified the house of the LORD in eight days; and in the sixteenth day of the first month they made an end."
+bsb: "They began the consecration on the first day of the first month, and on the eighth day of the month they reached the portico of the LORD. For eight more days they consecrated the house of the LORD itself, finishing on the sixteenth day of the first month."
+hebrew: "וַ֠יָּחֵלּוּ בְּאֶחָ֞ד לַחֹ֣דֶשׁ הָרִאשׁוֹן֮ לְקַדֵּשׁ֒ וּבְי֧וֹם שְׁמוֹנָ֣ה לַחֹ֗דֶשׁ בָּ֚אוּ לְאוּלָ֣ם יְהוָ֔ה וַיְקַדְּשׁ֥וּ אֶת־ בֵּית־ יְהוָ֖ה לְיָמִ֣ים שְׁמוֹנָ֑ה וּבְי֨וֹם שִׁשָּׁ֥ה עָשָׂ֛ר לַחֹ֥דֶשׁ הָרִאשׁ֖וֹן כִּלּֽוּ׃ ס"
+pericope: "[[2Chr.29.1 Hezekiah Cleanses the Temple|Hezekiah Cleanses the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 29
+book/chapter: "[[2Chr.29|2 Chronicles 29]]"
+chronological_order: 659
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ASAPH|ASAPH]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H2490C]]"
+- "[[H9003]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H6942G]]"
+- "[[H9002]]"
+- "[[H3117G]]"
+- "[[H8083]]"
+- "[[H0935G]]"
+- "[[H0197J]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1004Q]]"
+- "[[H8337]]"
+- "[[H6240]]"
+- "[[H3615G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Chronicles 29:17**<big><big>[[2Chr.29.1 Hezekiah Cleanses the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now they began on the first [day] of the first month to sanctify, and on the eighth day of the month came they to the porch of the LORD: so they sanctified the house of the LORD in eight days; and in the sixteenth day of the first month they made an end.
 <small><sub>**BSB:**</sub></small>
 They began the consecration on the first day of the first month, and on the eighth day of the month they reached the portico of the LORD. For eight more days they consecrated the house of the LORD itself, finishing on the sixteenth day of the first month.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֠]][[H2490C\|יָּחֵלּוּ]] [[H9003\|בְּ]][[H0259\|אֶחָ֞ד]] [[H9005\|לַ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הָ]][[H7223G\|רִאשׁוֹן֮]] [[H9005\|לְ]][[H6942G\|קַדֵּשׁ֒]] [[H9002\|וּ]][[H9003\|בְ]][[H3117G\|י֧וֹם]] [[H8083\|שְׁמוֹנָ֣ה]] [[H9005\|לַ]][[H2320G\|חֹ֗דֶשׁ]] [[H0935G\|בָּ֚אוּ]] [[H9005\|לְ]][[H0197J\|אוּלָ֣ם]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H6942G\|יְקַדְּשׁ֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לְ]][[H3117G\|יָמִ֣ים]] [[H8083\|שְׁמוֹנָ֑ה]] [[H9002\|וּ]][[H9003\|בְ]][[H3117G\|י֨וֹם]] [[H8337\|שִׁשָּׁ֥ה]] [[H6240\|עָשָׂ֛ר]] [[H9005\|לַ]][[H2320G\|חֹ֥דֶשׁ]] [[H9009\|הָ]][[H7223G\|רִאשׁ֖וֹן]] [[H3615G\|כִּלּֽוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAPH|ASAPH]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.16|<< 2 Chronicles 29:16]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.18|2 Chronicles 29:18 >>]]</td></tr></table>
 
@@ -30,7 +88,7 @@ They began the consecration on the first day of the first month, and on the eigh
 | teen  |**<big>&#8207;[[H6240\|עָשָׂ֛ר]]&#8207; </big>**| 'a.Sar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of the month  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H2320G\|חֹ֥דֶשׁ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Cho.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> first  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7223G\|רִאשׁ֖וֹן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ri.Shon<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they finished  |**<big>&#8207;[[H3615G\|כִּלּֽוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ki.Lu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they finished  |**<big>&#8207;[[H3615G\|כִּלּֽוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ki.Lu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.16|<< 2 Chronicles 29:16]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.18|2 Chronicles 29:18 >>]]</td></tr></table>
 
 

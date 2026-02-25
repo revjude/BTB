@@ -1,8 +1,59 @@
+---
+title: Isaiah 22:3
+type: Verse
+kjv: "All thy rulers are fled together, they are bound by the archers: all that are found in thee are bound together, which have fled from far."
+bsb: "All your rulers have fled together, captured without a bow. All your fugitives were captured together, having fled to a distant place."
+hebrew: "כָּל־ קְצִינַ֥יִךְ נָֽדְדוּ־ יַ֖חַד מִקֶּ֣שֶׁת אֻסָּ֑רוּ כָּל־ נִמְצָאַ֙יִךְ֙ אֻסְּר֣וּ יַחְדָּ֔ו מֵרָח֖וֹק בָּרָֽחוּ׃"
+pericope: "[[Isa.22.1 The Valley of Vision|The Valley of Vision]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 22
+book/chapter: "[[Isa.22|Isaiah 22]]"
+chronological_order: 639
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ARCHERY|ARCHERY]]"
+- "[[topic ARROW|ARROW]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7101]]"
+- "[[H9022]]"
+- "[[H5074]]"
+- "[[H3162A]]"
+- "[[H9006]]"
+- "[[H7198]]"
+- "[[H0631]]"
+- "[[H4672]]"
+- "[[H9032]]"
+- "[[H3162B]]"
+- "[[H7350]]"
+- "[[H1272]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 22:3**<big><big>[[Isa.22.1 The Valley of Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All thy rulers are fled together, they are bound by the archers: all that are found in thee are bound together, [which] have fled from far.
 <small><sub>**BSB:**</sub></small>
 All your rulers have fled together, captured without a bow. All your fugitives were captured together, having fled to a distant place.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H7101\|קְצִינַ֥יִ]][[H9022\|ךְ]] [[H5074\|נָֽדְדוּ]][[H9014\|־]] [[H3162A\|יַ֖חַד]] [[H9006\|מִ]][[H7198\|קֶּ֣שֶׁת]] [[H0631\|אֻסָּ֑רוּ]] [[H3605\|כָּל]][[H9014\|־]] [[H4672\|נִמְצָאַ֙יִ]][[H9032\|ךְ֙]] [[H0631\|אֻסְּר֣וּ]] [[H3162B\|יַחְדָּ֔ו]] [[H9006\|מֵ]][[H7350\|רָח֖וֹק]] [[H1272\|בָּרָֽחוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARCHERY|ARCHERY]] • [[topic ARROW|ARROW]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.22.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.2|<< Isaiah 22:2]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.4|Isaiah 22:4 >>]]</td></tr></table>
 

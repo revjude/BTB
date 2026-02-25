@@ -1,8 +1,58 @@
+---
+title: Psalm 119:6
+type: Verse
+kjv: "Then shall I not be ashamed, when I have respect unto all thy commandments."
+bsb: "Then I would not be ashamed when I consider all Your commandments."
+hebrew: "אָ֥ז לֹא־ אֵב֑וֹשׁ בְּ֝הַבִּיטִ֗י אֶל־ כָּל־ מִצְוֹתֶֽיךָ׃"
+pericope: "[[Ps.119.1 Your Word Is a Lamp to My Feet - ALEPH|Your Word Is a Lamp to My Feet - ALEPH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PERFECTION|PERFECTION]]"
+strongs:
+- "[[H0227A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0954]]"
+- "[[H9003]]"
+- "[[H5027]]"
+- "[[H9040]]"
+- "[[H0413]]"
+- "[[H3605]]"
+- "[[H4687]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:6**<big><big>[[Ps.119.1 Your Word Is a Lamp to My Feet - ALEPH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall I not be ashamed, when I have respect unto all thy commandments.
 <small><sub>**BSB:**</sub></small>
 Then I would not be ashamed when I consider all Your commandments.
+<small><sub>**Hebrew:**</sub></small>
+[[H0227A\|אָ֥ז]] [[H3808\|לֹא]][[H9014\|־]] [[H0954\|אֵב֑וֹשׁ]] [[H9003\|בְּ֝]][[H5027\|הַבִּיטִ֗]][[H9040\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4687\|מִצְוֹתֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic LAW|LAW]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PERFECTION|PERFECTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.5|<< Psalms 119:5]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.7|Psalms 119:7 >>]]</td></tr></table>
 

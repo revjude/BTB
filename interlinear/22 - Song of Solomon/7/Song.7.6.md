@@ -1,8 +1,44 @@
+---
+title: Song of Solomon 7:6
+type: Verse
+kjv: "How fair and how pleasant art thou, O love, for delights!"
+bsb: "How fair and pleasant you are, O love, with your delights!"
+hebrew: "מַה־ יָּפִית֙ וּמַה־ נָּעַ֔מְתְּ אַהֲבָ֖ה בַּתַּֽעֲנוּגִֽים׃"
+pericope: "[[Song.7.1 Admiration by the Bridegroom|Admiration by the Bridegroom]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 7
+book/chapter: "[[Song.7|Song of Solomon 7]]"
+chronological_order: 454
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+strongs:
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H3302]]"
+- "[[H9002]]"
+- "[[H5276]]"
+- "[[H0160]]"
+- "[[H9003]]"
+- "[[H8588]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 7:6**<big><big>[[Song.7.1 Admiration by the Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How fair and how pleasant art thou, O love, for delights!
 <small><sub>**BSB:**</sub></small>
 How fair and pleasant you are, O love, with your delights!
+<small><sub>**Hebrew:**</sub></small>
+[[H4100\|מַה]][[H9014\|־]] [[H3302\|יָּפִית֙]] [[H9002\|וּ]][[H4100\|מַה]][[H9014\|־]] [[H5276\|נָּעַ֔מְתְּ]] [[H0160\|אַהֲבָ֖ה]] [[H9003\|בַּ]][[H8588\|תַּֽעֲנוּגִֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.7.5|<< Song of Solomon 7:5]]</td><td align="center" style="border:none;">[[Song.7|Song of Solomon 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.7.7|Song of Solomon 7:7 >>]]</td></tr></table>
 

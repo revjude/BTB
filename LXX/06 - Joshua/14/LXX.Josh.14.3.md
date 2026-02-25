@@ -1,6 +1,60 @@
+---
+title: LXX Joshua 14:3
+type: Verse
+lxx: "for Moses gave a lot to the two tribes and to the half tribe of the other side of the Jordan. And to the Levites a lot was not given among them."
+greek: "έδωκεν γαρ Μωυσής κληρονομίαν ταις δύο φυλαίς και τη ημίσει φυλής από του πέραν του Ιορδάνου και τοις Λευίταις ουκ έδωκε κλήρον εν αυτοίς"
+original_language: Greek
+testament: Old
+book: Joshua
+chapter: 14
+book/chapter: "[[Josh.14|Joshua 14]]"
+chronological_order: 244
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[G1325]]"
+- "[[G1063]]"
+- "[[G3475]]"
+- "[[G2817]]"
+- "[[G3588]]"
+- "[[G1417]]"
+- "[[G5443]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2255]]"
+- "[[G5443]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G4008]]"
+- "[[G3588]]"
+- "[[G2446]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3017]]"
+- "[[G3756]]"
+- "[[G1325]]"
+- "[[G2819]]"
+- "[[G1722]]"
+- "[[G1473]]"
+---
+
 **LXX Joshua 14:3** 
 <small><sub>**LXX:**</sub></small>
 for Moses gave a lot to the two tribes and to the half tribe of the other side of the Jordan. And to the Levites a lot was not given among them. 
+<small><sub>**Greek:**</sub></small>
+[[G1325\|έδωκεν]] [[G1063\|γαρ]] [[G3475\|Μωυσής]] [[G2817\|κληρονομίαν]] [[G3588\|ταις]] [[G1417\|δύο]] [[G5443\|φυλαίς]] [[G2532\|και]] [[G3588\|τη]] [[G2255\|ημίσει]] [[G5443\|φυλής]] [[G0575\|από]] [[G3588\|του]] [[G4008\|πέραν]] [[G3588\|του]] [[G2446\|Ιορδάνου]] [[G2532\|και]] [[G3588\|τοις]] [[G3017\|Λευίταις]] [[G3756\|ουκ]] [[G1325\|έδωκε]] [[G2819\|κλήρον]] [[G1722\|εν]] [[G1473\|αυτοίς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**MT:**</sub></small>
 [[Josh.14.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.14.2|<< Joshua 14:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.14.4|Joshua 14:4 >>]]</td></tr></table>
 
@@ -29,6 +83,6 @@ for Moses gave a lot to the two tribes and to the half tribe of the other side o
 | a lot | **<big>[[G2819\|κλήρον]]</big>** |
 | among | **<big>[[G1722\|εν]]</big>** |
 | them. | **<big>[[G1473\|αυτοίς]]</big>** |
-[[Josh.14.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.14.2|<< Joshua 14:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.14.4|Joshua 14:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.14.2|<< Joshua 14:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.14.4|Joshua 14:4 >>]]</td></tr></table>
 
 

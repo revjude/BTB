@@ -1,10 +1,48 @@
+---
+title: Acts 27:26
+type: Verse
+kjv: "Howbeit we must be cast upon a certain island."
+bsb: "However, we must run aground on some island.”"
+greek: "εἰς νῆσον δέ τινα δεῖ ἡμᾶς ἐκπεσεῖν.¶"
+pericope: "[[Acts.27.13 The Storm at Sea|The Storm at Sea]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 27
+book/chapter: "[[Acts.27|Acts 27]]"
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[G1519]]"
+- "[[G3520]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G1163]]"
+- "[[G3165]]"
+- "[[G1601]]"
+texts:
+- NKO
+---
+
 **Acts 27:26**<big><big>[[Acts.27.13 The Storm at Sea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Howbeit we must be cast upon a certain island.
 <small><sub>**BSB:**</sub></small>
 However, we must run aground on some island.”
-<small><sub>**Literal:**</sub></small>
-Upon an island however certain it behooves us to fall.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.25|<< Acts 27:25]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.27|Acts 27:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1519\|εἰς]]  [[G3520\|νῆσον]]  [[G1161\|δέ]]  [[G5100\|τινα]]  [[G1163\|δεῖ]]  [[G3165\|ἡμᾶς]]  [[G1601\|ἐκπεσεῖν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]] • [[topic PAUL|PAUL]] • [[topic PROPHECY|PROPHECY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.25|<< Acts 27:25]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.27|Acts 27:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,59 @@
+---
+title: Psalm 44:22
+type: Verse
+kjv: "Yea, for thy sake are we killed all the day long; we are counted as sheep for the slaughter."
+bsb: "Yet for Your sake we face death all day long; we are considered as sheep to be slaughtered."
+hebrew: "כִּֽי־ עָ֭לֶיךָ הֹרַ֣גְנוּ כָל־ הַיּ֑וֹם נֶ֝חְשַׁ֗בְנוּ כְּצֹ֣אן טִבְחָֽה׃"
+pericope: "[[Ps.44.1 Redeem Us, O God|Redeem Us, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 44
+book/chapter: "[[Ps.44|Psalm 44]]"
+chronological_order: 499
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H2026]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H2803H]]"
+- "[[H9004]]"
+- "[[H6629G]]"
+- "[[H2878]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 44:22**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, for thy sake are we killed all the day long; we are counted as sheep for the slaughter.
 <small><sub>**BSB:**</sub></small>
 Yet for Your sake we face death all day long; we are considered as sheep to be slaughtered.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H5921A\|עָ֭לֶי]][[H9031\|ךָ]] [[H2026\|הֹרַ֣גְנוּ]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּ֑וֹם]] [[H2803H\|נֶ֝חְשַׁ֗בְנוּ]] [[H9004\|כְּ]][[H6629G\|צֹ֣אן]] [[H2878\|טִבְחָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MARTYRDOM|MARTYRDOM]] • [[topic MURMURING|MURMURING]] • [[topic PERSECUTION|PERSECUTION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.21|<< Psalms 44:21]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.23|Psalms 44:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

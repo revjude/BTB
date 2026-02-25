@@ -1,8 +1,72 @@
+---
+title: Numbers 21:6
+type: Verse
+kjv: "And the LORD sent fiery serpents among the people, and they bit the people; and much people of Israel died."
+bsb: "So the LORD sent venomous snakes among the people, and many of the Israelites were bitten and died."
+hebrew: "וַיְשַׁלַּ֨ח יְהוָ֜ה בָּעָ֗ם אֵ֚ת הַנְּחָשִׁ֣ים הַשְּׂרָפִ֔ים וַֽיְנַשְּׁכ֖וּ אֶת־ הָעָ֑ם וַיָּ֥מָת עַם־ רָ֖ב מִיִּשְׂרָאֵֽל׃"
+pericope: "[[Num.21.4 The Bronze Serpent|The Bronze Serpent]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 21
+book/chapter: "[[Num.21|Numbers 21]]"
+chronological_order: 181
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SERPENT|SERPENT]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H5971A]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5175]]"
+- "[[H8314A]]"
+- "[[H5391A]]"
+- "[[H9014]]"
+- "[[H4191]]"
+- "[[H7227A]]"
+- "[[H9006]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 21:6**<big><big>[[Num.21.4 The Bronze Serpent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD sent fiery serpents among the people, and they bit the people; and much people of Israel died.
 <small><sub>**BSB:**</sub></small>
 So the LORD sent venomous snakes among the people, and many of the Israelites were bitten and died.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יְשַׁלַּ֨ח]] [[H3068G\|יְהוָ֜ה]] [[H9003\|בָּ]][[H5971A\|עָ֗ם]] [[H0853\|אֵ֚ת]] [[H9009\|הַ]][[H5175\|נְּחָשִׁ֣ים]] [[H9009\|הַ]][[H8314A\|שְּׂרָפִ֔ים]] [[H9001\|וַֽ]][[H5391A\|יְנַשְּׁכ֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H9001\|וַ]][[H4191\|יָּ֥מָת]] [[H5971A\|עַם]][[H9014\|־]] [[H7227A\|רָ֖ב]] [[H9006\|מִ]][[H3478\|יִּשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MIRACLES|MIRACLES]] • [[topic MOSES|MOSES]] • [[topic MURMURING|MURMURING]] • [[topic PLAGUE|PLAGUE]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SALVATION|SALVATION]] • [[topic SERPENT|SERPENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.5|<< Numbers 21:5]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.7|Numbers 21:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

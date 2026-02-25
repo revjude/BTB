@@ -1,10 +1,64 @@
+---
+title: Luke 11:4
+type: Verse
+kjv: "And forgive us our sins; for we also forgive every one that is indebted to us. And lead us not into temptation; but deliver us from evil."
+bsb: "And forgive us our sins, for we also forgive everyone who sins against us. And lead us not into temptation.’”"
+jesus_said: "And forgive us our sins; for we also forgive every one that is indebted to us. And lead us not into temptation; but deliver us from evil."
+greek: "καὶ ἄφες ἡμῖν τὰς ἁμαρτίας ἡμῶν· καὶ γὰρ αὐτοὶ ἀφίομεν παντὶ ὀφείλοντι ἡμῖν· καὶ μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν ἀλλὰ ῥῦσαι ἡμᾶς ἀπὸ τοῦ πονηροῦ.¶"
+pericope: "[[Luke.11.1 The Lord’s Prayer|The Lord’s Prayer]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LORD'S PRAYER|LORD'S PRAYER]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G0863H]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G0266]]"
+- "[[G1063]]"
+- "[[G0846]]"
+- "[[G3956]]"
+- "[[G3784]]"
+- "[[G3361]]"
+- "[[G1533]]"
+- "[[G1519]]"
+- "[[G3986G]]"
+- "[[G0235]]"
+- "[[G4506]]"
+- "[[G0575]]"
+- "[[G4190]]"
+texts:
+- NKO
+- K
+---
+
 **Luke 11:4**<big><big>[[Luke.11.1 The Lord’s Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And forgive us our sins; for we also forgive every one that is indebted to us. And lead us not into temptation; but deliver us from evil.
 <small><sub>**BSB:**</sub></small>
 And forgive us our sins, for we also forgive everyone who sins against us. And lead us not into temptation.’”
-<small><sub>**Literal:**</sub></small>
-And do forgive us the sins of us; also for ourselves we forgive to everyone indebted to us; and may you not lead us into temptation but do deliver us from <the> evil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.3|<< Luke 11:3]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.5|Luke 11:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0863H\|ἄφες]]  [[G3165\|ἡμῖν]]  [[G3588\|τὰς]]  [[G0266\|ἁμαρτίας]]  [[G3165\|ἡμῶν·]]  [[G2532\|καὶ]]  [[G1063\|γὰρ]]  [[G0846\|αὐτοὶ]]  [[G0863H\|ἀφίομεν]]  [[G3956\|παντὶ]]  [[G3784\|ὀφείλοντι]]  [[G3165\|ἡμῖν·]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G1533\|εἰσενέγκῃς]]  [[G3165\|ἡμᾶς]]  [[G1519\|εἰς]]  [[G3986G\|πειρασμόν]]  [[G0235\|ἀλλὰ]]  [[G4506\|ῥῦσαι]]  [[G3165\|ἡμᾶς]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G4190\|πονηροῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORGIVENESS|FORGIVENESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LORD'S PRAYER|LORD'S PRAYER]] • [[topic PRAYER|PRAYER]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.3|<< Luke 11:3]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.5|Luke 11:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

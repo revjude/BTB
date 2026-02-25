@@ -1,8 +1,51 @@
+---
+title: Proverbs 19:29
+type: Verse
+kjv: "Judgments are prepared for scorners, and stripes for the back of fools."
+bsb: "Judgments are prepared for mockers, and beatings for the backs of fools."
+hebrew: "נָכ֣וֹנוּ לַלֵּצִ֣ים שְׁפָטִ֑ים וּ֝מַהֲלֻמ֗וֹת לְגֵ֣ו כְּסִילִֽים׃"
+pericope: "[[Prov.19.1 The Man of Integrity|The Man of Integrity]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 19
+book/chapter: "[[Prov.19|Proverbs 19]]"
+chronological_order: 474
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SCOFFING|SCOFFING]]"
+strongs:
+- "[[H3559A]]"
+- "[[H9005]]"
+- "[[H3887]]"
+- "[[H8201]]"
+- "[[H9002]]"
+- "[[H4112]]"
+- "[[H1460A]]"
+- "[[H3684]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 19:29**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Judgments are prepared for scorners, and stripes for the back of fools.
 <small><sub>**BSB:**</sub></small>
 Judgments are prepared for mockers, and beatings for the backs of fools.
+<small><sub>**Hebrew:**</sub></small>
+[[H3559A\|נָכ֣וֹנוּ]] [[H9005\|לַ]][[H3887\|לֵּצִ֣ים]] [[H8201\|שְׁפָטִ֑ים]] [[H9002\|וּ֝]][[H4112\|מַהֲלֻמ֗וֹת]] [[H9005\|לְ]][[H1460A\|גֵ֣ו]] [[H3684\|כְּסִילִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFIDELITY|INFIDELITY]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SCOFFING|SCOFFING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.28|<< Proverbs 19:28]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.1|Proverbs 20:1 >>]]</td></tr></table>
 

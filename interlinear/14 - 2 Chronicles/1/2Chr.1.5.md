@@ -1,8 +1,63 @@
+---
+title: 2 Chronicles 1:5
+type: Verse
+kjv: "Moreover the brasen altar, that Bezaleel the son of Uri, the son of Hur, had made, he put before the tabernacle of the LORD: and Solomon and the congregation sought unto it."
+bsb: "But the bronze altar made by Bezalel son of Uri, the son of Hur, was in Gibeon before the tabernacle of the LORD. So Solomon and the assembly inquired of Him there."
+hebrew: "וּמִזְבַּ֣ח הַנְּחֹ֗שֶׁת אֲשֶׁ֤ר עָשָׂה֙ בְּצַלְאֵל֙ בֶּן־ אוּרִ֣י בֶן־ ח֔וּר שָׂ֕ם לִפְנֵ֖י מִשְׁכַּ֣ן יְהוָ֑ה וַיִּדְרְשֵׁ֥הוּ שְׁלֹמֹ֖ה וְהַקָּהָֽל׃"
+pericope: "[[2Chr.1.1 Solomon’s Prayer for Wisdom|Solomon’s Prayer for Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 1
+book/chapter: "[[2Chr.1|2 Chronicles 1]]"
+chronological_order: 445
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic HUR|HUR]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H4196]]"
+- "[[H9009]]"
+- "[[H5178A]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H1212G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0221G]]"
+- "[[H2354G]]"
+- "[[H7760A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H4908]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H1875]]"
+- "[[H9033]]"
+- "[[H8010]]"
+- "[[H6951]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 1:5**<big><big>[[2Chr.1.1 Solomon’s Prayer for Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the brasen altar, that Bezaleel the son of Uri, the son of Hur, had made, he put before the tabernacle of the LORD: and Solomon and the congregation sought unto it.
 <small><sub>**BSB:**</sub></small>
 But the bronze altar made by Bezalel son of Uri, the son of Hur, was in Gibeon before the tabernacle of the LORD. So Solomon and the assembly inquired of Him there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4196\|מִזְבַּ֣ח]] [[H9009\|הַ]][[H5178A\|נְּחֹ֗שֶׁת]] [[H0834A\|אֲשֶׁ֤ר]] [[H6213H\|עָשָׂה֙]] [[H1212G\|בְּצַלְאֵל֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0221G\|אוּרִ֣י]] [[H1121A\|בֶן]][[H9014\|־]] [[H2354G\|ח֔וּר]] [[H7760A\|שָׂ֕ם]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H4908\|מִשְׁכַּ֣ן]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H1875\|יִּדְרְשֵׁ֥]][[H9033\|הוּ]] [[H8010\|שְׁלֹמֹ֖ה]] [[H9002\|וְ]][[H9009\|הַ]][[H6951\|קָּהָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HUR|HUR]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.1.4|<< 2 Chronicles 1:4]]</td><td align="center" style="border:none;">[[2Chr.1|2 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.1.6|2 Chronicles 1:6 >>]]</td></tr></table>
 

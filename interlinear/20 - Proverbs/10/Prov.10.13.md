@@ -1,8 +1,55 @@
+---
+title: Proverbs 10:13
+type: Verse
+kjv: "In the lips of him that hath understanding wisdom is found: but a rod is for the back of him that is void of understanding."
+bsb: "Wisdom is found on the lips of the discerning, but a rod is for the back of him who lacks judgment."
+hebrew: "בְּשִׂפְתֵ֣י נָ֭בוֹן תִּמָּצֵ֣א חָכְמָ֑ה וְ֝שֵׁ֗בֶט לְגֵ֣ו חֲסַר־ לֵֽב׃"
+pericope: "[[Prov.10.1 Solomon’s Proverbs：The Wise Son|Solomon’s Proverbs：The Wise Son]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 10
+book/chapter: "[[Prov.10|Proverbs 10]]"
+chronological_order: 465
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FOOL|FOOL]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9003]]"
+- "[[H8193G]]"
+- "[[H0995]]"
+- "[[H4672]]"
+- "[[H2451]]"
+- "[[H9002]]"
+- "[[H7626G]]"
+- "[[H9005]]"
+- "[[H1460A]]"
+- "[[H2638]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 10:13**<big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the lips of him that hath understanding wisdom is found: but a rod [is] for the back of him that is void of understanding.
 <small><sub>**BSB:**</sub></small>
 Wisdom is found on the lips of the discerning, but a rod is for the back of him who lacks judgment.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H8193G\|שִׂפְתֵ֣י]] [[H0995\|נָ֭בוֹן]] [[H4672\|תִּמָּצֵ֣א]] [[H2451\|חָכְמָ֑ה]] [[H9002\|וְ֝]][[H7626G\|שֵׁ֗בֶט]] [[H9005\|לְ]][[H1460A\|גֵ֣ו]] [[H2638\|חֲסַר]][[H9014\|־]] [[H3820A\|לֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FOOL|FOOL]] • [[topic SPEAKING|SPEAKING]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.12|<< Proverbs 10:12]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.14|Proverbs 10:14 >>]]</td></tr></table>
 

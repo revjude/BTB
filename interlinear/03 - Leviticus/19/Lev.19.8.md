@@ -1,8 +1,68 @@
+---
+title: Leviticus 19:8
+type: Verse
+kjv: "Therefore every one that eateth it shall bear his iniquity, because he hath profaned the hallowed thing of the LORD: and that soul shall be cut off from among his people."
+bsb: "Whoever eats it will bear his iniquity, for he has profaned what is holy to the LORD. That person must be cut off from his people."
+hebrew: "וְאֹֽכְלָיו֙ עֲוֹנ֣וֹ יִשָּׂ֔א כִּֽי־ אֶת־ קֹ֥דֶשׁ יְהוָ֖ה חִלֵּ֑ל וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵעַמֶּֽיהָ׃"
+pericope: "[[Lev.19.1 Commandments for Holiness|Commandments for Holiness]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 19
+book/chapter: "[[Lev.19|Leviticus 19]]"
+chronological_order: 151
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic SACRILEGE|SACRILEGE]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0398]]"
+- "[[H9033]]"
+- "[[H5771G]]"
+- "[[H9023]]"
+- "[[H5375J]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0853]]"
+- "[[H6944G]]"
+- "[[H3068G]]"
+- "[[H2490H]]"
+- "[[H9001]]"
+- "[[H3772I]]"
+- "[[H9009]]"
+- "[[H5315J]]"
+- "[[H1931]]"
+- "[[H9006]]"
+- "[[H5971B]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 19:8**<big><big>[[Lev.19.1 Commandments for Holiness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore [every one] that eateth it shall bear his iniquity, because he hath profaned the hallowed thing of the LORD: and that soul shall be cut off from among his people.
 <small><sub>**BSB:**</sub></small>
 Whoever eats it will bear his iniquity, for he has profaned what is holy to the LORD. That person must be cut off from his people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0398\|אֹֽכְלָי]][[H9033\|ו֙]] [[H5771G\|עֲוֹנ֣]][[H9023\|וֹ]] [[H5375J\|יִשָּׂ֔א]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0853\|אֶת]][[H9014\|־]] [[H6944G\|קֹ֥דֶשׁ]] [[H3068G\|יְהוָ֖ה]] [[H2490H\|חִלֵּ֑ל]] [[H9001\|וְ]][[H3772I\|נִכְרְתָ֛ה]] [[H9009\|הַ]][[H5315J\|נֶּ֥פֶשׁ]] [[H9009\|הַ]][[H1931\|הִ֖וא]] [[H9006\|מֵ]][[H5971B\|עַמֶּֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic SACRILEGE|SACRILEGE]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.7|<< Leviticus 19:7]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.9|Leviticus 19:9 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: 1 Kings 8:28
+type: Verse
+kjv: "Yet have thou respect unto the prayer of thy servant, and to his supplication, O LORD my God, to hearken unto the cry and to the prayer, which thy servant prayeth before thee to day:"
+bsb: "Yet regard the prayer and plea of Your servant, O LORD my God, so that You may hear the cry and the prayer that Your servant is praying before You today."
+hebrew: "וּפָנִ֜יתָ אֶל־ תְּפִלַּ֧ת עַבְדְּךָ֛ וְאֶל־ תְּחִנָּת֖וֹ יְהוָ֣ה אֱלֹהָ֑י לִשְׁמֹ֤עַ אֶל־ הָֽרִנָּה֙ וְאֶל־ הַתְּפִלָּ֔ה אֲשֶׁ֧ר עַבְדְּךָ֛ מִתְפַּלֵּ֥ל לְפָנֶ֖יךָ הַיּֽוֹם׃"
+pericope: "[[1Kgs.8.22 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H6437G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8605]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H8467]]"
+- "[[H9023]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H8085G]]"
+- "[[H9009]]"
+- "[[H7440]]"
+- "[[H0834A]]"
+- "[[H6419]]"
+- "[[H6440G]]"
+- "[[H3117L]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:28**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet have thou respect unto the prayer of thy servant, and to his supplication, O LORD my God, to hearken unto the cry and to the prayer, which thy servant prayeth before thee to day:
 <small><sub>**BSB:**</sub></small>
 Yet regard the prayer and plea of Your servant, O LORD my God, so that You may hear the cry and the prayer that Your servant is praying before You today.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H6437G\|פָנִ֜יתָ]] [[H0413\|אֶל]][[H9014\|־]] [[H8605\|תְּפִלַּ֧ת]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֛]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H8467\|תְּחִנָּת֖]][[H9023\|וֹ]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהָ֑]][[H9020\|י]] [[H9005\|לִ]][[H8085G\|שְׁמֹ֤עַ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָֽ]][[H7440\|רִנָּה֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H8605\|תְּפִלָּ֔ה]] [[H0834A\|אֲשֶׁ֧ר]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֛]] [[H6419\|מִתְפַּלֵּ֥ל]] [[H9005\|לְ]][[H6440G\|פָנֶ֖י]][[H9021\|ךָ]] [[H9009\|הַ]][[H3117L\|יּֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.27|<< 1 Kings 8:27]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.29|1 Kings 8:29 >>]]</td></tr></table>
 

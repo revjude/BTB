@@ -1,8 +1,67 @@
+---
+title: 1 Kings 20:29
+type: Verse
+kjv: "And they pitched one over against the other seven days. And so it was, that in the seventh day the battle was joined: and the children of Israel slew of the Syrians an hundred thousand footmen in one day."
+bsb: "For seven days the armies camped opposite each other, and on the seventh day the battle ensued, and the Israelites struck down the Arameans—a hundred thousand foot soldiers in one day."
+hebrew: "וַֽיַּחֲנ֧וּ אֵ֦לֶּה נֹ֥כַח אֵ֖לֶּה שִׁבְעַ֣ת יָמִ֑ים וַיְהִ֣י׀ בַּיּ֣וֹם הַשְּׁבִיעִ֗י וַתִּקְרַב֙ הַמִּלְחָמָ֔ה וַיַּכּ֨וּ בְנֵֽי־ יִשְׂרָאֵ֧ל אֶת־ אֲרָ֛ם מֵאָה־ אֶ֥לֶף רַגְלִ֖י בְּי֥וֹם אֶחָֽד׃"
+pericope: "[[1Kgs.20.26 Another War with Ben-hadad|Another War with Ben-hadad]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic APHEK|APHEK]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H2583]]"
+- "[[H0428]]"
+- "[[H5227]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H9009]]"
+- "[[H7637]]"
+- "[[H7126G]]"
+- "[[H4421]]"
+- "[[H5221]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H0758I]]"
+- "[[H3967]]"
+- "[[H0505G]]"
+- "[[H7273]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 20:29**<big><big>[[1Kgs.20.26 Another War with Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they pitched one over against the other seven days. And [so] it was, that in the seventh day the battle was joined: and the children of Israel slew of the Syrians an hundred thousand footmen in one day.
 <small><sub>**BSB:**</sub></small>
 For seven days the armies camped opposite each other, and on the seventh day the battle ensued, and the Israelites struck down the Arameans—a hundred thousand foot soldiers in one day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H2583\|יַּחֲנ֧וּ]] [[H0428\|אֵ֦לֶּה]] [[H5227\|נֹ֥כַח]] [[H0428\|אֵ֖לֶּה]] [[H7651\|שִׁבְעַ֣ת]] [[H3117G\|יָמִ֑ים]] [[H9001\|וַ]][[H1961\|יְהִ֣י]][[H9015\|׀]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֗י]] [[H9001\|וַ]][[H7126G\|תִּקְרַב֙]] [[H9009\|הַ]][[H4421\|מִּלְחָמָ֔ה]] [[H9001\|וַ]][[H5221\|יַּכּ֨וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֧ל]] [[H0853\|אֶת]][[H9014\|־]] [[H0758I\|אֲרָ֛ם]] [[H3967\|מֵאָה]][[H9014\|־]] [[H0505G\|אֶ֥לֶף]] [[H7273\|רַגְלִ֖י]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H0259\|אֶחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APHEK|APHEK]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.28|<< 1 Kings 20:28]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.30|1 Kings 20:30 >>]]</td></tr></table>
 

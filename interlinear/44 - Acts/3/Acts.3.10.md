@@ -1,10 +1,61 @@
+---
+title: Acts 3:10
+type: Verse
+kjv: "And they knew that it was he which sat for alms at the Beautiful gate of the temple: and they were filled with wonder and amazement at that which had happened unto him."
+bsb: "they recognized him as the man who used to sit begging at the Beautiful Gate of the temple, and they were filled with wonder and amazement at what had happened to him."
+greek: "ἐπεγίνωσκον δὲ αὐτὸν ὅτι αὐτὸς ἦν ὁ πρὸς τὴν ἐλεημοσύνην καθήμενος ἐπὶ τῇ ὡραίᾳ πύλῃ τοῦ ἱεροῦ, καὶ ἐπλήσθησαν θάμβους καὶ ἐκστάσεως ἐπὶ τῷ συμβεβηκότι αὐτῷ."
+pericope: "[[Acts.3.1 A Lame Man Walks|A Lame Man Walks]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 3
+book/chapter: "[[Acts.3|Acts 3]]"
+chronological_order: 1021
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic JOHN|JOHN]]"
+- "[[topic LAMENESS|LAMENESS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G1921]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G4314]]"
+- "[[G1654]]"
+- "[[G2521]]"
+- "[[G1909]]"
+- "[[G5611]]"
+- "[[G4439]]"
+- "[[G2411]]"
+- "[[G2532]]"
+- "[[G4130]]"
+- "[[G2285]]"
+- "[[G1611]]"
+- "[[G4819]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 3:10**<big><big>[[Acts.3.1 A Lame Man Walks|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they knew that it was he which sat for alms at the Beautiful gate of the temple: and they were filled with wonder and amazement at that which had happened unto him.
 <small><sub>**BSB:**</sub></small>
 they recognized him as the man who used to sit begging at the Beautiful Gate of the temple, and they were filled with wonder and amazement at what had happened to him.
-<small><sub>**Literal:**</sub></small>
-They were recognizing then him that he himself was the [one] for the alms sitting at the Beautiful Gate of the temple, and they were filled with wonder and amazement at that having happened to him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.9|<< Acts 3:9]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.11|Acts 3:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1921\|ἐπεγίνωσκον]]  [[G1161\|δὲ]]  [[G0846\|αὐτὸν]]  [[G3754G\|ὅτι]]  [[G0846\|αὐτὸς]]  [[G1510\|ἦν]]  [[G3588\|ὁ]]  [[G4314\|πρὸς]]  [[G3588\|τὴν]]  [[G1654\|ἐλεημοσύνην]]  [[G2521\|καθήμενος]]  [[G1909\|ἐπὶ]]  [[G3588\|τῇ]]  [[G5611\|ὡραίᾳ]]  [[G4439\|πύλῃ]]  [[G3588\|τοῦ]]  [[G2411\|ἱεροῦ,]]  [[G2532\|καὶ]]  [[G4130\|ἐπλήσθησαν]]  [[G2285\|θάμβους]]  [[G2532\|καὶ]]  [[G1611\|ἐκστάσεως]]  [[G1909\|ἐπὶ]]  [[G3588\|τῷ]]  [[G4819\|συμβεβηκότι]]  [[G0846\|αὐτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOHN|JOHN]] • [[topic LAMENESS|LAMENESS]] • [[topic MIRACLES|MIRACLES]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.9|<< Acts 3:9]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.11|Acts 3:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

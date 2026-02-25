@@ -1,8 +1,67 @@
+---
+title: 2 Kings 17:21
+type: Verse
+kjv: "For he rent Israel from the house of David; and they made Jeroboam the son of Nebat king: and Jeroboam drave Israel from following the LORD, and made them sin a great sin."
+bsb: "When the LORD had torn Israel away from the house of David, they made Jeroboam son of Nebat king, and Jeroboam led Israel away from following the LORD and caused them to commit a great sin."
+hebrew: "כִּֽי־ קָרַ֣ע יִשְׂרָאֵ֗ל מֵעַל֙ בֵּ֣ית דָּוִ֔ד וַיַּמְלִ֖יכוּ אֶת־ יָרָבְעָ֣ם בֶּן־ נְבָ֑ט וַיַּדַּ֨ח יָרָבְעָ֤ם אֶת־ יִשְׂרָאֵל֙ מֵאַחֲרֵ֣י יְהוָ֔ה וְהֶחֱטֵיאָ֖ם חֲטָאָ֥ה גְדוֹלָֽה׃"
+pericope: "[[2Kgs.17.5 Israel Carried Captive to Assyria|Israel Carried Captive to Assyria]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 17
+book/chapter: "[[2Kgs.17|2 Kings 17]]"
+chronological_order: 641
+era: Exile
+period: "The Assyrian Crisis and Fall of Israel"
+date: ~722 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7167]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H1004M]]"
+- "[[H1732]]"
+- "[[H9001]]"
+- "[[H4427A]]"
+- "[[H0853]]"
+- "[[H3379G]]"
+- "[[H1121A]]"
+- "[[H5028]]"
+- "[[H5077A]]"
+- "[[H5080]]"
+- "[[H0310A]]"
+- "[[H3068G]]"
+- "[[H2398]]"
+- "[[H9038]]"
+- "[[H2401]]"
+- "[[H1419A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Kings 17:21**<big><big>[[2Kgs.17.5 Israel Carried Captive to Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he rent Israel from the house of David; and they made Jeroboam the son of Nebat king: and Jeroboam drave Israel from following the LORD, and made them sin a great sin.
 <small><sub>**BSB:**</sub></small>
 When the LORD had torn Israel away from the house of David, they made Jeroboam son of Nebat king, and Jeroboam led Israel away from following the LORD and caused them to commit a great sin.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H7167\|קָרַ֣ע]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9006\|מֵ]][[H5921A\|עַל֙]] [[H1004M\|בֵּ֣ית]] [[H1732\|דָּוִ֔ד]] [[H9001\|וַ]][[H4427A\|יַּמְלִ֖יכוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3379G\|יָרָבְעָ֣ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5028\|נְבָ֑ט]] [[H9001\|וַ]][[H5080\|יַּדַּ֨ח]] [[H3379G\|יָרָבְעָ֤ם]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9006\|מֵ]][[H0310A\|אַחֲרֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וְ]][[H2398\|הֶחֱטֵיאָ֖]][[H9038\|ם]] [[H2401\|חֲטָאָ֥ה]] [[H1419A\|גְדוֹלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BABYLON|BABYLON]] • [[topic INFLUENCE|INFLUENCE]] • [[topic JUDGMENTS|JUDGMENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.20|<< 2 Kings 17:20]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.22|2 Kings 17:22 >>]]</td></tr></table>
 
@@ -30,7 +89,7 @@ When the LORD had torn Israel away from the house of David, they made Jeroboam s
 | great  |**<big>&#8207;[[H1419A\|גְדוֹלָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ge.do.Lah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.20|<< 2 Kings 17:20]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.22|2 Kings 17:22 >>]]</td></tr></table>
 
-[^1]: and he drove away  | **<big>[[H5077A|יַּדֵּא]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.de'<small><sup>[[HVhw3ms]]</sup></small> | K
-[^2]: and he drove away  | **<big>[[H5077A|יַּדֵּא]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.de'<small><sup>[[HVhw3ms]]</sup></small> | K
+[^1]: and he drove away  | **<big>[[H9001|וַ]]</big><big>[[H5077A|יַּדֵּא]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.de'<small><sup>[[HVhw3ms]]</sup></small> | K
+[^2]: and he drove away  | **<big>[[H9001|וַ]]</big><big>[[H5077A|יַּדֵּא]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.de'<small><sup>[[HVhw3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וַיַּדַּ֨א</big></span>**
 

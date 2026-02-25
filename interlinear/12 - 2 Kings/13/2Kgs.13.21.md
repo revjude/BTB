@@ -1,8 +1,71 @@
+---
+title: 2 Kings 13:21
+type: Verse
+kjv: "And it came to pass, as they were burying a man, that, behold, they spied a band of men; and they cast the man into the sepulchre of Elisha: and when the man was let down, and touched the bones of Elisha, he revived, and stood up on his feet."
+bsb: "Once, as the Israelites were burying a man, suddenly they saw a band of raiders, so they threw the man’s body into Elisha’s tomb. And as soon as his body touched the bones of Elisha, the man was revived and stood up on his feet."
+hebrew: "וַיְהִ֞י הֵ֣ם׀ קֹבְרִ֣ים אִ֗ישׁ וְהִנֵּה֙ רָא֣וּ אֶֽת־ הַגְּד֔וּד וַיַּשְׁלִ֥יכוּ אֶת־ הָאִ֖ישׁ בְּקֶ֣בֶר אֱלִישָׁ֑ע וַיֵּ֜לֶךְ וַיִּגַּ֤ע הָאִישׁ֙ בְּעַצְמ֣וֹת אֱלִישָׁ֔ע וַיְחִ֖י וַיָּ֥קָם עַל־ רַגְלָֽיו׃ פ"
+pericope: "[[2Kgs.13.14 Elisha’s Final Prophecy|Elisha’s Final Prophecy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 13
+book/chapter: "[[2Kgs.13|2 Kings 13]]"
+chronological_order: 590
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~798–782 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic JEHOASH|JEHOASH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1992]]"
+- "[[H9015]]"
+- "[[H6912]]"
+- "[[H0376G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1416]]"
+- "[[H7993]]"
+- "[[H9003]]"
+- "[[H6913]]"
+- "[[H0477]]"
+- "[[H1980G]]"
+- "[[H5060]]"
+- "[[H6106G]]"
+- "[[H2421]]"
+- "[[H6965I]]"
+- "[[H5921A]]"
+- "[[H7272]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Kings 13:21**<big><big>[[2Kgs.13.14 Elisha’s Final Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as they were burying a man, that, behold, they spied a band [of men]; and they cast the man into the sepulchre of Elisha: and when the man was let down, and touched the bones of Elisha, he revived, and stood up on his feet.
 <small><sub>**BSB:**</sub></small>
 Once, as the Israelites were burying a man, suddenly they saw a band of raiders, so they threw the man’s body into Elisha’s tomb. And as soon as his body touched the bones of Elisha, the man was revived and stood up on his feet.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֞י]] [[H1992\|הֵ֣ם]][[H9015\|׀]] [[H6912\|קֹבְרִ֣ים]] [[H0376G\|אִ֗ישׁ]] [[H9002\|וְ]][[H2009\|הִנֵּה֙]] [[H7200G\|רָא֣וּ]] [[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הַ]][[H1416\|גְּד֔וּד]] [[H9001\|וַ]][[H7993\|יַּשְׁלִ֥יכוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֖ישׁ]] [[H9003\|בְּ]][[H6913\|קֶ֣בֶר]] [[H0477\|אֱלִישָׁ֑ע]] [[H9001\|וַ]][[H1980G\|יֵּ֜לֶךְ]] [[H9001\|וַ]][[H5060\|יִּגַּ֤ע]] [[H9009\|הָ]][[H0376G\|אִישׁ֙]] [[H9003\|בְּ]][[H6106G\|עַצְמ֣וֹת]] [[H0477\|אֱלִישָׁ֔ע]] [[H9001\|וַ]][[H2421\|יְחִ֖י]] [[H9001\|וַ]][[H6965I\|יָּ֥קָם]] [[H5921A\|עַל]][[H9014\|־]] [[H7272\|רַגְלָֽי]][[H9023\|ו]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic ELISHA|ELISHA]] • [[topic JEHOASH|JEHOASH]] • [[topic MIRACLES|MIRACLES]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.13.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.13.20|<< 2 Kings 13:20]]</td><td align="center" style="border:none;">[[2Kgs.13|2 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.13.22|2 Kings 13:22 >>]]</td></tr></table>
 
@@ -29,7 +92,7 @@ Once, as the Israelites were burying a man, suddenly they saw a band of raiders,
 | and he lived  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2421\|יְחִ֖י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Chi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965I\|יָּ֥קָם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.kom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| feet his  |**<big>&#8207;[[H7272\|רַגְלָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| rag.La<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| feet his  |**<big>&#8207;[[H7272\|רַגְלָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| rag.La<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.13.20|<< 2 Kings 13:20]]</td><td align="center" style="border:none;">[[2Kgs.13|2 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.13.22|2 Kings 13:22 >>]]</td></tr></table>
 
 

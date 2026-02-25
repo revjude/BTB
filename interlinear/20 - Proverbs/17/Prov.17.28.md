@@ -1,8 +1,50 @@
+---
+title: Proverbs 17:28
+type: Verse
+kjv: "Even a fool, when he holdeth his peace, is counted wise: and he that shutteth his lips is esteemed a man of understanding."
+bsb: "Even a fool is considered wise if he keeps silent, and discerning when he holds his tongue."
+hebrew: "גַּ֤ם אֱוִ֣יל מַ֭חֲרִישׁ חָכָ֣ם יֵחָשֵׁ֑ב אֹטֵ֖ם שְׂפָתָ֣יו נָבֽוֹן׃"
+pericope: "[[Prov.17.1 Better a Dry Morsel in Quietness|Better a Dry Morsel in Quietness]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 17
+book/chapter: "[[Prov.17|Proverbs 17]]"
+chronological_order: 472
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H1571]]"
+- "[[H0191]]"
+- "[[H2790B]]"
+- "[[H2450]]"
+- "[[H2803J]]"
+- "[[H0331]]"
+- "[[H8193G]]"
+- "[[H9023]]"
+- "[[H0995]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 17:28**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even a fool, when he holdeth his peace, is counted wise: [and] he that shutteth his lips [is esteemed] a man of understanding.
 <small><sub>**BSB:**</sub></small>
 Even a fool is considered wise if he keeps silent, and discerning when he holds his tongue.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּ֤ם]] [[H0191\|אֱוִ֣יל]] [[H2790B\|מַ֭חֲרִישׁ]] [[H2450\|חָכָ֣ם]] [[H2803J\|יֵחָשֵׁ֑ב]] [[H0331\|אֹטֵ֖ם]] [[H8193G\|שְׂפָתָ֣י]][[H9023\|ו]] [[H0995\|נָבֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.27|<< Proverbs 17:27]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.1|Proverbs 18:1 >>]]</td></tr></table>
 

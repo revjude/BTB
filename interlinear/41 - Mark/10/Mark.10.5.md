@@ -1,10 +1,59 @@
+---
+title: Mark 10:5
+type: Verse
+kjv: "And Jesus answered and said unto them, For the hardness of your heart he wrote you this precept."
+bsb: "But Jesus told them, “Moses wrote this commandment for you because of your hardness of heart."
+jesus_said: "For the hardness of your heart he wrote you this precept."
+greek: "Καὶ ἀποκριθεὶς ὁ δὲ Ἰησοῦς εἶπεν αὐτοῖς· πρὸς τὴν σκληροκαρδίαν ὑμῶν ἔγραψεν ὑμῖν τὴν ἐντολὴν ταύτην·"
+pericope: "[[Mark.10.1 Teachings about Divorce|Teachings about Divorce]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic HEART|HEART]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+strongs:
+- "[[G2532]]"
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G4314]]"
+- "[[G4641]]"
+- "[[G4771]]"
+- "[[G1125]]"
+- "[[G1785]]"
+- "[[G3778]]"
+texts:
+- k
+- NKO
+- no
+---
+
 **Mark 10:5**<big><big>[[Mark.10.1 Teachings about Divorce|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus answered and said unto them, For the hardness of your heart he wrote you this precept.
 <small><sub>**BSB:**</sub></small>
 But Jesus told them, “Moses wrote this commandment for you because of your hardness of heart.
-<small><sub>**Literal:**</sub></small>
-and answering <the> But Jesus said to them; Because of the hardness of heart of you He wrote for you <the> commandment this;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.4|<< Mark 10:4]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.6|Mark 10:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0611\|ἀποκριθεὶς]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G4314\|πρὸς]]  [[G3588\|τὴν]]  [[G4641\|σκληροκαρδίαν]]  [[G4771\|ὑμῶν]]  [[G1125\|ἔγραψεν]]  [[G4771\|ὑμῖν]]  [[G3588\|τὴν]]  [[G1785\|ἐντολὴν]]  [[G3778\|ταύτην·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEART|HEART]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARRIAGE|MARRIAGE]] • [[topic POLYGAMY|POLYGAMY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.4|<< Mark 10:4]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.6|Mark 10:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

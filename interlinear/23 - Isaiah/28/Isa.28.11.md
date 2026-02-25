@@ -1,8 +1,57 @@
+---
+title: Isaiah 28:11
+type: Verse
+kjv: "For with stammering lips and another tongue will he speak to this people."
+bsb: "Indeed, with mocking lips and foreign tongues, He will speak to this people"
+hebrew: "כִּ֚י בְּלַעֲגֵ֣י שָׂפָ֔ה וּבְלָשׁ֖וֹן אַחֶ֑רֶת יְדַבֵּ֖ר אֶל־ הָעָ֥ם הַזֶּֽה׃"
+pericope: "[[Isa.28.1 The Captivity of Ephraim|The Captivity of Ephraim]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 28
+book/chapter: "[[Isa.28|Isaiah 28]]"
+chronological_order: 671
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H3934]]"
+- "[[H8193G]]"
+- "[[H9002]]"
+- "[[H3956H]]"
+- "[[H0312]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 28:11**<big><big>[[Isa.28.1 The Captivity of Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For with stammering lips and another tongue will he speak to this people.
 <small><sub>**BSB:**</sub></small>
 Indeed, with mocking lips and foreign tongues, He will speak to this people
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֚י]] [[H9003\|בְּ]][[H3934\|לַעֲגֵ֣י]] [[H8193G\|שָׂפָ֔ה]] [[H9002\|וּ]][[H9003\|בְ]][[H3956H\|לָשׁ֖וֹן]] [[H0312\|אַחֶ֑רֶת]] [[H1696G\|יְדַבֵּ֖ר]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֥ם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISAIAH|ISAIAH]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.10|<< Isaiah 28:10]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.12|Isaiah 28:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Further Sayings of the Wise
+type: Pericope
 pericope: "[[Prov.24.23 Further Sayings of the Wise|Further Sayings of the Wise]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 24
 book/chapter: "[[Prov.24|Proverbs 24]]"
-genre:
+chronological_order: 479
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 12
 verses:
 - "[[Prov.24.23]]"
 - "[[Prov.24.24]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Prov.24.34]]"
 ---
 
-[[Prov.24|Proverbs 24:23 - Proverbs 24:34]]
+<small>[[Prov.24|Proverbs 24:23-34]]</small>
 *Further Sayings of the Wise*
 
 [[Prov.24.23|23]] These \[things\] also \[belong\] to the wise. \[It is\] not good to have respect of persons in judgment.

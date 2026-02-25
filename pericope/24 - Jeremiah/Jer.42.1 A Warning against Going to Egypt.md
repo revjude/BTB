@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Warning against Going to Egypt
+type: Pericope
 pericope: "[[Jer.42.1 A Warning against Going to Egypt|A Warning against Going to Egypt]]"
-verse_count: 22
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 42
 book/chapter: "[[Jer.42|Jeremiah 42]]"
-genre:
+chronological_order: 765
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 22
 verses:
 - "[[Jer.42.1]]"
 - "[[Jer.42.2]]"
@@ -42,7 +49,7 @@ verses:
 - "[[Jer.42.22]]"
 ---
 
-[[Jer.42|Jeremiah 42:1 - Jeremiah 42:22]]
+<small>[[Jer.42|Jeremiah 42:1-22]]</small>
 *A Warning against Going to Egypt*
 
 [[Jer.42.1|1]] Then all the captains of the forces, and Johanan the son of Kareah, and Jezaniah the son of Hoshaiah, and all the people from the least even unto the greatest, came near,

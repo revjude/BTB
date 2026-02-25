@@ -1,8 +1,67 @@
+---
+title: Exodus 22:16
+type: Verse
+kjv: "And if a man entice a maid that is not betrothed, and lie with her, he shall surely endow her to be his wife."
+bsb: "If a man seduces a virgin who is not pledged in marriage and sleeps with her, he must pay the full dowry for her to be his wife."
+hebrew: "וְכִֽי־ יְפַתֶּ֣ה אִ֗ישׁ בְּתוּלָ֛ה אֲשֶׁ֥ר לֹא־ אֹרָ֖שָׂה וְשָׁכַ֣ב עִמָּ֑הּ מָהֹ֛ר יִמְהָרֶ֥נָּה לּ֖וֹ לְאִשָּֽׁה׃"
+pericope: "[[Exod.22.16 Laws of Social Responsibility|Laws of Social Responsibility]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 22
+book/chapter: "[[Exod.22|Exodus 22]]"
+chronological_order: 114
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic DOWRY|DOWRY]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic SEDUCTION|SEDUCTION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6601B]]"
+- "[[H0376G]]"
+- "[[H1330]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H0781]]"
+- "[[H9001]]"
+- "[[H7901I]]"
+- "[[H5973A]]"
+- "[[H9034]]"
+- "[[H4117]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0802H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 22:16**<big><big>[[Exod.22.16 Laws of Social Responsibility|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if a man entice a maid that is not betrothed, and lie with her, he shall surely endow her to be his wife.
 <small><sub>**BSB:**</sub></small>
 If a man seduces a virgin who is not pledged in marriage and sleeps with her, he must pay the full dowry for her to be his wife.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H6601B\|יְפַתֶּ֣ה]] [[H0376G\|אִ֗ישׁ]] [[H1330\|בְּתוּלָ֛ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹא]][[H9014\|־]] [[H0781\|אֹרָ֖שָׂה]] [[H9001\|וְ]][[H7901I\|שָׁכַ֣ב]] [[H5973A\|עִמָּ֑]][[H9034\|הּ]] [[H4117\|מָהֹ֛ר]] [[H4117\|יִמְהָרֶ֥]][[H9034\|נָּה]] [[H9005\|לּ֖]][[H9033\|וֹ]] [[H9005\|לְ]][[H0802H\|אִשָּֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic DOWRY|DOWRY]] • [[topic MARRIAGE|MARRIAGE]] • [[topic SEDUCTION|SEDUCTION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.15|<< Exodus 22:15]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.17|Exodus 22:17 >>]]</td></tr></table>
 

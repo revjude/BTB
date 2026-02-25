@@ -1,8 +1,57 @@
+---
+title: Joshua 23:5
+type: Verse
+kjv: "And the LORD your God, he shall expel them from before you, and drive them from out of your sight; and ye shall possess their land, as the LORD your God hath promised unto you."
+bsb: "The LORD your God will push them out of your way and drive them out before you, so that you can take possession of their land, as the LORD your God promised you."
+hebrew: "וַיהוָ֣ה אֱלֹֽהֵיכֶ֗ם ה֚וּא יֶהְדֳּפֵ֣ם מִפְּנֵיכֶ֔ם וְהוֹרִ֥ישׁ אֹתָ֖ם מִלִּפְנֵיכֶ֑ם וִֽירִשְׁתֶּם֙ אֶת־ אַרְצָ֔ם כַּאֲשֶׁ֥ר דִּבֶּ֛ר יְהוָ֥ה אֱלֹהֵיכֶ֖ם לָכֶֽם׃"
+pericope: "[[Josh.23.1 Joshua’s Charge to Leaders|Joshua’s Charge to Leaders]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 23
+book/chapter: "[[Josh.23|Joshua 23]]"
+chronological_order: 253
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+strongs:
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H1931]]"
+- "[[H1920]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9001]]"
+- "[[H3423H]]"
+- "[[H0853]]"
+- "[[H9005]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9028]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696I]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 23:5**<big><big>[[Josh.23.1 Joshua’s Charge to Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD your God, he shall expel them from before you, and drive them from out of your sight; and ye shall possess their land, as the LORD your God hath promised unto you.
 <small><sub>**BSB:**</sub></small>
 The LORD your God will push them out of your way and drive them out before you, so that you can take possession of their land, as the LORD your God promised you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H3068G\|יהוָ֣ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶ֗ם]] [[H1931\|ה֚וּא]] [[H1920\|יֶהְדֳּפֵ֣]][[H9038\|ם]] [[H9006\|מִ]][[H6440G\|פְּנֵי]][[H9026\|כֶ֔ם]] [[H9001\|וְ]][[H3423H\|הוֹרִ֥ישׁ]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H9006\|מִ]][[H9005\|לִּ]][[H6440G\|פְנֵי]][[H9026\|כֶ֑ם]] [[H9001\|וִֽ]][[H3423H\|ירִשְׁתֶּם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אַרְצָ֔]][[H9028\|ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H1696I\|דִּבֶּ֛ר]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֖ם]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.23.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.23.4|<< Joshua 23:4]]</td><td align="center" style="border:none;">[[Josh.23|Joshua 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.23.6|Joshua 23:6 >>]]</td></tr></table>
 

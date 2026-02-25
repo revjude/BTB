@@ -1,10 +1,54 @@
+---
+title: Luke 2:47
+type: Verse
+kjv: "And all that heard him were astonished at his understanding and answers."
+bsb: "And all who heard Him were astounded at His understanding and His answers."
+greek: "ἐξίσταντο δὲ πάντες οἱ ἀκούοντες αὐτοῦ ἐπὶ τῇ συνέσει καὶ ταῖς ἀποκρίσεσιν αὐτοῦ."
+pericope: "[[Luke.2.41 The Boy Jesus at the Temple|The Boy Jesus at the Temple]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[G1839]]"
+- "[[G1161]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0191]]"
+- "[[G0846]]"
+- "[[G1909]]"
+- "[[G4907]]"
+- "[[G2532]]"
+- "[[G0612]]"
+texts:
+- NKO
+---
+
 **Luke 2:47**<big><big>[[Luke.2.41 The Boy Jesus at the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And all that heard him were astonished at his understanding and answers.
 <small><sub>**BSB:**</sub></small>
 And all who heard Him were astounded at His understanding and His answers.
-<small><sub>**Literal:**</sub></small>
-Were amazed then all those hearing Him at the understanding and at the answers of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.46|<< Luke 2:46]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.48|Luke 2:48 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1839\|ἐξίσταντο]]  [[G1161\|δὲ]]  [[G3956\|πάντες]]  [[G3588\|οἱ]]  [[G0191\|ἀκούοντες]]  [[G0846\|αὐτοῦ]]  [[G1909\|ἐπὶ]]  [[G3588\|τῇ]]  [[G4907\|συνέσει]]  [[G2532\|καὶ]]  [[G3588\|ταῖς]]  [[G0612\|ἀποκρίσεσιν]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic PASSOVER|PASSOVER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.46|<< Luke 2:46]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.48|Luke 2:48 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,56 @@
+---
+title: Job 35:14
+type: Verse
+kjv: "Although thou sayest thou shalt not see him, yet judgment is before him; therefore trust thou in him."
+bsb: "How much less, then, when you say that you do not see Him, that your case is before Him and you must wait for Him,"
+hebrew: "אַ֣ף כִּֽי־ תֹ֭אמַר לֹ֣א תְשׁוּרֶ֑נּוּ דִּ֥ין לְ֝פָנָ֗יו וּתְח֥וֹלֵֽל לֽוֹ׃"
+pericope: "[[Job.35.1 Elihu Recalls God’s Justice|Elihu Recalls God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 35
+book/chapter: "[[Job.35|Job 35]]"
+chronological_order: 46
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0637]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H7789]]"
+- "[[H9033]]"
+- "[[H1779]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H2342K]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 35:14**<big><big>[[Job.35.1 Elihu Recalls God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Although thou sayest thou shalt not see him, [yet] judgment [is] before him; therefore trust thou in him.
 <small><sub>**BSB:**</sub></small>
 How much less, then, when you say that you do not see Him, that your case is before Him and you must wait for Him,
+<small><sub>**Hebrew:**</sub></small>
+[[H0637\|אַ֣ף]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0559\|תֹ֭אמַר]] [[H3808\|לֹ֣א]] [[H7789\|תְשׁוּרֶ֑]][[H9033\|נּוּ]] [[H1779\|דִּ֥ין]] [[H9005\|לְ֝]][[H6440G\|פָנָ֗י]][[H9023\|ו]] [[H9002\|וּ]][[H2342K\|תְח֥וֹלֵֽל]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.35.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.35.13|<< Job 35:13]]</td><td align="center" style="border:none;">[[Job.35|Job 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.35.15|Job 35:15 >>]]</td></tr></table>
 

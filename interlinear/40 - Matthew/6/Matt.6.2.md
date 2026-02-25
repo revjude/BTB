@@ -1,10 +1,76 @@
+---
+title: Matthew 6:2
+type: Verse
+kjv: "Therefore when thou doest thine alms, do not sound a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Verily I say unto you, They have their reward."
+bsb: "So when you give to the needy, do not sound a trumpet before you, as the hypocrites do in the synagogues and on the streets, to be honored by men. Truly I tell you, they already have their full reward."
+jesus_said: "Therefore when thou doest thine alms, do not sound a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Verily I say unto you, They have their reward."
+greek: "Ὅταν οὖν ποιῇς ἐλεημοσύνην, μὴ σαλπίσῃς ἔμπροσθέν σου, ὥσπερ οἱ ὑποκριταὶ ποιοῦσιν ἐν ταῖς συναγωγαῖς καὶ ἐν ταῖς ῥύμαις ὅπως δοξασθῶσιν ὑπὸ τῶν ἀνθρώπων. ἀμὴν λέγω ὑμῖν· ἀπέχουσιν τὸν μισθὸν αὐτῶν."
+pericope: "[[Matt.6.1 Giving to the Needy|Giving to the Needy]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 6
+book/chapter: "[[Matt.6|Matthew 6]]"
+chronological_order: 944
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GIVING|GIVING]]"
+- "[[topic GLORY|GLORY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic TRUMPET|TRUMPET]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3752]]"
+- "[[G3767]]"
+- "[[G4160G]]"
+- "[[G1654]]"
+- "[[G3361]]"
+- "[[G4537]]"
+- "[[G1715]]"
+- "[[G4771]]"
+- "[[G5618]]"
+- "[[G3588]]"
+- "[[G5273]]"
+- "[[G1722]]"
+- "[[G4864]]"
+- "[[G2532]]"
+- "[[G4505]]"
+- "[[G3704]]"
+- "[[G1392]]"
+- "[[G5259G]]"
+- "[[G0444]]"
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G0568]]"
+- "[[G3408]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Matthew 6:2**<big><big>[[Matt.6.1 Giving to the Needy|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore when thou doest [thine] alms, do not sound a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Verily I say unto you, They have their reward.
 <small><sub>**BSB:**</sub></small>
 So when you give to the needy, do not sound a trumpet before you, as the hypocrites do in the synagogues and on the streets, to be honored by men. Truly I tell you, they already have their full reward.
-<small><sub>**Literal:**</sub></small>
-When therefore you may do acts of charity, not may sound a trumpet before you, as the hypocrites do in the synagogues and in the streets so that they may have glory from <the> men. Amen I say to you; they have the reward of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.1|<< Matthew 6:1]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.3|Matthew 6:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3752\|Ὅταν]]  [[G3767\|οὖν]]  [[G4160G\|ποιῇς]]  [[G1654\|ἐλεημοσύνην,]]  [[G3361\|μὴ]]  [[G4537\|σαλπίσῃς]]  [[G1715\|ἔμπροσθέν]]  [[G4771\|σου,]]  [[G5618\|ὥσπερ]]  [[G3588\|οἱ]]  [[G5273\|ὑποκριταὶ]]  [[G4160G\|ποιοῦσιν]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G4864\|συναγωγαῖς]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G4505\|ῥύμαις]]  [[G3704\|ὅπως]]  [[G1392\|δοξασθῶσιν]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G0444\|ἀνθρώπων.]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G0568\|ἀπέχουσιν]]  [[G3588\|τὸν]]  [[G3408\|μισθὸν]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GIVING|GIVING]] • [[topic GLORY|GLORY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MOTIVE|MOTIVE]] • [[topic PHARISEES|PHARISEES]] • [[topic RELIGION|RELIGION]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic TRUMPET|TRUMPET]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.1|<< Matthew 6:1]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.3|Matthew 6:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

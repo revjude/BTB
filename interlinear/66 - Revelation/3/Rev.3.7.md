@@ -1,10 +1,72 @@
+---
+title: Revelation 3:7
+type: Verse
+kjv: "And to the angel of the church in Philadelphia write; These things saith he that is holy, he that is true, he that hath the key of David, he that openeth, and no man shutteth; and shutteth, and no man openeth;"
+bsb: "To the angel of the church in Philadelphia write: These are the words of the One who is holy and true, who holds the key of David. What He opens no one can shut, and what He shuts no one can open."
+jesus_said: "And to the angel of the church in Philadelphia write; These things saith he that is holy, he that is true, he that hath the key of David, he that openeth, and no man shutteth; and shutteth, and no man openeth;"
+greek: "Καὶ τῷ ἀγγέλῳ τῆς ἐν Φιλαδελφείᾳ ἐκκλησίας γράψον· τάδε λέγει ὁ ἅγιος, ὁ ἀληθινός, ὁ ἔχων τὴν κλεῖν τοῦ Δαυίδ, ὁ ἀνοίγων καὶ οὐδεὶς κλείσει αὐτήν εἴ μὴ ὁ ἀνοίγων· καὶ κλείων καὶ οὐδεὶς ἀνοίγει·"
+pericope: "[[Rev.3.7 To the Church in Philadelphia|To the Church in Philadelphia]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 3
+book/chapter: "[[Rev.3|Revelation 3]]"
+chronological_order: 1170
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL OF THE CHURCHES|ANGEL OF THE CHURCHES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DOOR|DOOR]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KEY|KEY]]"
+- "[[topic PHILADELPHIA|PHILADELPHIA]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0032G]]"
+- "[[G1722]]"
+- "[[G5359]]"
+- "[[G1577]]"
+- "[[G1125]]"
+- "[[G3592]]"
+- "[[G3004G]]"
+- "[[G0040G]]"
+- "[[G0228]]"
+- "[[G2192]]"
+- "[[G2807]]"
+- "[[G1138]]"
+- "[[G0455]]"
+- "[[G3762]]"
+- "[[G2808]]"
+- "[[G0846]]"
+- "[[G1487G]]"
+- "[[G3361]]"
+texts:
+- NKO
+- k
+- N(k)O
+- O
+- NK(o)
+---
+
 **Revelation 3:7**<big><big>[[Rev.3.7 To the Church in Philadelphia|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And to the angel of the church in Philadelphia write; These things saith he that is holy, he that is true, he that hath the key of David, he that openeth, and no man shutteth; and shutteth, and no man openeth;
 <small><sub>**BSB:**</sub></small>
 To the angel of the church in Philadelphia write: These are the words of the One who is holy and true, who holds the key of David. What He opens no one can shut, and what He shuts no one can open.
-<small><sub>**Literal:**</sub></small>
-And to the angel of the in Philadelphia church do write: These things says the Holy [One], the True [One], who is having the key <the> of David, who is opening and no [one] will shut it (only except that which is being open); and shutting and no [one] opens;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.6|<< Revelation 3:6]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.8|Revelation 3:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3588\|τῷ]]  [[G0032G\|ἀγγέλῳ]]  [[G3588\|τῆς]]  [[G1722\|ἐν]]  [[G5359\|Φιλαδελφείᾳ]]  [[G1577\|ἐκκλησίας]]  [[G1125\|γράψον·]]  [[G3592\|τάδε]]  [[G3004G\|λέγει]]  [[G3588\|ὁ]]  [[G0040G\|ἅγιος,]]  [[G3588\|ὁ]]  [[G0228\|ἀληθινός,]]  [[G3588\|ὁ]]  [[G2192\|ἔχων]]  [[G3588\|τὴν]]  [[G2807\|κλεῖν]]  [[G3588\|τοῦ]]  [[G1138\|Δαυίδ,]]  [[G3588\|ὁ]]  [[G0455\|ἀνοίγων]]  [[G2532\|καὶ]]  [[G3762\|οὐδεὶς]]  [[G2808\|κλείσει]]  [[G0846\|αὐτήν]]  [[G1487G\|εἴ]]  [[G3361\|μὴ]]  [[G3588\|ὁ]]  [[G0455\|ἀνοίγων·]]  [[G2532\|καὶ]]  [[G2808\|κλείων]]  [[G2532\|καὶ]]  [[G3762\|οὐδεὶς]]  [[G0455\|ἀνοίγει·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL OF THE CHURCHES|ANGEL OF THE CHURCHES]] • [[topic CHURCH|CHURCH]] • [[topic DOOR|DOOR]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KEY|KEY]] • [[topic PHILADELPHIA|PHILADELPHIA]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.6|<< Revelation 3:6]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.8|Revelation 3:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 3:7** is...
 > $\quad$ possibly alluding to: [[LXX.Job.12.14|Job 12:14]]

@@ -1,8 +1,54 @@
+---
+title: Job 13:2
+type: Verse
+kjv: "What ye know, the same do I know also: I am not inferior unto you."
+bsb: "What you know, I also know; I am not inferior to you."
+hebrew: "כְּֽ֭דַעְתְּכֶם יָדַ֣עְתִּי גַם־ אָ֑נִי לֹא־ נֹפֵ֖ל אָנֹכִ֣י מִכֶּֽם׃"
+pericope: "[[Job.13.1 Job Prepares His Case|Job Prepares His Case]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 13
+book/chapter: "[[Job.13|Job 13]]"
+chronological_order: 24
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H9004]]"
+- "[[H1847]]"
+- "[[H9026]]"
+- "[[H3045]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H3808]]"
+- "[[H5307G]]"
+- "[[H0595]]"
+- "[[H9006]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 13:2**<big><big>[[Job.13.1 Job Prepares His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What ye know, [the same] do I know also: I [am] not inferior unto you.
 <small><sub>**BSB:**</sub></small>
 What you know, I also know; I am not inferior to you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּֽ֭]][[H1847\|דַעְתְּ]][[H9026\|כֶם]] [[H3045\|יָדַ֣עְתִּי]] [[H1571\|גַם]][[H9014\|־]] [[H0589\|אָ֑נִי]] [[H3808\|לֹא]][[H9014\|־]] [[H5307G\|נֹפֵ֖ל]] [[H0595\|אָנֹכִ֣י]] [[H9006\|מִ]][[H9036\|כֶּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.13.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.13.1|<< Job 13:1]]</td><td align="center" style="border:none;">[[Job.13|Job 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13.3|Job 13:3 >>]]</td></tr></table>
 

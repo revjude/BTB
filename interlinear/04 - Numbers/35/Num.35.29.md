@@ -1,8 +1,58 @@
+---
+title: Numbers 35:29
+type: Verse
+kjv: "So these things shall be for a statute of judgment unto you throughout your generations in all your dwellings."
+bsb: "This will be a statutory ordinance for you for the generations to come, wherever you live."
+hebrew: "וְהָי֨וּ אֵ֧לֶּה לָכֶ֛ם לְחֻקַּ֥ת מִשְׁפָּ֖ט לְדֹרֹתֵיכֶ֑ם בְּכֹ֖ל מוֹשְׁבֹתֵיכֶֽם׃"
+pericope: "[[Num.35.9 Six Cities of Refuge|Six Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 35
+book/chapter: "[[Num.35|Numbers 35]]"
+chronological_order: 195
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]]"
+- "[[topic REFUGE|REFUGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0428]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H2708]]"
+- "[[H4941G]]"
+- "[[H1755]]"
+- "[[H9026]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H4186]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 35:29**<big><big>[[Num.35.9 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So these [things] shall be for a statute of judgment unto you throughout your generations in all your dwellings.
 <small><sub>**BSB:**</sub></small>
 This will be a statutory ordinance for you for the generations to come, wherever you live.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָי֨וּ]] [[H0428\|אֵ֧לֶּה]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H9005\|לְ]][[H2708\|חֻקַּ֥ת]] [[H4941G\|מִשְׁפָּ֖ט]] [[H9005\|לְ]][[H1755\|דֹרֹתֵי]][[H9026\|כֶ֑ם]] [[H9003\|בְּ]][[H3605\|כֹ֖ל]] [[H4186\|מוֹשְׁבֹתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]] • [[topic REFUGE|REFUGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.28|<< Numbers 35:28]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.30|Numbers 35:30 >>]]</td></tr></table>
 

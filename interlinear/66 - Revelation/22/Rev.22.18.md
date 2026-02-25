@@ -1,10 +1,63 @@
+---
+title: Revelation 22:18
+type: Verse
+kjv: "For I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto these things, God shall add unto him the plagues that are written in this book:"
+bsb: "I testify to everyone who hears the words of prophecy in this book: If anyone adds to them, God will add to him the plagues described in this book."
+greek: "Μαρτυρῶ ἐγὼ παντὶ τῷ ἀκούοντι τοὺς λόγους τῆς προφητείας τοῦ βιβλίου τούτου· ἐάν τις ἐπιθῇ ἐπ᾽ αὐτά, ἐπιθήσει ὁ θεὸς ἐπ᾽ αὐτὸν τὰς πληγὰς τὰς γεγραμμένας ἐν τῷ βιβλίῳ τούτῳ."
+pericope: "[[Rev.22.18 Nothing May Be Added or Removed|Nothing May Be Added or Removed]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 22
+book/chapter: "[[Rev.22|Revelation 22]]"
+chronological_order: 1189
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3140]]"
+- "[[G1473]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0191]]"
+- "[[G3056]]"
+- "[[G4394]]"
+- "[[G0975]]"
+- "[[G3778]]"
+- "[[G1437]]"
+- "[[G5100]]"
+- "[[G2007]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G2316]]"
+- "[[G4127]]"
+- "[[G1125]]"
+- "[[G1722]]"
+texts:
+- N(k)O
+- NKO
+- NK(o)
+---
+
 **Revelation 22:18**<big><big>[[Rev.22.6 Jesus Is Coming|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto these things, God shall add unto him the plagues that are written in this book:
 <small><sub>**BSB:**</sub></small>
 I testify to everyone who hears the words of prophecy in this book: If anyone adds to them, God will add to him the plagues described in this book.
-<small><sub>**Literal:**</sub></small>
-Testify I myself to everyone who is hearing the words of the prophecy of the book this: If anyone shall add to these things, will add <the> God unto him the plagues which written in <the> book this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.17|<< Revelation 22:17]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.19|Revelation 22:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3140\|Μαρτυρῶ]]  [[G1473\|ἐγὼ]]  [[G3956\|παντὶ]]  [[G3588\|τῷ]]  [[G0191\|ἀκούοντι]]  [[G3588\|τοὺς]]  [[G3056\|λόγους]]  [[G3588\|τῆς]]  [[G4394\|προφητείας]]  [[G3588\|τοῦ]]  [[G0975\|βιβλίου]]  [[G3778\|τούτου·]]  [[G1437\|ἐάν]]  [[G5100\|τις]]  [[G2007\|ἐπιθῇ]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτά,]]  [[G2007\|ἐπιθήσει]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτὸν]]  [[G3588\|τὰς]]  [[G4127\|πληγὰς]]  [[G3588\|τὰς]]  [[G1125\|γεγραμμένας]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0975\|βιβλίῳ]]  [[G3778\|τούτῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PLAGUE|PLAGUE]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.17|<< Revelation 22:17]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.19|Revelation 22:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 22:18** is...
 > $\quad$ alluding to: [[LXX.Deut.4.2|Deut 4:2]] ☩ [[LXX.Deut.12.32|Deut 12:32]]

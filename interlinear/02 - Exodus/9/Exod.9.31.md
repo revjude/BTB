@@ -1,8 +1,61 @@
+---
+title: Exodus 9:31
+type: Verse
+kjv: "And the flax and the barley was smitten: for the barley was in the ear, and the flax was bolled."
+bsb: "(Now the flax and barley were destroyed, since the barley was ripe and the flax was in bloom;"
+hebrew: "וְהַפִּשְׁתָּ֥ה וְהַשְּׂעֹרָ֖ה נֻכָּ֑תָה כִּ֤י הַשְּׂעֹרָה֙ אָבִ֔יב וְהַפִּשְׁתָּ֖ה גִּבְעֹֽל׃"
+pericope: "[[Exod.9.13 The Seventh Plague：Hail|The Seventh Plague：Hail]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 9
+book/chapter: "[[Exod.9|Exodus 9]]"
+chronological_order: 101
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BARLEY|BARLEY]]"
+- "[[topic FLAX|FLAX]]"
+- "[[topic HARVEST|HARVEST]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic THUNDER|THUNDER]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H6594]]"
+- "[[H8184]]"
+- "[[H5221]]"
+- "[[H3588A]]"
+- "[[H0024]]"
+- "[[H1392]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 9:31**<big><big>[[Exod.9.13 The Seventh Plague：Hail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the flax and the barley was smitten: for the barley [was] in the ear, and the flax [was] bolled.
 <small><sub>**BSB:**</sub></small>
 (Now the flax and barley were destroyed, since the barley was ripe and the flax was in bloom;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H6594\|פִּשְׁתָּ֥ה]] [[H9002\|וְ]][[H9009\|הַ]][[H8184\|שְּׂעֹרָ֖ה]] [[H5221\|נֻכָּ֑תָה]] [[H3588A\|כִּ֤י]] [[H9009\|הַ]][[H8184\|שְּׂעֹרָה֙]] [[H0024\|אָבִ֔יב]] [[H9002\|וְ]][[H9009\|הַ]][[H6594\|פִּשְׁתָּ֖ה]] [[H1392\|גִּבְעֹֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BARLEY|BARLEY]] • [[topic FLAX|FLAX]] • [[topic HARVEST|HARVEST]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PLAGUE|PLAGUE]] • [[topic THUNDER|THUNDER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.30|<< Exodus 9:30]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.32|Exodus 9:32 >>]]</td></tr></table>
 

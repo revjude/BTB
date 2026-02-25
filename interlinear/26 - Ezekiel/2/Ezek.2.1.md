@@ -1,8 +1,59 @@
+---
+title: Ezekiel 2:1
+type: Verse
+kjv: "And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee."
+bsb: "“Son of man,” He said to me, “stand up on your feet and I will speak to you.”"
+hebrew: "וַיֹּ֖אמֶר אֵלָ֑י בֶּן־ אָדָם֙ עֲמֹ֣ד עַל־ רַגְלֶ֔יךָ וַאֲדַבֵּ֖ר אֹתָֽךְ׃"
+pericope: "[[Ezek.2.1 Ezekiel’s Call|Ezekiel’s Call]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 2
+book/chapter: "[[Ezek.2|Ezekiel 2]]"
+chronological_order: 793
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H5975G]]"
+- "[[H5921A]]"
+- "[[H7272]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H1696G]]"
+- "[[H0853]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 2:1**<big><big>[[Ezek.2.1 Ezekiel’s Call|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee.
 <small><sub>**BSB:**</sub></small>
 “Son of man,” He said to me, “stand up on your feet and I will speak to you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H0413\|אֵלָ֑]][[H9030\|י]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָם֙]] [[H5975G\|עֲמֹ֣ד]] [[H5921A\|עַל]][[H9014\|־]] [[H7272\|רַגְלֶ֔י]][[H9021\|ךָ]] [[H9002\|וַ]][[H1696G\|אֲדַבֵּ֖ר]] [[H0853\|אֹתָֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.28|<< Ezekiel 1:28]]</td><td align="center" style="border:none;">[[Ezek.2|Ezekiel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.2.2|Ezekiel 2:2 >>]]</td></tr></table>
 

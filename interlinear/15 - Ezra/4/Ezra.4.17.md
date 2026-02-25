@@ -1,8 +1,69 @@
+---
+title: Ezra 4:17
+type: Verse
+kjv: "Then sent the king an answer unto Rehum the chancellor, and to Shimshai the scribe, and to the rest of their companions that dwell in Samaria, and unto the rest beyond the river, Peace, and at such a time."
+bsb: "Then the king sent this reply: To Rehum the commander, Shimshai the scribe, and the rest of your associates living in Samaria and elsewhere in the region west of the Euphrates: Greetings."
+aramaic: "פִּתְגָמָ֞א שְׁלַ֣ח מַלְכָּ֗א עַל־ רְח֤וּם בְּעֵל־ טְעֵם֙ וְשִׁמְשַׁ֣י סָֽפְרָ֔א וּשְׁאָר֙ כְּנָוָ֣תְה֔וֹן דִּ֥י יָתְבִ֖ין בְּשָֽׁמְרָ֑יִן וּשְׁאָ֧ר עֲבַֽר־ נַהֲרָ֛ה שְׁלָ֖ם וּכְעֶֽת׃ ס"
+pericope: "[[Ezra.4.17 The Decree of Artaxerxes|The Decree of Artaxerxes]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 4
+book/chapter: "[[Ezra.4|Ezra 4]]"
+chronological_order: 852
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic ARTAXERXES|ARTAXERXES]]"
+- "[[topic BISHLAM|BISHLAM]]"
+- "[[topic CHANCELLOR|CHANCELLOR]]"
+- "[[topic REHUM|REHUM]]"
+- "[[topic SHIMSHAI|SHIMSHAI]]"
+strongs:
+- "[[H6600]]"
+- "[[H9010]]"
+- "[[H7972]]"
+- "[[H4430]]"
+- "[[H5922]]"
+- "[[H9014]]"
+- "[[H7348B]]"
+- "[[H1169]]"
+- "[[H2942]]"
+- "[[H9002]]"
+- "[[H8124]]"
+- "[[H5613]]"
+- "[[H7606]]"
+- "[[H3675]]"
+- "[[H9028]]"
+- "[[H1768]]"
+- "[[H3488]]"
+- "[[H9003]]"
+- "[[H8115]]"
+- "[[H5675]]"
+- "[[H5103G]]"
+- "[[H8001]]"
+- "[[H3706]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezra 4:17**<big><big>[[Ezra.4.17 The Decree of Artaxerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Then] sent the king an answer unto Rehum the chancellor, and [to] Shimshai the scribe, and [to] the rest of their companions that dwell in Samaria, and [unto] the rest beyond the river, Peace, and at such a time.
 <small><sub>**BSB:**</sub></small>
 Then the king sent this reply: To Rehum the commander, Shimshai the scribe, and the rest of your associates living in Samaria and elsewhere in the region west of the Euphrates: Greetings.
+<small><sub>**Aramaic:**</sub></small>
+[[H6600\|פִּתְגָמָ֞]][[H9010\|א]] [[H7972\|שְׁלַ֣ח]] [[H4430\|מַלְכָּ֗]][[H9010\|א]] [[H5922\|עַל]][[H9014\|־]] [[H7348B\|רְח֤וּם]] [[H1169\|בְּעֵל]][[H9014\|־]] [[H2942\|טְעֵם֙]] [[H9002\|וְ]][[H8124\|שִׁמְשַׁ֣י]] [[H5613\|סָֽפְרָ֔]][[H9010\|א]] [[H9002\|וּ]][[H7606\|שְׁאָר֙]] [[H3675\|כְּנָוָ֣תְ]][[H9028\|ה֔וֹן]] [[H1768\|דִּ֥י]] [[H3488\|יָתְבִ֖ין]] [[H9003\|בְּ]][[H8115\|שָֽׁמְרָ֑יִן]] [[H9002\|וּ]][[H7606\|שְׁאָ֧ר]] [[H5675\|עֲבַֽר]][[H9014\|־]] [[H5103G\|נַהֲרָ֛]][[H9010\|ה]] [[H8001\|שְׁלָ֖ם]] [[H9002\|וּ]][[H3706\|כְעֶֽת]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARTAXERXES|ARTAXERXES]] • [[topic BISHLAM|BISHLAM]] • [[topic CHANCELLOR|CHANCELLOR]] • [[topic REHUM|REHUM]] • [[topic SHIMSHAI|SHIMSHAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.16|<< Ezra 4:16]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.18|Ezra 4:18 >>]]</td></tr></table>
 
@@ -26,7 +87,7 @@ Then the king sent this reply: To Rehum the commander, Shimshai the scribe, and 
 | [the] region beyond  |**<big>&#8207;[[H5675\|עֲבַֽר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.var-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | river the  |**<big>&#8207;[[H5103G\|נַהֲרָ֛]]&#8207;&#8207;[[H9010\|ה]]&#8207; </big>**| na.ha.Rah<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | peace  |**<big>&#8207;[[H8001\|שְׁלָ֖ם]]&#8207; </big>**| she.Lam<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and now  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3706\|כְעֶֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> khe.'Et<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and now  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3706\|כְעֶֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> khe.'Et<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.16|<< Ezra 4:16]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.18|Ezra 4:18 >>]]</td></tr></table>
 
 

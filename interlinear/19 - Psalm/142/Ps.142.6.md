@@ -1,8 +1,60 @@
+---
+title: Psalm 142:6
+type: Verse
+kjv: "Attend unto my cry; for I am brought very low: deliver me from my persecutors; for they are stronger than I."
+bsb: "Listen to my cry, for I am brought quite low. Rescue me from my pursuers, for they are too strong for me."
+hebrew: "הַקְשִׁ֤יבָה׀ אֶֽל־ רִנָּתִי֮ כִּֽי־ דַלּ֪וֹתִ֫י מְאֹ֥ד הַצִּילֵ֥נִי מֵרֹדְפַ֑י כִּ֖י אָמְצ֣וּ מִמֶּֽנִּי׃"
+pericope: "[[Ps.142.1 I Lift My Voice to the LORD|I Lift My Voice to the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 142
+book/chapter: "[[Ps.142|Psalm 142]]"
+chronological_order: 319
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H7181]]"
+- "[[H9012]]"
+- "[[H9015]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7440]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H1809]]"
+- "[[H3966]]"
+- "[[H5337]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H7291]]"
+- "[[H0553]]"
+- "[[H4480A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 142:6**<big><big>[[Ps.142.1 I Lift My Voice to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Attend unto my cry; for I am brought very low: deliver me from my persecutors; for they are stronger than I.
 <small><sub>**BSB:**</sub></small>
 Listen to my cry, for I am brought quite low. Rescue me from my pursuers, for they are too strong for me.
+<small><sub>**Hebrew:**</sub></small>
+[[H7181\|הַקְשִׁ֤יבָ]][[H9012\|ה]][[H9015\|׀]] [[H0413\|אֶֽל]][[H9014\|־]] [[H7440\|רִנָּתִ]][[H9020\|י֮]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1809\|דַלּ֪וֹתִ֫י]] [[H3966\|מְאֹ֥ד]] [[H5337\|הַצִּילֵ֥]][[H9030\|נִי]] [[H9006\|מֵ]][[H7291\|רֹדְפַ֑]][[H9030\|י]] [[H3588A\|כִּ֖י]] [[H0553\|אָמְצ֣וּ]] [[H4480A\|מִמֶּֽ]][[H9030\|נִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.142.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.142.5|<< Psalms 142:5]]</td><td align="center" style="border:none;">[[Ps.142|Psalms 142]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.142.7|Psalms 142:7 >>]]</td></tr></table>
 

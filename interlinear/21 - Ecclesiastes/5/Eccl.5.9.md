@@ -1,8 +1,54 @@
+---
+title: Ecclesiastes 5:9
+type: Verse
+kjv: "Moreover the profit of the earth is for all: the king himself is served by the field."
+bsb: "The produce of the earth is taken by all; the king himself profits from the fields."
+hebrew: "וְיִתְר֥וֹן אֶ֖רֶץ בַּכֹּ֣ל ה֑וּא מֶ֥לֶךְ לְשָׂדֶ֖ה נֶעֱבָֽד׃"
+pericope: "[[Eccl.5.8 The Futility of Wealth|The Futility of Wealth]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 5
+book/chapter: "[[Eccl.5|Ecclesiastes 5]]"
+chronological_order: 543
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic LAND|LAND]]"
+- "[[topic RICHES|RICHES]]"
+strongs:
+- "[[H9002]]"
+- "[[H3504]]"
+- "[[H0776G]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H1931]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H7704G]]"
+- "[[H5647I]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ecclesiastes 5:9**<big><big>[[Eccl.5.8 The Futility of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the profit of the earth is for all: the king [himself] is served by the field.
 <small><sub>**BSB:**</sub></small>
 The produce of the earth is taken by all; the king himself profits from the fields.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3504\|יִתְר֥וֹן]] [[H0776G\|אֶ֖רֶץ]] [[H9003\|בַּ]][[H3605\|כֹּ֣ל]] [[H1931\|ה֑וּא]] [[H4428G\|מֶ֥לֶךְ]] [[H9005\|לְ]][[H7704G\|שָׂדֶ֖ה]] [[H5647I\|נֶעֱבָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic LAND|LAND]] • [[topic RICHES|RICHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.8|<< Ecclesiastes 5:8]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.10|Ecclesiastes 5:10 >>]]</td></tr></table>
 

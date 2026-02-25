@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Ark Enters the Temple
+type: Pericope
 pericope: "[[2Chr.5.1 The Ark Enters the Temple|The Ark Enters the Temple]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 5
 book/chapter: "[[2Chr.5|2 Chronicles 5]]"
-genre:
+chronological_order: 494
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 14
 verses:
 - "[[2Chr.5.1]]"
 - "[[2Chr.5.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[2Chr.5.14]]"
 ---
 
-[[2Chr.5|2 Chronicles 5:1 - 2 Chronicles 5:14]]
+<small>[[2Chr.5|2 Chronicles 5:1-14]]</small>
 *The Ark Enters the Temple*
 
 [[2Chr.5.1|1]] Thus all the work that Solomon made for the house of the LORD was finished: and Solomon brought in \[all\] the things that David his father had dedicated; and the silver, and the gold, and all the instruments, put he among the treasures of the house of God.

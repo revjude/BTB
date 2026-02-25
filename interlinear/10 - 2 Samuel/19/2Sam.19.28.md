@@ -1,8 +1,78 @@
+---
+title: 2 Samuel 19:28
+type: Verse
+kjv: "For all of my father’s house were but dead men before my lord the king: yet didst thou set thy servant among them that did eat at thine own table. What right therefore have I yet to cry any more unto the king?"
+bsb: "For all the house of my grandfather deserves death from my lord the king, yet you have set your servant among those who eat at your table. What further right, then, do I have to keep appealing to the king?”"
+hebrew: "כִּי֩ לֹ֨א הָיָ֜ה כָּל־ בֵּ֣ית אָבִ֗י כִּ֤י אִם־ אַנְשֵׁי־ מָ֙וֶת֙ לַאדֹנִ֣י הַמֶּ֔לֶךְ וַתָּ֙שֶׁת֙ אֶֽת־ עַבְדְּךָ֔ בְּאֹכְלֵ֖י שֻׁלְחָנֶ֑ךָ וּמַה־ יֶּשׁ־ לִ֥י עוֹד֙ צְדָקָ֔ה וְלִזְעֹ֥ק ע֖וֹד אֶל־ הַמֶּֽלֶךְ׃ פ"
+pericope: "[[2Sam.19.24 Mephibosheth Excused|Mephibosheth Excused]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 19
+book/chapter: "[[2Sam.19|2 Samuel 19]]"
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic MEPHIBOSHETH|MEPHIBOSHETH]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic ZIBA|ZIBA]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H0582]]"
+- "[[H4194]]"
+- "[[H9005]]"
+- "[[H0113]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9001]]"
+- "[[H7896G]]"
+- "[[H0853]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H0398]]"
+- "[[H7979]]"
+- "[[H9002]]"
+- "[[H4100]]"
+- "[[H3426]]"
+- "[[H9030]]"
+- "[[H5750]]"
+- "[[H6666]]"
+- "[[H2199]]"
+- "[[H0413]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Samuel 19:28**<big><big>[[2Sam.19.24 Mephibosheth Excused|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For all [of] my father’s house were but dead men before my lord the king: yet didst thou set thy servant among them that did eat at thine own table. What right therefore have I yet to cry any more unto the king?
 <small><sub>**BSB:**</sub></small>
 For all the house of my grandfather deserves death from my lord the king, yet you have set your servant among those who eat at your table. What further right, then, do I have to keep appealing to the king?”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H3808\|לֹ֨א]] [[H1961\|הָיָ֜ה]] [[H3605\|כָּל]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H0001G\|אָבִ֗]][[H9020\|י]] [[H3588B\|כִּ֤י]] [[H0518B\|אִם]][[H9014\|־]] [[H0582\|אַנְשֵׁי]][[H9014\|־]] [[H4194\|מָ֙וֶת֙]] [[H9005\|לַ]][[H0113\|אדֹנִ֣]][[H9020\|י]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9001\|וַ]][[H7896G\|תָּ֙שֶׁת֙]] [[H0853\|אֶֽת]][[H9014\|־]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֔]] [[H9003\|בְּ]][[H0398\|אֹכְלֵ֖י]] [[H7979\|שֻׁלְחָנֶ֑]][[H9021\|ךָ]] [[H9002\|וּ]][[H4100\|מַה]][[H9014\|־]] [[H3426\|יֶּשׁ]][[H9014\|־]] [[H9005\|לִ֥]][[H9030\|י]] [[H5750\|עוֹד֙]] [[H6666\|צְדָקָ֔ה]] [[H9002\|וְ]][[H9005\|לִ]][[H2199\|זְעֹ֥ק]] [[H5750\|ע֖וֹד]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic MEPHIBOSHETH|MEPHIBOSHETH]] • [[topic SLANDER|SLANDER]] • [[topic ZIBA|ZIBA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.27|<< 2 Samuel 19:27]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.29|2 Samuel 19:29 >>]]</td></tr></table>
 
@@ -33,7 +103,7 @@ For all the house of my grandfather deserves death from my lord the king, yet yo
 | and to cry out  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H2199\|זְעֹ֥ק]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> z.'Ok<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | still  |**<big>&#8207;[[H5750\|ע֖וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּֽלֶךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּֽלֶךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.27|<< 2 Samuel 19:27]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.29|2 Samuel 19:29 >>]]</td></tr></table>
 
 

@@ -1,10 +1,54 @@
+---
+title: 2 Peter 3:2
+type: Verse
+kjv: "That ye may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour:"
+bsb: "by recalling what was foretold by the holy prophets and commanded by our Lord and Savior through your apostles."
+greek: "μνησθῆναι τῶν προειρημένων ῥημάτων ὑπὸ τῶν ἁγίων προφητῶν καὶ τῆς τῶν ἀποστόλων ὑμῶν ἐντολῆς τοῦ κυρίου καὶ σωτῆρος·"
+pericope: "[[2Pet.3.1 The Coming Judgment|The Coming Judgment]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 3
+book/chapter: "[[2Pet.3|2 Peter 3]]"
+chronological_order: 1159
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3403]]"
+- "[[G3588]]"
+- "[[G4280]]"
+- "[[G4487]]"
+- "[[G5259G]]"
+- "[[G0040G]]"
+- "[[G4396]]"
+- "[[G2532]]"
+- "[[G0652]]"
+- "[[G4771]]"
+- "[[G1785]]"
+- "[[G2962G]]"
+- "[[G4990]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **2 Peter 3:2**<big><big>[[2Pet.3.1 The Coming Judgment|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That ye may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour:
 <small><sub>**BSB:**</sub></small>
 by recalling what was foretold by the holy prophets and commanded by our Lord and Savior through your apostles.
-<small><sub>**Literal:**</sub></small>
-remembering the spoken beforehand declarations — by the holy prophets and of the <the> apostles of you  commandment of the Lord and Savior;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.1|<< 2 Peter 3:1]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.3|2 Peter 3:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3403\|μνησθῆναι]]  [[G3588\|τῶν]]  [[G4280\|προειρημένων]]  [[G4487\|ῥημάτων]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G0040G\|ἁγίων]]  [[G4396\|προφητῶν]]  [[G2532\|καὶ]]  [[G3588\|τῆς]]  [[G3588\|τῶν]]  [[G0652\|ἀποστόλων]]  [[G4771\|ὑμῶν]]  [[G1785\|ἐντολῆς]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G2532\|καὶ]]  [[G4990\|σωτῆρος·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.1|<< 2 Peter 3:1]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.3|2 Peter 3:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

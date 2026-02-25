@@ -1,8 +1,65 @@
+---
+title: Judges 6:32
+type: Verse
+kjv: "Therefore on that day he called him Jerubbaal, saying, Let Baal plead against him, because he hath thrown down his altar."
+bsb: "So on that day Gideon was called Jerubbaal, that is to say, “Let Baal contend with him,” because he had torn down Baal’s altar."
+hebrew: "וַיִּקְרָא־ ל֥וֹ בַיּוֹם־ הַה֖וּא יְרֻבַּ֣עַל לֵאמֹ֑ר יָ֤רֶב בּוֹ֙ הַבַּ֔עַל כִּ֥י נָתַ֖ץ אֶֽת־ מִזְבְּחֽוֹ׃ פ"
+pericope: "[[Judg.6.25 Gideon Destroys Baal’s Altar|Gideon Destroys Baal’s Altar]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 6
+book/chapter: "[[Judg.6|Judges 6]]"
+chronological_order: 260
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BAAL|BAAL]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121H]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H3378]]"
+- "[[H0559]]"
+- "[[H7378]]"
+- "[[H1168A]]"
+- "[[H3588A]]"
+- "[[H5422]]"
+- "[[H0853]]"
+- "[[H4196]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Judges 6:32**<big><big>[[Judg.6.25 Gideon Destroys Baal’s Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore on that day he called him Jerubbaal, saying, Let Baal plead against him, because he hath thrown down his altar.
 <small><sub>**BSB:**</sub></small>
 So on that day Gideon was called Jerubbaal, that is to say, “Let Baal contend with him,” because he had torn down Baal’s altar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121H\|יִּקְרָא]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H9003\|בַ]][[H3117G\|יּוֹם]][[H9014\|־]] [[H9009\|הַ]][[H1931\|ה֖וּא]] [[H3378\|יְרֻבַּ֣עַל]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H7378\|יָ֤רֶב]] [[H9003\|בּ]][[H9033\|וֹ֙]] [[H9009\|הַ]][[H1168A\|בַּ֔עַל]] [[H3588A\|כִּ֥י]] [[H5422\|נָתַ֖ץ]] [[H0853\|אֶֽת]][[H9014\|־]] [[H4196\|מִזְבְּחֽ]][[H9023\|וֹ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL|BAAL]] • [[topic DECISION|DECISION]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic JUDGE|JUDGE]] • [[topic PERSECUTION|PERSECUTION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.31|<< Judges 6:31]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.33|Judges 6:33 >>]]</td></tr></table>
 
@@ -20,7 +77,7 @@ So on that day Gideon was called Jerubbaal, that is to say, “Let Baal contend 
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has torn down  |**<big>&#8207;[[H5422\|נָתַ֖ץ]]&#8207; </big>**| na.Tatz<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶֽת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| altar his  |**<big>&#8207;[[H4196\|מִזְבְּחֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| miz.be.Ch<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| altar his  |**<big>&#8207;[[H4196\|מִזְבְּחֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| miz.be.Ch<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.31|<< Judges 6:31]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.33|Judges 6:33 >>]]</td></tr></table>
 
 

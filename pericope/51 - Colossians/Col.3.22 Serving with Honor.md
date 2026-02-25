@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Serving with Honor
+type: Pericope
 pericope: "[[Col.3.22 Serving with Honor|Serving with Honor]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Colossians
 chapter: 3
 book/chapter: "[[Col.3|Colossians 3]]"
-genre:
+chronological_order: 1123
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - polemical
+verse_count: 4
 verses:
 - "[[Col.3.22]]"
 - "[[Col.3.23]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Col.3.25]]"
 ---
 
-[[Col.3|Colossians 3:22 - Colossians 3:25]]
+<small>[[Col.3|Colossians 3:22-25]]</small>
 *Serving with Honor*
 
 [[Col.3.22|22]] Servants, obey in all things \[your\] masters according to the flesh; not with eyeservice, as menpleasers; but in singleness of heart, fearing God:

@@ -1,8 +1,64 @@
+---
+title: Joshua 18:4
+type: Verse
+kjv: "Give out from among you three men for each tribe: and I will send them, and they shall rise, and go through the land, and describe it according to the inheritance of them; and they shall come again to me."
+bsb: "Appoint three men from each tribe, and I will send them out to survey the land and map it out, according to the inheritance of each. Then they will return to me"
+hebrew: "הָב֥וּ לָכֶ֛ם שְׁלֹשָׁ֥ה אֲנָשִׁ֖ים לַשָּׁ֑בֶט וְאֶשְׁלָחֵ֗ם וְיָקֻ֜מוּ וְיִֽתְהַלְּכ֥וּ בָאָ֛רֶץ וְיִכְתְּב֥וּ אוֹתָ֛הּ לְפִ֥י נַֽחֲלָתָ֖ם וְיָבֹ֥אוּ אֵלָֽי׃"
+pericope: "[[Josh.18.1 The Remainder Divided|The Remainder Divided]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 18
+book/chapter: "[[Josh.18|Joshua 18]]"
+chronological_order: 248
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CHEPHAR-HAAMMONAI|CHEPHAR-HAAMMONAI]]"
+- "[[topic SHILOH|SHILOH]]"
+strongs:
+- "[[H3051]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H7969]]"
+- "[[H0582]]"
+- "[[H7626H]]"
+- "[[H9002]]"
+- "[[H7971G]]"
+- "[[H9038]]"
+- "[[H6965I]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3789]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H6310K]]"
+- "[[H5159]]"
+- "[[H9028]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 18:4**<big><big>[[Josh.18.1 The Remainder Divided|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give out from among you three men for [each] tribe: and I will send them, and they shall rise, and go through the land, and describe it according to the inheritance of them; and they shall come [again] to me.
 <small><sub>**BSB:**</sub></small>
 Appoint three men from each tribe, and I will send them out to survey the land and map it out, according to the inheritance of each. Then they will return to me
+<small><sub>**Hebrew:**</sub></small>
+[[H3051\|הָב֥וּ]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H7969\|שְׁלֹשָׁ֥ה]] [[H0582\|אֲנָשִׁ֖ים]] [[H9005\|לַ]][[H7626H\|שָּׁ֑בֶט]] [[H9002\|וְ]][[H7971G\|אֶשְׁלָחֵ֗]][[H9038\|ם]] [[H9002\|וְ]][[H6965I\|יָקֻ֜מוּ]] [[H9002\|וְ]][[H1980I\|יִֽתְהַלְּכ֥וּ]] [[H9003\|בָ]][[H0776G\|אָ֛רֶץ]] [[H9002\|וְ]][[H3789\|יִכְתְּב֥וּ]] [[H0853\|אוֹתָ֛]][[H9034\|הּ]] [[H9005\|לְ]][[H6310K\|פִ֥י]] [[H5159\|נַֽחֲלָתָ֖]][[H9028\|ם]] [[H9002\|וְ]][[H0935G\|יָבֹ֥אוּ]] [[H0413\|אֵלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHEPHAR-HAAMMONAI|CHEPHAR-HAAMMONAI]] • [[topic SHILOH|SHILOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.3|<< Joshua 18:3]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.5|Joshua 18:5 >>]]</td></tr></table>
 

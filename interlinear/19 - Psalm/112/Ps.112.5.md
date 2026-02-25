@@ -1,8 +1,63 @@
+---
+title: Psalm 112:5
+type: Verse
+kjv: "A good man sheweth favour, and lendeth: he will guide his affairs with discretion."
+bsb: "It is well with the man who is generous and lends freely, whose affairs are guided by justice."
+hebrew: "טֽוֹב־ אִ֭ישׁ חוֹנֵ֣ן וּמַלְוֶ֑ה יְכַלְכֵּ֖ל דְּבָרָ֣יו בְּמִשְׁפָּֽט׃"
+pericope: "[[Ps.112.1 The Blessed Fear of the LORD|The Blessed Fear of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 112
+book/chapter: "[[Ps.112|Psalm 112]]"
+chronological_order: 874
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[H2896A]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H2603A]]"
+- "[[H9002]]"
+- "[[H3867B]]"
+- "[[H3557]]"
+- "[[H1697L]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H4941H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 112:5**<big><big>[[Ps.112.1 The Blessed Fear of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A good man sheweth favour, and lendeth: he will guide his affairs with discretion.
 <small><sub>**BSB:**</sub></small>
 It is well with the man who is generous and lends freely, whose affairs are guided by justice.
+<small><sub>**Hebrew:**</sub></small>
+[[H2896A\|טֽוֹב]][[H9014\|־]] [[H0376G\|אִ֭ישׁ]] [[H2603A\|חוֹנֵ֣ן]] [[H9002\|וּ]][[H3867B\|מַלְוֶ֑ה]] [[H3557\|יְכַלְכֵּ֖ל]] [[H1697L\|דְּבָרָ֣י]][[H9023\|ו]] [[H9003\|בְּ]][[H4941H\|מִשְׁפָּֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CREDITOR|CREDITOR]] • [[topic FAITH|FAITH]] • [[topic KINDNESS|KINDNESS]] • [[topic LENDING|LENDING]] • [[topic LIBERALITY|LIBERALITY]] • [[topic POOR|POOR]] • [[topic PRUDENCE|PRUDENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.112.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.112.4|<< Psalms 112:4]]</td><td align="center" style="border:none;">[[Ps.112|Psalms 112]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.112.6|Psalms 112:6 >>]]</td></tr></table>
 

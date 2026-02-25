@@ -1,10 +1,52 @@
+---
+title: Matthew 21:11
+type: Verse
+kjv: "And the multitude said, This is Jesus the prophet of Nazareth of Galilee."
+bsb: "The crowds replied, “This is Jesus, the prophet from Nazareth in Galilee.”"
+greek: "Οἱ δὲ ὄχλοι ἔλεγον· οὗτός ἐστιν ὁ προφήτης Ἰησοῦς, ὁ ἀπὸ Ναζαρὲθ τῆς Γαλιλαίας.¶"
+pericope: "[[Matt.21.1 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 21
+book/chapter: "[[Matt.21|Matthew 21]]"
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic NAZARETH|NAZARETH]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3793]]"
+- "[[G3004G]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G4396]]"
+- "[[G2424G]]"
+- "[[G0575]]"
+- "[[G3478]]"
+- "[[G1056G]]"
+texts:
+- NKO
+---
+
 **Matthew 21:11**<big><big>[[Matt.21.1 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the multitude said, This is Jesus the prophet of Nazareth of Galilee.
 <small><sub>**BSB:**</sub></small>
 The crowds replied, “This is Jesus, the prophet from Nazareth in Galilee.”
-<small><sub>**Literal:**</sub></small>
-<the> And the crowds were saying; This is the prophet Jesus, the [One] from Nazareth <the> of Galilee.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.10|<< Matthew 21:10]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.12|Matthew 21:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Οἱ]]  [[G1161\|δὲ]]  [[G3793\|ὄχλοι]]  [[G3004G\|ἔλεγον·]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G4396\|προφήτης]]  [[G2424G\|Ἰησοῦς,]]  [[G3588\|ὁ]]  [[G0575\|ἀπὸ]]  [[G3478\|Ναζαρὲθ]]  [[G3588\|τῆς]]  [[G1056G\|Γαλιλαίας.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic NAZARETH|NAZARETH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.10|<< Matthew 21:10]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.12|Matthew 21:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

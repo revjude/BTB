@@ -1,8 +1,72 @@
+---
+title: 1 Kings 7:40
+type: Verse
+kjv: "And Hiram made the lavers, and the shovels, and the basons. So Hiram made an end of doing all the work that he made king Solomon for the house of the LORD:"
+bsb: "Additionally, Huram made the pots, shovels, and sprinkling bowls. So Huram finished all the work that he had undertaken for King Solomon in the house of the LORD:"
+hebrew: "וַיַּ֣עַשׂ חִיר֔וֹם אֶת־ הַ֨כִּיֹּר֔וֹת וְאֶת־ הַיָּעִ֖ים וְאֶת־ הַמִּזְרָק֑וֹת וַיְכַ֣ל חִירָ֗ם לַֽעֲשׂוֹת֙ אֶת־ כָּל־ הַמְּלָאכָ֔ה אֲשֶׁ֥ר עָשָׂ֛ה לַמֶּ֥לֶךְ שְׁלֹמֹ֖ה בֵּ֥ית יְהוָֽה׃"
+pericope: "[[1Kgs.7.40 Completion of the Bronze Works|Completion of the Bronze Works]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ART|ART]]"
+- "[[topic BRASS|BRASS]]"
+- "[[topic CARVING|CARVING]]"
+- "[[topic CHAPITER|CHAPITER]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic SHOVEL|SHOVEL]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H2438H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3595]]"
+- "[[H9002]]"
+- "[[H3257]]"
+- "[[H4219]]"
+- "[[H3615G]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H3605]]"
+- "[[H4399]]"
+- "[[H0834A]]"
+- "[[H4428G]]"
+- "[[H8010]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 7:40**<big><big>[[1Kgs.7.40 Completion of the Bronze Works|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hiram made the lavers, and the shovels, and the basons. So Hiram made an end of doing all the work that he made king Solomon for the house of the LORD:
 <small><sub>**BSB:**</sub></small>
 Additionally, Huram made the pots, shovels, and sprinkling bowls. So Huram finished all the work that he had undertaken for King Solomon in the house of the LORD:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֣עַשׂ]] [[H2438H\|חִיר֔וֹם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ֨]][[H3595\|כִּיֹּר֔וֹת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3257\|יָּעִ֖ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4219\|מִּזְרָק֑וֹת]] [[H9001\|וַ]][[H3615G\|יְכַ֣ל]] [[H2438H\|חִירָ֗ם]] [[H9005\|לַֽ]][[H6213A\|עֲשׂוֹת֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4399\|מְּלָאכָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|עָשָׂ֛ה]] [[H9005\|לַ]][[H4428G\|מֶּ֥לֶךְ]] [[H8010\|שְׁלֹמֹ֖ה]] [[H1004Q\|בֵּ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic BRASS|BRASS]] • [[topic CARVING|CARVING]] • [[topic CHAPITER|CHAPITER]] • [[topic CHURCH|CHURCH]] • [[topic HIRAM|HIRAM]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]] • [[topic SHOVEL|SHOVEL]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.39|<< 1 Kings 7:39]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.41|1 Kings 7:41 >>]]</td></tr></table>
 

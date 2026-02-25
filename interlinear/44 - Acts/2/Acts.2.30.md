@@ -1,10 +1,74 @@
+---
+title: Acts 2:30
+type: Verse
+kjv: "Therefore being a prophet, and knowing that God had sworn with an oath to him, that of the fruit of his loins, according to the flesh, he would raise up Christ to sit on his throne;"
+bsb: "But he was a prophet and knew that God had promised him on oath that He would place one of his descendants on his throne."
+greek: "προφήτης οὖν ὑπάρχων καὶ εἰδὼς ὅτι ὅρκῳ ὤμοσεν αὐτῷ ὁ θεὸς ἐκ καρποῦ τῆς ὀσφύος αὐτοῦ τὸ κατὰ σάρκα ἀναστήσειν τὸν χριστόν καθίσαι ἐπὶ τὸν θρόνον αὐτοῦ,"
+pericope: "[[Acts.2.14 Peter Addresses the Crowd|Peter Addresses the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic THRONE|THRONE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G4396]]"
+- "[[G3767]]"
+- "[[G5225]]"
+- "[[G2532]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G3727]]"
+- "[[G3660]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1537]]"
+- "[[G2590]]"
+- "[[G3751]]"
+- "[[G2596]]"
+- "[[G4561]]"
+- "[[G0450]]"
+- "[[G5547]]"
+- "[[G2523]]"
+- "[[G1909]]"
+- "[[G2362]]"
+texts:
+- NKO
+- K
+- N(k)O
+---
+
 **Acts 2:30**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore being a prophet, and knowing that God had sworn with an oath to him, that of the fruit of his loins, according to the flesh, he would raise up Christ to sit on his throne;
 <small><sub>**BSB:**</sub></small>
 But he was a prophet and knew that God had promised him on oath that He would place one of his descendants on his throne.
-<small><sub>**Literal:**</sub></small>
-A prophet therefore being and knowing that with an oath swore to him <the> God out of [the] fruit of the loins of him <the> according to flesh going to raise up the Christ to set upon the throne of him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.29|<< Acts 2:29]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.31|Acts 2:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4396\|προφήτης]]  [[G3767\|οὖν]]  [[G5225\|ὑπάρχων]]  [[G2532\|καὶ]]  [[G6063\|εἰδὼς]]  [[G3754G\|ὅτι]]  [[G3727\|ὅρκῳ]]  [[G3660\|ὤμοσεν]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1537\|ἐκ]]  [[G2590\|καρποῦ]]  [[G3588\|τῆς]]  [[G3751\|ὀσφύος]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὸ]]  [[G2596\|κατὰ]]  [[G4561\|σάρκα]]  [[G0450\|ἀναστήσειν]]  [[G3588\|τὸν]]  [[G5547\|χριστόν]]  [[G2523\|καθίσαι]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G2362\|θρόνον]]  [[G0846\|αὐτοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic ORATOR|ORATOR]] • [[topic PETER|PETER]] • [[topic PREACHING|PREACHING]] • [[topic PROPHECY|PROPHECY]] • [[topic PROPHETS|PROPHETS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RESURRECTION|RESURRECTION]] • [[topic REVIVALS|REVIVALS]] • [[topic THRONE|THRONE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.29|<< Acts 2:29]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.31|Acts 2:31 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 2:30** is...
 > $\quad$ alluding to: [[LXX.2Sam.7.12|2Sam 7:12]]

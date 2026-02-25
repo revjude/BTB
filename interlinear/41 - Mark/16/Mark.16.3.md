@@ -1,10 +1,55 @@
+---
+title: Mark 16:3
+type: Verse
+kjv: "And they said among themselves, Who shall roll us away the stone from the door of the sepulchre?"
+bsb: "They were asking one another, “Who will roll away the stone from the entrance of the tomb?”"
+greek: "καὶ ἔλεγον πρὸς ἑαυτάς· τίς ἀποκυλίσει ἡμῖν τὸν λίθον ἐκ τῆς θύρας τοῦ μνημείου;"
+pericope: "[[Mark.16.1 The Resurrection|The Resurrection]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 16
+book/chapter: "[[Mark.16|Mark 16]]"
+chronological_order: 1015
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic STONES|STONES]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G4314]]"
+- "[[G1438]]"
+- "[[G5101]]"
+- "[[G0617]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G3037]]"
+- "[[G1537]]"
+- "[[G2374]]"
+- "[[G3419]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Mark 16:3**<big><big>[[Mark.16.1 The Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they said among themselves, Who shall roll us away the stone from the door of the sepulchre?
 <small><sub>**BSB:**</sub></small>
 They were asking one another, “Who will roll away the stone from the entrance of the tomb?”
-<small><sub>**Literal:**</sub></small>
-And they were saying among themselves; Who will roll away for us the stone from the door of the tomb?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.2|<< Mark 16:2]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.4|Mark 16:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|ἔλεγον]]  [[G4314\|πρὸς]]  [[G1438\|ἑαυτάς·]]  [[G5101\|τίς]]  [[G0617\|ἀποκυλίσει]]  [[G3165\|ἡμῖν]]  [[G3588\|τὸν]]  [[G3037\|λίθον]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G2374\|θύρας]]  [[G3588\|τοῦ]]  [[G3419\|μνημείου;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic STONES|STONES]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.2|<< Mark 16:2]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.4|Mark 16:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,56 @@
+---
+title: 1 Corinthians 9:2
+type: Verse
+kjv: "If I be not an apostle unto others, yet doubtless I am to you: for the seal of mine apostleship are ye in the Lord."
+bsb: "Even if I am not an apostle to others, surely I am to you. For you are the seal of my apostleship in the Lord."
+greek: "εἰ ἄλλοις οὐκ εἰμὶ ἀπόστολος, ἀλλά γε ὑμῖν εἰμι· ἡ γὰρ σφραγίς μου τῆς ἀποστολῆς ὑμεῖς ἐστε ἐν κυρίῳ."
+pericope: "[[1Cor.9.1 The Rights of an Apostle|The Rights of an Apostle]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 9
+book/chapter: "[[1Cor.9|1 Corinthians 9]]"
+chronological_order: 1066
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G1487G]]"
+- "[[G0243]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G0652]]"
+- "[[G0235]]"
+- "[[G1065]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G4973]]"
+- "[[G3165]]"
+- "[[G0651]]"
+- "[[G1722]]"
+- "[[G2962G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Corinthians 9:2**<big><big>[[1Cor.9.1 The Rights of an Apostle|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If I be not an apostle unto others, yet doubtless I am to you: for the seal of mine apostleship are ye in the Lord.
 <small><sub>**BSB:**</sub></small>
 Even if I am not an apostle to others, surely I am to you. For you are the seal of my apostleship in the Lord.
-<small><sub>**Literal:**</sub></small>
-If to others not I am an apostle, yet at least to you I am; the for seal of my <the> apostleship you yourselves are in [the] Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.1|<< 1 Corinthians 9:1]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.3|1 Corinthians 9:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G0243\|ἄλλοις]]  [[G3756\|οὐκ]]  [[G1510\|εἰμὶ]]  [[G0652\|ἀπόστολος,]]  [[G0235\|ἀλλά]]  [[G1065\|γε]]  [[G4771\|ὑμῖν]]  [[G1510\|εἰμι·]]  [[G3588\|ἡ]]  [[G1063\|γὰρ]]  [[G4973\|σφραγίς]]  [[G3165\|μου]]  [[G3588\|τῆς]]  [[G0651\|ἀποστολῆς]]  [[G4771\|ὑμεῖς]]  [[G1510\|ἐστε]]  [[G1722\|ἐν]]  [[G2962G\|κυρίῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.1|<< 1 Corinthians 9:1]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.3|1 Corinthians 9:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

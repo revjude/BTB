@@ -1,8 +1,66 @@
+---
+title: Jeremiah 36:1
+type: Verse
+kjv: "And it came to pass in the fourth year of Jehoiakim the son of Josiah king of Judah, that this word came unto Jeremiah from the LORD, saying,"
+bsb: "In the fourth year of Jehoiakim son of Josiah king of Judah, this word came to Jeremiah from the LORD:"
+hebrew: "וַֽיְהִי֙ בַּשָּׁנָ֣ה הָרְבִיעִ֔ת לִיהוֹיָקִ֥ים בֶּן־ יֹאשִׁיָּ֖הוּ מֶ֣לֶךְ יְהוּדָ֑ה הָיָ֞ה הַדָּבָ֤ר הַזֶּה֙ אֶֽל־ יִרְמְיָ֔הוּ מֵאֵ֥ת יְהוָ֖ה לֵאמֹֽר׃"
+pericope: "[[Jer.36.1 Jeremiah’s Scroll Read in the Temple|Jeremiah’s Scroll Read in the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 36
+book/chapter: "[[Jer.36|Jeremiah 36]]"
+chronological_order: 759
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H7243]]"
+- "[[H9005]]"
+- "[[H3079]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H2977G]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H1697G]]"
+- "[[H2088]]"
+- "[[H0413]]"
+- "[[H3414L]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 36:1**<big><big>[[Jer.36.1 Jeremiah’s Scroll Read in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the fourth year of Jehoiakim the son of Josiah king of Judah, [that] this word came unto Jeremiah from the LORD, saying,
 <small><sub>**BSB:**</sub></small>
 In the fourth year of Jehoiakim son of Josiah king of Judah, this word came to Jeremiah from the LORD:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H9003\|בַּ]][[H8141\|שָּׁנָ֣ה]] [[H9009\|הָ]][[H7243\|רְבִיעִ֔ת]] [[H9005\|לִ]][[H3079\|יהוֹיָקִ֥ים]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2977G\|יֹאשִׁיָּ֖הוּ]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֑ה]] [[H1961\|הָיָ֞ה]] [[H9009\|הַ]][[H1697G\|דָּבָ֤ר]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֔הוּ]] [[H9006\|מֵ]][[H0854\|אֵ֥ת]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEREMIAH|JEREMIAH]] • [[topic PROPHECY|PROPHECY]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.35.19|<< Jeremiah 35:19]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.2|Jeremiah 36:2 >>]]</td></tr></table>
 

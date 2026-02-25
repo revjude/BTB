@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: I Will Send My Messenger
+type: Pericope
 pericope: "[[Mal.3.1 I Will Send My Messenger|I Will Send My Messenger]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Malachi
 chapter: 3
 book/chapter: "[[Mal.3|Malachi 3]]"
-genre:
+chronological_order: 928
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - post exilic
 - dialogue
+verse_count: 5
 verses:
 - "[[Mal.3.1]]"
 - "[[Mal.3.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Mal.3.5]]"
 ---
 
-[[Mal.3|Malachi 3:1 - Malachi 3:5]]
+<small>[[Mal.3|Malachi 3:1-5]]</small>
 *I Will Send My Messenger*
 
 [[Mal.3.1|1]] Behold, I will send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the LORD of hosts.

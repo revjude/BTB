@@ -1,10 +1,74 @@
+---
+title: Revelation 21:9
+type: Verse
+kjv: "And there came unto me one of the seven angels which had the seven vials full of the seven last plagues, and talked with me, saying, Come hither, I will shew thee the bride, the Lamb’s wife."
+bsb: "Then one of the seven angels with the seven bowls full of the seven final plagues came and said to me, “Come, I will show you the bride, the wife of the Lamb.”"
+greek: "Καὶ ἦλθεν πρὸς με εἷς ἐκ τῶν ἑπτὰ ἀγγέλων τῶν ἐχόντων τὰς ἑπτὰ φιάλας τῶν γεμόντων τῶν ἑπτὰ πληγῶν τῶν ἐσχάτων καὶ ἐλάλησεν μετ᾽ ἐμοῦ λέγων· δεῦρο, δείξω σοι τὴν νύμφην τὴν γυναῖκα τοῦ ἀρνίου."
+pericope: "[[Rev.21.9 The New Jerusalem|The New Jerusalem]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 21
+book/chapter: "[[Rev.21|Revelation 21]]"
+chronological_order: 1188
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic BRIDE|BRIDE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAMB OF GOD|LAMB OF GOD]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G3165]]"
+- "[[G1520]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G2033]]"
+- "[[G0032G]]"
+- "[[G2192]]"
+- "[[G5357]]"
+- "[[G1073]]"
+- "[[G4127]]"
+- "[[G2078]]"
+- "[[G2980]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G3004G]]"
+- "[[G1204]]"
+- "[[G1166]]"
+- "[[G4771]]"
+- "[[G3565]]"
+- "[[G1135H]]"
+- "[[G0721]]"
+texts:
+- NKO
+- K
+- N(k)O
+---
+
 **Revelation 21:9**<big><big>[[Rev.21.9 The New Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there came unto me one of the seven angels which had the seven vials full of the seven last plagues, and talked with me, saying, Come hither, I will shew thee the bride, the Lamb’s wife.
 <small><sub>**BSB:**</sub></small>
 Then one of the seven angels with the seven bowls full of the seven final plagues came and said to me, “Come, I will show you the bride, the wife of the Lamb.”
-<small><sub>**Literal:**</sub></small>
-And came to me one of the seven angels who are having the seven bowls which are being full of the seven plagues <the> last and spoke with me saying; Come here, I will show you the bride the wife of the Lamb.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.8|<< Revelation 21:8]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.10|Revelation 21:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2064\|ἦλθεν]]  [[G4314\|πρὸς]]  [[G3165\|με]]  [[G1520\|εἷς]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G2033\|ἑπτὰ]]  [[G0032G\|ἀγγέλων]]  [[G3588\|τῶν]]  [[G2192\|ἐχόντων]]  [[G3588\|τὰς]]  [[G2033\|ἑπτὰ]]  [[G5357\|φιάλας]]  [[G3588\|τῶν]]  [[G1073\|γεμόντων]]  [[G3588\|τῶν]]  [[G2033\|ἑπτὰ]]  [[G4127\|πληγῶν]]  [[G3588\|τῶν]]  [[G2078\|ἐσχάτων]]  [[G2532\|καὶ]]  [[G2980\|ἐλάλησεν]]  [[G3326\|μετ᾽]]  [[G1473\|ἐμοῦ]]  [[G3004G\|λέγων·]]  [[G1204\|δεῦρο,]]  [[G1166\|δείξω]]  [[G4771\|σοι]]  [[G3588\|τὴν]]  [[G3565\|νύμφην]]  [[G3588\|τὴν]]  [[G1135H\|γυναῖκα]]  [[G3588\|τοῦ]]  [[G0721\|ἀρνίου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDE|BRIDE]] • [[topic CHURCH|CHURCH]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAMB OF GOD|LAMB OF GOD]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.8|<< Revelation 21:8]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.10|Revelation 21:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

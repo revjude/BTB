@@ -1,10 +1,53 @@
+---
+title: Acts 24:7
+type: Verse
+kjv: "But the chief captain Lysias came upon us, and with great violence took him away out of our hands,"
+bsb: ""
+greek: "παρελθὼν δὲ Λυσίας ὁ χιλίαρχος μετὰ πολλῆς βίας ἐκ τῶν χειρῶν ἡμῶν ἀπήγαγε,"
+pericope: "[[Acts.24.1 Tertullus Prosecutes Paul|Tertullus Prosecutes Paul]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 24
+book/chapter: "[[Acts.24|Acts 24]]"
+chronological_order: 1106
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ADVOCATE|ADVOCATE]]"
+- "[[topic LYSIAS|LYSIAS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G3928]]"
+- "[[G1161]]"
+- "[[G3079]]"
+- "[[G3588]]"
+- "[[G5506]]"
+- "[[G3326]]"
+- "[[G4183]]"
+- "[[G0970]]"
+- "[[G1537]]"
+- "[[G5495]]"
+- "[[G3165]]"
+- "[[G0520]]"
+texts:
+- K
+---
+
 **Acts 24:7**<big><big>[[Acts.24.1 Tertullus Prosecutes Paul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the chief captain Lysias came [upon us], and with great violence took [him] away out of our hands,
 <small><sub>**BSB:**</sub></small>
 
-<small><sub>**Literal:**</sub></small>
-having come up now Lysias the commander with great violence from the hands of us being carried away,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.6|<< Acts 24:6]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.8|Acts 24:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3928\|παρελθὼν]]  [[G1161\|δὲ]]  [[G3079\|Λυσίας]]  [[G3588\|ὁ]]  [[G5506\|χιλίαρχος]]  [[G3326\|μετὰ]]  [[G4183\|πολλῆς]]  [[G0970\|βίας]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G5495\|χειρῶν]]  [[G3165\|ἡμῶν]]  [[G0520\|ἀπήγαγε,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADVOCATE|ADVOCATE]] • [[topic LYSIAS|LYSIAS]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.6|<< Acts 24:6]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.8|Acts 24:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

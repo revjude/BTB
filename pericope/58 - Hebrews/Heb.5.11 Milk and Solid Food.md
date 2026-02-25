@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Milk and Solid Food
+type: Pericope
 pericope: "[[Heb.5.11 Milk and Solid Food|Milk and Solid Food]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 5
 book/chapter: "[[Heb.5|Hebrews 5]]"
-genre:
+chronological_order: 1144
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 4
 verses:
 - "[[Heb.5.11]]"
 - "[[Heb.5.12]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Heb.5.14]]"
 ---
 
-[[Heb.5|Hebrews 5:11 - Hebrews 5:14]]
+<small>[[Heb.5|Hebrews 5:11-14]]</small>
 *Milk and Solid Food*
 
 [[Heb.5.11|11]] Of whom we have many things to say, and hard to be uttered, seeing ye are dull of hearing.

@@ -1,8 +1,63 @@
+---
+title: Psalm 45:8
+type: Verse
+kjv: "All thy garments smell of myrrh, and aloes, and cassia, out of the ivory palaces, whereby they have made thee glad."
+bsb: "All your garments are fragrant with myrrh and aloes and cassia; from palaces of ivory the harps make you glad."
+hebrew: "מֹר־ וַאֲהָל֣וֹת קְ֭צִיעוֹת כָּל־ בִּגְדֹתֶ֑יךָ מִֽן־ הֵ֥יכְלֵי שֵׁ֝֗ן מִנִּ֥י שִׂמְּחֽוּךָ׃"
+pericope: "[[Ps.45.1 My Heart Is Stirred by a Noble Theme|My Heart Is Stirred by a Noble Theme]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 45
+book/chapter: "[[Ps.45|Psalm 45]]"
+chronological_order: 500
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ALOES|ALOES]]"
+- "[[topic CASSIA|CASSIA]]"
+- "[[topic IVORY|IVORY]]"
+- "[[topic MYRRH|MYRRH]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H4753]]"
+- "[[H9014]]"
+- "[[H9002]]"
+- "[[H0174]]"
+- "[[H7102]]"
+- "[[H3605]]"
+- "[[H0899B]]"
+- "[[H9021]]"
+- "[[H4480A]]"
+- "[[H1964H]]"
+- "[[H8127H]]"
+- "[[H4482]]"
+- "[[H8055]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 45:8**<big><big>[[Ps.45.1 My Heart Is Stirred by a Noble Theme|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All thy garments [smell] of myrrh, and aloes, [and] cassia, out of the ivory palaces, whereby they have made thee glad.
 <small><sub>**BSB:**</sub></small>
 All your garments are fragrant with myrrh and aloes and cassia; from palaces of ivory the harps make you glad.
+<small><sub>**Hebrew:**</sub></small>
+[[H4753\|מֹר]][[H9014\|־]] [[H9002\|וַ]][[H0174\|אֲהָל֣וֹת]] [[H7102\|קְ֭צִיעוֹת]] [[H3605\|כָּל]][[H9014\|־]] [[H0899B\|בִּגְדֹתֶ֑י]][[H9021\|ךָ]] [[H4480A\|מִֽן]][[H9014\|־]] [[H1964H\|הֵ֥יכְלֵי]] [[H8127H\|שֵׁ֝֗ן]] [[H4482\|מִנִּ֥י]] [[H8055\|שִׂמְּחֽוּ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALOES|ALOES]] • [[topic CASSIA|CASSIA]] • [[topic IVORY|IVORY]] • [[topic MYRRH|MYRRH]] • [[topic SOLOMON|SOLOMON]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.45.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.45.7|<< Psalms 45:7]]</td><td align="center" style="border:none;">[[Ps.45|Psalms 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.45.9|Psalms 45:9 >>]]</td></tr></table>
 

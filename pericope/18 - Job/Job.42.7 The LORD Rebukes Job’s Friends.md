@@ -1,28 +1,35 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Rebukes Job’s Friends
+type: Pericope
 pericope: "[[Job.42.7 The LORD Rebukes Job’s Friends|The LORD Rebukes Job’s Friends]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 42
 book/chapter: "[[Job.42|Job 42]]"
-genre:
+chronological_order: 53
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 3
 verses:
 - "[[Job.42.7]]"
 - "[[Job.42.8]]"
 - "[[Job.42.9]]"
 ---
 
-[[Job.42|Job 42:7 - Job 42:9]]
+<small>[[Job.42|Job 42:7-9]]</small>
 *The LORD Rebukes Job’s Friends*
 
 [[Job.42.7|7]] And it was \[so\], that after the LORD had spoken these words unto Job, the LORD said to Eliphaz the Temanite, My wrath is kindled against thee, and against thy two friends: for ye have not spoken of me \[the thing that is\] right, as my servant Job \[hath\].

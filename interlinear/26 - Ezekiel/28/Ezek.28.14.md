@@ -1,8 +1,64 @@
+---
+title: Ezekiel 28:14
+type: Verse
+kjv: "Thou art the anointed cherub that covereth; and I have set thee so: thou wast upon the holy mountain of God; thou hast walked up and down in the midst of the stones of fire."
+bsb: "You were anointed as a guardian cherub, for I had ordained you. You were on the holy mountain of God; you walked among the fiery stones."
+hebrew: "אַ֨תְּ־ כְּר֔וּב מִמְשַׁ֖ח הַסּוֹכֵ֑ךְ וּנְתַתִּ֗יךָ בְּהַ֨ר קֹ֤דֶשׁ אֱלֹהִים֙ הָיִ֔יתָ בְּת֥וֹךְ אַבְנֵי־ אֵ֖שׁ הִתְהַלָּֽכְתָּ׃"
+pericope: "[[Ezek.28.11 A Lament for the King of Tyre|A Lament for the King of Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 28
+book/chapter: "[[Ezek.28|Ezekiel 28]]"
+chronological_order: 819
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic LAMENTATIONS|LAMENTATIONS]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H0859C]]"
+- "[[H9014]]"
+- "[[H3742]]"
+- "[[H4473]]"
+- "[[H9009]]"
+- "[[H5526B]]"
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H2022G]]"
+- "[[H6944G]]"
+- "[[H0430G]]"
+- "[[H1961]]"
+- "[[H8432]]"
+- "[[H0068G]]"
+- "[[H0784]]"
+- "[[H1980I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 28:14**<big><big>[[Ezek.28.11 A Lament for the King of Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou [art] the anointed cherub that covereth; and I have set thee [so]: thou wast upon the holy mountain of God; thou hast walked up and down in the midst of the stones of fire.
 <small><sub>**BSB:**</sub></small>
 You were anointed as a guardian cherub, for I had ordained you. You were on the holy mountain of God; you walked among the fiery stones.
+<small><sub>**Hebrew:**</sub></small>
+[[H0859C\|אַ֨תְּ]][[H9014\|־]] [[H3742\|כְּר֔וּב]] [[H4473\|מִמְשַׁ֖ח]] [[H9009\|הַ]][[H5526B\|סּוֹכֵ֑ךְ]] [[H9001\|וּ]][[H5414H\|נְתַתִּ֗י]][[H9031\|ךָ]] [[H9003\|בְּ]][[H2022G\|הַ֨ר]] [[H6944G\|קֹ֤דֶשׁ]] [[H0430G\|אֱלֹהִים֙]] [[H1961\|הָיִ֔יתָ]] [[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H0068G\|אַבְנֵי]][[H9014\|־]] [[H0784\|אֵ֖שׁ]] [[H1980I\|הִתְהַלָּֽכְתָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHERUBIM|CHERUBIM]] • [[topic LAMENTATIONS|LAMENTATIONS]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.13|<< Ezekiel 28:13]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.15|Ezekiel 28:15 >>]]</td></tr></table>
 

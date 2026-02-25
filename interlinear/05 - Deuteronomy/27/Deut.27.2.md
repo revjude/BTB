@@ -1,8 +1,76 @@
+---
+title: Deuteronomy 27:2
+type: Verse
+kjv: "And it shall be on the day when ye shall pass over Jordan unto the land which the LORD thy God giveth thee, that thou shalt set thee up great stones, and plaister them with plaister:"
+bsb: "And on the day you cross the Jordan into the land that the LORD your God is giving you, set up large stones and coat them with plaster."
+hebrew: "וְהָיָ֗ה בַּיּוֹם֮ אֲשֶׁ֣ר תַּעַבְר֣וּ אֶת־ הַיַּרְדֵּן֒ אֶל־ הָאָ֕רֶץ אֲשֶׁר־ יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֣ן לָ֑ךְ וַהֲקֵמֹתָ֤ לְךָ֙ אֲבָנִ֣ים גְּדֹל֔וֹת וְשַׂדְתָּ֥ אֹתָ֖ם בַּשִּֽׂיד׃"
+pericope: "[[Deut.27.1 The Altar on Mount Ebal|The Altar on Mount Ebal]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 27
+book/chapter: "[[Deut.27|Deuteronomy 27]]"
+chronological_order: 223
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CURSE|CURSE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PILLAR|PILLAR]]"
+- "[[topic PLASTER|PLASTER]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H0834A]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H0413]]"
+- "[[H0776G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H6965I]]"
+- "[[H0068G]]"
+- "[[H1419A]]"
+- "[[H7874]]"
+- "[[H9038]]"
+- "[[H7875]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 27:2**<big><big>[[Deut.27.1 The Altar on Mount Ebal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be on the day when ye shall pass over Jordan unto the land which the LORD thy God giveth thee, that thou shalt set thee up great stones, and plaister them with plaister:
 <small><sub>**BSB:**</sub></small>
 And on the day you cross the Jordan into the land that the LORD your God is giving you, set up large stones and coat them with plaster.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H9003\|בַּ]][[H3117G\|יּוֹם֮]] [[H0834A\|אֲשֶׁ֣ר]] [[H5674A\|תַּעַבְר֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּן֒]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֕רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H5414G\|נֹתֵ֣ן]] [[H9005\|לָ֑]][[H9031\|ךְ]] [[H9001\|וַ]][[H6965I\|הֲקֵמֹתָ֤]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H0068G\|אֲבָנִ֣ים]] [[H1419A\|גְּדֹל֔וֹת]] [[H9001\|וְ]][[H7874\|שַׂדְתָּ֥]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H9003\|בַּ]][[H7875\|שִּֽׂיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CURSE|CURSE]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic LAW|LAW]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PILLAR|PILLAR]] • [[topic PLASTER|PLASTER]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.27.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.27.1|<< Deuteronomy 27:1]]</td><td align="center" style="border:none;">[[Deut.27|Deuteronomy 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.27.3|Deuteronomy 27:3 >>]]</td></tr></table>
 

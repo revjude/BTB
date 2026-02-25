@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Lame Man Walks
+type: Pericope
 pericope: "[[Acts.3.1 A Lame Man Walks|A Lame Man Walks]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Acts
 chapter: 3
 book/chapter: "[[Acts.3|Acts 3]]"
-genre:
+chronological_order: 1021
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 10
 verses:
 - "[[Acts.3.1]]"
 - "[[Acts.3.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Acts.3.10]]"
 ---
 
-[[Acts.3|Acts 3:1 - Acts 3:10]]
+<small>[[Acts.3|Acts 3:1-10]]</small>
 *A Lame Man Walks*
 
 [[Acts.3.1|1]] Now Peter and John went up together into the temple at the hour of prayer, \[being\] the ninth \[hour\].

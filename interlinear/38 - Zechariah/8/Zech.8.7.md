@@ -1,8 +1,61 @@
+---
+title: Zechariah 8:7
+type: Verse
+kjv: "Thus saith the LORD of hosts; Behold, I will save my people from the east country, and from the west country;"
+bsb: "This is what the LORD of Hosts says: “I will save My people from the land of the east and from the land of the west."
+hebrew: "כֹּ֤ה אָמַר֙ יְהוָ֣ה צְבָא֔וֹת הִנְנִ֥י מוֹשִׁ֛יעַ אֶת־ עַמִּ֖י מֵאֶ֣רֶץ מִזְרָ֑ח וּמֵאֶ֖רֶץ מְב֥וֹא הַשָּֽׁמֶשׁ׃"
+pericope: "[[Zech.8.1 The Restoration of Jerusalem|The Restoration of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 8
+book/chapter: "[[Zech.8|Zechariah 8]]"
+chronological_order: 864
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic GENTILES|GENTILES]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H3467]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4217H]]"
+- "[[H9002]]"
+- "[[H3996]]"
+- "[[H9009]]"
+- "[[H8121]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 8:7**<big><big>[[Zech.8.1 The Restoration of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD of hosts; Behold, I will save my people from the east country, and from the west country;
 <small><sub>**BSB:**</sub></small>
 This is what the LORD of Hosts says: “I will save My people from the land of the east and from the land of the west.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H2005\|הִנְ]][[H9040\|נִ֥י]] [[H3467\|מוֹשִׁ֛יעַ]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ֖]][[H9020\|י]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4217H\|מִזְרָ֑ח]] [[H9002\|וּ]][[H9006\|מֵ]][[H0776G\|אֶ֖רֶץ]] [[H3996\|מְב֥וֹא]] [[H9009\|הַ]][[H8121\|שָּֽׁמֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.8.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.8.6|<< Zechariah 8:6]]</td><td align="center" style="border:none;">[[Zech.8|Zechariah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.8.8|Zechariah 8:8 >>]]</td></tr></table>
 

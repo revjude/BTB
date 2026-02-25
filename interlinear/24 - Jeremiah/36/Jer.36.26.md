@@ -1,8 +1,75 @@
+---
+title: Jeremiah 36:26
+type: Verse
+kjv: "But the king commanded Jerahmeel the son of Hammelech, and Seraiah the son of Azriel, and Shelemiah the son of Abdeel, to take Baruch the scribe and Jeremiah the prophet: but the LORD hid them."
+bsb: "Instead, the king commanded Jerahmeel, a son of the king, as well as Seraiah son of Azriel and Shelemiah son of Abdeel, to seize Baruch the scribe and Jeremiah the prophet. But the LORD had hidden them."
+hebrew: "וַיְצַוֶּ֣ה הַ֠מֶּלֶךְ אֶת־ יְרַחְמְאֵ֨ל בֶּן־ הַמֶּ֜לֶךְ וְאֶת־ שְׂרָיָ֣הוּ בֶן־ עַזְרִיאֵ֗ל וְאֶת־ שֶֽׁלֶמְיָ֙הוּ֙ בֶּֽן־ עַבְדְּאֵ֔ל לָקַ֙חַת֙ אֶת־ בָּר֣וּךְ הַסֹּפֵ֔ר וְאֵ֖ת יִרְמְיָ֣הוּ הַנָּבִ֑יא וַיַּסְתִּרֵ֖ם יְהוָֽה׃ ס"
+pericope: "[[Jer.36.20 Jehoiakim Burns the Scroll|Jehoiakim Burns the Scroll]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 36
+book/chapter: "[[Jer.36|Jeremiah 36]]"
+chronological_order: 759
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ABDEEL|ABDEEL]]"
+- "[[topic AZRIEL|AZRIEL]]"
+- "[[topic BARUCH|BARUCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HAMMELECH|HAMMELECH]]"
+- "[[topic JERAHMEEL|JERAHMEEL]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SERAIAH|SERAIAH]]"
+- "[[topic SHELEMIAH|SHELEMIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H9009]]"
+- "[[H4428H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3396I]]"
+- "[[H1121A]]"
+- "[[H9002]]"
+- "[[H8304M]]"
+- "[[H5837I]]"
+- "[[H8018L]]"
+- "[[H5655]]"
+- "[[H9005]]"
+- "[[H3947G]]"
+- "[[H1263J]]"
+- "[[H5608B]]"
+- "[[H3414L]]"
+- "[[H5030]]"
+- "[[H5641]]"
+- "[[H9038]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 36:26**<big><big>[[Jer.36.20 Jehoiakim Burns the Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the king commanded Jerahmeel the son of Hammelech, and Seraiah the son of Azriel, and Shelemiah the son of Abdeel, to take Baruch the scribe and Jeremiah the prophet: but the LORD hid them.
 <small><sub>**BSB:**</sub></small>
 Instead, the king commanded Jerahmeel, a son of the king, as well as Seraiah son of Azriel and Shelemiah son of Abdeel, to seize Baruch the scribe and Jeremiah the prophet. But the LORD had hidden them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַוֶּ֣ה]] [[H9009\|הַ֠]][[H4428H\|מֶּלֶךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H3396I\|יְרַחְמְאֵ֨ל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H9009\|הַ]][[H4428H\|מֶּ֜לֶךְ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8304M\|שְׂרָיָ֣הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H5837I\|עַזְרִיאֵ֗ל]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8018L\|שֶֽׁלֶמְיָ֙הוּ֙]] [[H1121A\|בֶּֽן]][[H9014\|־]] [[H5655\|עַבְדְּאֵ֔ל]] [[H9005\|לָ]][[H3947G\|קַ֙חַת֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1263J\|בָּר֣וּךְ]] [[H9009\|הַ]][[H5608B\|סֹּפֵ֔ר]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H3414L\|יִרְמְיָ֣הוּ]] [[H9009\|הַ]][[H5030\|נָּבִ֑יא]] [[H9001\|וַ]][[H5641\|יַּסְתִּרֵ֖]][[H9038\|ם]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABDEEL|ABDEEL]] • [[topic AZRIEL|AZRIEL]] • [[topic BARUCH|BARUCH]] • [[topic GOD|GOD]] • [[topic HAMMELECH|HAMMELECH]] • [[topic JERAHMEEL|JERAHMEEL]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SERAIAH|SERAIAH]] • [[topic SHELEMIAH|SHELEMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.25|<< Jeremiah 36:25]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.27|Jeremiah 36:27 >>]]</td></tr></table>
 
@@ -30,7 +97,7 @@ Instead, the king commanded Jerahmeel, a son of the king, as well as Seraiah son
 | Jeremiah  |**<big>&#8207;[[H3414L\|יִרְמְיָ֣הוּ]]&#8207; </big>**| yir.me.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the prophet  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5030\|נָּבִ֑יא]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> na.Vi'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he hid them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5641\|יַּסְתִּרֵ֖]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yas.ti.Re<small><sup>[[HVhw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.25|<< Jeremiah 36:25]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.27|Jeremiah 36:27 >>]]</td></tr></table>
 
 

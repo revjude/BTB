@@ -1,10 +1,64 @@
+---
+title: 2 Timothy 1:13
+type: Verse
+kjv: "Hold fast the form of sound words, which thou hast heard of me, in faith and love which is in Christ Jesus."
+bsb: "Hold on to the pattern of sound teaching you have heard from me, with the faith and love that are in Christ Jesus."
+greek: "Ὑποτύπωσιν ἔχε ὑγιαινόντων λόγων ὧν παρ᾽ ἐμοῦ ἤκουσας ἐν πίστει καὶ ἀγάπῃ τῇ ἐν Χριστῷ Ἰησοῦ·"
+pericope: "[[2Tim.1.13 Holding to Sound Teaching|Holding to Sound Teaching]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 1
+book/chapter: "[[2Tim.1|2 Timothy 1]]"
+chronological_order: 1153
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5296]]"
+- "[[G2192]]"
+- "[[G5198]]"
+- "[[G3056]]"
+- "[[G3739]]"
+- "[[G3844]]"
+- "[[G1473]]"
+- "[[G0191]]"
+- "[[G1722]]"
+- "[[G4102G]]"
+- "[[G2532]]"
+- "[[G0026]]"
+- "[[G3588]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+texts:
+- NKO
+---
+
 **2 Timothy 1:13**<big><big>[[2Tim.1.13 Holding to Sound Teaching|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Hold fast the form of sound words, which thou hast heard of me, in faith and love which is in Christ Jesus.
 <small><sub>**BSB:**</sub></small>
 Hold on to the pattern of sound teaching you have heard from me, with the faith and love that are in Christ Jesus.
-<small><sub>**Literal:**</sub></small>
-[The] pattern do retain of sound words which from me you did hear in [the] faith and love that [are] in Christ Jesus;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.12|<< 2 Timothy 1:12]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.14|2 Timothy 1:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5296\|Ὑποτύπωσιν]]  [[G2192\|ἔχε]]  [[G5198\|ὑγιαινόντων]]  [[G3056\|λόγων]]  [[G3739\|ὧν]]  [[G3844\|παρ᾽]]  [[G1473\|ἐμοῦ]]  [[G0191\|ἤκουσας]]  [[G1722\|ἐν]]  [[G4102G\|πίστει]]  [[G2532\|καὶ]]  [[G0026\|ἀγάπῃ]]  [[G3588\|τῇ]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECISION|DECISION]] • [[topic EXAMPLE|EXAMPLE]] • [[topic FAITH|FAITH]] • [[topic GOSPEL|GOSPEL]] • [[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.12|<< 2 Timothy 1:12]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.14|2 Timothy 1:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

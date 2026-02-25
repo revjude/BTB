@@ -1,8 +1,55 @@
+---
+title: Job 41:12
+type: Verse
+kjv: "I will not conceal his parts, nor his power, nor his comely proportion."
+bsb: "I cannot keep silent about his limbs, his power and graceful form."
+hebrew: "לֽוֹ אַחֲרִ֥ישׁ בַּדָּ֑יו וּדְבַר־ גְּ֝בוּר֗וֹת וְחִ֣ין עֶרְכּֽוֹ׃"
+pericope: "[[Job.41.1 The LORD’s Power Shown in Leviathan|The LORD’s Power Shown in Leviathan]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 41
+book/chapter: "[[Job.41|Job 41]]"
+chronological_order: 52
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3808]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H2790B]]"
+- "[[H0907]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1697I]]"
+- "[[H9014]]"
+- "[[H1369]]"
+- "[[H2433]]"
+- "[[H6187]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Job 41:12**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will not conceal his parts, nor his power, nor his comely proportion.
 <small><sub>**BSB:**</sub></small>
 I cannot keep silent about his limbs, his power and graceful form.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לֽ]][[H9033\|וֹ]] [[H2790B\|אַחֲרִ֥ישׁ]] [[H0907\|בַּדָּ֑י]][[H9023\|ו]] [[H9002\|וּ]][[H1697I\|דְבַר]][[H9014\|־]] [[H1369\|גְּ֝בוּר֗וֹת]] [[H9002\|וְ]][[H2433\|חִ֣ין]] [[H6187\|עֶרְכּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.11|<< Job 41:11]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.13|Job 41:13 >>]]</td></tr></table>
 

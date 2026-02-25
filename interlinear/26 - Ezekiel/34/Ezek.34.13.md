@@ -1,8 +1,67 @@
+---
+title: Ezekiel 34:13
+type: Verse
+kjv: "And I will bring them out from the people, and gather them from the countries, and will bring them to their own land, and feed them upon the mountains of Israel by the rivers, and in all the inhabited places of the country."
+bsb: "I will bring them out from the peoples, gather them from the countries, and bring them into their own land. I will feed them on the mountains of Israel, in the ravines, and in all the settlements of the land."
+hebrew: "וְהוֹצֵאתִ֣ים מִן־ הָעַמִּ֗ים וְקִבַּצְתִּים֙ מִן־ הָ֣אֲרָצ֔וֹת וַהֲבִיאֹתִ֖ים אֶל־ אַדְמָתָ֑ם וּרְעִיתִים֙ אֶל־ הָרֵ֣י יִשְׂרָאֵ֔ל בָּאֲפִיקִ֕ים וּבְכֹ֖ל מוֹשְׁבֵ֥י הָאָֽרֶץ׃"
+pericope: "[[Ezek.34.11 The Good Shepherd|The Good Shepherd]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 34
+book/chapter: "[[Ezek.34|Ezekiel 34]]"
+chronological_order: 825
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H9038]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H6908]]"
+- "[[H0776G]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H0127G]]"
+- "[[H9028]]"
+- "[[H7462B]]"
+- "[[H2022G]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H0650]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H4186]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 34:13**<big><big>[[Ezek.34.11 The Good Shepherd|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will bring them out from the people, and gather them from the countries, and will bring them to their own land, and feed them upon the mountains of Israel by the rivers, and in all the inhabited places of the country.
 <small><sub>**BSB:**</sub></small>
 I will bring them out from the peoples, gather them from the countries, and bring them into their own land. I will feed them on the mountains of Israel, in the ravines, and in all the settlements of the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3318H\|הוֹצֵאתִ֣י]][[H9038\|ם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עַמִּ֗ים]] [[H9001\|וְ]][[H6908\|קִבַּצְתִּי]][[H9038\|ם֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ֣]][[H0776G\|אֲרָצ֔וֹת]] [[H9001\|וַ]][[H0935P\|הֲבִיאֹתִ֖י]][[H9038\|ם]] [[H0413\|אֶל]][[H9014\|־]] [[H0127G\|אַדְמָתָ֑]][[H9028\|ם]] [[H9001\|וּ]][[H7462B\|רְעִיתִי]][[H9038\|ם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H2022G\|הָרֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9003\|בָּ]][[H0650\|אֲפִיקִ֕ים]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כֹ֖ל]] [[H4186\|מוֹשְׁבֵ֥י]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.12|<< Ezekiel 34:12]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.14|Ezekiel 34:14 >>]]</td></tr></table>
 

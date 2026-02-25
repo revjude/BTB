@@ -1,8 +1,64 @@
+---
+title: Jeremiah 31:6
+type: Verse
+kjv: "For there shall be a day, that the watchmen upon the mount Ephraim shall cry, Arise ye, and let us go up to Zion unto the LORD our God."
+bsb: "For there will be a day when watchmen will call out on the hills of Ephraim, ‘Arise, let us go up to Zion, to the LORD our God!’”"
+hebrew: "כִּ֣י יֶשׁ־ י֔וֹם קָרְא֥וּ נֹצְרִ֖ים בְּהַ֣ר אֶפְרָ֑יִם ק֚וּמוּ וְנַעֲלֶ֣ה צִיּ֔וֹן אֶל־ יְהוָ֖ה אֱלֹהֵֽינוּ׃ פ"
+pericope: "[[Jer.31.1 Mourning Turned to Joy|Mourning Turned to Joy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic WATCHMAN|WATCHMAN]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3426]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H7121I]]"
+- "[[H5341]]"
+- "[[H9003]]"
+- "[[H2022H]]"
+- "[[H0669G]]"
+- "[[H6965B]]"
+- "[[H9002]]"
+- "[[H5927G]]"
+- "[[H6726]]"
+- "[[H0413]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Jeremiah 31:6**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For there shall be a day, [that] the watchmen upon the mount Ephraim shall cry, Arise ye, and let us go up to Zion unto the LORD our God.
 <small><sub>**BSB:**</sub></small>
 For there will be a day when watchmen will call out on the hills of Ephraim, ‘Arise, let us go up to Zion, to the LORD our God!’”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3426\|יֶשׁ]][[H9014\|־]] [[H3117G\|י֔וֹם]] [[H7121I\|קָרְא֥וּ]] [[H5341\|נֹצְרִ֖ים]] [[H9003\|בְּ]][[H2022H\|הַ֣ר]] [[H0669G\|אֶפְרָ֑יִם]] [[H6965B\|ק֚וּמוּ]] [[H9002\|וְ]][[H5927G\|נַעֲלֶ֣ה]] [[H6726\|צִיּ֔וֹן]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵֽי]][[H9025\|נוּ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic EPHRAIM|EPHRAIM]] • [[topic WATCHMAN|WATCHMAN]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.5|<< Jeremiah 31:5]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.7|Jeremiah 31:7 >>]]</td></tr></table>
 
@@ -20,7 +76,7 @@ For there will be a day when watchmen will call out on the hills of Ephraim, ‘
 | Zion  |**<big>&#8207;[[H6726\|צִיּ֔וֹן]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God our  |**<big>&#8207;[[H0430G\|אֱלֹהֵֽי]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God our  |**<big>&#8207;[[H0430G\|אֱלֹהֵֽי]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.5|<< Jeremiah 31:5]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.7|Jeremiah 31:7 >>]]</td></tr></table>
 
 

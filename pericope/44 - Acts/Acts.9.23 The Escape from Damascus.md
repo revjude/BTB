@@ -1,26 +1,33 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Escape from Damascus
+type: Pericope
 pericope: "[[Acts.9.23 The Escape from Damascus|The Escape from Damascus]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: Acts
 chapter: 9
 book/chapter: "[[Acts.9|Acts 9]]"
-genre:
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 3
 verses:
 - "[[Acts.9.23]]"
 - "[[Acts.9.24]]"
 - "[[Acts.9.25]]"
 ---
 
-[[Acts.9|Acts 9:23 - Acts 9:25]]
+<small>[[Acts.9|Acts 9:23-25]]</small>
 *The Escape from Damascus*
 
 [[Acts.9.23|23]] And after that many days were fulfilled, the Jews took counsel to kill him:

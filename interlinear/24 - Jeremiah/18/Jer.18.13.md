@@ -1,8 +1,65 @@
+---
+title: Jeremiah 18:13
+type: Verse
+kjv: "Therefore thus saith the LORD; Ask ye now among the heathen, who hath heard such things: the virgin of Israel hath done a very horrible thing."
+bsb: "Therefore this is what the LORD says: “Inquire among the nations: Who has ever heard things like these? Virgin Israel has done a most terrible thing."
+hebrew: "לָכֵ֗ן כֹּ֚ה אָמַ֣ר יְהוָ֔ה שַֽׁאֲלוּ־ נָא֙ בַּגּוֹיִ֔ם מִ֥י שָׁמַ֖ע כָּאֵ֑לֶּה שַֽׁעֲרֻרִת֙ עָשְׂתָ֣ה מְאֹ֔ד בְּתוּלַ֖ת יִשְׂרָאֵֽל׃"
+pericope: "[[Jer.18.1 The Potter and the Clay|The Potter and the Clay]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 18
+book/chapter: "[[Jer.18|Jeremiah 18]]"
+chronological_order: 735
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H7592]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H4310]]"
+- "[[H8085G]]"
+- "[[H9004]]"
+- "[[H0428]]"
+- "[[H8186B]]"
+- "[[H6213A]]"
+- "[[H3966]]"
+- "[[H1330]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 18:13**<big><big>[[Jer.18.1 The Potter and the Clay|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the LORD; Ask ye now among the heathen, who hath heard such things: the virgin of Israel hath done a very horrible thing.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the LORD says: “Inquire among the nations: Who has ever heard things like these? Virgin Israel has done a most terrible thing.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H7592\|שַֽׁאֲלוּ]][[H9014\|־]] [[H4994\|נָא֙]] [[H9003\|בַּ]][[H1471A\|גּוֹיִ֔ם]] [[H4310\|מִ֥י]] [[H8085G\|שָׁמַ֖ע]] [[H9004\|כָּ]][[H0428\|אֵ֑לֶּה]] [[H8186B\|שַֽׁעֲרֻרִת֙]] [[H6213A\|עָשְׂתָ֣ה]] [[H3966\|מְאֹ֔ד]] [[H1330\|בְּתוּלַ֖ת]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.12|<< Jeremiah 18:12]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.14|Jeremiah 18:14 >>]]</td></tr></table>
 

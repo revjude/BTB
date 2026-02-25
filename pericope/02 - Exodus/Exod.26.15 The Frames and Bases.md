@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Frames and Bases
+type: Pericope
 pericope: "[[Exod.26.15 The Frames and Bases|The Frames and Bases]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 26
 book/chapter: "[[Exod.26|Exodus 26]]"
-genre:
+chronological_order: 118
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 16
 verses:
 - "[[Exod.26.15]]"
 - "[[Exod.26.16]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Exod.26.30]]"
 ---
 
-[[Exod.26|Exodus 26:15 - Exodus 26:30]]
+<small>[[Exod.26|Exodus 26:15-30]]</small>
 *The Frames and Bases*
 
 [[Exod.26.15|15]] And thou shalt make boards for the tabernacle \[of\] shittim wood standing up.

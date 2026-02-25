@@ -1,8 +1,68 @@
+---
+title: Isaiah 32:2
+type: Verse
+kjv: "And a man shall be as an hiding place from the wind, and a covert from the tempest; as rivers of water in a dry place, as the shadow of a great rock in a weary land."
+bsb: "Each will be like a shelter from the wind, a refuge from the storm, like streams of water in a dry land, like the shadow of a great rock in an arid land."
+hebrew: "וְהָיָה־ אִ֥ישׁ כְּמַֽחֲבֵא־ ר֖וּחַ וְסֵ֣תֶר זָ֑רֶם כְּפַלְגֵי־ מַ֣יִם בְּצָי֔וֹן כְּצֵ֥ל סֶֽלַע־ כָּבֵ֖ד בְּאֶ֥רֶץ עֲיֵפָֽה׃"
+pericope: "[[Isa.32.1 A Righteous King|A Righteous King]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 32
+book/chapter: "[[Isa.32|Isaiah 32]]"
+chronological_order: 675
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic RIVER|RIVER]]"
+- "[[topic ROCK|ROCK]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H0376I]]"
+- "[[H9004]]"
+- "[[H4224A]]"
+- "[[H7307H]]"
+- "[[H9002]]"
+- "[[H5643A]]"
+- "[[H2230]]"
+- "[[H6388]]"
+- "[[H4325G]]"
+- "[[H9003]]"
+- "[[H6724]]"
+- "[[H6738]]"
+- "[[H5553H]]"
+- "[[H3515]]"
+- "[[H0776G]]"
+- "[[H5889]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 32:2**<big><big>[[Isa.32.1 A Righteous King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a man shall be as an hiding place from the wind, and a covert from the tempest; as rivers of water in a dry place, as the shadow of a great rock in a weary land.
 <small><sub>**BSB:**</sub></small>
 Each will be like a shelter from the wind, a refuge from the storm, like streams of water in a dry land, like the shadow of a great rock in an arid land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָה]][[H9014\|־]] [[H0376I\|אִ֥ישׁ]] [[H9004\|כְּ]][[H4224A\|מַֽחֲבֵא]][[H9014\|־]] [[H7307H\|ר֖וּחַ]] [[H9002\|וְ]][[H5643A\|סֵ֣תֶר]] [[H2230\|זָ֑רֶם]] [[H9004\|כְּ]][[H6388\|פַלְגֵי]][[H9014\|־]] [[H4325G\|מַ֣יִם]] [[H9003\|בְּ]][[H6724\|צָי֔וֹן]] [[H9004\|כְּ]][[H6738\|צֵ֥ל]] [[H5553H\|סֶֽלַע]][[H9014\|־]] [[H3515\|כָּבֵ֖ד]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H5889\|עֲיֵפָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PEACE|PEACE]] • [[topic RIVER|RIVER]] • [[topic ROCK|ROCK]] • [[topic SALVATION|SALVATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.32.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.1|<< Isaiah 32:1]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.3|Isaiah 32:3 >>]]</td></tr></table>
 

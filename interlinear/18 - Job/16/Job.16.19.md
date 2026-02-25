@@ -1,8 +1,56 @@
+---
+title: Job 16:19
+type: Verse
+kjv: "Also now, behold, my witness is in heaven, and my record is on high."
+bsb: "Even now my witness is in heaven, and my advocate is on high."
+hebrew: "גַּם־ עַ֭תָּה הִנֵּה־ בַשָּׁמַ֣יִם עֵדִ֑י וְ֝שָׂהֲדִ֗י בַּמְּרוֹמִֽים׃"
+pericope: "[[Job.16.1 Job Decries His Comforters|Job Decries His Comforters]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 16
+book/chapter: "[[Job.16|Job 16]]"
+chronological_order: 27
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEART|HEART]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H6258]]"
+- "[[H2009]]"
+- "[[H9003]]"
+- "[[H8064]]"
+- "[[H5707]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H7717]]"
+- "[[H4791]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 16:19**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also now, behold, my witness [is] in heaven, and my record [is] on high.
 <small><sub>**BSB:**</sub></small>
 Even now my witness is in heaven, and my advocate is on high.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּם]][[H9014\|־]] [[H6258\|עַ֭תָּה]] [[H2009\|הִנֵּה]][[H9014\|־]] [[H9003\|בַ]][[H8064\|שָּׁמַ֣יִם]] [[H5707\|עֵדִ֑]][[H9020\|י]] [[H9002\|וְ֝]][[H7717\|שָׂהֲדִ֗]][[H9020\|י]] [[H9003\|בַּ]][[H4791\|מְּרוֹמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic HEART|HEART]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.18|<< Job 16:18]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.20|Job 16:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

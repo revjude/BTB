@@ -1,10 +1,71 @@
+---
+title: Hebrews 4:7
+type: Verse
+kjv: "Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts."
+bsb: "God again designated a certain day as “Today,” when a long time later He spoke through David as was just stated: “Today, if you hear His voice, do not harden your hearts.”"
+greek: "πάλιν τινὰ ὁρίζει ἡμέραν· σήμερον, ἐν Δαυὶδ λέγων· μετὰ τοσοῦτον χρόνον, καθὼς προείρηται, σήμερον ἐὰν τῆς φωνῆς αὐτοῦ ἀκούσητε, μὴ σκληρύνητε τὰς καρδίας ὑμῶν.¶"
+pericope: "[[Heb.4.1 The Sabbath Rest|The Sabbath Rest]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 4
+book/chapter: "[[Heb.4|Hebrews 4]]"
+chronological_order: 1143
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic REST|REST]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3825]]"
+- "[[G5100]]"
+- "[[G3724]]"
+- "[[G2250]]"
+- "[[G4594]]"
+- "[[G1722]]"
+- "[[G1138]]"
+- "[[G3004G]]"
+- "[[G3326]]"
+- "[[G5118]]"
+- "[[G5550]]"
+- "[[G2531]]"
+- "[[G4280]]"
+- "[[G1437]]"
+- "[[G3588]]"
+- "[[G5456G]]"
+- "[[G0846]]"
+- "[[G0191]]"
+- "[[G3361]]"
+- "[[G4645]]"
+- "[[G2588]]"
+- "[[G4771]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Hebrews 4:7**<big><big>[[Heb.4.1 The Sabbath Rest|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts.
 <small><sub>**BSB:**</sub></small>
 God again designated a certain day as “Today,” when a long time later He spoke through David as was just stated: “Today, if you hear His voice, do not harden your hearts.”
-<small><sub>**Literal:**</sub></small>
-again a certain He appoints day: Today, through David saying: after so long a time, even as it has been predicted, Today if the voice of Him you shall hear, not shall harden the hearts of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.6|<< Hebrews 4:6]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.8|Hebrews 4:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3825\|πάλιν]]  [[G5100\|τινὰ]]  [[G3724\|ὁρίζει]]  [[G2250\|ἡμέραν·]]  [[G4594\|σήμερον,]]  [[G1722\|ἐν]]  [[G1138\|Δαυὶδ]]  [[G3004G\|λέγων·]]  [[G3326\|μετὰ]]  [[G5118\|τοσοῦτον]]  [[G5550\|χρόνον,]]  [[G2531\|καθὼς]]  [[G4280\|προείρηται,]]  [[G4594\|σήμερον]]  [[G1437\|ἐὰν]]  [[G3588\|τῆς]]  [[G5456G\|φωνῆς]]  [[G0846\|αὐτοῦ]]  [[G0191\|ἀκούσητε,]]  [[G3361\|μὴ]]  [[G4645\|σκληρύνητε]]  [[G3588\|τὰς]]  [[G2588\|καρδίας]]  [[G4771\|ὑμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]] • [[topic PROCRASTINATION|PROCRASTINATION]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REGENERATION|REGENERATION]] • [[topic REST|REST]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.6|<< Hebrews 4:6]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.8|Hebrews 4:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 4:7** is...
 > $\quad$ referencing: [[LXX.Ps.95.7|Ps 95:7-8]]

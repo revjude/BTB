@@ -1,10 +1,56 @@
+---
+title: 1 Corinthians 1:8
+type: Verse
+kjv: "Who shall also confirm you unto the end, that ye may be blameless in the day of our Lord Jesus Christ."
+bsb: "He will sustain you to the end, so that you will be blameless on the day of our Lord Jesus Christ."
+greek: "ὃς καὶ βεβαιώσει ὑμᾶς ἕως τέλους ἀνεγκλήτους ἐν τῇ ἡμέρᾳ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ.¶"
+pericope: "[[1Cor.1.4 Thanksgiving|Thanksgiving]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 1
+book/chapter: "[[1Cor.1|1 Corinthians 1]]"
+chronological_order: 1058
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G3739]]"
+- "[[G2532]]"
+- "[[G0950]]"
+- "[[G4771]]"
+- "[[G2193]]"
+- "[[G5056]]"
+- "[[G0410]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 1:8**<big><big>[[1Cor.1.4 Thanksgiving|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who shall also confirm you unto the end, [that ye may be] blameless in the day of our Lord Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 He will sustain you to the end, so that you will be blameless on the day of our Lord Jesus Christ.
-<small><sub>**Literal:**</sub></small>
-who also will sustain you to [the] end blameless in the day of the Lord of us Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.7|<< 1 Corinthians 1:7]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.9|1 Corinthians 1:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G2532\|καὶ]]  [[G0950\|βεβαιώσει]]  [[G4771\|ὑμᾶς]]  [[G2193\|ἕως]]  [[G5056\|τέλους]]  [[G0410\|ἀνεγκλήτους]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2250\|ἡμέρᾳ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GRACE OF GOD|GRACE OF GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.7|<< 1 Corinthians 1:7]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.9|1 Corinthians 1:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

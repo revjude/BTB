@@ -3,7 +3,7 @@
 
 1. Season of, promised annual return of [[Gen.8.22|Ge 8:22]]
 
-- Described [[Prov.27.25|Pr 27:25]]; [[Song.2.11|So 2:11]]-[[Song.2.13|13]]
+- Described [[Prov.27.25|Pr 27:25]]; [[Song.2.11|So 2:11-13]]
 
 2. Of water
 

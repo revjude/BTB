@@ -1,8 +1,58 @@
+---
+title: Deuteronomy 22:10
+type: Verse
+kjv: "Thou shalt not plow with an ox and an ass together."
+bsb: "Do not plow with an ox and a donkey yoked together."
+hebrew: "לֹֽא־ תַחֲרֹ֥שׁ בְּשׁוֹר־ וּבַחֲמֹ֖ר יַחְדָּֽו׃ ס"
+pericope: "[[Deut.22.1 Various Laws|Various Laws]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 22
+book/chapter: "[[Deut.22|Deuteronomy 22]]"
+chronological_order: 218
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ASS (DONKEY)|ASS (DONKEY)]]"
+- "[[topic BULLOCK|BULLOCK]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2790A]]"
+- "[[H9003]]"
+- "[[H7794]]"
+- "[[H9002]]"
+- "[[H2543]]"
+- "[[H3162B]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Deuteronomy 22:10**<big><big>[[Deut.22.1 Various Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not plow with an ox and an ass together.
 <small><sub>**BSB:**</sub></small>
 Do not plow with an ox and a donkey yoked together.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H2790A\|תַחֲרֹ֥שׁ]] [[H9003\|בְּ]][[H7794\|שׁוֹר]][[H9014\|־]] [[H9002\|וּ]][[H9003\|בַ]][[H2543\|חֲמֹ֖ר]] [[H3162B\|יַחְדָּֽו]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic ANIMALS|ANIMALS]] • [[topic ASS (DONKEY)|ASS (DONKEY)]] • [[topic BULLOCK|BULLOCK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.9|<< Deuteronomy 22:9]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.11|Deuteronomy 22:11 >>]]</td></tr></table>
 
@@ -12,7 +62,7 @@ Do not plow with an ox and a donkey yoked together.
 | you will plow  |**<big>&#8207;[[H2790A\|תַחֲרֹ֥שׁ]]&#8207; </big>**| ta.cha.Rosh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with an ox  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7794\|שׁוֹר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> shor-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and with a donkey  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H2543\|חֲמֹ֖ר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HR]]</sup></small> cha.Mor<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| together  |**<big>&#8207;[[H3162B\|יַחְדָּֽו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yach.Dav<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| together  |**<big>&#8207;[[H3162B\|יַחְדָּֽו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yach.Dav<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.9|<< Deuteronomy 22:9]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.11|Deuteronomy 22:11 >>]]</td></tr></table>
 
 

@@ -1,10 +1,53 @@
+---
+title: 2 Timothy 4:20
+type: Verse
+kjv: "Erastus abode at Corinth: but Trophimus have I left at Miletum sick."
+bsb: "Erastus has remained at Corinth, and Trophimus I left sick in Miletus."
+greek: "Ἔραστος ἔμεινεν ἐν Κορίνθῳ· Τρόφιμον δὲ ἀπέλιπον ἐν Μιλήτῳ ἀσθενοῦντα.¶"
+pericope: "[[2Tim.4.19 Final Greetings|Final Greetings]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 4
+book/chapter: "[[2Tim.4|2 Timothy 4]]"
+chronological_order: 1156
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic CORINTH|CORINTH]]"
+- "[[topic ERASTUS|ERASTUS]]"
+- "[[topic MILETUS|MILETUS]]"
+- "[[topic TROPHIMUS|TROPHIMUS]]"
+strongs:
+- "[[G2037]]"
+- "[[G3306]]"
+- "[[G1722]]"
+- "[[G2882]]"
+- "[[G5161]]"
+- "[[G1161]]"
+- "[[G0620]]"
+- "[[G3399]]"
+- "[[G0770H]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **2 Timothy 4:20**<big><big>[[2Tim.4.19 Final Greetings|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Erastus abode at Corinth: but Trophimus have I left at Miletum sick.
 <small><sub>**BSB:**</sub></small>
 Erastus has remained at Corinth, and Trophimus I left sick in Miletus.
-<small><sub>**Literal:**</sub></small>
-Erastus remained in Corinth; Trophimus however I left in Miletus ailing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.19|<< 2 Timothy 4:19]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.21|2 Timothy 4:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2037\|Ἔραστος]]  [[G3306\|ἔμεινεν]]  [[G1722\|ἐν]]  [[G2882\|Κορίνθῳ·]]  [[G5161\|Τρόφιμον]]  [[G1161\|δὲ]]  [[G0620\|ἀπέλιπον]]  [[G1722\|ἐν]]  [[G3399\|Μιλήτῳ]]  [[G0770H\|ἀσθενοῦντα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CORINTH|CORINTH]] • [[topic ERASTUS|ERASTUS]] • [[topic MILETUS|MILETUS]] • [[topic TROPHIMUS|TROPHIMUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.19|<< 2 Timothy 4:19]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.21|2 Timothy 4:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

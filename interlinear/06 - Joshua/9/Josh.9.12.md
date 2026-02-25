@@ -1,8 +1,73 @@
+---
+title: Joshua 9:12
+type: Verse
+kjv: "This our bread we took hot for our provision out of our houses on the day we came forth to go unto you; but now, behold, it is dry, and it is mouldy:"
+bsb: "This bread of ours was warm when we packed it at home on the day we left to come to you. But look, it is now dry and moldy."
+hebrew: "זֶ֣ה׀ לַחְמֵ֗נוּ חָ֞ם הִצְטַיַּ֤דְנוּ אֹתוֹ֙ מִבָּ֣תֵּ֔ינוּ בְּי֥וֹם צֵאתֵ֖נוּ לָלֶ֣כֶת אֲלֵיכֶ֑ם וְעַתָּה֙ הִנֵּ֣ה יָבֵ֔שׁ וְהָיָ֖ה נִקֻּדִֽים׃"
+pericope: "[[Josh.9.1 The Deceit of the Gibeonites|The Deceit of the Gibeonites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 9
+book/chapter: "[[Josh.9|Joshua 9]]"
+chronological_order: 239
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MAGNANIMITY|MAGNANIMITY]]"
+- "[[topic OATH|OATH]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic TREATY|TREATY]]"
+strongs:
+- "[[H2088]]"
+- "[[H9015]]"
+- "[[H3899H]]"
+- "[[H9025]]"
+- "[[H2525]]"
+- "[[H6679B]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H1004B]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H3318G]]"
+- "[[H9045]]"
+- "[[H9005]]"
+- "[[H1980H]]"
+- "[[H0413]]"
+- "[[H9036]]"
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H2009]]"
+- "[[H3001]]"
+- "[[H1961]]"
+- "[[H5350]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 9:12**<big><big>[[Josh.9.1 The Deceit of the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This our bread we took hot [for] our provision out of our houses on the day we came forth to go unto you; but now, behold, it is dry, and it is mouldy:
 <small><sub>**BSB:**</sub></small>
 This bread of ours was warm when we packed it at home on the day we left to come to you. But look, it is now dry and moldy.
+<small><sub>**Hebrew:**</sub></small>
+[[H2088\|זֶ֣ה]][[H9015\|׀]] [[H3899H\|לַחְמֵ֗]][[H9025\|נוּ]] [[H2525\|חָ֞ם]] [[H6679B\|הִצְטַיַּ֤דְנוּ]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H9006\|מִ]][[H1004B\|בָּ֣תֵּ֔י]][[H9025\|נוּ]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H3318G\|צֵאתֵ֖]][[H9045\|נוּ]] [[H9005\|לָ]][[H1980H\|לֶ֣כֶת]] [[H0413\|אֲלֵי]][[H9036\|כֶ֑ם]] [[H9002\|וְ]][[H6258\|עַתָּה֙]] [[H2009\|הִנֵּ֣ה]] [[H3001\|יָבֵ֔שׁ]] [[H9002\|וְ]][[H1961\|הָיָ֖ה]] [[H5350\|נִקֻּדִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DECEPTION|DECEPTION]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic JOSHUA|JOSHUA]] • [[topic MAGNANIMITY|MAGNANIMITY]] • [[topic OATH|OATH]] • [[topic SERVANT|SERVANT]] • [[topic TREATY|TREATY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.9.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.11|<< Joshua 9:11]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.13|Joshua 9:13 >>]]</td></tr></table>
 

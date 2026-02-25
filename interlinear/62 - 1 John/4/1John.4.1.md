@@ -1,10 +1,60 @@
+---
+title: 1 John 4:1
+type: Verse
+kjv: "Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world."
+bsb: "Beloved, do not believe every spirit, but test the spirits to see whether they are from God. For many false prophets have gone out into the world."
+greek: "Ἀγαπητοί, μὴ παντὶ πνεύματι πιστεύετε ἀλλὰ δοκιμάζετε τὰ πνεύματα εἰ ἐκ τοῦ θεοῦ ἐστιν, ὅτι πολλοὶ ψευδοπροφῆται ἐξεληλύθασιν εἰς τὸν κόσμον."
+pericope: "[[1John.4.1 Testing the Spirits|Testing the Spirits]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 4
+book/chapter: "[[1John.4|1 John 4]]"
+chronological_order: 1164
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G0027]]"
+- "[[G3361]]"
+- "[[G3956]]"
+- "[[G4151G]]"
+- "[[G4100]]"
+- "[[G0235]]"
+- "[[G1381]]"
+- "[[G3588]]"
+- "[[G1487G]]"
+- "[[G1537]]"
+- "[[G2316]]"
+- "[[G1510]]"
+- "[[G3754H]]"
+- "[[G4183]]"
+- "[[G5578]]"
+- "[[G1831]]"
+- "[[G1519]]"
+- "[[G2889]]"
+texts:
+- NKO
+---
+
 **1 John 4:1**<big><big>[[1John.4.1 Testing the Spirits|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.
 <small><sub>**BSB:**</sub></small>
 Beloved, do not believe every spirit, but test the spirits to see whether they are from God. For many false prophets have gone out into the world.
-<small><sub>**Literal:**</sub></small>
-Beloved, not every spirit do believe but do test the spirits whether of <the> God they are, because many false prophets have gone out into the world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.24|<< 1 John 3:24]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.2|1 John 4:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0027\|Ἀγαπητοί,]]  [[G3361\|μὴ]]  [[G3956\|παντὶ]]  [[G4151G\|πνεύματι]]  [[G4100\|πιστεύετε]]  [[G0235\|ἀλλὰ]]  [[G1381\|δοκιμάζετε]]  [[G3588\|τὰ]]  [[G4151G\|πνεύματα]]  [[G1487G\|εἰ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1510\|ἐστιν,]]  [[G3754H\|ὅτι]]  [[G4183\|πολλοὶ]]  [[G5578\|ψευδοπροφῆται]]  [[G1831\|ἐξεληλύθασιν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2889\|κόσμον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.24|<< 1 John 3:24]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.2|1 John 4:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

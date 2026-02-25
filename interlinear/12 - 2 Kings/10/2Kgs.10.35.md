@@ -1,8 +1,58 @@
+---
+title: 2 Kings 10:35
+type: Verse
+kjv: "And Jehu slept with his fathers: and they buried him in Samaria. And Jehoahaz his son reigned in his stead."
+bsb: "And Jehu rested with his fathers and was buried in Samaria, and his son Jehoahaz reigned in his place."
+hebrew: "וַיִּשְׁכַּ֤ב יֵהוּא֙ עִם־ אֲבֹתָ֔יו וַיִּקְבְּר֥וּ אֹת֖וֹ בְּשֹׁמְר֑וֹן וַיִּמְלֹ֛ךְ יְהוֹאָחָ֥ז בְּנ֖וֹ תַּחְתָּֽיו׃"
+pericope: "[[2Kgs.10.34 Jehoahaz Succeeds Jehu in Israel|Jehoahaz Succeeds Jehu in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 10
+book/chapter: "[[2Kgs.10|2 Kings 10]]"
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic JEHOAHAZ|JEHOAHAZ]]"
+- "[[topic JEHU|JEHU]]"
+strongs:
+- "[[H9001]]"
+- "[[H7901J]]"
+- "[[H3058H]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H6912]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H8111]]"
+- "[[H4427A]]"
+- "[[H3059G]]"
+- "[[H1121A]]"
+- "[[H8478H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 10:35**<big><big>[[2Kgs.10.34 Jehoahaz Succeeds Jehu in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehu slept with his fathers: and they buried him in Samaria. And Jehoahaz his son reigned in his stead.
 <small><sub>**BSB:**</sub></small>
 And Jehu rested with his fathers and was buried in Samaria, and his son Jehoahaz reigned in his place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7901J\|יִּשְׁכַּ֤ב]] [[H3058H\|יֵהוּא֙]] [[H5973A\|עִם]][[H9014\|־]] [[H0001G\|אֲבֹתָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H6912\|יִּקְבְּר֥וּ]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9003\|בְּ]][[H8111\|שֹׁמְר֑וֹן]] [[H9001\|וַ]][[H4427A\|יִּמְלֹ֛ךְ]] [[H3059G\|יְהוֹאָחָ֥ז]] [[H1121A\|בְּנ֖]][[H9023\|וֹ]] [[H8478H\|תַּחְתָּֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHOAHAZ|JEHOAHAZ]] • [[topic JEHU|JEHU]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.34|<< 2 Kings 10:34]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.36|2 Kings 10:36 >>]]</td></tr></table>
 

@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 9:3
+type: Verse
+kjv: "Understand therefore this day, that the LORD thy God is he which goeth over before thee; as a consuming fire he shall destroy them, and he shall bring them down before thy face: so shalt thou drive them out, and destroy them quickly, as the LORD hath said unto thee."
+bsb: "But understand that today the LORD your God goes across ahead of you as a consuming fire; He will destroy them and subdue them before you. And you will drive them out and annihilate them swiftly, as the LORD has promised you."
+hebrew: "וְיָדַעְתָּ֣ הַיּ֗וֹם כִּי֩ יְהוָ֨ה אֱלֹהֶ֜יךָ הֽוּא־ הָעֹבֵ֤ר לְפָנֶ֙יךָ֙ אֵ֣שׁ אֹֽכְלָ֔ה ה֧וּא יַשְׁמִידֵ֛ם וְה֥וּא יַכְנִיעֵ֖ם לְפָנֶ֑יךָ וְהֽוֹרַשְׁתָּ֤ם וְהַֽאַבַדְתָּם֙ מַהֵ֔ר כַּאֲשֶׁ֛ר דִּבֶּ֥ר יְהוָ֖ה לָֽךְ׃"
+pericope: "[[Deut.9.1 Assurance of Victory|Assurance of Victory]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 9
+book/chapter: "[[Deut.9|Deuteronomy 9]]"
+chronological_order: 205
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H1931]]"
+- "[[H9014]]"
+- "[[H5674A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0784]]"
+- "[[H0398]]"
+- "[[H8045]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H3665]]"
+- "[[H3423H]]"
+- "[[H0006]]"
+- "[[H4118B]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696I]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 9:3**<big><big>[[Deut.9.1 Assurance of Victory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Understand therefore this day, that the LORD thy God [is] he which goeth over before thee; [as] a consuming fire he shall destroy them, and he shall bring them down before thy face: so shalt thou drive them out, and destroy them quickly, as the LORD hath said unto thee.
 <small><sub>**BSB:**</sub></small>
 But understand that today the LORD your God goes across ahead of you as a consuming fire; He will destroy them and subdue them before you. And you will drive them out and annihilate them swiftly, as the LORD has promised you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3045\|יָדַעְתָּ֣]] [[H9009\|הַ]][[H3117G\|יּ֗וֹם]] [[H3588A\|כִּי֩]] [[H3068G\|יְהוָ֨ה]] [[H0430G\|אֱלֹהֶ֜י]][[H9021\|ךָ]] [[H1931\|הֽוּא]][[H9014\|־]] [[H9009\|הָ]][[H5674A\|עֹבֵ֤ר]] [[H9005\|לְ]][[H6440G\|פָנֶ֙י]][[H9021\|ךָ֙]] [[H0784\|אֵ֣שׁ]] [[H0398\|אֹֽכְלָ֔ה]] [[H1931\|ה֧וּא]] [[H8045\|יַשְׁמִידֵ֛]][[H9038\|ם]] [[H9002\|וְ]][[H1931\|ה֥וּא]] [[H3665\|יַכְנִיעֵ֖]][[H9038\|ם]] [[H9005\|לְ]][[H6440G\|פָנֶ֑י]][[H9021\|ךָ]] [[H9001\|וְ]][[H3423H\|הֽוֹרַשְׁתָּ֤]][[H9038\|ם]] [[H9001\|וְ]][[H0006\|הַֽאַבַדְתָּ]][[H9038\|ם֙]] [[H4118B\|מַהֵ֔ר]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H1696I\|דִּבֶּ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לָֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.2|<< Deuteronomy 9:2]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.4|Deuteronomy 9:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

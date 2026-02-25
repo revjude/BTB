@@ -1,8 +1,52 @@
+---
+title: Job 41:9
+type: Verse
+kjv: "Behold, the hope of him is in vain: shall not one be cast down even at the sight of him?"
+bsb: "Surely hope of overcoming him is false. Is not the sight of him overwhelming?"
+hebrew: "הֵן־ תֹּחַלְתּ֥וֹ נִכְזָ֑בָה הֲגַ֖ם אֶל־ מַרְאָ֣יו יֻטָֽל׃"
+pericope: "[[Job.41.1 The LORD’s Power Shown in Leviathan|The LORD’s Power Shown in Leviathan]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 41
+book/chapter: "[[Job.41|Job 41]]"
+chronological_order: 52
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H2005]]"
+- "[[H9014]]"
+- "[[H8431]]"
+- "[[H9023]]"
+- "[[H3576]]"
+- "[[H9008]]"
+- "[[H1571]]"
+- "[[H0413]]"
+- "[[H4758]]"
+- "[[H2904]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 41:9**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the hope of him is in vain: shall not [one] be cast down even at the sight of him?
 <small><sub>**BSB:**</sub></small>
 Surely hope of overcoming him is false. Is not the sight of him overwhelming?
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵן]][[H9014\|־]] [[H8431\|תֹּחַלְתּ֥]][[H9023\|וֹ]] [[H3576\|נִכְזָ֑בָה]] [[H9008\|הֲ]][[H1571\|גַ֖ם]] [[H0413\|אֶל]][[H9014\|־]] [[H4758\|מַרְאָ֣י]][[H9023\|ו]] [[H2904\|יֻטָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.8|<< Job 41:8]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.10|Job 41:10 >>]]</td></tr></table>
 

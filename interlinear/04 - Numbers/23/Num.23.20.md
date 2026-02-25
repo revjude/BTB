@@ -1,8 +1,54 @@
+---
+title: Numbers 23:20
+type: Verse
+kjv: "Behold, I have received commandment to bless: and he hath blessed; and I cannot reverse it."
+bsb: "I have indeed received a command to bless; He has blessed, and I cannot change it."
+hebrew: "הִנֵּ֥ה בָרֵ֖ךְ לָקָ֑חְתִּי וּבֵרֵ֖ךְ וְלֹ֥א אֲשִׁיבֶֽנָּה׃"
+pericope: "[[Num.23.13 Balaam’s Second Oracle|Balaam’s Second Oracle]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 23
+book/chapter: "[[Num.23|Numbers 23]]"
+chronological_order: 183
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PISGAH|PISGAH]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H2009]]"
+- "[[H1288]]"
+- "[[H3947H]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7725I]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 23:20**<big><big>[[Num.23.13 Balaam’s Second Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I have received [commandment] to bless: and he hath blessed; and I cannot reverse it.
 <small><sub>**BSB:**</sub></small>
 I have indeed received a command to bless; He has blessed, and I cannot change it.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֥ה]] [[H1288\|בָרֵ֖ךְ]] [[H3947H\|לָקָ֑חְתִּי]] [[H9002\|וּ]][[H1288\|בֵרֵ֖ךְ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H7725I\|אֲשִׁיבֶֽ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PISGAH|PISGAH]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.19|<< Numbers 23:19]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.21|Numbers 23:21 >>]]</td></tr></table>
 

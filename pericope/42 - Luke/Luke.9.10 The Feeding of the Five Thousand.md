@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Feeding of the Five Thousand
+type: Pericope
 pericope: "[[Luke.9.10 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Luke
 chapter: 9
 book/chapter: "[[Luke.9|Luke 9]]"
-genre:
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 8
 verses:
 - "[[Luke.9.10]]"
 - "[[Luke.9.11]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Luke.9.17]]"
 ---
 
-[[Luke.9|Luke 9:10 - Luke 9:17]]
+<small>[[Luke.9|Luke 9:10-17]]</small>
 *The Feeding of the Five Thousand*
 
 [[Luke.9.10|10]] And the apostles, when they were returned, told him all that they had done. And he took them, and went aside privately into a desert place belonging to the city called Bethsaida.

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Turning from Evil
+type: Pericope
 pericope: "[[1Pet.3.8 Turning from Evil|Turning from Evil]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: 1 Peter
 chapter: 3
 book/chapter: "[[1Pet.3|1 Peter 3]]"
-genre:
+chronological_order: 1137
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
 - epistle
 - general epistle
 - circular letter
 - persecution literature
+verse_count: 6
 verses:
 - "[[1Pet.3.8]]"
 - "[[1Pet.3.9]]"
@@ -24,7 +31,7 @@ verses:
 - "[[1Pet.3.13]]"
 ---
 
-[[1Pet.3|1 Peter 3:8 - 1 Peter 3:13]]
+<small>[[1Pet.3|1 Peter 3:8-13]]</small>
 *Turning from Evil*
 
 [[1Pet.3.8|8]] Finally, \[be ye\] all of one mind, having compassion one of another, love as brethren, \[be\] pitiful, \[be\] courteous:

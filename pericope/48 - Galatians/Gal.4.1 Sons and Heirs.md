@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sons and Heirs
+type: Pericope
 pericope: "[[Gal.4.1 Sons and Heirs|Sons and Heirs]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Galatians
 chapter: 4
 book/chapter: "[[Gal.4|Galatians 4]]"
-genre:
+chronological_order: 1042
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
 - epistle
 - pauline epistle
 - polemical
+verse_count: 7
 verses:
 - "[[Gal.4.1]]"
 - "[[Gal.4.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Gal.4.7]]"
 ---
 
-[[Gal.4|Galatians 4:1 - Galatians 4:7]]
+<small>[[Gal.4|Galatians 4:1-7]]</small>
 *Sons and Heirs*
 
 [[Gal.4.1|1]] Now I say, \[That\] the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all;

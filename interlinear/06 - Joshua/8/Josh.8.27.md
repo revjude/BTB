@@ -1,8 +1,56 @@
+---
+title: Joshua 8:27
+type: Verse
+kjv: "Only the cattle and the spoil of that city Israel took for a prey unto themselves, according unto the word of the LORD which he commanded Joshua."
+bsb: "Israel took for themselves only the cattle and plunder of that city, as the LORD had commanded Joshua."
+hebrew: "רַ֣ק הַבְּהֵמָ֗ה וּשְׁלַל֙ הָעִ֣יר הַהִ֔יא בָּזְז֥וּ לָהֶ֖ם יִשְׂרָאֵ֑ל כִּדְבַ֣ר יְהוָ֔ה אֲשֶׁ֥ר צִוָּ֖ה אֶת־ יְהוֹשֻֽׁעַ׃"
+pericope: "[[Josh.8.1 The Conquest of Ai|The Conquest of Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 8
+book/chapter: "[[Josh.8|Joshua 8]]"
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+strongs:
+- "[[H7535]]"
+- "[[H9009]]"
+- "[[H0929]]"
+- "[[H9002]]"
+- "[[H7998]]"
+- "[[H5892B]]"
+- "[[H1931]]"
+- "[[H0962]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3478]]"
+- "[[H9004]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3091G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 8:27**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only the cattle and the spoil of that city Israel took for a prey unto themselves, according unto the word of the LORD which he commanded Joshua.
 <small><sub>**BSB:**</sub></small>
 Israel took for themselves only the cattle and plunder of that city, as the LORD had commanded Joshua.
+<small><sub>**Hebrew:**</sub></small>
+[[H7535\|רַ֣ק]] [[H9009\|הַ]][[H0929\|בְּהֵמָ֗ה]] [[H9002\|וּ]][[H7998\|שְׁלַל֙]] [[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H1931\|הִ֔יא]] [[H0962\|בָּזְז֥וּ]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9004\|כִּ]][[H1697G\|דְבַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H6680\|צִוָּ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3091G\|יְהוֹשֻֽׁעַ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.26|<< Joshua 8:26]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.28|Joshua 8:28 >>]]</td></tr></table>
 

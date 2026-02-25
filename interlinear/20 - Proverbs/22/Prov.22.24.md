@@ -1,8 +1,56 @@
+---
+title: Proverbs 22:24
+type: Verse
+kjv: "Make no friendship with an angry man; and with a furious man thou shalt not go:"
+bsb: "Do not make friends with an angry man, and do not associate with a hot-tempered man,"
+hebrew: "אַל־ תִּ֭תְרַע אֶת־ בַּ֣עַל אָ֑ף וְאֶת־ אִ֥ישׁ חֵ֝מוֹת לֹ֣א תָבֽוֹא׃"
+pericope: "[[Prov.22.24 Saying 3|Saying 3]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 22
+book/chapter: "[[Prov.22|Proverbs 22]]"
+chronological_order: 477
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H7462C]]"
+- "[[H0854]]"
+- "[[H1167I]]"
+- "[[H0639G]]"
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H2534]]"
+- "[[H3808]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 22:24**<big><big>[[Prov.22.24 Saying 3|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Make no friendship with an angry man; and with a furious man thou shalt not go:
 <small><sub>**BSB:**</sub></small>
 Do not make friends with an angry man, and do not associate with a hot-tempered man,
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H7462C\|תִּ֭תְרַע]] [[H0854\|אֶת]][[H9014\|־]] [[H1167I\|בַּ֣עַל]] [[H0639G\|אָ֑ף]] [[H9002\|וְ]][[H0854\|אֶת]][[H9014\|־]] [[H0376G\|אִ֥ישׁ]] [[H2534\|חֵ֝מוֹת]] [[H3808\|לֹ֣א]] [[H0935G\|תָבֽוֹא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic COMPANY|COMPANY]] • [[topic EXAMPLE|EXAMPLE]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic INFLUENCE|INFLUENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.22.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.23|<< Proverbs 22:23]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.25|Proverbs 22:25 >>]]</td></tr></table>
 

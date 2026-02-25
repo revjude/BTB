@@ -1,8 +1,68 @@
+---
+title: 1 Chronicles 14:11
+type: Verse
+kjv: "So they came up to Baalperazim; and David smote them there. Then David said, God hath broken in upon mine enemies by mine hand like the breaking forth of waters: therefore they called the name of that place Baalperazim."
+bsb: "So David and his men went up to Baal-perazim, where he defeated the Philistines and said, “Like a bursting flood, God has burst out against my enemies by my hand.” So they called that place Baal-perazim."
+hebrew: "וַיַּעֲל֥וּ בְּבַֽעַל־ פְּרָצִים֮ וַיַּכֵּ֣ם שָׁ֣ם דָּוִיד֒ וַיֹּ֣אמֶר דָּוִ֔יד פָּרַ֨ץ הָֽאֱלֹהִ֧ים אֶת־ אוֹיְבַ֛י בְּיָדִ֖י כְּפֶ֣רֶץ מָ֑יִם עַל־ כֵּ֗ן קָֽרְא֛וּ שֵֽׁם־ הַמָּק֥וֹם הַה֖וּא בַּ֥עַל פְּרָצִֽים׃"
+pericope: "[[1Chr.14.8 Two Victories over the Philistines|Two Victories over the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 14
+book/chapter: "[[1Chr.14|1 Chronicles 14]]"
+chronological_order: 395
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BAAL-PERAZIM|BAAL-PERAZIM]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H9003]]"
+- "[[H1188]]"
+- "[[H9014]]"
+- "[[H5221]]"
+- "[[H9038]]"
+- "[[H8033G]]"
+- "[[H1732]]"
+- "[[H0559]]"
+- "[[H6555]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H0853]]"
+- "[[H0341]]"
+- "[[H9020]]"
+- "[[H3027H]]"
+- "[[H9004]]"
+- "[[H6556]]"
+- "[[H4325G]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H4725]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 14:11**<big><big>[[1Chr.14.8 Two Victories over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they came up to Baalperazim; and David smote them there. Then David said, God hath broken in upon mine enemies by mine hand like the breaking forth of waters: therefore they called the name of that place Baalperazim.
 <small><sub>**BSB:**</sub></small>
 So David and his men went up to Baal-perazim, where he defeated the Philistines and said, “Like a bursting flood, God has burst out against my enemies by my hand.” So they called that place Baal-perazim.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|יַּעֲל֥וּ]] [[H9003\|בְּ]][[H1188\|בַֽעַל]][[H9014\|־]] [[H1188\|פְּרָצִים֮]] [[H9001\|וַ]][[H5221\|יַּכֵּ֣]][[H9038\|ם]] [[H8033G\|שָׁ֣ם]] [[H1732\|דָּוִיד֒]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H1732\|דָּוִ֔יד]] [[H6555\|פָּרַ֨ץ]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֧ים]] [[H0853\|אֶת]][[H9014\|־]] [[H0341\|אוֹיְבַ֛]][[H9020\|י]] [[H9003\|בְּ]][[H3027H\|יָדִ֖]][[H9020\|י]] [[H9004\|כְּ]][[H6556\|פֶ֣רֶץ]] [[H4325G\|מָ֑יִם]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֗ן]] [[H7121H\|קָֽרְא֛וּ]] [[H8034\|שֵֽׁם]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֥וֹם]] [[H9009\|הַ]][[H1931\|ה֖וּא]] [[H1188\|בַּ֥עַל]] [[H1188\|פְּרָצִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL-PERAZIM|BAAL-PERAZIM]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.14.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.14.10|<< 1 Chronicles 14:10]]</td><td align="center" style="border:none;">[[1Chr.14|1 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.14.12|1 Chronicles 14:12 >>]]</td></tr></table>
 

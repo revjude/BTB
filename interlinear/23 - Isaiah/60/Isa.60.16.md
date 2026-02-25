@@ -1,8 +1,62 @@
+---
+title: Isaiah 60:16
+type: Verse
+kjv: "Thou shalt also suck the milk of the Gentiles, and shalt suck the breast of kings: and thou shalt know that I the LORD am thy Saviour and thy Redeemer, the mighty One of Jacob."
+bsb: "You will drink the milk of nations and nurse at the breasts of royalty; you will know that I, the LORD, am your Savior and your Redeemer, the Mighty One of Jacob."
+hebrew: "וְיָנַקְתְּ֙ חֲלֵ֣ב גּוֹיִ֔ם וְשֹׁ֥ד מְלָכִ֖ים תִּינָ֑קִי וְיָדַ֗עַתְּ כִּ֣י אֲנִ֤י יְהוָה֙ מֽוֹשִׁיעֵ֔ךְ וְגֹאֲלֵ֖ךְ אֲבִ֥יר יַעֲקֹֽב׃"
+pericope: "[[Isa.60.1 Future Glory for Zion|Future Glory for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 60
+book/chapter: "[[Isa.60|Isaiah 60]]"
+chronological_order: 699
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic MILK|MILK]]"
+strongs:
+- "[[H9001]]"
+- "[[H3243]]"
+- "[[H2461]]"
+- "[[H1471A]]"
+- "[[H9002]]"
+- "[[H7699B]]"
+- "[[H4428G]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H3467]]"
+- "[[H9032]]"
+- "[[H1350A]]"
+- "[[H9022]]"
+- "[[H0046]]"
+- "[[H3290]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 60:16**<big><big>[[Isa.60.1 Future Glory for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt also suck the milk of the Gentiles, and shalt suck the breast of kings: and thou shalt know that I the LORD [am] thy Saviour and thy Redeemer, the mighty One of Jacob.
 <small><sub>**BSB:**</sub></small>
 You will drink the milk of nations and nurse at the breasts of royalty; you will know that I, the LORD, am your Savior and your Redeemer, the Mighty One of Jacob.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3243\|יָנַקְתְּ֙]] [[H2461\|חֲלֵ֣ב]] [[H1471A\|גּוֹיִ֔ם]] [[H9002\|וְ]][[H7699B\|שֹׁ֥ד]] [[H4428G\|מְלָכִ֖ים]] [[H3243\|תִּינָ֑קִי]] [[H9001\|וְ]][[H3045\|יָדַ֗עַתְּ]] [[H3588A\|כִּ֣י]] [[H0589\|אֲנִ֤י]] [[H3068G\|יְהוָה֙]] [[H3467\|מֽוֹשִׁיעֵ֔]][[H9032\|ךְ]] [[H9002\|וְ]][[H1350A\|גֹאֲלֵ֖]][[H9022\|ךְ]] [[H0046\|אֲבִ֥יר]] [[H3290\|יַעֲקֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic MILK|MILK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.60.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.15|<< Isaiah 60:15]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.17|Isaiah 60:17 >>]]</td></tr></table>
 

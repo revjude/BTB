@@ -1,10 +1,56 @@
+---
+title: Mark 5:18
+type: Verse
+kjv: "And when he was come into the ship, he that had been possessed with the devil prayed him that he might be with him."
+bsb: "As He was getting into the boat, the man who had been possessed by the demons begged to go with Him."
+greek: "Καὶ ἐμβαίνοντος αὐτοῦ εἰς τὸ πλοῖον παρεκάλει αὐτὸν ὁ δαιμονισθεὶς ἵνα μετ᾽ αὐτοῦ ᾖ."
+pericope: "[[Mark.5.1 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic GADARENES|GADARENES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G1684]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4143]]"
+- "[[G3870]]"
+- "[[G1139]]"
+- "[[G2443]]"
+- "[[G3326]]"
+- "[[G1510]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 5:18**<big><big>[[Mark.5.1 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he was come into the ship, he that had been possessed with the devil prayed him that he might be with him.
 <small><sub>**BSB:**</sub></small>
 As He was getting into the boat, the man who had been possessed by the demons begged to go with Him.
-<small><sub>**Literal:**</sub></small>
-And when climbing He into the boat was begging Him the [one] having been demonised that with Him he may be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.17|<< Mark 5:17]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.19|Mark 5:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1684\|ἐμβαίνοντος]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4143\|πλοῖον]]  [[G3870\|παρεκάλει]]  [[G0846\|αὐτὸν]]  [[G3588\|ὁ]]  [[G1139\|δαιμονισθεὶς]]  [[G2443\|ἵνα]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ]]  [[G1510\|ᾖ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic GADARENES|GADARENES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.17|<< Mark 5:17]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.19|Mark 5:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

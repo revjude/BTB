@@ -1,8 +1,62 @@
+---
+title: Genesis 5:26
+type: Verse
+kjv: "And Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons and daughters:"
+bsb: "And after he had become the father of Lamech, Methuselah lived 782 years and had other sons and daughters."
+hebrew: "וַֽיְחִ֣י מְתוּשֶׁ֗לַח אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־ לֶ֔מֶךְ שְׁתַּ֤יִם וּשְׁמוֹנִים֙ שָׁנָ֔ה וּשְׁבַ֥ע מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃"
+pericope: "[[Gen.5.25 From Methuselah to Noah|From Methuselah to Noah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 5
+book/chapter: "[[Gen.5|Genesis 5]]"
+chronological_order: 5
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic LAMECH|LAMECH]]"
+- "[[topic METHUSELAH|METHUSELAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H2421]]"
+- "[[H4968]]"
+- "[[H0310A]]"
+- "[[H3205]]"
+- "[[H9043]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3929H]]"
+- "[[H8147]]"
+- "[[H9002]]"
+- "[[H8084]]"
+- "[[H8141]]"
+- "[[H7651]]"
+- "[[H3967]]"
+- "[[H1121A]]"
+- "[[H1323G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 5:26**<big><big>[[Gen.5.25 From Methuselah to Noah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons and daughters:
 <small><sub>**BSB:**</sub></small>
 And after he had become the father of Lamech, Methuselah lived 782 years and had other sons and daughters.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H2421\|יְחִ֣י]] [[H4968\|מְתוּשֶׁ֗לַח]] [[H0310A\|אַֽחֲרֵי֙]] [[H3205\|הוֹלִיד֣]][[H9043\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H3929H\|לֶ֔מֶךְ]] [[H8147\|שְׁתַּ֤יִם]] [[H9002\|וּ]][[H8084\|שְׁמוֹנִים֙]] [[H8141\|שָׁנָ֔ה]] [[H9002\|וּ]][[H7651\|שְׁבַ֥ע]] [[H3967\|מֵא֖וֹת]] [[H8141\|שָׁנָ֑ה]] [[H9001\|וַ]][[H3205\|יּ֥וֹלֶד]] [[H1121A\|בָּנִ֖ים]] [[H9002\|וּ]][[H1323G\|בָנֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LAMECH|LAMECH]] • [[topic METHUSELAH|METHUSELAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.5.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.25|<< Genesis 5:25]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.27|Genesis 5:27 >>]]</td></tr></table>
 

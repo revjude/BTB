@@ -1,8 +1,67 @@
+---
+title: Daniel 9:19
+type: Verse
+kjv: "O Lord, hear; O Lord, forgive; O Lord, hearken and do; defer not, for thine own sake, O my God: for thy city and thy people are called by thy name."
+bsb: "O Lord, listen! O Lord, forgive! O Lord, hear and act! For Your sake, O my God, do not delay, because Your city and Your people bear Your name.”"
+hebrew: "אֲדֹנָ֤י׀ שְׁמָ֙עָה֙ אֲדֹנָ֣י׀ סְלָ֔חָה אֲדֹנָ֛י הַֽקֲשִׁ֥יבָה וַעֲשֵׂ֖ה אַל־ תְּאַחַ֑ר לְמַֽעֲנְךָ֣ אֱלֹהַ֔י כִּֽי־ שִׁמְךָ֣ נִקְרָ֔א עַל־ עִירְךָ֖ וְעַל־ עַמֶּֽךָ׃"
+pericope: "[[Dan.9.1 Daniel’s Prayer for His People|Daniel’s Prayer for His People]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 9
+book/chapter: "[[Dan.9|Daniel 9]]"
+chronological_order: 845
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H0136]]"
+- "[[H9015]]"
+- "[[H8085G]]"
+- "[[H9012]]"
+- "[[H5545]]"
+- "[[H7181]]"
+- "[[H9002]]"
+- "[[H6213A]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0309]]"
+- "[[H4616]]"
+- "[[H9031]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H7121H]]"
+- "[[H5921A]]"
+- "[[H5892B]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 9:19**<big><big>[[Dan.9.1 Daniel’s Prayer for His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O Lord, hear; O Lord, forgive; O Lord, hearken and do; defer not, for thine own sake, O my God: for thy city and thy people are called by thy name.
 <small><sub>**BSB:**</sub></small>
 O Lord, listen! O Lord, forgive! O Lord, hear and act! For Your sake, O my God, do not delay, because Your city and Your people bear Your name.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0136\|אֲדֹנָ֤י]][[H9015\|׀]] [[H8085G\|שְׁמָ֙עָ]][[H9012\|ה֙]] [[H0136\|אֲדֹנָ֣י]][[H9015\|׀]] [[H5545\|סְלָ֔חָ]][[H9012\|ה]] [[H0136\|אֲדֹנָ֛י]] [[H7181\|הַֽקֲשִׁ֥יבָ]][[H9012\|ה]] [[H9002\|וַ]][[H6213A\|עֲשֵׂ֖ה]] [[H0408\|אַל]][[H9014\|־]] [[H0309\|תְּאַחַ֑ר]] [[H4616\|לְמַֽעֲנְ]][[H9031\|ךָ֣]] [[H0430G\|אֱלֹהַ֔]][[H9020\|י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H8034\|שִׁמְ]][[H9021\|ךָ֣]] [[H7121H\|נִקְרָ֔א]] [[H5921A\|עַל]][[H9014\|־]] [[H5892B\|עִירְ]][[H9021\|ךָ֖]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H5971A\|עַמֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic NATION|NATION]] • [[topic PRAYER|PRAYER]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.18|<< Daniel 9:18]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.20|Daniel 9:20 >>]]</td></tr></table>
 

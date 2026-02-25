@@ -1,8 +1,67 @@
+---
+title: Jeremiah 1:7
+type: Verse
+kjv: "But the LORD said unto me, Say not, I am a child: for thou shalt go to all that I shall send thee, and whatsoever I command thee thou shalt speak."
+bsb: "But the LORD told me: “Do not say, ‘I am only a child.’ For to everyone I send you, you must go, and all that I command you, you must speak."
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֵלַ֔י אַל־ תֹּאמַ֖ר נַ֣עַר אָנֹ֑כִי כִּ֠י עַֽל־ כָּל־ אֲשֶׁ֤ר אֶֽשְׁלָחֲךָ֙ תֵּלֵ֔ךְ וְאֵ֛ת כָּל־ אֲשֶׁ֥ר אֲצַוְּךָ֖ תְּדַבֵּֽר׃"
+pericope: "[[Jer.1.1 The Call of Jeremiah|The Call of Jeremiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 1
+book/chapter: "[[Jer.1|Jeremiah 1]]"
+chronological_order: 718
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic EXCUSES|EXCUSES]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5288]]"
+- "[[H0595]]"
+- "[[H3588A]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H7971G]]"
+- "[[H9031]]"
+- "[[H1980G]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H6680]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 1:7**<big><big>[[Jer.1.1 The Call of Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the LORD said unto me, Say not, I [am] a child: for thou shalt go to all that I shall send thee, and whatsoever I command thee thou shalt speak.
 <small><sub>**BSB:**</sub></small>
 But the LORD told me: “Do not say, ‘I am only a child.’ For to everyone I send you, you must go, and all that I command you, you must speak.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H0408\|אַל]][[H9014\|־]] [[H0559\|תֹּאמַ֖ר]] [[H5288\|נַ֣עַר]] [[H0595\|אָנֹ֑כִי]] [[H3588A\|כִּ֠י]] [[H5921A\|עַֽל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֤ר]] [[H7971G\|אֶֽשְׁלָחֲ]][[H9031\|ךָ֙]] [[H1980G\|תֵּלֵ֔ךְ]] [[H9002\|וְ]][[H0853\|אֵ֛ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H6680\|אֲצַוְּ]][[H9031\|ךָ֖]] [[H1696G\|תְּדַבֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic EXCUSES|EXCUSES]] • [[topic JEREMIAH|JEREMIAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.1.6|<< Jeremiah 1:6]]</td><td align="center" style="border:none;">[[Jer.1|Jeremiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.1.8|Jeremiah 1:8 >>]]</td></tr></table>
 

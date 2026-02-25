@@ -1,10 +1,54 @@
+---
+title: Acts 26:30
+type: Verse
+kjv: "And when he had thus spoken, the king rose up, and the governor, and Bernice, and they that sat with them:"
+bsb: "Then the king and the governor rose, along with Bernice and those seated with them."
+greek: "Καὶ ταῦτα εἰπόντος αὐτοῦ ἀνέστη τε ὁ βασιλεὺς καὶ ὁ ἡγεμὼν ἥ τε Βερνίκη καὶ οἱ συγκαθήμενοι αὐτοῖς·"
+pericope: "[[Acts.26.24 Festus Interrupts Paul’s Defense|Festus Interrupts Paul’s Defense]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 26
+book/chapter: "[[Acts.26|Acts 26]]"
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BERNICE|BERNICE]]"
+- "[[topic COURT|COURT]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G0450]]"
+- "[[G5037]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2232]]"
+- "[[G0959]]"
+- "[[G4775]]"
+texts:
+- K
+- NKO
+- no
+---
+
 **Acts 26:30**<big><big>[[Acts.26.24 Festus Interrupts Paul’s Defense|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had thus spoken, the king rose up, and the governor, and Bernice, and they that sat with them:
 <small><sub>**BSB:**</sub></small>
 Then the king and the governor rose, along with Bernice and those seated with them.
-<small><sub>**Literal:**</sub></small>
-and these things when was speaking he rose up then the king and the governor <the> and Bernice and those sitting with them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.29|<< Acts 26:29]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.31|Acts 26:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3778\|ταῦτα]]  [[G2036\|εἰπόντος]]  [[G0846\|αὐτοῦ]]  [[G0450\|ἀνέστη]]  [[G5037\|τε]]  [[G3588\|ὁ]]  [[G0935\|βασιλεὺς]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2232\|ἡγεμὼν]]  [[G3588\|ἥ]]  [[G5037\|τε]]  [[G0959\|Βερνίκη]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4775\|συγκαθήμενοι]]  [[G0846\|αὐτοῖς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BERNICE|BERNICE]] • [[topic COURT|COURT]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.29|<< Acts 26:29]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.31|Acts 26:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

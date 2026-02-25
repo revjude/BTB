@@ -1,6 +1,57 @@
+---
+title: LXX Genesis 21:3
+type: Verse
+lxx: "And Abraham called the name  of his son, the one born to him whom Sarah bore to him -- Isaac."
+greek: "και εκάλεσεν Αβραάμ το όνομα του υιού αυτού του γενομένου αυτώ ον έτεκεν αυτώ Σάρρα Ισαάκ"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 21
+book/chapter: "[[Gen.21|Genesis 21]]"
+chronological_order: 63
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic SARAH|SARAH]]"
+strongs:
+- "[[G2532]]"
+- "[[G2564]]"
+- "[[G0011]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G1096]]"
+- "[[G1473]]"
+- "[[G3739]]"
+- "[[G5088]]"
+- "[[G1473]]"
+- "[[G4564]]"
+- "[[G2464]]"
+---
+
 **LXX Genesis 21:3** 
 <small><sub>**LXX:**</sub></small>
 And Abraham called the name  of his son, the \[one\] born to him whom Sarah bore to him -- Isaac. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2564\|εκάλεσεν]] [[G0011\|Αβραάμ]] [[G3588\|το]] [[G3686\|όνομα]] [[G3588\|του]] [[G5207\|υιού]] [[G1473\|αυτού]] [[G3588\|του]] [[G1096\|γενομένου]] [[G1473\|αυτώ]] [[G3739\|ον]] [[G5088\|έτεκεν]] [[G1473\|αυτώ]] [[G4564\|Σάρρα]] [[G2464\|Ισαάκ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic ISAAC|ISAAC]] • [[topic SARAH|SARAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.21.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.2|<< Genesis 21:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.4|Genesis 21:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -24,6 +75,6 @@ And Abraham called the name  of his son, the \[one\] born to him whom Sarah bore
 | to him | **<big>[[G1473\|αυτώ]]</big>** |
 | Sarah | **<big>[[G4564\|Σάρρα]]</big>** |
 | Isaac. | **<big>[[G2464\|Ισαάκ]]</big>** |
-[[Gen.21.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.2|<< Genesis 21:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.4|Genesis 21:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.2|<< Genesis 21:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.4|Genesis 21:4 >>]]</td></tr></table>
 
 

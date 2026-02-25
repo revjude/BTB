@@ -1,8 +1,56 @@
+---
+title: Psalm 55:2
+type: Verse
+kjv: "Attend unto me, and hear me: I mourn in my complaint, and make a noise;"
+bsb: "Attend to me and answer me. I am restless in my complaint, and distraught"
+hebrew: "הַקְשִׁ֣יבָה לִּ֣י וַעֲנֵ֑נִי אָרִ֖יד בְּשִׂיחִ֣י וְאָהִֽימָה׃"
+pericope: "[[Ps.55.1 Cast Your Burden upon the LORD|Cast Your Burden upon the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 55
+book/chapter: "[[Ps.55|Psalm 55]]"
+chronological_order: 370
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H7181]]"
+- "[[H9012]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H6030B]]"
+- "[[H7300]]"
+- "[[H9003]]"
+- "[[H7879]]"
+- "[[H9020]]"
+- "[[H1949]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 55:2**<big><big>[[Ps.55.1 Cast Your Burden upon the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Attend unto me, and hear me: I mourn in my complaint, and make a noise;
 <small><sub>**BSB:**</sub></small>
 Attend to me and answer me. I am restless in my complaint, and distraught
+<small><sub>**Hebrew:**</sub></small>
+[[H7181\|הַקְשִׁ֣יבָ]][[H9012\|ה]] [[H9005\|לִּ֣]][[H9030\|י]] [[H9002\|וַ]][[H6030B\|עֲנֵ֑]][[H9030\|נִי]] [[H7300\|אָרִ֖יד]] [[H9003\|בְּ]][[H7879\|שִׂיחִ֣]][[H9020\|י]] [[H9002\|וְ]][[H1949\|אָהִֽימָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.55.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55.1|<< Psalms 55:1]]</td><td align="center" style="border:none;">[[Ps.55|Psalms 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.55.3|Psalms 55:3 >>]]</td></tr></table>
 

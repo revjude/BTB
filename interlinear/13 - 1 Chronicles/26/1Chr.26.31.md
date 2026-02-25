@@ -1,8 +1,63 @@
+---
+title: 1 Chronicles 26:31
+type: Verse
+kjv: "Among the Hebronites was Jerijah the chief, even among the Hebronites, according to the generations of his fathers. In the fortieth year of the reign of David they were sought for, and there were found among them mighty men of valour at Jazer of Gilead."
+bsb: "As for the Hebronites, Jerijah was the chief of the Hebronites, according to the genealogies of his ancestors. In the fortieth year of David’s reign the records were searched, and strong, capable men were found among the Hebronites at Jazer in Gilead."
+hebrew: "לַֽחֶבְרוֹנִי֙ יְרִיָּ֣ה הָרֹ֔אשׁ לַֽחֶבְרוֹנִ֥י לְתֹלְדֹתָ֖יו לְאָב֑וֹת בִּשְׁנַ֨ת הָֽאַרְבָּעִ֜ים לְמַלְכ֤וּת דָּוִיד֙ נִדְרָ֔שׁוּ וַיִּמָּצֵ֥א בָהֶ֛ם גִּבּ֥וֹרֵי חַ֖יִל בְּיַעְזֵ֥יר גִּלְעָֽד׃"
+pericope: "[[1Chr.26.20 The Treasurers, Officers, and Judges|The Treasurers, Officers, and Judges]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 26
+book/chapter: "[[1Chr.26|1 Chronicles 26]]"
+chronological_order: 437
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic JERIAH|JERIAH]]"
+strongs:
+- "[[H9005]]"
+- "[[H2276]]"
+- "[[H3404H]]"
+- "[[H9009]]"
+- "[[H7218H]]"
+- "[[H8435]]"
+- "[[H9023]]"
+- "[[H0001G]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H0705]]"
+- "[[H4438]]"
+- "[[H1732]]"
+- "[[H1875]]"
+- "[[H9001]]"
+- "[[H4672]]"
+- "[[H9038]]"
+- "[[H1368]]"
+- "[[H2428G]]"
+- "[[H3270G]]"
+- "[[H1568G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 26:31**<big><big>[[1Chr.26.20 The Treasurers, Officers, and Judges|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Among the Hebronites [was] Jerijah the chief, [even] among the Hebronites, according to the generations of his fathers. In the fortieth year of the reign of David they were sought for, and there were found among them mighty men of valour at Jazer of Gilead.
 <small><sub>**BSB:**</sub></small>
 As for the Hebronites, Jerijah was the chief of the Hebronites, according to the genealogies of his ancestors. In the fortieth year of David’s reign the records were searched, and strong, capable men were found among the Hebronites at Jazer in Gilead.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַֽ]][[H2276\|חֶבְרוֹנִי֙]] [[H3404H\|יְרִיָּ֣ה]] [[H9009\|הָ]][[H7218H\|רֹ֔אשׁ]] [[H9005\|לַֽ]][[H2276\|חֶבְרוֹנִ֥י]] [[H9005\|לְ]][[H8435\|תֹלְדֹתָ֖י]][[H9023\|ו]] [[H9005\|לְ]][[H0001G\|אָב֑וֹת]] [[H9003\|בִּ]][[H8141\|שְׁנַ֨ת]] [[H9009\|הָֽ]][[H0705\|אַרְבָּעִ֜ים]] [[H9005\|לְ]][[H4438\|מַלְכ֤וּת]] [[H1732\|דָּוִיד֙]] [[H1875\|נִדְרָ֔שׁוּ]] [[H9001\|וַ]][[H4672\|יִּמָּצֵ֥א]] [[H9003\|בָ]][[H9038\|הֶ֛ם]] [[H1368\|גִּבּ֥וֹרֵי]] [[H2428G\|חַ֖יִל]] [[H9003\|בְּ]][[H3270G\|יַעְזֵ֥יר]] [[H1568G\|גִּלְעָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic JERIAH|JERIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.30|<< 1 Chronicles 26:30]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.32|1 Chronicles 26:32 >>]]</td></tr></table>
 

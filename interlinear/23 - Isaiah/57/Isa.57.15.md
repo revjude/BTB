@@ -1,8 +1,70 @@
+---
+title: Isaiah 57:15
+type: Verse
+kjv: "For thus saith the high and lofty One that inhabiteth eternity, whose name is Holy; I dwell in the high and holy place, with him also that is of a contrite and humble spirit, to revive the spirit of the humble, and to revive the heart of the contrite ones."
+bsb: "For thus says the One who is high and lifted up, who inhabits eternity, whose name is Holy: “I dwell in a high and holy place, and with the oppressed and humble in spirit, to restore the spirit of the lowly and revive the heart of the contrite."
+hebrew: "כִּי֩ כֹ֨ה אָמַ֜ר רָ֣ם וְנִשָּׂ֗א שֹׁכֵ֥ן עַד֙ וְקָד֣וֹשׁ שְׁמ֔וֹ מָר֥וֹם וְקָד֖וֹשׁ אֶשְׁכּ֑וֹן וְאֶת־ דַּכָּא֙ וּשְׁפַל־ ר֔וּחַ לְהַחֲיוֹת֙ ר֣וּחַ שְׁפָלִ֔ים וּֽלְהַחֲי֖וֹת לֵ֥ב נִדְכָּאִֽים׃"
+pericope: "[[Isa.57.14 Healing for the Repentant|Healing for the Repentant]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 57
+book/chapter: "[[Isa.57|Isaiah 57]]"
+chronological_order: 696
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ETERNITY|ETERNITY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H7311A]]"
+- "[[H9002]]"
+- "[[H5375L]]"
+- "[[H7931]]"
+- "[[H5703]]"
+- "[[H6918G]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H4791]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H1793A]]"
+- "[[H8217]]"
+- "[[H7307G]]"
+- "[[H9005]]"
+- "[[H2421]]"
+- "[[H3820A]]"
+- "[[H1792]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 57:15**<big><big>[[Isa.57.14 Healing for the Repentant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the high and lofty One that inhabiteth eternity, whose name [is] Holy; I dwell in the high and holy [place], with him also [that is] of a contrite and humble spirit, to revive the spirit of the humble, and to revive the heart of the contrite ones.
 <small><sub>**BSB:**</sub></small>
 For thus says the One who is high and lifted up, who inhabits eternity, whose name is Holy: “I dwell in a high and holy place, and with the oppressed and humble in spirit, to restore the spirit of the lowly and revive the heart of the contrite.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H3541\|כֹ֨ה]] [[H0559\|אָמַ֜ר]] [[H7311A\|רָ֣ם]] [[H9002\|וְ]][[H5375L\|נִשָּׂ֗א]] [[H7931\|שֹׁכֵ֥ן]] [[H5703\|עַד֙]] [[H9002\|וְ]][[H6918G\|קָד֣וֹשׁ]] [[H8034\|שְׁמ֔]][[H9023\|וֹ]] [[H4791\|מָר֥וֹם]] [[H9002\|וְ]][[H6918G\|קָד֖וֹשׁ]] [[H7931\|אֶשְׁכּ֑וֹן]] [[H9002\|וְ]][[H0854\|אֶת]][[H9014\|־]] [[H1793A\|דַּכָּא֙]] [[H9002\|וּ]][[H8217\|שְׁפַל]][[H9014\|־]] [[H7307G\|ר֔וּחַ]] [[H9005\|לְ]][[H2421\|הַחֲיוֹת֙]] [[H7307G\|ר֣וּחַ]] [[H8217\|שְׁפָלִ֔ים]] [[H9002\|וּֽ]][[H9005\|לְ]][[H2421\|הַחֲי֖וֹת]] [[H3820A\|לֵ֥ב]] [[H1792\|נִדְכָּאִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic CHURCH|CHURCH]] • [[topic ETERNITY|ETERNITY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic HUMILITY|HUMILITY]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.14|<< Isaiah 57:14]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.16|Isaiah 57:16 >>]]</td></tr></table>
 

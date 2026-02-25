@@ -1,8 +1,57 @@
+---
+title: Ezekiel 8:13
+type: Verse
+kjv: "He said also unto me, Turn thee yet again, and thou shalt see greater abominations that they do."
+bsb: "Again, He told me, “You will see them committing even greater abominations.”"
+hebrew: "וַיֹּ֖אמֶר אֵלָ֑י ע֣וֹד תָּשׁ֥וּב תִּרְאֶ֛ה תּוֹעֵב֥וֹת גְּדֹל֖וֹת אֲשֶׁר־ הֵ֥מָּה עֹשִֽׂים׃"
+pericope: "[[Ezek.8.1 The Vision of Idolatry in the Temple|The Vision of Idolatry in the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 8
+book/chapter: "[[Ezek.8|Ezekiel 8]]"
+chronological_order: 799
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H5750]]"
+- "[[H7725J]]"
+- "[[H7200G]]"
+- "[[H8441]]"
+- "[[H1419A]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1992]]"
+- "[[H6213H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 8:13**<big><big>[[Ezek.8.1 The Vision of Idolatry in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He said also unto me, Turn thee yet again, [and] thou shalt see greater abominations that they do.
 <small><sub>**BSB:**</sub></small>
 Again, He told me, “You will see them committing even greater abominations.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H0413\|אֵלָ֑]][[H9030\|י]] [[H5750\|ע֣וֹד]] [[H7725J\|תָּשׁ֥וּב]] [[H7200G\|תִּרְאֶ֛ה]] [[H8441\|תּוֹעֵב֥וֹת]] [[H1419A\|גְּדֹל֖וֹת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1992\|הֵ֥מָּה]] [[H6213H\|עֹשִֽׂים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.8.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.8.12|<< Ezekiel 8:12]]</td><td align="center" style="border:none;">[[Ezek.8|Ezekiel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.8.14|Ezekiel 8:14 >>]]</td></tr></table>
 

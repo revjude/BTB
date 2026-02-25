@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judah Pleads for Benjamin
+type: Pericope
 pericope: "[[Gen.44.18 Judah Pleads for Benjamin|Judah Pleads for Benjamin]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 44
 book/chapter: "[[Gen.44|Genesis 44]]"
-genre:
+chronological_order: 86
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 17
 verses:
 - "[[Gen.44.18]]"
 - "[[Gen.44.19]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Gen.44.34]]"
 ---
 
-[[Gen.44|Genesis 44:18 - Genesis 44:34]]
+<small>[[Gen.44|Genesis 44:18-34]]</small>
 *Judah Pleads for Benjamin*
 
 [[Gen.44.18|18]] Then Judah came near unto him, and said, Oh my lord, let thy servant, I pray thee, speak a word in my lord’s ears, and let not thine anger burn against thy servant: for thou \[art\] even as Pharaoh.

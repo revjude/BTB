@@ -1,8 +1,56 @@
+---
+title: Job 21:31
+type: Verse
+kjv: "Who shall declare his way to his face? and who shall repay him what he hath done?"
+bsb: "Who denounces his behavior to his face? Who repays him for what he has done?"
+hebrew: "מִֽי־ יַגִּ֣יד עַל־ פָּנָ֣יו דַּרְכּ֑וֹ וְהֽוּא־ עָ֝שָׂ֗ה מִ֣י יְשַׁלֶּם־ לֽוֹ׃"
+pericope: "[[Job.21.1 Job：God Will Punish the Wicked|Job：God Will Punish the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 21
+book/chapter: "[[Job.21|Job 21]]"
+chronological_order: 32
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H5046]]"
+- "[[H5921A]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H1870G]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H6213A]]"
+- "[[H7999A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 21:31**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who shall declare his way to his face? and who shall repay him [what] he hath done?
 <small><sub>**BSB:**</sub></small>
 Who denounces his behavior to his face? Who repays him for what he has done?
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִֽי]][[H9014\|־]] [[H5046\|יַגִּ֣יד]] [[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פָּנָ֣י]][[H9023\|ו]] [[H1870G\|דַּרְכּ֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H1931\|הֽוּא]][[H9014\|־]] [[H6213A\|עָ֝שָׂ֗ה]] [[H4310\|מִ֣י]] [[H7999A\|יְשַׁלֶּם]][[H9014\|־]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.30|<< Job 21:30]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.32|Job 21:32 >>]]</td></tr></table>
 

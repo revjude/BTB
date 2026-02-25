@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Solomon Judges Wisely
+type: Pericope
 pericope: "[[1Kgs.3.16 Solomon Judges Wisely|Solomon Judges Wisely]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 3
 book/chapter: "[[1Kgs.3|1 Kings 3]]"
-genre:
+chronological_order: 443
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 13
 verses:
 - "[[1Kgs.3.16]]"
 - "[[1Kgs.3.17]]"
@@ -33,7 +40,7 @@ verses:
 - "[[1Kgs.3.28]]"
 ---
 
-[[1Kgs.3|1 Kings 3:16 - 1 Kings 3:28]]
+<small>[[1Kgs.3|1 Kings 3:16-28]]</small>
 *Solomon Judges Wisely*
 
 [[1Kgs.3.16|16]] Then came there two women, \[that were\] harlots, unto the king, and stood before him.

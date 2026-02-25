@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Kings of Edom
+type: Pericope
 pericope: "[[Gen.36.31 The Kings of Edom|The Kings of Edom]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 36
 book/chapter: "[[Gen.36|Genesis 36]]"
-genre:
+chronological_order: 78
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 13
 verses:
 - "[[Gen.36.31]]"
 - "[[Gen.36.32]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Gen.36.43]]"
 ---
 
-[[Gen.36|Genesis 36:31 - Genesis 36:43]]
+<small>[[Gen.36|Genesis 36:31-43]]</small>
 *The Kings of Edom*
 
 [[Gen.36.31|31]] And these \[are\] the kings that reigned in the land of Edom, before there reigned any king over the children of Israel.

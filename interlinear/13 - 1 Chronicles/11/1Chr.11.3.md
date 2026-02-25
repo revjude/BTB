@@ -1,8 +1,70 @@
+---
+title: 1 Chronicles 11:3
+type: Verse
+kjv: "Therefore came all the elders of Israel to the king to Hebron; and David made a covenant with them in Hebron before the LORD; and they anointed David king over Israel, according to the word of the LORD by Samuel."
+bsb: "So all the elders of Israel came to the king at Hebron, where David made a covenant with them before the LORD. And they anointed him king over Israel, according to the word of the LORD through Samuel."
+hebrew: "וַ֠יָּבֹאוּ כָּל־ זִקְנֵ֨י יִשְׂרָאֵ֤ל אֶל־ הַמֶּ֙לֶךְ֙ חֶבְר֔וֹנָה וַיִּכְרֹת֩ לָהֶ֨ם דָּוִ֥יד בְּרִ֛ית בְּחֶבְר֖וֹן לִפְנֵ֣י יְהוָ֑ה וַיִּמְשְׁח֨וּ אֶת־ דָּוִ֤יד לְמֶ֙לֶךְ֙ עַל־ יִשְׂרָאֵ֔ל כִּדְבַ֥ר יְהוָ֖ה בְּיַד־ שְׁמוּאֵֽל׃ ס"
+pericope: "[[1Chr.11.1 David Anointed King of All Israel|David Anointed King of All Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 11
+book/chapter: "[[1Chr.11|1 Chronicles 11]]"
+chronological_order: 335
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2205G]]"
+- "[[H3478]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H2275A]]"
+- "[[H9011]]"
+- "[[H3772H]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H1732]]"
+- "[[H1285]]"
+- "[[H9003]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H4886]]"
+- "[[H0853]]"
+- "[[H5921A]]"
+- "[[H9004]]"
+- "[[H1697G]]"
+- "[[H3027J]]"
+- "[[H8050G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Chronicles 11:3**<big><big>[[1Chr.11.1 David Anointed King of All Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore came all the elders of Israel to the king to Hebron; and David made a covenant with them in Hebron before the LORD; and they anointed David king over Israel, according to the word of the LORD by Samuel.
 <small><sub>**BSB:**</sub></small>
 So all the elders of Israel came to the king at Hebron, where David made a covenant with them before the LORD. And they anointed him king over Israel, according to the word of the LORD through Samuel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֠]][[H0935G\|יָּבֹאוּ]] [[H3605\|כָּל]][[H9014\|־]] [[H2205G\|זִקְנֵ֨י]] [[H3478\|יִשְׂרָאֵ֤ל]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H2275A\|חֶבְר֔וֹנָ]][[H9011\|ה]] [[H9001\|וַ]][[H3772H\|יִּכְרֹת֩]] [[H9005\|לָ]][[H9038\|הֶ֨ם]] [[H1732\|דָּוִ֥יד]] [[H1285\|בְּרִ֛ית]] [[H9003\|בְּ]][[H2275A\|חֶבְר֖וֹן]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H4886\|יִּמְשְׁח֨וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1732\|דָּוִ֤יד]] [[H9005\|לְ]][[H4428G\|מֶ֙לֶךְ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9004\|כִּ]][[H1697G\|דְבַ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בְּ]][[H3027J\|יַד]][[H9014\|־]] [[H8050G\|שְׁמוּאֵֽל]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic DAVID|DAVID]] • [[topic GOVERNMENT|GOVERNMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.2|<< 1 Chronicles 11:2]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.4|1 Chronicles 11:4 >>]]</td></tr></table>
 
@@ -31,7 +93,7 @@ So all the elders of Israel came to the king at Hebron, where David made a coven
 | according to [the] word of  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H1697G\|דְבַ֥ר]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> d.Var<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by [the] hand of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027J\|יַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> yad-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Samuel  |**<big>&#8207;[[H8050G\|שְׁמוּאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| she.mu.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Samuel  |**<big>&#8207;[[H8050G\|שְׁמוּאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| she.mu.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.2|<< 1 Chronicles 11:2]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.4|1 Chronicles 11:4 >>]]</td></tr></table>
 
 

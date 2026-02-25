@@ -1,15 +1,15 @@
 
 **MARRIAGE**
 
-→ Consanguinous, Abraham and Sarah [[Gen.11.29|Ge 11:29]]; [[Gen.12.13|12:13]]; [[Gen.20.3|20:3]],[[Gen.20.9|9]]-[[Gen.20.16|16]]
+→ Consanguinous, Abraham and Sarah [[Gen.11.29|Ge 11:29]]; [[Gen.12.13|12:13]]; [[Gen.20.3|20:3]],[[Gen.20.9|9-16]]
 
 → Isaac and Rebekah [[Gen.24.3|Ge 24:3]],[[Gen.24.4|4]],[[Gen.24.67|67]]; [[Gen.28.2|28:2]]
 
-→ Jacob and his wives [[Gen.29.15|Ge 29:15]]-[[Gen.29.30|30]]
+→ Jacob and his wives [[Gen.29.15|Ge 29:15-30]]
 
 → See below, in the elaborated text
 
-→ Levirate (the brother required to marry a brother's widow) [[Gen.38.8|Ge  38:8]],[[Gen.38.11|11]]; [[Deut.25.5|De 25:5]]-[[Deut.25.10|10]]; [[Ruth.4.5|Ru 4:5]]; [[Matt.22.24|Mt 22:24]]; [[Mark.12.19|Mr 12:19]]-[[Mark.12.23|23]]; [[Luke.20.28|Lu 20:28]]
+→ Levirate (the brother required to marry a brother's widow) [[Gen.38.8|Ge  38:8]],[[Gen.38.11|11]]; [[Deut.25.5|De 25:5-10]]; [[Ruth.4.5|Ru 4:5]]; [[Matt.22.24|Mt 22:24]]; [[Mark.12.19|Mr 12:19-23]]; [[Luke.20.28|Lu 20:28]]
 
 → Parents contract for their children
 
@@ -27,9 +27,9 @@
 
 → Nuptial feasts [[Gen.29.22|Ge 29:22]]; [[Judg.14.12|Jud 14:12]]; [[Esth.2.18|Es 2:18]]; [[Matt.22.11|Mt 22:11]],[[Matt.22.12|12]]
 
-→ Jesus present at [[John.2.1|Joh 2:1]]-[[John.2.5|5]]
+→ Jesus present at [[John.2.1|Joh 2:1-5]]
 
-→ Ceremony attested by witnesses [[Ruth.4.1|Ru 4:1]]-[[Ruth.4.11|11]]; [[Isa.8.1|Isa 8:1]]-[[Isa.8.3|3]]
+→ Ceremony attested by witnesses [[Ruth.4.1|Ru 4:1-11]]; [[Isa.8.1|Isa 8:1-3]]
 
 → The groom exempt one year from military duty [[Deut.24.5|De 24:5]]
 
@@ -45,13 +45,13 @@
 
 - By purchase [[Gen.29.20|Ge 29:20]]; [[Ruth.4.10|Ru 4:10]]; [[Hos.3.2|Ho 3:2]]; [[Hos.12.12|12:12]]
 
-- By kidnapping [[Judg.21.21|Jud 21:21]]-[[Judg.21.23|23]]
+- By kidnapping [[Judg.21.21|Jud 21:21-23]]
 
 → Given by Kings [[1Sam.17.25|1Sa 17:25]]; [[1Sam.18.17|18:17]],[[1Sam.18.21|21]]
 
 → Daughters given in, as rewards of valor [[Judg.1.12|Jud 1:12]]; [[1Sam.17.25|1Sa  17:25]]; [[1Sam.18.27|18:27]]
 
-→ Wives taken by edict [[Esth.2.2|Es 2:2]]-[[Esth.2.4|4]],[[Esth.2.8|8]]-[[Esth.2.14|14]]
+→ Wives taken by edict [[Esth.2.2|Es 2:2-4]],[[Esth.2.8|8-14]]
 
 → David gave one hundred Philistine foreskins for a wife [[2Sam.3.14|2Sa 3:14]]
 
@@ -63,9 +63,9 @@
 
 → Celibacy deplored [[Judg.11.38|Jud 11:38]]; [[Isa.4.1|Isa 4:1]]; [[Jer.16.9|Jer 16:9]]
 
-→ Advised [[1Cor.7.7|1Co 7:7]],[[1Cor.7.8|8]],[[1Cor.7.24|24]]-[[1Cor.7.40|40]]
+→ Advised [[1Cor.7.7|1Co 7:7]],[[1Cor.7.8|8]],[[1Cor.7.24|24-40]]
 
-→ Obligations under, inferior to duty to God [[Deut.13.6|De 13:6]]-[[Deut.13.10|10]]; [[Matt.19.29|Mt 19:29]]; [[Luke.14.26|Lu 14:26]]
+→ Obligations under, inferior to duty to God [[Deut.13.6|De 13:6-10]]; [[Matt.19.29|Mt 19:29]]; [[Luke.14.26|Lu 14:26]]
 
 → Not binding after death [[Matt.22.29|Mt 22:29]],[[Matt.22.30|30]]; [[Mark.12.24|Mr 12:24]],[[Mark.12.25|25]]
 
@@ -73,11 +73,11 @@
 
 → See [[topic BRIDEGROOM|BRIDEGROOM]]
 
-→ UNCLASSIFIED SCRIPTURES RELATING TO [[Gen.2.23|Ge 2:23]],[[Gen.2.24|24]]; [[Exod.22.16|Ex  22:16]],[[Exod.22.17|17]]; [[Lev.18.6|Le 18:6]]-[[Lev.18.18|18]]; [[Lev.20.14|20:14]],[[Lev.20.17|17]],[[Lev.20.19|19]]-[[Lev.20.21|21]]; [[Lev.21.1|21:1]],[[Lev.21.7|7]],[[Lev.21.13|13]]-[[Lev.21.15|15]]; [[Num.36.8|Nu 36:8]]; [[Deut.21.10|De 21:10]]-[[Deut.21.14|14]]; [[Deut.24.1|24:1]]-[[Deut.24.5|5]]; [[Prov.18.22|Pr 18:22]]; [[Prov.21.9|21:9]],[[Prov.21.19|19]]; [[Jer.29.6|Jer 29:6]]; [[Hos.2.19|Ho 2:19]],[[Hos.2.20|20]]; [[Mal.2.13|Mal 2:13]]-[[Mal.2.16|16]]; [[Matt.5.31|Mt 5:31]],[[Matt.5.32|32]]; [[Mark.6.17|Mr 6:17]],[[Mark.6.18|18]]; [[Mark.10.2|10:2]]-[[Mark.10.12|12]]; [[Matt.19.2|Mt 19:2]]-[[Matt.19.9|9]]; [[Luke.16.18|Lu 16:18]]; [[Rom.7.1|Ro 7:1]]-[[Rom.7.3|3]]; [[1Cor.6.16|1Co 6:16]]; [[1Cor.7.1|7:1]]-[[1Cor.7.40|40]]; [[1Cor.9.5|9:5]]; [[1Cor.11.11|11:11]],[[1Cor.11.12|12]]; [[1Tim.3.2|1Ti 3:2]],[[1Tim.3.12|12]]; [[1Tim.4.1|4:1]],[[1Tim.4.3|3]]; [[1Tim.5.14|5:14]]; [[Heb.13.4|Heb 13:4]]
+→ UNCLASSIFIED SCRIPTURES RELATING TO [[Gen.2.23|Ge 2:23]],[[Gen.2.24|24]]; [[Exod.22.16|Ex  22:16]],[[Exod.22.17|17]]; [[Lev.18.6|Le 18:6-18]]; [[Lev.20.14|20:14]],[[Lev.20.17|17]],[[Lev.20.19|19-21]]; [[Lev.21.1|21:1]],[[Lev.21.7|7]],[[Lev.21.13|13-15]]; [[Num.36.8|Nu 36:8]]; [[Deut.21.10|De 21:10-14]]; [[Deut.24.1|24:1-5]]; [[Prov.18.22|Pr 18:22]]; [[Prov.21.9|21:9]],[[Prov.21.19|19]]; [[Jer.29.6|Jer 29:6]]; [[Hos.2.19|Ho 2:19]],[[Hos.2.20|20]]; [[Mal.2.13|Mal 2:13-16]]; [[Matt.5.31|Mt 5:31]],[[Matt.5.32|32]]; [[Mark.6.17|Mr 6:17]],[[Mark.6.18|18]]; [[Mark.10.2|10:2-12]]; [[Matt.19.2|Mt 19:2-9]]; [[Luke.16.18|Lu 16:18]]; [[Rom.7.1|Ro 7:1-3]]; [[1Cor.6.16|1Co 6:16]]; [[1Cor.7.1|7:1-40]]; [[1Cor.9.5|9:5]]; [[1Cor.11.11|11:11]],[[1Cor.11.12|12]]; [[1Tim.3.2|1Ti 3:2]],[[1Tim.3.12|12]]; [[1Tim.4.1|4:1]],[[1Tim.4.3|3]]; [[1Tim.5.14|5:14]]; [[Heb.13.4|Heb 13:4]]
 
-→ FIGURATIVE [[Isa.54.5|Isa 54:5]]; [[Isa.62.4|62:4]],[[Isa.62.5|5]]; [[Jer.3.14|Jer 3:14]]; [[Jer.31.32|31:32]]; [[Hos.1.2|Ho 1:2]]; [[Hos.2.19|2:19]],[[Hos.2.20|20]]; [[Eph.5.30|Eph 5:30]]-[[Eph.5.32|32]]; [[Rev.19.7|Re 19:7]]-[[Rev.19.9|9]]
+→ FIGURATIVE [[Isa.54.5|Isa 54:5]]; [[Isa.62.4|62:4]],[[Isa.62.5|5]]; [[Jer.3.14|Jer 3:14]]; [[Jer.31.32|31:32]]; [[Hos.1.2|Ho 1:2]]; [[Hos.2.19|2:19]],[[Hos.2.20|20]]; [[Eph.5.30|Eph 5:30-32]]; [[Rev.19.7|Re 19:7-9]]
 
-- Parables from [[Matt.22.2|Mt 22:2]]; [[Matt.25.1|25:1]]-[[Matt.25.10|10]]
+- Parables from [[Matt.22.2|Mt 22:2]]; [[Matt.25.1|25:1-10]]
 
 - See [[topic DIVORCE|DIVORCE]]
 

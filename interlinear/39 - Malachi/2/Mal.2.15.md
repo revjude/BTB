@@ -1,8 +1,69 @@
+---
+title: Malachi 2:15
+type: Verse
+kjv: "And did not he make one? Yet had he the residue of the spirit. And wherefore one? That he might seek a godly seed. Therefore take heed to your spirit, and let none deal treacherously against the wife of his youth."
+bsb: "Has not the LORD made them one, having a portion of the Spirit? And why one? Because He seeks godly offspring. So guard yourselves in your spirit and do not break faith with the wife of your youth."
+hebrew: "וְלֹא־ אֶחָ֣ד עָשָׂ֗ה וּשְׁאָ֥ר ר֙וּחַ֙ ל֔וֹ וּמָה֙ הָֽאֶחָ֔ד מְבַקֵּ֖שׁ זֶ֣רַע אֱלֹהִ֑ים וְנִשְׁמַרְתֶּם֙ בְּר֣וּחֲכֶ֔ם וּבְאֵ֥שֶׁת נְעוּרֶ֖יךָ אַל־ יִבְגֹּֽד׃"
+pericope: "[[Mal.2.10 Judah’s Unfaithfulness|Judah’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 2
+book/chapter: "[[Mal.2|Malachi 2]]"
+chronological_order: 927
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0259]]"
+- "[[H6213H]]"
+- "[[H7605]]"
+- "[[H7307G]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H4100]]"
+- "[[H9009]]"
+- "[[H1245]]"
+- "[[H2233H]]"
+- "[[H0430G]]"
+- "[[H9001]]"
+- "[[H8104H]]"
+- "[[H9003]]"
+- "[[H9026]]"
+- "[[H0802H]]"
+- "[[H5271A]]"
+- "[[H9021]]"
+- "[[H0408]]"
+- "[[H0898]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 2:15**<big><big>[[Mal.2.10 Judah’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And did not he make one? Yet had he the residue of the spirit. And wherefore one? That he might seek a godly seed. Therefore take heed to your spirit, and let none deal treacherously against the wife of his youth.
 <small><sub>**BSB:**</sub></small>
 Has not the LORD made them one, having a portion of the Spirit? And why one? Because He seeks godly offspring. So guard yourselves in your spirit and do not break faith with the wife of your youth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H0259\|אֶחָ֣ד]] [[H6213H\|עָשָׂ֗ה]] [[H9002\|וּ]][[H7605\|שְׁאָ֥ר]] [[H7307G\|ר֙וּחַ֙]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9002\|וּ]][[H4100\|מָה֙]] [[H9009\|הָֽ]][[H0259\|אֶחָ֔ד]] [[H1245\|מְבַקֵּ֖שׁ]] [[H2233H\|זֶ֣רַע]] [[H0430G\|אֱלֹהִ֑ים]] [[H9001\|וְ]][[H8104H\|נִשְׁמַרְתֶּם֙]] [[H9003\|בְּ]][[H7307G\|ר֣וּחֲ]][[H9026\|כֶ֔ם]] [[H9002\|וּ]][[H9003\|בְ]][[H0802H\|אֵ֥שֶׁת]] [[H5271A\|נְעוּרֶ֖י]][[H9021\|ךָ]] [[H0408\|אַל]][[H9014\|־]] [[H0898\|יִבְגֹּֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIVORCE|DIVORCE]] • [[topic HUSBAND|HUSBAND]] • [[topic MARRIAGE|MARRIAGE]] • [[topic POLYGAMY|POLYGAMY]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.2.14|<< Malachi 2:14]]</td><td align="center" style="border:none;">[[Mal.2|Malachi 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.2.16|Malachi 2:16 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: 1 Kings 21:21
+type: Verse
+kjv: "Behold, I will bring evil upon thee, and will take away thy posterity, and will cut off from Ahab him that pisseth against the wall, and him that is shut up and left in Israel,"
+bsb: "This is what the LORD says: ‘I will bring calamity on you and consume your descendants; I will cut off from Ahab every male in Israel, both slave and free."
+hebrew: "הִנְנִ֨י מֵבִ֤יא אֵלֶ֙יךָ֙ רָעָ֔ה וּבִעַרְתִּ֖י אַחֲרֶ֑יךָ וְהִכְרַתִּ֤י לְאַחְאָב֙ מַשְׁתִּ֣ין בְּקִ֔יר וְעָצ֥וּר וְעָז֖וּב בְּיִשְׂרָאֵֽל׃"
+pericope: "[[1Kgs.21.17 Elijah Denounces Ahab and Jezebel|Elijah Denounces Ahab and Jezebel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 21
+book/chapter: "[[1Kgs.21|1 Kings 21]]"
+chronological_order: 567
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H7451C]]"
+- "[[H9001]]"
+- "[[H1197A]]"
+- "[[H0310A]]"
+- "[[H3772I]]"
+- "[[H9005]]"
+- "[[H0256G]]"
+- "[[H8366]]"
+- "[[H9003]]"
+- "[[H7023]]"
+- "[[H9002]]"
+- "[[H6113]]"
+- "[[H5800C]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **1 Kings 21:21**<big><big>[[1Kgs.21.17 Elijah Denounces Ahab and Jezebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will bring evil upon thee, and will take away thy posterity, and will cut off from Ahab him that pisseth against the wall, and him that is shut up and left in Israel,
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: ‘I will bring calamity on you and consume your descendants; I will cut off from Ahab every male in Israel, both slave and free.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H0935P\|מֵבִ֤יא]] [[H0413\|אֵלֶ֙י]][[H9031\|ךָ֙]] [[H7451C\|רָעָ֔ה]] [[H9001\|וּ]][[H1197A\|בִעַרְתִּ֖י]] [[H0310A\|אַחֲרֶ֑י]][[H9031\|ךָ]] [[H9001\|וְ]][[H3772I\|הִכְרַתִּ֤י]] [[H9005\|לְ]][[H0256G\|אַחְאָב֙]] [[H8366\|מַשְׁתִּ֣ין]] [[H9003\|בְּ]][[H7023\|קִ֔יר]] [[H9002\|וְ]][[H6113\|עָצ֥וּר]] [[H9002\|וְ]][[H5800C\|עָז֖וּב]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic ELIJAH|ELIJAH]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PROPHECY|PROPHECY]] • [[topic REPROOF|REPROOF]] • [[topic RULERS|RULERS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.21.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.20|<< 1 Kings 21:20]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.22|1 Kings 21:22 >>]]</td></tr></table>
 

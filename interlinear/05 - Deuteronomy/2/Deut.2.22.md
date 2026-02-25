@@ -1,8 +1,71 @@
+---
+title: Deuteronomy 2:22
+type: Verse
+kjv: "As he did to the children of Esau, which dwelt in Seir, when he destroyed the Horims from before them; and they succeeded them, and dwelt in their stead even unto this day:"
+bsb: "just as He had done for the descendants of Esau who lived in Seir, when He destroyed the Horites from before them. They drove them out and have lived in their place to this day."
+hebrew: "כַּאֲשֶׁ֤ר עָשָׂה֙ לִבְנֵ֣י עֵשָׂ֔ו הַיֹּשְׁבִ֖ים בְּשֵׂעִ֑יר אֲשֶׁ֨ר הִשְׁמִ֤יד אֶת־ הַחֹרִי֙ מִפְּנֵיהֶ֔ם וַיִּֽירָשֻׁם֙ וַיֵּשְׁב֣וּ תַחְתָּ֔ם עַ֖ד הַיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[Deut.2.1 Wanderings in the Wilderness|Wanderings in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 2
+book/chapter: "[[Deut.2|Deuteronomy 2]]"
+chronological_order: 198
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic SEIR|SEIR]]"
+strongs:
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H6215H]]"
+- "[[H9009]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H8165A]]"
+- "[[H0834A]]"
+- "[[H8045]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2752]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H9001]]"
+- "[[H3423H]]"
+- "[[H9038]]"
+- "[[H8478H]]"
+- "[[H5704]]"
+- "[[H3117G]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 2:22**<big><big>[[Deut.2.1 Wanderings in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As he did to the children of Esau, which dwelt in Seir, when he destroyed the Horims from before them; and they succeeded them, and dwelt in their stead even unto this day:
 <small><sub>**BSB:**</sub></small>
 just as He had done for the descendants of Esau who lived in Seir, when He destroyed the Horites from before them. They drove them out and have lived in their place to this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H6213A\|עָשָׂה֙]] [[H9005\|לִ]][[H1121G\|בְנֵ֣י]] [[H6215H\|עֵשָׂ֔ו]] [[H9009\|הַ]][[H3427\|יֹּשְׁבִ֖ים]] [[H9003\|בְּ]][[H8165A\|שֵׂעִ֑יר]] [[H0834A\|אֲשֶׁ֨ר]] [[H8045\|הִשְׁמִ֤יד]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2752\|חֹרִי֙]] [[H9006\|מִ]][[H6440G\|פְּנֵי]][[H9028\|הֶ֔ם]] [[H9001\|וַ]][[H3423H\|יִּֽירָשֻׁ]][[H9038\|ם֙]] [[H9001\|וַ]][[H3427\|יֵּשְׁב֣וּ]] [[H8478H\|תַחְתָּ֔]][[H9038\|ם]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SEIR|SEIR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.21|<< Deuteronomy 2:21]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.23|Deuteronomy 2:23 >>]]</td></tr></table>
 

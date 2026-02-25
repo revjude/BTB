@@ -1,10 +1,57 @@
+---
+title: John 10:21
+type: Verse
+kjv: "Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind?"
+bsb: "But others replied, “These are not the words of a man possessed by a demon. Can a demon open the eyes of the blind?”"
+greek: "ἄλλοι δὲ ἔλεγον· ταῦτα τὰ ῥήματα οὐκ ἔστιν δαιμονιζομένου· μὴ δαιμόνιον δύναται τυφλῶν ὀφθαλμοὺς ἀνοῖξαι;¶"
+pericope: "[[John.10.1 Jesus the Good Shepherd|Jesus the Good Shepherd]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 10
+book/chapter: "[[John.10|John 10]]"
+chronological_order: 984
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G0243]]"
+- "[[G1161]]"
+- "[[G3004G]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G4487]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G1139]]"
+- "[[G3361]]"
+- "[[G1140]]"
+- "[[G1410]]"
+- "[[G5185]]"
+- "[[G3788]]"
+- "[[G0455]]"
+texts:
+- NKO
+- o
+- N(k)O
+---
+
 **John 10:21**<big><big>[[John.10.1 Jesus the Good Shepherd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind?
 <small><sub>**BSB:**</sub></small>
 But others replied, “These are not the words of a man possessed by a demon. Can a demon open the eyes of the blind?”
-<small><sub>**Literal:**</sub></small>
-Others now were saying; These <the> declarations not are [those] of one demonised; Surely not a demon is able of [the] blind [their] eyes to open?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.20|<< John 10:20]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.22|John 10:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0243\|ἄλλοι]]  [[G1161\|δὲ]]  [[G3004G\|ἔλεγον·]]  [[G3778\|ταῦτα]]  [[G3588\|τὰ]]  [[G4487\|ῥήματα]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G1139\|δαιμονιζομένου·]]  [[G3361\|μὴ]]  [[G1140\|δαιμόνιον]]  [[G1410\|δύναται]]  [[G5185\|τυφλῶν]]  [[G3788\|ὀφθαλμοὺς]]  [[G0455\|ἀνοῖξαι;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.20|<< John 10:20]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.22|John 10:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

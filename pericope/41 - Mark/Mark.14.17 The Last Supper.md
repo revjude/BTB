@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Last Supper
+type: Pericope
 pericope: "[[Mark.14.17 The Last Supper|The Last Supper]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Mark
 chapter: 14
 book/chapter: "[[Mark.14|Mark 14]]"
-genre:
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 10
 verses:
 - "[[Mark.14.17]]"
 - "[[Mark.14.18]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Mark.14.26]]"
 ---
 
-[[Mark.14|Mark 14:17 - Mark 14:26]]
+<small>[[Mark.14|Mark 14:17-26]]</small>
 *The Last Supper*
 
 [[Mark.14.17|17]] And in the evening he cometh with the twelve.

@@ -1,8 +1,54 @@
+---
+title: Job 28:27
+type: Verse
+kjv: "Then did he see it, and declare it; he prepared it, yea, and searched it out."
+bsb: "then He looked at wisdom and appraised it; He established it and searched it out."
+hebrew: "אָ֣ז רָ֭אָהּ וַֽיְסַפְּרָ֑הּ הֱ֝כִינָ֗הּ וְגַם־ חֲקָרָֽהּ׃"
+pericope: "[[Job.28.1 Where Can Wisdom Be Found？|Where Can Wisdom Be Found？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 28
+book/chapter: "[[Job.28|Job 28]]"
+chronological_order: 39
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H0227A]]"
+- "[[H7200G]]"
+- "[[H9034]]"
+- "[[H9001]]"
+- "[[H5608A]]"
+- "[[H3559H]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H2713]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 28:27**<big><big>[[Job.28.1 Where Can Wisdom Be Found？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then did he see it, and declare it; he prepared it, yea, and searched it out.
 <small><sub>**BSB:**</sub></small>
 then He looked at wisdom and appraised it; He established it and searched it out.
+<small><sub>**Hebrew:**</sub></small>
+[[H0227A\|אָ֣ז]] [[H7200G\|רָ֭אָ]][[H9034\|הּ]] [[H9001\|וַֽ]][[H5608A\|יְסַפְּרָ֑]][[H9034\|הּ]] [[H3559H\|הֱ֝כִינָ֗]][[H9034\|הּ]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H2713\|חֲקָרָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.26|<< Job 28:26]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.28|Job 28:28 >>]]</td></tr></table>
 

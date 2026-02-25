@@ -1,8 +1,66 @@
+---
+title: Genesis 20:1
+type: Verse
+kjv: "And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar."
+bsb: "Now Abraham journeyed from there to the region of the Negev and settled between Kadesh and Shur. While he was staying in Gerar,"
+hebrew: "וַיִּסַּ֨ע מִשָּׁ֤ם אַבְרָהָם֙ אַ֣רְצָה הַנֶּ֔גֶב וַיֵּ֥שֶׁב בֵּין־ קָדֵ֖שׁ וּבֵ֣ין שׁ֑וּר וַיָּ֖גָר בִּגְרָֽר׃"
+pericope: "[[Gen.20.1 Abraham, Sarah, and Abimelech|Abraham, Sarah, and Abimelech]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 20
+book/chapter: "[[Gen.20|Genesis 20]]"
+chronological_order: 62
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic GERAR|GERAR]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic KADESH|KADESH]]"
+- "[[topic SARAH|SARAH]]"
+- "[[topic SHUR|SHUR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5265]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H0085]]"
+- "[[H0776G]]"
+- "[[H9011]]"
+- "[[H9009]]"
+- "[[H5045G]]"
+- "[[H3427]]"
+- "[[H0996G]]"
+- "[[H9014]]"
+- "[[H6946G]]"
+- "[[H9002]]"
+- "[[H7793]]"
+- "[[H1481A]]"
+- "[[H9003]]"
+- "[[H1642]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 20:1**<big><big>[[Gen.20.1 Abraham, Sarah, and Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar.
 <small><sub>**BSB:**</sub></small>
 Now Abraham journeyed from there to the region of the Negev and settled between Kadesh and Shur. While he was staying in Gerar,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5265\|יִּסַּ֨ע]] [[H9006\|מִ]][[H8033G\|שָּׁ֤ם]] [[H0085\|אַבְרָהָם֙]] [[H0776G\|אַ֣רְצָ]][[H9011\|ה]] [[H9009\|הַ]][[H5045G\|נֶּ֔גֶב]] [[H9001\|וַ]][[H3427\|יֵּ֥שֶׁב]] [[H0996G\|בֵּין]][[H9014\|־]] [[H6946G\|קָדֵ֖שׁ]] [[H9002\|וּ]][[H0996G\|בֵ֣ין]] [[H7793\|שׁ֑וּר]] [[H9001\|וַ]][[H1481A\|יָּ֖גָר]] [[H9003\|בִּ]][[H1642\|גְרָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GERAR|GERAR]] • [[topic IGNORANCE|IGNORANCE]] • [[topic KADESH|KADESH]] • [[topic SARAH|SARAH]] • [[topic SHUR|SHUR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.20.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.38|<< Genesis 19:38]]</td><td align="center" style="border:none;">[[Gen.20|Genesis 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.20.2|Genesis 20:2 >>]]</td></tr></table>
 

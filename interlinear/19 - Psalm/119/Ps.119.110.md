@@ -1,8 +1,58 @@
+---
+title: Psalm 119:110
+type: Verse
+kjv: "The wicked have laid a snare for me: yet I erred not from thy precepts."
+bsb: "The wicked have set a snare for me, but I have not strayed from Your precepts."
+hebrew: "נָתְנ֬וּ רְשָׁעִ֣ים פַּ֣ח לִ֑י וּ֝מִפִּקּוּדֶ֗יךָ לֹ֣א תָעִֽיתִי׃"
+pericope: "[[Ps.119.105 Your Word Is a Lamp to My Feet - NUN|Your Word Is a Lamp to My Feet - NUN]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H5414H]]"
+- "[[H7563]]"
+- "[[H6341A]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H6490]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H8582]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:110**<big><big>[[Ps.119.105 Your Word Is a Lamp to My Feet - NUN|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wicked have laid a snare for me: yet I erred not from thy precepts.
 <small><sub>**BSB:**</sub></small>
 The wicked have set a snare for me, but I have not strayed from Your precepts.
+<small><sub>**Hebrew:**</sub></small>
+[[H5414H\|נָתְנ֬וּ]] [[H7563\|רְשָׁעִ֣ים]] [[H6341A\|פַּ֣ח]] [[H9005\|לִ֑]][[H9030\|י]] [[H9002\|וּ֝]][[H9006\|מִ]][[H6490\|פִּקּוּדֶ֗י]][[H9021\|ךָ]] [[H3808\|לֹ֣א]] [[H8582\|תָעִֽיתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PERSECUTION|PERSECUTION]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.110|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.109|<< Psalms 119:109]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.111|Psalms 119:111 >>]]</td></tr></table>
 

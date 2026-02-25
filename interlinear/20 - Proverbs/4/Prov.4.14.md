@@ -1,8 +1,54 @@
+---
+title: Proverbs 4:14
+type: Verse
+kjv: "Enter not into the path of the wicked, and go not in the way of evil men."
+bsb: "Do not set foot on the path of the wicked or walk in the way of evildoers."
+hebrew: "בְּאֹ֣רַח רְ֭שָׁעִים אַל־ תָּבֹ֑א וְאַל־ תְּ֝אַשֵּׁ֗ר בְּדֶ֣רֶךְ רָעִֽים׃"
+pericope: "[[Prov.4.1 A Father’s Instruction|A Father’s Instruction]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 4
+book/chapter: "[[Prov.4|Proverbs 4]]"
+chronological_order: 459
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9003]]"
+- "[[H0734]]"
+- "[[H7563]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9002]]"
+- "[[H0833]]"
+- "[[H1870G]]"
+- "[[H7451H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 4:14**<big><big>[[Prov.4.1 A Father’s Instruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Enter not into the path of the wicked, and go not in the way of evil [men].
 <small><sub>**BSB:**</sub></small>
 Do not set foot on the path of the wicked or walk in the way of evildoers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H0734\|אֹ֣רַח]] [[H7563\|רְ֭שָׁעִים]] [[H0408\|אַל]][[H9014\|־]] [[H0935G\|תָּבֹ֑א]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H0833\|תְּ֝אַשֵּׁ֗ר]] [[H9003\|בְּ]][[H1870G\|דֶ֣רֶךְ]] [[H7451H\|רָעִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic TEMPTATION|TEMPTATION]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.13|<< Proverbs 4:13]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.15|Proverbs 4:15 >>]]</td></tr></table>
 

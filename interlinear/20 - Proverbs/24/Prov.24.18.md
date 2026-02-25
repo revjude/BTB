@@ -1,8 +1,58 @@
+---
+title: Proverbs 24:18
+type: Verse
+kjv: "Lest the LORD see it, and it displease him, and he turn away his wrath from him."
+bsb: "or the LORD will see and disapprove, and turn His wrath away from him."
+hebrew: "פֶּן־ יִרְאֶ֣ה יְ֭הוָה וְרַ֣ע בְּעֵינָ֑יו וְהֵשִׁ֖יב מֵעָלָ֣יו אַפּֽוֹ׃"
+pericope: "[[Prov.24.17 Saying 28|Saying 28]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 24
+book/chapter: "[[Prov.24|Proverbs 24]]"
+chronological_order: 479
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H7489A]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9023]]"
+- "[[H7725I]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H0639G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 24:18**<big><big>[[Prov.24.17 Saying 28|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lest the LORD see [it], and it displease him, and he turn away his wrath from him.
 <small><sub>**BSB:**</sub></small>
 or the LORD will see and disapprove, and turn His wrath away from him.
+<small><sub>**Hebrew:**</sub></small>
+[[H6435\|פֶּן]][[H9014\|־]] [[H7200G\|יִרְאֶ֣ה]] [[H3068G\|יְ֭הוָה]] [[H9001\|וְ]][[H7489A\|רַ֣ע]] [[H9003\|בְּ]][[H5869I\|עֵינָ֑י]][[H9023\|ו]] [[H9001\|וְ]][[H7725I\|הֵשִׁ֖יב]] [[H9006\|מֵ]][[H5921A\|עָלָ֣י]][[H9033\|ו]] [[H0639G\|אַפּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENEMY|ENEMY]] • [[topic LOVE|LOVE]] • [[topic MALICE|MALICE]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.17|<< Proverbs 24:17]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.19|Proverbs 24:19 >>]]</td></tr></table>
 

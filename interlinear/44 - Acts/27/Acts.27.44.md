@@ -1,10 +1,58 @@
+---
+title: Acts 27:44
+type: Verse
+kjv: "And the rest, some on boards, and some on broken pieces of the ship. And so it came to pass, that they escaped all safe to land."
+bsb: "The rest were to follow on planks and various parts of the ship. In this way everyone was brought safely to land."
+greek: "καὶ τοὺς λοιποὺς οὓς μὲν ἐπὶ σανίσιν, οὓς δὲ ἐπί τινων τῶν ἀπὸ τοῦ πλοίου. καὶ οὕτως ἐγένετο πάντας διασωθῆναι ἐπὶ τὴν γῆν."
+pericope: "[[Acts.27.27 The Shipwreck|The Shipwreck]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 27
+book/chapter: "[[Acts.27|Acts 27]]"
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SHIP|SHIP]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3062]]"
+- "[[G3739]]"
+- "[[G3303]]"
+- "[[G1909]]"
+- "[[G4548]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G0575]]"
+- "[[G4143]]"
+- "[[G3779]]"
+- "[[G1096]]"
+- "[[G3956]]"
+- "[[G1295]]"
+- "[[G1093H]]"
+texts:
+- NKO
+---
+
 **Acts 27:44**<big><big>[[Acts.27.27 The Shipwreck|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the rest, some on boards, and some on [broken pieces] of the ship. And so it came to pass, that they escaped all safe to land.
 <small><sub>**BSB:**</sub></small>
 The rest were to follow on planks and various parts of the ship. In this way everyone was brought safely to land.
-<small><sub>**Literal:**</sub></small>
-and the rest some indeed on boards, some however on things <the> from the ship. And thus it came to pass that all being saved to the land.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.43|<< Acts 27:43]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.1|Acts 28:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G3062\|λοιποὺς]]  [[G3739\|οὓς]]  [[G3303\|μὲν]]  [[G1909\|ἐπὶ]]  [[G4548\|σανίσιν,]]  [[G3739\|οὓς]]  [[G1161\|δὲ]]  [[G1909\|ἐπί]]  [[G5100\|τινων]]  [[G3588\|τῶν]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G4143\|πλοίου.]]  [[G2532\|καὶ]]  [[G3779\|οὕτως]]  [[G1096\|ἐγένετο]]  [[G3956\|πάντας]]  [[G1295\|διασωθῆναι]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G1093H\|γῆν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]] • [[topic PAUL|PAUL]] • [[topic PROPHECY|PROPHECY]] • [[topic SHIP|SHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.43|<< Acts 27:43]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.1|Acts 28:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,65 @@
+---
+title: 1 Peter 3:21
+type: Verse
+kjv: "The like figure whereunto even baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ:"
+bsb: "And this water symbolizes the baptism that now saves you also—not the removal of dirt from the body, but the pledge of a clear conscience toward God—through the resurrection of Jesus Christ,"
+greek: "ὃ καὶ ὑμᾶς ἀντίτυπον νῦν σῴζει βάπτισμα, οὐ σαρκὸς ἀπόθεσις ῥύπου, ἀλλὰ συνειδήσεως ἀγαθῆς ἐπερώτημα εἰς θεόν, δι᾽ ἀναστάσεως Ἰησοῦ Χριστοῦ,"
+pericope: "[[1Pet.3.14 Suffering for Righteousness|Suffering for Righteousness]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 3
+book/chapter: "[[1Pet.3|1 Peter 3]]"
+chronological_order: 1137
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G3739]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G0499]]"
+- "[[G3568]]"
+- "[[G4982]]"
+- "[[G0908]]"
+- "[[G3756]]"
+- "[[G4561]]"
+- "[[G0595]]"
+- "[[G4509]]"
+- "[[G0235]]"
+- "[[G4893]]"
+- "[[G0018]]"
+- "[[G1906]]"
+- "[[G1519]]"
+- "[[G2316]]"
+- "[[G1223]]"
+- "[[G0386]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **1 Peter 3:21**<big><big>[[1Pet.3.14 Suffering for Righteousness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The like figure whereunto [even] baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ:
 <small><sub>**BSB:**</sub></small>
 And this water symbolizes the baptism that now saves you also—not the removal of dirt from the body, but the pledge of a clear conscience toward God—through the resurrection of Jesus Christ,
-<small><sub>**Literal:**</sub></small>
-which also you prefigures now saving baptism, not of flesh a putting away of [the] filth, but of a conscience good [the] demand toward God, through [the] resurrection of Jesus Christ,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.20|<< 1 Peter 3:20]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.22|1 Peter 3:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃ]]  [[G2532\|καὶ]]  [[G4771\|ὑμᾶς]]  [[G0499\|ἀντίτυπον]]  [[G3568\|νῦν]]  [[G4982\|σῴζει]]  [[G0908\|βάπτισμα,]]  [[G3756\|οὐ]]  [[G4561\|σαρκὸς]]  [[G0595\|ἀπόθεσις]]  [[G4509\|ῥύπου,]]  [[G0235\|ἀλλὰ]]  [[G4893\|συνειδήσεως]]  [[G0018\|ἀγαθῆς]]  [[G1906\|ἐπερώτημα]]  [[G1519\|εἰς]]  [[G2316\|θεόν,]]  [[G1223\|δι᾽]]  [[G0386\|ἀναστάσεως]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.20|<< 1 Peter 3:20]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.22|1 Peter 3:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,59 @@
+---
+title: 1 Peter 2:13
+type: Verse
+kjv: "Submit yourselves to every ordinance of man for the Lord’s sake: whether it be to the king, as supreme;"
+bsb: "Submit yourselves for the Lord’s sake to every human institution, whether to the king as the supreme authority,"
+greek: "Ὑποτάγητε οὖν πάσῃ ἀνθρωπίνῃ κτίσει διὰ τὸν κύριον· εἴτε βασιλεῖ ὡς ὑπερέχοντι·"
+pericope: "[[1Pet.2.13 Submission to Authorities|Submission to Authorities]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 2
+book/chapter: "[[1Pet.2|1 Peter 2]]"
+chronological_order: 1136
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ORDINANCE|ORDINANCE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+strongs:
+- "[[G5293]]"
+- "[[G3767]]"
+- "[[G3956]]"
+- "[[G0442]]"
+- "[[G2937]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G1535]]"
+- "[[G0935]]"
+- "[[G5613]]"
+- "[[G5242]]"
+texts:
+- NKO
+- K
+---
+
 **1 Peter 2:13**<big><big>[[1Pet.2.13 Submission to Authorities|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Submit yourselves to every ordinance of man for the Lord’s sake: whether it be to the king, as supreme;
 <small><sub>**BSB:**</sub></small>
 Submit yourselves for the Lord’s sake to every human institution, whether to the king as the supreme authority,
-<small><sub>**Literal:**</sub></small>
-do be subjected therefore to every human institution for the sake of the Lord; whether to [the] king as being supreme;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.12|<< 1 Peter 2:12]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.14|1 Peter 2:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5293\|Ὑποτάγητε]]  [[G3767\|οὖν]]  [[G3956\|πάσῃ]]  [[G0442\|ἀνθρωπίνῃ]]  [[G2937\|κτίσει]]  [[G1223\|διὰ]]  [[G3588\|τὸν]]  [[G2962G\|κύριον·]]  [[G1535\|εἴτε]]  [[G0935\|βασιλεῖ]]  [[G5613\|ὡς]]  [[G5242\|ὑπερέχοντι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic EXAMPLE|EXAMPLE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ORDINANCE|ORDINANCE]] • [[topic RULERS|RULERS]] • [[topic SELF-DENIAL|SELF-DENIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.12|<< 1 Peter 2:12]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.14|1 Peter 2:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

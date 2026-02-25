@@ -1,8 +1,58 @@
+---
+title: Deuteronomy 10:16
+type: Verse
+kjv: "Circumcise therefore the foreskin of your heart, and be no more stiffnecked."
+bsb: "Circumcise your hearts, therefore, and stiffen your necks no more."
+hebrew: "וּמַלְתֶּ֕ם אֵ֖ת עָרְלַ֣ת לְבַבְכֶ֑ם וְעָ֨רְפְּכֶ֔ם לֹ֥א תַקְשׁ֖וּ עֽוֹד׃"
+pericope: "[[Deut.10.12 A Call to Obedience|A Call to Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 10
+book/chapter: "[[Deut.10|Deuteronomy 10]]"
+chronological_order: 206
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H4135A]]"
+- "[[H0853]]"
+- "[[H6190H]]"
+- "[[H3824]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H6203]]"
+- "[[H3808]]"
+- "[[H7185]]"
+- "[[H5750]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 10:16**<big><big>[[Deut.10.12 A Call to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Circumcise therefore the foreskin of your heart, and be no more stiffnecked.
 <small><sub>**BSB:**</sub></small>
 Circumcise your hearts, therefore, and stiffen your necks no more.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H4135A\|מַלְתֶּ֕ם]] [[H0853\|אֵ֖ת]] [[H6190H\|עָרְלַ֣ת]] [[H3824\|לְבַבְ]][[H9026\|כֶ֑ם]] [[H9002\|וְ]][[H6203\|עָ֨רְפְּ]][[H9026\|כֶ֔ם]] [[H3808\|לֹ֥א]] [[H7185\|תַקְשׁ֖וּ]] [[H5750\|עֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIRCUMCISION|CIRCUMCISION]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.10.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.15|<< Deuteronomy 10:15]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.17|Deuteronomy 10:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,62 @@
+---
+title: Psalm 40:17
+type: Verse
+kjv: "But I am poor and needy; yet the Lord thinketh upon me: thou art my help and my deliverer; make no tarrying, O my God."
+bsb: "But I am poor and needy; may the Lord think of me. You are my helper and deliverer; O my God, do not delay."
+hebrew: "וַאֲנִ֤י׀ עָנִ֣י וְאֶבְיוֹן֮ אֲדֹנָ֪י יַחֲשָׁ֫ב לִ֥י עֶזְרָתִ֣י וּמְפַלְטִ֣י אַ֑תָּה אֱ֝לֹהַ֗י אַל־ תְּאַחַֽר׃"
+pericope: "[[Ps.40.1 I Waited Patiently for the LORD|I Waited Patiently for the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 40
+book/chapter: "[[Ps.40|Psalm 40]]"
+chronological_order: 367
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H9015]]"
+- "[[H6041]]"
+- "[[H0034]]"
+- "[[H0136]]"
+- "[[H2803I]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H5833]]"
+- "[[H9020]]"
+- "[[H6403]]"
+- "[[H0859A]]"
+- "[[H0430G]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0309]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 40:17**<big><big>[[Ps.40.1 I Waited Patiently for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I [am] poor and needy; [yet] the Lord thinketh upon me: thou [art] my help and my deliverer; make no tarrying, O my God.
 <small><sub>**BSB:**</sub></small>
 But I am poor and needy; may the Lord think of me. You are my helper and deliverer; O my God, do not delay.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0589\|אֲנִ֤י]][[H9015\|׀]] [[H6041\|עָנִ֣י]] [[H9002\|וְ]][[H0034\|אֶבְיוֹן֮]] [[H0136\|אֲדֹנָ֪י]] [[H2803I\|יַחֲשָׁ֫ב]] [[H9005\|לִ֥]][[H9030\|י]] [[H5833\|עֶזְרָתִ֣]][[H9020\|י]] [[H9002\|וּ]][[H6403\|מְפַלְטִ֣]][[H9030\|י]] [[H0859A\|אַ֑תָּה]] [[H0430G\|אֱ֝לֹהַ֗]][[H9020\|י]] [[H0408\|אַל]][[H9014\|־]] [[H0309\|תְּאַחַֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.40.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.40.16|<< Psalms 40:16]]</td><td align="center" style="border:none;">[[Ps.40|Psalms 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.41.0|Psalms 41:0 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,9 +1,61 @@
+---
+title: LXX Joshua 6:14
+type: Verse
+lxx: "And they encircled the city on the second day, once near to it; and they went forth again into the camp. So it was done for six days."
+greek: "και περιεκύκλωσαν την πόλιν εν τη ημέρα τη δευτέρα άπαξ εγγύθεν και απήλθον πάλιν εις την παρεμβολήν ούτως εποίει επ΄ εξ ημέρας"
+original_language: Greek
+testament: Old
+book: Joshua
+chapter: 6
+book/chapter: "[[Josh.6|Joshua 6]]"
+chronological_order: 236
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[G2532]]"
+- "[[G4033]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3588]]"
+- "[[G1208]]"
+- "[[G0530]]"
+- "[[G7001]]"
+- "[[G2532]]"
+- "[[G0565]]"
+- "[[G3825]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3925]]"
+- "[[G3779]]"
+- "[[G4160]]"
+- "[[G1909]]"
+- "[[G1803]]"
+- "[[G2250]]"
+---
+
 **LXX Joshua 6:14** 
 
 ***Israel Encircles Jericho Seven Times***
 
 <small><sub>**LXX:**</sub></small>
 And they encircled the city on the second day, once near to \[it\]; and they went forth again into the camp. So it was done for six days. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G4033\|περιεκύκλωσαν]] [[G3588\|την]] [[G4172\|πόλιν]] [[G1722\|εν]] [[G3588\|τη]] [[G2250\|ημέρα]] [[G3588\|τη]] [[G1208\|δευτέρα]] [[G0530\|άπαξ]] [[G7001\|εγγύθεν]] [[G2532\|και]] [[G0565\|απήλθον]] [[G3825\|πάλιν]] [[G1519\|εις]] [[G3588\|την]] [[G3925\|παρεμβολήν]] [[G3779\|ούτως]] [[G4160\|εποίει]] [[G1909\|επ΄]] [[G1803\|εξ]] [[G2250\|ημέρας]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**MT:**</sub></small>
 [[Josh.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.13|<< Joshua 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.15|Joshua 6:15 >>]]</td></tr></table>
 
@@ -31,6 +83,6 @@ And they encircled the city on the second day, once near to \[it\]; and they wen
 | for | **<big>[[G1909\|επ΄]]</big>** |
 | six | **<big>[[G1803\|εξ]]</big>** |
 | days. | **<big>[[G2250\|ημέρας]]</big>** |
-[[Josh.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.13|<< Joshua 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.15|Joshua 6:15 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.13|<< Joshua 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.15|Joshua 6:15 >>]]</td></tr></table>
 
 

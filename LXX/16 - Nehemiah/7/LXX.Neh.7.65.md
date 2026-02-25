@@ -1,6 +1,60 @@
+---
+title: LXX Nehemiah 7:65
+type: Verse
+lxx: "And Arthasastha said to them, that they should not eat from the holy  of holies until a priest should rise up to the lights and the perfections."
+greek: "και είπεν Αρθασασθά αυτοίς ίνα μη φάγωσιν από του αγίου των αγίων έως αναστή ιερεύς τοις φωτισμοίς και ταις τελειώσεσι"
+original_language: Greek
+testament: Old
+book: Nehemiah
+chapter: 7
+book/chapter: "[[Neh.7|Nehemiah 7]]"
+chronological_order: 919
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- septuagint
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TIRSHATHA|TIRSHATHA]]"
+- "[[topic URIM AND THUMMIM|URIM AND THUMMIM]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[H0783b]]"
+- "[[G1473]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G2068]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G0039]]"
+- "[[G3588]]"
+- "[[G0039]]"
+- "[[G2193]]"
+- "[[G0450]]"
+- "[[G2409]]"
+- "[[G3588]]"
+- "[[G5461]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5050]]"
+---
+
 **LXX Nehemiah 7:65** 
 <small><sub>**LXX:**</sub></small>
 And Arthasastha said to them, that they should not eat from the holy  of holies until a priest should rise up to the lights and the perfections. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπεν]] [[H0783b\|Αρθασασθά]] [[G1473\|αυτοίς]] [[G2443\|ίνα]] [[G3361\|μη]] [[G2068\|φάγωσιν]] [[G0575\|από]] [[G3588\|του]] [[G0039\|αγίου]] [[G3588\|των]] [[G0039\|αγίων]] [[G2193\|έως]] [[G0450\|αναστή]] [[G2409\|ιερεύς]] [[G3588\|τοις]] [[G5461\|φωτισμοίς]] [[G2532\|και]] [[G3588\|ταις]] [[G5050\|τελειώσεσι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]] • [[topic TIRSHATHA|TIRSHATHA]] • [[topic URIM AND THUMMIM|URIM AND THUMMIM]]</small>
 <small><sub>**MT:**</sub></small>
 [[Neh.7.65|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.64|<< Nehemiah 7:64]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.66|Nehemiah 7:66 >>]]</td></tr></table>
 
@@ -25,6 +79,6 @@ And Arthasastha said to them, that they should not eat from the holy  of holies 
 | and | **<big>[[G2532\|και]]</big>** |
 | the | **<big>[[G3588\|ταις]]</big>** |
 | perfections. | **<big>[[G5050\|τελειώσεσι]]</big>** |
-[[Neh.7.65|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.64|<< Nehemiah 7:64]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.66|Nehemiah 7:66 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.64|<< Nehemiah 7:64]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.66|Nehemiah 7:66 >>]]</td></tr></table>
 
 

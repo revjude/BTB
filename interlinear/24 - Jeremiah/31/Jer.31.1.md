@@ -1,8 +1,61 @@
+---
+title: Jeremiah 31:1
+type: Verse
+kjv: "At the same time, saith the LORD, will I be the God of all the families of Israel, and they shall be my people."
+bsb: "“At that time,” declares the LORD, “I will be the God of all the families of Israel, and they will be My people.”"
+hebrew: "בָּעֵ֤ת הַהִיא֙ נְאֻם־ יְהוָ֔ה אֶֽהְיֶה֙ לֵֽאלֹהִ֔ים לְכֹ֖ל מִשְׁפְּח֣וֹת יִשְׂרָאֵ֑ל וְהֵ֖מָּה יִֽהְיוּ־ לִ֥י לְעָֽם׃ ס"
+pericope: "[[Jer.31.1 Mourning Turned to Joy|Mourning Turned to Joy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H3605]]"
+- "[[H4940]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H1992]]"
+- "[[H9030]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 31:1**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At the same time, saith the LORD, will I be the God of all the families of Israel, and they shall be my people.
 <small><sub>**BSB:**</sub></small>
 “At that time,” declares the LORD, “I will be the God of all the families of Israel, and they will be My people.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בָּ]][[H6256\|עֵ֤ת]] [[H9009\|הַ]][[H1931\|הִיא֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H1961\|אֶֽהְיֶה֙]] [[H9005\|לֵֽ]][[H0430G\|אלֹהִ֔ים]] [[H9005\|לְ]][[H3605\|כֹ֖ל]] [[H4940\|מִשְׁפְּח֣וֹת]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וְ]][[H1992\|הֵ֖מָּה]] [[H1961\|יִֽהְיוּ]][[H9014\|־]] [[H9005\|לִ֥]][[H9030\|י]] [[H9005\|לְ]][[H5971A\|עָֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.24|<< Jeremiah 30:24]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.2|Jeremiah 31:2 >>]]</td></tr></table>
 
@@ -20,7 +73,7 @@ At the same time, saith the LORD, will I be the God of all the families of Israe
 | and they  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1992\|הֵ֖מָּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will become  |**<big>&#8207;[[H1961\|יִֽהְיוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yih.yu-<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> me  |**<big>&#8207;[[H9005\|לִ֥]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<into> a people  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5971A\|עָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> a people  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5971A\|עָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.24|<< Jeremiah 30:24]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.2|Jeremiah 31:2 >>]]</td></tr></table>
 
 

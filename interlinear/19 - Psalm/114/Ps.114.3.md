@@ -1,8 +1,54 @@
+---
+title: Psalm 114:3
+type: Verse
+kjv: "The sea saw it, and fled: Jordan was driven back."
+bsb: "The sea observed and fled; the Jordan turned back;"
+hebrew: "הַיָּ֣ם רָ֭אָה וַיָּנֹ֑ס הַ֝יַּרְדֵּ֗ן יִסֹּ֥ב לְאָחֽוֹר׃"
+pericope: "[[Ps.114.1 A Psalm of Exodus|A Psalm of Exodus]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 114
+book/chapter: "[[Ps.114|Psalm 114]]"
+chronological_order: 876
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JORDAN|JORDAN]]"
+strongs:
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H7200G]]"
+- "[[H9001]]"
+- "[[H5127]]"
+- "[[H3383]]"
+- "[[H5437G]]"
+- "[[H9005]]"
+- "[[H0268]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 114:3**<big><big>[[Ps.114.1 A Psalm of Exodus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sea saw [it], and fled: Jordan was driven back.
 <small><sub>**BSB:**</sub></small>
 The sea observed and fled; the Jordan turned back;
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H3220G\|יָּ֣ם]] [[H7200G\|רָ֭אָה]] [[H9001\|וַ]][[H5127\|יָּנֹ֑ס]] [[H9009\|הַ֝]][[H3383\|יַּרְדֵּ֗ן]] [[H5437G\|יִסֹּ֥ב]] [[H9005\|לְ]][[H0268\|אָחֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JORDAN|JORDAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.114.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.114.2|<< Psalms 114:2]]</td><td align="center" style="border:none;">[[Ps.114|Psalms 114]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.114.4|Psalms 114:4 >>]]</td></tr></table>
 

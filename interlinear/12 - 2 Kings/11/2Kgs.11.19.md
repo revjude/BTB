@@ -1,8 +1,68 @@
+---
+title: 2 Kings 11:19
+type: Verse
+kjv: "And he took the rulers over hundreds, and the captains, and the guard, and all the people of the land; and they brought down the king from the house of the LORD, and came by the way of the gate of the guard to the king’s house. And he sat on the throne of the kings."
+bsb: "He took with him the commanders of hundreds, the Carites, the guards, and all the people of the land, and they brought the king down from the house of the LORD and entered the royal palace by way of the Gate of the Guards. Then Joash took his seat on the royal throne,"
+hebrew: "וַיִּקַּ֣ח אֶת־ שָׂרֵ֣י הַ֠מֵּאוֹת וְאֶת־ הַכָּרִ֨י וְאֶת־ הָרָצִ֜ים וְאֵ֣ת׀ כָּל־ עַ֣ם הָאָ֗רֶץ וַיֹּרִ֤ידוּ אֶת־ הַמֶּ֙לֶךְ֙ מִבֵּ֣ית יְהוָ֔ה וַיָּב֛וֹאוּ דֶּֽרֶך־ שַׁ֥עַר הָרָצִ֖ים בֵּ֣ית הַמֶּ֑לֶךְ וַיֵּ֖שֶׁב עַל־ כִּסֵּ֥א הַמְּלָכִֽים׃"
+pericope: "[[2Kgs.11.17 Jehoiada Restores the Worship of the LORD|Jehoiada Restores the Worship of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 11
+book/chapter: "[[2Kgs.11|2 Kings 11]]"
+chronological_order: 584
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~835–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JOASH|JOASH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H3967]]"
+- "[[H9002]]"
+- "[[H3746]]"
+- "[[H7323H]]"
+- "[[H9015]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H0776G]]"
+- "[[H3381]]"
+- "[[H4428G]]"
+- "[[H9006]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H0935G]]"
+- "[[H1870K]]"
+- "[[H8179G]]"
+- "[[H1004B]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H3678G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 11:19**<big><big>[[2Kgs.11.17 Jehoiada Restores the Worship of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took the rulers over hundreds, and the captains, and the guard, and all the people of the land; and they brought down the king from the house of the LORD, and came by the way of the gate of the guard to the king’s house. And he sat on the throne of the kings.
 <small><sub>**BSB:**</sub></small>
 He took with him the commanders of hundreds, the Carites, the guards, and all the people of the land, and they brought the king down from the house of the LORD and entered the royal palace by way of the Gate of the Guards. Then Joash took his seat on the royal throne,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֣ח]] [[H0853\|אֶת]][[H9014\|־]] [[H8269\|שָׂרֵ֣י]] [[H9009\|הַ֠]][[H3967\|מֵּאוֹת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3746\|כָּרִ֨י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H7323H\|רָצִ֜ים]] [[H9002\|וְ]][[H0853\|אֵ֣ת]][[H9015\|׀]] [[H3605\|כָּל]][[H9014\|־]] [[H5971A\|עַ֣ם]] [[H9009\|הָ]][[H0776G\|אָ֗רֶץ]] [[H9001\|וַ]][[H3381\|יֹּרִ֤ידוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H9006\|מִ]][[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H0935G\|יָּב֛וֹאוּ]] [[H1870K\|דֶּֽרֶך]][[H9014\|־]] [[H8179G\|שַׁ֥עַר]] [[H9009\|הָ]][[H7323H\|רָצִ֖ים]] [[H1004B\|בֵּ֣ית]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9001\|וַ]][[H3427\|יֵּ֖שֶׁב]] [[H5921A\|עַל]][[H9014\|־]] [[H3678G\|כִּסֵּ֥א]] [[H9009\|הַ]][[H4428G\|מְּלָכִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JOASH|JOASH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.11.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11.18|<< 2 Kings 11:18]]</td><td align="center" style="border:none;">[[2Kgs.11|2 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.20|2 Kings 11:20 >>]]</td></tr></table>
 

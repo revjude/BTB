@@ -1,8 +1,52 @@
+---
+title: Job 22:4
+type: Verse
+kjv: "Will he reprove thee for fear of thee? will he enter with thee into judgment?"
+bsb: "Is it for your reverence that He rebukes you and enters into judgment against you?"
+hebrew: "הֲֽ֭מִיִּרְאָ֣תְךָ יֹכִיחֶ֑ךָ יָב֥וֹא עִ֝מְּךָ֗ בַּמִּשְׁפָּֽט׃"
+pericope: "[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|Eliphaz：Can a Man Be of Use to God？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 22
+book/chapter: "[[Job.22|Job 22]]"
+chronological_order: 33
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic MAN|MAN]]"
+strongs:
+- "[[H9008]]"
+- "[[H9006]]"
+- "[[H3374]]"
+- "[[H9021]]"
+- "[[H3198]]"
+- "[[H9031]]"
+- "[[H0935G]]"
+- "[[H5973A]]"
+- "[[H9003]]"
+- "[[H4941G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 22:4**<big><big>[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Will he reprove thee for fear of thee? will he enter with thee into judgment?
 <small><sub>**BSB:**</sub></small>
 Is it for your reverence that He rebukes you and enters into judgment against you?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲֽ֭]][[H9006\|מִ]][[H3374\|יִּרְאָ֣תְ]][[H9021\|ךָ]] [[H3198\|יֹכִיחֶ֑]][[H9031\|ךָ]] [[H0935G\|יָב֥וֹא]] [[H5973A\|עִ֝מְּ]][[H9031\|ךָ֗]] [[H9003\|בַּ]][[H4941G\|מִּשְׁפָּֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MAN|MAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.22.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.22.3|<< Job 22:3]]</td><td align="center" style="border:none;">[[Job.22|Job 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.22.5|Job 22:5 >>]]</td></tr></table>
 

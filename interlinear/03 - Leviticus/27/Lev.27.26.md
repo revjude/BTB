@@ -1,8 +1,66 @@
+---
+title: Leviticus 27:26
+type: Verse
+kjv: "Only the firstling of the beasts, which should be the LORD’S firstling, no man shall sanctify it; whether it be ox, or sheep: it is the LORD’S."
+bsb: "But no one may consecrate a firstborn of the livestock, because a firstborn belongs to the LORD. Whether it is an ox or a sheep, it is the LORD’s."
+hebrew: "אַךְ־ בְּכ֞וֹר אֲשֶׁר־ יְבֻכַּ֤ר לַֽיהוָה֙ בִּבְהֵמָ֔ה לֹֽא־ יַקְדִּ֥ישׁ אִ֖ישׁ אֹת֑וֹ אִם־ שׁ֣וֹר אִם־ שֶׂ֔ה לַֽיהוָ֖ה הֽוּא׃"
+pericope: "[[Lev.27.1 Rules about Valuations|Rules about Valuations]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 27
+book/chapter: "[[Lev.27|Leviticus 27]]"
+chronological_order: 159
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+strongs:
+- "[[H0389]]"
+- "[[H9014]]"
+- "[[H1060]]"
+- "[[H0834A]]"
+- "[[H1069]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H0929]]"
+- "[[H3808]]"
+- "[[H6942H]]"
+- "[[H0376I]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H0518H]]"
+- "[[H7794]]"
+- "[[H7716]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 27:26**<big><big>[[Lev.27.1 Rules about Valuations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only the firstling of the beasts, which should be the LORD’S firstling, no man shall sanctify it; whether [it be] ox, or sheep: it [is] the LORD’S.
 <small><sub>**BSB:**</sub></small>
 But no one may consecrate a firstborn of the livestock, because a firstborn belongs to the LORD. Whether it is an ox or a sheep, it is the LORD’s.
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַךְ]][[H9014\|־]] [[H1060\|בְּכ֞וֹר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1069\|יְבֻכַּ֤ר]] [[H9005\|לַֽ]][[H3068G\|יהוָה֙]] [[H9003\|בִּ]][[H0929\|בְהֵמָ֔ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H6942H\|יַקְדִּ֥ישׁ]] [[H0376I\|אִ֖ישׁ]] [[H0853\|אֹת֑]][[H9033\|וֹ]] [[H0518H\|אִם]][[H9014\|־]] [[H7794\|שׁ֣וֹר]] [[H0518H\|אִם]][[H9014\|־]] [[H7716\|שֶׂ֔ה]] [[H9005\|לַֽ]][[H3068G\|יהוָ֖ה]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRSTBORN|FIRSTBORN]] • [[topic PROPERTY|PROPERTY]] • [[topic REDEMPTION|REDEMPTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.25|<< Leviticus 27:25]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.27|Leviticus 27:27 >>]]</td></tr></table>
 

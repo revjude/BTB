@@ -1,6 +1,81 @@
+---
+title: LXX Daniel 6:26
+type: Verse
+lxx: "From my presence I made a decree for the one in every rule  of my kingdom to be trembling and fearing from the face of the God of Daniel. For he is the living God, and the one abiding into the eons, and  his kingdom shall not be destroyed, and  his dominion is unto the end."
+greek: "εκ προσώπου μου ετέθη δόγμα του εν πάση αρχή της βασιλείας μου είναι τρέμοντας και φοβουμένους από προσώπου του θεού Δανιήλ ότι αυτός εστι θεός ζών και μένων εις τους αιώνας και η βασιλεία αυτού ου διαφθαρήσεται και η κυρεία αυτού έως τέλους"
+original_language: Greek
+testament: Old
+book: Daniel
+chapter: 6
+book/chapter: "[[Dan.6|Daniel 6]]"
+chronological_order: 791
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- septuagint
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic COERCION|COERCION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G1537]]"
+- "[[G4383]]"
+- "[[G1473]]"
+- "[[G5087]]"
+- "[[G1378]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G0746]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G5141]]"
+- "[[G2532]]"
+- "[[G5399]]"
+- "[[G0575]]"
+- "[[G4383]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1158]]"
+- "[[G3754]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G2316]]"
+- "[[G2198]]"
+- "[[G2532]]"
+- "[[G3306]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0165]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G1311]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G6974]]"
+- "[[G1473]]"
+- "[[G2193]]"
+- "[[G5056]]"
+---
+
 **LXX Daniel 6:26** 
 <small><sub>**LXX:**</sub></small>
 From my presence I made a decree for the one in every rule  of my kingdom to be trembling and fearing from \[the\] face of the God of Daniel. For he is \[the\] living God, and \[the\] one abiding into the eons, and  his kingdom shall not be destroyed, and  his dominion \[is\] unto \[the\] end. 
+<small><sub>**Greek:**</sub></small>
+[[G1537\|εκ]] [[G4383\|προσώπου]] [[G1473\|μου]] [[G5087\|ετέθη]] [[G1378\|δόγμα]] [[G3588\|του]] [[G1722\|εν]] [[G3956\|πάση]] [[G0746\|αρχή]] [[G3588\|της]] [[G0932\|βασιλείας]] [[G1473\|μου]] [[G1510\|είναι]] [[G5141\|τρέμοντας]] [[G2532\|και]] [[G5399\|φοβουμένους]] [[G0575\|από]] [[G4383\|προσώπου]] [[G3588\|του]] [[G2316\|θεού]] [[G1158\|Δανιήλ]] [[G3754\|ότι]] [[G1473\|αυτός]] [[G1510\|εστι]] [[G2316\|θεός]] [[G2198\|ζών]] [[G2532\|και]] [[G3306\|μένων]] [[G1519\|εις]] [[G3588\|τους]] [[G0165\|αιώνας]] [[G2532\|και]] [[G3588\|η]] [[G0932\|βασιλεία]] [[G1473\|αυτού]] [[G3756\|ου]] [[G1311\|διαφθαρήσεται]] [[G2532\|και]] [[G3588\|η]] [[G6974\|κυρεία]] [[G1473\|αυτού]] [[G2193\|έως]] [[G5056\|τέλους]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COERCION|COERCION]] • [[topic GOD|GOD]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**MT:**</sub></small>
 [[Dan.6.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.25|<< Daniel 6:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.27|Daniel 6:27 >>]]</td></tr></table>
 
@@ -44,6 +119,6 @@ From my presence I made a decree for the one in every rule  of my kingdom to be 
 | his dominion | **<big>[[G6974\|κυρεία]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 | \[is\] unto | **<big>[[G2193\|έως]]</big>** |
 | \[the\] end. | **<big>[[G5056\|τέλους]]</big>** |
-[[Dan.6.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.25|<< Daniel 6:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.27|Daniel 6:27 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.25|<< Daniel 6:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.27|Daniel 6:27 >>]]</td></tr></table>
 
 

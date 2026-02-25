@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Plot to Kill Jesus
+type: Pericope
 pericope: "[[John.11.45 The Plot to Kill Jesus|The Plot to Kill Jesus]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: John
 chapter: 11
 book/chapter: "[[John.11|John 11]]"
-genre:
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 13
 verses:
 - "[[John.11.45]]"
 - "[[John.11.46]]"
@@ -31,7 +38,7 @@ verses:
 - "[[John.11.57]]"
 ---
 
-[[John.11|John 11:45 - John 11:57]]
+<small>[[John.11|John 11:45-57]]</small>
 *The Plot to Kill Jesus*
 
 [[John.11.45|45]] Then many of the Jews which came to Mary, and had seen the things which Jesus did, believed on him.

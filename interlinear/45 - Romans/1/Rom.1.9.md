@@ -1,10 +1,61 @@
+---
+title: Romans 1:9
+type: Verse
+kjv: "For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I make mention of you always in my prayers;"
+bsb: "God, whom I serve with my spirit in preaching the gospel of His Son, is my witness how constantly I remember you"
+greek: "μάρτυς γάρ μού ἐστιν ὁ θεός, ᾧ λατρεύω ἐν τῷ πνεύματί μου ἐν τῷ εὐαγγελίῳ τοῦ υἱοῦ αὐτοῦ, ὡς ἀδιαλείπτως μνείαν ὑμῶν ποιοῦμαι"
+pericope: "[[Rom.1.8 Unashamed of the Gospel|Unashamed of the Gospel]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 1
+book/chapter: "[[Rom.1|Romans 1]]"
+chronological_order: 1087
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MAN|MAN]]"
+- "[[topic PRAYERFULNESS|PRAYERFULNESS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3144]]"
+- "[[G1063]]"
+- "[[G3165]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3739]]"
+- "[[G3000]]"
+- "[[G1722]]"
+- "[[G4151G]]"
+- "[[G2098]]"
+- "[[G5207]]"
+- "[[G0846]]"
+- "[[G5613]]"
+- "[[G0089]]"
+- "[[G3417]]"
+- "[[G4771]]"
+- "[[G4160G]]"
+texts:
+- NKO
+---
+
 **Romans 1:9**<big><big>[[Rom.1.8 Unashamed of the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I make mention of you always in my prayers;
 <small><sub>**BSB:**</sub></small>
 God, whom I serve with my spirit in preaching the gospel of His Son, is my witness how constantly I remember you
-<small><sub>**Literal:**</sub></small>
-Witness for me is <the> God, whom I serve in the spirit of mine in the gospel of the Son of Him, how unceasingly mention of you I make<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.8|<< Romans 1:8]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.10|Romans 1:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3144\|μάρτυς]]  [[G1063\|γάρ]]  [[G3165\|μού]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G2316\|θεός,]]  [[G3739\|ᾧ]]  [[G3000\|λατρεύω]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4151G\|πνεύματί]]  [[G3165\|μου]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2098\|εὐαγγελίῳ]]  [[G3588\|τοῦ]]  [[G5207\|υἱοῦ]]  [[G0846\|αὐτοῦ,]]  [[G5613\|ὡς]]  [[G0089\|ἀδιαλείπτως]]  [[G3417\|μνείαν]]  [[G4771\|ὑμῶν]]  [[G4160G\|ποιοῦμαι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MAN|MAN]] • [[topic PRAYERFULNESS|PRAYERFULNESS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.8|<< Romans 1:8]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.10|Romans 1:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

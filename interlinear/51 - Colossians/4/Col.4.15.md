@@ -1,10 +1,56 @@
+---
+title: Colossians 4:15
+type: Verse
+kjv: "Salute the brethren which are in Laodicea, and Nymphas, and the church which is in his house."
+bsb: "Greet the brothers in Laodicea, as well as Nympha and the church that meets at her house."
+greek: "Ἀσπάσασθε τοὺς ἐν Λαοδικείᾳ ἀδελφοὺς καὶ Νύμφαν καὶ τὴν κατ᾽ οἶκον αὐτῆς ἐκκλησίαν."
+pericope: "[[Col.4.15 Signature and Final Instructions|Signature and Final Instructions]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 4
+book/chapter: "[[Col.4|Colossians 4]]"
+chronological_order: 1124
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic LAODICEA|LAODICEA]]"
+- "[[topic NYMPHAS|NYMPHAS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G0782]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G2993]]"
+- "[[G0080]]"
+- "[[G2532]]"
+- "[[G3564]]"
+- "[[G2596]]"
+- "[[G3624G]]"
+- "[[G0846]]"
+- "[[G1577]]"
+texts:
+- NKO
+- N(K)O
+- N(K)(o)
+---
+
 **Colossians 4:15**<big><big>[[Col.4.15 Signature and Final Instructions|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Salute the brethren which are in Laodicea, and Nymphas, and the church which is in his house.
 <small><sub>**BSB:**</sub></small>
 Greet the brothers in Laodicea, as well as Nympha and the church that meets at her house.
-<small><sub>**Literal:**</sub></small>
-do greet the in Laodicea brothers and also Nympha and the in house of her church.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.14|<< Colossians 4:14]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.16|Colossians 4:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0782\|Ἀσπάσασθε]]  [[G3588\|τοὺς]]  [[G1722\|ἐν]]  [[G2993\|Λαοδικείᾳ]]  [[G0080\|ἀδελφοὺς]]  [[G2532\|καὶ]]  [[G3564\|Νύμφαν]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G2596\|κατ᾽]]  [[G3624G\|οἶκον]]  [[G0846\|αὐτῆς]]  [[G1577\|ἐκκλησίαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOUSE|HOUSE]] • [[topic LAODICEA|LAODICEA]] • [[topic NYMPHAS|NYMPHAS]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.14|<< Colossians 4:14]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.16|Colossians 4:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

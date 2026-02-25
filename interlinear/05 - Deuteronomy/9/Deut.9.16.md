@@ -1,8 +1,72 @@
+---
+title: Deuteronomy 9:16
+type: Verse
+kjv: "And I looked, and, behold, ye had sinned against the LORD your God, and had made you a molten calf: ye had turned aside quickly out of the way which the LORD had commanded you."
+bsb: "And I saw how you had sinned against the LORD your God; you had made for yourselves a molten calf. You had turned aside quickly from the way that the LORD had commanded you."
+hebrew: "וָאֵ֗רֶא וְהִנֵּ֤ה חֲטָאתֶם֙ לַיהוָ֣ה אֱלֹֽהֵיכֶ֔ם עֲשִׂיתֶ֣ם לָכֶ֔ם עֵ֖גֶל מַסֵּכָ֑ה סַרְתֶּ֣ם מַהֵ֔ר מִן־ הַדֶּ֕רֶךְ אֲשֶׁר־ צִוָּ֥ה יְהוָ֖ה אֶתְכֶֽם׃"
+pericope: "[[Deut.9.7 The Golden Calf|The Golden Calf]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 9
+book/chapter: "[[Deut.9|Deuteronomy 9]]"
+chronological_order: 205
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CALF|CALF]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H2398]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H6213H]]"
+- "[[H9036]]"
+- "[[H5695]]"
+- "[[H4541A]]"
+- "[[H5493I]]"
+- "[[H4118B]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1870G]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 9:16**<big><big>[[Deut.9.7 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I looked, and, behold, ye had sinned against the LORD your God, [and] had made you a molten calf: ye had turned aside quickly out of the way which the LORD had commanded you.
 <small><sub>**BSB:**</sub></small>
 And I saw how you had sinned against the LORD your God; you had made for yourselves a molten calf. You had turned aside quickly from the way that the LORD had commanded you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H7200G\|אֵ֗רֶא]] [[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H2398\|חֲטָאתֶם֙]] [[H9005\|לַ]][[H3068G\|יהוָ֣ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶ֔ם]] [[H6213H\|עֲשִׂיתֶ֣ם]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H5695\|עֵ֖גֶל]] [[H4541A\|מַסֵּכָ֑ה]] [[H5493I\|סַרְתֶּ֣ם]] [[H4118B\|מַהֵ֔ר]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1870G\|דֶּ֕רֶךְ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶתְ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALF|CALF]] • [[topic HUMILITY|HUMILITY]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.15|<< Deuteronomy 9:15]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.17|Deuteronomy 9:17 >>]]</td></tr></table>
 

@@ -1,8 +1,76 @@
+---
+title: 1 Kings 7:25
+type: Verse
+kjv: "It stood upon twelve oxen, three looking toward the north, and three looking toward the west, and three looking toward the south, and three looking toward the east: and the sea was set above upon them, and all their hinder parts were inward."
+bsb: "The Sea stood on twelve oxen, three facing north, three facing west, three facing south, and three facing east. The Sea rested on them, with all their hindquarters toward the center."
+hebrew: "עֹמֵ֞ד עַל־ שְׁנֵ֧י עָשָׂ֣ר בָּקָ֗ר שְׁלֹשָׁ֣ה פֹנִ֣ים׀ צָפ֡וֹנָה וּשְׁלֹשָׁה֩ פֹנִ֨ים׀ יָ֜מָּה וּשְׁלֹשָׁ֣ה׀ פֹּנִ֣ים נֶ֗גְבָּה וּשְׁלֹשָׁה֙ פֹּנִ֣ים מִזְרָ֔חָה וְהַיָּ֥ם עֲלֵיהֶ֖ם מִלְמָ֑עְלָה וְכָל־ אֲחֹֽרֵיהֶ֖ם בָּֽיְתָה׃"
+pericope: "[[1Kgs.7.23 The Molten Sea|The Molten Sea]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ART|ART]]"
+- "[[topic BRASS|BRASS]]"
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic CARVING|CARVING]]"
+- "[[topic CHAPITER|CHAPITER]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H5975G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H1241]]"
+- "[[H7969]]"
+- "[[H6437G]]"
+- "[[H9015]]"
+- "[[H6828G]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H3220H]]"
+- "[[H5045H]]"
+- "[[H4217H]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H4605]]"
+- "[[H3605]]"
+- "[[H0268]]"
+- "[[H9028]]"
+- "[[H1004O]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 7:25**<big><big>[[1Kgs.7.23 The Molten Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It stood upon twelve oxen, three looking toward the north, and three looking toward the west, and three looking toward the south, and three looking toward the east: and the sea [was set] above upon them, and all their hinder parts [were] inward.
 <small><sub>**BSB:**</sub></small>
 The Sea stood on twelve oxen, three facing north, three facing west, three facing south, and three facing east. The Sea rested on them, with all their hindquarters toward the center.
+<small><sub>**Hebrew:**</sub></small>
+[[H5975G\|עֹמֵ֞ד]] [[H5921A\|עַל]][[H9014\|־]] [[H8147\|שְׁנֵ֧י]] [[H6240\|עָשָׂ֣ר]] [[H1241\|בָּקָ֗ר]] [[H7969\|שְׁלֹשָׁ֣ה]] [[H6437G\|פֹנִ֣ים]][[H9015\|׀]] [[H6828G\|צָפ֡וֹנָ]][[H9011\|ה]] [[H9002\|וּ]][[H7969\|שְׁלֹשָׁה֩]] [[H6437G\|פֹנִ֨ים]][[H9015\|׀]] [[H3220H\|יָ֜מָּ]][[H9011\|ה]] [[H9002\|וּ]][[H7969\|שְׁלֹשָׁ֣ה]][[H9015\|׀]] [[H6437G\|פֹּנִ֣ים]] [[H5045H\|נֶ֗גְבָּ]][[H9011\|ה]] [[H9002\|וּ]][[H7969\|שְׁלֹשָׁה֙]] [[H6437G\|פֹּנִ֣ים]] [[H4217H\|מִזְרָ֔חָ]][[H9011\|ה]] [[H9002\|וְ]][[H9009\|הַ]][[H3220G\|יָּ֥ם]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֖ם]] [[H9006\|מִ]][[H9005\|לְ]][[H4605\|מָ֑עְלָ]][[H9011\|ה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0268\|אֲחֹֽרֵי]][[H9028\|הֶ֖ם]] [[H1004O\|בָּֽיְתָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic BRASS|BRASS]] • [[topic BULLOCK|BULLOCK]] • [[topic CARVING|CARVING]] • [[topic CHAPITER|CHAPITER]] • [[topic HIRAM|HIRAM]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.24|<< 1 Kings 7:24]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.26|1 Kings 7:26 >>]]</td></tr></table>
 

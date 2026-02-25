@@ -1,8 +1,66 @@
+---
+title: Leviticus 1:15
+type: Verse
+kjv: "And the priest shall bring it unto the altar, and wring off his head, and burn it on the altar; and the blood thereof shall be wrung out at the side of the altar:"
+bsb: "Then the priest shall bring it to the altar, twist off its head, and burn it on the altar; its blood should be drained out on the side of the altar."
+hebrew: "וְהִקְרִיב֤וֹ הַכֹּהֵן֙ אֶל־ הַמִּזְבֵּ֔חַ וּמָלַק֙ אֶת־ רֹאשׁ֔וֹ וְהִקְטִ֖יר הַמִּזְבֵּ֑חָה וְנִמְצָ֣ה דָמ֔וֹ עַ֖ל קִ֥יר הַמִּזְבֵּֽחַ׃"
+pericope: "[[Lev.1.1 Laws for Burnt Offerings|Laws for Burnt Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 1
+book/chapter: "[[Lev.1|Leviticus 1]]"
+chronological_order: 133
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic DOVE, TURTLE|DOVE, TURTLE]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4196]]"
+- "[[H4454]]"
+- "[[H0853]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H6999A]]"
+- "[[H9011]]"
+- "[[H4680]]"
+- "[[H1818]]"
+- "[[H5921A]]"
+- "[[H7023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 1:15**<big><big>[[Lev.1.1 Laws for Burnt Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall bring it unto the altar, and wring off his head, and burn [it] on the altar; and the blood thereof shall be wrung out at the side of the altar:
 <small><sub>**BSB:**</sub></small>
 Then the priest shall bring it to the altar, twist off its head, and burn it on the altar; its blood should be drained out on the side of the altar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7126H\|הִקְרִיב֤]][[H9033\|וֹ]] [[H9009\|הַ]][[H3548\|כֹּהֵן֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֔חַ]] [[H9001\|וּ]][[H4454\|מָלַק֙]] [[H0853\|אֶת]][[H9014\|־]] [[H7218A\|רֹאשׁ֔]][[H9023\|וֹ]] [[H9001\|וְ]][[H6999A\|הִקְטִ֖יר]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֑חָ]][[H9011\|ה]] [[H9001\|וְ]][[H4680\|נִמְצָ֣ה]] [[H1818\|דָמ֔]][[H9023\|וֹ]] [[H5921A\|עַ֖ל]] [[H7023\|קִ֥יר]] [[H9009\|הַ]][[H4196\|מִּזְבֵּֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic DOVE, TURTLE|DOVE, TURTLE]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.1.14|<< Leviticus 1:14]]</td><td align="center" style="border:none;">[[Lev.1|Leviticus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.1.16|Leviticus 1:16 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: Genesis 31:53
+type: Verse
+kjv: "The God of Abraham, and the God of Nahor, the God of their father, judge betwixt us. And Jacob sware by the fear of his father Isaac."
+bsb: "May the God of Abraham and the God of Nahor, the God of their father, judge between us.” So Jacob swore by the Fear of his father Isaac."
+hebrew: "אֱלֹהֵ֨י אַבְרָהָ֜ם וֵֽאלֹהֵ֤י נָחוֹר֙ יִשְׁפְּט֣וּ בֵינֵ֔ינוּ אֱלֹהֵ֖י אֲבִיהֶ֑ם וַיִּשָּׁבַ֣ע יַעֲקֹ֔ב בְּפַ֖חַד אָבִ֥יו יִצְחָֽק׃"
+pericope: "[[Gen.31.43 Jacob’s Covenant with Laban|Jacob’s Covenant with Laban]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic OATH|OATH]]"
+strongs:
+- "[[H0430G]]"
+- "[[H0085]]"
+- "[[H9002]]"
+- "[[H5152H]]"
+- "[[H8199]]"
+- "[[H0996G]]"
+- "[[H9035]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H9001]]"
+- "[[H7650]]"
+- "[[H3290]]"
+- "[[H9003]]"
+- "[[H6343]]"
+- "[[H9023]]"
+- "[[H3327]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 31:53**<big><big>[[Gen.31.43 Jacob’s Covenant with Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The God of Abraham, and the God of Nahor, the God of their father, judge betwixt us. And Jacob sware by the fear of his father Isaac.
 <small><sub>**BSB:**</sub></small>
 May the God of Abraham and the God of Nahor, the God of their father, judge between us.” So Jacob swore by the Fear of his father Isaac.
+<small><sub>**Hebrew:**</sub></small>
+[[H0430G\|אֱלֹהֵ֨י]] [[H0085\|אַבְרָהָ֜ם]] [[H9002\|וֵֽ]][[H0430G\|אלֹהֵ֤י]] [[H5152H\|נָחוֹר֙]] [[H8199\|יִשְׁפְּט֣וּ]] [[H0996G\|בֵינֵ֔י]][[H9035\|נוּ]] [[H0430G\|אֱלֹהֵ֖י]] [[H0001G\|אֲבִי]][[H9028\|הֶ֑ם]] [[H9001\|וַ]][[H7650\|יִּשָּׁבַ֣ע]] [[H3290\|יַעֲקֹ֔ב]] [[H9003\|בְּ]][[H6343\|פַ֖חַד]] [[H0001G\|אָבִ֥י]][[H9023\|ו]] [[H3327\|יִצְחָֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic COVENANT|COVENANT]] • [[topic LABAN|LABAN]] • [[topic OATH|OATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.53|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.52|<< Genesis 31:52]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.54|Genesis 31:54 >>]]</td></tr></table>
 

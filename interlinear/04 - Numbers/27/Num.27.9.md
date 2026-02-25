@@ -1,8 +1,67 @@
+---
+title: Numbers 27:9
+type: Verse
+kjv: "And if he have no daughter, then ye shall give his inheritance unto his brethren."
+bsb: "If he has no daughter, give his inheritance to his brothers."
+hebrew: "וְאִם־ אֵ֥ין ל֖וֹ בַּ֑ת וּנְתַתֶּ֥ם אֶת־ נַחֲלָת֖וֹ לְאֶחָיו׃"
+pericope: "[[Num.27.1 The Daughters of Zelophehad|The Daughters of Zelophehad]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 27
+book/chapter: "[[Num.27|Numbers 27]]"
+chronological_order: 187
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic DAUGHTER|DAUGHTER]]"
+- "[[topic HEIR|HEIR]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic LAND|LAND]]"
+- "[[topic LEGISLATION|LEGISLATION]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic TIRZAH|TIRZAH]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZELOPHEHAD|ZELOPHEHAD]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H0369]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H1323G]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H5159]]"
+- "[[H9023]]"
+- "[[H0251G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 27:9**<big><big>[[Num.27.1 The Daughters of Zelophehad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if he have no daughter, then ye shall give his inheritance unto his brethren.
 <small><sub>**BSB:**</sub></small>
 If he has no daughter, give his inheritance to his brothers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H0369\|אֵ֥ין]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H1323G\|בַּ֑ת]] [[H9001\|וּ]][[H5414G\|נְתַתֶּ֥ם]] [[H0853\|אֶת]][[H9014\|־]] [[H5159\|נַחֲלָת֖]][[H9023\|וֹ]] [[H9005\|לְ]][[H0251G\|אֶחָי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAUGHTER|DAUGHTER]] • [[topic HEIR|HEIR]] • [[topic INHERITANCE|INHERITANCE]] • [[topic ISRAEL|ISRAEL]] • [[topic LAND|LAND]] • [[topic LEGISLATION|LEGISLATION]] • [[topic PROPERTY|PROPERTY]] • [[topic TIRZAH|TIRZAH]] • [[topic WOMEN|WOMEN]] • [[topic ZELOPHEHAD|ZELOPHEHAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.27.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.27.8|<< Numbers 27:8]]</td><td align="center" style="border:none;">[[Num.27|Numbers 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.27.10|Numbers 27:10 >>]]</td></tr></table>
 

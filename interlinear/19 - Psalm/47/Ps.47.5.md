@@ -1,8 +1,51 @@
+---
+title: Psalm 47:5
+type: Verse
+kjv: "God is gone up with a shout, the LORD with the sound of a trumpet."
+bsb: "God has ascended amid shouts of joy, the LORD with the sound of the horn."
+hebrew: "עָלָ֣ה אֱ֭לֹהִים בִּתְרוּעָ֑ה יְ֝הֹוָ֗ה בְּק֣וֹל שׁוֹפָֽר׃"
+pericope: "[[Ps.47.1 Clap Your Hands, All You Peoples|Clap Your Hands, All You Peoples]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 47
+book/chapter: "[[Ps.47|Psalm 47]]"
+chronological_order: 502
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H5927G]]"
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H8643]]"
+- "[[H3068G]]"
+- "[[H6963H]]"
+- "[[H7782]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 47:5**<big><big>[[Ps.47.1 Clap Your Hands, All You Peoples|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God is gone up with a shout, the LORD with the sound of a trumpet.
 <small><sub>**BSB:**</sub></small>
 God has ascended amid shouts of joy, the LORD with the sound of the horn.
+<small><sub>**Hebrew:**</sub></small>
+[[H5927G\|עָלָ֣ה]] [[H0430G\|אֱ֭לֹהִים]] [[H9003\|בִּ]][[H8643\|תְרוּעָ֑ה]] [[H3068G\|יְ֝הֹוָ֗ה]] [[H9003\|בְּ]][[H6963H\|ק֣וֹל]] [[H7782\|שׁוֹפָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.47.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.47.4|<< Psalms 47:4]]</td><td align="center" style="border:none;">[[Ps.47|Psalms 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.47.6|Psalms 47:6 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Caleb’s Portion and Conquest
+type: Pericope
 pericope: "[[Josh.15.13 Caleb’s Portion and Conquest|Caleb’s Portion and Conquest]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 15
 book/chapter: "[[Josh.15|Joshua 15]]"
-genre:
+chronological_order: 245
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 7
 verses:
 - "[[Josh.15.13]]"
 - "[[Josh.15.14]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Josh.15.19]]"
 ---
 
-[[Josh.15|Joshua 15:13 - Joshua 15:19]]
+<small>[[Josh.15|Joshua 15:13-19]]</small>
 *Caleb’s Portion and Conquest*
 
 [[Josh.15.13|13]] And unto Caleb the son of Jephunneh he gave a part among the children of Judah, according to the commandment of the LORD to Joshua, \[even\] the city of Arba the father of Anak, which \[city is\] Hebron.

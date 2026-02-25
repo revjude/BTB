@@ -1,10 +1,68 @@
+---
+title: John 8:12
+type: Verse
+kjv: "Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life."
+bsb: "Once again, Jesus spoke to the people and said, “I am the light of the world. Whoever follows Me will never walk in the darkness, but will have the light of life.”"
+jesus_said: "I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life."
+greek: "Πάλιν οὖν αὐτοῖς ἐλάλησεν ὁ Ἰησοῦς λέγων· ἐγώ εἰμι τὸ φῶς τοῦ κόσμου. ὁ ἀκολουθῶν ἐμοὶ οὐ μὴ περιπατήσῃ ἐν τῇ σκοτίᾳ ἀλλ᾽ ἕξει τὸ φῶς τῆς ζωῆς.¶"
+pericope: "[[John.8.12 Jesus the Light of the World|Jesus the Light of the World]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIGHT|LIGHT]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3825]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G2980]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3004G]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G5457]]"
+- "[[G2889]]"
+- "[[G0190]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G4043]]"
+- "[[G1722]]"
+- "[[G4653]]"
+- "[[G0235]]"
+- "[[G2192]]"
+- "[[G2222]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 8:12**<big><big>[[John.8.12 Jesus the Light of the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.
 <small><sub>**BSB:**</sub></small>
 Once again, Jesus spoke to the people and said, “I am the light of the world. Whoever follows Me will never walk in the darkness, but will have the light of life.”
-<small><sub>**Literal:**</sub></small>
-Again therefore to them spoke <the> Jesus saying; I myself am the light of the world. the [one] following Me myself certainly not may walk in the darkness but will have the light <the> of life.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.11|<< John 8:11]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.13|John 8:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3825\|Πάλιν]]  [[G3767\|οὖν]]  [[G0846\|αὐτοῖς]]  [[G2980\|ἐλάλησεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3004G\|λέγων·]]  [[G1473\|ἐγώ]]  [[G1510\|εἰμι]]  [[G3588\|τὸ]]  [[G5457\|φῶς]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου.]]  [[G3588\|ὁ]]  [[G0190\|ἀκολουθῶν]]  [[G1473\|ἐμοὶ]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G4043\|περιπατήσῃ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4653\|σκοτίᾳ]]  [[G0235\|ἀλλ᾽]]  [[G2192\|ἕξει]]  [[G3588\|τὸ]]  [[G5457\|φῶς]]  [[G3588\|τῆς]]  [[G2222\|ζωῆς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic DARKNESS|DARKNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIGHT|LIGHT]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.11|<< John 8:11]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.13|John 8:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

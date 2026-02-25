@@ -1,8 +1,56 @@
+---
+title: Job 27:15
+type: Verse
+kjv: "Those that remain of him shall be buried in death: and his widows shall not weep."
+bsb: "His survivors will be buried by the plague, and their widows will not weep for them."
+hebrew: "שְׂ֭רִידָיו בַּמָּ֣וֶת יִקָּבֵ֑רוּ וְ֝אַלְמְנֹתָ֗יו לֹ֣א תִבְכֶּֽינָה׃"
+pericope: "[[Job.27.7 The Wicked Man’s Portion|The Wicked Man’s Portion]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 27
+book/chapter: "[[Job.27|Job 27]]"
+chronological_order: 38
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H8300]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H4194]]"
+- "[[H6912]]"
+- "[[H9002]]"
+- "[[H0490]]"
+- "[[H3808]]"
+- "[[H1058]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Job 27:15**<big><big>[[Job.27.7 The Wicked Man’s Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Those that remain of him shall be buried in death: and his widows shall not weep.
 <small><sub>**BSB:**</sub></small>
 His survivors will be buried by the plague, and their widows will not weep for them.
+<small><sub>**Hebrew:**</sub></small>
+[[H8300\|שְׂ֭רִידָי]][[H9023\|ו]] [[H9003\|בַּ]][[H4194\|מָּ֣וֶת]] [[H6912\|יִקָּבֵ֑רוּ]] [[H9002\|וְ֝]][[H0490\|אַלְמְנֹתָ֗י]][[H9023\|ו]] [[H3808\|לֹ֣א]] [[H1058\|תִבְכֶּֽינָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic OPPRESSION|OPPRESSION]] • [[topic POLYGAMY|POLYGAMY]] • [[topic RICH, THE|RICH, THE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.14|<< Job 27:14]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.16|Job 27:16 >>]]</td></tr></table>
 
@@ -16,7 +64,7 @@ His survivors will be buried by the plague, and their widows will not weep for t
 | they will weep  |**<big>&#8207;[[H1058\|תִבְכֶּֽינָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tiv.Kei.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.14|<< Job 27:14]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.16|Job 27:16 >>]]</td></tr></table>
 
-[^1]: survivor his  | **<big>[[H9023|וֹ]]</big><big>[[H8300|שְׂרִיד]]</big> ** | se.ri.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: survivor his  | **<big>[[H9023|וֹ]]</big><big>[[H8300|שְׂרִיד]]</big> ** | se.ri.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: survivor his  | **<big>[[H8300|שְׂרִיד]]</big><big>[[H9023|וֹ]]</big> ** | se.ri.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: survivor his  | **<big>[[H8300|שְׂרִיד]]</big><big>[[H9023|וֹ]]</big> ** | se.ri.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>שְׂ֭רִידָו</big></span>**
 

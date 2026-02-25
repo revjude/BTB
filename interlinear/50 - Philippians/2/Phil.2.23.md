@@ -1,10 +1,55 @@
+---
+title: Philippians 2:23
+type: Verse
+kjv: "Him therefore I hope to send presently, so soon as I shall see how it will go with me."
+bsb: "So I hope to send him as soon as I see what happens with me."
+greek: "τοῦτον μὲν οὖν ἐλπίζω πέμψαι ὡς ἂν ἀφίδω τὰ περὶ ἐμὲ ἐξαυτῆς·"
+pericope: "[[Phil.2.19 Timothy and Epaphroditus|Timothy and Epaphroditus]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 2
+book/chapter: "[[Phil.2|Philippians 2]]"
+chronological_order: 1118
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic TIMOTHY|TIMOTHY]]"
+strongs:
+- "[[G3778]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G1679]]"
+- "[[G3992]]"
+- "[[G5613]]"
+- "[[G0302]]"
+- "[[G0872]]"
+- "[[G3588]]"
+- "[[G4012]]"
+- "[[G1473]]"
+- "[[G1824]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Philippians 2:23**<big><big>[[Phil.2.19 Timothy and Epaphroditus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Him therefore I hope to send presently, so soon as I shall see how it will go with me.
 <small><sub>**BSB:**</sub></small>
 So I hope to send him as soon as I see what happens with me.
-<small><sub>**Literal:**</sub></small>
-Him indeed therefore I hope to send when maybe I may have seen the [things] concerning me myself immediately;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.22|<< Philippians 2:22]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.24|Philippians 2:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτον]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G1679\|ἐλπίζω]]  [[G3992\|πέμψαι]]  [[G5613\|ὡς]]  [[G0302\|ἂν]]  [[G0872\|ἀφίδω]]  [[G3588\|τὰ]]  [[G4012\|περὶ]]  [[G1473\|ἐμὲ]]  [[G1824\|ἐξαυτῆς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic DEATH|DEATH]] • [[topic TIMOTHY|TIMOTHY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.22|<< Philippians 2:22]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.24|Philippians 2:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

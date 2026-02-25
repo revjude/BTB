@@ -1,8 +1,68 @@
+---
+title: 1 Samuel 1:20
+type: Verse
+kjv: "Wherefore it came to pass, when the time was come about after Hannah had conceived, that she bare a son, and called his name Samuel, saying, Because I have asked him of the LORD."
+bsb: "So in the course of time, Hannah conceived and gave birth to a son. She named him Samuel, saying, “Because I have asked for him from the LORD.”"
+hebrew: "וַיְהִי֙ לִתְקֻפ֣וֹת הַיָּמִ֔ים וַתַּ֥הַר חַנָּ֖ה וַתֵּ֣לֶד בֵּ֑ן וַתִּקְרָ֤א אֶת־ שְׁמוֹ֙ שְׁמוּאֵ֔ל כִּ֥י מֵיְהוָ֖ה שְׁאִלְתִּֽיו׃"
+pericope: "[[1Sam.1.19 The Birth of Samuel|The Birth of Samuel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 1
+book/chapter: "[[1Sam.1|1 Samuel 1]]"
+chronological_order: 280
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONCEPTION|CONCEPTION]]"
+- "[[topic HANNAH|HANNAH]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RAMAH|RAMAH]]"
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H8622]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H2029]]"
+- "[[H2584]]"
+- "[[H3205]]"
+- "[[H1121A]]"
+- "[[H7121H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H8050G]]"
+- "[[H3588A]]"
+- "[[H9006]]"
+- "[[H3068G]]"
+- "[[H7592]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 1:20**<big><big>[[1Sam.1.19 The Birth of Samuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore it came to pass, when the time was come about after Hannah had conceived, that she bare a son, and called his name Samuel, [saying], Because I have asked him of the LORD.
 <small><sub>**BSB:**</sub></small>
 So in the course of time, Hannah conceived and gave birth to a son. She named him Samuel, saying, “Because I have asked for him from the LORD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֙]] [[H9005\|לִ]][[H8622\|תְקֻפ֣וֹת]] [[H9009\|הַ]][[H3117G\|יָּמִ֔ים]] [[H9001\|וַ]][[H2029\|תַּ֥הַר]] [[H2584\|חַנָּ֖ה]] [[H9001\|וַ]][[H3205\|תֵּ֣לֶד]] [[H1121A\|בֵּ֑ן]] [[H9001\|וַ]][[H7121H\|תִּקְרָ֤א]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמ]][[H9023\|וֹ֙]] [[H8050G\|שְׁמוּאֵ֔ל]] [[H3588A\|כִּ֥י]] [[H9006\|מֵ]][[H3068G\|יְהוָ֖ה]] [[H7592\|שְׁאִלְתִּֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARRENNESS|BARRENNESS]] • [[topic CHILDREN|CHILDREN]] • [[topic CONCEPTION|CONCEPTION]] • [[topic HANNAH|HANNAH]] • [[topic PRAYER|PRAYER]] • [[topic RAMAH|RAMAH]] • [[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.19|<< 1 Samuel 1:19]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.21|1 Samuel 1:21 >>]]</td></tr></table>
 

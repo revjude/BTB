@@ -1,8 +1,65 @@
+---
+title: Judges 4:16
+type: Verse
+kjv: "But Barak pursued after the chariots, and after the host, unto Harosheth of the Gentiles: and all the host of Sisera fell upon the edge of the sword; and there was not a man left."
+bsb: "Then Barak pursued the chariots and army as far as Harosheth-hagoyim, and the whole army of Sisera fell by the sword; not a single man was left."
+hebrew: "וּבָרָ֗ק רָדַ֞ף אַחֲרֵ֤י הָרֶ֙כֶב֙ וְאַחֲרֵ֣י הַֽמַּחֲנֶ֔ה עַ֖ד חֲרֹ֣שֶׁת הַגּוֹיִ֑ם וַיִּפֹּ֞ל כָּל־ מַחֲנֵ֤ה סִֽיסְרָא֙ לְפִי־ חֶ֔רֶב לֹ֥א נִשְׁאַ֖ר עַד־ אֶחָֽד׃"
+pericope: "[[Judg.4.1 Deborah and Barak|Deborah and Barak]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 4
+book/chapter: "[[Judg.4|Judges 4]]"
+chronological_order: 258
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic DEBORAH|DEBORAH]]"
+- "[[topic HAROSHETH|HAROSHETH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+strongs:
+- "[[H9002]]"
+- "[[H1301]]"
+- "[[H7291]]"
+- "[[H0310A]]"
+- "[[H9009]]"
+- "[[H7393G]]"
+- "[[H4264]]"
+- "[[H5704]]"
+- "[[H2800]]"
+- "[[H1471H]]"
+- "[[H9001]]"
+- "[[H5307J]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5516G]]"
+- "[[H9005]]"
+- "[[H6310H]]"
+- "[[H2719]]"
+- "[[H3808]]"
+- "[[H7604]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 4:16**<big><big>[[Judg.4.1 Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Barak pursued after the chariots, and after the host, unto Harosheth of the Gentiles: and all the host of Sisera fell upon the edge of the sword; [and] there was not a man left.
 <small><sub>**BSB:**</sub></small>
 Then Barak pursued the chariots and army as far as Harosheth-hagoyim, and the whole army of Sisera fell by the sword; not a single man was left.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1301\|בָרָ֗ק]] [[H7291\|רָדַ֞ף]] [[H0310A\|אַחֲרֵ֤י]] [[H9009\|הָ]][[H7393G\|רֶ֙כֶב֙]] [[H9002\|וְ]][[H0310A\|אַחֲרֵ֣י]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶ֔ה]] [[H5704\|עַ֖ד]] [[H2800\|חֲרֹ֣שֶׁת]] [[H1471H\|הַגּוֹיִ֑ם]] [[H9001\|וַ]][[H5307J\|יִּפֹּ֞ל]] [[H3605\|כָּל]][[H9014\|־]] [[H4264\|מַחֲנֵ֤ה]] [[H5516G\|סִֽיסְרָא֙]] [[H9005\|לְ]][[H6310H\|פִי]][[H9014\|־]] [[H2719\|חֶ֔רֶב]] [[H3808\|לֹ֥א]] [[H7604\|נִשְׁאַ֖ר]] [[H5704\|עַד]][[H9014\|־]] [[H0259\|אֶחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic DEBORAH|DEBORAH]] • [[topic HAROSHETH|HAROSHETH]] • [[topic HYPOCRISY|HYPOCRISY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.15|<< Judges 4:15]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.17|Judges 4:17 >>]]</td></tr></table>
 

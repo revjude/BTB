@@ -1,8 +1,72 @@
+---
+title: 2 Samuel 5:8
+type: Verse
+kjv: "And David said on that day, Whosoever getteth up to the gutter, and smiteth the Jebusites, and the lame and the blind, that are hated of David’s soul, he shall be chief and captain. Wherefore they said, The blind and the lame shall not come into the house."
+bsb: "On that day he said, “Whoever attacks the Jebusites must use the water shaft to reach the lame and blind who are despised by David.” That is why it is said, “The blind and the lame will never enter the palace.”"
+hebrew: "וַיֹּ֨אמֶר דָּוִ֜ד בַּיּ֣וֹם הַה֗וּא כָּל־ מַכֵּ֤ה יְבֻסִי֙ וְיִגַּ֣ע בַּצִּנּ֔וֹר וְאֶת־ הַפִּסְחִים֙ וְאֶת־ הַ֣עִוְרִ֔ים שְׂנֻאֵ֖י נֶ֣פֶשׁ דָּוִ֑ד עַל־ כֵּן֙ יֹֽאמְר֔וּ עִוֵּ֣ר וּפִסֵּ֔חַ לֹ֥א יָב֖וֹא אֶל־ הַבָּֽיִת׃"
+pericope: "[[2Sam.5.6 David Conquers Jerusalem|David Conquers Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 5
+book/chapter: "[[2Sam.5|2 Samuel 5]]"
+chronological_order: 333
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic BLIND|BLIND]]"
+- "[[topic JEBUSITES|JEBUSITES]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic LAMENESS|LAMENESS]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5221]]"
+- "[[H2983G]]"
+- "[[H9002]]"
+- "[[H5060]]"
+- "[[H6794]]"
+- "[[H0853]]"
+- "[[H6455]]"
+- "[[H5787]]"
+- "[[H8130]]"
+- "[[H5315G]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H3808]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H1004B]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Samuel 5:8**<big><big>[[2Sam.5.6 David Conquers Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said on that day, Whosoever getteth up to the gutter, and smiteth the Jebusites, and the lame and the blind, [that are] hated of David’s soul, [he shall be chief and captain]. Wherefore they said, The blind and the lame shall not come into the house.
 <small><sub>**BSB:**</sub></small>
 On that day he said, “Whoever attacks the Jebusites must use the water shaft to reach the lame and blind who are despised by David.” That is why it is said, “The blind and the lame will never enter the palace.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H1732\|דָּוִ֜ד]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֗וּא]] [[H3605\|כָּל]][[H9014\|־]] [[H5221\|מַכֵּ֤ה]] [[H2983G\|יְבֻסִי֙]] [[H9002\|וְ]][[H5060\|יִגַּ֣ע]] [[H9003\|בַּ]][[H6794\|צִּנּ֔וֹר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6455\|פִּסְחִים֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ֣]][[H5787\|עִוְרִ֔ים]] [[H8130\|שְׂנֻאֵ֖י]] [[H5315G\|נֶ֣פֶשׁ]] [[H1732\|דָּוִ֑ד]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּן֙]] [[H0559\|יֹֽאמְר֔וּ]] [[H5787\|עִוֵּ֣ר]] [[H9002\|וּ]][[H6455\|פִסֵּ֔חַ]] [[H3808\|לֹ֥א]] [[H0935G\|יָב֖וֹא]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בָּֽיִת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLIND|BLIND]] • [[topic JEBUSITES|JEBUSITES]] • [[topic JERUSALEM|JERUSALEM]] • [[topic LAMENESS|LAMENESS]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.5.7|<< 2 Samuel 5:7]]</td><td align="center" style="border:none;">[[2Sam.5|2 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.5.9|2 Samuel 5:9 >>]]</td></tr></table>
 

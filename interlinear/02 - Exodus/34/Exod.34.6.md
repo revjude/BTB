@@ -1,8 +1,67 @@
+---
+title: Exodus 34:6
+type: Verse
+kjv: "And the LORD passed by before him, and proclaimed, The LORD, The LORD God, merciful and gracious, longsuffering, and abundant in goodness and truth,"
+bsb: "Then the LORD passed in front of Moses and called out: “The LORD, the LORD God, is compassionate and gracious, slow to anger, abounding in loving devotion and faithfulness,"
+hebrew: "וַיַּעֲבֹ֨ר יְהוָ֥ה׀ עַל־ פָּנָיו֮ וַיִּקְרָא֒ יְהוָ֣ה׀ יְהוָ֔ה אֵ֥ל רַח֖וּם וְחַנּ֑וּן אֶ֥רֶךְ אַפַּ֖יִם וְרַב־ חֶ֥סֶד וֶאֱמֶֽת׀"
+pericope: "[[Exod.34.1 New Stone Tablets|New Stone Tablets]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 34
+book/chapter: "[[Exod.34|Exodus 34]]"
+chronological_order: 126
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GLORY|GLORY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H7121I]]"
+- "[[H0410G]]"
+- "[[H7349]]"
+- "[[H9002]]"
+- "[[H2587]]"
+- "[[H0750]]"
+- "[[H0639G]]"
+- "[[H7227A]]"
+- "[[H2617A]]"
+- "[[H0571G]]"
+texts:
+- L
+- L(abh)
+---
+
 **Exodus 34:6**<big><big>[[Exod.34.1 New Stone Tablets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD passed by before him, and proclaimed, The LORD, The LORD God, merciful and gracious, longsuffering, and abundant in goodness and truth,
 <small><sub>**BSB:**</sub></small>
 Then the LORD passed in front of Moses and called out: “The LORD, the LORD God, is compassionate and gracious, slow to anger, abounding in loving devotion and faithfulness,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5674A\|יַּעֲבֹ֨ר]] [[H3068G\|יְהוָ֥ה]][[H9015\|׀]] [[H5921A\|עַל]][[H9014\|־]] [[H6440G\|פָּנָי]][[H9023\|ו֮]] [[H9001\|וַ]][[H7121I\|יִּקְרָא֒]] [[H3068G\|יְהוָ֣ה]][[H9015\|׀]] [[H3068G\|יְהוָ֔ה]] [[H0410G\|אֵ֥ל]] [[H7349\|רַח֖וּם]] [[H9002\|וְ]][[H2587\|חַנּ֑וּן]] [[H0750\|אֶ֥רֶךְ]] [[H0639G\|אַפַּ֖יִם]] [[H9002\|וְ]][[H7227A\|רַב]][[H9014\|־]] [[H2617A\|חֶ֥סֶד]] [[H9002\|וֶ]][[H0571G\|אֱמֶֽת]][[H9015\|׀]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GLORY|GLORY]] • [[topic GOD|GOD]] • [[topic SIN|SIN]] • [[topic TRUTH|TRUTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.5|<< Exodus 34:5]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.7|Exodus 34:7 >>]]</td></tr></table>
 

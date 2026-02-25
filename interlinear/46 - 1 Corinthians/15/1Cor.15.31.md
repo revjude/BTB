@@ -1,10 +1,59 @@
+---
+title: 1 Corinthians 15:31
+type: Verse
+kjv: "I protest by your rejoicing which I have in Christ Jesus our Lord, I die daily."
+bsb: "I face death every day, brothers, as surely as I boast about you in Christ Jesus our Lord."
+greek: "καθ᾽ ἡμέραν ἀποθνῄσκω, νὴ τὴν ὑμετέραν καύχησιν, ἀδελφοί, ἣν ἔχω ἐν Χριστῷ Ἰησοῦ τῷ κυρίῳ ἡμῶν."
+pericope: "[[1Cor.15.20 The Order of Resurrection|The Order of Resurrection]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 15
+book/chapter: "[[1Cor.15|1 Corinthians 15]]"
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BODY|BODY]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2596]]"
+- "[[G2250]]"
+- "[[G0599]]"
+- "[[G3513]]"
+- "[[G3588]]"
+- "[[G4771]]"
+- "[[G2746]]"
+- "[[G0080]]"
+- "[[G3739]]"
+- "[[G2192]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+texts:
+- NKO
+- NK(O)
+- NO
+---
+
 **1 Corinthians 15:31**<big><big>[[1Cor.15.20 The Order of Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I protest by your rejoicing which I have in Christ Jesus our Lord, I die daily.
 <small><sub>**BSB:**</sub></small>
 I face death every day, brothers, as surely as I boast about you in Christ Jesus our Lord.
-<small><sub>**Literal:**</sub></small>
-Every day I die, as surely as <the> in you boasting, brothers which I have in Christ Jesus the Lord of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.30|<< 1 Corinthians 15:30]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.32|1 Corinthians 15:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2596\|καθ᾽]]  [[G2250\|ἡμέραν]]  [[G0599\|ἀποθνῄσκω,]]  [[G3513\|νὴ]]  [[G3588\|τὴν]]  [[G4771\|ὑμετέραν]]  [[G2746\|καύχησιν,]]  [[G0080\|ἀδελφοί,]]  [[G3739\|ἣν]]  [[G2192\|ἔχω]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ]]  [[G3588\|τῷ]]  [[G2962G\|κυρίῳ]]  [[G3165\|ἡμῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BODY|BODY]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic RESURRECTION|RESURRECTION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.30|<< 1 Corinthians 15:30]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.32|1 Corinthians 15:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

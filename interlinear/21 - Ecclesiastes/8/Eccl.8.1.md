@@ -1,8 +1,56 @@
+---
+title: Ecclesiastes 8:1
+type: Verse
+kjv: "Who is as the wise man? and who knoweth the interpretation of a thing? a man’s wisdom maketh his face to shine, and the boldness of his face shall be changed."
+bsb: "Who is like the wise man? Who knows the interpretation of a matter? A man’s wisdom brightens his face, and the sternness of his face is changed."
+hebrew: "מִ֚י כְּהֶ֣חָכָ֔ם וּמִ֥י יוֹדֵ֖עַ פֵּ֣שֶׁר דָּבָ֑ר חָכְמַ֤ת אָדָם֙ תָּאִ֣יר פָּנָ֔יו וְעֹ֥ז פָּנָ֖יו יְשֻׁנֶּֽא׃"
+pericope: "[[Eccl.8.1 Obey the King|Obey the King]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 8
+book/chapter: "[[Eccl.8|Ecclesiastes 8]]"
+chronological_order: 546
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H4310]]"
+- "[[H9004]]"
+- "[[H9009]]"
+- "[[H2450]]"
+- "[[H9002]]"
+- "[[H3045]]"
+- "[[H6592]]"
+- "[[H1697I]]"
+- "[[H2451]]"
+- "[[H0120G]]"
+- "[[H0215]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H5797]]"
+- "[[H8132]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 8:1**<big><big>[[Eccl.8.1 Obey the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [is] as the wise [man]? and who knoweth the interpretation of a thing? a man’s wisdom maketh his face to shine, and the boldness of his face shall be changed.
 <small><sub>**BSB:**</sub></small>
 Who is like the wise man? Who knows the interpretation of a matter? A man’s wisdom brightens his face, and the sternness of his face is changed.
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִ֚י]] [[H9004\|כְּ]][[H9009\|הֶ֣]][[H2450\|חָכָ֔ם]] [[H9002\|וּ]][[H4310\|מִ֥י]] [[H3045\|יוֹדֵ֖עַ]] [[H6592\|פֵּ֣שֶׁר]] [[H1697I\|דָּבָ֑ר]] [[H2451\|חָכְמַ֤ת]] [[H0120G\|אָדָם֙]] [[H0215\|תָּאִ֣יר]] [[H6440H\|פָּנָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H5797\|עֹ֥ז]] [[H6440H\|פָּנָ֖י]][[H9023\|ו]] [[H8132\|יְשֻׁנֶּֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.8.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.29|<< Ecclesiastes 7:29]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.2|Ecclesiastes 8:2 >>]]</td></tr></table>
 

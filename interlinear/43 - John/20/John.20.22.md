@@ -1,10 +1,52 @@
+---
+title: John 20:22
+type: Verse
+kjv: "And when he had said this, he breathed on them, and saith unto them, Receive ye the Holy Ghost:"
+bsb: "When He had said this, He breathed on them and said, “Receive the Holy Spirit."
+jesus_said: "Receive ye the Holy Ghost:"
+greek: "καὶ τοῦτο εἰπὼν ἐνεφύσησεν καὶ λέγει αὐτοῖς· λάβετε πνεῦμα ἅγιον."
+pericope: "[[John.20.19 Jesus Appears to the Disciples|Jesus Appears to the Disciples]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 20
+book/chapter: "[[John.20|John 20]]"
+chronological_order: 1017
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G2036]]"
+- "[[G1720]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G2983]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+texts:
+- NKO
+---
+
 **John 20:22**<big><big>[[John.20.19 Jesus Appears to the Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had said this, he breathed on [them], and saith unto them, Receive ye the Holy Ghost:
 <small><sub>**BSB:**</sub></small>
 When He had said this, He breathed on them and said, “Receive the Holy Spirit.
-<small><sub>**Literal:**</sub></small>
-And this having said He breathed on [them] and He says to them; do receive [the] Spirit Holy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.21|<< John 20:21]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.23|John 20:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3778\|τοῦτο]]  [[G2036\|εἰπὼν]]  [[G1720\|ἐνεφύσησεν]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G2983\|λάβετε]]  [[G4151G\|πνεῦμα]]  [[G0040G\|ἅγιον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TRINITY|TRINITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.21|<< John 20:21]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.23|John 20:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

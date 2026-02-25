@@ -1,8 +1,53 @@
+---
+title: Job 30:31
+type: Verse
+kjv: "My harp also is turned to mourning, and my organ into the voice of them that weep."
+bsb: "My harp is tuned to mourning and my flute to the sound of weeping."
+hebrew: "וַיְהִ֣י לְ֭אֵבֶל כִּנֹּרִ֑י וְ֝עֻגָבִ֗י לְק֣וֹל בֹּכִֽים׃"
+pericope: "[[Job.30.15 Job’s Prosperity Becomes Calamity|Job’s Prosperity Becomes Calamity]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 30
+book/chapter: "[[Job.30|Job 30]]"
+chronological_order: 41
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic HARP|HARP]]"
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0060]]"
+- "[[H3658]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H5748]]"
+- "[[H6963A]]"
+- "[[H1058]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 30:31**<big><big>[[Job.30.15 Job’s Prosperity Becomes Calamity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My harp also is [turned] to mourning, and my organ into the voice of them that weep.
 <small><sub>**BSB:**</sub></small>
 My harp is tuned to mourning and my flute to the sound of weeping.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H9005\|לְ֭]][[H0060\|אֵבֶל]] [[H3658\|כִּנֹּרִ֑]][[H9020\|י]] [[H9002\|וְ֝]][[H5748\|עֻגָבִ֗]][[H9020\|י]] [[H9005\|לְ]][[H6963A\|ק֣וֹל]] [[H1058\|בֹּכִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HARP|HARP]] • [[topic MUSIC|MUSIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.30|<< Job 30:30]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.1|Job 31:1 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Jeremiah 51:1
+type: Verse
+kjv: "Thus saith the LORD; Behold, I will raise up against Babylon, and against them that dwell in the midst of them that rise up against me, a destroying wind;"
+bsb: "This is what the LORD says: “Behold, I will stir up against Babylon and against the people of Leb-kamai the spirit of a destroyer."
+hebrew: "כֹּ֚ה אָמַ֣ר יְהוָ֔ה הִנְנִי֙ מֵעִ֣יר עַל־ בָּבֶ֔ל וְאֶל־ יֹשְׁבֵ֖י לֵ֣ב קָמָ֑י ר֖וּחַ מַשְׁחִֽית׃"
+pericope: "[[Jer.51.1 Judgment on Babylon|Judgment on Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H5782]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0894]]"
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H3427]]"
+- "[[H3820B]]"
+- "[[H6965A]]"
+- "[[H7307G]]"
+- "[[H7843]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 51:1**<big><big>[[Jer.51.1 Judgment on Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD; Behold, I will raise up against Babylon, and against them that dwell in the midst of them that rise up against me, a destroying wind;
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: “Behold, I will stir up against Babylon and against the people of Leb-kamai the spirit of a destroyer.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H2005\|הִנְ]][[H9040\|נִי֙]] [[H5782\|מֵעִ֣יר]] [[H5921A\|עַל]][[H9014\|־]] [[H0894\|בָּבֶ֔ל]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H3427\|יֹשְׁבֵ֖י]] [[H3820B\|לֵ֣ב]] [[H6965A\|קָמָ֑י]] [[H7307G\|ר֖וּחַ]] [[H7843\|מַשְׁחִֽית]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.46|<< Jeremiah 50:46]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.2|Jeremiah 51:2 >>]]</td></tr></table>
 

@@ -1,8 +1,80 @@
+---
+title: Ezekiel 33:30
+type: Verse
+kjv: "Also, thou son of man, the children of thy people still are talking against thee by the walls and in the doors of the houses, and speak one to another, every one to his brother, saying, Come, I pray you, and hear what is the word that cometh forth from the LORD."
+bsb: "As for you, son of man, your people are talking about you near the city walls and in the doorways of their houses. One speaks to another, each saying to his brother, ‘Come and hear the message that has come from the LORD!’"
+hebrew: "וְאַתָּ֣ה בֶן־ אָדָ֔ם בְּנֵ֣י עַמְּךָ֗ הַנִּדְבָּרִ֤ים בְּךָ֙ אֵ֣צֶל הַקִּיר֔וֹת וּבְפִתְחֵ֖י הַבָּתִּ֑ים וְדִבֶּר־ חַ֣ד אֶת־ אַחַ֗ד אִ֤ישׁ אֶת־ אָחִיו֙ לֵאמֹ֔ר בֹּֽאוּ־ נָ֣א וְשִׁמְע֔וּ מָ֣ה הַדָּבָ֔ר הַיּוֹצֵ֖א מֵאֵ֥ת יְהוָֽה׃"
+pericope: "[[Ezek.33.21 Word of Jerusalem’s Fall|Word of Jerusalem’s Fall]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 33
+book/chapter: "[[Ezek.33|Ezekiel 33]]"
+chronological_order: 824
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HEARERS|HEARERS]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H1121G]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H1696G]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H0681]]"
+- "[[H7023]]"
+- "[[H6607]]"
+- "[[H1004B]]"
+- "[[H9001]]"
+- "[[H2297]]"
+- "[[H0854]]"
+- "[[H0259]]"
+- "[[H0376I]]"
+- "[[H0251I]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0935G]]"
+- "[[H4994]]"
+- "[[H8085G]]"
+- "[[H4100]]"
+- "[[H1697G]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 33:30**<big><big>[[Ezek.33.21 Word of Jerusalem’s Fall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also, thou son of man, the children of thy people still are talking against thee by the walls and in the doors of the houses, and speak one to another, every one to his brother, saying, Come, I pray you, and hear what is the word that cometh forth from the LORD.
 <small><sub>**BSB:**</sub></small>
 As for you, son of man, your people are talking about you near the city walls and in the doorways of their houses. One speaks to another, each saying to his brother, ‘Come and hear the message that has come from the LORD!’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֣ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H0120G\|אָדָ֔ם]] [[H1121G\|בְּנֵ֣י]] [[H5971A\|עַמְּ]][[H9021\|ךָ֗]] [[H9009\|הַ]][[H1696G\|נִּדְבָּרִ֤ים]] [[H9003\|בְּ]][[H9031\|ךָ֙]] [[H0681\|אֵ֣צֶל]] [[H9009\|הַ]][[H7023\|קִּיר֔וֹת]] [[H9002\|וּ]][[H9003\|בְ]][[H6607\|פִתְחֵ֖י]] [[H9009\|הַ]][[H1004B\|בָּתִּ֑ים]] [[H9001\|וְ]][[H1696G\|דִבֶּר]][[H9014\|־]] [[H2297\|חַ֣ד]] [[H0854\|אֶת]][[H9014\|־]] [[H0259\|אַחַ֗ד]] [[H0376I\|אִ֤ישׁ]] [[H0854\|אֶת]][[H9014\|־]] [[H0251I\|אָחִי]][[H9023\|ו֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H0935G\|בֹּֽאוּ]][[H9014\|־]] [[H4994\|נָ֣א]] [[H9002\|וְ]][[H8085G\|שִׁמְע֔וּ]] [[H4100\|מָ֣ה]] [[H9009\|הַ]][[H1697G\|דָּבָ֔ר]] [[H9009\|הַ]][[H3318G\|יּוֹצֵ֖א]] [[H9006\|מֵ]][[H0854\|אֵ֥ת]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEARERS|HEARERS]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic INFIDELITY|INFIDELITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.29|<< Ezekiel 33:29]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.31|Ezekiel 33:31 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

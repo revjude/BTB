@@ -1,8 +1,57 @@
+---
+title: Psalm 78:37
+type: Verse
+kjv: "For their heart was not right with him, neither were they stedfast in his covenant."
+bsb: "Their hearts were disloyal to Him, and they were unfaithful to His covenant."
+hebrew: "וְ֭לִבָּם לֹא־ נָכ֣וֹן עִמּ֑וֹ וְלֹ֥א נֶ֝אֶמְנ֗וּ בִּבְרִיתֽוֹ׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H3820A]]"
+- "[[H9028]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3559H]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H0539]]"
+- "[[H9003]]"
+- "[[H1285]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:37**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For their heart was not right with him, neither were they stedfast in his covenant.
 <small><sub>**BSB:**</sub></small>
 Their hearts were disloyal to Him, and they were unfaithful to His covenant.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֭]][[H3820A\|לִבָּ]][[H9028\|ם]] [[H3808\|לֹא]][[H9014\|־]] [[H3559H\|נָכ֣וֹן]] [[H5973A\|עִמּ֑]][[H9033\|וֹ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0539\|נֶ֝אֶמְנ֗וּ]] [[H9003\|בִּ]][[H1285\|בְרִיתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.36|<< Psalms 78:36]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.38|Psalms 78:38 >>]]</td></tr></table>
 

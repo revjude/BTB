@@ -1,6 +1,64 @@
+---
+title: LXX 2 Samuel 20:16
+type: Verse
+lxx: "And a wise woman yelled out from the city, and said, Hearken indeed! hearken! Say indeed to Joab, Approach unto here! and I will speak to him."
+greek: "και εβόησε γυνή σοφή εκ της πόλεως και είπεν ακούσατε δη ακούσατε είπατε δη τω Ιωάβ έγγισον έως ώδε και λαλήσω προς αυτόν"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 20
+book/chapter: "[[2Sam.20|2 Samuel 20]]"
+chronological_order: 419
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABEL-BETH-MAACHAH|ABEL-BETH-MAACHAH]]"
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[G2532]]"
+- "[[G0994]]"
+- "[[G1135]]"
+- "[[G4680]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0191]]"
+- "[[G1211]]"
+- "[[G0191]]"
+- "[[G2036]]"
+- "[[G1211]]"
+- "[[G3588]]"
+- "[[H3097]]"
+- "[[G1448]]"
+- "[[G2193]]"
+- "[[G5602]]"
+- "[[G2532]]"
+- "[[G2980]]"
+- "[[G4314]]"
+- "[[G1473]]"
+---
+
 **LXX 2 Samuel 20:16** 
 <small><sub>**LXX:**</sub></small>
 And a wise woman yelled out from the city, and said, Hearken indeed! hearken! Say indeed to Joab, Approach unto here! and I will speak to him. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0994\|εβόησε]] [[G1135\|γυνή]] [[G4680\|σοφή]] [[G1537\|εκ]] [[G3588\|της]] [[G4172\|πόλεως]] [[G2532\|και]] [[G2036\|είπεν]] [[G0191\|ακούσατε]] [[G1211\|δη]] [[G0191\|ακούσατε]] [[G2036\|είπατε]] [[G1211\|δη]] [[G3588\|τω]] [[H3097\|Ιωάβ]] [[G1448\|έγγισον]] [[G2193\|έως]] [[G5602\|ώδε]] [[G2532\|και]] [[G2980\|λαλήσω]] [[G4314\|προς]] [[G1473\|αυτόν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABEL-BETH-MAACHAH|ABEL-BETH-MAACHAH]] • [[topic ABISHAI|ABISHAI]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic JOAB|JOAB]] • [[topic POLITICS|POLITICS]] • [[topic TACT|TACT]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.20.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.15|<< 2 Samuel 20:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.17|2 Samuel 20:17 >>]]</td></tr></table>
 
@@ -29,6 +87,6 @@ And a wise woman yelled out from the city, and said, Hearken indeed! hearken! Sa
 | I will speak | **<big>[[G2980\|λαλήσω]]</big>** |
 | to | **<big>[[G4314\|προς]]</big>** |
 | him. | **<big>[[G1473\|αυτόν]]</big>** |
-[[2Sam.20.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.15|<< 2 Samuel 20:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.17|2 Samuel 20:17 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.15|<< 2 Samuel 20:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.17|2 Samuel 20:17 >>]]</td></tr></table>
 
 

@@ -1,8 +1,67 @@
+---
+title: Jeremiah 3:18
+type: Verse
+kjv: "In those days the house of Judah shall walk with the house of Israel, and they shall come together out of the land of the north to the land that I have given for an inheritance unto your fathers."
+bsb: "In those days the house of Judah will walk with the house of Israel, and they will come together from the land of the north to the land that I gave to your fathers as an inheritance."
+hebrew: "בַּיָּמִ֣ים הָהֵ֔מָּה יֵלְכ֥וּ בֵית־ יְהוּדָ֖ה עַל־ בֵּ֣ית יִשְׂרָאֵ֑ל וְיָבֹ֤אוּ יַחְדָּו֙ מֵאֶ֣רֶץ צָפ֔וֹן עַל־ הָאָ֕רֶץ אֲשֶׁ֥ר הִנְחַ֖לְתִּי אֶת־ אֲבוֹתֵיכֶֽם׃"
+pericope: "[[Jer.3.11 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 3
+book/chapter: "[[Jer.3|Jeremiah 3]]"
+chronological_order: 720
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1992]]"
+- "[[H1980G]]"
+- "[[H1004M]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H5921A]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H0935G]]"
+- "[[H3162B]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H6828G]]"
+- "[[H0834A]]"
+- "[[H5157]]"
+- "[[H0853]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 3:18**<big><big>[[Jer.3.11 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In those days the house of Judah shall walk with the house of Israel, and they shall come together out of the land of the north to the land that I have given for an inheritance unto your fathers.
 <small><sub>**BSB:**</sub></small>
 In those days the house of Judah will walk with the house of Israel, and they will come together from the land of the north to the land that I gave to your fathers as an inheritance.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יָּמִ֣ים]] [[H9009\|הָ]][[H1992\|הֵ֔מָּה]] [[H1980G\|יֵלְכ֥וּ]] [[H1004M\|בֵית]][[H9014\|־]] [[H3063G\|יְהוּדָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וְ]][[H0935G\|יָבֹ֤אוּ]] [[H3162B\|יַחְדָּו֙]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H6828G\|צָפ֔וֹן]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֕רֶץ]] [[H0834A\|אֲשֶׁ֥ר]] [[H5157\|הִנְחַ֖לְתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אֲבוֹתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.17|<< Jeremiah 3:17]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.19|Jeremiah 3:19 >>]]</td></tr></table>
 

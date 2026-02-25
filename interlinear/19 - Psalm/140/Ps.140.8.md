@@ -1,8 +1,55 @@
+---
+title: Psalm 140:8
+type: Verse
+kjv: "Grant not, O LORD, the desires of the wicked: further not his wicked device; lest they exalt themselves. Selah."
+bsb: "Grant not, O LORD, the desires of the wicked; do not promote their evil plans, lest they be exalted. Selah"
+hebrew: "אַל־ תִּתֵּ֣ן יְ֭הוָה מַאֲוַיֵּ֣י רָשָׁ֑ע זְמָמ֥וֹ אַל־ תָּ֝פֵ֗ק יָר֥וּמוּ סֶֽלָה׃"
+pericope: "[[Ps.140.1 Rescue Me from Evil Men|Rescue Me from Evil Men]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 140
+book/chapter: "[[Ps.140|Psalm 140]]"
+chronological_order: 387
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H3970]]"
+- "[[H7563]]"
+- "[[H2162]]"
+- "[[H9023]]"
+- "[[H6329]]"
+- "[[H7311A]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 140:8**<big><big>[[Ps.140.1 Rescue Me from Evil Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Grant not, O LORD, the desires of the wicked: further not his wicked device; [lest] they exalt themselves. Selah.
 <small><sub>**BSB:**</sub></small>
 Grant not, O LORD, the desires of the wicked; do not promote their evil plans, lest they be exalted. Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H5414G\|תִּתֵּ֣ן]] [[H3068G\|יְ֭הוָה]] [[H3970\|מַאֲוַיֵּ֣י]] [[H7563\|רָשָׁ֑ע]] [[H2162\|זְמָמ֥]][[H9023\|וֹ]] [[H0408\|אַל]][[H9014\|־]] [[H6329\|תָּ֝פֵ֗ק]] [[H7311A\|יָר֥וּמוּ]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.140.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.140.7|<< Psalms 140:7]]</td><td align="center" style="border:none;">[[Ps.140|Psalms 140]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.140.9|Psalms 140:9 >>]]</td></tr></table>
 

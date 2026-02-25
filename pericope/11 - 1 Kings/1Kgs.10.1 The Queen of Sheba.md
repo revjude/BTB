@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Queen of Sheba
+type: Pericope
 pericope: "[[1Kgs.10.1 The Queen of Sheba|The Queen of Sheba]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 10
 book/chapter: "[[1Kgs.10|1 Kings 10]]"
-genre:
+chronological_order: 535
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 13
 verses:
 - "[[1Kgs.10.1]]"
 - "[[1Kgs.10.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[1Kgs.10.13]]"
 ---
 
-[[1Kgs.10|1 Kings 10:1 - 1 Kings 10:13]]
+<small>[[1Kgs.10|1 Kings 10:1-13]]</small>
 *The Queen of Sheba*
 
 [[1Kgs.10.1|1]] And when the queen of Sheba heard of the fame of Solomon concerning the name of the LORD, she came to prove him with hard questions.

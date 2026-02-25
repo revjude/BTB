@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 14:7
+type: Verse
+kjv: "Nevertheless these ye shall not eat of them that chew the cud, or of them that divide the cloven hoof; as the camel, and the hare, and the coney: for they chew the cud, but divide not the hoof; therefore they are unclean unto you."
+bsb: "But of those that chew the cud or have a completely divided hoof, you are not to eat the following: the camel, the rabbit, or the rock badger. Although they chew the cud, they do not have a divided hoof. They are unclean for you,"
+hebrew: "אַ֣ךְ אֶת־ זֶ֞ה לֹ֤א תֹֽאכְלוּ֙ מִמַּֽעֲלֵ֣י הַגֵּרָ֔ה וּמִמַּפְרִיסֵ֥י הַפַּרְסָ֖ה הַשְּׁסוּעָ֑ה אֶֽת־ הַ֠גָּמָל וְאֶת־ הָאַרְנֶ֨בֶת וְאֶת־ הַשָּׁפָ֜ן כִּֽי־ מַעֲלֵ֧ה גֵרָ֣ה הֵ֗מָּה וּפַרְסָה֙ לֹ֣א הִפְרִ֔יסוּ טְמֵאִ֥ים הֵ֖ם לָכֶֽם׃"
+pericope: "[[Deut.14.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 14
+book/chapter: "[[Deut.14|Deuteronomy 14]]"
+chronological_order: 210
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic CONEY|CONEY]]"
+- "[[topic CUD|CUD]]"
+- "[[topic HARE|HARE]]"
+- "[[topic HOOF|HOOF]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H0389]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2088]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H9006]]"
+- "[[H5927M]]"
+- "[[H9009]]"
+- "[[H1625]]"
+- "[[H9002]]"
+- "[[H6536]]"
+- "[[H6541]]"
+- "[[H8156]]"
+- "[[H1581]]"
+- "[[H0768]]"
+- "[[H8227A]]"
+- "[[H3588A]]"
+- "[[H1992]]"
+- "[[H2931]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 14:7**<big><big>[[Deut.14.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless these ye shall not eat of them that chew the cud, or of them that divide the cloven hoof; [as] the camel, and the hare, and the coney: for they chew the cud, but divide not the hoof; [therefore] they [are] unclean unto you.
 <small><sub>**BSB:**</sub></small>
 But of those that chew the cud or have a completely divided hoof, you are not to eat the following: the camel, the rabbit, or the rock badger. Although they chew the cud, they do not have a divided hoof. They are unclean for you,
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַ֣ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H2088\|זֶ֞ה]] [[H3808\|לֹ֤א]] [[H0398\|תֹֽאכְלוּ֙]] [[H9006\|מִ]][[H5927M\|מַּֽעֲלֵ֣י]] [[H9009\|הַ]][[H1625\|גֵּרָ֔ה]] [[H9002\|וּ]][[H9006\|מִ]][[H6536\|מַּפְרִיסֵ֥י]] [[H9009\|הַ]][[H6541\|פַּרְסָ֖ה]] [[H9009\|הַ]][[H8156\|שְּׁסוּעָ֑ה]] [[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הַ֠]][[H1581\|גָּמָל]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0768\|אַרְנֶ֨בֶת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8227A\|שָּׁפָ֜ן]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5927M\|מַעֲלֵ֧ה]] [[H1625\|גֵרָ֣ה]] [[H1992\|הֵ֗מָּה]] [[H9002\|וּ]][[H6541\|פַרְסָה֙]] [[H3808\|לֹ֣א]] [[H6536\|הִפְרִ֔יסוּ]] [[H2931\|טְמֵאִ֥ים]] [[H1992\|הֵ֖ם]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic CONEY|CONEY]] • [[topic CUD|CUD]] • [[topic HARE|HARE]] • [[topic HOOF|HOOF]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.14.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.14.6|<< Deuteronomy 14:6]]</td><td align="center" style="border:none;">[[Deut.14|Deuteronomy 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.14.8|Deuteronomy 14:8 >>]]</td></tr></table>
 

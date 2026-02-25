@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Heals on the Sabbath
+type: Pericope
 pericope: "[[Mark.3.1 Jesus Heals on the Sabbath|Jesus Heals on the Sabbath]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Mark
 chapter: 3
 book/chapter: "[[Mark.3|Mark 3]]"
-genre:
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 6
 verses:
 - "[[Mark.3.1]]"
 - "[[Mark.3.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Mark.3.6]]"
 ---
 
-[[Mark.3|Mark 3:1 - Mark 3:6]]
+<small>[[Mark.3|Mark 3:1-6]]</small>
 *Jesus Heals on the Sabbath*
 
 [[Mark.3.1|1]] And he entered again into the synagogue; and there was a man there which had a withered hand.

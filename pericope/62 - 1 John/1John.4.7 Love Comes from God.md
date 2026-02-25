@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Love Comes from God
+type: Pericope
 pericope: "[[1John.4.7 Love Comes from God|Love Comes from God]]"
-verse_count: 15
+original_language: Greek
 testament: New
 book: 1 John
 chapter: 4
 book/chapter: "[[1John.4|1 John 4]]"
-genre:
+chronological_order: 1164
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
 - epistle
 - general epistle
 - johannine epistle
 - theological treatise
 - polemical
+verse_count: 15
 verses:
 - "[[1John.4.7]]"
 - "[[1John.4.8]]"
@@ -34,7 +41,7 @@ verses:
 - "[[1John.4.21]]"
 ---
 
-[[1John.4|1 John 4:7 - 1 John 4:21]]
+<small>[[1John.4|1 John 4:7-21]]</small>
 *Love Comes from God*
 
 [[1John.4.7|7]] Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God.

@@ -1,8 +1,68 @@
+---
+title: Leviticus 19:12
+type: Verse
+kjv: "And ye shall not swear by my name falsely, neither shalt thou profane the name of thy God: I am the LORD."
+bsb: "You must not swear falsely by My name and so profane the name of your God. I am the LORD."
+hebrew: "וְלֹֽא־ תִשָּׁבְע֥וּ בִשְׁמִ֖י לַשָּׁ֑קֶר וְחִלַּלְתָּ֛ אֶת־ שֵׁ֥ם אֱלֹהֶ֖יךָ אֲנִ֥י יְהוָֽה׃"
+pericope: "[[Lev.19.9 Love Your Neighbor|Love Your Neighbor]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 19
+book/chapter: "[[Lev.19|Leviticus 19]]"
+chronological_order: 151
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OATH|OATH]]"
+- "[[topic PERJURY|PERJURY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7650]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H8267]]"
+- "[[H9001]]"
+- "[[H2490H]]"
+- "[[H0853]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 19:12**<big><big>[[Lev.19.9 Love Your Neighbor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall not swear by my name falsely, neither shalt thou profane the name of thy God: I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
 You must not swear falsely by My name and so profane the name of your God. I am the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7650\|תִשָּׁבְע֥וּ]] [[H9003\|בִ]][[H8034\|שְׁמִ֖]][[H9020\|י]] [[H9005\|לַ]][[H8267\|שָּׁ֑קֶר]] [[H9001\|וְ]][[H2490H\|חִלַּלְתָּ֛]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שֵׁ֥ם]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GOD|GOD]] • [[topic OATH|OATH]] • [[topic PERJURY|PERJURY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.11|<< Leviticus 19:11]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.13|Leviticus 19:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

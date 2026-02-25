@@ -1,6 +1,61 @@
+---
+title: LXX Genesis 18:18
+type: Verse
+lxx: "But coming to pass to Abraham, he will be made into a great and populous nation, and all the nations of the earth shall be blessed by him."
+greek: "Αβραάμ δε γινόμενος έσται εις έθνος μέγα και πολύ και ενευλογηθήσονται εν αυτώ πάντα τα έθνη της γης"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 18
+book/chapter: "[[Gen.18|Genesis 18]]"
+chronological_order: 60
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SODOM|SODOM]]"
+strongs:
+- "[[G0011]]"
+- "[[G1161]]"
+- "[[G1096]]"
+- "[[G1510]]"
+- "[[G1519]]"
+- "[[G1484]]"
+- "[[G3173]]"
+- "[[G2532]]"
+- "[[G4183]]"
+- "[[G2532]]"
+- "[[G1757]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1484]]"
+- "[[G3588]]"
+- "[[G1093]]"
+---
+
 **LXX Genesis 18:18** 
 <small><sub>**LXX:**</sub></small>
 But coming to pass to Abraham, he will be \[made\] into a great and populous nation, and all the nations of the earth shall be blessed by him. 
+<small><sub>**Greek:**</sub></small>
+[[G0011\|Αβραάμ]] [[G1161\|δε]] [[G1096\|γινόμενος]] [[G1510\|έσται]] [[G1519\|εις]] [[G1484\|έθνος]] [[G3173\|μέγα]] [[G2532\|και]] [[G4183\|πολύ]] [[G2532\|και]] [[G1757\|ενευλογηθήσονται]] [[G1722\|εν]] [[G1473\|αυτώ]] [[G3956\|πάντα]] [[G3588\|τα]] [[G1484\|έθνη]] [[G3588\|της]] [[G1093\|γης]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic COMMUNION|COMMUNION]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic PROPHECY|PROPHECY]] • [[topic SODOM|SODOM]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.18.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.17|<< Genesis 18:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.19|Genesis 18:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -28,6 +83,6 @@ But coming to pass to Abraham, he will be \[made\] into a great and populous nat
 | nations | **<big>[[G1484\|έθνη]]</big>** |
 | of the | **<big>[[G3588\|της]]</big>** |
 | earth | **<big>[[G1093\|γης]]</big>** |
-[[Gen.18.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.17|<< Genesis 18:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.19|Genesis 18:19 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.17|<< Genesis 18:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.19|Genesis 18:19 >>]]</td></tr></table>
 
 

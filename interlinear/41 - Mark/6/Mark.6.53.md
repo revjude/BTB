@@ -1,10 +1,51 @@
+---
+title: Mark 6:53
+type: Verse
+kjv: "And when they had passed over, they came into the land of Gennesaret, and drew to the shore."
+bsb: "When they had crossed over, they landed at Gennesaret and moored the boat."
+greek: "Καὶ διαπεράσαντες ἐπὶ τὴν γῆν ἦλθον εἰς Γεννησαρὲτ καὶ προσωρμίσθησαν."
+pericope: "[[Mark.6.53 Jesus Heals at Gennesaret|Jesus Heals at Gennesaret]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1276]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1093H]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G1082]]"
+- "[[G4358]]"
+texts:
+- NKO
+- no
+---
+
 **Mark 6:53**<big><big>[[Mark.6.53 Jesus Heals at Gennesaret|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they had passed over, they came into the land of Gennesaret, and drew to the shore.
 <small><sub>**BSB:**</sub></small>
 When they had crossed over, they landed at Gennesaret and moored the boat.
-<small><sub>**Literal:**</sub></small>
-And having passed over to the land they came to Gennesaret and drew to shore.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.52|<< Mark 6:52]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.54|Mark 6:54 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1276\|διαπεράσαντες]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G1093H\|γῆν]]  [[G2064\|ἦλθον]]  [[G1519\|εἰς]]  [[G1082\|Γεννησαρὲτ]]  [[G2532\|καὶ]]  [[G4358\|προσωρμίσθησαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.52|<< Mark 6:52]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.54|Mark 6:54 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

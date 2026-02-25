@@ -1,10 +1,60 @@
+---
+title: Matthew 12:24
+type: Verse
+kjv: "But when the Pharisees heard it, they said, This fellow doth not cast out devils, but by Beelzebub the prince of the devils."
+bsb: "But when the Pharisees heard this, they said, “Only by Beelzebul, the prince of demons, does this man drive out demons.”"
+greek: "Οἱ δὲ Φαρισαῖοι ἀκούσαντες εἶπον· οὗτος οὐκ ἐκβάλλει τὰ δαιμόνια εἰ μὴ ἐν τῷ Βεελζεβοὺλ ἄρχοντι τῶν δαιμονίων.¶"
+pericope: "[[Matt.12.22 A House Divided|A House Divided]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BEELZEBUB|BEELZEBUB]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic SCOFFING|SCOFFING]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G5330]]"
+- "[[G0191]]"
+- "[[G2036]]"
+- "[[G3778]]"
+- "[[G3756]]"
+- "[[G1544]]"
+- "[[G1140]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G1722]]"
+- "[[G0954]]"
+- "[[G0758]]"
+texts:
+- NKO
+---
+
 **Matthew 12:24**<big><big>[[Matt.12.22 A House Divided|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when the Pharisees heard [it], they said, This [fellow] doth not cast out devils, but by Beelzebub the prince of the devils.
 <small><sub>**BSB:**</sub></small>
 But when the Pharisees heard this, they said, “Only by Beelzebul, the prince of demons, does this man drive out demons.”
-<small><sub>**Literal:**</sub></small>
-<the> And the Pharisees having heard said; This [man] not casts out the demons only except by <the> Beelzebul prince of the demons.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.23|<< Matthew 12:23]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.25|Matthew 12:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Οἱ]]  [[G1161\|δὲ]]  [[G5330\|Φαρισαῖοι]]  [[G0191\|ἀκούσαντες]]  [[G2036\|εἶπον·]]  [[G3778\|οὗτος]]  [[G3756\|οὐκ]]  [[G1544\|ἐκβάλλει]]  [[G3588\|τὰ]]  [[G1140\|δαιμόνια]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0954\|Βεελζεβοὺλ]]  [[G0758\|ἄρχοντι]]  [[G3588\|τῶν]]  [[G1140\|δαιμονίων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEELZEBUB|BEELZEBUB]] • [[topic INFIDELITY|INFIDELITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SATAN|SATAN]] • [[topic SCOFFING|SCOFFING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.23|<< Matthew 12:23]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.25|Matthew 12:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

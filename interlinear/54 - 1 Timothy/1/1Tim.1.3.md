@@ -1,10 +1,57 @@
+---
+title: 1 Timothy 1:3
+type: Verse
+kjv: "As I besought thee to abide still at Ephesus, when I went into Macedonia, that thou mightest charge some that they teach no other doctrine,"
+bsb: "As I urged you on my departure to Macedonia, you should stay on at Ephesus to instruct certain men not to teach false doctrines"
+greek: "Καθὼς παρεκάλεσά σε προσμεῖναι ἐν Ἐφέσῳ πορευόμενος εἰς Μακεδονίαν ἵνα παραγγείλῃς τισὶν μὴ ἑτεροδιδασκαλεῖν"
+pericope: "[[1Tim.1.3 Correcting False Teachers|Correcting False Teachers]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 1
+book/chapter: "[[1Tim.1|1 Timothy 1]]"
+chronological_order: 1126
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TIMOTHY|TIMOTHY]]"
+strongs:
+- "[[G2531]]"
+- "[[G3870]]"
+- "[[G4771]]"
+- "[[G4357]]"
+- "[[G1722]]"
+- "[[G2181]]"
+- "[[G4198]]"
+- "[[G1519]]"
+- "[[G3109]]"
+- "[[G2443]]"
+- "[[G3853]]"
+- "[[G5100]]"
+- "[[G3361]]"
+- "[[G2085]]"
+texts:
+- NKO
+---
+
 **1 Timothy 1:3**<big><big>[[1Tim.1.3 Correcting False Teachers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As I besought thee to abide still at Ephesus, when I went into Macedonia, that thou mightest charge some that they teach no other doctrine,
 <small><sub>**BSB:**</sub></small>
 As I urged you on my departure to Macedonia, you should stay on at Ephesus to instruct certain men not to teach false doctrines
-<small><sub>**Literal:**</sub></small>
-even as I urged you to remain in Ephesus [when] I was going to Macedonia so that you may warn certain men not to teach other doctrines<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.2|<< 1 Timothy 1:2]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.4|1 Timothy 1:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2531\|Καθὼς]]  [[G3870\|παρεκάλεσά]]  [[G4771\|σε]]  [[G4357\|προσμεῖναι]]  [[G1722\|ἐν]]  [[G2181\|Ἐφέσῳ]]  [[G4198\|πορευόμενος]]  [[G1519\|εἰς]]  [[G3109\|Μακεδονίαν]]  [[G2443\|ἵνα]]  [[G3853\|παραγγείλῃς]]  [[G5100\|τισὶν]]  [[G3361\|μὴ]]  [[G2085\|ἑτεροδιδασκαλεῖν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOCTRINES|DOCTRINES]] • [[topic EPHESUS|EPHESUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TIMOTHY|TIMOTHY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.2|<< 1 Timothy 1:2]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.4|1 Timothy 1:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

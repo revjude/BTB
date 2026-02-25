@@ -1,10 +1,56 @@
+---
+title: John 11:56
+type: Verse
+kjv: "Then sought they for Jesus, and spake among themselves, as they stood in the temple, What think ye, that he will not come to the feast?"
+bsb: "They kept looking for Jesus and asking one another as they stood in the temple courts, “What do you think? Will He come to the feast at all?”"
+greek: "ἐζήτουν οὖν τὸν Ἰησοῦν καὶ ἔλεγον μετ᾽ ἀλλήλων ἐν τῷ ἱερῷ ἑστηκότες· τί δοκεῖ ὑμῖν, ὅτι οὐ μὴ ἔλθῃ εἰς τὴν ἑορτήν;"
+pericope: "[[John.11.45 The Plot to Kill Jesus|The Plot to Kill Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+strongs:
+- "[[G2212]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G3326]]"
+- "[[G0240]]"
+- "[[G1722]]"
+- "[[G2411]]"
+- "[[G2476]]"
+- "[[G5101]]"
+- "[[G1380]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G1859]]"
+texts:
+- NKO
+---
+
 **John 11:56**<big><big>[[John.11.45 The Plot to Kill Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then sought they for Jesus, and spake among themselves, as they stood in the temple, What think ye, that he will not come to the feast?
 <small><sub>**BSB:**</sub></small>
 They kept looking for Jesus and asking one another as they stood in the temple courts, “What do you think? Will He come to the feast at all?”
-<small><sub>**Literal:**</sub></small>
-They were seeking therefore <the> Jesus and were saying among one another in the temple already standing; What does it seem to you, that certainly not He may come to the feast?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.55|<< John 11:55]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.57|John 11:57 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2212\|ἐζήτουν]]  [[G3767\|οὖν]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G2532\|καὶ]]  [[G3004G\|ἔλεγον]]  [[G3326\|μετ᾽]]  [[G0240\|ἀλλήλων]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2411\|ἱερῷ]]  [[G2476\|ἑστηκότες·]]  [[G5101\|τί]]  [[G1380\|δοκεῖ]]  [[G4771\|ὑμῖν,]]  [[G3754G\|ὅτι]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G2064\|ἔλθῃ]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1859\|ἑορτήν;]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.55|<< John 11:55]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.57|John 11:57 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

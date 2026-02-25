@@ -1,8 +1,54 @@
+---
+title: 1 Samuel 10:4
+type: Verse
+kjv: "And they will salute thee, and give thee two loaves of bread; which thou shalt receive of their hands."
+bsb: "They will greet you and give you two loaves of bread, which you will accept from their hands."
+hebrew: "וְשָׁאֲל֥וּ לְךָ֖ לְשָׁל֑וֹם וְנָתְנ֤וּ לְךָ֙ שְׁתֵּי־ לֶ֔חֶם וְלָקַחְתָּ֖ מִיָּדָֽם׃"
+pericope: "[[1Sam.10.1 Samuel Anoints Saul|Samuel Anoints Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 10
+book/chapter: "[[1Sam.10|1 Samuel 10]]"
+chronological_order: 289
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7592]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H7965K]]"
+- "[[H5414G]]"
+- "[[H8147]]"
+- "[[H9014]]"
+- "[[H3899H]]"
+- "[[H3947H]]"
+- "[[H9006]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 10:4**<big><big>[[1Sam.10.1 Samuel Anoints Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they will salute thee, and give thee two [loaves] of bread; which thou shalt receive of their hands.
 <small><sub>**BSB:**</sub></small>
 They will greet you and give you two loaves of bread, which you will accept from their hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7592\|שָׁאֲל֥וּ]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H9005\|לְ]][[H7965K\|שָׁל֑וֹם]] [[H9001\|וְ]][[H5414G\|נָתְנ֤וּ]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H8147\|שְׁתֵּי]][[H9014\|־]] [[H3899H\|לֶ֔חֶם]] [[H9001\|וְ]][[H3947H\|לָקַחְתָּ֖]] [[H9006\|מִ]][[H3027G\|יָּדָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.10.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.10.3|<< 1 Samuel 10:3]]</td><td align="center" style="border:none;">[[1Sam.10|1 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.10.5|1 Samuel 10:5 >>]]</td></tr></table>
 

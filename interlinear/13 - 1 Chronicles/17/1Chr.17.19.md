@@ -1,8 +1,60 @@
+---
+title: 1 Chronicles 17:19
+type: Verse
+kjv: "O LORD, for thy servant’s sake, and according to thine own heart, hast thou done all this greatness, in making known all these great things."
+bsb: "O LORD. For the sake of Your servant and according to Your own heart, You have accomplished this great thing and made known all these great promises."
+hebrew: "יְהוָ֕ה בַּעֲב֤וּר עַבְדְּךָ֙ וּֽכְלִבְּךָ֔ עָשִׂ֕יתָ אֵ֥ת כָּל־ הַגְּדוּלָּ֖ה הַזֹּ֑את לְהֹדִ֖יעַ אֶת־ כָּל־ הַגְּדֻלּֽוֹת׃"
+pericope: "[[1Chr.17.16 David’s Prayer of Thanksgiving|David’s Prayer of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 17
+book/chapter: "[[1Chr.17|1 Chronicles 17]]"
+chronological_order: 398
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H5668]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H3820A]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1420]]"
+- "[[H2063]]"
+- "[[H9005]]"
+- "[[H3045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 17:19**<big><big>[[1Chr.17.16 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, for thy servant’s sake, and according to thine own heart, hast thou done all this greatness, in making known all [these] great things.
 <small><sub>**BSB:**</sub></small>
 O LORD. For the sake of Your servant and according to Your own heart, You have accomplished this great thing and made known all these great promises.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֕ה]] [[H9003\|בַּ]][[H5668\|עֲב֤וּר]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֙]] [[H9002\|וּֽ]][[H9004\|כְ]][[H3820A\|לִבְּ]][[H9021\|ךָ֔]] [[H6213A\|עָשִׂ֕יתָ]] [[H0853\|אֵ֥ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1420\|גְּדוּלָּ֖ה]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H9005\|לְ]][[H3045\|הֹדִ֖יעַ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1420\|גְּדֻלּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic HUMILITY|HUMILITY]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.18|<< 1 Chronicles 17:18]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.20|1 Chronicles 17:20 >>]]</td></tr></table>
 

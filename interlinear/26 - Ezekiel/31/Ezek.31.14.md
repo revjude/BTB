@@ -1,8 +1,79 @@
+---
+title: Ezekiel 31:14
+type: Verse
+kjv: "To the end that none of all the trees by the waters exalt themselves for their height, neither shoot up their top among the thick boughs, neither their trees stand up in their height, all that drink water: for they are all delivered unto death, to the nether parts of the earth, in the midst of the children of men, with them that go down to the pit."
+bsb: "This happened so that no other trees by the waters would become great in height and set their tops among the clouds, and no other well-watered trees would reach them in height. For they have all been consigned to death, to the depths of the earth, among the mortals who descend to the Pit.’"
+hebrew: "לְמַ֡עַן אֲשֶׁר֩ לֹא־ יִגְבְּה֨וּ בְקוֹמָתָ֜ם כָּל־ עֲצֵי־ מַ֗יִם וְלֹֽא־ יִתְּנ֤וּ אֶת־ צַמַּרְתָּם֙ אֶל־ בֵּ֣ין עֲבֹתִ֔ים וְלֹֽא־ יַעַמְד֧וּ אֵלֵיהֶ֛ם בְּגָבְהָ֖ם כָּל־ שֹׁ֣תֵי מָ֑יִם כִּֽי־ כֻלָּם֩ נִתְּנ֨וּ לַמָּ֜וֶת אֶל־ אֶ֣רֶץ תַּחְתִּ֗ית בְּת֛וֹךְ בְּנֵ֥י אָדָ֖ם אֶל־ י֥וֹרְדֵי בֽוֹר׃ ס"
+pericope: "[[Ezek.31.1 Egypt Will Fall like Assyria|Egypt Will Fall like Assyria]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 31
+book/chapter: "[[Ezek.31|Ezekiel 31]]"
+chronological_order: 822
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+strongs:
+- "[[H4616]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1361]]"
+- "[[H9003]]"
+- "[[H6967]]"
+- "[[H9028]]"
+- "[[H3605]]"
+- "[[H6086H]]"
+- "[[H4325G]]"
+- "[[H9002]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H6788]]"
+- "[[H0413]]"
+- "[[H0996H]]"
+- "[[H5688]]"
+- "[[H5975I]]"
+- "[[H0352D]]"
+- "[[H1363]]"
+- "[[H8354]]"
+- "[[H3588A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H4194]]"
+- "[[H0776G]]"
+- "[[H8482]]"
+- "[[H8432]]"
+- "[[H1121A]]"
+- "[[H0120G]]"
+- "[[H3381]]"
+- "[[H0953A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 31:14**<big><big>[[Ezek.31.1 Egypt Will Fall like Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To the end that none of all the trees by the waters exalt themselves for their height, neither shoot up their top among the thick boughs, neither their trees stand up in their height, all that drink water: for they are all delivered unto death, to the nether parts of the earth, in the midst of the children of men, with them that go down to the pit.
 <small><sub>**BSB:**</sub></small>
 This happened so that no other trees by the waters would become great in height and set their tops among the clouds, and no other well-watered trees would reach them in height. For they have all been consigned to death, to the depths of the earth, among the mortals who descend to the Pit.’
+<small><sub>**Hebrew:**</sub></small>
+[[H4616\|לְמַ֡עַן]] [[H0834A\|אֲשֶׁר֩]] [[H3808\|לֹא]][[H9014\|־]] [[H1361\|יִגְבְּה֨וּ]] [[H9003\|בְ]][[H6967\|קוֹמָתָ֜]][[H9028\|ם]] [[H3605\|כָּל]][[H9014\|־]] [[H6086H\|עֲצֵי]][[H9014\|־]] [[H4325G\|מַ֗יִם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5414H\|יִתְּנ֤וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H6788\|צַמַּרְתָּ]][[H9028\|ם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0996H\|בֵּ֣ין]] [[H5688\|עֲבֹתִ֔ים]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5975I\|יַעַמְד֧וּ]] [[H0352D\|אֵלֵי]][[H9028\|הֶ֛ם]] [[H9003\|בְּ]][[H1363\|גָבְהָ֖]][[H9028\|ם]] [[H3605\|כָּל]][[H9014\|־]] [[H8354\|שֹׁ֣תֵי]] [[H4325G\|מָ֑יִם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3605\|כֻלָּ]][[H9028\|ם֩]] [[H5414G\|נִתְּנ֨וּ]] [[H9005\|לַ]][[H4194\|מָּ֜וֶת]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H8482\|תַּחְתִּ֗ית]] [[H9003\|בְּ]][[H8432\|ת֛וֹךְ]] [[H1121A\|בְּנֵ֥י]] [[H0120G\|אָדָ֖ם]] [[H0413\|אֶל]][[H9014\|־]] [[H3381\|י֥וֹרְדֵי]] [[H0953A\|בֽוֹר]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]] • [[topic SELF-EXALTATION|SELF-EXALTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.31.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.13|<< Ezekiel 31:13]]</td><td align="center" style="border:none;">[[Ezek.31|Ezekiel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.31.15|Ezekiel 31:15 >>]]</td></tr></table>
 
@@ -42,7 +113,7 @@ This happened so that no other trees by the waters would become great in height 
 | humankind  |**<big>&#8207;[[H0120G\|אָדָ֖ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those who] go down of  |**<big>&#8207;[[H3381\|י֥וֹרְדֵי]]&#8207; </big>**| Yor.dei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] pit  |**<big>&#8207;[[H0953A\|בֽוֹר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Vor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] pit  |**<big>&#8207;[[H0953A\|בֽוֹר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Vor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.13|<< Ezekiel 31:13]]</td><td align="center" style="border:none;">[[Ezek.31|Ezekiel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.31.15|Ezekiel 31:15 >>]]</td></tr></table>
 
 

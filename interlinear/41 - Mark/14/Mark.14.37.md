@@ -1,10 +1,59 @@
+---
+title: Mark 14:37
+type: Verse
+kjv: "And he cometh, and findeth them sleeping, and saith unto Peter, Simon, sleepest thou? couldest not thou watch one hour?"
+bsb: "Then Jesus returned and found them sleeping. “Simon, are you asleep?” He asked. “Were you not able to keep watch for one hour?"
+jesus_said: "Simon, sleepest thou? couldest not thou watch one hour?"
+greek: "καὶ ἔρχεται καὶ εὑρίσκει αὐτοὺς καθεύδοντας καὶ λέγει τῷ Πέτρῳ· Σίμων, καθεύδεις; οὐκ ἴσχυσας μίαν ὥραν γρηγορῆσαι;"
+pericope: "[[Mark.14.32 Jesus Prays at Gethsemane|Jesus Prays at Gethsemane]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GETHSEMANE|GETHSEMANE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SORROW|SORROW]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G2147]]"
+- "[[G0846]]"
+- "[[G2518]]"
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G4613O]]"
+- "[[G3756]]"
+- "[[G2480]]"
+- "[[G1520]]"
+- "[[G5610]]"
+- "[[G1127]]"
+texts:
+- NKO
+---
+
 **Mark 14:37**<big><big>[[Mark.14.32 Jesus Prays at Gethsemane|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he cometh, and findeth them sleeping, and saith unto Peter, Simon, sleepest thou? couldest not thou watch one hour?
 <small><sub>**BSB:**</sub></small>
 Then Jesus returned and found them sleeping. “Simon, are you asleep?” He asked. “Were you not able to keep watch for one hour?
-<small><sub>**Literal:**</sub></small>
-And He comes and He finds them sleeping And He says <the> to Peter; Simon, are you asleep? Surely you were able one hour to watch?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.36|<< Mark 14:36]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.38|Mark 14:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2064\|ἔρχεται]]  [[G2532\|καὶ]]  [[G2147\|εὑρίσκει]]  [[G0846\|αὐτοὺς]]  [[G2518\|καθεύδοντας]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G3588\|τῷ]]  [[G4074G\|Πέτρῳ·]]  [[G4613O\|Σίμων,]]  [[G2518\|καθεύδεις;]]  [[G3756\|οὐκ]]  [[G2480\|ἴσχυσας]]  [[G1520\|μίαν]]  [[G5610\|ὥραν]]  [[G1127\|γρηγορῆσαι;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GETHSEMANE|GETHSEMANE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic SORROW|SORROW]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.36|<< Mark 14:36]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.38|Mark 14:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

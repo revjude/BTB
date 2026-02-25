@@ -1,8 +1,75 @@
+---
+title: Numbers 16:14
+type: Verse
+kjv: "Moreover thou hast not brought us into a land that floweth with milk and honey, or given us inheritance of fields and vineyards: wilt thou put out the eyes of these men? we will not come up."
+bsb: "Moreover, you have not brought us into a land flowing with milk and honey or given us an inheritance of fields and vineyards. Will you gouge out the eyes of these men? No, we will not come!”"
+hebrew: "אַ֡ף לֹ֣א אֶל־ אֶרֶץ֩ זָבַ֨ת חָלָ֤ב וּדְבַשׁ֙ הֲבִ֣יאֹתָ֔נוּ וַתִּ֨תֶּן־ לָ֔נוּ נַחֲלַ֖ת שָׂדֶ֣ה וָכָ֑רֶם הַעֵינֵ֞י הָאֲנָשִׁ֥ים הָהֵ֛ם תְּנַקֵּ֖ר לֹ֥א נַעֲלֶֽה׃"
+pericope: "[[Num.16.1 Korah’s Rebellion|Korah’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DATHAN|DATHAN]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H0637]]"
+- "[[H3808]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H2100G]]"
+- "[[H2461]]"
+- "[[H9002]]"
+- "[[H1706]]"
+- "[[H0935P]]"
+- "[[H9035]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H5159]]"
+- "[[H7704G]]"
+- "[[H3754]]"
+- "[[H9008]]"
+- "[[H5869A]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H1992]]"
+- "[[H5365]]"
+- "[[H5927G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 16:14**<big><big>[[Num.16.1 Korah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover thou hast not brought us into a land that floweth with milk and honey, or given us inheritance of fields and vineyards: wilt thou put out the eyes of these men? we will not come up.
 <small><sub>**BSB:**</sub></small>
 Moreover, you have not brought us into a land flowing with milk and honey or given us an inheritance of fields and vineyards. Will you gouge out the eyes of these men? No, we will not come!”
+<small><sub>**Hebrew:**</sub></small>
+[[H0637\|אַ֡ף]] [[H3808\|לֹ֣א]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶרֶץ֩]] [[H2100G\|זָבַ֨ת]] [[H2461\|חָלָ֤ב]] [[H9002\|וּ]][[H1706\|דְבַשׁ֙]] [[H0935P\|הֲבִ֣יאֹתָ֔]][[H9035\|נוּ]] [[H9001\|וַ]][[H5414G\|תִּ֨תֶּן]][[H9014\|־]] [[H9005\|לָ֔]][[H9035\|נוּ]] [[H5159\|נַחֲלַ֖ת]] [[H7704G\|שָׂדֶ֣ה]] [[H9002\|וָ]][[H3754\|כָ֑רֶם]] [[H9008\|הַ]][[H5869A\|עֵינֵ֞י]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֥ים]] [[H9009\|הָ]][[H1992\|הֵ֛ם]] [[H5365\|תְּנַקֵּ֖ר]] [[H3808\|לֹ֥א]] [[H5927G\|נַעֲלֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DATHAN|DATHAN]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic ISRAEL|ISRAEL]] • [[topic MURMURING|MURMURING]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.13|<< Numbers 16:13]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.15|Numbers 16:15 >>]]</td></tr></table>
 

@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Flee from Idolatry
+type: Pericope
 pericope: "[[1Cor.10.14 Flee from Idolatry|Flee from Idolatry]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 10
 book/chapter: "[[1Cor.10|1 Corinthians 10]]"
-genre:
+chronological_order: 1067
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 9
 verses:
 - "[[1Cor.10.14]]"
 - "[[1Cor.10.15]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Cor.10.22]]"
 ---
 
-[[1Cor.10|1 Corinthians 10:14 - 1 Corinthians 10:22]]
+<small>[[1Cor.10|1 Corinthians 10:14-22]]</small>
 *Flee from Idolatry*
 
 [[1Cor.10.14|14]] Wherefore, my dearly beloved, flee from idolatry.

@@ -1,8 +1,65 @@
+---
+title: Isaiah 44:14
+type: Verse
+kjv: "He heweth him down cedars, and taketh the cypress and the oak, which he strengtheneth for himself among the trees of the forest: he planteth an ash, and the rain doth nourish it."
+bsb: "He cuts down cedars or retrieves a cypress or oak. He lets it grow strong among the trees of the forest. He plants a laurel, and the rain makes it grow."
+hebrew: "לִכְרָת־ ל֣וֹ אֲרָזִ֔ים וַיִּקַּ֤ח תִּרְזָה֙ וְאַלּ֔וֹן וַיְאַמֶּץ־ ל֖וֹ בַּעֲצֵי־ יָ֑עַר נָטַ֥ע אֹ֖רֶן וְגֶ֥שֶׁם יְגַדֵּֽל׃"
+pericope: "[[Isa.44.1 The LORD Has Chosen Israel|The LORD Has Chosen Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 44
+book/chapter: "[[Isa.44|Isaiah 44]]"
+chronological_order: 683
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASH|ASH]]"
+- "[[topic CARVING|CARVING]]"
+- "[[topic CYPRESS|CYPRESS]]"
+- "[[topic HOLM|HOLM]]"
+- "[[topic IDOL|IDOL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9005]]"
+- "[[H3772G]]"
+- "[[H9014]]"
+- "[[H9033]]"
+- "[[H0730]]"
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H8645]]"
+- "[[H9002]]"
+- "[[H0437]]"
+- "[[H0553]]"
+- "[[H9003]]"
+- "[[H6086H]]"
+- "[[H3293A]]"
+- "[[H5193]]"
+- "[[H0766]]"
+- "[[H1653]]"
+- "[[H1431]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 44:14**<big><big>[[Isa.44.1 The LORD Has Chosen Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He heweth him down cedars, and taketh the cypress and the oak, which he strengtheneth for himself among the trees of the forest: he planteth an ash, and the rain doth nourish [it].
 <small><sub>**BSB:**</sub></small>
 He cuts down cedars or retrieves a cypress or oak. He lets it grow strong among the trees of the forest. He plants a laurel, and the rain makes it grow.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H3772G\|כְרָת]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H0730\|אֲרָזִ֔ים]] [[H9001\|וַ]][[H3947G\|יִּקַּ֤ח]] [[H8645\|תִּרְזָה֙]] [[H9002\|וְ]][[H0437\|אַלּ֔וֹן]] [[H9001\|וַ]][[H0553\|יְאַמֶּץ]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9003\|בַּ]][[H6086H\|עֲצֵי]][[H9014\|־]] [[H3293A\|יָ֑עַר]] [[H5193\|נָטַ֥ע]] [[H0766\|אֹ֖רֶן]] [[H9002\|וְ]][[H1653\|גֶ֥שֶׁם]] [[H1431\|יְגַדֵּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASH|ASH]] • [[topic CARVING|CARVING]] • [[topic CYPRESS|CYPRESS]] • [[topic HOLM|HOLM]] • [[topic IDOL|IDOL]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.13|<< Isaiah 44:13]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.15|Isaiah 44:15 >>]]</td></tr></table>
 

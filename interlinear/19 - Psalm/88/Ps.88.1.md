@@ -1,8 +1,57 @@
+---
+title: Psalm 88:1
+type: Verse
+kjv: "O LORD God of my salvation, I have cried day and night before thee:"
+bsb: "A song. A Psalm of the sons of Korah. For the choirmaster. According to Mahalath Leannoth. A Maskil of Heman the Ezrahite. O LORD, the God of my salvation, day and night I cry out before You."
+hebrew: "יְ֭הוָה אֱלֹהֵ֣י יְשׁוּעָתִ֑י יוֹם־ צָעַ֖קְתִּי בַלַּ֣יְלָה נֶגְדֶּֽךָ׃"
+pericope: "[[Ps.88.1 I Cry Out before You|I Cry Out before You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 88
+book/chapter: "[[Ps.88|Psalm 88]]"
+chronological_order: 516
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3444]]"
+- "[[H9020]]"
+- "[[H3117G]]"
+- "[[H9014]]"
+- "[[H6817]]"
+- "[[H9003]]"
+- "[[H3915]]"
+- "[[H5048]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 88:1**<big><big>[[Ps.88.1 I Cry Out before You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD God of my salvation, I have cried day [and] night before thee:
 <small><sub>**BSB:**</sub></small>
 A song. A Psalm of the sons of Korah. For the choirmaster. According to Mahalath Leannoth. A Maskil of Heman the Ezrahite. O LORD, the God of my salvation, day and night I cry out before You.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְ֭הוָה]] [[H0430G\|אֱלֹהֵ֣י]] [[H3444\|יְשׁוּעָתִ֑]][[H9020\|י]] [[H3117G\|יוֹם]][[H9014\|־]] [[H6817\|צָעַ֖קְתִּי]] [[H9003\|בַ]][[H3915\|לַּ֣יְלָה]] [[H5048\|נֶגְדֶּֽ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MUSIC|MUSIC]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.88.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.88.0|<< Psalms 88:0]]</td><td align="center" style="border:none;">[[Ps.88|Psalms 88]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.88.2|Psalms 88:2 >>]]</td></tr></table>
 

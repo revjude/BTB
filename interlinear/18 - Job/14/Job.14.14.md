@@ -1,8 +1,59 @@
+---
+title: Job 14:14
+type: Verse
+kjv: "If a man die, shall he live again? all the days of my appointed time will I wait, till my change come."
+bsb: "When a man dies, will he live again? All the days of my hard service I will wait, until my renewal comes."
+hebrew: "אִם־ יָמ֥וּת גֶּ֗בֶר הֲיִ֫חְיֶ֥ה כָּל־ יְמֵ֣י צְבָאִ֣י אֲיַחֵ֑ל עַד־ בּ֝֗וֹא חֲלִיפָתִֽי׃"
+pericope: "[[Job.14.1 Job Laments the Finality of Death|Job Laments the Finality of Death]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 14
+book/chapter: "[[Job.14|Job 14]]"
+chronological_order: 25
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H4191]]"
+- "[[H1397]]"
+- "[[H9008]]"
+- "[[H2421]]"
+- "[[H3605]]"
+- "[[H3117G]]"
+- "[[H6635I]]"
+- "[[H9020]]"
+- "[[H3176G]]"
+- "[[H5704]]"
+- "[[H0935G]]"
+- "[[H2487]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 14:14**<big><big>[[Job.14.1 Job Laments the Finality of Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a man die, shall he live [again]? all the days of my appointed time will I wait, till my change come.
 <small><sub>**BSB:**</sub></small>
 When a man dies, will he live again? All the days of my hard service I will wait, until my renewal comes.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H4191\|יָמ֥וּת]] [[H1397\|גֶּ֗בֶר]] [[H9008\|הֲ]][[H2421\|יִ֫חְיֶ֥ה]] [[H3605\|כָּל]][[H9014\|־]] [[H3117G\|יְמֵ֣י]] [[H6635I\|צְבָאִ֣]][[H9020\|י]] [[H3176G\|אֲיַחֵ֑ל]] [[H5704\|עַד]][[H9014\|־]] [[H0935G\|בּ֝֗וֹא]] [[H2487\|חֲלִיפָתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DEATH|DEATH]] • [[topic RESURRECTION|RESURRECTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.14.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.14.13|<< Job 14:13]]</td><td align="center" style="border:none;">[[Job.14|Job 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.14.15|Job 14:15 >>]]</td></tr></table>
 

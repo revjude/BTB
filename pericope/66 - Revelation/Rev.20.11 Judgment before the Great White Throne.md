@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment before the Great White Throne
+type: Pericope
 pericope: "[[Rev.20.11 Judgment before the Great White Throne|Judgment before the Great White Throne]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 20
 book/chapter: "[[Rev.20|Revelation 20]]"
-genre:
+chronological_order: 1187
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 5
 verses:
 - "[[Rev.20.11]]"
 - "[[Rev.20.12]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Rev.20.15]]"
 ---
 
-[[Rev.20|Revelation 20:11 - Revelation 20:15]]
+<small>[[Rev.20|Revelation 20:11-15]]</small>
 *Judgment before the Great White Throne*
 
 [[Rev.20.11|11]] And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them.

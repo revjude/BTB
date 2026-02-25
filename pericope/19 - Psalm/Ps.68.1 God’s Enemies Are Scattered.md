@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Enemies Are Scattered
+type: Pericope
 pericope: "[[Ps.68.1 God’s Enemies Are Scattered|God’s Enemies Are Scattered]]"
-verse_count: 36
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 68
 book/chapter: "[[Ps.68|Psalm 68]]"
-genre:
+chronological_order: 376
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 36
 verses:
 - "[[Ps.68.0]]"
 - "[[Ps.68.1]]"
@@ -57,7 +64,7 @@ verses:
 - "[[Ps.68.35]]"
 ---
 
-[[Ps.68|Psalm 68:1 - Psalm 68:35]]
+<small>[[Ps.68|Psalm 68:1-35]]</small>
 *God’s Enemies Are Scattered*
 
 [[Ps.68.0|0]] To the chief Musician, A Psalm \[or\] Song of David.

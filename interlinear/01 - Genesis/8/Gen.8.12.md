@@ -1,8 +1,61 @@
+---
+title: Genesis 8:12
+type: Verse
+kjv: "And he stayed yet other seven days; and sent forth the dove; which returned not again unto him any more."
+bsb: "And Noah waited seven more days and sent out the dove again, but this time she did not return to him."
+hebrew: "וַיִּיָּ֣חֶל ע֔וֹד שִׁבְעַ֥ת יָמִ֖ים אֲחֵרִ֑ים וַיְשַׁלַּח֙ אֶת־ הַיּוֹנָ֔ה וְלֹֽא־ יָסְפָ֥ה שׁוּב־ אֵלָ֖יו עֽוֹד׃"
+pericope: "[[Gen.8.6 Noah Sends a Raven and a Dove|Noah Sends a Raven and a Dove]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 8
+book/chapter: "[[Gen.8|Genesis 8]]"
+chronological_order: 8
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H3176G]]"
+- "[[H5750]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H0312]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3123]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3254G]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 8:12**<big><big>[[Gen.8.6 Noah Sends a Raven and a Dove|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he stayed yet other seven days; and sent forth the dove; which returned not again unto him any more.
 <small><sub>**BSB:**</sub></small>
 And Noah waited seven more days and sent out the dove again, but this time she did not return to him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3176G\|יִּיָּ֣חֶל]] [[H5750\|ע֔וֹד]] [[H7651\|שִׁבְעַ֥ת]] [[H3117G\|יָמִ֖ים]] [[H0312\|אֲחֵרִ֑ים]] [[H9001\|וַ]][[H7971G\|יְשַׁלַּח֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3123\|יּוֹנָ֔ה]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3254G\|יָסְפָ֥ה]] [[H7725G\|שׁוּב]][[H9014\|־]] [[H0413\|אֵלָ֖י]][[H9033\|ו]] [[H5750\|עֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.8.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.11|<< Genesis 8:11]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.8.13|Genesis 8:13 >>]]</td></tr></table>
 

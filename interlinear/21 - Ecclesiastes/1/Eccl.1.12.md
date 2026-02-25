@@ -1,8 +1,51 @@
+---
+title: Ecclesiastes 1:12
+type: Verse
+kjv: "I the Preacher was king over Israel in Jerusalem."
+bsb: "I, the Teacher, was king over Israel in Jerusalem."
+hebrew: "אֲנִ֣י קֹהֶ֗לֶת הָיִ֥יתִי מֶ֛לֶךְ עַל־ יִשְׂרָאֵ֖ל בִּירוּשָׁלִָֽם׃"
+pericope: "[[Eccl.1.12 With Wisdom Comes Sorrow|With Wisdom Comes Sorrow]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 1
+book/chapter: "[[Eccl.1|Ecclesiastes 1]]"
+chronological_order: 539
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H0589]]"
+- "[[H6953]]"
+- "[[H1961]]"
+- "[[H4428G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 1:12**<big><big>[[Eccl.1.12 With Wisdom Comes Sorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I the Preacher was king over Israel in Jerusalem.
 <small><sub>**BSB:**</sub></small>
 I, the Teacher, was king over Israel in Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H0589\|אֲנִ֣י]] [[H6953\|קֹהֶ֗לֶת]] [[H1961\|הָיִ֥יתִי]] [[H4428G\|מֶ֛לֶךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PREACHING|PREACHING]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.1.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.1.11|<< Ecclesiastes 1:11]]</td><td align="center" style="border:none;">[[Eccl.1|Ecclesiastes 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.1.13|Ecclesiastes 1:13 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Isaiah 28:24
+type: Verse
+kjv: "Doth the plowman plow all day to sow? doth he open and break the clods of his ground?"
+bsb: "Does the plowman plow for planting every day? Does he continuously loosen and harrow the soil?"
+hebrew: "הֲכֹ֣ל הַיּ֔וֹם יַחֲרֹ֥שׁ הַחֹרֵ֖שׁ לִזְרֹ֑עַ יְפַתַּ֥ח וִֽישַׂדֵּ֖ד אַדְמָתֽוֹ׃"
+pericope: "[[Isa.28.23 Listen and Hear|Listen and Hear]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 28
+book/chapter: "[[Isa.28|Isaiah 28]]"
+chronological_order: 671
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9008]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3117J]]"
+- "[[H2790A]]"
+- "[[H9005]]"
+- "[[H2232]]"
+- "[[H6605A]]"
+- "[[H9002]]"
+- "[[H7702]]"
+- "[[H0127G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 28:24**<big><big>[[Isa.28.23 Listen and Hear|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Doth the plowman plow all day to sow? doth he open and break the clods of his ground?
 <small><sub>**BSB:**</sub></small>
 Does the plowman plow for planting every day? Does he continuously loosen and harrow the soil?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3605\|כֹ֣ל]] [[H9009\|הַ]][[H3117J\|יּ֔וֹם]] [[H2790A\|יַחֲרֹ֥שׁ]] [[H9009\|הַ]][[H2790A\|חֹרֵ֖שׁ]] [[H9005\|לִ]][[H2232\|זְרֹ֑עַ]] [[H6605A\|יְפַתַּ֥ח]] [[H9002\|וִֽ]][[H7702\|ישַׂדֵּ֖ד]] [[H0127G\|אַדְמָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic ISAIAH|ISAIAH]] • [[topic JUDGMENT|JUDGMENT]] • [[topic PARABLES|PARABLES]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.23|<< Isaiah 28:23]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.25|Isaiah 28:25 >>]]</td></tr></table>
 

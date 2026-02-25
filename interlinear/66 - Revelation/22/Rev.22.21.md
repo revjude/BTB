@@ -1,10 +1,57 @@
+---
+title: Revelation 22:21
+type: Verse
+kjv: "The grace of our Lord Jesus Christ be with you all. Amen."
+bsb: "The grace of the Lord Jesus be with all the saints. Amen."
+greek: "Ἡ χάρις τοῦ κυρίου ημῶν Ἰησοῦ Χριστοῦ μετὰ πάντων τῶν ὑμῶν. ἀμήν."
+pericope: "[[Rev.22.18 Nothing May Be Added or Removed|Nothing May Be Added or Removed]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 22
+book/chapter: "[[Rev.22|Revelation 22]]"
+chronological_order: 1189
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic AMEN|AMEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G3588]]"
+- "[[G5485]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G3326]]"
+- "[[G3956]]"
+- "[[G4771]]"
+- "[[G0281]]"
+texts:
+- NKO
+- K
+- KO
+- o
+- K(O)
+---
+
 **Revelation 22:21**<big><big>[[Rev.22.6 Jesus Is Coming|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The grace of our Lord Jesus Christ [be] with you all. Amen.
 <small><sub>**BSB:**</sub></small>
 The grace of the Lord Jesus be with all the saints. Amen.
-<small><sub>**Literal:**</sub></small>
-The grace of the Lord of us Jesus Christ [be] with all <the> of you Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.20|<< Revelation 22:20]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">&nbsp;</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ἡ]]  [[G5485\|χάρις]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ημῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G3326\|μετὰ]]  [[G3956\|πάντων]]  [[G3588\|τῶν]]  [[G4771\|ὑμῶν.]]  [[G0281\|ἀμήν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMEN|AMEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.20|<< Revelation 22:20]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">&nbsp;</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

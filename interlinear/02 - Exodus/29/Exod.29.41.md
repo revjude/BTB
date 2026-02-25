@@ -1,8 +1,68 @@
+---
+title: Exodus 29:41
+type: Verse
+kjv: "And the other lamb thou shalt offer at even, and shalt do thereto according to the meat offering of the morning, and according to the drink offering thereof, for a sweet savour, an offering made by fire unto the LORD."
+bsb: "And offer the second lamb at twilight with the same grain offering and drink offering as in the morning, as a pleasing aroma, a food offering to the LORD."
+hebrew: "וְאֵת֙ הַכֶּ֣בֶשׂ הַשֵּׁנִ֔י תַּעֲשֶׂ֖ה בֵּ֣ין הָעַרְבָּ֑יִם כְּמִנְחַ֨ת הַבֹּ֤קֶר וּכְנִסְכָּהּ֙ תַּֽעֲשֶׂה־ לָּ֔הּ לְרֵ֣יחַ נִיחֹ֔חַ אִשֶּׁ֖ה לַיהוָֽה׃"
+pericope: "[[Exod.29.38 The Daily Offerings|The Daily Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 29
+book/chapter: "[[Exod.29|Exodus 29]]"
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic DAILY OFFERING|DAILY OFFERING]]"
+- "[[topic LAMB|LAMB]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H3532]]"
+- "[[H8145]]"
+- "[[H6213I]]"
+- "[[H0996G]]"
+- "[[H6153]]"
+- "[[H9004]]"
+- "[[H4503G]]"
+- "[[H1242]]"
+- "[[H5262]]"
+- "[[H9024]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H7381]]"
+- "[[H5207]]"
+- "[[H0801]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 29:41**<big><big>[[Exod.29.38 The Daily Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the other lamb thou shalt offer at even, and shalt do thereto according to the meat offering of the morning, and according to the drink offering thereof, for a sweet savour, an offering made by fire unto the LORD.
 <small><sub>**BSB:**</sub></small>
 And offer the second lamb at twilight with the same grain offering and drink offering as in the morning, as a pleasing aroma, a food offering to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵת֙]] [[H9009\|הַ]][[H3532\|כֶּ֣בֶשׂ]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֔י]] [[H6213I\|תַּעֲשֶׂ֖ה]] [[H0996G\|בֵּ֣ין]] [[H9009\|הָ]][[H6153\|עַרְבָּ֑יִם]] [[H9004\|כְּ]][[H4503G\|מִנְחַ֨ת]] [[H9009\|הַ]][[H1242\|בֹּ֤קֶר]] [[H9002\|וּ]][[H9004\|כְ]][[H5262\|נִסְכָּ]][[H9024\|הּ֙]] [[H6213I\|תַּֽעֲשֶׂה]][[H9014\|־]] [[H9005\|לָּ֔]][[H9034\|הּ]] [[H9005\|לְ]][[H7381\|רֵ֣יחַ]] [[H5207\|נִיחֹ֔חַ]] [[H0801\|אִשֶּׁ֖ה]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAILY OFFERING|DAILY OFFERING]] • [[topic LAMB|LAMB]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.40|<< Exodus 29:40]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.42|Exodus 29:42 >>]]</td></tr></table>
 

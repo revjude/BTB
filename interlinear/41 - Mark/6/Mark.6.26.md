@@ -1,10 +1,62 @@
+---
+title: Mark 6:26
+type: Verse
+kjv: "And the king was exceeding sorry; yet for his oath’s sake, and for their sakes which sat with him, he would not reject her."
+bsb: "The king was consumed with sorrow, but because of his oaths and his guests, he did not want to refuse her."
+greek: "καὶ περίλυπος γενόμενος ὁ βασιλεὺς διὰ τοὺς ὅρκους καὶ τοὺς ἀνακειμένους οὐκ ἠθέλησεν ἀθετῆσαι αὐτήν."
+pericope: "[[Mark.6.14 The Beheading of John|The Beheading of John]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic HEROD|HEROD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OATH|OATH]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G4036]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G1223]]"
+- "[[G3727]]"
+- "[[G0345]]"
+- "[[G3756]]"
+- "[[G2309]]"
+- "[[G0114]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Mark 6:26**<big><big>[[Mark.6.14 The Beheading of John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the king was exceeding sorry; [yet] for his oath’s sake, and for their sakes which sat with him, he would not reject her.
 <small><sub>**BSB:**</sub></small>
 The king was consumed with sorrow, but because of his oaths and his guests, he did not want to refuse her.
-<small><sub>**Literal:**</sub></small>
-And encompassingly sorrowful having been made the king on account of the oaths and those reclining with [him] not was he willing to refuse her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.25|<< Mark 6:25]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.27|Mark 6:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4036\|περίλυπος]]  [[G1096\|γενόμενος]]  [[G3588\|ὁ]]  [[G0935\|βασιλεὺς]]  [[G1223\|διὰ]]  [[G3588\|τοὺς]]  [[G3727\|ὅρκους]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G0345\|ἀνακειμένους]]  [[G3756\|οὐκ]]  [[G2309\|ἠθέλησεν]]  [[G0114\|ἀθετῆσαι]]  [[G0846\|αὐτήν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEROD|HEROD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MALICE|MALICE]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OATH|OATH]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic POLITICS|POLITICS]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.25|<< Mark 6:25]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.27|Mark 6:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

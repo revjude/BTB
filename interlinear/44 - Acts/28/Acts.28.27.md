@@ -1,10 +1,65 @@
+---
+title: Acts 28:27
+type: Verse
+kjv: "For the heart of this people is waxed gross, and their ears are dull of hearing, and their eyes have they closed; lest they should see with their eyes, and hear with their ears, and understand with their heart, and should be converted, and I should heal them."
+bsb: "For this people’s heart has grown callous; they hardly hear with their ears, and they have closed their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts, and turn, and I would heal them.’"
+greek: "ἐπαχύνθη γὰρ ἡ καρδία τοῦ λαοῦ τούτου, καὶ τοῖς ὠσὶν βαρέως ἤκουσαν καὶ τοὺς ὀφθαλμοὺς αὐτῶν ἐκάμμυσαν· μήποτε μήποτε ἴδωσιν τοῖς ὀφθαλμοῖς καὶ τοῖς ὠσὶν ἀκούσωσιν καὶ τῇ καρδίᾳ συνῶσιν καὶ ἐπιστρέψωσιν καὶ ἰάσομαι αὐτούς.¶"
+pericope: "[[Acts.28.16 Paul Preaches at Rome|Paul Preaches at Rome]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 28
+book/chapter: "[[Acts.28|Acts 28]]"
+chronological_order: 1110
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DEAFNESS|DEAFNESS]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3975]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G2992]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G3775]]"
+- "[[G0917]]"
+- "[[G0191]]"
+- "[[G3788]]"
+- "[[G0846]]"
+- "[[G2576]]"
+- "[[G3361]]"
+- "[[G4218]]"
+- "[[G1492H]]"
+- "[[G4920]]"
+- "[[G1994]]"
+- "[[G2390]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 28:27**<big><big>[[Acts.28.16 Paul Preaches at Rome|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the heart of this people is waxed gross, and their ears are dull of hearing, and their eyes have they closed; lest they should see with [their] eyes, and hear with [their] ears, and understand with [their] heart, and should be converted, and I should heal them.
 <small><sub>**BSB:**</sub></small>
 For this people’s heart has grown callous; they hardly hear with their ears, and they have closed their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts, and turn, and I would heal them.’
-<small><sub>**Literal:**</sub></small>
-Has grown dull for the heart of the people this, and with the ears barely they hear and the eyes of them they have closed; otherwise they may see with the eyes and with the ears they may hear and with the heart they may understand and may turn and I will heal them.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.26|<< Acts 28:26]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.28|Acts 28:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3975\|ἐπαχύνθη]]  [[G1063\|γὰρ]]  [[G3588\|ἡ]]  [[G2588\|καρδία]]  [[G3588\|τοῦ]]  [[G2992\|λαοῦ]]  [[G3778\|τούτου,]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G3775\|ὠσὶν]]  [[G0917\|βαρέως]]  [[G0191\|ἤκουσαν]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G3788\|ὀφθαλμοὺς]]  [[G0846\|αὐτῶν]]  [[G2576\|ἐκάμμυσαν·]]  [[G3361\|μήποτε]]  <sup><small>[[G4218\| [ • ] ]]</small></sup>  [[G1492H\|ἴδωσιν]]  [[G3588\|τοῖς]]  [[G3788\|ὀφθαλμοῖς]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G3775\|ὠσὶν]]  [[G0191\|ἀκούσωσιν]]  [[G2532\|καὶ]]  [[G3588\|τῇ]]  [[G2588\|καρδίᾳ]]  [[G4920\|συνῶσιν]]  [[G2532\|καὶ]]  [[G1994\|ἐπιστρέψωσιν]]  [[G2532\|καὶ]]  [[G2390\|ἰάσομαι]]  [[G0846\|αὐτούς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEAFNESS|DEAFNESS]] • [[topic HEART|HEART]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PAUL|PAUL]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.26|<< Acts 28:26]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.28|Acts 28:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 28:27** is...
 > $\quad$ referencing: [[LXX.Isa.6.9|Isa 6:9-10]]

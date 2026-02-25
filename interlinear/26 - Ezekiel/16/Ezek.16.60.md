@@ -1,8 +1,61 @@
+---
+title: Ezekiel 16:60
+type: Verse
+kjv: "Nevertheless I will remember my covenant with thee in the days of thy youth, and I will establish unto thee an everlasting covenant."
+bsb: "But I will remember the covenant I made with you in the days of your youth, and I will establish an everlasting covenant with you."
+hebrew: "וְזָכַרְתִּ֨י אֲנִ֧י אֶת־ בְּרִיתִ֛י אוֹתָ֖ךְ בִּימֵ֣י נְעוּרָ֑יִךְ וַהֲקִמוֹתִ֥י לָ֖ךְ בְּרִ֥ית עוֹלָֽם׃"
+pericope: "[[Ezek.16.59 The Covenant Remembered|The Covenant Remembered]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H2142]]"
+- "[[H0589]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1285]]"
+- "[[H9020]]"
+- "[[H0854]]"
+- "[[H9032]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H5271A]]"
+- "[[H9022]]"
+- "[[H6965I]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 16:60**<big><big>[[Ezek.16.59 The Covenant Remembered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless I will remember my covenant with thee in the days of thy youth, and I will establish unto thee an everlasting covenant.
 <small><sub>**BSB:**</sub></small>
 But I will remember the covenant I made with you in the days of your youth, and I will establish an everlasting covenant with you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2142\|זָכַרְתִּ֨י]] [[H0589\|אֲנִ֧י]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִיתִ֛]][[H9020\|י]] [[H0854\|אוֹתָ֖]][[H9032\|ךְ]] [[H9003\|בִּ]][[H3117G\|ימֵ֣י]] [[H5271A\|נְעוּרָ֑יִ]][[H9022\|ךְ]] [[H9001\|וַ]][[H6965I\|הֲקִמוֹתִ֥י]] [[H9005\|לָ֖]][[H9032\|ךְ]] [[H1285\|בְּרִ֥ית]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.60|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.59|<< Ezekiel 16:59]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.61|Ezekiel 16:61 >>]]</td></tr></table>
 

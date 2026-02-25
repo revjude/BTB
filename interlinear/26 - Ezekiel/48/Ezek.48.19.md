@@ -1,8 +1,54 @@
+---
+title: Ezekiel 48:19
+type: Verse
+kjv: "And they that serve the city shall serve it out of all the tribes of Israel."
+bsb: "The workers of the city who cultivate it will come from all the tribes of Israel."
+hebrew: "וְהָעֹבֵ֖ד הָעִ֑יר יַעַבְד֕וּהוּ מִכֹּ֖ל שִׁבְטֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Ezek.48.15 The Common Portion|The Common Portion]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 48
+book/chapter: "[[Ezek.48|Ezekiel 48]]"
+chronological_order: 839
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5647I]]"
+- "[[H5892B]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H7626H]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 48:19**<big><big>[[Ezek.48.15 The Common Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they that serve the city shall serve it out of all the tribes of Israel.
 <small><sub>**BSB:**</sub></small>
 The workers of the city who cultivate it will come from all the tribes of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H5647I\|עֹבֵ֖ד]] [[H9009\|הָ]][[H5892B\|עִ֑יר]] [[H5647I\|יַעַבְד֕וּ]][[H9033\|הוּ]] [[H9006\|מִ]][[H3605\|כֹּ֖ל]] [[H7626H\|שִׁבְטֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.18|<< Ezekiel 48:18]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.20|Ezekiel 48:20 >>]]</td></tr></table>
 

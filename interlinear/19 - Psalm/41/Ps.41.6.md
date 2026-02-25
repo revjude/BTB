@@ -1,8 +1,65 @@
+---
+title: Psalm 41:6
+type: Verse
+kjv: "And if he come to see me, he speaketh vanity: his heart gathereth iniquity to itself; when he goeth abroad, he telleth it."
+bsb: "My visitor speaks falsehood; he gathers slander in his heart; he goes out and spreads it abroad."
+hebrew: "וְאִם־ בָּ֤א לִרְא֨וֹת׀ שָׁ֤וְא יְדַבֵּ֗ר לִבּ֗וֹ יִקְבָּץ־ אָ֥וֶן ל֑וֹ יֵצֵ֖א לַח֣וּץ יְדַבֵּֽר׃"
+pericope: "[[Ps.41.1 Victory over Betrayal|Victory over Betrayal]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 41
+book/chapter: "[[Ps.41|Psalm 41]]"
+chronological_order: 368
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic SICK, THE|SICK, THE]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic VANITY|VANITY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H7200G]]"
+- "[[H9015]]"
+- "[[H7723G]]"
+- "[[H1696G]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H6908]]"
+- "[[H0205G]]"
+- "[[H9033]]"
+- "[[H3318G]]"
+- "[[H2351]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 41:6**<big><big>[[Ps.41.1 Victory over Betrayal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if he come to see [me], he speaketh vanity: his heart gathereth iniquity to itself; [when] he goeth abroad, he telleth [it].
 <small><sub>**BSB:**</sub></small>
 My visitor speaks falsehood; he gathers slander in his heart; he goes out and spreads it abroad.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H0935G\|בָּ֤א]] [[H9005\|לִ]][[H7200G\|רְא֨וֹת]][[H9015\|׀]] [[H7723G\|שָׁ֤וְא]] [[H1696G\|יְדַבֵּ֗ר]] [[H3820A\|לִבּ֗]][[H9023\|וֹ]] [[H6908\|יִקְבָּץ]][[H9014\|־]] [[H0205G\|אָ֥וֶן]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H3318G\|יֵצֵ֖א]] [[H9005\|לַ]][[H2351\|ח֣וּץ]] [[H1696G\|יְדַבֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic MALICE|MALICE]] • [[topic SICK, THE|SICK, THE]] • [[topic SLANDER|SLANDER]] • [[topic SPEAKING|SPEAKING]] • [[topic VANITY|VANITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.41.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.41.5|<< Psalms 41:5]]</td><td align="center" style="border:none;">[[Ps.41|Psalms 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.41.7|Psalms 41:7 >>]]</td></tr></table>
 

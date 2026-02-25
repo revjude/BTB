@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel’s Restoration
+type: Pericope
 pericope: "[[Zeph.3.14 Israel’s Restoration|Israel’s Restoration]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Zephaniah
 chapter: 3
 book/chapter: "[[Zeph.3|Zephaniah 3]]"
-genre:
+chronological_order: 717
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 7
 verses:
 - "[[Zeph.3.14]]"
 - "[[Zeph.3.15]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Zeph.3.20]]"
 ---
 
-[[Zeph.3|Zephaniah 3:14 - Zephaniah 3:20]]
+<small>[[Zeph.3|Zephaniah 3:14-20]]</small>
 *Israel’s Restoration*
 
 [[Zeph.3.14|14]] Sing, O daughter of Zion; shout, O Israel; be glad and rejoice with all the heart, O daughter of Jerusalem.

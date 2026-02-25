@@ -1,10 +1,67 @@
+---
+title: Acts 21:5
+type: Verse
+kjv: "And when we had accomplished those days, we departed and went our way; and they all brought us on our way, with wives and children, till we were out of the city: and we kneeled down on the shore, and prayed."
+bsb: "But when our time there had ended, we set out on our journey. All the disciples, with their wives and children, accompanied us out of the city and knelt down on the beach to pray with us."
+greek: "ὅτε δὲ ἐγένετο ἡμᾶς ἐξαρτίσαι τὰς ἡμέρας, ἐξελθόντες ἐπορευόμεθα προπεμπόντων ἡμᾶς πάντων σὺν γυναιξὶν καὶ τέκνοις ἕως ἔξω τῆς πόλεως, καὶ θέντες τὰ γόνατα ἐπὶ τὸν αἰγιαλὸν προσευξάμενοι"
+pericope: "[[Acts.21.1 Paul’s Journey to Jerusalem|Paul’s Journey to Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 21
+book/chapter: "[[Acts.21|Acts 21]]"
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic LUKE|LUKE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[G3753]]"
+- "[[G1161]]"
+- "[[G1096]]"
+- "[[G3165]]"
+- "[[G1822]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1831]]"
+- "[[G4198]]"
+- "[[G4311]]"
+- "[[G3956]]"
+- "[[G4862]]"
+- "[[G1135H]]"
+- "[[G2532]]"
+- "[[G5043]]"
+- "[[G2193]]"
+- "[[G1854]]"
+- "[[G4172]]"
+- "[[G5087]]"
+- "[[G1119]]"
+- "[[G1909]]"
+- "[[G0123]]"
+- "[[G4336]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 21:5**<big><big>[[Acts.21.1 Paul’s Journey to Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when we had accomplished those days, we departed and went our way; and they all brought us on our way, with wives and children, till [we were] out of the city: and we kneeled down on the shore, and prayed.
 <small><sub>**BSB:**</sub></small>
 But when our time there had ended, we set out on our journey. All the disciples, with their wives and children, accompanied us out of the city and knelt down on the beach to pray with us.
-<small><sub>**Literal:**</sub></small>
-When then it happened that we [were] completing the days, having set out we were journeying while are accompanying us everyone with wives and children as far as outside the city, And having bowed the knees on the shore having prayed<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.4|<< Acts 21:4]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.6|Acts 21:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3753\|ὅτε]]  [[G1161\|δὲ]]  [[G1096\|ἐγένετο]]  [[G3165\|ἡμᾶς]]  [[G1822\|ἐξαρτίσαι]]  [[G3588\|τὰς]]  [[G2250\|ἡμέρας,]]  [[G1831\|ἐξελθόντες]]  [[G4198\|ἐπορευόμεθα]]  [[G4311\|προπεμπόντων]]  [[G3165\|ἡμᾶς]]  [[G3956\|πάντων]]  [[G4862\|σὺν]]  [[G1135H\|γυναιξὶν]]  [[G2532\|καὶ]]  [[G5043\|τέκνοις]]  [[G2193\|ἕως]]  [[G1854\|ἔξω]]  [[G3588\|τῆς]]  [[G4172\|πόλεως,]]  [[G2532\|καὶ]]  [[G5087\|θέντες]]  [[G3588\|τὰ]]  [[G1119\|γόνατα]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G0123\|αἰγιαλὸν]]  [[G4336\|προσευξάμενοι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LUKE|LUKE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PRAYER|PRAYER]] • [[topic TYRE|TYRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.4|<< Acts 21:4]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.6|Acts 21:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

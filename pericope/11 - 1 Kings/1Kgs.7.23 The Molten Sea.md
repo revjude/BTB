@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Molten Sea
+type: Pericope
 pericope: "[[1Kgs.7.23 The Molten Sea|The Molten Sea]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 7
 book/chapter: "[[1Kgs.7|1 Kings 7]]"
-genre:
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 4
 verses:
 - "[[1Kgs.7.23]]"
 - "[[1Kgs.7.24]]"
@@ -24,7 +31,7 @@ verses:
 - "[[1Kgs.7.26]]"
 ---
 
-[[1Kgs.7|1 Kings 7:23 - 1 Kings 7:26]]
+<small>[[1Kgs.7|1 Kings 7:23-26]]</small>
 *The Molten Sea*
 
 [[1Kgs.7.23|23]] And he made a molten sea, ten cubits from the one brim to the other: \[it was\] round all about, and his height \[was\] five cubits: and a line of thirty cubits did compass it round about.

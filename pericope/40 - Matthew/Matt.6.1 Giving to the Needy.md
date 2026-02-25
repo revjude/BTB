@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Giving to the Needy
+type: Pericope
 pericope: "[[Matt.6.1 Giving to the Needy|Giving to the Needy]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 6
 book/chapter: "[[Matt.6|Matthew 6]]"
-genre:
+chronological_order: 944
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 4
 verses:
 - "[[Matt.6.1]]"
 - "[[Matt.6.2]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Matt.6.4]]"
 ---
 
-[[Matt.6|Matthew 6:1 - Matthew 6:4]]
+<small>[[Matt.6|Matthew 6:1-4]]</small>
 *Giving to the Needy*
 
 [[Matt.6.1|1]] Take heed that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven.

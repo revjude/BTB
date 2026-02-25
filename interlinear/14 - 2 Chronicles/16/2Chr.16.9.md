@@ -1,8 +1,75 @@
+---
+title: 2 Chronicles 16:9
+type: Verse
+kjv: "For the eyes of the LORD run to and fro throughout the whole earth, to shew himself strong in the behalf of them whose heart is perfect toward him. Herein thou hast done foolishly: therefore from henceforth thou shalt have wars."
+bsb: "For the eyes of the LORD roam to and fro over all the earth, to show Himself strong on behalf of those whose hearts are fully devoted to Him. You have acted foolishly in this matter. From now on, therefore, you will be at war.”"
+hebrew: "כִּ֣י יְהוָ֗ה עֵינָ֞יו מְשֹׁטְט֤וֹת בְּכָל־ הָאָ֙רֶץ֙ לְ֠הִתְחַזֵּק עִם־ לְבָבָ֥ם שָׁלֵ֛ם אֵלָ֖יו נִסְכַּ֣לְתָּ עַל־ זֹ֑את כִּ֣י מֵעַ֔תָּה יֵ֥שׁ עִמְּךָ֖ מִלְחָמֽוֹת׃"
+pericope: "[[2Chr.16.7 Hanani’s Message to Asa|Hanani’s Message to Asa]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 16
+book/chapter: "[[2Chr.16|2 Chronicles 16]]"
+chronological_order: 562
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FALSE CONFIDENCE|FALSE CONFIDENCE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H7751A]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9005]]"
+- "[[H2388G]]"
+- "[[H5973A]]"
+- "[[H3824]]"
+- "[[H9028]]"
+- "[[H8003]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H5528]]"
+- "[[H5921A]]"
+- "[[H2063]]"
+- "[[H9006]]"
+- "[[H6258]]"
+- "[[H3426]]"
+- "[[H9031]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 16:9**<big><big>[[2Chr.16.7 Hanani’s Message to Asa|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the eyes of the LORD run to and fro throughout the whole earth, to shew himself strong in the behalf of [them] whose heart [is] perfect toward him. Herein thou hast done foolishly: therefore from henceforth thou shalt have wars.
 <small><sub>**BSB:**</sub></small>
 For the eyes of the LORD roam to and fro over all the earth, to show Himself strong on behalf of those whose hearts are fully devoted to Him. You have acted foolishly in this matter. From now on, therefore, you will be at war.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3068G\|יְהוָ֗ה]] [[H5869A\|עֵינָ֞י]][[H9023\|ו]] [[H7751A\|מְשֹׁטְט֤וֹת]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H9005\|לְ֠]][[H2388G\|הִתְחַזֵּק]] [[H5973A\|עִם]][[H9014\|־]] [[H3824\|לְבָבָ֥]][[H9028\|ם]] [[H8003\|שָׁלֵ֛ם]] [[H0413\|אֵלָ֖י]][[H9033\|ו]] [[H5528\|נִסְכַּ֣לְתָּ]] [[H5921A\|עַל]][[H9014\|־]] [[H2063\|זֹ֑את]] [[H3588A\|כִּ֣י]] [[H9006\|מֵ]][[H6258\|עַ֔תָּה]] [[H3426\|יֵ֥שׁ]] [[H5973A\|עִמְּ]][[H9031\|ךָ֖]] [[H4421\|מִלְחָמֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic FAITH|FAITH]] • [[topic FALSE CONFIDENCE|FALSE CONFIDENCE]] • [[topic GOD|GOD]] • [[topic PREACHING|PREACHING]] • [[topic REPROOF|REPROOF]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.16.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.16.8|<< 2 Chronicles 16:8]]</td><td align="center" style="border:none;">[[2Chr.16|2 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.16.10|2 Chronicles 16:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

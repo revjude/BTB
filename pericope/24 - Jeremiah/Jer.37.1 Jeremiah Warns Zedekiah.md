@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jeremiah Warns Zedekiah
+type: Pericope
 pericope: "[[Jer.37.1 Jeremiah Warns Zedekiah|Jeremiah Warns Zedekiah]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 37
 book/chapter: "[[Jer.37|Jeremiah 37]]"
-genre:
+chronological_order: 760
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 10
 verses:
 - "[[Jer.37.1]]"
 - "[[Jer.37.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Jer.37.10]]"
 ---
 
-[[Jer.37|Jeremiah 37:1 - Jeremiah 37:10]]
+<small>[[Jer.37|Jeremiah 37:1-10]]</small>
 *Jeremiah Warns Zedekiah*
 
 [[Jer.37.1|1]] And king Zedekiah the son of Josiah reigned instead of Coniah the son of Jehoiakim, whom Nebuchadrezzar king of Babylon made king in the land of Judah.

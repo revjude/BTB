@@ -1,8 +1,52 @@
+---
+title: Proverbs 6:5
+type: Verse
+kjv: "Deliver thyself as a roe from the hand of the hunter, and as a bird from the hand of the fowler."
+bsb: "Free yourself, like a gazelle from the hand of the hunter, like a bird from the snare of the fowler."
+hebrew: "הִ֭נָּצֵל כִּצְבִ֣י מִיָּ֑ד וּ֝כְצִפּ֗וֹר מִיַּ֥ד יָקֽוּשׁ׃ פ"
+pericope: "[[Prov.6.1 Warnings against Foolishness|Warnings against Foolishness]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 6
+book/chapter: "[[Prov.6|Proverbs 6]]"
+chronological_order: 461
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic DEER|DEER]]"
+- "[[topic SURETY (GUARANTEE)|SURETY (GUARANTEE)]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H5337]]"
+- "[[H9004]]"
+- "[[H6643B]]"
+- "[[H9006]]"
+- "[[H3027G]]"
+- "[[H9002]]"
+- "[[H6833]]"
+- "[[H3353]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Proverbs 6:5**<big><big>[[Prov.6.1 Warnings against Foolishness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Deliver thyself as a roe from the hand [of the hunter], and as a bird from the hand of the fowler.
 <small><sub>**BSB:**</sub></small>
 Free yourself, like a gazelle from the hand of the hunter, like a bird from the snare of the fowler.
+<small><sub>**Hebrew:**</sub></small>
+[[H5337\|הִ֭נָּצֵל]] [[H9004\|כִּ]][[H6643B\|צְבִ֣י]] [[H9006\|מִ]][[H3027G\|יָּ֑ד]] [[H9002\|וּ֝]][[H9004\|כְ]][[H6833\|צִפּ֗וֹר]] [[H9006\|מִ]][[H3027G\|יַּ֥ד]] [[H3353\|יָקֽוּשׁ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEER|DEER]] • [[topic SURETY (GUARANTEE)|SURETY (GUARANTEE)]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.4|<< Proverbs 6:4]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.6|Proverbs 6:6 >>]]</td></tr></table>
 
@@ -13,7 +57,7 @@ Free yourself, like a gazelle from the hand of the hunter, like a bird from the 
 | from a hand  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3027G\|יָּ֑ד]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Yad<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and like a bird  |**<big>&#8207;[[H9002\|וּ֝]]&#8207;&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H6833\|צִפּ֗וֹר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.<small><sup>[[HR]]</sup></small> tzi.Por<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] hand of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3027G\|יַּ֥ד]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a fowler  |**<big>&#8207;[[H3353\|יָקֽוּשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ya.Kush<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a fowler  |**<big>&#8207;[[H3353\|יָקֽוּשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ya.Kush<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.4|<< Proverbs 6:4]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.6|Proverbs 6:6 >>]]</td></tr></table>
 
 

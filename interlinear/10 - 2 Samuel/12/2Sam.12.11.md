@@ -1,8 +1,75 @@
+---
+title: 2 Samuel 12:11
+type: Verse
+kjv: "Thus saith the LORD, Behold, I will raise up evil against thee out of thine own house, and I will take thy wives before thine eyes, and give them unto thy neighbour, and he shall lie with thy wives in the sight of this sun."
+bsb: "This is what the LORD says: ‘I will raise up adversity against you from your own house. Before your very eyes I will take your wives and give them to another, and he will lie with them in broad daylight."
+hebrew: "כֹּ֣ה׀ אָמַ֣ר יְהוָ֗ה הִנְנִי֩ מֵקִ֨ים עָלֶ֤יךָ רָעָה֙ מִבֵּיתֶ֔ךָ וְלָקַחְתִּ֤י אֶת־ נָשֶׁ֙יךָ֙ לְעֵינֶ֔יךָ וְנָתַתִּ֖י לְרֵעֶ֑יךָ וְשָׁכַב֙ עִם־ נָשֶׁ֔יךָ לְעֵינֵ֖י הַשֶּׁ֥מֶשׁ הַזֹּֽאת׃"
+pericope: "[[2Sam.12.1 Nathan Rebukes David|Nathan Rebukes David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 12
+book/chapter: "[[2Sam.12|2 Samuel 12]]"
+chronological_order: 411
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H6965B]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H7451I]]"
+- "[[H9006]]"
+- "[[H1004M]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0802H]]"
+- "[[H9005]]"
+- "[[H5869J]]"
+- "[[H5414G]]"
+- "[[H7453]]"
+- "[[H7901G]]"
+- "[[H5973A]]"
+- "[[H5869H]]"
+- "[[H9009]]"
+- "[[H8121]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 12:11**<big><big>[[2Sam.12.1 Nathan Rebukes David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD, Behold, I will raise up evil against thee out of thine own house, and I will take thy wives before thine eyes, and give [them] unto thy neighbour, and he shall lie with thy wives in the sight of this sun.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: ‘I will raise up adversity against you from your own house. Before your very eyes I will take your wives and give them to another, and he will lie with them in broad daylight.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֣ה]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H2005\|הִנְ]][[H9040\|נִי֩]] [[H6965B\|מֵקִ֨ים]] [[H5921A\|עָלֶ֤י]][[H9031\|ךָ]] [[H7451I\|רָעָה֙]] [[H9006\|מִ]][[H1004M\|בֵּיתֶ֔]][[H9021\|ךָ]] [[H9001\|וְ]][[H3947G\|לָקַחְתִּ֤י]] [[H0853\|אֶת]][[H9014\|־]] [[H0802H\|נָשֶׁ֙י]][[H9021\|ךָ֙]] [[H9005\|לְ]][[H5869J\|עֵינֶ֔י]][[H9021\|ךָ]] [[H9001\|וְ]][[H5414G\|נָתַתִּ֖י]] [[H9005\|לְ]][[H7453\|רֵעֶ֑י]][[H9021\|ךָ]] [[H9001\|וְ]][[H7901G\|שָׁכַב֙]] [[H5973A\|עִם]][[H9014\|־]] [[H0802H\|נָשֶׁ֔י]][[H9021\|ךָ]] [[H9005\|לְ]][[H5869H\|עֵינֵ֖י]] [[H9009\|הַ]][[H8121\|שֶּׁ֥מֶשׁ]] [[H9009\|הַ]][[H2063\|זֹּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic DAVID|DAVID]] • [[topic HOMICIDE|HOMICIDE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NATHAN|NATHAN]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.12.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.12.10|<< 2 Samuel 12:10]]</td><td align="center" style="border:none;">[[2Sam.12|2 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.12.12|2 Samuel 12:12 >>]]</td></tr></table>
 

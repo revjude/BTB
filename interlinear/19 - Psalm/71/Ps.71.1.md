@@ -1,8 +1,54 @@
+---
+title: Psalm 71:1
+type: Verse
+kjv: "In thee, O LORD, do I put my trust: let me never be put to confusion."
+bsb: "In You, O LORD, I have taken refuge; let me never be put to shame."
+hebrew: "בְּךָֽ־ יְהוָ֥ה חָסִ֑יתִי אַל־ אֵב֥וֹשָׁה לְעוֹלָֽם׃"
+pericope: "[[Ps.71.1 Be My Rock of Refuge|Be My Rock of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 71
+book/chapter: "[[Ps.71|Psalm 71]]"
+chronological_order: 428
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H2620]]"
+- "[[H0408]]"
+- "[[H0954]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 71:1**<big><big>[[Ps.71.1 Be My Rock of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In thee, O LORD, do I put my trust: let me never be put to confusion.
 <small><sub>**BSB:**</sub></small>
 In You, O LORD, I have taken refuge; let me never be put to shame.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H9031\|ךָֽ]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H2620\|חָסִ֑יתִי]] [[H0408\|אַל]][[H9014\|־]] [[H0954\|אֵב֥וֹשָׁה]] [[H9005\|לְ]][[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.71.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.70.5|<< Psalms 70:5]]</td><td align="center" style="border:none;">[[Ps.71|Psalms 71]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.2|Psalms 71:2 >>]]</td></tr></table>
 

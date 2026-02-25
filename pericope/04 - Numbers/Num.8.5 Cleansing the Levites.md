@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Cleansing the Levites
+type: Pericope
 pericope: "[[Num.8.5 Cleansing the Levites|Cleansing the Levites]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 8
 book/chapter: "[[Num.8|Numbers 8]]"
-genre:
+chronological_order: 167
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 18
 verses:
 - "[[Num.8.5]]"
 - "[[Num.8.6]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Num.8.22]]"
 ---
 
-[[Num.8|Numbers 8:5 - Numbers 8:22]]
+<small>[[Num.8|Numbers 8:5-22]]</small>
 *Cleansing the Levites*
 
 [[Num.8.5|5]] And the LORD spake unto Moses, saying,

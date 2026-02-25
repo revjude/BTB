@@ -1,10 +1,53 @@
+---
+title: 2 Corinthians 7:6
+type: Verse
+kjv: "Nevertheless God, that comforteth those that are cast down, comforted us by the coming of Titus;"
+bsb: "But God, who comforts the downcast, comforted us by the arrival of Titus,"
+greek: "ἀλλ᾽ ὁ παρακαλῶν τοὺς ταπεινοὺς παρεκάλεσεν ἡμᾶς ὁ θεὸς ἐν τῇ παρουσίᾳ Τίτου·"
+pericope: "[[2Cor.7.1 Paul’s Joy in the Corinthians|Paul’s Joy in the Corinthians]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 7
+book/chapter: "[[2Cor.7|2 Corinthians 7]]"
+chronological_order: 1080
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TITUS|TITUS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G0235]]"
+- "[[G3588]]"
+- "[[G3870]]"
+- "[[G5011]]"
+- "[[G3165]]"
+- "[[G2316]]"
+- "[[G1722]]"
+- "[[G3952]]"
+- "[[G5103]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 7:6**<big><big>[[2Cor.7.1 Paul’s Joy in the Corinthians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Nevertheless God, that comforteth those that are cast down, comforted us by the coming of Titus;
 <small><sub>**BSB:**</sub></small>
 But God, who comforts the downcast, comforted us by the arrival of Titus,
-<small><sub>**Literal:**</sub></small>
-But the [One] comforting the downcast comforted us <the> God by the coming of Titus;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.7.5|<< 2 Corinthians 7:5]]</td><td align="center" style="border:none;">[[2Cor.7|2 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.7|2 Corinthians 7:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G3588\|ὁ]]  [[G3870\|παρακαλῶν]]  [[G3588\|τοὺς]]  [[G5011\|ταπεινοὺς]]  [[G3870\|παρεκάλεσεν]]  [[G3165\|ἡμᾶς]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3952\|παρουσίᾳ]]  [[G5103\|Τίτου·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLESSING|BLESSING]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TITUS|TITUS]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.7.5|<< 2 Corinthians 7:5]]</td><td align="center" style="border:none;">[[2Cor.7|2 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.7|2 Corinthians 7:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

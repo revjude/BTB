@@ -1,10 +1,63 @@
+---
+title: Romans 1:13
+type: Verse
+kjv: "Now I would not have you ignorant, brethren, that oftentimes I purposed to come unto you, (but was let hitherto,) that I might have some fruit among you also, even as among other Gentiles."
+bsb: "I do not want you to be unaware, brothers, how often I planned to come to you (but have been prevented from visiting until now), in order that I might have a harvest among you, just as I have had among the other Gentiles."
+greek: "Οὐ θέλω δὲ ὑμᾶς ἀγνοεῖν, ἀδελφοί, ὅτι πολλάκις προεθέμην ἐλθεῖν πρὸς ὑμᾶς καὶ ἐκωλύθην ἄχρι τοῦ δεῦρο, ἵνα τινὰ καρπὸν σχῶ καὶ ἐν ὑμῖν καθὼς καὶ ἐν τοῖς λοιποῖς ἔθνεσιν."
+pericope: "[[Rom.1.8 Unashamed of the Gospel|Unashamed of the Gospel]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 1
+book/chapter: "[[Rom.1|Romans 1]]"
+chronological_order: 1087
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3756]]"
+- "[[G2309]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G0050]]"
+- "[[G0080]]"
+- "[[G3754G]]"
+- "[[G4178]]"
+- "[[G4388]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G2532]]"
+- "[[G2967]]"
+- "[[G0891]]"
+- "[[G3588]]"
+- "[[G1204]]"
+- "[[G2443]]"
+- "[[G5100]]"
+- "[[G2590]]"
+- "[[G2192]]"
+- "[[G1722]]"
+- "[[G2531]]"
+- "[[G3062]]"
+- "[[G1484]]"
+texts:
+- NKO
+---
+
 **Romans 1:13**<big><big>[[Rom.1.8 Unashamed of the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now I would not have you ignorant, brethren, that oftentimes I purposed to come unto you, (but was let hitherto,) that I might have some fruit among you also, even as among other Gentiles.
 <small><sub>**BSB:**</sub></small>
 I do not want you to be unaware, brothers, how often I planned to come to you (but have been prevented from visiting until now), in order that I might have a harvest among you, just as I have had among the other Gentiles.
-<small><sub>**Literal:**</sub></small>
-Not I do want now you to be ignorant, brothers, that many times I purposed to come to you and was hindered until the present, that some fruit I may have also among you even as even among the other Gentiles.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.12|<< Romans 1:12]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.14|Romans 1:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|Οὐ]]  [[G2309\|θέλω]]  [[G1161\|δὲ]]  [[G4771\|ὑμᾶς]]  [[G0050\|ἀγνοεῖν,]]  [[G0080\|ἀδελφοί,]]  [[G3754G\|ὅτι]]  [[G4178\|πολλάκις]]  [[G4388\|προεθέμην]]  [[G2064\|ἐλθεῖν]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G2532\|καὶ]]  [[G2967\|ἐκωλύθην]]  [[G0891\|ἄχρι]]  [[G3588\|τοῦ]]  [[G1204\|δεῦρο,]]  [[G2443\|ἵνα]]  [[G5100\|τινὰ]]  [[G2590\|καρπὸν]]  [[G2192\|σχῶ]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G2531\|καθὼς]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3062\|λοιποῖς]]  [[G1484\|ἔθνεσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.12|<< Romans 1:12]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.14|Romans 1:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

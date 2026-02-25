@@ -1,8 +1,69 @@
+---
+title: 2 Samuel 18:11
+type: Verse
+kjv: "And Joab said unto the man that told him, And, behold, thou sawest him, and why didst thou not smite him there to the ground? and I would have given thee ten shekels of silver, and a girdle."
+bsb: "“You just saw him!” Joab exclaimed. “Why did you not strike him to the ground right there? I would have given you ten shekels of silver and a warrior’s belt!”"
+hebrew: "וַיֹּ֣אמֶר יוֹאָ֗ב לָאִישׁ֙ הַמַּגִּ֣יד ל֔וֹ וְהִנֵּ֣ה רָאִ֔יתָ וּמַדּ֛וּעַ לֹֽא־ הִכִּית֥וֹ שָׁ֖ם אָ֑רְצָה וְעָלַ֗י לָ֤תֶת לְךָ֙ עֲשָׂ֣רָה כֶ֔סֶף וַחֲגֹרָ֖ה אֶחָֽת׃"
+pericope: "[[2Sam.18.1 Absalom Killed|Absalom Killed]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 18
+book/chapter: "[[2Sam.18|2 Samuel 18]]"
+chronological_order: 417
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3097G]]"
+- "[[H9005]]"
+- "[[H0376G]]"
+- "[[H9009]]"
+- "[[H5046]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H7200G]]"
+- "[[H4069]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5221]]"
+- "[[H8033G]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H5414G]]"
+- "[[H9031]]"
+- "[[H6235]]"
+- "[[H3701G]]"
+- "[[H2290B]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 18:11**<big><big>[[2Sam.18.1 Absalom Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joab said unto the man that told him, And, behold, thou sawest [him], and why didst thou not smite him there to the ground? and I would have given thee ten [shekels] of silver, and a girdle.
 <small><sub>**BSB:**</sub></small>
 “You just saw him!” Joab exclaimed. “Why did you not strike him to the ground right there? I would have given you ten shekels of silver and a warrior’s belt!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3097G\|יוֹאָ֗ב]] [[H9005\|לָ]][[H0376G\|אִישׁ֙]] [[H9009\|הַ]][[H5046\|מַּגִּ֣יד]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9002\|וְ]][[H2009\|הִנֵּ֣ה]] [[H7200G\|רָאִ֔יתָ]] [[H9002\|וּ]][[H4069\|מַדּ֛וּעַ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5221\|הִכִּית֥]][[H9033\|וֹ]] [[H8033G\|שָׁ֖ם]] [[H0776H\|אָ֑רְצָ]][[H9011\|ה]] [[H9002\|וְ]][[H5921A\|עָלַ֗]][[H9030\|י]] [[H9005\|לָ֤]][[H5414G\|תֶת]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H6235\|עֲשָׂ֣רָה]] [[H3701G\|כֶ֔סֶף]] [[H9002\|וַ]][[H2290B\|חֲגֹרָ֖ה]] [[H0259\|אֶחָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic EPHRAIM|EPHRAIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.18.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.10|<< 2 Samuel 18:10]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.12|2 Samuel 18:12 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Genesis 46:21
+type: Verse
+kjv: "And the sons of Benjamin were Belah, and Becher, and Ashbel, Gera, and Naaman, Ehi, and Rosh, Muppim, and Huppim, and Ard."
+bsb: "The sons of Benjamin: Bela, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim, and Ard."
+hebrew: "וּבְנֵ֣י בִנְיָמִ֗ן בֶּ֤לַע וָבֶ֙כֶר֙ וְאַשְׁבֵּ֔ל גֵּרָ֥א וְנַעֲמָ֖ן אֵחִ֣י וָרֹ֑אשׁ מֻפִּ֥ים וְחֻפִּ֖ים וָאָֽרְדְּ׃"
+pericope: "[[Gen.46.19 The Children of Rachel|The Children of Rachel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 46
+book/chapter: "[[Gen.46|Genesis 46]]"
+chronological_order: 88
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AHARAH|AHARAH]]"
+- "[[topic ARD|ARD]]"
+- "[[topic ASHBEL|ASHBEL]]"
+- "[[topic BECHER|BECHER]]"
+- "[[topic BELA|BELA]]"
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic EHUD|EHUD]]"
+- "[[topic GERA|GERA]]"
+- "[[topic HUPPIM|HUPPIM]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic MUPPIM|MUPPIM]]"
+- "[[topic NAAMAN|NAAMAN]]"
+- "[[topic ROSH|ROSH]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H1144G]]"
+- "[[H1106A]]"
+- "[[H1071G]]"
+- "[[H0788]]"
+- "[[H1617G]]"
+- "[[H5283G]]"
+- "[[H0278]]"
+- "[[H7220]]"
+- "[[H4649]]"
+- "[[H2650H]]"
+- "[[H0714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 46:21**<big><big>[[Gen.46.19 The Children of Rachel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Benjamin [were] Belah, and Becher, and Ashbel, Gera, and Naaman, Ehi, and Rosh, Muppim, and Huppim, and Ard.
 <small><sub>**BSB:**</sub></small>
 The sons of Benjamin: Bela, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim, and Ard.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בְנֵ֣י]] [[H1144G\|בִנְיָמִ֗ן]] [[H1106A\|בֶּ֤לַע]] [[H9002\|וָ]][[H1071G\|בֶ֙כֶר֙]] [[H9002\|וְ]][[H0788\|אַשְׁבֵּ֔ל]] [[H1617G\|גֵּרָ֥א]] [[H9002\|וְ]][[H5283G\|נַעֲמָ֖ן]] [[H0278\|אֵחִ֣י]] [[H9002\|וָ]][[H7220\|רֹ֑אשׁ]] [[H4649\|מֻפִּ֥ים]] [[H9002\|וְ]][[H2650H\|חֻפִּ֖ים]] [[H9002\|וָ]][[H0714G\|אָֽרְדְּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHARAH|AHARAH]] • [[topic ARD|ARD]] • [[topic ASHBEL|ASHBEL]] • [[topic BECHER|BECHER]] • [[topic BELA|BELA]] • [[topic BENJAMIN|BENJAMIN]] • [[topic EHUD|EHUD]] • [[topic GERA|GERA]] • [[topic HUPPIM|HUPPIM]] • [[topic ISRAEL|ISRAEL]] • [[topic JACOB|JACOB]] • [[topic MUPPIM|MUPPIM]] • [[topic NAAMAN|NAAMAN]] • [[topic ROSH|ROSH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.20|<< Genesis 46:20]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.22|Genesis 46:22 >>]]</td></tr></table>
 

@@ -1,10 +1,57 @@
+---
+title: Matthew 22:6
+type: Verse
+kjv: "And the remnant took his servants, and entreated them spitefully, and slew them."
+bsb: "The rest seized his servants, mistreated them, and killed them."
+jesus_said: "And the remnant took his servants, and entreated them spitefully, and slew them."
+greek: "οἱ δὲ λοιποὶ κρατήσαντες τοὺς δούλους αὐτοῦ ὕβρισαν καὶ ἀπέκτειναν."
+pericope: "[[Matt.22.1 The Parable of the Banquet|The Parable of the Banquet]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 22
+book/chapter: "[[Matt.22|Matthew 22]]"
+chronological_order: 993
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3062]]"
+- "[[G2902]]"
+- "[[G1401]]"
+- "[[G0846]]"
+- "[[G5195]]"
+- "[[G2532]]"
+- "[[G0615]]"
+texts:
+- NKO
+---
+
 **Matthew 22:6**<big><big>[[Matt.22.1 The Parable of the Banquet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the remnant took his servants, and entreated [them] spitefully, and slew [them].
 <small><sub>**BSB:**</sub></small>
 The rest seized his servants, mistreated them, and killed them.
-<small><sub>**Literal:**</sub></small>
-<the> And the rest having laid hold of the servants of him mistreated and killed [them].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.5|<< Matthew 22:5]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.7|Matthew 22:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G3062\|λοιποὶ]]  [[G2902\|κρατήσαντες]]  [[G3588\|τοὺς]]  [[G1401\|δούλους]]  [[G0846\|αὐτοῦ]]  [[G5195\|ὕβρισαν]]  [[G2532\|καὶ]]  [[G0615\|ἀπέκτειναν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FEASTS|FEASTS]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.5|<< Matthew 22:5]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.7|Matthew 22:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

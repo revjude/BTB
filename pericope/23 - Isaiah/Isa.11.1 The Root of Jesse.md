@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Root of Jesse
+type: Pericope
 pericope: "[[Isa.11.1 The Root of Jesse|The Root of Jesse]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 11
 book/chapter: "[[Isa.11|Isaiah 11]]"
-genre:
+chronological_order: 621
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 16
 verses:
 - "[[Isa.11.1]]"
 - "[[Isa.11.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Isa.11.16]]"
 ---
 
-[[Isa.11|Isaiah 11:1 - Isaiah 11:16]]
+<small>[[Isa.11|Isaiah 11:1-16]]</small>
 *The Root of Jesse*
 
 [[Isa.11.1|1]] And there shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots:

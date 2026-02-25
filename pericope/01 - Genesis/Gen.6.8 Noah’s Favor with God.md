@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Noah’s Favor with God
+type: Pericope
 pericope: "[[Gen.6.8 Noah’s Favor with God|Noah’s Favor with God]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 6
 book/chapter: "[[Gen.6|Genesis 6]]"
-genre:
+chronological_order: 6
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 5
 verses:
 - "[[Gen.6.8]]"
 - "[[Gen.6.9]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Gen.6.12]]"
 ---
 
-[[Gen.6|Genesis 6:8 - Genesis 6:12]]
+<small>[[Gen.6|Genesis 6:8-12]]</small>
 *Noah’s Favor with God*
 
 [[Gen.6.8|8]] But Noah found grace in the eyes of the LORD.

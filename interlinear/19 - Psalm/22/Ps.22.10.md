@@ -1,8 +1,54 @@
+---
+title: Psalm 22:10
+type: Verse
+kjv: "I was cast upon thee from the womb: thou art my God from my mother’s belly."
+bsb: "From birth I was cast upon You; from my mother’s womb You have been my God."
+hebrew: "עָ֭לֶיךָ הָשְׁלַ֣כְתִּי מֵרָ֑חֶם מִבֶּ֥טֶן אִ֝מִּ֗י אֵ֣לִי אָֽתָּה׃"
+pericope: "[[Ps.22.1 The Psalm of the Cross|The Psalm of the Cross]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 22
+book/chapter: "[[Ps.22|Psalm 22]]"
+chronological_order: 355
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H7993]]"
+- "[[H9006]]"
+- "[[H7358]]"
+- "[[H0990H]]"
+- "[[H0517]]"
+- "[[H9020]]"
+- "[[H0410G]]"
+- "[[H0859A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 22:10**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I was cast upon thee from the womb: thou [art] my God from my mother’s belly.
 <small><sub>**BSB:**</sub></small>
 From birth I was cast upon You; from my mother’s womb You have been my God.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עָ֭לֶי]][[H9031\|ךָ]] [[H7993\|הָשְׁלַ֣כְתִּי]] [[H9006\|מֵ]][[H7358\|רָ֑חֶם]] [[H9006\|מִ]][[H0990H\|בֶּ֥טֶן]] [[H0517\|אִ֝מִּ֗]][[H9020\|י]] [[H0410G\|אֵ֣לִ]][[H9020\|י]] [[H0859A\|אָֽתָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.22.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.22.9|<< Psalms 22:9]]</td><td align="center" style="border:none;">[[Ps.22|Psalms 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.22.11|Psalms 22:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

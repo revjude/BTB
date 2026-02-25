@@ -1,8 +1,74 @@
+---
+title: Joshua 2:11
+type: Verse
+kjv: "And as soon as we had heard these things, our hearts did melt, neither did there remain any more courage in any man, because of you: for the LORD your God, he is God in heaven above, and in earth beneath."
+bsb: "When we heard this, our hearts melted and everyone’s courage failed because of you, for the LORD your God is God in the heavens above and on the earth below."
+hebrew: "וַנִּשְׁמַע֙ וַיִּמַּ֣ס לְבָבֵ֔נוּ וְלֹא־ קָ֨מָה ע֥וֹד ר֛וּחַ בְּאִ֖ישׁ מִפְּנֵיכֶ֑ם כִּ֚י יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם ה֤וּא אֱלֹהִים֙ בַּשָּׁמַ֣יִם מִמַּ֔עַל וְעַל־ הָאָ֖רֶץ מִתָּֽחַת׃"
+pericope: "[[Josh.2.8 The Promise to Rahab|The Promise to Rahab]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 2
+book/chapter: "[[Josh.2|Joshua 2]]"
+chronological_order: 232
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic RECONNOISSANCE|RECONNOISSANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H4549]]"
+- "[[H3824]]"
+- "[[H9025]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6965B]]"
+- "[[H5750]]"
+- "[[H7307G]]"
+- "[[H9003]]"
+- "[[H0376I]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H9026]]"
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H1931]]"
+- "[[H8064]]"
+- "[[H4605]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H8478G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 2:11**<big><big>[[Josh.2.8 The Promise to Rahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as soon as we had heard [these things], our hearts did melt, neither did there remain any more courage in any man, because of you: for the LORD your God, he [is] God in heaven above, and in earth beneath.
 <small><sub>**BSB:**</sub></small>
 When we heard this, our hearts melted and everyone’s courage failed because of you, for the LORD your God is God in the heavens above and on the earth below.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|נִּשְׁמַע֙]] [[H9001\|וַ]][[H4549\|יִּמַּ֣ס]] [[H3824\|לְבָבֵ֔]][[H9025\|נוּ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H6965B\|קָ֨מָה]] [[H5750\|ע֥וֹד]] [[H7307G\|ר֛וּחַ]] [[H9003\|בְּ]][[H0376I\|אִ֖ישׁ]] [[H9006\|מִ]][[H6440I\|פְּנֵי]][[H9026\|כֶ֑ם]] [[H3588A\|כִּ֚י]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶ֔ם]] [[H1931\|ה֤וּא]] [[H0430G\|אֱלֹהִים֙]] [[H9003\|בַּ]][[H8064\|שָּׁמַ֣יִם]] [[H9006\|מִ]][[H4605\|מַּ֔עַל]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9006\|מִ]][[H8478G\|תָּֽחַת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic COWARDICE|COWARDICE]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic KINDNESS|KINDNESS]] • [[topic MIRACLES|MIRACLES]] • [[topic RECONNOISSANCE|RECONNOISSANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.10|<< Joshua 2:10]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.12|Joshua 2:12 >>]]</td></tr></table>
 

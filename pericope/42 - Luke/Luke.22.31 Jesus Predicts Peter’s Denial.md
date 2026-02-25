@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Predicts Peter’s Denial
+type: Pericope
 pericope: "[[Luke.22.31 Jesus Predicts Peter’s Denial|Jesus Predicts Peter’s Denial]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Luke
 chapter: 22
 book/chapter: "[[Luke.22|Luke 22]]"
-genre:
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 8
 verses:
 - "[[Luke.22.31]]"
 - "[[Luke.22.32]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Luke.22.38]]"
 ---
 
-[[Luke.22|Luke 22:31 - Luke 22:38]]
+<small>[[Luke.22|Luke 22:31-38]]</small>
 *Jesus Predicts Peter’s Denial*
 
 [[Luke.22.31|31]] And the Lord said, Simon, Simon, behold, Satan hath desired \[to have\] you, that he may sift \[you\] as wheat:

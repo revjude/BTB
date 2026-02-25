@@ -1,8 +1,66 @@
+---
+title: Ezekiel 20:32
+type: Verse
+kjv: "And that which cometh into your mind shall not be at all, that ye say, We will be as the heathen, as the families of the countries, to serve wood and stone."
+bsb: "When you say, ‘Let us be like the nations, like the peoples of the lands, serving wood and stone,’ what you have in mind will never come to pass."
+hebrew: "וְהָֽעֹלָה֙ עַל־ ר֣וּחֲכֶ֔ם הָי֖וֹ לֹ֣א תִֽהְיֶ֑ה אֲשֶׁ֣ר׀ אַתֶּ֣ם אֹמְרִ֗ים נִֽהְיֶ֤ה כַגּוֹיִם֙ כְּמִשְׁפְּח֣וֹת הָאֲרָצ֔וֹת לְשָׁרֵ֖ת עֵ֥ץ וָאָֽבֶן׃"
+pericope: "[[Ezek.20.27 Israel’s Rebellion in the Land|Israel’s Rebellion in the Land]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IDOL|IDOL]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7307G]]"
+- "[[H9026]]"
+- "[[H1961]]"
+- "[[H3808]]"
+- "[[H0834A]]"
+- "[[H9015]]"
+- "[[H0859D]]"
+- "[[H0559]]"
+- "[[H9004]]"
+- "[[H1471A]]"
+- "[[H4940]]"
+- "[[H0776G]]"
+- "[[H9005]]"
+- "[[H8334]]"
+- "[[H6086G]]"
+- "[[H0068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:32**<big><big>[[Ezek.20.27 Israel’s Rebellion in the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And that which cometh into your mind shall not be at all, that ye say, We will be as the heathen, as the families of the countries, to serve wood and stone.
 <small><sub>**BSB:**</sub></small>
 When you say, ‘Let us be like the nations, like the peoples of the lands, serving wood and stone,’ what you have in mind will never come to pass.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָֽ]][[H5927G\|עֹלָה֙]] [[H5921A\|עַל]][[H9014\|־]] [[H7307G\|ר֣וּחֲ]][[H9026\|כֶ֔ם]] [[H1961\|הָי֖וֹ]] [[H3808\|לֹ֣א]] [[H1961\|תִֽהְיֶ֑ה]] [[H0834A\|אֲשֶׁ֣ר]][[H9015\|׀]] [[H0859D\|אַתֶּ֣ם]] [[H0559\|אֹמְרִ֗ים]] [[H1961\|נִֽהְיֶ֤ה]] [[H9004\|כַ]][[H1471A\|גּוֹיִם֙]] [[H9004\|כְּ]][[H4940\|מִשְׁפְּח֣וֹת]] [[H9009\|הָ]][[H0776G\|אֲרָצ֔וֹת]] [[H9005\|לְ]][[H8334\|שָׁרֵ֖ת]] [[H6086G\|עֵ֥ץ]] [[H9002\|וָ]][[H0068G\|אָֽבֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOL|IDOL]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.31|<< Ezekiel 20:31]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.33|Ezekiel 20:33 >>]]</td></tr></table>
 

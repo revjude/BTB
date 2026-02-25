@@ -1,10 +1,60 @@
+---
+title: 1 Corinthians 16:12
+type: Verse
+kjv: "As touching our brother Apollos, I greatly desired him to come unto you with the brethren: but his will was not at all to come at this time; but he will come when he shall have convenient time."
+bsb: "Now about our brother Apollos: I strongly urged him to go to you with the brothers. He was not at all inclined to go now, but he will go when he has the opportunity."
+greek: "Περὶ δὲ Ἀπολλῶ τοῦ ἀδελφοῦ, πολλὰ παρεκάλεσα αὐτὸν ἵνα ἔλθῃ πρὸς ὑμᾶς μετὰ τῶν ἀδελφῶν· καὶ πάντως οὐκ ἦν θέλημα ἵνα νῦν ἔλθῃ, ἐλεύσεται δὲ ὅταν εὐκαιρήσῃ.¶"
+pericope: "[[1Cor.16.10 Timothy and Apollos|Timothy and Apollos]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 16
+book/chapter: "[[1Cor.16|1 Corinthians 16]]"
+chronological_order: 1073
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic APOLLOS|APOLLOS]]"
+strongs:
+- "[[G4012]]"
+- "[[G1161]]"
+- "[[G0625]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G4183]]"
+- "[[G3870]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G3326]]"
+- "[[G2532]]"
+- "[[G3843]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G2307]]"
+- "[[G3568]]"
+- "[[G3752]]"
+- "[[G2119]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 16:12**<big><big>[[1Cor.16.10 Timothy and Apollos|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As touching [our] brother Apollos, I greatly desired him to come unto you with the brethren: but his will was not at all to come at this time; but he will come when he shall have convenient time.
 <small><sub>**BSB:**</sub></small>
 Now about our brother Apollos: I strongly urged him to go to you with the brothers. He was not at all inclined to go now, but he will go when he has the opportunity.
-<small><sub>**Literal:**</sub></small>
-Concerning now Apollos the brother, greatly I exhorted him that he may go to you with the brothers; and at all not was [his] will that now he may come, he will come however when he may have opportunity.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.11|<< 1 Corinthians 16:11]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.13|1 Corinthians 16:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4012\|Περὶ]]  [[G1161\|δὲ]]  [[G0625\|Ἀπολλῶ]]  [[G3588\|τοῦ]]  [[G0080\|ἀδελφοῦ,]]  [[G4183\|πολλὰ]]  [[G3870\|παρεκάλεσα]]  [[G0846\|αὐτὸν]]  [[G2443\|ἵνα]]  [[G2064\|ἔλθῃ]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G0080\|ἀδελφῶν·]]  [[G2532\|καὶ]]  [[G3843\|πάντως]]  [[G3756\|οὐκ]]  [[G1510\|ἦν]]  [[G2307\|θέλημα]]  [[G2443\|ἵνα]]  [[G3568\|νῦν]]  [[G2064\|ἔλθῃ,]]  [[G2064\|ἐλεύσεται]]  [[G1161\|δὲ]]  [[G3752\|ὅταν]]  [[G2119\|εὐκαιρήσῃ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOLLOS|APOLLOS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.11|<< 1 Corinthians 16:11]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.13|1 Corinthians 16:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

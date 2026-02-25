@@ -1,10 +1,65 @@
+---
+title: Matthew 6:29
+type: Verse
+kjv: "And yet I say unto you, That even Solomon in all his glory was not arrayed like one of these."
+bsb: "Yet I tell you that not even Solomon in all his glory was adorned like one of these."
+jesus_said: "And yet I say unto you, That even Solomon in all his glory was not arrayed like one of these."
+greek: "λέγω δὲ ὑμῖν ὅτι οὐδὲ Σολομὼν ἐν πάσῃ τῇ δόξῃ αὐτοῦ περιεβάλετο ὡς ἓν τούτων."
+pericope: "[[Matt.6.25 Do Not Worry|Do Not Worry]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 6
+book/chapter: "[[Matt.6|Matthew 6]]"
+chronological_order: 944
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BOTANY|BOTANY]]"
+- "[[topic CARE|CARE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic LILY|LILY]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TROUBLE|TROUBLE]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G3761]]"
+- "[[G4672G]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1391]]"
+- "[[G0846]]"
+- "[[G4016]]"
+- "[[G5613]]"
+- "[[G1520]]"
+- "[[G3778]]"
+texts:
+- NKO
+---
+
 **Matthew 6:29**<big><big>[[Matt.6.25 Do Not Worry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And yet I say unto you, That even Solomon in all his glory was not arrayed like one of these.
 <small><sub>**BSB:**</sub></small>
 Yet I tell you that not even Solomon in all his glory was adorned like one of these.
-<small><sub>**Literal:**</sub></small>
-I say however to you that not even Solomon in all the glory of him was adorned like one of these.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.28|<< Matthew 6:28]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.30|Matthew 6:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγω]]  [[G1161\|δὲ]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G3761\|οὐδὲ]]  [[G4672G\|Σολομὼν]]  [[G1722\|ἐν]]  [[G3956\|πάσῃ]]  [[G3588\|τῇ]]  [[G1391\|δόξῃ]]  [[G0846\|αὐτοῦ]]  [[G4016\|περιεβάλετο]]  [[G5613\|ὡς]]  [[G1520\|ἓν]]  [[G3778\|τούτων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOTANY|BOTANY]] • [[topic CARE|CARE]] • [[topic FAITH|FAITH]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic LILY|LILY]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RELIGION|RELIGION]] • [[topic SOLOMON|SOLOMON]] • [[topic TROUBLE|TROUBLE]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.28|<< Matthew 6:28]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.30|Matthew 6:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,65 @@
+---
+title: Mark 8:35
+type: Verse
+kjv: "For whosoever will save his life shall lose it; but whosoever shall lose his life for my sake and the gospel’s, the same shall save it."
+bsb: "For whoever wants to save his life will lose it, but whoever loses his life for My sake and for the gospel will save it."
+jesus_said: "For whosoever will save his life shall lose it; but whosoever shall lose his life for my sake and the gospel’s, the same shall save it."
+greek: "ὃς γὰρ ἐὰν θέλῃ τὴν ψυχὴν αὐτοῦ σῶσαι, ἀπολέσει αὐτήν· ὃς δ᾽ ἂν ἀπολέσει τὴν ψυχὴν αὐτοῦ ἕνεκεν ἐμοῦ καὶ τοῦ εὐαγγελίου, οὗτος σώσει αὐτήν."
+pericope: "[[Mark.8.34 Take Up Your Cross|Take Up Your Cross]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PARADOX|PARADOX]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic STOICISM|STOICISM]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G3739]]"
+- "[[G1063]]"
+- "[[G1437]]"
+- "[[G2309]]"
+- "[[G3588]]"
+- "[[G5590H]]"
+- "[[G0846]]"
+- "[[G4982]]"
+- "[[G0622]]"
+- "[[G1161]]"
+- "[[G0302]]"
+- "[[G1752]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2098]]"
+- "[[G3778]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+- k
+---
+
 **Mark 8:35**<big><big>[[Mark.8.34 Take Up Your Cross|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For whosoever will save his life shall lose it; but whosoever shall lose his life for my sake and the gospel’s, the same shall save it.
 <small><sub>**BSB:**</sub></small>
 For whoever wants to save his life will lose it, but whoever loses his life for My sake and for the gospel will save it.
-<small><sub>**Literal:**</sub></small>
-Who[ever] for if shall desire <the> life his to save, will lose it; who[ever] now maybe will lose the life of him on account of Me and of the gospel, this he will save it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.34|<< Mark 8:34]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.36|Mark 8:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G1063\|γὰρ]]  [[G1437\|ἐὰν]]  [[G2309\|θέλῃ]]  [[G3588\|τὴν]]  [[G5590H\|ψυχὴν]]  [[G0846\|αὐτοῦ]]  [[G4982\|σῶσαι,]]  [[G0622\|ἀπολέσει]]  [[G0846\|αὐτήν·]]  [[G3739\|ὃς]]  [[G1161\|δ᾽]]  [[G0302\|ἂν]]  [[G0622\|ἀπολέσει]]  [[G3588\|τὴν]]  [[G5590H\|ψυχὴν]]  [[G0846\|αὐτοῦ]]  [[G1752\|ἕνεκεν]]  [[G1473\|ἐμοῦ]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G2098\|εὐαγγελίου,]]  [[G3778\|οὗτος]]  [[G4982\|σώσει]]  [[G0846\|αὐτήν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PARADOX|PARADOX]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic STOICISM|STOICISM]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.34|<< Mark 8:34]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.36|Mark 8:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

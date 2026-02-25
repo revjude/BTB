@@ -1,8 +1,71 @@
+---
+title: Isaiah 36:2
+type: Verse
+kjv: "And the king of Assyria sent Rabshakeh from Lachish to Jerusalem unto king Hezekiah with a great army. And he stood by the conduit of the upper pool in the highway of the fuller’s field."
+bsb: "And the king of Assyria sent the Rabshakeh, with a great army, from Lachish to King Hezekiah at Jerusalem. And he stopped by the aqueduct of the upper pool, on the road to the Launderer’s Field."
+hebrew: "וַיִּשְׁלַ֣ח מֶֽלֶךְ־ אַשּׁ֣וּר׀ אֶת־ רַב־ שָׁקֵ֨ה מִלָּכִ֧ישׁ יְרוּשָׁלְַ֛מָה אֶל־ הַמֶּ֥לֶךְ חִזְקִיָּ֖הוּ בְּחֵ֣יל כָּבֵ֑ד וַֽיַּעֲמֹ֗ד בִּתְעָלַת֙ הַבְּרֵכָ֣ה הָעֶלְיוֹנָ֔ה בִּמְסִלַּ֖ת שְׂדֵ֥ה כוֹבֵֽס׃"
+pericope: "[[Isa.36.1 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 36
+book/chapter: "[[Isa.36|Isaiah 36]]"
+chronological_order: 663
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic FULLER'S FIELD|FULLER'S FIELD]]"
+- "[[topic GIHON|GIHON]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic POOL|POOL]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H0804G]]"
+- "[[H9015]]"
+- "[[H0853]]"
+- "[[H7262]]"
+- "[[H9006]]"
+- "[[H3923]]"
+- "[[H3389]]"
+- "[[H9011]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H2396G]]"
+- "[[H9003]]"
+- "[[H2428A]]"
+- "[[H3515]]"
+- "[[H5975G]]"
+- "[[H8585A]]"
+- "[[H1295H]]"
+- "[[H5945A]]"
+- "[[H4546]]"
+- "[[H7704H]]"
+- "[[H3526G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 36:2**<big><big>[[Isa.36.1 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Assyria sent Rabshakeh from Lachish to Jerusalem unto king Hezekiah with a great army. And he stood by the conduit of the upper pool in the highway of the fuller’s field.
 <small><sub>**BSB:**</sub></small>
 And the king of Assyria sent the Rabshakeh, with a great army, from Lachish to King Hezekiah at Jerusalem. And he stopped by the aqueduct of the upper pool, on the road to the Launderer’s Field.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֣ח]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0804G\|אַשּׁ֣וּר]][[H9015\|׀]] [[H0853\|אֶת]][[H9014\|־]] [[H7262\|רַב]][[H9014\|־]] [[H7262\|שָׁקֵ֨ה]] [[H9006\|מִ]][[H3923\|לָּכִ֧ישׁ]] [[H3389\|יְרוּשָׁלְַ֛מָ]][[H9011\|ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֥לֶךְ]] [[H2396G\|חִזְקִיָּ֖הוּ]] [[H9003\|בְּ]][[H2428A\|חֵ֣יל]] [[H3515\|כָּבֵ֑ד]] [[H9001\|וַֽ]][[H5975G\|יַּעֲמֹ֗ד]] [[H9003\|בִּ]][[H8585A\|תְעָלַת֙]] [[H9009\|הַ]][[H1295H\|בְּרֵכָ֣ה]] [[H9009\|הָ]][[H5945A\|עֶלְיוֹנָ֔ה]] [[H9003\|בִּ]][[H4546\|מְסִלַּ֖ת]] [[H7704H\|שְׂדֵ֥ה]] [[H3526G\|כוֹבֵֽס]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FULLER'S FIELD|FULLER'S FIELD]] • [[topic GIHON|GIHON]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic POOL|POOL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.36.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.36.1|<< Isaiah 36:1]]</td><td align="center" style="border:none;">[[Isa.36|Isaiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.36.3|Isaiah 36:3 >>]]</td></tr></table>
 

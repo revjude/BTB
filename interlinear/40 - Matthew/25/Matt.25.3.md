@@ -1,10 +1,68 @@
+---
+title: Matthew 25:3
+type: Verse
+kjv: "They that were foolish took their lamps, and took no oil with them:"
+bsb: "The foolish ones took their lamps but did not take along any extra oil."
+jesus_said: "They that were foolish took their lamps, and took no oil with them:"
+greek: "αἱ γὰρ μωραὶ λαβοῦσαι τὰς λαμπάδας αὐτῶν οὐκ ἔλαβον μεθ᾽ ἑαυτῶν ἔλαιον,"
+pericope: "[[Matt.25.1 The Parable of the Ten Virgins|The Parable of the Ten Virgins]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BRIDEGROOM|BRIDEGROOM]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic OIL|OIL]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic VIRGIN|VIRGIN]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G3474]]"
+- "[[G2983]]"
+- "[[G2985]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G3326]]"
+- "[[G1438]]"
+- "[[G1637]]"
+texts:
+- N(k)O
+- no
+- NKO
+---
+
 **Matthew 25:3**<big><big>[[Matt.25.1 The Parable of the Ten Virgins|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 They that [were] foolish took their lamps, and took no oil with them:
 <small><sub>**BSB:**</sub></small>
 The foolish ones took their lamps but did not take along any extra oil.
-<small><sub>**Literal:**</sub></small>
-Those [who] for foolish having taken the lamps of them not did take with their own oil,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.2|<< Matthew 25:2]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.4|Matthew 25:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|αἱ]]  [[G1063\|γὰρ]]  [[G3474\|μωραὶ]]  [[G2983\|λαβοῦσαι]]  [[G3588\|τὰς]]  [[G2985\|λαμπάδας]]  [[G0846\|αὐτῶν]]  [[G3756\|οὐκ]]  [[G2983\|ἔλαβον]]  [[G3326\|μεθ᾽]]  [[G1438\|ἑαυτῶν]]  [[G1637\|ἔλαιον,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDEGROOM|BRIDEGROOM]] • [[topic FOOL|FOOL]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic MARRIAGE|MARRIAGE]] • [[topic OIL|OIL]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PROCRASTINATION|PROCRASTINATION]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SYMBOLS|SYMBOLS]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic VIRGIN|VIRGIN]] • [[topic WISDOM|WISDOM]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.2|<< Matthew 25:2]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.4|Matthew 25:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,60 @@
+---
+title: 2 Kings 15:28
+type: Verse
+kjv: "And he did that which was evil in the sight of the LORD: he departed not from the sins of Jeroboam the son of Nebat, who made Israel to sin."
+bsb: "And he did evil in the sight of the LORD and did not turn away from the sins that Jeroboam son of Nebat had caused Israel to commit."
+hebrew: "וַיַּ֥עַשׂ הָרַ֖ע בְּעֵינֵ֣י יְהוָ֑ה לֹ֣א סָ֗ר מִן־ חַטֹּאות֙ יָרָבְעָ֣ם בֶּן־ נְבָ֔ט אֲשֶׁ֥ר הֶחֱטִ֖יא אֶת־ יִשְׂרָאֵֽל׃"
+pericope: "[[2Kgs.15.27 Pekah Reigns in Israel|Pekah Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 15
+book/chapter: "[[2Kgs.15|2 Kings 15]]"
+chronological_order: 607
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~767–735 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H5493H]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H2403B]]"
+- "[[H3379G]]"
+- "[[H1121A]]"
+- "[[H5028]]"
+- "[[H0834A]]"
+- "[[H2398]]"
+- "[[H0853]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 15:28**<big><big>[[2Kgs.15.27 Pekah Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he did [that which was] evil in the sight of the LORD: he departed not from the sins of Jeroboam the son of Nebat, who made Israel to sin.
 <small><sub>**BSB:**</sub></small>
 And he did evil in the sight of the LORD and did not turn away from the sins that Jeroboam son of Nebat had caused Israel to commit.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֥עַשׂ]] [[H9009\|הָ]][[H7451H\|רַ֖ע]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H3808\|לֹ֣א]] [[H5493H\|סָ֗ר]] [[H4480A\|מִן]][[H9014\|־]] [[H2403B\|חַטֹּאות֙]] [[H3379G\|יָרָבְעָ֣ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5028\|נְבָ֔ט]] [[H0834A\|אֲשֶׁ֥ר]] [[H2398\|הֶחֱטִ֖יא]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.27|<< 2 Kings 15:27]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.29|2 Kings 15:29 >>]]</td></tr></table>
 

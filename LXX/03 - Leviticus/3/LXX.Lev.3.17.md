@@ -1,6 +1,59 @@
+---
+title: LXX Leviticus 3:17
+type: Verse
+lxx: "everlasting law unto  your generations, in every dwelling of yours -- all fat and all blood you shall not eat."
+greek: "νόμιμον αιώνιον εις τας γενεάς υμών εν πάση κατοικία υμών παν στέαρ και παν αίμα ουκ έδεσθε"
+original_language: Greek
+testament: Old
+book: Leviticus
+chapter: 3
+book/chapter: "[[Lev.3|Leviticus 3]]"
+chronological_order: 135
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic FAT|FAT]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[G8403]]"
+- "[[G0166]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1074]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G2733]]"
+- "[[G1473]]"
+- "[[G3956]]"
+- "[[G9155]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G0129]]"
+- "[[G3756]]"
+- "[[G2068]]"
+---
+
 **LXX Leviticus 3:17** 
 <small><sub>**LXX:**</sub></small>
 everlasting law unto  your generations, in every dwelling of yours -- all fat and all blood you shall not eat. 
+<small><sub>**Greek:**</sub></small>
+[[G8403\|νόμιμον]] [[G0166\|αιώνιον]] [[G1519\|εις]] [[G3588\|τας]] [[G1074\|γενεάς]] [[G1473\|υμών]] [[G1722\|εν]] [[G3956\|πάση]] [[G2733\|κατοικία]] [[G1473\|υμών]] [[G3956\|παν]] [[G9155\|στέαρ]] [[G2532\|και]] [[G3956\|παν]] [[G0129\|αίμα]] [[G3756\|ουκ]] [[G2068\|έδεσθε]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic FAT|FAT]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**MT:**</sub></small>
 [[Lev.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.3.16|<< Leviticus 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.4.1|Leviticus 4:1 >>]]</td></tr></table>
 
@@ -22,6 +75,6 @@ everlasting law unto  your generations, in every dwelling of yours -- all fat an
 | blood | **<big>[[G0129\|αίμα]]</big>** |
 | you shall not | **<big>[[G3756\|ουκ]]</big>** |
 | eat. | **<big>[[G2068\|έδεσθε]]</big>** |
-[[Lev.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.3.16|<< Leviticus 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.4.1|Leviticus 4:1 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.3.16|<< Leviticus 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.4.1|Leviticus 4:1 >>]]</td></tr></table>
 
 

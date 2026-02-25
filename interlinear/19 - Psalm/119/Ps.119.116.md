@@ -1,8 +1,60 @@
+---
+title: Psalm 119:116
+type: Verse
+kjv: "Uphold me according unto thy word, that I may live: and let me not be ashamed of my hope."
+bsb: "Sustain me as You promised, that I may live; let me not be ashamed of my hope."
+hebrew: "סָמְכֵ֣נִי כְאִמְרָתְךָ֣ וְאֶֽחְיֶ֑ה וְאַל־ תְּ֝בִישֵׁ֗נִי מִשִּׂבְרִֽי׃"
+pericope: "[[Ps.119.113 Your Word Is a Lamp to My Feet - SAMECH|Your Word Is a Lamp to My Feet - SAMECH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H5564]]"
+- "[[H9030]]"
+- "[[H9004]]"
+- "[[H0565A]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H2421]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0954]]"
+- "[[H9006]]"
+- "[[H7664]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:116**<big><big>[[Ps.119.113 Your Word Is a Lamp to My Feet - SAMECH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Uphold me according unto thy word, that I may live: and let me not be ashamed of my hope.
 <small><sub>**BSB:**</sub></small>
 Sustain me as You promised, that I may live; let me not be ashamed of my hope.
+<small><sub>**Hebrew:**</sub></small>
+[[H5564\|סָמְכֵ֣]][[H9030\|נִי]] [[H9004\|כְ]][[H0565A\|אִמְרָתְ]][[H9021\|ךָ֣]] [[H9002\|וְ]][[H2421\|אֶֽחְיֶ֑ה]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H0954\|תְּ֝בִישֵׁ֗]][[H9030\|נִי]] [[H9006\|מִ]][[H7664\|שִּׂבְרִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic HOPE|HOPE]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.116|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.115|<< Psalms 119:115]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.117|Psalms 119:117 >>]]</td></tr></table>
 

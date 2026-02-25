@@ -1,8 +1,60 @@
+---
+title: 2 Samuel 17:28
+type: Verse
+kjv: "Brought beds, and basons, and earthen vessels, and wheat, and barley, and flour, and parched corn, and beans, and lentiles, and parched pulse,"
+bsb: "They brought beds, basins, and earthen vessels, as well as wheat, barley, flour, roasted grain, beans, lentils,"
+hebrew: "מִשְׁכָּ֤ב וְסַפּוֹת֙ וּכְלִ֣י יוֹצֵ֔ר וְחִטִּ֥ים וּשְׂעֹרִ֖ים וְקֶ֣מַח וְקָלִ֑י וּפ֥וֹל וַעֲדָשִׁ֖ים וְקָלִֽי׃"
+pericope: "[[2Sam.17.15 Hushai’s Warning Saves David|Hushai’s Warning Saves David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 17
+book/chapter: "[[2Sam.17|2 Samuel 17]]"
+chronological_order: 416
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic BARZILLAI|BARZILLAI]]"
+- "[[topic BEAN|BEAN]]"
+- "[[topic CORN|CORN]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic LENTILES|LENTILES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MAHANAIM|MAHANAIM]]"
+strongs:
+- "[[H4904]]"
+- "[[H9002]]"
+- "[[H5592A]]"
+- "[[H3627]]"
+- "[[H3335H]]"
+- "[[H2406]]"
+- "[[H8184]]"
+- "[[H7058]]"
+- "[[H7039]]"
+- "[[H6321]]"
+- "[[H5742]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 17:28**<big><big>[[2Sam.17.15 Hushai’s Warning Saves David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Brought beds, and basons, and earthen vessels, and wheat, and barley, and flour, and parched [corn], and beans, and lentiles, and parched [pulse],
 <small><sub>**BSB:**</sub></small>
 They brought beds, basins, and earthen vessels, as well as wheat, barley, flour, roasted grain, beans, lentils,
+<small><sub>**Hebrew:**</sub></small>
+[[H4904\|מִשְׁכָּ֤ב]] [[H9002\|וְ]][[H5592A\|סַפּוֹת֙]] [[H9002\|וּ]][[H3627\|כְלִ֣י]] [[H3335H\|יוֹצֵ֔ר]] [[H9002\|וְ]][[H2406\|חִטִּ֥ים]] [[H9002\|וּ]][[H8184\|שְׂעֹרִ֖ים]] [[H9002\|וְ]][[H7058\|קֶ֣מַח]] [[H9002\|וְ]][[H7039\|קָלִ֑י]] [[H9002\|וּ]][[H6321\|פ֥וֹל]] [[H9002\|וַ]][[H5742\|עֲדָשִׁ֖ים]] [[H9002\|וְ]][[H7039\|קָלִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARZILLAI|BARZILLAI]] • [[topic BEAN|BEAN]] • [[topic CORN|CORN]] • [[topic DAVID|DAVID]] • [[topic LENTILES|LENTILES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic LOVE|LOVE]] • [[topic MAHANAIM|MAHANAIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.17.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.27|<< 2 Samuel 17:27]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.29|2 Samuel 17:29 >>]]</td></tr></table>
 

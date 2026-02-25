@@ -1,8 +1,62 @@
+---
+title: 1 Samuel 30:10
+type: Verse
+kjv: "But David pursued, he and four hundred men: for two hundred abode behind, which were so faint that they could not go over the brook Besor."
+bsb: "because two hundred men were too exhausted to cross the brook. But David and four hundred men continued in pursuit."
+hebrew: "וַיִּרְדֹּ֣ף דָּוִ֔ד ה֖וּא וְאַרְבַּע־ מֵא֣וֹת אִ֑ישׁ וַיַּֽעַמְדוּ֙ מָאתַ֣יִם אִ֔ישׁ אֲשֶׁ֣ר פִּגְּר֔וּ מֵעֲבֹ֖ר אֶת־ נַ֥חַל הַבְּשֽׂוֹר׃"
+pericope: "[[1Sam.30.7 David Destroys the Amalekites|David Destroys the Amalekites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 30
+book/chapter: "[[1Sam.30|1 Samuel 30]]"
+chronological_order: 309
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABIATHAR|ABIATHAR]]"
+- "[[topic ABIGAIL|ABIGAIL]]"
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic BESOR|BESOR]]"
+strongs:
+- "[[H9001]]"
+- "[[H7291]]"
+- "[[H1732]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H0702]]"
+- "[[H9014]]"
+- "[[H3967]]"
+- "[[H0376G]]"
+- "[[H5975G]]"
+- "[[H0834A]]"
+- "[[H6296]]"
+- "[[H9006]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H5158N]]"
+- "[[H9009]]"
+- "[[H1308]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 30:10**<big><big>[[1Sam.30.7 David Destroys the Amalekites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But David pursued, he and four hundred men: for two hundred abode behind, which were so faint that they could not go over the brook Besor.
 <small><sub>**BSB:**</sub></small>
 because two hundred men were too exhausted to cross the brook. But David and four hundred men continued in pursuit.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7291\|יִּרְדֹּ֣ף]] [[H1732\|דָּוִ֔ד]] [[H1931\|ה֖וּא]] [[H9002\|וְ]][[H0702\|אַרְבַּע]][[H9014\|־]] [[H3967\|מֵא֣וֹת]] [[H0376G\|אִ֑ישׁ]] [[H9001\|וַ]][[H5975G\|יַּֽעַמְדוּ֙]] [[H3967\|מָאתַ֣יִם]] [[H0376G\|אִ֔ישׁ]] [[H0834A\|אֲשֶׁ֣ר]] [[H6296\|פִּגְּר֔וּ]] [[H9006\|מֵ]][[H5674A\|עֲבֹ֖ר]] [[H0853\|אֶת]][[H9014\|־]] [[H5158N\|נַ֥חַל]] [[H9009\|הַ]][[H1308\|בְּשֽׂוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIATHAR|ABIATHAR]] • [[topic ABIGAIL|ABIGAIL]] • [[topic AMALEKITES|AMALEKITES]] • [[topic BESOR|BESOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.30.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.9|<< 1 Samuel 30:9]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.11|1 Samuel 30:11 >>]]</td></tr></table>
 

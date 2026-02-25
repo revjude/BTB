@@ -1,8 +1,74 @@
+---
+title: Genesis 13:14
+type: Verse
+kjv: "And the LORD said unto Abram, after that Lot was separated from him, Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward:"
+bsb: "After Lot had departed, the LORD said to Abram, “Now lift up your eyes from the place where you are, and look to the north and south and east and west,"
+hebrew: "וַֽיהוָ֞ה אָמַ֣ר אֶל־ אַבְרָ֗ם אַחֲרֵי֙ הִפָּֽרֶד־ ל֣וֹט מֵֽעִמּ֔וֹ שָׂ֣א נָ֤א עֵינֶ֙יךָ֙ וּרְאֵ֔ה מִן־ הַמָּק֖וֹם אֲשֶׁר־ אַתָּ֣ה שָׁ֑ם צָפֹ֥נָה וָנֶ֖גְבָּה וָקֵ֥דְמָה וָיָֽמָּה׃"
+pericope: "[[Gen.13.14 God Renews the Promise to Abram|God Renews the Promise to Abram]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 13
+book/chapter: "[[Gen.13|Genesis 13]]"
+chronological_order: 55
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic LAND|LAND]]"
+- "[[topic LOT|LOT]]"
+strongs:
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0087]]"
+- "[[H0310A]]"
+- "[[H6504]]"
+- "[[H3876]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H9033]]"
+- "[[H5375M]]"
+- "[[H4994]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H7200G]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H0859A]]"
+- "[[H8033G]]"
+- "[[H6828G]]"
+- "[[H9011]]"
+- "[[H5045H]]"
+- "[[H6924B]]"
+- "[[H3220H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 13:14**<big><big>[[Gen.13.14 God Renews the Promise to Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Abram, after that Lot was separated from him, Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward:
 <small><sub>**BSB:**</sub></small>
 After Lot had departed, the LORD said to Abram, “Now lift up your eyes from the place where you are, and look to the north and south and east and west,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַֽ]][[H3068G\|יהוָ֞ה]] [[H0559\|אָמַ֣ר]] [[H0413\|אֶל]][[H9014\|־]] [[H0087\|אַבְרָ֗ם]] [[H0310A\|אַחֲרֵי֙]] [[H6504\|הִפָּֽרֶד]][[H9014\|־]] [[H3876\|ל֣וֹט]] [[H9006\|מֵֽ]][[H5973B\|עִמּ֔]][[H9033\|וֹ]] [[H5375M\|שָׂ֣א]] [[H4994\|נָ֤א]] [[H5869A\|עֵינֶ֙י]][[H9021\|ךָ֙]] [[H9002\|וּ]][[H7200G\|רְאֵ֔ה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֖וֹם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0859A\|אַתָּ֣ה]] [[H8033G\|שָׁ֑ם]] [[H6828G\|צָפֹ֥נָ]][[H9011\|ה]] [[H9002\|וָ]][[H5045H\|נֶ֖גְבָּ]][[H9011\|ה]] [[H9002\|וָ]][[H6924B\|קֵ֥דְמָ]][[H9011\|ה]] [[H9002\|וָ]][[H3220H\|יָֽמָּ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic LAND|LAND]] • [[topic LOT|LOT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.13.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.13.13|<< Genesis 13:13]]</td><td align="center" style="border:none;">[[Gen.13|Genesis 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.13.15|Genesis 13:15 >>]]</td></tr></table>
 

@@ -1,6 +1,59 @@
+---
+title: LXX Numbers 23:9
+type: Verse
+lxx: "For from the top of mountains I shall see him; and from hills I shall pay attention to him. Behold, a people shall dwell alone, and among nations they shall not be reckoned together."
+greek: "ότι από κορυφής ορεών όψομαι αυτόν και από βουνών προσνοήσω αυτόν ιδού λαός μόνος κατοικήσει και εν έθνεσιν ου συλλογισθήσεται"
+original_language: Greek
+testament: Old
+book: Numbers
+chapter: 23
+book/chapter: "[[Num.23|Numbers 23]]"
+chronological_order: 183
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[G3754]]"
+- "[[G0575]]"
+- "[[G8073]]"
+- "[[G3735]]"
+- "[[G3708]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G1015]]"
+- "[[G8934]]"
+- "[[G1473]]"
+- "[[G2400]]"
+- "[[G2992]]"
+- "[[G3441]]"
+- "[[G2730]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G1484]]"
+- "[[G3756]]"
+- "[[G4817]]"
+---
+
 **LXX Numbers 23:9** 
 <small><sub>**LXX:**</sub></small>
 For from \[the\] top of mountains I shall see him; and from hills I shall pay attention to him. Behold, a people shall dwell alone, and among nations they shall not be reckoned together. 
+<small><sub>**Greek:**</sub></small>
+[[G3754\|ότι]] [[G0575\|από]] [[G8073\|κορυφής]] [[G3735\|ορεών]] [[G3708\|όψομαι]] [[G1473\|αυτόν]] [[G2532\|και]] [[G0575\|από]] [[G1015\|βουνών]] [[G8934\|προσνοήσω]] [[G1473\|αυτόν]] [[G2400\|ιδού]] [[G2992\|λαός]] [[G3441\|μόνος]] [[G2730\|κατοικήσει]] [[G2532\|και]] [[G1722\|εν]] [[G1484\|έθνεσιν]] [[G3756\|ου]] [[G4817\|συλλογισθήσεται]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**MT:**</sub></small>
 [[Num.23.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.8|<< Numbers 23:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.10|Numbers 23:10 >>]]</td></tr></table>
 
@@ -25,6 +78,6 @@ For from \[the\] top of mountains I shall see him; and from hills I shall pay at
 | among | **<big>[[G1722\|εν]]</big>** |
 | nations | **<big>[[G1484\|έθνεσιν]]</big>** |
 | they shall not be reckoned together. | **<big>[[G3756\|ου]]</big>** **<big>[[G4817\|συλλογισθήσεται]]</big>** |
-[[Num.23.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.8|<< Numbers 23:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.10|Numbers 23:10 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.8|<< Numbers 23:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.10|Numbers 23:10 >>]]</td></tr></table>
 
 

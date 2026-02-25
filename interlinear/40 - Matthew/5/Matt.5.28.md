@@ -1,10 +1,69 @@
+---
+title: Matthew 5:28
+type: Verse
+kjv: "But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart."
+bsb: "But I tell you that anyone who looks at a woman to lust after her has already committed adultery with her in his heart."
+jesus_said: "But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart."
+greek: "ἐγὼ δὲ λέγω ὑμῖν ὅτι πᾶς ὁ βλέπων γυναῖκα πρὸς τὸ ἐπιθυμῆσαι αὐτὴν ἤδη ἐμοίχευσεν αὐτὴν ἐν τῇ καρδίᾳ αὐτοῦ."
+pericope: "[[Matt.5.27 Adultery|Adultery]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 5
+book/chapter: "[[Matt.5|Matthew 5]]"
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic IMAGINATION|IMAGINATION]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JUDAISM|JUDAISM]]"
+- "[[topic LAW|LAW]]"
+- "[[topic LUST|LUST]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0991]]"
+- "[[G1135G]]"
+- "[[G4314]]"
+- "[[G1937]]"
+- "[[G0846]]"
+- "[[G2235]]"
+- "[[G3431]]"
+- "[[G1722]]"
+- "[[G2588]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 5:28**<big><big>[[Matt.5.27 Adultery|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.
 <small><sub>**BSB:**</sub></small>
 But I tell you that anyone who looks at a woman to lust after her has already committed adultery with her in his heart.
-<small><sub>**Literal:**</sub></small>
-I myself however say to you that everyone who is looking upon a woman in order <the> to lust after her already has committed adultery with her in the heart of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.27|<< Matthew 5:27]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.29|Matthew 5:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|ἐγὼ]]  [[G1161\|δὲ]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G0991\|βλέπων]]  [[G1135G\|γυναῖκα]]  [[G4314\|πρὸς]]  [[G3588\|τὸ]]  [[G1937\|ἐπιθυμῆσαι]]  [[G0846\|αὐτὴν]]  [[G2235\|ἤδη]]  [[G3431\|ἐμοίχευσεν]]  [[G0846\|αὐτὴν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2588\|καρδίᾳ]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHASTITY|CHASTITY]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONTINENCE|CONTINENCE]] • [[topic IMAGINATION|IMAGINATION]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JUDAISM|JUDAISM]] • [[topic LAW|LAW]] • [[topic LUST|LUST]] • [[topic RELIGION|RELIGION]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.27|<< Matthew 5:27]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.29|Matthew 5:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

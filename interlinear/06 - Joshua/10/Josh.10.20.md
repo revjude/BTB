@@ -1,8 +1,77 @@
+---
+title: Joshua 10:20
+type: Verse
+kjv: "And it came to pass, when Joshua and the children of Israel had made an end of slaying them with a very great slaughter, till they were consumed, that the rest which remained of them entered into fenced cities."
+bsb: "So Joshua and the Israelites continued to inflict a terrible slaughter until they had finished them off, and the remaining survivors retreated to the fortified cities."
+hebrew: "וַיְהִי֩ כְּכַלּ֨וֹת יְהוֹשֻׁ֜עַ וּבְנֵ֣י יִשְׂרָאֵ֗ל לְהַכּוֹתָ֛ם מַכָּ֥ה גְדוֹלָֽה־ מְאֹ֖ד עַד־ תֻּמָּ֑ם וְהַשְּׂרִידִים֙ שָׂרְד֣וּ מֵהֶ֔ם וַיָּבֹ֖אוּ אֶל־ עָרֵ֥י הַמִּבְצָֽר׃"
+pericope: "[[Josh.10.16 The Victory at Makkedah|The Victory at Makkedah]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 10
+book/chapter: "[[Josh.10|Joshua 10]]"
+chronological_order: 240
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ADONI-ZEDEK|ADONI-ZEDEK]]"
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic CAVE|CAVE]]"
+- "[[topic CITIES|CITIES]]"
+- "[[topic DEBIR|DEBIR]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MAKKEDAH|MAKKEDAH]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H3615G]]"
+- "[[H3091G]]"
+- "[[H9002]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H5221]]"
+- "[[H9038]]"
+- "[[H4347]]"
+- "[[H1419A]]"
+- "[[H9014]]"
+- "[[H3966]]"
+- "[[H5704]]"
+- "[[H8552]]"
+- "[[H9048]]"
+- "[[H9009]]"
+- "[[H8300]]"
+- "[[H8277]]"
+- "[[H9006]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H5892B]]"
+- "[[H4013]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 10:20**<big><big>[[Josh.10.16 The Victory at Makkedah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Joshua and the children of Israel had made an end of slaying them with a very great slaughter, till they were consumed, that the rest [which] remained of them entered into fenced cities.
 <small><sub>**BSB:**</sub></small>
 So Joshua and the Israelites continued to inflict a terrible slaughter until they had finished them off, and the remaining survivors retreated to the fortified cities.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֩]] [[H9004\|כְּ]][[H3615G\|כַלּ֨וֹת]] [[H3091G\|יְהוֹשֻׁ֜עַ]] [[H9002\|וּ]][[H1121G\|בְנֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9005\|לְ]][[H5221\|הַכּוֹתָ֛]][[H9038\|ם]] [[H4347\|מַכָּ֥ה]] [[H1419A\|גְדוֹלָֽה]][[H9014\|־]] [[H3966\|מְאֹ֖ד]] [[H5704\|עַד]][[H9014\|־]] [[H8552\|תֻּמָּ֑]][[H9048\|ם]] [[H9002\|וְ]][[H9009\|הַ]][[H8300\|שְּׂרִידִים֙]] [[H8277\|שָׂרְד֣וּ]] [[H9006\|מֵ]][[H9038\|הֶ֔ם]] [[H9001\|וַ]][[H0935G\|יָּבֹ֖אוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H5892B\|עָרֵ֥י]] [[H9009\|הַ]][[H4013\|מִּבְצָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADONI-ZEDEK|ADONI-ZEDEK]] • [[topic AMORITES|AMORITES]] • [[topic CAPTIVE|CAPTIVE]] • [[topic CAVE|CAVE]] • [[topic CITIES|CITIES]] • [[topic DEBIR|DEBIR]] • [[topic HEBRON|HEBRON]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MAKKEDAH|MAKKEDAH]] • [[topic PRISONERS|PRISONERS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.19|<< Joshua 10:19]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.21|Joshua 10:21 >>]]</td></tr></table>
 

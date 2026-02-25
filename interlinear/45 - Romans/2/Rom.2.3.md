@@ -1,10 +1,60 @@
+---
+title: Romans 2:3
+type: Verse
+kjv: "And thinkest thou this, O man, that judgest them which do such things, and doest the same, that thou shalt escape the judgment of God?"
+bsb: "So when you, O man, pass judgment on others, yet do the same things, do you think you will escape God’s judgment?"
+greek: "λογίζῃ δὲ τοῦτο, ὦ ἄνθρωπε ὁ κρίνων τοὺς τὰ τοιαῦτα πράσσοντας καὶ ποιῶν αὐτά, ὅτι σὺ ἐκφεύξῃ τὸ κρίμα τοῦ θεοῦ;"
+pericope: "[[Rom.2.1 God’s Righteous Judgment|God’s Righteous Judgment]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 2
+book/chapter: "[[Rom.2|Romans 2]]"
+chronological_order: 1088
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic ESCAPE|ESCAPE]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+strongs:
+- "[[G3049]]"
+- "[[G1161]]"
+- "[[G3778]]"
+- "[[G5599]]"
+- "[[G0444]]"
+- "[[G3588]]"
+- "[[G2919]]"
+- "[[G5108]]"
+- "[[G4238]]"
+- "[[G2532]]"
+- "[[G4160G]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G4771]]"
+- "[[G1628]]"
+- "[[G2917]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Romans 2:3**<big><big>[[Rom.2.1 God’s Righteous Judgment|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And thinkest thou this, O man, that judgest them which do such things, and doest the same, that thou shalt escape the judgment of God?
 <small><sub>**BSB:**</sub></small>
 So when you, O man, pass judgment on others, yet do the same things, do you think you will escape God’s judgment?
-<small><sub>**Literal:**</sub></small>
-Suppose you now this, O man you who [are] judging those <the> such things practicing and doing them [yourself], that you yourself will escape the judgment <the> of God?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.2|<< Romans 2:2]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.4|Romans 2:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3049\|λογίζῃ]]  [[G1161\|δὲ]]  [[G3778\|τοῦτο,]]  [[G5599\|ὦ]]  [[G0444\|ἄνθρωπε]]  [[G3588\|ὁ]]  [[G2919\|κρίνων]]  [[G3588\|τοὺς]]  [[G3588\|τὰ]]  [[G5108\|τοιαῦτα]]  [[G4238\|πράσσοντας]]  [[G2532\|καὶ]]  [[G4160G\|ποιῶν]]  [[G0846\|αὐτά,]]  [[G3754G\|ὅτι]]  [[G4771\|σὺ]]  [[G1628\|ἐκφεύξῃ]]  [[G3588\|τὸ]]  [[G2917\|κρίμα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic ESCAPE|ESCAPE]] • [[topic GENTILES|GENTILES]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic PUNISHMENT|PUNISHMENT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.2|<< Romans 2:2]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.4|Romans 2:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

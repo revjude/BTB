@@ -1,8 +1,74 @@
+---
+title: Esther 4:8
+type: Verse
+kjv: "Also he gave him the copy of the writing of the decree that was given at Shushan to destroy them, to shew it unto Esther, and to declare it unto her, and to charge her that she should go in unto the king, to make supplication unto him, and to make request before him for her people."
+bsb: "Mordecai also gave Hathach a copy of the written decree issued in Susa for the destruction of the Jews, to show and explain to Esther, urging her to approach the king, implore his favor, and plead before him for her people."
+hebrew: "וְאֶת־ פַּתְשֶׁ֣גֶן כְּתָֽב־ הַ֠דָּת אֲשֶׁר־ נִתַּ֨ן בְּשׁוּשָׁ֤ן לְהַשְׁמִידָם֙ נָ֣תַן ל֔וֹ לְהַרְא֥וֹת אֶת־ אֶסְתֵּ֖ר וּלְהַגִּ֣יד לָ֑הּ וּלְצַוּ֣וֹת עָלֶ֗יהָ לָב֨וֹא אֶל־ הַמֶּ֧לֶךְ לְהִֽתְחַנֶּן־ ל֛וֹ וּלְבַקֵּ֥שׁ מִלְּפָנָ֖יו עַל־ עַמָּֽהּ׃"
+pericope: "[[Esth.4.1 Mordecai Appeals to Esther|Mordecai Appeals to Esther]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 4
+book/chapter: "[[Esth.4|Esther 4]]"
+chronological_order: 902
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SHUSHAN (SUSA)|SHUSHAN (SUSA)]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6572B]]"
+- "[[H3791]]"
+- "[[H9009]]"
+- "[[H1881]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9003]]"
+- "[[H7800]]"
+- "[[H9005]]"
+- "[[H8045]]"
+- "[[H9038]]"
+- "[[H9033]]"
+- "[[H7200G]]"
+- "[[H0635]]"
+- "[[H5046]]"
+- "[[H9034]]"
+- "[[H6680]]"
+- "[[H5921A]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H4428G]]"
+- "[[H2603A]]"
+- "[[H1245]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H5971A]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 4:8**<big><big>[[Esth.4.1 Mordecai Appeals to Esther|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also he gave him the copy of the writing of the decree that was given at Shushan to destroy them, to shew [it] unto Esther, and to declare [it] unto her, and to charge her that she should go in unto the king, to make supplication unto him, and to make request before him for her people.
 <small><sub>**BSB:**</sub></small>
 Mordecai also gave Hathach a copy of the written decree issued in Susa for the destruction of the Jews, to show and explain to Esther, urging her to approach the king, implore his favor, and plead before him for her people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6572B\|פַּתְשֶׁ֣גֶן]] [[H3791\|כְּתָֽב]][[H9014\|־]] [[H9009\|הַ֠]][[H1881\|דָּת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414G\|נִתַּ֨ן]] [[H9003\|בְּ]][[H7800\|שׁוּשָׁ֤ן]] [[H9005\|לְ]][[H8045\|הַשְׁמִידָ]][[H9038\|ם֙]] [[H5414G\|נָ֣תַן]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9005\|לְ]][[H7200G\|הַרְא֥וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H0635\|אֶסְתֵּ֖ר]] [[H9002\|וּ]][[H9005\|לְ]][[H5046\|הַגִּ֣יד]] [[H9005\|לָ֑]][[H9034\|הּ]] [[H9002\|וּ]][[H9005\|לְ]][[H6680\|צַוּ֣וֹת]] [[H5921A\|עָלֶ֗י]][[H9034\|הָ]] [[H9005\|לָ]][[H0935G\|ב֨וֹא]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֧לֶךְ]] [[H9005\|לְ]][[H2603A\|הִֽתְחַנֶּן]][[H9014\|־]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H9002\|וּ]][[H9005\|לְ]][[H1245\|בַקֵּ֥שׁ]] [[H9006\|מִ]][[H9005\|לְּ]][[H6440G\|פָנָ֖י]][[H9023\|ו]] [[H5921A\|עַל]][[H9014\|־]] [[H5971A\|עַמָּֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURAGE|COURAGE]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SHUSHAN (SUSA)|SHUSHAN (SUSA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.4.7|<< Esther 4:7]]</td><td align="center" style="border:none;">[[Esth.4|Esther 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.4.9|Esther 4:9 >>]]</td></tr></table>
 

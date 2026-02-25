@@ -1,8 +1,77 @@
+---
+title: Jeremiah 31:12
+type: Verse
+kjv: "Therefore they shall come and sing in the height of Zion, and shall flow together to the goodness of the LORD, for wheat, and for wine, and for oil, and for the young of the flock and of the herd: and their soul shall be as a watered garden; and they shall not sorrow any more at all."
+bsb: "They will come and shout for joy on the heights of Zion; they will be radiant over the bounty of the LORD—the grain, new wine, and oil, and the young of the flocks and herds. Their life will be like a well-watered garden, and never again will they languish."
+hebrew: "וּבָאוּ֮ וְרִנְּנ֣וּ בִמְרוֹם־ צִיּוֹן֒ וְנָהֲר֞וּ אֶל־ ט֣וּב יְהוָ֗ה עַל־ דָּגָן֙ וְעַל־ תִּירֹ֣שׁ וְעַל־ יִצְהָ֔ר וְעַל־ בְּנֵי־ צֹ֖אן וּבָקָ֑ר וְהָיְתָ֤ה נַפְשָׁם֙ כְּגַ֣ן רָוֶ֔ה וְלֹא־ יוֹסִ֥יפוּ לְדַאֲבָ֖ה עֽוֹד׃"
+pericope: "[[Jer.31.1 Mourning Turned to Joy|Mourning Turned to Joy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JOY|JOY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H7442B]]"
+- "[[H9003]]"
+- "[[H4791]]"
+- "[[H9014]]"
+- "[[H6726]]"
+- "[[H5102A]]"
+- "[[H0413]]"
+- "[[H2898]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H1715]]"
+- "[[H9002]]"
+- "[[H8492]]"
+- "[[H3323]]"
+- "[[H1121H]]"
+- "[[H6629G]]"
+- "[[H1241]]"
+- "[[H1961]]"
+- "[[H5315H]]"
+- "[[H9028]]"
+- "[[H9004]]"
+- "[[H1588M]]"
+- "[[H7302]]"
+- "[[H3808]]"
+- "[[H3254G]]"
+- "[[H9005]]"
+- "[[H1669]]"
+- "[[H5750]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 31:12**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore they shall come and sing in the height of Zion, and shall flow together to the goodness of the LORD, for wheat, and for wine, and for oil, and for the young of the flock and of the herd: and their soul shall be as a watered garden; and they shall not sorrow any more at all.
 <small><sub>**BSB:**</sub></small>
 They will come and shout for joy on the heights of Zion; they will be radiant over the bounty of the LORD—the grain, new wine, and oil, and the young of the flocks and herds. Their life will be like a well-watered garden, and never again will they languish.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H0935G\|בָאוּ֮]] [[H9001\|וְ]][[H7442B\|רִנְּנ֣וּ]] [[H9003\|בִ]][[H4791\|מְרוֹם]][[H9014\|־]] [[H6726\|צִיּוֹן֒]] [[H9001\|וְ]][[H5102A\|נָהֲר֞וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H2898\|ט֣וּב]] [[H3068G\|יְהוָ֗ה]] [[H5921A\|עַל]][[H9014\|־]] [[H1715\|דָּגָן֙]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H8492\|תִּירֹ֣שׁ]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3323\|יִצְהָ֔ר]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H1121H\|בְּנֵי]][[H9014\|־]] [[H6629G\|צֹ֖אן]] [[H9002\|וּ]][[H1241\|בָקָ֑ר]] [[H9001\|וְ]][[H1961\|הָיְתָ֤ה]] [[H5315H\|נַפְשָׁ]][[H9028\|ם֙]] [[H9004\|כְּ]][[H1588M\|גַ֣ן]] [[H7302\|רָוֶ֔ה]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3254G\|יוֹסִ֥יפוּ]] [[H9005\|לְ]][[H1669\|דַאֲבָ֖ה]] [[H5750\|עֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHURCH|CHURCH]] • [[topic JOY|JOY]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.11|<< Jeremiah 31:11]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.13|Jeremiah 31:13 >>]]</td></tr></table>
 

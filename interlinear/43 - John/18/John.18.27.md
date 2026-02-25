@@ -1,10 +1,56 @@
+---
+title: John 18:27
+type: Verse
+kjv: "Peter then denied again: and immediately the cock crew."
+bsb: "Peter denied it once more, and immediately a rooster crowed."
+greek: "πάλιν οὖν ἠρνήσατο ὁ Πέτρος, καὶ εὐθέως ἀλέκτωρ ἐφώνησεν.¶"
+pericope: "[[John.18.25 Peter’s Second and Third Denials|Peter’s Second and Third Denials]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G3825]]"
+- "[[G3767]]"
+- "[[G0720]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G2532]]"
+- "[[G2112]]"
+- "[[G0220]]"
+- "[[G5455]]"
+texts:
+- NKO
+- k
+---
+
 **John 18:27**<big><big>[[John.18.25 Peter’s Second and Third Denials|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Peter then denied again: and immediately the cock crew.
 <small><sub>**BSB:**</sub></small>
 Peter denied it once more, and immediately a rooster crowed.
-<small><sub>**Literal:**</sub></small>
-Again then denied <the> Peter, and immediately a rooster crowed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.26|<< John 18:26]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.28|John 18:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3825\|πάλιν]]  [[G3767\|οὖν]]  [[G0720\|ἠρνήσατο]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος,]]  [[G2532\|καὶ]]  [[G2112\|εὐθέως]]  [[G0220\|ἀλέκτωρ]]  [[G5455\|ἐφώνησεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic COWARDICE|COWARDICE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.26|<< John 18:26]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.28|John 18:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

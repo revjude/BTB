@@ -1,8 +1,62 @@
+---
+title: Numbers 16:48
+type: Verse
+kjv: "And he stood between the dead and the living; and the plague was stayed."
+bsb: "He stood between the living and the dead, and the plague was halted."
+hebrew: "וַיַּעֲמֹ֥ד בֵּֽין־ הַמֵּתִ֖ים וּבֵ֣ין הַֽחַיִּ֑ים וַתֵּעָצַ֖ר הַמַּגֵּפָֽה׃"
+pericope: "[[Num.16.41 Murmuring and Plague|Murmuring and Plague]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5975G]]"
+- "[[H0996G]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4191]]"
+- "[[H9002]]"
+- "[[H2416A]]"
+- "[[H6113]]"
+- "[[H4046]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 16:48**<big><big>[[Num.16.41 Murmuring and Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he stood between the dead and the living; and the plague was stayed.
 <small><sub>**BSB:**</sub></small>
 He stood between the living and the dead, and the plague was halted.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5975G\|יַּעֲמֹ֥ד]] [[H0996G\|בֵּֽין]][[H9014\|־]] [[H9009\|הַ]][[H4191\|מֵּתִ֖ים]] [[H9002\|וּ]][[H0996G\|בֵ֣ין]] [[H9009\|הַֽ]][[H2416A\|חַיִּ֑ים]] [[H9001\|וַ]][[H6113\|תֵּעָצַ֖ר]] [[H9009\|הַ]][[H4046\|מַּגֵּפָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic ATONEMENT|ATONEMENT]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.47|<< Numbers 16:47]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.49|Numbers 16:49 >>]]</td></tr></table>
 

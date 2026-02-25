@@ -1,8 +1,76 @@
+---
+title: Exodus 9:19
+type: Verse
+kjv: "Send therefore now, and gather thy cattle, and all that thou hast in the field; for upon every man and beast which shall be found in the field, and shall not be brought home, the hail shall come down upon them, and they shall die."
+bsb: "So give orders now to shelter your livestock and everything you have in the field. Every man or beast that remains in the field and is not brought inside will die when the hail comes down upon them.’”"
+hebrew: "וְעַתָּ֗ה שְׁלַ֤ח הָעֵז֙ אֶֽת־ מִקְנְךָ֔ וְאֵ֛ת כָּל־ אֲשֶׁ֥ר לְךָ֖ בַּשָּׂדֶ֑ה כָּל־ הָאָדָ֨ם וְהַבְּהֵמָ֜ה אֲשֶֽׁר־ יִמָּצֵ֣א בַשָּׂדֶ֗ה וְלֹ֤א יֵֽאָסֵף֙ הַבַּ֔יְתָה וְיָרַ֧ד עֲלֵהֶ֛ם הַבָּרָ֖ד וָמֵֽתוּ׃"
+pericope: "[[Exod.9.13 The Seventh Plague：Hail|The Seventh Plague：Hail]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 9
+book/chapter: "[[Exod.9|Exodus 9]]"
+chronological_order: 101
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic HAIL|HAIL]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H7971G]]"
+- "[[H5756]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4735]]"
+- "[[H9021]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H0929]]"
+- "[[H4672]]"
+- "[[H3808]]"
+- "[[H0622]]"
+- "[[H1004B]]"
+- "[[H9011]]"
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H1259]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 9:19**<big><big>[[Exod.9.13 The Seventh Plague：Hail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Send therefore now, [and] gather thy cattle, and all that thou hast in the field; [for upon] every man and beast which shall be found in the field, and shall not be brought home, the hail shall come down upon them, and they shall die.
 <small><sub>**BSB:**</sub></small>
 So give orders now to shelter your livestock and everything you have in the field. Every man or beast that remains in the field and is not brought inside will die when the hail comes down upon them.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H7971G\|שְׁלַ֤ח]] [[H5756\|הָעֵז֙]] [[H0853\|אֶֽת]][[H9014\|־]] [[H4735\|מִקְנְ]][[H9021\|ךָ֔]] [[H9002\|וְ]][[H0853\|אֵ֛ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶ֑ה]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0120G\|אָדָ֨ם]] [[H9002\|וְ]][[H9009\|הַ]][[H0929\|בְּהֵמָ֜ה]] [[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H4672\|יִמָּצֵ֣א]] [[H9003\|בַ]][[H7704G\|שָּׂדֶ֗ה]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H0622\|יֵֽאָסֵף֙]] [[H9009\|הַ]][[H1004B\|בַּ֔יְתָ]][[H9011\|ה]] [[H9001\|וְ]][[H3381\|יָרַ֧ד]] [[H5921A\|עֲלֵ]][[H9038\|הֶ֛ם]] [[H9009\|הַ]][[H1259\|בָּרָ֖ד]] [[H9001\|וָ]][[H4191\|מֵֽתוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic HAIL|HAIL]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.18|<< Exodus 9:18]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.20|Exodus 9:20 >>]]</td></tr></table>
 

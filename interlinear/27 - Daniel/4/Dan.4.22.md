@@ -1,8 +1,63 @@
+---
+title: Daniel 4:22
+type: Verse
+kjv: "It is thou, O king, that art grown and become strong: for thy greatness is grown, and reacheth unto heaven, and thy dominion to the end of the earth."
+bsb: "you, O king, are that tree! For you have become great and strong; your greatness has grown to reach the sky, and your dominion extends to the ends of the earth."
+aramaic: "אַנְתְּ ה֣וּא מַלְכָּ֔א דִּ֥י רְבַ֖ית וּתְקֵ֑פְתְּ וּרְבוּתָ֤ךְ רְבָת֙ וּמְטָ֣ת לִשְׁמַיָּ֔א וְשָׁלְטָנָ֖ךְ לְס֥וֹף אַרְעָֽא׃"
+pericope: "[[Dan.4.19 Daniel Interprets the Second Dream|Daniel Interprets the Second Dream]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 4
+book/chapter: "[[Dan.4|Daniel 4]]"
+chronological_order: 789
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0607]]"
+- "[[H1932]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H1768]]"
+- "[[H7236]]"
+- "[[H9002]]"
+- "[[H8631]]"
+- "[[H7238]]"
+- "[[H9021]]"
+- "[[H4291]]"
+- "[[H9005]]"
+- "[[H8065]]"
+- "[[H7985]]"
+- "[[H5491]]"
+- "[[H0772I]]"
+- "[[H9016]]"
+texts:
+- Q(k)
+- L
+---
+
 **Daniel 4:22**<big><big>[[Dan.4.19 Daniel Interprets the Second Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It [is] thou, O king, that art grown and become strong: for thy greatness is grown, and reacheth unto heaven, and thy dominion to the end of the earth.
 <small><sub>**BSB:**</sub></small>
 you, O king, are that tree! For you have become great and strong; your greatness has grown to reach the sky, and your dominion extends to the ends of the earth.
+<small><sub>**Aramaic:**</sub></small>
+[[H0607\|אַנְתְּ]] [[H1932\|ה֣וּא]] [[H4430\|מַלְכָּ֔]][[H9010\|א]] [[H1768\|דִּ֥י]] [[H7236\|רְבַ֖ית]] [[H9002\|וּ]][[H8631\|תְקֵ֑פְתְּ]] [[H9002\|וּ]][[H7238\|רְבוּתָ֤]][[H9021\|ךְ]] [[H7236\|רְבָת֙]] [[H9002\|וּ]][[H4291\|מְטָ֣ת]] [[H9005\|לִ]][[H8065\|שְׁמַיָּ֔]][[H9010\|א]] [[H9002\|וְ]][[H7985\|שָׁלְטָנָ֖]][[H9021\|ךְ]] [[H9005\|לְ]][[H5491\|ס֥וֹף]] [[H0772I\|אַרְעָֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CONVERTS|CONVERTS]] • [[topic GOD|GOD]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.21|<< Daniel 4:21]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.23|Daniel 4:23 >>]]</td></tr></table>
 

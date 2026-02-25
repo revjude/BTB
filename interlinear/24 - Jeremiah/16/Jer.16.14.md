@@ -1,8 +1,60 @@
+---
+title: Jeremiah 16:14
+type: Verse
+kjv: "Therefore, behold, the days come, saith the LORD, that it shall no more be said, The LORD liveth, that brought up the children of Israel out of the land of Egypt;"
+bsb: "Yet behold, the days are coming, declares the LORD, when they will no longer say, ‘As surely as the LORD lives, who brought the Israelites up out of the land of Egypt.’"
+hebrew: "לָכֵ֛ן הִנֵּֽה־ יָמִ֥ים בָּאִ֖ים נְאֻם־ יְהוָ֑ה וְלֹֽא־ יֵאָמֵ֥ר עוֹד֙ חַי־ יְהוָ֔ה אֲשֶׁ֧ר הֶעֱלָ֛ה אֶת־ בְּנֵ֥י יִשְׂרָאֵ֖ל מֵאֶ֥רֶץ מִצְרָֽיִם׃"
+pericope: "[[Jer.16.14 God Will Restore Israel|God Will Restore Israel]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 16
+book/chapter: "[[Jer.16|Jeremiah 16]]"
+chronological_order: 733
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H0935G]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0559]]"
+- "[[H5750]]"
+- "[[H2416A]]"
+- "[[H0834A]]"
+- "[[H5927H]]"
+- "[[H0853]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 16:14**<big><big>[[Jer.16.14 God Will Restore Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore, behold, the days come, saith the LORD, that it shall no more be said, The LORD liveth, that brought up the children of Israel out of the land of Egypt;
 <small><sub>**BSB:**</sub></small>
 Yet behold, the days are coming, declares the LORD, when they will no longer say, ‘As surely as the LORD lives, who brought the Israelites up out of the land of Egypt.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֛ן]] [[H2009\|הִנֵּֽה]][[H9014\|־]] [[H3117G\|יָמִ֥ים]] [[H0935G\|בָּאִ֖ים]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H0559\|יֵאָמֵ֥ר]] [[H5750\|עוֹד֙]] [[H2416A\|חַי]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H0834A\|אֲשֶׁ֧ר]] [[H5927H\|הֶעֱלָ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.16.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.13|<< Jeremiah 16:13]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.15|Jeremiah 16:15 >>]]</td></tr></table>
 

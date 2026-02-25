@@ -1,8 +1,64 @@
+---
+title: Joshua 13:8
+type: Verse
+kjv: "With whom the Reubenites and the Gadites have received their inheritance, which Moses gave them, beyond Jordan eastward, even as Moses the servant of the LORD gave them;"
+bsb: "The other half of Manasseh, along with the Reubenites and Gadites, had received the inheritance Moses had given them beyond the Jordan to the east, just as Moses the servant of the LORD had assigned to them:"
+hebrew: "עִמּ֗וֹ הָרֽאוּבֵנִי֙ וְהַגָּדִ֔י לָקְח֖וּ נַחֲלָתָ֑ם אֲשֶׁר֩ נָתַ֨ן לָהֶ֜ם מֹשֶׁ֗ה בְּעֵ֤בֶר הַיַּרְדֵּן֙ מִזְרָ֔חָה כַּאֲשֶׁר֙ נָתַ֣ן לָהֶ֔ם מֹשֶׁ֖ה עֶ֥בֶד יְהוָֽה׃"
+pericope: "[[Josh.13.8 The Inheritance East of the Jordan|The Inheritance East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 13
+book/chapter: "[[Josh.13|Joshua 13]]"
+chronological_order: 243
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GESHUR|GESHUR]]"
+strongs:
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H7206]]"
+- "[[H9002]]"
+- "[[H1425]]"
+- "[[H3947H]]"
+- "[[H5159]]"
+- "[[H9028]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H4872]]"
+- "[[H9003]]"
+- "[[H5676H]]"
+- "[[H3383]]"
+- "[[H4217H]]"
+- "[[H9011]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H5650]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 13:8**<big><big>[[Josh.13.8 The Inheritance East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With whom the Reubenites and the Gadites have received their inheritance, which Moses gave them, beyond Jordan eastward, [even] as Moses the servant of the LORD gave them;
 <small><sub>**BSB:**</sub></small>
 The other half of Manasseh, along with the Reubenites and Gadites, had received the inheritance Moses had given them beyond the Jordan to the east, just as Moses the servant of the LORD had assigned to them:
+<small><sub>**Hebrew:**</sub></small>
+[[H5973A\|עִמּ֗]][[H9033\|וֹ]] [[H9009\|הָ]][[H7206\|רֽאוּבֵנִי֙]] [[H9002\|וְ]][[H9009\|הַ]][[H1425\|גָּדִ֔י]] [[H3947H\|לָקְח֖וּ]] [[H5159\|נַחֲלָתָ֑]][[H9028\|ם]] [[H0834A\|אֲשֶׁר֩]] [[H5414G\|נָתַ֨ן]] [[H9005\|לָ]][[H9038\|הֶ֜ם]] [[H4872\|מֹשֶׁ֗ה]] [[H9003\|בְּ]][[H5676H\|עֵ֤בֶר]] [[H9009\|הַ]][[H3383\|יַּרְדֵּן֙]] [[H4217H\|מִזְרָ֔חָ]][[H9011\|ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁר֙]] [[H5414G\|נָתַ֣ן]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H4872\|מֹשֶׁ֖ה]] [[H5650\|עֶ֥בֶד]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GESHUR|GESHUR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.7|<< Joshua 13:7]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.9|Joshua 13:9 >>]]</td></tr></table>
 

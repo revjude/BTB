@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: As the Deer Pants for the Water
+type: Pericope
 pericope: "[[Ps.42.1 As the Deer Pants for the Water|As the Deer Pants for the Water]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 42
 book/chapter: "[[Ps.42|Psalm 42]]"
-genre:
+chronological_order: 497
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 12
 verses:
 - "[[Ps.42.0]]"
 - "[[Ps.42.1]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Ps.42.11]]"
 ---
 
-[[Ps.42|Psalm 42:1 - Psalm 42:11]]
+<small>[[Ps.42|Psalm 42:1-11]]</small>
 *As the Deer Pants for the Water*
 
 [[Ps.42.0|0]] To the chief Musician, Maschil, for the sons of Korah.

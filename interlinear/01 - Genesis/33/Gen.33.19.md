@@ -1,8 +1,68 @@
+---
+title: Genesis 33:19
+type: Verse
+kjv: "And he bought a parcel of a field, where he had spread his tent, at the hand of the children of Hamor, Shechem’s father, for an hundred pieces of money."
+bsb: "And the plot of ground where he pitched his tent, he purchased from the sons of Hamor, Shechem’s father, for a hundred pieces of silver."
+hebrew: "וַיִּ֜קֶן אֶת־ חֶלְקַ֣ת הַשָּׂדֶ֗ה אֲשֶׁ֤ר נָֽטָה־ שָׁם֙ אָהֳל֔וֹ מִיַּ֥ד בְּנֵֽי־ חֲמ֖וֹר אֲבִ֣י שְׁכֶ֑ם בְּמֵאָ֖ה קְשִׂיטָֽה׃"
+pericope: "[[Gen.33.18 Jacob Settles in Shechem|Jacob Settles in Shechem]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 33
+book/chapter: "[[Gen.33|Genesis 33]]"
+chronological_order: 75
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic HAMOR|HAMOR]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic LAND|LAND]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H7069]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2513A]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H0834A]]"
+- "[[H5186]]"
+- "[[H8033G]]"
+- "[[H0168G]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H3027K]]"
+- "[[H1121A]]"
+- "[[H2544]]"
+- "[[H0001G]]"
+- "[[H7927H]]"
+- "[[H9003]]"
+- "[[H3967]]"
+- "[[H7192]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 33:19**<big><big>[[Gen.33.18 Jacob Settles in Shechem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he bought a parcel of a field, where he had spread his tent, at the hand of the children of Hamor, Shechem’s father, for an hundred pieces of money.
 <small><sub>**BSB:**</sub></small>
 And the plot of ground where he pitched his tent, he purchased from the sons of Hamor, Shechem’s father, for a hundred pieces of silver.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7069\|יִּ֜קֶן]] [[H0853\|אֶת]][[H9014\|־]] [[H2513A\|חֶלְקַ֣ת]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֗ה]] [[H0834A\|אֲשֶׁ֤ר]] [[H5186\|נָֽטָה]][[H9014\|־]] [[H8033G\|שָׁם֙]] [[H0168G\|אָהֳל֔]][[H9023\|וֹ]] [[H9006\|מִ]][[H3027K\|יַּ֥ד]] [[H1121A\|בְּנֵֽי]][[H9014\|־]] [[H2544\|חֲמ֖וֹר]] [[H0001G\|אֲבִ֣י]] [[H7927H\|שְׁכֶ֑ם]] [[H9003\|בְּ]][[H3967\|מֵאָ֖ה]] [[H7192\|קְשִׂיטָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAMOR|HAMOR]] • [[topic JACOB|JACOB]] • [[topic LAND|LAND]] • [[topic SHECHEM|SHECHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.33.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.33.18|<< Genesis 33:18]]</td><td align="center" style="border:none;">[[Gen.33|Genesis 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.33.20|Genesis 33:20 >>]]</td></tr></table>
 

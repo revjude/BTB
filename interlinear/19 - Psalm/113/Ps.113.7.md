@@ -1,8 +1,53 @@
+---
+title: Psalm 113:7
+type: Verse
+kjv: "He raiseth up the poor out of the dust, and lifteth the needy out of the dunghill;"
+bsb: "He raises the poor from the dust and lifts the needy from the dump"
+hebrew: "מְקִֽימִ֣י מֵעָפָ֣ר דָּ֑ל מֵֽ֝אַשְׁפֹּ֗ת יָרִ֥ים אֶבְיֽוֹן׃"
+pericope: "[[Ps.113.1 The LORD Exalts the Humble|The LORD Exalts the Humble]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 113
+book/chapter: "[[Ps.113|Psalm 113]]"
+chronological_order: 875
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic POOR|POOR]]"
+- "[[topic PROMOTION|PROMOTION]]"
+strongs:
+- "[[H6965H]]"
+- "[[H9006]]"
+- "[[H6083]]"
+- "[[H1800]]"
+- "[[H0830H]]"
+- "[[H7311A]]"
+- "[[H0034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 113:7**<big><big>[[Ps.113.1 The LORD Exalts the Humble|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He raiseth up the poor out of the dust, [and] lifteth the needy out of the dunghill;
 <small><sub>**BSB:**</sub></small>
 He raises the poor from the dust and lifts the needy from the dump
+<small><sub>**Hebrew:**</sub></small>
+[[H6965H\|מְקִֽימִ֣י]] [[H9006\|מֵ]][[H6083\|עָפָ֣ר]] [[H1800\|דָּ֑ל]] [[H9006\|מֵֽ֝]][[H0830H\|אַשְׁפֹּ֗ת]] [[H7311A\|יָרִ֥ים]] [[H0034\|אֶבְיֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic POOR|POOR]] • [[topic PROMOTION|PROMOTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.113.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.113.6|<< Psalms 113:6]]</td><td align="center" style="border:none;">[[Ps.113|Psalms 113]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.113.8|Psalms 113:8 >>]]</td></tr></table>
 

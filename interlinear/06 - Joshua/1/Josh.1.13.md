@@ -1,8 +1,62 @@
+---
+title: Joshua 1:13
+type: Verse
+kjv: "Remember the word which Moses the servant of the LORD commanded you, saying, The LORD your God hath given you rest, and hath given you this land."
+bsb: "“Remember what Moses the servant of the LORD commanded you when he said, ‘The LORD your God will give you rest, and He will give you this land.’"
+hebrew: "זָכוֹר֙ אֶת־ הַדָּבָ֔ר אֲשֶׁ֨ר צִוָּ֥ה אֶתְכֶ֛ם מֹשֶׁ֥ה עֶֽבֶד־ יְהוָ֖ה לֵאמֹ֑ר יְהוָ֤ה אֱלֹהֵיכֶם֙ מֵנִ֣יחַ לָכֶ֔ם וְנָתַ֥ן לָכֶ֖ם אֶת־ הָאָ֥רֶץ הַזֹּֽאת׃"
+pericope: "[[Josh.1.10 Joshua Takes Charge|Joshua Takes Charge]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 1
+book/chapter: "[[Josh.1|Joshua 1]]"
+chronological_order: 231
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic REUBENITES|REUBENITES]]"
+strongs:
+- "[[H2142]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H9036]]"
+- "[[H4872]]"
+- "[[H5650]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H5117]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 1:13**<big><big>[[Josh.1.10 Joshua Takes Charge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember the word which Moses the servant of the LORD commanded you, saying, The LORD your God hath given you rest, and hath given you this land.
 <small><sub>**BSB:**</sub></small>
 “Remember what Moses the servant of the LORD commanded you when he said, ‘The LORD your God will give you rest, and He will give you this land.’
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|זָכוֹר֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דָּבָ֔ר]] [[H0834A\|אֲשֶׁ֨ר]] [[H6680\|צִוָּ֥ה]] [[H0853\|אֶתְ]][[H9036\|כֶ֛ם]] [[H4872\|מֹשֶׁ֥ה]] [[H5650\|עֶֽבֶד]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶם֙]] [[H5117\|מֵנִ֣יחַ]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H9001\|וְ]][[H5414G\|נָתַ֥ן]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֥רֶץ]] [[H9009\|הַ]][[H2063\|זֹּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MANASSEH|MANASSEH]] • [[topic REUBENITES|REUBENITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.1.12|<< Joshua 1:12]]</td><td align="center" style="border:none;">[[Josh.1|Joshua 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.1.14|Joshua 1:14 >>]]</td></tr></table>
 

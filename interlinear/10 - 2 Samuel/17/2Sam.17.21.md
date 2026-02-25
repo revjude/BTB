@@ -1,8 +1,77 @@
+---
+title: 2 Samuel 17:21
+type: Verse
+kjv: "And it came to pass, after they were departed, that they came up out of the well, and went and told king David, and said unto David, Arise, and pass quickly over the water: for thus hath Ahithophel counselled against you."
+bsb: "After the men had gone, Ahimaaz and Jonathan climbed up out of the well and went to inform King David, saying, “Get up and cross over the river at once, for Ahithophel has given this advice against you.”"
+hebrew: "וַיְהִ֣י׀ אַחֲרֵ֣י לֶכְתָּ֗ם וַֽיַּעֲלוּ֙ מֵֽהַבְּאֵ֔ר וַיֵּ֣לְכ֔וּ וַיַּגִּ֖דוּ לַמֶּ֣לֶךְ דָּוִ֑ד וַיֹּאמְר֣וּ אֶל־ דָּוִ֗ד ק֣וּמוּ וְעִבְר֤וּ מְהֵרָה֙ אֶת־ הַמַּ֔יִם כִּי־ כָ֛כָה יָעַ֥ץ עֲלֵיכֶ֖ם אֲחִיתֹֽפֶל׃"
+pericope: "[[2Sam.17.15 Hushai’s Warning Saves David|Hushai’s Warning Saves David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 17
+book/chapter: "[[2Sam.17|2 Samuel 17]]"
+chronological_order: 416
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABIATHAR|ABIATHAR]]"
+- "[[topic AHITHOPHEL|AHITHOPHEL]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H0310A]]"
+- "[[H1980G]]"
+- "[[H9048]]"
+- "[[H5927G]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H0875]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H1732]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6965B]]"
+- "[[H9002]]"
+- "[[H5674A]]"
+- "[[H4120]]"
+- "[[H0853]]"
+- "[[H4325G]]"
+- "[[H3588A]]"
+- "[[H3602]]"
+- "[[H3289]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H0302]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 17:21**<big><big>[[2Sam.17.15 Hushai’s Warning Saves David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, after they were departed, that they came up out of the well, and went and told king David, and said unto David, Arise, and pass quickly over the water: for thus hath Ahithophel counselled against you.
 <small><sub>**BSB:**</sub></small>
 After the men had gone, Ahimaaz and Jonathan climbed up out of the well and went to inform King David, saying, “Get up and cross over the river at once, for Ahithophel has given this advice against you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]][[H9015\|׀]] [[H0310A\|אַחֲרֵ֣י]] [[H1980G\|לֶכְתָּ֗]][[H9048\|ם]] [[H9001\|וַֽ]][[H5927G\|יַּעֲלוּ֙]] [[H9006\|מֵֽ]][[H9009\|הַ]][[H0875\|בְּאֵ֔ר]] [[H9001\|וַ]][[H1980G\|יֵּ֣לְכ֔וּ]] [[H9001\|וַ]][[H5046\|יַּגִּ֖דוּ]] [[H9005\|לַ]][[H4428G\|מֶּ֣לֶךְ]] [[H1732\|דָּוִ֑ד]] [[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֗ד]] [[H6965B\|ק֣וּמוּ]] [[H9002\|וְ]][[H5674A\|עִבְר֤וּ]] [[H4120\|מְהֵרָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4325G\|מַּ֔יִם]] [[H3588A\|כִּי]][[H9014\|־]] [[H3602\|כָ֛כָה]] [[H3289\|יָעַ֥ץ]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֖ם]] [[H0302\|אֲחִיתֹֽפֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIATHAR|ABIATHAR]] • [[topic AHITHOPHEL|AHITHOPHEL]] • [[topic DAVID|DAVID]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JONATHAN|JONATHAN]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.17.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.20|<< 2 Samuel 17:20]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.22|2 Samuel 17:22 >>]]</td></tr></table>
 

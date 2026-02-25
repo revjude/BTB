@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus and the Beloved Disciple
+type: Pericope
 pericope: "[[John.21.20 Jesus and the Beloved Disciple|Jesus and the Beloved Disciple]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: John
 chapter: 21
 book/chapter: "[[John.21|John 21]]"
-genre:
+chronological_order: 1018
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 6
 verses:
 - "[[John.21.20]]"
 - "[[John.21.21]]"
@@ -24,7 +31,7 @@ verses:
 - "[[John.21.25]]"
 ---
 
-[[John.21|John 21:20 - John 21:25]]
+<small>[[John.21|John 21:20-25]]</small>
 *Jesus and the Beloved Disciple*
 
 [[John.21.20|20]] Then Peter, turning about, seeth the disciple whom Jesus loved following; which also leaned on his breast at supper, and said, Lord, which is he that betrayeth thee?

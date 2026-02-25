@@ -1,8 +1,54 @@
+---
+title: Psalm 119:91
+type: Verse
+kjv: "They continue this day according to thine ordinances: for all are thy servants."
+bsb: "Your ordinances stand to this day, for all things are servants to You."
+hebrew: "לְֽ֭מִשְׁפָּטֶיךָ עָמְד֣וּ הַיּ֑וֹם כִּ֖י הַכֹּ֣ל עֲבָדֶֽיךָ׃"
+pericope: "[[Ps.119.89 Your Word Is a Lamp to My Feet - LAMED|Your Word Is a Lamp to My Feet - LAMED]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+strongs:
+- "[[H9005]]"
+- "[[H4941I]]"
+- "[[H9021]]"
+- "[[H5975G]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H3588A]]"
+- "[[H3605]]"
+- "[[H5650]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:91**<big><big>[[Ps.119.89 Your Word Is a Lamp to My Feet - LAMED|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They continue this day according to thine ordinances: for all [are] thy servants.
 <small><sub>**BSB:**</sub></small>
 Your ordinances stand to this day, for all things are servants to You.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְֽ֭]][[H4941I\|מִשְׁפָּטֶי]][[H9021\|ךָ]] [[H5975G\|עָמְד֣וּ]] [[H9009\|הַ]][[H3117G\|יּ֑וֹם]] [[H3588A\|כִּ֖י]] [[H9009\|הַ]][[H3605\|כֹּ֣ל]] [[H5650\|עֲבָדֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INSTRUCTION|INSTRUCTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.91|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.90|<< Psalms 119:90]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.92|Psalms 119:92 >>]]</td></tr></table>
 

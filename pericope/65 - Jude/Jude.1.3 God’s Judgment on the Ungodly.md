@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Judgment on the Ungodly
+type: Pericope
 pericope: "[[Jude.1.3 God’s Judgment on the Ungodly|God’s Judgment on the Ungodly]]"
-verse_count: 14
+original_language: Greek
 testament: New
 book: Jude
 chapter: 1
 book/chapter: "[[Jude.1|Jude 1]]"
-genre:
+chronological_order: 1160
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
 - epistle
 - general epistle
 - polemical
+verse_count: 14
 verses:
 - "[[Jude.1.3]]"
 - "[[Jude.1.4]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Jude.1.16]]"
 ---
 
-[[Jude.1|Jude 1:3 - Jude 1:16]]
+<small>[[Jude.1|Jude 1:3-16]]</small>
 *God’s Judgment on the Ungodly*
 
 [[Jude.1.3|3]] Beloved, when I gave all diligence to write unto you of the common salvation, it was needful for me to write unto you, and exhort \[you\] that ye should earnestly contend for the faith which was once delivered unto the saints.

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Caleb Requests Hebron
+type: Pericope
 pericope: "[[Josh.14.6 Caleb Requests Hebron|Caleb Requests Hebron]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 14
 book/chapter: "[[Josh.14|Joshua 14]]"
-genre:
+chronological_order: 244
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 10
 verses:
 - "[[Josh.14.6]]"
 - "[[Josh.14.7]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Josh.14.15]]"
 ---
 
-[[Josh.14|Joshua 14:6 - Joshua 14:15]]
+<small>[[Josh.14|Joshua 14:6-15]]</small>
 *Caleb Requests Hebron*
 
 [[Josh.14.6|6]] Then the children of Judah came unto Joshua in Gilgal: and Caleb the son of Jephunneh the Kenezite said unto him, Thou knowest the thing that the LORD said unto Moses the man of God concerning me and thee in Kadeshbarnea.

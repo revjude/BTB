@@ -1,8 +1,56 @@
+---
+title: Psalm 20:1
+type: Verse
+kjv: "The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee;"
+bsb: "For the choirmaster. A Psalm of David. May the LORD answer you in the day of trouble; may the name of the God of Jacob protect you."
+hebrew: "יַֽעַנְךָ֣ יְ֭הוָה בְּי֣וֹם צָרָ֑ה יְ֝שַׂגֶּבְךָ֗ שֵׁ֤ם׀ אֱלֹהֵ֬י יַעֲקֹֽב׃"
+pericope: "[[Ps.20.1 The Day of Trouble|The Day of Trouble]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 20
+book/chapter: "[[Ps.20|Psalm 20]]"
+chronological_order: 353
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+strongs:
+- "[[H6030B]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H6869B]]"
+- "[[H7682]]"
+- "[[H8034]]"
+- "[[H9015]]"
+- "[[H0430G]]"
+- "[[H3290]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 20:1**<big><big>[[Ps.20.1 The Day of Trouble|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee;
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. A Psalm of David. May the LORD answer you in the day of trouble; may the name of the God of Jacob protect you.
+<small><sub>**Hebrew:**</sub></small>
+[[H6030B\|יַֽעַנְ]][[H9031\|ךָ֣]] [[H3068G\|יְ֭הוָה]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H6869B\|צָרָ֑ה]] [[H7682\|יְ֝שַׂגֶּבְ]][[H9031\|ךָ֗]] [[H8034\|שֵׁ֤ם]][[H9015\|׀]] [[H0430G\|אֱלֹהֵ֬י]] [[H3290\|יַעֲקֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic INTERCESSION|INTERCESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.20.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.20.0|<< Psalms 20:0]]</td><td align="center" style="border:none;">[[Ps.20|Psalms 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.20.2|Psalms 20:2 >>]]</td></tr></table>
 

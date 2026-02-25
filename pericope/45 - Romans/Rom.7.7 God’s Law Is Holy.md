@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Law Is Holy
+type: Pericope
 pericope: "[[Rom.7.7 God’s Law Is Holy|God’s Law Is Holy]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Romans
 chapter: 7
 book/chapter: "[[Rom.7|Romans 7]]"
-genre:
+chronological_order: 1093
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 6
 verses:
 - "[[Rom.7.7]]"
 - "[[Rom.7.8]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Rom.7.12]]"
 ---
 
-[[Rom.7|Romans 7:7 - Romans 7:12]]
+<small>[[Rom.7|Romans 7:7-12]]</small>
 *God’s Law Is Holy*
 
 [[Rom.7.7|7]] What shall we say then? \[Is\] the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet.

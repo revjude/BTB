@@ -1,8 +1,75 @@
+---
+title: Genesis 1:30
+type: Verse
+kjv: "And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein there is life, I have given every green herb for meat: and it was so."
+bsb: "And to every beast of the earth and every bird of the air and every creature that crawls upon the earth—everything that has the breath of life in it—I have given every green plant for food.” And it was so."
+hebrew: "וּֽלְכָל־ חַיַּ֣ת הָ֠אָרֶץ וּלְכָל־ ע֨וֹף הַשָּׁמַ֜יִם וּלְכֹ֣ל׀ רוֹמֵ֣שׂ עַל־ הָאָ֗רֶץ אֲשֶׁר־ בּוֹ֙ נֶ֣פֶשׁ חַיָּ֔ה אֶת־ כָּל־ יֶ֥רֶק עֵ֖שֶׂב לְאָכְלָ֑ה וַֽיְהִי־ כֵֽן׃"
+pericope: "[[Gen.1.24 The Sixth Day|The Sixth Day]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 1
+book/chapter: "[[Gen.1|Genesis 1]]"
+chronological_order: 1
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HERBS|HERBS]]"
+- "[[topic VEGETATION|VEGETATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2416C]]"
+- "[[H9009]]"
+- "[[H0776H]]"
+- "[[H5775]]"
+- "[[H8064]]"
+- "[[H9015]]"
+- "[[H7430]]"
+- "[[H5921A]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H5315H]]"
+- "[[H2416A]]"
+- "[[H0853]]"
+- "[[H3418]]"
+- "[[H6212]]"
+- "[[H0402]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3651C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 1:30**<big><big>[[Gen.1.24 The Sixth Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein [there is] life, [I have given] every green herb for meat: and it was so.
 <small><sub>**BSB:**</sub></small>
 And to every beast of the earth and every bird of the air and every creature that crawls upon the earth—everything that has the breath of life in it—I have given every green plant for food.” And it was so.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּֽ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H2416C\|חַיַּ֣ת]] [[H9009\|הָ֠]][[H0776H\|אָרֶץ]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H5775\|ע֨וֹף]] [[H9009\|הַ]][[H8064\|שָּׁמַ֜יִם]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כֹ֣ל]][[H9015\|׀]] [[H7430\|רוֹמֵ֣שׂ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776H\|אָ֗רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בּ]][[H9033\|וֹ֙]] [[H5315H\|נֶ֣פֶשׁ]] [[H2416A\|חַיָּ֔ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3418\|יֶ֥רֶק]] [[H6212\|עֵ֖שֶׂב]] [[H9005\|לְ]][[H0402\|אָכְלָ֑ה]] [[H9001\|וַֽ]][[H1961\|יְהִי]][[H9014\|־]] [[H3651C\|כֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic ANIMALS|ANIMALS]] • [[topic BIRDS|BIRDS]] • [[topic BLESSING|BLESSING]] • [[topic FOOD|FOOD]] • [[topic GOD|GOD]] • [[topic HERBS|HERBS]] • [[topic VEGETATION|VEGETATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.1.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.1.29|<< Genesis 1:29]]</td><td align="center" style="border:none;">[[Gen.1|Genesis 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.1.31|Genesis 1:31 >>]]</td></tr></table>
 

@@ -1,8 +1,51 @@
+---
+title: Proverbs 30:13
+type: Verse
+kjv: "There is a generation, O how lofty are their eyes! and their eyelids are lifted up."
+bsb: "There is a generation—how haughty are their eyes and pretentious are their glances—"
+hebrew: "דּ֭וֹר מָה־ רָמ֣וּ עֵינָ֑יו וְ֝עַפְעַפָּ֗יו יִנָּשֵֽׂאוּ׃"
+pericope: "[[Prov.30.1 The Words of Agur|The Words of Agur]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 30
+book/chapter: "[[Prov.30|Proverbs 30]]"
+chronological_order: 485
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H1755]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H7311A]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H6079]]"
+- "[[H5375M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 30:13**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] a generation, O how lofty are their eyes! and their eyelids are lifted up.
 <small><sub>**BSB:**</sub></small>
 There is a generation—how haughty are their eyes and pretentious are their glances—
+<small><sub>**Hebrew:**</sub></small>
+[[H1755\|דּ֭וֹר]] [[H4100\|מָה]][[H9014\|־]] [[H7311A\|רָמ֣וּ]] [[H5869A\|עֵינָ֑י]][[H9023\|ו]] [[H9002\|וְ֝]][[H6079\|עַפְעַפָּ֗י]][[H9023\|ו]] [[H5375M\|יִנָּשֵֽׂאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.12|<< Proverbs 30:12]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.14|Proverbs 30:14 >>]]</td></tr></table>
 

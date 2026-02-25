@@ -1,8 +1,75 @@
+---
+title: Ezra 6:22
+type: Verse
+kjv: "And kept the feast of unleavened bread seven days with joy: for the LORD had made them joyful, and turned the heart of the king of Assyria unto them, to strengthen their hands in the work of the house of God, the God of Israel."
+bsb: "For seven days they kept the Feast of Unleavened Bread with joy, because the LORD had made them joyful and turned the heart of the king of Assyria toward them to strengthen their hands in the work on the house of the God of Israel."
+hebrew: "וַיַּֽעֲשׂ֧וּ חַג־ מַצּ֛וֹת שִׁבְעַ֥ת יָמִ֖ים בְּשִׂמְחָ֑ה כִּ֣י׀ שִׂמְּחָ֣ם יְהוָ֗ה וְֽהֵסֵ֞ב לֵ֤ב מֶֽלֶךְ־ אַשּׁוּר֙ עֲלֵיהֶ֔ם לְחַזֵּ֣ק יְדֵיהֶ֔ם בִּמְלֶ֥אכֶת בֵּית־ הָאֱלֹהִ֖ים אֱלֹהֵ֥י יִשְׂרָאֵֽל׃ פ"
+pericope: "[[Ezra.6.19 The Returned Exiles Keep the Passover|The Returned Exiles Keep the Passover]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 6
+book/chapter: "[[Ezra.6|Ezra 6]]"
+chronological_order: 854
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JOY|JOY]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H2282]]"
+- "[[H9014]]"
+- "[[H4682]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H9003]]"
+- "[[H8057]]"
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H8055]]"
+- "[[H9038]]"
+- "[[H3068G]]"
+- "[[H5437G]]"
+- "[[H3820A]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H5921A]]"
+- "[[H9005]]"
+- "[[H2388G]]"
+- "[[H3027I]]"
+- "[[H9028]]"
+- "[[H4399]]"
+- "[[H1004Q]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezra 6:22**<big><big>[[Ezra.6.19 The Returned Exiles Keep the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And kept the feast of unleavened bread seven days with joy: for the LORD had made them joyful, and turned the heart of the king of Assyria unto them, to strengthen their hands in the work of the house of God, the God of Israel.
 <small><sub>**BSB:**</sub></small>
 For seven days they kept the Feast of Unleavened Bread with joy, because the LORD had made them joyful and turned the heart of the king of Assyria toward them to strengthen their hands in the work on the house of the God of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּֽעֲשׂ֧וּ]] [[H2282\|חַג]][[H9014\|־]] [[H4682\|מַצּ֛וֹת]] [[H7651\|שִׁבְעַ֥ת]] [[H3117G\|יָמִ֖ים]] [[H9003\|בְּ]][[H8057\|שִׂמְחָ֑ה]] [[H3588A\|כִּ֣י]][[H9015\|׀]] [[H8055\|שִׂמְּחָ֣]][[H9038\|ם]] [[H3068G\|יְהוָ֗ה]] [[H9001\|וְֽ]][[H5437G\|הֵסֵ֞ב]] [[H3820A\|לֵ֤ב]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0804G\|אַשּׁוּר֙]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֔ם]] [[H9005\|לְ]][[H2388G\|חַזֵּ֣ק]] [[H3027I\|יְדֵי]][[H9028\|הֶ֔ם]] [[H9003\|בִּ]][[H4399\|מְלֶ֥אכֶת]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H0430G\|אֱלֹהֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic JOY|JOY]] • [[topic LIBERALITY|LIBERALITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.21|<< Ezra 6:21]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.1|Ezra 7:1 >>]]</td></tr></table>
 
@@ -28,7 +95,7 @@ For seven days they kept the Feast of Unleavened Bread with joy, because the LOR
 | [the] house of  |**<big>&#8207;[[H1004Q\|בֵּית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| beit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> God  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0430G\|אֱלֹהִ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] God of  |**<big>&#8207;[[H0430G\|אֱלֹהֵ֥י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.21|<< Ezra 6:21]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.1|Ezra 7:1 >>]]</td></tr></table>
 
 

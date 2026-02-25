@@ -1,8 +1,57 @@
+---
+title: Psalm 71:19
+type: Verse
+kjv: "Thy righteousness also, O God, is very high, who hast done great things: O God, who is like unto thee!"
+bsb: "Your righteousness reaches to the heavens, O God, You who have done great things. Who, O God, is like You?"
+hebrew: "וְצִדְקָתְךָ֥ אֱלֹהִ֗ים עַד־ מָ֫ר֥וֹם אֲשֶׁר־ עָשִׂ֥יתָ גְדֹל֑וֹת אֱ֝לֹהִ֗ים מִ֣י כָמֽוֹךָ׃"
+pericope: "[[Ps.71.1 Be My Rock of Refuge|Be My Rock of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 71
+book/chapter: "[[Ps.71|Psalm 71]]"
+chronological_order: 428
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9002]]"
+- "[[H6666]]"
+- "[[H9021]]"
+- "[[H0430G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H4791]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H1419A]]"
+- "[[H4310]]"
+- "[[H3644G]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 71:19**<big><big>[[Ps.71.1 Be My Rock of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy righteousness also, O God, [is] very high, who hast done great things: O God, who [is] like unto thee!
 <small><sub>**BSB:**</sub></small>
 Your righteousness reaches to the heavens, O God, You who have done great things. Who, O God, is like You?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6666\|צִדְקָתְ]][[H9021\|ךָ֥]] [[H0430G\|אֱלֹהִ֗ים]] [[H5704\|עַד]][[H9014\|־]] [[H4791\|מָ֫ר֥וֹם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|עָשִׂ֥יתָ]] [[H1419A\|גְדֹל֑וֹת]] [[H0430G\|אֱ֝לֹהִ֗ים]] [[H4310\|מִ֣י]] [[H3644G\|כָמֽוֹ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.71.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.71.18|<< Psalms 71:18]]</td><td align="center" style="border:none;">[[Ps.71|Psalms 71]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.20|Psalms 71:20 >>]]</td></tr></table>
 

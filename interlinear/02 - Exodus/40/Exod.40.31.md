@@ -1,8 +1,63 @@
+---
+title: Exodus 40:31
+type: Verse
+kjv: "And Moses and Aaron and his sons washed their hands and their feet thereat:"
+bsb: "and from it Moses, Aaron, and his sons washed their hands and feet."
+hebrew: "וְרָחֲצ֣וּ מִמֶּ֔נּוּ מֹשֶׁ֖ה וְאַהֲרֹ֣ן וּבָנָ֑יו אֶת־ יְדֵיהֶ֖ם וְאֶת־ רַגְלֵיהֶֽם׃"
+pericope: "[[Exod.40.1 Setting Up the Tabernacle|Setting Up the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 40
+book/chapter: "[[Exod.40|Exodus 40]]"
+chronological_order: 132
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic LAVER|LAVER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7364]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H7272]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 40:31**<big><big>[[Exod.40.1 Setting Up the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses and Aaron and his sons washed their hands and their feet thereat:
 <small><sub>**BSB:**</sub></small>
 and from it Moses, Aaron, and his sons washed their hands and feet.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7364\|רָחֲצ֣וּ]] [[H4480A\|מִמֶּ֔]][[H9033\|נּוּ]] [[H4872\|מֹשֶׁ֖ה]] [[H9002\|וְ]][[H0175\|אַהֲרֹ֣ן]] [[H9002\|וּ]][[H1121A\|בָנָ֑י]][[H9023\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יְדֵי]][[H9028\|הֶ֖ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7272\|רַגְלֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic LAVER|LAVER]] • [[topic PRIEST|PRIEST]] • [[topic PURIFICATION|PURIFICATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.30|<< Exodus 40:30]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.32|Exodus 40:32 >>]]</td></tr></table>
 

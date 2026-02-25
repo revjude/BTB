@@ -1,10 +1,57 @@
+---
+title: Galatians 5:14
+type: Verse
+kjv: "For all the law is fulfilled in one word, even in this; Thou shalt love thy neighbour as thyself."
+bsb: "The entire law is fulfilled in a single decree: “Love your neighbor as yourself.”"
+greek: "ὁ γὰρ πᾶς νόμος ἐν ἑνὶ λόγῳ πεπλήρωται, ἐν τῷ ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν."
+pericope: "[[Gal.5.1 Freedom in Christ|Freedom in Christ]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 5
+book/chapter: "[[Gal.5|Galatians 5]]"
+chronological_order: 1043
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic ANARCHY|ANARCHY]]"
+- "[[topic GOLDEN RULE|GOLDEN RULE]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G3956]]"
+- "[[G3551]]"
+- "[[G1722]]"
+- "[[G1520]]"
+- "[[G3056]]"
+- "[[G4137]]"
+- "[[G0025]]"
+- "[[G4139]]"
+- "[[G4771]]"
+- "[[G5613]]"
+texts:
+- NKO
+- N(k)O
+- NK(O)
+---
+
 **Galatians 5:14**<big><big>[[Gal.5.1 Freedom in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For all the law is fulfilled in one word, [even] in this; Thou shalt love thy neighbour as thyself.
 <small><sub>**BSB:**</sub></small>
 The entire law is fulfilled in a single decree: “Love your neighbor as yourself.”
-<small><sub>**Literal:**</sub></small>
-<the> For the entire Law in one word has been fulfilled in this You will love the neighbour of you as yourself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.13|<< Galatians 5:13]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.15|Galatians 5:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1063\|γὰρ]]  [[G3956\|πᾶς]]  [[G3551\|νόμος]]  [[G1722\|ἐν]]  [[G1520\|ἑνὶ]]  [[G3056\|λόγῳ]]  [[G4137\|πεπλήρωται,]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0025\|ἀγαπήσεις]]  [[G3588\|τὸν]]  [[G4139\|πλησίον]]  [[G4771\|σου]]  [[G5613\|ὡς]]  [[G4771\|σεαυτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANARCHY|ANARCHY]] • [[topic GOLDEN RULE|GOLDEN RULE]] • [[topic LOVE|LOVE]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.13|<< Galatians 5:13]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.15|Galatians 5:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Galatians 5:14** is...
 > $\quad$ referencing: [[LXX.Lev.19.18|Lev 19:18]]

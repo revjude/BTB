@@ -1,10 +1,58 @@
+---
+title: Romans 14:3
+type: Verse
+kjv: "Let not him that eateth despise him that eateth not; and let not him which eateth not judge him that eateth: for God hath received him."
+bsb: "The one who eats everything must not belittle the one who does not, and the one who does not eat everything must not judge the one who does, for God has accepted him."
+greek: "ὁ ἐσθίων τὸν μὴ ἐσθίοντα μὴ ἐξουθενείτω, καὶ ὁ δὲ μὴ ἐσθίων τὸν ἐσθίοντα μὴ κρινέτω· ὁ θεὸς γὰρ αὐτὸν προσελάβετο."
+pericope: "[[Rom.14.1 The Law of Liberty|The Law of Liberty]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 14
+book/chapter: "[[Rom.14|Romans 14]]"
+chronological_order: 1100
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic EVIL|EVIL]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[G3588]]"
+- "[[G2068]]"
+- "[[G3361]]"
+- "[[G1848]]"
+- "[[G2532]]"
+- "[[G1161]]"
+- "[[G2919]]"
+- "[[G2316]]"
+- "[[G1063]]"
+- "[[G0846]]"
+- "[[G4355]]"
+texts:
+- NKO
+- k
+- no
+---
+
 **Romans 14:3**<big><big>[[Rom.14.1 The Law of Liberty|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Let not him that eateth despise him that eateth not; and let not him which eateth not judge him that eateth: for God hath received him.
 <small><sub>**BSB:**</sub></small>
 The one who eats everything must not belittle the one who does not, and the one who does not eat everything must not judge the one who does, for God has accepted him.
-<small><sub>**Literal:**</sub></small>
-The [one] eating the [one] not eating not he should despise, and the [one] now not eating him eating not he should judge; <the> God for him has received.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.2|<< Romans 14:2]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.4|Romans 14:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G2068\|ἐσθίων]]  [[G3588\|τὸν]]  [[G3361\|μὴ]]  [[G2068\|ἐσθίοντα]]  [[G3361\|μὴ]]  [[G1848\|ἐξουθενείτω,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G3361\|μὴ]]  [[G2068\|ἐσθίων]]  [[G3588\|τὸν]]  [[G2068\|ἐσθίοντα]]  [[G3361\|μὴ]]  [[G2919\|κρινέτω·]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1063\|γὰρ]]  [[G0846\|αὐτὸν]]  [[G4355\|προσελάβετο.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic EVIL|EVIL]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.2|<< Romans 14:2]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.4|Romans 14:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Signs of Home Contamination
+type: Pericope
 pericope: "[[Lev.14.33 Signs of Home Contamination|Signs of Home Contamination]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 14
 book/chapter: "[[Lev.14|Leviticus 14]]"
-genre:
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 15
 verses:
 - "[[Lev.14.33]]"
 - "[[Lev.14.34]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Lev.14.47]]"
 ---
 
-[[Lev.14|Leviticus 14:33 - Leviticus 14:47]]
+<small>[[Lev.14|Leviticus 14:33-47]]</small>
 *Signs of Home Contamination*
 
 [[Lev.14.33|33]] And the LORD spake unto Moses and unto Aaron, saying,

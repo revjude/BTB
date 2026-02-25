@@ -1,8 +1,66 @@
+---
+title: Ezekiel 14:19
+type: Verse
+kjv: "Or if I send a pestilence into that land, and pour out my fury upon it in blood, to cut off from it man and beast:"
+bsb: "Or if I send a plague into that land and pour out My wrath upon it through bloodshed, cutting off from it both man and beast,"
+hebrew: "א֛וֹ דֶּ֥בֶר אֲשַׁלַּ֖ח אֶל־ הָאָ֣רֶץ הַהִ֑יא וְשָׁפַכְתִּ֨י חֲמָתִ֤י עָלֶ֙יהָ֙ בְּדָ֔ם לְהַכְרִ֥ית מִמֶּ֖נָּה אָדָ֥ם וּבְהֵמָֽה׃"
+pericope: "[[Ezek.14.12 Four Dire Judgments|Four Dire Judgments]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 14
+book/chapter: "[[Ezek.14|Ezekiel 14]]"
+chronological_order: 805
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+strongs:
+- "[[H0176A]]"
+- "[[H1698]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H1931]]"
+- "[[H9001]]"
+- "[[H8210G]]"
+- "[[H2534]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H9003]]"
+- "[[H1818]]"
+- "[[H9005]]"
+- "[[H3772I]]"
+- "[[H4480A]]"
+- "[[H0120G]]"
+- "[[H9002]]"
+- "[[H0929]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 14:19**<big><big>[[Ezek.14.12 Four Dire Judgments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or [if] I send a pestilence into that land, and pour out my fury upon it in blood, to cut off from it man and beast:
 <small><sub>**BSB:**</sub></small>
 Or if I send a plague into that land and pour out My wrath upon it through bloodshed, cutting off from it both man and beast,
+<small><sub>**Hebrew:**</sub></small>
+[[H0176A\|א֛וֹ]] [[H1698\|דֶּ֥בֶר]] [[H7971G\|אֲשַׁלַּ֖ח]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H1931\|הִ֑יא]] [[H9001\|וְ]][[H8210G\|שָׁפַכְתִּ֨י]] [[H2534\|חֲמָתִ֤]][[H9020\|י]] [[H5921A\|עָלֶ֙י]][[H9034\|הָ֙]] [[H9003\|בְּ]][[H1818\|דָ֔ם]] [[H9005\|לְ]][[H3772I\|הַכְרִ֥ית]] [[H4480A\|מִמֶּ֖]][[H9034\|נָּה]] [[H0120G\|אָדָ֥ם]] [[H9002\|וּ]][[H0929\|בְהֵמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.14.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.18|<< Ezekiel 14:18]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.20|Ezekiel 14:20 >>]]</td></tr></table>
 

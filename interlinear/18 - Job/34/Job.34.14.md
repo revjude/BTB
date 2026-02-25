@@ -1,8 +1,55 @@
+---
+title: Job 34:14
+type: Verse
+kjv: "If he set his heart upon man, if he gather unto himself his spirit and his breath;"
+bsb: "If He were to set His heart to it and withdraw His Spirit and breath,"
+hebrew: "אִם־ יָשִׂ֣ים אֵלָ֣יו לִבּ֑וֹ רוּח֥וֹ וְ֝נִשְׁמָת֗וֹ אֵלָ֥יו יֶאֱסֹֽף׃"
+pericope: "[[Job.34.1 Elihu Confirms God’s Justice|Elihu Confirms God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 34
+book/chapter: "[[Job.34|Job 34]]"
+chronological_order: 45
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LIFE|LIFE]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H7760A]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H7307G]]"
+- "[[H9002]]"
+- "[[H5397]]"
+- "[[H0622]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 34:14**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If he set his heart upon man, [if] he gather unto himself his spirit and his breath;
 <small><sub>**BSB:**</sub></small>
 If He were to set His heart to it and withdraw His Spirit and breath,
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H7760A\|יָשִׂ֣ים]] [[H0413\|אֵלָ֣י]][[H9033\|ו]] [[H3820A\|לִבּ֑]][[H9023\|וֹ]] [[H7307G\|רוּח֥]][[H9023\|וֹ]] [[H9002\|וְ֝]][[H5397\|נִשְׁמָת֗]][[H9023\|וֹ]] [[H0413\|אֵלָ֥י]][[H9033\|ו]] [[H0622\|יֶאֱסֹֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic LIFE|LIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.13|<< Job 34:13]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.15|Job 34:15 >>]]</td></tr></table>
 

@@ -1,8 +1,52 @@
+---
+title: 1 Chronicles 8:29
+type: Verse
+kjv: "And at Gibeon dwelt the father of Gibeon; whose wife’s name was Maachah:"
+bsb: "Jeiel the father of Gibeon lived in Gibeon. His wife’s name was Maacah,"
+hebrew: "וּבְגִבְע֥וֹן יָשְׁב֖וּ יְעִיאֵל אֲבִ֣י גִבְע֑וֹן וְשֵׁ֥ם אִשְׁתּ֖וֹ מַעֲכָֽה׃"
+pericope: "[[1Chr.8.1 Genealogy from Benjamin to Saul|Genealogy from Benjamin to Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 8
+book/chapter: "[[1Chr.8|1 Chronicles 8]]"
+chronological_order: 327
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic MAACHAH|MAACHAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H1391]]"
+- "[[H3427]]"
+- "[[H3273G]]"
+- "[[H0001I]]"
+- "[[H8034]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H4601N]]"
+- "[[H9016]]"
+texts:
+- L
+- X
+---
+
 **1 Chronicles 8:29**<big><big>[[1Chr.8.1 Genealogy from Benjamin to Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And at Gibeon dwelt the father of Gibeon; whose wife’s name [was] Maachah:
 <small><sub>**BSB:**</sub></small>
 Jeiel the father of Gibeon lived in Gibeon. His wife’s name was Maacah,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H1391\|גִבְע֥וֹן]] [[H3427\|יָשְׁב֖וּ]] [[H3273G\|יְעִיאֵל]] [[H0001I\|אֲבִ֣י]] [[H1391\|גִבְע֑וֹן]] [[H9002\|וְ]][[H8034\|שֵׁ֥ם]] [[H0802H\|אִשְׁתּ֖]][[H9023\|וֹ]] [[H4601N\|מַעֲכָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MAACHAH|MAACHAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.8.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.28|<< 1 Chronicles 8:28]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.30|1 Chronicles 8:30 >>]]</td></tr></table>
 

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jeremiah’s Message to Baruch
+type: Pericope
 pericope: "[[Jer.45.1 Jeremiah’s Message to Baruch|Jeremiah’s Message to Baruch]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 45
 book/chapter: "[[Jer.45|Jeremiah 45]]"
-genre:
+chronological_order: 768
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 5
 verses:
 - "[[Jer.45.1]]"
 - "[[Jer.45.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Jer.45.5]]"
 ---
 
-[[Jer.45|Jeremiah 45:1 - Jeremiah 45:5]]
+<small>[[Jer.45|Jeremiah 45:1-5]]</small>
 *Jeremiah’s Message to Baruch*
 
 [[Jer.45.1|1]] The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying,

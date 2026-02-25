@@ -1,10 +1,50 @@
+---
+title: Acts 19:11
+type: Verse
+kjv: "And God wrought special miracles by the hands of Paul:"
+bsb: "God did extraordinary miracles through the hands of Paul,"
+greek: "δυνάμεις τε οὐ τὰς τυχούσας ὁ θεὸς ἐποίει διὰ τῶν χειρῶν Παύλου,"
+pericope: "[[Acts.19.8 Paul Ministers in Ephesus|Paul Ministers in Ephesus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic HAND|HAND]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G1411]]"
+- "[[G5037]]"
+- "[[G3756]]"
+- "[[G3588]]"
+- "[[G5177]]"
+- "[[G2316]]"
+- "[[G4160G]]"
+- "[[G1223]]"
+- "[[G5495]]"
+- "[[G3972G]]"
+texts:
+- NKO
+---
+
 **Acts 19:11**<big><big>[[Acts.19.8 Paul Ministers in Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And God wrought special miracles by the hands of Paul:
 <small><sub>**BSB:**</sub></small>
 God did extraordinary miracles through the hands of Paul,
-<small><sub>**Literal:**</sub></small>
-Miracles then not <the> being ordinary <the> God was doing through the hands of Paul,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.10|<< Acts 19:10]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.12|Acts 19:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1411\|δυνάμεις]]  [[G5037\|τε]]  [[G3756\|οὐ]]  [[G3588\|τὰς]]  [[G5177\|τυχούσας]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G4160G\|ἐποίει]]  [[G1223\|διὰ]]  [[G3588\|τῶν]]  [[G5495\|χειρῶν]]  [[G3972G\|Παύλου,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAND|HAND]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.10|<< Acts 19:10]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.12|Acts 19:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

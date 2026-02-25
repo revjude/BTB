@@ -1,8 +1,63 @@
+---
+title: Exodus 31:15
+type: Verse
+kjv: "Six days may work be done; but in the seventh is the sabbath of rest, holy to the LORD: whosoever doeth any work in the sabbath day, he shall surely be put to death."
+bsb: "For six days work may be done, but the seventh day is a Sabbath of complete rest, holy to the LORD. Whoever does any work on the Sabbath day must surely be put to death."
+hebrew: "שֵׁ֣שֶׁת יָמִים֮ יֵעָשֶׂ֣ה מְלָאכָה֒ וּבַיּ֣וֹם הַשְּׁבִיעִ֗י שַׁבַּ֧ת שַׁבָּת֛וֹן קֹ֖דֶשׁ לַיהוָ֑ה כָּל־ הָעֹשֶׂ֧ה מְלָאכָ֛ה בְּי֥וֹם הַשַּׁבָּ֖ת מ֥וֹת יוּמָֽת׃"
+pericope: "[[Exod.31.12 The Sign of the Sabbath|The Sign of the Sabbath]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 31
+book/chapter: "[[Exod.31|Exodus 31]]"
+chronological_order: 123
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H8337]]"
+- "[[H3117G]]"
+- "[[H6213A]]"
+- "[[H4399]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H9009]]"
+- "[[H7637]]"
+- "[[H7676]]"
+- "[[H7677]]"
+- "[[H6944G]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 31:15**<big><big>[[Exod.31.12 The Sign of the Sabbath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Six days may work be done; but in the seventh [is] the sabbath of rest, holy to the LORD: whosoever doeth [any] work in the sabbath day, he shall surely be put to death.
 <small><sub>**BSB:**</sub></small>
 For six days work may be done, but the seventh day is a Sabbath of complete rest, holy to the LORD. Whoever does any work on the Sabbath day must surely be put to death.
+<small><sub>**Hebrew:**</sub></small>
+[[H8337\|שֵׁ֣שֶׁת]] [[H3117G\|יָמִים֮]] [[H6213A\|יֵעָשֶׂ֣ה]] [[H4399\|מְלָאכָה֒]] [[H9002\|וּ]][[H9003\|בַ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֗י]] [[H7676\|שַׁבַּ֧ת]] [[H7677\|שַׁבָּת֛וֹן]] [[H6944G\|קֹ֖דֶשׁ]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H6213A\|עֹשֶׂ֧ה]] [[H4399\|מְלָאכָ֛ה]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H9009\|הַ]][[H7676\|שַּׁבָּ֖ת]] [[H4191\|מ֥וֹת]] [[H4191\|יוּמָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SABBATH|SABBATH]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.31.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.31.14|<< Exodus 31:14]]</td><td align="center" style="border:none;">[[Exod.31|Exodus 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.31.16|Exodus 31:16 >>]]</td></tr></table>
 

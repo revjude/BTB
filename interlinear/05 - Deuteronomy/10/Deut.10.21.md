@@ -1,8 +1,64 @@
+---
+title: Deuteronomy 10:21
+type: Verse
+kjv: "He is thy praise, and he is thy God, that hath done for thee these great and terrible things, which thine eyes have seen."
+bsb: "He is your praise and He is your God, who has done for you these great and awesome wonders that your eyes have seen."
+hebrew: "ה֥וּא תְהִלָּתְךָ֖ וְה֣וּא אֱלֹהֶ֑יךָ אֲשֶׁר־ עָשָׂ֣ה אִתְּךָ֗ אֶת־ הַגְּדֹלֹ֤ת וְאֶת־ הַנּֽוֹרָאֹת֙ הָאֵ֔לֶּה אֲשֶׁ֥ר רָא֖וּ עֵינֶֽיךָ׃"
+pericope: "[[Deut.10.12 A Call to Obedience|A Call to Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 10
+book/chapter: "[[Deut.10|Deuteronomy 10]]"
+chronological_order: 206
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H1931]]"
+- "[[H8416]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H0430G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H0854]]"
+- "[[H9031]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H1419A]]"
+- "[[H3372H]]"
+- "[[H0428]]"
+- "[[H7200G]]"
+- "[[H5869A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 10:21**<big><big>[[Deut.10.12 A Call to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He [is] thy praise, and he [is] thy God, that hath done for thee these great and terrible things, which thine eyes have seen.
 <small><sub>**BSB:**</sub></small>
 He is your praise and He is your God, who has done for you these great and awesome wonders that your eyes have seen.
+<small><sub>**Hebrew:**</sub></small>
+[[H1931\|ה֥וּא]] [[H8416\|תְהִלָּתְ]][[H9021\|ךָ֖]] [[H9002\|וְ]][[H1931\|ה֣וּא]] [[H0430G\|אֱלֹהֶ֑י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|עָשָׂ֣ה]] [[H0854\|אִתְּ]][[H9031\|ךָ֗]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1419A\|גְּדֹלֹ֤ת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3372H\|נּֽוֹרָאֹת֙]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H0834A\|אֲשֶׁ֥ר]] [[H7200G\|רָא֖וּ]] [[H5869A\|עֵינֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAISE|PRAISE]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.10.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.20|<< Deuteronomy 10:20]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.22|Deuteronomy 10:22 >>]]</td></tr></table>
 

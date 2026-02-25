@@ -1,8 +1,65 @@
+---
+title: Amos 4:6
+type: Verse
+kjv: "And I also have given you cleanness of teeth in all your cities, and want of bread in all your places: yet have ye not returned unto me, saith the LORD."
+bsb: "“I afflicted all your cities with cleanness of teeth and all your towns with lack of bread, yet you did not return to Me,” declares the LORD."
+hebrew: "וְגַם־ אֲנִי֩ נָתַ֨תִּי לָכֶ֜ם נִקְי֤וֹן שִׁנַּ֙יִם֙ בְּכָל־ עָ֣רֵיכֶ֔ם וְחֹ֣סֶר לֶ֔חֶם בְּכֹ֖ל מְקוֹמֹֽתֵיכֶ֑ם וְלֹֽא־ שַׁבְתֶּ֥ם עָדַ֖י נְאֻם־ יְהוָֽה׃"
+pericope: "[[Amos.4.1 Punishment Brings No Repentance|Punishment Brings No Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 4
+book/chapter: "[[Amos.4|Amos 4]]"
+chronological_order: 601
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAMINE|FAMINE]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H5356B]]"
+- "[[H8127G]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H5892B]]"
+- "[[H9026]]"
+- "[[H2640]]"
+- "[[H3899H]]"
+- "[[H4725]]"
+- "[[H3808]]"
+- "[[H7725G]]"
+- "[[H5704]]"
+- "[[H9030]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 4:6**<big><big>[[Amos.4.1 Punishment Brings No Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I also have given you cleanness of teeth in all your cities, and want of bread in all your places: yet have ye not returned unto me, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 “I afflicted all your cities with cleanness of teeth and all your towns with lack of bread, yet you did not return to Me,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H0589\|אֲנִי֩]] [[H5414G\|נָתַ֨תִּי]] [[H9005\|לָ]][[H9036\|כֶ֜ם]] [[H5356B\|נִקְי֤וֹן]] [[H8127G\|שִׁנַּ֙יִם֙]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H5892B\|עָ֣רֵי]][[H9026\|כֶ֔ם]] [[H9002\|וְ]][[H2640\|חֹ֣סֶר]] [[H3899H\|לֶ֔חֶם]] [[H9003\|בְּ]][[H3605\|כֹ֖ל]] [[H4725\|מְקוֹמֹֽתֵי]][[H9026\|כֶ֑ם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7725G\|שַׁבְתֶּ֥ם]] [[H5704\|עָדַ֖]][[H9030\|י]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAMINE|FAMINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.4.5|<< Amos 4:5]]</td><td align="center" style="border:none;">[[Amos.4|Amos 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.4.7|Amos 4:7 >>]]</td></tr></table>
 

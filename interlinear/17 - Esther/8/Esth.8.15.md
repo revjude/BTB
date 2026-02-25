@@ -1,8 +1,72 @@
+---
+title: Esther 8:15
+type: Verse
+kjv: "And Mordecai went out from the presence of the king in royal apparel of blue and white, and with a great crown of gold, and with a garment of fine linen and purple: and the city of Shushan rejoiced and was glad."
+bsb: "Mordecai went out from the presence of the king in royal garments of blue and white, with a large gold crown and a purple robe of fine linen. And the city of Susa shouted and rejoiced."
+hebrew: "וּמָרְדֳּכַ֞י יָצָ֣א׀ מִלִּפְנֵ֣י הַמֶּ֗לֶךְ בִּלְב֤וּשׁ מַלְכוּת֙ תְּכֵ֣לֶת וָח֔וּר וַעֲטֶ֤רֶת זָהָב֙ גְּדוֹלָ֔ה וְתַכְרִ֥יךְ בּ֖וּץ וְאַרְגָּמָ֑ן וְהָעִ֣יר שׁוּשָׁ֔ן צָהֲלָ֖ה וְשָׂמֵֽחָה׃"
+pericope: "[[Esth.8.7 The Decree of Xerxes|The Decree of Xerxes]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 8
+book/chapter: "[[Esth.8|Esther 8]]"
+chronological_order: 906
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic CROWN|CROWN]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic JOY|JOY]]"
+- "[[topic KING|KING]]"
+- "[[topic LINEN|LINEN]]"
+- "[[topic MORDECAI|MORDECAI]]"
+- "[[topic SHUSHAN (SUSA)|SHUSHAN (SUSA)]]"
+strongs:
+- "[[H9002]]"
+- "[[H4782H]]"
+- "[[H3318G]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H6440H]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9003]]"
+- "[[H3830]]"
+- "[[H4438]]"
+- "[[H8504]]"
+- "[[H2353]]"
+- "[[H5850]]"
+- "[[H2091]]"
+- "[[H1419A]]"
+- "[[H8509]]"
+- "[[H0948]]"
+- "[[H0713]]"
+- "[[H5892B]]"
+- "[[H7800]]"
+- "[[H6670A]]"
+- "[[H8055]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 8:15**<big><big>[[Esth.8.7 The Decree of Xerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Mordecai went out from the presence of the king in royal apparel of blue and white, and with a great crown of gold, and with a garment of fine linen and purple: and the city of Shushan rejoiced and was glad.
 <small><sub>**BSB:**</sub></small>
 Mordecai went out from the presence of the king in royal garments of blue and white, with a large gold crown and a purple robe of fine linen. And the city of Susa shouted and rejoiced.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4782H\|מָרְדֳּכַ֞י]] [[H3318G\|יָצָ֣א]][[H9015\|׀]] [[H9006\|מִ]][[H9005\|לִּ]][[H6440H\|פְנֵ֣י]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H9003\|בִּ]][[H3830\|לְב֤וּשׁ]] [[H4438\|מַלְכוּת֙]] [[H8504\|תְּכֵ֣לֶת]] [[H9002\|וָ]][[H2353\|ח֔וּר]] [[H9002\|וַ]][[H5850\|עֲטֶ֤רֶת]] [[H2091\|זָהָב֙]] [[H1419A\|גְּדוֹלָ֔ה]] [[H9002\|וְ]][[H8509\|תַכְרִ֥יךְ]] [[H0948\|בּ֖וּץ]] [[H9002\|וְ]][[H0713\|אַרְגָּמָ֑ן]] [[H9002\|וְ]][[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H7800\|שׁוּשָׁ֔ן]] [[H6670A\|צָהֲלָ֖ה]] [[H9002\|וְ]][[H8055\|שָׂמֵֽחָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic CROWN|CROWN]] • [[topic GOLD|GOLD]] • [[topic JOY|JOY]] • [[topic KING|KING]] • [[topic LINEN|LINEN]] • [[topic MORDECAI|MORDECAI]] • [[topic SHUSHAN (SUSA)|SHUSHAN (SUSA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.8.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.8.14|<< Esther 8:14]]</td><td align="center" style="border:none;">[[Esth.8|Esther 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.8.16|Esther 8:16 >>]]</td></tr></table>
 

@@ -1,8 +1,75 @@
+---
+title: 1 Kings 3:11
+type: Verse
+kjv: "And God said unto him, Because thou hast asked this thing, and hast not asked for thyself long life; neither hast asked riches for thyself, nor hast asked the life of thine enemies; but hast asked for thyself understanding to discern judgment;"
+bsb: "So God said to him, “Since you have asked for this instead of requesting long life or wealth for yourself or death for your enemies—but you have asked for discernment to administer justice—"
+hebrew: "וַיֹּ֨אמֶר אֱלֹהִ֜ים אֵלָ֗יו יַעַן֩ אֲשֶׁ֨ר שָׁאַ֜לְתָּ אֶת־ הַדָּבָ֣ר הַזֶּ֗ה וְלֹֽא־ שָׁאַ֨לְתָּ לְּךָ֜ יָמִ֣ים רַבִּ֗ים וְלֹֽא־ שָׁאַ֤לְתָּ לְּךָ֙ עֹ֔שֶׁר וְלֹ֥א שָׁאַ֖לְתָּ נֶ֣פֶשׁ אֹיְבֶ֑יךָ וְשָׁאַ֧לְתָּ לְּךָ֛ הָבִ֖ין לִשְׁמֹ֥עַ מִשְׁפָּֽט׃"
+pericope: "[[1Kgs.3.1 Solomon’s Prayer for Wisdom|Solomon’s Prayer for Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 3
+book/chapter: "[[1Kgs.3|1 Kings 3]]"
+chronological_order: 443
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic HEART|HEART]]"
+- "[[topic LONGEVITY|LONGEVITY]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0430G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3282]]"
+- "[[H0834A]]"
+- "[[H7592]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H3117G]]"
+- "[[H7227A]]"
+- "[[H6239]]"
+- "[[H5315H]]"
+- "[[H0341]]"
+- "[[H9021]]"
+- "[[H0995]]"
+- "[[H8085K]]"
+- "[[H4941H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 3:11**<big><big>[[1Kgs.3.1 Solomon’s Prayer for Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God said unto him, Because thou hast asked this thing, and hast not asked for thyself long life; neither hast asked riches for thyself, nor hast asked the life of thine enemies; but hast asked for thyself understanding to discern judgment;
 <small><sub>**BSB:**</sub></small>
 So God said to him, “Since you have asked for this instead of requesting long life or wealth for yourself or death for your enemies—but you have asked for discernment to administer justice—
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0430G\|אֱלֹהִ֜ים]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H3282\|יַעַן֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H7592\|שָׁאַ֜לְתָּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דָּבָ֣ר]] [[H9009\|הַ]][[H2088\|זֶּ֗ה]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7592\|שָׁאַ֨לְתָּ]] [[H9005\|לְּ]][[H9031\|ךָ֜]] [[H3117G\|יָמִ֣ים]] [[H7227A\|רַבִּ֗ים]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7592\|שָׁאַ֤לְתָּ]] [[H9005\|לְּ]][[H9031\|ךָ֙]] [[H6239\|עֹ֔שֶׁר]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H7592\|שָׁאַ֖לְתָּ]] [[H5315H\|נֶ֣פֶשׁ]] [[H0341\|אֹיְבֶ֑י]][[H9021\|ךָ]] [[H9001\|וְ]][[H7592\|שָׁאַ֧לְתָּ]] [[H9005\|לְּ]][[H9031\|ךָ֛]] [[H0995\|הָבִ֖ין]] [[H9005\|לִ]][[H8085K\|שְׁמֹ֥עַ]] [[H4941H\|מִשְׁפָּֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COMMUNION|COMMUNION]] • [[topic DREAM|DREAM]] • [[topic HEART|HEART]] • [[topic LONGEVITY|LONGEVITY]] • [[topic PRAYER|PRAYER]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.10|<< 1 Kings 3:10]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3.12|1 Kings 3:12 >>]]</td></tr></table>
 

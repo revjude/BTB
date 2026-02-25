@@ -1,6 +1,76 @@
+---
+title: LXX Deuteronomy 16:3
+type: Verse
+lxx: "You shall not eat it with yeast; seven days you shall eat it with unleavened breads, bread of affliction; for in haste you came forth from out of Egypt at night; that you should remember the day  of your departure from out of the land of Egypt all the days  of your life."
+greek: "ου φαγή επ αυτού ζύμην επτά ημέρας φαγή επ αυτού άζυμα άρτον κακώσεως ότι εν σπουδή εξήλθετε εξ Αιγύπτου νυκτός ίνα μνησθήτε την ημέραν της εξοδίας υμών εκ γης Αιγύπτου πάσας τας ημέρας της ζωής υμών"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 16
+book/chapter: "[[Deut.16|Deuteronomy 16]]"
+chronological_order: 212
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[G3756]]"
+- "[[G2068]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G2219]]"
+- "[[G2033]]"
+- "[[G2250]]"
+- "[[G2068]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G0106]]"
+- "[[G0740]]"
+- "[[G2561]]"
+- "[[G3754]]"
+- "[[G1722]]"
+- "[[G4710]]"
+- "[[G1831]]"
+- "[[G1537]]"
+- "[[G0125]]"
+- "[[G3571]]"
+- "[[G2443]]"
+- "[[G3403]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3588]]"
+- "[[G7339]]"
+- "[[G1473]]"
+- "[[G1537]]"
+- "[[G1093]]"
+- "[[G0125]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3588]]"
+- "[[G2222]]"
+- "[[G1473]]"
+---
+
 **LXX Deuteronomy 16:3** 
 <small><sub>**LXX:**</sub></small>
 You shall not eat it with yeast; seven days you shall eat it with unleavened \[breads\], bread of affliction; for in haste you came forth from out of Egypt at night; that you should remember the day  of your departure from out of \[the\] land of Egypt all the days  of your life. 
+<small><sub>**Greek:**</sub></small>
+[[G3756\|ου]] [[G2068\|φαγή]] [[G1909\|επ]] [[G1473\|αυτού]] [[G2219\|ζύμην]] [[G2033\|επτά]] [[G2250\|ημέρας]] [[G2068\|φαγή]] [[G1909\|επ]] [[G1473\|αυτού]] [[G0106\|άζυμα]] [[G0740\|άρτον]] [[G2561\|κακώσεως]] [[G3754\|ότι]] [[G1722\|εν]] [[G4710\|σπουδή]] [[G1831\|εξήλθετε]] [[G1537\|εξ]] [[G0125\|Αιγύπτου]] [[G3571\|νυκτός]] [[G2443\|ίνα]] [[G3403\|μνησθήτε]] [[G3588\|την]] [[G2250\|ημέραν]] [[G3588\|της]] [[G7339\|εξοδίας]] [[G1473\|υμών]] [[G1537\|εκ]] [[G1093\|γης]] [[G0125\|Αιγύπτου]] [[G3956\|πάσας]] [[G3588\|τας]] [[G2250\|ημέρας]] [[G3588\|της]] [[G2222\|ζωής]] [[G1473\|υμών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.16.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.2|<< Deuteronomy 16:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.4|Deuteronomy 16:4 >>]]</td></tr></table>
 
@@ -38,6 +108,6 @@ You shall not eat it with yeast; seven days you shall eat it with unleavened \[b
 | days | **<big>[[G2250\|ημέρας]]</big>** |
 | \<obj.> | **<big>[[G3588\|της]]</big>** |
 | of your life. | **<big>[[G2222\|ζωής]]</big>** **<big>[[G1473\|υμών]]</big>** |
-[[Deut.16.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.2|<< Deuteronomy 16:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.4|Deuteronomy 16:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.2|<< Deuteronomy 16:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.4|Deuteronomy 16:4 >>]]</td></tr></table>
 
 

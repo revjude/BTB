@@ -1,8 +1,71 @@
+---
+title: Genesis 37:27
+type: Verse
+kjv: "Come, and let us sell him to the Ishmeelites, and let not our hand be upon him; for he is our brother and our flesh. And his brethren were content."
+bsb: "Come, let us sell him to the Ishmaelites and not lay a hand on him; for he is our brother, our own flesh.” And they agreed."
+hebrew: "לְכ֞וּ וְנִמְכְּרֶ֣נּוּ לַיִּשְׁמְעֵאלִ֗ים וְיָדֵ֙נוּ֙ אַל־ תְּהִי־ ב֔וֹ כִּֽי־ אָחִ֥ינוּ בְשָׂרֵ֖נוּ ה֑וּא וַֽיִּשְׁמְע֖וּ אֶחָֽיו׃"
+pericope: "[[Gen.37.12 Joseph Sold into Egypt|Joseph Sold into Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 37
+book/chapter: "[[Gen.37|Genesis 37]]"
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISHMAELITES|ISHMAELITES]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic REUBEN|REUBEN]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H1980K]]"
+- "[[H9002]]"
+- "[[H4376]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H3459]]"
+- "[[H3027G]]"
+- "[[H9025]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3588A]]"
+- "[[H0251G]]"
+- "[[H1320]]"
+- "[[H1931]]"
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 37:27**<big><big>[[Gen.37.12 Joseph Sold into Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come, and let us sell him to the Ishmeelites, and let not our hand be upon him; for he [is] our brother [and] our flesh. And his brethren were content.
 <small><sub>**BSB:**</sub></small>
 Come, let us sell him to the Ishmaelites and not lay a hand on him; for he is our brother, our own flesh.” And they agreed.
+<small><sub>**Hebrew:**</sub></small>
+[[H1980K\|לְכ֞וּ]] [[H9002\|וְ]][[H4376\|נִמְכְּרֶ֣]][[H9033\|נּוּ]] [[H9005\|לַ]][[H3459\|יִּשְׁמְעֵאלִ֗ים]] [[H9002\|וְ]][[H3027G\|יָדֵ֙]][[H9025\|נוּ֙]] [[H0408\|אַל]][[H9014\|־]] [[H1961\|תְּהִי]][[H9014\|־]] [[H9003\|ב֔]][[H9033\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0251G\|אָחִ֥י]][[H9025\|נוּ]] [[H1320\|בְשָׂרֵ֖]][[H9025\|נוּ]] [[H1931\|ה֑וּא]] [[H9001\|וַֽ]][[H8085G\|יִּשְׁמְע֖וּ]] [[H0251G\|אֶחָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISHMAELITES|ISHMAELITES]] • [[topic JEALOUSY|JEALOUSY]] • [[topic JOSEPH|JOSEPH]] • [[topic JUDAH|JUDAH]] • [[topic REUBEN|REUBEN]] • [[topic SERVANT|SERVANT]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.26|<< Genesis 37:26]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.28|Genesis 37:28 >>]]</td></tr></table>
 

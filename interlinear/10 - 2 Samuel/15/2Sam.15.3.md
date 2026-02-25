@@ -1,8 +1,71 @@
+---
+title: 2 Samuel 15:3
+type: Verse
+kjv: "And Absalom said unto him, See, thy matters are good and right; but there is no man deputed of the king to hear thee."
+bsb: "Absalom would say, “Look, your claims are good and right, but the king has no deputy to hear you.”"
+hebrew: "וַיֹּ֤אמֶר אֵלָיו֙ אַבְשָׁל֔וֹם רְאֵ֥ה דְבָרֶ֖ךָ טוֹבִ֣ים וּנְכֹחִ֑ים וְשֹׁמֵ֥עַ אֵין־ לְךָ֖ מֵאֵ֥ת הַמֶּֽלֶךְ׃"
+pericope: "[[2Sam.15.1 Absalom’s Conspiracy|Absalom’s Conspiracy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 15
+book/chapter: "[[2Sam.15|2 Samuel 15]]"
+chronological_order: 414
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CANDIDATE|CANDIDATE]]"
+- "[[topic DEMAGOGISM|DEMAGOGISM]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic ELECTIONEERING|ELECTIONEERING]]"
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic POPULARITY|POPULARITY]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0053]]"
+- "[[H7200I]]"
+- "[[H1697L]]"
+- "[[H9021]]"
+- "[[H2896A]]"
+- "[[H9002]]"
+- "[[H5228]]"
+- "[[H8085G]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 15:3**<big><big>[[2Sam.15.1 Absalom’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Absalom said unto him, See, thy matters [are] good and right; but [there is] no man [deputed] of the king to hear thee.
 <small><sub>**BSB:**</sub></small>
 Absalom would say, “Look, your claims are good and right, but the king has no deputy to hear you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H0053\|אַבְשָׁל֔וֹם]] [[H7200I\|רְאֵ֥ה]] [[H1697L\|דְבָרֶ֖]][[H9021\|ךָ]] [[H2896A\|טוֹבִ֣ים]] [[H9002\|וּ]][[H5228\|נְכֹחִ֑ים]] [[H9002\|וְ]][[H8085G\|שֹׁמֵ֥עַ]] [[H0369\|אֵין]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H9006\|מֵ]][[H0854\|אֵ֥ת]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic AMBITION|AMBITION]] • [[topic CANDIDATE|CANDIDATE]] • [[topic DEMAGOGISM|DEMAGOGISM]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic ELECTIONEERING|ELECTIONEERING]] • [[topic FLATTERY|FLATTERY]] • [[topic POLITICS|POLITICS]] • [[topic POPULARITY|POPULARITY]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.2|<< 2 Samuel 15:2]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.4|2 Samuel 15:4 >>]]</td></tr></table>
 

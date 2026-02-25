@@ -1,10 +1,55 @@
+---
+title: Acts 13:12
+type: Verse
+kjv: "Then the deputy, when he saw what was done, believed, being astonished at the doctrine of the Lord."
+bsb: "When the proconsul saw what had happened, he believed, for he was astonished at the teaching about the Lord."
+greek: "τότε ἰδὼν ὁ ἀνθύπατος τὸ γεγονὸς ἐπίστευσεν ἐκπλησσόμενος ἐπὶ τῇ διδαχῇ τοῦ κυρίου.¶"
+pericope: "[[Acts.13.4 On Cyprus|On Cyprus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic CYPRUS|CYPRUS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PAPHOS|PAPHOS]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SERGIUS PAULUS|SERGIUS PAULUS]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+strongs:
+- "[[G5119]]"
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G0446]]"
+- "[[G1096]]"
+- "[[G4100]]"
+- "[[G1605]]"
+- "[[G1909]]"
+- "[[G1322]]"
+- "[[G2962G]]"
+texts:
+- NKO
+---
+
 **Acts 13:12**<big><big>[[Acts.13.4 On Cyprus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then the deputy, when he saw what was done, believed, being astonished at the doctrine of the Lord.
 <small><sub>**BSB:**</sub></small>
 When the proconsul saw what had happened, he believed, for he was astonished at the teaching about the Lord.
-<small><sub>**Literal:**</sub></small>
-Then having seen the proconsul that having happened he believed being astonished at the teaching of the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.11|<< Acts 13:11]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.13|Acts 13:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|τότε]]  [[G1492H\|ἰδὼν]]  [[G3588\|ὁ]]  [[G0446\|ἀνθύπατος]]  [[G3588\|τὸ]]  [[G1096\|γεγονὸς]]  [[G4100\|ἐπίστευσεν]]  [[G1605\|ἐκπλησσόμενος]]  [[G1909\|ἐπὶ]]  [[G3588\|τῇ]]  [[G1322\|διδαχῇ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic CYPRUS|CYPRUS]] • [[topic MIRACLES|MIRACLES]] • [[topic PAPHOS|PAPHOS]] • [[topic PAUL|PAUL]] • [[topic SERGIUS PAULUS|SERGIUS PAULUS]] • [[topic SYNAGOGUE|SYNAGOGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.11|<< Acts 13:11]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.13|Acts 13:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

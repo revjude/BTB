@@ -1,8 +1,55 @@
+---
+title: 2 Samuel 5:22
+type: Verse
+kjv: "And the Philistines came up yet again, and spread themselves in the valley of Rephaim."
+bsb: "Once again the Philistines came up and spread out in the Valley of Rephaim."
+hebrew: "וַיֹּסִ֥פוּ ע֛וֹד פְּלִשְׁתִּ֖ים לַֽעֲל֑וֹת וַיִּנָּֽטְשׁ֖וּ בְּעֵ֥מֶק רְפָאִֽים׃"
+pericope: "[[2Sam.5.17 Two Victories over the Philistines|Two Victories over the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 5
+book/chapter: "[[2Sam.5|2 Samuel 5]]"
+chronological_order: 333
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPHAIM|REPHAIM]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H3254G]]"
+- "[[H5750]]"
+- "[[H6430G]]"
+- "[[H9005]]"
+- "[[H5927G]]"
+- "[[H5203]]"
+- "[[H9003]]"
+- "[[H6010P]]"
+- "[[H7497G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 5:22**<big><big>[[2Sam.5.17 Two Victories over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Philistines came up yet again, and spread themselves in the valley of Rephaim.
 <small><sub>**BSB:**</sub></small>
 Once again the Philistines came up and spread out in the Valley of Rephaim.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3254G\|יֹּסִ֥פוּ]] [[H5750\|ע֛וֹד]] [[H6430G\|פְּלִשְׁתִּ֖ים]] [[H9005\|לַֽ]][[H5927G\|עֲל֑וֹת]] [[H9001\|וַ]][[H5203\|יִּנָּֽטְשׁ֖וּ]] [[H9003\|בְּ]][[H6010P\|עֵ֥מֶק]] [[H7497G\|רְפָאִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PHILISTINES|PHILISTINES]] • [[topic PRAYER|PRAYER]] • [[topic REPHAIM|REPHAIM]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.5.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.5.21|<< 2 Samuel 5:21]]</td><td align="center" style="border:none;">[[2Sam.5|2 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.5.23|2 Samuel 5:23 >>]]</td></tr></table>
 

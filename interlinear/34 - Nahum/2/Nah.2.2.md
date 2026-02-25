@@ -1,8 +1,52 @@
+---
+title: Nahum 2:2
+type: Verse
+kjv: "For the LORD hath turned away the excellency of Jacob, as the excellency of Israel: for the emptiers have emptied them out, and marred their vine branches."
+bsb: "For the LORD will restore the splendor of Jacob like the splendor of Israel, though destroyers have laid them waste and ruined the branches of their vine."
+hebrew: "כִּ֣י שָׁ֤ב יְהוָה֙ אֶת־ גְּא֣וֹן יַעֲקֹ֔ב כִּגְא֖וֹן יִשְׂרָאֵ֑ל כִּ֤י בְקָקוּם֙ בֹּֽקְקִ֔ים וּזְמֹרֵיהֶ֖ם שִׁחֵֽתוּ׃"
+pericope: "[[Nah.2.1 The Overthrow of Nineveh|The Overthrow of Nineveh]]"
+original_language: Hebrew
+testament: Old
+book: Nahum
+chapter: 2
+book/chapter: "[[Nah.2|Nahum 2]]"
+chronological_order: 709
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H3588A]]"
+- "[[H7725H]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1347]]"
+- "[[H3290]]"
+- "[[H9004]]"
+- "[[H3478]]"
+- "[[H1238B]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H2156]]"
+- "[[H9028]]"
+- "[[H7843]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nahum 2:2**<big><big>[[Nah.2.1 The Overthrow of Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD hath turned away the excellency of Jacob, as the excellency of Israel: for the emptiers have emptied them out, and marred their vine branches.
 <small><sub>**BSB:**</sub></small>
 For the LORD will restore the splendor of Jacob like the splendor of Israel, though destroyers have laid them waste and ruined the branches of their vine.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H7725H\|שָׁ֤ב]] [[H3068G\|יְהוָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1347\|גְּא֣וֹן]] [[H3290\|יַעֲקֹ֔ב]] [[H9004\|כִּ]][[H1347\|גְא֖וֹן]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H3588A\|כִּ֤י]] [[H1238B\|בְקָקוּ]][[H9038\|ם֙]] [[H1238B\|בֹּֽקְקִ֔ים]] [[H9002\|וּ]][[H2156\|זְמֹרֵי]][[H9028\|הֶ֖ם]] [[H7843\|שִׁחֵֽתוּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.2.1|<< Nahum 2:1]]</td><td align="center" style="border:none;">[[Nah.2|Nahum 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.2.3|Nahum 2:3 >>]]</td></tr></table>
 

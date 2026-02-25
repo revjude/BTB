@@ -1,8 +1,64 @@
+---
+title: Daniel 6:1
+type: Verse
+kjv: "It pleased Darius to set over the kingdom an hundred and twenty princes, which should be over the whole kingdom;"
+bsb: "Now it pleased Darius to appoint 120 satraps to rule throughout the kingdom,"
+aramaic: "שְׁפַר֙ קֳדָ֣ם דָּרְיָ֔וֶשׁ וַהֲקִים֙ עַל־ מַלְכוּתָ֔א לַאֲחַשְׁדַּרְפְּנַיָּ֖א מְאָ֣ה וְעֶשְׂרִ֑ין דִּ֥י לֶהֱוֹ֖ן בְּכָל־ מַלְכוּתָֽא׃"
+pericope: "[[Dan.6.1 The Plot against Daniel|The Plot against Daniel]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 6
+book/chapter: "[[Dan.6|Daniel 6]]"
+chronological_order: 791
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic KING|KING]]"
+- "[[topic MINISTER, CIVIL|MINISTER, CIVIL]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H8232]]"
+- "[[H6925]]"
+- "[[H1868H]]"
+- "[[H9002]]"
+- "[[H6966I]]"
+- "[[H5922]]"
+- "[[H9014]]"
+- "[[H4437]]"
+- "[[H9010]]"
+- "[[H9005]]"
+- "[[H0324]]"
+- "[[H3969]]"
+- "[[H6243]]"
+- "[[H1768]]"
+- "[[H1934]]"
+- "[[H9003]]"
+- "[[H3606]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 6:1**<big><big>[[Dan.6.1 The Plot against Daniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It pleased Darius to set over the kingdom an hundred and twenty princes, which should be over the whole kingdom;
 <small><sub>**BSB:**</sub></small>
 Now it pleased Darius to appoint 120 satraps to rule throughout the kingdom,
+<small><sub>**Aramaic:**</sub></small>
+[[H8232\|שְׁפַר֙]] [[H6925\|קֳדָ֣ם]] [[H1868H\|דָּרְיָ֔וֶשׁ]] [[H9002\|וַ]][[H6966I\|הֲקִים֙]] [[H5922\|עַל]][[H9014\|־]] [[H4437\|מַלְכוּתָ֔]][[H9010\|א]] [[H9005\|לַ]][[H0324\|אֲחַשְׁדַּרְפְּנַיָּ֖]][[H9010\|א]] [[H3969\|מְאָ֣ה]] [[H9002\|וְ]][[H6243\|עֶשְׂרִ֑ין]] [[H1768\|דִּ֥י]] [[H1934\|לֶהֱוֹ֖ן]] [[H9003\|בְּ]][[H3606\|כָל]][[H9014\|־]] [[H4437\|מַלְכוּתָֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic KING|KING]] • [[topic MINISTER, CIVIL|MINISTER, CIVIL]] • [[topic PERSIA|PERSIA]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.31|<< Daniel 5:31]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.2|Daniel 6:2 >>]]</td></tr></table>
 

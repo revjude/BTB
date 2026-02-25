@@ -1,8 +1,79 @@
+---
+title: Deuteronomy 11:6
+type: Verse
+kjv: "And what he did unto Dathan and Abiram, the sons of Eliab, the son of Reuben: how the earth opened her mouth, and swallowed them up, and their households, and their tents, and all the substance that was in their possession, in the midst of all Israel:"
+bsb: "and what He did in the midst of all the Israelites to Dathan and Abiram, the sons of Eliab the Reubenite, when the earth opened its mouth and swallowed them, their households, their tents, and every living thing that belonged to them."
+hebrew: "וַאֲשֶׁ֨ר עָשָׂ֜ה לְדָתָ֣ן וְלַאֲבִירָ֗ם בְּנֵ֣י אֱלִיאָב֮ בֶּן־ רְאוּבֵן֒ אֲשֶׁ֨ר פָּצְתָ֤ה הָאָ֙רֶץ֙ אֶת־ פִּ֔יהָ וַתִּבְלָעֵ֥ם וְאֶת־ בָּתֵּיהֶ֖ם וְאֶת־ אָהֳלֵיהֶ֑ם וְאֵ֤ת כָּל־ הַיְקוּם֙ אֲשֶׁ֣ר בְּרַגְלֵיהֶ֔ם בְּקֶ֖רֶב כָּל־ יִשְׂרָאֵֽל׃"
+pericope: "[[Deut.11.1 Obedience and Discipline|Obedience and Discipline]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 11
+book/chapter: "[[Deut.11|Deuteronomy 11]]"
+chronological_order: 207
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ABIRAM|ABIRAM]]"
+- "[[topic DATHAN|DATHAN]]"
+- "[[topic ELIAB|ELIAB]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic KORAH|KORAH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9002]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H1885]]"
+- "[[H0048G]]"
+- "[[H1121A]]"
+- "[[H0446H]]"
+- "[[H9014]]"
+- "[[H7205]]"
+- "[[H6475]]"
+- "[[H9009]]"
+- "[[H0776H]]"
+- "[[H0853]]"
+- "[[H6310G]]"
+- "[[H9024]]"
+- "[[H9001]]"
+- "[[H1104]]"
+- "[[H9038]]"
+- "[[H1004M]]"
+- "[[H9028]]"
+- "[[H0168G]]"
+- "[[H3605]]"
+- "[[H3351]]"
+- "[[H9003]]"
+- "[[H7272]]"
+- "[[H7130G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 11:6**<big><big>[[Deut.11.1 Obedience and Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And what he did unto Dathan and Abiram, the sons of Eliab, the son of Reuben: how the earth opened her mouth, and swallowed them up, and their households, and their tents, and all the substance that [was] in their possession, in the midst of all Israel:
 <small><sub>**BSB:**</sub></small>
 and what He did in the midst of all the Israelites to Dathan and Abiram, the sons of Eliab the Reubenite, when the earth opened its mouth and swallowed them, their households, their tents, and every living thing that belonged to them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0834A\|אֲשֶׁ֨ר]] [[H6213A\|עָשָׂ֜ה]] [[H9005\|לְ]][[H1885\|דָתָ֣ן]] [[H9002\|וְ]][[H9005\|לַ]][[H0048G\|אֲבִירָ֗ם]] [[H1121A\|בְּנֵ֣י]] [[H0446H\|אֱלִיאָב֮]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7205\|רְאוּבֵן֒]] [[H0834A\|אֲשֶׁ֨ר]] [[H6475\|פָּצְתָ֤ה]] [[H9009\|הָ]][[H0776H\|אָ֙רֶץ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6310G\|פִּ֔י]][[H9024\|הָ]] [[H9001\|וַ]][[H1104\|תִּבְלָעֵ֥]][[H9038\|ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1004M\|בָּתֵּי]][[H9028\|הֶ֖ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0168G\|אָהֳלֵי]][[H9028\|הֶ֑ם]] [[H9002\|וְ]][[H0853\|אֵ֤ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3351\|יְקוּם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H7272\|רַגְלֵי]][[H9028\|הֶ֔ם]] [[H9003\|בְּ]][[H7130G\|קֶ֖רֶב]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIRAM|ABIRAM]] • [[topic DATHAN|DATHAN]] • [[topic ELIAB|ELIAB]] • [[topic ISRAEL|ISRAEL]] • [[topic KORAH|KORAH]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.5|<< Deuteronomy 11:5]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.7|Deuteronomy 11:7 >>]]</td></tr></table>
 

@@ -1,8 +1,72 @@
+---
+title: 1 Kings 10:22
+type: Verse
+kjv: "For the king had at sea a navy of Tharshish with the navy of Hiram: once in three years came the navy of Tharshish, bringing gold, and silver, ivory, and apes, and peacocks."
+bsb: "For the king had the ships of Tarshish at sea with Hiram’s fleet, and once every three years the ships of Tarshish would arrive bearing gold, silver, ivory, apes, and peacocks."
+hebrew: "כִּי֩ אֳנִ֨י תַרְשִׁ֤ישׁ לַמֶּ֙לֶךְ֙ בַּיָּ֔ם עִ֖ם אֳנִ֣י חִירָ֑ם אַחַת֩ לְשָׁלֹ֨שׁ שָׁנִ֜ים תָּב֣וֹא׀ אֳנִ֣י תַרְשִׁ֗ישׁ נֹֽשְׂאֵת֙ זָהָ֣ב וָכֶ֔סֶף שֶׁנְהַבִּ֥ים וְקֹפִ֖ים וְתֻכִּיִּֽים׃"
+pericope: "[[1Kgs.10.14 Solomon’s Wealth and Splendor|Solomon’s Wealth and Splendor]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 10
+book/chapter: "[[1Kgs.10|1 Kings 10]]"
+chronological_order: 535
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic APE|APE]]"
+- "[[topic BOTANICAL GARDENS|BOTANICAL GARDENS]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic EXPORTS|EXPORTS]]"
+- "[[topic IVORY|IVORY]]"
+- "[[topic KING|KING]]"
+- "[[topic PEACOCK|PEACOCK]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TARSHISH|TARSHISH]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0590]]"
+- "[[H8659H]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H9003]]"
+- "[[H3220G]]"
+- "[[H5973A]]"
+- "[[H2438G]]"
+- "[[H0259]]"
+- "[[H7969]]"
+- "[[H8141]]"
+- "[[H0935G]]"
+- "[[H9015]]"
+- "[[H5375H]]"
+- "[[H2091]]"
+- "[[H9002]]"
+- "[[H3701G]]"
+- "[[H8143]]"
+- "[[H6971]]"
+- "[[H8500]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 10:22**<big><big>[[1Kgs.10.14 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the king had at sea a navy of Tharshish with the navy of Hiram: once in three years came the navy of Tharshish, bringing gold, and silver, ivory, and apes, and peacocks.
 <small><sub>**BSB:**</sub></small>
 For the king had the ships of Tarshish at sea with Hiram’s fleet, and once every three years the ships of Tarshish would arrive bearing gold, silver, ivory, apes, and peacocks.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H0590\|אֳנִ֨י]] [[H8659H\|תַרְשִׁ֤ישׁ]] [[H9005\|לַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H9003\|בַּ]][[H3220G\|יָּ֔ם]] [[H5973A\|עִ֖ם]] [[H0590\|אֳנִ֣י]] [[H2438G\|חִירָ֑ם]] [[H0259\|אַחַת֩]] [[H9005\|לְ]][[H7969\|שָׁלֹ֨שׁ]] [[H8141\|שָׁנִ֜ים]] [[H0935G\|תָּב֣וֹא]][[H9015\|׀]] [[H0590\|אֳנִ֣י]] [[H8659H\|תַרְשִׁ֗ישׁ]] [[H5375H\|נֹֽשְׂאֵת֙]] [[H2091\|זָהָ֣ב]] [[H9002\|וָ]][[H3701G\|כֶ֔סֶף]] [[H8143\|שֶׁנְהַבִּ֥ים]] [[H9002\|וְ]][[H6971\|קֹפִ֖ים]] [[H9002\|וְ]][[H8500\|תֻכִּיִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APE|APE]] • [[topic BOTANICAL GARDENS|BOTANICAL GARDENS]] • [[topic COMMERCE|COMMERCE]] • [[topic EXPORTS|EXPORTS]] • [[topic IVORY|IVORY]] • [[topic KING|KING]] • [[topic PEACOCK|PEACOCK]] • [[topic SOLOMON|SOLOMON]] • [[topic TARSHISH|TARSHISH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.21|<< 1 Kings 10:21]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.23|1 Kings 10:23 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Isaiah 48:4
+type: Verse
+kjv: "Because I knew that thou art obstinate, and thy neck is an iron sinew, and thy brow brass;"
+bsb: "For I knew that you are stubborn; your neck is iron and your forehead is bronze."
+hebrew: "מִדַּעְתִּ֕י כִּ֥י קָשֶׁ֖ה אָ֑תָּה וְגִ֤יד בַּרְזֶל֙ עָרְפֶּ֔ךָ וּמִצְחֲךָ֖ נְחוּשָֽׁה׃"
+pericope: "[[Isa.48.1 Israel’s Stubbornness|Israel’s Stubbornness]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 48
+book/chapter: "[[Isa.48|Isaiah 48]]"
+chronological_order: 687
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BRASS|BRASS]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic SELF-WILL|SELF-WILL]]"
+- "[[topic SINEWS|SINEWS]]"
+strongs:
+- "[[H9006]]"
+- "[[H3045]]"
+- "[[H9040]]"
+- "[[H3588A]]"
+- "[[H7186]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H1517]]"
+- "[[H1270]]"
+- "[[H6203]]"
+- "[[H9021]]"
+- "[[H4696]]"
+- "[[H5154]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 48:4**<big><big>[[Isa.48.1 Israel’s Stubbornness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because I knew that thou [art] obstinate, and thy neck [is] an iron sinew, and thy brow brass;
 <small><sub>**BSB:**</sub></small>
 For I knew that you are stubborn; your neck is iron and your forehead is bronze.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H3045\|דַּעְתִּ֕]][[H9040\|י]] [[H3588A\|כִּ֥י]] [[H7186\|קָשֶׁ֖ה]] [[H0859A\|אָ֑תָּה]] [[H9002\|וְ]][[H1517\|גִ֤יד]] [[H1270\|בַּרְזֶל֙]] [[H6203\|עָרְפֶּ֔]][[H9021\|ךָ]] [[H9002\|וּ]][[H4696\|מִצְחֲ]][[H9021\|ךָ֖]] [[H5154\|נְחוּשָֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRASS|BRASS]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic SELF-WILL|SELF-WILL]] • [[topic SINEWS|SINEWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.3|<< Isaiah 48:3]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.5|Isaiah 48:5 >>]]</td></tr></table>
 

@@ -1,8 +1,76 @@
+---
+title: Genesis 18:28
+type: Verse
+kjv: "Peradventure there shall lack five of the fifty righteous: wilt thou destroy all the city for lack of five? And he said, If I find there forty and five, I will not destroy it."
+bsb: "suppose the fifty righteous ones lack five. Will You destroy the whole city for the lack of five?” He replied, “If I find forty-five there, I will not destroy it.”"
+hebrew: "א֠וּלַי יַחְסְר֞וּן חֲמִשִּׁ֤ים הַצַּדִּיקִם֙ חֲמִשָּׁ֔ה הֲתַשְׁחִ֥ית בַּחֲמִשָּׁ֖ה אֶת־ כָּל־ הָעִ֑יר וַיֹּ֙אמֶר֙ לֹ֣א אַשְׁחִ֔ית אִם־ אֶמְצָ֣א שָׁ֔ם אַרְבָּעִ֖ים וַחֲמִשָּֽׁה׃"
+pericope: "[[Gen.18.16 Abraham Intercedes for Sodom|Abraham Intercedes for Sodom]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 18
+book/chapter: "[[Gen.18|Genesis 18]]"
+chronological_order: 60
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BOLDNESS|BOLDNESS]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic CURIOSITY|CURIOSITY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SODOM|SODOM]]"
+strongs:
+- "[[H0194]]"
+- "[[H2637]]"
+- "[[H9013]]"
+- "[[H2572]]"
+- "[[H9009]]"
+- "[[H6662]]"
+- "[[H2568]]"
+- "[[H9008]]"
+- "[[H7843]]"
+- "[[H9003]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H5892B]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H0518A]]"
+- "[[H4672]]"
+- "[[H8033G]]"
+- "[[H0705]]"
+- "[[H9002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 18:28**<big><big>[[Gen.18.16 Abraham Intercedes for Sodom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Peradventure there shall lack five of the fifty righteous: wilt thou destroy all the city for [lack of] five? And he said, If I find there forty and five, I will not destroy [it].
 <small><sub>**BSB:**</sub></small>
 suppose the fifty righteous ones lack five. Will You destroy the whole city for the lack of five?” He replied, “If I find forty-five there, I will not destroy it.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0194\|א֠וּלַי]] [[H2637\|יַחְסְר֞וּ]][[H9013\|ן]] [[H2572\|חֲמִשִּׁ֤ים]] [[H9009\|הַ]][[H6662\|צַּדִּיקִם֙]] [[H2568\|חֲמִשָּׁ֔ה]] [[H9008\|הֲ]][[H7843\|תַשְׁחִ֥ית]] [[H9003\|בַּ]][[H2568\|חֲמִשָּׁ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֑יר]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H3808\|לֹ֣א]] [[H7843\|אַשְׁחִ֔ית]] [[H0518A\|אִם]][[H9014\|־]] [[H4672\|אֶמְצָ֣א]] [[H8033G\|שָׁ֔ם]] [[H0705\|אַרְבָּעִ֖ים]] [[H9002\|וַ]][[H2568\|חֲמִשָּֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BOLDNESS|BOLDNESS]] • [[topic COMMUNION|COMMUNION]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic CURIOSITY|CURIOSITY]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PRAYER|PRAYER]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic RELIGION|RELIGION]] • [[topic SODOM|SODOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.18.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.27|<< Genesis 18:27]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.29|Genesis 18:29 >>]]</td></tr></table>
 

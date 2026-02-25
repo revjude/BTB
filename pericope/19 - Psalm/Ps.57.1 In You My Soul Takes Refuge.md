@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: In You My Soul Takes Refuge
+type: Pericope
 pericope: "[[Ps.57.1 In You My Soul Takes Refuge|In You My Soul Takes Refuge]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 57
 book/chapter: "[[Ps.57|Psalm 57]]"
-genre:
+chronological_order: 316
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 12
 verses:
 - "[[Ps.57.0]]"
 - "[[Ps.57.1]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Ps.57.11]]"
 ---
 
-[[Ps.57|Psalm 57:1 - Psalm 57:11]]
+<small>[[Ps.57|Psalm 57:1-11]]</small>
 *In You My Soul Takes Refuge*
 
 [[Ps.57.0|0]] To the chief Musician, Altaschith, Michtam of David, when he fled from Saul in the cave.

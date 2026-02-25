@@ -1,8 +1,57 @@
+---
+title: Ezekiel 26:18
+type: Verse
+kjv: "Now shall the isles tremble in the day of thy fall; yea, the isles that are in the sea shall be troubled at thy departure."
+bsb: "Now the coastlands tremble on the day of your downfall; the islands in the sea are dismayed by your demise.”’"
+hebrew: "עַתָּה֙ יֶחְרְד֣וּ הָֽאִיִּ֔ן י֖וֹם מַפַּלְתֵּ֑ךְ וְנִבְהֲל֛וּ הָאִיִּ֥ים אֲשֶׁר־ בַּיָּ֖ם מִצֵּאתֵֽךְ׃ ס"
+pericope: "[[Ezek.26.1 A Prophecy against Tyre|A Prophecy against Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 26
+book/chapter: "[[Ezek.26|Ezekiel 26]]"
+chronological_order: 817
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H6258]]"
+- "[[H2729]]"
+- "[[H9009]]"
+- "[[H0339]]"
+- "[[H3117G]]"
+- "[[H4658]]"
+- "[[H9022]]"
+- "[[H9001]]"
+- "[[H0926]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H3220G]]"
+- "[[H9006]]"
+- "[[H3318G]]"
+- "[[H9042]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 26:18**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now shall the isles tremble in the day of thy fall; yea, the isles that [are] in the sea shall be troubled at thy departure.
 <small><sub>**BSB:**</sub></small>
 Now the coastlands tremble on the day of your downfall; the islands in the sea are dismayed by your demise.”’
+<small><sub>**Hebrew:**</sub></small>
+[[H6258\|עַתָּה֙]] [[H2729\|יֶחְרְד֣וּ]] [[H9009\|הָֽ]][[H0339\|אִיִּ֔ן]] [[H3117G\|י֖וֹם]] [[H4658\|מַפַּלְתֵּ֑]][[H9022\|ךְ]] [[H9001\|וְ]][[H0926\|נִבְהֲל֛וּ]] [[H9009\|הָ]][[H0339\|אִיִּ֥ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בַּ]][[H3220G\|יָּ֖ם]] [[H9006\|מִ]][[H3318G\|צֵּאתֵֽ]][[H9042\|ךְ]][[H9016\|׃]] [[H9018\|ס]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.17|<< Ezekiel 26:17]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.19|Ezekiel 26:19 >>]]</td></tr></table>
 
@@ -17,7 +66,7 @@ Now the coastlands tremble on the day of your downfall; the islands in the sea a
 | the islands  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0339\|אִיִּ֥ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'i.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] in the sea  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3220G\|יָּ֖ם]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<from> because went out you  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3318G\|צֵּאתֵֽ]]&#8207;&#8207;[[H9042\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> tze.Te<small><sup>[[HVqcc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<from> because went out you  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3318G\|צֵּאתֵֽ]]&#8207;&#8207;[[H9042\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> tze.Te<small><sup>[[HVqcc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.17|<< Ezekiel 26:17]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.19|Ezekiel 26:19 >>]]</td></tr></table>
 
 

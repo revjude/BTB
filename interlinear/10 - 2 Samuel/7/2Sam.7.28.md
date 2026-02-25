@@ -1,8 +1,68 @@
+---
+title: 2 Samuel 7:28
+type: Verse
+kjv: "And now, O Lord GOD, thou art that God, and thy words be true, and thou hast promised this goodness unto thy servant:"
+bsb: "And now, O Lord GOD, You are God! Your words are true, and You have promised this goodness to Your servant."
+hebrew: "וְעַתָּ֣ה׀ אֲדֹנָ֣י יְהוִ֗ה אַתָּה־ הוּא֙ הָֽאֱלֹהִ֔ים וּדְבָרֶ֖יךָ יִהְי֣וּ אֱמֶ֑ת וַתְּדַבֵּר֙ אֶֽל־ עַבְדְּךָ֔ אֶת־ הַטּוֹבָ֖ה הַזֹּֽאת׃"
+pericope: "[[2Sam.7.18 David’s Prayer of Thanksgiving|David’s Prayer of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 7
+book/chapter: "[[2Sam.7|2 Samuel 7]]"
+chronological_order: 393
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H9015]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H0859A]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H1697G]]"
+- "[[H9021]]"
+- "[[H1961]]"
+- "[[H0571I]]"
+- "[[H9001]]"
+- "[[H1696I]]"
+- "[[H0413]]"
+- "[[H5650]]"
+- "[[H0853]]"
+- "[[H2896C]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 7:28**<big><big>[[2Sam.7.18 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now, O Lord GOD, thou [art] that God, and thy words be true, and thou hast promised this goodness unto thy servant:
 <small><sub>**BSB:**</sub></small>
 And now, O Lord GOD, You are God! Your words are true, and You have promised this goodness to Your servant.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֣ה]][[H9015\|׀]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֗ה]] [[H0859A\|אַתָּה]][[H9014\|־]] [[H1931\|הוּא֙]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֔ים]] [[H9002\|וּ]][[H1697G\|דְבָרֶ֖י]][[H9021\|ךָ]] [[H1961\|יִהְי֣וּ]] [[H0571I\|אֱמֶ֑ת]] [[H9001\|וַ]][[H1696I\|תְּדַבֵּר֙]] [[H0413\|אֶֽל]][[H9014\|־]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֔]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2896C\|טּוֹבָ֖ה]] [[H9009\|הַ]][[H2063\|זֹּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic HUMILITY|HUMILITY]] • [[topic PARENTS|PARENTS]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.27|<< 2 Samuel 7:27]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.29|2 Samuel 7:29 >>]]</td></tr></table>
 

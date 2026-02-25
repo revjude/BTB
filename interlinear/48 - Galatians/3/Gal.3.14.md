@@ -1,10 +1,59 @@
+---
+title: Galatians 3:14
+type: Verse
+kjv: "That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith."
+bsb: "He redeemed us in order that the blessing promised to Abraham would come to the Gentiles in Christ Jesus, so that by faith we might receive the promise of the Spirit."
+greek: "ἵνα εἰς τὰ ἔθνη ἡ εὐλογία τοῦ Ἀβραὰμ γένηται ἐν Χριστῷ Ἰησοῦ, ἵνα τὴν ἐπαγγελίαν τοῦ πνεύματος λάβωμεν διὰ τῆς πίστεως."
+pericope: "[[Gal.3.10 Christ Has Redeemed Us|Christ Has Redeemed Us]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 3
+book/chapter: "[[Gal.3|Galatians 3]]"
+chronological_order: 1041
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2443]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1484]]"
+- "[[G2129]]"
+- "[[G0011]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G1860]]"
+- "[[G4151G]]"
+- "[[G2983]]"
+- "[[G1223]]"
+- "[[G4102G]]"
+texts:
+- NKO
+---
+
 **Galatians 3:14**<big><big>[[Gal.3.10 Christ Has Redeemed Us|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith.
 <small><sub>**BSB:**</sub></small>
 He redeemed us in order that the blessing promised to Abraham would come to the Gentiles in Christ Jesus, so that by faith we might receive the promise of the Spirit.
-<small><sub>**Literal:**</sub></small>
-so that to the Gentiles the blessing <the> of Abraham may become in Christ Jesus so that the promise of the Spirit we may receive through <the> faith.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.13|<< Galatians 3:13]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.15|Galatians 3:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G1484\|ἔθνη]]  [[G3588\|ἡ]]  [[G2129\|εὐλογία]]  [[G3588\|τοῦ]]  [[G0011\|Ἀβραὰμ]]  [[G1096\|γένηται]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ,]]  [[G2443\|ἵνα]]  [[G3588\|τὴν]]  [[G1860\|ἐπαγγελίαν]]  [[G3588\|τοῦ]]  [[G4151G\|πνεύματος]]  [[G2983\|λάβωμεν]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G4102G\|πίστεως.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic FAITH|FAITH]] • [[topic GENTILES|GENTILES]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.13|<< Galatians 3:13]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.15|Galatians 3:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

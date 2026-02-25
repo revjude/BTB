@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Children of Rachel
+type: Pericope
 pericope: "[[Gen.46.19 The Children of Rachel|The Children of Rachel]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 46
 book/chapter: "[[Gen.46|Genesis 46]]"
-genre:
+chronological_order: 88
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 4
 verses:
 - "[[Gen.46.19]]"
 - "[[Gen.46.20]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Gen.46.22]]"
 ---
 
-[[Gen.46|Genesis 46:19 - Genesis 46:22]]
+<small>[[Gen.46|Genesis 46:19-22]]</small>
 *The Children of Rachel*
 
 [[Gen.46.19|19]] The sons of Rachel Jacob’s wife; Joseph, and Benjamin.

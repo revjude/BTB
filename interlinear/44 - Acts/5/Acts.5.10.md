@@ -1,10 +1,67 @@
+---
+title: Acts 5:10
+type: Verse
+kjv: "Then fell she down straightway at his feet, and yielded up the ghost: and the young men came in, and found her dead, and, carrying her forth, buried her by her husband."
+bsb: "At that instant she fell down at his feet and died. Then the young men came in and, finding her dead, carried her out and buried her beside her husband."
+greek: "ἔπεσεν δὲ παραχρῆμα πρὸς τοὺς πόδας αὐτοῦ καὶ ἐξέψυξεν· εἰσελθόντες δὲ οἱ νεανίσκοι εὗρον αὐτὴν νεκράν, καὶ ἐξενέγκαντες ἔθαψαν πρὸς τὸν ἄνδρα αὐτῆς·"
+pericope: "[[Acts.5.1 Ananias and Sapphira|Ananias and Sapphira]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 5
+book/chapter: "[[Acts.5|Acts 5]]"
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANANIAS|ANANIAS]]"
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic COMMUNISM|COMMUNISM]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GHOST|GHOST]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SAPPHIRA|SAPPHIRA]]"
+- "[[topic VOWS|VOWS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G4098]]"
+- "[[G1161]]"
+- "[[G3916]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G4228]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G1634]]"
+- "[[G1525]]"
+- "[[G3495]]"
+- "[[G2147]]"
+- "[[G3498]]"
+- "[[G1627]]"
+- "[[G2290]]"
+- "[[G0435H]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 5:10**<big><big>[[Acts.5.1 Ananias and Sapphira|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then fell she down straightway at his feet, and yielded up the ghost: and the young men came in, and found her dead, and, carrying [her] forth, buried [her] by her husband.
 <small><sub>**BSB:**</sub></small>
 At that instant she fell down at his feet and died. Then the young men came in and, finding her dead, carried her out and buried her beside her husband.
-<small><sub>**Literal:**</sub></small>
-She fell down then immediately at the feet of him and breathed her last; Having come in then the young [men] found her dead, and having carried out they buried [her] by the husband of her;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.9|<< Acts 5:9]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.11|Acts 5:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4098\|ἔπεσεν]]  [[G1161\|δὲ]]  [[G3916\|παραχρῆμα]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G1634\|ἐξέψυξεν·]]  [[G1525\|εἰσελθόντες]]  [[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G3495\|νεανίσκοι]]  [[G2147\|εὗρον]]  [[G0846\|αὐτὴν]]  [[G3498\|νεκράν,]]  [[G2532\|καὶ]]  [[G1627\|ἐξενέγκαντες]]  [[G2290\|ἔθαψαν]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G0435H\|ἄνδρα]]  [[G0846\|αὐτῆς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANANIAS|ANANIAS]] • [[topic BURIAL|BURIAL]] • [[topic COMMUNISM|COMMUNISM]] • [[topic DEATH|DEATH]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GHOST|GHOST]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic MIRACLES|MIRACLES]] • [[topic PETER|PETER]] • [[topic SAPPHIRA|SAPPHIRA]] • [[topic VOWS|VOWS]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.9|<< Acts 5:9]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.11|Acts 5:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

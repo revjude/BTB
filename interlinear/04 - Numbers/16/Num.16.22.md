@@ -1,8 +1,76 @@
+---
+title: Numbers 16:22
+type: Verse
+kjv: "And they fell upon their faces, and said, O God, the God of the spirits of all flesh, shall one man sin, and wilt thou be wroth with all the congregation?"
+bsb: "But Moses and Aaron fell facedown and said, “O God, the God of the spirits of all flesh, when one man sins, will You be angry with the whole congregation?”"
+hebrew: "וַיִּפְּל֤וּ עַל־ פְּנֵיהֶם֙ וַיֹּ֣אמְר֔וּ אֵ֕ל אֱלֹהֵ֥י הָרוּחֹ֖ת לְכָל־ בָּשָׂ֑ר הָאִ֤ישׁ אֶחָד֙ יֶחֱטָ֔א וְעַ֥ל כָּל־ הָעֵדָ֖ה תִּקְצֹֽף׃ פ"
+pericope: "[[Num.16.1 Korah’s Rebellion|Korah’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DATHAN|DATHAN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9001]]"
+- "[[H5307G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440H]]"
+- "[[H9028]]"
+- "[[H0559]]"
+- "[[H0410G]]"
+- "[[H0430G]]"
+- "[[H9009]]"
+- "[[H7307G]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H1320]]"
+- "[[H9008]]"
+- "[[H0376G]]"
+- "[[H0259]]"
+- "[[H2398]]"
+- "[[H9002]]"
+- "[[H5712]]"
+- "[[H7107]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Numbers 16:22**<big><big>[[Num.16.1 Korah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they fell upon their faces, and said, O God, the God of the spirits of all flesh, shall one man sin, and wilt thou be wroth with all the congregation?
 <small><sub>**BSB:**</sub></small>
 But Moses and Aaron fell facedown and said, “O God, the God of the spirits of all flesh, when one man sins, will You be angry with the whole congregation?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5307G\|יִּפְּל֤וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פְּנֵי]][[H9028\|הֶם֙]] [[H9001\|וַ]][[H0559\|יֹּ֣אמְר֔וּ]] [[H0410G\|אֵ֕ל]] [[H0430G\|אֱלֹהֵ֥י]] [[H9009\|הָ]][[H7307G\|רוּחֹ֖ת]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H1320\|בָּשָׂ֑ר]] [[H9008\|הָ]][[H0376G\|אִ֤ישׁ]] [[H0259\|אֶחָד֙]] [[H2398\|יֶחֱטָ֔א]] [[H9002\|וְ]][[H5921A\|עַ֥ל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5712\|עֵדָ֖ה]] [[H7107\|תִּקְצֹֽף]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic COMPANY|COMPANY]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DATHAN|DATHAN]] • [[topic GOD|GOD]] • [[topic INCENSE|INCENSE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic PRAYER|PRAYER]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.21|<< Numbers 16:21]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.23|Numbers 16:23 >>]]</td></tr></table>
 
@@ -23,7 +91,7 @@ But Moses and Aaron fell facedown and said, “O God, the God of the spirits of 
 | and towards  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַ֥ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the congregation  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5712\|עֵדָ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| will you be angry?  |**<big>&#8207;[[H7107\|תִּקְצֹֽף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tik.Tzof<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| will you be angry?  |**<big>&#8207;[[H7107\|תִּקְצֹֽף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tik.Tzof<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.21|<< Numbers 16:21]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.23|Numbers 16:23 >>]]</td></tr></table>
 
 

@@ -1,10 +1,72 @@
+---
+title: Luke 2:25
+type: Verse
+kjv: "And, behold, there was a man in Jerusalem, whose name was Simeon; and the same man was just and devout, waiting for the consolation of Israel: and the Holy Ghost was upon him."
+bsb: "Now there was a man in Jerusalem named Simeon, who was righteous and devout. He was waiting for the consolation of Israel, and the Holy Spirit was upon him."
+greek: "Καὶ ἰδοὺ ἄνθρωπος ἦν ἐν Ἰερουσαλὴμ ᾧ ὄνομα Συμεὼν καὶ ὁ ἄνθρωπος οὗτος δίκαιος καὶ εὐλαβὴς προσδεχόμενος παράκλησιν τοῦ Ἰσραήλ· καὶ πνεῦμα ἦν ἅγιον ἐπ᾽ αὐτόν."
+pericope: "[[Luke.2.25 The Prophecy of Simeon|The Prophecy of Simeon]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SIMEON|SIMEON]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WAITING|WAITING]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G0444]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G2419]]"
+- "[[G3739]]"
+- "[[G3686]]"
+- "[[G4826G]]"
+- "[[G3588]]"
+- "[[G3778]]"
+- "[[G1342]]"
+- "[[G2126]]"
+- "[[G4327]]"
+- "[[G3874]]"
+- "[[G2474]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G1909]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Luke 2:25**<big><big>[[Luke.2.25 The Prophecy of Simeon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, behold, there was a man in Jerusalem, whose name [was] Simeon; and the same man [was] just and devout, waiting for the consolation of Israel: and the Holy Ghost was upon him.
 <small><sub>**BSB:**</sub></small>
 Now there was a man in Jerusalem named Simeon, who was righteous and devout. He was waiting for the consolation of Israel, and the Holy Spirit was upon him.
-<small><sub>**Literal:**</sub></small>
-And behold a man there was in Jerusalem whose name [was] Simeon and <the> man this [was] righteous and devout waiting for [the] consolation <the> of Israel; and [the] Spirit was Holy upon him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.24|<< Luke 2:24]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.26|Luke 2:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2400\|ἰδοὺ]]  [[G0444\|ἄνθρωπος]]  [[G1510\|ἦν]]  [[G1722\|ἐν]]  [[G2419\|Ἰερουσαλὴμ]]  [[G3739\|ᾧ]]  [[G3686\|ὄνομα]]  [[G4826G\|Συμεὼν]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G0444\|ἄνθρωπος]]  [[G3778\|οὗτος]]  [[G1342\|δίκαιος]]  [[G2532\|καὶ]]  [[G2126\|εὐλαβὴς]]  [[G4327\|προσδεχόμενος]]  [[G3874\|παράκλησιν]]  [[G3588\|τοῦ]]  [[G2474\|Ἰσραήλ·]]  [[G2532\|καὶ]]  [[G4151G\|πνεῦμα]]  [[G1510\|ἦν]]  [[G0040G\|ἅγιον]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic FAITH|FAITH]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PATIENCE|PATIENCE]] • [[topic PROPHETS|PROPHETS]] • [[topic RELIGION|RELIGION]] • [[topic SIMEON|SIMEON]] • [[topic TEMPLE|TEMPLE]] • [[topic WAITING|WAITING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.24|<< Luke 2:24]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.26|Luke 2:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

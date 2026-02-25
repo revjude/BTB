@@ -1,8 +1,61 @@
+---
+title: Deuteronomy 11:26
+type: Verse
+kjv: "Behold, I set before you this day a blessing and a curse;"
+bsb: "See, today I am setting before you a blessing and a curse—"
+hebrew: "רְאֵ֗ה אָנֹכִ֛י נֹתֵ֥ן לִפְנֵיכֶ֖ם הַיּ֑וֹם בְּרָכָ֖ה וּקְלָלָֽה׃"
+pericope: "[[Deut.11.26 A Blessing and a Curse|A Blessing and a Curse]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 11
+book/chapter: "[[Deut.11|Deuteronomy 11]]"
+chronological_order: 207
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7200I]]"
+- "[[H0595]]"
+- "[[H5414H]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9026]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H1293]]"
+- "[[H9002]]"
+- "[[H7045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 11:26**<big><big>[[Deut.11.26 A Blessing and a Curse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I set before you this day a blessing and a curse;
 <small><sub>**BSB:**</sub></small>
 See, today I am setting before you a blessing and a curse—
+<small><sub>**Hebrew:**</sub></small>
+[[H7200I\|רְאֵ֗ה]] [[H0595\|אָנֹכִ֛י]] [[H5414H\|נֹתֵ֥ן]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9026\|כֶ֖ם]] [[H9009\|הַ]][[H3117G\|יּ֑וֹם]] [[H1293\|בְּרָכָ֖ה]] [[H9002\|וּ]][[H7045\|קְלָלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REWARD|REWARD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.25|<< Deuteronomy 11:25]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.27|Deuteronomy 11:27 >>]]</td></tr></table>
 

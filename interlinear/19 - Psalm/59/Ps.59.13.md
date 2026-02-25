@@ -1,8 +1,63 @@
+---
+title: Psalm 59:13
+type: Verse
+kjv: "Consume them in wrath, consume them, that they may not be: and let them know that God ruleth in Jacob unto the ends of the earth. Selah."
+bsb: "Consume them in wrath; consume them till they are no more, so it may be known to the ends of the earth that God rules over Jacob. Selah"
+hebrew: "כַּלֵּ֥ה בְחֵמָה֮ כַּלֵּ֪ה וְֽאֵ֫ינֵ֥מוֹ וְֽיֵדְע֗וּ כִּֽי־ אֱ֭לֹהִים מֹשֵׁ֣ל בְּיַעֲקֹ֑ב לְאַפְסֵ֖י הָאָ֣רֶץ סֶֽלָה׃"
+pericope: "[[Ps.59.1 Deliver Me from My Enemies|Deliver Me from My Enemies]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 59
+book/chapter: "[[Ps.59|Psalm 59]]"
+chronological_order: 317
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+strongs:
+- "[[H3615H]]"
+- "[[H9003]]"
+- "[[H2534]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H9048]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0430G]]"
+- "[[H4910]]"
+- "[[H3290]]"
+- "[[H9005]]"
+- "[[H0657A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 59:13**<big><big>[[Ps.59.1 Deliver Me from My Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Consume [them] in wrath, consume [them], that they [may] not [be]: and let them know that God ruleth in Jacob unto the ends of the earth. Selah.
 <small><sub>**BSB:**</sub></small>
 Consume them in wrath; consume them till they are no more, so it may be known to the ends of the earth that God rules over Jacob. Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H3615H\|כַּלֵּ֥ה]] [[H9003\|בְ]][[H2534\|חֵמָה֮]] [[H3615H\|כַּלֵּ֪ה]] [[H9002\|וְֽ]][[H0369\|אֵ֫ינֵ֥]][[H9048\|מוֹ]] [[H9002\|וְֽ]][[H3045\|יֵדְע֗וּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0430G\|אֱ֭לֹהִים]] [[H4910\|מֹשֵׁ֣ל]] [[H9003\|בְּ]][[H3290\|יַעֲקֹ֑ב]] [[H9005\|לְ]][[H0657A\|אַפְסֵ֖י]] [[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic JUDGMENTS|JUDGMENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.59.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59.12|<< Psalms 59:12]]</td><td align="center" style="border:none;">[[Ps.59|Psalms 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.14|Psalms 59:14 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Nehemiah 11:24
+type: Verse
+kjv: "And Pethahiah the son of Meshezabeel, of the children of Zerah the son of Judah, was at the king’s hand in all matters concerning the people."
+bsb: "Pethahiah son of Meshezabel, a descendant of Zerah son of Judah, was the king’s agent in every matter concerning the people."
+hebrew: "וּפְתַֽחְיָ֨ה בֶּן־ מְשֵֽׁיזַבְאֵ֜ל מִבְּנֵי־ זֶ֤רַח בֶּן־ יְהוּדָה֙ לְיַ֣ד הַמֶּ֔לֶךְ לְכָל־ דָּבָ֖ר לָעָֽם׃"
+pericope: "[[Neh.11.20 Residents Outside Jerusalem|Residents Outside Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 11
+book/chapter: "[[Neh.11|Nehemiah 11]]"
+chronological_order: 923
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic MESHEZABEEL|MESHEZABEEL]]"
+- "[[topic PETHAHIAH|PETHAHIAH]]"
+- "[[topic ZARAH|ZARAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H6611J]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H4898I]]"
+- "[[H9006]]"
+- "[[H1121G]]"
+- "[[H2226I]]"
+- "[[H3063G]]"
+- "[[H9005]]"
+- "[[H3027K]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3605]]"
+- "[[H1697I]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 11:24**<big><big>[[Neh.11.20 Residents Outside Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pethahiah the son of Meshezabeel, of the children of Zerah the son of Judah, [was] at the king’s hand in all matters concerning the people.
 <small><sub>**BSB:**</sub></small>
 Pethahiah son of Meshezabel, a descendant of Zerah son of Judah, was the king’s agent in every matter concerning the people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H6611J\|פְתַֽחְיָ֨ה]] [[H1121A\|בֶּן]][[H9014\|־]] [[H4898I\|מְשֵֽׁיזַבְאֵ֜ל]] [[H9006\|מִ]][[H1121G\|בְּנֵי]][[H9014\|־]] [[H2226I\|זֶ֤רַח]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3063G\|יְהוּדָה֙]] [[H9005\|לְ]][[H3027K\|יַ֣ד]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H1697I\|דָּבָ֖ר]] [[H9005\|לָ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MESHEZABEEL|MESHEZABEEL]] • [[topic PETHAHIAH|PETHAHIAH]] • [[topic ZARAH|ZARAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.23|<< Nehemiah 11:23]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.25|Nehemiah 11:25 >>]]</td></tr></table>
 

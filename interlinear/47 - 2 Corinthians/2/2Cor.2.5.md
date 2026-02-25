@@ -1,10 +1,55 @@
+---
+title: 2 Corinthians 2:5
+type: Verse
+kjv: "But if any have caused grief, he hath not grieved me, but in part: that I may not overcharge you all."
+bsb: "Now if anyone has caused grief, he has not grieved me but all of you—to some degree, not to overstate it."
+greek: "Εἰ δέ τις λελύπηκεν, οὐκ ἐμὲ λελύπηκεν ἀλλ᾽ ἀπὸ μέρους, ἵνα μὴ ἐπιβαρῶ, πάντας ὑμᾶς."
+pericope: "[[2Cor.2.1 Reaffirm Your Love|Reaffirm Your Love]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 2
+book/chapter: "[[2Cor.2|2 Corinthians 2]]"
+chronological_order: 1075
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G3076]]"
+- "[[G3756]]"
+- "[[G1473]]"
+- "[[G0235]]"
+- "[[G0575]]"
+- "[[G3313]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G1912]]"
+- "[[G3956]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 2:5**<big><big>[[2Cor.2.1 Reaffirm Your Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But if any have caused grief, he hath not grieved me, but in part: that I may not overcharge you all.
 <small><sub>**BSB:**</sub></small>
 Now if anyone has caused grief, he has not grieved me but all of you—to some degree, not to overstate it.
-<small><sub>**Literal:**</sub></small>
-If however anyone has caused grief, not me myself has he grieved but in part — that not I may burden all you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.2.4|<< 2 Corinthians 2:4]]</td><td align="center" style="border:none;">[[2Cor.2|2 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.2.6|2 Corinthians 2:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|Εἰ]]  [[G1161\|δέ]]  [[G5100\|τις]]  [[G3076\|λελύπηκεν,]]  [[G3756\|οὐκ]]  [[G1473\|ἐμὲ]]  [[G3076\|λελύπηκεν]]  [[G0235\|ἀλλ᾽]]  [[G0575\|ἀπὸ]]  [[G3313\|μέρους,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G1912\|ἐπιβαρῶ,]]  [[G3956\|πάντας]]  [[G4771\|ὑμᾶς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.2.4|<< 2 Corinthians 2:4]]</td><td align="center" style="border:none;">[[2Cor.2|2 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.2.6|2 Corinthians 2:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

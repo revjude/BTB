@@ -1,8 +1,62 @@
+---
+title: Jeremiah 4:9
+type: Verse
+kjv: "And it shall come to pass at that day, saith the LORD, that the heart of the king shall perish, and the heart of the princes; and the priests shall be astonished, and the prophets shall wonder."
+bsb: "“In that day,” declares the LORD, “the king and officials will lose their courage. The priests will tremble in fear, and the prophets will be astounded.”"
+hebrew: "וְהָיָ֤ה בַיּוֹם־ הַהוּא֙ נְאֻם־ יְהוָ֔ה יֹאבַ֥ד לֵב־ הַמֶּ֖לֶךְ וְלֵ֣ב הַשָּׂרִ֑ים וְנָשַׁ֙מּוּ֙ הַכֹּ֣הֲנִ֔ים וְהַנְּבִיאִ֖ים יִתְמָֽהוּ׃"
+pericope: "[[Jer.4.5 Disaster from the North|Disaster from the North]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 4
+book/chapter: "[[Jer.4|Jeremiah 4]]"
+chronological_order: 721
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H0006]]"
+- "[[H3820A]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H8269]]"
+- "[[H8074H]]"
+- "[[H3548]]"
+- "[[H5030]]"
+- "[[H8539]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 4:9**<big><big>[[Jer.4.5 Disaster from the North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass at that day, saith the LORD, [that] the heart of the king shall perish, and the heart of the princes; and the priests shall be astonished, and the prophets shall wonder.
 <small><sub>**BSB:**</sub></small>
 “In that day,” declares the LORD, “the king and officials will lose their courage. The priests will tremble in fear, and the prophets will be astounded.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֤ה]] [[H9003\|בַ]][[H3117G\|יּוֹם]][[H9014\|־]] [[H9009\|הַ]][[H1931\|הוּא֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H0006\|יֹאבַ֥ד]] [[H3820A\|לֵב]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H9002\|וְ]][[H3820A\|לֵ֣ב]] [[H9009\|הַ]][[H8269\|שָּׂרִ֑ים]] [[H9001\|וְ]][[H8074H\|נָשַׁ֙מּוּ֙]] [[H9009\|הַ]][[H3548\|כֹּ֣הֲנִ֔ים]] [[H9002\|וְ]][[H9009\|הַ]][[H5030\|נְּבִיאִ֖ים]] [[H8539\|יִתְמָֽהוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.8|<< Jeremiah 4:8]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.10|Jeremiah 4:10 >>]]</td></tr></table>
 

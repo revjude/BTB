@@ -1,8 +1,78 @@
+---
+title: 1 Kings 18:26
+type: Verse
+kjv: "And they took the bullock which was given them, and they dressed it, and called on the name of Baal from morning even until noon, saying, O Baal, hear us. But there was no voice, nor any that answered. And they leaped upon the altar which was made."
+bsb: "And they took the bull that was given them, prepared it, and called on the name of Baal from morning until noon, shouting, “O Baal, answer us!” But there was no sound, and no one answered as they leaped around the altar they had made."
+hebrew: "וַ֠יִּקְחוּ אֶת־ הַפָּ֨ר אֲשֶׁר־ נָתַ֣ן לָהֶם֮ וַֽיַּעֲשׂוּ֒ וַיִּקְרְא֣וּ בְשֵׁם־ הַ֠בַּעַל מֵהַבֹּ֨קֶר וְעַד־ הַצָּהֳרַ֤יִם לֵאמֹר֙ הַבַּ֣עַל עֲנֵ֔נוּ וְאֵ֥ין ק֖וֹל וְאֵ֣ין עֹנֶ֑ה וַֽיְפַסְּח֔וּ עַל־ הַמִּזְבֵּ֖חַ אֲשֶׁ֥ר עָשָֽׂה׃"
+pericope: "[[1Kgs.18.16 Elijah on Mount Carmel|Elijah on Mount Carmel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 18
+book/chapter: "[[1Kgs.18|1 Kings 18]]"
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic CARMEL|CARMEL]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic IDOL|IDOL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6499]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H6213H]]"
+- "[[H7121G]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H1168A]]"
+- "[[H9006]]"
+- "[[H1242]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H6672A]]"
+- "[[H0559]]"
+- "[[H6030B]]"
+- "[[H9035]]"
+- "[[H0369]]"
+- "[[H6963A]]"
+- "[[H6452B]]"
+- "[[H5921A]]"
+- "[[H4196]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 18:26**<big><big>[[1Kgs.18.16 Elijah on Mount Carmel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they took the bullock which was given them, and they dressed [it], and called on the name of Baal from morning even until noon, saying, O Baal, hear us. But [there was] no voice, nor any that answered. And they leaped upon the altar which was made.
 <small><sub>**BSB:**</sub></small>
 And they took the bull that was given them, prepared it, and called on the name of Baal from morning until noon, shouting, “O Baal, answer us!” But there was no sound, and no one answered as they leaped around the altar they had made.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֠]][[H3947G\|יִּקְחוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6499\|פָּ֨ר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414G\|נָתַ֣ן]] [[H9005\|לָ]][[H9038\|הֶם֮]] [[H9001\|וַֽ]][[H6213H\|יַּעֲשׂוּ֒]] [[H9001\|וַ]][[H7121G\|יִּקְרְא֣וּ]] [[H9003\|בְ]][[H8034\|שֵׁם]][[H9014\|־]] [[H9009\|הַ֠]][[H1168A\|בַּעַל]] [[H9006\|מֵ]][[H9009\|הַ]][[H1242\|בֹּ֨קֶר]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H6672A\|צָּהֳרַ֤יִם]] [[H9005\|לֵ]][[H0559\|אמֹר֙]] [[H9009\|הַ]][[H1168A\|בַּ֣עַל]] [[H6030B\|עֲנֵ֔]][[H9035\|נוּ]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H6963A\|ק֖וֹל]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H6030B\|עֹנֶ֑ה]] [[H9001\|וַֽ]][[H6452B\|יְפַסְּח֔וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֖חַ]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213H\|עָשָֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic ALTAR|ALTAR]] • [[topic CARMEL|CARMEL]] • [[topic ELIJAH|ELIJAH]] • [[topic IDOL|IDOL]] • [[topic IDOLATRY|IDOLATRY]] • [[topic PRAYER|PRAYER]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.25|<< 1 Kings 18:25]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.27|1 Kings 18:27 >>]]</td></tr></table>
 

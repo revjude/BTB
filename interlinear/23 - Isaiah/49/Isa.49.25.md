@@ -1,8 +1,66 @@
+---
+title: Isaiah 49:25
+type: Verse
+kjv: "But thus saith the LORD, Even the captives of the mighty shall be taken away, and the prey of the terrible shall be delivered: for I will contend with him that contendeth with thee, and I will save thy children."
+bsb: "Indeed, this is what the LORD says: “Even the captives of the mighty will be taken away, and the plunder of the tyrant will be retrieved; I will contend with those who contend with you, and I will save your children."
+hebrew: "כִּי־ כֹ֣ה׀ אָמַ֣ר יְהוָ֗ה גַּם־ שְׁבִ֤י גִבּוֹר֙ יֻקָּ֔ח וּמַלְק֥וֹחַ עָרִ֖יץ יִמָּלֵ֑ט וְאֶת־ יְרִיבֵךְ֙ אָנֹכִ֣י אָרִ֔יב וְאֶת־ בָּנַ֖יִךְ אָנֹכִ֥י אוֹשִֽׁיעַ׃"
+pericope: "[[Isa.49.1 The Servant and Light to the Gentiles|The Servant and Light to the Gentiles]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 49
+book/chapter: "[[Isa.49|Isaiah 49]]"
+chronological_order: 688
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H1571]]"
+- "[[H7628A]]"
+- "[[H1368]]"
+- "[[H3947G]]"
+- "[[H9002]]"
+- "[[H4455A]]"
+- "[[H6184]]"
+- "[[H4422]]"
+- "[[H0854]]"
+- "[[H3401]]"
+- "[[H9022]]"
+- "[[H0595]]"
+- "[[H7378]]"
+- "[[H0853]]"
+- "[[H1121A]]"
+- "[[H3467]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 49:25**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thus saith the LORD, Even the captives of the mighty shall be taken away, and the prey of the terrible shall be delivered: for I will contend with him that contendeth with thee, and I will save thy children.
 <small><sub>**BSB:**</sub></small>
 Indeed, this is what the LORD says: “Even the captives of the mighty will be taken away, and the plunder of the tyrant will be retrieved; I will contend with those who contend with you, and I will save your children.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H3541\|כֹ֣ה]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H1571\|גַּם]][[H9014\|־]] [[H7628A\|שְׁבִ֤י]] [[H1368\|גִבּוֹר֙]] [[H3947G\|יֻקָּ֔ח]] [[H9002\|וּ]][[H4455A\|מַלְק֥וֹחַ]] [[H6184\|עָרִ֖יץ]] [[H4422\|יִמָּלֵ֑ט]] [[H9002\|וְ]][[H0854\|אֶת]][[H9014\|־]] [[H3401\|יְרִיבֵ]][[H9022\|ךְ֙]] [[H0595\|אָנֹכִ֣י]] [[H7378\|אָרִ֔יב]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בָּנַ֖יִ]][[H9022\|ךְ]] [[H0595\|אָנֹכִ֥י]] [[H3467\|אוֹשִֽׁיעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.24|<< Isaiah 49:24]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.26|Isaiah 49:26 >>]]</td></tr></table>
 

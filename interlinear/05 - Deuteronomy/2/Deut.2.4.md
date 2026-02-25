@@ -1,8 +1,71 @@
+---
+title: Deuteronomy 2:4
+type: Verse
+kjv: "And command thou the people, saying, Ye are to pass through the coast of your brethren the children of Esau, which dwell in Seir; and they shall be afraid of you: take ye good heed unto yourselves therefore:"
+bsb: "and command the people: ‘You will pass through the territory of your brothers, the descendants of Esau, who live in Seir. They will be afraid of you, so you must be very careful."
+hebrew: "וְאֶת־ הָעָם֮ צַ֣ו לֵאמֹר֒ אַתֶּ֣ם עֹֽבְרִ֗ים בִּגְבוּל֙ אֲחֵיכֶ֣ם בְּנֵי־ עֵשָׂ֔ו הַיֹּשְׁבִ֖ים בְּשֵׂעִ֑יר וְיִֽירְא֣וּ מִכֶּ֔ם וְנִשְׁמַרְתֶּ֖ם מְאֹֽד׃"
+pericope: "[[Deut.2.1 Wanderings in the Wilderness|Wanderings in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 2
+book/chapter: "[[Deut.2|Deuteronomy 2]]"
+chronological_order: 198
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic SEIR|SEIR]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H6680]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0859D]]"
+- "[[H5674A]]"
+- "[[H9003]]"
+- "[[H1366H]]"
+- "[[H0251I]]"
+- "[[H9026]]"
+- "[[H1121G]]"
+- "[[H6215H]]"
+- "[[H3427]]"
+- "[[H8165A]]"
+- "[[H3372G]]"
+- "[[H9006]]"
+- "[[H9036]]"
+- "[[H9001]]"
+- "[[H8104J]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 2:4**<big><big>[[Deut.2.1 Wanderings in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And command thou the people, saying, Ye [are] to pass through the coast of your brethren the children of Esau, which dwell in Seir; and they shall be afraid of you: take ye good heed unto yourselves therefore:
 <small><sub>**BSB:**</sub></small>
 and command the people: ‘You will pass through the territory of your brothers, the descendants of Esau, who live in Seir. They will be afraid of you, so you must be very careful.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֮]] [[H6680\|צַ֣ו]] [[H9005\|לֵ]][[H0559\|אמֹר֒]] [[H0859D\|אַתֶּ֣ם]] [[H5674A\|עֹֽבְרִ֗ים]] [[H9003\|בִּ]][[H1366H\|גְבוּל֙]] [[H0251I\|אֲחֵי]][[H9026\|כֶ֣ם]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H6215H\|עֵשָׂ֔ו]] [[H9009\|הַ]][[H3427\|יֹּשְׁבִ֖ים]] [[H9003\|בְּ]][[H8165A\|שֵׂעִ֑יר]] [[H9002\|וְ]][[H3372G\|יִֽירְא֣וּ]] [[H9006\|מִ]][[H9036\|כֶּ֔ם]] [[H9001\|וְ]][[H8104J\|נִשְׁמַרְתֶּ֖ם]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic SEIR|SEIR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.3|<< Deuteronomy 2:3]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.5|Deuteronomy 2:5 >>]]</td></tr></table>
 

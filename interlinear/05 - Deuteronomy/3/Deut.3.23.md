@@ -1,8 +1,58 @@
+---
+title: Deuteronomy 3:23
+type: Verse
+kjv: "And I besought the LORD at that time, saying,"
+bsb: "At that time I also pleaded with the LORD:"
+hebrew: "וָאֶתְחַנַּ֖ן אֶל־ יְהוָ֑ה בָּעֵ֥ת הַהִ֖וא לֵאמֹֽר׃"
+pericope: "[[Deut.3.23 Moses Forbidden to Cross the Jordan|Moses Forbidden to Cross the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 3
+book/chapter: "[[Deut.3|Deuteronomy 3]]"
+chronological_order: 199
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic MOSES|MOSES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H2603A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 3:23**<big><big>[[Deut.3.23 Moses Forbidden to Cross the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I besought the LORD at that time, saying,
 <small><sub>**BSB:**</sub></small>
 At that time I also pleaded with the LORD:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H2603A\|אֶתְחַנַּ֖ן]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9003\|בָּ]][[H6256\|עֵ֥ת]] [[H9009\|הַ]][[H1931\|הִ֖וא]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOSES|MOSES]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.22|<< Deuteronomy 3:22]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.24|Deuteronomy 3:24 >>]]</td></tr></table>
 

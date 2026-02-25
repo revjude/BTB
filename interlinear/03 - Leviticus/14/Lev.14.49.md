@@ -1,8 +1,64 @@
+---
+title: Leviticus 14:49
+type: Verse
+kjv: "And he shall take to cleanse the house two birds, and cedar wood, and scarlet, and hyssop:"
+bsb: "He is to take two birds, cedar wood, scarlet yarn, and hyssop to purify the house;"
+hebrew: "וְלָקַ֛ח לְחַטֵּ֥א אֶת־ הַבַּ֖יִת שְׁתֵּ֣י צִפֳּרִ֑ים וְעֵ֣ץ אֶ֔רֶז וּשְׁנִ֥י תוֹלַ֖עַת וְאֵזֹֽב׃"
+pericope: "[[Lev.14.48 Cleansing a Home|Cleansing a Home]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 14
+book/chapter: "[[Lev.14|Leviticus 14]]"
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CEDAR|CEDAR]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9005]]"
+- "[[H2398]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H8147]]"
+- "[[H6833]]"
+- "[[H9002]]"
+- "[[H6086G]]"
+- "[[H0730]]"
+- "[[H8144]]"
+- "[[H8438B]]"
+- "[[H0231]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 14:49**<big><big>[[Lev.14.48 Cleansing a Home|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall take to cleanse the house two birds, and cedar wood, and scarlet, and hyssop:
 <small><sub>**BSB:**</sub></small>
 He is to take two birds, cedar wood, scarlet yarn, and hyssop to purify the house;
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקַ֛ח]] [[H9005\|לְ]][[H2398\|חַטֵּ֥א]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּ֖יִת]] [[H8147\|שְׁתֵּ֣י]] [[H6833\|צִפֳּרִ֑ים]] [[H9002\|וְ]][[H6086G\|עֵ֣ץ]] [[H0730\|אֶ֔רֶז]] [[H9002\|וּ]][[H8144\|שְׁנִ֥י]] [[H8438B\|תוֹלַ֖עַת]] [[H9002\|וְ]][[H0231\|אֵזֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CEDAR|CEDAR]] • [[topic COLORS|COLORS]] • [[topic DEFILEMENT|DEFILEMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.48|<< Leviticus 14:48]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.50|Leviticus 14:50 >>]]</td></tr></table>
 

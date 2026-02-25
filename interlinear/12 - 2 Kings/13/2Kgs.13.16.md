@@ -1,8 +1,61 @@
+---
+title: 2 Kings 13:16
+type: Verse
+kjv: "And he said to the king of Israel, Put thine hand upon the bow. And he put his hand upon it: and Elisha put his hands upon the king’s hands."
+bsb: "Then Elisha said to the king of Israel, “Put your hand on the bow.” So the king put his hand on the bow, and Elisha put his hands on the king’s hands."
+hebrew: "וַיֹּ֣אמֶר׀ לְמֶ֣לֶךְ יִשְׂרָאֵ֗ל הַרְכֵּ֤ב יָֽדְךָ֙ עַל־ הַקֶּ֔שֶׁת וַיַּרְכֵּ֖ב יָד֑וֹ וַיָּ֧שֶׂם אֱלִישָׁ֛ע יָדָ֖יו עַל־ יְדֵ֥י הַמֶּֽלֶךְ׃"
+pericope: "[[2Kgs.13.14 Elisha’s Final Prophecy|Elisha’s Final Prophecy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 13
+book/chapter: "[[2Kgs.13|2 Kings 13]]"
+chronological_order: 590
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~798–782 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARROW|ARROW]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic JEHOASH|JEHOASH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H7392]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7198]]"
+- "[[H9023]]"
+- "[[H7760H]]"
+- "[[H0477]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 13:16**<big><big>[[2Kgs.13.14 Elisha’s Final Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said to the king of Israel, Put thine hand upon the bow. And he put his hand [upon it]: and Elisha put his hands upon the king’s hands.
 <small><sub>**BSB:**</sub></small>
 Then Elisha said to the king of Israel, “Put your hand on the bow.” So the king put his hand on the bow, and Elisha put his hands on the king’s hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]][[H9015\|׀]] [[H9005\|לְ]][[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H7392\|הַרְכֵּ֤ב]] [[H3027G\|יָֽדְ]][[H9021\|ךָ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H7198\|קֶּ֔שֶׁת]] [[H9001\|וַ]][[H7392\|יַּרְכֵּ֖ב]] [[H3027G\|יָד֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H7760H\|יָּ֧שֶׂם]] [[H0477\|אֱלִישָׁ֛ע]] [[H3027G\|יָדָ֖י]][[H9023\|ו]] [[H5921A\|עַל]][[H9014\|־]] [[H3027G\|יְדֵ֥י]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARROW|ARROW]] • [[topic ELISHA|ELISHA]] • [[topic JEHOASH|JEHOASH]] • [[topic PROPHECY|PROPHECY]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.13.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.13.15|<< 2 Kings 13:15]]</td><td align="center" style="border:none;">[[2Kgs.13|2 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.13.17|2 Kings 13:17 >>]]</td></tr></table>
 

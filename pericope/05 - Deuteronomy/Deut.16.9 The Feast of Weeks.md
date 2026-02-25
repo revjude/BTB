@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Feast of Weeks
+type: Pericope
 pericope: "[[Deut.16.9 The Feast of Weeks|The Feast of Weeks]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 16
 book/chapter: "[[Deut.16|Deuteronomy 16]]"
-genre:
+chronological_order: 212
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 4
 verses:
 - "[[Deut.16.9]]"
 - "[[Deut.16.10]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Deut.16.12]]"
 ---
 
-[[Deut.16|Deuteronomy 16:9 - Deuteronomy 16:12]]
+<small>[[Deut.16|Deuteronomy 16:9-12]]</small>
 *The Feast of Weeks*
 
 [[Deut.16.9|9]] Seven weeks shalt thou number unto thee: begin to number the seven weeks from \[such time as\] thou beginnest \[to put\] the sickle to the corn.

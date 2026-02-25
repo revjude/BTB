@@ -1,8 +1,61 @@
+---
+title: Ezekiel 37:20
+type: Verse
+kjv: "And the sticks whereon thou writest shall be in thine hand before their eyes."
+bsb: "When the sticks on which you write are in your hand and in full view of the people,"
+hebrew: "וְהָי֨וּ הָעֵצִ֜ים אֲֽשֶׁר־ תִּכְתֹּ֧ב עֲלֵיהֶ֛ם בְּיָדְךָ֖ לְעֵינֵיהֶֽם׃"
+pericope: "[[Ezek.37.15 One Nation with One King|One Nation with One King]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 37
+book/chapter: "[[Ezek.37|Ezekiel 37]]"
+chronological_order: 828
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H6086I]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H5869A]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 37:20**<big><big>[[Ezek.37.15 One Nation with One King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sticks whereon thou writest shall be in thine hand before their eyes.
 <small><sub>**BSB:**</sub></small>
 When the sticks on which you write are in your hand and in full view of the people,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָי֨וּ]] [[H9009\|הָ]][[H6086I\|עֵצִ֜ים]] [[H0834A\|אֲֽשֶׁר]][[H9014\|־]] [[H3789\|תִּכְתֹּ֧ב]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֛ם]] [[H9003\|בְּ]][[H3027G\|יָדְ]][[H9021\|ךָ֖]] [[H9005\|לְ]][[H5869A\|עֵינֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.19|<< Ezekiel 37:19]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.21|Ezekiel 37:21 >>]]</td></tr></table>
 

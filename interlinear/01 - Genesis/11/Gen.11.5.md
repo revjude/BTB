@@ -1,8 +1,67 @@
+---
+title: Genesis 11:5
+type: Verse
+kjv: "And the LORD came down to see the city and the tower, which the children of men builded."
+bsb: "Then the LORD came down to see the city and the tower that the sons of men were building."
+hebrew: "וַיֵּ֣רֶד יְהוָ֔ה לִרְאֹ֥ת אֶת־ הָעִ֖יר וְאֶת־ הַמִּגְדָּ֑ל אֲשֶׁ֥ר בָּנ֖וּ בְּנֵ֥י הָאָדָֽם׃"
+pericope: "[[Gen.11.1 The Tower of Babel|The Tower of Babel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 11
+book/chapter: "[[Gen.11|Genesis 11]]"
+chronological_order: 11
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic BABEL|BABEL]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CONFUSION|CONFUSION]]"
+- "[[topic DISPERSION|DISPERSION]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TONGUE|TONGUE]]"
+- "[[topic TOWER|TOWER]]"
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H9002]]"
+- "[[H4026M]]"
+- "[[H0834A]]"
+- "[[H1129]]"
+- "[[H1121A]]"
+- "[[H0120G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 11:5**<big><big>[[Gen.11.1 The Tower of Babel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD came down to see the city and the tower, which the children of men builded.
 <small><sub>**BSB:**</sub></small>
 Then the LORD came down to see the city and the tower that the sons of men were building.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3381\|יֵּ֣רֶד]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לִ]][[H7200G\|רְאֹ֥ת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4026M\|מִּגְדָּ֑ל]] [[H0834A\|אֲשֶׁ֥ר]] [[H1129\|בָּנ֖וּ]] [[H1121A\|בְּנֵ֥י]] [[H9009\|הָ]][[H0120G\|אָדָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic BABEL|BABEL]] • [[topic BABYLON|BABYLON]] • [[topic CONFUSION|CONFUSION]] • [[topic DISPERSION|DISPERSION]] • [[topic LANGUAGE|LANGUAGE]] • [[topic MIRACLES|MIRACLES]] • [[topic TONGUE|TONGUE]] • [[topic TOWER|TOWER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.11.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.4|<< Genesis 11:4]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.6|Genesis 11:6 >>]]</td></tr></table>
 

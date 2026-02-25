@@ -1,8 +1,70 @@
+---
+title: Exodus 5:1
+type: Verse
+kjv: "And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the LORD God of Israel, Let my people go, that they may hold a feast unto me in the wilderness."
+bsb: "After that, Moses and Aaron went to Pharaoh and said, “This is what the LORD, the God of Israel, says: ‘Let My people go, so that they may hold a feast to Me in the wilderness.’”"
+hebrew: "וְאַחַ֗ר בָּ֚אוּ מֹשֶׁ֣ה וְאַהֲרֹ֔ן וַיֹּאמְר֖וּ אֶל־ פַּרְעֹ֑ה כֹּֽה־ אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל שַׁלַּח֙ אֶת־ עַמִּ֔י וְיָחֹ֥גּוּ לִ֖י בַּמִּדְבָּֽר׃"
+pericope: "[[Exod.5.1 Pharaoh’s First Refusal|Pharaoh’s First Refusal]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 5
+book/chapter: "[[Exod.5|Exodus 5]]"
+chronological_order: 97
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic MOSES|MOSES]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H0935G]]"
+- "[[H4872]]"
+- "[[H0175]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6547J]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H7971H]]"
+- "[[H0853]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H2287]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 5:1**<big><big>[[Exod.5.1 Pharaoh’s First Refusal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the LORD God of Israel, Let my people go, that they may hold a feast unto me in the wilderness.
 <small><sub>**BSB:**</sub></small>
 After that, Moses and Aaron went to Pharaoh and said, “This is what the LORD, the God of Israel, says: ‘Let My people go, so that they may hold a feast to Me in the wilderness.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0310A\|אַחַ֗ר]] [[H0935G\|בָּ֚אוּ]] [[H4872\|מֹשֶׁ֣ה]] [[H9002\|וְ]][[H0175\|אַהֲרֹ֔ן]] [[H9001\|וַ]][[H0559\|יֹּאמְר֖וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H6547J\|פַּרְעֹ֑ה]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֤ר]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H7971H\|שַׁלַּח֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ֔]][[H9020\|י]] [[H9002\|וְ]][[H2287\|יָחֹ֥גּוּ]] [[H9005\|לִ֖]][[H9030\|י]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOSES|MOSES]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.31|<< Exodus 4:31]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.2|Exodus 5:2 >>]]</td></tr></table>
 

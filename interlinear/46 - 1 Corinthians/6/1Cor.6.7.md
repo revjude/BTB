@@ -1,10 +1,65 @@
+---
+title: 1 Corinthians 6:7
+type: Verse
+kjv: "Now therefore there is utterly a fault among you, because ye go to law one with another. Why do ye not rather take wrong? why do ye not rather suffer yourselves to be defrauded?"
+bsb: "The very fact that you have lawsuits among you means that you are thoroughly defeated already. Why not rather be wronged? Why not rather be cheated?"
+greek: "ἤδη μὲν οὖν ὅλως ἥττημα ἐν ὑμῖν ἐστιν ὅτι κρίματα ἔχετε μεθ᾽ ἑαυτῶν. διὰ τί οὐχὶ μᾶλλον ἀδικεῖσθε; διὰ τί οὐχὶ μᾶλλον ἀποστερεῖσθε;"
+pericope: "[[1Cor.6.1 Lawsuits among Believers|Lawsuits among Believers]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 6
+book/chapter: "[[1Cor.6|1 Corinthians 6]]"
+chronological_order: 1063
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic ARBITRATION|ARBITRATION]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic LAWSUITS|LAWSUITS]]"
+- "[[topic LITIGATION|LITIGATION]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic RETALIATION|RETALIATION]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[G2235]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G3654]]"
+- "[[G2275]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G3754H]]"
+- "[[G2917]]"
+- "[[G2192]]"
+- "[[G3326]]"
+- "[[G1438]]"
+- "[[G1223]]"
+- "[[G5101]]"
+- "[[G3780]]"
+- "[[G3123H]]"
+- "[[G0091]]"
+- "[[G0650]]"
+texts:
+- NKO
+- k
+---
+
 **1 Corinthians 6:7**<big><big>[[1Cor.6.1 Lawsuits among Believers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now therefore there is utterly a fault among you, because ye go to law one with another. Why do ye not rather take wrong? why do ye not rather [suffer yourselves to] be defrauded?
 <small><sub>**BSB:**</sub></small>
 The very fact that you have lawsuits among you means that you are thoroughly defeated already. Why not rather be wronged? Why not rather be cheated?
-<small><sub>**Literal:**</sub></small>
-Already indeed therefore altogether a defeat in you it is for lawsuits you have among yourselves. Because of why surely rather suffer wrong? Because of why surely rather be defrauded?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.6|<< 1 Corinthians 6:6]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.8|1 Corinthians 6:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2235\|ἤδη]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G3654\|ὅλως]]  [[G2275\|ἥττημα]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G1510\|ἐστιν]]  [[G3754H\|ὅτι]]  [[G2917\|κρίματα]]  [[G2192\|ἔχετε]]  [[G3326\|μεθ᾽]]  [[G1438\|ἑαυτῶν.]]  [[G1223\|διὰ]]  [[G5101\|τί]]  [[G3780\|οὐχὶ]]  [[G3123H\|μᾶλλον]]  [[G0091\|ἀδικεῖσθε;]]  [[G1223\|διὰ]]  [[G5101\|τί]]  [[G3780\|οὐχὶ]]  [[G3123H\|μᾶλλον]]  [[G0650\|ἀποστερεῖσθε;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARBITRATION|ARBITRATION]] • [[topic FRATERNITY|FRATERNITY]] • [[topic LAWSUITS|LAWSUITS]] • [[topic LITIGATION|LITIGATION]] • [[topic MEEKNESS|MEEKNESS]] • [[topic RETALIATION|RETALIATION]] • [[topic STRIFE|STRIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.6|<< 1 Corinthians 6:6]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.8|1 Corinthians 6:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

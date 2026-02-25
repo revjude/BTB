@@ -1,10 +1,50 @@
+---
+title: Luke 19:34
+type: Verse
+kjv: "And they said, The Lord hath need of him."
+bsb: "“The Lord needs it,” they answered."
+greek: "οἱ δὲ εἶπαν· ὅτι ὁ κύριος αὐτοῦ χρείαν ἔχει."
+pericope: "[[Luke.19.28 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G3754G]]"
+- "[[G2962G]]"
+- "[[G0846]]"
+- "[[G5532]]"
+- "[[G2192]]"
+texts:
+- NKO
+- no
+---
+
 **Luke 19:34**<big><big>[[Luke.19.28 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they said, The Lord hath need of him.
 <small><sub>**BSB:**</sub></small>
 “The Lord needs it,” they answered.
-<small><sub>**Literal:**</sub></small>
-<the> And they said: that The Lord of it need has.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.33|<< Luke 19:33]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.35|Luke 19:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2036\|εἶπαν·]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G0846\|αὐτοῦ]]  [[G5532\|χρείαν]]  [[G2192\|ἔχει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.33|<< Luke 19:33]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.35|Luke 19:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Last Supper
+type: Pericope
 pericope: "[[Luke.22.14 The Last Supper|The Last Supper]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Luke
 chapter: 22
 book/chapter: "[[Luke.22|Luke 22]]"
-genre:
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 10
 verses:
 - "[[Luke.22.14]]"
 - "[[Luke.22.15]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Luke.22.23]]"
 ---
 
-[[Luke.22|Luke 22:14 - Luke 22:23]]
+<small>[[Luke.22|Luke 22:14-23]]</small>
 *The Last Supper*
 
 [[Luke.22.14|14]] And when the hour was come, he sat down, and the twelve apostles with him.

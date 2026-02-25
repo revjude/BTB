@@ -1,8 +1,61 @@
+---
+title: Joshua 11:19
+type: Verse
+kjv: "There was not a city that made peace with the children of Israel, save the Hivites the inhabitants of Gibeon: all other they took in battle."
+bsb: "No city made peace with the Israelites except the Hivites living in Gibeon; all others were taken in battle."
+hebrew: "לֹֽא־ הָיְתָ֣ה עִ֗יר אֲשֶׁ֤ר הִשְׁלִ֙ימָה֙ אֶל־ בְּנֵ֣י יִשְׂרָאֵ֔ל בִּלְתִּ֥י הַחִוִּ֖י יֹשְׁבֵ֣י גִבְע֑וֹן אֶת־ הַכֹּ֖ל לָקְח֥וּ בַמִּלְחָמָֽה׃"
+pericope: "[[Josh.11.16 Joshua Takes the Whole Land|Joshua Takes the Whole Land]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 11
+book/chapter: "[[Josh.11|Joshua 11]]"
+chronological_order: 241
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic HIVITES|HIVITES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H5892B]]"
+- "[[H0834A]]"
+- "[[H7999B]]"
+- "[[H0413]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H1115]]"
+- "[[H9009]]"
+- "[[H2340]]"
+- "[[H3427]]"
+- "[[H1391]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H3947G]]"
+- "[[H9003]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 11:19**<big><big>[[Josh.11.16 Joshua Takes the Whole Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There was not a city that made peace with the children of Israel, save the Hivites the inhabitants of Gibeon: all [other] they took in battle.
 <small><sub>**BSB:**</sub></small>
 No city made peace with the Israelites except the Hivites living in Gibeon; all others were taken in battle.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|הָיְתָ֣ה]] [[H5892B\|עִ֗יר]] [[H0834A\|אֲשֶׁ֤ר]] [[H7999B\|הִשְׁלִ֙ימָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H1115\|בִּלְתִּ֥י]] [[H9009\|הַ]][[H2340\|חִוִּ֖י]] [[H3427\|יֹשְׁבֵ֣י]] [[H1391\|גִבְע֑וֹן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3605\|כֹּ֖ל]] [[H3947G\|לָקְח֥וּ]] [[H9003\|בַ]][[H4421\|מִּלְחָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HIVITES|HIVITES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.11.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.11.18|<< Joshua 11:18]]</td><td align="center" style="border:none;">[[Josh.11|Joshua 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11.20|Joshua 11:20 >>]]</td></tr></table>
 

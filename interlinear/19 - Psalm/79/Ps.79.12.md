@@ -1,8 +1,59 @@
+---
+title: Psalm 79:12
+type: Verse
+kjv: "And render unto our neighbours sevenfold into their bosom their reproach, wherewith they have reproached thee, O Lord."
+bsb: "Pay back into the laps of our neighbors sevenfold the reproach they hurled at You, O Lord."
+hebrew: "וְהָ֘שֵׁ֤ב לִשְׁכֵנֵ֣ינוּ שִׁ֭בְעָתַיִם אֶל־ חֵיקָ֑ם חֶרְפָּ֘תָ֤ם אֲשֶׁ֖ר חֵרְפ֣וּךָ אֲדֹנָֽי׃"
+pericope: "[[Ps.79.1 A Prayer for Deliverance|A Prayer for Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 79
+book/chapter: "[[Ps.79|Psalm 79]]"
+chronological_order: 782
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9002]]"
+- "[[H7725G]]"
+- "[[H9005]]"
+- "[[H7934]]"
+- "[[H9025]]"
+- "[[H7659]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2436I]]"
+- "[[H9028]]"
+- "[[H2781]]"
+- "[[H0834A]]"
+- "[[H2778A]]"
+- "[[H9031]]"
+- "[[H0136]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 79:12**<big><big>[[Ps.79.1 A Prayer for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And render unto our neighbours sevenfold into their bosom their reproach, wherewith they have reproached thee, O Lord.
 <small><sub>**BSB:**</sub></small>
 Pay back into the laps of our neighbors sevenfold the reproach they hurled at You, O Lord.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7725G\|הָ֘שֵׁ֤ב]] [[H9005\|לִ]][[H7934\|שְׁכֵנֵ֣י]][[H9025\|נוּ]] [[H7659\|שִׁ֭בְעָתַיִם]] [[H0413\|אֶל]][[H9014\|־]] [[H2436I\|חֵיקָ֑]][[H9028\|ם]] [[H2781\|חֶרְפָּ֘תָ֤]][[H9028\|ם]] [[H0834A\|אֲשֶׁ֖ר]] [[H2778A\|חֵרְפ֣וּ]][[H9031\|ךָ]] [[H0136\|אֲדֹנָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.79.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.79.11|<< Psalms 79:11]]</td><td align="center" style="border:none;">[[Ps.79|Psalms 79]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.79.13|Psalms 79:13 >>]]</td></tr></table>
 

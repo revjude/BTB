@@ -1,8 +1,53 @@
+---
+title: Job 3:22
+type: Verse
+kjv: "Which rejoice exceedingly, and are glad, when they can find the grave?"
+bsb: "who rejoice and greatly exult when they reach the grave?"
+hebrew: "הַשְּׂמֵחִ֥ים אֱלֵי־ גִ֑יל יָ֝שִׂ֗ישׂוּ כִּ֣י יִמְצְאוּ־ קָֽבֶר׃"
+pericope: "[[Job.3.1 Job Laments His Birth|Job Laments His Birth]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 3
+book/chapter: "[[Job.3|Job 3]]"
+chronological_order: 14
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9009]]"
+- "[[H8056]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1524A]]"
+- "[[H7797]]"
+- "[[H3588A]]"
+- "[[H4672]]"
+- "[[H6913]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 3:22**<big><big>[[Job.3.1 Job Laments His Birth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which rejoice exceedingly, [and] are glad, when they can find the grave?
 <small><sub>**BSB:**</sub></small>
 who rejoice and greatly exult when they reach the grave?
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H8056\|שְּׂמֵחִ֥ים]] [[H0413\|אֱלֵי]][[H9014\|־]] [[H1524A\|גִ֑יל]] [[H7797\|יָ֝שִׂ֗ישׂוּ]] [[H3588A\|כִּ֣י]] [[H4672\|יִמְצְאוּ]][[H9014\|־]] [[H6913\|קָֽבֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.3.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.21|<< Job 3:21]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.23|Job 3:23 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: Leviticus 17:8
+type: Verse
+kjv: "And thou shalt say unto them, Whatsoever man there be of the house of Israel, or of the strangers which sojourn among you, that offereth a burnt offering or sacrifice,"
+bsb: "Tell them that if anyone from the house of Israel or any foreigner living among them offers a burnt offering or a sacrifice"
+hebrew: "וַאֲלֵהֶ֣ם תֹּאמַ֔ר אִ֥ישׁ אִישׁ֙ מִבֵּ֣ית יִשְׂרָאֵ֔ל וּמִן־ הַגֵּ֖ר אֲשֶׁר־ יָג֣וּר בְּתוֹכָ֑ם אֲשֶׁר־ יַעֲלֶ֥ה עֹלָ֖ה אוֹ־ זָֽבַח׃"
+pericope: "[[Lev.17.1 The Place of Sacrifice|The Place of Sacrifice]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 17
+book/chapter: "[[Lev.17|Leviticus 17]]"
+chronological_order: 149
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic STRANGERS|STRANGERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H0559]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1616]]"
+- "[[H0834A]]"
+- "[[H1481A]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9028]]"
+- "[[H5927I]]"
+- "[[H5930A]]"
+- "[[H0176A]]"
+- "[[H2077]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 17:8**<big><big>[[Lev.17.1 The Place of Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt say unto them, Whatsoever man [there be] of the house of Israel, or of the strangers which sojourn among you, that offereth a burnt offering or sacrifice,
 <small><sub>**BSB:**</sub></small>
 Tell them that if anyone from the house of Israel or any foreigner living among them offers a burnt offering or a sacrifice
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0413\|אֲלֵ]][[H9038\|הֶ֣ם]] [[H0559\|תֹּאמַ֔ר]] [[H0376G\|אִ֥ישׁ]] [[H0376G\|אִישׁ֙]] [[H9006\|מִ]][[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1616\|גֵּ֖ר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1481A\|יָג֣וּר]] [[H9003\|בְּ]][[H8432\|תוֹכָ֑]][[H9028\|ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5927I\|יַעֲלֶ֥ה]] [[H5930A\|עֹלָ֖ה]] [[H0176A\|אוֹ]][[H9014\|־]] [[H2077\|זָֽבַח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic OFFERINGS|OFFERINGS]] • [[topic STRANGERS|STRANGERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.17.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.17.7|<< Leviticus 17:7]]</td><td align="center" style="border:none;">[[Lev.17|Leviticus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.17.9|Leviticus 17:9 >>]]</td></tr></table>
 

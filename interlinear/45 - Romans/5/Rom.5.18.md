@@ -1,10 +1,62 @@
+---
+title: Romans 5:18
+type: Verse
+kjv: "Therefore as by the offence of one judgment came upon all men to condemnation; even so by the righteousness of one the free gift came upon all men unto justification of life."
+bsb: "So then, just as one trespass brought condemnation for all men, so also one act of righteousness brought justification and life for all men."
+greek: "Ἄρα οὖν ὡς δι᾽ ἑνὸς παραπτώματος εἰς πάντας ἀνθρώπους εἰς κατάκριμα, οὕτως καὶ δι᾽ ἑνὸς δικαιώματος εἰς πάντας ἀνθρώπους εἰς δικαίωσιν ζωῆς."
+pericope: "[[Rom.5.12 Death in Adam, Life in Christ|Death in Adam, Life in Christ]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 5
+book/chapter: "[[Rom.5|Romans 5]]"
+chronological_order: 1091
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic FALL OF MAN|FALL OF MAN]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G0686]]"
+- "[[G3767]]"
+- "[[G5613]]"
+- "[[G1223]]"
+- "[[G1520]]"
+- "[[G3900]]"
+- "[[G1519]]"
+- "[[G3956]]"
+- "[[G0444]]"
+- "[[G2631]]"
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G1345]]"
+- "[[G1347]]"
+- "[[G2222]]"
+texts:
+- NKO
+---
+
 **Romans 5:18**<big><big>[[Rom.5.12 Death in Adam, Life in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore as by the offence of one [judgment came] upon all men to condemnation; even so by the righteousness of one [the free gift came] upon all men unto justification of life.
 <small><sub>**BSB:**</sub></small>
 So then, just as one trespass brought condemnation for all men, so also one act of righteousness brought justification and life for all men.
-<small><sub>**Literal:**</sub></small>
-So then just as through one trespass to all men [it is] unto condemnation, so also through one act of righteousness to all men [it is] unto justification of life.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.17|<< Romans 5:17]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.19|Romans 5:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0686\|Ἄρα]]  [[G3767\|οὖν]]  [[G5613\|ὡς]]  [[G1223\|δι᾽]]  [[G1520\|ἑνὸς]]  [[G3900\|παραπτώματος]]  [[G1519\|εἰς]]  [[G3956\|πάντας]]  [[G0444\|ἀνθρώπους]]  [[G1519\|εἰς]]  [[G2631\|κατάκριμα,]]  [[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G1223\|δι᾽]]  [[G1520\|ἑνὸς]]  [[G1345\|δικαιώματος]]  [[G1519\|εἰς]]  [[G3956\|πάντας]]  [[G0444\|ἀνθρώπους]]  [[G1519\|εἰς]]  [[G1347\|δικαίωσιν]]  [[G2222\|ζωῆς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic ATONEMENT|ATONEMENT]] • [[topic FALL OF MAN|FALL OF MAN]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic SALVATION|SALVATION]] • [[topic SIN|SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.17|<< Romans 5:17]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.19|Romans 5:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

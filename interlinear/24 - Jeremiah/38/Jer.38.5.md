@@ -1,8 +1,62 @@
+---
+title: Jeremiah 38:5
+type: Verse
+kjv: "Then Zedekiah the king said, Behold, he is in your hand: for the king is not he that can do any thing against you."
+bsb: "“Here he is,” replied King Zedekiah. “He is in your hands, since the king can do nothing to stop you.”"
+hebrew: "וַיֹּ֙אמֶר֙ הַמֶּ֣לֶךְ צִדְקִיָּ֔הוּ הִנֵּה־ ה֖וּא בְּיֶדְכֶ֑ם כִּֽי־ אֵ֣ין הַמֶּ֔לֶךְ יוּכַ֥ל אֶתְכֶ֖ם דָּבָֽר׃"
+pericope: "[[Jer.38.1 Jeremiah Cast into the Cistern|Jeremiah Cast into the Cistern]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 38
+book/chapter: "[[Jer.38|Jeremiah 38]]"
+chronological_order: 761
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H6667H]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9026]]"
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H3201]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H1697I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 38:5**<big><big>[[Jer.38.1 Jeremiah Cast into the Cistern|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Zedekiah the king said, Behold, he [is] in your hand: for the king [is] not [he that] can do [any] thing against you.
 <small><sub>**BSB:**</sub></small>
 “Here he is,” replied King Zedekiah. “He is in your hands, since the king can do nothing to stop you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H6667H\|צִדְקִיָּ֔הוּ]] [[H2009\|הִנֵּה]][[H9014\|־]] [[H1931\|ה֖וּא]] [[H9003\|בְּ]][[H3027G\|יֶדְ]][[H9026\|כֶ֑ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0369\|אֵ֣ין]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H3201\|יוּכַ֥ל]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H1697I\|דָּבָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSECUTION|PERSECUTION]] • [[topic RULERS|RULERS]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.38.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.4|<< Jeremiah 38:4]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.6|Jeremiah 38:6 >>]]</td></tr></table>
 

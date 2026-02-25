@@ -1,10 +1,70 @@
+---
+title: 2 Corinthians 12:20
+type: Verse
+kjv: "For I fear, lest, when I come, I shall not find you such as I would, and that I shall be found unto you such as ye would not: lest there be debates, envyings, wraths, strifes, backbitings, whisperings, swellings, tumults:"
+bsb: "For I am afraid that when I come, I may not find you as I wish, and you may not find me as you wish. I fear that there may be quarreling, jealousy, rage, rivalry, slander, gossip, arrogance, and disorder."
+greek: "φοβοῦμαι γὰρ μή πως ἐλθὼν οὐχ οἵους θέλω εὕρω ὑμᾶς, κἀγὼ κἀγὼ εὑρεθῶ ὑμῖν οἷον οὐ θέλετε, μή πως ἔρις, ζῆλος, θυμοί, ἐριθείαι, καταλαλιαί, ψιθυρισμοί, φυσιώσεις, ἀκαταστασίαι,"
+pericope: "[[2Cor.12.11 Paul’s Concern for the Corinthians|Paul’s Concern for the Corinthians]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 12
+book/chapter: "[[2Cor.12|2 Corinthians 12]]"
+chronological_order: 1085
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic BACKBITING|BACKBITING]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic WHISPERER|WHISPERER]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5399]]"
+- "[[G1063]]"
+- "[[G3361]]"
+- "[[G4458]]"
+- "[[G2064]]"
+- "[[G3756]]"
+- "[[G3634]]"
+- "[[G2309]]"
+- "[[G2147]]"
+- "[[G4771]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2054]]"
+- "[[G2205]]"
+- "[[G2372]]"
+- "[[G2052]]"
+- "[[G2636]]"
+- "[[G5587]]"
+- "[[G5450]]"
+- "[[G0181]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Corinthians 12:20**<big><big>[[2Cor.12.11 Paul’s Concern for the Corinthians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I fear, lest, when I come, I shall not find you such as I would, and [that] I shall be found unto you such as ye would not: lest [there be] debates, envyings, wraths, strifes, backbitings, whisperings, swellings, tumults:
 <small><sub>**BSB:**</sub></small>
 For I am afraid that when I come, I may not find you as I wish, and you may not find me as you wish. I fear that there may be quarreling, jealousy, rage, rivalry, slander, gossip, arrogance, and disorder.
-<small><sub>**Literal:**</sub></small>
-I fear for lest perhaps having come not such as I wish I may find you, and I myself may be found by you such as not you do wish, lest perhaps a quarrel, jealousy, anger, contentions slander, gossip, conceit, disorder,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.19|<< 2 Corinthians 12:19]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.21|2 Corinthians 12:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5399\|φοβοῦμαι]]  [[G1063\|γὰρ]]  [[G3361\|μή]]  [[G4458\|πως]]  [[G2064\|ἐλθὼν]]  [[G3756\|οὐχ]]  [[G3634\|οἵους]]  [[G2309\|θέλω]]  [[G2147\|εὕρω]]  [[G4771\|ὑμᾶς,]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G2147\|εὑρεθῶ]]  [[G4771\|ὑμῖν]]  [[G3634\|οἷον]]  [[G3756\|οὐ]]  [[G2309\|θέλετε,]]  [[G3361\|μή]]  [[G4458\|πως]]  [[G2054\|ἔρις,]]  [[G2205\|ζῆλος,]]  [[G2372\|θυμοί,]]  [[G2052\|ἐριθείαι,]]  [[G2636\|καταλαλιαί,]]  [[G5587\|ψιθυρισμοί,]]  [[G5450\|φυσιώσεις,]]  [[G0181\|ἀκαταστασίαι,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic BACKBITING|BACKBITING]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic ENVY|ENVY]] • [[topic LOVE|LOVE]] • [[topic SLANDER|SLANDER]] • [[topic STRIFE|STRIFE]] • [[topic WHISPERER|WHISPERER]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.19|<< 2 Corinthians 12:19]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.21|2 Corinthians 12:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

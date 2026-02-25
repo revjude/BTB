@@ -1,10 +1,78 @@
+---
+title: Acts 2:38
+type: Verse
+kjv: "Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost."
+bsb: "Peter replied, “Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit."
+greek: "Πέτρος δὲ πρὸς αὐτούς· μετανοήσατε φησὶν καὶ βαπτισθήτω ἕκαστος ὑμῶν ἐπὶ τῷ ὀνόματι Ἰησοῦ Χριστοῦ εἰς ἄφεσιν τῶν ἁμαρτιῶν ὑμῶν καὶ λήμψεσθε τὴν δωρεὰν τοῦ ἁγίου πνεύματος·"
+pericope: "[[Acts.2.37 Three Thousand Believe|Three Thousand Believe]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SELF-DEFENSE|SELF-DEFENSE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G4074G]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3340]]"
+- "[[G5346]]"
+- "[[G2532]]"
+- "[[G0907]]"
+- "[[G1538]]"
+- "[[G4771]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G1519]]"
+- "[[G0859]]"
+- "[[G0266]]"
+- "[[G2983]]"
+- "[[G1431]]"
+- "[[G0040G]]"
+- "[[G4151G]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+- no
+---
+
 **Acts 2:38**<big><big>[[Acts.2.37 Three Thousand Believe|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost.
 <small><sub>**BSB:**</sub></small>
 Peter replied, “Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit.
-<small><sub>**Literal:**</sub></small>
-Peter then to them; do repent he declared and should be baptized every one of you in the name of Jesus Christ for the forgiveness of the sins of you and you will receive the gift of the Holy Spirit;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.37|<< Acts 2:37]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.39|Acts 2:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4074G\|Πέτρος]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς·]]  [[G3340\|μετανοήσατε]]  [[G5346\|φησὶν]]  [[G2532\|καὶ]]  [[G0907\|βαπτισθήτω]]  [[G1538\|ἕκαστος]]  [[G4771\|ὑμῶν]]  [[G1909\|ἐπὶ]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματι]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G1519\|εἰς]]  [[G0859\|ἄφεσιν]]  [[G3588\|τῶν]]  [[G0266\|ἁμαρτιῶν]]  [[G4771\|ὑμῶν]]  [[G2532\|καὶ]]  [[G2983\|λήμψεσθε]]  [[G3588\|τὴν]]  [[G1431\|δωρεὰν]]  [[G3588\|τοῦ]]  [[G0040G\|ἁγίου]]  [[G4151G\|πνεύματος·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic DAVID|DAVID]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic ORATOR|ORATOR]] • [[topic PETER|PETER]] • [[topic PREACHING|PREACHING]] • [[topic REGENERATION|REGENERATION]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REVIVALS|REVIVALS]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic SELF-DEFENSE|SELF-DEFENSE]] • [[topic SIN|SIN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.37|<< Acts 2:37]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.39|Acts 2:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

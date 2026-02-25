@@ -1,6 +1,69 @@
+---
+title: LXX Hosea 9:15
+type: Verse
+lxx: "All  their evils are in Gilgal, for there I detested them. Because of the evils  of their practices I will cast them out of my house. No way shall I proceed  to love them. All  their rulers resist persuasion."
+greek: "πάσαι αι κακίαι αυτών εν Γαλγάλ ότι εκεί εμίσησα αυτούς διά της κακίας των επιτηδευμάτων αυτών εκ του οίκου μου εκβαλώ αυτούς ου μη προσθήσω του αγαπήσαι αυτούς πάντες οι άρχοντες αυτών απειθούντες"
+original_language: Greek
+testament: Old
+book: Hosea
+chapter: 9
+book/chapter: "[[Hos.9|Hosea 9]]"
+chronological_order: 650
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2549]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[H1537]]"
+- "[[G3754]]"
+- "[[G1563]]"
+- "[[G3404]]"
+- "[[G1473]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G2549]]"
+- "[[G3588]]"
+- "[[G7461]]"
+- "[[G1473]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G1473]]"
+- "[[G1544]]"
+- "[[G1473]]"
+- "[[G3364]]"
+- "[[G4369]]"
+- "[[G3588]]"
+- "[[G0025]]"
+- "[[G1473]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0758]]"
+- "[[G1473]]"
+- "[[G0544]]"
+---
+
 **LXX Hosea 9:15** 
 <small><sub>**LXX:**</sub></small>
 All  their evils \[are\] in Gilgal, for there I detested them. Because of the evils  of their practices I will cast them out of my house. No way shall I proceed  to love them. All  their rulers resist persuasion. 
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πάσαι]] [[G3588\|αι]] [[G2549\|κακίαι]] [[G1473\|αυτών]] [[G1722\|εν]] [[H1537\|Γαλγάλ]] [[G3754\|ότι]] [[G1563\|εκεί]] [[G3404\|εμίσησα]] [[G1473\|αυτούς]] [[G1223\|διά]] [[G3588\|της]] [[G2549\|κακίας]] [[G3588\|των]] [[G7461\|επιτηδευμάτων]] [[G1473\|αυτών]] [[G1537\|εκ]] [[G3588\|του]] [[G3624\|οίκου]] [[G1473\|μου]] [[G1544\|εκβαλώ]] [[G1473\|αυτούς]] [[G3364\|ου μη]] [[G4369\|προσθήσω]] [[G3588\|του]] [[G0025\|αγαπήσαι]] [[G1473\|αυτούς]] [[G3956\|πάντες]] [[G3588\|οι]] [[G0758\|άρχοντες]] [[G1473\|αυτών]] [[G0544\|απειθούντες]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GILGAL|GILGAL]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**MT:**</sub></small>
 [[Hos.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.14|<< Hosea 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.16|Hosea 9:16 >>]]</td></tr></table>
 
@@ -34,6 +97,6 @@ All  their evils \[are\] in Gilgal, for there I detested them. Because of the ev
 | \<obj.> | **<big>[[G3588\|οι]]</big>** |
 | their rulers | **<big>[[G0758\|άρχοντες]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 | resist persuasion. | **<big>[[G0544\|απειθούντες]]</big>** |
-[[Hos.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.14|<< Hosea 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.16|Hosea 9:16 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.14|<< Hosea 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.16|Hosea 9:16 >>]]</td></tr></table>
 
 

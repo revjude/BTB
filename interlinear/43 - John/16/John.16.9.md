@@ -1,10 +1,52 @@
+---
+title: John 16:9
+type: Verse
+kjv: "Of sin, because they believe not on me;"
+bsb: "in regard to sin, because they do not believe in Me;"
+jesus_said: "Of sin, because they believe not on me;"
+greek: "περὶ ἁμαρτίας μέν, ὅτι οὐ πιστεύουσιν εἰς ἐμέ·"
+pericope: "[[John.16.5 The Promise of the Holy Spirit|The Promise of the Holy Spirit]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 16
+book/chapter: "[[John.16|John 16]]"
+chronological_order: 1004
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G4012]]"
+- "[[G0266]]"
+- "[[G3303]]"
+- "[[G3754H]]"
+- "[[G3756]]"
+- "[[G4100]]"
+- "[[G1519]]"
+- "[[G1473]]"
+texts:
+- NKO
+---
+
 **John 16:9**<big><big>[[John.16.5 The Promise of the Holy Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Of sin, because they believe not on me;
 <small><sub>**BSB:**</sub></small>
 in regard to sin, because they do not believe in Me;
-<small><sub>**Literal:**</sub></small>
-concerning sin indeed, because not do they believe in Me myself;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.8|<< John 16:8]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.10|John 16:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4012\|περὶ]]  [[G0266\|ἁμαρτίας]]  [[G3303\|μέν,]]  [[G3754H\|ὅτι]]  [[G3756\|οὐ]]  [[G4100\|πιστεύουσιν]]  [[G1519\|εἰς]]  [[G1473\|ἐμέ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVICTION|CONVICTION]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.8|<< John 16:8]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.10|John 16:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,66 @@
+---
+title: Isaiah 54:10
+type: Verse
+kjv: "For the mountains shall depart, and the hills be removed; but my kindness shall not depart from thee, neither shall the covenant of my peace be removed, saith the LORD that hath mercy on thee."
+bsb: "Though the mountains may be removed and the hills may be shaken, My loving devotion will not depart from you, and My covenant of peace will not be broken,” says the LORD, who has compassion on you."
+hebrew: "כִּ֤י הֶֽהָרִים֙ יָמ֔וּשׁוּ וְהַגְּבָע֖וֹת תְּמוּטֶ֑נָה וְחַסְדִּ֞י מֵאִתֵּ֣ךְ לֹֽא־ יָמ֗וּשׁ וּבְרִ֤ית שְׁלוֹמִי֙ לֹ֣א תָמ֔וּט אָמַ֥ר מְרַחֲמֵ֖ךְ יְהוָֽה׃ ס"
+pericope: "[[Isa.54.1 Future Blessings for Zion|Future Blessings for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 54
+book/chapter: "[[Isa.54|Isaiah 54]]"
+chronological_order: 693
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H4185]]"
+- "[[H9002]]"
+- "[[H1389I]]"
+- "[[H4131]]"
+- "[[H2617A]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H9032]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1285]]"
+- "[[H7965G]]"
+- "[[H0559]]"
+- "[[H7355]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 54:10**<big><big>[[Isa.54.1 Future Blessings for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the mountains shall depart, and the hills be removed; but my kindness shall not depart from thee, neither shall the covenant of my peace be removed, saith the LORD that hath mercy on thee.
 <small><sub>**BSB:**</sub></small>
 Though the mountains may be removed and the hills may be shaken, My loving devotion will not depart from you, and My covenant of peace will not be broken,” says the LORD, who has compassion on you.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H9009\|הֶֽ]][[H2022G\|הָרִים֙]] [[H4185\|יָמ֔וּשׁוּ]] [[H9002\|וְ]][[H9009\|הַ]][[H1389I\|גְּבָע֖וֹת]] [[H4131\|תְּמוּטֶ֑נָה]] [[H9002\|וְ]][[H2617A\|חַסְדִּ֞]][[H9020\|י]] [[H9006\|מֵ]][[H0854\|אִתֵּ֣]][[H9032\|ךְ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H4185\|יָמ֗וּשׁ]] [[H9002\|וּ]][[H1285\|בְרִ֤ית]] [[H7965G\|שְׁלוֹמִ]][[H9020\|י֙]] [[H3808\|לֹ֣א]] [[H4131\|תָמ֔וּט]] [[H0559\|אָמַ֥ר]] [[H7355\|מְרַחֲמֵ֖]][[H9032\|ךְ]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COVENANT|COVENANT]] • [[topic GOD|GOD]] • [[topic PEACE|PEACE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.54.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.9|<< Isaiah 54:9]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.11|Isaiah 54:11 >>]]</td></tr></table>
 
@@ -23,7 +81,7 @@ Though the mountains may be removed and the hills may be shaken, My loving devot
 | it will shake  |**<big>&#8207;[[H4131\|תָמ֔וּט]]&#8207; </big>**| ta.Mut<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he says  |**<big>&#8207;[[H0559\|אָמַ֥ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] has compassion on you  |**<big>&#8207;[[H7355\|מְרַחֲמֵ֖]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| me.ra.cha.Me<small><sup>[[HVprmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.9|<< Isaiah 54:9]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.11|Isaiah 54:11 >>]]</td></tr></table>
 
 

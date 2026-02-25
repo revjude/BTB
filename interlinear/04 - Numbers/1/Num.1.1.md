@@ -1,8 +1,71 @@
+---
+title: Numbers 1:1
+type: Verse
+kjv: "And the LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying,"
+bsb: "On the first day of the second month of the second year after the Israelites had come out of the land of Egypt, the LORD spoke to Moses in the Tent of Meeting in the Wilderness of Sinai. He said:"
+hebrew: "וַיְדַבֵּ֨ר יְהוָ֧ה אֶל־ מֹשֶׁ֛ה בְּמִדְבַּ֥ר סִינַ֖י בְּאֹ֣הֶל מוֹעֵ֑ד בְּאֶחָד֩ לַחֹ֨דֶשׁ הַשֵּׁנִ֜י בַּשָּׁנָ֣ה הַשֵּׁנִ֗ית לְצֵאתָ֛ם מֵאֶ֥רֶץ מִצְרַ֖יִם לֵאמֹֽר׃"
+pericope: "[[Num.1.1 The First Census of Israel|The First Census of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 1
+book/chapter: "[[Num.1|Numbers 1]]"
+chronological_order: 160
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H5514H]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H8145]]"
+- "[[H8141]]"
+- "[[H3318G]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 1:1**<big><big>[[Num.1.1 The First Census of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first [day] of the second month, in the second year after they were come out of the land of Egypt, saying,
 <small><sub>**BSB:**</sub></small>
 On the first day of the second month of the second year after the Israelites had come out of the land of Egypt, the LORD spoke to Moses in the Tent of Meeting in the Wilderness of Sinai. He said:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֨ר]] [[H3068G\|יְהוָ֧ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֛ה]] [[H9003\|בְּ]][[H4057B\|מִדְבַּ֥ר]] [[H5514H\|סִינַ֖י]] [[H9003\|בְּ]][[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֑ד]] [[H9003\|בְּ]][[H0259\|אֶחָד֩]] [[H9005\|לַ]][[H2320G\|חֹ֨דֶשׁ]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֜י]] [[H9003\|בַּ]][[H8141\|שָּׁנָ֣ה]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֗ית]] [[H9005\|לְ]][[H3318G\|צֵאתָ֛]][[H9038\|ם]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרַ֖יִם]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic MONTH|MONTH]] • [[topic PROPHETS|PROPHETS]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.34|<< Leviticus 27:34]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.2|Numbers 1:2 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: Habakkuk 3:16
+type: Verse
+kjv: "When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might rest in the day of trouble: when he cometh up unto the people, he will invade them with his troops."
+bsb: "I heard and trembled within; my lips quivered at the sound. Decay entered my bones; I trembled where I stood. Yet I must wait patiently for the day of distress to come upon the people who invade us."
+hebrew: "שָׁמַ֣עְתִּי׀ וַתִּרְגַּ֣ז בִּטְנִ֗י לְקוֹל֙ צָלֲל֣וּ שְׂפָתַ֔י יָב֥וֹא רָקָ֛ב בַּעֲצָמַ֖י וְתַחְתַּ֣י אֶרְגָּ֑ז אֲשֶׁ֤ר אָנ֙וּחַ֙ לְי֣וֹם צָרָ֔ה לַעֲל֖וֹת לְעַ֥ם יְגוּדֶֽנּוּ׃"
+pericope: "[[Hab.3.1 Habakkuk’s Prayer|Habakkuk’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 3
+book/chapter: "[[Hab.3|Habakkuk 3]]"
+chronological_order: 740
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic BELLY|BELLY]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H8085G]]"
+- "[[H9015]]"
+- "[[H9001]]"
+- "[[H7264]]"
+- "[[H0990J]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H6963H]]"
+- "[[H6750]]"
+- "[[H8193G]]"
+- "[[H0935G]]"
+- "[[H7538]]"
+- "[[H9003]]"
+- "[[H6106G]]"
+- "[[H9002]]"
+- "[[H8478G]]"
+- "[[H9030]]"
+- "[[H0834A]]"
+- "[[H5117]]"
+- "[[H3117G]]"
+- "[[H6869B]]"
+- "[[H5927G]]"
+- "[[H5971A]]"
+- "[[H1464]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 3:16**<big><big>[[Hab.3.1 Habakkuk’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might rest in the day of trouble: when he cometh up unto the people, he will invade them with his troops.
 <small><sub>**BSB:**</sub></small>
 I heard and trembled within; my lips quivered at the sound. Decay entered my bones; I trembled where I stood. Yet I must wait patiently for the day of distress to come upon the people who invade us.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שָׁמַ֣עְתִּי]][[H9015\|׀]] [[H9001\|וַ]][[H7264\|תִּרְגַּ֣ז]] [[H0990J\|בִּטְנִ֗]][[H9020\|י]] [[H9005\|לְ]][[H6963H\|קוֹל֙]] [[H6750\|צָלֲל֣וּ]] [[H8193G\|שְׂפָתַ֔]][[H9020\|י]] [[H0935G\|יָב֥וֹא]] [[H7538\|רָקָ֛ב]] [[H9003\|בַּ]][[H6106G\|עֲצָמַ֖]][[H9020\|י]] [[H9002\|וְ]][[H8478G\|תַחְתַּ֣]][[H9030\|י]] [[H7264\|אֶרְגָּ֑ז]] [[H0834A\|אֲשֶׁ֤ר]] [[H5117\|אָנ֙וּחַ֙]] [[H9005\|לְ]][[H3117G\|י֣וֹם]] [[H6869B\|צָרָ֔ה]] [[H9005\|לַ]][[H5927G\|עֲל֖וֹת]] [[H9005\|לְ]][[H5971A\|עַ֥ם]] [[H1464\|יְגוּדֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BELLY|BELLY]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.15|<< Habakkuk 3:15]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.17|Habakkuk 3:17 >>]]</td></tr></table>
 

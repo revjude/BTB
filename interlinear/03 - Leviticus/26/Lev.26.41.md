@@ -1,8 +1,77 @@
+---
+title: Leviticus 26:41
+type: Verse
+kjv: "And that I also have walked contrary unto them, and have brought them into the land of their enemies; if then their uncircumcised hearts be humbled, and they then accept of the punishment of their iniquity:"
+bsb: "and I acted with hostility toward them and brought them into the land of their enemies—and if their uncircumcised hearts will be humbled and they will make amends for their iniquity,"
+hebrew: "אַף־ אֲנִ֗י אֵלֵ֤ךְ עִמָּם֙ בְּקֶ֔רִי וְהֵבֵאתִ֣י אֹתָ֔ם בְּאֶ֖רֶץ אֹיְבֵיהֶ֑ם אוֹ־ אָ֣ז יִכָּנַ֗ע לְבָבָם֙ הֶֽעָרֵ֔ל וְאָ֖ז יִרְצ֥וּ אֶת־ עֲוֹנָֽם׃"
+pericope: "[[Lev.26.40 God Remembers Those Who Repent|God Remembers Those Who Repent]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REWARD|REWARD]]"
+strongs:
+- "[[H0637]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H1980I]]"
+- "[[H5973A]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H7147]]"
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H0776G]]"
+- "[[H0341]]"
+- "[[H9028]]"
+- "[[H0176A]]"
+- "[[H0227A]]"
+- "[[H3665]]"
+- "[[H3824]]"
+- "[[H9009]]"
+- "[[H6189]]"
+- "[[H9002]]"
+- "[[H7521]]"
+- "[[H5771G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 26:41**<big><big>[[Lev.26.40 God Remembers Those Who Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [that] I also have walked contrary unto them, and have brought them into the land of their enemies; if then their uncircumcised hearts be humbled, and they then accept of the punishment of their iniquity:
 <small><sub>**BSB:**</sub></small>
 and I acted with hostility toward them and brought them into the land of their enemies—and if their uncircumcised hearts will be humbled and they will make amends for their iniquity,
+<small><sub>**Hebrew:**</sub></small>
+[[H0637\|אַף]][[H9014\|־]] [[H0589\|אֲנִ֗י]] [[H1980I\|אֵלֵ֤ךְ]] [[H5973A\|עִמָּ]][[H9038\|ם֙]] [[H9003\|בְּ]][[H7147\|קֶ֔רִי]] [[H9001\|וְ]][[H0935P\|הֵבֵאתִ֣י]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H9003\|בְּ]][[H0776G\|אֶ֖רֶץ]] [[H0341\|אֹיְבֵי]][[H9028\|הֶ֑ם]] [[H0176A\|אוֹ]][[H9014\|־]] [[H0227A\|אָ֣ז]] [[H3665\|יִכָּנַ֗ע]] [[H3824\|לְבָבָ]][[H9028\|ם֙]] [[H9009\|הֶֽ]][[H6189\|עָרֵ֔ל]] [[H9002\|וְ]][[H0227A\|אָ֖ז]] [[H7521\|יִרְצ֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H5771G\|עֲוֹנָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic CHILDREN|CHILDREN]] • [[topic COVENANT|COVENANT]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic GOD|GOD]] • [[topic PENITENT|PENITENT]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REWARD|REWARD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.40|<< Leviticus 26:40]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.42|Leviticus 26:42 >>]]</td></tr></table>
 

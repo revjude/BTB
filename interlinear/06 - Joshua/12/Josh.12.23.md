@@ -1,8 +1,51 @@
+---
+title: Joshua 12:23
+type: Verse
+kjv: "The king of Dor in the coast of Dor, one; the king of the nations of Gilgal, one;"
+bsb: "the king of Dor in Naphath-dor, one; the king of Goiim in Gilgal, one;"
+hebrew: "מֶ֥לֶךְ דּ֛וֹר לְנָפַ֥ת דּ֖וֹר אֶחָ֑ד מֶֽלֶךְ־ גּוֹיִ֥ם לְגִלְגָּ֖ל אֶחָֽד׃"
+pericope: "[[Josh.12.7 The Kings Defeated West of the Jordan|The Kings Defeated West of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 12
+book/chapter: "[[Josh.12|Joshua 12]]"
+chronological_order: 242
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic DOR|DOR]]"
+- "[[topic GILGAL|GILGAL]]"
+strongs:
+- "[[H4428G]]"
+- "[[H1756G]]"
+- "[[H9005]]"
+- "[[H5316H]]"
+- "[[H1756H]]"
+- "[[H0259]]"
+- "[[H9014]]"
+- "[[H1471B]]"
+- "[[H1537I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 12:23**<big><big>[[Josh.12.7 The Kings Defeated West of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The king of Dor in the coast of Dor, one; the king of the nations of Gilgal, one;
 <small><sub>**BSB:**</sub></small>
 the king of Dor in Naphath-dor, one; the king of Goiim in Gilgal, one;
+<small><sub>**Hebrew:**</sub></small>
+[[H4428G\|מֶ֥לֶךְ]] [[H1756G\|דּ֛וֹר]] [[H9005\|לְ]][[H5316H\|נָפַ֥ת]] [[H1756H\|דּ֖וֹר]] [[H0259\|אֶחָ֑ד]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H1471B\|גּוֹיִ֥ם]] [[H9005\|לְ]][[H1537I\|גִלְגָּ֖ל]] [[H0259\|אֶחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOR|DOR]] • [[topic GILGAL|GILGAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.12.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.12.22|<< Joshua 12:22]]</td><td align="center" style="border:none;">[[Josh.12|Joshua 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.12.24|Joshua 12:24 >>]]</td></tr></table>
 

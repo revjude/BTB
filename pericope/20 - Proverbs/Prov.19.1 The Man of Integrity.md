@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Man of Integrity
+type: Pericope
 pericope: "[[Prov.19.1 The Man of Integrity|The Man of Integrity]]"
-verse_count: 29
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 19
 book/chapter: "[[Prov.19|Proverbs 19]]"
-genre:
+chronological_order: 474
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 29
 verses:
 - "[[Prov.19.1]]"
 - "[[Prov.19.2]]"
@@ -47,7 +54,7 @@ verses:
 - "[[Prov.19.29]]"
 ---
 
-[[Prov.19|Proverbs 19:1 - Proverbs 19:29]]
+<small>[[Prov.19|Proverbs 19:1-29]]</small>
 *The Man of Integrity*
 
 [[Prov.19.1|1]] Better \[is\] the poor that walketh in his integrity, than \[he that is\] perverse in his lips, and is a fool.

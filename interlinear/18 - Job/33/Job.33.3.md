@@ -1,8 +1,48 @@
+---
+title: Job 33:3
+type: Verse
+kjv: "My words shall be of the uprightness of my heart: and my lips shall utter knowledge clearly."
+bsb: "My words are from an upright heart, and my lips speak sincerely what I know."
+hebrew: "יֹֽשֶׁר־ לִבִּ֥י אֲמָרָ֑י וְדַ֥עַת שְׂ֝פָתַ֗י בָּר֥וּר מִלֵּֽלוּ׃"
+pericope: "[[Job.33.1 Elihu Rebukes Job|Elihu Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 33
+book/chapter: "[[Job.33|Job 33]]"
+chronological_order: 44
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H3476]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H0561]]"
+- "[[H9002]]"
+- "[[H1847]]"
+- "[[H8193G]]"
+- "[[H1305]]"
+- "[[H4448A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 33:3**<big><big>[[Job.33.1 Elihu Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My words [shall be of] the uprightness of my heart: and my lips shall utter knowledge clearly.
 <small><sub>**BSB:**</sub></small>
 My words are from an upright heart, and my lips speak sincerely what I know.
+<small><sub>**Hebrew:**</sub></small>
+[[H3476\|יֹֽשֶׁר]][[H9014\|־]] [[H3820A\|לִבִּ֥]][[H9020\|י]] [[H0561\|אֲמָרָ֑]][[H9020\|י]] [[H9002\|וְ]][[H1847\|דַ֥עַת]] [[H8193G\|שְׂ֝פָתַ֗]][[H9020\|י]] [[H1305\|בָּר֥וּר]] [[H4448A\|מִלֵּֽלוּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.33.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.2|<< Job 33:2]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.4|Job 33:4 >>]]</td></tr></table>
 

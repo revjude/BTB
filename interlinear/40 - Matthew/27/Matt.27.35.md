@@ -1,10 +1,65 @@
+---
+title: Matthew 27:35
+type: Verse
+kjv: "And they crucified him, and parted his garments, casting lots: that it might be fulfilled which was spoken by the prophet, They parted my garments among them, and upon my vesture did they cast lots."
+bsb: "When they had crucified Him, they divided up His garments by casting lots."
+greek: "σταυρώσαντες δὲ αὐτὸν διεμερίσαντο τὰ ἱμάτια αὐτοῦ βάλλοντες κλῆρον, ἵνα πληρωθῇ τὸ ῥηθὲν ὑπὸ τοῦ προφήτου διεμερίσαντο τὰ ἱμάτια μου ἑαυτοῖς καὶ ἐπὶ τὸν ἱματισμόν μου ἔβαλον κλῆρον"
+pericope: "[[Matt.27.32 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOT, THE|LOT, THE]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+strongs:
+- "[[G4717]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G1266]]"
+- "[[G3588]]"
+- "[[G2440]]"
+- "[[G0906G]]"
+- "[[G2819]]"
+- "[[G2443]]"
+- "[[G4137]]"
+- "[[G2046]]"
+- "[[G5259G]]"
+- "[[G4396]]"
+- "[[G3165]]"
+- "[[G1438]]"
+- "[[G2532]]"
+- "[[G1909]]"
+- "[[G2441]]"
+texts:
+- NKO
+- K
+---
+
 **Matthew 27:35**<big><big>[[Matt.27.32 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they crucified him, and parted his garments, casting lots: that it might be fulfilled which was spoken by the prophet, They parted my garments among them, and upon my vesture did they cast lots.
 <small><sub>**BSB:**</sub></small>
 When they had crucified Him, they divided up His garments by casting lots.
-<small><sub>**Literal:**</sub></small>
-having crucified now Him they divided the garments of Him casting lots, so that may be fulfilled which having been spoken by <the> prophet they divided the garments of mine themselves and upon the clothing of mine they cast lots<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.34|<< Matthew 27:34]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.36|Matthew 27:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4717\|σταυρώσαντες]]  [[G1161\|δὲ]]  [[G0846\|αὐτὸν]]  [[G1266\|διεμερίσαντο]]  [[G3588\|τὰ]]  [[G2440\|ἱμάτια]]  [[G0846\|αὐτοῦ]]  [[G0906G\|βάλλοντες]]  [[G2819\|κλῆρον,]]  [[G2443\|ἵνα]]  [[G4137\|πληρωθῇ]]  [[G3588\|τὸ]]  [[G2046\|ῥηθὲν]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G4396\|προφήτου]]  [[G1266\|διεμερίσαντο]]  [[G3588\|τὰ]]  [[G2440\|ἱμάτια]]  [[G3165\|μου]]  [[G1438\|ἑαυτοῖς]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G2441\|ἱματισμόν]]  [[G3165\|μου]]  [[G0906G\|ἔβαλον]]  [[G2819\|κλῆρον]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOT, THE|LOT, THE]] • [[topic PROPHECY|PROPHECY]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SOLDIERS|SOLDIERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.34|<< Matthew 27:34]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.36|Matthew 27:36 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 27:35** is...
 > $\quad$ referencing: [[LXX.Ps.22.18|Ps 22:18]]

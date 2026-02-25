@@ -45,7 +45,7 @@
 
 → Fool known by the multitude of [[Eccl.5.3|Ec 5:3]]
 
-→ Will swallow himself [[Eccl.10.12|Ec 10:12]]-[[Eccl.10.14|14]]
+→ Will swallow himself [[Eccl.10.12|Ec 10:12-14]]
 
 → Seditious, deceive the naive [[Rom.16.18|Ro 16:18]]
 

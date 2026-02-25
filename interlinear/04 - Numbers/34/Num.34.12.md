@@ -1,8 +1,65 @@
+---
+title: Numbers 34:12
+type: Verse
+kjv: "And the border shall go down to Jordan, and the goings out of it shall be at the salt sea: this shall be your land with the coasts thereof round about."
+bsb: "Then the border will go down along the Jordan and end at the Salt Sea. This will be your land, defined by its borders on all sides.”"
+hebrew: "וְיָרַ֤ד הַגְּבוּל֙ הַיַּרְדֵּ֔נָה וְהָי֥וּ תוֹצְאֹתָ֖יו יָ֣ם הַמֶּ֑לַח זֹאת֩ תִּהְיֶ֨ה לָכֶ֥ם הָאָ֛רֶץ לִגְבֻלֹתֶ֖יהָ סָבִֽיב׃"
+pericope: "[[Num.34.1 The Boundaries of Canaan|The Boundaries of Canaan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 34
+book/chapter: "[[Num.34|Numbers 34]]"
+chronological_order: 194
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic DEAD SEA|DEAD SEA]]"
+- "[[topic SALT|SALT]]"
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H9009]]"
+- "[[H1366G]]"
+- "[[H3383]]"
+- "[[H9011]]"
+- "[[H1961]]"
+- "[[H8444]]"
+- "[[H9023]]"
+- "[[H3220G]]"
+- "[[H4417G]]"
+- "[[H2063]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H0776G]]"
+- "[[H1367]]"
+- "[[H9024]]"
+- "[[H5439G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 34:12**<big><big>[[Num.34.1 The Boundaries of Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the border shall go down to Jordan, and the goings out of it shall be at the salt sea: this shall be your land with the coasts thereof round about.
 <small><sub>**BSB:**</sub></small>
 Then the border will go down along the Jordan and end at the Salt Sea. This will be your land, defined by its borders on all sides.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3381\|יָרַ֤ד]] [[H9009\|הַ]][[H1366G\|גְּבוּל֙]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֔נָ]][[H9011\|ה]] [[H9001\|וְ]][[H1961\|הָי֥וּ]] [[H8444\|תוֹצְאֹתָ֖י]][[H9023\|ו]] [[H3220G\|יָ֣ם]] [[H9009\|הַ]][[H4417G\|מֶּ֑לַח]] [[H2063\|זֹאת֩]] [[H1961\|תִּהְיֶ֨ה]] [[H9005\|לָ]][[H9036\|כֶ֥ם]] [[H9009\|הָ]][[H0776G\|אָ֛רֶץ]] [[H9005\|לִ]][[H1367\|גְבֻלֹתֶ֖י]][[H9024\|הָ]] [[H5439G\|סָבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic DEAD SEA|DEAD SEA]] • [[topic SALT|SALT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.34.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.11|<< Numbers 34:11]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.34.13|Numbers 34:13 >>]]</td></tr></table>
 

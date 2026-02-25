@@ -1,10 +1,68 @@
+---
+title: Colossians 3:13
+type: Verse
+kjv: "Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye."
+bsb: "Bear with one another and forgive any complaint you may have against someone else. Forgive as the Lord forgave you."
+greek: "ἀνεχόμενοι ἀλλήλων καὶ χαριζόμενοι ἑαυτοῖς ἐάν τις πρός τινα ἔχῃ μομφήν· καθὼς καὶ ὁ κύριος ἐχαρίσατο ὑμῖν, οὕτως καὶ ὑμεῖς·"
+pericope: "[[Col.3.1 Put On the New Self|Put On the New Self]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 3
+book/chapter: "[[Col.3|Colossians 3]]"
+chronological_order: 1123
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LONGSUFFERING|LONGSUFFERING]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic MERCY|MERCY]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G0430]]"
+- "[[G0240]]"
+- "[[G2532]]"
+- "[[G5483]]"
+- "[[G1438]]"
+- "[[G1437]]"
+- "[[G5100]]"
+- "[[G4314]]"
+- "[[G2192]]"
+- "[[G3437]]"
+- "[[G2531]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G4771]]"
+- "[[G3779]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Colossians 3:13**<big><big>[[Col.3.1 Put On the New Self|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also [do] ye.
 <small><sub>**BSB:**</sub></small>
 Bear with one another and forgive any complaint you may have against someone else. Forgive as the Lord forgave you.
-<small><sub>**Literal:**</sub></small>
-bearing with each other and forgiving each other If anyone against another shall have a complaint; even as also the Lord has forgiven you, so also you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.12|<< Colossians 3:12]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.14|Colossians 3:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0430\|ἀνεχόμενοι]]  [[G0240\|ἀλλήλων]]  [[G2532\|καὶ]]  [[G5483\|χαριζόμενοι]]  [[G1438\|ἑαυτοῖς]]  [[G1437\|ἐάν]]  [[G5100\|τις]]  [[G4314\|πρός]]  [[G5100\|τινα]]  [[G2192\|ἔχῃ]]  [[G3437\|μομφήν·]]  [[G2531\|καθὼς]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G5483\|ἐχαρίσατο]]  [[G4771\|ὑμῖν,]]  [[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic CHARITABLENESS|CHARITABLENESS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic EXAMPLE|EXAMPLE]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic HOLINESS|HOLINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LONGSUFFERING|LONGSUFFERING]] • [[topic MEEKNESS|MEEKNESS]] • [[topic MERCY|MERCY]] • [[topic PATIENCE|PATIENCE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.12|<< Colossians 3:12]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.14|Colossians 3:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

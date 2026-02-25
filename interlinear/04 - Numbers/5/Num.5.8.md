@@ -1,8 +1,67 @@
+---
+title: Numbers 5:8
+type: Verse
+kjv: "But if the man have no kinsman to recompense the trespass unto, let the trespass be recompensed unto the LORD, even to the priest; beside the ram of the atonement, whereby an atonement shall be made for him."
+bsb: "But if the man has no relative to whom restitution can be made for the wrong, the restitution belongs to the LORD and must be given to the priest along with the ram of atonement, by which the atonement is made for him."
+hebrew: "וְאִם־ אֵ֨ין לָאִ֜ישׁ גֹּאֵ֗ל לְהָשִׁ֤יב הָאָשָׁם֙ אֵלָ֔יו הָאָשָׁ֛ם הַמּוּשָׁ֥ב לַיהוָ֖ה לַכֹּהֵ֑ן מִלְּבַ֗ד אֵ֚יל הַכִּפֻּרִ֔ים אֲשֶׁ֥ר יְכַפֶּר־ בּ֖וֹ עָלָֽיו׃"
+pericope: "[[Num.5.5 Confession and Restitution|Confession and Restitution]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 5
+book/chapter: "[[Num.5|Numbers 5]]"
+chronological_order: 164
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H0369]]"
+- "[[H9005]]"
+- "[[H0376G]]"
+- "[[H1350I]]"
+- "[[H7725H]]"
+- "[[H9009]]"
+- "[[H0817]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H3548]]"
+- "[[H9006]]"
+- "[[H0905J]]"
+- "[[H0352A]]"
+- "[[H3725]]"
+- "[[H0834A]]"
+- "[[H3722A]]"
+- "[[H9003]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 5:8**<big><big>[[Num.5.5 Confession and Restitution|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if the man have no kinsman to recompense the trespass unto, let the trespass be recompensed unto the LORD, [even] to the priest; beside the ram of the atonement, whereby an atonement shall be made for him.
 <small><sub>**BSB:**</sub></small>
 But if the man has no relative to whom restitution can be made for the wrong, the restitution belongs to the LORD and must be given to the priest along with the ram of atonement, by which the atonement is made for him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H0369\|אֵ֨ין]] [[H9005\|לָ]][[H0376G\|אִ֜ישׁ]] [[H1350I\|גֹּאֵ֗ל]] [[H9005\|לְ]][[H7725H\|הָשִׁ֤יב]] [[H9009\|הָ]][[H0817\|אָשָׁם֙]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H9009\|הָ]][[H0817\|אָשָׁ֛ם]] [[H9009\|הַ]][[H7725H\|מּוּשָׁ֥ב]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H9005\|לַ]][[H3548\|כֹּהֵ֑ן]] [[H9006\|מִ]][[H9005\|לְּ]][[H0905J\|בַ֗ד]] [[H0352A\|אֵ֚יל]] [[H9009\|הַ]][[H3725\|כִּפֻּרִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H3722A\|יְכַפֶּר]][[H9014\|־]] [[H9003\|בּ֖]][[H9033\|וֹ]] [[H5921A\|עָלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.7|<< Numbers 5:7]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.9|Numbers 5:9 >>]]</td></tr></table>
 

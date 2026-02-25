@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Ruler from Bethlehem
+type: Pericope
 pericope: "[[Mic.5.1 A Ruler from Bethlehem|A Ruler from Bethlehem]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Micah
 chapter: 5
 book/chapter: "[[Mic.5|Micah 5]]"
-genre:
+chronological_order: 627
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 6
 verses:
 - "[[Mic.5.1]]"
 - "[[Mic.5.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Mic.5.6]]"
 ---
 
-[[Mic.5|Micah 5:1 - Micah 5:6]]
+<small>[[Mic.5|Micah 5:1-6]]</small>
 *A Ruler from Bethlehem*
 
 [[Mic.5.1|1]] Now gather thyself in troops, O daughter of troops: he hath laid siege against us: they shall smite the judge of Israel with a rod upon the cheek.

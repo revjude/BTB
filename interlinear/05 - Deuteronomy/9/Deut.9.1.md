@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 9:1
+type: Verse
+kjv: "Hear, O Israel: Thou art to pass over Jordan this day, to go in to possess nations greater and mightier than thyself, cities great and fenced up to heaven,"
+bsb: "Hear, O Israel: Today you are about to cross the Jordan to go in and dispossess nations greater and stronger than you, with large cities fortified to the heavens."
+hebrew: "שְׁמַ֣ע יִשְׂרָאֵ֗ל אַתָּ֨ה עֹבֵ֤ר הַיּוֹם֙ אֶת־ הַיַּרְדֵּ֔ן לָבֹא֙ לָרֶ֣שֶׁת גּוֹיִ֔ם גְּדֹלִ֥ים וַעֲצֻמִ֖ים מִמֶּ֑ךָּ עָרִ֛ים גְּדֹלֹ֥ת וּבְצֻרֹ֖ת בַּשָּׁמָֽיִם׃"
+pericope: "[[Deut.9.1 Assurance of Victory|Assurance of Victory]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 9
+book/chapter: "[[Deut.9|Deuteronomy 9]]"
+chronological_order: 205
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CITIES|CITIES]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H8085G]]"
+- "[[H3478]]"
+- "[[H0859A]]"
+- "[[H5674A]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3383]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H3423H]]"
+- "[[H1471A]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H6099]]"
+- "[[H4480A]]"
+- "[[H9031]]"
+- "[[H5892B]]"
+- "[[H1219]]"
+- "[[H9003]]"
+- "[[H8064]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 9:1**<big><big>[[Deut.9.1 Assurance of Victory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear, O Israel: Thou [art] to pass over Jordan this day, to go in to possess nations greater and mightier than thyself, cities great and fenced up to heaven,
 <small><sub>**BSB:**</sub></small>
 Hear, O Israel: Today you are about to cross the Jordan to go in and dispossess nations greater and stronger than you, with large cities fortified to the heavens.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שְׁמַ֣ע]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H0859A\|אַתָּ֨ה]] [[H5674A\|עֹבֵ֤ר]] [[H9009\|הַ]][[H3117G\|יּוֹם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֔ן]] [[H9005\|לָ]][[H0935G\|בֹא֙]] [[H9005\|לָ]][[H3423H\|רֶ֣שֶׁת]] [[H1471A\|גּוֹיִ֔ם]] [[H1419A\|גְּדֹלִ֥ים]] [[H9002\|וַ]][[H6099\|עֲצֻמִ֖ים]] [[H4480A\|מִמֶּ֑]][[H9031\|ךָּ]] [[H5892B\|עָרִ֛ים]] [[H1419A\|גְּדֹלֹ֥ת]] [[H9002\|וּ]][[H1219\|בְצֻרֹ֖ת]] [[H9003\|בַּ]][[H8064\|שָּׁמָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIES|CITIES]] • [[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.20|<< Deuteronomy 8:20]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.2|Deuteronomy 9:2 >>]]</td></tr></table>
 

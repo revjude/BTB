@@ -1,8 +1,54 @@
+---
+title: Job 11:17
+type: Verse
+kjv: "And thine age shall be clearer than the noonday; thou shalt shine forth, thou shalt be as the morning."
+bsb: "Your life will be brighter than noonday; its darkness will be like the morning."
+hebrew: "וּֽ֭מִצָּהֳרַיִם יָק֣וּם חָ֑לֶד תָּ֝עֻ֗פָה כַּבֹּ֥קֶר תִּהְיֶֽה׃"
+pericope: "[[Job.11.1 Zophar Rebukes Job|Zophar Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 11
+book/chapter: "[[Job.11|Job 11]]"
+chronological_order: 22
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OLD AGE|OLD AGE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H6672A]]"
+- "[[H6965I]]"
+- "[[H2465]]"
+- "[[H5774B]]"
+- "[[H9004]]"
+- "[[H1242]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 11:17**<big><big>[[Job.11.1 Zophar Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [thine] age shall be clearer than the noonday; thou shalt shine forth, thou shalt be as the morning.
 <small><sub>**BSB:**</sub></small>
 Your life will be brighter than noonday; its darkness will be like the morning.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּֽ֭]][[H9006\|מִ]][[H6672A\|צָּהֳרַיִם]] [[H6965I\|יָק֣וּם]] [[H2465\|חָ֑לֶד]] [[H5774B\|תָּ֝עֻ֗פָה]] [[H9004\|כַּ]][[H1242\|בֹּ֥קֶר]] [[H1961\|תִּהְיֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic OLD AGE|OLD AGE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.16|<< Job 11:16]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.18|Job 11:18 >>]]</td></tr></table>
 

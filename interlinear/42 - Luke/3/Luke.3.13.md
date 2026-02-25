@@ -1,10 +1,55 @@
+---
+title: Luke 3:13
+type: Verse
+kjv: "And he said unto them, Exact no more than that which is appointed you."
+bsb: "“Collect no more than you are authorized,” he answered."
+greek: "ὁ δὲ εἶπεν πρὸς αὐτούς· μηδὲν πλέον παρὰ τὸ διατεταγμένον ὑμῖν πράσσετε."
+pericope: "[[Luke.3.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 3
+book/chapter: "[[Luke.3|Luke 3]]"
+chronological_order: 937
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic HONESTY|HONESTY]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic TAX|TAX]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3367]]"
+- "[[G4119]]"
+- "[[G3844]]"
+- "[[G1299]]"
+- "[[G4771]]"
+- "[[G4238]]"
+texts:
+- NKO
+---
+
 **Luke 3:13**<big><big>[[Luke.3.1 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Exact no more than that which is appointed you.
 <small><sub>**BSB:**</sub></small>
 “Collect no more than you are authorized,” he answered.
-<small><sub>**Literal:**</sub></small>
-<the> And he said to them; Nothing more beyond that appointed to you do collect.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.12|<< Luke 3:12]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.14|Luke 3:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς·]]  [[G3367\|μηδὲν]]  [[G4119\|πλέον]]  [[G3844\|παρὰ]]  [[G3588\|τὸ]]  [[G1299\|διατεταγμένον]]  [[G4771\|ὑμῖν]]  [[G4238\|πράσσετε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HONESTY|HONESTY]] • [[topic INTEGRITY|INTEGRITY]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic TAX|TAX]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.12|<< Luke 3:12]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.14|Luke 3:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

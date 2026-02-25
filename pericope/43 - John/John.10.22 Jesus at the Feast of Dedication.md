@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus at the Feast of Dedication
+type: Pericope
 pericope: "[[John.10.22 Jesus at the Feast of Dedication|Jesus at the Feast of Dedication]]"
-verse_count: 18
+original_language: Greek
 testament: New
 book: John
 chapter: 10
 book/chapter: "[[John.10|John 10]]"
-genre:
+chronological_order: 984
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 18
 verses:
 - "[[John.10.22]]"
 - "[[John.10.23]]"
@@ -36,7 +43,7 @@ verses:
 - "[[John.10.39]]"
 ---
 
-[[John.10|John 10:22 - John 10:39]]
+<small>[[John.10|John 10:22-39]]</small>
 *Jesus at the Feast of Dedication*
 
 [[John.10.22|22]] And it was at Jerusalem the feast of the dedication, and it was winter.

@@ -1,10 +1,48 @@
+---
+title: John 15:17
+type: Verse
+kjv: "These things I command you, that ye love one another."
+bsb: "This is My command to you: Love one another."
+jesus_said: "These things I command you, that ye love one another."
+greek: "Ταῦτα ἐντέλλομαι ὑμῖν ἵνα ἀγαπᾶτε ἀλλήλους."
+pericope: "[[John.15.9 No Greater Love|No Greater Love]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 15
+book/chapter: "[[John.15|John 15]]"
+chronological_order: 1003
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G3778]]"
+- "[[G1781]]"
+- "[[G4771]]"
+- "[[G2443]]"
+- "[[G0025]]"
+- "[[G0240]]"
+texts:
+- NKO
+---
+
 **John 15:17**<big><big>[[John.15.9 No Greater Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 These things I command you, that ye love one another.
 <small><sub>**BSB:**</sub></small>
 This is My command to you: Love one another.
-<small><sub>**Literal:**</sub></small>
-These things I command you that you may love one another.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.16|<< John 15:16]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.18|John 15:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Ταῦτα]]  [[G1781\|ἐντέλλομαι]]  [[G4771\|ὑμῖν]]  [[G2443\|ἵνα]]  [[G0025\|ἀγαπᾶτε]]  [[G0240\|ἀλλήλους.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.16|<< John 15:16]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.18|John 15:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

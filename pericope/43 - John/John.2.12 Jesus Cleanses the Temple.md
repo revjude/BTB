@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Cleanses the Temple
+type: Pericope
 pericope: "[[John.2.12 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
-verse_count: 14
+original_language: Greek
 testament: New
 book: John
 chapter: 2
 book/chapter: "[[John.2|John 2]]"
-genre:
+chronological_order: 940
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 14
 verses:
 - "[[John.2.12]]"
 - "[[John.2.13]]"
@@ -32,7 +39,7 @@ verses:
 - "[[John.2.25]]"
 ---
 
-[[John.2|John 2:12 - John 2:25]]
+<small>[[John.2|John 2:12-25]]</small>
 *Jesus Cleanses the Temple*
 
 [[John.2.12|12]] After this he went down to Capernaum, he, and his mother, and his brethren, and his disciples: and they continued there not many days.

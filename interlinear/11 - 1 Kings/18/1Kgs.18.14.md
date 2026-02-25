@@ -1,8 +1,59 @@
+---
+title: 1 Kings 18:14
+type: Verse
+kjv: "And now thou sayest, Go, tell thy lord, Behold, Elijah is here: and he shall slay me."
+bsb: "And now you say, ‘Go tell your lord that Elijah is here!’ He will kill me!”"
+hebrew: "וְעַתָּה֙ אַתָּ֣ה אֹמֵ֔ר לֵ֛ךְ אֱמֹ֥ר לַֽאדֹנֶ֖יךָ הִנֵּ֣ה אֵלִיָּ֑הוּ וַהֲרָגָֽנִי׃ ס"
+pericope: "[[1Kgs.18.1 Elijah’s Message to Ahab|Elijah’s Message to Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 18
+book/chapter: "[[1Kgs.18|1 Kings 18]]"
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic OBADIAH|OBADIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H0859A]]"
+- "[[H0559]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H0113]]"
+- "[[H9021]]"
+- "[[H2009]]"
+- "[[H0452G]]"
+- "[[H9001]]"
+- "[[H2026]]"
+- "[[H9030]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Kings 18:14**<big><big>[[1Kgs.18.1 Elijah’s Message to Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now thou sayest, Go, tell thy lord, Behold, Elijah [is here]: and he shall slay me.
 <small><sub>**BSB:**</sub></small>
 And now you say, ‘Go tell your lord that Elijah is here!’ He will kill me!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּה֙]] [[H0859A\|אַתָּ֣ה]] [[H0559\|אֹמֵ֔ר]] [[H1980G\|לֵ֛ךְ]] [[H0559\|אֱמֹ֥ר]] [[H9005\|לַֽ]][[H0113\|אדֹנֶ֖י]][[H9021\|ךָ]] [[H2009\|הִנֵּ֣ה]] [[H0452G\|אֵלִיָּ֑הוּ]] [[H9001\|וַ]][[H2026\|הֲרָגָֽ]][[H9030\|נִי]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOUBTING|DOUBTING]] • [[topic ELIJAH|ELIJAH]] • [[topic OBADIAH|OBADIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.13|<< 1 Kings 18:13]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.15|1 Kings 18:15 >>]]</td></tr></table>
 
@@ -16,7 +67,7 @@ And now you say, ‘Go tell your lord that Elijah is here!’ He will kill me!�
 | to master\<s> your  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H0113\|אדֹנֶ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> do.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Elijah  |**<big>&#8207;[[H0452G\|אֵלִיָּ֑הוּ]]&#8207; </big>**| 'e.li.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he will kill me  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2026\|הֲרָגָֽ]]&#8207;&#8207;[[H9030\|נִי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.ra.Ga.<small><sup>[[HVqq3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will kill me  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2026\|הֲרָגָֽ]]&#8207;&#8207;[[H9030\|נִי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.ra.Ga.<small><sup>[[HVqq3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.13|<< 1 Kings 18:13]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.15|1 Kings 18:15 >>]]</td></tr></table>
 
 

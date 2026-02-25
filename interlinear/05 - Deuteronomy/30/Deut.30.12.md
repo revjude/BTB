@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 30:12
+type: Verse
+kjv: "It is not in heaven, that thou shouldest say, Who shall go up for us to heaven, and bring it unto us, that we may hear it, and do it?"
+bsb: "It is not in heaven, that you should need to ask, ‘Who will ascend into heaven to get it for us and proclaim it, that we may obey it?’"
+hebrew: "לֹ֥א בַשָּׁמַ֖יִם הִ֑וא לֵאמֹ֗ר מִ֣י יַעֲלֶה־ לָּ֤נוּ הַשָּׁמַ֙יְמָה֙ וְיִקָּחֶ֣הָ לָּ֔נוּ וְיַשְׁמִעֵ֥נוּ אֹתָ֖הּ וְנַעֲשֶֽׂנָּה׃"
+pericope: "[[Deut.30.11 The Choice of Life or Death|The Choice of Life or Death]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 30
+book/chapter: "[[Deut.30|Deuteronomy 30]]"
+chronological_order: 226
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic EXCUSES|EXCUSES]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H8064]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H4310]]"
+- "[[H5927G]]"
+- "[[H9014]]"
+- "[[H9035]]"
+- "[[H9009]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H3947J]]"
+- "[[H9034]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 30:12**<big><big>[[Deut.30.11 The Choice of Life or Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It [is] not in heaven, that thou shouldest say, Who shall go up for us to heaven, and bring it unto us, that we may hear it, and do it?
 <small><sub>**BSB:**</sub></small>
 It is not in heaven, that you should need to ask, ‘Who will ascend into heaven to get it for us and proclaim it, that we may obey it?’
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֥א]] [[H9003\|בַ]][[H8064\|שָּׁמַ֖יִם]] [[H1931\|הִ֑וא]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H4310\|מִ֣י]] [[H5927G\|יַעֲלֶה]][[H9014\|־]] [[H9005\|לָּ֤]][[H9035\|נוּ]] [[H9009\|הַ]][[H8064\|שָּׁמַ֙יְמָ]][[H9011\|ה֙]] [[H9002\|וְ]][[H3947J\|יִקָּחֶ֣]][[H9034\|הָ]] [[H9005\|לָּ֔]][[H9035\|נוּ]] [[H9002\|וְ]][[H8085G\|יַשְׁמִעֵ֥]][[H9035\|נוּ]] [[H0853\|אֹתָ֖]][[H9034\|הּ]] [[H9002\|וְ]][[H6213A\|נַעֲשֶֽׂ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EXCUSES|EXCUSES]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.11|<< Deuteronomy 30:11]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.13|Deuteronomy 30:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

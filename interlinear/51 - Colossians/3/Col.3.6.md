@@ -1,10 +1,51 @@
+---
+title: Colossians 3:6
+type: Verse
+kjv: "For which things’ sake the wrath of God cometh on the children of disobedience:"
+bsb: "Because of these, the wrath of God is coming on the sons of disobedience."
+greek: "δι᾽ ἃ ἔρχεται ἡ ὀργὴ τοῦ θεοῦ ἐπὶ τοὺς υἱοὺς τῆς ἀπειθείας·"
+pericope: "[[Col.3.1 Put On the New Self|Put On the New Self]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 3
+book/chapter: "[[Col.3|Colossians 3]]"
+chronological_order: 1123
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic HOLINESS|HOLINESS]]"
+strongs:
+- "[[G1223]]"
+- "[[G3739]]"
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G3709]]"
+- "[[G2316]]"
+- "[[G1909]]"
+- "[[G5207]]"
+- "[[G0543]]"
+texts:
+- NKO
+---
+
 **Colossians 3:6**<big><big>[[Col.3.1 Put On the New Self|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For which things’ sake the wrath of God cometh on the children of disobedience:
 <small><sub>**BSB:**</sub></small>
 Because of these, the wrath of God is coming on the sons of disobedience.
-<small><sub>**Literal:**</sub></small>
-because of which things is coming the wrath <the> of God on the sons <the> of disobedience;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.5|<< Colossians 3:5]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.7|Colossians 3:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|δι᾽]]  [[G3739\|ἃ]]  [[G2064\|ἔρχεται]]  [[G3588\|ἡ]]  [[G3709\|ὀργὴ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1909\|ἐπὶ]]  [[G3588\|τοὺς]]  [[G5207\|υἱοὺς]]  [[G3588\|τῆς]]  [[G0543\|ἀπειθείας·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic HOLINESS|HOLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.5|<< Colossians 3:5]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.7|Colossians 3:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

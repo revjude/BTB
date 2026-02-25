@@ -1,10 +1,52 @@
+---
+title: 1 Thessalonians 5:1
+type: Verse
+kjv: "But of the times and the seasons, brethren, ye have no need that I write unto you."
+bsb: "Now about the times and seasons, brothers, we do not need to write to you."
+greek: "Περὶ δὲ τῶν χρόνων καὶ τῶν καιρῶν, ἀδελφοί, οὐ χρείαν ἔχετε ὑμῖν γράφεσθαι·"
+pericope: "[[1Thess.5.1 The Day of the Lord|The Day of the Lord]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 5
+book/chapter: "[[1Thess.5|1 Thessalonians 5]]"
+chronological_order: 1052
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic SEASONS|SEASONS]]"
+strongs:
+- "[[G4012]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G5550]]"
+- "[[G2532]]"
+- "[[G2540]]"
+- "[[G0080]]"
+- "[[G3756]]"
+- "[[G5532]]"
+- "[[G2192]]"
+- "[[G4771]]"
+- "[[G1125]]"
+texts:
+- NKO
+---
+
 **1 Thessalonians 5:1**<big><big>[[1Thess.5.1 The Day of the Lord|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But of the times and the seasons, brethren, ye have no need that I write unto you.
 <small><sub>**BSB:**</sub></small>
 Now about the times and seasons, brothers, we do not need to write to you.
-<small><sub>**Literal:**</sub></small>
-Concerning now the times and the seasons, brothers, no need you have to you to be written;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.18|<< 1 Thessalonians 4:18]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.2|1 Thessalonians 5:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4012\|Περὶ]]  [[G1161\|δὲ]]  [[G3588\|τῶν]]  [[G5550\|χρόνων]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G2540\|καιρῶν,]]  [[G0080\|ἀδελφοί,]]  [[G3756\|οὐ]]  [[G5532\|χρείαν]]  [[G2192\|ἔχετε]]  [[G4771\|ὑμῖν]]  [[G1125\|γράφεσθαι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SEASONS|SEASONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.18|<< 1 Thessalonians 4:18]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.2|1 Thessalonians 5:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

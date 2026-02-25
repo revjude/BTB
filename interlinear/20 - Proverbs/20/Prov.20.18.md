@@ -1,8 +1,52 @@
+---
+title: Proverbs 20:18
+type: Verse
+kjv: "Every purpose is established by counsel: and with good advice make war."
+bsb: "Set plans by consultation, and wage war under sound guidance."
+hebrew: "מַ֭חֲשָׁבוֹת בְּעֵצָ֣ה תִכּ֑וֹן וּ֝בְתַחְבֻּל֗וֹת עֲשֵׂ֣ה מִלְחָמָֽה׃"
+pericope: "[[Prov.20.1 Wine Is a Mocker|Wine Is a Mocker]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 20
+book/chapter: "[[Prov.20|Proverbs 20]]"
+chronological_order: 475
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic COUNSEL|COUNSEL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H4284]]"
+- "[[H9003]]"
+- "[[H6098]]"
+- "[[H3559H]]"
+- "[[H9002]]"
+- "[[H8458]]"
+- "[[H6213H]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 20:18**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Every] purpose is established by counsel: and with good advice make war.
 <small><sub>**BSB:**</sub></small>
 Set plans by consultation, and wage war under sound guidance.
+<small><sub>**Hebrew:**</sub></small>
+[[H4284\|מַ֭חֲשָׁבוֹת]] [[H9003\|בְּ]][[H6098\|עֵצָ֣ה]] [[H3559H\|תִכּ֑וֹן]] [[H9002\|וּ֝]][[H9003\|בְ]][[H8458\|תַחְבֻּל֗וֹת]] [[H6213H\|עֲשֵׂ֣ה]] [[H4421\|מִלְחָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNSEL|COUNSEL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic WAR|WAR]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.17|<< Proverbs 20:17]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.19|Proverbs 20:19 >>]]</td></tr></table>
 

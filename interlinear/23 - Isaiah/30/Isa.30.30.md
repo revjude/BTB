@@ -1,8 +1,65 @@
+---
+title: Isaiah 30:30
+type: Verse
+kjv: "And the LORD shall cause his glorious voice to be heard, and shall shew the lighting down of his arm, with the indignation of his anger, and with the flame of a devouring fire, with scattering, and tempest, and hailstones."
+bsb: "And the LORD will cause His majestic voice to be heard and His mighty arm to be revealed, striking in angry wrath with a flame of consuming fire, and with cloudburst, storm, and hailstones."
+hebrew: "וְהִשְׁמִ֨יעַ יְהוָ֜ה אֶת־ ה֣וֹד קוֹל֗וֹ וְנַ֤חַת זְרוֹעוֹ֙ יַרְאֶ֔ה בְּזַ֣עַף אַ֔ף וְלַ֖הַב אֵ֣שׁ אוֹכֵלָ֑ה נֶ֥פֶץ וָזֶ֖רֶם וְאֶ֥בֶן בָּרָֽד׃"
+pericope: "[[Isa.30.18 God Will Be Gracious|God Will Be Gracious]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 30
+book/chapter: "[[Isa.30|Isaiah 30]]"
+chronological_order: 673
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1935]]"
+- "[[H6963A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H5183B]]"
+- "[[H2220]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H2197]]"
+- "[[H0639G]]"
+- "[[H3851]]"
+- "[[H0784]]"
+- "[[H0398]]"
+- "[[H5311]]"
+- "[[H2230]]"
+- "[[H0068G]]"
+- "[[H1259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 30:30**<big><big>[[Isa.30.18 God Will Be Gracious|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall cause his glorious voice to be heard, and shall shew the lighting down of his arm, with the indignation of [his] anger, and [with] the flame of a devouring fire, [with] scattering, and tempest, and hailstones.
 <small><sub>**BSB:**</sub></small>
 And the LORD will cause His majestic voice to be heard and His mighty arm to be revealed, striking in angry wrath with a flame of consuming fire, and with cloudburst, storm, and hailstones.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8085G\|הִשְׁמִ֨יעַ]] [[H3068G\|יְהוָ֜ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1935\|ה֣וֹד]] [[H6963A\|קוֹל֗]][[H9023\|וֹ]] [[H9002\|וְ]][[H5183B\|נַ֤חַת]] [[H2220\|זְרוֹע]][[H9023\|וֹ֙]] [[H7200G\|יַרְאֶ֔ה]] [[H9003\|בְּ]][[H2197\|זַ֣עַף]] [[H0639G\|אַ֔ף]] [[H9002\|וְ]][[H3851\|לַ֖הַב]] [[H0784\|אֵ֣שׁ]] [[H0398\|אוֹכֵלָ֑ה]] [[H5311\|נֶ֥פֶץ]] [[H9002\|וָ]][[H2230\|זֶ֖רֶם]] [[H9002\|וְ]][[H0068G\|אֶ֥בֶן]] [[H1259\|בָּרָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.29|<< Isaiah 30:29]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.31|Isaiah 30:31 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: 1 Chronicles 13:14
+type: Verse
+kjv: "And the ark of God remained with the family of Obededom in his house three months. And the LORD blessed the house of Obededom, and all that he had."
+bsb: "Thus the ark of God remained with the family of Obed-edom in his house for three months, and the LORD blessed his household and everything he owned."
+hebrew: "וַיֵּשֶׁב֩ אֲר֨וֹן הָאֱלֹהִ֜ים עִם־ בֵּ֨ית עֹבֵ֥ד אֱדֹ֛ם בְּבֵית֖וֹ שְׁלֹשָׁ֣ה חֳדָשִׁ֑ים וַיְבָ֧רֶךְ יְהוָ֛ה אֶת־ בֵּ֥ית עֹבֵֽד־ אֱדֹ֖ם וְאֶת־ כָּל־ אֲשֶׁר־ לֽוֹ׃ פ"
+pericope: "[[1Chr.13.8 Uzzah Touches the Ark|Uzzah Touches the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 13
+book/chapter: "[[1Chr.13|1 Chronicles 13]]"
+chronological_order: 394
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic OBED-EDOM|OBED-EDOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H0727]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H5654]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H7969]]"
+- "[[H2320G]]"
+- "[[H1288]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Chronicles 13:14**<big><big>[[1Chr.13.8 Uzzah Touches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the ark of God remained with the family of Obededom in his house three months. And the LORD blessed the house of Obededom, and all that he had.
 <small><sub>**BSB:**</sub></small>
 Thus the ark of God remained with the family of Obed-edom in his house for three months, and the LORD blessed his household and everything he owned.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3427\|יֵּשֶׁב֩]] [[H0727\|אֲר֨וֹן]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֜ים]] [[H5973A\|עִם]][[H9014\|־]] [[H1004M\|בֵּ֨ית]] [[H5654\|עֹבֵ֥ד]] [[H5654\|אֱדֹ֛ם]] [[H9003\|בְּ]][[H1004B\|בֵית֖]][[H9023\|וֹ]] [[H7969\|שְׁלֹשָׁ֣ה]] [[H2320G\|חֳדָשִׁ֑ים]] [[H9001\|וַ]][[H1288\|יְבָ֧רֶךְ]] [[H3068G\|יְהוָ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1004M\|בֵּ֥ית]] [[H5654\|עֹבֵֽד]][[H9014\|־]] [[H5654\|אֱדֹ֖ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OBED-EDOM|OBED-EDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.13.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.13.13|<< 1 Chronicles 13:13]]</td><td align="center" style="border:none;">[[1Chr.13|1 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.14.1|1 Chronicles 14:1 >>]]</td></tr></table>
 
@@ -27,7 +83,7 @@ Thus the ark of God remained with the family of Obed-edom in his house for three
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [belonged] to him  |**<big>&#8207;[[H9005\|לֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belonged] to him  |**<big>&#8207;[[H9005\|לֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.13.13|<< 1 Chronicles 13:13]]</td><td align="center" style="border:none;">[[1Chr.13|1 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.14.1|1 Chronicles 14:1 >>]]</td></tr></table>
 
 

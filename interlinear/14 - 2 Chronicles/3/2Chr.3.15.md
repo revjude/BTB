@@ -1,8 +1,61 @@
+---
+title: 2 Chronicles 3:15
+type: Verse
+kjv: "Also he made before the house two pillars of thirty and five cubits high, and the chapiter that was on the top of each of them was five cubits."
+bsb: "In front of the temple he made two pillars, which together were thirty-five cubits high, each with a capital on top measuring five cubits."
+hebrew: "וַיַּ֜עַשׂ לִפְנֵ֤י הַבַּ֙יִת֙ עַמּוּדִ֣ים שְׁנַ֔יִם אַמּ֕וֹת שְׁלֹשִׁ֥ים וְחָמֵ֖שׁ אֹ֑רֶךְ וְהַצֶּ֥פֶת אֲשֶׁר־ עַל־ רֹאשׁ֖וֹ אַמּ֥וֹת חָמֵֽשׁ׃ ס"
+pericope: "[[2Chr.3.14 The Veil and Pillars|The Veil and Pillars]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 3
+book/chapter: "[[2Chr.3|2 Chronicles 3]]"
+chronological_order: 492
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H5982G]]"
+- "[[H8147]]"
+- "[[H0520A]]"
+- "[[H7970]]"
+- "[[H9002]]"
+- "[[H2568]]"
+- "[[H0753]]"
+- "[[H6858]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5921A]]"
+- "[[H7218I]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Chronicles 3:15**<big><big>[[2Chr.3.14 The Veil and Pillars|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also he made before the house two pillars of thirty and five cubits high, and the chapiter that [was] on the top of each of them [was] five cubits.
 <small><sub>**BSB:**</sub></small>
 In front of the temple he made two pillars, which together were thirty-five cubits high, each with a capital on top measuring five cubits.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֜עַשׂ]] [[H9005\|לִ]][[H6440G\|פְנֵ֤י]] [[H9009\|הַ]][[H1004B\|בַּ֙יִת֙]] [[H5982G\|עַמּוּדִ֣ים]] [[H8147\|שְׁנַ֔יִם]] [[H0520A\|אַמּ֕וֹת]] [[H7970\|שְׁלֹשִׁ֥ים]] [[H9002\|וְ]][[H2568\|חָמֵ֖שׁ]] [[H0753\|אֹ֑רֶךְ]] [[H9002\|וְ]][[H9009\|הַ]][[H6858\|צֶּ֥פֶת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5921A\|עַל]][[H9014\|־]] [[H7218I\|רֹאשׁ֖]][[H9023\|וֹ]] [[H0520A\|אַמּ֥וֹת]] [[H2568\|חָמֵֽשׁ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.14|<< 2 Chronicles 3:14]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.16|2 Chronicles 3:16 >>]]</td></tr></table>
 
@@ -22,7 +75,7 @@ In front of the temple he made two pillars, which together were thirty-five cubi
 | [was] on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | top its  |**<big>&#8207;[[H7218I\|רֹאשׁ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ro.Sh<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] cubits  |**<big>&#8207;[[H0520A\|אַמּ֥וֹת]]&#8207; </big>**| 'a.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| five  |**<big>&#8207;[[H2568\|חָמֵֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| cha.Mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| five  |**<big>&#8207;[[H2568\|חָמֵֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| cha.Mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.14|<< 2 Chronicles 3:14]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.16|2 Chronicles 3:16 >>]]</td></tr></table>
 
 

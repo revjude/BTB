@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Day of Atonement
+type: Pericope
 pericope: "[[Num.29.7 The Day of Atonement|The Day of Atonement]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 29
 book/chapter: "[[Num.29|Numbers 29]]"
-genre:
+chronological_order: 189
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 5
 verses:
 - "[[Num.29.7]]"
 - "[[Num.29.8]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Num.29.11]]"
 ---
 
-[[Num.29|Numbers 29:7 - Numbers 29:11]]
+<small>[[Num.29|Numbers 29:7-11]]</small>
 *The Day of Atonement*
 
 [[Num.29.7|7]] And ye shall have on the tenth \[day\] of this seventh month an holy convocation; and ye shall afflict your souls: ye shall not do any work \[therein\]:

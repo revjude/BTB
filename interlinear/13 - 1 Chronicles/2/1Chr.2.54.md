@@ -1,8 +1,53 @@
+---
+title: 1 Chronicles 2:54
+type: Verse
+kjv: "The sons of Salma; Bethlehem, and the Netophathites, Ataroth, the house of Joab, and half of the Manahethites, the Zorites."
+bsb: "The descendants of Salma: Bethlehem, the Netophathites, Atroth-beth-joab, half the Manahathites, the Zorites,"
+hebrew: "בְּנֵ֣י שַׂלְמָ֗א בֵּ֥ית לֶ֙חֶם֙ וּנְט֣וֹפָתִ֔י עַטְר֖וֹת בֵּ֣ית יוֹאָ֑ב וַחֲצִ֥י הַמָּנַחְתִּ֖י הַצָּרְעִֽי׃"
+pericope: "[[1Chr.2.1 The Sons of Israel|The Sons of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 2
+book/chapter: "[[1Chr.2|1 Chronicles 2]]"
+chronological_order: 321
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ATAROTH|ATAROTH]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic SALMA|SALMA]]"
+strongs:
+- "[[H1121G]]"
+- "[[H8007H]]"
+- "[[H1035G]]"
+- "[[H9002]]"
+- "[[H5200]]"
+- "[[H5854]]"
+- "[[H2677]]"
+- "[[H9009]]"
+- "[[H4506G]]"
+- "[[H6882]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 2:54**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Salma; Bethlehem, and the Netophathites, Ataroth, the house of Joab, and half of the Manahethites, the Zorites.
 <small><sub>**BSB:**</sub></small>
 The descendants of Salma: Bethlehem, the Netophathites, Atroth-beth-joab, half the Manahathites, the Zorites,
+<small><sub>**Hebrew:**</sub></small>
+[[H1121G\|בְּנֵ֣י]] [[H8007H\|שַׂלְמָ֗א]] [[H1035G\|בֵּ֥ית]] [[H1035G\|לֶ֙חֶם֙]] [[H9002\|וּ]][[H5200\|נְט֣וֹפָתִ֔י]] [[H5854\|עַטְר֖וֹת]] [[H5854\|בֵּ֣ית]] [[H5854\|יוֹאָ֑ב]] [[H9002\|וַ]][[H2677\|חֲצִ֥י]] [[H9009\|הַ]][[H4506G\|מָּנַחְתִּ֖י]] [[H9009\|הַ]][[H6882\|צָּרְעִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATAROTH|ATAROTH]] • [[topic JOAB|JOAB]] • [[topic SALMA|SALMA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.53|<< 1 Chronicles 2:53]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.55|1 Chronicles 2:55 >>]]</td></tr></table>
 

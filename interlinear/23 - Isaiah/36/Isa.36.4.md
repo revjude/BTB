@@ -1,8 +1,56 @@
+---
+title: Isaiah 36:4
+type: Verse
+kjv: "And Rabshakeh said unto them, Say ye now to Hezekiah, Thus saith the great king, the king of Assyria, What confidence is this wherein thou trustest?"
+bsb: "The Rabshakeh said to them, “Tell Hezekiah that this is what the great king, the king of Assyria, says: What is the basis of this confidence of yours?"
+hebrew: "וַיֹּ֤אמֶר אֲלֵיהֶם֙ רַב־ שָׁקֵ֔ה אִמְרוּ־ נָ֖א אֶל־ חִזְקִיָּ֑הוּ כֹּֽה־ אָמַ֞ר הַמֶּ֤לֶךְ הַגָּדוֹל֙ מֶ֣לֶךְ אַשּׁ֔וּר מָ֧ה הַבִּטָּח֛וֹן הַזֶּ֖ה אֲשֶׁ֥ר בָּטָֽחְתָּ׃"
+pericope: "[[Isa.36.1 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 36
+book/chapter: "[[Isa.36|Isaiah 36]]"
+chronological_order: 663
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H7262]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H2396G]]"
+- "[[H3541]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H1419A]]"
+- "[[H0804G]]"
+- "[[H4100]]"
+- "[[H0986]]"
+- "[[H2088]]"
+- "[[H0834A]]"
+- "[[H0982]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 36:4**<big><big>[[Isa.36.1 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Rabshakeh said unto them, Say ye now to Hezekiah, Thus saith the great king, the king of Assyria, What confidence [is] this wherein thou trustest?
 <small><sub>**BSB:**</sub></small>
 The Rabshakeh said to them, “Tell Hezekiah that this is what the great king, the king of Assyria, says: What is the basis of this confidence of yours?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֲלֵי]][[H9038\|הֶם֙]] [[H7262\|רַב]][[H9014\|־]] [[H7262\|שָׁקֵ֔ה]] [[H0559\|אִמְרוּ]][[H9014\|־]] [[H4994\|נָ֖א]] [[H0413\|אֶל]][[H9014\|־]] [[H2396G\|חִזְקִיָּ֑הוּ]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֞ר]] [[H9009\|הַ]][[H4428G\|מֶּ֤לֶךְ]] [[H9009\|הַ]][[H1419A\|גָּדוֹל֙]] [[H4428G\|מֶ֣לֶךְ]] [[H0804G\|אַשּׁ֔וּר]] [[H4100\|מָ֧ה]] [[H9009\|הַ]][[H0986\|בִּטָּח֛וֹן]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H0982\|בָּטָֽחְתָּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.36.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.36.3|<< Isaiah 36:3]]</td><td align="center" style="border:none;">[[Isa.36|Isaiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.36.5|Isaiah 36:5 >>]]</td></tr></table>
 

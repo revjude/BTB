@@ -1,8 +1,73 @@
+---
+title: Daniel 9:25
+type: Verse
+kjv: "Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times."
+bsb: "Know and understand this: From the issuance of the decree to restore and rebuild Jerusalem until the Messiah, the Prince, there will be seven weeks and sixty-two weeks. It will be rebuilt with streets and a trench, but in times of distress."
+hebrew: "וְתֵדַ֨ע וְתַשְׂכֵּ֜ל מִן־ מֹצָ֣א דָבָ֗ר לְהָשִׁיב֙ וְלִבְנ֤וֹת יְרֽוּשָׁלִַ֙ם֙ עַד־ מָשִׁ֣יחַ נָגִ֔יד שָׁבֻעִ֖ים שִׁבְעָ֑ה וְשָׁבֻעִ֞ים שִׁשִּׁ֣ים וּשְׁנַ֗יִם תָּשׁוּב֙ וְנִבְנְתָה֙ רְח֣וֹב וְחָר֔וּץ וּבְצ֖וֹק הָעִתִּֽים׃"
+pericope: "[[Dan.9.20 Gabriel’s Prophecy of the Seventy Weeks|Gabriel’s Prophecy of the Seventy Weeks]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 9
+book/chapter: "[[Dan.9|Daniel 9]]"
+chronological_order: 845
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic DAY|DAY]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H3045]]"
+- "[[H7919A]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H4161]]"
+- "[[H1697G]]"
+- "[[H9005]]"
+- "[[H7725H]]"
+- "[[H1129]]"
+- "[[H3389]]"
+- "[[H5704]]"
+- "[[H4899]]"
+- "[[H5057]]"
+- "[[H7620I]]"
+- "[[H7651]]"
+- "[[H8346]]"
+- "[[H8147]]"
+- "[[H7725J]]"
+- "[[H9001]]"
+- "[[H7339]]"
+- "[[H2742C]]"
+- "[[H9003]]"
+- "[[H6695A]]"
+- "[[H9009]]"
+- "[[H6256]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 9:25**<big><big>[[Dan.9.20 Gabriel’s Prophecy of the Seventy Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Know therefore and understand, [that] from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince [shall be] seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times.
 <small><sub>**BSB:**</sub></small>
 Know and understand this: From the issuance of the decree to restore and rebuild Jerusalem until the Messiah, the Prince, there will be seven weeks and sixty-two weeks. It will be rebuilt with streets and a trench, but in times of distress.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3045\|תֵדַ֨ע]] [[H9002\|וְ]][[H7919A\|תַשְׂכֵּ֜ל]] [[H4480A\|מִן]][[H9014\|־]] [[H4161\|מֹצָ֣א]] [[H1697G\|דָבָ֗ר]] [[H9005\|לְ]][[H7725H\|הָשִׁיב֙]] [[H9002\|וְ]][[H9005\|לִ]][[H1129\|בְנ֤וֹת]] [[H3389\|יְרֽוּשָׁלִַ֙ם֙]] [[H5704\|עַד]][[H9014\|־]] [[H4899\|מָשִׁ֣יחַ]] [[H5057\|נָגִ֔יד]] [[H7620I\|שָׁבֻעִ֖ים]] [[H7651\|שִׁבְעָ֑ה]] [[H9002\|וְ]][[H7620I\|שָׁבֻעִ֞ים]] [[H8346\|שִׁשִּׁ֣ים]] [[H9002\|וּ]][[H8147\|שְׁנַ֗יִם]] [[H7725J\|תָּשׁוּב֙]] [[H9001\|וְ]][[H1129\|נִבְנְתָה֙]] [[H7339\|רְח֣וֹב]] [[H9002\|וְ]][[H2742C\|חָר֔וּץ]] [[H9002\|וּ]][[H9003\|בְ]][[H6695A\|צ֖וֹק]] [[H9009\|הָ]][[H6256\|עִתִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ATONEMENT|ATONEMENT]] • [[topic DAY|DAY]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.24|<< Daniel 9:24]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.26|Daniel 9:26 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: You Turned My Mourning into Dancing
+type: Pericope
 pericope: "[[Ps.30.1 You Turned My Mourning into Dancing|You Turned My Mourning into Dancing]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 30
 book/chapter: "[[Ps.30|Psalm 30]]"
-genre:
+chronological_order: 400
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 13
 verses:
 - "[[Ps.30.0]]"
 - "[[Ps.30.1]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Ps.30.12]]"
 ---
 
-[[Ps.30|Psalm 30:1 - Psalm 30:12]]
+<small>[[Ps.30|Psalm 30:1-12]]</small>
 *You Turned My Mourning into Dancing*
 
 [[Ps.30.0|0]] A Psalm \[and\] Song \[at\] the dedication of the house of David.

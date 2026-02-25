@@ -1,8 +1,59 @@
+---
+title: Judges 20:12
+type: Verse
+kjv: "And the tribes of Israel sent men through all the tribe of Benjamin, saying, What wickedness is this that is done among you?"
+bsb: "And the tribes of Israel sent men throughout the tribe of Benjamin, saying, “What is this wickedness that has occurred among you?"
+hebrew: "וַֽיִּשְׁלְח֞וּ שִׁבְטֵ֤י יִשְׂרָאֵל֙ אֲנָשִׁ֔ים בְּכָל־ שִׁבְטֵ֥י בִנְיָמִ֖ן לֵאמֹ֑ר מָ֚ה הָרָעָ֣ה הַזֹּ֔את אֲשֶׁ֥ר נִהְיְתָ֖ה בָּכֶֽם׃"
+pericope: "[[Judg.20.1 The Decree of the Assembly|The Decree of the Assembly]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H7626H]]"
+- "[[H3478]]"
+- "[[H0582]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1144G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H9009]]"
+- "[[H7451I]]"
+- "[[H2063]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:12**<big><big>[[Judg.20.1 The Decree of the Assembly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the tribes of Israel sent men through all the tribe of Benjamin, saying, What wickedness [is] this that is done among you?
 <small><sub>**BSB:**</sub></small>
 And the tribes of Israel sent men throughout the tribe of Benjamin, saying, “What is this wickedness that has occurred among you?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H7971G\|יִּשְׁלְח֞וּ]] [[H7626H\|שִׁבְטֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H0582\|אֲנָשִׁ֔ים]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H7626H\|שִׁבְטֵ֥י]] [[H1144G\|בִנְיָמִ֖ן]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H4100\|מָ֚ה]] [[H9009\|הָ]][[H7451I\|רָעָ֣ה]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H0834A\|אֲשֶׁ֥ר]] [[H1961\|נִהְיְתָ֖ה]] [[H9003\|בָּ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.11|<< Judges 20:11]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.13|Judges 20:13 >>]]</td></tr></table>
 

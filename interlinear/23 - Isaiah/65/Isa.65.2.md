@@ -1,8 +1,63 @@
+---
+title: Isaiah 65:2
+type: Verse
+kjv: "I have spread out my hands all the day unto a rebellious people, which walketh in a way that was not good, after their own thoughts;"
+bsb: "All day long I have held out My hands to an obstinate people who walk in the wrong path, who follow their own imaginations,"
+hebrew: "פֵּרַ֧שְׂתִּי יָדַ֛י כָּל־ הַיּ֖וֹם אֶל־ עַ֣ם סוֹרֵ֑ר הַהֹלְכִים֙ הַדֶּ֣רֶךְ לֹא־ ט֔וֹב אַחַ֖ר מַחְשְׁבֹתֵיהֶֽם׃"
+pericope: "[[Isa.65.1 Judgments and Promises|Judgments and Promises]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 65
+book/chapter: "[[Isa.65|Isaiah 65]]"
+chronological_order: 704
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H6566]]"
+- "[[H3027G]]"
+- "[[H9020]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0413]]"
+- "[[H5971A]]"
+- "[[H5637]]"
+- "[[H1980I]]"
+- "[[H1870G]]"
+- "[[H3808]]"
+- "[[H2896A]]"
+- "[[H0310A]]"
+- "[[H4284]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 65:2**<big><big>[[Isa.65.1 Judgments and Promises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have spread out my hands all the day unto a rebellious people, which walketh in a way [that was] not good, after their own thoughts;
 <small><sub>**BSB:**</sub></small>
 All day long I have held out My hands to an obstinate people who walk in the wrong path, who follow their own imaginations,
+<small><sub>**Hebrew:**</sub></small>
+[[H6566\|פֵּרַ֧שְׂתִּי]] [[H3027G\|יָדַ֛]][[H9020\|י]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּ֖וֹם]] [[H0413\|אֶל]][[H9014\|־]] [[H5971A\|עַ֣ם]] [[H5637\|סוֹרֵ֑ר]] [[H9009\|הַ]][[H1980I\|הֹלְכִים֙]] [[H9009\|הַ]][[H1870G\|דֶּ֣רֶךְ]] [[H3808\|לֹא]][[H9014\|־]] [[H2896A\|ט֔וֹב]] [[H0310A\|אַחַ֖ר]] [[H4284\|מַחְשְׁבֹתֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.1|<< Isaiah 65:1]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.3|Isaiah 65:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

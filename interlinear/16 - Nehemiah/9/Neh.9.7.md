@@ -1,8 +1,67 @@
+---
+title: Nehemiah 9:7
+type: Verse
+kjv: "Thou art the LORD the God, who didst choose Abram, and broughtest him forth out of Ur of the Chaldees, and gavest him the name of Abraham;"
+bsb: "You are the LORD, the God who chose Abram, who brought him out of Ur of the Chaldeans and gave him the name Abraham."
+hebrew: "אַתָּה־ הוּא֙ יְהוָ֣ה הָאֱלֹהִ֔ים אֲשֶׁ֤ר בָּחַ֙רְתָּ֙ בְּאַבְרָ֔ם וְהוֹצֵאת֖וֹ מֵא֣וּר כַּשְׂדִּ֑ים וְשַׂ֥מְתָּ שְּׁמ֖וֹ אַבְרָהָֽם׃"
+pericope: "[[Neh.9.1 The People Confess Their Sins|The People Confess Their Sins]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 9
+book/chapter: "[[Neh.9|Nehemiah 9]]"
+chronological_order: 921
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic UR|UR]]"
+strongs:
+- "[[H0859A]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H3068G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H0834A]]"
+- "[[H0977]]"
+- "[[H9003]]"
+- "[[H0087]]"
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H0218B]]"
+- "[[H3778]]"
+- "[[H7760M]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H0085]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 9:7**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou [art] the LORD the God, who didst choose Abram, and broughtest him forth out of Ur of the Chaldees, and gavest him the name of Abraham;
 <small><sub>**BSB:**</sub></small>
 You are the LORD, the God who chose Abram, who brought him out of Ur of the Chaldeans and gave him the name Abraham.
+<small><sub>**Hebrew:**</sub></small>
+[[H0859A\|אַתָּה]][[H9014\|־]] [[H1931\|הוּא֙]] [[H3068G\|יְהוָ֣ה]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H0834A\|אֲשֶׁ֤ר]] [[H0977\|בָּחַ֙רְתָּ֙]] [[H9003\|בְּ]][[H0087\|אַבְרָ֔ם]] [[H9001\|וְ]][[H3318H\|הוֹצֵאת֖]][[H9033\|וֹ]] [[H9006\|מֵ]][[H0218B\|א֣וּר]] [[H3778\|כַּשְׂדִּ֑ים]] [[H9001\|וְ]][[H7760M\|שַׂ֥מְתָּ]] [[H8034\|שְּׁמ֖]][[H9023\|וֹ]] [[H0085\|אַבְרָהָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic GOD|GOD]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic SIN|SIN]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic UR|UR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.6|<< Nehemiah 9:6]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.8|Nehemiah 9:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

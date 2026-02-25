@@ -1,7 +1,7 @@
 
 **INSECTS**
 
-→ Clean and unclean (ceremonially speaking) [[Lev.11.21|Le 11:21]]-[[Lev.11.25|25]];  [[Deut.14.19|De 14:19]]
+→ Clean and unclean (ceremonially speaking) [[Lev.11.21|Le 11:21-25]];  [[Deut.14.19|De 14:19]]
 
 → See [[topic ANT|ANT]]
 

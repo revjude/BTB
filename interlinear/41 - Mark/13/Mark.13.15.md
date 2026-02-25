@@ -1,10 +1,58 @@
+---
+title: Mark 13:15
+type: Verse
+kjv: "And let him that is on the housetop not go down into the house, neither enter therein, to take any thing out of his house:"
+bsb: "Let no one on the housetop go back inside to retrieve anything from his house."
+jesus_said: "And let him that is on the housetop not go down into the house, neither enter therein, to take any thing out of his house:"
+greek: "ὁ δὲ ἐπὶ τοῦ δώματος μὴ καταβάτω εἰς τὴν οἰκίαν μηδὲ εἰσελθάτω ἆραί τι ἐκ τῆς οἰκίας αὐτοῦ·"
+pericope: "[[Mark.13.14 The Abomination of Desolation|The Abomination of Desolation]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 13
+book/chapter: "[[Mark.13|Mark 13]]"
+chronological_order: 998
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1909]]"
+- "[[G1430]]"
+- "[[G3361]]"
+- "[[G2597]]"
+- "[[G1519]]"
+- "[[G3614G]]"
+- "[[G3366]]"
+- "[[G1525]]"
+- "[[G0142]]"
+- "[[G5100]]"
+- "[[G1537]]"
+- "[[G0846]]"
+texts:
+- NKO
+- KO
+---
+
 **Mark 13:15**<big><big>[[Mark.13.14 The Abomination of Desolation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And let him that is on the housetop not go down into the house, neither enter [therein], to take any thing out of his house:
 <small><sub>**BSB:**</sub></small>
 Let no one on the housetop go back inside to retrieve anything from his house.
-<small><sub>**Literal:**</sub></small>
-the [one] and upon the housetop not he should come down into <the> house nor should go in to take anything out of the house of him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.14|<< Mark 13:14]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.16|Mark 13:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῦ]]  [[G1430\|δώματος]]  [[G3361\|μὴ]]  [[G2597\|καταβάτω]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3614G\|οἰκίαν]]  [[G3366\|μηδὲ]]  [[G1525\|εἰσελθάτω]]  [[G0142\|ἆραί]]  [[G5100\|τι]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G3614G\|οἰκίας]]  [[G0846\|αὐτοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.14|<< Mark 13:14]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.16|Mark 13:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

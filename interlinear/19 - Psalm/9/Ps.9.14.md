@@ -1,8 +1,58 @@
+---
+title: Psalm 9:14
+type: Verse
+kjv: "That I may shew forth all thy praise in the gates of the daughter of Zion: I will rejoice in thy salvation."
+bsb: "that I may declare all Your praises—that within the gates of Daughter Zion I may rejoice in Your salvation."
+hebrew: "לְמַ֥עַן אֲסַפְּרָ֗ה כָּֽל־ תְּהִלָּ֫תֶ֥יךָ בְּשַֽׁעֲרֵ֥י בַת־ צִיּ֑וֹן אָ֝גִ֗ילָה בִּישׁוּעָתֶֽךָ׃"
+pericope: "[[Ps.9.1 I Will Give Thanks to the LORD|I Will Give Thanks to the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 9
+book/chapter: "[[Ps.9|Psalm 9]]"
+chronological_order: 343
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JOY|JOY]]"
+strongs:
+- "[[H4616]]"
+- "[[H5608A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H8416]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H1323G]]"
+- "[[H6726]]"
+- "[[H1523]]"
+- "[[H3444]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 9:14**<big><big>[[Ps.9.1 I Will Give Thanks to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That I may shew forth all thy praise in the gates of the daughter of Zion: I will rejoice in thy salvation.
 <small><sub>**BSB:**</sub></small>
 that I may declare all Your praises—that within the gates of Daughter Zion I may rejoice in Your salvation.
+<small><sub>**Hebrew:**</sub></small>
+[[H4616\|לְמַ֥עַן]] [[H5608A\|אֲסַפְּרָ֗ה]] [[H3605\|כָּֽל]][[H9014\|־]] [[H8416\|תְּהִלָּ֫תֶ֥י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H8179G\|שַֽׁעֲרֵ֥י]] [[H1323G\|בַת]][[H9014\|־]] [[H6726\|צִיּ֑וֹן]] [[H1523\|אָ֝גִ֗ילָה]] [[H9003\|בִּ]][[H3444\|ישׁוּעָתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHURCH|CHURCH]] • [[topic JOY|JOY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.9.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.13|<< Psalms 9:13]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.15|Psalms 9:15 >>]]</td></tr></table>
 

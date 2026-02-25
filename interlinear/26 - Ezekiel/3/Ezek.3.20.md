@@ -1,8 +1,78 @@
+---
+title: Ezekiel 3:20
+type: Verse
+kjv: "Again, When a righteous man doth turn from his righteousness, and commit iniquity, and I lay a stumblingblock before him, he shall die: because thou hast not given him warning, he shall die in his sin, and his righteousness which he hath done shall not be remembered; but his blood will I require at thine hand."
+bsb: "Now if a righteous man turns from his righteousness and commits iniquity, and I put a stumbling block before him, he will die. If you did not warn him, he will die in his sin, and the righteous acts he did will not be remembered. And I will hold you responsible for his blood."
+hebrew: "וּבְשׁ֨וּב צַדִּ֤יק מִצִּדְקוֹ֙ וְעָ֣שָׂה עָ֔וֶל וְנָתַתִּ֥י מִכְשׁ֛וֹל לְפָנָ֖יו ה֣וּא יָמ֑וּת כִּ֣י לֹ֤א הִזְהַרְתּוֹ֙ בְּחַטָּאת֣וֹ יָמ֔וּת וְלֹ֣א תִזָּכַ֗רְןָ צִדְקֹתָיו֙ אֲשֶׁ֣ר עָשָׂ֔ה וְדָמ֖וֹ מִיָּדְךָ֥ אֲבַקֵּֽשׁ׃"
+pericope: "[[Ezek.3.16 A Watchman for Israel|A Watchman for Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 3
+book/chapter: "[[Ezek.3|Ezekiel 3]]"
+chronological_order: 794
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic STUMBLING|STUMBLING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H7725O]]"
+- "[[H6662]]"
+- "[[H9006]]"
+- "[[H6664G]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H5766A]]"
+- "[[H5414H]]"
+- "[[H4383]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H1931]]"
+- "[[H4191]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H2094B]]"
+- "[[H9033]]"
+- "[[H2403B]]"
+- "[[H2142]]"
+- "[[H6666]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H1818]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H1245]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 3:20**<big><big>[[Ezek.3.16 A Watchman for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Again, When a righteous [man] doth turn from his righteousness, and commit iniquity, and I lay a stumblingblock before him, he shall die: because thou hast not given him warning, he shall die in his sin, and his righteousness which he hath done shall not be remembered; but his blood will I require at thine hand.
 <small><sub>**BSB:**</sub></small>
 Now if a righteous man turns from his righteousness and commits iniquity, and I put a stumbling block before him, he will die. If you did not warn him, he will die in his sin, and the righteous acts he did will not be remembered. And I will hold you responsible for his blood.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H7725O\|שׁ֨וּב]] [[H6662\|צַדִּ֤יק]] [[H9006\|מִ]][[H6664G\|צִּדְק]][[H9023\|וֹ֙]] [[H9001\|וְ]][[H6213H\|עָ֣שָׂה]] [[H5766A\|עָ֔וֶל]] [[H9001\|וְ]][[H5414H\|נָתַתִּ֥י]] [[H4383\|מִכְשׁ֛וֹל]] [[H9005\|לְ]][[H6440G\|פָנָ֖י]][[H9023\|ו]] [[H1931\|ה֣וּא]] [[H4191\|יָמ֑וּת]] [[H3588A\|כִּ֣י]] [[H3808\|לֹ֤א]] [[H2094B\|הִזְהַרְתּ]][[H9033\|וֹ֙]] [[H9003\|בְּ]][[H2403B\|חַטָּאת֣]][[H9023\|וֹ]] [[H4191\|יָמ֔וּת]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H2142\|תִזָּכַ֗רְןָ]] [[H6666\|צִדְקֹתָי]][[H9023\|ו֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213A\|עָשָׂ֔ה]] [[H9002\|וְ]][[H1818\|דָמ֖]][[H9023\|וֹ]] [[H9006\|מִ]][[H3027G\|יָּדְ]][[H9021\|ךָ֥]] [[H1245\|אֲבַקֵּֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic STUMBLING|STUMBLING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.3.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.19|<< Ezekiel 3:19]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.21|Ezekiel 3:21 >>]]</td></tr></table>
 
@@ -33,7 +103,7 @@ Now if a righteous man turns from his righteousness and commits iniquity, and I 
 | I will require  |**<big>&#8207;[[H1245\|אֲבַקֵּֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.va.Kesh<small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.19|<< Ezekiel 3:19]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.21|Ezekiel 3:21 >>]]</td></tr></table>
 
-[^1]: righteousness his  | **<big>[[H9023|וֹ]]</big><big>[[H6666|צִדְקָת]]</big> ** | tzid.ko.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: righteousness his  | **<big>[[H9023|וֹ]]</big><big>[[H6666|צִדְקָת]]</big> ** | tzid.ko.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: righteousness his  | **<big>[[H6666|צִדְקָת]]</big><big>[[H9023|וֹ]]</big> ** | tzid.ko.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: righteousness his  | **<big>[[H6666|צִדְקָת]]</big><big>[[H9023|וֹ]]</big> ** | tzid.ko.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>צִדְקֹתָו֙</big></span>**
 

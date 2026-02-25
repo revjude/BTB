@@ -1,8 +1,60 @@
+---
+title: 1 Samuel 14:29
+type: Verse
+kjv: "Then said Jonathan, My father hath troubled the land: see, I pray you, how mine eyes have been enlightened, because I tasted a little of this honey."
+bsb: "“My father has brought trouble to the land,” Jonathan replied. “Just look at how my eyes have brightened because I tasted a little of this honey."
+hebrew: "וַיֹּ֙אמֶר֙ יֽוֹנָתָ֔ן עָכַ֥ר אָבִ֖י אֶת־ הָאָ֑רֶץ רְאוּ־ נָא֙ כִּֽי־ אֹ֣רוּ עֵינַ֔י כִּ֣י טָעַ֔מְתִּי מְעַ֖ט דְּבַ֥שׁ הַזֶּֽה׃"
+pericope: "[[1Sam.14.24 Jonathan Eats the Honey|Jonathan Eats the Honey]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic JONATHAN|JONATHAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3129N]]"
+- "[[H5916]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H7200G]]"
+- "[[H4994]]"
+- "[[H3588A]]"
+- "[[H0215]]"
+- "[[H5869A]]"
+- "[[H2938]]"
+- "[[H4592]]"
+- "[[H1706]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 14:29**<big><big>[[1Sam.14.24 Jonathan Eats the Honey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Jonathan, My father hath troubled the land: see, I pray you, how mine eyes have been enlightened, because I tasted a little of this honey.
 <small><sub>**BSB:**</sub></small>
 “My father has brought trouble to the land,” Jonathan replied. “Just look at how my eyes have brightened because I tasted a little of this honey.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H3129N\|יֽוֹנָתָ֔ן]] [[H5916\|עָכַ֥ר]] [[H0001G\|אָבִ֖]][[H9020\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H7200G\|רְאוּ]][[H9014\|־]] [[H4994\|נָא֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0215\|אֹ֣רוּ]] [[H5869A\|עֵינַ֔]][[H9020\|י]] [[H3588A\|כִּ֣י]] [[H2938\|טָעַ֔מְתִּי]] [[H4592\|מְעַ֖ט]] [[H1706\|דְּבַ֥שׁ]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONATHAN|JONATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.28|<< 1 Samuel 14:28]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.30|1 Samuel 14:30 >>]]</td></tr></table>
 

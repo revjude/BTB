@@ -1,8 +1,56 @@
+---
+title: Job 21:11
+type: Verse
+kjv: "They send forth their little ones like a flock, and their children dance."
+bsb: "They send forth their little ones like a flock; their children skip about,"
+hebrew: "יְשַׁלְּח֣וּ כַ֭צֹּאן עֲוִילֵיהֶ֑ם וְ֝יַלְדֵיהֶ֗ם יְרַקֵּדֽוּן׃"
+pericope: "[[Job.21.1 Job：God Will Punish the Wicked|Job：God Will Punish the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 21
+book/chapter: "[[Job.21|Job 21]]"
+chronological_order: 32
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DANCING|DANCING]]"
+- "[[topic HARP|HARP]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H7971G]]"
+- "[[H9004]]"
+- "[[H6629G]]"
+- "[[H5759]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H3206]]"
+- "[[H7540]]"
+- "[[H9013]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 21:11**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They send forth their little ones like a flock, and their children dance.
 <small><sub>**BSB:**</sub></small>
 They send forth their little ones like a flock; their children skip about,
+<small><sub>**Hebrew:**</sub></small>
+[[H7971G\|יְשַׁלְּח֣וּ]] [[H9004\|כַ֭]][[H6629G\|צֹּאן]] [[H5759\|עֲוִילֵי]][[H9028\|הֶ֑ם]] [[H9002\|וְ֝]][[H3206\|יַלְדֵי]][[H9028\|הֶ֗ם]] [[H7540\|יְרַקֵּדֽוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DANCING|DANCING]] • [[topic HARP|HARP]] • [[topic RICH, THE|RICH, THE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.10|<< Job 21:10]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.12|Job 21:12 >>]]</td></tr></table>
 

@@ -1,8 +1,49 @@
+---
+title: 2 Samuel 22:41
+type: Verse
+kjv: "Thou hast also given me the necks of mine enemies, that I might destroy them that hate me."
+bsb: "You have made my enemies retreat before me; I destroyed those who hated me."
+hebrew: "וְאֹ֣יְבַ֔י תַּ֥תָּה לִּ֖י עֹ֑רֶף מְשַׂנְאַ֖י וָאַצְמִיתֵֽם׃"
+pericope: "[[2Sam.22.1 David’s Song of Deliverance|David’s Song of Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 22
+book/chapter: "[[2Sam.22|2 Samuel 22]]"
+chronological_order: 430
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+strongs:
+- "[[H9002]]"
+- "[[H0341]]"
+- "[[H9020]]"
+- "[[H5414I]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H6203]]"
+- "[[H8130]]"
+- "[[H9001]]"
+- "[[H6789]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 22:41**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast also given me the necks of mine enemies, that I might destroy them that hate me.
 <small><sub>**BSB:**</sub></small>
 You have made my enemies retreat before me; I destroyed those who hated me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0341\|אֹ֣יְבַ֔]][[H9020\|י]] [[H5414I\|תַּ֥תָּה]] [[H9005\|לִּ֖]][[H9030\|י]] [[H6203\|עֹ֑רֶף]] [[H8130\|מְשַׂנְאַ֖]][[H9030\|י]] [[H9001\|וָ]][[H6789\|אַצְמִיתֵֽ]][[H9038\|ם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.40|<< 2 Samuel 22:40]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.42|2 Samuel 22:42 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: Ecclesiastes 7:18
+type: Verse
+kjv: "It is good that thou shouldest take hold of this; yea, also from this withdraw not thine hand: for he that feareth God shall come forth of them all."
+bsb: "It is good to grasp the one and not let the other slip from your hand. For he who fears God will follow both warnings."
+hebrew: "ט֚וֹב אֲשֶׁ֣ר תֶּאֱחֹ֣ז בָּזֶ֔ה וְגַם־ מִזֶּ֖ה אַל־ תַּנַּ֣ח אֶת־ יָדֶ֑ךָ כִּֽי־ יְרֵ֥א אֱלֹהִ֖ים יֵצֵ֥א אֶת־ כֻּלָּֽם׃"
+pericope: "[[Eccl.7.15 The Limits of Human Wisdom|The Limits of Human Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 7
+book/chapter: "[[Eccl.7|Ecclesiastes 7]]"
+chronological_order: 545
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H2896A]]"
+- "[[H0834A]]"
+- "[[H0270]]"
+- "[[H9003]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H9006]]"
+- "[[H0408]]"
+- "[[H5117]]"
+- "[[H0853]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H3373]]"
+- "[[H0430G]]"
+- "[[H3318G]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 7:18**<big><big>[[Eccl.7.15 The Limits of Human Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] good that thou shouldest take hold of this; yea, also from this withdraw not thine hand: for he that feareth God shall come forth of them all.
 <small><sub>**BSB:**</sub></small>
 It is good to grasp the one and not let the other slip from your hand. For he who fears God will follow both warnings.
+<small><sub>**Hebrew:**</sub></small>
+[[H2896A\|ט֚וֹב]] [[H0834A\|אֲשֶׁ֣ר]] [[H0270\|תֶּאֱחֹ֣ז]] [[H9003\|בָּ]][[H2088\|זֶ֔ה]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H9006\|מִ]][[H2088\|זֶּ֖ה]] [[H0408\|אַל]][[H9014\|־]] [[H5117\|תַּנַּ֣ח]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יָדֶ֑]][[H9021\|ךָ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3373\|יְרֵ֥א]] [[H0430G\|אֱלֹהִ֖ים]] [[H3318G\|יֵצֵ֥א]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כֻּלָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REVERENCE|REVERENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.17|<< Ecclesiastes 7:17]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.19|Ecclesiastes 7:19 >>]]</td></tr></table>
 

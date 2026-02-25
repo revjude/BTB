@@ -1,8 +1,61 @@
+---
+title: 2 Samuel 10:10
+type: Verse
+kjv: "And the rest of the people he delivered into the hand of Abishai his brother, that he might put them in array against the children of Ammon."
+bsb: "And he placed the rest of the troops under the command of his brother Abishai, who arrayed them against the Ammonites."
+hebrew: "וְאֵת֙ יֶ֣תֶר הָעָ֔ם נָתַ֕ן בְּיַ֖ד אַבְשַׁ֣י אָחִ֑יו וַֽיַּעֲרֹ֕ךְ לִקְרַ֖את בְּנֵ֥י עַמּֽוֹן׃"
+pericope: "[[2Sam.10.9 David Defeats Ammon and Aram|David Defeats Ammon and Aram]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 10
+book/chapter: "[[2Sam.10|2 Samuel 10]]"
+chronological_order: 404
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H3499A]]"
+- "[[H9009]]"
+- "[[H5971K]]"
+- "[[H5414H]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H0052]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H6186A]]"
+- "[[H9005]]"
+- "[[H7122H]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 10:10**<big><big>[[2Sam.10.9 David Defeats Ammon and Aram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the rest of the people he delivered into the hand of Abishai his brother, that he might put [them] in array against the children of Ammon.
 <small><sub>**BSB:**</sub></small>
 And he placed the rest of the troops under the command of his brother Abishai, who arrayed them against the Ammonites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵת֙]] [[H3499A\|יֶ֣תֶר]] [[H9009\|הָ]][[H5971K\|עָ֔ם]] [[H5414H\|נָתַ֕ן]] [[H9003\|בְּ]][[H3027H\|יַ֖ד]] [[H0052\|אַבְשַׁ֣י]] [[H0251G\|אָחִ֑י]][[H9023\|ו]] [[H9001\|וַֽ]][[H6186A\|יַּעֲרֹ֕ךְ]] [[H9005\|לִ]][[H7122H\|קְרַ֖את]] [[H1121G\|בְּנֵ֥י]] [[H5983\|עַמּֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAI|ABISHAI]] • [[topic JOAB|JOAB]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.10.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.10.9|<< 2 Samuel 10:9]]</td><td align="center" style="border:none;">[[2Sam.10|2 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.10.11|2 Samuel 10:11 >>]]</td></tr></table>
 

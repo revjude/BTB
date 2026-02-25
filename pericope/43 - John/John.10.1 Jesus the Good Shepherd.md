@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus the Good Shepherd
+type: Pericope
 pericope: "[[John.10.1 Jesus the Good Shepherd|Jesus the Good Shepherd]]"
-verse_count: 21
+original_language: Greek
 testament: New
 book: John
 chapter: 10
 book/chapter: "[[John.10|John 10]]"
-genre:
+chronological_order: 984
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 21
 verses:
 - "[[John.10.1]]"
 - "[[John.10.2]]"
@@ -39,7 +46,7 @@ verses:
 - "[[John.10.21]]"
 ---
 
-[[John.10|John 10:1 - John 10:21]]
+<small>[[John.10|John 10:1-21]]</small>
 *Jesus the Good Shepherd*
 
 [[John.10.1|1]] Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber.

@@ -1,8 +1,69 @@
+---
+title: Nehemiah 6:18
+type: Verse
+kjv: "For there were many in Judah sworn unto him, because he was the son in law of Shechaniah the son of Arah; and his son Johanan had taken the daughter of Meshullam the son of Berechiah."
+bsb: "For many in Judah were bound by oath to him, since he was a son-in-law of Shecaniah son of Arah, and his son Jehohanan had married the daughter of Meshullam son of Berechiah."
+hebrew: "כִּי־ רַבִּ֣ים בִּֽיהוּדָ֗ה בַּעֲלֵ֤י שְׁבוּעָה֙ ל֔וֹ כִּי־ חָתָ֥ן ה֖וּא לִשְׁכַנְיָ֣ה בֶן־ אָרַ֑ח וִֽיהוֹחָנָ֣ן בְּנ֔וֹ לָקַ֕ח אֶת־ בַּת־ מְשֻׁלָּ֖ם בֶּ֥ן בֶּֽרֶכְיָֽה׃"
+pericope: "[[Neh.6.15 Completion of the Wall|Completion of the Wall]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 6
+book/chapter: "[[Neh.6|Nehemiah 6]]"
+chronological_order: 918
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ARAH|ARAH]]"
+- "[[topic BERECHIAH|BERECHIAH]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic JOHANAN|JOHANAN]]"
+- "[[topic SHECHANIAH|SHECHANIAH]]"
+- "[[topic TOBIAH|TOBIAH]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7227A]]"
+- "[[H9003]]"
+- "[[H3063G]]"
+- "[[H1167J]]"
+- "[[H7621]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H2860]]"
+- "[[H1931]]"
+- "[[H7935M]]"
+- "[[H1121A]]"
+- "[[H0733I]]"
+- "[[H9002]]"
+- "[[H3076O]]"
+- "[[H9023]]"
+- "[[H3947I]]"
+- "[[H0853]]"
+- "[[H1323G]]"
+- "[[H4918R]]"
+- "[[H1296K]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 6:18**<big><big>[[Neh.6.15 Completion of the Wall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [there were] many in Judah sworn unto him, because he [was] the son in law of Shechaniah the son of Arah; and his son Johanan had taken the daughter of Meshullam the son of Berechiah.
 <small><sub>**BSB:**</sub></small>
 For many in Judah were bound by oath to him, since he was a son-in-law of Shecaniah son of Arah, and his son Jehohanan had married the daughter of Meshullam son of Berechiah.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H7227A\|רַבִּ֣ים]] [[H9003\|בִּֽ]][[H3063G\|יהוּדָ֗ה]] [[H1167J\|בַּעֲלֵ֤י]] [[H7621\|שְׁבוּעָה֙]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H3588A\|כִּי]][[H9014\|־]] [[H2860\|חָתָ֥ן]] [[H1931\|ה֖וּא]] [[H9005\|לִ]][[H7935M\|שְׁכַנְיָ֣ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H0733I\|אָרַ֑ח]] [[H9002\|וִֽ]][[H3076O\|יהוֹחָנָ֣ן]] [[H1121A\|בְּנ֔]][[H9023\|וֹ]] [[H3947I\|לָקַ֕ח]] [[H0853\|אֶת]][[H9014\|־]] [[H1323G\|בַּת]][[H9014\|־]] [[H4918R\|מְשֻׁלָּ֖ם]] [[H1121A\|בֶּ֥ן]] [[H1296K\|בֶּֽרֶכְיָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARAH|ARAH]] • [[topic BERECHIAH|BERECHIAH]] • [[topic INFLUENCE|INFLUENCE]] • [[topic JOHANAN|JOHANAN]] • [[topic SHECHANIAH|SHECHANIAH]] • [[topic TOBIAH|TOBIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.6.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.6.17|<< Nehemiah 6:17]]</td><td align="center" style="border:none;">[[Neh.6|Nehemiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.6.19|Nehemiah 6:19 >>]]</td></tr></table>
 

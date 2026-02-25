@@ -1,8 +1,68 @@
+---
+title: Nehemiah 11:22
+type: Verse
+kjv: "The overseer also of the Levites at Jerusalem was Uzzi the son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Micha. Of the sons of Asaph, the singers were over the business of the house of God."
+bsb: "Now the overseer of the Levites in Jerusalem was Uzzi son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Mica. He was one of Asaph’s descendants, who were the singers in charge of the service of the house of God."
+hebrew: "וּפְקִ֤יד הַלְוִיִּם֙ בִּיר֣וּשָׁלִַ֔ם עֻזִּ֤י בֶן־ בָּנִי֙ בֶּן־ חֲשַׁבְיָ֔ה בֶּן־ מַתַּנְיָ֖ה בֶּן־ מִיכָ֑א מִבְּנֵ֤י אָסָף֙ הַמְשֹׁ֣רְרִ֔ים לְנֶ֖גֶד מְלֶ֥אכֶת בֵּית־ הָאֱלֹהִֽים׃"
+pericope: "[[Neh.11.20 Residents Outside Jerusalem|Residents Outside Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 11
+book/chapter: "[[Neh.11|Nehemiah 11]]"
+chronological_order: 923
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ASAPH|ASAPH]]"
+- "[[topic BANI|BANI]]"
+- "[[topic HASHABIAH|HASHABIAH]]"
+- "[[topic MICHA|MICHA]]"
+- "[[topic UZZI|UZZI]]"
+strongs:
+- "[[H9002]]"
+- "[[H6496]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H5813K]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H1137O]]"
+- "[[H2811O]]"
+- "[[H4983O]]"
+- "[[H4316I]]"
+- "[[H9006]]"
+- "[[H1121G]]"
+- "[[H0623H]]"
+- "[[H7891]]"
+- "[[H9005]]"
+- "[[H5048]]"
+- "[[H4399]]"
+- "[[H1004Q]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 11:22**<big><big>[[Neh.11.20 Residents Outside Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The overseer also of the Levites at Jerusalem [was] Uzzi the son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Micha. Of the sons of Asaph, the singers [were] over the business of the house of God.
 <small><sub>**BSB:**</sub></small>
 Now the overseer of the Levites in Jerusalem was Uzzi son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Mica. He was one of Asaph’s descendants, who were the singers in charge of the service of the house of God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H6496\|פְקִ֤יד]] [[H9009\|הַ]][[H3881\|לְוִיִּם֙]] [[H9003\|בִּ]][[H3389\|יר֣וּשָׁלִַ֔ם]] [[H5813K\|עֻזִּ֤י]] [[H1121A\|בֶן]][[H9014\|־]] [[H1137O\|בָּנִי֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2811O\|חֲשַׁבְיָ֔ה]] [[H1121A\|בֶּן]][[H9014\|־]] [[H4983O\|מַתַּנְיָ֖ה]] [[H1121A\|בֶּן]][[H9014\|־]] [[H4316I\|מִיכָ֑א]] [[H9006\|מִ]][[H1121G\|בְּנֵ֤י]] [[H0623H\|אָסָף֙]] [[H9009\|הַ]][[H7891\|מְשֹׁ֣רְרִ֔ים]] [[H9005\|לְ]][[H5048\|נֶ֖גֶד]] [[H4399\|מְלֶ֥אכֶת]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H9009\|הָ]][[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAPH|ASAPH]] • [[topic BANI|BANI]] • [[topic HASHABIAH|HASHABIAH]] • [[topic MICHA|MICHA]] • [[topic UZZI|UZZI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.21|<< Nehemiah 11:21]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.23|Nehemiah 11:23 >>]]</td></tr></table>
 

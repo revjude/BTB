@@ -83,7 +83,7 @@
 
 → Often accompanied by fraud and injustice [[Ps.10.7|Ps 10:7]]; [[Ps.43.1|43:1]]
 
-→ Hatred often concealed by [[Prov.26.24|Pr 26:24]]-[[Prov.26.26|26]]
+→ Hatred often concealed by [[Prov.26.24|Pr 26:24-26]]
 
 → The folly of fools is [[Prov.14.8|Pr 14:8]]
 
@@ -91,7 +91,7 @@
 
 → Blessedness of being free from [[Ps.24.4|Ps 24:4]],[[Ps.24.5|5]]; [[Ps.32.2|32:2]]
 
-→ Punishment of [[Ps.55.23|Ps 55:23]]; [[Jer.9.7|Jer 9:7]]-[[Jer.9.9|9]]
+→ Punishment of [[Ps.55.23|Ps 55:23]]; [[Jer.9.7|Jer 9:7-9]]
 
 → See [[topic CONFIDENCE|CONFIDENCE, FALSE]]
 

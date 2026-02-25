@@ -1,8 +1,62 @@
+---
+title: Ezekiel 26:8
+type: Verse
+kjv: "He shall slay with the sword thy daughters in the field: and he shall make a fort against thee, and cast a mount against thee, and lift up the buckler against thee."
+bsb: "He will slaughter the villages of your mainland with the sword; he will set up siege works against you, build a ramp to your walls, and raise his shields against you."
+hebrew: "בְּנוֹתַ֥יִךְ בַּשָּׂדֶ֖ה בַּחֶ֣רֶב יַהֲרֹ֑ג וְנָתַ֨ן עָלַ֜יִךְ דָּיֵ֗ק וְשָׁפַ֤ךְ עָלַ֙יִךְ֙ סֹֽלְלָ֔ה וְהֵקִ֥ים עָלַ֖יִךְ צִנָּֽה׃"
+pericope: "[[Ezek.26.1 A Prophecy against Tyre|A Prophecy against Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 26
+book/chapter: "[[Ezek.26|Ezekiel 26]]"
+chronological_order: 817
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic FORT|FORT]]"
+- "[[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H1323G]]"
+- "[[H9022]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H2719]]"
+- "[[H2026]]"
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H5921A]]"
+- "[[H9032]]"
+- "[[H1785]]"
+- "[[H8210J]]"
+- "[[H5550]]"
+- "[[H6965H]]"
+- "[[H6793C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 26:8**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall slay with the sword thy daughters in the field: and he shall make a fort against thee, and cast a mount against thee, and lift up the buckler against thee.
 <small><sub>**BSB:**</sub></small>
 He will slaughter the villages of your mainland with the sword; he will set up siege works against you, build a ramp to your walls, and raise his shields against you.
+<small><sub>**Hebrew:**</sub></small>
+[[H1323G\|בְּנוֹתַ֥יִ]][[H9022\|ךְ]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶ֖ה]] [[H9003\|בַּ]][[H2719\|חֶ֣רֶב]] [[H2026\|יַהֲרֹ֑ג]] [[H9001\|וְ]][[H5414H\|נָתַ֨ן]] [[H5921A\|עָלַ֜יִ]][[H9032\|ךְ]] [[H1785\|דָּיֵ֗ק]] [[H9001\|וְ]][[H8210J\|שָׁפַ֤ךְ]] [[H5921A\|עָלַ֙יִ]][[H9032\|ךְ֙]] [[H5550\|סֹֽלְלָ֔ה]] [[H9001\|וְ]][[H6965H\|הֵקִ֥ים]] [[H5921A\|עָלַ֖יִ]][[H9032\|ךְ]] [[H6793C\|צִנָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic FORT|FORT]] • [[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.7|<< Ezekiel 26:7]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.9|Ezekiel 26:9 >>]]</td></tr></table>
 

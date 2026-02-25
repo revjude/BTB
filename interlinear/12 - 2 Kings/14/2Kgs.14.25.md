@@ -1,8 +1,74 @@
+---
+title: 2 Kings 14:25
+type: Verse
+kjv: "He restored the coast of Israel from the entering of Hamath unto the sea of the plain, according to the word of the LORD God of Israel, which he spake by the hand of his servant Jonah, the son of Amittai, the prophet, which was of Gathhepher."
+bsb: "This Jeroboam restored the boundary of Israel from Lebo-hamath to the Sea of the Arabah, according to the word that the LORD, the God of Israel, had spoken through His servant Jonah son of Amittai, the prophet from Gath-hepher."
+hebrew: "ה֗וּא הֵשִׁיב֙ אֶת־ גְּב֣וּל יִשְׂרָאֵ֔ל מִלְּב֥וֹא חֲמָ֖ת עַד־ יָ֣ם הָעֲרָבָ֑ה כִּדְבַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁ֣ר דִּבֶּ֗ר בְּיַד־ עַבְדּ֞וֹ יוֹנָ֤ה בֶן־ אֲמִתַּי֙ הַנָּבִ֔יא אֲשֶׁ֖ר מִגַּ֥ת הַחֵֽפֶר׃"
+pericope: "[[2Kgs.14.23 Jeroboam II Reigns in Israel|Jeroboam II Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 14
+book/chapter: "[[2Kgs.14|2 Kings 14]]"
+chronological_order: 591
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GATH-HEPHER|GATH-HEPHER]]"
+- "[[topic HAMATH|HAMATH]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic JONAH|JONAH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SYRIA|SYRIA]]"
+strongs:
+- "[[H1931]]"
+- "[[H7725H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1366G]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H0935O]]"
+- "[[H2574G]]"
+- "[[H5704]]"
+- "[[H3220G]]"
+- "[[H9009]]"
+- "[[H6160K]]"
+- "[[H9004]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H9003]]"
+- "[[H3027J]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H3124]]"
+- "[[H1121A]]"
+- "[[H0573]]"
+- "[[H5030]]"
+- "[[H1662]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 14:25**<big><big>[[2Kgs.14.23 Jeroboam II Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He restored the coast of Israel from the entering of Hamath unto the sea of the plain, according to the word of the LORD God of Israel, which he spake by the hand of his servant Jonah, the son of Amittai, the prophet, which [was] of Gathhepher.
 <small><sub>**BSB:**</sub></small>
 This Jeroboam restored the boundary of Israel from Lebo-hamath to the Sea of the Arabah, according to the word that the LORD, the God of Israel, had spoken through His servant Jonah son of Amittai, the prophet from Gath-hepher.
+<small><sub>**Hebrew:**</sub></small>
+[[H1931\|ה֗וּא]] [[H7725H\|הֵשִׁיב֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1366G\|גְּב֣וּל]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9006\|מִ]][[H0935O\|לְּב֥וֹא]] [[H2574G\|חֲמָ֖ת]] [[H5704\|עַד]][[H9014\|־]] [[H3220G\|יָ֣ם]] [[H9009\|הָ]][[H6160K\|עֲרָבָ֑ה]] [[H9004\|כִּ]][[H1697G\|דְבַ֤ר]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0834A\|אֲשֶׁ֣ר]] [[H1696G\|דִּבֶּ֗ר]] [[H9003\|בְּ]][[H3027J\|יַד]][[H9014\|־]] [[H5650\|עַבְדּ֞]][[H9023\|וֹ]] [[H3124\|יוֹנָ֤ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H0573\|אֲמִתַּי֙]] [[H9009\|הַ]][[H5030\|נָּבִ֔יא]] [[H0834A\|אֲשֶׁ֖ר]] [[H9006\|מִ]][[H1662\|גַּ֥ת]] [[H9009\|הַ]][[H1662\|חֵֽפֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GATH-HEPHER|GATH-HEPHER]] • [[topic HAMATH|HAMATH]] • [[topic JEROBOAM|JEROBOAM]] • [[topic JONAH|JONAH]] • [[topic PROPHECY|PROPHECY]] • [[topic SYRIA|SYRIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.14.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.24|<< 2 Kings 14:24]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.26|2 Kings 14:26 >>]]</td></tr></table>
 

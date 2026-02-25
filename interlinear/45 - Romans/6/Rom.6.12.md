@@ -1,10 +1,56 @@
+---
+title: Romans 6:12
+type: Verse
+kjv: "Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof."
+bsb: "Therefore do not let sin reign in your mortal body so that you obey its desires."
+greek: "Μὴ οὖν βασιλευέτω ἡ ἁμαρτία ἐν τῷ θνητῷ ὑμῶν σώματι εἰς τὸ ὑπακούειν αὐτῇ ἐν ταῖς ἐπιθυμίαις αὐτοῦ,"
+pericope: "[[Rom.6.1 Dead to Sin, Alive to God|Dead to Sin, Alive to God]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 6
+book/chapter: "[[Rom.6|Romans 6]]"
+chronological_order: 1092
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G3361]]"
+- "[[G3767]]"
+- "[[G0936]]"
+- "[[G3588]]"
+- "[[G0266]]"
+- "[[G1722]]"
+- "[[G2349]]"
+- "[[G4771]]"
+- "[[G4983]]"
+- "[[G1519]]"
+- "[[G5219]]"
+- "[[G0846]]"
+- "[[G1939]]"
+texts:
+- NKO
+- K
+---
+
 **Romans 6:12**<big><big>[[Rom.6.1 Dead to Sin, Alive to God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof.
 <small><sub>**BSB:**</sub></small>
 Therefore do not let sin reign in your mortal body so that you obey its desires.
-<small><sub>**Literal:**</sub></small>
-Not therefore should reign <the> sin in the mortal of you body in order <the> to obey it in the desires of it,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.11|<< Romans 6:11]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.13|Romans 6:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|Μὴ]]  [[G3767\|οὖν]]  [[G0936\|βασιλευέτω]]  [[G3588\|ἡ]]  [[G0266\|ἁμαρτία]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2349\|θνητῷ]]  [[G4771\|ὑμῶν]]  [[G4983\|σώματι]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G5219\|ὑπακούειν]]  [[G0846\|αὐτῇ]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G1939\|ἐπιθυμίαις]]  [[G0846\|αὐτοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLINESS|HOLINESS]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.11|<< Romans 6:11]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.13|Romans 6:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

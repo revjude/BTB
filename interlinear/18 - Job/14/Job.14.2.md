@@ -1,8 +1,54 @@
+---
+title: Job 14:2
+type: Verse
+kjv: "He cometh forth like a flower, and is cut down: he fleeth also as a shadow, and continueth not."
+bsb: "Like a flower, he comes forth, then withers away; like a fleeting shadow, he does not endure."
+hebrew: "כְּצִ֣יץ יָ֭צָא וַיִּמָּ֑ל וַיִּבְרַ֥ח כַּ֝צֵּ֗ל וְלֹ֣א יַעֲמֽוֹד׃"
+pericope: "[[Job.14.1 Job Laments the Finality of Death|Job Laments the Finality of Death]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 14
+book/chapter: "[[Job.14|Job 14]]"
+chronological_order: 25
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9004]]"
+- "[[H6731A]]"
+- "[[H3318L]]"
+- "[[H9001]]"
+- "[[H5243A]]"
+- "[[H1272]]"
+- "[[H6738]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5975G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 14:2**<big><big>[[Job.14.1 Job Laments the Finality of Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He cometh forth like a flower, and is cut down: he fleeth also as a shadow, and continueth not.
 <small><sub>**BSB:**</sub></small>
 Like a flower, he comes forth, then withers away; like a fleeting shadow, he does not endure.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּ]][[H6731A\|צִ֣יץ]] [[H3318L\|יָ֭צָא]] [[H9001\|וַ]][[H5243A\|יִּמָּ֑ל]] [[H9001\|וַ]][[H1272\|יִּבְרַ֥ח]] [[H9004\|כַּ֝]][[H6738\|צֵּ֗ל]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H5975G\|יַעֲמֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic LIFE|LIFE]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.14.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.14.1|<< Job 14:1]]</td><td align="center" style="border:none;">[[Job.14|Job 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.14.3|Job 14:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

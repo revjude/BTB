@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Two Paths
+type: Pericope
 pericope: "[[Ps.1.1 The Two Paths|The Two Paths]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 1
 book/chapter: "[[Ps.1|Psalm 1]]"
-genre:
+chronological_order: 337
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 6
 verses:
 - "[[Ps.1.1]]"
 - "[[Ps.1.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Ps.1.6]]"
 ---
 
-[[Ps.1|Psalm 1:1 - Psalm 1:6]]
+<small>[[Ps.1|Psalm 1:1-6]]</small>
 *The Two Paths*
 
 [[Ps.1.1|1]] Blessed \[is\] the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.

@@ -1,8 +1,77 @@
+---
+title: Deuteronomy 2:36
+type: Verse
+kjv: "From Aroer, which is by the brink of the river of Arnon, and from the city that is by the river, even unto Gilead, there was not one city too strong for us: the LORD our God delivered all unto us:"
+bsb: "From Aroer on the rim of the Arnon Valley, along with the city in the valley, even as far as Gilead, not one city had walls too high for us. The LORD our God gave us all of them."
+hebrew: "מֵֽעֲרֹעֵ֡ר אֲשֶׁר֩ עַל־ שְׂפַת־ נַ֨חַל אַרְנֹ֜ן וְהָעִ֨יר אֲשֶׁ֤ר בַּנַּ֙חַל֙ וְעַד־ הַגִּלְעָ֔ד לֹ֤א הָֽיְתָה֙ קִרְיָ֔ה אֲשֶׁ֥ר שָׂגְבָ֖ה מִמֶּ֑נּוּ אֶת־ הַכֹּ֕ל נָתַ֛ן יְהוָ֥ה אֱלֹהֵ֖ינוּ לְפָנֵֽינוּ׃"
+pericope: "[[Deut.2.24 The Defeat of Sihon|The Defeat of Sihon]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 2
+book/chapter: "[[Deut.2|Deuteronomy 2]]"
+chronological_order: 198
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic ARNON|ARNON]]"
+- "[[topic AROER|AROER]]"
+- "[[topic SIHON|SIHON]]"
+strongs:
+- "[[H9006]]"
+- "[[H6177H]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H8193I]]"
+- "[[H5158N]]"
+- "[[H0769]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H9003]]"
+- "[[H5704]]"
+- "[[H1568G]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H7151]]"
+- "[[H7682]]"
+- "[[H4480A]]"
+- "[[H9035]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9005]]"
+- "[[H6440L]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 2:36**<big><big>[[Deut.2.24 The Defeat of Sihon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From Aroer, which [is] by the brink of the river of Arnon, and [from] the city that [is] by the river, even unto Gilead, there was not one city too strong for us: the LORD our God delivered all unto us:
 <small><sub>**BSB:**</sub></small>
 From Aroer on the rim of the Arnon Valley, along with the city in the valley, even as far as Gilead, not one city had walls too high for us. The LORD our God gave us all of them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מֵֽ]][[H6177H\|עֲרֹעֵ֡ר]] [[H0834A\|אֲשֶׁר֩]] [[H5921A\|עַל]][[H9014\|־]] [[H8193I\|שְׂפַת]][[H9014\|־]] [[H5158N\|נַ֨חַל]] [[H0769\|אַרְנֹ֜ן]] [[H9002\|וְ]][[H9009\|הָ]][[H5892B\|עִ֨יר]] [[H0834A\|אֲשֶׁ֤ר]] [[H9003\|בַּ]][[H5158N\|נַּ֙חַל֙]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H1568G\|גִּלְעָ֔ד]] [[H3808\|לֹ֤א]] [[H1961\|הָֽיְתָה֙]] [[H7151\|קִרְיָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H7682\|שָׂגְבָ֖ה]] [[H4480A\|מִמֶּ֑]][[H9035\|נּוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3605\|כֹּ֕ל]] [[H5414G\|נָתַ֛ן]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵ֖י]][[H9025\|נוּ]] [[H9005\|לְ]][[H6440L\|פָנֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic ARNON|ARNON]] • [[topic AROER|AROER]] • [[topic SIHON|SIHON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.35|<< Deuteronomy 2:35]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.37|Deuteronomy 2:37 >>]]</td></tr></table>
 

@@ -1,8 +1,52 @@
+---
+title: Job 14:10
+type: Verse
+kjv: "But man dieth, and wasteth away: yea, man giveth up the ghost, and where is he?"
+bsb: "But a man dies and is laid low; he breathes his last, and where is he?"
+hebrew: "וְגֶ֣בֶר יָ֭מוּת וַֽיֶּחֱלָ֑שׁ וַיִּגְוַ֖ע אָדָ֣ם וְאַיּֽוֹ׃"
+pericope: "[[Job.14.1 Job Laments the Finality of Death|Job Laments the Finality of Death]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 14
+book/chapter: "[[Job.14|Job 14]]"
+chronological_order: 25
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9002]]"
+- "[[H1397]]"
+- "[[H4191]]"
+- "[[H9001]]"
+- "[[H2522]]"
+- "[[H1478]]"
+- "[[H0120G]]"
+- "[[H0335]]"
+- "[[H9043]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 14:10**<big><big>[[Job.14.1 Job Laments the Finality of Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But man dieth, and wasteth away: yea, man giveth up the ghost, and where [is] he?
 <small><sub>**BSB:**</sub></small>
 But a man dies and is laid low; he breathes his last, and where is he?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1397\|גֶ֣בֶר]] [[H4191\|יָ֭מוּת]] [[H9001\|וַֽ]][[H2522\|יֶּחֱלָ֑שׁ]] [[H9001\|וַ]][[H1478\|יִּגְוַ֖ע]] [[H0120G\|אָדָ֣ם]] [[H9002\|וְ]][[H0335\|אַיּֽ]][[H9043\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.14.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.14.9|<< Job 14:9]]</td><td align="center" style="border:none;">[[Job.14|Job 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.14.11|Job 14:11 >>]]</td></tr></table>
 

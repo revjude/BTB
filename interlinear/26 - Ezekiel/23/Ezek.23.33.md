@@ -1,8 +1,58 @@
+---
+title: Ezekiel 23:33
+type: Verse
+kjv: "Thou shalt be filled with drunkenness and sorrow, with the cup of astonishment and desolation, with the cup of thy sister Samaria."
+bsb: "You will be filled with drunkenness and grief, with a cup of devastation and desolation, the cup of your sister Samaria."
+hebrew: "שִׁכָּר֥וֹן וְיָג֖וֹן תִּמָּלֵ֑אִי כּ֚וֹס שַׁמָּ֣ה וּשְׁמָמָ֔ה כּ֖וֹס אֲחוֹתֵ֥ךְ שֹׁמְרֽוֹן׃"
+pericope: "[[Ezek.23.22 Oholibah to Be Plagued|Oholibah to Be Plagued]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 23
+book/chapter: "[[Ezek.23|Ezekiel 23]]"
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CUP|CUP]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H7943]]"
+- "[[H9002]]"
+- "[[H3015]]"
+- "[[H4390]]"
+- "[[H3563A]]"
+- "[[H8047H]]"
+- "[[H8077A]]"
+- "[[H0269]]"
+- "[[H9022]]"
+- "[[H8111]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 23:33**<big><big>[[Ezek.23.22 Oholibah to Be Plagued|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt be filled with drunkenness and sorrow, with the cup of astonishment and desolation, with the cup of thy sister Samaria.
 <small><sub>**BSB:**</sub></small>
 You will be filled with drunkenness and grief, with a cup of devastation and desolation, the cup of your sister Samaria.
+<small><sub>**Hebrew:**</sub></small>
+[[H7943\|שִׁכָּר֥וֹן]] [[H9002\|וְ]][[H3015\|יָג֖וֹן]] [[H4390\|תִּמָּלֵ֑אִי]] [[H3563A\|כּ֚וֹס]] [[H8047H\|שַׁמָּ֣ה]] [[H9002\|וּ]][[H8077A\|שְׁמָמָ֔ה]] [[H3563A\|כּ֖וֹס]] [[H0269\|אֲחוֹתֵ֥]][[H9022\|ךְ]] [[H8111\|שֹׁמְרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CUP|CUP]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.32|<< Ezekiel 23:32]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.34|Ezekiel 23:34 >>]]</td></tr></table>
 

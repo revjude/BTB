@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Call to Holiness
+type: Pericope
 pericope: "[[Heb.12.14 A Call to Holiness|A Call to Holiness]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 12
 book/chapter: "[[Heb.12|Hebrews 12]]"
-genre:
+chronological_order: 1151
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 4
 verses:
 - "[[Heb.12.14]]"
 - "[[Heb.12.15]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Heb.12.17]]"
 ---
 
-[[Heb.12|Hebrews 12:14 - Hebrews 12:17]]
+<small>[[Heb.12|Hebrews 12:14-17]]</small>
 *A Call to Holiness*
 
 [[Heb.12.14|14]] Follow peace with all \[men\], and holiness, without which no man shall see the Lord:

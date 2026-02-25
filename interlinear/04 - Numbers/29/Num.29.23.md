@@ -1,8 +1,61 @@
+---
+title: Numbers 29:23
+type: Verse
+kjv: "And on the fourth day ten bullocks, two rams, and fourteen lambs of the first year without blemish:"
+bsb: "On the fourth day you are to present ten bulls, two rams, and fourteen male lambs a year old, all unblemished,"
+hebrew: "וּבַיּ֧וֹם הָרְבִיעִ֛י פָּרִ֥ים עֲשָׂרָ֖ה אֵילִ֣ם שְׁנָ֑יִם כְּבָשִׂ֧ים בְּנֵֽי־ שָׁנָ֛ה אַרְבָּעָ֥ה עָשָׂ֖ר תְּמִימִֽם׃"
+pericope: "[[Num.29.12 The Feast of Tabernacles|The Feast of Tabernacles]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 29
+book/chapter: "[[Num.29|Numbers 29]]"
+chronological_order: 189
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7243]]"
+- "[[H6499]]"
+- "[[H6235]]"
+- "[[H0352A]]"
+- "[[H8147]]"
+- "[[H3532]]"
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H8141]]"
+- "[[H0702]]"
+- "[[H6240]]"
+- "[[H8549G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 29:23**<big><big>[[Num.29.12 The Feast of Tabernacles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And on the fourth day ten bullocks, two rams, [and] fourteen lambs of the first year without blemish:
 <small><sub>**BSB:**</sub></small>
 On the fourth day you are to present ten bulls, two rams, and fourteen male lambs a year old, all unblemished,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H3117G\|יּ֧וֹם]] [[H9009\|הָ]][[H7243\|רְבִיעִ֛י]] [[H6499\|פָּרִ֥ים]] [[H6235\|עֲשָׂרָ֖ה]] [[H0352A\|אֵילִ֣ם]] [[H8147\|שְׁנָ֑יִם]] [[H3532\|כְּבָשִׂ֧ים]] [[H1121L\|בְּנֵֽי]][[H9014\|־]] [[H8141\|שָׁנָ֛ה]] [[H0702\|אַרְבָּעָ֥ה]] [[H6240\|עָשָׂ֖ר]] [[H8549G\|תְּמִימִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.29.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.29.22|<< Numbers 29:22]]</td><td align="center" style="border:none;">[[Num.29|Numbers 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.29.24|Numbers 29:24 >>]]</td></tr></table>
 

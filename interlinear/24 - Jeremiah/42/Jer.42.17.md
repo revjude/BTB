@@ -1,8 +1,75 @@
+---
+title: Jeremiah 42:17
+type: Verse
+kjv: "So shall it be with all the men that set their faces to go into Egypt to sojourn there; they shall die by the sword, by the famine, and by the pestilence: and none of them shall remain or escape from the evil that I will bring upon them."
+bsb: "So all who resolve to go to Egypt to reside there will die by sword and famine and plague. Not one of them will survive or escape the disaster I will bring upon them.’"
+hebrew: "וְיִֽהְי֣וּ כָל־ הָאֲנָשִׁ֗ים אֲשֶׁר־ שָׂ֨מוּ אֶת־ פְּנֵיהֶ֜ם לָב֤וֹא מִצְרַ֙יִם֙ לָג֣וּר שָׁ֔ם יָמ֕וּתוּ בַּחֶ֖רֶב בָּרָעָ֣ב וּבַדָּ֑בֶר וְלֹֽא־ יִהְיֶ֤ה לָהֶם֙ שָׂרִ֣יד וּפָלִ֔יט מִפְּנֵי֙ הָֽרָעָ֔ה אֲשֶׁ֥ר אֲנִ֖י מֵבִ֥יא עֲלֵיהֶֽם׃ ס"
+pericope: "[[Jer.42.1 A Warning against Going to Egypt|A Warning against Going to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 42
+book/chapter: "[[Jer.42|Jeremiah 42]]"
+chronological_order: 765
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H0834A]]"
+- "[[H7760A]]"
+- "[[H0853]]"
+- "[[H6440H]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H4714G]]"
+- "[[H1481A]]"
+- "[[H8033G]]"
+- "[[H4191]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H7458]]"
+- "[[H1698]]"
+- "[[H3808]]"
+- "[[H9038]]"
+- "[[H8300]]"
+- "[[H6412A]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H7451C]]"
+- "[[H0589]]"
+- "[[H0935P]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 42:17**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So shall it be with all the men that set their faces to go into Egypt to sojourn there; they shall die by the sword, by the famine, and by the pestilence: and none of them shall remain or escape from the evil that I will bring upon them.
 <small><sub>**BSB:**</sub></small>
 So all who resolve to go to Egypt to reside there will die by sword and famine and plague. Not one of them will survive or escape the disaster I will bring upon them.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1961\|יִֽהְי֣וּ]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֗ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7760A\|שָׂ֨מוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H6440H\|פְּנֵי]][[H9028\|הֶ֜ם]] [[H9005\|לָ]][[H0935G\|ב֤וֹא]] [[H4714G\|מִצְרַ֙יִם֙]] [[H9005\|לָ]][[H1481A\|ג֣וּר]] [[H8033G\|שָׁ֔ם]] [[H4191\|יָמ֕וּתוּ]] [[H9003\|בַּ]][[H2719\|חֶ֖רֶב]] [[H9003\|בָּ]][[H7458\|רָעָ֣ב]] [[H9002\|וּ]][[H9003\|בַ]][[H1698\|דָּ֑בֶר]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|יִהְיֶ֤ה]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H8300\|שָׂרִ֣יד]] [[H9002\|וּ]][[H6412A\|פָלִ֔יט]] [[H9006\|מִ]][[H6440G\|פְּנֵי֙]] [[H9009\|הָֽ]][[H7451C\|רָעָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H0589\|אֲנִ֖י]] [[H0935P\|מֵבִ֥יא]] [[H5921A\|עֲלֵי]][[H9038\|הֶֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.16|<< Jeremiah 42:16]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.18|Jeremiah 42:18 >>]]</td></tr></table>
 
@@ -33,7 +100,7 @@ So all who resolve to go to Egypt to reside there will die by sword and famine a
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֖י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will] bring  |**<big>&#8207;[[H0935P\|מֵבִ֥יא]]&#8207; </big>**| me.Vi'<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.16|<< Jeremiah 42:16]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.18|Jeremiah 42:18 >>]]</td></tr></table>
 
 

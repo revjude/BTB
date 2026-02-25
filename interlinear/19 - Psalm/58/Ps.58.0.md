@@ -1,6 +1,43 @@
+---
+title: Psalm 58:0
+type: Verse
+kjv: "To the chief Musician, Altaschith, Michtam of David."
+hebrew: "לַמְנַצֵּ֥חַ אַל־ תַּשְׁחֵ֗ת לְדָוִ֥ד מִכְתָּֽם׃"
+pericope: "[[Ps.58.1 God Judges the Earth|God Judges the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 58
+book/chapter: "[[Ps.58|Psalm 58]]"
+chronological_order: 371
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9005]]"
+- "[[H5329]]"
+- "[[H0516]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H4387]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 58:0**<big><big>[[Ps.58.1 God Judges the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To the chief Musician, Altaschith, Michtam of David.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H5329\|מְנַצֵּ֥חַ]] [[H0516\|אַל]][[H9014\|־]] [[H0516\|תַּשְׁחֵ֗ת]] [[H9005\|לְ]][[H1732\|דָוִ֥ד]] [[H4387\|מִכְתָּֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.58.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.57.11|<< Psalms 57:11]]</td><td align="center" style="border:none;">[[Ps.58|Psalms 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.58.1|Psalms 58:1 >>]]</td></tr></table>
 

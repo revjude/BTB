@@ -1,8 +1,61 @@
+---
+title: Exodus 40:16
+type: Verse
+kjv: "Thus did Moses: according to all that the LORD commanded him, so did he."
+bsb: "Moses did everything just as the LORD had commanded him."
+hebrew: "וַיַּ֖עַשׂ מֹשֶׁ֑ה כְּ֠כֹל אֲשֶׁ֨ר צִוָּ֧ה יְהוָ֛ה אֹת֖וֹ כֵּ֥ן עָשָֽׂה׃ ס"
+pericope: "[[Exod.40.1 Setting Up the Tabernacle|Setting Up the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 40
+book/chapter: "[[Exod.40|Exodus 40]]"
+chronological_order: 132
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic MOSES|MOSES]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H4872]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H3651C]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 40:16**<big><big>[[Exod.40.1 Setting Up the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus did Moses: according to all that the LORD commanded him, so did he.
 <small><sub>**BSB:**</sub></small>
 Moses did everything just as the LORD had commanded him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֖עַשׂ]] [[H4872\|מֹשֶׁ֑ה]] [[H9004\|כְּ֠]][[H3605\|כֹל]] [[H0834A\|אֲשֶׁ֨ר]] [[H6680\|צִוָּ֧ה]] [[H3068G\|יְהוָ֛ה]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H3651C\|כֵּ֥ן]] [[H6213A\|עָשָֽׂה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOSES|MOSES]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PRIEST|PRIEST]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.15|<< Exodus 40:15]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.17|Exodus 40:17 >>]]</td></tr></table>
 
@@ -16,7 +69,7 @@ Moses did everything just as the LORD had commanded him.
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> him  |**<big>&#8207;[[H0853\|אֹת֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | so  |**<big>&#8207;[[H3651C\|כֵּ֥ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he did  |**<big>&#8207;[[H6213A\|עָשָֽׂה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he did  |**<big>&#8207;[[H6213A\|עָשָֽׂה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.15|<< Exodus 40:15]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.17|Exodus 40:17 >>]]</td></tr></table>
 
 

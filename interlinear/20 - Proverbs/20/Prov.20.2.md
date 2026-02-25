@@ -1,8 +1,52 @@
+---
+title: Proverbs 20:2
+type: Verse
+kjv: "The fear of a king is as the roaring of a lion: whoso provoketh him to anger sinneth against his own soul."
+bsb: "The terror of a king is like the roar of a lion; whoever provokes him forfeits his own life."
+hebrew: "נַ֣הַם כַּ֭כְּפִיר אֵ֣ימַת מֶ֑לֶךְ מִ֝תְעַבְּר֗וֹ חוֹטֵ֥א נַפְשֽׁוֹ׃"
+pericope: "[[Prov.20.1 Wine Is a Mocker|Wine Is a Mocker]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 20
+book/chapter: "[[Prov.20|Proverbs 20]]"
+chronological_order: 475
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic LION|LION]]"
+strongs:
+- "[[H5099]]"
+- "[[H9004]]"
+- "[[H3715A]]"
+- "[[H0367]]"
+- "[[H4428G]]"
+- "[[H5674B]]"
+- "[[H9033]]"
+- "[[H2398]]"
+- "[[H5315H]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 20:2**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fear of a king [is] as the roaring of a lion: [whoso] provoketh him to anger sinneth [against] his own soul.
 <small><sub>**BSB:**</sub></small>
 The terror of a king is like the roar of a lion; whoever provokes him forfeits his own life.
+<small><sub>**Hebrew:**</sub></small>
+[[H5099\|נַ֣הַם]] [[H9004\|כַּ֭]][[H3715A\|כְּפִיר]] [[H0367\|אֵ֣ימַת]] [[H4428G\|מֶ֑לֶךְ]] [[H5674B\|מִ֝תְעַבְּר֗]][[H9033\|וֹ]] [[H2398\|חוֹטֵ֥א]] [[H5315H\|נַפְשֽׁ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic LION|LION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.1|<< Proverbs 20:1]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.3|Proverbs 20:3 >>]]</td></tr></table>
 

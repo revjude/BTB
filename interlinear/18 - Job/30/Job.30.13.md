@@ -1,8 +1,47 @@
+---
+title: Job 30:13
+type: Verse
+kjv: "They mar my path, they set forward my calamity, they have no helper."
+bsb: "They tear up my path; they profit from my destruction, with no one to restrain them."
+hebrew: "נָתְס֗וּ נְֽתִיבָ֫תִ֥י לְהַוָּתִ֥י יֹעִ֑ילוּ לֹ֖א עֹזֵ֣ר לָֽמוֹ׃"
+pericope: "[[Job.30.1 Job’s Honor Turned to Contempt|Job’s Honor Turned to Contempt]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 30
+book/chapter: "[[Job.30|Job 30]]"
+chronological_order: 41
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H5420]]"
+- "[[H5410B]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H1942]]"
+- "[[H3276]]"
+- "[[H3808]]"
+- "[[H5826]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 30:13**<big><big>[[Job.30.1 Job’s Honor Turned to Contempt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They mar my path, they set forward my calamity, they have no helper.
 <small><sub>**BSB:**</sub></small>
 They tear up my path; they profit from my destruction, with no one to restrain them.
+<small><sub>**Hebrew:**</sub></small>
+[[H5420\|נָתְס֗וּ]] [[H5410B\|נְֽתִיבָ֫תִ֥]][[H9020\|י]] [[H9005\|לְ]][[H1942\|הַוָּתִ֥]][[H9020\|י]] [[H3276\|יֹעִ֑ילוּ]] [[H3808\|לֹ֖א]] [[H5826\|עֹזֵ֣ר]] [[H9005\|לָֽ]][[H9038\|מוֹ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.12|<< Job 30:12]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.14|Job 30:14 >>]]</td></tr></table>
 

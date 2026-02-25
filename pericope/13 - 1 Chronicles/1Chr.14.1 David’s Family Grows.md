@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David’s Family Grows
+type: Pericope
 pericope: "[[1Chr.14.1 David’s Family Grows|David’s Family Grows]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 14
 book/chapter: "[[1Chr.14|1 Chronicles 14]]"
-genre:
+chronological_order: 395
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 7
 verses:
 - "[[1Chr.14.1]]"
 - "[[1Chr.14.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1Chr.14.7]]"
 ---
 
-[[1Chr.14|1 Chronicles 14:1 - 1 Chronicles 14:7]]
+<small>[[1Chr.14|1 Chronicles 14:1-7]]</small>
 *David’s Family Grows*
 
 [[1Chr.14.1|1]] Now Hiram king of Tyre sent messengers to David, and timber of cedars, with masons and carpenters, to build him an house.

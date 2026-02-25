@@ -1,10 +1,61 @@
+---
+title: Revelation 12:7
+type: Verse
+kjv: "And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels,"
+bsb: "Then a war broke out in heaven: Michael and his angels fought against the dragon, and the dragon and his angels fought back."
+greek: "Καὶ ἐγένετο πόλεμος ἐν τῷ οὐρανῷ· ὁ Μιχαὴλ καὶ οἱ ἄγγελοι αὐτοῦ τοῦ πολεμῆσαι μετὰ τοῦ δράκοντος. καὶ ὁ δράκων ἐπολέμησεν καὶ οἱ ἄγγελοι αὐτοῦ"
+pericope: "[[Rev.12.7 The War in Heaven|The War in Heaven]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 12
+book/chapter: "[[Rev.12|Revelation 12]]"
+chronological_order: 1179
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic MICHAEL|MICHAEL]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G4171]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G3413]]"
+- "[[G0032G]]"
+- "[[G0846]]"
+- "[[G4170]]"
+- "[[G3326]]"
+- "[[G1404]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Revelation 12:7**<big><big>[[Rev.12.7 The War in Heaven|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels,
 <small><sub>**BSB:**</sub></small>
 Then a war broke out in heaven: Michael and his angels fought against the dragon, and the dragon and his angels fought back.
-<small><sub>**Literal:**</sub></small>
-And there was war in <the> heaven: <the> Michael and the angels of him <the> to war against the dragon. and the dragon warred [back] and the angels of him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.6|<< Revelation 12:6]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.8|Revelation 12:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1096\|ἐγένετο]]  [[G4171\|πόλεμος]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3772\|οὐρανῷ·]]  [[G3588\|ὁ]]  [[G3413\|Μιχαὴλ]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0032G\|ἄγγελοι]]  [[G0846\|αὐτοῦ]]  [[G3588\|τοῦ]]  [[G4170\|πολεμῆσαι]]  [[G3326\|μετὰ]]  [[G3588\|τοῦ]]  [[G1404\|δράκοντος.]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G1404\|δράκων]]  [[G4170\|ἐπολέμησεν]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0032G\|ἄγγελοι]]  [[G0846\|αὐτοῦ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic DEMONS|DEMONS]] • [[topic HEAVEN|HEAVEN]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic MICHAEL|MICHAEL]] • [[topic VISION|VISION]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.6|<< Revelation 12:6]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.8|Revelation 12:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 12:7** is...
 > $\quad$ possibly alluding to: [[LXX.Dan.10.13|Dan 10:13]] ☩ [[LXX.Dan.10.21|Dan 10:21]] ☩ [[LXX.Dan.12.1|Dan 12:1]]

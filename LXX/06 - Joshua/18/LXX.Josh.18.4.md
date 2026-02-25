@@ -1,6 +1,64 @@
+---
+title: LXX Joshua 18:4
+type: Verse
+lxx: "Give from out of yours three men from a tribe, and send them; and rising up let them go through the land, and let them diagram it before me! as it shall behoove to divide it. And they came to him."
+greek: "δότε εξ υμών τρεις άνδρας εκ φυλής και αποστελώ αυτούς και αναστάντες διελθέτωσαν την γην και διαγραψάτωσαν αυτήν εναντίον μου καθά δεήσει διελείν αυτήν και ήλθον προς αυτόν"
+original_language: Greek
+testament: Old
+book: Joshua
+chapter: 18
+book/chapter: "[[Josh.18|Joshua 18]]"
+chronological_order: 248
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CHEPHAR-HAAMMONAI|CHEPHAR-HAAMMONAI]]"
+- "[[topic SHILOH|SHILOH]]"
+strongs:
+- "[[G1325]]"
+- "[[G1537]]"
+- "[[G1473]]"
+- "[[G5140]]"
+- "[[G0435]]"
+- "[[G1537]]"
+- "[[G5443]]"
+- "[[G2532]]"
+- "[[G0649]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0450]]"
+- "[[G1330]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G2532]]"
+- "[[G6823]]"
+- "[[G1473]]"
+- "[[G1726]]"
+- "[[G1473]]"
+- "[[G2505]]"
+- "[[G1163]]"
+- "[[G1244]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G1473]]"
+---
+
 **LXX Joshua 18:4** 
 <small><sub>**LXX:**</sub></small>
 Give from out of yours three men from a tribe, and send them; and rising up let them go through the land, and let them diagram it before me! as it shall behoove to divide it. And they came to him. 
+<small><sub>**Greek:**</sub></small>
+[[G1325\|δότε]] [[G1537\|εξ]] [[G1473\|υμών]] [[G5140\|τρεις]] [[G0435\|άνδρας]] [[G1537\|εκ]] [[G5443\|φυλής]] [[G2532\|και]] [[G0649\|αποστελώ]] [[G1473\|αυτούς]] [[G2532\|και]] [[G0450\|αναστάντες]] [[G1330\|διελθέτωσαν]] [[G3588\|την]] [[G1093\|γην]] [[G2532\|και]] [[G6823\|διαγραψάτωσαν]] [[G1473\|αυτήν]] [[G1726\|εναντίον]] [[G1473\|μου]] [[G2505\|καθά]] [[G1163\|δεήσει]] [[G1244\|διελείν]] [[G1473\|αυτήν]] [[G2532\|και]] [[G2064\|ήλθον]] [[G4314\|προς]] [[G1473\|αυτόν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHEPHAR-HAAMMONAI|CHEPHAR-HAAMMONAI]] • [[topic SHILOH|SHILOH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Josh.18.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.3|<< Joshua 18:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.5|Joshua 18:5 >>]]</td></tr></table>
 
@@ -34,6 +92,6 @@ Give from out of yours three men from a tribe, and send them; and rising up let 
 | they came | **<big>[[G2064\|ήλθον]]</big>** |
 | to | **<big>[[G4314\|προς]]</big>** |
 | him. | **<big>[[G1473\|αυτόν]]</big>** |
-[[Josh.18.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.3|<< Joshua 18:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.5|Joshua 18:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.3|<< Joshua 18:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.5|Joshua 18:5 >>]]</td></tr></table>
 
 

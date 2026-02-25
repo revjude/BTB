@@ -1,8 +1,58 @@
+---
+title: Psalm 48:13
+type: Verse
+kjv: "Mark ye well her bulwarks, consider her palaces; that ye may tell it to the generation following."
+bsb: "consider her ramparts, tour her citadels, that you may tell the next generation."
+hebrew: "שִׁ֤יתוּ לִבְּכֶ֨ם׀ לְֽחֵילָ֗ה פַּסְּג֥וּ אַרְמְנוֹתֶ֑יהָ לְמַ֥עַן תְּ֝סַפְּר֗וּ לְד֣וֹר אַחֲרֽוֹן׃"
+pericope: "[[Ps.48.1 Broken Bondage|Broken Bondage]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 48
+book/chapter: "[[Ps.48|Psalm 48]]"
+chronological_order: 503
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BULWARK|BULWARK]]"
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H7896K]]"
+- "[[H3820A]]"
+- "[[H9026]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H2430]]"
+- "[[H9024]]"
+- "[[H6448]]"
+- "[[H0759G]]"
+- "[[H4616]]"
+- "[[H5608A]]"
+- "[[H1755]]"
+- "[[H0314]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 48:13**<big><big>[[Ps.48.1 Broken Bondage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mark ye well her bulwarks, consider her palaces; that ye may tell [it] to the generation following.
 <small><sub>**BSB:**</sub></small>
 consider her ramparts, tour her citadels, that you may tell the next generation.
+<small><sub>**Hebrew:**</sub></small>
+[[H7896K\|שִׁ֤יתוּ]] [[H3820A\|לִבְּ]][[H9026\|כֶ֨ם]][[H9015\|׀]] [[H9005\|לְֽ]][[H2430\|חֵילָ֗]][[H9024\|ה]] [[H6448\|פַּסְּג֥וּ]] [[H0759G\|אַרְמְנוֹתֶ֑י]][[H9024\|הָ]] [[H4616\|לְמַ֥עַן]] [[H5608A\|תְּ֝סַפְּר֗וּ]] [[H9005\|לְ]][[H1755\|ד֣וֹר]] [[H0314\|אַחֲרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BULWARK|BULWARK]] • [[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.48.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.48.12|<< Psalms 48:12]]</td><td align="center" style="border:none;">[[Ps.48|Psalms 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.48.14|Psalms 48:14 >>]]</td></tr></table>
 

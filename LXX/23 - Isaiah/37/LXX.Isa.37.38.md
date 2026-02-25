@@ -1,6 +1,81 @@
+---
+title: LXX Isaiah 37:38
+type: Verse
+lxx: "And while  he did obeisance in the house of Nisroch his god, Adrammelech and Sharezer  his sons struck him with swords; and they came through safe into Armenia. And Esar-haddon his son took reign instead of him."
+greek: "και εν τω αυτόν προσκύνειν εν τω οίκω Ασαράχ θεού αυτού Αδραμελέχ και Σαρασάρ οι υιοί αυτού επάταξαν αυτόν μαχαίραις αυτοί δε διεσώθησαν εις Αρμενίαν και εβασίλευσεν Ασορδάν ο υιός αυτού αντ΄ αυτού"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 37
+book/chapter: "[[Isa.37|Isaiah 37]]"
+chronological_order: 664
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ADRAMMELECH|ADRAMMELECH]]"
+- "[[topic ARARAT|ARARAT]]"
+- "[[topic ARMENIA|ARMENIA]]"
+- "[[topic ASSASSINATION|ASSASSINATION]]"
+- "[[topic ESAR-HADDON (ESARHADDON)|ESAR-HADDON (ESARHADDON)]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic NINEVEH|NINEVEH]]"
+- "[[topic NISROCH|NISROCH]]"
+- "[[topic PARRICIDE|PARRICIDE]]"
+- "[[topic PATRICIDE|PATRICIDE]]"
+- "[[topic REGICIDE|REGICIDE]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic SHAREZER|SHAREZER]]"
+strongs:
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1473]]"
+- "[[G4352]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[H5268]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[H0152]]"
+- "[[G2532]]"
+- "[[H8272]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G1473]]"
+- "[[G3960]]"
+- "[[G1473]]"
+- "[[G3162]]"
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G1295]]"
+- "[[G1519]]"
+- "[[H0780]]"
+- "[[G2532]]"
+- "[[G0936]]"
+- "[[H0634]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G1473]]"
+- "[[G0473]]"
+- "[[G1473]]"
+---
+
 **LXX Isaiah 37:38** 
 <small><sub>**LXX:**</sub></small>
 And while  he did obeisance in the house of Nisroch his god, Adrammelech and Sharezer  his sons struck him with swords; and they came through safe into Armenia. And Esar-haddon his son took reign instead of him. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1722\|εν]] [[G3588\|τω]] [[G1473\|αυτόν]] [[G4352\|προσκύνειν]] [[G1722\|εν]] [[G3588\|τω]] [[G3624\|οίκω]] [[H5268\|Ασαράχ]] [[G2316\|θεού]] [[G1473\|αυτού]] [[H0152\|Αδραμελέχ]] [[G2532\|και]] [[H8272\|Σαρασάρ]] [[G3588\|οι]] [[G5207\|υιοί]] [[G1473\|αυτού]] [[G3960\|επάταξαν]] [[G1473\|αυτόν]] [[G3162\|μαχαίραις]] [[G1473\|αυτοί]] [[G1161\|δε]] [[G1295\|διεσώθησαν]] [[G1519\|εις]] [[H0780\|Αρμενίαν]] [[G2532\|και]] [[G0936\|εβασίλευσεν]] [[H0634\|Ασορδάν]] [[G3588\|ο]] [[G5207\|υιός]] [[G1473\|αυτού]] [[G0473\|αντ΄]] [[G1473\|αυτού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADRAMMELECH|ADRAMMELECH]] • [[topic ARARAT|ARARAT]] • [[topic ARMENIA|ARMENIA]] • [[topic ASSASSINATION|ASSASSINATION]] • [[topic ESAR-HADDON (ESARHADDON)|ESAR-HADDON (ESARHADDON)]] • [[topic HOMICIDE|HOMICIDE]] • [[topic NINEVEH|NINEVEH]] • [[topic NISROCH|NISROCH]] • [[topic PARRICIDE|PARRICIDE]] • [[topic PATRICIDE|PATRICIDE]] • [[topic REGICIDE|REGICIDE]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic SHAREZER|SHAREZER]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.37.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.37|<< Isaiah 37:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.38.1|Isaiah 38:1 >>]]</td></tr></table>
 
@@ -35,6 +110,6 @@ And while  he did obeisance in the house of Nisroch his god, Adrammelech and Sha
 | his son | **<big>[[G5207\|υιός]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 | instead of | **<big>[[G0473\|αντ΄]]</big>** |
 | him. | **<big>[[G1473\|αυτού]]</big>** |
-[[Isa.37.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.37|<< Isaiah 37:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.38.1|Isaiah 38:1 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.37|<< Isaiah 37:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.38.1|Isaiah 38:1 >>]]</td></tr></table>
 
 

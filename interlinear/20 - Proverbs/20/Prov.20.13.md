@@ -1,8 +1,55 @@
+---
+title: Proverbs 20:13
+type: Verse
+kjv: "Love not sleep, lest thou come to poverty; open thine eyes, and thou shalt be satisfied with bread."
+bsb: "Do not love sleep, or you will grow poor; open your eyes, and you will have plenty of food."
+hebrew: "אַל־ תֶּֽאֱהַ֣ב שֵׁ֭נָה פֶּן־ תִּוָּרֵ֑שׁ פְּקַ֖ח עֵינֶ֣יךָ שְֽׂבַֽע־ לָֽחֶם׃"
+pericope: "[[Prov.20.1 Wine Is a Mocker|Wine Is a Mocker]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 20
+book/chapter: "[[Prov.20|Proverbs 20]]"
+chronological_order: 475
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic IDLENESS|IDLENESS]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic POVERTY|POVERTY]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0157G]]"
+- "[[H8142]]"
+- "[[H6435]]"
+- "[[H3423I]]"
+- "[[H6491]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H7646]]"
+- "[[H3899H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 20:13**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Love not sleep, lest thou come to poverty; open thine eyes, [and] thou shalt be satisfied with bread.
 <small><sub>**BSB:**</sub></small>
 Do not love sleep, or you will grow poor; open your eyes, and you will have plenty of food.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H0157G\|תֶּֽאֱהַ֣ב]] [[H8142\|שֵׁ֭נָה]] [[H6435\|פֶּן]][[H9014\|־]] [[H3423I\|תִּוָּרֵ֑שׁ]] [[H6491\|פְּקַ֖ח]] [[H5869A\|עֵינֶ֣י]][[H9021\|ךָ]] [[H7646\|שְֽׂבַֽע]][[H9014\|־]] [[H3899H\|לָֽחֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDLENESS|IDLENESS]] • [[topic INDUSTRY|INDUSTRY]] • [[topic POOR|POOR]] • [[topic POVERTY|POVERTY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.12|<< Proverbs 20:12]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.14|Proverbs 20:14 >>]]</td></tr></table>
 

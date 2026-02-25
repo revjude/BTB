@@ -1,8 +1,57 @@
+---
+title: Psalm 97:9
+type: Verse
+kjv: "For thou, LORD, art high above all the earth: thou art exalted far above all gods."
+bsb: "For You, O LORD, are Most High over all the earth; You are exalted far above all gods."
+hebrew: "כִּֽי־ אַתָּ֤ה יְהוָ֗ה עֶלְי֥וֹן עַל־ כָּל־ הָאָ֑רֶץ מְאֹ֥ד נַ֝עֲלֵ֗יתָ עַל־ כָּל־ אֱלֹהִֽים׃"
+pericope: "[[Ps.97.1 Let the Earth Rejoice|Let the Earth Rejoice]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 97
+book/chapter: "[[Ps.97|Psalm 97]]"
+chronological_order: 524
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H3068G]]"
+- "[[H5945A]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H3966]]"
+- "[[H5927H]]"
+- "[[H0430]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 97:9**<big><big>[[Ps.97.1 Let the Earth Rejoice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou, LORD, [art] high above all the earth: thou art exalted far above all gods.
 <small><sub>**BSB:**</sub></small>
 For You, O LORD, are Most High over all the earth; You are exalted far above all gods.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H0859A\|אַתָּ֤ה]] [[H3068G\|יְהוָ֗ה]] [[H5945A\|עֶלְי֥וֹן]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H3966\|מְאֹ֥ד]] [[H5927H\|נַ֝עֲלֵ֗יתָ]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0430\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.97.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.97.8|<< Psalms 97:8]]</td><td align="center" style="border:none;">[[Ps.97|Psalms 97]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.97.10|Psalms 97:10 >>]]</td></tr></table>
 

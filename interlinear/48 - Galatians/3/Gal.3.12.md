@@ -1,10 +1,58 @@
+---
+title: Galatians 3:12
+type: Verse
+kjv: "And the law is not of faith: but, The man that doeth them shall live in them."
+bsb: "The law, however, is not based on faith; on the contrary, “The man who does these things will live by them.”"
+greek: "ὁ δὲ νόμος οὐκ ἔστιν ἐκ πίστεως ἀλλ᾽ ὁ ποιήσας αὐτὰ ἄνθρωπος ζήσεται ἐν αὐτοῖς.¶"
+pericope: "[[Gal.3.10 Christ Has Redeemed Us|Christ Has Redeemed Us]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 3
+book/chapter: "[[Gal.3|Galatians 3]]"
+chronological_order: 1041
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3551]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G1537]]"
+- "[[G4102G]]"
+- "[[G0235]]"
+- "[[G4160G]]"
+- "[[G0846]]"
+- "[[G0444]]"
+- "[[G2198]]"
+- "[[G1722]]"
+texts:
+- NKO
+- K
+---
+
 **Galatians 3:12**<big><big>[[Gal.3.10 Christ Has Redeemed Us|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the law is not of faith: but, The man that doeth them shall live in them.
 <small><sub>**BSB:**</sub></small>
 The law, however, is not based on faith; on the contrary, “The man who does these things will live by them.”
-<small><sub>**Literal:**</sub></small>
-<the> And the Law not is of faith rather The [one] having done these things man will live by them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.11|<< Galatians 3:11]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.13|Galatians 3:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G3551\|νόμος]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G1537\|ἐκ]]  [[G4102G\|πίστεως]]  [[G0235\|ἀλλ᾽]]  [[G3588\|ὁ]]  [[G4160G\|ποιήσας]]  [[G0846\|αὐτὰ]]  [[G0444\|ἄνθρωπος]]  [[G2198\|ζήσεται]]  [[G1722\|ἐν]]  [[G0846\|αὐτοῖς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic FAITH|FAITH]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.11|<< Galatians 3:11]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.13|Galatians 3:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Galatians 3:12** is...
 > $\quad$ referencing: [[LXX.Lev.18.5|Lev 18:5]]

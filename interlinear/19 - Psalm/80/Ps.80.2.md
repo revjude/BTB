@@ -1,8 +1,61 @@
+---
+title: Psalm 80:2
+type: Verse
+kjv: "Before Ephraim and Benjamin and Manasseh stir up thy strength, and come and save us."
+bsb: "before Ephraim, Benjamin, and Manasseh. Rally Your mighty power and come to save us."
+hebrew: "לִפְנֵ֤י אֶפְרַ֨יִם׀ וּבִנְיָ֘מִ֤ן וּמְנַשֶּׁ֗ה עוֹרְרָ֥ה אֶת־ גְּבֽוּרָתֶ֑ךָ וּלְכָ֖ה לִישֻׁעָ֣תָה לָּֽנוּ׃"
+pericope: "[[Ps.80.1 Hear Us, O Shepherd of Israel|Hear Us, O Shepherd of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 80
+book/chapter: "[[Ps.80|Psalm 80]]"
+chronological_order: 783
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+strongs:
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0669G]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H1144G]]"
+- "[[H4519G]]"
+- "[[H5782]]"
+- "[[H9012]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1369]]"
+- "[[H9021]]"
+- "[[H1980H]]"
+- "[[H3444]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 80:2**<big><big>[[Ps.80.1 Hear Us, O Shepherd of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Before Ephraim and Benjamin and Manasseh stir up thy strength, and come [and] save us.
 <small><sub>**BSB:**</sub></small>
 before Ephraim, Benjamin, and Manasseh. Rally Your mighty power and come to save us.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H6440G\|פְנֵ֤י]] [[H0669G\|אֶפְרַ֨יִם]][[H9015\|׀]] [[H9002\|וּ]][[H1144G\|בִנְיָ֘מִ֤ן]] [[H9002\|וּ]][[H4519G\|מְנַשֶּׁ֗ה]] [[H5782\|עוֹרְרָ֥]][[H9012\|ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1369\|גְּבֽוּרָתֶ֑]][[H9021\|ךָ]] [[H9002\|וּ]][[H1980H\|לְכָ֖]][[H9012\|ה]] [[H9005\|לִ]][[H3444\|ישֻׁעָ֣תָה]] [[H9005\|לָּֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic INTERCESSION|INTERCESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.80.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.80.1|<< Psalms 80:1]]</td><td align="center" style="border:none;">[[Ps.80|Psalms 80]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.80.3|Psalms 80:3 >>]]</td></tr></table>
 

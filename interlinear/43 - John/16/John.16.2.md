@@ -1,10 +1,62 @@
+---
+title: John 16:2
+type: Verse
+kjv: "They shall put you out of the synagogues: yea, the time cometh, that whosoever killeth you will think that he doeth God service."
+bsb: "They will put you out of the synagogues. In fact, a time is coming when anyone who kills you will think he is offering a service to God."
+jesus_said: "They shall put you out of the synagogues: yea, the time cometh, that whosoever killeth you will think that he doeth God service."
+greek: "ἀποσυναγώγους ποιήσουσιν ὑμᾶς· ἀλλ᾽ ἔρχεται ὥρα ἵνα πᾶς ὁ ἀποκτείνας ὑμᾶς δόξῃ λατρείαν προσφέρειν τῷ θεῷ."
+pericope: "[[John.16.1 Persecution Foretold|Persecution Foretold]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 16
+book/chapter: "[[John.16|John 16]]"
+chronological_order: 1004
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0656]]"
+- "[[G4160G]]"
+- "[[G4771]]"
+- "[[G0235]]"
+- "[[G2064]]"
+- "[[G5610]]"
+- "[[G2443]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0615]]"
+- "[[G1380]]"
+- "[[G2999]]"
+- "[[G4374]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **John 16:2**<big><big>[[John.16.1 Persecution Foretold|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 They shall put you out of the synagogues: yea, the time cometh, that whosoever killeth you will think that he doeth God service.
 <small><sub>**BSB:**</sub></small>
 They will put you out of the synagogues. In fact, a time is coming when anyone who kills you will think he is offering a service to God.
-<small><sub>**Literal:**</sub></small>
-Out of the synagogues they will put you; but is coming an hour that everyone who having killed you may think [it is] a service to offer <the> to God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.1|<< John 16:1]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.3|John 16:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0656\|ἀποσυναγώγους]]  [[G4160G\|ποιήσουσιν]]  [[G4771\|ὑμᾶς·]]  [[G0235\|ἀλλ᾽]]  [[G2064\|ἔρχεται]]  [[G5610\|ὥρα]]  [[G2443\|ἵνα]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G0615\|ἀποκτείνας]]  [[G4771\|ὑμᾶς]]  [[G1380\|δόξῃ]]  [[G2999\|λατρείαν]]  [[G4374\|προσφέρειν]]  [[G3588\|τῷ]]  [[G2316\|θεῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic CHURCH|CHURCH]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic IGNORANCE|IGNORANCE]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic TEMPTATION|TEMPTATION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.1|<< John 16:1]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.3|John 16:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

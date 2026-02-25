@@ -1,8 +1,68 @@
+---
+title: Ezekiel 12:2
+type: Verse
+kjv: "Son of man, thou dwellest in the midst of a rebellious house, which have eyes to see, and see not; they have ears to hear, and hear not: for they are a rebellious house."
+bsb: "“Son of man, you are living in a rebellious house. They have eyes to see but do not see, and ears to hear but do not hear, for they are a rebellious house."
+hebrew: "בֶּן־ אָדָ֕ם בְּת֥וֹךְ בֵּית־ הַמֶּ֖רִי אַתָּ֣ה יֹשֵׁ֑ב אֲשֶׁ֣ר עֵינַיִם֩ לָהֶ֨ם לִרְא֜וֹת וְלֹ֣א רָא֗וּ אָזְנַ֨יִם לָהֶ֤ם לִשְׁמֹ֙עַ֙ וְלֹ֣א שָׁמֵ֔עוּ כִּ֛י בֵּ֥ית מְרִ֖י הֵֽם׃"
+pericope: "[[Ezek.12.1 Signs of the Coming Captivity|Signs of the Coming Captivity]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 12
+book/chapter: "[[Ezek.12|Ezekiel 12]]"
+chronological_order: 803
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DEAFNESS|DEAFNESS]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H1004M]]"
+- "[[H9009]]"
+- "[[H4805H]]"
+- "[[H0859A]]"
+- "[[H3427]]"
+- "[[H0834A]]"
+- "[[H5869A]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H7200G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0241G]]"
+- "[[H8085G]]"
+- "[[H3588A]]"
+- "[[H1992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 12:2**<big><big>[[Ezek.12.1 Signs of the Coming Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, thou dwellest in the midst of a rebellious house, which have eyes to see, and see not; they have ears to hear, and hear not: for they [are] a rebellious house.
 <small><sub>**BSB:**</sub></small>
 “Son of man, you are living in a rebellious house. They have eyes to see but do not see, and ears to hear but do not hear, for they are a rebellious house.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֕ם]] [[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H1004M\|בֵּית]][[H9014\|־]] [[H9009\|הַ]][[H4805H\|מֶּ֖רִי]] [[H0859A\|אַתָּ֣ה]] [[H3427\|יֹשֵׁ֑ב]] [[H0834A\|אֲשֶׁ֣ר]] [[H5869A\|עֵינַיִם֩]] [[H9005\|לָ]][[H9038\|הֶ֨ם]] [[H9005\|לִ]][[H7200G\|רְא֜וֹת]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H7200G\|רָא֗וּ]] [[H0241G\|אָזְנַ֨יִם]] [[H9005\|לָ]][[H9038\|הֶ֤ם]] [[H9005\|לִ]][[H8085G\|שְׁמֹ֙עַ֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H8085G\|שָׁמֵ֔עוּ]] [[H3588A\|כִּ֛י]] [[H1004M\|בֵּ֥ית]] [[H4805H\|מְרִ֖י]] [[H1992\|הֵֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic DEAFNESS|DEAFNESS]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.1|<< Ezekiel 12:1]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.3|Ezekiel 12:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

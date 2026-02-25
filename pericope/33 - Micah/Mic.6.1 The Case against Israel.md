@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Case against Israel
+type: Pericope
 pericope: "[[Mic.6.1 The Case against Israel|The Case against Israel]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Micah
 chapter: 6
 book/chapter: "[[Mic.6|Micah 6]]"
-genre:
+chronological_order: 628
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 8
 verses:
 - "[[Mic.6.1]]"
 - "[[Mic.6.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Mic.6.8]]"
 ---
 
-[[Mic.6|Micah 6:1 - Micah 6:8]]
+<small>[[Mic.6|Micah 6:1-8]]</small>
 *The Case against Israel*
 
 [[Mic.6.1|1]] Hear ye now what the LORD saith; Arise, contend thou before the mountains, and let the hills hear thy voice.

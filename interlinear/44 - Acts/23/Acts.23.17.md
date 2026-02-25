@@ -1,10 +1,62 @@
+---
+title: Acts 23:17
+type: Verse
+kjv: "Then Paul called one of the centurions unto him, and said, Bring this young man unto the chief captain: for he hath a certain thing to tell him."
+bsb: "Then Paul called one of the centurions and said, “Take this young man to the commander; he has something to tell him.”"
+greek: "προσκαλεσάμενος δὲ ὁ Παῦλος ἕνα τῶν ἑκατονταρχῶν ἔφη· τὸν νεανίαν τοῦτον ἀπάγαγε πρὸς τὸν χιλίαρχον· ἔχει γὰρ ἀπαγγεῖλαί τι αὐτῷ."
+pericope: "[[Acts.23.12 The Plot to Kill Paul|The Plot to Kill Paul]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 23
+book/chapter: "[[Acts.23|Acts 23]]"
+chronological_order: 1105
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CENTURION|CENTURION]]"
+- "[[topic CHANGE OF VENUE|CHANGE OF VENUE]]"
+- "[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G4341]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G1520]]"
+- "[[G1543]]"
+- "[[G5346]]"
+- "[[G3494]]"
+- "[[G3778]]"
+- "[[G0520]]"
+- "[[G4314]]"
+- "[[G5506]]"
+- "[[G2192]]"
+- "[[G1063]]"
+- "[[G0518]]"
+- "[[G5100]]"
+- "[[G0846]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Acts 23:17**<big><big>[[Acts.23.12 The Plot to Kill Paul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Paul called one of the centurions unto [him], and said, Bring this young man unto the chief captain: for he hath a certain thing to tell him.
 <small><sub>**BSB:**</sub></small>
 Then Paul called one of the centurions and said, “Take this young man to the commander; he has something to tell him.”
-<small><sub>**Literal:**</sub></small>
-Having called to [him] then <the> Paul one of the centurions he was saying; <the> young man this do take to the commander; he has for to report something to him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.16|<< Acts 23:16]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.18|Acts 23:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4341\|προσκαλεσάμενος]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος]]  [[G1520\|ἕνα]]  [[G3588\|τῶν]]  [[G1543\|ἑκατονταρχῶν]]  [[G5346\|ἔφη·]]  [[G3588\|τὸν]]  [[G3494\|νεανίαν]]  [[G3778\|τοῦτον]]  [[G0520\|ἀπάγαγε]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G5506\|χιλίαρχον·]]  [[G2192\|ἔχει]]  [[G1063\|γὰρ]]  [[G0518\|ἀπαγγεῖλαί]]  [[G5100\|τι]]  [[G0846\|αὐτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CENTURION|CENTURION]] • [[topic CHANGE OF VENUE|CHANGE OF VENUE]] • [[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.16|<< Acts 23:16]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.18|Acts 23:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

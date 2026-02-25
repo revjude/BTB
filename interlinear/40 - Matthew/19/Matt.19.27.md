@@ -1,10 +1,57 @@
+---
+title: Matthew 19:27
+type: Verse
+kjv: "Then answered Peter and said unto him, Behold, we have forsaken all, and followed thee; what shall we have therefore?"
+bsb: "“Look,” Peter replied, “we have left everything to follow You. What then will there be for us?”"
+greek: "Τότε ἀποκριθεὶς ὁ Πέτρος εἶπεν αὐτῷ· ἰδοὺ ἡμεῖς ἀφήκαμεν πάντα καὶ ἠκολουθήσαμέν σοι· τί ἄρα ἔσται ἡμῖν;¶"
+pericope: "[[Matt.19.16 The Rich Young Man|The Rich Young Man]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 19
+book/chapter: "[[Matt.19|Matthew 19]]"
+chronological_order: 986
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic RICHES|RICHES]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+strongs:
+- "[[G5119]]"
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G2400]]"
+- "[[G3165]]"
+- "[[G0863G]]"
+- "[[G3956]]"
+- "[[G2532]]"
+- "[[G0190]]"
+- "[[G4771]]"
+- "[[G5101]]"
+- "[[G0686]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **Matthew 19:27**<big><big>[[Matt.19.16 The Rich Young Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then answered Peter and said unto him, Behold, we have forsaken all, and followed thee; what shall we have therefore?
 <small><sub>**BSB:**</sub></small>
 “Look,” Peter replied, “we have left everything to follow You. What then will there be for us?”
-<small><sub>**Literal:**</sub></small>
-Then answering <the> Peter said to Him; Behold we ourselves left all things and we followed You; what then will be to us?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.26|<< Matthew 19:26]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.28|Matthew 19:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G0611\|ἀποκριθεὶς]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G2400\|ἰδοὺ]]  [[G3165\|ἡμεῖς]]  [[G0863G\|ἀφήκαμεν]]  [[G3956\|πάντα]]  [[G2532\|καὶ]]  [[G0190\|ἠκολουθήσαμέν]]  [[G4771\|σοι·]]  [[G5101\|τί]]  [[G0686\|ἄρα]]  [[G1510\|ἔσται]]  [[G3165\|ἡμῖν;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RICHES|RICHES]] • [[topic SELF-DENIAL|SELF-DENIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.26|<< Matthew 19:26]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.28|Matthew 19:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

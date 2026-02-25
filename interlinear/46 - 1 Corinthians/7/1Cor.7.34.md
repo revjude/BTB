@@ -1,10 +1,64 @@
+---
+title: 1 Corinthians 7:34
+type: Verse
+kjv: "There is difference also between a wife and a virgin. The unmarried woman careth for the things of the Lord, that she may be holy both in body and in spirit: but she that is married careth for the things of the world, how she may please her husband."
+bsb: "and his interests are divided. The unmarried woman or virgin is concerned about the work of the Lord, how she can be holy in both body and spirit. But the married woman is concerned about the affairs of this world, how she can please her husband."
+greek: "καὶ μεμέρισται. καὶ ἡ γυνὴ ἡ ἄγαμος καὶ ἡ παρθένος μεριμνᾷ τὰ τοῦ κυρίου, ἵνα ᾖ ἁγία καὶ τῷ σώματι καὶ τῷ πνεύματι· ἡ δὲ γαμήσασα μεριμνᾷ τὰ τοῦ κόσμου, πῶς ἀρέσῃ τῷ ἀνδρί."
+pericope: "[[1Cor.7.25 The Unmarried and Widowed|The Unmarried and Widowed]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 7
+book/chapter: "[[1Cor.7|1 Corinthians 7]]"
+chronological_order: 1064
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CELIBACY|CELIBACY]]"
+- "[[topic MAN|MAN]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3307]]"
+- "[[G3588]]"
+- "[[G1135G]]"
+- "[[G0022]]"
+- "[[G3933]]"
+- "[[G3309]]"
+- "[[G2962G]]"
+- "[[G2443]]"
+- "[[G1510]]"
+- "[[G0040G]]"
+- "[[G4983]]"
+- "[[G4151G]]"
+- "[[G1161]]"
+- "[[G1060]]"
+- "[[G2889]]"
+- "[[G4459]]"
+- "[[G0700]]"
+- "[[G0435H]]"
+texts:
+- no
+- NKO
+- N(k)O
+---
+
 **1 Corinthians 7:34**<big><big>[[1Cor.7.25 The Unmarried and Widowed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 There is difference [also] between a wife and a virgin. The unmarried woman careth for the things of the Lord, that she may be holy both in body and in spirit: but she that is married careth for the things of the world, how she may please [her] husband.
 <small><sub>**BSB:**</sub></small>
 and his interests are divided. The unmarried woman or virgin is concerned about the work of the Lord, how she can be holy in both body and spirit. But the married woman is concerned about the affairs of this world, how she can please her husband.
-<small><sub>**Literal:**</sub></small>
-and has he been divided. And the woman <the> unmarried and <the> virgin cares for the [things] of the Lord, that she may be holy both in body and in the spirit; the [one] however having been married she cares for the [things] of the world, how she may please the husband.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.33|<< 1 Corinthians 7:33]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.35|1 Corinthians 7:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3307\|μεμέρισται.]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1135G\|γυνὴ]]  [[G3588\|ἡ]]  [[G0022\|ἄγαμος]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G3933\|παρθένος]]  [[G3309\|μεριμνᾷ]]  [[G3588\|τὰ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου,]]  [[G2443\|ἵνα]]  [[G1510\|ᾖ]]  [[G0040G\|ἁγία]]  [[G2532\|καὶ]]  [[G3588\|τῷ]]  [[G4983\|σώματι]]  [[G2532\|καὶ]]  [[G3588\|τῷ]]  [[G4151G\|πνεύματι·]]  [[G3588\|ἡ]]  [[G1161\|δὲ]]  [[G1060\|γαμήσασα]]  [[G3309\|μεριμνᾷ]]  [[G3588\|τὰ]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου,]]  [[G4459\|πῶς]]  [[G0700\|ἀρέσῃ]]  [[G3588\|τῷ]]  [[G0435H\|ἀνδρί.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CELIBACY|CELIBACY]] • [[topic MAN|MAN]] • [[topic MARRIAGE|MARRIAGE]] • [[topic WIFE|WIFE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.33|<< 1 Corinthians 7:33]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.35|1 Corinthians 7:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

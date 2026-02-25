@@ -1,8 +1,69 @@
+---
+title: Judges 16:11
+type: Verse
+kjv: "And he said unto her, If they bind me fast with new ropes that never were occupied, then shall I be weak, and be as another man."
+bsb: "He replied, “If they tie me up with new ropes that have never been used, I will become as weak as any other man.”"
+hebrew: "וַיֹּ֣אמֶר אֵלֶ֔יהָ אִם־ אָס֤וֹר יַאַסְר֙וּנִי֙ בַּעֲבֹתִ֣ים חֲדָשִׁ֔ים אֲשֶׁ֛ר לֹֽא־ נַעֲשָׂ֥ה בָהֶ֖ם מְלָאכָ֑ה וְחָלִ֥יתִי וְהָיִ֖יתִי כְּאַחַ֥ד הָאָדָֽם׃"
+pericope: "[[Judg.16.4 Samson and Delilah|Samson and Delilah]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 16
+book/chapter: "[[Judg.16|Judges 16]]"
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ART|ART]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DELILAH|DELILAH]]"
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H0631]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H5688]]"
+- "[[H2319H]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H9038]]"
+- "[[H4399]]"
+- "[[H2470A]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0259]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 16:11**<big><big>[[Judg.16.4 Samson and Delilah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto her, If they bind me fast with new ropes that never were occupied, then shall I be weak, and be as another man.
 <small><sub>**BSB:**</sub></small>
 He replied, “If they tie me up with new ropes that have never been used, I will become as weak as any other man.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלֶ֔י]][[H9034\|הָ]] [[H0518A\|אִם]][[H9014\|־]] [[H0631\|אָס֤וֹר]] [[H0631\|יַאַסְר֙וּ]][[H9030\|נִי֙]] [[H9003\|בַּ]][[H5688\|עֲבֹתִ֣ים]] [[H2319H\|חֲדָשִׁ֔ים]] [[H0834A\|אֲשֶׁ֛ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H6213A\|נַעֲשָׂ֥ה]] [[H9003\|בָ]][[H9038\|הֶ֖ם]] [[H4399\|מְלָאכָ֑ה]] [[H9001\|וְ]][[H2470A\|חָלִ֥יתִי]] [[H9001\|וְ]][[H1961\|הָיִ֖יתִי]] [[H9004\|כְּ]][[H0259\|אַחַ֥ד]] [[H9009\|הָ]][[H0120G\|אָדָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DECEPTION|DECEPTION]] • [[topic DELILAH|DELILAH]] • [[topic FRIENDS|FRIENDS]] • [[topic SAMSON|SAMSON]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.10|<< Judges 16:10]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.12|Judges 16:12 >>]]</td></tr></table>
 

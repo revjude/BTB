@@ -19,13 +19,13 @@
 
 → Past deliverances [[Judg.8.34|Jud 8:34]]; [[Ps.78.42|Ps 78:42]]
 
-→ Power to deliver [[Isa.51.13|Isa 51:13]]-[[Isa.51.15|15]]
+→ Power to deliver [[Isa.51.13|Isa 51:13-15]]
 
 → Encouraged by false teachers [[Jer.23.27|Jer 23:27]]
 
-→ Prosperity leads to [[Deut.8.12|De 8:12]]-[[Deut.8.14|14]]; [[Hos.13.6|Ho 13:6]]
+→ Prosperity leads to [[Deut.8.12|De 8:12-14]]; [[Hos.13.6|Ho 13:6]]
 
-→ Trials should not lead to [[Ps.44.17|Ps 44:17]]-[[Ps.44.20|20]]
+→ Trials should not lead to [[Ps.44.17|Ps 44:17-20]]
 
 → Resolve against [[Ps.119.16|Ps 119:16]],[[Ps.119.93|93]]
 

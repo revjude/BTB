@@ -1,10 +1,72 @@
+---
+title: John 16:13
+type: Verse
+kjv: "Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, that shall he speak: and he will shew you things to come."
+bsb: "However, when the Spirit of truth comes, He will guide you into all truth. For He will not speak on His own, but He will speak what He hears, and He will declare to you what is to come."
+jesus_said: "Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, that shall he speak: and he will shew you things to come."
+greek: "ὅταν δὲ ἔλθῃ ἐκεῖνος, τὸ πνεῦμα τῆς ἀληθείας, ὁδηγήσει ὑμᾶς ἐν τῇ ἀληθείᾳ πάσῃ. οὐ γὰρ λαλήσει ἀφ᾽ ἑαυτοῦ, ἀλλ᾽ ὅσα ἂν ἀκούσει λαλήσει καὶ τὰ ἐρχόμενα ἀναγγελεῖ ὑμῖν."
+pericope: "[[John.16.5 The Promise of the Holy Spirit|The Promise of the Holy Spirit]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 16
+book/chapter: "[[John.16|John 16]]"
+chronological_order: 1004
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TRINITY|TRINITY]]"
+- "[[topic TRUTH|TRUTH]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3752]]"
+- "[[G1161]]"
+- "[[G2064]]"
+- "[[G1565]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G0225]]"
+- "[[G3594]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G2980]]"
+- "[[G0575]]"
+- "[[G1438]]"
+- "[[G0235]]"
+- "[[G3745]]"
+- "[[G0302]]"
+- "[[G0191]]"
+- "[[G2532]]"
+- "[[G0312]]"
+texts:
+- NKO
+- N(k)O
+- k
+- N(k)(o)
+---
+
 **John 16:13**<big><big>[[John.16.5 The Promise of the Holy Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, [that] shall he speak: and he will shew you things to come.
 <small><sub>**BSB:**</sub></small>
 However, when the Spirit of truth comes, He will guide you into all truth. For He will not speak on His own, but He will speak what He hears, and He will declare to you what is to come.
-<small><sub>**Literal:**</sub></small>
-When however may come He, the Spirit <the> of truth, He will guide you into the truth all. not for He will speak from Himself, but as much as maybe He will hear He will speak and the [things] coming He will declare to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.12|<< John 16:12]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.14|John 16:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3752\|ὅταν]]  [[G1161\|δὲ]]  [[G2064\|ἔλθῃ]]  [[G1565\|ἐκεῖνος,]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τῆς]]  [[G0225\|ἀληθείας,]]  [[G3594\|ὁδηγήσει]]  [[G4771\|ὑμᾶς]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0225\|ἀληθείᾳ]]  [[G3956\|πάσῃ.]]  [[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G2980\|λαλήσει]]  [[G0575\|ἀφ᾽]]  [[G1438\|ἑαυτοῦ,]]  [[G0235\|ἀλλ᾽]]  [[G3745\|ὅσα]]  [[G0302\|ἂν]]  [[G0191\|ἀκούσει]]  [[G2980\|λαλήσει]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G2064\|ἐρχόμενα]]  [[G0312\|ἀναγγελεῖ]]  [[G4771\|ὑμῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TRINITY|TRINITY]] • [[topic TRUTH|TRUTH]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.12|<< John 16:12]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.14|John 16:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

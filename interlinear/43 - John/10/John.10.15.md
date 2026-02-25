@@ -1,10 +1,57 @@
+---
+title: John 10:15
+type: Verse
+kjv: "As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep."
+bsb: "just as the Father knows Me and I know the Father. And I lay down My life for the sheep."
+jesus_said: "As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep."
+greek: "καθὼς γινώσκει με ὁ πατὴρ κἀγὼ κἀγὼ γινώσκω τὸν πατέρα, καὶ τὴν ψυχήν μου τίθημι ὑπὲρ τῶν προβάτων."
+pericope: "[[John.10.1 Jesus the Good Shepherd|Jesus the Good Shepherd]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 10
+book/chapter: "[[John.10|John 10]]"
+chronological_order: 984
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+- "[[topic SUFFERING|SUFFERING]]"
+strongs:
+- "[[G2531]]"
+- "[[G1097]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G5590H]]"
+- "[[G5087]]"
+- "[[G5228]]"
+- "[[G4263]]"
+texts:
+- NKO
+---
+
 **John 10:15**<big><big>[[John.10.1 Jesus the Good Shepherd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep.
 <small><sub>**BSB:**</sub></small>
 just as the Father knows Me and I know the Father. And I lay down My life for the sheep.
-<small><sub>**Literal:**</sub></small>
-Even as knows Me the Father I myself also know the Father, and the life of Mine I lay down for the sheep.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.14|<< John 10:14]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.16|John 10:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2531\|καθὼς]]  [[G1097\|γινώσκει]]  [[G3165\|με]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G1097\|γινώσκω]]  [[G3588\|τὸν]]  [[G3962\|πατέρα,]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G5590H\|ψυχήν]]  [[G3165\|μου]]  [[G5087\|τίθημι]]  [[G5228\|ὑπὲρ]]  [[G3588\|τῶν]]  [[G4263\|προβάτων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SHEEP|SHEEP]] • [[topic SHEPHERD|SHEPHERD]] • [[topic SUFFERING|SUFFERING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.14|<< John 10:14]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.16|John 10:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

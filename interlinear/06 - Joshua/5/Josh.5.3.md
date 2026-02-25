@@ -1,8 +1,59 @@
+---
+title: Joshua 5:3
+type: Verse
+kjv: "And Joshua made him sharp knives, and circumcised the children of Israel at the hill of the foreskins."
+bsb: "So Joshua made flint knives and circumcised the sons of Israel at Gibeath-haaraloth."
+hebrew: "וַיַּעַשׂ־ ל֥וֹ יְהוֹשֻׁ֖עַ חַֽרְב֣וֹת צֻרִ֑ים וַיָּ֙מָל֙ אֶת־ בְּנֵ֣י יִשְׂרָאֵ֔ל אֶל־ גִּבְעַ֖ת הָעֲרָלֽוֹת׃"
+pericope: "[[Josh.5.1 The Circumcision and Passover at Gilgal|The Circumcision and Passover at Gilgal]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 5
+book/chapter: "[[Josh.5|Joshua 5]]"
+chronological_order: 235
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3091G]]"
+- "[[H2719]]"
+- "[[H6697H]]"
+- "[[H4135A]]"
+- "[[H0853]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0413]]"
+- "[[H1389H]]"
+- "[[H9009]]"
+- "[[H6190G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 5:3**<big><big>[[Josh.5.1 The Circumcision and Passover at Gilgal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua made him sharp knives, and circumcised the children of Israel at the hill of the foreskins.
 <small><sub>**BSB:**</sub></small>
 So Joshua made flint knives and circumcised the sons of Israel at Gibeath-haaraloth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּעַשׂ]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H3091G\|יְהוֹשֻׁ֖עַ]] [[H2719\|חַֽרְב֣וֹת]] [[H6697H\|צֻרִ֑ים]] [[H9001\|וַ]][[H4135A\|יָּ֙מָל֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0413\|אֶל]][[H9014\|־]] [[H1389H\|גִּבְעַ֖ת]] [[H9009\|הָ]][[H6190G\|עֲרָלֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIRCUMCISION|CIRCUMCISION]] • [[topic GILGAL|GILGAL]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.5.2|<< Joshua 5:2]]</td><td align="center" style="border:none;">[[Josh.5|Joshua 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.5.4|Joshua 5:4 >>]]</td></tr></table>
 

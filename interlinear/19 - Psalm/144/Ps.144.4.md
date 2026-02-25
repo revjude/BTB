@@ -1,8 +1,57 @@
+---
+title: Psalm 144:4
+type: Verse
+kjv: "Man is like to vanity: his days are as a shadow that passeth away."
+bsb: "Man is like a breath; his days are like a passing shadow."
+hebrew: "אָ֭דָם לַהֶ֣בֶל דָּמָ֑ה יָ֝מָ֗יו כְּצֵ֣ל עוֹבֵֽר׃"
+pericope: "[[Ps.144.1 Blessed Be the LORD, My Rock|Blessed Be the LORD, My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 144
+book/chapter: "[[Ps.144|Psalm 144]]"
+chronological_order: 390
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MAN|MAN]]"
+- "[[topic VANITY|VANITY]]"
+strongs:
+- "[[H0120G]]"
+- "[[H9005]]"
+- "[[H1892]]"
+- "[[H1819]]"
+- "[[H3117G]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H6738]]"
+- "[[H5674A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 144:4**<big><big>[[Ps.144.1 Blessed Be the LORD, My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Man is like to vanity: his days [are] as a shadow that passeth away.
 <small><sub>**BSB:**</sub></small>
 Man is like a breath; his days are like a passing shadow.
+<small><sub>**Hebrew:**</sub></small>
+[[H0120G\|אָ֭דָם]] [[H9005\|לַ]][[H1892\|הֶ֣בֶל]] [[H1819\|דָּמָ֑ה]] [[H3117G\|יָ֝מָ֗י]][[H9023\|ו]] [[H9004\|כְּ]][[H6738\|צֵ֣ל]] [[H5674A\|עוֹבֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic HUMILITY|HUMILITY]] • [[topic LIFE|LIFE]] • [[topic MAN|MAN]] • [[topic VANITY|VANITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.144.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.144.3|<< Psalms 144:3]]</td><td align="center" style="border:none;">[[Ps.144|Psalms 144]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.144.5|Psalms 144:5 >>]]</td></tr></table>
 

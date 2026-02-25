@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saul’s Victories
+type: Pericope
 pericope: "[[1Sam.14.47 Saul’s Victories|Saul’s Victories]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 14
 book/chapter: "[[1Sam.14|1 Samuel 14]]"
-genre:
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 6
 verses:
 - "[[1Sam.14.47]]"
 - "[[1Sam.14.48]]"
@@ -24,7 +31,7 @@ verses:
 - "[[1Sam.14.52]]"
 ---
 
-[[1Sam.14|1 Samuel 14:47 - 1 Samuel 14:52]]
+<small>[[1Sam.14|1 Samuel 14:47-52]]</small>
 *Saul’s Victories*
 
 [[1Sam.14.47|47]] So Saul took the kingdom over Israel, and fought against all his enemies on every side, against Moab, and against the children of Ammon, and against Edom, and against the kings of Zobah, and against the Philistines: and whithersoever he turned himself, he vexed \[them\].

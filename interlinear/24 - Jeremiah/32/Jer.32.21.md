@@ -1,8 +1,66 @@
+---
+title: Jeremiah 32:21
+type: Verse
+kjv: "And hast brought forth thy people Israel out of the land of Egypt with signs, and with wonders, and with a strong hand, and with a stretched out arm, and with great terror;"
+bsb: "You brought Your people Israel out of the land of Egypt with signs and wonders, with a strong hand and an outstretched arm, and with great terror."
+hebrew: "וַתֹּצֵ֛א אֶת־ עַמְּךָ֥ אֶת־ יִשְׂרָאֵ֖ל מֵאֶ֣רֶץ מִצְרָ֑יִם בְּאֹת֣וֹת וּבְמוֹפְתִ֗ים וּבְיָ֤ד חֲזָקָה֙ וּבְאֶזְר֣וֹעַ נְטוּיָ֔ה וּבְמוֹרָ֖א גָּדֽוֹל׃"
+pericope: "[[Jer.32.16 Jeremiah Prays for Understanding|Jeremiah Prays for Understanding]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 32
+book/chapter: "[[Jer.32|Jeremiah 32]]"
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9003]]"
+- "[[H0226G]]"
+- "[[H9002]]"
+- "[[H4159]]"
+- "[[H3027H]]"
+- "[[H2389]]"
+- "[[H0248]]"
+- "[[H5186]]"
+- "[[H4172A]]"
+- "[[H1419A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 32:21**<big><big>[[Jer.32.16 Jeremiah Prays for Understanding|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And hast brought forth thy people Israel out of the land of Egypt with signs, and with wonders, and with a strong hand, and with a stretched out arm, and with great terror;
 <small><sub>**BSB:**</sub></small>
 You brought Your people Israel out of the land of Egypt with signs and wonders, with a strong hand and an outstretched arm, and with great terror.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318H\|תֹּצֵ֛א]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמְּ]][[H9021\|ךָ֥]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H9003\|בְּ]][[H0226G\|אֹת֣וֹת]] [[H9002\|וּ]][[H9003\|בְ]][[H4159\|מוֹפְתִ֗ים]] [[H9002\|וּ]][[H9003\|בְ]][[H3027H\|יָ֤ד]] [[H2389\|חֲזָקָה֙]] [[H9002\|וּ]][[H9003\|בְ]][[H0248\|אֶזְר֣וֹעַ]] [[H5186\|נְטוּיָ֔ה]] [[H9002\|וּ]][[H9003\|בְ]][[H4172A\|מוֹרָ֖א]] [[H1419A\|גָּדֽוֹל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic JEREMIAH|JEREMIAH]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.20|<< Jeremiah 32:20]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.22|Jeremiah 32:22 >>]]</td></tr></table>
 

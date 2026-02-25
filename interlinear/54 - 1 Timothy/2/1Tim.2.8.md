@@ -1,10 +1,61 @@
+---
+title: 1 Timothy 2:8
+type: Verse
+kjv: "I will therefore that men pray every where, lifting up holy hands, without wrath and doubting."
+bsb: "Therefore I want the men everywhere to pray, lifting up holy hands, without anger or dissension."
+greek: "Βούλομαι οὖν προσεύχεσθαι τοὺς ἄνδρας ἐν παντὶ τόπῳ ἐπαίροντας ὁσίους χεῖρας χωρὶς ὀργῆς καὶ διαλογισμοῦ·"
+pericope: "[[1Tim.2.1 A Call to Prayer|A Call to Prayer]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 2
+book/chapter: "[[1Tim.2|1 Timothy 2]]"
+chronological_order: 1127
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G1014]]"
+- "[[G3767]]"
+- "[[G4336]]"
+- "[[G3588]]"
+- "[[G0435G]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G5117]]"
+- "[[G1869]]"
+- "[[G3741]]"
+- "[[G5495]]"
+- "[[G5565]]"
+- "[[G3709]]"
+- "[[G2532]]"
+- "[[G1261]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **1 Timothy 2:8**<big><big>[[1Tim.2.1 A Call to Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I will therefore that men pray every where, lifting up holy hands, without wrath and doubting.
 <small><sub>**BSB:**</sub></small>
 Therefore I want the men everywhere to pray, lifting up holy hands, without anger or dissension.
-<small><sub>**Literal:**</sub></small>
-I desire therefore to pray the men in every place lifting up holy hands apart from anger and dissension;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.2.7|<< 1 Timothy 2:7]]</td><td align="center" style="border:none;">[[1Tim.2|1 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.2.9|1 Timothy 2:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1014\|Βούλομαι]]  [[G3767\|οὖν]]  [[G4336\|προσεύχεσθαι]]  [[G3588\|τοὺς]]  [[G0435G\|ἄνδρας]]  [[G1722\|ἐν]]  [[G3956\|παντὶ]]  [[G5117\|τόπῳ]]  [[G1869\|ἐπαίροντας]]  [[G3741\|ὁσίους]]  [[G5495\|χεῖρας]]  [[G5565\|χωρὶς]]  [[G3709\|ὀργῆς]]  [[G2532\|καὶ]]  [[G1261\|διαλογισμοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRAYER|PRAYER]] • [[topic STRIFE|STRIFE]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.2.7|<< 1 Timothy 2:7]]</td><td align="center" style="border:none;">[[1Tim.2|1 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.2.9|1 Timothy 2:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

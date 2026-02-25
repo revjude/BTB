@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Elijah Flees from Jezebel
+type: Pericope
 pericope: "[[1Kgs.19.1 Elijah Flees from Jezebel|Elijah Flees from Jezebel]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 19
 book/chapter: "[[1Kgs.19|1 Kings 19]]"
-genre:
+chronological_order: 565
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 8
 verses:
 - "[[1Kgs.19.1]]"
 - "[[1Kgs.19.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Kgs.19.8]]"
 ---
 
-[[1Kgs.19|1 Kings 19:1 - 1 Kings 19:8]]
+<small>[[1Kgs.19|1 Kings 19:1-8]]</small>
 *Elijah Flees from Jezebel*
 
 [[1Kgs.19.1|1]] And Ahab told Jezebel all that Elijah had done, and withal how he had slain all the prophets with the sword.

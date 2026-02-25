@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Manasseh’s Idolatries Rebuked
+type: Pericope
 pericope: "[[2Kgs.21.10 Manasseh’s Idolatries Rebuked|Manasseh’s Idolatries Rebuked]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 21
 book/chapter: "[[2Kgs.21|2 Kings 21]]"
-genre:
+chronological_order: 706
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 9
 verses:
 - "[[2Kgs.21.10]]"
 - "[[2Kgs.21.11]]"
@@ -27,7 +34,7 @@ verses:
 - "[[2Kgs.21.18]]"
 ---
 
-[[2Kgs.21|2 Kings 21:10 - 2 Kings 21:18]]
+<small>[[2Kgs.21|2 Kings 21:10-18]]</small>
 *Manasseh’s Idolatries Rebuked*
 
 [[2Kgs.21.10|10]] And the LORD spake by his servants the prophets, saying,

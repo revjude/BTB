@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Lord’s Approved Workman
+type: Pericope
 pericope: "[[2Tim.2.14 The Lord’s Approved Workman|The Lord’s Approved Workman]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: 2 Timothy
 chapter: 2
 book/chapter: "[[2Tim.2|2 Timothy 2]]"
-genre:
+chronological_order: 1154
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - testament letter
+verse_count: 13
 verses:
 - "[[2Tim.2.14]]"
 - "[[2Tim.2.15]]"
@@ -31,7 +38,7 @@ verses:
 - "[[2Tim.2.26]]"
 ---
 
-[[2Tim.2|2 Timothy 2:14 - 2 Timothy 2:26]]
+<small>[[2Tim.2|2 Timothy 2:14-26]]</small>
 *The Lord’s Approved Workman*
 
 [[2Tim.2.14|14]] Of these things put \[them\] in remembrance, charging \[them\] before the Lord that they strive not about words to no profit, \[but\] to the subverting of the hearers.

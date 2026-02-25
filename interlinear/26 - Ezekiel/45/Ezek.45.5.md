@@ -1,8 +1,62 @@
+---
+title: Ezekiel 45:5
+type: Verse
+kjv: "And the five and twenty thousand of length, and the ten thousand of breadth, shall also the Levites, the ministers of the house, have for themselves, for a possession for twenty chambers."
+bsb: "An adjacent area 25,000 cubits long and 10,000 cubits wide shall belong to the Levites who minister in the temple; it will be their possession for towns in which to live."
+hebrew: "וַחֲמִשָּׁ֨ה וְעֶשְׂרִ֥ים אֶ֙לֶף֙ אֹ֔רֶךְ וַעֲשֶׂ֥רֶת אֲלָפִ֖ים רֹ֑חַב וְֽהָיָ֡ה לַלְוִיִּם֩ מְשָׁרְתֵ֨י הַבַּ֧יִת לָהֶ֛ם לַאֲחֻזָּ֖ה עֶשְׂרִ֥ים לְשָׁכֹֽת׃"
+pericope: "[[Ezek.45.1 Consecration of the Land|Consecration of the Land]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 45
+book/chapter: "[[Ezek.45|Ezekiel 45]]"
+chronological_order: 836
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H2568]]"
+- "[[H6242]]"
+- "[[H0505G]]"
+- "[[H0753]]"
+- "[[H6235]]"
+- "[[H7341]]"
+- "[[H1961]]"
+- "[[H9001]]"
+- "[[H9005]]"
+- "[[H3881]]"
+- "[[H8334]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H9038]]"
+- "[[H0272]]"
+- "[[H3957]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 45:5**<big><big>[[Ezek.45.1 Consecration of the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the five and twenty thousand of length, and the ten thousand of breadth, shall also the Levites, the ministers of the house, have for themselves, for a possession for twenty chambers.
 <small><sub>**BSB:**</sub></small>
 An adjacent area 25,000 cubits long and 10,000 cubits wide shall belong to the Levites who minister in the temple; it will be their possession for towns in which to live.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H2568\|חֲמִשָּׁ֨ה]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֥ים]] [[H0505G\|אֶ֙לֶף֙]] [[H0753\|אֹ֔רֶךְ]] [[H9002\|וַ]][[H6235\|עֲשֶׂ֥רֶת]] [[H0505G\|אֲלָפִ֖ים]] [[H7341\|רֹ֑חַב]] [[H9001\|וְֽ]][[H1961\|הָיָ֡ה]] [[H9005\|לַ]][[H3881\|לְוִיִּם֩]] [[H8334\|מְשָׁרְתֵ֨י]] [[H9009\|הַ]][[H1004B\|בַּ֧יִת]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H9005\|לַ]][[H0272\|אֲחֻזָּ֖ה]] [[H6242\|עֶשְׂרִ֥ים]] [[H3957\|לְשָׁכֹֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.4|<< Ezekiel 45:4]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.6|Ezekiel 45:6 >>]]</td></tr></table>
 

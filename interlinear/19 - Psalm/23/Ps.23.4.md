@@ -1,8 +1,68 @@
+---
+title: Psalm 23:4
+type: Verse
+kjv: "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me."
+bsb: "Even though I walk through the valley of the shadow of death, I will fear no evil, for You are with me; Your rod and Your staff, they comfort me."
+hebrew: "גַּ֤ם כִּֽי־ אֵלֵ֨ךְ בְּגֵ֪יא צַלְמָ֡וֶת לֹא־ אִ֘ירָ֤א רָ֗ע כִּי־ אַתָּ֥ה עִמָּדִ֑י שִׁבְטְךָ֥ וּ֝מִשְׁעַנְתֶּ֗ךָ הֵ֣מָּה יְנַֽחֲמֻֽנִי׃"
+pericope: "[[Ps.23.1 The LORD Is My Shepherd|The LORD Is My Shepherd]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 23
+book/chapter: "[[Ps.23|Psalm 23]]"
+chronological_order: 356
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[H1571]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H1516R]]"
+- "[[H6757]]"
+- "[[H3808]]"
+- "[[H3372G]]"
+- "[[H7451B]]"
+- "[[H0859A]]"
+- "[[H5978]]"
+- "[[H9030]]"
+- "[[H7626G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H4938B]]"
+- "[[H1992]]"
+- "[[H5162G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 23:4**<big><big>[[Ps.23.1 The LORD Is My Shepherd|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou [art] with me; thy rod and thy staff they comfort me.
 <small><sub>**BSB:**</sub></small>
 Even though I walk through the valley of the shadow of death, I will fear no evil, for You are with me; Your rod and Your staff, they comfort me.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּ֤ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1980I\|אֵלֵ֨ךְ]] [[H9003\|בְּ]][[H1516R\|גֵ֪יא]] [[H6757\|צַלְמָ֡וֶת]] [[H3808\|לֹא]][[H9014\|־]] [[H3372G\|אִ֘ירָ֤א]] [[H7451B\|רָ֗ע]] [[H3588A\|כִּי]][[H9014\|־]] [[H0859A\|אַתָּ֥ה]] [[H5978\|עִמָּדִ֑]][[H9030\|י]] [[H7626G\|שִׁבְטְ]][[H9021\|ךָ֥]] [[H9002\|וּ֝]][[H4938B\|מִשְׁעַנְתֶּ֗]][[H9021\|ךָ]] [[H1992\|הֵ֣מָּה]] [[H5162G\|יְנַֽחֲמֻֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ASSURANCE|ASSURANCE]] • [[topic DEATH|DEATH]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic TESTIMONY|TESTIMONY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.23.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.23.3|<< Psalms 23:3]]</td><td align="center" style="border:none;">[[Ps.23|Psalms 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.23.5|Psalms 23:5 >>]]</td></tr></table>
 

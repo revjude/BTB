@@ -1,10 +1,67 @@
+---
+title: Luke 24:19
+type: Verse
+kjv: "And he said unto them, What things? And they said unto him, Concerning Jesus of Nazareth, which was a prophet mighty in deed and word before God and all the people:"
+bsb: "“What things?” He asked. “The events involving Jesus of Nazareth,” they answered. “This man was a prophet, powerful in speech and action before God and all the people."
+jesus_said: "What things?"
+greek: "καὶ εἶπεν αὐτοῖς· ποῖα; οἱ δὲ εἶπαν αὐτῷ· τὰ περὶ Ἰησοῦ τοῦ Ναζαρηνοῦ, ὃς ἐγένετο ἀνὴρ προφήτης δυνατὸς ἐν ἔργῳ καὶ λόγῳ ἐναντίον τοῦ θεοῦ καὶ παντὸς τοῦ λαοῦ,"
+pericope: "[[Luke.24.13 The Road to Emmaus|The Road to Emmaus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic NAZARETH|NAZARETH]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G4169]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4012]]"
+- "[[G2424G]]"
+- "[[G3479]]"
+- "[[G3739]]"
+- "[[G1096]]"
+- "[[G0435G]]"
+- "[[G4396]]"
+- "[[G1415]]"
+- "[[G1722]]"
+- "[[G2041]]"
+- "[[G3056]]"
+- "[[G1726]]"
+- "[[G2316]]"
+- "[[G3956]]"
+- "[[G2992]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 24:19**<big><big>[[Luke.24.13 The Road to Emmaus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, What things? And they said unto him, Concerning Jesus of Nazareth, which was a prophet mighty in deed and word before God and all the people:
 <small><sub>**BSB:**</sub></small>
 “What things?” He asked. “The events involving Jesus of Nazareth,” they answered. “This man was a prophet, powerful in speech and action before God and all the people.
-<small><sub>**Literal:**</sub></small>
-And He said to them; What things? <the> And they said to Him; The [things] concerning Jesus <the> of Nazareth, who was a man a prophet mighty in deed and word before <the> God and all the people,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.18|<< Luke 24:18]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.20|Luke 24:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G4169\|ποῖα;]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2036\|εἶπαν]]  [[G0846\|αὐτῷ·]]  [[G3588\|τὰ]]  [[G4012\|περὶ]]  [[G2424G\|Ἰησοῦ]]  [[G3588\|τοῦ]]  [[G3479\|Ναζαρηνοῦ,]]  [[G3739\|ὃς]]  [[G1096\|ἐγένετο]]  [[G0435G\|ἀνὴρ]]  [[G4396\|προφήτης]]  [[G1415\|δυνατὸς]]  [[G1722\|ἐν]]  [[G2041\|ἔργῳ]]  [[G2532\|καὶ]]  [[G3056\|λόγῳ]]  [[G1726\|ἐναντίον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G3956\|παντὸς]]  [[G3588\|τοῦ]]  [[G2992\|λαοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic NAZARETH|NAZARETH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.18|<< Luke 24:18]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.20|Luke 24:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

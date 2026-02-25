@@ -1,8 +1,72 @@
+---
+title: Genesis 42:33
+type: Verse
+kjv: "And the man, the lord of the country, said unto us, Hereby shall I know that ye are true men; leave one of your brethren here with me, and take food for the famine of your households, and be gone:"
+bsb: "Then the man who is lord of the land said to us, ‘This is how I will know whether you are honest: Leave one brother with me, take food to relieve the hunger of your households, and go."
+hebrew: "וַיֹּ֣אמֶר אֵלֵ֗ינוּ הָאִישׁ֙ אֲדֹנֵ֣י הָאָ֔רֶץ בְּזֹ֣את אֵדַ֔ע כִּ֥י כֵנִ֖ים אַתֶּ֑ם אֲחִיכֶ֤ם הָֽאֶחָד֙ הַנִּ֣יחוּ אִתִּ֔י וְאֶת־ רַעֲב֥וֹן בָּתֵּיכֶ֖ם קְח֥וּ וָלֵֽכוּ׃"
+pericope: "[[Gen.42.25 Joseph’s Brothers Return to Canaan|Joseph’s Brothers Return to Canaan]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 42
+book/chapter: "[[Gen.42|Genesis 42]]"
+chronological_order: 84
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic MONEY|MONEY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9035]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H0113]]"
+- "[[H0776G]]"
+- "[[H9003]]"
+- "[[H2063]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H3651A]]"
+- "[[H0859D]]"
+- "[[H0251G]]"
+- "[[H9026]]"
+- "[[H0259]]"
+- "[[H5117]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7459]]"
+- "[[H1004M]]"
+- "[[H3947G]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 42:33**<big><big>[[Gen.42.25 Joseph’s Brothers Return to Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the man, the lord of the country, said unto us, Hereby shall I know that ye [are] true [men]; leave one of your brethren [here] with me, and take [food for] the famine of your households, and be gone:
 <small><sub>**BSB:**</sub></small>
 Then the man who is lord of the land said to us, ‘This is how I will know whether you are honest: Leave one brother with me, take food to relieve the hunger of your households, and go.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלֵ֗י]][[H9035\|נוּ]] [[H9009\|הָ]][[H0376G\|אִישׁ֙]] [[H0113\|אֲדֹנֵ֣י]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9003\|בְּ]][[H2063\|זֹ֣את]] [[H3045\|אֵדַ֔ע]] [[H3588A\|כִּ֥י]] [[H3651A\|כֵנִ֖ים]] [[H0859D\|אַתֶּ֑ם]] [[H0251G\|אֲחִי]][[H9026\|כֶ֤ם]] [[H9009\|הָֽ]][[H0259\|אֶחָד֙]] [[H5117\|הַנִּ֣יחוּ]] [[H0854\|אִתִּ֔]][[H9030\|י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7459\|רַעֲב֥וֹן]] [[H1004M\|בָּתֵּי]][[H9026\|כֶ֖ם]] [[H3947G\|קְח֥וּ]] [[H9002\|וָ]][[H1980G\|לֵֽכוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic MONEY|MONEY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.32|<< Genesis 42:32]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.34|Genesis 42:34 >>]]</td></tr></table>
 

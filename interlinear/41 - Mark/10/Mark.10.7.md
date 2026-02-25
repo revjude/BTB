@@ -1,10 +1,57 @@
+---
+title: Mark 10:7
+type: Verse
+kjv: "For this cause shall a man leave his father and mother, and cleave to his wife;"
+bsb: "‘For this reason a man will leave his father and mother and be united to his wife,"
+jesus_said: "For this cause shall a man leave his father and mother, and cleave to his wife;"
+greek: "ἕνεκεν τούτου καταλείψει ἄνθρωπος τὸν πατέρα αὐτοῦ καὶ τὴν μητέρα καὶ προσκολληθήσεται πρὸς τὴν γυναῖκα αὐτοῦ,"
+pericope: "[[Mark.10.1 Teachings about Divorce|Teachings about Divorce]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G1752]]"
+- "[[G3778]]"
+- "[[G2641]]"
+- "[[G0444]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3384]]"
+- "[[G4347]]"
+- "[[G4314]]"
+- "[[G1135H]]"
+texts:
+- NKO
+---
+
 **Mark 10:7**<big><big>[[Mark.10.1 Teachings about Divorce|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For this cause shall a man leave his father and mother, and cleave to his wife;
 <small><sub>**BSB:**</sub></small>
 ‘For this reason a man will leave his father and mother and be united to his wife,
-<small><sub>**Literal:**</sub></small>
-On account of this will leave a man the father of him and <the> mother and will be joined to <the> wife of him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.6|<< Mark 10:6]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.8|Mark 10:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1752\|ἕνεκεν]]  [[G3778\|τούτου]]  [[G2641\|καταλείψει]]  [[G0444\|ἄνθρωπος]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G3384\|μητέρα]]  [[G2532\|καὶ]]  [[G4347\|προσκολληθήσεται]]  [[G4314\|πρὸς]]  [[G3588\|τὴν]]  [[G1135H\|γυναῖκα]]  [[G0846\|αὐτοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HUSBAND|HUSBAND]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARRIAGE|MARRIAGE]] • [[topic POLYGAMY|POLYGAMY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.6|<< Mark 10:6]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.8|Mark 10:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 10:7** is...
 > $\quad$ referencing: [[LXX.Gen.2.24|Gen 2:24]]

@@ -1,10 +1,65 @@
+---
+title: Mark 7:26
+type: Verse
+kjv: "The woman was a Greek, a Syrophenician by nation; and she besought him that he would cast forth the devil out of her daughter."
+bsb: "Now she was a Greek woman of Syrophoenician origin, and she kept asking Jesus to drive the demon out of her daughter."
+greek: "ἡ δὲ γυνὴ ἦν Ἑλληνὶς Συροφοινίκισσα τῷ γένει, καὶ ἠρώτα αὐτὸν ἵνα τὸ δαιμόνιον ἐκβάλῃ ἐκ τῆς θυγατρὸς αὐτῆς."
+pericope: "[[Mark.7.24 The Faith of the Gentile Woman|The Faith of the Gentile Woman]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 7
+book/chapter: "[[Mark.7|Mark 7]]"
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GREECE|GREECE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SIDON|SIDON]]"
+- "[[topic SYRIA|SYRIA]]"
+- "[[topic SYRO-PHOENICIAN|SYRO-PHOENICIAN]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1135G]]"
+- "[[G1510]]"
+- "[[G1674]]"
+- "[[G4949]]"
+- "[[G1085G]]"
+- "[[G2532]]"
+- "[[G2065]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G1140]]"
+- "[[G1544]]"
+- "[[G1537]]"
+- "[[G2364]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 7:26**<big><big>[[Mark.7.24 The Faith of the Gentile Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The woman was a Greek, a Syrophenician by nation; and she besought him that he would cast forth the devil out of her daughter.
 <small><sub>**BSB:**</sub></small>
 Now she was a Greek woman of Syrophoenician origin, and she kept asking Jesus to drive the demon out of her daughter.
-<small><sub>**Literal:**</sub></small>
-<the> Now the woman was Gentile Syrophoenician <the> by race, and was asking Him that the demon He may cast forth out of the daughter of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.25|<< Mark 7:25]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.27|Mark 7:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G1161\|δὲ]]  [[G1135G\|γυνὴ]]  [[G1510\|ἦν]]  [[G1674\|Ἑλληνὶς]]  [[G4949\|Συροφοινίκισσα]]  [[G3588\|τῷ]]  [[G1085G\|γένει,]]  [[G2532\|καὶ]]  [[G2065\|ἠρώτα]]  [[G0846\|αὐτὸν]]  [[G2443\|ἵνα]]  [[G3588\|τὸ]]  [[G1140\|δαιμόνιον]]  [[G1544\|ἐκβάλῃ]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G2364\|θυγατρὸς]]  [[G0846\|αὐτῆς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic FAITH|FAITH]] • [[topic GREECE|GREECE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic SIDON|SIDON]] • [[topic SYRIA|SYRIA]] • [[topic SYRO-PHOENICIAN|SYRO-PHOENICIAN]] • [[topic TYRE|TYRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.25|<< Mark 7:25]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.27|Mark 7:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

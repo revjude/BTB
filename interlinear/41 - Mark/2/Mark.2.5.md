@@ -1,10 +1,60 @@
+---
+title: Mark 2:5
+type: Verse
+kjv: "When Jesus saw their faith, he said unto the sick of the palsy, Son, thy sins be forgiven thee."
+bsb: "When Jesus saw their faith, He said to the paralytic, “Son, your sins are forgiven.”"
+jesus_said: "Son, thy sins be forgiven thee."
+greek: "καὶ ἰδὼν δὲ ὁ Ἰησοῦς τὴν πίστιν αὐτῶν λέγει τῷ παραλυτικῷ· τέκνον, ἀφίενταί σου αἱ ἁμαρτίαι σου."
+pericope: "[[Mark.2.1 Jesus Heals a Paralytic|Jesus Heals a Paralytic]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 2
+book/chapter: "[[Mark.2|Mark 2]]"
+chronological_order: 947
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G4102G]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G3885]]"
+- "[[G5043]]"
+- "[[G0863H]]"
+- "[[G4771]]"
+- "[[G0266]]"
+texts:
+- no
+- NKO
+- ko
+- N(k)O
+- k
+---
+
 **Mark 2:5**<big><big>[[Mark.2.1 Jesus Heals a Paralytic|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When Jesus saw their faith, he said unto the sick of the palsy, Son, thy sins be forgiven thee.
 <small><sub>**BSB:**</sub></small>
 When Jesus saw their faith, He said to the paralytic, “Son, your sins are forgiven.”
-<small><sub>**Literal:**</sub></small>
-And having seen now <the> Jesus the faith of them He says to the paralytic; Son, are forgiven of you the sins of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.4|<< Mark 2:4]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.6|Mark 2:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1492H\|ἰδὼν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3588\|τὴν]]  [[G4102G\|πίστιν]]  [[G0846\|αὐτῶν]]  [[G3004G\|λέγει]]  [[G3588\|τῷ]]  [[G3885\|παραλυτικῷ·]]  [[G5043\|τέκνον,]]  [[G0863H\|ἀφίενταί]]  [[G4771\|σου]]  [[G3588\|αἱ]]  [[G0266\|ἁμαρτίαι]]  [[G4771\|σου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SIN|SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.4|<< Mark 2:4]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.6|Mark 2:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

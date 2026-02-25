@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Futility of Work
+type: Pericope
 pericope: "[[Eccl.2.18 The Futility of Work|The Futility of Work]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Ecclesiastes
 chapter: 2
 book/chapter: "[[Eccl.2|Ecclesiastes 2]]"
-genre:
+chronological_order: 540
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - philosophical
 - megillot
+verse_count: 9
 verses:
 - "[[Eccl.2.18]]"
 - "[[Eccl.2.19]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Eccl.2.26]]"
 ---
 
-[[Eccl.2|Ecclesiastes 2:18 - Ecclesiastes 2:26]]
+<small>[[Eccl.2|Ecclesiastes 2:18-26]]</small>
 *The Futility of Work*
 
 [[Eccl.2.18|18]] Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me.

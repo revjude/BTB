@@ -1,8 +1,66 @@
+---
+title: Numbers 2:2
+type: Verse
+kjv: "Every man of the children of Israel shall pitch by his own standard, with the ensign of their father’s house: far off about the tabernacle of the congregation shall they pitch."
+bsb: "“The Israelites are to camp around the Tent of Meeting at a distance from it, each man under his standard, with the banners of his family."
+hebrew: "אִ֣ישׁ עַל־ דִּגְל֤וֹ בְאֹתֹת֙ לְבֵ֣ית אֲבֹתָ֔ם יַחֲנ֖וּ בְּנֵ֣י יִשְׂרָאֵ֑ל מִנֶּ֕גֶד סָבִ֥יב לְאֹֽהֶל־ מוֹעֵ֖ד יַחֲנֽוּ׃"
+pericope: "[[Num.2.1 The Order of the Camps|The Order of the Camps]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 2
+book/chapter: "[[Num.2|Numbers 2]]"
+chronological_order: 161
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ALOES|ALOES]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic STANDARD|STANDARD]]"
+strongs:
+- "[[H0376I]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1714]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H0226H]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H2583]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H5048]]"
+- "[[H5439H]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 2:2**<big><big>[[Num.2.1 The Order of the Camps|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every man of the children of Israel shall pitch by his own standard, with the ensign of their father’s house: far off about the tabernacle of the congregation shall they pitch.
 <small><sub>**BSB:**</sub></small>
 “The Israelites are to camp around the Tent of Meeting at a distance from it, each man under his standard, with the banners of his family.
+<small><sub>**Hebrew:**</sub></small>
+[[H0376I\|אִ֣ישׁ]] [[H5921A\|עַל]][[H9014\|־]] [[H1714\|דִּגְל֤]][[H9023\|וֹ]] [[H9003\|בְ]][[H0226H\|אֹתֹת֙]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H0001G\|אֲבֹתָ֔]][[H9028\|ם]] [[H2583\|יַחֲנ֖וּ]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9006\|מִ]][[H5048\|נֶּ֕גֶד]] [[H5439H\|סָבִ֥יב]] [[H9005\|לְ]][[H0168G\|אֹֽהֶל]][[H9014\|־]] [[H4150I\|מוֹעֵ֖ד]] [[H2583\|יַחֲנֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALOES|ALOES]] • [[topic ARMIES|ARMIES]] • [[topic STANDARD|STANDARD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.2.1|<< Numbers 2:1]]</td><td align="center" style="border:none;">[[Num.2|Numbers 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.2.3|Numbers 2:3 >>]]</td></tr></table>
 

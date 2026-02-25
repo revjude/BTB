@@ -1,8 +1,70 @@
+---
+title: Psalm 18:2
+type: Verse
+kjv: "The LORD is my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, and my high tower."
+bsb: "The LORD is my rock, my fortress, and my deliverer. My God is my rock, in whom I take refuge, my shield, and the horn of my salvation, my stronghold."
+hebrew: "יְהוָ֤ה׀ סַֽלְעִ֥י וּמְצוּדָתִ֗י וּמְפַ֫לְטִ֥י אֵלִ֣י צ֭וּרִי אֶֽחֱסֶה־ בּ֑וֹ מָֽגִנִּ֥י וְקֶֽרֶן־ יִ֝שְׁעִ֗י מִשְׂגַּבִּֽי׃"
+pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FORT|FORT]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic ROCK|ROCK]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SHIELD|SHIELD]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic TOWER|TOWER]]"
+strongs:
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H5553H]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H4686B]]"
+- "[[H6403]]"
+- "[[H9030]]"
+- "[[H0410G]]"
+- "[[H6697H]]"
+- "[[H2620]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H4043]]"
+- "[[H7161A]]"
+- "[[H3468]]"
+- "[[H4869A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 18:2**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD [is] my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, [and] my high tower.
 <small><sub>**BSB:**</sub></small>
 The LORD is my rock, my fortress, and my deliverer. My God is my rock, in whom I take refuge, my shield, and the horn of my salvation, my stronghold.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֤ה]][[H9015\|׀]] [[H5553H\|סַֽלְעִ֥]][[H9020\|י]] [[H9002\|וּ]][[H4686B\|מְצוּדָתִ֗]][[H9020\|י]] [[H9002\|וּ]][[H6403\|מְפַ֫לְטִ֥]][[H9030\|י]] [[H0410G\|אֵלִ֣]][[H9020\|י]] [[H6697H\|צ֭וּרִ]][[H9020\|י]] [[H2620\|אֶֽחֱסֶה]][[H9014\|־]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H4043\|מָֽגִנִּ֥]][[H9020\|י]] [[H9002\|וְ]][[H7161A\|קֶֽרֶן]][[H9014\|־]] [[H3468\|יִ֝שְׁעִ֗]][[H9020\|י]] [[H4869A\|מִשְׂגַּבִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic FAITH|FAITH]] • [[topic FORT|FORT]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic ROCK|ROCK]] • [[topic SALVATION|SALVATION]] • [[topic SHIELD|SHIELD]] • [[topic TESTIMONY|TESTIMONY]] • [[topic TOWER|TOWER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.1|<< Psalms 18:1]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.3|Psalms 18:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

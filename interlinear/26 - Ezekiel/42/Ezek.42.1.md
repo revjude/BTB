@@ -1,8 +1,57 @@
+---
+title: Ezekiel 42:1
+type: Verse
+kjv: "Then he brought me forth into the utter court, the way toward the north: and he brought me into the chamber that was over against the separate place, and which was before the building toward the north."
+bsb: "Then the man led me out northward into the outer court, and he brought me to the group of chambers opposite the temple courtyard and the outer wall on the north side."
+hebrew: "וַיּוֹצִאֵ֗נִי אֶל־ הֶֽחָצֵר֙ הַחִ֣יצוֹנָ֔ה הַדֶּ֖רֶךְ דֶּ֣רֶךְ הַצָּפ֑וֹן וַיְבִאֵ֣נִי אֶל־ הַלִּשְׁכָּ֗ה אֲשֶׁ֨ר נֶ֧גֶד הַגִּזְרָ֛ה וַאֲשֶֽׁר־ נֶ֥גֶד הַבִּנְיָ֖ן אֶל־ הַצָּפֽוֹן׃"
+pericope: "[[Ezek.42.1 Chambers for the Priests|Chambers for the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 42
+book/chapter: "[[Ezek.42|Ezekiel 42]]"
+chronological_order: 833
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H9030]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2691A]]"
+- "[[H2435]]"
+- "[[H1870J]]"
+- "[[H6828G]]"
+- "[[H0935P]]"
+- "[[H3957]]"
+- "[[H0834A]]"
+- "[[H5048]]"
+- "[[H1508]]"
+- "[[H9002]]"
+- "[[H1146]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 42:1**<big><big>[[Ezek.42.1 Chambers for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he brought me forth into the utter court, the way toward the north: and he brought me into the chamber that [was] over against the separate place, and which [was] before the building toward the north.
 <small><sub>**BSB:**</sub></small>
 Then the man led me out northward into the outer court, and he brought me to the group of chambers opposite the temple courtyard and the outer wall on the north side.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318H\|יּוֹצִאֵ֗]][[H9030\|נִי]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הֶֽ]][[H2691A\|חָצֵר֙]] [[H9009\|הַ]][[H2435\|חִ֣יצוֹנָ֔ה]] [[H9009\|הַ]][[H1870J\|דֶּ֖רֶךְ]] [[H1870J\|דֶּ֣רֶךְ]] [[H9009\|הַ]][[H6828G\|צָּפ֑וֹן]] [[H9001\|וַ]][[H0935P\|יְבִאֵ֣]][[H9030\|נִי]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3957\|לִּשְׁכָּ֗ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H5048\|נֶ֧גֶד]] [[H9009\|הַ]][[H1508\|גִּזְרָ֛ה]] [[H9002\|וַ]][[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H5048\|נֶ֥גֶד]] [[H9009\|הַ]][[H1146\|בִּנְיָ֖ן]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H6828G\|צָּפֽוֹן]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.42.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.26|<< Ezekiel 41:26]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.2|Ezekiel 42:2 >>]]</td></tr></table>
 

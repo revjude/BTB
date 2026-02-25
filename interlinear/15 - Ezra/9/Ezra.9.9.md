@@ -1,8 +1,76 @@
+---
+title: Ezra 9:9
+type: Verse
+kjv: "For we were bondmen; yet our God hath not forsaken us in our bondage, but hath extended mercy unto us in the sight of the kings of Persia, to give us a reviving, to set up the house of our God, and to repair the desolations thereof, and to give us a wall in Judah and in Jerusalem."
+bsb: "Though we are slaves, our God has not forsaken us in our bondage, but He has extended to us grace in the sight of the kings of Persia, giving us new life to rebuild the house of our God and repair its ruins, and giving us a wall of protection in Judah and Jerusalem."
+hebrew: "כִּֽי־ עֲבָדִ֣ים אֲנַ֔חְנוּ וּבְעַבְדֻ֔תֵנוּ לֹ֥א עֲזָבָ֖נוּ אֱלֹהֵ֑ינוּ וַֽיַּט־ עָלֵ֣ינוּ חֶ֡סֶד לִפְנֵי֩ מַלְכֵ֨י פָרַ֜ס לָֽתֶת־ לָ֣נוּ מִֽחְיָ֗ה לְרוֹמֵ֞ם אֶת־ בֵּ֤ית אֱלֹהֵ֙ינוּ֙ וּלְהַעֲמִ֣יד אֶת־ חָרְבֹתָ֔יו וְלָֽתֶת־ לָ֣נוּ גָדֵ֔ר בִּֽיהוּדָ֖ה וּבִירוּשָׁלִָֽם׃ ס"
+pericope: "[[Ezra.9.5 Ezra’s Prayer of Confession|Ezra’s Prayer of Confession]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 9
+book/chapter: "[[Ezra.9|Ezra 9]]"
+chronological_order: 911
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BONDAGE|BONDAGE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H0587]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H5659]]"
+- "[[H9025]]"
+- "[[H3808]]"
+- "[[H5800A]]"
+- "[[H9035]]"
+- "[[H0430G]]"
+- "[[H9001]]"
+- "[[H5186]]"
+- "[[H5921A]]"
+- "[[H2617A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H4428G]]"
+- "[[H6539]]"
+- "[[H5414G]]"
+- "[[H4241]]"
+- "[[H7311A]]"
+- "[[H0853]]"
+- "[[H1004Q]]"
+- "[[H5975I]]"
+- "[[H2723]]"
+- "[[H9023]]"
+- "[[H1447]]"
+- "[[H3063N]]"
+- "[[H3389]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezra 9:9**<big><big>[[Ezra.9.5 Ezra’s Prayer of Confession|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For we [were] bondmen; yet our God hath not forsaken us in our bondage, but hath extended mercy unto us in the sight of the kings of Persia, to give us a reviving, to set up the house of our God, and to repair the desolations thereof, and to give us a wall in Judah and in Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Though we are slaves, our God has not forsaken us in our bondage, but He has extended to us grace in the sight of the kings of Persia, giving us new life to rebuild the house of our God and repair its ruins, and giving us a wall of protection in Judah and Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H5650\|עֲבָדִ֣ים]] [[H0587\|אֲנַ֔חְנוּ]] [[H9002\|וּ]][[H9003\|בְ]][[H5659\|עַבְדֻ֔תֵ]][[H9025\|נוּ]] [[H3808\|לֹ֥א]] [[H5800A\|עֲזָבָ֖]][[H9035\|נוּ]] [[H0430G\|אֱלֹהֵ֑י]][[H9025\|נוּ]] [[H9001\|וַֽ]][[H5186\|יַּט]][[H9014\|־]] [[H5921A\|עָלֵ֣י]][[H9035\|נוּ]] [[H2617A\|חֶ֡סֶד]] [[H9005\|לִ]][[H6440G\|פְנֵי֩]] [[H4428G\|מַלְכֵ֨י]] [[H6539\|פָרַ֜ס]] [[H9005\|לָֽ]][[H5414G\|תֶת]][[H9014\|־]] [[H9005\|לָ֣]][[H9035\|נוּ]] [[H4241\|מִֽחְיָ֗ה]] [[H9005\|לְ]][[H7311A\|רוֹמֵ֞ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1004Q\|בֵּ֤ית]] [[H0430G\|אֱלֹהֵ֙י]][[H9025\|נוּ֙]] [[H9002\|וּ]][[H9005\|לְ]][[H5975I\|הַעֲמִ֣יד]] [[H0853\|אֶת]][[H9014\|־]] [[H2723\|חָרְבֹתָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H9005\|לָֽ]][[H5414G\|תֶת]][[H9014\|־]] [[H9005\|לָ֣]][[H9035\|נוּ]] [[H1447\|גָדֵ֔ר]] [[H9003\|בִּֽ]][[H3063N\|יהוּדָ֖ה]] [[H9002\|וּ]][[H9003\|בִ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BONDAGE|BONDAGE]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.9.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.9.8|<< Ezra 9:8]]</td><td align="center" style="border:none;">[[Ezra.9|Ezra 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.9.10|Ezra 9:10 >>]]</td></tr></table>
 
@@ -35,7 +103,7 @@ Though we are slaves, our God has not forsaken us in our bondage, but He has ext
 | to us  |**<big>&#8207;[[H9005\|לָ֣]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a wall  |**<big>&#8207;[[H1447\|גָדֵ֔ר]]&#8207; </big>**| ga.Der<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in Judah  |**<big>&#8207;[[H9003\|בִּֽ]]&#8207;&#8207;[[H3063N\|יהוּדָ֖ה]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and in Jerusalem  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H3389\|ירוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vi.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and in Jerusalem  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H3389\|ירוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vi.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.9.8|<< Ezra 9:8]]</td><td align="center" style="border:none;">[[Ezra.9|Ezra 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.9.10|Ezra 9:10 >>]]</td></tr></table>
 
 

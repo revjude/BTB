@@ -1,10 +1,70 @@
+---
+title: Revelation 18:12
+type: Verse
+kjv: "The merchandise of gold, and silver, and precious stones, and of pearls, and fine linen, and purple, and silk, and scarlet, and all thyine wood, and all manner vessels of ivory, and all manner vessels of most precious wood, and of brass, and iron, and marble,"
+bsb: "cargo of gold, silver, precious stones, and pearls; of fine linen, purple, silk, and scarlet; of all kinds of citron wood and every article of ivory, precious wood, bronze, iron, and marble;"
+greek: "γόμον χρυσοῦ καὶ ἀργύρου καὶ λίθου τιμίου καὶ μαργαριτῶν καὶ βυσσίνου καὶ πορφύρας καὶ σιρικοῦ καὶ κοκκίνου καὶ πᾶν ξύλον θύϊνον καὶ πᾶν σκεῦος ἐλεφάντινον καὶ πᾶν σκεῦος ἐκ ξύλου τιμιωτάτου καὶ χαλκοῦ καὶ σιδήρου καὶ μαρμάρου"
+pericope: "[[Rev.18.9 Lament over Babylon|Lament over Babylon]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 18
+book/chapter: "[[Rev.18|Revelation 18]]"
+chronological_order: 1185
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic FRANKINCENSE|FRANKINCENSE]]"
+- "[[topic IVORY|IVORY]]"
+- "[[topic MARBLE|MARBLE]]"
+- "[[topic PEARL|PEARL]]"
+- "[[topic SILK|SILK]]"
+- "[[topic THYINE|THYINE]]"
+strongs:
+- "[[G1117]]"
+- "[[G5557]]"
+- "[[G2532]]"
+- "[[G0696]]"
+- "[[G3037]]"
+- "[[G5093]]"
+- "[[G3135]]"
+- "[[G1039]]"
+- "[[G4209]]"
+- "[[G4596]]"
+- "[[G2847]]"
+- "[[G3956]]"
+- "[[G3586]]"
+- "[[G2367]]"
+- "[[G4632]]"
+- "[[G1661]]"
+- "[[G1537]]"
+- "[[G5475]]"
+- "[[G4604]]"
+- "[[G3139]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+---
+
 **Revelation 18:12**<big><big>[[Rev.18.9 Lament over Babylon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The merchandise of gold, and silver, and precious stones, and of pearls, and fine linen, and purple, and silk, and scarlet, and all thyine wood, and all manner vessels of ivory, and all manner vessels of most precious wood, and of brass, and iron, and marble,
 <small><sub>**BSB:**</sub></small>
 cargo of gold, silver, precious stones, and pearls; of fine linen, purple, silk, and scarlet; of all kinds of citron wood and every article of ivory, precious wood, bronze, iron, and marble;
-<small><sub>**Literal:**</sub></small>
-cargo of gold and of silver and of stone precious and of pearls and of fine linen [things] and of purple cloth and of silk and of scarlet and all wood citron and every article of ivory and every article of wood most precious and of bronze and of iron and of marble<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.11|<< Revelation 18:11]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.13|Revelation 18:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1117\|γόμον]]  [[G5557\|χρυσοῦ]]  [[G2532\|καὶ]]  [[G0696\|ἀργύρου]]  [[G2532\|καὶ]]  [[G3037\|λίθου]]  [[G5093\|τιμίου]]  [[G2532\|καὶ]]  [[G3135\|μαργαριτῶν]]  [[G2532\|καὶ]]  [[G1039\|βυσσίνου]]  [[G2532\|καὶ]]  [[G4209\|πορφύρας]]  [[G2532\|καὶ]]  [[G4596\|σιρικοῦ]]  [[G2532\|καὶ]]  [[G2847\|κοκκίνου]]  [[G2532\|καὶ]]  [[G3956\|πᾶν]]  [[G3586\|ξύλον]]  [[G2367\|θύϊνον]]  [[G2532\|καὶ]]  [[G3956\|πᾶν]]  [[G4632\|σκεῦος]]  [[G1661\|ἐλεφάντινον]]  [[G2532\|καὶ]]  [[G3956\|πᾶν]]  [[G4632\|σκεῦος]]  [[G1537\|ἐκ]]  [[G3586\|ξύλου]]  [[G5093\|τιμιωτάτου]]  [[G2532\|καὶ]]  [[G5475\|χαλκοῦ]]  [[G2532\|καὶ]]  [[G4604\|σιδήρου]]  [[G2532\|καὶ]]  [[G3139\|μαρμάρου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic COMMERCE|COMMERCE]] • [[topic FRANKINCENSE|FRANKINCENSE]] • [[topic IVORY|IVORY]] • [[topic MARBLE|MARBLE]] • [[topic PEARL|PEARL]] • [[topic SILK|SILK]] • [[topic THYINE|THYINE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.11|<< Revelation 18:11]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.13|Revelation 18:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

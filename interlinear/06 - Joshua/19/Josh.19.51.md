@@ -1,8 +1,76 @@
+---
+title: Joshua 19:51
+type: Verse
+kjv: "These are the inheritances, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, divided for an inheritance by lot in Shiloh before the LORD, at the door of the tabernacle of the congregation. So they made an end of dividing the country."
+bsb: "These are the inheritances that Eleazar the priest, Joshua son of Nun, and the heads of the families distributed by lot to the tribes of Israel at Shiloh before the LORD at the entrance to the Tent of Meeting. So they finished dividing up the land."
+hebrew: "אֵ֣לֶּה הַנְּחָלֹ֡ת אֲשֶׁ֣ר נִחֲל֣וּ אֶלְעָזָ֣ר הַכֹּהֵ֣ן׀ וִיהוֹשֻׁ֪עַ בִּן־ נ֟וּן וְרָאשֵׁ֣י הָֽאָב֣וֹת לְמַטּוֹת֩ בְּנֵי־ יִשְׂרָאֵ֨ל׀ בְּגוֹרָ֤ל׀ בְּשִׁלֹה֙ לִפְנֵ֣י יְהוָ֔ה פֶּ֖תַח אֹ֣הֶל מוֹעֵ֑ד וַיְכַלּ֕וּ מֵֽחַלֵּ֖ק אֶת־ הָאָֽרֶץ׃ פ"
+pericope: "[[Josh.19.49 Joshua’s Inheritance|Joshua’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 19
+book/chapter: "[[Josh.19|Joshua 19]]"
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic LOT, THE|LOT, THE]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H0428]]"
+- "[[H9009]]"
+- "[[H5159]]"
+- "[[H0834A]]"
+- "[[H5157]]"
+- "[[H0499G]]"
+- "[[H3548]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H3091G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5126]]"
+- "[[H7218H]]"
+- "[[H0001G]]"
+- "[[H9005]]"
+- "[[H4294H]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H1486]]"
+- "[[H7887]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H6607]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9001]]"
+- "[[H3615G]]"
+- "[[H9006]]"
+- "[[H2505A]]"
+- "[[H0853]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Joshua 19:51**<big><big>[[Josh.19.49 Joshua’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the inheritances, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, divided for an inheritance by lot in Shiloh before the LORD, at the door of the tabernacle of the congregation. So they made an end of dividing the country.
 <small><sub>**BSB:**</sub></small>
 These are the inheritances that Eleazar the priest, Joshua son of Nun, and the heads of the families distributed by lot to the tribes of Israel at Shiloh before the LORD at the entrance to the Tent of Meeting. So they finished dividing up the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֣לֶּה]] [[H9009\|הַ]][[H5159\|נְּחָלֹ֡ת]] [[H0834A\|אֲשֶׁ֣ר]] [[H5157\|נִחֲל֣וּ]] [[H0499G\|אֶלְעָזָ֣ר]] [[H9009\|הַ]][[H3548\|כֹּהֵ֣ן]][[H9015\|׀]] [[H9002\|וִ]][[H3091G\|יהוֹשֻׁ֪עַ]] [[H1121A\|בִּן]][[H9014\|־]] [[H5126\|נ֟וּן]] [[H9002\|וְ]][[H7218H\|רָאשֵׁ֣י]] [[H9009\|הָֽ]][[H0001G\|אָב֣וֹת]] [[H9005\|לְ]][[H4294H\|מַטּוֹת֩]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֨ל]][[H9015\|׀]] [[H9003\|בְּ]][[H1486\|גוֹרָ֤ל]][[H9015\|׀]] [[H9003\|בְּ]][[H7887\|שִׁלֹה֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H6607\|פֶּ֖תַח]] [[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֑ד]] [[H9001\|וַ]][[H3615G\|יְכַלּ֕וּ]] [[H9006\|מֵֽ]][[H2505A\|חַלֵּ֖ק]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOT, THE|LOT, THE]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.50|<< Joshua 19:50]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.20.1|Joshua 20:1 >>]]</td></tr></table>
 
@@ -32,7 +100,7 @@ These are the inheritances that Eleazar the priest, Joshua son of Nun, and the h
 | and they finished  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3615G\|יְכַלּ֕וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.kha.Lu<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from apportioning  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H2505A\|חַלֵּ֖ק]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> cha.Lek<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.50|<< Joshua 19:50]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.20.1|Joshua 20:1 >>]]</td></tr></table>
 
 

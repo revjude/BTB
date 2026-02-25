@@ -1,8 +1,60 @@
+---
+title: Job 37:21
+type: Verse
+kjv: "And now men see not the bright light which is in the clouds: but the wind passeth, and cleanseth them."
+bsb: "Now no one can gaze at the sun when it is bright in the skies after the wind has swept them clean."
+hebrew: "וְעַתָּ֤ה׀ לֹ֘א רָ֤אוּ א֗וֹר בָּהִ֣יר ה֭וּא בַּשְּׁחָקִ֑ים וְר֥וּחַ עָ֝בְרָ֗ה וַֽתְּטַהֲרֵֽם׃"
+pericope: "[[Job.37.1 Elihu Proclaims God’s Majesty|Elihu Proclaims God’s Majesty]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 37
+book/chapter: "[[Job.37|Job 37]]"
+chronological_order: 48
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic WIND|WIND]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H9015]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H0216]]"
+- "[[H0925]]"
+- "[[H1931]]"
+- "[[H9003]]"
+- "[[H7834]]"
+- "[[H7307H]]"
+- "[[H5674A]]"
+- "[[H9001]]"
+- "[[H2891]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 37:21**<big><big>[[Job.37.1 Elihu Proclaims God’s Majesty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now [men] see not the bright light which [is] in the clouds: but the wind passeth, and cleanseth them.
 <small><sub>**BSB:**</sub></small>
 Now no one can gaze at the sun when it is bright in the skies after the wind has swept them clean.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֤ה]][[H9015\|׀]] [[H3808\|לֹ֘א]] [[H7200G\|רָ֤אוּ]] [[H0216\|א֗וֹר]] [[H0925\|בָּהִ֣יר]] [[H1931\|ה֭וּא]] [[H9003\|בַּ]][[H7834\|שְּׁחָקִ֑ים]] [[H9002\|וְ]][[H7307H\|ר֥וּחַ]] [[H5674A\|עָ֝בְרָ֗ה]] [[H9001\|וַֽ]][[H2891\|תְּטַהֲרֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic RELIGION|RELIGION]] • [[topic WIND|WIND]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.37.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.20|<< Job 37:20]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.22|Job 37:22 >>]]</td></tr></table>
 

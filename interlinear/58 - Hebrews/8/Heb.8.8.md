@@ -1,10 +1,63 @@
+---
+title: Hebrews 8:8
+type: Verse
+kjv: "For finding fault with them, he saith, Behold, the days come, saith the Lord, when I will make a new covenant with the house of Israel and with the house of Judah:"
+bsb: "But God found fault with the people and said: “Behold, the days are coming, declares the Lord, when I will make a new covenant with the house of Israel and with the house of Judah."
+greek: "μεμφόμενος γὰρ αὐτοὺς λέγει· ἰδοὺ ἡμέραι ἔρχονται, λέγει κύριος, καὶ συντελέσω ἐπὶ τὸν οἶκον Ἰσραὴλ καὶ ἐπὶ τὸν οἶκον Ἰούδα διαθήκην καινήν,"
+pericope: "[[Heb.8.6 The New Covenant|The New Covenant]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 8
+book/chapter: "[[Heb.8|Hebrews 8]]"
+chronological_order: 1147
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G3201]]"
+- "[[G1063]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G2400]]"
+- "[[G2250]]"
+- "[[G2064]]"
+- "[[G2962G]]"
+- "[[G2532]]"
+- "[[G4931]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3624H]]"
+- "[[G2474]]"
+- "[[G2455]]"
+- "[[G1242]]"
+- "[[G2537]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Hebrews 8:8**<big><big>[[Heb.8.6 The New Covenant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For finding fault with them, he saith, Behold, the days come, saith the Lord, when I will make a new covenant with the house of Israel and with the house of Judah:
 <small><sub>**BSB:**</sub></small>
 But God found fault with the people and said: “Behold, the days are coming, declares the Lord, when I will make a new covenant with the house of Israel and with the house of Judah.
-<small><sub>**Literal:**</sub></small>
-Finding fault for with them He says: Behold [the] days are coming, says [the] Lord, and I will ratify with the house of Israel and with the house of Judah a covenant new,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.8.7|<< Hebrews 8:7]]</td><td align="center" style="border:none;">[[Heb.8|Hebrews 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8.9|Hebrews 8:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3201\|μεμφόμενος]]  [[G1063\|γὰρ]]  [[G0846\|αὐτοὺς]]  [[G3004G\|λέγει·]]  [[G2400\|ἰδοὺ]]  [[G2250\|ἡμέραι]]  [[G2064\|ἔρχονται,]]  [[G3004G\|λέγει]]  [[G2962G\|κύριος,]]  [[G2532\|καὶ]]  [[G4931\|συντελέσω]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G3624H\|οἶκον]]  [[G2474\|Ἰσραὴλ]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G3624H\|οἶκον]]  [[G2455\|Ἰούδα]]  [[G1242\|διαθήκην]]  [[G2537\|καινήν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic GOSPEL|GOSPEL]] • [[topic LAW|LAW]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.8.7|<< Hebrews 8:7]]</td><td align="center" style="border:none;">[[Heb.8|Hebrews 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8.9|Hebrews 8:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 8:8** is...
 > $\quad$ referencing: [[LXX.Jer.31.31|Jer 31:31-34]]

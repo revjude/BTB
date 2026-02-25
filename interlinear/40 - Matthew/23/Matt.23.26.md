@@ -1,10 +1,64 @@
+---
+title: Matthew 23:26
+type: Verse
+kjv: "Thou blind Pharisee, cleanse first that which is within the cup and platter, that the outside of them may be clean also."
+bsb: "Blind Pharisee! First clean the inside of the cup and dish, so that the outside may become clean as well."
+jesus_said: "Thou blind Pharisee, cleanse first that which is within the cup and platter, that the outside of them may be clean also."
+greek: "Φαρισαῖε τυφλέ, καθάρισον πρῶτον τὸ ἐντὸς τοῦ ποτηρίου καὶ τῆς παροψίδος ἵνα γένηται καὶ τὸ ἐκτὸς αὐτοῦ καθαρόν.¶"
+pericope: "[[Matt.23.1 Woes to Scribes and Pharisees|Woes to Scribes and Pharisees]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 23
+book/chapter: "[[Matt.23|Matthew 23]]"
+chronological_order: 996
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic HEART|HEART]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic TEACHERS|TEACHERS]]"
+strongs:
+- "[[G5330]]"
+- "[[G5185]]"
+- "[[G2511]]"
+- "[[G4413G]]"
+- "[[G3588]]"
+- "[[G1787]]"
+- "[[G4221]]"
+- "[[G2532]]"
+- "[[G3953]]"
+- "[[G2443]]"
+- "[[G1096]]"
+- "[[G1622]]"
+- "[[G0846]]"
+- "[[G2513]]"
+texts:
+- NKO
+- KO
+- N(K)O
+---
+
 **Matthew 23:26**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [Thou] blind Pharisee, cleanse first that [which is] within the cup and platter, that the outside of them may be clean also.
 <small><sub>**BSB:**</sub></small>
 Blind Pharisee! First clean the inside of the cup and dish, so that the outside may become clean as well.
-<small><sub>**Literal:**</sub></small>
-Pharisee blind! do cleanse first the inside of the cup and of the dish that may become also the outside of it clean.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.25|<< Matthew 23:25]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.27|Matthew 23:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5330\|Φαρισαῖε]]  [[G5185\|τυφλέ,]]  [[G2511\|καθάρισον]]  [[G4413G\|πρῶτον]]  [[G3588\|τὸ]]  [[G1787\|ἐντὸς]]  [[G3588\|τοῦ]]  [[G4221\|ποτηρίου]]  [[G2532\|καὶ]]  [[G3588\|τῆς]]  [[G3953\|παροψίδος]]  [[G2443\|ἵνα]]  [[G1096\|γένηται]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G1622\|ἐκτὸς]]  [[G0846\|αὐτοῦ]]  [[G2513\|καθαρόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic CHURCH|CHURCH]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic HEART|HEART]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic PHARISEES|PHARISEES]] • [[topic SATIRE|SATIRE]] • [[topic TEACHERS|TEACHERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.25|<< Matthew 23:25]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.27|Matthew 23:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

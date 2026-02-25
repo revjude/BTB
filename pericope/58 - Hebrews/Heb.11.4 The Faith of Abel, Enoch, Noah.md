@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Faith of Abel, Enoch, Noah
+type: Pericope
 pericope: "[[Heb.11.4 The Faith of Abel, Enoch, Noah|The Faith of Abel, Enoch, Noah]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 11
 book/chapter: "[[Heb.11|Hebrews 11]]"
-genre:
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 4
 verses:
 - "[[Heb.11.4]]"
 - "[[Heb.11.5]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Heb.11.7]]"
 ---
 
-[[Heb.11|Hebrews 11:4 - Hebrews 11:7]]
+<small>[[Heb.11|Hebrews 11:4-7]]</small>
 *The Faith of Abel, Enoch, Noah*
 
 [[Heb.11.4|4]] By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous, God testifying of his gifts: and by it he being dead yet speaketh.

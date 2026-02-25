@@ -1,10 +1,60 @@
+---
+title: Mark 12:17
+type: Verse
+kjv: "And Jesus answering said unto them, Render to Caesar the things that are Caesar’s, and to God the things that are God’s. And they marvelled at him."
+bsb: "Then Jesus told them, “Give to Caesar what is Caesar’s, and to God what is God’s.” And they marveled at Him."
+jesus_said: "Render to Cesar the things that are Cesar’s, and to God the things that are God’s."
+greek: "Καὶ ἀποκριθεὶς ὁ δὲ Ἰησοῦς εἶπεν αὐτοῖς· τὰ Καίσαρος ἀπόδοτε Καίσαρι καὶ τὰ τοῦ θεοῦ τῷ θεῷ. καὶ ἐξεθαύμαζον ἐπ᾽ αὐτῷ.¶"
+pericope: "[[Mark.12.13 Paying Taxes to Caesar|Paying Taxes to Caesar]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 12
+book/chapter: "[[Mark.12|Mark 12]]"
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KING|KING]]"
+- "[[topic SATIRE|SATIRE]]"
+strongs:
+- "[[G2532]]"
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G2541]]"
+- "[[G0591]]"
+- "[[G2316]]"
+- "[[G6028]]"
+- "[[G1909]]"
+texts:
+- k
+- NKO
+- no
+- N(k)(o)
+---
+
 **Mark 12:17**<big><big>[[Mark.12.13 Paying Taxes to Caesar|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus answering said unto them, Render to Caesar the things that are Caesar’s, and to God the things that are God’s. And they marvelled at him.
 <small><sub>**BSB:**</sub></small>
 Then Jesus told them, “Give to Caesar what is Caesar’s, and to God what is God’s.” And they marveled at Him.
-<small><sub>**Literal:**</sub></small>
-and answering <the> And Jesus said to them; the [things] of Caesar do give back to Caesar and the [things] <of the> of God <to the> to God. And they were amazed at Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.16|<< Mark 12:16]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.18|Mark 12:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0611\|ἀποκριθεὶς]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G3588\|τὰ]]  [[G2541\|Καίσαρος]]  [[G0591\|ἀπόδοτε]]  [[G2541\|Καίσαρι]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|τῷ]]  [[G2316\|θεῷ.]]  [[G2532\|καὶ]]  [[G6028\|ἐξεθαύμαζον]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KING|KING]] • [[topic SATIRE|SATIRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.16|<< Mark 12:16]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.18|Mark 12:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

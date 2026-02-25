@@ -1,8 +1,59 @@
+---
+title: Ezekiel 31:6
+type: Verse
+kjv: "All the fowls of heaven made their nests in his boughs, and under his branches did all the beasts of the field bring forth their young, and under his shadow dwelt all great nations."
+bsb: "All the birds of the air nested in its branches, and all the beasts of the field gave birth beneath its boughs; all the great nations lived in its shade."
+hebrew: "בִּסְעַפֹּתָ֤יו קִֽנְנוּ֙ כָּל־ ע֣וֹף הַשָּׁמַ֔יִם וְתַ֤חַת פֹּֽארֹתָיו֙ יָֽלְד֔וּ כֹּ֖ל חַיַּ֣ת הַשָּׂדֶ֑ה וּבְצִלּוֹ֙ יֵֽשְׁב֔וּ כֹּ֖ל גּוֹיִ֥ם רַבִּֽים׃"
+pericope: "[[Ezek.31.1 Egypt Will Fall like Assyria|Egypt Will Fall like Assyria]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 31
+book/chapter: "[[Ezek.31|Ezekiel 31]]"
+chronological_order: 822
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9003]]"
+- "[[H5589]]"
+- "[[H9023]]"
+- "[[H7077]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5775]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H8478G]]"
+- "[[H6288A]]"
+- "[[H3205]]"
+- "[[H2416C]]"
+- "[[H7704G]]"
+- "[[H6738]]"
+- "[[H3427]]"
+- "[[H1471A]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 31:6**<big><big>[[Ezek.31.1 Egypt Will Fall like Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the fowls of heaven made their nests in his boughs, and under his branches did all the beasts of the field bring forth their young, and under his shadow dwelt all great nations.
 <small><sub>**BSB:**</sub></small>
 All the birds of the air nested in its branches, and all the beasts of the field gave birth beneath its boughs; all the great nations lived in its shade.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H5589\|סְעַפֹּתָ֤י]][[H9023\|ו]] [[H7077\|קִֽנְנוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H5775\|ע֣וֹף]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H9002\|וְ]][[H8478G\|תַ֤חַת]] [[H6288A\|פֹּֽארֹתָי]][[H9023\|ו֙]] [[H3205\|יָֽלְד֔וּ]] [[H3605\|כֹּ֖ל]] [[H2416C\|חַיַּ֣ת]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֑ה]] [[H9002\|וּ]][[H9003\|בְ]][[H6738\|צִלּ]][[H9023\|וֹ֙]] [[H3427\|יֵֽשְׁב֔וּ]] [[H3605\|כֹּ֖ל]] [[H1471A\|גּוֹיִ֥ם]] [[H7227A\|רַבִּֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.31.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.5|<< Ezekiel 31:5]]</td><td align="center" style="border:none;">[[Ezek.31|Ezekiel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.31.7|Ezekiel 31:7 >>]]</td></tr></table>
 

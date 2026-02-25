@@ -1,8 +1,72 @@
+---
+title: Jeremiah 44:8
+type: Verse
+kjv: "In that ye provoke me unto wrath with the works of your hands, burning incense unto other gods in the land of Egypt, whither ye be gone to dwell, that ye might cut yourselves off, and that ye might be a curse and a reproach among all the nations of the earth?"
+bsb: "Why are you provoking Me to anger by the work of your hands by burning incense to other gods in the land of Egypt, where you have gone to reside? As a result, you will be cut off and will become an object of cursing and reproach among all the nations of the earth."
+hebrew: "לְהַכְעִסֵ֙נִי֙ בְּמַעֲשֵׂ֣י יְדֵיכֶ֔ם לְקַטֵּ֞ר לֵאלֹהִ֤ים אֲחֵרִים֙ בְּאֶ֣רֶץ מִצְרַ֔יִם אֲשֶׁר־ אַתֶּ֥ם בָּאִ֖ים לָג֣וּר שָׁ֑ם לְמַ֙עַן֙ הַכְרִ֣ית לָכֶ֔ם וּלְמַ֤עַן הֱיֽוֹתְכֶם֙ לִקְלָלָ֣ה וּלְחֶרְפָּ֔ה בְּכֹ֖ל גּוֹיֵ֥י הָאָֽרֶץ׃"
+pericope: "[[Jer.44.1 Judgment on the Jews in Egypt|Judgment on the Jews in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 44
+book/chapter: "[[Jer.44|Jeremiah 44]]"
+chronological_order: 767
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic QUEEN|QUEEN]]"
+strongs:
+- "[[H9005]]"
+- "[[H3707]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H4639K]]"
+- "[[H3027G]]"
+- "[[H9026]]"
+- "[[H6999H]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0859D]]"
+- "[[H0935G]]"
+- "[[H1481A]]"
+- "[[H8033G]]"
+- "[[H4616]]"
+- "[[H3772I]]"
+- "[[H9036]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H9046]]"
+- "[[H7045]]"
+- "[[H2781]]"
+- "[[H3605]]"
+- "[[H1471A]]"
+- "[[H9009]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 44:8**<big><big>[[Jer.44.1 Judgment on the Jews in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that ye provoke me unto wrath with the works of your hands, burning incense unto other gods in the land of Egypt, whither ye be gone to dwell, that ye might cut yourselves off, and that ye might be a curse and a reproach among all the nations of the earth?
 <small><sub>**BSB:**</sub></small>
 Why are you provoking Me to anger by the work of your hands by burning incense to other gods in the land of Egypt, where you have gone to reside? As a result, you will be cut off and will become an object of cursing and reproach among all the nations of the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H3707\|הַכְעִסֵ֙]][[H9030\|נִי֙]] [[H9003\|בְּ]][[H4639K\|מַעֲשֵׂ֣י]] [[H3027G\|יְדֵי]][[H9026\|כֶ֔ם]] [[H9005\|לְ]][[H6999H\|קַטֵּ֞ר]] [[H9005\|לֵ]][[H0430\|אלֹהִ֤ים]] [[H0312\|אֲחֵרִים֙]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֔יִם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0859D\|אַתֶּ֥ם]] [[H0935G\|בָּאִ֖ים]] [[H9005\|לָ]][[H1481A\|ג֣וּר]] [[H8033G\|שָׁ֑ם]] [[H4616\|לְמַ֙עַן֙]] [[H3772I\|הַכְרִ֣ית]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H9002\|וּ]][[H4616\|לְמַ֤עַן]] [[H1961\|הֱיֽוֹתְ]][[H9046\|כֶם֙]] [[H9005\|לִ]][[H7045\|קְלָלָ֣ה]] [[H9002\|וּ]][[H9005\|לְ]][[H2781\|חֶרְפָּ֔ה]] [[H9003\|בְּ]][[H3605\|כֹ֖ל]] [[H1471A\|גּוֹיֵ֥י]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic QUEEN|QUEEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.7|<< Jeremiah 44:7]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.9|Jeremiah 44:9 >>]]</td></tr></table>
 

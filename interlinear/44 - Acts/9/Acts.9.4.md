@@ -1,10 +1,63 @@
+---
+title: Acts 9:4
+type: Verse
+kjv: "And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me?"
+bsb: "He fell to the ground and heard a voice say to him, “Saul, Saul, why do you persecute Me?”"
+jesus_said: "Saul, Saul, why persecutest thou me?"
+greek: "καὶ πεσὼν ἐπὶ τὴν γῆν ἤκουσεν φωνὴν λέγουσαν αὐτῷ· Σαοὺλ Σαούλ, τί με διώκεις;"
+pericope: "[[Acts.9.1 The Road to Damascus|The Road to Damascus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 9
+book/chapter: "[[Acts.9|Acts 9]]"
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SYRIA|SYRIA]]"
+- "[[topic VISION|VISION]]"
+- "[[topic VOICE|VOICE]]"
+strongs:
+- "[[G2532]]"
+- "[[G4098]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1093I]]"
+- "[[G0191]]"
+- "[[G5456G]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G4549G]]"
+- "[[G5101]]"
+- "[[G3165]]"
+- "[[G1377]]"
+texts:
+- NKO
+---
+
 **Acts 9:4**<big><big>[[Acts.9.1 The Road to Damascus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me?
 <small><sub>**BSB:**</sub></small>
 He fell to the ground and heard a voice say to him, “Saul, Saul, why do you persecute Me?”
-<small><sub>**Literal:**</sub></small>
-And having fallen on the ground he heard a voice saying to him; Saul Saul, why Me do you persecute?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.3|<< Acts 9:3]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.5|Acts 9:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4098\|πεσὼν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G1093I\|γῆν]]  [[G0191\|ἤκουσεν]]  [[G5456G\|φωνὴν]]  [[G3004G\|λέγουσαν]]  [[G0846\|αὐτῷ·]]  [[G4549G\|Σαοὺλ]]  [[G4549G\|Σαούλ,]]  [[G5101\|τί]]  [[G3165\|με]]  [[G1377\|διώκεις;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic CONVERTS|CONVERTS]] • [[topic HEART|HEART]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PAUL|PAUL]] • [[topic PERSECUTION|PERSECUTION]] • [[topic REGENERATION|REGENERATION]] • [[topic SYRIA|SYRIA]] • [[topic VISION|VISION]] • [[topic VOICE|VOICE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.3|<< Acts 9:3]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.5|Acts 9:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

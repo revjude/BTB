@@ -1,8 +1,58 @@
+---
+title: Numbers 35:10
+type: Verse
+kjv: "Speak unto the children of Israel, and say unto them, When ye be come over Jordan into the land of Canaan;"
+bsb: "“Speak to the Israelites and tell them: When you cross the Jordan into the land of Canaan,"
+hebrew: "דַּבֵּר֙ אֶל־ בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם כִּ֥י אַתֶּ֛ם עֹבְרִ֥ים אֶת־ הַיַּרְדֵּ֖ן אַ֥רְצָה כְּנָֽעַן׃"
+pericope: "[[Num.35.9 Six Cities of Refuge|Six Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 35
+book/chapter: "[[Num.35|Numbers 35]]"
+chronological_order: 195
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+strongs:
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9038]]"
+- "[[H3588A]]"
+- "[[H0859D]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H0776G]]"
+- "[[H9011]]"
+- "[[H3667A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 35:10**<big><big>[[Num.35.9 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto the children of Israel, and say unto them, When ye be come over Jordan into the land of Canaan;
 <small><sub>**BSB:**</sub></small>
 “Speak to the Israelites and tell them: When you cross the Jordan into the land of Canaan,
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבֵּר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֖]] [[H0413\|אֲלֵ]][[H9038\|הֶ֑ם]] [[H3588A\|כִּ֥י]] [[H0859D\|אַתֶּ֛ם]] [[H5674A\|עֹבְרִ֥ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֖ן]] [[H0776G\|אַ֥רְצָ]][[H9011\|ה]] [[H3667A\|כְּנָֽעַן]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.9|<< Numbers 35:9]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.11|Numbers 35:11 >>]]</td></tr></table>
 

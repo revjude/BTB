@@ -1,8 +1,71 @@
+---
+title: Exodus 32:30
+type: Verse
+kjv: "And it came to pass on the morrow, that Moses said unto the people, Ye have sinned a great sin: and now I will go up unto the LORD; peradventure I shall make an atonement for your sin."
+bsb: "The next day Moses said to the people, “You have committed a great sin. Now I will go up to the LORD; perhaps I can make atonement for your sin.”"
+hebrew: "וַיְהִי֙ מִֽמָּחֳרָ֔ת וַיֹּ֤אמֶר מֹשֶׁה֙ אֶל־ הָעָ֔ם אַתֶּ֥ם חֲטָאתֶ֖ם חֲטָאָ֣ה גְדֹלָ֑ה וְעַתָּה֙ אֶֽעֱלֶ֣ה אֶל־ יְהוָ֔ה אוּלַ֥י אֲכַפְּרָ֖ה בְּעַ֥ד חַטַּאתְכֶֽם׃"
+pericope: "[[Exod.32.1 The Golden Calf|The Golden Calf]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 32
+book/chapter: "[[Exod.32|Exodus 32]]"
+chronological_order: 124
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H4283]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0859D]]"
+- "[[H2398]]"
+- "[[H2401]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H5927G]]"
+- "[[H3068G]]"
+- "[[H0194]]"
+- "[[H3722A]]"
+- "[[H1157]]"
+- "[[H2403B]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 32:30**<big><big>[[Exod.32.1 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass on the morrow, that Moses said unto the people, Ye have sinned a great sin: and now I will go up unto the LORD; peradventure I shall make an atonement for your sin.
 <small><sub>**BSB:**</sub></small>
 The next day Moses said to the people, “You have committed a great sin. Now I will go up to the LORD; perhaps I can make atonement for your sin.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֙]] [[H9006\|מִֽ]][[H4283\|מָּחֳרָ֔ת]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H4872\|מֹשֶׁה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H0859D\|אַתֶּ֥ם]] [[H2398\|חֲטָאתֶ֖ם]] [[H2401\|חֲטָאָ֣ה]] [[H1419A\|גְדֹלָ֑ה]] [[H9002\|וְ]][[H6258\|עַתָּה֙]] [[H5927G\|אֶֽעֱלֶ֣ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H0194\|אוּלַ֥י]] [[H3722A\|אֲכַפְּרָ֖ה]] [[H1157\|בְּעַ֥ד]] [[H2403B\|חַטַּאתְ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.32.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.32.29|<< Exodus 32:29]]</td><td align="center" style="border:none;">[[Exod.32|Exodus 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.32.31|Exodus 32:31 >>]]</td></tr></table>
 

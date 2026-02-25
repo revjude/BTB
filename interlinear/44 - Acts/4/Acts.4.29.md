@@ -1,10 +1,57 @@
+---
+title: Acts 4:29
+type: Verse
+kjv: "And now, Lord, behold their threatenings: and grant unto thy servants, that with all boldness they may speak thy word,"
+bsb: "And now, Lord, consider their threats, and enable Your servants to speak Your word with complete boldness,"
+greek: "καὶ τὰ νῦν, κύριε, ἔπιδε ἐπὶ τὰς ἀπειλὰς αὐτῶν καὶ δὸς τοῖς δούλοις σου μετὰ παρρησίας πάσης λαλεῖν τὸν λόγον σου"
+pericope: "[[Acts.4.23 The Believers’ Prayer|The Believers’ Prayer]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3568]]"
+- "[[G2962G]]"
+- "[[G1896]]"
+- "[[G1909]]"
+- "[[G0547]]"
+- "[[G0846]]"
+- "[[G1325]]"
+- "[[G1401]]"
+- "[[G4771]]"
+- "[[G3326]]"
+- "[[G3954]]"
+- "[[G3956]]"
+- "[[G2980]]"
+- "[[G3056]]"
+texts:
+- NKO
+---
+
 **Acts 4:29**<big><big>[[Acts.4.23 The Believers’ Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And now, Lord, behold their threatenings: and grant unto thy servants, that with all boldness they may speak thy word,
 <small><sub>**BSB:**</sub></small>
 And now, Lord, consider their threats, and enable Your servants to speak Your word with complete boldness,
-<small><sub>**Literal:**</sub></small>
-And <the> now, Lord, do look upon the threats of them and do grant to the servants of You with boldness all to speak the word of You<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.28|<< Acts 4:28]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.30|Acts 4:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G3568\|νῦν,]]  [[G2962G\|κύριε,]]  [[G1896\|ἔπιδε]]  [[G1909\|ἐπὶ]]  [[G3588\|τὰς]]  [[G0547\|ἀπειλὰς]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G1325\|δὸς]]  [[G3588\|τοῖς]]  [[G1401\|δούλοις]]  [[G4771\|σου]]  [[G3326\|μετὰ]]  [[G3954\|παρρησίας]]  [[G3956\|πάσης]]  [[G2980\|λαλεῖν]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G4771\|σου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.28|<< Acts 4:28]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.30|Acts 4:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

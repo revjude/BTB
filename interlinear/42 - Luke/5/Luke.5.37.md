@@ -1,10 +1,62 @@
+---
+title: Luke 5:37
+type: Verse
+kjv: "And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish."
+bsb: "And no one pours new wine into old wineskins. If he does, the new wine will burst the skins, the wine will spill, and the wineskins will be ruined."
+jesus_said: "And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish."
+greek: "καὶ οὐδεὶς βάλλει οἶνον νέον εἰς ἀσκοὺς παλαιούς· εἰ δὲ μή γε, ῥήξει ὁ οἶνος ὁ νέος τοὺς ἀσκοὺς καὶ αὐτὸς ἐκχυθήσεται, καὶ οἱ ἀσκοὶ ἀπολοῦνται·"
+pericope: "[[Luke.5.36 The Patches and the Wineskins|The Patches and the Wineskins]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 5
+book/chapter: "[[Luke.5|Luke 5]]"
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BOTTLE|BOTTLE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3762]]"
+- "[[G0906H]]"
+- "[[G3631]]"
+- "[[G3501]]"
+- "[[G1519]]"
+- "[[G0779]]"
+- "[[G3820]]"
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G1065]]"
+- "[[G4486]]"
+- "[[G3588]]"
+- "[[G0846]]"
+- "[[G1632]]"
+- "[[G0622]]"
+texts:
+- NKO
+- no
+---
+
 **Luke 5:37**<big><big>[[Luke.5.36 The Patches and the Wineskins|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish.
 <small><sub>**BSB:**</sub></small>
 And no one pours new wine into old wineskins. If he does, the new wine will burst the skins, the wine will spill, and the wineskins will be ruined.
-<small><sub>**Literal:**</sub></small>
-And no [one] puts wine new into wineskins old; lest then except indeed will burst the wine <the> new the wineskins and it will be spilled out, and the wineskins will be destroyed;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.36|<< Luke 5:36]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.38|Luke 5:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3762\|οὐδεὶς]]  [[G0906H\|βάλλει]]  [[G3631\|οἶνον]]  [[G3501\|νέον]]  [[G1519\|εἰς]]  [[G0779\|ἀσκοὺς]]  [[G3820\|παλαιούς·]]  [[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G3361\|μή]]  [[G1065\|γε,]]  [[G4486\|ῥήξει]]  [[G3588\|ὁ]]  [[G3631\|οἶνος]]  [[G3588\|ὁ]]  [[G3501\|νέος]]  [[G3588\|τοὺς]]  [[G0779\|ἀσκοὺς]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G1632\|ἐκχυθήσεται,]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0779\|ἀσκοὶ]]  [[G0622\|ἀπολοῦνται·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOTTLE|BOTTLE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WINE|WINE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.36|<< Luke 5:36]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.38|Luke 5:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

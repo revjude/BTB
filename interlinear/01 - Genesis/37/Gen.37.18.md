@@ -1,8 +1,62 @@
+---
+title: Genesis 37:18
+type: Verse
+kjv: "And when they saw him afar off, even before he came near unto them, they conspired against him to slay him."
+bsb: "Now Joseph’s brothers saw him in the distance, and before he arrived, they plotted to kill him."
+hebrew: "וַיִּרְא֥וּ אֹת֖וֹ מֵרָחֹ֑ק וּבְטֶ֙רֶם֙ יִקְרַ֣ב אֲלֵיהֶ֔ם וַיִּֽתְנַכְּל֥וּ אֹת֖וֹ לַהֲמִיתֽוֹ׃"
+pericope: "[[Gen.37.12 Joseph Sold into Egypt|Joseph Sold into Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 37
+book/chapter: "[[Gen.37|Genesis 37]]"
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H7350]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H2962]]"
+- "[[H7126G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H5230]]"
+- "[[H9005]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 37:18**<big><big>[[Gen.37.12 Joseph Sold into Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they saw him afar off, even before he came near unto them, they conspired against him to slay him.
 <small><sub>**BSB:**</sub></small>
 Now Joseph’s brothers saw him in the distance, and before he arrived, they plotted to kill him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יִּרְא֥וּ]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9006\|מֵ]][[H7350\|רָחֹ֑ק]] [[H9002\|וּ]][[H9003\|בְ]][[H2962\|טֶ֙רֶם֙]] [[H7126G\|יִקְרַ֣ב]] [[H0413\|אֲלֵי]][[H9038\|הֶ֔ם]] [[H9001\|וַ]][[H5230\|יִּֽתְנַכְּל֥וּ]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9005\|לַ]][[H4191\|הֲמִיתֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSPIRACY|CONSPIRACY]] • [[topic JEALOUSY|JEALOUSY]] • [[topic JOSEPH|JOSEPH]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.17|<< Genesis 37:17]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.19|Genesis 37:19 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Judges 4:8
+type: Verse
+kjv: "And Barak said unto her, If thou wilt go with me, then I will go: but if thou wilt not go with me, then I will not go."
+bsb: "Barak said to her, “If you will go with me, I will go; but if you will not go with me, I will not go.”"
+hebrew: "וַיֹּ֤אמֶר אֵלֶ֙יהָ֙ בָּרָ֔ק אִם־ תֵּלְכִ֥י עִמִּ֖י וְהָלָ֑כְתִּי וְאִם־ לֹ֥א תֵלְכִ֛י עִמִּ֖י לֹ֥א אֵלֵֽךְ׃"
+pericope: "[[Judg.4.1 Deborah and Barak|Deborah and Barak]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 4
+book/chapter: "[[Judg.4|Judges 4]]"
+chronological_order: 258
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic DEBORAH|DEBORAH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H1301]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H1980G]]"
+- "[[H5973A]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 4:8**<big><big>[[Judg.4.1 Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Barak said unto her, If thou wilt go with me, then I will go: but if thou wilt not go with me, [then] I will not go.
 <small><sub>**BSB:**</sub></small>
 Barak said to her, “If you will go with me, I will go; but if you will not go with me, I will not go.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֵלֶ֙י]][[H9034\|הָ֙]] [[H1301\|בָּרָ֔ק]] [[H0518A\|אִם]][[H9014\|־]] [[H1980G\|תֵּלְכִ֥י]] [[H5973A\|עִמִּ֖]][[H9030\|י]] [[H9001\|וְ]][[H1980G\|הָלָ֑כְתִּי]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֥א]] [[H1980G\|תֵלְכִ֛י]] [[H5973A\|עִמִּ֖]][[H9030\|י]] [[H3808\|לֹ֥א]] [[H1980G\|אֵלֵֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic DEBORAH|DEBORAH]] • [[topic HYPOCRISY|HYPOCRISY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.7|<< Judges 4:7]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.9|Judges 4:9 >>]]</td></tr></table>
 

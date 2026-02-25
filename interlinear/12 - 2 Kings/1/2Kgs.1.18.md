@@ -1,8 +1,57 @@
+---
+title: 2 Kings 1:18
+type: Verse
+kjv: "Now the rest of the acts of Ahaziah which he did, are they not written in the book of the chronicles of the kings of Israel?"
+bsb: "As for the rest of the acts of Ahaziah, along with his accomplishments, are they not written in the Book of the Chronicles of the Kings of Israel?"
+hebrew: "וְיֶ֛תֶר דִּבְרֵ֥י אֲחַזְיָ֖הוּ אֲשֶׁ֣ר עָשָׂ֑ה הֲלֽוֹא־ הֵ֣מָּה כְתוּבִ֗ים עַל־ סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יִשְׂרָאֵֽל׃ פ"
+pericope: "[[2Kgs.1.17 Jehoram Succeeds Ahaziah|Jehoram Succeeds Ahaziah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 1
+book/chapter: "[[2Kgs.1|2 Kings 1]]"
+chronological_order: 571
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~853–852 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[H9002]]"
+- "[[H3499A]]"
+- "[[H1697K]]"
+- "[[H0274G]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1992]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H5612H]]"
+- "[[H1697O]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Kings 1:18**<big><big>[[2Kgs.1.17 Jehoram Succeeds Ahaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the rest of the acts of Ahaziah which he did, [are] they not written in the book of the chronicles of the kings of Israel?
 <small><sub>**BSB:**</sub></small>
 As for the rest of the acts of Ahaziah, along with his accomplishments, are they not written in the Book of the Chronicles of the Kings of Israel?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3499A\|יֶ֛תֶר]] [[H1697K\|דִּבְרֵ֥י]] [[H0274G\|אֲחַזְיָ֖הוּ]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213A\|עָשָׂ֑ה]] [[H9008\|הֲ]][[H3808\|לֽוֹא]][[H9014\|־]] [[H1992\|הֵ֣מָּה]] [[H3789\|כְתוּבִ֗ים]] [[H5921A\|עַל]][[H9014\|־]] [[H5612H\|סֵ֛פֶר]] [[H1697O\|דִּבְרֵ֥י]] [[H9009\|הַ]][[H3117G\|יָּמִ֖ים]] [[H9005\|לְ]][[H4428G\|מַלְכֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]] [[H9017\|פ]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.1.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.1.17|<< 2 Kings 1:17]]</td><td align="center" style="border:none;">[[2Kgs.1|2 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.2.1|2 Kings 2:1 >>]]</td></tr></table>
 
@@ -21,7 +70,7 @@ As for the rest of the acts of Ahaziah, along with his accomplishments, are they
 | [the] matters of  |**<big>&#8207;[[H1697O\|דִּבְרֵ֥י]]&#8207; </big>**| div.Rei<small><sup>[[HNtmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the days  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117G\|יָּמִ֖ים]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of [the] kings of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4428G\|מַלְכֵ֥י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mal.Khei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.1.17|<< 2 Kings 1:17]]</td><td align="center" style="border:none;">[[2Kgs.1|2 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.2.1|2 Kings 2:1 >>]]</td></tr></table>
 
 

@@ -1,8 +1,63 @@
+---
+title: Nahum 1:6
+type: Verse
+kjv: "Who can stand before his indignation? and who can abide in the fierceness of his anger? his fury is poured out like fire, and the rocks are thrown down by him."
+bsb: "Who can withstand His indignation? Who can endure His burning anger? His wrath is poured out like fire; even rocks are shattered before Him."
+hebrew: "לִפְנֵ֤י זַעְמוֹ֙ מִ֣י יַֽעֲמ֔וֹד וּמִ֥י יָק֖וּם בַּחֲר֣וֹן אַפּ֑וֹ חֲמָתוֹ֙ נִתְּכָ֣ה כָאֵ֔שׁ וְהַצֻּרִ֖ים נִתְּצ֥וּ מִמֶּֽנּוּ׃"
+pericope: "[[Nah.1.1 The Burden against Nineveh|The Burden against Nineveh]]"
+original_language: Hebrew
+testament: Old
+book: Nahum
+chapter: 1
+book/chapter: "[[Nah.1|Nahum 1]]"
+chronological_order: 708
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic GOD|GOD]]"
+- "[[topic VOLCANOES|VOLCANOES]]"
+strongs:
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H2195]]"
+- "[[H9023]]"
+- "[[H4310]]"
+- "[[H5975G]]"
+- "[[H9002]]"
+- "[[H6965B]]"
+- "[[H9003]]"
+- "[[H2740]]"
+- "[[H0639G]]"
+- "[[H2534]]"
+- "[[H5413]]"
+- "[[H9004]]"
+- "[[H0784]]"
+- "[[H9009]]"
+- "[[H6697H]]"
+- "[[H5422]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nahum 1:6**<big><big>[[Nah.1.1 The Burden against Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who can stand before his indignation? and who can abide in the fierceness of his anger? his fury is poured out like fire, and the rocks are thrown down by him.
 <small><sub>**BSB:**</sub></small>
 Who can withstand His indignation? Who can endure His burning anger? His wrath is poured out like fire; even rocks are shattered before Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H6440G\|פְנֵ֤י]] [[H2195\|זַעְמ]][[H9023\|וֹ֙]] [[H4310\|מִ֣י]] [[H5975G\|יַֽעֲמ֔וֹד]] [[H9002\|וּ]][[H4310\|מִ֥י]] [[H6965B\|יָק֖וּם]] [[H9003\|בַּ]][[H2740\|חֲר֣וֹן]] [[H0639G\|אַפּ֑]][[H9023\|וֹ]] [[H2534\|חֲמָת]][[H9023\|וֹ֙]] [[H5413\|נִתְּכָ֣ה]] [[H9004\|כָ]][[H0784\|אֵ֔שׁ]] [[H9002\|וְ]][[H9009\|הַ]][[H6697H\|צֻּרִ֖ים]] [[H5422\|נִתְּצ֥וּ]] [[H4480A\|מִמֶּֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic GOD|GOD]] • [[topic VOLCANOES|VOLCANOES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.1.5|<< Nahum 1:5]]</td><td align="center" style="border:none;">[[Nah.1|Nahum 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.1.7|Nahum 1:7 >>]]</td></tr></table>
 

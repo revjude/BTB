@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Festus Consults Agrippa
+type: Pericope
 pericope: "[[Acts.25.13 Festus Consults Agrippa|Festus Consults Agrippa]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Acts
 chapter: 25
 book/chapter: "[[Acts.25|Acts 25]]"
-genre:
+chronological_order: 1107
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 10
 verses:
 - "[[Acts.25.13]]"
 - "[[Acts.25.14]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Acts.25.22]]"
 ---
 
-[[Acts.25|Acts 25:13 - Acts 25:22]]
+<small>[[Acts.25|Acts 25:13-22]]</small>
 *Festus Consults Agrippa*
 
 [[Acts.25.13|13]] And after certain days king Agrippa and Bernice came unto Caesarea to salute Festus.

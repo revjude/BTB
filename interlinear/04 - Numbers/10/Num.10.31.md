@@ -1,8 +1,65 @@
+---
+title: Numbers 10:31
+type: Verse
+kjv: "And he said, Leave us not, I pray thee; forasmuch as thou knowest how we are to encamp in the wilderness, and thou mayest be to us instead of eyes."
+bsb: "“Please do not leave us,” Moses said, “since you know where we should camp in the wilderness, and you can serve as our eyes."
+hebrew: "וַיֹּ֕אמֶר אַל־ נָ֖א תַּעֲזֹ֣ב אֹתָ֑נוּ כִּ֣י׀ עַל־ כֵּ֣ן יָדַ֗עְתָּ חֲנֹתֵ֙נוּ֙ בַּמִּדְבָּ֔ר וְהָיִ֥יתָ לָּ֖נוּ לְעֵינָֽיִם׃"
+pericope: "[[Num.10.11 From Sinai to Paran|From Sinai to Paran]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 10
+book/chapter: "[[Num.10|Numbers 10]]"
+chronological_order: 169
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H5800A]]"
+- "[[H0853]]"
+- "[[H9035]]"
+- "[[H3588C]]"
+- "[[H9015]]"
+- "[[H5921B]]"
+- "[[H3651B]]"
+- "[[H3045]]"
+- "[[H2583]]"
+- "[[H9045]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H5869A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 10:31**<big><big>[[Num.10.11 From Sinai to Paran|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Leave us not, I pray thee; forasmuch as thou knowest how we are to encamp in the wilderness, and thou mayest be to us instead of eyes.
 <small><sub>**BSB:**</sub></small>
 “Please do not leave us,” Moses said, “since you know where we should camp in the wilderness, and you can serve as our eyes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H0408\|אַל]][[H9014\|־]] [[H4994\|נָ֖א]] [[H5800A\|תַּעֲזֹ֣ב]] [[H0853\|אֹתָ֑]][[H9035\|נוּ]] [[H3588C\|כִּ֣י]][[H9015\|׀]] [[H5921B\|עַל]][[H9014\|־]] [[H3651B\|כֵּ֣ן]] [[H3045\|יָדַ֗עְתָּ]] [[H2583\|חֲנֹתֵ֙]][[H9045\|נוּ֙]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֔ר]] [[H9001\|וְ]][[H1961\|הָיִ֥יתָ]] [[H9005\|לָּ֖]][[H9035\|נוּ]] [[H9005\|לְ]][[H5869A\|עֵינָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.30|<< Numbers 10:30]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.32|Numbers 10:32 >>]]</td></tr></table>
 

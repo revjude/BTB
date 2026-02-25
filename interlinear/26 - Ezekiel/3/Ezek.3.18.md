@@ -1,8 +1,68 @@
+---
+title: Ezekiel 3:18
+type: Verse
+kjv: "When I say unto the wicked, Thou shalt surely die; and thou givest him not warning, nor speakest to warn the wicked from his wicked way, to save his life; the same wicked man shall die in his iniquity; but his blood will I require at thine hand."
+bsb: "If I say to the wicked man, ‘You will surely die,’ but you do not warn him or speak out to warn him from his wicked way to save his life, that wicked man will die in his iniquity, and I will hold you responsible for his blood."
+hebrew: "בְּאָמְרִ֤י לָֽרָשָׁע֙ מ֣וֹת תָּמ֔וּת וְלֹ֣א הִזְהַרְתּ֗וֹ וְלֹ֥א דִבַּ֛רְתָּ לְהַזְהִ֥יר רָשָׁ֛ע מִדַּרְכּ֥וֹ הָרְשָׁעָ֖ה לְחַיֹּת֑וֹ ה֤וּא רָשָׁע֙ בַּעֲוֹנ֣וֹ יָמ֔וּת וְדָמ֖וֹ מִיָּדְךָ֥ אֲבַקֵּֽשׁ׃"
+pericope: "[[Ezek.3.16 A Watchman for Israel|A Watchman for Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 3
+book/chapter: "[[Ezek.3|Ezekiel 3]]"
+chronological_order: 794
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9003]]"
+- "[[H0559]]"
+- "[[H9040]]"
+- "[[H9005]]"
+- "[[H7563]]"
+- "[[H4191]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2094B]]"
+- "[[H9033]]"
+- "[[H1696G]]"
+- "[[H9006]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H2421]]"
+- "[[H1931]]"
+- "[[H5771G]]"
+- "[[H1818]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H1245]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 3:18**<big><big>[[Ezek.3.16 A Watchman for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I say unto the wicked, Thou shalt surely die; and thou givest him not warning, nor speakest to warn the wicked from his wicked way, to save his life; the same wicked [man] shall die in his iniquity; but his blood will I require at thine hand.
 <small><sub>**BSB:**</sub></small>
 If I say to the wicked man, ‘You will surely die,’ but you do not warn him or speak out to warn him from his wicked way to save his life, that wicked man will die in his iniquity, and I will hold you responsible for his blood.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H0559\|אָמְרִ֤]][[H9040\|י]] [[H9005\|לָֽ]][[H7563\|רָשָׁע֙]] [[H4191\|מ֣וֹת]] [[H4191\|תָּמ֔וּת]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H2094B\|הִזְהַרְתּ֗]][[H9033\|וֹ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H1696G\|דִבַּ֛רְתָּ]] [[H9005\|לְ]][[H2094B\|הַזְהִ֥יר]] [[H7563\|רָשָׁ֛ע]] [[H9006\|מִ]][[H1870G\|דַּרְכּ֥]][[H9023\|וֹ]] [[H9009\|הָ]][[H7563\|רְשָׁעָ֖ה]] [[H9005\|לְ]][[H2421\|חַיֹּת֑]][[H9033\|וֹ]] [[H1931\|ה֤וּא]] [[H7563\|רָשָׁע֙]] [[H9003\|בַּ]][[H5771G\|עֲוֹנ֣]][[H9023\|וֹ]] [[H4191\|יָמ֔וּת]] [[H9002\|וְ]][[H1818\|דָמ֖]][[H9023\|וֹ]] [[H9006\|מִ]][[H3027G\|יָּדְ]][[H9021\|ךָ֥]] [[H1245\|אֲבַקֵּֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IGNORANCE|IGNORANCE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.3.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.17|<< Ezekiel 3:17]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.19|Ezekiel 3:19 >>]]</td></tr></table>
 

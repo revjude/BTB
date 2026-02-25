@@ -1,8 +1,68 @@
+---
+title: Ezra 10:15
+type: Verse
+kjv: "Only Jonathan the son of Asahel and Jahaziah the son of Tikvah were employed about this matter: and Meshullam and Shabbethai the Levite helped them."
+bsb: "(Only Jonathan son of Asahel and Jahzeiah son of Tikvah, supported by Meshullam and Shabbethai the Levite, opposed this plan.)"
+hebrew: "אַ֣ךְ יוֹנָתָ֧ן בֶּן־ עֲשָׂהאֵ֛ל וְיַחְזְיָ֥ה בֶן־ תִּקְוָ֖ה עָמְד֣וּ עַל־ זֹ֑את וּמְשֻׁלָּ֛ם וְשַׁבְּתַ֥י הַלֵּוִ֖י עֲזָרֻֽם׃"
+pericope: "[[Ezra.10.6 The People’s Confession of Sin|The People’s Confession of Sin]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 10
+book/chapter: "[[Ezra.10|Ezra 10]]"
+chronological_order: 912
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic ASAHEL|ASAHEL]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic EZRA|EZRA]]"
+- "[[topic JAHAZIAH|JAHAZIAH]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic MESHULLAM|MESHULLAM]]"
+- "[[topic SHABBETHAI|SHABBETHAI]]"
+- "[[topic TIKVAH|TIKVAH]]"
+strongs:
+- "[[H0389]]"
+- "[[H3129I]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H6214J]]"
+- "[[H9002]]"
+- "[[H3167]]"
+- "[[H8616H]]"
+- "[[H5975G]]"
+- "[[H5921A]]"
+- "[[H2063]]"
+- "[[H4918P]]"
+- "[[H7678G]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H5826]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 10:15**<big><big>[[Ezra.10.6 The People’s Confession of Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only Jonathan the son of Asahel and Jahaziah the son of Tikvah were employed about this [matter]: and Meshullam and Shabbethai the Levite helped them.
 <small><sub>**BSB:**</sub></small>
 (Only Jonathan son of Asahel and Jahzeiah son of Tikvah, supported by Meshullam and Shabbethai the Levite, opposed this plan.)
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַ֣ךְ]] [[H3129I\|יוֹנָתָ֧ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6214J\|עֲשָׂהאֵ֛ל]] [[H9002\|וְ]][[H3167\|יַחְזְיָ֥ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H8616H\|תִּקְוָ֖ה]] [[H5975G\|עָמְד֣וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H2063\|זֹ֑את]] [[H9002\|וּ]][[H4918P\|מְשֻׁלָּ֛ם]] [[H9002\|וְ]][[H7678G\|שַׁבְּתַ֥י]] [[H9009\|הַ]][[H3881\|לֵּוִ֖י]] [[H5826\|עֲזָרֻֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic ASAHEL|ASAHEL]] • [[topic CHURCH|CHURCH]] • [[topic DECISION|DECISION]] • [[topic DIVORCE|DIVORCE]] • [[topic EZRA|EZRA]] • [[topic JAHAZIAH|JAHAZIAH]] • [[topic JONATHAN|JONATHAN]] • [[topic MESHULLAM|MESHULLAM]] • [[topic SHABBETHAI|SHABBETHAI]] • [[topic TIKVAH|TIKVAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.10.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.14|<< Ezra 10:14]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.16|Ezra 10:16 >>]]</td></tr></table>
 

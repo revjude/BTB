@@ -1,8 +1,58 @@
+---
+title: Genesis 7:10
+type: Verse
+kjv: "And it came to pass after seven days, that the waters of the flood were upon the earth."
+bsb: "And after seven days the floodwaters came upon the earth."
+hebrew: "וַֽיְהִ֖י לְשִׁבְעַ֣ת הַיָּמִ֑ים וּמֵ֣י הַמַּבּ֔וּל הָי֖וּ עַל־ הָאָֽרֶץ׃"
+pericope: "[[Gen.7.1 The Great Flood|The Great Flood]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 7
+book/chapter: "[[Gen.7|Genesis 7]]"
+chronological_order: 7
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic RAIN|RAIN]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H7651]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9002]]"
+- "[[H4325G]]"
+- "[[H3999]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 7:10**<big><big>[[Gen.7.1 The Great Flood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass after seven days, that the waters of the flood were upon the earth.
 <small><sub>**BSB:**</sub></small>
 And after seven days the floodwaters came upon the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִ֖י]] [[H9005\|לְ]][[H7651\|שִׁבְעַ֣ת]] [[H9009\|הַ]][[H3117G\|יָּמִ֑ים]] [[H9002\|וּ]][[H4325G\|מֵ֣י]] [[H9009\|הַ]][[H3999\|מַּבּ֔וּל]] [[H1961\|הָי֖וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic RAIN|RAIN]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.7.9|<< Genesis 7:9]]</td><td align="center" style="border:none;">[[Gen.7|Genesis 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.7.11|Genesis 7:11 >>]]</td></tr></table>
 

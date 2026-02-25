@@ -1,8 +1,65 @@
+---
+title: Isaiah 25:6
+type: Verse
+kjv: "And in this mountain shall the LORD of hosts make unto all people a feast of fat things, a feast of wines on the lees, of fat things full of marrow, of wines on the lees well refined."
+bsb: "On this mountain the LORD of Hosts will prepare a lavish banquet for all the peoples, a feast of aged wine, of choice meat, of finely aged wine."
+hebrew: "וְעָשָׂה֩ יְהוָ֨ה צְבָא֜וֹת לְכָל־ הָֽעַמִּים֙ בָּהָ֣ר הַזֶּ֔ה מִשְׁתֵּ֥ה שְׁמָנִ֖ים מִשְׁתֵּ֣ה שְׁמָרִ֑ים שְׁמָנִים֙ מְמֻ֣חָיִ֔ם שְׁמָרִ֖ים מְזֻקָּקִֽים׃"
+pericope: "[[Isa.25.1 Praise to the Victorious God|Praise to the Victorious God]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 25
+book/chapter: "[[Isa.25|Isaiah 25]]"
+chronological_order: 668
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FAT|FAT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEES|LEES]]"
+- "[[topic REFINING|REFINING]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9003]]"
+- "[[H2022G]]"
+- "[[H2088]]"
+- "[[H4960]]"
+- "[[H8081]]"
+- "[[H8105]]"
+- "[[H4229C]]"
+- "[[H2212]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 25:6**<big><big>[[Isa.25.1 Praise to the Victorious God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in this mountain shall the LORD of hosts make unto all people a feast of fat things, a feast of wines on the lees, of fat things full of marrow, of wines on the lees well refined.
 <small><sub>**BSB:**</sub></small>
 On this mountain the LORD of Hosts will prepare a lavish banquet for all the peoples, a feast of aged wine, of choice meat, of finely aged wine.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213H\|עָשָׂה֩]] [[H3068G\|יְהוָ֨ה]] [[H6635B\|צְבָא֜וֹת]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָֽ]][[H5971A\|עַמִּים֙]] [[H9003\|בָּ]][[H2022G\|הָ֣ר]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H4960\|מִשְׁתֵּ֥ה]] [[H8081\|שְׁמָנִ֖ים]] [[H4960\|מִשְׁתֵּ֣ה]] [[H8105\|שְׁמָרִ֑ים]] [[H8081\|שְׁמָנִים֙]] [[H4229C\|מְמֻ֣חָיִ֔ם]] [[H8105\|שְׁמָרִ֖ים]] [[H2212\|מְזֻקָּקִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic FAT|FAT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEES|LEES]] • [[topic REFINING|REFINING]] • [[topic SALVATION|SALVATION]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.25.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.25.5|<< Isaiah 25:5]]</td><td align="center" style="border:none;">[[Isa.25|Isaiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.25.7|Isaiah 25:7 >>]]</td></tr></table>
 

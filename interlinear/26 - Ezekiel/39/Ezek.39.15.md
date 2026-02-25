@@ -1,8 +1,64 @@
+---
+title: Ezekiel 39:15
+type: Verse
+kjv: "And the passengers that pass through the land, when any seeth a man’s bone, then shall he set up a sign by it, till the buriers have buried it in the valley of Hamongog."
+bsb: "As they pass through the land, anyone who sees a human bone will set up a pillar next to it, until the gravediggers have buried it in the Valley of Hamon-gog."
+hebrew: "וְעָבְר֤וּ הָעֹֽבְרִים֙ בָּאָ֔רֶץ וְרָאָה֙ עֶ֣צֶם אָדָ֔ם וּבָנָ֥ה אֶצְל֖וֹ צִיּ֑וּן עַ֣ד קָבְר֤וּ אֹתוֹ֙ הַֽמְקַבְּרִ֔ים אֶל־ גֵּ֖יא הֲמ֥וֹן גּֽוֹג׃"
+pericope: "[[Ezek.39.1 The Slaughter of Gog’s Armies|The Slaughter of Gog’s Armies]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 39
+book/chapter: "[[Ezek.39|Ezekiel 39]]"
+chronological_order: 830
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic HAMON-GOG|HAMON-GOG]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H9009]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H7200G]]"
+- "[[H6106G]]"
+- "[[H0120G]]"
+- "[[H1129]]"
+- "[[H0681]]"
+- "[[H9033]]"
+- "[[H6725]]"
+- "[[H5704]]"
+- "[[H6912]]"
+- "[[H0853]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1516N]]"
+- "[[H1996]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 39:15**<big><big>[[Ezek.39.1 The Slaughter of Gog’s Armies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the passengers [that] pass through the land, when [any] seeth a man’s bone, then shall he set up a sign by it, till the buriers have buried it in the valley of Hamongog.
 <small><sub>**BSB:**</sub></small>
 As they pass through the land, anyone who sees a human bone will set up a pillar next to it, until the gravediggers have buried it in the Valley of Hamon-gog.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5674A\|עָבְר֤וּ]] [[H9009\|הָ]][[H5674A\|עֹֽבְרִים֙]] [[H9003\|בָּ]][[H0776G\|אָ֔רֶץ]] [[H9001\|וְ]][[H7200G\|רָאָה֙]] [[H6106G\|עֶ֣צֶם]] [[H0120G\|אָדָ֔ם]] [[H9001\|וּ]][[H1129\|בָנָ֥ה]] [[H0681\|אֶצְל֖]][[H9033\|וֹ]] [[H6725\|צִיּ֑וּן]] [[H5704\|עַ֣ד]] [[H6912\|קָבְר֤וּ]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H9009\|הַֽ]][[H6912\|מְקַבְּרִ֔ים]] [[H0413\|אֶל]][[H9014\|־]] [[H1516N\|גֵּ֖יא]] [[H1996\|הֲמ֥וֹן]] [[H1996\|גּֽוֹג]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURIAL|BURIAL]] • [[topic HAMON-GOG|HAMON-GOG]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.14|<< Ezekiel 39:14]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.16|Ezekiel 39:16 >>]]</td></tr></table>
 

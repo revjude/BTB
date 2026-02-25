@@ -1,8 +1,72 @@
+---
+title: Jeremiah 7:14
+type: Verse
+kjv: "Therefore will I do unto this house, which is called by my name, wherein ye trust, and unto the place which I gave to you and to your fathers, as I have done to Shiloh."
+bsb: "therefore what I did to Shiloh I will now do to the house that bears My Name, the house in which you trust, the place that I gave to you and your fathers."
+hebrew: "וְעָשִׂ֜יתִי לַבַּ֣יִת׀ אֲשֶׁ֧ר נִֽקְרָא־ שְׁמִ֣י עָלָ֗יו אֲשֶׁ֤ר אַתֶּם֙ בֹּטְחִ֣ים בּ֔וֹ וְלַ֨מָּק֔וֹם אֲשֶׁר־ נָתַ֥תִּי לָכֶ֖ם וְלַאֲבֽוֹתֵיכֶ֑ם כַּאֲשֶׁ֥ר עָשִׂ֖יתִי לְשִׁלֽוֹ׃"
+pericope: "[[Jer.7.1 Jeremiah’s Message at the Temple Gate|Jeremiah’s Message at the Temple Gate]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 7
+book/chapter: "[[Jer.7|Jeremiah 7]]"
+chronological_order: 724
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H1004B]]"
+- "[[H9015]]"
+- "[[H0834A]]"
+- "[[H7121H]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H0859D]]"
+- "[[H0982]]"
+- "[[H9003]]"
+- "[[H9002]]"
+- "[[H4725]]"
+- "[[H5414G]]"
+- "[[H9036]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H7887]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 7:14**<big><big>[[Jer.7.1 Jeremiah’s Message at the Temple Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore will I do unto [this] house, which is called by my name, wherein ye trust, and unto the place which I gave to you and to your fathers, as I have done to Shiloh.
 <small><sub>**BSB:**</sub></small>
 therefore what I did to Shiloh I will now do to the house that bears My Name, the house in which you trust, the place that I gave to you and your fathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213A\|עָשִׂ֜יתִי]] [[H9005\|לַ]][[H1004B\|בַּ֣יִת]][[H9015\|׀]] [[H0834A\|אֲשֶׁ֧ר]] [[H7121H\|נִֽקְרָא]][[H9014\|־]] [[H8034\|שְׁמִ֣]][[H9020\|י]] [[H5921A\|עָלָ֗י]][[H9033\|ו]] [[H0834A\|אֲשֶׁ֤ר]] [[H0859D\|אַתֶּם֙]] [[H0982\|בֹּטְחִ֣ים]] [[H9003\|בּ֔]][[H9033\|וֹ]] [[H9002\|וְ]][[H9005\|לַ֨]][[H4725\|מָּק֔וֹם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414G\|נָתַ֥תִּי]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H9002\|וְ]][[H9005\|לַ]][[H0001G\|אֲבֽוֹתֵי]][[H9026\|כֶ֑ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H6213A\|עָשִׂ֖יתִי]] [[H9005\|לְ]][[H7887\|שִׁלֽוֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic TABERNACLE|TABERNACLE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.13|<< Jeremiah 7:13]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.15|Jeremiah 7:15 >>]]</td></tr></table>
 

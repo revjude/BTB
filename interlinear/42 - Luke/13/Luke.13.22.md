@@ -1,10 +1,51 @@
+---
+title: Luke 13:22
+type: Verse
+kjv: "And he went through the cities and villages, teaching, and journeying toward Jerusalem."
+bsb: "Then Jesus traveled throughout the towns and villages, teaching as He made His way toward Jerusalem."
+greek: "Καὶ διεπορεύετο κατὰ πόλεις καὶ κώμας διδάσκων καὶ πορείαν ποιούμενος εἰς Ἱεροσόλυμα.¶"
+pericope: "[[Luke.13.22 The Narrow Door|The Narrow Door]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 13
+book/chapter: "[[Luke.13|Luke 13]]"
+chronological_order: 975
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1279]]"
+- "[[G2596]]"
+- "[[G4172]]"
+- "[[G2968]]"
+- "[[G1321]]"
+- "[[G4197]]"
+- "[[G4160G]]"
+- "[[G1519]]"
+- "[[G2414]]"
+texts:
+- NKO
+---
+
 **Luke 13:22**<big><big>[[Luke.13.22 The Narrow Door|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he went through the cities and villages, teaching, and journeying toward Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Then Jesus traveled throughout the towns and villages, teaching as He made His way toward Jerusalem.
-<small><sub>**Literal:**</sub></small>
-And He was going through by towns and villages teaching and progress making toward Jerusalem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.21|<< Luke 13:21]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.23|Luke 13:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1279\|διεπορεύετο]]  [[G2596\|κατὰ]]  [[G4172\|πόλεις]]  [[G2532\|καὶ]]  [[G2968\|κώμας]]  [[G1321\|διδάσκων]]  [[G2532\|καὶ]]  [[G4197\|πορείαν]]  [[G4160G\|ποιούμενος]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.21|<< Luke 13:21]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.23|Luke 13:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
